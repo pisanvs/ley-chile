@@ -1,0 +1,3 @@
+Por resolución Nº 1.517, de 11 de agosto de 1999, de esta Subsecretaría, autorízase a PESQUERA COLOSO S.A. para ampliar las actividades pesqueras extractivas con la nave ''Yumbel'', en orden a que la interesada podrá realizar actividades pesqueras con la nave señalada precedentemente, en el litoral de las I y II Regiones, por fuera del área de reserva artesanal, donde podrá capturar con red de arrastre los recursos hidrobiológicos Jurel fino y Sardina redonda.
+
+Valparaíso, 11 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
