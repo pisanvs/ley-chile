@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 198, de 30 de marzo de 2001, se expropió el lote de terreno Nº 140-5, superficie 145 m2., rol de avalúo 936-2, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria María Margarita Silva Silva, ascendente a la cantidad de $1.039.606.
+
+- Fiscal del Ministerio de Obras Públicas.
