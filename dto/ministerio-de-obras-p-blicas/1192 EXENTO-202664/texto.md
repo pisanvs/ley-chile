@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.192 de fecha 31 de julio del 2002, se expropió el lote de terreno Nº 3-A, superficie 4.582,40 m², Rol Nº 237-41, comuna de Toltén, IX Región para la obra ''Camino Costero Sur, Sector Puente Peule - Límite Regional, tramo By Pass Queule, Km. 0,000 al Km. 5,000'' y se acordó el valor de indemnización con su propietario Severiano Penchulef Trecan, ascendente a la cantidad de $2.178.256.-
+
+Fiscal del Ministerio de Obras Públicas.
