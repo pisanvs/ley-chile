@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.609, de 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 25, 26, 28, 29, 30, 31, 32 y 33, superficies 761 m2., 439 m2., 866 m2., 656 m2., 570 m2., 779 m2., 853 m2. y 1.180 m2., roles de avalúo 512-28, 512-25, 512-29, 512-30 512-31, 512-32, 512-33 y 512-46, comuna de Talagante, para la obra Camino Autopista Santiago - San Antonio, Tramo: Talagante - El Paico, Sector Segmento 3, Sector 5-0, Lado derecho, Región Metropolitana y se acordó el valor de indemnización con su propietario Peters Hermans Shaufler, ascendente a la cantidad total de $50.339.175.-
+
+Fiscal del Ministerio de Obras Públicas.
