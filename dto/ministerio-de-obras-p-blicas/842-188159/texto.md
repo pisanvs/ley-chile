@@ -1,0 +1,3 @@
+Por decreto MOP Nº 842 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 1-B, superficie 1.047 m2, rol de avalúo 5029-42, comuna de Punta Arenas, para la obra "Reposición Ruta 9 y Acc. Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819" y se acordó el valor de indemnización con su propietario Jerónimo Segundo Díaz Barría y otro, ascendente a la cantidad de $16.021.217.-
+
+Fiscal del Ministerio de Obras Públicas.
