@@ -1,0 +1,5 @@
+AUTORIZA A DON ROQUE MOLINA VALDEBENITO, PARA AMPLIAR ACTIVIDADES PESQUERAS Y MODIFICA RESOLUCION No. 351, DE 1984
+
+Por resolución No. 205, de 11 de Marzo de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Roque Molina Valdebenito, R.U.T. No. 4.085.329-4, domiciliado en calle San Miguel No. 60, Talchuano, para procesar en la planta elaboradora autorizada por la resolución No. 351, de 1984, de esta Subsecretaría, ubicada en calle J. Carrasco esquina La Playa s/n° Caleta Lo Rojas, Coronel, Provincia de Concepción, VIII Región, en la línea de congelado, además de los recursos autorizados por la resolución precitada, los siguientes: Cojinova, lisa, pejerrey de mar, raya, róbalo, rollizo, cholga, chorito, lapa, erizo y picoroco. Modifícase el numeral 2° de la Resolución No. 351, en el sentido de dejar establecido que el proceso de congelación de los recursos autorizados a procesar se efectuará en la planta de J. Carrasco, de propiedad del interesado.
+
+Valparaíso, 11 de Marzo de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
