@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 151, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 33-A, superficie 230 m², rol de avalúo 209-423, comuna de Los Alamos, VIII Región, para la obra "Camino Ruta P-46, Sector Los Alamos - Sara de Lebu, Km. 0,00000 al 16,84000" y se acordó el valor de indemnización con su propietario Antonio Aniñir Aniñir, ascendente a la cantidad de $126.982.
+
+- Fiscal del Ministerio de Obras Públicas.
