@@ -1,0 +1,3 @@
+Por Resolución N° 816, de 5 de Septiembre de 1994 de SERVIU Metropolitano ordenóse expropiación, conforme D.L. N° 2.186 de 1978, del inmueble ubicado en Avda. Marathón N° 1689, presunto rol de avalúos N° 6315-58 comuna de Ñuñoa, aparente dominio de doña Berta Zamorano Avilés. Comisión integrada por peritos Sres. Roberto Correa Bezanilla y Jorge Felipe Cádiz Bouch, arquitectos; y Luis Rojas Quezada, constructor civil, según informe de 10 de Junio de 1994, fijó monto provisional indemnización en $8.135.000.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
