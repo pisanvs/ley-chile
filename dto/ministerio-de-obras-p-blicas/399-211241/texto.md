@@ -1,0 +1,5 @@
+Por decreto MOP Nº 399, de 28 de abril de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 167-A1 y 167-A2 para la obra: "Concesión Internacional Ruta 5. Tramo: Santiago - Talca y Acceso Sur a Santiago. Sector:
+
+Km. 68.400,00 al Km. 95.600,00. By Pass Rancagua", Sexta Región, que figuran a nombre de Vera Durán Samuel, rol de avalúo 36-497, comuna de Requinoa, superficies de 4.124 m2 y 1.778 m2, respectivamente. La comisión de peritos integrada por los señores Orlando Antonio Fariña Vásquez, Manuel Hernán Díaz Farfán y René Octavio Corvalán Correa, fijó con fecha 4 de abril de 2003, el valor provisional de la indemnización en las cantidades de $14.065.365.- y $6.311.243.- para el lote Nº 167-A2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
