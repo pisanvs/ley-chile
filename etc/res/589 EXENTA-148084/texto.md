@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero, mediante Resolución Exenta No. 589, de 13 de Mayo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "El Matorral" y "Resto del Fundo Los Castaños" de la comuna de Curicó, VII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 16, sitios 1, 2 y 4 al 31 del Proyecto de Parcelación "Los Castaños" formado entre otros por predios señalados. Los Derechos de Agua se extraen de los Canales El Peumo y La Obra de Arriba derivados del Río Lontué.- Publicación hecha conforme Art. 13 Ley No. 18.3T/.-
+
+Director Ejecutivo.
