@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 3.603, 6 octubre 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Camino a Hualqui St. 9, Rol de Avalúo Nº 3121-5 comuna Chiguayante, superficie 14,25 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R-19.221, de aparente dominio de Coop. Viv. Hab. Las Delicias Ltda., para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Hernán Cáceres Moscoso, ingeniero civil, Miguel Bonifetti Dall'Orso, arquitecto, y Mario Bellolio Bosticca, arquitecto, según informe de fecha 24 de septiembre de 2004, fijó monto provisional indemnización en $848.146.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
