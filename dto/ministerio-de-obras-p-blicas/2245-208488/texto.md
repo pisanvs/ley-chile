@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.245, de 17 de diciembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 219 y 221 para la obra: "Concesión Internacional Ruta 5. Tramo: Santiago - Talca y Acceso Sur A Santiago. Sector: Km. 68.400,00 al Km.
+
+95.600,00. By-Pass Rancagua", Sexta Región, que figuran a nombre de Ortiz Jerez Edith y otros, rol de avalúo 36-433, comuna de Requinoa, superficies de 5.619 m2 y 461 m2, respectivamente. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Jaime Rolando Jürgens Bittner y Eduardo Alejandro Silva Aracena, fijó con fecha 14 de octubre de 2002, el valor provisional de la indemnización en las cantidades de $29.734.276.- para el lote Nº 219 y $2.048.000.- para el lote Nº 221 La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
