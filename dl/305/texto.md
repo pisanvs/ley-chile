@@ -1,0 +1,1 @@
+Aclara el fundamento de la puesta en vigencia del decreto 1.030, de 25 de mayo de 1971, de Hacienda.
