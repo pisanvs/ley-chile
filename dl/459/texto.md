@@ -8,85 +8,155 @@ Decreto ley:
 
 #### Artículo 1°
 
-Fíjanse las siguientes Plantas del Instituto Antártico Chileno:
+Fíjase para los trabajadores del Instituto Antártico Chileno, de conformidad con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Única:
 
-a) PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+--------------------------------------------------------
 
-Grados Designación N° de Empleados
+Nombre del Cargo Grado de la
 
-- PLANTA DIRECTIVA
+Escala Única
 
-Grado 5 Director 1
+--------------------------------------------------------
 
-Grado 6 Sub-Director Técnico 1
+PLANTA DIRECTIVA PROFESIONAL Y TECNICA
 
-Grado 7 Sub-Director Científico 1
+-------------------------------------------------------------
 
-Grado 7 Asesor Jurídico 1
+Nº Grado
 
-- PLANTA PROFESIONAL Y TECNICA
+Cargos Cargos E.U.S. Nivel
 
-Grado 8 Jefe Depto. Técnico 1
+-------------------------------------------------------------
 
-Grado 10 Jefe Depto. Administrativo 1
+1 Director 2 III Jefe Superior
 
-Grado 12 Jefe Depto. Difusión 1
+del Servicio
 
-Grado 14 Contador Jefe 1
+1 Subdirector Técnico-
 
-Grado 19 Técnico en Comisión 2
+Administrativo 4 III Directivo
 
-Grado 19 Bibliotecaria 1
+Superior
 
-- EXPERTOS
+1 Subdirector Científico 4 III Directivo
 
-Grado 16 Relaciones Públicas 1
+Superior
 
-Grado 16 Asesor Científico 1
+1 Asesor Jurídico 5 I Profesional
 
-Grado 18 Asesor Logístico 1
+1 Jefe Depto.
 
-Grado 18 Asesor Administrativo 2
+Administrativo 7 III Directivo
 
-b) PLANTA ADMINISTRATIVA
+1 Jefe Depto. Técnico 7 III Directivo
 
-- OFICIALES ADMINISTRATIVOS
+1 Jefe Depto. Difusión 9 I Jefatura A
 
-Grado 19 Secretaria Bilingüe 1
+1 Jefe Depto.
 
-Grado 20 Secretaria Bilingüe 1
+Contabilidad 9 I Jefatura A
 
-Grado 24 Dactilógrafo 1
+6 Profesionales 5 I Profesionales
 
-Grado 24 Guarda Almacén 1
+4 Profesionales 6 I Profesionales
 
-Grado 24 Ayudante Contabilidad 1
+4 Profesionales 7 I Profesionales
 
-Grado 26 Oficial Administrativo 1
+3 Profesionales 9 III Profesionales
 
-Grado 28 Oficial Administrativo 1
+2 Profesionales 10 III Profesionales
 
-El o los cargos de grado 28 se transformarán en grado 31 a medida que vayan quedando vacantes.
+1 Coordinador Comisión
 
-c) PLANTA DE SERVICIOS MENORES
+Antártica 10 II Jefatura A
 
-- AUXILIARES
+1 Jefe Oficina Regional 10 II Jefatura A
 
-Grado 25 Mayordomo 1
+1 Jefe Centro
 
-Grado 26 Auxiliares 1
+Documentación 14 II Jefatura B
 
-Grado 27 Auxiliares 1
+1 Relacionador
 
-Grado 28 Auxiliares 1
+Público 14 II Relacionador
 
-Grado 29 Auxiliares 1
+Público
 
-Grado 30 Auxiliares 1
+1 Jefe Secretaría
 
-Total General 29
+Científica 15 I Jefatura C
 
-El o los cargos de grado 30 se transformarán en grado 35 a medida que vayan quedando vacantes.
+1 Contador 15 I Contador
+
+1 Jefe Sección 17 II Jefatura C
+
+1 Jefe Oficina Secretaría 17 II Jefatura C
+
+1 Contador 18 III Contador
+
+------
+
+37
+
+PLANTA ADMINISTRATIVA
+
+1 Oficial Administrativo 19 I Oficial
+
+Administrativo
+
+1 Oficial Administrativo 20 I Oficial
+
+Administrativo
+
+1 Oficial Administrativo 21 I Oficial
+
+Administrativo
+
+1 Oficial Administrativo 22 II Oficial
+
+Administrativo
+
+1 Oficial Administrativo 23 II Oficial
+
+Administrativo
+
+1 Oficial Administrativo 24 II Oficial
+
+Administrativo
+
+1 Oficial Administrativo 25 II Oficial
+
+Administrativo
+
+------
+
+7
+
+SERVICIOS MENORES
+
+-------------------------------------------------------------
+
+Nº Grado
+
+Cargos Cargos E.U.S. Nivel
+
+-------------------------------------------------------------
+
+1 Mayordomo 22 I Mayordomo
+
+1 Auxiliar 25 I Auxiliares
+
+1 Auxiliar 26 I Auxiliares
+
+1 Auxiliar 27 I Auxiliares
+
+1 Auxiliar 28 I Auxiliares
+
+1 Auxiliar 29
+
+------
+
+6
 
 #### Artículo 2°
 
