@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 122, de 29 de febrero de 1996, se expropiaron los lotes de terreno N°s. 39 y 40, superficies 3.510 M2. y 6.858 M2., rol de avalúo 529-80, comuna de Cauquenes, para la obra Camino Cauquenes Límite Regional Quirihue, sector Cuesta y se acordó precio de indemnización con su propietario Silvio Candia Pérez, ascendente a la cantidad de $1.050.428.
+
+- Fiscal del Ministerio de Obras Públicas.
