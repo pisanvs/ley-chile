@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 134 de fecha 27 de febrero del 2004, se expropiaron los lotes de terreno Nº s 51-A, 52-A y 53-A, superficies 1.138, 149 y 1.135 m2, respectivamente, Roles Nº 609-30 y 608-13, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz - Yaquil, Rol I-730, Km. 0.00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietario Jorge Urzúa Rencoret, ascendente a la cantidad de $5.624.300.-
+
+Fiscal del Ministerio de Obras Públicas.
