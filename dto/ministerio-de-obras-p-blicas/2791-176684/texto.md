@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.791, de 30 de junio de 2000, se expropió el lote de terreno Nº 4, superficie 380 m², rol de avalúo en trámite, comuna de Punitaqui, para la obra Concesión Internacional Ruta 5. Tramo: Los Vilos - La Serena, Sector C: Mantos de Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietario Uberlinda Eliana Ahumada Ahumada, ascendente a la cantidad de $1.131.175.-
+
+Fiscal del Ministerio de Obras Públicas.
