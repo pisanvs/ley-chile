@@ -1,0 +1,5 @@
+por resolución N° 369 de 14 de Abril de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA LANDES S.A. R.U.T. N° 92.387.000-8, para ampliar actividades pesqueras extractivas, autorizadas por las Resoluciones N° 102 y N° 156, ambas de 1980 y N° 1.115, de 1988, todas de esta Subsecretaría, en orden a operar la nave "Silvia", matrícula N° 2204, de Valparaíso, autorizada por las Resoluciones señaladas precedentemente, en el área de pesca correspondiente al litoral de la VIII Región, donde podrá extraer con red de cerco, los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Bonito, Caballa, Machuelo y Merluza de cola.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de Abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
