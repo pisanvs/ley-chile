@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 183, de 28 de febrero de 1997, se expropió el lote de terreno Nº 52, superficie 4.992,50 M2., rol de avalúo Nº 251-40, comuna de Quinta de Tilcoco, para la obra Camino Quinta de Tilcoco Cruce Ruta 66, sector El Huapi y se acordó precio de la indemnización con su propietario don Carlos Valdés Echeñique, ascendente a la cantidad de $4.070.014.
+
+Fiscal del Ministerio de Obras Públicas.
