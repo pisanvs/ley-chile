@@ -1,0 +1,5 @@
+DERECHOS DE AGUAS EN LA COMUNA DE MAIPU
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.039 de 28 de Junio de 1989, conforme Art. 5° transitorio Código Aguas determinó Derechos Aprovechamiento de Aguas proporcionales que corresponden a sectores excluidos y/o reservas y a sectores expropiados predios "Hijuela Tercera de la División Acordada del Plano de División del Resto del Fundo Loma Blanca", "Hijuela Primera o El Olivo", "Hijuela Segunda o Casas Viejas", "Hijuela Tercera o El Nogal", "Hijuela Cuarta o El Alamo", "Una propiedad ubicada en el camino Pajaritos, que corresponde al Fundo Santa Elena del Gomero", "Hijuela número dos El Rosal" y "Fundo Santa Teresa del Rosal", de la comuna de Maipú, Región Metropolitana y derechos aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 7 y 9 a la 99; sitios N°s. 1 al 36 y No. 38 y reservas Cora No. 1 lote A y No. 2, del Proyecto de Parcelación "El Molino", formado por predios señalados. Los derechos de aguas se extraen del Zanjón de la Aguada, por los canales Loma Blanca y Ortuzano.- Publicación hecha conforme Art. 13, Ley No. 18.377.
+
+Director Nacional.
