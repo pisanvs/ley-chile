@@ -4124,7 +4124,7 @@ e) Que dentro de los cinco días siguientes al sorteo se publicará por una vez,
 
 f) Que los Ínteres y reajustes de los bonos sorteados o amortizados extraordinariamente se devengarán hasta la fecha fijada para esa amortización, y que esos bonos serán pagaderos desde la fecha señalada en la publicación referida en el número precedente.
 
-g) Que podrán tomar parte en las juntas los tenedores de bonos a la orden que figuren inscritas en el registro especial del emisor, con cinco días de anticipación a aquél en que haya de celebrarse la junta respectiva, y los tenedores de bonos al portador que exhiban los títulos correspondientes o los certificados de custodia, en su caso.
+g) Que podrán tomar parte en las juntas de los tenedores de bonos, los titulares de bonos nominativos, a la orden o al portador que se hayan inscrito en los registros especiales del emisor, a lo menos, con 5 días de anticipación al día en que ella deba celebrarse. Remplazará el registro directo de la tenencia de bonos, la circunstancia de exhibir certificados de custodia de dichos valores registrada con la mencionada anticipación.
 
 h) Que en las juntas de tenedores de bonos, corresponderá a cada tenedor un voto por el valor equivalente al bono de menor valor que el emisor haya emitido.
 
@@ -20958,7 +20958,7 @@ a) El monto de la emisión no podrá ser inferior a US$ 50.000.000 o su equivale
 
 b) Los bonos pueden ser emitidos a la orden o al portador.
 
-c) El plazo promedio ponderado no podrá ser inferior a los cuatro años.
+c) El plazo promedio ponderado no podrá ser inferior a los cuatro años, salvo que se trate de bonos subordinados, en cuyo caso no podrá ser inferior al plazo especial que establece la ley para ellos.
 
 d) Debe existir una institución financiera, constituida y domiciliada en el extranjero, de reconocido prestigio, que garantice la colocación del 100% de la emisión.
 
@@ -20980,7 +20980,7 @@ En el caso que se determine liquidar los recursos captados por la colocación de
 
 6.- Información que deberá enviarse a esta Superintendencia.
 
-Las empresas bancarias que coloquen bonos en el exterior deberán hacer llegar a este Organismo, una vez autorizada la emisión por el Banco Central de Chile, los antecedentes pertinentes que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas, con la traducción correspondiente en los casos que corresponda.
+Las empresas bancarias que coloquen bonos en el exterior deberán hacer llegar a este Organismo, una vez autorizada la emisión por el Banco Central de Chile, los antecedentes que resulten pertinentes a la emisión entre aquellos que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas de conformidad con las exigencias dé la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que corresponda.
 
 Junto con esos antecedentes, deberán enviar la constancia de autorización del Banco Central de Chile y la siguiente información cuando ella no aparezca en la escritura pública de emisión;
 
