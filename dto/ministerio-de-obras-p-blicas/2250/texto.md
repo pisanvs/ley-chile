@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.250, de 30 de octubre de 1998, se expropió el lote de terreno Nº 4, superficie 11.323 m², rol de avalúo 838-92, comuna de Parral, para la obra Ruta 5, Tramo Talca - Chillán, Intersección Desnivelada Acceso a las Tinajas y se acordó el valor de la indemnización con su propietario Benito del Carmen Pérez Yáñez, ascendente a la cantidad de $ 19.857.763.-.
+
+- Fiscal del Ministerio de Obras Públicas.
