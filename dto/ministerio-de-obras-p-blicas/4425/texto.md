@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.425, de 29 de septiembre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº32, para la obra Camino Ruta V-505, sector Pto. Varas-Los Alerces-Pto. Montt, Kms 0,000 al 16,340, que figura a nombre de Roberto Moedinger M., rol de avalúo 2183-9, superficie 100 m2., comuna de Puerto Montt. La Comisión de Peritos, fijó con fecha 24 de marzo de 1998, la indemnización provisional en la cantidad de $430.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
