@@ -1,0 +1,5 @@
+Por Resolución N° 620, de 8 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SERVICIOS Y VENTAS S.A., autorizada para realizar actividades pesqueras de procesamiento por Resoluciones N°1.309, de 1991, N°1.179, de 1992, N°399, de 1993, N°425 y N°1.109, ambas de 1995, todas de esta Subsecretaría, en orden a trasladar su planta procesadora ubicada en Avenida España N°285, Valdivia X Región, a la Ribera Norte s/n, Río Pudeto, Purranqui, Ancud, X Región.
+
+Déjase sin efecto las autorizaciones contenidas en las Resoluciones 283, de 1986 y N°1.343, de 1990, ambas de esta Subsecretaría, para la operación de una planta procesadora en la Ribera Norte s/n, Río Pudeto, Purranqui, Ancud, X Región, en virtud de lo dispuesto en la presente Resolución.
+
+Valparaíso, 8 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
