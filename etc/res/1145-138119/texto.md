@@ -1,0 +1,3 @@
+Por resolución Nº 1.145, de 16 de junio de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 772 de 1995, de esta Subsecretaría, que autorizó a JORGE ALFONSO JAIME PRIETO SANCHEZ, para instalar y operar el centro de cultivo ubicado al norte de Puerto Pichidangui, comuna de Los Vilos, Provincia de Choapa, IV Región.
+
+Valparaíso, 16 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
