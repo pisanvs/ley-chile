@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA FRIOSUR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 149, de 17 de Febrero de 1986, modificada por la No. 244 de 13 de Marzo de 1986, ambas de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Friosur Limitada, domiciliaria en Santiago, para procesar en la planta de congelados que opera en Puerto Chacabuco, calle José Marta Caro s/n, XI Región, además de los recursos hidrobiológicos que se mencionan en la Resolución No. 682, de 1985, de la misma Subsecretaria, las siguientes especies: taca, almeja, cholga, chorito, choro zapato, lapa, ostra, centolla, jaiba, picoroco, erizo y loco. La interesada deberá efectuar el transporte de las especies mencionadas desde su centro de abastecimiento hasta la planta elaboradora, en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 13 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
