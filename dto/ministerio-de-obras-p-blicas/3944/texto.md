@@ -1,0 +1,7 @@
+Por decreto MOP Nº 3.944, de 29 de diciembre de
+
+1999, y en base a la facultad, otorgada por los
+
+artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se dejó sin efecto Decreto MOP Nº 2.741 de fecha 24 de septiembre de 1999 publicado en el Diario Oficial con fecha 15 de noviembre de 1999 sólo en lo referido al lote 42-E y se rectificó los numerales 2º, 3º y 7º del citado Decreto; en relación a que las superficies de los lotes Nºs 42-F y 42-G son ''4.599 m² y 16.753 m² respectivamente'' y no como en este se señala; finalmente en cuanto a que la comisión de peritos integrada por los señores Luis Javier Donoso Moreno, Patricio Fernando Casagrande Ulloa y Hugo Wilibaldo Repetto Vera, fijó con fecha 13 de octubre de 1999 el valor provisional de la indemnización en la cantidad de $11.497.500.- para el lote 42-F y con fecha 25 de mayo de 1999 en la cantidad de $48.112.000 para el lote 42-G, complementada esta última suma con fecha 13 de octubre de 1999 en la cantidad de $6.431.980.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
