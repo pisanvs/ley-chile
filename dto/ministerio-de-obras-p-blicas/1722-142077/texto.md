@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.722, de 25 de junio de 1999, se expropió el lote de terreno No. 154-A, superficie 5.866 m2., rol de avalúo 1303-115, comuna de Cabrero, para la obra "Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli", Octava Región y se acordó el valor de indemnización con sus propietarios Ursula Elba Brethauer Meier y otros, ascendente a la cantidad de $ 9.004.639.-
+
+Fiscal del Ministerio de Obras Públicas.
