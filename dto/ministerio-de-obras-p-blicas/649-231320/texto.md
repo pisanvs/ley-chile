@@ -1,0 +1,3 @@
+Por decreto MOP Nº 649 de fecha 29 de julio de 2004, se expropiaron los lotes de terreno Nº 1 y 2, superficies 472 m2 y 8.134 m2, rol de avalúo Nº 1559-101, comuna de Los Angeles, para la obra "Camino Ruta Q-34, Candelaria - La Laja, sector Puente Huaqui, Km. 23,68000 al Km. 24,41220", VIII Región y se acordó el valor de la indemnización con su propieatario Eduardo Alberto Avello Cid, ascendente a la cantidad de $4.460.622.
+
+- Fiscal del Ministerio de Obras Públicas.
