@@ -1,0 +1,3 @@
+Por decreto MOP Nº 290 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 29, superficie 8.695 m², Rol Nº 842-5, comuna de Traiguén, IX Región para la obra "Camino Mejoramiento Ruta R-90-P, sector Traiguén - Lumaco, Km. 0,000 a Km. 21,86933, tramo I, Km. 0,000 al Km. 12,181" y se acordó el valor de indemnización con su propietario José Gilberto Jara Vera o José Jara Vera, ascendente a la cantidad de $3.284.744.- para el lote Nº 29.
+
+- Fiscal del Ministerio de Obras Públicas.
