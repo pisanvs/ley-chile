@@ -1,0 +1,3 @@
+Por resolución Nº 2.366, de 27 de agosto de 2004, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 639 de 2000, de esta Subsecretaría, sólo en cuanto autorizó a SOCIEDAD PESQUERA PACIFICO SUR S.A. para operar la nave "Don Enrique", respecto del recurso hidrobiológico Reineta, en el área marítima comprendida entre la IV Región y el paralelo 41º 28,6'L.S., ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
