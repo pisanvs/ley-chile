@@ -1,0 +1,1 @@
+Modifica el artículo 1° del decreto con fuerza de ley 73°, de 29 de abril de 1953, que modificó la planta y los escalafones de Empleados Civiles de la Armada.
