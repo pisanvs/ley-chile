@@ -1,0 +1,9 @@
+EXPROPIACION, DECRETO EXPROPIATORIO, BIEN RAIZ, BIEN INMUEBLE, PROVIDENCIA, REGION METROPOLITANA
+
+Alcalde (S) I. Municipalidad de Providencia, mediante Decreto Ex. N° 504, de fecha 19 de Marzo de 1993, dispone la expropiación parcial conforme a Arts.
+
+5, 6, 7, 17, 21 y 39 del D.L. 2.186 de 1978, modificado por D.L. 2.869 de 1979, Ley Orgánica de Procedimiento de Expropiaciones; artículos 35°, 38°, 42°, 48°, 51°, 83°, 85° y 90° del D.F.L. N° 458 de Vivienda, de 1976, Ley General de Urbanismo y Construcciones; Art. 19 N° 24 de la Constitución Política del Estado y Art. 5, 10, 29, 58, letra f), 61 y 69, letra b) de la Ley N° 18.695, de 1988, Orgánica Constitucional de Municipalidades, del inmueble singularizado en el Rol de Avalúos del Servicio de Impuestos Internos como Manzana N° 521 esquina sur poniente de calle Carlos Antúnez con Avenida 11 de Septiembre-Providencia, aparentemente de propiedad de Unidad Vecinal Providencia, para dar cumplimiento a lo establecido en el Plan Regulador Comunal de Providencia.
+
+Los deslindes particulares de la franja de terreno que se expropia, según plano confeccionado por el Departamento de Urbanismo de la Dirección de Obras de esta Municipalidad, son los siguientes: al Norte: en 9,50 mts. con Avenida 11 de Septiembre- Providencia; Sur-Poniente: En 16,00 mts, con resto de la propiedad; Oriente: En 11,50 mts. con calle Carlos Antúnez. Indemnización provisional de $ 11.787.500, determinada por la Comisión Tasadora integrada por los Sres. René Ureta Koster, Pablo Risopatrón Garmendia y Luis Rojas Quezada, pagadera al contado.
+
+J.H.R. Alcalde (S), firmado E.V.S.
