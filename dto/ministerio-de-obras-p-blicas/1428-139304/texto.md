@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.428, de 31 de mayo de 1999, se expropiaron los lotes de terrenos Nºs. 374-A y 375, superficies 2.730,6 m² y 916,0 m², rol de avalúo 254-53, comuna de Los Lagos, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietaria I. Municipalidad Los Lagos, ascendente a la cantidad total de $10.378.040.-
+
+Fiscal del Ministerio de Obras Públicas.
