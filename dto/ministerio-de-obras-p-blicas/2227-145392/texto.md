@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.227, de 19 de agosto de 1999, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1, 2, 3 y 5, para la ejecución de la obra Camino Circunvalación Américo Vespucio, Sector Rotonda Grecia, que figuran a nombre de Perla Alarcón Jordan y otros; Juan González Campusano y otros y Fernando Kaminski Huber y otros, roles de avalúo 5770-1 al 5770-144; 5970-1 al 5970-112 y 6170-1 al 6170-96, comuna de Ñuñoa, Provincia de Santiago, Región Metropolitana, superficies 45,53; 180,98; 68,93 y 53,00 m2. La Comisión de Peritos compuesta por Ramón Undurraga Montes, Jorge Navarro Navarrete y Patricia Zavala Contreras, fijó con fecha 9 de noviembre de 1998, el valor provisional de las indemnizaciones en la cantidad de $2.310.648, lote 1;
+
+$9.684.735, lote 2; $3.498.198, lote 3 y $2.689.750, lote 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
