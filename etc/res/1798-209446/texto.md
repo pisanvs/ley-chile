@@ -1,0 +1,3 @@
+Por resolución Nº 1.798, de 22 de agosto 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Los Molinos, Sector A, X Región, individualizada en el artículo 1º letra a) del D.S. Nº 223, de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS MARISCADORES PESCADORES ARTESANALES Y ACTIVIDADES SIMILARES DE CALETA LOS MOLINOS.
+
+Valparaíso, 22 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
