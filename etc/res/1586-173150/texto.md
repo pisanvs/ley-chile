@@ -1,0 +1,3 @@
+Por resolución Nº1.586, de 17 de julio de 2000, deniégase la solicitud de autorización de acuicultura Nº97102001, presentada por SONIA ANGELICA CAMPOS NUÑEZ, para operar un centro de cultivo en río Enco, comuna de Panguipulli, provincia de Valdivia, X Región, conforme lo dispuesto en el artículo 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
