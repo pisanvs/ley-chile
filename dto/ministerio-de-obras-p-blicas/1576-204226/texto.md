@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.576 de 16 de septiembre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº11 para la obra: Camino Ruta O-50, Sector Cabrero-Copiulemu, Tramo Km. 0,00000 a Km. 46,33803, que figura a nombre de Vega González Eloísa, rol de avalúo 260-53, comuna de Florida, VIII Región, superficie 378m2. La comisión de peritos fijó con fecha 10 de julio de 2000, el monto de la indemnización provisional en la cantidad de $3.200.000.- para el lote Nº11. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
