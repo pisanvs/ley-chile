@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 229, de 30 de Julio de 1993, se expropiaron los lotes de terreno N°s. 10, 13, 13-A, 18 y 21, superficies 8.743 m2., 23.417 m2., 4.415 m2, 46.369 m2. y 10.143 m2., roles de avalúo 128-100, 128-82, 129-69 y 129-54, Comuna El Carmen, para la obra Canal Laja-Diguillín, sector Pal-Pal-Diguillín y se acordó precio de indemnización con sus propietarios Arnaldo del C. Herrera Herrera, Helia del Carmen Sandoval Stevens, Hilda Stevens Bassaletti, José Eduardo Guiñez Herrera y Juan Antonio San Martín Venegas, ascendente a las cantidades de $ 5.255.531.-, $ 1.414.550.-, $ 335.296.-, $ 3.018.159.- y $ 403.456.-, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
