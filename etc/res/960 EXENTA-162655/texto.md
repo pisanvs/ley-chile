@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resoluciones exentas N°s. 1.253 del 30 de Agosto de 1984 y 960 del 26 de Julio de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las parcelas N°s. 1 a la 4 del proyecto de parcelación "Socos" formado por el predio "Las Lechuzas" y sus derechos a la Comunidad Barraza, ubicado en la comuna de Ovalle, provincia de Limarí, IV Región. Los derechos de agua se extraen del Estero Punitaqui y del Pozo Somero existente en la Parcela N° 2.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
