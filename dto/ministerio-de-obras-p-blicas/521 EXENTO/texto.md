@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 521 de 30 de mayo de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 60-D y 108 para la obra: Camino San Fernando - Roma, Rol I-301; I-255; I-151, Km.
+
+0,000 a Km. 10,954264, que figuran a nombre de Becerra Soto Armando del Carmen y Román Medina Margarita L., Rol de Avalúo 285-125 y 281-22, comuna de San Fernando, VI Región, superficies 273 m2 y 6 m2. La Comisión de Peritos, fijó con fecha 20 de septiembre de 2000 y 26 de agosto del 2002, el monto de la indemnización provisional en la cantidad de $1.366.500.-, para el lote Nº 60-D y $248.000.- para el lote Nº 108. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
