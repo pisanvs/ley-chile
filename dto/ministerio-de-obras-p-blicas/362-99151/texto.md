@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 362, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nº s 11 y 75, superficies 355 M2. y 120 M2., roles de avalúos en trámite, comuna de Navidad, obra Camino Ruta G.888, sector Rapel Navidad-La Boca y se acordó precio de indemnización con sus propietarios Horacio Maldonado Mondaca y Raúl Farías Meléndez, ascendente a las cantidades de $ 552.299 y $ 8.191.117.-
+
+Fiscal del Ministerio de Obras Públicas.
