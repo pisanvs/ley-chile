@@ -1,0 +1,3 @@
+Por decreto MOP Nº877, de fecha 30 de septiembre de 2004, se expropio el lote de terreno Nº26, superficie 102 m2, rol de avalúo Nº1372-14, comuna de Antofagasta, para la obra ''Mejoramiento Av. Salvador Allende, Tramo Avda. Circunvalación-Avda. Sarmiento'', II Región y se acordó el valor de la indemnización con su propietario Eugenio Armando Bolados Vargas, ascendente a la cantidad de $25.758.765.-
+
+Fiscal del Ministerio de Obras Públicas.
