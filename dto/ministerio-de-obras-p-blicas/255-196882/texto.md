@@ -1,0 +1,3 @@
+Por decreto MOP Nº 255 de fecha 18 de marzo del 2002, se expropió el lote de terreno Nº 27-B, superficie 64 m2., rol en trámite, comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietaria Juana María Sylvia Heredia Gallegos, ascendente a la cantidad de $365.378.-
+
+Fiscal del Ministerio de Obras Públicas.
