@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 1.425, de fecha 26 de Octubre de 1987, de la Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido de la variante N° 48-B, "Población La Bandera-Radal-Platón", de la Línea de Buses N° 48 "Central-Ovalle", otorgado en concesión a la Asociación de Dueños de Buses Central Ovalle N° 1 Asociación Gremial, mediante resolución exenta N° 68 de 23 de Enero de 1986, el cual pasará a constituir una nueva Línea de Buses, cuyo trazado e individualización quedará como sigue:
+
+LINEA DE BUSES N° 84 "CENTRAL-GRAN AVENIDA" Troncal N° 84 "Población Barea - Gran Avenida - Villa España" Ida: Desde su terminal en Santa Aída con La Frontera, continúa por Santa Aída - Brisas del Río - Carmen Lidia - Lo Espinoza - Carrascal - Radal - Av. Libertador Bernardo O'Higgins - Arturo Prat - Placer - San Diego - Gran Av. José Miguel Carrera - Vicuña Mackenna - Covarrubias - Los Aviadores - San Francisco - General Franco - Los Andes-Antonio Machado - Los Almendros - General Franco hasta Almirante Latorre, su terminal.
+
+Regreso: Desde su terminal en General Franco con Almirante Latorre, continúa por General Franco - Los Andes - Antonio Machado-Los Almendros - General Franco - San Francisco - Los Aviadores - Covarrubias - Riquelme - Gran Av. José Miguel Carrera - San Diego - Victoria - Lord Cochrane - 10 de julio - Dieciocho - Av. Libertador Bernardo O'Higgins - General Velásquez - Ecuador - Radal - Carrascal - Lo Espinoza - Carmen Lidia - La Frontera hasta Santa Aída, su terminal.
+
+Santiago, 05 de Noviembre de 1987.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
