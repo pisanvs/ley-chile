@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.244, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 46 y 47-A, superficies 515 y 157 m² respectivamente, roles de avalúo 138-41 y 138-44, comuna de Malloa, para la obra Camino Malloa-Tunca por Corcolén y se acordó precio de indemnización con su propietario Heriberto Piña Valencia, ascendente a la cantidad de $2.366.065.
+
+- Fiscal del Ministerio de Obras Públicas.
