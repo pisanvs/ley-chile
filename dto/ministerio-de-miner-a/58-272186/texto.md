@@ -6,8 +6,6 @@ Núm. 58.- Considerando: que es necesario centralizar en un solo organismo consu
 
 Decreto:
 
-> **Nota.** El Decreto 85, Minería, publicado el 19.11.1975, pone término a la Comisión Jurídica del Cobre, creada por la presente norma. Asimismo, pone término, a las comisiones de servicio de los abogados que la formaban, los cuales deben reincorporarse a los servicios a que pertenezcan.
-
 #### Artículo 1
 
 o.- Créase una Comisión Jurídica del Cobre, destinada a asesorar al Supremo Gobierno en la solución de los problemas que en el plano internacional se produzcan, con motivo de la nacionalización del cobre de la Gran Minería.
