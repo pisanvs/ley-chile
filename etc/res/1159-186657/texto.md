@@ -1,0 +1,3 @@
+Por resolución Nº 1.159 de 13 de junio de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97101099 presentada por SALVADOR ENRIQUE PAREDES GALLARDO, para un centro de cultivo en Canal Hornopirén, Sector Desembocadura de Río Negro, Comuna de Hualaihué, Provincia de Palena, X Región.
+
+Valparaíso, 13 de junio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
