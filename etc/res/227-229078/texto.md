@@ -1,0 +1,7 @@
+PRORROGA VIGENCIA DE CONTRATO DE CONCESION PARA PLANTA DE REVISION TECNICA QUE INDICA
+
+Por resolución Nº 227, de fecha 5 de agosto de 2004 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, XII Región, prorrógase en forma extraordinaria la vigencia del contrato de concesión para operar en el establecimiento que practica revisión técnica de vehículo clase AB en la ciudad de Porvenir, Región de Magallanes, celebrado con el señor Luis Muñoz Muñoz, de fecha 22 de junio de 1999, aprobado por resolución Nº 044-99 de esta Secretaría Regional de Transportes y Telecomunicaciones de por el plazo de 8 meses, a contar del 6 de agosto de 2004, o hasta que la demanda del servicio de revisión técnica pueda ser adecuadamente satisfecha con la operación de todos o parte de los establecimientos que se concesionen en la Región de Magallanes, lo que será determinado por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, mediante resolución fundada; cualquiera de los hechos que ocurra primero.
+
+En virtud de esta prórroga, se mantienen vigentes las demás estipulaciones, derechos, obligaciones, procedimientos, así como las garantías que se completan en el contrato que se prorroga, según consta de la convención de prórroga que se acompaña y que forma parte integrante de la presente resolución.
+
+- Gustavo Faraldo Iriarte, Secretario Regional Ministerial de Transportes y Telecomunicaciones XII Región.
