@@ -1,0 +1,3 @@
+Por resolución N° 1.076, de 13 de Noviembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a Pesquera San José S.A. R.U.T. N° 96.535.470-0, para continuar desarrollando las actividades pesqueras autorizadas a PESQUERA SAN JOSE DEL SUR S.A., mismo R.U.T. y domicilio, por resoluciones N° 14, N° 177 y N° 1.370 de 1989; N° 194, de 1990; N° 239, N° 330, N° 582 y N° 583, de 1992, todas de esta Subsecretaría, atendido el cambio de razón social de que da cuenta la escritura pública de fecha 21 de abril de 1992.
+
+Valparaíso, 13 de Noviembre de 1992.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
