@@ -1,0 +1,5 @@
+Por decreto MOP Nº 675, de 30 de junio de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 60 para la obra: "Sistema Norte - Sur. Tramo F: Carlos Valdovinos -
+
+Río Mapocho. Sector: Km. 2.100,00 al Km. 2.400,00", Región Metropolitana, que figura a nombre de Romero Montecinos Enedina, rol de avalúo 3213-14, comuna de Quinta Normal, superficie 75 m². La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Itsang Lu Chen y Mufida Viola Abuawad Elías, fijó con fecha 2 de junio de 2003, el valor provisional de la indemnización en la cantidad de $16.304.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
