@@ -1,0 +1,5 @@
+﻿ Palacio Directorital, Mayo 19 de 1818.
+
+Reconocido el Gobierno al distinguido servicio que ha hecho al Estado el virtuoso paisano Francisco Moya, esponiendo su vida con la resolucion mas heróica, por salvar la del benemérito oficial don Juan Elde, que sin sus auxilios habria sido víctima de su deplorable situacion; dispone se den las gracias al Comandante del batallon número 8, i su honorable oficialidad por la gratificacion de cien pesos, i asignacion de ocho mensuales, que han dispensado a Moya; reservándose el Gobierno para cuando los jefes de los Partidos remitan la razon, que se les tiene pedida, de los fondos secuestrados, designarles en el lugar de su residencia una suerte de tierras, con que pueda mas cómodamente subsistir; i segun tiene deliberado ejecutarlo, respecto a los que mas se distinguieron en la memorable jornada del cinco de Abril.
+
+I para satisfaccion del interesado, publíquense en la Gazeta el oficio del Comandante, el del Jeneral en Jefe i este Decreto.- O'Higgins.- Infante.
