@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.508, de 29 de septiembre de 2000, se expropió el lote de terreno Nº189, superficie 84 m², rol de avalúo 5883-14, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Juana de Dios Garrido Muñoz, ascendente a la cantidad de $14.054.191.-
+
+Fiscal del Ministerio de Obras Públicas.
