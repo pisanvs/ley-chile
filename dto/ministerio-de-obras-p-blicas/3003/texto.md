@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.003, de 30 de septiembre de 1999, se expropió el lote de terreno Nº 21, superficie 7.266 m2., rol de avalúo 24-91, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los Andes, Sector ''G'' By Pass Los Andes, Auco - Pocuro, Quinta Región y se acordó el valor de indemnización con su propietario Gonzalo Jorge Rojas Larrañaga, ascendente a la cantidad de $14.089.386.
+
+- Fiscal del Ministerio de Obras Públicas.
