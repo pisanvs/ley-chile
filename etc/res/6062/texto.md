@@ -1,0 +1,17 @@
+EXCEPCIONA A REPRESENTACIONES E INGENIERIA LTDA. DEL CAMBIO DE SUJETO DEL IVA, ESTABLECIDO EN LA RESOLUCION No. EX. 328, DE 1977
+
+Núm. 6.062.- Las Condes, 29 de Marzo de 1989.- Vistos: La solicitud de fecha 08 de noviembre de 1988, presentada por el contribuyente individualizado anteriormente, por la que pide excepcionarse del cambio de sujeto del IVA, dispuesto en la resolución No. 328 de 1977, modificada por la resolución No. Ex. 1.031 de fecha 30 de julio de 1979, de la Dirección Nacional del Servicio publicada en el Diario Oficial de 01 de agosto de 1979, donde señala que los comisionistas podrán excepcionarse de la retención efectuada por las instituciones bancarias por las comisiones provenientes del exterior, responsabilizándose del cumplimiento tributario respectivo.
+
+Las disposiciones legales y reglamentarias e instrumentos vigentes sobre la materia y las facultades establecidas en el artículo 6°, letra B), No. 5, del Código Tributario, y Considerando: 1°) Que, en el presente caso, los argumentos, fundamentaciones y antecedentes proporcionados por el interesado en su solicitud, han sido estimados atendibles por esta Dirección Regional y además cumple los requisitos y exigencias señalados en el No. 2, de la resolución No. Ex.
+
+2.301, de la Dirección Nacional, publicada en el Diario Oficial de 20 de Octubre de 1986;
+
+Se resuelve:
+
+Ha lugar a lo solicitado
+
+1.- Excepciónase a Representaciones e Ingeniería Ltda., del régimen normativo establecido en la resolución No. Ex. 328 de 1977, que dispone el cambio de sujeto del IVA en las operaciones que la misma señala.
+
+2.- La vigencia de esta autorización es a contar del día primero del mes siguiente al de su publicación en el Diario Oficial y se mantendrá mientras el interesado dé cabal cumplimiento a las obligaciones señaladas en el No. 2.3 de la resolución No. Ex. 2.301, de 1986. El incumplimiento de estas obligaciones producirá la caducidad de esta excepción y la aplicación de las sanciones que fueren procedentes. Publíquese el texto completo de esta resolución en el Diario Oficial, por cuenta y costo de la peticionaria.
+
+Anótese, comuníquese y notifíquese.- "Por orden del Director".- Ricardo Ascorra Olaeta, Director Regional. Lo que transcribo a Ud. para su conocimiento y demás fines.- Carmen Cornejo Basualto, Secretaria Regional subrogante.
