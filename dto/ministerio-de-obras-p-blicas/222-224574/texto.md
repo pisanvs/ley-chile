@@ -1,0 +1,5 @@
+Por decreto MOP Nº 222, de 26 de marzo de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió para la obra Proyecto Línea 4, Sector:
+
+Av. Grecia-La Cisterna, Estación La Cisterna (Acceso), Región Metropolitana, el lote de terreno Nº 219L4, que figura a nombre de Vásquez Farías Juan, rol de avalúo 36-17, comuna de La Cisterna, superficie 247 m². La comisión de peritos integrada por los señores Joaquín Guillermo Enrique Eyzaguirre Edwards y Ramón Enrique Domingo Labarca y señora Victoria Adriana Blanco Costa, fijó con fecha 6 de marzo de 2004, el valor provisional de la indemnización en la cantidad de $47.950.000.- para el lote Nº 219L4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
