@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº305, de 31 de marzo de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para el Fisco los lotes Nºs. 4, 5, 6, 8, 9 y 10, para la obra:
+
+"Mejoramiento Ruta 9, Sector Aeródromo-Bif. Cueva del Milodón, Km. 251,30000 a Km. 263,38718, Ultima Esperanza, que figuran a nombre de Mella Oyarzún Oscar y Altamirano Altamirano Juliano, roles de avalúo 1004-72 y 1004-73, comuna de Puerto Natales, XII Región, superficies 18.706,36 m², 2.611,94 m², 2.325,80 m², 1.020,50 m², 1.015,30 m² y 653,00 m². La Comisión de Peritos fijó con fecha 30 de octubre del 2000 el monto de la indemnización provisional en la cantidad de $2.843.366 para el lote Nº4, $397.014 para el lote Nº5, $353.522 para el lote Nº6, $155.116 para el lote Nº8, $154.326 para el lote Nº9 y $99.256 para el lote Nº10. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
