@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.547, de 31 de diciembre de 2003, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.023 de 2000, de esta Subsecretaría, que autorizó a INDUSTRIA DE ALIMENTOS REAL Y COMPAÑIA LIMITADA a operar una planta de transformación en Rómulo Correa Nº 02002, Punta Arenas, en virtud de lo dispuesto en el artículo 7º del D.S. Nº 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, y de lo informado por el Servicio Nacional de Pesca en Oficio citado en Visto.-
+
+Valparaíso, 31 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
