@@ -1,0 +1,3 @@
+Por resolución Nº 708, de 20 de marzo de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Laguna Verde, Sector C, V Región, individualizada en el artículo 1º Nº 1, del D.S. Nº 713 del 2000, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES Y ACTIVIDADES CONEXAS DE CALETA LAGUNA VERDE.
+
+Valparaíso, 20 de marzo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
