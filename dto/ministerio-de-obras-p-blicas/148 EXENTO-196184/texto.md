@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 148, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 78, superficie 762,35 m², rol de avalúo 1131-42, comuna de Castro, X Región, para la obra "Camino Rutas W-65 y W-55, sector Cruce Longitudinal (Pid Pid) - Putemun - Dalcahue" y se acordó el valor de indemnización con su propietario Juan Carlos Cárcamo Barría, ascendente a la cantidad de $555.999.
+
+- Fiscal del Ministerio de Obras Públicas.
