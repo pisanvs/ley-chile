@@ -1,0 +1,25 @@
+PROMULGA EL TRIGESIMO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACION ECONOMICA Nº35, SUSCRITO CON LOS ESTADOS PARTES DEL MERCOSUR, QUE AMPLIA EL PROGRAMA DE LIBERACION DEL ACUERDO MEDIANTE LA INCORPORACION DE LAS PREFERENCIAS ACORDADAS CON BRASIL, Y QUE INCORPORA AL ACUERDO EL ENTENDIMIENTO CON DICHO ESTADO EN EL SECTOR AUTOMOTOR
+
+Núm. 241.- Santiago, 17 de octubre de 2002.- Vistos: Los artículos 32, Nº17, y 50, Nº1), inciso segundo, de la Constitución Política de la República, la resolución MCS-CH Nº01/2002, de la Comisión Administradora del Acuerdo de Complementación Económica Nº35 y la ley Nº18.158,
+
+Considerando:
+
+Que por decreto supremo Nº568, de 1981, del Ministerio de Relaciones Exteriores, publicado en el Diario Oficial de 24 de agosto de 1981, fue promulgado el Tratado de Montevideo 1980, que creó la Asociación Latinoamericana de Integración (ALADI).
+
+Que la resolución Nº2, de 12 de agosto de 1980, del Consejo de Ministros de Relaciones Exteriores de ALADI, publicada en el Diario Oficial de 23 de febrero de 1981, estableció normas básicas y de procedimiento que regulan la celebración de Acuerdos de Alcance Parcial en las que no participa la totalidad de los miembros del Tratado de Montevideo 1980.
+
+Que con fecha 25 de junio de 1996 el Gobierno de la República de Chile y los Gobiernos de la República Argentina, de la República Federativa del Brasil, de la República de Paraguay y de la República Oriental del Uruguay, Estados Partes del Mercado Común del Sur (Mercosur), suscribieron el Acuerdo de Complementación Económica Chile-Mercosur, Nº35, publicado en el Diario Oficial de 4 de octubre de 1996.
+
+Que con fecha 30 de agosto de 2002 el Gobierno de la República de Chile y los Estados Partes del Mercosur suscribieron, en Montevideo, en el marco de los instrumentos internacionales antes referidos y, en particular, en virtud de lo dispuesto en los artículos 3, 46, 47 y 57 del Acuerdo de Complementación Económica Nº35, el Trigésimo Protocolo Adicional, que amplía el Programa de Liberación del Acuerdo mediante la incorporación de las preferencias acordadas con Brasil, y que incorpora al Acuerdo el Entendimiento con dicho Estado en el sector automotor.
+
+Que se dio cumplimiento a lo dispuesto en el artículo 3º del mencionado Protocolo,
+
+D e c r e t o:
+
+#### Artículo único
+
+Promúlgase el Trigésimo Protocolo Adicional al Acuerdo de Complementación Económica Nº35, suscrito el 30 de agosto de 2002 entre el Gobierno de la República de Chile y los Gobiernos de la República Argentina, de la República Federativa del Brasil, de la República del Paraguay y de la República Oriental del Uruguay, Estados Partes del Mercado Común del Sur, Mercosur, que amplía el Programa de Liberación del Acuerdo mediante la incorporación de las preferencias acordadas con Brasil, y que incorpora al Acuerdo el Entendimiento con dicho Estado en el sector automotor; cúmplase y publíquese en la forma establecida en la ley Nº18.158.
+
+Anótese, tómese razón, regístrese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República de Chile.- María Soledad Alvear Valenzuela, Ministra de Relaciones Exteriores.
+
+Lo que transcribo a US, para su conocimiento.- José Miguel Cruz Sánchez, Embajador, Director General Administrativo.
