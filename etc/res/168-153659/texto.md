@@ -1,0 +1,5 @@
+Por resolución Nº 168 de esta Subsecretaría, autorízase a EMPRESA PESQUERA COLCHANE S.A., para iniciar actividades pesqueras de transformación e instalar y operar una planta ubicada en Arica, Caleta Quiane s/n (ex Eperva), donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Harina y aceite de pescado: Anchoveta, Sardina española, Jurel, Caballa, Agujilla, Sardina común; además la interesada podrá elaborar harina y aceite de desechos de los siguientes recursos que deberán provenir de otras líneas de producción: Bacaladillo o mote, Sardina redonda, Jurel fino, Vinciguerria, Anchoveta blanca, Cabinza, Cojinoba del norte, Machuelo o tritre y Roncacho.
+
+La materia prima deberá provenir de pescadores artesanales e industriales debidamente autorizados.
+
+Valparaíso, 21 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
