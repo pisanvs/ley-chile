@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº289, de 28 de marzo de 2002 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº6, para la obra Camino Estancia Vicuña-Yendegaia, sector Kms. 13,02000 al 18,35904, Tercera Etapa, Tierra del Fuego, XII Región, que figura a nombre de Inversiones Cetec-Sel Chile Lt, rol de avalúo 671-37, superficie 223.130 m2, comuna de Timaukel. La comisión de peritos, con fecha 07 de diciembre de 2001, fijó la indemnización provisional en la cantidad de $2.008.170, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
