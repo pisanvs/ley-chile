@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de San Fernando para expropiar el terreno que indica y cuyos deslindes señala, con el fin de destinarlos al funcionamiento del aeropuerto de la misma ciudad, el que deberá ser transferido gratuitamente a la Fuerza Aérea de Chile.
