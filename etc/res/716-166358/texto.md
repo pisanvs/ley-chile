@@ -1,0 +1,3 @@
+Por resolución Nº716, de 12 de abril de 2000, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº1.875 y Nº1.911, ambas de 1998, de esta Subsecretaría, que otorgaron a PESQUERA QUINTERO S.A., permisos extraordinarios de pesca para la unidad de pesquería del recurso hidrobiológico Langostino amarillo, fijada en el artículo 1º del D.S. Nº787, de 1996, del Ministerio de Economía, Fomento y Reconstrucción, de conformidad con el artículo 143 letra h) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 12 de abril de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
