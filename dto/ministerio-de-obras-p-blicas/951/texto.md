@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 951, de 30 de septiembre de 1997, se expropiaron los lotes de terreno Nºs. 50 y 53, superficies 12.320 m² y 3.738 m² rol de avalúo 363-7, comuna de Vicuña, con motivo de la obra Proyecto Embalse Puclaro, sector Variante a Ruta 41-Ch y se acordó precio de indemnización con su propietario Sergio Olivier Gramola, ascendente a la cantidad de $41.107.500.
+
+Fiscal del Ministerio de Obras Públicas.
