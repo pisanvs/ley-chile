@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.142, de 30 de noviembre de 2000, se expropió el lote de terreno Nº10-1, superficie 412 m², rol de avalúo 35-3, comuna de Olivar, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector E, Sexta Región y se acordó el valor de indemnización con su propietario Jesús Amador Ahumada Vargas, ascendente a la cantidad de $3.465.030.-
+
+Fiscal del Ministerio de Obras Públicas.
