@@ -1,0 +1,3 @@
+Por decreto MOP Nº937 de fecha 31 de mayo de 2002, se expropiaron los lotes de terreno Nº29, 30, 32-A y 32-C, superficies 8.570, 38, 282 y 152 m², Rol de Avalúo Nº286-72, comuna de San Fernando, para la obra ''Camino San Fernando - Roma, Rol I-301; I-255; I-151, Km. 0.000 a Km. 10,954264'', VI Región y se acordó el valor de indemnización con su propietario Javier Ernesto Rojas Ortiz, ascendente a la cantidad de $44.159.071.-
+
+Fiscal del Ministerio de Obras Públicas.
