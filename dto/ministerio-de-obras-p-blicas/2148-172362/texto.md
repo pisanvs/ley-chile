@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.148, de 29 de mayo del 2000, se expropiaron los lotes de terreno Nºs. 27, 45, 46 y 47, superficies 10.874, 504, 871 y 332 m² respectivamente, roles de avalúos 1441-8 y 2190-83, comunas de Puerto Varas y Puerto Montt, para la obra Camino Ruta V-505, sector Pto. Varas - Los Alerces - Pto. Montt, Kms. 0,000 al 16,340 y se acordó precio de las indemnizaciones con sus propietarios Eduardo Jerman Schnettler Droppelmann y Georg Grothusen Gesche, ascendentes a las cantidades de $14.302.344 para el lote Nº27 y $2.105.912 para los lotes Nºs. 45, 46 y 47.
+
+- Fiscal del Ministerio de Obras Públicas.
