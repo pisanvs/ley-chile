@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1459 de 25 de octubre de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 18-A y 25-A para la obra: Camino Ruta L-75, Sector El Ajial-Las Camelias, tramo km.
+
+6,320.00 a km. 23,400.00, que figuran a nombre de Lastra Bueno Leonidas, Valerio Acuña Juan Segundo, roles de avalúo 499-6, 499-152, Comuna de Retiro, VII Región, superficies 177 y 110 m2. La Comisión de Peritos fijó con fecha 3 de marzo de 2000, el monto de la indemnización provisional en la cantidad de $259.200.- lote Nº 18-A y con fecha 12 de enero de 2001 en la cantidad de $152.000.- lote Nº 25-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
