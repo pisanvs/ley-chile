@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 581, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 8, 9 y 11, superficies 52.010, 50.260, y 199.678 m2, roles de avalúo 260-194, 260-195 y 254-1, comuna de Tucapel, para la obra Proyecto Laja Diguillín, Sector Laja Huépil Canal Matriz y se acordó precio de indemnización con su propietario Forestal Cholguán S.A., ascendente a las cantidades de 3.216,67 U.F. por dichos lotes.
+
+Fiscal del Ministerio de Obras Públicas
