@@ -1,0 +1,3 @@
+Por Resolución No. 1046 de 28 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 6 meses desde la fecha de la presente Resolución, el plazo otorgado a don RODRIGO ANTONIO PINOCHET ACOSTA, RUT No. 6.049.886-5 domiciliado en Castro, en el numeral 5° de la Resolución No. 482 de 1989, de esta Subsecretaría, por haberse acreditado la concurrencia de una fuerza mayor.
+
+Valparaíso, 28 de Agosto de 1991. Andrés Couve Rioseco, Subsecretario de Pesca.
