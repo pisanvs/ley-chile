@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.888, de 30 de septiembre de 1999, se expropió el lote de terreno Nº40, superficie 621 m², rol de avalúo 292-54, comuna de Frutillar, para la obra "Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Cuatro Vientos - Casma", Décima Región y se acordó el valor de indemnización con su propietario Alejandro Anselmo Turra Robbe, ascendente a la cantidad de $235.982.-
+
+Fiscal del Ministerio de Obras Públicas.
