@@ -1,0 +1,9 @@
+ACUERDO DE CLASIFICACION DE INSTRUMENTOS FINANCIEROS DE OFERTA PUBLICA ADOPTADO POR LA COMISION CLASIFICADORA DE RIESGO
+
+_______________________________________________________
+
+| NOTA: VER DIARIO OFICIAL N° 34748 DEL 24 DE |
+
+| DICIEMBRE DE 1993 PAGINAS 6, 7 Y 8. |
+
+|_____________________________________________________|
