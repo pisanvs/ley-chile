@@ -1,0 +1,3 @@
+Por decreto MOP 3.570, de 31 de julio del 2000, se expropió el lote de terreno Nº76, superficie 160 m2, rol de avalúo 5355-7, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Manuel del Carmen Guajardo Illanes, ascendente a la cantidad de $23.063.014.-
+
+Fiscal del Ministerio de Obras Públicas.
