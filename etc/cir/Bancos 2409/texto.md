@@ -17272,61 +17272,35 @@ f) Créditos otorgados a personas naturales o jurídicas residentes en el exteri
 
 Los créditos a que se refiere la letra d) anterior pueden acogerse al límite del 30%, al igual que las obligaciones que se originan de las letras o pagarés señalados en la letra b), cuando dichos documentos provengan de operaciones con países miembros de la ALADI y sean reembolsables a través del Banco Central de Chile por intermedio del respectivo convenio de crédito recíproco.
 
-3. Créditos a otra institución financiera regida por la Ley General de Bancos.
+3.- Créditos sindicados para financiar obras públicas ejecutadas por concesión.
 
-Los créditos que una institución financiera otorgue a otra entidad financiera
+Los créditos que las instituciones financieras otorguen para financiar obras públicas fiscales ejecutadas por el sistema de concesión contemplado en el D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, pueden alcanzar hasta el 10% del capital pagado y reservas de la institución acreedora, sin garantía, siempre que el préstamo sea otorgado por dos o más instituciones financieras y que, de acuerdo con lo establecido en el Decreto Supremo N° 917, de 1994, del Ministerio de Hacienda conjuntamente con el Ministerio de Obras.
 
-regida por la Ley General de Bancos, pueden alcanzar hasta el 30% del capital
+Públicas, publicado en el Diario Oficial del 30 de enero de 1995, se cumpla con las siguientes condiciones:
 
-pagado y reservas de la institución acreedora, sea que se otorguen con garantía
+a) Las empresas constructoras o concesionarias del proyecto, deberán estar clasificadas en las categorías "A" o "B" de riesgo a que se refiere el Capítulo 8-28 de esta Recopilación, por las instituciones financieras que otorguen el financiamiento, o bien, deben calificar para alguna de ellas, entendiéndose para el efecto que así ocurre cuando reúnen los requisitos exigidos para una de esas categorías de riesgo;
 
-o sin ella.
+b) Las empresas constructoras o concesionarias deberán comprometerse a constituir en garantía de su obligación ante la entidad crediticia, los ingresos mínimos que se generarán en la fase de explotación del proyecto de infraestructura que se encuentren garantizados por el Estado o por un seguro de carácter privado. Esta garantía tiene por único fin amparar el pago del crédito, de modo que dadas sus características, no servirá para la ampliación del margen individual de crédito establecido en el artículo 84 de la Ley General de Bancos; y,
 
-Este margen especial dispuesto por la ley es aplicable sólo en el caso de que el
+c) Las empresas constructoras o concesionarias del proyecto deberán comprobar mediante un certificado del Ministerio de Obras Públicas o de una firma de auditores externos registrada en esta Superintendencia para auditar bancos o sociedades financieras, que tienen un capital no inferior al que se exige a las empresas registradas en el Ministerio de Obras Públicas en la más alta categoría, de acuerdo a los artículos 11 y siguientes del Decreto Supremo N° 15, de 1992, de dicho Ministerio.
 
-deudor sea un banco, una sociedad financiera o una sucursal de un banco
+4. Créditos a otra institución financiera regida por la Ley General de Bancos.
 
-extranjero establecido en Chile, pero no se aplica a los bancos establecidos en
+Los créditos que una institución financiera otorgue a otra entidad financiera regida por la Ley General de Bancos, pueden alcanzar hasta el 30% del capital pagado y reservas de la institución acreedora, sea que se otorguen con garantía o sin ella.
 
-el exterior, aunque la entidad financiera tenga sucursales en el país o cuando
+Este margen especial dispuesto por la ley es aplicable sólo en el caso de que el deudor sea un banco, una sociedad financiera o una sucursal de un banco extranjero establecido en Chile, pero no se aplica a los bancos establecidos en el exterior, aunque la entidad financiera tenga sucursales en el país o cuando se trate de una sucursal de un banco chileno en el extranjero.
 
-se trate de una sucursal de un banco chileno en el extranjero.
-
-Este límite de un 30% del capital y reservas debe entenderse referido al
-
-conjunto de todos los créditos directos o indirectos, como pueden ser, por
-
-ejemplo, préstamos otorgados, compras con pacto de retroventa de instrumentos
-
-financieros, compras con responsabilidad de valores mobiliarios o efectos de
-
-comercio, adquisición de títulos de crédito aceptados o suscritos por la
+Este límite de un 30% del capital y reservas debe entenderse referido al conjunto de todos los créditos directos o indirectos, como pueden ser, por ejemplo, préstamos otorgados, compras con pacto de retroventa de instrumentos financieros, compras con responsabilidad de valores mobiliarios o efectos de comercio, adquisición de títulos de crédito aceptados o suscritos por la
 
 institución financiera deudora, etc.
 
-### 4. Aplicación de otros márgenes de crédito
+### 5. Aplicación de otros márgenes de crédito
 
-Los límites señalados en los números precedentes son sin perjuicio de las
+Los límites señalados en los números precedentes son sin perjuicio de las mayores limitaciones que pudieren derivarse de la aplicación de los márgenes de crédito a personas relacionadas directa o indirectamente a la propiedad o gestión del banco o sociedad financiera y a trabajadores de la empresa, según se dispone en los N°s. 2 y 4 del artículo 84 de la Ley General de Bancos.
 
-mayores limitaciones que pudieren derivarse de la aplicación de los márgenes de
+### 6. Sucursales de bancos chilenos en el exterior
 
-crédito a personas relacionadas directa o indirectamente a la propiedad o
-
-gestión del banco o sociedad financiera y a trabajadores de la empresa, según se
-
-dispone en los N°s. 2 y 4 del artículo 84 de la Ley General de Bancos.
-
-### 5. Sucursales de bancos chilenos en el exterior
-
-De acuerdo con lo establecido en el artículo 31 bis de la Ley General de Bancos,
-
-los créditos que otorgue una sucursal de un banco chileno situada en el
-
-extranjero también están sujetos a los límites individuales antes mencionados en
-
-caso de que se trate de créditos concedidos a cualquier persona con domicilio o
-
-residencia en Chile, con excepción de su propia casa matriz.
+De acuerdo con lo establecido en el artículo 31 bis de la Ley General de Bancos, los créditos que otorgue una sucursal de un banco chileno situada en el extranjero también están sujetos a los límites individuales antes mencionados en caso de que se trate de créditos concedidos a cualquier persona con domicilio o residencia en Chile, con excepción de su propia casa matriz.
 
 ### II. CREDITOS AFECTOS A LOS LIMITES DEL ARTICULO 84 N° 1 DE LA LEY GENERAL DE
 
