@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 173, de 28 de Junio de 1985, se expropiaron los lotes N°s. 10 y 11, roles de avalúos 432-2 y 4323, cuyas superficies son 143 m2 y 186 m2., comuna de Santiago, para Avenida Norte-Sur Balmaceda, sector oreja nororiente y se acordó precio de indemnización con sus propietarios Arnoldo y Angela Macker Núñez, ascendente a $ 3.815.802.
+
+- Fiscal del Ministerio de Obras Públicas. (1°)
