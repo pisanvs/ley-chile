@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº905, de 31 de mayo de 2002, se rectificó el decreto MOP (exento) Nº1.199, de 31 de agosto de 2001, que ordenó la expropiación del lote de terreno Nº73, rol de avalúo 1124-43, comuna de Castro, para la Obra ''Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 a Km. 11,991647, comuna de Castro - Dalcahue, Provincia de Chiloé'', X Región, por el cual se rectificaron los numerales 2 y 3, en lo que respecta al apellido del expropiado que es ''Aguila Aguilar'' y no el que allí se expresa.-
+
+Fiscal del Ministerio de Obras Públicas.
