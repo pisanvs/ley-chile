@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.707, de 28 de abril de 2000, se expropió el lote de terreno Nº 5, superficie 255 m², rol de avalúo 189-437, comuna de Longaví, para la obra Concesión Internacional Ruta 5. Tramo: Talca-Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Manuel Jesús Gutiérrez Gutiérrez, ascendente a la cantidad de $1.834.397.-
+
+Fiscal del Ministerio de Obras Públicas.
