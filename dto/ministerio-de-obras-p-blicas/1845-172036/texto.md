@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.845, de fecha 28 de abril del 2000, se expropiaron los lotes de terreno Nºs. 1, 2, 3 y 4, superficies 80, 1.151, 190 y 157 m², respectivamente, rol de avalúo 104-11, comuna de Corral, para la obra ''Camino Longitudinal Costero Sur, Sector El Morro-Chaihuin I Km. 10,000 a Km. 15,747 '' y se acordó el valor de indemnización con su propietario Jorge Segundo Franquez Reyes y otros, ascendente a la cantidad de $465.784.
+
+Fiscal del Ministerio de Obras Públicas.
