@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.439, de 1 de septiembre de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Tarcaruca, Sector B, IV Región, individualizada en el artículo 1º Nº 2, del DS Nº 109 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES Y BUZOS MARISCADORES INDEPENDIENTES DE LA CALETA TALCARUCA, Comuna de Los Vilos, IV Región, Algamar.
+
+Valparaíso, 1 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
