@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 206, de 31 de Julio de 1985, se expropiaron los lotes Nos.. 20-C y 27A, cuyas superficies son 202 m². y 190 m²., roles de avalúos 432-12 y 432-22, comuna de Santiago, para la obra Avenida Norte Sur Balmaceda, sector oreja Nor-Oriente, y se acordó el precio de indemnización con su propietario Jorge Rissios Jopia, ascendente a la cantidad de $ 2.456.422.
+
+- Fiscal del Ministerio de Obras Públicas.
