@@ -30124,7 +30124,7 @@ En consecuencia, además de las presentes instrucciones y sin perjuicio de lo se
 
 El Estado de Situación deberá acompañarse con las siguientes notas "Información proporcionada" (Nota N° 1), "Obligación subordinada con el Banco Central de Chile" (Nota N° 2),y, "Operaciones con partes relacionadas" (Nota N° 3).
 
-Además, las instituciones que hayan tenido aumentos de capital en el curso del año y aquellas que hayan efectuado compras, ventas, permutas o canjes de créditos de la cartera de colocaciones con otra institución financiera, deberán incluir una nota referida a esas situaciones.
+Además, las instituciones que hayan tenido aumentos de capital en el curso del año y aquellas que hayan efectuado compras, ventas, permutas o canjes de créditos de la cartera de colocaciones con otra institución financiera, deberán incluir una nota referida a esas situaciones. Por otra parte, las instituciones que mantengan provisiones por montos que superen las provisiones mínimas exigidas, podrán incluir una nota para señalar ese hecho.
 
 Las cifras que corresponde incluir en las notas se expresarán en millones de pesos, con un decimal Los saldos que se refieran al cierre del ejercicio anterior deben informarse actualizados por la variación del IPC, al igual que las del estado de situación.
 
@@ -30157,6 +30157,10 @@ a) se informarán los montos totales de los créditos objeto de esas transaccion
 b) se indicarán los efectos de esas transacciones en cuanto al aumento o liberación de provisiones que generen, como asimismo se señalarán las consecuencias de tales operaciones en los resultados de la institución.
 
 Para el efecto deberán seguirse las pautas generales establecidas para la preparación y publicación de estados financieros, en orden a informar las transacciones en las notas sólo si su importe es igual o superior a un millón de pesos, considerando, en este caso, el valor de los créditos de cada operación en su conjunto.
+
+3.4.3.- NOTA sobre provisiones para colocaciones.
+
+Las instituciones que mantengan provisiones para la cartera de colocaciones que excedan de las provisiones mínimas exigidas por esta Superintendencia, podrán incluir una nota explicativa con la redacción que se indica en el Anexo N° 2 este Capítulo.
 
 ANEXO N°1
 
@@ -30265,6 +30269,12 @@ Al.... de..........de 199... no existen créditos otorgados a personas relaciona
 con la propiedad o gestión de la empresa ..../con excepción de operaciones con personas naturales por montos inferiores a UF 3.000/....
 
 Por otra parte, durante el ano 199.... la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas..../ por montos superiores a $ 1 millón/...
+
+MODELO DE NOTA SOBRE PROVISIONES MINIMAS EXIGIDAS
+
+NOTA N°...- PROVISIONES SOBRE COLOCACIONES.
+
+El monto de las provisiones sobre colocaciones que se muestra en el Estado de Situación está constituido por $ ........ millones correspondiente a provisiones mínimas exigidas por la Superintendencia de Bancos e Instituciones Financieras para cubrir los riesgos de la cartera y $ .......... millones correspondientes a provisiones adicionales o voluntarias.
 
 CAPITULO 18-3 (Bancos y Financieras)
 
