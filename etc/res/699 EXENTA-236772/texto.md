@@ -1,0 +1,3 @@
+Por resolución exenta Nº 699, de 16 de marzo de 2005, de esta Subsecretaría, autorízase a LOTA PROTEIN S.A., para continuar desarrollando las actividades pesqueras de transformación autorizadas a Pesquera Lota Protein Limitada, en una planta ubicada en Avenida Matta esquina Villagrán s/n, Lota, VIII Región, mediante las resoluciones Nº 32 de 1992, Nº 1.693 de 1995, Nº 2.209 de 2001, Nº 1.089 de 2002, Nº 3.082 de 2003 y Nº 2.992 de 2004, todas de esta Subsecretaría, en virtud de las escrituras públicas citadas en Visto y del contenido de la presente resolución.
+
+Valparaíso, 16 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
