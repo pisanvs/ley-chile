@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.106, de fecha 30 de julio de 2002, se expropió el lote de terreno Nº92, superficie 287 M2, rol de avalúo en trámite, comuna de Lampa, Región Metropolitana, para la obra ''Camino Ruta G-184-182, Sector El Noviciado-Cruce Ruta G-16 (Lipangue), tramo Km. 4,450 al 15,04419'' y se acordó el valor de indemnización con su propietario don Pedro del Carmen Riveros Díaz, ascendente a la cantidad de $1.348.383.-
+
+Fiscal del Ministerio de Obras Públicas.
