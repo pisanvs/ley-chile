@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 60, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2356, Rol 375-41 Santiago, aparente dominio Importadora Jansen y Cía. Ltda., superficie aproximada a expropiar 111 m2. Deslindes: Norte, 19,75 mts. calle Agustinas; Sur, 19,75 mts. resto propiedad Oriente, 6,20 mts. otro propietario y Poniente, 5,00 mts. otro propietario. Indemnización provisional $ 3.107.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
