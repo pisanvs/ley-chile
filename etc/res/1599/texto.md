@@ -1,0 +1,3 @@
+Por Resolución N° 1.599, de 10 de Noviembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcanse parcialmente las Resoluciones N° 1.791, de 1989 y N° 385, de 1991, ambas de esta Subsecretaría, en cuanto autorizaron a PESQUERA SANTA LUCIA S.A., R.U.T. N° 96.527.920-2, para operar la embarcación "Lucía", en virtud de lo dispuesto en el artículo 143, letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, que fijó el texto refundido de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 10 de Noviembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
