@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.102 de fecha 28 de junio del 2002, se expropió el lote de terreno Nº92, superficie 23.283 m2, rol Nº277-202, comuna de Pelluhue, VII Región, para la obra ''Camino Chovellen - Límite Regional, Tramo 18,260.00 a Km. 35,158.60'' y se acordó el valor de indemnización con su propietario Leopoldo Vásquez Paves, ascendente a la cantidad de $34.763.972.-
+
+Fiscal del Ministerio de Obras Públicas.
