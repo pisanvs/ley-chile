@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 148, de 28 de Mayo de 1985, se expropió el lote de terreno Nº 2, para Instalación del Servicio de aguas servidas de Frutillar Bajo, que figura a nombre de don Sergio Strauch Kaschel, rol de avalúo 242-43, superficie 11.700 m2., comuna de Frutillar, X Región. La Comisión de Peritos compuesta por los señores Roald Dreyer Jark, Daniel Cisterna Espinoza y doña Anneliese Moebius Lutjens, fijó con fecha 04 de Marzo de 1985, el valor provisional de la indemnización en la cantidad de $ 409.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2. 186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
