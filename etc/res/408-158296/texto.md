@@ -1,0 +1,5 @@
+DEJA SIN EFECTO LOS NUMERALES QUE INDICA DE LA RESOLUCION No. 554, DE 1984
+
+Por resolución No. 408, de 14 de Mayo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se dejan sin efecto los numerales 5 y 6 de la Resolución No. 554, de 23 de Noviembre de 1984, de la Subsecretaría de Pesca, que autorizaron a Pesquera Sopesa-Alimar S.A., para instalar y operar una planta elaboradora de harina y aceite de pescado en la bahía de Mejillones y para emplear en ella como materia prima los recursos jurel, sardina común, sardina española, anchoa y caballa, de acuerdo a lo establecido en el artículo 7° inciso 2°, del Decreto 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 14 de Mayo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
