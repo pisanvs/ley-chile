@@ -1,0 +1,27 @@
+Núm. 112.- Santiago, 30 de Junio de 1932.- Teniendo presente:
+
+1.o Que, en virtud de los decretos números 1,075 y 1,234, del Ministerio de Fomento, de 26 de Junio y 4 de Agosto de 1931, respectivamente, basados ambos en el artículo 58.o del Estatuto Administrativo, fué suprimido todo el personal del Departamento de Turismo, que atendía el cumplimiento de la ley respectiva;
+
+2.o Que la supresión de este personal ha importado una fuerte disminución de las entradas que, por ese ramo, percibía el Fisco según informe adjunto de la Contraloría General de la República, que establece que en los primeros cinco meses de 1930, sus entradas fueron de $ 492,050.73; en la misma época en 1931, de $ 401,431.12; y, en igual período de este año $ 156,310.55;
+
+3.o Que la política de economía del actual Gobierno no permite volver a crear el Departamento de Turismo, que, a la fecha del primer decreto citado, costaba al Fisco, en concepto de personal la suma de $ 320,400;
+
+4.o Que es de necesidad, dada la merma de las entradas percibidas por la ley N.o 4,585, de 9 de Febrero de 1929, designar un personal que vele porque el Fisco no se vea defraudado en sus derechos, la Junta de Gobierno dicta el siguiente,
+
+Decreto-ley:
+
+1.o Créanse, dependientes del Ministerio de Fomento, los siguientes cargos:
+
+Un inspector-jefe de turismo (grado 6.o), con $ 24,000 anuales;
+
+Dos inspectores-visitadores, (grado 11.o), con $ 12,600 anuales cada uno; y
+
+Un dactilógrafo, grado 16.o, con $ 8,400 anuales.
+
+2.o Este personal tendrá la misión de supervigilar el pago de los impuestos y derechos que la citada ley estableció en favor del Fisco, y velará, además, por el cumplimiento de ella y de todas las leyes, reglamentos y decretos en vigencia que tengan relación con el turismo.
+
+3.o Traspásase de 06|01|04|v al 11|01|01 la suma de $ 28,800.
+
+Refréndese, tómese razón, regístrese, comuníquese, publíquese e insértese en el Boletín de las Leyes y Decretos del Gobierno.-CARLOS DAVILA.- Pedro N.
+
+Cárdenas.-A. Cabero.- Enrique Zañartu.- Víctor M. Navarrete.
