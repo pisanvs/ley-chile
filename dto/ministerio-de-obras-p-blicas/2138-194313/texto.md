@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.138 de fecha 28 de diciembre de 2001, se expropió el lote de terreno Nº64, superficie 3.868 m2, Rol de Avalúo Nº187-81, comuna de San Vicente, para la obra "Proyecto Mejoramiento Ruta H-830, Sector San Vicente-El Cardal-Millahue, tramo Km. 0,000 a Km. 8,622" y se acordó el valor de indemnización con su propietario Ramón Silverio Marambio Navarro, ascendente a la cantidad de $9.108.890.-
+
+Fiscal del Ministerio de Obras Públicas.
