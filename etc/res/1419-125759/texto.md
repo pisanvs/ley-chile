@@ -1,0 +1,3 @@
+Por resolución Nº 1.419 de 01 de octubre de 1998, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura Nº 95106017, presentada por JOSE DAVID HUEICHA HUEICHA, Víctor Exequiel Cárcamo González, José Belisario Vera Paillán, Luis Alfredo Mansilla Vera, para operar un centro de cultivo en Sector Candelaria, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 1 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
