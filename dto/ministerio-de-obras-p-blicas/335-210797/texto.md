@@ -1,0 +1,3 @@
+Por decreto MOP Nº 335, de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs. 26, 27, 28 y 29, superficie 1.013, 1.520, 16.044 y 24 m2, respectivamente, Rol Nº 202-14, comuna de Lumaco, IX Región, para la obra "Camino Lumaco - Capitán Pastene, Sector Lumaco - Capitán Pastene, Km. 0.000 al 10.525,168", y se acordó el valor de indemnización con su propietaria Bosques Santa Elena Sociedad Anónima, ascendente a la cantidad de $5.699.971.
+
+Fiscal del Ministerio de Obras Públicas.
