@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 661, de 4 de julio de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 143 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector F: Km. 92.000,00 a Km. 110.200,00", Sexta Región, que figura a nombre de Moya Vásquez Pamela del Pilar, rol de avalúo 19-163, comuna de Requínoa, superficie 196 m2. La comisión de peritos integrada por los señores José Cristián Larraín Barros, Ricardo Antonio Strickler Arellano y María Isabel de Jesús Ríos Marcuello, fijó con fecha 12 de junio de 2003, el valor provisional de la indemnización en la cantidad de $2.234.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
