@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.442, de 28 de septiembre del 2001, se expropió el lote de terreno Nº 7-2, superficie 221 m2., rol de avalúo 162-68, comuna de Casablanca, para la obra Red Vial Litoral Central Sector 3 Eje Costero Interior Subtramo Rosario Orrego Abajo, Quinta Región, y se acordó el valor de indemnización con su propietaria Juana Audelicia Clavijo Alvarez, ascendente a la cantidad de $766.945.-
+
+Fiscal del Ministerio de Obras Públicas.
