@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Til-Til para contratar uno o más préstamos que produzcan hasta la cantidad de $ 12.000.000 con el fin de atender a la realización de diversas obras de adelanto local; para su servicio establece una contribución adicional de un dos y medio por mil anual sobre el avalúo de los bienes raíces de la comuna.
