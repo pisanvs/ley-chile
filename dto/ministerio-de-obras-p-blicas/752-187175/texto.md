@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 752 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 1, superficie 6.899,00 m2., rol de avalúo 387-164, comuna de Pitrufquén, para la obra ''Diseño Definitivo Regadío Faja Maisan Expropiaciones Red Primaria 3/5, Derivado Mahuidanche, Sector Km. 0.000 al Km. 2.009,85'' y se acordó el valor de indemnización con su propietario Ricardo Colicheo Manque, ascendente a la cantidad de $4.516.369.-.
+
+Fiscal del Ministerio de Obras Públicas.
