@@ -972,16 +972,6 @@ Por lo anterior, resulta improcedente otorgar poderes generales que faculten a u
 
 Lo anterior no obsta, naturalmente, a que puedan otorgarse, en sesión de directorio o comité, poderes especiales a uno o más directores, para operaciones perfectamente determinadas y previamente acordadas por el órgano correspondiente. Tampoco es óbice para que un director actúe como apoderado conjunto con uno o varios ejecutivos de la empresa, siempre que no tenga poder por sí solo o con otro u otros directores.
 
-III.- INFORMACION AL DIRECTORIO SOBRE CREDITOS CONCEDIDOS. INCISO 1° ART. 44 DE LA LEY GENERAL DE BANCOS.
-
-El artículo 44 de la Ley General de Bancos, en su inciso 1°, dispone que "el gerente o quien haga sus veces, deberá poner en conocimiento del directorio, en cada sesión ordinaria que celebre, todos los créditos concedidos desde la reunión anterior, con los antecedentes que los justifiquen y demás informaciones que solicite el directorio".
-
-Sobre el particular, esta Superintendencia, consciente de las dificultades prácticas y administrativas que la redacción del citado artículo 44 implica para aquellas instituciones financieras que otorgan mensualmente un elevado número de créditos, dispone que los respectivos gerentes o quienes hagan sus veces informen a su directorio sólo aquellas operaciones que excedan el monto que este último prudencialmente determine para estos efectos.
-
-Sin embargo, al establecer la cuantía de las operaciones que deben ponerse en su conocimiento, el directorio deberá tener presente el objetivo último de la citada disposición, cual es el que se le mantenga cabalmente informado respecto del manejo crediticio de la entidad, por lo que de manera alguna podrá fijarse un monto que desvirtúe este propósito.
-
-Por igual motivo, en la misma oportunidad deberá informarse el número y monto total de los créditos concedidos o renovados desde la sesión de directorio anterior.
-
 CAPITULO 1-6 (Bancos y Financieras)
 
 MATERIA:
@@ -1216,7 +1206,7 @@ MATERIA:
 
 El Capítulo XXVI del título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, permite a las sociedades anónimas constituidas en Chile, incluidas las del giro bancario, transar sus acciones en el extranjero mediante el sistema de títulos representativos de esos valores, como es el caso de los American Depositary Receipts (ADR).
 
-Atendida la necesidad de regular la forma en que los bancos pueden efectuar tales operaciones considerando lo dispuesto en los artículos 65 N°18 y 84 N° 2 COLOCACION DE ACCIONES EN EL EXTRANJERO MEDIANTE SISTEMA DE TITULOS REPRESENTATIVOS.
+Atendida la necesidad de regular la forma en que los bancos pueden efectuar tales operaciones considerando lo dispuesto en los artículos 36 y 84 N° 2 COLOCACION DE ACCIONES EN EL EXTRANJERO MEDIANTE SISTEMA DE TITULOS REPRESENTATIVOS.
 
 Los bancos que, sobre la base de las disposiciones contenidas en el Capítulo XXVI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, estén facultados para colocar acciones en el exterior mediante el sistema de títulos representativos, deberán considerar que de la tenencia de tales instrumentos se derivan ciertas restricciones legales y reglamentarias para las personas que sean sus titulares, como así también el cumplimiento de determinadas obligaciones para las empresas emisoras.
 
@@ -1226,7 +1216,7 @@ Para ese efecto, junto con dar cumplimiento a las demás disposiciones que rigen
 
 ### 1. Información a los potenciales adquirentes de títulos representativos
 
-El banco emisor debe preparar un prospecto, de acuerdo con las disposiciones y exigencias de las autoridades del país en el que se colocarán las acciones mediante este sistema. En dicho prospecto se debe advertir que los adquirentes de los títulos representativos de acciones, quedan sujetos a las disposiciones contenidas en el N° 18 del artículo 65 de la Ley General de Bancos que regula la adquisición en forma directa o indirecta de acciones del mismo banco que superen un 10% de su capital, y a las establecidas en el N° 2 del artículo 84 del mismo cuerpo legal, sobre operaciones con personas relacionadas al banco emisor de las respectivas acciones.
+El banco emisor debe preparar un prospecto, de acuerdo con las disposiciones y exigencias de las autoridades del país en el que se colocarán las acciones mediante este sistema. En dicho prospecto se debe advertir que los adquirentes de los títulos representativos de acciones, quedan sujetos a las disposiciones contenidas en el artículo 36 de la Ley General de Bancos que regula la adquisición en forma directa o indirecta de acciones del mismo banco que superen un 10% de su capital, y a las establecidas en el N° 2 del artículo 84 del mismo cuerpo legal, sobre operaciones con personas relacionadas al banco emisor de las respectivas acciones.
 
 Un ejemplar del referido prospecto, con su correspondiente traducción al castellano, deberá ser presentado a esta Superintendencia conjuntamente con la información relativa a la emisión de acciones de que trata el Capítulo 2-10 de esta Recopilación, para los efectos de su anotación en el Registro de Valores de este Organismo, de conformidad con lo establecido en la Ley N° 18.045, sobre Mercado de Valores.
 
@@ -1238,7 +1228,7 @@ a) Cuando una persona adquiera, directa o indirectamente, títulos representativ
 
 b) Cada vez que un accionista del banco, por sí o a través de otras personas, sobrepase la tenencia de un 5% de las acciones emitidas, deberá efectuar una declaración jurada simple, en la que informe si además posee títulos representativos de acciones del mismo banco, señalando, cuando proceda, la cantidad de ellos y la de acciones a las que representan tales instrumentos, debiendo comprometerse, además, a informar al banco la cantidad de acciones que adquiera de esa forma en cada oportunidad en que lo haga. En caso de que declare poseer títulos representativos, como igualmente, con ocasión de cada adquisición posterior que efectúen tales accionistas, el banco deberá informar a esta Superintendencia la cantidad de acciones de que sea dueño, como asimismo la cantidad de esos títulos que le pertenecen, el número de acciones que estos representan y el porcentaje al que equivale el total de tales acciones. Por otra parte, cada vez que el banco tenga conocimiento que un accionista que se encontraba en esa situación, ha enajenado títulos representativos de acciones que hayan hecho disminuir su participación a menos de un 5%, deberá igualmente informarlo a este Organismo, con indicación del nuevo monto de acciones que posee y el porcentaje equivalente de tales acciones.
 
-c) Cuando una persona, sea o no accionista, obtenga un crédito que por sí mismo o sumado a los que mantenga por pagar, sobrepase el 0,5% del capital pagado y reservas del banco, éste le deberá exigir una declaración jurada simple en la que indique si posee títulos representativos, directa o indirectamente, debiendo señalar, cuando sea el caso, la cantidad de ellos y la de acciones que esos instrumentos representan. La información relativa a los propietarios que declaren poseer títulos representativos, deberá ser comunicada a esta Superintendencia.
+c) Cuando una persona, sea o no accionista, obtenga un crédito que por sí mismo o sumado a los que mantenga por pagar, sobrepase el 0,5% del patrimonio efectivo del banco, éste le deberá exigir una declaración jurada simple en la que indique si posee títulos representativos, directa o indirectamente, debiendo señalar, cuando sea el caso, la cantidad de ellos y la de acciones que esos instrumentos representan. La información relativa a los propietarios que declaren poseer títulos representativos, deberá ser comunicada a esta Superintendencia.
 
 d) Deberá requerir del banco adquirente de las acciones emitidas y enviar a esta Superintendencia:
 
@@ -2416,7 +2406,7 @@ Las instituciones financieras no deben recibir ni mucho menos exigir, bajo ning�
 
 Es igualmente inaceptable, el hecho de que una empresa reciba cheques girados con fecha futura o sin fecha, sea que lo haga a título de garantía o en cualquiera otra forma.
 
-La inobservancia de estas normas motivará la aplicación de las sanciones previstas en el artículo 19 del Decreto Ley N° 1.097, de 1975.
+La inobservancia de estas normas motivará la aplicación de las sanciones previstas en el artículo 19 de la Ley General de Bancos.
 
 CAPITULO 2-4 (Bancos y Financieras)
 
@@ -2848,7 +2838,7 @@ Los saldos por cuentas de ahorro están afectos a las tasas de encaje previstas 
 
 17.1. Cuentas de ahorro a la vista o cuentas de ahorro a plazo con giro incondicional
 
-Las cuentas de ahorro a la vista y las cuentas de ahorro a plazo con giro incondicional, quedan sometidas enteramente a las regulaciones sobre reserva técnica, de conformidad con lo dispuesto en el artículo 80 bis de la Ley General de Bancos y las instrucciones impartidas al respecto en el Capítulo 4-2 de esta Recopilación de Normas.
+Las cuentas de ahorro a la vista y las cuentas de ahorro a plazo con giro incondicional, quedan sometidas enteramente a las regulaciones sobre reserva técnica, de conformidad con lo dispuesto en el artículo 65 de la Ley General de Bancos y las instrucciones impartidas al respecto en el Capítulo 4-2 de esta Recopilación de Normas.
 
 Los reajustes e intereses de las cuentas de ahorro a plazo están a disposición del titular solamente cuando se abonan en la cuenta. Para los efectos de determinar la reserva técnica, por lo tanto, no corresponde considerar los montos devengados contablemente por esos conceptos hasta tanto no hayan sido efectivamente abonados en las respectivas cuentas.
 
@@ -5042,15 +5032,15 @@ CAPITULO 4-2 (Bancos y Financieras)
 
 MATERIA:
 
-RESERVA TECNICA ARTICULO 80 BIS DE LA LEY GENERAL DE BANCOS.
+RESERVA TECNICA ARTICULO 65 DE LA LEY GENERAL DE BANCOS.
 
 ### I. OBLIGACIONES AFECTAS A RESERVA TECNICA Y FORMA DE CONSTITUIRLA
 
 ### 1. Obligación de constituir reserva técnica
 
-De conformidad con las disposiciones contenidas en el artículo 80 bis de la Ley General de Bancos, las instituciones financieras cuyas obligaciones a la vista en moneda chilena y extranjera indicadas en el número 2 siguiente que, en conjunto y previa deducción de los valores señalados en el número 4 de este título, superen el monto equivalente a dos y media veces su capital pagado y reservas, deberán mantener el 100% del importe que corresponda a ese exceso, en alguna de las formas que se establecen en este capítulo.
+De conformidad con las disposiciones contenidas en el artículo 65 de la Ley General de Bancos, las instituciones financieras cuyas obligaciones a la vista en moneda chilena y extranjera indicadas en el número 2 siguiente que, en conjunto y previa deducción de los valores señalados en el número 4 de este título, superen el monto equivalente a dos y media veces su capital pagado y reservas, deberán mantener el 100% del importe que corresponda a ese exceso, en alguna de las formas que se establecen en este capítulo.
 
-Para los efectos de las presentes instrucciones, se denominará "reserva técnica" a la suma de los recursos que las entidades financieras mantengan con la finalidad de dar cumplimiento a lo dispuesto en el artículo 80 bis de la Ley General de Bancos.
+Para los efectos de las presentes instrucciones, se denominará "reserva técnica" a la suma de los recursos que las entidades financieras mantengan con la finalidad de dar cumplimiento a lo dispuesto en el artículo 65 de la Ley General de Bancos.
 
 ### 2. Obligaciones a la vista afectas a reserva técnica
 
@@ -5088,7 +5078,7 @@ También quedan comprendidos en estas obligaciones los depósitos a plazo cuyos 
 
 Para determinar el equivalente en pesos de las obligaciones en moneda extranjera comprendidas en las citadas partidas, se aplicará el tipo de cambio de representación contable.
 
-Debe tenerse presente que la obligación impuesta en el artículo 80 bis de la Ley General de Bancos debe cumplirse diariamente, de manera que los bancas y sociedades financieras deben llevar día a día el cómputo de sus obligaciones afectas, a fin de determinar el monto de éstas por las que deben enterar reserva técnica.
+Debe tenerse presente que la obligación impuesta en el artículo 65 de la Ley General de Bancos debe cumplirse diariamente, de manera que los bancas y sociedades financieras deben llevar día a día el cómputo de sus obligaciones afectas, a fin de determinar el monto de éstas por las que deben enterar reserva técnica.
 
 3. Tratamiento de los intereses y reajustes por pagar de depósitos y captaciones a plazo.
 
@@ -5112,11 +5102,9 @@ a) Billetes y monedas de curso legal en el país o monedas extranjeras sujetas a
 
 b) Depósitos a la vista en el Banco Central de Chile, con excepción de los fondos depositados en la cuenta especial destinada a cubrir el encaje de que trata el título IV del Capítulo 4-1 de esta Recopilación;
 
-c) Depósitos "overnight" en el Banco Central de Chile;
+c) Depósitos "overnight" en el Banco Central de Chile; y
 
-d) Depósito en garantía a que se refiere el artículo 36 de la Ley General de Bancos, y
-
-e) Depósitos mantenidos en el Banco Central de Chile según Capítulo IV.B.8.7 del Compendio de Normas Financieras, registrados en la cuenta "Depósitos de liquidez".
+d) Depósitos mantenidos en el Banco Central de Chile según Capítulo IV.B.8.7 del Compendio de Normas Financieras, registrados en la cuenta "Depósitos de liquidez".
 
 Por consiguiente, podrán considerarse para reserva técnica todos los saldos que deben incluirse en las partidas 1005 y 1010, con excepción de los correspondientes a monedas de libre disposición y los importes de las cuentas "Caja en custodia en otras entidades financieras." y "Cuenta especial encaje Acuerdo N° 143-01910705".
 
@@ -5126,7 +5114,7 @@ En los casos en que los documentos emitidos por el Instituto Emisor o por la Tes
 
 Los saldos de dinero efectivo disponibles en caja, en moneda chilena o extranjera, que se computen para enterar la reserva técnica, así como los saldos de cuentas corrientes o los depósitos especiales mantenidos en el Banco Central de Chile que las instituciones financieras destinen a estos fines, no servirán,en la fecha en que se imputen a la reserva técnica, para dar
 
-cumplimiento a la obligación de encaje establecida en el artículo 78 de la Ley General de Bancos.
+cumplimiento a la obligación de encaje establecida en el artículo 63 de la Ley General de Bancos.
 
 Los bancos y sociedades financieras que declaren mantener el total o parte de la reserva técnica constituida en documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, deberán estar en posesión material
 
@@ -5208,7 +5196,7 @@ Cuando una institución financiera registre un déficit de reserva técnica, el 
 
 Cuando una institución financiera, en un día determinado, incurra en déficit de reserva técnica, no podrá diferir para el día hábil bancario siguiente la constitución de la reserva técnica exigida, debiendo proceder, a partir de ese día y hasta que normalice su situación, a constituir la reserva técnica en el curso del mismo día en que se ha producido su exigibilidad.
 
-En caso que el déficit subsista por más de quince días, el directorio de la institución financiera estará obligado a presentar proposiciones de convenio a sus acreedores, de conformidad con lo previsto en el artículo 119 de la Ley General de Bancos. Todo esto sin perjuicio de las facultades de que dispone el Superintendente para designar administrador provisional en la respectiva empresa o para resolver su liquidación.
+En caso que el déficit subsista por más de quince días, el directorio de la institución financiera estará obligado a presentar proposiciones de convenio a sus acreedores, de conformidad con lo previsto en el artículo 122 de la Ley General de Bancos. Todo esto sin perjuicio de las facultades de que dispone el Superintendente para designar administrador provisional en la respectiva empresa o para resolver su liquidación.
 
 ### II. NORMAS CONTABLES
 
@@ -5226,7 +5214,7 @@ Los depósitos especiales en moneda chilena constituidos en el Banco Central de 
 
 2.2.- Control de asignación de depósitos que pueden destinarse tanto a reserva técnica como a encaje.
 
-En el caso de depósitos que pueden destinarse tanto a reserva técnica como a encaje, los montos que efectivamente se utilicen para constituir la reserva técnica se demostrarán diariamente en las cuentas de orden "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica", "Depósitos en garantía Art. 36 L.G.B. aplicados en reserva técnica" o "Remesas en tránsito al Banco Central aplicadas en reserva técnica", según corresponda, de la partida 9165.
+En el caso de depósitos que pueden destinarse tanto a reserva técnica como a encaje, los montos que efectivamente se utilicen para constituir la reserva técnica se demostrarán diariamente en las cuentas de orden "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica" o "Remesas en tránsito al Banco Central aplicadas en reserva técnica", según corresponda, de la partida 9165.
 
 3. Reserva técnica en documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República
 
@@ -5246,7 +5234,7 @@ Los registros en estas cuentas deberán efectuarse rigurosamente en las fechas e
 
 4. Depósitos, captaciones y otros compromisos a plazo computables como obligaciones a la vista.
 
-En concordancia con lo dispuesto en la letra a) del artículo 80 bis ya citado, las instituciones financieras deberán distinguir en sus obligaciones a plazo, aquéllas cuyo pago deba efectuarse en los próximos diez días corridos, sea porque se cumple la fecha de vencimiento pactada o porque a pedido del depositante, de conformidad con las disposiciones vigentes, la entidad depositaria ha aceptado efectuar el pago antes de esa fecha. Como lo señala el precepto legal antes indicado, estas obligaciones se considerarán a la vista,para los efectos previstos en esa misma disposición.
+En concordancia con lo dispuesto en la letra a) del artículo 65 ya citado, las instituciones financieras deberán distinguir en sus obligaciones a plazo, aquéllas cuyo pago deba efectuarse en los próximos diez días corridos, sea porque se cumple la fecha de vencimiento pactada o porque a pedido del depositante, de conformidad con las disposiciones vigentes, la entidad depositaria ha aceptado efectuar el pago antes de esa fecha. Como lo señala el precepto legal antes indicado, estas obligaciones se considerarán a la vista,para los efectos previstos en esa misma disposición.
 
 Con el fin de hacer la separación indicada, las obligaciones a plazo reflejadas en las partidas 3020, 3025 3030, 3065 y 3315, serán registradas, además, a partir del décimo día anterior a su vencimiento, en la cuenta de orden "Documentos a plazo afectos a reserva técnica" de la partida 9162. El registro de las obligaciones respectivas en la referida cuenta se mantendrá hasta la fecha de su pago o de los vencimientos correspondientes, oportunidad en que se efectuará su reversión. Igualmente se registrarán en la cuenta indicada, los importes de los depósitos y captaciones cuyo pago fuere requerido y aceptado para efectuarlo antes del vencimiento pactado.Este registro se hará al momento que la entidad reciba la correspondiente petición escrita del titular y si ésta es formulada con una anticipación mayor a diez días corridos de la fecha prevista para el pago, la anotación deberá hacerse en esas cuentas a más tardar el décimo día anterior a la fecha en que se materializará el pago anticipado.
 
@@ -5280,7 +5268,7 @@ Los reajustes e intereses por pagar de las obligaciones que han sido traspasadas
 
 ### 1. Relación de la reserva técnica con el encaje
 
-Los importes sujetos a reserva técnica según el artículo 80 bis de la Ley General de Bancos, no están afectos a encaje, y los saldos de caja y de cuentas corrientes con el Banco Central de Chile utilizados para enterar la reserva técnica no pueden, a su vez, ser empleados para enterar el encaje mantenido. Asimismo, el monto depositado en el Banco Central de Chile especialmente para constituir la reserva técnica, registrado en la cuenta "Depósitos de reserva técnica en el Banco Central de Chile" no podrá en caso alguno ser utilizado para enterar el encaje mantenido.
+Los importes sujetos a reserva técnica según el artículo 65 de la Ley General de Bancos, no están afectos a encaje, y los saldos de caja y de cuentas corrientes con el Banco Central de Chile utilizados para enterar la reserva técnica no pueden, a su vez, ser empleados para enterar el encaje mantenido. Asimismo, el monto depositado en el Banco Central de Chile especialmente para constituir la reserva técnica, registrado en la cuenta "Depósitos de reserva técnica en el Banco Central de Chile" no podrá en caso alguno ser utilizado para enterar el encaje mantenido.
 
 Las obligaciones por las cuales la institución deba constituir reserva técnica se deducirán de las obligaciones a la vista netas afectas a encaje y, en caso deque dichas obligaciones fueren inferiores al monto deducible, el remanente podrá ser rebajado de las obligaciones a plazo afectas a encaje.
 
@@ -5290,7 +5278,7 @@ De acuerdo con lo anterior, las instituciones financieras deberán determinar di
 
 Las instituciones financieras deberán enviar a esta Superintendencia la información sobre la reserva técnica de que se trata, de conformidad con las instrucciones del Manual del Sistema de Información.
 
-Además de la información que debe enviarse normalmente para el Sistema de Información de este Organismo, en caso de que la institución financiera registre un déficit de reserva técnica, el Gerente General deberá dar cumplimiento a lo dispuesto en el penúltimo inciso del artículo 80 bis de la Ley General de Bancos, comunicando esa situación dentro del día hábil bancario siguiente a aquél en que haya ocurrido, tal como se instruye en el numeral 10.1 del título I de este Capítulo.
+Además de la información que debe enviarse normalmente para el Sistema de Información de este Organismo, en caso de que la institución financiera registre un déficit de reserva técnica, el Gerente General deberá dar cumplimiento a lo dispuesto en el penúltimo inciso del artículo 65 de la Ley General de Bancos, comunicando esa situación dentro del día hábil bancario siguiente a aquél en que haya ocurrido, tal como se instruye en el numeral 10.1 del título I de este Capítulo.
 
 CAPITULO 5-1 (Bancos y Financieras)
 
@@ -8058,15 +8046,13 @@ Los directores y apoderados generales de una institución financiera podrán ser
 
 Los créditos correspondientes a las operaciones a que se refiere este Capítulo, están afectos a los límites de que trata el artículo 84 de la Ley General de Bancos. Se entiende que no constituyen créditos, para este efecto, los importes registrados en la cuenta "Utilizaciones de tarjetas de crédito por cobrar" de que trata el numeral 5.1 de este Capítulo, mientras corresponda que permanezcan en dicha cuenta.
 
-Por su parte, las obligaciones a favor de los establecimientos afiliados o de los operadores, en su caso, derivadas de la utilización de tarjetas de crédito, están afectas a los límites a que se refieren los artículos 81 y 115 del mencionado cuerpo legal.
-
 ### 9. Reserva técnica
 
-Los importes adeudados a los establecimientos afiliados, así como los pagos recibidos de los titulares que deben registrarse en la cuenta "Pagos de titulares de tarjetas de crédito por aplicar", se incluyen entre las obligaciones y depósitos a la vista afectos a reserva técnica de que trata el artículo 80 bis de la Ley General de Bancos y el Capítulo 4-2 de esta Recopilación Actualizada de Normas.
+Los importes adeudados a los establecimientos afiliados, así como los pagos recibidos de los titulares que deben registrarse en la cuenta "Pagos de titulares de tarjetas de crédito por aplicar", se incluyen entre las obligaciones y depósitos a la vista afectos a reserva técnica de que trata el artículo 65 de la Ley General de Bancos y el Capítulo 4-2 de esta Recopilación Actualizada de Normas.
 
 ### 10. Sanciones
 
-Sin perjuicio de las sanciones que esta Superintendencia puede aplicar a las instituciones financieras en uso de la facultad que le confiere el artículo 19 del Decreto Ley N° 1.097, las entidades que infrinjan las disposiciones que rigen las actividades relacionadas con la emisión y operación de tarjetas de crédito pueden ser sancionadas con la suspensión o revocación de la autorización que se les haya otorgado para emitir tarjetas de crédito, previo informe favorable por parte del Banco Central de Chile. Esta revocación o suspensión podrá originarse, también, cuando el sistema de tarjetas de crédito o su administración, no se realice de acuerdo con sanas prácticas financieras.
+Sin perjuicio de las sanciones que esta Superintendencia puede aplicar a las instituciones financieras en uso de la facultad que le confiere el artículo 19 de la Ley General de Bancos, las entidades que infrinjan las disposiciones que rigen las actividades relacionadas con la emisión y operación de tarjetas de crédito pueden ser sancionadas con la suspensión o revocación de la autorización que se les haya otorgado para emitir tarjetas de crédito, previo informe favorable por parte del Banco Central de Chile. Esta revocación o suspensión podrá originarse, también, cuando el sistema de tarjetas de crédito o su administración, no se realice de acuerdo con sanas prácticas financieras.
 
 Si a una institución financiera se le suspende la autorización para emitir tarjetas de crédito quedará impedida, mientras dure la suspensión, de entregar nuevas tarjetas, renovar las que haya emitido con anterioridad y afiliar nuevos establecimientos. En caso de que a una institución financiera se le revoque tal autorización, ésta deberá adoptar, además, las medidas pertinentes para
 
@@ -8701,28 +8687,6 @@ Las instituciones financieras que apliquen las instrucciones contables del prese
 a) En vez de las cuentas de orden de la partida 9150 señaladas en el numeral 7.1, se utilizarán las cuentas "Diferencias de precio de créditos vigentes" y "Diferencias de precio de créditos vencidos" correspondientes a la partida 9153. Lo indicado en el numeral 7.4 debe entenderse referido, en este caso, a las cuentas de orden de la partida 9153.
 
 b) Para registrar los créditos en cuentas de orden según lo indicado en el numeral 7.5 precedente, en vez de las cuentas "Créditos adquiridos a instituciones en liquidación - vigentes" o "Créditos adquiridos a instituciones en liquidación - vencidos", de la partida 9150, se utilizarán las cuentas "Créditos adquiridos de CORFO - vigentes" y "Créditos adquiridos de CORFO - vencidos" de la partida 9153.
-
-### 8. Márgenes
-
-8.1. Límites globales.
-
-Los saldos de precio pagaderas a plazo a favor de las entidades vendedoras que
-
-pudieren resultar de estas operaciones, quedarán afectos a los límites de los
-
-artículos 81 ó 115 de la Ley General de Bancos.
-
-8.2. Límites de operaciones interfinancieras.
-
-Los créditos derivados de los saldos de precio pagaderos a plazo adeudados a las
-
-instituciones en liquidación, por la compra de cartera de que trata este
-
-capítulo, no se consideran operaciones interfinancieras y, por consiguiente, no
-
-quedan afectos a los límites a que se refiere el Capítulo 12-7 de esta
-
-Recopilación de Normas.
 
 CAPITULO 8-8 (Bancos y Financieras)
 
@@ -9772,7 +9736,7 @@ OPERACIONES CON DOCUMENTOS DE LA CARTERA DE COLOCACIONES.
 
 ### I. CONSIDERACIONES GENERALES
 
-El N° 3 del artículo 83 de la Ley General de Bancos faculta a las instituciones financieras para descontar letras de cambio, pagarés y otros documentos que representen obligaciones de pago. El N° 4 del mismo artículo, por su parte, permite a las instituciones adquirir, ceder y transferir efectos de comercio con sujeción a las normas que acuerde el Banco Central de Chile.
+El N° 4 del artículo 69 de la Ley General de Bancos faculta a las instituciones financieras para descontar letras de cambio, pagarés y otros documentos que representen obligaciones de pago. El N° 6 del mismo artículo, por su parte, permite a las instituciones adquirir, ceder y transferir efectos de comercio con sujeción a las normas que acuerde el Banco Central de Chile.
 
 El presente Capítulo contiene las instrucciones relativas a las adquisiciones o descuentos de documentos de la cartera de colocaciones y a las ventas o cesiones de los mismos, sin perjuicio de las instrucciones generales relativas a las operaciones con títulos de crédito que se señalan en el Capítulo 2-1 de esta Recopilación Actualizada de Normas y que alcanzan tanto a los documentos correspondientes a inversiones como a los de la cartera de colocaciones a que se refiere este Capítulo.
 
@@ -9812,7 +9776,7 @@ Las ventas o cesiones de créditos de la cartera de colocaciones a otras institu
 
 Las instituciones financieras sólo podrán vender o ceder a personas diferentes a bancos o sociedades financieras establecidos en el país, los siguientes documentos de su cartera de colocaciones:
 
-a) Efectos de comercio correspondientes a créditos o préstamos pagaderos en moneda chilena que hayan otorgado a otras instituciones financieras y sólo si sus plazos de amortización total o parcial exceden de un año; y b) Mutuos Hipotecarios Endosables de que trata el N° 4 bis del artículo 83 de la Ley General de Bancos, siempre que se trate de los cesionarios que se señalan en el citado precepto legal y en el Capítulo 8-4 de esta Recopilación Actualizada de Normas y se cumplan los demás requisitos que se señalan en dicho Capítulo.
+a) Efectos de comercio correspondientes a créditos o préstamos pagaderos en moneda chilena que hayan otorgado a otras instituciones financieras y sólo si sus plazos de amortización total o parcial exceden de un año; y b) Mutuos Hipotecarios Endosables de que trata el N° 7 del artículo 69 de la Ley General de Bancos, siempre que se trate de los cesionarios que se señalan en el citado precepto legal y en el Capítulo 8-4 de esta Recopilación Actualizada de Normas y se cumplan los demás requisitos que se señalan en dicho Capítulo.
 
 ### 3. Ventas de efectos de comercio a otras instituciones financieras
 
@@ -9822,7 +9786,7 @@ En general, las instituciones financieras pueden vender o ceder a otra instituci
 
 Por regla general, las instituciones financieras no pueden ceder préstamos hipotecarios en letras de crédito.
 
-Conforme a lo dispuesto en el artículo 122 de la Ley General de Bancos, estos créditos pueden cederse como parte de las medidas para regularizar la situación de la institución cedente, debiendo transferirse la cartera de créditos como una universalidad y el adquirente asumir la obligación correspondiente al servicio de las respectivas letras de crédito en circulación.
+Conforme a lo dispuesto en el artículo 125 de la Ley General de Bancos, estos créditos pueden cederse como parte de las medidas para regularizar la situación de la institución cedente, debiendo transferirse la cartera de créditos como una universalidad y el adquirente asumir la obligación correspondiente al servicio de las respectivas letras de crédito en circulación.
 
 3.2. Cesión de Mutuos Hipotecarios Endosables.
 
@@ -9990,11 +9954,9 @@ Las compras de instrumentos para la cartera de inversiones financieras deben aju
 
 Las compras con pacto de retrocompra de instrumentos de esta especie quedan sujetas, además, a las instrucciones contenidas en el título III del citado Capítulo 2-1, debiendo contabilizarse de la forma prevista en el presente Capítulo.
 
-2.1.2. Inversiones financieras en el exterior que pueden mantener los bancos.
+2.1.2.- Inversiones financieras en el exterior.
 
-De conformidad con lo dispuesto en el N° 3 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las empresas bancarias situadas en el país deben, como norma general, obtener autorización expresa del Instituto Emisor para utilizar moneda extranjera con el objeto de efectuar inversiones financieras en el exterior.
-
-Con todo, las disposiciones recién citadas permiten a los bancos, sin solicitar una autorización previa del Banco Central de Chile, efectuar en el exterior, además de depósitos a la vista o a plazo, inversiones en instrumentos que el Instituto Emisor señala en forma expresa y dentro de los límites y condiciones que para el efecto tenga establecidos.
+Las empresas bancarias pueden mantener inversiones financieras en el exterior, de conformidad con lo dispuesto en el Capítulo III.B.5 del Compendio de Normas Financieras del Banco Central de Chile".
 
 2.1.3. Instrumentos en moneda extranjera que pueden adquirir las sociedades
 
@@ -10038,7 +10000,7 @@ Las inversiones en títulos de crédito quedan sujetas a los límites y prohibic
 
 En el caso de inversiones en cuotas de fondos mutuos, debe tenerse presente lo establecido en el numeral 3-3 del título II del mencionado Capítulo 12-3.
 
-Las inversiones en oro, por su parte, quedan sujetas al límite de inversiones del artículo 83 de la Ley General de Bancos, tratado en el Capítulo 12-10 de esta Recopilación Actualizada de Normas.
+Las inversiones en oro, por su parte, quedan sujetas al límite de inversiones del artículo 69 de la Ley General de Bancos, tratado en el Capítulo 12-10 de esta Recopilación Actualizada de Normas.
 
 ### 3. Definiciones
 
@@ -10466,7 +10428,7 @@ I.- INVERSIONES EN ORO.
 
 1. - Adquisición y mantención de inversiones en oro.
 
-Conforme a lo establecido en el Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las transferencias o transacciones de oro sellado chileno o en otra forma que sirva como medio de pago, constituyen operaciones de cambios internacionales. Por consiguiente y en virtud de lo dispuesto en el artículo 113 de la Ley General de Bancos, las sociedades financieras no pueden efectuar tales operaciones.
+Conforme a lo establecido en el Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las transferencias o transacciones de oro sellado chileno o en otra forma que sirva como medio de pago, constituyen operaciones de cambios internacionales. Por consiguiente y en virtud de lo dispuesto en el artículo 115 de la Ley General de Bancos, las sociedades financieras no pueden efectuar tales operaciones.
 
 Por otra parte, debido a que el Instituto Emisor no ha autorizado a las empresas bancarias la mantención de una posición para el efecto, los bancos también están actualmente impedidos de efectuar inversiones en oro. Sin embargo, están facultados para mantener, en calidad de inversión, el oro sellado chileno o en otra forma que adquirieron cuando ello estaba permitido por las regulaciones del Banco Central de Chile.
 
@@ -10496,7 +10458,7 @@ Por la misma cotización antes señalada, o por el equivalente de ésta que corr
 
 4.- Margen de inversiones.
 
-Las inversiones en oro que mantengan las empresas bancarias, quedan afectas al limite de que trata el inciso segundo del artículo 83 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación Actualizada de Normas.
+Las inversiones en oro que mantengan las empresas bancarias, quedan afectas al limite de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación Actualizada de Normas.
 
 II.- ORO EN CUSTODIA.
 
@@ -12344,13 +12306,9 @@ Haber: - "Deudores por Forward UF-Pesos".
 
 - "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el valor en pesos pactado a futuro y el equivalente del monto en unidades de fomento al valor que dicha unidad tenga en la fecha de vencimiento del contrato, cuando proceda.
 
-### 4. Otras instrucciones
-
-4.1. Límites.
+### 7. Límites
 
 Los contratos Forward UF-Pesos estarán afectos a los límites de que trata el artículo 84 N° 1 de la Ley General de Bancos, por la diferencia entre el equivalente del monto pactado en unidades de fomento, al valor que dicha unidad tenga en la fecha de celebración del contrato, y el importe en pesos pactado a futuro, que sea de cargo de los respectivos obligados. No obstante, dichos importes nominales no serán incluidos en los archivos de deudores que deben remitirse a esta Superintendencia.
-
-Por otra parte, las obligaciones que una institución financiera mantenga por estos contratos, estarán afectas al límite a que se refieren los artículos 81 y 115 de la Ley General de Bancos, por la diferencia entre el equivalente del monto pactado en unidades de fomento, al valor que dicha unidad tenga en la fecha de celebración del contrato, y el importe en pesos pactado a futuro, que sea de cargo de la institución financiera.
 
 En todo caso, las operaciones antes mencionadas que realicen las instituciones financieras, registradas en las partidas 2127 y 4127, quedan sujetas al margen para operaciones activas y pasivas a que se refiere el título III del Capítulo 12-9 de esta Recopilación. 4.2. Cómputo para efectos de límites de obligaciones.
 
@@ -15154,7 +15112,7 @@ BIENES RECIBIDOS O ADJUDICADOS EN PAGO DE OBLIGACIONES.
 
 Conforme al N° 5 del artículo 84 de la Ley General de Bancos, una institución financiera sólo podrá adquirir bienes distintos a los que expresamente autoriza dicha ley, en los siguientes casos:
 
-a) Cuando los reciba en pago de deudas vencidas y siempre que el conjunto de bienes que mantenga adquiridos en esta forma no supere en ningún momento el 20% de su capital pagado y reservas; y,
+a) Cuando los reciba en pago de deudas vencidas y siempre que el conjunto de bienes que mantenga adquiridos en esta forma no supere en ningún momento el 20% de su patrimonio efectivo; y,
 
 b) Cuando los adquiera en remate judicial en pago de deudas previamente contraídas a su favor. Los bienes adquiridos en remate judicial no quedan sujetos a margen.
 
@@ -15162,9 +15120,7 @@ Si bien la citada norma legal utiliza la expresión "remate judicial", estima es
 
 Los instrumentos financieros representativos de títulos de crédito de renta fija que las instituciones financieras reciban en pago de obligaciones a su favor,que la Ley General de Bancos expresamente les permite adquirir y conservar, se incorporarán al activo de la institución adquirente y no quedarán sujetos a las disposiciones contenidas en el presente capítulo, sino que deberán ceñirse a las disposiciones legales y a las normas impartidas por esta Superintendencia que les son aplicables, especialmente en lo que se refiere a márgenes y criterios de valorización.
 
-No obstante, si existen impedimentos para registrar títulos de créditos de renta fija recibidos en pago de obligaciones en la forma descrita en el párrafo precedente, porque con ello se sobrepasarían los límites legales o reglamentarios que los afectan, como por ejemplo, los establecidos en el artículo 84 de la Ley General de Bancos, las instituciones financieras pueden contabilizar dichos documentos de acuerdo con las normas de este capítulo, siempre que lo hagan al momento de su recepción. En este caso, los documentos
-
-deben ser enajenados dentro del plazo señalado en el N° 4 siguiente.
+No obstante, si existen impedimentos para registrar títulos de créditos de renta fija recibidos en pago de obligaciones en la forma descrita en el párrafo precedente, porque con ello se sobrepasarían los límites legales o reglamentarios que los afectan, como por ejemplo, los establecidos en el artículo 84 de la Ley General de Bancos, las instituciones financieras pueden contabilizar dichos documentos de acuerdo con las normas de este capítulo, siempre que lo hagan al momento de su recepción. En este caso, los documentos deben ser enajenados dentro del plazo señalado en el N° 4 siguiente.
 
 ### 2. Bienes recibidos en pago de colocaciones relacionadas
 
@@ -16788,7 +16744,7 @@ El "capital básico" o capital pagado y reservas comprende el capital pagado, la
 
 Para los efectos de la aplicación de los márgenes referidos al capital pagado y reservas, mencionados en el numeral 5.1 de este título, se deducirá el capital asignado a las sucursales en el exterior, señalado en la letra a) del numeral 2.1 de este título.
 
-Por otra parte, para los efectos del cálculo del importe máximo de bonos subordinados a que se refiere el artículo 55 de la Ley General de Bancos, deberán deducirse, además del capital asignado a sucursales en el exterior, los importes correspondientes a inversiones en sociedades, aludidos en la letra b) del numeral 2.1 de este título.
+Por otra parte, para los efectos del cálculo del importe máximo de bonos subordinados a que se refiere el artículo 66 de la Ley General de Bancos, deberán deducirse, además del capital asignado a sucursales en el exterior, los importes correspondientes a inversiones en sociedades, aludidos en la letra b) del numeral 2.1 de este título.
 
 2.- Patrimonio efectivo.
 
@@ -16830,7 +16786,7 @@ Constituyen "provisiones voluntarias", de acuerdo con el artículo 66 de la Ley 
 
 A ese respecto, las disposiciones de este Organismo exigen expresamente la constitución de provisiones para la mayoría de los activos y, por otra parte, ordenan aplicar criterios de general aceptación en todo aquello que no ha sido objeto de instrucciones específicas.
 
-El hecho de que esta Superintendencia establezca provisiones mínimas para los principales activos no es óbice para constituir provisiones superiores a esas mínimas exigidas. Por el contrario, si en algún momento la administración estima insuficientes las coberturas que se determinan mediante las metodologías de aplicación general dispuestas por este Organismo, la institución debe constituir mayores provisiones para obtener el resguardo que estime prudente frente a las circunstancias, como asimismo, constituir las demás provisiones que sean necesarias de acuerdo con criterios contables de aceptación general. Estas mayores provisiones sobre los activos deben también ser rebajadas de ellos para la medición del cumplimiento de las exigencias de capital básico y patrimonio efectivo mínimos de que tratan los numerales 4.1 y 4.2 de este título.
+El hecho de que esta Superintendencia establezca provisiones mínimas para los principales activos no es óbice para constituir provisiones superiores a esas mínimas exigidas. Por el contrario, si en algún momento la administración estima insuficientes las coberturas que se determinan mediante las metodologías de aplicación general dispuestas por este Organismo, la institución debe constituir mayores provisiones para obtener el resguardo que estime prudente frente a las circunstancias, como asimismo, constituir las demás provisiones que sean necesarias de acuerdo con criterios contables de aceptación general. Estas mayores provisiones sobre los activos deben también ser rebajadas de ellos para la medición del cumplimiento de las exigencias de capital básico y patrimonio efectivo mínimos de que tratan los numerales 3.1 y 3.2 de este título.
 
 Debe entenderse entonces que, para los efectos del artículo 66 de la Ley General de Bancos, tienen el carácter de provisiones voluntarias aquellas que no han sido establecidas obligatoriamente por esta Superintendencia y que no correspondan a una finalidad específica y concordante con criterios contables de aceptación general, esto es, aquellas que no están destinadas a cubrir riesgos o contingencias que pudieran estar presentes en los activos, ni corresponden a determinadas obligaciones de pago reales o contingentes.
 
@@ -18432,9 +18388,7 @@ LIMITES DE CREDITO A TRABAJADORES DE LA INSTITUCION FINANCIERA.
 
 ### 1. Límites de crédito a trabajadores
 
-De acuerdo con lo dispuesto en el N° 4 del artículo 84 de la Ley General de Bancos, el monto total de los créditos que una institución financiera puede
-
-otorgar a sus trabajadores, no puede exceder de un 1,5% del capital pagado y reservas de la empresa, ni puede ser superior, individualmente, al 10% de dicho límite.
+De acuerdo con lo dispuesto en el N° 4 del artículo 84 de la Ley General de Bancos, el monto total de los créditos que una institución financiera puede otorgar a sus trabajadores, no puede exceder de un 1,5% del patrimonio efectivo de la empresa, ni puede ser superior, individualmente, al 10% de dicho límite.
 
 No quedan sujetos a los límites señalados, los préstamos con garantía hipotecaria que, en una sola oportunidad respecto de una misma persona, se otorguen a los trabajadores con el objeto de que adquieran una casa habitación para su uso personal.
 
@@ -18622,71 +18576,21 @@ mediante el préstamo que les otorguen lo destinarán a su uso personal.
 
 ### 5. Cómputo de las obligaciones para ajustarse a los márgenes
 
-Si el límite global de crédito se encuentra cubierto por préstamos u otros
+Si el límite global de crédito se encuentra cubierto por préstamos u otros créditos ya concedidos, la institución financiera no puede otorgar nuevos créditos a sus trabajadores, mientras se mantenga esta situación. Del mismo modo, la empresa no puede otorgar nuevos créditos a un trabajador o a su cónyuge,salvo que ésta cumpla con los requisitos indicados en las letras a) y b)
 
-créditos ya concedidos, la institución financiera no puede otorgar nuevos
-
-créditos a sus trabajadores, mientras se mantenga esta situación. Del mismo
-
-modo, la empresa no puede otorgar nuevos créditos a un trabajador o a su
-
-cónyuge,salvo que ésta cumpla con los requisitos indicados en las letras a) y b)
-
-del numeral 3.2 anterior, si ello produce un exceso en relación con el 0,15% del
-
-capital y reservas establecido por la ley como límite individual.
+del numeral 3.2 anterior, si ello produce un exceso en relación con el 0,15% del patrimonio efectivo establecido por la ley como límite individual.
 
 5.1. Efecto de los intereses y reajustes.
 
-Para establecer la procedencia de otorgar un nuevo crédito afecto a los márgenes
-
-de que se trata, deben computarse, junto con éste, las obligaciones a que se
-
-refiere el N° 3 del presente capítulo, incluyendo el capital insoluto, los
-
-reajustes o variación del tipo de cambio y los intereses ganadas y no percibidos
-
-a la fecha en que aquél se otorgaría.
+Para establecer la procedencia de otorgar un nuevo crédito afecto a los márgenes de que se trata, deben computarse, junto con éste, las obligaciones a que se refiere el N° 3 del presente capítulo, incluyendo el capital insoluto, los reajustes o variación del tipo de cambio y los intereses ganadas y no percibidos a la fecha en que aquél se otorgaría.
 
 5.2. Deudas de personas que adquieren la calidad de trabajador.
 
-Las personas que adquieran la calidad de trabajador de una institución
+Las personas que adquieran la calidad de trabajador de una institución financiera y que mantengan deudas con ésta, deberán ajustar previamente sus obligaciones a los límites de que trata el N° 4 del artículo 84 ya citado y, por lo tanto, no podrán asumir sus funciones mientras los créditos que adeuden excedan dichos límites. Lo mismo deberá hacer la cónyuge del trabajador cuando los créditos que se le hubieren cursado queden sujetos a estos límites de conformidad con lo previsto en el numeral 3.2 de este capítulo.
 
-financiera y que mantengan deudas con ésta, deberán ajustar previamente sus
+No obstante lo anterior, cuando la deuda de estas personas corresponda a un crédito con garantía hipotecaria cursado para la compra de una vivienda para su uso personal, éste podrá acogerse a la exención de que trata el N° 4 de este capítulo, siempre que cumpla los requisitos y condiciones que allí se señalan.
 
-obligaciones a los límites de que trata el N° 4 del artículo 84 ya citado y, por
-
-lo tanto, no podrán asumir sus funciones mientras los créditos que adeuden
-
-excedan dichos límites. Lo mismo deberá hacer la cónyuge del trabajador cuando
-
-los créditos que se le hubieren cursado queden sujetos a estos límites de
-
-conformidad con lo previsto en el numeral 3.2 de este capítulo.
-
-No obstante lo anterior, cuando la deuda de estas personas corresponda a un
-
-crédito con garantía hipotecaria cursado para la compra de una vivienda para su
-
-uso personal, éste podrá acogerse a la exención de que trata el N° 4 de este
-
-capítulo, siempre que cumpla los requisitos y condiciones que allí se señalan.
-
-Debe tenerse presente, sin embargo, que la facultad de otorgar créditos para la
-
-vivienda, exentos de los límites, puede ejercitarse por una sola vez para cada
-
-deudor; por lo tanto, cuando una persona que haya obtenido créditos en esas
-
-condiciones deje de tener la calidad de trabajador de la institución financiera
-
-acreedora, y posteriormente se reintegre a ella, recuperando esa calidad, estará
-
-impedida de obtener un nuevo crédito acogido a la exención de los márgenes del
-
-#### Artículo 84
-
-N° 4 ya citado.
+Debe tenerse presente, sin embargo, que la facultad de otorgar créditos para la vivienda, exentos de los límites, puede ejercitarse por una sola vez para cada deudor; por lo tanto, cuando una persona que haya obtenido créditos en esas condiciones deje de tener la calidad de trabajador de la institución financiera acreedora, y posteriormente se reintegre a ella, recuperando esa calidad, estará impedida de obtener un nuevo crédito acogido a la exención de los márgenes del artículo 84 N° 4 ya citado.
 
 ### 6. Normas contables
 
@@ -19180,7 +19084,7 @@ Quedarán sujetas a una provisión del 100% sobre el importe de los créditos o 
 
 2.2.- Provisiones globales.
 
-Deberá constituirse una provisión global equivalente al 100% del exceso, cuando la suma de las colocaciones e inversiones señaladas en los literales B), C), D) y F) del N° 1, exceda el 70% del patrimonio efectivo de la institución financiera.
+Deberá constituirse una provisión global equivalente al 100% del exceso, cuando la suma de las colocaciones e inversiones señaladas en los literales B), C), D), E) y F) del N° 1, exceda el 70% del patrimonio efectivo de la institución financiera.
 
 Por otra parte, se constituirá una provisión global equivalente al 100% del exceso, cuando la suma de las operaciones señaladas en los literales D) y F) del N° 1, exceda el 20 % del patrimonio efectivo. No obstante, si la institución mantiene un índice de relación entre activos ponderados por riesgo y patrimonio efectivo igual o superior a un 10% según las normas del Capítulo 12-1 de esta Recopilación, esta provisión se constituirá por lo que exceda del 30% del patrimonio efectivo.
 
@@ -21550,21 +21454,15 @@ Los importes que los bancos perciban por concepto de recuperación de gastos de 
 
 ### 4. Límites
 
-4.1. Límites individuales de crédito.
-
 Los créditos por la negociación a plazo de cartas de crédito confirmadas y avances otorgados al exterior inherentes a cartas de crédito de exportación, están afectos a los limites de endeudamiento individual de que trata el articulo 84 de la Ley General de Bancos y que se señalan a continuación.
 
-La negociación de cartas de crédito a plazo con aceptación de letra o sin ella, cuando en este último caso se trate de cartas de crédito confirmadas, y los avances otorgados al exterior, están sujetos al limite del 30% del capital pagado y reservas del respectivo banco, siempre que sean rembolsables por intermedio de un Convenio de Pagos y Créditos Recíproco ALADI.
+La negociación de cartas de crédito a plazo con aceptación de letra o sin ella, cuando en este último caso se trate de cartas de crédito confirmadas, y los avances otorgados al exterior, están sujetos al limite del 30% del patrimonio efectivo del respectivo banco, siempre que sean rembolsables por intermedio de un Convenio de Pagos y Créditos Recíproco ALADI.
 
-Por otra parte, la negociación de cartas de crédito a plazo confirmadas correspondientes a exportaciones distintas a las señaladas en el párrafo precedente, y los avances otorgados al exterior sobre esas cartas de crédito, sean a la vista o a plazo, están afectos al limite del 10% del capital pagado y reservas del respectivo banco confirmador, cuando dichas operaciones no cuenten con garantía valida para los efectos de la Ley General de Bancos por un valor igual o superior al importe negociado, y del 30% de ese capital y reservas, cuando lo que exceda del citado 10% esté caucionado con tal garantía.
+Por otra parte, la negociación de cartas de crédito a plazo confirmadas correspondientes a exportaciones distintas a las señaladas en el párrafo precedente, y los avances otorgados al exterior sobre esas cartas de crédito, sean a la vista o a plazo, están afectos al limite del 10% del patrimonio efectivo del respectivo banco confirmador, cuando dichas operaciones no cuenten con garantía valida para los efectos de la Ley General de Bancos por un valor igual o superior al importe negociado, y del 30% de ese patrimonio efectivo, cuando lo que exceda del citado 10% esté caucionado con tal garantía.
 
 En todo caso, en los límites a que se refiere este numeral, se deben incluir las demás obligaciones que pueda tener la entidad deudora con el banco negociador,sea que estén afectas a estos margenes especiales o a los generales, del 5% para créditos sin garantía y del 25% para operaciones amparadas por garantía.
 
 Las confirmaciones de cartas de crédito de exportación, entre la fecha en que estas se otorguen y la fecha de negociación de las respectivas cartas de crédito,no están afectas a los límites de crédito de que trata el artículo 84 de la Ley General de Bancos.
-
-4.2. Límite global de endeudamiento.
-
-Las obligaciones derivadas de la confirmación de cartas de crédito, la negociación,contra aceptación de letra o sin ella, de cartas de crédito a plazo confirmadas y los retornos de exportación por liquidar, se deben incluir para los efectos del límite de endeudamiento de que trata el artículo 81 de la Ley General de Bancos.
 
 CAPITULO 14-2 (Bancos)
 
@@ -22056,8 +21954,6 @@ de importaciones de bienes para su uso.
 
 Asimismo, los bancos pueden emitir cartas de crédito que amparen el envío de mercaderías desde el extranjero a las Zonas Francas del país. Para el reembolso de estas cartas de crédito no se cuenta con acceso almercado cambiario formal, a diferencia de aquéllas que se abran para realizar importaciones al resto del país, las cuales tienen ese acceso, en la medida que cumplan con las normas fijadas para el efecto por el Banco Central de Chile.
 
-Con respecto al plazo de validez de las cartas de crédito para importaciones, debe tenerse presente que ellas se emiten al amparo de lo dispuesto en el N° 6 del artículo 83 de la Ley General de Bancos y, por lo tanto, no les es aplicable la limitación del N° 7 del mismo artículo 83, que faculta la emisión de cartas de crédito con plazos que no excedan de un año. En consecuencia, el plazo de validez debe sujetarse sólo al que hubiere aprobado el Banco Central de Chile o, en su defecto, al convenido con el solicitante siempre que se ajuste, en lo que corresponda, a lo establecido en el Título m del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
 1.3.- Financiamiento de las cartas de crédito.
 
 Las cartas de crédito que emitan las instituciones bancarias pueden ser financiadas por las personas que hayan solicitado su apertura, mediante la entrega al banco emisor del respectivo importe en moneda extranjera o de su equivalente en moneda chilena, como también pueden ser financiadas por el banco que emita dichos documentos. En este último caso, los créditos deberán
@@ -22462,17 +22358,9 @@ Los intereses ganados por estos financiamientos se registrarán, en moneda extra
 
 6.- Límites legales.
 
-6.1.- Límite individual de crédito.
-
 Los créditos correspondientes a acreditivos financiados por el banco emisor,están afectos a los límites a que se refiere el artículo 84 N° 1 de la Ley General de Bancos, desde el instante en que se procede a la apertura de larespectiva carta de crédito.
 
 Para esos efectos, se pueden considerar como garantía los documentos de embarque por recibir o recibidos, siempre que se cumplan las condiciones señaladas en el Capítulo 12-3 de esta Recopilación Actualizada de Normas.
-
-6.2.- Margen de endeudamiento.
-
-Las obligaciones correspondientes a las cartas de crédito de que trata el N° 1 de este capítulo, están afectas al límite establecido en el artículo 81 de la Ley General de Bancos.
-
-El saldo de la cuenta "Pagos a cuenta de ventas condicionales de monedas extranjeras", atendida su naturaleza, no se considera afecto a este límite.
 
 CAPITULO 15-2 (Bancos)
 
