@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.497, de 29 de diciembre de 2000, se expropió el lote de terreno Nº 108, superficie 379 m2., rol de avalúo 601-112, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán Collipulli. Sector Kms. 534.180,00 al 544.020,00, Octava Región y se acordó el valor de indemnización con su propietaria Orfelia del Carmen Cisternas Véliz, ascendente a la cantidad de $10.263.248.-.
+
+Fiscal del Ministerio de Obras Públicas.
