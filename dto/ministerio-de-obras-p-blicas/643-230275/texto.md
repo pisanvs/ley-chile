@@ -1,0 +1,5 @@
+Por decreto MOP Nº 643 de 29 de julio de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206 de 1960, se expropió el lote de terreno Nº 12 para la obra:
+
+"Proyecto: Concesión Internacional Sistema Américo Vespucio Nor - Poniente. Avda. El Salto - Ruta 78. Tramo 3: Ruta 5 Norte - Condell. Colector y canal de aguas lluvias Loteo Industrial", Región Metropolitana, que figura a nombre de Inversiones Ataquines S.A., rol de avalúo 7761-36, comuna de Pudahuel, superficie 1.412 m2. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Mufida Viola Abuawad Elías y Nicolás Fabián Romero Morales, fijó con fecha 12 de marzo de 2004, el valor provisional de la indemnización en la cantidad de $5.636.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
