@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 341 de 27 de febrero de 2004, se expropió el lote de terreno Nº 157, superficie 190 m2, Rol Nº 32-516, comuna de Pichidegua, VI Región para la obra "Camino Colchagua - Pichidegua, Sector San Roberto - Cruceros, Tramo Km. 12.30000 a Km. 26,00400" y se acordó el valor de indemnización con su propietario Juan Alberto Dinamarca López, ascendente a la cantidad de $2.660.264.-
+
+Fiscal del Ministerio de Obras Públicas.
