@@ -66,15 +66,9 @@ Reemplázase el artículo 11 del Reglamento Especial de Viviendas Económicas, p
 
 "La superficie edificada se calculará sobre la base de medidas obtenidas en obra gruesa, más el 50% de los espacios abiertos cubiertos como balcones, loggias, jardines, terrazas, etc., los que no podrán exceder del 7% de la superficie interior".
 
-#### Artículo 5°
+#### Artículo 5º
 
-Reemplázase el artículo 12 del Reglamento Especial de Viviendas Económicas por el siguiente:
-
-"En los edificios de departamentos se considerarán como espacios comunes las circulaciones horizontales y verticales (incluso ascensores), recintos de caldera, estanques y deartamentos del mayordomo no superior a 35 metros cuadrados.
-
-En los departamentos superiores a 100 m2. la superficie máxima se calculará incluyendo el prorrateo proporcional de los espacios comunes.
-
-En los departamentos inferiores a 100 m2., la superficie se calculará sin incluir los espacios comunes".
+DEROGADO.
 
 Anótese, tómese razón, comuníquese, publíquese e insértese en la Recopilación de Reglamentos de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Jefe del Estado.- Arturo Troncoso Daroch, Contralmirante, Ministro de la Vivienda y Urbanismo.
 
