@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.813, de 5 de julio de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111043 presentada por INVERSIONES CONCOTO LIMITADA, para instalar y operar un centro de cultivo ubicado en Golfillo de la Lobada de Quetros, Puerto Cholga, sector sur de Isla Mercedes, XI Región.
+
+Valparaíso, 5 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
