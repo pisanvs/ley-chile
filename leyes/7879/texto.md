@@ -1,0 +1,1 @@
+Dispone que las planchas de hierro (palastro) de dimensiones y pesos similares a los de la hojalata común, que se importen para ser empleadas exclusivamente en reemplazo de ellas, pagarán el mismo derecho de internación que fija la partida 1197 a dicha hojalata.
