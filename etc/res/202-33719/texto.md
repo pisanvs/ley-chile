@@ -1,0 +1,5 @@
+Por resolución N° 202 de 10 de Febrero de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto parcialmente la resolución N° 1.816, de 1989, que derogó la resolución N° 921, de 1988, ambas de esta Subsecretaría, que autorizó a don OSTAP WLADIMIR WILKOMIRSKY FUICA, R.U.T. N° 3.997.674-9, para realizar actividades de acuicultura de alga gracilaria (Gracilaria spp.), en dos sectores ubicado en la Comuna de Caldera, Provincia de Copiapó, III Región, sólo en lo que respecta al centro de cultivo ubicado en el Puerto de Caldera, Comuna de Caldera, Provincia de Copiapó, III Región, por haberse incurrido en un error en su dictación.
+
+Modifícase además la resolución N° 921, de 1988, de esta Subsecretaría, que autorizó a don Ostap Wladimir Wilkomirsky Fuica, ya individualizado, en el sentido de corregir la extensión y coordenadas geográficas del centro de cultivo ubicado en el Puerto de Caldera, Comuna de caldera, provincia de Copiapó, III Región.
+
+Valparaíso, 10 de Febrero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
