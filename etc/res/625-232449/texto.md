@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 625, 20 octubre 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Manuel Bajón Nº 44, Rol de Avalúo Nº 2758-8, comuna Chiguayante, superficie 195,90 metros cuadrados de terreno y 70,80 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 16.574, de aparente dominio de Antonio Zárate Sepúlveda, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme articulo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Jorge Jerez Avello, arquitecto, Christian Gabler Solís, ingeniero civil y Juan Pablo Castillo, constructor civil, según informe de fecha 30 de mayo 2004, fijó monto provisional indemnización en $20.776.700.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
