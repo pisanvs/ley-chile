@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.590, de 20 de diciembre de 2004, de esta Subsecretaría, autorízase a PESQUERA PULUQUI S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Almirante Latorre Nº 460, Calbuco, X Región, en las líneas de elaboración de Congelado, Seco-Salado y Ahumado, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
