@@ -1,0 +1,3 @@
+Por Resolución No. 758 de 10 de Agosto de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 1.831, de 1989, de esta Subsecretaría, que autorizó a doña MARIA ELENA SANCHEZ CASTAÑOS, R.U.T. No. 2.747.513-9, domiciliada en calle General Jofré No. 0147, Depto. 3-A, Santiago, para operar un establecimiento de cultivo en la Reserva Norte del Río Maullín, Provincia de Llanquihue, X Región, por renuncia total de su titular.
+
+Valparaíso, 10 de Agosto de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
