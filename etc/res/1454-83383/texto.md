@@ -1,0 +1,3 @@
+Por resolución Nº1.454, de 21 de Noviembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 18 de octubre 1990, el plazo otorgado don WASHINGTON MONTAÑA AMPUERO, RUT Nº8.520.948-5, domiciliado en Camino Alerce S/Nº , El Mirador, Puerto Varas, en el numeral 5º de la Resolución Nº1.334, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 21 de Noviembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
