@@ -1,0 +1,5 @@
+Caminos
+
+El camino mas frecuentado del Reyno i la principal salida de esta Capital, es precisamente el peor, i el que tiene mejores fondos para la reparacion. Este es el de Colina, tránsito forzoso para todas las provincias del Norte, i para las de Buenos Aires por donde se hace casi todo el comercio de Chile. El Gobierno cree que ni hai un objeto tan digno de su atencion, ni un ajente mas adecuado para mejorarlo que Ud. Así confía de su amor a la patria i de su activo celo que tomará con gusto sobre sí este importante encargo, superando las dificultades de que están erizadas las obras benéficas a proporcion de su utilidad. Proponga Ud. i pida cuanto sea necesario, i cuente con todos los auxilios de esta autoridad, que no duda ver esta vez realizados los deseos infructuosos, i acallados los clamores de tres siglos de abandono.-
+
+Dios guarde a Ud. muchos años.- Sala de Gobierno i Enero 12 de 1813.- Al señor Alcalde ordinario de esta capital don Jorje Godoy. (Publicada sin firma en La Aurora del 21 de Enero de 1813.)
