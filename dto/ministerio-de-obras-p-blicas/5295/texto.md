@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.295, de 13 de diciembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1, para la obra "Concesión Internacional Interconexión Vial. Santiago - Valparaíso - Viña del Mar. Tramo 15:
+
+Km. 93.090,00 a Km. 96.800,00", Quinta Región, que figura a nombre de Cía. Seguros de Vida Consorcio Nac., rol de avalúo 9500-17, comuna de Valparaíso, superficie 6.832 m2. La Comisión de Peritos integrada por los señores Marcela Alejandra Redard Ayala, Miguel Juan Fernández Cádiz y María Elena García Monteverde, fijó con fecha 11 de julio de 2000, el valor provisional de la indemnización en la cantidad de $84.364.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
