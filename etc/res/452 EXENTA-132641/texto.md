@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 452 de 29 de Marzo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido - Reserva y Sector Expropiado Predios:
+
+"La Pataguilla" e "Hijuela Los Perales de Chomedahue" de la comuna de Santa Cruz, VI Región, y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 100, sitios N°s. 1 al 29, 32 al 34, 36 al 41 y 44 al 65 y Reservas CORA No. 10, 15, 16 y 17 del Proyecto de Parcelación "Chomedahue" formado entre otros por predios señalados. Los derechos de agua se extraen de los canales La Pataguilla, La Punta, Común, Zanjón Chépica, La Patagua, Población, Chomedahue. Derrames de los predios Patagua y Pataguilla y de los predios vecinos de La Pataguilla. Pozo profundo ubicado en el Bien Común Especial No. 9 del Proyecto de Parcelación y en el Estero Las Toscas. Publicación hecha conforme Art. 13 No. 18.377.-
+
+Director Ejecutivo.
