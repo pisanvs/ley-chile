@@ -1,0 +1,5 @@
+Por Resolución No. 370, de 4 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución No. 904, de 1989, de esta Subsecretaría, por la cual se autorizó a don MARIO NOLBERTO GOMEZ VEGA, R.U.T. No. 4.585.309-8, domiciliado en Villa Los Cóndores Los Jacintos 5030, Talcahuano, para iniciar actividades pesqueras, de la siguiente manera a) en el numeral 1 de la referida Resolución, consignando que el domicilio del interesado es Villa Los Cóndores, Los Jacintos 5030, Talcahuano; b) En el numeral 2° de la misma Resolución, rectificando la capacidad de bodega de las embarcaciones autorizadas, que corresponde a 48 mt3., cada una.
+
+Prorrógase por 30 días a contar de esta fecha, el plazo concedido a don Mario Nolberto Gómez Vega, en el numeral 4 de la Resolución No. 904 de 1989, por haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 4 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
