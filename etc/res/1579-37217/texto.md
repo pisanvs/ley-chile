@@ -1,0 +1,3 @@
+Por Resolución N° 1.579, de 23 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94101092, presentada por LUIS HUMBERTO SEGOVIA ALMONACID, para un centro de cultivo correspondiente a la Parcela 14, Lote C, ubicada en Ribera Norte del Río Maullín, Comuna de Maullín, Provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 23 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
