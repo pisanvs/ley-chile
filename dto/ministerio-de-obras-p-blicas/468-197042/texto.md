@@ -1,0 +1,3 @@
+Por decreto MOP Nº 468, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs 1, 2 y 3, superficies 1.875 M2, 18.777 M2 y 2.875 M2, respectivamente, rol de avalúo 63-39, comuna de Lonquimay, IX Región para la obra "Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Liucura-Paso Pino Hachado, Km. 158,54000 al 179,59862, correspondiente al Tramo I Km. 158,54000 al 165,85100" y se acordó el valor de indemnización con su propietario don Anacleto Segundo Codova Estrada, ascendente a la cantidad de $7.484.578.-
+
+Fiscal del Ministerio de Obras Públicas.
