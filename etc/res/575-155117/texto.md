@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA MANQUEHUE SOCIEDAD ANONIMA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO AUTORIZACIONES QUE INDICA
+
+Por resolución Nº 575, de 4 de Diciembre de 1984, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Manquehue Sociedad Anónima, domiciliada en Santiago, para operar las embarcaciones "Llaima" y "Sotavento", en el litoral comprendido entre la Primera y la Segunda Región, en faenas extractivas de jurel, sardina española, caballa y anchoa. Además, se dejan sin efecto las autorizaciones otorgadas a Pesquera Iquique S.A. por resoluciones Nºs. 2 y 381, ambas de 1980, de la Subsecretaría de Pesca, para operar respectivamente las embarcaciones citadas.
+
+Santiago, 4 de Diciembre de 1984.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
