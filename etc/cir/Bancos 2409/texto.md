@@ -982,82 +982,6 @@ Sin embargo, al establecer la cuantía de las operaciones que deben ponerse en s
 
 Por igual motivo, en la misma oportunidad deberá informarse el número y monto total de los créditos concedidos o renovados desde la sesión de directorio anterior.
 
-CAPITULO 1-5 (Bancos)
-
-MATERIA:
-
-SUCURSALES EN EL EXTERIOR.
-
-Las sucursales que los bancos chilenos abran en el exterior se regirán por las disposiciones de la Ley General de Bancos que les sean aplicables según sus artículos 31 y 31 bis; por las normas cambiarlas dictadas por el Banco Central de Chile y por las que se imparten a continuación:
-
-1.- Normas contables.
-
-1.1.- Para la Casa Matriz.
-
-1.1.1.- Si las divisas para enterar el capital que la Casa Matriz destine a una sucursal en el exterior son adquiridas en el mercado cambiario, el banco cargará el correspondiente equivalente en moneda chilena a sus reservas en pesos chilenos, a la vez que abonará las divisas compradas para ese fin a reservas en moneda extranjera.
-
-1.1.2.- El capital enterado a una sucursal en el exterior se registrará dentro del activo de la Casa Matriz, en la partida 1775 "Otras Inversiones no Financieras", del MB1.
-
-1.1.3.- La Casa Matriz registrará las utilidades de las sucursales en el exterior en una cuenta que establecerá para dicho efecto y que se demostrará en la partida 7910 del MR1. Si las utilidades no han sido remesadas se contabilizarán, mientras no se transfieran a la Casa Matriz, en una cuenta que,con el nombre de "Utilidades por recibir de Sucursales" se incluirá en la partida 2120 "Activo Transitorio", del MB1.
-
-1.1.4.- Las pérdidas que arrojen las sucursales en el exterior se demostrarán en el Balance de la Casa Matriz en el mismo ejercicio en que ellas ocurran, en la cuenta "Pérdidas de Sucursales en el Exterior", que se incluirá en la partida 5900 del MR1. Estas pérdidas deberán a la vez contabilizarse, hasta tanto no sean liquidadas, en una cuenta de pasivo que se denominará "Pérdidas de Sucursales en el exterior por liquidar" que formará parte de la partida 4120 "Pasivo Transitorio" del MB1.
-
-1.1.5.- El capital asignado a una sucursal en el exterior para los efectos de los márgenes de la ley chilena que les sean aplicables, autorizado por esta Superintendencia de acuerdo con lo dispuesto en el artículo 31 bis de la Ley General de Bancos, deberá registrarse en la cuenta de orden "Capital asignado a sucursales en el exterior", de la partida 9700.
-
-1.2.- Para las sucursales en el exterior.
-
-1.2.1.- Las sucursales deberán llevar la contabilidad completa, independiente dela de su Casa Matriz y de las demás sucursales.
-
-1.2.2.- El sistema contable que implante cada sucursal, deberá ceñirse a principios y normas de contabilidad generalmente aceptados.
-
-1.2.3.- Al término de cada día, todas las transacciones que se hayan cursado deberán quedar registradas en los libros, de modo que, al inicio del día siguiente, se cuente con la información necesaria para el manejo y control de la entidad.
-
-En consecuencia, la contabilidad deberá mantenerse permanentemente al día.
-
-1.2.4.- Las partidas que asienten en sus registros deberán contener los antecedentes necesarios, según la naturaleza de la transacción, de tal manera que sea posible identificar la operación que les dio origen.
-
-1.2.5.- Los balances generales y estados de situación, serán confeccionados por cada una de la sucursales en el exterior en forma independiente de su Casa Matriz y de las demás sucursales.
-
-1.2.6.- No obstante en caso de que un banco tenga más de una sucursal situada en un mismo país extranjero, una de ellas podrá hacer de Sucursal Principal pudiendo refundir en uno solo los estados financieros de todas la oficinas del banco situadas en el mismo país.
-
-1.2.7.- Sin perjuicio de las regulaciones que las sucursales tengan que satisfacer en el país en que estén situadas, deberán mantener un plan de cuentas, expresado en idioma español, equivalente al que aplique su Casa Matriz en Chile.
-
-2.- Resultados financieros.
-
-2.1.- Las utilidades netas generadas por las sucursales en el exterior podrán ser retenidas por ellas o remesadas a su Casa Matriz.
-
-2.2.- En todo caso, dichas utilidades se incluirán en el resultado del Balance General de la Casa Matriz, en el mismo ejercicio en que se devenguen.
-
-2.3.- Las pérdidas que registraren las sucursales en el exterior, serán igualmente contabilizadas en el Balance General de la Casa Matriz, en el mismo ejercicio en que se produzcan.
-
-3.- Relaciones con esta Superintendencia.
-
-3.1.- Las sucursales en el exterior se relacionarán con esta Superintendencia a través de su Casa Matriz y, por lo tanto, todas las comunicaciones que dirijan a este Organismo, deberán ser firmadas por el Gerente General del banco.
-
-3.2.- Los estados financieros, formularios y demás información que las sucursales en el exterior envíen a esta Superintendencia, deberán venir firmados por la persona responsable de la sucursal y por el respectivo contador. Adicionalmente, los referidos estados deberán ser firmados por el Gerente General del banco o por quien haya sido designado en su remplazo para estos efectos, conforme a las normas contenidas en el Manual del Sistema de Información.
-
-4.- Información a esta Superintendencia.
-
-4.1.- Las sucursales deberán preparar con la misma periodicidad que debe hacerlo la Casa Matriz los formularios MB1 y MR1. Estos formularios se confeccionarán expresados en la misma moneda del país en que se encuentre situada la respectiva sucursal, con indicación del equivalente en Pesos a la paridad que para efectos contables rija a la fecha de la información. El plazo para la entrega de esos formularios a esta Superintendencia, será el doble del que rija para las instituciones situadas en Chile.
-
-4.2.- Las sucursales deberán enviar semestralmente la clasificación de sus deudores de acuerdo a las normas sobre clasificación de cartera. Dicha información estará referida al 30 de junio y 31 de diciembre del año correspondiente y sera presentada dentro del mes siguiente a esas fechas.
-
-4.3.- Las sucursales enviarán trimestralmente el formulario T 15, con los datos relativos a la relación entre las operaciones activas y pasivas de acuerdo a lo dispuesto en el Manual del Sistema de Información.
-
-5.- Auditoría de Balances.
-
-5.1.- Los balances generales de las sucursales deberán ser revisados por auditores externos independientes.
-
-5.2.- Para ese objeto podrán utilizar los servicios de auditores externos distintos de los contratados para revisar el balance general de su Casa Matriz.
-
-5.3.- En todo caso, el dictamen de los auditores deberá ser acompañado, en caso de estar redactado en idioma extranjero, de la correspondiente traducción en español.
-
-6.- Publicación de estados financieros.
-
-6.1.- La Casa Matriz publicará en Chile, simultánea y conjuntamente con su balance general, el balance correspondiente a sus sucursales en el exterior.
-
-6.2.- Tanto los balances de las sucursales como las notas anexas que correspondan, deberán estar expresados en idioma español.
-
 CAPITULO 1-6 (Bancos y Financieras)
 
 MATERIA:
@@ -7634,6 +7558,260 @@ Cuando se trate de bonos subordinados, las instituciones financieras deberán at
 
 Asimismo, en el evento de que se coloquen bonos en el exterior, deberán considerarse las normas del Capítulo 13-34 de esta Recopilación.
 
+CAPITULO 7-6 (Bancos)
+
+MATERIA:
+
+PROVISIONES POR RIESGO-PAIS.
+
+I.- ASPECTOS GENERALES.
+
+1.- "Riesgo-país".
+
+Para los efectos de las presentes normas, se entiende como "riesgo-país" el riesgo que se asume al mantener o comprometer recursos en algún país extranjero, por los eventuales impedimentos para obtener su recuperación debido a factores que afectan globalmente al país respectivo, distintos del riesgo de crédito u otros riesgos propios de las operaciones realizadas con sus residentes, cuyo análisis y reconocimiento contable se realiza con prescindencia de las consideraciones relativas a eventuales dificultades en la repatriación de los recursos y que son ajenas a la liquidez, solvencia o comportamiento de las contrapartes.
+
+El riesgo-país comprende el "riesgo soberano" y el "riesgo de transferencia". En el caso de las operaciones de crédito, el primero corresponde a las dificultades que podrían presentarse para ejercer acciones contra el prestatario o último obligado al pago por razones de soberanía, en tanto que el segundo se refiere a la incapacidad general de los deudores de un país para hacer frente a sus obligaciones con acreedores extranjeros, por carecer de divisas.
+
+Por consiguiente, los bancos que inviertan recursos en el exterior, deben mantener permanentemente evaluada la situación del respectivo país, mediante un análisis integral que contemple tanto los aspectos económicos como políticos y sociales.
+
+Frente a la necesidad de que esas evaluaciones se realicen siguiendo criterios prudenciales y uniformes, en el presente Capítulo se establece la metodología que deberán utilizar los bancos para determinar el riesgo-país y se disponen los niveles de provisión que consecuentemente deben mantener para cubrir eventuales pérdidas por los activos o derechos cuya recuperación está supeditada a una transferencia o giro desde el exterior.
+
+2.- Asunción del riesgo-país.
+
+El uso de los recursos en otros países exige la fijación de políticas eficaces para acotar y manejar el riesgo que se asume, aplicando el máximo de cuidado y rigurosidad en el análisis y seguimiento del riesgo-país.
+
+Por esa razón, corresponderá al Directorio de cada banco:
+
+a) Establecer las políticas con respecto al uso de los recursos para créditos, depósitos e inversiones en el exterior, fijando una adecuada diversificación e imponiendo, sin perjuicio de los límites legales y reglamentarios, límites crediticios y de inversiones por país.
+
+b) Establecer, al menos una vez en cada semestre calendario, la categoría de riesgo que, según la metodología establecida en el presente Capítulo, la institución le asigna a cada país con el cual se operará.
+
+c) Velar por una evaluación rigurosa y continua del riesgo de cada país, efectuada por profesionales idóneos y calificados para su análisis y seguimiento permanente.
+
+Las directrices y acuerdos tomados por el Directorio sobre la materia, deberán quedar debidamente expresados en el acta de la sesión.
+
+Para efectos de los acuerdos que periódicamente debe tomar el Directorio según lo indicado en la letra b), como asimismo para las eventuales revisiones de esta Superintendencia señaladas en el N° 3 siguiente, el análisis de cada país evaluado debe quedar reflejado en un informe razonado, que contenga toda la información relevante y las conclusiones que determinan la categoría de riesgo asignada al respectivo país.
+
+3.- Supervisión de este Organismo.
+
+Esta Superintendencia, dentro de su política de supervisión preventiva que requiere de una evaluación integral de las instituciones financieras y, además, para los efectos de la calificación de gestión a que se refiere el artículo 59 y siguientes de la Ley General de Bancos, examinará la forma en que cada banco enfrenta el riesgo-país, analizando los fundamentos de las políticas fijadas por el directorio y la eficacia de los controles establecidos para su cumplimiento.
+
+Asimismo, este Organismo revisará el cumplimiento de las instrucciones del presente Capítulo, pudiendo exigir, en el evento de observarse algún país deficientemente evaluado o sin un seguimiento oportuno de su riesgo, su reclasificación y el consiguiente ajuste en el nivel de provisiones.
+
+II.- METODOLOGIA DE CLASIFICACION.
+
+La evaluación del riesgo-país incluirá dos tipos de análisis: a) el "análisis base", que corresponde a una primera aproximación fundada, principalmente, en las cifras o indicadores macroeconómicos y en la información de hechos relevantes en relación con los compromisos financieros de un país; y, b) el "análisis complementario", que considerará los demás aspectos relevantes para la evaluación de un país, como es el caso de los factores políticos y sociales cuya información normalmente no se traduce en antecedentes de orden cuantitativo.
+
+Ambos análisis deberán reflejarse en los informes como fundamento de la categoría de riesgo que se le asigna al país evaluado, según lo que se indica a continuación:
+
+1.- Análisis base.
+
+En general, en este análisis se debe examinar cada país en relación con su capacidad de enfrentar compromisos financieros, su acceso al mercado de crédito y el grado de estabilidad macroeconómica.
+
+Este estudio debe concentrarse en la información de al menos los últimos cinco años, sobre los tres aspectos que se describen a continuación:
+
+i) Capacidad para enfrentar compromisos financieros. Una de las variables más importantes en cualquier evaluación, la constituye la capacidad del país para responder a sus compromisos con el exterior. Para examinarla, es básico analizar la evolución de su deuda externa y su comportamiento de pago, en cuanto a renegociaciones y postergaciones o interrupciones, transitorias o permanentes, del servicio de sus deudas.
+
+ii) Acceso a financiamiento. Se debe considerar si el país tiene o no acceso al mercado de crédito voluntario y, en el caso de créditos condicionados de organismos multilaterales, cómo ha sido el cumplimiento de los acuerdos que condicionan los mismos.
+
+iii) Equilibrios macroeconómicos. Es necesario efectuar un análisis riguroso de los equilibrios macroeconómicos del país, observando los indicadores claves tales como el crecimiento del Producto Interno Bruto (PIB), la tasa de inflación, el ahorro, la inversión y la situación fiscal. Asimismo, debe analizarse: el comportamiento de las cuentas externas, en especial, la composición y saldo de la balanza de pagos (estructura de la cuenta corriente y de capitales) y la estabilidad de las fuentes permanentes de ingreso de divisas; la capacidad o permeabilidad, originada por el grado de compromiso del capital del país con sus acreedores, para enfrentar con éxito períodos de liquidez; la información relativa a la cuantía y estructura de la deuda externa y su evolución con respecto a variables tales como el PIB, las reservas internacionales, las exportaciones, el nivel de reservas en relación con las importaciones; y, los demás aspectos específicos que sean necesarios de acuerdo con el buen juicio profesional del analista y las peculiaridades de cada país evaluado.
+
+2.- Análisis complementario.
+
+A partir del análisis base de que trata el N° 1 precedente, se categorizará preliminarmente el país evaluado en alguno de los niveles de riesgo definidos en el numeral 3.1 de este título.
+
+El nivel de riesgo definitivo que le corresponderá al país, dependerá del resultado del análisis complementario, el cual alcanzará todos aquellos aspectos que no son cubiertos en el análisis base, pero que son significativos para una evaluación completa del país según lo indicado en el numeral 3.2 de este título.
+
+Si de este análisis complementario se desprenden factores negativos, la categoría definitiva en la que corresponde clasificar al país será aquella inmediatamente inferior, es decir, la de mayor riesgo que le sigue.
+
+3.- Categorías de riesgo.
+
+3.1.- Clasificación según el análisis base.
+
+Los países se clasificarán en alguno de los siguientes grupos, considerando el comportamiento de las variables mencionadas en el N° 1:
+
+Grupo 1: Países con bajo riesgo.
+
+Los países que merecen esta clasificación son aquellos que no presentan dudas acerca de la capacidad de pago de sus obligaciones con el exterior, como tampoco problemas en la financiación de sus actividades de comercio exterior, ni restricciones significativas en las transacciones financieras internacionales.
+
+Además, el país deberá cumplir las dos condiciones siguientes:
+
+a) Que aparezca clasificado como país "industrializado", por el Fondo Monetario
+
+Internacional (FMI); y,
+
+b) Que su moneda nacional sea admitida por el Banco Central de Chile para el pago de exportaciones chilenas, conforme a lo establecido en el Capítulo XI del Título II de su Compendio de Normas de Cambios Internacionales.
+
+Grupo 2: Países con riesgo normal.
+
+Se incluirán en este grupo todos aquellos países que no deban incorporarse en otro de mayor riesgo de acuerdo con los criterios establecidos en las presentes normas.
+
+Grupo 3: Países con riesgo superior al normal.
+
+En esta categoría se incluyen aquellos países que no presentan desequilibrios macroeconómicos de importancia, es decir, que sus desbalances internos y externos son controlables, pero existen dudas de que esa situación se mantenga en el mediano plazo.
+
+Esta categoría es la máxima en la que puede incluirse un país que presente una o más de las siguientes situaciones:
+
+a) Existen dudas razonables en cuanto a que el país logre mantener en el mediano plazo sus equilibrios macroeconómicos.
+
+b) Su nivel de endeudamiento dificulta la contratación de nuevos créditos en condiciones normales.
+
+c) En su comportamiento de pago se observa alguna de las siguientes circunstancias: i) Interrumpió en los últimos 5 años, total o parcialmente, la amortización de sus deudas, pero el servicio de intereses lo efectuó normalmente;
+
+ii) Ha renegociado su deuda en los últimos 5 años, de modo total o parcial, alargando su plazo de vencimiento.
+
+Grupo 4: Países con dificultades.
+
+Se incluyen en esta categoría los países cuyos desequilibrios internos y externos son continuos o recurrentes. Sus economías presentan, por lo general, una base exportadora poco diversificada que los expone a frecuentes fluctuaciones en sus ingresos de exportación, con los consiguientes atrasos en sus compromisos financieros internacionales, constituyendo una característica común de estos países la necesidad de cumplir programas asociados al financiamiento de organismos internacionales de crédito (FMI, Banco Mundial u otros similares).
+
+Esta categoría es la máxima en la que puede incluirse un país que presente una o más de las siguientes situaciones:
+
+a) Incumplimiento de las metas asociadas a créditos de organismos multilaterales otorgados con el compromiso de saneamiento de la economía.
+
+b) No existe claridad en cuanto a que las renegociaciones pactadas obedezcan a una adecuación definitiva a su capacidad de pago.
+
+c) En su comportamiento de pago se observa alguna de las siguientes circunstancias: i) Interrumpió en los últimos dos años, total o parcialmente, la amortización de sus deudas, aunque el servicio de intereses lo efectuó normalmente; ii) En los últimos dos años ha renegociado su deuda, alargando su plazo de vencimiento, o bien, demuestra interés en efectuar tales renegociaciones; o, iii) Ha refinanciado en los últimos dos años una parte sustancial de sus intereses con nuevos créditos
+
+Grupo 5 Países dudosos.
+
+Esta categoría incluye a los países que exhiben significativos desequilibrios internos y externos, lo que se traduce en altas tasas de inflación y crecimiento del producto muy bajo o incluso negativo, y dificultades de financiamiento de la balanza de pagos. Dicho escenario conduce a niveles crecientes de reprogramaciones de sus compromisos externos, siendo escasa la posibilidad de pago.
+
+Debe clasificarse en esta categoría el país que, sin estar en el caso descrito para el Grupo 6, presenta una o más de las siguientes situaciones:
+
+a) No ha aceptado convenir los programas de ajuste de organismos internacionales de crédito.
+
+b) En su comportamiento de pago se observa alguna de las siguientes circunstancias: i) Ha interrumpido en los últimos dos años, total o parcialmente, el pago de intereses; ii) Ha impuesto una reprogramación unilateral de sus deudas en los últimos dos años.
+
+Grupo 6 Países con problemas graves.
+
+Deben clasificarse en esta categoría los países que han desconocido sus deudas o no han atendido la amortización de las mismas durante los últimos dos años.
+
+3.2.- Clasificación definitiva.
+
+Los países clasificados preliminarmente según lo señalado en el numeral 3.1 precedente, deberán ser rebajados a la categoría inmediatamente inferior a la que resulte del análisis base, cuando existan debilidades o factores perturbadores importantes que no se contemplan en dicho análisis.
+
+En este análisis complementario deben considerarse todos los demás aspectos que son de interés para examinar la situación de cada país evaluado, los cuales, por lo general, no se pueden traducir a reglas rígidas, sino que quedan sujetos a la idoneidad y buen juicio de los analistas.
+
+Sin perjuicio de los demás factores que la rigurosidad del análisis exige considerar adicionalmente y de los que son propios de la situación particular del país evaluado, en el respectivo informe deberán quedar reflejadas, al menos, las conclusiones positivas o negativas acerca de los siguientes aspectos:
+
+a) Oportunidad, confiabilidad y suficiencia de la información económica y financiera disponible. Este factor es importante puesto que, aun cuando un país esté sirviendo su deuda en forma total o parcial, si la información en que se apoya el análisis fuera insuficiente o de difícil comprobación, al punto de que no permite determinar con un grado razonable de seguridad cuál es el origen de los recursos y la real capacidad de pago del país, corresponderá bajarlo de categoría según la metodología establecida en las presentes normas.
+
+b) Estabilidad política y social. Debe examinarse la estabilidad analizando la fragmentación de las corrientes y los desórdenes internos, tanto políticos como sociales. Así por ejemplo, puede ser necesario un cambio en la categoría del riesgo-país frente a una razonable incertidumbre acerca de interrupciones a la vigencia del estado de derecho, problemas de gobernabilidad dentro de los cauces legales, o cambios radicales en la orientación de sus políticas económicas que pongan en riesgo los equilibrios macroeconómicos existentes o el cumplimiento de sus compromisos con el exterior.
+
+c) Cumplimiento de regulaciones. Debe evaluarse la importancia relativa de hechos que muestran un relajo en el cumplimiento de las regulaciones establecidas para el sistema financiero, o situaciones de corrupción o de demoras burocráticas asociadas a operaciones cambiarias o crediticias.
+
+d) Conflictos con otros países. Es básico considerar la existencia o la posibilidad de conflictos con otros países, que puedan poner en peligro la estabilidad de la economía del país, o bien que puedan afectar o afecten directamente el retorno de los recursos invertidos en él.
+
+e) Clasificaciones de evaluadoras de riesgo. En este aspecto deberá tomarse en cuenta si en los últimos 12 meses más de una evaluadora internacional incluida en la nómina del Capítulo 1-12 de esta Recopilación, ha rebajado significativamente al país de categoría.
+
+III.- PROVISIONES POR RIESGO-PAIS.
+
+1.- Porcentajes según categorías de riesgo.
+
+1.1.- Regla general.
+
+Para constituir las provisiones por riesgo-país, los porcentajes que deben aplicarse a los importes de los activos que se indican más adelante, serán los siguientes:
+
+Grupo Porcentaje
+
+1 0%
+
+2 0,75%
+
+3 5%
+
+4 20%
+
+5 80%
+
+6 100%
+
+Cualquier operación efectuada con un país no clasificado deberá ser provisionada en un 100%. Un país se considerará no clasificado mientras el Directorio del banco, o quien haga sus veces, no acuerde su categoría de riesgo según lo indicado en la letra b) del N° 2 del título I de este Capítulo.
+
+1.2.- Regla de excepción.
+
+Cuando el monto total de los activos sujetos al riesgo de un mismo país que se encuentre clasificado en categorías 3, 4 ó 5, no exceda el 20 % del patrimonio efectivo del banco, podrán aplicarse las tasas que se indican en la siguiente tabla:
+
+GRUPO Activos como porcentaje del patrimonio efectivo
+
+Hasta el 10% Entre 10% y 20%
+
+3 1,5% 3,0%
+
+4 3,0% 10,0%
+
+5 30,0% 40,0%.
+
+2.- Imputación de riesgo.
+
+El riesgo-país es imputable a aquel país en que esté domiciliado el prestatario o último obligado al pago y desde el cual se debe obtener el retorno de los recursos invertidos.
+
+No obstante, en los siguientes casos se considerará el riesgo de un país distinto al del deudor original:
+
+a) Cuando el crédito se otorgue a una sucursal en el extranjero de una persona jurídica, debiendo en ese caso imputarse el riesgo al país de domicilio de la casa matriz de esa sucursal.
+
+b) Cuando el garante del crédito sea un banco calificado en primera categoría de riesgo por una empresa calificadora incluida en la nómina del Capítulo 1-12 de esta Recopilación, la parte del crédito cubierta por el garante podrá imputarse al riesgo del país en que aquél tenga su domicilio.
+
+c) Si el garante de un crédito tiene domicilio en Chile, la parte garantizada no será objeto de provisión por riesgo país. Asimismo, cuando un crédito tenga una garantía real que se encuentre y sea realizable en Chile, quedará exenta aquella parte cubierta por la garantía.
+
+3.- Operaciones sujetas a provisiones.
+
+Quedan sujetos a la constitución de provisiones los siguientes activos u operaciones, debiendo aplicarse los porcentajes a que se refiere el N° 1, sobre los saldos que correspondan, según lo dispuesto en el N° 5 de este título:
+
+3.1- Depósitos e inversiones financieras en el exterior.
+
+Incluye depósitos en cuenta corriente y cualquier otro tipo de depósito a la vista o a plazo, como asimismo cualquier otro título emitido en el exterior.
+
+No obstante, se exceptúan todos los títulos de crédito que se transen en mercados secundarios formales, según lo definido en el Capítulo III.F.3 del Compendio de Normas Financieras del Banco Central de Chile.
+
+3.2.- Colocaciones.
+
+Comprende los créditos otorgados a personas naturales o jurídicas domiciliadas en el exterior, con excepción de los créditos cuyo plazo de vencimiento sea igual o inferior a un año y que correspondan a lo siguiente:
+
+a) Emisión, confirmación y negociación de cartas de crédito de comercio exterior;
+
+b) Financiamientos a los emisores para el pago de cartas de crédito de comercio exterior;.
+
+c) Adquisición de cartas de crédito de comercio exterior negociadas; y,
+
+d) Avales y fianzas, cartas de crédito stand by y boletas de garantía otorgados a no residentes ni domiciliados en el país, en moneda extranjera, mientras el crédito no se haya hecho efectivo.
+
+3.4.- Otros activos.
+
+Asimismo, queda afecta a la provisión de que se trata, cualquier otro activo cuya liquidación esté sujeta a un retorno desde el extranjero, tales como: bienes recibidos en pago que deban ser enajenados en el exterior, utilidades reconocidas contablemente en el activo por operaciones con derivados financieros, etc., con la sola excepción de los activos correspondientes a las inversiones permanentes en sociedades y aportes de capital a sucursales en el exterior, incluido el mayor valor pagado en inversiones en sociedades, cuando corresponda.
+
+4.- Cambios posteriores en la clasificación de un país.
+
+Cuando un país sea reclasificado en una nueva categoría, sea ésta de mayor o menor riesgo, las colocaciones vigentes al momento del cambio mantendrán la exigencia de provisiones correspondiente a la clasificación anterior, hasta la fecha de vencimiento en que se encuentren pactados.
+
+Los demás activos sujetos a provisión por riesgo-país, esto es, aquellos que no correspondan a colocaciones, se provisionarán de acuerdo con el porcentaje que le corresponda a la nueva clasificación del país, a partir de la fecha del cambio de categoría.
+
+5.- Importes sobre los cuales se aplica la provisión por riesgo-país.
+
+Las provisiones por riesgo-país constituyen provisiones individuales, adicionales a las constituidas por los riesgos de crédito y otros riesgos propios de cada operación.
+
+Por consiguiente, los porcentajes para constituir las provisiones por riesgo-país deben aplicarse sobre el valor contable de los activos expresado en pesos, netos de las demás provisiones por riesgo.
+
+6.- Otras disposiciones contables.
+
+Para efectos de información a esta Superintendencia, las provisiones por riesgo-país que se mantengan constituidas se incluirán en la cuenta "Provisiones por riesgo-país" de la partida 4241, en tanto que el resultado originado por estas provisiones se incluirá en la cuenta "Provisiones por riesgo-país" de la partida6140.
+
+Las provisiones de que se trata no serán utilizables para el castigo de operaciones, sino que se constituirán y liberarán con cargo o abono a resultados según corresponda, para mantener el nivel exigido al cierre de cada mes. La cuenta de resultado antes mencionada podrá arrojar saldo deudor o acreedor, según el movimiento neto de los ajustes en el período o ejercicio.
+
+Los bancos deberán mantener perfectamente identificadas todas las operaciones que requieren ser provisionadas de acuerdo con estas normas, debiendo asociar cada una de ellas con el país al cual se imputa el riesgo y con las demás provisiones constituidas. Por una parte, se necesitará deducir de los respectivos activos la provisión por riesgo-país para los efectos de la preparación de los estados financieros y, por otra, esa deducción es necesaria para la determinación de los activos ponderados por riesgo.
+
+Debe tenerse en cuenta, además, que las provisiones por riesgo país se constituirán, cuando corresponda, aun cuando se trate de depósitos o créditos otorgados a sucursales o filiales de la institución financiera en el exterior. Consecuentemente, estas provisiones no deben anularse en la consolidación de estados financieros.
+
+Para efectos de la homologación de criterios contables con las sucursales y filiales en el cálculo del VPP, los créditos que esas entidades otorguen a personas con residencia en Chile no quedan sujetos a provisión por riesgo-país.
+
+IV.- DISPOSICION TRANSITORIA.
+
+Las provisiones tratadas en este Capítulo se constituirán a contar del 30 de abril de 1998, para todos los activos sujetos a riesgo-país a esa fecha.
+
+No obstante, durante un lapso de dos años será exigible solamente una proporción creciente de los montos que se obtengan por la aplicación de las tasas señaladas en el N° 1 del título III. Para este efecto, las provisiones mínimas al cierre de cada mes serán iguales a tantos 24 avos del monto que resulte de aplicar las respectivas tasas, como meses hayan transcurrido a contar del 31 de marzo de 1998.
+
+Por consiguiente, al 30 de abril de 1998 corresponderá constituir una provisión de 1/24 de lo que resulta de la aplicación de las tasas sobre los saldos afectos mantenidos a esa fecha, al 31 de mayo de 1998 deben mantenerse 2/24 avos, y así sucesivamente hasta su aplicación normal a partir del 31 de marzo del año 2000.
+
 CAPITULO 8-1 (Bancos)
 
 MATERIA:
@@ -10482,6 +10660,8 @@ Ese porcentaje o el número de deudores señalado, podrá aumentar en la medida 
 
 Además las entidades financieras pueden clasificar voluntariamente una parte mayor o la totalidad de sus colocaciones.
 
+Sin embargo, deben ser clasificados obligatoriamente en su correspondiente categoría de riesgo, todos los deudores situados en el exterior.
+
 2.2. Procedimiento para la clasificación de los créditos comerciales.
 
 Para evaluar la cartera de créditos comerciales deben utilizarse cinco categorías de clasificación. Los factores básicos para la evaluación son, a lo menos, el comportamiento del deudor, su capacidad de pago en relación a las características del crédito y la disponibilidad de garantías que lo resguardan. El análisis en conjunto de estos factores y los demás que correspondan, debidamente ponderados, permitirá clasificar las obligaciones de un deudor en una de las siguientes categorías de riesgo:
@@ -10502,7 +10682,7 @@ v) Categoría "D": Créditos irrecuperables.
 
 Los créditos que ameriten esta clasificación son aquéllos que al momento de su evaluación no presenten duda acerca de la recuperabilidad de los intereses, del capital prestado y de sus reajustes.
 
-Esta categoría puede ser asignada a deudores que hayan cumplido oportunamente con sus obligaciones y nada indique que dicho comportamiento variará en lo futuro. Adicionalmente, se requerirá un claro conocimiento del uso dado a los recursos y del monto y origen de los flujos de ingresos propios con que cuenta el deudor para hacer frente al pago requerido.
+Esta categoría puede ser asignada a deudores que hayan cumplido oportunamente con sus obligaciones y nada indique que dicho comportamiento variará en lo futuro. Adicionalmente, se requerirá un claro conocimiento del uso dado a los recursos y del monto y origen de los flujos de ingresos propios con que cuenta el deudor para hacer frente al pago requerido. Cuando se trate de un deudor domiciliado en el extranjero, además de lo anterior, deberán considerarse los riesgos de modificaciones previsibles en las condiciones macroeconómicas del respectivo país y, en particular, los riesgos cambiarios que enfrenta el deudor por sus financiamientos en moneda extranjera.
 
 No podrá, por lo tanto, considerarse dentro de esta categoría a un deudor cuya fuente de pago dependa de la generación de recursos de otras empresas o personas naturales, como tampoco aquél cuyas garantías sean suficientes en monto y liquidez para cancelar con ellas lo adeudado, pero que no cumple con las características antes señaladas.
 
@@ -10580,9 +10760,11 @@ En lo que concierne a los antecedentes que permiten, en general, respaldar las c
 
 Para efectos de clasificar la cartera de créditos comerciales de acuerdo con las instrucciones del numeral 2.2 de este titulo, se considerarán las garantías constituidas por cartas de crédito stand-by solamente cuando éstas cumplan las siguientes condiciones:
 
-a) Sean emitidas por un banco -ya se trate de la casa matriz, o de una filial o sucursal- establecido en alguno de los países que se indican en el Anexo N° 1 de este Capítulo y que registre por sí misma un capital y reservas igual o superior a 350 millones de dólares de los Estados Unidos de América. Por consiguiente, cuando el emisor sea una filial o sucursal no se considerará el capital de la casa matriz ni de las demás filiales o sucursales o, si el emisor es la casa matriz, se tomará en cuenta solamente su propio capital, prescindiendo del que pudieran tener, por su cuenta, las filiales o sucursales del mismo banco. Dicho capital deberá corresponder al último cierre anual disponible informado en alguna publicación de reconocido prestigio, tales como "Polk's Bank Directory", "Banker's Almanac" o "Euromoney" . En ningún caso, ese cierre anual podrá ser anterior a 18 meses contados desde la fecha de emisión de la carta de crédito stand by.
+a) que se trate de cartas de crédito irrevocables y pagaderas a su sola presentación;
 
-b) Se trate de cartas de crédito emitidas por entidades bancarias distintas de la casa matriz u otra sucursal del mismo banco en el exterior o una filial de aquélla. Para este efecto, el término "casa matriz" debe entenderse referido tanto a la entidad matriz de los bancos extranjeros establecidos en Chile como agencias, como a la institución extranjera que tiene participación mayoritaria en un banco constituido en el país como sociedad anónima.
+b) que el banco emisor se encuentre clasificado en primera categoría de riesgo por una empresa calificadora internacional, según lo previsto en el Capítulo 1-12 de esta Recopilación; y,
+
+c) que no estén emitidas por la casa matriz del banco extranjero a favor de cuya sucursal en Chile se extiende la garantía, ni por otra sucursal de ese banco en el extranjero.
 
 2.6. Garantías constituidas por documentos de resguardo o fianza emitidos por sociedades domiciliadas en el exterior.
 
@@ -10590,7 +10772,7 @@ Para los solos fines de la clasificación de cartera de créditos comerciales qu
 
 a) Que el documento sea suscrito por la sociedad o casa matriz de la empresa deudora ("Parent guarantee") a favor de la institución financiera establecida en Chile;
 
-b) Que los instrumentos de oferta pública emitidos por esa sociedad matriz estén clasificados a lo menos en AA por Standard Poor's o en Aa por Moody's, en boletines cuya antigüedad no sea superior a 12 meses.
+b) Que los instrumentos de oferta pública emitidos por esa sociedad matriz estén clasificados en primera categoría de riesgo por una empresa calificadora internacional, conforme a lo establecido en el Capítulo 1-12 de esta Recopilación.
 
 c) Que la matriz se comprometa a pagar en forma irrevocable, al solo requerimiento de la institución financiera acreedora, las obligaciones del deudor en caso de que su filial situada en Chile no pague en la fecha convenida.
 
@@ -10952,41 +11134,7 @@ Las calificaciones de las instituciones financieras en las categorías estableci
 
 Sin embargo, en una primera etapa las calificaciones se darán a conocer solamente a las evaluadoras privadas de riesgo y a la Comisión Clasificadora de Riesgos de las AFP. Posteriormente, cuando todas las instituciones se encuentren calificadas, las clasificaciones se darán a conocer al público en general según lo previsto en las presentes normas.
 
-ANEXO N° 1
-
-PAISES EN LOS CUALES DEBEN ESTAR SITUADOS LOS BANCOS QUE EMITAN CARTAS DE CREDITOS STAND BY QUE SIRVAN DE GARANTIA PARA CLASIFICACION DE CARTERA DE COLOCACIONES.
-
-- AUSTRALIA
-
-- AUSTRIA
-
-- BELGICA
-
-- CANADA
-
-- DINAMARCA
-
-- ESPAÑA
-
-- ESTADOS UNIDOS PE AMERICA
-
-- FRANCIA
-
-- HOLANDA
-
-- INGLATERRA
-
-- ITALIA
-
-- JAPON
-
-- REPUBLICA FEDERAL DE ALEMANIA
-
-- SUECIA
-
-- SUIZA
-
-- TAIWAN
+ANEXO N° 1. Suprimido.
 
 ANEXO N° 2
 
@@ -15610,658 +15758,6 @@ establecen los artículos 81 y 115 de la Ley General de Bancos.
 
 Las instituciones financieras que celebren contratos de leasing con personas relacionadas con la propiedad o gestión de la empresa, deben informar los importes pagados a dichas personas en virtud de los contratos de leasing que hayan convenido con ellas, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información, relativas a gastos a favor de personas relacionadas.
 
-CAPITULO 11-2 (Bancos)
-
-MATERIA:
-
-SOCIEDADES FILIALES QUE COMPLEMENTAN EL GIRO DE LOS BANCOS.
-
-### 1. Negocios que complementan el giro bancario
-
-Los bancos sólo podrán tener participación en sociedades filiales cuyo giro complemente el negocio bancario. En concordancia con las facultades que le confiere el número 11 bis del artículo 83 de la Ley General de Bancos, esta Superintendencia estima que complementan el giro bancario aquellas sociedades que se constituyan como se indica a continuación:
-
-- Sociedades a que se refiere la letra a) del número 11 bis del artículo 83:
-
-a) Intermediarios de valores según la forma establecida en la Ley N° 18.045, ya sea en calidad de agentes de valores o bien como corredores de bolsa.
-
-b) Administradoras de fondos mutuos en la forma establecida en el D.L. N° 1.328 de 1976. Las carteras de los fondos podrán tener acciones siempre que el nombre del fondo mutuo contenga la palabra "acciones", de manera que el público pueda identificar plenamente esa característica.
-
-c) Administradoras de fondos de inversión en la forma establecida en la Ley N° 18.815 del 20 de julio de 1989.
-
-- Sociedades a que se refiere la letra b) del N° 11 bis del articulo 83:
-
-d) Compañías de leasing, las cuales deben encuadrarse dentro de las condiciones establecidas por esta Superintendencia. Bajo esas condiciones, estas empresas podrán efectuar operaciones de leasing tanto de bienes muebles como inmuebles, incluidos arrendamientos de viviendas con compromiso de compraventa efectuados al amparo de la Ley N° 19.281.
-
-e) Empresas que actúen como operadoras de tarjetas de crédito de acuerdo con las normas que se establecen en el Capítulo III.J.1 del Compendio de Normas Financieras del Banco Central de Chile y según las normas que al respecto dicte esta Superintendencia en virtud del D.L. N° 1.097, de 1975.
-
-f) Empresas de asesorías financieras, cuando su giro sea asesorar a sus clientes en: i) la búsqueda de fuentes alternativas de financiamiento; ii) la reestructuración de sus pasivos; iii) las negociaciones para adquirir, vender o fusionar empresas; iv) la emisión y colocación de bonos y debentures y v) la colocación de fondos en el mercado de capitales.
-
-Cada sociedad filial tendrá como objeto exclusivo uno de los giros señalados en los literales anteriores, salvo en el caso de las sociedades señaladas en la letra a), las que podrán complementar el giro principal con la actividad de asesorías financieras a que se refiere la letra f), siempre que lo admitan las normas pertinentes.
-
-Además de las empresas cuyos giros se indican en este número, las instituciones financieras pueden constituir filiales con giro exclusivo para operar como sociedades inmobiliarias en los términos señalados en la Ley N° 19.281 y que se denominarán "sociedades de leasing inmobiliario". Estas empresas quedan sujetas a la fiscalización de esta Superintendencia y, a diferencia de las empresas señaladas en la letra d) de este número, podrán construir o adquirir viviendas para futuros arrendamientos.
-
-Por otra parte, conforme a lo establecido en el artículo 55 de la Ley N° 19.281 antes mencionada, las instituciones financieras pueden constituir filiales administradoras de fondos de vivienda (AFV), quedando ellas sujetas a la fiscalización de la Superintendencia de Valores y Seguros.
-
-### 2. Participación en sociedades filiales
-
-El artículo 83, N° 11 bis, inciso segundo, de la Ley General de Bancos establece, en general, una prohibición para que las sociedades filiales de bancos o en la Ley N° 19.281 puedan adquirir acciones o tomar participación en otras sociedades.
-
-La misma disposición establece una excepción para el caso de que la inversión sea imprescindible para el desarrollo de su giro y siempre que no exceda en momento alguno del 5% del capital pagado de la sociedad en que se efectúe dicha inversión.
-
-Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un banco efectúe en otra sociedad deberá contar con la autorización previa de esta Superintendencia. En la solicitud que se presente con este objeto, deberán informarse las razones por las cuales la inversión se estima imprescindible para el desarrollo del giro. En todo caso, las sociedades que desarrollen los giros a que se refiere la Ley N° 19281 deben estar constituidas como sociedades anónimas.
-
-En todo caso, las sociedades cuyo giro sea el de corredor de bolsa, quedan autorizadas para adquirir las acciones de bolsas de valores que requieran para cumplir su función y, también dentro del limite de un 5% del capital pagado de cada sociedad, las acciones que puedan adquirir para si conforme a las normas de la Ley sobre Mercado de Valores y las instrucciones de la Superintendencia de Valores y Seguros a cuya fiscalización se encuentran sometidas.
-
-Finalmente, una sociedad filial podrá tener participación en otra sociedad filial del mismo banco, siempre que el porcentaje de participación en el capital y en las utilidades no exceda del 1%.
-
-### 3. Carácter de socio mayoritario
-
-La Ley N° 18.046 define como sociedad filial de una sociedad anónima aquélla en la que ésta controla directamente o a través de otra persona natural o jurídica, más del 50 por ciento del capital con derecho a voto, o simplemente del capital si se tratare de una sociedad no constituida por acciones, o bien si puede elegir o designar o hacer elegir o designar a la mayoría de sus directores o administradores.
-
-Al tratarse de filiales de empresas bancarias conforme al número 11 bis del artículo 83 de la Ley General de Bancos, esta Superintendencia autorizará la participación de un banco siempre que controle directamente al menos el 95 por ciento del capital de dicha sociedad.
-
-No obstante lo anterior, en casos calificados esta Superintendencia podrá autorizar una participación inferior por parte del banco, la que no podrá ser menor de un 51 por ciento. Para estos efectos, el banco deberá proporcionar los antecedentes relativos al cumplimiento de las siguientes condiciones mínimas:
-
-i) que el o los socios sean personas independientes de la propiedad o gestión del banco y puedan acreditar una destacada permanencia previa en el mercado;
-
-ii) que exista un acuerdo entre el banco y el o los socios, en los estatutos de la sociedad o en un pacto de accionistas, según corresponda, en que se establezca la calificación previa por la Superintendencia de los antecedentes de los socios o accionistas que ingresan a la sociedad y la participación y atribuciones de los socios en la gestión; y,
-
-iii) que la asociación permita mejorar en forma importante la rentabilidad de la eventual filial, por aportes significativos de el o los socios en alguno de los siguientes aspectos, según el tipo de filial de que se trate:
-
-a) acceso a nuevos o mayores negocios o mercados;
-
-b) traspaso de nuevas tecnologías orientadas a sistemas operativos, software o procedimientos;
-
-c) traspaso de conocimientos especializados del producto o mercado;
-
-d) obtención de condiciones ventajosas para el financiamiento de los negocios;
-
-e) efectiva disminución en los gastos.
-
-### 4. Enajenación de la participación en una filial
-
-Para la enajenación total o parcial de la participación que un banco mantenga en
-
-una filial, deberá solicitarse autorización de esta Superintendencia antes de
-
-asumir cualquier compromiso. Igual procedimiento deberá seguirse ante cualquier
-
-evento que disminuya el porcentaje de participación de la institución bancaria
-
-en una filial.
-
-### 5. Administración de las sociedades filiales
-
-5.1.- Directores
-
-Como estas filiales forman parte del patrimonio de la institución, podrán tener directores comunes con el banco. Por ese mismo motivo, no cabe en este caso aplicar lo dispuesto en el número 16 del articulo 65 de la Ley General de Bancos ni tampoco computar el cargo de director de sociedad filial para los efectos del artículo 65, N° 10, inciso segundo, de la misma ley.
-
-5.2.- Administración y funcionamiento.
-
-Por regla general, las sociedades filiales deberán tener gerente, personal, local, equipamiento y servicios independientes del banco matriz.
-
-No obstante, en el marco de las instrucciones que se indican en los numerales siguientes, el banco matriz podrá prestar a sus filiales diversos servicios tendientes a facilitar las actividades comerciales o administrativas de éstas.
-
-5.2.1.- Utilización de las sucursales del banco para promover las operaciones de las filiales Y recopilar antecedentes de los Clientes.
-
-El banco matriz podrá, a través de sus sucursales, promover y proporcionar información a sus clientes acerca de los distintos servicios financieros que prestan sus sociedades filiales. Asimismo, el banco podrá canalizar solicitudes de operaciones, recopilar antecedentes de potenciales clientes y poner a disposición de sus filiales, previa autorización del cliente, información económico financiera que mantenga respecto de éste.
-
-Estas actividades deberán sujetarse estrictamente a las siguientes condiciones:
-
-a) La evaluación y la decisión final respecto de la operación que se geste a través del banco matriz, así como de sus características y condiciones, corresponderá sólo a las instancias respectivas de la sociedad filial; en ningún caso esta función podrá ser delegada.
-
-b) El funcionario del banco matriz que recopile los antecedentes de potenciales clientes para una sociedad filial, deberá informarles que la operación la está haciendo con la sociedad filial y no con el banco mismo. Además, el banco deberá utilizar formularios distintos a los que ocupa para sus propias operaciones, que tengan el membrete o logotipo de la filial e incluyan una advertencia o nota impresa en la que se indique que la operación se realiza con la sociedad filial, que la aceptación de las solicitudes está sujeta a la decisión de ésta y que los contratos que se suscriban no comprometen al banco.
-
-c) Tanto el banco como la filial, deberán mantener un estricto control contable de los respectivos ingresos y gastos de los servicios contratados entre ambas partes.
-
-5.2.2.- Funciones administrativas y uso de bienes del banco.
-
-La sociedad filial podrá contratar el servicio de algunas funciones administrativas o el uso de locales o equipos del banco, sobre la base de contratos de prestaciones de servicios específicos o de arrendamiento, en su caso.
-
-La posibilidad señalada en el párrafo anterior se refiere exclusivamente a servicios destinados a facilitar las funciones operativas y administrativas de la empresa filial y, en ningún caso, a la gestión del negocio de ésta, la que debe radicarse exclusivamente en ella. Así, por ejemplo, un banco no podrá prestar servicios tales como la administración de las inversiones o el manejo de fondos disponibles, funciones que deberán ser absolutamente independientes entre la empresa filial y el banco matriz.
-
-5.2.3.- Contratos de prestación de servicios.
-
-Las prestaciones señaladas en los numerales 5.2.1 y 5.2.2 precedentes podrán realizarse siempre y cuando existan contratos previamente suscritos por las partes, en los cuales se detallen claramente los servicios que se prestarán.
-
-Los precios deberán pactarse de acuerdo con las condiciones imperantes en el mercado para prestaciones similares o estar en relación con los costos asociados.
-
-Las partes deberán mantener un riguroso control contable de los ingresos y gastos, debiendo establecerse en los contratos que los cobros se realizarán con la pormenorización necesaria para ese efecto.
-
-5.2.4. Relaciones entre sociedades filiales.
-
-Lo dispuesto en los numerales precedentes rige también para las relaciones que mantengan entre si las distintas sociedades filiales de un banco.
-
-5.2.5.- Sanciones.
-
-El incumplimiento de los resguardos y restricciones previstos en los numerales anteriores podrá dar lugar a la medida de suspensión de la actividad específica sobre la que recae la infracción, sin perjuicio de las sanciones establecidas en el artículo 19 del D.L. 1.097 de 1975, Ley Orgánica de esta Superintendencia.
-
-5.3.- Inversiones que pueden efectuar las sociedades filiales a que se refiere la letra b) del N° 11 bis del articulo 83 de la Ley General de Bancos.
-
-Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos o sociedades financieras, y, cuotas de fondos mutuos de renta fija.
-
-### 6. Inversión en sociedades filiales
-
-La inversión en capital que una entidad bancaria realice en empresas filiales queda sujeta al límite establecido en el inciso penúltimo del artículo 83 de la Ley General de Bancos. La inversión en cuestión se valorizará de acuerdo con lo dispuesto en el numeral 13.1 de este capítulo.
-
-Atendidas las normas de contabilidad generalmente aceptadas y las prácticas bancarias internacionales, que buscan formas de consolidar el banco matriz con sus filiales, y las disposiciones del artículo 82 de la Ley General de Bancos, se establece que el capital que un banco aporte a una sociedad filial será deducido de su capital y reservas para los efectos de la aplicación del margen a
-
-que se refiere el artículo 81 de dicha ley. Sin embargo, en la medida en que el pasivo exigible de la sociedad filial no supere el monto de su capital pagado y reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto delas obligaciones de la filial con terceros y con el porcentaje de participación del banco en el capital de la filial.
-
-Conforme a lo anterior, el monto a deducir del capital y reservas del banco matriz se obtendrá multiplicando el porcentaje de participación que éste tenga en la filial, por el monto de los pasivos exigibles que ella registre el último día del trimestre calendario inmediatamente anterior, excluidos los que correspondan a obligaciones con el propio banco matriz.
-
-Si las obligaciones con terceros a que se refieren los párrafos anteriores exceden del capital pagado y reservas de la filial, la institución deberá deducir el importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo de su margen de endeudamiento, excluido el resultado que se haya reconocido por la respectiva inversión. En este caso el importe a deducir será equivalente, por lo tanto, al valor de la inversión registrado en el activo menos el importe abonado por esa inversión en la cuenta "Utilidades de inversiones en sociedades filiales" o más el importe cargado en la cuenta "Pérdidas por inversiones en sociedades filiales", según corresponda, que se mantenga registrado a la misma fecha según lo dispuesto en los numerales 13.1 y 13.2 de este Capítulo.
-
-### 7. Créditos a sociedades filiales
-
-Las sociedades filiales que un banco constituya o adquiera al amparo del N° 11
-
-bis del artículo 83 de la Ley General de Bancos, así como también las sociedades
-
-en las que tenga participación de acuerdo a las normas del número 15 bis del
-
-mismo artículo, serán consideradas como empresas relacionadas con la respectiva
-
-entidad y conformarán un sólo grupo de empresas vinculadas para todos los
-
-efectos de las limitaciones establecidas en el artículo 84 número 2 de la misma
-
-ley.
-
-Atendida la íntima relación que existe entre una empresa matriz y sus filiales,y
-
-las facultades que le confiere a esta Superintendencia el inciso quinto del
-
-número 1 del artículo 84 de la Ley General de Bancos, se establece que los
-
-bancos no podrán recibir en garantía bienes de sus sociedades filiales.
-
-### 8. Fiscalización de las sociedades filiales
-
-De conformidad con lo establecido en la letra a) del N° 11 bis del artículo 83 de la Ley General de Bancos, las sociedades filiales de bancos cuyo giro sea la intermediación de valores, ya sea en la forma de agentes de valores, administradoras de fondos mutuos, administradoras de fondos de inversión o corredores de bolsa, deberán someterse a las leyes que rigen tales actividades y serán fiscalizadas por la Superintendencia de Valores y Seguros. A estas sociedades les serán aplicables, además de todas las normas dictadas por ese Organismo, aquéllas de carácter general relativas a filiales de bancos impartidas por esta Superintendencia.
-
-Todas las sociedades filiales distintas de las mencionadas en el párrafo precedente quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, les son aplicables las disposiciones del D.L. N° 1.097 y las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
-
-Esta Superintendencia podrá requerir a los bancos toda la documentación relativa a sus sociedades filiales que estime pertinente.
-
-Las sociedades filiales que quedan sujetas a la fiscalización de esta Superintendencia deberán cumplir con los requerimientos de información de este Organismo desde el momento en que se constituyan.
-
-### 9. Aplicación de la Ley de Mercado de Valores
-
-Los valores de oferta pública que pudieren emitir las empresas filiales sujetas
-
-a la fiscalización de esta Superintendencia, así como ellas mismas en su calidad
-
-de emisoras, deben inscribirse en el Registro de Valores de este Organismo.
-
-Asimismo, esos valores deberán ser clasificados por evaluadores privados
-
-inscritos en esta Superintendencia y de acuerdo con las normas que se dicten
-
-para tal efecto.
-
-### 10. Información de la situación financiera de las sociedades filiales
-
-10.1. Estados financieros anuales.
-
-Los estados financieros anuales de empresas filiales de bancos deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia.
-
-Los estados financieros de las filiales, correspondientes al ejercicio anual, serán entregados a esta Superintendencia dentro del mismo plazo establecido para que el banco matriz envíe sus propios estados financieros a este Organismo y deberán ser publicados en el mismo periódico en que el banco publique los suyos.
-
-Cada una de las sociedades filiales deberá hacer llegar sus estados financieros dentro del plazo indicado, salvo cuando se trate de sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros, en cuyo caso será responsabilidad del respectivo banco matriz el envío oportuno de dichos estados.
-
-10.2.- Estados de situación trimestrales.
-
-Además de los estados financieros anuales auditados, las sociedades filiales deberán enviar periódicamente a esta Superintendencia los estados de situación que este Organismo les exija para efectos de fiscalización.
-
-Cuando se trate de sociedades fiscalizadas por la Superintendencia de Valores y Seguros, los bancos deberán hacer llegar a este Organismo, además de los estados financieros auditados de que trata el numeral precedente, estados de situación trimestrales referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año. Esta información se entregará a más tardar el duodécimo día hábil bancario siguiente a la fecha a que se refiere el respectivo balance, debiéndose utilizar para el efecto el formato de la Ficha Estadística Codificada Uniforme (FECU) que exige aquella Superintendencia.
-
-### 11. Operaciones de las sociedades filiales con partes relacionadas
-
-Los actos, contratos, negocias y operaciones entre un banco y sus sociedades
-
-filiales, de estas últimas entre sí, y de ellas con personas relacionadas al
-
-banco, deberán observar condiciones de equidad, equivalentes a las que
-
-habitualmente prevalecen en el mercado.
-
-Por otra parte, las sociedades filiales de los bancos no podrán adquirir
-
-acciones de la empresa matriz. Igualmente, tales acciones no podrán ser
-
-recibidas en pago por parte de la sociedad filial, ni podrán ser recibidas en
-
-garantía por la empresa filial por el cumplimiento de una obligación que un
-
-tercero tenga en favor de ella.
-
-Las instituciones financieras deberán mantener actualizado un registro especial,
-
-en que figuren todas las transacciones realizadas durante el ejercicio entre una
-
-empresa filial y la empresa matriz.
-
-### 12. Participación de la sociedad filial en otras sociedades
-
-12.- Participación de la sociedad filial en otras sociedades.
-
-El artículo 83, N° 11 bis, inciso segundo, de la Ley General de Bancos establece, en general, una prohibición para que las sociedades filiales de bancos puedan adquirir acciones o tomar participación en otras sociedades.
-
-La misma disposición establece una excepción para el caso de que la inversión sea imprescindible para el desarrollo de su giro y siempre que no exceda en momento alguno del 5% del capital pagado de la sociedad en que se efectúe dicha inversión.
-
-Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un banco efectúe en otra sociedad deberá contar con la autorización previa de esta Superintendencia. En la solicitud que se presente con este objeto, deberán informarse las razones por las cuales la inversión se estima imprescindible para el desarrollo del giro.
-
-En todo caso, las sociedades cuyo giro sea el de corredor de bolsa o de agente de valores, quedan autorizadas para invertir en las acciones que puedan adquirir para sí, hasta el límite del 5% del capital pagado de las respectivas sociedades emisoras, conforme a las normas de la Ley sobre Mercado de Valores y las instrucciones de la Superintendencia de Valores y Seguros a cuya fiscalización se encuentran sometidas. Además, los corredores de bolsa pueden adquirir, dentro ese límite, las acciones de bolsas de valores que requieran para cumplir su función.
-
-Finalmente, una sociedad filial podrá tener participación en otra sociedad filial del mismo banco, siempre que el porcentaje de participación en el capital y en las utilidades no exceda del 1%.
-
-### 13. Instrucciones contables
-
-Las inversiones en sociedades filiales se contabilizarán de acuerdo con las siguientes instrucciones:
-
-13.1. Valorización de las inversiones.
-
-Las acciones o derechos en las sociedades de que trata este Capítulo se registrarán en el activo a su valor patrimonial proporcional (VPP).
-
-Dicho método de contabilización se aplicará de acuerdo con criterios contables de aceptación general, debiendo reconocerse proporcionalmente los resultados y, cuando proceda, las demás variaciones patrimoniales y los efectos de los resultados no realizados y de la aplicación uniforme de criterios de contabilización, de manera que el efecto en el resultado neto del banco matriz sea el mismo que se obtendría si las empresas hubieran sido consolidadas.
-
-El cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión deberán efectuarse mensualmente y podrán basarse en los resultados obtenidos por la filial hasta el mes inmediatamente anterior, salvo cuando se trate del cierre del ejercicio anual, en que se deberán tomar los resultados definitivos de la respectiva filial hasta el 31 de diciembre.
-
-13.2. Cuentas que se utilizarán.
-
-Las inversiones en sociedades filiales se registrarán en la cuenta "Inversiones en sociedades filiales", de la partida 2320 del MB1. Al cierre de cada mes dicha cuenta será corregida monetariamente y luego se cargará o abonará a ella, según proceda, el importe correspondiente a la proporción de las utilidades o las pérdidas de la sociedad filial. A esta cuenta se abonarán también los dividendos o utilidades repartidos por la sociedad filial al banco matriz.
-
-Al tratarse de una nueva sociedad, el registro en la cuenta "Inversiones en sociedades filiales" se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
-
-Las utilidades reconocidas proporcionalmente se registrarán en la cuenta "Utilidades de inversiones en sociedades filiales" de la partida 8350, en tanto que las pérdidas se imputarán a la cuenta "Pérdidas por inversiones en sociedades filiales" de la partida 6350.
-
-13.3. Diferencias entre el valor pagado y el valor patrimonial proporcional.
-
-En el evento de que se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el costo y el valor patrimonial proporcional determinado a la fecha de la adquisición, se tratarán de la siguiente forma:
-
-a) Si el valor pagado es mayor que el VPP:
-
-Cuando el valor pagado sea mayor que el valor patrimonial proporcional, se registrará la diferencia en la cuenta "Mayor valor pagado en inversiones en sociedades", de la partida 2120.
-
-El importe registrado en esa cuenta se traspasará al término de cada mes a la cuenta de resultados "Amortización mayor valor pagado en inversiones en sociedades", de la partida 6315, en cuotas consecutivas, equivalentes a lo menos a 1/60 del mayor valor pagado y corregidas monetariamente, de manera que se amortice dentro de un plazo máximo de cinco años a contar del mes siguiente a aquel en que se efectúa la inversión.
-
-b) Si el valor pagado es menor que el VPP:
-
-Cuando el valor pagado sea menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Mayor valor de inversiones en sociedades", de la partida 4120 del MB1. El monto acreditado a esa cuenta se extinguirá mediante traspasos mensuales a la cuenta "Utilidad por mayor valor de inversiones en sociedades", de la partida 8315 del MR1, en un plazo mínimo de 5 años, en cuotas iguales, consecutivas y corregidas monetariamente.
-
-No obstante lo anterior, si la respectiva sociedad filial incurriere en pérdidas en un ejercicio, el monto que se traspase a resultados en ese ejercicio podrá ser equivalente a las pérdidas proporcionales reconocidas por la inversión.
-
-Si se enajenaren las inversiones que hayan originado los saldos remanentes de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Mayor valor de inversiones en sociedades" señaladas en las letras a) y b) precedentes, se aplicarán estos saldos como mayor o menor costo del activo vendido, respectivamente. Al tratarse de enajenaciones parciales, los saldos se revertirán en forma proporional al monto enajenado.
-
-CAPITULO 11-3 (Bancos y Financieras)
-
-MATERIA:
-
-SOCIEDADES CUYO OBJETO SEA PRESTAR SERVICIOS A SUS ASOCIADOS DESTINADOS A
-
-FACILITAR SU GIRO.
-
-### 1. Sociedades de apoyo al giro de las instituciones financieras
-
-Se entenderá, para los efectos de lo establecido en el número 15 bis del
-
-#### Artículo 83
-
-de la Ley General de Bancos, que una sociedad presta servicios de
-
-apoyo a un banco o sociedad financiera en su giro, si cumple simultáneamente con
-
-las siguientes condiciones:
-
-a) Que los servicios que preste complementen o reemplacen un trabajo técnico o
-
-administrativo que deban realizar las instituciones financieras en el desarrollo
-
-de su giro;
-
-b) Que dichos servicios den lugar a una efectiva disminución de gastos en las
-
-instituciones asociadas y, al mismo tiempo, no sean ofrecidos adecuadamente por
-
-terceros a un costo razonable; y,
-
-c) Que los servicios se presten únicamente a las empresas accionistas o socias,
-
-tal como lo dispone expresamente la ley.
-
-El giro específico que podrán tener estas sociedades será materia de
-
-autorización especial por parte de esta Superintendencia.
-
-2. Participación en sociedades destinadas a prestar servicios que faciliten el
-
-giro de sus asociados.
-
-Los bancos y sociedades financieras, para constituir una sociedad cuyo objeto
-
-sea prestar servicios a sus asociados, requerirán de la autorización expresa de
-
-este Organismo, el que dará su aprobación a los estatutos de dicha
-
-sociedad.Igualmente, cada modificación de los estatutos de la sociedad requerirá
-
-de la aprobación de este Organismo Contralor.
-
-Las entidades solicitantes deberán presentar en conjunto una descripción acabada
-
-del proyecto y un estudio técnico-económico formal de la rentabilidad de la
-
-inversión a realizar. La Superintendencia podrá requerir a cada participante
-
-antecedentes que muestren la incidencia del proyecto en su propio caso.
-
-En general, todos los socios deberán ser bancos o sociedades financieras y, cada
-
-vez que se desee incorporar un nuevo socio, éste deberá solicitar autorización a
-
-esta Superintendencia. Sin embargo, excepcionalmente se autorizará la
-
-participación como socios minoritarios a otras entidades, siempre que se
-
-demuestre a este Organismo que ello resultará ventajoso para las instituciones
-
-financieras participantes.
-
-Las sociedades de que trata este capítulo pueden adoptar la forma de sociedades
-
-anónimas abiertas o cerradas o de responsabilidad limitada y sólo podrán
-
-constituirse una vez que sea aprobada la participación de todos sus socios. En
-
-todo caso, cuando participen socios que no sean entidades fiscalizadas por esta
-
-Superintendencia, las empresas deberán adoptar siempre la forma de sociedades de
-
-responsabilidad limitada.
-
-### 3. Enajenación de la participación en una empresa de apoyo
-
-Para la enajenación total o parcial de la participación que una institución
-
-financiera mantenga en una empresa de apoyo, deberá solicitarse autorización de
-
-esta Superintendencia en forma previa a la adquisición de cualquier compromiso.
-
-Igual procedimiento deberá seguirse ante cualquier evento que disminuya el
-
-porcentaje de participación de una institución financiera en una empresa de
-
-apoyo.
-
-4.- Administración y funcionamiento de las sociedades de apoyo al giro.
-
-4.1.- Administración de las sociedades.
-
-Las sociedades a que se refiere este capítulo deberán tener gerente, personal, local, equipamiento y servicios independientes de sus entidades financieras propietarias. Sin embargo, como estas sociedades forman parte del patrimonio delas instituciones financieras, podrán tener directores comunes con éstas. Por este mismo motivo, no cabe en este caso aplicar lo dispuesto en el N° 16 del artículo 65 de la Ley General de Bancos ni tampoco computar el cargo de director de sociedad filial para los efectos del artículo 65, N° 10, inciso segundo, de la misma ley.
-
-4.2.- Inversiones que pueden efectuar las sociedades de apoyo al giro.
-
-Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos o sociedades financieras, y, cuotas de fondos mutuos de renta fija.
-
-### 5. Inversión en sociedades de apoyo
-
-La inversión en capital que una entidad financiera realice en empresas de apoyo queda sujeta al límite establecido en el inciso penúltimo del artículo 83 de la Ley General de Bancos. La inversión en cuestión se valorizará de acuerdo con lo dispuesto en el numeral 12.1 de este capítulo.
-
-Atendidas las normas de contabilidad generalmente aceptadas y las prácticas bancarias internacionales, que buscan formas de consolidar el banco matriz con sus filiales, y las disposiciones del artículo 82 de la Ley General de Bancos, se establece que el capital que una institución financiera aporte a una sociedad de apoyo al giro, será deducido de su capital y reservas para los efectos de la aplicación del margen a que se refieren los artículos 81 y 115 de la dicha ley,cuando la empresa de apoyo tenga la calidad de sociedad filial de acuerdo con las disposiciones del artículo 86 de la Ley sobre Sociedades Anónimas. Sin embargo, en la medida en que el pasivo exigible de la sociedad filial no supere el monto de su capital pagado y reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto de las obligaciones de la filial con terceros y con el porcentaje de participación de la institución financiera en el capital de su filial.
-
-Conforme a lo anterior, el monto a deducir del capital y reservas de la institución financiera matriz se obtendrá multiplicando el porcentaje de participación que ésta tenga en la filial, por el monto de los pasivos exigibles que la empresa de apoyo registre el último día del trimestre calendario inmediatamente anterior, excluidos los que correspondan a obligaciones con la
-
-propia institución financiera matriz.
-
-Si las obligaciones con terceros a que se refieren los párrafos anteriores exceden del capital pagado y reservas de la filial, la institución deberá deducir el importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo de su margen de endeudamiento, excluido el resultado que se haya reconocido por la respectiva inversión. En este caso el importe a deducir será equivalente, por lo tanto, al valor de la inversión registrado en el activo menos el importe abonado por esa inversión en la cuenta "Utilidades de inversiones en sociedades de apoyo" o más el importe cargado en la cuenta "Pérdidas por inversiones en sociedades de apoyo", según corresponda, que se mantenga registrado a la misma fecha según lo dispuesto en los numerales 12.1.1 y 12.1.2 de este Capítulo.
-
-### 6. Créditos a empresas de apoyo
-
-Las sociedades de apoyo en que participe una institución financiera al amparo
-
-del 15 bis del artículo 83 de la Ley General de Bancos, así como también las
-
-sociedades constituidas de acuerdo a las normas del 11 bis del mismo artículo,
-
-serán consideradas como empresas relacionadas con la respectiva entidad y
-
-conformarán un solo grupo de empresas vinculadas para todos los efectos de las
-
-limitaciones establecidas en el artículo 84 N° 2 de la misma Ley.
-
-Atendida la íntima relación que existe entre una empresa y las sociedades que
-
-les sirven de apoyo a su gestión y las facultades que le confiere a esta
-
-Superintendencia el inciso quinto del número 1 del artículo 84 de la Ley General
-
-de Bancos, se establece que las instituciones financieras no podrán aceptar en
-
-garantía bienes de sus sociedades de apoyo.
-
-### 7. Fiscalización de las sociedades de apoyo
-
-Las sociedades a que se refiere el N° 15 bis del artículo 83 de la Ley General de Bancos quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, les son aplicables las disposiciones del Decreto Ley N° 1.097 y las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
-
-Los servicios que preste una sociedad de apoyo a una institución financiera, deben contar con la conformidad previa de esta Superintendencia.
-
-Las sociedades de apoyo al giro deben enviar a esta Superintendencia para efectos de fiscalización, la información establecida en las normas generales o instrucciones específicas impartidas a dichas sociedades, las que comprenden, entre otras, la exigencia de remitir estados de situación en forma periódica.
-
-### 8. Aplicación de la Ley de Mercado de Valores
-
-Los valores de oferta pública que pudieren emitir las empresas de apoyo al giro
-
-de un banco o sociedad financiera, así como ellas mismas en su calidad de
-
-emisoras, deben inscribirse en el Registro de Valores de este Organismo.
-
-Asimismo, esos valores deberán ser clasificados por evaluadores privados
-
-inscritos en esta Superintendencia y de acuerdo con las normas que se dicten
-
-para tal efecto.
-
-### 9. Operaciones entre la institución financiera y sus sociedades de apoyo
-
-Los actos, contratas, negocios y operaciones entre un banco o sociedad
-
-financiera y sus empresas de apoyo, o de estas últimas entre sí, deberán
-
-observar condiciones de equidad, equivalentes a las que habitualmente prevalecen
-
-en el mercado.
-
-Por otra parte, las sociedades de apoyo de los bancos y sociedades financieras
-
-no podrán adquirir acciones de sus empresas propietarias. Igualmente, tales
-
-acciones no podrán ser recibidas en pago por parte de la sociedad de apoyo, ni
-
-podrán ser recibidas en garantía por ésta por el cumplimiento de una obligación
-
-que un tercero tenga en favor de ella.
-
-Las instituciones financieras deberán mantener actualizado un registro especial,
-
-en que figuren todas las transacciones realizadas durante el ejercicio entre
-
-ella y cada una de las empresas de apoyo en que participe.
-
-### 10. Participación de la sociedad de apoyo en otras sociedades
-
-Una empresa de apoyo de un banco o sociedad financiera no podrá tener entre sus
-
-activos acciones o derechos en otras sociedades, salvo que ello sea
-
-imprescindible para el desarrollo de su giro.
-
-Para dar cumplimiento a lo anterior, toda inversión que una empresa de apoyo
-
-efectúe en alguna sociedad, debe contar con la autorización previa de esta
-
-Superintendencia. En la solicitud que para este objeto se presente, deberá
-
-informarse de las razones por las cuales la inversión es imprescindible para el
-
-desarrollo del giro.
-
-### 11. Estados financieros anuales
-
-Los estados financieros anuales de las empresas de apoyo deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia.
-
-Dichos estados financieros deben ser entregados por las respectivas sociedades a esta Superintendencia dentro del mismo plazo establecido para que los bancos y sociedades financieras envíen sus propios estados financieros a este Organismo.
-
-### 12. Instrucciones contables
-
-Las inversiones en sociedades de apoyo se contabilizarán de acuerdo con las siguientes instrucciones, según el grado de participación que se tenga en ellas:
-
-12.1. Inversiones en sociedades de apoyo que sean filiales o coligadas de la institución financiera.
-
-Cuando la institución financiera tenga una participación igual o superior al 10% en una sociedad de apoyo, o cuando pueda elegir o designar por lo menos un miembro del directorio o de la administración de la misma de acuerdo con los estatutos de la empresa de apoyo, la inversión se valorizará y registrará de la siguiente forma:
-
-12.1.1. Valorización de las inversiones.
-
-Las acciones o derechos en las sociedades de apoyo antes señaladas se registrarán en el activo a su valor patrimonial proporcional (VPP).
-
-Dicho método de contabilización se aplicará de acuerdo con criterios contables de aceptación general, debiendo reconocerse proporcionalmente los resultados y, cuando proceda, las demás variaciones patrimoniales y los efectos de los resultados no realizados y de la aplicación uniforme de criterios de contabilización, de manera que el efecto en el resultado neto de la institución financiera sea el mismo que se obtendría si las empresas hubieran sido consolidadas.
-
-El cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión deberán efectuarse mensualmente y podrán basarse en los resultados obtenidos por la empresa de apoyo hasta el mes inmediatamente anterior, salvo cuando se trate del cierre del ejercicio anual, en que se deberán tomar los resultados definitivos de la respectiva sociedad hasta el 31 de diciembre.
-
-12.1.2. Cuentas que se utilizarán.
-
-Las inversiones en las sociedades de que se trata se registrarán en la cuenta "Inversiones en sociedades de apoyo", de la partida 2320 del MB1. Al cierre de cada mes dicha cuenta será corregida monetariamente y luego se cargará o abonará a ella, según proceda, el importe correspondiente a la proporción de las utilidades o las pérdidas de la sociedad filial. A esta cuenta se abonarán también los dividendos o utilidades repartidos por la sociedad de apoyo a la institución financiera.
-
-Al tratarse de una nueva sociedad, el registro en la cuenta "Inversiones en sociedades de apoyo"? se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
-
-Las utilidades reconocidas proporcionalmente se registrarán en la cuenta "Utilidades de inversiones en sociedades de apoyo" de la partida 8350, en tanto que las pérdidas se imputarán a la cuenta "Pérdidas por inversiones en sociedades de apoyo" de la partida 6350.
-
-12.1.3. Diferencias entre el valor pagado y el valor patrimonial proporcional.
-
-En el evento de que se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el costo y el valor patrimonial proporcional determinado a la fecha de la adquisición, se tratarán de la siguiente forma:
-
-a) Si el valor pagado es mayor que el VPP:
-
-Cuando el valor pagado sea mayor que el valor patrimonial proporcional, se registrará la diferencia en la cuenta "Mayor valor pagado en inversiones en sociedades", de la partida 2120.
-
-El importe registrado en esa cuenta se traspasará al término de cada mes a la cuenta de resultados "Amortización mayor valor pagado en inversiones en sociedades", de la partida 6315, en cuotas consecutivas, equivalentes a lo menos a 1/60 del mayor valor pagado y corregidas monetariamente, de manera que se amortice dentro de un plazo máximo de cinco años a contar del mes siguiente a aquel en que se efectúa la inversión.
-
-b) Si el valor pagado es menor que el VPP: Cuando el valor pagado sea menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Mayor valor de inversiones en sociedades", de la partida 4120.
-
-El monto acreditado a esa cuenta se extinguirá mediante traspasos mensuales a la cuenta "Utilidad por mayor valor de inversiones en sociedades", de la partida 8315, en un plazo mínimo de 5 años, en cuotas iguales, consecutivas y corregidas monetariamente.
-
-No obstante lo anterior, si la respectiva sociedad filial incurriere en pérdidas en un ejercicio, el monto que se traspase a resultados en ese ejercicio podrá ser equivalente a las pérdidas proporcionales reconocidas por la inversión.
-
-Si se enajenaren las inversiones que hayan originado los saldos remanentes de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Mayor valor de inversiones en sociedades" señaladas en las letras a) y b) precedentes, se aplicarán estos saldos como mayor o menor costo del activo vendido, respectivamente. Al tratarse de enajenaciones parciales, los saldos se revertirán en forma proporcional al monto enajenado.
-
-12.2. Inversiones con menor participación.
-
-Cuando la institución financiera tenga en una sociedad de apoyo, una participación inferior a la señalada en el numeral 12.1 anterior, las inversiones se registrarán a su valor de costo más corrección monetaria, en la cuenta "Utilidades percibidas de sociedades de apoyo" antes mencionada.
-
-En este caso, la institución financiera deberá constituir provisiones sobre dichas inversiones para cubrir el menor valor que puedan tener sus acciones o derechos, tomando como valor de referencia de éstos el que se obtiene de aplicar el porcentaje de participación en la sociedad al total del patrimonio contable que muestren los estados financieros de la empresa de apoyo, esto es, el capital, reservas y resultado acumulado por lo menos hasta el cierre del mes precedente.
-
-Dichas provisiones se constituirán abonando la cuenta "Provisiones sobre inversiones en sociedades", de la partida 4240 del MB1, con cargo a la cuenta del mismo nombre de la partida 6135 del MR1. Cuando el monto de las provisiones constituidas exceda el monto exigido, las instituciones financieras liberarán el exceso revirtiendo esa contabilización y llevando la parte que provenga del ejercicio anterior, cuando corresponda, a la cuenta "Liberación de provisiones sobre inversiones en sociedades" de la partida 8110 del MR1.
-
-Por otra parte, en el caso de las inversiones de que trata este numeral, los dividendos o beneficios que las empresas de apoyo repartan a la institución financiera se acreditarán a la cuenta "Dividendos obtenidos de inversiones en sociedades", de la partida 8350, por los importes efectivamente percibidos.
-
-CAPITULO 11-4 (Bancos y Financieras)
-
-MATERIA:
-
-INVERSIONES EN ACCIONES O DERECHOS EN SOCIEDADES.
-
-1.- Acciones o derechos en sociedades que pueden adquirir las instituciones financieras.
-
-1 1.- Acciones o derechos en sociedades que pueden mantener los bancos.
-
-Las empresas bancarias sólo pueden poseer las siguientes acciones o derechos en sociedades:
-
-a) Acciones correspondientes a inversiones efectuadas en alguna sociedad filial de acuerdo con lo establecido en el N° 11 bis del articulo 83 la Ley General de Bancos y en el Capítulo 11-2 de esta Recopilación.
-
-b) Acciones de bancos extranjeros mantenidas de conformidad con lo indicado en el número 15 bis del artículo 83 y en el artículo 83 bis de la Ley General de Bancos.
-
-Se entienden comprendidas en estas inversiones, además de la participaciones en bancos constituidos en el exterior, las compras de acciones y derechos que sean necesarios para la incorporación de los bancos a entidades internacionales de transmisión de información (SWIFT)
-
-c) Acciones o derechos en sociedades cuyo objeto exclusivo sea prestar servicios a sus asociados, correspondientes a inversiones autorizadas de conformidad con lo dispuesto en el N° 15 bis del artículo 83 de la Ley General de Bancos y a lo instruido en el Capítulo 11-3 de esta Recopilación Actualizada de Normas.
-
-d) Acciones o derechos en sociedades recibidos en pago de deudas vencidas o adjudicados en remate judicial en pago de deudas previamente contraídas a favor de la institución financiera.
-
-Estas acciones y derechos en sociedades deberán ser enajenados en los plazos y forma señalados en el N° 5 del artículo 84 de la Ley General de Bancos y en el Capítulo 10-1 de esta Recopilación.
-
-e) Acciones de empresas de suministro de energía eléctrica correspondientes al rembolso de aportes por instalaciones o ampliaciones de servicios eléctricos, en la medida que la adquisición de las acciones sea la única forma de obtener el rembolso de los aportes efectuados por la institución financiera en conformidad con la Ley General de Servicios Eléctricos.
-
-1.2.- Acciones o derechos en sociedades que pueden mantener las sociedades financieras.
-
-Las sociedades financieras podrán mantener las acciones o derechos en sociedades señalados en el numeral 1.1, con excepción de los que se indican en las letras a) y b).
-
-1.3. Alcance de estas disposiciones.
-
-Los bancos y, en su caso, las sociedades financieras, no podrán adquirir para sí acciones o derechos en sociedades que no se ajusten a lo indicado en los numerales precedentes.
-
-Lo anterior no es óbice para que los bancos, en sus operaciones de custodia o de comisiones de confianza, registren a su nombre, cuando así se lo soliciten los respectivos compradores, las acciones adquiridas por orden y cuenta de terceros. Naturalmente que en estos casos, el banco debe tener en su poder los documentos que acrediten el mandato correspondiente, en el que exista constancia de que los títulos de las acciones adquiridas deben quedar a nombre de la institución mandataria.
-
-Lo anterior no se aplica a las sociedades financieras, por cuanto éstas no pueden actuar como mandatarias a nombre propio.
-
-2.- Inversiones en el exterior.
-
-2 1 - Autorización para invertir.
-
-El artículo 83 bis de la Ley General de Bancos, dispone que las inversiones que efectúen los bancos constituidos en Chile, en acciones de bancos constituidos en el extranjero, deben contar con la autorización previa de esta Superintendencia y del Banco Central de Chile.
-
-Corresponde solicitar dicha autorización tanto para adquirir acciones o efectuar aportes de capital a instituciones bancarias del exterior, como para reinvertir en nuevas acciones las utilidades provenientes de su participación en las entidades extranjeras o para recibir acciones liberadas de dichas entidades.
-
-El mismo procedimiento deberá seguirse en el caso de participaciones en organismos y empresas internacionales de servicios.
-
-2.2 - Resguardos contra el otorgamiento de créditos a personas relacionadas al banco inversionista por parte del banco extranjero.
-
-El banco que participe en un banco establecido en el exterior deberá tener presente lo establecido en la letra e) del articulo 83 bis ya citado, en orden a obtener los resguardos para que el banco en que participa no conceda créditos a personas que estén relacionadas con él según las definiciones contenidas en el Capitulo 12-4 de esta Recopilación, ni les otorgue garantías por créditos que esas personas contraigan con terceros. Para estos efectos, la entidad accionista o participante deberá informar a la institución extranjera, en los casos que sea procedente, acerca de esa limitación legal, dándole a conocer a la vez, la nómina de las personas que se encuentren vinculadas a la empresa, ya sea por gestión o por propiedad.
-
-2.3.- Información para esta Superintendencia.
-
-En cumplimiento a lo dispuesto en la letra d) del articulo 83 bis antes mencionado, los bancos deberán entregar periódicamente a esta Superintendencia información acerca de la entidad extranjera de la que son accionistas, la cual debe comprender, a lo menos, el envió de la memoria o balance de cada ejercicio, sin perjuicio de otros antecedentes que eventualmente pudiera exigir este Organismo.
-
-3.- Normas contables.
-
-Las acciones o derechos en sociedades señalados en las letras a), c) y d) del numeral 1.1 anterior, deben contabilizarse de la forma establecida en los Capítulos 11-2, 11-3 y 10-1, respectivamente, de esta Recopilación Actualizada de Normas.
-
-Las demás acciones o derechos en sociedades se registrarán de acuerdo con lo siguiente:
-
-3.1.- Inversiones en el exterior.
-
-Las inversiones en entidades del exterior de que trata la letra b) del numeral 1.1 de este Capitulo, se registrarán en la cuenta "Acciones de bancos del exterior" o "Acciones SWIFT", según corresponda, ambas de la partida 2320, por el importe en moneda extranjera desembolsado.
-
-Si la inversión se efectúa con moneda extranjera adquirida en el mercado cambiario, el importe de la moneda respectiva se imputará a la cuenta "Conversión acciones entidades del exterior", de la partida 4510. La suma desembolsada en moneda chilena por la adquisición de las divisas, se cargará a la cuenta "Cambio acciones entidades del exterior", de la partida 2510. El ajuste de esta última cuenta se efectuará con abono a la cuenta de resultados "Utilidades por ajustes tipo de cambio acciones entidades del exterior", de la partida 7710.
-
-3.2.- Acciones de empresas de suministro de energía eléctrica.
-
-Las acciones de que trata la letra e) del numeral 1.1 de este Capítulo, se registrarán en la cuenta "Acciones Ley Servicios Eléctricos", de la partida 2320
-
-El saldo de esta cuenta quedará sujeto a corrección monetaria.
-
-3.2.- Utilidades y pérdidas
-
-3.2.1.- Reconocimiento de utilidades.
-
-Las utilidades por las inversiones en acciones se reconocerán sólo al momento de percibirse los respectivos dividendos, con abono a la cuenta "Utilidades percibidas de otras sociedades, de la partida 8350, en moneda extranjera o nacional, según corresponda, sin perjuicio de que, tratándose de moneda extranjera, deba liquidarse a pesos chilenos, si así lo establecieren las condiciones bajo las cuales se autorizó la inversión o lo dispusieren las normas generales sobre la materia.
-
-En el evento de que se reciban dividendos en acciones liberadas por inversiones en el exterior, se cargará la respectiva cuenta del activo en moneda extranjera con abono a la cuenta "Utilidades percibidas de otras sociedades" antes señalada y, simultáneamente, se cargará, por su equivalente en moneda chilena, la cuenta "Cambio acciones entidades del exterior", abonando la cuenta "Utilidades de inversiones en sociedades". Dicho equivalente se determinará sobre la base del tipo de cambio de representación contable de que trata el Capitulo 13-30 de esta Recopilación, vigente a la fecha de recepción de los dividendos
-
-3.2.2.- Reconocimiento de pérdidas.
-
-En el evento de que las entidades emisoras de las respectivas acciones incurrieren en pérdidas, las instituciones financieras deberán constituir una provisión mínima equivalente a la diferencia entre el valor al cual esté registrada la inversión en el activo y el valor patrimonial proporcional de las acciones, calculado sobre la base del último estado financiero que las entidades emisoras den a conocer a sus accionistas.
-
-Las provisiones de que se trata deberán registrarse siempre en moneda chilena en la cuenta "Provisiones sobre inversiones en sociedades", de la partida 4240, con cargo a la cuenta del mismo nombre de la partida 6135, debiendo ajustarse mensualmente de acuerdo con la variación que experimente el valor de las acciones correspondientes, registrado en el activo, corregido monetariamente, o su equivalente en moneda chilena, en el caso de las inversiones en el exterior.
-
-4.- Limites legales.
-
-Las inversiones en acciones o derechos en sociedades, con excepción de los adquiridos por dación en pago o en remate judicial, se encuentran sujetos al limite de que trata el inciso segundo del artículo 83 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación.
-
-Por otra parte, según lo dispuesto en la letra a) del artículo 83 bis de la Ley General de Bancos, la inversión en acciones de una institución bancaria del exterior en particular no puede superar al 20% del capital pagado y reservas del banco inversionista.
-
-El banco accionista de un banco constituido en el exterior debe tener presente, además, los límites operacionales establecidos en la letra b) del artículo 83 bis antes señalado.
-
-Por último, las empresas bancarias que participen en un banco extranjero detraerán de su capital pagado y reservas el importe de la correspondiente inversión registrada en el activo, para los solos efectos del cumplimiento de los límites y márgenes legales y reglamentarios, con excepción del límite de que trata el inciso segundo del artículo 83 y la letra a) del artículo 83 bis de la Ley General de Bancos.
-
 CAPITULO 11-5 (Bancos y Financieras)
 
 MATERIA:
@@ -16377,6 +15873,906 @@ Código
 2305 109 00 Bienes retirados por enajenar
 
 2305 110 00 Provisiones exigidas sobre bienes del activo fijo
+
+CAPITULO 11-6 (Bancos y Financieras)
+
+MATERIA:
+
+INVERSIONES EN SOCIEDADES EN EL PAIS.
+
+I.- INVERSIONES EN SOCIEDADES EN EL PAIS QUE PUEDEN MANTENER LAS INSTITUCIONES FINANCIARAS.
+
+1.- Sociedades en que las instituciones pueden participar.
+
+Los bancos y sociedades financieras pueden participar en las siguientes sociedades constituidas en el país, con la autorización previa de esta Superintendencia:
+
+a) Sociedades filiales según lo establecido en el artículo 70 de la Ley General de Bancos, tratadas en el título II de este Capítulo;
+
+b) Sociedades de apoyo al giro según lo dispuesto en el artículo 74 de la Ley General de Bancos y a lo instruido en el título III de este Capítulo; y,
+
+c) Inversiones minoritarias en sociedades, mantenidas de conformidad con lo dispuesto en el inciso segundo del artículo 72 de la Ley General de Bancos, cuyo objeto sea alguno de los indicados en su artículo 70, tratadas en el título IV de este Capítulo.
+
+2.- Límite de inversiones.
+
+Las inversiones que se realicen en las sociedades mencionadas en el N° 1 precedente, se encuentran comprendidas dentro del límite general de inversiones de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación, sin perjuicio de que el valor de tales inversiones debe ser deducido para determinar el patrimonio efectivo, conforme a lo dispuesto en el artículo 66 de la Ley General de Bancos y en el Capítulo 12-1 de esta Recopilación.
+
+II.- SOCIEDADES FILIALES QUE COMPLEMENTAN EL GIRO.
+
+1.- Negocios que pueden efectuar las filiales.
+
+En concordancia con las disposiciones del artículo 70 de la Ley General de Bancos, las instituciones financieras sólo podrán tener participación en sociedades filiales que complementan su giro, constituidas como se indica a continuación:
+
+- Según la letra a) del artículo 70:
+
+a) Intermediadoras de valores según las normas de la Ley N° 18.045, ya sea que actúen en calidad de agentes de valores o bien como corredores de bolsa.
+
+b) Administradoras de fondos mutuos según las normas establecidas en el D.L. N° 1.328.
+
+c) Administradoras de fondos de inversión según las normas de la Ley N° 18.815.
+
+d) Administradoras de fondos de capital extranjero según las normas establecidas en la Ley N° 18.657.
+
+e) Sociedades securitizadoras de títulos según las normas del Título XVIII de la Ley N° 18.045.
+
+f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931, con exclusión de los seguros previsionales. Estas sociedades deberán operar de acuerdo con las normas impartidas por la Superintendencia de Valores y Seguros, relativas a garantizar la independencia de sus actuaciones, atendida su relación con una institución financiera.
+
+- Según la letra b) del artículo 70:
+
+g) Compañías de leasing, las cuales deben encuadrarse dentro de las condiciones establecidas por esta Superintendencia. Bajo esas condiciones, estas empresas podrán efectuar operaciones de leasing tanto de bienes muebles como inmuebles, incluidos los arrendamientos de viviendas con compromiso de compraventa efectuados al amparo de la Ley N° 19.281.
+
+h) Compañías de factoraje, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
+
+i) Empresas de asesorías financieras, cuando su giro sea asesorar en materias de índole financiera en cualquiera de las siguientes actividades: i) búsqueda de fuentes alternativas de financiamiento; ii) reestructuración de sus pasivos; iii) negociaciones para adquirir, vender o fusionar empresas; iv) emisión y colocación de bonos; v) colocación de fondos en el mercado de capitales; vi) análisis de riesgos crediticios o de mercado; vii) evaluación de nuevos negocios; viii) conocimientos de materias bancarias.
+
+j) Empresas de custodia o transporte de valores, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
+
+k) Empresas de cobranza de créditos, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
+
+l) Operadoras de tarjetas de crédito, las que deben actuar de acuerdo con las normas que se establecen en el Capítulo III.J.l del Compendio de Normas Financieras del Banco Central de Chile y según las normas dictadas por esta Superintendencia.
+
+- Según el inciso segundo del artículo 70:
+
+m) Sociedades inmobiliarias en los términos señalados en la Ley N° 19.281 y que se denominarán "sociedades de leasing inmobiliario". Estas empresas, a diferencia de las señaladas en la letra g) de este número, podrán construir o adquirir viviendas para futuros arrendamientos.
+
+n) Administradoras de fondos de vivienda (AFV) a que se refiere el artículo 55 de la Ley N° 19.281.
+
+Además de las sociedades antes mencionadas, la ley permite la constitución de filiales que presten servicios financieros con el giro específico que sea determinado por esta Superintendencia por norma de carácter general.
+
+Cada sociedad filial tendrá como objeto exclusivo el giro que le corresponda de acuerdo a la actividad para la cual se crea, según lo señalado en los literales anteriores, salvo en el caso de las sociedades indicadas en la letra a), las que podrán complementar su giro principal con la actividad de asesorías financieras a que se refiere la letra i) , siempre que lo admitan las normas pertinentes.
+
+Las sociedades filiales podrán estar constituidas como sociedades anónimas abiertas o cerradas, o bien como sociedades de responsabilidad limitada. En todo caso, las sociedades que se rigen por la Ley N° 19.281, mencionadas en las letras m) y n), deben estar constituidas como sociedades anónimas.
+
+La razón social de las sociedades de que trata este título deberá indicar claramente el giro de la empresa y no contener expresiones que puedan inducir a error en cuanto a su objeto.
+
+2.- Carácter de sociedad filial.
+
+La Ley N° 18.046 define como sociedad filial de una sociedad anónima aquélla en la que ésta controla directamente o a través de otra persona natural o jurídica, más del 50 por ciento del capital con derecho a voto, o simplemente del capital si se tratare de una sociedad no constituida por acciones, o bien, si puede elegir o designar o hacer elegir o designar a la mayoría de sus directores o administradores.
+
+Las filiales a que se refiere el artículo 70 de la Ley General de Bancos deben cumplir esas condiciones, pudiendo constituirse una sociedad con ese objeto o bien adquirir tal control en una empresa que ya se encuentre en funcionamiento.
+
+En todo caso, los socios que participen directa o indirectamente en el capital con un porcentaje igual o superior al 10%, deben cumplir con los requisitos que exige el artículo 36 de la Ley General de Bancos.
+
+3.- Requisitos para constituir filiales.
+
+Las instituciones financieras que deseen constituir una sociedad filial de acuerdo con lo establecido en el articulo 70 de la Ley General de Bancos, deberán solicitar por escrito la autorización de esta Superintendencia, para cuyo efecto deberán cumplir los siguientes requisitos:
+
+a) Mantener el capital básico y patrimonio efectivo mínimos que exige el artículo 66 de la Ley General de Bancos, tratados en el Capítulo 12-1 de esta Recopilación.
+
+b) Estar calificadas por esta Superintendencia, en categoría I o II según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes de la Ley General de Bancos. No obstante, podrán también constituir una filial las entidades calificadas en categoría III, siempre que las deficiencias que existan en su gestión no las inhabiliten a juicio de esta Superintendencia.
+
+c) Entregar a esta Superintendencia un estudio de factibilidad económico-financiero, en el que se considere el mercado, las características de la sociedad, la actividad proyectada y las condiciones en las que realizará sus actividades, de acuerdo a diversos escenarios de contingencia.
+
+Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, las instituciones financieras interesadas deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
+
+4.- Tramitación de la solicitud.
+
+De acuerdo con el artículo 73 de la Ley General de Bancos, esta Superintendencia dispone de un plazo de 90 días para aceptar o rechazar la constitución de una sociedad filial, a contar de la fecha de la solicitud.
+
+Para rechazarla, este Organismo debe dictar una resolución fundada en que no se han cumplido los requisitos establecidos por la ley, o en la circunstancia de que existen deficiencias en su gestión cuando se trate una entidad que se encuentre categoría III según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes.
+
+La ley prevé la posibilidad de que esta Superintendencia pida antecedentes adicionales, en cuyo caso el plazo señalado anteriormente se extiende a 120 días.
+
+Si la institución financiera solicitante se encuentra en categoría I según la clasificación de gestión y solvencia antes mencionada y su solicitud de autorización no hubiere sido rechazada dentro de los 60 días siguientes a la fecha de presentación, podrá solicitar a esta Superintendencia un certificado que acredite que no se ha dictado una resolución denegatoria, el que, conforme a la ley, hará las veces de autorización.
+
+5.- Estatutos.
+
+Para otorgar la autorización correspondiente, este Organismo deberá dar su aprobación a los estatutos de la sociedad filial. Cualquier modificación de tales estatutos requerirá también la aprobación de esta Superintendencia. Sin embargo, cuando se trate de empresas filiales cuya fiscalización corresponda a la Superintendencia de Valores y Seguros, sólo se requerirá que dichos estatutos y sus eventuales modificaciones sean puestos en conocimiento previo de esta Superintendencia. En este último caso, si las modificaciones consisten en aumentos o disminuciones de capital o significan alteraciones en el porcentaje de participación del banco en su filial, se deberá obtener la conformidad previa de este Organismo para efectuarlas.
+
+6.- Cambios en la participación en una sociedad filial.
+
+Para la enajenación total o parcial de la participación que una institución financiera mantenga en una filial, deberá solicitarse autorización de esta Superintendencia antes de asumir cualquier compromiso. Igual procedimiento deberá seguirse ante cualquier evento que disminuya el porcentaje de participación de la institución financiera en una filial.
+
+Los cambios en la participación de terceros en el capital de las filiales deberán ser objeto de una calificación previa de esta Superintendencia en relación con el cumplimiento de las exigencias del artículo 3 6 de la Ley General de Bancos, esto es, en aquellos casos en que un socio o accionista pasa a tener una participación igual o superior al 10%.
+
+7.- Fiscalización de las sociedades filiales.
+
+Las sociedades a que se refiere la letra a) del artículo 70 de la Ley General de Bancos, como asimismo las administradoras de fondos de vivienda (AFV), están sujetas a la fiscalización de la Superintendencia de Valores y Seguros. A estas sociedades les serán aplicables, además de todas las normas dictadas por ese Organismo, aquéllas de carácter general relativas a filiales de instituciones financieras impartidas por esta Superintendencia.
+
+Todas las sociedades filiales distintas de las mencionadas en el párrafo precedente quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, les son aplicables las disposiciones del Título I de la Ley General de Bancos y las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
+
+Esta Superintendencia podrá requerir a las instituciones financieras cualquier información relativa a sus sociedades filiales que estime pertinente. Las sociedades filiales que quedan sujetas a su fiscalización, deberán cumplir con los requerimientos de información de este Organismo desde el momento en que se autorice su constitución.
+
+8.- Aplicación de la Ley de Mercado de Valores.
+
+Los valores de oferta pública que pudieren emitir las empresas filiales sujetas a la fiscalización de esta Superintendencia, así como ellas mismas en su calidad de emisoras, deben inscribirse en el Registro de Valores de este Organismo.
+
+Asimismo, esos valores deberán ser clasificados por evaluadores privados inscritos en esta Superintendencia, de acuerdo con las normas dictadas para tal efecto.
+
+9.- Administración y funcionamiento de las sociedades filiales.
+
+No existe inconveniente para que los directores o los empleados de la institución financiera matriz, sean directores de una sociedad filial.
+
+Las sociedades filiales deberán tener gerente, personal, local, equipamiento y servicios independientes de la institución financiera matriz.
+
+No obstante, en el marco de las instrucciones que se indican en los numerales siguientes, el banco o sociedad financiera matriz podrá prestar a sus filiales diversos servicios tendientes a facilitar las actividades comerciales o administrativas de éstas.
+
+9.1.- Utilización de las sucursales de la matriz para promover las operaciones de sus filiales y recopilar antecedentes de los clientes.
+
+La institución financiera matriz podrá, a través de sus sucursales, promover y proporcionar información a sus clientes acerca de los distintos servicios financieros que prestan sus sociedades filiales. Asimismo, podrá canalizar solicitudes de operaciones, recopilar antecedentes de potenciales clientes y poner a disposición de sus filiales, previa autorización del cliente, información económico financiera que mantenga respecto de éste.
+
+Estas actividades deberán sujetarse estrictamente a las siguientes condiciones:
+
+a) La evaluación y la decisión final respecto de la operación que se geste a través del banco o sociedad financiera matriz, así como de sus características y condiciones, corresponderá sólo a las instancias respectivas de la sociedad filial; en ningún caso esta función podrá ser delegada.
+
+b) El funcionario de la institución financiera matriz que recopile los antecedentes de potenciales clientes para una sociedad filial, deberá informarles que la operación la está haciendo con la sociedad filial y no con la institución financiera misma. Además, el banco o sociedad financiera deberá utilizar formularios distintos a los que ocupa para sus propias operaciones, que tengan el membrete o logotipo de la filial e incluyan una advertencia o nota impresa en la que se indique que la operación se realiza con la sociedad filial, que la aceptación de las solicitudes está sujeta a la decisión de ésta y que los contratos que se suscriban no comprometen al banco o sociedad financiera.
+
+c) Tanto la institución financiera como su filial, deberán mantener un estricto control contable de los respectivos ingresos y gastos de los servicios contratados entre ambas partes.
+
+9.2.- Funciones administrativas y uso de bienes de la institución financiera.
+
+La sociedad filial podrá contratar el servicio de algunas funciones administrativas o el uso de locales o equipos del banco o sociedad financiera, sobre la base de contratos de prestaciones de servicios específicos o de arrendamiento, en su caso.
+
+La posibilidad señalada en el párrafo anterior se refiere exclusivamente a servicios destinados a facilitar las funciones operativas y administrativas de la empresa filial y, en ningún caso, a la gestión del negocio de ésta, la que debe radicarse exclusivamente en ella. Así, por ejemplo, una institución financiera no podrá prestar servicios tales como la administración de las inversiones o el manejo de fondos disponibles, funciones que deberán ser absolutamente independientes entre la empresa filial y la institución financiera matriz.
+
+Lo anterior no obsta para que las instituciones financieras entreguen en arriendo a una empresa filial el uso de parte de sus oficinas para que ella ejerza su giro, siempre que se mantenga una clara separación material respecto de las dependencias en que opera la matriz, que evite confusiones de las actividades, de tal manera que la institución no tenga alguna responsabilidad por las operaciones de su filial ni el público pueda entender que la asume.
+
+9.3.- Contratos de prestación de servicios.
+
+Las prestaciones señaladas en los numerales 9.1 y 9.2 precedentes podrán realizarse siempre que existan contratos previamente suscritos por las partes, en los cuales se detallen claramente los servicios que se prestarán.
+
+Los precios deberán pactarse de acuerdo con las condiciones imperantes en el mercado para prestaciones similares o estar en relación con los costos asociados.
+
+Las partes deberán mantener un riguroso control contable de los ingresos y gastos, debiendo establecerse en los contratos que los cobros se realizarán con la pormenorización necesaria para ese efecto.
+
+9.4.- Relaciones entre sociedades filiales.
+
+Lo dispuesto en los numerales precedentes rige también para las relaciones que mantengan entre sí las distintas sociedades filiales de un banco o sociedad financiera.
+
+9.5.- Sanciones.
+
+El incumplimiento de los resguardos y restricciones previstos en los numerales anteriores podrá dar lugar a la medida de suspensión de la actividad específica sobre la que recae la infracción, sin perjuicio de las sanciones establecidas en el artículo 19 de la Ley General de Bancos.
+
+10. - Participación de la sociedad filial en otras sociedades.
+
+El artículo 71 de la Ley General de Bancos establece, en general, una prohibición para que las sociedades filiales de instituciones financieras puedan adquirir acciones o tomar participación en otras sociedades.
+
+La misma disposición establece una excepción para el caso de que la inversión sea imprescindible para el desarrollo de su giro y siempre que no exceda en momento alguno del 5% del capital pagado de la sociedad en que se efectúe dicha inversión.
+
+Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un banco o sociedad financiera efectúe en otra sociedad deberá contar con la autorización previa de esta Superintendencia. En la solicitud que se presente con este objeto, deberán informarse las razones por las cuales la inversión se estima imprescindible para el desarrollo del giro.
+
+En todo caso, las sociedades cuyo giro sea el de corredor de bolsa o de agente de valores, quedan autorizadas para invertir en las acciones que puedan adquirir para sí, hasta el límite del 5% del capital pagado de las respectivas sociedades emisoras, conforme a las normas de la Ley sobre Mercado de Valores y las instrucciones de la Superintendencia de Valores y Seguros a cuya fiscalización se encuentran sometidas. Además, los corredores de bolsa pueden adquirir, dentro de ese límite, las acciones de bolsas de valores que requieran para cumplir su función.
+
+Finalmente, una sociedad filial podrá tener participación en otra sociedad filial del mismo banco o sociedad financiera, siempre que el porcentaje de participación en el capital y en las utilidades no exceda del 1%.
+
+11.- Inversiones que pueden efectuar las sociedades filiales.
+
+Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en: documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos o sociedades financieras; y cuotas de fondos mutuos de renta fija.
+
+12.- Información de la situación financiera de las sociedades filiales.
+
+12.1.- Estados financieros anuales.
+
+Los estados financieros anuales de empresas filiales de instituciones financieras deberán ser auditados por la misma firma dé auditores externos que audita los estados financieros de su matriz.
+
+Las entidades sujetas a la fiscalización de esta Superintendencia entregarán dichos estados financieros y los publicarán de acuerdo con las instrucciones impartidas a esas sociedades filiales.
+
+Cuando se trate de sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros, sus estados financieros serán entregados por la institución financiera matriz a esta Superintendencia de Bancos e Instituciones Financieras, dentro del mismo plazo establecido para la entrega de sus propios estados financieros anuales, y deberán ser publicados en el mismo periódico en que la matriz publique los suyos.
+
+12.2.- Presentación de estados de situación trimestrales a esta Superintendencia.
+
+Además de los estados financieros anuales auditados, las sociedades filiales deberán enviar periódicamente a esta Superintendencia los estados de situación que este Organismo les exija.
+
+Cuando se trate de sociedades fiscalizadas por la Superintendencia de Valores y Seguros, las instituciones financieras matrices deberán hacer llegar a este Organismo, además de los estados financieros auditados de que trata el numeral precedente, estados de situación trimestrales referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año. Esta información se entregará a más tardar el duodécimo día hábil bancario siguiente a la fecha a que se refiere el respectivo balance, debiéndose utilizar para el efecto el formato de la Ficha Estadística Codificada Uniforme (FECU) que exige aquella Superintendencia.
+
+III.- SOCIEDADES DE APOYO AL GIRO.
+
+1.- Sociedades de apoyo al giro de las instituciones financieras.
+
+Para los efectos de las presentes normas y de acuerdo con lo dispuesto en el artículo 74 de la Ley General de Bancos, se entenderá que constituyen empresas de apoyo al giro las sociedades que presten servicios destinados a facilitar el cumplimiento de los fines de las entidades financieras que participen en ellas, como asimismo aquellas en que, por su intermedio, las instituciones financieras puedan efectuar determinadas operaciones de su giro.
+
+El giro específico de estas sociedades es materia de autorización por parte de la Superintendencia y en todo caso, de acuerdo con la ley, ese giro no puede incluir la captación de dinero del público. Las actividades que ha autorizado este Organismo para empresas de apoyo al giro se describen en el Anexo N° 2 de este Capítulo.
+
+2.- Constitución y participación en sociedades de apoyo al giro.
+
+Para constituir una sociedad de apoyo al giro, los bancos y sociedades financieras requerirán de la autorización expresa de este Organismo, el que dará su aprobación a los estatutos de dicha sociedad. Igualmente, cada modificación de los estatutos de la sociedad requerirá de la aprobación de esta Superintendencia.
+
+Para solicitar la autorización correspondiente, las instituciones financieras interesadas deberán entregar a esta Superintendencia los antecedentes que se detallan en el Anexo N° 3 de este Capítulo.
+
+Las sociedades de apoyo al giro podrán ser constituidas con la participación de una o más instituciones financieras. En cualquier caso, excepcionalmente podrá autorizarse la participación como socios minoritarios a entidades que no sean bancos, sociedades financieras ni filiales de los mismos, si se demuestra a este Organismo que ello resultará ventajoso para las instituciones financieras que participan.
+
+Cada vez que se desee incorporar un nuevo socio, éste deberá solicitar autorización a esta Superintendencia.
+
+Las sociedades de que se trata pueden adoptar la forma de sociedades anónimas abiertas o cerradas o de responsabilidad limitada y sólo podrán constituirse una vez que sea aprobada la participación de todos sus socios. En todo caso, cuando participen socios que no sean entidades fiscalizadas por esta Superintendencia, las empresas deberán adoptar siempre la forma de sociedades de responsabilidad limitada.
+
+3.- Disminución de la participación en una empresa de apoyo.
+
+Para la enajenación total o parcial de la participación que una institución financiera mantenga en una empresa de apoyo, deberá solicitarse autorización de esta Superintendencia en forma previa a la adquisición de cualquier compromiso en ese sentido. Igual procedimiento deberá seguirse ante cualquier evento que disminuya el porcentaje de participación de una institución financiera en una empresa de apoyo.
+
+4.- Entidades cuyos giros se aluden en otras disposiciones y que pueden constituirse como sociedades de apoyo al giro.
+
+Si bien la letra b) del artículo 70 de la Ley General de Bancos permite la constitución de sociedades filiales cuyo giro consista en la custodia o transporte de valores, o en la cobranza de créditos, ello no es óbice para constituir sociedades de apoyo al giro con esos objetos sociales, al amparo del artículo 74. Asimismo, la opción de constituir una filial operadora de tarjetas de crédito no resulta incompatible con la posibilidad de que las instituciones financieras constituyan una sociedad de apoyo al giro que realice esa actividad.
+
+El artículo 51 de la Ley N° 18.876 faculta a los bancos y sociedades financieras para invertir en sociedades anónimas constituidas como empresas de depósito de valores al amparo de esa ley. Para ese efecto, esta Superintendencia ha autorizado la participación en la propiedad a través de una empresa de apoyo al giro.
+
+5.- Fiscalización de las sociedades de apoyo.
+
+Las sociedades a que se refiere el artículo 74 de la Ley General de Bancos quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, deben ceñirse a las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
+
+Las sociedades de apoyo al giro deben enviar a esta Superintendencia para efectos de fiscalización, la información establecida en las normas generales o instrucciones específicas impartidas a dichas sociedades, las que comprenden, entre otras, la exigencia de remitir estados de situación en forma periódica.
+
+6.- Administración y funcionamiento de las sociedades de apoyo al giro.
+
+No existe inconveniente para que los directores o los empleados de las instituciones financieras participantes, sean directores de una sociedad de apoyo al giro.
+
+Las sociedades a que se refiere este título deberán tener gerente, personal, local, equipamiento y servicios independientes de sus entidades financieras propietarias.
+
+7.- Restricciones en las inversiones de las sociedades de apoyo al giro.
+
+Por tratarse de sociedades con giro exclusivo, las empresas de apoyo de bancos y sociedades financieras no podrán tener entre sus activos acciones o derechos en otras sociedades, salvo que ello sea imprescindible para el desarrollo de su giro. En este caso la sociedad deberá contar con la autorización previa de esta Superintendencia, para cuyo efecto se presentará una solicitud informando de las razones por las cuales la inversión es imprescindible.
+
+Por otra parte, sin perjuicio de las inversiones que les fueren propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en: documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos o sociedades financieras; y cuotas de fondos mutuos de renta fija.
+
+8.- Estados financieros anuales.
+
+Los estados financieros anuales de las empresas de apoyo deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia.
+
+IV.- INVERSIONES MINORITARIAS EN SOCIEDADES.
+
+El inciso segundo del artículo 72 de la Ley General de Bancos, permite a las instituciones financieras participar en forma minoritaria en una sociedad que tenga alguno de los objetos indicados en el artículo 70, esto es, aquellos que la ley permite a las filiales que complementan el giro, tratadas en el título II del presente Capítulo.
+
+La participación minoritaria en una de esas sociedades al amparo de lo dispuesto en esa disposición legal, requiere del cumplimiento de las siguientes condiciones básicas:
+
+a) Que se trate de una sociedad fiscalizada por esta Superintendencia, o bien, por la Superintendencia de Valores y Seguros.
+
+b) Que la participación tenga el carácter de una inversión permanente, permitiendo a la institución financiera elegir directamente al menos un miembro del directorio o de la administración.
+
+c) Que los demás socios o accionistas que posean un 10% o más de participación en el capital de la sociedad, cumplan las condiciones que exige el artículo 36 de la Ley General de Bancos.
+
+d) Que la institución financiera obtenga la autorización previa de esta Superintendencia, cumpliendo con los demás requisitos que exige la ley, esto es, los que se mencionan en los literales del N° 2 del título II de este Capítulo.
+
+Como es natural, los propósitos que la institución financiera persigue con una inversión en una sociedad que no controlará, deberán explicarse en la solicitud que se presente a esta Superintendencia.
+
+V.- OPERACIONES ENTRE PARTES RELACIONADAS.
+
+1.- Condiciones que deben cumplir las operaciones.
+
+Los actos, contratos, negocios y operaciones entre una institución financiera y sus sociedades filiales y de apoyo al giro, de éstas entre sí y con personas relacionadas al banco o sociedad financiera, deberán observar condiciones de equidad, equivalentes a las que habitualmente prevalecen en el mercado.
+
+Todas las transacciones efectuadas entre la institución financiera y las sociedades en la cuales participe, como asimismo las realizadas entre estas últimas, deberán quedar debidamente identificadas en las empresas participantes, a fin de permitir la obtención de cualquier información que esta Superintendencia les pueda requerir acerca de operaciones entre ellas y, cuando corresponda, la consolidación de los estados financieros de la matriz.
+
+2.- Prohibición de adquirir acciones de la sociedad matriz o coligante.
+
+Las sociedades a que se refieren los títulos II, III y IV de este Capítulo, no podrán adquirir acciones de los bancos o sociedades financieras que sean accionistas o socios de ellas. Esta prohibición alcanza también a la recepción en pago, como asimismo impide recibirlas en garantía por el cumplimiento de una obligación que un tercero tenga en favor de la sociedad filial, coligada o de apoyo al giro.
+
+3.- Créditos otorgados por la institución financiera.
+
+De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, las sociedades filiales, de apoyo al giro y coligadas a que se refieren los títulos II, III y IV del presente Capítulo, junto con las sociedades constituidas en el exterior en las cuales participe la institución financiera, conformarán un solo grupo de empresas vinculadas a ella para los efectos de las limitaciones establecidas en el artículo 84 N° 2 de la Ley General de Bancos.
+
+VI.- NORMAS CONTABLES.
+
+1.- Inversiones en sociedades filiales y coligadas.
+
+Cuando la institución financiera tenga una participación igual o superior al 10% en una sociedad, o cuando pueda elegir o designar por lo menos un miembro del directorio o de la administración de la misma, de acuerdo con los estatutos de la empresa, la inversión se registrará de la siguiente forma:
+
+1.1.- Valorización de las inversiones y resultados.
+
+Las acciones o derechos en las sociedades filiales o coligadas de que se trata, sean éstas filiales que complementan el giro o sociedades de apoyo al giro que tengan el carácter de filiales o coligadas, se registrarán en el activo a su valor patrimonial proporcional (VPP).
+
+Dicho método de contabilización se aplicará siguiendo los criterios señalados en el Boletín Técnico N° 42 del Colegio de Contadores de Chile A.G., debiendo reconocerse proporcionalmente los resultados, las demás variaciones patrimoniales y, cuando proceda, los efectos de las utilidades no realizadas y de la homologación de criterios contables.
+
+El cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión en una sociedad filial o en una sociedad coligada sujeta a la fiscalización de esta Superintendencia, se efectuará al cierre de cada mes, de acuerdo con los resultados de la empresa subsidiaria o relacionada a la misma fecha. Al tratarse de una sociedad coligada sujeta a la fiscalización de la Superintendencia de Valores y Seguros, el ajuste podrá basarse en los resultados obtenidos por la empresa relacionada hasta el mes inmediatamente anterior, salvo cuando se trate del cierre del ejercicio anual, en que se deberán tomar sus resultados definitivos hasta el 31 de diciembre.
+
+Las inversiones se reflejarán en las siguientes cuentas de la partida 2320: "Inversiones en filiales que complementan el giro", "Inversiones en sociedades de apoyo al giro" e "Inversiones en coligadas con giro complementario", según se trate de las sociedades señaladas en los títulos II, III o IV de este Capítulo, respectivamente.
+
+Las utilidades reconocidas proporcionalmente se registrarán en las siguientes cuentas de la partida 8350, según sea el caso: "Utilidades de filiales que complementan el giro"; "Utilidades de sociedades de apoyo al giro"; o bien, "Utilidades de coligadas con giro complementario". En caso de pérdidas, se utilizarán las siguientes cuentas de la partida 6350: "Pérdidas de filiales que complementan el giro"; "Pérdidas de sociedades de apoyo al giro"; o bien, "Pérdidas de coligadas con giro complementario".
+
+Las utilidades no realizadas se abonarán a la cuenta "Utilidades no realizadas" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 8350. Para reconocer posteriormente los ingresos se efectuará la contabilización inversa.
+
+1.2.- Mayor o menor valor pagado en inversiones en sociedades ya constituidas.
+
+En el evento de que se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el costo y el valor patrimonial proporcional determinado a la fecha de la adquisición, se tratarán de la siguiente forma:
+
+a) Valor pagado mayor que el VPP ("Goodwill"): Cuando el valor pagado sea mayor que el valor patrimonial proporcional, la diferencia se registrará en la cuenta "Mayor valor pagado en inversiones en sociedades" de la partida 2120 y se amortizará en el período esperado de retorno de la inversión, con cargo a la cuenta "Amortización mayor valor pagado en inversiones en sociedades" de la partida 6315, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. En todo caso, ese período de amortización no podrá exceder de 10 años.
+
+El saldo no amortizado de la cuenta "Mayor valor pagado en inversiones en sociedades" se considerará como parte de la inversión para los efectos señalados en los Capítulos 12-1 y 12-10 de esta Recopilación, esto es, para la determinación del patrimonio efectivo, la ponderación de activos por riesgo y el cumplimiento del límite general de inversiones.
+
+b) Valor pagado menor que el VPP: Si el valor pagado fuere menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Menor valor pagado en inversiones en sociedades" de la partida 4120 y se amortizará con abono a la cuenta "Amortización menor valor pagado en inversiones en sociedades", de la partida 8315, en un plazo de diez años, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. No obstante, si la inversión en la respectiva sociedad filial o coligada origina pérdidas en un ejercicio, el monto que se traspase a resultados podrá ser equivalente a esas pérdidas.
+
+El saldo de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Menor valor pagado en inversiones en sociedades" antes señaladas, deberá ajustarse proporcionalmente en caso de enajenaciones parciales o cambios en los porcentajes de participación en las sociedades por cuya inversión se originaron.
+
+2.- Inversiones minoritarias en sociedades de apoyo al giro.
+
+Las inversiones en sociedades de apoyo al giro en que la institución financiera tenga una participación inferior al 10% o no pueda elegir a lo menos un director o administrador, se registrarán en la cuenta "Inversiones en sociedades de apoyo al giro" de la partida 2320, a su valor de costo más corrección monetaria. Las utilidades se reconocerán contablemente sólo al momento de recibir los dividendos o beneficios que la sociedad reparta y sus importes se registrarán con abono a la cuenta "Utilidades de sociedades de apoyo al giro" de la partida 8350.
+
+La institución financiera deberá, sin embargo, constituir provisiones para cubrir las pérdidas en que haya incurrido una sociedad. Para ese efecto calculará el importe de la provisión tomando como valor mínimo de referencia de la inversión, el que se obtiene de aplicar el porcentaje de participación en la sociedad al total del patrimonio contable que muestren sus estados financieros.
+
+Las provisiones de que se trata se abonarán a la cuenta "Provisiones sobre inversiones en sociedades" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 6350.
+
+VII.- OTRAS ACCIONES O DERECHOS EN SOCIEDADES QUE PUEDEN MANTENER LAS INSTITUCIONES FINANCIERAS.
+
+1.- Tenencia transitoria de acciones o derechos en sociedades.
+
+Además de las inversiones en sociedades tratadas en los títulos precedentes, los bancos y sociedades financieras pueden mantener transitoriamente y dentro de los límites establecidos en la ley: a) Acciones o derechos en sociedades recibidos en pago o adjudicados en remate judicial por deudas previamente contraídas a favor de la institución financiera, según lo previsto en el N° 5 del artículo 84 de la Ley General de Bancos; y b) Acciones de primera emisión adquiridas en virtud de la garantía otorgada como agente colocador, según lo dispuesto en el artículo 69 N° 25 de la misma ley.
+
+Las acciones o derechos antes mencionados deben ser enajenados en los plazos y forma señalados en la ley y en las normas de esta Superintendencia sobre la materia, y se registrarán contablemente de acuerdo con las normas específicas que las tratan.
+
+2.- Acciones de empresas de utilidad pública.
+
+Las instituciones financieras también pueden poseer acciones de empresas de suministro de servicios de utilidad pública correspondientes al reembolso de aportes por instalaciones o ampliaciones de los respectivos servicios, en la medida que su adquisición sea la única forma de acceder a ellos y de obtener el reembolso de los aportes efectuados en conformidad con las disposiciones pertinentes. Estas acciones no serán consideradas como inversiones en sociedades para los efectos legales y reglamentarios mencionados en este Capítulo.
+
+Las acciones de que se trata se registrarán en la cuenta "Acciones de empresas de utilidad pública" de la partida 1775 y quedarán valorizadas en el activo al menor valor entre su costo corregido monetariamente y su valor de mercado. Los resultados por los dividendos percibidos o por los ajustes a valor de mercado que procedan, se registrarán en cuentas de las partidas 8315 ó 6315, según corresponda.
+
+3.- Alcance de estas disposiciones.
+
+Los bancos y las sociedades financieras, no podrán adquirir para sí acciones o derechos en sociedades en el país que no se ajusten a lo indicado en los títulos anteriores y en los números precedentes. Sin embargo, eso no es óbice para que los bancos, en sus operaciones de custodia o de comisiones de confianza, registren a su nombre, cuando así se lo soliciten los respectivos compradores, las acciones adquiridas por orden y cuenta de terceros. Naturalmente que en estos casos, el banco debe tener en su poder los documentos que acrediten el mandato correspondiente, en el que exista constancia de que los títulos de las acciones adquiridas deben quedar a nombre de la institución mandataria. Esto no se aplica a las sociedades financieras, por cuanto el artículo 116 de la Ley General de Bancos les prohibe actuar como mandatarias a nombre propio.
+
+ANEXO N°l
+
+ANTECEDENTES PARA AUTORIZACION DE FILIALES.
+
+Junto con el estudio de factibilidad, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
+
+1.- Para la apertura de una filial:
+
+a) Participación accionaria que tendrá la matriz en la filial.
+
+b) Antecedentes de los socios minoritarios con más del 10% de la propiedad.
+
+c) Estatutos de la sociedad.
+
+d) Estructura organizacional prevista para la empresa.
+
+e) Forma en que la matriz prevé dirigir y controlar la gestión de su subsidiaria (Fijación de políticas y manejo de los riesgos; grado de autonomía, flujos de información previstos, etc.).
+
+f) Análisis de los principales riesgos del negocio y de las operaciones.
+
+g) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones.
+
+h) Equipamientos y servicios contemplados para desarrollar el giro.
+
+2.- Para adquirir como filial una sociedad que ya existe.
+
+a) La misma información mencionada en el N° 1.
+
+b) Estados financieros auditados de los tres últimos años.
+
+c) Informes relevantes de riesgo y de auditorías realizadas por la entidad o por profesionales externos.
+
+d) Resultados de la Due-Dilligence efectuada por la institución solicitante y criterios de valoración de la inversión.
+
+Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verídica y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
+
+ANEXO N°2
+
+ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO
+
+A continuación se describen los tipos de servicios que esta Superintendencia ha autorizado para la constitución de empresas de apoyo al giro:
+
+- Operación de terminales de caja y puntos de venta.
+
+- Transferencia electrónica de información.
+
+- Transferencia electrónica de fondos.
+
+- Administración de tarjetas de crédito de acuerdo con las normas del Banco Central de Chile y de la Superintendencia.
+
+- Recaudación de pagos de servicios (agua, gas, electricidad, teléfono), impuestos, contribuciones, cuotas de créditos, cuotas de patentes u otros derechos, imposiciones provisionales, matrículas, cuotas de establecimientos educacionales, cuotas de socios de instituciones, etc.
+
+- Pagos provisionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc.
+
+- Participación en sociedad de depósito de valores creada de conformidad con la Ley N° 18.876.
+
+ANEXO N°3
+
+ANTECEDENTES PARA AUTORIZACION DE SOCIEDADES DE APOYO AL GIRO.
+
+Para constituir una sociedad de apoyo al giro, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
+
+a) Participación que tendrán los socios en la propiedad y gestión.
+
+b) Estatutos de la sociedad.
+
+f) Estudio técnico-económico de la rentabilidad de la inversión.
+
+g) Estructura organizacional prevista para la empresa.
+
+h) Análisis de los principales riesgos del negocio y de las operaciones.
+
+i) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones.
+
+j) Equipamientos y servicios contemplados para desarrollar el giro.
+
+Esta Superintendencia podrá requerir información adicional relativa al giro específico que se solicita, como asimismo antecedentes que muestren la incidencia del proyecto para cada institución financiera participante, cuando sea el caso.
+
+Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verídica y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
+
+CAPITULO 11-7 (Bancos y Financieras)
+
+MATERIA:
+
+SUCURSALES E INVERSIONES EN BANCOS Y OTRAS SOCIEDADES EN EL EXTERIOR.
+
+I.- AUTORIZACION PARA ABRIR OFICINAS Y SUCURSALES E INVERTIR EN SOCIEDADES EN EL EXTERIOR.
+
+1.- Facultad de abrir oficinas e invertir en sociedades.
+
+De conformidad con lo dispuesto en el artículo 76 de la Ley General de Bancos, los bancos podrán abrir sucursales y oficinas de representación en el extranjero, efectuar inversiones en acciones de bancos establecidos en el extranjero o de empresas constituidas en el exterior que tengan alguno de los giros autorizados en los artículos 70 y 74 de la Ley General de Bancos.
+
+Por otra parte, de acuerdo con lo dispuesto en el artículo 117 de la Ley General de Bancos, las sociedades financieras podrán abrir sucursales en el extranjero o participar en sociedades establecidas en el exterior que tengan alguno de los giros que autorizan los artículos 70 y 74 antes mencionados. En ningún caso podrán adquirir participación en sociedades del giro bancario, como tampoco están facultadas para abrir oficinas de representación en el exterior.
+
+Para abrir sucursales y oficinas de representación en el extranjero, será necesaria la autorización previa de esta Superintendencia y para efectuar las otras inversiones antes señaladas, se requerirá, además, la autorización del Banco Central de Chile.
+
+2.- Requisitos para solicitar autorización.
+
+Las instituciones financieras que soliciten autorización para abrir oficinas o efectuar las inversiones señaladas precedentemente, deberán reunir los siguientes requisitos:
+
+a) Cumplir con los porcentajes mínimos de patrimonio efectivo y de capital básico que exige el artículo 66 de la Ley General de Bancos, tratados en el Capítulo 12-1 de esta Recopilación.
+
+b) Estar calificadas por esta Superintendencia, en categoría I o II según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes de la Ley General de Bancos. No obstante, podrán también abrir oficinas o efectuar inversiones en sociedades en el exterior, las entidades calificadas en categoría III, siempre que las deficiencias que existan en su gestión no las inhabiliten a juicio de esta Superintendencia.
+
+c) Acompañar un estudio de factibilidad económico-financiero en que se consideren las condiciones económicas del país en que se realizará la inversión, el funcionamiento y las características del mercado financiero en que se instalará la entidad, la actividad proyectada y las condiciones en que se desenvolverá de acuerdo a diversos escenarios de contingencia.
+
+d) Que el país en el que se efectuará la inversión o se abrirá la oficina, ofrezca condiciones de fiscalización que permitan apreciar el riesgo de sus operaciones.
+
+e) Que los socios o accionistas cuya participación sea igual o superior al 10% del capital de la sociedad, cumplan con los requisitos que exige el artículo 36 de la Ley General de Bancos.
+
+Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, las instituciones financieras interesadas deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
+
+3.- Tramitación de la solicitud.
+
+3.1.- Procedimiento normal.
+
+De acuerdo con el artículo 78 de la Ley General de Bancos, esta Superintendencia dispone de un plazo de 90 días para aceptar o rechazar la solicitud, a contar de la fecha en que ésta le haya sido presentada.
+
+Por otra parte, la ley establece un plazo de 45 días para que esta Superintendencia pida antecedentes adicionales.
+
+En caso de rechazar la solicitud, este Organismo debe comunicar reservadamente a la institución financiera la causal de su pronunciamiento.
+
+3.2.- Procedimiento especial.
+
+Las instituciones financieras podrán acogerse a un procedimiento de trámite especial para solicitar autorización para abrir sucursales o invertir en el exterior.
+
+En este caso, el plazo para requerir antecedentes complementarios será de 22 días y el pronunciamiento definitivo de esta Superintendencia respecto de la solicitud, será de 45 días contados desde su presentación. En caso de ser rechazada, tal decisión debe comunicarse mediante una resolución fundada, la que será susceptible del recurso de reclamación de acuerdo con lo dispuesto en el artículo 22 de la Ley General de Bancos.
+
+Las instituciones financieras sólo podrán acogerse a este procedimiento especial cuando, además de los requisitos señalados en el N° 2 precedente, reúnan en forma copulativa los que se indican a continuación:
+
+i) Exceder en un 25% el porcentaje mínimo de patrimonio efectivo, esto es, que éste no sea inferior al 10% de los activos ponderados por riesgo. En este caso, el patrimonio efectivo y los activos ponderados se calcularán sobre base consolidada, según las instrucciones del título VIII de este Capítulo.
+
+ii) Estar calificadas en categoría I por esta Superintendencia, según la clasificación de gestión y solvencia.
+
+iii)Que la inversión corresponda a la apertura de una sucursal o adquisición de acciones o derechos que representen más del 50% del capital de una empresa extranjera, o bien, que se trate de una inversión con una participación igual o minoritaria siempre que los demás socios participantes residan en Chile. No obstante, podrá también tratarse de inversiones con una participación igual o minoritaria en que participen socios o accionistas no residentes en Chile. En este caso el procedimiento de autorización especial de que trata este numeral 3.2 quedará sujeto al trámite de consulta que, conforme a la ley, debe efectuar esta Superintendencia al organismo de supervisión del respectivo país, respecto de los socios y de los ejecutivos superiores de la empresa, en relación con las exigencias del inciso cuarto del artículo 36 de la Ley General de Bancos.
+
+iv) Que el país en el que se efectuará la inversión o instalará la sucursal tenga condiciones de riesgo calificadas en primera categoría por una empresa calificadora internacional que figure en la nómina incluida en el Capítulo 1-12 de esta Recopilación, o bien, que exista un convenio de colaboración recíproca suscrito entre esta Superintendencia y el organismo supervisor del respectivo país.
+
+3.3.- Certificación.
+
+El artículo 79 de la Ley General de Bancos establece que si esta Superintendencia no dicta una resolución denegatoria dentro del plazo de que dispone, la institución solicitante puede requerir un certificado que acredite ese hecho y que hará las veces de autorización.
+
+4.- Modificaciones en los estatutos o actividades y cambios en la participación o en el control.
+
+Dado que la autorización para efectuar una inversión en una sociedad en el exterior se otorgará considerando la participación que tendrá la institución financiera en la propiedad o gestión de dicha sociedad, todos los actos posteriores de la entidad financiera inversora que originen una disminución en el porcentaje de su participación o de su influencia en ella en su calidad de socio o accionista, requerirán también de la autorización previa de esta Superintendencia.
+
+Por otra parte, debido a que el giro de la empresa en la cual se participe debe ajustarse a las funciones propias de un banco o de una sociedad que desarrolle alguna de las actividades de que tratan los artículos 70 y 74 de la Ley General de Bancos, las modificaciones en esta materia de los estatutos, como asimismo de las actividades o de las inversiones permanentes que mantengan las sociedades filiales u otras sociedades que de acuerdo con la ley quedan sujetas a la fiscalización de este Organismo, deberán contar también con la conformidad previa de esta Superintendencia.
+
+Por último, los cambios en la participación de terceros en el capital de las sociedades fiscalizadas por este Organismo, deberán ser objeto de una calificación previa de esta Superintendencia en relación con el cumplimiento de las exigencias del artículo 36 de la Ley General de Bancos, esto es, en aquellos casos en que un socio o accionista pasa a tener una participación igual o superior al 10%.
+
+Lo indicado en los párrafos precedentes es sin perjuicio de la información que deberá enviarse a esta Superintendencia acerca de cambios en los estatutos o en la participación de terceros, cuando se trate de sociedades en que las instituciones participen en forma minoritaria.
+
+II.- NORMAS GENERALES.
+
+1.- Inversiones en sociedades del exterior que pueden mantener las instituciones financieras.
+
+Las instituciones financieras pueden poseer las siguientes acciones o derechos en sociedades en el exterior, con las autorizaciones previas de que trata el título I de este Capítulo:
+
+a) Inversiones en sociedades filiales, tratadas en el título IV de este Capítulo.
+
+b) Participación minoritaria en bancos u otras sociedades, tratadas en el título y de este Capítulo.
+
+En ningún caso las sociedades financieras pueden participar en entidades que ejerzan el giro bancario.
+
+2.- Límites de inversiones.
+
+2.1.- Límite global que afecta a las inversiones en sociedades.
+
+Las inversiones mencionadas en el N° 1 se encuentran comprendidas dentro del límite general de inversiones de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación, sin perjuicio de que el valor de tales inversiones debe ser deducido para determinar el patrimonio efectivo, conforme a lo dispuesto en el artículo 66 de la Ley General de Bancos y en el Capítulo 12-1 de esta Recopilación.
+
+2.2.- Límite de inversiones en un mismo país.
+
+De acuerdo con lo establecido en el N° 1 del artículo 80 de la Ley General de Bancos, los bancos constituidos en Chile sólo podrán invertir hasta un 40% de su patrimonio efectivo en bancos u otras sociedades establecidas en un mismo país. Ese porcentaje incluirá también el capital asignado a las sucursales que mantuvieren en el mismo país, conforme a lo señalado en el N° 1 del artículo 81. La misma limitación afecta a las sociedades financieras constituidas en Chile, con respecto a sus sucursales y a las sociedades en las que inviertan en el exterior.
+
+3.- Otras exigencias legales de carácter general.
+
+a) La suma de los depósitos, préstamos y otras acreencias que los bancos chilenos mantengan, ya sea directamente o a través de otras personas, en sociedades del giro bancario de las que sean accionistas, no podrán exceder del 25% del patrimonio efectivo de la entidad extranjera. Esta disposición del N° 2 del artículo 80 de la Ley General de Bancos alcanza a todos los depósitos a la vista o a plazo y los créditos que otorgue la institución financiera chilena, sus sucursales en el exterior y sus filiales, como asimismo los efectuados por cualquier persona a través de la cual la institución financiera provea de fondos a la entidad extranjera a que se refiere este límite.
+
+b) Dentro del límite señalado en la letra a), las instituciones financieras chilenas sólo podrán avalar, afianzar o, en cualquier forma, caucionar obligaciones de bancos u otras sociedades en las que participen en el extranjero, en los casos y en la forma que determinen las normas sobre cauciones para tales entidades que dicte el Banco Central de Chile o esta Superintendencia en uso de sus respectivas facultades.
+
+c) Las instituciones financieras chilenas deberán proporcionar a esta Superintendencia información sobre las entidades extranjeras en que participen, sin perjuicio de la obligación que imponen los artículos 9° y 10 de la Ley N° 18.045. Dichas información se entregará conforme a lo previsto en los títulos IV y y de este Capítulo.
+
+d) Los bancos o sociedades financieras chilenos tendrán la obligación de obtener los resguardos necesarios para que los créditos o garantías que sus sucursales en el exterior y las instituciones en las que participen en el extranjero concedan a deudores relacionados directamente o a través de otras personas, a la propiedad o gestión de la institución financiera chilena participante, se sujeten a los límites que para tal efecto establece la Ley General de Bancos de Chile. Tendrán también la obligación de obtener dichos resguardos para que los créditos a personas domiciliadas o residentes en Chile se sujeten a los límites contemplados en el artículo 84 N° 1 y a las normas del artículo 85 de la ley mencionada.
+
+Las sucursales en el exterior se rigen, además, por las normas del artículo 81 de la Ley General de Bancos.
+
+4.- Operaciones entre partes relacionadas.
+
+4.1.- Condiciones que deben cumplir las operaciones.
+
+Los actos, contratos, negocios y operaciones entre una institución financiera y sus sucursales y sociedades filiales, de estas últimas entre sí, y de ellas con personas relacionadas al banco o sociedad financiera, deberán observar condiciones de equidad, equivalentes a las que habitualmente prevalecen en el mercado.
+
+Todas las transacciones efectuadas entre la institución financiera y una sucursal de ella o una sociedad filial, como asimismo las realizadas entre sí, deberán quedar debidamente identificadas en las entidades participantes, a fin de permitir la obtención de la información que esta Superintendencia pueda requerir acerca de las operaciones entre ellas y para efectos de la consolidación de los estados financieros de la matriz en Chile.
+
+4.2.- Tenencia de acciones de la matriz.
+
+Atendidas las disposiciones que rigen para las sociedades filiales constituidas en Chile, las instituciones financieras deberán tomar los resguardos necesarios para que sus sucursales o filiales en el exterior no adquieran bajo ningún concepto acciones o títulos representativos de acciones de su matriz.
+
+4.3.- Créditos otorgados por la institución financiera a sus filiales u otras sociedades en que tenga participación.
+
+De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, todas las sociedades radicadas en el exterior en que una institución financiera tenga participación conformarán, junto con las sociedades chilenas en las cuales participe, un solo grupo de empresas vinculadas para los efectos de las limitaciones establecidas en el artículo 84 N° 2 de la Ley General de Bancos.
+
+5.- Fiscalización de las sucursales y filiales en el exterior.
+
+Sobre la base de lo dispuesto en los artículos 81 y 82 de la Ley General de Bancos, esta Superintendencia ejercerá la fiscalización de las sucursales que los bancos y financieras establezcan en el exterior, como asimismo de las sociedades en las que inviertan en el extranjero, siempre que, de acuerdo con la norma del artículo 86 de la Ley N° 18.046, éstas tengan el carácter de filial del banco o financiera chilenos.
+
+Para establecer las circunstancias que, para los efectos de su fiscalización, determinen la calidad de filial de una sociedad establecida en el exterior, se considerarán como una sola entidad todos los bancos y sociedades financieras, y sus filiales que tengan participación en esas sociedades.
+
+La fiscalización de las filiales que los bancos y financieras mantengan en el exterior, será ejercida por esta Superintendencia de conformidad con los convenios que se hayan suscrito con el organismo de supervisión del país en el que se establezcan.
+
+Dichos convenios persiguen una cooperación recíproca que permita al organismo supervisor del país en que reside una sociedad matriz, efectuar un seguimiento oportuno de la actividad de una filial o sucursal en el exterior, mediante la colaboración del organismo supervisor del país anfitrión, y le otorgue a este último un adecuado conocimiento de la situación de la matriz y del grupo económico en su conjunto.
+
+En ese contexto, los convenios deben referirse a aspectos tales como: la necesidad de supervisar, en sus respectivos ámbitos, la organización, gestión, riesgos, controles internos, suficiencia de capital y todos los aspectos que pueden afectar la solvencia y estabilidad de las empresas, debiendo disponerse de información de las entidades que componen el grupo; el intercambio de información relevante acerca de las empresas y de su entorno, en todo lo que pueda repercutir en su estabilidad; la posibilidad de que el supervisor de la matriz realice inspecciones "in-situ" a las subsidiarias en el extranjero, con la anuencia previa o con participación de la entidad supervisora del país anfitrión; el intercambio de información relevante acerca de los resultados de las respectivas inspecciones realizadas; etc. Todo ello, con los correspondientes resguardos de la confidencialidad de la información sujeta a reserva por las disposiciones legales de los respectivos países.
+
+III.- SUCURSALES EN EL EXTERIOR.
+
+1.- Facultad para abrir sucursales en el exterior.
+
+El artículo 81 de la Ley General de Bancos faculta a las empresas bancarias para abrir sucursales en el exterior, sujetas a las normas de operación que la propia ley establece expresamente y a la fiscalización de esta Superintendencia.
+
+El artículo 117 de la ley faculta también a las sociedades financieras para abrir sucursales fuera del país. En todo caso, las actividades que desarrollen las sucursales que las sociedades financieras puedan mantener en el exterior, deben atenerse a las disposiciones que se aplican a las sucursales bancarias, con observancia de las limitaciones y prohibiciones establecidas en los artículos 115 y 116 de la Ley General de Bancos, todo ello en concordancia con lo que les permita la legislación del país anfitrión.
+
+2.- Capital asignado.
+
+Conforme a lo previsto en el N° 1 del artículo 81 de la Ley General de Bancos, las instituciones financieras que mantengan una sucursal en el exterior, deberán asignar a ésta un capital, sea que se aporte o no parcial o totalmente a la respectiva sucursal, lo cual dependerá de las exigencias que sobre la materia dispongan las normas del país anfitrión.
+
+Para los efectos de las normas que se aplican a las sucursales en el exterior, el capital asignado es equivalente al capital básico y al patrimonio efectivo de la respectiva sucursal.
+
+2.1.- Asignaciones de capital.
+
+El capital que se tenga previsto asignar a una nueva sucursal en el exterior, será informado a esta Superintendencia en la solicitud de apertura.
+
+Los aumentos que sean necesarios, como asimismo las disminuciones que la institución financiera resuelva efectuar posteriormente, deberán ser igualmente informados a esta Superintendencia. Para la aplicación de las disposiciones legales pertinentes, tales cambios tendrán efecto a contar del primer día del mes siguiente a su comunicación a este Organismo.
+
+En todo caso, la matriz no podrá aumentar o disminuir el capital asignado si con ello excede los límites o márgenes legales o reglamentarios basados en el capital pagado y reservas, capital básico o patrimonio efectivo de la matriz o de la sucursal, según sea el caso.
+
+2.2.- Capital asignado mínimo.
+
+En cumplimiento de las disposiciones del artículo 81 de la Ley General de Bancos, el capital asignado a una sucursal en el exterior no podrá ser inferior al 3% de sus activos totales. La determinación del activo total de una sucursal, para efectos del cumplimiento de esta norma, se efectuará conforme a los criterios establecidos para la matriz en el Capítulo 12-1 de esta Recopilación.
+
+El equivalente en pesos chilenos del capital asignado a una sucursal no podrá ser inferior al valor en que se encuentre registrada en el activo de la matriz la inversión efectuada en ella, de acuerdo con las normas contables contenidas en el título VI de este Capítulo.
+
+3.- Aplicación de las reglas del país anfitrión sobre la base del capital asignado.
+
+El N°1 del artículo 81 de la Ley General de Bancos establece que el capital asignado a una sucursal debe ser utilizado para los efectos de los márgenes que establezca la legislación del país en que funcione la sucursal. Por consiguiente, las sucursales en el exterior deben encuadrarse en los márgenes aplicables a sus operaciones que sean pertinentes en la legislación extranjera, considerando el capital asignado a la respectiva sucursal.
+
+4.- Límites de créditos otorgados por las sucursales en el exterior.
+
+Los créditos otorgados por una sucursal en el exterior a deudores relacionados directamente o a través de otras personas a la propiedad o gestión de la institución financiera matriz, quedan sujetos a las limitaciones señaladas en el artículo 84 N° 2 de la Ley General de Bancos y en el Capítulo 12-4 de esta Recopilación. Lo anterior es sin perjuicio del límite establecido en el N° 2 del artículo 80 de esa ley y que se menciona en la letra a) del N° 3 del título II de este Capítulo, cuando se trate de créditos otorgados a otras entidades en el exterior en las cuales participe la institución. Quedarán excluidos de la aplicación de los límites del artículo 84 N° 2, los créditos que la sucursal otorgue a su matriz. Al tratarse de créditos a otras sucursales en el exterior que mantenga la matriz, ellas quedarán incluidas para estos efectos dentro del grupo a que se refiere el numeral 4.3 del título II de este Capítulo.
+
+Por otra parte, cualquier crédito que la sucursal otorgue a una persona con domicilio o residencia en Chile, con excepción de los otorgados a su propia matriz, debe encuadrarse en los límites individuales de crédito según las reglas de los artículos 84 N° 1 y 85 de la Ley General de Bancos y del Capítulo 12-3 de esta Recopilación. También son aplicables, en relación con los trabajadores de la institución financiera, los límites a que se refiere el N° 4 del artículo 84 antes mencionado y el Capítulo 12-5 de esta Recopilación.
+
+El cumplimiento de los límites de crédito mencionados en los párrafos precedentes deben medirse en relación con el capital asignado a la respectiva sucursal acreedora.
+
+5.- Estados financieros de las sucursales según criterios contables chilenos.
+
+Las instituciones financieras deberán presentar mensualmente estados financieros de sus sucursales en el exterior, ajustados a los criterios contables de la matriz y expresados en moneda chilena, siguiendo para el efecto los procedimientos técnicos de homologación y conversión aludidos en el título VI de este Capítulo.
+
+Estos estados servirán de base para registrar el valor de la inversión en la contabilidad de la casa matriz.
+
+Los estados de que se trata serán enviados por la casa matriz a esta Superintendencia de acuerdo con las instrucciones que se incorporen para el efecto en el Manual del Sistema de Información.
+
+Sin perjuicio de lo anterior, cuando estos estados financieros se refieran al ejercicio anual, la institución financiera matriz los entregará también, según lo previsto en el Capítulo 18-1 de esta Recopilación, acompañados de sus correspondientes notas, de acuerdo con los criterios contables chilenos, y de un dictamen de los auditores externos que hayan emitido su opinión sobre el balance consolidado de la matriz.
+
+6.- Información a esta Superintendencia relativa a las operaciones de la sucursal.
+
+Las instituciones financieras deberán enviar periódicamente a esta Superintendencia la información acerca de los créditos y otras operaciones o saldos de sus sucursales, conforme a lo que se establezca para el efecto en las instrucciones del Manual del Sistema de Información, sin perjuicio de otra información no estandarizada o específica que se exija mediante instrucciones generales o por requerimientos especiales.
+
+7.- Estados financieros para su presentación o divulgación en el exterior.
+
+A más tardar dentro de los diez días hábiles siguientes a su emisión, deberán entregarse a esta Superintendencia, los estados financieros anuales preparados por las sucursales, destinados a su presentación o divulgación en el país en que estén radicadas.
+
+8.- Auditores externos.
+
+Los estados financieros de las sucursales en el exterior deberán ser auditados por una empresa de auditores externos que representen la misma firma internacional a la que pertenezca la empresa que realiza la auditoría de la casa matriz en Chile, salvo que esa firma no tenga presencia en el país o que ello no fuera posible por aplicación de normas que exijan rotación de auditores, casos en los cuales se designará una empresa de la misma firma a que pertenezca o se encuentre asociado alguno de los auditores inscritos en el registro de esta Superintendencia.
+
+IV.- FILIALES EN EL EXTERIOR.
+
+1.- Negocios de las filiales.
+
+1.1.- Filiales que desarrollen el giro principal de la matriz.
+
+Los bancos pueden tener participación en bancos del exterior, entendiendo por tales las empresas que desarrollan las actividades genéricamente descritas en el artículo 40 de la Ley General de Bancos.
+
+Las sociedades financieras, en cambio, por lo dispuesto en el artículo 117 de la Ley General de Bancos, no pueden mantener filiales en el exterior que realicen actividades propias de los bancos.
+
+1.2.- Filiales que desarrollen los giros permitidos a filiales en Chile. Los bancos, como asimismo las sociedades financieras, pueden tener participación en sociedades filiales en el exterior que tengan alguno de los giros que autoriza el artículo 70 para las filiales en Chile.
+
+Esas filiales que se constituyan en el exterior deben tener como giro exclusivo la actividad que permite la ley chilena a las filiales en el país y, por lo tanto, no podrán tener participación en otras sociedades ni efectuar negocios ajenos a su giro.
+
+La similitud de las operaciones permitidas por la legislación extranjera con respecto a las permitidas en Chile a sociedades que se rigen por disposiciones legales especiales, será objeto, en cada caso, de una calificación de esta Superintendencia.
+
+2.- Carácter de sociedad filial.
+
+La Ley N° 18.046 define como sociedad filial de una sociedad anónima aquélla en la que ésta controla directamente o a través de otra persona natural o jurídica, más del 50 por ciento del capital con derecho a voto, o simplemente del capital si se tratare de una sociedad no constituida por acciones, o bien, si puede elegir o designar o hacer elegir o designar a la mayoría de sus directores o administradores.
+
+Las filiales a que se refiere este título deben cumplir esas condiciones, pudiendo constituirse una sociedad con ese objeto o bien adquirir tal control en una empresa que ya se encuentre en funcionamiento.
+
+3.- Límites de créditos otorgados por las filiales bancarias.
+
+El N° 4 del artículo 80 de la Ley General de Bancos, mencionado en la letra d) del N° 3 del título II de este Capítulo, obliga a los bancos a obtener los resguardos necesarios para que los créditos o garantías que otorguen las sociedades en que participan en el exterior, se sujeten a los límites establecidos por dicha ley.
+
+Para dar cumplimiento a esta disposición, el banco matriz deberá fijar las políticas y procedimientos para su filial en el exterior y mantener un adecuado control a fin de que:
+
+a) Los créditos que otorgue la filial a deudores relacionados directamente o a través de otras personas a la propiedad o gestión de su matriz, queden sujetos a las limitaciones señaladas en el artículo 84 N° 2 de la Ley General de Bancos y en el Capítulo 12-4 de esta Recopilación. Lo anterior es sin perjuicio del límite establecido en el N° 2 del artículo 80 de esa ley y que se menciona en la letra a), del N° 3 del titulo II de este Capítulo cuando se trate de créditos otorgados a otras entidades en el exterior en las cuales participe su matriz. Para la aplicación de las disposiciones del artículo 84 N° 2, la matriz y sus sucursales en el exterior quedarán incluidas dentro del mismo grupo a que se refiere el numeral 4.3 del título II de este Capítulo.
+
+b) Cualquier crédito que la filial otorgue a una persona domiciliada o residente en Chile, incluidos los otorgados a su matriz, se encuadre en las reglas de los artículos 84 N° 1 y 85 de la Ley General de Bancos y del Capítulo 12-3 de esta Recopilación.
+
+Dichas reglas deberán aplicarse considerando la relación entre los referidos créditos otorgados por la filial y el patrimonio efectivo de ésta.
+
+4.- Patrimonio efectivo de una filial.
+
+Para efectos de los límites de que trata el N° 3 precedente, como asimismo para el cumplimiento de lo establecido en el N° 2 del artículo 80 de la Ley General de Bancos, el patrimonio efectivo de la filial corresponderá al que se determina de acuerdo con los balances señalados en el N° 5 siguiente.
+
+5.- Estados financieros preparados de acuerdo con las normas chilenas.
+
+Las instituciones financieras deberán presentar a lo menos trimestralmente y referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año, estados financieros de sus filiales en el exterior, ajustados a los criterios contables de la matriz y expresados en moneda chilena, siguiendo para el efecto los procedimientos técnicos de homologación y conversión aludidos en el título VI de este Capítulo.
+
+Estos estados servirán de base para ajustar en la contabilidad de la matriz el valor de las inversiones en sus filiales, y serán enviados por ella a esta Superintendencia de acuerdo con las instrucciones que se incorporen para el efecto en el Manual del Sistema de Información.
+
+Sin perjuicio de lo anterior, cuando estos estados financieros se refieran al ejercicio anual, la institución financiera matriz los entregará también, según lo previsto en el Capítulo 18-1 de esta Recopilación, acompañados de sus correspondientes notas de acuerdo con los criterios contables chilenos y de un dictamen de los auditores externos que hayan emitido su opinión sobre el balance consolidado de la matriz.
+
+6.- Información a esta Superintendencia relativa a las operaciones de las filiales.
+
+Las instituciones financieras deberán enviar periódicamente a esta Superintendencia la información acerca de los créditos y otras operaciones o saldos de sus filiales, conforme a lo que se establezca para el efecto en las instrucciones del Manual del Sistema de Información, sin perjuicio de otra información no estandarizada o específica que se exija mediante instrucciones generales o por requerimientos especiales.
+
+7.- Envío de estados financieros y Memoria de la sociedad.
+
+A más tardar dentro de los diez días hábiles siguientes a su emisión, deberán entregarse a esta Superintendencia los estados financieros anuales preparados por las filiales de acuerdo con sus estatutos y las disposiciones del respectivo país. El mismo procedimiento se seguirá con la Memoria que edite la filial en el exterior, a contar de la fecha en que se distribuya.
+
+8.- Auditores externos.
+
+Los estados financieros de las filiales en el exterior deberán ser auditados por una empresa de auditores externos que representen la misma firma internacional a la que pertenezca la empresa que realiza la auditoría de la matriz en Chile, salvo que esa firma no tenga presencia en el país o que ello no fuera posible por aplicación de normas que exijan rotación de auditores, casos en los cuales se designará una empresa de la misma firma a que pertenezca o se encuentre asociado alguno de los auditores inscritos en el registro de esta Superintendencia.
+
+V.- INVERSIONES MINORITARIAS EN BANCOS Y OTRAS SOCIEDADES EN EL EXTERIOR.
+
+1.- Inversiones minoritarias.
+
+Las instituciones financieras pueden mantener participaciones minoritarias en aquellas sociedades que la ley les permite constituir como filiales según lo indicado en el N° 1 del título IV de este Capítulo.
+
+La adquisición de acciones o derechos minoritarios en una sociedad en el exterior requiere del cumplimiento de las siguientes condiciones básicas:
+
+a) Que la adquisición tenga el carácter de una inversión permanente en un banco, o bien en una sociedad con giro exclusivo, sujetos a la fiscalización de un organismo de supervisión del respectivo país.
+
+b) Que los demás socios o accionistas que posean un 10% o más de participación en el capital de la sociedad, cumplan las condiciones que exige el artículo 36 de la Ley General de Bancos.
+
+c) Que se obtenga la autorización previa de esta Superintendencia y del Banco Central de Chile, cumpliendo con los demás requisitos que exige la ley, esto es, los que se mencionan en el título I de este Capítulo.
+
+2.- Información acerca de la sociedad.
+
+Para efectos contables y sin perjuicio de la demás información que se requiera para mantenerse enteradas de la actividad de las sociedades en que participan minoritariamente, las instituciones financieras deberán obtener, a lo menos trimestralmente, estados de situación de dichas sociedades.
+
+Estos estados se mantendrán como antecedente en la institución financiera inversionista, sin que sea menester enviar una copia a este Organismo, a menos que sean expresamente solicitados o se trate de los estados financieros anuales a que se refiere el N° 4 de este título.
+
+3.- Patrimonio efectivo.
+
+Para efectos del cumplimiento de los límites de la Ley General de Bancos que se refieren al patrimonio efectivo de las sociedades extranjeras en las cuales la institución financiera chilena participa, se considerará como tal el capital pagado y reservas que muestran los balances mencionados en el N° 2 precedente, deducidas las inversiones permanentes en sociedades, si fuere el caso.
+
+4.- Estados financieros y Memoria de la sociedad.
+
+A más tardar dentro de los diez días hábiles siguientes a su recepción, las entidades financieras deberán entregar a esta Superintendencia los estados financieros anuales emitidos por las sociedades en las cuales participan.
+
+El mismo procedimiento se seguirá con la Memoria que editen esas sociedades, a contar de la fecha en que la institución financiera la reciba.
+
+5.- Entidades controladas por instituciones financieras chilenas.
+
+No obstante lo dispuesto en los numerales precedentes, cuando las inversiones minoritarias de dos o más instituciones chilenas sumadas, permitan que la sociedad se considere filial de acuerdo a lo dicho en el artículo 82, las instituciones participantes se regirán por las instrucciones contenidas en los N°s. 2 y siguientes del título IV de este Capítulo.
+
+En este caso, las empresas de auditores externos a que se refieren los N°s 5 y 8 del título IV, deberán ser elegidas con el acuerdo de las instituciones financieras participantes.
+
+Por otra parte, toda la información relativa a la sociedad deberá ser enviada a esta Superintendencia por aquella institución que tenga el mayor porcentaje de participación o, en caso de participación igualitaria, por la que acuerden y así lo comuniquen a esta Superintendencia, las propias entidades participantes.
+
+VI.- NORMAS CONTABLES.
+
+1.- Inversiones en sucursales, sociedades filiales y coligadas en el exterior.
+
+Las inversiones en sucursales en el exterior, como asimismo las realizadas en sociedades filiales y coligadas en el extranjero, se registrarán conforme a lo indicado en este título.
+
+Para los efectos de estas instrucciones se entiende por sociedad filial aquella en que la institución financiera tiene una participación superior al 50% del capital social o puede elegir a la mayoría de los directores o administradores de la sociedad, y coligada, aquella en la que tenga una participación igual o superior al 10% del capital social o pueda elegir, a lo menos, un miembro del directorio o de la administración de la sociedad.
+
+1.1.- Valorización de las inversiones y resultados.
+
+Las inversiones en sucursales en el exterior así como en empresas filiales y coligadas, se registrarán en el activo a valor patrimonial proporcional (VPP).
+
+Dicho método de contabilización se aplicará siguiendo los criterios descritos en los Boletines Técnicos N°s. 42 y 51 del Colegio de Contadores de Chile A.G., debiendo reconocerse proporcionalmente los resultados, las demás variaciones patrimoniales y los efectos de la homologación de criterios contables y conversión de monedas, como asimismo las utilidades no realizadas, cuando proceda.
+
+En el caso de sucursales y de las sociedades sujetas a la fiscalización de esta Superintendencia, el cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión deberán efectuarse mensualmente de acuerdo con los resultados de las entidades al término del mes respectivo. Cuando se trate de sociedades coligadas que no estuvieren sujetas a la fiscalización de este Organismo, los ajustes se harán sobre la base de la última información disponible.
+
+La homologación de criterios contables que debe efectuarse en el caso de las sucursales y filiales, alcanza a los que, por norma de esta Superintendencia o, en su defecto, por aplicación de principios contables generalmente aceptados en Chile, debe aplicar la matriz, o bien, cuando sea pertinente, las sociedades chilenas sujetas a la fiscalización de esta Superintendencia. En ningún caso la constitución de provisiones voluntarias a que se refiere el artículo 66 de la Ley General de Bancos, puede ser considerada como un criterio contable de la matriz para estos efectos.
+
+Las diferencias que se generen en el valor de la inversión como consecuencia de la conversión a moneda chilena de los estados financieros de las sucursales y filiales en el exterior, serán registradas en la cuenta patrimonial "Ajuste acumulado por diferencia de cambio", de la partida 4320, de conformidad con lo descrito en el Boletín Técnico N° 51 antes mencionado.
+
+El patrimonio contable de una sucursal según criterios contables chilenos, se registrará en la cuenta "Sucursales en el exterior" de la partida 2132. Las utilidades y las pérdidas se registrarán en las cuentas "Utilidades de sucursales en el exterior" de la partida 8320 y "Pérdidas de sucursales en el exterior", de la partida 6320.
+
+Las inversiones en sociedades se registrarán en las cuentas "Inversiones en filiales en el exterior" o "Inversiones en coligadas en el exterior", de la partida 2320, según se trate de las sociedades señaladas en los títulos IV o y de este Capítulo, respectivamente. Las utilidades reconocidas proporcionalmente se registrarán en las siguientes cuentas de la partida 8350, según sea el caso: "Utilidades de filiales en el exterior" o "Utilidades de coligadas en el exterior". En caso de pérdidas, se utilizarán las siguientes cuentas de la partida 6350: "Pérdidas de filiales en el exterior" o "Pérdidas de coligadas en el exterior".
+
+Las utilidades no realizadas de las operaciones de las sucursales se abonarán a la cuenta "Utilidades no realizadas" de la partida 2132, con cargo a la cuenta del mismo nombre de la partida 8320. Por su parte, las utilidades no realizadas de las operaciones de las filiales y las que provengan de las operaciones de la entidad financiera con alguna sociedad coligada, se abonarán a la cuenta "Utilidades no realizadas" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 8350. Para reconocer posteriormente los ingresos se efectuará la contabilización inversa a las señaladas.
+
+1.2.- Mayor o menor valor pagado en inversiones en sociedades ya constituidas.
+
+Cuando se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el valor pagado y el valor patrimonial proporcional determinado a la fecha de la adquisición, se registrarán como se indica a continuación:
+
+Al tratarse de inversiones en una filial, el valor patrimonial proporcional corresponderá a la proporción sobre el patrimonio que se determina considerando el valor tasado de los activos fijos y valorizando los demás activos de acuerdo con los criterios contables de la matriz.
+
+a) Valor pagado mayor que el VPP ("Goodwill"): Cuando el valor pagado sea mayor que el valor patrimonial proporcional, la diferencia se registrará en la cuenta "Mayor valor pagado en inversiones en sociedades" de la partida 2120 y se amortizará en el período esperado de retorno de la inversión, con cargo a la cuenta "Amortización mayor valor pagado en inversiones en sociedades" de la partida 6315, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. En todo caso, ese período de amortización no podrá exceder de 10 años.
+
+El saldo no amortizado de la cuenta "Mayor valor pagado en inversiones en sociedades" se considerará como parte de la inversión para los efectos señalados en los Capítulos 12-1 y 12-10 de esta Recopilación, esto es, para la determinación del patrimonio efectivo, la ponderación de activos por riesgo y el cumplimiento del límite general de inversiones, como asimismo para el cumplimiento del límite establecido en el N° 1 del artículo 80 de la Ley General de Bancos, mencionado en el numeral 2.2 del título II del presente Capítulo.
+
+b) Valor pagado menor que el VPP: Si al invertir en una sociedad coligada, el valor pagado fuere menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Menor valor pagado en inversiones en sociedades" de la partida 4120 y se amortizará con abono a la cuenta "Amortización menor valor pagado en inversiones en sociedades", de la partida 8315, en un plazo de diez años, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. No obstante, si la inversión en la respectiva sociedad origina pérdidas en un ejercicio, el monto que se traspase a resultados podrá ser equivalente a esas pérdidas.
+
+El saldo de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Menor valor pagado en inversiones en sociedades" antes señaladas, deberá ajustarse proporcionalmente en caso de enajenaciones parciales o cambios en los porcentajes de participación en las sociedades por cuya inversión se originaron.
+
+2.- Inversiones en otras sociedades.
+
+Las inversiones en sociedades en el exterior en que la institución financiera tenga una participación inferior al 10% o no pueda elegir a lo menos un director o administrador, se registrarán en la cuenta "Inversiones en otras sociedades del exterior" de la partida 2320, a su valor de costo más corrección monetaria. Las utilidades se reconocerán contablemente sólo al momento de recibir los dividendos o beneficios que la sociedad reparta y sus importes se registrarán con abono a la cuenta "Utilidades por inversiones en otras sociedades del exterior" de la partida 8350.
+
+La institución financiera deberá, sin embargo, constituir provisiones para cubrir las pérdidas en que haya incurrido una sociedad. Para ese efecto calculará el importe de la provisión tomando como valor mínimo de referencia del activo, el que se obtiene de aplicar el porcentaje de participación en la sociedad al total del patrimonio contable que muestren sus estados financieros.
+
+Las provisiones de que se trata se abonarán a la cuenta "Provisiones sobre inversiones en sociedades" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 6350.
+
+3.- Tratamiento de la moneda extranjera invertida o repatriada.
+
+De acuerdo con las normas de los números precedentes, las sucursales y las inversiones en sociedades deben registrarse en el activo en moneda chilena. Por consiguiente, cuando sea necesario, las instituciones financieras habilitarán cuentas "Cambio" y "Conversión" especiales.
+
+4.- Cuenta de orden para reflejar el capital asignado a sucursales en el exterior.
+
+Para fines de información a esta Superintendencia, las instituciones financieras que mantengan sucursales en el exterior, deberán incluir el importe del capital asignado a ellas en la cuenta "Capital asignado a sucursales en el exterior", de la partida 9700.
+
+VII.- OTRAS ACCIONES O DERECHOS EN SOCIEDADES QUE PUEDEN MANTENER LAS INSTITUCIONES FINANCIERAS.
+
+1.- Tenencia transitoria de acciones o derechos en sociedades.
+
+Además de las inversiones en sociedades tratadas en los títulos precedentes, los bancos y sociedades financieras pueden mantener transitoriamente y dentro de los límites establecidos en la ley, acciones o derechos en sociedades recibidos en pago o adjudicados en remate judicial por deudas previamente contraídas a favor de la institución financiera, según lo previsto en el N° 5 del artículo 84 de la Ley General de Bancos. Estas acciones o derechos deben ser enajenados en los plazos y forma señalados en la ley y en las normas de esta Superintendencia sobre la materia, y se registrarán contablemente de acuerdo con las normas específicas que las tratan.
+
+2.- Acciones de entidades internacionales de servicios a la banca.
+
+Los bancos también pueden poseer las acciones o derechos que sean necesarios para su incorporación a entidades internacionales de transmisión de información (SWIFT) o de otros servicios a la banca. Estas acciones no serán consideradas como inversiones en sociedades para los efectos legales y reglamentarios mencionados en este Capítulo. Las acciones o derechos de que se trata se registrarán en la cuenta "Derechos en entidades internacionales de servicios" de la partida 1775.
+
+3.- Alcance de estas disposiciones.
+
+Los bancos y las sociedades financieras, no podrán adquirir para sí acciones o derechos en sociedades en el exterior que no se ajusten a lo indicado en los títulos anteriores y en los números precedentes. Sin embargo, eso no es óbice para que los bancos, en sus operaciones de custodia o de comisiones de confianza, registren a su nombre, cuando así se lo soliciten los respectivos compradores, las acciones adquiridas por orden y cuenta de terceros. Naturalmente que en estos casos, el banco debe tener en su poder los documentos que acrediten el mandato correspondiente, en el que exista constancia de que los títulos de las acciones adquiridas deben quedar a nombre de la institución mandataria. Esto no se aplica a las sociedades financieras, por cuanto el artículo 116 de la Ley General de Bancos les prohíbe actuar como mandatarias a nombre propio.
+
+VIII.- INFORMACION CONSOLIDADA PARA EFECTOS DEL PROCEDIMIENTO ESPECIAL DE AUTORIZACION.
+
+Para acceder al procedimiento especial de autorización tratado en el numeral 3.2 del título I de este Capítulo, las instituciones financieras deberán atenerse a las siguientes instrucciones, en lo que se refiere al cumplimiento de la exigencia de patrimonio efectivo mínimo en relación con los activos ponderados por riesgo determinados en forma consolidada:
+
+1.- Criterios de consolidación.
+
+La consolidación se efectuará sobre la base de los criterios contables referidos a estados financieros consolidados descritos en los Boletines Técnicos N°s. 42 y 51 del Colegio de Contadores de Chile A.G., incluyendo a la matriz con sus sucursales y filiales del país y del exterior. Se excluyen de la consolidación, en consecuencia, las inversiones en otras sociedades que no sean filiales.
+
+Los activos y pasivos que integrarán los estados financieros consolidados se ajustarán a los criterios establecidos en el Capítulo 18-1 para la publicación de estados financieros.
+
+Las provisiones por Riesgo-País constituidas por los créditos intercompañías que se eliminen, se incluirán en el pasivo como una provisión genérica no computable como patrimonio.
+
+2.- Activos consolidados.
+
+Para determinar los activos ponderables a partir de los activos del balance consolidado, se seguirán los criterios señalados en el título II del Capítulo 12-1 de esta Recopilación, esto es:
+
+a) Se excluirán del activo los importes correspondientes a las inversiones en las sociedades no consolidadas, como asimismo el saldo no amortizado del mayor valor pagado en inversiones en esas sociedades. Esto incluye tanto las inversiones de la matriz como las inversiones en sociedades que mantengan las demás entidades que se consolidan. No obstante, el mayor valor pagado en inversiones en sociedades que se consolidan, formará parte del activo consolidado para los efectos del procedimiento especial de autorización de que trata este título.
+
+b) Se remplazará el activo neto que refleja las operaciones con instrumentos derivados, por sus respectivos equivalentes de crédito según las normas del Capítulo 12-1 antes mencionado, previa anulación de las operaciones entre las entidades que se consolidan, si fuere el caso.
+
+La ponderación por riesgo de los activos consolidados se efectuará estrictamente según las instrucciones del título II del Capítulo 12-1, con prescindencia del país en que esté radicada una sucursal o una filial.
+
+Las operaciones de leasing para vivienda de una filial se incluirán en categoría 4.
+
+Los activos ponderados incluirán, cuando corresponda, los ajustes por las utilidades no realizadas.
+
+El mayor valor pagado en inversiones en sociedades que se consolidan, que para los efectos tratados en este título VIII se incluyen en el activo, debe clasificarse en categoría 5.
+
+3.- Patrimonio efectivo consolidado.
+
+El patrimonio efectivo consolidado comprenderá el interés minoritario y el capital pagado y reservas, más la provisión voluntaria y los bonos subordinados computados por la matriz, y menos los siguientes importes:
+
+a) El valor contable de las inversiones en sociedades que no se consolidan y el saldo del mayor valor en inversiones en esas sociedades.
+
+b) Los importes correspondientes a inversiones en sociedades que mantengan las filiales o sucursales consolidadas, incluido el mayor valor pagado en esas inversiones.
+
+4.- Antecedentes que entregará la institución financiera para la autorización especial.
+
+4.1.- Para obtener la autorización.
+
+a) Balance consolidado de la matriz con sus sucursales y filiales, preparado de acuerdo con las instrucciones del Capítulo 18-1 de esta Recopilación Actualizada de Normas y referido al cierre del mes anterior al de su presentación.
+
+b) Estado pormenorizado de la composición de los activos clasificados por riesgo, que entregue información acerca de los activos y la entidad que los mantiene. El grado de detalle de este estado debe alcanzar, al menos, los conceptos señalados en los literales del N° 2 del título II del Capítulo 12-1, debiendo mantenerse a disposición de esta Superintendencia todos los antecedentes de respaldo de las agrupaciones.
+
+c) Dictamen de una firma de auditores externos inscrita en el Registro de esta Superintendencia, sobre los estados financieros mencionados en la letra a).
+
+d) Opinión de los mismos auditores externos, relativa a la correcta clasificación de acuerdo con las normas, de los activos que se presentan en el Estado mencionado en la letra b).
+
+4.2.- Información posterior a la autorización.
+
+Para el control de lo dispuesto en el artículo 119 de la Ley General de Bancos, las instituciones financieras deberán remitir a esta Superintendencia los antecedentes señalados en las letras a) y b) del numeral 4.1 precedente, referidos al último día de cada trimestre calendario que concluya después de la fecha de la autorización. La información se entregará en el curso del mes siguiente, salvo cuando se trate del ejercicio anual, en cuyo caso dichas exigencias se suplen por la entrega, dentro del plazo previsto en el Capítulo 18-1, del balance consolidado de publicación que será utilizado para estos efectos.
+
+ANEXO N°1
+
+ANTECEDENTES PARA AUTORIZACION DE SUCURSALES E INVERSIONES EN SOCIEDADES EN EL EXTERIOR.
+
+Junto con el estudio de factibilidad económico-financiero a que se refiere la letra c) del N° 2 del título I de este Capítulo, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
+
+1.- Para la apertura de una sucursal o la constitución de una filial bancaria:
+
+a) Participación accionaria que tendrá la matriz en la filial. (*)
+
+b) Antecedentes de los socios minoritarios con más del 10% de la propiedad. (*)
+
+c) Información sobre las siguientes disposiciones del país en que se operará:
+
+- Legislación vigente que rige la actividad bancaria en el país.
+
+- Requisitos que se exigen para la apertura de sucursales o constitución de sociedades del giro bancario.
+
+- Actividades que permite la legislación.
+
+- Capital mínimo para la formación de la entidad.
+
+- Exigencias de capital (límites).
+
+- Límites y márgenes de operaciones activas y pasivas.
+
+- Principales normas que rigen las operaciones.
+
+d) Características del control ejercido por el organismo de supervisión bancaria (modalidad de vigilancia y facultades).
+
+e) Evaluación del Riesgo-País efectuada por la institución solicitante.
+
+f) Estatutos de la sociedad. (*)
+
+g) Estructura organizacional prevista para la empresa.
+
+h) Forma en que la matriz prevé dirigir y controlar la gestión de su subsidiaria en el exterior (Fijación de políticas y manejo de los riesgos; grado de autonomía, flujos de información previstos, etc.)
+
+(*): Antecedentes no aplicables en el caso de una sucursal.
+
+2.- Para adquirir un banco que ya existe.
+
+a) La misma información mencionada en el N° 1.
+
+b) Estados financieros auditados de los tres últimos años.
+
+c) Estructura de propiedad (malla) y antecedentes de todas las sociedades que son o serán accionistas o socios.
+
+d) Antecedentes de las sociedades en las cuales participa el banco que se pretende adquirir.
+
+e) Estados financieros auditados de los tres últimos años de las filiales que tuviere el banco.
+
+f) Antecedentes de sucursales o filiales en el exterior.
+
+g) Informes relevantes de riesgo y de auditorías realizadas por la entidad o por profesionales externos.
+
+h) Clasificación de riesgo realizada por una empresa internacional de prestigio.
+
+i) Informes o comunicaciones relevantes acerca de la empresa, emitidos por organismos supervisores.
+
+j) Resultados de la Due-Dilligence efectuada por la institución solicitante y criterios de valoración de la inversión.
+
+Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verídica y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
 CAPITULO 12-1 (Bancos y Financieras)
 
@@ -17904,21 +18300,17 @@ Con respecto a las personas para las cuales se presume relación, la Superintend
 
 3. Relaciones que se originan por la participación o la adquisición de acciones o derechos en otras sociedades.
 
-3.1. Empresas filiales y de apoyo de una institución financiera.
+Constituyen empresas relacionadas a una institución financiera las sociedades filiales, de apoyo al giro y coligadas a que se refieren los títulos II, III y IV del Capítulo 11-6 de esta Recopilación, al igual que las empresas filiales y demás sociedades establecidas en el exterior de que tratan los títulos IV y y del Capítulo 11-7. Todas estas sociedades conformarán un solo grupo para los efectos de las limitaciones que se establecen en el artículo 84 N°2 de la Ley General de Bancos.
 
-Las sociedades filiales que constituya o adquiera una institución financiera al amparo del N° 11 bis del artículo 83 de la Ley General de Bancos, así como también las sociedades constituidas de acuerdo a las normas del N° 15 bis del mismo artículo, serán consideradas como empresas relacionadas con la respectiva entidad y conformarán un solo grupo para todos los efectos de las limitaciones que se establecen en el artículo 84 N° 2 de la misma ley.
+Las sociedades cuyas acciones o derechos han sido adquiridos por la institución, ya sea en pago o por adjudicación en subasta pública en conformidad con el artículo 84 N° 5 de la Ley General de Bancos, como asimismo aquellos emisores cuyas acciones de primera emisión se adquieran en virtud de la garantía otorgada como agente colocador de acuerdo con el artículo 69 N° 25, no se incluirán, por ese solo hecho, en la nómina de deudores relacionados.
 
-3.2. Acciones o derechos recibidos o adjudicados en pago.
+Tampoco se incluirán en la nómina de empresas relacionadas, los emisores de las siguientes acciones, por el solo hecho de mantenerlas o estar registradas a nombre de la institución:
 
-Las sociedades cuyas acciones o derechos sobre aquellas han sido adquiridos por la institución, ya sea en pago o por adjudicación en subasta pública, no se incluirán, por ese solo hecho, en la nómina de deudores relacionados, en tanto no haya vencido el plazo para enajenar las respectivas acciones o derechos.
+- **a)** acciones de empresas de suministro de servicios de utilidad pública a que se refiere el N° 2 del título VII del Capítulo 11-6;
 
-3.3. Otras acciones registradas a nombre de una institución financiera.
+- **b)** acciones o derechos necesarios para incorporarse a entidades de servicios a la banca, mencionados en el N° 2 del título VII del Capítulo 11-7; y
 
-No se incluirán en la nómina de empresas relacionadas a los emisores de las siguientes acciones, por el solo hecho de mantenerlas o estar registradas a nombre de la institución:
-
-a) Acciones de empresas de suministro de energía eléctrica correspondientes al rembolso de aportes por instalaciones o ampliaciones, según lo señalado en la letra e) del numeral 1.1 del Capítulo 11-4 de esta Recopilación.
-
-b) Acciones que un banco mantenga registradas a su nombre por cuenta de terceros que así lo soliciten, en tanto cuente con el mandato correspondiente en el que conste que deben quedar a su nombre y siempre que él mandante no sea una persona relacionada con el banco.
+- **c)** acciones que un banco mantenga registradas a su nombre por cuenta de terceros que así lo soliciten, en tanto tenga el mandato correspondiente en el que conste que deben quedar a su nombre y siempre que el mandante no sea una persona relacionada con el banco.
 
 4. Nómina de las personas relacionadas y constitución de los grupos de personas relacionadas vinculadas entre sí.
 
@@ -18014,13 +18406,7 @@ margen individual del grupo.
 
 ### 3. Límite global de créditos a personas relacionadas
 
-Además del límite por grupo de personas vinculadas a que se refiere el número
-
-anterior, la Ley señala que el total de créditos otorgados a personas
-
-relacionadas a una institución financiera no puede exceder el monto de su
-
-capital pagado y reservas.
+Además del límite por grupo de personas vinculadas a que se refiere el número anterior, la Ley señala que el total de créditos otorgados a personas relacionadas a una institución financiera no puede exceder el monto de su patrimonio efectivo.
 
 ### 4. Sanción
 
@@ -18680,35 +19066,31 @@ CAPITULO 12-10 (Bancos y Financieras)
 
 MATERIA:
 
-LIMITE DE INVERSIONES ARTICULO 83 LEY GENERAL DE BANCOS.
+LIMITE DE INVERSIONES ARTICULO 69 LEY GENERAL DE BANCOS.
 
-1.- Límite de inversiones.
+1.- Limite de inversiones.
 
-Conforme a lo dispuesto en el inciso 2° del artículo 83 de la Ley General de Bancos, el conjunto de las inversiones que las instituciones financieras efectúen al amparo de las disposiciones de los N°s, 11 bis, 15 bis, 16 y 17 del mismo artículo, no pueden exceder del total de su capital pagado y reservas. El N° 13 de ese artículo deja sujeto también a este mismo límite general la adquisición de oro amonedado o en pastas.
-
-Para el cumplimiento de dicho límite, las instituciones financieras se atendrán a las instrucciones del presente Capítulo.
+Conforme a lo dispuesto en el inciso 2 a del artículo 69 de la Ley General de Bancos, el conjunto de las inversiones que las instituciones financieras efectúen al amparo de las disposiciones de los N°s 15, 21, 22 y 23 del mismo artículo, no pueden exceder del total de su capital pagado y reservas. El N° 18 de ese artículo deja sujeto también a este mismo límite general, la tenencia de oro amonedado o en pastas.
 
 2.- Bienes que se incluyen.
 
 Las inversiones sujetas al límite de que se trata son las siguientes:
 
-a) Inversiones en acciones o derechos en sociedades señalados en el numeral 1.1 del Capitulo 11-4 de esta Recopilación Actualizada de Normas, con excepción de los obtenidos por dación en pago o en remate judicial, indicados en la letra d) de ese numeral;
+a) Inversiones en acciones o derechos en sociedades en el país, señaladas en el N° 1 del título I del Capítulo 11-6 de esta Recopilación Actualizada de Normas.
 
-"b) Los bienes que componen el activo fijo físico, conforme a lo señalado en el numeral 2.1 del Capítulo 11-5 de esta Recopilación; y,
+b) Inversiones en bancos u otras sociedades en el exterior, señaladas en el N° 1 del título II del Capítulo 11-7 de esta Recopilación.
 
-c) Inversiones en oro sellado chileno o en otra forma de que trata el Capítulo 8-23 de esta Recopilación
+c) Los bienes que componen el activo fijo físico, conforme a lo señalado en el numeral 2.1 del Capítulo 11-5 de esta Recopilación; y,
 
-3 - Cumplimiento del límite de inversiones.
+d) Inversiones en oro sellado chileno o en otra forma de que trata el Capítulo 8-23 de esta Recopilación.
 
-Las instituciones financieras no podrán efectuar nuevas inversiones en los bienes señalados en el número precedente, cuando el valor de los bienes que se deseen adquirir, sumado al valor contable de aquellos que se mantengan en su activo, exceda una vez su capital pagado y reservas.
+3.- Cumplimiento del límite de inversiones.
 
-Para este efecto se considerará el monto del capital pagado y reservas a la fecha de la inversión, calculado de la forma señalada en el numeral 1.4 del Capítulo 12-1 de esta Recopilación Actualizada de Normas, y el valor contable a la misma fecha, incluida su corrección monetaria, de los bienes que deben registrarse en las partidas 2305 y 2320 y en la cuenta "Inversiones en Oro" de la partida 1735.
+Las instituciones financieras no podrán efectuar inversiones en los bienes señalados en el N° 2, cuando el monto de la adquisición sumado al valor contable de aquellas inversiones que ya se mantienen, exceda una vez el importe de su capital pagado y reservas.
 
-Los saldos en moneda extranjera se computarán por su equivalente en moneda chilena calculado al tipo de cambio de representación contable vigente.
+Para este efecto se considerará, por una parte, el monto del capital pagado y reservas determinado de acuerdo con lo señalado en el Capítulo 12-1 de esta Recopilación, deduciendo el capital asignado a sucursales del exterior y por otra, el valor contable de las inversiones a la fecha en que se efectúe la adquisición. Este valor corresponderá a la suma de los montos que se informan en las partidas 2305 y 2320, más los informados en las cuentas "Mayor valor pagado en inversiones en sociedades" de la partida 2120 e "Inversiones en oro" de la partida 1735.
 
-4 - Sanciones.
-
-El último inciso del artículo 83 antes mencionado dispone que las instituciones que adquieran bienes por sobre el límite establecido, incurrirán en una multa equivalente al 10% sobre el exceso de la inversión realizada, por cada mes calendario que lo mantengan.
+El último inciso del artículo 69 antes mencionado dispone que las instituciones que adquieran bienes por sobre el límite establecido, incurrirán en una multa equivalente al 10% sobre el exceso de la inversión realizada, por cada mes calendario que mantengan dicho exceso.
 
 CAPITULO 12-11 (Bancos y Financieras)
 
@@ -18755,6 +19137,160 @@ Cuando una persona entre a desempeñarse en calidad de director o apoderado gene
 ### 4. Sanciones
 
 Conforme a lo establecido en la ley, la contravención al precepto que prohíbe el otorgamiento de crédito hace incurrir a la institución infractora en una multa igual al valor del crédito.
+
+CAPITULO 12-13 (Bancos)
+
+MATERIA:
+
+REQUERIMIENTOS PATRIMONIALES Y PROVISIONES PARA CREDITOS HACIA EL EXTERIOR.
+
+De acuerdo con lo dispuesto en el artículo 83 de la Ley General de Bancos, esta Superintendencia está facultada para dictar normas de carácter general, fijando requerimientos patrimoniales y provisiones para operaciones de crédito que realicen las entidades sujetas a su fiscalización desde Chile hacia el exterior. En uso de tales facultades y con el informe favorable del Banco Central de Chile, en el presente Capítulo se imparten las instrucciones pertinentes.
+
+Las provisiones de que trata este Capítulo son independientes de aquellas que esta Superintendencia ha establecido para cubrir los riesgos de pérdida de los activos y que también alcanzan a los créditos en el exterior, como es el caso de las provisiones por riesgo de crédito tratadas en los Capítulos 8-28 y 8-29 de esta Recopilación y las provisiones por riesgo-país a que se refiere el Capítulo 7-6.
+
+1.- Definiciones para los efectos de las provisiones exigidas en este Capítulo.
+
+Para los efectos de que trata este Capítulo, se entenderá que constituyen "créditos de comercio exterior" todos aquellos financiamientos que correspondan al pago del valor de importaciones o exportaciones de mercadería que haya sido embarcada, como asimismo, aquellas operaciones de comercio exterior amparadas por cartas de crédito documentarías irrevocables que se encuentren en su etapa contingente. Se excluyen, en consecuencia, los créditos de pre-embarque, de capital de trabajo y cualquier otro crédito que no cumpla con lo señalado precedentemente y que para estos efectos se consideran como créditos comerciales.
+
+Por otra parte, se entiende como "créditos comerciales" aquellos definidos como tales en el Capítulo 8-28 de esta Recopilación, con excepción de los créditos de comercio exterior ya definidos.
+
+Por último, las "inversiones financieras" que se aluden en este número, son aquellas que deben registrarse como tales de acuerdo con lo establecido en el Capítulo 8-21 de esta Recopilación.
+
+Teniendo en cuenta estas definiciones previas, se establecen los siguientes grupos de colocaciones e inversiones financieras en el exterior, cuyas características se señalan en el Anexo N° 1 de este Capítulo:
+
+A) Créditos de comercio exterior para financiar exportaciones o importaciones chilenas.
+
+B) Créditos de comercio exterior para financiar operaciones entre terceros países.
+
+C) Créditos comerciales otorgados a sociedades filiales o agencias de empresas chilenas y a empresas que coticen en bolsas internacionales.
+
+D) Créditos comerciales otorgados a otras personas.
+
+E) Inversiones financieras en instrumentos con clasificación de grado de inversión.
+
+F) Inversiones financieras en instrumentos con otra clasificación.
+
+Quedan excluidos de estos grupos todos los créditos e inversiones que no cumplan las condiciones señaladas en el Anexo N° 1.
+
+2.- Exigencia de provisiones.
+
+2.1.- Provisiones individuales.
+
+Quedarán sujetas a una provisión del 100% sobre el importe de los créditos o inversiones que no se encuentre cubierto con otras provisiones individuales, todas las operaciones que no correspondan a las señaladas en los literales del N° 1.
+
+2.2.- Provisiones globales.
+
+Deberá constituirse una provisión global equivalente al 100% del exceso, cuando la suma de las colocaciones e inversiones señaladas en los literales B), C), D) y F) del N° 1, exceda el 70% del patrimonio efectivo de la institución financiera.
+
+Por otra parte, se constituirá una provisión global equivalente al 100% del exceso, cuando la suma de las operaciones señaladas en los literales D) y F) del N° 1, exceda el 20 % del patrimonio efectivo. No obstante, si la institución mantiene un índice de relación entre activos ponderados por riesgo y patrimonio efectivo igual o superior a un 10% según las normas del Capítulo 12-1 de esta Recopilación, esta provisión se constituirá por lo que exceda del 30% del patrimonio efectivo.
+
+Los excesos antes mencionados deben determinarse en relación con el valor contable de los créditos, sin deducciones por otras provisiones constituidas sobre los mismos. No obstante, las provisiones globales de que se trata podrán constituirse solamente por la parte no cubierta por provisiones de los créditos que originan esos excesos. Para este efecto, se considerará que esos créditos corresponden a aquellos cuyos otorgamientos son los más recientes.
+
+3.- Imputación contable.
+
+Las provisiones que deban constituirse en cumplimiento de las normas del presente Capítulo se registrarán en la cuenta "Provisiones por exigencias patrimoniales de operaciones en el exterior", de la partida 4120, con cargo a la cuenta del mismo nombre de la partida 5900.
+
+ANEXO N°1
+
+DEFINICIONES DE LOS GRUPOS DE COLOCACIONES O INVERSIONES FINANCIERAS.
+
+A continuación se mencionan las condiciones que definen el tipo de colocación o inversión financiera señalado en el N° 1 de este Capítulo:
+
+A) Créditos de comercio exterior para financiar exportaciones o importaciones chilenas.
+
+Condiciones:
+
+- Que tengan por objeto financiar el pago de importaciones procedentes de Chile o exportaciones destinadas a nuestro país.
+
+B) Créditos de comercio exterior para financiar operaciones entre terceros países.
+
+Condiciones:
+
+- Que los desembolsos del crédito se efectúen contra presentación de los documentos de embarque.
+
+- Que se expresen y paguen en dólares estadounidenses.
+
+C) Créditos comerciales otorgados a sociedades filiales o agencias de empresas chilenas y a empresas que coticen en bolsas internacionales.
+
+Condiciones:
+
+- Que los deudores correspondan a: i) sociedades filiales o agencias de empresas chilenas establecidas en el exterior; o, ii) empresas que coticen en las bolsas internacionales de que trata el Capítulo III.F.3 del Compendio de Normas Financieras del Banco Central de Chile.
+
+- Que se expresen y paguen en dólares estadounidenses.
+
+D) Créditos comerciales otorgados a otras personas.
+
+Condiciones:
+
+- Que se otorguen a cualquier persona natural o jurídica diferente a las señaladas en la letra C).
+
+- Que se expresen y paguen en dólares estadounidenses.
+
+E) Inversiones financieras en instrumentos con clasificación de grado de inversión.
+
+Condiciones:
+
+- Que correspondan a: i) títulos de crédito emitidos o garantizados por Estados extranjeros, bancos centrales o entidades bancarias o financieras internacionales; o, ii) bonos emitidos por empresas extranjeras.
+
+- Que se transen en mercados secundarios formales según lo definido en el Capítulo III.F.3 del Compendio de Normas Financieras del Banco Central de Chile.
+
+- Que los instrumentos cuenten con una clasificación de riesgo para corto o largo plazo no inferior a las siguientes categorías:
+
+Agencia clasificadora Categoría de riesgo
+
+Corto plazo Largo plazo
+
+Moody's P2 Baa3
+
+Standard & Poor's A3 BBB-
+
+IBCA A3 BBB-
+
+Duff & Phelps D2 BBB-
+
+Thomson BankWatch TBW2 BBB
+
+Fitch Investor Service F2 BBB-
+
+- Que estén emitidos en: dólares de los EEUU, dólares de Canadá, ECU, francos franceses, francos suizos, libras esterlinas, liras italianas, marcos alemanes o yenes japoneses. No obstante, podrán estar emitidos en cualquier moneda, si el instrumento está clasificado en una categoría igual o superior a las siguientes:
+
+Agencia clasificadora Categoría de riesgo
+
+Corto plazo Largo plazo
+
+Moody's P1 A3
+
+Standard & Poor's A1 A-
+
+IBCA A1 A-
+
+Duff & Phelps D1 A-
+
+Thomson BankWatch TBW1 A
+
+Fitch Investor Service F1 A-
+
+F) Inversiones financieras en instrumentos con otra clasificación.
+
+Condiciones:
+
+Las mismas señaladas en la letra E), excepto en la clasificación, la que, pudiendo ser diferente al grado de intersión, no será inferior a las siguientes:
+
+Agencia clasificadora Categoría de riesgo
+
+Corto plazo Largo plazo
+
+Moody's P2 Ba3
+
+Standard & Poor's A3 BB-
+
+IBCA A3 BB-
+
+Duff & Phelps D2 BB-
+
+Thomson BankWatch TBW2 BB
+
+Fitch Investor Service F2 BB-
 
 CAPITULO 13-1 (Bancos y Financieras)
 
