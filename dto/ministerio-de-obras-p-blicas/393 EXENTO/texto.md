@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº393, de 28 de marzo del 2002, se expropió el lote de terreno Nº5, superficie 37 m2, rol de avalúo 5353-25, comuna de La Granja, para la obra Proyecto Sistema Américo Vespucio Sur Ruta 78 Av. Grecia Sector 4: Acceso Sur a Santiago - Av. Vicuña Mackenna, Región Metropolitana y se acordó el valor de indemnización con su propietario Froilán Rigoberto Echeverría Espinoza, ascendente a la cantidad de $2.552.445.- para el lote Nº5.-
+
+Fiscal del Ministerio de Obras Públicas.
