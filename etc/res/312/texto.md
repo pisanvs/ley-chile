@@ -1,0 +1,3 @@
+Por Resolución N° 312, de 13 de abril de 1993, de Serviu Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, inmueble ubicado en calle Dieciocho N° 133-135, presunto rol de avalúos N° 448-4 comuna Santiago, aparente dominio de Oscar Humberto Lagos Bustamante y Teresa Eliana Ibáñez Aguilera (Ex-Jaime Von Bischoffhausen Venegas). Comisión integrada por peritos Sres. René Ureta Koster, arquitecto, Sergio May Colvin, ingeniero civil y Hernán Cerda Correa, constructor civil, según informe de 29 de diciembre de 1992, fijó monto provisional indemnización en $ 64.129.520.- pagadera al contado.-
+
+Directora, Serviu Metropolitano.
