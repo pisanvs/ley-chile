@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.345, de 25 de noviembre de 2004, de esta Subsecretaría, autorízase a MUÑOZ Y FERNANDEZ LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Pedro Aguirre Cerda Nº 6090, Antofagasta, II Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco-refrigerado, Congelado, Conserva, Seco salado, Salado húmedo los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 25 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
