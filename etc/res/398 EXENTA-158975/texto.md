@@ -1,0 +1,7 @@
+Por resolución exenta No. 398, de fecha 3 de Mayo de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido de la Variante No. 77-A "San Bernardo - Gran Avenida Paradero 24", de la Línea de Buses No. 77 "Servicio Expreso Santiago San Bernardo", autorizado por resolución No. 1.156, de Noviembre 23 de 1981, quedando su nuevo trazado como sigue:
+
+Ida: Desde su terminal en Condell con Ducaud, continúa por Condell - Los Morros - San José - San Martín - Sánchez - Santa Marta - Pedro Sancho de La Hoz - Calderón de La Barca - Gran Avda. José Miguel Carrera - Pedro Aguirre Cerda - Av. Presidente José Joaquín Prieto - Av. Norte Sur - Blanco Encalada - Copiapó - Lord Cochrane - Alonso Ovalle - Av. Bulnes - Cóndor - Arturo Prat - Eyzaguirre - Gálvez, entre Eyzaguirre y 10 de Julio, su terminal.
+
+Regreso: Desde su terminal en Gálvez, entre 10 de Julio y Eyzaguirre, continúa por 10 de Julio - San Ignacio - Av. Matta - Costado Parque O'Higgins - Av. Tupper - Av. Norte Sur - Av. Presidente José Joaquín Prieto (lateral oriente) - Pedro Aguirre Cerda - Las Industrias - Brisas del Maipo - Gran Av. José Miguel Carrera - Calderón de La Barca - Pedro Sancho de La Hoz - Santa Marta - Sánchez - San Martín - San José - Los Morros - Condell hasta Ducaud, su terminal.
+
+Santiago, 8 de Mayo de 1985. - Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
