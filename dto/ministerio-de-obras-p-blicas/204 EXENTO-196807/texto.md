@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 204, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 119-A, superficie 125 m2, rol de avalúo 71-46, comuna de Teno, VII Región, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, Km. 0,22000 al 25,00000" y se acordó el valor de indemnización con su propietario don Miguel Angel Gatica Lorca, ascendente a la cantidad de $363.888.-
+
+Fiscal del Ministerio de Obras Públicas.
