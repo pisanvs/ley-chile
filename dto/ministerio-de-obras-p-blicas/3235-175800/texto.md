@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.235 de 31 de julio del 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la ejecución de la obra Camino Ruta D-705 Illapel - Combarbalá, Sector Illapel - Auco, que figura a nombre de Suc. Bravo Polanco, rol de avalúo 431-20, de la comuna de Illapel, IV Región, superficie 186 m². La comisión de peritos fijó con fecha 29 de noviembre de 1999, la indemnización provisional en la cantidad de $187.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
