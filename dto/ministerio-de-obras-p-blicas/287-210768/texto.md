@@ -1,0 +1,3 @@
+Por decreto MOP Nº 287 de fecha 28 de marzo del 2003, se expropiaron los lotes de terrenos Nos 7, 8, 9, 10, superficie 1.778, 3.789, 10.520, 3.865 m² respectivamente, Rol de Avalúo Nº 833-25, comuna de Traiguén, IX Región para la obra "Camino Mejoramiento Ruta R-90-P, sector Traiguén-Lumaco, Km. 0,000 al 21,86933, Tramo I, Km. 0,000 al 12,181" y se acordó el valor de indemnización con su propietario Sergio Rathgeb Rodríguez, ascendente a la cantidad de $7.084.340.
+
+Fiscal del Ministerio de Obras Públicas.
