@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº287, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº39, superficie 2.134 M2, rol de avalúo 214-382, comuna de Teodoro Schmidt, IX Región, para la obra "Camino S-60, Sector Teodoro Schmidt - Hualpín, Km. 43,94000 al 59,10294, Tramo I Km. 44,84000 al 53,08000" y se acordó el valor de indemnización con su propietario don Luis Huichaqueo Huichaqueo, ascendente a la cantidad de $1.114.828.-
+
+Fiscal del Ministerio de Obras Públicas.
