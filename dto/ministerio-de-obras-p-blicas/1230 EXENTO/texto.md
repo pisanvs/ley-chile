@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.230, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº14, superficie 590,08 m², rol de avalúo 215-455, comuna de Teodoro Schmidt, IX Región, para la obra "Camino Costero Sur, Tramo Chelle - Hualpín - Puente Puele, Subtramo III By - Pass Hualpín, Km. 58,600 al 62,790" y se acordó el valor de indemnización con su propietaria doña Nancy Alicia Leal Torres, ascendente a la cantidad de $340.501.-
+
+Fiscal del Ministerio de Obras Públicas.
