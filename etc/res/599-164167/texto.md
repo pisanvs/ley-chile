@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA FRIGORIFICA MARITIMA LTDA., PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución Nº 599, 25 de Septiembre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Industria Frigorífica Marítima Ltda., "INFRIMAR", domiciliada en la comuna de Santiago, para operar en las instalaciones ubicadas en Camino Nuevo de la Carretera Panamericana Sur sin., Ruta 5, comuna de Ancud a Castro, X Región, una planta procesadora de recursos hidrobiológicos en las líneas de congelado y conserva, en la que podrá utilizar como materia prima: cazón, cojinova del Norte, cojinova del Sur, congrio colorado, congrio dorado, corvina, merluza española, mero, piure, pejegallo, pejerrey del mar, raya, tollo, caracol azul, caracol locate, caracol trumulco, cholga, chorito, choro zapato, macha, centolla, jaiba, salmón del Pacífico y trucha arco iris. Los dos últimos sólo podrán ser adquiridos en establecimientos de cultivo autorizados.
+
+Valparaíso, 25 de Septiembre de 1985. Roberto Verdugo Gormaz, Subsecretario de Pesca.
