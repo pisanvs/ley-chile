@@ -1,0 +1,5 @@
+Por resolución Nº1.852, de 29 de agosto de 2002, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº1.598, de 2002, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DE VALPARAISO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca exploratoria de camarones de aguas profundas en las Regiones V y VI, año 2002", en el sentido de señalar que la pesca de investigación se realizará entre los días 2 de agosto y 17 de septiembre de 2002, ambas fechas inclusive.
+
+Asimismo, modifícase el numeral 4º de la resolución Nº1.598, de 2002, antes individualizada, en el sentido de reemplazar la nave "Crusoe I", matrícula 2060, por la nave "Maori", matrícula 1854, de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 29 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
