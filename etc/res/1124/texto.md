@@ -1,0 +1,11 @@
+Por resolución N° 1.124, de 25 de Noviembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA OCEANICA LTDA., R.U.T. N° 82.957.700-3, para sustituir las naves autorizadas por las Resoluciones N° 188, 189, N° 190 y N° 191, todas de fecha 27 de Febrero de 1992, de esta Subsecretaría, e ingresar en reemplazo de ellas la nave "Pionero 1", a las áreas de pesca que se señalan enseguida, de la unidad de pesquería de la especie jurel definida en el artículo 1° transitorio, letra d) de la Ley General de Pesca y Acuicultura.
+
+Fíjase como zona de operación de la embarcación individualizada en el numeral precedente, el área de pesca correspondiente a las Regiones V, VI, VII y IX, donde podrá extraer los siguientes recursos hidrobiológicos: Anchoveta, Agujilla, Caballa, Jurel, Merluza de cola, Merluza de tres aletas, Sardina española, Sardina común.
+
+La operación de la planta industrial, ubicada en San Antonio, autorizada al solicitante mediante Resolución N° 1410, de 1988, que constituye el fundamento de la presente Resolución que le autoriza para operar una nueva nave, de acuerdo al artículo 3° transitorio, incisos 3° y 4° de la Ley General de Pesca y Acuicultura, deberá tener completada su capacidad de procesamiento en la línea de reducción, ascendente a 70 toneladas, materia prima por hora, antes del 5 de Septiembre de 1993.
+
+En el evento que no se diere cumplimiento a la instalación de la planta, con la capacidad de procesamiento dentro del plazo precisado en el párrafo anterior, caducará por el solo ministerio de la ley la autorización para operar esa planta industrial, y caducará también la autorización para desarrollar actividades extractivas, con la embarcación autorizada en virtud de la presente Resolución.
+
+Derógase las Resoluciones N° 188, N° 189, N° 190 y N° 191, todas de 27 de febrero de 1992, de esta Subsecretaría, las que autorizaron a Pesquera Oceánica Ltda., para operar 4 naves, las que por petición de la empresa precitada fueron reemplazadas por la nave "Pionero 1".
+
+Valparaíso, 25 de Noviembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
