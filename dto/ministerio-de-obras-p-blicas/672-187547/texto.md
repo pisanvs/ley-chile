@@ -1,0 +1,3 @@
+Por decreto MOP Nº672, de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº34, superficie 1.546,92 m2, rol de avalúo 138-78, comuna de Chonchi, para la obra "Camino Acceso Sur a Chonchi, Sector Ruta 5-Chonchi, Km. 0,000 al 3,25253" y se acordó el valor de indemnización con su propietaria Eliana Lucinda Gómez Andrade, ascendente a la cantidad de $1.392.720.-
+
+Fiscal del Ministerio de Obras Públicas.
