@@ -1,0 +1,3 @@
+Por resolución Nº372 de 31 de agosto de 1999 de Serviu Metropolitano, ordenóse expropiación, conforme DL Nº2.186 de 1978, de la Parcela K ubicada al oriente del Canal Las Perdices, entre Avda. Grecia y calle Antupirén, rol de avalúos S/Nº, comuna de Peñalolén, de aparente dominio de don Arturo del Carmen Canales Aránguiz. Comisión integrada por peritos Sra. Débora Kucky Perera y Sr. René Ureta Koster, arquitectos y Sr. José Miguel Haltenhoff Aenishanslin, constructor civil según informe de 18 de mayo de 1999 fijó monto provisional de indemnización en $60.342.000.- pagadera al contado.-
+
+Director Serviu Metropolitano.
