@@ -1,0 +1,3 @@
+Por decreto MOP Nº85 de 29 de enero de 2002, se expropió el lote de terreno Nº12, superficie 1.814 m2., rol de avalúo 690-17, comuna de El Tabo, para la obra Red Vial Litoral Central. Sector 3: Eje Costero Interior. Subtramo: Quillaicillo Rosario Km. 13.200,00 al Km. 16.782,246 Quinta Región, se acordó el valor de la indemnización con su propietaria Anita Camila del Carmen Saavedra Rojas, ascendente a la cantidad de $3.021.132.-
+
+Fiscal del Ministerio de Obras Públicas.
