@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.063, de 28 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº11, para la obra: Camino Pichidegua - Marchigue, Sector Marchigue - La Esperanza, Km. 43.600 a Km. 69.237,91, que figura a nombre de García Huidobro Aliaga Manuel, rol de avalúo 1103-48, Comuna de Pichidegua, VI Región, superficie 346 m2. La Comisión de Peritos, fijó con fecha 15 de diciembre de 1999, en la cantidad de $2.134.000.-, para el lote 11. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
