@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 570, de 29 de abril de 1998, se expropiaron los lotes de terreno Nºs. 2 y 3, superficies 339 m2 y 475 m2., roles de avalúos 143-43 y 137-243, comuna de San Francisco de Mostazal, obra Camino Ruta H-15, sector La Punta Puente Negro y se acordó precio de indemnización con su propietaria Marta Inés Zamorano Lara, ascendente a la cantidad de $1.836.438.
+
+Fiscal del Ministerio de Obras Públicas.
