@@ -1,0 +1,3 @@
+Por resolución Nº 469, de 7 de Abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº94106007, presentada por MARINE FARMS CHILE S.A., para operar un centro de cultivo ubicado en Sureste Isla Laitec, Comuna de Quellón, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del DS Nº290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de Abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
