@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 100, de 31 de enero de 1997, se expropiaron los lotes de terreno Nºs. 168 y 176-B, superficies 9.426 m2. y 1.821 m2., roles de avalúo 1093-312 y 1093-379, comuna de Quillón, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios José Poblete Quiroga y Fortunato Urra Ascencio, ascendente a las cantidades de $2.008.906.- y $208.322.-
+
+Fiscal del Ministerio de Obras Públicas.
