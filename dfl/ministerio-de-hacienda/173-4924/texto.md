@@ -1,0 +1,1 @@
+Fija planta de personal para la Municipalidad de Gorbea.
