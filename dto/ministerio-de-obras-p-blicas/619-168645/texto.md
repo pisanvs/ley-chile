@@ -1,0 +1,3 @@
+Por decreto MOP Nº 619 de 29 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 19 y 22, superficies 74 y 230 m², roles de avalúo 31-477 y 31-465, comuna Requínoa, para la obra Camino Ruta H-455, sector Sta. Amalia Pimpinela y se acordó precio de indemnización con su propietario Leonel Cristián Silva Pichún y otros y Aliro Fernando Berríos Pichún, ascendente a las cantidades de $622.193 el lote Nº 19 y $630.135 del lote Nº 22.
+
+Fiscal del Ministerio de Obras Públicas.
