@@ -1,0 +1,5 @@
+Por decreto MOP Nº172, de 10 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº5 para la obra:
+
+"Sistema Norte-Sur. Tramo C: Río Mapocho-A. Vespucio Norte. Km. -0.020,00 a Km. 0.420,00", Región Metropolitana, que figura a nombre de Cía Cervecerías Unidas, rol de avalúo 118-3, comuna de Quilicura, superficie 4.923 m². La comisión de peritos integrada por los señores Jaime Rolando Jurgens Bittner, Carmen Pilar Ríos Marcuello y María Angélica Hurtado Arranz, fijó con fecha 20 de enero de 2003, el valor provisional de la indemnización en la cantidad de $256.053.410.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
