@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. N° 95, de 30 de abril de 1991 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 4, para la obra Camino Internacional Ruta 60-ch, sector Cruce Ruta 5, Puente Lo Venecia, Acceso a La Cruz, Acceso a San Isidro (Ruta F-386), Comuna La Cruz, V Región, que figura a nombre de Sucesión Antonio Schadler, rol de avalúo 129-3, superficie 1.750 m2. Deslindes: Norte: Camino Público F-336; Sur: Convergencia camino público y resto del predio afectado con la expropiación; Este: Con resto del predio afectado con la expropiación, y Oeste: Camino Público 60 CH. La Comisión de Peritos compuestas por los señores Osvaldo Muñoz Quintana, Eugenio Enríquez Baliero u Alvaro Verdejo Vidal, fijó con fecha 4 de enero de 1991, el valor provisional de la indemnización en la suma de $ 2.600.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
