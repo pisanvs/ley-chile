@@ -1,0 +1,3 @@
+Por resolución No.711 de 02 de agosto de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. 2186 de 1978, -parte inmueble- ubicado en calle Ricardo Santa Cruz No.654, presunto rol avalúos 626-39 comuna Santiago, aparentemente dominio de don Gustavo Merino Merino. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil, según informe de 31 de enero de 1989, fijó monto provisional indemnización en $ 1.972.000.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
