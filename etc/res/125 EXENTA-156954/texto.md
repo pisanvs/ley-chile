@@ -1,0 +1,3 @@
+Por resolución exenta No. 125, de 26 de Junio de 1985 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se autoriza a los señores: Alvaro Rubio Liberona, José Cáceres Ahumada, Juan Cornejo Alarcón, Fernando Concha Camilla, para efectuar Servicio de Taxi Colectivo no urbano dentro del Territorio Nacional.
+
+Rancagua, Junio 25 de 1985.- Juan Latife Saadi, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región subrogante.
