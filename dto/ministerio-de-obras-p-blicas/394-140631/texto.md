@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 394, de 15 de diciembre de 1986 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. No. 294, de 1984, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No. 3, para la obra Alcantarillado de Curicó, que figura a nombre de doña María Felisa Arenas S., rol des avalúo 508-29, comuna de Curicó, superficie 2.500 m2. Deslindes: Norte: Con calle Diego Portales; Sur: Con propiedad de don Oscar Flores; y Oriente y Poniente: Con resto del predio afectado con la expropiación. La Comisión de Peritos compuesta por los señores Renato Guerra Estévez, René Ramírez Valenzuela y Emilio Kort Micaly, fijó con fecha 21 de octubre de 1986, el valor provisional de la indemnización en la cantidad de $ 750.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(15)
