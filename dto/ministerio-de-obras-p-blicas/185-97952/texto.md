@@ -1,0 +1,3 @@
+Por decreto MOP. Nº185, de 27 de febrero de 1998, se expropió el lote de terreno Nº13 , superficie 290 m2., rol de avalúo 3330-9, comuna de San Bernardo , para la obra Estudio de Anteproyecto e Ingenería para el Sistema Norte-Sur, las Acacias-Río Maipo, y se acordó precio de indemnización con el propietario don José Humberto Hernández Pérez , ascendentes a la cantidad de $31.152.240
+
+- Fiscal del Ministerio de Obras Publicas.
