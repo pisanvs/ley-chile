@@ -1,0 +1,3 @@
+Por decreto MOP Nº813 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nº9-A, 9-B, 9-C, 9-D y 9-E, superficies 380, 335, 230, 45 y 285 m2, rol de avalúo Nº1441-3, comuna de Puerto Varas, para la obra ''Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Puerto Montt, Km. 0,000 a Km. 16,340, Provincia de Llanquihue'', X Región y se acordó el valor de indemnización con su propietario Héctor Wenceslao Barría Muñoz, ascendente a la cantidad de $11.220.957.-
+
+Fiscal del Ministerio de Obras Públicas .
