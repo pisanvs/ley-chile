@@ -468,9 +468,9 @@ Un juzgado con asiento en la comuna de Calbuco, con jurisdicción sobre la misma
 
 Un juzgado con asiento en la comuna de Maullín, con jurisdicción sobre la comuna de Maullín y Los Muermos;
 
-Un juzgado con asiento en la comuna de Castro, con jurisdicción sobre las comunas de Castro, Chonchi, Puqueldón, Queilén y Quellón;
+Un juzgado con asiento en la comuna de Castro, con jurisdicción sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón, Queilén y Quellón;
 
-Un juzgado con asiento en la comuna de Ancud, con jurisdicción sobre las comunas de Ancud, Quemchi y Dalcahue. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales y sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
+Un juzgado con asiento en la comuna de Ancud, con jurisdicción sobre las comunas de Ancud y Quemchi. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales, sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
 
 Un juzgado con asiento en la comuna de Quinchao, con jurisdicción sobre las comunas de Quinchao y Curaco de Vélez, y
 
@@ -520,7 +520,7 @@ Dos juzgados con asiento en la comuna de Puente Alto, con jurisdicción sobre to
 
 Dos juzgados con asiento en la comuna de San Bernardo, con jurisdicción sobre las comunas de San Bernardo y Calera de Tango;
 
-Un juzgado con asiento en la comuna de Talagante, con jurisdicción sobre las comunas de la provincia de Talagante;
+Dos juzgados con asiento en la comuna de Talagante, con jurisdicción sobre las comunas de la provincia de Talagante;
 
 Dos juzgados con asiento en la comuna de Melipilla, con jurisdicción sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
 
@@ -638,9 +638,11 @@ El Presidente de la Corte de Apelaciones de Santiago conocerá en primera instan
 
 Un Ministro de la Corte Suprema, designado por el Tribunal, conocerá en primera instancia:
 
-1°) De las causas a que se refiere el artículo 23, de la ley N° 12.033; y
+1°) De las causas a que se refiere el artículo 23, de la ley N° 12.033;
 
-2°) De los demás asuntos que otras leyes le encomienden.
+2°) De los delitos de jurisdicción de los tribunales chilenos, cuando puedan afectar las relaciones internacionales de la República con otro Estado, y
+
+3°) De los demás asuntos que otras leyes le encomienden.
 
 #### Artículo 53
 
@@ -710,9 +712,9 @@ Las Cortes de Apelaciones se compondrán del número de miembros que a continuac
 
 2.- Las Cortes de Apelaciones de Talca, Temuco y Valdivia tendrán siete miembros;
 
-3.- Las Cortes de Apelaciones de San Miguel y Concepción tendrán diez miembros;
+3.- La Corte de Apelaciones de Concepción tendrá diez miembros;
 
-4.- La Corte de Apelaciones de Valparaíso tendrá trece miembros;
+4.- Las Cortes de Apelaciones de Valparaíso y San Miguel tendrán trece miembros, y
 
 5.- La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
 
@@ -728,17 +730,17 @@ Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago
 
 #### Artículo 59
 
-Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Talca, Temuco y Valdivia, tendrán cuatro; las Cortes de Apelaciones de San Miguel y Concepción tendrán seis; la Corte de Apelaciones de Valparaíso tendrá ocho y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
+Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Talca, Temuco y Valdivia tendrán cuatro; la Corte de Apelaciones de Concepción tendrá seis; la Corte de Apelaciones de Valparaíso tendrá ocho; la Corte de Apelaciones de San Miguel tendrá nueve, y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
 
 #### Artículo 60
 
 Cada Corte de Apelaciones tendrá un secretario.
 
-La Corte de Apelaciones de Santiago tendrá tres secretarios. El tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
+La Corte de Apelaciones de San Miguel tendrá dos secretarios. La Corte de Apelaciones de Santiago tendrá tres secretarios. Cada tribunal reglará el ejercicio de las funciones de sus secretarios y distribuirá entre ellos el despacho de los asuntos que ingresen a la Corte, en la forma que estime más conveniente para el buen servicio.
 
 #### Artículo 61
 
-Las Cortes de Apelaciones de Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de San Miguel y de Concepción en tres salas; la Corte de Apelaciones de Valparaíso en cuatro salas; y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo par él integrarla. El sorteo correspondiente se efectuará el último día hábil del mes de enero de cada año.
+Las Cortes de Apelaciones de Talca, Temuco y Valdivia se dividirán en dos salas; la Corte de Apelaciones de Concepción en tres salas; las Cortes de Apelaciones de San Miguel y Valparaíso en cuatro salas, y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil del mes de enero de cada año.
 
 #### Artículo 62
 
@@ -808,11 +810,11 @@ En las Cortes de Apelaciones que consten de más de una sala se formarán tantas
 
 En las tablas deberá designarse un día de la semana, a lo menos, para conocer las causas criminales, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
 
-Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo proceso respecto del auto declaratorio de reo de cualquiera de los inculpados de la resolución que no da lugar a pronunciarlo, o que acoge o rechaza la petición de modificarlo o dejarlo sin efecto, y las apelaciones o consultas relativas a la libertad provisional de esos inculpados o reos, serán de la competencia de la sala que haya conocido por primera vez de los recursos, apelaciones o consultas mencionados.
+Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo proceso respecto del auto de procesamiento de cualquiera de los inculpados de la resolución que no da lugar a pronunciarlo, o que acoge o rechaza la petición de modificarlo o dejarlo sin efecto, y las apelaciones o consultas relativas a la libertad provisional de esos inculpados o procesados, serán de la competencia de la sala que haya conocido por primera vez de los recursos, apelaciones o consultas mencionados.
 
-Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y reos; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
+Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y procesados; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
 
-Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya reos privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
+Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya procesados privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
 
 #### Artículo 70
 
@@ -840,9 +842,9 @@ La pena de muerte no puede ser acordada en segunda instancia sino por el voto un
 
 #### Artículo 74
 
-Si en materia criminal la mitad de los votos se uniforma a favor del reo, ya sea para absolverlo, ya sea para imponerle una pena menor que la que le asignan los votos de los demás jueces, aquella opinión formará sentencia.
+Si en materia criminal la mitad de los votos se uniforma a favor del procesado, ya sea para absolverlo, ya sea para imponerle una pena menor que la que le asignan los votos de los demás jueces, aquella opinión formará sentencia.
 
-Si se produce empate acerca de cuál es la opinión que favorece más al reo, prevalecerá la que cuente con el voto del miembro más antiguo del tribunal.
+Si se produce empate acerca de cuál es la opinión que favorece más al procesado, prevalecerá la que cuente con el voto del miembro más antiguo del tribunal.
 
 #### Artículo 75
 
@@ -936,7 +938,7 @@ En caso de nueva vista de una causa por discordia ocurrida en la primera, el Pre
 
 #### Artículo 88
 
-En materia penal, en el caso de dispersión de votos, el juez o jueces que sostuvieren la opinión más desfavorable al reo deberán optar por alguna de las otras y se repetirá el procedimiento cuantas veces fuere menester hasta que se produzca la mayoría necesaria, o el empate de que habla el artículo 74.
+En materia penal, en el caso de dispersión de votos, el juez o jueces que sostuvieren la opinión más desfavorable al procesado deberán optar por alguna de las otras y se repetirá el procedimiento cuantas veces fuere menester hasta que se produzca la mayoría necesaria, o el empate de que habla el artículo 74.
 
 #### Artículo 89
 
@@ -1426,13 +1428,13 @@ Si un individuo hubiere cometido varios delitos en diversos territorios jurisdic
 
 #### Artículo 159
 
-Si el reo hubiere cometido en varias comunas delitos de distinta gravedad, será competente para conocer de todos ellos el juez de aquellas comunas en que cometió el último crimen o, en su defecto, el último simple delito.
+Si el procesado hubiere cometido en varias comunas delitos de distinta gravedad, será competente para conocer de todos ellos el juez de aquellas comunas en que cometió el último crimen o, en su defecto, el último simple delito.
 
 Si los delitos se cometen en una comuna o agrupación de comunas en que existan dos o más juzgados de igual jurisdicción, será competente para conocer de los procesos que se deban acumular de acuerdo con el artículo siguiente, el juez que conozca del proceso más antiguo.
 
 #### Artículo 160
 
-El culpable de diversos delitos será juzgado por todos ellos en un solo proceso, para lo cual se acumularán las causas iniciadas o por iniciarse en su contra; y las personas que en ellas figuren como reos quedarán sometidas a la jurisdicción del tribunal a quien corresponda conocer en los procesos acumulados.
+El culpable de diversos delitos será juzgado por todos ellos en un solo proceso, para lo cual se acumularán las causas iniciadas o por iniciarse en su contra; y las personas que en ellas figuren como procesados quedarán sometidas a la jurisdicción del tribunal a quien corresponda conocer en los procesos acumulados.
 
 Sin perjuicio de la regla anterior, el Juez podrá ordenar por medio de un auto motivado la desacumulación de los procesos o su substanciación por cuerda separada, cuando éstos tengan una tramitación diferente o plazos especiales para su tramitación, o la acumulación determine un grave retardo en la substanciación de las causas. Los procesos separados seguirán tramitándose ante el mismo Juez a quien correspondía conocer de ellos acumulados y al fallarlos deberá considerar las sentencias que hayan sido dictadas con anterioridad en estos procesos. Si procediere unificar las penas, el Tribunal lo hará al dictar la última sentencia. Con todo, este último fallo no tomará en consideración las sentencias anteriores para apreciar las circunstancias modificatorias de responsabilidad penal.
 
@@ -1440,7 +1442,7 @@ Cuando, siendo procedente la desacumulación, en alguno de los sumarios se inves
 
 #### Artículo 161
 
-Si un mismo reo tuviere procesos pendientes por faltas y por crímenes o simples delitos, el juez de letras será el solo competente para conocer de todos ellos.
+Si un mismo procesado tuviere procesos pendientes por faltas y por crímenes o simples delitos, el juez de letras será el solo competente para conocer de todos ellos.
 
 #### Artículo 162
 
@@ -1492,7 +1494,7 @@ Los tribunales deberán remitirse recíprocamente copias de los autos de procesa
 
 El tribunal que dictare el último fallo no podrá considerar circunstancias modificatorias de responsabilidad criminal que de estar acumulados los procesos no se hubieren podido tomar en cuenta.
 
-El reo podrá solicitar, dentro del plazo de un año, a contar del último fallo, al tribunal superior común, la unificación de las penas cuando ello lo beneficiare.
+El procesado podrá solicitar, dentro del plazo de un año, a contar del último fallo, al tribunal superior común, la unificación de las penas cuando ello lo beneficiare.
 
 #### Artículo 170 bis
 
@@ -1730,7 +1732,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 1.572 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 1.175 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 2.004 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 1.498 pesos.
 
 #### Artículo 199
 
@@ -2548,7 +2550,7 @@ El escalafón del personal de empleados se compondrá de las siguientes categor�
 
 Primera categoría: Oficiales segundos y bibliotecario estadístico de la Corte Suprema, oficiales primeros de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema.
 
-Segunda categoría: Oficiales terceros de la Corte Suprema, oficiales segundos de las Cortes de Apelaciones, bibliotecario estadístico de la Corte de Apelaciones de Santiago y oficiales primeros de los juzgados de letras de asiento de Corte.
+Segunda categoría: Oficiales terceros de la Corte Suprema, oficiales segundos de las Cortes de Apelaciones, bibliotecarios estadísticos de las Cortes de Apelaciones de Santiago y de San Miguel y oficiales primeros de los juzgados de letras de asiento de Corte.
 
 Tercera categoría: Oficiales cuartos de la Corte Suprema, oficiales terceros de las Cortes de Apelaciones, oficiales segundos de los juzgados de letras de asiento de Corte, oficiales cuartos de las Cortes de Apelaciones, oficiales de los fiscales de estos mismos tribunales, estadístico de la Corte de Apelaciones de Concepción, oficiales terceros de los juzgados de letras de asiento de Corte, oficiales primeros de los juzgados de letras de capital de provincia y oficial de archivo de la Biblioteca de la Corte Suprema.
 
@@ -2864,7 +2866,7 @@ Las funciones de juez se suspenden:
 
 1°) por hallarse el juez procesado por crimen o simple delito cometido en el ejercicio de sus funciones, o a que se aplique pena aflictiva.
 
-Se entiende, para el efecto de este artículo, procesado el juez, desde que está ejecutoriada la sentencia que declara haber lugar a la querella de capítulos, y tratándose de delitos comunes, desde que se libra la encargatoria de reo o el decreto de prisión cuando, según la ley, quede sometido a proceso sin necesidad de dicha encargatoria;
+Se entiende, para el efecto de este artículo, procesado el juez, desde que está ejecutoriada la sentencia que declara haber lugar a la querella de capítulos, y tratándose de delitos comunes, desde que se libra el auto de procesamiento o el decreto de prisión cuando, según la ley, quede sometido a proceso sin necesidad de dicha encargatoria;
 
 2°) Por la sentencia de primera instancia que lo condena a destitución dictada en un proceso de amovilidad;
 
@@ -4670,7 +4672,7 @@ El último día hábil de cada semana, todo juez de letras que ejerza jurisdicci
 
 #### Artículo 568
 
-Tendrán derecho de asistir a estas visitas los oficiales del ministerio público, cualquiera que sea su categoría, los abogados y procuradores de los reos y los padres o guardadores de los procesados menores de edad.
+Tendrán derecho de asistir a estas visitas los oficiales del ministerio público, cualquiera que sea su categoría, los abogados y procuradores de los procesados y los padres o guardadores de los procesados menores de edad.
 
 #### Artículo 569
 
@@ -4696,7 +4698,7 @@ Cuando, por la inspección de los libros del alcaide o por otros motivos, conoci
 
 #### Artículo 574
 
-Cada juez que practique la visita de los reos procesados levantará un acta en que se contenga una exposición minuciosa de las observaciones que hubiere hecho y de los reclamos que se le hubieren dirigido durante ella. En el acta se expresarán el movimiento que hubiere tenido la cárcel y la indicación del nombre y apellido de cada uno de los individuos procesados por el juzgado, que hubieren entrado y salido durante la semana.
+Cada juez que practique la visita de los procesados levantará un acta en que se contenga una exposición minuciosa de las observaciones que hubiere hecho y de los reclamos que se le hubieren dirigido durante ella. En el acta se expresarán el movimiento que hubiere tenido la cárcel y la indicación del nombre y apellido de cada uno de los individuos procesados por el juzgado, que hubieren entrado y salido durante la semana.
 
 #### Artículo 575
 
@@ -4714,7 +4716,7 @@ Si el proceso se encontrare pendiente ante la Corte de Apelaciones, el juez de l
 
 #### Artículo 578
 
-En toda ciudad en que existan cárceles o establecimientos penales se hará, a lo menos, una visita en el primer semestre y otra en el segundo semestre del año a cada uno de ellos, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los reos cumplen sus condenas y de oírles sus reclamaciones.
+En toda ciudad en que existan cárceles o establecimientos penales se hará, a lo menos, una visita en el primer semestre y otra en el segundo semestre del año a cada uno de ellos, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los procesados cumplen sus condenas y de oírles sus reclamaciones.
 
 #### Artículo 579
 
@@ -4742,9 +4744,9 @@ Estas visitas tendrán los fines que se indican en el artículo 578 y se regirá
 
 #### Artículo 582
 
-La visita inspeccionará los diferentes departamentos de la casa; se informará del trato y del alimento que se da a los reos; de cómo se cumple el reglamento y se llevan las cuentas de las economías de los reos; y el Presidente les advertirá que pueden hacer las reclamaciones que les convengan.
+La visita inspeccionará los diferentes departamentos de la casa; se informará del trato y del alimento que se da a los procesados; de cómo se cumple el reglamento y se llevan las cuentas de las economías de los procesados; y el Presidente les advertirá que pueden hacer las reclamaciones que les convengan.
 
-Los directores o jefes de la casa visitada presentarán a todos los reos o detenidos que en ella haya, en la forma que la visita ordene.
+Los directores o jefes de la casa visitada presentarán a todos los procesados o detenidos que en ella haya, en la forma que la visita ordene.
 
 De las reclamaciones que se refieren a vejaciones indebidas, coacción de la libertad de defensa o prolongación injustificada en la tramitación de los procesos, se dejará testimonio escrito y de ellas conocerá la Corte de Apelaciones para la adopción de las medidas procedentes.
 
@@ -4752,7 +4754,7 @@ De las reclamaciones que se refieren a vejaciones indebidas, coacción de la lib
 
 Si notare abusos o defectos que pueda corregir, obrando dentro de sus atribuciones, la visita dará las órdenes del caso.
 
-Acordará, si lo estimare oportuno, hacer representaciones al Presidente de la República, ya en favor de algún reo, ya con relación a la casa.
+Acordará, si lo estimare oportuno, hacer representaciones al Presidente de la República, ya en favor de algún procesado, ya con relación a la casa.
 
 #### Artículo 584
 
@@ -4858,9 +4860,9 @@ Las designaciones generales de abogados, procuradores y receptores de turno debe
 
 #### Artículo 596
 
-Los procesados que no designaren procurador y abogado en el acto de notificárseles la encargatoria de reo, serán representados y defendidos por los procuradores del número y abogados que estuvieren de tumo. Si las defensas de dos o más reos de un mismo proceso fueren incompatibles entre sí, el que el juez designare será representado y defendido por el procurador y abogado de turno y los demás lo serán por los procuradores y abogados que el juez respectivamente les señalare, salvo que ellos hubieren nombrado otro abogado o procurador.
+Los procesados que no designaren procurador y abogado en el acto de notificárseles el auto de procesamiento, serán representados y defendidos por los procuradores del número y abogados que estuvieren de tumo. Si las defensas de dos o más procesados de un mismo proceso fueren incompatibles entre sí, el que el juez designare será representado y defendido por el procurador y abogado de turno y los demás lo serán por los procuradores y abogados que el juez respectivamente les señalare, salvo que ellos hubieren nombrado otro abogado o procurador.
 
-Los procuradores y abogados referidos serán remunerados por los reos si no gozaren del privilegio de pobreza.
+Los procuradores y abogados referidos serán remunerados por los procesados si no gozaren del privilegio de pobreza.
 
 #### Artículo 597
 
