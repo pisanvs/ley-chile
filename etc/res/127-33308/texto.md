@@ -1,0 +1,3 @@
+Por Resolución N° 127, de 22 de Febrero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, otórgase un plazo de 30 días, a contar de la fecha de la presente Resolución, a PESQUERA IQUIQUE S.A. hoy Pesquera Iquique-Guanaye S.A., R.U.T. N° 91.123.000-3, para publicar el extracto de la Resolución N° 1.365, de 1992, en virtud de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 22 de Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
