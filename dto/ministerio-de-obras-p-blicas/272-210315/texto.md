@@ -1,0 +1,3 @@
+Por decreto MOP Nº272, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº22, superficie 336,59 m2., rol de avalúo 136-47, comuna de Chonchi, para la obra "Camino Acceso Sur a Chonchi, sector Ruta 5 - Chonchi, Km. 0,000 a Km. 3,25253", X Región y se acordó el valor de indemnización con su propietario Roberto Navarro Miranda y otros, ascendente a la cantidad de $13.704.140.-
+
+Fiscal del Ministerio de Obras Públicas.
