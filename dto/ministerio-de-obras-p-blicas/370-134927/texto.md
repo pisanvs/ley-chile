@@ -1,0 +1,3 @@
+Por decreto MOP Nº 370, de 26 de febrero de 1999, se expropió el lote de terreno Nº 91-B, superficie 309 m², rol de avalúo 747-225, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli'', Sector 1, VIII Región y se acordó el valor de indemnización con su propietaria Delfina del Carmen Escobar Anabalón, ascendente a la cantidad de $548.245.-
+
+Fiscal del Ministerio de Obras Públicas.
