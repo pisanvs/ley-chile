@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.586, de 28 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº26-A, para la obra: ''Camino: Acceso Norte a Concepción, VIII Región, Ramal Colector, Sector Rafael-Agua Amarilla, Km.
+
+2.692,00 a Km. 8.495,00'', Octava Región, que figura a nombre de Mario Ballerini Espejo, rol de avalúo 602-34, comuna de Tomé, superficie 2.440 m2. La comisión de peritos integrada por los señores Jaime García Molina, Pablo Carrillo Valenzuela y Luis Abarzúa Ceballos, fijó con fecha 8 de noviembre de 1996, el valor provisional de la indemnización en la cantidad de $503.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
