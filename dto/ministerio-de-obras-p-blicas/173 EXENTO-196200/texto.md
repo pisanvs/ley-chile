@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº173, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 18-A, superficie 44.00 m², rol de avalúo 614-47, comuna de Molina, VII Región, para la obra "Camino Ruta K-175 - Molina - Siete Tazas - Sector Molina - Bif. Ruta K-179, Tramo Km. 0,000.00 al 8.400.00" y se acordó el valor de indemnización con su propietario Héctor Domingo Barrera Reyes, ascendente a la cantidad de $350.592.
+
+- Fiscal del Ministerio de Obras Públicas.
