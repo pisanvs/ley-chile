@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°469, de 28 de junio de 1996, se expropió el lote de terreno Nº 6-B superficie 16.117 M2 rol de avalúo 2-34 comuna de Cerrillos, para la obra Paso Superior Avenida General Velásquez Sector Nudo Avenida General Velásquez Avenida Américo Vespucio y se acordó precio de la indemnización con su propietario, Inmobiliaria General Velásquez S.A., ascendente a la cantidad de $124.681.830.
+
+- Fiscal del Ministerio de Obras Públicas.
