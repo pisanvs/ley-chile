@@ -1,0 +1,3 @@
+Por resolución exenta Nº 17, de 2 de enero de 2004, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 202101014 presentada por SAMUEL SANTA CRUZ HUDSON, para instalar y operar un centro de cultivo ubicado en terreno privado localizado en río sin nombre, sector Ralún Nahuelguapi, X Región.
+
+Valparaíso, 2 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
