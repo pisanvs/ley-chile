@@ -1,0 +1,1 @@
+Fija sueldos y gratificaciones al profesorado y al personal administrativo de los establecimientos que indica.
