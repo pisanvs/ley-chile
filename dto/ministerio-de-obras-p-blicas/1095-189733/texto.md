@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.095, de fecha 31 de julio del 2001, se expropió el lote de terreno Nº28, superficie 275 m², rol de avalúo 499-151, comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario Juan Sebastián Ferrada Basoalto, ascendente a la cantidad de $1.489.995.-
+
+Fiscal del Ministerio de Obras Públicas.
