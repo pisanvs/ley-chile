@@ -1,0 +1,3 @@
+Por Resolución N° 353, de 30 de Marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícanse los vistos y el numeral 1° de la Resolución N° 964, de 1994, de esta Subsecretaría, en el sentido de señalar que las Resoluciones que allí se mencionan son la N° 58, de 1984 y N° 146, de 1986, ambas de esta Subsecretaría, y no las que allí se indican.
+
+Valparaíso, 30 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
