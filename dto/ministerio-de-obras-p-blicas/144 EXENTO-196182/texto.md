@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 144, de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 37, superficie 484 m2., Rol de Avalúo Nº 141-124, comuna de Codegua, para la obra "Camino Ruta Rol H-10, Sector Graneros San Francisco de Mostazal Tramo Km. 0,000 al Km. 9,317", VI Región y se acordó el valor de indemnización con su propietario Manuel Jorge Pino Muñoz y Otros, ascendente a la cantidad de $903.238.
+
+- Fiscal del Ministerio de Obras Públicas.
