@@ -1,0 +1,5 @@
+Por decreto MOP Nº380, de 25 de febrero de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.
+
+2-A y 3-A, para la ejecución de la obra "Mejoramiento Ruta-5 Pasada por Temuco, Sector Enlace Ruta-5 Sur-Avda. Recabarren", que figuran a nombre de Maturana Burgos Renato, roles de avalúo 371-24 y 371-25, comuna de Temuco, IX Región, superficies 5.023 y 14.326 M2. La comisión de peritos fijó con fecha 28 de mayo de 2002, el valor provisional de la indemnización en cantidad de $176.811.945, lote 2-A y $315.883.788, lote 3-A.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
