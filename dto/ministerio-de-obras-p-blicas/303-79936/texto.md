@@ -1,0 +1,3 @@
+Por Decreto MOP No. 303, de 18 de noviembre de 1991, se expropiaron los lotes N°s. 1-a, 1-c, 1-d y 1-b, superficies 25.181 M2. y 39.512 M2., respectivamente, roles de avalúos 5004-319, 5004-316, 5004-317 Y 5004-315, Comuna de Coronel, para la obra Camino By Pass Coronel-Lota Ruta 160, sector By Pass-Coronel y se acordó el precio de indemnización con sus propietarios Sociedad Inmobiliaria Fortaleza Limitada y Juan Saka Facho, ascendente a las cantidades de $ 47.843.900 Y $ 79.024.000.-
+
+Fiscal del Ministerio de Obras Públicas.
