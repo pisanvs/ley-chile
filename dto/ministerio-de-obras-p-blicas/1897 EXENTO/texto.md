@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.897, de 30 de noviembre del 2001, se expropió el lote de terreno Nº60, superficie 120 m², rol de avalúo 103-504, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso Viña del Mar Tramo 6 A2: Kms. 33.200,00 al 33.880,00, Región Metropolitana, y se acordó el valor de indemnización con su propietaria Mercedes Amalia Moya Menares, ascendente a la cantidad de $1.870.830.
+
+- Fiscal del Ministerio de Obras Públicas.
