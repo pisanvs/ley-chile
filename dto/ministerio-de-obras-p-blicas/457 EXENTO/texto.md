@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 457, de 30 de abril de 2001, se expropió el lote de terreno Nº 1-1B, superficie 39 m², rol de avalúo 166-308, comuna de Colina, para la obra Camino Santiago-Colina-Los Andes, Sector "A" A. Vespucio - By Pass Colina. Paradero de Buses San José, Región Metropolitana y se acordó el valor de indemnización con su propietario Rosamel de Jesús Pérez Urbina, ascendente a la cantidad de $313.560.-
+
+Fiscal del Ministerio de Obras Públicas.
