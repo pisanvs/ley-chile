@@ -1,0 +1,3 @@
+Por decreto M.O.P Nº 2.241, de 30 de octubre de 1998, se expropió el lote de terreno Nº 1, superficie 2.480 m2, rol de avalúo 120-1, comuna de San Nicolás, Obra Camino San Carlos Torrecilla, sector Puente Changaral y se acordó precio de indemnización con su propietario Comunidad Sucesión Juan Francisco Arzola Parada, ascendente a la cantidad de $ 496.035.
+
+- Fiscal del Ministerio de Obras Públicas.
