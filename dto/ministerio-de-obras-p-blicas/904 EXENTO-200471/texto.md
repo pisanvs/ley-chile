@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº904, de 31 de mayo de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2, para la obra Camino Ruta D-485, sector Paihuano - Pisco Elqui, que figura a nombre de José Rojo, rol de avalúo E/T, superficie 926 m2. comuna de Paihuano. La Comisión de Peritos, con fecha 26 de abril de 2001, fijó la indemnización provisional en la cantidad de $1.589.400, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
