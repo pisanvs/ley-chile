@@ -1,0 +1,3 @@
+Por Resolución Nº 815, de 9 de junio de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95121015, presentada por PESQUERA LAGO RUPANCO S.A., para un centro de cultivo ubicado en Islotes Lephay Canal Beagle, comuna de Navarino, provincia de Antártica Chilena, XII Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 9 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
