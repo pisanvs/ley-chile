@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.768, de 28 de abril de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+17-C2 y 17-C3; para la obra: Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector G: Km. 110.200,00 - Km. 128.400,00, Sexta Región, que figuran a nombre de Banco Santander Chile, rol de avalúo 205-42, comuna de Rengo, superficies 1.459 m2 y 2.050 m2, respectivamente. La comisión de peritos integrada por los señores Victoria Adriana Blanco Costa, Gustavo Manuel Domínguez Vicuña y Eduardo Alejandro Silva Aracena, fijó con fecha 04 de febrero de 2000, el valor provisional de la indemnización en las cantidades de $4.546.900.- para el lote Nº17-C2 y de $17.217.000.- para el lote Nº17-C3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
