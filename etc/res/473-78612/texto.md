@@ -1,0 +1,5 @@
+Por resolución No. 473 de 29 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA LOA SUR S.A., R.U.T.
+
+No. 95.059.000-9, domiciliada en la ciudad de Santiago, calle Presidente Errázuriz No. 2631, para ampliar actividades, que tiene autorizadas por resoluciones No. 129, No. 725, de 1985 y No. 939, de 1988, todas de esta Subsecretaría, en orden a operar las embarcaciones "Loa 6", "Loa 7", "Loa 9", "Loa 10" y "Loa 11" todas en el litoral de la Región VIII, donde podrá extraer los recursos hidrobiológicos denominados Agujilla y Merluza de cola. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca subrogante.
