@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.033 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº9, superficie 118,50 M2, rol de avalúo Nº137-587, comuna de Paine, para la obra ''Camino Sin Rol, Sector Peralillo - Abrantes, Tramo Km. 0,00000 al 6,03921'', Región Metropolitana y se acordó el valor de indemnización con su propietario Edecio Gustavo Salinas Tejada, ascendente a la cantidad de $777.710.
+
+Fiscal del Ministerio de Obras Publicas
