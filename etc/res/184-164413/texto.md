@@ -1,0 +1,5 @@
+AUTORIZA A "EMPRESA PESQUERA CHILEMAR S.A.", PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por Resolución Nº 184, de 8 de Junio de 1981, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza bajo las condiciones que se establecen, a la "Empresa Pesquera Chilemar S. A.", para ampliar actividades pesqueras autorizadas por decreto de Agricultura 116, de 1966, facultándola para operar la embarcación "EPERVA 34", en el litoral comprendido entre la Iª y la IIª Región. La interesada podrá extraer con dicha embarcación: Anchoa, caballa, jurel, machuelo, roncacho y sardina española. Asimismo se modifica el Nº 7 de la Resolución Nº 51, 1980, Subsecretaría de Pesca, en orden a suprimir de la nómina de embarcaciones autorizadas para operar a "Pesquera Eperva S.A.", la nave "EPERVA 34".
+
+Santiago, 8 de Junio de 1981.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
