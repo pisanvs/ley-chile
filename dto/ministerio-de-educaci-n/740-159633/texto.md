@@ -1,0 +1,43 @@
+APRUEBA CONVENIO CONJUNTO ENTRE EL MINISTERIO DE EDUCACION PUBLICA, MINISTERIO DE SALUD Y ORDEN DE MALTA
+
+Núm. 740.- Santiago, 18 de Octubre de 1985.- Vistos: Lo dispuesto en la resolución N° 1.050/80, de la Contraloría General de la República; el Convenio concertado entre el Ministerio de Educación Pública, Ministerio de Salud y Orden de Malta, y teniendo presente las facultades que me confiere el artículo 32 N° 8 de la Constitución Política del Estado.
+
+Decreto:
+
+I.- Apruébase el Convenio suscrito entre el Ministerio de Educación Pública, Ministerio de Salud y Orden de Malta, celebrado con fecha 14 de Octubre de 1985.
+
+CONVENIO CONJUNTO MINISTERIO DE EDUCACION PUBLICA, MINISTERIO DE SALUD Y ORDEN DE MALTA
+
+En Santiago de Chile, a 14 de Octubre de 1985, entre el Ministerio de Educación Pública, representado por el Ministro de Educación Pública, don Sergio Gaete Hojas, con domicilio en Avda. Libertador Bernardo O'Higgins N° 1371; el Ministerio de Salud, representado por el Ministro de Salud, Dr. Winston Chinchón Bunting, con domicilio en Mac-Iver N° 541; el Embajador de la Soberana Orden Militar de Malta acreditado ante el Gobierno de Chile, don Cortado Zampetti; la Junta Nacional de Auxilio Escolar y Becas, en adelante la "Junta" representada por su Secretario General, don Jaime Noguera Echenique nombrado por decreto supremo de Educación N° 184, de fecha 09 de Abril de 1985, domiciliado en calle Antonio Varas N° 153, y la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, representada por su Director don Domingo Parra Fernández, nombrado por decreto supremo de Salud N° 321, de 25 de Agosto de 1983, domiciliado en Avda. Marta N° 644, en adelante "la Central", se ha convenido lo siguiente:
+
+Primero.- La "U.S. Foundation of the Sovereign Military Order of Malta" ha obtenido de la "Commodity Credit Corporation" de los Estados Unidos por intermedio de la "U.S. Agency for International Development" (U. S. AID) una donación de productos lácteos constituida por una cantidad de 2.500 toneladas métricas de leche en polvo descremada y 2.000 toneladas métricas de queso procesado americano que serán entregados en puertos chilenos para su distribución gratuita en Chile, a través de los programas de alimentación desarrollados por los Ministerios de Educación Pública y Salud, a personas en extrema pobreza y/o riesgo de desnutrición que por falta de medios no podrían obtener de otra manera esos productos, evitándose así cualquier alteración en el mercado nacional.
+
+Segundo.- De los productos lácteos señalados, será asignada una cantidad de 2.500 toneladas métricas de leche en polvo y 100 toneladas métricas de queso al Ministerio de Educación Pública, para su distribución en Chile a través del "Programa de Alimentación Escolar" que administra la "Junta", organismo éste, dependiente de ese Ministerio. Por otra parte, será asignada una cantidad de 1.900 toneladas métricas de queso al Ministerio de Salud, para su distribución a través del "Programa Nacional de Alimentación Complementaria" que desarrolla ese Ministerio y canalizando la referida cantidad a los niños menores de seis años, a las mujeres embarazadas y a las nodrizas, todos ellos en riesgo de desnutrición.
+
+Esta donación no interferirá el volumen normal de adquisiciones del referido "Programa".
+
+Tercero.- La "U.S. Foundation of the Sovereigu Military Order of Malta" ha solicitado a la "U.S. AID" el despacho de los referidos alimentos según un programa que va de Octubre de 1985 hasta 1986, y que prevé la llegada a Valparaíso del primer embarque de queso alrededor del 16 de Octubre de 1985 y el del primer embarque de leche en polvo alrededor del 25 de Octubre del mismo año.
+
+Cuarto.- El Ministerio de Educación a través de la "Junta" y el Ministerio de Salud a través de la "Central", organismos en quienes delega la administración y coordinación de todos los aspectos relacionados con el presente convenio aceptan la donación y se obligan a recibir los productos de que se trata en puertos chilenos, siendo de su cargo todos los costos que se generen desde su desaduanamiento hasta la distribución final.
+
+La "Central" cobrará a la "Junta" todos los gastos en que incurra con motivo del desaduanamiento, bodegaje, transporte y demás trámites y gestiones Que deba efectuar para la internación al país de los productos que a dicha "Junta" corresponda en definitiva y cuyos conocimientos de embarque hayan sido endosados al Ministerio de Salud.
+
+Quinto.. El dominio de los alimentos será transferido por la Embajada de la Soberana Orden Militar de Malta, mediante el endoso de los documentos de embarque a los Ministerios concurrentes encargados de su distribución física en Chile, endosando al Ministerio de Salud los conocimientos en los embarques de queso y al Ministerio de Educación Pública los conocimientos en los embarques de leche en polvo, con el fin de que la "Central" y la "Junta" procedan a su desaduanamiento y recepción en puertos chilenos.
+
+Sexto.- Los productos lácteos, ya sean en la forma o estado en que los proporcione el donante o sean procesados por los Ministerios de Educación Pública y Salud, desde el momento en que sean puestos a disposición de estos últimos, no podrán ser vendidos, cambiados, canjeados ni disponerse de ellos excepto para su distribución gratuita libre de costo mediante los programas aludidos en las cláusulas primera y segunda. Asimismo, ninguna parte del alimento donado, haya o no sido transformado, podrá ser entregado como pago o reembolso a ninguna persona, natural o jurídica, o Institución o Servicios del Estado, por servicios prestados en relación a tales distribuciones o transformaciones. Sin embargo, lo anterior es sin perjuicio de usar y/o distribuir el producto en los programas de alimentación desarrollados por el Ministerio de Educación Pública, por intermedio del sistema de concesionarios privados que actualmente emplea la "Junta".
+
+Séptimo.- La "Junta" y la "Central" levantarán inventario de los productos que reciban y tomarán los resguardos y ejercerán los controles necesarios para garantizar su correcta utilización y distribución.
+
+Octavo.- Se faculta a la Empresa de auditores independientes "Price Waterhouse" de Santiago para que compruebe en cualquier momento, por cuenta de la "U. S. Foundation of the Sovereigu Military Order of Malta", la correcta distribución de los referidos productos en cualquier lugar en que éstos se encuentren y asimismo para cumplir los controles que sean requeridos por la "U.S. AID". Para tal cometido los Ministerios de Educación Pública y Ministerio de Salud otorgarán las mayores facilidades para que la mencionada Empresa pueda revisar tanto la documentación pertinente como los productos de que se trata en cualquier fase de su distribución.
+
+Noveno.- La "Junta" y el Ministerio de Salud harán llegar cada seis meses, de acuerdo a la "Regulation 10" de la "U.S. AID", a la Empresa Price Waterhouse de Santiago un detallado informe sobre la cantidad de productos que cada uno recibió y sobre la respectiva distribución, copias de las cuales se remitirán junto con los informes de progreso y finales requeridos por la "U.S. AID" a la "Embajada de los Estados Unidos de América de Chile.
+
+Décimo.- Las partes no harán reclamo alguno contra la "U.S. Foundation of the Sovereign Military Order of Malta" o a la Embajada de la Soberana Orden Militar de Malta, por pérdida o daño marítimo de los alimentos objeto de este convenio, o por la no entrega de ellos debido a causas ajenas a su voluntad u originados por fuerza mayor.
+
+En comprobante firman: Sergio Gaete Rojas, Ministro de Educación Pública.- Winston Chinchón Bunting, Ministro de Salud.- Corrado Zampetti, Embajador de la Orden de Malta.- Jaime Noguera Echenique, Secretario General de la Junta Nacional de Auxilio Escolar y Becas.- Domingo Parra Fernández, Director de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud.
+
+II.- Los gastos que se deriven del presente decreto, deberán imputarse, según corresponda, al Subtítulo 25 Item 31 Asignación 009, del presupuesto de Junta Nacional de Auxilio Escolar y Becas, en trámite mediante decreto del Ministerio de Educación Pública N° 726/85, y al Item 25-31-002-00 del presupuesto correspondiente al Programa de Alimentación Complementaria (PNAC) del Ministerio de Salud.
+
+Anótese, regístrese, tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Sergio Gaete Rojas, Ministro de Educación Pública.- Winston Chinchón Bunting, Ministro de Salud.
+
+Lo que se transcribe para su conocimiento.- Saluda a Ud.- René Salamé Martin, Subsecretario de Educación Pública.
