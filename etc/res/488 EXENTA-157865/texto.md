@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta N° 488 de 04 de noviembre de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región, se autoriza a Anselmo Jaramillo Navarro, Fernando Benavides Agüero, Régulo Burgos Rubilar, Guillermo Carrillo Oyarce, Elsa Muñoz Pineda, Mario Catalán Chamorro, Alicia Reyes Retamal, Harold Mohr Westermeier, Jorge Erber Laurent, José Silva Coronado, Juan Peters Contreras, María Ulloa Herrera, Sergio Gómez Valladares, Eliseo Casanova Ruiz, Oscar Lopetegui Navarrete, Neftalí Pérez Burgos para efectuar el servicio de taxi colectivo urbano de la Línea N° 50, "San Luis Regional - Centro", de Valdivia, cuyo trazado fue autorizado por Resolución N° 012 de 04 de enero de 1985 y modificado por Resolución N° 474 de 30 de octubre de 1985, de esta Secretaria Regional.
+
+- Luis Boldt Quezada, Secretario Regional Ministerial, Transportes y Telecomunicaciones, X Región.
