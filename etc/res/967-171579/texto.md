@@ -1,0 +1,7 @@
+Por resolución Nº967, de 31 de mayo de 2000, de esta Subsecretaría, autorízase a Jorge HErnán Osorio Medel, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Avenida Salvador Allende Nº941, comuna de Ancud, provincia de Chiloé, X Región, donde podrá procesar en las líneas que se indican los siguientes recursos hidrobiológicos: Congelado, fresco-refrigerado: Congrio colorado, Corvina, Lenguado de ojos chicos, Jurel, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Pejegallo, Pejerrey de mar, Puye, Raya, Róbalo, Salmón del Atlántico, Salmón plateado, Sardina española, Sierra, Tollo, Trucha arcoiris, Almeja o Taca, Almeja, Calamar, Caracol locate, Caracol trumulco, Cholga, Chorito, Choro, Navaja de mar o Huepo, Lapa, Loco, Macha, Ostra del Pacífico, Ostra chilena, Pulpo, Centolla, Jaiba, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba reina, Erizo, Picoroco y Piure; Conserva: Jurel, Sardina española, Cholga, Choro, Chorito, Navaja de mar o Huepo, Loco; Ahumado: Salmón del Atlántico, Salmón plateado, Trucha arcoiris o Cabeza de acero, Sierra, Róbalo; Secado natural: Pelillo, Luga Luga, Chasca y Cochayuyo.
+
+Los recursos hidrobiológicos Salmón del Atlántico, Salmón plateado, Trucha arcoiris o Cabeza de acero, Ostra del Pacífico, deberán provenir de centros de cultivos autorizados.
+
+Déjase sin efecto la resolución Nº1.320 de 1989, de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 31 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
