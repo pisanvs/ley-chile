@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.420, de 31 de julio de 2000, se expropió el lote de terreno Nº 4, superficie 396 m2, rol de avalúo 154-85, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Quinta Región y se acordó el valor de indemnización con su propietario Rosamel Loreto Catalán Guaico, ascendente a la cantidad de $1.021.480.
+
+Fiscal del Ministerio de Obras Públicas.
