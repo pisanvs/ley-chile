@@ -22902,11 +22902,9 @@ Las personas que adquieran en el extranjero mercaderías destinadas a las Zonas 
 
 4.- Comisiones de agentes.
 
-De conformidad con lo dispuesto en el Capítulo V del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los agentes, representantes o cualquiera persona natural o jurídica que actúe en el país por cuenta de firmas del exterior en la venta o colocación de mercaderías, deberán retornar, dentro del plazo establecido para el efecto, las comisiones que perciban por esos negocios, entendidas por tales el beneficio pecuniario, que a cualquier título obtengan por dichas operaciones.
+De conformidad con lo dispuesto en el Capítulo V del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los agentes, representantes o cualquiera persona natural o jurídica que actúe en el país por cuenta de firmas del exterior en la venta o colocación de mercaderías, no están obligados a retomar ni a liquidar el importe de las comisiones que perciban por esos negocios, entendidas por tales el beneficio pecuniario, que a cualquier título obtengan por esas operaciones, siempre que den cumplimiento a las condiciones señaladas en dicho Capítulo.
 
-La responsabilidad por el retorno y liquidación de los referidos importes, corresponde exclusivamente a los agentes, representantes u otras personas que obtengan el beneficio pecuniario señalado en el primer párrafo de este número.
-
-Cuando se liquiden los importes de que se trata, se deberá entregar al comisionista una liquidación extendida en formularios numerados correlativamente y timbrados por el Servicio de Impuestos Internos, la que contendrá los datos necesarios para individualizar al banco que la emite, el nombre, domicilio y RUT de la persona a quien se paga la comisión y el monto de ésta y del impuesto retenido. El comisionista deberá emitir en todo caso, su respectiva factura o boleta por el monto recibido y con la constancia de retención de impuestos amparada por la liquidación que debe entregarle el banco.
+En caso que se liquiden los importes de que se trata, los bancos deben extender la liquidación en formularios numerados correlativamente y timbrados por el Servicio de Impuestos Internos, como asimismo retener el impuesto que corresponda y exigir al comisionista la emisión de la respectiva factura o boleta, de conformidad con las instrucciones impartidas por dicho Servicio.
 
 5. - Instrucciones contables.
 
