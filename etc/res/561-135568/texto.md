@@ -1,0 +1,5 @@
+Por resolución Nº 561, de 9 de abril de 1999, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA COLOSO S.A., para ampliar las actividades de pesca autorizadas por resoluciones Nº 636 de 1985, Nº 357 de 1989, Nº 403 de 1990, Nº845 de 1993 y Nº 1.153 de 1996, todas de esta Subsecretaría y podrá realizar actividades pesqueras con la nave ''Aventurero'', en el litoral de la I y II Regiones, respecto de los recursos Anchoa blanca y Vinciguerria.
+
+La solicitante deberá empezar a operar dentro del plazo de un año, contado desde la fecha del último desembarque registrado ante el Servicio Nacional de Pesca, por la nave ''Aventurero'', a la fecha de la presente resolución. Si no diera cumplimiento a esta obligación, quedará sin efecto la autorización otorgada.
+
+Valparaíso, 9 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
