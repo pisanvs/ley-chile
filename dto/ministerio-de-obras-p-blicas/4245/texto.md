@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.245, de 27 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Ampliación Red de Agua Potable Villa 89, que figura a nombre de Com. Estancia Chacarillas, rol de avalúo 2528-1, comuna de Monte Patria, IV Región, superficie 602,10 m². La Comisión de Peritos fijó con fecha 14 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $481.680. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
