@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.759, de 25 de junio de 1999, se expropió el lote de terreno No. 1, superficie 5.335 m2., rol de avalúo 166-25, de la comuna de Casablanca, para la obra Ruta F-830, Camino Casablanca-Las Dichas-Algarrobo, sector Casablanca-Las Dichas y se acordó precio de indemnización con sus propietarios Armando Exequiel Barrientos Sánchez y otra, ascendente a la cantidad de $ 14.295.600.-
+
+Fiscal del Ministerio de Obras Públicas.
