@@ -1,0 +1,5 @@
+Por decreto MOP Nº369, de 19 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+2-1 y 2-2 para la obra: Concesión Internacional Ruta 5. Tramo Collipulli - Temuco Km. 714,98000 a Km. 717,74000", Novena Región, que figuran a nombre de Chodowiecki Wagner Gerd. Adolf, rol de avalúo 403-1, comuna de Gorbea, superficies 2.838 m2 y 596 m2, respectivamente. La comisión de peritos integrada por los señores Yaschala Maribel Yáñez Riffo, Patricio Fernando Casagrande Ulloa y Pablo Alex Mansilla Aravena, fijó con fecha 30 de octubre de 2000, el valor provisional de la indemnización en las cantidades de $4.900.800.- para el lote Nº2-1 y de $1.513.600.- para el lote Nº2-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
