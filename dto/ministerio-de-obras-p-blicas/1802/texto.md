@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.802, de 30 de septiembre de 1998, se expropiaron los lotes de terreno No. s. 15, 18 y 20, superficies 49, 82 y 592 m² respectivamente, rol de avalúo 533-300, comuna de La Unión, para la obra camino Las Ventanas - Bifurcación Rapaco Rol T - 60 y se acordó precio de indemnización con su propietario Jaime Schwencke Von Johnn, ascendente a la cantidad de $611.652.- para los lotes 15, 18 y 20.-
+
+Fiscal del Ministerio de Obras Públicas.
