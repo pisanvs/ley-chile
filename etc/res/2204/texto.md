@@ -1,0 +1,3 @@
+Por resolución Nº 2.204 de 10 de octubre de 2000, de esta Subsecretaría, autorízase a PESQUERA EICOSAL LIMITADA para continuar desarrollando actividades pesqueras de transformación autorizadas a Sociedad Pesquera Eicomar S.A., en la planta elaboradora de recursos hidrobiológicos ubicada en el Km. 12 del camino Chinquihue, Puerto Montt, X Región.- Déjase sin efecto la resolución Nº2.103 de 2000, de esta Subsecretaría.
+
+Valparaíso, 10 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
