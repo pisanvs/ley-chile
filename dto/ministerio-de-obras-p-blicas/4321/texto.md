@@ -1,0 +1,5 @@
+Por decreto MOP. Nº4.321, de 27 de septiembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº41-B, para la obra:
+
+''CONCESION INTERNACIONAL INTERCONEXION VIAL SANTIAGO - VALPARAISO - VIÑA DEL MAR. TRONCAL SUR. TRAMO 1. ATRAVIESO LOS ALMENDROS. KM. 90.200,00 A KM. 90.700,00'', Quinta Región, que figura a nombre de Rodríguez Ferrada María Teresa y ot, rol de avalúo 866-241, comuna de VILLA ALEMANA, superficie 1.454 m2. La comisión de peritos integrada por los señores Joaquín Prieto Ochagavía, Fernando José Senerman Mandel y Marcela Alejandra Redard Ayala, fijó con fecha 9 de junio de 2000, el valor provisional de la indemnización en la cantidad de $8.286.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
