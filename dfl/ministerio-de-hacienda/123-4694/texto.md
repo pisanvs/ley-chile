@@ -1,0 +1,1 @@
+Declara en reorganización la Dirección General del Trabajo y suprime en su planta del personal los cargos que indica, servidos por las personas que señala.
