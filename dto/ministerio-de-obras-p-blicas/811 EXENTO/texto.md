@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº811 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº98-C, superficie 107 m2, Rol en trámite, comuna de San Fernando, VI Región para la obra: ''Camino San Fernando Roma, Rol I-301; I-255; I-151, Km.0,000 a Km.10,954264'' y se acordó el valor de indemnización con su propietario Angel Matías Gálvez Tapia, ascendente a la cantidad de $973.251.-
+
+Fiscal del Ministerio de Obras Públicas.
