@@ -1,0 +1,3 @@
+Por Resolución Nº 785, de 4 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 43 de 1992, de esta Subsecretaría, que autorizó a don FRANCISCO HERNAN ESQUIVEL CAMPAÑA, para operar las naves "Arauco", matrícula 805 y "Albatros V", matrícula Nº 557, ambas de San antonio, en virtud de lo señalado en el artículo 143 letra b) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
