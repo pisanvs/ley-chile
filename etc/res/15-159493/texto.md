@@ -1,0 +1,5 @@
+AUTORIZA EXISTENCIA Y APRUEBA ESTATUTOS DE COOPERATIVA DE SERVICIOS DE JUBILADOS Y MONTEPIADAS DE LA EX-CAJA DE PREVISION DE LA MARINA MERCANTE NACIONAL
+
+Mediante resolución ministerial Nº15, de fecha 3 de febrero del año 2000, se autorizó la existencia y se aprobaron los estatutos de la Cooperativa de Servicios de Jubilados y Montepiadas de la Ex-Caja de Previsión de la Marina Mercante Nacional, de sigla Marimercoop, en los términos que da testimonio la escritura pública suscrita con fecha 14 de diciembre de 1999, ante el Notario de Valparaíso, don Ricardo Maure Gallardo, modificada por escritura pública suscrita con fecha 17 de enero de año 2000, ante la Notario de Santiago, doña María Angélica Zagal Cisternas.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
