@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.010, de 30 de septiembre de 1999, se expropió el lote de terreno Nº 1, superficie 71,98 M2, rol de avalúo 173-12, comuna de Los Andes, obra Avenida Argentina-Los Andes, Camino Cruce Longitudinal (Llay-Llay) Túnel Cristo Redentor, Rol 60-Ch y se acordó precio de indemnización con su propietaria Ofelia Valdivieso Peña y otros, ascendente a la cantidad de $19.498.033.
+
+Fiscal del Ministerio de Obras Públicas.
