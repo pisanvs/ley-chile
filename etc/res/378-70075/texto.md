@@ -1,0 +1,5 @@
+Por Resolución Nº 378, de 14 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto el Nº 1 letra b) de la Resolución Nº 1081 de 1996, que declaró la caducidad de la Resolución Nº 1417 de 1990, ambas de esta Subsecretaría, de manera de reconocer la plena vigencia de la autorización otorgada por esta última a don VICTOR ROJAS ARRATIA, para realizar actividades pesqueras con la nave "Lucía Palmira", respecto de los recursos hidrobiológicos y en las áreas señaladas en dicha Resolución, en virtud de lo dispuesto en la Resolución Nº 4 de 22 de enero de 1997, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Don Víctor Rojas Arratia deberá continuar las operaciones pesqueras con la nave "Lucía Palmira" dentro del plazo de un año contado desde la fecha de esta Resolución, bajo el apercibimiento del Artículo 143 letra b) del D.S. Nº 430 de 1991 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 14 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
