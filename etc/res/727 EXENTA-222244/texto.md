@@ -1,0 +1,3 @@
+Por resolución exenta Nº 727, de 1 de marzo de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202106015 presentada por SALMONES PACIFIC STAR S.A., para instalar y operar un centro de cultivo ubicado en desembocadura de Río Asasao, Bahía Asasao, al sur de la Isla de Chiloé, X Región.
+
+Valparaíso, 1 de marzo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
