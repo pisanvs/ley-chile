@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº954, de fecha 28 de junio de 2002, se modificó el decreto MOP Nº275, de 30 de marzo de 2001, en el sentido de dejar sin efecto la expropiación del lote Nº62, por cuanto ya había sido ordenada por decreto MOP Nº838, de 22 de abril de 1999, se dejó sin efecto los párrafos 3º y 6º del decreto MOP Nº275, de 30 de marzo de 2001, y se autorizó convenio directo de precio, del lote de terreno Nº63, por el que se acordó el valor definitivo de la expropiación con su propietaria doña Marcela Alejandra Torres Valdés en la cantidad de $355.767.-
+
+Fiscal del Ministerio de Obras Públicas.
