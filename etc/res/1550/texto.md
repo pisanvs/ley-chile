@@ -1,0 +1,9 @@
+Por Resolución N° 1.550, de 30 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don LUIS ARTURO QUINTANILLA VALENZUELA, R.U.T. N° 7.312.594-4, para operar los derechos respecto de la nave "Horizonte I", autorizada por Resoluciones N° 905, de 1988, N° 1.736 y N° 1.793, ambas de 1989 y N° 1.171, de 1994, todas de esta Subsecretaría, en el litoral y respecto de los recursos hidrobiológicos que se indican a continuación: a) Litoral de las IV, V, VI, VII y IX Regiones, por fuera del área de reserva artesanal, con arrastre: Merluza común. b) Litoral de las V, VII, VIII y X Regiones, por fuera del área de reserva artesanal, con enmalle y espinel: Albacora.
+
+En consecuencia, don Luis Arturo Quintanilla V. tiene el derecho a capturar, en el área de pesca correspondiente al litoral de las IV, V, VI, VII y IX Regiones, por fuera del área de reserva artesanal, con arrastre, el recurso hidrobiológico Merluza común y en el litoral de las V, VII, VIII y X Regiones, por fuera del área de reserva artesanal, con enmalle y espinel, el recurso hidrobiológico Albacora.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Déjase sin efecto las Resoluciones N° 905, de 1988, N° 1.736 y N° 1.793, ambas de 1989 y N° 1.171, de 1994, todas de esta Subsecretaría, que autorizaron a don Francisco Javier Oberreuter Díaz para operar la nave "Horizonte I", en virtud de lo señalado en la escritura de transferencia indicada en Visto.
+
+Valparaíso, 30 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
