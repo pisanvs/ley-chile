@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 368, de 30 de mayo de 1996, se expropiaron los lotes de terrenos N°s 17 y 28 superficies 40.684 M2, 489 M2, rol de avalúo 694-34, 591- 36 comuna de Yungay, para la obra Proyecto Laja- Diguillín, Canal Matriz, Sector Huépil Trilaleo y se acordó precio de indemnización con los propietarios Gladys María Rivas Santander y Laura del Carmen Pinilla Pérez ascendente a la cantidad de $8.865.806 para el lote N° 17 y $735.653 para el lote N° 28.
+
+Fiscal del Ministerio de Obras Públicas.
