@@ -960,7 +960,7 @@ La revisión del expediente se hará en la Secretaría de la Autoridad Marítima
 
 e) La Investigación Sumaria podrá ser devuelta por la Dirección del Litoral y de Marina Mercante o por la Autoridad Marítima al Fiscal que la instruyó, cuando se comprobare que las diligencias están incompletas o que adolecen de vicios o defectos. En este caso, la Autoridad que corresponda dispondrá la reapertura de la investigación para corregir dichas deficiencias.
 
-f) Habiéndose dado cumplimiento a las diligencias señaladas en las letras que anteceden, la Autoridad Marítima emitirá la resolución, definitiva, salvo que en atención a la magnitud del siniestro estime que los antecedentes, con su resolución deban ser elevados al conocimiento del Director del Litoral y de Marina Mercante, a fin de que éste resuelva si corresponde designar y constituir una Corte Marítima, o para imponer las sanciones que el caso requiera.
+f) Habiéndose dado cumplimiento a las diligencias señaladas en las letras que anteceden, la Autoridad Marítima emitirá la resolución definitiva, salvo que la sanción propuesta por el fiscal instructor excediere de la suma equivalente a cien mil pesos oro, y por lo tanto de las atribuciones del Gobernador Marítimo, o que en atención a la magnitud del siniestro, los antecedentes deban ser elevados al conocimiento del Director General del Territorio Marítimo y de Marina Mercante, a fin de que éste resuelva si corresponde disponer la constitución de una Corte Marítima, de conformidad con lo dispuesto por el artículo 131 de la Ley de Navegación.
 
 g) En todo caso, la Autoridad Marítima remitirá a la Dirección del Litoral y de Marina Mercante, para su conocimiento, copia de las resoluciones recaídas en los sumarios por siniestros marítimos y de las sanciones impuestas.
 
@@ -2036,9 +2036,9 @@ b) Las faltas graves que cometa la Gente de Mar serán sancionadas después de o
 
 c) Las reincidencias a las faltas leves o graves cometidas dentro de los doce meses siguientes al de la comisión de las referidas faltas serán castigadas con el doble de la sanción impuesta con anterioridad.
 
-d) Las faltas gravísimas que cometa la Gente de Mar serán sancionadas después de oídos los descargos, con multa mayor de quinientos pesos oro, suspensión temporal de la matrícula por más de tres meses o la eliminación definitiva de la matrícula, como dispone el artículo 329.
+d) Las faltas gravísimas que cometa la Gente de Mar serán sancionadas, después de oídos los descargos, por el Gobernador Marítimo, con multa mayor de quinientos pesos oro hasta cien mil pesos oro o suspensión temporal de la matrícula de treinta y un día hasta un máximo de tres meses.
 
-e) Toda suspensión temporal de la matrícula de Gente de Mar mayor de tres meses, o multas mayores de dos mil pesos oro, deberán ser aprobadas por el Director General del Territorio Marítimo y de Marina Mercante, no pudiendo, en todo caso exceder de dos años la suspensión temporal de la matrícula.
+e) Las multas mayores de cien mil pesos oro y las suspensiones superiores a los tres meses, no pudiendo, en todo caso, exceder de los dos años, o la eliminación definitiva de la matrícula como dispone el artículo 329, deberán ser resueltas por el Director General del Territorio Marítimo y de Marina Mercante.
 
 f) Las suspensiones podrán ser conmutadas por multas. Cuando imponga esta última, la Autoridad correspondiente otorgará un plazo que no será superior a un mes para integrarla, quedando a su término inhabilitado el infractor para ejercer toda actividad marítima si así no lo hubiere hecho. La Autoridad Marítima respectiva podrá asimismo aumentar la suspensión por un nuevo período igual al que ella comprenda, cuando el infractor sancionado no hubiere empezado a cumplirla en el plazo de un mes, contado desde que le fue impuesta.
 
@@ -2108,17 +2108,15 @@ IV. - MULTAS, PROCEDIMIENTO E INTEGRO
 
 a) El monto de las multas que podrán aplicar los Capitanes de Puerto por infracciones al presente Reglamento será como máximo el que se expresa al margen de los artículos que sean susceptibles de infracción y que está establecido en Pesos Oro, debiendo cubrirse en moneda corriente con el recargo que para los efectos del pago de los derechos aduaneros fija mensualmente el Ministerio de Hacienda. Con este fin la Dirección del Litoral y de Marina Mercante solicitará de la administración de Aduanas respectiva, el recargo que esta repartición aplica mensualmente en el pago de los derechos aduaneros, lo que será transcrito a las Capitanías de Puerto para los fines señalados.
 
-b) Si por la gravedad de la falta se impusiera una sanción de mayor monto que las indicadas en este Reglamento y de más de $2.000,00 oro (Dos mil Pesos Oro), deberá solicitarse la aprobación de la Dirección del Litoral y de Marina Mercante, como dispone el artículo 328, inciso e).
+b) Las multas que apliquen la Dirección del Litoral y de Marina Mercante o Capitanes de Puerto, por las infracciones a que se refiere el artículo 327 de este Reglamento, ingresarán en arcas fiscales.
 
-c) Las multas que apliquen la Dirección del Litoral y de Marina Mercante o Capitanes de Puerto, por las infracciones a que se refiere el artículo 327 de este Reglamento, ingresarán en arcas fiscales.
-
-d) El integro de las multas deberá hacerse dentro del plazo de 5 días hábiles a contar desde la fecha de emisión de la boleta de ingreso, en dinero efectivo, en la Tesorería Fiscal del puerto que corresponda.
+c) El integro de las multas deberá hacerse dentro del plazo de 5 días hábiles a contar desde la fecha de emisión de la boleta de ingreso, en dinero efectivo, en la Tesorería Fiscal del puerto que corresponda.
 
 Para este efecto el Capitán de Puerto remitirá la boleta al infractor el mismo día de su emisión y si la multa no es pagada dentro del plazo requerido, le impondrá por vía de apremio una suspensión de un día por cada diez pesos oro o fracción que corresponda enterar en Tesorería. Se suspenderá el apremio cuando la multa sea pagada. Si a pesar del apremio no se enterara el valor de la multa, podrá reiterarse cuantas veces sea necesario. La emisión de la boleta de ingreso podrá efectuarla el Capitán de Puerto dentro de un mes desde que sea impuesta la multa, según las circunstancias.
 
-e) También podrán integrarse las multas en estampillas de Impuesto, pero sólo en los casos que los infractores sean Oficiales o tripulantes de naves que vayan a ausentarse del puerto antes de tres días hábiles.
+d) También podrán integrarse las multas en estampillas de Impuesto, pero sólo en los casos que los infractores sean Oficiales o tripulantes de naves que vayan a ausentarse del puerto antes de tres días hábiles.
 
-f) Las estampillas se adherirán al formulario que debe remitirse a la Dirección del Litoral y de Marina Mercante, inutilizándolas con perforador y timbre de aceite, debiendo colocársele en el formulario el valor de la multa, el recargo aplicado, la causa y fecha correspondiente.
+e) Las estampillas se adherirán al formulario que debe remitirse a la Dirección del Litoral y de Marina Mercante, inutilizándolas con perforador y timbre de aceite, debiendo colocársele en el formulario el valor de la multa, el recargo aplicado, la causa y fecha correspondiente.
 
 V- RECLAMOS
 
