@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.265 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº25, superficie 47 m2, rol de avalúo Nº511-60, comuna de Longaví, para la obra ''Camino Ruta L-49, Cruce Longitudinal-Mesamavida, sector Cruce Longitudinal-San Luis, tramo Km. 0,000.00 a Km. 13,841.12 comuna de Longaví, provincia de Linares'', VII Región y se acordó el valor de la indemnización con su propietario José Sebastián Salgado Ibáñez, ascendente a la cantidad de $495.890.-
+
+Fiscal del Ministerio de Obras Públicas.
