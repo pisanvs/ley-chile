@@ -1,0 +1,3 @@
+Por resolución Nº 583, de 17 de marzo de 2000, de esta Subsecretaría, autorízase a PESQUERA PACIFIC FARMER LIMITADA, para continuar desarrollando las actividades pesqueras de transformación autorizadas por resolución Nº 10, de 1998 a Comercial Chen Zhang Luo y Compañía Limitada, en virtud del cambio de razón social.
+
+Valparaíso, 17 de marzo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
