@@ -1,0 +1,5 @@
+Por decreto MOP. No. 832, de 5 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840, se expropiaron los lotes de terreno No. s.6, 7 y 14-B, para la ejecución de la obra Mejoramiento Autopista Concepción - Talcahuano, Sector Rotonda Bonilla y Campus San Andrés, Km. 0.086,65 al 0.324,15 que figuran a nombre de Reineria del Carmen Contreras Rifo, Reineria Contreras Riffo y Ana O. Wittker Valdés, Roles de Avalúo 436-1, 436-3 y 436-34, comuna de Concepción, VIII Región, superficies 288, 156 y 422 m². La Comisión de Peritos compuesta por los señores Boris Aptecar González, Pedro Tagle Martínez y Luis Soto Abarca, fijó con fecha 10 de junio de 1997, el valor provisional de las indemnizaciones en la cantidad $ 47.763.766, lote 6, $ 8.424.000, lote 7, y $ 43.002.100, lote 14-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
