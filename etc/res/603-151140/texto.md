@@ -1,0 +1,5 @@
+AUTORIZA A DON SANDALIO SEGUNDO RUIZ RIVAL PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 603, de 12 de Junio de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Sandalio Segundo Ruiz Rival, R.U.T. No. 4.271.049-0 domiciliado en El Habal, La Pasada, Casilla 108, Maullín, para instalar y operar un establecimiento de cultivo de algas del género Gracilaria, en un sector de fondos de río de 30.000 m2, en el río Cululil, sector Chanhué, Comuna de Maullín, Provincia de Llanquihue, X Región, cuyas coordenadas geográficas son las siguientes: Vértice A Lat. 41° 34' 03,54' S., Long. 73° 39' 11,74" W.; Vértice B Lat. 41° 33' 57,07" S., Long. 73° 39' 01,84" W.; Vértice C Lat. 41° 33' 58,99" S., Long. 73° 38' 58,70" W.; Vértice D Lat. 41° 34' 05,46" S., Long. 73° 39' 08,60" W. Esta autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de Junio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
