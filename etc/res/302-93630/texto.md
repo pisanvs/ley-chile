@@ -1,0 +1,5 @@
+AUTORIZA A SALMONES ANTARTICA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 302, de 7 de Marzo de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Salmones Antártica Limitada, R.U.T. No. 86.100.500-3, domiciliada en Santiago, para ampliar las actividades pesqueras autorizadas por Resolución No. 262, de 1987, de esta Subsecretaría, en orden a incorporar en el establecimiento de cultivo ubicado en Chacabuco, los recursos Salmón rey, Salmón del Atlántico y Trucha arco iris. Las ovas de los recursos salmonídeos serán adquiridos de centros de cultivo autorizados o se importarán previa autorización de esta Subsecretaría. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 7 de Marzo de 1989. Roberto Cabezas Bello, Subsecretario de Pesca.
