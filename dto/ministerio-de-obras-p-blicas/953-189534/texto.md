@@ -1,0 +1,5 @@
+Por decreto MOP Nº953, de 15 de junio de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo Temuco - Río Bueno Km. 773.521,70 a Km. 783.850,00", Décima Región, que figura a nombre de Antillanca Rainqueo Elvira y Otros, rol de avalúo 325-88, comuna de Mariquina, superficie 30.000 m2. La comisión de peritos integrada por los señores Enrique Edgardo Hoelck Altmann, Leopoldo Schumacher Guarda y Jaime Sanz Bahamonde, fijó con fecha 06 de febrero de 2001, el valor provisional de la indemnización en la cantidad de $12.000.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
