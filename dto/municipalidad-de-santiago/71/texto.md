@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 71, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago dispone expropiación total conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695. inmueble Agustinas No. 2314, Rol 375-37 Santiago, aparente dominio Adela Gargari Ibáñez, superficie aproximada a expropiar 236 m2. Deslindes: Norte, 15,50 mts. calle Agustinas; Sur. 15,55 mts. otro propietario; Oriente. 16,30 mts. otro propietario y Poniente, 14,10 mts. otro propietario Indemnización provisional $ 9.195.600.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
