@@ -1,0 +1,3 @@
+Por resolución No. 1.056 de 28 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 2° de la Resolución No. 469, de 1991, de esta Subsecretaría, que autorizó a SALMONES CALETA BAY LTDA., R.U.T. N 79.910.700-7 domiciliada en Osorno, para iniciar actividades pesqueras de cultivo de Trucha arcoiris, Oncorhynchus mykiss, en Lago Rupanco, Comuna Puerto Octay, Provincia de Osorno, X Región, en un área de 106.652 m2., en el sentido de reemplazar la longitud del Vértice B: "72° 40' 08,00" W" por "72° 40' 03,00" W".
+
+Valparaíso, 28 de agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
