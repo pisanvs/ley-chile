@@ -1,0 +1,5 @@
+DEJA SIN EFECTO RESOLUCION QUE INDICA Y AUTORIZA A LA SOCIEDAD PESQUERA COQUIMBO DOS LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 223, de 6 de Julio de 1981, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deja sin efecto la resolución Nº 16, de 14 de Enero del año en curso, del mismo organismo y se autoriza a la Sociedad Pesquera Coquimbo Dos Limitada con domicilio en Santiago, para desarrollar actividades pesqueras en la forma y condiciones que indica. La interesada podrá operar la planta elaboradora de conservas y harina de pescado ubicada en Coquimbo, entre Astilleros Martec, Planta de Minerales Gálvez y calle Regimiento Coquimbo, Lote 3.7, en el procesamiento de sardina española, jurel, agujilla, caballa, cabinza, anchoveta y sardina común. Los recursos mencionados serán adquiridos a terceros proveedores de la región.-
+
+Roberto Verdugo Gormaz, Subsecretario de Pesca.
