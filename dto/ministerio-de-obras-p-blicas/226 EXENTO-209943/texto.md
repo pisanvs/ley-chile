@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº226 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs 21 y 29, superficie 498 y 2.145 m2, respectivamente, Rol Nº524-183, comuna de La Unión, X Región, para la obra "Camino Ruta T-80, Sector La Unión-Las Trancas, tramo Km. 0,900 a Km. 10,99034" y se acordó el valor de indemnización con su propietaria Gisela Matilde Dannenberg Kleinsteuber, ascendente a la cantidad de $1.445.135.-
+
+Fiscal del Ministerio de Obras Públicas.
