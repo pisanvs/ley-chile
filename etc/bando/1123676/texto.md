@@ -1,0 +1,31 @@
+Policía i aseo de las calles
+
+Don Mateo Arnaldo Hoevel, gobernador intendente de la provincia de Santiago i Superintendente Jeneral de policía, previo el permiso i aprobacion del Supremo Gobierno.
+
+Convencido de la necesidad que hai de tomar varias providencias para la policía i aseo de las calles, i observando que las prohibiciones que en repetidas veces se han hecho de los abusos que se han notado en este ramo, no han tenido efecto por la falta de celo en velar sobre su cumplimiento, he dispuesto se guarden i cumplan los puntos que contiene el presente bando, en el cual impongo penas moderadas a los contraventores, pero que serán irremisibles, empeñando todos mis cuidados en que se hagan efectivos como corresponde.
+
+Primeramente prohibo que tiren basuras, animales muertos, ropa inmunda o contajiada i escombros de cualquiera clase a las calles públicas. La pena del contraventor será una multa de dos pesos que corresponde exijir al alcalde de barrio o cualquiera dependiente de la policía que primero notare la infraccion. El mismo alcalde de barrio es responsable a esta pena, si despues de 36 horas de verificada la infraccion no ha exijido la multa al delincuente o tomado las providencias necesarias para la indagacion de él.
+
+2. Se prohibe igualmente en las calles públicas los actos siguientes: cocinar i hacer fuego con cualquiera otro pretesto, a escepcion de la plaza mayor en la forma que hasta aquí se ha acostumbrado; amarrar o dar de comer a caballos i cualquiera otra clase de bestias; sentarse a trabajar en las aceras de las calles los artesanos; ocupar dichas aceras con canastos de ventas, frutas o dulces, labar o secar ropa, herrar caballos o tener bancos con este objeto, i hacer las operaciones naturales. La pena de los infractores de este artículo será en los mismos términos que la que se aplica en el anterior, i no teniendo el contraventor como satisfacer la multa, sufrirá una reclusion por tres dias en la cárcel pública. Señalo la plaza mayor i plazuelas de esta ciudad para que en ellas se sitúen las ventas de todas las clases i la cañada para que los herradores coloquen allí sus bancos.
+
+3. Se prohíbe andar a caballo por los enlozados, correr en esta forma por el medio de las calles i paseos públicos o dejar las riendas tiradas sobre las aceras. La contravencion de este punto traerá la multa de dos pesos i embargo de la cabalgadura en que se anda o corre, ínterin se satisface la multa.
+
+4. Prohibo igualmente en las calles los juegos de naipes, dados, taba, pelota, chueca, volantin, palitroques, rayuela i jeneralmente toda reunion de jente ociosa. Sobre cuyo último punto encargo especialmente a los alcaldes de barrio doblen su vijilancia por la inmoralidad pública que resulta de su contravencion principalmente en los muchachos i sirvientes. La pena de la infraccion de este artículo será un arresto de dos dias en los menores de catorce años, i ocho dias de servicio en las obras públicas para los que exceden de esta edad.
+
+5. Se prohiben tambien las ramplas en las aceras de las calles i escalones que ocupen mas de media vara en la acera: igualmente toda puerta que se abra para la calle i abierta embarace el paso. En cuya prohibicion declaro no están inclusas las cocheras que sirvan precisamente para depósito de carruajes; pues en teniendo otro cualquiera destino o habitando las jentes, deberá ponerse las puertas en disposicion que abran para dentro. La pena de esta infraccion es la de cuatro pesos de multa con la misma responsabilidad para los alcaldes de barrio que se previene en el artículo primero. Pero esta pena solo tendrá efecto por lo respectivo al último punto de este artículo despues de 20 dias de la fecha del presente bando.
+
+6. Ningun aguatero podrá llenar sus barriles en las pilas de los conventos o cuarteles, haciéndolo incurre en la multa de dos pesos o reclusion por tres dias en la cárcel pública.
+
+7. Las centinelas de las casas públicas, cumpliendo con el artículo de la ordenanza que les manda no permitir delante de sí ningun acto indecente, cuidarán del aseo i limpieza de las aceras donde hacen sus centinelas.
+
+8. No se dispararán cohetes en ninguna hora ni bajo pretesto alguno. El contraventor será castigado con multa de un peso.
+
+9. Para la construccion i refaccion de los edificios no se podrá ocupar la calle con barro ni materiales sin previo permiso del alcalde de barrio, quien solo lo otorgará certificado que sea por si propio de que por falta de lugar en el recinto del mismo edificio, es indispensable la ocupacion de la calle. En este caso el constructor se obligará en forma i de un modo que satisfaga al mismo alcalde a dejar limpia la calle concluido el término que éste le señalare como necesario para la construccion.
+
+10. Nadie podrá lavar ropa de ninguna clase en la misma madre del rio debiendo las jentes que ocurran a sus márjenes con el fin de labar, estraer el agua en algunas basijas, i vertirlas en la ribera. El contraventor sufrirá la multa de un peso.
+
+11. Declaro espresamente que siendo la cañada una calle pública i de las principales, quedan prohibidos en ella los actos que lo están en las otras, salva la escepcion del artículo segundo. Por consiguiente no se podrá correr o enlazar vacas, u otra clase de animales, permitirles andar sueltos, matarlos i despostarlos en la misma cañada debiendo para esto haber corrales separados en el recinto de las mismas casas; estacar o secar cueros i lavar los intestinos de las reses, bajo la pena de que a los contraventores se aplicará la multa de diez pesos en la forma del artículo primero.
+
+12. Ultimamente toda persona reconvenida para la exhibicion de una multa impuesta por la policía, no está obligada a entregarla sin que se le dé recibo de ella por un boletin impreso i firmado por mí i en donde conste el nombre i apellido de la persona que la exhibe, anotado del puño del exactor.
+
+Para que llegue a noticia de todos i nadie alegue ignorancia, publíquese por bando, fíjese en los lugares acostumbrados e imprímase. Dado en la Sala de la Intendencia Jeneral de Santiago a 29 de Agosto de 1817.- Mateo Arnaldo Hoevel.- Santiago, Setiembre 5 de 1817.- Publíquese.- Quintana.- Zañartu.
