@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.578, de 28 de octubre de 2003, de esta Subsecretaría, autorízase a FAENADORA SAN VICENTE LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Km. 19,2, de la Ruta H-66-G, San Vicente de Tagua Tagua, VI Región, donde podrá procesar, en la línea de proceso de Empanizados, los recursos hidrobiológicos Salmón del Atlántico, Salmón plateado y Trucha arcoiris.
+
+Valparaíso, 28 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
