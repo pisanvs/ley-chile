@@ -1,0 +1,3 @@
+Por resolución Nº 101, de 13 de enero de 2000, de esta Subsecretaría, autorízase a CONSTRUCCIONES Y CARPINTERIA NAVAL CONCAR S.A. para realizar operaciones pesqueras, a contar de la presente resolución y hasta el 31 de diciembre del año 2000, ambas fechas inclusive, con el barco fábrica denominado ''María Tamara'', en aguas interiores, al Sur del paralelo 47° L.S., respecto de los recursos y con las obligaciones, establecidas en sus respectivas resoluciones.
+
+Valparaíso, 13 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
