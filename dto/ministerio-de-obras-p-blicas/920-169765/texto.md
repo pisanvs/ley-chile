@@ -1,0 +1,3 @@
+Por decreto MOP N°920, de 22 de marzo del 2000, se expropió el lote de terreno N°7, superficie 7.590,0 m2., rol de avalúo 312-3, comuna de Freire, para la obra Concesión Internacional Ruta 5. Tramo: Collipulli-Temuco, Novena Región, y se acordó el valor de indemnización con su propietaria Rosa Yolanda Sandoval Poblete, ascendente a la cantidad de $51.125.803.-
+
+Fiscal del Ministerio de Obras Públicas.
