@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.518, de 31 de mayo de 1999, se expropió el lote de terreno No. 37, superficie 1.550 mý, rol de avalúo 167-203, comuna de Maule, para la obra "Ruta 5 Tramo Talca-Chillán, Calle de Servicio Sector Talca Sur-Unihue y Pirque-Unihue", Séptima Región y se acordó el valor de indemnización con su propietario Darío González Sepúlveda, ascendente a la cantidad de $ 9.386.281.-
+
+Fiscal del Ministerio de Obras Públicas.
