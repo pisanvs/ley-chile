@@ -1,0 +1,3 @@
+Por Resolución N° 1.093, de 11 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial, en virtud de lo dispuesto en el artículo 143 letra b) del D.S. N° 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, de las Resoluciones N° 640, de 1986 y N° 1230, de 1992, ambas de esta Subsecretaría, solamente en cuanto autorizó a PESCA CHILE S.A., para realizar actividades pesqueras extractivas con la nave "Puerto Ballena", en el litoral comprendido entre los paralelos 44°30' L.S. y el 47° L.S., sobre el recurso hidrobiológico Merluza del sur.
+
+Valparaíso, 11 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
