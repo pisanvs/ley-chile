@@ -1,0 +1,3 @@
+Por Resolución N° 538, de 20 de Marzo de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; deniégase la solicitud de concesión de acuicultura presentada por SALMONES MAINSTREAM FISHERIES LIMITADA, para un centro de cultivo ubicado en Canal Yal, Comuna de Chonchi, Provincia de Chiloé, X Región, por no dar cumplimiento el respectivo proyecto técnico a lo dispuesto en el artículo 12° del D.S. N° 175, de 1980, modificado por el D.S. N° 427, de 1989, todos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 20 de Marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
