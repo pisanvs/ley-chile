@@ -1,0 +1,5 @@
+APRUEBA DISOLUCION ANTICIPADA DE ''H.Q.M. S.A. ADMINISTRADORA DE FONDOS DE INVERSION''
+
+Certifico: Que por resolución Nº 257 de 20 de septiembre de 2000, de esta Superintendencia de Valores y Seguros, se rectificó la resolución Nº 234 de 11 de agosto de 2000 que aprobó la disolución anticipada de la sociedad ''H.Q.M. S.A. Administradora de Fondos de Inversión'', acordada en Junta Extraordinaria de Accionistas celebrada el día 20 de junio de 2000 y reducida a escritura pública el día 30 de junio de 2000 en la Notaría Pública de Santiago de don René Benavente Cash. Aprobó además el cambio de nombre de la sociedad por el siguiente: ''H.Q.M. S.A. Administradora de Fondos de Inversión En Liquidación''. La rectificación consistió en modificar la razón social de ''H.Q.M. Administradora de Fondos de Inversión S.A.'' por la de ''H.Q.M. S.A. Administradora de Fondos de Inversión''.
+
+Santiago, 20 de septiembre de 2000.- Gonzalo Quiroga Riobo, Secretario General Suplente.
