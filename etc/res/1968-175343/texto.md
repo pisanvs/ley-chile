@@ -1,0 +1,3 @@
+Por resolución Nº 1.968 de 7 de septiembre de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 98110026, presentada por MARIO HUMBERTO PUCHI ACUÑA, para instalar y operar el centro de cultivo ubicado en canal Chaffers, isla May, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 7 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
