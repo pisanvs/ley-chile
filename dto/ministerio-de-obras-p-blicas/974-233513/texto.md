@@ -1,0 +1,3 @@
+Por decreto MOP Nº 974, de fecha 29 de octubre de 2004, se expropiaron los lotes de terreno Nº514 y 515, superficies 303 m² y 1.421 m², rol de avalúo Nº 32-19, comuna de Pichidegua, para la obra ''Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a Km. 12,70000'', VI Región y se acordó el valor de la indemnización con su propietario Leopoldo Antonio González Marambio, ascendente a la cantidad de $10.646.916.-
+
+Fiscal del Ministerio de Obras Públicas.
