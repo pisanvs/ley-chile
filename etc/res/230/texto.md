@@ -1,0 +1,3 @@
+Por resolución N° 230, de 6 de Abril de 1993, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, rectifícase la resolución N° 75, de 1993, de esta Subsecretaría, que autorizó a don RENE LUCIANO VELIZ CARVAJAL, R.U.T. N° 6.128.197-5, domiciliado en calle Santa Ester N° 550, Población Victoria, Coquimbo, IV Región, para iniciar actividades pesqueras de transformación, en orden a señalar que la planta industrial se ubica en calle Santa Ester N° 550, Coquimbo, IV Región y no como en el numeral 2° erróneamente se indica.
+
+Valparaíso, 6 de Abril de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
