@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.222, de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº64, superficie 227 m2., rol de avalúo 5050-73, comuna de Punta Arenas, para la obra "Reposición Ruta 9 y acceso Aeropuerto, sector (Ruta 9) Km. 5,31490 - Km. 19,342349 (acceso Aeropuerto) Km. 0,000 - Km. 1,295819", y se acordó el valor de indemnización con su propietaria Rosa Santana Panicucci, ascendente a la cantidad de $1.962.860.-
+
+Fiscal del Ministerio de Obras Públicas.
