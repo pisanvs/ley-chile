@@ -10,7 +10,7 @@ c) Lo dispuesto en la Ley N.o 17.288, dicto el siguiente:
 
 Decreto:
 
-1.o.- Declárase Monumentos Nacional al edificio denominado "Palacio Pereira", ubicado en calle Huérfanos N.o 1515, de la comuna de Santiago, rol número 140-5
+1.o.- Derogado.
 
 2.o.- Declárase Monumento Nacional al edificio denominado "Palacio de la ex Nunciatura Apostólica", ubicado en calle Manuel Rodríguez N.o 311, de la comuna de Santiago, rol número 140-1.
 
