@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.725, de fecha 30 de junio de 2000, se expropió el lote de terreno Nº13-A, superficie 143 m2, rol de avalúo 417-105, comuna de Los Muermos, para la obra ''Camino Los Muermos - Cruce Ruta V-650, Sector Km. 0.000,0 a Km. 7.825,95'' y se acordó el valor de indemnización con su propietario María Cecilia Añazco Werner, ascendente a la cantidad de $527.117.
+
+Fiscal del Ministerio de Obras Públicas.
