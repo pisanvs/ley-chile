@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 724, de 31 de julio de 1997, se expropiaron los lotes de terreno Nºs. 8-A y 8-G, superficies 94,50 m² y 192 m², roles de avalúos 101-27 y 101-35, comuna de Quilicura, obra Estudio de Ingeniería Habilitación Segunda Calzada Avda. Américo Vespucio y se acordó precio de indemnización con sus propietarios Ismael Ulloa Anabalón y Empresa de Transportes Gemenis S.A., ascendente a las cantidades de $16.006.350 y $11.990.608.
+
+Fiscal del Ministerio de Obras Públicas.
