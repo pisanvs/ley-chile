@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 211, de 30 de Julio de 1993, se expropiaron los lotes de terreno N°s 22 y 23, superficies 234 m2. y 250 m2., roles de avalúo 176-7 y 176-6, Comuna de Coronel, para la obra Camino By Pass Coronel-Lota (Ruta 160), sector By Pass Coronel-Lota y se acordó precio de indemnización con sus propietarios Benigno Segundo Parra López y María Cleofe Seguel Zambrano, ascendente a la cantidad de $ 9.517.023.- y 6.378.264.-
+
+Fiscal del Ministerio de Obras Públicas.
