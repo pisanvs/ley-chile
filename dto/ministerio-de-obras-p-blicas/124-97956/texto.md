@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 124, de 13 de febrero de 1998, se expropiaron los lotes de terreno Nºs 18, 18-A y 18-B, superficie 9.100, 9.802 y 4.299 M2., respectivamente, rol de avalúo 1332-32, comuna de San Carlos, para la obra Ruta 5, Tramo Talca - Chillán, intersecciones Desniveladas, Acceso a Monte Blanco y se acordó precio de indemnización con su propietario don Víctor M. Muñoz Rodríguez, ascendente a la cantidad de $16.532.567.-
+
+Fiscal del Ministerio de Obras Publicas.
