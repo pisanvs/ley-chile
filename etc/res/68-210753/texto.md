@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 68 de 12.05.2003, Serviu VI Región del Libertador Bernardo O'Higgins, tomada razón en fecha 26.05.03, ordenó expropiación parte de un inmueble ubicado en Avenida Freire Nº 795, rol Nº 100-22 de la comuna de Rancagua, superficie aproximada de 100,22 m² de terreno y 1,7 de construcciones, delimitada en polígono J-K-M-N, conforme al Plano 1/2000, de aparente dominio de Alfonso Segundo Ródenas Pérez, inscrita a fojas 8541 Vta. Nº 6937 del año 1994, Proyecto de Mejoramiento Red Vial Avenida Freire, Rancagua, conforme al art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shippley R., Jorge Godoy Rojas, Florencio Carter B., ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha febrero de 2000, monto provisional en $17.858.500, más reajustes legales respectivos.
+
+Directora Serviu VI Región.
