@@ -1,0 +1,3 @@
+Por resolución Nº 2.393, de 6 de diciembre de 1999, declárase la caducidad parcial de la resolución Nº 359 de 1989, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA COLOSO S.A., para operar la nave ''Audaz'', sólo en lo relativo al recurso Jurel, en el litoral de la III a la IV Regiones, configurándose la causal prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
