@@ -1,0 +1,3 @@
+Por decreto MOP Nº476 de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº51, superficie 1.728 m2, Rol de Avalúo Nº65-16, comuna de Lonquimay, para la obra "Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, sector Lonquimay Acceso Pedregoso, Km. 119,30000 a Km. 141,00000, correspondiente al tramo II, Km. 130,78300 al Km. 141,00000", IX Región y se acordó el valor de indemnización con su propietaria Berónica Paredes Luengo, ascendente a la cantidad de $3.677.455.-
+
+Fiscal del Ministerio de Obras Públicas.
