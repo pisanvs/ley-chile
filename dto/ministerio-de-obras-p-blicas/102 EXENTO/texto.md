@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 102, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 4-9, superficie 35,3105 m2, rol de avalúo 3392-9, comuna de Punta Arenas, para la obra "Habilitación Costanera Estrecho de Magallanes I, Sector Chañarcillo - Manantiales, Tramo Km. 1,97992 al 3,30000" y se acordó el valor de indemnización con su propietario Luis Armando Soto Cárdenas, ascendente a la cantidad de $1.039.649.-
+
+Fiscal del Ministerio de Obras Públicas.
