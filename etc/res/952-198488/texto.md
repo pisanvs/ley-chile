@@ -1,0 +1,3 @@
+Por resolución Nº 952 de 16 de mayo de 2002 de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.011 de 1994, de esta Subsecretaría, que autorizó a COMPAÑIA PESQUERA CAMANCHACA S.A., para operar la nave "Tomé", ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y del memorándum de la División de Desarrollo Pesquero de esta Subsecretaría.
+
+Valparaíso, 16 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
