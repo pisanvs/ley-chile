@@ -1,0 +1,5 @@
+DETERMINA DERECHOS APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 339 de 27 de Marzo de 1985, conforme art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado de los predios "Hijuela Primera o San Pedro", "Hijuela Segunda o María Luisa, compuesta de los retazos sur y norte y pare de la hacienda Cerrillos Pobres" y "Parte de la estancia del fundo Cerrillos Pobres", de la comuna de Ovalle, IV Región; y derechos aprovechamiento de aguas que corresponden a las parcela No. 1 a la 26, sitios No. I al 7 y reserva CORA No. 2 y 3 del Proyecto de Parcelación "El Progreso" formado por predios señalados. Los derechos de agua se extraen del Embalse de Recoleta. Publicación hecha conforme art. 13 Ley 18.777.-
+
+Director Ejecutivo.
