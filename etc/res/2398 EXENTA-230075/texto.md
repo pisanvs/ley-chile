@@ -1,0 +1,5 @@
+Por resolución Nº 2.398 exenta, de 27 de agosto de 2004, de esta Subsecretaría, modifícase la resolución Nº 2.199 de 2004, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2004-07 denominado "Evaluación del stock desovante de merluza del sur y merluza de cola en la zona sur austral, año 2004", en el sentido de reemplazar su numeral 4º, por el siguiente:
+
+"4.- La pesca de investigación se realizará en el área marítima comprendida entre las latitudes 43°30' L.S. y 47°00' L.S., por fuera del área de reserva artesanal y en el área comprendida entre Cabo Quilán (43°16,6' L.S. y 74°24,6' L.O.) en la Isla Grande de Chiloé y el Islote Occidental de la Isla Menchuam (45°37,7' L.S. y 74°56,8' L.O.), entre los paralelos 43°44'17" L.S. y 45°37,7' L.S."
+
+Valparaíso, 27 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
