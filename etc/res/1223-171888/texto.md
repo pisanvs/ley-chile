@@ -1,0 +1,3 @@
+Por resolución Nº1.223, de 27 de junio de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº96104036, presentada por JUAN PEDRO MIRANDA VELASQUEZ, para instalar y operar el centro de cultivo ubicado en estero Chope, isla Puluqui, comuna de Calbuco, provincia de Llanquihue, X Región, según lo dispuesto en el artículo 78, inciso 2º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
