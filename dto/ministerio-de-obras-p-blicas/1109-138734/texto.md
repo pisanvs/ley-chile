@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.109, de 30 de abril de 1999, se expropiaron los lotes de terreno No. s 79, 82, 83, 90, 91 y 94, superficies 174; 165,95; 170,40; 560; 244,70 y 220 M2, respectivamente, roles de avalúo 460-27, 460-24, 460-17 y S/R, comuna de Vicuña, para la obra Embalse Puclaro Sector Gualliguaica IV Etapa y se acordó precio de indemnización con sus propietarios Oriana Rojas Flores, Juan Díaz Flores, Carmen Cox Zamora, Carlos Cáceres Flores, Luis Flores y Ana Urrutia Urrutia, ascendentes a la cantidad de $ 4.697.189; $ 592.434; $ 4.528.493; $ 9.275.160; $ 7.949.610 y $ 4.488.253.-
+
+Fiscal del Ministerio de Obras Públicas.
