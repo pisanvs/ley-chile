@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.111, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s.2, 18, 19, 76, 77 y 81, superficies 1.955; 873; 1.101; 1.243; 3.352 y 468,50 m2., respectivamente, roles de avalúos 3283-35, 3357-1 y 3361-1, comuna de Temuco, obra Camino Mejoramiento Ruta S-269, Padre Las Casas Niágara y se acordó precio de indemnización con sus propietarios Alfredo Silva Silva, Fernando Kuscher Toledo y Javier Espinoza Ulloa, ascendente a las cantidades de $ 1.511.055, lote 2; $ 2.149.696, lotes 18 y 19 y $ 3.049.453, lotes 76, 77 y 81.
+
+- Fiscal del Ministerio de Obras Públicas.
