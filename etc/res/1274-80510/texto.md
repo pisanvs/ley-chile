@@ -1,0 +1,13 @@
+Por resolución No. 1.274 de 05 de Septiembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a BCA COMERCIAL LTDA. RUT No.
+
+79.960.480-9, domiciliada en Santiago para iniciar actividades pesqueras de transformación, en orden a operar una planta industrial, ubicada en la V Región, calle Gregorio Mira No. 180, Comuna de San Antonio, donde procesará en las líneas de fresco, congelado, ahumado, seco, seco - salado, cocido - congelado y cocido - seco, los siguientes recursos hidrobiológicos: Fresco: Albacora o pez espada, congrio colorado, congrio dorado, congrio negro, corvina, lenguado de ojo chico, lenguado de ojo grande, róbalo, salmón Atlántico, trucha arco iris, erizo. Congelado: Albacora o pez espada, anguila, anchoa/anchoveta, bacalao de profundidad, cojinoba del norte, cojinoba del sur, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado ojo chico, lenguado ojo grande, merluza común, merluza del sur, merluza de cola, caballa, pejegallo, róbalo, salmón Atlántico, trucha arco iris, pejerrey de mar, tollo, pulpo, calamar, camarón anilon, langostino amarillo, erizo, jaiba, cabilla española, sardina, bonito, agujilla, tiburón. Ahumado: Albacora, bacalao de profundidad, congrio colorado, congrio dorado, congrio negro, corvina, merluza del sur, pejegallo, salmón Atlántico, trucha arco iris, tollo, pulpo, calamar, cabrilla, sardina. Seco: Pejerrey de mar, calamar, erizo, agujilla. Seco salado: anchoveta, cojinoba del norte. Cocido congelado: Anchoa o anchoveta, pulpo, jaiba. Cocido seco: Anchoa/anchoveta, jurel y caballa.
+
+Deberá adquirir los recursos salmonídeos de centros de cultivo autorizados.
+
+La interesada para elaborar los recursos, Langostino amarillo y Erizo, deberá acreditar su procedencia de zonas no afectas a restricción mediante Guía de Libre Tránsito otorgadas por el Servicio Nacional de Pesca, de conformidad a los DS No. 208, de 1991 y No. 421, de 1989, prorrogado con el DS No. 442, de 1990, respectivamente, todos del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase el procesamiento de las especies no autorizadas en el texto de la presente resolución, en virtud de las disposiciones legales y reglamentarias citadas en los Vistos.
+
+Valparaíso, 05 de Septiembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca, Subrogante.
