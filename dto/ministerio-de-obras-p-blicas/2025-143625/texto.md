@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.025, de 30 de julio de 1999, se expropió el lote de terreno No. 475-B, superficie 477,0 m2., rol de avalúo 554-312, comuna de Paillaco, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Décima Región y se acordó el valor de indemnización con su propietario Herodes Villalón Jaramillo, ascendente a la cantidad de $ 1.148.218.-
+
+Fiscal del Ministerio de Obras Públicas.
