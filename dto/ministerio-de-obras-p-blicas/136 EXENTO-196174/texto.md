@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 136, de fecha 25 de febrero de 2002, se expropiaron los lotes de terreno Nºs. 50 y 51, superficies 346 m² y 343 m², rol de avalúo 546-57, comuna de Linares, VII Región, para la obra "Camino Ruta L-31, sector Polvorines - La Floresta, Tramo Km. 0,00000 al 15,48000" y se acordó el valor de indemnización con su propietario Arsenio Lagos Figueroa, ascendente a la cantidad de $1.448.994.
+
+- Fiscal del Ministerio de Obras Públicas.
