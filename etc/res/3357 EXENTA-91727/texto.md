@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA No. 3.357, DE 1988
+
+Por resolución exenta No. 3.357 de fecha 13 de diciembre de 1988, de la Subsecretaría de Educación Pública, se insertó en la resolución exenta de educación No. 157 de 1985 del Centro de Formación Técnica Escuela Americana de Traductores e Intérpretes EATRI, las adecuaciones introducidas a las carreras de: Traducción Inglés - Castellano, Traducción Francés - Castellano, Traducción Alemán - Castellano, Traducción Bilingüe Francés - Inglés - Castellano Traducción Bilingüe Inglés Alemán - Castellano, Interpretariado simultáneo Alemán Castellano - Interpretariado simultáneo Inglés - Castellano e Interpretando Francés - Castellano y se reemplazaron las normas de evaluación, promoción y titulación, las que podrán aplicarse a contar del año 1988.
+
+Santiago, 13 de Febrero de 1989.- Paulina Dittborn Cordua, Subsecretaria de Educación Pública.
