@@ -1,0 +1,3 @@
+Por resolución exenta Nº 595, de 26 de febrero de 2004, de esta Subsecretaría, autorízase a CORPESCA S.A. para ampliar actividades pesqueras extractivas con la nave "Livilcar", en el área marítima de la I y II Regiones, por fuera del área de reserva artesanal, con cerco, sobre el recurso hidrobiológico Jibia Dosidicus gigas.
+
+Valparaíso, 26 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
