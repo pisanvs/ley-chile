@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.880, de 31 de diciembre de 1998, se expropió el lote terreno Nº2, superficie 200 M2., rol de avalúo 357-5, comuna de Concepción, para la obra Mejoramiento Autopista Concepción Talcahuano Sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con sus propietarios Alejandro Iván Flores Guerrero y otros, ascendente a la cantidad de $28.004.844.-
+
+Fiscal del Ministerio de Obras Públicas.
