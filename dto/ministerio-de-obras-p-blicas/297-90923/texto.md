@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 297 de 14 de septiembre de 1989, se expropiaron los lotes N°s. 38, 51, 52, 53 y 54, superficies 270 m2., 306 m2., 306 m2., 303 m2. y 298 m2., roles de avalúo 2938-17, 3338-40, 3338-39, 3338-24 y 3338-25, respectivamente, Comuna de La Cisterna, para Avda. Américo Vespucio, sector Gran Avenida Ochagavía y se acordó precio de indemnización con sus propietarios, don Francisco Quintana Morales y Julia Figueroa Figueroa; doña Marianne Wagner Reichinger y don Heinz Lustig Schatz, ascendente a $ 6.336.000. para el lote 38; $ 14.300.000.- para los lotes 51 52 y 53 y $ 5.700.000. para el lote 54.
+
+Fiscal del Ministerio de Obras Públicas.
