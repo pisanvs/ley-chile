@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 677 de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 75, superficie 940 m2., rol de avalúo Nº 205-43, comuna de Coelemu, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al Km. 8,28000'', VIII Región y se acordó el valor de indemnización con su propietario Juan Aguayo Fuentealba, ascendente a la cantidad de $2.038.287.-
+
+Fiscal del Ministerio de Obras Públicas.
