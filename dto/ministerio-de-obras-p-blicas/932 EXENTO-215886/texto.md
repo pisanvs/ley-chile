@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 932 de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº 340, superficie 402 m², rol Nº 61-46, comuna de Palmilla, VI Región, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, tramo Km. 12,30000 a 26,00400", y se acordó el valor de indemnización con su propietario Claudio Andrés Plaza Lira, ascendente a la cantidad de $1.417.574.
+
+Fiscal del Ministerio de Obras Públicas.
