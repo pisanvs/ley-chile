@@ -1,0 +1,5 @@
+APRUEBA DISOLUCION DE COOPERATIVA DE VIVIENDA Y SERVICIOS HABITACIONALES PEDRO MONTT LIMITADA, DE PURRANQUE
+
+Mediante resoluciones del Ministerio de Economía, Fomento y Reconstrucción Nºs. 100 y 29, de fechas 27 de diciembre de 1999 y 27 de marzo de 2000, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales Pedro Montt Limitada, de Purranque que consta en la escritura pública suscrita con fecha 18 de agosto de 1998, ante doña Marianela Alarcón Valenzuela, Notario Interino de las comunas de Río Negro y Purranque y en la escritura pública suscrita con fecha 20 de octubre de 1999, ante don José Robinson Dolmestch Urra, Notario Titular de las comunas de Río Negro y Purranque.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
