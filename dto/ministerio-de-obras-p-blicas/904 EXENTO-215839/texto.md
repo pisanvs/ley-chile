@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 904 de fecha 29 de agosto de 2003, se expropiaron los lotes de terrenos Nº 141 y 142, superficies 437,00 m² y 430,00 m², rol de avalúo Nº 61-206, comuna de Lampa, para la obra "Camino Ruta G-184-182, Sector El Noviciado - Cruce Ruta G-16 (Lipangue), tramo de Km. 4,450 a Km. 15,04419", Región Metropolitana y se acordó el valor de la indemnización con su propietario Víctor Antonio Belmar Aguilera, ascendente a la cantidad de $3.468.922.
+
+Fiscal del Ministerio de Obras Públicas.
