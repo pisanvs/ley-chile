@@ -1,0 +1,3 @@
+Por decreto M.O. P. Nº284,de 16 de marzo de 1998, se rectificó la cláusula segunda de decreto M.O.P. Nº843, de 29 de agosto de 1998, que autorizó entre otro, la expropiación del lote Nº5 para la obra Proyecto Laja - Diguillín, Area de Riego Yungay, en la parte que se refiere a la ubicación de dicho lote, que corresponde al Canal Rinconada - Ramal Nºl -A, y no como ahí se indica.-
+
+Fiscal del Ministerio de Obras Públicas.
