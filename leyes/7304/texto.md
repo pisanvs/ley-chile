@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Río Bueno contratar empréstito hasta por $ 800,000, a fin de atender a la adquisición de un terreno y a la construcción de un edificio municipal; establece, para el servicio del empréstito, una contribución adicional de un 1% sobre el avalúo de los bienes raíces de la comuna.
