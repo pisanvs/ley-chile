@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 880 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento. Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predio "Fundo Hijuela Primera del Fundo El Tambo o Ensenada del Tambo" de la comuna de Malloa, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 12, sitios N°s. 2 al 17, del Proyecto de Parcelación "Santa Gemita", formado por predio señalado. Los Derechos de Agua se extraen de los canales La Capilla derivado del Estero Charquicán, La Ensenada, derivado del Estero Zamorano.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
