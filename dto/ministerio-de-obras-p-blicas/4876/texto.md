@@ -1,0 +1,3 @@
+Por decreto MOP 4.876, de 31 de octubre del 2000, se expropió el lote de terreno Nº134, superficie 1.250 m2., rol de avalúo 73-48, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietario Alvaro Segundo Muñoz Cortés, ascendente a la cantidad de $13.508.714.-
+
+Fiscal del Ministerio de Obras Públicas.
