@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICA
+
+Resolución 207, 18 Julio 1996, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en el Sector Los Lobos, correspondiente a parte del lote A-1 del Fundo Centinela, Rol de Avalúo N° 7019-3, comuna Talcahuano, superficie 254.548 m2. de terreno, compuesto de dos lotes, uno de 236.286 m2., y el otro de 18.262 m2., dentro polígono y linderos señalados plano expropiación S8R-11894 de aparente dominio de Sociedad Fundo Centinela Ltda., para ejecución programa de viviendas, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 1° de julio de 1996, fijó monto provisional indemnización en $432.731.600.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
