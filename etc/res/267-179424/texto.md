@@ -1,0 +1,5 @@
+DISPONEN EXPROPIACIONES TOTALES Y PARCIALES DE INMUEBLES QUE INDICAN
+
+Resolución 267, 24 Noviembre 2000, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle O'Higgins Nº 106, rol de valúo Nº 2581-001, comuna Chiguayante, superficie 3.864,20 m2. de terreno y 36,60 m2. de edificación, dentro polígonos y linderos señalados plano expropiación 2581-001; de aparente dominio de Silvia Elena Zavala Guzmán, para ejecución programa ''Mejoramiento Vial Eje O'Higgins de Chiguayante'', conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por don Pedro Tagle Martínez, arquitecto, don Aris Sergio Drápela Alvarez, ingeniero civil y don Luis Abarzúa Ceballos, constructor civil, según informe de fecha 19 de octubre de 2000, fijó monto provisional indemnización en $125.900.200.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
