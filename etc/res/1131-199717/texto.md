@@ -1,0 +1,3 @@
+Por resolución Nº 1.131, de 10 de junio de 2002, de esta Subsecretaría, autorízase a FOODCORP CHILE S.A. para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 499 de 2001 de esta Subsecretaría, en orden a incorporar a la planta ubicada en Pedro Aguirre Cerda Nº 995, Sector Lo Rojas, Coronel, VIII Región, en las líneas de proceso de Harina y Aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda, Vinciguerria y Merluza de tres aletas.
+
+Valparaíso, 10 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
