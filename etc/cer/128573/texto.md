@@ -1,0 +1,3 @@
+El Banco Central de Chile certifica, a requerimiento de la Dirección General del Territorio Marítimo y de Marina Mercante, para los efectos de lo dispuesto en la ley Nº 2.222 de Navegación, que la variación experimentada por el Indice de Precios al Consumidor de los Estados Unidos de América, entre el 1º de diciembre de 1997 y el 30 de noviembre de 1998, fue de 1,6%.
+
+Santiago, 16 de diciembre de 1998.- Miguel Angel Nacrur Gazali, Ministro de Fe.
