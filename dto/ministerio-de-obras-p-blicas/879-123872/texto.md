@@ -1,0 +1,3 @@
+Por decreto MOP No. 879, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s. 13 y 11-A, superficies 158 y 2.131 m2. respectivamente, rol de avalúo 46-36 y rol de avalúo en trámite, comuna de Teno, para la obra Camino Ruta J-30-I, Sector Cuesta El Peral Teno y se acordó precio de las indemnizaciones con su propietario José María García Aretio, ascendentes a las cantidades de $ 20.572.- para el lote No. 13 y en $ 392.627.- para el lote No. 11-A.
+
+Fiscal del Ministerio de Obras Públicas.
