@@ -1,0 +1,3 @@
+Por resolución Nº 616, de 28 de febrero de 2003, de esta Subsecretaría, recházase la solicitud de autorización para efectuar actividades experimentales de capacitación en el cultivo de ostión del norte en un sector ubicado en caleta Río Seco, I Región, presentada por Sindicato de Trabajadores Independientes de Buzos Mariscadores Ayudantes de Caleta RIo Seco.
+
+Valparaíso, 28 de febrero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
