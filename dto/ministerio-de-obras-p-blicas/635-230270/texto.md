@@ -1,0 +1,3 @@
+Por decreto MOP Nº 635 de fecha 29 de julio de 2004, se expropió el lote de terreno Nº 1, superficie 7.583 m2, Rol de avalúo Nº 1502-102, comuna de Los Angeles, para la obra "Camino Ruta 5 - Vialidad Complementaria, sector Calle de Servicio Huaqui Oriente, Tramo Km. 497,90000 a Km. 498,80000", VIII Región y se acordó el valor de la indemnización con su propietario Johannes G. Eiberger Brenner, ascendente a la cantidad de $22.446.619.-
+
+Fiscal del Ministerio de Obras Públicas.
