@@ -3676,6 +3676,8 @@ En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 de
 
 8.° A los que fraudulentamente obtuvieren del Fisco, de las municipalidades, de las Cajas de Previsión y de las instituciones centralizadas o descentralizadas del Estado, prestaciones improcedentes, tales como remuneraciones, bonificaciones, subsidios, pensiones, jubilaciones, asignaciones, devoluciones o imputaciones indebidas.
 
+9.° Al que, con ánimo de defraudar, con o sin representación de persona natural o jurídica dedicada al rubro inmobiliario o de la construcción, suscribiere o hiciere suscribir contrato de promesa de compraventa de inmueble dedicado a la vivienda, local comercial u oficina, sin cumplir con las exigencias establecidas por el artículo 138 bis de la Ley General de Urbanismo y Construcciones, siempre que se produzca un perjuicio patrimonial para el promitente comprador.
+
 #### Artículo 471
 
 Será castigado con presidio o relegación menores en sus grados mínimos o multa de once a veinte unidades tributarias mensuales:
