@@ -1,0 +1,3 @@
+Por Resolución Nº 1.656, de 2 de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución Nº 311, de 1985, de esta Subsecretaría, que autorizó a don JUAN AGUSTIN NEIRA ALTAMIRANO, para desarrollar actividades pesqueras extractivas con la nave "Calypso II", en lo relativo a las especies, Anchoveta, Congrio colorado, Congrio dorado, Congrio negro, Jurel, Sardina común y Sardina española, por haberse configurado, la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 2 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
