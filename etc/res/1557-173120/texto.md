@@ -1,0 +1,3 @@
+Por resolución Nº1.557, de 17 de julio de 2000, deniégase la solicitud de autorización de acuicultura Nº99110086, presentada por PEDRO JAIME BARRIA PEREZ, para operar un centro de cultivo en Lago Caro, Comuna y Provincia de Coyhaique, XI Región, conforme lo dispuesto en el artículo 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
