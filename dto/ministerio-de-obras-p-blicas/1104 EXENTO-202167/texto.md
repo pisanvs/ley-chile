@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.104, de fecha 30 de julio de 2002, se expropiaron los lotes de terreno Nos 91, 91-A y 92, superficie 54, 199 y 114 m² respectivamente, rol Nº 509-13, comuna de Longaví, VII Región para la obra ''Camino Ruta L-49, Cruce Long.-Mesamávida, Sector: Cruce Longitudinal-San Luis, Tramo Km. 0,000.00 a Km. 13,841.12'' y se acordó el valor de indemnización con su propietario Jaime Antonio Araya Yáñez, ascendente a la cantidad de $1.193.530.-
+
+Fiscal del Ministerio de Obras Públicas.
