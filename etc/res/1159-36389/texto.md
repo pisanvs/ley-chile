@@ -1,0 +1,5 @@
+Por Resolución N° 1.159 de 7 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ELABORADORA DE PRODUCTOS DEL MAR LTDA., R.U.T. N° 78.479.390-7, para iniciar actividades pesqueras, en orden a operar una planta ubicada en Ernesto Campusano N° 30, Coquimbo, donde podrá procesar, en las líneas de elaboración que se indica, los siguientes recursos hidrobiológicos: Conserva: Caracol rubio, Caracol tegula, Chitón espinoso, Chocha, Culengue, Jibia, Lapa, Macha, Navajuela, Navaja de mar o Huepo, Tumbao. Congelado: Besugo, Pulpo, Langostino amarillo, Caracol rubio, Caracol tegula, Caracol trumulco.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 7 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
