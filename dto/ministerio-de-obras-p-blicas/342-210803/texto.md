@@ -1,0 +1,3 @@
+Por decreto MOP Nº 342, de fecha 31 de marzo de 2003, se autorizó Servidumbre de Acueducto relativo al lote de terreno Nº 1, superficie 2.583 m2, Rol de avalúo Nº 1165-5, comuna de Maipú, para el proyecto: "Estudio Complementario de Evacuación de Aguas Lluvias Anteproyecto Básico Sistema 3 Poniente", de la obra "Colector 3 Poniente, Tramo Nueva San Martín - Zanjón de la Aguada, Km. 1,953 al Km. 2,2053, Región Metropolitana, y se acordó el valor de indemnización con su propietario Alvaro Rafael Ignacio Prieto Moreno, ascendente a la cantidad de $25.002.616.
+
+Fiscal del Ministerio de Obras Públicas.
