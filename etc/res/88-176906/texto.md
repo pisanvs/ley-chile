@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 88, de 20 de septiembre del año 2000, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales ''Villa Cristal'' Limitada, que consta en la escritura pública de fecha 10 de julio del año 2000, ante el Notario Público de Santiago, doña Gladys E. Pizarro Pizarro.- Por orden del señor Subsecretario.-
+
+Carlos Rubio Estay, Jefe Departamento de Cooperativas.
