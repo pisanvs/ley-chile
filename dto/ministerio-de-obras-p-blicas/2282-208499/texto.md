@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.282, de 31 de diciembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 84 para la obra:
+
+"Sistema Norte - Sur. Tramo F: Carlos Valdovinos - Río Mapocho. Km. 2.700,00 a Km. 2.940,00", Región Metropolitana, que figura a nombre de Chávez Venegas Juan de D. Suc., rol de avalúo 2014-16, comuna de Quinta Normal, superficie 352 m2. La comisión de peritos integrada por los señores Mufida Viola Abuawad Elias, Ricardo Antonio Strickler Arellano y Roberto Carlos Muñoz Ordenes, fijó con fecha 22 de noviembre de 2002, el valor provisional de la indemnización en la cantidad de $21.797.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
