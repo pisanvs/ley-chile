@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 519, de 31 de julio de 1996, se expropiaron los lotes de terreno N°s. 38, 39, 40, 41, 42 y 43, superficies 20.538 m2., 62.970 m2., 45.897 m2,11.404 m2., 900 m2. y 6.862 m2., respectivamente, roles avalúo 334-437, 334-439, 334-441, 334-21 y 334- 436, comuna de Peñaflor, para la obra Camino Autopista Santiago-San Antonio, sector Empalme I. Riquelme - Bif. Malloco, y se acordó el valor de indemnización con sus propietarios Regina Tagle Errázuriz, Carlos A. Tagle Errázuriz, José Manuel Tagle Errázuriz y José Manuel Tagle Valdés, ascendente a las cantidades de $84.330.959, $231.396.491, $172.728.833, $64.639.673, $5.303.140, y $56.635.043.
+
+- Fiscal del Ministerio de Obras Públicas.
