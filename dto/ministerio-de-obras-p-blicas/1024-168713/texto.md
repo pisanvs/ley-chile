@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.024, de 30 de marzo de 2000, se expropió el lote de terreno Nº 9, rol de avalúo 3198-84, superficie 12 M2., comuna de Chillán, Obra Camino Ruta N-545 Chillán Tanilvoro, sector Chillán-Universidad Adventista y se acordó precio de indemnización con su propietaria Luisa de las Mercedes Henríquez Cerda, ascendente a la cantidad de $129.369.
+
+Fiscal del Ministerio de Obras Públicas.
