@@ -1,0 +1,3 @@
+Por resolución No. 5 del 16 de Noviembre de 1989, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se autoriza a don Joaquín Muñoz Yávar, para trasladar la ubicación de la Planta Revisora, Clase "A" desde 21 de Mayo No. 505 de la ciudad de Santa Cruz, a Pacífico Marín s/n. Paniahue, de la misma comuna.
+
+Hernando Silva Soto, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
