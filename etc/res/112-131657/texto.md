@@ -1,0 +1,7 @@
+Por resolución Nº 112, de esta Subsecretaría, autorízase a OSVALDO JULIO RODOLFO CUADRADO KAISER, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en el Sector Costero al Sur de Iquique, Km. 11, denominado ''Colorado Chico'', Comuna y Provincia de Iquique, I Región, donde podrá procesar en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Fresco-Refrigerado: Erizo, Ostión del norte, Caracol locate, Almeja o taca, Culengue, Pulpo, Piure, Cholga, Choro, Pejerrey de mar, Reineta, Albacora o pez espada, Abalón, Hirame, Cojinoba del norte, Pejeperro, Cabrilla común, Loco, Macha, Bonito, Jurel, Caballa, Anchoveta, Sardina española, Marrajo o tiburón, Lenguado de ojos chicos, Bacalao de profundidad, Centollón, Lapa, Ostra del Pacífico, Jaiba reina, Pepino de mar, Salmón del Atlántico, Trucha arcoiris o Cabeza de acero, Merluza común, Langosta de J. Fernández, Langostino colorado, Camarón nailon, Gamba, Raya, Acha, Palometa, Rollizo, Calamar, Jibia, Congrio dorado y Azulejo. Los recursos Salmón del Atlántico, Ostión del norte, Ostra del Pacífico y Trucha arcoiris o Cabeza de acero, deberán provenir de centros de cultivo autorizados.
+
+El recurso Langostino colorado deberá provenir de agentes autorizados por permiso extraordinario de la Subsecretaría de Pesca.
+
+Déjase sin efecto la resolución Nº 1.650, de 1998, de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 21 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
