@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 2.498, de 30 de noviembre de 1998, se expropió el lote de terreno Nº 14, superficie 5.134 m2, rol de avalúo 21-114, comuna de Río Claro, para la obra Camino Los Robles-Huencuecho Bajo Perquín, sector Los Robles Huencuecho, y se acordó precio de indemnización con su propietario Luis Gilberto Osorio Suárez, ascendentes a la cantidad de $ 1.828.844.
+
+- Fiscal del Ministerio de Obras Públicas.
