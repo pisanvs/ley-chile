@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 203, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs 18-A y 21-A, superficies 543 m² y 154 m², roles de avalúo 608-78 y sin rol, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Quintiliano Reyes Gómez y Ana del Carmen Montecinos Mella y Armandina Montecinos Mella, ascendente a las cantidades de $108.600.- y $24.640.-.
+
+Fiscal del Ministerio de Obras Públicas.
