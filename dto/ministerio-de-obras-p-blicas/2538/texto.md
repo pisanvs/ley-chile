@@ -1,0 +1,3 @@
+Por decreto M.O.P Nº 2.538, de 30 de noviembre de 1998, se expropiaron los lotes de terreno Nºs 4-B y 8-A, superficies 570 M2 y 170, roles de avalúos 1369-7 y 1367-94, comuna de San Carlos, Obra Camino Ruta N-31, sector Tres Esquinas-Bifurcación El Palo y se acordó precio de indemnización con sus propietarios María Rodríguez Montes y Teodorina Mercado Hernández, ascendente a las cantidades de $ 360.229 y $ 471.037.
+
+- Fiscal del Ministerio de Obras Públicas.
