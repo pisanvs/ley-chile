@@ -1,0 +1,3 @@
+Por Resolución N° 322, de 25 de Marzo de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a INTERCOMERCIAL SAMA S.A., R.U.T. N° 79.522.680-K, para continuar desarrollando, en calidad de sucesora legal, las actividades pesqueras autorizadas por esta Subsecretaría a Intercomercial Sama Ltda., mismo R.U.T. y domicilio anterior, en virtud de la escritura pública y disposiciones legales señaladas en Visto.
+
+Valparaíso, 25 de Marzo de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
