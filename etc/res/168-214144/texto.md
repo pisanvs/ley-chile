@@ -1,0 +1,3 @@
+Resolución 168, 28 julio 2003, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Obispo San Miguel Nº 1700, La Rivera, Rol de Avalúo Nº 2732-1, comuna Chiguayante, superficie 291,60 m² de terreno, dentro polígono y linderos señalados plano expropiación S8R-2732-1; de aparente dominio de Rosa Ester Alcaide Espinoza, para ejecución programa de viviendas en comuna de Chiguayante, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Eduardo Cerda Ureta, arquitecto, Juan Andrés Tepper Lavanderos, ingeniero agrónomo, y Omar Andrés Aspe Neira, constructor civil, según informe de fecha 7 de junio de 2001, fijó monto provisional indemnización en $7.722.508.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
