@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.758, de 28 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 4-A y 6-A, para la obra: Concesión Internacional Ruta 5, Tramo: Los Vilos-La Serena, Sector A: Bif.
+
+Illapel-Hornillos Km. 229.100 al Km. 325.540; Cuarta Región, que figuran a nombre de Matte Ossa Eliodoro, rol de avalúo 247-2, comuna de Los Vilos, superficies de 580 m² y 456 m² respectivamente. La comisión de peritos integrada por los señores Inés Elena Otárola Castillo, María Angélica Hurtado Arranz y Andrés Echeverría Campo fijó con fecha 7 de julio de 2000, el valor provisional de la indemnización en las cantidades de $179.800.- para el lote Nº4-A y $123.120.- para el lote Nº6-A.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
