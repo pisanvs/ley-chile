@@ -1,0 +1,3 @@
+Por Resolución N° 395, de 1° de Junio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SALMONES PACIFIC STAR LIMITADA, R.U.T. N° 79.559.220-2, para continuar desarrollando las actividades pesqueras autorizadas mediante las Resoluciones vigentes otorgadas a Pacific Star S.A., R.U.T. N° 79.559.220-2, en virtud de la Escritura Pública de 4 de Febrero de 1993, otorgada ante la Quinta Notaría de Santiago, que transformó a Pacific Star S.A., en Salmones Pacific Star Limitada.
+
+Valparaíso, 1° de Junio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
