@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.049, de 31 de agosto del 2000, se expropió el lote de terreno Nº13-C, superficie 52,50 m², rol de avalúo 1103-40, comuna de Pichidegua, para la obra Camino Pichidegua-Marchigüe, Sector Marchigüe-La Esperanza, Km. 43.600 a Km. 69.237,91 y se acordó precio de la indemnización con su propietario Jaime Sebastián Salas Herrera, ascendente a la cantidad de $485.730.
+
+Fiscal del Ministerio de Obras Públicas.
