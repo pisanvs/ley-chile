@@ -1616,21 +1616,21 @@ Si el banco cumple con verificar la identidad de la persona que presenta el cheq
 
 Conviene tener presente, además, que según el artículo 31 antes mencionado, la institución bancaria carece de facultades para exigir que se le compruebe la autenticidad de las endosos y, por lo tanto, no puede negar el pago por esa razón; pero debe negarlo siempre que no exista continuidad en los endosos hasta llegar al último de ellos, el que debe estar a nombre del portador o en blanco.
 
-7.3. Formalidades del endoso en comisión de cobranza.
+7.3. Endoso de cheques nominativos.
 
-El artículo 29 de la Ley N° 18.092 expresa que la cláusula "valor en cobro" u otra equivalente, agregada al endoso lo transforma en una simple comisión de cobranza.
+La Ley sobre Cuentas Corrientes Bancarias y Cheques permite que los cheques extendidos en forma nominativa puedan ser endosados a un banco en comisión de cobranza. Como la existencia de la cuenta corriente hace presumir que el endoso practicado en el cheque nominativo tiene por objeto la cobranza de éste, el referido endoso puede hacerse con la cláusula valor en cobro, con la sola indicación de que es para depositar en cuenta corriente, con el solo número de la cuenta corriente o con la sola firma del endosante, de su mandatario o de su representante legal.
 
-Como puede apreciarse, la ley no exige que se use una fórmula determinada para indicar que el endoso se ha dado en comisión de cobranza, ya que alude a la cláusula "valor en cobro" u otra equivalente. Por lo tanto, no existe inconveniente para anteponer a la firma, con ese objeto, otras expresiones tales como: "Para depositar en mi cuenta corriente" o "Páguese al Banco ... X.X .... ,para depositar en mi cuenta corriente".
-
-No es aceptable, en cambio, de acuerdo con lo dispuesto en el artículo 14 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, que un cheque nominativo sea recibido por un banco con un simple endoso en blanco, ya que dicho endoso, conforme al artículo 21 de la Ley N° 18.092, es traslaticio de dominio. Tampoco basta el simple número de la cuenta corriente o el nombre del titular de la cuenta y la firma, por cuanto no son cláusulas que indiquen voluntad de encomendar la cobranza, sino meras indicaciones que acompañan un endoso en blanco.
+Ahora bien, como esa presunción no resulta igualmente clara cuando una persona encomienda el cobro de un cheque nominativo a un banco en que no mantenga cuenta, en ese caso deberá exigírsele que el beneficiario endose con la cláusula valor en cobro u otra equivalente.
 
 7.4. Responsabilidad de los bancos en el endoso de un cheque nominativo.
 
 Al banco encargado de la cobranza le corresponde comprobar que quien endosa un cheque nominativo es el beneficiario del cheque y debe cuidar de no recibir documentos que no pertenezcan al cuentacorrentista, salvo que este demuestre ser mandatario del beneficiario del cheque y estar autorizado para percibir o para depositar en su propia cuenta tales documentos.
 
-El banco librado, en cambio, sólo debe cuidar, en lo que concierne al endoso, que este lo sea en comisión de cobranza y que quien presente a cobro el cheque sea un banco para dar así cumplimiento al artículo 14 de la Ley sobre Cuentas Corrientes Bancarias y Cheques.
+El banco librado, en cambio, sólo debe cuidar que el documento se encuentre endosado al banco que lo presenta a cobro, para dar cumplimiento al artículo 14 de la Ley sobre Cuentas Corrientes Bancarias y Cheques.
 
-En consecuencia, el banco librado no puede negarse a pagar, por motivos de endoso, un cheque nominativo que le es presentado a cobro por otro banco, debidamente endosado en cobranza a su favor, y no podrá condicionar el pago a que se le indique el nombre del depositante o el número de la cuenta, que no constituyen requisitos del endoso. Si algún reclamo se suscita por tratarse de una persona distinta del beneficiario del cheque, será responsable el banco que lo admitió en depósito y que se hizo responsable del endoso. Naturalmente, si la reclamación la dirige el girador en contra del banco librado, éste podrá obtener del banco cobrador todos los antecedentes necesarios para establecer si ha existido culpa de dicho banco o procedimientos dolosos de terceros.
+En consecuencia, el banco librado no puede negarse a pagar un cheque nominativo que le sea presentado a cobro por otro banco, en razón del endoso que contenga. Si algún reclamo se suscita por tratarse de una persona distinta del beneficiario del cheque, será responsable el banco que lo admitió en depósito y que se hizo responsable del endoso. Naturalmente, si la reclamación la dirige el girador en contra del banco librado, éste podrá obtener del banco cobrador todos los antecedentes necesarios para establecer si ha existido culpa de dicho banco o procedimientos dolosos de terceros.".
+
+En consecuencia, se remplazan las hojas N°s 24 y 25 del Capítulo 2-2 ya mencionado, por las que se adjuntan a la presente Circular.
 
 7.5. Endoso de cheques por personas jurídicas.
 
