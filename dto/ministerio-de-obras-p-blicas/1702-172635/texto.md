@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.702, de 28 de abril del 2000, se expropió el lote de terreno Nº32-A, superficie 459 m2, rol de avalúo 220-10, comuna de Yumbel, para la obra Camino Ruta O-60, sector Monteaguila - Yumbel Kms. 6.639 al 17.531,11 y se acordó precio de la indemnización con su propietaria Mirta del Carmen Hernández Milan, ascendente a la cantidad de $190.139.
+
+Fiscal del Ministerio de Obras Públicas.
