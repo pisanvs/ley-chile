@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.470 de 28 de septiembre de 2001, se expropiaron los lotes de terrenos Nºs 72-A y 72-B, superficies 284 y 251 m2., respectivamente, rol de avalúo 277-34, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo-Casablanca (Ruta F-90) Tramo Km. 0.000,00 al Km. 32.100,00, Quinta Región se acordó el valor de las indemnizaciones con su propietaria Graciela del Carmen Cavieres Carvajal, ascendente a la cantidad de $3.441.933.
+
+- Fiscal del Ministerio de Obras Públicas.
