@@ -1,0 +1,5 @@
+Por Resolución No. 1.109, de 02 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a PESQUERA OCEANICA LTDA., R.U.T. No. 82.957.700-3, domiciliada en Torre Santa María Piso 14°, Los Conquistadores No. 1700, Piso 14°, Santiago, para ampliar actividades pesqueras de transformación, autorizadas por Resolución No. 81, de 1984, de esta Subsecretaría, en orden a instalar y operar la planta industrial con una capacidad para procesar de 70 toneladas hora de materia prima, para la elaboración de harina y aceite de pescado, ubicada en Avda. Las Industrias esquina Calle 2, Barrio Industrial Norte Caldera, en la cual procesará los siguientes recursos hidrobiológicos: Anchoa o anchoveta, Agujilla, Caballa, Cabinza, Jurel, Sardina común y Sardina.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 02 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
