@@ -1,0 +1,5 @@
+Por decreto MOP Nº160, de 10 de marzo de 2003 , y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº6-2 para la obra:
+
+"SISTEMA NORTE - SUR. TRAMO D : RUTA 5 SUR - CARLOS VALDOVINOS. SECTOR : KM. 8.100,00 AL KM. 8.800,00", Región Metropolitana, que figura a nombre de DIAZ BEAS ROSA IVETTE, rol de avalúo 4505-18, comuna de San Bernardo, superficie 192 m2. La comisión de peritos integrada por los señores Gastón Alejandro Bravo Hurtado, Jesús Fernando Díaz Pasmiño y Jaime Rolando Jurgens Bittner, fijó con fecha 29 de noviembre de 2002, el valor provisional de la indemnización en la cantidad de $5.353.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
