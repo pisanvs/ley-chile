@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.033, de 29 de abril de 1999, se expropió el lote de terreno No. 15, superficie 569 m2., rol de avalúo 3983-253, comuna de Talca, para la obra Camino "Ruta 5 Tramo Talca-Chillán Calle de Servicio Sector Aeródromo", VII Región, y se acordó el valor de indemnización con su propietaria Emilia Escobar Palma ascendente a la cantidad de $ 1.869.342.-
+
+Fiscal del Ministerio de Obras Públicas.
