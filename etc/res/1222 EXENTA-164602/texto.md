@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 1.222 de 26 de Septiembre de 1985, conforme Art. 5° Transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden al sector expropiado predio "Resto del Fundo Hijuela Número Dos El Crucero del Fundo Santa Sara" de la comuna de San Carlos, VIII Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 9 y sitio N° 1 del proyecto de parcelación "El Crucero" formado por el predio señalado. Los Derechos de agua se extraen del canal Santa Sara derivado del Río Nuble.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
