@@ -1,0 +1,3 @@
+Por Resolución Nº 1.011 de 11 de julio de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94110087, presentada por Salmones Antartica S.A., para un centro de cultivo ubicado en Ensenada Acantilada, comuna de Aysén, provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
