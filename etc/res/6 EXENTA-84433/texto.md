@@ -1,0 +1,3 @@
+Por resolución exenta No. 6 del 27 de Febrero de 1990, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones IV Región, se autoriza a la Sociedad José Vuletin y Compañía Limitada para trasladar la ubicación de la Planta Revisora de la Clase "A" desde Panamericana Norte sin número de la Comuna de Los Vilos a calle Santa Rosa No. 643, de la misma Comuna.-
+
+Jorge Vargas Borcosky, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV Región de Coquimbo.
