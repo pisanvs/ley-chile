@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº30, de 31 de enero de 2001, se expropió el lote de terreno Nº28, superficie 211 m2., rol de avalúo 619-37, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo Santiago-Talca. Sector N, Séptima Región y se acordó el valor de indemnización con su propietario Raúl Plácido Brito Marchant, ascendente a la cantidad de $844.939.
+
+- Fiscal del Ministerio de Obras Públicas.
