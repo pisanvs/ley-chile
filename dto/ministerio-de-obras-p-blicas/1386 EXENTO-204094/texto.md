@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.386 de fecha 30 de septiembre de 2002, se expropiaron los lotes de terreno Nºs 3-B y 4-B, superficies 134 y 252m2 respectivamente, sin rol, comuna de Vallenar, III Región, para la obra ''Mejoramiento Ruta C-485, Sector El Algodón - Alto del Carmen y Ruta C-489, Acceso Alto del Carmen'' y se acordó el valor de indemnización con su propietario Finda del Carmen Ramírez, ascendente a la cantidad de $559.017.-
+
+Fiscal del Ministerio de Obras Públicas.
