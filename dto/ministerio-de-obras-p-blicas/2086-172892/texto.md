@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.086 de 29 de mayo de 2000, se expropiaron los lotes de terreno Nºs. 70, 74, 75 y 76, superficies 165, 290, 178 y 198 m2, roles de avalúo 1011-12, 1012-6, 1008-2 y 1008-25, comuna de Puerto Natales, para la obra Habilitación y Construcción Regadío Huertos Familiares Puerto Natales II Etapa Complementarias y se acordó precio de la indemnización con sus propietarios Wenceslao Cárcamo Barría, Eladio Alvarez Zúñiga, Sigifredo Segundo Barrientos Vivar y Jorge Eris Díaz Bórquez, ascendentes a las cantidades de $238.392, lote Nº70; $478.848, lote Nº74; $110.218, lote Nº75 y $122.602, lote Nº76.
+
+Fiscal del Ministerio de Obras Públicas.
