@@ -1,0 +1,3 @@
+Por resolución Nº 780, de 22 de abril de 2002, de esta Subsecretaría, autorízase a ENRIQUE HORACIO CABRERA SILVA, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 725 de 1994, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida 21 de Mayo S/N, Pargua, Calbuco, X Región, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Cocido: Ostra del Pacífico; Fresco-enfriado, Fresco-refrigerado y Congelado: Turbot, Ostra del Pacífico, Abalón rojo y Abalón japonés; Conserva: Ostra del Pacífico, Abalón rojo y Abalón japonés; Deshidratado: Turbot, Abalón rojo y Abalón japonés.
+
+Valparaíso, 22 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
