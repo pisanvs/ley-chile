@@ -22620,7 +22620,7 @@ INFORMACION SOBRE DEUDORES DE LAS INSTITUCIONES FINANCIERAS.
 
 El artículo 14 de la Ley General de Bancos, establece que esta Superintendencia debe mantener una información permanente y refundida sobre los deudores de los bancos y sociedades financieras, para el uso de las instituciones sometidas a su fiscalización.
 
-Esta información incluye, además de la individualización de los deudores, el monto de la deuda que ellos mantienen con los bancos y sociedades financieras. La deuda comprende el conjunto de obligaciones reales y contingentes de un deudor, sea por su calidad de deudor directo o indirecto y se informan tanto sus obligaciones vigentes como las vencidas, manteniéndose también, durante un lapso de diez años, la información de las operaciones castigadas.
+Esta información incluye, además de la individualización de los deudores, el monto de la deuda que ellos mantienen con los bancos y sociedades financieras. La deuda comprende el conjunto de obligaciones reales y contingentes de un deudor, sea por su calidad de deudor directo o indirecto y se informan tanto sus obligaciones vigentes como las vencidas, manteniéndose también, durante un lapso de seis años, la información de las operaciones castigadas.
 
 ### 2. Entrega de la información sobre deudores
 
