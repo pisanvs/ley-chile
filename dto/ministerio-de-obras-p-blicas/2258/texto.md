@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.258, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 47-B y 49-A, superficies 72 y 204 m2., respectivamente, roles de avalúo en trámite y 251-2, comuna de Quinta de Tilcoco, para la obra Camino Quinta de Tilcoco-Cruce Ruta 66, sector Guacarhue y se acordó precio de indemnización con sus propietarios Osvaldo Fuenzalida Fuenzalida y Lucía Flores Cabeza, ascendentes a las cantidades de $ 1.144.917.- para el lote 47-B y $ 25.384.410.- para el lote 49-A.
+
+- Fiscal del Ministerio de Obras Públicas.
