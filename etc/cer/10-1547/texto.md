@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD LILIANA VENTURELLI E HIJOS LTDA. POR COMPRAS DURANTE PERIODO QUE SEÑALA
+
+Núm. 10.- Certifico que Sociedad Liliana Venturelli e Hijos Ltda., Rut N° 79.849.230-6, cumple los requisitos establecidos en la resolución N° Ex. 4.325 de 12.09.96 y, que en consecuencia, tiene la calidad de agente retenedor del Impuesto al Valor Agregado, por las compras de madera que efectúe durante el período comprendido entre la fecha de publicación de este certificado en el Diario Oficial y el 31 de octubre de 1997.
+
+Santiago, 29 de Octubre de 1996.- Luis Tapia Bustamante, Director Regional (S).
