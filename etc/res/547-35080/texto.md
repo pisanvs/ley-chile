@@ -1,0 +1,7 @@
+Por Resolución N° 547, de 21 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD INVERSIONES CALBUCO OBRADORS MOLINA E HIJOS LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Hijuela N° 19, Fundo El Bosque, a 17,5 Kilómetros de la ciudad de Calbuco y a 9,5 Kilómetros del cruce entre la Ruta 5 Panamericana Sur y la carretera de Calbuco, a una distancia de 210 metros de esta última, X Región, donde podrá procesar en las líneas de elaboración de Harina y Aceite de Pescado, los siguientes recursos hidrobiológicos: Jurel Trachurus murphyi y Sardina común Clupea bentincki.
+
+Asimismo, podrá utilizar como materia prima de las líneas de elaboración señaladas precedentemente los desechos provenientes de otras líneas de procesamiento de las especies Salmón del Atlántico Salmo salar, Salmón plateado Oncorhynchus kisutch y Trucha arcoiris Oncorhynchus mykiss.
+
+Déjase sin efecto la autorización contenida en la Resolución N°433, de 1991, y modificada por Resolución N° 666, de 1991, de esta Subsecretaría, en virtud de lo dispuesto en la presente Resolución.
+
+Valparaíso, 21 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
