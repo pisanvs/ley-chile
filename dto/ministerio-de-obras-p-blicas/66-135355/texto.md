@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 66, de 25 de marzo de 1988, se autorizaron los Convenios Ad-Referendum de Precio Definitivo con propietarios de los lotes 2, 3 y 4, doña Raquel González Balmaceda y otros, Domingo García-Huidobro González y otro y Juan García-Huidobro González y otra, expropiados por Decreto M.O.P. No. 64 de 14 de marzo de 1985, para la ejecución de la obra Camino Nuevo Acceso al Puerto de San Antonio, sector Bajada a Barrancas, ascendente a Ias cantidades de $ 3.540.706, $ 1.382.070 y $732.627.-
+
+Fiscal del Ministerio de Obras Públicas.
