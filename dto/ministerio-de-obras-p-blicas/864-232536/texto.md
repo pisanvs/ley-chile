@@ -1,0 +1,3 @@
+Por decreto MOP Nº 864 de fecha 30 de septiembre de 2004, se expropiaron los lotes de terreno Nº s 71 y 72, superficies 5.841,00 y 5.555,00 m2, rol Nº 62-1, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-16, sector Lampa-Polpaico, tramo Km.19,72359 a Km.34,51667" y se acordó el valor de indemnización con su propietario José Enrique Alvarez Paredes, ascendente a la cantidad de $27.160.617.
+
+- Fiscal del Ministerio de Obras Públicas.
