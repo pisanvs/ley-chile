@@ -1,0 +1,3 @@
+Por Resolución Nº 805, de 6 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95031026, presentada por MARIA INES PRADO LAGOS, para un centro de cultivo ubicado en Bahía Calderilla, Comuna de Caldera, Provincia de Copiapó, III Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 6 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
