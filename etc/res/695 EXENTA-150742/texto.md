@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 695 de 28 de Mayo de 1987 conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela A en que se dividió el Fundo Los Hornos de Colina" de la comuna de Colina, Región Metropolitana y derechos aprovechamiento aguas que corresponden a parcelas N°s. 1 a la 12, sitios N°s. 1 al 4 y Reserva CORA No. 1 del Proyecto de Parcelación "Santa Luisa", formado por predio señalado. Los derechos de agua se extraen del canal El Carmen, derivado del Río Maipo. - Publicación hecha conforme Art. 13 No. 18.377.-
+
+Director Ejecutivo.
