@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.042, de 30 de julio de 1999, se expropiaron los lotes de terrenos Nºs. 22 y 22-A, superficies 261 y 168 m², respectivamente, rol de avalúo 341-1, comuna de La Ligua, para la obra Ruta E-39, Sector Quinquimo - El Rayado y se acordó precio de indemnización con su propietario Rafael Chavarría Bórquez, ascendente a la cantidad de $1.467.414.-
+
+Fiscal del Ministerio de Obras Públicas.
