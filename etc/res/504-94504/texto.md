@@ -1,0 +1,3 @@
+Por resolución No. 504, de 17 de mayo 1989, SERVIU Metropolitano derogó resolución No. 1130 de 14.11.88 del mismo Servicio que ordenó expropiación conforme DL 2186 de 1978 de parte de inmueble ubicado en Avenida Irarrázaval 200 - 204 - 210 218 - 222 y 226, también signado por Avenida Bustamante 790 - 792 - 794 - 796 y 798 rol 950 - 46 de comuna de Ñuñoa de aparente dominio de don Pedro Maino Scappini y Otro.
+
+- Director SERVIU Metropolitano.
