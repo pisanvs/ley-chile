@@ -1,0 +1,3 @@
+Por decreto MOP Nº 788, de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 507, superficie 1.134 m², Rol Nº 32-46, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a 12,70000 y se acordó el valor de indemnización con su propietario Segundo Emeterio Pérez Osorio, ascendente a la cantidad de $3.942.897.
+
+Fiscal del Ministerio de Obras Públicas.
