@@ -1,0 +1,3 @@
+Por decreto MOP Nº 251, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº 58, superficie 43 m2, Rol de avalúo en trámite, comuna de San Vicente, para la obra "Mejoramiento Camino Ruta H-724, Sector La Gruta - Pueblo de Indios, Km. 0,000 a Km. 1,187 y Sector Ruta H-730, Km. 1,600 al Km. 3,292", VI Región, y se acordó el valor de la indemnización con su propietario Honorindo del Carmen Fuentes Figueroa, ascendente a la cantidad de $4.438.914.-
+
+Fiscal del Ministerio de Obras Públicas.
