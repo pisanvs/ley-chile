@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 642 de 30 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 109-A, 109-B y 109-C, para la obra: Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, Sector Km.
+
+55.438,97 - Km. 69.895,61; Km. 0.000,00 - Km. 3.927,45; Subtramo III, Km. 63.405 a Km. 3.100, que figuran a nombre Soc. Forestal M Agric. Sta. Ana L., rol de avalúo 261-27, comuna de Carahue, IX Región, superficies 706 m2; 898 m2 y 154 m2. La Comisión de Peritos, fijó con fecha 4 de septiembre de 2001, el monto de la indemnización provisional en la cantidad de $473.000.-, lote 109-A; $581.000.-, lote 109-B y $116.000.-, lote 109-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
