@@ -1,0 +1,3 @@
+Por Resolución N° 816 de 5 de Septiembre de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 695, de 1988, de esta Subsecretaría, que autorizó a don LUIS ARSENIO TORRES AGUILA, R.U.T. N° 6.482.561-5, para instalar un centro de cultivo en Estero de Quinchao, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 7° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de Septiembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
