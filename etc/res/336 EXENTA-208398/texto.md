@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 336 EXENTA, DE 2002
+
+Por resolución exenta Nº 336, de 4 de septiembre de 2002, se estableció que debía dejar de operar y prestar servicios a más tardar el 21 de septiembre de 2002, la Planta Revisora de la clase A0105 de la Comuna de Iquique, Región de Tarapacá, del concesionario Servicio Técnico del Norte Ltda. ubicada en Sotomayor 2131 Iquique y por lo considerado en la resolución Nº 23 del 27 de enero de 2003 se resolvió publicar extracto en el Diario Oficial la fecha efectiva a partir de la cual ha dejado de prestar servicios la Planta de Revisión Técnica, esto es, el día 23 de diciembre de 2002, con lo cual se entenderá por cumplida y totalmente tramitada la resolución exenta Nº 336, del año 2002 de esta Secretaría Regional.
+
+Anótese, notifíquese y publíquese en extracto. Iquique, 27 de enero de 2003.- Jorge Cáceres Godoy, Secretario Regional Ministerial de Transportes y Telecomunicaciones I Región Tarapacá.
