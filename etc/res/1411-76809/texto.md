@@ -1,0 +1,3 @@
+Por Resolución Nº 1.411, de 29 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 606, de 1990, de esta Subsecretaría, que autorizó a PESQUERA ISLA DEL REY S.A., para instalar y operar un centro de cultivo ubicado en Lincai, Punta Quechomó, Isla Lemuy, Canal Yal, comuna de Puqueldón, X Región, por haberse denegado la respectiva solicitud de concesión de acuicultura por Resolución exenta Nº 374, de 27 de junio de 1997, de la Subsecretaría de Marina.
+
+Valparaíso, 29 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
