@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 209, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs. 53, 55, 56, 57, 58 y 59, superficies 4.494 m2, 3.172 m2, 150 m2, 7.639 m2, 5.732 m2 y 66 m2, respectivamente, rol de avalúo 65-18, comuna de Lonquimay, IX Región, para la obra "Camino Malalcahuello - Paso Pino Hachado, Rutas R-891, R-955 y R-89, Sector Lonquimay - Acceso Pedregoso, Km. 119,30000 al 141,00000, correspondiente al Tramo II Km. 130,78300 al 141,0000" y se acordó el valor de indemnización con su propietario la Soc. Carmen Gabriela Brandstatter Stolzenbach y Compañía, ascendente a la cantidad de $5.593.293.-
+
+Fiscal del Ministerio de Obras Públicas.
