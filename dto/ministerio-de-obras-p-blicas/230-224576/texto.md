@@ -1,0 +1,3 @@
+Por decreto MOP N° 230 de fecha 26 de marzo de 2004, se expropió el lote de terreno N° 10, superficie 2.512 m², rol N° 245-127, comuna de Panguipulli, para la obra "Camino Ch-201, sector Carriringue-Liquiñe, tramo Km. 48.85000 a Km. 58.45495. (Acceso a Puentes)", X Región y se acordó el valor de la indemnización con su propietario Hugo Renato Calfuñanco Tripayante, ascendente a la cantidad de $8.034.966.-
+
+Fiscal del Ministerio de Obras Públicas.
