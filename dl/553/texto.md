@@ -1,0 +1,445 @@
+FIJA UBICACION EN LA ESCALA UNICA PARA EL PERSONAL DE LA EMPRESA DE TRANSPORTES COLECTIVOS DEL ESTADO
+
+Santiago, 1º de Julio de 1974.- Hoy se decretó lo que sigue:
+
+Núm. 553.- Vistos: lo dispuesto en el D.L. Nº 1, de 11 de Septiembre de 1973, y en el decreto ley Nº 249, de 31 de Diciembre de 1973, publicado en el Diario Oficial de 5 de Enero de 1974, la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1º
+
+Fíjase para los trabajadores de la Empresa de Transportes Colectivos del Estado, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1973, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado
+
+Nombre del cargo Escala Unica
+
+-------------------------------------------------------
+
+Planta Directiva Profesional y Técnica
+
+Gr 1° Director _______________________ 3
+
+Gr 2° Fiscal _________________________ 5
+
+Gr 2° Jefes de Departamentos _________ 4
+
+Gr 3° Jefes Sub-Depto. Finanzas ______ 6
+
+Gr 3° Jefe Sub-Depto. Legal __________ 6
+
+Gr 3° Jefe Sub-Depto. Eléctrico ______ 6
+
+Gr 3° Ingenieros _____________________ 6
+
+Gr 3° Jefe Sub-Depto. Mecánico _______ 7
+
+Gr 3° Secretario General _____________ 7
+
+Gr 3° Jefe Sub-Depto. Adquisiciones __ 6
+
+Gr 3° Jefe Sub-Depto. Personal _______ 7
+
+Gr 3° Administrador Zonal ____________ 6
+
+Gr 3° Auditor General ________________ 7
+
+Gr 3° Jefe de Racionalización ________ 6
+
+Gr 3° Jefes Sección __________________ 9
+
+Gr 3° Ingeniero de Tráfico ___________ 16
+
+Gr 4° Jefe de Maestranza _____________ 10
+
+Gr 4° Abogados _______________________ 8
+
+Gr 4° Contador Jefe (Subjefe Subdepto.) 11
+
+Gr 4° Analista de Computación ________ 13
+
+Gr 4° Subjefe de Racionalización _____ 9
+
+Gr 4° Jefe de Sección ________________ 11
+
+Gr 4° Jefes Técnicos _________________ 11
+
+Gr 4° Ingenieros de Dpto. Técnico ____ 8
+
+Gr 4° Jefe Sección Obras _____________ 10
+
+Gr 5° Jefes Sección __________________ 13
+
+Gr 5° Expertos en Seguridad __________ 19
+
+Gr 5° Administrador Público __________ 10
+
+Gr 5° Jefe de Relaciones Públicas ____ 13
+
+Gr 5° Abogados _______________________ 10
+
+Gr 5° Jefe Sección Máquina y Proc. ___ 13
+
+Gr 5° Jefe Oficina de Bienestar ______ 13
+
+Gr 5° Jefe Sección Diesel ____________ 11
+
+Gr 5° Jefe Sección Máquinas y
+
+Herramientas ___________________ 12
+
+Gr 5° Jefe Carrocería Montaje ________ 13
+
+Gr 5° Jefes 1° Garaje ________________ 14
+
+Gr 5° Jefe Oficina Proyecto y Dibujo _ 14
+
+Gr 6° Jefe Taller Obras Especiales ___ 13
+
+Gr 6° Técnicos Mecánicos _____________ 16
+
+Gr 6° Jefes Sección __________________ 14
+
+Gr 6° Jefes de Garaje ________________ 15
+
+Gr 6° Abogados _______________________ 12
+
+Gr 6° Subjefe Sección Máquinas y
+
+Procesamiento __________________ 17
+
+Gr 6° Técnicos Mantención Equipos e
+
+e Instalaciones ________________ 12
+
+Gr 6° Subjefe Obras Civiles __________ 15
+
+Gr 6° Asistente Social _______________ 14
+
+Gr 6° Enfermera Universitaria Jefe ___ 12
+
+Gr 6° Contadores Jefes Zonales y
+
+Contador Jefe de Presupuesto ___ 14
+
+Gr 6° Matrona Jefe ___________________ 13
+
+Gr 6° Administrador Público __________ 13
+
+Los cargos de Abogado y Administrador
+
+Público grados 12° y 13° respectivamente, se transformarán en grado 17° a medida que vayan
+
+quedando vacantes.
+
+Gr 7° Jefe Taller Eléctrico __________ 18
+
+Gr 7° Operador Máquinas Procesamiento
+
+de Datos _______________________ 19
+
+Gr 7° Técnico Mecánico Diesel ________ 19
+
+Gr 7° Asistente Social _______________ 15
+
+Gr 7° Enfermera Universitaria ________ 14
+
+Gr 7° Jefe Oficina de Accidentes _____ 15
+
+Gr 7° Jefes Sección __________________ 15
+
+Gr 7° Encargado Aduana _______________ 17
+
+Gr 7° Procuradores ___________________ 22
+
+Gr 7° Oficial Oficina Proyectos ______ 22
+
+Gr 8° Técnico Estadístico ____________ 19
+
+Gr 8° Jefes Sección __________________ 16
+
+Gr 8° Operador Máquinas Procesamiento
+
+de Datos _______________________ 20
+
+Gr 8° Jefe Policlínico _______________ 19
+
+Gr 8° Inspector Técnico Obras ________ 19
+
+Gr 8° Asistente Social _______________ 17
+
+Gr 8° Secretaria Ejecutiva ___________ 19
+
+Gr 8° Jefes Administrativos de
+
+Producción _____________________ 18
+
+Gr 8° Procuradores ___________________ 23
+
+Gr 8° Enfermera Universitaria ________ 16
+
+Gr 8° Subjefe Taller _________________ 23
+
+Gr 9° Jefes Sección __________________ 17
+
+Gr 9° Contadores _____________________ 19
+
+Gr 9° Operador Máquinas Procesamiento
+
+de Datos _______________________ 16
+
+Gr 9° Ayudante de Relaciones Públicas_ 20
+
+Gr 9° Practicante ____________________ 23
+
+Gr 9° Procuradores ___________________ 24
+
+Gr 9° Jefes Instructores _____________ 17
+
+Gr 10° Jefes Sección __________________ 18
+
+Gr 10° Operador Máquinas Procesamiento
+
+de Datos _______________________ 22
+
+Gr 10° Jefe de Recuperación ___________ 18
+
+Gr 10° Dibujante ______________________ 25
+
+Gr 10° Contador _______________________ 22
+
+Gr 11° Practicante ____________________ 25
+
+Gr 11° Dibujante ______________________ 26
+
+Gr 11° Instructores Eléctricos ________ 18
+
+Gr 11° Instructores Mecánicos _________ 18
+
+Gr 11° Operador Máquinas Procesamiento
+
+de Datos _______________________ 23
+
+Gr 12° Jefe de Tráfico ________________ 20
+
+Gr 12° Practicante ____________________ 26
+
+Gr 12° Auxiliar de Enfermería _________ 26
+
+Gr 12° Jefes de Taller y Maestranza ___ 20
+
+Los cargos de Contador grado 22°, de
+
+Operador de Máquina de Procesamiento de Datos grado 23° y de Practicantes grado 26°, se transformarán en grados 27°, 30° y 32°, respectivamente, a medida que vayan quedando
+
+vacantes.
+
+Planta Administrativa
+
+Gr 1° Jefes de Oficina _______________ 19
+
+Gr 2° Oficiales ______________________ 20
+
+Gr 3° Oficiales ______________________ 21
+
+Gr 4° Oficiales ______________________ 22
+
+Gr 5° Oficiales ______________________ 24
+
+Gr 6° Oficiales ______________________ 26
+
+Gr 7° Oficiales ______________________ 29
+
+El o los cargos de Oficiales grado
+
+29° se transformarán en grado 31°, a medida que vayan quedando vacantes.
+
+Planta Despacho e Inspección
+
+1° Despachadores __________________ 19
+
+2° Despachadores __________________ 20
+
+3° Inspectores ____________________ 21
+
+4° Inspectores ____________________ 22
+
+El o los cargos de Inspectores grado
+
+22° se transformarán en grado 25° a medida
+
+que vayan quedando vacantes. D.O. 08.11.1975
+
+Planta de Conductores
+
+Gr 1° Conductores de Buses ___________ 23
+
+Gr 2° Conductores de Buses ___________ 24
+
+Gr 3° Conductores de Buses ___________ 25
+
+Planta Especializada en Mantención
+
+Gr 1° Expertos en Mecánica ___________ 19
+
+Gr 2° Expertos en Mecánica ___________ 20
+
+Gr 3° Expertos en Mecánica ___________ 21
+
+Gr 4° Expertos en Mecánica ___________ 22
+
+Gr 5° Expertos en Mecánica ___________ 23
+
+Gr 6° Expertos en Mecánica ___________ 25
+
+Gr 7° Expertos en Mecánica ___________ 27
+
+Gr 1° Expertos en Fresado ____________ 19
+
+Gr 2° Expertos en Fresado ____________ 20
+
+Gr 1° Expertos en Matricería _________ 19
+
+Gr 2° Expertos en Matricería _________ 20
+
+Gr 1° Expertos en Tornería ___________ 19
+
+Gr 2° Expertos en Tornería ___________ 20
+
+Gr 3° Expertos en Tornería ___________ 21
+
+Gr 4° Expertos en Tornería ___________ 22
+
+Gr 5° Expertos en Tornería ___________ 24
+
+Gr 6° Expertos en Tornería ___________ 27
+
+Gr 1° Experto en Electricidad ________ 19
+
+Gr 2° Experto en Electricidad ________ 20
+
+Gr 3° Experto en Electricidad ________ 21
+
+Gr 4° Experto en Electricidad ________ 22
+
+Gr 5° Experto en Electricidad ________ 24
+
+Gr 6° Experto en Electricidad ________ 27
+
+Gr 1° Experto en Soldadura ___________ 19
+
+Gr 2° Experto en Soldadura ___________ 21
+
+Gr 3° Experto en Soldadura ___________ 24
+
+Gr 4° Experto en Soldadura ___________ 27
+
+Los cargos de Experto en Mecánica
+
+grado 27°, de Experto en Fresado
+
+grado 20°, de Experto en Matricería
+
+grado 20°, de Experto en Tornería
+
+grado 27°, de Experto en
+
+Electricidad grado 27° y de Experto
+
+en Soldadura grado 27°, se
+
+transformarán en grado 30° a medida
+
+que vayan quedando vacantes.
+
+Planta de Resguardo y Control (Vigilantes)
+
+Gr 1° Resguardador ___________________ 23
+
+Gr 2° Resguardador ___________________ 24
+
+Gr 3° Resguardador ___________________ 25
+
+Gr 4° Resguardador ___________________ 27
+
+El o los cargos de Resguardador
+
+grado 27° de la Planta de Resguardo
+
+y Control se transformarán en grado
+
+31° al quedar vacantes.
+
+Planta de Servicios Menores
+
+Gr 1° Auxiliares _____________________ 25
+
+Gr 2° Auxiliares _____________________ 27
+
+Gr 3° Auxiliares _____________________ 29
+
+Gr 4° Auxiliares _____________________ 31
+
+El o los cargos de Auxiliares
+
+grado 31° se transformaran en
+
+grado 35° a medida que vayan
+
+quedando vacantes.
+
+> **Nota.** El Art. 6º del DL 1015, Hacienda, publicado el 14.05.1975, dispuso que la modificación que se introduce en el presente artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 2º
+
+El personal de la Empresa percibirá, además de sus sueldos bases, las mismas remuneraciones adicionales que contempla el decreto ley Nº 249.
+
+La asignación por trabajo nocturno o en feriado se regirá por los artículos 79 y 80 del DFL. 338, de 1960, por lo que no será imponible ni tendrá carácter de sueldo, y sólo se percibirá por trabajos efectivamente realizados.
+
+#### Artículo 3º
+
+Establécese un estímulo para los conductores que cobren las tarifas, cuya procedencia y monto serán determinados por un Reglamento dictado a propuesta del Director y suscrito, además, por el Ministro de Hacienda.
+
+El beneficio previsto en el inciso anterior no será imponible ni tendrá carácter de renta para ningún efecto legal.
+
+#### Artículo 4º
+
+Reitérase que por aplicación del artículo 30º del DL. 249, han quedado derogadas las disposiciones que conceden remuneraciones distintas a las establecidas en este mismo cuerpo legal.
+
+#### Artículo 5º
+
+Las cantidades percibidas por concepto de anticipos de remuneraciones durante los meses de Enero, Febrero, Marzo y Abril de 1974, que exceden de los montos líquidos de las remuneraciones determinadas por aplicación del DL. 249, no serán reintegradas mientras no se dicten normas específicas que regulen su reintegro.
+
+#### Artículo 6º
+
+Las disposiciones del presente decreto ley no podrán significar, en ningún caso, disminución de las remuneraciones promedio mensuales devengadas durante el último trimestre del año 1973, incluidas las bonificaciones establecidas por el DL. 97.
+
+Para estos efectos se excluirán la asignación familiar, las asignaciones de alimentación, de máquina, de pérdida de caja, de movilización, zona y recargo por trabajos nocturnos o en días festivos y por horas extraordinarias de trabajo.
+
+Cualquier diferencia que resulte en contra del trabajador, se pagará por planilla suplementaria, la que será imponible.
+
+Dichas diferencias serán absorbidas por los aumentos de remuneraciones de cualquier naturaleza, a excepción de los reajustes de remuneraciones o bonificaciones que se otorguen para compensar el alza del costo de la vida, o cualquier otro beneficio de carácter general.
+
+#### Artículo 7º
+
+El cargo de Jefe del Subdepartamento de Finanzas deberá ser servido por un Ingeniero Comercial, un Contador Auditor o un Contador con más de quince años de experiencia.
+
+Los cargos de Ingenieros nivelados en los grados 6º y 8º deberán ser servidos por Ingenieros Civiles o de Defensa.
+
+El cargo de Jefe de Subdepartamento Mecánico, nivelado en grado 7º, corresponde al de Jefe de Depósitos de la Planta de la Empresa.
+
+Los cargos de Jefes de Sección corresponden a los Jefes Directivos de la Planta de la Empresa.
+
+#### Artículo 8º
+
+Los requisitos para ingresar a la Planta Especializada de Mantención serán los mismos que se exigían hasta el 31 de Diciembre de 1973 para ser nombrado en las ex Plantas de Mecánicos, de Torneros, Fresadores y Matriceros, de Electricista y de Soldadores.
+
+#### Artículo 9º
+
+Las remuneraciones fijadas por el presente decreto ley rigen desde el 1º de Enero de 1974.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Sergio Figueroa Gutiérrez, General de Brigada Aérea (A), Ministro de Obras Públicas y Transportes.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Leopoldo Porras Zúñiga, Comandante de Grupo (A), Subsecretario de Transportes.
