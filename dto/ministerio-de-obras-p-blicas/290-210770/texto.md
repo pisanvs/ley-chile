@@ -1,0 +1,3 @@
+Por decreto MOP Nº 290 de 28 de marzo de 2003, se expropió el lote de terreno Nº 79, superficie 1.638 m2, rol de avalúo 136-98, comuna de San Francisco de Mostazal, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector C: Km. 56.300,00 a Km. 68.450,00. Se acordó el valor de la indemnización con su propietaria Sociedad Granja Avícola Angostura Limitada, ascendente a la cantidad de $6.693.318.
+
+Fiscal del Ministerio de Obras Públicas.
