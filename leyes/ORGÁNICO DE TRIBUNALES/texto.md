@@ -210,7 +210,7 @@ En los distritos que estén fuera de la cabecera del departamento, deberán los 
 
 En la formación de estos sumarios procederán con la asistencia del ministro de fe o de los testigos de que trata el art. 22.
 
-Estos mismos jueces, en los distritos donde no resida el juez de subdelegación, serán competentes para conocer de las faltas indicadas en los arts. 107, 108 y 109 de la Ley sobre Alcoholes y Bebidas Alcohólicas.
+Inciso derogado.
 
 #### Artículo 21
 
@@ -258,7 +258,7 @@ A los jueces de subdelegación corresponden las atribuciones propias de ministro
 
 Son aplicables a los jueces de subdelegación las disposiciones de los artículos 15, 16, 17, 18, 19, 20, incisos 1° y 2°, 21, 22 y 23 de este Código.
 
-Los jueces de subdelegación que estén fuera de las ciudades cabeceras de departamento serán, además, competentes para conocer de las faltas indicadas en los artículos 107, 108 y 109 de la Ley sobre Alcoholes y Bebidas Alcohólicas que se cometan en los distritos en donde tengan su asiento.
+Inciso derogado.
 
 ## Título III
 
@@ -368,23 +368,15 @@ Si el valor del cheque excediere de diez mil pesos, podrá pedirse la notificaci
 
 #### Artículo 39
 
-Habrá en Santiago un Juez de Letras de Menor Cuantía en lo Criminal, con jurisdicción sobre los territorios municipales de las comunas-subdelegaciones de Santiago, Providencia y Ñuñoa.
+Habrá en Santiago un Juez de Letras de Menor Cuantía en lo Criminal con jurisdicción sobre el territorio municipal de la comuna-subdelegación de Santiago. Este Juzgado conocerá en primera instancia:
 
-Este juzgado conocerá:
+1) De las faltas sancionadas por los artículos 494 N.os 5, 7, 12, 16, 19, 20 y 21; 495 N.os 3, 15, 21 y 22; 496 N.os 1, 8, 11, 18, 28, 31, 32 y 33; y 497 del Código Penal;
 
-1°) En primera instancia:
+2) De las infracciones a la Ley de Alcoholes relativas a la embriaguez, de que trata el Título I del Libro II de dicha ley;
 
-a) De las faltas sancionadas por los artículos 494 N.os 5, 7, 12, 16, 19, 20 y 21; 495 N.os 3, 15, 21 y 22; 496 N.os 1, 8, 11, 18, 28, 31, 32 y 33; y 497 del Código Penal;
+3) De las demás infracciones que sean sancionadas en leyes especiales con pena de falta y cuyo conocimiento no esté entregado a autoridades distintas de jueces del crimen; y
 
-b) De las infracciones a la Ley de Alcoholes relativas a la embriaguez, de que trata el Título I del Libro II de dicha ley;
-
-c) De las demás infracciones que sean sancionadas en leyes especiales con pena de falta y cuyo conocimiento no esté entregado a autoridades distintas de jueces del crimen; y
-
-d) De las infracciones a que se refiere el párrafo 13 del Título VI del Libro II del Código Penal sobre vagancia y mendicidad.
-
-2°) En segunda instancia, de las apelaciones que se interpongan en contra de las sentencias dictadas por los jueces inferiores del departamento, conociendo de las causas a que se refieren los incisos finales de los artículos 20 y 27 de este Código.
-
-3°) De los recursos de casación en la forma que se interpongan en contra de las sentencias indicadas en el número anterior.
+4) De las infracciones a que se refiere el párrafo 13 del Título VI del Libro II del Código Penal sobre vagancia y mendicidad.
 
 #### Artículo 40
 
@@ -440,9 +432,9 @@ a) De las causas de minas, cualquiera que sea su cuantía. Se entiende por causa
 
 b) De los actos judiciales no contenciosos, cualquiera que sea su cuantía, salvo lo dispuesto en el artículo 494 del Código Civil y en el artículo 33 de este Código;
 
-c) De las causas criminales por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los jueces de letras de menor cuantía;
+c) De las causas criminales por crimen o simple delito, salvo de aquellas cuyo conocimiento corresponde a los jueces de letras de menor cuantía y a los Juzgados de Policía Local para el juzgamiento de los delitos de vagancia y mendicidad que se cometan fuera de la ciudad en que tiene su asiento el Tribunal;
 
-d) De las causas por faltas sancionadas en los artículos 494, número 19, y 495, números 21 y 22 del Código Penal, sin perjuicio de lo dispuesto en el artículo 39;
+d) De las causas por faltas sancionadas en los artículos 494, número 19, y 495, números 21 y 22 del Código Penal que se cometan en la ciudad donde tiene su asiento el Tribunal, sin perjuicio de lo dispuesto en el artículo 39;
 
 e) De las faltas sancionadas en los artículos 107, 108 y 109 de la Ley sobre Alcoholes y Bebidas Alcohólicas, cometidas en la ciudad donde tiene su asiento el tribunal, sin perjuicio de la competencia que en esta materia corresponde al juez de letras de menor cuantía en lo criminal de Santiago;
 
@@ -454,13 +446,11 @@ g) De las causas civiles cuya cuantía sea inferior a la señalada en la letra a
 
 a) De las causas civiles de que hayan conocido en primera los jueces de subdelegación del departamento, salvo lo dispuesto en los artículos 37 y 40;
 
-b) De las causas por faltas sancionadas en los artículos 107, 108 y 109 de la Ley de Alcoholes y Bebidas Alcohólicas de que hubieren conocido los jueces de distrito o subdelegación del departamento, sin perjuicio de lo dispuesto en el artículo 39;
+b) De las causas por faltas o contravenciones falladas por los alcaldes o los jueces de policía local, con arreglo al artículo 30 de la ley 6827, de 28 de Febrero de 1941;
 
-c) De las causas por faltas o contravenciones falladas por los alcaldes o los jueces de policía local, con arreglo al artículo 30 de la ley 6827, de 28 de Febrero de 1941;
+c) De las causas de que hayan conocido los juzgados de abastos.
 
-d) De las causas de que hayan conocido los juzgados de abastos.
-
-4°) En única instancia de los recursos de casación en la forma en contra de las sentencias recaídas en las causas a que se refieren las letras a) y b) del número anterior.
+4°) En única instancia de los recursos de casación en la forma en contra de las sentencias recaídas en las causas a que se refiere la letra a) del número anterior.
 
 5°) De los delitos sancionados en la Ley de Elecciones y de los demás asuntos que otras leyes les encomienden.
 
@@ -498,7 +488,7 @@ Un Ministro de la Corte de Apelaciones respectiva, según el turno que ella fije
 
 1°) De las causas por los delitos contra la Seguridad Interior del Estado a que se refiere la ley 6026, de 12 de Febrero de 1937; de los delitos de los Títulos II y VI, párrafo 19 del Libro II del Código Penal, y de los delitos de los Títulos IV y V, párrafo I, del Código de Justicia Militar, cuando dichos delitos sean cometidos exclusivamente por civiles.
 
-2°) De las causas civiles y criminales en que sean parte o tengan interés el Presidente de la República, los ex-Presidentes de la República, los Ministros de Estado, los Intendentes de Provincia y Gobernadores de Departamento, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
+2°) De las causas civiles y de las criminales por crímenes o simples delitos en que sean parte o tengan interés el Presidente de la República, los ex-Presidentes de la República, los Ministros de Estado, los Intendentes de Provincia y Gobernadores de Departamento, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
 
 La circunstancia de ser accionista de sociedades anónimas las personas designadas en este número, no se considerará como una causa suficiente para que un Ministro de la Corte de Apelaciones conozca en primera instancia de los juicios en que aquéllas tengan parte, debiendo éstos sujetarse en su conocimiento a las reglas generales.
 
@@ -1674,6 +1664,8 @@ El secretario dará cuenta mensualmente de estas subrogaciones a la respectiva C
 
 Los subrogantes sólo podrán dictar sentencias definitivas en aquellos negocios en que conozcan por inhabilidad, implicancia o recusación del titular; pero esta limitación no regirá cuando el subrogante sea un juez de letras, el defensor público o el secretario del respectivo juzgado.
 
+No obstante lo dispuesto en los artículos anteriores, el Secretario del Juzgado que no sea abogado subrogará al Juez para el solo efecto de dictar las providencias de mera substanciación, definidas en el artículo 70 del presente Código.
+
 #### Artículo 215
 
 Si por falta o inhabilidad de algunos de sus miembros quedare una Corte de Apelaciones o cualquiera de sus salas sin el número de jueces necesario para el conocimiento y resolución de las causas que les estuvieren sometidas, se integrarán con los miembros no inhabilitados del mismo tribunal, con sus fiscales y con los abogados que se designen anualmente con este objeto.
@@ -2034,7 +2026,7 @@ No podrá existir el parentesco de consanguinidad hasta el cuarto grado o de afi
 
 #### Artículo 261
 
-Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
+Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de ocho horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
 
 ### 3. De los nombramientos y del escalafón de los funcionarios judiciales
 
@@ -2220,7 +2212,7 @@ Para proveer el cargo de ministro o fiscal de la Corte Suprema, este tribunal en
 
 Las ternas para proveer los cargos que se indican se formarán del modo siguiente:
 
-Para ministros y fiscales de las Cortes de Apelaciones con el juez letrado más antiguo de la tercera categoría, y con dos funcionarios elegidos por méritos de esa misma categoría, salvo que también se presenten al concurso funcionarios de la segunda categoría, en cuyo caso deberá elegirse a uno de éstos para un lugar de la terna.
+Para Ministros y Fiscales de Cortes de Apelaciones, con el Juez Letrado más antiguo de la tercera categoría y con dos funcionarios de la segunda o tercera categoría, elegidos por méritos.
 
 Para jueces letrados de las categorías tercera, cuarta, quinta y sexta, con el juez letrado más antiguo de la categoría inferior y con dos funcionarios de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos por mérito. Sin embargo, en las ternas para jueces letrados de las categorías quinta y sexta podrán figurar abogados.
 
@@ -2306,7 +2298,7 @@ Quinta categoría: Oficiales Auxiliares de la Corte Suprema, Oficiales 3ºs. de 
 
 #### Artículo 294
 
-Las ternas para el nombramiento de empleados del Escalafón subalterno, serán formadas, previo concurso, por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente o personas extrañas a la carrera.
+Las ternas para el nombramiento de empleados del Escalafón subalterno, serán formadas, previo concurso, por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente y, a falta de éstos, personan extrañas a la carrera.
 
 En las ternas para el nombramiento de empleados de las categorías cuarta y quinta, podrá figurar una persona extraña a la carrera.
 
@@ -3869,6 +3861,12 @@ La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerc
 La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Tribunales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
 
 Si la comisión a que se refiere el número anterior no admitiere a examen al postulante, por estimar que no concurren los requisitos señalados en este artículo, el afectado podrá reclamar ante la Corte Suprema, la que resolverá como jurado.
+
+También se entenderá cumplida la obligación impuesta en el N.o 5 por los postulantes que hayan servido más de seis meses consecutivos gratuitamente a las órdenes de Juzgados de Mayor o Menor Cuantía, para atender los asuntos y desempeñar las funciones que estos Tribunales les encomendaren, de acuerdo con la reglamentación que dicte el Consejo General del Colegio de Abogados.
+
+Los Tribunales expresados en el inciso anterior no podrán ocupar sino a los egresados que estén en condiciones de hacer su práctica judicial, previo certificado de la Universidad de Chile que así lo acredite, deberán dar cuenta al Consejo del Colegio de Abogados respectivo de la fecha en que los postulantes ingresen a su servicio, tomar la asistencia diaria de ellos y expedir al retirarse un certificado en que conste la asistencia a las funciones desempeñadas y la apreciación personal del Juez respecto del postulante.
+
+Para usar de esta facultad los egresados deberán presentar al Juez un certificado del respectivo Colegio de Abogados, por el cual se les autoriza para hacer su práctica en esta forma.
 
 #### Artículo 524
 
