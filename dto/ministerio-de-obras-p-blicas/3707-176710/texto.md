@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.707 de 28 de agosto de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra camino Melipeuco-Icalma Puente Tracura Km. 0.000 a Km.
+
+0.119.30, que figura a nombre de Miguel B. Varela Lagos, Rol de avalúo 308-88, comuna de Melipeuco, superficie 707 m2. La comisión de peritos integrada por los señores Guillermo Enrique Smith Mason, María Soledad Núñez Arroyo y Máximo Oñate Contreras, fijó con fecha 14 de mayo de 1999, el valor provisional de la indemnización en la cantidad de $127.260.- para el lote Nº 2.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
