@@ -1,0 +1,3 @@
+Por decreto MOP Nº395 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº106, superficie 987 m2, rol de avalúo 172-360, comuna de San Clemente, para la obra "Camino Los Robles-Huencuecho-Bajo Perquín, sector Huencuecho-Bajo Perquín, Tramo Km. 46,140.00 a Km. 76,107.70" y se acordó el valor de indemnización con su propietario Manuel Gajardo Ayala, ascendente a la cantidad de $413.405.
+
+Fiscal del Ministerio de Obras Públicas.
