@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.627, de 21 de septiembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº25, para la obra Camino Santiago-Colina-Los Andes, sector "A" A. Vespucio-By Pass Colina Km.
+
+0.504,10 al 4.758,40, Región Metropolitana, que figura a nombre de Cía. Inmobiliaria Forestal S.A., rol de avalúo 118-57, comuna de Quilicura, superficie 2.275,5 m². La Comisión de Peritos integrada por los señores Paola Andrea Domingo Porcella, Carmen Pilar Ríos Marcuello y Andrés Echeverría Campo, fijó con fecha 10 de junio de 1998, el valor provisional de la indemnización en la cantidad de $45.619.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
