@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.426, de 30 de agosto de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº13A para la obra: Camino Ruta U-72, Sector Osorno - Huilma, tramo Km. 0,00000 a Km. 18,10000, que figura a nombre de González Tunon Benjamín, rol de avalúo 2207-2, Comuna de Osorno, X Región, superficie 335,00 m2. La Comisión de Peritos, fijó con fecha 28 de julio de 2000, el monto de la indemnización provisional en la cantidad de $2.966.000.- para el lote 13A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
