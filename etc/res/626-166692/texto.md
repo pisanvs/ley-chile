@@ -1,0 +1,13 @@
+Por resolución Nº626, de 27 de marzo de 2000, de esta Subsecretaría, autorízase a la UNIVERSIDAD AUSTRAL DE CHILE para efectuar una pesca de investigación de conformidad con los términos técnicos del proyecto denominado ''Aplicación experimental de procedimientos de manipulación de una población de truchas y su hábitat, para mejorar la calidad de la pesca deportiva en el río Ñirehuao, XI Región de Aysén'', elaborado por la señalada Universidad y aprobado por el Fondo Nacional de Desarrollo Tecnológico y Productivo, y por esta Subsecretaría.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza, consiste en establecer estrategias de manejo poblacional y de hábitat de la Trucha café Salmo trutta fario, tendientes a optimizar la actividad pesquero-deportiva del río, en cuanto a composición específica y distribución de tallas de la población.
+
+La pesca de investigación se efectuará en el tramo determinado por el curso principal del río Ñirehuao, entre las coordenadas geográficas (UTM) 4.987.250 m. Norte 287.300 m. Este (Puente Ñirehuao) y 268.550 m. Este 4.992.350 m. Norte (Estero Feo), por el término de un año, a contar de la fecha de publicación de la presente resolución en el Diario Oficial.
+
+En cumplimiento del objetivo de la presente pesca de investigación, la Universidad podrá capturar un máximo de 200 ejemplares de Trucha café Salmo trutta fario entre 30 y 36 centímetros, en el sector 4º correspondiente a las coordenadas geográficas (UTM) 273.000 m. Este 4.992.200 m. Norte y 274.150 m. Este 4.995.200 m. Norte, mediante equipos de pesca con mosca y pesca eléctrica. En los demás sectores autorizados, la peticionaria sólo podrá sacrificar para análisis de desarrollo gonadal, contenido estomacal y obtención de escamas, un máximo de 5 ejemplares por muestreo.
+
+Sin perjuicio de las labores de muestreo antes señaladas, la presente pesca de investigación contemplará la participación de un número máximo de 16 pescadores deportivos seleccionados, los cuales deberán contar con un permiso especial otorgado por el Servicio Nacional de Pesca, previa proposición de la Universidad. En todo caso, las personas seleccionadas deberán contar con la licencia establecida en el DS Nº545, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La Universidad designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del DS Nº430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al rector de dicha casa de estudios don Manfred Max-Neef, RUT Nº3.068.164-9, domiciliado en calle Independencia Nº641, Valdivia.
+
+Valparaíso, 27 de marzo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
