@@ -1,0 +1,3 @@
+Por resolución Nº 1.142, de 16 de junio de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.761 de 1989, de esta Subsecretaría, que autorizó a SALMONES UNIMARC S.A., para instalar y operar el centro de cultivo ubicado en Península Ouchen, Isla Añihue, comuna de Quemchi, provincia de Chiloé, X Región.
+
+Valparaíso, 16 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
