@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.119, de fecha 30 de julio de 2002, se expropió el lote de terreno Nº 19-G, superficie 85 m², rol de avalúo 286-188, comuna de San Fernando, VI Región, para la obra ''Camino San Fernando Roma, Rol I-301; I-255; I-151, Km. 0,000 al 10,954264'' y se acordó el valor de indemnización con su propietaria doña Gladys Elizabeth Astudillo Cancino, ascendente a la cantidad de $563.378.-
+
+Fiscal del Ministerio de Obras Públicas.
