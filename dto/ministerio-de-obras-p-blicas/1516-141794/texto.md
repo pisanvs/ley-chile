@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.516, de 31 de mayo de 1999, se expropió el lote de terreno No. 16, superficie 2.851 mý, rol de avalúo 167-154, comuna de Maule, para la obra Ruta 5 Tramo Talca-Chillán, Calle de Servicio Sector Talca Sur-Unihue y Pirque-Unihue, Séptima Región y se acordó el valor de indemnización con su propietario Arsenio Jim‚nez Moreno, ascendente a la cantidad de $ 146.833.550.-
+
+Fiscal del Ministerio de Obras Públicas.
