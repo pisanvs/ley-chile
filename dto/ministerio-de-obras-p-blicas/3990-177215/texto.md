@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.990, de 31 de agosto de 2000, se expropió el lote de terreno Nº1, superficie 4.986 m², rol de avalúo 239-4, comuna de Galvarino, para la obra ''Camino Galvarino-Pichepellahuen, Sector Puente Rucatraro Km. 0,218 al Km. 0,340'', IX Región y se acordó el valor de indemnización con su propietario Daniel Antonio Muñoz Mella, ascendente a la cantidad de $1.413.867.-
+
+Fiscal del Ministerio de Obras Públicas.
