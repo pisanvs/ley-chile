@@ -1,0 +1,1 @@
+Reemplaza artículo 1° decreto-ley N° 322, de 28 de julio de 1932, que fijó planta y sueldos de Carabineros de Chile; y deroga el 135, de 4 del mismo mes y año, que daba nueva organización al Servicio Médico de Carabineros.
