@@ -1,0 +1,1 @@
+Reconoce como servido, para los efectos de la jubilación, de los quinquenios y de los ascensos, el tiempo que los profesores y funcionarios de educación permanecieron separados de sus empleos sin previo proceso administrativo o sin cargo comprobado que afecten a su actuación docente o administrativa; devolución desahucio.
