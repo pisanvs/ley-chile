@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.038, de 29 de junio de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 5, para la obra Estudio Complementario Concesión Circunvalación Américo Vespucio, sector intersección El Salto - A. Vespucio, que figura a nombre de Jaime Riesco Larraín, rol de avalúo 3110-166, superficie 430,4 m²., comuna de Huechuraba. La Comisión de Peritos con fecha 2 de mayo de 2001, fijó la indemnización provisional en la cantidad de $36.773.800, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
