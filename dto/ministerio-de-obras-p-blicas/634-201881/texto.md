@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 634, de fecha 30 de octubre de 1995, se expropió el lote de terreno. N° 133-A, superficie 1.685 m2, rol de avalúo 1407-1, comuna de Rancagua, pala la obra Mejoramiento Ruta 5 Sur, sector Pasada por Rancagua Camino Ruta 5 Sur y se acordó precio de indemnización con su propietario Zunilda Acuña Villa, ascendente a la cantidad de $14.183.160.
+
+Fiscal del Ministerio de Obras Públicas.
