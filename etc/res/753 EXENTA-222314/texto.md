@@ -1,0 +1,3 @@
+Por resolución exenta Nº 753, de 1 de marzo de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201105005 presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES, CULTIVADORES Y EXPLOTADORES DE ALGAS "LA ESPERANZA", comuna de Ancud, para instalar y operar un centro de cultivo ubicado en sector estero del Dique, Península Lacui, X Región.
+
+Valparaíso, 1 de marzo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
