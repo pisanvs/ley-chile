@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 123, de 13 de febrero de 1998, se expropió el lote de terreno No. 10, superficie 15.300 m., respectivamente, rol de avalúo 62-189, comuna de ¥iquén, para la obra Ruta 5, Tramo Talca - Chillán, Intersecciones Desniveladas, Acceso a Tiuquilemu y se acordó precio de indemnización con su propietaria doña Marta del Carmen Fuentes Acuña, ascendente a la cantidad de $ 35.466.554.
+
+- Fiscal del Ministerio de Obras Públicas.
