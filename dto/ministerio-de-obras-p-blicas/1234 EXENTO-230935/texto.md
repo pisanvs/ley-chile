@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.234 de 31 de agosto de 2004, se dejó sin efecto los numerales 3º , 4º , 5º y 6º del decreto MOP exento Nº 233 de 28 de febrero de 2002, en la parte que se refiere al Convenio Directo de Precio ad Referendum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente los montos provisionales de la indemnización de los lotes Nº 1-A y 4, fijada por la Comisión de Peritos, con fecha 16 de mayo de 1995, en la cantidad de $273.000 para el lote 1-A y con fecha 10 de enero de 1996 en la cantidad de $132.500.- para el lote Nº 4.
+
+Fiscal del Ministerio de Obras Públicas.
