@@ -1,0 +1,3 @@
+Por decreto exento MOP 245, de 30 de noviembre del 2000, se expropiaron los lotes de terreno Nºs. 152-5, 152-6 y 152-7, superficies 200m2, 196m2 y 192m2, roles de avalúo 1272-17, 1272-16 y 1272-15, comuna de La Calera, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con sus propietarios Oscar Vicente Reinoso Fernández y otro, ascendente a la cantidad total de $7.451.754.-
+
+Fiscal del Ministerio de Obras Públicas,
