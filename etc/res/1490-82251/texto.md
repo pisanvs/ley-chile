@@ -1,0 +1,9 @@
+Por Resolución Nº1.490, de 5 de Diciembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a EMPRESA PESQUERA ZONA CENTRAL LIMITADA, RUT Nº88.844.500-5, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras que tiene autorizadas por Resolución Nº380, de 1983, de esta Subsecretaría, en orden a incluir en la planta ubicada en Avenida El Molo S/Nº, recinto portuario de San Antonio, además de las líneas y recursos hidrobiológicos autorizados por la Resolución Nº380, antes citada, la línea de elaboración de fresco, donde procesará el recurso Anchoa o anchoveta. Asimismo, la peticionaria podrá incorporar en dicha planta, en el procesamiento de la línea de harina, el recurso antes mencionado.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Cadúcase conforme al artículo 6º del Decreto Nº175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, la Resolución Nº252, de 1989, de esta Subsecretaría, que autorizó a la peticionaria para desarrollar actividades pesqueras de transformación, en los mismos términos a que se refiere el presente Extracto.
+
+Modifícase el numeral 3º de la Resolución Nº380, de 1983, de esta Subsecretaría, en el sentido de eliminar como materia prima para la elaboración de harina los siguientes recursos hidrobiológicos: Merluza, machuelo y raya, de conformidad con lo establecido en el DS Nº316, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de Diciembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
