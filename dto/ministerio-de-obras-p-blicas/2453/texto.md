@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.453, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 8-A y 8-B, superficies 350 y 166 m², respectivamente, rol de avalúo 221-101, comuna de Rengo, para la obra Mejoramiento Camino Ruta H-65, sector Rengo - Popeta y se acordó precio de indemnización con su propietario Atilio Giglio Maira, ascendente a la cantidad de $5.076.084.-
+
+Fiscal del Ministerio de Obras Públicas.
