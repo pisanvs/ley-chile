@@ -1,0 +1,9 @@
+Por decreto MOP Nº 986, de 10 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco, los lotes de terreno Nºs 83, 84, 86, 87, 88, 89, 90, 93, 94, 95, 96, 97, 98 y 100, para la obra: Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento - Avda. Costanera, Comuna de Antofagasta, Provincia de Antofagasta, II Región, sector Calle Cardenal Oviedo Cavada - Calle Chuquicamata, que figuran a nombre de Gómez Gijón Orlando, Laury Navarro Alejandro, Vega Ocampo José, Ortuno Flores Julio, Bravo Bravo Augusto y otros, Bravo González Edith Aída, Toro Tello Héctor, Correa Martínez Allende, Shell Chile S. A. C. e I., Shell S. A. C. e I., Lasnibat Rivera Pablo Daniel, Ber Falco Pedro y otra, García Cayo Ricardo I. y otros y FF.
+
+CC. Antofagasta a Bolivia, roles de avalúo 1401-3, 1400-8, 1400-12, 1400-6, 1400-5, 1400-16, 1400-13, 1400-3, 1398-11, 1398-12, 1398-4, 1398-6, 1398-5 y 6902-4, superficies 86 m².; 360 m².; 81 m².; 82 m².; 166 m².; 175 m².; 166m².; 197m².; 326m².; 377m².; 624m².; 144m².; 219 m². y 1.536 m². La Comisión de Peritos, fijó con fecha 14 de abril de 2004, en las cantidades de $14.532.969, para el lote Nº83; $38.347.998, para el lote Nº84; $11.356.998, para el lote Nº86; $16.319.862, para el lote Nº87; $30.776.683, para el lote Nº88;
+
+$15.329.069, para el lote Nº89; $44.005.369, para el lote Nº90; $28.659.395, para el lote Nº93; $96.645.623, para el lote Nº94; $55.364.324, para el lote Nº95;
+
+$74.714.148, para el lote Nº96; $36.843.767, para el lote Nº97; $26.321.871, para el lote Nº98 y $39.025.152, para el lote Nº100. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
