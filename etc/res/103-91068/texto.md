@@ -1,0 +1,3 @@
+Por Resolución Nº 103, de 22 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud Nº 96104081, para instalar y operar un vivero de moluscos en el sector denominado Canal Quihua, comuna de Calbuco, provincia de Llanquihue, X Región, presentada por ALBERTO PAREDES ALMONACID, en virtud de existr sobreposición con la concesión de acuicultura concedida por Resolución Nº 1768 de 1996, de la Subsecretaría de Marina.
+
+Valparaíso, 22 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
