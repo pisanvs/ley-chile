@@ -1,0 +1,3 @@
+Por resolución Nº 1.770, de 21 de agosto de 2001, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.623 de 2001, modificada mediante resolución Nº 1.708 del 2001, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2001-10, denominado "Evaluación del stock desovante de Anchoveta por el método de producción de huevos en la I y II Regiones, año 2001", en el sentido de reemplazar la nave "Alerce" por la nave "Pucará", ambas de propiedad de Corpesca S.A., de la nómina de naves participantes en la presente pesca de investigación.
+
+Valparaíso, 21 de agosto de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
