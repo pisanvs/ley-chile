@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.184 de fecha 31 de julio de 2002, se expropiaron los lotes de terreno Nº 42 y 45, superficies 597,00 y 585,00 m2, rol de avalúo Nº 331-28, comuna de Río Negro, para la obra ''Camino Ruta U-72, Sector Osorno - Huilma Kms. 0.000 al 18.100,00'', X Región y se acordó el valor de la indemnización con su propietario Tassilo von Conta von Geisso, ascendente a la cantidad de $1.101.117.-
+
+Fiscal del Ministerio de Obras Públicas.
