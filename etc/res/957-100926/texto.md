@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA OMEGA LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 957, de 20 de Agosto de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Omega Ltda., domiciliada en Santiago, para desarrollar actividades pesqueras en orden a operar embarcación en construcción, con la cual extraerá los siguientes recursos hidrobiológicos: De la IX a XII regiones merluza del sur, de cola y común, congrios dorado, colorado y negro, brótula, raya y cojinova, de las regiones V a XII mero, bacalao de Juan Fernández, dorado de alta mar y marrajo; de las regiones IV a XII merluza de tres aletas y en la V Región albacora. El mero deberá extraerse desde Punta Liles al Sur. Las artes de pesca a usarse son: respecto de los recursos hidrobiológicos: Merluzas del sur, de cola, de tres aletas y común, congrios dorado, colorado y negro, mero, bacalao de Juan Fernández, brótula, raya, cojinova, el espinel y respecto de los recursos hidrobiológicos: albacora, dorado de alta mar y marrajo, el trasmallo.
+
+Valparaíso, 20 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
