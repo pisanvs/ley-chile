@@ -1,0 +1,5 @@
+AUTORIZA A PRODUCTORA Y COMERCIALIZADORA DARWIN LIMITADA PARA CONTINUAR DESARROLLANDO ACTIVIDADES PESQUERAS QUE INDICA
+
+Por Resolución No. 530 de 12 de Mayo de 1989 de esta Subsecretaría de pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Productora y Comercializadora Darwin Limitada, R.U.T. No. 79.670.130-7, domiciliada en Santiago, para continuar desarrollando actividades pesqueras autorizadas a Robinson Crusoe Industrial y Comercial Limitada, por Resoluciones No. 996, de 1986, y No. 419, de 1987, ambas de esta Subsecretaría, en la misma forma y condiciones establecidas en las Resoluciones citadas. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de Mayo de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
