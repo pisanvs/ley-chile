@@ -1,0 +1,5 @@
+Por Resolución Nº 1.597, de 21 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por BRUNO JOSE INZUNZA DERIO, para instalar y operar un centro de cultivo ubicado al Noroeste de Punta Rama, Comuna de Corral, Provincia de Valdivia, X Región, conforme lo dispuesto en el artículo 14, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Déjase sin efecto las Resoluciones Nº 994, de 1990, Nº 1003 y Nº 1376, ambas de 1991, todas de esta Subsecretaría, que autorizaron a Bruno José Inzunza Derio, para operar el centro de cultivo señalado precedentemente, en virtud de lo dispuesto en la presente Resolución.
+
+Valparaíso, 21 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
