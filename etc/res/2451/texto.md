@@ -1,0 +1,5 @@
+Por resolución Nº 2.451, de 21 de diciembre de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.053, de 1992, de esta Subsecretaría en cuanto autorizó a SOCIEDAD COMTESA LIMITADA, para realizar actividades pesqueras extractivas con la nave ''Isla Nueva'', de conformidad con lo establecido en la letra b) del artículo 143 del DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Asimismo, declárase la caducidad parcial de las resoluciones Nº 390, de 1987 y Nº 959, de 1989, de esta Subsecretaría, sólo en cuanto autorizaron a Sociedad Comtesa Limitada, para realizar actividades pesqueras extractivas con la nave ''Isla Nueva'', de conformidad con lo establecido en la letra b) del artículo 143 del DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 21 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
