@@ -1,0 +1,3 @@
+Por resolución Nº 49, de 18 de enero de 2001, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Talquilla, IV Región, individualizada en el artículo 1º Nº 17 del DS Nº 509 de 1997 del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES Y BUZOS MARISCADORES DE CALETA TALQUILLA.
+
+Valparaíso, 18 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
