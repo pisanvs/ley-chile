@@ -1,0 +1,9 @@
+Declaracion en favor de don José Antonio Milrs
+
+Excmo. Señor:
+
+D. José Antonio Milrs, minero i azoguero en Barraza, ante V.E. digo, que elevado el pueblo de mi residencia a Villa, independiente de la municipalidad de Coquimbo, con el título de San Antonio del mar, se sirvió V.E. nombrarme teniente-gobernador de ella por los informes con que las majistraturas respectivas patentizaron mis servicios patrios, i celo por la prosperidad de aquel vecindario; pero como posteriormente se sujetase la nueva villa a Coquimbo, i cesase por lo mismo mi cargo de teniente-gobernador, representé a V.E. pidiendo, se dignase declarar, si yo habia dado mérito a la cesacion de mi empleo: V.E. por su supremo decreto de 16 de Abril último declaro, que habiéndose suspendido la judicatura de teniente gobernador por conveniencia del partido de San Antonio del mar, i no por crímen, ni otro motivo dado por el que la servia, no ha podido causarme infamia, ni rebaja alguna de la estimacion, que merezca entre los ciudadanos. Esta suprema declaracion es lo único que puede disipar cualesquiera siniestro juicio, que se haya formado contra mí en el hecho de verme sin aquella judicatura. Para ello,
+
+A V.E. suplico se digne mandar se publique en la Gaceta Ministerial dicho decreto en guarda de mi honor i de la justificacion, que motivó aquella suprema providencia; pido justicia, i gracia, etc.- José Antonio Milrs.
+
+Santiago, i Agosto 18 de 1819.- Por conveniencia del partido de Barraza se suprimió el empleo de teniente-gobernador, que servia entonces D. José Antonio Milrs, sin haber resultado contra éste criminalidad alguna, ni rebaja de su buen nombre. Insértese este memorial, i su proveido en la Gazeta Ministerial, para su satisfaccion.- O'Higgins.- Echeverría.
