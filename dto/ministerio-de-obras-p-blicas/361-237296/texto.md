@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 361, de 30 de mayo de 1996, se expropiaron los lotes de terreno N° 36-B y 122-B, superficies 90 y 760 M2., roles de avalúos en trámites, comuna de Rancagua, para la obra Mejoramiento Ruta 5 Sur, sector Pasadas por Rancagua Camino Ruta 5 Sur y se acordó precio de las indemnizaciones con los propietarios Roque Emilio Massera Ungerer y otro y Servicios de Ingeniería y Construcción Servinco Ltda., ascendente a la cantidad de $1.538.450.y $4.218.536.
+
+Fiscal del Ministerio de Obras Públicas.
