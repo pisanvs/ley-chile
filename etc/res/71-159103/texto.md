@@ -1,0 +1,5 @@
+EXTRACTO DE CANCELACION DE PERSONALIDAD JURIDICA DE ASOCIACION GREMIAL DE EMPRESARIOS AGRICOLAS DE LA PROVINCIA DE LLANQUIHUE
+
+Por resolución M. No. 71, de 27 de Junio de 1985, del Ministerio de Economía, Fomento y Reconstrucción, se canceló la personalidad jurídica de la "Asociación Gremial de Empresarios Agrícolas de la provincia de Llanquihue, Agrollanquihue A.G.", inscrita bajo el No. 1.307 del Registro de Asociaciones Gremiales, por haberse configurado respecto de ella la causal establecida en el artículo 5° inciso 3°, en relación con el artículo 18° No. 2, letra a), ambos del DL No. 2.757. Los bienes quedados una vez liquidada la asociación, deberán entregarse al Consorcio Agrícola del Sur "C.A.S.", de acuerdo al artículo 33° del estatuto de la entidad sancionada.-
+
+Jorge Valenzuela Durán, Coronel de Ejército, Subsecretario de Economía, Fomento y Reconstrucción.
