@@ -1,0 +1,19 @@
+FIJA MENCIONES Y DATOS QUE DEBERAN CONTENER LAS SOLICITUDES PARA PARTICIPAR EN LA MODALIDAD EXTRAORDINARIA DE SELECCION PARA LA ASIGNACION Y VENTA DE VIVIENDAS QUE SEÑALA, DESTINADAS A LOS DAMNIFICADOS QUE INDICA; DOCUMENTOS QUE DEBERAN ACOMPAÑARSE A ELLAS O EXHIBIRSE Y OPORTUNIDAD DE DE SU PRESENTACION Santiago, 5 de Diciembre de 1991.- Hoy se resolvió lo que sigue:
+
+Núm. 3.492 exenta.- Visto: El D.S. N° 62 (V. y U.), de 1984, y sus modificaciones, que reglamenta el Sistema de Postulación, Asignación y Venta de Viviendas destinadas a atender situaciones de marginalidad habitacional; el D.S. N° 85 (V. y U.), de 1991, que establece una modalidad de atención preferente a damnificados por la catástrofe acaecida en el mes de junio de 1991, en las comunas de Antofagasta y Tal Tal, para la asignación y venta de viviendas correspondientes al sistema regulado por el D.S. N° 62 (V. y U.), de 1984, y en especial atendido lo dispuesto en el inciso séptimo del artículo único del D.S. N° 85 (V. y U.), de 1991; la resolución exenta N° 1.469, de fecha 15 de junio de 1984, publicada en el Diario Oficial del 20 de junio de 1984,
+
+dicto la siguiente Resolución:
+
+1°.- Las solicitudes para postular a la modalidad extraordinaria de selección para la asignación y venta de viviendas a que se refiere el D.S. N° 85 (V. y U.), de 1991, deberán contener las menciones y datos que señala el respectivo formulario de postulación, debiendo acompañarse a la solicitud o formulario aludido, o exhibirse en el acto de la inscripción, los documentos correspondientes, de acuerdo a los requisitos que establece el D.S. N° 62 (V. y U.), de 1984, en lo que corresponda, así como aquéllos que señala el D.S. N° 85 (V. y U.), de 1991.
+
+Para estos efectos el SERVIU II Región de Antofagasta proporcionará gratuitamente a los interesados los formularios correspondientes y la información y orientación que éstos requieran.
+
+Tratándose de postulantes que ya estuvieren inscritos en los registros que regula el D.S. N° 62 (V. Y U.), de 1984 y que se encuentren en condiciones de postular a la modalidad extraordinaria de selección a que se refiere esta resolución, deberán presentar al SERVIU II Región de Antofagasta los antecedentes complementarios correspondientes en formulario que les proporcionará dicho Servicio.
+
+2°.- El SERVIU II Región de Antofagasta procederá a recibir, a partir del 12 de diciembre de 1991 y hasta el 30 de diciembre de 1991, ambas fechas inclusive, la inscripción de postulantes a la modalidad extraordinaria de selección a que se refiere la presente resolución, en el registro que regula el D.S. N° 62 (V. y U.), de 1984, debiendo mantenerlo permanentemente abierto para estos efectos, durante ese período, tanto para atender la inscripción de nuevos postulantes, como para que los ya inscritos en dicho registro puedan concurrir a actualizar o modificar los antecedentes consignados, o para cambiar su opción, excepto durante el período de cierre del Registro a que se refiere el artículo 9° del D.S. N° 62 (V. y U.), de 1984.
+
+3°.- En conformidad a lo dispuesto en el inciso séptimo del artículo único del D.S. N° 85 (V. y U.), de 1991, y de acuerdo a lo señalado en el número anterior, fíjase para el 31 de diciembre de 1991 la fecha de cierre del registro para proceder a la selección de postulantes a la modalidad extraordinaria a que se refiere la presente resolución.
+
+Anótese, publíquese en el Diario Oficial y archívese.- Alberto Etchegaray Aubry, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Joan Mac Donald M., Subsecretaria de Vivienda y Urbanismo.
