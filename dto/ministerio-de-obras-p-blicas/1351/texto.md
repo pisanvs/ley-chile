@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.351, de 31 de agosto de 1998, se expropió el lote de terreno No. 61-B, superficie 577 m2., Rol de Avalúo 20-236, comuna de Calle Larga, para la Obra Camino Santiago-Colina-Los Andes, Sector "G" By Pass Los Andes, Km. 14.602,15 al 21.928,00, V Región, y se acordó precio de la indemnización con Sociedad Agrícola Agrorred Limitada, ascendente a la cantidad de $ 387.910.
+
+- Fiscal del Ministerio de Obras Públicas.
