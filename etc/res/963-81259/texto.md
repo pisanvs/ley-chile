@@ -1,0 +1,3 @@
+Por Resolución No. 963, de 21 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la Resolución No. 926, de 1990, de esta Subsecretaría, que autorizó a PESQUERA TUMBES SOCIEDAD ANONIMA, R.U.T. No. 96.561.470-2, domiciliada en Concepción, para desarrollar actividades extractivas, con una embarcación en construcción, en orden a señalar sus actuales características náuticas.
+
+Valparaíso, 21 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
