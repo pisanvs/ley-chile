@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.688, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.887, de 2003, modificada mediante resoluciones Nº 2.108 y Nº 2.162, ambas de 2003, todas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2003-06, denominado "Evaluación del stock desovante de Anchoveta y Sardina común entre la V y X Regiones, año 2003", en el sentido de señalar que la pesca de investigación se extenderá hasta el 30 de noviembre de 2003.
+
+Valparaíso, 30 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
