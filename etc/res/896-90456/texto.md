@@ -1,0 +1,3 @@
+Por Resolución No. 896 de 05 de octubre de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, parte inmueble ubicado en calle Ricardo Santa Cruz No. 622, presunto rol avalúos 626-35, comuna Santiago, aparentemente dominio de doña Margarita Timmermann Wormull. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil, según informe de 31 de julio de 1989, fijó monto provisional indemnización en $1.859.870.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
