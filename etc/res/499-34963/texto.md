@@ -1,0 +1,5 @@
+Por Resolución N° 499, de 15 de Marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA IQUIQUE-GUANAYE S.A., para ampliar actividades pesqueras que tiene autorizadas por Resolución N° 1120, de 1995, de esta Subsecretaría, en orden a operar la nave "Monserrat", autorizada por la Resolución señalada precedentemente, en el litoral de la X Región, entre los Paralelos 39°23' L.S. y 41°28,6' L.S., por fuera del área de reserva artesanal, con red de cerco: Agujilla, Anchoveta, Caballa, Jurel, Merluza de cola y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 15 de Marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
