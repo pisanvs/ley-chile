@@ -1846,25 +1846,11 @@ e) Valor del impuesto.
 
 En el acta de protesto se dejará constancia también, cuando corresponda, del valor del impuesto a que se refiere el numeral 13.7 de este título.
 
-f) Firmas.
+f) Firma del banco librado.
 
-El acta de protesto debe firmarla el portador y el librado, salvo cuando la negativa del pago fuere por falta de fondos, caso en que basta la firma del banco, ya que no es necesario el requerimiento ni la intervención del portador.
+En conformidad con lo dispuesto en el artículo 33 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, el acta de protesto debe contener la firma del librado. Ello implica que tal acta debe ser firmada por la persona que tenga poder suficiente para representar al banco, pues de lo contrario tales actas adolecerán de vicio de nulidad.
 
-Para este efecto debe tenerse presente lo indicado en el numeral siguiente.
-
-13.4.3. Firma del acta de protesto por parte de los bancos.
-
-Como ya se ha expresado, la Ley sobre Cuentas Corrientes Bancarias y heques, en su artículo 33, establece que el acta de protesto debe contener, entre otros requisitos, la firma del librado, lo cual implica que tal acta debe ser firmada por la persona que tenga poder suficiente para representar al banco, pues encaso contrario, tales actas adolecerán de vicio de nulidad.
-
-Si a un banco le ha sido endosado un cheque en comisión de cobranza y el mismo tiene también la calidad de librado, basta con la firma del representante de ese banco para la validez del protesto, aunque el cheque se proteste por una causal diferente de la falta de fondos.
-
-En los casos en que se proteste un cheque por causales distintas de la falta de fondos, el banco que lo haya presentado a cobro esta obligado a firmar el protesto en su calidad de portador. Cuando es más de una la institución u oficina que interviene en la gestión de cobro, dicha obligación corresponde al banco o sucursal de este que haya presentado el documento para su pago al banco
-
-librado. De esta manera, cuando intervenga más de una oficina bancaria en la comisión de cobranza, de acuerdo con lo que establece el artículo 33 de la Ley
-
-sobre Cuentas Corrientes Bancarias y Cheques, el acta de protesto la firmará en calidad de portadora, la oficina que intervino en último término en el trámite de cobro, esto es, aquella que directamente o por intermedio de la Cámara de
-
-Compensación respectiva, presentó el cheque al banco librado y lo recibió de vuelto de este. En todo caso, como el banco es una sola y misma persona jurídica, si la oficina respectiva omitiere la firma del protesto como portadora, podrá hacerlo cualquier otra oficina de la misma institución.
+13.4.3. ELIMINADO.
 
 13.5. Devolución de endoso de cheques protestados.
 
