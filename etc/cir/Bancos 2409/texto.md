@@ -2510,7 +2510,7 @@ Cuando se convenga la modificación de las condiciones por las que se rige una c
 
 No obstante lo indicado precedentemente, cuando una institución financiera mantenga sistemas de "cuentas de ahorro con libreta" y "cuentas de ahorro sin libreta", los titulares de las cuentas de ahorro podrán optar por cambiar de modalidad conservando la antigüedad para los efectos del abono de reajustes e intereses, como asimismo, para el cómputo de la cantidad de giros. Para efectuar dichos traspasos, sin embargo, deberá suscribirse un nuevo contrato, debiendo la institución financiera informar debidamente al interesado acerca de las características y costos del sistema al que se quiere acoger.
 
-Por otra parte, cuando la institución depositaría consienta en abonar trimestralmente los reajustes en una cuenta de ahorro con giro incondicional en que se haya pactado el abono cada doce meses y el cambio consista solamente en esa reducción de la periodicidad, se podrá mantener la misma cuenta con todas sus implicancias, bastando para el efecto que el titular presente una solicitud o declaración en tal sentido, sin necesidad de suscribir un nuevo contrato.
+Por otra parte, cuando la institución depositaría consienta en abonar trimestralmente los reajustes en una cuenta de ahorro con giro incondicional en que se haya pactado el abono cada doce meses y el cambio consista solamente en esa modificación de la periodicidad, se podrá mantener la misma cuenta con todas sus implicancias, bastando para el efecto que el titular presente una solicitud o declaración en tal sentido, sin necesidad de suscribir un nuevo contrato.
 
 ### 4. Libretas de ahorro
 
@@ -4518,7 +4518,7 @@ La instrucción precedente implica que las disponibilidades que los bancos tenga
 
 El encaje, para cada una de las monedas extranjeras, deberá estar constituido por billetes y monedas del respectivo país, que estén disponibles en caja en el respectivo banco, en tránsito entre sus oficinas o en tránsito al Banco Central de Chile. Se excluyen, para efectos de este cómputo, los billetes y monedas en custodia en empresas transportadoras de valores o en otras instituciones financieras.
 
-Asimismo, servirán para constituir el encaje los demás depósitos a la vista en monedas extranjeras o expresados en dichas monedas, mantenidos en el Banco Central de Chile, incluidos los saldos de las cuentas "Depósitos en el Banco Central expresados en dólares" y "Depósitos "Overnight" en el Banco Central de Chile". Con todo, para estos efectos deberán exceptuarse los saldos registrados en las cuentas "Cuentas Acuerdo N° 1657-11-850627" y "Cuenta especial encaje Acuerdo N° 143-01-910705".
+Asimismo, servirán para constituir el encaje los demás depósitos a la vista en monedas extranjeras o expresados en dichas monedas, mantenidos en el Banco Central de Chile, incluido el saldo de la cuenta "Depósitos "overnight" en el Banco Central de Chile". Con todo, para estos efectos deberán exceptuarse los saldos registrados en las cuentas "Cuentas Acuerdo N° 1657-11-850627" y "Cuenta especial encaje Acuerdo N° 143-01-910705".
 
 De conformidad con lo señalado en el N° 4 del titulo I de este Capítulo, el encaje exigido en monedas extranjeras también puede enterarse con excedentes de encaje mantenido en moneda chilena.
 
@@ -4656,7 +4656,7 @@ Las instituciones financieras que deban constituir reserva técnica podrán hace
 
 En todo caso, cuando una institución financiera opte por constituir su reserva técnica en forma diferida de conformidad con lo señalado en el párrafo precedente, deberá mantener esa modalidad, sin perjuicio de lo dispuesto en el numeral 10.2 de este título, y sólo podrá cambiarla con autorización previa de esta Superintendencia.
 
-Dicha reserva técnica se enterará con billetes y monedas de curso legal en el país o con monedas extranjeras sujetas a posición de cambio, que estén disponibles en caja, en las respectivas instituciones financieras, o depositados a la vista en e] Banco Central de Chile, incluidos los saldos de las cuentas "Depósitos en el Banco Central expresados en dólares" y "Depósitos "overnight" en el Banco Central de Chile", Para estos efectos se considerarán como caja las remesas en efectivo en tránsito entre oficinas de una misma empresa bancaria o sociedad financiera y las remesas en efectivo al Banco Central de Chile. Es decir, serán utilizables como reserva técnica los saldos de las partidas 1005 y 1010 del MB1, excluidos los importes de las cuentas "Caja en custodia en empresas transportadoras de valores" y "Caja en custodia en otras entidades financieras" y los saldos en monedas extranjeras de libre disposición.
+Dicha reserva técnica se enterará con billetes y monedas de curso legal en el país o con monedas extranjeras sujetas a posición de cambio, que estén disponibles en caja, en las respectivas instituciones financieras, o depositados a la vista en e] Banco Central de Chile, incluido el saldo de la cuenta "Depósitos "overnight" en el Banco Central de Chile", Para estos efectos se considerarán como caja las remesas en efectivo en tránsito entre oficinas de una misma empresa bancaria o sociedad financiera y las remesas en efectivo al Banco Central de Chile. Es decir, serán utilizables como reserva técnica los saldos de las partidas 1005 y 1010 del MB1, excluidos los importes de las cuentas "Caja en custodia en empresas transportadoras de valores" y "Caja en custodia en otras entidades financieras" y los saldos en monedas extranjeras de libre disposición.
 
 Asimismo, la reserva técnica podrá enterarse con documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, para cuyo vencimiento no falten más de 90 días, sean instrumentos destinados especialmente para estos efectos o los demás que cumplan con esa condición y que se señalan en los numerales 5.3 y 5.4 de este título.
 
@@ -4833,18 +4833,6 @@ De acuerdo con lo anterior, las instituciones financieras deberán determinar di
 Las instituciones financieras deberán enviar a esta Superintendencia la información sobre la reserva técnica de que se trata, de conformidad con las instrucciones del Manual del Sistema de Información.
 
 Además de la información que debe enviarse normalmente para el Sistema de Información de este Organismo, en caso de que la institución financiera registre un déficit de reserva técnica, el Gerente General deberá dar cumplimiento a lo dispuesto en el penúltimo inciso del artículo 80 bis de la Ley General de Bancos, comunicando esa situación dentro del día hábil bancario siguiente a aquél en que haya ocurrido, tal como se instruye en el numeral 10.1 del título I de este Capítulo.
-
-### 3. Disposición transitoria
-
-De conformidad con lo dispuesto en el artículo 2° transitorio de la Ley N° 18576 y el Capítulo III.A.4 del Compendio de Normas Financieras del Instituto Emisor, durante los años 1987, 1988 y 1989, las instituciones financieras pueden obtener préstamos del Banco Central de Chile para cumplir con la obligación de mantener la reserva técnica de que trata este capítulo.
-
-El financiamiento que se obtenga durante ese período, debe registrarse en la cuenta "Obligaciones por financiamiento para reserva técnica" de la partida 3405 del formulario MB1.
-
-Cuando los préstamos obtenidos del Banco Central de Chile sean reajustables, se debitarán los reajustes devengados en la cuenta "Reajustes pagados" de la partida 5360 del formulario MR1, con abono a la respectiva cuenta complementaria del pasivo.
-
-Los intereses devengados por estos financiamientos serán debitados en la cuenta "Intereses pagados" de la partida 5155 del formulario MR1, con abono a la cuenta "Intereses por pagar" de la partida 3810 del formulario MB1.
-
-El importe de los préstamos obtenidos para cumplir con la exigencia de reserva técnica, debe quedar depositado íntegramente en la cuenta de "Depósitos de reserva técnica en el Banco Central de Chile". Por consiguiente, el saldo de esta última cuenta deberá ser en todo momento igual o superior a los préstamos vigentes recibidos por la respectiva entidad financiera.
 
 CAPITULO 5-1 (Bancos y Financieras)
 
@@ -16562,21 +16550,7 @@ establecen los artículos 81 y 115 de la Ley General de Bancos.
 
 2. Contratos celebrados con personas relacionadas con la institución financiera.
 
-De conformidad con lo establecido en el N° 6 del titulo IV de la Circular N°
-
-1.993-442 y en la Carta Circular N° 53-49, de 14 de septiembre de 1984, de esta
-
-Superintendencia, las empresas bancarias y sociedades financieras que celebren
-
-contratos de leasing con personas relacionadas con la propiedad o gestión de la
-
-empresa, deben informar en el formulario T-8, establecido por la citada Carta
-
-Circular N° 53-49, los gastos pagados (arriendos y otros) a dichas personas, en
-
-virtud de de los contratos de leasing que hubieran convenido con ellas, de
-
-acuerdo con las instrucciones vigentes sobre el particular.
+Las instituciones financieras que celebren contratos de leasing con personas relacionadas con la propiedad o gestión de la empresa, deben informar los importes pagados a dichas personas en virtud de los contratos de leasing que hayan convenido con ellas, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información, relativas a gastos a favor de personas relacionadas.
 
 CAPITULO 11-2 (Bancos)
 
@@ -19366,13 +19340,9 @@ convenios.
 
 Estarán exentas del límite a que se refiere el N° 1 de este capítulo, las siguientes obligaciones:
 
-a) Líneas de crédito o refinanciamiento aludidos en el Capítulo II.B.6 del Compendio de Normas Financieras del Banco Central de Chile;
+a) Líneas de crédito o refinanciamiento aludidos en el Capítulo II.B.6 del Compendio de Normas Financieras del Banco Central de Chile; y,
 
-b) Créditos de que trata el Capítulo II.B.2.2 del Compendio de Normas Financieras.
-
-c) Créditos de que trata la letra e) del N° 9 del Capítulo III.A.4 del Compendio de Normas Financieras y el N° 3 del título III del Capítulo 4-2 de esta Recopilación; y,
-
-d) Créditos a que se refiere la letra "B" del Capítulo IV.E.2 del Compendio de Normas Financieras y el título III del Capítulo 13-8 de esta Recopilación.
+b) Créditos a que se refiere la letra "B" del Capítulo IV.E.2 del Compendio de Normas Financieras y el título II del Capítulo 13-8 de esta Recopilación.
 
 4. Oportunidad en que las obligaciones afectas deben imputarse al margen de
 
@@ -23422,65 +23392,15 @@ MATERIA:
 
 REESTRUCTURACION DE OBLIGACIONES CON EL EXTERIOR. CAMBIO DE LA MONEDA ORIGINAL.
 
-Como consecuencia de la renegociación de deudas con el exterior, es posible que
+Como consecuencia de la renegociación de deudas con el exterior, es posible que algunas obligaciones de las instituciones financieras queden expresadas en una moneda distinta a aquélla en que fueron originalmente pactadas, lo cual motivará para la institución financiera un riesgo de arbitraje. Tal riesgo debe quedar reflejado en cuentas especiales de conversión y cambio, establecidas para el efecto.Así, por ejemplo, si una obligación que se ha reestructurado, estaba primitivamente pactada en la moneda "A" y en la reestructuración queda fijada en la moneda "B",el pasivo de la moneda "A" se cancelará contra un abono a la
 
-algunas obligaciones de las instituciones financieras queden expresadas en una
+cuenta "Conversión Obligaciones Externas reestructuradas", que se abrirá para esa moneda, en tanto que el pasivo reestructurado en la moneda "B", se contabilizará a débito de la cuenta de "Conversión Obligaciones Externas reestructuradas", que se establezca para la moneda "B". Simultáneamente, deben hacerse los correspondientes asientos por las equivalencias en pesos, en las cuentas "Cambio Obligaciones externas reestructuradas", que deberán abrirse por las respectivas cuentas de conversión antedichas. Estas cuentas de conversión y cambio se demostrarán en las partidas 2510 y 4510 del formulario MB1, según corresponda.
 
-moneda distinta a aquélla en que fueron originalmente pactadas, lo cual motivará
+Las mencionadas cuentas de cambio, se ajustarán mensualmente en la forma señalada en el Capítulo 13-30 de esta Recopilación.
 
-para la institución financiera un riesgo de arbitraje. Tal riesgo debe quedar
+Los saldos de las citadas cuentas de cambio y conversión se extinguirán según se recuperen los activos expresados en la moneda original de sus respectivos pasivos que, para el caso del ejemplo, será la moneda "A" y, en cuanto ella sea arbitrada a la moneda "B" para, en su oportunidad, pagar el pasivo convenido ahora en la nueva moneda. Como consecuencia de este arbitraje, se producirá un débito en la conversión especial de la moneda que se vende (moneda "A") y un crédito en la conversión especial de la moneda que se adquiere (moneda "B").
 
-reflejado en cuentas especiales de conversión y cambio, establecidas para el
-
-efecto.Así, por ejemplo, si una obligación que se ha reestructurado, estaba
-
-primitivamente pactada en la moneda "A" y en la reestructuración queda fijada en
-
-la moneda "B",el pasivo de la moneda "A" se cancelará contra un abono a la
-
-cuenta "Conversión Obligaciones Externas reestructuradas", que se abrirá para
-
-esa moneda, en tanto que el pasivo reestructurado en la moneda "B", se
-
-contabilizará a débito de la cuenta de "Conversión Obligaciones Externas
-
-reestructuradas", que se establezca para la moneda "B". Simultáneamente, deben
-
-hacerse los correspondientes asientos por las equivalencias en pesos, en las
-
-cuentas "Cambio Obligaciones externas reestructuradas", que deberán abrirse por
-
-las respectivas cuentas de conversión antedichas. Estas cuentas de conversión y
-
-cambio se demostrarán en las partidas 2510 y 4510 del formulario MB1, según
-
-corresponda.
-
-Las mencionadas cuentas de cambio, se ajustarán mensualmente en la forma
-
-señalada en la Circular N° 1.892-343 de 3 de marzo de 1983.
-
-Los saldos de las citadas cuentas de cambio y conversión se extinguirán según se
-
-recuperen los activos expresados en la moneda original de sus respectivos
-
-pasivos que, para el caso del ejemplo, será la moneda "A" y, en cuanto ella sea
-
-arbitrada a la moneda "B" para, en su oportunidad, pagar el pasivo convenido
-
-ahora en la nueva moneda. Como consecuencia de este arbitraje, se producirá un
-
-débito en la conversión especial de la moneda que se vende (moneda "A") y un
-
-crédito en la conversión especial de la moneda que se adquiere (moneda "B").
-
-En lo relativo a los pasivos reestructurados, ellos pueden contabilizarse en
-
-cuentas que reflejen esa situación especial. Los saldos de dichas cuentas se
-
-incluirán en las respectivas partidas de obligaciones con el exterior a más de
-
-un año plazo, del formulario MB1.
+En lo relativo a los pasivos reestructurados, ellos pueden contabilizarse en cuentas que reflejen esa situación especial. Los saldos de dichas cuentas se incluirán en las respectivas partidas de obligaciones con el exterior a más de un año plazo, del formulario MB1.
 
 CAPITULO 13-18 (Bancos y Financieras)
 
@@ -23664,17 +23584,9 @@ De la misma manera y sin perjuicio de lo anterior, las institutuciones financier
 
 ### 10. Límites
 
-Los instrumentos de la cartera de colocaciones o de inversiones que adquieran
+Los instrumentos de la cartera de colocaciones o de inversiones que adquieran las instituciones financieras de conformidad con las disposiciones de este capítulo, quedarán sujetos a los límites del artículo 84 de la Ley General de Bancos, según corresponda.
 
-las instituciones financieras de conformidad con las disposiciones de este
-
-capítulo, quedarán sujetos a los límites de los artículos 83 y 84 de la Ley
-
-General de Bancos, según corresponda.
-
-Asimismo, las obligaciones con el exterior que asuman, estarán afectas al límite
-
-de que tratan los artículos 81 y 115 del referido cuerpo legal.
+Asimismo, las obligaciones con el exterior que asuman, estarán afectas al límite de que tratan los artículos 81 y 115 del referido cuerpo legal.
 
 CAPITULO 13-19 (Bancos y Financieras)
 
@@ -31314,39 +31226,13 @@ RECAUDACIONES DE IMPUESTOS, CONTRIBUCIONES Y DEMAS OBLIGACIONES TRIBUTARIAS.
 
 ### 1. Recaudaciones tributarias por parte de las instituciones financieras
 
-De acuerdo con las normas del Servicio de Impuestos Internos, impartidas
+De acuerdo con las normas del Servicio de Impuestos Internos, los bancos y las sociedades financieras pueden recibir formularios de declaraciones de pagos de obligaciones tributarias de parte de los contribuyentes, siempre que cuenten con
 
-mediante la Circular N° 48 de 1° de octubre de 1981, los bancos y las sociedades
+la respectiva autorización para actuar como delegados del Servicio de Tesorerías, otorgada por el Director del Servicio de Impuestos Internos.
 
-financieras pueden recibir formularios de declaraciones de pagos de
+Las instituciones financieras que actúen como recaudadoras autorizadas de tributos y demás obligaciones a favor del Fisco, deben atenerse a las isposiciones establecidas en el D.S. N° 255 de 1979 y sus modificaciones, del Ministerio de Hacienda, y a la reglamentación y procedimientos operativos que le son aplicables en su calidad de delegados del Servicio de Tesorerías.
 
-obligaciones tributarias de parte de los contribuyentes, siempre que cuenten con
-
-la respectiva autorización para actuar como delegados del Servicio de
-
-Tesorerías, otorgada por el Director del Servicio de Impuestos Internos.
-
-Las instituciones financieras que actúen como recaudadoras autorizadas de
-
-tributos y demás obligaciones a favor del Fisco, deben atenerse a las
-
-disposiciones establecidas en el D.S. N° 668 del Ministerio de Hacienda, de
-
-1981, y a la reglamentación y procedimientos operativos que le son aplicables en
-
-su calidad de delegados del Servicio de Tesorerías.
-
-El Director del Servicio de Impuestos Internos está facultado para dejar sin
-
-efecto la autorización otorgada a una institución financiera, en caso de
-
-incumplimiento de las disposiciones que regulan las operaciones de que se trata.
-
-Por otra parte, el banco o sociedad financiera que desee retirarse del sistema,
-
-debe comunicarlo por escrito al Director del Servicio de Impuestos Internos, a
-
-lo menos con seis meses de anticipación.
+El Director del Servicio de Impuestos Internos está facultado para dejar sin efecto la autorización otorgada a una institución financiera, en caso de incumplimiento de las disposiciones que regulan las operaciones de que se trata. Por otra parte, el banco o sociedad financiera que desee retirarse del sistema, debe comunicarlo por escrito al Director del Servicio de Impuestos Internos, a lo menos con seis meses de anticipación.
 
 ### 2. Depósitos en la Cuenta Unica Fiscal
 
@@ -32624,58 +32510,6 @@ actualizado, de acuerdo con las instrucciones de las respectivas cartas
 
 circulares.
 
-### 3. Disposiciones transitorias
-
-3.1. Formularios no incluidos en el Manual del Sistema de Información.
-
-Los formularios que incluye el Manual del Sistema de Información son todos los
-
-que permanecen vigentes, de modo que las instituciones financieras se
-
-abstendrán, en lo sucesivo, de enviar aquellos que no estén considerados en
-
-él,salvo los siguientes formularios que se continuarán enviando en la forma
-
-habitual, dentro de los plazos que se señalan y hasta la oportunidad que en cada
-
-caso se indique:
-
-a) Formularios MB1 y MR1.
-
-Los formularios MB1 "Modelo de Balance y Estado de Situación" y MR1 "Modelo de
-
-Resultados y Estado de Pérdidas y Ganancias", no forman parte del manual de que
-
-trata el presente capítulo. Estos formularios se seguirán enviando mientras no
-
-se libere el sistema que procesa los archivos C01 y C02, sobre la base de las
-
-disposiciones contables vigentes.
-
-Sin embargo, atendida la conveniencia de uniformar todos los plazos para la
-
-entrega de información a esta Superintendencia, se dispone que, en adelante, el
-
-plazo para el envío mensual de los formularios MB1 y MR1 será de 6, 7 ú 8 días
-
-hábiles bancarios, según se trate de instituciones que tengan menos de 3, entre
-
-3 y 50 ó más de 50 sucursales en el país.
-
-b) Otros formularios.
-
-Cuando corresponda y hasta el 31 de diciembre de 1988, las instituciones
-
-fiscalizadas seguirán enviando los formularios "Saldos de préstamos amparados
-
-por cartas de crédito stand-by" y "Saldos diarios de obligaciones, depósitos y
-
-captaciones caucionados por garantía Ley N° 18.519", a que se refiere la Carta
-
-de Gerencia de 14 de abril de 1986 y la Carta Circular 12-10 de 30 de enero de
-
-1987, respectivamente, de esta Superintendencia.
-
 CAPITULO 18-4 (Bancos y Financieras)
 
 MATERIA:
@@ -32838,19 +32672,7 @@ señalada deberá estar en el anverso de los documentos con letras destacadas.
 
 ### 2. Aviso en oficinas de la institución
 
-Con el mismo objeto señalado precedentemente, los bancos y sociedades
-
-financieras deberán mantener a la vista del público, en un lugar destacado y
-
-dentro de los espacios donde se atiendan operaciones de captación, en la casa
-
-matriz, en las sucursales y cajas auxiliares, el aviso referente a las
-
-limitaciones de la garantía estatal por depósitos y captaciones que les
-
-corresponda, de acuerdo al texto y formato que se indican en el anexo de este
-
-capítulo.
+Con el mismo objeto señalado precedentemente, los bancos y sociedades financieras deberán mantener a la vista del público, en un lugar destacado y dentro de los espacios donde se atiendan operaciones de captación, en la casa matriz, en las sucursales y cajas auxiliares, el aviso referente a las limitaciones de la garantía estatal por depósitos y captaciones que les corresponda, de acuerdo al texto y formato que se indican en el Anexo N° 1 de este capitulo.
 
 ### 3. Volante informativo
 
@@ -32916,31 +32738,49 @@ misma. La permanencia de este cuadro en pantalla no podrá ser inferior a cuatro
 
 segundos.
 
-### 5. Disposición transitoria
+ANEXO N°1
 
-Las instrucciones contenidas en el tercer párrafo del N° 4 precedente, deberán
+I.- TEXTO DEL ANUNCIO SOBRE GARANTIA ESTATAL
 
-aplicarse a partir del 1° de noviembre de 1988. No obstante, en el caso que las
+GARANTIA ESTATAL Y PREFERENCIAS PARA LOS DEPOSITOS Y CAPTACIONES
 
-instituciones financieras tengan contratada publicidad de esa naturaleza que ya
+Las normas de la Ley General de Bancos aseguran a los depósitos en moneda nacional o extranjera de un banco o sociedad financiera los siguientes pagos:
 
-se encuentre grabada o filmada, podrán insertar la leyenda "Infórmese sobre el
+PRIMERO:
 
-límite de garantía estatal a los depósitos", en cualquiera de los cuadros del
+En el 100% de su monto:
 
-respectivo "spot" o aviso en que aparezca el nombre o logotipo de la entidad
+1) Los depósitos en cuenta corriente.
 
-financiera, debiendo cuidar que tenga la suficiente nitidez y se mantenga en
+2) Los depósitos mediante libreta de ahorro a la vista.
 
-pantalla por el tiempo necesario para que alcance a ser leída sin dificultad.
+3) Los demás depósitos a la vista.
 
-Esta excepción tendrá vigencia hasta el 31 de diciembre próximo, de modo que, a
+4) Los depósitos a plazo cuyas fechas de vencimiento no excedan los próximos 10 días.
 
-partir del 1° de enero de 1989, las entidades financieras que realicen
+5) Los depósitos mediante libretas de ahorro a plazo y para la vivienda, con giros inmediatos.
 
-publicidad, audiovisual, deberán atenerse a la norma permanente de que trata el
+SEGUNDO:
 
-último párrafo del N° 4 ya citado.
+En un 90% de su monto total, con tope máximo a pagar de 108 U.F., en todo el sistema financiero por cada año calendario, los depósitos a plazo que cumplan con los siguientes requisitos:
+
+1) Que el titular sea una persona natural.
+
+2) Que se trate de depósitos a plazo mediante documentos nominativos o a la orden, incluso con libretas de ahorro con giros diferidos.
+
+NOTA: Los preceptos legales que establecen estas preferencias y garantías se encuentran en el artículo 80 bis y los artículos 141 al 150 de la Ley General de Bancos.
+
+SUPERINTENDENCIA DE BANCOS E INSTITUCIONES FINANCIERAS
+
+II.- DIMENSIONES DEL ANUNCIO
+
+Ancho : 50 centímetros
+
+Largo : 70 centímetros
+
+Márgenes : 7 centímetros
+
+Las medidas de ancho y largo descritas representan el tamaño mínimo que podrá tener el aviso.
 
 CAPITULO 18-9 (Bancos y Financieras)
 
