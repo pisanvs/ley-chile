@@ -1,0 +1,3 @@
+Por Resolución Nº 1.283, de 29 de septiembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura, solicitud Nº 95103091, presentada por CULTIVOS MARINOS CHILOE S.A., R.U.T. Nº 79.784.980-4, con domicilio en San Sebastián Nº 2780, piso 2, Santiago, para el centro de cultivo ubicado en Punta Lalín, Isla Meulín, Comuna de Quinchao, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78 y 87 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de septiembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
