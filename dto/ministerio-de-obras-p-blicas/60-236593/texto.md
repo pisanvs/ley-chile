@@ -1,0 +1,3 @@
+Por Decreto MOP N° 60, de 31 de enero de 1996, se expropiaron los lotes de terreno N°s. 43, 55, 56, 57, 58, 59 y 60, superficies 56.770 m2., 2.000 m2., 2.000 m2., 2.430 m2., 2.570 m2., 125 m2. y 510 m2., roles de avalúo 2071-3 y 1195-198, comunas de Cerrillos y Maipú, para la obra Camino Autopista Santiago- San Antonio, sector Empalme Isabel Riquelme Bif. Malloco, y se acordó el valor de indemnización con sus propietarios Magdalena Arangua Rivas y Soc. Fundo Loma Blanca Limitada, ascendente a las cantidades de $524.177.280.- para el lote 43 y $223.832.771.- para los lotes 55, 56, 57, 58, 59 y 60, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
