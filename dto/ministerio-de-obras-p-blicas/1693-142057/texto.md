@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.693, de 24 de junio de 1999, se expropió el lote de terreno No. 25-A, superficie 509 m2, rol de avalúo 189-123, comuna de Longaví, para la obra Camino Ruta 5 Longitudinal Sur, Sector San Javier-Parral II Tramo C, Séptima Región y se acordó el valor de indemnización con su propietario Jorge Desiderio Molina Urra, ascendente a la cantidad de $ 949.766.-
+
+Fiscal del Ministerio de Obras Públicas.
