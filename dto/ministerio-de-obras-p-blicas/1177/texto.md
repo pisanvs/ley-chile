@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.177, de 7 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206 de 1960, se expropiaron los lotes de terreno No. s.169-C y 169-D, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector Km. 117.500,00 al 120.500,00, V Región, que figuran a nombre de Torres Fernández Humberto, rol de avalúo 179-105, de la comuna de Nogales, superficies 1.323 m2 y 178 m2. La Comisión de Peritos integrada por los Sres. Orlando Antonio Fariña Vásquez, Luis Humberto Toledo Fuenzalida y Tommy Cederic Butler Bustamante, fijó con fecha 16 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $ 28.786.500.- para el lote No. 169-C y $ 445.000.- para el lote No. 169-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
