@@ -22,11 +22,9 @@ Un decreto reglamentario determinará en sus detalles la forma en que se confecc
 
 #### Artículo 4
 
-o Expirado el plazo de quince días a que se refiere el artículo anterior, la Tesorería General hará publicar una sola vez la nómina de los deudores morosos en un diario o periódico de la capital del departamento o, si allí no lo hubiere, en uno de circulación general en la región.
+o Expirado el plazo respectivo para el pago de los diversos impuestos y patentes, el Tesorero General de la República hará publicar avisos repetidos por tres veces en días diferentes, aunque no sean hábiles, llamando la atención a los contribuyentes que no hubieren efectuado el pago, respecto de la mora en que hayan incurrido, sin perjuicio que pueda autorizar una vez al año la publicación de la nómina de los deudores morosos correspondientes a determinadas Comunas.
 
-Las omisiones en que se pudiere incurrir al hacer esta publicación, no entorpecerán en manera alguna el procedimiento que se indica en los artículos siguientes.
-
-La publicación a que se refiere este artículo no será indispensable en el cobro judicial de los impuestos no sujetos a rol.
+La publicación de los avisos a que se refiere el inciso anterior no será antecedente necesario para la iniciación de los procedimientos judiciales que correspondan
 
 #### Artículo 5
 
