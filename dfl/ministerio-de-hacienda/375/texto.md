@@ -1,0 +1,1 @@
+Faculta al Departamento de Industrias del Ministerio de Economía para autorizar la instalación de nuevas industrias en las condiciones que señala.
