@@ -1,0 +1,1 @@
+Declara que los edificios destinados a viviendas cuya construcción se inicie después del 1° de Enero de 1946 y se termine antes del 31 de Diciembre de 1948, estarán exentos de los impuestos que gravan la propiedad raíz, hasta el 31 de Diciembre de 1958, con la excepción que menciona.
