@@ -1,0 +1,3 @@
+Por resolución Nº 1.270, de 9 de julio de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 1.811 de 1989 y Nº 1.548 de 1990, ambas de esta Subsecretaría, que autorizaron a RAMON OSVALDO GUTIERREZ GUTIERREZ, para instalar y operar el centro de cultivo ubicado en El Morro, comuna de Caldera, provincia de Copiapó, III Región.
+
+Valparaíso, 9 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
