@@ -1,0 +1,9 @@
+EXTRACTO DE LA REFORMA DE ESTATUTOS DEL BANCO DEL PACIFICO, EN ADELANTE BANESTO CHILE BANK
+
+Certifico que, por Resolución No. 83 de 26 de junio de 1992, se aprobó el aumento de capital contenido en la reforma introducida a los estatutos del Banco del Pacífico, en adelante denominado Banesto Chile Bank, acordada en la Junta Extraordinaria de Accionistas celebrada en Santiago el 04 de mayo de 1992, cuya acta fue reducida a escritura pública el mismo día, en la Notaría de Santiago de don Enrique Morgan Torres.
+
+Extracto de la reforma:
+
+Se acordó aumentar el capital social a la suma de $ 20.155.149.494, dividido en 116.927.531 acciones, mediante la emisión de 81.218.767 acciones pagaderas en dinero efectivo, de la Serie G, que se crea, sin valor nominal, las que deberán quedar emitidas y pagadas dentro del plazo de tres años contado desde la aprobación de esta reforma por esta Superintendencia. Las acciones Serie G que se emitirán gozarán del derecho a percibir dividendos con cargo a los excedentes de cada ejercicio social que transcurra mientras se encuentre vigente la obligación subordinada a la que se refiere el artículo 15 de la Ley No. 18.401, dividendo que alcanzar al 55% de aquella parte de los excedentes que proporcionalmente corresponda a las acciones de la Serie G en relación con el número total de acciones que estén emitidas al término del ejercicio cuyo excedente corresponda repartir. Las acciones que no estén totalmente pagadas se considerarán sólo por la parte pagada para calcular la proporción indicada.
+
+Santiago, 26 de Junio de 1992.- José Florencio Guzman C., Superintendente de Bancos e Instituciones Financieras.
