@@ -1,0 +1,3 @@
+Por decreto MOP Nº1464, de fecha 28 de septiembre de 2001, se expropiaron los lotes de terreno Nºs. 68 y 70, superficies 493 M2 y 330 M2, respectivamente, rol de avalúo 136-71, comuna de San Francisco de Mostazal, para la obra "Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, Tramo Km. 0,000 al 9.317" y se acordó el valor de indemnización con su propietario don José Manuel del Canto Celedón, ascendente a la cantidad de $8.125.272.-
+
+Fiscal del Ministerio de Obras Públicas.
