@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 243, de 27 de agosto de 1985, se expropiaron lotes 1-A, 1-C, 2B, 2-C y 4-A, roles de avalúos de los terrenos 100-89, 100-1 y 100-84, Comuna de Santiago y se acordó precio de indemnización con los afectados don José Luis Vargas Acuña, Haydeé Agramont Ugarte, Bicicletas Egaña Limitada, Olga Arriagada Briones y Pedro Valdecantos de Pablo, ascendente a $ 216.432, $ 187.040, $ 374.080, $ 172.344 y $ 347.360, respectivamente.
+
+- Fiscal del Ministerio de Obras Públicas.
