@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.059 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 11, superficie 371,9 m², rol de avalúo Nº 167-302, comuna de Maule, para la obra "Camino Ruta K-620, Sector Culenar - Maule, Km. 0,000.00 a Km. 10,520.00, comuna de Maule, provincia de Talca", VII Región y se acordó el valor de la indemnización con su propietario Emiliano Segundo Valenzuela Varela, ascendente a la cantidad de $5.071.856.
+
+- Fiscal del Ministerio de Obras Públicas.
