@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 111, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 111, superficie 318 m2, rol de avalúo 205-89, comuna de Coelemu, para la obra "Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000", y se acordó el valor de indemnización con su propietaria Haydée Guzmán Fuentes, ascendente a la cantidad de $850.648.
+
+- Fiscal del Ministerio de Obras Públicas.
