@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.101, de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº101-D, superficie 250,00 m², Rol Nº2001-21, comuna de Yebas Buenas, VII Región para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Long. (Villa Alegre9-Esperanza, tramo Km. 0,000.00 a 10,623.89", y se acordó el valor de indemnización con su propietario Juan de la Cruz Vielma Vásquez, ascendente a la cantidad de $803.600.-
+
+Fiscal del Ministerio de Obras Públicas.
