@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 38, de fecha 23 de abril de 2001, se aprobó la Disolución Voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales Llaima Limitada, de Talca, que consta en la escritura pública suscrita con fecha 28 de febrero de 2001, ante el Notario Público Titular de Talca, don Adolfo Pino Parra.-
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
