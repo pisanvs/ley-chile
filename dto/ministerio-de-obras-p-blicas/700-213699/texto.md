@@ -1,0 +1,3 @@
+Por decreto MOP Nº 700 de fecha 30 de junio del 2003, se expropió el lote de terreno Nº 67, superficie 699,0 m2, Rol Nº 2023-216, comuna de Melipilla, Región Metropolitana para la obra "Camino Reposición Ruta G-74-F Sector Melipilla - Bollenar, Tramo Km. 0.00000 al 14.23039, y se acordó el valor de indemnización con su propietario Marcial Orellana Erdmann y Otra, ascendente a la cantidad de $4.461.015.
+
+- Fiscal del Ministerio de Obras Públicas.
