@@ -1,0 +1,3 @@
+Por decreto MOP. Nº121, de 13 de febrero de 1998, se expropió el lote de terreno Nº48, superficie 571 m2., rol de avalúo 2590-125, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, Las Acacias - Río Maipo, y se acordó precio de indemnización con el propietario don Ricardo Felix Espinosa, ascendente a la cantidad de $27.698.628.
+
+Fiscal del Ministerio de Obras Publicas.
