@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.745, de 30 de junio de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº85O, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº5, para la obra Camino Paso Fronterizo Radman, Kms. 0,00000 al 12,73728, Tierra del Fuego, que figura a nombre de Suc. Alfonso Simnovic Krstulovic, Rol de avalúo 671-17, superficie 86.434,01 m2, comuna de Timaukel. La Comisión de Peritos, fijó con fecha 9 de julio de 1998, la indemnización provisional en la cantidad de $2.247.284, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
