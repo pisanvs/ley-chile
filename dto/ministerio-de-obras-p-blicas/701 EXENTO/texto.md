@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP. Nº701, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº1, superficie 285 M2, Rol Nº323-674, comuna de Quirihue, para la obra ''Camino El Arenal-Las Mesas, Sector Puente el Arenal, Km. 0,00000 a Km. 0,08650'' y se acordó el valor de indemnización con su propietario Santiago del Carmen Constanzo Espinoza, ascendente a la cantidad de $249.773.-
+
+Fiscal del Ministerio de Obras Públicas.
