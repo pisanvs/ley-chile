@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 83, del 03 de Julio de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región, se autoriza a Augusto Barrios Carrasco, Timoteo Lobera Huanca, Bruno Segundo Riveros Flores, Panuncio Hermógenes Barrios Carrasco, Rigoberto Dionisio Zarzuri Cáceres, Irene C ceres Jirón, Pedro Segundo Zavala Rejas, Moisés Omar Pinto Baeza, Emilio Colque Colque, Camilo Vicente Supanta Coñajagua, Benito Fernández Sepúlveda, Pedro Segundo Zavala Rejas, para efectuar todo tipo de servicios de transporte de pasajeros por calles y caminos, dentro del territorio nacional, a excepción de los servicios públicos urbanos de locomoción colectiva de pasajeros.
+
+- Juan W. Flaquer Hernández, Secretario Regional Ministerial Transportes y Telecomunicaciones I Región Tarapacá.
