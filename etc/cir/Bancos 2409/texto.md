@@ -7014,7 +7014,7 @@ ANEXO N° 5
 
 .
 
-ANEXO
+ANEXO N° 6
 
 CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 
@@ -7042,8 +7042,6 @@ Bancos
 
 031 HSBC BANK USA
 
-032 BANK OE AMERICA, NATIONAL ASSOCIATION
-
 033 CITIBANK N A
 
 035 BANCO SANTIAGO
@@ -7060,7 +7058,7 @@ Bancos
 
 043 BANCO DE LA NACION ARGENTINA
 
-045 THE BANK OE TOKYO-MITSUBISHI LTD
+045 THEBANKOFTOKYO-MITSUBISHILTD
 
 046 ABN AMRO BANK (CHILE)
 
@@ -7070,15 +7068,13 @@ Bancos
 
 052 DEUTSCHE BANK (CHILE)
 
-504 BBVA BANCO BHIE
+504 BBVA BANCO BHIF
 
 507 BANCO DEL DESARROLLO
 
 Sociedades financieras
 
 734 FINANCIERA CONOSUR
-
-018 BANCO CENTRAL DE CHILE
 
 018 BANCO CENTRAL DE CHILE.
 
@@ -16838,15 +16834,13 @@ a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra cl
 
 b) Bonos u obligaciones de renta de Estados, Bancos Centrales e instituciones internacionales a las que se encuentre adherido el Estado de Chile.
 
-3.3. Cuotas de fondos mutuos.
+c) Cuotas de fondos mutuos.
 
-Las cuotas de fondos mutuos constituyen valores mobiliarios, conforme a la ley y, por lo tanto, son susceptibles de ser adquiridas por las instituciones financieras, siempre que se trate de un fondo que opere exclusivamente valores de renta
+3.3.- Inversiones en títulos de deuda de sociedades securitizadoras.
 
-fija.Debido a que un fondo mutuo está constituido por documentos emitidos por diversas sociedades, éstas pasan a ser deudoras del banco o de la sociedad financiera que sea dueña de la cuota parte del fondo, quedando afecta la inversión a los límites de crédito del artículo 84.
+Las inversiones en títulos de deuda emitidos por las sociedades securitizadoras quedaran sujetas al límite individual de crédito del articulo 84 N° 1 por cada patrimonio separado que administren.
 
-En consecuencia, si una institución financiera fuera partícipe de un fondo mutuo, debe computar, para los efectos de los límites individuales de crédito del artículo 84, la proporción que corresponda de los valores de los documentos que forman parte de la cartera de éste, según su participación en el fondo,considerando los montos resultantes como deudas directas sin garantía de los emisores de tales instrumentos financieros.
-
-La institución financiera que invierta en fondos mutuos, asume el riesgo de infringir las disposiciones de la Ley General de Bancos, desde el momento en que los instrumentos que se incorporan al patrimonio del fondo deben ser considerados como nuevos créditos, hecho que depende de las decisiones de inversión de la administradora del respectivo fondo mutuo y no de la institución financiera. Por lo tanto, cuando exista dicho riesgo debido al monto invertido,es obligación del banco o de la sociedad financiera, obtener información permanente acerca de las inversiones del fondo mutuo, como requisito indispensable para ser partícipe.
+En el caso de que la sociedad Securitizadora sea filial del banco, esas inversiones realizadas en cualquiera de los patrimonios quedarán sujetas a las disposiciones que afectan a las personas relacionadas, conforme al artículo 84 N° 2 de la Ley General de Bancos.
 
 ### 4. Deudas directas e indirectas
 
@@ -17520,7 +17514,7 @@ a) Colocaciones efectivas o contingentes registradas en el activo o en cuentas d
 
 b) Operaciones de compra de valores mobiliarios o efectos de comercio, cuando hayan sido vendidos con pacto de retrocompra por una persona relacionada.
 
-c) Instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras.
+c) Instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras. Al tratarse de títulos emitidos por una sociedad Securitizadora, para efectos del artículo 84 N° 2 se computarán los instrumentos cuando sean emitidos por las sociedades que tengan la calidad de filial de la institución financiera, considerándolos en el grupo correspondiente a las filiales.
 
 d) Operaciones de Forward de monedas y de unidades de fomento, las que deben computarse para estos efectos según lo establecido en los Capítulos 13-2, 13-23 y 8-36 de esta Recopilación.
 
