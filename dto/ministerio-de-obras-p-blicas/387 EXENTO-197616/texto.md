@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº387 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº1, superficie 238 m2., Rol de Avalúo Nº1021-141, comuna de La Serena, para la obra "Camino Ruta 41-CH, Bifurcación a Las Rojas-Puente Quebrada de Talca", IV Región y se acordó el valor de indemnización con su propietario Pedro del Rosario Vicencio Ahumada, ascendente a la cantidad de $916.883.-
+
+Fiscal del Ministerio de Obras Públicas.
