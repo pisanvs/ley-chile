@@ -1,0 +1,7 @@
+Por decreto MOP exento Nº 1.452, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 11, 13, 14, 28, 61 y 62, para la ejecución de la obra "Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Tramo Km.
+
+6.900.00 - Km. 28.833.35", que figuran a nombre de Iriondo Iriondo Francisca, Canales Figueroa Luis y otros, Canales Jara Adriana y otro, Venegas Q. María y De la Fuente A. Jaime y otros, Rol de Avalúo 182-1, 180-6, 180-4, 159-5 y 155-7, comuna de San Nicolás, lotes 11, 13, 14 y 28 y Portezuelo lotes 61 y 62 VIII Región, superficies 3.592, 1.881, 84, 1.334, 1.060 y 134 m2. La comisión de peritos fijó on fecha 9 de agosto de 1999, complementada por acta de fecha 30 de septiembre de 2000, el valor provisional de la indemnización en la cantidad de $1.077.600, lote 11;
+
+$564.300, lote 13; $25.200, lote 14; $667.000, lote 28; $600.000, lote 61 y $67.000, lote 62. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
