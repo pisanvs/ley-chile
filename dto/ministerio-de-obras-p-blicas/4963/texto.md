@@ -1,0 +1,3 @@
+Por decreto MOP 4.963, de 31 octubre de 2000, se expropió el lote de terreno Nº24-4, superficie 188 m², rol de avalúo 49-6, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Enlace Purranque Poniente, Décima Región y se acordó el valor de indemnización con su propietario Neftalí Villablanca Rosas, ascendente a la cantidad de $899.226.-
+
+Fiscal del Ministerio de Obras Públicas.
