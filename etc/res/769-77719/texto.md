@@ -1,0 +1,3 @@
+Por resolución No. 769 de 10 de Agosto de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía Fomento y Reconstrucción, déjase sin efecto la Resolución No. 104, de 1987, de esta Subsecretaría, que autorizó a don ROLANDO RENE VARGAS SARGADO, RUT No. 7.408.483-4, domiciliado en Población Los Volcanes, Manzana 35, Casa 8, Llanquihue, X Región, para operar un establecimiento de cultivo en un sector del Río Maullín, Localidad de Chuyaquén, Provincia de Llanquihue, X Región, por renuncia total de su titular.
+
+Valparaíso, 10 de Agosto de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
