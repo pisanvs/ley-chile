@@ -1,0 +1,5 @@
+Por Resolución N° 1.373, de 31 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA GUANAYE LIMITADA, R.U.T. N° 92.063.000-6, domiciliada en la ciudad de Santiago, Avenida Pedro de Valdivia N° 1219, para ampliar actividades pesqueras, que tiene autorizadas por Resoluciones N° 350 y N° 352, de 1984, N° 302, de 1985 y N° 1.478, de 1989, todas de esta subsecretaría, en orden a operar la embarcación "Squa", en el litoral de la III y IV Región, con cerco, donde podrá extraer los siguientes recursos hidrobiológicos: Anchoveta, Caballa, Jurel, Machuelo, Roncacho, Sardina y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 31 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
