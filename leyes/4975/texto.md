@@ -1,0 +1,1 @@
+"Incluye al personal dependiente de la Caja de Crédito Minero y de la Beneficencia Pública, en los beneficios de las leyes 4,721 y 4,817, sobre desahucios a los empleados cesantes."
