@@ -1,0 +1,5 @@
+Por resolución exenta Nº1.797, de 2 de julio de 2004, de esta Subsecretaría de Pesca, modifícase el numeral 5º bis de la resolución Nº 1.495 de 2004, incorporado mediante resolución Nº 1.660 de 2004, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo biológico-pesquero de las capturas de sardina común y anchoveta realizadas en la VIII Región, 2004", en el sentido de incrementar en 3.520 toneladas la cuota de investigación de anchoveta autorizada a ser extraída en el marco de la presente pesca de investigación.
+
+Las toneladas antes señaladas se imputarán a la cuota autorizada a la Asociación Gremial de Armadores Artesanales de San Antonio, Registro de Asociaciones Gremiales Nº 2.510, sometida al Régimen Artesanal de Extracción por organización, establecida mediante resolución Nº 315 de 2004, modificada mediante resoluciones Nº 800 y Nº 1.710, ambas de 2004, todas de esta Subsecretaría de Pesca.
+
+Valparaíso, 2 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
