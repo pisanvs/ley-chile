@@ -28,7 +28,7 @@ DISPOSICIONES GENERALES
 
 #### Artículo 1
 
-Se entiende por Servicio de Práctico en aguas jurisdiccionales de la República las faenas que realizan los Prácticos Oficiales o los autorizados por la Dirección del Litoral y de M.M., que tienen por objeto ejecutar técnicamente y con seguridad todas aquellas maniobras marineras que contempla el presente Reglamento o cualquiera otra faena en que se solicite la intervención de estos funcionarios.
+o Se entiende por servicio de Práctico en aguas territoriales de la República, las faenas que realizan los Prácticos Oficiales o los autorizados por la Dirección del Litoral y de Marina Mercante, que tienen por objeto ejecutar técnicamente y con seguridad, todas aquellas maniobras marineras que contempla el presente reglamento o cualquiera otra faena en que se solicite la intervención de estos funcionarios.
 
 #### Artículo 2
 
@@ -110,7 +110,7 @@ El porcentaje que les corresponde por las faenas a que se refieren los artículo
 
 a) Cuando hagan uso de su feriado legal.
 
-b) Durante los primeros treinta días de una licencia por enfermedad.
+b) Durante los primeros treinta días de una licencia por enfermedad, Plazo que podrá ser ampliado a noventa días cuando así lo califique por decreto la Dirección del Litoral.
 
 No gozarán de este porcentaje durante el tiempo que se encuentren suspendidos de sus labores por sanción.
 
@@ -184,63 +184,67 @@ DEL SERVICIO DE PRACTICO OBLIGATORIO Y SUS EXCEPCIONES
 
 #### Artículo 26
 
-Las naves mercantes nacionales que efectúan el Comercio de Cabotaje y mandadas por Capitanes de Alta Mar sólo estarán obligadas a utilizar los servicios de Práctico Oficial en los siguientes casos:
+Las naves mercantes nacionales mandadas por Capitanes de Alta Mar y que se encuentran dedicadas al Comercio de Cabotaje, sólo estarán obligadas a utilizar los servicios de Práctico Oficial en los siguientes casos:
 
-a) Al amarrarse a boyas petroleras.
+a) En maniobras de amarre a boyas petroleras;
 
-b) Al entrar o salir de diques secos o flotantes.
+b) En maniobras de entrada o salida de diques secos o flotantes;
 
-c) Al atracar o desatracar a las dársenas, molos o espigones de los puertos artificiales o a los muelles fiscales o particulares.
+c) Al maniobrar dentro de dársenas o para atracar y desatracar a molos o espigones de puertos artificiales, o a muelles fiscales o particulares;
 
-En lo referente a muelles particulares que menciona la letra c), no será obligatorio el empleo de Práctico para aquellas naves de propiedad de las empresas dueñas de dichos muelles que estén mandadas por Capitanes de Alta Mar con dos años como mínimo de mando de naves mayores de 1.000 toneladas de registro grueso.
+d) Al pasar la Angostura Kirke.
 
-d) Los Transportes o Petroleros de la Armada, mientras permanezcan efectuando viajes comerciales por cuenta de Empresas Particulares, deberán usar el servicio de Prácticos durante las faenas que se indican en el presente artículo:
+No obstante lo dispuesto en este artículo, estarán obligadas a utilizar los servicios de Práctico, las naves mercantes nacionales dedicadas al Comercio de Cabotaje, cuyos Capitanes no tengan práctica de navegación de canales, cuando naveguen estas rutas marítimas.
 
-e) Al pasar la Angostura Kirke.
+No se exigirá el empleo de Práctico dispuesto en la letra c) del presente artículo, a aquellas naves mercantes comandadas por Capitanes de Alta Mar, con dos años como mínimo de mando de naves mayores de 1.000 toneladas de registro grueso, cuando ejecuten maniobras en dársenas o muelles pertenecientes a la propia Compañía.
 
-f) A las naves nacionales mandadas por Capitanes que no tengan práctica de navegación de Canales les será obligatorio emplear los servicios de Prácticos, cuando deban cruzar estas vías marítimas de comunicación.
+Las naves chilenas a cargo de capitanes con más de cinco años de mando, no estarán obligadas a emplear prácticos en puertos artificiales, salvo que, por circunstancias calificadas, así lo disponga la Dirección del Litoral y de Marina Mercante.
+
+Los transportes y petroleros de la Armada estarán obligados a utilizar los servicios de Prácticos, cuando efectúen viajes comerciales por cuenta de empresas particulares, en los casos detallados en el presente artículo
 
 #### Artículo 27
 
-A las naves mercantes nacionales que no efectúan el Comercio de Cabotaje, aunque sean mandadas por Capitanes de Alta Mar, y toda nave extranjera, les será obligatorio emplear los servicios de Prácticos, en los siguientes casos:
+Estarán obligados a utilizar los servicios de Práctico Oficial, todas las naves extranjeras y las naves mercantes nacionales que no están dedicadas al Comercio de Cabotaje, aun cuando se encuentren al mando de Capitanes de Alta Mar, cuando ejecuten las siguientes maniobras en aguas interiores de la Nación:
 
-a) Durante toda la navegación de los Canales Australes y Estrecho de Magallanes.
+a) Durante toda navegación por los Canales Australes y Estrecho de Magallanes;
 
-b) Al atracar o desatracar a las dársenas, molos o espigones de los puertos artificiales o a los muelles fiscales o particulares.
+No obstante lo anterior, normalmente no se exigirá el empleo de Prácticos Oficiales a las naves mercantes que naveguen el Estrecho de Magallanes, con el sólo propósito de cruzar los Océanos Pacífico y Atlántico, siempre que no naveguen ni antes ni después, algún otro estrecho o canal de las aguas territoriales chilenas. Cuando alguna circunstancia determina suspender la presente excepción temporal, la Dirección del Litoral y de Marina Mercante dispondrá las medidas convenientes para permitir que las naves mercantes puedan recibir o desembarcar Prácticos tanto en la entrada oriental como en la occidental del Estrecho de Magallanes.
 
-c) El amarre y desamarre a boyas, sólo para naves extranjeras.
+b) Al maniobrar dentro de dársenas o para atracar y desatracar a molos o espigones de puertos artificiales o a muelles fiscales o particulares;
 
-d) Al atracarse o desatracarse de chatas o pontones.
+c) En maniobras de atraque y desatraque a buques, chatas y pontones;
 
-e) Al entrar o salir de diques secos o flotantes.
+d) En maniobras de entrada y salida de diques secos o flotantes y de varaderos;
 
-f) Al entrar o salir de los ríos navegables y durante toda la navegación de su curso.
+e) En la navegación fluvial, tanto a la entrada como a la salida y en el curso de los ríos navegables;
 
-g) Al fondear y levar a la gira, sólo para naves extranjeras.
+f) en las maniobras de amarre y desamarre de boyas (sólo exigido a las naves extranjeras);
+
+g) En las maniobras de fondeo a la gira y en las de levar correspondientes (sólo exigido a las naves mercantes extranjeras).
 
 #### Artículo 28
 
-No será obligatorio a las naves nacionales el empleo del servicio de Prácticos salvo el indicado en la letra b) del Artículo 26 en los siguientes casos:
+No obstante lo dispuesto en los artículos 26 y 27 precedentes, quedarán liberadas del empleo obligatorio del Servicio de Prácticos, con excepción del caso señalado en la letra b) del artículo 26, las naves mercantes nacionales que se encuentren comprendidas en algunos de los siguientes casos:
 
-a) Las menores de 400 toneladas de registro grueso que efectúen el Comercio de Cabotaje y que sean mandadas por Capitanes de Alta Mar.
+a) Las menores de 400 toneladas de registro grueso que efectúen el Comercio de Cabotaje y que sean mandados por Capitanes de Alta Mar.
 
-b) Las regionales de Chiloé y Magallanes, menores de 1.000 toneladas de registro grueso.
+b) Las regionales de Chiloé y Magallanes, menores de 1.000 toneladas de registro grueso;
 
-c) Las nacionales dedicadas exclusivamente a las faenas de pesca.
+c) Las nacionales dedicadas exclusivamente a las faenas de pesca;
 
-d) Las nacionales menores de 5.000 toneladas de registro grueso para el paso de la Angostura Kirke, siempre que sus Capitanes estén en posesión de un permiso especial de la Dirección del Litoral y M.M. en el cual conste que han cruzado dicha Angostura como 1.er 0ficial por lo menos seis veces en ambos sentidos.
+d) En el paso de la Angostura Kirke, las naves nacionales menores de 5.000 toneladas, siempre que sus capitanes estén en posesión de un permiso especial de la Dirección del Litoral y de Marina Mercante, en el cual conste que han cruzado dicha Angostura como Primer Oficial, por lo menos una seis veces en ambos sentidos;
 
-e) Las menores de 500 toneladas de registro grueso que sean mandadas por Patrones Regionales, mientras navegue dentro de la zona que corresponde a cada Patrón.
+e) Las menores de 500 toneladas de registro grueso que están al mando de Patrones Regionales, sólo mientras naveguen dentro de la zona validada para el título de Patrón".
 
 #### Artículo 29
 
-En las siguientes faenas será siempre obligatorio el empleo del servicio de Prácticos, cualquiera que sea la forma en que se realicen:
+Será siempre obligatorio el empleo del Servicio de Prácticos, en las siguientes maniobras, cualquiera que sea la forma en que éstas se realicen:
 
-a) Para levantar, revisar y fondear boyas con 2 o más anclas en los puertos.
+a) En los puertos, en las maniobras de levantar, fondear o revisar las boyas y sus maniobras de fondeo, siempre que se trate de boyas fondeadas con dos o más anclas;
 
-b) Para fondear y recorrer anclas de boyas, buques en reparaciones cuya estadía sea mayor de un mes, chatas, pontones, buques en desaguace o diques, muertos o rejeras permanentes, etc.
+b) En las siguientes maniobras de fondeo: de buques en reparaciones por un lapso mayor de un mes, de chatas, de pontones, de buques o cascos en desguace de diques, de muertos y rejeras permanentes. En las maniobras de fondeo y recorrida de anclas de boyas, y en toda otra maniobra similar a las señaladas;
 
-c) Para levantar, fondear y recorrer cañerías petroleras u otros elementos similares.
+c) En las maniobras de levantar, fondear y recorrer cañerías petroleras o de otros elementos similares".
 
 ## Capítulo IV
 
@@ -252,7 +256,7 @@ Los Armadores o sus Agentes solicitarán directamente a las Capitanías de Puert
 
 #### Artículo 31
 
-Los servicios de Práctico para las naves de la Armada Nacional deberán ser solicitados por la Autoridad Naval correspondiente o por sus Comandantes, según sea el caso (ver O. P. G. O. N.o 72), y las naves de guerra extranjeras por intermedio de la Comandancia en Jefe de Zona o Base Naval.
+Los servicios de Prácticos para las naves de la Armada de Chile, deberán ser solicitados por la autoridad naval correspondiente o por sus Comandantes, según sea el caso, y las naves de guerra extranjera podrán solicitarlo por intermedio del Comandante en Jefe de la Zona Naval, del Comandante de la Base Naval o de la Autoridad Marítima, de acuerdo con las circunstancias y necesidades.
 
 #### Artículo 32
 
@@ -330,7 +334,7 @@ EL SERVICIO DE PRACTICO DE CANALES
 
 #### Artículo 45
 
-El servicio de Prácticos de Canales es el que se realiza en los Canales Australes Nacionales y Estrecho de Magallanes y consiste en las diversas operaciones que efectúan estos funcionarios a objeto de guiar con seguridad las naves durante la navegación cuando cruzan por dichas vías marítimas.
+El Servicio de Práctico de Canales es el que se realiza en aquellas aguas interiores de la Nación, que se extienden al sur de Puerto Montt, o sea, en la denominada Zona de Canales Australes y en el Estrecho de Magallanes, y consiste en las diversas operaciones que ejecutan los Prácticos de Canales, con el objeto de pilotear con seguridad a las naves durante la navegación de las rutas marítimas de la citada zona de aguas interiores.
 
 #### Artículo 46
 
@@ -338,11 +342,13 @@ El control y distribución de las comisiones de los Prácticos de Canales, corre
 
 #### Artículo 47
 
-Los Armadores, Agentes o Capitanes de naves solicitarán el servicio de Práctico de Canales directamente a la Dirección del Litoral y de Marina Mercante o a las Capitanías de Puerto respectivas, según sea el caso.
+Los Armadores, Agentes o Capitanes de Naves, solicitarán el servicio de Prácticos de Canales, directamente a la Dirección del Litoral y de Marina Mercante, o a las Capitanías de Puerto respectivas, según sea el caso.
 
-Cuando se traté de naves de guerra extranjeras estos servicios serán solicitados por intermedio del Comandante en Jefe de Zonas o Base Naval.
+La petición deberá hacerse por escrito en el formulario especial, teniendo presente que el Práctico se embarcará generalmente en puertos del Atlántico, cuando deba pilotear una nave del Atlántico al Pacífico o a la inversa, desembarcará por lo general en algunos de esos puertos cuando conduzca una nave del Pacífico al Atlántico.
 
-La petición deberá hacerse por escrito en el formulario especial que existe para ello.
+Las naves de guerra extranjeras procederán conforme lo dispone el reglamento especial para ellas.
+
+Las naves de guerra extranjeras dedicadas al transporte marítimo por cuenta de Compañías Comerciales, serán consideradas, para los efectos del presente reglamento, como naves mercantes extranjeras.
 
 #### Artículo 48
 
@@ -414,11 +420,19 @@ Los Prácticos de Canales antes de iniciar una comisión deberán imponerse si l
 
 #### Artículo 61
 
-Si no fuera posible al Práctico dar aviso por radio desde a bordo al Departamento de Navegación e Hidrografía de la Armada sobre las novedades que pudo observar durante la navegación a que se refiere el artículo 50 del presente Reglamento, en relación a lo dispuesto en la O.P.G.O. N.o 15, comunicará las novedades a la Capitanía de Puerto del primer puerto que recale, quien deberá cumplir lo dispuesto en la citada Orden Permanente.
+Si no fuere posible al Práctico dar aviso por radio desde a bordo, al Departamento de Navegación e Hidrografía de la Armada, de las novedades hidrográficas observadas durante la navegación a que se refiere el artículo 50 del presente reglamento, en relación con las disposiciones pertinentes de la Armada, comunicará dichas novedades a la Capitanía del Puerto del primer puerto en que recale, la cual deberá informarlas a la Autoridad Naval correspondiente por la vía más rápida disponible.
 
 #### Artículo 62
 
-Los Prácticos efectuarán la navegación de Pilotaje por los estrechos, canales y pasos establecidos en el artículo 83 del presente Reglamento y sólo podrán cambiar las rutas indicadas, previa autorización de la Dirección del Litoral y de M.M.
+Los Prácticos, al efectuar el pilotaje de la navegación por aguas interiores, se ceñirán a las rutas establecidas en el artículo 83 del presente reglamento, y sólo podrán alterarlas previa autorización de la Dirección del Litoral y de Marina Mercante.
+
+Cuando una nave extranjera navegue por los Estrechos y Canales Australes de la República, sin llevar Práctico a bordo, pagará la tarifa de pilotaje que corresponda.
+
+Lo anterior es sin perjuicio de la excepción establecida en el párrafo a) del artículo 27 de este reglamento.
+
+Toda nave que navegue las rutas de Canales Australes, deberá estar provista de las cartas náuticas correspondientes a las zonas de navegación que utilizará.
+
+Estas cartas podrán ser solicitadas a los Agentes en Chile y conducidas a su destino por el Práctico designado para pilotear la nave.
 
 #### Artículo 63
 
@@ -494,17 +508,23 @@ Las tarifas por las faenas de levantar, fondear y recorrer boyas, cañerías o l
 
 Oro
 
-Boyas para vapores, fondeadas con dos anclas $110.
+Boyas para vapores, fondeadas con dos
 
-Boyas para remolcadores, faluchos o boyas de cables
+anclas $110.
 
-submarinos, fondeadas con dos anclas 53.
+Boyas para remolcadores, faluchos o
 
-Levantar o fondear extra anclas o rejeras permanentes 35.
+boyas decables submarinos, fondeadas
 
-Cañerías petroleras u otros elementos similares, los
+con dos anclas 53.
 
-diez metros lineales 2.
+Levantar o fondear extra anclas 35.
+
+o rejeras permanentes
+
+Cañerías petroleras u otros elementos
+
+similares, los diez metros lineales 2.
 
 #### Artículo 75
 
@@ -522,7 +542,9 @@ Buques desde 201 a 500 toneladas gruesas 55
 
 Buques desde 501 a 1000 toneladas gruesas 90
 
-Buques desde 1001 a 2000 toneladas gruesas 110
+Buques desde 1001 a 2000 toneladas
+
+gruesas 110
 
 Buques mayores de 2000 toneladas gruesas 155
 
@@ -556,7 +578,7 @@ c) Las naves que no desembarquen al Práctico en el puerto de destino fijado com
 
 d) Tendrá un recargo de un 5% de la tarifa base por cada día o fracción de día mayor de doce horas de estadía en puertos o fondeaderos que no se encuentren estipulados en el contrato, cuando ello no se deba a condiciones de pilotaje normal y siempre que dicha estadía no haya sido aconsejada por el Práctico.
 
-e) Tendrá un recargo del 50% de la tarifa base cada buque que navegue en convoy siguiendo a la nave guía donde va embarcado el Práctico.
+e) Tendrá una rebaja del 50% de la tarifa base cada buque que navegue en convoy siguiendo a la nave guía donde va embarcado el Práctico.
 
 f) Un 100% de recargo sobre la tarifa base cuando se lleve un buque a remolque.
 
@@ -570,7 +592,7 @@ Las naves que previa autorización, se tengan que desviar de la Ruta de Canales 
 
 ## Capítulo VII
 
-DISPOSICIONES QUE DEBEN OBSERVAR LOS BUQUES EXTRANJEROS DURANTE SU NAVEGACION POR LOS CANALES O ESTRECHOS DE JURISDICCION DE LA REPUBLICA
+Disposiciones que deben observar los buques extranjeros al navegar por las aguas interiores de la República de la Zona de Canales y del Estrecho de Magallanes
 
 #### Artículo 80
 
@@ -578,47 +600,47 @@ Estas disposiciones son aplicables a todas las naves de bandera extranjera, cual
 
 #### Artículo 81
 
-Mientras permanezcan en navegación por los Canales o Estrechos de jurisdicción chilena, los buques extranjeros estarán obligados a seguir las rutas que con este objeto haya fijado el Gobierno de Chile y las cuales utilizan normalmente sus Prácticos para la navegación y conducción de los buques, aunque tales rutas no estén expresamente señaladas en las cartas náuticas.
+Mientras los buques extranjeros permanezcan dentro de las aguas territoriales interiores denominadas Zona de Canales Australes y Estrecho de Magallanes, estarán obligados a seguir las rutas que haya fijado el Gobierno de Chile y las cuales utilizan normalmente sus Prácticos para la navegación y pilotaje de los buques, aun cuando tales rutas no estén expresamente señaladas en las cartas náuticas.
 
 #### Artículo 82
 
-Durante el día y mientras permanezcan en la zona de Canales o Estrechos, las naves mercantes llevarán izada la bandera de su nacionalidad, debiendo observar igual actitud a la vista de naves de guerra, faros o puestos de vigías dentro de las aguas jurisdiccionales de la República, casos en los cuales deberán izar además, en el palo trinquete, la bandera chilena.
+Durante el día y mientras permanezcan en la Zona de Canales o Estrechos, las naves mercantes llevarán izada la bandera de su nacionalidad, debiendo observar igual actitud a la vista de naves de guerra, faros o puertos de vigía dentro de las aguas territoriales chilenas, casos en los cuales deberán izar además, en el palo trinquete, la bandera chilena.
 
 #### Artículo 83
 
-Para los fines anteriormente indicados, se establecen las siguientes rutas para la navegación de los Canales y Estrechos de la jurisdicción de la República:
+Para los fines anteriormente indicados, se establecen las siguientes rutas para la navegación en las aguas inferiores o territoriales chilenas de la Zona de Canales y del Estrecho de Magallanes:
 
 a) Ruta del Estrecho de Magallanes:
 
-La que señalan las cartas náuticas como parte Oriental y Occidental del mismo, desde Cabo Dungenes hasta Cabo Pilar o viceversa.
+La que señalan las cartas náuticas chilenas a lo largo del Estrecho de Magallanes, entre Cabo Dungenes y Cabo Pilar.
 
 b) Ruta de Canales Patagónicos:
 
-Canal Smith, Paso Mayne o Gray, Paso Victoria, Canal Sarmiento, Angostura Guía, Canal Inocentes, Canal Concepción, Canal Wide, Canal Escape o Grappler, Canal Trinidad, Angostura Inglesa, Canal Messier o viceversa.
+Canal Smith, Paso Mayne o Gray, Paso Victoria, Canal Sarmiento, Angostura Guía, Canal Inocente, Canal Concepción, Canal Trinidad, Canal Wide, Canal Escape o Grappler, Angostura Inglesa, Canal Massie o viceversa.
 
 c) Ruta a Puerto Natales:
 
-Canal Smith, Canal Mayne o Gray, Paso Victoria, Seno Unión, Angostura Kirke, Natales o viceversa.
+Canal Smith. Canal Mayne o Gray, Paso Victoria, Seno Unión, Angostura Kirke, Natales o viceversa.
 
-d) Ruta entre Punta Arenas y Ushuaia:
+d) Ruta entre Punta Arenas y Puerto Williams:
 
-Canal Magdalena, Canal Cockburn, Paso Breckuock o Canal Ocasión, Canal Ballenero, Canal O'Brien, Paso Timbales, Paso N.W. del Beagle, Canal Beagle o viceversa.
+Canal Magdalena, Canal Cockburo, Paso Brecknock o Canal Ocasión, Canal Ballenero, Canal O'Brien, Paso Timbales, Paso N. W. del Beagle, Canal Beagle o viceversa.
 
 e) Ruta a los senos Otway y Skiring:
 
 Las únicas existentes indicadas en las cartas náuticas.
 
-f) Ruta a Isla Guarello:
+f) Ruta a la Isla Guarello:
 
-Canal Oeste y Trinidad.
+Canal Oeste.
 
 g) Ruta de Canales para o del Moraleda:
 
-Bahía Ana Pink; Canal Pulluche o Canal Darwin o Canal Nihualac, Golfo Corcovado, Boca del Guafo, Canal Moraleda.
+Bahía Ana Pink, Canal Pulluche o Canal Darwin o Canal Ninualac, Golfo Corcovado, Boca del Guafo, Canal Moraleda.
 
 h) Ruta Canales de Chiloé:
 
-Canal Chacao, Golfo de Ancud, Canal Apiao o Desertores, Golfo Corcovado, Boca del Guafo.
+Canal Chacao, Golfo de Ancud, Canal Apio o Desertores, Golfo Corvocado, Boca del Guafo
 
 #### Artículo 84
 
@@ -682,7 +704,7 @@ El espacio comprendido entre la costa y una línea que une Punta Hueso Parado co
 
 CHAÑARAL:
 
-La zona comprendida entre el paralelo que pasa por el cementerio y el meridiano que pasa por la Punta Bryson.
+La zona comprendida entre el paralelo que pasa por el cementerio y el meridiano que pasa por la Punta Rocosa.
 
 CALDERA:
 
