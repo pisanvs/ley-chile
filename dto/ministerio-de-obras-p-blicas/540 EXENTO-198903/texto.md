@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 540 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 12, superficie 1.390 m², Rol de Avalúo Nº 8131-70, comuna de San Rafael, para la obra ''Camino Ruta K-40, Sector: San Rafael - Villa Prat, Km. 0,000.00 a Km. 28,400.00'' VII Región y se acordó el valor de indemnización con su propietario Gabriel Antonio Jorquera Campos, ascendente a la cantidad de $579.735.-
+
+Fiscal del Ministerio de Obras Públicas.
