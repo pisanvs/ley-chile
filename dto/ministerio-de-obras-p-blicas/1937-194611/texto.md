@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.937, de 30 de noviembre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº105, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Etapa 2, Kms. 10,98400 al 34,500, que figura a nombre de Juan Araya, rol de avalúo en trámite, superficie 172,60 m2., comuna de Olmué. La comisión de peritos, con fecha 6 de octubre de 2000, fijó la indemnización provisional en la cantidad de $3.148.120, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
