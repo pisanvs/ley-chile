@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 340, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 113, superficie 480,00 m2, rol de avalúo 158-24, comuna de Yerbas Buenas, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre - Esperanza), Tramo Km. 0,000.00 al 10,623.89" y se acordó el valor de indemnización con su propietario José Manuel Antonio Vásquez Pinochet, ascendente a la cantidad de $1.502.200.-
+
+Fiscal del Ministerio de Obras Públicas.
