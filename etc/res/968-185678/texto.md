@@ -1,0 +1,3 @@
+Por resolución Nº 968, de 22 de Mayo de 2001, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 1677 de 1989 y Nº 796 de 1996, de esta Subsecretaría, que autorizaron a PESQUERA MUTRUM LIMITADA actividades pesqueras con la nave "Chinchibi", en virtud de lo dispuesto en el artículo 143 letra d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de Mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
