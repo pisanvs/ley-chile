@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 737, de 9 diciembre 2004, Serviu Región del Biobío ordenó expropiación parcial inmueble denominado Fundo Roble Huacho, ubicado en comuna de Lota, individualizado en: Rol de Avalúo Fiscal Nº 1203-01 citada comuna, Plano Expropiación S8R-19258P y otros instrumentos de ésta. Superficie de terreno expropiado 22.966,67 m², singularizado como polígono ''A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, Y, Z, A', B', C', D', A'', en Plano referido. De aparente dominio de Enacar S.A. Objeto resolver irregularidad predial y precariedad habitacional familias Asentamiento Chile Barrio, denominado Cousiño al Cerro, comuna de Lota. Conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186, Comisión Peritos integrada por arquitectos Víctor Toledo Quijada y Alvaro Berríos San Martín e ingeniera constructor Roxana Abarzúa Gajardo según informe de 24 de septiembre de 2004, fijó monto indemnización provisional en $19.797.442.- Pagadera de contado.
+
+Director Serviu Región del Bío Bío.
