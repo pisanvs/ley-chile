@@ -1,0 +1,3 @@
+Por Resolución Nº1.074, de 30 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 6 meses a contar de esta fecha, el plazo otorgado a INVERSIONES DELFINES SOCIEDAD ANONIMA CERRADA, R.U.T. Nº94.694.000-0, domiciliada en Avda. Argentina Nº2256, Arica, en el numeral 5º de la Resolución Nº275, de 1989, de esta Subsecretaria, para iniciar actividades pesqueras extractivas con la embarcación en construcción "Marlin", en razón de haberse acreditado la ocurrencia de una causal de fuerza mayor.
+
+Valparaíso, 30 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.-
