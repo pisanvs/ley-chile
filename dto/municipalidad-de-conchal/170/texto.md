@@ -1,0 +1,5 @@
+EXTRACTO DE EXPROPIACION
+
+Alcalde I. Municipalidad de Conchalí, mediante Decreto Exento No. 170 de 25 de abril de 1989, dispone expropiación total, conforme Decreto Supremo No. 458, de Vivienda, de 1976, Decretos Leyes 2.186 y 3.464 y Ley No. 18.695 de inmueble ubicado en calle José Miguel Carrera No. 3340 Rol de Avalúos No. 1056-27, aparentemente de propiedad de doña Aída del Carmen Hernández López, para permitir continuación de Avenida Dorsal desde José María Caro hasta Avenida Recoleta. Deslindes parte expropiada: al Norte: 23,5 mts. con el predio Rol No. 1056 28; al Sur: 24,5 mts. con el predio Rol No. 1056-26.- al Oriente: 10,0 mts. con Pasaje José Miguel Carrera y al Poniente: 10,0 mts. con Pasaje de igual denominación. Indemnización provisional de $ 856.000.- pagadera contado.-
+
+Fernando Alvarez Gálvez, Alcalde. Neftalí Pastén Ibarra, Secretario Municipal.
