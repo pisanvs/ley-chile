@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 82, del 5 de septiembre del año 2001, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo, Educación e Investigación de la Décima Región Ltda., de nombre de fantasía Chilean Berry, de la ciudad de Osorno; en los términos que da testimonio el acta constitutiva protocolizada con fecha 6 de junio del 2001, al final de los registros del Notario de Osorno, don Cristián Sanhueza Pimentel, bajo el Nº 1100-2001, y el acta rectificatoria protocolizada con fecha 9 de agosto del mismo año, ante el mismo Notario, bajo el Nº 1535-2001.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
