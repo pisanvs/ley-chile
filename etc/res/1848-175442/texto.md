@@ -1,0 +1,5 @@
+Por resolución Nº 1.848, de 18 de agosto de 2000, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A., para ampliar las actividades pesqueras, con la nave ''Ventisquero'', en el litoral de la IV Región, por fuera de la línea imaginaria trazada a una distancia de 60 millas marinas medidas desde las líneas de base normales o rectas, según corresponda, con arte de arrastre de media agua: Merluza de cola.
+
+Deniégase la autorización solicitada por la peticionaria sobre los recursos Reineta, Agujilla, Anchoveta, Bonito, Caballa, Cojinoba del norte, Jurel, Machuelo, Merluza de cola, Sardina española, Sardina común y Sierra, respecto de las áreas y artes de pesca solicitados en virtud de los informes técnicos, resoluciones Nº 1.318 de 1996 y Nº 1.762 de 1996, de esta Subsecretaría y artículo 19 letras c) y e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
