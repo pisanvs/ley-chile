@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.047, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº4-50, superficie 35,3105 M2, rol de avalúo 3392-50, comuna de Punta Arenas, para la obra ''Habilitación Costanera Estrecho de Magallanes I, Sector Chañarcillo-Manantiales, Tramo Km. 1,97992 al 3,30000'' y se acordó el valor de indemnización con su propietario Viviana Patricia Guajardo Gómez, ascendente a la cantidad de $1.028.261.
+
+- Fiscal del Ministerio de Obras Públicas.
