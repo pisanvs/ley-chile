@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.588, de 20 de diciembre de 2004, de esta Subsecretaría, autorízase a PESQUERA EDEN LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Hijuela Industrial Nº 286-B, kilómetro 3,5 norte, Puerto Natales, XII Región, donde podrá procesar, en las líneas de elaboración de Cocido, Congelado y Conserva, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
