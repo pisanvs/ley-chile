@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.284, de 30 de mayo de 2000, se expropió el lote de terreno Nº77, superficie 1.518 m2., rol de avalúo 65-149, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietario Luis Alberto Sanhueza Matamala, ascendente a la cantidad de $6.723.022.
+
+- Fiscal del Ministerio de Obras Públicas.
