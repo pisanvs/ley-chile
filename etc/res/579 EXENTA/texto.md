@@ -1,0 +1,3 @@
+Por Resolución Exenta No. 579, de fecha 31.08.90, del Ministerio de Transportes y Telecomunicaciones, subsecretaría de Transportes, modifícase la Resolución Exenta No. 444 de fecha 12 de Mayo de 1987 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, en el sentido de dejar establecido que la Sociedad Salazar y Tepper Limitada (Ruta Sur Limitada) queda autorizada para efectuar servicio de transporte internacional terrestre de pasajeros entre Concepción - Temuco (Chile) y Zapala - Neuquén (Argentina) por paso Pino Hachado. La empresa alternativamente podrá utilizar los pasos habilitados y situados al sur del mismo.-
+
+Fernando Zúñiga Ivany, Subsecretario de Transportes Subrogante.
