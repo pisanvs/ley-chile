@@ -1,0 +1,3 @@
+Por Resolución N° 234 de 8 de Marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se denegó la solicitud de concesión de acuicultura presentada por doña CARLA LÜER WALPER, para un sector ubicado en La Pasada, Río Maullín, comuna de Maullín, provincia de Llanquihue, X Región, en virtud de lo dispuesto en los artículos 76°, 77°, 78° y 5° transitorio inciso 6°, de la Ley General de Pesca y Acuicultura y el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción. Asimismo, se dejó sin efecto las Resoluciones N° 1337, de 1989 y N° 1549, de 1990, ambas de esta Subsecretaría.
+
+Valparaíso, 8 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
