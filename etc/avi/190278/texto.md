@@ -1,0 +1,9 @@
+ENTIDADES RELIGIOSAS DE DERECHO PUBLICO
+
+Extracto de Acta de Constitución: Confesión Religiosa: "Iglesia Cristiana Vida", domiciliada en calle Tanembaum Nº 694, comuna de San Miguel, iglesia sede, con Registro Público de entidades religiosas Nº 00078, de fecha 7 de mayo de 2001.
+
+Los constituyentes son: Pastor Obispo y Superintendente de la Misión, don Guillermo Jofré Pino; Pastor Jorge Luis Varas Soto; Marta Esilda Varas Soto; Ruth Margarita Jofré Márquez; Willy Samuel Jofré Márquez; Luis Bernabé González Allende; Nancy Victoria Aranda López; Leslie Elizabeth Rojas Espinoza; Sara Raquel Cárcamo Soto; Hugo Gerardo Martínez Uribe; María Gladys Carrillo Rojel; Eloíza de las Mercedes Silva García; Haydee Verónica Méndez Fuentes, y Juana Ester Márquez Morales.
+
+2. El directorio de la Corporación: Pastor Obispo y Superintendente de la Confesión Religiosa, Sr. Guillermo Jofré Pino. Presidente: Don Jorge Luis Varas Soto. Vicepresidente: Guillermo Jofré Pino. Secretario: Marta Varas Soto. Prosecretario: Ruth Jofré Márquez. Tesorero: Willy Jofré Márquez. Protesorero: Luis Bernabé González Allende, quienes tienen por obligación dirigir la "Iglesia Cristiana Vida" y velar porque se cumplan los estatutos y las finalidades perseguidas por la corporación, administrar los bienes sociales y también invertir sus recursos, citar a asambleas generales tanto ordinarias como extraordinarias en la época y forma que señalen estos estatutos, redactar los reglamentos, cumplir los acuerdos de la asamblea general, rendir cuenta en la asamblea general ordinaria de la marcha de la corporacion como de la inversión de sus fondos.
+
+La escritura pública que contiene los estatutos es de fecha 30 de abril del año 2001, otorgada ante Notario Público don Clovis Toro Campos, domiciliado en calle Compañía Nº 1312, comuna Santiago.
