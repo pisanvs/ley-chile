@@ -1,0 +1,5 @@
+Por resolución Nº 1.642, de 3 de agosto de 2001, de esta Subsecretaría, autorízase a PELANTARO INOSTROZA CONCHA, para ampliar las actividades pesqueras extractivas con la nave "Rodrigo Alejandro", autorizadas por resoluciones Nº 1.460 de 1997 y Nº 1.872 de 2000, ambas de esta Subsecretaría, en orden a realizar actividades pesqueras con la nave señalada precedentemente, en el área marítima de la VIII Región, por fuera del área de reserva artesanal, donde podrá capturar con espinel, los recursos hidrobiológicos Congrio colorado, Congrio dorado y Congrio negro.
+
+Modifícase el numeral 1º de la resolución Nº 1.872 de 2000, de esta Subsecretaría, que autorizó al peticionario para ampliar actividades pesqueras extractivas, en el sentido de señalar que la potencia auxiliar de la nave "Rodrigo Alejandro" corresponde a 40 Hp.
+
+Valparaíso, 3 de agosto de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
