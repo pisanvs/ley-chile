@@ -1,0 +1,5 @@
+Por resolución Nº 1.255, de 29 de junio de 2000 de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 165 de 1986, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA PACIFICO NORTE LTDA., para ampliar actividades pesqueras extractivas con la nave ''Valencia'', en el litoral comprendido entre la III y IV regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Déjase sin efecto la resolución Nº 165 de 1986, de esta Subsecretaría, sólo en cuanto autorizó a Pesquera Pacífico Norte Ltda., para ampliar actividades pesqueras extractivas en el área marítima de la I y II regiones con la nave ''Valencia'', en virtud de lo dispuesto en la resolución Nº 1.098 de 2000, de esta Subsecretaría de Pesca.
+
+Valparaíso, 29 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
