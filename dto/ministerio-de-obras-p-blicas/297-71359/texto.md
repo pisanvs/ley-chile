@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 297, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 10 y 12, superficies 49.565 y 10.900 M2., respectivamente, roles de avalúos 186-32 y 185-44, comuna de Arauco, para la obra Camino Arauco - Llico, sector Curaquilla - Llico, se acordó precio de la indemnización con sus propietarios Víctor Leopoldo Sáez Luengo y César del Río Aguirre, ascendente a las cantidades de $7.693.351 y $2.364.400, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
