@@ -1,0 +1,3 @@
+Por resolución Nº 768, de 20 de abril de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99110161 presentada por HUMBERTO JOSE FISCHER LLOP, para instalar y operar el centro de cultivo ubicado en Isla Teresa, sector Centro-Oeste de la Isla - 1, Comuna de Cisnes, Provincia de Aysén, XI Región.
+
+Valparaíso, 20 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
