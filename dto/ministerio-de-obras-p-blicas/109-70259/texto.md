@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 109, de 31 de enero de 1997, se expropiaron los lotes de terreno Nºs 102 y 111, superficies 3.046 y 10.022, roles de avalúo 148-28 y 129-54, comuna de Pemuco y El Carmen respectivamente, para la obra Proyecto Laja-Diguillín, Sector Pemuco Diguillín y se acordó precio de indemnización con sus propietarios Cristina Elvira Vallejos Guinez y Juan A. San Martín Venegas, ascendente a la cantidad de $2.524.571, para el lote Nº 102 y $2.896.290, para el lote Nº 111.
+
+Fiscal del Ministerio de Obras Públicas.
