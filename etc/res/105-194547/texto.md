@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 105, de 27 de noviembre del año 2001, se autorizó existencia y aprobó el estatuto de la Cooperativa de Trabajo y Capacitación de Oficio Laboral Limitada, de sigla Cootracal Ltda., de La Calera, en los términos que da testimonio documento protocolizado ante el Notario de la ciudad de La Calera don Moisés Corvalán Vera con fecha 19 de octubre del 2001 bajo el Nº 458 al final del protocolo, repertorio Nº 1.160.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
