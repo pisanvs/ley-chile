@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.221 de fecha 31 de agosto de 2004, se expropió el lote de terreno Nº 7, superficie 372,00 m2, rol de Avalúo Nº 203-87, comuna de Toltén, para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub Tramo I Km. 71,46676 al Km. 80,55700", IX Región y se acordó el valor de la indemnización con su propietaria Eudocia Cienfuegos Silva, ascendente a la cantidad de $1.066.788.-
+
+Fiscal del Ministerio de Obras Públicas.
