@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.327, de 31 de agosto de 2001, se expropió el lote de terreno Nº 33-C, superficie 10.461 m², rol de avalúo 1566-100, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietario Jaime Remigio Aedo Aedo, ascendente a la cantidad de $12.443.694.-
+
+Fiscal del Ministerio de Obras Públicas.
