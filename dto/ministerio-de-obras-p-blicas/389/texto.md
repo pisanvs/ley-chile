@@ -1,0 +1,3 @@
+Por Decreto MOP N° 389, de 18 de noviembre de 1993, se expropiaron los lotes de terreno N°s. 9 y 14, superficies 7.220 m2. y 1.670 m2., roles de avalúo 109-017 y 105-027, Comuna de Pencahue, para la obra Regadío Pencahue, Canal Las Tizas y se acordó precio de indemnización con sus propietarios Gabriel Sepúlveda Fernández y María Raquel Contardo Castro y otros, ascendente a las cantidades de $180.009.- y $72.864.-
+
+Fiscal del Ministerio de Obras Públicas.
