@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.052, de 28 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1, 3, 19, 52 y 74, para la ejecución de la obra ''Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Tramo Km. 6.900.00 - Km. 28.833.35'', que figuran a nombre de Soc. Forestal Millalemu S.A., Quezada Carrasco Rigoberto, Sammon O'Brien Ricardo y Venegas Rodríguez Rubén y otro, Roles de Avalúo 186-10, 163-5, 155-31 y 155-13, comuna de San Nicolás, VIII Región, superficies 67, 3.237, 317, 769 y 104 m2. La Comisión de peritos fijó con fecha 9 de agosto de 1999, complementada por Acta de fecha 3 de julio de 2002, respecto de los lotes 52 y 74, el valor provisional de la indemnización en la cantidad de $95.100, lote 1;
+
+$1.822.700, lote 3; $95.100, lote 19; $924.400, lote 52 y $372.000, lote 74.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
