@@ -4052,7 +4052,67 @@ De conformidad con lo señalado en el N° 4 del titulo I de este Capítulo, el e
 
 Los fondos en moneda extranjera así como aquellos en moneda chilena, disponibles en caja o depositados a la vista en el Banco Central de Chile, que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación, no podrán, a su vez, ser empleados para constituir el encaje mantenido.
 
-IV.- Información a esta Superintendencia.
+### IV. ENCAJE SOBRE DEPOSITOS POR ENCAJE DE TERCEROS Y OBLIGACIONES CON EL EXTERIOR
+
+Las instituciones financieras darán cumplimiento a la exigencia de encaje sobre depósitos de terceros constituidos en observancia de lo dispuesto en el Punto I de la letra C) del Capítulo XIV, Título I, del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y sobre las obligaciones con el exterior, de acuerdo con las siguientes instrucciones:
+
+### 1. Tasa de encaje
+
+Los depósitos de terceros enterados para cumplir con la obligación de que trata el Punto I de la letra C) del Capítulo XIV, Título I, del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, así como las obligaciones contraídas con el exterior por las entidades financieras, estarán afectas a una tasa de encaje del 20%.
+
+### 2. Registro contable
+
+2.1 Depósitos por encaje de terceros y obligaciones con el exterior.
+
+Los importes que los bancos reciban de terceros por concepto del depósito que deben constituir sobre los créditos que éstos obtengan del exterior de conformidad con la norma del Banco Central de Chile a que se refiere el N° 1 precedente, serán registrados en la cuenta "Depósitos por encaje de terceros" de la partida 3425.
+
+Por otra parte, las instituciones financieras, a partir del 17 de junio de 1991, deben registrar en subcuentas distintas las obligaciones con el exterior afectas a estas normas de encaje y aquellas que no están sujetas a este gravamen por corresponder a operaciones anteriores a la fecha indicada, por tratarse de créditos del exterior internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, cuyo encaje especial se debe constituir de conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Título I de dicho Compendio, o bien, por tratarse de obligaciones derivadas de la negociación de cartas de crédito que se encontraban emitidas y registradas antes del 17 de junio de 1991.
+
+2.2. Encaje mantenido.
+
+El importe de moneda extranjera que las instituciones financieras mantengan en caja y que apliquen al cumplimiento del encaje de que trata este Título, será registrado además, en la cuenta "Caja aplicada a encaje de obligaciones con el exterior" con abono a "Responsabilidad por encaje de obligaciones con el exterior", de la partida 9166 "Recursos aplicados a encaje de obligaciones con el exterior" y 9900, respectivamente.
+
+Por otra parte, la moneda extranjera que mantengan depositada en su cuenta corriente con el Banco Central de Chile, que apliquen al cumplimiento de este encaje, será registrada, además, en la cuenta "Depósitos en cuenta corriente Banco Central aplicados a encaje de obligaciones con el exterior" con abono a "Responsabilidad por encaje de obligaciones con el exterior", de la partida 9166 y 9900, respectivamente.
+
+### 3. Cuentas de obligaciones afectas a encaje
+
+Quedarán sujetos al encaje de que trata este título, los saldos de los importes recibidos por los depósitos por encaje de terceros antes referidos, como asimismo, las obligaciones con el exterior registradas como afectas a encaje de conformidad con lo dispuesto en el N° 2 precedente, exceptuando, por lo tanto, a aquellas exentas de ese gravamen, que se demuestran en las partidas que a continuación se indican:
+
+N° 3425 "Otras obligaciones" (Unicamente la cuenta "Depósitos por encaje de terceros")
+
+N° 3505 "Adeudado a bancos del exterior por financiamiento de importaciones y exportaciones".
+
+N° 3510 "Adeudado a bancos del exterior por otras obligaciones".
+
+N° 3515 "Adeudado a oficinas del mismo banco".
+
+N° 3520 "Corresponsales ALADI-Banco Central".
+
+N° 3525 "Otros préstamos y obligaciones".
+
+N° 3555 "Adeudado a bancos del exterior".
+
+N° 3560 "Adeudado a oficinas del mismo banco".
+
+N° 3565 "Corresponsales ALADI-Banco Central".
+
+N° 3570 "Otros préstamos y obligaciones".
+
+### 4. Encaje exigido y mantenido
+
+4.1. Encaje exigido.
+
+El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo y su cumplimiento se hará en relación con el promedio de las obligaciones antes mencionadas en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando solamente los días hábiles bancarios del período.
+
+En consecuencia, no se puede establecer encaje conjunto y las disponibilidades que las instituciones financieras tengan en una determinada moneda extranjera, les servirán como encaje mantenido sólo para las obligaciones en esa misma moneda.
+
+4.2. Encaje mantenido.
+
+El encaje, para cada una de las monedas extranjeras, deberá estar constituido por billetes y monedas del respectivo país, que estén disponibles en caja en la respectiva institución financiera o depositados en cuenta corriente en el Banco Central de Chile.
+
+Los fondos en moneda extranjera que sean utilizados para constituir el encaje de que trata este título, no podrán ser empleados para cumplir con otras obligaciones de encaje ni de reserva técnica.
+
+V.- Información a esta Superintendencia.
 
 Las instituciones financieras deberán enviar a esta Superintendencia la información relativa a encaje, de conformidad con las instrucciones del Manual del Sistema de Información.
 
