@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.067 A, de 29 de abril de 1999, se expropió el lote de terreno No. 1, superficie 140,25 M2. rol de avalúo en trámite, comuna de San Rafael, para la obra Camino Ruta 5-Sur, sector San Rafael y Alto Pangue y se acordó precio de indemnización con su propietaria María Ang‚lica Lourdes Bascuñ n Pacheco, ascendente a la cantidad de $ 555.120.-
+
+Fiscal del Ministerio de Obras Públicas.
