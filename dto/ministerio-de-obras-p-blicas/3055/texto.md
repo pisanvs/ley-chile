@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.055, de 20 de octubre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 118-E, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B: Km. 42.950,00 al Km.
+
+55.200,00, Región Metropolitana, que figura a nombre de Riveros Cabrales Raquel del C., rol de avalúo 948-4, comuna de Paine, superficie 638 m². La comisión de peritos integrada por los señores Gustavo Antonio Domínguez Errázuriz, Paola Andrea Domingo Porcella y Carmen Pilar Ríos Marcuello, fijó con fecha 9 de agosto de 1999, el valor provisional de la indemnización en la cantidad de $4.186.320.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
