@@ -1,0 +1,3 @@
+Por decreto MOP Nº 979 de fecha 29 de octubre del 2004, se expropió el lote de terreno Nº 22, superficie 51 m², Rol Nº 52-6, comuna de Hualañé, para la obra ''Camino Ruta K-12-J, sector Accesos Puente La Huerta Tramo Km. 0,00000 a Km. 3,10520'' y se acordó el valor de indemnización con su propietaria Eliana Olivia Rojas Narváez, ascendente a la cantidad de $14.141.480.-
+
+Fiscal del Ministerio de Obras Públicas.
