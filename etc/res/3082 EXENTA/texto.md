@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.082, de 28 de noviembre de 2003, de esta Subsecretaría, autorízase a PESQUERA LOTA PROTEIN LTDA., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Matta esquina Villagrán s/n, Lota, VIII Región, en las líneas de elaboración de Harina y Aceite, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 28 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
