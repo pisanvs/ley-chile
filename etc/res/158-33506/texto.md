@@ -1,0 +1,7 @@
+Por Resolución N° 158, de 31 de Enero de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don MIGUEL JARAMILLO SANZ, R.U.T. N° 9.005.902-5, para iniciar actividades pesqueras, en orden a operar una planta ubicada en Quellón Viejo, Comuna de Quellón, Chiloé, X Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-refrigerado, ahumado, conserva, congelado y cocido: Congrio colorado, Congrio dorado, Congrio negro, Corvina, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Merluza del Atlántico, Róbalo, Almeja, Caracol tegula, Caracol trumulco, Cholga, Chorito, Choro, Culengue, Jibia, Lapa, Macha, Navajuela, Navaja de mar o huepo, Cangrejo panchote, Centolla, Jaiba y Erizo.
+
+En el ejercicio de las actividades de procesamiento autorizadas, el solicitante deberá dar estricto cumplimiento a las normas legales y reglamentarias que regulen la conservación de recuros hidrobiológicos.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 31 de Enero de 1994.- Alvaro Briones Ramírez, Subsecretario de Pesca, Subrogante.
