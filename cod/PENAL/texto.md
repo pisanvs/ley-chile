@@ -348,13 +348,13 @@ Pérdida o comiso de los instrumentos o efectos del delito.
 
 PENAS ACCESORIAS DE LOS CRÍMENES Y SIMPLES DELITOS.
 
-Celda solitaria.
+ELIMINADA.
 
-Incomunicación con personas extrañas al establecimiento penal.
+Incomunicación con personas extrañas al establecimiento penal, en conformidad al Reglamento carcelario.
 
 #### Artículo 22
 
-Son también penas accesorias las de suspensión e inhabilitación para cargos y oficios públicos, derechos políticos y profesiones titulares en los casos en que, no imponiéndolas especialmente la ley, ordena que otras penas las lleven consigo.
+Son penas accesorias las de suspensión e inhabilitación para cargos y oficios públicos, derechos políticos y profesiones titulares en los casos en que, no imponiéndolas especialmente la ley, ordena que otras penas las lleven consigo.
 
 #### Artículo 23
 
@@ -386,7 +386,7 @@ Cuando la ley impone multas cuyo cómputo debe hacerse con relación a cantidade
 
 En cuanto a la cuantía de la caución, se observarán las reglas establecidas para la multa, doblando las cantidades respectivamente, y su duración no podrá exceder del tiempo de la pena u obligación cuyo cumplimiento asegura, o de cinco años en los demás casos.
 
-La duración de las penas accesorias de encierro en celda solitaria e incomunicación con personas extrañas al establecimiento, salvo los casos contemplados en el número segundo del artículo 90 y en el inciso segundo del artículo 91, no podrá exceder de 180 días, no pudiendo dentro de este límite imponerse por más de la mitad del tiempo señalado a la pena principal. En todo caso, el Tribunal que impuso la pena, podrá, atendidas las circunstancias, de oficio o a petición de parte, suspender, en cualquier momento, la pena accesoria.
+INCISO SUPRIMIDO.
 
 #### Artículo 26
 
@@ -754,6 +754,8 @@ Se observará también además de lo que dispone la ley, lo que se determine en 
 
 En los reglamentos sólo podrán imponerse como castigos disciplinarios, el encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal por un tiempo que no exceda de un mes, u otros de menor gravedad.
 
+La repetición de estas medidas deberá comunicarse antes de su aplicación al juez del lugar de reclusión, quien sólo podrá autorizarla por resolución fundada y adoptando las medidas para resguardar la seguridad e integridad, del detenido o preso.
+
 #### Artículo 81
 
 Si después de cometido el delito cayere el delincuente en estado de locura o demencia, se observarán las reglas establecidas en el Código de Procedimiento Penal.
@@ -812,9 +814,9 @@ DE LAS PENAS EN QUE INCURREN LOS QUE QUEBRANTAN LAS SENTENCIAS Y LOS QUE DURANTE
 
 Los sentenciados que quebrantaren su condena serán castigados con las penas que respectivamente se designan en los números siguientes:
 
-1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta ciento ochenta días, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
+1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta tres meses, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
 
-2° Los reincidentes en el quebrantamiento de tales condenas, a más de las penas de la regla anterior, serán encerrados en celda solitaria por un término prudencial, atendidas las circunstancias, que no podrá exceder de la mitad del que les falte por cumplir de la pena principal.
+2° Los reincidentes en el quebrantamiento de tales condenas, a más de las penas de la regla anterior, sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un término prudencial, atendidas las circunstancias, que no podrá exceder de seis meses.
 
 3.° DEROGADO.
 
@@ -933,6 +935,8 @@ Esta prescripción se interrumpe quedando sin efecto el tiempo trascurrido, cuan
 #### Artículo 100
 
 Cuando el reo se ausentare del territorio de la República sólo podrá prescribir la acción penal o la pena contando por uno cada dos días de ausencia, para el cómputo de los años.
+
+Para los efectos de aplicar la prescripción de la acción penal o de la pena, no se entenderán ausentes del territorio nacional los que hubieren estado sujetos a prohibición o impedimento de ingreso al país por decisión de la autoridad política o administrativa, por el tiempo que les hubiere afectado tal prohibición o impedimento.
 
 #### Artículo 101
 
@@ -2140,7 +2144,7 @@ El que cometiere actos de maltrato o crueldad con animales, será castigado con 
 
 Toda asociación formada con el objeto de atentar contra el orden social, contra las buenas costumbres, contra las personas o las propiedades, importa un delito que existe por el solo hecho de organizarse.
 
-Se presumirá que la asociación ha tenido alguno de los objetos que se indican en el inciso anterior, cuando uno o más de sus miembros ha ejecutado algún acto que constituya un atentado contra el orden social, las buenas costumbres, las personas o las propiedades.
+INCISO DEROGADO.
 
 #### Artículo 293
 
@@ -2861,6 +2865,10 @@ No constando tampoco los que causaron lesiones menos graves, se impondrán las p
 Cuando sólo hubieren resultado lesiones menos graves sin conocerse a los autores de ellas, pero sí a los que hicieron uso de armas capaces de producirlas, se impondrá a todos éstos las penas inmediatamente inferiores en grado a las que les hubieran correspondido por tales lesiones.
 
 En los casos de este artículo y del anterior, se estará a lo dispuesto en el 304 para la aplicación de la pena.
+
+#### Artículo 403 bis
+
+El que enviare cartas o encomiendas explosivas de cualquier tipo que afecten o puedan afectar la vida o integridad corporal de las personas, será penado con presidio mayor en su grado mínimo.
 
 ### IV. Del duelo
 
