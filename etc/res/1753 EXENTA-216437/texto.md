@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.753, de 5 de agosto de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Ñumpulli, X Región, individualizada en el artículo 1º, Nº letra f) del decreto exento Nº 173 de 2002, modificado por el decreto exento Nº 342 de 2002, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES, PESCADORES ARTESANALES Y ACTIVIDADES SIMILARES DE LA CALETA DE LOS MOLINOS, provincia de Valdivia, Décima Región de Los Lagos.
+
+Valparaíso, 5 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
