@@ -1,0 +1,9 @@
+INSTRUCCION Nº46
+
+Santiago, dieciséis de julio de dos mil tres.- Visto, atendido lo solicitado por la Fiscalía Nacional Económica, mediante oficio Nº 385, de 4 de abril de 2003, se dispone lo siguiente, complementando la Instrucción Nº 39, dictada por esta Comisión con fecha 26 de diciembre de 2001:
+
+En la tramitación de las solicitudes a que se refiere el artículo 38, inciso segundo, de la ley Nº 19.733, las Comisiones Preventivas, en el evento que una solicitud de informe previo no cumpla con los requisitos establecidos en la citada norma y en la Instrucción Nº 39 que por este acto se complementa, como en el caso en que no se acompañen los antecedentes fundantes por el titular de la concesión o éste no informe el número de concesiones que involucra la operación u operaciones que motivan la consulta, la respectiva Comisión Preventiva deberá proceder, de plano, al rechazo de la solicitud, sin perjuicio de poder renovarse.
+
+Regístrese, comuníquese a las Comisiones Preventivas, a la Fiscalía Nacional Económica, a la Subsecretaría de Telecomunicaciones y al Consejo Nacional de Televisión. Publíquese en el Diario Oficial por una sola vez.
+
+Pronunciada por los señores Domingo Kokisch Mourgues, Ministro de la Excma. Corte Suprema, Presidente de la Comisión; Alejandro Ferreiro Yazigi, Superintendente de Valores y Seguros; Patricio Valdés Aldunate, subrogando al Decano de la Facultad de Derecho de la Universidad de Chile; y Francisco Javier Labbé Opazo, Decano de la Facultad de Ciencias Económicas y Administrativas de la Universidad Andrés Bello.- Jaime Barahona Urzúa, Secretario Abogado, Comisión Resolutiva.
