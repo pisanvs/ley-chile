@@ -1,0 +1,3 @@
+Por Resolución Nº 887, de 27 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 90100133, presentada por JOSE ARMANDO ANTECAO LEMUS, para un centro de cultivo ubicado en el Río San Pedro Nolasco, Comuna de Maullín, Provincia de Llanquihue, X Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 27 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
