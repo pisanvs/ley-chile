@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº860, de 31 de mayo de 2002, se expropió el lote de terreno Nº11-C, superficie 111,82 m2., rol de avalúo Nº138-73, comuna de Chonchi, para la obra Camino Acceso Sur a Chonchi, sector Ruta 5 - Chonchi Km. 0,000 al 3,25253, X Región y se acordó el valor de indemnización con su propietario Juan Segundo Vera Bórquez, ascendente a la cantidad de $266.517.
+
+Fiscal del Ministerio de Obras Públicas.
