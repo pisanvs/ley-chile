@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº602 de fecha 30 de Abril del 2002, se expropió el lote de terreno Nº25, superficie 18 m2, rol de avalúo Nº200-126, comuna de Rengo, para la obra ''Camino de Acceso Norte a Puente Lo Cartagena, Km. 3.010 a Km. 4.776'', VI Región y se acordó el valor de indemnización con su propietario Raumualdo Ortiz Escobar, ascendente a la cantidad de $464.808.-
+
+Fiscal del Ministerio de Obras Públicas.
