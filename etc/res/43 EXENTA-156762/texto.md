@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 43 de 17 de Enero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a derechos de adquisición y Sector expropiado predio "Resto del Fundo San Antonio de Comaico" de la comuna de Colina, Región Metropolitana; y derechos de aprovechamiento de aguas que corresponden a las, parcelas N° 1 a la 17, sitios N°s. 1 al 8 del proyecto de parcelación "San Antonio de Comaico" formado por predio señalado. Los derechos de agua se extraen del canal Colina del río Colina.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
