@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.414 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº57, superficie 214m2, rol Nº1458-8, comuna de San Vicente de Tagua Tagua, VI Región, para la obra ''Mejoramiento Camino Ruta H-724, sector La Gruta - Pueblo de Indios, Km. 0,000 a Km. 1,187 y sector Ruta H-730, Km. 1,600 al Km. 3,292'' y se acordó el valor de indemnización con su propietario María Cecilia Elisa Rojas Marín, ascendente a la cantidad de $2.146.005.-
+
+Fiscal del Ministerio de Obras Públicas.
