@@ -31074,977 +31074,185 @@ CAPITULO 15-2 (Bancos)
 
 MATERIA:
 
-IMPORTACIONES HACIA Y DESDE ZONAS FRANCAS.
+IMPORTACIONES DESDE ZONAS FRANCAS.
 
-I.- Ingreso de mercaderías a Zonas Francas.
+### I. ADQUISICION DE MERCADERIAS EN LAS ZONAS FRANCAS
 
-Podrán introducirse a las Zonas Francas, las mercaderías que se encuentren en el
+Las mercaderías que se adquieran en las Zonas Francas, destinadas a su Zona Franca de Extensión, podrán ser pagadas en moneda extranjera o en moneda chilena.
 
-país y que no hayan sido nacionalizadas, las mercaderías extranjeras
+En los casos en que los importadores de mercaderías desde las Zonas Francas, para las Zonas Francas de Extensión, deseen efectuar el pago de dichas mercaderías mediante divisas del mercado cambiario formal, deberán presentar previamente al Banco Central de Chile, por intermedio de una empresa bancaria, la respectiva Solicitud Registro Factura, debiendo dar cumplimiento a lo dispuesto en el Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y a las instrucciones contenidas en este Capítulo.
 
-provenientes de otra Zona Franca y mercaderías nacionales o nacionalizadas así
+### 1. Solicitud Registro Factura
 
-como también toda clase de mercaderías provenientes del exterior, excepto las
+La Solicitud Registro Factura es el documento mediante el cual las personas naturales o jurídicas proporcionan los antecedentes relativos a una determinada operación de importación desde una Zona Franca hacia su respectiva Zona Franca de Extensión. Dicho documento sirve, a la vez, de Solicitud Aduanera, Declaración de Importación y factura comercial o Informe de Importación, según sea el caso.
 
-señaladas en el Capítulo XXII del Compendio de Normas de Importación.
+La Solicitud Registro Factura extendida en moneda extranjera y autorizada por el Banco Central de Chile, además de facultar al importador para requerir, dentro del plazo de 15 días contados desde su fecha de emisión, la entrega de la mercadería que en ella se declara y para proceder a su internación, es el documento mediante el cual el Instituto Emisor otorga el acceso al mercado cambiario formal para adquirir la moneda extranjera destinada al pago de la importación.
 
-1.- Mercaderías provenientes del exterior.
+Cuando así lo solicite el usuario o el importador, según corresponda, la empresa bancaria podrá endosar la Solicitud Registro Factura a otra empresa bancaria, en la forma prevista en el Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales.
 
-En el caso de mercaderías provenientes del exterior y que se ingresen a una Zona
+### 2. Cobertura de mercaderías amparadas por una Solicitud Registro Factura
 
-Franca, no será exigible la emisión de un Informe de Importación u otro
+2.1. Norma general.
 
-documento que haga sus veces, como tampoco serán exigibles los demás
+Los importadores o usuarios de las Zonas Francas que adquieran divisas para el pago de las mercaderías amparadas por Solicitudes Registro Factura extendidas en moneda extranjera y emitidas por el Banco Central de Chile, de conformidad con lo dispuesto en el antes mencionado Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales, no están sujetos a la obligación de liquidar dicha moneda extranjera. La referida adquisición de divisas sólo podrá efectuarse por el valor indicado en la respectiva Solicitud Registro Factura, una vez que haya sido internada la mercadería y a más tardar dentro de los 30 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación se haga exigible.
 
-requerimientos bancarios o técnicos que fijan o fijaren las leyes o reglamentos
+2.2. Requisitos para efectuar la cobertura.
 
-para la importación de mercaderías al territorio nacional.
+a) Que se presente carta instrucciones de cobertura, dirigida a la empresa bancaria, debidamente firmada por el usuario o por el importador, según el caso, con indicación del N° y fecha de emisión de la Solicitud Registro Factura y del monto en moneda extranjera a cubrir.
 
-Sin embargo, el ingreso de tales mercaderías extranjeras a las Zonas Francas,
+b) Que se presente la Solicitud Registro Factura emitida y cumplida por el Servicio de Aduanas, junto con una fotocopia de la misma. En los casos que corresponda, se acompañará, en lugar del "cumplido" de Aduanas, la Declaración de Salida Ley N° 18.110 debidamente legalizada.
 
-queda sujeto a las normas especiales que, para tal efecto dicte la Dirección
+2.3. Moneda en que se puede efectuar la cobertura.
 
-Nacional de Aduanas.
+Las coberturas podrán efectuarse en una moneda extranjera diferente a la señalada en la respectiva Solicitud Registro Factura.
 
-2.- Mercaderías extranjeras que se encuentren en el país y que no hayan sido
+En estos casos las empresas bancarias deberán convenir el arbitraje con el importador o su mandatario, dentro de las condiciones normales de mercado y dejarán constancia en la respectiva Planilla de Cobertura Egreso Comercio Visible-SRF, de la paridad aplicada.
 
-nacionalizadas.
+2.4. Comunicación al Banco Central de Chile de las ventas de divisas con cargo al mercado cambiarlo formal.
 
-Las mercaderías extranjeras que se encuentren en el país bajo potestad aduanera,
+Las empresas bancarias deberán emitir una planilla de cobertura separada por las divisas que, como cobertura parcial de una operación, vendan en una misma fecha, con cargo a cada Solicitud Registro Factura.
 
-podrán ser redestinadas a las Zonas Francas siempre que el importador obtenga
+Cuando se trate de coberturas totales y siempre que correspondan a la misma moneda y forma de pago, se podrán declarar en una sola Planilla de Cobertura Egreso Comercio Visible-SRF, las ventas de divisas correspondientes a operaciones amparadas por varias Solicitudes Registro Factura.
 
-previamente la autorización respectiva del Servicio de Aduanas.
+Las planillas emitidas deberán ser enviadas diariamente al Banco Central de Chile, incluidas en la Posición de Cambios de la fecha correspondiente.
 
-En caso que se solicite el acceso al mercado de divisas para pagar al exterior
+2.5. Anotación de las ventas de divisas.
 
-una mercadería redestinada posteriormente a una Zona Franca, su cobertura podrá
+Las empresas bancarias que efectúen la venta de divisas para cubrir mercaderías amparadas por una Solicitud Registro Factura "cumplida" por el Servicio de Aduanas, deberán anotar al dorso de dicho documento, el número, la fecha y el monto de la respectiva Planilla de Cobertura Egreso Comercio Visible-SRF.
 
-efectuarse sólo si el importador y el banco que interviene en la operación dan
+2.6. Archivo de la documentación.
 
-estricto cumplimiento a las normas sobre cobertura de operaciones de
+Las empresas bancarias formarán un legajo con cada una de las Solicitudes Registro Factura por las cuales hayan vendido divisas. Estos legajos serán mantenidos bajo su responsabilidad y se archivarán correlativamente por el número de Solicitud Registro Factura e incluirán obligadamente los siguientes documentos, pudiendo exceptuarse únicamente la respectiva Solicitud Registro Factura cuando haya sido endosada a otra entidad bancaria, caso en el cual esta última asumirá la responsabilidad de mantenerla en sus archivos por el plazo que establece el artículo 19 de la Ley General de Bancos:
 
-importación, contenidas en el Capítulo XV del Compendio de Normas de Importación
+a) Copia "Banco Central de Chile (Venta de Divisas)" de la Solicitud Registro Factura emitida, cumplida por el Servicio de Aduanas o acompañada de la Declaración de Salida Ley N° 18.110, legalizada, según proceda. En los casos de venta anticipada de divisas, se archivará solamente copia de la Solicitud Registro Factura emitida.
 
-del Banco Central de Chile.
-
-3.- Mercaderías nacionales o nacionalizadas.
-
-Conforme a lo establecido en el numeral 3.2 del Capítulo XXII del Compendio de
-
-Normas de Importación, el ingreso de mercaderías nacionales o nacionalizadas se
-
-hará sin la exigencia de Informe de Exportación; será suficiente para ello la
-
-factura o el documento que haga sus veces.
-
-El Servicio de Aduanas fiscalizará la entrada de dichas mercaderías a las Zonas
-
-Francas.
-
-II.- Salidas de mercaderías desde las Zonas Francas.
-
-La salida de mercaderías desde las Zonas Francas, deberá sujetarse a las
-
-exigencias que se indican, según cual sea su destino.
-
-1. - Para ser reexpedidas a otra Zona Franca exportadas al extranjero.
-
-Para reexpedir o exportar mercaderías desde una Zona Franca a otra Zona Franca o
-
-al extranjero no será necesaria la presentación de Informe de Exportación al
-
-Banco Central de Chile, aun cuando se les hubiera incorporado productos
-
-nacionales o nacionalizados.
-
-Sin embargo, para proceder a las reexpediciones o exportaciones antes señaladas,
-
-deberá contarse previamente con la correspondiente solicitud aprobada por el
-
-Servicio de Aduanas.
-
-2.- Para su uso o consumo en el país.
-
-La salida de mercaderías desde las Zonas Francas para su uso o consumo en el
-
-país, excepto las destinadas a las Zonas Francas de Extensión, deberá sujetarse
-
-en todo a las disposiciones legales y reglamentarias vigentes para las
-
-operaciones de importación; sin embargo, los derechos y demás gravámenes que
-
-afectan a las importaciones, se aplicarán, cuando proceda, solamente a los
-
-componentes de origen extranjero, cuando se trate de la importación de
-
-mercaderías armadas, elaboradas o manufacturadas en las Zonas Francas. No
-
-obstante, en los respectivos Informes de Importación deberá declararse el valor
-
-total de las mercaderías que se importen, con prescindencia del valor de los
-
-componentes extranjeros, nacionales o nacionalizados que formen parte del
-
-producto que se importa.
-
-Las divisas provenientes de la cobertura de estas operaciones realizadas al
-
-amparo de Informes de Importación emitidos con anterioridad al 1° de septiembre
-
-de 1986, deberán depositarse en la Cuenta Especial del respectivo usuario, de
-
-acuerdo a lo señalado en el numeral 3.2.8 de este título.
-
-3.- Para ser usadas o consumidas en las respectivas Zonas Francas de Extensión o
-
-utilizadas en un proceso de armaduría, elaboración o manufacturadas por
-
-industrias instaladas antes del 4 de noviembre de 1975.
-
-La importación de mercaderías desde una Zona Franca para su respectiva Zona
-
-Franca de Extensión, sólo podrá efectuarse para los fines señalados en este
-
-mismo número y al amparo del documento denominado Solicitud Registro Factura,
-
-liberada de derechos, tasas y demás gravámenes percibidos por intermedio del
-
-Servicio de Aduanas y del Impuesto al Valor Agregado IVA, contemplado en el DL
-
-825 y sus modificaciones.
-
-Podrá importarse toda clase de mercaderías excepto las señaladas expresamente en
-
-el numeral 4.3 del Capítulo XXII sobre Zonas Francas, del Compendio de Normas de
-
-Importación del Banco Central de Chile.
-
-El pago de estas importaciones podrá efectuarse en la forma indicada en los
-
-puntos 3.2 y 3.3 del presente título, en moneda extranjera o en moneda chilena.
-
-Toda operación de importación a la Zona Franca de Extensión, que tenga su origen
-
-en la Zona Franca y cuyo pago se realice en moneda extranjera, deberá
-
-registrarse previamente en una empresa bancaria o, cuando proceda, en el Banco
-
-Central de Chile. Este registro se hará mediante el documento llamado "Solicitud
-
-Registro Factura".
-
-3.1.- Solicitud Registro Factura.
-
-La Solicitud Registro Factura es el documento mediante el cual las personas
-
-naturales o jurídicas manifiestan su voluntad de efectuar una importación desde
-
-una Zona Franca hacia su respectiva Zona Franca de Extensión. Asimismo, es el
-
-medio que se utiliza para formalizar el registro de la operación en moneda
-
-extranjera en el Banco Central de Chile y que a la vez sirve de Solicitud
-
-Aduanera, Declaración de Importación y factura comercial, según sea el caso.
-
-3.1.1.- Características principales de la Solicitud Registro Factura.
-
-a) Puede ser presentada al Banco Central de Chile por una o más personas
-
-naturales o jurídicas o por éstas o aquéllas, conjuntamente. La presentación
-
-debe hacerse por intermedio de una empresa bancaria.
-
-b) No admite modificaciones de ninguna especie en los datos y declaraciones
-
-contenidos en ella.
-
-c) Es intransferible.
-
-d) Puede hacer las veces de Informe de Importación simplificado, Solicitud
-
-Aduanera, Declaración de Importación y/o factura comercial, según corresponda.
-
-e) Tiene un plazo de vigencia de 15 días, a contar de su fecha de emisión, para
-
-internar la mercadería que ampara; en casos calificados el Banco Central de
-
-Chile podrá fijar plazos de validez distintos al señalado.
-
-En el caso que el vencimiento del plazo para internar se cumpla en un día no
-
-hábil bancario, éste se prorrogará automáticamente al primer día hábil bancario
-
-siguiente.
-
-f) El formulario respectivo deberá ser proporcionado y extendido por los
-
-usuarios de las Zonas Francas y conformarse al modelo aprobado por el Banco
-
-Central de Chile.
-
-g) Debe ser emitida por el Banco Central Chile; sin embargo podrán emitirlas las
-
-demás entidades bancarias en los casos en que su monto sea igual o inferior a
-
-US$1.500,00 CIF Aduana o su equivalente en otras monedas extranjeras, con las
-
-excepciones que expresamente se contemplan en el Capítulo XXII del Compendio de
-
-Normas de Importación.
-
-h) No necesita de ninguna clase de visado o certificación previa para importar.
-
-Cuando las disposiciones legales o reglamentarias exijan un requisito de esa
-
-naturaleza, éste se acreditará sólo ante el Servicio de Aduanas.
-
-3.1.2.- Presentación al Banco Central de Chile y utilización de la Solicitud
-
-Registro Factura.
-
-La Solicitud Registro Factura, extendida en moneda extranjera por un monto
-
-superior a US$1.500,00 GIF Aduana o su equivalente en otras monedas extranjeras,
-
-deberá ser presentada al Banco Central de Chile por intermedio de una empresa
-
-bancaria. El mismo procedimiento se seguirá en aquellos casos en que, de
-
-conformidad con lo dispuesto en el Capítulo XXII ya mencionado, la Solicitud
-
-Registro Factura deba ser emitida por el Instituto Emisor, aunque su monto sea
-
-igual o inferior a US$1.500,00 CIF Aduana.
-
-El importador o su mandatario y la empresa bancaria que intervenga en dicha
-
-presentación, según corresponda, serán responsables de la veracidad de los datos
-
-y declaraciones contenidos en la respectiva Solicitud Registro Factura. Esa
-
-responsabilidad no se extingue por el hecho de que el Banco Central de Chile
-
-emita la Solicitud Registro Factura.
-
-El Banco Central de Chile podrá devolver sin emitir, las Solicitudes Registro
-
-Factura que contengan errores u omisiones o que no cumplan con cualquiera de los
-
-requisitos exigidos para su emisión.
-
-La Solicitud Registro Factura autorizada por el Banco Central de Chile, en los
-
-casos que corresponda, será numerada correlativamente y fechada por éste. La
-
-Solicitud Registro Factura así autorizada o emitida, faculta al importador para
-
-requerir la entrega de la mercadería que en ella se declara y para proceder a su
-
-internación y, además, si está extendida en moneda extranjera, otorga al usuario
-
-de la Zona Franca, en su calidad de mandatario del importador, acceso al mercado
-
-bancario de divisas para adquirir la moneda extranjera destinada al pago de la
-
-importación, hasta por los valores CIF Aduana declarados en ella.
-
-3.1.3.- Emisión de Solicitudes Registro Factura por los bancos.
-
-Las Solicitudes Registro Factura emitidas por las instituciones bancarias,
-
-deberán ser numeradas correlativamente y en ellas se dejará constancia de la
-
-fecha de emisión. Dicho número y fecha identificará en forma oficial el
-
-documento. Las Solicitudes Registro Factura emitidas por las instituciones
-
-bancarias, facultan al importador para realizar todas las diligencias a que se
-
-refiere el inciso 4° del numeral precedente.
-
-Las empresas bancarias que emitan estas Solicitudes, deberán remitir al Banco
-
-Central de Chile, el primer día hábil bancario siguiente al de su emisión, una
-
-copia de esas Solicitudes, en la forma que lo determine el Instituto Emisor.
-
-Las empresas bancarias deben devolver, sin emitir, las Solicitudes Registro
-
-Factura que contengan errores u omisiones o que no se ajusten a las normas del
-
-Banco Central de Chile.
-
-3.1.4.- Caución solidaria.
-
-En los casos en que la Solicitud Registro Factura sea requerida por más de una
-
-persona, sean éstas naturales o jurídicas, deberá suscribirse la correspondiente
-
-caución solidaria en la Solicitud Registro Factura, cuyo texto está contenido en
-
-el Anexo N°6 del Capítulo IV del Compendio de Normas de Importación.
-
-3.1.5.- Mandato.
-
-Si la importación se realiza a través de un mandatario, tanto éste como el
-
-mandante, deberán firmar el mandato respectivo, incorporado en el formulario de
-
-la Solicitud Registro Factura.
-
-3.1.6.- Valores declarados en la Solicitud Registro Factura.
-
-En las Solicitudes Registro Factura se declararán los valores totales de venta,
-
-sin incluir intereses, gastos de financiamiento o cualquier otro.
-
-3.1.7.- Endoso de la Solicitud Registro Factura.
-
-Cuando así lo solicite el usuario o el importador, según corresponda, la empresa
-
-bancaria podrá endosar la Solicitud Registro Factura o la Solicitud Registro por
-
-Ventas en Moneda Nacional a otra empresa bancaria, en la forma prevista en el
-
-Capítulo XXII del Compendio de Normas de Importación.
-
-3.2.- Mercaderías pagaderas en moneda extranjera.
-
-3.2.1.- Trámite previo.
-
-Todo importador, antes de contraer obligaciones con los usuarios de las Zonas
-
-Francas por compra de mercaderías pagaderas en moneda extranjera, deberá contar
-
-con la respectiva Solicitud Registro Factura emitida por el Banco Central de
-
-Chile o por una empresa bancaria, según corresponda.
-
-3.2.2.- Condiciones de pago
-
-Los pagos en moneda extranjera de las mercaderías adquiridas en una Zona Franca,
-
-podrán hacerse al contado o a plazo, según se haya convenido entre el comprador
-
-y el vendedor y de acuerdo con las disposiciones vigentes sobre la materia.
-
-3.2.3.- Venta anticipada de divisas.
-
-Las empresas bancarias podrán efectuar la venta anticipada de divisas para el
-
-pago adelantado de la importación de mercaderías, cuando así haya sido
-
-expresamente autorizado por el Banco Central de Chile, en la respectiva
-
-Solicitud Registro Factura.
-
-Para solicitar la venta de las divisas a que se refiere el párrafo anterior, el
-
-importador o su mandatario deberá presentar a la empresa bancaria la carta
-
-instrucciones de cobertura a que se refiere la letra a) del numeral 3.2.4.1
-
-siguiente, además de la correspondiente Solicitud Registro Factura emitida por
-
-el Banco Central de Chile.
-
-3.2.4.- Cobertura de mercaderías amparadas por una Solicitud Registro Factura.
-
-Las empresas bancarias podrán vender divisas a los importadores para pagar las
-
-mercaderías amparadas por Solicitudes Registro Factura extendidas en moneda
-
-extranjera y emitidas por el Banco Central de Chile o por una empresa bancaria,
-
-según corresponda.
-
-Las coberturas podrán realizarse por el valor CIF Aduana indicado en la
-
-respectiva Solicitud Registro Factura, más hasta un 30% sobre dicho valor, o
-
-bien, hasta por el equivalente del valor en moneda corriente nacional consignado
-
-en el documento denominado "Declaración de Ingreso a Zona Franca Primaria".
-
-Estas ventas de divisas se efectuarán bajo las siguientes condiciones:
-
-3.2.4.1.- Requisitos para efectuar la cobertura.
-
-a) Que se presente carta instrucciones de cobertura, dirigida a la empresa
-
-bancaria, debidamente firmada por el usuario, con indicación del N° y fecha de
-
-emisión de la Solicitud Registro Factura y del monto en moneda extranjera a
-
-cubrir.
-
-b) Que se presente la Solicitud Registro Factura emitida y cumplida por el
-
-Servicio de Aduanas, junto con una fotocopia de la misma. En los casos que
-
-corresponda, se acompañará, en lugar del "cumplido" de Aduanas, la Declaración
-
-de Salida Ley N°18.110 debidamente legalizada.
-
-3.2.4.2.- Moneda en que se puede efectuar la cobertura.
-
-Las coberturas podrán efectuarse en una moneda extranjera diferente a la
-
-señalada en la respectiva Solicitud Registro Factura.
-
-En estos casos las empresas bancarias deberán convenir el arbitraje con el
-
-importador o su mandatario, dentro de las condiciones normales de mercado y
-
-dejarán constancia en la respectiva Planilla de Cobertura Egreso Comercio
-
-Visible-SRF, de la paridad aplicada.
-
-3.2.4.3.- Coberturas de mercaderías depositadas en garantía en almacenes de
-
-warrants que hayan sido rematadas.
-
-Las mercaderías depositadas en almacenes warrants que las empresas bancarias
-
-hayan recibido en garantía de créditos otorgados para financiar operaciones de
-
-Zonas Francas y que, en virtud de las disposiciones contenidas en el Decreto
-
-Supremo N°178 del Ministerio de Agricultura publicado en el Diario Oficial del
-
-29 de agosto de 1981 y sus modificaciones, que regula dichos almacenes de
-
-depósito, hubieran sido rematadas y su precio pagado en moneda nacional, podrán
-
-ser internadas a la Zona Franca de Extensión o al resto del país, conforme al
-
-procedimiento que para tal efecto señala el Banco Central de Chile.
-
-Según ese procedimiento, la empresa bancaria a cuyo favor estaba constituida la
-
-garantía, deberá presentar el correspondiente Informe de Importación o Solicitud
-
-Registro Factura, a su propio nombre, como importador, para su emisión por parte
-
-del Banco Central de Chile, acompañada del respectivo certificado de remate.
-
-La empresa bancaria tendrá acceso al mercado de divisas para la cobertura de la
-
-mercadería rematada, hasta por su correspondiente valor CIF Aduana o hasta por
-
-el monto de la adjudicación, si éste resulta menor que dicho valor CIF, debiendo
-
-atenerse en todo lo demás a las normas generales de cobertura establecidas para
-
-las operaciones de zona franca, de que trata el ya mencionado Capítulo XXII de
-
-las Normas de Importación.
-
-Las divisas provenientes de la cobertura de estas mercaderías rematadas deberán
-
-destinarse exclusivamente al pago de los financiamientos otorgados por la
-
-institución bancaria para operaciones de Zona Franca.
-
-Si la internación se realiza sin acceso al mercado bancario de divisas, el
-
-adjudicatario deberá presentar el Informe de Importación o la Solicitud Registro
-
-Factura "sin cobertura", a través de la empresa bancaria que ordenó el remate o
-
-por intermedio de la que ésta designe, lo que deberá acreditarse ante el Banco
-
-Central de Chile, al momento de la presentación del documento y en la forma que
-
-indique el Instituto Emisor.
-
-3.2.4.4.- Comunicación al Banco Central de Chile de las ventas de divisas con
-
-cargo al mercado bancario.
-
-Las empresas bancarias deberán emitir una planilla de cobertura separada por las
-
-divisas que vendan en una misma fecha, con cargo a cada Solicitud Registro
-
-Factura.
-
-Sin embargo, cuando se trate de coberturas totales Y siempre que correspondan a
-
-la misma moneda y forma de pago, se podrán declarar en una misma Planilla de
-
-Cobertura Egreso Comercio Visible-SRF, las ventas de divisas correspondientes a
-
-operaciones amparadas por varias Solicitudes Registro Factura.
-
-Las planillas emitidas deberán ser enviadas diariamente al Banco Central de
-
-Chile, incluidas en la Posición de Cambios de la fecha correspondiente.
-
-3.2.5.- Anotación de las ventas de divisas.
-
-Las empresas bancarias que efectúen la venta de divisas para cubrir mercaderías
-
-amparadas por una Solicitud Registro Factura "cumplida" por el Servicio de
-
-Aduanas, deberán anotar al dorso de dicho documento, el número, la fecha y el
-
-monto de la respectiva Planilla de Cobertura Egreso Comercio Visible-SRF. De la
-
-misma forma se procederá en la venta anticipada de divisas de que trata el
-
-numeral 3.2.3. precedente, con la diferencia de que, en ese caso, se hará la
-
-anotación en la Solicitud Registro Factura emitida pero aún no cumplida por el
-
-Servicio de Aduanas.
-
-3.2.6.- Archivo de la documentación.
-
-Las empresas bancarias formarán un legajo con cada una de las Solicitudes
-
-Registro Factura por las cuales hayan vendido divisas. Estos legajos serán
-
-mantenidos bajo su responsabilidad y se archivarán correlativamente por el
-
-número de Solicitud Registro Factura e incluirán obligadamente los siguientes
-
-documentos, pudiendo exceptuarse únicamente la respectiva Solicitud Registro
-
-Factura cuando haya sido endosada a otra entidad bancaria, caso en el cual esta
-
-última asumirá la responsabilidad de mantenerla en sus archivos por el plazo que
-
-establece el artículo 19 de la Ley General de Bancos:
-
-a) Copia "Banco Central de Chile (Venta de Divisas)" de la Solicitud Registro
-
-Factura emitida, cumplida por el Servicio de Aduanas acompañada de la
-
-Declaración de Salida Ley N°18.110, legalizada, según proceda. En los casos de
-
-venta anticipada de divisas, se archivará solamente copia de la Solicitud
-
-Registro Factura emitida.
-
-b) Original de la o de las respectivas Planillas de Cobertura-Egreso-Comercio
-
-Visible-SRF.
+b) Original de la o de las respectivas Planillas de Cobertura Egreso Comercio Visible-SRF.
 
 c) Carta de instrucciones de cobertura.
 
-3.2.7.- Entrega de documentos al Banco Central de Chile.
+2.7. Entrega de documentos al Banco Central de Chile.
 
-El Banco Central de Chile, a través de la Gerencia de Comercio Exterior podrá
+El Banco Central de Chile, a través de la Gerencia de Comercio Exterior podrá requerir en cualquier momento a las empresas bancarias la entrega de los documentos indicados en el numeral anterior.
 
-requerir en cualquier momento a las empresas bancarias la entrega de los
+Las empresas bancarias deberán cumplir con la entrega de dichos documentos dentro del plazo que para tal efecto se les señale.
 
-documentos indicados en el numeral anterior.
+3. Importación de mercaderías desde Zonas Francas para su uso o consumo en el país.
 
-Las empresas bancarias deberán cumplir con la entrega de dichos documentos
+La salida de mercaderías desde las Zonas Francas para su uso o consumo en el país, excepto las destinadas a las Zonas Francas de Extensión, deberá sujetarse en todo a las disposiciones legales y reglamentarias vigentes para las operaciones de importación, sin perjuicio de las normas especiales que les sean aplicables.
 
-dentro del plazo que para tal efecto se les señale.
+### II. PROCEDIMIENTOS DE PAGO
 
-3.2.8.- Entrega de las divisas.
+Las empresas bancarias pueden abrir, confirmar, negociar y financiar cartas de crédito que amparen importaciones desde una Zona Franca a una Zona Franca de Extensión o al resto del país, siempre que cuenten previamente con la Solicitud Registro Factura o el Informe de Importación, emitidos.
 
-Las divisas vendidas al amparo de una Solicitud Registro Factura o de un Informe
+Asimismo, las empresas bancarias pueden recibir documentos de embarque en cobranza, correspondientes a importaciones desde las Zonas Francas.
 
-de Importación según corresponda, emitidos con anterioridad al 1° de septiembre
+### III. CARTAS DE CREDITO
 
-de 1986, deberán ser depositadas por las empresas bancarias, centro de los dos
+1. Cartas de crédito que amparen importaciones desde las Zonas Francas al resto del país.
 
-días hábiles bancarios siguientes de efectuada la venta, en una cuenta corriente
+Las cartas de crédito que se establezcan para el pago de las importaciones que se realicen desde las Zonas Francas hacia el resto del país, podrán emitirse pagaderas a la vista, a plazo o contra aceptación de letra, pero, en todo caso, siempre deben estar amparadas por un Informe de Importación aprobado o por una Solicitud Registro Factura cuando se trate de operaciones hacia la Zona Franca de Extensión, y se sujetarán en todo, a las normas generales sobre importaciones.
 
-especial en moneda extranjera abierta a nombre del respectivo usuario de la Zona
+2. Cartas de crédito que amparen importaciones desde las Zonas Francas a sus respectivas Zonas Francas de Extensión.
 
-Franca, en empresas bancarias del país.
+Cuando se trate de importaciones desde las Zonas Francas a su respectiva Zona Franca de Extensión, las empresas bancarias podrán establecer cartas de crédito pagaderas a la vista, a plazo o contra aceptación de letra, siempre que estén amparadas por una Solicitud Registro Factura emitida por el Banco Central de Chile.
 
-En los contratos de estas cuentas corrientes especiales, debe dejarse constancia
+### 3. Contabilización de las operaciones con cartas de crédito
 
-de que ellas se rigen por las normas del Capítulo XXII del Compendio de Normas
+3.1. Por los bancos emisores.
 
-de Importación del Banco Central de Chile. Además, debe indicarse en forma
+3.1.1. Apertura.
 
-expresa que el titular de la respectiva cuenta faculta irrevocablemente a la
+Los bancos registrarán la apertura de la carta de crédito en una de las siguientes cuentas, según la modalidad que se haya acordado con el cliente:
 
-empresa bancaria para entregar al Banco Central de Chile, a su simple
+Debe: - "Deudores por cartas de crédito a la vista - Zonas Francas", en caso de que las cartas de crédito sean negociables y pagaderas a la vista, con financiamiento del banco emisor.
 
-requerimiento, toda la información y antecedentes relativos a su movimiento.
+- "Deudores por cartas de crédito negociables a plazo -Zonas Francas", en el caso que se establezca el pago al beneficiario para una fecha posterior a la de negociación del acreditivo.
 
-Los usuarios podrán girar de las referidas cuentas corrientes especiales, sólo
+- "Deudores por cartas de crédito negociables contra aceptación de letras-Zonas Francas". Los saldos de estas cuentas se demostrarán en la partida 1615.
 
-para los siguientes fines:
+- "Moneda Extranjera vendida condicionalmente-cartas de crédito por negociar- Zonas Francas", cuyo saldo se registrará en la partida 2525, si el cliente importador deposita al momento de la apertura, el equivalente en moneda chilena del monto de la carta de crédito, calculado a la cotización que a esa fecha tenga la respectiva moneda extranjera.
 
-a) Pagos de obligaciones con empresas bancarias establecidas en el país, que
+Haber: - "Cartas de crédito a la vista - Zonas Francas", cuando se trate de acreditivos pagaderos contra presentación de documentos de embarque o de otros documentos que se señalen.
 
-tengan su origen en acreditivos negociados, correspondientes a mercaderías
+- "Cartas de crédito negociables a plazo - Zonas Francas", cuando la carta de crédito establezca que su pago al beneficiario se hará después de transcurrido un plazo determinado.
 
-destinadas a Zona Franca.
+- "Cartas de crédito negociables contra aceptación de letra
 
-b) Pago de obligaciones con el exterior, que correspondan a cobranzas
+- Zonas Francas", cuando el acreditivo sea negociable contra aceptación de una letra a plazo por parte del banco negociador.
 
-registradas en empresas bancarias establecidas en el país, por la importación de
+Estas cuentas formarán parte de la partida 3615.
 
-mercaderías destinadas a Zona Franca. En este caso, la respectiva empresa
+3-1.2. Por la negociación.
 
-bancaria deberá remesar el importe de la cobranza directamente al acreedor o
+Una vez producida la negociación, los bancos revertirán las contabilizaciones señaladas en el numeral anterior y registrarán la operación en una de las siguientes cuentas, según corresponda:
 
-cedente extranjero.
+Debe: - "Anticipos para importaciones - Zonas Francas", en el caso que el acreditivo pagado al beneficiario haya sido financiado por el banco. Esta cuenta se demostrará en la partida 1125.
 
-c) Constituir depósitos a plazo en moneda extranjera en empresas bancarias
+- "Moneda extranjera vendida condicionalmente - cartas de crédito negociadas - Zonas Francas" en el evento que la apertura del acreditivo se hubiera realizado con un depósito provisional en moneda chilena. El saldo de esta cuenta se incluirá en la partida 2525.
 
-establecidas en el país.
+- "Deudores por cartas de crédito negociadas a plazo - Zonas Francas", si se trata de un acreditivo negociado para ser pagado al beneficiario en un plazo determinado, posterior a la fecha de negociación. El saldo de esta cuenta se incluirá en la partida 1125.
 
-El importe de estos depósitos a plazo más sus respectivos intereses, deberá
+- "Deudores por cartas de crédito negociadas contra aceptación de letras - Zonas Francas", cuando el acreditivo haya sido negociado mediante una letra a plazo aceptada por el banco negociador a favor del beneficiario. El saldo de esta cuenta formará parte de la partida 1125.
 
-depositarse, al momento de su rescate, en la cuenta corriente especial de que
+Haber: - "Obligaciones por cartas de crédito negociadas a plazo -Zonas Francas", por el compromiso de pagar la carta de crédito negociada por otro banco en el plazo estipulado. El saldo de esta cuenta se incluirá en la partida 3410 ó 3415.
 
-trata este numeral.
+- "Obligaciones por cartas de crédito negociadas a plazo por sucursales - Zonas Francas", si el compromiso de pagar al beneficiario en el plazo estipulado, se ha contraído por intermedio de una sucursal del mismo banco. Esta cuenta se demostrará en la partida 3425. El acreedor en estos casos, será directamente el beneficiario de la respectiva carta de crédito a plazo.
 
-d) Pago por concepto de tarifado que los usuarios deban efectuar a las
+- "Obligaciones por créditos documentarios negociados contra aceptación de letra
 
-Sociedades Administradoras de Zonas Francas, por compromisos en moneda
+- Zonas Francas", si la negociación la realiza un banco local y éste acepta una letra a favor del beneficiario, de conformidad con las estipulaciones de la carta de crédito. Esta cuenta formará parte de la partida 3410 ó 3415.
 
-extranjera adquiridos antes del 14 de diciembre de 1983 y registrados en el
+- "Obligaciones por créditos documentarios negociados contra aceptación por sucursales - Zonas Francas", en los casos en que las negociaciones se realicen por intermedio de sucursales del propio banco. En este evento la aceptación es del mismo banco y, por lo tanto, la obligación de pago es directa al beneficiario del crédito. Esta cuenta debe demostrarse en la partida 3425, a que se hizo referencia anteriormente.
 
-Banco Central de Chile antes del 15 de enero de 1984. En este caso, el pago
+Cuando se trate de la negociación de cartas de crédito a la vista, se acreditará la cuenta contra la cual se efectúe el giro correspondiente para reembolsar el pago al banco negociador.
 
-deberá efectuarse mediante cheque nominativo a nombre de la respectiva Sociedad
+3.2. Bancos notificadores, confirmadores y/o negociadores.
 
-Administradora.
+3.2.1. Por la recepción de la carta de crédito.
 
-e) Liquidación a moneda chilena, en cuyo caso se debe girar cheque nominativo a
+El banco que reciba una carta de crédito abierta por otro banco situado en el país, a favor de un usuario de la Zona Franca, procederá a registrar ese acreditivo en las cuentas "Deudores por créditos documentarios-Zonas Francas" y "Beneficiarios de créditos documentarios-Zonas Francas", de las partidas 9360 y 9900.
 
-favor de la empresa bancaria adquirente de las divisas.
+En el caso que el banco notificador o receptor de la carta de crédito sea una sucursal del propio banco emisor del acreditivo, registrará como deudor el nombre del ordenante de la carta de crédito y el nombre de la oficina del banco que la emitió.
 
-f) Financiar cartas de crédito para operaciones de Zona Franca.
+Si el banco emisor es otro banco distinto del emisor, será considerada como deudora la entidad bancaria que emitió la carta de crédito. La reversión de estos asientos se operará en el momento en que el crédito sea confirmado, traspasado, negociado o cancelado.
 
-g) Vender dólares estadounidenses al Banco Central de Chile con pacto de
+3.2.2. Confirmación de la carta de crédito.
 
-recompra, de conformidad con las disposiciones contenidas en el Capítulo IV.E.1
+El banco que confirme una carta de crédito a favor de un usuario de la Zona Franca, emitida por otro banco del país, registrará la operación en las cuentas "Deudores por créditos confirmados-Zonas Francas" y "Beneficiarios de créditos confirmados-Zonas Francas", que se incluyen en las partidas 1620 y 3620, respectivamente.
 
-del Compendio de Normas Financieras del Instituto Emisor. Las divisas que se
+Los registros contables efectuados en estas cuentas se revertirán una vez que el crédito sea negociado o cancelado.
 
-reciban por la recompra, deben ser depositadas nuevamente en estas cuentas
+3.2.3. Negociación y pago.
 
-especiales.
+Los pagos que se realicen por la negociación de cartas de crédito a la vista, se debitarán en la cuenta "Avances otorgados a bancos del país", que se incluirá en la partida 1120.
 
-En cada caso, los usuarios deberán declarar expresamente, por escrito, en la
+Una vez recibido el abono del banco emisor del crédito, se revertirá ese asiento y se debitará la cuenta en la que se depositará ese pago.
 
-respectiva petición de giro, el destino que se dará a las divisas giradas, el
+3.2.4. Cartas de crédito negociadas a plazo.
 
-que no podrá ser otro distinto que el de cumplir alguno de los fines
+Cuando un banco negocie una carta de crédito a plazo, emitida por otro banco, a la que haya otorgado su confirmación, la registrará en "Acreditivos confirmados negociados a plazo-Zonas Francas", cuyo saldo se demostrará en la partida 1120.
 
-autorizados. Cuando sea menester deberán presentar, asimismo, la respectiva
+En el Pasivo contabilizará ese compromiso en la cuenta «Acreedores por cartas de crédito confirmadas negociadas a plazo - Zonas Francas» de la partida 3425.
 
-autorización del Banco Central de Chile.
+Si la negociación la efectúa una sucursal del propio banco emisor de la carta de crédito, se contabilizará en las cuentas "Acreditivos negociados a plazo por cuenta de oficinas del mismo Banco". Esta cuenta se incluirá en la partida 9360.
 
-Los giros por conceptos distintos a los señalados, requerirán de la autorización
+En el Haber se registrará en la cuenta "Responsabilidad por créditos negociados a plazo por cuenta de oficinas del mismo banco", que se demostrará en la partida 9900.
 
-previa de la Gerencia de Comercio Exterior del Banco Central de Chile.
+3.2.5. Cartas de crédito negociadas contra aceptación.
 
-3.3.- Mercaderías pagaderas en moneda chilena.
+Si la carta de crédito a plazo es negociada contra aceptación de una letra por parte del banco negociador, el registro contable de esa aceptación se hará en la cuenta "Deudores por acreditivos negociados contra aceptación de letra - Zona Franca", que formará parte de la partida 1125.
 
-Para la importación de mercaderías pagaderas en moneda chilena será suficiente
+En el pasivo se contabilizará ese compromiso en la cuenta "Acreedores por cartas de crédito negociadas contra aceptación - Zonas Francas" de la partida 3425.
 
-que el usuario de la Zona Franca extienda la respectiva Solicitud Registro
+Si la aceptación se cursa por una sucursal del propio banco, será registrada en la cuenta denominada "Deudores por aceptaciones de créditos negociados - Zonas Francas", de la partida 9360.
 
-Factura expresada en moneda chilena, que hará las veces de factura comercial. En
+En el Haber de las cuentas de orden se contabilizará en la cuenta "Responsabilidad del banco por aceptaciones de créditos negociados - Zonas Francas", de la partida 9900.
 
-este caso no será necesario que dicho documento sea autorizado por el Banco
+Estos asientos se revertirán en la oportunidad en que se realice el pago de la carta de crédito por haberse cumplido el plazo o haber vencido la aceptación.
 
-Central de Chile. La internación de la mercadería a la Zona Franca de Extensión,
+### V. COBRANZAS
 
-se efectuará con la referida Solicitud Registro Factura en la que el Servicio de
-
-Aduanas deberá dejar constancia del ingreso de la mercadería mediante el
-
-"cumplido" correspondiente.
-
-Las mercaderías internadas a la Zona Franca de Extensión al amparo de
-
-Solicitudes Registro Factura expresadas en moneda chilena, no tendrán acceso al
-
-mercado bancario de divisas para su cobertura, a menos que se cuente con una
-
-"Solicitud Registro por Ventas en Moneda Nacional".
-
-3.4.- Solicitud Registro por Ventas en Moneda Nacional.
-
-Los usuarios de la Zona Franca que realicen ventas en moneda nacional que no
-
-excedan del equivalente de US$500.- por las cuales hayan emitido boletas o
-
-facturas simplificadas de conformidad con las normas dictadas por el Servicio de
-
-Aduanas o Solicitudes Registro Factura, cuando se trate de ventas por un
-
-equivalente de hasta US$1.500.- podrán adquirir en el mercado bancario las
-
-divisas correspondientes a las ventas realizadas en esa forma, siempre que para
-
-ello obtengan previamente del Banco Central de Chile, la emisión del documento
-
-denominado "Solicitud Registro por Ventas en Moneda Nacional", el que deberá
-
-contar con el "cumplido", del Servicio de Aduanas.
-
-3.4.1.- Características principales de la Solicitud Registro por Ventas en
-
-Moneda Nacional.
-
-La "Solicitud Registro por Ventas en Moneda Nacional", es el documento
-
-establecido por el Banco Central de Chile, para permitir a los usuarios de las
-
-Zonas Francas adquirir divisas en el mercado bancario, por el equivalente de las
-
-ventas de mercaderías en moneda nacional.
-
-Entre sus principales características, cabe mencionar las siguientes:
-
-a) El formulario respectivo deberá ser confeccionado y extendido por los
-
-usuarios de las Zonas Francas y conformarse al modelo aprobado por el Banco
-
-Central de Chile.
-
-b) Es intransferible.
-
-c) No admite modificación de ninguna especie en los datos y declaraciones
-
-contenidos en ella.
-
-3.4.2.- Presentación al Banco Central de Chile.
-
-La Solicitud Registro por Ventas en Moneda Nacional, deberá presentarla el
-
-usuario al Banco Central de Chile, por intermedio de una empresa bancaria.
-
-El usuario de Zona Franca y la empresa bancaria que intervengan en dicha
-
-presentación, serán responsables de la veracidad de los datos y declaraciones
-
-contenidos en la respectiva Solicitud Registro por Ventas en Moneda Nacional.
-
-Esa responsabilidad no se extingue por el hecho de que el Banco Central de Chile
-
-emita la Solicitud Registro por Ventas en Moneda Nacional.
-
-El Banco Central de Chile podrá devolver sin emitir las Solicitudes Registro por
-
-Ventas en Moneda Nacional que contengan errores u omisiones o que no cumplan con
-
-cualquiera de los requisitos exigidos para su emisión.
-
-La Solicitud Registro por Ventas en Moneda Nacional autorizada por el Banco
-
-Central de Chile, será numerada correlativamente y fechada por éste.
-
-Las Solicitudes Registro por Ventas en Moneda Nacional que se presenten al Banco
-
-Central de Chile, para adquirir moneda extranjera, deberán acompañarse de los
-
-documentos comprobatorios en moneda chilena que correspondan a las ventas
-
-declaradas ellas (boletas, facturas simplificadas, SRF en moneda nacional) que
-
-expresamente se indican en el Capítulo XXII del Compendio de Normas de
-
-Importación. Estos documentos deberán haber sido extendidos con no más de 30
-
-días de anticipación a la fecha de "cumplido" del Servicio de Aduanas y en ellos
-
-deberá constar el valor CIF Aduana de la mercadería.
-
-3.4.3.- Valores declarados en la Solicitud Registro por Ventas en Moneda
-
-Nacional.
-
-En las Solicitudes Registro por Ventas en Moneda Nacional se declararán los
-
-valores CIF Aduana en moneda extranjera de las respectivas ventas sin incluir
-
-intereses, gastos de financiamiento o cualquier otro. Además se anotará el
-
-importe del total venta en moneda nacional que corresponda. En cada solicitud se
-
-incluirán sólo comprobantes cuyos importes GIF Aduana estén expresados en una
-
-misma moneda extranjera.
-
-3.4.4.- Cobertura de mercaderías amparadas por una Solicitud Registro por Ventas
-
-en Moneda Nacional.
-
-Las ventas en moneda extranjera podrán realizarse por el total del valor CIF
-
-Aduana indicado en la respectiva Solicitud Registro por Ventas en Moneda
-
-Nacional emitida por el Banco Central de Chile más un exceso de hasta el 30% de
-
-dicho valor.
-
-3.4.4.1.- Requisitos para efectuar la cobertura.
-
-a) Que se presente carta de instrucciones de cobertura, dirigida a la empresa
-
-bancaria, debidamente firmada por el usuario, con indicación del N° y fecha de
-
-emisión de la Solicitud Registro por Ventas en Moneda Nacional y del monto en
-
-moneda extranjera que se solicita cubrir.
-
-b) Que se presente la Solicitud Registro por Ventas en Moneda Nacional emitida
-
-por el Banco Central de Chile, con la constancia de cumplida por parte del
-
-Servicio de Aduanas, junto con una fotocopia de la misma. Cuando así
-
-corresponda, se acompañará en lugar del "cumplido" de Aduana, la Declaración de
-
-Salida Ley N°18.110, debidamente legalizada.
-
-3.4.4.2.- Moneda en que puede efectuarse la cobertura.
-
-Las coberturas se podrán efectuar en una moneda extranjera distinta de la
-
-señalada en la respectiva Solicitud Registro por Ventas en Moneda Nacional.
-
-En este último caso, las empresas bancarias deberán convenir el arbitraje con el
-
-usuario de Zona Franca, dentro de las condiciones normales de mercado y dejarán
-
-constancia en la respectiva Planilla de Cobertura Egreso Comercio Visible-SRF,
-
-de la paridad aplicada.
-
-3.4.4.3.- Comunicación al Banco Central de Chile de las ventas de divisas con
-
-cargo al mercado bancario.
-
-Las empresas bancarias emitirán una Planilla de Cobertura Egreso Comercio
-
-Visible-SRF separada por cada una de las ventas de divisas que efectúen, con
-
-cargo a cada Solicitud Registro por Ventas en Moneda Nacional.
-
-Las Planillas emitidas deberán ser enviadas diariamente al Banco Central de
-
-Chile, incluidas en el Informe Diario de Posición y Operaciones de Cambios
-
-Internacionales de la fecha correspondiente.
-
-3.4.5.- Archivo de la documentación.
-
-Las entidades bancarias formarán un legajo con cada una de las Solicitudes
-
-Registro por Ventas en Moneda Nacional por las cuales hayan vendido divisas.
-
-Estos legajos serán mantenidos en sus archivos por los bancos que hayan
-
-presentado al Banco Central de Chile dichas Solicitudes, bajo su exclusiva
-
-responsabilidad, ordenados correlativamente por el número de cada una de éstas e
-
-incluirán obligadamente los siguientes documentos, pudiendo exceptuarse
-
-únicamente la Solicitud Registro por Ventas en Moneda Nacional cuando haya sido
-
-endosada a otro banco, caso en el cual este último asumirá la responsabilidad de
-
-mantenerla en sus archivos por el plazo que se establece en el artículo 19 de la
-
-Ley General de Bancos:
-
-a) Copia "Banco Central de Chile (Venta de Divisas)" de la Solicitud Registro
-
-por Ventas en Moneda Nacional emitida por el Banco Central de Chile;
-
-b) Original de la respectiva Planilla de Cobertura Egreso Comercio Visible-SRF;
-
-y,
-
-c) Carta de instrucciones del usuario para efectuar la cobertura.
-
-3.4.6.- Entrega de documentos al Banco Central de Chile.
-
-El Banco Central de Chile, a través de la Gerencia de Comercio Exterior, podrá
-
-requerir en cualquier momento de las empresas bancarias la entrega de los
-
-documentos indicados en el numeral anterior.
-
-Los bancos deberán cumplir con la entrega de dichos documentos dentro del plazo
-
-que para tal efecto les señale el Instituto Emisor.
-
-3.4.7.- Entrega de las divisas.
-
-Las divisas vendidas a los usuarios de Zonas Francas al amparo de una Solicitud
-
-Registro por Ventas en Moneda Nacional, deberán ser depositadas por las empresas
-
-bancarias en una cuenta corriente especial en moneda extranjera que, en
-
-cumplimiento de las disposiciones del Banco Central de Chile, el respectivo
-
-usuario de Zona Franca deberá mantener a su propio nombre en un banco del país.
-
-Este depósito deberá efectuarse a más tardar el día hábil bancario subsiguiente
-
-de efectuada la venta. La apertura y manejo de esta cuenta corriente se harán de
-
-acuerdo con las instrucciones impartidas en el numeral 3.2.8 del título II de
-
-este capítulo.
-
-III.- Salida de mercaderías desde la Zona Franca de Extensión.
-
-1.- Mercaderías con destino al resto del país.
-
-La salida de mercaderías desde las Zonas Francas de Extensión al resto del país,
-
-incluidas las que se envíen a las demás Zonas Francas de Extensión y que, a su
-
-vez, hayan sido importadas desde las Zonas Francas, se regirá por las
-
-disposiciones legales y reglamentarias vigentes para las importaciones en
-
-general, o por las especiales que correspondan.
-
-Sin embargo, las mercaderías objeto de estas importaciones, no tendrán acceso al
-
-mercado bancario de divisas para su pago; por lo tanto, en los casos en que se
-
-requiera de Informe de Importación, éste será emitido "sin cobertura".
-
-2.- Mercaderías con destino al extranjero.
-
-La salida de mercaderías desde la Zona Franca de Extensión al extranjero,
-
-quedará afecta a las disposiciones contenidas en el Compendio de Normas de
-
-Exportación, aplicables a las exportaciones que se realizan desde el resto del
-
-país.
-
-### IV. Procedimientos de pago
-
-Las empresas bancarias pueden abrir, confirmar y negociar cartas de crédito que
-
-amparen importaciones desde una Zona Franca a una Zona Franca de Extensión o al
-
-resto del país, siempre que cuenten previamente con la Solicitud Registro
-
-Factura o el Informe de Importación, emitidos.
-
-Asimismo, las empresas bancarias podrán recibir documentos de embarque en
-
-cobranza, correspondientes a importaciones desde las Zonas Francas.
-
-V.- Cartas de crédito.
+Los documentos que las entidades bancarias reciban en cobranza y que correspondan a importaciones desde las Zonas Francas a las Zonas Francas de Extensión o al resto del país, serán registrados con cargo a la cuenta "Cobranzas por liquidar - Zonas Francas" y abono a "Depositantes de Cobranzas por liquidar - Zonas Francas". Estas cuentas se demostrarán en las partidas 9340 y 9900, respectivamente.
 
 1.- Cartas de crédito que amparen importaciones desde las Zonas Francas al resto
 
@@ -32340,53 +31548,13 @@ Estos asientos se revertirán en la oportunidad en que se realice el pago de la
 
 carta de crédito por haberse cumplido el plazo o haber vencido la aceptación.
 
-VI.- Cobranzas.
+### VI. MARGENES LEGALES
 
-Los documentos que las entidades bancarias reciban en cobranza y que
+A los bancos que emitan cartas de crédito pagaderas a plazo o contra aceptación, confirmadas o negociadas por otras instituciones bancarias, les serán aplicables, por parte de los bancos confirmadores o negociadores, los márgenes individuales de crédito de que trata el artículo 84 de la Ley General de Bancos.
 
-correspondan a importaciones desde las Zonas Francas a las Zonas Francas de
+Estos márgenes afectarán también a los clientes deudores del banco emisor de la carta de crédito, mientras subsista el financiamiento de la operación.
 
-Extensión o al resto del país, serán registrados con cargo a la cuenta
-
-"Cobranzas por liquidar - Zonas Francas" y abono a "Depositantes de Cobranzas
-
-por liquidar - Zonas Francas". Estas cuentas se demostrarán en las partidas 9340
-
-y 9900 del formulario MB1, respectivamente.
-
-VII.- Otras instrucciones.
-
-1.- Relación de operaciones activas y pasivas.
-
-Los bancos que otorguen financiamientos para estas operaciones deberán tener
-
-presente las disposiciones sobre la relación de operaciones activas y pasivas
-
-establecidas en el Capítulo 12-9 de esta Recopilación de Normas.
-
-2.- Márgenes legales.
-
-A los bancos que emitan cartas de crédito pagaderas a plazo o contra aceptación,
-
-confirmadas o negociadas por otras instituciones bancarias, les serán
-
-aplicables, por parte de los bancos confirmadores o negociadores, los márgenes
-
-individuales de crédito de que trata el artículo 84 de la Ley General de Bancos.
-
-Estos márgenes afectarán también a los clientes deudores del banco emisor de la
-
-carta de crédito, mientras subsista el financiamiento de la operación.
-
-Por otra parte, las obligaciones asumidas por los bancos confirmadores o
-
-aceptantes, para con los beneficiarios de los acreditivos de esta naturaleza
-
-que, de acuerdo a estas instrucciones se reflejan en las partidas 3410, 3415,
-
-3615 y 3620 del formulario MB1, están afectas al margen del artículo 81 de la
-
-misma Ley.
+Por otra parte, las obligaciones asumidas por los bancos confirmadores o aceptantes, para con los beneficiarios de los acreditivos de esta naturaleza que, de acuerdo a estas instrucciones se reflejan en las partidas 3410, 3415, 3615 y 3620, están afectas al margen del artículo 81 de la misma Ley.
 
 CAPITULO 15-3 (Bancos)
 
