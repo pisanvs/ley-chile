@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.042, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº106, superficie 46 m², rol de avalúo 1420-237, comuna de Rancagua, VI Región, para la obra ''Mejoramiento Camino Ruta H-240, Sector Rancagua-San Ramón, Km. 0,0000 al 5,0000'' y se acordó el valor de indemnización con su propietario don Labrio del Carmen Carrera Manzor, ascendente a la cantidad de $784.901.-
+
+Fiscal del Ministerio de Obras Públicas.
