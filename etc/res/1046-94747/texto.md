@@ -1,0 +1,9 @@
+AUTORIZA A SOCIEDAD PESQUERA COLOMBO LIMITADA, PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por resolución No. 1.046, de 11 de Agosto de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Colombo Limitada, RUT No. 79.790.970-k, domiciliada en Santiago, para iniciar las actividades pesqueras, en orden a operar la embarcación "Colombo", en el litoral comprendido entre la VI Región y hasta el paralelo 43° LS, excluyendo las aguas interiores de la X Región, donde podrá extraer los siguientes recursos hidrobiológicos: Bacalao de profundidad, congrio colorado, congrio dorado, congrio negro, merluza común, tollo, merluza del sur, raya y jurel. Deniégase la autorización so licitada por la peticionaria para extraer en el litoral de la VIII Región el recurso jurel de conformidad con lo establecido en el Decreto No. 436, de 1985, prorrogado por el Decreto No. 110, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción. Deniégase, la autorización solicitada por la peticionaria para operar en el litoral comprendido entre la III y V Región. Asimismo, se deniega la autorización para extraer peces demersales en el mar exterior al sur del paralelo 43° LS y en aguas interiores de la X, XI y XII Región atendiendo el estado de plena explotación en que se encuentra la pesquería demersal sur austral.
+
+Deniégase la autorización para extraer el recurso Bacalao de profundidad o mero; en el litoral comprendido entre Punta Liles y el limite Norte de la III de conformidad con lo prescrito en el Decreto No. 439, de 1985,del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 11 de Agosto de 1989.- Roberto Cabezas Bello Subsecretario de Pesca.
