@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.043, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº77, superficie 129 m², rol de avalúo 41-141, comuna de Colbún, para la obra "Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo: Km. 0,00000 a Km. 15,48000", y se acordó el valor de indemnización con su propietario Domingo Antonio Urrutia Urrutia, ascendente a la cantidad de $370.350.-
+
+Fiscal del Ministerio de Obras Públicas.
