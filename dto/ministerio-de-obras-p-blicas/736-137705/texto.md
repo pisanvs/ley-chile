@@ -1,0 +1,3 @@
+Por decreto MOP Nº 736 de fecha 29 de marzo de 1999, se expropió el lote de terreno Nº 24-2, superficie 450 m2., rol de avalúo 334-1, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector 1 Km. 423.646,00 al Km. 427.251,20'' y se acordó el valor de indemnización con su propietario José Eufrasio Romero Recabal, ascendente a la cantidad de $367.236.-
+
+Fiscal del Ministerio de Obras Públicas.
