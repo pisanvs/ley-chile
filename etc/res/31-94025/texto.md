@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA TORRES DEL PAINE S.A. PARA DESARROLLAR ACTIVIDADES
+
+Por resolución N° 31, de 10 de Enero de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Torres del Paine S.A., RUT N° 96.524.510-3, domiciliada en Santiago, para desarrollar actividades pesqueras, en orden a operar en el kilómetro 8 Norte s/n de Punta Arenas, XII Región, una planta elaboradora de pescados y mariscos congelado, en conserva y fresco. Los recursos hidrobiológicos que podrá utilizar como materia prima en la elaboración de los productos señalados son: Centolla, chorito, loco, róbalo merluza tres aletas, centollón, cholga, lapa, pejerrey, ostión, erizo, congrio dorado, merluza española, brótula, raya. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 10 de Enero de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
