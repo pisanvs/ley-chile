@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.458, de 31 de mayo del 2000, se expropió el lote de terreno Nº8-C, superficie 5.000 m2, comuna de Puerto Montt, para la obra Concesion Internacional Ruta 5 Tramo: Río Bueno - Puerto Montt, Sector: Enlace Petorca, Décima Región y se acordó el valor de indemnización con su propietaria Jenny Mariza San Martín Barría, ascendente a la cantidad de $88.842.138.
+
+Fiscal del Ministerio de Obras Públicas.
