@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE SEÑALA NOTIFICACION
+
+Resolución 2.324, 2 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 279, rol de avalúo Nº 2615-12, comuna Chiguayante, superficie 19 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-19038, de aparente dominio de Julio Delgado Fuentes y Hna. para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión peritos integrada por Luis Soto Abarca, arquitecto, Patricia Palacios González, arquitecto, y Leonardo de la Fuente Vera, constructor civil, según informe de fecha 16 de Junio de 2004, fijó monto provisional indemnización en $1.285.800.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
