@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.067, de 27 de octubre de 2004, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 3.079, de 2003, modificada mediante resoluciones Nº 225 y Nº 1.879, ambas de 2004, todas de esta Subsecretaría, que autorizó a la PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Situación de la Pesquería de Alfonsino", en el sentido de incrementar en 80 toneladas de Alfonsino la cuota de captura autorizada a ser extraída por las naves participantes en la presente pesca de investigación.
+
+El incremento antes señalado se imputará a la fracción autorizada a ser extraída con fines de investigación de la cuota global anual de captura de Alfonsino, establecida mediante decreto exento Nº 645, de 2004, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 27 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
