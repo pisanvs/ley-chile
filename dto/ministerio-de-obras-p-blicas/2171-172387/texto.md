@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.171, de 29 de mayo del 2000, se expropiaron los lotes de terreno Nºs. 2 y 3, superficies 5.210 y 6.020 m² respectivamente, roles de avalúos 511-10 y 511-14, comuna de Talagante, para la obra Camino Santiago - El Monte Ruta G-78, Sector Puente San Francisco en El Monte, Km. 0,000 a Km. 1.623,36 y se acordó precio de la indemnización con su propietario Alfredo Max Schwember Monardes, ascendente a la cantidad de $48.669.550, para los lotes Nºs. 2 y 3.
+
+- Fiscal del Ministerio de Obras Públicas.
