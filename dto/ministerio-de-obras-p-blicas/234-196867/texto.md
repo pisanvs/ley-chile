@@ -1,0 +1,3 @@
+Por decreto MOP Nº 234 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 90, superficie 77 m², rol de avalúo 2025-3, comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Tramo Km. 0,00000 a Km. 14,23039" y se acordó el valor de indemnización con su propietaria María Eugenia Hidalgo Negrete, ascendente a la cantidad de $1.444.167.
+
+Fiscal del Ministerio de Obras Públicas.
