@@ -1,0 +1,3 @@
+Por decreto MOP Nº225, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº14, superficie 1.783,24 m², rol de avalúo 511-12, comuna de Carahue, para la obra "Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, Sector Km. 55.438,97 - Km. 69.895,61 / Km. 0.000,00 - Km. 3.927,45" y se acordó el valor de indemnización con su propietario Bernardo Segundo Patricio Recabarren Lara, ascendente a la cantidad de $954.239.-
+
+Fiscal del Ministerio de Obras Públicas.
