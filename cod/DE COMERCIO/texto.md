@@ -564,6 +564,12 @@ Si antes del vencimiento del plazo fueren excluidas de la circulación las pieza
 
 El acreedor no está obligado a aceptar el pago antes del vencimiento de la obligación.
 
+#### Artículo 118
+
+Ninguna persona, con excepción del Fisco, sus reparticiones y demás instituciones públicas, de las empresas estatales y del Banco Central de Chile, está obligada a recibir en pago y de una sola vez más de cincuenta monedas de cada tipo de las que se acuñen en el país.
+
+Las monedas cortadas, perforadas, corroídas o deterioradas en cualquiera forma en que no sea visible la acuñación, perderán su carácter de moneda legal.
+
 #### Artículo 119
 
 El deudor que paga tiene derecho a exigir un recibo, y no está obligado a contentarse con la devolución o entrega del título de la deuda.
