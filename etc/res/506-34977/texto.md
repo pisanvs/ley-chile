@@ -1,0 +1,3 @@
+Por Resolución N° 506, de 20 de Julio de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase en inciso 1° del numeral 5° de la Resolución N° 300, de 1993, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION, R.U.T. N° 71.915.800-5, para realizar una pesca de investigación sobre el recurso Calamar rojo o jibia, Dosidicus spp., en el sentido de reemplazarlo por el siguiente: "La pesca de investigación que por la presente Resolución se autoriza tendrá una duración de seis meses a contar del 21 de Julio de 1993".
+
+Valparaíso, 20 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
