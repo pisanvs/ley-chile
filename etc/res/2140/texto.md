@@ -1,0 +1,3 @@
+Por Resolución Nº 2.140 de 23 de diciembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94110160, presentada por VICTOR ARNOLDO BARRIA BARRIA, para un centro de cultivo ubicado al Noroeste de la Isla Figueroa, comuna de Aysén, Provincia de Aysén, XI Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 23 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
