@@ -1,0 +1,3 @@
+Por decreto MOP Nº 648, de fecha 29 de julio de 2004, se expropió el lote de terreno Nº 549, superficie 6.662 m2, Rol de avalúo Nº 32-450, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietaria Angela del Carmen Arce Cornejo y Otros, ascendente a la cantidad de $12.102.016.-
+
+Fiscal del Ministerio de Obras Públicas.
