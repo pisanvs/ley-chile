@@ -1,0 +1,9 @@
+Por Resolución N° 1.074 de 13 de Noviembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA MARAZUL LTDA., R.U.T. N° 79.707.240-0, para realizar actividades pesqueras, en orden a operar la embarcación "Marazul X", en la zona de operación de la nave individualizada en el numeral precedente, el área de pesca comprendida en el ámbito de competencia de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos, correspondiente a la subárea estadística 48.3, Georgia del Sur, donde podrá extraer el siguiente recurso hidrobiológico, con palangre; Bacalao de profundidad.
+
+La solicitante deberá dar estricto cumplimiento a las disposiciones de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos, especialmente a las medidas de conservación vigentes y a las que establezca la Convención, asimismo deberá acatar las normas del Tratado Antártico.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+La infracción a las disposiciones legales y reglamentarias sobre Pesca, será sancionada con las penas y conforme al procedimiento contemplado en la Ley N° 18.892 y sus modificaciones contenidas en las Leyes N° 19.079 y N° 19.080 cuyo texto refundido, coordinado y sistematizado fue fijado por el D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 13 de Noviembre de 1992.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
