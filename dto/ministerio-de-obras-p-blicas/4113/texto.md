@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.113, de 31 de agosto del 2000, se expropió los lotes de terreno Nºs. 13, 13-A y 13-E, superficies 187,50; 135 y 25 m² respectivamente, rol de avalúo 1103-40, comuna de Pichidegua, para la obra Camino Pichidegua-Marchigüe, Sector Marchigue-La Esperanza, Km. 43.600 a Km. 69.237,91 y se acordó precio de la indemnización con su propietario Ramón Segundo Salas Castro, ascendente a la cantidad de $1.691.574.
+
+Fiscal del Ministerio de Obras Públicas.
