@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 674, de 30 de agosto de 1996, se expropió los lotes de terreno N°s. 113 y.115, superficies 4.478 y 549 m2. respectivamente, rol de avalúo 310-126, comuna de Quirihue, para la obra Camino Cauquenes Límite Regional Quirihue, sector Cuesta y se acordó precio de la indemnización con su propietario, Suc. de don Santiago Meza Aldana, ascendente a la cantidad de $767.985.
+
+Fiscal del Ministerio de Obras Públicas.
