@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.984 de fecha 30 de noviembre de 2001, se expropiaron los lotes de terreno Nº3 y 5, superficies 400 y 144 m2, Roles de Avalúo Nº110-8 y 110-10, comuna de Tocopilla, para la obra "Mejoramiento Ruta 1, Pasadas por Tocopilla", II Región, y se acordó el valor de indemnización con su propietaria Isolina Gallardo Gallardo y Otros, ascendente a la cantidad de $23.299.368.
+
+- Fiscal del Ministerio de Obras Públicas.
