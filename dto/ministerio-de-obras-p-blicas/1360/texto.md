@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.360, de 31 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, de 1964 y del DFL MOP.
+
+No. 206, de 1960, se expropiaron los lotes de terreno No. s. 8 y 9, para la obra Ruta 5, Tramo Talca - Chillán, Intersección Desnivelada Acceso a Retiro, que figuran a nombre de Saldana Saldana Brijido Jesús, rol de avalúo 460-213, Comuna de Retiro, VII Región, superficies 30 y 4 m2 ., respectivamente. La Comisión de Peritos compuesta por los señores Fernando Pinochet de la Barra, Ramón Cruz Poz y Arnoldo Sánchez Muñoz, fijó con fecha 8 de mayo de 1998, el valor provisional de las indemnizaciones en las cantidades de $ 166.500, para el lote No. 8 y $ 15.800, para el lote No. 9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
