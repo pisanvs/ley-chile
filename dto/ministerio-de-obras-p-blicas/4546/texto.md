@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.546, de 29 de septiembre del 2000, se expropiaron los lotes terreno Nºs. 54 y 57, superficies 337 y 5.220 m2. respectivamente, rol de avalúo 2-9, comuna de Río Hurtado, para la obra Camino Ruta D-595, Ovalle - Hurtado, Sector Tranque Recoleta - Samo Alto, Km. 9.780,00 a Km. 31.840,00, Etapa II y se acordó precio de la indemnización con su propietaria Adriana del Tránsito Pinto Iribarren y otros, ascendente a la cantidad de $1.367.740.-
+
+Fiscal del Ministerio de Obras Públicas.
