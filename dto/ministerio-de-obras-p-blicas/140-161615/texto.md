@@ -1,0 +1,3 @@
+Por decreto Nº 140, de 22 de Mayo de 1985, se expropió el lote Nº 7, cuya superficie es 145.352 m2., rol de avalúo 17189., Comuna de San Clemente, VII Región, para Camino Talca-Paso El Pehuenche, sector El Colorado-Paso Nevado y se acordó el precio de indemnización con su propietaria Sociedad Agrícola Forestal La Esperanza Limitada, ascendente a la cantidad de $ 9.576.523.-
+
+Fiscal del Ministerio de Obras Públicas.
