@@ -1,0 +1,1 @@
+Modifica los artículos 1°, 3° y 4° de la ley 13.024, de 30 de septiembre de 1958, que autorizó a la Municipalidad de Providencia para contratar empréstitos con el fin de destinarlos al mejoramiento y ampliación del servicio de aseo de la comuna.
