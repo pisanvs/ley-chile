@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.349, de 30 de mayo del 2000, se expropió el lote de terreno Nº1, superficie 3.376 m², rol de avalúo 24-88, comuna de Río Claro, para la obra Concesión Internacional Ruta 5, Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietaria María Angélica del Carmen Olave Villagra, ascendente a la cantidad de $7.265.382.
+
+- Fiscal del Ministerio de Obras Públicas.
