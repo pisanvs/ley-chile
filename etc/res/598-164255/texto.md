@@ -1,0 +1,5 @@
+AUTORIZA A SANTANA Y COMPAÑIA LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por Resolución Nº 598, 25 Set. 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Santana y Compañía Limitada o Busy Compañía Limitada, domiciliada en Santiago, para procesar en la línea de congelado en las instalaciones de Agroindustrial Lo Espejo Ltda., ubicadas en calle Lo Sierra 2205 de Santiago, los siguientes recursos hidrobiológicos: Blanquillo, congrio colorado, congrio dorado, congrio negro, corvina, lenguado de ojos chicos, lenguado de ojos grandes, merluza común, merluza española, mero o bacalao, pejeperro, almeja o taca, almeja, carazol azul, caracol locate, caracol trumulco, chorito, lapa, macha, ostión del Norte, ostión del Sur, pulpo, centolla y jaiba.
+
+Valparaíso, 25 Set. 1985.- Roberto Verdugo Gormaz, Subsecretario de pesca.
