@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 696, de 29 de mayo de 1998, se expropiaron los lotes de terreno Nº s. 11 y 19, superficies 3.256 m2 y 548 m2, roles de avalúos 27-1, comuna de Lolol y 153-4, comuna de Pumanque, obra Camino Lolol Paredones-Bucalemu, sector Lolol-Alto Nilahue y se acordó precio de indemnización con sus propietarios Alonso Galaz Rodríguez y Rosa Venegas Caro, ascendente a las cantidades de $ 2.267.065, y $ 667.103.-
+
+Fiscal del Ministerio de Obras Públicas.
