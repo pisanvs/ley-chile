@@ -1,0 +1,3 @@
+Por resolución No. 113 de 13 de Febrero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por dos meses a contar del 28 de enero de 1992, el plazo otorgado a ALIMENTOS MARINOS S.A., RUT No. 91.584.000-0, domiciliada en calle Mar del Plata No. 2111, Santiago, para operar la nave "Quilpolemu", autorizada por la resolución No. 1595, de 1990, de esta Subsecretaría, en razón de haberes acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 13 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
