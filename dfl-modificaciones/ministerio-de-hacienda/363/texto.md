@@ -1,0 +1,1 @@
+Modifica el artículo 1° del decreto con fuerza de ley 100, de 28 de mayo de 1953, que fijó la planta de la Subsecretaría del Ministerio de Hacienda, y el artículo 5° del decreto con fuerza de ley 102, de 30 de mayo de 1953, que creó el Departamento de Estudios Financieros, dependiente del Ministerio de Hacienda.
