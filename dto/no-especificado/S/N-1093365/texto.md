@@ -1,0 +1,9 @@
+Penas a los que se comuniquen con los enemigos de la Patria
+
+Chile, i por su representacion la Junta Gubernativa del Reino, etc.
+
+Los enemigos de sistema de la Patria, con el sordo empeño de su carácter tan feroz como activo, unido i disimulado, promovieron la guerra civil que fué felizmente sofocada en su primer movimiento.
+
+El objeto de estos infames era que el agresor de Chile fuese el tercero de nuestra discordia; i ya en su corazon execrable se lisonjeaban de señalar las víctimas del patriotismo, al prometerse que los invasores que traspasaban el Maule, se arrojarian en medio del fuego para apagarlo con la sangre de los ciudadanos. Hemos penetrado oportunamente la maquinacion i el Gobierno empeña toda su vijilancia en el descubrimiento de estos traidores ingratos al Pais que hace su fortuna, i que la naturaleza que infructuosamente les habla en sus desgraciados hijos. Siente el remordimiento; pero un rencor implacable los ha ensordecido a la voz de la justicia, i de su propio interes. Ya podríamos escarmentar a alguno de estos aleves; pero queremos acreditar el último rasgo de nuestra jenerosidad, haciéndole saber su pena. Irremisiblemente sufrirá la muerte todo aquel a quien se le justifique la menor comunicacion directa, o indirecta, de hecho, de palabra, o por escrito, con el enemigo. Se procederá en el juicio por los trámites de una causa de Estado. Exitamos el celo reunido de los Patriotas contra esta guerra subterránea de los rivales domésticos. Las fuerzas están en movimiento: se aumentan diariamente: i ellas nos darán el triunfo de la union.
+
+Publíquese en bando, i en El Monitor.- Dado en el Palacio de Santiago, a 7 de Setiembre de 1814.- José Miguel de Carrera.- Julian Uribe.- Manuel de Muñoz Urzúa.- Agustin Díaz, escribano de Gobierno.
