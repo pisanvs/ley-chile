@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº581, de 30 de abril de 1998, se expropiaron los lotes de terreno Nºs 34 y 55-A, superficies 366 y 200 m²., roles de avalúo 2589-73 y 2590-108, comuna de San Bernardo, respectivamente, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, sector Las Acacias - Río Maipo y se acordó precio de indemnización con los propietarios Chen Hermanos Limitada y Sergio Cerda Silva, ascendentes a las cantidades de $11.229.475, para el lote Nº34, y $6.712.275, para el lote Nº55-A.
+
+Fiscal del Ministerio de Obras Públicas.
