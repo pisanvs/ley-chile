@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 345, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nº s. 1 y 4, superficies 6.738 m2. y 4.501 m2., roles de avalúo 42-19 y en trámite, comuna de Litueche, obra Camino El Cuzco Litueche y se acordó precio de indemnización con sus propietarios Manuela Donoso Donoso y Rafael Tapia Cornejo, ascendente a las cantidades de $ 2.201.460 y $ 1.783.718.-
+
+Fiscal del Ministerio de Obras Públicas.
