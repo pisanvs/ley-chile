@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.432 de fecha 31 de julio del 2000, se expropió los lotes de terreno Nºs. 101 y 102, superficie 552,56 y 506,41 m², respectivamente rol de avalúo 139-27, comuna de Dalcahue, para la obra ''Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647'' y se acordó el valor de indemnización con su propietario Javier Estuardo Trujillo Millao, ascendente a la cantidad de $1.377.578.
+
+Fiscal del Ministerio de Obras Públicas.
