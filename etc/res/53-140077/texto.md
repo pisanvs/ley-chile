@@ -1,0 +1,3 @@
+Por resolución exenta Nº 53/99 de 21 junio de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la II Región, se aprobó el contrato de concesión adjudicada mediante resolución exenta Nº41/99 de la misma Secretaría Regional, a la sociedad Ormazábal Hijos Limitada para operar, por un plazo de seis años a contar de la publicación del presente extracto, una planta revisora ubicada en Avda. Industrial Nº 7200, Antofagasta, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Gastón Viveros Viveros, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Antofagasta.
