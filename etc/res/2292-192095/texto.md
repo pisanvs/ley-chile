@@ -1,0 +1,5 @@
+Por resolución Nº 2.292, de 2 de noviembre de 2001, de esta Subsecretaría, modifícase la resolución Nº 215 de 2001, de esta Subsecretaría, que autorizó al CENTRO DE ESTUDIOS Y DESARROLLO PESQUERO SUR AUSTRAL LTDA. para efectuar la pesca de investigación "Aplicación de una estrategia de explotación y plan de manejo de la especie Tawera gayi, en los bancos ubicados en Canal Desertores y en Isla Butachauques, provincia de Chiloé, Décima Región", en el sentido de sustituir su número 6º letra b) por la siguiente:
+
+"b) Planta de proceso ubicada en Rivera Sur s/n, Pudeto Bajo, Ancud, X Región, autorizada a Pesquera Doarko Chile S.A., RUT Nº 96.929.550-4, del mismo domicilio, autorizada por resolución Nº 1.927 de 2001, de esta Subsecretaría."
+
+Valparaíso, 2 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
