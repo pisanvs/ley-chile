@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 885 de fecha 30 de junio del 2004, se expropió el lote de terreno Nº 1, superficie 345 m2, Rol Nº 635-1, comuna de Ovalle, IV Región para la obra "Camino Villaseca - Las Barrancas - La Puntilla, Sector Km. 0,00000 a Km. 0,47921" y se acordó el valor de indemnización con su propietaria Julia del Carmen Ramírez Pardo, ascendente a la cantidad de $944.169.
+
+- Fiscal del Ministerio de Obras Públicas.
