@@ -1,0 +1,3 @@
+Por resolución Nº 2.365, de 27 de agosto de 2004, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.999 de 2001, de esta Subsecretaría, sólo en cuanto autorizó a SOCIEDAD PESQUERA LANGEVELD LIMITADA para ampliar actividades pesqueras extractivas con la nave "Cocha", en el área marítima de la III Región, sobre el recurso hidrobiológico Reineta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
