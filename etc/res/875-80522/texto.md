@@ -1,0 +1,3 @@
+Por resolución No. 875 de 26 de Julio de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía Fomento y Reconstrucción, déjase sin efecto la Resolución No. 1.070, de 1988, de esta Subsecretaría, por la cual se autorizó a la ILUSTRE MUNICIPALIDAD DE PICHILEMU, R.U.T. No. 69.091.200-7, domiciliada en Pichilemu, para instalar y operar un establecimiento de cultivo de los recursos Choro, ostra, del pacífico y algas Graciliarias, en Laguna Cahuil, Comuna de Pichilemu, Provincia Cardenal Caro, VI Región, en virtud de la renuncia presentada por la interesada.
+
+Valparaíso, 26 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
