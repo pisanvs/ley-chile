@@ -1,0 +1,5 @@
+Por Resolución No. 607 de 03 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción. autorízase a la UNIVERSIDAD AUSTRAL DE CHILE, R.U.T. Nº 81.380.500-6, domiciliada en calle Independencia Nº 641. Valdivia, para ampliar actividades pesqueras de transformación, autorizadas por Resolución Nº 530, de 1984, de esta Subsecretaría, en orden a operar una planta industrial, ubicada en la localidad de Yaldad, Comuna de Quellón, Provincia de Chiloé, X Región, donde procesará en la línea de elaboración de ahumado, el recurso Chorito. La materia prima provendrá de centros de cultivos realizados en la Bahía de Yaldad y de otros de propiedad de la solicitante.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 03 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca
