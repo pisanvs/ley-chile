@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.800, de esta Subsecretaría, modifícase la resolución Nº 964 de 2004, modificada mediante resolución Nº 1.493 de 2004, ambas de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, SEDE COQUIMBO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2004-011 denominado "Evaluación directa de langostino colorado y langostino amarillo entre la II y la VIII Región, año 2004", en el sentido de señalar que la pesca de investigación se extenderá hasta el 20 de julio de 2004.
+
+Valparaíso, 2 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
