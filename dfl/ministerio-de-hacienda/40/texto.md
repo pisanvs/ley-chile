@@ -1,0 +1,1 @@
+Fija la escala de categorías, grados y sueldos de los funcionarios de la Administración Civil Fiscal; excepciones.
