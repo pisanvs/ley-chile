@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.841, de 28 de abril del 2000, se expropiaron los lotes de terreno Nºs. 9-1A y 9-1C, superficies 144,0 m² y 74,0 m², rol de avalúo 105-3, comuna de Ercilla, para la obra Concesión Internacional Ruta 5; Tramo Collipulli - Temuco, Novena Región y se acordó el valor de indemnización con su propietario Jeraldo Padilla Etter, ascendente a la cantidad de $512.617.
+
+Fiscal del Ministerio de Obras Públicas.
