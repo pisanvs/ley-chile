@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.819, de fecha 30 de junio de 2000, se expropió los lotes de terreno Nºs. 17 y 20, superficie 740 y 166 m2., respectivamente, rol de avalúo 1443-31, comuna de Puerto Varas, para la obra ''Camino Ruta V-615 y V-605, Sector Alerce La Poza, Km. 0,000 a Km. 20,78194'' y se acordó el valor de indemnización con su propietario Luis Alberto Carrasco Pailalef, ascendente a la cantidad de $7.368.637.
+
+Fiscal del Ministerio de Obras Públicas.
