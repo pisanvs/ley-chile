@@ -36,7 +36,7 @@ Respecto de los derechos que se establecen en los capítulos IV y V regirán sol
 
 #### Artículo 3º
 
-Las tasas que se imponen a los vuelos internacionales en los Títulos I y II del Capítulo II del presente Reglamento se actualizarán, mediante su reajuste, el día primero de cada mes. Para efectuar este reajuste se tomará como base el tipo de cambio para el dólar libre corredores, comprador, que estuviere vigente el día primero del mes anterior al del reajuste.
+Las tasas que se imponen a los vuelos internacionales en los Títulos I y II del Capítulo II del presente Reglamento se actualizarán mediante su reajuste el día 1.o de cada mes. Tal reajuste será igual al porcentaje de alza que haya experimentado, en el mes inmediatamente anterior, el tipo de cambio que el Banco Central fije a las Empresas Aéreas extranjeras para la liquidación de divisas con el objeto de atender sus gastos en el país.
 
 #### Artículo 4°
 
