@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.260, de 24 de septiembre de 2003, de esta Subsecretaría, autorízase a CARLOS MIGUEL SILVA SAMOHOD, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Arica, calle Barros Arana Nº 2298, Barrio Industrial Chinchorro, I Región, donde podrá procesar, en las líneas de proceso de Seco-salado, Deshidratado, Salazón, Filetes de Anchoas y Semiconservas Anchoas, el recurso hidrobiológico Anchoveta o anchoa Engraulis ringens.
+
+Déjase sin efecto las resoluciones Nº 635 de 1991 y Nº 1247 de 1994 ambas de esta Subsecretaría, que autorizaron a Pesquera Marvesa S.A. para realizar actividades pesqueras de transformación, en virtud de la carta renuncia de fecha 22 de septiembre de 2003 y del contenido de la presente resolución.
+
+Valparaíso, 24 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
