@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 93 de 01 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas pro porcionales que corresponden a Reserva, Sector exduido y Sector expropiado Predio "Los Alamos" de la comuna de Chimbarongo, VI Región; y derechos aprovechamiento de aguas que corresponden a las paredas N° 1 a la 26 y sitios N° 1 al 21 del proyecto de parcelación "Los Alamos" formado por Predio señalado.- Los derechos de agua se extraen del canal Chimbarongo del río Tinguiririca.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
