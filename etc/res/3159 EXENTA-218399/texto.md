@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.159, de 1 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº201104043 presentada por MARIA CECILIA WELLMANN HOFMANN, para instalar y operar un centro de cultivo ubicado en Canal Chidguapi, sector noreste de Punta Quiecho, Isla Chidguapi, X Región.
+
+Valparaíso, 1 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
