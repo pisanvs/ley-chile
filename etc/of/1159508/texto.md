@@ -1,0 +1,11 @@
+﻿ OFICIO A LA CORTE DE APELACIONES.
+
+AL REJENTE DE LA ILMA. CORTE DE APELACIONES.
+
+Santiago, Junio 1.° de 1830.
+
+De todos los ramos de la administracion pública, ninguno influye mas poderosamente sobre la moralidad y buen órden de los pueblos que el de la justicia. S. E. el Vice-Presidente de la República, quiere por esto darle todas las mejoras de que sea susceptible. Desde mucho tiempo antes de nuestra libertad e independencia, ya se oían quejas amargas, y todavia se censuran no pocos vicios que no han sido remediados con leyes de circunstancias. Felizmente ahora y para honor de Chile, no se atribuye el oríjen del mal a los majistrados y jueces, sinó a los reglamentos complicados y defectuosos que rijen, porque no están en consonancia con las constituciones políticas de que partieron, y que fueron sostituidas por otras - la Ilma. Corte en nota de 31 de octubre del 828 que corre impresa en el periódico titulado Gaceta de Chile núm. 6, espuso por este ministerio, a la anterior administracion, cual era el orijen del mal. Sensible es que desde entónces acá no se hubiese dictado una providencia a este respecto. S. E. lo haría ahora, pero quiere que las mejoras no sean parciales y por decretos sueltos que se confunden con otros de que está plagada nuestra lejislacion. Debe presentarse todo en un reglamento de justicia que, o se forme de nuevo, o se corrija y adicione el que tenemos - Esta grande y última obra la comete S. E. el Vice-Presidente al celo y conocimiento de la Ilma. Corte, esperando se concluya en el presente mes. S. E. desea que en ese reglamento se pongan las obligaciones de los escribanos, receptores, procuradores, abogados y relatores: que se fijen los casos, modo y forma de los juicios de conciliacion: que se especifiquen los de recusacion y sus motivos, los de nulidad en que parece hay bastantes abusos: que se moderen los términos de ordenanza: que se haga menos costoso al Erario, y mas expedito, el despacho en las causas de hacienda, de comercio y minas, y en las militares: que, en fin, la Ilma. Corte forme un reglamento o adicione el que tenemos, de modo que la administracion de justicia se haga menos costosa, mas expedita y sin incertidumbre. Los conocimientos prácticos del tribunal y su interes patrio presajian el acierto - Dios guarde a U. S. I. muchos años.
+
+Rúbrica de S. E.
+
+Diego Portales.
