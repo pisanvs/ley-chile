@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.121 de fecha 29 de mayo de 2000, se expropió el lote terreno Nº 55, superficie 30 m², rol de avalúo 231-11, comuna de Montepatria, para la obra ''Camino Ruta D-597, Montepatria - Caren, Sector Juntas - Caren Tramo Km. 8260,00 al Km. 30.065,19'' y se acordó el valor de indemnización con su propietaria Elsa Aurelia Vargas Araya y otros, ascendente a la cantidad de $7.138.950.
+
+Fiscal del Ministerio de Obras Públicas.
