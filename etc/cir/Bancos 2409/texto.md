@@ -4642,11 +4642,11 @@ a) Billetes y monedas de curso legal del país, ya sea que estén disponibles en
 
 b) Depósitos en cuenta corriente en el Banco Central de Chile;
 
-c) Otros depósitos a la vista en el Instituto Emisor, con excepción de aquellos efectuados con el solo objeto de constituir la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación Actualizada de Normas; y
+c) Otros depósitos a la vista en el Instituto Emisor, con excepción de aquellos efectuados con el solo objeto de constituir la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación Actualizada de Normas y de los depósitos de liquidez señalados en el numeral 4.4 de este título; y
 
 d) Depósito en garantía a que se refiere el artículo 36 de la Ley General de Bancos.
 
-Por consiguiente, son computables como encaje mantenido todos los saldos en moneda chilena que se incluyan, conforme a las normas vigentes, en las partidas 1005 y 1010, con excepción de las cuentas "Caja en custodia en otras entidades financieras" y "Depósitos de reserva técnica en el Banco Central de Chile", que se tratan, respectivamente, en los Capítulos 16-3 y 4-2 de esta Recopilación
+Por consiguiente, son computables como encaje mantenido todos los saldos en moneda chilena que se incluyan, conforme a las normas vigentes, en las partidas 1005 y 1010, con excepción de la cuenta "Depósitos de liquidez" a que se refiere el numeral 4.4 de este título, y de las cuentas "Caja en custodia en otras entidades financieras" y "Depósitos de reserva técnica en el Banco Central de Chile", que se tratan, respectivamente, en los Capítulos 16-3 y 4-2 de esta Recopilación
 
 Con todo, no pueden ser empleados para constituir encaje aquellos fondos que se hayan utilizado, a la vez, para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación.
 
@@ -4655,6 +4655,10 @@ Con todo, no pueden ser empleados para constituir encaje aquellos fondos que se 
 Los depósitos en el Banco Central de Chile sólo podrán efectuarse en dinero efectivo o en cheques girados contra las cuentas corrientes que se mantengan en el Banco Central de Chile. El valor de estos cheques se excluirá del canje y será cargado en la cuenta corriente del girador el mismo día en que se efectúe el depósito.
 
 En el caso que una institución financiera le solicite a otra el giro de cheques sobre el Banco Central de Chile, no se considerarán fondos disponibles los que provengan de depósitos en cuenta corriente efectuados con vales vista u otros documentos de otras empresas bancarias o sociedades financieras, aun cuando sean de la misma plaza. Por lo tanto, cuando esta situación se presente, la institución financiera requerida no estará obligada a entregar el cheque sobre el Banco Central de Chile hasta tanto no haya recibido efectivamente el pago de tales documentos.
+
+4.4.- Depósitos de liquidez.
+
+Los fondos de las cuentas corrientes que se utilicen para efectuar depósitos de liquidez a que se refiere el Capítulo IV.B.8.7 del Compendio de Normas Financieras, deberán traspasarse a la cuenta "Depósitos de liquidez", tanto para los efectos de control como para excluir dichos fondos del cómputo del encaje mantenido.
 
 ### 5. Pago de intereses por encaje
 
@@ -4798,6 +4802,8 @@ A continuación se señalan los principales indicadores que guardan relación co
 
 > **Nota.** NOTA 2 La letra B) de la Circular 2806, SBIF, promulgada el 11.01.1995, modifica el presente Anexo, a fin de actualizar el indicador correspondiente a las inversiones deducibles de encaje en moneda extranjera.
 
+> **Nota.** NOTA 3 La letra D) de la Circular 2817, SBIF, promulgada el 31.05.1995, modifica el presente Anexo, a fin de actualizar los indicadores incluyendo la cuenta "Depósitos de liquidez".
+
 CAPITULO 4-2 (Bancos y Financieras)
 
 MATERIA:
@@ -4874,9 +4880,11 @@ a) Billetes y monedas de curso legal en el país o monedas extranjeras sujetas a
 
 b) Depósitos a la vista en el Banco Central de Chile, con excepción de los fondos depositados en la cuenta especial destinada a cubrir el encaje de que trata el título IV del Capítulo 4-1 de esta Recopilación;
 
-c) Depósitos "overnight" en el Banco Central de Chile, y
+c) Depósitos "overnight" en el Banco Central de Chile;
 
-d) Depósito en garantía a que se refiere el artículo 36 de la Ley General de Bancos
+d) Depósito en garantía a que se refiere el artículo 36 de la Ley General de Bancos, y
+
+e) Depósitos mantenidos en el Banco Central de Chile según Capítulo IV.B.8.7 del Compendio de Normas Financieras, registrados en la cuenta "Depósitos de liquidez".
 
 Por consiguiente, podrán considerarse para reserva técnica todos los saldos que deben incluirse en las partidas 1005 y 1010, con excepción de los correspondientes a monedas de libre disposición y los importes de las cuentas "Caja en custodia en otras entidades financieras." y "Cuenta especial encaje Acuerdo N° 143-01910705".
 
