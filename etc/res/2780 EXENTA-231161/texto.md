@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.780, de 29 de septiembre de 2004, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.822 de 2004, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Diagnóstico del recurso Ostión del Sur", en el sentido de señalar que la pesca de investigación se extenderá hasta el 15 de noviembre de 2004.
+
+Valparaíso, 29 de septiembre de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
