@@ -9860,7 +9860,7 @@ b) La institución financiera deberá conformar la cartera que quedará sujeta a
 
 c) Los instrumentos que se incorporen a la cartera permanente no podrán ser excluidos posteriormente de ella, debiendo mantenerse dentro de dicha cartera hasta su venta o extinción.
 
-d) El valor de mercado del total de la cartera permanente no podrá superar el monto correspondiente al capital básico de la institución inversionista. Por consiguiente, no podrán incorporarse instrumentos a esa cartera una vez que se haya alcanzado ese límite.
+d) El Directorio de la institución deberá acordar la política que en materia de estas inversiones seguirá la empresa.
 
 7.4.3.2.- Forma de contabilización del ajuste para las inversiones permanentes.
 
@@ -9872,17 +9872,11 @@ Los instrumentos que se traspasen a la cartera permanente, esto es, aquellos que
 
 7.4.3.3.- Cómputo del capital básico.
 
-Conforme a lo establecido en el Capítulo 12-1 de la Recopilación Actualizada de Normas, el saldo deudor o acreedor de la cuenta "Fluctuación de inversiones financieras" antes mencionada debe computarse para determinar el capital básico.
-
-Para la aplicación del límite a que se refiere la letra d) del numeral 7.4.3.1, debe entenderse que el capital básico incluye el efecto de los ajustes a valor de mercado de la cartera permanente que se compara con él.
+Conforme a lo establecido en el Capítulo 12-1 de la Recopilación Actualizada de Normas, el saldo deudor o acreedor de la cuenta "Fluctuación de inversiones financieras" antes mencionada debe computarse para determinar el capital básico.***B****
 
 7.4.3.4.- Sucursales en el exterior.
 
-Los bancos que mantengan sucursales en el exterior deberán aplicar el límite mencionado en la d) del numeral 7.4.3.1 considerando el monto del capital básico deducido el capital asignado a ellas.
-
-Para los efectos de consolidación contable con las sucursales en el exterior, la modalidad de contabilización para inversiones permanentes puede ser considerada como un criterio contable homologable, en cuyo caso el límite antes mencionado, en lo que concierne a las inversiones de una sucursal, debe entenderse en relación con su capital asignado.
-
-No obstante lo indicado en los párrafos precedentes, podrá aplicarse dicho criterio en el balance de la sucursal preparado de acuerdo a normas chilenas, prescindiendo del límite en relación con su capital asignado, cuando el valor de mercado de la cartera permanente de las sucursales, sumada a la que mantiene la matriz, no superen el capital básico sin deducir el capital asignado. En este caso, el límite de la cartera permanente elegible para la matriz quedará reducido al monto del capital básico menos el importe de la cartera permanente de la sucursal.
+Para los efectos de consolidación contable con las sucursales en el exterior, la modalidad de contabilización para inversiones permanentes puede ser considerada como un criterio contable homologable.
 
 La cuenta "Fluctuación de valores de inversiones financieras" será utilizada también para reconocer el efecto de la disminución patrimonial directa en el cálculo del Valor Patrimonial Proporcional de las sucursales en el exterior, cuando se homologue el criterio contable de que se trata.
 
