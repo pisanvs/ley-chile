@@ -1542,6 +1542,8 @@ En relación con lo descrito precedentemente, una buena gestión puede manifesta
 
 - La entidad mantiene políticas para la administración de los riesgos aprobadas por el directorio o la administración superior, que atienden la importancia de los riesgos considerando el volumen y complejidad de las operaciones, las proyecciones de crecimiento y el desarrollo de nuevos negocios.
 
+- Las políticas aprobadas para la administración de los riesgos consideran especialmente la identificación, cuantificación, limitación y control de las grandes exposiciones en clientes, grupos o sectores económicos.
+
 - La estructura de límites, tanto en lo que toca al riesgo individual de las operaciones como al riesgo de portafolio, es consecuente con un nivel tolerable de exposición al riesgo según sus condiciones financieras generales.
 
 - Las políticas y procedimientos relacionados con la administración de los riesgos son conocidos y respetados por todo el personal involucrado. Asimismo, los procedimientos establecidos para las distintas etapas del proceso de crédito, están arraigados en la institución.
@@ -19825,8 +19827,6 @@ De ninguna manera podrán brindar incentivo alguno por la captación o mantenci�
 2.- Tipo de incentivos.
 
 Los beneficios pueden consistir en descuentos o prestaciones gratuitas ofrecidos por terceros o la entrega de bienes corporales, bajo alguna de las modalidades y condiciones indicadas en el N° 3 de este Capítulo.
-
-En ningún caso tales incentivos podrán corresponder a la entrega de dinero, como tampoco a beneficios en relación con los intereses, reajustes o comisiones.
 
 3.- Condiciones para el ofrecimiento y entrega de los beneficios.
 
