@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s. 157 y 162, ambos de 28 de mayo de 1993, se expropiaron los lotes de terreno N°s. 21 y 55, superficies 622 M2. y 187 M2., roles de avalúos 2036-7 y 3338-26, comuna de La Cisterna, para la obra Avenida Américo Vespucio, sector Gran Avenida-Ochagavía, y se acordó precio de indemnización con sus propietarios Eduardo Villagra Núñez y Manuel Cruz Lobos y otros, ascendente a las cantidades de $ 20.472.829 y $ 5.570.040, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
