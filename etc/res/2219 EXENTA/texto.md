@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.219 de 11 de septiembre de 2003, de esta Subsecretaría, autorízase a PESQUERA PACIFIC FARMER LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Calbuco, Avenida Brasil Nº710, X Región, en las líneas de elaboración de Ahumado, Congelado, Conserva, Fresco, Enfriado y Salado, el recurso hidrobiológico Juliana.
+
+Valparaíso, 11 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
