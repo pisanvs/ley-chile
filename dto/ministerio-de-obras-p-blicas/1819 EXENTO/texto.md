@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.819, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº 26, superficie 80 m2., rol de avalúo 236-7, comuna de Villa Alegre, VII Región, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre-Esperanza), Tramo Km. 0,000.00 al 10,623.89" y se acordó el valor de indemnización con su propietario don José Angel Quintana Muñoz, ascendente a la cantidad de $525.980.-
+
+Fiscal del Ministerio de Obras Públicas.
