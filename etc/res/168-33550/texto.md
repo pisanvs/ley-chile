@@ -1,0 +1,5 @@
+EXTRACTOS DE EXPROPIACIONES
+
+Por resolución N° 168 de fecha 30 de Agosto de 1993, conforme artículo 51 Ley 16.391 y decreto supremo N° 68 de 1991 de Vivienda y Urbanismo y para prolongar la doble vía de la Avenida Estadio de la ciudad de Temuco, en su calzada Norte, entre calles Hochstetter y Sanger, la cual está contemplada en el plano regulador comunal de Temuco, SERVIU IX Región dispuso expropiación inmueble ubicado en la ciudad y comuna de Temuco, que corresponde a parte del Rol de avalúo N° 1572-1 de la Comuna de Temuco, de aparente dominio de doña Consuelo Mauriz Domínguez, presuntamente inscrito a fojas 600 N° 709 del Registro de Propiedad del Conservador de Bienes Raíces de Temuco de 1970. Informe tasación expropiación fecha 18 Agosto 1993 comisión. Peritos Srs. Mario Molina Ramwell, constructor civil, Roberto Gesche Robert, ingeniero civil, y Mario Gutiérrez Truan, arquitecto. Monto indemnización provisional suma $ 15.124.980.- Pagadero contado.-
+
+Directora SERVIU IX Región.
