@@ -1,0 +1,3 @@
+Por resolución exenta Nº 315 de 8 de febrero de 2005 de esta Subsecretaría, autorízase a ALANAS TEXTILES, CHILE, LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Lote A, camino público a Membrillar, Cabrero, VIII Región, donde podrá elaborar en las líneas de proceso de Alga seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 8 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
