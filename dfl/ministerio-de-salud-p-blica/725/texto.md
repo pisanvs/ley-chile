@@ -460,6 +460,8 @@ DE LA DIVULGACION Y EDUCACION SANITARIA
 
 El Servicio Nacional de Salud deberá capacitar al individuo y a los grupos sociales mediante acciones educativas, tendientes a compenetrarlos de su responsabilidad en los problemas de salud personal y de la comunidad y para estimular su participación activa en la solución de ellos.
 
+> **Nota.** Véase el Decreto 214, Salud, publicado el 13.09.2001, que dicta normas sobre auspicios y patrocinios del Ministerio de Salud a actividades de difusión en Salud de las personas o del ambiente.
+
 #### Artículo 52°
 
 <!-- parte:8655799 -->
@@ -808,7 +810,7 @@ b) las medidas de protección sanitaria y de seguridad que deben adoptarse en la
 
 c) las condiciones de higiene y seguridad que deben reunir los equipos de protección personal y la obligación de su uso.
 
-> **Nota.** Véase el Decreto 655, Trabajo, publicado el 07.03.1941, que fija el Reglamento General de Higiene y Seguridad Industriales.
+> **Nota.** Véase el Decreto 655, Trabajo, publicado el 07.03.1941, que fija el Reglamento General de Higiene y Seguridad Industriales. Véase también el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
 
 #### Artículo 83°
 
@@ -884,9 +886,9 @@ b) la protección de la salud, seguridad y bienestar de los ocupantes de edifici
 
 > **Nota.** Véanse la LEY 18122, publicada el 17.05.1982, que creó el Servicio de Salud del Ambiente en la Región Metropolitana; y el Decreto 206, Salud, publicado el 07.12.1982, Reglamento Orgánico de dicho Servicio.
 
-> **Nota.** NOTA 1: Véase el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
+> **Nota.** NOTA 1: Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza; y el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
 
-> **Nota.** NOTA 2: Véase el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
+> **Nota.** NOTA 2: Véase el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
 
 ### Párrafo II
 
@@ -1242,7 +1244,11 @@ La dirección técnica de las farmacias será incompatible entre sí y con la de
 
 <!-- parte:8655893 -->
 
-Los productos farmacéuticos sólo podrán expenderse al público con receta médica, salvo aquellos que determine el Reglamento.
+Los productos farmacéuticos sólo podrán expenderse al público con receta médica, salvo aquellos que determine el reglamento.
+
+Las recetas médicas y análisis o exámenes de laboratorios clínicos y servicios relacionados con la salud son reservados. Sólo podrá revelarse su contenido o darse copia de ellos con el consentimiento expreso del paciente, otorgado por escrito. Quien divulgare su contenido indebidamente, o infringiere las disposiciones del inciso siguiente, será castigado en la forma y con las sanciones establecidas en el Libro Décimo.
+
+Lo dispuesto en este artículo no obsta para que las farmacias puedan dar a conocer, para fines estadísticos, las ventas de productos farmacéuticos de cualquier naturaleza, incluyendo la denominación y cantidad de ellos. En ningún caso la información que proporcionen las farmacias consignará el nombre de los pacientes destinatarios de las recetas, ni el de los médicos que las expidieron, ni datos que sirvan para identificarlos.
 
 #### Artículo 128°
 
@@ -1314,9 +1320,9 @@ En el ejercicio de esta curaduría el Director del establecimiento gozará del p
 
 <!-- parte:8655901 -->
 
-Los registros, libros, fichas clínicas y documentos de los establecimientos mencionados en el artículo 130° tendrán el carácter de reservado, salvo para las autoridades judiciales y para el Servicio Nacional de Salud.
+Los registros, libros, fichas clínicas y documentos de los establecimientos mencionados en el artículo 130° tendrán el carácter de reservado, salvo para las autoridades judiciales, del Ministerio Público y para el Servicio Nacional de Salud.
 
-Sólo el Director del Establecimiento en el caso de los establecimientos públicos, y el Director o el médico tratante, en el caso de los establecimientos privados podrán dar certificados sobre la permanencia de los enfermos en los establecimientos psiquiátricos, la naturaleza de su enfermedad o cualquier otra materia relacionada con su hospitalización. Este cerificado sólo podrán solicitarlo los enfermos, sus representantes legales o las autoridades judiciales.
+Sólo el Director del Establecimiento en caso de los establecimientos públicos, y el Director o el médico tratante, en el caso de los establecimientos privados podrán dar certificados sobre la permanencia de los enfermos en los establecimientos psiquiátricos, la naturaleza de su enfermedad o cualquiera otra materia relacionada con su hospitalización. Este certificado sólo podrán solicitarlo los enfermos, sus representantes legales o las autoridades judiciales.
 
 # Libro VIII
 
@@ -1356,7 +1362,7 @@ Corresponderá a las Municipalidades de la República instalar cementerios, prev
 
 <!-- parte:8655907 -->
 
-Ningún cadáver podrá permanecer insepulto por más de cuarenta y ocho horas, a menos que el Servicio Nacional de Salud lo autorice, o cuando haya sido embalsamado o se requiera practicar alguna investigación de carácter científico o judicial.
+Ningún cadáver podrá permanecer insepulto por más de cuarenta y ocho horas, a menos que el Servicio Nacional de Salud lo autorice, o cuando haya sido embalsamado o se requiera practicar alguna investigación de carácter científico, judicial o penal.
 
 El Servicio Nacional de Salud podrá ordenar la inhumación, en un plazo inferior cuando razones técnicas lo aconsejen.
 
