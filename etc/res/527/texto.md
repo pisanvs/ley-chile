@@ -1,0 +1,3 @@
+Por Resolución N° 527, de 23 de Julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 612, de 1991, de esta Subsecretaría, que autorizó a SALAZAR Y CERNA LTDA., R.U.T. N° 79.673.740-9, para ampliar actividades pesqueras de transformación, en el sentido de eliminar de su texto el numeral 14°, en virtud de lo dispuesto en la Resolución N° 1.058, de 1987, citada en Visto.
+
+Valparaíso, 23 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
