@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.990, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº10, superficie 722,20 m², rol de avalúo 623-32, comuna de Ovalle, para la obra ''Camino Ruta D-585, Ovalle-Huamalata-Algarrobo, Sector Ovalle-Villaseca, Km. 0,00000 a Km. 5,98083'' y se acordó el valor de indemnización con su propietaria Melania del Carmen Ramírez Zepeda, ascendente a la cantidad de $1.323.458.
+
+Fiscal del Ministerio de Obras Públicas.
