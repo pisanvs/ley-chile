@@ -1,0 +1,3 @@
+Por resolución Nº 280, de 3 de febrero de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 555, de 1993, de esta Subsecretaría, que autorizó a PESCA CHILE S.A., para ampliar las actividades pesqueras extractivas con la nave ''Cote Saint Jacques'', sólo en lo relativo a la especie Alfonsino, en el litoral comprendido entre los paralelos 37° L.S. y 57° L.S.
+
+Valparaíso, 3 de febrero de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
