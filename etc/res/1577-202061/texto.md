@@ -1,0 +1,3 @@
+Por resolución Nº1.577, de 31 de julio de 2002, de esta Subsecretaría, autorízase a JORGE ROLANDO TEKE LECAROS, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº756 de 2000, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Mocopulli Nº718, Ancud, Chiloé, X Región, en la línea de elaboración de Cocido y Congelado el recurso hidrobiológico Macha.
+
+Valparaíso, 31 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
