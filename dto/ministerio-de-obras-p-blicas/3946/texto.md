@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.946 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 10-3, superficie 478,9 m², rol de avalúo 186-211, comuna de Colina, para la obra ''Camino Santiago-Colina-Los Andes, Sector Enlace Chacabuco-Estero Chacabuco Km. 41.100,00 a Km. 41.600,00'' y se acordó el valor de indemnización con su propietario Silvia del Carmen Henríquez Bravo, ascendente a la cantidad de $1.499.188.-
+
+Fiscal del Ministerio de Obras Públicas.
