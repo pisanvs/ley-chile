@@ -1,0 +1,1 @@
+Con fecha 28 julio de 2000, la Secretaría Regional Ministerial de la V Región, dictó la resolución Nº1001, por medio de la cual se le otorgó al ''Club Tercera Edad Nuevo Renacer'', una concesión de uso gratuito del inmueble ubicado en calle Edwards Nº695, de la comuna y provincia de Valparaíso, por un plazo de 5 años.
