@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.002, de 30 de julio de 1999, se expropió el lote de terreno Nº 35, superficie 96.000 m2., rol de avalúo 402-18, comuna de Vicuña, para la obra Embalse Puclaro, sector Punta Azul y San Carlos III Etapa, y se acordó precio de indemnización con su propietario Ottaviano Bortolotti Cristele, ascendente a la cantidad de $49.977.458, el lote Nº 35.-
+
+Fiscal del Ministerio de Obras Públicas.
