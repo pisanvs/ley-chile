@@ -1,0 +1,3 @@
+Por resolución Nº 640, de 22 de abril de 1999, de esta Subsecretaría, deniégase la solicitud presentada por PESQUERA ISABELLA LTDA., para otorgar certificado de transferencia de la nave ''Gendarme I'', en virtud de haber sido ésta sustituida junto a otras embarcaciones, ''Chechita'' y ''Nacho Fuentes'', por la nave ''Doña Mariana'', según resolución Nº 1.225, de 1998, quedando por tanto sin efecto el permiso de pesca que autorizaba anteriormente a la nave ''Gendarme I''.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
