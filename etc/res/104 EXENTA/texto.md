@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta No. 104, de 12 de Febrero de 1990, se adjudica a "Ramírez y Compañía Limitada", la concesión para operar, por un plazo de cinco años a contar del 01 de Marzo de 1990, un establecimiento ubicado en calle Avda. Departamental No. 2025, San Miguel, destinado a la Revisión Técnica y Verificación de Emisión de Contaminantes de taxis vehículos de transporte escolar, minibuses que presten servicio de transporte público en la Región Metropolitana o de aquéllos cuyos servicios tengan origen o destino en esta ciudad, vehículos de carga de más de 1.750 kg. de capacidad de carga útil, sus remolques y semirremolques y los vehículos escuela pertenecientes a las Escuelas de Conductores ubicadas en la Región Metropolitana, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Carlos Silva Echiburu. Ministro de Transportes Telecomunicaciones.
