@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 629 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 88-B, superficie 106 m2, Sin Rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa III'', y se acordó el valor de indemnización con su propietario Manuel Fajardo Díaz, ascendente a la cantidad de $196.699.
+
+Fiscal del Ministerio de Obras Públicas.
