@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.679 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº49-B, superficie 689m2, rol de avalúo en trámite, comuna de San Clemente, para la obra ''Camino Los Robles - Huencuecho - Bajo Perquín, Sector Huencuecho - Bajo Perquín, Tramo Km. 46.140,00 a Km. 76.107,70'', VII Región y se acordó el valor de la indemnización con su propietario Obispado de Talca, ascendente a la cantidad de $19.537.140.-
+
+Fiscal del Ministerio de Obras Públicas.
