@@ -1,0 +1,3 @@
+Por resolución Nº 56, de 3 de diciembre de 1998, Serviu XII Región Magallanes y Antártica Chilena dispuso expropiación total, conforme al decreto ley 1.523, de 1976, decreto supremo 140, de Vivienda y Urbanismo, de 1991 y decreto ley 2.186, de 1978, de inmueble ubicado en Punta Arenas, calle 21 de Mayo Nº 1711, rol de avalúo Nº 1379-001, de aparente dominio de don Francisco Javier y doña Mónica Isabel Monsalve Villarroel. Comisión tasadora integrada por Sres. José Subiabre Aguilar, José Barría Bonacic y Sra. Jeannette Morís Torres, fijó monto provisional de la indemnización según informe de fecha 14 de octubre de 1998, en $27.402.833.-, que será pagada al contado.-
+
+Paulino Arellano Orias, Director Servicio de Vivienda y Urbanización o Serviu XII Región Subrogante.
