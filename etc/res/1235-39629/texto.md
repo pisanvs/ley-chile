@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 1.235 de fecha 14.10.93, del Ministerio de Transportes y Telecomunicaciones, se autorizó complementariamente a la empresa de origen argentino Expreso El Pingüino para efectuar servicio de transporte terrestre internacional de pasajeros entre Río Gallegos (Argentina) y Puerto Natales (Chile) y viceversa, con dos (2) frecuencias semanales utilizando el paso fronterizo La Laurita.-
+
+Sergio González Tagle, Subsecretario de Transportes.
