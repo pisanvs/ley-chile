@@ -1,0 +1,3 @@
+Por decreto MOP Nº981, de fecha 29 de octubre de 2004, se expropio el lote de terreno Nº3, superficie 3.047 m2, rol de avalúo Nº205-72, comuna de Rengo, para la obra ''Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria, Concesión Internacional Ruta 5 Sur, tramo Santiago Talca, Sector Acceso a Villa Las Hojas y calle Egeneau, Km. -0,01000 a Km. 0,90000'', VI Región y se acordó el valor de la indemnización con su propietario Manuel Antonio Madriaza del Pino, ascendente a la cantidad de $8.063.078.-
+
+Fiscal del Ministerio de Obras Públicas.
