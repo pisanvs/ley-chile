@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.036, de 31 de julio de 2001, se expropió el lote de terreno Nº78-B, superficie 949 m², rol de avalúo en trámite, comuna de Ovalle, para la obra Concesión Internacional Ruta 5. Tramo Los Vilos - La Serena. Sector B: Hornillos - La Herradura, Cuarta Región y se acordó el valor de indemnización con su propietario Héctor Marino López Bórquez, ascendente a la cantidad de $1.955.384.-
+
+Fiscal del Ministerio de Obras Públicas.
