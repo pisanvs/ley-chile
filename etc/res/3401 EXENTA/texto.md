@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.401 de 29 de noviembre de 2004 de esta Subsecretaría, autorízase a COYA SUR Y COMPAÑIA LIMITADA, para ampliar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Barros Arana Nº 3276, Arica, I Región, donde podrá procesar en línea de elaboración Salazón, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 29 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
