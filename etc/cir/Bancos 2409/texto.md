@@ -1554,17 +1554,15 @@ Cuando se trate de cuentas corrientes especiales, que tienen restricciones en su
 
 Este Organismo estima que las condiciones mínimas que deben constar en estos instrumentos son la que se indican en el Anexo N° 1 de este capítulo.
 
-1.4. Personas con prohibición de abrir o mantener cuentas corrientes.
+1.4.- Personas con prohibición de abrir cuentas corrientes.
 
-De acuerdo con las disposiciones del artículo 22 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, esta Superintendencia envía periódicamente a los bancos, según las resoluciones de los tribunales , listas de las personas que se encuentran afectadas por la prohibición de abrirles cuentas corrientes, fijando en cada ocasión el plazo que dura esta medida.
+De acuerdo con las disposiciones del artículo 22 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, esta Superintendencia envía periódicamente a los bancos, según las resoluciones de los Tribunales, listas de las personas que se encuentran afectadas por la prohibición de abrirles cuentas corrientes, fijando en cada ocasión el plazo que dura esta medida.
 
-La prohibición de abrir cuentas corrientes bancarias a las personas incluidas en dichas listas, lleva implícito el impedimento de mantener cuentas corrientes por el período que se indica en cada caso, de manera que los bancos en que tengan cuenta corriente dichas personas deben notificarles de inmediato el cierre de su cuenta y proceder a efectuarlo.
+Sin perjuicio de la facultad que pueda ejercer el banco de cerrar la cuenta corriente del cliente incluido en la lista, la prohibición señalada implica que las personas que figuren en ella no podrán abrir nuevas cuentas corrientes mientras dure la prohibición.
 
-La prohibición señalada implica que las personas incluidas en las listas tampoco pueden, dentro del período que se indique, firmar cheques como representante de un tercero, sea este último persona natural o jurídica. Una interpretación distinta haría inocua la prohibición, ya que quienes hicieron mal uso de una cuenta corriente podrían continuar operando con una de ellas. Cabe agregar que la prohibición tiene por objeto constituir una incapacidad especial para el cuentacorrentista que ha sido procesado por giro doloso de cheques, que no sólo le impide manejar sus cuentas corrientes, sino, con mayor razón, las ajenas.
+La citada prohibición cesa automáticamente una vez cumplido el plazo indicado en la Carta Circular en que ella se dio a conocer, sin que se requiera ninguna otra comunicación de parte de este Organismo. Es decir, cumplido dicho plazo, los bancos son libres de abrir cuenta corriente a las personas que figuran en ella.
 
-Cabe agregar que la citada prohibición cesa automaticamente una vez cumplido el plazo indicado en la Carta Circular en que ella se dio a conocer, sin que se requiera ninguna otra comunicación de parte de este Organismo. Es decir,cumplido dicho plazo, los bancos son libres de abrir cuenta corriente a las personas que figuran en ella.
-
-De lo anterior se desprende que no es procedente que las empresas bancarias exijan a determinadas personas un certificado emitido por esta Superintendencia sobre la prohibición de abrir cuenta corriente, desde el momento en que aquellas comunicaciones oficiales contienen la información suficiente para establecer, encada caso, si existe o no tal prohibición.
+De lo anterior se desprende que no es procedente que las empresas bancarias exijan a determinadas personas un certificado emitido por esta Superintendencia sobre la prohibición de abrir cuenta corriente, desde el momento en que aquellas comunicaciones oficiales contienen la información suficiente para establecer, en cada caso, si existe o no tal prohibición.
 
 1.5. Apertura de cuentas corrientes bipersonales o multipersonales.
 
