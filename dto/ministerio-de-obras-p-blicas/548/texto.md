@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 548, de 30 de junio de 1997, se expropiaron los lotes de terreno Nºs. 16, 17, 19 y 46, superficies 465 m², 556 m², 70 m² y 255 m², roles de avalúo 226-2, 223-13, 224-5 y 203-41, comuna de Santa Juana, para la obra Camino de La Madera, sector Bifurcación Diuquín - Santa Juana, y se acordó el valor de indemnización con sus propietarios Renán Yáñez Yáñez, Viviana Medina y otras, Jorge Ríos Yáñez, y Grover Carrasco Muñoz y otros, ascedente a las cantidades de $1.158.087.-; $393.253.-; $54.968.-, y $331.376.-, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
