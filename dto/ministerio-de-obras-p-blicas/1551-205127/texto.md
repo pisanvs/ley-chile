@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.551, de fecha 29 de Octubre de 2002, se expropió el lote de terreno Nº31-B, superficie 3.598 m2, rol de avalúo 524-281, comuna de La Unión, X Región, para la obra ''Camino Ruta T-80, Sector La Unión - Las Trancas, tramo Km. 0,900 al 10,99034'' y se acordó el valor de indemnización con su propietaria doña Ana Westermeier, ascendente a la cantidad de $2.397.019.-
+
+Fiscal del Ministerio de Obras Públicas.
