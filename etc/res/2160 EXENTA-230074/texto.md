@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.160, de 11 de agosto de 2004, de esta Subsecretaría, autorízase a COMERCIAL E INMOBILIARIA LAS ARBOLEDAS S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Los Carrera Nº 1245, San José de la Mariquina, comuna de Mariquina, X Región, en las líneas de elaboración de Fresco-Enfriado, Congelado y Conserva, el recurso hidrobiológico Juliana.
+
+Valparaíso, 11 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
