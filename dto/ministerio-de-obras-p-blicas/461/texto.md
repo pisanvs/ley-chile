@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 461, de 30 de abril de 1997, se expropiaron los lotes Nºs 14, 41 y 42, superficies 25.844 m2., 34.210 m2. y 276 m2., roles de avalúo 2247-39 y 2228-7, comuna de Chillán, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Sergio Galaz Ulloa y Horacio Puentes Jaramillo y Otras, ascendente a las cantidades de $5.411.082.- para el lote Nº 14 y $37.179.694.- para los lotes Nºs 41 y 42.-
+
+Fiscal del Ministerio de Obras Públicas.
