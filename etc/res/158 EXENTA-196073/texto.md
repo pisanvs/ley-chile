@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE "BANESTADO S.A. ADMINISTRADORA DE FONDOS PARA LA VIVIENDA
+
+Certifico: Que por resolución exenta Nº 158, de fecha 18 de marzo de 2002, de esta Superintendencia de Valores y Seguros, se aprobó la reforma de estatutos de "Banestado S.A. Administradora de Fondos para la Vivienda", cuya acta de la 2ª Junta Extraordinaria de Accionistas celebrada el 11 de enero de 2002, se redujo a escritura pública de 25 de enero de 2002, otorgada ante el Notario don Luis Alfonso Pérez Manríquez, reemplazante de don Gonzalo de la Cuadra Fabres, Titular de la 38ª Notaría de Santiago, domiciliado en calle Bandera Nº 184, oficina 204, en la que se acordó cambiar el nombre de la citada compañía por el de "Bancoestado S.A. Administradora de Fondos para la Vivienda", modificando al efecto el artículo 1º de sus estatutos.
+
+Santiago, 18 de marzo de 2002.- Carmen Undurraga Martínez, Secretaría General.
