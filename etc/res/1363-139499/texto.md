@@ -1,0 +1,3 @@
+Por resolución Nº 1.363, de 12 de julio de 1999, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se rechaza la solicitud de concesión de acuicultura Nº 96103273, presentada por SERGIO IVAN PAREDES PAREDES, para operar un centro de cultivo en Palqui, comuna de Curaco de Vélez, provincia de Chiloé, X Región.
+
+Valparaíso, 12 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
