@@ -1,0 +1,3 @@
+Por decreto MOP Nº 424, de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 1, superficie 150 m², Rol de avalúo Nº 557-1, comuna de Concepción, para la obra "Reposición Puente Bío - Bío (Antiguo), Ruta 160 Concepción - San Pedro, Enlace 5", VIII Región, y se acordó el valor de indemnización con su propietario Esso Chile Petrolera Ltda., ascendente a la cantidad de $27.345.874.
+
+Fiscal del Ministerio de Obras Públicas.
