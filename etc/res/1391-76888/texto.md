@@ -1,0 +1,5 @@
+Por Resolución Nº 1.391, de 24 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a TROUW CHILE S.A., para continuar desarrollando las actividades de cultivo autorizadas por Resoluciones Nº 1.300, de 1988, Nº 460 y Nº 1.771, ambas de 1989, Nº 940, de 1991, todas de esta Subsecretaría, a Trouw de Chile Holding S.A., de R.U.T. Nº 96.535.640-1, en virtud de la escritura pública de declaración de transferencia de los bienes del activo de Trouw de Chile Holding S.A. a Trouw Chile S.A. de fecha 26 de julio de 1995, que modificó y transformó la sociedad "Trouw de Chile Holding S.A." en "Trouw Chile S.A.".
+
+Déjase sin efecto la Resolución Nº 481, de 1997, de esta Subsecretaría, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 24 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
