@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.309, de 31 de mayo de 1999, se expropió el lote de terreno Nº 11, superficie 2.338 m2., rol de avalúo 1509-485, comuna de Los Angeles, para la obra ''Concesión Internacional Ruta 5 Tramo Chillán - Collipulli'', Octava Región y se acordó el valor de indemnización con su propietario Adrián Segundo Arrigada Arriagada, ascendente a la cantidad de $1.707.001.
+
+Fiscal del Ministerio de Obras Públicas.
