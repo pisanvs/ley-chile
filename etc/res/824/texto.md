@@ -1,0 +1,5 @@
+Por Resolución N° 824, de 29 de Octubre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a DANALG S.A., R.U.T. N° 96.627.500-6, para iniciar actividades pesqueras de transformación, en orden a operar una planta industrial ubicada en la X Región, ubicada en Km. 1078 Logitudinal Sur, localidad de Pargua, comuna de Calbuco, Provincia de Llanquihue, donde procesará en la línea de proceso que se indica, los siguientes recursos hidrobiológicos: Producción de Carragenina: Chicorea de mar, Luga negra, Luga cuchara, Luga roja, Cotoni.
+
+La presente autorizacion es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
