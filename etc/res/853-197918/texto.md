@@ -1,0 +1,3 @@
+Por resolución Nº 853, de 7 de mayo de 2002, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.132 de 1994, de esta Subsecretaría, que autorizó a PESQUERA CONFISH S.A., para actualizar las características náuticas de la nave "Veabas", en virtud de lo dispuesto en la resolución Nº 686 de 1995 de esta Subsecretaría.
+
+Valparaíso, 7 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
