@@ -1,0 +1,3 @@
+Por resolución No. 1.385 de 09 de Noviembre de 1990, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se deroga la resolución No. 47, de 1988, de esta Subsecretaría, que autorizó a don Manuel Lucas Estrada Soto, RUT No. 8.072.416-0, domiciliado en Puerto Montt, calle Federico O'elkers No. 509, para instalar y operar un establecimiento de cultivo del recurso alga del género Gracilaria, ubicado en un sector de Bahía Quillaipe, Comuna de Puerto Montt, Provincia de Llanquihue, X Región, en un área de 55.752,50 m2 de playa, por renuncia de su titular.
+
+Valparaíso, 09 de Noviembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
