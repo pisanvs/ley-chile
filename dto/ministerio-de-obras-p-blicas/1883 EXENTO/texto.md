@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.883, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº93, superficie 720 m2, rol de avalúo 223-51, comuna de Olmué, V Región, para la obra "Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,984 al 34,5000" y se acordó el valor de indemnización con su propietario don Luis Guillermo Aravena Gallardo, ascendente a la cantidad de $1.056.615.
+
+- Fiscal del Ministerio de Obras Públicas.
