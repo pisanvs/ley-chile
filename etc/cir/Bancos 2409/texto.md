@@ -1626,7 +1626,7 @@ Los bancos que coloquen acciones en el exterior mediante sistemas de títulos re
 
 El banco emisor debe preparar un prospecto, de acuerdo con las disposiciones y exigencias de las autoridades del país en el que se colocarán las acciones mediante este sistema. En dicho prospecto se debe advertir que los adquirentes de los títulos representativos de acciones, quedan sujetos a las disposiciones contenidas en el artículo 36 de la Ley General de Bancos que regula la adquisición en forma directa o indirecta de acciones del mismo banco que superen un 10% de su capital, y a las establecidas en el N° 2 del artículo 84 del mismo cuerpo legal, sobre operaciones con personas relacionadas al banco emisor de las respectivas acciones.
 
-Un ejemplar del referido prospecto, con su correspondiente traducción al castellano, deberá ser presentado a esta Superintendencia conjuntamente con la información relativa a la emisión de acciones de que trata el Capítulo 2-10 de esta Recopilación, para los efectos de su anotación en el Registro de Valores de este Organismo, de conformidad con lo establecido en la Ley N° 18.045, sobre Mercado de Valores.
+Un ejemplar del referido prospecto, con su correspondiente traducción al castellano, deberá ser presentado a esta Superintendencia conjuntamente con la información relativa a la emisión de acciones de que trata el Capítulo 2-11 de esta Recopilación, para los efectos de su anotación en el Registro de Valores de este Organismo, de conformidad con lo establecido en la Ley N° 18.045, sobre Mercado de Valores.
 
 ### 2. Información de la tenencia de los títulos representativos
 
@@ -2376,7 +2376,7 @@ En virtud de las disposiciones antes mencionadas, las instituciones pueden inter
 
 En todo caso, según lo dispuesto en el artículo 3° de la Ley N° 18.045 antes citada, no se les aplican las disposiciones de dicha ley a los valores emitidos o garantizados por el Estado, por las instituciones públicas centralizadas o descentralizadas y por el Banco Central de Chile.
 
-Asimismo, en virtud de lo establecido en el artículo 69 de la Ley ya mencionada y en el Capítulo 2-10 de esta Recopilación Actualizada de Normas, no es necesario registrar en esta Superintendencia los títulos de crédito emitidos por los bancos y sociedades financieras que operan en el país, salvo cuando se trate de acciones y bonos y, además, por instrucciones de este Organismo, de letras de crédito.
+Asimismo, en virtud de lo establecido en el artículo 69 de la Ley ya mencionada y en el Capítulo Capítulo 2-11 de esta Recopilación Actualizada de Normas, no es necesario registrar en esta Superintendencia los títulos de crédito emitidos por los bancos y sociedades financieras que operan en el país, salvo cuando se trate de acciones y bonos y, además, por instrucciones de este Organismo, de letras de crédito.
 
 ### 3. Responsabilidad de las instituciones financieras en la intermediación
 
@@ -4843,6 +4843,72 @@ Las comisiones que se cobren sobre estas cuentas se acreditarán a las cuentas "
 Las solicitudes de giro que se reciban de los titulares de las cuentas de ahorro a plazo para la educación superior con giro diferido, serán registradas según las instrucciones generales al respecto, utilizando la cuenta de orden "Solicitudes de giro de cuentas de ahorro para la educación superior por cumplir", de la partida 9570. Los importes registrados en esta cuenta deben revertirse al momento de hacerse efectivas las solicitudes o una vez cumplido el plazo sin que hayan sido cobrados.
 
 CAPITULO 2-10 (Bancos y Financieras)
+
+MATERIA:
+
+PLANES DE AHORRO PREVISIONAL VOLUNTARIO.
+
+1.- Disposiciones Generales.
+
+Los bancos que decidan ofrecer planes de ahorro previsional voluntario en el marco de las disposiciones de la Ley N° 19 768, que modificó en lo pertinente el Decreto Ley N° 3 500 de 1980, deberán presentar previamente dichos planes a esta Superintendencia para su aprobación.
+
+Para ese efecto, informarán las características del plan que ofrecerán y los instrumentos comprendidos en él, así como la estructura de comisiones e intereses que se aplicarán Conjuntamente con esa información deberá acompañarse un ejemplar de los contratos que se suscribirán con los depositantes.
+
+Los planes de ahorro previsional voluntario comprenden los depósitos convenidos y los depósitos de ahorro previsional voluntarios, pudiendo ambos conceptos estar incluidos en un mismo plan Estos planes estarán conformados por instrumentos financieros de oferta pública y cuentas de ahorro Los citados instrumentos y cuentas no alterarán las características que les son propias cuando sean utilizados en dichos planes de ahorro previsional voluntario.
+
+La difusión pública de esos planes no podrá hacerse antes de haber obtenido la correspondiente autorización de esta Superintendencia, de acuerdo con lo establecido en el Título III de la Circular Conjunta N° 3 164-1 435 de esta Superintendencia y de las Superintendencias de Valores y Seguros, de Administradoras de Fondos de Pensiones y de Seguridad Social.
+
+2. - Instrumentos de ahorro.
+
+Los depósitos bajo el plan de ahorro previsional pueden constituirse en las entidades bancarias que hayan obtenido la aprobación del respectivo plan, mediante depósitos a plazo nominativos no endosables o cuentas de ahorro a plazo unipersonales, sean éstas con giro diferido o incondicional o en otros instrumentos de oferta pública, emitidos por el banco receptor del ahorro, que cumplan las condiciones de instransferibilidad que los hagan elegibles para los planes de ahorro previsional voluntario.
+
+Cualquiera sean los instrumentos que se utilicen, deberá quedar claramente señalado en ellos que corresponden a un plan de ahorro previsional voluntario.
+
+Acorde con las condiciones de ese plan, no pueden utilizarse para estos efectos las cuentas de ahorro destinadas a cumplir un objetivo específico, como lo son las cuentas de ahorro del sistema general unificado de subsidio habitacional, las cuentas de ahorro de vivienda con promesa de compraventa y las cuentas de ahorro a plazo para la educación superior.
+
+3.- Comisiones y gastos.
+
+Las instituciones depositarías podrán cobrar una comisión única, expresada en términos anuales, por la administración de cada plan Dicha comisión comprenderá los diversos instrumentos que pueden integrar un mismo plan de ahorro previsional voluntario En el caso de los planes integrados por cuentas de ahorro se aplicarán en lo pertinente las instrucciones del Capítulo 2-4 de la Recopilación Actualizada de Normas y las de los Capítulos III E 1 y III E 4 del Compendio de Normas Financieras del Banco Central de Chile.
+
+No podrán pagarse gastos de cualquier naturaleza, con cargo a los fondos que correspondan a un plan de ahorro previsional, con excepción de los cargos que tengan por objeto revertir un depósito reciente mal efectuado o hecho con un cheque cuyo pago haya sido rechazado Dentro de esa prohibición quedan comprendidos los cobros por primas de seguros de vida que se hayan contratado, así como por cualquier otro concepto.
+
+4. - Intereses y reajustes.
+
+El pago de intereses y reajustes a las cuentas de ahorro que conforman el plan de ahorro voluntario previsional, se hará sobre la base de las disposiciones contenidas en los Capítulos 2-1 ó 2-4 de la Recopilación Actualizada de Normas, según corresponda Los cambios que se efectúen de las tasas de interés vigentes deberán avisarse, cuando se trate de una disminución, con a lo menos cinco días de anticipación a la fecha inicial del mes en que comenzará a aplicarse, en tanto que los aumentos de tasa podrán regir de inmediato y, a lo menos, por lo que resta del mes en que se efectúe y por todo el mes.
+
+Debe tenerse presente que, como se estableció en la Circular Conjunta N° 3 164-1 435, los intereses y reajustes que se paguen por los saldos de esas cuentas de ahorro, como también por los depósitos a plazo constituidos con la misma finalidad, deben ser capitalizados en la misma cuenta o agregados al depósito que corresponda.
+
+5. - Retiros y traspasos.
+
+Las entidades depositarías deben atender las solicitudes de giro o de traspaso que le soliciten los titulares de las respectivas cuentas, siguiendo, cuando se trate de cuentas de ahorro, las pautas establecidas en el mencionado Capítulo 2-4, y en los Títulos VII y IX de la ya citada Circular Conjunta.
+
+La solicitud de retiro o traspaso de fondos de los depósitos de ahorro previsional voluntario deberá cumplirse dentro de los treinta días siguientes a la fecha de su recepción por la institución financiera En todo caso, deberán observarse los plazos mínimos y condiciones señalados en el Capítulo III B 1 del Compendio de Normas Financieras del Banco Central de Chile y en las disposiciones del antes referido Capítulo 2-4, según se trate de depósitos a plazo o cuentas de ahorro, respectivamente.
+
+Los giros con cargo a los depósitos de ahorro previsional voluntario no podrán efectuarse en cajeros automáticos, sino solamente en las cajas de los bancos depositarios.
+
+6. - Cobranza de cotizaciones correspondientes a depósitos convenidos.
+
+El plan de ahorro previsional voluntario comprende también la incorporación de los llamados depósitos convenidos de que trata el artículo 20 del Decreto Ley N°3 500 Estos depósitos, a petición del trabajador pueden traspasarse hacia una institución bancaria como también pueden constituirse en ellas.
+
+Según lo dispuesto en el Título X de la Circular Conjunta N° 3 164-1 435, estará a cargo de la institución depositaría la gestión de cobranza de los depósitos convenidos que debe efectuar en una institución autorizada el empleador, a petición del respectivo trabajador Esta Superintendencia, en uso de la facultad fiscalizadora que le compete en la materia, podrá requerir de las instituciones financieras, todos los antecedentes que demuestren la diligencia empleada en el cumplimiento de la gestión de cobro, la calidad de esa gestión y los resultados obtenidos.
+
+Al respecto, las gestiones de cobranza para obtener el pago de estas cotizaciones adicionales deberán realizarse siguiendo las disposiciones del artículo 19 del Decreto Ley N° 3 500.
+
+De las gestiones de cobro que realicen deberán dejar constancia en el Registro Histórico de Información por Trabajador, a que se refiere el Título V de la Circular Conjunta N° 3 164-1 435, o en un anexo al mismo.
+
+7.- Información al público.
+
+Sin perjuicio del cumplimiento de lo instruido en la Circular Conjunta, las instituciones financieras deberán cuidar que la información que entreguen al público por los diversos medios y formas, respecto de los cobros que se harán por los servicios que se presten por estas cuentas de ahorro previsional, considere el importe o la tasa de cada uno de los conceptos por los cuales se cobra.
+
+Así, la información sobre las comisiones que se cobrarán por cada plan, deberá incluir el importe correspondiente al Impuesto al Valor Agregado a que están afectas Las tarifas que se establezcan tendrán una vigencia mínima de un trimestre y no podrán ser cambiadas antes del término de ese período Cualquier modificación deberá hacerse en concordancia con las disposiciones que el Banco Central de Chile ha impartido sobre el particular para las cuentas de ahorro a plazo.
+
+En lo que se refiere a la información sobre la rentabilidad de estos planes, ella deberá entregarse neta de costos, en la forma dispuesta en el Título XII de la citada Circular Conjunta Esto significa que, a la rentabilidad, calculada de la forma indicada en el número 8 del mencionado Título XII, deben restársele los costos por concepto de comisiones, incluido el Impuesto al Valor Agregado, que se cobran en el mismo período a que se refiere dicha rentabilidad y los demás cobros que eventualmente pudieran permitirse.
+
+8. - Registro de las captaciones relativas al plan de ahorro previsional voluntario.
+
+Los depósitos a plazo y las cuentas de ahorro contratados dentro del plan de ahorro previsional voluntario se registrarán en la contabilidad de igual modo que los productos similares no pertenecientes a dicho plan, debiendo las instituciones financieras establecer los registros necesarios a fin de mantener permanentemente una información actualizada de esas operaciones, tanto para los depositantes como para atender el suministro de los datos que requerirá este organismo, de acuerdo con las instrucciones que para el efecto se impartirán.
+
+CAPITULO 2-11 (Bancos y Financieras)
 
 MATERIA:
 
@@ -14282,7 +14348,7 @@ Para determinar el plazo promedio, cuando los bonos contemplen amortizaciones pa
 
 3.3.- Inscripción en el Registro de Valores.
 
-La emisión de los bonos subordinados queda sujeta a su inscripción en el Registro de Valores de esta Superintendencia, de acuerdo a las disposiciones de la Ley N° 18.045 sobre Mercado de Valores y a las instrucciones del Capítulo 2-10 de esta Recopilación.
+La emisión de los bonos subordinados queda sujeta a su inscripción en el Registro de Valores de esta Superintendencia, de acuerdo a las disposiciones de la Ley N° 18.045 sobre Mercado de Valores y a las instrucciones del Capítulo 2-11 de esta Recopilación.
 
 4.- Cómputo de los bonos como patrimonio efectivo para los efectos de los límites legales.
 
@@ -18638,7 +18704,7 @@ En el caso que se determine liquidar los recursos captados por la colocación de
 
 4.- Información que deberá enviarse a esta Superintendencia.
 
-Las empresas bancarias que coloquen bonos en el exterior, deberán hacer llegar a este Organismo los antecedentes que resulten pertinentes a la emisión, entre aquellos que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas, de conformidad con las exigencias de la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que proceda.
+Las empresas bancarias que coloquen bonos en el exterior, deberán hacer llegar a este Organismo los antecedentes que resulten pertinentes a la emisión, entre aquellos que se indican en el N° 1 del título III del Capítulo 2-11 de esta Recopilación Actualizada de Normas, de conformidad con las exigencias de la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que proceda.
 
 Junto con esos antecedentes, deberán enviar la siguiente información cuando ella no aparezca en la escritura pública de emisión.
 
