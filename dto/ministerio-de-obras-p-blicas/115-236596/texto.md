@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 115, de 29 de febrero de 1996, se expropiaron los lotes de terreno N°s. 44, 62, 62-A y 113, superficies 5.160 m2., 235 m2., 120 m2. y 44 m2., roles de avalúos 4229-9, 600-1, 101-2, comunas de Cartagena, El Tabo y Casablanca, para la obra Camino Malvilla Orrego Abajo y se acordó precio de, indemnización con sus propietarios Graciela Cerda Hernández y otros, José Rojas Oyarce y Lupercio Herpández Encina, ascendente a las cantidades de $20.519.461, $676.501 y $181.212.
+
+Fiscal del Ministerio dé Obras Públicas.
