@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 778 de 02 de Julio de 1988, Alcalde I. Municipalidad de Santiago dispone expropiación total inmueble Coronel Pantoja 133 Rol 448-28, Comuna de Santiago aparentemente dominio Lucila Pinochet. Deslindes: Norte, 15,90 mts. otro propietario; Sur, 15,90 mts. otro propietario; Oriente, en 17,50 mts. calle Coronel Pantoja; Poniente, 17,50 mts. otro propietario. Indemnización provisional $ 7.344.465.- pagadera contado.
+
+Gustavo Alessandri V., Alcalde Santiago.
