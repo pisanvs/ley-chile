@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº314 de fecha 28 de marzo de 2002, se expropiaron los lotes de terreno Nºs 31 y 35, superficie 708,00 y 4.504,00 m2 respectivamente, rol de avalúo 534-37 y 534-40, comuna de Río Bueno, para la obra "Camino Río Bueno Crucero, Sector T90-U y T-933, Tramo, Km. 0,00000 a Km. 20,90000" y se acordó el valor de indemnización con su propietaria Sonia María Andrade Figueroa, ascendente a la cantidad de $3.413.856.-
+
+Fiscal del Ministerio de Obras Públicas.
