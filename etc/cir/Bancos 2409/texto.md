@@ -26960,9 +26960,9 @@ El importe registrado en la cuenta "Beneficios por devengar de pagarés terceros
 
 ### 5. Limites
 
-5.1. Monto máximo de descuentos.
+5.1. Monto máximo de descuentos que se pueden realizar con depósitos a plazo.
 
-El saldo de colocaciones correspondientes a pagarés descontados que mantengan los bancos, no podrá exceder el 20% de los saldos diarios que registren por concepto de depósitos y captaciones a plazo en moneda extranjera.
+El saldo de colocaciones correspondientes a pagarés descontados que mantengan los bancos, financiadas con recursos provenientes de depósitos y captaciones a plazo en moneda extranjera, no podrá exceder el 20% de los saldos diarios que registren por concepto de dichos depósitos y captaciones.
 
 5.2. limite de crédito.
 
