@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.898, de 30 de septiembre de 1999, se expropió el lote de terreno Nº84, superficie 883 m², rol de avalúo 241-120, comuna de Frutillar, para la obra "Concesión Internacional Ruta 5 Tramo: Río Bueno - Puerto Montt. Sector: Frutillar-Fresia", Décima Región y se acordó el valor de indemnización con su propietaria Andrea Rosvita Astudillo Niklitschek, ascendente a la cantidad de $573.857.-
+
+Fiscal del Ministerio de Obras Públicas.
