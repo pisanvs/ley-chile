@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 621, de 27 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s 3, 4, 5, 6, 7, 8, 9, 10 y 11, para la obra Camino Cabildo - Putaendo, Ruta E-41, sector La Vega - Guayacán, Tramo Km. 12,46900 a Km. 22,40000, L= 9,931 Km., V Región, que figuran a nombre de Sociedad Amador Oyanedel y Cía., rol de avalúo 202-150, superficies 3.260 m2.; 663 m2.; 953 m2.; 1.154 m2.; 827 m2.; 960 m2.; 1.500 m2.; 1.485 m2. y 249 m2., comuna de Cabildo. La Comisión de Peritos, con fecha 14 de enero de 2002, fijó el monto de la indemnización provisional en las cantidades de $2.934.000, para el lote Nº 3;
+
+$464.100, para el lote Nº 4; $667.100, para el lote Nº 5; $577.000, para el lote Nº 6; $413.500, para el lote Nº 7; $288.000, para el lote Nº 8; $450.000, para el lote Nº 9; $297.000, para el lote Nº 10, y $49.800, para el lote Nº 11, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
