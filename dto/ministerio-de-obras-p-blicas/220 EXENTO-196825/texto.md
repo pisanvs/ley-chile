@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 220 de 28 de febrero del 2002, se expropiaron los lotes de terreno Nºs. 1-A, 1-B y 1-C, superficie 7.796,40, 3.221,10 y 9.557,20 m² respectivamente, Rol de Avalúo Nº 227-44, comuna de Canela, para la obra "Camino Angostura de Gálvez - Combarbalá, Sector Los Pozos - Combarbalá Km. 38.680 al 74.796,76" y se acordó el valor de indemnización con su propietario Manuel Enrique Pinto Contreras y Otros, ascendente a la cantidad de $3.382.529.
+
+Fiscal del Ministerio de Obras Públicas.
