@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 123, de fecha 29 de febrero de 1996, se expropiaron los lotes de terreno N°s. 1, 2, 3 y 6, superficies 1.104; 2.398,9; 2.010,2 y 2.760 m2, respectivamente, roles de avalúos 877-38, 877-40, 877-42 y 877-48, comuna de Coquimbo, para la obra Mejoramiento Ruta 5 Norte, sector Coquimbo La Herradura, y acordó precio de indemnización con sus propietarios Cathy Elizabeth Fernandois Olivares, Manuel Rubén Malebrán Malebrán y Suc. Héctor Antonio Femandois Barcaza; Suc. Manuel Araya Araya y Luis Felipe Videla Julio, ascendente a las cantidades de $5.624.024, $12.123.231, $10.172.315 y $14.143.021.
+
+- Fiscal del Ministerio de Obras Públicas.
