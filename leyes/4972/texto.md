@@ -1,0 +1,1 @@
+"Fija a las Municipalidades de la República, a la Empresa de los Ferrocarriles y a la Caja de Crédito Hipotecario, un plazo de dos años, para pagar sus obligaciones en moneda extranjera."
