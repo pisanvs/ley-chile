@@ -16462,7 +16462,7 @@ De acuerdo con el artículo 66 de la Ley General de Bancos, se entiende por "pat
 
 a) El capital asignado a sucursales en el exterior, según lo establecido en el N° 1 del artículo 81 de la Ley General de Bancos, tratado en el título III del Capítulo 11-7 de esta Recopilación.
 
-b) Las inversiones en sociedades, según lo establecido en el último inciso del artículo 66 de la Ley General de Bancos. La rebaja incluirá los saldos registrados en el activo por las inversiones permanentes en sociedades en el país y en el exterior, de acuerdo con lo establecido en los Capítulos 11-6 y 11-7 de esta Recopilación, respectivamente.
+b) Las inversiones en sociedades, según lo establecido en el último inciso del artículo 66 de la Ley General de Bancos. La rebaja incluirá los saldos registrados en el activo por las inversiones permanentes en sociedades en el país y en el exterior, de acuerdo con lo establecido en los Capítulos 11-6 y 11-7 de esta Recopilación, respectivamente. No obstante, para este efecto se excluirán las variaciones de las inversiones correspondientes a los resultados registrados en el ejercicio por la aplicación del método del VPP y por la amortización del mayor valor pagado en inversiones en sociedades, que se reflejan en las partidas 8350, 6350 y 6315 de acuerdo con las instrucciones de esos capítulos.
 
 2.2.- Importes que se agregan.
 
@@ -16586,7 +16586,7 @@ d) Los activos correspondientes a las inversiones en sociedades y sucursales en 
 
 2.2.- Categoría 2.
 
-a) Instrumentos financieros emitidos o garantizados por el Fisco de Chile.
+a) Instrumentos financieros emitidos o garantizados por el Fisco de Chile. Se entienden comprendidos dentro de ellos los impuestos netos por cobrar y que, para efectos de su cómputo, comprenderá todos los saldos que deben incluirse en las cuentas de la partida 2115 que se indican en los N°s 1 y 2 del título VI del Capítulo 7-5 de esta Recopilación.
 
 b) Instrumentos financieros en moneda de su país de origen, emitidos o garantizados por Estados o bancos centrales de países extranjeros, siempre que los instrumentos en esas monedas estén calificados en primera categoría de riesgo por una empresa calificadora internacional, incluida en la nómina del Capítulo 1-12 de esta Recopilación Actualizada de Normas.
 
@@ -21850,7 +21850,7 @@ La presentación se hará según los modelos que se incluyen en el Anexo N° 9 d
 
 11.- Nota de vencimientos de activos y pasivos.
 
-El objeto de esta nota es mostrar la distribución de los flujos de los principales activos y pasivos, según sus plazos remanentes a contar de la fecha a que está referido el balance general, incluyendo en consecuencia los intereses calculados hasta la fecha de vencimiento. La nota se presentará de la forma que se muestra en el Anexo N° 10 de este Capítulo
+El objeto de esta nota es mostrar la distribución de los principales activos y pasivos, según sus plazos remanentes a contar de la fecha a que está referido el balance general, incluyendo los intereses devengados hasta esa fecha. La nota se presentará de la forma que se muestra en el Anexo N° 10 de este Capítulo.
 
 12.- Nota sobre saldos en monedas extranjeras.
 
@@ -22233,24 +22233,6 @@ B) Capital básico y patrimonio efectivo.
 De acuerdo con lo dispuesto en la Ley General de Bancos, el capital básico mínimo de una institución financiera no puede ser inferior al 3% de los activos totales, a la vez que el patrimonio efectivo no puede ser inferior al 8% de sus activos ponderados por riesgo. Al cierre de cada ejercicio, esta institución presenta la siguiente situación:
 
 .
-
-* Incluidas como inversión en estos estados financieros.
-
-** Consideradas para estos efectos por su equivalente de crédito.
-
-Por su parte, el importe de los activos ponderados por riesgo es el siguiente, según los rubros principales del balance:
-
-.
-
-* Los activos clasificados en Categoría 1 se ponderan en un 0%.
-
-INSTRUCCIONES:
-
-(1): O bien "Más: pérdida del ejercicio" cuando sea el caso.
-
-(2): Incluir sólo cuando los conceptos sean aplicables.
-
-(3): Este cuadro debe prepararse para ambos ejercicios.
 
 ANEXO N°9
 
