@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.111, de 27 de agosto de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chipana, Sector A, I Región, individualizado en el artículo 1º, Nº 3) del DS Nº 210 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES Y ASISTENTES DE BUZOS DE CALETA CHIPANA.
+
+Valparaíso, 27 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
