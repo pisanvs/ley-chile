@@ -1,0 +1,3 @@
+Por Resolución Nº 1.690, de 12 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las autorizaciones otorgadas en virtud de las Resoluciones Nº 89 y Nº 449, ambas de 1997, todas de esta Subsecretaría, a PESQUERA ATLANTICA LTDA., para operar con la nave "Limarí", por la causal contemplada en el artículo 143 letra b) de la Ley de Pesca y Acuicultura, por no haber iniciado actividades extractivas dentro del plazo señalado en el numeral 6 de la Resolución Nº 89, de 1997.
+
+Valparaíso, 12 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
