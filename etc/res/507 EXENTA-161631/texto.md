@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 507, de 19 de Abril de 1985, conforme art. 5º transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a reserva y sector expropiado del predio "Parte de la Hijuela E del Plano de División del Fundo Los Hornos" de la comuna de Colina, Región Metropolitana; y derechos de aprovechamiento de aguas que corresponden a las parcelas Nº s 1 a la 11, y sitio Nº 1 del Proyecto de Parcelación "La Cantera" formado por el predio señalado. Los derechos de agua se extraen del canal El Carmen. Publicación hecha conforme art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
