@@ -1,0 +1,3661 @@
+FIJA A CONTAR DEL 1° DE ENERO DE 1974, PARA LOS TRABAJADORES DEL CONSEJO REGIONAL DE TURISMO DE ACONCAGUA, VALPARAISO Y SANTIAGO, LA SIGUIENTE UBICACIÓN EN LA ESCALA UNICA.- OTRAS DISPOSICIONES
+
+Núm. 450.- Santiago, 2 de Mayo de 1974.- Vistos: el decreto ley N° 1, de 11 de Septiembre de 1973, La Junta de Gobierno de la República de Chile ha acordado y dicta el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Fíjase para los trabajadores del Consejo Regional de Turismo de Aconcagua, Valparaíso y Santiago, de conformidad con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Director Ejecutivo 5
+
+Jefe de Ejecución 8
+
+Jefe de Planificación 8
+
+Jefe de Presupuestos 10
+
+Secretario General 9
+
+Asesor Jurídico 8
+
+Encargado de Promoción y Rel. Púb. 13
+
+Dibujante Técnico 19
+
+Ayudante de Contabilidad 19
+
+Prosecretario 18
+
+Secretarios 21
+
+Auxiliar de Servicios Menores 30
+
+El Jefe de Planificación subrogará al Director Ejecutivo cuando éste se hallare impedido, por cualquier causa para desempeñar el cargo. Durante el tiempo que opere el reemplazo y siempre que el impedido no percibiere la remuneración que le corresponda, el subrogante tendrá derecho al sueldo equivalente al grado 5° de la Escala Unica.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 2°
+
+Fíjase para los trabajadores del Consejo Regional de Turismo Llanquihue, Chiloé y Ausen, de conformidad con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Gerente Ejecutivo 6
+
+Secretario General 9
+
+Jefe Depto. Técnico 8
+
+Jefe Depto. Presupuesto y Finanzas 10
+
+Jefe Depto. Turismo Social 11
+
+Oficiales Administrativos 20
+
+Oficiales Administrativos 21
+
+El o los cargos de Oficiales Administrativos de grado 21 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Auxiliares 30
+
+El o los cargos de Auxiliares grado 30 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+PLANTA SERVICIO INSPECCION
+
+Casino Puerto Varas
+
+Inspector Delegado 12
+
+Subinspector Delegado 14
+
+Inspector Jefe de Sala 16
+
+Inspector Jefe de Credenciales 16
+
+Inspector de Sala 18
+
+Inspector de Sala 19
+
+Inspector de Sala 20
+
+Inspectores de Puertas
+
+y Credenciales 20
+
+Inspectores de Puertas y
+
+Credenciales 21
+
+El o los cargos de Inspectores de Puertas y Credenciales grado 21 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 3°
+
+Fíjase para los trabajadores del Consejo Regional de Turismo de Atacama y Coquimbo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica.
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Secretario General 6
+
+Secretario Abogado 9
+
+Contador Jefe Depto. Contabilidad y Finanzas 10
+
+Delegado en Atacama 18
+
+Coordinador Villa Vacaciones Tongoy y Peñuelas 18
+
+Administrador Parque Coll 18
+
+Administrador Villa Vacaciones 18
+
+Contador Auxiliar 18
+
+El o los cargos de Contador Auxiliar de grado 18 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+Oficial Administrativo 21
+
+El o los cargos de Oficial Administrativo de grado 21 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Jefe de Bodega y Economato 24
+
+Chofer 27
+
+El o los cargos de Chofer de grado 27 se transformarán en grado 33 a medida que vayan quedando vacantes.
+
+Maestro Cocina 25
+
+Camareras 30
+
+Auxiliar Cocina 32
+
+Auxiliar Servicios Menores 29
+
+El o los cargos de Auxiliar de Servicios Menores de grado 29 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+Jornaleros 32
+
+El o los cargos de Jornaleros de grado 32 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+Auxiliar Patio Villa Vacaciones 32
+
+El o los cargos de Auxiliar Patio Villa Vacaciones de grado 32 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 4°
+
+Créase, a contar del 1° de Enero de 1974, la siguiente Planta del "Departamento de Defensa de la Ley de Alcoholes" y agrégasela al artículo 21° del decreto ley N° 317, de 1974.
+
+PLANTA DIRECTIVA,
+
+PROFESIONAL Y TECNICA.
+
+-------------------------------------------------------
+
+Designación Actual N° de Grado de la
+
+Emp. Escala Unica
+
+-------------------------------------------------------
+
+1a. cat. Director Abogado _ _ _ _ 1 5
+
+1a. cat. Abogados de Santiago _ _ 5 6
+
+4a. Cat. Abogados de Valparaíso_ 2 9
+
+5a. Cat. Abogado de Temuco_ _ _ _ 1 10
+
+6a. Cat. Abogado de Chillán_ _ _ 1 11
+
+Grado 1.o Abogado de Talca _ _ _ _ 1 12
+
+Grado 3.o Abogado de Concepción _ 2 14
+
+Grado 4.o Abogado de Valdivia_ _ _ 1 16
+
+Grado 9.o Abogado de Iquique _ _ _ 1 18
+
+Grado 10° Abogado de La Serena _ _ 1 19
+
+-------------------------------------------------------
+
+El personal del Departamento de Defensa de la Ley de Alcoholes, estará afecto a lo dispuesto en el artículo 21° del decreto ley N° 249, de 1974.
+
+#### Artículo 5°
+
+Los cargos de la Planta Directiva, Profesional y Técnica del Departamento de Defensa de la Ley de Alcoholes que se crea en el artículo anterior, serán ocupados a contar del 1° de Enero de 1974, por los abogados que desempeñaban al 31 de Diciembre de 1973 los mismos cargos en dicho departamento, sin necesidad de nuevo decreto de nombramiento.
+
+#### Artículo 6°
+
+Fíjase a contar del 1° de Enero de 1974, para los trabajadores de la Corporación de Desarrollo de Valparaíso y Aconcagua, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Designación Actual Grado de la
+
+Escala Unica
+
+-------------------------------------------------------
+
+PERSONAL DIRECTIVO
+
+1) Vicepresidente 4
+
+2) Gerente General 5
+
+3) Director Adm. y Finanzas 6
+
+4) Director Ingeniería 6
+
+5) Fiscal 6
+
+El cargo de Gerente General y el de Director de Administración y Finanzas requerirá para su desempeño el título de Ingeniero Civil o Comercial.
+
+PERSONAL VICEPRESIDENCIA
+
+6) Secretaria Vicepresidencia 22
+
+7) Secretaria Gerencia 23
+
+PERSONAL DEPTO. ADM. Y FINANZAS
+
+8) Jefe Presupuesto y Contabilidad 13
+
+9) Ayudante de Contabilidad 20
+
+10) Ayudante de Presupuesto 20
+
+11) Secretaria 23
+
+El cargo de Ayudante de Presupuesto requerirá para su desempeño una experiencia previa de 4 años, a lo menos.
+
+PERSONAL DEPTO. DE INGENIERIA
+
+12) Ingeniero A 7
+
+13) Ingeniero B 8
+
+14) Ingeniero B 8
+
+15) Ayudante Ingeniero 18
+
+16) Secretaria 23
+
+El cargo de Ayudante de Ingeniería requerirá título de Técnico y una experiencia no inferior a 2 años.
+
+PERSONAL ADMINISTRATIVO
+
+17) Oficial Administrativo 27
+
+18) Oficial Administrativo 28
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1975.
+
+#### Artículo 7°
+
+Introdúcense, a contar del 1° de Enero de 1974, las siguientes modificaciones al decreto ley N° 295, de 1974, en el sentido de complementar el artículo 10° en la forma que se expresa:
+
+a) Agrégase en la Planta Directiva de Oficiales Administrativos un grado 6° con la equivalente de grado 20° de la Escala Unica, y
+
+b) Agrégase en la Planta Administrativa un grado 9° con equivalencia de grado 22° de la Escala Unica.
+
+#### Artículo 8°
+
+Introdúcense, a contar del 1° de Enero de 1974, las siguientes modificaciones al decreto ley N° 317, de 11 de Febrero de 1974:
+
+a) Agréganse en la Planta de Servicio mencionada en el artículo 2° los grados que se indican con la equivalencia que se expresa respecto de la Escala Unica:
+
+PLANTA DE SERVICIO
+
+-------------------------------------------------------
+
+Designación Actual Grado de la
+
+Escala Unica
+
+-------------------------------------------------------
+
+Gr. 12° __ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr. 13° __ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr. 14° __ __ __ __ __ __ __ __ __ __ __ 26
+
+Gr. 15° __ __ __ __ __ __ __ __ __ __ __ 26
+
+Gr. 16° __ __ __ __ __ __ __ __ __ __ __ 27
+
+Gr. 17° __ __ __ __ __ __ __ __ __ __ __ 27
+
+b) Agréganse en las Plantas Directivas de Oficiales Administrativos y de Oficiales Administrativos a que se hace mención en el artículo 3° y que dicen relación con la Fiscalía del Ministerio de Obras Públicas y Transportes, los grados que se señalan con la equivalencia que se indica dentro de la Escala Unica: PLANTA DIRECTIVA DE OFICIALES
+
+ADMINISTRATIVOS
+
+-------------------------------------------------------
+
+Designación Actual Grado de la
+
+Escala Unica
+
+-------------------------------------------------------
+
+Gr. 6°_ __ __ __ __ __ __ __ __ __ __ __ 20
+
+PLANTA DE OFICIALES ADMINISTRATIVOS
+
+Gr. 10° __ __ __ __ __ __ __ __ __ __ __ 23
+
+c) Agréganse en las Plantas Directivas de Oficiales Administrativos y Directiva de Oficiales Técnicos a que se refiere el artículo 4° y que dice relación con la Directiva de Planeamiento y Urbanismo, los grados que se indican con la equivalencia que se expresa dentro de la Escala Unica:
+
+-------------------------------------------------------
+
+Designación Actual Grado de la
+
+Escala Unica
+
+-------------------------------------------------------
+
+PLANTA DIRECTIVA DE OFICIALES
+
+ADMINISTRATIVOS
+
+Gr. 5°_ __ __ __ __ __ __ __ __ __ __ __ 19
+
+PLANTA DIRECTIVA DE OFICIALES TECNICOS
+
+Gr. 4°_ __ __ __ __ __ __ __ __ __ __ __ 19
+
+Gr. 5°_ __ __ __ __ __ __ __ __ __ __ __ 19
+
+Gr. 6°_ __ __ __ __ __ __ __ __ __ __ __ 20
+
+Gr. 7°_ __ __ __ __ __ __ __ __ __ __ __ 21
+
+d) Agréganse en la Planta Directiva de Oficiales Técnicos indicada en el artículo 5° y que se refiere a la Dirección de Arquitectura, los grados que se expresan con la equivalencia que se menciona dentro de la Escala Unica:
+
+-------------------------------------------------------
+
+Designación Actual Grado de la
+
+Escala Unica
+
+-------------------------------------------------------
+
+PLANTA DIRECTIVA DE OFICIALES TECNICOS
+
+Gr. 4°_ __ __ __ __ __ __ __ __ __ __ __ 19
+
+Gr. 7°_ __ __ __ __ __ __ __ __ __ __ __ 21
+
+e) Agréganse en las Plantas Directivas de Oficiales Administrativos y Directiva de Oficiales Técnicos a que hace mención el artículo 6° y que se refieren a la Dirección de Obras Sanitarias, los grados que se expresan con la equivalencia que se señala dentro de la Escala Unica:
+
+-------------------------------------------------------
+
+Designación Actual Grado de la
+
+Escala Unica
+
+-------------------------------------------------------
+
+PLANTA DIRECTIVA DE OFICIALES
+
+ADMINISTRATIVOS
+
+Gr. 8°__ __ __ __ __ __ __ __ __ __ __ __ 21
+
+PLANTA DIRECTIVA DE OFICIALES TECNICOS
+
+Gr. 8°__ __ __ __ __ __ __ __ __ __ __ __ 21
+
+f) Sustitúyense las Plantas de Arquitecto, de Oficiales Administrativos y Directiva de Oficiales Técnicos, contenidas en el artículo 8°, por las siguientes:
+
+-------------------------------------------------------
+
+Designación Actual Grado de la
+
+Escala Unica
+
+-------------------------------------------------------
+
+PLANTA DE ARQUITECTOS
+
+Gr. 3°__ __ __ __ __ __ __ __ __ __ __ __ 6°
+
+Gr. 4°__ __ __ __ __ __ __ __ __ __ __ __ 8°
+
+Gr. 5°__ __ __ __ __ __ __ __ __ __ __ __ 9°
+
+Gr. 6°__ __ __ __ __ __ __ __ __ __ __ __ 13°
+
+El o los cargos de Arquitectos grado 13° se transformarán en grado 19 a me- dida que vayan quedando vacantes.
+
+PLANTA DE OFICIALES ADMINISTRATIVOS
+
+Gr. 9°_ __ __ __ __ __ __ __ __ __ __ __ 22
+
+Gr. 10°_ __ __ __ __ __ __ __ __ __ __ __ 23
+
+GR. 11°_ __ __ __ __ __ __ __ __ __ __ __ 23
+
+Gr. 12°_ __ __ __ __ __ __ __ __ __ __ __ 23
+
+Gr. 13°_ __ __ __ __ __ __ __ __ __ __ __ 24
+
+Gr. 14°_ __ __ __ __ __ __ __ __ __ __ __ 24
+
+Gr. 15°_ __ __ __ __ __ __ __ __ __ __ __ 24
+
+Gr. 16°_ __ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr. 17°_ __ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr. 18°_ __ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr. 19°_ __ __ __ __ __ __ __ __ __ __ __ 27
+
+Gr. 20°_ __ __ __ __ __ __ __ __ __ __ __ 31
+
+PLANTA DIRECTIVA DE OFICIALES TECNICOS
+
+Gr. 4°_ __ __ __ __ __ __ __ __ __ __ __ 19
+
+Gr. 5°_ __ __ __ __ __ __ __ __ __ __ __ 19
+
+Gr. 6°_ __ __ __ __ __ __ __ __ __ __ __ 20
+
+Gr. 7°_ __ __ __ __ __ __ __ __ __ __ __ 21
+
+Gr. 8°_ __ __ __ __ __ __ __ __ __ __ __ 21
+
+g) Agréganse en las Plantas Directiva de Oficiales Administrativos y de Oficiales Técnicos a que se refiere el artículo 8°, los grados que se mencionan con la equivalencia que se indica dentro de la Escala Unica:
+
+-------------------------------------------------------
+
+Designación Actual Grado de la
+
+Escala Unica
+
+-------------------------------------------------------
+
+PLANTA DIRECTIVA DE OFICIALES
+
+ADMINISTRATIVOS
+
+Gr. 6°_ __ __ __ __ __ __ __ __ __ __ __ 20
+
+Gr. 7°_ __ __ __ __ __ __ __ __ __ __ __ 21
+
+PLANTA DE OFICIALES TECNICOS
+
+Gr. 17°_ __ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr. 19°_ __ __ __ __ __ __ __ __ __ __ __ 25
+
+h) Agréganse en las Plantas de Patrones de Bahía, de Personal de Dragas, de Construcciones Civiles, Directiva de Oficiales Administrativos, Directiva de Oficiales Técnicos y de Oficiales Técnicos a que se hace mención en el artículo 10°, y que dicen referencia con la Dirección de Obras Portuarias, los grados que se expresan con la equivalencia que se señala dentro de la Escala Unica:
+
+-------------------------------------------------------
+
+Designación Actual Grado de la
+
+Escala Unica
+
+-------------------------------------------------------
+
+PLANTA PATRONES DE BAHIA
+
+Gr. 7°_ __ __ __ __ __ __ __ __ __ __ __ 19
+
+PLANTA DE PERSONAL DE DRAGAS, REMOLCADORES
+
+Y OTROS ELEMENTOS A FLOTE
+
+Gr. 13°_ __ __ __ __ __ __ __ __ __ __ __ 23
+
+PLANTA DE CONSTRUCTORES CIVILES
+
+Gr. 15°_ __ __ __ __ __ __ __ __ __ __ __ 21
+
+PLANTA DIRECTIVA DE OFICIALES ADMINISTRATIVOS
+
+Gr. 7°__ __ __ __ __ __ __ __ __ __ __ __ 21
+
+Gr. 8°__ __ __ __ __ __ __ __ __ __ __ __ 21
+
+PLANTA DIRECTIVA DE OFICIALES TECNICOS
+
+Gr. 5°__ __ __ __ __ __ __ __ __ __ __ __ 19
+
+Gr. 6°__ __ __ __ __ __ __ __ __ __ __ __ 20
+
+Gr. 7°__ __ __ __ __ __ __ __ __ __ __ __ 21
+
+PLANTA DE OFICIALES TECNICOS
+
+Gr. 11°_ __ __ __ __ __ __ __ __ __ __ __ 23
+
+Gr. 14°_ __ __ __ __ __ __ __ __ __ __ __ 24
+
+#### Artículo 9°
+
+Sustitúyese, a contar del 1 de Enero de 1974, el artículo 12 del decreto ley N° 317, de 1974, por el siguiente:
+
+#### Artículo 12°
+
+Fíjase, para los trabajadores de la Junta de Aeronáutica Civil, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Designación actual Grado de la Escala
+
+Unica
+
+-------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Gr.2° Secretario General __ __ __ __ __ 6°
+
+Gr. 4° Abogado_ __ __ __ __ __ __ __ __ 8°
+
+El o los cargos de Abogado grado 8° se transformarán en grado 19, a medida que vayan quedando vacantes.
+
+PLANTA DIRECTIVA, ADMINISTRATIVA
+
+Gr. 5° Jefe de Presupuestos __ __ __ __ 19
+
+Gr. 6° Jefe de Estadísticas__ __ __ __ 20
+
+PLANTA ADMINISTRATIVA
+
+Gr. 10° Oficial Administrativo __ __ __ 23
+
+Gr. 12° Oficial Administrativo __ __ __ 25
+
+Gr. 14° Oficial Administrativo __ __ __ 26
+
+Gr. 17° Oficial Administrativo __ __ __ 27
+
+El o los cargos de Oficial Administrativo grado 27 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Gr. 12° Mayordomo_ __ __ __ __ __ __ __ 27
+
+Gr. 12° Auxiliar__ __ __ __ __ __ __ __ 27
+
+Gr. 13° Auxiliares __ __ __ __ __ __ __ 29
+
+Gr. 14° Auxiliar__ __ __ __ __ __ __ __ 31
+
+El o los cargos de Auxiliar grado 31° se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+#### Artículo 10°
+
+Agrégase, a contar del 1° de Enero de 1974, en la Planta Profesional del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, contenida en el artículo 6° del decreto ley N° 272, de 1974, las siguientes ubicaciones:
+
+-------------------------------------------------------
+
+Designación Actual Grado escala
+
+Unica
+
+-------------------------------------------------------
+
+8a. Cat. Técnicos Auxiliares __ __ __ __ 22
+
+8a. Cat. Bibliotecario __ __ __ __ __ __ 19
+
+#### Artículo 11°
+
+Introdúcense, a contar del 1° de Enero de 1974, en el artículo 11° del decreto ley N° 295, de 1974, cuyo texto fue fijado por el artículo 4° del decreto ley N° 361, de 1974, las siguientes modificaciones:
+
+a) Reemplázase en la Planta Directiva, Profesional y Técnica de la Subsecretaría, la ubicación "Grado 3° Jefe Administrativo_ _ 10" por
+
+"Grado 3° Jefe Administrativo_ _ 9".
+
+b) Reemplázase en la Planta Directiva, Profesional y Técnica de los Departamentos Dependientes, las ubicaciones "Grado 5° Contador _ 19", y "Grado 5° Jefe de Presupuestos 19" por "Grado 5° Contador...18", y "Grado 5° Jefe de Presupuestos 18" respectivamente.
+
+#### Artículo 12°
+
+Agréganse, a contar del 1° de Enero de 1974, en el artículo 21 del decreto ley N° 316, de 1974, la ubicación de los siguientes cargos en los grados de Escala Unica:
+
+-------------------------------------------------------
+
+Designación actual Grado Escala
+
+Unica
+
+-------------------------------------------------------
+
+Gr. 7° Bibliotecario__ __ __ __ __ __ __ __ 24
+
+Gr. 7° Experto en Prevención de Riesgos __ 21
+
+Gr. 10° Oficiales 2° jurídicos __ __ __ __ 23
+
+Gr. 7° Ayudantes 1° de Racionalización _ __ 19
+
+#### Artículo 13°
+
+Agréganse, a contar del 1° de Enero de 1974, en la Planta Directiva, Profesional y Técnica de la Caja Nacional de Empleados Públicos y Periodistas, contenida en el artículo 22° del decreto ley N° 317, de 1974, las siguientes ubicaciones:
+
+-------------------------------------------------------
+
+"Designación actual Grado de la Escala
+
+Unica
+
+-------------------------------------------------------
+
+3a. Cat. Secretario General_ __ __ __ __ __ 6
+
+3a. Cat. Jefe Oficina de Control__ __ __ __ 6
+
+4a. Cat. Jefe Contabilidad Central __ __ __ 10
+
+5a. Cat. Jefe Registros Cuentas Corrientes_ 15
+
+5a. Cat. Jefe de Oficina de Racionalización 12
+
+6a. Cat. Jefe de Subdepartamento__ __ __ __ 17
+
+6a. Cat. Calculista Actuarial__ __ __ __ __ 20
+
+6a. Cat. Estadístico__ __ __ __ __ __ __ __ 17
+
+7a. Cat. Racionalizador__ __ __ __ __ __ __ 19".
+
+#### Artículo 14°
+
+Introdúcense, a contar del 1° de Enero de 1974, en el artículo 23 del decreto ley N° 316, de 1974, las siguientes modificaciones:
+
+a) Agrégase la expresión "Arquitectos", precedida de una coma, en el escalafón de "Abogados, Ingenieros".
+
+b) Agrégase la expresión "Vista de Aduanas", precedida de una coma, en el escalafón de
+
+"Administradores Públicos".
+
+#### Artículo 15°
+
+Declárase que lo dispuesto en el artículo 7° del decreto ley N° 361, es aplicable como jornada mínima de trabajo para la Empresa de los Ferrocarriles del Estado, sin perjuicio de las jornadas especiales superiores a ella que por razones de operación o modalidades especiales del Servicio ferroviario, establezca el Director, las que en ningún caso podrán exceder de 48 horas semanales como jornada ordinaria.
+
+#### Artículo 16°
+
+Deróganse, a contar de la fecha de su vigencia, el inciso tercero del artículo 18° y el artículo 20° del decreto ley N° 249, de 1974.
+
+#### Artículo 17°
+
+Fíjase para los trabajadores de la Junta de Adelanto de Arica, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Gerente General F. G. 3
+
+Gerente Técnico F. G. 5
+
+Gerente Administ. y Finanzas F. G. 6
+
+Fiscal F. G. 6
+
+Subgerente Auditoría y
+
+Procedimiento F. G. 6
+
+Subgerente Operaciones F. G. 7
+
+Subgerente Estudio y Fomento F. G. 6
+
+Abogado Representante en Santiago F. G. 7
+
+Subgerente Administrativo F. G. 8
+
+Secretario y Ministro de Fe F. G. 9
+
+Jefe Depto. Auditoría 6 8
+
+Jefe Depto. Estudios 6 8
+
+Jefe Depto. Ingeniería 6 8
+
+Jefe Depto. Organización
+
+y Métodos 6 8
+
+Jefe Depto. Promoción y Crédito 6 8
+
+Jefe Depto. Proyectos 6 8
+
+Jefe Depto. Relaciones Laborales 7 8
+
+Abogados 7 9
+
+Arquitectos 7 9
+
+Ingenieros Civiles Jefes 7 9
+
+Ingenieros Civiles 7 9
+
+Ingenieros Comerciales 7 9
+
+Auditores 8 10
+
+Jefe Depto. Operaciones Externas 6 8
+
+Jefe Depto. Desarrollo Comunitario 6 12
+
+Jefe Depto. Contabilidad 8 12
+
+Jefe Depto. Control Presupuestario
+
+y Tesorería 7 12
+
+Jefe Depto. Promoción y
+
+Desarrollo Turístico 7 12
+
+Jefe Depto. Areas Verdes,
+
+Técnico Agrícola 8 12
+
+Jefe Depto. Relaciones
+
+Públicas, Periodista 8 12
+
+Jefe Depto. Bienes 9 13
+
+Jefe Depto. Fiscalización
+
+Casino Arica 8 12
+
+Jefe Depto. Operaciones Internas 9 13
+
+Jefe Depto. Abastecimiento 9 13
+
+Jefe Sección Bienestar
+
+(Asistencia Social) 10 13
+
+Constructores Civiles 9 10
+
+Periodistas 12 16
+
+Asistentes Sociales 11 14
+
+Jefe Sección Bodega 12 18
+
+Jefe Sección Construcción
+
+Areas Verdes 12 18
+
+Jefe Sección Control
+
+Presupuestario 12 18
+
+Jefe Sección Contabilización 13 18
+
+Jefe Sección Desarrollo
+
+Comunitario Rural 9 18
+
+Jefe Sección Desarrollo
+
+Comunitario Urbano 10 17
+
+Jefe Sección Inventario 12 18
+
+Jefe Sección Mantenimiento
+
+Areas Verdes 11 17
+
+Jefe Sección Mantenimiento
+
+Máquinas 11 18
+
+Jefe Sección Mantenimiento Obras 9 18
+
+Jefe Sección Personal 13 16
+
+Jefe Sección Procesamiento
+
+Contable 13 18
+
+Jefe Sección Remuneraciones 12 18
+
+Jefe Sección Tesorería 12 18
+
+Jefe Inspectores Casino Arica 10 16
+
+Ayudantes de Programación 12 16
+
+Ayudantes de Promoción y Crédito 12 18
+
+Topógrafos 11 18
+
+Administrador Vivero 14 19
+
+Dibujantes Técnicos 13 19
+
+Técnicos Agrícolas 14 19
+
+Educadoras de Párvulos 13 19
+
+Inspectores Sala Arica (Casino) 11 19
+
+Orientadoras de Hogar 13 19
+
+Jefe Sección Administración
+
+de Bienes 13 18
+
+Jefe Sección Control de Acuerdos 11 18
+
+Jefe Sección Importaciones 13 18
+
+Jefe Sección Viviendas 13 18
+
+Jefe Sección Compras Nacionales 15 18
+
+Jefe Oficina de Partes 17 18
+
+Ayudantes de Auditoría y
+
+Procedimiento 11 19
+
+Contador de Bienestar 15 20
+
+Asistente de Fiscalía 12 20
+
+Asistente de Gerencia General 12 20
+
+Asistente de Gerencia Técnica 12 20
+
+Cajero 13 21
+
+Promotores Comunitarios 13 21
+
+Promotores de Turismo 13 21
+
+Secretarios de Consejos 13 20
+
+Secretario de Presidencia 12 20
+
+Secretario de Secretaría 13 21
+
+Secretaría Ejecutiva Oficina
+
+de Santiago 13 20
+
+Administrador Balneario 18 22
+
+Administrador Estación Putre 14 22
+
+Administrador Estadio 18 22
+
+Administrador Piscina Olimpica 14 22
+
+Archivero General 17 22
+
+Ayudantes Inspectores de
+
+Ingeniería 14 22
+
+Electricistas de Vehículos 15 25
+
+Inspectores Credenciales
+
+Casino Arica 14 20
+
+Liquidadores de Remuneraciones 16 22
+
+Mecánicos 15 24
+
+Oficiales Contables 15 22
+
+Secretarios de Comisiones 14 22
+
+Secretarios de Subgerencias 15 21
+
+Jefes de Obras Desarrollo Comunal 16 21
+
+Auxiliares Contables 17 21
+
+Encargados de Bodegas 16 21
+
+Caldereros 16 25
+
+Conserje Edificio Plaza 18 25
+
+Electricistas 16 25
+
+Inspector de Propiedades 17 23
+
+Inspectores Puerta Casino 16 22
+
+Operadores de Máquinas Pesadas 17 25
+
+Pintor Desabollador 16 25
+
+Tornero 16 25
+
+Boletero Casino 18 23
+
+Oficiales Administrativos 18 25
+
+Operador Máquina Heliográfica 18 25
+
+Operador Roneo 19 25
+
+Pañolero 19 25
+
+Secretarias de Departamentos 18 23
+
+Auxiliares Administrativos 20 26
+
+Boletero Balneario 20 26
+
+Choferes 20 26
+
+Telefonistas 20 26
+
+Maestros Mayores y Mayordomos A 26
+
+Albañiles, dinamiteros,
+
+herreros, capataces, gásfiter,
+
+pintores, carpinteros, soldadores
+
+y tractoristas 1 25
+
+Electricistas 2°, mecánicos 2° 2 27
+
+Maestros jardineros,
+
+ascensoristas, encargados
+
+de máquinas segadoras, fumigador 3 28
+
+Ayudantes de albañil, pintor,
+
+soldador, mecánico, bodega,
+
+encargado motor compresor,
+
+gásfiter, fumigador,
+
+camiones, algibes 4 29
+
+Estafetas, colocador de placas 5 29
+
+Serenos, cuidadores y salvavidas 6 30
+
+Jardineros de primera, podadores,
+
+encargado cámara de humus 7 30
+
+Alarifes 8 31
+
+Jardineros de 2ª. 9 31
+
+Aseadores, guardarropas 10 32
+
+Operarios 11 32
+
+El o los cargos de Operarios grado 32 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 18°
+
+Sustitúyese, a contar del 1° de Enero de 1974, el artículo 6° del decreto ley N° 294, de 1974, por el siguiente:
+
+#### Artículo 6°
+
+Fíjase para los trabajadores del Instituto de Desarrollo Indígena, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Grado
+
+Designación Actual N° Func. Escala Unica
+
+-------------------------------------------------------
+
+PLANTA DIRECTIVA
+
+FC/A Director Ejecutivo __ __ 1 5
+
+FC/B Secretario General __ __ 1 9
+
+FC/C Inspector Visitador__ __ 1 9
+
+1a. Cat. Directores de División_ 4 10
+
+2a. Cat. Jefe Zonal Santiago__ __ 1 13
+
+2a. Cat. Jefes Zonales__ __ __ __ 3 13
+
+3a. Cat. Jefes de Departamento __ 4 15
+
+PLANTA PROFESIONAL Y TECNICA
+
+Escalafón de Abogados
+
+Cat. C __ __ __ __ __ __ __ __ 1 6
+
+Cat. D __ __ __ __ __ __ __ __ 1 11
+
+Cat. I __ __ __ __ __ __ __ __ 2 13
+
+Cat. II __ __ __ __ __ __ __ __ 2 15
+
+Cat. III __ __ __ __ __ __ __ __ 2 17
+
+Cat. IV __ __ __ __ __ __ __ __ 3 19
+
+Escalafón de Administradores Públicos
+
+Cat. II __ __ __ __ __ __ __ __ 1 8
+
+Cat. IV __ __ __ __ __ __ __ __ 2 19
+
+-------------------------------------------------------
+
+Grado
+
+Designación Actual N° Func. Escala Unica
+
+-------------------------------------------------------
+
+Escalafón de Técnicos Administrativos
+
+Cat. IV __ __ __ __ __ __ __ __ 1 23
+
+Cat. VII __ __ __ __ __ __ __ __ 3 26
+
+El o los cargos de grado 26°
+
+de este escalafón se transforma-
+
+rán en grado 30° a medida que
+
+vayan quedando vacantes.
+
+Escalafón de Archiveros
+
+Cat. II __ __ __ __ __ __ __ __ 1 21
+
+Escalafón de Contadores
+
+Cat. IV __ __ __ __ __ __ __ __ 2 20
+
+Cat. V __ __ __ __ __ __ __ __ 2 21
+
+El o los cargos de Contadores
+
+grado 21 se transformarán en
+
+grado 27 a medida que vayan
+
+quedando vacantes.
+
+Escalafón de Asistentes Contables
+
+(Egresados de Comercio).
+
+Cat. IV __ __ __ __ __ __ __ __ 1 23
+
+Cat. VI __ __ __ __ __ __ __ __ 1 25
+
+Cat. VII __ __ __ __ __ __ __ __ 1 26
+
+El o los cargos de Asistentes
+
+Contables grado 26 se transforma-
+
+rán en grado 30 a medida que
+
+vayan quedando vacantes.
+
+Escalafón de Asistentes de Comunicación
+
+Cat. VII __ __ __ __ __ __ __ __ 3 19
+
+El o los cargos de Asistentes
+
+de Comunicación grado 19 se
+
+transformarán en grado 25 a
+
+medida que vayan quedando
+
+vacantes.
+
+Para desempeñar los cargos de
+
+Asistentes de Comunicación se
+
+requerirá estar en posesión
+
+del Título de Técnico Univer-
+
+sitario.
+
+Escalafón de Expertos en Educación y
+
+Desarrollo Social
+
+Cat. II __ __ __ __ __ __ __ __ 1 20
+
+Cat. III __ __ __ __ __ __ __ __ 1 21
+
+Cat. IV __ __ __ __ __ __ __ __ 2 22
+
+Cat. V __ __ __ __ __ __ __ __ 2 23
+
+Cat. VI __ __ __ __ __ __ __ __ 2 24
+
+Cat. VII __ __ __ __ __ __ __ __ 3 25
+
+Para desempeñar los cargos de
+
+Expertos en Educación y Desarro-
+
+llo Social se requerirá el Tí-
+
+tulo de Profesor de Estado.
+
+Escalafón de Asistentes en Desarrollo
+
+Social
+
+Cat. IV __ __ __ __ __ __ __ __ 2 23
+
+El o los cargos de Asistentes
+
+en Desarrollo Social grado 23 se
+
+transformarán en grado 30 a
+
+medida que vayan quedando
+
+vacantes.
+
+Escalafón de Asistentes Sociales
+
+Cat. III __ __ __ __ __ __ __ __ 1 13
+
+Cat. IV __ __ __ __ __ __ __ __ 1 15
+
+Cat. V __ __ __ __ __ __ __ __ 1 18
+
+Cat. VI __ __ __ __ __ __ __ __ 3 21
+
+Cat. VII __ __ __ __ __ __ __ __ 3 23
+
+Escalafón de Dibujantes Técnicos
+
+Cat. VI __ __ __ __ __ __ __ __ 1 23
+
+Cat. VII __ __ __ __ __ __ __ __ 1 26
+
+Cat. VIII __ __ __ __ __ __ __ __ 1 27
+
+Escalafón de Inspectores Geodestas
+
+(Topógrafos)
+
+Cat. II __ __ __ __ __ __ __ __ 4 16
+
+Cat. III __ __ __ __ __ __ __ __ 4 18
+
+Cat. IV __ __ __ __ __ __ __ __ 4 20
+
+Cat. V __ __ __ __ __ __ __ __ 4 21
+
+Cat. VI __ __ __ __ __ __ __ __ 4 22
+
+Cat. VII __ __ __ __ __ __ __ __ 3 25
+
+Escalafón de Ingenieros Agrónomos
+
+Cat. C __ __ __ __ __ __ __ __ 1 9
+
+Cat. I __ __ __ __ __ __ __ __ 2 13
+
+El o los cargos de Ingenieros
+
+Agrónomos grado 13, se transfor-
+
+marán en grado 19 a medida que
+
+vayan quedando vacantes.
+
+Escalafón de Orientadora de Hogar y/o
+
+Nutriólogas
+
+Cat. VI __ __ __ __ __ __ __ __ 2 23
+
+Cat. VII __ __ __ __ __ __ __ __ 4 24
+
+El o los cargos de Orientadoras
+
+de Hogar y/o Nutriólogas grado 24
+
+se transformarán en grado 25 a
+
+medida que vayan quedando vacantes.
+
+-------------------------------------------------------
+
+N° de Grado de la
+
+Designación Actual Funcionarios Escala Unica
+
+-------------------------------------------------------
+
+Escalafón Técnico Forestal
+
+Cat. VII __ __ __ __ __ __ __ __ 1 21
+
+El o los cargos de Técnico
+
+Forestal grado 21 se transforma-
+
+rán en grado 25, a medida que
+
+vayan quedando vacantes.
+
+Escalafón de Antropólogos
+
+Cat. II __ __ __ __ __ __ __ __ 1 15
+
+El o los cargos de Antropólo-
+
+gos grado 15 se transformarán en
+
+grado 19 a medida que vayan
+
+quedando vacantes.
+
+Escalafón de Sociólogos
+
+Cat. II __ __ __ __ __ __ __ __ 1 17
+
+El o los cargos de Sociólogos
+
+grado 17 se transformarán en
+
+grado 22 a medida que vayan
+
+quedando vacantes.
+
+Escalafón de Técnicos Agrícolas
+
+Cat. V __ __ __ __ __ __ __ __ 5 19
+
+Cat. VI __ __ __ __ __ __ __ __ 2 20
+
+Cat. VII __ __ __ __ __ __ __ __ 4 21
+
+Cat. VIII __ __ __ __ __ __ __ __ 3 22
+
+El o los cargos de Técnicos
+
+Agrícolas grado 22 se transfor-
+
+marán en grado 25 a medida que
+
+vayan quedando vacantes.
+
+Escalafón de Prácticos Agrícolas
+
+Cat. II __ __ __ __ __ __ __ __ 3 16
+
+Cat. V __ __ __ __ __ __ __ __ 1 19
+
+Cat. VII __ __ __ __ __ __ __ __ 2 21
+
+Cat. VIII __ __ __ __ __ __ __ __ 1 22
+
+El o los cargos de Prácticos
+
+Agrícolas grado 22 se transfor-
+
+marán en grado 25 a medida que
+
+vayan quedando vacantes.
+
+Escalafón de Técnicos y Asistentes en
+
+Cooperativas
+
+Cat. V __ __ __ __ __ __ __ __ 1 19
+
+Cat. VI __ __ __ __ __ __ __ __ 1 20
+
+Cat. VII __ __ __ __ __ __ __ __ 3 21
+
+El o los cargos de Técnicos y
+
+Asistentes en Cooperativas grado
+
+21 se transformarán en grado 25
+
+a medida que vayan quedando
+
+vacantes.
+
+PLANTA ADMINISTRATIVA
+
+Escalafón Oficiales Administrativos
+
+Cat. A __ __ __ __ __ __ __ __ 4 19
+
+Cat. B __ __ __ __ __ __ __ __ 3 20
+
+Cat. C __ __ __ __ __ __ __ __ 5 21
+
+Cat. D __ __ __ __ __ __ __ __ 4 22
+
+Cat. E __ __ __ __ __ __ __ __ 6 23
+
+Cat. F __ __ __ __ __ __ __ __ 6 24
+
+Cat. G __ __ __ __ __ __ __ __ 4 25
+
+Gr. 1° __ __ __ __ __ __ __ __ 2 27
+
+Gr. 2° __ __ __ __ __ __ __ __ 1 29
+
+Gr. 3° __ __ __ __ __ __ __ __ 1 31
+
+PLANTA DE SERVICIOS
+
+Escalafón de Auxiliares
+
+Cat. A __ __ __ __ __ __ __ __ 2 25
+
+Cat. B __ __ __ __ __ __ __ __ 1 27
+
+Cat. C __ __ __ __ __ __ __ __ 2 28
+
+Cat. D __ __ __ __ __ __ __ __ 3 29
+
+Cat. E __ __ __ __ __ __ __ __ 2 30
+
+Cat. F __ __ __ __ __ __ __ __ 3 31
+
+Gr. 1° __ __ __ __ __ __ __ __ 4 32
+
+Gr. 2° __ __ __ __ __ __ __ __ 4 33
+
+Gr. 3° __ __ __ __ __ __ __ __ 3 35
+
+Escalafón de Mayordomos
+
+Cat. A __ __ __ __ __ __ __ __ 1 25
+
+Cat. B __ __ __ __ __ __ __ __ 1 27
+
+Escalafón de Choferes
+
+Cat. A __ __ __ __ __ __ __ __ 1 28
+
+Cat. B __ __ __ __ __ __ __ __ 3 28
+
+Cat. C __ __ __ __ __ __ __ __ 4 29
+
+Cat. D __ __ __ __ __ __ __ __ 3 29
+
+Cat. E __ __ __ __ __ __ __ __ 2 30
+
+Cat. F __ __ __ __ __ __ __ __ 8 31
+
+Gr. 1° __ __ __ __ __ __ __ __ 6 33
+
+Escalafón de Auxiliares Especializados
+
+(Manipuladoras)
+
+Gr. 1° __ __ __ __ __ __ __ __ 2 30
+
+Gr. 2° __ __ __ __ __ __ __ __ 2 31
+
+Gr. 3° __ __ __ __ __ __ __ __ 3 33
+
+Gr. 4° __ __ __ __ __ __ __ __ 2 34
+
+Gr. 5° __ __ __ __ __ __ __ __ 1 35
+
+#### Artículo 19°
+
+Fíjase para los trabajadores del Consejo de Defensa del Niño, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo N° de Func. Escala Unica
+
+--------------------------------------------------------
+
+Presidente Ejecutivo 1 5
+
+Director de los Servicios 1 7
+
+Contralor 1 8
+
+Jefe Contabilidad 1 12
+
+Jefe Adquisiciones 1 12
+
+Jefe Serv. Administrativos 1 12
+
+Jefe Serv. Judicial 1 10
+
+Jefe Asistentes Sociales 1 12
+
+Jefe Serv. Social 1 11
+
+Subjefe Serv. Social 1 13
+
+Directora Ciudad del Niño 1 12
+
+Directoras 7 18
+
+Directoras 7 19
+
+Subjefe Contabilidad 1 16
+
+Subjefe Judicial 1 14
+
+Secretario General 1 13
+
+Arquitecto 1 15
+
+Inspector General de Servicios 1 12
+
+Jefe de Personal 1 14
+
+Oficial Oficina de Compras 1 22
+
+Jefe de Bodega 1 20
+
+Secretario Contralor 1 24
+
+Asistentes Sociales 3 14
+
+Asistentes Sociales 3 15
+
+Asistentes Sociales 6 16
+
+Asistentes Sociales 3 18
+
+Asistentes Sociales 3 20
+
+Asistentes Sociales 31 21
+
+Abogados 2 17
+
+Procurador 1 22
+
+Procurador 1 23
+
+Procurador 1 25
+
+Psicólogos 4 14
+
+Psicólogos 1 18
+
+Enfermeras 2 15
+
+Enfermeras 2 18
+
+Nutricionista 1 16
+
+Nutricionista 1 20
+
+Profesor 1 15
+
+Profesor 1 17
+
+Profesores 2 19
+
+Profesores 5 21
+
+Profesores 8 23
+
+Ecónomas 7 20
+
+Ecónomas 2 22
+
+Ecónomas 5 23
+
+Ecónomas 2 24
+
+Ecónomas 1 25
+
+Ecónomas 2 26
+
+Contadores 3 18
+
+Contadores 1 20
+
+El o los cargos de Contadores de grado 20º se transformarán en grado 27º a medida que vayan quedando vacantes.
+
+Inspectores de Hogares 1 19
+
+Inspectores de Hogares 1 21
+
+Inspectores de Hogares 1 23
+
+Inspectores de Hogares 1 25
+
+Inspectores de Hogares 1 26
+
+Inspectores de Hogares 3 27
+
+Enfermera Auxiliar 3 23
+
+Enfermera Auxiliar 1 24
+
+Enfermera Auxiliar 2 25
+
+Enfermera Auxiliar 2 26
+
+Enfermera Auxiliar 3 27
+
+Enfermera Auxiliar 6 28
+
+Enfermera Auxiliar 1 29
+
+Enfermera Auxiliar 1 30
+
+El o los cargos de Enfermera Auxiliar de grado 30º se transformarán en grado 32º a medida que vayan quedando vacantes.
+
+Estadística 1 18
+
+Oficiales Técnicos o Secretarias 2 19
+
+Oficiales Técnicos o Secretarias 6 20
+
+Oficiales Técnicos o Secretarias 2 21
+
+Oficiales Técnicos o Secretarias 2 22
+
+Oficiales Técnicos o Secretarias 1 23
+
+Oficiales Técnicos o Secretarias 3 24
+
+Oficiales Técnicos o Secretarias 2 25
+
+Oficiales Técnicos o Secretarias 4 26
+
+Oficiales Técnicos o Secretarias 2 28
+
+Oficiales Técnicos o Secretarias 1 29
+
+El o los cargos de Oficiales Técnicos o de Secretarias de grado 29º se transformarán en grado 31º a medida que vayan quedando vacantes.
+
+Ayudante de Hogar 2 23
+
+Ayudante de Hogar 1 24
+
+Ayudante de Hogar 7 25
+
+Ayudante de Hogar 35 26
+
+Ayudante de Hogar 20 27
+
+Ayudante de Hogar 19 28
+
+Ayudante de hogar 27 29
+
+Ayudante de Hogar 17 30
+
+Ayudante de Hogar 2 33
+
+El o los cargos de Ayudante de Hogar grado 33º del último nivel se transformarán en grado 35º a medida que vayan quedando vacantes.
+
+Chofer 1 25
+
+Choferes 2 27
+
+Choferes 2 29
+
+Choferes 2 31
+
+Gásfiter o Carpintero o Jardinero 2 26
+
+Gásfiter o Carpintero o Jardinero 2 27
+
+Gásfiter o Carpintero o Jardinero 3 29
+
+Gásfiter o Carpintero o Jardinero 8 31
+
+Ropera 1 25
+
+Portero 1 29
+
+Portero 1 30
+
+Portero 1 31
+
+Nocheras Veladoras 3 27
+
+Nocheras Veladoras 2 29
+
+Nocheras Veladoras 7 30
+
+Nocheras Veladoras 6 31
+
+Nocheras Veladoras 6 33
+
+El o los cargos de Nocheras Veladoras de grado 33º se transformarán en grado 35º a medida que vayan quedando vacantes.
+
+Auxiliar de Ropería 1 27
+
+Auxiliar de Ropería 1 29
+
+Auxiliar de Ropería 1 31
+
+Auxiliar de Ropería 2 32
+
+El o los cargos de Auxiliar de Ropería de grado 32º se transformarán en grado 35º, a medida que vayan quedando vacantes.
+
+Estafeta 1 31
+
+Estafeta 4 32
+
+Estafeta 6 33
+
+El o los cargos de Estafeta de grado 33º se transformarán en grado 35º, a medida que vayan quedando vacantes.
+
+Cuidadores 5 27
+
+Cuidadores 2 28
+
+Cuidadores 5 29
+
+Cuidadores 6 30
+
+Cuidadores 6 31
+
+Aseadores 3 31
+
+Aseadores 3 32
+
+Aseadores 4 33
+
+Bañera 1 27
+
+Bañera 1 28
+
+Bañera 1 29
+
+Bañeras 4 30
+
+Bañeras 5 31
+
+Bañeras 5 32
+
+El o los cargos de Cuidadores, Aseadores y Bañeras de grados 31º, 33º y 32º, respectivamente, se transformarán en grados 33º, 35º y 33º, a medida que vayan quedando vacantes.
+
+Maestras de Cocina 4 24
+
+El o los cargos de Maestras de Cocina grado 24 se transformarán en grado 28º, a medida que vayan quedando vacantes.
+
+Cocineras 5 30
+
+Cocineras 33 31
+
+Cocineras 30 32
+
+Auxiliares de Cocina 5 33
+
+El o los cargos de Auxiliares de Cocina de grado 33º se transformarán en grado 35º a medida que vayan quedando vacantes.
+
+Rondín 1 31
+
+Rondines 3 32
+
+Rondines 3 33
+
+Técnico Universitario Colegiado 1 17
+
+Administrativos 3 19
+
+Administrativos 1 20
+
+Administrativos 1 21
+
+Administrativos 1 22
+
+Administrativos 1 23
+
+El o los cargos de Administrativos de grado 23º se transformarán en grado 31º a medida que vayan quedando vacantes.
+
+Mayordomo Cuidador 1 26
+
+#### Artículo 20°
+
+Sin perjuicio de lo dispuesto en el artículo 21 del decreto ley N° 249, de 1974, el Presidente Ejecutivo del Consejo de Defensa del Niño podrá establecer jornadas especiales superiores, por razones de operación o modalidades especiales del servicio, las que en ningún caso excederán de 48 horas semanales como jornada ordinaria.
+
+#### Artículo 21°
+
+Fíjase para los trabajadores del Servicio de Cooperación Técnica, de conformidad con lo dispuesto en el artículo 13 del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+Servicio de Cooperación Técnica
+
+Escalafones/Cargo Nivel Grado N°
+
+E.U.S. Cargos
+
+Directivos Superiores
+
+-Gerente General I 2° 1
+
+-Gerentes de Areas II 3° 5
+
+-Fiscal III 4° 1
+
+-Subgerentes Area III 4° 3
+
+----
+
+10
+
+Directivos
+
+-Jefes Departamentos I 5° 5
+
+-Directores Regionales I 5° 4
+
+-Jefes Departamentos II 6° 2
+
+-Directores Regionales II 6° 3
+
+-Jefes Departamentos III 7° 3
+
+-Directores Regionales III 7° 4
+
+-Jefe Departamento III 8° 1
+
+-Director Regional III 8° 1
+
+----
+
+23
+
+Jefaturas A
+
+-Jefatura A I 9° 3
+
+-Jefatura A II 10° 2
+
+----
+
+5
+
+Jefaturas B
+
+-Jefatura B I 11° 4
+
+-Jefatura B I 12° 6
+
+-Jefatura B II 13° 8
+
+----
+
+18
+
+Profesionales y Técnicos Universitarios
+
+-Profesionales 5° 2
+
+-Profesionales 6° 13
+
+-Profesionales 7° 8
+
+-Profesionales 8° 11
+
+-Profesionales 9° 14
+
+-Profesionales 10° 17
+
+-Profesionales 11° 16
+
+-Profesionales 12° 13
+
+-Profesionales 13° 16
+
+-Profesionales y Técnicos
+
+Universitarios 14° 15
+
+-Profesionales y Técnicos
+
+Universitarios 15° 8
+
+-Profesionales y Técnicos
+
+Universitarios 16° 2
+
+-Profesional y Técnico
+
+Universitario 17° 1
+
+-----
+
+136
+
+Contadores
+
+-Contadores I 10° 2
+
+-Contadores I 12° 5
+
+-Contador II 13° 1
+
+----
+
+8
+
+Oficiales Administrativos
+
+-Oficiales
+
+Administrativos I 14° 6
+
+-Oficiales
+
+Administrativos I 15° 7
+
+-Oficiales
+
+Administrativos II 16° 15
+
+-Oficiales
+
+Administrativos II 17° 16
+
+-Oficiales
+
+Administrativos II 18° 13
+
+-Oficiales
+
+Administrativos II 19° 19
+
+-Oficiales
+
+Administrativos III 20° 10
+
+-Oficiales
+
+Administrativos III 21° 6
+
+-Oficiales
+
+Administrativos III 22° 2
+
+-Oficiales
+
+Administrativos III 23° 2
+
+-Oficiales
+
+Administrativos III 24° 2
+
+----
+
+98
+
+Choferes
+
+-Choferes I 20° 4
+
+-Choferes I 21° 6
+
+-Choferes I 22° 4
+
+14
+
+Auxiliares
+
+-Auxiliares I 21° 2
+
+-Auxiliares I 22° 2
+
+-Auxiliares II 23° 2
+
+-Auxiliares II 24° 2
+
+----
+
+8
+
+#### Artículo 22°
+
+Intercálase, a contar del 1° de Enero de 1974, en el escalafón "Directivos" de la Planta Directiva, Profesional y Técnica de la Caja de Previsión de la Defensa Nacional contenida en el artículo 34 del decreto ley N° 316, de 1974, lo siguiente:
+
+"4a. Cat. Jefe del Hogar Infantil Cartagena__ __ 16".
+
+Agrégase, en la misma Planta Directiva, Profesional y Técnica, el cargo de Matrona, grado 1°, con la equivalencia del grado 22 de la Escala Unica.
+
+#### Artículo 23°
+
+Sustitúyese, a contar del 1° de Enero de 1974, el artículo 10° del decreto ley N° 249, de 1974, por el siguiente:
+
+#### Artículo 10°
+
+Los trabajadores del Sector Público que en su carácter de tales y por razón de servicio deban ausentarse del lugar de su desempeño habitual, dentro del territorio nacional, tendrán derecho a percibir un subsidio, que se denominará viático, para los gastos de alimentación y alojamiento en que incurrieren.
+
+El monto diario del viático será de E° 16.000,- para los trabajadores de grado 1° a 5° de la escala del artículo 1°, de E° 12.000,- para los de grado 6° a 25°, y E° 8.000,- para los de grado 26° a 35°.
+
+Para la determinación del monto del viático que corresponda a los trabajadores no encasillados en la escala del artículo 1°, se estará a la equivalencia más cercana que exista entre sus remuneraciones mensuales permanentes y las de los distintos grados de dicha escala. Respecto del personal regido por los DFL. 1, de Guerra, y DFL. 2, de Interior, ambos de 1968, se entenderá por remuneración mensual permanente, para los efectos de la determinación del viático, el sueldo, los trienios y la bonificación profesional.
+
+No obstante lo anterior, a los profesionales regidos por la ley N° 15.076 y al personal docente que dependa del Ministerio de Educación les corresponderá, aun cuando su remuneración mensual permanente sea inferior a la del grado 25° el viático de E° 12.000,-.
+
+Corresponderá el viático de E° 8.000,- al personal a que se refiere la ley N° 8.059, sea remunerado o ad honorem.
+
+Los trabajadores que no tengan que pernoctar fuera del lugar de su desempeño habitual, sólo tendrán derecho a recibir por concepto de viático la cantidad de E° 4.800,- al día, cualquiera sea el grado de la escala única en que estén ubicados.
+
+Por decreto supremo del Ministerio de Hacienda, podrá modificarse el monto del viático fijado en este artículo.
+
+El viático que corresponda a los trabajadores de la Empresa de los Ferrocarriles del Estado se regirá por las normas especiales establecidas o que se establezcan sobre el particular.
+
+#### Artículo 24°
+
+Declárase interpretando el sentido del artículo 5° del decreto ley N° 249, de 1973, que el artículo 90 de la ley N° 17.416 se encuentra derogado desde el 1° de Enero de 1974.
+
+#### Artículo 25°
+
+Declárase que los profesores de Enseñanza Básica a que se refería el artículo 90 de la ley N° 17.416, conservan los nombramientos de horas de clases existentes con anterioridad a la vigencia de la ley N° 17.416, salvo que hubieren expirado dichos nombramientos en virtud de otras causales después de la fecha de promulgación de la citada ley.
+
+#### Artículo 26
+
+Sustitúyese, a contar del 1° de Enero de 1974, el artículo 7° del decreto ley N° 249, de 1974, por el siguiente:
+
+#### Artículo 7°
+
+El trabajador que para el desempeño de un empleo se vea obligado a residir en una provincia o territorio que reúna condiciones especiales derivadas del aislamiento o del costo de vida recibirá la asignación de zona que a continuación se indica para los lugares que en cada caso se señalan:
+
+PROVINCIA DE TARAPACA__ __ __ __ __ __ __ __ __ 40%
+
+El personal que preste sus servicios en Parina-
+
+cota, Chucuyo, Chungará, Belén, Cosapilla,
+
+Caquena, Chilcaya, Huayatiri, Distrito de Is-
+
+luga, Chiapa, Chusmiza, Cancosa, Mamiña,
+
+Huataconde, Laguna de Huasco, Camiña, Quis-
+
+tagama, Distrito de Camiña, Nama Camiña,
+
+Manquecolchane, Tignamiar, Socoroma, Chapi-
+
+quiña, Enquelga, Distrito de Cariquima, So-
+
+toca, Jaiña, Chapiquilta, Miñi-Miñe, Parca y
+
+Macaya, Portezuelo de Chapiquiña, Caritaya,
+
+Putre, Alzérreca, Potroma, Sibaya, Laonza-
+
+na, Pachica, Coscaya, Mocha, Tarapacá-Pue-
+
+blo, Sibavaña, Illala, Huaviña, Huarasiña,
+
+Muca y localidades de Aguas Calientes, Hu-
+
+mapalca, Ancolane, Cobija, Cuya, Llucuma,
+
+Villa Industrial y Visviri,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 80%
+
+El personal que preste sus servicios en Molinos,
+
+Chitita, Pago de Gómez, Lluta, San Miguel,
+
+La Palma, San José, Negreiros, Poconchile,
+
+Puquios, Central, Codpa, Chislluma, General
+
+Lagos, Avanzada de Aduanas de Chaca, Camaro-
+
+nes, Pisagua, Zapiga, Aguada, Tarapacá, Hua-
+
+ra, Caleta de Huanillos, Pintados, Matilla,
+
+Pica Iris, Victoria (ex Brac),
+
+de Alianza, Buenaventura, Posta
+
+Rosario, Subdelegación de Pozo Almonte,
+
+"Campamento Militar Baquedano" y Chucumata,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 55%
+
+PROVINCIA DE ANTOFAGASTA__ __ __ __ __ __ __ __ 30%
+
+El personal que preste sus servicios en el de-
+
+partamento de Tocopilla y en las localidades
+
+de Coya Sur, María Elena, Pedro de Valdivia,
+
+José Francisco Vergara, Calama, Chuquicamata
+
+y departamento de Loa,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 35%
+
+El personal que preste sus servicios en Chiu-
+
+Chiu, San Pedro de Atacama, Toconao, Estación
+
+San Pedro, Quillagua, Prosperidad, Rica Aven-
+
+tura, Empresa, Algorta, Mina Despreciada,
+
+Chacanca, Miraje, Catico, Mejillones, Baque-
+
+dano, Mantos Blancos, Pampa Unión, Sierra
+
+Gorda, Concepción, La Paloma, Estación Chela
+
+y departamento de Taltal,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 40%
+
+El personal que preste sus servicios en Ascotan,
+
+Socaire, Peine, Caspana, Monturaquí, Olla-
+
+güe, Ujina (Ex Collahuasi), Río Grande, To-
+
+conce, Amincha e Inacaliri,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 80%
+
+PROVINCIA DE ATACAMA __ __ __ __ __ __ __ __ __ 25%
+
+El personal que preste sus servicios en las lo-
+
+calidades de Salado, Pueblo Hundido, Llanta,
+
+Totoralillo, Las Juntas, Tierra Amarilla,
+
+San Antonio, Los Loros, Bordos, Pabellón,
+
+El Tránsito, Conay, La Pampa, El Corral,
+
+La Higuerita, San Félix, La Majada, Retamo,
+
+Domeyko, Viscachitas, Carrizalillo, Carrizal
+
+Alto y Carrizal Bajo tendrá el_ __ __ __ __ 35%
+
+El personal que preste sus servicios en Potre-
+
+rillos, El Salvador, La Pólvora y Azufrera,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 55%
+
+PROVINCIA DE COQUIMBO__ __ __ __ __ __ __ __ __ 10%
+
+El personal que preste sus servicios en los de-
+
+partamentos de Elqui, Ovalle, Combarbalá e
+
+Illapel tendrá el__ __ __ __ __ __ __ __ __ 15%
+
+El personal que preste sus servicios en la lo-
+
+calidad de Rivadavia, Juntas de Ovalle, Rapel
+
+Y Cogotí el 18, tendrá el__ __ __ __ __ __ 25%
+
+El personal que preste sus servicios en las lo-
+
+calidades de Tulahuén y Huanta,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 30%
+
+El personal que preste sus servicios en la lo-
+
+calidad de El Chañar y Juntas,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 35%
+
+PROVINCIA DE ACONCAGUA
+
+El personal que preste sus servicios en las lo-
+
+calidades de Alicahue, Cerro Negro y Chincolco
+
+y los distritos Pedernal, Chalaco y El So-
+
+brante,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 10%
+
+El personal que preste sus servicios en las lo-
+
+calidades de San Francisco, Alto de Campos de
+
+Ahumada, El Tártaro, Retén Vega de los
+
+Ciénagos y Retén y Refugio Militar de Los
+
+Patos,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 15%
+
+El personal que preste sus servicios en la lo-
+
+calidad de Río Blanco y Refugio Militar de
+
+Juncal,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 20%
+
+El personal que preste sus servicios en la lo-
+
+calidad de Caracoles,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 40%
+
+PROVINCIA DE VALPARAISO
+
+El personal que preste sus servicios en la Is-
+
+la de Juan Fernández,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 70%
+
+El personal que preste sus servicios en el de-
+
+partamento de Isla de Pascua,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 140%
+
+PROVINCIA DE SANTIAGO
+
+El personal que preste sus servicios en Las Me-
+
+losas, Los Queltehues, El Volcán, San Ga-
+
+briel, Los Maitenes, Bocatoma y los retenes
+
+Pérez Caldera y Farellones,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 10%
+
+El personal que preste sus servicios en Embal-
+
+se y Avanzada El Yeso,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 20%
+
+PROVINCIA DE O'HIGGINS
+
+El personal que preste sus servicios en la lo-
+
+calidad de Sewell,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 10%
+
+PROVINCIA DE COLCHAGUA
+
+El personal que preste sus servicios en la lo-
+
+calidad de Puente Negro,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 10%
+
+PROVINCIA DE CURICO
+
+El personal que preste sus servicios en la lo-
+
+calidad de Los Queñes, La Jaula y Potrero
+
+Grande,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 10%
+
+PROVINCIA DE TALCA
+
+El personal que preste sus servicios en el de-
+
+partamento de Curepto y en las localidades
+
+de Coipué, Huenchullami, Rapilermo, Estan-
+
+cilla, Pumunul, Macal, Llongocura, Las
+
+Trancas, Los Cipreses, La Mina y Paso
+
+Nevado,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 25%
+
+PROVINCIA DE MAULE
+
+El personal que preste sus servicios en las
+
+localidades de Putú, Toconey, Empedrado y
+
+Faro Carranza,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 20%
+
+PROVINCIA DE LINARES
+
+El personal que preste sus servicios en las lo-
+
+calidades de Quebrada de Medina, Rari, Pe-
+
+jerrey, Vega de Salas y Confluencia, Loma de
+
+Vásquez, Vega de las Casas, Cajón de Los
+
+Hualles, Bullileo, Los Canelos, Junquillo y
+
+Las Guardias,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 40%
+
+PROVINCIA DE ÑUBLE.
+
+El personal que preste sus servicios en el de-
+
+partamento de Itata y en las comunas de San
+
+Carlos, Ñiquén, San Fabián de Alico, Pemu-
+
+co, San Nicolás, El Carmen, Yungay y Tuca-
+
+pel,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 25%
+
+El personal que preste sus servicios en la lo-
+
+calidad de Atacalco,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 30%
+
+PROVINCIA DE CONCEPCION __ __ __ __ __ __ __ __ 20%
+
+El personal que preste sus servicios en las lo-
+
+calidades de Canancia, Quilaco, Quilacoya,
+
+San Onofre, Millahue, Pichaco, Las Ulloas,
+
+Las Margaritas y Las Pataguas,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 25%
+
+PROVINCIA DE BIO BIO __ __ __ __ __ __ __ __ __ 15%
+
+El personal que preste sus servicios en la Sub-
+
+delegación de Quilleco y Refugio Mariscal
+
+Alcázar,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 25%
+
+PROVINCIA DE ARAUCO_ __ __ __ __ __ __ __ __ __ 25%
+
+El personal que preste sus servicios en la Isla
+
+Santa María y en la Isla Mocha,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 35%
+
+PROVINCIA DE MALLECO __ __ __ __ __ __ __ __ __ 15%
+
+El personal que preste sus servicios en el de-
+
+partamento de Curacautín,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 35%
+
+El personal que preste sus servicios en las lo-
+
+calidades de Villa Portales, Malalcahuello,
+
+Troyo, Liucura, Sierra Nevada, Icalma y Pun-
+
+ta de Rieles,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 55%
+
+PROVINCIA DE CAUTIN_ __ __ __ __ __ __ __ __ __ 15%
+
+El personal que preste sus servicios en las lo-
+
+calidades de Trovolhue, Tierra Impehue, Lon-
+
+coyano, Huamaqui, comunas de Puerto Saavedra,
+
+Toltén, Loncoche, Villarrica y Pucón,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 20%
+
+El personal que preste sus servicios en la Zona
+
+de Llaima,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 35%
+
+PROVINCIA DE VALDIVIA__ __ __ __ __ __ __ __ __ 15%
+
+El personal que preste sus servicios en las lo-
+
+calidades de Quechumalal, Puñir, Toledo,
+
+Choshuenco, Liquiñe, Lican-Ray, Coñaripe,
+
+Huahun y Refugio Militar Choshuenco,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 30%
+
+PROVINCIA DE OSORNO_ __ __ __ __ __ __ __ __ __ 15%
+
+El personal que preste sus servicios en las lo-
+
+calidades de San Juan de la Costa, Hueyusca
+
+y Riachuelo,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 25%
+
+El personal que preste sus servicios en las lo-
+
+calidades de Puyehue, Refugio Militar Anti-
+
+llanca y Retén de Carabineros Pajaritos,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 30%
+
+PROVINCIA DE LLANQUIHUE __ __ __ __ __ __ __ __ 15%
+
+El personal que preste sus servicios en los de-
+
+partamentos de Maullín y Calbuco, y en Puer-
+
+to Varas,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 20%
+
+El personal que preste sus servicios en la Sub-
+
+delegación de Cochamó, Distrito de Llanada
+
+Grande, Lenca, Contao, Hualaihué, Lleguiman,
+
+Quillarpe, Punta Quillarpe y Piedra Azul y en
+
+las localidades de Los Pinis, El Llolle,
+
+Daitao, EL Dao, Coleco, Abtao, Aguantao,
+
+Huaiquén, Chayahue, Huito, El Rosario, Siete
+
+Colinas, Rulo, San Agustín y Peulla,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 35%
+
+El personal que preste sus servicios en las is-
+
+las de la provincia,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 40%
+
+El personal que preste sus servicios en los Re-
+
+tenes de Carabineros de Paso Bolsón y Paso
+
+León,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 70%
+
+PROVINCIA DE CHILOE_ __ __ __ __ __ __ __ __ __ 40%
+
+EL personal que preste sus servicios en
+
+Chiloé Continental y demás islas de la
+
+provincia, con excepción de la Isla de
+
+Chiloé,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 70%
+
+El personal que preste sus servicios en Isla
+
+Huafo, Isla Desertores, Archipiélago de las
+
+Guaitecas, Melinka, Futalelfú, Chaitén,
+
+Palena, Faros Rapel y Auchilú,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 90%
+
+PROVINCIA DE AYSEN__ __ __ __ __ __ __ __ __ __ 60%
+
+El personal que preste sus servicios en Puerto
+
+Aysen, Puerto Chacabuco, Villa Manihuales,
+
+Coyhaique, Coyhaique Alto, Balmaceda, Valle
+
+Simpson, EL Blanco, Criadero Militar Las Ban-
+
+durrias y Puerto Viejo,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 105%
+
+El personal que preste sus servicios en Chile
+
+Chico, Baker, Lago Castor, Puerto Ingeniero
+
+Ibáñez, La Colonia, Río Mayer, Ushuaia,
+
+Puerto Aguirre, Puerto Cisnes, Puerto Bonito,
+
+Puyuhuapi, Lago Verde, La Tapera, Cochrane,
+
+Caleta Tortel, Lago O'Higgins, Lago General
+
+Carrera, Faro San Pedro y Faro Raper,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 125%
+
+PROVINCIA DE MAGALLANES __ __ __ __ __ __ __ __ 70%
+
+El personal que preste sus servicios en los de-
+
+partamentos de Ultima Esperanza y Tierra del
+
+Fuego,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 85%
+
+El personal que preste sus servicios en las lo-
+
+calidades de San Pedro, Muñoz Gamero, Villa
+
+Tehuelche y Cutter Cove, Punta Delgada y
+
+Dungenes, Isla Dawson,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 95%
+
+El personal que preste sus servicios en
+
+Puerto Williams e Isla Navarino,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 105%
+
+El personal que preste sus servicios en Puerto
+
+Edén, Yendegala, Islas Picton, Lenox y Nue-
+
+va, Puestos Vigías dependientes de la Base
+
+Naval Williams,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 115%
+
+El personal que preste sus servicios en Islotes
+
+Evangelistas y Faros Félix y Fair Way,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 125%
+
+El personal que preste sus servicios en la Isla
+
+Diego Ramírez,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 190%
+
+GRATIFICACION ESPECIAL ANTARTICA, ESTABLECIDA EN LA
+
+LETRA b) DEL ARTICULO 118 DEL DFL. N° 1, DE 1968.
+
+El personal de la Defensa Nacional que forme
+
+parte de la Comisión Antártica de relevo,
+
+mientras dure la Comisión, y el personal
+
+del Instituto Antártico Chileno que deba
+
+desempeñar comisiones de servicio en el
+
+Territorio Antártico,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 300%
+
+El personal destacado en la Antártica,
+
+tendrá el_ __ __ __ __ __ __ __ __ __ __ __ 600%
+
+La asignación de zona determinada por los porcentajes indicados en este artículo, será la única que regirá, a contar del 1° de Enero de 1974 para los trabajadores de todos los Servicios, Instituciones, Empresas y Entidades del sector público a los cuales la legislación vigente al 31 de Diciembre de 1973 otorgaba este beneficio.
+
+Los porcentajes se calcularán para los trabajadores a quienes se aplica la escala de artículo 1°, sobre el sueldo de dicha escala y la respectiva asignación de antigüedades. Respecto de los demás se calcularán sobre la base de sus remuneraciones mensuales permanentes.
+
+La asignación de zona establecida en este artículo incluye la asignación especial establecida en la letra e) del artículo 130 del DFL. N° de 1968.
+
+La asignación de zona se devengará mientras el trabajador conserve la propiedad de su empleo en la provincia o territorio correspondiente.
+
+#### Artículo 27°
+
+Fíjase para los trabajadores del Consejo Nacional de Televisión, de acuerdo con lo dispuesto en el artículo 13, del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Secretario Ejecutivo Gr. 1 4
+
+Subsecretario Ejecutivo Gr. 2 5
+
+Secretario Abogado Gr. 3 6
+
+Jefes de Depto. Gr. 3 7
+
+Técnicos Gr. 12 17
+
+PLANTA ADMINISTRATIVA
+
+Oficial Administrativo Gr. 10 19
+
+Oficial Administrativo Gr. 12 20
+
+Oficial Administrativo Gr. 13 21
+
+Oficial Administrativo Gr. 14 22
+
+Oficial Administrativo Gr. 16 24
+
+Oficial Administrativo Gr. 17 27
+
+El o los cargos de Oficial Administrativo grado 27 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+PLANTA AUXILIAR
+
+Mayordomo Gr. 17 25
+
+Auxiliares Gr. 18 31
+
+El o los cargos de Auxiliares grado 31 se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 28°
+
+Sustitúyese a contar del 1° de Enero de 1974, el artículo 8° del decreto ley N° 294, de 1974, por el siguiente:
+
+#### Artículo 8°
+
+Fíjase para los trabajadores del Instituto Forestal, de conformidad con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+PLANTA DIRECTIVA Y DE JEFATURAS
+
+-------------------------------------------------------
+
+Grado
+
+Cargo Cat./Grado Escala Unica
+
+-------------------------------------------------------
+
+Director Ejecutivo_ __ __ __ __ Cat. A 5
+
+Subdirector__ __ __ __ __ __ __ Cat. A 5
+
+Jefes División_ __ __ __ __ __ Cat. B 6
+
+Asesor Legal_ __ __ __ __ __ __ Cat. B 6
+
+Subjefe Div. Finan. y Admin. __ Cat. C 7
+
+Jefes de Departamentos __ __ __ Cat. C 7
+
+Secretario de Estudios __ __ __ Cat. C 8
+
+Jefe Sección Cartografía__ __ Cat. D 12
+
+Jefe Sección Presupuesto __ __ Cat. E 13
+
+Jefe Sección Mantenimiento de
+
+Vehículos __ __ __ __ __ __ __ Cat. E 14
+
+Jefe Sección Personal __ __ __ Cat. F 16
+
+Jefe Sección Contabilidad__ __ Cat. F 15
+
+Jefe Sección Publicaciones_ __ Cat. F 16
+
+Relacionador Público_ __ __ __ Cat. F 17
+
+Jefe Sección Biblioteca_ __ __ Cat. F 17
+
+Jefe Sección Administración__ Cat. F 17
+
+Jefe Sección Bienestar__ __ __ Cat. F 17
+
+Jefe Sección Inventario y
+
+Control de Bienes__ __ __ __ __ Cat. F 17
+
+Jefe de Imprenta __ __ __ __ __ Cat. G 18
+
+Jefe Sección Registro y
+
+Archivo __ __ __ __ __ __ __ __ Cat. H 18
+
+PLANTA PROFESIONAL Y TECNICA
+
+Escalafón de Abogados, Arquitectos, Ingenieros Civiles, Industriales, Comerciales, Agrónomos, Forestales
+
+-------------------------------------------------------
+
+Grado
+
+Cat./Grado Escala Unica
+
+-------------------------------------------------------
+
+1.a Cat. _ __ __ __ __ __ __ __ __ __ __ 5
+
+2.a Cat. _ __ __ __ __ __ __ __ __ __ __ 5
+
+1g _ __ __ __ __ __ __ __ __ __ __ 6
+
+2g _ __ __ __ __ __ __ __ __ __ __ 7
+
+3g _ __ __ __ __ __ __ __ __ __ __ 8
+
+4g _ __ __ __ __ __ __ __ __ __ __ 9
+
+5g _ __ __ __ __ __ __ __ __ __ __ 13
+
+6g _ __ __ __ __ __ __ __ __ __ __ 14
+
+7g _ __ __ __ __ __ __ __ __ __ __ 15
+
+8g _ __ __ __ __ __ __ __ __ __ __ 16
+
+11g _ __ __ __ __ __ __ __ __ __ __ 18
+
+El o los cargos de grado 18° se transformarán en grado 19° a medida que vayan quedando vacantes.
+
+Se entenderá cumplido el requisito de ingreso para el personal en Servicio.
+
+Escalafón de Constructores Civiles, Ingenieros de Ejecución y Químicos Industriales
+
+5 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 10
+
+6 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 11
+
+7 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 15
+
+8 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 15
+
+9 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 16
+
+10 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 19
+
+11 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 20
+
+El o los cargos de grado 20° se transformarán en grado 21° a medida que vayan quedando vacantes
+
+Escalafón de Sociólogos y Periodistas
+
+7 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 13
+
+9 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 16
+
+El o los cargos de grado 16° se transformarán en grado 22° a medida que vayan quedando vacantes.
+
+Escalafón de Asistentes Sociales
+
+9 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 16
+
+El o los cargos de grado 16° se transformarán en grado 23° a medida que vayan quedando vacantes.
+
+Escalafón de Nutricionistas
+
+12 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 21
+
+El o los cargos de grado 21° se transformarán en grado 24°, a medida que vayan quedando vacantes.
+
+-------------------------------------------------------
+
+Grado
+
+Cat./Grado Escala Unica
+
+-------------------------------------------------------
+
+Escalafón de Técnicos con título Universitario
+
+9 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 14
+
+10 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 15
+
+11 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 16
+
+12 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 21
+
+13 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 22
+
+15 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 24
+
+El o los cargos de grado 24° se transformarán en grado 25°, a medida que vayan quedando vacantes.
+
+Escalafón de Educadoras de Párvulos y Bibliotecarias
+
+11 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 20
+
+12 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 21
+
+El o los cargos de grado 21° se transformarán en grado 25° a medida que vayan quedando vacantes.
+
+Escalafón de Contadores
+
+13 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 21
+
+14 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 23
+
+El o los cargos de grado 23° se transformarán en grado 27° a medida que vayan quedando vacantes.
+
+Escalafón de Técnicos con título no universitario.
+
+Prácticos Forestales y Agrícolas
+
+14 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 19
+
+15 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 20
+
+16 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+18 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+El o los cargos de grado 27° se transformarán en grado 30° a medida que vayan quedando vacantes.
+
+Dibujantes Técnicos
+
+14 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 19
+
+El o los cargos de grado 19° se transformarán en grado 27° a medida que vayan quedando vacantes.
+
+Encargados de Talleres
+
+14 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 19
+
+20 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+El o los cargos de grado 27° se transformarán en grado 33° a medida que vayan quedando vacantes.
+
+Mecánicos Ajustadores
+
+16 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+18 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+El o los cargos de grado 27 se transformarán en grado 33 a medida que vayan quedando vacantes.
+
+Perfoverificadoras y operadoras de composición
+
+14 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 23
+
+El o los cargos de grado 23 se transformarán en grado 30 a medida que vayan quedando vacantes.
+
+Fotógrafos
+
+17 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 26
+
+El o los cargos de grado 26 se transformarán en grado 30 a medida que vayan quedando vacantes.
+
+Auxiliares de Párvulos
+
+18 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+El o los cargos de grado 27 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Escalafón de Auxiliares de Enfermería
+
+18 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+El o los cargos de grado 27 se transformarán en grado 32 a medida que vayan quedando vacantes.
+
+PLANTA EXPERTOS
+
+Escalafón de Expertos de operación y mantención de equipos
+
+5 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 10
+
+6 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 11
+
+9 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 14
+
+10 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 15
+
+11 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 20
+
+12 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 21
+
+15 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 24
+
+18 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+Para el desempeño de estos cargos se requerirá acreditar especalización en el área de a lo menos 10 años.
+
+El o los cargos de grado 25 se transformarán en grado 27 a medida que queden vacantes.
+
+Escalafón de Expertos en procesor industriales
+
+7 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 13
+
+10 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 18
+
+El o los cargos de grado 18 se transformarán en grado 27 a medida que queden vacantes.
+
+-------------------------------------------------------
+
+Grado
+
+Cat./Grado Escala Unica
+
+-------------------------------------------------------
+
+Escalafón de Expertos en Análisis Estadísticos
+
+15 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 24
+
+El o los cargos de grado 24 se transformarán en grado 30 a medida que queden vacantes.
+
+Escalafón de Expertos en Seguridad
+
+13 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 22
+
+El o los cargos de grado 22 se transformarán en grado 30 a medida que queden vacantes.
+
+Escalafón de Expertos en Aerofotogrametría
+
+5 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 10
+
+Para el desempeño de este cargo se requerirá acreditar estudios de especialización en la materia y a lo menos 10 años de experiencia.
+
+PLANTA ADMINISTRATIVA
+
+Escalafón de Oficiales Administrativos
+
+14 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 19
+
+17 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 22
+
+18 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 24
+
+19 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+20 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+21 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 29
+
+El o los cargos de grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Escalafón de Operadores Telefónicos
+
+18 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 24
+
+El o los cargos de grado 24 se transformarán en grado 33 a medida que queden vacantes.
+
+Escalafón de Oficiales de Contabilidad y Presupuesto
+
+15 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 20
+
+17 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 22
+
+18 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 24
+
+El o los cargos de grado 24 se transformarán en grado 31 a medida que queden vacantes.
+
+Escalafón de Secretarias
+
+14 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 19
+
+16 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 21
+
+17 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 22
+
+18 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 24
+
+El o los cargos de grado 24 se transformarán en grado 31 a medida que queden vacantes.
+
+PLANTA ADMINISTRATIVA AUXILIAR
+
+Escalafón de Auxiliares especializados
+
+20 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+21 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+22 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 29
+
+23 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 30
+
+24 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 32
+
+El o los cargos de grado 32 se transformarán en grado 33 a medida que vayan quedando vacantes.
+
+Escalafón de Serenos, Porteros y Mensajeros
+
+20 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+21 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+23 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 30
+
+El o los cargos de grado 30 se transformarán en grado 35 a medida que queden vacantes.
+
+Escalafón de Choferes
+
+20 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+21 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 29
+
+El o los cargos de grado 29 se transformarán en grado 33 a medida que queden vacantes.
+
+Escalafón de Auxiliares de Servicio
+
+23 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 30
+
+24 __ __ __ __ __ __ __ __ __ __ __ __ __ __ 32
+
+El o los cargos de grado 32 se transformarán en grado 35 a medida que queden vacantes.
+
+#### Artículo 29°
+
+Declárase que las rectificaciones de ubicación en la escala única del decreto ley N° 249, de 1974, cuando otorguen en definitiva a un cargo determinado un grado de menor remuneración, regirán respecto de dichas rectificaciones, desde el 1° del mes siguiente al de la fecha de su publicación en el Diario Oficial y no podrán significar que el trabajador respectivo deba devolver la mayor remuneración percibida hasta dicha fecha.
+
+#### Artículo 30°
+
+Fíjase para los trabajadores del Instituto de Fomento Pesquero, a contar del 1° de Enero de 1974, de acuerdo con lo dispuesto en el artículo 13 del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA Y JEFATURAS
+
+Director Ejecutivo A 4
+
+Jefes División B 5
+
+Jefes Deptos. Operativos C 6
+
+Jefes Deptos. Especializados C 7
+
+Jefes Oficinas de Apoyo Operativo C 8
+
+Jefes Deptos. Servicios Grales. D 9
+
+Jefes Delegaciones Zonales D 8
+
+Jefes Secciones Operativas D 10
+
+Jefes oficinas Especializadas D 11
+
+Jefes Secciones S.S. Especializ E 13
+
+Jefes Secciones Operativas Zonales E 13
+
+Jefes Bases Zonales E 13
+
+Jefes Secciones de Serv. IPOF.
+
+Central F 15
+
+Jefes Secciones de Serv.
+
+Deleg. Zonales F 15
+
+PLANTA DE INVESTIGADORES
+
+Médicos Veterinarios, Ingenieros Ejecución en Pesca, Biólogos Marinos, Ing. Civiles, Ing. Comerciales, Ing. Químicos, Zoólogos, Administ. Públicos, Profesores Químicos, Quimicos Farmacéuticos, Ing. Ejec. Alimentos, Microbiólogos, Diseñadores, Profesores, Licenciados en Biología.
+
+B 5
+
+C 7
+
+D 8
+
+E 9
+
+F 11
+
+1 14
+
+2 17
+
+Para ingresar a esta Planta se requiere tener experiencia mínima de un año de funciones en el Sector Pesquero.
+
+PLANTA DE TECNICOS
+
+Técnico Ind. Alimentos E 14
+
+Laboratorista Químico F 15
+
+Técnico Estadístico F 15
+
+Técnico Ind. Alimentos F 15
+
+Capitán de Barco 1 15
+
+Bibliotecaria 1 18
+
+El o los cargos de Bibliotecaria grado 18 se transformarán en grado 23, a medida que vayan quedando vacantes.
+
+Técnico Ind. Alimentos 1 18
+
+Técnico en Museología 2 19
+
+Piloto Avión 3 15
+
+Técnico Ind. Alimentos 3 20
+
+Piloto Barco 3 20
+
+Técnico Mecánico 4 22
+
+Patrón Embarcación 5 23
+
+El o los cargos de Patrón Embarcación grado 23 se transformarán en grado 25, a medida que vayan quedando vacantes.
+
+Técnico en Electricidad 5 23
+
+El o los cargos de Técnico en Electricidad grado 23 se transformarán en grado 25, a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA
+
+Administrativo 3 19
+
+Administrativo 4 20
+
+Administrativo 5 21
+
+Administrativo 6 22
+
+Contador General 7 23
+
+Administrativo 7 23
+
+Asistente Administrativo 8 24
+
+Auxiliar Contabilidad 8 24
+
+Asistente Administración 9 25
+
+Auxiliar Contabilidad 9 25
+
+Programador 9 25
+
+Asistente Administrativo 11 26
+
+Asistente Administrativo 11 27
+
+El o los cargos de Asistente Administrativo grado 27 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Mensajero 12 28
+
+Mensajero 13 29
+
+Mensajero 14 30
+
+El o los cargos de Mensajero grado 30 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+PLANTA SECRETARIAS
+
+Secretaria Dirección 3 19
+
+Secretaria Dirección 4 20
+
+Secretaria División 5 21
+
+Secretaria División 6 22
+
+Secretaria Departamento 7 23
+
+Secretaria Departamento 8 24
+
+Secretaria Sección 9 25
+
+Secretaria Sección 10 26
+
+El o los cargos de Secretaria Sección grado 26 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+PLANTA APOYO
+
+Analista 3 19
+
+Asistente Pesquerías 4 20
+
+Asistente Oceanografía 4 20
+
+Asistente Laboratorio 4 20
+
+Analista 4 20
+
+Asistente Pesquerías 5 21
+
+Analista 5 21
+
+Encargado Planta Piloto 5 21
+
+Asistente Pesquerías 6 22
+
+Operador Imprenta 6 22
+
+Asistente Laboratorio 6 22
+
+Asistente Pesquerías 7 23
+
+Motorista Embarcación 7 23
+
+Muestreador 7 23
+
+Electricista Jefe Taller 7 23
+
+Asistente Laboratorio 8 24
+
+Asistente Analista 8 24
+
+Asistente Pesquerías 8 24
+
+Motorista Embarcación Jefe 8 24
+
+Asistente Pesquerías 9 25
+
+Motorista Embarcación 9 25
+
+Asistente Laboratorio 9 25
+
+Muestreador 9 25
+
+Hombre-Rana 9 25
+
+Electricista 9 25
+
+Radio Operador 9 25
+
+Telefonista 9 25
+
+Contramaestre 9 25
+
+Chofer 10 26
+
+Tripulante 10 26
+
+Carpintero 10 26
+
+Bodeguero 10 26
+
+Ayudante Laboratorio 11 27
+
+Tripulante 11 27
+
+Muestreador 11 27
+
+Chofer 11 27
+
+Mayordomo 11 27
+
+Ayudante Carpintería 11 27
+
+Ayudante Planta Piloto 12 28
+
+Tripulante 12 28
+
+Chofer 12 28
+
+Portero 12 28
+
+Manipulador 12 28
+
+Gásfiter 12 28
+
+Ayudante Manipulador 13 29
+
+Cuidador Balsa 13 29
+
+Sereno 13 29
+
+Jardinero 14 30
+
+Watchiman 14 30
+
+Obrero Ostricola 15 32
+
+Obrero Mitícola 15 32
+
+El o los cargos de grado 32 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El Nº 8 del Art. 1º del DTO 1131, Hacienda, publicado el 02.03.1978, suprimió los cargos vacantes que señala.
+
+#### Artículo 31°
+
+Fíjase para los trabajadores de la Corporación Nacional Forestal, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+DIRECTIVOS SUPERIORES
+
+Director Ejecutivo A 3
+
+Gerente Técnico B 4
+
+Gerente Finanzas y Administración B 5
+
+Fiscal B 5
+
+Jefe Oficina de Planificación C 6
+
+Secretario General C 6
+
+Auditor Interno C 6
+
+Jefes Deptos. Técnicos de
+
+Silvicultura C 6
+
+Jefes Deptos. Producción C 6
+
+Jefe Depto. Conservación C 6
+
+Jefe Depto. Protección, Desarrollo
+
+y Comunicaciones C 6
+
+Jefe Depto. Finanzas C 6
+
+Jefe Depto. Administración y
+
+Comercialización C 6
+
+Directores Zonales D 7
+
+Jefes Regionales de Planificación D 7
+
+Jefe Estudios y Sistemas D 7
+
+Jefe Estudios Técnicos D 7
+
+Jefes Regionales 1 5
+
+JEFATURAS
+
+Jefes Secciones
+
+Técnicas (Nacional) 2 9
+
+Jefes Secciones
+
+Administ. (Nacional) 2 9
+
+Jefes Secciones Técnicas
+
+y Adm. (Nacional) 3 10
+
+Jefes de Area 3 10
+
+Jefes Deptos. Técnicos Zonales 3 10
+
+Jefes Secciones Técnicas
+
+y Adm. (Nacional) 4 11
+
+Jefes de Area 4 11
+
+Jefes Deptos. Técnicos Zonales 4 11
+
+Jefes Deptos. Finanzas y
+
+Adm. Zonales 4 11
+
+Jefes de Oficinas (Nacional) 4 11
+
+Jefe de Bienestar (Nacional) 4 11
+
+Jefe Secciones Técnicas y
+
+Adm. (Nacional) 5 12
+
+Jefes de Area 5 12
+
+Jefes Deptos. Técnicos Zonales 5 12
+
+Jefes Deptos. Finanzas y
+
+Adm. Zonales 5 12
+
+Jefes de Oficinas (Nacional) 5 12
+
+Jefes de Oficinas o Secciones
+
+Zonales (Técnicas o Administrativas) 6 13
+
+Jefes de Oficinas en Areas 6 13
+
+Jefes de Unidades de Manejo Forestal 6 13
+
+Jefes de Oficinas o Secciones
+
+Zonales (Técnicas o Administrativas) 7ª 14
+
+Jefes de Oficinas en Area 7ª 14
+
+Jefes de Unidades de Manejo
+
+Forestal 7ª 14
+
+Jefes de Oficinas o Secciones
+
+Zonales (Técnicas o Administrativas) 8ª 15
+
+Jefes de Oficinas en Area 8ª 15
+
+Jefes de Unidades de Manejo
+
+Forestal 8ª 15
+
+Jefes de Unidades de Manejo
+
+Forestal 9ª 16
+
+Jefes de Equipos y Taller 9ª 16
+
+Supervisores Forestales 9ª 16
+
+Jefes de Unidades de Manejo
+
+Forestal 10ª 17
+
+Jefes de Equipos y Taller 10ª 17
+
+Supervisores Forestales 10ª 17
+
+Jefes de Equipos y Taller 11ª 16
+
+Supervisores Forestales 11ª 18
+
+Jefes de Equipos y Taller 12ª 19
+
+Supervisores Forestales 12ª 19
+
+PROFESIONALES Y TECNICOS
+
+Los cargos de Profesionales y Expertos a los cuales se les exijan los títulos de Ingenieros Forestales, Abogados, Ingenieros Comerciales, Ingenieros Agrónomos, Médicos Veterinarios, Arquitectos, tendrán la siguiente ubicación:
+
+Profesionales 1ª 6
+
+Profesionales y Expertos 2ª 7
+
+Profesionales y Expertos 3ª 8
+
+Profesionales y Expertos 4ª 9
+
+Profesionales y Expertos 5ª 10
+
+Profesionales y Expertos 6ª 11
+
+Profesionales y Expertos 7ª 12
+
+Profesionales y Expertos 8ª 13
+
+Profesionales y Expertos 9ª 15
+
+Profesionales y Expertos 10ª 16
+
+Expertos 11ª 18
+
+Expertos 12ª 19
+
+Los cargos de Profesionales y Expertos a los cuales se les exijan los títulos de Constructor Civil, Ingeniero de Ejecución, Contador Auditor, Administrador Público, Biólogo, Técnicos Forestales con experiencia de, a lo menos, 2 años, Geógrafos tendrán la siguiente ubicación:
+
+Profesionales 3 8
+
+Profesionales y Expertos 4 9
+
+Profesionales y Expertos 5 10
+
+Profesionales y Expertos 6 11
+
+Profesionales y Expertos 7 12
+
+Profesionales y Expertos 8 13
+
+Profesionales y Expertos 9 14
+
+Profesionales y Expertos 10 15
+
+Profesionales y Expertos 11 16
+
+Profesionales y Expertos 12 17
+
+Los cargos de Profesionales y Expertos a los cuales se les exijan los títulos de: Periodista, Asistente Social, Técnico Administrativo, Contador con experiencia de, a lo menos 2 años, y para el desempeño de cargo de Jefe de Grupo en los niveles 12 a 15, Técnico Agrícola, Prácticos Forestales y Agrícolas, Dibujantes Técnicos y Topógrafos, tendrán la siguiente ubicación:
+
+Profesionales 6 12
+
+Profesionales y Expertos 7 13
+
+Profesionales y Expertos 8 14
+
+Profesionales y Expertos 9 15
+
+Profesionales y Expertos 10 16
+
+Profesionales y Expertos 11 17
+
+Profesionales y Expertos 12 18
+
+Profesionales y Expertos 13 19
+
+Profesionales y Expertos 14 20
+
+Expertos 15 21
+
+Expertos 16 22
+
+Los cargos de Expertos a los cuales no se les exija el título de ninguna de las profesiones mencionadas anteriormente, tendrán la siguiente ubicación:
+
+Expertos 7 19
+
+Expertos 8 20
+
+Expertos 9 21
+
+Expertos 10 22
+
+Expertos 11 23
+
+Expertos 12 24
+
+Expertos 13 25
+
+Expertos 14 27
+
+Expertos 15 28
+
+Expertos 16 29
+
+Administrativos
+
+Administrativos 10 19
+
+Administrativos 11 20
+
+Administrativos 12 21
+
+Administrativos 13 22
+
+Administrativos 14 23
+
+Administrativos 15 25
+
+Administrativos 16 27
+
+Administrativos 17 28
+
+Administrativos 18 29
+
+El o los cargos de Administrativos grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Servicios Menores y Oficios
+
+12 25
+
+13 26
+
+14 27
+
+15 27
+
+16 28
+
+17 29
+
+18 30
+
+19 31
+
+20 31
+
+21 32
+
+22 33
+
+El o los cargos de grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 32°
+
+Fíjase para los trabajadores de la Junta de Desarrollo Industrial de Bio-Bio, Malleco y Cautín, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Administración General
+
+A) PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Vicepresidente Ejecutivo 4 4
+
+Secretario General 6 6
+
+Delegado Provincial 10 10
+
+Jefe de Finanzas 8 8
+
+Jefe de Contabilidad 10 10
+
+Contador 18 18
+
+Asesor Legal 8 8
+
+B) PLANTA ADMINISTRATIVA
+
+Coordinador y Relacionador 12 12
+
+Jefe Administrativo 14 14
+
+Secretaria Ejecutiva 19 19
+
+Oficial Administrativo 21 21
+
+Secretaria 24 24
+
+Secretaria Delegación 25 25
+
+Secretaria Delegación 27 25
+
+El o los cargos de Secretaria Delegación grado 25° se transformarán en grado 31° a medida que vayan quedando vacantes. Esta disposición se refiere al último nivel de Secretaria Delegación.
+
+C) PLANTA DE SERVICIOS
+
+Asistente 29 29
+
+Asistente 31 31
+
+Chofer 27 27
+
+El o los cargos de Chofer grado 27° se transformarán en grado 33° a medida que vayan quedando vacantes.
+
+Departamento Técnico
+
+A) PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Ingeniero Jefe Depto. 6 6
+
+Ingeniero Jefe Sección
+
+Planificación 7 7
+
+Ingeniero Sección Planificación 9 9
+
+Ingeniero Ayudante Planificación 12 12
+
+Ingeniero Jefe Sección Proyectos 8 8
+
+Ingeniero Sección Proyecto 11 10
+
+Ingeniero Sección Proyecto 12 12
+
+Constructor Civil 12 12
+
+Ingeniero Depto. Finanzas 9 9
+
+Jefe Fomento Artesanal 10 10
+
+B) PLANTA ADMINISTRATIVA
+
+Secretaria 24 24
+
+El o los cargos de Secretaria grado 24° se transformarán en grado 31° a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud.- Victoria Arellano Stark, Subsecretario de Hacienda.
