@@ -1,0 +1,7 @@
+AUTORIZA A SOCIEDAD LASTRA Y COMPAÑIA LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 237, de 04 de Marzo de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Lastra y Compañía Ltda., domiciliada en Concepción, para ampliar las actividades pesqueras que tiene autorizadas por resolución No. 303 de 1986, de esta Subsecretaría en orden a operar una planta industrial en la X Región, ubicada en Avenida España No. 706, Valdivia, donde procesará en la línea de congelado los siguientes recursos hidrobiológicos: Anchoa, bacalao de J. Fernández, bacalao de profundidad o mero, caballa, cojinova del Norte, congrio dorado, congrio negro, jurel, lenguado de ojos chicos, machuelo o tritre, merluza común, pejegallo, pejerrey de mar, raya, sardina española, sardina común, trucha arcoiris, almeja o taca, almeja, caracol trumulco, lapa, loco, macha, camarón nailon, jaiba, langostino colorado y langostino amarillo. El recurso trucha arcoiris deberá provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de Marzo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
