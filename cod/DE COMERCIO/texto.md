@@ -2126,47 +2126,63 @@ La inscripción deberá hacerse antes de expirar los sesenta días siguientes a 
 
 #### Artículo 355
 
-Suprimido.
+Si en la escritura social se hubiere
+
+omitido el domicilio social se entenderá domiciliada la
+
+sociedad en el lugar de otorgamiento de aquélla.
+
+#### Artículo 355
+
+A.- La omisión de la escritura pública de constitución o de modificación, o de su inscripción oportuna en el Registro de Comercio, produce nulidad absoluta entre los socios, con la salvedad de lo dispuesto en los artículos 356, inciso primero, y 361, inciso primero.
+
+El cumplimiento oportuno de la inscripción producirá efectos retroactivos a la fecha de la escritura.
 
 #### Artículo 356
 
-Suprimido.
+La sociedad que no conste de escritura pública, o de instrumento reducido a escritura pública o de instrumento protocolizado, es nula de pleno derecho y no podrá ser saneada.
+
+No obstante lo anterior, si existiere de hecho dará lugar a una comunidad. Las ganancias y pérdidas se repartirán y soportarán y la restitución de los aportes se efectuará entre los comuneros con arreglo a lo pactado y, en subsidio, de conformidad a lo establecido para la sociedad.
+
+Los miembros de la comunidad responderán solidariamente a los terceros con quienes hubieren contratado a nombre y en interés de ésta; y no podrán oponer a los terceros la falta de los instrumentos mencionados en el inciso primero. Los terceros podrán acreditar la existencia de hecho por cualquiera de los medios probatorios que reconoce este Código, y la prueba será apreciada de acuerdo a las reglas de la sana crítica.
 
 #### Artículo 357
 
-La omisión de la escritura social o de su inscripción en el registro de comercio produce nulidad absoluta entre los socios.
+La sociedad que adolezca de nulidad por incumplimiento de lo prescrito en el artículo 350 gozará de personalidad jurídica y será liquidada como una sociedad si consta de escritura pública o de instrumento reducido a escritura pública o protocolizado. Todo ello, sin perjuicio del saneamiento del vicio en conformidad con la ley.
 
-Estos, sin embargo, responderán solidariamente a los terceros con quienes hubieren contratado a nombre y en interés de la sociedad de hecho.
+Los socios responderán solidariamente a los terceros con quienes hubieren contratado a nombre y en interés de la sociedad de hecho.
 
 #### Artículo 358
 
-El cumplimiento tardío de las solemnidades prescritas, la ratificación expresa y la ejecución voluntaria del contrato no lo purgan del vicio de nulidad.
+La ejecución voluntaria del contrato de sociedad no purga la nulidad de que adolezca por incumplimiento de solemnidades legales, sin perjuicio del saneamiento a que alude el artículo anterior.
 
 #### Artículo 359
 
-Si la nulidad se declarase estando aún pendiente la sociedad de hecho, los socios procederán a la liquidación de las operaciones anteriores, sujetándose a las reglas del cuasicontrato de comunidad.
+El que contratare con una sociedad que no ha sido legalmente constituida, no puede sustraerse por esta razón al cumplimiento de sus obligaciones.
 
 #### Artículo 360
 
-Los socios no podrán alegar la nulidad del contrato, ni por vía de acción ni por vía de excepción, después de disuelta la sociedad de hecho.
+Los hechos comprendidos en el inciso segundo del artículo 350 sólo producen efecto contra terceros desde que se deje constancia de su ocurrencia, en la forma indicada en dicho artículo.
 
 #### Artículo 361
 
-Tampoco podrán alegar la falta de una o más de las solemnidades mencionadas contra los terceros interesados en la existencia de la sociedad, y éstos podrán acreditarla por cualquiera de los medios probatorios que reconoce este Código.
+La modificación cuyo extracto no ha sido oportunamente inscrito en el Registro de Comercio no producirá efectos ni frente a los socios ni frente a terceros, salvo el caso de saneamiento en conformidad a la ley y con las restricciones que ésta impone. Dicha privación de efectos operará de pleno derecho, sin perjuicio de la acción por enriquecimiento sin causa que proceda.
 
-Ni podrán los socios alegar contra los terceros el conocimiento privado que éstos hayan tenido de las condiciones de la sociedad de hecho.
+La modificación oportunamente inscrita en el Registro de Comercio, pero que adolezca de vicios formales, produce efecto frente a los socios y terceros, mientras no haya sido declarada su nulidad.
+
+La declaración a que se refiere el inciso anterior no produce efecto retroactivo y sólo regirá para las situaciones que ocurran a partir del momento en que esté ejecutoriada la sentencia que la contenga.
 
 #### Artículo 362
 
-Los terceros podrán oponer a terceros la inobservancia de las solemnidades estatuidas; y el que fundare su intención en la existencia de la sociedad deberá probar que ha sido constituida en conformidad con las prescripciones de este título.
+Derogado.
 
 #### Artículo 363
 
-El que contratare con una sociedad que no ha sido legalmente constituida, no puede sustraerse por esta razón al cumplimiento de sus obligaciones.
+Derogado.
 
 #### Artículo 364
 
-Los actos enumerados en el inciso 2° del artículo 350 no producen efecto alguno contra terceros si no fueren escriturados e inscritos en la forma indicada en dicho artículo.
+Derogado.
 
 ### 2. De la razón o firma social en la sociedad colectiva
 
@@ -2826,7 +2842,7 @@ Los socios que hicieren el aporte o hubieren estipulado las ventajas sometidas a
 
 #### Artículo 497
 
-Es nula y de ningún efecto, respecto de los socios, la comandita por acciones constituida en contravención a cualquiera de las prescripciones que contienen los artículos precedentes; pero los asociados no podrán oponer a terceros esa nulidad.
+Es nula la comandita por acciones constituida en contravención a cualquiera de las prescripciones que contienen los artículos precedentes, sin perjuicio de su saneamiento en conformidad a la ley.
 
 #### Artículo 498
 
