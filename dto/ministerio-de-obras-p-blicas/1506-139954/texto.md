@@ -1,0 +1,11 @@
+Por decreto MOP Nº1.506, de 31 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, lotes Nºs.3, 9, 12-A, 14, 17, 19, 20, 21, 23, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37 y 38 para la obra Estudio de Ingeniería Mejoramiento Acceso a Linares sector Av. A León Bustos, que figuran a nombre de José Eduardo Díaz Lama, Centro Español de Linares, Suc. Luis Ramírez, Canobra Matamala, Soc. Productores Leche S.A. Soprole, Nemecio Hormazábal Miranda, Oscar M. Sepúlveda Alarcón, Lucio Roberto F. Monsalve, Guillermo Menz Bischmeier, Soc. Kovacs y Compañía Limitada, Francisco Riquelme Campos, Doimo Reinaldo Krinfokai Weihoff, Carlos Leiva Prieto, Suc. Carlos Rivera Rivera, Patricio Carvallo Avendaño, Romilio Enrique Cofré Contreras, María Claro Contardo y Cornelio Méndez Salgado, roles de avalúo 504-88, 504-56, 504-26, 504-28, 504-76, 189-99, 189-1, 189-2, 189-38, en trámite, 189-36, 189-8, 189-9, 189-10, 189-11, 189-12, 189-13, 189-14, 189-15 y 326-1, comuna Linares, VII Región; superficies 1.178,15; 3.294; 1.725,23; 1.610; 3.835; 272; 203; 196,56; 234,6; 152,63; 504; 458,5; 312; 260,85; 113,80; 292,17; 290,54; 297,90; 534,78 y 314,23 m2. La Comisión de Peritos compuesta por los señores Guillermo Picón Vicioso, Carlos Sottolichio Díaz y Renato Guerra Estévez, fijó con fecha 4 de agosto de 1997, el valor provisional de la indemnización en las cantidades de $11.781.500 el lote Nº3; $12.332.100 el lote Nº27; $25.284.000 el lote Nº33; $28.432.000 el lote Nº36; con fecha 5 de enero de 1998, $46.366.000 el lote Nº9; $24.153.220 el lote Nº12-A; $22.540.000 el lote Nº14; $76.889.500 el lote Nº17; $22.320.000 el lote Nº19; $32.500.000 el lote Nº20; $8.556.800 el lote Nº21;
+
+$18.484.000 el lote Nº23; $40.173.000 el lote Nº29;
+
+$44.868.000 el lote Nº32 y con fecha 7 de abril de 1998, $75.300.000 el lote Nº28; $29.260.000 el lote Nº30;
+
+$38.331.600 el lote Nº34; $36.055.200 el lote Nº35;
+
+$96.006.712 el lote Nº37 y $14.978.200 el lote Nº38. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
