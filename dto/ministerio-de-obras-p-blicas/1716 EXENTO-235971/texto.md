@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.716 de 21 de diciembre de 2004, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP exento Nº1.707 de 29 de noviembre de 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 15, fijada por la Comisión de Peritos, con fecha 12 de octubre de 2001, ascendente a la cantidad de $1.345.800.- para el lote Nº 15.
+
+Fiscal del Ministerio de Obras Públicas.
