@@ -1,0 +1,3 @@
+Por decreto MOP Nº765, de 31 de marzo de 1999, se expropió el lote de terreno Nº157-2, superficie 967 m2., rol de avalúo 1303-108, comuna de Cabrero, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli'', VIII Región y se acordó el valor de indemnización con su propietario Sergio Velásquez Waisse, ascendente a la cantidad de $1.524.033.
+
+- Fiscal del Ministerio de Obras Públicas.
