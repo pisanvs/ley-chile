@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 97, de fecha 28 de febrero de 2001, se expropiaron los lotes de terreno Nºs. 26 y 30, superficies 2.223,61 m2 y 355,31 m2, respectivamente, rol de avalúo 248-107, comuna de Salamanca, para la obra "Canal Alimentador, Km. 0,000,00 a Km. 15,084,59 Proyecto Estudio de Factibilidad y Diseño de Embalse Corrales y sus Obras Complementarias" y se acordó el valor de indemnización con su propietario Adolfo Alamiro Plaza Plaza, ascendente a la cantidad de $2.235.520.-
+
+Fiscal del Ministerio de Obras Públicas.
