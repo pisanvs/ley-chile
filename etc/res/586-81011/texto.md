@@ -1,0 +1,3 @@
+Por resolución No. 586 de 23 de Julio de 1991 de SERVIU Metropolitano, ordenóse expropiación, conforme DL No. 2.186 de 1978, -parte inmueble- ubicado en Avenida Departamental No. 910, presunto rol de avalúos No. 5346-37 comuna San Miguel, aparente dominio de don Julio Morales Acevedo. Comisión integrada por peritos Sres. René Ureta Koster y Roberto Correa Bezanilla, arquitectos y Carlos del Pedregal Sánchez, según informe de 01 de julio de 1991, fijó monto provisional indemnización en $ 1.855.840.- pagadera al contado.
+
+Director Serviu Metropolitano.
