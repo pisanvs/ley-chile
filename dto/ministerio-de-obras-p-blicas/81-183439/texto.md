@@ -1,0 +1,3 @@
+Por decreto MOP Nº 81, de 31 de enero de 2001, se expropiaron los lotes de terreno Nºs 8-1 y 8-2, superficies 136 m² y 1.281 m², rol de avalúo 1509-331, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Mario Segundo Hidalgo Saavedra, ascendente a la cantidad total de $39.160.181.-
+
+Fiscal del Ministerio de Obras Públicas.
