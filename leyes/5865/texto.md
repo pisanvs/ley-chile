@@ -1,0 +1,1 @@
+Autoriza permutar la propiedad fiscal que indica por otra de dominio de la Municipalidad de Parral, ubicada en esa ciudad, y cuyos deslindes determina.
