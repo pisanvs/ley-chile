@@ -1,0 +1,3 @@
+Por Resolución N° 1.658, de 9 de septiembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura presentada por RONALD WILLIAM WILSON ARRAUZ, para un centro de cultivo ubicado en Puerto Pinto, Comuna de Natales, Provincia de Ultima Esperanza, XII Región, conforme lo dispuesto en el artículo 67, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 9 de septiembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
