@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 626 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 11, superficie 358 m², rol de avalúo Nº 597-32, comuna de San Ignacio, para la obra: "Proyecto Laja Diguillín, Canal Matriz Diguillín - Larqui, Fajas Adicionales Km. 0,000 a Km. 23,420", VIII Región, y se acordó el valor de indemnización con su propietario Pedro Pablo Jiménez Quintana, ascendente a la cantidad de $229.126.-
+
+Fiscal del Ministerio de Obras Públicas.
