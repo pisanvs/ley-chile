@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA HUMBOLDT Y COMPAÑIA LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DEROGA Y CADUCA RESOLUCIONES QUE INDICA
+
+Por resolución No. 807, de 5 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Humboldt y Compañía Limitada, domiciliada en Talcahuano, para operar la embarcación "Porvenir II" en las Regiones VII y VIII donde extraerá los siguientes recursos hidrobiológicos: Jurel, Anchoveta, Sardina española y Sardina común, Merluza de cola, Merluza común, Congrio dorado, Congrio colorado, Congrio negro, Cojinova del Sur, Langostino colorado, Langostino amarillo y Camarón nylon. Derógase la Resolución No. 170, de 1984, de esta Subsecretaria, que autorizó a Pesquera Porvenir y Compañía Limitada para operar la embarcación antes citada, por renuncia de su titular. Cadúcase la Resolución No. 163, de 20 de Febrero de 1986, de esta Subsecretaría, que autorizó a la solicitante para operar la embarcación "Porvenir II", de conformidad con el artículo 6° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 5 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
