@@ -8290,97 +8290,107 @@ Las empresas en que el Estado, directa o indirectamente, tiene una participació
 
 administrativos que puedan comprometer el crédito público.
 
-En el caso de la Corporación Nacional del Cobre de Chile, la referida autorización debe ser otorgada por el Ministro de Hacienda, de acuerdo a lo prescrito en el D.L. N° 1.350, de 1976, orgánico de esa Corporación.
+No obstante lo anterior, en virtud de lo dispuesto en el último inciso del artículo 11 de la Ley N° 18.196, las empresas que dependen o se relacionan con el Ejecutivo a través del Ministerio de Defensa Nacional, caso en el cual se encuentran las empresas Astilleros y Maestranzas de la Armada (ASMAR), Empresa Nacional de Aeronáutica (ENAER) y Fábrica y Maestranzas del Ejército (FAMAE), sólo requerirán autorización previa del Ministro de Hacienda para aquel efecto Asimismo, en el caso de la Corporación Nacional del Cobre de Chile (CODELCO), la referida autorización debe ser otorgada por el Ministro de Hacienda, de acuerdo con lo prescrito en el DL N° 1.350, de 1976, orgánico de esa Corporación.
 
 A fin de dar cumplimiento a las disposiciones indicadas, las instituciones financieras sólo podrán otorgar créditos a las empresas individualizadas en el Anexo N° 1 adjunto, cuando éstas demuestren contar con la autorización de que se trata, la que deberá quedar en poder del banco o sociedad financiera junto con los demás antecedentes del crédito, para las comprobaciones a que haya lugar.
 
 ANEXO N° 1
 
-EMPRESAS DEL ESTADO
+1.- Empresas que requieren autorización del Ministro de Hacienda y de Economía, Fomento y Reconstrucción para solicitar créditos.
 
--Agrícola y Servicios Isla de Pascua Ltda.
+- Agrícola y Servicios Isla de Pascua Ltda.
 
--Astilleros y Maestranzas de la Armada.
+- Carbonífera Victoria de Lebu S.A.
 
--Carbonífera Victoria de Lebu S.A.
+- Comercializadora de Trigo S.A.
 
--Comercializadora de Trigo S.A.
+- Empremar Sur S.A.
 
--Corporación Nacional del Cobre de Chile Empremar Sur S.A.
+- Empresa Almacenadora de Combustible Ltda.
 
--Empresa Almacenadora de Combustible Ltda.
+- Empresa de Abastecimiento de Zonas Aisladas
 
--Empresa de Abastecimiento de Zonas Aisladas.
+- Empresa de Correos de Chile
 
--Empresa de Correos de Chile Empresa de los Ferrocarriles del Estado.
+- Empresa de los Ferrocarriles del Estado
 
--Empresa de Obras Sanitarias V Región S.A.
+- Empresa de Obras Sanitarias y Región S.A.
 
--Empresa de Servicios Sanitarios de Antofagasta S.A.
+- Empresa de Servicios Sanitarios de Antofagasta S.A
 
--Empresa de Servicios Sanitarios de Atacama S.A.
+- Empresa de Servicios Sanitarios de Atacama S.A.
 
--Empresa de Servicios Sanitarios de Aysén S.A.
+- Empresa de Servicios Sanitarios de Aysén S.A.
 
--Empresa de Servicios Sanitarios de Coquimbo S.A.
+- Empresa de Servicios Sanitarios de Coquimbo S.A.
 
--Empresa de Servicios Sanitarios de La Araucanía S.A.
+- Empresa de Servicios Sanitarios de La Araucanía S.A.
 
--Empresa de Servicios Sanitarios de Los Lagos S.A.
+- Empresa de Servicios Sanitarios de Los Lagos S.A.
 
--Empresa de Servicios Sanitarios de Magallanes S.A.
+- Empresa de Servicios Sanitarios de Magallanes S.A.
 
--Empresa de Servicios Sanitarios de Tarapacá S.A.
+- Empresa de Servicios Sanitarios de Tarapacá S.A.
 
--Empresa de Servicios Sanitarios del Bío- Bío S.A.
+- Empresa de Servicios Sanitarios del Bío-Bío S.A.
 
--Empresa de Servicios Sanitarios del Libertador S.A.
+- Empresa de Servicios Sanitarios del Libertador S A
 
--Empresa de Servicios Sanitarios del Maulé S.A.
+- Empresa d Servicios Sanitarios del Maulé S.A.
 
--Empresa de Transporte de Pasajeros Metro S.A.
+- Empresa de Transporte de Pasajeros Metro S.A.
 
--Empresa de Transporte Ferroviario S.A.
+- Empresa de Transporte Ferroviario S.A.
 
--Empresa Eléctrica Colbún Machicura S.A.
+- Empresa Eléctrica Colbún Machicura S.A.
 
--Empresa Eléctrica de Aysén S.A.
+- Empresa Eléctrica de Aysén S.A.
 
--Empresa Marítima S.A.
+- Empresa Marítima S.A.
 
--Empresa Metropolitana de Obras Sanitarias S.A.
+- Empresa Metropolitana de Obras Sanitarias S.A
 
--Empresa Minera Aysén Ltda.
+- Empresa Minera Aysén Ltda.
 
--Empresa Nacional de Aeronáutica Empresa Nacional de Minería.
+- Empresa Nacional de Minería
 
--Empresa Nacional del Carbón Empresa Nacional del Petróleo
+- Empresa Nacional del Carbón
 
--Empresa Periodística La Nación S.A.
+- Empresa Nacional del Petróleo
 
--Empresa Portuaria de Chile Fábrica y Maestranzas del Ejército
+- Empresa Periodística La Nación S.A
 
--Isapre Ferrosalud S.A.
+- Empresa Portuaria de Chile
 
--Petrox S.A.
+- Isapre Ferrosalud S,A.
 
--Refinería de Petróleo.
+- Petrox S A. Refinería de Petróleo
 
--Polla Chilena de Beneficencia S.A.
+- Polla Chilena de Beneficencia S.A.
 
--Radio Nacional de Chile.
+- Radio Nacional de Chile
 
--Refinería de Petróleo Concón S.A.
+- Refinería de Petróleo Concón S.A.
 
--Sociedad Agrícola Corfo Ltda.
+- Sociedad Agrícola Corfo Ltda.
 
--Sociedad Transporte Marítimo Chiloé-Aysén Ltda.
+- Sociedad Transporte Marítimo Chiloé-Aysén Ltda.
 
--Televisión Nacional de Chile
+- Televisión Nacional de Chile
 
--Transcontainer S.A.
+- Transcontainer S.A.
 
--Zona Franca de Iquique S.A.
+- Zona Franca de Iquique S.A.
+
+2. - Empresas que sólo requieren autorización del Ministro de Hacienda para solicitar créditos.
+
+- Astilleros y Maestranzas de la Armada
+
+- Empresa Nacional de Aeronáutica
+
+- Fábrica y Maestranzas del Ejército
+
+- Corporación Nacional del Cobre de Chile.
 
 CAPITULO 8-9 (Bancos y Financieras)
 
