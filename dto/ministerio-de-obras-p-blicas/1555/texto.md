@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.555, de 21 de septiembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL MOP No. 206, de 1960, se expropió los lotes de terreno No.
+
+s. 1 y 2, para la obra Ruta 5, Tramo Talca-Chillán, Sector Acceso Norte y Sur a Pangue Alto, Séptima Región, que figuran a nombre de S.A.G., roles de avalúo 8083-71, superficies 101 y 98 m², respectivamente, comuna de San Rafael. La Comisión de Peritos integrada por los señores Carlos Sottolichio Díaz, Renato Guerra Estévez y Guillermo Picón Vicioso, fijó con fecha 18 de noviembre de 1997, los valores provisionales de las indemnizaciones en las cantidades de $229.000.- para el lote No. 1 y $204.000.- para el lote No. 2, respectivamente. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
