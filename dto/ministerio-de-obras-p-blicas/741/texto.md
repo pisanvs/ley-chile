@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 741, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No. s. 6, 7, 8, 9 y 10, para la ejecución de la obra Camino Ruta V-46, Sector Río Frío-Los Muermos, Km.
+
+50.000,00 a Km. 62.381,103, que figuran a nombre de Luisa Gladys Mancilla Mancilla, María E. Klein Oyarzún, (Suc.) Zenón Galindo Aguilar y Domingo Jiménez del Valle, roles de avalúo 406-17, 406-77, 406-68 y 406-3, comuna de Los Muermos, X Región, superficies 56,9, 284,8, 65,8, 269,4 y 88,2 M2. La Comisión de Peritos compuesta por los señores Carlos Eugenio Mera Santibáñez, Jaime Sanz Bahamonde y Leopoldo Ramón Schumacher Guarda, fijó con fecha 10 de enero de 1997, el valor provisional de las indemnizaciones en las cantidades de $ 11.380, lote 6, $ 56.960, lote 7, $ 13.160, lote 8, $ 53.880, lote 9 y $ 17.640, lote 10. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
