@@ -162,6 +162,8 @@ a) La viuda, un 75 %, y los hijos legítimos, el 25 % restante, cualquiera que s
 
 La asignación de los hijos huérfanos de padre y madre será de 50 %, cualquiera que sea su número.
 
+Los hijos inválidos, huérfanos de padre y madre, seguirán gozando de la cuota de montepío a que se refiere el inciso anterior, durante el tiempo de su invalidez.
+
 b) La madre viuda legítima, un 30 %.
 
 c) El padre legítimo en estado de indigencia, un 30 %.
@@ -220,9 +222,31 @@ Abonos de años de servicios
 
 , La Caja reconocerá, para los efectos de la jubilación o montepío, el abono de años de servicios que la Ilustre Municipalidad hubiere acordado a algún imponente, en conformidad a lo dispuesto en la Ley Orgánica Municipal.
 
-Empleados de la Caja
+SERVICIO MEDICO CURATIVO
 
 #### Artículo 22
+
+La Caja establecerá un Servicio Médico Curativo con sus correspondientes recursos, que se formarán con aportes de los imponentes activos y pensionados de un 2 1/2% de los sueldos y pensiones imponibles "que perciban y con otros aportes que se reciban.
+
+#### Artículo 23
+
+La Caja establecerá el pago de una cuota de natalidad en una suma que anualmente determinará el Consejo con cargo a los recursos que fija el articulo precedente, la que no podrá ser superior a medio sueldo vital del departamento de Valparaíso.
+
+ASIGNACION FAMILIAR PARA LOS PENSIONADOS
+
+#### Artículo 24
+
+La Caja establecerá la asignación familiar para los pensionados, con los recursos siguientes:
+
+a) aporte del ½% de los sueldos imponibles que perciban los imponentes activos;
+
+b) 2% de las pensiones de jubilación y montepío, y
+
+c) otros aportes que se reciban.
+
+Empleados de la Caja
+
+#### Artículo 25
 
 Los empleados de la Caja gozaran de todos los beneficios que otorgan estos Estatutos a los empleados municipales y tendrán las mismas obligaciones, en cuanto les sean aplicables.
 
@@ -230,7 +254,7 @@ Si los empleados con menos de diez años de servicios fueren privados de sus pue
 
 Representación de la Caja
 
-#### Artículo 23
+#### Artículo 26
 
 La representación legal, judicial, extrajudicial y administrativa de la Caja la tendrá el Gerente.
 
@@ -240,13 +264,13 @@ Para conocer de las causas en que tenga interés la Caja, serán tribunales comp
 
 Inembargabilidad de imposiciones
 
-#### Artículo 24
+#### Artículo 27
 
 Las imposiciones hechas en la Caja son inembargables y no podrán cedérselas en garantía, ni efectuar con ellas contratos ni operaciones de ninguna especie, salvo con la Caja misma.
 
 Reforma de Estatutos
 
-#### Artículo 25
+#### Artículo 28
 
 La reforma de los Estatutos deberá tener su origen en el Consejo Directivo, el que propondrá a la Asamblea de imponentes las reformas de los Estatutos que convengan, debidamente estudiadas en sus aspectos actuarial, económico y legal.
 
