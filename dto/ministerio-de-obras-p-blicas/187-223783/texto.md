@@ -1,0 +1,5 @@
+Por decreto MOP Nº 187, de 9 de marzo de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 4, para la obra:
+
+"PROYECTO ESTACION DE INTERCAMBIO MODAL LA CISTERNA. TUNELES DE ACCESO Y EGRESO", Región METROPOLITANA, que figura a nombre de INMOBILIARIA DE SUPERMERCADOS S, rol de avalúo 40-19, comuna de LA CISTERNA, superficie 170 m2. La comisión de peritos integrada por los señores Lorena Consuelo Larraín Saffa, Itsang Lu Chen y Miguel Juan Fernández Cádiz, fijó con fecha 24 de diciembre de 2003, el valor provisional de la indemnización en la cantidad de $17.639.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
