@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTOS DE AGUAS QUE INDICAN
+
+Servicio Agrícola y Ganadero, mediante resolución exenta No. 778 de 17 de Junio de 1986, ratifica resolución exenta No. 1661 del 24 de Julio de 1981, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Expropiado Predios "Resto del Fundo Quilpón" y "Resto del Fundo Nebuco" de la Comuna de Chillán, VIII Región; y Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 9, sitios N°s 1, 4 al 17 y 19 al 25, Bienes Comunes Especiales N°s. 2 y 3 del Proyecto de Parcelación "El Quillay" formado por predios señalados. Los Derechos de Agua se extraen del Río Chillán por el Canal Chillán-Quilpón; del Estero Quilmo por el canal Quilmo-Quilpón, merced de agua en Río Chillán y del Estero Quilmo por el canal Pérez. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
