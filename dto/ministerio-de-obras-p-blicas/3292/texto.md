@@ -1,0 +1,11 @@
+Por decreto MOP Nº 3.292, de 31 de julio de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs. 265, 266, 268 y 276-B, para la obra: Camino Ruta 5 Norte. Tramo: Santiago-Los Vilos. Sector: Km. 154.500,00 al Km. 155.500,00; Quinta Región, que figuran a nombre de Bustamante Bustamante Ernesto, rol de avalúo 99-221, comuna de La Ligua, superficies de 949 m², 4.745 m², 2.452 m² y 77 m², respectivamente. La comisión de peritos integrada por los señores Pablo Antonio Aragón Bernal, Jorge Gregorio Mendoza Larral y María Cristina Ayala Muñoz, fijó con fecha 13 de junio de 2000, el valor provisional de la indemnización en las cantidades de $1.688.
+
+- **300.-** para el lote Nº 265; $9.042.
+
+- **500.-** para el lote Nº 266; $7.115.
+
+- **400.-** para el lote Nº 268 y $1.472.
+
+- **450.-** para el lote Nº 276-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
