@@ -1,0 +1,5 @@
+EXTRACTO DE EXPROPIACION
+
+Resolución 177, 31 mayo 2001, Serviu Región del Biobío ordenó expropiación parcial inmueble ubicado en calle 8 Oriente (Lote 1) s/nº, Rol de Avalúo Nº 2736-5, comuna Chiguayante, superficie 458 m² de terreno, dentro polígono y linderos señalados plano expropiación S8R-15.601, de aparente dominio de Sucesión Rosa Amelia Luna Delgado, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos, integrada por don Boris Aptecar González, arquitecto;,don Orlando Paredes Vásquez, ingeniero civil ; y don Sergio Labarca Garrido, constructor civil, según informe de fecha 26 de abril de 2001, fijó monto provisional indemnización en $6.531.080.-, pagadera de contado.
+
+Director Serviu Región del Biobío.
