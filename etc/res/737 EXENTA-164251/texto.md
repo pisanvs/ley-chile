@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 737 de fecha 24 de Octubre de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido Troncal No. 48 "Población Brasil - Ecuador Vicuña Rozas", de la Línea de Buses No. 48 "Central Ovalle", autorizado por Resolución No. 749 de 22 de Julio de 1981, quedando su nuevo trazado como sigue:
+
+Ida: Desde su terminal en Manutara con Santa Julia, continúa por Santa Julia - Combarbalá - Avda. La Serena - Avda. Central - Santa Rosa - Santa Ana - General Freire - Gran Avda. José Miguel Carrera - San Diego - Victoria - Lord Cochrane - 10 de Julio - Dieciocho - Avda. Libertador Bernardo O'Higgins - Ecuador- Constantino - Nueva Imperial - Gaspar de Orense - San Pablo - Sergio Valdovinos - Vicuña Rozas Las Lomas - José Joaquín Pérez La Estrella - San Francisco - Federico Errázuriz - San Daniel - Avda. Las Barrancas hasta su terminal frente a Serrano.
+
+Regreso: Desde su terminal en Avda. Las Barrancas frente a Serrano, continúa por Avda. Las Barrancas - Federico Errázuriz San Francisco La Estrella - José Joaquín Pérez - Araucaria - Vicuña Rozas - Sergio Valdovinos - San Pablo - Gaspar de Orense - Nueva Imperial - Blanco Garcés - Amengual Avda. Libertador Bernardo O'Higgins - Arturo Prat - Placer - Gran Avda. José Miguel Carrera - Zurich - Paulina General Freire - Santa Ana - Santa Rosa - Avda.- La Serena Combarbalá - Santa Julia hasta Manutara su terminal.
+
+Santiago, 30 de Octubre de 1985.- Carlos Román Toro, Secretario Regional Ministerial, Transportes y Telecomunicaciones de la Región Metropolitana.
