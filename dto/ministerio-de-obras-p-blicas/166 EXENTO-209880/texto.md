@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº166 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº25, superficie 432 m², Rol Nº1418-246, comuna de Rancagua, VI Región para la obra "Camino Ruta H-188, Sector Cruceros-Chancón, Tramo 1, Km. 0,00000 al Km. 7,85900" y se acordó el valor de indemnización con su propietario Héctor Juvenal Antonio Pavez Jara, ascendente a la cantidad de $788.627.
+
+Fiscal del Ministerio de Obras Públicas.
