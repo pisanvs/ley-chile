@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.160, de 22 de octubre de 1999, se modificó el decreto MOP Nº 1.785, de 30 de junio de 1999, que autorizó la expropiación del lote Nº 36 para la obra Mejoramiento Autopista, Concepción - Talcahuano, Sector Rotonda Bonilla y Campus San Andrés, en la parte que se refiere a la indemnización definitiva de la expropiación más su correspondiente reajuste asciende a la cantidad de $70.482.720.-
+
+Fiscal del Ministerio de Obras Públicas.
