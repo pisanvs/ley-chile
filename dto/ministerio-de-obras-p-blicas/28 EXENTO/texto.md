@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº28, de 31 de enero de 2001, se expropió el lote de terreno Nº11, superficie 128 m2., rol de avalúo 115-11, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo Santiago-Talca. Sector A, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Alberto Toro Adasme, ascendente a la cantidad de $974.357.
+
+- Fiscal del Ministerio de Obras Públicas.
