@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.156, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 1, 2, 3, 4 y 5, superficies 848; 2.451; 2.442; 2.309 y 623 m², respectivamente, rol de avalúo 154-107, comuna de Casablanca, obra Camino Ruta 68, sector Plaza de Peaje Zapata y se acordó precio de indemnización con su propietario Silvia Loyola Cueto, ascendente a la cantidad de $32.633.900.-
+
+Fiscal del Ministerio de Obras Públicas.
