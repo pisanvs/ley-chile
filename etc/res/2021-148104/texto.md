@@ -1,0 +1,3 @@
+Por resolución Nº 2.021 de 8 de octubre de 1999 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Ventanas (Punta Lunes), V Región, individualizada en el artículo 1º) Nº 13 del DS Nº 652 de 1997, citado en Visto, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS, MARISCADORES Y RAMOS SIMILARES DE CALETA VENTANAS.
+
+Valparaíso, 8 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
