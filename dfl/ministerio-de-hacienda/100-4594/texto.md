@@ -1,0 +1,1 @@
+Declara en reorganización la Caja de Accidentes del Trabajo y suprime en su planta de funcionarios los cargos que indica, desempeñados por las personas que expresa.
