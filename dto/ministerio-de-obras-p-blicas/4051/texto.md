@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.051, de 31 de agosto del 2000, se expropió el lote de terreno Nº54-A, superficie 113 m², rol de avalúo 233-7, comuna de Monte Patria, para la obra Camino Ruta D-597, Montepatria-Carén, Sector Juntas-Carén, Tramo Km. 8.260,00 a Km. 30.065,19 y se acordó precio de la indemnización con su propietario Eric Mario Acevedo Contreras, ascendente a la cantidad de $730.751.
+
+Fiscal del Ministerio de Obras Públicas.
