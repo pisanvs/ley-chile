@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 200, de 30 de marzo de 2001, se expropió el lote de terreno Nº 92-1, superficie 56 m2., rol de avalúo 202-77, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector I, Sexta Región y se acordó el valor de indemnización con su propietaria María del Carmen Briones Valenzuela, ascendente a la cantidad de $685.477.
+
+- Fiscal del Ministerio de Obras Públicas.
