@@ -1,0 +1,3 @@
+Por decreto MOP Nº295, de 26 de febrero de 1999, se expropió el lote de terreno Nº1, superficie 192 m2., rol de avalúo 44-27, comuna de Peumo, para la obra Construcción Ciclovías en caminos Red Vial Nacional (Tercera Parte), Sector Codao - La Rosa (Ruta 66) y se acordó precio de indemnización con su propietario Sociedad de Asistencia y Capacitación, ascendente a la cantidad de $1.076.483.-
+
+Fiscal del Ministerio de Obras Públicas.
