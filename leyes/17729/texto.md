@@ -22,7 +22,7 @@ a) A título de merced de conformidad a las leyes de 4 de Diciembre de 1866, de 
 
 b) Mediante título gratuito de dominio de conformidad con los artículos 4° y 14 de la ley número 4.169; artículos 13, 29 y 30 de la ley número 4.802; artículos 70 al 74 -ambos inclusive- del decreto supremo número 4.111, que fijó el texto definitivo de la ley N° 4.802; artículos 82 y 84 de la ley N° 14.511; la ley N° 16.436 y con las disposiciones legales que las hayan modificado o complementado, mientras dichas tierras estén indivisas.
 
-A partir de la fecha de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces, las hijuelas resultantes de la división de las reservas, dejarán de considerarse tierras indígenas, e indígenas a sus dueños o adjudicatorios.
+Derogado.
 
 #### Artículo 2°
 
@@ -40,7 +40,7 @@ La comunidad correspondiente a una reserva se individualizará por el nombre del
 
 Son "ocupantes" las personas que poseyendo o no derechos de los indicados en el inciso primero de este artículo, exploten en forma independiente, en beneficio y por cuenta propia un goce en una reserva. Se tendrá también por ocupantes a los arrendatarios de uno o más goces de una reserva perteneciente a comuneros que sean asignatarios de tierras en el área agrícola reformada y a las personas que posean y exploten en provecho y por cuenta propia terrenos de aquellas reservas en que por su naturaleza, topografía o cualquier otra circunstancia no se hayan constituido o delimitado goces.
 
-Para los efectos de esta ley se presume de derecho que todos los ocupantes de una reserva son "comuneros" de ella y tienen la calidad de indígenas. Las demás personas se tendrán por "particulares".
+El reglamento establecerá los requisitos y la forma de acreditar la calidad de ocupante.
 
 #### Artículo 4°
 
@@ -52,7 +52,7 @@ Se entenderá que la mitad de los bienes pertenecen al marido y la otra mitad a 
 
 #### Artículo 5°
 
-Los ocupantes no podrán enajenar, gravar ni dar en arrendamiento los goces que posean en la reserva, ni los derechos que les correspondan en la comunidad, excepto en favor de otro u otros miembros de la misma que vivan o trabajen en la reserva, siempre que obtengan la autorización a que se refiere el artículo 7°.
+Los ocupantes no podrán enajenar, gravar ni dar en arrendamiento o aparcería los goces que posean en la reserva, ni los derechos que les correspondan en la comunidad, excepto en favor de otro u otros miembros de la misma que vivan o trabajen en la reserva, siempre que obtengan la autorización a que se refiere el artículo 7°.
 
 #### Artículo 6°
 
@@ -70,7 +70,9 @@ Para el solo efecto de otorgar tales actos o contratos, se presume de derecho qu
 
 #### Artículo 7°
 
-Las enajenaciones, gravámenes y arrendamientos a que se refieren los dos artículos precedentes, deberán ser siempre autorizados por el Instituto de Desarrollo Agropecuario, mediante resolución fundada del Director Regional correspondiente.
+Las enajenaciones, gravámenes, arrendamientos y aparcerías a que se refieren los dos artículos precedentes, deberán ser siempre autorizados por el Instituto de Desarrollo Agropecuario, mediante resolución del Director Regional correspondiente, fundada en razones de utilidad o necesidad manifiesta. Los referidos actos o contratos no requerirán para su validez más autorizaciones o formalidades habilitantes que las señaladas en esta ley.
+
+Con todo, se requerirá autorización de la mujer casada bajo el régimen de sociedad conyugal en los casos y en los términos previstos en los artículos 1.749 y 1.754 del Código Civil.
 
 Iniciado el juicio de división de la reserva ya no podrán celebrarse esos actos y contratos.
 
@@ -117,6 +119,8 @@ En la solicitud referida se pedirá la división de la reserva conforme al proye
 El proyecto referido señalará la reserva a dividirse y su título; el o los comuneros que requirieron la división; el avalúo fiscal de la reserva; la individualización de los actuales ocupantes, y los goces que ellos tengan en la reserva; las hijuelas en que se proyecta dividir aquélla, indicando sus superficies y linderos, su avalúo fiscal proporcional correspondiente y los adjudicatarios de cada una de ellas. Señalará, además los terrenos ocupados por escuelas, cementerios, retenes de carabineros u otros organismos públicos, sus superficies, deslindes y avalúos. Las hijuelas proyectadas deberán, en lo posible, corresponder a los goces que los adjudicatarios tienen actualmente en la reserva y tener acceso al camino público. El proyecto y plano referidos harán plena prueba en cuanto a los hechos consignados en ellos.
 
 Tanto en el proyecto como en la división misma de la reserva, no podrá formarse ninguna hijuela para el o los comuneros que sean asignatarios de tierras del área agrícola reformada, a menos que no existan otros ocupantes en la reserva.
+
+Para los efectos de su división, se presume de derecho que todos los ocupantes de una reserva son "comuneros" de ella y tienen la calidad de indígenas. Las demás personas se tendrán por particulares.
 
 #### Artículo 11
 
@@ -188,7 +192,7 @@ La inscripción de cada una de las hijuelas antes señaladas se practicará con 
 
 #### Artículo 21
 
-Hechas las inscripciones se entenderán extinguidos por el solo ministerio de la ley los títulos primitivos que sirvieron de base a la división. El Juez oficiará a los funcionarios competentes para que procedan a la cancelación de los títulos que hayan servido de base a la división, remitiéndoles al efecto copia de las inscripciones de las hijuelas y de la resolución a que se refiere el artículo 19, las que éstos archivarán convenientemente dando cuenta al Juez del cumplimiento de lo ordenado, dentro del plazo de 15 días siguientes a la fecha de remisión del oficio y demás piezas necesarias para efectuar la cancelación.
+Hechas las inscripciones se entenderán extinguidos por el solo ministerio de la ley los títulos primitivos que sirvieron de base a la división. El Juez oficiará a los funcionarios competentes para que procedan a la cancelación de los derechos que emanaban de los títulos que hayan servido de base a la división, remitiéndoles al efecto copia de las inscripciones de las hijuelas y de la resolución a que se refiere el artículo 19, las que éstos archivarán convenientemente dando cuenta al Juez del cumplimiento de lo ordenado, dentro del plazo de 15 días siguientes a la fecha de remisión del oficio y demás piezas necesarias para efectuar la cancelación.
 
 Cuando procediere de conformidad con el inciso segundo del artículo 19, el Juez ordenará también oficiar al Ministro de Tierras y Colonización, dando cuenta de lo obrado y remitiendo las copias correspondientes.
 
@@ -200,7 +204,7 @@ Los Notarios, Conservadores de Bienes Raíces y Archiveros que no dieren cumplim
 
 #### Artículo 23
 
-A petición del Abogado Defensor de Indígenas, el Juez ordenará practicar la entrega material de las hijuelas resultantes de la división, siempre con el auxilio de la fuerza pública. La diligencia se hará por un funcionario del Instituto de Desarrollo Agropecuario, quien proporcionará a cada una de los adjudicatarios o a quienes sus derechos representen, una copia autorizada del título definitivo de su hijuela, la que será de cargo de dicho Instituto. Estos nuevos títulos se entenderán saneados para todos los efectos legales.
+A petición del Abogado Defensor de Indígenas, el Juez ordenará practicar la entrega material de las hijuelas resultantes de la división, siempre con el conocimiento de la autoridad. La diligencia se hará por un funcionario del Instituto de Desarrollo Agropecuario, quien proporcionará a cada una de los adjudicatarios o a quienes sus derechos representen, una copia autorizada del título definitivo de su hijuela, la que será de cargo de dicho Instituto. Estos nuevos títulos se entenderán saneados para todos los efectos legales.
 
 #### Artículo 24
 
