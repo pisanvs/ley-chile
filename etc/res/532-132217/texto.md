@@ -1,0 +1,7 @@
+AUTORIZA A DAERIM FISHERY CO. LTD. CHILE Y CIA. LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS.DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 532, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Daerim Fishery Co. Ltd. Chile y Cía. Ltda., domiciliada en Santiago para ampliar las actividades pesqueras autorizadas por resolución No. 109, de 1979, de esta Subsecretaría, en orden a operar el barco fábrica Margot María Stengel, en la zona situada al Sur del paralelo 44° 30' de latitud Sur y al Weste de las Líneas de Base Rectas, donde podrá realizar faenas extractivas y de transformación de los recursos hidrobiológicos: Merluza del Sur, Merluza de tres aletas, Merluza de cola, Jurel, Cojinoba del Sur, Cabrilla común, Caballa, Palometa, Chancharro, Besugo, Brótula, Sierra, Tollo, Raya, Pejerrata, Pejegallo, Congrio dorado, Lenguado de ojos grandes, Lenguado de ojos chicos. Derógase la resolución No. 77, de 1985, de esta Subsecretaría, que autorizó a Pesquera El Golfo S.A., para operar el barco fábrica antes citado.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 25 de Mayo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
