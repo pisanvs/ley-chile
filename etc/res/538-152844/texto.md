@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA CALCURRUPE LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 538, de 16 de Julio de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se aprueba proyecto de pesca experimental presentado por Pesquera Calcurrupe Ltda., domiciliada en Puerto Montt y se autoriza a dicha empresa para pescar merluza española, congrio colorado, congrio dorado, centolla, cojinova del sur, jurel y jaiba, por el período de seis meses a contar de esta fecha, con la nave factoría "Niño do Corvo" de matrícula 2269. Asimismo, deroga la resolución 136, de 28 de abril de 1983, de la Subsecretaria de Pesca, que autorizó a la Sociedad León Errázuriz y Cía. Ltda., para realizar pesca exploratoria con la citada embarcación.
+
+Valparaíso, 16 de Julio de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
