@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 926, de 30 de septiembre de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. Nº 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 3 y 5 , para la obra Camino Acceso Norte a Concepción, Ramal Colector sector Rafael-Agua Amarilla, Km 0.000 al 0.952, que figuran a nombre de Bravo Parra José Miguel, rol de avalúo 607-18, comuna de Tomé, superficies 4.630m2 y 15.320 m2. La Comisión de Peritos compuesta por los señores Ramón Jofré Soto, Pablo Carillo Valenzuela y José Manuel Gálvez Alegría, fijó con fecha 10 de septiembre de 1996, el valor provisional de las indemnización en la cantidades de $8.380.300.- para el lote 3 y
+
+$16.545.600.- para el lote 5. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas
