@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Resolución exenta N° 1.362 de fecha 15 de Mayo de 1991, modifica Certificado de Subsidio Habitacional Serie B-90 N° 02-06816, extendido en favor don Eduardo Manuel Fuentes Araya, en el sentido de eliminar el monto de la rebaja que expresa y modifica Certificado de Subsidio Habitacional Serie A-90 N° 02-05976, extendido en favor de don Víctor Juan Von Hrromada Briones, en el sentido de rectificar el monto de crédito que indica. Como consecuencia de ello, queda en 1.087.950 Unidades de Fomento (U.F.), el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en el segundo llamado 1990 del Sistema General Unificado de Subsidio Habitacional.-
+
+Joan Mac Donald M., Subsecretaría de Vivienda y Urbanismo.
