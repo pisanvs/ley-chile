@@ -1,0 +1,3 @@
+Por decreto MOP Nº 857 de fecha 30 de septiembre del 2004, se expropió el lote de terreno Nº 47, superficie 91 m2, rol Nº 1.404-8, comuna de Antofagasta, II Región para la obra "Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento-Avda. Costanera, Comuna de Antofagasta, Provincia de Antofagasta, II Región Sector Avda. Sarmiento-Calle Cardenal Oviedo Cavada" y se acordó el valor de indemnización con su propietaria Liliana Teresa Ponce Rojas, ascendente a la cantidad de $13.931.214.
+
+- Fiscal del Ministerio de Obras Públicas.
