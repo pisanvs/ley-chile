@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 876, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s. 17-A y 35-B, superficies 469 y 97 m², respectivamente, roles de avalúos en trámite, comuna La Estrella, para la obra Camino Límite Regional (Rapel) - Alcones I, Sector Litueche - La Rosa, se acordó precio de las indemnizaciones con sus propietarios Luis Isidoro Yáñez Atenas y Fernando René Herrera Huerta, ascendentes a las cantidades de $ 789.693.- para el lote No. 17-A y $ 566.721.- para el lote No. 35-B.
+
+- Fiscal del Ministerio de Obras Públicas.
