@@ -1,0 +1,3 @@
+Por decreto MOP Nº 464, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs 22, 22-A, 23, 24-A, 28 y 29, superficies 781,8 M2, 70 M2, 2.077,5 M2, 574,8 M2, 60,5 M2 y 866,9 M2, respectivamente, roles de avalúos 2204-38 y 2202-21, comuna de Puerto Montt, X Región, para la obra "Camino Ruta 7 Chamiza Quillaipe, Km. 4,83687 al 15,84700" y se acordó el valor de indemnización con su propietaria la Sociedad Agrícola Cahuelmo Limitada, ascendente a la cantidad de $7.545.849.-
+
+Fiscal del Ministerio de Obras Públicas.
