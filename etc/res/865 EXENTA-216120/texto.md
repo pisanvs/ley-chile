@@ -1,0 +1,5 @@
+APRUEBA FORMALIDADES Y CONDICIONES PARA LA AUTORIZACIÓN DE MODIFICACIONES DE PARTE DE LOS TRAZADOS DE SERVICIOS DE TRANSPORTE URBANO
+
+Por resolución exenta Nº 865, de 15 de octubre del año 2003, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueban formalidades y condiciones para la autorización de modificaciones de parte de los trazados de servicios de transporte urbano prestados mediante buses en la ciudad de Santiago, contenidas en Anexo denominado: " Formalidades y Condiciones para la Autorización de Modificaciones de Trazado de Servicios Regidos por la resolución exenta Nº 1.018" , el que forma parte de dicha resolución y que se encuentra a disposición de los interesados en las dependencias de esa Secretaría Regional.-
+
+Silvio Albarrán Albán, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
