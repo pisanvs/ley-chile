@@ -1,0 +1,17 @@
+EXPROPIA INMUEBLES QUE INDICA PARA CONSTRUCCION COMPLEJO PESQUERO ARTESANAL DE CHINQUIHUE
+
+Núm. 495.- Puerto Montt, Julio 10 de 1986.- Vistos: DL 1.289, de 1976; artículos 6 y siguientes DL 2.186 de 1978; Resoluciones 600 y 1.050 de 1977 y 1980, respectivamente, de la Contraloría General de la República; y teniendo presente; lo informado por el señor Intendente de la Décima Región de Los Lagos, en Ordinario No. S-1.282, de 16 de mayo de 1986; los antecedentes relativos al Complejo Pesquero Artesanal de Chinquihue; las determinaciones intergubernamentales de los Gobiernos de Chile y Japón:
+
+los acuerdos de la Comisión adhoc; las autorizaciones y conversaciones para negociar con los propietarios la adquisición de los terrenos, que no prosperaron; considerando, además, el manifiesto interés social que conlleva la construcción del Complejo Pesquero Artesanal para mejorar las condiciones de vida e infraestructura socioeconómica de un importante conglomerado social; y lo dispuesto por el Decreto Exento. Alcaldicio No. 428, de 17 de junio próximo pasado, dicto el siguiente:
+
+Decreto:
+
+1.- Exprópianse, por causa de interés social manifiesto, los inmuebles ubicados en Chinquío o Chinquihue, Comuna de Puerto Montt, Provincia de Llanquihue, que se indican a continuación: a) inmueble de aproximadamente 25,70 hectáreas de superficie de propiedad de doña Gloria Candelaria Teresita del Niño de Jesús Bahamonde Ojeda, inscrito a fojas 602 bajo el No. 697 del Registro de Propiedad del Conservador de Bienes Raíces de Llanquihue, correspondiente al año 1983, Rol de Avalúo No. 2.132-7 y cuyos deslindes, según sus títulos, son los siguientes: Al Norte, Pedro Saldivia, Sucesión de Fernando C rdenas y Sucesión de Liborio Vargas; al Sur, La Marina y Necor Contreras; al Oriente, La Marina; y al Poniente, Necor Contreras y Pedro Saldivia, y b) inmueble rural de aproximadamente 625 m2. de superficie, según plano No. X-3-2679-SR de propiedad de Beda Orlando Gutiérrez Pincheira, inscrito a fojas 464 bajo el No. 443 del Registro de Propiedad del Conservador de Bienes Raíces mencionado, correspondiente al año 1985, sin rol de avalúo, y cuyos deslindes, según sus títulos, son los siguientes: Noreste, Gloria Bahamonde Ojeda en 25 metros, separado por cerco; Sureste, camino público de Puerto Montt a Chinquihue, en 25 metros; Suroeste, Gloria Bahamonde Ojeda en 25 metros, separado por cerco, y Noroeste, Gloria Bahamonde Ojeda, en 25 metros, separado por cerco.
+
+2.- Fíjanse, provisionalmente, los montos de las indemnizaciones, en las sumas de $ 7.775.000.- y $ 900.000.respectivamente, por los inmuebles singularizados en las letras a) y b) precedentes, pagaderos de contado, según tasación comercial de 04 de julio de 1986, practicada por la comisión compuesta por los señores Jaime Sanz Bahamonde, Mario Olivares Bustamante y Hugo Fonseca Donoso.
+
+3.- Publíquese, en extracto en el Diario Oficial y El Llanquihue y remítase copia a Carabineros de Chile, para su entrega a los propietarios expropiados.
+
+4.- Requiérase, al Conservador de Bienes Raíces respectivo, las inscripciones, subinscripciones y anotaciones que correspondan, mediante la sola presentación de copia autorizada del presente decreto.
+
+- Anótese, publíquese en extracto, notifíquese, comuníquese, inscríbase y archíbase.- Federico Oelckers Sepúlveda, Alcalde.- José Segura Díaz, Secretario Municipal.
