@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°777, de 30 de septiembre de 1996, se expropió el lote de terreno N° 1-A, superficie 800 M2., rol de avalúo 2358-2, comuna de La Florida, para la obra Mejoramiento Eje La Florida, sector Los Ararios - Las Vizcachas y se acordó precio de indemnización con la propietaria Inmobiliaria e Inversiones Florid Ltda., ascendente a la cantidad de $40.983.600.-
+
+Fiscal del Ministerio de Obras Públicas.
