@@ -1,0 +1,5 @@
+Por Decreto MOP. N° 647, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. N° 850, de 1997, que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno N° s. 51 y 53, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector Km. 14.800,00 al km.
+
+21.300,00, que figuran a nombre de Industria Balatas Cabal S.A., Rol de Avalúo N° 183-61, comuna de Colina, superficies 7.837 y 3.181 m2. La comisión de peritos integrada por Ernesto Hernán Octavio Murillo Costa, Hans Weber Munich y María Teresa Hortal Santelices, fijó con fecha 12 de diciembre de 1997, el valor provisional de la indemnización en las cantidades de $ 230.094.320.- para el lote N° 51 y $ 95.959.558.- para el lote N° 53. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
