@@ -1,0 +1,5 @@
+Por Resolución N° 431, de 4 de Mayo de 1994, de este Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1319, de 1989, de esta Subsecretaría, que autorizó a don HECTOR WENCESLAO BARRIA MUÑOZ, R.U.T. N° 3.305.356-8, para operar un centro de cultivo de alga del género Gracilaria, ubicado en sector de La Pasada, Río Maullín, Comuna de Maullín, Provincia de Llanquihue, X Región, por haberse derogado el respectivo decreto de concesión marítima de acuicultura.
+
+Cadúcase la Resolución N° 1797, de 1989, de esta Subsecretaría, que autorizó a don Hernán Léniz Vargas, R.U.T. N° 5.885.358-5, para incorporar nuevas especies al centro de cultivo ubicado en San Rafael, Canal Huito, Comuna de Calbuco, X Región, en virtud de lo dispuesto en el artículo 6° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de Mayo de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
