@@ -1,0 +1,5 @@
+DISPONE EXCLUSION DE DON BENITO DEL CARMEN MUÑOZ ROJAS DE NOMINAS QUE SEÑALA
+
+Resolución Exenta No. 900, de fecha 2 de Abril de 1991, dispone exclusión de don Benito del Carmen Muñoz Rojas de las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al tercer llamado 1989 del Sistema General Unificado de Subsidio Habitacional, y deja sin efecto el Certificado de Subsidio Habitacional Serie A-89 No. 03-0371, extendido a su favor, quedando en 9.347 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente a dicho llamado, y en 1.271.980 Unidades de Fomento, el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de esos postulantes seleccionados.-
+
+Joan Mac Donald M., Subsecretaria de Vivienda y Urbanismo.
