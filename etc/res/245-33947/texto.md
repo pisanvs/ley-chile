@@ -1,0 +1,3 @@
+Por resolución N°245, de 30 Agosto 1993, del SERVIU V. Región de Valparaíso, se dispuso expropiación conforme art. 87 Ley 8.946 y D.L. 2.186, de 1978, que afecta parcialmente inmueble rol avalúo 5001-712, ubicado Sector Con-Con, Comuna Viña del Mar, entre calles Manantiales y Diez, de presunto dominio del Cuerpo de Bomberos de Viña del Mar, en superficie aproximada de 367 m2 Comisión Tasadora integrada por arquitectos Osvaldo Muñoz Quintana y Edmundo Bravo Ubilla, y Constructor Civil Sr. Pablo Caria Giurici, según informe de 23 Agosto 1993, fijó monto provisional indemnización en $ 1.101.000.-, la que será pagada de contado.-
+
+Director SERVIU V Región.
