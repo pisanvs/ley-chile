@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 1.068, de 31 de Octubre de 1997, se expropió el lote de terreno Nº 8, superficie 30, M2., rol de avalúo 130-1, comuna de Paine, para la obra Camino Alto Jahuel Huelquén Rol-5, G - 515 - H, Sector Alto Jahuel hacia Huelquén y se acordó precio de indemnización con su propietario Luis Alberto Cortínez Salazar, ascendente a la cantidad de $895.050.
+
+Fiscal del Ministerio de Obras Públicas.-
