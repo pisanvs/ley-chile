@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA INDO S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA PARCIALMENTE RESOLUCION QUE SEÑALA
+
+Por resolución N° 67, de 18 de Enero de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Indo S.A. domiciliada en Santiago, para ampliar actividades pesqueras, autorizadas por resolución N° 30, de 1981, de esta Subsecretaría, en orden a operar la embarcación "Eperva 58" en el litoral de las Regiones I a III, donde podrá extraer los siguientes recursos hidrobiológicos: Sardina española, jurel, anchoa y caballa. Se deroga en la resolución N° 123, de 1986, de esta Subsecretaría, la autorización otorgada a Pesquera Punta Angamos S.A., para operar la nave "Eperva 58", en el litoral de las Regiones I a III. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Enero de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
