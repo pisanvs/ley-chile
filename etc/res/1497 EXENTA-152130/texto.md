@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1497 de 12 de Agosto de 1987, conforme art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Expropiados y Reservas de Predios "Restos de la Hijuela Primera del Fundo Puyo" e "Hijuela A", que forma parte del resto de la Hijuela Primera del Fundo Todos los Santos y de la porción contigua denominada "El Bosque", de la comuna de Sagrada Familia, Séptima Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 14 y sitios 1 al 7 y 9 al 12 del Proyecto de Parcelación "La Estrella", formado por predio señalado y por Sector Expropiado Predio "Hijuela B, que forma parte del resto de la Hijuela Primera del Fundo Todos los Santos y de la porción de terreno contiguo al mismo, denominado El Bosque. Los derechos de agua se extraen de los canales Maritata y Colín; Estero Pichuco y derrame fundo Requingua y El Descanso.
+
+Publicación hecha conforme art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
