@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 1.462 de 27 de octubre de 1993 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se modifican las Resoluciones que se mencionan, en orden a que el servicio internacional de transporte de pasajeros entre Santiago-Valparaíso-Viña del Mar y Mendoza, por el Túnel Internacional del Cristo Redentor, efectuado con buses será atendido con una frecuencia diaria de ida y vuelta por la sociedad Empresa de Transportes Internacionales Chi-Ar Buses Limitada (Chi-ArBus).-
+
+Sergio González Tagle, Subsecretario de Transportes. +
