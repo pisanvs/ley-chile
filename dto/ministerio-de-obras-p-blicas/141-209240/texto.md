@@ -1,0 +1,5 @@
+Por decreto MOP Nº141, de 5 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº74-1 para la obra: "Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Subtramo: Cartagena - Las Cruces. Km. 3.700,00 AL Km.
+
+12.400,00", Quinta Región, que figura a nombre de Matetic Riestra Jorge José, rol de avalúo 620-135, comuna de El Tabo, superficie 193.397 m2. La comisión de peritos integrada por los señores María Isabel Ríos Marcuello, Claudia Paola Arellano Gómez y José Cristián Larraín Barros, fijó con fecha 6 de diciembre de 2002, el valor provisional de la indemnización en la cantidad de $192.859.650.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
