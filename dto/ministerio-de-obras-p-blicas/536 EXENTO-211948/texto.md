@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 536 de fecha 30 de mayo de 2003, se expropiaron los lotes de terreno Nºs 117, 117-A y 117-B, superficie 301, 23 y 40 m2 respectivamente, Rol Nº 194-47, comuna de Longaví, VII Región, para la obra "Camino Ruta L-49, Cruce Long. - Mesamavida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12" se acordó el valor de la indemnización con su propietaria María Angélica Farías Morales, ascendente a la cantidad de $2.131.756.
+
+- Fiscal del Ministerio de Obras Públicas.
