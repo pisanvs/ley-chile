@@ -1,0 +1,1 @@
+Decreto-Lei N° 364, que autoriza a los rematantes de los sitios de Mejillones para que puedan rescindir sus contratos.
