@@ -24,7 +24,7 @@ Funciones y Atribuciones
 
 2) Procurar el mejoramiento de las condiciones de vida de los campesinos y pescadores;
 
-3) Procurar la realización progresiva de una reforma agraria, que permita perfeccionar el régimen de tenencia de la tierra, su mejor explotación y mayor productividad;
+3) Derogado;
 
 4) Determinar las razas del ganado mayor y menor, las especies de peces y las variedades de los vegetales y de las aves que sean más apropiadas para las diferentes regiones del país, con el objeto de propender a la racionalización de la producción agrícola y perquera;
 
