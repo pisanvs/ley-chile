@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 697, de fecha 22 de noviembre de 1995, se expropiaron los lotes de terreno N°s. 1 y 19, superficies 54,50 m2 y 945 m2, roles de avalúos 3713-4 y 159-91, comunas de Talca y San Clemente, para la obra Camino Ruta 115-CH, sector Talca San Clemente y se acordó precio de indemnización con sus propietarios Gabriela de la Paz Gutiérrez Valenzuela y Germán Eleazar Bravo Martínez, ascendente a las cantidades de $937.768 y $3.381.147.
+
+Fiscal del Ministerio de Obras Públicas.
