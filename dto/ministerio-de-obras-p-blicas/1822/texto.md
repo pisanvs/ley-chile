@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.822, de 30 de septiembre de 1998, se expropiaron los lotes de terreno Nºs. 37 y 38, superficies 7.137,8 m² y 6.160,2 m², rol de avalúo 414-22, comuna de Gorbea, para la obra Concesión Internacional Ruta 5 Sur, Tramo Temuco - Río Bueno y se acordó el valor de indemnización con su propietario René Teobaldo de la Barra Liebbe, ascendente a la cantidad total de $7.884.787.-
+
+Fiscal del Ministerio de Obras Públicas.
