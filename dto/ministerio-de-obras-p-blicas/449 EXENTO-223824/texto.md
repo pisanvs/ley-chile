@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 449 de fecha 26 de Marzo de 2004, se expropió el lote de terreno Nº 79, superficie 21 m2, rol de Avalúo Nº 267-35, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, sector 2 Carrizal - Puente Belco, tramo Km. 23,38000 a Km. 41,26600", VII Región y se acordó el valor de la indemnización con su propietario Gastón Alfonso Bueno Salgado, ascendente a la cantidad de $218.999.
+
+Fiscal dei Ministerio de Obras Públicas.
