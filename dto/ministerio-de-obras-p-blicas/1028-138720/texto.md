@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.028, de 29 de abril de 1999, se expropiaron los lotes de terreno No. s.6, 13 y 18, superficies 111, 56,80 y 133 mý, respectivamente, roles de avalúo 105-5, 456-11 y 500-31, comuna de San José de Maipo, para la obra Camino Ruta G-25, sector San José de Maipo-San Gabriel y se acordó precio de indemnización con sus propietarios Sociedad Comercial Macael Ltda., Atanacio y María Jubera del Río y otros y Pedro Silva Durán y otra, ascendentes a las cantidades de $ 2.114.055, $ 7.152.552 y $ 9.767.584.-
+
+Fiscal del Ministerio de Obras Públicas.
