@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.704 de 29 de noviembre del 2002, se expropió el lote de terreno Nº18-1, superficie 127 m2., rol de Avalúo 4427-2, comuna de San Bernardo, para la obra Sistema Norte Sur Tramo D: Ruta 5 Sur Carlos Valdovinos Kms. 7.148,00 al 9.446,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Banco de Chile, ascendente a la cantidad de $2.840.896.-
+
+Fiscal del Ministerio de Obras Públicas.
