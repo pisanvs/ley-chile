@@ -1,0 +1,3 @@
+Por decreto MOP Nº 982 de 29 de octubre de 2004, se expropió el lote de terreno Nº 44, superficie 75 m²., Rol Nº 1405-4, comuna de Antofagasta, II Región para la obra ''Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento - Avda. Costanera, Comuna de Antofagasta, Provincia de Antofagasta, II Región, sector Avda. Sarmiento - Calle Cardenal Oviedo Cavada'' y se acordó el valor de indemnización con su propietario Alberto García, ascendente a la cantidad de $34.602.619.-
+
+Fiscal del Ministerio de Obras Públicas.
