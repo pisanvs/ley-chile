@@ -1,0 +1,3 @@
+Por Resolución N° 189, de 26 de enero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PISCICULTURA ASMOL LIMITADA, R.U.T. N° 78.638.160-6, para iniciar actividades pesqueras, en orden a instalar y operar una planta ubicada en Posada Cuñibal s/n, Lote B, Los Angeles, VIII Región, donde podrá procesar en las líneas de elaboración de Fresco-enfriado, Ahumado, Conserva y Congelado, los recursos hidrobiológicos Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado, Trucha arcoiris.
+
+Valparaíso, 26 de enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
