@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 591, de 23 de septiembre de 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Manuel Rodríguez Nº 438, Rol de avalúo 2770-2, comuna Chiguayante, superficie 185,40 m2. de terreno y 213,77 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.072, de aparente dominio de Luis Poncell Trenit, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y DL 2.186. Comisión peritos integrada por Gabriel Fernández de la Maza, ingeniero civil; Sergio Labarca Garrido, constructor civil, y Boris Aptecar González, arquitecto, según informe de fecha 28 de agosto de 2004 fijó monto provisional indemnización en $27.439.550, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
