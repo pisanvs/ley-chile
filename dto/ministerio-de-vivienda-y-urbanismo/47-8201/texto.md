@@ -168,6 +168,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Edificio nuevo»: DEROGADO.
 
+«Elemento constructivo»: conjunto de materiales que debidamente dimensionados cumplen una función definida, tales como muros, tabiques, ventanas, puertas, techumbres, etc.
+
 «Elemento de estructura»: todo elemento resistente u orgánico de una construcción, como cimientos, muros soportantes, suelos, pilares, techumbres, torres y otros análogos.
 
 «Elementos de construcción no combustibles»: aquellos que no se encienden ni alimentan la combustión bajo la acción del fuego, o bien, tienen una base estructural incombustible cubierta por un revestimiento de menos de 3 mm de espesor en el cual la propagación de la llama tiene una velocidad inferior a 5 m/min.
@@ -188,7 +190,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Estudio de ascensores»: evaluación de cargas, flujos y demás aspectos técnicos que determinan las características de diseño de la instalación de ascensores, para satisfacer las necesidades de un proyecto de edificación, suscrito por un profesional especialista o por el fabricante.
 
-«Estudio de carga combustible»: evaluación de los materiales, elementos, componentes, instalaciones y contenidos de un edificio, realizada conforme a la norma NCh 1916, suscrito por un profesional especialista.
+«Estudio de carga combustible»: evaluación de los materiales, elementos, componentes, instalaciones y contenidos de un edificio y su clasificación, realizada conforme a las normas NCh 1916 y NCh 1993, suscrito por un profesional especialista.
 
 «Estudio de evacuación»: evaluación de los sistemas de evacuación de una edificación en caso de emergencia, que garantice la salida de las personas, conforme a la carga de ocupación del proyecto, suscrito por un profesional especialista.
 
@@ -202,11 +204,13 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Galería»: espacio generalmente cubierto, horizontal o en rampa, destinado a la circulación de público, con locales comerciales a uno o ambos lados.
 
-«Informe de riesgos»: DEROGADO.
+Informe de riesgos»: DEROGADO.
 
 «Inmueble de conservación histórica»: el individualizado como tal en un Instrumento de Planificación Territorial dadas sus características arquitectónicas, históricas o de valor cultural, que no cuenta con declaratoria de Monumento Nacional.
 
-«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente. Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
+«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente.
+
+Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
 
 «Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regional de Desarrollo Urbano, al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional y al Límite Urbano.
 
@@ -420,7 +424,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Vivienda unifamiliar»: la destinada a residencia de una familia con salida independiente a una vía de uso público.
 
-«Volumen de la edificación»: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
+«Volumen de la edificación«: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
 
 «Volumen teórico»: volumen o envolvente máxima, expresado en metros cúbicos, resultante de la aplicación de las disposiciones sobre superficies de rasante, distanciamientos, antejardines y alturas máximas, cuando las hubiere, en un terreno determinado.
 
@@ -440,7 +444,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
 
-> **Nota.** NOTA 2 El artículo primero transitorio del decreto-115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
+> **Nota.** NOTA 2 El artículo primero transitorio del decreto 115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
 
 #### Artículo 1
 
@@ -2514,7 +2518,7 @@ IV a IX Región y R.M. 70°
 
 X a XII Región 60°
 
-En cualquier caso, los edificios aislados de cinco o más pisos ubicados en zonas sin límite de altura, no podrán ocupar un volumen edificado superior al 90% del volumen teórico.
+volumen teórico.
 
 Los distanciamientos, medidos en cada una de las alturas de la edificación que se señalan en la siguiente tabla, consideradas separadamente, serán:
 
@@ -2540,9 +2544,9 @@ En casos de edificación aislada por sobre la edificación continua, para la apl
 
 Las construcciones en subterráneos deberán cumplir con las siguientes normas sobre distanciamientos:
 
-1. En caso que el respectivo Plan Regulador Comunal no contemple normas sobre distanciamientos aplicables a los subterráneos, las construcciones en subterráneo podrán adosarse al deslinde, con excepción del área bajo el antejardín.
+1. En caso que el respectivo Plan Regulador Comunal no contemple normas sobre distanciamientos aplicables a los subterráneos, las construcciones en subterráneo podrán adosarse al deslinde, con excepción del área bajo el antejardín, salvo en los casos en que el Instrumento de Planificación Territorial lo permita.
 
-Con todo, para asegurar la absorción de aguas lluvia al interior del predio y la arborización del mismo la ocupación con construcciones en el primer subterráneo no podrá superar el 70% de la superficie total del predio.
+Con todo, para asegurar la absorción de aguas lluvia al interior del predio y la arborización del mismo la ocupación con construcciones en el primer subterráneo no podrá superar el 70% de la superficie total del predio, salvo en los casos en que el Instrumento de Planificación Territorial permita un porcentaje mayor de ocupación de suelo.
 
 Cuando los subterráneos se adosen se deberá presentar a la Dirección de Obras Municipales un informe de un profesional competente respecto de las medidas de seguridad y de estabilidad estructural correspondientes.
 
@@ -3286,7 +3290,39 @@ Los edificios del cuarto grupo no podrán construirse en sectores habitacionales
 
 #### Artículo 4
 
-1.6. En los edificios de tres o más pisos, y en todos los edificios cualquiera sea su número de pisos en que coincida la línea de edificación con la línea oficial, las aguas lluvias provenientes de las cubiertas, terrazas, patios descubiertos, y demás espacios análogos, no podrán derramarse directamente sobre el terreno adyacente y sobre espacios o vías de uso público, debiendo ser éstas debidamente canalizadas en todo su recorrido desde el lugar del cual provienen hasta el nivel del terreno en el que se vierten. El proyectista deberá proponer un sistema, aceptable para la Dirección de Obras Municipales, que demuestre fehacientemente que el derrame de las aguas lluvias sobre el terreno no ocasionará molestias al tránsito peatonal especialmente en aquel que se desarrolla en los espacios de uso público.
+1.6. Todas las unidades de vivienda, que conformen edificios colectivos, o que constituyan edificaciones continuas, pareadas o contiguas a recintos de uso no habitacional cuando el uso sea mixto, deberán cumplir entre unidades con las exigencias acústicas que se señalan a continuación:
+
+1. Cada elemento horizontal o inclinado que separe unidades independientes de vivienda o con recintos de uso no habitacional deberá tener un índice de reducción acústica mínima de 45 dB(A) y presentar un nivel de presión acústica de impacto normalizado máximo de 75 dB, verificados según las condiciones del punto 4 de este mismo artículo.
+
+2. Los elementos verticales que separen unidades independientes de vivienda o con recintos de uso no habitacional deberán tener un índice de reducción acústica mínima de 45 dB(A), verificados según las condiciones del punto 4 de este mismo artículo.
+
+3. Las uniones y encuentros entre elementos de distinta materialidad, que conforman un elemento separador entre unidades independientes, deberán diseñarse dando cumplimiento a las disposiciones señaladas en los puntos 1 y 2.
+
+4. Para efectos de demostrar el cumplimiento de las condiciones establecidas en los puntos 1 y 2 se deberá optar por una de las siguientes alternativas:
+
+a) La solución constructiva especificada para los elementos horizontales, verticales o inclinados deberá corresponder a alguna de las soluciones inscritas en el Listado Oficial de Soluciones Constructivas para Aislamiento Acústico del Ministerio de Vivienda y Urbanismo.
+
+b) Demostrar el cumplimiento de las exigencias señaladas en los puntos 1 y 2 para la solución especificada, mediante una de las siguientes alternativas:
+
+1. Informe de Ensayo:
+
+a) para índice de reducción acústica en elementos verticales y horizontales, de acuerdo a método de ensayo especificado en NCh 2786, ponderado según ISO 717-1.
+
+b) para nivel de presión acústica de impacto normalizado de acuerdo a método de ensayo especificado en ISO 140-6, ponderado según ISO 717-2.
+
+El informe deberá especificar en detalle los materiales y la solución constructiva que conforma el elemento sometido a ensayo.
+
+El informe deberá ser emitido por un laboratorio con inscripción vigente en el Registro Oficial de Laboratorios de Control de Calidad de Construcción del Ministerio de Vivienda y Urbanismo.
+
+2. Informe de Inspección:
+
+a) para índice de reducción acústica aparente en elementos verticales y horizontales de acuerdo a método de ensayo especificado en NCh 2785, ponderado según ISO 717-1.
+
+b) para nivel de presión acústica de impacto normalizado de acuerdo a método de ensayo especificado en ISO 140-7, ponderado según ISO 717-2.
+
+El informe deberá especificar en detalle los materiales y la solución constructiva que conforma el elemento sometido a inspección.
+
+El informe de inspección deberá ser emitido por una entidad con inscripción vigente en el Registro de Consultores o por un laboratorio con inscripción vigente en el Registro Oficial de Laboratorios de Control de Calidad de Construcción, ambos del Ministerio de Vivienda y Urbanismo.
 
 #### Artículo 4
 
@@ -3483,6 +3519,10 @@ Se exceptúan de la distancia mínima indicada en el inciso anterior las fachada
 1.15. Los conjuntos de viviendas unifamiliares, en extensión de hasta 3 pisos de altura, estén o no acogidos al régimen de copropiedad inmobiliaria, deberán contemplar una distancia mínima libre horizontal frente a los vanos de recintos habitables, equivalente a 4,0 m cuando enfrenten vanos de recintos habitables de otra vivienda, y a 2,0 m cuando no enfrenten vanos de recintos habitables. En esta última situación se incluyen los vanos de recintos habitables que enfrentan un muro de cierro, un muro de fachada sin vano de recinto habitable o un muro de fachada con vano pero de recinto no habitable.
 
 Lo dispuesto en el inciso anterior no será exigible en el caso de fachadas o partes de las mismas que no consulten vanos o que consultándolos éstos correspondan a recintos no habitables, las que no deben cumplir ninguna distancia mínima libre.
+
+#### Artículo 4
+
+1.16. En los edificios de tres o más pisos, y en todos los edificios cualquiera sea su número de pisos en que coincida la línea de edificación con la línea oficial, las aguas lluvias provenientes de las cubiertas, terrazas, patios descubiertos, y demás espacios análogos, no podrán derramarse directamente sobre el terreno adyacente y sobre espacios o vías de uso público, debiendo ser éstas debidamente canalizadas en todo su recorrido desde el lugar del cual provienen hasta el nivel del terreno en el que se vierten. El proyectista deberá proponer un sistema, aceptable para la Dirección de Obras Municipales, que demuestre fehacientemente que el derrame de las aguas lluvias sobre el terreno no ocasionará molestias al tránsito peatonal especialmente en aquel que se desarrolla en los espacios de uso público.
 
 ## Capítulo 2
 
@@ -4084,7 +4124,7 @@ DESTINO DEL SUPERFICIE EDIFICADA NUMERO DE PISOS
 
 EDIFICIO (m2) 1 2 3 4 5 6 7
 
-o más
+o ms
 
 Habitacional Cualquiera d d c c b a a
 
@@ -4108,7 +4148,7 @@ Museos sobre 500 y hasta 1.500 c c c b b b a
 
 hasta 500 d c c b b b a
 
-Salud (clínica, sobre 1.000 c b b a a a a
+Salud (clnica, sobre 1.000 c b b a a a a
 
 Hospitales y hasta 1.000 c c b b a a a
 
@@ -4116,7 +4156,7 @@ laboratorios)
 
 Salud sobre 400 c c b b b b a
 
-(Policlínicos) hasta 400 d c c b b b a
+(Policlnicos) hasta 400 d c c b b b a
 
 Restaurantes y sobre 500 b a a a a a a
 
@@ -4140,7 +4180,7 @@ hasta 250 d c b b a a a
 
 Centro de Cualquiera d c c b b b a
 
-reparación
+reparacin
 
 automotor
 
@@ -4150,15 +4190,15 @@ estacionamiento
 
 TABLA 2
 
-DESTINO MÁXIMO DE OCUPANTES NUMERO DE PISOS
+DESTINO MXIMO DE OCUPANTES NUMERO DE PISOS
 
 DEL EDIFICIO 1 2 3 4 5 6
 
-o más
+o ms
 
 Teatros y sobre 1.000 b a a a a a
 
-espectáculos sobre 500 y hasta 1.000 b b a a a a
+espectculos sobre 500 y hasta 1.000 b b a a a a
 
 sobre 250 y hasta 500 c c b b a a
 
@@ -4178,9 +4218,13 @@ Docentes sobre 250 y hasta 500 c c b b a a
 
 hasta 250 d c c b b a
 
+TABLA 3
+
 1MJ/m2= 238.85 k cal/m2
 
-1 MJ= 0.06 kg madera equivalente de 4.000 k cal/kg
+1 MJ= 0.053 kg madera equivalente de 4.000 k cal/kg
+
+(*) Para clasificar un edificio o sector de él, se aplica la densidad de carga combustible mayor de ambas columnas de la Tabla 3.
 
 INCISO ELIMINADO.
 
