@@ -1,0 +1,5 @@
+Por resolución Nº 2.250, de 18 de octubre de 2000, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 2.194 del 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', en el sentido de reemplazar la nave ''Tricahue'' por la nave ''Tritón'', ambas de propiedad de Tripesca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Asimismo, modifícase el numeral 5º de la resolución Nº 2.194 del 2000, en el sentido de señalar que Pesquera Chivilingo S.A., Pesquera del Cabo S.A., Pesquera del Norte S.A., Pesquera Tarapacá S.A., Pesquera Travesía S.A., y Pesquera Pemesa S.A., participarán en forma conjunta en la señalada pesca de investigación con las naves ''María José'' y ''Don Manuel''.
+
+Valparaíso, 18 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
