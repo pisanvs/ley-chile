@@ -1,0 +1,3 @@
+Por resolución Nº 2.053, de 15 de septiembre de 2000, de esta Subsecretaría, cadúcase la resolución Nº 412 de 1989, de esta Subsecretaría, que autorizó a la SOCIEDAD AGRICOLA AGUAS BLANCAS LIMITADA, para realizar actividades pesqueras de transformación, en la planta de proceso ubicada en la Parcela Nº 13, Camino Pajaritos s/n, Malloco, comuna de Peñaflor, conforme lo dispuesto en el artículo 7 del D.S. Nº 175 de 1980 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
