@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.576, de 31 de diciembre de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 208 de 1983, de esta Subsecretaría, sólo en cuanto autorizó a PESCA CHILE S.A. para realizar actividades pesqueras con el buque fábrica "Betanzos", sobre el recurso bacalao de profundidad, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 31 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
