@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.058, de 30 de julio de 1999, se expropió el lote de terreno No. 75-5, superficie 194,0 m2., rol de avalúo 217-26, comuna de Perquenco, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli - Temuco", Novena Región y se acordó el valor de indemnización con su propietario Manuel Segundo Lemonao Quiñinao, ascendente a la cantidad de $ 257.201.-
+
+Fiscal del Ministerio de Obras Públicas.
