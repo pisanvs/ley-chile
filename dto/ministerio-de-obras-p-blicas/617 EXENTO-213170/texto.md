@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 617 de fecha 30 de junio de 2003, se expropiaron los lotes de terreno Nº 47, 47-A y 47-B, superficies 6.305 m², 695 m² y 360 m², rol de avalúo Nº 189-11, comuna de Curepto, para la obra "Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco Curepto - Puente Lautaro Tramo Km. 46,180 a Km. 83,91430", VII Región, y se acordó el valor de la indemnización con su propietaria Carmen Julia Ramírez Castillo y Otro, ascendente a la cantidad de $1.296.954.-
+
+Fiscal del Ministerio de Obras Públicas.
