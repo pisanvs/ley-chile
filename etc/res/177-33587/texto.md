@@ -1,0 +1,5 @@
+EXTRACTOS DE EXPROPIACIONES
+
+Por Resolución N° 177 de fecha 30 de Agosto de 1993, conforme artículo 51 Ley 16.391 y Decreto Supremo N° 68 de 1991 de Vivienda y Urbanismo y para prolongar la doble vía de la Avenida Estadio de la Ciudad de Temuco, en su calzada Norte, entre calles Hochstetter y Sanger, la cual está contemplada en el Plano Regulador Comunal de Temuco, SERVIU IX Región dispuso expropiación inmueble ubicado en la Ciudad y Comuna de Temuco, que corresponde a parte del Rol de Avalúo N° 1572-10 de la Comuna de Temuco, de aparente dominio de don Fernando Hochstetter Reusch, presuntamente inscrito a fojas 522 N° 490 del Registro de Propiedad del Conservador de Bienes Raíces de Temuco de 1961. Informe tasación expropiación fecha 18 Agosto 1993 Comisión Peritos Srs. Mario Molina Ramwell, Constructor Civil, Roberto Gesche Robert, Ingeniero Civil, y Mario Gutiérrez Truan, Arquitecto. Monto indemnización provisional suma $4.671.507.- Pagadero contado.-
+
+Directora SERVIU IX Región.
