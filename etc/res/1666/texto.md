@@ -1,0 +1,5 @@
+Por Resolución N° 1.666, de 9 de septiembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA MARFISH LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Piloto Pardo s/n, sector Playa, Lota, VIII Región, donde podrá procesar, en las líneas de elaboración que se señalan a continuación, los siguientes recursos hidrobiológicos: Salado: Anchoa o Anchoveta y Jurel, Semi-Conserva en aceite: Anchoa o Anchoveta.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 9 de septiembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
