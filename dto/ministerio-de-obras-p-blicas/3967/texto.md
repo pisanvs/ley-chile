@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.967 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 48-3, superficie 4.345 m²., rol de avalúo 293-53, comuna de Frutillar, para la obra ''Concesión Internacional Ruta 5 Tramo: Río Bueno-Puerto Montt, Sector: Enlace Casma Km. 967,400 a Km. 968,100'' y se acordó el valor de indemnización con su propietaria Patricia Pérez Barría, ascendente a la cantidad de $3.677.174.-
+
+Fiscal del Ministerio de Obras Públicas.
