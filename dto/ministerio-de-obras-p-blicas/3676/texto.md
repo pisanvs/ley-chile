@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.676, de 28 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº15-12, superficie 251 m², rol de avalúo 204-46, comuna de Rengo, Sexta Región, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector G: Km. 110.200,00 - Km. 128.400,00. Posteriormente, por decreto MOP Nº4.828, de 31 de octubre del 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietaria Laura Torres Pavez, ascendente a la cantidad de $22.811.422.-.-
+
+Fiscal del Ministerio de Obras Públicas.
