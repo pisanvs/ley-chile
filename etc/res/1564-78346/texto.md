@@ -1,0 +1,3 @@
+Por Resolución Nº 1.564, de 14 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95104018, presentada por ALVARO RODRIGO GARRIDO MELO, para el centro de cultivo ubicado en Canal Caicaen, Comuna de Calbuco, Provincia de Llanquihue, X Región conforme lo dispuesto en el artículo 78, inciso 2º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
