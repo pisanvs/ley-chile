@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 149, de 29 de febrero de 1996, se expropiaron los lotes de terreno N°s. 21, 30, 31, 48 y 62, superficies 2.025 m2.,13.528 m2.,7.482 m2., 2.600 m2 y 236 m2., roles de avalúo 1035-65, 1035-125, 1035-126, 302-119 y 301-91, comunas de Maipú y Peñaflor, para la obra Camino Autopista Santiago - San Antonio, sector Empalme Isabel Riquelme - Bif. Malloco, y se acordó el valor de indemnización con sus propietarios Soc. Construcciones e Ingeniería Maya S.A., Carmen Gloria Gandarillas Oviedo, Luis Gandarillas Oviedo, Jorge Daniel Bowen Bobenrieth y otro, y Mercedes Zúñiga Negrete y otra, ascendente alas cantidades de $ 14.847.657.-; $ 69.036.793.-; $ 38.182.531.-; $ 16.438.650.-, y $ 1.352.040.-, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
