@@ -1,0 +1,1 @@
+Declara en reorganización los Servicios Médicos Legales y fija las plantas y remuneraciones de sus funcionarios.
