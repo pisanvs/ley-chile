@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1915 de 09 de Septiembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela La Invernada, Hijuela Nor-Poniente del Fundo Las Acacias o El Recreo y resto del Fundo Santa Filomena antes Hijuela Nor-Oriente del Fundo Las Acacias y Loma Linda" de la Comuna de Coltauco, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 10, Sitios N°s. 1 al 7 del Proyecto de Parcelación "El Olivo" formado por predio señalado. Los Derechos de Agua se extraen del Canal Doñihue y Parral derivado del Río Cachapoal y del Canal La Higuera, derivado del Estero Purén.
+
+Publicación hecha conforme Art. 13 Ley 18.377.-
+
+Director Ejecutivo.
