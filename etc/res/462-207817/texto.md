@@ -1,0 +1,3 @@
+Por resolución Nº 462, de 13 de febrero de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110453 presentada por JORGE ALEJANDRO CARLOS JOSE OSSA ARANGUA, para un centro de cultivo ubicado en Estero Quitralco, XI Región. Déjase sin efecto resolución Nº 1.062 de 2002, de esta Subsecretaría de Pesca.
+
+Valparaíso, 13 de febrero de 2003.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
