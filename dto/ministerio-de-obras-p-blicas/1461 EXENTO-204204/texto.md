@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.461 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº100-C, superficie 40 m², rol de Avalúo en trámite, comuna de San Fernando, para la obra ''Camino San Fernando - Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264'', VI Región y se acordó el valor de la indemnización con su propietaria Irma Alexandra Huerta Jiménez, ascendente a la cantidad de $1.361.660.-
+
+Fiscal del Ministerio de Obras Públicas.
