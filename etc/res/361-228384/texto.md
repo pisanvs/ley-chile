@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 361, 08 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 1636, Chgte. Sur, Rol de Avalúo Nº 3113-92, comuna Chiguayante, superficie 103,97 m2. de terreno y 48,59 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.144, de aparente dominio de Isaías Regino Nauto Soto, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Eduardo Rivera Gajardo, arquitecto, Alejandra Gutiérrez Flores, arquitecto y Marcelo Andrade Pérez, arquitecto, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $13.203.201.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
