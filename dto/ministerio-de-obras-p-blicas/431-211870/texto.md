@@ -1,0 +1,3 @@
+Por decreto MOP Nº 431 de 30 de abril de 2003, se expropió el lote de terreno Nº 46-1, superficie 207.00 m2. rol de avalúo 118-210, comuna de Quilicura, para Concesión Camino Santiago - Colina - Los Andes. Sector A: A. Vespucio - By Pass Colina. Km. 0.504,10 a Km. 4.758,40. Región Metropolitana y se acordó el valor de indemnización con María Filomena del Tránsito Villarroel Corro, ascendente a la cantidad de $1.502.618.-
+
+Fiscal del Ministerio de Obras Públicas.
