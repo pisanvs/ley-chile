@@ -1,0 +1,3 @@
+Por Decreto MOP N°455, de 28 de junio de 1996, se expropiaron los lotes de terreno N°s. 24, 25 y 27, superficies 3.687 m2., 12.454 m2. y 23.094 m2., rol de avalúo 2247-92, comuna de Chillán, para la obra Camino Acceso Norte a Concepción y se acordó el valor de indemnización con sus propietarios Sucesión Jaque González, ascendente a la cantidad de $46.794.992.
+
+Fiscal del Ministerio de Obras Públicas.
