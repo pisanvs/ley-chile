@@ -1,0 +1,3 @@
+Por decreto MOP No. 902, de 30 de junio de 1998, se expropió el lote de terreno No. 44, superficie 98.672,8 m2., rol de avalúo 185-11, comuna de Colina, para la obra Camino Santiago - Colina - Los Andes, Sector "B" by pass Colina, km. 7.626,70 al 9.820,00 y se acordó el valor de indemnización con su propietaria Cía. Minera Disputada de Las Condes, ascendente a la cantidad de $ 379.420.033.
+
+- Fiscal del Ministerio de Obras Públicas.
