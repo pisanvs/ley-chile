@@ -1,0 +1,3 @@
+Por decreto MOP Nº804 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nº20-A, 23 y 25, superficies 7.000, 1.512 y 2.547 m2, rol de avalúo Nº53-11, comuna de La Estrella, para la obra ''Proyecto Mejoramiento Ruta I-20, Sector Los Maitenes - La Estrella - Las Damas, Km. 20,500 al Km. 27,715317'', VI Región y se acordó el valor de indemnización con su propietario Sucesión de don Teobaldo Fuentes Beas y doña Ursula Cabello Faúndez, ascendente a la cantidad de $45.549.212.-
+
+Fiscal del Ministerio de Obras Públicas .
