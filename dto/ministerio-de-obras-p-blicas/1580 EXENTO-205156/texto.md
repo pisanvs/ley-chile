@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.580, de 31 de octubre de 2002, se expropió el lote de terreno Nº27-A, superficie 772,00 m2., rol de avalúo 1502-101, comuna de Los Angeles, para Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli. Sector: Km. 483.400,00 al Km. 498.800,00 VIII Región y se acordó el valor de indemnización con Olga Dolores Ehrenfeld Jaramillo, ascendente a la cantidad de $1.023.320.-
+
+Fiscal del Ministerio de Obras Públicas.
