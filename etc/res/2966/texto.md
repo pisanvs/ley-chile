@@ -1,0 +1,3 @@
+Por resolución Nº 2.966, de 20 de diciembre de 2002 de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.459 de 1997, de esta Subsecretaría, que autorizó a GASTON MENDOZA GOMEZ para operar la nave "Ikela", con arrastre, en la V Región, sobre el recurso hidrobiológico Camarón nailon, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
