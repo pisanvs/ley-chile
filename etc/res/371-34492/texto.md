@@ -1,0 +1,7 @@
+Por Resolución N° 371, de 14 de Abril de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SALMOSERVICE S.A., R.U.T. N° 96.597.500-4, para iniciar actividades pesqueras, en orden a operar una planta ubicada en calle Ureta Cox N° 113, San Joaquín, Santiago, donde podrá procesar en las líneas de elaboración que se indican, los siguiente recursos hidrobiológicos: Semiconserva: Salmón del atlántico, Salmón plateado, Salmón rey y Trucha arco iris; Ahumado: Salmón cereza, Salmón del atlántico, Salmón rey, Trucha arco iris y Trucha café; Salado: Anchoa o anchoveta; Conserva: Pejerrey de mar, Salmón del atlántico, Salmón rey, Trucha arco iris, Trucha café, Calamar, Caracol locate, Caracol palo palo, Caracol picuyo, Caracol piquilhue, Caracol rubio, Caracol tegula, Caracol trophon, Caracol trumulco, Cholga, Chorito, Culengue, Macha, Ostión del norte, Ostión del sur, Centolla, Centollón, Jaiba, Jaiba limón, Jaiba mármola, Jaiba mora, Jaiba panchote, Jaiba peluda o pachona, Jaiba reina, Langostino amarillo y Langostino colorado.
+
+Los recursos Salmón del atlántico, Salmón rey, Salmón plateado, Salmón cereza, Trucha arco iris, Trucha café y Ostión del norte, deberán provenir de centros de cultivos autorizados.
+
+En el ejercicio de las actividades de procesamiento autorizadas, la solicitante deberá dar estricto cumplimiento a las normas legales y reglamentarias que regulen la conservación de recursos hidrobiológicos.
+
+Valparaíso, 14 de Abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
