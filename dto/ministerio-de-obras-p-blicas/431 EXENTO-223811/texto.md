@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 431, de 23 de marzo de 2004, se modificó el numeral 1º del decreto exento MOP Nº 803, de 22 de agosto de 2003, en el sentido que los lotes Nº s. 6-A y 9, de la comuna de Frutillar, se encuentran en la provincia de Llanquihue. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
