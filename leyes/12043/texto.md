@@ -1,0 +1,1 @@
+Substituye los artículos 1.°, 2.° y 4.° de la ley 11.293, de 12 de noviembre de 1953, que autorizó a la Municipalidad de Limache para contratar uno o más empréstitos con el fin de construír diversos edificios municipales.
