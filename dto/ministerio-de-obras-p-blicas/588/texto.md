@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 588, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 119 y 122, superficies 5.594 y 11.328 M2., roles de avalúo 127-81 y 128-82, comuna de El Carmen, para la obra Proyecto Laja Diguillín , Canal Matriz Sector Pemuco Diguillín, y se acordó precio de indemnización con sus propietarios Carlos Segundo Muñoz Solís y María Hilda Sandoval Stevens, ascendente a la cantidades de $1.546.566 y $3.675.726, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas
