@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº598 de 17 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para el Fisco los lotes Nºs 4, 6 y 12, para la obra: Mejoramiento Zanjón de la Aguada, Tramo III; Km.
+
+4,408,86 a Km. 10,167,10 comunas de Macul y San Joaquín, que figuran a nombre de Grau S.A. Aglomer. de Hormigón, Rol de avalúo 7911-3, Comuna de Macul, Región Metropolitana, superficies 856 m2., 263,64 m2. y 4,142 m2. La Comisión de Peritos, fijó con fecha 14 de diciembre de 1999, el monto de la indemnización provisional en la cantidad de $6.327.360.-, para el lote Nº6 y con fecha 3 de marzo del 2000, en la cantidad de $13.696.000.- para el lote Nº4 y $106.864.- para el lote Nº12. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
