@@ -1,0 +1,3 @@
+Por Decretro M.O.P. N° 213, de 28 de abril de 1995, se expropiaron los lotes de terreno N°s 1-A y 1, Canal Santa Sara y Lote N° 1, Canal Poniente, superficies 7.480, 11.324,1 y 1.650 M2., respectivamente, roles de avalúos 103-54 y 103-9, comuna de Pencahue, para la obra Regadío Pencahue y se acordó precio de indemnización con sus propietarios Gabriela Gómez Leppe y Emilia Goméz Leppe, ascendente a las cantidades $621.020 y $1.035.352.
+
+Fiscal del Ministerio de Obras Públicas.
