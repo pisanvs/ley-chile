@@ -1,0 +1,3 @@
+Por resolución exenta No. 277 de 16 de Junio de 1989, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se ha autorizado a la empresa Delmar Containers S.A. (DELMAR S.A.), Domiciliada en Avenida Lota No. 2486, Providencia, Santiago, para que efectúe en su Depósito de Valparaíso, Martínez Cruz No. 1965, Placilla, inspección de contenedores con el objeto de garantizar sus condiciones de seguridad, permitiendo la actualización de su placa CSC. de aprobación (replaqueo), de acuerdo con las normas establecidas en el Convenio Internacional sobre Seguridad de los Contenedores (CSC.) y sus Anexos, instrumentos que se entienden incorporados a la presente resolución.
+
+Carlos Silva Echiburu, Ministro de Transportes y Telecomunicaciones.
