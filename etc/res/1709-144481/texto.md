@@ -1,0 +1,3 @@
+Por resolución Nº 1.709, de 2 de septiembre de 1999, de esta Subsecretaría, amplíase por un año, a contar del 25 de agosto de 1999, el plazo otorgado en la resolución Nº 1.078 de 1998, de esta Subsecretaría, a SOCIEDAD DE FOMENTO INDUSTRIAL Y COMERCIAL ALBATROS S.A., para iniciar actividades pesqueras de transformación, en la planta ubicada en el sector Huicha, camino a Queilen, Km. 3, comuna de Chonchi, provincia de Chiloé, en virtud de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 2 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
