@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA IQUIQUE S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por Resolución N° 33, de 10 de Enero de 1986, de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Iquique S.A., domiciliada en Santiago, para operar la embarcación actualmente en construcción denominada Curanipe, individualizada en el contrato de construcción celebrado entre la Empresa en referencia y Astilleros Arica S.A.; en el litoral de la VIII Región, en labores extractivas de los siguientes recursos: jurel, sardina española, sardina común, anchoa, bonito, caballa, cachurreta, agujilla, cojinova y atún; de las cuales sólo podrá destinar a reducción, jurel, sardina española, sardina común, anchoa y caballa, y el resto deberá destinar a su industrialización para consumo humano directo. La embarcación deberá contar a bordo con sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 10 de Enero de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
