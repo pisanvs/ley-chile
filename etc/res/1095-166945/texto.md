@@ -1,0 +1,5 @@
+AUTORIZA A DON ROBERTO MATUS DIAZ PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.095 de 15 de Septiembre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Roberto Matus Díaz, R.U.T. No. 4.519.807-3, domiciliado en Centro de Apoyo de Melimoyu, Comuna de Cisnes, Provincia de Aysén, XI Región, para iniciar actividades pesqueras de transformación consistente en acopio y refrigeración de recursos hidrobiológicos, en la Parcela No. 6 (lote No. 27) de su mismo domicilio. Adquirirá de pescadores artesanales de la región y de terceros los siguientes recursos hidrobiológicos: Merluza del Sur, congrio dorado, congrio colorado, mero, chorito, cholga, loco, almeja, jaiba y erizo. Dichos recursos los destinará a venta a plantas autorizadas de las regiones X y XI.
+
+Valparaíso, 15 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
