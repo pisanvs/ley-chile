@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 772 de 25 de julio de 2003, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto MOP. Nº42, de fecha 28 de febrero de 1994, en la parte que se refiere al Convenio Directo de Precio Ad Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº58. Consígnese judicialmente el monto provisional de la indemnización del lote Nº58, fijada por la Comisión de Peritos con fecha 4 de agosto de 1992, ascendente a la cantidad de $478.000. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
