@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 579 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 29-D, superficie 416,0 m², Rol Nº 559-40, comuna de Linares, VII Región para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147, Comuna de Linares, Provincia de Linares" y se acordó el valor de indemnización con su propietario Isidro Nelson Villa Campos, ascendente a la cantidad de $1.400.573.- para el lote Nº 29-D.
+
+Fiscal del Ministerio de Obras Públicas.
