@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.469, de 28 de septiembre de 2001, se expropió el lote de terreno Nº7, superficie 166 m2., rol de avalúo 524-40, comuna de Estación Central, para la obra Sistema Norte-Sur. Tramo G: Nudo Alameda. Sector Km. 1.400,00 al Km. 1.700,00, Región Metropolitana se acordó el valor de la indemnización con su propietaria Gladys Guillermina Salgado González y otra, ascendente a la cantidad de $36.989.452.
+
+- Fiscal del Ministerio de Obras Públicas.
