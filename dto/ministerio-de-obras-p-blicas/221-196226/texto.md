@@ -1,0 +1,3 @@
+Por decreto MOP Nº 221, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 14, superficie 552 m2, rol de avalúo 161-46, comuna de Ranquil, para la obra "Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas Tramo I, Km. 0,00000 a Km. 5,58300" y se acordó el valor de indemnización con su propietario Carlos Urbano Véjar Isla y Otro, ascendente a la cantidad de $1.433.100.
+
+- Fiscal del Ministerio de Obras Públicas.
