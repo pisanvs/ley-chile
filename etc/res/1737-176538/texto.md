@@ -1,0 +1,3 @@
+Por resolución Nº 1.737, de 4 de agosto de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Roca Fraile, VIII Región, individualizada en el artículo 1º) Nº 14 del DS Nº 729 de 1997 del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, BUZOS MARISCADORES, ACUICULTORES Y ALGUEROS ''RIO TUBUL''.
+
+Valparaíso, 4 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
