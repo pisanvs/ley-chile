@@ -1,0 +1,3 @@
+Por decreto MOP Nº 771, de 29 de febrero del 2000, se expropió el lote de terreno Nº 464 superficie 116 m², rol de avalúo 7799-10, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Micaela del Carmen Ñanco Silva, ascendente a la cantidad de $6.929.383.
+
+Fiscal del Ministerio de Obras Públicas.
