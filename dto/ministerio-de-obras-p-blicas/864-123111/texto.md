@@ -1,0 +1,3 @@
+Por decreto MOP No. 864, de 30 de junio de 1998, se expropió el lote de terreno No. 6, superficie 675 m², rol de avalúo 511-4, comuna de Talagante, para la Obra Camino Autopista - Santiago - San Antonio, Sector Segmento 3, Bif. Malloco - El Paico, Enlace El Monte, Km. 16.220,00 al 16.880,00, provincia de Talagante, Región Metropolitana, y se acordó precio de la indemnización con Elvira Marta Eufrosina Bafalluy Vásquez y Otros, ascendente a la cantidad de $ 7.043.400.
+
+- Fiscal del Ministerio de Obras Públicas.
