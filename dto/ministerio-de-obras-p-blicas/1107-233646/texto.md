@@ -1,0 +1,9 @@
+Por decreto MOP Nº 1.107, de 24 de noviembre de 2004; y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840; se expropiaron los lotes de terreno Nos 5, 6, 8, 15, 16, 21, 25, 26, 30, 34, 42 y 43, para la ejecución de la obra "Diseño Definitivo de la Red Secundaria y Terciaria de canales de Riego Proyecto Faja Maisan", obra: "Canal Santa Ana", que figuran a nombre de Rilling Seitz Francisco, Spiess Trinkl Oscar Segunda, Spiess Harnisch Guido J., Buk Rilling Berthold, Redel Nickel Erwin H., Sociedad Colegio Alemán Huefel, Santin Morales María E., Augsburguer Aeschlimann Arnoldo, Schulz Rilling Ana María y Rilling Nickel Erwin Kurt, roles de avalúo 385-43, 385-22, 385-35, 385-33, 384-107, 384-109, 384-28, 384-30, 383-15, 383-65 y 382-5, comuna de Pitrufquén, IX Región, superficies: 6.443,81; 6.819,41;
+
+6.232; 9.531,09; 5.299,13; 6.102,04; 2.611,32;
+
+18.553,93; 6.355,77; 11.286,70; 5.396,85 y 5.748,84 m², respectivamente. La Comisión de Peritos con fecha 12 de octubre de 2004 fijó los montos de las indemnizaciones provisionales en las cantidades de $5.488.386, para el lote Nº 5; $4.335.646, para el lote Nº 6; $6.095.700, para el lote Nº 8: $5.816.654, para el lote Nº 15;
+
+$3.277.478, para lote Nº 16; $3.811.224, para el lote Nº 21; $4.255.792, para el lote Nº 25; $11.905.358, para el lote Nº 26; $8.786.462, para el lote Nº 30; $8.271.270, para el lote Nº 34; $3.453.110, para el lote Nº 42 y $3.519.304, para el lote Nº 43. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
