@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.844, de 30 de septiembre de 1998, se expropió el lote de terreno No. 25, superficie 9.783 m², rol de avalúo 20-59, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los Andes, Sector G, By Pass Los Andes, y se acordó el valor de indemnización con su propietario Serafín del Carmen Vargas Villarroel, ascendente a la cantidad de $28.828.000.-
+
+Fiscal del Ministerio de Obras Públicas.
