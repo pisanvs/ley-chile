@@ -25296,9 +25296,9 @@ No obstante que las instituciones financieras deben aplicar las cotizaciones par
 
 5.- Ajustes de las cuentas "cambio".
 
-Las instituciones financieras registrarán los ajustes mensuales de las cuentas "Cambio Mercado Bancario", de acuerdo con las equivalencias señaladas en este Capítulo, con cargo o abono a "Pérdidas por variación del tipo de cambio recursos en moneda extranjera liquidados" de la partida 5 7 15 y "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715, según corresponda.
+Las instituciones financieras registrarán los ajustes mensuales de las cuentas "Cambio Mercado Bancario", de acuerdo con las equivalencias señaladas en este Capítulo, con cargo o abono a "Perdidas de cambio" de la partida 57 05 y "Utilidades de cambio" de la partida 7705 y "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715, según corresponda.
 
-Salvo disposición expresa en contrario, el ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá también efectuarse mensualmente de acuerdo con el tipo de cambio y paridades antes señaladas, con cargo o abono a las cuentas que esta Superintendencia haya dispuesto para el ajuste de determinados saldos.
+Salvo disposición expresa en contrario, el ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá también efectuarse mensualmente de acuerdo con el tipo de cambio y paridades antes señaladas, con cargo o abono a las cuentas que esta Superintendencia haya dispuesto para el ajuste de determinados saldos, de las partidas 5715 y 7715.
 
 En todo caso, al tratarse del ajuste de la cuenta "Cambio Mercado de Divisas de Libre Disposición" señalada en el Capítulo 13-1 de esta Recopilación, se utilizará el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día en que se efectúe el ajuste, sin perjuicio de que, para la representación de los saldos en moneda extranjera en los estados financieros y en la información que debe enviarse a esta Superintendencia, deben utilizarse las equivalencias señaladas en este Capítulo.
 
