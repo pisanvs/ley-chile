@@ -1,0 +1,3 @@
+Por resolución N° 204 de 10 de marzo de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, parte inmueble ubicado en Avenida Cinco de Abril N° 4790, presunto rol de avalúos N° 6551-22 comuna de Estación Central, aparente dominio de don Rogelio Rojas Santibáñez. Comisión integrada por peritos Sres. Ricardo Carvallo Rodríguez, arquitecto, Carlos del Pedregal Sánchez, Constructor Civil, Humberto Mattos Mendoza, ingeniero civil y según informe de 17 de Septiembre 1992, fijó monto provisional indemnización en $ 1.378.420 pagadera al contado.-
+
+Directora SERVIU Metropolitano.
