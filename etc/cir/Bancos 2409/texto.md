@@ -11112,7 +11112,15 @@ Sin embargo, deben ser clasificados obligatoriamente en su correspondiente categ
 
 2.2. Procedimiento para la clasificación de los créditos comerciales.
 
-Para evaluar la cartera de créditos comerciales deben utilizarse cinco categorías de clasificación. Los factores básicos para la evaluación son, a lo menos, el comportamiento del deudor, su capacidad de pago en relación a las características del crédito y la disponibilidad de garantías que lo resguardan. El análisis en conjunto de estos factores y los demás que correspondan, debidamente ponderados, permitirá clasificar las obligaciones de un deudor en una de las siguientes categorías de riesgo:
+Para evaluar la cartera de créditos comerciales deben utilizarse cinco categorías de clasificación. Los factores básicos para la evaluación son, a lo menos, el comportamiento del deudor, su capacidad de pago y la disponibilidad de garantías que resguarden su deuda.
+
+En la evaluación del comportamiento del deudor se deberá considerar su historial financiero y crediticio, su conducta en el ámbito de los negocios y, en general, todos aquellos antecedentes orientados a tener un conocimiento integral del deudor.
+
+Respecto de la capacidad de pago, su evaluación deberá estar basada en el análisis de las características de su endeudamiento global y en una estimación de los flujos de caja provenientes de la actividad comercial del deudor, incorporando para el efecto distintos escenarios en función de las variables de riesgo claves del negocio. Asimismo, deberán considerarse en forma explícita los posibles efectos de los riesgos financieros a que está expuesto el deudor y que pueden repercutir en su capacidad de pago, tanto en lo que concierne a los descalces en monedas, plazos y tasas de interés de su estructura de balance, como en lo que toca a sus operaciones fuera de balance, particularmente las efectuadas con derivados financieros.
+
+En lo que se refiere a las garantías, para que éstas puedan ser consideradas como una segunda fuente de pago, las instituciones deben asegurarse de que ellas estén legalmente bien constituidas, adecuadamente valorizadas para el efecto y permanentemente disponibles para su ejecución y liquidación.
+
+El análisis en conjunto de los factores antes indicados y los demás que correspondan, debidamente ponderados, permitirá clasificar las obligaciones de un deudor en una de las siguientes categorías de riesgo:
 
 i) Categoría "A": Créditos de riesgo normal;
 
@@ -11128,11 +11136,13 @@ v) Categoría "D": Créditos irrecuperables.
 
 2.3.1. Categoría A: Créditos de riesgo normal.
 
-Los créditos que ameriten esta clasificación son aquéllos que al momento de su evaluación no presenten duda acerca de la recuperabilidad de los intereses, del capital prestado y de sus reajustes.
+Merecen esta clasificación aquellos créditos respecto de los cuales no existe duda acerca de la total recuperación del capital, reajustes e intereses a su vencimiento.
 
-Esta categoría puede ser asignada a deudores que hayan cumplido oportunamente con sus obligaciones y nada indique que dicho comportamiento variará en lo futuro. Adicionalmente, se requerirá un claro conocimiento del uso dado a los recursos y del monto y origen de los flujos de ingresos propios con que cuenta el deudor para hacer frente al pago requerido. Cuando se trate de un deudor domiciliado en el extranjero, además de lo anterior, deberán considerarse los riesgos de modificaciones previsibles en las condiciones macroeconómicas del respectivo país y, en particular, los riesgos cambiarios que enfrenta el deudor por sus financiamientos en moneda extranjera.
+Esta categoría puede ser asignada a deudores que hayan cumplido oportunamente con sus obligaciones y nada indique que dicho comportamiento variará en lo futuro.
 
-No podrá, por lo tanto, considerarse dentro de esta categoría a un deudor cuya fuente de pago dependa de la generación de recursos de otras empresas o personas naturales, como tampoco aquél cuyas garantías sean suficientes en monto y liquidez para cancelar con ellas lo adeudado, pero que no cumple con las características antes señaladas.
+Para ello, se requerirá un claro conocimiento por parte de la institución financiera acerca del uso dado a los recursos y del monto y origen de los flujos de ingresos propios con que cuenta el deudor para hacer frente al pago de sus compromisos, así como de los riesgos financieros que enfrenta.
+
+No podrá considerarse dentro de esta categoría a un deudor cuya fuente de pago dependa de la generación de recursos de otras empresas o personas naturales, ni aquél cuyas garantías sean suficientes en monto y liquidez para cancelar con ellas lo adeudado, pero que no cumple con las características antes señaladas.
 
 2.3.2. Categoría B: Créditos de riesgo potencial superior al normal.
 
@@ -11684,9 +11694,9 @@ A juicio de esta Superintendencia, para desarrollar un sistema de clasificación
 
 (i) Características de los créditos actuales: fecha de otorgamiento, plan de pago, tasa de interés, etc.
 
-(j) Antecedentes sobre el comportamiento de pago del deudor; SI paga en las fechas estipuladas o se le renuevan las obligaciones, con o sin capitalización de intereses.
+(j) Antecedentes sobre el comportamiento de pago del deudor; si paga en las fechas estipuladas o se le renuevan las obligaciones, con o sin capitalización de intereses.
 
-(k) Información actualizada sobre las garantías, con el correspondiente informe de la fiscalía. Acceso expedito a los documentos que acrediten las garantías constituidas Todas las garantías deben contar con tasaciones lo más actualizadas posibles (lo que dependerá de la naturaleza del bien en cuestión). Informes sobre seguros tomados (y certificados Cora cuando corresponda).
+(k) Información actualizada sobre las garantías, con el correspondiente informe de la fiscalía. Acceso expedito a los documentos que acrediten las garantías constituidas. Todas las garantías deben contar con tasaciones lo más actualizadas posibles (lo que dependerá de la naturaleza del bien en cuestión). Informes sobre seguros tomados (y certificados Cora cuando corresponda).
 
 (l) Informes de visitas al deudor con los comentarios correspondientes.
 
@@ -11694,13 +11704,13 @@ A juicio de esta Superintendencia, para desarrollar un sistema de clasificación
 
 (n) Informe de la persona a cargo de la clasificación de cartera que fundamente la categoría asignada al deudor.
 
-(ñ) Informe actualizado del encargado de analizar los créditos del deudor, que dé una visión completa sobre los riesgos que para la institución significa el crédito y que, cuando corresponda, se refiera a los antecedentes antes señalados
+(ñ) Informe actualizado que dé cuenta de una completa visión de los riesgos que el deudor está asumiendo en el desenvolvimiento de su negocio y, cuando corresponda, de los riesgos financieros que enfrenta.
 
-La mantención de la información antes descrita dependerá, como ya está dicho, de las características del deudor, del tipo de créditos otorgados, del monto de sus obligaciones, etc. A modo de orientación y considerando un sistema ideal de clasificación de cartera, se entregan a continuación algunos ejemplos de la información que sería suficiente, en los casos que se tipifican, para los propósitos de fundamentar la clasificación
+La mantención de la información antes descrita dependerá, como ya está dicho, de las características del deudor, del tipo de créditos otorgados, del monto de sus obligaciones, etc. A modo de orientación y considerando un sistema ideal de clasificación de cartera, se entregan a continuación algunos ejemplos de la información que sería suficiente, en los casos que se tipifican, para los propósitos de fundamentar la clasificación:
 
-Ejemplo 1. Crédito otorgado recientemente para financiar un proyecto de una empresa nueva
+Ejemplo 1: Crédito otorgado recientemente para financiar un proyecto de una empresa nueva.
 
-En estos casos la institución debería mantener la información signada con las letras (a), (b), (c), (d), (e), (i), (k), (m) y (n)
+En estos casos la institución debería mantener la información signada con las letras (a), (b), (c), (d), (e), (i), (k), (m) y (n).
 
 - Ejemplo 2: Crédito para financiar la ampliación de una empresa en marcha.
 
