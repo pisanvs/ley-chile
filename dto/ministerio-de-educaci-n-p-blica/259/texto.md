@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 259 EXENTO, DE 1996
+
+Por Decreto Exento N° 259, de fecha 6 de mayo de 1996, del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el N° 60 correspondiente al Centro de Formación Técnica Centro Profesional de Secretariado Limitada, Cenprosec Limitada, organizado por la Sociedad Centro Profesional de Secretariado Limitada, dejándose sin efecto el Decreto Exento de Educación N° 184, del 21 de octubre de 1982, modificado por Decreto Exento de Educación N° 205, del 21 de noviembre de 1983 y las Resoluciones exentas que aprobaron los planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado. Ello a solicitud de la propia institución.
+
+Santiago, 24 de mayo de 1996.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
