@@ -1,0 +1,3 @@
+Por decreto MOP Nº 354, de 26 de febrero de 1999, se expropió el lote de terreno Nº 56, superficie 3.369 m², rol de avalúo 106-29, comuna de San Pablo, para la obra Concesión Internacional Ruta 5, Tramo Río Bueno-Puerto Montt, Sector San Pablo-Osorno, Décima Región y se acordó el valor de indemnización con su propietario Gustavo Adolfo Pérez Nylund, ascendente a la cantidad de $2.174.788.-
+
+Fiscal del Ministerio de Obras Públicas.
