@@ -1,0 +1,3 @@
+Por Resolución de la Fiscalía del Ministerio de Obras Públicas F. N° 104, de 25 de septiembre de 1986, se ha ordenado pagar la suma de $ 44.832 a la Empresa Nacional del Petróleo o a quien acredite derecho como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos más su reajuste, para el lote 18, de una superficie de 227.074 m2, Comuna de Viña del Mar, para Variante Enap en Camino Internacional de Valparaíso a Caracoles. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2ª publicación que se hará en un periódico de la V Región.-
+
+Fiscal del Ministerio de Obras Públicas.
