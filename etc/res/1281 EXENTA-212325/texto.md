@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.281, de 18 de junio de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chaihuín Sector A, X Región, individualizada en el artículo 1º, letra g), del decreto exento Nº 173, de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS Y PESCADORES ARTESANALES DE LA CALETA DE CHAIHUIN.
+
+Valparaíso, 18 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
