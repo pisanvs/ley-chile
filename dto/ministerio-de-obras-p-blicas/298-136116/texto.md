@@ -1,0 +1,3 @@
+Por decreto MOP No. 298, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 1 y 2, superficies 86,98 y 26,50 m2 respectivamente, rol de avalúo 1310-330, comuna de Vilcún, para la obra Puente Collín, Sector Brazil-Collín Km. 0.4 y se acordó precio de indemnización con su propietario Francisco Coliqueo Huenchulao, ascendente a la cantidad de $ 144.511.- para los lotes 1 y 2.-
+
+Fiscal del Ministerio de Obras Públicas.
