@@ -1,0 +1,3 @@
+Por decreto MOP Nº377 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº73, superficie 540 m2, Rol de avalúo 502-123 comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial-Las Camelias Tramo: Kms. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario Juan Luis Carrasco Chamorro, ascendente a la cantidad de $891.642.
+
+Fiscal del Ministerio de Obras Públicas.
