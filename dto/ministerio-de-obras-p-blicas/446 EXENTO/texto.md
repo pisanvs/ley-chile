@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 446, de 23 de mayo de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 23 para la obra: Camino Costero Sur, Sector Tranapuente - Puerto Saavedra - Porma, Tramo Chelle - Hualpín - Puente Peule, Km.
+
+48.292,74 al Km. 68.030,40" Subtramo I Km. 51.248,00 al Km. 54.261,169, que figura a nombre de Manquian Huircan Valentín, Rol de Avalúo 215-168, Comuna de Teodoro Schmidt, IX Región, superficie 1.314,8 m2. La Comisión de Peritos fijó con fecha 15 de abril de 1998, el monto de la indemnización provisional en la cantidad de $472.264.- para el lote Nº23. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
