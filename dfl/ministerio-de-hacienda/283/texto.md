@@ -1,0 +1,1 @@
+Suprime, a contar desde la fecha que indica, la Escuela Industrial de Vicuña.
