@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNAS DE COLBUN Y. BUENAS
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 35 de 06 de Enero de 1989, conforme Art. 5° Transitorio Código de Aguas, determinó derechos aprovechamiento aguas proporcionales que corresponden a sector excluido, reserva y sector expropiado predio(s) "Parcela o Sector Poniente del Fundo La Flor"; "Parcela o Sector Oriente del Fundo La Flor"; "San José de Panimávida"; "Parte o Hijuela Poniente del Fundo San José", y "Fundo Los Peumos", de las comunas de Colbún y Yerbas Buenas VII Región y derechos aprovechamiento aguas que corresponden a parcelas N°s. 1 a la 49, sitios N°s. 1 al 7,9 al 24, reserva CORA N° 1, del Proyecto de Parcelación "Flor Oriente" formado por predio señalados los derechos de agua se extraen de los canales Flor Lillo, Arquén y Compañía, Porvenir-EI Sauce, Santa Elena Bajo. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
