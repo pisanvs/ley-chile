@@ -2734,7 +2734,7 @@ Los contratos de compraventa y mutuos hipotecarios deberán indicar, cuando así
 
 En tales casos, deberá individualizarse el certificado correspondiente. Los mutuos deberán quedar escriturados e inscritos en el Conservador de Bienes Raíces, durante el período de vigencia del certificado de subsidio.
 
-Con todo, se podrá proceder al pago del certificado de subsidio dentro de los 60 días posteriores a su vencimiento, siempre que se acredite que la correspondiente escritura ingresó al Conservador de Bienes Raíces para sus inscripciones, antes del vencimiento del Certificado, y que a la fecha del cobro se demuestre que dichas inscripciones fueron efectuadas.
+Con todo, se podrá proceder al pago del certificado de subsidio dentro de los 90 días posteriores a su vencimiento, siempre que se acredite que la correspondiente escritura ingresó al Conservador de Bienes Raíces para sus inscripciones, antes del vencimiento del Certificado, y que a la fecha del cobro se demuestre que dichas inscripciones fueron efectuadas.
 
 ### 3. Garantía hipotecaria
 
@@ -2774,11 +2774,11 @@ Las letras de crédito originadas en las operaciones a que se refiere este capí
 
 ### 3. Venta de las letras de crédito
 
-De acuerdo a lo establecido en el artículo 21 del Reglamento, el Ministerio de la Vivienda y Urbanismo pagará por intermedio del Servicio de Vivienda y Urbanismo respectivo, la diferencia que resulte entre el monto que corresponda al porcentaje aplicado sobre el valor par de las correspondientes letras de crédito, según lo señalado en el respectivo certificado de subsidio y el importe obtenido por la venta de ellas en la Bolsa de Comercio o bien la diferencia entre el monto que se obtenga de aplicar el porcentaje antes señalado al valor par de las letras y el importe que resulte de aplicarle al citado valor par, el porcentaje promedio ponderado del valor de venta de letras de igual tasa de interés y de igual plazo, registrado en la Bolsa de Comercio de Santiago,durante el período que señala el citado artículo 21.
+De acuerdo a lo establecido en el artículo 21 del Reglamento, el Ministerio de Vivienda y Urbanismo, o el Servicio de Vivienda y Urbanismo respectivo, pagará la diferencia que resulte entre el valor par de las correspondientes letras de crédito y el importe obtenido por la venta de ellas en alguna de las Bolsas de Valores regidas por la Ley N° 18.045, no pudiendo exceder de 80 Unidades de Fomento el monto que se pague por dicho concepto.
 
-El porcentaje aplicado al valor par citado en el párrafo precedente, será fijado por el Ministerio de Vivienda y Urbanismo, mediante la aplicación de una tabla que confeccionará ese Ministerio, para tal efecto.
+Sólo procederá el pago de este subsidio, si los préstamos a los que correspondan las letras de crédito antes mencionadas, cumplen con todas las condiciones, requisitos y características fijados para ellos.
 
-Las diferencias que resulten serán pagadas por el SERVIU, cuando corresponda, a la presentación de la factura de venta de las letras de crédito emitida por el Corredor de la Bolsa de Comercio que intervino en la operación, más los otros documentos que dicho servicio pueda exigir. Este reembolso se otorgará una vez que haya sido autorizado el pago del subsidio directo y hasta 120 días después de expirado el plazo de vigencia del respectivo certificado de subsidio. La factura deberá incluir la información adicional que señalan las disposiciones pertinentes. Entre los datos que debe consignar están el nombre del mutuario, número de la obligación u otro dato que permita identificar la operación de mutuo y las letras respectivas; la fecha en que se pusieron a la venta y la fecha y condiciones en que ésta se realizó.
+Las diferencias que resulten serán pagadas, cuando corresponda, a la presentación de la factura de venta de las letras de crédito emitida por el Corredor de la Bolsa de Valores que haya intervenido en la operación, más los otros documentos que dicho servicio pueda exigir. Este reembolso se otorgará una vez que haya sido autorizado el pago del subsidio directo y hasta 120 días después de expirado el plazo de vigencia del respectivo certificado de subsidio. La factura deberá incluir la información adicional que señalan las disposiciones pertinentes. Entre los datos que debe consignar están el nombre del mutuario, número de la obligación u otro dato que permita identificar la operación de mutuo y las letras respectivas; la fecha en que se pusieron a la venta y la fecha y condiciones en que ésta se realizó.
 
 El valor par de las letras de crédito, a que se refiere este número, es igual al valor nominal de ellas, menos las amortizaciones correspondientes a los cupones desprendidos, más los intereses correspondientes a los días transcurridos desde el vencimiento del último cupón desprendido hasta el día de la venta, calculados a la tasa nominal de interés de las letras, o en el caso que el cupón se hubiere desprendido antes de su vencimiento, deducidos los intereses correspondientes a los días que falten para la expiración del trimestre, a la misma tasa nominal indicada.
 
@@ -2847,8 +2847,6 @@ El mencionado documento indicará, además del nombre del beneficiario y su céd
 - Monto del ahorro acreditado;
 
 - Región del país en la cual se aplicará el subsidio;
-
-- Porcentaje del valor par de las letras de crédito correspondiente al préstamo que se otorgue al beneficiario que garantiza el MINVU, según el artículo 21 del Reglamento.
 
 Estos certificados tendrán una vigencia de 18 meses contados desde el día 1° del mes siguiente al de la fecha de su emisión.
 
@@ -37246,7 +37244,7 @@ En consecuencia, además de las presentes instrucciones y sin perjuicio de lo se
 
 El Estado de Situación deberá acompañarse con las siguientes notas "Información proporcionada" (Nota N° 1), "Obligación subordinada con el Banco Central de Chile" o "Cartera vendida al Banco Central de Chile" (Nota N° 2),y, "Operaciones con partes relacionadas" (Nota N° 3).
 
-Además, las instituciones que hayan tenido aumentos de capital en el curso del año, deberán incluir una nota referida a esa situación (Nota N° 4).
+Además, las instituciones que hayan tenido aumentos de capital en el curso del año y aquellas que hayan efectuado compras, ventas, permutas o canjes de créditos de la cartera de colocaciones con otra institución financiera, deberán incluir una nota referida a esas situaciones.
 
 Las cifras que corresponde incluir en las notas se expresarán en millones de pesos, con un decimal Los saldos que se refieran al cierre del ejercicio anterior deben informarse actualizados por la variación del IPC, al igual que las del estado de situación.
 
@@ -37266,13 +37264,21 @@ En caso de que la institución no mantenga obligaciones que provengan de venta d
 
 3.3. Preparación de la Nota N° 3 sobre operaciones con partes relacionadas.
 
-Esta nota contiene, en lo principal, la misma información que la nota que debe acompañar los estados financieros correspondientes al ejercicio anual Por consiguiente, para su preparación deben tenerse presente las instrucciones contenidas en el numeral 4 3 del título III del Capítulo 18-1 de esta Recopilación Actualizada de Normas y el modelo que se acompaña al presente Capítulo.
+Esta nota contiene, en lo principal, la misma información que la nota que debe acompañar los estados financieros correspondientes al ejercicio anual. Por consiguiente, para su preparación debe tenerse presente lo dispuesto en el numeral 4.3 del titulo III del Capitulo 18-1 de esta Recopilación Actualizada de Normas, las instrucciones del Anexo N° 5 de ese Capitulo 18-1, en lo que sea aplicable, y el modelo que se incluye en el Anexo N° 2 del presente Capítulo.
 
-3.4. Preparación de la Nota N° 4 sobre aumentos de capital.
+3.4. Preparación de las notas especiales.
 
-Las entidades financieras que en el curso del año hubieren llevado a cabo aumentos de capital, incluirán esta última nota, en la que señalarán el monto del aumento enterado.
+3.4.1.- Nota sobre aumentos de capital.
+
+Las entidades financieras que en el curso del año hubieren llevado a cabo aumentos de capital, incluirán esta nota especial (N° 4), en la que señalarán el monto del aumento enterado.
 
 Cuando el aumento de capital se hubiere efectuado al amparo de las disposiciones de los Capítulos XVIII o XIX del Compendio de Normas de Cambios Internacionales del Banco Central de Chile o del DL N° 600, deberá indicarse la modalidad bajo la cual se realizó Asimismo, si un aumento de capital se realizó con el objeto de efectuar pagos extraordinarios de la obligación subordinada con el Banco Central de Chile o para recomprar extraordinariamente cartera vendida al Instituto Emisor, se dejará constancia de ello.
+
+3.4.2. Nota sobre compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
+
+Las instituciones que hayan efectuado compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones, deberán presentar esta nota adicional (N°4 ó 5, según corresponda) con la información de que tratan las Circulares N°s. 2.557-925 de 27 de julio de 1990 y 2.565-932 de 6 de septiembre de 1990.
+
+Para el efecto deberán seguirse las pautas generales establecidas para la preparación y publicación de estados financieros, en orden a informar las transacciones en las notas sólo si su importe es igual o superior a un millón de pesos, considerando, en este caso, el valor de los créditos de cada operación en su conjunto.
 
 ANEXO N° 1
 
@@ -37393,6 +37399,8 @@ Estas operaciones representan un % del total de las transacciones de este tipo
 Las redenominaciones o prepagos de los títulos de deuda externa, cursados al amparo de las disposiciones / del (de los) capítulo(s) XVIII y XIX del/ Compendio de Normas de Cambios Internacionales del Banco Central de Chile, /excluidas aquellas destinadas a efectuar aumentos de capital de la propia institución, / se realizaron, en términos de promedio ponderado, al % del valor respectivo, incluidos sus intereses
 
 Por otra parte, las operaciones de esta especie, realizadas con terceros fueron efectuadas a un promedio ponderado de % del valor respectivo.
+
+> **Nota.** La letra F) de la Circular 2574, SFIF, promulgada el 10.10.1990, modifica el presente Anexo, estableciendo un nuevo texto para el modelo de la Nota 3, en la sección relativa a los créditos otorgados a partes relacionadas con la institución.
 
 CAPITULO 18-3 (Bancos y Financieras)
 
