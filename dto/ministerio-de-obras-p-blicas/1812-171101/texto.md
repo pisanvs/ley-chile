@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.812, de 28 de abril del 2000, se expropió el lote de terreno Nº75, superficie 1.469 m2., rol de avalúo 171-2, comuna de Puchuncaví, para la obra Ampliación Camino Nogales - Puchuncaví, Ruta F-20, Quinta Región, y se acordó el valor de indemnización con su propietario Guillermo Segundo Cisternas Briones, ascendente a la cantidad de $2.304.715.-
+
+Fiscal del Ministerio de Obras Públicas.
