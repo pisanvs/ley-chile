@@ -1918,6 +1918,14 @@ Reconoce también la asociación o cuentas en participación.
 
 colectiva
 
+#### Artículo 349
+
+Puede celebrar el contrato de sociedad toda persona que tenga capacidad para obligarse.
+
+El menor adulto y la mujer casada que no esté totalmente separada de bienes necesitan autorización especial para celebrar una sociedad colectiva.
+
+La autorización del menor será conferida por la justicia ordinaria, y la de la mujer casada por su marido.
+
 #### Artículo 350
 
 La sociedad colectiva se forma y prueba por escritura pública inscrita en los términos del artículo 354.
