@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 818 de fecha 31 de mayo del 2004, se expropiaron los lotes de terreno N°s 1, 3, 4, 6, 11 y 12, superficies 1.865,69, 476,46, 214,10, 384,14, 375,70 y 20,38 m2, respectivamente Roles N°s 160-484, 160-106, 160-484, 160-537 y 160-484, comuna de Petorca, V Región para la obra "Ruta E-37-D sector Palquico - Las Palmas, Km. 14,14861 a Km. 26,13776, comuna y provincia de Petorca", y se acordó el valor de indemnización con su propietario Bendel Fruit S.A., ascendente a la cantidad de $1.993.216.-
+
+Fiscal del Ministerio de Obras Públicas.
