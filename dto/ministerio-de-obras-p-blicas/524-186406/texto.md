@@ -1,0 +1,3 @@
+Por decreto MOP Nº 524 de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 13, superficie 350 m2, rol de avalúo 337-81, comuna de Loncoche, para la obra "Camino Ruta 741 - Ruta 743 Acceso Huiscapi, Sector Acceso Huiscapi, Tramo Km. 0,010 al Km. 3,148" y se acordó el valor de indemnización con su propietario Alvaro Cordero Isla, ascendente a la cantidad de $524.275.-
+
+Fiscal del Ministerio de Obras Públicas.
