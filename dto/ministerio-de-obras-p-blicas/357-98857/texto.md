@@ -1,0 +1,3 @@
+Por Decreto MOP. No 357, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nos.50-B y 87, superficies 754 m2. y 36 m2., roles de avalúo 38-111 y 251-137,comuna de Quinta de Tilcoco, obra Camino Quinta de Tilcoco-Cruce Ruta 66, sector Guacarhue y La Estacada y se acordó precio de indemnización con sus propietarios Hitalo Huerta Aguilera y Benito Córdova Ogaz, ascendente a las cantidades de $967.935 y $369.519.
+
+Fiscal del Ministerio de Obras Públicas.
