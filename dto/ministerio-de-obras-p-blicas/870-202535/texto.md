@@ -1,0 +1,3 @@
+Por decreto MOP Nº 870, de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nº 3-A y 4-A, superficies 27 y 1.095,40 m2, rol de avalúo Nº 2599-55, comuna de Pudahuel, para la obra ''Planta de Tratamiento de Aguas Servidas La Farfana - Faja Ensanche - Camino Acceso Planta de Tratamiento de Aguas Servidas La Farfana'', Región Metropolitana, y se acordó el valor de la indemnización con su propietario Roberto Perut Bozzolo y Otras, ascendente a la cantidad de $51.686.136.-
+
+Fiscal del Ministerio de Obras Públicas.
