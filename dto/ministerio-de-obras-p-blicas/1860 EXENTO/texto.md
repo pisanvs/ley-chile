@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.860 de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº4A, superficie 1.617 m², rol de avalúo Nº590-21 comuna de Yungay, para la obra ''Area de Riego Yungay, Canal Rinconada Faja Adicional Km. 0,000 al Km. 2,389, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de la indemnización con su propietario Juan Enrique Cid Muñoz, ascendente a la cantidad de $427.158.
+
+- Fiscal del Ministerio de Obras Públicas.
