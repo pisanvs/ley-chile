@@ -1,0 +1,3 @@
+Por decreto MOP Nº 311, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 3-A, superficie 33,0 m2, Rol de Avalúo Nº 1129-55, comuna de Castro, X Región, para la obra "Camino Rutas W-65 W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 al Km. 11,991647" y se acordó el valor de indemnización con su propietaria Aurea Liduvina Pérez Barrientos, ascendente a la cantidad de $13.206.282.
+
+Fiscal del Ministerio de Obras Públicas.
