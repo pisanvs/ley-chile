@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.038, de 29 de abril de 1999, se expropió el lote de terreno Nº 1, superficie 124 m², rol de avalúo 1322-23, comuna de San Carlos, para la obra Camino ''Ruta 5; Tramo Talca-Chillán, Sector Bifurcación Cuadrapangue Sur'', Octava Región y se acordó el valor de indemnización con su propietario Bernardo Raúl Carrere Binimelis, ascendente a la cantidad de $924.967.-.
+
+Fiscal del Ministerio de Obras Públicas.
