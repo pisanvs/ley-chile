@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIONES DEL ESTATUTO A ''CB ADMINISTRADORA DE FONDOS DE INVERSION S.A.''
+
+Certifico: Que por resolución Ex. Nº 370, de fecha 1 de diciembre de 1998, de esta Superintendencia de Valores y Seguros, se aprobaron las modificaciones del estatuto social de la sociedad CB Administradora de Fondos de Inversión S.A., que consta de la escritura pública de 2 de septiembre de 1998, otorgada en la Notaría de Santiago de don Juan Ricardo San Martín Urrejola, domiciliado en Morandé 261.
+
+Las reformas consisten en: 1) Modificar el objeto social por el siguiente: ''La prestación de servicios de asesorías financiera, comercial y económica en general, ya sea en Chile o en el extranjero; la realización de todo tipo de inversiones, por cuenta propia o ajena, en bienes muebles o inmuebles, corporales o incorporales, incluyendo derechos, acciones, bonos, efectos públicos o de comercio, derechos en sociedades y demás bienes de cualquier clase, ya sea en Chile o en el extranjero, y la administración y explotación de tales inversiones, pudiendo adquirir y enajenar a cualquier título los señalados bienes o valores, administrarlos y percibir sus frutos y rentas. Para la consecución de sus fines la sociedad podrá ejecutar todos los actos y celebrar todos los contratos conducentes a ello''; 2) Modificar su razón social por el de ''Asesorías e Inversiones AFI S.A.''; 3) Otras reformas que no se extractan.
+
+Santiago, 1 de diciembre de 1998.- Rodrigo O. Costa Aranda, Secretario General.
