@@ -1,0 +1,3 @@
+Por resolución Nº 1.867, de 20 de septiembre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110098, presentada por HUMBERTO JOSE FISCHER LLOP, para operar un centro de cultivo ubicado en Canal Tránsito, Sector Puerto Español, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 20 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
