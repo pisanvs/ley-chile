@@ -2,7 +2,7 @@ MODIFICA DECRETO Nº 445, DE 1997, SOBRE PREMIOS A LA EXCELENCIA DOCENTE, MODIFI
 
 Núm. 228.- Santiago, 11 de junio de 1999.- Considerando: Que, es preciso efectuar algunas adecuaciones al texto primitivo del decreto supremo que reguló el otorgamiento de los Premios a la Excelencia Docente, como consecuencia de un proceso evaluativo practicado en las regiones a los procesos de 1997 y 1998; y
 
-Visto: Lo dispuesto en las leyes Nºs. 18.956 y 19.702, ítem 09-01-02-25-31-201; y en los artículos 32 Nº8 y 35 de la Constitución Política de la República de Chile.
+Visto: Lo dispuesto en las leyes Nºs. 18.956 y 19.842, ítem 09-01-02-25-31-201; y en los artículos 32 Nº8 y 35 de la Constitución Política de la República de Chile.
 
 D e c r e t o:
 
@@ -68,13 +68,13 @@ Que, son muchos los maestros que reúnen las condiciones requeridas, lo que cons
 
 Que, al honrarlos el país les hará justicia, alentará a seguir su ejemplo y, sobre todo, proclamará su convicción en la trascendente función social que implica formar en plenitud su más valioso patrimonio: su capital humano, y
 
-Visto: Lo dispuesto en las leyes Nºs. 18.956 y 19.702, ítem 09-01-02-25-31-201 Glosa 04 y en los artículos 32 Nº 8 y 35 de la Constitución Política de la República de Chile,
+Visto: Lo dispuesto en las leyes Nºs. 18.956 y 19.842, ítem 09-01-02-25-31-201 Glosa 04 y en los artículos 32 Nº 8 y 35 de la Constitución Política de la República de Chile,
 
 D e c r e t o:
 
 #### Artículo 1º
 
-El Premio a la Excelencia Docente 2001 se otorgará a 50 profesionales de la educación, de acuerdo a los criterios y procedimiento de selección que reglamenta el presente decreto.
+El Premio a la Excelencia Docente 2003 se otorgará a 50 profesionales de la educación, de acuerdo a los criterios y procedimiento de selección que reglamenta el presente decreto.
 
 DEL OBJETO DEL PREMIO
 
