@@ -86,7 +86,7 @@ De la Importación y Exportación
 
 Las drogas, preparados y productos psicotrópicos sólo podrán ser importados o exportados del territorio nacional por laboratorios de producción químico farmacéutica, droguerías, farmacias, hospitales e instituciones de investigación médica o científica, previa autorización del Instituto de Salud Pública de Chile.
 
-Con ese objeto, los establecimientos o entidades interesadas comunicarán a ese Instituto, en el mes de julio de cada año, sus provisiones de importación o exportación de dichos productos para el año calendario siguiente, a fin de que ese organismo, sobre la base de la información aportada por el solicitante, determine la cantidad que podrá importar o exportar durante ese período.
+Con ese objeto, los establecimientos o entidades interesadas comunicarán a ese Instituto, en el mes de octubre de cada año, sus provisiones de importación o exportación de dichos productos para el año calendario siguiente, a fin de que ese organismo, sobre la base de la información aportada por el solicitante, determine la cantidad que podrá importar o exportar durante ese período.
 
 #### Artículo 9°
 
@@ -136,7 +136,7 @@ h) Aduana a través de la cual se efectuará la exportación.
 
 #### Artículo 12°
 
-Los Certificados Oficiales de Importación y Exportación tendrán una validez de cuatro meses contados desde la fecha de su emisión y la respectiva internación deberá efectuarse, en todo caso, dentro del plazo máximo de 6 meses contados desde la misma fecha.
+Los Certificados Oficiales de Importación y Exportación tendrán una validez de cuatro meses contados desde la fecha de su emisión y la respectiva internación o exportación, según corresponda deberá efectuarse, en todo caso, dentro del plazo máximo de 6 meses contados desde la misma fecha.
 
 #### Artículo 13°
 
@@ -164,23 +164,25 @@ De la Producción y Expendio
 
 La extracción, producción, fabricación, fraccionamiento o preparación de psicotrópicos sólo podrá llevarse a efecto en laboratorios de producción químico farmacéutica, farmacias y otros establecimientos autorizados.
 
-Para estos efectos, el propietario del establecimiento solicitará autorización al Instituto de Salud Pública de Chile, antes del 1° de septiembre de cada año, indicando la cantidad de psicotrópicos que se propone extraer, producir, fabricar, fraccionar o preparar durante el año calendario siguiente, la que podrá ser objetada por ese Organismo dentro de los treinta días siguientes a su presentación, vencidos los cuales se entenderá aprobada.
+Para estos efectos, el propietario del establecimiento solicitará autorización al Instituto de Salud Pública de Chile, antes del 1° de noviembre de cada año, indicando la cantidad de psicotrópicos que se propone extraer, producir, fabricar, fraccionar o preparar durante el año calendario siguiente, la que podrá ser objetada por ese Organismo dentro de los treinta días siguientes a su presentación, vencidos los cuales se entenderá aprobada.
 
 #### Artículo 17°
 
 Todo establecimiento autorizado para extraer, producir, fabricar, fraccionar o preparar psicotrópicos llevará un registro actualizado, que estará permanentemente a disposición de la autoridad sanitaria y que deberá contener las siguientes anotaciones:
 
-a) Las cantidades y procedencias de las substancias y drogas psicotrópicas ingresadas al establecimiento;
+a) Las cantidades y procedencias de las drogas o productos psicotrópicos ingresadas al establecimiento y fechas de sus ingresos;
 
-b) Las cantidades de productos psicotrópicos fabricados por el establecimiento, con indicación de los nombres y domicilios de sus destinatarios, y
+b) Las cantidades de productos psicotrópicos y muestras médicas de benzodiazepinas autorizadas, fabricados por el establecimiento, las fechas de fabricación y los nombres y los domicilios de los destinatarios.
 
 c) los saldos correspondientes.
 
 Los mismos establecimientos deberán comunicar al Instituto de Salud Pública de Chile, antes del día 15 de enero de cada año, la siguiente información:
 
-a) la cantidad total de substancia y drogas psicotrópicas ingresadas al establecimiento durante el año anterior y los saldos existentes a la fecha de la comunicación, y
+a) la cantidad total de drogas psicotrópicas ingresadas al establecimiento durante el año anterior y los saldos existentes a la fecha de la comunicación, y
 
-b) las cantidades totales de los productos psicotrópicos extraídos o elaborados durante el mismo período y los saldos existentes a la fecha de la comunicación.
+b) Las cantidades totales de las muestras médicas de benzodiaepinas autorizadas y de los productos psicotrópicos extraídos o elaborados durante el mismo período y los saldos existentes a la fecha de la comunicación.
+
+> **Nota.** NOTA: 1.1 El Artículo 2° del Decreto Supremo N° 923, del Ministerio de Salud, dispuso que las modificaciones introducidas al presente decreto supremo entrarán en vigencia el 1° de abril de 1995.
 
 #### Artículo 18°
 
@@ -216,11 +218,21 @@ b) Egresos:
 
 - Nombre y cédula de identidad del adquirente, y c) Saldos.
 
+#### Artículo 18° bis
+
+Para el control de las benzodiazepinas incluidas en la lista IV de este Reglamento por los decretos supremos N°s. 1506, de 1993 y 1186, de 1994, ambos del Ministerio de Salud, con excepción del Flunitrazepam, Lorazepam y Triazolam, las farmacias podrán optar por el mecanismo previsto en el artículo anterior, o bien, llevar actualizado en el mismo Libro de Control de Productos Psicotrópicos, visado por el Servicio de Salud e indicado en el artículo precedente, en forma separada respecto de cada producto psicotrópico que corresponda a la misma forma farmacéutica, e igual dosis y cantidad de unidades posológicas por envase, los siguientes datos:
+
+a) Ingresos; fecha; cantidad; número y fecha de la resolución que haya autorizado la internación, distribución o transferencia en su caso; y proveedor, número y fecha de la factura, guía u otro documento, según corresponda.
+
+b) Egresos: fecha del día en que se efectúa el registro; cantidad total despachada en el período respectivo; y cantidad total de recetas correspondientes al total despachado en el mismo período.
+
+c) Saldos.
+
 #### Artículo 19°
 
 Los envases de productos psicotrópicos no podrán tener una cantidad superior a treinta unidades posológicas, salvo que se trate de envases clínicos.
 
-Las etiquetas de los envases deberán expresar la condición de venta del producto y la leyenda en letras negras sobre fondo blanco: "Sujeto a Control de Psicotrópicos". Las etiquetas llevarán, además, una estrella de cinco puntas de color verde, cuyo tamaño no podrá ser inferior a la sexta parte de su superficie.
+Las etiquetas de los envases deberán expresar la condición de venta del producto y la leyenda en letras negras sobre fondo blanco: "Sujeto a Control de Psicotrópicos". Las etiquetas llevarán, además, una estrella de cinco puntas de color verde, cuyo tamaño no podrá ser inferior a la sexta parte de la superficie de la cara principal del envase.
 
 #### Artículo 20°
 
@@ -252,7 +264,9 @@ g) Botiquines de clínicas veterinarias respecto de los productos psicotrópicos
 
 Las ventas o entregas a cualquier título de drogas o productos psicotrópicos que se efectúen a los laboratorios, droguerías, farmacias o establecimientos de atención médica, deberán ser comunicadas al Instituto de Salud Pública de Chile, dentro del plazo que se fije por resolución del Ministerio de Salud, mediante copia de las respectivas guías de entrega, suscritas por el Director Técnico.
 
-Las farmacias remitirán asimismo, al Servicio de Salud respectivo, las recetas cheque a que se refiere el artículo 24, dentro del plazo que se determine por resolución del Ministro de Salud.
+Las farmacias remitirán, asimismo, al Servicio de Salud respectivo las recetas cheque a que se refiere el artículo 24 y la copia de las guías de entrega aludidas en el inciso anterior, dentro del plazo que se determine por resolución del Ministro de Salud.
+
+> **Nota.** El Art. 4° del DTO 923, Salud, publicado el 25.04.1995, dispuso que la modificación introducida al presente artículo regirá a contar del 1° de julio de 1995.
 
 #### Artículo 23°
 
@@ -266,47 +280,57 @@ Las recetas cheques sólo podrán extenderse en los formularios oficiales que fo
 
 Los formularios de recetas cheques serán de uso personal y exclusivo del profesional y no podrán transferirse ni cederse a ningún título.
 
-En caso de extravío, hurto, robo o sustracción de uno o más formularios, el profesional deberá dar aviso de inmediato a la Dirección del respectivo Servicio de Salud, la que, a su vez, formulará la denuncia correspondiente a la Justicia y lo comunicará a los demás Servidos de Salud. El médico cirujano deberá, además, publicar el hecho en un aviso destacado en el diario de mayor circulación de la localidad durante tres días consecutivos, y acompañar el recibo de pago de estas publicaciones al solicitar un nuevo talonario de recetas cheques.
+En caso de extravío, hurto, robo o sustracción de uno o más formularios, el profesional deberá dar aviso de inmediato a la Dirección del respectivo Servicio de Salud, la que, a su vez, formulará la denuncia correspondiente a la Justicia y lo comunicará a los demás Servicios de Salud. El médico cirujano podrá hacer esta denuncia y deberá, además, publicar el hecho en un aviso destacado en el diario de mayor circulación de la localidad durante tres días consecutivos, y acompañar el recibo de pago de estas publicaciones al solicitar un nuevo talonario de recetas cheques.
+
+En caso de anularse una o más recetas, el profesional deberá hacer entrega de ellas al Servicio de Salud correspondiente, al momento de solicitar un nuevo talonario.
 
 #### Artículo 25°
 
-La receta cheque deberá ser extendida íntegramente de puño y letra por el médico cirujano y en ella se anotará en forma clara y completa la prescripción correspondiente, sin dejar espacios en blanco, así como el nombre y apellidos del paciente, su cédula de identidad y su domicilio.
+La receta cheque y la receta retenida deberán ser extendidas íntegramente de puño y letra por el médico cirujano y en ellas se anotarán en forma clara y completa los antecedentes indicados en el respectivo formulario, sin dejar espacios en blanco ni enmendaduras. En caso de ser el paciente menor de edad y no tener cédula de identidad, el médico dejará el espacio correspondiente al número de la cédula en blanco y consignará junto al nombre del menor y entre paréntesis, la edad del mismo, en años cumplidos.
 
-Asimismo, el médico cirujano que extienda la receta cheque deberá registrar en el talón correspondiente el nombre completo del enfermo, la cédula de identidad y el domicilio de éste.
+Asimismo, la receta cheque deberá extenderse en original y duplicado y el profesional que lo haga registrará en el talón correspondiente los datos que en él se indican.
 
-En cada receta podrá prescribirse un solo producto psicotrópico, en la dosis necesaria para un paciente, indicándose las cantidades en letras y números y su dosis diaria, sin que la cantidad total prescrita pueda exceder de treinta días de tratamiento, salvo que se trate de barbitúricos que se utilicen como antiepilépticos, lo que deberá expresase en la receta.
+En cada receta podrá prescribirse un solo producto psicotrópico en la dosis necesaria para un paciente, indicándose las cantidades en letras y números, su dosis diaria y la clave correspondiente al producto, según el código que haya fijado el Ministerio de Salud por Resolución. Si se trata de una fórmula magistral, la prescripción no podrá superar los 30 días de tratamiento, de acuerdo a la dosificación diaria prescrita, debiendo dispensarse el total de la receta de una sola vez.
 
-La receta cheque tendrá una validez de treinta días, contados desde la fecha en que día sea extendida.
+La receta cheque y la receta retenida tendrán una validez de treinta días contados desde la fecha en que ellas sean extendidas.
+
+> **Nota.** NOTA: 1.2 El N° 2 del Decreto 2654, Salud, publicado el 30.11.1994, dispuso que vigencia a contar del día 1° del mes siguiente al de su publicación.
 
 #### Artículo 26°
 
 Las farmacias podrán, con intervención de su respectivo Director Técnico, adquirir formularios de recetas cheques para su utilización en casos de emergencia, en el Servicio de Salud en cuyo territorio estén ubicadas.
 
+El formulario deberá usarse exclusivamente en el establecimiento y no podrá ser transferido ni cedido a ningún título.
+
 #### Artículo 27°
 
-Los productos psicotrópicos cuya condición de venta sea de receta retenida, deberán prescribirse mediante recetas manuscritas, fechadas y firmadas por el profesional en un recetario con su nombre, carnet de identidad y domicilio impresos.
+Las recetas cheques y las recetas médicas retiradas en que se prescriban drogas o productos psicotrópicos deberán ser despachadas personalmente por el Director Técnico de la farmacia o laboratorio de producción, siempre que ellas se presenten por una persona mayor de dieciocho años de edad quien deberá exhibir su cédula de identidad.
 
 #### Artículo 28°
 
-Las recetas cheques y las recetas médicas retenidas en que se prescriban productos psicotrópicos deberán ser despachadas personalmente por el Director Técnico de la farmacia o laboratorio de producción, siempre que ellas se presenten por una persona mayor de dieciocho años de edad quien deberá exhibir su cédula de identidad.
+Antes de despachar la receta, el Director Técnico del establecimiento deberá revisarla minuciosamente, para comprobar que ella esté extendida en las condiciones fijadas por el presente reglamento. Si constatare defecto u omisiones, se abstendrá de despacharla y la devolverá al interesado, consignando en el reverso sus observaciones, su firma, la fecha y el timbre del establecimiento.
+
+En el caso de que el Director Técnico estimare fundadamente que la receta ha sido falsificada o adulterada, no la despachará y la retendrá en su poder, tomando nota del nombre, apellidos, domicilio y cédula de identidad del portador; procurará ubicar al profesional que supuestamente haya suscrito la receta, y dará cuenta de la situación al Servicio de Salud correspondiente.
 
 #### Artículo 29°
 
-Antes de despachar la receta, el Director Técnico del establecimiento deberá revisarla minuciosamente, para comprobar que ella esté extendida en las condiciones fijadas por el presente reglamento. Si constatare defectos u omisiones, se abstendrá de despacharla y la devolverá al interesado, consignando en el reverso sus observaciones, su firma, la fecha y el timbre del establecimiento.
+Si la receta no mereciera objeciones, el Director Técnico anotará, en el espacio destinado a su uso exclusivo, los datos que indica el formulario.
 
-En el caso de que el Director Técnico estimaré fundadamente que la receta ha sido falsificada o adulterada, no la despachará y la retendrá en su poder, tomando nota del nombre, apellidos, domicilio y cédula de identidad del portador; procurará ubicar al profesional que supuestamente haya suscrito la receta, y dará cuenta de la situación al Servicio de Salud correspondiente.
+Inmediatamente de despachada la receta, el Director Técnico procederá a inscribirla en el Registro de Psicotrópicos del establecimiento.
+
+Todas las recetas despachadas deberán inutilizarse y permanecer archivadas correlativamente en el establecimiento, a lo menos, durante el año siguiente a su despacho.
+
+A requerimiento del interesado, el Director Técnico del establecimiento deberá proporcionarle copia de la prescripción consignada en la receta despachada, expresando esta circunstancia al pie del documento, bajo su firma.
 
 #### Artículo 30°
 
-Las prescripciones magistrales u oficinales que contengan drogas de las Listas II y III sólo podrán extenderse y despacharse mediante "receta cheque" y las que contengan drogas de la Lista IV, a través de "receta retenida".
-
-Los preparados magistrales que contengan alguno de los siguientes principios activos contenidos en la Lista SALUD,1994 II, no podrán exceder de las cantidades y condiciones que a continuación se indica y que corresponden a una formulación de liberación convencional:
+Las prescripciones magistrales u oficinales que contengan drogas de las Listas II y III sólo podrán extenderse y despacharse mediante "receta cheque" y las que contengan drogas de la Lista IV, a través de "receta retenida". Los preparados magistrales que contengan alguno de los siguientes principios activos contenidos en la Lista SALUD,1994 II, no podrán exceder de las cantidades y condiciones que a continuación se indica y que corresponden a una formulación de liberación convencional:
 
 Principio Cantidad en mg. Total de unidades
 
 por unidad posológica en 24 horas
 
-Anfetamina 10 hasta 3
+Eliminado
 
 Anfepramona 25 hasta 3
 
@@ -318,23 +342,25 @@ Fentermina 8 hasta 3
 
 Mazindol 1 hasta 3
 
-Metanfetamina 5 hasta 2
+Eliminado
+
+Los fármacos anfetaminas y metanfetaminas no podrán prescribirse como anorexígenos en la formulación magistral.
 
 Cada unidad posológica podrá contener sólo un principio activo de los mencionados y no podrá contener además otros principios activos con propiedades diuréticas o laxantes, hormona tiroidea, o derivados de la misma ni otros psicotrópicos.
 
 #### Artículo 31°
 
-Las prescripciones magistrales u oficinales que contengan drogas de las Listas II y III sólo podrán extenderse y despacharse mediante "receta cheque" y las que contengan drogas de la Lista IV, a través de "receta retenida".
+Se exceptuarán de la exigencia de la receta cheque, las prescripciones de productos psicotrópicos que se formulen en recetarios especiales autorizados para estos efectos por los Servicios de Salud, en los establecimientos asistenciales dependientes del Sistema Nacional de Servicios de Salud, de las Fuerzas Armadas y Carabineros, y de las Universidades y en hospitales y clínicas particulares, destinadas exclusivamente al uso interno de estos establecimientos.
 
 #### Artículo 32°
 
-Se exceptuarán de la exigencia de la receta cheque, las prescripciones de productos psicotrópicos que se formulen en recetarios especiales autorizados para estos efectos por los Servicios de Salud, en los establecimientos asistenciales dependientes del Sistema Nacional de Servicios de Salud, de las Fuerzas Armadas y Carabineros, y de las Universidades y en hospitales y clínicas particulares, destinadas exclusivamente al uso interno de estos establecimientos.
+Los cirujanos dentistas sólo podrán prescribir y adquirir preparados hipnóticos para administrarlos directamente a sus pacientes. El expendio de estos productos deberá efectuarse personalmente a esos profesionales en las farmacias mediante el uso de una receta cheque de emergencia, previa individualización del cirujano dentista, quien deberá registrar en un libro especial el detalle de su utilización.
+
+Los médicos veterinarios podrán prescribir y adquirir productos psicotrópicos para utilizarlos personalmente en el tratamiento de animales, mediante órdenes autorizadas por el Servicio de Salud correspondiente, y deberán anotar en un libro especial las dosis administradas, la fecha de su utilización, la especie animal y el nombre del propietario de éste. Los productos de la lista IV podrán prescribirlos mediante las correspondientes recetas retenidas, las que sin perjuicio de ajustarse a lo dispuesto en los artículos 23 y 25 de este reglamento, deberán además consignar su uso veterinario y el nombre y cédula de identidad del dueño o responsable del animal al que se efectúa la prescripción.
 
 #### Artículo 33°
 
-Los cirujanos dentistas sólo podrán prescribir y adquirir preparados hipnóticas para administrarlos directamente a sus pacientes. El expendio de estos productos deberá efectuarse personalmente a esos profesionales en las farmacias mediante el uso de una receta cheque de emergencia, previa individualización del cirujano dentista, quien deberá registrar en un libro especial el detalle de su utilización.
-
-Los médicos veterinarios podrán prescribir y adquirir productos psicotrópicos para utilizarlos personalmente en el tratamiento de animales, mediante órdenes autorizadas por el Servicio de Salud correspondiente, y deberán anotar en un libro especial las dosis administradas, la fecha de su utilización, la especie animal y el nombre del propietario de éste.
+No podrán elaborarse ni distribuirse muestras médicas de ninguno de los productos psicotrópicos comprendidos en las Listas II, III y IV del Título V, ni efectuar promoción o difusión comercial de ellos, salvo que contenga dosis mínimas de productos psicotrópicos y el Instituto de Salud Pública de Chile autorice específicamente distribuir muestras médicas y promover esos medicamentos.
 
 #### Artículo 33° bis
 
@@ -350,9 +376,11 @@ El original de dicho documento, suscrito por el profesional, será mantenido en 
 
 Los establecimientos podrán asimismo informar acerca de estos productos, en forma directa y personalizada, a los profesionales encargados de su prescripción y dispensación.
 
+El régimen aplicable en este artículo a las benzodiazepinas, con excepción de aquellas que contengan lorazepan, triazolam o flumitrazepan, será aplicable también el producto zolpidem.
+
 #### Artículo 34°
 
-No podrán elaborarse ni distribuirse muestras médicas de ninguno de los productos psicotrópicos comprendidos en las Listas II, 133 y IV del Título V, ni efectuar promoción o difusión comercial de ellos.
+Todos los establecimientos autorizados para mantener existencias de productos psicotrópicos deberán conservarlos permanentemente bajo llave y adoptar las demás medidas necesarias para prevenir su hurto, robo, sustracción o extravío.
 
 ## Título IV
 
@@ -360,11 +388,13 @@ De las Sanciones y Vigencia
 
 #### Artículo 35°
 
-Todos los establecimientos autorizados para mantener existencias de productos psicotrópicos deberán conservarlos permanentemente bajo llave y adoptar las demás medidas necesarias para prevenir su hurto, robo, sustracción o extravío,
+La infracción a las disposiciones del presente reglamento será sancionada por la autoridad sanitaria competente en la forma y con arreglo a los procedimientos previstos en el Libro X del Código Sanitario, sin perjuicio de la responsabilidad penal que pudiera derivar del mismo hecho y de lo establecido en el artículo 3° de la ley 18.164.
 
-#### Artículo 36°
+#### Artículo 36º
 
-Este reglamento entrará en vigencia sesenta días después de su publicación en el Diario Oficial, fecha en que quedará derogado el decreto supremo 4, de 2 de enero de 1970, del Ministerio de Salud y sus modificaciones, así como toda otra norma, resolución o disposición reglamentaria o administrativa que sea contraria o incompatible con las de este reglamento, tales como las resoluciones 90, de 4 de febrero de 1970; 422, de 20 de mayo de 1971; 7.565, de 27 de noviembre de 1972; 124, de 7 de enero de 1976; 1.324, de 3 de octubre de 1977, todas del Director General de ex Servicio Nacional de Salud, y la 1.707, de 21 de septiembre de 1982, del Director del Instituto de Salud Pública de Chile.
+Este reglamento entrará en vigencia sesenta días después de su publicación en el Diario Oficial, fecha en que quedará derogado el decreto supremo 4, de 2 de enero de 1970, del Ministerio de Salud y sus modificaciones, así como toda otra norma, resolución o disposición reglamentaria o administrativa que sea contraria o incompatible con las de este reglamento, tales como las resoluciones 90, de 4 de febrero de 1970; 422, de 20 de mayo de 1971; 7.565, de 27 de noviembre de 1972; 124, de 7 de enero de 1976;
+
+1.324, de 3 de octubre de 1977, todas del Director General de ex Servicio Nacional de Salud, y la 1.707, de 21 de septiembre de 1982, del Director del Instituto de Salud Pública de Chile.
 
 ## Título V
 
@@ -546,6 +576,12 @@ dihidro- 3H-imidazo )2,1-=()
 
 isoindol-5-ol)
 
+ZIPEPROL µ-(µ.-metoxibencil)
+
+-4-(b-metoxifenetil)-1
+
+-piperazinetanol.
+
 Las sales de las sustancias enumeradas en esta Lista,
 
 siempre que la existencia de esas sales sea posible.
@@ -585,6 +621,12 @@ CICLOBARBITAL Acido 5-(1-ciclohexen-1-il)
 FENOBARBITAL Acido 5-etil-5-
 
 fenilbarbitúrico
+
+FLUNITRAZEPAM 5-(o-fluorofenil)-1,3-
+
+dihidro-1-metil-7-nitro-
+
+2H-1,4-benzodiacepin-2-ona
 
 HEXOBARBITAL Acido 5, (1-ciclohexenil)-
 
@@ -630,7 +672,7 @@ butanil)-2,6-metano-3-
 
 benzazocin-8-ol
 
-BURENORFINA 21-ciclopropil-7-alfa-(S)-
+BUPRENORFINA 21-ciclopropil-7-alfa-(S)-
 
 1-hidroxi-1,2,2-
 
@@ -642,7 +684,9 @@ tetrahidrooripavina
 
 Las sales de las sustancias enumeradas en esta Lista.
 
-La condición de venta de los productos que contengan estas drogas o sus sales es "BAJO RECETA CHEQUE".
+La condición de venta de los productos que contengan
+
+estas drogas o sus sales es "BAJO RECETA CHEQUE".
 
 DROGAS: LISTA IV
 
@@ -767,12 +811,6 @@ FLUDIAZEPAM 7-cloro-5-(o-fluorofenil)-1,3-
 dihidro-1-metil-2H-1,4-benzodiacepin
 
 -2-ona
-
-FLUNITRAZEPAM 5-(o-fluorofenil)-1,3-dihidro-1-
-
-metil-7-nitro-2H-1,4-benzodiacepin-2
-
--ona
 
 FLURAZEPAM 7-cloro-1-[2-(dietilamino)etil]-5-(o
 
@@ -936,6 +974,8 @@ La condición de venta de los productos farmacéuticos que contengan estas droga
 
 > **Nota.** NOTA: 2 El inciso segundo del Artículo 3° del D.S. N° 1.506, del Ministerio de Salud, publicado en el "Diario Oficial" de 30 de septiembre de 1993, dispuso lo que sigue: "Con todo, la incorporación de las siguientes benzodiazepinas a la Lista IV del Título V del Reglamento de Productos Psicotrópicos, decreto supremo N°405 de 1983, de este Ministerio de Salud, regirá a contar de la mencionada fecha, para el solo efecto de su control de importación, exportación, tránsito, producción, fabricación, fraccionamiento, preparación, distribución, transporte y transferencia. Para efectos del control de su expendio, posesión, tenencia y uso regirá 18 meses después de su publicación en el Diario Oficial: ALPRAZOLAM 8-cloro-1-metil-6-feni-4H-s-triazolo [4,3-a] [1,4] benzodiacepina BROMAZEPAM 7-bromo-1,3-dihidro-5-(2-piridil)- 2H-1,4-benzodiacepin-2-ona CAMAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-1- metil-5-fenil-2H-1,4-benzodiacepin-2 -ona dimetilcarbamato (éster) CLOBAZAM 7-cloro-1-metil-5-fenil-1H-1,5- benzodiacepin-2,4(3H,5H)-diona CLONAZEPAM 5-(o-clorofenil)-1,3-dihidro-7-nitro -2H-1,4-benzodiacepin-2-ona CLORAZEPATO 7-cloro-2,3-dihidro-2-oxo-5-fenil- 1H-1,4-benzodiacepin-3-ácido carboxílico CLORDIAZEPOXIDO 7-cloro-2-(metilamino)-5-fenil-3H- 1,4-benzodiacepin-4-óxido CLOTIAZEPAM 5-(o-clorofenil)-7-etil-1,3-dihidro- 1-metil-2H-tieno[2,3-e]-1,4-diacepin -2-ona CLOXAZOLAM 10-cloro-11b-(o-clorofeni)-2,3,7,11b -tetrahidrooxazolo [3,2d][1,4] benzodiacepin-6(5H)-ona DELORAZEPAM 7-cloro-5-(o-clorofenil)-1,3-dihidro -2H-1,4-benzodiacepin-2-ona DIAZEPAM 7-cloro-1,3-dihidro-1-metil-5-fenil- 2H-1,4-benzodiacepin-2-ona ESTAZOLAM 8-cloro-6-fenil-4H-s-triazolo[4,3-a] [1,4] benzodiacepina FLUDIAZEPAM 7-cloro-5-(o-fluorofenil)-1,3- dihidro-1-metil-2H-1,4-benzodiacepin -2-ona FLURAZEPAM 7-cloro-1-[2-(dietilamino)etil]-5-(o -fluorofenil)-1,3-dihidro-2H-1,4- benzodiacepin-2-ona HALAZEPAN 7-cloro-1,3-dihidro-5-fenil-2,2,2- trifluoroetil)-2H-1,4-benzodiacepin- 2-ona HALOXAZOLAM 10-bromo-11b-(o-fluorofenil)-2 ,3, 7, 11b-tetrahidrooxazolo[3,2-d][1,4] benzodiacepin-6(5H)-ona KETAZOLAM 11-cloro-8,12b-dihidro-2,8-dimetil- 12b-fenil-4H-[1,3]-oxazino[3,2-d] [1,4]benzodiacepin-4,7(6H)-diona LOFLAZEPATO DE ETILO etil 7-cloro-5-(o-fluorofenil)-2,3- dihidro-2-oxo-1H-1,4-benzodiacepin- 3-carboxilato LOPRAZOLAM 6-(o-clorofenil)-2,4-dihidro-2-[(4- metil-1-piperacinil)metileno]-8- nitro-1H-imidazo[1,2-a][1,4] benciodiacepin-1-ona LORMETAZEPAM 7-cloro-5-(o-clorofenil)-1,3-dihidro -3-hidroxi-1-metil-2H-1,4- benzodiacepin-2-ona MEDAZEPAM 7-cloro-2,3-dihidro-1-metil-5-fenil- 1H-1,4-benzodiacepina MIDAZOLAM 8-cloro-6-(o-fluorofenil)-1-metil-4H -imidazo[1,5-a] benzodiacepina NIMETAZEPAM 1,3-dihidro-1-metil-7-nitro-5-fenil- 2H-1,4-benzodiacepin-2-ona NITRAZEPAM 1,3-dihidro-7-nitro-5-fenil-2H-1,4- benzodiacepin-2-ona NORDAZEPAM 7-cloro-1,3-dihidro-5-fenil-2H-1,4- benzodiacepin-2-ona OXAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-5- fenil-2H-1,4-benzodiacepin-2-ona OXAZOLAM 10-cloro 2,3,7,11b-tetrahidro-2- metil-11b-fenitoxazolo [3,2-d][1,4] benzodiacepin-6(5H)-ona PINAZEPAM 7-cloro-1,3-dihidro-5-fenil-1-(2- propinil)-2H-1,4-benzociacepin-2-ona PRAZEPAM 7-cloro-1-(cliclopropilmetil)-1,3- dihidro-5-fenil-2H-1,4-benzodiacepin -2-ona TEMAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-1- metil-5-fenil-2H-1,4-benzodiacepin- 2-ona TETRAZEPAM 7-cloro-5-(1-ciclohexen-1-il)-1,3- dihidro-1-metil-2H-1,4-benzodiacepin -2-ona"."
 
+> **Nota.** NOTA 3: El DTO 62, Salud, publicado el 12.07.2004, modifica la presente lista de productos en el sentido de incorporar los siguientes:4 - MTA -metil-4-metiltiofenetilaminaETRIPTAMINA 3-(2-aminobutil)indolN-hidroxi MDA (±)- N- [? -metil-3,4- (metilendioxi) fenetil] hidroxilaminaMDE, N-etil MDA (±) - N-etil - - metil -3,4- (metilendioxi) fenetilaminaMETCATINONA 2-(metilamino)-1-fenilpropan-1-ona4-METILAMINOREX (±)-cis-2-amino-4-metil-5-fenil-2- oxazolina LISTA II2-CB 4-bromo-2,5 dimetoxifenetilaminaAMINEPTINA (ácido 7 - [(10, 11-dihidro 5 H - dibenzo [a, d] ciclohepteno-5 il) amino] heptanoico) LISTA IVGHB Acido gama-hidroxibutiricoZOLPIDEM N,N,6- trimetil-2-p-tolilimidazol [1,2-alfa] piridina-3- acetamidaAMINOREX 2-amino-5-fenil-2-oxazolinaMESOCARBO (imina de 3-(alfa-metilfenetil)-N- (fenilcarbamoil) sidnona)
+
 #### Artículo 37°
 
 Este reglamento entrará en vigencia sesenta días después de su publicación en el Diario Oficial, fecha en que quedará derogado el decreto supremo N° 4, de 2 de Enero de 1970, del Ministerio de Salud y sus modificaciones, así como toda otra norma, resolución o disposición reglamentaria o administrativa que sea contraria o incompatible con las de este reglamento, tales como las Resoluciones N°s. 90, de 4 de Febrero de 1970; 422, de 20 de Mayo de 1971; 7565, de 27 de Noviembre de 1972; 124, de 7 de Enero de 1976; 1324, de 3 de Octubre de 1977, todas del Director General de ex Servicio Nacional de Salud, y la N° 1707, de 21 de Septiembre de 1982, del Director del Instituto de Salud Publica de Chile.
@@ -1070,6 +1110,40 @@ toxi-a-metilfe
 
 niletilamina
 
+4 - MTA -metil-4-metiltiofe
+
+etilamina
+
+ETRIPTAMINA 3-(2-aminobutil)
+
+indol
+
+N-hidroxi MDA (±) - N- [? -metil-
+
+3,4-(metilendioxi)
+
+fenetil]
+
+hidroxilamina
+
+MDE, N-etil MDA (±) - N-etil - -
+
+metil -3,4-
+
+(metilendioxi)
+
+fenetilamina
+
+METCATINONA 2-(metilamino)-1-
+
+fenilpropan-1-ona
+
+4-METILAMINOREX (±) -cis-2-amino-4-
+
+metil-5-fenil-2-
+
+oxazolina
+
 Las sales de las sustancias enumeradas en esta Lista y toda sustancia alucinógena o de efectos nocivos análogos
 
 DROGAS: LISTA II
@@ -1139,6 +1213,20 @@ MAZINDOL 5-(p-clorofenil)- 2,5 -
 dihidro-3H-imidazo
 
 {2,1-&} isoindol-5-ol
+
+2-CB 4-bromo-2,5 dimetoxi
+
+fenetilamina
+
+AMINEPTINA (ácido 7 - [(10,
+
+11-dihidro 5 H -
+
+dibenzo [a, d]
+
+ciclohepteno-5 il)
+
+amino] heptanoico)
 
 Las sales de las sustancias enumeradas en esta Lista, siempre que la existencia de esas sales sea posible.
 
@@ -1531,6 +1619,28 @@ QUAZEPAM 7 - cloro - 5 -
 - 1,4 - benzodiazepina
 
 - 2 - tiona
+
+GHB Acido gama-hidroxibutirico
+
+ZOLPIDEM N,N,6- trimetil-2-p-
+
+tolilimidazol
+
+[1,2-alfa] piridina-
+
+3- acetamida
+
+AMINOREX 2-amino-5-fenil-2-
+
+oxazolina
+
+MESOCARBO (imina de 3-(alfa-
+
+metilfenetil)-N-
+
+(fenilcarbamoil)
+
+sidnona)
 
 Las sales de las sustancias enumeradas en esta lista.
 
