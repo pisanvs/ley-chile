@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 829 y Nº 830, de 29 de agosto de 1997, se expropiaron los lotes de terreno Nºs. 17, 19 y 21, superficies 25,1, 33,9 y 500 m2. respectivamente, roles de avalúo 50-29, 50-38 y 99-1, comuna de Buin, para la obra Mejoramiento Ruta 5, Sector Pasada por Buin, Camino Ruta 5 Sur Rol R-5 y se acordó precio de indemnización con sus propietarios Sucesión Rozas Romero e Inversiones Agrototal S.A., ascendentes a las cantidades de $1.834.510.- y $48.575.565.-
+
+Fiscal del Ministerio de Obras Públicas.
