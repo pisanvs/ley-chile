@@ -1,0 +1,3 @@
+Por resolución Nº 2.104, de 13 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96104057, presentada por JOSE RUBEN BAHAMONDE CARDENAS, para operar un centro de cultivo ubicado en un sector de Punta Metrencue, Canal Calbuco, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 13 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
