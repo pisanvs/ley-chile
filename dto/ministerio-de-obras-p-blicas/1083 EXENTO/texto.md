@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.083, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº40-A, superficie 200,0 m², rol de avalúo 2190-82, comuna de Puerto Montt, para la obra "Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Puerto Montt, Km. 0,000 a Km. 16,340", y se acordó el valor de indemnización con su propietaria María Carlota Mittelmann Olguín, ascendente a la cantidad de $389.440.-
+
+Fiscal del Ministerio de Obras Públicas.
