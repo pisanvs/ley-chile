@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO No. 609, DE 1990
+
+Apruébase el Convenio de 30 de Abril de 1990, celebrado entre el Ministerio de Educación y la I. Municipalidad de Carahue, que rectifica el Convenio de Traspaso de la Escuela G No. 444 de Carahue entregada a esa Corporación, por Convenio aprobado por decreto de Educación No. 8.937 de 16 de Noviembre de 1981, en el sentido de dejar establecido que el inmueble en que funciona dicho establecimiento educacional es de propiedad Fiscal, carácter que es anterior a la fecha del Convenio de Traspaso. El título de dominio rola inscrito a fs. 125 vta. No. 104 del Registro de Propiedad de 1967 y corresponde a parte del predio denominado "Fundo Matte y Sánchez" o "Peñafiel". Otras disposiciones en Convenio y decreto que se extracta.
+
+Raúl Allard Neumann, Subsecretario de Educación.
