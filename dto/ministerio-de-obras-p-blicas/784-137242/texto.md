@@ -1,0 +1,3 @@
+Por decreto MOP Nº784, de 31 de marzo de 1999, se expropió el lote de terreno Nº127-1, superficie 118 m2., rol de avalúo 160-200, comuna de Pemuco, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli'', VIII Región y se acordó el valor de indemnización con su propietario Pedro María Alcatruz Ramírez, ascendente a la cantidad de $297.869.
+
+- Fiscal del Ministerio de Obras Públicas.
