@@ -1,0 +1,3 @@
+Por Decreto MOP No. 84, de 23 de marzo de 1992, se expropiaron los lotes de terreno No. s. 3 y 5, superficies 1.526,60 m2. y 514,75 m2., respectivamente, roles de avalúo 38-65 y 38-51, Comuna de Romeral, para la obra Camino Longitudinal Sur, sector Romeral-Molina, Paso Superior Aguas Negras, y se acordó precio de indemnización con sus propietarios Dolores Cortina Piñeiro y Daniel Palma Parraguez, ascendente a las cantidades de $ 3.560.273.- y $ 1.230.995.-
+
+Fiscal del Ministerio de Obras Públicas.
