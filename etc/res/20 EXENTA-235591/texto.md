@@ -1,0 +1,5 @@
+ESTABLECE OBLIGACION DE PRESENTAR DECLARACION JURADA PARA CONTRIBUYENTES QUE UTILICEN EL BENEFICIO TRIBUTARIO ESTABLECIDO EN EL ARTICULO 8º DE LA LEY 19.885 POR APORTES REALIZADOS EN PERIODO ELECCIONARIO A PARTIDOS POLITICOS Y/O CANDIDATOS A OCUPAR CARGOS DE ELECCION POPULAR
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 20 del 11 de febrero de 2005, que establece obligación a los contribuyentes a que se refiere el artículo 1º de la ley Nº 19.885, que utilicen el beneficio tributario establecido en el artículo 8º de la citada ley, sobre donaciones a entidades de carácter público, de informar al Servicio de Impuestos Internos, la circunstancia de no tener prohibiciones para realizar los aportes a que se refiere el artículo 25 de la ley Nº 19.884.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de febrero de 2005.
