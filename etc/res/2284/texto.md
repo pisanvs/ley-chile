@@ -1,0 +1,3 @@
+Por resolución Nº2.284, de 29 de octubre de 1999, de esta Subsecretaría de Pesca, se rechaza la solicitud de concesión de acuicultura Nº96110138, presentada por RODRIGO PAYA GONZALEZ, para operar un centro de cultivo ubicado en Canal Carrera del Chivato, Canal Melchor, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 29 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
