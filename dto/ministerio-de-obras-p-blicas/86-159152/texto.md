@@ -1,0 +1,5 @@
+Por decreto MOP Nº86, de 26 de enero de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº321, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A. Acceso Sur a Santiago. Km. -0.150,00 al Km.
+
+10.986,00, Región Metropolitana, que figura a nombre de Lara Rojas Aurora, rol de avalúo 7850-10, comuna de La Pintana, superficie 120 m2. La comisión de peritos integrada por los señores Enrique Figueroa Echeverría, Eduardo Archibaldo Escobar de la Fuente y Jorge Eduardo Lackington Vergara, fijó con fecha 15 de octubre de 1999, el valor provisional de las indemnización en la cantidad de $6.550.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
