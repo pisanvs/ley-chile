@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 780, de 17 de Junio de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas porporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Segunda o Santa Adriana, que es Parte del Fundo El Rosario o Hijuela Cuarta de la Hacienda San Miguel" de la comuna de El Monte, Región Metropolitana; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 24 y sitios N°s. 1 al 15 del Proyecto de Parcelación "Santa Adriana y Los Olmos" formado, entre otros, por predio señalado. Los Derechos de Agua se extraen del Canal San Miguel, derivado del río Mapocho y canal recolector de derrames y vertientes proveniente fundamentalmente de Fundo La Puntilla y Sectores Vecinos.Publicación hecha conforme Art. 13 Ley No.
+
+18.377.
+
+- Director Ejecutivo.
