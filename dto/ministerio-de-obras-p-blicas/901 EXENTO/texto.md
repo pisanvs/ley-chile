@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 901, de fecha 29 de junio de 2001, se expropiaron los lotes de terreno Nºs. 59 y 60, superficies 900 m² y 560 m², ambos con rol de avalúo en trámite, comuna de Sagrada Familia, para la obra "Camino Ruta K-16, Sector: Santa Emilia - Villa Prat, Tramo Km. 26,200 al Km. 37,786,72" y se acordó el valor de indemnización con su propietario Claudio del Carmen Vargas Baeza, ascendente a la cantidad de $994.224.-
+
+Fiscal del Ministerio de Obras Públicas.
