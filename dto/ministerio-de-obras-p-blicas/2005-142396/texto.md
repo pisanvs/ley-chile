@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.005, de 30 de julio de 1999, se expropió el lote de terreno Nº 16, superficie 359 m2., rol de avalúo 1334-190, comuna de San Carlos, para la obra ''Ruta 5 Tramo Talca - Chillán, sectores Accesos Estación Ninquihue Oriente y Poniente, calles de Servicio Ninquihue'', Octava Región y se acordó el valor de indemnización con su propietario Julio Enrique Valenzuela Saldías, ascendente a la cantidad de $2.574.301.-
+
+Fiscal del Ministerio de Obras Públicas.
