@@ -192,6 +192,8 @@ Son remuneraciones, para los efectos del artículo anterior: el sueldo, las comi
 
 Esta gratificación se computará solamente hasta concurrencia del 25% del sueldo anual percibido, con límite de seis sueldos vitales mensuales del departamento de Santiago. Este límite de 6 sueldos vitales se elevará en un 25% en las provincias de Tarapacá, Antofagasta y Magallanes.
 
+Con todo en los casos de imponentes empleados de empresas que por su "giro principal explotan servicios de utilidad pública mediante concesiones "o contratos con el Fisco o las Municipalidades y que están sujetas al cobro "de tarifas por dichos servicios y tengan un capital pagado de ochenta "millones de pesos o más, la gratificación se computará hasta concurrencia "de 6 sueldos vitales mensuales del departamento de Santiago y con ese mismo "máximum.
+
 #### Artículo 15°
 
 <!-- parte:9099847 -->
