@@ -1,0 +1,3 @@
+Por Resolución No. 436, de 9 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado en calle Eyzaguirre No. 1367, casa 14, presunto rol avalúos No. 646-32, comuna Santiago, aparentemente dominio de don Alberto Varas Contreras. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos, y Walter Soto Silva, ingeniero civil, según informe de 24.11.88 fijó monto provisional indemnización en $ 1.364.910.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
