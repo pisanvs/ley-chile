@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.455, de 31 de agosto de 1998, se expropió el lote de terreno No. 2, superficies 428 m², rol de avalúo 510-37, comuna de Talagante, para la obra Camino Autopista Santiago-San Antonio, Sector Plaza de Pesaje El Monte, y se acordó el valor de indemnización con su propietaria Agrícola Lantabat Limitada, ascendente a la cantidad de $ 4.346.258.-
+
+Fiscal del Ministerio de Obras Públicas.
