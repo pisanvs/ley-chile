@@ -1,0 +1,3 @@
+Por resolución Nº 2.128, de 14 de octubre de 1999, de esta Subsecretaría, deniégase la solicitud presentada por ALIMENTOS MARINOS S.A., para ampliar actividades pesqueras extractivas con la nave ''Panilonco'', respecto de las áreas y especies hidrobiológicas solicitadas, en virtud de lo dispuesto en el artículo 19 letras c) y e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
