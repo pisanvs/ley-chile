@@ -1,0 +1,5 @@
+Por Resolución No. 570 de 17 de Junio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don ANDRES EDUARDO GUTIERREZ GUTIERREZ, R.U.T. Nº 7.747.429-3, domiciliado en Santiago, calle Barros Borgoño Nº 150, para ampliar actividades que tiene autorizadas por Resolución Nº 1.799, de 1989, de esta Subsecretaría, donde podrá ampliar las actividades de pesca con la nave "Don Andrés", individualizada en la Resolución señalada precedentemente, en donde podrá capturar bacalao de profundidad, entre el litoral de la VIII Región hasta el paralelo 47° LS., con espinel, con un máximo de 12.000 anzuelos.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 17 de Junio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
