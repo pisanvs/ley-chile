@@ -1,0 +1,3 @@
+Por resolución No. 889 de fecha 16 de Julio de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se autoriza a la Sociedad Centromotori Ltda. para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos, incluido el del conductor; de vehículos motorizados de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en calle Angamos s/n. Barrancas, de la ciudad de San Antonio.
+
+Valparaíso, 25 de Julio de 1985.- Héctor Soto Miranda, Secretario Regional Ministerial de Transportes y Telecomunicaciones subrogante V Región.
