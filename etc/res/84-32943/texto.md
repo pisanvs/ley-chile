@@ -1,0 +1,3 @@
+Por Resolución N° 084 de 20 de Enero de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por seis meses, a contar del 27 de Enero de 1995, el plazo otorgado a Lota Protein Ltda., R.U.T. N° 78.143.460-4, para instalar y operar una planta industrial ubicada en la Comuna de Lota, calle Matta s/n°, VIII Región, autorizada por Resolución N° 32, de 1992, de esta Subsecretaría, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 20 de Enero de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
