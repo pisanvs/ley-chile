@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.063, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº19, superficie 124 m², rol de avalúo 5050-117, comuna de Punta Arenas, para la obra "Reposición Ruta 9 y Acceso Aeropuerto, Sector Ruta (Ruta 9) Km. 5,31490 al Km. 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819" y se acordó el valor de indemnización con su propietaria Francia del Carmen Campillo Sánchez y Otros, ascendente a la cantidad de $1.765.408.-
+
+Fiscal del Ministerio de Obras Públicas.
