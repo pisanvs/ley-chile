@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.334, de 23 de noviembre de 2004, de esta Subsecretaría, autorízase a PESQUERA MESSAMAR S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Ruta 5, kilómetro 5, Ancud-Chacao, Ancud, Chiloé, X Región, donde podrá procesar, en las líneas de elaboración de Conserva y Congelado, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 23 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
