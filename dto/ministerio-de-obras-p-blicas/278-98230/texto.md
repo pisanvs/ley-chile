@@ -1,0 +1,5 @@
+Por decreto MOP. Nº278, de 16 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP. Nº850, de 1997, que fijó el texto actualizado de la Ley Nºl5.840, se expropió el lote de terreno Nº79, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, Sector Km.
+
+14.800,00 al Km. 21.300,00, que figura a nombre de Palocz Ollop Eugenio, Rol de Avalúo 383-15, comuna de Lampa, superficie 5.243 m2. La comisión de peritos integrada por Mónica del Carmen Conejeros Rudloff, Marly Ester Flores Altonaga y Walter Foich Garbarini, fijó con fecha 28 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $169.169.984.- para el lote 79. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
