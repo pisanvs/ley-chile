@@ -1,0 +1,3 @@
+Por Resolución N° 638, de 10 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALGAS DEL SUR S.A., para ampliar actividades pesqueras, en orden a instalar y operar una planta ubicada en camino al Aeropuerto s/n, Quellón, Chiloé, donde podrá procesar, en la línea de elaboración de Secado artificial de algas, los siguientes recursos: Cochayuyo, Chasca, Chascón, Chicorea de mar, Huiro, Liquen gomoso, Luga-Luga, Pelillo.
+
+Valparaíso, 10 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
