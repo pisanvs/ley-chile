@@ -1,0 +1,5 @@
+Por Resolución No. 1.192, de 03 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don MARIO KOTESKY LEAL, R.U.T. No. 3.573.832-0, domiciliado en la ciudad de Arica, Recinto Portuario s/n, para ampliar las actividades pesqueras autorizadas mediante Resolución No. 697, de 1987, con la nave "Mauricio I", en orden a ampliar la zona de operación de dicha embarcación, autorizada por la Resolucion citada en el numeral precedente, al litoral de las Regiones III a V, donde podrá extraer los recursos: Atún aleta amarilla, atún aleta larga y marrajo o tiburón, con palangre. Asimismo, el interesado podrá extraer con la nave antes referida, en el litoral de las Regiones I a V, el recurso calamar, utilizando poteras.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 03 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
