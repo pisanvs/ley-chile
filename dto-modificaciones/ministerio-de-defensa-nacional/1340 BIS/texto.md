@@ -1132,33 +1132,25 @@ Cuando un vapor del tránsito o de cualquier clase quisiera llamar la atención 
 
 En concordancia con lo que establece en el Art.182 quedan prohibidas las pitadas que tenían por objeto llamar a los pasajeros, pedir visita, despedirse al salir, pedir lanchas, despachos, etc., porque, a más de ser innecesarios, perjudican al buen servicio de la policía portuaria y el tránsito cuando se da el caso de que tales pitadas suenen al mismo tiempo que las de un vapor que está indicando la evolución que va hacer o está haciendo en ese momento; también porque se confundirían con las de un vapor que pidiera auxilio y por último, porque siendo numerosa la población que vive a flote, no es lícito perturbar el sueño de los que estuvieren descansando.
 
-## Capítulo XXI
+CAPITULO XXI Derogado
 
-Prohibición de arrojar o derramar en las aguas jurisdiccionales de la República, petróleo y sus derivados, lastre, escombros, basura, etc.
+Prohibición de arrojar o derramar en las aguas jurisdiccionales
 
-#### Artículo 185
+#### Artículo 185°
 
-Se prohíbe arrojar lastre, escombros,basuras, derramar petróleo y sus derivados o residuos de los mismos, aguas de relave de minerales u otras materias orgánicas nocivas o peligrosas de cualquier especie, en los puertos o en las aguas jurisdiccionales de la República, sin el consentimiento previo de la autoridad marítima respectiva, quien designará, en todo caso, el lugar o forma como se procederá a efectuar alguna de dichas operaciones.
+(DEL NUM. Nº2).- Derogado.
 
-Cuando se ejecuten faenas de embarque o desembarque de materiales sólidos que se transporten a granel, se colocará entre la nave y el muelle o entre la nave y las embarcaciones que efectúen la carga o descarga, una planchada o encerados resistentes en forma tal que impidan la caída al agua del material desprendido durante la ejecución de la faena.
+#### Artículo 186°
 
-Se prohíbe, además, efectuar rellenos o avances dentro del agua sin el conocimiento previo de la autoridad marítima y sin contar con la respectiva concesión que corresponda, en conformidad a lo dispuesto en el Reglamento General sobre Concesiones Marítimas.
+(DEL NUM. Nº2).- Derogado.
 
-#### Artículo 186
+#### Artículo 187°
 
-Cuando debido a un siniestro marítimo o por otras causas se produzca la contaminación de las aguas por el efecto de derrames de hidrocarburos u otras substancias nocivas o peligrosas, la autoridad marítima respectiva adoptará todas las medidas que estime procedentes para evitar la destrucción de la flora y fauna marítima.
+(DEL NUM. Nº2).- Derogado.
 
-Las medidas que en estos casos adopte la autoridad marítima, no serán susceptibles de reclamo o recurso alguno.
+#### Artículo 188°
 
-#### Artículo 187
-
-Toda infracción a las presentes disposiciones será penada con una multa al capitán o a los representantes de la nave infractora de $1.000 oro a $1.000.000 oro, los que serán además, responsables de los perjuicios ocasionados, corriendo por su cuenta la total eliminación del elemento contaminador a entera satisfacción de la autoridad marítima, aunque la contaminación se haya producido por caso fortuito.
-
-Procederá la aplicación de la multa aunque el "derrame haya sido ocasionado por culpa o descuido levísimo.
-
-#### Artículo 188
-
-Las naves que naveguen las aguas jurisdiccionales de la República como también las que arriben a un puerto nacional conduciendo un cargamento de petróleo o sus derivados u otras materias líquidas inflamables, nocivas o peligrosas, deberán tener, entre los documentos de a bordo, una póliza de seguro contra todo riesgo de contaminación de las aguas, por efectos de derrame de hidrocarburos o de cualquier otra substancia nociva o peligrosa.
+(DEL NUM. Nº2).- Derogado.
 
 ## Capítulo XXII
 
@@ -2046,7 +2038,7 @@ c) Las reincidencias a las faltas leves o graves cometidas dentro de los doce me
 
 d) Las faltas gravísimas que cometa la Gente de Mar serán sancionadas después de oídos los descargos, con multa mayor de quinientos pesos oro, suspensión temporal de la matrícula por más de tres meses o la eliminación definitiva de la matrícula, como dispone el artículo 329.
 
-e) Toda suspensión temporal de la matrícula de Gente de Mar mayor de tres meses, o multas mayores de doscientos pesos oro, deberán ser aprobadas por el Director del Litoral y de Marina Mercante y tendrán un límite de 2 (dos) años y de un mil pesos oro, respectivamente. Sin embargo, tratándose de sancionar a Empleados y Obreros, no podrá aplicárseles multas que en conjunto sumen una mayor cantidad que el 25% de la remuneración total mensual para lo cual los Capitanes de Puerto o Dirección del Litoral deberán cerciorarse si el inculpado ha sido multado con anterioridad en el mismo mes. En caso de tener que proceder sobrepasando dicho máximo, se dispondrá otra clase de sanción.
+e) Toda suspensión temporal de la matrícula de Gente de Mar mayor de tres meses, o multas mayores de dos mil pesos oro, deberán ser aprobadas por el Director General del Territorio Marítimo y de Marina Mercante, no pudiendo, en todo caso exceder de dos años la suspensión temporal de la matrícula.
 
 f) Las suspensiones podrán ser conmutadas por multas. Cuando imponga esta última, la Autoridad correspondiente otorgará un plazo que no será superior a un mes para integrarla, quedando a su término inhabilitado el infractor para ejercer toda actividad marítima si así no lo hubiere hecho. La Autoridad Marítima respectiva podrá asimismo aumentar la suspensión por un nuevo período igual al que ella comprenda, cuando el infractor sancionado no hubiere empezado a cumplirla en el plazo de un mes, contado desde que le fue impuesta.
 
@@ -2116,7 +2108,7 @@ IV. - MULTAS, PROCEDIMIENTO E INTEGRO
 
 a) El monto de las multas que podrán aplicar los Capitanes de Puerto por infracciones al presente Reglamento será como máximo el que se expresa al margen de los artículos que sean susceptibles de infracción y que está establecido en Pesos Oro, debiendo cubrirse en moneda corriente con el recargo que para los efectos del pago de los derechos aduaneros fija mensualmente el Ministerio de Hacienda. Con este fin la Dirección del Litoral y de Marina Mercante solicitará de la administración de Aduanas respectiva, el recargo que esta repartición aplica mensualmente en el pago de los derechos aduaneros, lo que será transcrito a las Capitanías de Puerto para los fines señalados.
 
-b) Si por la gravedad de la falta se impusiera una sanción de mayor monto que las indicadas en este Reglamento y de más de $200 oro (Doscientos Pesos Oro), deberá solicitarse la aprobación de la Dirección del Litoral y de Marina Mercante, como dispone el artículo 328, inciso e).
+b) Si por la gravedad de la falta se impusiera una sanción de mayor monto que las indicadas en este Reglamento y de más de $2.000,00 oro (Dos mil Pesos Oro), deberá solicitarse la aprobación de la Dirección del Litoral y de Marina Mercante, como dispone el artículo 328, inciso e).
 
 c) Las multas que apliquen la Dirección del Litoral y de Marina Mercante o Capitanes de Puerto, por las infracciones a que se refiere el artículo 327 de este Reglamento, ingresarán en arcas fiscales.
 
