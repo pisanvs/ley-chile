@@ -1,0 +1,3 @@
+Por decreto MOP Nº 395, de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 45-A, superficie 51,50 m2., Rol de Avalúo Nº 1128-13, comuna de Castro, para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid)-Putemún-Dalcahue, Km. 0,000 al Km. 11,991647, Comuna de Castro-Dalcahue, Provincia de Chiloé", X Región y se acordó el valor de indemnización con su propietario Wenceslao Torres Barría, ascendente a la cantidad de $3.371.365.
+
+- Fiscal del Ministerio de Obras Públicas.
