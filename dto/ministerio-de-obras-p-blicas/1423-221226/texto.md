@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.423 de fecha 28 de noviembre de 2003, se expropió los lotes de terrenos Nº 2 y 16-B, superficies 720 m2 y 2.843 m2, roles de avalúo Nº 109-2 y Nº 109-7, comuna de Coltauco, para la obra "Camino Molino-Hijuela del Medio, Rol H-320, Km.0,000 a Km.4,100", VI Región y se acordó el valor de la indemnización con su propietario Fundación Educacional Santiago, ascendente a la cantidad de $12.415.353.
+
+- Fiscal del Ministerio de Obras Públicas.
