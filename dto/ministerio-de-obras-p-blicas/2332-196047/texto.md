@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.332, de 31 de diciembre del 2001, se expropió el lote de terreno Nº8-1, superficie 258 m², rol de avalúo 118-67, comuna de Quilicura, para la obra Camino Santiago Colina Los Andes. Sector Enlace Independencia y se acordó el valor de indemnización con su propietario Grunenthal Chilena Limitada, Región Metropolitana, ascendente a la cantidad de $10.836.352.-
+
+Fiscal del Ministerio de Obras Públicas.
