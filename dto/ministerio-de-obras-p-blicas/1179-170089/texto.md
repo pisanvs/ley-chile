@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.179, de 30 de marzo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1-A, 23-K y 31-D, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector C Putu-Quivolgo, Kms.
+
+30,000 al 49,815.494, que figura a nombre de María Graciela Saavedra Valenzuela, José Alvaro Antonio Barrios Molina y Enrique Muller, roles de avalúo 352-3, 322-13 y en trámite, comuna de Constitución, VII Región. La comisión de peritos fijó con fecha 10 de junio de 1998 y 3 de septiembre de 1999, en las cantidades que se indican en dicho decreto. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
