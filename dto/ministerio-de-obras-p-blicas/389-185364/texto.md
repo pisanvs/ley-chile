@@ -1,0 +1,3 @@
+Por decreto MOP Nº389 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº65, superficie 392, rol de avalúo 502-460, comuna de Retiro, para la obra "Camino Ruta L-75, sector El Ajial - Las Camelias Tramo: Kms. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario Guillermo Enrique Méndez Contreras, ascendente a la cantidad de $508.828.
+
+Fiscal del Ministerio de Obras Públicas.
