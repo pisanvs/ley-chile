@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.419 de fecha 31 de octubre de 2003, se expropiaron los lotes de terreno Nº 85-A, 86-A, 86-B, 87-A y 87, superficies 577,0 m2, 3.384,0 m2, 490,0 m2, 608,0 m2 y 1.020,0 m2, rol de avalúo Nº 512-71, comuna de Carahue, para la obra "Camino Ruta S-36, sector Tranapuente - Nehuentúe, Tramo Km. 0,000 a Km. 9,997062, correspondiente al subtramo II, Km. 4,235 a Km. 9,997062", IX Región y se acordó el valor de la in-demnización con su propietario Eu-sebio Hernández Molina, ascenden-te a la cantidad de $4.108.744.-
+
+Fiscal del Ministerio de Obras Públicas.
