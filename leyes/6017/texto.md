@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de la Unión contratar empréstito hasta por $ 650.000, a fin de atender a diversas construcciones.
