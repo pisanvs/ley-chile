@@ -1,0 +1,3 @@
+Por decreto MOP Nº524, de 28 de febrero del 2000, se expropió el lote de terreno Nº427, superficie 118 m², rol de avalúo 7790-13, comuna de La Pintana, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Sandra Elizabeth Espinace Gutiérrez, ascendente a la cantidad de $8.323.732.-
+
+Fiscal del Ministerio de Obras Públicas.
