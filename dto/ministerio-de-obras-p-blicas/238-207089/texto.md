@@ -1,0 +1,7 @@
+Por Decreto MOP No. 238, de 16 de septiembre de 1988 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. No. 294, de 1984, que fijó el texto actualizado de la Ley No. 15.840, se expropiaron los lotes No. s. 1, 2 y 3, para Abastecimiento de Agua Potable para la localidad de "El Prado", Región Metropolitana, que figuran a nombre de don Pedro Cerda Quiroz, rol de avalúo 24-27, Comuna de San Pedro, superficie total 1.754 m2. Deslindes: Lote 1: Norte y Oeste: En 3 mts. con Estero Loica; Sur: En 3 mts. con lote No. 2, del mismo propietario y Este: En 3 mts. con resto del predio afectado con la expropiación, Lote No.
+
+2: Norte: En 4 mts. con lote No. 1; Sur: En 4 mts. con lote No. 3; Este: En línea quebrada de 316 y 77 mts. con resto del predio afectado con la expropiación y Oeste: En línea quebrada de 316 y 77 mts. con otros propietarios, Lote No.
+
+3: Norte: En 4 mts. con lote No. 2 y en 6 mts. con resto del predio afectado con la expropiación; Sur: En 11 mts. con camino público: Este: En 15 mts. con resto del predio afectado con la expropiación y Oeste En 16,50 mts. con otros propietarios. La Comisión de Peritos compuesta por los señores Isaac Faiguenbaum Arcavi, Eugenio Díaz Delgado y Carlos Jarpa Yáñez, fijó con fecha 30 de junio de 1988, el valor provisional de la indemnización en la suma de $ 234.590.- La indemnización se pagar al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
