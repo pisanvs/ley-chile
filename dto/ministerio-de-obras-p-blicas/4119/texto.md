@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.119, de 31 de agosto de 2000, se expropió el lote de terreno Nº162, superficie 188 m2., rol de avalúo 5809-14, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Humberto del Carmen Farías Canales, ascendente a la cantidad de $18.083.656.
+
+Fiscal del Ministerio de Obras Públicas.
