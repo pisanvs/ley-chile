@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.501, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs. 218, 219, 220 y 221, superficies 9.962 m2., 10.561 m2., 1.651 m2. y 1.793 m2., rol de avalúo 123-4, comuna de Punitaqui, para la obra Concesión Internacional Ruta 5 Tramo Los Vilos - La Serena, Sector A, Bifurcación Illapel - Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietario Hernán Riesco Grez, ascendente a la cantidad total de $15.606.221.-
+
+Fiscal del Ministerio de Obras Públicas.
