@@ -1,0 +1,7 @@
+Por Resolución N° 747, de 27 de septiembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SANTA LUCIA S.A., R.U.T. N° 96.527.920-2, para ampliar actividades pesqueras que tiene autorizadas por Resoluciones N° 573, de 1988, N° 1.791, de 1989, N° 385, de 1991 y N° 1.143, de 1992, todas de esta Subsecretaría, en orden a ampliar las faenas de pesca extractiva autorizada para la nave "Lucía" por las Resoluciones individualizadas precedentemente, en el litoral de las Regiones III y IV, donde podrá extraer, con cerco, los siguientes recursos hidrobiológicos: Caballa, Jurel, Machuelo, Sardina española, Sardina común y Anchoveta.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para realizar faenas de pesca extractiva respecto de los recursos hidrobiológicos y áreas de pesca no contemplados en la presente Resolución, en virtud de los informes técnicos y normas legales y reglamentarias citadas en visto.
+
+Valparaíso, 27 de septiembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
