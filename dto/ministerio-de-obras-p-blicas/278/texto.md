@@ -1,0 +1,1 @@
+Por Decreto M.O.P. N°278, de 14 de Septiembre de 1993, se rectificó el N°3, del Decreto M.O.P. N°178, de 28 de Junio de 1993, destinado a la ejecución de la obra Mejoramiento del Servicio de Agua Potable de Tomé Sistema de Distribución, en la parte que se refiere al Acta de Avalúo del lote A, en el sentido que ésta es de 1993 y no de 1992, como se señalaba en dicho Decreto.
