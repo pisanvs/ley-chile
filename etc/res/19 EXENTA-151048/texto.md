@@ -1,0 +1,7 @@
+RECTIFICA NOMBRE DE BENEFICIARIA QUE INDICA PARA GOCE DEL SISTEMA DE SUBSIDIO HABITACIONAL PARA LA ATENCION DEL SECTOR RURAL
+
+Res. exenta Nº 19, de fecha 6 de enero de 2000, rectifíquese el nombre de doña Miguelina del Rosario Concha Carreño, beneficiaria del llamado 1-99 a Postulación Colectiva con Proyectos de Saneamiento Sanitario para Predios Rurales (Título III) del Sistema de Subsidio Habitacional para la Atención del Sector Rural, por el de doña María del Rosario Concha Carreño.
+
+Déjase constancia que la rectificación no compromete los recursos ni el número de postulantes seleccionados, quedando en definitiva en 707 el número de postulantes seleccionados para el goce del subsidio habitacional correspondiente al Título III (llamado 1-99) a Postulación Colectiva con Proyectos de Saneamiento Sanitario de Predios Rurales del Sistema de Subsidio Habitacional para la Atención del Sector Rural y en 46.070 Unidades de Fomento (U.F.), el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados del Sistema de Subsidio Habitacional para la Atención del Sector Rural.
+
+Berta A. Belmar Ruiz, Subsecretaria de Vivienda y Urbanismo
