@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.787, de 28 de abril de 2000, se expropió el lote de terreno Nº44, superficie 424 m², rol de avalúo 136-304, comuna de San Francisco de Mostazal, para la obra Concesión Internacional Ruta 5; Tramo Santiago-Talca. Sector C, Sexta Región y se acordó el valor de indemnización con su propietaria Flor Irene León Pinto, ascendente a la cantidad de $16.111.613.
+
+Fiscal del Ministerio de Obras Públicas.
