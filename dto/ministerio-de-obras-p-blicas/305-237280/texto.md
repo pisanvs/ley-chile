@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 305, de 30 de abril de 1996, se expropió el lote de terreno N° 1 superficie 374 M2, rol de avalúo 238-19, comuna de San Carlos, para la obra Camino Ampliación Ruta 5 Longitudinal Sur, Sector San Carlos Chillán y se acordó precio de indemnización con su propietario Suc. José Fritz San Martín y María Fuentes Mella, ascendente a la cantidad de $34.053.370.
+
+Fiscal del Ministerio de Obras Públicas.
