@@ -1,0 +1,3 @@
+Por decreto MOP Nº608, de 30 de marzo de 2001, se expropió el lote de terreno Nº134, superficie 2.321 m², rol de avalúo 32-67, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario Eduardo Enrique Witting Martínez, ascendente a la cantidad de $16.065.491.
+
+Fiscal del Ministerio de Obras Públicas.
