@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.195 de fecha 31 de julio de 2002, se expropiaron los lotes de terreno Nº 80 y 80-A, superficies 164 y 623 m2, rol de avalúo Nº 159-100, comuna de Ránquil, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas Tramo II, Km. 5,57900 a Km. 10,19480'', VIII Región y se acordó el valor de la indemnización con su propietario Mario Roberto Fissore León, ascendente a la cantidad de $1.869.955.-
+
+Fiscal del Ministerio de Obras Públicas.
