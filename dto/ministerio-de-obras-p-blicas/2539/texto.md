@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.539, de 30 de noviembre de 1998, se expropió el lote de terreno Nº 73, superficie 1.581 m2, rol de avalúo 505-135, comuna de Los Andes, para la obra Camino Santiago-Colina-Los Andes, Sector G, By Pass Los Andes y se acordó el valor de indemnización con su propietario José Gumercindo Pulgar Córdova, ascendente a la cantidad de $ 8.262.771.
+
+- Fiscal del Ministerio de Obras Públicas.
