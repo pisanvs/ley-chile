@@ -1,0 +1,3 @@
+Por resolución Nº 2.226, de 11 de octubre de 2000, de esta Subsecretaría, cadúcase la resolución Nº 217, de 1990, de esta Subsecretaría, que autorizó a don JOSE EZQUIVEL CAMPAÑA, para iniciar actividades pesqueras extractivas con la nave ''Opus Dei'', en virtud de lo dispuesto en las letras b) y d) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
