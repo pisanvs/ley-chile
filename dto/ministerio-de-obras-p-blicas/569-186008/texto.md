@@ -1,0 +1,3 @@
+Por decreto MOP Nº 569 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº 16, superficie 3.618,0 m², rol de avalúo 387-304, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 1/5, Derivado Comuy", sector Km. 0.000 al Km. 6.120,36" y se acordó el valor de indemnización con su propietario Celestino Colicheo Manquilaf, ascendente a la cantidad de $3.656.763.-
+
+Fiscal del Ministerio de Obras Públicas.
