@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 826, de 25 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No.
+
+1, para la obra Camino Rehabilitación Complejo La Negra, sector La Negra, Kms. 1354.000 al 1356.240, que figura a nombre de Combustibles Marítimos S.A., rol de avalúo 6701-18, comuna de Antofagasta, II Región, superficie 6.405,42 m2. La Comisión de Peritos compuesta por los señores Iván Vladilo Vargas, César Bargsted Balcells y Eleonora Román Latorre, fijó con fecha 3 de febrero de 1997, el valor provisional de la indemnización en la cantidad de $ 6.853.799. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
