@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 662, de fecha 30 de agosto de 1996, se expropiaron los lotes de terreno N°s. 29, 31 y 30, superficies 608, 13.313 y 4.102 m2., respectivamente, roles de avalúos 591-36, 591-22 y 591-26, comuna de Yungay, para la obra Proyecto Laja Diguillín, Canal Matriz, sector Huépil-Trilaleo y se acordó precio de indemnización con sus propietarios Laura Pinilla Pérez y Timoteo Altamirano Valenzuela, ascendente a las cantidades de $ 3.657.770 y $ 951.681.
+
+Fiscal del Ministerio de Obras Públicas.
