@@ -1,0 +1,3 @@
+Por decreto MOP Nº 469, de fecha 30 de abril del 2001, se expropiaron los lotes de terreno Nºs. 111, 112, superficie 2.662, 12.853, respectivamente, Rol de Avalúo 515-25, comuna de Carahue, para la obra "Camino Costero Tirúa - Carahue, Tramo Bajo Yupehue- - Puyanhue, Km. 23.348,46 al 45.286,79" y se acordó el valor de indemnización con su propietario Hernán Carrillo Urrutia, ascendente a la cantidad de $2.703.248.-
+
+Fiscal del Ministerio de Obras Públicas.
