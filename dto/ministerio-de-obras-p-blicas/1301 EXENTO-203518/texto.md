@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.301 de 30 de agosto de 2002, se dejó sin efecto el decreto MOP exento Nº913, de fecha 14 de junio del 2002, en la parte que se refiere a los lotes 4, 8 y 31, por no ser necesarios para la ejecución de la obra Camino Ruta I-50, Sector Nancagua - Santa Cruz, Km. 26,800 a Km. 42,321, comuna de Nancagua, provincia de Colchagua, VI Región.
+
+Fiscal del Ministerio de Obras Públicas.
