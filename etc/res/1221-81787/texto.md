@@ -1,0 +1,3 @@
+Por Resolución N°. 1221, de 04.09.91 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución N°. 1010, de 1991, que autorizó a la SOCIEDAD FRIGORIFICO SEMINARIO LTDA., R.U.T. N°. 79.643.040-0, domiciliado en la ciudad de Santiago, para desarrollar actividades pesqueras de transformación, en el sentido de incluir entre las líneas de elaboración autorizadas la de congelado.
+
+Valparaíso, 04 de Septiembre de 1991. Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
