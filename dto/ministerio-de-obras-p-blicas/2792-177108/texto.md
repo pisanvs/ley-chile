@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.792, de 30 de junio de 2000, se expropió el lote de terreno Nº12, superficie 61 m², rol de avalúo 3121-3, comuna de Ovalle, para la obra ''Concesión Internacional Ruta 5. Tramo: Los Vilos-La Serena, Sector C: Mantos de Hornillos'', Cuarta Región y se acordó el valor de indemnización con su propietario Delmira del Tránsito Castro, ascendente a la cantidad de $6.186.649.-
+
+Fiscal del Ministerio de Obras Públicas.
