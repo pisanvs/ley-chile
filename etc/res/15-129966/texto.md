@@ -1,0 +1,3 @@
+Por resolución Nº 15, de 11 de enero de 1999, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura Nº 96103098, presentada por CHARLES EDWARD BARTER ORAMS, para operar un centro de cultivo ubicado en un sector al este del Bajo la Barra y al norte de Isla Alao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 11 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
