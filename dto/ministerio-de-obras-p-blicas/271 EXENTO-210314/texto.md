@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº271 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº25-N, superficie 153 m², rol de avalúo Nº204-42, comuna de Los Alamos, para la obra "Camino Ruta P-46, Sector Los Alamos-Sara de Lebu, Km. 0,00000 a Km. 16,84000", VIII Región y se acordó el valor de la indemnización con su propietaria Flor María Cabeza Cuevas, ascendente a la cantidad de $84.597.-
+
+Fiscal del Ministerio de Obras Públicas.
