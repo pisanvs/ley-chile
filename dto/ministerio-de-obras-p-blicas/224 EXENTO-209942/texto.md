@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 224, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 11, superficie 330 m2, Rol Nº 213-13, comuna de Teodoro Schmidt, IX Región, para la obra "Camino S-60 sector: Teodoro Schmidt - Hualpin, Km. 43,94000 al Km. 59,10294, Tramo I Km. 44,84000 al Km. 53,08000" y se acordó el valor de indemnización con su propietario Jorge Arnoldo Valdebenito Apablaza, ascendente a la cantidad de $353.019.-
+
+Fiscal del Ministerio de Obras Públicas.
