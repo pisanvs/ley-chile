@@ -1,0 +1,3 @@
+Por Resolución N° 404, de 7 de Abril de 1995, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a TRIPESCA S.A., R.U.T. N° 96.653.590-3, domiciliada en San Antonio, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Avenida Bernardo O'Higgins N° 1981, San Antonio, en la línea de elaboración de harina, los siguientes recursos hidrobiológicos: Anchoveta Engraulis ringens, Krill Euphausia superba.
+
+Valparaíso, 7 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
