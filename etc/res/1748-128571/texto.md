@@ -1,0 +1,3 @@
+Por resolución Nº 1.748, de 9 de diciembre de 1998, de esta Subsecretaría, autorízase a SOCIEDAD ALGAS DEL PACIFICO LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Humberto Ossandón Nº 509, Vallenar-Km. 665, Panamericana Norte, IV Región, donde podrá procesar en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Molienda: Cochayuyo, Chascón, Chicorea de mar, Huiro, Palo, Pelillo, Luche, Luga y Chasca.
+
+Valparaíso, 9 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
