@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.328, de 31 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco los lotes de terreno Nºs, 50-A, 50-B y 52-C, para la obra: Camino Ruta L-45, Sector Linares - Llepo, Tramo Km. 2,750.2 a Km. 13,147, que figuran a nombre de Gardeweg Leigh Fernando, Rol de Avalúo 557-143, comuna de Linares, VII Región, superficies 492 m2, 232 m2, y 843 m2. La Comisión de Peritos fijó con fecha 12 de enero de 2003, el monto de la indemnización provisional en la cantidad de $558.360, para el lote Nº50-A;
+
+$768.560 para el lote Nº50-B y $962.190, para el lote Nº52-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
