@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.029, de 31 de octubre de 2000, se expropió el lote terreno Nº4-18, superficie 35,3105 m², rol de avalúo 3392-18, comuna de Punta Arenas, para la obra Habilitación Costanera Estrecho de Magallanes I, Sector Chañarcillo - Manantiales, Tramo Km. 1,97992 al 3,30000 y se acordó precio de la indemnización con su propietario Fernando Alberto Pacheco Lillo, en la cantidad de $1.028.261.
+
+Fiscal del Ministerio de Obras Públicas.
