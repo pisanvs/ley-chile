@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD CULTIVOS MARINOS PLAYA GRANDE LTDA." PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 794, de 02 de Diciembre de 1985, de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad "Cultivos Marinos Playa Grande Limitada", domiciliada en la comuna de La Serena, para operar el establecimiento de cultivo de ostra del Pacifico, ubicado en una superficie de 250.000 m2., de porción de agua, en la localidad de Tongoy, comuna de Coquimbo, provincia de Elqui, que tiene autorizado por la resolución, No. 21, de 1985, de la Subsecretaria de Pesca, su socio don Hernán Núñez Montecinos, resolución que se deroga, por la resolución que se extracta.
+
+Valparaíso, 02 de Diciembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
