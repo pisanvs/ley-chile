@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1740, de fecha 30 de diciembre de 2004, se expropió el lote de terreno Nº 45, superficie 149 m2, rol de avalúo Nº 603-306, comuna de Nueva Imperial, para la obra "Camino Reposición Ruta S-40, Sector Nueva Imperial-Carahue Tramo Km. 0,00000 al Km. 21,58295, Subtramo II Km. 4,04000 al Km. 12,840000", IX Región y se acordó el valor de la indemnización con su propietaria Catalina Huenchun Pichulman, ascendente a la cantidad de $556.007.
+
+Fiscal del Ministerio de Obras Públicas.
