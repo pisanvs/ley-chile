@@ -1,0 +1,3 @@
+Alcaldesa I. Municipalidad de Providencia, mediante decreto N° 1.176, de 17.05.85, dispone expropiación total, conforme decreto supremo N° 458, de Vivienda, de 1976, y decretos leyes 1.289, 2.186 y 3.464, de inmueble ubicado en Avda. Santa Isabel N° 826-830, rol de avalúos N° 3.908-25, aparentemente de propiedad de doña Ana García Pavez, para la ampliación de Complejo Municipal Santa Isabel. Deslindes: Norte, 20 mts. con Complejo Municipal; Sur, 20 mts. con Avda. Santa Isabel; Oriente, 38,80 mts. con rol N° 3.908-26, y Poniente, 38.80 mts. con otros propietarios. Indemnización provisional: $ 4.026.560.
+
+- Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
