@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.624 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 97-3, superficie 626 m², rol de avalúo 190-4, comuna de Osorno, para la obra ''Concesión Internacional Ruta 5 Tramo: Río Bueno-Puerto Montt, Sector: Enlace Osorno Km. 918,100 a Km. 919,560'' y se acordó el valor de indemnización con su propietario Raúl Rosemberg Báez, ascendente a la cantidad de $33.215.830.-
+
+Fiscal del Ministerio de Obras Públicas.
