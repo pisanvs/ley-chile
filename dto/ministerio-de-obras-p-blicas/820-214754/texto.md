@@ -1,0 +1,3 @@
+Por decreto MOP Nº 820, de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 5, superficie 2.984,30 m², Rol Nº 179-105, comuna de Nogales, V Región para la obra Construcción Camino Conexión Ex Asentamiento El Melón - Atravieso El Melón - sector El Melón Km. 0,0000 a 0,74811 y se acordó el valor de indemnización con su propietario Humberto Torres Fernández, ascendente a la cantidad de $12.359.677.-
+
+Fiscal del Ministerio de Obras Públicas.
