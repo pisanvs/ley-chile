@@ -1,0 +1,3 @@
+Por resolución Nº 263, de 19 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la resolución Nº 427 y Nº 536 de 1997, ambas de esta Subsecretaría, que autorizaron a don Roberto Fermandois Gatica, para operar la nave "Tonyn", matrícula 2646, por no haber dado cumplimiento al pago de la patente única pesquera correspondiente al año 1997, en virtud de lo dispuesto en Art. 143 letra d), del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 19 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
