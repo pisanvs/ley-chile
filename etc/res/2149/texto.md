@@ -1,0 +1,3 @@
+Por resolución Nº 2.149, de 18 de octubre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96110015, presentada por DANIEL EDUARDO ALBARRAN RUIZ CLAVIJO, para operar un centro de cultivo ubicado en Isla Chaffers, Canal Avellano, Sector 4, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 18 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
