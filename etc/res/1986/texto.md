@@ -1,0 +1,3 @@
+Por Resolución N° 1.986 de 28 de noviembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; deniégase la solicitud para ampliar actividades pesqueras extractivas en el litoral de las III y IV Regiones con la nave "Puchuldiza", presentada por EMPRESA PESQUERA EPERVA S.A., por haberse verificado las causales denegatorias señaladas en el artículo 19 letras a) y c) de la Ley N° 18.892 y sus modificaciones.
+
+Valparaíso, 28 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
