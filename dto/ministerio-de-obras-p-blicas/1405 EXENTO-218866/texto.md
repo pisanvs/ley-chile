@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.405 de fecha 31 de octubre del 2003, se expropiaron los lotes de terrenos Nº s 86-D y 93, superficies 85 y 157 m2, Rol en trámite, comuna de Parral, VII Región para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias Tramo km. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario Hernán Antonio Gutiérrez Jorquera, ascendente a la cantidad de $377.208.
+
+Fiscal del Ministerio de Obras Públicas.
