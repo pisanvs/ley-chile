@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.100 de fecha 30 de septiembre del 2003, se expropio el lote de terreno Nº 48, superficie 4.315 m2, Rol Nº 58-151, comuna de Romeral, VII Región para la obra "Camino Ruta J-55 Guaico 3-P Vergara, Sector Guaico 3-La Unión, km. 0,00000 a 7,60000 y se acordó el valor de indemnización con su propietario Manuel Jesús Retamal Yanten, ascendente a la cantidad de $10.579.976.
+
+Fiscal del Ministerio de Obras Públicas.
