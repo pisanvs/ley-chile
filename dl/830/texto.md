@@ -1684,9 +1684,9 @@ Ni el Fiscal de la Tesorería General ni los Abogados Provinciales estarán obli
 
 Para inhabilitar a los recaudadores fiscales será necesario expresar y probar alguna de las causales de implicancia o recusación de los jueces, en cuanto les sean aplicables.
 
-#### Artículo 188°
+#### Artículo 188
 
-Los juicios por cobro de impuestos morosos podrán tramitarse independientemente de la quiebra cuando así lo haya solicitado el respectivo Abogado Provincial.
+Derogado.
 
 #### Artículo 189°
 
