@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.976 de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº4, superficie 1.500 m2, Rol de Avalúo Nº152-52, comuna de Graneros, para la obra "Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, Tramo Km. 0,000 al 9,317" y se acordó el valor de indemnización con su propietario Jorge Eduardo Jenaro Prieto Correa, ascendente a la cantidad de $6.222.321.-
+
+Fiscal del Ministerio de Obras Públicas.
