@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 428 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº 42, superficie 154 m2, Rol Nº 279-40, comuna de Pelluhue, VII Región para la obra "Camino Chovellen - Cobquecura, sector Chovellen - límite regional, tramo Km. 18,260.00 a Km. 35,158.60" y se acordó el valor de indemnización con su propietario Rosa Elena Vega Vega, ascendente a la cantidad de $576.787.
+
+Fiscal del Ministerio de Obras Públicas.
