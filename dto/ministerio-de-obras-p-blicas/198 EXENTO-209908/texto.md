@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 198 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 13A, superficie 711 m2, Rol Nº 156-1, comuna de Pemuco, VIII Región para la obra "Area de Riego Pemuco Canal San Ramón Faja Adicional Km. 0,022 al Km. 6,378, del Proyecto Laja Diguillín" y se acordó el valor de indemnización con su propietario José del Tránsito Mardones Saldías, ascendente a la cantidad de $372.614.
+
+Fiscal del Ministerio de Obras Públicas.
