@@ -1,0 +1,5 @@
+Por Resolución Nº 552, de 18 de abril de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; modifícase el numeral 2º de la Resolución Nº 372, de 1997, que autorizó a COMPAÑIA PESQUERA CAMANCHACA S.A., para sustituir las naves "Loa 21", "Loa 22", "Loa 26" y "Loa 27" por dos naves, la segunda de las cuales se encuentra en construcción, en el sentido de agregar el siguiente inciso final:
+
+"Asimismo autorízase a la peticionaria para ampliar actividades pesqueras extractivas en el litoral de la X Región, por fuera del área de reserva artesanal, donde podrá extraer con cerco los siguientes recursos hidrobiológicos: Agujilla, Caballa, Jurel, Sardina común y Merluza de cola.
+
+Valparaíso, 18 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
