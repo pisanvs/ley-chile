@@ -1,0 +1,5 @@
+Por resolución Nº2.596, de 8 de noviembre 2002, de esta Subsecretaría, autorízase a HINRICHSEN TRADING S.A., R.U.T. Nº77.575.570-9, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector La Playa, Lote 2B, Fundo Las Gaviotas, Quintero, V Región, donde podrá elaborar, en las líneas de procesos que se indican, los siguientes recursos hidrobiológicos: Alga Seca: Huiro, Chascón, Huiro palo, Chasca, Pelillo, Cochayuyo.
+
+Además, la peticionaria podrá elaborar, en la línea de proceso de Harina, los desechos provenientes de los recursos hidrobiológicos que a continuación se indican, y que provengan de otras líneas de elaboración: Camarón nailon, Centolla Lithodes santolla, Centolla del norte Lithodes panamensis, Centolla del norte Lithodes wiracocha, Centolla del norte Neolithodes diomedeae, Centollón Paralomis granulosa, Jaiba marmola, Jaiba mora, Jaiba peluda o pachona, Jaiba reina, Langostino amarillo y Langostino colorado.
+
+Valparaíso, 8 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
