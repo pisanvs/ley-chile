@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 407, 16 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez ST 4, Rol de Avalúo Nº 3113-104, comuna Chiguayante, superficie 109,34 m². de terreno y 26,52 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R 19.146, de aparente dominio de Leandro Jarpa Ortiz, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y DL. 2.186. Comisión Peritos integrada por Ingeniero Civil, Gabriel Fernández de la Maza, Constructor Civil, Sergio Labarca Garrido y Arquitecto, Boris Aptecar González, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $8.748.550.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
