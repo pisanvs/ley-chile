@@ -1,0 +1,3 @@
+Por resolución Nº 1.851, de 29 de agosto de 2002, de esta Subsecretaría, autorízase a NADJA JOCELYN MANON BORQUEZ MANCILLA, RUT Nº 11.929.687-0, con domicilio en Tulio Alvarado Nº 459, Castro, X Región, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Pablo Neruda Nº 637, Castro, X Región, donde podrá procesar en la línea de elaboración de Ahumado, los siguientes recursos hidrobiológicos: Salmón del Atlántico, Salmón plateado, Salmón rey, Trucha arcoiris.
+
+Valparaíso, 29 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
