@@ -6448,7 +6448,7 @@ Por otra parte, conviene tener presente que en el caso de obligaciones contratad
 
 Para pactar tasas de interés variables, las instituciones financieras deberán ceñirse a lo siguiente.
 
-a) La tasa de interés variable que se pacte deberá ser única, no pudiendo estipularse otra tasa, fija o flotante, para ser aplicada en forma alternativa bajo ciertas condiciones o a elección de alguna de las partes. Por lo tanto, salvo en el caso especial de las operaciones con letras de crédito con tasa flotante a que se refiere el Capítulo 9-1 de esta Recopilación, la tasa variable no admitirá otra tasa alternativa de ninguna especie.
+a) La tasa de interés variable que se convenga no podrá tener como alternativa una tasa fija que pueda aplicarse a elección del acreedor o al cumplirse cualquier condición relacionada con la variabilidad de aquella. Por lo tanto, con excepción de las operaciones con letras de crédito con tasa flotante a que se refiere el Capítulo 9-1 de esta Recopilación, solo se admitirá la estipulación de una tasa fija alternativa o supletoria cuando tenga por objeto cubrir el evento de que no exista en el futuro el elemento que determine la tasa variable o que se produzca la circunstancia de que el deudor impugne o rechace su aplicación.
 
 b) Las instituciones financieras deberán cuidar que el título en contra del deudor reuna las condiciones de un título ejecutivo, en especial la indicada en el N° 3 del artículo 438 del Código de Procedimiento Civil.
 
@@ -6458,9 +6458,7 @@ Las instituciones financieras que otorguen créditos a una tasa de interés vari
 
 5.2.1.- Monto mínimo de las cuotas.
 
-Los montos de las cuotas que se determinen para pagar un crédito pactado con una tasa variable, deberán ser suficientes para que se amortice la totalidad del crédito al aplicar la tasa variable pactada vigente al momento de la convención.
-
-En el evento de que, como consecuencia de una fluctuación significativa de la tasa variable, el monto de las cuotas preestablecidas sea insuficiente para cobrar la totalidad de los intereses devengados del crédito, no podrá capitalizarse o considerarse como deuda morosa aquella parte de los intereses que no alcance a ser cubierta, debiendo mantenerse ese remanente para ser cobrado en la oportunidad en que pueda ser absorbido por los importes correspondientes a las cuotas siguientes que pague el deudor.
+Los montos de las cuotas que se determinen para pagar un crédito pactado con una tasa variable, deberán ser suficientes para que se amortice la totalidad del crédito al aplicar la tasa variable pactada vigente al momento de la convención.****B*
 
 5.2.2.- Información a los deudores.
 
@@ -6548,7 +6546,7 @@ Lo anterior no es óbice para que las instituciones financieras cobren la corres
 
 En todo caso, quedan exceptuados del tratamiento antes mencionado aquellos cobros que correspondan a recuperaciones de gastos que se efectúen por cuenta del deudor, como es el caso de tasaciones, impuestos, gastos notariales, seguros o inscripciones en el Conservador de Bienes Raíces, los que pueden cobrarse por separado o rebajarse del préstamo al efectuarse su liquidación.
 
-Tampoco existe impedimento para que las instituciones financieras cobren, sobre la base de la tarifa general que tengan establecida para el efecto, su comisión usual por la cobranza de letras u otros documentos a la orden que les hayan sido endosados en garantía de créditos, ya que tales comisiones no forman parte de la prestación que el deudor se obliga a satisfacer por el crédito recibido, sino que constituyen el pago del servicio adicional que representa la cobranza de los efectos cedidos en garantía del crédito.
+Lo señalado en este N° 7 se refiere exclusivamente al cobro de comisiones u otros recargos que formen parte de la obligación que asume el deudor por el préstamo recibido. Por consiguiente, no existe inconveniente para que las instituciones financieras cobren comisión en aquellos actos complejos que determinen la prestación de un servicio complementario o diferente de la operación de crédito de dinero. Así ocurre, por ejemplo, en las comisiones cobradas por apertura o mantención de líneas de crédito, apertura, manejo y negociación de cartas de crédito, emisión de boletas de garantía, gestión de cobranza de letras de cambio u otros documentos que hayan sido endosados en garantía de créditos y otros servicios similares.
 
 8.- Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
 
