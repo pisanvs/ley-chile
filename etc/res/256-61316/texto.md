@@ -1,0 +1,3 @@
+Por Resolución Nº 256, de 19 de febrero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 1.034, de 1991, de esta Subsecretaría, que autorizó a AROLDO FERNANDO BLAAUBOER BAHAMONDE, para instalar y operar el centro de cultivo ubicado en Sector La Poza, Isla Las Huichas, Puerto Aguirre, Comuna y Provincia de Aysén, XI Región, por haberse denegado la respectiva solicitud de concesión de acuicultura.
+
+Valparaíso, 19 de febrero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
