@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.149, de 30 de abril de 1999, se expropió el lote de terreno No. 4, superficie 633,75 mý, rol de avalúo 203-12, comuna de Rengo, para la obra Mejoramiento Ruta 5, Longitudinal Sur, Sector Pasada por Rengo, Sexta Región y se acordó el valor de indemnización con su propietaria Sofía Alicia González Celis, ascendente a la cantidad de $ 57.670.451.-
+
+Fiscal del Ministerio de Obras Públicas.
