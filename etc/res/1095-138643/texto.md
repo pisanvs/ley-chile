@@ -1,0 +1,7 @@
+Por resolución Nº 1.095, de 15 de junio de 1999 de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL E INDUSTRIAL CONTINENTAL LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 1.037 de 1993 y 1.792 de 1997, en la forma y bajo las condiciones que a continuación se expresan.
+
+La peticionaria podrá incorporar a la planta ubicada en calle 7 de Enero Nº 60, Talcahuano, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Congelado Crudo - Congelado Precocido - Conserva: Alga: Caracola, Cochayuyo, Cotono, Chasca, Chascón, Chicorea del Mar, Huiro, Luche, Luga Luga, Pelillo, Ulva-lechuga de mar. Pescados: Anguila, Brótula, Cabrilla, Cabrilla común, Corvinilla. Moluscos: Caracol Piquilhue, Caracol Rubio, Caracol Trophon, Chiton, Locos, Tumbao. Alga Seca - Deshidratado: Alga: Caracola, Cochayuyo, Cotono, Chasca, Chascón, Chicorea del Mar, Huiro, Luche, Luga Luga, Pelillo.
+
+Déjase sin efecto la resolución Nº 269 de 1995 de esta Subsecretaría de Pesca, en virtud de lo dispuesto en el artículo 8º del D.S. 175 de 1980 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
