@@ -1040,6 +1040,8 @@ Si las obras merecieran reparos, la Dirección General de Aguas ordenará que el
 
 Cumplidos todos los trámites y requisitos indicados en los artículos anteriores, la Dirección General de Aguas procederá a dictar la resolución de aprobación de las obras.
 
+Quedan exceptuados de cumplir con los trámites y requisitos establecidos en los artículos anteriores, los Servicios dependientes del Ministerio de Obras Públicas, los cuales deberán remitir los proyectos de obras a la Dirección General de Aguas, para su conocimiento, informe e inclusión en el Catastro Público de Aguas.
+
 c. Del cambio de fuente de abastecimiento
 
 #### Artículo 158°
@@ -1108,7 +1110,11 @@ f. De las modificaciones en cauces naturales o artificiales
 
 #### Artículo 171°
 
-Las personas naturales o jurídicas que desearen efectuar las modificaciones a que se refiere el artículo 41° de este Código, presentarán los proyectos correspondientes a la Dirección General de Aguas, para su aprobación previa, aplicándose a la presentación del procedimiento previsto en el párrafo 1° de este Título.
+Las personas naturales o jurídicas que desearen efectuar las modificaciones a que se refiere el artículo 41 de este Código, presentarán los proyectos correspondientes a la Dirección General de Aguas, para su aprobación previa, aplicándose a la presentación el procedimiento previsto en el párrafo 1° de este Título.
+
+Cuando se trate de obras de regularización o defensa de cauces naturales, los proyectos respectivos deberán contar, además, con la aprobación del Departamento de Obras Fluviales del Ministerio de Obras Públicas.
+
+Quedan exceptuados de los trámites y requisitos establecidos en los incisos precedentes, los Servicios dependientes del Ministerio de Obras Públicas, los cuales deberán remitir los proyectos de las obras a la Dirección General de Aguas, para su conocimiento, informe e inclusión en el Catastro Público de Aguas.
 
 #### Artículo 172°
 
@@ -1994,7 +2000,17 @@ DE LA CONSTRUCCION DE CIERTAS OBRAS HIDRÁULICAS
 
 #### Artículo 294°
 
-La construcción de embalses de una capacidad superior a cincuenta mil metros cúbicos o cuyo muro tenga más de 5 metros de altura y los acueductos que conduzcan más de dos metros cúbicos por segundo, requerirán la aprobación previa del Director General de Aguas, de acuerdo al procedimiento de los artículos 130 y siguientes.
+Requerirán la aprobación del Director General de Aguas, de acuerdo al procedimiento indicado en el Título I del Libro Segundo, la construcción de las siguientes Obras:
+
+a) Los embalses de capacidad superior a cincuenta mil metros cúbicos o cuyo muro tenga más de 5m. de altura;
+
+b) Los acueductos que conduzcan más de dos metros cúbicos por segundo;
+
+c) Los acueductos que conduzcan más de medio metro cúbico por segundo, que se proyecten próximos a zonas urbanas, y cuya distancia al extremo más cercano del límite urbano sea inferior a un kilómetro y la cota de fondo sea superior a 10 metros sobre la cota de dicho límite, y
+
+d) Los sifones y canoas que crucen cauces naturales.
+
+Quedan exceptuados de cumplir los trámites y requisitos a que se refiere este artículo, los Servicios dependientes del Ministerio de Obras Públicas, los cuales deberán remitir los proyectos de obras a la Dirección General de Aguas, para su conocimiento, informe e inclusión en el Catastro Público de Aguas.
 
 #### Artículo 295°
 
@@ -2010,9 +2026,11 @@ Las resoluciones que se dicten en conformidad a estas normas deberán ser fundad
 
 #### Artículo 297°
 
-Los que construyan las obras de que trata este Título deberán constituir las garantías suficientes para caucionar el costo de una eventual demolición de la obra, si fuere abandonada durante la construcción.
+Los que construyan las obras de que trata este título deberán constituir las garantías suficientes para financiar el costo de su eventual modificación o demolición, para que no constituyan peligro, si fueren abandonadas durante su construcción.
 
-La garantía se constituirá a favor del Fisco y será devuelta una vez entregada la obra a sus usuarios.
+La garantía se constituirá a favor del Fisco y será devuelta una vez recibida la obra por la Dirección General de Aguas. En el caso de que sea abandonada durante su construcción, se restituirá el saldo de la garantía no aplicada a la ejecución de las obras de modificación o demolición. Para reiniciar las obras, deberá constituirse la garantía a que se refiere el inciso primero.
+
+El Director General de Aguas podrá eximir de la obligación de constituir las garantías a que se refiere este artículo, tratándose de obras que ejecuten los Servicios Públicos o las Empresas del Estado, siempre que en el proyecto respectivo se contemplen las medidas tendientes a asegurar que en el caso de una eventual paralización de las obras éstas no constituirán peligro.
 
 ## Título II
 
@@ -2024,7 +2042,7 @@ La Dirección General de Aguas es un servicio dependiente del Ministerio de Obra
 
 #### Artículo 299°
 
-La Dirección General de Aguas tendrá las atribuciones y funciones que este código le confiere y, en especial, las siguientes:
+La Dirección General de Aguas tendrá las atribuciones y funciones que este código le confiere, y, en especial, las siguientes:
 
 a) Planificar el desarrollo del recurso en las fuentes naturales, con el fin de formular recomendaciones para su aprovechamiento;
 
@@ -2038,7 +2056,7 @@ b) Investigar y medir el recurso. Para ello deberá:
 
 Para la realización de estas funciones la Dirección General de Aguas deberá constituir las servidumbres a que se refiere el artículo 107;
 
-c) Ejercer la policía y vigilancia de las aguas en los cauces naturales de uso público e impedir que en éstos se haga o destruyan obras sin la autorización correspondiente, y
+c) Ejercer la policía y vigilancia de las aguas en los cauces naturales de uso público e impedir que en éstos se construyan, modifiquen o destruyan obras sin la autorización del Servicio o autoridad a quien corresponda aprobar su construcción o autorizar su demolición o modificación, y
 
 d) Supervigilar el funcionamiento de las juntas de vigilancia, de acuerdo con lo dispuesto en este código.
 
