@@ -1,0 +1,3 @@
+Por decreto MOP Nº 621, de 28 de marzo de 2002, se expropió el lote de terreno Nº 48, superficie 895., rol de avalúo 104-137, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago Valparaíso Viña del Mar Tramo 6 A2: Km. 33.200,00 al 33.880,00, Región Metropolitana y se acordó el valor de indemnización con su propietaria Avelina del Carmen Carrera Araya y Otros, ascendente a la cantidad de $6.210.220.- para el lote Nº 48.
+
+Fiscal del Ministerio de Obras Públicas.
