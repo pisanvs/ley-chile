@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.189, de 31 de agosto de 2001, se expropió el lote de terreno Nº17-2, superficie 283 m2., de avalúo 107-10, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Atravieso El Quillay, Región Metropolitana y se acordó el valor de indemnización con su propietario Andrés Hernán Bugedo Morán, ascendente a la cantidad de $949.993.-
+
+Fiscal del Ministerio de Obras Públicas.
