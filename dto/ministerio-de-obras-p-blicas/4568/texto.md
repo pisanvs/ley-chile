@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.568, de fecha 29 de septiembre del 2000, se expropió el lote de terreno Nº9, superficie 112,5 M2, sin rol de avalúo, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al km. 70,000, Etapa 1'' y se acordó el valor de indemnización con su propietario Bermol Meléndez Liquitay, ascendente a la cantidad de $3.207.327.-
+
+Fiscal del Ministerio de Obras Públicas.
