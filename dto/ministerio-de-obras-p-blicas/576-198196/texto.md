@@ -1,0 +1,3 @@
+Por decreto MOP Nº576, de 28 de Marzo de 2002, se expropió el lote de terreno Nº409-A, superficie 753 m2, rol de avalúo en trámite, comuna de Pichidehua, VI Región, para la obra "Camino Conexión Vial Pichidehua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 al 16,48000" y se acordó el valor de indemnización con su propietario don Julio José González Maturana, ascendente a la cantidad de $12.591.920.-
+
+Fiscal del Ministerio de Obras Públicas.
