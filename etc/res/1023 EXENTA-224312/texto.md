@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.023, de 14 de abril de 2004, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA LANDES S.A. para ampliar actividades pesqueras extractivas con la nave "Coral I", en el área marítima de la V a VII y X Regiones, con cerco, por fuera del área de reserva artesanal, donde podrá capturar el recurso Jibia.
+
+Valparaíso, 14 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
