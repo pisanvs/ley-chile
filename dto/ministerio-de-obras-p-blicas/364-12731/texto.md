@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 364, de 30 de Agosto de 1994, se expropiaron los lotes de terreno N°s. 82, 88, 90 y 91 superficies 4.270 m2., 584 m2., 148 m2. y 241 m2., roles de avalúo 1131-1 y 1131-2, Comuna de Pichilemu, para la obra Camino San Fernando Pichilemu, sector La Rosa-Alto Colorado (I-174), y se acordó valor de indemnización con su propietario Sociedad Ganadera y Forestal Nacional S.A., ascendente a la cantidad de $2.102.522.
+
+Fiscal del Ministerio de Obras Públicas.
