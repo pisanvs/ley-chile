@@ -1,0 +1,3 @@
+Mediante Resolución exenta N° 3.700 de 23 de Agosto de 1994, el suscrito delegó en el Jefe de la Oficina Jurídica Regional, las funciones descritas en los números 1 al 8 del dispositivo Primero de la Resolución N° Ex. 2.482 de la Dirección Nacional, de 3 de Junio de 1994, publicada en extracto en el Diario Oficial del día 6 del mismo mes y año, revocándose, además, la Resolución Ex. N° 2.172, de fecha 21 de agosto de 1981.-
+
+Sergio Flores Gutiérrez, Director Regional.
