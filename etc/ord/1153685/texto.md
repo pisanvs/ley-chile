@@ -1,0 +1,5 @@
+Porte de cartas e impresos
+
+La Autoridad Ejecutiva que, a nombre de S. M. el señor don Fernando VII, gobierna este Reino de Chile, etc., etc.- Por cuanto, el alto Congreso jeneral del Reino, en sesion del primero del corriente, ha dispuesto que en esta real venta de correos se cargue sobre el porte ordinario de cartas medio real en cada una, sea cual fuere su volúmen o peso, estendiéndose el mismo aumento sobre cada paquete de impresos i cartas francas; por tanto, i a fin de que esta superior disposicion (que solo tiene por objeto el aumento de nuestro exhauto erario) tenga su mas puntual cumplimiento en todas las oficinas del Reino, ordena i manda que, despues de publicada en forma de bando, se fije en los lugares públicos i acostumbrados de esta capital, practicándose lo mismo en todas las villas i ciudades del Reino, a quien se comunicará esta órden sacándose testimonio de ella. Así lo mandaron i firmaron los S. S. de este poder en
+
+Santiago de Chile, a 8 de Octubre de 1811.- Doctor Marin. – Rosales. - Benavente. - Mackenna. - Vial, secretario.
