@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.607, de 29 de septiembre del 2000, se expropió el lote de terreno Nº63, superficie 15.108 m2., rol de avalúo 2227-52, comuna de Osorno, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt, Sector: San Pablo - Osorno, Décima Región y se acordó el valor de indemnización con su propietario Instituto de Investigaciones Agropecuarias, ascendente a la cantidad de $31.753.406.-
+
+Fiscal del Ministerio de Obras Públicas.
