@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.682, de 24 de junio de 1999, se expropió el lote de terreno No. 1, superficie 31 m2., rol de avalúo 56-220, comuna de San Gregorio Ñiquén, para la obra "Ruta 5 Tramo Talca - Chillán: Sector: Bifurcación Camino Vecinal", Octava Región y se acordó el valor de indemnización con su propietario Luis Humberto Alarcón Contreras, ascendente a la cantidad de $ 256.068.-
+
+Fiscal del Ministerio de Obras Públicas.
