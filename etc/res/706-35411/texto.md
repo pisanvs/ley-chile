@@ -1,0 +1,5 @@
+Por Resolución N° 706, de 21 de Julio de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 195, de 1994, de esta Subsecretaría que declaró la caducidad de diversas autorizaciones de pesca extractiva, en virtud de lo señalado en el artículo 143, letra d) de la Ley General de Pesca y Acuicultura, en el sentido de dejar sin efecto el ordinal 4° de su numeral 1°, en atención a lo informado a esta Subsecretaría mediante Oficio N° 2622, de 6 de julio de 1994, del Ministerio de Economía, Fomento y Reconstrucción.
+
+En consecuencia, la Resolución N° 997, de 1986, de esta Subsecretaría, que autorizó a Pesquera Chris Ltda., R.U.T. N° 79.525.040-9, para realizar faenas de pesca extractiva con la nave "Carlos Darwin", continúa vigente.
+
+Valparaíso, 21 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
