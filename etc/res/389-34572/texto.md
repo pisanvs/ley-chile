@@ -1,0 +1,5 @@
+Por Resolución N° 389, de 7 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1° de la Resolución N° 1.171, de 1994, de esta Subsecretaría, que acogió la reclamación interpuesta por don FRANCISCO OBERREUTER DIAZ, R.U.T. N° 10.347.585-6, respecto de la operación de la nave "Horizonte I", en el sentido de reemplazar la expresión "Resoluciones N° 908" por la "Resoluciones N° 905", en virtud de haberse incurrido en un error que por este acto se salva.
+
+Déjase sin efecto la Resolución N° 1.793, de 1989, de esta Subsecretaría, en cuanto autorizó a don Francisco Oberreuter Díaz, ya individualizado, para operar la nave "Horizonte I", en el área de pesca de las Regiones V, VI, VII y IX, respecto de las especies Agujilla, Bonito, Cojinoba del norte, Cojinoba del sur, Corvina, Machuelo, Anchoa, Caballa, Sardina española y Sardina común.
+
+Valparaíso, 7 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
