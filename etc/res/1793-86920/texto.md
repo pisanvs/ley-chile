@@ -1,0 +1,3 @@
+Por resolución Nº 1.793, de 30 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de sustitución presentada por PESQUERA QUINTERO UNO S.A., para sustituir la nave "Plavnik" por una nave en construcción, por haberse enajenado la nave a sustituir, vulnerándose lo dispuesto en el artículo 32 de la ley Nº 18.892 y sus modificaciones, citada en visto, y en el D.S. Nº 64, de 1992 y su modificación contenida en el D.S. Nº 500, de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
