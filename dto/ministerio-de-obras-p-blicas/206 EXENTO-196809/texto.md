@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 206, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs 8-A y 9, superficies 1.323,5 m2 y 559,5 m2, respectivamente, rol de avalúo 139-7, comuna de Chonchi, X Región, para la obra "Camino Acceso Sur a Chonchi, Sector Ruta 5-Chonchi, Km. 0.000,00 al 3,25253" y se acordó el valor de indemnización con su propietaria doña Juana Pérez Bórquez y Otros, ascendente a la cantidad de $1.056.929.-
+
+Fiscal del Ministerio de Obras Públicas.
