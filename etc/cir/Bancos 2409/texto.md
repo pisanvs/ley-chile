@@ -21924,13 +21924,13 @@ convenios.
 
 ### 3. Obligaciones exentas de margen
 
-Estarán exentas del límite a que se refiere el N° 1 de este capítulo, las
+Estarán exentas del límite a que se refiere el N° 1 de este capítulo, las siguientes obligaciones:
 
-obligaciones derivadas del uso de las líneas de crédito o refinanciamiento
+a) Líneas de crédito o refinanciamiento aludidos en el Capítulo II.B.6 del Compendio de Normas Financieras del Banco Central de Chile;
 
-aludidos en el Capítulo II.B.6 y los créditos de que trata la letra "B" del
+b) Créditos de que trata la letra e) del N° 9 del Capítulo III.A.4 del Compendio de Normas Financieras y el N° 3 del título III del Capítulo 4-2 de esta Recopilación; y,
 
-Capítulo IV.E.2 del Compendio de Normas Financieras del Banco Central de Chile.
+c) Créditos a que se refiere la letra "B" del Capítulo IV.E.2 del Compendio de Normas Financieras y el título III del Capítulo 13-8 de esta Recopilación.
 
 4. Oportunidad en que las obligaciones afectas deben imputarse al margen de
 
