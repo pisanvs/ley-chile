@@ -1,0 +1,83 @@
+MODIFICA CONCESION DE SERVICIO PUBLICO DE TELEFONIA MOVIL CELULAR A BELLSOUTH COMUNICACIONES S.A.
+
+Santiago, 15 de marzo de 2002.- Con esta fecha se ha decretado lo que sigue:
+
+Núm. 160.- Vistos:
+
+a) El decreto ley Nº 1.762 de 1977, que creó la Subsecretaría de Telecomunicaciones.
+
+b) La ley Nº 18.168 de 1982, Ley General de Telecomunicaciones.
+
+c) El Nº 1 del artículo 3º del párrafo III de la resolución Nº 55 de 1992, cuyo texto refundido, coordinado y sistematizado, fue fijado por la resolución Nº 520, de 1996, ambas de la Contraloría General de la República.
+
+d) El decreto supremo Nº 278, de 1981, del Ministerio de Transportes y Telecomunicaciones.
+
+e) Las resoluciones exentas Nº 354 de 1988, y Nº 643 de 1997, ambas de la Subsecretaría de Telecomunicaciones, que fijan la Norma Técnica para el Servicio Público de Telefonía Móvil Celular que opera en la banda de 800 MHz.
+
+f) La resolución exenta Nº 102, de 29.01.2001, del Ministerio de Transportes y Telecomunicaciones, que modificó provisoriamente la concesión.
+
+Considerando:
+
+a) Lo solicitado por la interesada mediante ingreso Subtel Nº 38.434 del 14.12.2000.
+
+b) Que no se presentaron oposiciones a la publicación en extracto de la solicitud de modificación de concesión.
+
+D e c r e t o:
+
+Modifícase la concesión de Servicio Público de Telefonía Móvil Celular, otorgada a la empresa Bellsouth Comunicaciones S.A., RUT Nº 87.845.500-2, con domicilio en Avenida El Bosque Sur Nº 90, piso 12, comuna de Las Condes, Región Metropolitana, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes:
+
+1. Instalar, operar y explotar una (1) estación base en la Región Metropolitana, cuyas características se indican a continuación:
+
+CARACTERISTICA TECNICA DE LA ESTACION BASE
+
+Bandas de Frecuencias Pot. Máx. Tipo de Sistema
+
+[MHz] (W) Emisión Radiante
+
+Tx:880,0-890,0 Rx:835,0-845,0 45 40K0F3EJN Antenas
+
+891,5-894,0 846,5-849,0 (Voz) direccionales
+
+40K0F1DFN con ganancia
+
+(Datos) máxima de
+
+13,5 dBd.
+
+UBICACION ESTACION BASE Coord. Geográficas
+
+Base Dirección, Reg. Dependencia Etapa Lat. S Long. O
+
+comuna CCM
+
+Parque Avenida 13 Santiago 1 33°27'09" 70°39'25"
+
+O'Higgins Ejército I
+
+Nº 720, o
+
+Santiago Santiago
+
+### III. Se conectará a través de medios propios o arrendados a terceros
+
+### 2. Los plazos serán los que se indican a continuación:
+
+Etapa Inicio Término Inicio de Observación
+
+de Obras de Obras Servicio
+
+1 1 mes 11 meses 12 meses Todos estos plazos
+
+están referidos a la
+
+fecha de publicación
+
+del presente decreto.
+
+3. La autorización provisoria otorgada por resolución exenta Nº 102, de 29.01.2001, indicada en la letra f) de los Vistos, se extinguirá al momento de la publicación del presente decreto en el Diario Oficial.
+
+4. Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y técnicas que regulan las telecomunicaciones, en lo que le sean aplicables.
+
+Anótese, tómese razón, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Javier Etcheberry Celhay, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Víctor Garay Silva, Jefe División Concesiones Subrogante.
