@@ -1,0 +1,1 @@
+Declara de utilidad pública y autoriza a la Municipalidad de Quinta Normal para expropiar el predio que indica y cuyos deslindes señala, ubicado en esa comuna, para destinarlo a campo deportivo.
