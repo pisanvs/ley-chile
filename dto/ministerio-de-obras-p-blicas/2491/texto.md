@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.491, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 93-1 y 96, superficie 1.707 m² y 220 m², rol de avalúo 600-20, comuna de Mulchén, para la obra "Concesión Internacional Ruta Tramo: Chillán - Collipulli", Octava Región y se acordó el valor de indemnización con su propietario Luis Felipe Cruz Parot, ascendente a la cantidad total de $2.305.252.-
+
+Fiscal del Ministerio de Obras Públicas.
