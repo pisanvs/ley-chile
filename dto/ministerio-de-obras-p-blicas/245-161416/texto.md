@@ -1,0 +1,3 @@
+Por decreto MOP Nº245, de 31 de enero del 2000, se expropió el lote de terreno Nº76, superficie 1.245 m2., rol de avalúo 136-267, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con sus propietarios Verónica Lastenia Acevedo Espinoza y otros, ascendente a la cantidad de $35.378.065.
+
+- Fiscal del Ministerio de Obras Públicas.
