@@ -1,0 +1,3 @@
+Pedro Ricardo Reveco Hormazábal, Notario Público de la 19ª Notaría de Santiago, con oficio en Bandera Nº 341, oficina Nº 352, rectifica extracto Acta del Organismo Técnico Intermedio para Capacitación Chilempresas OTIC, constituida escritura fecha 07 de noviembre de 2001, ante mí, y publicado Diario Oficial Nº 37.130, fecha 07 de noviembre del 2001, siguiente sentido: Donde dice "Organismo Técnico Intermedio de Capacitación Chilempresas OTIC", debe decir "Organismo Técnico Intermedio para Capacitación Chilempresas OTIC".
+
+Santiago, diciembre 17 del 2001.
