@@ -1,0 +1,3 @@
+Por decreto MOP Nº 168, de 23 de febrero de 1998, se expropiaron los lotes de terreno Nºs 9 y 1 0, superficies 42 y 70 m2. respectivamente, rol de avalúo 23-5, comuna de Quinta de Tilcoco, para la obra Camino Quinta de Tilcoco -Coinco, Sector Quinta de Tilcoco - Coinco y se acordó precio de indemnización con su propietario José Francisco Gana Lyon, ascendente a la cantidad de $1.825.382.-
+
+Fiscal del Ministerio de Obras Públicas.
