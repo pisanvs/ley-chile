@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.056, de 28 de junio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 29-A, 29-B, 34-B y 52, para la obra Camino Ruta 5, sector Chonchi - Tara, Km. 1.205,160 a Km. 1.215,004, Provincia de Chiloé, X Región, que figuran a nombre de Gómez Cárcamo Daniel Suc, Pérez Bórquez Pedro y Pérez Oyarzún Rosario, roles de avalúo 178-56, 136-31 y 178-51, superficies 684,97 m2.;
+
+5.313,26 m2.; 2.373,4 m2. y 1.927,6 m2., comuna de Chonchi. La Comisión de Peritos, con fecha 23 de abril de 1999, fijó la indemnización provisional en las cantidades de $350.237, lote 29-A, $2.486.967, lote 29-B, $1.325.690, lote 34-B y $578.280, lote 52, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
