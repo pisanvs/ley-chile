@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 868 de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº 136, superficie 35,00 m², rol de avalúo Nº 502-18, comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias Tramo Km. 6,320.00 a Km. 23,400.00", VII Región y se acordó el valor de la indemnización con su propietario José Eustorgio Jorquera, ascendente a la cantidad de $251.680.
+
+- Fiscal del Ministerio de Obras Públicas.
