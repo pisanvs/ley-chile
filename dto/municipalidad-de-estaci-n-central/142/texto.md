@@ -1,0 +1,9 @@
+EXTRACTOS DE DECRETOS DE EXPROPIACION
+
+Alcalde I. Municipalidad de Estación Central, mediante Decreto No. 142 de 19 de abril de 1988, dispone expropiación total, conforme Decreto Supremo 458, de Vivienda, de 1976, y Decretos Leyes 1.289, 2.186 y 3.464, de inmuebles correspondientes a Comuna Estación Central. Roles de Avalúo N°s. 2.136-4, 2.136-3 y 2.136-2 Parcelas N°s. 48, 49 y 50 del Plano de Parcelación Fundo Lo Errázuriz archivado 3.551-A, 1943, Conservador Bienes Raíces de Santiago, aparentemente de propiedad de la Sociedad Clasificadora de Materiales de Minería Limitada, para ampliación servicio municipal de disposición y tratamiento de basura Vertedero Lo Errázuriz. Deslindes inmuebles expropiado: Parcela No.
+
+48: Norponiente, 108 mts. propiedad Luis Rivas Vicuña; Suroriente, 108 mts. camino Fernando Riesco;
+
+Surponiente, 202,10 mts. Parcela 49 y Nororiente, 205,70 mts. Parcela No. 47. Parcela No. 49: Norponiente, 108 mts. con Luisa Rivas Vicuña, Suroriente, 108 mts. camino Fernando Riesco; Nororiente, 202 mts. Parcela 48 Irma Pérez Fuentealba; Surponiente, 200,50 mts. Juan Sobarzo Henríquez. Parcela No. 50: Norponiente, 108 mts. con Luisa Rivas Vicuña, Suroriente, 108 mts. camino Fernando Riesco; Nororiente, 200,50 mts. Parcela No. 49 y Surponiente, 198,30 mts. con Parcela No. 51.- Indemnización provisional $ 21.022.000.-, determinada por la Comisión integrada por los señores René Ureta K., Ramón Undurraga M., Carlos del Pedregal S., según informe de fecha 31 de Marzo de 1988, pagadera de conformidad a la ley.
+
+Raúl Alonso Mahn, Alcalde.- Agustín Carricajo Castro, Secretario Municipal.
