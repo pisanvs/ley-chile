@@ -1,0 +1,3 @@
+Por Decreto MOP Nº. 265, de 15 de octubre de 1991, se expropiaron los lotes Nº.s. 53 y 58-A, superficies 2.254 m2. y 2.106 m2., respectivamente, roles de avalúo 602-11 y en trámite, Comuna de Copiapó, para la obra Ruta 31-Ch, sector Copiapó - Paipote, Tramo Doble Calzada, y se acordó precio de indemnización con sus propietarios Jorge Rivera Cortés y Federación de la Inmaculada Concepción de Los Monasterios de Monjas de la Orden de Santo Domingo de Aragón - España, ascendente a $ 3.544.042.- y $ 2.556.578.-
+
+Fiscal del Ministerio de Obras Públicas.
