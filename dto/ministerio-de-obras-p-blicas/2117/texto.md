@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.117, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nº s. 47 y 48, superficies 3.339,3 m² y 3.735,6 m², rol de avalúo 434-78, comuna de Gorbea, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno y se acordó el valor de indemnización con su propietario Juan de la Cruz Muñoz Bastías, ascendente a la cantidad total de $ 3.241.967.-.
+
+- Fiscal del Ministerio de Obras Públicas.
