@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION DE INMUEBLE QUE INDICA
+
+Decreto Exento Nº 825, de 7 de mayo de 2002, Municipalidad de Rancagua expropia: Inmueble ubicado en calle Diego Portales Nº 301, Rancagua, rol avalúo 56-16. Propietario Eduardo Anich Luez. Deslindes: Norte, en 20.00 metros con calle Jorge Rivera; Sur, en la misma dimensión anterior con propiedad de doña Marina Rubio de Correa; Oriente, en 25.40 metros con calle Diego Portales, y Poniente, en 24.00 metros con otro propietario. Indemnización provisoria conforme a comisión de peritos: UF5386.57 pagaderas en diez cuotas iguales de la siguiente forma: a) Primera cuota de UF538.66 momento de la suscripción escritura pública convenio, según valor UF esa fecha, y b) restantes UF4847.94 nueve cuotas anuales iguales de UF 538.66 cada una, los días 30 de abril de cada año según valor UF el mismo día a partir del año 2003 hasta el año 2011, sin reajuste ni intereses. Expropiación Artículo 33 Ley 18.695, ensanche calle Diego Portales, tramo calle Jorge Rivera y Avda. Brasil.-
+
+Alcalde I. Municipalidad de Rancagua.
