@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 647, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 76, superficie 104 M2, rol de avalúo 205-93, comuna de Coelemu, VIII Región, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al 8,28000'' y se acordó el valor de indemnización con su propietario don Manuel Jesús Flores Sandoval, ascendente a la cantidad de $249.708.-
+
+Fiscal del Ministerio de Obras Públicas.
