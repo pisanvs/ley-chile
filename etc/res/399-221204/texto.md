@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 399, 22 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Paicaví Nº 772, Rol de avalúo Nº 343-16, comuna Concepción, superficie 341,38 m2 de terreno y 286 m2 de edificación, dentro polígono y linderos señalados plano expropiación S8R-18427; de aparente dominio de Inversiones y Asesoría Inma S.A., para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por Eduardo Rivera Gajardo, arquitecto, Italo Zerga Arancibia, constructor civil, y Juan Pablo Cuevas Castillo, constructor civil, según informe de fecha 12 de noviembre de 2003, fijó monto provisional indemnización en $117.865.834.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
