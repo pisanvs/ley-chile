@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.448, de 31 de agosto de 1999, se expropió el lote terreno Nº6, superficie 96,6 m², rol de avalúo 107-23, comuna de Copiapó, para la obra Acceso Sur a Copiapó y Puente La Paz, camino Ruta 5 Longitudinal Norte y se acordó precio de la indemnización con su propietaria, Asociación de Jubilados y Montepiadas de la Caja de Previsión de Empleados Particulares, ascendente a la cantidad de $21.680.226.-
+
+Fiscal del Ministerio de Obras Públicas.
