@@ -1,0 +1,355 @@
+REAJUSTA REMUNERACIONES AL PERSONAL DE CARABINEROS DE CHILE
+
+Santiago, 7 de Enero de 1974.- La Junta de Gobierno de la República de Chile decretó hoy lo que sigue:
+
+Núm. 260.- Vistos estos antecedentes; el oficio N° 257, de 4 de Enero del año en curso, de la Dirección General de Carabineros, y lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973,
+
+la Junta de Gobierno de la República de Chile ha acordado y dicta el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Suprímense las denominaciones de los empleos de "Cabo", consultadas en el artículo 1° del DFL. N° 2, de 1968, del Ministerio del Interior, rubro "Personal de Fila", N° 2) Personal a Contrata, y créanse los empleos con las denominaciones de Cabo 1° grado 5° y Cabo 2° grado 6°.
+
+#### Artículo 2°
+
+Substitúyese en el artículo 1° del DFL. N° 2, de 1968, del Ministerio del Interior y en todos sus rubros, los grados de los empleos que se indican:
+
+Capitán grado 1°, por Capitán VII Categoría.
+
+Teniente grado 3°, por Teniente grado 1°.
+
+Subteniente grado 6°,por Subteniente grado 2°.
+
+Suboficial Mayor grado 4°,por Suboficial Mayor grado 1°.
+
+Suboficial grado 6°, por Suboficial grado 2°.
+
+Sargento 1° grado 8°, por Sargento 1° grado 3°.
+
+Sargento 2° grado 9°, por Sargento 2° grado 4°.
+
+Alumno Aspirante a Oficial grado 9°, por Alumno Aspirante a Oficial grado 4°.
+
+Cabo grado 10°, por Cabo 1° grado 5° y Cabo 2° grado 6°, y
+
+Carabinero grado 12°, por Carabinero grado 7°.
+
+#### Artículo 3°
+
+Redistribúyese, de acuerdo con las modificaciones de los artículos anteriores, la actual Planta de Carabineros, señalada en Título Personal de Fila, Servicio de Orden y Seguridad, epígrafe 2) Personal a Contrata (Suboficiales, Cabos y Carabineros) del artículo 1° del DFL. N° 2, de 1968, del Ministerio del Interior, en la forma siguiente:
+
+363 Suboficiales Mayores _ _ _ _ _ _ _ _ _Grado 1°.
+
+682 Suboficiales _ _ _ _ _ _ _ _ _ _ _ _ _Grado 2°.
+
+1.227 Sargentos 1°s_ _ _ _ _ _ _ _ _ _ _ _ _Grado 3°.
+
+3.636 Sargentos 2°s _ _ _ _ _ _ _ _ _ _ _ _ Grado 4°.
+
+250 Alumnos Aspirantes a Oficiales_ _ _ _ Grado 4°.
+
+7.948 Cabos 1°s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _Grado 5°.
+
+5.687 Cabos 2°s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _Grado 6°.
+
+3.182 Carabineros _ _ _ _ _ _ _ _ _ _ _ _ _ Grado 7°.
+
+#### Artículo 4°
+
+Reemplázanse los grados que se indican en el epígrafe "PERSONAL CIVIL", del artículo 1° del DFL. N° 2, de 1968, por los que a continuación se señalan:
+
+Rubro 1) "SERVICIO MEDICO" (Personal de Nombramiento Supremo) y (Personal a Contrata):
+
+El grado 1°, por VII. Categoría El grado 3°, por grado 1°, y El grado 10°, por grado 5°.
+
+Rubro 2) "HOSPITAL DE CARABINEROS" (Personal a Contrata):
+
+El grado 5°, por grado 1°.
+
+El grado 6°, por grado 2°.
+
+El grado 8°, por grado 3°.
+
+El grado 9°, por grado 4°.
+
+El grado 10°, por grado 5°, y El grado 12°, por grado 6°.
+
+Rubro 3) "SERVICIO DE SANIDAD DENTAL" (Personal de Nombramiento Supremo) y (Personal a contrata):
+
+El grado 1°, por VII. Categoría El grado 3°, por grado 1°.
+
+El grado 4°, por grado 2°.
+
+El grado 5°, por grado 3°, y El grado 6°, por grado 4°.
+
+Rubro 4) "SERVICIO DE SECRETARIA" (Personal de Nombramiento Supremo) y (Personal a Contrata):
+
+El grado 3°, por grado 2°.
+
+El grado 4°, por grado 3°, y El grado 6°, por grado 4°.
+
+Rubro 5) "SERVICIO DE JUSTICIA" (Personal no letrado):
+
+El grado 1°, por VII. Categoría El grado 4°, por grado 1°, y El grado 6°, por grado 2°.
+
+Rubro 6) "SERVICIO DE ASISTENCIA SOCIAL" (Personal de Nombramiento Supremo) y (Personal a Contrata):
+
+El grado 1°, por VII. Categoría El grado 3°, por grado 1°.
+
+El grado 4°, por grado 1°.
+
+El grado 6°, por grado 2°.
+
+El grado 8°, por grado 3°.
+
+El grado 9°, por grado 4°, y El grado 10°, por grado 5°.
+
+Rubro 8) "SERVICIO DE TELECOMUNICACIONES":
+
+El grado 1°, por VII. Categoría.
+
+El grado 3°, por grado 1°, y El grado 4°, por grado 2°.
+
+Rubro 9) "SERVICIO DE MOVILIZACION Y ARMAMENTO":
+
+El grado 1°, por VII. Categoría, y El grado 5°, por grado 2°.
+
+Rubro 10) "SERVICIO DE ARQUITECTURA":
+
+El grado 1°, por VII. Categoría.
+
+Rubro 11) "EMPLEOS VARIOS" (Personal de Nombramiento Supremo) y (Personal a Contrata):
+
+El grado 1°, por VII. Categoría.
+
+El grado 3°, por grado 1°.
+
+El grado 4°, por grado 1°.
+
+El grado 6°, por grado 2°.
+
+El grado 8°, por grado 3°.
+
+El grado 9°, por grado 4°, y El grado 11°, por grado 5°.
+
+#### Artículo 5°
+
+Substitúyese en el rubro "PERSONAL CIVIL" 8) "SERVICIO DE TELECOMUNICACIONES", la denominación al empleo de "JEFE DE SECCION DE TELECOMUNICACIONES", por la de "OFICIAL SUPERVISOR DE TELECOMUNICACIONES".
+
+#### Artículo 6°
+
+Reemplázase la Escala de Sueldos Base mensuales contemplada en la ley número 17.638, de 1972, y modificaciones posteriores, para el personal de la Defensa Nacional, Carabineros de Chile y de la Dirección General de Investigaciones, por lo siguiente:
+
+Mensual E°
+
+I. Categoría _ _ _ _ _ _ _ _ _ 60.000,-
+
+II. Categoría _ _ _ _ _ _ _ _ _ 56.000,-
+
+III. Categoría _ _ _ _ _ _ _ _ _ 52.100,-
+
+IV. Categoría _ _ _ _ _ _ _ _ _ 48.200,-
+
+V. Categoría _ _ _ _ _ _ _ _ _ 44.500,-
+
+VI. Categoría _ _ _ _ _ _ _ _ _ 40.800,-
+
+VII. Categoría _ _ _ _ _ _ _ _ _ 37.200,-
+
+Grado 1° _ _ _ _ _ _ _ _ _ _ _ _ _ 33.800,-
+
+Grado 2° _ _ _ _ _ _ _ _ _ _ _ _ _ 27.500,-
+
+Grado 3° _ _ _ _ _ _ _ _ _ _ _ _ _ 24.700,-
+
+Grado 4° _ _ _ _ _ _ _ _ _ _ _ _ _ 23.300,-
+
+Grado 5° _ _ _ _ _ _ _ _ _ _ _ _ _ 21.100,-
+
+Grado 6° _ _ _ _ _ _ _ _ _ _ _ _ _ 18.200,-
+
+Grado 7° _ _ _ _ _ _ _ _ _ _ _ _ _ 15.400,-
+
+Grado 8° _ _ _ _ _ _ _ _ _ _ _ _ _ 14.400,-
+
+> **Nota.** NOTA: 1 El art. 5° del DL 446, de 1974, modificado en su inciso final por el DL 535, de 1974, art. único, dispuso lo siguiente: Reajústanse a contar del 1° de 1974, en un 30%, los sueldos bases mensuales de las escalas fijadas en el artículo 3° del decreto ley N° 234, de 1973, y en el artículo 6° del decreto ley N° 260, de 1974. Este reajuste no podrá ser inferior a E° 5.800, cantidad en que se aumentarán, en consecuencia, los sueldos bases de los grados 6° a 8°. Las remuneraciones adicionales que sean porcentajes de dichos sueldos bases se aplicarán, a contar de igual fecha, sobre los sueldos bases reajustados. Fíjanse, a contar de la misma fecha, en E° 5.200, el monto mensual de la asignación de rancho compensada en dinero a que se refieren la letra g) del artículo 114 del D.F.L. 1, de Guerra, y la letra h) del artículo 46 del D.F.L. 2, de Interior, ambos de 1968. Facúltase al Presidente de la Junta de Gobierno para otorgar, en casos calificados, por decreto supremo con las firmas de los Ministros de Defensa Nacional y de Hacienda, sin perjuicio de la asignación fijada en el inciso anterior a los personales regidos por dichos decretos con fuerza de ley, una asignación adicional de hasta dos tercios de la asignación mensual de rancho, por funcionario y por carga familiar reconocida.
+
+#### Artículo 7°
+
+Introdúcense las siguientes modificaciones a los capítulos y a los artículos que se señalan del DFL. N° 2, de 1968, del Ministerio del Interior:
+
+#### Artículo 33°
+
+1) Reemplázase el guarismo "10%", por "15%", y 2) agrégasele el siguiente inciso:
+
+"Los Oficiales Generales titulares de los cargos de Subdirector y Generales Inspectores (II. Categoría), como los oficiales de Fila titulares del cargo de General (III. Categoría), percibirán una asignación equivalente al 10% y al 5%, respectivamente, de sus remuneraciones imponibles, las que también serán consideradas sueldos para todos los efectos legales.
+
+#### Artículo 40°
+
+Agrégasele el siguiente inciso cuarto:
+
+"El cálculo del sueldo y demás remuneraciones, pensiones, montepíos, indemnizaciones y desahucios, contemplados en este Estatuto, como asimismo el cálculo de los descuentos legales, previsionales y reglamentarios que proceda efectuar sobre dichos beneficios se harán en todas sus etapas, ajustando las fracciones de la unidad monetaria correspondiente, al entero más próximo. La fracción de 0,50 se subirá al entero".
+
+#### Artículo 43°
+
+1) En la letra e):
+
+Sustitúyese su texto por el siguiente:
+
+"e) Los Suboficiales Mayores gozarán del sueldo superior, VII. Categoría al cumplir 3 años en el grado o 25 años de servicios válidos para el retiro y, del precedente al superior, VI. Categoría al enterar 6 años en el grado o 27 años de servicios válidos para el retiro".
+
+2) En la letra g), suprímese la coma (,) y la conjunción "y" que anteceden al objetivo "fines" y reemplázase por punto y coma (;), y
+
+3) Agrégasele la siguiente letra i):
+
+"i) El personal a contrata de Orden y Seguridad del grado de Carabinero que haya aprobado el curso de Reclutamiento de acuerdo con la reglamentación respectiva, tendrá derecho a percibir la renta asignada al grado superior al cumplir 2 años de servicio".
+
+"Serán computables para este efecto los servicios prestados en las Instituciones Armadas, y la totalidad del tiempo servido como conscripto en el Ejército, en la Armada o en la Fuerza Aérea, y como aprendiz en las Fuerzas Armadas".
+
+#### Artículo 46°
+
+En la letra a):
+
+1) Reemplázase su inciso primero, por el siguiente:
+
+"a) El personal de la Institución de planta, a contrata, o contratado, pagado con fondos fiscales contemplados en la Ley de Presupuesto, o con fondos propios de determinados Servicios, gozará de aumentos trienales, con los siguientes porcentajes calculados sobre el sueldo base de que está en posesión: 40% para el primero: 20% para el segundo y tercero; 15% para el cuarto al séptimo; 10% para el octavo y noveno, y 5% para los restantes", y
+
+2) Substitúyese su inciso final por el siguiente:
+
+"Al personal que a la fecha del decreto que le haya concedido su retiro o baja administrativa en su caso, le faltare, seis meses o menos para cumplir otro trienio, se le dará por cumplido este requisito para los efectos de la liquidación de su pensión de retiro y desahucio".
+
+En la letra b).
+
+Sustitúyese su texto por el siguiente:
+
+"b) De una Bonificación Profesional no imponible equivalente a un porcentaje del sueldo de que se esté en posesión, la que se determinará por ley y calculará sobre el sueldo base y trienios y estará exenta de todo gravamen e impuesto, con excepción del impuesto a la renta.
+
+La bonificación profesional, calculada en la forma indicada en el inciso que precede se considerará sueldo para determinar la pensión de retiro y montepío, desde que el personal cumpla treinta años de servicios válidos para el retiro u obtenga su retiro por invalidez de primera, segunda o tercera clase o fallezca a consecuencia de un accidente en acto determinado del servicio".
+
+En la letra e).
+
+Reemplázase su N° 3), por el siguiente:
+
+"3) La gratificación de zona se calculará sobre el total de las remuneraciones, excepto las asignaciones de rancho y familiar".
+
+En la letra g).
+
+Substitúyese su texto por el siguiente:
+
+g) El personal de Planta de Carabineros, casado, percibirá mientras no ocupe casa fiscal o proporcionada por el Fisco, una asignación mensual equivalente al 25% del sueldo base de que esté en posesión.
+
+Igual beneficio percibirá el personal viudo y/o soltero que tenga una o más cargas familiares, que vivan exclusivamente a sus expensas, cuando se cumplan las exigencias señaladas precedentemente.
+
+En la letra ll).
+
+Suprímese la conjunción "y", que se encuentra al final y cámbiase la coma (,), que la antecede, por un punto (.).
+
+En la letra m).
+
+Substitúyese el punto final (.), por una coma (,) y agrégase la conjunción "y".
+
+Agrégase a este artículo lo siguiente como letra "n":
+
+"n) El personal de Carabineros de Orden y Seguridad que cumpla servicios de guardias, población, patrullajes, rondas, servicios nocturnos o en días festivos, extraordinarios y demás contemplados en los reglamentos de servicios respectivos, gozará de una gratificación policial equivalente al 15% de sus remuneraciones imponibles y compatibles con los demás beneficios de este capítulo y con los sobresueldos y gratificaciones de los capítulos 4° y 5°".
+
+"Esta gratificación calculada en la forma señalada en el inciso que precede, se considerará sueldo imponible desde que el personal de Orden y Seguridad cumpla o haya cumplido 15 años de servicios en Carabineros, en las actividades ante mencionadas. Su reconocimiento se dispondrá de oficio y por resolución de las jefaturas de reparticiones o unidades que corresponda".
+
+#### Artículo 48°
+
+1) En su letra d), suprímese el punto final (.) y reemplázase por un punto y coma (;), y 2) Agréguensele las siguientes letras:
+
+"e) El personal técnico en Telecomunicaciones, Armamento y Mantenimiento en Material Aéreo, mientras conserve tal especialidad de acuerdo con el reglamento respectivo percibirá un sobresueldo de un 25% sobre sus remuneraciones imponibles".
+
+"f) El personal especialista en investigación de accidentes en el tránsito, mientras conserve tal especialidad, tendrá derecho a un sobresueldo de un 25% de sus remuneraciones imponibles.
+
+## Título III — CAPITULO 5°.
+
+Agrégasele el siguiente artículo bis:
+
+#### Artículo 55° bis
+
+) El personal de los rubros "Fila", "Asimilado" y el de los números "4)" y "9)", del rubro que sigue, contemplado en el artículo 1° del presente estatuto, tendrán derecho a una gratificación equivalente al 15% del sueldo base de que esté disfrutando, por estar expuesto a riesgo permanente, en las siguientes circunstancias:
+
+1). Estado de guerra interior,
+
+2) Estado de sitio.
+
+3) Estado de asamblea.
+
+4) Estado de emergencia.
+
+5) Situaciones de orden interno, especialmente calificadas, distintas de las anteriores.
+
+Producida la situación prevista en el número 1) o decretado algunos de los estados de excepción a que se refieren los números 2), 3) y 4), del inciso anterior, el General Director ordenará el pago de esta gratificación. En los casos señalados en el n° 5), será el Ministro del Interior quien calificará la situacion que supone riesgo y ordenará el pago de la gratificación.
+
+Este beneficio se ajustará por mes completo y será compatible con las gratificaciones y con los sobresueldos establecidos en el presente Estatuto y no será considerada para los efectos de la limitación establecida en el artículo 49°".
+
+CAPITULO 7°.
+
+Reemplázase su actual denominación "VESTUARIO Y EQUIPOS", por lo siguiente: "VESTUARIO, EQUIPO Y ALIMENTACION".
+
+#### Artículo 61°
+
+Agrégasele el siguiente inciso:
+
+"Asimismo, la Institución proporcionará alimentación por cuenta fiscal a todo el personal señalado en el artículo 1° de este Estatuto, mientras desempeñe funciones de guardias, servicios, acuartelamientos u otras actividades debidamente calificadas.
+
+Lo anterior, sin perjuicio de lo dispuesto en la letra h) del art. 46° del presente D.F.L.".
+
+#### Artículo 64°
+
+Agrégasele los siguientes incisos:
+
+"La Escuela de Carabineros percibirá una asignación mensual equivalente al sueldo imponible y bonificación profesional del grado 6°, por cada uno de los alumnos Aspirantes a Oficiales.
+
+"Los Grupos de Instrucción y el Centro de Perfeccionamiento o Escuela de Suboficiales, en que funcionen cursos de reclutamiento de Carabineros, percibirán, por cada uno de los alumnos que integren estos cursos, una asignación mensual equivalente al sueldo base mensual fijado al grado 7°".
+
+> **Nota.** NOTA: 2 El artículo 1° transitorio del DL 1610, de 1976, dispuso lo que sigue: Declárase interpretado el artículo 7° del decreto ley 260, de 1974, en la parte que modifica la letra a) del artículo 46° del decreto con fuerza de ley 2, del Ministerio del Interior, del año 1968, en el sentido que sus disposiciones también rigen para las pensiones de retiro y montepío que hayan sido concedidas con anterioridad a la fecha de su publicación en el Diario Oficial, y no solamente a las que sean concedidas en el futuro. En consecuencia, declárase, asimismo, que las sumas que se hayan pagado por este concepto, se encuentran ajustadas a derecho y bien invertidas, o procediendo reintegro alguno por parte de los beneficiados.
+
+#### Artículo 8°
+
+Mantiénese el beneficio económico a que se refiere el artículo 1° del decreto ley N° 54, de 1° de Octubre de 1973, en la suma de E° 4.066.- mensuales.
+
+#### Artículo 9°
+
+No tendrá derecho a los beneficios contemplados en el presente decreto ley, el personal no pagado en moneda nacional, mientras subsista para él esta forma de pago.
+
+#### Artículo 10°
+
+La expresión "quinquenios" contenida en el DFL. N° 2, de 1968, del Ministerio del Interior, como asimismo, toda otra disposición de carácter legal o reglamentaria en que figure esta expresión en el carácter de aumento quinquenal, deberá sustituirse por la expresión "trienios" a partir de la vigencia del presente decreto ley.
+
+#### Artículo 11°
+
+Los aumentos a que tenga derecho el personal en retiro y los beneficiarios de montepíos de Carabineros de Chile, deberán ser pagados automáticamente por la respectiva Caja de Previsión, sin necesidad de requerimiento por parte de los interesados, ni resolución que autorice dicho pago.
+
+#### Artículo 12°
+
+El presente decreto ley regirá desde el 1° de Enero de 1974.
+
+#### Artículo 1°
+
+La primera diferencia resultante de las remuneraciones acordadas en el presente decreto ley no será descontada a los interesados y el Fisco enterará a la Caja de Previsión de Carabineros la cantidad equivalente a dicha primera diferencia.
+
+> **Nota.** NOTA: 3 El artículo único, inciso primero del DL 365, de 1974, dispuso que: Las normas establecidas en los artículos 6° del decreto ley N° 234, y 1° transitorio del decreto ley N° 260, ambos de 1974, alcanzarán también a los reajustes de pensiones y montepíos determinados por la aplicación de dichos decretos leyes.
+
+#### Artículo 2°
+
+Lo dispuesto en la letra n) del artículo 46° del DFL. N° 2, de 1968, del Ministerio del Interior, se aplicará en todas sus partes al personal de Orden y Seguridad en actual servicio y a aquel que se incorpore a la Institución con posterioridad.
+
+#### Artículo 3°
+
+"Concédese por esta única vez, como una excepción, a los Generales de Carabineros en actual retiro y que estén gozando de la II Categoría, el derecho a reconocer la I Categoría, aun cuando no hayan alcanzado a cumplir los 30 años de servicios válidos para el retiro. Lo anterior les será válido para el solo efecto del cómputo de la pensión de retiro y montepío, a contar de la vigencia de este decreto ley".
+
+#### Artículo 4°
+
+El cambio de denominación en los empleos o el encasillamiento en distintos grados o categorías que resulten de la aplicación de este decreto ley, no constituirán ascenso o nuevo nombramiento y, por lo tanto, en ningún caso este encasillamiento podrá alterar el orden de antiguedad o de precedencia existente en los respectivos Escalafones a la fecha de vigencia del presente decreto ley.
+
+Los actuales cabos serán encuadrados como Cabos 1°, en la forma señalada en el inciso anterior. No obstante, los cargos de Cabo 2°, serán proveídos con el personal de grado de Carabineros, respetando el orden y antiguedad que tienen en su escalafón, conservando los requisitos para el ascenso que le serán válidos en su nuevo grado, de acuerdo con el respectivo Reglamento.
+
+#### Artículo 5°
+
+El personal en servicio activo, en retiro y sus asignatarios de montepío, al que por leyes de gracia se le hayan reconocido servicios especialmente para el efecto de quinquenios a que se refiere la ley N° 12.428, y sus modificaciones posteriores, tendrá derecho a que estos mismos servicios les sean computables para los efectos de trienios a que se refiere el presente decreto ley.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en el Boletín Oficial de Carabineros de Chile y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR L. MENDOZA DURAN, General, Director de Carabineros.- Oscar Bonilla Bradanovic, General de División, Ministro del Interior.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
