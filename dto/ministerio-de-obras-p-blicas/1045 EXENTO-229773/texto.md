@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.045 de 29 de julio de 2004, se expropió el lote de terreno Nº 59-A, superficie 1.507 m², Rol Nº 616-43, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, Sector Chol Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,50000, Subtramo II Km. 29,840 al Km. 35,215" y se acordó el valor de indemnización con su propietaria Marta Neculqueo Ñancupil, ascendente a la cantidad de $913.784.
+
+- Fiscal del Ministerio de Obras Públicas.
