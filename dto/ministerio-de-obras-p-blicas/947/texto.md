@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 947, de 30 de septiembre de 1997, se expropió el lote de terreno Nº 20, superficie 142 M² rol de avalúo 3505-11, comuna de Valdivia, para la obra Camino Niebla - Los Molinos, Ruta T-352, Sector Niebla - Los Molinos y se acordó precio de indemnización con su propietaria, doña Odis del Carmen Urra Sanhueza, ascendente a la cantidad de $2.653.360.-
+
+Fiscal del Ministerio de Obras Públicas.
