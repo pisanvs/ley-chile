@@ -34748,305 +34748,83 @@ mencionados préstamos y cualquier otro antecedente que éste les solicite en la
 
 oportunidad que lo requiera.
 
-CAPITULO 14-6 (Bancos)
+CAPITULO 14- 6 (Bancos)
 
-MATERIA:
+MATERIA
 
-RETORNOS DE EXPORTACION. PROHIBICION DE PAGAR INTERESES Y FACULTAD DE LOS
-
-EXPORTADORES DE RECOMPRAR PARTE DE SUS RETORNOS.
+RETORNOS DE EXPORTACION. FACULTAD DE LOS EXPORTADORES DE DEDUCIR PARTE DE LOS RETORNOS QUE LIQUIDEN.
 
 ### 1. Retornos de exportación
 
-De conformidad con lo dispuesto en el Capitulo IX del Compendio de Normas de
+De conformidad con lo dispuesto en los Capítulos I y III del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las personas que realicen exportaciones desde Chile están obligadas a retornar al país, dentro del plazo establecido por el Instituto Emisor y en alguna de las monedas extranjeras indicadas para tal efecto, el total del valor que obtengan en pago de dichas operaciones y a liquidar en una empresa bancaria situada en el país el importe líquido recibido por este concepto, dentro de un período que no puede exceder de los 11 días siguientes al vencimiento del plazo de retorno.
 
-Exportación del Banco Central de Chile, las personas que realicen exportaciones
+Sin embargo, el mencionado plazo para liquidar podrá ampliarse a 90 días siempre que el retorno de la moneda extranjera se realice dentro del plazo fijado para tal efecto, y las divisas se mantengan en depósitos a plazo en empresas bancadas situadas en Chile. En estos casos, será responsabilidad de las empresas bancadas que reciban los depósitos a plazo, acreditar ante el Instituto Emisor los retornos que hagan procedente la ampliación del plazo para liquidar las divisas antes mencionadas, como asimismo, verificar que dichas operaciones se encuentren perfeccionadas.
 
-desde Chile están obligadas a retornar al país, en instrumentos de cambios
+Los exportadores, junto con poner a disposición de una empresa bancaria situada en Chile el importe de las divisas retornadas, dentro del plazo establecido para efectuar dicho retorno, y darle las instrucciones para constituir un depósito a plazo, deberán presentar los documentos que acrediten el embarque de las respectivas mercaderías y permitan efectuar la operación solicitada.
 
-internacionales y dentro del plazo establecido por el Banco Central de Chile
+Cuando los referidos depósitos a plazo se hubieren constituido con anterioridad a la fecha en que el exportador decida acogerse al mayor plazo señalado para la liquidación de esos recursos, éste podrá impartir a la institución bancaria en la que mantengan dichos depósitos a plazo, las instrucciones para comunicar el retomo de la moneda extranjera al Instituto Emisor. En todo caso, la referida opción sólo podrá ejercerla dentro del plazo establecido para el retorno de las divisas.
 
-para tal efecto, el total del valor que obtengan en pago de dichas operaciones
+Sin perjuicio de lo indicado en el segundo párrafo de este número, las empresas bancarias que reciban las instrucciones de los exportadores señaladas precedentemente, deberán comunicar al Banco Central de Chile el retorno y, cuando proceda, la liquidación de las divisas, en la forma establecida para tal efecto. En los casos en que los exportadores decidan liquidarlas en una institución bancaria distinta de aquella en la cual se haya constituido el correspondiente depósito a plazo, ésta deberá traspasar el monto respectivo mediante un documento girado a su propio nombre y endosado a favor de la entidad bancaria en la que se realizará la liquidación, debiendo señalar en el endoso, que éste se efectúa para el solo fin de proceder a la liquidación de las divisas cuyo retorno se encuentra informado al Banco Central de Chile.
 
-ya liquidar el importe líquido retornado, dentro de un período que no puede
+Las personas que realicen exportaciones ocasionales, cuyo valor líquido de retorno, por cada embarque, no supere los US$ 1.000.00 ó su equivalente en otras monedas extranjeras, no están obligadas a retornar el importe de dichas exportaciones.
 
-exceder de los 11 días siguientes al vencimiento del plazo de retorno.
+2. Facultad de los exportadores de deducir hasta un 5% de los retornos que liquiden.
 
-Sin embargo, los exportadores podrán liquidar las divisas retornadas al país
+Las disposiciones del Capítulo VIII del Título II del Compendio ya mencionado, facultan a los exportadores para deducir hasta el 5% del monto de los retornos que liquiden, correspondientes a las exportaciones que realicen. Estas deducciones deben hacerse con sujeción a las condiciones y montos máximos que se indican en este capítulo.
 
-dentro de un plazo máximo de 90 días contados desde la fecha de vencimiento del
+Las referidas deducciones sólo podrán efectuarse simultáneamente con la liquidación de los respectivos retornos de exportación.
 
-plazo de retorno, siempre que las mantengan en depósitos a plazo en empresas
+Con todo, de conformidad con lo dispuesto en el citado capítulo, los exportadores que vendan sus productos en el exterior por intermedio de empresas chilenas con domicilio en el país, que se dediquen a la comercialización de esos productos, no podrán efectuar deducción alguna con cargo a las exportaciones que efectúen a través de esas empresas.
 
-bancarias situadas en Chile o las vendan con pacto de recompra al Instituto
+3. Exigencia de mantener depositadas en un banco las divisas deducidas al liquidar retornos.
 
-Emisor, de conformidad con las disposiciones contenidas en el Capítulo IV.E.1
+Las sumas deducidas por los exportadores, de acuerdo con lo señalado precedentemente, deberán mantenerse depositadas en una única cuenta corriente o en depósitos a plazo, en el mismo o en otro banco a nombre del exportador, siempre en la misma moneda extranjera en la que se efectuó el respectivo retorno.
 
-del Compendio de Normas Financieras del Banco Central de Chile. En estos
+Contra dichos depósitos los titulares podrán efectuar giros para pagar gastos de viaje, de asesoría y otros que deban realizar para llevar a cabo sus programas de exportación; gastos bancarios y comisiones en el exterior, originados con posterioridad a la liquidación del retorno; indemnizaciones y otros gastos debidamente autorizados por el Banco Central de Chile y para su conversión a moneda chilena por intermedio de las empresas bancadas.
 
-casos,los exportadores, junto con poner a disposición de una empresa bancaria
+Los giros o aplicaciones de los intereses devengados por los depósitos a plazo antes mencionados, quedarán sujetos a las mismas limitaciones señaladas en el párrafo precedente.
 
-situada en Chile el importe de las divisas retornadas, dentro del plazo
+4. Cláusula especial en el contrato de cuenta corriente y en los depósitos a plazo.
 
-establecido para efectuar dicho retorno, y darle las instrucciones para
+La empresa bancaria en la que se abra la cuenta corriente señalada, o se constituya el depósito a plazo, que tendrá el carácter de intransferible, deberá consignar como cláusula en el respectivo contrato de cuenta corriente o en el comprobante del depósito a plazo, que la utilización de esos haberes por parte de sus titulares, se ajustará a las disposiciones señaladas en el Capitulo VIII del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y que toda contravención a las citadas disposiciones será sancionada por dicho Instituto.
 
-constituir un depósito aplazo o realizar su venta con pacto de recompra al Banco
+5. Facultad del Banco Central de Chile de pedir justificación de los gastos.
 
-Central de Chile y comunicar el retorno de ellas al Instituto Emisor, deberán
+Los exportadores deberán tener presente que, en cualquier momento, el Banco Central de Chile podrá solicitar información sobre el uso dado a los fondos. Dicha información deberá ser respaldada por los respectivos documentos que acrediten tanto el origen de los depósitos como la naturaleza de los desembolsos o gastos realizados.
 
-presentar los documentos que acrediten el embarque de las respectivas
+### 6. Forma de entregar el monto deducido de los importes liquidados
 
-mercaderías y permitan efectuar la operación solicitada.
+El importe de divisas que autoriza deducir el Capítulo VIII del Título II del Compendio de Normas de Cambios Internacionales, deberá ser entregado por los bancos al exportador respectivo en cheques girados a la orden del propio banco que liquide los retornos de exportación pertinentes y endosados por éste para el solo efecto de ser depositados en la única cuenta corriente que el exportador tenga abierta con ese fin, en el mismo o en otro banco, o para constituir depósitos a plazo, según lo disponen las normas en referencia.
 
-Cuando los referidos depósitos a plazo o ventas con pacto de recompra se
+### 7. Instrucciones contables
 
-hubieren realizado con anterioridad a la fecha en que el exportador decida
+7.1. Depósitos en cuenta corriente.
 
-acogerse al mayor plazo señalado para la liquidación de esos recursos, éste
+Los asientos que se registren en las cuentas corrientes especiales abiertas por los exportadores, y que se operarán en moneda extranjera, deberán señalar el origen y el destino del depósito o del giro, respectivamente, y el banco deberá mantener, en forma paralela, un archivo individual con los antecedentes presentados por su cliente, justificativos de cada una de esas partidas.
 
-podrá impartir a la institución bancaria en la que mantenga dichos depósitos
+Estas cuentas se abonarán con el depósito de las divisas deducidas de los retornos y se cargarán por los giros efectuados por los exportadores para los fines señalados. Su saldo, siempre acreedor, representará el monto de divisas que tiene a su disposición el exportador.
 
-aplazo o por cuyo intermedio haya efectuado la respectiva venta con pacto de
+7.2. Depósitos a plazo.
 
-recompra, las instrucciones para comunicar el retorno de la moneda extranjera al
+Las entidades bancarias que reciban depósitos a plazo en moneda extranjera provenientes de la deducción de retornos de exportación liquidados, deberán registrar estos depósitos en cuentas individuales a nombre de cada exportador, con el objeto de mantener un adecuado control sobre estas operaciones. El tratamiento contable para estos depósitos será el siguiente:
 
-Instituto Emisor. En todo caso, la referida opción sólo podrá ejercerla dentro
+a) Los importes correspondientes a las divisas deducidas de los retornos que se reciban, se abonarán a la cuenta "Depósitos a plazo por divisas deducidas de retornos de exportación", de la partida 3020, 3025 ó 3065, según corresponda.
 
-del plazo establecido para el retorno de las divisas.
+b) La referida cuenta se cargará al vencimiento de los respectivos depósitos por los giros efectuados para los fines expresamente señalados en el N° 3 del presente Capítulo; y,
 
-Las empresas bancarias que reciban las instrucciones de los exportadores,
+c) El saldo de la citada cuenta representará el monto de divisas que mantienen depositadas a plazo los exportadores, según sus cuentas individuales.
 
-señaladas en los párrafos precedentes, deberán comunicar al Banco Central de
+7.3. Depósitos a plazo por retornos declarados pendientes de liquidación.
 
-Chile el retorno y, cuando proceda, la liquidación de las divisas, en la forma
+Los depósitos a plazo constituidos con divisas cuyo retorno sea informado al Banco Central de Chile y que se acojan al plazo especial de 90 días para su liquidación, de conformidad con lo previsto en el N° 1 de este Capítulo, serán registrados en la cuenta "Depósitos a plazo divisas retornadas por liquidar" de la partida 3020 ó 3025, según corresponda.
 
-establecida para tal efecto. En los casos en que los exportadores decidan
+7.4. Intereses.
 
-liquidar estos importes en una institución bancaria distinta de aquella en la
+Los intereses que devenguen los depósitos a plazo a que se refiere este capítulo, serán debitados en la cuenta que corresponda de la partida 5110, 5120 ó 5130, con abono a la respectiva cuenta de "Intereses por pagar" de la partida 3805.
 
-cual se haya constituido el depósito a plazo o por cuyo intermedio se hubiere
+### 8. Información al Banco Central de Chile
 
-efectuado la venta con pacto de recompra de esos recursos, esta última deberá
-
-traspasar el monto respectivo mediante un documento girado a su propio nombre y
-
-endosado a favor de la entidad bancaria en la que se realizará la liquidación,
-
-debiendo señalar en el endoso, que éste se efectúa para el solo fin de proceder
-
-a la liquidación de las divisas cuyo retorno se encuentra informado al Banco
-
-Central de Chile.
-
-En los contratos de venta de divisas con pacto de recompra señalados
-
-precedentemente, se deberá dejar constancia que éstas corresponden a retornos de
-
-exportación comunicados al Banco Central de Chile, pendientes de liquidación.
-
-Las personas que realicen exportaciones ocasionales, cuyo valor liquido de
-
-retorno, por cada embarque, no supere los US$1.000,00 ó su equivalente en otras
-
-monedas extranjeras, no están obligadas a retornar dichos importes.
-
-### 2. Prohibición de pagar intereses por acreencias correspondientes a
-
-retornos,de exportación.
-
-Los bancos no podrán pagar intereses sobre acreencias correspondientes a
-
-retornos de exportación que mantengan a favor de los exportadores, salvo cuando
-
-se constituyan en depósitos a plazo o se acrediten los importes en una cuenta
-
-corriente en moneda extranjera.
-
-3. Facultad de los exportadores de recomprar parte de los retornos que liquiden.
-
-Las disposiciones del Capitulo VI del Compendio ya mencionado, facultan a los
-
-exportadores para recomprar parte de los retornos que liquiden, correspondientes
-
-a las exportaciones que realicen. Estas recompras deben hacerse con sujeción
-
-alas condiciones y montos máximos que se indican en ese capítulo.
-
-Las referidas recompras sólo podrán efectuarse simultáneamente con la
-
-liquidación de los respectivos retornos de exportación.
-
-Con todo, de conformidad con lo dispuesto en el citado capitulo, los
-
-exportadores que vendan productos en el exterior por intermedio de empresas
-
-chilenas con domicilio en el país, que se dediquen a la comercialización de esos
-
-productos, no podrán efectuar recompra alguna con cargo a los retornos que
-
-liquiden, provenientes de esas operaciones.
-
-4.- Exigencia de mantener depositadas en un banco las divisas recompradas.
-
-Las sumas recompradas por los exportadores, de acuerdo con lo señalado
-
-precedentemente, deberán mantenerse depositadas en una única cuenta corriente o
-
-en depósitos a plazo, en el mismo banco a nombre del exportador, siempre en la
-
-misma moneda extranjera recomprada.
-
-Contra dichos depósitos los titulares podrán efectuar giros para pagar gastos de
-
-viaje, de asesoría y otros que deban realizar para llevar a cabo sus programas
-
-de exportación; gastos bancarios y comisiones en el exterior, originados con
-
-posterioridad a la liquidación del retorno; indemnizaciones y otros gastos
-
-debidamente autorizados por el Banco Central de Chile y para su conversión
-
-amoneda chilena por intermedio de las empresas bancarias.
-
-5. - Cláusula especial en el contrato de cuenta corriente y en los depósitos a
-
-Plazo.
-
-La empresa bancaria en la que se abra la cuenta corriente señalada, o se
-
-constituya el depósito a plazo, que tendrá el carácter de intransferible, deberá
-
-consignar como cláusula en el respectivo contrato de cuenta corriente o en el
-
-comprobante del depósito a plazo, que la utilización de esos haberes por parte
-
-de los exportadores, se ajustará a las disposiciones señaladas en el Capítulo VI
-
-del Compendio de Normas de Exportación del Banco Central de Chile y que toda
-
-contravención a las citadas disposiciones será sancionada por dicho Instituto.
-
-6.- Facultad del Banco Central de Chile de pedir justificación de los gastos.
-
-Los exportadores deberán tener presente que, en cualquier momento, el Banco
-
-Central de Chile podrá solicitar información sobre el uso dado a los fondos,como
-
-asimismo, acerca del programa de exportaciones que diga relación con los gastos
-
-de promoción que se efectúen. Dicha información deberá ser respaldada por los
-
-respectivos documentos que acrediten la naturaleza del desembolso o gastos
-
-realizados.
-
-7.- Forma de entregar el monto recomprado.
-
-El producto de la recompra de divisas que autoriza el Capítulo VI del Compendio
-
-de Normas de Exportación, deberá ser entregado por los bancos al exportador
-
-respectivo con cheques girados a la orden del propio banco que liquide los
-
-retornos de exportación pertinentes y endosados por éste para el solo efecto de
-
-ser depositados en la única cuenta corriente que el exportador tenga abierta con
-
-ese fin, en el mismo o en otro banco, o para constituir depósitos a plazo, según
-
-lo disponen las normas en referencia.
-
-8.- Instrucciones contables
-
-8.1.- Depósitos en cuenta corriente
-
-Los asientos que se registren en las cuentas corrientes especiales abiertas por
-
-los exportadores, y que se operarán en moneda extranjera, deberán señalar el
-
-origen y el destino del depósito o del giro, respectivamente, y el banco deberá
-
-mantener, en forma paralela, un archivo individual con los antecedentes
-
-presentados por su cliente, justificativos de cada una de esas partidas.
-
-El tratamiento contable de las referidas cuentas será el siguiente:
-
-a) Se abonarán con el depósito de las divisas recompradas y los eventuales
-
-intereses;
-
-b) Se cargarán por los giros efectuados por los exportadores para los fines
-
-señalados; y,
-
-c) Su saldo, siempre acreedor, representará el monto de divisas que tiene a su
-
-disposición el exportador.
-
-8.2.- Depósitos a plazo.
-
-Las entidades bancarias que reciban depósitos a plazo en moneda extranjera
-
-provenientes de la recompra de retornos de exportación liquidados, deberán
-
-registrar estos depósitos en cuentas individuales a nombre de cada exportador,
-
-con el objeto de mantener un adecuado control sobre estas operaciones.
-
-El tratamiento contable para estos depósitos será el siguiente:
-
-a) Los importes correspondientes a divisas recompradas que se reciban, se
-
-abonarán a una cuenta individual por cada exportador, denominada "Depósitos
-
-aplazo por recompra de divisas de exportación", de la partida 3020, 3025 ó 3065
-
-del formulario MB1, según corresponda.
-
-b) La referida cuenta se cargará al vencimiento de los respectivos depósitos por
-
-los giros efectuados para los fines expresamente señalados; y.
-
-c) El saldo de la citada cuenta representará el monto de divisas que mantiene
-
-depositadas a plazo cada exportador.
-
-8.3.- Depósitos a plazo por retornos declarados pendientes de liquidación.
-
-Los depósitos a plazo constituidos con divisas cuyo retorno sea informado al
-
-Banco Central de Chile y que se acojan al plazo especial de 90 días para su
-
-liquidación, de conformidad con lo previsto en el N° 1 de este capítulo, serán
-
-registrados en la cuenta "Depósitos a plazo divisas retornadas por liquidar" que
-
-habilitarán para tal efecto. Esta cuenta se demostrará en la partida 3020 ó 3025
-
-del formulario MB1, según corresponda.
-
-8.4.- Intereses.
-
-Los intereses que devenguen los depósitos a plazo a que se refiere este
-
-capítulo, serán debitados en la cuenta "Intereses pagados" de la partida 5105,
-
-5110, 5120 ó 5130 del formulario MR1, según corresponda, con abono a la cuenta
-
-"Intereses por pagar" de la partida 3805 del formulario MB1.
-
-9. - Información al Banco Central de Chile
-
-Las empresas bancarias que reciban en depósito las divisas recompradas a que se
-
-refiere este capítulo, deben enviar mensualmente al Departamento de
-
-Exportaciones del Banco Central de Chile, un estado de esas operaciones de
-
-acuerdo con el formato contenido en el Anexo N° 1 del Capítulo VI del Compendio
-
-de Normas de Exportación.
+Las empresas bancadas que reciban en depósito las divisas deducidas de los retornos que se liquiden, deben enviar mensualmente al Banco Central de Chile, un estado de esas operaciones de acuerdo con el formato contenido en el Anexo N° 1 del Capítulo VIII del Título II del Compendio de Normas de Cambios Internacionales.
 
 CAPITULO 14-7 (Bancos)
 
