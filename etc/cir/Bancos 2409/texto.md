@@ -15050,6 +15050,8 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 > **Nota.** NOTA 1 La letra B), de la Circular 3034, SBIF, promulgada el 30.11.1999, complementa el presente Anexo, agregando nuevos códigos de tablas de desarrollo.
 
+> **Nota.** NOTA 2 La Circular 3063, SBIF, promulgada el 29.06.2000, modifica el presente Anexo, incluyendo las nuevas tablas aprobadas que han quedado registradas en la Superintendencia.
+
 CAPITULO 9-5 (Bancos y Financieras)
 
 MATERIA:
@@ -23578,7 +23580,7 @@ c) Las tareas especiales de auditoría se solicitarán en las oportunidades y co
 
 d) Los trabajos especiales de que se trata podrán ser remunerados con cargo a este Organismo y sus resultados se informarán directamente al Superintendente. Los honorarios se establecerán sobre la base de un presupuesto detallado del tiempo necesario para cumplir con los objetivos de la auditoría o trabajo especial que se solicite en cada oportunidad.
 
-ANEXO N° 1
+ANEXO N°1
 
 FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA.
 
@@ -23592,19 +23594,21 @@ Inscripción* Nombre de la empresa.
 
 004 K.P.M.G. PEAT MARWICK AUDITORES CONSULTORES LIMITADA.
 
-005 DELOITTE AND TOUCHE SOCIEDAD DE AUDITORES Y CONSULTORES LIMITADA.
+005 DELOITTE Y TOUCHE SOCIEDAD DE AUDITORES Y CONSULTORES LIMITADA.
 
 008 JERIA Y ASOCIADOS, AUDITORES CONSULTORES LIMITADA.
 
-010 ERNST AND YOUNG (CHILE) AUDITORES - CONSULTORES LIMITADA.
+010 ERNST Y YOUNG (CHILE) AUDITORES - CONSULTORES LIMITADA.
 
-014 SURLATINA AND HORWATH AUDITORES LIMITADA.
+014 SURLATINA Y HORWATH AUDITORES LIMITADA.
 
 017 GRANT THORNTON AUDITORES CONSULTORES LIMITADA.
 
 019 ARTHUR ANDERSEN - LANGTON CLARKE, AUDITORES Y CONSULTORES LTDA.
 
 020 CGA AUDITCORP LTDA.
+
+021 LEFORT Y ASOCIADOS AUDITORES CONSULTORES LTDA.
 
 * Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
 
