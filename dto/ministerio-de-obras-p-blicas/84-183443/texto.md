@@ -1,0 +1,3 @@
+Por decreto MOP Nº 84, de 31 de enero de 2001, se expropió el lote de terreno Nº 54, superficie 7.286 m², rol de avalúo 608-77, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, By Pass San Carlos de Purén, Octava Región y se acordó el valor de indemnización con su propietario Juan de Dios Jara Poblete, ascendente a la cantidad de $8.327.950.-
+
+Fiscal del Ministerio de Obras Públicas.
