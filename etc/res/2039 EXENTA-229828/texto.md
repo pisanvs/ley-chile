@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.039, de 4 de agosto de 2004, de esta Subsecretaría, autorízase a SOCIEDAD COOPERATIVA DE CONSUMO DE ENERGIA ELECTRICA PARRAL LIMITADA, para efectuar actividades experimentales de acuicultura de langosta australiana, en un sistema de cultivo controlado ubicado en predio denominado La Casona, Ruta 5 sur kilómetro 338, VII Región, por el período de un año a contar de la fecha de la presente resolución.
+
+Valparaíso, 4 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
