@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 898 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Santa Verónica" de la comuna de Melipilla, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a parcelas No. 1, 3 a la 10 y 12 a la 29; sitios B al L R al Z y Aa, del Proyecto de Parcelación "San Valentín - El Aromo - Las Praderas formado por predio señalado, y los predios "San Valentín de Codigua" y "Parte del Fundo Mandinga". Los Derechos. de Agua se extraen de los canales Codigua y Wodehouse, derivados del Río Maipo.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
