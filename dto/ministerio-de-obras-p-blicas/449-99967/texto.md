@@ -1,0 +1,5 @@
+Por decreto MOP. No. 449, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP.
+
+No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206, de 1960, se expropiaron los lotes de terreno No.s. 155 y 157, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, que figuran a nombre de Cáceres Caro Ana María, roles de avalúos No.s. 150-450 y 150-452, comuna de Lampa, Región Metropolitana, superficies 2.773 y 1.230 m2. La Comisión de Peritos compuesta por los señores Américo Agustín Delucchi Cabaña, Juan Eduardo Espinoza Asenjo y la señora Mariela Lillo Felmer, fijó con fecha 14 de noviembre de 1997, el valor provisional de la indemnización en las cantidades de $ 39.055.000, para el lote No. 155 y $ 24.776.000, para el lote No. 157. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+-Fiscal del Ministerio de Obras Públicas.
