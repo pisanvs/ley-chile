@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº368, de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº6-A, superficie 192 m2, Rol de avalúo Nº161-129, comuna de Petorca, para la obra "Camino Ruta E-37-D, Sector Pedegua-Palquico, Km. 0,000 al Km. 14,000", V Región y se acordó el valor de indemnización con su propietario Luis Alberto Olivares, ascendente a la cantidad de $2.805.323.-
+
+Fiscal del Ministerio de Obras Públicas.
