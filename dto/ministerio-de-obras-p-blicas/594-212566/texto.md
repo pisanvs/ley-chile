@@ -1,0 +1,5 @@
+Por decreto MOP Nº594, de 17 de junio de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº8-2 para la obra:
+
+"PROYECTO SISTEMA AMERICO VESPUCIO NORTE. RUTA 78 - AV. EL SALTO. SECTOR 6: RUTA 78 - RUTA 68", Región Metropolitana, que figura a nombre de VIAL VALDES MARIA SOLEDAD, rol de avalúo 2071-12, comuna de Maipu, superficie 1.238 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Sonia Catalina Gallegos Blanch y Roberto Carlos Muñoz Ordenes, fijó con fecha 12 de mayo de 2003, el valor provisional de la indemnización en la cantidad de $4.518.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
