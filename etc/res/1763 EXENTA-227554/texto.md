@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.763, de 1 de julio de 2004, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº1.117 de 2004, que autorizó a la UNIVERSIDAD ANDRES BELLO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia de la pesca de investigación en el marco del Proyecto denominado "Assesment of the human interactive effect with enviromental variables determining distribution and population densities of the marine otter (Lontra felina) in Chile", en el sentido de aumentar a 14 el número de ejemplares vivos de Chungungo autorizados a capturar en el marco de la citada pesca de investigación.
+
+Valparaíso, 1 julio 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
