@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 772, de fecha 31 de mayo de 2004, se expropió el lote de terreno Nº 11, superficie 2.882 m2, Rol Nº 608-534, comuna de Nueva Imperial, IX Región, para la obra "Camino Ruta S - 16, sector Chol Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,50000, Sub Tramo I Km. 24,30269 al Km. 29,840", y se acordó el valor de indemnización con su propietaria Mercedes del Carmen Collío Chicahual, ascendente a la cantidad de $1.445.216.-
+
+Fiscal del Ministerio de Obras Públicas.
