@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.027 de fecha 29 de julio de 2004, se expropió el lote de terreno Nº 61-A, superficie 484 M2, Rol Nº 334-30, comuna de Laja, VIII Región para la obra "Camino Ruta Q-34 Candelaria-La Laja, Sector Millantú-La Laja Km. 20,00000 a 35,88380" y se acordó el valor de indemnización con su propietario Angélica María Cuevas Espinoza, ascendente a la cantidad de $724.456.
+
+Fiscal del Ministerio de Obras Públicas.
