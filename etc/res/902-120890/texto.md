@@ -1,0 +1,3 @@
+Por resolución Nº 902, de 30 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la resolución Nº165 de 1997 de esta Subsecretaría, que autorizó a ALIMENTOS MARINOS S.A., para operar por sustitución la nave ''Quilpolemu'', sólo en lo relativo a las especies Anchoveta y Sardina española en el litoral de la III y IV Regiones.
+
+Valparaíso, 30 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
