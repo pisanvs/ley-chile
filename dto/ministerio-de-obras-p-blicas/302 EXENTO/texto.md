@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº302, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº1, superficie 322,00 m², rol de avalúo 235-34, comuna de Villa Alegre, para la obra "Mejoramiento Ruta L-19, Sector: Cruce Long. (Villa Alegre) - Esperanza, Tramo: Km. 0,000.00 a Km. 10,623.89" y se acordó el valor de indemnización con su propietario Luis Francisco de Borja Novoa González, ascendente a la cantidad de $774.706.-.
+
+Fiscal del Ministerio de Obras Públicas.
