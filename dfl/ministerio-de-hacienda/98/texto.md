@@ -1,0 +1,1 @@
+Suprime el cargo que indica de la planta permanente del Departamento de Caminos de la Dirección General de Obras Públicas.
