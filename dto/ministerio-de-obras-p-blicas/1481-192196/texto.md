@@ -1,0 +1,3 @@
+Por decreto MOP Nº1481, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº51, superficie 17.987,00 M2, rol de avalúo Nº62-456, comuna de Lampa, Región Metropolitana, para la obra "Camino Ruta G-16, Sector Lampa-Polpaico, Km. 19,72359 al 34,51667" y se acordó el valor de indemnización con su propietario don Guillermo Enrique Forter Mujica, ascendente a la cantidad de $33.704.041.-
+
+Fiscal del Ministerio de Obras Públicas.
