@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA COQUIMBO DOS LTDA. PARA AMPLIAR ACTIVIDADES QUE INDICA
+
+Por resolución Nº 66, de 15 de marzo de 1982, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Coquimbo Dos Ltda., para operar las embarcaciones de cerco "Arequipa VII", "Arequipa IV" y "Tamarugo II", en el litoral comprendido entre la I y la IX Región, en la extracción de sardina española, jurel, agujilla, caballa, cabinza, anchoveta y sardina común. Además se dejan sin efecto los números 3 y 4 de la resolución Nº 361, de 1981, de la Subsecretaría de Pesca, que autorizó a la Sociedad Pesquera Tarapacá S.A. para operar la embarcación "Tamarugo" y fijó su zona de operación respectivamente. Asimismo, se deja constancia que ha quedado sin efecto la resolución Nº 440, de 1981, de la Subsecretaría de Pesca, sin publicar, conforme a lo dispuesto en el artículo 6º del decreto de Economía Nº 175 de 1980.
+
+- Roberto Verdugo Gormaz, Subsecretario de Pesca.
