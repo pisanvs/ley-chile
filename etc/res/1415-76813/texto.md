@@ -1,0 +1,3 @@
+Por Resolución Nº 1.415, de 29 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 96103243, presentada por NATALIA DEL CARMEN GALLARDO VIDAL, para la concesión de acuicultura ubicada en Quinched, comuna de Chonchi, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo Nº 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
