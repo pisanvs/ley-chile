@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº411 de fecha 30 de abril del 2003, se expropio el lote del terreno Nº29-A, superficie 208,0 m2, Rol en trámite, comuna de Linares, VII Región para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147" y se acordó el valor de indemnización con su propietario Horti Fresh Llepo S.A., ascendente a la cantidad de $651.898.-
+
+Fiscal del Ministerio de Obras Públicas.
