@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.170 de fecha 31 de julio de 2001, se expropió el lote de terreno Nº 1-A, superficie 375 m², Rol de Avalúo Nº 266-22, comuna de Mulchén, para la obra ''Camino Mulchén-Quilaco, Sector Puente Granaderos Km. 0,00000 a Km. 0,45000'', y se acordó el valor de indemnización con su propietario Sucesión de doña Eliana del Carmen Cañete, ascendente a la cantidad de $16.866.492.
+
+Fiscal del Ministerio de Obras Públicas.
