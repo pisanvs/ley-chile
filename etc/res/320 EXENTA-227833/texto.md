@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE COMPAÑIA DE SEGUROS DE VIDA VITALIS S.A.
+
+Certifico: Que por resolución exenta Nº 320, de fecha 9 de julio de 2004, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Compañía de Seguros de Vida Vitalis S.A., acordada en junta extraordinaria de accionistas celebrada el 8 de junio de 2004, reducida a escritura pública con esa misma fecha, y complementada por escritura pública de 1 de julio de 2004, según requerimiento efectuado por oficio 5.661, de 30 de junio de 2004, ambas otorgadas en la Notaría de Santiago de don Humberto Santelices Narducci, domiciliado en Avenida El Bosque Norte 047, Las Condes.
+
+La reforma consiste en aumentar el capital social de $4.875.904.883 pesos, dividido en 22.901.000 acciones nominativas, de una misma serie, sin valor nominal, íntegramente suscrito y pagado, a $9.497.942.055 pesos, dividido en 45.719.114 acciones. El aumento de capital de $4.622.037.172 pesos dividido en 22.818.114 acciones, se encuentra íntegramente suscrito y pagado. Se modifican artículos quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 9 de julio de 2004.- Carmen Undurraga Martínez, Secretario General.
