@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 338 de 17 de marzo de 1994 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó a la sociedad Buses Claudio Ramos Flores y Compañía Limitada (Buses Ramos Cholele Ltda.) para efectuar transporte internacional terrestre de pasajeros entre Iquique (Chile) y Arequipa (Perú), por Paso Concordia, con dos frecuencias semanales de ida y vuelta.
+
+Claudio Hohmann Barrientos, Subsecretario de Transportes.
