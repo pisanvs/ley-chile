@@ -368,19 +368,19 @@ La transferencia del derecho de explotación, implica la entrega total de la ges
 
 #### Artículo 32º bis
 
-Inmediatamente de dictada la resolución de liquidación de una concesionaria, el Secretario del Tribunal cuidará que ella se notifique, a la brevedad posible, al Superintendente de Servicios Sanitarios.
+Inmediatamente de pronunciada la sentencia que declare la quiebra de una concesionaria, el Secretario del Tribunal cuidará que ella se notifique, a la brevedad posible, al Superintendente de Servicios Sanitarios.
 
-Pronunciada la resolución de liquidación, el deudor quedará inhibido, de pleno derecho, de la administración de la concesión y de los bienes afectos a ella.
+Pronunciada la declaración de quiebra, el fallido quedará inhibido, de pleno derecho, de la administración de la concesión y de los bienes afectos a ella.
 
 Notificado el Superintendente de la sentencia que declare la quiebra de una empresa concesionaria cuya concesión se encuentre en explotación, dispondrá la administración provisional del servicio, designando un administrador de entre aquellas personas naturales o jurídicas que se encuentren inscritas en el registro público a que se refiere el artículo 27º de esta ley.
 
-En el caso de dictación de la resolución de liquidación de un prestador cuya concesión aún no entra en explotación, la administración de ésta será ejercida por el liquidador.
+En el caso de quiebra de un prestador cuya concesión aún no entra en explotación, la administración de ésta será ejercida por el síndico.
 
 Los gastos en que se incurra con ocasión de la administración provisional quedarán incluidos dentro de los créditos señalados en el Nº 1 del artículo 2472 del Código Civil.
 
 #### Artículo 32º bis
 
-A.- La entidad normativa dispondrá la licitación de la concesión y los bienes afectos a ella, dentro del plazo de un año contado desde que quede firme la resolución de liquidación. Dicha licitación se llevará a efecto de acuerdo a lo dispuesto en el artículo 28º y en el inciso primero del artículo 29º de la presente ley.
+A.- La entidad normativa dispondrá la licitación de la concesión y los bienes afectos a ella, dentro del plazo de un año contado desde que quede a firme la sentencia que declare la quiebra. Dicha licitación se llevará a efecto de acuerdo a lo dispuesto en el artículo 28º y en el inciso primero del artículo 29º de la presente ley.
 
 Asimismo, el llamado a licitación de la concesión se realizará de acuerdo a lo dispuesto en el inciso primero del artículo 29º.
 
@@ -390,7 +390,7 @@ En el caso de no haber interesados, será aplicable lo dispuesto en el inciso fi
 
 #### Artículo 32º bis
 
-B.- Todo conflicto que pudiere suscitarse entre el liquidador y el administrador provisional, será resuelto por el juez del procedimiento concursal de liquidación, oyendo previamente al Superintendente de Insolvencia y Reemprendimiento y al Superintendente de Servicios Sanitarios.
+B.- Todo conflicto que pudiere suscitarse entre el síndico y el administrador provisional, será resuelto por el juez de la quiebra, oyendo previamente al Fiscal Nacional de Quiebras y al Superintendente de Servicios Sanitarios.
 
 ## Título III
 
@@ -404,11 +404,9 @@ Normas Generales
 
 El prestador estará obligado a prestar servicio a quien lo solicite, sujeto a las condiciones establecidas en la ley y su reglamentación, y, en su caso, en el respectivo decreto de concesión. En caso de discrepancias entre el prestador y el interesado en lo que se refiere a dichas condiciones, éstas serán resueltas por la entidad normativa, a través de resolución fundada, pudiendo incluso modificar el programa de desarrollo del prestador sin que ello represente daño emergente para éste.
 
-Al prestador no le serán aplicables las disposiciones del Título II del decreto con fuerza de ley N° 70, de 1988, del Ministerio de Obras Publicas, "De los aportes de financiamiento reembolsables", cuando se trate de proyectos habitacionales de viviendas sociales de hasta 750 unidades de fomento, que se financien en todo o en parte con subsidios otorgados por el Ministerio de Vivienda y Urbanismo.
-
 #### Artículo 33º
 
-A.- Sin perjuicio de lo dispuesto en el artículo 22º, cada vez que exista la necesidad de asegurar la provisión del servicio sanitario en determinadas zonas dentro del límite urbano, la Superintendencia deberá efectuar la respectiva licitación pública, no pudiendo excusarse de hacerlo cuando así lo requiera el Ministro de la Vivienda y Urbanismo respecto de las áreas urbanas, fundado en la necesidad de cumplir sus políticas, planes y programas relativos a viviendas sociales o subsidiadas, hasta 750 unidades de fomento.
+A.- Sin perjuicio de lo dispuesto en el artículo 22º, cada vez que exista la necesidad de asegurar la provisión del servicio sanitario en determinadas zonas dentro del límite urbano, la Superintendencia deberá efectuar la respectiva licitación pública.
 
 En caso de no existir proponentes para la referida licitación, o no haber sido adjudicada ésta por no cumplir los proponentes con los requisitos exigidos por la ley, la Superintendencia podrá exigir al prestador que opere el servicio sanitario del área geográfica más cercana a la zona aludida en el inciso precedente, la ampliación de su concesión a esta última zona.
 
@@ -420,31 +418,11 @@ b) El aumento del territorio operacional derivado de la incorporación de las nu
 
 La expansión de la concesión, de la forma indicada en los incisos segundo y tercero de este artículo, se formalizará de acuerdo a lo señalado en los artículos 17º y siguientes.
 
-Cuando la licitación la solicite el Ministerio de Vivienda y Urbanismo conforme al inciso primero, el llamado a propuesta se realizará dentro del plazo de seis meses, pudiendo prorrogarse por otro período igual o menor, mediante resolución fundada de la Superintendencia de Servicios Sanitarios.
-
-En ese caso, la Superintendencia podrá establecer en las respectivas bases que determinadas obras referidas al área que se licita serán consideradas como aportes de terceros o no reembolsables. Dichos aportes se incluirán en el decreto de otorgamiento de la respectiva concesión.
-
 #### Artículo 33º
 
 B.- Para efectos de lo dispuesto en el inciso segundo del artículo anterior, las nuevas áreas de concesión deberán ser comunicadas al prestador al inicio del proceso de fijación de tarifas establecido en el decreto con fuerza de ley Nº 70, de 1988, del Ministerio de Obras Públicas, de manera de considerar oportuna y adecuadamente el efecto de la ampliación del área de concesión en las tarifas del servicio.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, la Superintendencia podrá, por causa fundada, exigir la ampliación del área de servicio en una fecha intermedia a los períodos de fijación tarifaria. En este caso, se establecerán tarifas para la nueva área, las que regirán junto con la entrada en operación de la ampliación. Dichas tarifas tendrán vigencia hasta el término del período en curso y deberán permitir al prestador generar los ingresos requeridos para cubrir los costos incrementales de explotación eficiente y de inversión de su proyecto de expansión optimizado para la nueva área de servicio, sin perjuicio de los eventuales aportes de terceros.
-
-#### Artículo 33°
-
-C.- Tratándose de proyectos de viviendas sociales a que se refiere el inciso segundo del artículo 33°, a ejecutarse dentro del límite urbano o de extensión urbana, pero fuera del territorio operacional, cualquier concesionario podrá comprometerse con el urbanizador a cargo de ese proyecto, a presentar, dentro del plazo de 30 días contado desde la fecha del convenio, una solicitud de nueva concesión o ampliación de ella. Celebrado el convenio, el postulante a concesionario que lo suscribió deberá certificar la factibilidad de servicio. La factibilidad otorgada será válida para todos los efectos legales, aun cuando en definitiva sea otro prestador el que se adjudique la concesión. El concesionario que habiendo suscrito el convenio a que se refiere este artículo, no presentare la solicitud de concesión ante la Superintendencia dentro del plazo fijado, incurrirá en una infracción administrativa que será sancionada de acuerdo a los montos que establece la letra e), del inciso primero, del artículo 11 de la ley N° 18.902, sin perjuicio de su responsabilidad contractual.
-
-La suscripción del convenio no puede significar cobros de ninguna especie y su propósito es permitir otorgar la factibilidad de servicio que exigen las normas correspondientes para el desarrollo de los proyectos sociales a que se refiere el inciso segundo del artículo 33°.
-
-Cuando sea necesario para mantener el mismo nivel tarifario del área contigua en el área que se solicita en ampliación, determinadas obras de capacidad podrán ser asumidas por los interesados y se considerarán aportes de terceros. Este aspecto deberá consignarse en los convenios respectivos.
-
-Cualquier discrepancia en relación con la aplicación de este artículo será resuelta por la Superintendencia de Servicios Sanitarios.
-
-#### Artículo 33°
-
-D.- En caso que no sea posible obtener la suscripción de los convenios a que se refiere el artículo 33° C, el Ministerio de Vivienda y Urbanismo, dando cuenta de esta situación, solicitará a la Superintendencia de Servicios Sanitarios la licitación prevista en el artículo 33° A.
-
-En estos casos, el acto público a que se refiere el artículo 14º de esta ley deberá efectuarse dentro del plazo de 60 días contado desde la publicación del llamado a licitación, y los postulantes deberán otorgar la factibilidad de servicio solicitada en dicho acto público. Si no hubiere interesados, la Superintendencia deberá pronunciarse dentro del plazo de 15 días sobre la procedencia de ampliación forzada y, en dicho caso, el concesionario afectado deberá otorgar la factibilidad en un plazo de 15 días contado desde la notificación de la Superintendencia.
 
 #### Artículo 34°
 
