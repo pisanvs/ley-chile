@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.932, de 31 de agosto de 2000 y en base a la facultad otorgada por el artículo 105 del DFL. MOP Nº850, de 1997, que fijó el texto actualizando de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Camino Ruta 7, sector Chamiza-Quillaipe, Kms. 4,83687 al 15,84700, que figura a nombre de Sergio Chávez Rivera, rol de avalúo 2201-5, superficie 395,3 m2., comuna de Puerto Montt. La Comisión de Peritos fijó con fecha 30 de septiembre de 1997, complementada por acta de fecha 10 de marzo de 1999, la indemnización provisional en la cantidad de $790.600, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
