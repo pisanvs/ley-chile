@@ -1,0 +1,1 @@
+Substituye el artículo 1° de la ley 6,956 de 31 de mayo de 1941, que autorizó a la Municipalidad de Puerto Porvenir contratar un empréstito para instalar y explotar el servicio eléctrico de distribución de energía en la comuna.
