@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.419, de 31 de agosto de 1998, se expropió el lote de terreno No. 55, superficie 12.103 m2., Rol de Avalúo 20-108, comuna Calle Larga, para la Obra Camino Santiago-Colina-Los Andes, Sector "G" By Pass Los Andes, Km. 5.000,00 al 14.614,11, V Región, y se acordó precio de la indemnización con Martínez Herrera Rosendo, ascendente a la cantidad de $ 21.980.702.
+
+- Fiscal del Ministerio de Obras Públicas.
