@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 748, de 30 de abril de 2001, se expropió el lote de terreno Nº 10, superficie 343 m2., rol de avalúo en trámite, comuna de San Francisco de Mostazal, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector C, Sexta Región y se acordó el valor de indemnización con su propietario Servicio Agrícola y Ganadero, ascendente a la cantidad de $4.172.847.-.
+
+Fiscal del Ministerio de Obras Públicas.
