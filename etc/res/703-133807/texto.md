@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA ITATA LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 703 de 10 de Julio de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, pronunciándose respecto de solicitud de 20 de diciembre de 1985, se autoriza a Pesquera Itata Ltda., domiciliada en Santiago, para ampliar actividades pesqueras extractivas mediante la operación de la nave en construcción "Pilmaiquén" en el litoral comprendido entre las Regiones III a X, con la que extraerá los siguientes recursos hidrobiológicos: agujilla, sardina española, caballa, jurel, anchoveta, cojinova del sur, sardina común y cochinilla. Para los efectos de la captura de los recursos cochinilla y agujilla se autoriza operar en el litoral de la I a II Regiones.
+
+Valparaíso, 10 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
