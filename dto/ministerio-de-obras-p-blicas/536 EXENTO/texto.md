@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 536, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 36, superficie 5.139,54 m2, rol de avalúo 383-4, comuna de Pitrufquén, para la obra "Proyecto Diseño Definitivo Regadío Faja Maisan Red Primaria 5/5 Derivado Mahuidanche, Sector Km. 7.790,94 al 15.096,56" y se acordó el valor de indemnización con su propietario Hernán Enrique Zuber Reyes y Otros, ascendente a la cantidad de $2.822.008.-
+
+Fiscal del Ministerio de Obras Públicas.
