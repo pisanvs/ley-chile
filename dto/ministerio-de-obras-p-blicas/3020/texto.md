@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.020, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 47-D y 47-E, superficies 387 m2. y 60 m2., rol de avalúo 618-15, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, Ramal Colector, sector Rafael - Agua Amarilla, Octava Región y se acordó el valor de indemnización con su propietario Juan Belarmino Inzunza Bahamóndez, ascendente a la cantidad total de $261.085.
+
+- Fiscal del Ministerio de Obras Públicas.
