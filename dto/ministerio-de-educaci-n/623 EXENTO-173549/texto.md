@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº623 EXENTO, DE 1998
+
+Por decreto exento Nº 623 de fecha 1 de junio de 1998 del Ministerio de Educación, se modificó el decreto exento Nº 990 de 1997, correspondiente al Instituto Profesional Cepech, en el sentido de precisar que la carrera de Ingeniería de Ejecución en Administración de Empresas (Jornada Vespertina) contempla las menciones de Comercio Exterior, Finanzas y Comercialización, las que fueron aprobadas en julio de 1997 por el Consejo Superior de Educación. Dicha carrera conduce, asimismo, a la salida intermedia de Técnico en Administración de Empresas y al título profesional de Ingeniero de Ejecución en Administración de Empresas con mención en Comercio Exterior, Finanzas y Comercialización, correspondiendo al Consejo Superior de Educación la verificación progresiva de su desarrollo.
+
+Santiago, 16 de junio de 1998.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
