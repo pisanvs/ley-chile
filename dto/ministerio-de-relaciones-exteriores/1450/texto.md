@@ -372,11 +372,7 @@ APENDICE A LA MEDIDA DE CONSERVACION 29/XI
 
 LINEA ESPANTAPAJAROS
 
-Punto de remolque
-
-Destornillador Chicotes Línea principal Lastre
-
-las cuerdas secundarias deberán tocar la superficie del agua, y sumergir sus extremos en el agua en forma periódica, según sea el vaivén del barco. Se deberán fijar destorcedores en el cordel principal en el punto de remolque, antes y después del punto de unión de cada cuerda secundaria e inmediatamente antes de fijar cualquier peso al extremo del cordel principal.
+las cuerdas secundarias deberán tocar la superficie del agua y, sumergir sus extremos en el agua en forma periódica, según sea el vaivén del barco. Se deberán fijar destorcedores en el cordel principal en el punto de remolque, antes y después del punto de unión de cada cuerda secundaria e inmediatamente antes de fijar cualquier peso al extremo del cordel principal.
 
 Cada cuerda secundaria deberá tener también un destorcedor en su punto de unión al cordel principal.
 
