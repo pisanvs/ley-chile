@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.801, de 28 de abril del 2000, se expropió el lote de terreno Nº4, superficie 103 m2., rol de avalúo 18-67, comuna de San Gregorio, Niquen, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Octava Región, y se acordó el valor de indemnización con su propietario Luis Gastón Fuentes Bahamondes, ascendente a la cantidad de $588.371.-
+
+Fiscal del Ministerio de Obras Públicas.
