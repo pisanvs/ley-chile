@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.675, de 18 de julio de 2003, de esta Subsecretaría, modifícase la resolución Nº 1.065 de 2003, modificada mediante resoluciones Nº 1.276 y Nº 1.537, ambas de 2003, todas de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, SEDE COQUIMBO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la captura de Anchoveta (Engraulis ringens) en el litoral de la IV Región", en el sentido de incorporar el siguiente artículo 5 ter:
+
+"5 ter.- Sin perjuicio de lo dispuesto en los numerales 5º y 5 bis de la presente resolución, las capturas que efectúen las embarcaciones artesanales participantes en la presente pesca de investigación se imputarán a la fracción a ser extraída por la flota artesanal en el área marítima de la IV Región, en el período enero-octubre, autorizada mediante decreto exento Nº 504 de 2003, del Ministerio de Economía, Fomento y Reconstrucción."
+
+Lo dispuesto en la presente resolución comenzará a regir una vez agotada la cuota de investigación autorizada mediante resolución Nº 1.537 de 2003, de esta Subsecretaría de Pesca, lo que será comunicado oportunamente por el Servicio Nacional de Pesca a los interesados.
+
+Valparaíso, 18 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
