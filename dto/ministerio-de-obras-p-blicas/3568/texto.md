@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.568 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 15, superficie 3.729 m², rol de avalúo 513-166, comuna de Talagante, para la obra ''Camino Autopista Santiago-San Antonio, Tramo: Talagante-El Paico, Segmento 3, Sector 5-0, Lado Derecho Km. 38,64000 a Km. 43,56000'' y se acordó el valor de indemnización con sus propietarios Manuel Delfín Peña Peña y Pedro Pablo Peña Peña, ascendente a la cantidad de $31.057.047.-
+
+Fiscal del Ministerio de Obras Públicas.
