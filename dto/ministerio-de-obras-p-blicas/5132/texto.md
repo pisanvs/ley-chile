@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.132, de 30 de noviembre de 2000, se expropió el lote de terreno Nº152-13, superficie 200 m², rol de avalúo 1272-9, comuna de La Calera, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región, y se acordó el valor de indemnización con su propietario Miguel Armando Cortés Cortés, ascendente a la cantidad de $3.617.865.-
+
+Fiscal del Ministerio de Obras Públicas.
