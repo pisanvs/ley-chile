@@ -1112,129 +1112,67 @@ CAPITULO 1-7 (Bancos y Financieras)
 
 MATERIA:
 
-SISTEMAS ELECTRONICOS DE CONSULTA Y TRANSFERENCIA DE FONDOS.
+TRANSFERENCIA ELECTRONICA DE INFORMACION Y FONDOS.
 
-### I. DISPOSITIVOS ELECTRONICOS AUTOSUFICIENTES
+1.- Aplicación de las presentes normas.
 
-Para los efectos de las presentes instrucciones, se entenderá por dispositivos electrónicos autosuficientes, todos aquellos terminales habilitados para que los clientes autorizados ejecuten transacciones por vía electrónica o consulten datos relativos a sus saldos o transacciones con la respectiva institución financiera.
+Las presentes normas se refieren a la prestación de servicios bancarios y la realización de operaciones interbancarias que se efectúan mediante transmisiones de mensajes o instrucciones a un computador conectado por redes de comunicación propias o de terceros, efectuadas desde otro computador o mediante el uso de otros dispositivos electrónicos (cajeros automáticos, teléfonos, PINPAD, etc.).
 
-El término dispositivos electrónicos autosuficientes incluye, a vía de ejemplo, los cajeros automáticos para efectuar operaciones tales como giros y depósitos en sus cuentas corrientes o cuentas de ahorro, transferencias entre cuentas, consultas de saldos o pagos de servicios; los terminales de puntos de venta; dispositivos para transmisiones por vía telefónica o fax que permiten ejecutar una orden; o, cualquier terminal mediante el cual el usuario debite o acredite una cuenta sin otro intermediario que el servicio automatizado.
+Dichos servicios comprenden tanto las transferencias electrónicas de fondos como cualquier otra operación que se realice utilizando documentos o mensajes electrónicos, o dispositivos que permiten a los clientes de la institución financiera la ejecución automática de operaciones. Además, estas normas alcanzan también a las comunicaciones por vía electrónica que no den origen a una operación propiamente tal, cuando la información transmitida esté sujeta a secreto o reserva de acuerdo con lo establecido por la Ley General de Bancos.
 
-### II. REQUISITOS QUE DEBEN CUMPLIR LOS SISTEMAS UTILIZADOS
+Por transferencias electrónicas de fondos se entienden todas aquellas operaciones realizadas por medios electrónicos que originen cargos o abonos de dinero en cuentas, tales como: traspasos automatizados de fondos efectuados por un cliente de una cuenta a otra; órdenes de pago para abonar cuentas de terceros (proveedores, empleados, accionistas, etc.); utilización de tarjetas de débito en puntos de venta; recaudaciones mediante cargos a cuentas corrientes (impuestos, imposiciones previsionales, servicios, etc.); giros de dinero mediante cajeros automáticos, etc. En general, comprenden las descritas y cualquier otra operación que se efectúe por aquellos medios, en que un usuario habilitado para ello instruye o ejecuta movimientos de dinero en una o más cuentas.
 
-### 1. Sistemas de consultas de información
+2.- Requisitos que deben cumplir los sistemas utilizados.
 
-Dentro de este grupo se incluyen todos aquellos servicios en que un cliente de la institución financiera, mediante el uso de algún dispositivo electrónico autosuficiente, efectúa una consulta que no signifique la emisión de un instrumento susceptible de ser valorado ni una transferencia de fondos. Constituyen sistemas de consulta, por ejemplo, aquellos que entregan información de saldos o movimientos en cuenta corriente o de ahorro, estados de cobranzas, valor de la unidad de fomento, tipo de cambio, etc.
+Para habilitar un sistema de transferencia electrónica de información o de fondos, las instituciones financieras deberán considerar el cumplimiento de los siguientes requisitos básicos:
 
-En aquellos casos en que el sistema, para dar respuesta a la consulta, deba acceder a fuentes de información sujetas a reserva o afectas al secreto bancario, deberá resguardarse la privacidad y confidencialidad de la información requerida tomando la medidas tendientes a asegurar que dicha información sea accesible sólo para aquellos usuarios que se encuentren autorizados para tal efecto.
+A) Para la prestación de los servicios deberá celebrarse un contrato entre la entidad financiera y el cliente, en el cual queden claramente establecidos los derechos y responsabilidades de cada una de las partes que intervienen en las operaciones.
 
-De este modo, si se trata de una consulta telefónica, deberá proporcionarse al usuario una clave (password o PIN) que permita su identificación al momento de efectuarla.
+B) Los sistemas utilizados, junto con permitir el registro y seguimiento íntegro de las operaciones realizadas, deberán generar archivos que permitan respaldar los antecedentes de cada operación, necesarios para efectuar cualquier examen o certificación posterior, tales como, fechas y horas en que se realizaron, contenido de los mensajes, identificación de los operadores, emisores y receptores, cuentas y montos involucrados, terminales desde los cuales se operó, etc.
 
-Para el caso en que la consulta se efectúe a través de un sistema que utilice una tarjeta con banda magnética para el acceso, el banco deberá tener sistemas de operación suficientemente flexibles que posibiliten, por lo menos, el bloqueo de la tarjeta inmediatamente que ello sea requerido por el cliente.
+La conservación de estos archivos se regirá por lo establecido por esta Superintendencia en el Capítulo 1-10 de esta Recopilación Actualizada de Normas.
 
-### 2. Operaciones que generan documentos valorados
+C) El sistema debe proveer un perfil de seguridad que garantice que las operaciones sólo puedan ser realizadas por personas debidamente autorizadas para ello, debiendo resguardar, además, la privacidad o confidencialidad de la información transmitida o procesada por ese medio.
 
-Dentro de este grupo se incluyen todos aquellos servicios en que un cliente del banco, mediante el uso de dispositivos electrónicos autosuficientes, efectúa operaciones que se traducirán en la emisión de documentos valorados, tales como cheques, órdenes de pago, vales vista, pagarés o certificados de depósitos a plazo, etc. Igualmente, quedan comprendidos en este grupo el suministro de talonarios de cheques por medio de estos dispositivos.
+Los procedimientos deberán impedir que tanto el originador como el destinatario, en su caso, desconozcan la autoría de las transacciones o mensajes y la conformidad de su recepción, debiendo utilizarse claves y mecanismos de acceso al sistema y al tipo de operación, que permitan asegurar su autenticidad e integridad.
 
-Para efectuar tales operaciones, deberán cumplirse los siguientes requisitos, sin perjuicio de los demás mecanismos de control que la institución estime conveniente disponer:
+La institución financiera debe mantener permanentemente abierto y disponible un canal de comunicación que permita al usuario ejecutar o solicitar el bloqueo de cualquier operación que intente efectuarse utilizando sus medios de acceso o claves de autenticación. Cada sistema que opere en línea y en tiempo real, debe permitir dicho bloqueo también en tiempo real.
 
-a) La institución deberá contar con un mandato o autorización de su cliente.
+D) Las instalaciones y configuraciones de los equipos y de las redes deben garantizar la continuidad de las operaciones frente a eventos fortuitos o deliberados, debiendo considerarse el uso de equipos y respaldos, como asimismo de procedimientos alternativos, que permitan superar las contingencias que pudieren afectar o interrumpir el normal funcionamiento de los sistemas.
 
-b) La privacidad y seguridad se resguardará mediante una clave (password o PIN) que permita la identificación del cliente al momento de realizar la operación.
+Los sistemas deberán contener los mecanismos físicos y lógicos de seguridad para controlar que se ejecuten todas las operaciones que se inician, debiendo estar en condiciones de detectar cualquier alteración o intervención a la información transferida, entre el punto en que ésta se origina y aquel en que es recibida por el destinatario.
 
-c) Al tratarse de órdenes transmitidas que originen instrumentos valorados cuyos beneficiarios sean personas naturales o jurídicas diferentes al cliente que utiliza el servicio, las transmisiones o mensajes deberán ser encriptados.
+E) Los sistemas que permitan ejecutar transferencias de fondos, junto con reconocer la validez de la operación que el usuario realice, deben controlar que los importes girados no superen el saldo disponible o el límite que se haya fijado para el efecto.
 
-d) Los sistemas que utilicen una tarjeta con banda magnética para el acceso, deberán contemplar la posibilidad del bloqueo de la tarjeta por parte de la institución financiera, cada vez que lo solicite el cliente.
+Para todos los sistemas de transferencia automática de fondos deberá establecerse un límite en los montos de transferencia con respecto a cada cliente con acceso al sistema. Cuando se trate de un servicio de uso masivo que no contempla la posibilidad de efectuar transacciones importantes, dicho límite podrá fijarse en forma general para todos los usuarios.
 
-### 3. Transferencia electrónica de fondos
+En todo caso, los sistemas deberán contemplar el cumplimiento de cualquier restricción normativa que pueda afectar una transacción, como es el caso de límites de crédito, sobregiros y retenciones, extracción desde cuentas de ahorro con giro diferido, etc.
 
-Se entenderá por transferencia electrónica de fondos toda operación que signifique débitos o créditos de dinero en una cuenta, efectuada por medio de dispositivos electrónicos autosuficientes.
+F) Los sistemas de transferencia electrónica de fondos deberán generar la información necesaria para que el cliente pueda conciliar los movimientos de dinero efectuados, tanto por terminales como por usuario habilitado, incluyendo, cuando corresponda, totales de las operaciones realizadas en un determinado período.
 
-Con el objeto de evitar pérdidas patrimoniales a sus clientes y de cautelar la reserva de las operaciones, el sistema que se establezca deberá contar con los medios que garanticen la privacidad de las transacciones que se efectúen por su intermedio. De igual modo, deberá velarse para que el acceso y la ejecución de las operaciones de transferencias electrónicas de fondos quede circunscrito exclusivamente a las personas autorizadas para ello. En este sentido, sin perjuicio de los demás mecanismos de control interno y de seguridad que la institución estime conveniente disponer, el sistema deberá:
+En todo caso, los terminales de acceso común a cualquier cliente en que se originen transacciones, tales como cajeros automáticos o dispositivos asociados al uso de tarjetas de débito, deben generar los comprobantes en que conste el detalle de la transacción u operación ejecutada.
 
-a) Activar un perfil de seguridad que identifique el terminal lógico o físico, definido para el cliente, de manera que se permita el acceso sólo a las cuentas que estén previamente autorizadas.
+G) Las instituciones que contraten los servicios de una empresa de intermediación electrónica, deberán quedar en posición de verificar el cumplimiento de los requisitos básicos mencionados en los literales anteriores y de los demás aspectos que aseguren la autenticidad, integridad y confidencialidad de los documentos electrónicos y de las claves de acceso.
 
-b) Tener predefinidas todas la cuentas, propias y de terceros, cuando corresponda, que estarán adscritas al sistema, las que deberán tener el carácter de exclusivas en términos de su operación. Por consiguiente, para ejecutar una transferencia de fondos será imprescindible que las cuentas de origen y de destino de los fondos sean previamente incorporados al sistema a requerimiento de los respectivos titulares.
+Dichas empresas deberán estar en condiciones de certificar, a petición de cualquiera de las partes involucradas, la validez y oportunidad de emisión y recepción de los mensajes transmitidos.
 
-c) Permitir al cliente titular de una cuenta, limitar a un monto máximo diario las transferencias de fondos que, mediante ese sistema, se realicen desde su cuenta a cuentas propias o de terceros. En todo caso, el importe susceptible de girarse no podrá exceder del saldo disponible de la cuenta girada, es decir, del monto no afecto a retención a la fecha y hora en que se ejecuta la instrucción.
+En todo caso, debe tenerse presente que la generación de algunos documentos electrónicos que constituyen documentación de carácter oficial para el cumplimiento de disposiciones legales, puede requerir la realización de las correspondientes operaciones de transferencia electrónica de información y fondos a través de una empresa de servicio de intermediación electrónica, de acuerdo con las regulaciones o autorizaciones de los respectivos organismos fiscalizadores. Así ocurre, por ejemplo, con las facturas en relación con las normas del Servicio de Impuestos Internos, con las planillas de imposiciones previsionales según las instrucciones de la Superintendencia de AFP, etcétera.
 
-d) Incorporar una clave o código a los mensajes que permitan verificar que el remitente es la persona autorizada para ordenar la transferencia y asegurar que los mensajes recibidos correspondan exactamente a los emitidos.
+H) Las instituciones financieras deberán ponderar la exposición al riesgo financiero y operativo de los sistemas de transferencia de que se trata y considerar, en consecuencia, las instancias internas de revisiones y autorizaciones previas que sean necesarias.
 
-e) Emitir un comprobante en que consten las transacciones que involucren movimientos de fondos, cuando así lo requiera el cliente. Ese comprobante deberá indicar, salvo que se convenga algo distinto con el cliente, a lo menos la identificación de la cuenta debitada y de la cuenta acreditada; el monto transferido; la fecha de contabilización; y, los saldos disponible y contable de la cuenta debitada.
+Para el adecuado control de los riesgos inherentes a la utilización de estos sistemas, es necesario que las entidades financieras cuenten con profesionales capacitados para evaluarlos antes de su liberación y para mantener bajo vigilancia, mediante procedimientos de auditoría acordes con la tecnología utilizada, su funcionamiento, mantención y necesidades de adecuación de los diversos controles computacionales y administrativos que aseguran su confiabilidad.
 
-f) Encriptar los mensajes transmitidos en el caso de que el sistema incluya transferencias de fondos a cuentas de otros titulares. La encriptación deberá considerar, como mínimo, la siguiente información: claves de identificación, cuentas involucradas en la transacción y montos de ésta. Asimismo, los archivos residentes en los dispositivos autosuficientes de los clientes, cuando corresponda, deberán estar codificados.
+3.- Transferencias interbancarias.
 
-g) Mantener mecanismos de información o bloqueo que impidan efectuar una operación afectando una cuenta que no se encuentre vigente al momento de realizar la transacción.
+Las instituciones financieras pueden participar, a través de empresas de servicio o con servidores administrados por ellas mismas y con las modalidades de operación convenidas entre las partes, en sistemas de transferencia electrónica de fondos interbancaria.
 
-### 4. Archivos de respaldo de transferencias electrónica de fondos
+Los pagos que diariamente deban efectuarse como consecuencia del uso de tales sistemas, sea que se compensen o no previamente las obligaciones recíprocas, deberán resolverse mediante vales de cámara, electrónicos o físicos, según lo previsto en el Reglamento de Cámara de Compensación del Banco Central de Chile.
 
-El sistema que se use para efectos de transferencia electrónica de fondos deberá contemplar, a lo menos, los siguientes archivos magnéticos:
+En ningún caso el sistema de transferencia electrónica de fondos al cual esté adherida una institución, podrá incorporar el canje de documentos, puesto que éste sólo puede realizarse a través de la Cámara de Compensación.
 
-4.1. Archivo de clientes.
+4.- Contabilización de las operaciones efectuadas en horario especial.
 
-Este archivo deberá permitir la obtención de los siguientes datos referidos a una fecha determinada:
-
-a) Clientes adscritos al sistema y sus respectivos números de RUT.
-
-b) Cuentas que pueden afectarse con transferencias electrónicas de fondos, de acuerdo con lo autorizado por el cliente.
-
-c) Monto máximo para cada transferencia.
-
-d) Servicios cuyas cuentas pueden pagarse automáticamente.
-
-4.2. Archivos de transacciones realizadas.
-
-El sistema deberá generar archivos que contengan todas las transacciones realizadas por este medio. La información de estos archivos comprenderá, para cada transacción:
-
-a) Los números de identificación de las cuentas involucradas.
-
-b) El monto de cada transacción.
-
-c) Fecha de contabilización.
-
-d) Fecha y la hora exacta de su realización.
-
-e) Nombre y RUT del cliente.
-
-El plazo de mantención de estos archivos será el dispuesto por esta Superintendencia en conformidad con lo establecido en el Art. 19 de la Ley General de Bancos.
-
-### III. ANTECEDENTES SOBRE LOS SISTEMAS
-
-Los bancos deberán disponer en todo momento, para consulta de esta Superintendencia, lo siguiente:
-
-a) Los procedimientos administrativos y las características técnicas del software y hardware del sistema de aplicación, incluyendo la transmisión de datos. En esta documentación se deberá incluir, además, una regulación de las responsabilidades, derechos y obligaciones del prestador de servicios y del cliente, en todo lo que atañe al uso del servicio ofrecido y, en particular, a la estipulación de los mecanismos de seguridad, control y confidencialidad de las operaciones que pueden realizarse, las condiciones generales de utilización del servicio y las condiciones específicas que rigen para las transacciones que se contemple ofrecer.
-
-b) Una descripción del procedimiento establecido para el caso de divergencias entre la institución financiera y el usuario, en relación con las transacciones realizadas, como por ejemplo su monto, oportunidad, usuarios participantes, etc.
-
-c) Una opinión de la Contraloría Interna de la institución financiera, referente a la razonabilidad de los mecanismos de seguridad y control interno del sistema.
-
-### IV. CONTABILIZACIÓN DE LAS OPERACIONES EFECTUADAS EN HORARIO ESPECIAL
-
-Los giros, depósitos, pagos y toda otra operación mediante estos sistemas, efectuada con posterioridad a las 14:00 horas, como asimismo las transacciones realizadas en días sábado, domingo y festivos, deberán considerarse para todos los fines como efectuados el día hábil bancario siguiente.
-
-### V. COBRO DE GASTOS Y COMISIONES A USUARIOS DE LOS SISTEMAS
-
-### 1. Generalidades
-
-Las instituciones financieras que ofrecen a sus clientes diversos servicios mediante el uso de dispositivos electrónicos autosuficientes, están facultadas para cobrar a los usuarios de esos sistemas automáticos, tanto el reembolso de los gastos que ocasione su utilización, como las comisiones que se hayan establecido, o ambos conceptos, según se pacte en el respectivo convenio con el cliente, siempre que se cumplan las condiciones que se señalan en este título.
-
-### 2. Información a los usuarios
-
-Los cobros que se implanten por los conceptos indicados o las modificaciones a las tarifas ya establecidas, deberán comunicarse a los usuarios, al momento en que éstos se incorporen al servicio o, en el caso de aquellos clientes que ya son usuarios del sistema, se les informará de ello por carta, con una anticipación mínima de quince días con respecto a la fecha en que comience a regir el cobro de que se trate.
-
-Asimismo, las entidades financieras deberán indicar en sus pizarras de información al público, el importe de las comisiones y gastos que cobren por los principales servicios que se presten mediante dispositivos que utilicen tarjetas con banda magnética o, en su defecto, señalar que se consulte sobre las tarifas de dichos servicios.
-
-### 3. Modalidad de cobro de las comisiones
-
-Las comisiones que se cobren por la utilización de estos sistemas automáticos deben limitarse exclusivamente a los usuarios del sistema y podrán cobrarse con la periodicidad y modalidad que cada institución determine, debiendo en todo caso atenerse a las condiciones informadas a sus clientes.
-
-Los cobros que se hagan por este concepto, deben tratarse en forma totalmente separada de las comisiones que se cobren por mantención de cuentas corrientes o cuentas de ahorro, a que se refieren los Capítulos 2-2 y 2-4 de esta Recopilación de Normas, respectivamente.
-
-Cuando el titular de una cuenta de ahorro sea a su vez cuentacorrentista del mismo banco, el cargo por concepto de comisiones o de recuperación de gastos por el uso de una tarjeta u otro medio que permita el acceso a sistemas que posibiliten transacciones electrónicas en ambas cuentas, se efectuará preferentemente en la cuenta corriente.
-
-4. Obligación de mantener la prestación de servicios en la forma tradicional.
-
-Las instituciones financieras que ofrezcan a sus clientes servicios mediante dispositivos electrónicos autosuficientes y establezcan el cobro de comisiones o el reembolso de gastos por el uso del sistema, deben mantener de todos modos la atención directa en sus distintas oficinas, tanto para aquellos clientes que utilicen los servicios automáticos, como para aquellos que no se suscriban a esa modalidad. Esa atención directa debe comprender todos los servicios a que se puede acceder por los sistemas electrónicos y la entrega de a lo menos la misma información que puede obtenerse por esos medios, sólo con las diferencias propias de los sistemas automatizados y las limitaciones en cuanto se refiere a los horarios de atención de público que ha fijado esta Superintendencia de conformidad con la ley.
+Para efectos de su contabilización, los giros, depósitos, pagos y toda otra transferencia electrónica de fondos efectuada con posterioridad a las 14:00 horas, como asimismo aquellas realizadas en días sábado, domingo y festivos, deberán quedar registradas en el día hábil bancario siguiente, sin perjuicio de las prelaciones que deben seguirse en las imputaciones a las cuentas de los clientes de las cuales se giran o a las cuales se transfieren fondos.
 
 CAPITULO 1-8 (Bancos y Financieras)
 
