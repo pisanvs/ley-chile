@@ -1,0 +1,3 @@
+Araceli Garrido F., Secretaria Ejecutiva del Consejo Regional de Desarrollo V° Región, certifica que mediante acuerdo No. 24, de fecha 20 de Septiembre de 1989, este Consejo Regional de Desarrollo, designó Alcaldes en las Comunas que se indican: Raúl Bustamante Bertoglio, Villa Alemana; Raúl Rojas Gutiérrez, Isla Juan Fernández; José Antonio Rebolar Rivas, Quillota; Ricardo Veas Pizarro, La Calera; Alicia Monckeberg Barros, Algarrobo; Luis Gianini Núñez, Cartagena; Fernando Ferrer Tricio, El Quisco; Jenny Harris Flores, Santo Domingo; Patricio Cohen Ayala, El Tabo; Jorge Marín Puelma, Hijuelas.
+
+Valparaíso, Viernes 30 de Marzo de 1990.- Araceli Garrido Fernández, Secretaria Ejecutiva, Consejo Regional de Desarrollo V° Región.
