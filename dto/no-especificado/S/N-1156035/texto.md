@@ -1,0 +1,13 @@
+Publicacion de las bulas
+
+En la sesion ordinaria del dia veintiseis del presente noviembre dispuso S. E. se manifestara al Excmo. Supremo Director que acercándose la publicacion de la Bula de Cruzada era necesario quitar algunos abusos que para este acto i por una anticuada costumbre se han observado, con degradacion del decoro i respeto de nuestra relijion santa; i que a este efecto declaraba S. E. se cortase enteramente la ridícula práctica de vestir muchachos para que saliesen a prevenir con tambores la publicacion de la Bula ocho dias ántes; i que solos se diera aviso al público con carteles; que igualmente se quitará el paseo que se hacia en coches i calezas con el pendon de la Cruzada, comisario, ministros de la Tesorería i demas acompañamiento que concurrian al depósito de la Bula de la Iglesia del señor Santo Domingo; ahorrándose de consiguiente los costos i gastos que sufria la Tesorería jeneral por el refresco que se daba a los convidados. Que el depósito se ejecutase privadamente por los ministros; i que el dia de la publicacion, previo el convite de las autoridades i vecindario, se reunan todos en la Iglesia de Santo Domingo, conduciéndose allí la Bula con el aparato en solemnidad que han sido de costumbre i pasando a la Santa Iglesia Catedral para que solemnice la publicacion con misa i sermon, concluyendose con esto i sin mas formalidades; i mandando S.E. se pasara copia del acuerdo al Excmo. Supremo Director, para que se decretara el cumplimiento i la comunicacion que corresponde; firmaron los señores con el infrascrito secretario.-José María Rozas.–José Ignacio Cienfuegos.–Francisco Borja Fontecilla.–Francisco Antonio Pérez.–Juan Agustin Alcalde.–José María Villarreal, secretario.
+
+Excmo. Señor:
+
+Con lo instruido por el Iltmo. Diocesano sobre la variacion de las ceremonias acostumbradas en Chile para la publicacion de Bulas, lo acordado por el Senado i lo espuesto por V. E. en su honorable nota 12 del que rije, se conforma con la subrogacion de coscorobas en un bando solemne que se publique en varios lugares públicos, i el anuncio por carteles; pero atendiendo a que quitado el paseo de la tarde precedente a la publicacion, ya no tiene conducencia el pendon de la Cruzada, cree el Senado que seria mejor no se lleve, ni éste, ni el de la Patria, que no tiene alusion a este acto.
+
+Dios guarde a V.E. muchos años. Sala del Senado, Diciembre 14 de 1821.- Francisco de Borja Fontecilla.–José María Villarreal, secretario.–Excmo. Señor Supremo Director de la República.
+
+Santiago, diciembre 15 de 1821.-Me conformo con el precedente acuerdo del Excmo. Senado i con el de 26 del mes ántes próximo.
+
+Tómese razon, comuníquese a los gobernadores de este Obispado i Concepcion e imprímase.-O'Higgins.–Dr. Rodríguez
