@@ -1,0 +1,3 @@
+Alcaldesa de la I. Municipalidad de Providencia, mediante Decreto No. Ex. 896, de 11 de Agosto de 1986, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976 y Decretos Leyes 1,289, 2.186 y 3.464, de inmueble ubicado en Avda. Bilbao No. 2435, Rol de Avalúos No. 3237-3, aparentemente de propiedad de don Julián Flaño Benito, para el ensanche de Avda. Bilbao. Deslindes parte expropiada: al Norte, 16,80 mts. Avda. Bilbao; al Sur, 16,80 mts. resto de la propiedad que se expropia; al Oriente, 5 mts. Rol No. 3237-4, y al Poniente, 5 mts. Rol No. 3237-2. Indemnización provisional: $ 921.200.
+
+- Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
