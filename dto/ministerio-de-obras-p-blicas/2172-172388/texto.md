@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.172, de fecha 29 de mayo de 2000, se deja sin efecto la expropiación del lote de terreno Nº60, autorizada por el decreto MOP Nº1.869, de 15 de octubre de 1998, destinada a la ejecución de la obra Embalse Puclaro Sector Punta Azul y San Carlos III Etapa. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
