@@ -1794,8 +1794,6 @@ Lo anterior no es óbice para que el banco traspase saldos de una cuenta a otra,
 
 Los bancos pueden efectuar traspasos de fondos destinados a cubrir eventuales sobregiros, cuando las otras cuentas corrientes del mismo titular o de terceros tengan fondos disponibles suficientes para ello, siempre que exista una autorización dada previamente por escrito al banco, que le permita operar dicho traspaso. Esta operación, de hecho, reemplaza un abono o depósito realizado en la cuenta corriente por su titular y a un cargo o giro efectuado simultáneamente en la cuenta desde la cual se traspasan los fondos.
 
-Cuando el traspaso de fondos se efectue con el propósito de pagar cheques recibidos en el canje, la obligatoriedad de que existan fondos suficientes en otras cuentas corrientes del mismo titular o de terceros debe entenderse respecto de los saldos con que esas cuentas hayan cerrado en el día anterior y que sean susceptibles de girarse.
-
 ### 4. Cargos en cuenta corriente
 
 4.1. Por gastos efectuados por cuenta del cliente.
@@ -5000,17 +4998,13 @@ Los cheques y documentos de plazas que pertenezcan a una misma agrupación deben
 
 ### 2. Pago de cheques presentados en canje
 
-Los bancos están obligados a cursar o rechazar los cheques presentados en canje, sobre la base de los saldos con que hayan cerrado las cuentas respectivas en el día anterior, prescindiendo de los depósitos que reciban el mismo día. Al efecto, deben operar de la siguiente manera:
+Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos desde otras cuentas en el mismo banco, que se realicen hasta antes de las 9 horas del día hábil bancario siguiente al de la recepción de los documentos procesados en la primera cámara, oportunidad en que debe quedar finalizado el proceso.
 
-a) Los cheques recibidos en la primera cámara se contabilizarán por su monto total tan pronto se inicien las operaciones del día hábil bancario siguiente, con cargo a la cuenta "Acreedores en Cuentas Corrientes" y abono a la cuenta "Canje de la Plaza";
+Los bancos deberán dejar constancia de la hora en que se registre en las cuentas corrientes cada uno de los movimientos que las afecten, cuando éstos se realicen entre la hora de cierre y las 9 horas del día hábil bancario siguiente.
 
-b) Antes del movimiento de depósitos y pago de cheques del día, se registrarán los cheques recibidos del canje en las cuentas individuales de los clientes. Para tal efecto, como ya se expresó, no se pueden considerar los depósitos recibidos ese mismo día, sino los saldos con que las cuentas cerraron el día anterior;
+Todos los cheques compensados en la cámara deberán asentarse en las cuentas de los clientes con un código que permita identificar fácilmente su procedencia.
 
-c) Por el total de los cheques rechazados se cursará un cargo a la cuenta "Canje de la Plaza" con abono a la cuenta "Acreedores en Cuenta Corriente", de manera que esta última cuenta registre el valor de los cheques efectivamente cargados en las cuentas individuales;
-
-d) Todos los cheques compensados en la cámara deberán asentarse en las cuentas de los clientes con un código que permita identificar fácilmente su procedencia; y,
-
-e) Los bancos están facultados para realizar traspasos de fondos destinados a cubrir eventuales sobregiros cuando las otras cuentas corrientes del mismo titular o de terceros, tengan fondos suficientes para compensar el exceso y sean susceptibles de traspasarse a la cuenta rebasada, siempre que exista una autorización escrita del cuentacorrentista que le permita al banco realizar esta clase de traspasos. La obligatoriedad de que existan fondos suficientes y susceptibles de ser traspasados, debe entenderse respecto de los saldos con que esas cuentas hayan cerrado en el día anterior.
+Los cheques recibidos en la primera cámara se contabilizarán al inicio del día hábil bancario siguiente por su monto total, con cargo a la cuenta "Acreedores en Cuentas Corrientes" y abono a la cuenta "Canje de la Plaza". Por los cheques rechazados en el procesamiento del canje, se cursará un cargo a la cuenta "Canje de la Plaza" con abono a la cuenta "Acreedores en Cuenta Corriente", de manera que esta última cuenta registre el valor de los cheques efectivamente cargados en las cuentas individuales.
 
 ### 3. Contabilización de las devoluciones de canje
 
@@ -18220,9 +18214,7 @@ Esta Superintendencia dispone, para efectos de control, de la nómina de las per
 
 Es responsabilidad de cada institución financiera la actualización periódica de la respectiva nómina en la forma establecida en el Manual del Sistema de Información, incluyendo, en cada oportunidad, a aquellas personas que pasaron a ser consideradas relacionadas de acuerdo con los antecedentes de que dispone la institución y las comunicaciones que esta Superintendencia le haya enviado para la inclusión en el o los grupos de personas vinculadas entre sí.
 
-Las instituciones financieras que no dispongan de toda la información necesaria en relación con la conformación de algún grupo, como es el caso de la identificación mediante la asignación de un código numérico para éste, deberán efectuar oportunamente las consultas del caso a esta Superintendencia, a fin de enviar la nómina actualizada con todos los datos exigidos.
-
-Cuando, a juicio de una institución financiera, una persona natural o jurídica relacionada haya perdido las características que llevaron a considerarla como tal, la entidad correspondiente deberá comunicarlo a esta Superintendencia mediante una carta y hacer llegar los antecedentes que justifiquen su eliminación de la respectiva nómina. Sólo una vez que este Organismo haya manifestado su conformidad por escrito, se podrá considerar que la persona de que se trata ha dejado de ser relacionada.
+Cuando, a juicio de una institución financiera, una persona natural o jurídica relacionada haya perdido las características que llevaron a considerarla como tal, la entidad correspondiente deberá comunicarlo a esta Superintendencia mediante una carta y hacer llegar los antecedentes que justifiquen su eliminación de la respectiva nómina. Sólo una vez que este Organismo haya manifestado su conformidad por escrito, se podrá considerar que la persona de que se trata ha dejado de ser relacionada. Lo anterior es sin perjuicio de las excepciones que esta Superintendencia pueda establecer al respecto para un determinado grupo o persona, mediante instrucciones de aplicación general incluidas en el Manual del Sistema de Información.
 
 ### 5. Información a esta Superintendencia
 
