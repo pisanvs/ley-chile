@@ -1,0 +1,3 @@
+Por resolución Nº 701, de 20 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CONSTRUCCIONES Y CARPINTERIA NAVAL CONCAR S.A., para ampliar actividades pesqueras autorizadas por resoluciones Nº 1.159 y Nº 1.441, ambas de 1996, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Sector Río Guanaco, comuna de Navarino, Puerto Williams, provincia Antártica Chilena, XII Región, en la elaboración que se indican, los siguientes recursos hidrobiológicos: Ahumado, congelado, conserva y fresco-enfriado: Pejegallo, Pejerrey de mar, Sierra y Langostino de los canales.
+
+Valparaíso, 20 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
