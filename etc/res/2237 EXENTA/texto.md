@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 2.237 de 29 de Octubre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "El Recreo" de la comuna de Purén, IX Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1, 2, 4 y 5 del Proyecto de Parcelación "Los Tilos" formado por predio señalado entre otros. Los Derechos de Agua se extraen del canal Bollonco o Huallonco derivado del estero del mismo nombre y del canal Boyeco derivado del Estero Boyeco.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
