@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION Nº 289, DE 2000
+
+Con fecha 8 de septiembre de 2000 la Secretaría Regional Ministerial de Bienes Nacionales de la Región Metropolitana dictó la resolución Nº 289 por medio de la cual se otorga a la Corporación Educacional de la Construcción una concesión de uso gratuito del inmueble fiscal ubicado en calle 4 Nº 2004, Población Exequiel González Cortés, comuna de Ñuñoa, por un plazo de 5 años.
