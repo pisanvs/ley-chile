@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 707 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 6, superficie 469,45 m², rol Nº 54-00002, comuna de Hijuelas, V Región para la obra "Calle de Servicio Poniente, Sector enlace Romeral - Punta Torrejón, Sector Punta Torrejón, Km. 0,0000 al 0,60895, y se acordó el valor de indemnización con su propietario Pedro Eugenio Solís González, ascendente a la cantidad de $2.388.488.
+
+Fiscal del Ministerio de Obras Públicas.
