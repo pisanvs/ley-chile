@@ -9658,7 +9658,7 @@ Las empresas bancarias pueden emitir boletas de garantía con validez por un pla
 
 La vigencia de la boleta estará dada entonces por el plazo señalado en el documento respectivo, plazo dentro del cual el beneficiario podrá solicitar su pago. Transcurrido éste sin que se hubiere hecho efectiva, se entenderá caducada la validez del documento.
 
-Sin embargo, el beneficiario y el tomador podrán acordar una prórroga del plazo de vigencia, el que puede constar en la misma boleta o en un documento anexo que dé cuenta de la nueva fecha de vencimiento y los datos necesarios para identificar la boleta a que corresponde Este documento deberá presentarse junto con la boleta al momento de hacerla efectiva o cancelarla.
+Sin embargo, el banco emisor de la boleta podrá prorrogar su vigencia con el acuerdo previo por escrito, del beneficiario y del tomador del documento. Esa prórroga podrá constar en la misma boleta o bien en un documento anexo que dé cuenta de la nueva fecha de vencimiento. Cuando se proceda de esta última forma, deberán indicarse los datos necesarios para identificar la boleta a que corresponde la prórroga otorgada. Este documento en que consta el mayor plazo de vigencia, deberá presentarse junto con la boleta respectiva, al momento de hacerla efectiva o cancelarla.
 
 En todo caso, esta Superintendencia recomienda a los bancos que se fije un plazo de caducidad o vencimiento dentro del cual el beneficiario pueda ejercer los derechos para impetrar el cobro del documento, de manera que vencido dicho plazo, la entidad bancaria se encuentre en situación de dar por cancelada la operación y evitar así su permanencia indefinida, a la espera de que le sea devuelta la correspondiente boleta, para extinguirla en sus registros.
 
