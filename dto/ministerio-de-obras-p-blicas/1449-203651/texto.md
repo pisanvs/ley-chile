@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.449, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº78-B, superficie 407 m², rol de avalúo 159-11, comuna de Ránquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas Tramo II, Km. 5,57900 al 10,19480'' y se acordó el valor de indemnización con su propietaria doña Angélica Honoria Muñoz Gacitúa y Otra, ascendente a la cantidad de $2.991.978.-
+
+Fiscal del Ministerio de Obras Públicas.
