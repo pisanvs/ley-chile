@@ -1,0 +1,3 @@
+Por Resolución N°53, de 26 de Enero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA IQUIQUE-GUANAYE S.A., R.U.T. N°91.123.000-3, para continuar desarrollando las actividades pesqueras autorizadas por esta Subsecretaría a Pesquera Iquique S.A., R.U.T. N°91.123.000-3, domiciliada en Santiago, en virtud de la Escritura Pública de 31 de Agosto de 1992, otorgada ante la Cuadragésima Primera Notaría de Santiago, la que cambió el nombre de Pesquera Iquique S.A. por Pesquera Iquique-Guanaye S.A.
+
+Valparaíso, 26 de Enero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
