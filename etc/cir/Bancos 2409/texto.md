@@ -19298,7 +19298,7 @@ Debe tenerse presente, además, que las obligaciones provenientes de pactos de r
 
 La suma de los fondos disponibles, las colocaciones, inversiones y otros activos en moneda extranjera, en moneda nacional documentados en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, deducido el saldo de la Posición de Cambios Internacionales, cuando éste resulte acreedor, no podrá ser superior ni inferior a la suma de las obligaciones en moneda extranjera, en moneda nacional documentadas en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, en más de un 20% del capital pagado y reservas de la respectiva institución financiera. No se consideran como activos o pasivos en moneda extranjera los saldos registrados en cuentas de ajuste y control, con excepción de la partida 2515.
 
-Las sucursales de bancos extranjeros que ingresen o hayan ingresado capitales al país al amparo del Decreto Ley N° 600 de 1974 y sus modificaciones, o de los artículos 14, 15 ó 16 del Decreto Supremo N° 471 de 1977, del Ministerio de Economía, Fomento y Reconstrucción, así como los bancos o sociedades financieras nacionales que reciban o hayan recibido capital de la misma naturaleza, podrán exceder el referido límite del 20%, en una suma igual al monto de los aportes recibidos que mantengan recomprados, más las utilidades retenidas, susceptibles de ser remesadas al exterior, sólo en los casos en que los activos superen a los pasivos. Se entenderá para estos efectos como utilidades susceptibles de ser remesadas al exterior, aquellas que hayan sido reconocidas como tales, mediante el correspondiente certificado emitido por esta Superintendencia, sea que ellas se mantengan en moneda chilena o extranjera.
+Las sucursales de bancos extranjeros que ingresen o hayan ingresado capitales al país al amparo del Decreto Ley N° 600 de 1974 y sus modificaciones, o de los artículos 14, 15 ó 16 del Decreto Supremo N° 471 de 1977, del Ministerio de Economía, Fomento y Reconstrucción, así como los bancos o sociedades financieras nacionales que reciban o hayan recibido capital de la misma naturaleza, podrán exceder el referido límite del 20%, en una suma igual al monto de los aportes recibidos más las utilidades retenidas, susceptibles de ser remesadas al exterior, sólo en los casos en que los activos superen a los pasivos. Se entenderá para estos efectos como utilidades susceptibles de ser remesadas al exterior, aquellas que hayan sido reconocidas como tales, mediante el correspondiente certificado emitido por esta Superintendencia, sea que ellas se mantengan en moneda chilena o extranjera.
 
 Asimismo, los bancos podrán exceder el mencionado límite del 20%, en un monto igual a sus provisiones y reservas en moneda Extranjera, excluidas las provenientes de utilidades pendientes de remesarse al exterior, únicamente en los casos en que los activos sean superiores a los pasivos.
 
@@ -19367,6 +19367,10 @@ En el evento de que la institución financiera otorgue o reciba créditos interb
 b) Operaciones reajustables por la variación del tipo de cambio.
 
 Las instituciones financieras que mantuvieren activos o pasivos reajustables por la variación del tipo de cambio, deberán registrar al cierre de cada mes el promedio de los saldos mantenidos en estas operaciones durante el mes, en las siguientes cuentas, según corresponda: "Colocaciones en moneda nacional reajustables por la variación del tipo de cambio", "Inversiones en moneda nacional reajustables por la variación del tipo de cambio", "Otros activos en moneda nacional reajustables por la variación del tipo de cambio", "Depósitos y captaciones en moneda nacional reajustables por la variación del tipo de cambio", "Obligaciones en moneda nacional reajustables por la variación del tipo de cambio" y "Otros pasivos en moneda nacional reajustables por la variación del tipo de cambio". Estas cuentas integrarán también la partida 9705 antes señalada, y se cargarán con abono a la cuenta "Responsabilidad por control de operaciones activas y pasivas", de la partida 9900.
+
+1.3. Capital ingresado al país al amparo de los artículos 14, 15 ó 16 de la ex Ley de Cambios Internacionales o del DL 600 y sus modificaciones.
+
+A fin de extraer de los saldos contables el dato necesario para determinar mensualmente el margen adicional definido para las operaciones en moneda extranjera, las instituciones financieras que mantengan capitales ingresados al país al amparo de los artículos 14, 15 ó 16 de la ex Ley de Cambios Internacionales o del DL 600 de 1974 y sus modificaciones, deberán registrar el correspondiente importe en moneda extranjera en la cuenta de orden "Capital ingresado por DL 600 o ex Ley de Cambios Internacionales" que abrirán para el efecto. La referida cuenta de orden formará parte de la partida 9705 "Control de operaciones activas y pasivas", y se cargará contra la cuenta "Responsabilidad por control de operaciones activas y pasivas" de la partida 9900.
 
 ### 2. Información a esta Superintendencia
 
@@ -19486,7 +19490,7 @@ Todo lo anterior es sin perjuicio de la prohibición establecida para las socied
 
 ### 2. Operaciones que pueden efectuar los bancos
 
-Los bancos pueden realizar, además de las operaciones de compra y venta de divisas y de otras operaciones de cambios internacionales que se encuentran reguladas en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile, todas aquellas que son propias de su giro, tales como apertura, negociación y fínanciamiento de cartas de crédito para importación; confirmación, negociación y fínanciamiento de cartas de crédito de exportación y cobranzas del exterior y sobre el exterior.
+Los bancos pueden realizar, además de las operaciones de compra y venta de divisas y de otras operaciones de cambios internacionales que se encuentran reguladas en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile, todas aquellas que son propias de su giro, tales como apertura, negociación y fínanciamiento de cartas de crédito para importación; confirmación, negociación y financiamiento de cartas de crédito de exportación. Además, pueden efectuar cobranzas tanto del exterior como sobre el exterior.
 
 ### 3. Operaciones que pueden efectuar las financieras
 
@@ -28586,51 +28590,27 @@ De conformidad con lo dispuesto en el Capítulo XXI del Título I del Compendio 
 
 Estas cartas de crédito deberán señalar como mínimo los siguientes datos: Fecha de emisión, nombre completo y domicilio del beneficiario, monto que garantiza en moneda extranjera, identificación del contrato de exportación que caucionan y plazo de validez.
 
-### 2. Acceso al mercado de divisas
+### 2. Normas contables
 
-Las empresas bancarias deberán tener en consideración que no cuentan con acceso al mercado cambiario formal para el caso que deban efectuar el pago de las cartas de crédito stand by de que se trata, razón por la cual, de producirse esa situación, deberán utilizar para tal efecto sus reservas o provisiones en moneda extranjera, dando cumplimiento en todos estos casos, a las normas pertinentes.
+Las operaciones de que trata este capítulo, serán registradas en la forma que a continuación se indica:
 
-### 3. Normas contables
+2.1. Emisión de las cartas de crédito.
 
-Las operaciones de que trata este capítulo, serán registradas en la forma que a
+Debe: "Deudores por cartas de crédito stand by garantía exportaciones", por el monto en moneda extranjera de la respectiva carta de crédito, la que se demostrará en la partida 1610 del formulario MB1.
 
-continuación se indica:
+Haber: "Obligaciones por cartas de crédito stand by garantía exportaciones", la que se demostrará en la partida 3610 del formulario MB1.
 
-3.1. Emisión de las cartas de crédito.
+2.2. Intereses.
 
-Debe: "Deudores por cartas de crédito stand by garantía exportaciones", por el
-
-monto en moneda extranjera de la respectiva carta de crédito, la que se
-
-demostrará en la partida 1610 del formulario MB1.
-
-Haber: "Obligaciones por cartas de crédito stand by garantía exportaciones", la
-
-que se demostrará en la partida 3610 del formulario MB1.
-
-3.2. Intereses.
-
-Los intereses que devenguen estas operaciones, serán acreditados en la cuenta
-
-"Intereses ganados" de la partida 7125 del formulario MR1, con cargo a la cuenta
-
-"Intereses por cobrar" de la partida 1810 del formulario MB1.
+Los intereses que devenguen estas operaciones, serán acreditados en la cuenta "Intereses ganados" de la partida 7125 del formulario MR1, con cargo a la cuenta "Intereses por cobrar" de la partida 1810 del formulario MB1.
 
 3.3. Comisiones.
 
-Las comisiones que los bancos cobren por los créditos de que se trata, serán
+Las comisiones que los bancos cobren por los créditos de que se trata, serán acreditadas en la cuenta "Comisiones ganadas por cartas de crédito stand by", la que se demostrara en la partida 7510 del formulario MR1.
 
-acreditadas en la cuenta "Comisiones ganadas por cartas de crédito stand by", la
+### 3. Límites legales
 
-que se demostrara en la partida 7510 del formulario MR1.
-
-### 4. Límites legales
-
-Los créditos de que trata este capítulo y las obligaciones que de ellos se
-
-derivan, quedan afectos a los límites a que se refieren los artículos 84 y 81,
-
-respectivamente, de la Ley General de Bancos.
+Los créditos de que trata este capítulo y las obligaciones que de ellos se derivan, quedan afectos a los límites a que se refieren los artículos 84 y 81, respectivamente, de la Ley General de Bancos.
 
 CAPITULO 14-3 (Bancos)
 
