@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.898, de 21 de noviembre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 104, superficie 800 m2., rol de avalúo 403-21, comuna de Algarrobo, Quinta Región, para la obra Red Litoral Central Enlace Algarrobo Kms. 28.700,00 al 29.740,00. Posteriormente, por decreto exento MOP Nº 412, de 28 de febrero de 2002, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietaria Ida Eugenia González González, ascendente a la cantidad de $5.970.650.-
+
+Fiscal del Ministerio de Obras Públicas.
