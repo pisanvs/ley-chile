@@ -1,0 +1,3 @@
+Por decreto MOP Nº 374, de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 1, superficie 817 m2, rol de avalúo 2210-34, comuna de Chillán, para la obra "Camino Ruta N-45, Sector Cruce Ruta N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 0,00000 a Km 5,88000" y se acordó el valor de indemnización con su propietario Francisco Sagredo Gallardo, ascendente a la cantidad de $5.406.106.
+
+- Fiscal del Ministerio de Obras Públicas.
