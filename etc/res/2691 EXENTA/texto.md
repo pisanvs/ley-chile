@@ -1,0 +1,5 @@
+Por resolución exenta Nº2.691, de 31 de octubre de 2003, de esta Subsecretaría de Pesca, modifícase el numeral 3º de la resolución Nº1.065 de 2003, modificada mediante resoluciones Nº1.276, Nº1.537, Nº1.675, Nº2.226, Nº2.297, todas de 2003, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la captura de Anchoveta (Engraulis ringens) en el litoral de la IV Región", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de diciembre de 2003.
+
+Los remanentes no extraídos de la cuota autorizada mediante resolución Nº2.297 de 2003, de esta Subsecretaría, podrán capturarse en el plazo antes señalado.
+
+Valparaíso, 31 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
