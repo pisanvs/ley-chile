@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.014 de 21 de noviembre de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado El Membrillo, V Región, individualizada en el artículo 1º, Nº 17 del D.S. Nº 652 de 1997, modificado por decreto exento Nº 344 de 2002, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES CALETA EL MEMBRILLO.
+
+Valparaíso, 21 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
