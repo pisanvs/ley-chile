@@ -1,0 +1,7 @@
+Por resolución Nº 92, de 9 de enero de 2004, de esta Subsecretaría, autorízase a TOKYO SEA LIFE PARK, para capturar en el área marítima de la Isla de Chiloé, X Región, durante dos semanas, contadas desde la fecha de publicación de la presente resolución, con red de pared y buceo con red de mano, los ejemplares que se indican de los siguientes suborden, familia y especies:
+
+a) Peces: 20 ejemplares del suborden Notothenioidei, 20 ejemplares de la familia Gobiesocidae, 20 ejemplares de la familia Tripterygiidae, 20 ejemplares de la familia Agonidae, 20 ejemplares de la familia Callorhynchidae, 10 ejemplares de la familia Syngnathidae, b) Invertebrados marinos: Del Phylum Cnidaria: Renilla chilensis (10 ejemplares), Antholoba achates (10 ejemplares), Phymactis clematis (10 ejemplares); Del Phylum Mollusca: Clase Bivaldia: Aulacomya ater (100 ejemplares) y Mytilus chilensis (100 ejemplares). Clase Gastropoda: Tegula atra (60 ejemplares) y Phidiama lottini (20 ejemplares). Del Subphylum Crustacea: Austromegabalanus psittacus (80 ejemplares).
+
+El solicitante designa como persona responsable de esta pesca de investigación a su Director, señor Yutaka Fukuda.
+
+Valparaíso, 9 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
