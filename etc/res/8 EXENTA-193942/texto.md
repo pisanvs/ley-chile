@@ -1,0 +1,7 @@
+DELEGA EN FUNCIONARIOS QUE INDICA FACULTADES QUE SEÑALA
+
+En cumplimiento de la resolución Nº Ex. 58, de 24 de diciembre de 2001, del Director del Servicio, la suscrita ha dictado Resolución RPM 10.00 Nº 08 de 14.01.2002, delegando en el Jefe del Depto. Regional de Resoluciones; en el Jefe del Depto. Regional de Fiscalización; en los Jefes de Unidades y en los funcionarios que indica, en la planta de fiscalizadores, técnicos en fiscalización y de personal administrativo, que tengan el carácter de Ministro de Fe, ubicados en el Departamento Regional de Resoluciones de esta Dirección Regional, y en el área de Operación Iva, en las Unidades las facultades para otorgar a petición de los Tribunales de Justicia, del Servicio de Tesorerías y de los contribuyentes o sus mandatarios "Copia Computacional de Declaración" de los formularios 29, 50 y 22, las que serán equivalentes en contenido, a los presentados por el contribuyente. Esta "Copia Computacional de Declaración" deberá contener la firma y timbre del funcionario en quien se ha delegado la facultad para otorgarla.
+
+Derógase la resolución Nº 001, de 5 de febrero de 1998 y la resolución Nº 07, de 22 de julio de 1999.
+
+- Gina Anastasov Aguilera, Secretaria General.
