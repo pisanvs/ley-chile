@@ -1,0 +1,3 @@
+Por resolución Nº 1.455, de 8 de octubre de 1998, de esta Subsecretaría, declárase la caducidad de la resolución Nº 570 de 1992, de esta Subsecretaría, que autorizó a don ANDRES EDUARDO GUTIERREZ GUTIERREZ, para ampliar actividades pesqueras con la nave ''Don Andrés'', matrícula Nº 772 de San Antonio, en virtud de lo señalado en el Art. 143 letra b) y d) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 8 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
