@@ -1,0 +1,3 @@
+Por Resolución Nº 472, de 3 de abril de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; modifícase el numeral 1º de la Resolución Nº 405, de 1996, de la Subsecretaría de Pesca, que autorizó para sustituir las naves "Marnin" y "Don Telésforo", autorizadas por las Resoluciones Nº 103 y Nº 327 de 1994, ambas de esta Subsecretaría, por la nave "Don Telésforo".
+
+Valparaíso, 3 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
