@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE SEÑALA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.452 de 29 de Agosto de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector no ofrecido y Sector Expropiado Predios "Hijuela Las Encinas que está formada por parte del Fundo Santa Filomena y parte del Fundo El Molino" y "Hijuela Las Casas del Molino que está formada por parte del Fundo Santa Filomena y parte del Fundo El Molino", de la Comuna de Buin, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 12, sitios N°s. 1 al 21 del Proyecto de Parcelación "Las Vertientes" formado por predios señalados. Los Derechos de Agua se extraen del canal Quinta de la Asociación Canales Unidos de Buin. Derrames del predio Fundo Santa Filomena, 6 vertientes que nacen dentro del predio y Pozo Profundo Coordenadas 3340-7040-C-11 de 1972. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
