@@ -1,0 +1,3 @@
+Por Resolución de la Fiscalía del Ministerio de Obras Públicas F. N° 108, de 30 de septiembre de 1986, se ha ordenado pagar la suma de $ 354.924 a don Carlos Paredes Zapata o a quien acredite derecho como valor del 100 % del avalúo fijado por la Comisión de Hombres Buenos m s su reajuste, para el lote 2, de una superficie de 9.950 m2, para Doble Vía Concepción a Coronel, sector San Pedro a Lomas Coloradas. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a. publicación que se efectuar en un periódico de la VIII Región.-
+
+Fiscal del Ministerio de Obras Públicas.
