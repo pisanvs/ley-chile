@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA GRUBNER LTDA. PARA AMPLIAR ACTIVIDADES Y TRASLADAR PLANTA QUE INDICA
+
+Por resolución No. 66, de 02 de Febrero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Grubner Ltda., para ampliar actividades pesqueras autorizadas por resolución No. 841, de 1987, de esta Subsecretaría, en orden a incluir entre los recursos loco, entre las especies que puede elaborar. Además, se autoriza a la peticionaria para trasladar planta elaboradora desde Puerto Chacabuco a Puerto Aysén, calle O'Higgins No. 498, donde podrá procesar en las líneas de congelado y fresco los recursos hidrobiológicos autorizados en los términos que se indican en resolución No. 481, de 1987.
+
+Valparaíso, 02 de Febrero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
