@@ -552,6 +552,10 @@ Cuando haya en un puerto dos o más pontones, chatas o buques en desarme de una 
 
 De noche se mantendrá en cada nave un tripulante y los demás pernoctarán en la que se disponga su alojamiento y rancho.
 
+Sin embargo, la dotación especificada en el inciso precedente no será obligatoria cuando la nave de para, en reparaciones, desguace o pontón se encuentre fondeada en puerto de río, abra abrigada, poza de abrigo; convenientemente asegurada de los malos tiempos y/o en zonas de reparaciones abrigadas como ser pozas de maestranzas o recintos particulares de astilleros.
+
+En estos casos, la Dirección del Litoral, previo informe de la Autoridad Marítima respectiva, si lo estimara necesario, dispondrá la disminución de las plazas que crea conveniente, o suprimirlas totalmente si así lo estimare, según las condiciones particulares de cada caso.
+
 ## Capítulo IX
 
 Amarras
@@ -1338,29 +1342,31 @@ Esta disposición no rige para las naves que tienen permiso para hacer el cabota
 
 #### Artículo 243
 
-Los armadores o agentes de naves que soliciten recibir o despachar sus naves en días ordinarios, Domingos o festivos, gratificarán al personal que ejecuta esta labor de las Capitanías de Puerto y por intermedio de las planillas reglamentarias en la siguiente forma:
+Visto lo dispuesto en el artículo 38° del decreto con fuerza de ley 292, los Armadores o Agentes de Naves que soliciten atención de sus naves para recibirlas o despacharlas en días ordinarios, domingos o festivos, gratificarán al personal de las Capitanías de Puerto que ejecuten esta labor.
 
-Días ordinarios.
+Esta gratificación será cancelada en las planillas reglamentarias en peso oro, debiendo cubrirse en moneda corriente, con el recargo que para los efectos del pago de los derechos de Aduana fija periódicamente el Ministerio de Hacienda y en la siguiente forma:
 
-a) Ochenta pesos ($ 80), por hora o fracción desde las horas del cierre del puerto hasta las 24.00 horas.
+Días ordinarios:
 
-b) Cien pesos ($ 100), por hora o fracción, desde las 0 horas hasta las hora de apertura del puerto.
+a) De 12.00 a 14.00 horas, 1,50 oro la hora o fracción de hora.
 
-Días Domingos o festivos:
+b) De 18.00 a 24.00 horas, 2,00 oro la hora, o fracción de hora.
 
-a) Ochenta pesos ($ 80), por hora o fracción desde la apertura del puerto hasta la hora del cierre del puerto.
+c) De 00.00 a apertura del puerto, 2,50 oro la hora o fracción de hora.
 
-b) Ciento veinte pesos ($ 120), por hora o fracción, desde la hora del cierre del puerto hasta las 24.00 horas.
+Días domingos o festivos oficiales:
 
-c) Ciento cincuenta pesos ($ 150), por hora o fracción, desde las 0 horas hasta la hora de apertura del puerto.
+a) Desde la apertura del puerto a 18.00 horas, 2,00 oro la hora o fracción de hora.
 
-Gozará, también, de esta gratificación y dentro de las mismas horas, el personal que, a petición de los armadores o agentes, sea apostado a bordo como vigilante y aquel personal de oficinas que por turnos internos de cada Capitanía de Puerto deba atender efectivamente trabajos relacionados con el despacho o recepción de una nave.
+b) De 18.00 a 24.00 horas, a 2,50 oro la hora o fracción de hora.
 
-La gratificación que indica el presente decreto se cobrará desde la hora que un armador o agente de nave solicita la recepción o despacho, hasta la hora que efectivamente ejecuta la labor el personal de la Capitanía de Puerto.
+c) De 00.00 a apertura del puerto, 3.00 oro la hora o fracción de hora.
 
-En el horario nocturno, cuando un armador o agente no indique en la solicitud la hora de despacho o recepción de una nave, se cobrará la labor desde el cierre del puerto.
+Gozará, también, de esta gratificación y dentro de las mismas horas, el personal que, a petición de los Armadores o Agentes, sea apostado a bordo como vigilante y aquel personal de oficinas que por tumos internos de cada Capitanía de Puerto debe atender efectivamente trabajos relacionados con el despacho o recepción de una nave.
 
-Esta gratificación será reajustada anualmente en el porcentaje que fije el Banco Central de Chile con la información que le proporcione la Dirección General de Estadística, respecto al aumento del costo de la vida en el año inmediatamente anterior.
+La gratificación que indica el presente decreto se cobrará desde la hora que un Armador o Agente de Nave solicita la recepción o despacho, hasta la hora que efectivamente ejecuta la labor el personal de la Capitanía de Puerto.
+
+En el horario nocturno, cuando un Armador o Agente no indique en la solicitud la hora del despacho o recepción de una nave, se cobrará la labor desde las 18.00 horas.
 
 ## Capítulo XXVII
 
