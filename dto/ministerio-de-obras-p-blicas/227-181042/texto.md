@@ -1,0 +1,3 @@
+Por decreto MOP Nº227, de fecha 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 2 y 4, superficies 43 m² y 44 m², respectivamente, rol de avalúo 240-10, comuna de Purén, para la obra "Reposición Carpeta de ripio Camino Lumaco-Purén Km. 0.000 al Km. 22.271,00" y se acordó el valor de indemnización con su propietario Juan Antonio Llebul Cabeza, ascendente a la cantidad de $486.468.-
+
+Fiscal del Ministerio de Obras Públicas.
