@@ -1,0 +1,3 @@
+Por resolución Nº 1.138, de 5 de agosto de 1998, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 4, de 1991, Nº 268, de 1992, y Nº 717, de 1995, de esta Subsecretaría, que autorizaron a MARIA EUGENIA GUZMAN MONTANER, para instalar y operar el centro de cultivo ubicado en Río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 5 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
