@@ -1,0 +1,3 @@
+Mediante Resolución Ministerial Nº73, de fecha 25 de julio del 2001, se aprobó la reforma integral al estatuto de la Sociedad Cooperativa de Ahorros Santo Cura de Ars Limitada, en adelante Cooperativa de Ahorro y Crédito Santo Cura de Ars Limitada, en los términos que da testimonio la escritura pública otorgada con fecha 11 de enero del 2001, ante el Notario de Santiago don Arturo Carvajal Escobar, rectificada por escritura pública otorgada con fecha 15 de junio del 2001, ante el mismo notario.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
