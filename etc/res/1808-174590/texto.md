@@ -1,0 +1,11 @@
+Por resolución Nº1.808, de 17 de agosto de 2000, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de Investigación de la Pesquería Artesanal de Sardina común y Anchoveta en el Litoral de la IX y X Regiones'', elaborados por dicho Instituto y aprobados por esta Subsecretaría de Pesca. El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en determinar la distribución espacial y antecedentes biológico pesqueros y ambientales de Sardina común y Anchoveta en el litoral de la IX y X Regiones.
+
+La pesca de investigación se efectuará en el área de reserva artesanal de la IX y X Regiones, por el término de 6 meses contados a partir de la fecha de publicación de la presente resolución en el Diario Oficial.
+
+La pesca de investigación se realizará con las embarcaciones artesanales que a continuación se indican, las que se encuentran inscritas en el Registro Nacional Pesquero Artesanal: Aguila Real, Alondra, Arlequín, Canopus III, Don Borney, Don Héctor I, Don Joaquín, Don Manolo, Don Patricio, Don Valentín, Emelinda, Framapa, Getsemany, Humboldt I, Huracán I, Jerusalén, Lago Cisne, Maracaibo, Margot María IV, Mary Alejandra, Maucho, Tiburón I y Victoria II.
+
+En cumplimiento del objetivo de la presente investigación, las naves participantes podrán extraer un límite máximo total de captura de 2.500 toneladas mensuales de las especies en estudio. En el evento de agotarse el límite de captura autorizado, se deberán paralizar las actividades de investigación, lo cual será comunicado oportunamente por el Servicio Nacional de Pesca a los interesados.
+
+El Instituto de Fomento Pesquero designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su Directora Ejecutiva Suplente, doña Vilma Correa Rojas.
+
+Valparaíso, 17 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
