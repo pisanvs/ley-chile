@@ -21012,7 +21012,7 @@ Están facultadas para operar en los Convenios de Pagos y Créditos Reciproco, l
 
 Las empresas bancarias están facultadas para financiar el pago a los respectivos beneficiarios, de cartas de crédito de exportación, por el período que medie entre la fecha en que se efectúe dicho pago de acuerdo a los términos del acreditivo, y la que se hubiere convenido para el rembolso.
 
-Asimismo, los bancos podrán anticipar, en las condiciones que convengan con los beneficiarios, el pago de las obligaciones derivadas de la negociación de cartas de crédito confirmadas, pagaderas a plazo o contra aceptación, como también de aquellas cartas de crédito no confirmadas que hayan sido negociadas sin reservas por el banco emisor y que cuenten con la autorización de ese banco para cursar el pago anticipado y rembolsarse al vencimiento.
+Asimismo, los bancos podrán anticipar, en las condiciones que convengan con los beneficiarios, el pago de las obligaciones derivadas de la negociación de cartas de crédito confirmadas, pagaderas a plazo o contra aceptación. De igual manera, podrán adelantar el pago de cartas de crédito negociadas a plazo, no confirmadas, siempre que los respectivos beneficiarios les hayan cedido previamente el producto del crédito y el banco cesionario haya obtenido la conformidad de pago del banco emisor.
 
 ### 2. Cobranzas sobre el exterior
 
@@ -21184,7 +21184,7 @@ Simultáneamente se deberá revertir el asiento contable de que trata la letra b
 
 a) Cartas de crédito no confirmadas.
 
-Los bancos que efectúen pagos anticipados de cartas de crédito a plazo no confirmadas, que hayan sido negociadas sin reservas y que cuenten previamente con la autorización de rembolso del banco emisor y con su conformidad para realizar el pago anticipado al beneficiario, registrarán esos anticipos de la siguiente forma:
+Los bancos que efectúen pagos anticipados de cartas de crédito negociadas a plazo no confirmadas, previa cesión del producto de éstas por parte del beneficiario y obtención de la conformidad de pago del banco emisor, registrarán esos anticipos de la siguiente forma:
 
 Debe: - "Deudores de créditos pagados anticipadamente-Exportaciones ALADI", o bien,
 
