@@ -1,0 +1,5 @@
+Donacion de tierras
+
+Dispone S.E. que del pueblo de Indios perteneciente a esa jurisdiccion, i nominado Peumo se hagan gratificaciones a razon de ocho cuadras por cabeza a los individuos siguientes: Feliciano Carrizo, Antonio Guzman, José Mahona, Pascual Pardo, Eusebio Zelada i Lúcas Leiton. Estos sujetos han hecho el importante servicio de esponer su vida en calidad de espías durante la dominacion enemiga del país: i así es preciso que les proporcione a cada uno de ellos en su area agua: i distribuya de tal modo las posesiones que puedan serles de comodidad estendiéndoles a nombre del Estado carta de donacion para las hayan i gocen como suyas. Así lo dispone S.E. de cuya orden lo comunico a V.- Dios guarden V. muchos años.-
+
+Santiago, Mayo 24 de 1817.- Miguel Zañartu.- Señor Teniente Gobernador de Rancagua.
