@@ -1,0 +1,3 @@
+Por resolución Nº 1.854 de 5 de septiembre de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97101111, presentada por SOCIEDAD INDUSTRIAL, COMERCIAL, AGROPECUARIA, FORESTAL Y CONSULTORA MARTINEZ Y MARTINEZ LIMITADA, para un centro de cultivo ubicado en Seno Reloncaví, sector Oeste de Punta Pampichuela, X Región.
+
+Valparaíso, 5 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
