@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.421 de 31 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 373 para la obra: Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 a Km. 16,48000, que figura a nombre de Cabello Cornejo Guillermo, rol de avalúo 32-18, Comuna de Pichidegua, VI Región, superficie 109 M2. La Comisión de peritos, fijó con fecha 28 de marzo de 2001, en la cantidad de $563.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
