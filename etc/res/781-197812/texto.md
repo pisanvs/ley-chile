@@ -1,0 +1,3 @@
+Por resolución número 781, de 22 de abril de 2002, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A. para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 14 de 1989, Nº 239, Nº 330, Nº 1.076, Nº 1.352, todas de 1992, Nº 1.343 de 1996, Nº 1.913 de 1998 y Nº 2.498 de 2000, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida Pedro Montt Nº 405, San Vicente, Talcahuano, VIII Región, en las líneas de elaboración de Harina y Aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda y Vinciguerria.
+
+Valparaíso, 22 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
