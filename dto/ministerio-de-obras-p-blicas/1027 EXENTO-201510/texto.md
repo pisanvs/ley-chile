@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.027, de fecha 28 de junio del 2002, se expropió el lote de terreno Nº181, superficie 81 m2., rol Nº207-55, comuna de Coelemu, VIII Región, para la obra ''Camino Ruta O-170, O-176, Sector Acceso a Guarilihue, Tramo I Km. 0,00000 al 8,28000'' y se acordó el valor de indemnización con su propietario Héctor Abelardo Ortiz Verdugo, ascendente a la cantidad de $67.133.-
+
+Fiscal del Ministerio de Obras Públicas.
