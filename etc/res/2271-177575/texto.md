@@ -1,0 +1,5 @@
+Por resolución Nº 2.271 de 18 de octubre de 2000 de esta Subsecretaría, autorízase a ALIMENTOS PACIFIC STAR S.A., para ampliar actividades pesqueras de transformación, autorizadas por las resoluciones Nº 73 y Nº 79, ambas de 1979, Nº 91 de 1980, Nº 781 de 1985, Nº 200 de 1986, Nº 683 de 1989, Nº 59 de 1993, Nº 1910 de 1998, Nº 597 de 1999 y Nº 495 del 2000, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Camino San Antonio S/Nº, rural comuna de Quellón, provincia de Chiloé, X Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Conservas, Ahumado: Salmón rey, Salmón plateado, Salmón del Atlántico y Salmón keta.
+
+La materia prima será adquirida a centros de cultivos debidamente autorizados.
+
+Valparaíso, 18 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
