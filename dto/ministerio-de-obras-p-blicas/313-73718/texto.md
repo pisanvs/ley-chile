@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 313, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 2, 4, 5, 6, 7, 20, 24 y 32, superficies 180, 1.617, 2.094, 4.442, 335, 88, 4.487 y 1.945 m², roles de avalúos 321-43, 321-47, 319-1, 320-8 y 346-256, comuna de Río Negro, obra Camino U-800 y U-600, Río Negro Riachuelo y se acordó precio de indemnización con sus propietarios Guillermo Paredes Coronado, Juan Carrasco Cárdenas, Fritz Leibbrandt Harsch, Fredy Klocker Hechenleitner y Emilio Hernández Quintul, ascendente a las cantidades de $326.442, $427.183, $748.055, $556.599 y $350.033.-
+
+Fiscal del Ministerio de Obras Públicas.
