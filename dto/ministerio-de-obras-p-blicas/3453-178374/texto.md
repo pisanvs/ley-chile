@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.453, de fecha 31 de julio del 2000, se expropió el lote de terreno Nº25, superficie 108 m2, Rol de avalúo 3003-30, comuna de Ovalle, para la obra "Camino Ruta D-595; Ovalle-Hurtado, Sector Tranque Recoleta-Samo Alto, Tramo Km. 9.780,00 a Km. 31.840,00" y se acordó el valor de indemnización con su propietario Buenaventura Guerrero Rodríguez, ascendente a la cantidad de $253.459.-
+
+Fiscal del Ministerio de Obras Públicas.
