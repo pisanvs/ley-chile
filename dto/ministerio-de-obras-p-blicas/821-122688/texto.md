@@ -1,0 +1,3 @@
+Por Decreto MOP. No. 821, de 25 de junio de 1998, se modificó el decreto MOP. No. 736, de 31 de julio de 1997, que expropió el lote de terreno No. 2-F, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Canal San Miguel Pal Pal Bajo Ramal No. 4-B, que figura a nombre de Manuel Arcadio Mardones y otra, rol de avalúo 160-109, Comuna de Pemuco, VIII Región, ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $ 191.680, por haber quedado sin efecto el convenio directo de precio suscrito con el expropiado. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
