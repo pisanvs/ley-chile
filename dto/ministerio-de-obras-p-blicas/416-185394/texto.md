@@ -1,0 +1,5 @@
+Por decreto MOP Nº416, de 30 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº11-1, para la obra: "Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Tramo 7A2: Km.
+
+48.140,00 a Km. 50.300,00", Metropolitana Región, que figura a nombre de Arraztca Larrondo Pedro, rol de avalúo 107-13, comuna de Curacaví, superficie 3.498 m². La comisión de peritos integrada por los señores Marlene Teresa Ríos Marcuello, Mauricio Humberto Salamanca Zamora y Jaime Rolando Jurgens Bittner, fijó con fecha 29 de diciembre de 2000, el valor provisional de la indemnización en la cantidad de $10.755.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
