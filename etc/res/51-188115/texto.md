@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 51, de fecha 01 de junio de 2001, se aprobó la disolución voluntaria de la "Cooperativa Veraniega Mónaco Limitada", de Santiago, que consta en la escritura pública suscrita fecha 11 de abril de 2001, ante don Néstor Riquelme Contreras, Notario Suplente del Titular de la Décima Novena Notaría de Santiago, don Pedro Ricardo Reveco Hormazábal.
+
+Por orden del señor Subsecretario, Cecilia González Martínez, Jefe Departamento de Cooperativas (S).
