@@ -1,0 +1,3 @@
+EXTRACTO DE DECRETO No. 120 EXENTO, DE 1992 Por Decreto Exento No. 120 de fecha 08 de Mayo de 1992 del Ministerio de Educación, se insertaron en la Resolución Exenta de Educación No. 885, del Centro de Formación Técnica de ENAC, las adecuaciones 0introducidas a las carreras de Turismo, Contabilidad, Técnico Asistente Social, Asistente del Educador de Párvulos, Técnico Asistencial de Menores y Secretariado Ejecutivo, las que podrán aplicarse en su sede de Santiago, a contar del año 1992.
+
+Santiago, 07 de Septiembre de 1992.- Raúl Allard Neumann, Subsecretario de Educación.
