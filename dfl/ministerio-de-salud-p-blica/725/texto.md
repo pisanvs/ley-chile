@@ -1,0 +1,1819 @@
+CODIGO SANITARIO
+
+Santiago, 11 de Diciembre de 1967.- Hoy se decretó lo que sigue:
+
+Núm. 725.- Visto: lo dispuesto en el artículo 14° de la ley N° 16.585,
+
+Decreto:
+
+Modifícase el DFL. N° 226, de 15 de Mayo de 1931, que aprobó el Código Sanitario, en la forma que aparece en el presente texto:
+
+## Título Preliminar
+
+### Párrafo I
+
+DISPOSICIONES GENERALES
+
+#### Artículo 1°
+
+El Código Sanitario rige todas las cuestiones relacionadas con el fomento, protección y recuperación de la salud de los habitantes de la República, salvo aquellas sometidas a otras leyes.
+
+#### Artículo 2°
+
+El Presidente de la República dictará, previo informe del Director General de Salud, los Reglamentos necesarios para la aplicación de las normas contenidas en el presente Código.
+
+#### Artículo 3°
+
+Corresponde al Servicio Nacional de Salud, sin perjuicio de las facultades del Ministerio de Salud Pública, atender todas las materias relacionadas con la salud pública y el bienestar higiénico del país, de conformidad con lo dispuesto en el inciso final del N° 14° del artículo 10° de la Constitución Política del Estado, este Código y su Ley Orgánica.
+
+> **Nota.** La Constitución Política de la República de Chile, aprobada por Decreto 1150, Interior, publicado el 24.10.1980, establece en su Art. 19 N° 9 el derecho a la protección de la salud y, en su N° 8, el derecho a vivir en un medio ambiente libre de contaminación.
+
+> **Nota.** NOTA 1: Véanse el Capítulo I del Decreto ley 2763, Salud, publicado el 03.08.1979, que reorganiza el Ministerio de Salud, y el Decreto 395, Salud, publicado el 23.02.1980, que aprueba el reglamento orgánico de esta Secretaría de Estado.
+
+#### Artículo 4°
+
+A las Municipalidades corresponde atender los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
+
+> **Nota.** El Art. 4° del la LEY 18695, publicada el 31.03.1988, cuyo texto refundido fue fijado por el Art. 662, Interior, publicado el 27.08.1992, estableció las funciones que corresponden a las municipalidades en sus respectivos territorios, por aplicación del Art. 107 de la Constitución Política de la República. Entre ellas, conforme a su letra d), las relacionadas con la salud publica y la protección del medio ambiente.
+
+#### Artículo 5º
+
+Cada vez que el presente Código, la ley o el reglamento aluda a la autoridad sanitaria, deberá entenderse por ella al Ministro de Salud, en las materias que son de competencia de dicha Secretaría de Estado; a los Secretarios Regionales Ministeriales de Salud, como sucesores legales de los Servicios de Salud y del Servicio de Salud del Ambiente de la Región Metropolitana, respecto de las atribuciones y funciones que este Código, la ley o el reglamento radica en dichas autoridades y que ejercerá dentro del territorio regional de que se trate; y al Director del Instituto de Salud Pública, en relación con las facultades que legalmente le corresponden respecto de las materias sanitarias que este Código, la ley o el reglamento regula, sin perjuicio de los funcionarios en quienes estas autoridades hayan delegado válidamente sus atribuciones.
+
+#### Artículo 6°
+
+Las definiciones que se contienen en los preceptos siguientes, valdrán para el solo efecto de la aplicación de este Código y de sus reglamentos.
+
+#### Artículo 7°
+
+Las autorizaciones o permisos concedidos por los Servicios de Salud, de acuerdo con las atribuciones de este Código, tendrán la duración que para cada caso se establezca en los respectivos reglamentos, con un mínimo de tres años. Estos plazos se entenderán automática y sucesivamente prorrogados por períodos iguales, mientras no sean expresamente dejados sin efecto.
+
+La autoridad sanitaria ante quien se presente una solicitud de autorización o permiso deberá pronunciarse dentro del plazo de treinta días hábiles, contado desde el ingreso de la solicitud. En caso de que existan observaciones de forma, la autoridad sanitaria podrá por una sola vez, otorgar un plazo al interesado para que subsane la falta o acompañe los documentos respectivos, con indicación de que, si así no lo hace, se tendrá por desistida su petición. En caso de denegarla, deberá hacerlo fundadamente.
+
+Si la autoridad sanitaria no emitiere un pronunciamiento dentro de dicho plazo, la autorización se entenderá concedida salvo respecto de aquellas materias que de acuerdo con la ley requieren autorización expresa.
+
+Estas últimas actividades no podrán iniciar su funcionamiento mientras no obtengan la autorización sanitaria respectiva.
+
+Con todo, no requerirán autorización o permiso de la autoridad sanitaria los proyectos o actividades que se determinen en los respectivos reglamentos, de conformidad con el artículo 4 numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, en consideración al riesgo del proyecto o actividad a desarrollar, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+> **Nota.** El Art. 12 de la ley 18796, publicada el 24.05.1989, dispone que la modificación introducida al presente artículo por el Art. 10° letra a) de la misma ley, comenzará a regir a contar de la fecha de publicación del decreto con fuerza de ley que determine las materias que requieren de autorización sanitaria expresa. El referido D.F.L. es el N° 1, Salud, publicado el 21 de febrero de 1990.
+
+> **Nota.** NOTA 1: El Decreto con fuerza de ley N° 1, Salud, publicado el 21.02.1990, dictado en uso de la facultad conferida por el Art. 11 de la LEY 18796, publicada el 24.05.1989, determina las materias que requieren de autorización sanitaria expresa, de conformidad con el presente artículo.
+
+#### Artículo 7 bis
+
+Para los casos señalados en el inciso final del artículo 7°, el titular deberá presentar a la autoridad respectiva una declaración jurada que dé cuenta que el proyecto o actividad cumple con la normativa sanitaria que le sea aplicable.
+
+El reglamento respectivo determinará el contenido de la declaración jurada y los antecedentes que deberán acompañarse junto con ésta.
+
+La declaración jurada surtirá efecto desde el día siguiente a su presentación, sin necesidad de aprobación posterior por parte de la autoridad sanitaria, quien considerará los antecedentes presentados para las acciones de fiscalización, vigilancia o control posterior.
+
+Los proyectos o actividades a que se refiere este artículo deberán ejecutarse con estricta sujeción a la declaración jurada y demás antecedentes presentados a la autoridad sanitaria.
+
+De oficio o a petición de parte, la autoridad sanitaria podrá disponer la paralización, suspensión o clausura del proyecto o actividad, según corresponda, en aquellos casos en que se advierta el incumplimiento de las normas aplicables a la presentación de una declaración jurada, de conformidad con lo establecido en el Libro X.
+
+La habilitación a que da lugar la declaración jurada tendrá la vigencia que para cada caso se establezca en los respectivos reglamentos.
+
+#### Artículo 8°
+
+Para el cumplimiento de las órdenes que expida en conformidad a las facultades que le concede el presente Código y sus reglamentos, el Director General de Salud podrá requerir el auxilio de la fuerza pública directamente de la Unidad del Cuerpo de Carabineros de Chile más cercana y éstas estarán obligadas a proporcionarla.
+
+### Párrafo II
+
+DE LOS SERVICIOS DE SALUD
+
+#### Artículo 9º
+
+Sin perjuicio de las atribuciones del Ministerio de Salud y del Instituto de Salud Pública de Chile, así como de las demás facultades que les confieren las leyes, corresponde en especial a los Directores de los Servicios de Salud en sus respectivos territorios:
+
+a) velar por el cumplimiento de las disposiciones de este Código y de los reglamentos, resoluciones e instrucciones que lo complementen, y sancionar a los infractores;
+
+b) dictar dentro de las atribuciones conferidas por el presente Código, las órdenes y medidas de carácter general, local o particular, que fueren necesarias para su debido cumplimiento;
+
+c) Solicitar al Presidente de la República, a través del Ministerio de Salud, la dictación de los reglamentos del presente Código y proponerle las normas que deben regular las funciones de orden sanitario a cargo de las Municipalidades;
+
+d) informar al Ministerio de Salud sobre las materias que éste le requiera;
+
+e) solicitar de las autoridades, instituciones públicas o privadas o individuos particulares los datos y cooperación que estime convenientes para el mejor ejercicio de sus atribuciones. Los datos o cooperación deben ser proporcionados en el plazo prudencial que el Director del Servicio señale;
+
+f) Rebajar o eximir, en casos excepcionales y por motivos fundados, los derechos que deben pagarse por las actuaciones de los Servicios, fijados por el Arancel aprobado por el Ministerio de Salud, a determinadas personas naturales o jurídicas que ejecuten actividades de asistencia social, docencia o investigación científica. Las mismas facultades serán ejercidas por el Director del Instituto de Salud Pública de Chile, que podrá aplicarlas especialmente respecto de los controles relativos a medicamentos para necesidades personales de enfermos o de donaciones en casos de emergencias o catástrofes, y
+
+g) delegar las facultades que les concede el presente Código.
+
+#### Artículo 10°
+
+Para el cumplimiento de campañas sanitarias o en casos de emergencia, el Servicio Nacional de Salud podrá contratar, por períodos transitorios, personal de acuerdo a las normas del Código del Trabajo, con cargo a campañas sanitarias o imprevistos, según corresponda. Estas contrataciones se harán directamente por dicho Servicio, sin necesidad de cumplir otros requisitos que los señalados en ese cuerpo legal.
+
+El personal así contratado cesará automáticamente en sus funciones a la expiración del plazo fijado en su contrato, cualquiera que sea la duración de éste.
+
+### Párrafo III
+
+DE LAS ATRIBUCIONES Y OBLIGACIONES SANITARIAS DE LAS MUNICIPALIDADES
+
+#### Artículo 11°
+
+Sin perjuicio de las atribuciones que competen al Servicio Nacional de Salud, corresponde, en el orden sanitario, a las Municipalidades:
+
+a) proveer a la limpieza y a las condiciones de seguridad de sitios públicos, de tránsito y de recreo;
+
+b) recolectar, transportar y eliminar por métodos adecuados, a juicio del Servicio Nacional de Salud, las basuras, residuos y desperdicios que se depositen o produzcan en la vía urbana;
+
+c) velar por el cumplimiento de las disposiciones que sobre higiene y seguridad se establecen en la Ordenanza General de Construcciones y Urbanización;
+
+d) reglamentar y controlar las condiciones de limpieza y conservación exterior de las casas-habitación, fábricas, edificios públicos, cuarteles, conventos, teatros y otros locales públicos y particulares;
+
+e) establecer plazas, parques o locales públicos de juego o recreo para adultos y niños, así como baños y servicios higiénicos públicos; y
+
+f) proveer a la limpieza y conservación de los canales, acequias y bebederos, considerando además las condiciones de seguridad necesarias para prevenir accidentes.
+
+> **Nota.** Véase el Decreto ley 1.480, Salud Pública, publicado el 25 de junio de 1976, que faculta al Director General el Servicio Nacional de Salud para delegar en el Alcalde de la I. Municipalidad de Santiago las facultades que indica. Ver, además, el Art. 18 del Decreto ley 2.763, Salud Pública, publicado el 03.08.1979, en virtud del cual la facultad debe entenderse conferida al Director de Salud correspondiente de la Región Metropolitana, dentro del territorio asignado.
+
+#### Artículo 12°
+
+El Presidente de la República, por intermedio de los Ministerios del Interior y Salud Pública, y a propuesta del Director General de Salud, deberá, estableciendo servicios y obligaciones mínimas, reglamentar la forma cómo las Municipalidades ejercerán las funciones sanitarias que se les encomienden en la presente ley. Todo acto o reglamento municipal que esté en pugna con dichas normas sanitarias es nulo y esta nulidad será declarada por el Presidente de la República.
+
+#### Artículo 13°
+
+En caso de negligencia grave de una Municipalidad en el cumplimiento de sus obligaciones sanitarias específicas, sin perjuicio de lo establecido en el artículo 165°, el Presidente de la República podrá transferir, por períodos que no excedan de dos años, el cumplimiento de tales obligaciones al Servicio Nacional de Salud, a costa de la Municipalidad respectiva, con acuerdo previo del Ministerio del Interior.
+
+> **Nota.** La referencia al Art. 165 debe entenderse hecha al Art. 174 del presente Código en virtud de lo dispuesto en el Art. 3° de la Ley N° 18.173, publicada el 15 de noviembre de 1982, que incorporó un nuevo Libro noveno y reenumeró los artículos que quedaron a continuación.
+
+#### Artículo 14°
+
+Corresponderá al Servicio Nacional de Salud la supresión de cualquier factor que, originado en un territorio municipal, ponga en peligro la salud, seguridad o bienestar de la población de otro territorio municipal.
+
+#### Artículo 15°
+
+Las Municipalidades de la República no podrán otorgar patentes ni permisos definitivos para el funcionamiento de locales o para el ejercicio de determinadas actividades que requieran de autorización del Servicio Nacional de Salud, sin que previamente se les acredite haberse dado cumplimiento a tal requisito.
+
+Para el caso de los locales y actividades sujetas al procedimiento establecido en el artículo 7° bis, bastará como acreditación ante la Municipalidad el comprobante de ingreso de la declaración jurada a que se refiere dicho artículo.
+
+Las patentes o permisos concedidos por las Municipalidades con omisión de los requisitos establecidos en los incisos precedentes serán nulas y las Municipalidades que las hayan otorgado deberán proceder a cancelarlas.
+
+Sin perjuicio de lo anterior, el Servicio Nacional de Salud procederá sin más trámite a ordenar la paralización de la obra, clausura del establecimiento o la prohibición del ejercicio de la actividad o comercio, según corresponda.
+
+# Libro I
+
+DE LA PROTECCION Y PROMOCION DE LA SALUD
+
+## Título I
+
+DE LA PROTECCION MATERNO INFANTIL
+
+#### Artículo 16°
+
+Toda mujer, durante el embarazo y hasta el sexto mes del nacimiento del hijo, y el niño, tendrán derecho a la protección y vigilancia del Estado por intermedio de las instituciones que correspondan.
+
+La tuición del Estado comprenderá la higiene y asistencia social, tanto de la madre como del hijo.
+
+#### Artículo 17°
+
+La atención de la mujer y del niño durante los períodos a que se refiere el artículo anterior será gratuita para los indigentes en todos los establecimientos del Servicio Nacional de Salud, conforme lo determine el Reglamento.
+
+#### Artículo 18
+
+Es derecho preferente del hijo ser amamantado directamente por su madre, salvo que por indicación médica o decisión de la madre se resuelva lo contrario.
+
+La leche materna tiene como uso prioritario la alimentación en beneficio del o de los lactantes que sean sus hijos biológicos.
+
+Sin perjuicio de lo anterior, todas las madres podrán donar voluntariamente su leche para el uso o beneficio de los recién nacidos que no tengan posibilidad de ser alimentados por su propia madre o, en los casos en que pudiendo serlo, la leche producida por la madre constituya un riesgo para la salud del lactante. Pero no podrán ser donantes aquellas madres cuya condición ponga en riesgo la integridad e inocuidad de la leche que ha de ser donada.
+
+En ningún caso la donación de leche materna se realizará de forma directa del pecho de la mujer donante a la boca del lactante.
+
+Además, las madres podrán donar su leche materna para uso en programas de estudio, docencia e investigación en universidades, instituciones educacionales e instituciones públicas, las que no podrán hacer uso comercial de sus resultados.
+
+Las donaciones de las que trata este artículo serán gratuitas y no les serán aplicables las disposiciones de los artículos 1137 a 1146 del Código Civil. Asimismo, será nulo, y de ningún valor, el acto o contrato que contenga la promesa de alguna donación de la que trata este artículo.
+
+Las donaciones de las que trata este artículo no podrán causar detrimento alguno al hijo biológico de la madre donante.
+
+#### Artículo 19°
+
+El control de la atención médico-preventiva y dental de los alumnos de los establecimientos fiscales de educación, será efectuada por el Servicio Nacional de Salud.
+
+Los establecimientos particulares de educación deberán mantener, a su costa, un servicio que preste las atenciones antes señaladas de acuerdo con las normas que les fije el Servicio Nacional de Salud.
+
+## Título II
+
+DE LAS ENFERMEDADES TRANSMISIBLES
+
+### Párrafo I
+
+DISPOSICIONES GENERALES
+
+#### Artículo 20°
+
+Todo médico-cirujano que asista a persona que padezca de una enfermedad transmisible sujeta a declaración obligatoria, comunicará por escrito el diagnóstico cierto o probable a la autoridad sanitaria más próxima.
+
+Igual obligación afectará a toda persona que en su casa o establecimiento tuviere uno de dichos enfermos, si no hubiere sido éste atendido por un médico-cirujano; a los directores técnicos de las farmacias que despachen recetas destinadas al tratamiento de estas enfermedades y a quienes dirigen técnicamente los laboratorios clínicos que realicen los exámenes para su confirmación diagnóstica.
+
+#### Artículo 21°
+
+Un reglamento determinará las enfermedades transmisibles que deben ser comunicadas obligatoriamente a las autoridades sanitarias, así como la forma y condiciones de la notificación.
+
+> **Nota.** El Decreto 7, Salud, publicado el 24.01.2020, con vigencia a contar del 23.04.2020, estableció el Reglamento sobre Notificación de Enfermedades Transmisibles de Declaración Obligatoria y su vigilancia.
+
+#### Artículo 22°
+
+Será responsabilidad de la autoridad sanitaria al aislamiento de toda persona que padezca una enfermedad de declaración obligatoria, la cual de preferencia y especialmente en caso de amenaza de epidemia o insuficiencia del aislamiento en domicilio, deberá ser internada en un establecimiento hospitalario u otro local especial para este fin.
+
+#### Artículo 23°
+
+La autoridad sanitaria deberá proveer al médico-cirujano particular que lo solicite, siempre que ello sea posible, de los medios adecuados de diagnóstico para el rápido y eficaz reconocimiento de aquellas enfermedades transmisibles susceptibles de provocar epidemias.
+
+#### Artículo 24°
+
+El Servicio Nacional de Salud podrá inspeccionar y visitar todos los establecimientos e instituciones públicas o particulares que alberguen a grupos de personas, pudiendo adoptar las medidas necesarias para protegerlas de las enfermedades transmisibles, y ordenar, incluso, la clausura del establecimiento, si fuere necesaria.
+
+#### Artículo 25°
+
+Los Directores de los establecimientos educacionales estarán obligados a prohibir temporalmente la asistencia a clase de aquellos alumnos que a juicio de la autoridad sanitaria, presenten peligro de contagio de una enfermedad transmisible. Dicha exclusión cesará cuando el afectado acredite, por medio de certificación médica, no hallarse en estado contagioso.
+
+#### Artículo 26°
+
+Toda persona que hubiere estado en contacto con paciente de enfermedad transmisible, podrá ser sometida por la autoridad sanitaria a observación, aislamiento y demás medidas preventivas que fueren necesarias para evitar la propagación de la enfermedad.
+
+La habitación o local contaminado será, en caso necesario, sometido por la autoridad sanitaria a cualquier procedimiento que permita proteger la salud de sus ocupantes.
+
+#### Artículo 27°
+
+El Servicio Nacional de Salud determinará el período mínimo de aislamiento a que deben someterse los enfermos contagiosos, así como las restricciones a que se sujetarán las personas que sean portadoras de agentes patógenos o las que pudieren encontrarse en el período de incubación de enfermedades transmisibles.
+
+#### Artículo 28°
+
+Todo profesional que trate a una persona que padezca de una enfermedad transmisible deberá ordenar la adecuada desinfección de las excreciones, ropas, utensilios y demás objetos que puedan ser contaminados y transmitir el contagio. En casos especiales, la desinfección podrá ser reemplazada por la incineración, si así lo acordare la autoridad sanitaria.
+
+#### Artículo 29°
+
+El Servicio Nacional de Salud determinará la forma y condiciones en que se efectuará la desinfección, desinsectación o desratización:
+
+a) de las habitaciones o locales destinados a viviendas;
+
+b) de los edificios y locales públicos y privados, como fábricas, talleres, teatros, vehículos de uso público, etc.;
+
+c) de las ropas y de otros artículos usados o que se ofrezcan para la venta, o se presten o arrienden o empeñen;
+
+d) de los residuos domésticos o industriales que pudieran transmitir infecciones o enfermedades parasitarias, y
+
+e) en general, de cualquiera otros sitios u objetos que requieran dichas medidas profilácticas.
+
+#### Artículo 30°
+
+Se prohibe a los laboratorios bacteriológicos privados sin autorización expresa de la autoridad sanitaria, cultivar los microorganismos específicos y los parásitos de las enfermedades transmisibles que no existen en el territorio de la República.
+
+#### Artículo 31°
+
+En caso de peligro de epidemia o cuando ésta se hubiere declarado en cualquier lugar del territorio, el Servicio Nacional de Salud podrá disponer o tomar a su cargo el sacrificio de los animales o la eliminación de los insectos propagadores de la enfermedad, así como el saneamiento de los pantanos y demás lugares en donde la epidemia se ha desarrollado, la protección sanitaria del agua potable y el saneamiento de las aguas corrientes que se utilicen para el riego.
+
+#### Artículo 32°
+
+El Servicio Nacional de Salud tendrá a su cargo la vacunación de los habitantes contra las enfermedades transmisibles.
+
+El Presidente de la República, a propuesta del Director de Salud, podrá declarar obligatoria la vacunación de la población contra las enfermedades transmisibles para los cuales existan procedimientos eficaces de inmunización.
+
+Igualmente, podrá declarar obligatoria la vacunación de los animales contra enfermedades transmisibles al hombre.
+
+El Servicio Nacional de Salud podrá disponer de las medidas necesarias para que, en interés de la salud pública, las autoridades controlen el cumplimiento por parte de los habitantes del territorio nacional de la obligación de vacunarse contra las enfermedades transmisibles en los casos en que tal vacunación sea obligatoria.
+
+#### Artículo 33°
+
+La vacunación y revacunación antivariólica son obligatorias para todos los habitantes de la República, con las excepciones que el Servicio Nacional de Salud determine.
+
+Igualmente, son obligatorias las vacunaciones contra la difteria y la tos ferina, dentro de las edades y en las condiciones que el Servicio Nacional de Salud determine.
+
+En casos especiales, las personas podrán ser eximidas temporalmente de las vacunaciones exhibiendo un certificado médico que lo justifique, el que deberá ser visado por la autoridad sanitaria competente.
+
+#### Artículo 34°
+
+Toda persona mordida, rasguñada o que hubiere podido ser infectada por un animal enfermo o sospechoso de tener rabia, deberá someterse al tratamiento antirrábico que determine el Servicio Nacional de Salud. Dicho tratamiento estará a cargo de ese organismo, el que podrá disponer el examen y la internación obligatoria de las personas que se encuentren en esa situación.
+
+> **Nota.** Véase el Decreto 89, Salud, publicado el 08.01.2003, que contiene el Reglamento sobre Prevención de la Rabia en el Hombre y los Animales.
+
+#### Artículo 35°
+
+Un reglamento especial fijará los requisitos sanitarios que deben cumplir los ferrocarriles, naves, aeronaves o cualquier otro medio de transporte terrestre, fluvial, marítimo o aéreo, que pudiera diseminar enfermedades en el territorio de la República.
+
+#### Artículo 36°
+
+Cuando una parte del territorio se viere amenazada o invadida por una epidemia o por un aumento notable de alguna enfermedad, o cuando se produjeren emergencias que signifiquen grave riesgo para la salud o la vida de los habitantes, podrá el Presidente de la República, previo informe del Servicio Nacional de Salud, otorgar al Director General facultades extraordinarias para evitar la propagación del mal o enfrentar la emergencia.
+
+#### Artículo 37°
+
+Un Reglamento determinará las profesiones u ocupaciones que no podrán desempeñar los pacientes o portadores de gérmenes de enfermedades transmisibles.
+
+### Párrafo II
+
+DE LAS ENFERMEDADES VENEREAS
+
+#### Artículo 38°
+
+El Servicio Nacional de Salud tendrá a su cargo la lucha contra las enfermedades venéreas y procurará evitar su propagación por todos los medios educacionales, preventivos o de otro orden que estime necesarios.
+
+#### Artículo 39°
+
+Un Reglamento establecerá la forma y condiciones en que deba realizarse la educación sexual y antivenérea en los establecimientos educacionales, cuarteles, naves, maestranzas, fábricas, talleres, hospitales, cárceles, casas de corrección y demás establecimientos que fije el Reglamento; y las condiciones en que se podrá examinar, obligar a tratarse o internar para su curación, a las personas que se dediquen al comercio sexual y a las que estén afectadas de males venéreos que constituyan una amenaza para la salud pública.
+
+#### Artículo 40°
+
+Será obligatoria la denuncia al Servicio Nacional de Salud de los casos de enfermedades venéreas que determine el reglamento y también la de los enfermos venéreos contagiosos que se nieguen a seguir el tratamiento necesario.
+
+#### Artículo 41°
+
+Para las personas que se dedican al comercio sexual, se llevará una estadística sanitaria, no permitiéndose su agrupación en prostíbulos cerrados o casas de tolerancia.
+
+La vigilancia del cumplimiento de este artículo corresponderá a las Prefecturas de Carabineros, las que deberán ordenar y llevar a efecto la clausura de los locales en que funcionan dichos prostíbulos, sin perjuicio de las sanciones que imponga el Servicio Nacional de Salud.
+
+Las clausuras realizadas por el Cuerpo de Carabineros no podrán ser alzadas sino a solicitud del propietario del inmueble y por orden judicial expedida por el Juez Letrado en lo Civil de Mayor Cuantía correspondiente, el que resolverá con conocimiento de causa y previo informe del Servicio Nacional de Salud. Dispuesto el alzamiento de la clausura, el inmueble no podrá ser restituido sino a su propietario.
+
+## Título III
+
+DE LOS LABORATORIOS DE SALUD PUBLICA
+
+#### Artículo 42°
+
+El Servicio Nacional de Salud establecerá en los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
+
+> **Nota.** Véase el Capítulo IV, Arts. 35 a 45, del Decreto Ley 2763, Salud, que crea el Instituto de Salud Pública de Chile "Dr. Eugenio Suárez Herreros", como continuador legal, con todos sus derechos y obligaciones, del ex Servicio Nacional de Salud, en lo referente al ex Instituto Bacteriológico de Chile. El Reglamento del Instituto de Salud Publica está contenido en el Decreto 1222, Salud, publicado el 26.08.1997.
+
+#### Artículo 43°
+
+El Instituto Bacteriológico será el Laboratorio Central del Servicio Nacional de Salud y prestará ayuda técnica, asesoramiento y supervigilancia a todos los demás laboratorios de dicho Servicio distribuidos en el país.
+
+Los Servicios de Salud otorgarán su reconocimiento como laboratorios de salud pública a todos aquellos laboratorios que cumplan los requisitos que para este efecto determinará el reglamento.
+
+> **Nota.** La mención al Instituto Bacteriológico como Laboratorio Central del ex Servicio Nacional de Salud, debe entenderse hecha al Instituto de Salud Pública de Chile, dependiente del Ministerio de Salud, como Laboratorio Nacional y de Referencia, de conformidad y para los efectos del Art. 35 del decreto ley 2763, Salud, publicado el 03.08.1979.
+
+#### Artículo 44°
+
+Además de las actividades señaladas en el artículo anterior y las previstas en su ley orgánica, el Instituto podrá, en caso de ausencia o insuficiencia de productos idóneos, fabricar aquellos de carácter biológico destinados al consumo por los Servicios de Salud, los demás servicios públicos o la población en general.
+
+#### Artículo 45°
+
+Las reclamaciones que pudieren deducirse contra los resultados de exámenes o análisis que practiquen en materia sanitaria los laboratorios de los Servicios de Salud, los que éstos utilicen en los diferentes puntos del país o aquellos que hayan obtenido el reconocimiento como laboratorios de salud pública, serán resueltas por el Instituto.
+
+#### Artículo 46°
+
+Corresponderá a los Servicios de Salud la la fiscalización de los laboratorios destinados al diagnóstico de las enfermedades del hombre y al control de factores ambientales y alimentos, como también la fiscalización de los laboratorios de certificación de calidad de éstos.
+
+Para tales efectos, los Servicios de Salud podrán contratar los métodos o procedimientos que consideren técnicamente adecuados, con entidades externas especializadas o con el Instituto.
+
+## Título IV
+
+DE LAS ESTADISTICAS SANITARIAS
+
+#### Artículo 47°
+
+Sin perjuicio de las atribuciones de la Dirección de Estadística y Censo y del Consejo Nacional Consultivo de Salud, el Servicio Nacional de Salud tendrá a su cargo la recolección de aquellos datos estadísticos cuyo conocimiento tenga importancia para la protección, fomento y recuperación de la salud.
+
+#### Artículo 48°
+
+Los Oficiales del Registro Civil estarán obligados a proporcionar semanalmente a la autoridad local del Servicio Nacional de Salud, los datos necesarios para la clasificación y análisis estadístico de los nacidos vivos, fallecidos y de las defunciones fetales ocurridos en ese lapso.
+
+#### Artículo 49°
+
+El Presidente de la República podrá establecer la notificación obligatoria a la autoridad Sanitaria, por las personas señaladas en el artículo 20°, de todas aquellas enfermedades no comprendidas en el Título II de este Libro, cuando dicha información sea necesaria para el Servicio Nacional de Salud.
+
+Cualquiera institución pública, privada o municipal estará obligada a suministrar, dentro del plazo que fije la autoridad sanitaria, los datos estadísticos que solicite el Servicio Nacional de Salud.
+
+#### Artículo 50°
+
+Los Oficiales del Registro Civil deberán dar a conocer de inmediato a la autoridad sanitaria local las defunciones causadas por enfermedades de declaración obligatoria y por aborto.
+
+Este aviso se remitirá por escrito inmediatamente después de practicada la inscripción y en él se expresarán el nombre, sexo, profesión u oficio, nacionalidad, estado civil, la fecha y lugar de la defunción, causa de ésta y el último domicilio del difunto, así como el nombre y domicilio de la persona que haya solicitado la inscripción.
+
+## Título V
+
+DE LA DIVULGACION Y EDUCACION SANITARIA
+
+#### Artículo 51°
+
+El Servicio Nacional de Salud deberá capacitar al individuo y a los grupos sociales mediante acciones educativas, tendientes a compenetrarlos de su responsabilidad en los problemas de salud personal y de la comunidad y para estimular su participación activa en la solución de ellos.
+
+> **Nota.** Véase el Decreto 214, Salud, publicado el 13.09.2001, que dicta normas sobre auspicios y patrocinios del Ministerio de Salud a actividades de difusión en Salud de las personas o del ambiente.
+
+#### Artículo 52°
+
+Las instituciones educacionales y las empresas informativas del Estado o particulares, deberán coordinar los programas que digan relación con salud u otros similares, con los del Servicio, cuando éste lo solicite.
+
+#### Artículo 53°
+
+Queda prohibida cualquiera forma de publicación o propaganda referente a higiene, medicina preventiva o curativa y ramas semejantes que, a juicio del Servicio Nacional de Salud, tienda a engañar al público o a perjudicar la salud colectiva o individual.
+
+#### Artículo 54°
+
+Se considerará que desde el punto de vista sanitario se engaña al público y se perjudican los intereses de la población, cuando por medio de publicaciones, proyecciones y transmisiones o cualquier otro sistema de propaganda audio-visual, se ofrezcan o anuncien los servicios de persona o personas que no están facultadas legalmente para ejercer la medicina y demás ramas relacionadas con la prevención o curación de las enfermedades. Asimismo, no podrán anunciarse como productos medicinales, nutritivos o de utilidad médica sino aquellos que hayan sido autorizados o reconocidos como tales por el Servicio Nacional de Salud.
+
+# Libro II
+
+DE LA PROFILAXIS SANITARIA INTERNACIONAL
+
+## Título I
+
+DEFINICIONES
+
+#### Artículo 55°
+
+Para la aplicación del presente Libro y sus Reglamentos, se entenderá por:
+
+"Aislamiento": la medida consistente en separar una persona o grupo de personas de las demás, con excepción del personal sanitario en servicio, a fin de evitar la propagación de una infección;
+
+"Area local Infectada":
+
+a) un área local en la cual exista un foco de peste, cólera, fiebre amarilla o viruela;
+
+b) un área local en la cual exista una epidemia de tifus o de fiebre recurrente;
+
+c) un área local en la cual exista peste entre los roedores ya sea en tierra o a bordo de embarcaciones portuarias, y
+
+d) un área local o grupo de áreas locales en donde existan las mismas condiciones que en las zonas endémicas de fiebre amarilla.
+
+"Certificado válido": tratándose de vacunación, el certificado expedido en conformidad a los reglamentos.
+
+"Enfermedades sujetas a cuarentena": la peste, el cólera, la fiebre amarilla, la viruela, el tifo exantemático y la fiebre recurrente.
+
+"Epidemia": la extensión de un foco infeccioso o su multiplicación.
+
+"Foco infeccioso": núcleo activo o latente o agentes patógenos en un medio apto para su supervivencia, multiplicación y transmisión, que puede propagar enfermedades infecto-contagiosas.
+
+"Persona infectada": una persona que padece de una enfermedad sujeta a cuarentena o que se presume que está infectada con dicha enfermedad.
+
+"Sospechoso": toda persona que la autoridad sanitaria considere haber estado expuesta al riesgo de ser infectada por una enfermedad sujeta a cuarentena y que puede propagar dicha enfermedad.
+
+"Visita médica": la visita e inspección de una nave, aeronave, tren o vehículo de carretera y el examen preliminar de las personas a bordo, pero no la inspección periódica de una nave hecha con el fin de determinar si hay necesidad de desratización.
+
+"Inspección General Sanitaria": la visita de una autoridad sanitaria de puerto, a las naves mercantes nacionales cada seis meses con el objeto de verificar población marina, fumigación, estado general sanitario del buque, enfermería y equipo médico a bordo.
+
+## Título II
+
+DE LA PROTECCION SANITARIA INTERNACIONAL
+
+#### Artículo 56°
+
+Corresponde al Servicio Nacional de Salud en materia de protección sanitaria internacional:
+
+a) adoptar en los puertos, fronteras y sitios de tránsito o tráfico, medidas contra la introducción al territorio nacional o propagación al extranjero, de enfermedades susceptibles de transmitirse al hombre;
+
+b) recolectar datos estadísticos relativos a la morbilidad de otros países, y
+
+c) estimular el intercambio internacional de informaciones que tengan importancia en el mejoramiento de la salud pública y en el control de las enfermedades propias del hombre.
+
+#### Artículo 57°
+
+Cuando el país está amenazado o invadido por peste, cólera, fiebre amarilla, viruela, tifo exantemático o cualquiera otra enfermedad transmisible, el Servicio Nacional de Salud deberá establecer medidas adecuadas para impedir la transmisión internacional de dichas enfermedades, ya sea que éstas puedan propagarse por medio de pasajeros y tripulación, cargamento, buques, aviones, trenes y vehículos de carreteras, así como por mosquitos, piojos, ratas u otros agentes transmisores de enfermedades.
+
+También podrán adoptarse las medidas sanitarias pertinentes frente al conocimiento del primer caso que se presente en el extranjero de las enfermedades enumeradas en el inciso anterior.
+
+Se comunicará por vía regular a los Gobiernos y al Organismo Internacional correspondiente, la índole y extensión de las medidas sanitarias que se hayan adoptado.
+
+Entre las medidas señaladas en los incisos anteriores, podrá prohibirse el embarque o desembarque de pasajeros, tripulación y carga.
+
+#### Artículo 58°
+
+El Servicio Nacional de Salud en las circunstancias mencionadas en el artículo anterior, publicará las medidas preventivas que los buques u otros medios de transporte, así como los pasajeros y tripulación, deberán tomar en el punto de salida del país infectado. Dicha publicación se comunicará, por vía regular, a los representantes diplomáticos o consulares acreditados por el país infectado, así como a la Oficina Internacional correspondiente.
+
+#### Artículo 59°
+
+El Servicio Nacional de Salud dará a conocer a las naciones extranjeras, la nómina de los puertos del territorio nacional, dotados de útiles y personal necesario para efectuar la desratización de los barcos.
+
+#### Artículo 60°
+
+El Servicio Nacional de Salud informará al Organismo Internacional correspondiente, cuando un área local infectada que no pertenezca a una zona endémica, se encuentra de nuevo libre de infección.
+
+Se considerará que un área local infectada está de nuevo libre de infección cuando se hayan adoptado y mantenido todas las medidas profilácticas para impedir la recurrencia de la enfermedad, y su posible propagación a otras áreas, de acuerdo con el Reglamento respectivo.
+
+#### Artículo 61°
+
+Antes de arribar al primer puerto de escala del territorio nacional, el capitán del buque informará sobre el estado de salud a bordo y, el arribo, llenará y remitirá a la autoridad sanitaria de dicho puerto una Declaración Marítima de Sanidad, que irá refrendada por el médico de a bordo si lo hubiere.
+
+El capitán y el médico de a bordo, si lo hubiere, suministrarán cualquier información complementaria requerida por dicha autoridad respecto a las condiciones sanitarias a bordo durante el viaje.
+
+La Declaración Marítima de Sanidad se hará conforme al modelo especificado en el Reglamento respectivo.
+
+#### Artículo 62°
+
+Siempre que sea posible, las autoridades locales del Servicio Nacional de Salud deberán otorgar libre plática por radio a todo buque o aeronave cuando, basándose en los informes que uno u otro suministre antes de su llegada, la autoridad sanitaria del puerto estime que su arribo no dará lugar a la introducción o propagación de una enfermedad sujeta a cuarentena.
+
+La autoridad sanitaria de un puerto, aeropuerto o puesto fronterizo podrá someter a visita médica a todo buque, aeronave, tren o vehículo de carretera a su llegada, a así como a toda persona que efectúe un viaje internacional.
+
+#### Artículo 63°
+
+El período de detención de las naves, aeronaves, trenes y vehículos de carreteras, para los fines de la inspección o tratamiento, será el más breve posible. Las medidas y formalidades sanitarias se deberán aplicar sin discriminación, iniciar inmediatamente y terminar sin tardanza.
+
+La desinfección, desinsectación y demás operaciones sanitarias deberán ejecutarse de modo que:
+
+a) no causen molestias indebidas a las personas ni daño alguno a su salud;
+
+b) no causen avería alguna a la estructura de la nave, aeronave u otro vehículo o a sus maquinarias y equipos, y
+
+c) se evite todo riesgo de incendio.
+
+Al ejecutar dichas operaciones sobre mercancías, equipajes y demás objetos, se deberán tomar las precauciones necesarias para evitar toda avería.
+
+#### Artículo 64°
+
+Un Reglamento determinará la suma que los buques deberán pagar por los servicios de cuarentena y fumigación, la que en ningún caso excederá del costo, más un 10% del precio de los materiales empleados.
+
+#### Artículo 65°
+
+El Servicio Nacional de Salud notificará al Organismo Internacional que corresponda, por telegrama, dentro de las veinticuatro horas de haber sido informado, que un área local se ha transformado en área infectada.
+
+La existencia de la enfermedad así notificada, deberá comprobarse a la brevedad posible por exámenes de laboratorio y los resultados serán comunicados inmediatamente por telegrama al Organismo Internacional correspondiente.
+
+En el curso de una epidemia, las notificaciones e informaciones prescritas en los incisos anteriores, deberán ser completadas a intervalos regulares, en comunicaciones dirigidas al Organismo Internacional respectivo.
+
+#### Artículo 66°
+
+Un Reglamento de Sanidad Marítima, Aérea y de Frontera establecerá la forma en que se cumplirán las disposiciones de este Libro y en especial las que se relacionan con:
+
+a) las restricciones sanitarias a que deben someterse los inmigrantes y demás personas que deseen entrar al país;
+
+b) el tráfico y tránsito marítimo, lacustre, terrestre y aéreo internacional;
+
+c) los enganches y traslados de trabajadores;
+
+d) la fijación del arancel sanitario, y
+
+e) las restricciones sanitarias que sean indispensables para la conveniente protección de la salud pública y para evitar la propagación de enfermedades de uno a otro país.
+
+> **Nota.** Véase el Decreto 263, Salud, publicado el 24.02.1986, que establece el Reglamento de Sanidad Marítima, Aérea y de la Frontera.
+
+# Libro III
+
+DE LA HIGIENE Y SEGURIDAD DEL AMBIENTE Y DE LOS LUGARES DE TRABAJO
+
+## Título I
+
+NORMAS GENERALES
+
+#### Artículo 67°
+
+Corresponde al Servicio Nacional de Salud velar porque se eliminen o controlen todos los factores, elementos o agentes del medio ambiente que afecten la salud, la seguridad y el bienestar de los habitantes en conformidad a las disposiciones del presente Código y sus reglamentos.
+
+#### Artículo 68°
+
+Un Reglamento contendrá las normas sobre condiciones de saneamiento y seguridad de las ciudades, balnearios, campos y territorios mineros, así como los de todo sitio, edificio, vivienda, establecimiento, local o lugar de trabajo, cualquiera que sea la naturaleza de ellos.
+
+## Título II
+
+DE LA HIGIENE Y SEGURIDAD DEL AMBIENTE
+
+### Párrafo I
+
+DE LAS AGUAS Y DE SUS USOS SANITARIOS
+
+#### Artículo 69°
+
+No podrá iniciarse la construcción o remodelación de una población, sin que el Servicio Nacional de Salud haya aprobado previamente los servicios de agua potable y de alcantarillado o desagües.
+
+Asimismo, ninguna de las viviendas que integran la población podrá ser ocupada antes de que la autoridad sanitaria compruebe que los sistemas instalados se encuentran conformes con los aprobados.
+
+Las Municipalidades no podrán dar permiso de edificación, ni otorgar la recepción final de las construcciones, sin que se cumplan los requisitos señalados en los incisos anteriores.
+
+El Servicio Nacional de Salud podrá ordenar el desalojo de las viviendas que hayan sido ocupadas sin cumplir previamente los requisitos antes señalados.
+
+#### Artículo 70°
+
+Las instalaciones sanitarias de viviendas, industrias o locales de cualquier naturaleza, serán materia de reglamentos especiales que dicte el Presidente de la República, previo informe de la Dirección General de Salud.
+
+#### Artículo 71°
+
+Corresponde al Servicio Nacional de Salud aprobar los proyectos relativos a la construcción, reparación, modificación y ampliación de cualquier obra pública o particular destinada a:
+
+a) la provisión o purificación de agua potable de una población, y
+
+b) la evacuación, tratamiento o disposición final de desagües, aguas servidas de cualquier naturaleza y residuos industriales o mineros.
+
+Antes de poner en explotación las obras mencionadas, ellas deben ser autorizadas por el Servicio Nacional de Salud.
+
+Con todo, no requerirán autorización los proyectos u obras que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+#### Artículo 72°
+
+El Servicio Nacional de Salud ejercerá la vigilancia sanitaria sobre provisiones o plantas de agua destinadas al uso del hombre, como asimismo de las plantas depuradoras de aguas servidas y de residuos industriales o mineros; podrá sancionar a los responsables de infracciones y en casos calificados, intervenir directamente en la explotación de estos servicios, previo decreto del Presidente de la República.
+
+> **Nota.** Véase el Decreto 735, Salud, publicado el 19.12.1969, que aprueba el Reglamento de los Servicios de Agua destinados al consumo humano.
+
+#### Artículo 73°
+
+Prohíbese descargar las aguas servidas y los residuos industriales o mineros en ríos o lagunas, o en cualquier otra fuente o masa de agua que sirva para proporcionar agua potable a alguna población, para riego o para balneario, sin que antes se proceda a su depuración en la forma que se señale en los reglamentos.
+
+Sin perjuicio de lo establecido en el Libro IX de este Código, la autoridad sanitaria podrá ordenar la inmediata suspensión de dichas descargas y exigir la ejecución de sistemas de tratamientos satisfactorios destinados a impedir toda contaminación.
+
+> **Nota.** La referencia al Libro IX original del Código Sanitario debe entenderse hecha al Libro X en virtud de lo dispuesto en el Art. 3° de la LEY 18173, publicada el 15.11.1982, que incorporó un un nuevo Libro IX y reenumeró el anterior.
+
+#### Artículo 74°
+
+No se podrá ejecutar labores mineras en sitios donde se han alumbrado aguas subterráneas en terrenos particulares ni en aquellos lugares cuya explotación pueda afectar el caudal o la calidad natural del agua, sin previa autorización del Servicio Nacional de Salud, el que fijará las condiciones de seguridad y el área de protección de la fuente o caudal correspondiente.
+
+El Servicio Nacional de Salud podrá ordenar en todo caso la paralización de las obras o faenas cuando ellas puedan afectar el caudal o la calidad del agua.
+
+#### Artículo 75°
+
+Prohíbese usar las aguas de alcantarillado, desagües, acequias u otras aguas declaradas contaminadas por la autoridad sanitaria, para la crianza de moluscos y cultivos de vegetales y frutos que suelen ser consumidas sin cocer y crecen a ras de la tierra.
+
+No obstante, estas aguas se podrán usar en el riego agrícola cuando se obtenga la autorización correspondiente del Servicio Nacional de Salud, quien determinará el grado de tratamiento, de depuración o desinfección que sea necesario para cada tipo de cultivo.
+
+Con todo, no requerirán autorización los proyectos que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+> **Nota.** El Decreto 1775, Salud, publicado el 19.07.1995, estableció normas para la aplicación del presente artículo.
+
+#### Artículo 76°
+
+Corresponderá a la autoridad sanitaria autorizar la instalación, ampliación y modificación de los balnearios, baños y piscinas destinados al uso público, como asimismo, vigilar su funcionamiento.
+
+Con todo, no requerirán autorización los proyectos o actividades que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+### Párrafo II
+
+DE LAS VIVIENDAS, LOCALES, CAMPAMENTOS Y DEMAS
+
+#### Artículo 77°
+
+El reglamento comprenderá normas como las que se refieren a:
+
+a) las condiciones de saneamiento previo de los terrenos que se destinarán a nuevas construcciones, de acuerdo con las características y las necesidades higiénicas de la localidad, sin perjuicio de lo dispuesto en las leyes especiales que rijan la materia;
+
+b) la calidad, naturaleza y demás requisitos higiénicos que deberán tener los materiales empleados en las construcciones y reparaciones de casas, edificios y locales;
+
+c) las condiciones sanitarias y de seguridad que deben cumplir una casa, edificio o local, para ser habitada u ofrecidos en arrendamiento y la determinación del número máximo de personas que pueden ocuparlos;
+
+d) las condiciones sanitarias y de seguridad de los locales o sitios en que se efectúen espectáculos públicos y de esparcimiento o recreo, o se alberguen transitoriamente grupos de personas, como ser escuelas, teatro, cines, estadios, carpas, campamentos de verano, de faenas mineras u otras.
+
+e) la prohibición de mantener determinadas especies de animales o el número máximo de ellos que pueden ser tolerados en una casa habitación o en locales públicos o privados, y las condiciones de higiene y seguridad que deben cumplirse para su mantención, y
+
+f) la protección contra insectos, roedores y otros animales capaces de transmitir enfermedades al hombre.
+
+Los métodos que se utilicen para los efectos de lo dispuesto en la letra f) del inciso anterior, deberán ser racionales, tender al mínimo riesgo para la salud de las personas y evitar el sufrimiento innecesario de los animales vertebrados.
+
+> **Nota.** Véase el Decreto 289, Salud, publicado el 13.11.1989, que aprueba el Reglamento sobre Condiciones Sanitarias Mínimas de los Establecimientos Educacionales.
+
+> **Nota.** NOTA 1: Véase el Decreto 301, Salud, publicado el 14.12.1984, que aprueba el Reglamento sobre Condiciones Sanitarias Mínimas en Campings o Campamentos de Turismo.
+
+### Párrafo III
+
+DE LOS DESPERDICIOS Y BASURAS
+
+#### Artículo 78°
+
+El Reglamento fijará las condiciones de saneamiento y seguridad relativas a la acumulación, selección, industrialización, comercio o disposición final de basuras y desperdicios.
+
+#### Artículo 79°
+
+Para proceder a la construcción, reparación, modificación y ampliación de cualquier planta de tratamiento de basuras y desperdicios de cualquier clase, será necesaria la aprobación previa del proyecto por el Servicio Nacional de Salud.
+
+Con todo, no requerirán autorización previa del proyecto las plantas que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+#### Artículo 80°
+
+Corresponde al Servicio Nacional de Salud autorizar la instalación y vigilar el funcionamiento de todo lugar destinado a la acumulación, selección, industrialización, comercio o disposición final de basuras y desperdicios de cualquier clase.
+
+Al otorgar esta autorización, el Servicio Nacional de Salud determinará las condiciones sanitarias y de seguridad que deben cumplirse para evitar molestia o peligro para la salud de la comunidad o del personal que trabaje en estas faenas.
+
+Con todo, no requerirán autorización previa los lugares que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+#### Artículo 81°
+
+Los vehículos y sistemas de transporte de materiales que, a juicio del Servicio Nacional de Salud, puedan significar un peligro o molestia a la población y los de transportes de basuras y desperdicios de cualquier naturaleza, deberán reunir los requisitos que señale dicho Servicio, el que, además, ejercerá vigilancia sanitaria sobre ellos.
+
+## Título III
+
+DE LA HIGIENE Y SEGURIDAD DE LOS LUGARES DE TRABAJO
+
+#### Artículo 82
+
+El reglamento comprenderá normas como las que se refieren a:
+
+a) las condiciones de higiene y seguridad que deben reunir los lugares de trabajo, los equipos, maquinarias, instalaciones, materiales y cualquier otro elemento, con el fin de proteger eficazmente la vida, la salud y bienestar de los obreros y empleados y de la población en general;
+
+b) las medidas de protección sanitaria y de seguridad que deben adoptarse en la extracción, elaboración y manipulación de substancias producidas o utilizadas en los lugares en que se efectúe trabajo humano;
+
+c) las condiciones de higiene y seguridad que deben reunir los equipos de protección personal y la obligación de su uso.
+
+> **Nota.** Véase el Decreto 655, Trabajo, publicado el 07.03.1941, que fija el Reglamento General de Higiene y Seguridad Industriales. Véase también el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
+
+#### Artículo 83°
+
+Las Municipalidades no podrán otorgar patentes definitivas para la instalación, ampliación o traslado de industrias, sin informe previo de la autoridad sanitaria sobre los efectos que ésta puede ocasionar en el ambiente.
+
+Para evacuar dicho informe, la autoridad sanitaria tomará en cuenta los planos reguladores comunales o intercomunales y los riesgos que el funcionamiento de la industria pueda causar a sus trabajadores, al vecindario y a la comunidad.
+
+No obstante lo dispuesto en el inciso anterior, la autoridad sanitaria informará favorablemente una determinada actividad industrial, siempre que la evaluación sanitaria ambiental que se realice para evacuar el informe, determine que técnicamente se han controlado todos los riesgos asociados a su funcionamiento.
+
+#### Artículo 84°
+
+El Servicio Nacional de Salud podrá disponer el traslado de aquellas industrias o depósitos de materiales que, a su juicio, representen un peligro para la salud, seguridad y bienestar de la población.
+
+La autoridad sanitaria no podrá exigir el traslado antes del plazo de un año, contado desde la fecha de la notificación.
+
+#### Artículo 85°
+
+Los planos reguladores comunales o intercomunales no podrán ser aprobados sin previo informe favorable del Servicio Nacional de Salud, respecto a las materias de que trata el presente título.
+
+#### Artículo 86
+
+Corresponderá a los Servicios de Salud, dentro del territorio de su competencia, otorgar la autorización previa para que puedan funcionar en él, instalaciones radiactivas, entendiéndose por tales aquellas en que se produzcan, traten, manipulen, almacenen o utilicen materiales radiactivos o equipos que generen radiaciones ionizantes.
+
+La producción, fabricación, adquisición, posesión, uso, manipulación, almacenamiento, importación, exportación, distribución, venta, transporte, abandono o desecho de sustancias radiactivas que se utilicen o mantengan en las instalaciones radiactivas o en los equipos generadores de radiaciones ionizantes, deberán ser autorizados por dichos Servicios. Les corresponderá, asimismo, el control de las instalaciones radiactivas y de los equipos generadores de radiaciones ionizantes; y la prevención de los riesgos derivados del uso y aplicación de las sustancias radiactivas y de las radiaciones ionizantes, respecto de las personas expuestas, del elemento que las genera y del medio ambiente.
+
+Las personas que se desempeñen en las instalaciones radiactivas, utilizando o manipulando sustancias radiactivas u operando equipos o aparatos generadores de radiaciones ionizantes, deberán tener autorización del Servicio de Salud correspondiente.
+
+> **Nota.** Los incisos 2° y 3° del Art. 67 de la LEY 18302, publicada el 02.05.1984, sobre Seguridad Nuclear, complementan esta disposición estableciendo que: "corresponderá a los Servicios de Salud, conforme a las disposiciones del Código Sanitario, la autorización y el control de la aplicación y el manejo de las sustancias radiactivas en instalaciones radiactivas o en equipos generadores de radiaciones ionizantes, y la prevención de los riesgos derivados de su uso y manipulación. Sin embargo, competerá a la Comisión Chilena de Energía Nuclear la autorización, el control y la prevención de riesgos respecto de las instalaciones radiactivas que se encuentren dentro de una instalación nuclear, y de las que, conforme al reglamento, sean declaradas de primera categoría."
+
+> **Nota.** NOTA 1: Véanse el Decreto 133, Salud, publicado el 23.08.1984, que establece el Reglamento sobre Autorizaciones para Instalaciones Radiactivas, personal que se desempeña en ellas y otras actividades afines; y el Decreto 3, Salud, publicado el 25.04.1985, que aprueba el Reglamento para la Protección Radiológica de Instalaciones Radioactivas.
+
+#### Artículo 87°
+
+El Servicio Nacional de Salud tendrá a su cargo la recopilación y análisis de los datos estadísticos referentes a los accidentes y enfermedades profesionales, los que le deberán ser proporcionados por el empleador, en la forma y con la periodicidad que él señale.
+
+Las enfermedades profesionales serán notificadas por el médico que las constate, en la forma y condiciones que el Servicio Nacional de Salud establezca.
+
+También, deberá notificar las afecciones que puedan derivarse de intoxicaciones producidas por el uso de plaguicidas o productos fitosanitarios.
+
+#### Artículo 88°
+
+Corresponde exclusivamente al Servicio Nacional de Salud determinar en cada caso las incapacidades permanentes debidas a accidentes del trabajo o enfermedades profesionales.
+
+## Título IV
+
+DE OTROS FACTORES DE RIESGO
+
+### Párrafo I
+
+DE LA CONTAMINACION DEL AIRE Y DE LOS RUIDOS Y VIBRACIONES
+
+#### Artículo 89°
+
+El Reglamento comprenderá normas como las que se refieren a:
+
+a) la conservación y pureza del aire y evitar en él la presencia de materias u olores que constituyan una amenaza para la salud, seguridad o bienestar del hombre o que tengan influencia desfavorable sobre el uso y goce de los bienes.
+
+La reglamentación determinará, además, los casos y condiciones en que podrá ser prohibida o controlada la emisión a la atmósfera de dichas substancias;
+
+b) la protección de la salud, seguridad y bienestar de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario y de la población en general, así como la de los animales domésticos y de los bienes, contra los perjuicios, peligros e inconvenientes de carácter mental o material que provengan de la producción de ruidos, vibraciones o trepidaciones molestos, cualquiera que sea su origen.
+
+> **Nota.** Véase el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
+
+> **Nota.** NOTA 1: Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza; y el Decreto 61, Salud, publicado el 19.11.2008, que aprueba el Reglamento de estaciones de medición de contaminantes atmosféricos.
+
+> **Nota.** NOTA 2: Véase el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
+
+### Párrafo II
+
+DE LAS SUBSTANCIAS TOXICAS O PELIGROSAS PARA LA SALUD
+
+#### Artículo 90°
+
+El Reglamento fijará las condiciones en que podrá realizarse la producción, importación, expendio, tenencia, transporte, distribución, utilización y eliminación de las substancias tóxicas y productos peligrosos de carácter corrosivo o irritante, inflamable o comburente; explosivos de uso pirotécnico y demás sustancias que signifiquen un riesgo para la salud, la seguridad o el bienestar de los seres humanos y animales.
+
+Los productos señalados en el inciso anterior no podrán ser importados o fabricados en el país, sin autorización previa de la Dirección General de Salud.
+
+El Director General de Salud queda facultado para controlar y prohibir en casos calificados el expendio de tales substancias y productos, cuyo uso indiscriminado pueda dar origen a accidentes o intoxicaciones, así como para decomisarlos si las circunstancias lo requieren.
+
+#### Artículo 91°
+
+Sin perjuicio de lo dispuesto en el artículo anterior, un reglamento establecerá las condiciones en que se podrá realizar la fabricación, importación, almacenamiento, envase, distribución, o expendio a cualquier título, manipulación, formulación, uso o aplicación, de los pesticidas para uso sanitario y doméstico, así como la manipulación de los que puedan afectar la salud del hombre.
+
+Un reglamento establecerá la forma en que tendrán lugar las fumigaciones aéreas; las condiciones y restricciones de seguridad para la salud de las personas; la forma y oportunidad en que deba informarse de su realización a los trabajadores y vecinos, y las medidas de resguardo necesarias para evitar el acceso del público y de los trabajadores al lugar afectado en los plazos que, al efecto, determine la Autoridad Sanitaria.
+
+#### Artículo 92°
+
+Todo producto destinado a ser aplicado en el medio ambiente con el objeto de combatir organismos capaces de producir daños en el hombre, animales, plantas, semillas y objetos inanimados será considerado pesticida.
+
+Un reglamento establecerá los requisitos y las condiciones de seguridad que deban cumplir los establecimientos de expendio de pesticidas.
+
+#### Artículo 93°
+
+Ningún pesticida podrá ser importado o fabricado en el país sin autorización del Director General de Salud, debiendo obtenerse para su venta y distribución a cualquier título, el correspondiente registro.
+
+Exceptúanse de esta prohibición las muestras que se importen destinadas a obtener su registro, en las cantidades que determine el reglamento.
+
+# Libro Cuarto
+
+DE LOS PRODUCTOS FARMACÉUTICOS, ALIMENTICIOS, COSMÉTICOS Y ARTÍCULOS DE USO MÉDICO
+
+## Título I
+
+De los productos farmacéuticos
+
+#### Artículo 94
+
+Corresponderá al Ministerio de Salud velar por el acceso de la población a medicamentos o productos farmacéuticos de calidad, seguridad y eficacia, lo que llevará a cabo por sí mismo, a través de sus Secretarías Regionales Ministeriales y de los organismos que se relacionan con el Presidente de la República por su intermedio.
+
+El Ministerio de Salud aprobará un Formulario Nacional de Medicamentos que contendrá la nómina de medicamentos esenciales identificados conforme a su denominación común internacional, forma farmacéutica, dosis y uso indicado, que constituirá el arsenal farmacoterapéutico necesario para la eficiente atención de la población, considerando su condición de salud y enfermedades prevalentes y que servirá de base para determinar los petitorios mínimos con que deberán contar los establecimientos de expendio de productos farmacéuticos. Mediante resolución del Ministro de Salud se aprobarán las monografías de cada medicamento incluido en el listado.
+
+Corresponderá a la Central de Abastecimiento del Sistema Nacional de Servicios de Salud velar por la adecuada disponibilidad de medicamentos en el sector y arbitrar las medidas que al respecto le indique el Ministerio.
+
+#### Artículo 95
+
+Se entenderá por producto farmacéutico o medicamento cualquier substancia natural, biológica, sintética o las mezclas de ellas, originada mediante síntesis o procesos químicos, biológicos o biotecnológicos, que se destine a las personas con fines de prevención, diagnóstico, atenuación, tratamiento o curación de las enfermedades o sus síntomas o de regulación de sus sistemas o estados fisiológicos particulares, incluyéndose en este concepto los elementos que acompañan su presentación y que se destinan a su administración.
+
+Queda prohibida la fabricación, importación, tenencia, distribución y transferencia, a cualquier título, de medicamentos adulterados, falsificados, alterados o contaminados. Las autoridades sanitarias señaladas en el artículo 5° que detecten la existencia de medicamentos que revistan las condiciones anotadas estarán facultadas para su inmediato decomiso, cualquiera sea el sitio o local en el que se encuentren, sin perjuicio de la instrucción del sumario sanitario pertinente y la eventual aplicación de las sanciones que de ello se deriven.
+
+#### Artículo 96
+
+El Instituto de Salud Pública de Chile será la autoridad encargada en todo el territorio nacional del control sanitario de los productos farmacéuticos, de los establecimientos del área y de fiscalizar el cumplimiento de las disposiciones que sobre esta materia se contienen en este Código y sus reglamentos.
+
+Corresponderá asimismo a este Instituto, de oficio o a petición de parte, resolver el régimen de control sanitario que pudiere ser aplicable a determinadas substancias o productos, conforme a sus características o finalidad perseguida.
+
+Contra las actuaciones y resoluciones que adopte el Director del Instituto en el ejercicio de sus funciones en relación con las materias a que se refiere este Código, con excepción de las sentencias recaídas en los sumarios sanitarios de su competencia, podrá interponerse recurso de reclamación ante el Ministro de Salud, dentro del plazo de cinco días contado desde la fecha de notificación de la respectiva resolución.
+
+Mediante uno o más reglamentos, expedidos por el Presidente de la República a través del Ministerio de Salud, se determinarán las normas sanitarias que, de conformidad con las disposiciones de este Código, regulen la importación, internación, exportación, producción, elaboración, fraccionamiento, almacenamiento, tenencia, transporte, distribución a título gratuito u oneroso, expendio, farmacovigilancia, trazabilidad, publicidad, promoción o información profesional, uso médico o en investigación científica de productos farmacéuticos.
+
+La reglamentación que se dicte al efecto contendrá, además, las normas que permitan garantizar la calidad del producto en todas las actividades señaladas precedentemente, según corresponda, sin perjuicio de la responsabilidad que en esta materia recaerá sobre la entidad pública o privada que desarrolle la actividad de que se trate, la que deberá implementar un adecuado sistema para su aseguramiento.
+
+Los requisitos de calidad exigibles al producto estarán determinados por su registro sanitario, teniendo como referencia las farmacopeas oficialmente reconocidas en el país, mediante la correspondiente resolución ministerial.
+
+#### Artículo 97
+
+El Instituto de Salud Pública de Chile llevará un registro de todos los productos farmacéuticos evaluados favorablemente en cuanto a su eficacia, seguridad y calidad que deben demostrar y garantizar durante el período previsto para su uso. Ningún producto farmacéutico podrá ser distribuido en el país sin que haya sido registrado.
+
+Los productos farmacéuticos destinados exclusivamente a la exportación se someterán al procedimiento de registro sanitario que determine el reglamento que se dicte al efecto, considerando su composición, especificaciones técnicas, rotulado y buenas prácticas de manufactura.
+
+Corresponderá al Ministerio de Salud pronunciarse en forma previa a la cancelación del registro de un medicamento. Tratándose de la cancelación de un registro, el Instituto deberá comunicar a su titular la solicitud de informe dirigida al Ministerio de Salud. El Instituto no podrá cancelar el registro sanitario frente a un pronunciamiento negativo del Ministerio al respecto, sin perjuicio de los recursos administrativos y judiciales que procedan por parte del titular del registro u otros interesados.
+
+#### Artículo 98
+
+Los productos estupefacientes, psicotrópicos y demás substancias que produzcan efectos análogos se regirán por los reglamentos específicos que al efecto se dicten, los cuales abordarán su registro sanitario, la importación, internación, exportación, circulación, producción, elaboración, fraccionamiento, almacenamiento, tenencia, transporte, distribución a título gratuito u oneroso, expendio o venta, farmacovigilancia y trazabilidad, publicidad, promoción o información profesional, uso médico o en investigación científica y otras actuaciones que requieran resguardos especiales, todo lo cual se sujetará a los tratados y convenios internacionales suscritos y vigentes en Chile y a las disposiciones de este Código.
+
+Cuando lo requiera la debida protección de la salud pública, por decreto fundado del Presidente de la República, expedido a través del Ministerio de Salud previo informe del Instituto de Salud Pública de Chile, podrán aplicarse todas o algunas de las normas reglamentarias señaladas en el inciso anterior a otras substancias o productos, cuyo uso o consumo indiscriminado pudiere generar un riesgo o daño al usuario.
+
+#### Artículo 99
+
+Sin perjuicio de lo dispuesto en el artículo 97, el Instituto de Salud Pública de Chile podrá autorizar provisionalmente la distribución, venta o expendio y uso de productos farmacéuticos sin previo registro, para ensayos clínicos u otro tipo de investigaciones científicas, como asimismo para usos medicinales urgentes derivados de situaciones de desabastecimiento o inaccesibilidad que puedan afectar a las personas consideradas individual o colectivamente. Con todo, no se podrá desarrollar un protocolo de investigación en medicamentos no registrados o para nuevos usos en medicamentos registrados sin un informe favorable del Comité Ético Científico que corresponda.
+
+La Central de Abastecimiento del Sistema Nacional de Servicios de Salud podrá solicitar ante el Instituto el registro sanitario de productos farmacéuticos contemplados en planes, programas o acciones de salud que se lleven a cabo en dicho Sistema, así como de aquellos que sean necesarios para el cumplimiento de sus funciones y facultades. Dicho registro autorizará la distribución de los productos y no obstará a su libre comercialización por parte de terceros.
+
+#### Artículo 100
+
+La venta al público de productos farmacéuticos sólo podrá efectuarse previa presentación de la receta del profesional habilitado que los prescribe, salvo aquellos medicamentos que se autoricen para su venta directa en el respectivo registro sanitario.
+
+La publicidad y demás actividades destinadas a dar a conocer al consumidor un producto farmacéutico sólo estarán permitidas respecto de medicamentos de venta directa y en los términos establecidos en el respectivo registro sanitario y conforme a lo señalado en los artículos 53 y 54 de este Código.
+
+La promoción del producto farmacéutico destinada a los profesionales habilitados para su prescripción, dentro de las indicaciones de utilidad terapéutica del respectivo registro sanitario, no podrá efectuarse a través de medios de comunicación social dirigidos al público en general. Dicha promoción podrá incluir la entrega de muestras médicas a estos profesionales en los términos dispuestos en los respectivos registros, para ser proporcionados, a título gratuito, a las personas que utilizan sus servicios.
+
+Prohíbese la donación de productos farmacéuticos realizada con fines publicitarios, como asimismo los incentivos de cualquier índole que induzcan a privilegiar el uso, prescripción, dispensación, venta o administración de uno o más productos farmacéuticos a cualquier persona. Con todo, el Ministerio de Salud, mediante decreto supremo fundado, podrá incluir dentro de esta prohibición algunos elementos de uso médico.
+
+Se entenderá por incentivo cualquier pago, regalo, servicio o beneficio económico entregado o realizado a las personas, por parte de laboratorios farmacéuticos, droguerías, importadores o distribuidores de medicamentos o establecimientos farmacéuticos, por quienes los representen o, en general, por quienes tengan algún interés en que se privilegie el uso de uno o más productos o dispositivos.
+
+Los titulares de registros, permisos o autorizaciones sanitarias, los establecimientos del área de la salud y cualquier persona natural o jurídica que participe en la producción, distribución, intermediación, comercialización, expendio o administración de productos farmacéuticos, alimentos especiales o elementos de uso médico, podrán financiar, total o parcialmente, transferir o entregar, a título gratuito o a precios preferentes, esta clase de productos a los pacientes que los requieran, sujeto a las regulaciones legales, caso en el cual el beneficiario tendrá derecho a continuar percibiendo el beneficio otorgado, en iguales o mejores condiciones, mientras subsista la utilidad terapéutica del producto de que se trate.
+
+Con todo, esta restricción no impide la aplicación de beneficios otorgados al consumidor final a través de convenios, prestaciones de bienestar, acuerdos colectivos u otros similares que signifiquen rebajas o descuentos en los precios en forma genérica y que, en ningún caso, impliquen el incentivo del que trata el presente artículo.
+
+Sin perjuicio de lo señalado en los incisos anteriores, se permitirá la donación de productos farmacéuticos a establecimientos asistenciales sin fines de lucro, siempre que aquellos se encuentren comprendidos en el Formulario Nacional de Medicamentos.
+
+Los medicamentos deberán presentarse en envases que dificulten a los menores su ingesta no asistida y no podrán tener forma de dulces, golosinas, confites, figuras, juguetes o cualquier otra que promueva su consumo, según se determine en el respectivo reglamento.
+
+> **Nota.** El Art. 2° de la ley 20895, publicada el 26.01.2016, interpreta el auténtico sentido y alcance de los incisos cuarto y quinto del presente artículo 100, modificado por la ley Nº 20.850, declarando que la prohibición de incentivos que induzcan a privilegiar el uso de determinado producto farmacéutico constituye una proscripción absoluta, que afecta a los incentivos dirigidos a uno o más productos, conjunta o separadamente.
+
+#### Artículo 100 bis
+
+Los medicamentos de venta directa deberán presentarse en envases que contengan en su exterior la indicación terapéutica necesaria para adoptar la decisión de compra y asegurar una adecuada administración, en conformidad a lo que señale el reglamento.
+
+Los envases deberán contar con sellos que permitan verificar si el contenido ha sido manipulado.
+
+#### Artículo 101
+
+La receta es el instrumento privado mediante el cual el profesional habilitado para prescribir indica a una persona identificada y previamente evaluada, como parte integrante del acto médico y por consiguiente de la relación clínica, el uso y las condiciones de empleo de un producto farmacéutico individualizado por su denominación de fantasía, debiendo agregar, a modo de información, la denominación común internacional que autorizará su intercambio, en caso de existir medicamentos bioequivalentes certificados, en los términos del inciso siguiente.
+
+Si el medicamento prescrito es de aquellos que deben demostrar bioequivalencia según decreto supremo fundado, el químico farmacéutico, a solicitud del paciente, dispensará alguno de los productos que, siendo bioequivalentes del prescrito, hayan demostrado tal exigencia en conformidad a los requisitos contenidos en el respectivo decreto supremo expedido a través del Ministerio de Salud, los que deberán ajustarse a la normativa de la Organización Mundial de la Salud.
+
+Si el medicamento prescrito es de aquellos que no requieren demostrar bioequivalencia, el químico farmacéutico lo dispensará conforme a la receta médica.
+
+Será obligación de los establecimientos de expendio poner a disposición de quien requiera la dispensación de un medicamento, un listado de los productos que deben demostrar bioequivalencia de acuerdo al decreto señalado precedentemente.
+
+Asimismo, será obligación de los referidos establecimientos de expendio contar con un petitorio farmacéutico, en los términos indicados en el artículo 94 de este Código, el cual será aprobado mediante resolución del Ministro de Salud, indicando los medicamentos que deban obligatoriamente ponerse a disposición del público. Esta exigencia incluirá todos los medicamentos que, conteniendo el mismo principio activo y dosis por forma farmacéutica, hayan demostrado su bioequivalencia, todo ello conforme a las normas reglamentarias establecidas a través del Ministerio de Salud.
+
+La prescripción indicará asimismo el período de tiempo determinado para el tratamiento total, o a repetir periódicamente, según lo indicado por el profesional que la emitió.
+
+La receta profesional deberá ser extendida en documento gráfico o electrónico cumpliendo con los requisitos y resguardos que determine la reglamentación pertinente y será entregada a la persona que la requirió o a un tercero cuando aquella lo autorice. El reglamento establecerá al menos los elementos técnicos que impidan o dificulten la falsificación o la sustitución de la receta, tales como el uso de formularios impresos y foliados, código de barras u otros. Si es manuscrita deberá extenderse con letra imprenta legible. En caso alguno la utilización de receta electrónica podrá impedir que el paciente pueda utilizar este instrumento en el establecimiento farmacéutico que libremente prefiera, pudiendo siempre exigir la receta en documento gráfico.
+
+La prescripción de los productos a que se refiere el artículo 98 se regirá por las regulaciones contenidas en la reglamentación específica que sea aplicable a los mismos.
+
+La receta y su contenido, los análisis y exámenes de laboratorios clínicos y los servicios prestados relacionados con la salud serán reservados y considerados datos sensibles sujetándose a lo establecido en la ley N° 19.628.
+
+Lo dispuesto en este artículo no obsta a que las farmacias puedan dar a conocer, para fines estadísticos, las ventas de productos farmacéuticos de cualquier naturaleza, incluyendo la denominación y cantidad de ellos. En ningún caso la información que proporcionen las farmacias consignará el nombre de las personas destinatarias de las recetas, ni el de los médicos que las expidieron, ni datos que sirvan para identificarlos.
+
+El propietario, el director técnico y el auxiliar de la farmacia en que se expenda un medicamento diferente del indicado en la receta, contraviniendo lo dispuesto en el presente artículo, serán sancionados conforme a lo dispuesto en el Libro Décimo.
+
+En los casos en que se emita receta electrónica, ésta deberá constar en un documento electrónico suscrito por parte del facultativo autorizado en esta ley según lo dispuesto en el reglamento.
+
+El reglamento establecerá las situaciones y casos en que se podrá exceptuar la aplicación de lo dispuesto en el inciso primero, tales como ruralidad, ubicación geográfica, disponibilidad tecnológica u otras situaciones de similar naturaleza.
+
+## Título II
+
+De los productos alimenticios
+
+### Párrafo I
+
+DE LOS PRODUCTOS ALIMENTICIOS EN GENERAL
+
+#### Artículo 102
+
+Se entenderá por alimentos o productos alimenticios cualquier substancia o mezcla de substancias destinadas al consumo humano, incluyendo las bebidas y todos los ingredientes y aditivos de dichas substancias.
+
+Se considerarán alimentos especiales aquellos productos o preparados destinados al consumo humano con fines particulares de nutrición, utilizados en el tratamiento de determinadas patologías o condiciones de salud, que requieran de modalidades de administración no parenteral, tales como la vía oral u otras, y de supervigilancia especial por personal del área de la salud.
+
+#### Artículo 103
+
+Corresponderá a la Secretaría Regional Ministerial de Salud autorizar y fiscalizar, dentro de su territorio de competencia, la instalación de los locales destinados a la producción, elaboración, envase, almacenamiento, distribución y venta de alimentos y de los mataderos y frigoríficos, públicos y particulares.
+
+Corresponderá asimismo a dicha autoridad realizar, directamente o mediante delegación a entidades públicas o privadas idóneas o a profesionales calificados, la inspección médico-veterinaria de los animales que se beneficien y de las carnes.
+
+Con todo, no requerirán la autorización previa a que se refiere el inciso primero los locales que determine el respectivo reglamento, de conformidad con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+#### Artículo 104
+
+Los productos alimenticios deberán responder a sus caracteres organolépticos y, en su composición química y características microbiológicas, a sus nomenclaturas y denominaciones legales y reglamentarias.
+
+Se prohíbe la fabricación, importación, tenencia, distribución y transferencia, a cualquier título, de productos alimenticios contaminados, adulterados, falsificados o alterados.
+
+#### Artículo 105
+
+El reglamento determinará las características que deberán reunir los alimentos o productos alimenticios destinados al consumo humano, las condiciones sanitarias a las que deberá ceñirse su producción, importación, internación, elaboración, envase, rotulación, almacenamiento, distribución y venta, las condiciones especiales de uso, si fuere del caso, las de vigilancia de los alimentos especiales y los demás requisitos sanitarios que deberán cumplir los establecimientos, medios de transporte y distribución destinados a dichos fines.
+
+### Párrafo II
+
+DE LA LECHE Y LOS PRODUCTOS LÁCTEOS
+
+#### Artículo 105 bis
+
+Leche es la secreción mamaria normal exenta de calostro de animales lecheros, obtenida mediante una o más ordeñas, sin ningún tipo de adición o extracción, destinada al consumo en forma de leche líquida o a elaboración ulterior.
+
+La leche se clasifica en:
+
+a) Leche cruda: es aquella que no ha pasado por el proceso de pasteurización, tratamiento a ultra alta temperatura UHT o esterilización. Deberá ser sometida a enfriamiento de acuerdo a lo establecido en el Reglamento Sanitario de los Alimentos.
+
+b) Leche natural: es aquella que ha sido sometida a estandarización de su contenido de materia grasa y a procesos térmicos utilizados para eliminar agentes patógenos, tales como pasteurización, tratamiento UHT o esterilización. No será considerada como leche natural la reconstituida ni la recombinada.
+
+c) Leche reconstituida: es el producto obtenido por adición de agua potable a la leche concentrada o a la leche en polvo, en proporción tal que cumpla los requisitos sanitarios y características establecidas en el Reglamento Sanitario de los Alimentos, y su contenido de materia grasa corresponda a alguno de los tipos de leche señalados en el referido reglamento. Deberá ser pasteurizada, sometida a tratamiento UHT o esterilizada.
+
+d) Leche recombinada: es el producto obtenido de la mezcla de leche descremada, grasa de leche y agua potable, en proporción tal que cumpla los requisitos sanitarios y características establecidas en el Reglamento Sanitario de los Alimentos, y su contenido de materia grasa corresponda a alguno de los tipos de leche señalados en el referido reglamento. Deberá ser pasteurizada, sometida a tratamiento UHT o esterilizada.
+
+#### Artículo 105 ter
+
+La expresión "leche", sin otra denominación, es el producto de la ordeña de la vaca. Las leches de otros animales deberán denominarse según la especie de que proceden, como también los productos que de ellas deriven.
+
+Se prohíbe catalogar y etiquetar como leche natural a las leches que se enmarquen en las definiciones de los literales a), c) y d) del artículo 105 bis.
+
+Asimismo, se prohíbe catalogar y etiquetar como leche a un producto que no sea de origen animal y que no cumpla con lo establecido en el inciso primero de este artículo y en el artículo 105 bis.
+
+#### Artículo 105 quáter
+
+Las botellas o envases de leche líquida y en polvo que se vendan al público deberán contener una etiqueta o rótulo en su parte frontal y cerca de la marca, que señale en forma clara la denominación y naturaleza de la leche, según lo establecido en el inciso segundo del artículo 105 bis.
+
+En caso de que la leche no provenga de la vaca, se deberá indicar, en la parte frontal de la botella o envase y al lado de la palabra leche, el nombre de la especie de la que procede.
+
+La leche líquida que se venda al público compuesta por una mezcla de distintos tipos de leche, de acuerdo a la clasificación del inciso segundo del artículo 105 bis, en la etiqueta o rotulado frontal del envase o botella deberá indicar los tipos de leche que la componen.
+
+Las botellas o envases de leche líquida y en polvo, en su parte frontal, deberán señalar en una etiqueta o rótulo el nombre del país de ordeña junto a la imagen de su respectiva bandera. En caso de que se venda mezcla de leches de distintos países, deberá indicarse que se integra por leche extranjera, señalando los nombres de los países de ordeña junto a las imágenes de sus respectivas banderas.
+
+Adicionalmente, se deberá indicar el nombre y domicilio del fabricante o importador de la leche contenida en el respectivo envase o botella.
+
+En las botellas o envases de leche líquida y en polvo se deberá indicar, de manera clara, expresa y legible, la tecnología o tratamiento térmico primario utilizado para eliminar agentes patógenos en la leche, tales como, pasteurización, tratamiento a ultra alta temperatura UHT o esterilización. En caso de otros procedimientos térmicos, estos deberán ser informados mediante un código de respuesta rápida, Código QR, u otro medio electrónico de lectura de información equivalente, estampado en la botella o envase.
+
+En los envases o botellas deberán indicarse los componentes naturales de la leche que hayan sido reemplazados total o parcialmente o aquellos que hubieran sido adicionados, en conformidad a lo establecido en el Reglamento Sanitario de los Alimentos. Además, se deberá indicar el porcentaje de leche natural que contiene la leche de acuerdo a las definiciones establecidas en la presente ley y en el referido reglamento.
+
+La leche reconstituida se rotulará en el cuerpo del envase como "Elaborada con leche en polvo o concentrada" o a la inversa según sea el componente predominante, entera, parcialmente descremada o descremada, según corresponda, con caracteres de igual tamaño, realce y visibilidad, con indicación de pasteurizada, tratamiento UHT, esterilizada, según sea el caso. Se deberá indicar, además, la fecha de vencimiento o plazo de duración.
+
+#### Artículo 105
+
+quinquies.- Producto lácteo es aquel obtenido mediante cualquier elaboración de la leche, que puede contener aditivos alimentarios y otros ingredientes funcionalmente necesarios para la elaboración.
+
+Queso es el producto madurado o sin madurar, sólido o semisólido, obtenido coagulando leches descremadas, parcialmente descremadas, crema, crema de suero, suero de queso o suero de mantequilla debidamente pasteurizado o una combinación de estas materias, por la acción de cuajo u otros coagulantes apropiados, tales como enzimas específicas o ácidos orgánicos permitidos, y separando parcialmente el suero que se produce como consecuencia de tal coagulación.
+
+Bebida láctea es el producto elaborado con base en leche, con un mínimo de 30% de leche en el producto final, tal como se consume de acuerdo a las definiciones de leche líquida y en polvo, y a sus características y clasificaciones señaladas en la presente ley y en el Reglamento Sanitario de los Alimentos. Podrá tener agregados de otros ingredientes alimentarios, tales como nutrientes, factores alimentarios y aditivos permitidos. La bebida láctea se podrá presentar líquida lista para el consumo o en polvo para reconstituir con un líquido apropiado antes del consumo.
+
+#### Artículo 105
+
+sexies.- Las botellas o envases de productos que se enmarquen en la definición del inciso primero del artículo 105 quinquies deberán contener una etiqueta o rótulo en su parte frontal y cerca de la marca, que señale en forma clara el nombre del producto lácteo según se establece en el Reglamento Sanitario de los Alimentos. Se deberá indicar, además, el nombre del país o países de ordeña de la leche con la cual ha sido elaborado el producto junto a la imagen de su respectiva bandera, y el tipo de leche utilizada en su elaboración de acuerdo a las definiciones contenidas en la presente ley y en el referido reglamento.
+
+En el caso que en la fabricación de queso se emplee leche líquida que no sea de vaca, deberá indicarse en el cuerpo del envase, de forma visible y destacada, la especie de donde procede la leche, así como también cuando se empleen mezclas de leches.
+
+En toda elaboración de queso en que se utilice leche en polvo deberá indicarse en el cuerpo del envase, con letra legible y bajo el nombre del producto la frase "elaborado con leche reconstituida" o "elaborado con leche recombinada", según sea el caso.
+
+Las botellas o envases de productos que se enmarquen en la definición del inciso tercero del artículo 105 quinquies deberán contener una etiqueta o rótulo en su parte frontal y cerca de la marca, que señale en forma clara su denominación "bebida láctea" y el porcentaje de leche que contiene.
+
+#### Artículo 105
+
+septies.- Los procesadores de leche deberán contar con un registro del origen y cantidad de leche reconstituida, recombinada, procesada y comercializada, y de la cantidad de producto lácteo utilizado para su producción.
+
+#### Artículo 105
+
+octies.- Las plantas elaboradoras de leche reconstituida o mezcla de leche reconstituida, leche recombinada y leche natural, así como sus correspondientes procesos de elaboración, deberán ser aprobados por la autoridad sanitaria, debiendo contar con la dirección técnica de un profesional universitario y un laboratorio especializado.
+
+En el caso de las mezclas de leche natural y leche en polvo reconstituida o recombinada, se deberán archivar en la planta elaboradora las constancias analíticas de las materias primas utilizadas en cada partida.
+
+#### Artículo 105
+
+nonies.- Las infracciones al presente párrafo serán sancionadas de acuerdo a lo establecido en el Libro X de este Código.
+
+#### Artículo 105
+
+decies.- Los casos que no estén expresamente regulados en este párrafo, se regirán por las normas del presente Código y por las contenidas en el Reglamento Sanitario de los Alimentos, en cuanto fuere procedente.
+
+## Título III
+
+De los productos cosméticos y productos de higiene y odorización personal
+
+#### Artículo 106
+
+Producto cosmético es cualquier preparado que se destine a ser aplicado externamente al cuerpo humano, con fines de embellecimiento, modificación de su aspecto físico o conservación de las condiciones fisicoquímicas normales de la piel y de sus anexos, que tenga solamente acción local o que de ser absorbido en el organismo carezca de efecto sistémico.
+
+Se denominan productos de higiene personal u odoríficos, aquellos que se apliquen a la superficie del cuerpo o a la cavidad bucal, con el exclusivo objeto de procurar su aseo u odorización.
+
+#### Artículo 107
+
+Para su distribución en el territorio nacional, todo producto cosmético deberá contar con registro sanitario otorgado por el Instituto de Salud Pública de Chile.
+
+#### Artículo 108
+
+La internación y la producción en el país de productos de higiene y odorización personal deberán ser notificadas al Instituto para que éste ejerza sus facultades de control respecto de su composición, en cuanto al uso al que se destinan y de las instalaciones en que se producen. Asimismo, los establecimientos en que se fabrican, que estén instalados en el territorio nacional, quedan sujetos a la obligación de notificar al Instituto y sujetos a su control.
+
+Se prohíbe la fabricación, importación, tenencia, distribución y transferencia, a cualquier título, de productos cosméticos, de higiene y odorización personal, adulterados, falsificados, alterados o contaminados.
+
+Se prohíbe, a su vez, el uso de animales para la realización de pruebas de seguridad y eficacia de productos cosméticos, de higiene y odorización personal, y de todos y cada uno de sus ingredientes, combinación de ingredientes o formulaciones finales. A efectos de garantizar la protección de la salud humana, de conformidad con las normas de este Código, los fabricantes deberán utilizar métodos alternativos de pruebas que no involucren animales para demostrar la seguridad y eficacia de productos cosméticos, de higiene y odorización personal y de todos y cada uno de sus ingredientes, combinación de ingredientes o formulaciones finales, reconocidos por el Instituto de Salud Pública o por la Organización para la Cooperación y el Desarrollo Económico.
+
+Asimismo, se prohíbe la venta, comercialización, importación e introducción en el mercado nacional de productos cosméticos, de higiene y odorización personal cuyos ingredientes, combinación de ingredientes o formulaciones finales hubiesen sido probados en animales para demostrar su seguridad y eficacia, con posterioridad a la entrada en vigencia de la ley.
+
+Excepcionalmente, las prohibiciones establecidas en los incisos tercero y cuarto no se aplicarán a las pruebas en animales si es solicitado, requerido o realizado por el Instituto de Salud Pública, en el ejercicio de sus atribuciones, luego de demostrar por medio de resolución fundada que, para ingredientes, combinación de ingredientes o formulaciones finales de un producto cosmético, de higiene u odorización personal, se cumplen las siguientes condiciones copulativas:
+
+1. Que no exista método o estrategia alternativa al uso de animales reconocida por el Instituto de Salud Pública o por la Organización para la Cooperación y el Desarrollo Económico para demostrar los parámetros de seguridad.
+
+2. Que los ingredientes estén sujetos a restricción en su concentración para uso cosmético. Estos ingredientes son enlistados en la base de datos de ingredientes cosméticos utilizada por el Instituto de Salud Pública.
+
+3. Que el ingrediente cosmético se use ampliamente y no pueda ser reemplazado por otro ingrediente capaz de cumplir con una función similar.
+
+Ninguna evidencia científica nueva derivada de pruebas en animales podrá ser utilizada para establecer la seguridad o eficacia de un producto cosmético, de higiene y odorización, o de sus ingredientes, combinación de ingredientes o formulaciones finales, a menos que cumpla con los siguientes requisitos:
+
+a) Que, en el caso de un ingrediente, no exista método o estrategia alternativa al uso de animales reconocida por el Instituto de Salud Pública o por la Organización para la Cooperación y el Desarrollo Económico para los parámetros de seguridad de dicho ingrediente.
+
+b) Que exista evidencia documentada de que las pruebas de seguridad y eficacia de un ingrediente no se realizaron con el fin de elaborar productos cosméticos, de higiene u odorización personal, junto con un historial de al menos un año de uso de un ingrediente fuera de la industria cosmética, antes de la dependencia de dichos datos o testeos.
+
+c) Que los datos obtenidos provengan de una prueba con animales autorizada, excepcionalmente, en conformidad con lo dispuesto en el inciso anterior.
+
+Los productores podrán usar en los envases o envoltorios la etiqueta o logo "libre de crueldad" o "no testeado en animales", para informar a los consumidores que el producto cosmético, sus ingredientes, combinación de ingredientes o formulaciones finales no han sido probados en animales, según las especificaciones que señala el reglamento.
+
+Los productos cosméticos, de higiene u odorización personal no podrán utilizar envases o etiquetas con el logo "libre de crueldad", "no testeado en animales" o alguna leyenda similar, si:
+
+i. El producto, sus ingredientes, combinación de ingredientes o formulaciones finales fueron probados en animales para establecer seguridad y eficacia con posterioridad a la entrada en vigencia de la ley, independientemente de si la prueba fue contratada por el fabricante o por otro productor en la cadena de producción, o
+
+ii. El fabricante se basó en evidencias o datos de las pruebas a la que se refiere el numeral i. de este inciso para demostrar la seguridad o eficacia del producto, sus ingredientes, combinación de ingredientes o formulaciones finales.
+
+Las infracciones a las disposiciones contenidas en este artículo serán sancionadas de conformidad con lo dispuesto en el Título III del Libro Décimo, con excepción de lo dispuesto en los incisos séptimo y octavo, lo cual se sancionará conforme lo dispone el artículo 24 de la ley Nº 19.496, que Establece Normas sobre Protección de los Derechos de los Consumidores, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 3, de 2019, del Ministerio de Economía, Fomento y Turismo.
+
+#### Artículo 109
+
+Mediante uno o más reglamentos expedidos por el Presidente de la República a través del Ministerio de Salud, se determinarán las normas sanitarias que regulen el registro, importación, internación, exportación, producción, almacenamiento, tenencia, venta o distribución a cualquier título y la publicidad de los productos cosméticos y de higiene y odorización personal.
+
+A los productos cosméticos que la reglamentación califique de bajo riesgo les serán aplicables las normas de notificación y vigilancia establecidas para los productos de higiene y odorización personal señalados en el artículo anterior.
+
+#### Artículo 110
+
+Corresponderá al Instituto de Salud Pública de Chile autorizar la instalación de los laboratorios que fabriquen cosméticos y fiscalizar su funcionamiento, conforme a las disposiciones reglamentarias aludidas en el artículo anterior.
+
+Los laboratorios de producción cosmética deberán ser dirigidos técnicamente por un químico farmacéutico y deberán contar con un sistema de control de calidad independiente, a cargo de otro químico farmacéutico.
+
+La elaboración de productos cosméticos destinados exclusivamente a la exportación, por cuenta propia o ajena, deberá ser realizada en laboratorios de producción cosmética autorizados y será notificada al Instituto. Dicha notificación incluirá la individualización del exportador, del fabricante y la fórmula cualitativa del producto, la cual no deberá estar compuesta por ingredientes prohibidos por la reglamentación vigente.
+
+## Título IV
+
+De los elementos de uso médico
+
+#### Artículo 111
+
+Los instrumentos, aparatos, dispositivos y otros artículos o elementos destinados al diagnóstico, prevención y tratamiento de enfermedades de seres humanos, así como al reemplazo o modificación de sus anatomías y que no correspondan a las substancias descritas en los artículos 95, inciso primero, 102 y 106 deberán cumplir con las normas y exigencias de calidad que les sean aplicables según su naturaleza, en conformidad con las siguientes disposiciones:
+
+a) Las personas naturales o jurídicas que, a cualquier título, fabriquen, importen, comercialicen o distribuyan tales elementos deberán realizar el respectivo control y certificación de su calidad en servicios, instituciones, laboratorios o establecimientos con autorización sanitaria expresa, otorgada por el Instituto de Salud Pública de Chile, de conformidad con lo dispuesto en el artículo 7º.
+
+El reglamento deberá establecer las condiciones de equipamiento y demás recursos de que deberán disponer los establecimientos, así como también la forma en que se solicitará y otorgará esta autorización. Las entidades controladoras y certificadoras cuyas solicitudes sean denegadas o no contestadas dentro del plazo a que se refiere el inciso segundo del artículo 7º podrán reclamar ante el Ministro de Salud, de conformidad con lo establecido en el inciso tercero del artículo 96.
+
+b) El Instituto de Salud Pública de Chile será el organismo encargado de autorizar y fiscalizar a las entidades que realicen el referido control y certificación, debiendo, a falta de organismos privados que desarrollen dichas tareas, ejecutarlas por sí mismo.
+
+c) Los controles y pruebas de calidad que deban efectuarse en virtud de lo dispuesto en las letras anteriores se sujetarán a las especificaciones técnicas fijadas por las normas oficiales chilenas del Instituto Nacional de Normalización aprobadas por el Ministerio de Salud y, a falta de éstas, por las que apruebe el Ministerio de Salud, a proposición del mencionado Instituto y sobre la base de la información generada por organismos internacionales o entidades extranjeras especializadas.
+
+Las personas naturales o jurídicas cuyos instrumentos, aparatos, dispositivos, artículos o elementos sean rechazados por el control de calidad de una entidad autorizada podrán reclamar ante el Director del Instituto de Salud Pública de Chile. Recibido el reclamo, se pondrá en conocimiento de la entidad que objetó la conformidad del elemento, la que deberá informar y remitir todos los antecedentes que tenga en su poder dentro del plazo de diez días hábiles contado desde la recepción de la comunicación, vencido el cual, aun sin el informe y antecedentes solicitados, el Director del Instituto podrá resolver el reclamo.
+
+d) Por decreto fundado, expedido a través del Ministerio de Salud, se hará efectiva la aplicación de las disposiciones de este artículo a las diferentes clases o tipos de instrumentos, aparatos, dispositivos, artículos y elementos de que se trata, a proposición del Instituto de Salud Pública de Chile. El decreto indicará las especificaciones técnicas a que se sujetará el control de calidad, aprobadas con arreglo a la letra c) y las entidades que cuentan con autorización oficial para ejecutarlo o la inexistencia de interesados en obtener esta autorización.
+
+e) Será competente para instruir el sumario sanitario y sancionar las infracciones a estas disposiciones la Secretaría Regional Ministerial de Salud en cuyo territorio se cometan.
+
+f) Los elementos que se comercialicen o distribuyan a cualquier título sin contar con el certificado de calidad establecido en esta disposición serán decomisados, sin perjuicio de las demás medidas que pueda adoptar la autoridad sanitaria.
+
+g) La destinación aduanera de estos elementos se sujetará a las disposiciones de la ley Nº 18.164 y su uso y disposición deberán ser autorizados por el Instituto de Salud Pública de Chile.
+
+El costo de las certificaciones será de cargo de las personas naturales o jurídicas que las soliciten.
+
+## Título V
+
+DE LOS ENSAYOS CLÍNICOS DE PRODUCTOS FARMACÉUTICOS Y ELEMENTOS DE USO MÉDICO
+
+#### Artículo 111
+
+A.- Los productos farmacéuticos y los elementos de uso médico para ser utilizados en investigaciones científicas en seres humanos deberán contar con una autorización especial para su uso provisional, otorgada por el Instituto de Salud Pública conforme al presente Libro.
+
+La autorización especial para uso provisional con fines de investigación se requerirá para todo producto farmacéutico o dispositivo médico, sea porque no cuenten con el respectivo registro sanitario o bien, contando con éste, se pretenda su utilización de manera distinta a la registrada. Con todo, el Ministerio de Salud podrá establecer, mediante decreto supremo, la exención de esta exigencia a los elementos de uso médico cuya utilización no conlleve un riesgo relevante para las personas.
+
+Para efectuar la solicitud de autorización especial para uso provisional con fines de investigación, el solicitante deberá presentar, previa aprobación conforme a lo dispuesto en el artículo 10 de la ley Nº20.120, el protocolo de investigación, el formato de consentimiento informado, la póliza de seguros y todo otro antecedente que establezca el reglamento.
+
+Esta autorización especial no podrá tener una duración mayor a un año, contado desde la fecha de la resolución que la concede, y podrá ser renovada por períodos iguales y sucesivos, siempre que cumpla con los requisitos establecidos en este Código, en la ley Nº20.120 y en los respectivos reglamentos.
+
+Los productos farmacéuticos y elementos de uso médico que cuenten con autorización especial para uso provisional con fines de investigación sólo podrán ser destinados al uso que la misma autorización determine, quedando prohibida su tenencia, distribución y transferencia a cualquier título o su uso de manera distinta a la registrada.
+
+El Instituto de Salud Pública deberá llevar un registro público de todas las investigaciones científicas en seres humanos con productos farmacéuticos o elementos de uso médicos autorizadas para realizarse en el país, con las menciones que señale el reglamento. Dicho registro estará sujeto a las disposiciones del artículo 7º del artículo primero de la ley Nº20.285, sobre Acceso a la Información Pública.
+
+#### Artículo 111
+
+B.- El titular de la autorización, la entidad patrocinante, el investigador principal y el respectivo centro donde se realice la investigación serán responsables de notificar al Instituto de Salud Pública y al Comité Ético Científico que corresponda, en el plazo y según la forma que establezca el reglamento respectivo, de las reacciones adversas y los eventos adversos producidos con ocasión del estudio. Asimismo, serán responsables del cumplimiento de las normas sobre farmacovigilancia y tecnovigilancia conforme al reglamento.
+
+Un reglamento dictado a través del Ministerio de Salud regulará las materias de las que trata el presente artículo.
+
+#### Artículo 111
+
+C.- El paciente sujeto de ensayo clínico tendrá derecho a que, una vez terminado éste, el titular de la autorización especial para uso provisional con fines de investigación y, con posterioridad en su caso, el titular del registro sanitario del producto sanitario de que se trate, le otorgue sin costo para el paciente la continuidad del tratamiento por todo el tiempo que persista su utilidad terapéutica, conforme al protocolo de investigación respectivo.
+
+Esta obligación afectará al titular del registro sanitario, aun cuando no haya sido el titular de la autorización provisional o haya adquirido con posterioridad el registro sanitario.
+
+#### Artículo 111
+
+D.- Todo centro donde se realice investigación de productos farmacéuticos y elementos de uso médico en seres humanos deberá estar acreditado por el Instituto de Salud Pública, conforme a los estándares, exigencias y procedimientos que establezca el reglamento.
+
+La misma autoridad será competente para la fiscalización del cumplimiento de los protocolos de investigación, de los consentimientos informados, de las buenas prácticas clínicas, de las notificaciones de reacciones adversas y de eventos adversos y, en general, del cumplimiento de la normativa relacionada con esta materia.
+
+El Instituto de Salud Pública tendrá libre acceso a la información relacionada con la investigación. Toda obligación de reserva contemplada en protocolos, o convenciones y documentos en general, será inoponible a esa autoridad. Toda disposición en contravención a esta ley contenida en los referidos protocolos, convenciones y documentos es nula, sin perjuicio de la aplicación de las disposiciones contenidas en los artículos 89 y 91, letra b), de la ley Nº19.039, de Propiedad Industrial, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº3, de 2006, del Ministerio de Economía, Fomento y Reconstrucción.
+
+#### Artículo 111
+
+E.- Los titulares de las autorizaciones para uso provisional con fines de investigación serán responsables por los daños que causen con ocasión de la investigación, aunque estos se deriven de hechos o circunstancias que no se hubieren podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica, existentes en el momento de producirse los daños.
+
+Asimismo, acreditado el daño, se presumirá que éste se ha producido con ocasión de la investigación.
+
+La acción para perseguir esta responsabilidad prescribirá en el plazo de diez años, contado desde la manifestación del daño. No obstante, en caso de decretarse una alerta sanitaria con ocasión de una epidemia o pandemia y durante la vigencia de ésta, dicho plazo se contará desde el término del respectivo ensayo, cuando se trate de investigaciones que tengan por objeto el desarrollo de productos farmacéuticos y dispositivos médicos destinados a enfrentar las circunstancias que sirvieron de fundamento al decreto de alerta sanitaria.
+
+#### Artículo 111
+
+F.- Será obligación de los titulares de las autorizaciones especiales para uso provisional para fines de investigación de productos farmacéuticos y,o elementos de uso médico contar con una póliza de seguro por responsabilidad civil, conforme al reglamento que se dicte a través del Ministerio de Salud.
+
+A través de un decreto supremo del Ministerio de Salud se establecerá la clase de los elementos de uso médico para cuya investigación será obligatoria la presentación de pólizas de seguro.
+
+#### Artículo 111
+
+G.- Las infracciones de lo dispuesto en el presente Título serán sancionadas conforme a las normas del Libro Décimo de este Código y a las contenidas en la ley Nº20.120, sobre la investigación científica en el ser humano, su genoma, y prohíbe la clonación humana.
+
+## Título VI
+
+DE LA RESPONSABILIDAD POR PRODUCTOS SANITARIOS DEFECTUOSOS
+
+#### Artículo 111
+
+H.- Se entenderá por productos sanitarios los regulados en los Títulos I, II y IV de este Libro.
+
+Se entenderá por producto sanitario defectuoso aquél que no ofrezca la seguridad suficiente, teniendo en cuenta todas las circunstancias ligadas al producto y, especialmente, su presentación y el uso razonablemente previsible.
+
+Asimismo, un producto es defectuoso si no ofrece la misma seguridad normalmente ofrecida por los demás ejemplares de la misma serie.
+
+Un producto no podrá ser considerado defectuoso por el solo hecho de que tal producto se ponga posteriormente en circulación de forma perfeccionada.
+
+#### Artículo 111
+
+I.- Todo daño causado por el uso de un producto sanitario defectuoso dará lugar a las responsabilidades civiles y penales, según corresponda.
+
+Serán responsables de los daños los titulares de los registros o autorizaciones, los fabricantes y los importadores, según corresponda. Las personas responsables del daño lo serán solidariamente ante los perjudicados. El que hubiere respondido ante el perjudicado tendrá derecho a repetir frente a los otros responsables, según su participación en la producción del daño.
+
+La Central de Abastecimiento del Sistema Nacional de Servicios de Salud, en su calidad de órgano de la Administración del Estado, responderá en su caso, conforme a las reglas establecidas en el Título III de la ley Nº19.966, que establece un régimen de garantías en salud, pudiendo siempre repetir contra las personas señaladas en el inciso anterior. El plazo de prescripción para ejercer esta acción será de cinco años.
+
+#### Artículo 111
+
+J.- El perjudicado que pretenda obtener la reparación de los daños causados tendrá que probar el defecto, el daño y la relación de causalidad entre ambos.
+
+En los ensayos clínicos, acreditado el daño, se presumirá que éste se ha producido con ocasión de la investigación.
+
+#### Artículo 111
+
+K.- El demandado no podrá eximirse de responsabilidad alegando que los daños ocasionados por un producto sanitario defectuoso se originan de hechos o circunstancias que no se previeron según el estado de los conocimientos científicos o técnicos existentes en el momento de su puesta en circulación o uso.
+
+#### Artículo 111
+
+L.- La acción de reparación de los daños y perjuicios previstos en este Título prescribirá a los cinco años contados desde la manifestación del daño, ya sea por el defecto del producto o por el daño que dicho defecto le ocasionó. La acción de repetición del que hubiese satisfecho la indemnización contra todos los demás responsables del daño prescribirá en el plazo de dos años contado desde el día de su pago.
+
+La acción para el resarcimiento de los daños producidos con ocasión de un ensayo clínico prescribirá en el plazo establecido en el artículo 111 E.
+
+#### Artículo 111
+
+M.- Los fabricantes e importadores de los productos sanitarios deberán contar con un seguro, aval o garantía financiera equivalente, para responder de los daños sobre la salud derivados de problemas de seguridad de los mismos, en los términos que establezca el reglamento.
+
+#### Artículo 111
+
+N.- El ejercicio de las acciones jurisdiccionales para la reparación de los daños de que trata este Título se regirá por lo dispuesto en el Párrafo II del Título III de la ley Nº 19.966.
+
+Para estos efectos, forman parte de la Red Asistencial de la que trata el artículo 17 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud, los prestadores que hayan celebrado un convenio con el Fondo Nacional de Salud para el otorgamiento de prestaciones cuya cobertura se encuentra a su cargo.
+
+Asimismo, las reclamaciones por productos defectuosos o daños causados con ocasión de un ensayo clínico se presentarán ante la entidad establecida en el artículo 44 de la ley Nº 19.966 y se regirán por el procedimiento establecido en dicha norma.
+
+# Libro V
+
+DEL EJERCICIO DE LA MEDICINA Y PROFESIONES AFINES
+
+#### Artículo 112°
+
+Sólo podrán desempeñar actividades propias de la medicina, odontología, química y farmacia u otras relacionadas con la conservación y restablecimiento de la salud, quienes poseen el título respectivo otorgado por la Universidad de Chile u otra Universidad reconocida por el Estado y estén habilitados legalmente para el ejercicio de sus profesiones.
+
+Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un Reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
+
+No obstante lo dispuesto en el inciso primero, con la autorización del Director General de Salud podrán desempeñarse como médicos, dentistas, químico-farmacéuticos o matronas en barcos, islas o lugares apartados, aquellas personas que acreditaren título profesional otorgado en el extranjero.
+
+#### Artículo 113°
+
+Se considera ejercicio ilegal de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma directa o indirecta, por personas que no están legalmente autorizadas para el ejercicio de la medicina.
+
+No obstante lo dispuesto en el inciso anterior, quienes cumplan funciones de colaboración médica, podrán realizar algunas de las actividades señaladas, siempre que medie indicación y supervigilancia médica. Asimismo, podrán atender enfermos en caso de accidentes súbitos o en situaciones de extrema urgencia cuando no hay médico-cirujano alguno en la localidad o habiéndolo, no sea posible su asistencia profesional.
+
+Los servicios profesionales del psicólogo comprenden la aplicación de principios y procedimientos psicológicos que tienen por finalidad asistir, aconsejar o hacer psicoterapia a las personas con el propósito de promover el óptimo desarrollo potencial de su personalidad o corregir sus alteraciones o desajustes. Cuando estos profesionales presten sus servicios a personas que estén mentalmente enfermas, deberán poner de inmediato este hecho en conocimiento de un médico especialista y podrán colaborar con éste en la atención del enfermo.
+
+Los servicios profesionales de la enfermera comprenden la gestión del cuidado en lo relativo a promoción, mantención y restauración de la salud, la prevención de enfermedades o lesiones, y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
+
+> **Nota.** Véanse los artículos 313 a, 313 b y 313 c del Código Penal, agregados por la Ley N° 17.155.
+
+#### Artículo 113 bis
+
+Sin perjuicio de lo establecido en el artículo anterior, el tecnólogo médico con mención en oftalmología podrá detectar los vicios de refracción ocular a través de su medida instrumental, mediante la ejecución, análisis, interpretación y evaluación de pruebas y exámenes destinados a ese fin.
+
+Para los fines señalados en el inciso anterior y con el objeto de tratar dichos vicios, el tecnólogo médico con mención en oftalmología podrá prescribir, adaptar y verificar lentes ópticos, prescribir y administrar los fármacos del área oftalmológica de aplicación tópica que sean precisos, y controlar las ayudas técnicas destinadas a corregir vicios de refracción. Podrá, asimismo, detectar alteraciones del globo ocular y disfunciones visuales, a fin de derivar oportunamente al médico cirujano especialista que corresponda.
+
+Quienes cuenten con el título de optómetra obtenido en el extranjero podrán desarrollar las actividades a que se refiere este artículo, siempre que convaliden ante la Universidad de Chile sus actividades curriculares de conformidad con lo dispuesto en el decreto con fuerza de ley Nº 3, de 2007, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 153, de 1982, del Ministerio de Educación Pública, Estatutos de la Universidad de Chile.
+
+Cuando estos profesionales presten sus servicios a personas que, al ser examinadas, evidencien la presencia de patologías locales o sistémicas, deberán derivar de inmediato al paciente a un médico cirujano con especialización en oftalmología. Con todo, el tecnólogo médico podrá participar junto al referido médico cirujano en la atención del enfermo para su rehabilitación, si así se requiriese.
+
+#### Artículo 114°
+
+Prohíbese a una misma persona ejercer conjuntamente las profesiones de médico-cirujano y las de farmacéutico, químico-farmacéutico o bío-químico.
+
+#### Artículo 115°
+
+Los cirujano-dentistas sólo podrán prestar atenciones odonto-estomatológicas. Podrán, asimismo, adquirir o prescribir los medicamentos necesarios para dichos fines, de acuerdo al Reglamento que dicte el Director General de Salud.
+
+#### Artículo 116°
+
+Los laboratoristas dentales sólo podrán ejercer sus actividades a indicación de cirujano-dentistas, quedándoles prohibido ejecutar trabajos en la cavidad bucal.
+
+> **Nota.** Véase el Decreto 1967, Salud, publicado el 29.08.1997, que establece el Reglamento de Laboristas dentales y de laboratorios dentales.
+
+#### Artículo 117°
+
+Los servicios profesionales de la matrona comprenden la atención del embarazo, parto y puerperio normales y la atención del recién nacido, como, asimismo, actividades relacionadas con la lactancia materna, la planificación familiar, la salud sexual y reproductiva y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
+
+En la asistencia de partos, sólo podrán intervenir mediante maniobras en que se apliquen técnicas manuales y practicar aquellos procedimientos que signifiquen atención inmediata de la parturienta.
+
+Podrán indicar, usar y prescribir sólo aquellos medicamentos que el reglamento clasifique como necesarios para la atención de partos normales y, en relación con la planificación familiar y la regulación de la fertilidad, prescribir métodos anticonceptivos, tanto hormonales -incluyendo anticonceptivos de emergencia- como no hormonales, y desarrollar procedimientos anticonceptivos que no impliquen uso de técnicas quirúrgicas, todo ello en conformidad a la ley Nº 20.418.
+
+#### Artículo 118°
+
+Los consultorios de matronas podrán ser destinados al control de la evolución del embarazo y quedarán incluidas en la reglamentación sobre maternidades particulares.
+
+#### Artículo 119
+
+Mediando la voluntad de la mujer, se autoriza la interrupción de su embarazo por un médico cirujano, en los términos regulados en los artículos siguientes, cuando:
+
+1) La mujer se encuentre en riesgo vital, de modo que la interrupción del embarazo evite un peligro para su vida.
+
+2) El embrión o feto padezca una patología congénita adquirida o genética, incompatible con la vida extrauterina independiente, en todo caso de carácter letal.
+
+3) Sea resultado de una violación, siempre que no hayan transcurrido más de doce semanas de gestación. Tratándose de una niña menor de 14 años, la interrupción del embarazo podrá realizarse siempre que no hayan transcurrido más de catorce semanas de gestación.
+
+En cualquiera de las causales anteriores, la mujer deberá manifestar en forma expresa, previa y por escrito su voluntad de interrumpir el embarazo. Cuando ello no sea posible, se aplicará lo dispuesto en el artículo 15, letras b) y c), de la ley Nº 20.584, que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud, sin perjuicio de lo dispuesto en los incisos siguientes. En el caso de personas con discapacidad sensorial, sea visual o auditiva, así como en el caso de personas con discapacidad mental psíquica o intelectual, que no hayan sido declaradas interdictas y que no puedan darse a entender por escrito, se dispondrá de los medios alternativos de comunicación para prestar su consentimiento, en concordancia con lo dispuesto en la ley Nº 20.422 y en la Convención sobre los Derechos de las Personas con Discapacidad.
+
+Si la mujer ha sido judicialmente declarada interdicta por causa de demencia, se deberá obtener la autorización de su representante legal, debiendo siempre tener su opinión en consideración, salvo que su incapacidad impida conocerla.
+
+Tratándose de una niña menor de 14 años, además de su voluntad, la interrupción del embarazo deberá contar con la autorización de su representante legal, o de uno de ellos, a elección de la niña, si tuviere más de uno. A falta de autorización, entendiendo por tal la negación del representante legal, o si éste no es habido, la niña, asistida por un integrante del equipo de salud, podrá solicitar la intervención del juez para que constate la ocurrencia de la causal. El tribunal resolverá la solicitud de interrupción del embarazo sin forma de juicio y verbalmente, a más tardar dentro de las cuarenta y ocho horas siguientes a la presentación de la solicitud, con los antecedentes que le proporcione el equipo de salud, oyendo a la niña y al representante legal que haya denegado la autorización. Si lo estimare procedente, podrá también oír a un integrante del equipo de salud que la asista.
+
+Cuando a juicio del médico existan antecedentes para estimar que solicitar la autorización del representante legal podría generar a la menor de 14 años, o a la mujer judicialmente declarada interdicta por causa de demencia, un riesgo grave de maltrato físico o psíquico, coacción, abandono, desarraigo u otras acciones u omisiones que vulneren su integridad, se prescindirá de tal autorización y se solicitará una autorización judicial sustitutiva. Para efectos de este inciso la opinión del médico deberá constar por escrito.
+
+La autorización judicial sustitutiva regulada en los incisos anteriores será solicitada al juez con competencia en materia de familia del lugar donde se encuentre la menor de 14 años o la mujer judicialmente declarada interdicta por causa de demencia. El procedimiento será reservado y no será admitida oposición alguna de terceros distintos del representante legal que hubiere denegado la autorización. La resolución será apelable y se tramitará según lo establecido en el artículo 69, inciso quinto, del Código Orgánico de Tribunales.
+
+La voluntad de interrumpir el embarazo manifestada por una adolescente de 14 años y menor de 18 deberá ser informada a su representante legal. Si la adolescente tuviere más de uno, sólo se informará al que ella señale.
+
+Si a juicio del equipo de salud existen antecedentes que hagan deducir razonablemente que proporcionar esta información al representante legal señalado por la adolescente podría generar a ella un riesgo grave de maltrato físico o psíquico, coacción, abandono, desarraigo u otras acciones u omisiones que vulneren su integridad, se prescindirá de la comunicación al representante y, en su lugar, se informará al adulto familiar que la adolescente indique y, en caso de no haberlo, al adulto responsable que ella señale.
+
+En el caso de que la adolescente se halle expuesta a alguno de los riesgos referidos en el inciso anterior, el jefe del establecimiento hospitalario o clínica particular deberá informar al tribunal con competencia en materia de familia que corresponda, para que adopte las medidas de protección que la ley establece.
+
+El prestador de salud deberá proporcionar a la mujer información veraz sobre las características de la prestación médica, según lo establecido en los artículos 8 y 10 de la ley Nº 20.584. Asimismo, deberá entregarle información verbal y escrita sobre las alternativas a la interrupción del embarazo, incluyendo la de programas de apoyo social, económico y de adopción disponibles. La información será siempre completa y objetiva, y su entrega en ningún caso podrá estar destinada a influir en la voluntad de la mujer. No obstante lo anterior, el prestador de salud deberá asegurarse de que la mujer comprende todas las alternativas que tiene el procedimiento de interrupción, antes de que éste se lleve a cabo, y de que no sufra coacción de ningún tipo en su decisión.
+
+En el marco de las tres causales reguladas en el inciso primero, la mujer tendrá derecho a un programa de acompañamiento, tanto en su proceso de discernimiento, como durante el período siguiente a la toma de decisión, que comprende el tiempo anterior y posterior al parto o a la interrupción del embarazo, según sea el caso. Este acompañamiento incluirá acciones de acogida y apoyo biopsicosocial ante la confirmación del diagnóstico y en cualquier otro momento de este proceso. En caso de continuación del embarazo, junto con ofrecer el apoyo descrito, se otorgará información pertinente a la condición de salud y se activarán las redes de apoyo. Este acompañamiento sólo podrá realizarse en la medida que la mujer lo autorice, deberá ser personalizado y respetuoso de su libre decisión. En el caso de concurrir la circunstancia descrita en el número 3) del inciso primero, se proveerá a la mujer de la información necesaria para que pueda presentar una denuncia.
+
+En la situación descrita en el número 2) del inciso primero, el prestador de salud proporcionará los cuidados paliativos que el caso exija, tanto si se trata del parto como de la interrupción del embarazo con sobrevivencia del nacido.
+
+Las prestaciones incluidas en el programa de acompañamiento a las mujeres que se encuentren en alguna de las tres causales serán reguladas por un decreto de las autoridades a que se refiere la letra b) del artículo 143 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud. Asimismo, se establecerán los criterios para la confección de un listado de instituciones sin fines de lucro que ofrezcan apoyo adicional al programa de acompañamiento, el que deberá ser entregado de acuerdo al inciso undécimo. La madre podrá siempre solicitar que el acompañamiento a que tiene derecho le sea otorgado por instituciones u organizaciones de la sociedad civil, las que deberán estar acreditadas mediante decreto supremo dictado por el Ministerio de Salud, todo ello conforme a un reglamento dictado al efecto. La mujer podrá elegir libremente tanto la entidad como el programa de acompañamiento que estime más adecuado a su situación particular y convicciones personales.
+
+En el caso de que el acompañamiento no sea ofrecido en los términos regulados en este artículo, la mujer podrá recurrir a la instancia de reclamo establecida en el artículo 30 de la ley Nº 20.584. Ante este reclamo, el prestador de salud deberá dar respuesta por escrito dentro del plazo de cinco días hábiles, contado desde el día hábil siguiente a su recepción y, de ser procedente, adoptar las medidas necesarias para corregir las irregularidades reclamadas dentro del plazo máximo de cinco días hábiles, contado desde la notificación de la respuesta. Si la mujer presentare un reclamo ante la Superintendencia de Salud, de ser procedente según las reglas generales, ésta deberá resolverlo y podrá recomendar la adopción de medidas correctivas de las irregularidades detectadas, dentro de un plazo no superior a treinta días corridos. Sin perjuicio de lo anterior, toda mujer que hubiere sido discriminada arbitrariamente en el proceso de acompañamiento podrá hacer efectiva la acción de no discriminación arbitraria contemplada en los artículos 3 y siguientes de la ley Nº 20.609, que establece medidas contra la discriminación.
+
+#### Artículo 119 bis
+
+Para realizar la intervención contemplada en el número 1) del inciso primero del artículo anterior, se deberá contar con el respectivo diagnóstico médico.
+
+En el caso del número 2) del inciso primero del artículo referido, para realizar la intervención se deberá contar con dos diagnósticos médicos en igual sentido de médicos especialistas. Todo diagnóstico deberá constar por escrito y realizarse en forma previa.
+
+En el caso del número 3) del inciso primero del artículo 119, un equipo de salud, especialmente conformado para estos efectos, confirmará la concurrencia de los hechos que lo constituyen y la edad gestacional, informando por escrito a la mujer o a su representante legal, según sea el caso, y al jefe del establecimiento hospitalario o clínica particular donde se solicita la interrupción. En el cumplimiento de su cometido, este equipo deberá dar y garantizar a la mujer un trato digno y respetuoso.
+
+En los casos en que la solicitante sea una niña o adolescente menor de 18 años, los jefes de establecimientos hospitalarios o clínicas particulares en que se solicite la interrupción del embarazo procederán de oficio conforme a los artículos 369 del Código Penal, y 175, letra d), y 200 del Código Procesal Penal. Deberán, además, notificar al Servicio Nacional de Menores.
+
+Tratándose de una mujer mayor de 18 años que no haya denunciado el delito de violación, los jefes de establecimientos hospitalarios o clínicas particulares deberán poner en conocimiento del Ministerio Público este delito, con la finalidad de que investigue de oficio al o los responsables.
+
+En todos los casos anteriores se respetará el principio de confidencialidad en la relación entre médico y paciente, adoptándose las medidas necesarias para resguardar su aplicación efectiva.
+
+En el proceso penal por el delito de violación, la comparecencia de la víctima a los actos del procedimiento será siempre voluntaria y no se podrá requerir o decretar en su contra las medidas de apremio contenidas en los artículos 23 y 33 del Código Procesal Penal.
+
+#### Artículo 119 ter
+
+El médico cirujano requerido para interrumpir el embarazo por alguna de las causales descritas en el inciso primero del artículo 119 podrá abstenerse de realizarlo cuando hubiese manifestado su objeción de conciencia al director del establecimiento de salud, en forma escrita y previa. De este mismo derecho gozará el resto del personal al que corresponda desarrollar sus funciones al interior del pabellón quirúrgico durante la intervención. En este caso, el establecimiento tendrá la obligación de reasignar de inmediato otro profesional no objetante a la paciente. Si el establecimiento de salud no cuenta con ningún facultativo que no haya realizado la manifestación de objeción de conciencia, deberá derivarla en forma inmediata para que el procedimiento le sea realizado por quien no haya manifestado dicha objeción. El Ministerio de Salud dictará los protocolos necesarios para la ejecución de la objeción de conciencia. Dichos protocolos deberán asegurar la atención médica de las pacientes que requieran la interrupción de su embarazo en conformidad con los artículos anteriores. La objeción de conciencia es de carácter personal y podrá ser invocada por una institución.
+
+Si el profesional que ha manifestado objeción de conciencia es requerido para interrumpir un embarazo, tendrá la obligación de informar de inmediato al director del establecimiento de salud que la mujer requirente debe ser derivada.
+
+En el caso de que la mujer requiera atención médica inmediata e impostergable, invocando la causal del número 1) del inciso primero del artículo 119, quien haya manifestado objeción de conciencia no podrá excusarse de realizar la interrupción del embarazo cuando no exista otro médico cirujano que pueda realizar la intervención.
+
+#### Artículo 119 quáter
+
+Queda estrictamente prohibida la publicidad sobre la oferta de centros, establecimientos o servicios, o de medios, prestaciones técnicas o procedimientos para la práctica de la interrupción del embarazo en las causales del inciso primero del artículo 119.
+
+Lo anterior no obsta al cumplimiento de los deberes de información por parte del Estado ni a lo dispuesto en el párrafo 4º del título II de la ley N° 20.584.
+
+#### Artículo 120
+
+Los profesionales señalados en los artículos 112 y 113 bis de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químico-farmacéuticos y farmacéuticos.
+
+#### Artículo 120 bis
+
+Los profesionales a que se refiere este Libro podrán otorgar prestaciones a distancia mediante tecnologías de la información y comunicaciones, dentro del ámbito de sus competencias, en las condiciones y con los requisitos que establezcan el reglamento y las demás normativas que al efecto dicte el Ministerio de Salud.
+
+# Libro Sexto
+
+DE LOS ESTABLECIMIENTOS DEL ÁREA DE LA SALUD
+
+## Título Preliminar
+
+#### Artículo 121
+
+Son establecimientos del área de la salud aquellas entidades públicas o privadas que realizan o contribuyen a la ejecución de acciones de promoción, protección y recuperación de la salud y de rehabilitación de las personas enfermas.
+
+Estos establecimientos requerirán, para su instalación, ampliación, modificación o traslado, autorización sanitaria de la Secretaría Regional Ministerial de Salud de la región en que se encuentren situados, la que se otorgará previo cumplimiento de los requisitos técnicos que determine el reglamento, sin perjuicio de las atribuciones que este Código confiere al Instituto de Salud Pública de Chile.
+
+Los servicios de atención móviles que se desplacen o emplacen por un tiempo determinado en una región distinta de aquella en que fue otorgada la autorización sanitaria, se regirán por lo establecido en el artículo 7° inciso final, siempre que cumplan con el procedimiento establecido en el artículo 7° bis y según lo defina el reglamento respectivo.
+
+## Título I
+
+De los establecimientos asistenciales de salud
+
+#### Artículo 122
+
+Los establecimientos asistenciales que realicen acciones de salud a las personas requerirán de autorización expresa de la Secretaría Regional Ministerial del territorio en que se encuentren situados y estarán sujetos a los requisitos de instalación, funcionamiento y dirección técnica que determine el reglamento que los regule en particular, en su condición de establecimientos de atención cerrada, generales o especializados. Dicho reglamento determinará, asimismo, los requisitos profesionales que deberá cumplir quien tenga su dirección técnica.
+
+El reglamento de que trata el inciso anterior deberá considerar las circunstancias particulares de aquellos establecimientos que otorgan prestaciones o atenciones apoyadas en tecnologías de la información y las comunicaciones a distancia. Asimismo, deberá especificar los establecimientos asistenciales a que se refiere el inciso primero que no requerirán autorización previa en consideración al bajo riesgo de la actividad a realizar y conforme a los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+#### Artículo 123
+
+Requerirán asimismo autorización sanitaria los establecimientos de atención abierta o ambulatoria en los cuales se realicen procedimientos especiales para el diagnóstico o tratamiento de las enfermedades que necesiten de infraestructura e instalaciones especiales para su realización y eventualmente de sedación o anestesia local, todos los cuales deberán cumplir con los requisitos de recursos físicos, humanos y de dirección técnica que a su respecto se contemple en los reglamentos pertinentes.
+
+Con todo, no requerirán la autorización previa a que se refiere el inciso primero los establecimientos ambulatorios o salas de procedimiento que determine el respectivo reglamento en consideración al bajo riesgo de la actividad a realizar y conforme a los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+Los establecimientos en que se ejerzan prácticas médicas alternativas o complementarias reguladas por decreto, que utilicen instrumentos o equipos que afecten invasivamente el cuerpo humano, generen riesgo para éste, ejecuten maniobras o empleen instrumentos que penetren la piel y mucosas, requerirán de autorización sanitaria, la que se otorgará de conformidad con lo establecido en dicha reglamentación.
+
+Aquellos establecimientos en que se ejerzan prácticas médicas alternativas o complementarias no invasivas de conformidad con el inciso anterior, se sujetarán al procedimiento de declaración jurada establecido en el artículo 7° bis.
+
+El ejercicio de prácticas no reguladas en la forma antedicha será fiscalizado por la autoridad sanitaria y queda sujeto a las prohibiciones establecidas en los artículos 53 y 54 y en el Libro Quinto.
+
+#### Artículo 124
+
+Los establecimientos que realicen actividades dirigidas al cuidado y embellecimiento estético corporal serán fiscalizados por la autoridad sanitaria con el objeto de que su funcionamiento se ajuste a las normas reglamentarias que al efecto se dicten. Sin perjuicio de lo anterior, aquellos establecimientos que, aun cuando anuncien o persigan una finalidad estética, utilicen instrumentos o equipos que afecten invasivamente el cuerpo humano, generen riesgo para éste, ejecuten maniobras o empleen instrumentos que penetren la piel y mucosas deberán contar con una dirección técnica a cargo de un profesional del área de la salud, además de autorización sanitaria previa a su funcionamiento.
+
+## Título II
+
+De los establecimientos de óptica y de otros elementos de uso médico y de otros elementos de uso médico
+
+#### Artículo 125
+
+Los establecimientos que fabriquen los elementos de uso médico aludidos en el artículo 111 requerirán de la autorización sanitaria de la Secretaría Regional Ministerial de Salud competente, la que se otorgará previa verificación del cumplimiento de los requisitos y condiciones relativos a su elaboración, control de calidad, distribución y venta que se determinen en los reglamentos que específicamente se dicten para cada clase o tipo, según el riesgo sanitario que involucre su uso o destino.
+
+Con todo, no requerirán autorización sanitaria los establecimientos de óptica, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+Corresponderá a la autoridad sanitaria fiscalizar el funcionamiento de estos establecimientos en sus áreas de fabricación, distribución y venta.
+
+#### Artículo 126
+
+Sólo en los establecimientos de óptica podrán fabricarse lentes con fuerza dióptrica de acuerdo con las prescripciones que se ordenen en la receta correspondiente.
+
+Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas emitidas por profesionales en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
+
+Autorízase la fabricación, venta y entrega, sin receta, de lentes con fuerza dióptrica sólo esférica e igual en ambos ojos, sin rectificación de astigmatismo, destinados a corregir problemas de presbicia.
+
+La venta o entrega de dichos lentes deberá acompañarse de una advertencia sobre la conveniencia de una evaluación oftalmológica que permita prevenir riesgos para la salud ocular.
+
+## Título III
+
+De los establecimientos del área farmacéutica
+
+#### Artículo 127
+
+La producción de medicamentos sólo podrá efectuarse en laboratorios farmacéuticos especialmente autorizados al efecto por el Instituto de Salud Pública de Chile, entidad a la cual le corresponderá, asimismo, su fiscalización y control, todo ello conforme a las condiciones que determine el reglamento.
+
+La dirección técnica de estos establecimientos estará a cargo de un profesional químico farmacéutico y, en el caso de la fabricación de productos farmacéuticos de origen biológico, podrá además corresponder a un ingeniero en biotecnología, un bioquímico o un médico cirujano con especialización en esa área.
+
+Todo laboratorio de producción farmacéutica deberá contar con sistemas de control y de aseguramiento de la calidad independientes entre sí, a cargo de diferentes profesionales, los que deberán tener alguno de los títulos y especializaciones referidos precedentemente, según el caso. Estos sistemas deberán asegurar el cumplimiento de los requerimientos contemplados en las buenas prácticas de manufactura y de laboratorio que a su respecto se aprueben por resolución ministerial, según el tipo de actividad productiva que haya sido autorizada para el establecimiento.
+
+Los laboratorios farmacéuticos que ejecuten en forma exclusiva las etapas de acondicionamiento o control de calidad darán cumplimiento a las disposiciones reglamentarias que al efecto se contemplen.
+
+No obstante lo anterior, las farmacias podrán elaborar, sin utilizar procesos industriales, preparados farmacéuticos conforme a las indicaciones de quien prescribe o a las contenidas en las normas de elaboración aprobadas, según corresponda al tipo de preparado magistral u oficinal, en la forma y condiciones que establezca la reglamentación que al efecto se emita.
+
+Los recetarios magistrales se entenderán autorizados para preparar las drogas huérfanas.
+
+#### Artículo 128
+
+La importación, internación, almacenamiento, transporte y distribución a cualquier título de medicamentos y de materias primas necesarias para su obtención podrán realizarse por los laboratorios farmacéuticos encargados de la fabricación de los medicamentos de que se trate y por droguerías que hayan sido autorizados por el Instituto de Salud Pública de Chile, de conformidad con los requerimientos que a su respecto contenga la reglamentación respectiva, y sean dirigidos técnicamente por un químico farmacéutico.
+
+Sin perjuicio de lo dispuesto precedentemente, el almacenamiento, transporte y distribución de medicamentos podrán ser efectuados también por establecimientos de depósito autorizados por el Instituto, previo cumplimiento de los requisitos reglamentarios establecidos para ello.
+
+La fabricación, acondicionamiento o internación de productos farmacéuticos destinados exclusivamente a la exportación, por cuenta propia o ajena, deberán ser realizadas por laboratorios o droguerías autorizados, según corresponda. Además, deberán ser notificadas al Instituto, incluyendo la individualización del exportador, del fabricante y del registro del producto.
+
+#### Artículo 129
+
+Las farmacias y almacenes farmacéuticos podrán instalarse de manera independiente, con acceso a vías de uso público, o como un espacio circunscrito dentro de otro. Un reglamento dictado a través del Ministerio de Salud determinará los requisitos que deberán cumplir dichos establecimientos para ser autorizados por el Instituto de Salud Pública de Chile, así como la idoneidad del profesional o técnico que según cada caso ejerza su dirección técnica y el horario o turnos que deberán cumplir para asegurar una adecuada disponibilidad de medicamentos en días inhábiles y feriados legales y en horario nocturno. Para los efectos de la fijación de turnos, deberán considerarse datos poblacionales y cantidad de farmacias, de almacenes farmacéuticos y de establecimientos de salud existentes en la localidad de que se trate.
+
+Las farmacias son centros de salud, esto es, lugares en los cuales se realizan acciones sanitarias y, en tal carácter, cooperarán con el fin de garantizar el uso racional de los medicamentos en la atención de salud. Serán dirigidas por un químico farmacéutico y contarán con un petitorio mínimo de medicamentos para contribuir a las labores de fármacovigilancia.
+
+En aquellos lugares donde no existan farmacias establecidas, podrán autorizarse farmacias itinerantes, las que corresponderán a estructuras móviles que se ubicarán en lugares y horarios autorizados expresamente por la autoridad sanitaria, facilitando el acceso de la población a los medicamentos, cumpliendo en todo caso las condiciones que al efecto establezca el respectivo reglamento.
+
+Con todo, no requerirán la autorización previa a que se refiere el inciso anterior las farmacias itinerantes que determine el respectivo reglamento en consideración al bajo riesgo de la actividad a realizar y conforme con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.".
+
+Además, en aquellos lugares en los cuales no existan establecimientos de expendio de medicamentos al público, el Ministerio de Salud arbitrará las medidas necesarias para su adecuada disponibilidad, a través de los establecimientos de salud.
+
+Sólo los establecimientos señalados en este artículo y en el artículo 129 D estarán facultados para expender productos farmacéuticos, cualquiera sea la condición de venta de éstos.
+
+#### Artículo 129
+
+A.- Las farmacias deberán ser dirigidas técnicamente por un químico farmacéutico que deberá estar presente durante todo el horario de funcionamiento del establecimiento.
+
+Corresponderá a estos profesionales realizar o supervisar la dispensación adecuada de los productos farmacéuticos, conforme a los términos dispuestos en la receta, informar personalmente y propender a su uso racional, absolviendo las consultas que le formulen los usuarios. También les corresponderá ejercer la permanente vigilancia de los aspectos técnico sanitarios del establecimiento, sin perjuicio de la responsabilidad que les pueda caber en la operación administrativa del mismo, la que estará encomendada a su personal dependiente. En el ejercicio de su función de dispensación, dichos profesionales deberán, además, efectuar o supervisar el fraccionamiento de envases de medicamentos para la entrega del número de dosis requerido por la persona, según la prescripción del profesional competente.
+
+Mediante decreto dictado a través del Ministerio de Salud se aprobarán las normas para la correcta ejecución del fraccionamiento, las que incluirán la determinación de los productos de venta con receta médica no sujeta a control legal sobre los cuales se podrá realizar, incluyendo su forma farmacéutica, la obligación de distribuirlos y expenderlos en condiciones seguras, evitando contaminaciones y errores, y las condiciones de rotulación del envase de entrega al adquirente que permitan identificar el producto, al prescriptor y al paciente, así como las indicaciones para su empleo. Esas normas serán obligatorias para los importadores, fabricantes y distribuidores de medicamentos y para las farmacias.
+
+#### Artículo 129
+
+B.- Los medicamentos de venta directa podrán estar disponibles en farmacias y almacenes farmacéuticos en repisas, estanterías, góndolas, anaqueles, dispensadores u otros dispositivos similares que permitan el acceso directo al público, considerando medidas de resguardo general para evitar su alcance y manipulación por niños o infantes, todo conforme lo determine el reglamento que se dicte para regular lo dispuesto en este artículo.
+
+Al efecto, la puesta a disposición al público deberá efectuarse en un área especial y exclusivamente destinada para ello, la que deberá permitir su adecuada conservación y almacenamiento.
+
+Las farmacias y almacenes farmacéuticos que expendan medicamentos de venta directa conforme al inciso anterior, además, deberán:
+
+1) Instalar infografías en espacios visibles al público, que permitan la lectura de una advertencia sobre el adecuado uso y dosificación de medicamentos con condición de venta directa.
+
+2) Mantener en un lugar visible al público, números telefónicos de líneas existentes que provean gratuitamente información toxicológica, ya sea de servicios públicos o privados.
+
+El texto y formato de la infografía, como también la información sobre líneas telefónicas a que se refiere este artículo, serán aprobados por resolución del Ministro de Salud.
+
+#### Artículo 129
+
+C.- También podrán venderse medicamentos al público en almacenes farmacéuticos, los cuales deberán ser autorizados conforme a las normas reglamentarias que se dicten al efecto, las que deberán incluir exigencias de infraestructura, procesos y calificación técnica del personal a cargo.
+
+No obstante el funcionamiento de farmacias o almacenes farmacéuticos privados, en las comunas de menos de diez mil habitantes y en aquellas que se ubiquen a más de cien kilómetros de otro centro poblado, los establecimientos asistenciales de la localidad estarán autorizados para suministrar al público productos farmacéuticos, alimentos de uso médico y elementos de curación y primeros auxilios.
+
+#### Artículo 129
+
+D.- Los establecimientos asistenciales de atención cerrada y los de atención ambulatoria que cuenten con salas de procedimiento o pabellones de cirugía menor podrán contar con farmacia o con botiquines en los que se incluyan los medicamentos necesarios para el ejercicio de las acciones de salud que se lleven a efecto dentro del establecimiento.
+
+También podrán autorizarse botiquines, conforme a la reglamentación que se dicte, en otros establecimientos o lugares de trabajo, teniendo en consideración su constitución, organización, aislamiento o el desarrollo de actividades o servicios que conlleven riesgos de salud o de accidentabilidad.
+
+Los botiquines a que se refieren los incisos anteriores podrán ser autorizados, además, para el expendio de medicamentos.
+
+Los establecimientos de asistencia médica abierta y cerrada que incorporen medicamentos a la prestación de salud que otorgan a sus afiliados o beneficiarios podrán disponer, por sí o por terceros, de servicios de administración, fraccionamiento y entrega de dichos elementos.
+
+Los profesionales habilitados para prescribir medicamentos o realizar procedimientos que los incorporen podrán mantener existencia de los mismos exclusivamente para su administración o empleo en el ejercicio de su actividad, quedándoles prohibida la venta de tales productos. En todo caso, será obligación de tales profesionales mantener los productos señalados en condiciones adecuadas de seguridad y conservación.
+
+Ninguna de las normas establecidas en esta ley podrá ser interpretada en el sentido de que se autoriza el expendio de medicamentos en lugares o recintos distintos de los señalados expresamente en ella ni a la venta directa en estanterías u otros espacios de acceso directo al público.
+
+#### Artículo 129
+
+E.- La responsabilidad sanitaria por la infracción de las normas establecidas en esta ley se hará efectiva de conformidad al Libro Décimo.
+
+# Libro VII
+
+DE LA OBSERVACION Y RECLUSION DE LOS ENFERMOS MENTALES, DE LOS ALCOHOLICOS Y DE LOS QUE PRESENTEN ESTADO DE DEPENDENCIA DE OTRAS DROGAS Y SUBSTANCIAS
+
+#### Artículo 130°
+
+El Director General de Salud, resolverá sobre la observación de los enfermos mentales, de los que presentan dependencias de drogas u otras substancias, de los alcohólicos y de las personas presuntivamente afectadas por estas alteraciones, así como sobre su internación, permanencia y salida de los establecimientos públicos o particulares destinados a ese objeto. Estos establecimientos cumplirán con los requisitos que señala el reglamento.
+
+> **Nota.** Véanse los artículos 133 y siguientes de la LEY 17105, publicada el 14.04.1969, que contiene el texto refundido de la Ley sobre alcoholes y bebidas alcohólicas.
+
+> **Nota.** NOTA 1 Véase el Decreto 161, Salud, publicado el 19.11.1982, que establece el Reglamento de Hospitales y Clínicas Privadas.
+
+#### Artículo 131°
+
+La internación de las personas a que se refiere el artículo anterior, puede ser voluntaria, administrativa, judicial o de urgencia. El Reglamento establecerá las condiciones de estos tipos de internación.
+
+#### Artículo 132°
+
+En los casos de ingreso voluntario la salida del establecimiento se efectuará por indicación médica o a pedido del enfermo, siempre que, la autoridad sanitaria estime que éste puede vivir fuera del establecimiento sin constituir un peligro para él o para los demás.
+
+La salida de las personas internadas por resolución administrativa será decretada por el Director General de Salud, aun cuando se trate de un enfermo hospitalizado en un establecimiento particular. El Director General podrá autorizar su salida a solicitud escrita de los familiares o de los representantes legales y bajo la responsabilidad de éstos, para su atención domiciliaria, previa autorización médica y siempre que se garantice el control y vigilancia del enfermo en términos que no constituya peligro para sí ni para terceros.
+
+Los enfermos mentales, los que dependen de drogas u otras substancias y los alcohólicos ingresados por orden judicial saldrán cuando lo decrete el Juez respectivo.
+
+#### Artículo 133°
+
+Los Directores de establecimientos especializados de atención psiquiátrica serán curadores provisorios de los bienes de los enfermos hospitalizados en ellos que carecieren de curador o no estén sometidos a patria potestad o potestad marital, mientras permanezcan internados o no se les designe curador de acuerdo a las normas del derecho común.
+
+Para ejercer esta curaduría los funcionarios antes indicados no necesitarán de discernimiento, ni estarán obligados a rendir fianza ni hacer inventario. En lo demás se regirán por las disposiciones del derecho común.
+
+En el ejercicio de esta curaduría el Director del establecimiento gozará del privilegio de pobreza en las actuaciones judiciales y extrajudiciales que realice y no percibirá retribución alguna, sin perjuicio de los derechos que correspondan al Servicio Nacional de Salud en conformidad al arancel que se dicte de acuerdo con el presente Código.
+
+#### Artículo 134°
+
+Los registros, libros, fichas clínicas y documentos de los establecimientos mencionados en el artículo 130° tendrán el carácter de reservado, salvo para las autoridades judiciales, del Ministerio Público y para el Servicio Nacional de Salud.
+
+Sólo el Director del Establecimiento en caso de los establecimientos públicos, y el Director o el médico tratante, en el caso de los establecimientos privados podrán dar certificados sobre la permanencia de los enfermos en los establecimientos psiquiátricos, la naturaleza de su enfermedad o cualquiera otra materia relacionada con su hospitalización. Este certificado sólo podrán solicitarlo los enfermos, sus representantes legales o las autoridades judiciales.
+
+# Libro VIII
+
+DE LAS INHUMACIONES, EXHUMACIONES Y TRASLADO DE CADAVERES
+
+#### Artículo 135°
+
+Sólo en cementerios legalmente autorizados podrá efectuarse la inhumación de cadáveres o restos humanos.
+
+Sin embargo, el Director General de Salud podrá autorizar la inhumación temporal o perpetua de cadáveres en lugares que no sean cementerios, en las condiciones que establezca en cada caso.
+
+> **Nota.** Véase el Decreto 357, Salud, publicado el 18.06.1970, que establece el Reglamento General de Cementerios.
+
+> **Nota.** NOTA 1 La Ley 18096, publicada el 25.01.1982, transfiere a las Municipalidades los cementerios situados en sus respectivos territorios comunales, que pertenecen a los Servicios de Salud.
+
+#### Artículo 136°
+
+Sólo el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de cementerios, crematorios, casas funerarias y demás establecimientos semejantes. Un Reglamento contendrá las normas que regirán para la instalación y funcionamiento de los mencionados establecimientos y sobre la inhumación, cremación, transporte y exhumación de cadáveres.
+
+Los establecimientos señalados en el inciso precedente deberán disponer en sus reglamentos internos un horario de funcionamiento extraordinario para atender las ceremonias y las romerías nocturnas de integrantes de los Cuerpos de Bomberos de Chile o de otras instituciones que así lo requieran, previa autorización de la autoridad sanitaria.
+
+Con todo, no requerirán la autorización previa a que se refiere el inciso primero los establecimientos que determine el respectivo reglamento en consideración al bajo riesgo de la actividad a realizar y conforme con los criterios establecidos en el artículo 4° numeral 19 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, siempre que cumplan con el procedimiento establecido en el artículo 7° bis.
+
+#### Artículo 137°
+
+No podrá rechazarse en un Cementerio la inhumación de un cadáver, sin una justa causa calificada por el Servicio Nacional de Salud.
+
+#### Artículo 138°
+
+Corresponderá a las Municipalidades de la República instalar cementerios, previa aprobación del Servicio Nacional de Salud, en los lugares en que no los hubiere o fueren insuficientes, pudiendo adquirir o expropiar terrenos para tal objeto.
+
+#### Artículo 139°
+
+Ningún cadáver podrá permanecer insepulto por más de cuarenta y ocho horas, a menos que el Servicio Nacional de Salud lo autorice, o cuando haya sido embalsamado o se requiera practicar alguna investigación de carácter científico, judicial o penal.
+
+El Servicio Nacional de Salud podrá ordenar la inhumación, en un plazo inferior cuando razones técnicas lo aconsejen.
+
+#### Artículo 140
+
+La obligación de dar sepultura a un cadáver recaerá sobre el cónyuge sobreviviente o sobre el pariente más próximo que estuviere en condición de sufragar los gastos o la persona con la que el difunto haya mantenido un acuerdo de unión civil vigente al momento de su muerte.
+
+#### Artículo 141°
+
+Prohíbese inscribir en el Registro Civil las defunciones e inhumaciones de cadáveres si no se justifican previamente las causas del fallecimiento mediante un certificado del médico que lo asistió en la última enfermedad. A falta de éste, corresponderá extender dicho certificado al Servicio Nacional de Salud en las condiciones que determine el Reglamento.
+
+> **Nota.** Véase el Decreto 460, Salud Pública, publicado el 18.07.1970, que aprueba el Reglamento sobre extensión de certificado médico de defunción.
+
+#### Artículo 142°
+
+A falta de certificación médica establecida en el artículo anterior, la verificación del fallecimiento se establecerá mediante la declaración de dos o más testigos, rendida ante el Oficial del Registro Civil o ante cualquiera autoridad judicial del lugar en que haya ocurrido la muerte. Esta declaración deberá ser hecha de preferencia por las personas que hubieren estado presentes en los momentos antes del deceso, de todo lo cual se dejará expresa constancia.
+
+#### Artículo 143°
+
+Los fallecimientos deberán ser inscritos en el Registro Civil de acuerdo con la clasificación internacional de las causas de muerte.
+
+#### Artículo 144°
+
+La exhumación, transporte internacional, internación y traslado de una localidad a otra del territorio nacional de cadáveres o restos humanos, sólo podrá efectuarse con autorización del Director General de Salud. Las exhumaciones que decrete la Justicia Ordinaria se exceptúan de esta obligación.
+
+# Libro IX
+
+DEL APROVECHAMIENTO DE TEJIDOS O PARTES DEL CUERPO DE UN DONANTE VIVO Y DE LA UTILIZACION DE CADAVERES O PARTE DE ELLOS CON FINES CIENTIFICOS O TERAPEUTICOS
+
+> **Nota.** Véase el Reglamento de este Libro IX, aprobado por Decreto 240, Salud, publicado el 03.12.1983.
+
+#### Artículo 145°
+
+El aprovechamiento de tejidos o partes del cuerpo de un donante vivo, para su injerto en otra persona, sólo se permitirá cuando fuere a título gratuito y con fines terapéuticos.
+
+#### Artículo 146°
+
+Toda persona plenamente capaz podrá disponer de su cadáver, o de partes de él, con el objeto de que sea utilizado en fines de investigación científica, para la docencia universitaria, para la elaboración de productos terapéuticos o en la realización de injertos.
+
+El donante manifestará su voluntad por escrito, pudiendo revocarla en la misma forma, todo ello de conformidad con las formalidades que señale el reglamento.
+
+#### Artículo 147°
+
+Los cadáveres de personas fallecidas en establecimientos hospitalarios públicos o privados, o que se encuentren en establecimientos del Servicio Médico Legal, que no fueren reclamados dentro del plazo que señale el reglamento, podrán ser destinados a estudios e investigación científica, y sus órganos y tejidos, destinados a la elaboración de productos terapéuticos y a la realización de injertos.
+
+Podrán ser destinados a los mismos fines cuando el cónyuge o, a falta de éste, los parientes en primer grado de consanguinidad en la línea recta o colateral o la persona con la que el difunto tuviere vigente un acuerdo de unión civil al momento de su muerte no manifestaren su oposición dentro del plazo y en la forma que señale el reglamento.
+
+#### Artículo 148°
+
+Podrán también destinarse a injertos con fines terapéuticos los tejidos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil o la persona con la que haya mantenido un acuerdo de unión civil vigente al momento de su muerte, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
+
+> **Nota.** El Art. 18 de la LEY 19451, publicada el 10.04.1996, dispuso que las modificaciones introducidas al presente artículo, regirán noventa días después de la fecha de su publicación.
+
+#### Artículo 149°
+
+Derogado.
+
+#### Artículo 150°
+
+No será aplicable a las donaciones de que trata este Libro lo dispuesto en los artículos 1137 a 1146 del Código Civil.
+
+#### Artículo 151°
+
+Cuando una persona hubiere fallecido en alguno de los casos indicados en el artículo 121 del Código de Procedimiento Penal o cuando su muerte hubiere dado lugar a un proceso penal, será necesaria la autorización del Director del Servicio Médico Legal o del médico cirujano en quien éste haya delegado esta atribución para destinar el cadáver a cualquiera de las finalidades previstas en este Libro, además del cumplimiento de los otros requisitos.
+
+En aquellos casos en que el Servicio Médico Legal no tenga la infraestructura material o de personal para la autorización, o ésta sea necesaria y requerida fuera de su horario normal de funcionamiento, la delegación recaerá en el director de un hospital del Servicio de Salud en cuyo territorio jurisdiccional se produjere la muerte del potencial donante.
+
+#### Artículo 152°
+
+Será nulo y sin ningún valor el acto o contrato que, a título oneroso, contenga la promesa o entrega de un tejido o parte del cuerpo humano para efectuar un injerto.
+
+#### Artículo 153°
+
+Las placentas y otros órganos y tejidos que determine el reglamento podrán destinarse a la elaboración de productos terapéuticos y a otros usos que el mismo reglamento indique.
+
+#### Artículo 154°
+
+Las disposiciones de este Libro no se aplicarán a las donaciones de sangre ni a las de otros tejidos que señale el reglamento.
+
+# Libro X
+
+DE LOS PROCEDIMIENTOS Y SANCIONES
+
+> **Nota.** Este Libro, que era el noveno en el Código original, ha pasado a ser "Libro Décimo", por disposición del Art. 3 de la LEY 18173, publicada el 15.11.1982. Dicha norma dispone el cambio en la numeración de su articulado, pasando el artículo 146 a ser 155, y correlativamente los siguientes.
+
+## Título I
+
+DE LA INSPECCION Y ALLANAMIENTO
+
+#### Artículo 155°
+
+(146).- Para la debida aplicación del presente Código y de sus reglamentos, decretos y resoluciones del Director General de Salud, la autoridad sanitaria podrá practicar la inspección y registro de cualquier sitio, edificio, casa, local y lugares de trabajo, sean públicos o privados.
+
+Cuando se trate de edificio o lugares cerrados, deberá procederse a la entrada y registro previo decreto de allanamiento del Director General de Salud, con el auxilio de la fuerza pública si fuere necesario.
+
+#### Artículo 156°
+
+(147).- Estas actuaciones serán realizadas por funcionarios del Servicio Nacional de Salud. Cuando con ocasión de ellas se constatare una infracción a este Código o a sus reglamentos, se levantará acta dejándose constancia de los hechos materia de la infracción.
+
+El acta deberá ser firmada por el funcionario que practique la diligencia, el que tendrá el carácter de ministro de fe.
+
+#### Artículo 157°
+
+(148).- En los casos de allanamiento, se notificará al dueño o arrendatario del lugar o edificio en que hubiere de practicarse la diligencia, o al encargado de su conservación o custodia.
+
+Si no es habida alguna de las personas expresadas, la notificación se hará a cualquier persona mayor de edad que se halle en dicho lugar o edificio; si no se encontrare a nadie, se hará constar esta circunstancia en el acta que se levantará al efecto.
+
+#### Artículo 158°
+
+(149).- Practicadas las diligencias prescritas en el artículo anterior se procederá a la entrada y registro, para cuyo efecto se invitará al dueño, arrendatario o persona encargada a presenciar el acto. Si dichas personas estuvieren impedidas o ausentes, la invitación se hará a un miembro adulto de su familia, o en su defecto, a cualquier persona.
+
+Todos los concurrentes que pudieran, firmarán el acta que al efecto se levantare, la que contendrá el inventario de los bienes que se recojan y se dará copia al interesado, si la solicitare.
+
+#### Artículo 159°
+
+(150).- Si durante la inspección o registro o allanamiento se comprobara una infracción a la ley o reglamentos y se encontraren los elementos que hubieren servido para cometerla, podrán ser éstos trasladados a los depósitos o almacenes del Servicio Nacional de Salud o cerrarse y sellarse la parte del local y de los muebles en que se hubieren encontrado, mientras resuelve la autoridad sanitaria.
+
+#### Artículo 160°
+
+(151).- A fin de comprobar el correcto cumplimiento de las disposiciones del presente Código y sus reglamentos, el Servicio Nacional de Salud podrá, previo recibo y sin necesidad de pago, retirar de las aduanas y de los sitios en que se elaboren, distribuyan o expendan, aquellas muestras que fuere necesario examinar.
+
+## Título II
+
+DEL SUMARIO SANITARIO
+
+#### Artículo 161°
+
+(152).- Los sumarios que se instruyan por infracciones al presente Código y a sus reglamentos, decretos o resoluciones del Director General de Salud, podrán iniciarse de oficio o por denuncia de particulares.
+
+#### Artículo 162°
+
+(153).- La autoridad sanitaria, tendrá autoridad suficiente, para investigar y tomar declaraciones necesarias en el esclarecimiento de los hechos relacionados con las leyes, reglamentos y resoluciones sanitarias.
+
+#### Artículo 163°
+
+(154).- Cuando se trate de sumarios iniciados de oficio, deberá citarse al infractor después de levantada el acta respectiva. La persona citada deberá concurrir el día y horas que se señale, con todos sus medios probatorios. En caso de inasistencia, tendrá lugar lo dispuesto en el artículo 158 del presente Código.
+
+> **Nota.** El Art. 158 del presente código, a que se hace referencia, ha pasado a ser Art. 167 en virtud de lo dispuesto en el Art. 3° de la Ley 18173, publicada el 15.11.1982.
+
+#### Artículo 164°
+
+(155).- Cuando se trate de sumarios iniciados por denuncia de particulares, la autoridad sanitaria citará al posible infractor, así como al denunciante, y examinará separadamente a los testigos y demás medios probatorios que se le presenten, levantando acta de lo obrado ante dos personas, y se practicará las investigaciones necesarias para el esclarecimiento de los hechos denunciados.
+
+#### Artículo 165°
+
+(156).- Las notificaciones que sea menester practicar se harán por funcionarios del Servicio Nacional de Salud o de Carabineros, quienes procederán con sujeción a las instrucciones que se impartan, dejando testimonio escrito de su actuación.
+
+#### Artículo 166°
+
+(157).- Bastará para dar por establecido la existencia de una infracción a las leyes y reglamentos sanitarios el testimonio de dos personas contestes en el hecho y en sus circunstancias esenciales; o el acta, que levante el funcionario del Servicio al comprobarla.
+
+#### Artículo 167°
+
+(158).- Establecida la infracción, la autoridad sanitaria dictará sentencia sin más trámite.
+
+#### Artículo 168°
+
+(159).- Los infractores a quienes se les aplicare multa deberán acreditar su pago ante la autoridad sanitaria que los sancionó, dentro del plazo de cinco días hábiles contado desde la notificación de la sentencia.
+
+#### Artículo 169°
+
+(160).- Derogado.
+
+#### Artículo 170°
+
+(161).- La clausura y demás medidas sanitarias ordenadas en la sentencia, no podrán dejarse sin efecto o suspenderse a menos que el Director General de Salud así lo ordenare, o que lo dispusiera la justicia ordinaria al fallar por sentencia definitiva ejecutoriada o que cause ejecutoria, la reclamación que se interponga.
+
+#### Artículo 171°
+
+(162).- De las sanciones aplicadas por el Servicio Nacional de Salud podrá reclamarse ante la justicia ordinaria civil, dentro de los cinco días hábiles siguientes a la notificación de la sentencia, reclamo que tramitará en forma breve y sumaria.
+
+El tribunal desechará la reclamación si los hechos que hayan motivado la sanción se encuentren comprobados en el sumario sanitario de acuerdo a las normas del presente Código, si tales hechos constituyen efectivamente una infracción a las leyes o reglamentos sanitarios y si la sanción aplicada es la que corresponde a la infracción cometida.
+
+> **Nota.** La Sentencia S/N, Tribunal Constitucional, Rol 1345-09, publicada el 28.05.2009, declara que es inconstitucional el precepto legal contenido en las expresiones: "Para dar curso a ellos se exigirá que el infractor acompañe el comprobante de haber pagado la multa", incluidas en la parte final de este inciso, ya eliminada del presente texto actualizado.
+
+#### Artículo 172°
+
+(163).- Las sentencias que dicte la autoridad sanitaria podrán cumplirse no obstante encontrarse pendiente la reclamación a que se refiere el artículo anterior, sin perjuicio de lo que por sentencia definitiva ejecutoriada o que cause ejecutoria resuelva la justicia ordinaria al pronunciarse sobre aquélla.
+
+#### Artículo 173°
+
+(164).- En todos los procedimientos judiciales a que diere lugar la aplicación del presente Código, el Servicio Nacional de Salud gozará de privilegio de pobreza y estará exento de hacer las consignaciones que ordena la ley.
+
+## Título III
+
+DE LAS SANCIONES Y MEDIDAS SANITARIAS
+
+#### Artículo 174°
+
+(165).- La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicten los Directores de los Servicios de Salud o el Director del Instituto de Salud Pública de Chile, según sea el caso, salvo las disposiciones que tengan una sanción especial, será castigada con multa de un décimo de unidad tributaria mensual hasta mil unidades tributarias mensuales. Las reincidencias podrán ser sancionadas hasta con el doble de la multa original.
+
+Las infracciones antes señaladas podrán ser sancionadas, además, con la clausura de establecimientos, recintos, edificios, casas, locales o lugares de trabajo donde se cometiere la infracción; con la cancelación de la autorización de funcionamiento, de la habilitación referida en el artículo 7° bis o de los permisos concedidos; con la paralización de obras o faenas; con la suspensión de la distribución y uso de los productos de que se trate, y con el retiro, decomiso, destrucción o desnaturalización de los mismos, cuando proceda.
+
+Lo anterior es sin perjuicio de hacer efectivas las responsabilidades que establezcan otros cuerpos legales respecto de los hechos.
+
+#### Artículo 174 bis
+
+Las resoluciones que establezcan las infracciones y determinen las multas tendrán mérito ejecutivo y se harán exigibles por la Tesorería General de la República, en los términos previstos en el inciso segundo del artículo 35 del decreto ley N° 1.263, de 1975, orgánico de Administración Financiera del Estado.
+
+El retardo en el pago de estas multas devengará los intereses y reajustes establecidos en el artículo 53 del Código Tributario.
+
+La Tesorería General de la República hará uso del mecanismo contemplado en el artículo 6 del Estatuto Orgánico del Servicio de Tesorerías, cuyo texto refundido, coordinado, sistematizado y actualizado fue fijado por el decreto con fuerza de ley N° 1, de 1994, del Ministerio de Hacienda.
+
+Sin perjuicio de lo dispuesto en los incisos anteriores, en el pago de estas multas se podrá aplicar lo dispuesto en el artículo 192 del Código Tributario, en lo que corresponda.
+
+#### Artículo 175°
+
+(166).- En los casos en que la sanción consista en la cancelación de la autorización de funcionamiento, de la habilitación referida en el artículo 7° bis o de los permisos concedidos, el Servicio Nacional de Salud comunicará este hecho a la Municipalidad respectiva para que proceda a cancelar la correspondiente patente.
+
+#### Artículo 176°
+
+(167).- Los auxilios en especie, tales como medicamentos, alimentos terapéuticos o suplementarios, que el Servicio Nacional de Salud entregue a la población en cumplimiento de sus programas, no podrán ser comercializados por quienes los reciben.
+
+Sin perjuicio de la sanción que corresponda al beneficiario que infringiere esta disposición, serán especialmente sancionados quienes adquieran el producto directamente de aquél o de un tercero, a cualquier título, y quienes, sin tener derecho a él, lo tengan en su poder.
+
+#### Artículo 177°
+
+(168).- El Director General de Salud podrá, cuando se trate de una primera infracción y aparecieren antecedentes que lo justifiquen, apercibir y amonestar al infractor, sin aplicar la multa y demás sanciones, exigiendo que se subsanen los defectos que dieron origen a la infracción, dentro del plazo que se señale.
+
+#### Artículo 178°
+
+(169).- La autoridad podrá también, como medida sanitaria, ordenar en casos justificados la clausura, prohibición de funcionamiento de casas, locales o establecimientos, paralización de faenas, decomiso, destrucción y desnaturalización de productos.
+
+Estas medidas podrán ser impuestas por el ministro de fe, con el solo mérito del acta levantada, cuando exista un riesgo inminente para la salud, de lo que deberá dar cuenta inmediata a su jefe directo. Copia del acta deberá ser entregada al interesado.
+
+#### Artículo 179
+
+Las multas que se impongan por infracción a las disposiciones de este Código y sus reglamentos o a las resoluciones de la autoridad sanitaria serán a beneficio fiscal.
+
+#### Artículo 180°
+
+(171).- Todos los objetos decomisados por el Servicio Nacional de Salud en virtud de las facultades que le confiere el presente Código, se destinarán a beneficio de esa Institución o, los destruirá, cuando proceda.
+
+No obstante, el Servicio podrá dejar los mencionados objetos en poder de su dueño siempre que puedan ser desnaturalizados y empleados en otro fines sin riesgo para la salud pública. En este caso el interesado deberá cumplir todas las exigencias que le formule el Servicio.
+
+Las especies que atendida su naturaleza o el estado en que se encuentren no deban ser destruidas, ni sean útiles a la Institución y respecto de las cuales no se haya aplicado el inciso anterior, deberán subastarse por intermedio de la Dirección General del Crédito Prendario y de Martillo y su producido ingresará a fondos generales del Servicio Nacional de Salud.
+
+#### Artículo 181°
+
+(172).- Las especies decomisadas con ocasión de un delito contra la salud pública se destinarán también al Servicio Nacional de Salud, el que dispondrá de ellas en las mismas condiciones señalada en el artículo anterior.
+
+Los estupefacientes incautados con ocasión de un proceso criminal que no puedan ser objeto de la sanción señalada en el artículo 31 del Código Penal, por haber terminado el respectivo proceso en sobreseimiento o sentencia absolutoria, se destinarán al Servicio Nacional de Salud, a menos que la persona en cuyo poder se encontró la especie acredite su legítima adquisición con la correspondiente autorización para poseerla y usarla de acuerdo a este Código y sus reglamentos.
+
+#### Artículo 182°
+
+(173).- Derógase el decreto con fuerza de ley N° 226, de 15 de mayo de 1931, y sus modificaciones posteriores.
+
+Los reglamentos preexistentes que versen sobre las materias que en este Código se tratan quedan derogados sólo en la parte que le fueren contrarios.
+
+#### Artículo Transitorio
+
+Las personas que a la vigencia del presente Código Sanitario se encontraban autorizadas para dirigir sus propias farmacias en su calidad de prácticos en farmacia, podrán continuar haciéndolo.
+
+Anótese, tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- E FREI M.- Ramón Valdivieso Delauna
+
+lo que transcribo a U. para su conocimiento.- Saluda a U.- Patricio Silva Garín, Subsecretario de Salud Pública.
