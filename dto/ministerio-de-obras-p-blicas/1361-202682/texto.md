@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.361, de fecha 31 de julio del 2002, se expropió el lote de terreno Nº 408-A, superficie 9.567 m², Rol Nº 33-127, comuna de Pichidegua, VI Región para la obra ''Camino Conexión Vial Pichidegua-Las Cabras, sector San Roberto-El Toco-Ruta 66, Km. 12,70000 a Km. 16,48000'' y se acordó el valor de indemnización con su propietario Leonidas de Jesús Donoso Guerrero, ascendente a la cantidad de $17.742.471.-
+
+Fiscal del Ministerio de Obras Públicas.
