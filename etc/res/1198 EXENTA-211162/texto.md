@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.198, de 10 de junio de 2003, de esta Subsecretaría, rectifícase el literal a) de los numerales 2º y 3º de la resolución Nº 975 de 2001, que autorizó a PESQUERA ITATA S.A. para realizar actividades pesqueras extractivas con la nave "Petrohué I", en la forma y condiciones que la misma resolución indica, en el sentido de señalar que la interesada podrá realizar actividades pesqueras con la nave individualizada precedentemente, en el área marítima de la III y IV Regiones, sobre los recursos Anchoveta, Sardina española, Jurel, Agujilla, Caballa y Sardina común y no como allí se indica.
+
+Valparaíso, 10 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
