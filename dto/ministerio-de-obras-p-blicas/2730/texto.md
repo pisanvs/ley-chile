@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.730, de 30 de diciembre de 1998, se expropiaron los lotes de terreno No.s 624 y 630, superficie 9.197 y 2.679 m2, rol de avalúo 305-11 y 307-36, comuna de Pitrufquén, para la obra Diseño Definitivo Faja Maisan Canal Matriz y se acordó precio de indemnización con sus propietarios Rita Colimán Cartes y Rudecindo Hernán Soto Colpo, ascendentes a las cantidades de $ 2.154.553, para el lote No. 624 y $ 2.070.932, para el lote No. 630.-
+
+Fiscal del Ministerio de Obras Públicas.
