@@ -1,0 +1,3 @@
+Por Resolución Nº 934, de 1º de julio de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución Nº 771, de 1993 de esta Subsecretaría, que autorizó a PESQUERA CORONEL S.A., para desarrollar actividades pesqueras extractivas con la nave "Antarctic", en lo relativo a las especies: Anchoveta, Caballa, Cojinoba del norte, Cojinoba del sur, Corvina, Jurel, Sardina común y Sardina española.
+
+Valparaíso, 1º de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
