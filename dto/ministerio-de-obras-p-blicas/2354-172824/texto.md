@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.354, de 30 de mayo del 2000, se expropiaron los lotes de terreno Nºs. 149-A1 y 149-C, superficies 2.700 m² y 547 m², rol de avalúo 160-37, comuna de Ránquil, para la obra Camino Acceso Norte a Concepción, Octava Región y se acordó el valor de indemnización con su propietario Benito Segundo Soto Navarrete, ascendente a la cantidad total de $1.159.608.
+
+- Fiscal del Ministerio de Obras Públicas.
