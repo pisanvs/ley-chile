@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.592, de 21 de septiembre de 1998 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.85-A y 85-B, para la obra Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno, Km. 726.006,67 al 746.803,70, Novena Región, que figura a nombre de Pineda Pineda Ramón Luis, rol de avalúo 417-18, comuna de Loncoche, superficie 3.473,3 m2. y 108,7 m2.
+
+respectivamente. La Comisión de Peritos integrada por los señores Fernando Luis Contreras Hennings, Claudio Ricardo González Valenzuela y Roberto Gesche Robert, fijó con fecha 29 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $1.389.320 para el lote Nº85-A y $43.480 para el lote 85-B.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
