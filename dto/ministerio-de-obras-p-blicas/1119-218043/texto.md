@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.119, de fecha 30 de septiembre de 2003, se expropiaron los lotes de terreno Nºs. 202 y 204, superficie 351 y 1.883 m² respectivamente, rol Nº 32-202, comuna de Pichidegua, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Miguel Orrellana Pérez, ascendente a la cantidad de $11.221.889.
+
+Fiscal del Ministerio de Obras Públicas.
