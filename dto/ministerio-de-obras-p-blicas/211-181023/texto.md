@@ -1,0 +1,3 @@
+Por decreto MOP Nº211, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº74, superficie 116 m², rol de avalúo 12-45, comuna de Río Hurtado, para la obra "Camino Ruta D-595; Ovalle-Hurtado, Sector Tranque Recoleta-Samo Alto, Tramo Km. 9.780,00 a Km. 31.840,00" y se acordó el valor de indemnización con su propietaria María Esther Jeraldo Taiba o María Ester Jeraldo Taiba, ascendente a la cantidad de $637.116.-
+
+Fiscal del Ministerio de Obras Públicas.
