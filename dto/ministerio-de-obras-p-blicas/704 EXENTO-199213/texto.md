@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº704, de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nºs 7, 7-A, 7-B y 7-C, superficies 280 M2, 546 M2, 843 M2 y 179 M2, respectivamente, rol de avalúo 30-49, comuna de Litueche, VI Región, para la obra ''Camino Ruta I-124, Sector Central Rapel-Litueche, Tramo Km. 0,000 al 17,14595'' y se acordó el valor de indemnización con su propietario don Felipe Antonio González Pino, ascendente a la cantidad de $1.474.329.-
+
+Fiscal del Ministerio de Obras Públicas.
