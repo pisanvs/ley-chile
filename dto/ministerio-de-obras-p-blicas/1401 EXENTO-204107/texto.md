@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.401, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº9, superficie 46 m2, rol de avalúo 540-63, comuna de Linares, VII Región, para la obra ''Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo Km. 0,00000 al 15,48000'' y se acordó el valor de indemnización con su propietario don Jorge Absalón Palacios Suazo, ascendente a la cantidad de $289.408.-
+
+Fiscal del Ministerio de Obras Públicas.
