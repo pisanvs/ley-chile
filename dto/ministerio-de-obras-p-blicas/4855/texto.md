@@ -1,0 +1,3 @@
+Por decreto MOP 4.855, de 31 de octubre del 2000, se expropió el lote de terreno Nº105, superficie 49 m2., rol de avalúo 33-17, comuna de Olivar, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector E, Sexta Región y se acordó el valor de indemnización con su propietario Manuel Fernando Fuentes Silva, ascendente a la cantidad de $792.272.-
+
+Fiscal del Ministerio de Obras Públicas.
