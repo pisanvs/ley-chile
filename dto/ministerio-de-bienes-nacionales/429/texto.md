@@ -60,25 +60,13 @@ SUR: Río "Bío-Bío"; y,
 
 OESTE: Río "Bío-Bío"; y, estero "Ñireco", que lo separa de la Hijuela "El Avellano".
 
-Los deslindes generales de los predios, que según título corresponde a parte del "Fundo Ralco", son: Norte, con río "Pangue" y una línea recta desde sus cabeceras a las cabeceras del río "Ralco" y parte del potrero o hijuela Pangue; Sur, Río "Bío-Bío"; Oriente y Sur, Río Ralco; y, Poniente, con potreros o hijuelas Pangue, San Pedro, Las Huellas y El Avellano y río "Bío-Bío".
+Los deslindes generales del "Fundo Ralco", del que formaban parte los predios individualizados precedentemente son: al Norte, con río "Pangue" y una linea Acta desde sus cabeceras a las cabeceras del río "Raleo" y parte del potrero e hijuela Pangue; al Sur, río "Bío-Bío"; al Oriente y Sur, río Raleo; y al Poniente, con potreros o hijuelas Pangue, San Pedro, Las Huellas y El Avellano y río "Bío-Bío".
 
 Esta transferencia estará exenta de toda clase de impuestos.
 
 El Ministerio de Bienes Nacionales autoriza desde ya, a la beneficiaria, para enajenar el terreno que se le transfiere, en favor de los actuales ocupantes y asignados con los terrenos, de acuerdo a lo dispuesto en la Ley 17.729.
 
-La Institución beneficiaria, de conformidad a lo manifestado por el Ministerio de Agricultura, en oficio N° 369, del 15 de Julio de 1986, deberá adecuar la entrega de los terrenos aledaños a la Reserva Nacional "Ralco", con el propósito de evitar que el aprovechamiento inadecuado de los recursos naturales vayan en menoscabo de una utilización permanente y sostenida de dichos recursos, a las siguientes normas y condiciones:
-
-- Las veranadas deberán utilizarse de acuerdo a la capacidad talajera que determine el Instituto de Desarrollo Agropecuario;
-
-- Se permitirá el uso como combustible de material leñoso muerto, en forma natural o que provenga de raleos e intervenciones de la vegetación, que se efectúen con el objeto de mejorar la calidad de las masas boscosas y que estén prescritas en el Plan de Manejo de la Unidad;
-
-- No se permitirá la habilitación de nuevos terrenos para la ganadería, cuando ello signifique la corta o quema de vegetación arbórea o arbustiva;
-
-- Se permitirá la recolección de piñones de Araucaria, como parte de la extración tradicional que efectúan las comunidades indígenas, fijándose las normas que correspondan, con el propósito de asegurar la regeneración natural y, en algunos casos, obtener semillas para planes de forestación;
-
-- El uso permitido a las comunidades indígenas, no será transferible; y
-
-- Las normas reguladoras del uso serán aplicadas y fiscalizadas por la Corporación Nacional Forestal.
+INCISO DEROGADO.
 
 El beneficiario deberá ajustarse a las normas, preceptos, prohibiciones y limitaciones contenidas en las leyes y reglamentos que rigen las zonas fronterizas del país debiendo, además, aceptar el uso total o parcial del inmueble, de acuerdo a las directivas que formule la Dirección Nacional de Fronteras y Límites del Estado, respecto de medidas generales o especiales tendientes a consolidar la política territorial del Supremo Gobierno.
 
