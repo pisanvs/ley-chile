@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 771, de 30 de Septiembre de 1996, se expropiaron los lotes de terreno N°s. 28 y 29, superficies, 116 y 125 M2., roles de avalúos en trámite, comuna de Rengo, para la obra camino Ruta H-521, sector Ruta 5 Fundo El Rincón, por lo de Lobos y se acordó precio de la indemnización con sus propietarios Simón del Rosario Navarrete Acevedo y Agustín Segundo Gómez González, la cantidades de $421.278, para el lote 28 y $787.799, para el lote 29.
+
+Fiscal del Ministerio de Obras Públicas.
