@@ -1,0 +1,3 @@
+Por resolución Nº 82 de 8 septiembre 2000, Serviu Región de Taracapá, conforme a decretos leyes Nº 1.523 de 1976 y Nº 2.186 de 1978 y decretos supremos Nº 355 de 1976, 63 de 1996 y decreto Nº 120 de 2000, todos de Vivienda y Urbanismo, dispuso expropiación total del inmueble ubicado en Iquique, calle La Cantera Nº 2589, Rol de Avalúo Nº 139-11, de presunto dominio de don Renato Contreras Silva. Comisión integrada por peritos señores Jorge Romero Ossio, Ricardo Muixi Decona, constructores civiles y Santiago Vallejos Medic, arquitecto, según Informe de Tasación de 6 de agosto 2000, fijó monto provisional de indemnización en $11.648.824.- pagadera al contado.
+
+Iván Figueroa Llona, Director Serviu Región de Tarapacá.
