@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 565, de 30 de junio de 1997, se expropiaron los lotes de terreno N°30, 31, y 33, superficies 1.680, 10.616 y 6.614 M2. respectivamente, rol de avalúo 531-14, comuna de Cauquenes, para la obra Camino Cauquenes Límite Regional - Quiriue, Sector Cuesta y se acordó precio de indemnización con su propietaria Alicia Lorena Velásquez Hotus, ascendente a la cantidad de $4.864.486.-
+
+Fiscal del Ministerio de Obras Públicas
