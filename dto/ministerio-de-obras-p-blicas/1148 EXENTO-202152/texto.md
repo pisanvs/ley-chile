@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.148, de 31 de julio de 2002, se expropiaron los lotes de terreno Nºs. 97, 98 y 99, superficies 428 M2, 704 M2 y 372 M2, respectivamente, rol de avalúo 295-36, comuna de Empedrado, VII Región, para la obra ''Camino Ruta M-40, Santa Olga - Empedrado, Sector Los Pellines - Empedrado, Km. 10,860 al 18,700'' y se acordó el valor de indemnización con su propietario don Exequiel del Carmen Faúndez Faúndez, ascendente a la cantidad de $1.289.509.-
+
+Fiscal del Ministerio de Obras Públicas.
