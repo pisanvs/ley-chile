@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.026 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 174, superficie 805 m2., rol de avalúo 1356-61, comuna de Cabrero, para la obra Camino ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector: Km. 466.270,00 al Km. 477.548,00'' y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Cabrero, ascendente a la cantidad de $4.838.751.-
+
+Fiscal del Ministerio de Obras Públicas.
