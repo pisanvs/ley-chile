@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 234, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 9, superficie 1.878,0 m², Rol Nº266-419, comuna de Carahue, IX Región, para la obra "Mejoramiento Ruta S-46, Sector Carahue-Puerto Domínguez, Km. 0,00000 a Km. 7,34893" y se acordó el valor de indemnización con su propietaria Orfelinda u Orfelina del Carmen Godomar Alarcón ascendente a la cantidad de $2.018.399.-
+
+Fiscal del Ministerio de Obras Públicas.
