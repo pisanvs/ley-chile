@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA DEL NORTE S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.004 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera del Norte S.A., con domicilio en Santiago, para elaborar en la planta procesadora de harina autorizada por resolución No. 307, de 1984, de la Subsecretaría de Pesca, además de los desechos provenientes de su planta de conservería, los siguientes recursos hidrobiológico: sardina española, jurel, caballa y anchoa, pudiendo incorporar este último recurso, entre los que puede elaborar en su planta procesadora en la línea de conservas. Deniégase autorización a la solicitante para ampliar el destino de la captura efectuada por la embarcación Towerkop, en virtud de lo dispuesto en el Decreto de Economía, Fomento y Reconstrucción No. 436, de 1986.
+
+Valparaíso, 29 de Diciembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
