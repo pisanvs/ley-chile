@@ -1,0 +1,5 @@
+Por decreto MOP Nº 144, de 27 de febrero de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 44, para la obra: "PROYECTO SISTEMA AMERICO VESPUCIO SUR. TRAMO: RUTA 78 - AV. GRECIA. SECTOR 4: ACCESO SUR A SANTIAGO -
+
+AV. VICUÑA MACKENNA", Región Metropolitana, que figura a nombre de SUC CASTRO BATTAGLIA, rol de avalúo 399-2, comuna de La Florida, superficie 14 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Jesús Fernando Díaz Pasmiño y Ricardo Antonio Strickler Arellano, fijó con fecha 9 de enero de 2004, el valor provisional de la indemnización en la cantidad de $3.169.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
