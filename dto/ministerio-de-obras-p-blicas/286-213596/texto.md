@@ -1,0 +1,3 @@
+Por decreto MOP Nº 286 de fecha 28 de marzo del 2003, se expropió el lote de terreno Nºs 78 y 80, superficies 1.923 y 1.166 m2, Rol Nº 302-544, comuna Cunco, IX Región para la obra "Camino Ruta S-61, Sector: Cunco - Melipeuco, Tramo Km. 55,000 al 87,46783, correspondiente al Sub-Tramo II Km. 62,784 al 76,043 y se acordó el valor de indemnización con su propietaria Ana María Watson Salas, ascendente a la cantidad de $10.284.741.-
+
+Fiscal del Ministerio de Obras Públicas.
