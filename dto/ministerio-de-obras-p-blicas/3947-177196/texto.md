@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.947, de 31 de agosto de 2000, se expropiaron los lotes de terreno Nºs. 136-1 y 136-2, superficies 1.289 m2. y 741 m2., rol de avalúo 160-91, comuna de Pemuco, para la obra Concesión Internaciona Ruta 5. Tramo Chillán-Collipulli, Sector 1, Octava Región y se acordó el valor de indemnización con su propietario Juan Rubilar Garcés, ascendente a la cantidad de $8.408.752.-
+
+Fiscal del Ministerio de Obras Públicas.
