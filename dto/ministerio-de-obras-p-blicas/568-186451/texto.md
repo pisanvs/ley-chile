@@ -1,0 +1,3 @@
+Por decreto MOP Nº 568 de fecha 30 de abril de 2001, se expropiaron los lotes de terreno Nºs. 1-D, 1-E, superficie 490,40, 320,00 m2, respectivamente, rol de avalúo 348-3, comuna de Constitución, para la obra "Camino M-24-K Quivolgo - Puente Lautaro Sector C: Putú - Quivolgo Km. 30,000.00 a Km. 49,815.494" y se acordó el valor de indemnización con su propietario Juan Enrique Valenzuela Díaz, ascendente a la cantidad de $849.900.-
+
+Fiscal del Ministerio de Obras Públicas.
