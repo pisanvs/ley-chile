@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 735, de 30 de noviembre de 1995, se expropiaron los lotes de terreno Nºs. 1, 2, 4, 11, 12, 13, 15 y 16, superficies 672, 591, 357, 556, 168, 186, 520 y 450 m2., respectivamente, roles de avalúo 337-49, 333-43, y 1336-2, comunas de Nacimiento y Santa Juana, para la obra Camino de la Madera, sector Bifurcación Diuquín - Santa Juana y se acordó precio de indemnización con sus propietarios Juan Ríos Guzmán y otro, Pedro González Medina y Teófila Gallardo y otro, ascendente a las cantidades de $ 233.454, $ 57.084 y $ 328.328.-
+
+Fiscal del Ministerio de Obras Públicas.
