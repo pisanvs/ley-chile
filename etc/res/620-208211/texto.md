@@ -1,0 +1,3 @@
+Por resolución Nº 620, de 28 de febrero de 2003, de esta Subsecretaría de Pesca, deniégase solicitud de ampliación de plazo para iniciar actividades de cultivo presentada por HELMUT EBERHARD HOPPERDIETZEL FLACK y declárase la caducidad de la autorización de acuicultura otorgada al peticionario, ya individualizado, por resolución Nº 783, de 1997, de esta Subsecretaría, para iniciar actividades de acuicultura en la piscicultura ubicada en Fundo El César, XI Región.
+
+Valparaíso, 28 de febrero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
