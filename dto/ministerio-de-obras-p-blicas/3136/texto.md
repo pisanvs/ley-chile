@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.136, de 20 de octubre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+42-A y 42-B para la obra: ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco''; Km. 608,49000 a Km. 610,40000, Novena Región, que figura a nombre de Servanti Cazes Gabriel Roberto, rol de avalúo 698-6, comuna de Victoria, superficies 1.265 m2 y 535 m2, respectivamente. La comisión de peritos integrada por los señores Luis Javier Donoso Moreno, Patricio Fernando Casagrande Ulloa y Hugo Wilibaldo Repetto Vera, fijó con fecha 25 de mayo de 1999, el valor provisional de la indemnización en las cantidades de $10.827.000.- para el lote Nº 42-A y de $4.192.000.- para el lote Nº 42-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
