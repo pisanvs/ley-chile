@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta. N° 39 de 17 de enero de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región, se autoriza a Claudina Silva López, Raúl Pérez Molina, Teófilo Poblete Zúñiga, Gastón Guarderas Sáez, Juan Obando Romero, Francisco Valencia Caamaño, Raúl Risco Oñate, Washington Figueroa Monasterio, Francisco Troncoso Landeros, Víctor Guzmán Guzmán, Evaristo Sánchez Muñoz, Marcial Vargas Valck, Blanca Kapper Alvarado, Erica Romero, Lidia Bazaes Faúndez, Crispiniano Hern ndez Pérez y Jamalier Sáez Sanhueza para efectuar el servicio de taxi colectivo urbano en la Línea N° 10 "Corvi - Regional Centro" de Valdivia, cuyo trazado fue autorizado por Resolución Exenta N° 12 de 04 de enero de 1985 y modificado por Resolución Exenta N° 486 de 04 de noviembre de 1985, de esta Secretaría Regional.
+
+- Enrique Brintrup Barrera, Secretario Regional Ministerial, Transp, y Telec. X Región subrogante.
