@@ -1,0 +1,3 @@
+Decreto Secc. 2da. N° 282, 17/06/96, Alcalde Municipalidad Santiago dispone expropiación parcial propiedad Erasmo Escala 2243 Rol N° 401-05, comuna Santiago, dominio aparente Ricardo Vicuña Cerda, superficie aproximada 74,59 metros cuadrados. Deslindes. Norte, 15,30 mts. calle Santa Mónica; Sur, 15,30 mts. resto predio; Oriente, 5,25 mts. área uso público ensanche Santa Elena y Poniente, 4,50 mts. otro propietario. Indemnización $7.638.016.- pagadera contado.
+
+Jaime Ravinet de la Fuente, Alcalde Santiago.
