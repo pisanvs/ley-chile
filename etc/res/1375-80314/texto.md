@@ -1,0 +1,5 @@
+Por Resolución No. 1.375 de 04 de noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA ANDACOLLO S.A., R.U.T.
+
+No. 79.697.400-1, domiciliada en Santiago, para ampliar actividades pesqueras, que tiene autorizada por Resolución No. 774, de 1989, de esta Subsecretaría, en orden a incorporar en la planta industrial autorizada por la Resolución citada, en la línea de proceso de Congelado, los siguientes recursos hidrobiológicos: Albacora o Pez espada, Bacalao de Profundidad, Merluza común y Palometa. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
