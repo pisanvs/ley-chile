@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Rengo contratar empréstito hasta por 800 mil pesos, a fin de efectuar diversas expropiaciones y obras de adelanto local; y declara de utilidad pública y autoriza expropiar los terrenos que indica; garantía hipotecaria del empréstito.
