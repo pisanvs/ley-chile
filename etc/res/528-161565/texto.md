@@ -1,0 +1,11 @@
+Por resolución Nº 528 de 9 de marzo de 2000 de esta Subsecretaría, autorízase a PESCA SURIBERICA S.A., para realizar operaciones pesqueras con la nave ''Isla Santa Clara'', cuyas características náuticas son las siguientes: Matrícula 2968; Eslora total 51,45 m.;
+
+T.R.G. 915 t; Arte de pesca Palangre.
+
+Fíjase como zona de operación el área estadística 48.3, comprendida en el ámbito de competencia de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos (CCRVMA), donde podrá extraer el recurso hidrobiológico Bacalao de profundidad.
+
+La presente autorización tendrá vigencia para la temporada de pesca del recurso Bacalao de profundidad, comprendida entre el 1 de mayo del 2000 y el 31 de agosto del 2000, ambas fechas inclusive, o hasta que se alcance el límite de captura fijado para esta especie ascendente a 5.310 toneladas, lo que ocurra primero.
+
+La solicitante deberá dar estricto cumplimiento a las obligaciones establecidas en la Ley General de Pesca y Acuicultura, en el Tratado Antártico y en la Convención para la Conservación de los Recursos Vivos Marinos Antárticos (CCRVMA), especialmente a las medidas de conservación vigentes y a las que establezca la Comisión.
+
+Valparaíso, 9 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
