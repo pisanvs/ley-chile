@@ -1,0 +1,5 @@
+Por resolución No. 1.378 de 04 de Noviembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se autoriza a VALENTIN GIUGLIANO R. Y CIA. LTDA., R.U.T. No. 79.691.480-7, domiciliada en calle Santa Rosa No. 9233, Santiago, para ampliar actividades pesqueras de transformación, autorizadas por resolución No. 1125, de 1987, de esta Subsecretaría, en orden a incorporar y procesar en la planta industrial, ubicada en calle Santa Rosa No. 9233, Santiago, en las líneas de elaboración de fresco - refrigrado y congelado, los siguientes recursos hidrobiológicos: Albacora o pez espada, Bacalao de profundidad y Pejegallo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
