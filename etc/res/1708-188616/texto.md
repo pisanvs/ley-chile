@@ -1,0 +1,5 @@
+Por resolución Nº 1.708, de 7 de agosto de 2001, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.623 de 2001, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2001-
+
+10, denominado "Evaluación del stock desovante de Anchoveta por el método de producción de huevos en la I y II Regiones, año 2001", en el sentido de reemplazar las naves "Loa 4" y "Loa 7" por las naves "Coray I" y "Don Peter", todas de Pesquera La Península S.A., y las naves "Mero" y "Salmón" por las naves "Alerce" y "Mar Bella", todas de Corpesca S.A., de la nómina de naves participantes en la presente pesca de investigación.
+
+Valparaíso, 7 de agosto de 2001.- Edith Saa Collantes, Subsecretario de Pesca (S).
