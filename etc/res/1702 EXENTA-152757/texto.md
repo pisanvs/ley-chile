@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.702 de 26 de Agosto de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento Aguas proporcionales que corresponden a sectores excluidos y expropiados de predio "Hijuela Norte del Fundo y Viña denominada Santa Adela y Quechereguas" e "Hijuela Primera del Fundo Las Casas de Santa Adela", de la Comuna de Molina, VII Región y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 44, sitios N°s. 2, 5 al 22, 27 al 29 y 40 al 44 y Reservas CORA N°s. 1 y 2 de la parte del Proyecto de Parcelación "El Libertador", formado por predios señalados y por sectores expropiados predios "Fundo El Carmen" y "Viña Purísima". Los derechos de agua se extraen del Río Lontué por los canales La Patagua y Pelarco Buena Unión.
+
+Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
