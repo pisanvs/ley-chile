@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.162 de fecha 29 de noviembre del 2002, se expropió el lote de terreno Nº123-L superficie 57.100 M2 sin rol de Avalúo, comuna de Alto del Carmen para la obra "Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo km. 0,000 al km. 70,000, Estapa III", III Región y se acordó el valor de indemnización con su propietario Eduardo Mulet Bou, ascendente a la cantidad de $16.472.061.-
+
+Fiscal del Ministerio de Obras Públicas.
