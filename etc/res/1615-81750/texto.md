@@ -1,0 +1,3 @@
+Por Resolución Nº 1.615, de 28 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de ampliación de actividades pesqueras extractivas presentada por ALIMENTOS MARINOS S.A., para sus naves "Loa 3", "Ranquilhue", "Panilonco", "Seiko", "Arequipa VII", "Alimar VII", "Alimar IX", "Quilpolemu", "Alcántara", "Santa Irene", "Paniahue", "Alcones" y "Querelema", por tratarse en cada caso de recursos que se presentan como fauna acompañante del Jurel, respecto del cual las antedichas naves no tienen permisos en las áreas de pesca solicitadas.
+
+Valparaíso, 28 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
