@@ -1,0 +1,3 @@
+Por resolución Nº 1.036 de 29 de mayo de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96105033 presentada por el S.T.I. DEL MAR, CULTIVADORES Y EXPLOTADORES DE ALGAS, MOLUSCOS, PECES Y OTROS "NUEVA ESPERANZA", para el centro de cultivo ubicado en Punta Chucalén, Estero Quetalmahue, X Región.
+
+Valparaíso, 29 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
