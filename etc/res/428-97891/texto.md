@@ -1,0 +1,3 @@
+Por Resolución Nº428, de 6 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución Nº554, de 1990, de esta Subsecretaría, que autorizó a MARIO EDULIO FLORES DIEDRICH, para instalar y operar un centro de cultivo ubicado en Río Quenuir, comuna de Maullín, X Región, por haberse derogado el respectivo decreto de concesión de acuicultura.
+
+Valparaíso, 6 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
