@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº783 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº1, superficie 359 m2, rol de avalúo Nº128-138, comuna El Carmen, para la obra: ''Canal Matriz Sector Pemuco Diguillín, Camino de Acceso a Puente Predial Km. 37,185.00, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietaria María Mercedes Vásquez Salazar, ascendente a la cantidad de $244.132.-
+
+Fiscal del Ministerio de Obras Públicas.
