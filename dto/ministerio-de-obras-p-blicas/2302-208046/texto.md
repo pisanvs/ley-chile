@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.302 de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº66, superficie 2.321 m2, rol de avalúo Nº2087-329, comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F Sector Melipilla - Bollenar, tramo Km. 0.00000 a Km. 14.23039", Región Metropolitana y se acordó el valor de la indemnización con su propietaria Marta Elena Fuenzalida Becerra, ascendente a la cantidad de $13.645.190.-
+
+Fiscal del Ministerio de Obras Públicas.
