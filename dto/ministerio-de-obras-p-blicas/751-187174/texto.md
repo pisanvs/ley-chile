@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 751, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 22, superficie 5.154,00 m2., rol de avalúo 524-271, comuna de La Unión, para la obra ''Camino Ruta T-80, Sector La Unión - Las Trancas, Km. 0,900 al 10,99034'' y se acordó el valor de indemnización con su propietario Mario R. Briceño Martínez, ascendente a la cantidad de $16.400.850.-.
+
+Fiscal del Ministerio de Obras Públicas.
