@@ -1,0 +1,5 @@
+Por decreto MOP Nº 530, de 30 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 46-A, para la ejecución de la obra "Camino Ruta S-16, Sector Chol-Chol - Nueva Imperial Tramo Km. 24,30269 al Km.
+
+43,50000, Subtramo II Km. 29,840 a Km. 35,215", que figura a nombre de Forestal Probosque Limitada, Rol de Avalúo 616-4, comuna de Nueva Imperial, IX Región, superficie 19.757 M². La Comisión de peritos con fecha 31 de julio de 2003, fijó el monto de la indemnización provisional en la cantidad de $19.005.327.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
