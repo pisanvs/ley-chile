@@ -5500,7 +5500,7 @@ No obstante lo anterior, el encaje promedio mantenido por las instituciones fina
 
 2.- Equivalencia en dólares de los saldos en otras monedas extranjeras.
 
-Para determinar la equivalencia en dólares de los Estados Unidos de América de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a dólares, de acuerdo con las paridades publicadas por el Banco Central de Chile de conformidad con lo dispuesto en el N° 6 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales, el último día hábil bancario del mes calendario inmediatamente precedente.
+Para determinar la equivalencia en dólares de los Estados Unidos de América de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a dólares, de acuerdo con las paridades publicadas por el Banco Central de Chile de conformidad con lo dispuesto en el N° 6 del Capítulo I del Compendio de Normas de Cambios Internacionales, el último día hábil bancario del mes calendario inmediatamente precedente.
 
 ### 3. Intereses y reajustes
 
@@ -5852,15 +5852,15 @@ En todo caso, cuando una institución financiera opte por constituir su reserva 
 
 Dicha reserva técnica podrá enterarse con los siguientes recursos registrados, conforme a las normas vigentes, en cuentas de las partidas 1005 y 1010:
 
-a) Billetes y monedas de curso legal en el país o monedas extranjeras sujetas a posición de cambio, que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en transito al Banco Central de Chile o en custodia en empresas transportadoras de valores;
+a) Billetes y monedas de curso legal en el país o monedas extranjeras, que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en transito al Banco Central de Chile o en custodia en empresas transportadoras de valores;
 
-b) Depósitos a la vista en el Banco Central de Chile, con excepción de los fondos depositados en la cuenta especial destinada a cubrir el encaje de que trata el título IV del Capítulo 4-1 de esta Recopilación;
+b) Depósitos a la vista en el Banco Central de Chile.
 
 c) Depósitos "overnight" en el Banco Central de Chile; y
 
 d) Depósitos mantenidos en el Banco Central de Chile según Capítulo IV.B.8.7 del Compendio de Normas Financieras, registrados en la cuenta "Depósitos de liquidez".
 
-Por consiguiente, podrán considerarse para reserva técnica todos los saldos que deben incluirse en las partidas 1005 y 1010, con excepción de los correspondientes a monedas de libre disposición y los importes de las cuentas "Caja en custodia en otras entidades financieras." y "Cuenta especial encaje Acuerdo N° 143-01910705".
+Por consiguiente, podrán considerarse para reserva técnica todos los saldos que deben incluirse en las partidas 1005 y 1010, con excepción de los importes de la cuenta "Caja en custodia en otras entidades financieras.
 
 Asimismo, la reserva técnica podrá enterarse con documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, para cuyo vencimiento no falten más de 90 días, según lo indicado en el numeral 5.3 de este título.
 
@@ -10812,11 +10812,9 @@ En lo que concierne a los antecedentes que permiten, en general, respaldar las c
 
 Para efectos de clasificar la cartera de créditos comerciales de acuerdo con las instrucciones del numeral 2.2 de este titulo, se considerarán las garantías constituidas por cartas de crédito stand-by solamente cuando éstas cumplan las siguientes condiciones:
 
-a) que se trate de cartas de crédito irrevocables y pagaderas a su sola presentación;
+a) que se trate de cartas de crédito irrevocables y pagaderas a su sola presentación.
 
-b) que el banco emisor se encuentre clasificado en primera categoría de riesgo por una empresa calificadora internacional, según lo previsto en el Capítulo 1-12 de esta Recopilación; y,
-
-c) que no estén emitidas por la casa matriz del banco extranjero a favor de cuya sucursal en Chile se extiende la garantía, ni por otra sucursal de ese banco en el extranjero.
+b) que el banco emisor se encuentre clasificado en primera categoría de riesgo por una empresa calificadora internacional, según lo previsto en el Capítulo 1-12 de esta Recopilación.
 
 2.6. Garantías constituidas por documentos de resguardo o fianza emitidos por sociedades domiciliadas en el exterior.
 
