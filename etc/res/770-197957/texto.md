@@ -1,0 +1,3 @@
+Por resolución Nº 770 de 19 de abril de 2002 modifícase el numeral 4º de la resolución Nº 222 de 2002, modificada mediante resolución Nº 496 de 2002, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Esfuerzo de la pesca artesanal de merluza del sur en aguas interiores de la X Región en la apertura de pesca de la zona Chiloé-Palena, enero-abril 2002", en el sentido de señalar que el límite de captura autorizado para el mes de abril ascenderá a 147 toneladas.
+
+Valparaíso, 19 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
