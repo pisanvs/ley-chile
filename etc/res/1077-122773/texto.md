@@ -1,0 +1,3 @@
+Por resolución Nº 1.077, de 29 de julio de 1998, de esta Subsecretaría, autorízase a PESQUERA OMEGA LIMITADA, para iniciar actividades pesqueras extractivas con una nave denominada ''Portugal II'', en el litoral correspondiente a las Islas de Pascua, Salas y Gómez, Juan Fernández y San Félix, por fuera del área de reserva artesanal, donde podrá capturar con espinel los siguientes recursos hidrobiológicos: Anguila, Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Bacalao de profundidad, Toremo, Remoremo, Tollo, Marrajo o tiburón y Pez Volador.
+
+Valparaíso, 29 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
