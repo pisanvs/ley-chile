@@ -4736,6 +4736,8 @@ Código Plaza Jurisdicción
 
 0208 San Felipe "
 
+0216 Putaendo "
+
 0224 Los Andes "
 
 0225 Saladillo "
@@ -5013,6 +5015,8 @@ Código Plaza Cámara de la Agrupación Jurisdicción
 0128 Coquimbo " "
 
 0208 San Felipe San Felipe Valparaíso
+
+0216 Putaendo " "
 
 0224 Los Andes " "
 
