@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.006, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s. 25 y 27, superficie 1.519 y 556 m² respectivamente, rol de avalúo 266-10, comuna de Carahue, para la obra Camino Carahue - Puerto Saavedra, Sector Tramo 1 y se acordó precio de indemnización con su propietario Benigno Ulloa Burgos, ascendente a la cantidad de $1.508.091.- para los lotes 25 y 27.-
+
+Fiscal del Ministerio de Obras Públicas.
