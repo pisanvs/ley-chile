@@ -14938,7 +14938,7 @@ i) existe una prohibición judicial para enajenar el bien;
 
 ii) la institución financiera haya entablado un juicio para obtener la restitución o desalojo del bien;
 
-iii) sea necesario efectuar reparaciones o terminaciones para obtener un mejor precio de venta para un bien, siempre que el tiempo necesario para ejecutar las obras sea superior a doce meses;
+iii) sea necesario obtener el alzamiento de un gravamen o efectuar reparaciones o terminaciones para obtener un mejor precio de venta para un bien, siempre que el tiempo necesario al efecto sea superior a doce meses.
 
 Las instituciones financieras que, de conformidad con estas normas, hagan uso del plazo adicional para la enajenación de bienes recibidos o adjudicados en pago, deberán haber castigado contablemente los bienes de que se trata, como requisito legal indispensable para acogerse a este plazo para enajenar. Además, deberán mantener a disposición de esta Superintendencia los antecedentes que demuestren que tales bienes se encuentran en alguno de los casos señalados en los numerales precedentes.
 
