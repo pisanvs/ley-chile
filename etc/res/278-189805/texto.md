@@ -1,0 +1,7 @@
+DESIGNA SECRETARIOS, EN CALIDADES QUE INDICA, EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA PRIMERA SERIE DE VALPARAISO Y EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAICES DE LA PRIMERA Y SEGUNDA SERIE DE COPIAPO
+
+En virtud de lo dispuesto en el artículo 121 del Código Tributario por resolución Nº 278, de 24 de agosto de 2001, el suscrito ha designado a don Víctor Hugo Martínez Morales, Fiscalizador, grado 13º, RUT Nº 6.714.377-9, como Secretario Titular, y a don Bernardo Adrián Contreras Briceño, Fiscalizador, grado 12º, RUT Nº 4.291.385-5, como Secretario Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Valparaíso, y a doña Carmen Luz Latorre Leyton, Fiscalizador, grado 12º, RUT Nº 6.709.079-9, como Secretario Titular y a doña Mafalda Gálvez Palma, Directivo, grado 8º, RUT Nº 6.627.659-7, como Secretario Suplente, en los Tribunales Especiales de Alzada de los Bienes Raíces, de la Primera y Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Copiapó.-
+
+> **Nota.** La Res 4, Hacienda, publicada el 17.05.2004, deja sin efecto la designación de Doña Carmen Luz Latorre Leyton, efectuada por la presente norma.
+
+Javier Etcheberry Celhay, Director.
