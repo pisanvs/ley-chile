@@ -1,0 +1,3 @@
+Por resolución Nº 329, de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99103163 presentada por MAURICIO ESTEBAN MARTINEZ MARIN, para instalar y operar un centro de cultivo ubicado en canal Queilén, sector oeste de isla Acui, comuna de Queilén, provincia de Chiloé, X Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
