@@ -1,0 +1,3 @@
+Por resolución Nº 920, de 2 de mayo de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Isla Doña Sebastiana, X Región, individualizada en el artículo 1º Nº 8) del decreto exento Nº 641 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS ASISTENTES Y PESCADORES "MAR BRAVA".
+
+Valparaíso, 2 de mayo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
