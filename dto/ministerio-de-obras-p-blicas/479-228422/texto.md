@@ -1,0 +1,3 @@
+Por decreto MOP Nº 479 de 15 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 7 para la obra: Camino Ruta L-32, Sector Puente Sifón y Accesos, km. 0,00000 a km. 3,20000, que figura a nombre de Vásquez González Cervando A., rol de avalúo 274-115, comuna de San Javier, VII Región, superficie 18.627 m². La Comisión de peritos, fijó con fecha 6 de septiembre de 2003; en la cantidad de $6.951.750.- lote 7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
