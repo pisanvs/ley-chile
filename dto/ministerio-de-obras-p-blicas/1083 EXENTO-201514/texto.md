@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.083, de 25 de julio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nos 42-B, 61-A y 61-B, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Etapa 2, Km.
+
+10,98400 a Km. 34,50000, que figuran a nombre de Zamora Negrete Orfilia Teresa y Comunidad La Dormida, roles de avalúo 225-5 y 225-17, superficies 205 m²; 1.298 m² y 339 m², comuna de Olmué. La Comisión de Peritos, con fecha 2 de marzo de 2001, fijó la indemnización provisional en las cantidades de $2.224.800, lote 42-B, $1.492.700, lote 61-A y $389.850, lote 61-B, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
