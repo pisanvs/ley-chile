@@ -1,0 +1,3 @@
+Por decreto MOP Nº393 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº3, superficie 20 m2, rol de avalúo 5-12, comuna de Coltauco, para la obra "Proyecto Mejoramiento El Arroyo, sector acceso a Coltauco, Km. 0.000 a Km. 0.675,647" y se acordó el valor de indemnización con su propietario Manuel Enrique Parra Zúñiga, ascendente a la cantidad de $773.900.
+
+Fiscal del Ministerio de Obras Públicas.
