@@ -1,0 +1,21 @@
+DECLARA APLICABLES A LA COMPAÑIA MINERA ANDINA LAS DISPOSICIONES QUE SEÑALA
+
+Núm. 592.- Santiago, 11 de Julio de 1974.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973,
+
+la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Declárase que las disposiciones contenidas en el decreto ley N° 135, de 1973, también son aplicables a la Compañía Minera Andina.
+
+#### Artículo 2°
+
+El pago del impuesto a que se refiere el artículo 6° de la ley N° 16.624, de 15 de Mayo de 1967, y que corresponde a la declaración provisional por el período comprendido entre los meses de Septiembre a Diciembre de 1973, ambos inclusive, podrá efectuarse durante el transcurso del año 1974.
+
+El pago deberá hacerse en cuotas mensuales a partir del mes de Marzo de 1974, inclusive, y no podrá exceder de 10 cuotas mensuales. El monto de cada cuota no podrá ser inferior a la décima parte del impuesto total adeudado a la época del pago de la primera cuota.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Jorge Cauas Lama, Ministro de Hacienda.- Agustín Toro Dávila, General de Brigada, Ministro de Minería.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Pedro Larrondo Jara, Capitán de Navío (AB), Subsecretario de Hacienda.
