@@ -1,0 +1,3 @@
+Por resolución N° 1.907, de 8 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 91001118, presentada por EVA DEL CARMEN RUAY BARRIENTOS, para un centro de cultivo ubicado en sector Tey, estero Castro, comuna de Castro, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
