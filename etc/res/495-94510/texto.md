@@ -1,0 +1,3 @@
+Por Resolución No. 495 de 16 de mayo 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado en calle Ricardo Santa Cruz No. 731 - 737, presunto rol avalúos No. 596-11 comuna de Santiago aparentemente dominio de doña Olga Moneta Ormazábal. Comisión integrada por peritos Ricardo Carvallo Rodríguez y Luis del Pozo Concha arquitectos y Raúl Varela Hernández, ingeniero civil, según informe de 2 de diciembre de 1988, fijó monto provisional indemnización en $ 1.564.920.-, pagadera al contado.
+
+- Director SERVIU Metropolitano.
