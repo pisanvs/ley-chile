@@ -1,0 +1,3 @@
+Por resolución Nº 1.158 de 13 de junio de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101074 presentada por RAMON SEGUNDO MANCILLA OYARZO, para un centro de cultivo en Canal Hornopirén, Sector Desembocadura de Río Negro, comuna de Hualaihué, provincia de Palena, X Región.
+
+Valparaíso, 13 de junio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
