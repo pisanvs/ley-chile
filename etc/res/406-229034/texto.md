@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 406, 16 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 1562, ST 6 A, Nueva Villa, Rol de Avalúo Nº 3113-74, comuna Chiguayante, superficie 66,24 m² de terreno y 103,5 m². de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.142, de aparente dominio de José V. Inostroza Bustos, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y DL. 2.186. Comisión Peritos integrada por Gabriel Fernández de la Maza, ingeniero civil, Sergio Labarca Garrido, constructor civil y Boris Aptecar González, arquitecto, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $19.710.960.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
