@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 754, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 1, superficie 980 M2, rol de avalúo 1384-8, comuna de Angol, para la obra ''Camino Ruta R-226, Sector Angol - Vegas Blancas, Tramo Km. 0,07350 al 0,26050'' y se acordó el valor de indemnización con su propietaria Margarita Jenny Villavicencio Parra, ascendente a la cantidad de $5.289.500.-.
+
+Fiscal del Ministerio de Obras Públicas.
