@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2332 de 09 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Parcelas N°s. 1 a la 12, sitios N°s. 1 y 2 del Proyecto de Parcelación "San Pedro de Ñiquén", formado por predio "San Pedro de Ñiquén, primitivamente San Antonio del Boldo" de la comunal de Ñiquén, VIII Región. Los Derechos de Agua se extraen de los Esteros Cachapoal y La Aguada. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
