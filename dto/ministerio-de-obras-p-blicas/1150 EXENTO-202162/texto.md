@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.150, de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 39, superficie 344 m2, rol de avalúo Nº 286-11, comuna de San Fernando, para la obra ''Camino San Fernando - Roma Ro I-301, I-151, Kms. 00,000 al 10,954.264'', VI Región y se acordó el valor de la indemnización con su propietario Hernán Armando o Hernán Martino Mendiluce, ascendente a la cantidad de $1.504.360.-
+
+Fiscal del Ministerio de Obras Públicas.
