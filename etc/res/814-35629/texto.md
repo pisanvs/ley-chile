@@ -1,0 +1,3 @@
+Por Resolución N° 814 de 2 de Septiembre de 1994 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186, de 1978, de parte del inmueble ubicado en sector prolongaciónde calles Monseñor Larraín y Trebulco, presunto rol de avalúos N° 513-182 comuna de Talagante, aparente dominio de don Aurelio Pichilef Pichilef, con una superficie aproximada de 13.685,50 m2. Comisión integrada por peritos Sres. José Miguel Haltenhoff Aenishanslin, constructor civil, Ramón Undurraga Montes, ingeniero civil y René Ureta Koster, arquitecto, según informe de 14 de Julio de 1994, fijó monto proivicional indemnización en $18.270.143.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
