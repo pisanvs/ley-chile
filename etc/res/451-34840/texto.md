@@ -1,0 +1,9 @@
+Por Resolución N° 451, de 1 de Julio de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA ALGAZO LTDA., R.U.T. N° 84.460.500-5, para ampliar actividades pesqueras autorizadas por Resoluciones N° 1.825, de 1989 y N° 512, de 1990, ambas de esta Subsecretaría, en orden a instalar una planta de congelado la cual se encuentra en construcción en un sitio arrendado, ubicado en Chanhué s/n Maullín, Sector La Pasada, X Región, donde procesará en la línea de proceso que se indica, los siguientes recursos hidrobiológicos: Congelado; Bacalao de profundidad, Blanquillo, Cojinoba, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos 440chicos, Lisa, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza española, Pejegallo, Pejerrey de mar, Raya, Róbalo, Salmón, Sardina común, Sierra, Tollo, Almeja, Calamar, Caracol locate, Caracol trumulco, Cholga, Chorito, Choro, Culengue, Lapa, Macha, Navajuela, Ostión del sur, Ostra chilena, Cangrejo, Centolla, Centollón, Jaiba no clasificada, Erizo, Pepino de mar y Piure.
+
+Los recursos Salmón, Ostión del sur y Ostra chilena deberán provenir de centros autorizados para realizar actividades de cultivo.
+
+Los recursos Centolla y Centollón deberán provenir de zonas no afectas a restricción, lo que se acreditará mediante guías de libre tránsito emitidas por el Servicio Nacional de Pesca.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 1 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
