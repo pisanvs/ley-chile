@@ -302,7 +302,7 @@ DE LOS LABORATORIOS DE SALUD PUBLICA
 
 El Servicio Nacional de Salud establecerá en los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
 
-> **Nota.** Véase el Capítulo IV, Arts. 35 a 45, del Decreto Ley 2763, Salud, publicado el 03.08.1979, que crea el Instituto de Salud Pública de Chile "Dr. Eugenio Suárez Herreros", como continuador legal, con todos sus derechos y obligaciones, del ex Servicio Nacional de Salud, en lo referente al ex Instituto Bacteriológico de Chile.
+> **Nota.** Véase el Capítulo IV, Arts. 35 a 45, del Decreto Ley 2763, Salud, que crea el Instituto de Salud Pública de Chile "Dr. Eugenio Suárez Herreros", como continuador legal, con todos sus derechos y obligaciones, del ex Servicio Nacional de Salud, en lo referente al ex Instituto Bacteriológico de Chile. El Reglamento del Instituto de Salud Publica está contenido en el Decreto 1222, Salud, publicado el 26.08.1997.
 
 #### Artículo 43°
 
@@ -860,7 +860,9 @@ DE LOS PRODUCTOS ALIMENTICIOS
 
 Se entenderá por alimentos o productos alimenticios cualquier substancia o mezcla de substancias destinadas al consumo humano, incluyendo las bebidas y todos los ingredientes y aditivos de dichas substancias.
 
-> **Nota.** Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan. Véase también la Resolución 1 exenta, publicada el 17.01.1986, que establece normas sanitarias para la pasteurización de la leche y productos lácteos.
+> **Nota.** Véase el Decreto 977, Salud, publicado el 13.05.1997, que aprueba el Reglamento Sanitario de los Alimentos.
+
+> **Nota.** NOTA 1: Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan. Véase también la Resolución 1 exenta, publicada el 17.01.1986, que establece normas sanitarias para la pasteurización de la leche y productos lácteos.
 
 #### Artículo 109°
 
@@ -898,11 +900,13 @@ No obstante lo dispuesto en el inciso primero, con la autorización del Director
 
 Se considera ejercicio ilegal de la profesión de médico-cirujano todo acto realizado con el propósito de formular diagnóstico, pronóstico o tratamiento en pacientes o consultantes, en forma directa o indirecta, por personas que no están legalmente autorizadas para el ejercicio de la medicina.
 
-Los servicios profesionales del psicólogo comprenden la aplicación de principios y procedimientos psicológicos que tienen por finalidad asistir, aconsejar o hacer psicoterapia a las personas con el propósito de promover el óptimo desarrollo potencial de su personalidad o corregir sus alteraciones o desajustes. Cuando estos profesionales presten sus servicios a personas que estén mentalmente enfermas, deberán poner de inmediato este hecho en conocimiento de un médico especialista y podrán colaborar con éste en la atención del enfermo.
-
 No obstante lo dispuesto en el inciso anterior, quienes cumplan funciones de colaboración médica, podrán realizar algunas de las actividades señaladas, siempre que medie indicación y supervigilancia médica. Asimismo, podrán atender enfermos en caso de accidentes súbitos o en situaciones de extrema urgencia cuando no hay médico-cirujano alguno en la localidad o habiéndolo, no sea posible su asistencia profesional.
 
-> **Nota.** Véanse los artículos 313 a, 313 b y 313 c del Código Penal agregados por la Ley N° 17.155, publicada el 11.06.1969.
+Los servicios profesionales del psicólogo comprenden la aplicación de principios y procedimientos psicológicos que tienen por finalidad asistir, aconsejar o hacer psicoterapia a las personas con el propósito de promover el óptimo desarrollo potencial de su personalidad o corregir sus alteraciones o desajustes. Cuando estos profesionales presten sus servicios a personas que estén mentalmente enfermas, deberán poner de inmediato este hecho en conocimiento de un médico especialista y podrán colaborar con éste en la atención del enfermo.
+
+Los servicios profesionales de la enfermera comprenden la gestión del cuidado en lo relativo a promoción, mantención y restauración de la salud, la prevención de enfermedades o lesiones, y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
+
+> **Nota.** Véanse los artículos 313 a, 313 b y 313 c del Código Penal, agregados por la Ley N° 17.155.
 
 #### Artículo 114°
 
@@ -920,11 +924,11 @@ Los laboratoristas dentales sólo podrán ejercer sus actividades a indicación 
 
 #### Artículo 117°
 
-El ejercicio de la profesión de matrona comprenderá la atención del embarazo, parto o puerperio normales.
+Los servicios profesionales de la matrona comprenden la atención del embarazo, parto y puerperio normales y la atención del recién nacido, como, asimismo, actividades relacionadas con la lactancia materna, la planificación familiar y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
 
 En la asistencia de partos, sólo podrán intervenir mediante maniobras en que se apliquen técnicas manuales y practicar aquellas curaciones que signifiquen atención inmediata de la parturienta.
 
-Podrán usar y prescribir sólo aquellos medicamentos que el Reglamento clasifique como necesarios para la atención de partos normales.
+Podrán usar y prescribir sólo aquellos medicamentos que el reglamento clasifique como necesarios para la atención de partos normales.
 
 #### Artículo 118°
 
