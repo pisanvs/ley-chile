@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.707, de fecha 29 de noviembre de 2002, se expropió el lote de terreno Nº15, superficie 283,7 m2, rol de avalúo 167-160, comuna de Maule, VII Región, para la obra "Camino Ruta K-620, Sector Culenar - Maule, Km. 0,000.00 al 10,520.00" y se acordó el valor de indemnización con su propietario don Luis Hernán Berríos Rojas, ascendente a la cantidad de $1.595.266.-
+
+Fiscal del Ministerio de Obras Públicas.
