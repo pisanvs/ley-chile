@@ -1,0 +1,3 @@
+Por Resolución N° 1.549, de 16 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por HECTOR LEONARDO BARRIA MONTIEL, para un sector ubicado en Canal Jacaf, Comuna de Cisnes, Provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 16 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
