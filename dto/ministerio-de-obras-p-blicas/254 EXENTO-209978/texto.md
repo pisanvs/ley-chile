@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 254 de fecha 31 de marzo del 2003, se expropio el lote de terreno Nº 1-A, superficie 7 m2, Rol Nº 155-3, comuna de Curarrehue, IX Región para la obra "Camino Catripulli - Curarrehue, Sector Km. 108,20 al Km. 114,80" y se acordó el valor de indemnización con su propietario Roberto Luis Rodríguez González, ascendente a la cantidad de $156.905.-
+
+Fiscal del Ministerio de Obras Públicas.
