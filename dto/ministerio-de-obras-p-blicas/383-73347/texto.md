@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 383, de 21 de abril de 1997, se expropiaron los lotes de terreno Nºs. 269 y 275, superficies 16.947 m2. y 12.603 m2., roles de avalúo 1281-17 y 1281-40, comuna de Penco, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Manuel Careaga y Sinforiano Fierro Saavedra, ascendente a las cantidades de $3.061.520.- y $4.499.480.-
+
+Fiscal del Ministerio de Obras Públicas.
