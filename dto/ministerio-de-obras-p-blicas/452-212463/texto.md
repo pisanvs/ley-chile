@@ -1,0 +1,3 @@
+Por decreto MOP Nº452 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº60-A, superficie 3.619 m2, Rol de Avalúó Nº136-32, comuna de San Francisco de Mostazal, VI Región para la obra "Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, tramo Km. 0,000 a Km. 9,317" y se acordó el valor de indemnización con su propietaria Clara Elvira Gertrudis Zolezzi Ebensperger y Otra, ascendente a la cantidad de $25.072.425.
+
+- Fiscal del Ministerio de Obras Públicas.
