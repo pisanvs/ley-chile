@@ -1,0 +1,5 @@
+Por resolución Nº996, de 16 de julio de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a INSTITUTO DE FOMENTO PESQUERO (IFOP) para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Asesoría Grupal a Microempresarios del Subsector Pesquero Artesanal de la Localidad de Puerto Edén en Aspectos Técnicos y de Gestión Relacionados con la solicitud de Area de Manejo y Explotación de Recursos Bentónicos'' elaborado por el citado Instituto y aprobado por esta Subsecretaría. La pesca de investigación que se autoriza comprenderá un período que abarca del 15 de agosto al 15 de septiembre de 1998, y estará dirigida a los recursos, Ostión del sur, Chorito y Cholga. Las operaciones de pesca se realizarán en la localidad de Estero Falcón, provincia de Ultima Esperanza, XII Región.
+
+El Instituto designa como persona responsable de esta pesca de investigación, al Director Ejecutivo del Instituto de Fomento Pesquero don Pablo Andrés Alvarez Tuza, R.U.T. Nº6.419.642-1.
+
+Valparaíso, 16 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
