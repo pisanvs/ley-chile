@@ -1,0 +1,3 @@
+Por decreto MOP Nº 304, de 28 de febrero de 2001, se expropió el lote de terreno Nº 649, superficie 434 m², rol de avalúo 658-188, comuna de Buin, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector: C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Pastor Cornejo Becerra, ascendente a la cantidad de $3.304.372.-.
+
+Fiscal del Ministerio de Obras Públicas.
