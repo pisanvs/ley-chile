@@ -1,0 +1,9 @@
+AUTORIZA A DON OSVALDO GUAJARDO LEYTON PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA. DECLARA CADUCIDAD DE RESOLUCIONES QUE SEÑALA
+
+Por Resolución No. 96, de 23 de Enero de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Osvaldo Guajardo Leyton.
+
+R.U.T. No. 8.381.415-2, domiciliado en la ciudad de Iquique, calle Obispo Labbé No. 1294, para iniciar las actividades pesqueras, en orden a operar la embarcación "Tío Cote", en el litoral de las Regiones I a X, donde podrá extraer los siguientes recursos hidrobiológicos: Enmalle: Albacora o pez espada. Espinel: Bacalao de profundidad o mero, marrajo o tiburón. En el litoral de las Regiones I a VIII el recurso cojinoba del Norte. Asimismo, el interesado podrá extraer con la nave antes referida, en el litoral de las Regiones III a VII, los siguientes recursos hidrobiológicos: Cereo: Anchoa, bonito, caballa, jurel lisa y sardina. Deniégase la autorización solicitada por el peticionario para extraer con la embarcación "Tío Cote", en el litoral de las Regiones I, II y VIII los siguientes recursos hidrobiológicos: Sardina, jurel, caballa y anchoa de conformidad con lo dispuesto en el Decreto No. 436, de 1985, vigente a la fecha de presentación de esta solicitud Declárase la caducidad de las Resoluciones No. 734 y No.
+
+1.738, de 1989, de esta Subsecretaría de Pesca, de conformidad con lo establecido en el artículo 6° del DS No. 175, del Ministerio de Economía, Fomento y Reconstrucción. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Enero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
