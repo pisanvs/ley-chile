@@ -1,0 +1,5 @@
+Por Resolución N° 1.171, de 7 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 867, de 1993, de esta Subsecretaría, que caducó las Resoluciones N° 908, de 1988, N° 1736, y N° 1793, ambas de 1989, todas de esta Subsecretaría, que autorizaron a don FRANCISCO OBERREUTER DIAZ, R.U.T. N° 10.347.585-6, para operar la nave "Horizonte I", en virtud de haberse acogido la reclamación interpuesta, de conformidad con el artículo 143 inciso 2° de la Ley General de Pesca y Acuicultura.
+
+Amplíase por un año, contado desde la fecha de esta Resolución, el plazo otorgado a don Francisco Oberreuter Díaz, ya individualizado, para sustituir las actividades pesqueras autorizadas por resoluciones N° 905, de 1988, N° 1736 y N° 1793, ambas de 1989, todas de esta Subsecretaría, en virtud de haberse acreditado la existencia de una fuerza mayor.
+
+Valparaíso, 7 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
