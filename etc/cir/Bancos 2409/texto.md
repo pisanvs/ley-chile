@@ -10298,7 +10298,7 @@ d) Las apreciaciones del riesgo acerca del deudor, efectuadas por la institució
 
 Para efectos de clasificar la cartera de créditos comerciales de acuerdo con las instrucciones del numeral 2.2 de este titulo, se considerarán las garantías constituidas por cartas de crédito stand-by solamente cuando éstas cumplan las siguientes condiciones:
 
-a) Sean emitidas por una institución financiera de reconocido prestigio internacional, que opere en el mercado financiero formal dentro del país donde esté establecido. Por consiguiente, no se considerarán, entre otras, aquellas cartas de crédito stand-by emitidas por entidades que desarrollen actividades tales como el "Off-Shore Banking".
+a) Sean emitidas por un banco establecido en alguno de los países que se indican en el Anexo N°1 de este Capítulo y que registre, a su vez, un capital y reservas igual o superior a 350 millones de dólares de Estados Unidos de Norteamérica.
 
 b) Se trate de cartas de crédito emitidas por entidades bancarias distintas de la casa matriz u otra sucursal del mismo banco en el exterior o una filial de aquélla. Para este efecto, el término "casa matriz" debe entenderse referido tanto a la entidad matriz de los bancos extranjeros establecidos en Chile como agencias, como a la institución extranjera que tiene participación mayoritaria en un banco constituido en el país como sociedad anónima.
 
@@ -10657,6 +10657,42 @@ constitución de las respectivas provisiones, se calculará de acuerdo con lo di
 3 2. Validez de las cartas de crédito stand-by distintas de las establecidas en estas normas.
 
 Con el fin de evitar las dificultades que el cumplimiento de lo dispuesto en el numeral 2 5 del título II de este Capítulo puede ocasionar en el caso de los créditos que, antes de la vigencia de dichas normas, se encontraban amparados por cartas de créditos stand-by distintas de aquellas a que se refiere dicho numeral, la validez de tales cauciones para la determinación del riesgo de los respectivos créditos se mantendrá hasta el 30 de junio de 1990 o hasta la fecha de vencimiento de la correspondiente carta de crédito stand-by o de pago del crédito caucionado, cualquiera que ocurra primero.
+
+ANEXO N° 1
+
+PAISES EN LOS CUALES DEBEN ESTAR SITUADOS LOS BANCOS QUE EMITAN CARTAS DE CREDITOS STAND BY QUE SIRVAN DE GARANTIA PARA CLASIFICACION DE CARTERA DE COLOCACIONES.
+
+- AUSTRALIA
+
+- AUSTRIA
+
+- BELGICA
+
+- CANADA
+
+- DINAMARCA
+
+- ESPAÑA
+
+- ESTADOS UNIDOS PE AMERICA
+
+- FRANCIA
+
+- HOLANDA
+
+- INGLATERRA
+
+- ITALIA
+
+- JAPON
+
+- REPUBLICA FEDERAL DE ALEMANIA
+
+- SUECIA
+
+- SUIZA
+
+- TAIWAN
 
 CAPITULO 8-29 (Bancos y Financieras)
 
