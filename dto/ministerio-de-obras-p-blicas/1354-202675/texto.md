@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.354, de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 7, superficie 1.010 m2, rol de avalúo 137-5, comuna de El Monte, Región Metropolitana, para la obra ''Camino Santiago - El Monte, Ruta G-78, Sector Puente San Francisco en El Monte, Km. 0,000 al 1.623,36'' y se acordó el valor de la indemnización con su propietaria doña Audomira del Carmen Armijo Guaico, ascendente a la cantidad de $23.228.293.-
+
+Fiscal del Ministerio de Obras Públicas.
