@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 57, de 30 de enero de 1998, se expropió el lote de terreno N°1, superficie 373 m2., rol de avalúo 2087-9, Comuna de Melipilla, para la obra Camino Autopista Santiago - San Antonio, Sector Enlace y Plaza de Peaje Pomaire, Km. 55.600 al km. 56,500, y se acordó precio de la indemnización con doña María Loreto Tagle Pereira, ascendente a la cantidad de $2.024.844.-
+
+Fiscal del Ministerio de Obras Públicas.
