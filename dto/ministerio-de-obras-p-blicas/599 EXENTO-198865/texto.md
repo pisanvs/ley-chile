@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 599, de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 68-A, superficie 75 m2, Rol de Avalúo Nº 159-18, comuna de Ranquil, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea-Ñipas Tramo I, 0,00000 a Km. 5,58300'' VIII Región y se acordó el valor de indemnización con su propietario José Mariángel Ossorio, ascendente a la cantidad de $421.640.-
+
+Fiscal del Ministerio de Obras Públicas.
