@@ -1,0 +1,3 @@
+Por resolución No. 932 de 23 de Septiembre de 1992, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, ampliase por un año, a contar del 23 de octubre de 1992, el plazo otorgado a DAERIM FISHERY CO. LTD. CHILE Y CIA. LTDA., RUT No. 85.865.400-9, domiciliada en Esmeralda 1107. oficinas 6 y 7, Valparaíso, para continuar operando la nave "Jin Yang No. 2", autorizada por resolución No. 109, de 1979, de esta Subsecretaría de Pesca, en razón de haberse acreditado la ocurrencia de una situación que constituye fuerza mayor.
+
+Valparaíso, 23 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
