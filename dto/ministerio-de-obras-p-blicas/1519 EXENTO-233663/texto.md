@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.519 de fecha 29 de octubre del 2004, se expropió el lote de terreno Nº35, superficie 979, rol Nº303-120, comuna de Cunco, IX Región para la obra "Camino Ruta S-61, sector Cunco - Melipeuco, Tramo Km. 55,000 al Km. 87,46783, correspondiente - Tramo I Km. 55,000 al 62,784" y se acordó el valor de indemnización con su propietario don Manuel Osvaldo Altamirano Arroyo, ascendente a la cantidad de $720.618.- para el lote Nº 35.
+
+Fiscal del Ministerio de Obras Públicas.
