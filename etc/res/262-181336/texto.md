@@ -1,0 +1,5 @@
+AUTORIZA A SALMONES ANTARTICA LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS QUE INDICA
+
+Por resolución Nº 262, de 5 de Octubre de 1982, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Salmones Antártica Ltda., para continuar desarrollando las actividades pesqueras que tenía autorizadas Domsea Pesquera Chile Ltda., consistentes en la introducción, cultivo e industrialización de Salmón del Pacífico de las especies Coho y Chinook, Salmón del Atlántico (Salmo salar) y truchas de la especie Steelhead, en lago Popetán, río Colú, en Curaco de Vélez, ubicados en Chiloé, X Región y en el río Santa María, Punta Arenas, XII Región.
+
+Santiago, 5 de Octubre de 1982.- Alvaro Bardón Muñoz, Subsecretario de Economía, Fomento y Reconstrucción y subrogante de Pesca.
