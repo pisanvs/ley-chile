@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº427, de 17 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 23-F y 98, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector C Putu-Quivolgo, Kms.
+
+30,000 al 49,815.494, que figuran a nombre de Bruno Cominetti y Forestal Celco S.A., roles de avalúos en trámite y 315-7, comuna de Constitución, superficies 4.132,614 m² y 1.296,37 m². La Comisión de Peritos, fijó con fecha 10 de junio de 1998, en la cantidad de $735.609, para el lote 23-F y $64.819, para el lote 98. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
