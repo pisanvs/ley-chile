@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución No. 1 de 11 de Enero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad de las siguientes resoluciones de la Sociedad "Granja Marina Tornagaleones Ltda.", domiciliada en Valdivia, por haber incurrido en la causal establecida en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción: - Resolución No. 89, de 14 de Marzo de 1983, de esta Subsecretaría, que autorizó a la Sociedad para desarrollar actividades pesqueras de cultivo.- Resolución No. 91, de 29 de Febrero de 1984 de esta Subsecretaría, que autorizó a la Sociedad antes citada, para desarrollar actividades pesqueras de transformación.
+
+Valparaíso, 11 de Enero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
