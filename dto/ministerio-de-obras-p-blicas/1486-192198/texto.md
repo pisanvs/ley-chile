@@ -1,0 +1,3 @@
+Por decreto MOP Nº1486, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº19, superficie 488 M2, rol de avalúo Nº323-55, comuna de Río Negro, X Región, para la obra "Camino Ruta U-72, Sector Huilma-Riachuelo, tramo Km. 18,14000 al 33,91000" y se acordó el valor de indemnización con su propietario don Segundo Jorje Arismendi Arismendi, ascendente a la cantidad de $5.578.514.-
+
+Fiscal del Ministerio de Obras Públicas.
