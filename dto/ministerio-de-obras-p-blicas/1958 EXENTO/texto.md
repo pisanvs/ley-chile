@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.958 de fecha 28 de diciembre del 2001, se expropiaron los lotes de terreno Nºs. 20 y 21, superficie 181,00 y 372,00 m2 respectivamente, Rol de avalúo Nº168-3, comuna de Licantén, para la obra "Camino Ruta J-60, Sector: Puente Lautaro-Iloca, Tramo Km. 101.074,58 a Km. 122.969,62" y se acordó el valor de indemnización con su propietario Forestal Huechuraba S.A., ascendente a la cantidad de $1.165.359.-
+
+Fiscal del Ministerio de Obras Públicas.
