@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº273 de fecha 30 de marzo de 2001, se expropió los lotes de terreno Nºs. 11 y 12, superficie 148 y 594 m² respectivamente, rol de avalúo 155-37, comuna de Curarrehue, para la obra ''Camino Catripulli-Curarrehue, Sector Km. 108,20 al Km. 114,80'' y se acordó el valor de indemnización con su propietario Francisco Vera Veloso, ascendente a la cantidad de $1.944.134.
+
+Fiscal del Ministerio de Obras Públicas.
