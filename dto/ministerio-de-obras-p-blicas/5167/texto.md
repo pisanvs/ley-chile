@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.167, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº 5, superficie 105 m², rol de avalúo 524-78, comuna de La Unión, para la obra ''Camino Ruta T-80, Sector La Unión-Las Trancas, Km. 0,900 a Km. 10,99034'' y se acordó el valor de indemnización con su propietario Enrique Contreras Sanhueza, ascendente a la cantidad de $6.008.780.-
+
+Fiscal del Ministerio de Obras Públicas.
