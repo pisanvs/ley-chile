@@ -23734,183 +23734,107 @@ CAPITULO 13-21 (Bancos)
 
 MATERIA:
 
-TRANSACCIONES EN BOLSAS OFICIALES EXTRANJERAS. AVALES QUE PUEDEN OTORGAR LOS
+TRANSACCIONES EN MERCADOS DE FUTUROS Y OPCIONES EXTRANJEROS. AVALES QUE PUEDEN OTORGAR LOS BANCOS.
 
-BANCOS.
+### 1. Personas que pueden operar en mercados de futuro y opciones
 
-### 1. Personas que pueden operar en las Bolsas Oficiales Extranjeras
-
-Podrán realizar transacciones a futuro de productos, monedas extranjeras y opciones sobre contratos a futuro de productos y monedas extranjeras en las Bolsas Oficiales Extranjeras, todas aquellas personas que se encuentren expresamente autorizadas por el Banco Central de Chile para tal efecto.
+Podrán realizar transacciones a futuro de productos, monedas extranjeras y opciones sobre contratos a futuro de productos y monedas extranjeras, todas aquellas personas que se encuentren expresamente autorizadas por el Banco Central de Chile para tal efecto. Los productos antes señalados, sobre los cuales pueden versar esos contratos, deberán ser de aquellos que se transan en las Bolsas Oficiales Extranjeras.
 
 ### 2. Características de las operaciones a futuro
 
-Las personas naturales o jurídicas autorizadas para actuar en las operaciones a que se refiere el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales, podrán efectuar las transacciones de compra o venta a futuro de determinados productos o monedas extranjeras, dentro de los volúmenes físicos o de los montos que el Banco Central de Chile les autorice, pero sin entrega
+Las personas naturales o jurídicas autorizadas para actuar en las operaciones a que se refiere el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales, podrán efectuar las transacciones de compra o venta a futuro de determinados productos o monedas extranjeras, dentro de los volúmenes físicos o de los montos que el Banco Central de Chile les autorice, pero sin entrega material de los productos o monedas objeto de las transacciones. Asimismo, dichas personas podrán comprar y vender opciones sobre contratos a futuro de productos o monedas extranjeras.
 
-material de los productos o monedas objeto de las transacciones. Asimismo, dichas personas podrán comprar opciones sobre contratos a futuro de productos o monedas extranjeras.
+Las referidas operaciones sólo podrán realizarse por intermedio de corredores autorizados para operar en Bolsas Oficiales Extranjeras que se encuentren registrados en el Instituto Emisor o directamente por las personas autorizadas con dichos corredores bajo la modalidad de principal a principal.
 
-Las referidas operaciones sólo podrán realizarse por intermedio de corredores autorizados para operar en Bolsas Oficiales Extranjeras que se encuentren registrados en el Instituto Emisor.
+El Banco Central, por medio de la autorización que concede a los interesados para realizar estas operaciones, les otorga también acceso al mercado cambiario formal, para que puedan efectuar las remesas en moneda extranjera destinadas a enterar los márgenes y garantías que les soliciten los corredores; para pagar costos propios de compra y liquidación de las opciones sobre contratos a futuro, comisiones derivadas de las transacciones realizadas y las compensaciones netas por fluctuaciones de precio de los productos o monedas extranjeras; y, para pagar el capital e intereses de los créditos en moneda extranjera contratados y utilizados para financiar las obligaciones de pago derivadas de transacciones a futuro.
 
-El Banco Central, por medio de la autorización que concede a los interesados para realizar estas operaciones, les otorga también acceso al mercado cambiario formal, para que puedan efectuar las remesas en moneda extranjera destinadas a enterarlos márgenes de garantía que les soliciten los corredores; para cancelar eventuales diferencias por fluctuaciones de precio de los productos y monedas transados a futuro; para pagar comisiones propias de las opciones sobre contratos a futuro, comisiones de corredores y gastos de correo y de comunicaciones en general; y, para pagar el capital e intereses de los créditos en moneda extranjera contratados y utilizados para financiar las obligaciones de pago derivadas de transacciones a futuro en Bolsas Oficiales Extranjeras.
+Esas mismas personas están obligadas a efectuar el retomo y liquidación de las divisas en el mercado cambiario formal provenientes de los márgenes y garantías por los contratos suscritos; de las compensaciones netas por fluctuaciones de precio o por venta y liquidación de opciones y cualesquiera otros haberes que provengan directamente de las operaciones de que trata este Capítulo, a menos que las referidas divisas sean aplicadas al pago de las obligaciones señaladas en el párrafo precedente.
 
-Esas mismas personas y, en su caso, los representantes en Chile de los corredores autorizados para operar en Bolsas Oficiales Extranjeras, están obligadas a efectuar el retomo y liquidación de las divisas en el mercado cambiario formal provenientes de los márgenes de garantía, de las compensaciones por fluctuaciones de precio o por liquidación anticipada de opciones y cualesquiera otros haberes que provengan
+Las transacciones referidas deberán efectuarse por intermedio de cualquiera empresa bancaria establecida en Chile, debiendo presentarse para el efecto las autorizaciones correspondientes y debiendo la empresa bancaria que realice la operación, verificar que ellas se encuentren vigentes.
 
-directa o indirectamente de las actuaciones en Bolsas Oficiales Extranjeras, a menos que las referidas divisas sean aplicadas a la amortización de los créditos en moneda extranjera utilizados, como asimismo cuando ellas sean destinadas al pago de obligaciones derivadas de nuevos contratos de productos o de monedas extranjeras o de opciones sobre dichos contratos.
+### 3. Obligaciones de los participantes en las operaciones a futuro
 
-Todas las transacciones referidas deberán efectuarse exclusivamente por intermedio de las empresas bancarias que hayan aceptado actuar como bancos designados por los participantes para la centralización de sus operaciones a futuro en Bolsas Oficiales Extranjeras.
+Las personas autorizadas para realizar estas transacciones quedan obligadas a lo siguiente:
 
-3. Obligaciones del participante en las operaciones a futuro en relación con los bancos designados para centralizarlas.
+a) Entregar al Banco Central de Chile, a más tardar el último día hábil bancario de cada mes, la información de sus transacciones correspondientes al mes inmediatamente anterior, debiendo atenerse a los formatos y exigencias establecidos por el Instituto Emisor para tal efecto.
 
-Los participantes en estas transacciones quedan obligados a cumplir los siguientes puntos con respecto de los bancos designados para la centralización de sus operaciones:
+b) Mantener disponible en sus archivos la documentación que respalde cada una de sus transacciones.
 
-a) Efectuar exclusivamente por su intermedio:
+### 4. Obligaciones de los corredores autorizados y de sus representantes
 
-i) La adquisición y remesa de monedas extranjeras por concepto de entero de márgenes de garantía; pago de eventuales diferencias por fluctuaciones de precio; pago de gastos de comisiones propias de las opciones y de corredores; gastos de correo y de comunicaciones en general; pago de créditos en moneda extranjera y sus intereses.
+Los corredores autorizados por el Banco Central de Chile y sus respectivos representantes domiciliados en Chile, están obligados a:
 
-ii) La contratación de créditos en moneda extranjera destinados a financiar las obligaciones de pago derivadas de transacciones a futuro en Bolsas Oficiales Extranjeras.
+a) Mantener un archivo para cada una de las personas autorizadas que operen por su intermedio o directamente con ellos, en el que deben incluir todos los documentos relativos a las operaciones realizadas.
 
-iii) El retorno y liquidación de las divisas provenientes de márgenes de garantía, compensaciones por fluctuaciones de precio y liquidación anticipada de opciones y cualesquiera otros ingresos que se originen directa o indirectamente por las operaciones en Bolsas Oficiales Extranjeras.
+b) Verificar que los montos y características de las remesas en divisas guarden relación con los montos expresados en los contratos y que éstos, a su vez, estén en concordancia con los términos de la autorización otorgada por el Banco Central de Chile.
 
-b) Entregar, antes del vigésimo día hábil bancario de cada mes, el "Estado de Movimiento Mensual y Posición Vigente" y el Resumen de Saldos y Movimientos de Divisas en la Cuenta Abierta con el Corredor Autorizado del Exterior, con la información sobre sus operaciones en Bolsas Oficiales Extranjeras y las transferencias de divisas efectuadas en el mes inmediatamente anterior.
+c) Controlar que las operaciones que realicen sus clientes se cumplan dentro del plazo de vigencia de la respectiva autorización.
 
-c) Instruir a su corredor en el exterior para que los fondos que deba remesar, los retorne exclusivamente por intermedio de los bancos designados.
+5. Avales y fianzas destinados a garantizar los pago derivados de transacciones a futuro.
 
-### 4. Obligaciones de los bancos designados
-
-Los bancos designados por los participantes en las operaciones de mercado a futuro y que hayan aceptado esa designación, se obligan a:
-
-a) Confirmar por escrito a los peticionarios su aceptación para actuar en el carácter de bancos centralizadores de las operaciones relacionadas con las transacciones en Bolsas Oficiales Extranjeras;
-
-b) Presentar al Banco Central de Chile, por cuenta de los interesados, la solicitud y antecedentes exigidos por el Instituto Emisor para el otorgamiento de la autorización que les permita operar en las Bolsas Oficiales Extranjeras;
-
-c) Comunicar a los interesados la decisión del Banco Central de Chile, acerca de la aprobación o rechazo de la solicitud presentada para operar en en Bolsas Oficiales Extranjeras;
-
-d) Comprobar que el corredor autorizado que interviene en las operaciones se halle registrado en el Banco Central de Chile;
-
-e) Requerir de los interesados una declaración escrita mediante la cual se comprometan a proporcionar al banco, con la debida oportunidad, todos los documentos comprobatorios de las operaciones realizadas por su intermedio y que éste deba exigir de acuerdo con las normas del Banco Central de Chile, además de aquellos que el propio banco designado estime necesario solicitar;
-
-f) Abrir una carpeta para cada una de las personas autorizadas que operen por su intermedio, en la que deben mantener todos los documentos relativos a las transacciones que sus clientes realicen en las Bolsas Oficiales Extranjeras, así como de los antecedentes que justifiquen las remesas o retornos de divisas;
-
-g) Verificar que los montos y características de las remesas en divisas guarden relación con los montos expresados en los contratos y que éstos, a su vez, estén en concordancia con los términos de la autorización otorgada por el Banco Central de Chile;
-
-h) Controlar que las personas autorizadas entreguen al Banco Central de Chile la información correspondiente a los giros efectuados con cargo a sus líneas de crédito contratadas para financiar las operaciones de que se trata y los abonos efectuados a éstas, como asimismo, que dichas líneas de crédito se encuentren registradas en el Banco Central de Chile; y,
-
-i) Controlar que las operaciones que realicen sus clientes se cumplan dentro del plazo de vigencia de la respectiva autorización.
-
-5. Facultades de los bancos designados para vender divisas a los participantes en Bolsas Oficiales Extranjeras.
-
-El Banco Central facultó a los bancos que actúen como centralizadores del movimiento de divisas originado en las transacciones que realicen sus clientes autorizados, para venderles las divisas necesarias y efectuar las consiguientes remesas a los respectivos corredores en el exterior o a los acreedores de los créditos obtenidos, según corresponda, por los siguientes conceptos:
-
-a) Enterar los márgenes de garantía;
-
-b) Pagar eventuales diferencias producidas por fluctuaciones de precio;
-
-c) Pagar comisiones propias de las opciones, comisiones de corredores, gastos de correo y de comunicaciones; y,
-
-d) Pagar capital e intereses de los créditos en moneda extranjera utilizados.
-
-Para cursar las ventas autorizadas, los bancos deberán requerir de sus clientes una carta dirigida al propio banco, en la que se pida que efectúe la remesa deque se trate y que ella se destine a cumplir alguno de los objetivos especificados. El interesado deberá, además, acompañar en los casos que proceda,la comunicación recibida del corredor del exterior en la que solicite la
-
-transferencia e indique su motivo.
-
-Cualquiera otra remesa que sea necesario efectuar, por un concepto diferente de los establecidos, requerirá de la autorización previa del Banco Central de Chile.
-
-6. Avales y fianzas destinados a garantizar los pagos derivados de transacciones a futuro.
-
-Los bancos pueden también otorgar su aval o fianza con el objeto de garantizarlos pagos que se deriven de las obligaciones generadas por las transacciones relativas a estas operaciones a futuro.
+Los bancos pueden otorgar su aval o fianza con el objeto de garantizar los pagos que se deriven de las obligaciones generadas por las transacciones relativas a estas operaciones a futuro.
 
 Estos avales, entre otras formas, pueden otorgarse mediante carta de crédito "stand by", a favor de los respectivos corredores de las Bolsas Oficiales Extranjeras registrados en el Banco Central de Chile.
 
-6.1. Requisitos para conceder el aval.
+5.1. Requisitos para conceder el aval
 
-Los bancos podrán caucionar mediante aval o fianza, los pagos derivados de los contratos a futuro, de productos o moneda extranjera, suscritos por los participantes en los mercados a futuro. Para ello se deberán cumplir los siguientes requisitos:
+Los bancos podrán caucionar mediante aval o fianza, los pagos derivados de los contratos a futuro, de productos o monedas extranjeras, suscritos por los participantes en los mercados a futuro. Para ellos se deberán cumplir los siguientes requisitos:
 
-a) Que la persona que solicita el aval se encuentre autorizada por el Banco Central de Chile para realizar ese tipo de transacciones:
+a) Que la persona que solicita el aval se encuentre autorizada por el Banco Central de Chile para realizar ese tipo de transacciones.
 
-b) Que el interesado conduzca exclusivamente por el banco al que ha solicitado la garantía, todas sus operaciones relacionadas con las transacciones que el Banco Central le ha autorizado realizar en el mercado a futuro de productos o monedas extranjeras y de opciones sobre contratos a futuro;
+b) Que el solicitante del aval demuestre que el total de transacciones, referidas al volumen del producto o al monto de moneda extranjera de los contratos a futuro y de las opciones autorizados, que el interesado realice en el período que corresponda, incluidas aquellas para las cuales solicita la caución del banco, no exceda del límite máximo que el Banco Central de Chile le haya señalado para el período correspondiente.
 
-c) Que el total de transacciones, referidas al volumen del producto o al monto de moneda extranjera de los contratos a futuro y de las opciones autorizados, que el interesado realice en las Bolsas Oficiales Extranjeras en el período que corresponda, incluidas aquellas para las cuales solicita la caución del banco, no exceda del límite máximo que el Banco Central de Chile le haya señalado para el período correspondiente;
+c) Que la solicitud de aval o caución indique claramente el tipo, volumen y valor total del producto o la moneda extranjera y su monto total objeto de las transacciones que se garantizarán, como asimismo el período de vigencia de la garantía solicitada.
 
-d) Que la solicitud de aval o caución indique claramente el tipo, volumen y valor total del producto o la moneda extranjera y su monto total objeto de las transacciones que se garantizarán, como asimismo el período de vigencia de la garantía solicitada;
+d) Que el corredor a cuyo favor se extienda el aval o caución, se encuentre registrado en el Banco Central de Chile.
 
-e) Que el corredor a cuyo favor se extienda el aval o caución, se encuentre registrado en el Banco Central de Chile;
+e) Que el interesado se comprometa a dar estricto cumplimiento a todas las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
-f) Que el interesado se comprometa a dar estricto cumplimiento a todas las disposiciones contenidas en el Capítulo VIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central.
+f) Que los avales y fianzas que se otorguen para caucionar estos compromisos, no excedan los límites de que trata el N° 8 del Capítulo 8-10 de esta Recopilación Actualizada de Normas.
 
-g) Que los avales y fianzas que se otorguen para caucionar estos compromisos, no excedan los límites de que trata el N° 8 del Capítulo 8-10 de esta Recopilación Actualizada de Normas.
+5.2. Cartas de crédito "stand by".
 
-6.2. Cartas de Crédito "stand by".
+Si los bancos otorgan su garantía de pago de las obligaciones derivadas de transacciones a futuro, mediante cartas de crédito "stand by", ellas deberán extenderse a nombre del corredor registrado en el Banco Central de Chile y deberán mencionar, además del importe de la garantía, que pasará a ser el valor de la carta de crédito, el producto y su volumen físico o la moneda extranjera y su importe, objeto de las transacciones garantizadas y el plazo de vigencia de la garantía.
 
-Si los bancos otorgan su garantía de pago de las obligaciones derivadas de transacciones a futuro, mediante cartas de crédito "stand by", ellas deberán extenderse a nombre del corredor de la respectiva Bolsa Oficial Extranjera registrado en el Banco Central de Chile y deberán mencionar, además del importe de la garantía, que pasará a ser el valor de la carta de crédito, el producto y su volumen físico o la moneda extranjera y su importe, objeto de las transacciones garantizadas y el plazo de vigencia de la garantía.
+El volumen del producto o el monto de la moneda extranjera, no podrán exceder, en ningún momento, de los niveles máximos que el Banco Central de Chile haya fijado al interesado en el período correspondiente.
 
-El volumen del producto o el monto de la moneda extranjera, no podrán, exceder, en ningún momento, de los niveles máximos que el Banco Central de Chile haya fijado al interesado en el período correspondiente.
+Los bancos deberán cuidar de verificar cada vez, antes de emitir una carta de crédito "stand by" o de otorgar su aval en otra forma para estas operaciones, que se cumplan todos los requisitos señalados en el numeral 5.1 de este Capítulo.
 
-Los bancos deberán cuidar de verificar cada vez, antes de emitir una carta de crédito "stand by" o de otorgar su aval en otra forma, para estas operaciones,que se cumplan todos los requisitos señalados en el numeral 6.1 de este capítulo.
-
-6.3. Contabilización.
+5.3. Contabilización.
 
 Los avales y fianzas de que se trata, se registrarán en las siguientes cuentas:
 
-Debe: "Garantías otorgadas para operaciones de mercado futuro", dividida en dos subcuentas "carta garantía" o "carta de crédito stand by" según corresponda, de la partida 1610 del formulario MB1.
+Debe: "Garantías otorgadas para operaciones de mercado futuro", dividida en dos subcuentas "carta garantía" o "carta de crédito stand by" según corresponda, de la partida 1610.
 
-Haber: "Obligaciones por garantías otorgadas para operaciones a futuro", de la partida 3610 del formulario MB1.
+Haber: "Obligaciones por garantías otorgadas para operaciones a futuro", de la partida 3610.
 
-6.4. Margenes legales.
+5.4. Márgenes legales.
 
-Los compromisos que los bancos contraigan por esta clase de obligaciones, estarán sujetos a los límites sobre avales y fianzas de que trata el N° 8 del Capítulo 8-10 de esta Recopilación de Normas.
+Los compromisos que los bancos contraigan por esta clase de obligaciones, estarán sujetos a los límites sobre avales y fianzas de que trata el N° 8 del Capítulo 8-10 de esta Recopilación de Normas, sin perjuicio de los márgenes legales de que tratan los artículos 81 y 84 de la Ley General de Bancos.
 
-6.5. Plazo de vigencia de los avales y fianzas otorgados para caucionar pagos derivados de obligaciones por transacciones a futuro.
+5.5. Plazo de vigencia de los avales y fianzas otorgados para caucionar pagos derivados de obligaciones por transacciones a futuro.
 
-Los avales y fianzas que concedan los bancos, comprendiendo en ellos las cartas de crédito "stand by" o cualquiera otra forma en que se otorguen, para garantizar el pago de las obligaciones derivadas de las transacciones a futuro,deberán tener una vigencia determinada, que no podrá exceder de un año, desde su fecha de otorgamiento.
+Los avales y fianzas que concedan los bancos, comprendiendo en ellos las cartas de crédito "stand by" o cualquiera otra forma en que se otorguen, para garantizar el pago de las obligaciones derivadas de las transacciones a futuro, deberán tener una vigencia determinada, que no podrá exceder de un año, desde su fecha de otorgamiento.
 
-6.6. Pagos efectuados por los bancos en calidad de analistas o fiadores.
+5.6. Pagos efectuados por los bancos en calidad de avalistas o fiadores.
 
 Los importes que los bancos desembolsen cuando efectúen pagos en su calidad de avalistas o fiadores, serán debitados en la cuenta "Varios deudores", de la partida 1140, y su valor se mantendrá en ella hasta su recuperación o traspaso a Cartera Vencida, en caso que no sean pagados dentro de los 90 días siguientes a la fecha en que hayan sido registrados en la referida cuenta.
 
-6.7. Antecedentes de los avales o fianzas otorgados.
+5.7. Antecedentes de los avales o fianzas otorgados.
 
-Los bancos deberán archivar en la misma carpeta individual mencionada en la letra f) del N° 4 de este capítulo, los antecedentes completos de los avales o fianzas otorgados, incluida una copia del documento en que se dejó constancia dela garantía bancaria.
+Los bancos deberán archivar en una carpeta individual, los antecedentes completos de los avales o fianzas otorgados, incluida una copia del documento en que se dejó constancia de la garantía bancaria.
 
-### 7. Disposiciones de carácter general
+### 6. Disposiciones de carácter general
 
-7.1. Cumplimiento de los contratos de productos mediante la importación o
+6.1. Cumplimiento de los contratos a futuro de productos mediante la importación o exportación de la mercadería correspondiente.
 
-exportación de la mercadería correspondiente.
+En los casos excepcionales en que los interesados deseen efectivamente dar cumplimiento a los contratos a futuro de productos, mediante la importación o exportación de la mercadería objeto del contrato, deberán solicitar la autorización previa del Banco Central de Chile.
 
-En los casos excepcionales en que los interesados deseen efectivamente dar
+La importación o exportación se efectuará de acuerdo a las normas vigentes a la fecha de dicha autorización.
 
-cumplimiento a los contratos a futuro de productos, mediante la importación o
+6.2. Sanciones.
 
-exportación de la mercadería objeto del contrato, deberán solicitar con la
-
-debida anticipación al vencimiento del compromiso, la autorización previa de la
-
-Gerencia de Comercio Exterior y Cambios del Banco Central de Chile.
-
-La importación o exportación se efectuará de acuerdo a las normas vigentes a la
-
-fecha de dicha autorización.
-
-7.2. Control de los márgenes asignados.
-
-Dada la naturaleza de las operaciones de que trata este capítulo y la
-
-importancia y responsabilidad asignada por el Banco Central de Chile a los
-
-bancos en su función centralizadora y de control de estas transacciones, esta
-
-Superintendencia recomienda a las empresas bancarias que participen en estos
-
-negocios, especial cuidado en mantener debidamente ordenadas las carpetas de sus
-
-clientes y un oportuno y exacto registro de los datos, que les permita conocer
-
-en cualquier momento, la posición que ellos mantienen, relacionada con los
-
-límites autorizados.
-
-7.3. Sanciones.
-
-El incumplimiento de cualquiera de las disposiciones aplicables a ese tipo de transacciones, constituye infracción a las normas sobre operaciones de cambios y será sancionado por el Banco Central de Chile de acuerdo con lo previsto en el Capítulo II del Título IV del Compendio de Normas de Cambios Internacionales, sin perjuicio de las amonestaciones, multas,suspensiones o cancelación de la autorización para tener acceso al mercado cambiario formal que se pueda aplicar a los infractores.
+El incumplimiento de cualquiera de las disposiciones aplicables a ese tipo de transacciones, constituye infracción a las normas sobre operaciones de cambios y será sancionado por el Banco Central de Chile de acuerdo con lo previsto en el Capítulo II del Titulo IV del Compendio de Normas de Cambios Internacionales, sin perjuicio de las amonestaciones, multas, suspensiones o cancelación de la autorización para tener acceso al mercado cambiario formal que pueda aplicar a los infractores.
 
 En los casos en que se efectúe la importación o exportación de las mercaderías que hubieren sido materia de contrato, con infracción a las disposiciones dictadas o que dicte el Banco Central, los autores podrán ser sancionados, además, conforme a la Ley Orgánica Constitucional del Instituto Emisor.
 
