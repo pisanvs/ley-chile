@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 682, de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº 4-60, superficie 35,3105 m², rol de avalúo Nº 3392-60, comuna de Punta Arenas, para la obra "Habilitación Costanera Estrecho de Magallanes I, Sector Chañarcillo - Manantiales, Tramo Km. 1,97992 al Km. 3,30000" y se acordó el valor de indemnización con su propietario Eugenio Manuel Vilicic Peña ascendente a la cantidad de $1.044.963.-
+
+Fiscal del Ministerio de Obras Públicas.
