@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.407, de 29 de noviembre de 2004, de esta Subsecretaría, autorízase a CULTIVOS MARINOS FLAMENCO S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta en Caleta Flamenco, a 32 kilómetros al sur de Chañaral, donde podrá elaborar en las líneas de proceso de cocido, fresco-refrigerado y congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 29 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
