@@ -1,0 +1,3 @@
+Por resolución Nº2.408 de 4 de diciembre de 2001 de esta Subsecretaría, autorízase a PESQUERA SACHO S.A., para ampliar actividades pesqueras de transformación, en la planta ubicada en camino a El Tepual Km. 5, Puerto Montt, X Región, en la línea de proceso de Congelado con el recurso hidrobiológico Ostra del Pacífico.
+
+Valparaíso, 4 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
