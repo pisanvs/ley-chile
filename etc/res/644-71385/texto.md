@@ -1,0 +1,3 @@
+Por Resolución Nº 644, de 7 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 678, de 1996, de esta Subsecretaría, que denegó la solicitud de concesión de acuicultura Nº 94101089, presentada por el SINDICATO DE TRABAJADORAS INDEPENDIENTES PESCADORAS ARTESANALES Y ALGUERAS LAS CARMELITAS, en razón de haberse dictado con error de hecho.
+
+Valparaíso, 7 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
