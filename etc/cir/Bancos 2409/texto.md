@@ -30208,7 +30208,7 @@ Las instituciones fiscalizadas deberán tomar todas las medidas necesarias para 
 
 ### 3. Presentación de los saldos
 
-El balance general y el estado de resultados se presentarán según los modelos que se muestran en el Anexo N° 1 de este Capítulo. En el mismo Anexo se incluyen las instrucciones para adecuar los formatos estándares de acuerdo con la situación que se presente en cada empresa. Las cifras se expresarán en millones de pesos, con un decimal y, cuando corresponda, se mostrarán en paréntesis. Los valores que deben incluirse en cada una de las líneas (partidas de los modelos de publicación) se obtendrán mediante agrupaciones de los saldos de las partidas del MB1 y del MR1 y otros procedimientos que se detallan en el Anexo N° 1 de este Capítulo.
+El balance general y el estado de resultados se presentarán según los modelos que se muestran en el Anexo N° 1 de este Capítulo. En el mismo Anexo se incluyen las instrucciones para adecuar los formatos estándares de acuerdo con la situación que se presente en cada empresa. Las cifras se expresarán en millones de pesos, con un decimal y, cuando corresponda, se mostrarán en paréntesis. Los valores que deben incluirse en cada una de las líneas (partidas de los modelos de publicación) se obtendrán mediante agrupaciones de los saldos de las partidas dispuestas por esta Superintendencia para el Sistema Contable, y otros procedimientos que se detallan en el Anexo N° 1 de este Capítulo.
 
 ### III. NOTAS A LOS ESTADOS FINANCIEROS
 
@@ -30220,7 +30220,7 @@ El balance general y el estado de resultados deberán acompañarse con las sigui
 
 - Principales criterios contables utilizados.
 
-- Obligación subordinada con el Banco Central de Chile (o cartera vendida al Banco Central de Chile).
+- Obligación subordinada con el Banco Central de Chile.
 
 - Operaciones con partes relacionadas.
 
@@ -30292,9 +30292,7 @@ En esta nota se informará brevemente acerca de los principales criterios contab
 
 Esta nota incluirá información sobre el monto a que asciende la obligación subordinada con el Banco Central de Chile registrada en cuentas de orden, la provisión constituida para destinar los excedentes del ejercicio al pago de ella y la naturaleza y efectos de esa obligación. Estos antecedentes se presentarán de acuerdo con el modelo que contiene el Anexo N° 4 de este Capítulo.
 
-En caso de que la institución no mantenga obligaciones que provengan de contratos de compraventa de cartera celebrados con el Banco Central de Chile, sea que hubieren sido objeto de novación o no, podrá omitir esta nota o presentarla señalando lo siguiente:
-
-"La institución no tiene obligación subordinada con el Banco Central de Chile".
+En caso de que la institución no mantenga obligación subordinada con el Banco Central de Chile, deberán presentar esta nota para señalar expresamente que no tienen tal obligación, en los términos que se indican en el Anexo N° 4.
 
 4.3. Nota sobre operaciones con partes relacionadas.
 
@@ -30304,9 +30302,7 @@ Esta nota se presentará con información separada bajo los siguientes títulos:
 
 Para los efectos de esta nota, se entienden como partes relacionadas a las personas naturales o jurídicas vinculadas con la institución financiera según lo instruido en el Capítulo 12-4 de esta Recopilación Actualizada de Normas.
 
-En caso de que no existan operaciones o saldos que deban informarse en esta nota, la institución se limitará a señalar lo siguiente:
-
-"Durante el ejercicio y hasta la fecha de preparación de estos estados financieros, la institución no ha efectuado operaciones con personas naturales o jurídicas que se encuentren relacionadas a ella por propiedad o gestión.".
+Esta nota deberá incluirse también en el caso en que no existan operaciones o saldos que deban informarse, siguiendo para el efecto la redacción señalada en el Anexo 5.
 
 4.3.1. Información sobre créditos a personas relacionadas.
 
@@ -30318,7 +30314,7 @@ Junto con las cifras correspondientes a los créditos otorgados, se incluirán l
 
 4.3.2. Información sobre otras operaciones con partes relacionadas.
 
-En la segunda parte de esta nota letra b) se revelarán los antecedentes relativos a contratos, prestaciones de servicios y otras operaciones celebrados o realizados con personas naturales o jurídicas relacionados, con excepción de aquellas transacciones que normalmente originan resultados que deben presentarse en las siguientes partidas del formulario MR1: 5105 a 5620, 5705 a 5720, 7105 a 7620, 7705 a 7725 y 7905.
+En la segunda parte de esta nota letra b) se revelarán los antecedentes relativos a contratos, prestaciones de servicios y otras operaciones celebrados o realizados con personas naturales o jurídicas relacionados, con excepción de aquellas transacciones que normalmente originan resultados que deben presentarse en las partidas 5105 a 5720 y 7105 a 7725.
 
 La información acerca de las transacciones con partes relacionadas debe referirse, al menos, a lo siguiente:
 
@@ -30360,7 +30356,7 @@ En particular deberá informarse, cuando sea pertinente, sobre las siguientes ma
 
 a) Acciones suscritas y pagadas;
 
-b) Aumentos de capital enterados en el ejercicio y autorizaciones y acuerdos de aumentos de capital por enterar. Cuando un aumento de capital se hubiere efectuado al amparo de las disposiciones de los Capítulos XVIII o XIX del Titulo I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile o del D.L. N° 600, deberá indicarse la modalidad bajo la cual se realizó. Asimismo, si un aumento de capital se realizó con el objeto de amortizar la obligación subordinada con el Banco Central de Chile o para recomprar extraordinariamente cartera cedida al Instituto Emisor, se dejará constancia de ello.
+b) Aumentos de capital enterados en el ejercicio y autorizaciones y acuerdos de aumentos de capital por enterar. Cuando un aumento de capital se hubiere efectuado al amparo de las disposiciones de los Capítulos XVIII o XIX del Titulo I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile o del D.L. N° 600, deberá indicarse la modalidad bajo la cual se realizó. Asimismo, si un aumento de capital se realizó con el objeto de amortizar la obligación subordinada con el Banco Central de Chile, se dejará constancia de ello.
 
 c) Acuerdos de constitución de reservas y repartos de dividendos con cargo a las utilidades del ejercicio anterior y dividendos repartidos o remesas de utilidades, realizadas o autorizadas durante el ejercicio;
 
@@ -30394,7 +30390,7 @@ La nota se presentará de la forma que se muestra en el Anexo N° 10 de este Cap
 
 En esta nota deberá incluirse la relación de los saldos que se mantienen en moneda extranjera, incluyendo, por una parte los derechos y obligaciones pagaderos en moneda extranjera y, por otra, aquellos expresados en moneda extranjera y pagaderos en pesos, moneda chilena.
 
-Junto con lo anterior se indicará, cuando corresponda, el monto de reservas o provisiones en moneda extranjera que mantiene la empresa y el monto a que ascienden los recursos correspondientes al capital proveniente de aportes externos que se encontraren recomprados.
+Junto con lo anterior se indicará, cuando corresponda, el monto de reservas o provisiones en moneda extranjera que mantiene la empresa y el monto a que ascienden los recursos correspondientes al capital proveniente de aportes externos que se encontraren recomprados, o reajustables por la variación del tipo de cambio.
 
 Toda esta información se presentará en la forma indicada en el Anexo N° 11 de este Capítulo.
 
@@ -30434,13 +30430,11 @@ Las contingencias y compromisos que no se encuentren registrados en las cuentas 
 
 La Administración deberá tomar todas las medidas que correspondan para que, ante requerimientos de este Organismo Contralor, sea posible demostrar en forma clara y expedita, en la oportunidad en que se solicite, lo siguiente:
 
-a) Composición de cada una de las partidas del MB1 y del MR1 en relación con los saldos que refleja la contabilidad al cierre del ejercicio;
+a) Conciliación entre los saldos contables informados a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información y los saldos expuestos en los estados publicados;
 
-b) Conciliación entre los saldos contables informados a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información y los saldos expuestos en los estados publicados;
+b) Fuentes de información utilizadas para la preparación de los antecedentes que contienen las notas a los estados financieros y composición o agrupación de las cifras contenidas en éstos; y,
 
-c) Fuentes de información utilizadas para la preparación de los antecedentes que contienen las notas a los estados financieros y composición o agrupación de las cifras contenidas en éstos; y,
-
-d) Antecedentes y recopilación de datos que no se obtuvieron directamente de la información que maneja el área de contabilidad y responsabilidad de los funcionarios o ejecutivos que participaron en la entrega o confirmación de dichos antecedentes para la preparación de los estados financieros.
+c) Antecedentes y recopilación de datos que no se obtuvieron directamente de la información que maneja el área de contabilidad y responsabilidad de los funcionarios o ejecutivos que participaron en la entrega o confirmación de dichos antecedentes para la preparación de los estados financieros.
 
 ### V. INFORMACION QUE SE DEBE ENVIAR A ESTA SUPERINTENDENCIA Y PLAZOS
 
@@ -30464,83 +30458,93 @@ Las obligaciones que emanan de las presentes normas deberán cumplirse dentro de
 
 Hasta el:
 
+.
+
+> **Nota.** La letra I, del N° I de la Circular 2684, SBIF, promulgada el 29.04.1992, suprime la expresión "15° día previo al" en la letra e) del presente numeral.
+
 ### VI. ESTADOS FINANCIEROS CONSOLIDADOS
 
 Las instituciones bancarias que tengan participación en sociedades filiales, podrán, además si así lo desean, publicar estados financieros consolidados informados por auditores externos, siguiendo para ello las instrucciones contenidas en los N°s 2, 3 y 4 del título I de este Capítulo.
 
-ANEXO N° 1
+ANEXO N°1
 
-### I. MODELOS DE BALANCE Y ESTADO DE RESULTADOS
+I.- MODELOS DE BALANCE Y ESTADO DE RESULTADOS,
 
 .
 
-### II. ADAPTACION DE LOS MODELOS
+II.- ADAPTACION DE LOS MODELOS.
 
-La presentación del Balance General y del Estado de Resultados deberá hacerse de acuerdo con los modelos anteriores, aun cuando en algunas líneas no se muestren saldos, lo que se indicará con un guión ("-"). Sin embargo, deben tenerse presente las siguientes excepciones:
+La presentación del Balance General y del Estado de Resultados deberá hacerse de acuerdo con los modelos anteriores, aun cuando en algunas líneas no se muestren saldos, lo que se indicará con un guión ("-") . Sin embargo, deben tenerse presente las siguientes excepciones:
 
-a) Las instituciones que mantengan obligación por recompra de cartera al Banco Central de Chile, deberán modificar los nombres en las líneas J1 y X por "PROVISION PARA RECOMPRA DE CARTERA AL BANCO CENTRAL DE CHILE".
+a) Las sociedades financieras no presentarán la línea "ACREEDORES EN CUENTAS CORRIENTES" (H1).
 
-b) Las sociedades financieras no presentarán la línea "ACREEDORES EN CUENTAS CORRIENTES" (H1).
+b) Las instituciones que no mantengan bonos en circulación, presentarán este rubro indicando solamente "OBLIGACIONES POR BONOS", en una sola línea (en forma similar al "DISPONIBLE"), y sin saldo (con guión). En todo caso, las instituciones que tengan solamente una clase de bonos emitidos (corrientes o subordinados) , utilizarán esta parte completa.
 
 c) Las instituciones que no hubieren emitido acciones preferidas cambiarán el nombre "UTILIDAD DEL EJERCICIO (Acciones preferidas)", por "UTILIDAD DEL EJERCICIO", sin perjuicio de lo indicado más adelante en la letra i).
 
-d) Como los resultados por intermediación de documentos y los relativos a operaciones de cambio deben mostrarse en forma neta, se utilizará en cada caso, sólo la línea que corresponda al resultado neto, ya sea "UTILIDAD NETA POR INTERMEDIACION DE DOCUMENTOS" o "PERDIDA NETA POR INTERMEDIACION DE DOCUMENTOS" y "UTILIDAD DE CAMBIO NETA" o "PERDIDA DE CAMBIO NETA", excluyéndose la que no corresponda.
+d) Como los resultados por operaciones de cambio deben mostrarse en forma neta, se utilizará sólo la línea que corresponda al resultado neto, ya sea "UTILIDAD DE CAMBIO NETA" o "PERDIDA DE CAMBIO NETA", excluyéndose la que no corresponda.
 
-e) Por último, en caso de pérdida deben cambiarse, como es natural, los nombres "UTILIDAD DEL EJERCICIO" o "UTILIDAD DEL EJERCICIO (acciones preferidas)", por "PERDIDA DEL EJERCICIO". Al tratarse de instituciones que mantengan obligación subordinada u obligación por recompra de cartera con el Banco Central de Chile, se mantendrá la demostración de las líneas J1 y X.
+e) En caso que el resultado neto proveniente de inversiones en sociedades sea pérdida, se cambiará el nombre de la línea V, "UTILIDAD POR INVERSIONES EN SOCIEDADES", por "PERDIDA POR INVERSIONES EN SOCIEDADES".
+
+f) Por último, en caso de pérdida deben cambiarse, como es natural, los nombres "UTILIDAD DEL EJERCICIO" o "UTILIDAD DEL EJERCICIO (acciones preferidas)", por "PERDIDA DEL EJERCICIO". En este caso, al tratarse de instituciones que mantengan obligación subordinada con el Banco Central de Chile, se mantendrá la demostración de las líneas K1 e Y.
 
 Además de esos cambios de carácter obligatorio en las situaciones mencionadas, los estados pueden excluir conceptos que no son aplicables, en los siguientes casos:
 
-i) Si la institución no mantuviere saldo por concepto de obligación subordinada con el Banco Central de Chile ni saldos por cartera vendida al Instituto Emisor, podrá prescindir de las líneas DI, J1, T y X. En ese caso, presentará el saldo de "OTROS ACTIVOS" de manera similar al "DISPONIBLE" y, en el estado de resultados, reemplazará el concepto "EXCEDENTE" por el de "UTILIDAD DEL EJERCICIO" (o "PERDIDA DEL EJERCICIO" si correspondiere).
+i) Si la institución no mantuviere saldo por concepto de obligación subordinada con el Banco Central de Chile, podrá prescindir de las lineas E1, K1 e Y. En ese caso, presentará los saldos de "OTROS ACTIVOS" y de "OTROS PASIVOS con una sola línea (de manera similar al "DISPONIBLE") y, en el estado de resultados, reemplazará el concepto "EXCEDENTE" por el de "UTILIDAD DEL EJERCICIO" (o "PERDIDA DEL EJERCICIO" si correspondiere).
 
-ii) Cuando no corresponda presentar saldo en la línea "RECOMPRA EXTRAORDINARIA DE CARTERA AL BANCO CENTRAL DE CHILE" (T), podrá excluirse ese concepto del estado de resultados.
+ii) Las sociedades financieras que no muestren saldo alguno en las líneas "COLOCACIONES CONTINGENTES" (B5) y "OBLIGACIONES CONTINGENTES" (H6) podrán excluir ambos conceptos.
 
-iii) Las sociedades financieras que no muestren saldo alguno en las líneas "COLOCACIONES CONTINGENTES" (B6) y "OBLIGACIONES CONTINGENTE" (H6) podrán excluir ambos conceptos.
+iii) Las instituciones que no mantengan emisiones de bonos subordinados, podrán excluir la línea "OBLIGACIONES POR BONOS SUBORDINADOS" (J2). Si además se encuentran en la situación señalada en el literal i) precedente, presentarán sólo el total de "OTROS PASIVOS", en forma similar al "DISPONIBLE".
 
-iv) Si la institución no tiene inversiones en sociedades filiales o en sociedades de apoyo de que tratan los Capítulos 11-2 y 11-3 de la Recopilación Actualizada de Normas, podrán señalar sólo el total del activo fijo en forma similar a la presentación del "DISPONIBLE".
+III.- REAGRUPACIONES DE SALDOS.
 
-v) Las instituciones que no mantengan emisiones de bonos subordinados, podrán excluir la línea "OBLIGACIONES POR BONOS SUBORDINADOS" (J2). Si además se encuentran en la situación señalada en el literal i) precedente, presentarán sólo el total de "OTROS PASIVOS", en forma similar al "DISPONIBLE".
+Para obtener las cifras que corresponde presentar en el balance general se sumarán los saldos de las partidas que se indican más adelante y, además, se efectuarán las reagrupaciones de saldos que se señalan a continuación:
 
-### III. REAGRUPACIONES DE SALDOS
+1.- Por los intereses devengados.
 
-Para obtener las cifras que corresponde presentar en el balance general se sumarán los saldos de las partidas del MB1 que se indican más adelante y, además, se efectuarán las reagrupaciones de saldos que se señalan a continuación:
+Los intereses o descuentos no devengados, normalmente incluidos en las partidas 4120 (Pasivo transitorio) ó 2120 (Activo transitorio), deberán demostrarse en las líneas en que se presenta el correspondiente saldo de capital, disminuyendo por lo tanto los saldos obtenidos por la mera agrupación de partidas. Esta forma de demostración deberá seguirse aún cuando se trate de intereses percibidos o pagados por adelantado.
 
-### 1. Por los intereses devengados
+2.- Por los ajustes a valor de mercado de las inversiones financieras.
 
-a) Los intereses devengados, por cobrar o por pagar, que se incluyan en las partidas 1805 a 1820 y 3805 a 3820 del MB1, deberán distribuirse, incorporándolas en las mismas líneas en las cuales se presenta el capital que los origina. Los intereses por cobrar vencidos de la partida 1825 que corresponda a colocaciones, se presentarán en la línea "CARTERA VENCIDA" (B8), en tanto que los correspondientes a inversiones financieras se incluirán junto con el capital.
+El importe de la partida 1750 Ajuste a Valor de mercado de inversiones transables deberá saldarse, sólo para efectos de presentación, contra las líneas D1, D2 y D3, a fin de presentar las inversiones con sus respectivos ajustes
 
-b) Los intereses o descuentos no devengados, normalmente incluidos en las partidas 4120 (Pasivo transitorio) o 2120 (Activo transitorio), deberán demostrarse en las líneas en que se presenta el correspondiente saldo de capital, disminuyendo por lo tanto los saldos obtenidos por la mera agrupación de partidas. Esta forma de demostración deberá seguirse aun cuando se trate de intereses percibidos o pagados por adelantado.
+3.- Por diversas cuentas del activo y del pasivo.
 
-### 2. Por diversas cuentas del activo y del pasivo
-
-En el Balance General deberán agruparse varios saldos o partidas del MB1 en las líneas "OTROS ACTIVOS" (D2) y "OTROS PASIVOS" (J3), con los saldos netos que se obtendrán de los siguientes ajustes o reagrupaciones, además de los indicados en el numeral anterior, y de la suma de las partidas que más adelante se indican:
+En el Balance General deberán agruparse vanos saldos o partidas en las líneas "OTROS ACTIVOS" (E2) y "OTROS PASIVOS" (K2), con los saldos netos que se obtendrán de los siguientes ajustes o reagrupaciones, además de los indicados en el numeral anterior, y de la suma de las partidas que más adelante se indican:
 
 a) El monto de los pagos provisionales de impuestos (P.P.M.) incluidos los gastos de capacitación imputables al pago de impuestos, se presentarán junto con las provisiones que se hayan constituido con ese mismo objeto, de manera que se demuestre sólo la obligación neta o los impuestos por recuperar netos, según corresponda, en el pasivo o en el activo.
 
-b) Los saldos que componen las partidas comprendidas en los rubros "Cuentas de Ajuste y Control", deudoras o acreedoras, se incorporarán estableciendo previamente el importe neto de los saldos de aquellas partidas relacionadas entre sí. El mismo procedimiento se seguirá en el caso de los saldos de las partidas 2125 (Deudores por arbitrajes a futuro) y 4125 (Divisas arbitradas a futuro). Para realizar estos ajustes se considerarán las cuentas en moneda extranjera por su equivalente en moneda chilena al tipo de cambio de representación contable vigente al cierre del ejercicio. Sin embargo, la partida 4515 (Adeudado al Banco Central por divisas vendidas con pacto de recompra), no debe ser incluida en los mencionados ajustes.
+b) Los saldos que componen las partidas comprendidas en los rubros "Cuentas de Ajuste y Control", deudoras o acreedoras, se incorporarán estableciendo previamente el importe neto de los saldos de aquellas partidas relacionadas entre sí. El mismo procedimiento se seguirá en el caso de los saldos de las partidas 2125 (Deudores por arbitrajes a futuro) y 4125 (Divisas arbitradas a futuro) . Para realizar estos ajustes se considerarán las cuentas en moneda extranjera por su equivalente en moneda chilena al tipo de cambio de representación contable vigente al cierre del ejercicio. Sin embargo, la partida 4515 (Adeudado al Banco Central por divisas vendidas con pacto de recompra), no debe ser incluida en los mencionados ajustes.
+
+4.- Por recuperación de colocaciones castigadas
+
+Los saldos correspondientes a ingresos por recuperación de colocaciones castigadas que se encuentren registrados en la partida 7910 deberán incluirse en la línea "RECUPERACION DE COLOCACIONE CASTIGADAS (S) del Estado de Resultados
 
 ### IV. PARTIDAS QUE DEBEN SUMARSE
 
 .
 
-OBSERVACIONES: [+]: Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en las letras a) y b) del 2 de las instrucciones sobre reagrupaciones de saldos.
+OBSERVACIONES:
 
-1: Se entiende que los saldos con sucursales se encuentran en la partida 2115 o en la partida 4105, pero no en ambas.
+[#A]: Importe correpondiente a los ajustes a valor de mercado, según lo señalado en el N° 2 de las instrucciones sobre reagrupaciones de saldos.
 
-2: En todo caso, esta partida no tendrá saldo al cierre del ejercicio por la distribución de la corrección monetaria.
+[#B]: Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en las letras a) y b) del N° 3 de las instrucciones sobre reagrupaciones de saldos.
 
-3: Incluir sólo si saldo neto de esta resta es acreedor.
+[#C]: Importe correspondiente a ingresos por recuperación de colocaciones castigadas, según lo indicado en el N° 4 de las instrucciones sobre reagrupaciones de saldos.
 
-4: Incluir sólo si saldo neto de esta resta es acreedor.
+1. En el evento de que, por razones extraordinarias, se hubieren constituido provisiones especiales por operaciones interbancarias o con pacto (incluidas en la partida 4205) o provisiones sobre inversiones financieras (partida 4210), los importes correspondientes se restarán en las correspondientes lineas del activo.
 
-5: Para reflejar las comisiones por colocaciones en letras de crédito junto con los intereses.
+2. Se entiende que los saldos con sucursales se encuentran en la partida 2105 o en la partida 4105, pero no en ambas.
 
-6: Para reflejar dentro de "Otros Ingresos de Operación" el ingreso neto por operaciones con pagarés de deuda externa.
+3. En todo caso, esta partida no tendrá saldo al cierre del ejercicio por la distribución de la corrección monetaria
 
-> **Nota.** La Circular 2511, SBIF, promulgada el 09.01.1990, modifica el Título IV, Anexo I, de la presente norma, en la forma siguiente:A) En la línea B6 se remplaza el signo "+" por una "a"B) En la línea D2 se remplaza el detalle completo por lo siguiente "2105 1 + 2110 + 2115 + 2515 + [#]"C) En la línea J3 se agrega la expresión "4515+" entre el signo "[#]" y el signo "+" que le antecedeD) En el N°1 de Observaciones se remplaza la expresión "2115" por "2105". Las citadas modificaciones no se han incorporado al presente texto actualizado por razones técnicas.
+### 4. Incluir sólo si saldo neto de esta resta es acreedor
 
-> **Nota.** NOTA 1 El Numeral III, de la Circular 2532, SBIF, promulgada el 16. 03.1990, modifica el Anexo I, de la presente norma, en el sentido de eliminar las referencias a la partida 5625, atendido que las pérdidas por la enajenación de bienes recibidos o adjudicados en pago debe ser cubierta, en todos los casos, por la provisión constituida.
+### 5. Incluir sólo si saldo neto de esta resta es deudor
 
-> **Nota.** NOTA 2 La letra H) del N° 1 de la Circular 2632, SBIF, promulgada el 20.08.1991, modifica el presente anexo en la forma que en la citada norma se indica.
+6. Para reflejar las comisiones por colocaciones en letras de crédito junto con los intereses.
+
+7. Para reflejar dentro de "Otros Ingresos de Operación" el ingreso neto por operaciones con pagarés de deuda externa.
 
 ANEXO N° 2
 
@@ -30548,61 +30552,63 @@ EXPLICACIONES GENERALES PARA LA PREPARACION DE LAS NOTAS ESTRUCTURADAS DE QUE TR
 
 a) Los modelos relativos a las notas que se incluyen en el Anexo N° 3 y siguientes de este Capítulo, contienen números señalados en paréntesis. Estos números hacen referencia a las instrucciones acerca de la forma en que debe prepararse la nota o a la posibilidad de adaptar su redacción ante situaciones diferentes a las contempladas para el modelo.
 
-b) En algunos casos las redacciones estándares incluyen frases o palabras alternativas entre puntos suspensivos y barras (".../ / ..."). En estos casos, cuando proceda, deberá elegirse la que corresponda.
+b) En algunos casos las redacciones estándares incluyen frases o palabras alternativas entre puntos suspensivos y barras (".../ /..."). En estos casos, cuando proceda, deberá elegirse la que corresponda.
 
 c) Al igual que en el balance general, en la presentación de saldos de operaciones sujetas a reajustes o intereses no se efectuará una distinción entre capital, reajustes e intereses.
 
 En aquellos cuadros en que los saldos deben distribuirse según su vencimiento, deberán demostrarse los saldos de intereses devengados según el plazo pactado para su pago, el que puede ser diferente a aquél establecido para la amortización del capital.
 
-ANEXO N° 3
+ANEXO N°3
 
-Modelo de nota sobre criterios contables aplicados.
+MODELO DE NOTA SOBRE CRITERIOS CONTABLES APLICADOS.
 
-NOTA N° 1 - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS.
+NOTA N°1 - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS.
 
 a) Información proporcionada.
 
-Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados. (1)
+Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados.(1)
 
 b) Intereses y reajustes.
 
-Las colocaciones, inversiones y obligaciones se presentan con sus intereses y reajustes devengados hasta la fecha de cierre del ejercicio. Sin embargo, en el caso de las colocaciones vencidas.../ y de las vigentes con alto riesgo de irrecuperabilidad/... se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes. (2)
+Las colocaciones, inversiones y obligaciones se presentan con sus intereses y reajustes devengados hasta la fecha de cierre del ejercicio.
+
+Sin embargo, en el caso de las colocaciones vencidas ..../y de las vigentes con alto riesgo de irrecuperabilidad/...se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes. (2)
 
 c) Corrección monetaria.
 
-El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC). La aplicación de este mecanismo de ajuste significó un .../cargo/abono/... neto a resultados ascendente a $...........millones.
+El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC). La aplicación de este mecanismo de ajuste significó un../cargo/abono/...neto a resultados ascendente a $...........millones
 
-Las cuentas de resultado no se presentan corregidas monetariamente.
+Las cuentas de resultado no se presentan corregidas monetariamente
 
 d) Moneda extranjera.
 
-Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio informado por la Superintendencia de Bancos e Instituciones Financieras ($............ por US$1).
+Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio informado por la Superintendencia de Bancos e Instituciones Financieras ($.......por US$1).
 
-El saldo de $..........millones correspondiente a la .../Utilidad/ pérdida de cambio neta que se muestra en el Estado de Resultados, incluye tanto los resultados obtenidos en operaciones de cambio, como el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera. (3)
+El saldo de $......... millones correspondiente a la . .../Utilidad/pérdida de cambio neta que se muestra en el Estado de Resultados, incluye tanto los resultados obtenidos en operaciones de cambio, como el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera. (3)
 
 e) Inversiones Financieras.
 
-Las inversiones financieras de largo plazo con mercado secundario, se presentan ajustadas a su valor de mercado de acuerdo a las instrucciones específicas dispuestas por la Superintendencia de Bancos e Instituciones Financieras.
+Las inversiones en instrumentos financieros con mercado secundario y vencimiento a más de un año, se presentan ajustadas a su valor de mercado de acuerdo con instrucciones especificas de la Superintendencia de Bancos e Instituciones Financieras. La aplicación de dicho ajuste significó un.../cargo/abono/...neto a los resultados del ejercicio ascendente a $.........millones, monto que se incluye en los resultados operacionales correspondientes a la ..../"Utilidad por intermediación de documentos"Pérdida por intermediación de documentos"/....
 
-Las demás inversiones financieras se presentan al valor de adquisición, más sus intereses y reajustes.
+Las demás inversiones correspondientes a instrumentos financieros se presentan al valor de adquisición, más sus reajustes e intereses devengados.
 
 f) Activo fijo físico.
 
 El activo fijo se presenta valorizado al costo corregido monetariamente y neto de depreciaciones calculadas linealmente sobre la base de los años de vida útil de los respectivos bienes.
 
-g) Inversiones en sociedades. (5)
+g) Inversiones en sociedades.(5)
 
-Las acciones o derechos en sociedades /filiales/ y / de apoyo al giro en las cuales la institución tiene una participación igual o superior al 10%,/ se encuentran registrados en el activo a su valor patrimonial proporcional (VPP), reconociéndose por lo tanto sobre base devengada, los aumentos y disminuciones que afectan a la inversión
+Las acciones o derechos en sociedades en las cuales la institución tiene una participación igual o superior al 10%, se encuentran registradas en el activo a su valor patrimonial proporcional (VPP).
 
 h) Provisiones sobre activos riesgosos.
 
-La Institución ha constituido todas, las provisiones necesarias para cubrir los riesgos de pérdida de los activos, de acuerdo con la metodología de cálculo de estimación de riesgos dispuesta por la Superintendencia de Bancos e Instituciones Financieras (Nota)(4)
+La institución ha constituido todas las provisiones necesarias para cubrir los riesgos de pérdida de los activos, de acuerdo con la metodología de cálculo de estimación de riesgos dispuesta por la Superintendencia de Bancos e Instituciones Financieras (Nota....).(4)
 
-i) Obligación subordinada.con el Banco Central de Chile. (5)
+i) Obligación subordinada con el Banco Central de Chile.(5)
 
-De acuerdo con lo dispuesto en el de la Ley N° 18.401, la obligación subordinada que mantiene la institución con el Banco Central de Chile, originada por la novación de la obligación de recompra de la cartera de colocaciones, no se computa como pasivo exigible. Su cumplimiento queda subordinado a la existencia de excedentes anuales que se produzcan. En consecuencia, dicha obligación se encuentra registrada sólo en cuentas de orden.
+De acuerdo con lo dispuesto en el artículo 15 de la Ley N° 18.401, la obligación subordinada que mantiene la institución con el Banco Central de Chile no se computa como pasivo exigible, encontrándose dicha obligación registrada sólo en cuentas de orden.
 
-El derecho del Banco Central de Chile a percibir los excedentes netos que se hubieran producido en el periodo anual,.../ sin perjuicio del reparto de dividendos sobre acciones preferidas,/. se debe reconocer al cierre del ejercicio como "Provisión para pago obligación subordinada al Banco Central de Chile".
+La amortización que corresponde efectuar sobre la base de los excedentes que se obtienen en un ejercicio, debe quedar provisionada al cierre de ese ejercicio, demostrándose su importe como "Provisión para pago obligación subordinada al Banco Central de Chile" (Nota 2).
 
 j) Impuestos diferidos.
 
@@ -30610,9 +30616,9 @@ De acuerdo con las instrucciones impartidas por la Superintendencia de Bancos e 
 
 INSTRUCCIONES:
 
-(1): Pueden indicarse salvedades si a juicio de los auditores externos existen diferencias importantes que deban mencionarse.
+(1). Pueden indicarse salvedades si a juicio de los auditores externos existen diferencias importantes que deban mencionarse.
 
-(2) : Incluir este párrafo o la frase intercalada sólo si es significativo el monto de los intereses y reajustes no reconocidos en los resultados.
+(2): Incluir este párrafo o la frase intercalada sólo si es significativo el monto de los intereses y reajustes no reconocidos en los resultados.
 
 (3): Párrafo no aplicable en el caso de sociedades financieras.
 
@@ -30620,33 +30626,31 @@ INSTRUCCIONES:
 
 (5): Aplicable sólo en el caso de que existan saldos por los conceptos que se señalan.
 
-ANEXO N° 4
+ANEXO N°4
 
-Modelo de nota sobre obligación subordinada con el Banco Central.
+MODELO DE NOTA SOBRE OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
+
+Instituciones que mantienen obligación subordinada:
 
 NOTA 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
 
-Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N° 18.401, que permitió a las instituciones financieras novar los contratos de cesión de cartera de colocaciones que mantenían con el Banco Central de Chile, por una nueva obligación de un monto inicial igual al saldo de la obligación de recompra establecida en tales contratos, vigente a la fecha de la novación.
+Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N°18.401, que permitió a las instituciones financieras novar los contratos de cesión de cartera de colocaciones que mantenían con el Banco Central de Chile, por una nueva obligación de un monto inicial Igual al saldo de la obligación de recompra establecida en tales contratos, vigente a la fecha de la novación.
 
-Este compromiso novado, denominado "Obligación subordinada" se expresa en Unidades de Fomento y está afecto a un incremento de 5% anual ../por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/....
+Este compromiso novado, denominado "Obligación subordinada" se expresa en Unidades de Fomento y está afecto a un incremento de 5% anual ..../por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/....
 
 De acuerdo con la ley esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual .../deducida la parte de ellos que corresponda a las acciones con preferencia/....y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
 
-Al cierre del presente ejercicio la obligación subordinada asciende a U.F.Para su amortización se ha constituido una provisión ascendente a $............... millones (U.F.........................) que corresponde a los excedentes del ejercicio destinados a ese fin y que se muestra en el balance general como "Provisiones para pago de obligación subordinada al Banco Central de Chile".
+Al cierre del presente ejercicio la obligación subordinada asciende a UF..............Para su amortización se ha constituido una provisión ascendente a $................millones (U.F.................) que corresponde a los excedentes del ejercicio destinados a ese fin y que se muestra en el balance general como "Provisiones para pago de obligación subordinada al Banco Central de Chile"
 
 La variación de esta obligación subordinada en el ejercicio ha sido la siguiente:
 
-## Capítulo 18-1
+.
 
-ANEXO N°4
-
-Pág. 2
-
-El compromiso de destinar excedentes al cumplimiento de la obligación subordinada a favor del Banco Central de Chile tiene distintos efectos.
+El compromiso de destinar excedentes al cumplimiento de la obligación subordinada a favor del Banco Central de Chile tiene distintos efectos
 
 a) Pagos a depositantes y acreedores:
 
-El cumplimiento de la obligación subordinada no afecta a los depositantes y acreedores en caso de liquidación forzosa y disolución de la empresa, ya que en tales circunstancias esta obligación se cumplirá con posterioridad a los pagos que procedan a depositantes y acreedores, conforme a las normas legales vigentes. En condiciones normales, esta obligación será cubierta con los excedentes de cada ejercicio que deben destinarse a ese fin.
+El cumplimiento de la obligación subordinada no afecta a los depositantes y acreedores en caso de liquidación forzosa y disolución de la empresa, ya que en tales circunstancias esta obligación se cumplirá con posteridad a los pagos que procedan a depositantes y acreedores, conforme a las normas legales vigentes. En condiciones normales, esta obligación será cubierta con los excedentes de cada ejercicio que deben destinarse a ese fin.
 
 b) Distribución de utilidades:
 
@@ -30654,251 +30658,219 @@ De conformidad con las disposiciones vigentes, los propietarios de acciones pref
 
 Los accionistas que poseen acciones ordinarias no percibirán dividendos mientras no se haya extinguido la totalidad de la obligación subordinada.
 
-NOTA 2 - CARTERA VENDIDA AL BANCO CENTRAL DE CHILE.
+Instituciones que no.mantienen obligación subordinada;
 
-Al cierre del ejercicio la obligación de recompra de cartera vendida al Banco Central de Chile asciende a $ . . millones Para establecer el compromiso de destinar excedentes de futuros ejercicios a dicha obligación, debe deducirse de ella la suma de $ . (1) que se muestra en el Balance como "Provisión para recompra de cartera al Banco Central de Chile" / Esa suma incluye $ provenientes de pagos por enterar en el Banco Central de Chile, recibidos de clientes por créditos cedidos/
+NOTA 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
 
-La obligación de recompra está afecta a la variación de la Unidad de Fomento y a un recargo de /un 5%/ /una tasa variable fijada trimestralmente por el Banco Central de Chile sobre la base del interés promedio pagado sobre los depósitos en libretas de ahorro a plazo /calculado sobre la parte de la cartera adquirida al contado por el Instituto Emisor/.
+Esta institución no tiene la obligación subordinada con el Banco Central de Chile a que se refiere la Ley N° 18.401.
 
-El plazo establecido para la recompra de cartera vence el año . y puede ser prorrogado sobre la base de un análisis de la situación /del banco/de la sociedad/ a esa fecha.
+ANEXO N°5
 
-En todo caso, la obligación de recompra está subordinada a la generación de excedentes por parte de la institución Por lo tanto, las recompras anuales se efectuarán por montos que dependen de los excedentes de cada ejercicio, sin perjuicio de las recompras extraordinarias que puedan efectuarse al amparo del Acuerdo N° 1809-07-870722 del Comité Ejecutivo del Banco Central de Chile.
+MODELO DE NOTA SOBRE OPERACIONES CON PERSONAS RELACIONADAS.
 
-El compromiso de destinar excedentes a la recompra de cartera vendida al Banco Central de Chile tiene distintos efectos.
+Instituciones que tienen operaciones con partes relacionadas:
 
-a) Pagos a depositantes y acreedores.
+NOTA .3 - OPERACIONES CON PARTES RELACIONADAS.
 
-La obligación de recomprar cartera dentro del plazo indicado anteriormente no afecta a los depositantes y acreedores en caso de liquidación forzosa y disolución de la empresa En condiciones normales, esta obligación será cubierta con los excedentes que en cada ejercicio deben destinarse a ese fin
+De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
 
-b) Distribución de utilidades:
+a) Créditos otorgados a personas relacionadas.(1)
 
-De conformidad con las disposiciones vigentes, los propietarios de acciones preferentes tienen derecho a percibir dividendos calculados sobre la base del excedente que proporcionalmente corresponda a esas acciones, determinado antes de la provisión para amortizar la obligación de recompra de cartera
-
-Los accionistas que poseen acciones ordinarias no percibirán dividendos mientras no se haya extinguido la totalidad de la obligación de recompra
-
-(1): Monto que se presenta en el rubro "Otros pasivos" del modelo de publicación y que corresponde a la suma de los saldos registrados en las partidas 3045, 4135 y 4215.
-
-ANEXO N° 5
-
-Modelo de nota sobre operaciones con personas relacionadas.
-
-NOTA ... - OPERACIONES CON PARTES RELACIONADAS.
-
-De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros
+Al cierre del presente ejercicio, los créditos otorgados a personas relacionadas se componen como sigue (cifras en millones de pesos):(2)
 
 .
 
-Del total de créditos antes señalados, un monto ascendente a $ millones no se refleja en el activo Dicho monto corresponde principalmente a los créditos que se encontraban vendidos al Banco Central de Chile y que volvieron a poder de la institución en virtud de la novación de la obligación de recompra de dicha cartera efectuada durante el año 1989, oportunidad en la cual se imputo al activo solamente el valor comercial de la cartera, registrando el valor par en cuentas de orden para efectos de control (3)
+* Considera sólo aquellas garantías válidas para los efectos de límites individuales de crédito de que trata el artículo 84 de la Ley General de Bancos, valorizadas de acuerdo con las Instrucciones de la Superintendencia de Bancos e Instituciones Financieras.
 
-El total de los créditos relacionados representa un % del total de los créditos otorgados por la institución /incluidos aquellos registrados en cuentas de orden/ y un % del capital pagado y reservas Al cierre del ejercicio anterior dichos porcentajes eran de % y % respectivamente
+** Incluye sólo las obligaciones de personas naturales cuyas deudas son iguales o superiores al equivalente de tres mil Unidades de Fomento Del total de créditos antes señalados, un monto ascendente a $..............millones se encuentra registrado en cuentas de orden Dicho monto corresponde principalmente a los créditos que se habían vendido al Banco Central de Chile y que volvieron a poder de la institución en virtud de la novación de la obligación de recompra de dicha cartera efectuada en el año 1989, oportunidad en que se imputó al activo solamente el valor comercial de la cartera, registrando el valor par en cuentas de orden para efectos de control (3)
 
-El saldo de la cartera relacionada al 31 de diciembre de 199 incluye MM$ de créditos que provienen del ejercicio anterior y MM$ . .. correspondientes a créditos otorgados a esos mismos deudores durante el presente ejercicio.. /Además, comprende MM$ . por créditos otorgados a deudores que han sido incorporados en el año 199 a la categoría de relacionados /
+El total de créditos relacionados representa un % de capital pagado y reservas de la institución
 
-En el curso del año 199 /se han efectuado pagos efectivos por un monto de MM$ (4) (5) /no se han efectuado pagos efectivos/. de los Créditos relacionados provenientes del ejercicio anterior /Además han habido /permutas por MM$ (4) / /remisiones por MM$ (4) . /y/ desvinculación de deudores, cuyas obligaciones con esa institución alcanzaban a MM$ (4) .. al 31 de diciembre de 19
+b) Otras operaciones con partes relacionadas.
 
-b) Cumplimiento de planes de desconcentración de créditos con partes relacionadas.
+En esta parte de la nota se incluirá la información señalada en el numeral 4.3.2 del título III de este Capítulo.
 
-La institución está afecta a los siguientes planes de desconcentración de créditos con partes relacionadas (6)
+Si no existiere información que incluir en esta parte de la nota se indicará lo siguiente:
 
-Plan de desconcentración total
+b) Otras operaciones con partes relacionadas.
 
-Según lo dispuesto en el artículo 3° transitorio de la Ley N° 18576 y en el Capítulo 12-4 de la Recopilación Actualizada de Normas de la Superintendencia de Bancos e Instituciones Financieras, existe un plan de desconcentración para los créditos con partes relacionadas Para los efectos del cumplimiento de ese plan, la institución podía mantener al 31 de diciembre de 19 , créditos con partes relacionadas hasta por el equivalente al % del capital pagada y reservas. A esa misma fecha la empresa mantenía créditos con partes relacionadas por el equivalente a un % del capital pagado y reservas En consecuencia, esta entidad /no/ ha cumplido, a la fecha de los presentes Estados Financieros, con el plan de desconcentración dispuesto por el Organismo Contralor
-
-Plan de desconcentración de grupos vinculados a la institución.
-
-Esta institución también está afecta a planes individuales de desconcentración crediticia, según lo precisado en el N°2 del artículo 84, de la Ley General de Bancos, que afecta a grupos vinculados a la institución.
-
-Al 31 de diciembre de 19 , estos planes estaban cumpliendo / en la totalidad de ellos/ .en grupos de un total de /grupos afectos/
-
-El (los) grupo(s) de empresas ligadas al (a los) siguiente(s) accionista(s) se encuentra(n) excedido{s) en el (los) plan(es) de desconcentración establecido(s), según se indica a continuación
-
-.
+Durante el ejercicio y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas. .../ por montos superiores a $ 1 millón/...
 
 INSTRUCCIONES:
 
-(1): La empresa que mantenga cartera vendida al Banco Central de Chile deberá utilizar el modelo incluido al final de este Anexo.
+(1): En el caso en que no hayan créditos con partes relacionadas que deban informarse, se indicará en esta parte de la nota lo siguiente:
 
-En el caso en que no hayan créditos con partes relacionadas, se informará en esta parte de la nota lo siguiente:
+a) Créditos otorgados a personas relacionadas.
 
-"Al cierre del ejercicio no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa.".
+Al cierre del ejercicio no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa ... /con excepción de operaciones con personas naturales por montos inferiores a UF 3 000/ ..
 
 (2): Si la cantidad de créditos es mínima y la agrupación de cifras no justifica la presentación del cuadro porque la mayoría de sus espacios no contendrían saldos, se podrá presentar la información en otra forma, siempre que se indiquen todos los datos pertinentes exigidos en el modelo.
 
-Las deudas morosas y vencidas deben incluirse en el tramo de "hasta dos años".
+Para incorporar el valor de las garantías, debe tenerse presente que aquellas cauciones que no contemplen una cláusula de garantía general no pueden ser asignadas a otros créditos y, por lo tanto, si su valor supera el monto de la respectiva colocación, deberá considerarse aquel sólo hasta la concurrencia de dicho monto. Del mismo modo, si bien una garantía general puede ser considerada para diferentes deudas, su monto distribuido no puede ser superior al valor de todos los créditos cubiertos por ella.
 
-Para incorporar el valor de las garantías, debe tenerse presente que aquellas cauciones que no contemplen una cláusula de garantía general no pueden ser asignadas a otros créditos y, por lo tanto, si su valor supera el monto de la respectiva colocación, deberá considerarse aquel sólo hasta la concurrencia de dicho monto. Del mismo modo, si bien una garantía general puede ser considerada para diferentes deudas, su monto distribuido no puede ser superior al valor de todos los créditos cubiertos por ella
+(3): Párrafo aplicable sólo a instituciones que mantengan obligación subordinada.
 
-(3): Párrafo aplicable sólo a instituciones que mantengan obligación subordinada con el Banco Central de Chile.
+## Capítulo 18-1
 
-(4): Los montos señalados deben considerar los importes de los créditos según los valores informados al cierre del ejercicio anterior. Si no existían créditos con partes relacionadas al cierre de ese ejercicio, deberán adecuarse los párrafos.
+ANEXO N° 5
 
-(5): Los pagos recibidos durante el ejercicio que se informen, deberán corresponder sólo a los ingresos percibidos por caja de los créditos existentes al 31 de diciembre del año anterior. En ningún caso se incluirán las renovaciones u otra forma de extinción de deudas diferentes a pagos.
+Pág. 3
 
-(6) Si la institución no está afecta a planes de desconcentración se señalará ese hecho en esta parte de la nota, mediante la siguiente leyenda: "Esta institución no está afecta a planes de desconcentración de créditos". Sin embargo, podrá prescindirse de esta parte de la nota (letra b) cuando no existan créditos otorgados a personas relacionadas o cuando el monto sea poco relevante.
+Instituciones que no tienen operaciones con partes relacionada
 
-.
+NOTA.3 - OPERACIONES CON PARTES RELACIONADAS.
 
-El total de los créditos relacionados representa un % del total de los créditos otorgados por la institución ../incluidos aquellos vendidos al Banco Central de Chile y registrados en cuentas de orden/ y un % del capital pagado y reservas Al cierre del ejercicio anterior dichos porcentajes eran de % y % respectivamente
+De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros
 
-El saldo de la cartera relacionada al 31 de diciembre de 199 incluye MM$ de créditos que provienen del ejercicio anterior y MM$ correspondientes a créditos otorgados a esos mismos deudores durante el presente ejercicio . /Además, comprende MM$ por créditos otorgados a deudores que han sido incorporados en el año 199 a la categoría de relacionados /
+Al cierre del ejercicio no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa .../con excepción de operaciones con personas naturales por montos inferiores a UF 3 000/ ..
 
-En el curso del año 199 /se han efectuado pagos efectivos por un monto de MM$ . /no se han efectuado pagos efectivos/ . de los créditos relacionados provenientes del ejercicio anterior /Además han habido . . /permutas por MM$ /... /remisiones por MM$ . .. /y/ /desvinculación de deudores, cuyas obligaciones con esa institución alcanzaban a MM$ . al 31 de diciembre de 19
-
-En este caso deben tenerse presente también las instrucciones signadas con los números (2), (4) y (5).
-
-El total de créditos relacionados que se considerará para indicar el porcentaje de los mismos deberá incluir la cartera vendida al Banco Central de Chile. El porcentaje se calculará con respecto al total obtenido de la misma forma.
-
-> **Nota.** La letra D, del N° 3 de la Circular 2623, SBIF, promulgada el 11.06.1991, modifica el presente anexo. Sin embargo las modificaciones introducidas no se han incorporado al presente texto actualizado por no indicar la norma donde ella se deben introducir.
-
-> **Nota.** NOTA 1 La letra E, de la Circular 2661, SBIF, promulgada el 27.12.1991, modifica el presente anexo. Sin embargo las modificaciones introducidas no se han incorporado al presente texto actualizado por no indicar la norma donde ella se deben introducir.
+Por otra parte, durante el ejercicio y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas .. / por montos superiores a $ 1 millón/
 
 ANEXO N° 6
 
-Modelo de nota sobre inversiones en sociedades.
+MODELO DE NOTA SOBRE INVERSIONES EN SOCIEDADES.
 
 NOTA... - INVERSIONES EN SOCIEDADES /FILIALES / Y / COLIGADAS.
 
-a) Participación en las sociedades. (1)
+a) Participación en las sociedades.(1)
 
-En el Balance General se presentan inversiones en sociedades por $............. millones .... /que corresponden/de los cuales $ ............. millones corresponden/... a la participación de la institución en sociedades .../filiales/y/coligadas/...que .../complementan/o/ facilitan/..las actividades, contempladas en ../el número 11 bis/ el número 15 bis/ los números 11 bis y 15 bis /...del articulo 83 de la Ley General de Bancos.
+En el Balance General se presentan inversiones en sociedades por $.............millones .. /que corresponden/de los cuales $ .............. millones corresponden/, a la participación de la institución en sociedades .../filiales/y/coligadas/...que /complementan/o/ facilitan/ ..las actividades, contempladas en ../ el número 11 bis/ el número 15 bis/ los números 11 bis y 15 bis /...del artículo 83 de la Ley General de Bancos.
 
-Al 31 de diciembre de 19... la institución tiene participación en las siguientes sociedades .../filiales/ y / coligadas...:
+Al 31 de diciembre de 19... la institución tiene participación en las siguientes sociedades ../filiales/ y / coligadas...:
 
-Principales cifras resumidas de sus Estados Financieros al 31 de diciembre 19
+.
 
 INSTRUCCIONES:
 
-1): Incluir los títulos ("a) Participación en sociedades." y "b) Antecedentes acerca de las sociedades filiales.") sólo en caso de que deba incluirse la sección b) en la nota, es decir, cuando realmente existan sociedades filiales.
+(1): Incluir los títulos ("a) Participación en sociedades." y "b) Antecedentes acerca de las sociedades filiales.») sólo en caso de que deba incluirse la sección b) en la nota, es decir, cuando realmente existan sociedades filiales.
 
-(2): Agregar los importes totales, cuando corresponda, por las acciones o derechos en sociedades que no son filiales ni coligadas, es decir de aquellas que representan una participación inferior al 10%.
+(2): Agregar los importes totales, cuando corresponda, por las acciones o derechos en sociedades que no son filiales ni coligadas, es decir de aquellas que representan una participación inferior al 10%, rebajados por el importe de las provisiones que se hubieren constituido.
 
-(3): Incluir cada una de las sociedades filiales, es decir, aquellas en las cuales la institución tenga una participación mayor al 50%. En caso de que alguna de las sociedades informadas en este cuadro haya iniciado sus actividades durante el ejercicio, se indicará además, al pie del cuadro, la fecha de inicio de sus operaciones.
+(3) : Incluir cada una de las sociedades filiales, es decir, aquellas en las cuales la institución tenga una participación mayor al 50%. En caso de que alguna de las sociedades informadas en este cuadro haya iniciado sus actividades durante el ejercicio, se indicará además, al pie del cuadro, la fecha de inicio de sus operaciones.
 
-ANEXO N° 7
+ANEXO N°7
 
-Modelo de nota sobre provisiones
+MODELO DE NOTA SOBRE PROVISIONES
 
 NOTA... - PROVISIONES PARA CUBRIR ACTIVOS RIESGOSOS.
 
-Al 31 de diciembre de 19 /el banco/la sociedad/, mantiene provisiones para cubrir eventuales pérdidas por un total de $ millones /, del cual un monto de $ millones corresponde a las provisiones mínimas exigidas por la Superintendencia de Bancos e Instituciones Financieras
+Al 31 de diciembre de 19........./ el banco/la sociedad/... mantiene provisiones para cubrir eventuales pérdidas por un total de $ ............. millones ..../, del cual un monto de $..........millones corresponde a las provisiones mínimas exigidas por la Superintendencia de Bancos e Instituciones Financieras.
 
-El movimiento registrado durante el ejercicio en las cuentas de provisiones se resume como sigue
+El movimiento registrado durante el ejercicio en las cuentas de provisiones se resume como sigue:
 
 .
+
+A juicio de la administración, las provisiones constituidas cubren todas las eventuales pérdidas que pueden derivarse de la no recuperación de activos, según los antecedentes examinados por la institución.
 
 ANEXO N° 8
 
-Modelo de nota sobre capital, reservas y resultado del ejercicio.
+MODELO DE NOTA SOBRE CAPITAL. RESERVAS Y RESULTADO DEL EJERCICIO.
 
 NOTA... - CAPITAL, RESERVAS Y RESULTADO DEL EJERCICIO.
 
-El capital pagado y reservas de la institución alcanza al 31 de diciembre de 199 a MM$ . . , incluida la revalorización del capital propio de conformidad con lo establecido en el artículo 10 de la Ley N° 18046. Al cierre del ejercicio anterior, el capital pagado y reservas, incluida la correspondiente revalorización, era de MM$............de entonces
+El capital pagado y reservas de la institución alcanza al 31 de diciembre de 199.. a MM$............incluida la revalorización del capital propio de conformidad con lo establecido en el artículo 10 de la Ley N° 18.046. Al cierre del ejercicio anterior, el capital pagado y reservas, incluida la correspondiente revalonzación, era de MM$............de entonces.
 
-A continuación se resume el movimiento de las cuentas de Capital y Reservas durante el ejercicio
-
-.
-
-En el cuadro recién indicado deben incluirse sólo los conceptos en que corresponda consignar algún importe A continuación de este se agregará la información de que trata el numeral 4 6 del título III de este Capítulo
-
-En el caso de las instituciones que mantienen obligación subordinada o compromiso de recompra de cartera con el Banco Central de Chile y emisiones de acciones preferidas, la información relativa a los excedentes destinados a amortizar la obligación con el Instituto Emisor y de aquellos susceptibles de repartirse como dividendos se presentará de acuerdo con el siguiente texto
-
-El excedente del ejercicio 199 después de efectuada la provisión para impuestos, alcanzó a MM$.............de los cuales deben destinarse MM$ .. .al pago de la obligación .. /subordinada/de recompra de cartera/ con el Banco Central de Chile y MM$ .. .. para el eventual reparto como dividendo, de acuerdo con los términos de la Ley 18.401, a los propietarios de acciones preferentes o para capitalizarse si así lo determinan los accionistas propietarios de /esas/las respectivas series de/.. acciones con preferencia
-
-La parte del excedente que corresponde a las acciones preferentes ha sido calculada según las condiciones de preferencia acordadas por la junta de accionistas al aprobar la(s) respectiva(s) emisión(es) y equivale globalmente a un % de aquél según se muestra a continuación
+A continuación se resume el movimiento de las cuentas de Capital y Reservas durante el ejercicio.
 
 .
 
-(1) Porcentaje que representan las acciones de la serie en el total de acciones emitidas.
+En el cuadro recién indicado deben incluirse sólo los conceptos en que corresponda consignar algún importe. A continuación de éste se agregará la información de que trata el numeral 4.6 del título III de este Capitulo.
 
-(2) Porcentaje del derecho a dividendo sobre el excedente proporcional que le corresponde a las acciones de la serie
+En el caso de las instituciones que mantienen obligación subordinada con el Banco Central de Chile y emisiones de acciones preferidas, la información relativa a los excedentes destinados a amortizar la obligación con el Instituto Emisor y de aquellos susceptibles de repartirse como dividendos se presentará de acuerdo con el siguiente texto:
 
-(3) Porcentaje del excedente susceptible de repartirse como dividendo calculado sobre el excedente total del ejercicio
+El excedente del ejercicio 199.. después de efectuada la provisión para impuestos, alcanzó a MM$.............de los cuales deben destinarse MM$................al pago de la obligación subordinada con el Banco Central de Chile y MM$ ......................para el eventual reparto como dividendo, de acuerdo con los términos de la Ley N° 18.401, a los propietarios de acciones preferentes o para capitalizarse si así lo determinan los accionistas propietarios de ..../esas/las respectivas senes de/.... acciones con preferencia.
+
+La parte del excedente que corresponde a las acciones preferentes ha sido calculada según las condiciones de preferencia acordadas por la junta de accionistas al aprobar la(s) respectiva(s) emisión(es) y equivale globalmente a un ....% de aquél según se muestra a continuación:
+
+.
+
+(1): Porcentaje que representan las acciones de la serie en el total de acciones emitidas.
+
+(2): Porcentaje del derecho a dividendo sobre el excedente proporcional que le corresponde a las acciones de la serie.
+
+(3): Porcentaje del excedente susceptible de repartirse como dividendo calculado sobre el excedente total del ejercicio.
 
 ANEXO N° 9
 
-Modelo de nota sobre inversiones.
-
-NOTA... - INVERSIONES
-
-Al 31 de diciembre de 19..., la institución mantiene los siguientes saldos incluidos bajo el concepto de inversiones:
-
-..
+MODELO DE NOTA SOBRE INVERSIONES.
 
 .
+
+b) Otras Inversiones.
+
+.
+
+INSTRUCCIONES:
 
 (1): Párrafo aplicable sólo si es relevante el importe potencial no demostrado en el balance general que pudiere representar la enajenación de esos bienes. El monto que se indique debe corresponder a un valor razonable de realización, basado en los precios que se obtendrían en transacciones libres entre partes independientes y de acuerdo con la situación actual del mercado.
 
 ANEXO N° 10
 
-Modelo de nota de vencimiento de activos y pasivos.
+MODELO DE NOTA DE VENCIMIENTO DE ACTIVOS Y PASIVOS.
 
-NOTA... - VENCIMIENTOS DE ACTIVOS Y PASIVOS A MEDIANO Y LARGO PLAZO.
+NOTA...- VENCIMIENTOS DE ACTIVOS Y PASIVOS A MEDIANO Y LARGO PLAZO.
 
-A continuación se muestran los activos y pasivos agrupados según sus fechas de vencimiento, excluidas las operaciones o saldos realizables o exigibles de menos de un año. Los saldos incluyen los intereses devengados hasta el 31 de diciembre de 19...
+A continuación se muestran los activos y pasivos agrupados según sus fechas de vencimiento, excluidas las operaciones o saldos realizables o exigibles de menos de un año. Los saldos incluyen los intereses devengados hasta el 31 de diciembre de 19... .
 
 .
 
 ANEXO N° 11
 
-Modelo de nota sobre moneda extranjera
+MODELO DE NOTA SOBRE MONEDA EXTRANJERA.
 
 NOTA ... - SALDOS DE MONEDA EXTRANJERA.
 
-En el Balance General se Incluyen derechos y obligaciones en monedas extranjeras, por los montos que se resumen a continuación: (1)
+En el Balance General se incluyen derechos y obligaciones en monedas extranjeras o reajustables por el tipo de cambio, por los montos que se resumen a continuación:(1)
 
 .
 
-Incluye MUS$ por concepto de encaje mantenido por obligaciones con el exterior, conforme a las disposiciones acordadas por el Consejo del Banco Central de Chile
-
-Un total de MUS$............... de los activos de la institución está financiado con reservas o provisiones autorizadas por el Banco Central de Chile.../además de otros recursos propios por MUS$.............correspondientes al capital recomprado/...
+Un total de MUS$................ de los activos de la institución está financiado con reservas o provisiones autorizadas por el Banco Central de Chile.../además de otros recursos propios por MUS$................correspondientes al capital recomprado/...
 
 INSTRUCCIONES:
 
 (1) El cuadro que sigue puede ser ajustado para incluir sólo los conceptos en que corresponda consignar algún importe. Las sociedades financieras que deban presentar esta nota, podrán entregar la información de otra forma, atendido que la mayoría de los conceptos señalados en el cuadro no son propios de sus operaciones.
 
-(2) En esta nota no deben considerarse las cuentas de ajuste y control, con excepción de las divisas provenientes de recursos propios vendidos al Banco Central de Chile con pacto de recompra.
+(2) Los intereses devengados que se abonan en pesos en cuenta corriente, se mostrarán en la segunda columna.
 
-ANEXO N° 12
+(3) En esta nota no deben considerarse las cuentas de ajuste y control, con excepción de las divisas provenientes de recursos propios vendidos al Banco Central de Chile con pacto de recompra.
 
-Modelo de nota sobre resultados extraordinarios (*)
+ANEXO N°12
+
+MODELO DE NOTA SOBRE RESULTADOS EXTRAORDINARIOS (*).
 
 NOTA...- INGRESOS Y GASTOS EXTRAORDINARIOS.
 
-El excedente que se muestra en el Estado de Resultados, después de gastos, provisiones y castigos,está influido por factores distintos de las operaciones habituales de intermediación Para una mejor interpretación de los resultados, a continuación se indican los principales ingresos y gastos que tienen este carácter
+El excedente que se muestra en el Estado de Resultados está influido por factores distintos de las operaciones habituales de intermediación. Para una mejor interpretación de los resultados, a continuación se indican los principales ingresos y gastos que tienen este carácter.
 
-- En "Otros ingresos de operación" se incluyen $.. .millones por beneficios obtenidos en pago o sustituciones de pagarés de la deuda externa
+- En "Otros ingresos de operación" se incluyen $..........millones por beneficios obtenidos en pago o sustituciones de pagarés de la deuda externa
 
-- Las colocaciones adquiridas a instituciones financieras en liquidación y las recuperaciones de estos créditos, originaron una utilidad de $ .. millones que se representa en el rubro "Otros ingresos de operación"
+- Las colocaciones adquiridas a instituciones financieras en liquidación y las recuperaciones de estos créditos, originaron una utilidad de $.... millones que se representa en el rubro "Otros ingresos de operación".
 
-- Se incluyen también dentro de "Otros ingresos de operación", la utilidad en la venta de bienes recibidos en pago o adjudicados, que ascendió a $ millones
+- Se incluyen también dentro de "Otros ingresos de operación", la utilidad en la venta de bienes recibidos en pago o adjudicados, que ascendió a $ .... millones.
 
-- Dentro de "Otros ingresos" se incluyen $ . . millones originados por venta de bienes recibidos en pago que se encontraban castigados
+- Dentro de "Otros ingresos" se Incluyen $..........millones originados por venta de bienes recibidos en pago que se encontraban castigados.
 
-En "Otros Gastos" se incluyen $ en pago millones por el castigo de bienes recibidos
+- En "Otros Gastos" se incluyen $.....millones por el castigo de bienes recibidos en pago.
 
-Durante el año se efectuaron recompras extraordinarias de cartera vendida al Banco Central de Chile que produjeron efectos en los resultados del ejercicio, por un total de $ millones / Al 31 de diciembre de 19... se mantienen provisiones para recompra extraordinaria de cartera, con cargo a resultados del ejercicio por un total de $ . millones/... / De dicha recompra extraordinaria $.. . millones, / /El total de dicha recompra/ corresponde a la aplicación de los ingresos por intereses y reajustes percibidos en el ejercicio por los créditos incluidos en la cartera vendida al Banco Central de Chile/
+Los ingresos y gastos indicados precedentemente representan un . /mayor/menor/... excedente/resultado neto/... de $.........millones.
 
-Los ingresos y gastos indicados precedentemente representan un /mayor/menor/excedente/resultado neto/, de $ millones
+(*): La redacción de esta nota se presenta a modo de ejemplo y no pretende agotar los principales conceptos que deben mencionarse en ella. Sin embargo, se utilizará en lo posible la redacción señalada para aquellos casos que coinciden con la situación que se presenta en la empresa.
 
-(*). La redacción de esta nota se presenta a modo de ejemplo y no pretende agotar los principales conceptos que deben mencionarse en ella. Sin embargo, se utilizará en lo posible la redacción señalada para aquellos casos que coinciden con la situación que se presenta en la empresa.
+ANEXO N°13
 
-> **Nota.** El numeral III, de la Circular 2532, SBIF, promulgada el 16.03.1990, modifica el Anexo N° 1 del Capítulo 18-1, en el sentido de eliminar las referencias a la partida 5625, atendido que las pérdidas por la enajenación de bienes recibidos o adjudicados en pago debe ser cubierta, en todos los casos, por la provisión constituida. Por el mismo motivo, se modifica el presente Anexo eliminando las menciones a la pérdida neta en venta de bienes recibidos en pago, modificación incorporada al presente texto actualizado.
+MODELO DE NOTA SOBRE CONTINGENCIAS, COMPROMISOS Y OTRAS RESPONSABILIDADES DE LA EMPRESA.
 
-ANEXO N° 13
-
-Modelo de nota sobre contingencias, compromisos y otras responsabilidades de la empresa.
-
-NOTA... - CONTINGENCIAS, COMPROMISOS Y RESPONSABILIDADES.
+NOTA .... - CONTINGENCIAS, COMPROMISOS Y RESPONSABILIDADES.
 
 a) Compromisos y responsabilidades contabilizados en cuentas de orden.
 
-La institución mantiene registrados en cuentas de orden.../, además de .. ./la obligación subordinada con el Banco Central de Chile/ la obligación de recompra de cartera al Banco Central de Chile/... mencionada en Nota 2,/... los siguientes saldos relacionados con compromisos o con responsabilidades propios del giro: (1)
+La institución mantiene registrados en cuentas de orden.../, además de .. /la obligación subordinada con el Banco Central de Chile/....mencionada en Nota 2, los siguientes saldos relacionados con compromisos o con responsabilidades propias del giro. (1)
 
 .
 
 En todo caso, cuando existan otros saldos importantes y que sea pertinente incorporarlos en esta relación, deberán agregarse, utilizando el nombre que corresponda. Debe tenerse presente que, no obstante estar incluida la partida 9210 (Valores y letras en garantía), no debe considerarse en esta nota el monto de las garantías prendarias e hipotecarias (partida 9220).
 
-(2) Otras contingencias, compromisos o responsabilidades significativas, cuando proceda, según lo indicado en el numeral 4.13 del título III de este Capítulo.
+(2) Otras contingencias, compromisos o responsabilidades significativas, cuando proceda, según lo indicado en el numeral 4.13 del título III de este Capitulo.
 
 CAPITULO 18-2 (Bancos y Financieras)
 
@@ -30960,7 +30932,7 @@ En consecuencia, además de las presentes instrucciones y sin perjuicio de lo se
 
 ### 3. Notas al Estado de Situación
 
-El Estado de Situación deberá acompañarse con las siguientes notas "Información proporcionada" (Nota N° 1), "Obligación subordinada con el Banco Central de Chile" o "Cartera vendida al Banco Central de Chile" (Nota N° 2),y, "Operaciones con partes relacionadas" (Nota N° 3).
+El Estado de Situación deberá acompañarse con las siguientes notas "Información proporcionada" (Nota N° 1), "Obligación subordinada con el Banco Central de Chile" (Nota N° 2),y, "Operaciones con partes relacionadas" (Nota N° 3).
 
 Además, las instituciones que hayan tenido aumentos de capital en el curso del año y aquellas que hayan efectuado compras, ventas, permutas o canjes de créditos de la cartera de colocaciones con otra institución financiera, deberán incluir una nota referida a esas situaciones.
 
@@ -30970,15 +30942,9 @@ Las cifras que corresponde incluir en las notas se expresarán en millones de pe
 
 La primera nota deberá contener exactamente la misma redacción indicada en el modelo del Anexo N° 2.
 
-3.2. Preparación de la Nota N° 2, sobre obligación subordinada con el Banco Central de Chile o venta de cartera al Instituto Emisor.
+3.2.- Preparación de la nota N° 2, sobre obligación subordinada.
 
-Esta nota incluye información general sobre la obligación subordinada con el Banco Central de Chile y se presentará de acuerdo con el modelo del Anexo N° 2 de este Capítulo.
-
-Si la institución no se hubiere acogido a la novación de las obligaciones derivadas de los contratos de compraventa de cartera con el Banco Central de Chile, esta segunda nota la destinará a informar sobre la obligación de recompra de cartera, utilizando la redacción establecida para el efecto en el mismo Anexo.
-
-En caso de que la institución no mantenga obligaciones que provengan de venta de cartera al Banco Central de Chile, deberá presentar esta nota señalando lo siguiente.
-
-"La institución no tiene obligación subordinada con el Banco Central de Chile, ni mantiene saldos derivados de contratos de compraventa de cartera con el Instituto Emisor".
+Esta nota incluirá información general sobre la obligación subordinada con el Banco Central de Chile, y se presentará de acuerdo con el modelo del Anexo N° 2 de este Capítulo.
 
 3.3. Preparación de la Nota N° 3 sobre operaciones con partes relacionadas.
 
@@ -30990,7 +30956,7 @@ Esta nota contiene, en lo principal, la misma información que la nota que debe 
 
 Las entidades financieras que en el curso del año hubieren llevado a cabo aumentos de capital, incluirán esta nota especial (N° 4), en la que señalarán el monto del aumento enterado.
 
-Cuando el aumento de capital se hubiere efectuado al amparo de las disposiciones de los Capítulos XVIII o XIX del Compendio de Normas de Cambios Internacionales del Banco Central de Chile o del DL N° 600, deberá indicarse la modalidad bajo la cual se realizó Asimismo, si un aumento de capital se realizó con el objeto de efectuar pagos extraordinarios de la obligación subordinada con el Banco Central de Chile o para recomprar extraordinariamente cartera vendida al Instituto Emisor, se dejará constancia de ello.
+Cuando el aumento de capital se hubiere efectuado al amparo de las disposiciones de los Capítulos XVIII o XIX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile o del DL N° 600, deberá indicarse la modalidad bajo la cual se realizó Asimismo, si un aumento de capital se realizó con el objeto de efectuar pagos extraordinarios de la obligación subordinada con el Banco Central de Chile, se dejará constancia de ello.
 
 3.4.2. Nota sobre compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
 
@@ -31002,17 +30968,17 @@ b) se indicarán los efectos de esas transacciones en cuanto al aumento o libera
 
 Para el efecto deberán seguirse las pautas generales establecidas para la preparación y publicación de estados financieros, en orden a informar las transacciones en las notas sólo si su importe es igual o superior a un millón de pesos, considerando, en este caso, el valor de los créditos de cada operación en su conjunto.
 
-ANEXO N° 1
+ANEXO N°1
 
-MODELO DEL ESTADO DE SITUACION
+MODELO DEL ESTADO DE SITUACION.
 
 .
 
 INSTRUCCIONES:
 
-Los modelos señalados precedentemente se utilizarán siguiendo las mismas instrucciones que se indican en el Anexo N° 1 del Capítulo 18-1 de estas Normas, tanto en lo que se refiere al contenido de cada una de las lineas, como en la adaptación de los modelos a la situación particular de la institución financiera.
+Los modelos señalados precedentemente se utilizarán siguiendo las mismas instrucciones que se indican en el Anexo N° 1 del Capítulo 18-1 de estas Normas, tanto en lo que se refiere al contenido de cada una de las líneas, como en la adaptación de los modelos a la situación particular de la institución financiera.
 
-El modelo del estado de resultados que debe utilizarse contiene, sin embargo, menos líneas que aquel correspondiente al ejercicio anual La diferencia está sólo en la presentación resumida de las líneas signadas con las letras O, P y Q, de tal manera que los importes que corresponde consignar en cada una de estas líneas corresponderán a la suma de aquellos que se identifican con las mismas letras en el estado de resultados no resumido indicado en el Anexo N° 1 del Capítulo 18-1 (por ejemplo línea Q = Q1 + Q2 + Q3).
+El modelo del estado de resultados que debe utilizarse contiene, sin embargo, menos líneas que aquel correspondiente al ejercicio anual. La diferencia está sólo en la presentación resumida de las líneas signadas con las letras O, P y Q, de tal manera que los importes que corresponde consignar en cada una de estas líneas corresponderán a la suma de aquellos que se identifican con las mismas letras en el estado de resultados no resumido indicado en el Anexo N° 1 del Capítulo 18-1 (por ejemplo: línea Q = Q1+Q2+Q3).
 
 En lo que respecta a las instrucciones para adaptar los modelos cuando no existan saldos en alguna línea, debe entenderse que en el caso del estado de situación, la inexistencia de saldos está referida tanto a la fecha del estado como al cierre del ejercicio anterior, debiendo coincidir en ambas fechas dicha inexistencia.
 
@@ -31020,113 +30986,95 @@ ANEXO N° 2
 
 NOTAS AL ESTADO DE SITUACION
 
-A continuación se muestran los modelos que deberán utilizarse en la preparación de las notas complementarias del estado de situación La redacción dispuesta en dichos modelos no podrá ser modificada salvo para adecuarla a situaciones no previstas en las instrucciones Para ceñirse a la redacción dispuesta, deberá elegirse, en los casos que corresponda, la alternativa aplicable a cada caso, utilizando las frases entre puntos suspensivos y barras ("//").
+A continuación se muestran los modelos que deberán utilizarse en la preparación de las notas complementarias del estado de situación. La redacción dispuesta en dichos modelos no podrá ser modificada salvo para adecuarla a situaciones no previstas en las instrucciones. Para ceñirse a la redacción dispuesta, deberá elegirse, en los casos que corresponda, la alternativa aplicable a cada caso, utilizando las frases entre puntos suspensivos y barras (".../ /...").
 
-El modelo de la Nota N° 3 que se incluye en este Anexo, sobre operaciones con partes relacionadas, coincide en la mayoría de sus partes con aquel que debe ser utilizado en la preparación de la misma nota para los estados financieros anuales Por lo tanto, las instituciones se ceñirán en lo pertinente y no previsto en este Anexo, a las instrucciones contenidas en el Anexo N° 5 del Capítulo 18-1 de esta Recopilación Actualizada de Normas.
+El modelo de la Nota N° 3 que se incluye en este Anexo, sobre operaciones con partes relacionadas, coincide en la mayoría de sus partes con aquel que debe ser utilizado en la preparación de la misma nota para los estados financieros anuales. Por lo tanto, las instituciones se ceñirán en lo pertinente y no previsto en este Anexo, a las instrucciones contenidas en el Anexo N° 5 del Capítulo 18-1 de esta Recopilación Actualizada de Normas.
 
-MODELO DE NOTA N° 1 NOTA N° 1 - INFORMACION PROPORCIONADA
+MODELO DE NOTA N° 1.
 
-El presente Estado de Situación ha sido preparado de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras.
+NOTA N°1 - INFORMACION PROPORCIONADA.
 
-Las cifras correspondientes al ejercicio 19 se incluyen únicamente para efectos comparativos y se presentan actualizadas de acuerdo con a variación del IPC entre el 1° de diciembre de 19 y el de de 19 (1)
+El presente Estado de Situación ha sido preparado de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras
 
-Los resultados de las instituciones financieras, en el curso del resto del ejercicio, pueden variar en función del riesgo de la cartera, volumen de negocios, incrementos de capital, tasas de interés, tipo de cambio, IPC, etc Por lo tanto, los resultados correspondientes al período de meses del año 19 tienen sólo el carácter de provisionales.
+Las cifras correspondientes al ejercicio 19.... se incluyen únicamente para efectos comparativos y se presentan actualizadas de acuerdo con la variación del IPC entre el 1° de diciembre de 19...y el.de.............de 19.... (1)
 
-(1) Deberá indicarse la fecha correspondiente al último día del mes anterior al que se refiere el estado de situación, por tratarse del IPC desfasado.
+Los resultados de las Instituciones financieras, en el curso del resto del ejercicio, pueden variar en función del riesgo de la cartera, volumen de negocios, incrementos de capital, tasas de interés, tipo de cambio, IPC, etc. Por lo tanto, los resultados correspondientes al período de ... meses del año 19... tienen sólo el carácter de provisionales.
 
-MODELOS DE NOTA N° 2
+(1): Deberá indicarse la fecha correspondiente al último día del mes anterior al que se refiere el estado de situación, por tratarse del IPC desfasado.
 
-Sobre obligación subordinada con el Banco Central de Chile.
+MODELOS.. DE NOTA N° 2
 
-NOTA N° 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE
+Instituciones que mantienen obligación subordinada:
 
-Con fecha 1° de agosto de 1989, se publicó en el Diario Oficial la Ley N° 18818, que introdujo modificaciones a la Ley N° 18401 que regulaba la obligación de recompra de cartera con el Banco Central de Chile Conforme a estas nuevas disposiciones, /el banco/la sociedad/ optó por novar dicha obligación de recompra ascedente a U F a esa fecha, por un nuevo compromiso de carácter subordinado expresado en U F y de plazo indeterminado Este nuevo compromiso que, de acuerdo a lo establecido en la ley no es un pasivo exigible, estará afecto a un recargo acumulativo de 5% anual /por la parte que corresponde al saldo de la obligación novada proveniente de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/ Por otra parte, el compromiso se cumplirá con los excedentes anuales, /deducida la parte de ellos que corresponda a acciones preferentes,/ u otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
+NOTA N°2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
 
-Al de de 19 , la obligación subordinada a favor del Banco Central de Chile asciende a MM$ (MM$ al 31 12).
+Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N° 18 401. Este compromiso, denominado "obligación subordinada" se expresa en Unidades de Fomento y está afecto a un incremento de 5% anual ..../por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/... De acuerdo con la ley esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual. ./deducida la parte de ellos que corresponda a las acciones con preferencia/ . y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras
 
-Sobre la base de los excedentes provisionales obtenidos hasta la fecha del presente estado de situación, la institución mantiene una provisión para pagar dicha obligación por un monto ascendente a MM$ , que se muestra en el balance general como "Provisión para pago de obligación subordinada al Banco Central de Chile".
+Al .... de ................. de 199..., la obligación subordinada asciende a U.F............ (UF ............ al 31.12 9...) . Para su amortización se ha constituido una provisión ascendente a $ ...........millones (U.F ........ ) que corresponde a aquella parte de los excedentes provisionales del periodo destinados a ese fin y que se muestra en el balance general como "Provisiones para pago de obligación subordinada al Banco Central de Chile"
 
-Esta institución /no tiene capital pagado en acciones preferentes/ puede destinar el % de sus excedentes anuales a dividendos para las acciones preferentes/
+Instituciones que no mantienen obligación subordinada:
 
-Sobre cartera vendida al Banco Central de Chile
+NOTA 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
 
-NOTA N° 2 - CARTERA VENDIDA AL BANCO CENTRAL DE CHILE
+Esta institución no tiene la obligación subordinada con el Banco Central de Chile a que se refiere la Ley N° 18 401.
 
-Al de de 19 , el compromiso de destinar los excedentes finales a recompra de cartera al Banco Central de Chile asciende a MM$ (MM$ al 31 12), /sin perjuicio del reparto de dividendos a las acciones con preferencia de acuerdo con el artículo 10 de la Ley N° 18401/ En general, este saldo no se demuestra como un pasivo exigible de la institución debido a que el monto que debe destinarse anualmente a la recompra de cartera está subordinado a la existencia de excedentes finales los cuales, de acuerdo con las normas que rigen para los contratos de compraventa y cesión de cartera, deben aplicarse íntegramente a la recompra de esa cartera, no pudiendo en consecuencia, repartirse como dividendos para acciones ordinarias.
+MODELO DE NOTA N° 3.
 
-A la fecha del presente estado de situación, la institución registra provisiones para rescate de cartera por MM$ (1) y ha efectuado en el curso de este ejercicio recompras extraordinarias /con recursos propios y/ con pagos recibidos de los deudores por MM$.
+Instituciones que tienen operaciones con partes relacionadas:
 
-Esta institución /no tiene capital pagado en acciones preferentes/ puede destinar el % de sus excedentes anuales a dividendos para las acciones preferentes/.
+NOTA N° 3. - OPERACIONES CON PARTES RELACIONADAS.
 
-(1) Monto que se presenta en el rubro "Otros pasivos" del modelo de publicación y que corresponde a la suma de los saldos registrados en las partidas 3045, 4135 y 4215.
+De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
 
-MODELO DE NOTA N° 3
+a) Créditos otorgados a personas relacionadas.(1)
 
-NOTA N° 3 - OPERACIONES CON PARTES RELACIONADAS
-
-De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
-
-a) Créditos otorgados a personas relacionadas.
-
-Al... de...........de 19.... el saldo de los créditos otorgados a personas relacionadas se compone como sigue (cifras en millones de pesos).
-
-* Considera sólo aquellas garantías válidas para los efectos de límites individuales de crédito de que trata el artículo 84 de la Ley General de Bancos, valorizadas de acuerdo con las instrucciones de la Superintendencia de Bancos e instituciones Financieras.
-
-El total de los créditos relacionados representa un ...% del total de los créditos otorgados por la institución . ./incluidos aquellos registrados en cuentas de orden/....
-
-En el curso del año 19.... se han pagado efectivamente $ . . millones por concepto de amortizaciones y $ .............. millones por intereses, de créditos relacionados provenientes del ejercicio anterior. El total de pagos representa un ....% de la cartera relacionada existente al término del ejercicio pasado El monto indicado por concepto de amortizaciones no incluye novaciones ni sustituciones de créditos a cargo del mismo o de otro deudor relacionado
-
-Durante el presente año .../no/... se han otorgado nuevos créditos a deudores relacionados .../por una suma de $ ................................ millones y ../ni/. se han incorporado nuevos deudores a la categoría relacionados .. /cuyas obligaciones a favor de la institución suma a la fecha $...............millones.
-
-En el caso de una empresa que mantenga cartera vendida deberá indicarse lo siguiente:
-
-* Considera sólo aquellas garantías válidas para los efectos de límites individuales de crédito de que trata el artículo 84 de la Ley General de Bancos, valorizadas de acuerdo con las instrucciones de la Superintendencia de Bancos e Instituciones Financieras.
-
-El total de los créditos relacionados representa un ....% del total de los créditos otorgados por la institución ../ incluida la cartera registrada en cuentas de orden/... y un ....% del capital pagado y reservas.
-
-En el curso del año 19 .. se han pagado efectivamente $................... millones por concepto de amortizaciones y $ ................. millones por intereses, de créditos relacionados que al cierre del ejercicio anterior se encontraban en poder de la institución. En lo que se refiere a los créditos relacionados cedidos al Banco Central de Chile, los pagos recibidos durante el año ascienden a $................millones. El total de pagos representa un......% de la cartera relacionada existente al término del ejercicio pasado. El monto indicado por concepto de amortizaciones no incluye novaciones ni sustituciones de créditos a cargo del mismo o de otro deudor relacionado
-
-Durante el presente año .../no/.. se han otorgado nuevos créditos a deudores relacionados .../por una suma de $ ................. millones y /ni/.. se han incorporado nuevos deudores a la categoría relacionados. /cuyas obligaciones a favor de la institución suma a la fecha $........... millones.
-
-b) Cumplimiento de planes de desconcentración de créditos con partes relacionadas.
-
-La institución está afecta a los siguientes planes de desconcentración de créditos con partes relacionadas.
-
-Plan de desconcentración global
-
-Según lo dispuesto en el artículo 3° transitorio de la Ley N° 18576 y en el Capítulo 12-4 de la Recopilación Actualizada de Normas de la Superintendencia de Bancos e Instituciones Financieras, existe un plan de desconcentración para los créditos con partes relacionadas Para los efectos del cumplimiento de ese plan, la institución podía mantener al de de 19 , créditos con partes relacionadas hasta por el equivalente al % del capital pagado y reservas A esa misma fecha, la empresa mantenía créditos con partes relacionadas por el equivalente a un % del capital pagado y reservas En consecuencia, esta entidad /no/ ha cumplido, a la fecha de los presentes Estados Financieros, con el plan de desconcentración dispuesto por el Organismo Contralor.
-
-Plan de desconcentración de grupos vinculados a la institución
-
-Esta institución también está afecta a planes individuales de desconcentración crediticia, según lo precisado en el N° 2 del artículo 84, de la Ley General de Bancos, que afecta a grupos vinculados a la institución
-
-Al ..... de ..... de 19..., estos planes se estaban cumpliendo / en la totalidad de ellos/ en grupos de un total de grupos afectos/
-
-c) Otras operaciones con partes relacionadas
-
-En esta parte de la nota se incluirá la información señalada en el numeral 4.3.3 del título III del Capítulo 18-1 de esta Recopilación Actualizada de Normas
-
-Si no existiere información que incluir en esta parte de la nota se indicará lo siguiente
-
-"Durante el año 19 y hasta la fecha de preparación de este estado de situación, la empresa no ha efectuado operaciones ni ha mantenido contratos vigentes con partes relacionadas /, por montos superiores a $ 1 millón/ "
-
-Si bien la redacción de esta parte de la nota queda a criterio de cada institución, al tratarse de operaciones con pagarés de la deuda externa efectuadas con personas relacionadas, deberá presentarse la información respecto a esas operaciones, de la siguiente forma
-
-En el curso del ejercicio se han realizado las siguientes operaciones con partes relacionadas, relativas a pagarés de la deuda externa
+Al .... de............de 199..., los créditos otorgados a personas relacionadas se componen como sigue (cifras en millones de pesos):(2)
 
 .
 
-Estas operaciones representan un % del total de las transacciones de este tipo
+* Considera sólo aquellas garantías válidas para los efectos de límites individuales de crédito de que trata el artículo 84 de la Ley General de Bancos, valorizadas de acuerdo con las instrucciones de la Superintendencia de Bancos e Instituciones Financieras.
 
-Las redenominaciones o prepagos de los títulos de deuda externa, cursados al amparo de las disposiciones / del (de los) capítulo(s) XVIII y XIX del/ Compendio de Normas de Cambios Internacionales del Banco Central de Chile, /excluidas aquellas destinadas a efectuar aumentos de capital de la propia institución, / se realizaron, en términos de promedio ponderado, al % del valor respectivo, incluidos sus intereses
+** Incluye sólo las obligaciones de personas naturales cuyas deudas son iguales o superiores al equivalente de tres mil Unidades de Fomento.
 
-Por otra parte, las operaciones de esta especie, realizadas con terceros fueron efectuadas a un promedio ponderado de % del valor respectivo.
+Del total de créditos antes señalados, un monto ascendente a $...............millones se encuentra registrado en cuentas de orden. Dicho monto corresponde principalmente a los créditos que se habían vendido al Banco Central de Chile y que volvieron a poder de la institución en virtud de la novación de la obligación de recompra de dicha cartera efectuada en el año 1989, oportunidad en que se imputó al activo solamente el valor comercial de la cartera, registrando el valor par en cuentas de orden para efectos de control.(3)
 
-> **Nota.** La letra F) de la Circular 2574, SFIF, promulgada el 10.10.1990, modifica el presente Anexo, estableciendo un nuevo texto para el modelo de la Nota 3, en la sección relativa a los créditos otorgados a partes relacionadas con la institución.
+El total de créditos relacionados representa un......% de capital pagado y reservas de la institución.
 
-> **Nota.** NOTA 1 Circular 2580, SFIF, promulgada el 06.12.1990, modifica el presente Anexo, en la sección relativa a los créditos otorgados a partes relacionadas con la institución.
+b) Otras operaciones con partes relacionadas.
 
-> **Nota.** NOTA 2 El N° 4 de la Circular 2623, SBIF, promulgada el 11.06.1991, sustituye las instrucciones para la preparación de la Nota N° 3, contenidas en el presente Anexo.
+En esta parte de la nota se incluirá la información señalada en el numeral 4.3.2 del título III del Capítulo 18-1 de esta Recopilación Actualizada de Normas.
+
+Si no existiere información que incluir en esta parte de la nota se indicará lo siguiente:
+
+b) Otras operaciones con partes relacionadas.
+
+Durante el año 199... la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas. .J por montos superiores a $ 1 millón/...
+
+INSTRUCCIONES:
+
+(1): En el caso en que no hayan créditos con partes relacionadas que deban informarse, se indicará en esta parte de la nota lo siguiente:
+
+a) Créditos otorgados a personas relacionadas.
+
+Al ... de .......... de 199... no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa ..../con excepción de operaciones con personas naturales por montos inferiores a UF 3.000/....
+
+(2): Si la cantidad de créditos es mínima y la agrupación de cifras no justifica la presentación del cuadro porque la mayoría de sus espacios no contendrían saldos, se podrá presentar la información en otra forma, siempre que se indiquen todos los datos pertinentes exigidos en el modelo.
+
+Para incorporar el valor de las garantías, debe tenerse presente que aquellas cauciones que no contemplen una cláusula de garantía general no pueden ser asignadas a otros créditos y, por lo tanto, si su valor supera el monto de la respectiva colocación, deberá considerarse aquel sólo hasta la concurrencia de dicho monto. Del mismo modo, si bien una garantía general puede ser considerada para diferentes deudas, su monto distribuido no puede ser superior al valor de todos los créditos cubiertos por ella.
+
+(3): Párrafo aplicable sólo a instituciones que mantengan obligación subordinada.
+
+Instituciones que no tienen operaciones con partes relacionada
+
+NOTA N° 3. - OPERACIONES CON PARTES RELACIONADAS.
+
+De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
+
+Al.... de..........de 199... no existen créditos otorgados a personas relacionadas
+
+con la propiedad o gestión de la empresa ..../con excepción de operaciones con personas naturales por montos inferiores a UF 3.000/....
+
+Por otra parte, durante el ano 199.... la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas..../ por montos superiores a $ 1 millón/...
 
 CAPITULO 18-3 (Bancos y Financieras)
 
