@@ -1,0 +1,3 @@
+Por resolución No. 959, de 8 de Octubre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALIMENTOS MULTIEXPORT LIMITADA, RUT No. 96.513.230-9, domiciliada en la ciudad de Santiago, para continuar desarrollando las actividades pesqueras autorizadas a Alimentos Multiexport S.A., igual RUT y domicilio, por Resoluciones No. 432, de 1987, No. 1459, No. 1755 y No. 1893, de 1989; No. 798 y No. 1027, de 1990; No. 1482, de 1991 y No. 465, de 1992, todas de esta Subsecretaría, de acuerdo a la escritura pública de transformación de fecha 7 de mayo de 1992 y de conformidad con lo dispuesto en la Ley No. 18.046 sobre Sociedades Anónimas.
+
+Valparaíso, 8 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
