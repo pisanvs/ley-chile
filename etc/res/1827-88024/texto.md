@@ -1,0 +1,3 @@
+Por resolución Nº 1.827, de 31 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA PACIFIC STAR S.A., para continuar desarrollando las actividades de transformación autorizadas por resoluciones Nº 484, de 1995 y Nº 848 de 1997, ambas de esta Subsecretaría, a Salmones Pacific Star Ltda., en virtud de las Escrituras Públicas de fecha 15 de abril de 1997 y de fecha 12 de junio de 1997, otorgadas ante la Notario Público de Santiago, doña Antonieta Mendoza Escalas, de transformación y división de sociedad.
+
+Valparaíso, 31 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
