@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD COMERCIAL Y DE INVERSIONES SAN JOSE LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DENIEGA PERMISO QUE INDICA
+
+Por resolución N° 502 de 19 de Agosto de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Comercial y de Inversiones San José Limitada, domiciliaria en Santiago, para extraer durante el período de extracción permitido, con cuatro embarcaciones menores de su propiedad el recurso anchoveta y para procesarlo en la línea de conserva, en la planta que operará en Antofagasta, calle Pedro Aguirre Cerda N° 5921. Además, se deniega autorización a la Sociedad señalada, para extraer sardina común de tallas entre 14 y 18 cms., basado en lo dispuesto en el decreto de Economía N° 458, de 1981.
+
+Valparaíso, 19 de Agosto de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
