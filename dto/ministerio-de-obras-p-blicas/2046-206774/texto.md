@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.046, de 31 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº49-1 para la obra: "Camino: Ruta F-20. Sector : Nogales-Puchuncaví.
+
+Km.0.730,36 a Km.26.866,82", Quinta Región, que figura a nombre de Fernández Fernández Pedro Suc, rol de avalúo 173-5, comuna de Puchuncaví, superficie 2.641 m2. La comisión de peritos integrada por los señores Claudia Paola Arellano Gómez, Mauricio Rodrigo Rojo Vega y María Isabel Ríos Marcuello, fijó con fecha 21 de octubre de 2002, el valor provisional de la indemnización en la cantidad de $3.433.300.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
