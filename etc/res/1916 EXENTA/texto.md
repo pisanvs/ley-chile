@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1916 de 09 de Septiembre de 1987, conforme artículo 5°. Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Reserva y Sector Expropiado Predios "Hijuela Primera de La Moranina", "Hijuela Tercera de La Moranina", "Hijuela Tercera denominada hoy Las Casas de la Moranina" de la Comuna de Rancagua, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 21, sitios N°s. 1 al 17 y Reserva CORA. del Proyecto de Parcelación "La Moranina" formado por predios señalados y por predio "Hijuela Tercera que en adelante se denominará Las Casas de la Moranina". Los Derechos de Agua se extraen de los canales Peterson, Hijuelas y San Pedro, todos derivados del Río Cachapoal.
+
+Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
