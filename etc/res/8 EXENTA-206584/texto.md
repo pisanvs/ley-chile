@@ -1,0 +1,11 @@
+APRUEBA REFORMA DE ESTATUTOS DE "SOUTH CONE ADMINISTRADORA DE FONDOS DE INVERSION DE CAPITAL EXTRANJERO S.A."
+
+Certifico: Que por resolución exenta Nº8, de 7 de enero de 2003, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad ''South Cone Administradora de Fondos de Inversión de Capital Extranjero S.A.'', acordada en la Junta Extraordinaria de Accionistas celebrada el 12 de noviembre de 2002, y reducida el mismo día a escritura pública, en la 33ª notaría de Santiago de don Iván Torrealba Acevedo, consistente en un cambio en el tipo de sociedad administradora, pasando a ser una sociedad Administradora General de Fondos, conforme a lo dispuesto en el título XXVII de la ley Nº18.045. Las modificaciones a los estatutos sociales fueron:
+
+Nombre: South Cone Administradora General de Fondos S.A.
+
+Objeto Exclusivo: El objeto exclusivo de la sociedad es la administración de fondos mutuos regidos por el decreto ley Nº1.328 de 1976, fondos de inversión regidos por la ley Nº18.815, fondos de inversión de capital extranjero regidos por la ley Nº18.657, fondos para la vivienda regidos por la ley Nº19.281 y cualquier otro tipo de fondo cuya fiscalización sea encomendada a la Superintendencia de Valores y Seguros. La sociedad podrá administrar uno o más tipos o especies de estos fondos.
+
+Capital: Se acordó aumentar a 6.000 el número de las 1.000 acciones suscritas y pagadas existentes, efectuándose un canje de 6 nuevas acciones por cada una antigua. Luego, se acordó aumentar el capital suscrito y pagado de $96.684.923 a la suma de $99.100.896, mediante la capitalización de ''Otras reservas'', por la suma de $506.946, y ''Utilidades acumuladas'', por la suma de $1.909.027. Finalmente, se acordó aumentar el capital de $99.100.896 dividido en 6.000 acciones suscritas y pagadas, en la suma de $86.946.753, mediante la emisión de 4.000 acciones nominativas, ordinarias, de única serie y sin valor nominal, que debían suscribirse y pagarse dentro del plazo de 3 años contado desde la junta, y que a la fecha se encuentran suscritas y pagadas, quedando el capital social en la suma de $186.047.649, dividido en 10.000 acciones, íntegramente suscrito y pagado.
+
+Santiago, 7 de enero de 2003.- Carmen Undurraga Martínez, Secretaria General.
