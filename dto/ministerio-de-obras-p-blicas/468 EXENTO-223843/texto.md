@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 468 de fecha 26 de marzo de 2004, se expropió el lote de terreno Nº 13, superficie 2.674 m2, rol de Avalúo Nº 266-44, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, sector 2 Carrizal - Puente Belco, Tramo Km. 17,34000 a Km. 23,51000", VII Región y se acordó el valor de la indemnización con su propietario Juan Daniel Fuentes Avila y otros, ascendente a la cantidad de $1.144.290.
+
+Fiscal del Ministerio de Obras Públicas.
