@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.058, de 21 de agosto de 2003, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 132, de 1986, y Nº 1.066, de 1987, ambas de esta Subsecretaría, que autorizaron a PESQUERA QUINTERO S.A. para operar la nave "Crusoe I" en el área marítima comprendida entre la III a VII Regiones, sobre los recursos Jurel, Sardina española, Sardina común, Anchoveta y Caballa, en virtud de lo dispuesto en el articulo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 21 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
