@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s. 672, 675, 676 y 677, todos de fecha 30 de agosto de 1996, se expropiaron los lotes de terreno N°s. 17, 11, 22 y 10, superficies 5.016, 125, 1.242 y 133,74 m2., respectivamente, roles de avalúos 8200-19, 2510-17, 2932-1 y 2510-43, comuna de La Florida, para la obra Mejoramiento Eje La Florida, sector Los Ararlos Las Vizcachas y se acordó precio de indemnización con sus propietarios Congregación de los Hermanos de las Escuelas Cristianas, Fondo de Inversión Inmobiliaria Santiago, Arzobispado de Santiago y Adolfo Saavedra Toledo, ascendente a las cantidades de $298.445.659, $15.557.438, $67.678.380 y $7.528.763.
+
+Fiscal del Ministerio de Obras Públicas.
