@@ -1,0 +1,15 @@
+Por resolución No. 303 de 06 de Abril de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las siguientes resoluciones, de conformidad a lo dispuesto en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción:
+
+a) Resolución No. 943, de 1988, de esta Subsecretaría, que autorizó a Pesquera Antares Limitada "Aquamarine Ltda.", R.U.T. No. 79.674.170-8, domiciliada calle Luma No. 1353, Las Condes, para instalar y operar un establecimiento de cultivo de los recursos Salmón plateado, Oncorhynchus kisutch y salmón del atlántico, Salmo salar, en dos sectores de 180.000 m2, cada uno, situados en Farellones de Marimeli, Estero Reloncaví, Comuna de Cochamó, Provincia de Llanquihue, X Región.
+
+b) Resolución No. 1394, de 1989, modificada por Resolución No. 92, de 1990, ambas de esta Subsecretaría, que autorizó a doña Carlina del Carmen Peñafiel Lizana. R.U.T. No.
+
+5.745.409-1, domiciliada en calle Yulton No. 1450, Temuco, para iniciar actividades pesqueras de transformación.
+
+c) Resolución No. 2032, de 1989, de esta Subsecretaría, que autorizó a Pesquera Antares S.A., R.U.T. No. 79.674.170-8, domiciliada en Santiago, para ampliar las actividades pesqueras que tenía autorizadas por Resolución No. 1305, de 1989, de esta Subsecretaría, en el sentido que podrá instalar y operar un establecimiento de cultivo de los recursos Salmón del atlántico, Salmo salar, trucha arcoiris, Salmo gairdenri, trucha café, Salmo trutta, salmón plateado, Oncorhynchus kisuth y salmón rey, Oncorhynchus tschawytscha, en dos sectores ubicados en Ensenada Río Chilco, Comuna de Cochamó, Provincia de Llanquihue, X Región, con una superficie de 127.500 m2.
+
+d) Resolución No. 894, de 1990, de esta Subsecretaría, que autorizó a Chisal S.A., R.U.T. No. 95.682.000-6, domiciliada en Puerto Montt, para ampliar actividades pesqueras, autorizadas por Resolución No. 350, de 1986, en orden a instalar y operar un establecimiento de cultivo de los recursos hidrobiológicos Salmón del atlántico, Salmo salar y trucha arcoiris, Salmo gairdneri, en Punta San Luis, Estuario de Reloncaví, Comuna Cochamó, Provincia de Llanquihue, X Región, en un área de 5.500 m2., y e) Resolución No. 1028, de 1990, de esta Subsecretaría, que autorizó a Alimentos Multiexport S.A., R.U.T. No.
+
+96.513.230-9, domiciliada Santiago, para ampliar actividades pesqueras autorizadas por Resolución No. 432, de 1987, en orden a instalar y operar un establecimiento de cultivo de los recursos hidrobiológicos Salmón plateado, Oncorhynchus kisutch, salmón rey, Oncorhynchus tschawytscha, salmón del atlántico, Salmo salar, trucha arcoiris, Salmo gairdneri y trucha café, Salmo trutta, en el Estuario de Reloncaví, Comuna de Cochamó, Provincia de Llanquihue, X Región, en un área de 80.000 m2.
+
+Valparaíso, 06 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
