@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 1.094 de 31 de octubre de 1997, se expropiaron los lotes de terreno N°s. 75-B y 75-C, superficies 4.707 y 6.522 M2, roles de avalúo 9305-13, comuna de Valparaíso, obra Habilitación Nuevo Camino La Pólvora Etapa I, sector Ruta 68 - Acceso Sur a Valparaíso y se acordó precio de indemnización con su propietario Edmundo Puentes Ruiz y otros, ascendente a la cantidad de $ 37.167.710.
+
+Fiscal del Ministerio de Obras Públicas
