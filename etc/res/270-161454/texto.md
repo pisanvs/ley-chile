@@ -1,0 +1,5 @@
+AUTORIZA A DAL MARE ALIMENTOS CONGELADOS S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 270 de 17 de Marzo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Dal Mare Alimentos Congelados S.A. domiciliada en la Comuna de Arica, para elaborar en la planta de congelado que tiene autorizada en Quilpué, por la Resolución No. 548, de 1985, de la Subsecretaría de Pesca, adem s de los recursos señalados en el numeral 3° de dicha Resolución, los siguientes: Taca, almeja. calamar, tegula, caracol locate, caracol trumulco, cholga, chorito, choro zapato, macha, navajuela, ostión del norte, ostra, pulpo, camarón de roca, camarón nailón, centolla, centollón, gamba, langostino amarillo, langostino colorado, jaiba, picoroco y piure, que deber transportar en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 17 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
