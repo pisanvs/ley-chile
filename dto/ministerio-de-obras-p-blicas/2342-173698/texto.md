@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.342, de 30 de mayo de 2000, se expropió el lote de terreno Nº48, superficie 901 m2., comuna de Casablanca, para la obra Concesión Internacional Ruta 5; Tramo: Los Vilos-La Serena, Sector A: Bif. Illapel-Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietaria Margarita Vial Castillo, ascendente a la cantidad de $372.627.
+
+Fiscal del Ministerio de Obras Públicas.
