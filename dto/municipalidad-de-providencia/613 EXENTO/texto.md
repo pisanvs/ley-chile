@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO DE EXPROPIACION
+
+Alcaldesa de la I. Municipalidad de Providencia, mediante Decreto Alcaldicio No. Ex. 613, de 31 de Marzo de 1987, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976 y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en calle Chucre Manzur No. 1, Rol de Avalúos No. 387-14, aparentemente de propiedad de don Jorge Manzur Hasbún y otro, para la construcción de una plazoleta y paso peatonal. Deslindes parte expropiada: al Norte, 6,50 mts. resto de la propiedad que se expropia; al Sur, 20 mts. con fondo calle Fernando Márquez de La Plata y otros propietarios; al Oriente, 16,40 mts. y 4,45 mts. con calle Chucre Manzur y 3,50 mts. otros propietarios; al Poniente, 20 mts. con Rol No. 387-26. Indemnización provisional: $ 2.387.100 determinada por Comisión Tasadora integrada por señores Ramón Undurraga Montes, René Ureta Koster y Luis Rojas Quezada, según informe de fecha 24 de Noviembre de 1986, pagadera contado.-
+
+Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
