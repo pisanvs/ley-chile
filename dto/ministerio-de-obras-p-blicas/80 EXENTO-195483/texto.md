@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº80, de fecha 21 de febrero de 2002, se expropiaron los lotes de terreno Nºs 3 y 4, superficies 1.358 m² y 1.796 m², rol de avalúo 1100-475, comuna de Quillón, VIII Región, para la obra "Camino Ruta 5 - Ruta 148, Sector Balsa Liucura, Km. 0,00000 al 0,39000" y se acordó el valor de indemnización con su propietario don Isaías Vivallo Arriagada, ascendente a la cantidad de $2.008.069.-
+
+Fiscal del Ministerio de Obras Públicas.
