@@ -1,0 +1,3 @@
+Por decreto MOP Nº626, de 28 de marzo del 2002, se expropió el lote de terreno Nº11-4, superficie 586 m², rol de avalúo 36-453, comuna de Requínoa, para la obra Concesión Internacional Ruta 5 Tramo Santiago - Talca. Sector F: Km. 92.000,00 al Km. 110.200,00, Sexta Región, y se acordó el valor de indemnización con su propietario Francisco Eduardo Butron Bartocini, ascendente a la cantidad de $4.134.500.-
+
+Fiscal del Ministerio de Obras Públicas.
