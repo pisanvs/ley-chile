@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 694 de 28 de Mayo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden al Proyecto de Parcelación "Arizona Sur" de la comuna de San Carlos, VIII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 8 formado por los predios "Retazo de Terreno que es parte del inmueble denominado Arizona Hijuela 1 Retazo de terreno del referido Fundo San Luis que se denominará Hijuela No. 3" y "Retazo de terreno denominado Arizona Hijuela No. 2 que es parte integrante del Fundo San Luis de Ñiquén". Los Derechos de Agua se extraen del Canal San Luis derivado del Río Ñiquén.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
