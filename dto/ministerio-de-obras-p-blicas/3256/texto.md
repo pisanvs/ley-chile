@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.256, de 29 de octubre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.
+
+3, 5 y 6, para la ejecución de la obra camino J-550 Curicó - Sarmiento Tramo Km. 0.000,00 a Km. 5.508,45, que figura a nombre de Alberto Diez Berdion, Lorenzo Méndez Moraga y Ot. y Denis Francisco Triggs Carrera, roles de avalúo 527-12, 53-84 y en trámite, comuna de Curicó y Romeral, VII Región, superficies 72, 125 y 205 m2. La Comisión de Peritos compuesta por los señores Hugo Villarroel Urbina, Carlos Sottolichio Díaz e Iván Correa Opazo, fijó con fecha 17 de octubre de 1994, el valor provisional de la indemnización en la cantidad de $127.480, lote 3; $50.500, lote 5 y $3.349.800, lote 6. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
