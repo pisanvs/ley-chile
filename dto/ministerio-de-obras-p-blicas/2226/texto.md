@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.226, de 16 de agosto de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1, 2, 3 y 4 para la obra Camino Renca-Américo Vespucio que figuran a nombre de Berta Muñoz Tamayo y Sucesión Alfonso Gaete E., roles de avalúos 761-88 y 762-1, comuna de Renca, superficies 2.880, 1.760, 940 y 600 m² respectivamente. La Comisión de Peritos compuesta por los señores Fernando Merino de la Cerda, Roberto Corra Bezanilla y Nancy Sánchez Sepúlveda, fijó con fecha 25 de junio de 1992, los valores provisionales de las indemnizaciones en las cantidades de $4.960.000, lote 1;
+
+$3.060.000, lote 2; $1.660.000, lote 3 y $1.250.000, lote 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
