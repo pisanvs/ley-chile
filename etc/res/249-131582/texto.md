@@ -1,0 +1,3 @@
+Por resolución Nº 249 de 3 de febrero de 1999, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 970 y Nº 1.775 de 1989 y Nº 98 de 1990, de esta Subsecretaría, que autorizaron a don RICARDO BORN LUNECKE, para operar la nave ''Pamar I'', en virtud de lo dispuesto en el artículo 143 letras b) y d) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 3 de febrero de 1999.- Edith Saa Collantes, Subsecretario de Pesca (S).
