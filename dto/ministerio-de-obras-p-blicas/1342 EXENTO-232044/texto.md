@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.342, de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 140-A, superficie 700,00 m2, Rol en trámite, comuna de Lampa, Región Metropolitana, para la obra "Camino Ruta G-184-182, sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 a Km. 15,04419" y se acordó el valor de indemnización con su propietario don Pedro Roberto Ponce Figueroa, ascendente a la cantidad de $2.727.174.-
+
+Fiscal del Ministerio de Obras Públicas.
