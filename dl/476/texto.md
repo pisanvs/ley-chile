@@ -1,0 +1,121 @@
+DEROGA, A CONTAR DEL 1° DE MAYO DE 1974, EL N° 9 DEL ARTICULO 191 DEL CODIGO DEL TRABAJO
+
+Núm. 476.- Santiago, 27 de Mayo de 1974.- Vistos: los decretos leyes N°s. 1, de 11 de Septiembre; 128, de 16 de Noviembre, y 168, de 5 de Diciembre, todos del año 1973, y
+
+Considerando:
+
+Que con el propósito de sufragar los gastos personales de los oficiales y tripulantes que navegan al exterior, cada miembro de la dotación percibe, de acuerdo con lo previsto en el N° 9 del artículo 191 del Código del Trabajo, un porcentaje de aumento de su sueldo o salario no inferior al 25%, que se paga desde la fecha en que la nave abandone el último puerto chileno hasta tocar el primer puerto nacional;
+
+Que el sistema de anticipos en moneda extranjera estructurado en base a lo dispuesto en el artículo 191, N° 9, del Código del Trabajo, ha resultado en la práctica inadecuado en razón del reajuste periódico del tipo de cambio a que se liquidan estos anticipos, de acuerdo con lo ordenado por el Comité Ejecutivo del Banco Central de Chile, el que no guarda concordancia en la mayoría de los casos con los reajustes de las remuneraciones en moneda nacional del personal de oficiales y tripulantes de la Marina Mercante Nacional;
+
+Que, por otra parte, los anticipos que se dan en moneda extranjera, tienen por objeto sufragar los mayores gastos que las dotaciones tienen en el exterior por diferencia de moneda, lo que implica que ellos no deben significar una disminución de las remuneraciones en moneda nacional de que gozan esas dotaciones;
+
+Que concordante con lo precedentemente enunciado, el artículo 241 de la ley N° 16.464 libera de impuesto a la renta dicho porcentaje de aumento;
+
+Que, en consecuencia, es conveniente dar a las dotaciones que viajan al exterior una asignación diaria en moneda extranjera, además de sus sueldos y salarios, que guarden una relación jerarquizada entre los diferentes grados,
+
+La Junta de Gobierno de la República de Chile acuerda dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Derógase, a contar del 1° de Mayo de 1974, el N° 9 del artículo 191 del Código del Trabajo.
+
+#### Artículo 2°
+
+A contar de esa misma fecha, el personal de oficiales y tripulantes de la Marina Mercante Nacional, fuera de gozar de las remuneraciones en moneda extranjera a que tienen derecho en el país, tendrá además derecho a una asignación diaria en moneda extranjera o su equivalente en dólares estadounidenses por cada día de viaje al exterior, de acuerdo a la siguiente escala:
+
+Oficiales
+
+Capitán_ ___ ___ ___ ___ ___ ___ ___ ___ __ US$ 10,00
+
+Piloto 1°___ ___ ___ ___ ___ ___ ___ ___ __ 8,00
+
+Ingeniero 1° ___ ___ ___ ___ ___ ___ ___ __ 9,00
+
+Comisario___ ___ ___ ___ ___ ___ ___ ___ __ 5,50
+
+Ingeniero 2° ___ ___ ___ ___ ___ ___ ___ __ 6,00
+
+Piloto 2°___ ___ ___ ___ ___ ___ ___ ___ __ 5,00
+
+Ingeniero 3° ___ ___ ___ ___ ___ ___ ___ __ 4,50
+
+Electricista ___ ___ ___ ___ ___ ___ ___ __ 4,50
+
+Radiotelegrafista___ ___ ___ ___ ___ ___ __ 4,50
+
+Piloto 3°___ ___ ___ ___ ___ ___ ___ ___ __ 4,00
+
+Ingeniero 4° ___ ___ ___ ___ ___ ___ ___ __ 4,00
+
+Mayordomo___ ___ ___ ___ ___ ___ ___ ___ __ 4,00
+
+Practicante_ ___ ___ ___ ___ ___ ___ ___ __ 4,00
+
+Aspirante Ingeniero_ ___ ___ ___ ___ ___ __ 3,50
+
+Sobrecargo__ ___ ___ ___ ___ ___ ___ ___ __ 3,50
+
+Aspirante Sobrecargo ___ ___ ___ ___ ___ __ 3,50
+
+Tripulantes
+
+Contramaestre___ ___ ___ ___ ___ ___ ___ __ 4,00
+
+Pañolero Máquina - Mecánico_ ___ ___ ___ __ 4,00
+
+Cocinero 1°_ ___ ___ ___ ___ ___ ___ ___ __ 4,00
+
+Pañolero Cubierta___ ___ ___ ___ ___ ___ __ 4,00
+
+Marinero 1°_ ___ ___ ___ ___ ___ ___ ___ __ 3,50
+
+Reparador - Bombero_ ___ ___ ___ ___ ___ __ 4,00
+
+Cocinero 2°_ ___ ___ ___ ___ ___ ___ ___ __ 3,50
+
+Engrasador - Ayudante Guardiero_ ___ ___ __ 3,50
+
+Despensero__ ___ ___ ___ ___ ___ ___ ___ __ 3,50
+
+Marinero 2°_ ___ ___ ___ ___ ___ ___ ___ __ 3,00
+
+Fogonero - Ayudante Mecánico ___ ___ ___ __ 3,00
+
+Limpiador___ ___ ___ ___ ___ ___ ___ ___ __ 3,00
+
+Muchacho Comodín ___ ___ ___ ___ ___ ___ __ 3,00
+
+Muchacho Cámara_ ___ ___ ___ ___ ___ ___ __ 3,00
+
+Muchacho Rancho_ ___ ___ ___ ___ ___ ___ __ 3,00
+
+Ayudante Cocina_ ___ ___ ___ ___ ___ ___ __ 3,00
+
+#### Artículo 3°
+
+Las cantidades asignadas en la escala establecida en el artículo 2° de este decreto ley sólo podrán ser modificadas en el futuro por decreto supremo de los Ministerios de Hacienda y Defensa Nacional a proposición del Director del Litoral y Marina Mercante.
+
+#### Artículo 4°
+
+Esta asignación no tendrá el carácter de renta o remuneración para ningún efecto legal, por lo que no será tributable para los efectos de impuesto, ni imponible a la Caja de Previsión correspondiente.
+
+#### Artículo 5°
+
+Esta asignación se pagará desde la fecha en que la nave abandone el último puerto chileno y hasta la fecha de regreso al primer puerto nacional.
+
+#### Artículo 6°
+
+Deróganse todas las disposiciones legales y déjanse sin efecto los acuerdos del Comité Ejecutivo del Banco Central de Chile, normas contractuales o resoluciones de Comisiones Bipartitas, o Tripartitas, Evaluadoras de Cargo de Oficiales y Capitanes, relacionadas con la materia a que se refiere el presente decreto ley.
+
+#### Artículo transitorio
+
+El Director del Litoral y Marina Mercante, dentro del plazo de 30 días, a contar de la fecha de dictación del presente decreto ley, y en uso de las facultades que le otorga el decreto ley N° 168, de 3 de Diciembre de 1973, determinará las compensaciones en moneda nacional que fueren procedentes como consecuencia del eventual perjuicio que pudieran derivarse de la derogación de las disposiciones contractuales relacionadas con lo dispuesto en el presente decreto ley.
+
+El sistema de remuneraciones en moneda nacional definitivo quedará incorporado al Estatuto Unico que se establecerá en virtud del decreto ley mencionado.
+
+Regístrese en la Contraloría General de la República, comuníquese y publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General Director de Carabineros.- Patricio Carvajal Prado, Vicealmirante, Ministro de Defensa Nacional.- Mario Mac-Kay Jaraquemada, General Inspector de Carabineros, Ministro del Trabajo y Previsión Social.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
+
+Lo que se transcribe para su conocimiento.- Ernesto Jobet Ojeda Contralmirante, Subsecretario de Marina.
