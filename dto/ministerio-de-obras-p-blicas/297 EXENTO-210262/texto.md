@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº297 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº2, superficie 253,00 m2, rol de Avalúo en trámite, comuna de La Serena, para la obra "Camino Ruta 41-Ch, Bifurcación a Las Rojas-Puente Quebrada de Talca", IV Región y se acordó el valor de la indemnización con su propietaria Junta de Vecinos 11-R Las Rojas, ascendente a la cantidad de $923.882.-
+
+Fiscal del Ministerio de Obras Públicas.
