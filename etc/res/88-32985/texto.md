@@ -1,0 +1,3 @@
+Por Resolución N° 88 de 31 de Marzo de 1993, del Serviu V Región de Valparaíso, se dispuso expropiación conforme artículo 87 Ley 8.946 de Pavimentación Comunal y D.L. N° 2.186, de 1978, de parte de lote 542 de calle Catemu, comuna Viña del Mar, inscrito fs. 5.902 vta. N° 6.683 Registro Propiedad año 1971 Conservador Bienes Raíces Valparaíso, de dominio de Blanca Corina Torrejón Carvajal. Comisión Tasadora integrada por arquitecto Edmundo Bravo Ubilla y constructores civiles Alvaro Verdejo Vidal y Pablo Caria Giurici, según informe de fecha 3 Marzo de 1993, fijó monto provisional indemnización en $ 810.000, la que se pagará de contado.-
+
+Director Serviu V Región.
