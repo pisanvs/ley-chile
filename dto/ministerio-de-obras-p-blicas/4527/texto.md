@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.527, de 29 de septiembre del 2000, se expropió el lote de terreno Nº22-5, superficie 7.018 m2., rol de avalúo 306-85, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector Purranque Poniente, Décima Región y se acordó el valor de indemnización con su propietario Augusto Segundo Aravena Cárdenas, ascendente a la cantidad de $14.234.887.-
+
+Fiscal del Ministerio de Obras Públicas.
