@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 462, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs. 124 y 133, superficies 9.196 m2. y 581 m2., roles de avalúo 161-52 y 160-89, comuna de Ranquil, para la Obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Héctor Rabanal Baeza y Bertilo Oviedo Fuentes, ascendente a las cantidades de $4.558.104.- y $138.176.-
+
+Fiscal del Ministerio de Obras Públicas.
