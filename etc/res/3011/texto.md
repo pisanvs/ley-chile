@@ -1,0 +1,3 @@
+Por resolución Nº 3.011, de 27 de diciembre de 2002, de esta Subsecretaría, déjase sin efecto la resolución Nº 905 de 2002, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº 96104098, presentada por RAMON ARTURO QUINTUY HUENTEN, para instalar y operar el centro de cultivo ubicado en Canal Quihua, X Región.
+
+Valparaíso, 27 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
