@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº403 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº100, superficie 44 m2, Rol Nº596-50, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietario Manuel Francisco González Sánchez, ascendente a la cantidad de $373.154.-
+
+Fiscal del Ministerio de Obras Públicas.
