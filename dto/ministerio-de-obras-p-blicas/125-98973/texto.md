@@ -1,0 +1,3 @@
+Por decreto MOP. No 125, de 13 de febrero de 1998, se expropió el lote de terreno No 49, superficie 471 m2., rol de avalúo 2597-8, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte-Sur, sector Las Acacias-Río Maipo y se acordó precio de indemnización con el propietario Francisco Javier Villa Silva y Otro, ascendente a la cantidad de $19.052.179.-
+
+Fiscal del Ministerio de Obras Públicas.
