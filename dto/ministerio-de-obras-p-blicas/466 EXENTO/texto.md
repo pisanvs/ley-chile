@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº466 de 19 de Abril de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.
+
+27-B y 27-C para la obra Camino M-24-K Quivolgo - Puente Lautaro, Sector B: La Trinchera - Putú (Variante Costera), km. 13,240 a km. 30,000; que figuran a nombre de Alvares Alvares Leobardina, rol de avalúo 356-51, Comuna de Constitución, VII Región, superficies 2.604 y 2.474 m2 respectivamente. La Comisión de Peritos fijó con fecha 7 de septiembre del 2001, complementada por Acta de fecha 1 de marzo del 2002, en las cantidades de $1.061.600.-, para el lote 27-B y $1.731.800.- para el lote 27-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
