@@ -1,0 +1,5 @@
+Por decreto MOP. No. 997, de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840 y del DFL. No. 206 de 1960, se expropió el lote de terreno No. 1 para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector km. 161.580,00 al 165.800,00, V Región, que figura a nombre de Coop. Pullally R Agrar Ltda, rol de avalúo 101-221, de la comuna de Papudo, superficie 478 m2. La Comisión de Peritos integrada por los Sres. María Isabel Ríos Marcuello, Joaquín Prieto Ochagavía y Claudia Paola Arellano Gómez, fijó con fecha 15 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 956.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
