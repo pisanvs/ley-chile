@@ -1,0 +1,3 @@
+Por resolución Nº 2.022, de 21 de agosto de 2003, de esta Subsecretaría, autorízase a DISTRIBUIDORA MARES DEL SUR LIMITADA para ampliar actividades pesqueras extractivas con la nave "Tahiti", por fuera del área de reserva artesanal, donde podrá capturar los recursos hidrobiológicos que a continuación se señalan: a) Entre la III a VIII Regiones, con arrastre: Besugo, Cojinova moteada, Congrio dorado, Palometa, Calamar, Jibia; b) Entre la III a VII Regiones, con arrastre: Raya.
+
+Valparaíso, 21 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
