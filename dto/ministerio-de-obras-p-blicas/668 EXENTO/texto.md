@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 668 de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nº 29-B y 29-C, superficies 25 y 198 m2., rol de avalúo Nº 2023-147, comuna de Melipilla, para la obra ''Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0,00000 al Km. 14,23039'', Región Metropolitana y se acordó el valor de indemnización con su propietaria Griselda del Carmen Valdivia Padilla, ascendente a la cantidad de $1.430.866.-
+
+Fiscal del Ministerio de Obras Públicas.
