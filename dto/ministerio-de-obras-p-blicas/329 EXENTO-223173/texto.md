@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 329, de fecha 27 de febrero de 2004, se expropió él lote de terreno Nº 377-D, superficie 21 m2, Rol Nº 33-136, comuna de Pichidegua, VI Región, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 12,70000 a Km. 16,4800" y se acordó el valor de indemnización con su propietario Sergio Antonio Urbina Villablanca, ascendente a la cantidad de $758.232.-
+
+Fiscal del Ministerio de Obras Públicas.
