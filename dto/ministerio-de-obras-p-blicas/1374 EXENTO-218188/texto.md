@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.374 de fecha 31 de octubre del 2003, se expropió el lote de terreno Nº 48, superficie 6,00 m2, rol Nº 161-110, comuna de Petorca, V Región para la obra "Ruta E-37-D, sector Palquico - Las Palmas, Km. 14,04861 a Km. 26,13776, y se acordó el valor de indemnización con su propietario Eleuterio Rodolfo Díaz Tapia, ascendente a la cantidad de $195.590.
+
+- Fiscal del Ministerio de Obras Públicas.
