@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº221, de 30 de noviembre de 2000, se expropió el lote de terreno Nº1, superficie 257 m2., rol de avalúo 1334-274, comuna de San Carlos, para la obra Concesión Internacional Ruta 5. Tramo Talca-Chillán, Octava Región y se acordó el valor de indemnización con sus propietarios María Guadalupe Escalona Salazar y otros, ascendente a la cantidad de $720.941.-
+
+Fiscal del Ministerio de Obras Públicas.
