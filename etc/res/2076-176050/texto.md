@@ -1,0 +1,3 @@
+Por resolución Nº 2.076, de 15 de septiembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº97110542, presentada por PRODUCTOS MARINOS MARDIM LIMITADA, para instalar y operar el centro de cultivo ubicado en Canal Jacaf, Punta Ayacucho, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 15 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
