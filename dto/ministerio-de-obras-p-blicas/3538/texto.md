@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.538 de 26 de noviembre de 1999, se expropió el lote de terreno Nº 434-1, superficie 327,0 m², rol de avalúo 292-67, comuna de Paillaco, para la obra Concesión Internacional Ruta 5: Tramo Temuco - Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Enrique Alberto Vogt Gabauer, ascendente a la cantidad de $247.243.
+
+- Fiscal del Ministerio de Obras Públicas.
