@@ -1,0 +1,7 @@
+Ejecucion de San Bruno i Villalobos
+
+El Director Supremo del Estado i Jeneral interino del Ejército de los Andes Brigadier don Bernardo O'Higgins.
+
+Ciudadanos de Chile: los aleves San Bruno i Villalobos son extraidos por sus crímenes de la clase de prisioneros de guerra. El vil asesino, el ofensor de la disidencia pública, el ultrajante de los mas altos derechos, del honor nacional, i del privado decoro de los hombres: el que jamas ha respetado los fueros de la naturaleza, de la humanidad de las instituciones sociales, es un monstruo de quien se desdeña la misma Potencia a quien pertenezca i la tierra se avergüence de estar bajo sus pies. La nuestra fué manchada por la mano infame de sus verdugos, i cada uno de vosotros se horroriza en la memoria aflijente de sus excesos. Nos gloriamos de venerar el derecho de las jentes: i a este deber acompaña siempre en los americanos una jenerosidad que sobre abunda a las obligaciones. Pueblos, estéis vengados. Tirarnos, no os lisonjeis de que este acto imprescindible de Justicia no se parezca a vuestras crueldades inimitables. La represalia será observada por nosotros en la pena, pero nunca los delitos: el mundo entero admira en la conducta de estos pueblos nacientes aquella moderacion que desconocieron todas las revoluciones. La virtud señala a los verdaderos hijos de la patria. Publíquese en Bando en seguida de la ejecucion.
+
+Pronunciado en Santiago a 12 de abril de 1817.-Bernardo O'Higgins.
