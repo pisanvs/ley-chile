@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 22, de fecha 20 de marzo de 2001, se aprobó la reforma integral al estatuto de la Cooperativa de Servicio Médico y de Veraneo, Sermecoop Ltda., en adelante Cooperativa de Servicios Médicos Sermecoop Ltda., de sigla Sermecoop Ltda., en los términos que da testimonio la escritura pública suscrita con fecha 5 de enero de 2001, ante la Notario de Santiago doña Elba Sanhueza Muñoz.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
