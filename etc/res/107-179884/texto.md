@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 107, del 26 de octubre del año 2000, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo Hortaliceras de Puerto Elvira, de nombre de fantasía La Unidad, del sector de Puerto Elvira, comuna de Ancud; en los términos que da testimonio el acta constitutiva protocolizada con fecha 17 de julio del 2000, bajo el Nº 812, al final de los registros del Notario de Ancud, doña Martita Wörner Tapia.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
