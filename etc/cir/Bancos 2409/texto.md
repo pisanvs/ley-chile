@@ -4046,7 +4046,7 @@ La instrucción precedente implica que las disponibilidades que los bancos tenga
 
 El encaje, para cada una de las monedas extranjeras, deberá estar constituido por billetes y monedas del respectivo país, que estén disponibles en caja en el respectivo banco, en tránsito entre sus oficinas o en tránsito al Banco Central de Chile. Se excluyen, para efectos de este cómputo, los billetes y monedas en custodia en empresas transportadoras de valores o en otras instituciones financieras.
 
-Asimismo, servirán para constituir el encaje los demás depósitos a la vista en monedas extranjeras o expresados en dichas monedas, mantenidos en el Banco Central de Chile, incluidos los saldos de las cuentas "Depósitos en el Banco Central expresados en dólares" y "Depósitos "Overnight" en el Banco Central de Chile". Con todo, para estos efectos deberá exceptuarse el saldo registrado en "Cuentas Acuerdo 1657-11-850627", el que no será computable como encaje mantenido.
+Asimismo, servirán para constituir el encaje los demás depósitos a la vista en monedas extranjeras o expresados en dichas monedas, mantenidos en el Banco Central de Chile, incluidos los saldos de las cuentas "Depósitos en el Banco Central expresados en dólares" y "Depósitos "Overnight" en el Banco Central de Chile". Con todo, para estos efectos deberán exceptuarse los saldos registrados en las cuentas "Cuentas Acuerdo N° 1657-11-850627" y "Cuenta especial encaje Acuerdo N° 143-01-910705".
 
 De conformidad con lo señalado en el N° 4 del titulo I de este Capítulo, el encaje exigido en monedas extranjeras también puede enterarse con excedentes de encaje mantenido en moneda chilena.
 
@@ -4070,9 +4070,7 @@ Por otra parte, las instituciones financieras, a partir del 17 de junio de 1991,
 
 2.2. Encaje mantenido.
 
-El importe de moneda extranjera que las instituciones financieras mantengan en caja y que apliquen al cumplimiento del encaje de que trata este Título, será registrado además, en la cuenta "Caja aplicada a encaje de obligaciones con el exterior" con abono a "Responsabilidad por encaje de obligaciones con el exterior", de la partida 9166 "Recursos aplicados a encaje de obligaciones con el exterior" y 9900, respectivamente.
-
-Por otra parte, la moneda extranjera que mantengan depositada en su cuenta corriente con el Banco Central de Chile, que apliquen al cumplimiento de este encaje, será registrada, además, en la cuenta "Depósitos en cuenta corriente Banco Central aplicados a encaje de obligaciones con el exterior" con abono a "Responsabilidad por encaje de obligaciones con el exterior", de la partida 9166 y 9900, respectivamente.
+El importe en moneda extranjera que las instituciones financieras mantengan depositado en su cuenta especial con el Banco Central de Chile para cumplir con el encaje de que trata este título, será registrado en la "Cuenta especial encaje Acuerdo N° 143-01-910705", de la partida 1010.
 
 ### 3. Cuentas de obligaciones afectas a encaje
 
@@ -4104,13 +4102,9 @@ N° 3570 "Otros préstamos y obligaciones".
 
 El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo y su cumplimiento se hará en relación con el promedio de las obligaciones antes mencionadas en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando solamente los días hábiles bancarios del período.
 
-En consecuencia, no se puede establecer encaje conjunto y las disponibilidades que las instituciones financieras tengan en una determinada moneda extranjera, les servirán como encaje mantenido sólo para las obligaciones en esa misma moneda.
-
 4.2. Encaje mantenido.
 
-El encaje, para cada una de las monedas extranjeras, deberá estar constituido por billetes y monedas del respectivo país, que estén disponibles en caja en la respectiva institución financiera o depositados en cuenta corriente en el Banco Central de Chile.
-
-Los fondos en moneda extranjera que sean utilizados para constituir el encaje de que trata este título, no podrán ser empleados para cumplir con otras obligaciones de encaje ni de reserva técnica.
+El encaje por las obligaciones antes mencionadas deberá estar constituido por las monedas extranjeras del respectivo país o por dólares de los Estados Unidos de América, depositados en el Banco Central de Chile para tal efecto en la "Cuenta especial encaje Acuerdo N° 143-01-910705.
 
 V.- Información a esta Superintendencia.
 
