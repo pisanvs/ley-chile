@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 993 de 09.06.88, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos y Sectores Expropiados Predios "Parte de San Nicolás y San Antonio" y "Fundo El Carmen o Boyen" de la comuna de Pinto, Octava Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 6 y sitios N°s 1 al 11 y 13 del Proyecto de Parcelación "El Ciprés" formado por predios señalados a Los Derechos de Agua se extraen de los canales San Nicolás y El Carmen, ambos derivados del río Chillán y Derrames y Vertientes conducidos por el estero San Nicolás. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director. Ejecutivo.
