@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.439, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 38 y 39, superficies 10.000 y 27.000 m², rol de avalúo 250-3, comuna de Salamanca, para la obra Embalse Corrales y sus Obras Complementarias, Zona de Inundación y se acordó precio de indemnización con sus propietarios Hugo de Mercedes Suárez Toro y Bernabé del Carmen Vivar Tapia, ascendente a la cantidad de $1.030.400, el lote Nº38 y $10.464.227, el lote Nº39.-
+
+Fiscal del Ministerio de Obras Públicas.
