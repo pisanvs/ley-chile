@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA NOTIFICACION
+
+Resolución 361, 4 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Paicaví Nº796, Rol de Avalúo Nº343-29, comuna Concepción, superficie 36 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-18422, de aparente dominio de I. Municipalidad de Concepción, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y D.L. Nº2.186. Comisión Peritos integrada por Guillermo Orlando Villafañe Feres, arquitecto; Orlando Paredes Vásquez, ingeniero civil, y Omar Andrés Aspe Neira, constructor civil, según informe de fecha 10 de noviembre de 2003, fijó monto provisional indemnización en $9.174.060, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
