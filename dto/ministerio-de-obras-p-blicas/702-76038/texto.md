@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 702, de 30 de julio de 1997, se expropió el lote de terreno Nº 4, superficie 840 M2., rol de avalúo 39-1, comuna de Buin, para la obra Mejoramiento Ruta 5, Sector Pasada por Buin, Camino Ruta 5 Sur Rol R-5 y se acordó precio de indemnización con su propietario Sociedad Inmobiliaria San Bernardo S.A., ascendente a la cantidad de $25.905.600.
+
+Fiscal del Ministerio de Obras Públicas.
