@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.591, de 29 de septiembre del 2000, se expropió el lote de terreno Nº3, superficie 2.070,0 M2., rol de avalúo 359-12, comuna de Constitución, para la obra Camino M-24-K Quivolgo - Puente Lautaro, Sector B, La Trinchera - Putu (Variante Costera) Km. 13,240 a Km 30,000 y se acordó precio de la indemnización con su propietaria María Barros Silva, ascendente a la cantidad de $1.916.792.-
+
+Fiscal del Ministerio de Obras Públicas.
