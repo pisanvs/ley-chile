@@ -37012,6 +37012,46 @@ acuerdo con el formato contenido en el Anexo N° 1 del Capítulo VI del Compendi
 
 de Normas de Exportación.
 
+CAPITULO 14-7 (Bancos)
+
+MATERIA:
+
+PAGO DE CREDITOS FINANCIEROS O DE PROVEEDORES DEL EXTERIOR CON RETORNOS DE EXPORTACION.
+
+### 1. Normas Generales
+
+De conformidad con las normas contenidas en el Capítulo XXXIV del Compendio de Normas de Cambios Internacionales, los exportadores podrán pagar las obligaciones a más de un año plazo que tuvieren registradas en el Banco Central de Chile y que se originen en créditos obtenidos de instituciones financieras del exterior o de proveedores extranjeros, que hayan tenido por objeto financiar proyectos de inversión, por montos no inferiores a US$ 15.000.000 o su equivalente en otras monedas extranjeras, realizados en el país con la finalidad de producir mercaderías para la exportación.
+
+### 2. Personas que pueden operar
+
+Pueden realizar las operaciones señaladas en el N° 1 precedente, las personas naturales o jurídicas, chilenas o extranjeras, que exporten mercaderías producidas en el país, originadas en un proyecto de inversión desarrollado para tal efecto.
+
+### 3. Solicitud de celebración de contrato
+
+Las personas que deseen acogerse a esta modalidad de operación, deberán solicitar al Banco Central de Chile la celebración de un contrato en el que se contemple la aplicación de las normas del Capítulo XXXIV antes citado, a las obligaciones de retorno y liquidación del producto de las exportaciones que realicen. Para tal efecto, el solicitante deberá acompañar el respectivo proyecto de inversión y los demás antecedentes que requiera el Instituto Emisor.
+
+En caso de ser aprobada la solicitud, el Banco Central de Chile suscribirá el mencionado contrato con el solicitante, el que no podrá tener un plazo de vigencia superior a diez años, prorrogable por otro período semejante.
+
+### 4. Apertura de cuenta especial
+
+Las personas que hayan suscrito con el Banco Central de Chile el contrato de que trata el N° 3 precedente, deberán abrir una cuenta especial en moneda extranjera en un banco situado en el país o en el exterior, debiendo contar, en este último caso, con la aprobación previa del Instituto Emisor.
+
+En la mencionada cuenta podrán depositar una parte del producto de las respectivas exportaciones, cuyo monto se determinará sobre la base de una proporción que establecerá el Banco Central de Chile en el contrato suscrito con el solicitante.
+
+Los fondos depositados en la referida cuenta, deberán ser girados en su totalidad para pagar con ellos la cuota de la respectiva deuda con el acreedor del exterior registrada en el Banco Central de Chile.
+
+Los importes utilizados en esta finalidad, dentro de los plazos que corresponda, quedarán liberados de la obligación de retorno y liquidación, para cuyo efecto los exportadores deberán acreditar su uso ante el Banco Central de Chile.
+
+Los titulares de la cuenta especial de que se trata, deberán informar al Banco Central de Chile, en la forma que éste determine y dentro de los cinco primeros días de cada mes, los movimientos registrados en ella en el mes calendario inmediatamente anterior.
+
+Asimismo, los titulares deberán otorgar un mandato irrevocable o extender un documento similar en el cual se den instrucciones de carácter irrevocable al banco en el que mantengan la referida cuenta especial, para que informe al Banco Central de Chile con la frecuencia que él determine, los montos depositados y los movimientos registrados en la mencionada cuenta.
+
+En caso que el exportador mantenga obligaciones registradas en el Banco Central de Chile a favor de varios acreedores, que reúnan los requisitos antes señalados, podrá abrir, previa comunicación al Instituto Emisor, tantas cuentas especiales o subcuentas de ella, como sea el número de acreedores registrados.
+
+### 5. Instrucciones contables
+
+Las cuentas especiales de que trata el presente Capítulo, se incluirán en la cuenta "Cuentas especiales de retornos Capítulo XXXIV Normas de Cambios", la cual se incorporará en la partida 3010 del MB1.
+
 CAPITULO 15-1 (Bancos)
 
 MATERIA:
@@ -39156,7 +39196,7 @@ Las divisas provenientes de coberturas que se efectúen antes de cumplirse el pl
 
 que haya efectuado la venta de divisas o endosado la planilla con los datos necesarios para efectuar la cobertura, según corresponda. En el caso de operaciones cuyo pago se hubiere convenido para una fecha posterior a aquélla en que se cumplan los citados 120 días, dicho depósito deberá mantenerse por lo menos hasta cinco días antes de la fecha de vencimiento pactada.
 
-No obstante lo señalado en el párrafo precedente, cuando se trate de la cobertura de embarques de mercaderías pagaderas a plazo, que consten en una sola factura y en un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, el referido depósito deberá mantenerse en el Banco Central de Chile hasta el vencimiento pactado.
+No obstante lo señalado en el párrafo precedente, cuando se trate de la cobertura de embarques de mercaderías pagaderas a plazo, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, el referido depósito deberá mantenerse en el Banco Central de Chile hasta el vencimiento pactado.
 
 Las colocaciones originadas en cartas de crédito financiadas por el propio banco o con moneda extranjera vendida condicionalmente, serán canceladas al momento de efectuarse la cobertura.
 
@@ -39208,11 +39248,11 @@ Internacionales de la fecha correspondiente.
 
 Las instituciones bancarias están facultadas para cobrar intereses en moneda extranjera sobre las cartas de crédito a la vista, que hubieren financiado, por el período comprendido entre la fecha de negociación y la de vencimiento del plazo de 120 días contados desde la fecha de embarque, hasta más dos días adicionales. En los casos en que la cobertura se realice después de los
 
-referidos 120 días o cuando se trate de embarques que consten en una sola factura y en un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, podrán cobrar intereses hasta la fecha de cobertura más dos días, cuando fuere procedente.
+referidos 120 días o cuando se trate de embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, podrán cobrar intereses hasta la fecha de cobertura más dos días, cuando fuere procedente.
 
 La tasa de interés que se cobre por estos financiamientos no podrá exceder de la que autorice para estas operaciones el Banco Central de Chile.
 
-Cuando se trate de acreditivos abiertos con una "Venta condicional de moneda extranjera", esto es, que el importador depositó el equivalente en moneda nacional, esos intereses podrán cobrarse, conforme a las normas vigentes, desde la fecha de cobertura o sea desde el instante en que la moneda chilena depositada por el importador es efectivamente utilizada en la compra de divisas,hasta el vencimiento de los 120 días desde la fecha de embarque, más dos días adicionales, si fuera necesario. En el caso de los embarques documentados en una sola factura y en un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, no podrán cobrar intereses.
+Cuando se trate de acreditivos abiertos con una "Venta condicional de moneda extranjera", esto es, que el importador depositó el equivalente en moneda nacional, esos intereses podrán cobrarse, conforme a las normas vigentes, desde la fecha de cobertura o sea desde el instante en que la moneda chilena depositada por el importador es efectivamente utilizada en la compra de divisas,hasta el vencimiento de los 120 días desde la fecha de embarque, más dos días adicionales, si fuera necesario. En el caso de los embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, no podrán cobrar intereses.
 
 6.2.- Sobre cartas de crédito a plazo.
 
@@ -39220,7 +39260,7 @@ En las coberturas correspondientes a cartas de crédito pagaderas a plazo, podr�
 
 vencimiento de la carta de crédito, los bancos podrán agregar intereses por el período comprendido entre esta última fecha y la fecha de cobertura hasta más dos días adicionales, cuando corresponda.
 
-No obstante lo señalado en el párrafo precedente, cuando se trate de embarques documentados mediante una sola factura y un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, los bancos sólo podrán cobrar intereses, además de los del proveedor, por el período comprendido entre la fecha de vencimiento de la carta de crédito y la fecha de la cobertura, hasta más dos días adicionales, cuando proceda.
+No obstante lo señalado en el párrafo precedente, cuando se trate de embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, los bancos sólo podrán cobrar intereses, además de los del proveedor, por el período comprendido entre la fecha de vencimiento de la carta de crédito y la fecha de la cobertura, hasta más dos días adicionales, cuando proceda.
 
 La tasa de interés que se pacte con el proveedor no podrá ser superior a la autorizada por el Banco Central de Chile, para estos efectos.
 
@@ -39230,17 +39270,15 @@ Los intereses que cobren los bancos por el período en que hubieran financiado l
 
 En las coberturas de importaciones en cobranza, podrán adicionarse intereses a favor del proveedor o cedente extranjero, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la cobertura de la cobranza, hasta más dos días adicionales. En todo caso, si la cobertura se efectuare antes de los 120 días de la fecha de embarque o del vencimiento pactado, los intereses podrán cubrirse hasta la fecha en que se cumpla el mayor de dichos plazos, pudiendo adicionarlo en hasta dos días, encaso necesario.
 
-No obstante lo señalado en el párrafo precedente, cuando se trate de embarques correspondientes a una sola factura y a un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, los bancos podrán adicionar intereses del proveedor o del cedente, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la fecha de la cobertura o del vencimiento pactado, según cual sea posterior, hasta más dos días adicionales, en caso necesario.
+No obstante lo señalado en el párrafo precedente, cuando se trate de embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, los bancos podrán adicionar intereses del proveedor o del cedente, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la fecha de la cobertura o del vencimiento pactado, según cual sea posterior, hasta más dos días adicionales, en caso necesario.
 
 La tasa de interés no podrá ser superior a la autorizada por el Banco Central de Chile, para estos efectos.
 
 7.- Remesa o rembolso del importe de las coberturas.
 
-La remesa de las divisas al exterior para el pago de la respectiva importación o su rembolso a la institución bancaria, cuando se trate de importaciones efectuadas con financiamiento bancario, no podrá realizarse antes de cumplido el plazo de 120 días contado desde la fecha de embarque, salvo cuando se trate de embarques de mercaderías que consten en una sola factura y en un solo
+La remesa de las divisas al exterior para el pago de la respectiva importación o su rembolso a la institución bancaria, cuando se trate de importaciones efectuadas con financiamiento bancario, no podrá realizarse antes de cumplido el plazo de 120 días contado desde la fecha de embarque, salvo cuando se trate de embarques de mercaderías amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, caso en el cual la remesa o rembolso se hará en la oportunidad que corresponda, de acuerdo con las condiciones de pago que se hubieren pactado.
 
-conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, caso en el cual la remesa o rembolso se hará en la oportunidad que corresponda, de acuerdo con las condiciones de pago que se hubieren pactado.
-
-En los casos en que el importe de la cobertura haya sido depositado en el Banco Central de Chile, éste será devuelto en la fecha en que se cumplan los 120 días desde la fecha de embarque o en la fecha de vencimiento de la obligación, si ella fuere posterior. En todo caso, cuando se trate de embarques correspondientes a una sola factura y a un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, el referido depósito podrá ser girado cuando corresponda hacer el pago de la importación. La devolución de dicho depósito, se efectuará mediante abono en la cuenta corriente del respectivo banco, sin que sea necesaria solicitud alguna para tal efecto.
+En los casos en que el importe de la cobertura haya sido depositado en el Banco Central de Chile, éste será devuelto en la fecha en que se cumplan los 120 días desde la fecha de embarque o en la fecha de vencimiento de la obligación, si ella fuere posterior. En todo caso, cuando se trate de embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, el referido depósito podrá ser girado cuando corresponda hacer el pago de la importación. La devolución de dicho depósito, se efectuará mediante abono en la cuenta corriente del respectivo banco, sin que sea necesaria solicitud alguna para tal efecto.
 
 Cuando el importe de la cobertura deba ser enviado al extranjero o entregado a otro banco situado en el país, su remesa deberá efectuarse a más tardar el día siguiente hábil bancario después de la fecha en que se realizó la venta de las divisas o de la recuperación del depósito constituido en el Banco Central de Chile, según corresponda.
 
