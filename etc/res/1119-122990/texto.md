@@ -1,0 +1,3 @@
+Por resolución Nº 1.119, de 5 de agosto de 1998, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura Nº 95104063, presentada por JOSE DIONISIO LEMUS SOTO, para operar un centro de cultivo ubicado en Sector Aguantao, Desembocadura Ensenada, Codihue, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 5 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
