@@ -1,0 +1,3 @@
+Por Resolución N° 886, de 15 de Mayo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESCA MARINA LTDA., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Regimiento Coquimbo N° 210, Coquimbo, en las líneas de elaboración de Congelado, Fresco-refrigerado, Conserva, Semiconserva, Deshidratado, Salado, Seco-salado y Ahumado, el recurso hidrobiológico Reineta Brama australis.
+
+Valparaíso, 15 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
