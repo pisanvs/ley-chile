@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.419 de fecha 28 de septiembre del 2001, se expropió el lote de terreno Nº 26, superficie 109 m², Rol de Avalúo 499-168, comuna de Retiro, VII Región, para la obra ''Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 al 23,400.00'' y se acordó el valor de indemnización con su propietario don Julio Antonio Pradena Ponce, ascendente a la cantidad de $285.295.
+
+- Fiscal del Ministerio de Obras Públicas.
