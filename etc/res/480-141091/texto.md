@@ -1,0 +1,15 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por Resolución No. 480, de 13 de Mayo de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía Fomento y Reconstrucción, declárase la caducidad a lo dispuesto en el artículo 6° del Decreto Supremo No. 175, de 1989, del Ministerio de Economía, Fomento y Reconstrucción, de las siguientes autorizaciones:
+
+-Resolución No. 883, de 07 de Agosto de 1987, de esta Subsecretaría, que autorizó a don Juvenal Otoniel Salas Vera, RUT No. 4.623.616-5, domiciliado en calle Lord Cochrane s/n, Puerto Aysén, para desarrollar actividades pesqueras de cultivo. -Resolución No. 884, de 07 de Agosto de 1987, de esta Subsecretaría, que autorizó a Consorcio Pesquero Inpex S.A., domiciliada en Santiago, para desarrollar actividades pesqueras de transformación.- Resolución No. 896, de 10 de Agosto de 1987, de esta Subsecretaría, que autorizó a don Benjamín Tomás Wells Zambra, RUT No. 6.484.4172, domiciliado en Tongoy, calle Tamaya No. 28, para desarrollar actividades pesqueras de cultivo. -Resolución No. 900, de 17 de Agosto de 1987, de esta Subsecretaría, que autorizó a don León Luis Cosmelli Pereira, RUT No.
+
+5.711.476-2, domiciliado en camino Del Bosque s/n, sector INACAP Coyhaique, XI Región, para desarrollar actividades pesqueras de cultivo. -Resolución No. 928 de 18 de Agosto de 1987, de esta Subsecretaría, que autorizó a don Diego Alejandro González Alonso, cédula de identidad No. 8.018.845-5, domiciliado en calle La Portada No. 14, Peña Blanca, Villa Alemana, para desarrollar actividades pesqueras de cultivo.
+
+-Resolución No. 940, de 19 de Agosto de 1987, de esta Subsecretaría, que autorizó a doña Lita Villarroel Gutiérrez, cédula de identidad No. 4.967.975-0, domiciliada en Avda. El Dique No. 1592, Constitución, para desarrollar actividades pesqueras de extracción.
+
+-Resolución No. 1031, de 04 de Septiembre de 1987, de esta Subsecretaría, que autorizó a Sociedad "Patricio Sanhueza Zúñiga y María de los Angeles Ortiz Ortiz Limitada", domiciliada en Ancud, para desarrollar actividades pesqueras de transformación. -Resolución No.
+
+1.033, de 04 de Septiembre de 1987, de esta Subsecretaría, que autorizó a Empresa Pesquera Alerce S.A., domiciliada en Puerto Montt, para ampliar actividades pesqueras de cultivo y deniega autorización solicitada.- Resolución No. 1094, de 15 de Septiembre de 1987, de esta Subsecretaría, que autorizó a Pesquera Pacific Food Products Limitada, domiciliada en Santiago, para desarrollar actividades pesqueras de transformación.- Resolución No. 1.159, de 29 de Septiembre de 1987, de esta Subsecretaría, que autorizó a Dal Mare Alimentos Congelados S.A., domiciliada en Arica, para ampliar actividades pesqueras de transformación
+
+Valparaíso, 13 de Mayo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
