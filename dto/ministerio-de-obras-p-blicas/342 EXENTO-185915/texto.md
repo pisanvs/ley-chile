@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 342, de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs. 25 y 27, superficies 185,61 M2 y 833,57 M2, rol de avalúo 1252-130, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128-Cuatro Esquinas, Km. 0,000 al 15,800" y se acordó el valor de indemnización con su propietario José David Orellana Recabal, ascendente a la cantidad de $1.942.323.-
+
+Fiscal del Ministerio de Obras Públicas.
