@@ -1,0 +1,3 @@
+Por Resolución N° 374, de 14 de Abril de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 636, de 1990, de esta Subsecretaría, que autorizó a don FRANCISCO JOSE MUÑOZ BUNSTER, R.U.T. N° 6.971.095-6, para iniciar actividades pesqueras, en orden a operar un vivero ubicado en Caleta Barco al Sur de Caleta Quintay, Comuna de Casablanca, Provincia de Valparaíso, V Región, por haberse caducado la concesión marítima de acuicultura y en virtud de lo dispuesto en el artículo 7° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 14 de Abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
