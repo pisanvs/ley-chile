@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 326, de 29 de diciembre de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 11, para la obra Camino Ruta U-55-V, sector Osorno-Puerto Octay, Kms. 48,600 al 48,900, que figura a nombre de Teuber Hitschfeld Juan, rol de avalúo 153-35, superficie 1.418 m², comuna de Puerto Octay. La Comisión de Peritos, con fecha 10 de agosto de 1999, fijó la indemnización provisional en la cantidad de $752.200, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
