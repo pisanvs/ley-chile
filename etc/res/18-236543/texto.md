@@ -18,6 +18,8 @@ b) Ordenar el pago de asistencia médica a los funcionarios que sufran accidente
 
 c) Suscribir contratos o convenios con otras entidades, sean éstas públicas o privadas.
 
+d).- Adquirir bienes muebles, equipos y servicios, hasta 30 U.T.M. cada vez.
+
 III.- En el Jefe del Subdepartamento de Personal:
 
 a) Conceder al personal permisos fraccionados o continuos, cuando circunstancias especiales lo justifiquen, hasta por seis días hábiles en cada año calendario, con goce de remuneraciones (Artículo 91 D.F.L. Nº 338, de 1960). Esta facultad la ejercerá siempre que procediere con la aprobación previa del Jefe directo del peticionario;
