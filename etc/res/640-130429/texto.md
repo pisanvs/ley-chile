@@ -1,0 +1,7 @@
+AUTORIZA A SOCIEDAD PESQUERA BIO BIO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 640, de 27 de Junio de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Bío Bío Limitada, domiciliada en Talcahuano, para sustituir en el litoral de la VIII Región, en la extracción de los recursos Agujilla, Anchoveta, Caballa, Jurel, Sardina española y Sardina común, las embarcaciones Oceanic II, Bío Mar I y Bío Mar II, autorizadas por la Resolución No. 141, de 1983, de esta Subsecretaría, por dos embarcaciones en construcción. Sin perjuicio de lo señalado, la peticionaria podrá operar, además, con las embarcaciones en construcción, en el litoral de las Regiones IV a X, en la extracción de los recursos antes indicados y de Atún, Bonito y Cojinoba. A partir de la fecha de sustitución de las embarcaciones Oceanic II, Bío Mar I y Bío Mar II, se entenderá modificada la Resolución No. 141, antes citada, en el sentido que quedará sin efecto la autorización allí conferida para operar las naves indicadas en el litoral de la VIII Región, para la extracción de los recursos Agujilla, Anchoveta, Caballa, Jurel, Sardina española y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 27 de Junio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
