@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 401, 22 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Pedro de Valdivia Nº 118, Rol de avalúo Nº 1112-002, comuna Concepción, superficie 39,374 m2 de terreno, dentro polígono y linderos señalados plano expropiación S8R-1112-002; de aparente dominio de Liliana Aburto Escudero, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por Boris Aptecar González, arquitecto, Gabriel Ignacio Fernández de la Maza, ingeniero civil, y Sergio Labarca Garrido, constructor civil, según informe de fecha 20 de octubre de 2003, fijó monto provisional indemnización en $3.681.469.-, pagadera de contado.
+
+Director Serviu, Región del Bío Bío.
