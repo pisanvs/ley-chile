@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 618 de 27 de abril de 2004, se expropió el lote de terreno Nº 69-B, superficie 67,8 m², rol de Avalúo Nº 41-215, comuna de Colbún, para la obra "Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo: Km. 15,48000", VII Región y se acordó el valor de la indemnización con su propietario Julio del Carmen Contreras Flores, ascendente a la cantidad de $1.016.317.
+
+- Fiscal del Ministerio de Obras Públicas.
