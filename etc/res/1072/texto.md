@@ -1,0 +1,3 @@
+Por Resolución N° 1.072, de 13 de Noviembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 853, de 1988, de esta Subsecretaría, que autorizó a Sociedad Pesquera "Abtao Limitada", R.U.T. N° 79.769.070-8, domiciliada en localidad de Abtao, Comuna de Calbuco, para iniciar actividades de cultivo del recurso alga, Gracilaria spp., en el sector denominado Challahue, Ensenada Codihué, Comuna de Calbuco, Provincia de Llanquihue, X Región, en una superficie de 90.000 M2, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 13 de Noviembre de 1992.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
