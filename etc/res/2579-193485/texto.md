@@ -1,0 +1,7 @@
+Por resolución Nº 2.579, de 28 de diciembre de 2001, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.801 de 2001, de esta Subsecretaría, que autorizó a la Universidad Católica de Valparaíso, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Factibilidad técnica de desarrollar una pesquería de arrastre de media agua de merluza de cola entre la VII y X regiones. Primera etapa: Pesca Experimental", en el sentido de señalar que la mencionada pesca de investigación se extenderá hasta el 28 de febrero de 2002.
+
+Las capturas de merluza de cola que se realicen entre el 1º de enero y el 28 de febrero de 2002, ambas fechas inclusive, se imputarán a los límites máximos de captura de esta especie autorizados a los armadores participantes en la presente pesca de investigación, mediante decreto exento Nº 929 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La extracción de especies en calidad de fauna acompañante durante el período antes señalado se regirá por lo dispuesto en el numeral 5º, incisos 2º y 3º de la resolución Nº 1.801 de 2001. Tratándose de especies sometidas a límite máximo de captura, la imputación se efectuará a las cuotas autorizadas para ser extraídas en calidad de fauna acompañante en la captura dirigida a merluza de cola, vigente para el año 2002.
+
+Valparaíso, 28 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
