@@ -1,0 +1,3 @@
+Por resolución Nº 288 de 21 de febrero de 2001 de esta Subsecretaría, autorízase a PACIFIC FISHERIES S.A., para continuar desarrollando actividades pesqueras con la nave ''Libas'', autorizadas por las resoluciones Nº 893 de 1991, Nº 1.363 de 1992, Nº 83 de 1994, Nº 605 de 1995, Nº 486, Nº 1.943 y Nº 1.944, todas de 1999, Nº 929 y Nº 2.547, ambas de 2000, todas de esta Subsecretaría, en virtud de la escritura pública y disposiciones legales.
+
+Valparaíso, 21 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
