@@ -1,0 +1,9 @@
+Adquisicion de armas
+
+(Oficio del Congreso a la Junta de Gobierno)
+
+Entre los arbitrios que sujiere la necesidad de acopiar armas, cuyo defecto inutiliza muchas manos que con ellas servirían a la defensa del Reino, se presenta uno fácil i poco costoso que V.E. puede prontamente poner en ejecución. En las casas i aun en los campos se encuentran muchas espadas i sables, cuyos dueños hacen mal uso de ellas o las tienen abandonadas: igualmente hai escopetas i postolas que por falta de aficion o la dificultad de componerlas, están tiradas i miradas con desprecio. Aunque el número de unas i otras armas no puede fácilmente computarse; pero debe crearse de alguna consideracin i que reparadas podrian servir mui bien para los cuerpos lijeros o para los oficiales, cobos i sarjentos de milicias o para los fines que V.E. tenga a bien destinarlas. Su adquisicion podria hacerse fácilmente, publicando que todos los poseedores de estas especies pueden voluntariamente ocurrir a venderlas al lugar i sujeto que se designe, donde reconocidas por un intelijente i segun su clase i estado, se pagarán de pronto.
+
+Con esta ocasion podria practicarse una dilijencia no ménos útil que ya se ha hecho aqui en circunstancias apuradas, tal es, comisionar una persona de confianza i respeto que tome una razon prolija de todas las armas que existan en poder de particulares para que el Gobierno pueda hacer uso de esta noticia, si las circunstancias precisan a ello.
+
+Dios guarde a V.E. muchos años.- Sala del Congreso i Octubre 9 de 1811.- Joaquin Larraín, presidente.- Manuel Antonio Recabárren, vice-presidente.- Manuel de Salas, diputado secretario.- Excmo. Señor Presidente i vocales de la Junta de Gobierno.
