@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 145 de fecha 13 de Febrero de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, de la Región Metropolitana se modifica el recorrido de la Variante No. 38H "Población Eneas Gonel - Gran Avenida Paradero 3 - Población José María Caro", de la Línea de Buses No. 38 "Matadero Palma", autorizado por resoluciones N°s. 1468/76 y 1043/78, quedando su nuevo trazado como sigue: Ida: Desde su terminal en Avda. Los Zapadores, frente al No. 1401, continúa por Avda. Los Zapadores - Avda. J.M. Caro - General Gambino - Urmeneta - Araguaya - Avda. Dorsal - Avda. Independencia Puente Independencia - Balmaceda - Teatinos - Nataniel - Bío - Bío - San Diego - Gran Avda. José Miguel Carrera - Mil n Barcelona - Isabel Riquelme Juan de Bastidas - Avda. Carlos Valdovinos - Avda. Cerrillos Avda. Central -
+
+Buenaventura Avda. Central - Fern ndez Albano - Pío XII - Límite Urbano - - Avda. Cerrillos - Pío XII - hasta 18 de Septiembre (Américo Vespucio), su terminal. Regreso: Desde su terminal en Pío XII con 18 de Septiembre (Américo Vespucio), continúa por Pío XII - Fern ndez Albano - Avda. Central - Buenaventura - Avda. Central Avda. Cerrillos - Avda. Carlos Valdovinos - Ríos Talaveras - Isabel Riquelme - Mil n - Euclides Or n -
+
+Av. Carlos Valdovinos Gran Avda. José Miguel Carrera - San Diego - Bandera Puente Independencia - Avda. Independencia - Avda. Dorsal Araguaya - Urmeneta - General Gambino - Avda. Los Zapadores, hasta frente al No. 1401, su terminal.
+
+Santiago, 18.02.86.- Ramiro Camero Weir, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana, subrogante.
