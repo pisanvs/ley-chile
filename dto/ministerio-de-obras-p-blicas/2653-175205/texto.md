@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.653, de 30 de junio de 2000, se expropió el lote de terreno Nº11, superficie 540 m2, rol de avalúo 18-50, comuna de San Gregorio Ñiquén, para la obra Concesión Internacional Ruta 5 Tramo: Talca - Chillán, Octava Región y se acordó el valor de indemnización con su propietaria Wilfrida del Carmen Parada Caro, ascendente a la cantidad de $7.311.969.
+
+Fiscal del Ministerio de Obras Públicas.
