@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 637, de 30 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 62 y 78 para la obra: Camino Ruta S-10, Sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 a Km.
+
+34,50853, Etapa Km. 0,000 al Km. 18,000, que figuran a nombre de Muñoz Pérez Juan de Dios y Venegas Salvo Guillermo, Roles de Avalúo S/R y 679-162, comuna de Lautaro, IX Región, superficies 1.014 m² y 395 m². La Comisión de Peritos fijó, con fecha 2 de octubre de 2002, el monto de la indemnización provisional en la cantidad de $647.310 lote 62 y $387.150 para el lote 78. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
