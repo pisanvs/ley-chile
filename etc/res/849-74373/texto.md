@@ -1,0 +1,9 @@
+Por Resolución Nº 849, de 20 de junio de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SAN JOSE S.A., para sustituir las naves "Cocha" e "Isla Orcas", autorizadas para operar por Resoluciones Nº 1.287 y Nº 1.288 de 1996, de esta Subsecretaría, por una nave en construcción, en el litoral de la III y IV Regiones, por fuera del área de reserva artesanal, donde podrá capturar con red de cerco los recursos hidrobiológicos Anchoveta y Sardina española.
+
+Asimismo, la interesada podrá capturar en la misma área y con el mismo arte de pesca señalado anteriormente, los siguientes recursos hidrobiológicos: Agujilla, Bacaladillo o mote, Bonito, Caballa, Cabinza, Cachurreta, Cojinoba del norte, Dorado, Jurel, Machuelo o tritre, Palometa, Sardina común y Sierra.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Desde el momento en que, en cumplimiento a lo dispuesto en la parte final del inciso tercero del numeral 1º de esta Resolución, la nave sustituta se inscriba en el Registro Nacional Pesquero Industrial, quedarán sin efecto las Resoluciones Nº 1.287 y Nº 1.288 de 1996, de esta Subsecretaría, que autorizaron la operación de las naves "Cocha" e "Isla Orcas", respectivamente, en virtud de la sustitución a que se refiere la presente Resolución. En consecuencia, las naves antes indicadas podrán seguir operando hasta el momento en que se cumpla lo dispuesto en los incisos 2º y 3º del numeral 1º, lo cual en ningún caso podrá exceder del plazo establecido en el numeral 5º de la presente Resolución.
+
+Valparaíso, 20 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
