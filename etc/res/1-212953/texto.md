@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por resolución Nº 2003/001 el Presidente y Gran Canciller de la Universidad Católica Cardenal Raúl Silva Henríquez estableció que las modificaciones a los Estatutos Generales, aprobadas en Asambleas Extraordinarias de Socios del 11 de diciembre de 2002 y 2 de mayo de 2003 y cursadas por el Ministerio de Educación, según oficios números 06/1687 y 06/2094 de 2003, rigen a contar del 1º de agosto de 2003, de acuerdo a la documentación que he tenido a la vista. Doy fe.
