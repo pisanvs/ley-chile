@@ -1,0 +1,3 @@
+Sergio Agrícola y Ganadero mediante resolución exenta N° 50 de 17 de Enero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las parcelas N°s. 1 a la 19, sitios N°s. 1 al 25 y Reservas CORA N°s 1 y 2 del Proyecto de Parcelación "El Sol de Rarineo y Porvenir" formado por los predios "Hijuela de 425 h s. que formó parte integrante del Fundo El Porvenir" e "Hijuela Sur del Fundo Santa Zaira antes Santa Fe del Río" de la comuna de Los Angeles, VIII Región. Los derechos de agua se extraen del Canal del Laja. Publicación hecha conforme Art. 13, Ley N° 18.377.-
+
+Director Ejecutivo.
