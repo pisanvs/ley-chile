@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 995 de 09.06.88, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden á Sector Expropiado Predio "La Vertiente" de la comuna de Quilicura. Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 4, sitios N°s. 4 y 6, del Proyecto de Parcelación "Quilicura", formado por predio señalado. Los derechos de Aguas se extraen del Estero Las Cruces. Derrames del predio "Fundo María Esperanza". Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
