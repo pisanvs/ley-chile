@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.116, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s. 28 y 29, superficies 4.583 m2 y 449 m2 , roles de avalúo 2100-16 y 2100-15, comuna de Quilicura, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, y se acordó el valor de indemnización con su propietaria Conservera Osiris S.A., ascendente a la cantidad de $ 217.415.114.
+
+- Fiscal del Ministerio de Obras Públicas.
