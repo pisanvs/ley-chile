@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 861, de 22 de septiembre de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. Nº 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 1 y 1-A, para la obra Proyecto Laja-Diguillín, Area de Riego Pemuco, Canal San Miguel Pal Pal Bajo, Ramal N°6, que figuran a nombre de José Germán Pavez, rol de avalúo 160-122, comuna de Pemuco, VIII Región, superficies 402 y 1.320 m2.
+
+respectivamente. La Comisión de Peritos, compuesta por los señores Pablo Carrillo Valenzuela, Ramón Jofré Soto y José Manuel Gálvez Alegría, fijó con fecha 27 de enero de 1997, los valores provisionales de las indemnizaciones en las cantidades de $97.284 para el lote 1 y $319.440 para el lote 1-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
