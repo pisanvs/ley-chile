@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.034 de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nº34-A y 38-A, superficies 2.013,12 y 100 m2., rol de avalúo Nº64-5, comuna de Lonquimay, para la obra ''Camino Malalcahuello - Paso Pino Hachado, Rutas R-891, R-955 y R-89, Sector Acceso Pedregoso - Liucura, Km. 141,00000 al 158,54000, correspondiente al Tramo II Km. 149,22500 al 154,27400'', IX Región y se acordó el valor de indemnización con su propietario Pablo Enrique Motran Villalobos, ascendente a la cantidad de $815.291.
+
+Fiscal del Ministerio de Obras Publicas
