@@ -1,0 +1,3 @@
+Por resolución No. 387, de 07 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deroga la Resolución No. 1446, de 1989, de esta Subsecretaría, que autoriza a don Vicente Marcelo Soto Soto, R.U.T. No. 11.413.573-9, para instalar y operar un establecimiento de cultivo del recurso alga del género Gracilaria, en el Río Quenuir, Comuna de Maullín, Provincia de Llanquihue, X Región, por renuncia de su titular.
+
+Valparaíso, 07 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
