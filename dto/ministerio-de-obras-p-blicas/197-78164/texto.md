@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No.197, de fecha 29 de Julio de 1992, se expropió el lote de terreno No.2, superficie 3.550 M2., rol de avalúo 29-137, Comuna de San Pedro, para la obra Camino San Fernando - San Antonio, sector Bifurcación San Pedro - San Pedro y se acordó precio de indemnización con su propietario Agrícola Llancay S.A. ascendente a la cantidad de $ 1.178.593.
+
+Fiscal del Ministerio de Obras Públicas.
