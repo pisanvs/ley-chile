@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION NUMERO 310 EXENTA, DE 1997, QUE AUTORIZA EXCEPCIONARSE DEL DE REGIMEN DE CAMBIO DE SUJETO DE IVA A "ALIMENTOS MAR PROFUNDO S.A."
+
+La VIII Dirección Regional del Servicio de Impuestos Internos, por Resolución DRE08/Nº Ex. 310 de fecha 7 de mayo de 1997, excepciona, a contar de la fecha de esta publicación a "Alimentos Mar Profundo S.A.", Rut. Nº 96.766.580-0 del régimen de cambio de sujeto de IVA, establecido en la Resolución Nº Ex. 3.069, de 28-06-96 de la Dirección Nacional, publicada en el Diario Oficial del día 02-07-96.
