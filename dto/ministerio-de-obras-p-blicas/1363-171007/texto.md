@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.363, de 17 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1, 2 y 3, para la obra Puente Basas, Camino Curarrehue - Reigolil: Km.
+
+0.000 a Km. 0.500, que figura a nombre de Antonio Arce Cares Ríos, rol de avalúo 163-204 de la comuna de Curarrehue, superficies 8, 90 y 876 M2. respectivamente. La comisión de peritos fijó con fecha 30 de marzo de 1998, los valores provisionales de la indemnizaciones en las cantidades de $1.600, lote Nº1; $18.000, lote Nº2 y $175.200, lote Nº3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
