@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 694, de 30 de abril de 2001, se expropiaron los lotes de terreno Nºs 121-3 y 121-8, superficies 1.884 m2 y 877 m2., rol de avalúo 43-7, comuna de Hijuelas, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietaria Betty Patricia Montenegro Escobar, ascendente a la cantidad total de $16.274.231.-.
+
+Fiscal del Ministerio de Obras Públicas.
