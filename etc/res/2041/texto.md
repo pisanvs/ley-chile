@@ -1,0 +1,3 @@
+Por Resolución N° 2.041, de 4 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94103134, presentada por MARIO OJEDA OJEDA, para un centro de cultivo ubicado en Ensenada Chuchuquen, Isla Añihue, Comuna de Quemchi, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
