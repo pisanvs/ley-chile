@@ -1,0 +1,15 @@
+MODIFICA DECRETO No. 215, DE 1985
+
+Núm. 379.- Santiago, 06 de Mayo de 1987.- Visto: Lo dispuesto en los artículos 3° y 5° del decreto supremo No. 341, de Hacienda, de 1977; el decreto supremo No. 378, de Hacienda, de 1987; el decreto supremo No. 1.095, de Defensa Nacional, Subsecretaría de Marina, de 1985, y lo informado por el Sr. Intendente Regional de la XII Región de Magallanes y de la Antártica Chilena, mediante Telex No. 54 de 18 de Marzo de 1987,
+
+Decreto:
+
+Modifícase el decreto supremo No. 215, de Hacienda, de 1985, en el sentido de agregar al perímetro del recinto habilitado por el referido decreto, cuyos deslindes especiales se encuentran individualizados en el No. 2 del mismo, las siguientes nuevas superficies, de conformidad al plano No. 2. 160, escala 1:2.000, de fecha 29 de Abril de 1987, confeccionado por el Departamento Producción, División Planes, de Astilleros y Maestranzas de la Armada, ASMAR, que se considera parte integrante del presente decreto:
+
+a) sector de playa de mar., con una superficie de 2.600 m2., con los siguientes deslindes especiales: al Norte con línea de la más baja marca. aguas del Estrecho de Magallanes, en 100 metros; al Sur, con línea de la más alta marea, aguas del Estrecho de Magallanes, en 100 metros; al Oriente: en línea ubicada a 292 metros hacia el Poniente, contados desde la proyección del deslinde Oriente de los terrenos de propiedad. de ASMAR, en 26 metros, y, al Poniente, en línea ubicada a 206 metros hacia el Oriente, contados desde la proyección del deslinde Poniente de los terrenos de propiedad de ASMAR, en 26 metros, y
+
+b) sector de fondos marinos y de la porción de aguas correspondientes, con una superficie de 9.120 m2., que es un rectángulo de 304 metros de largo por 30 metros de ancho, que se interna en el mar, a continuación hacia el Norte en parte del sector de playa individualizado en la letra anterior, con los siguientes deslindes especiales: al Norte, en línea ubicada a 304 metros desde la línea de la más baja marea, aguas del Estrecho de Magallanes, en 30 metros; al Sur, con línea de la más baja marea, aguas del Estrecho de Magallanes, en 30 metros; al Oriente, en línea ubicada a 324 metros hacia el Poniente contados desde la proyección del deslinde Oriente de los terrenos de propiedad de Asmar, en su cabezal sur, y 290 metros, medidos de la misma manera, en su cabezal norte, deslinde que se extiende por 304 metros, y al Poniente, en línea ubicada a 248 metros hacia el Oriente contados desde la proyección del deslinde Poniente de los terrenos de propiedad de Asmar, en su cabezal sur, y a 388 metros, medidos de la misma manera, en su cabezal norte, deslinde que se extiende por 304 metros.
+
+Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Hernán Büchi Buc. Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Manuel Concha Martínez, Brigadier de Ejército, Subsecretario de Hacienda.
