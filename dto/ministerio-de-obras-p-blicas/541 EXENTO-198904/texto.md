@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 541 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 7, superficie 250 m², Rol Nº 1404-46, comuna de Puerto Varas, para la obra ''Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Puerto Montt, Km. 0,000 a Km. 16,340'', y se acordó el valor de indemnización con su propietario Alejandro Rolando Schmauck Leay, ascendente a la cantidad de $2.467.300.-
+
+Fiscal del Ministerio de Obras Públicas.
