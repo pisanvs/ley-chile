@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 67, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2383, Rol 332-11. Santiago, aparente dominio Soc. Heriberto Erlwein y Cía., superficie aproximada a expropiar 487 m2. Deslindes: Norte, 13,50 mts. resto predio; Sur, 14,10 mts. calle Agustinas; Oriente, 35,00 mts. otro propietario y Poniente, 35,50 mts. otro propietario. Indemnización provisional $ 6.927.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
