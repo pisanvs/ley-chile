@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.705, de 31 de octubre de 2001, se expropió el lote de terreno Nº 6, superficie 1.618 m2., rol de avalúo en trámite, comuna de Cartagena, para la obra Red Vial Litoral Central. Sector 3: Eje Costero Interior. Subtramo: Quillaicillo- Rosario. Km. 13.200,00 a Km. 16.782,246, Quinta Región y se acordó el valor de indemnización con su propietario Luis Alecci Yáñez López y otros, ascendente a la cantidad de $1.889.376.-
+
+Fiscal del Ministerio de Obras Públicas.
