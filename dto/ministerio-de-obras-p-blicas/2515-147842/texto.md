@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.515, de 31 de agosto de 1999, se expropió el lote de terreno Nº34-B1, superficie 407 m², rol de avalúo 1301-25, comuna de La Ligua, para la obra Camino Ruta 5 Norte. Tramo Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Vicente del Carmen Astudillo Reinoso, ascendente a la cantidad de $653.349.-
+
+Fiscal del Ministerio de Obras Públicas.
