@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.128, de 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 3 y 4, superficies 218 m2. y 1.756 m2., rol de avalúo 212-120, comuna de San Javier, para la obra Concesión Internacional Ruta 5. Tramo: Talca-Chillán, Séptima Región y se acordó el valor de indemnización con su propietaria Agrícola Silva Encina Limitada, ascendente a la cantidad total de $7.255.211.
+
+- Fiscal del Ministerio de Obras Públicas.
