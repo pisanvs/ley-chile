@@ -1,0 +1,3 @@
+Por decreto MOP Nº585, de fecha 28 de Marzo de 2002, se expropio el lote de terreno Nº5, superficie 39 m2, rol de avalúo 40-17, comuna de Monte Patria, IV Región, para la obra "Camino Ruta D-597, Monte Patria - Carén, Sector Juntas - Carén, Km. 8,260,00 al 30,065,19", y se acordó el valor de indemnización con su propietario don Daniel del Rosario Ossandón Miranda y Otros, ascendente a la cantidad de $3.416.938.-
+
+Fiscal del Ministerio de Obras Públicas.
