@@ -1,0 +1,11 @@
+Declaracion a favor de don Andres Morris
+
+Excmo. Señor:
+
+Don Andres Morris, natural de Inglaterra i ciudadano de este Estado de Chile, con mi mayor respeto ante V. E. digo: Que a consecuencia de haber si llamado al Ministerio de Gobierno por órden de V. E. para la indagacion de cierta falsa noticia que se propagó, relativa a la suerte del Ejército Libertar del Perú, he tenido la desgracia de ser considerado en el pueblo como autor de semejante falsedad. Mi opinion, ántes de ahora bien puesta en la estimacion pública, hoi por este suceso se halla vacilante i sin concepto. Vitos me llaman Jodo, otros Carrerino i otros en fin perturbador de la pública tranquilidad. Tan infame nota que seguramente no he merecido, ha excitado en mi alma el mas profundo sentimiento, i cuando considero que todas las personas del pueblo han creido que yo he sufrido arresto i prision por este acontecimiento en la cárcel pública, no puedo ser insensible a un ultraje que se hace a mi patriotismo. V. E. sabe que soi inocente, que mi decision por la causa del Pais es indudable; i que léjos de perturbar el órden, me intereso en su conversacion. Me hallo, pues, en el caso de justificar a los ojos del pueblo mi conducta vulnerada i para ello imploro la Suprema benignidad de V. E., a fin de que se digne mandar espedir un decreto en que para mi satisfaccion i la del público se declare que no he sido delincuente, i que por lo mismo ni he sufrido arresto, ni otra clase de de castigo; ordenan, finalmente, que esta representacion con el decreto de V. E. se publique en la Gaceta Ministerial. Por tanto:
+
+A V. E. rendidamente suplico se sirva proveer como solicito: Es gracia que imploro, etc. - Andres Morris.
+
+Santiago, Marzo 8 de 1821.- El suplicante ha dado pruebas inequívocas de su adhesion al sistema liberal americano, por ellas ha obtenido carta de ciudadanía; i su conducta ulterior jamas ha estado en oposicion con los sentimientos de un buen ciudadano.
+
+Insértese esta representacion i su proveido en la Gaceta Ministerial para su satisfaccion i la del público en la parte que puede haber causado un equivocado concepto. - O'Higgins. - Echeverría.
