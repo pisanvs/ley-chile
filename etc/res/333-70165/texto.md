@@ -1,0 +1,5 @@
+Por Resolución Nº 333, de 5 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALGAS VALLENAR S.A., para ampliar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Camino al Basural s/nº, Tal-Tal, II Región, donde podrá procesar, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Secado Natural y Molienda: Cochayuyo, Chasca, Chascón, Chicorea de mar, Huiro, Liquen gomoso, Luche, Luga gallo, Lechuga de mar y Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 5 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
