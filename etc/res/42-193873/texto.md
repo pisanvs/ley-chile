@@ -1,0 +1,3 @@
+Por resolución Nº 42 de 9 de enero de 2002, de esta Subsecretaría, declárase la caducidad de la resolución Nº 995 de 1988, de esta Subsecretaría, que autorizó a MAXIMO HENRIQUEZ MUÑOZ, a realizar labores de pesca extractiva con la nave "Cynthia", por haberse configurado la causal prevista en el artículo 143 letra b) de la ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 9 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
