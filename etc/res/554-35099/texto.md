@@ -1,0 +1,3 @@
+Por resolución N° 554 de 2 de Agosto de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1° de la resolución N° 1284, de 1992, de esta Subsecretaría, que otorgó a PESCA CHILE S.A., R.U.T. N° 95.023.000-2, un plazo de 9 meses para reiniciar actividades pesqueras con la nave "Corfo I", en el sentido de precisar dicho plazo debe contarse desde el 2 de enero de 1993, de conformidad con lo establecido en el Art. 143 letra b), del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 2 de Agosto de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.-
