@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 297, DE 2004
+
+Por resolución Nº 297, del 9 de julio de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VII Región del Maule, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº 241/2004, del mismo origen, para la instalación y operación de cinco Plantas Revisoras Clase AB, en las comunas de Talca, Curicó, Linares, Parral y Cauquenes, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VII Región del Maule y la concesionaria "Revisiones Maule Limitada", el 1 de julio de 2004. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.
+
+- Alexis Sepúlveda Soto, Secretario Regional Ministerial de Transportes y Telecomunicaciones, VII Región del Maule.
