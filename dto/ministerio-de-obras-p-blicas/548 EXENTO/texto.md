@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 548, de fecha 30 de abril de 2001, se expropiaron los lotes de terreno Nºs. 29-A, 29-B, 31-A, 33-A, 34-A, 34-B, 35-A, 38-A, 39-A, 40-A, 41-A, 42-A y 45-A, superficies 128 M2, 58 M2, 633 M2, 50 M2, 203 M2, 323 M2, 381 M2, 153 M2, 211 M2, 158 M2, 250 M2, 280 M2 y 358 M2, respectivamente, Rol de avalúo 27-18 comuna de Paredones, para la obra "Camino Lolol-Paredones-Bucalemu, Sector Alto Nilahue-Acceso Paredones , Tramo Km. 12,700 al 27,800" y se acordó el valor de indemnización con su propietaria Gladys María Angélica López del Campo, ascendente a la cantidad de $5.860.320.-
+
+Fiscal del Ministerio de Obras Públicas.
