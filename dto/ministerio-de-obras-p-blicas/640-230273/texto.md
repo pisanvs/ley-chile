@@ -1,0 +1,5 @@
+Por decreto MOP Nº 640 de 29 de julio de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206 de 1960, se expropió el lote de terreno Nº 2 para la obra:
+
+"Proyecto: Concesión Internacional Sistema Américo Vespucio Nor - Poniente. Avda. El Salto - Ruta 78. Tramo 6: Ruta 78 Pajaritos - Ruta 68", Región Metropolitana, que figura a nombre de Rodríguez Llona María Sara, rol de avalúo 1195-32, comuna de Maipú, superficie 7.443 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Cristián Larraín Arnolds y Roberto Carlos Muñoz Ordenes, fijó con fecha 26 de mayo de 2004, el valor provisional de la indemnización en la cantidad de $156.164.126.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
