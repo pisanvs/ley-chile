@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.541, de 31 de agosto de 1999, se expropió el lote de terreno Nº 9, superficie 300 M2., rol de avalúo 12027-1, comuna San Pedro de la Paz, para la obra Reposición Puente Bío-Bío Antiguo, Ruta 160, Concepción-San Pedro, sector San Pedro y se acordó precio con su propietaria Amandina Sepúlveda Muñoz, ascendente a la cantidad de $54.918.000.
+
+Fiscal del Ministerio de Obras Públicas.
