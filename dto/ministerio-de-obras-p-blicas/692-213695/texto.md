@@ -1,0 +1,3 @@
+Por decreto MOP Nº 692 de fecha 30 de junio del 2003, se expropió el lote de terreno Nº 26, superficie 528,0 m2, Rol Nº 559-19, comuna de Linares, VII Región para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo Km. 2,750.2 a Km. 13,147, y se acordó el valor de indemnización con su propietario Sylvia Inés Ponce Arriagada, ascendente a la cantidad de $9.421.419.
+
+- Fiscal del Ministerio de Obras Públicas.
