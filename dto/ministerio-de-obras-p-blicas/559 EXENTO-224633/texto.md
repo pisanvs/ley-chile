@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 559 de fecha 31 de marzo de 2004, se expropió el lote de terreno N° 59, superficie 1.980 m2, rol N° 213-23, comuna de Lumaco, para la obra "Camino Mejoramiento Ruta R-90-P, sector Traiguén - Lumaco, Km. 0,000 a Km. 21,86933, tramo II, Km. 12,181 al Km. 21,865", IX Región y se acordó el valor de la indemnización con su propietario Luis Alberto Reiman Morales, ascendente a la cantidad de $1.595.481.
+
+Fiscal del Ministerio de Obras Públicas.
