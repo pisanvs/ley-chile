@@ -1,0 +1,3 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F. N° 64 de 25 de Junio de 1985, se ha ordenado pagar la suma de $ 32.353 a don Gonzalo Urrejola Unzueta o a quien acredite derecho como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos, m s su reajuste, para los lotes N°s. 1, 2, 3 y 4, de una superficie de 1.190 m2., 910 m2., 1.280 m2., y 1.110 m2., respectivamente, para Acceso al Puente Brazo, camino Confluencia - ñipas, comuna de Portezuelo, VIII Región. Se deja constancia que el plazo para reclamar judicialmente del avalúo es el determinado por el artículo 12 del decreto ley N° 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
