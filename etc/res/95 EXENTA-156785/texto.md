@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 95 de 01 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector excluido y Sector expropiado predio "Fundo Venecia o San Gabriel, hoy denominado Flordui" de la comuna de Renaico, IX Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N° 5 a la 8, del Proyecto de Parcelación "Venecia" formado por predio señalado. Los derechos de agua se extraen de los canales Santa Ana y Molino El Globo.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
