@@ -144,6 +144,20 @@ c) adhesión.
 
 2. Después de esto, esta Convención entrará en vigencia para cada Parte Contratante cuatro meses después de su firma sin reserva de ratificación, o del depósito de un instrumento de ratificación o adhesión.
 
+#### Artículo 10 bis
+
+1.- Esta Convención podrá ser enmendada en una reunión de las Partes Contratantes convocada para ese propósito de acuerdo con este Artículo.
+
+2.- Las propuestas de enmienda podrán ser formuladas por cualquier Parte Contratante.
+
+3.- El texto de cualquiera enmienda propuesta y las razones para ello deberán ser comunicados a la Organización o al Gobierno que desempeña las funciones de Oficina permanente en virtud de la Convención (denominada en adelante "LA OFICINA") y deberán ser comunicados oportunamente por la Oficina a todas las Partes Contratantes.- Cualesquiera observaciones sobre el texto, formuladas por las Partes Contratantes deberán ser comunicadas a la Oficina dentro de tres meses a contar de la fecha en que las enmiendas fueron comunicadas a las Partes Contratantes por la Oficina. La Oficina deberá, inmediatamente después del último día fijado para la presentación de las observaciones, comunicar a las Partes Contratantes todas las observaciones presentadas hasta ese día.
+
+4.- Una reunión de las Partes Contratantes para examinar una enmienda comunicada conforme al párrafo 3, deberá ser convocada por la Oficina a solicitud escrita de un tercio de las Partes Contratantes. La Oficina consultará a las partes con respecto a la fecha y lugar de la reunión.
+
+5.- Las enmiendas deberán ser adoptadas por una mayoría de dos tercios de las Partes Contratantes presentes y con derecho a voto.
+
+6.- Una enmienda adoptada entrará en vigencia para las Partes Contratantes que la hayan aceptado el primer día del cuarto mes siguiente a la fecha en la cual los dos tercios de las Partes Contratantes hayan depositado un instrumento de aceptación ante el Depositario. Para cada Parte Contratante que deposita un instrumento de aceptación después de la fecha en la cual los dos tercios de las Partes Contratantes hayan depositado un instrumento de aceptación, la enmienda entrará en vigencia el primer día del cuarto mes siguiente a la fecha de depósito de su instrumento de aceptación.
+
 #### Artículo 11
 
 1. Esta Convención permanecerá en vigor por un tiempo indeterminado.
@@ -170,4 +184,4 @@ EN FE DE LO CUAL, los abajo firmantes, estando debidamente autorizados para tal 
 
 Hecha en Ramsar, este día 2 de Febrero de 1971, en un solo original en los idiomas inglés, francés, alemán y ruso.
 
-En caso de divergencia prevalecerá el texto en inglés, el cual se depositará ante el Depositario quien enviará copias auténticas de ella a todas las Partes Contratantes.
+todo los textos son igualmente auténticos, el cual se depositará ante el Depositario quien enviará copias auténticas de ella a todas las Partes Contratantes.
