@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.334 de fecha 30 de septiembre del 2004, se expropiaron los lotes de terreno Nº s 45 y 46, superficies 220 y 36 m2, Roles Nº s 518-444 y 518-445, comuna de Antuco, VIII Región, para la obra "Camino Ruta Q-45, Sector Antuco-Abanico, Tramo II Km. 3,95000 a Km. 12,40150" y se acordó el valor de indemnización con su propietario Rudecindo Riviera Gajardo, ascendente a la cantidad de $572.444.
+
+Fiscal del Ministerio de Obras Públicas.
