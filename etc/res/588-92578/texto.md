@@ -1,0 +1,7 @@
+AUTORIZA A DON OCTAVIO ABARCA CASTELLI PARA AMPLIAR ACTIVIDADES PESQUERAS.
+
+Por resolución No. 588, de 26 de Mayo de 1989, de esta subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Octavio Abarca Castelli, RUT No. 6.027.314-6, domiciliado en calle Roberto del Río No. 1222. Depto. No. 42, Providencia, Santiago, para ampliar actividades pesqueras, autorizadas por resolución No. 398, de 1986, de esta subsecretaría, en orden a capturar reproductores del recurso Salmón plateado, en sector Playa Maqui, Lago Llanquihue, X Región, con el objeto de obtener productos sexuales de la especie. destinada a reemplazar las importaciones de ovas, por la producción de ovas en el país. El interesado podrá extraer en el período comprendido entre la fecha de esta resolución hasta el 15 de Julio de 1989, 300 reproductores de Salmón plateado (120 hembras y 60 machos), utilizando red de trasmallo en el sector antes señalado.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de Mayo de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
