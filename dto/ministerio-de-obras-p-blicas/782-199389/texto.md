@@ -1,0 +1,3 @@
+Por decreto MOP Nº782 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº146, superficie 1.394 m2, sin rol de avalúo, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000 Etapa IV'', III Región y se acordó el valor de indemnización con su propietario Emilio Mancilla Ramírez, ascendente a la cantidad de $3.998.115.-
+
+Fiscal del Ministerio de Obras Públicas .
