@@ -352,6 +352,8 @@ i) En los recortes de diarios y publicaciones periódicas; el título, la fecha,
 
 j) En los boletines de órdenes o suscripciones relativas a obras de librería, libros, diarios, grabados, trozos de música; indicar a mano las obras pedidas u ofrecidas, y borrar o subrayar total o parcialmente las comunicaciones impresas.
 
+k) A los paquetes de revistas de Empresas Editoriales que transitan por el Servicio de Correos y Telégrafos, colocar un sello de seguridad sobre el nudo de cáñamo de cada paquete.
+
 6.- Las tarjetas de dirección y todo impreso que presente la forma y consistencia de una tarjeta no plegada podrán ser admitidas bajo faja o en sobre atado o doblado.
 
 7.- Los clisés que lleven signos de la cecografía quedan asimilados a las impresiones en relieve para uso de los ciegos. Igual concepto merecen las placas sonoras y el papel especial destinado únicamente para el uso de los ciegos, con la condición de que se sean expedidos por un Instituto de esta índole reconocido oficialmente o dirigido a otro establecimiento de la misma clase.
