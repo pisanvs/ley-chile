@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.859 de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº5C-1, superficie 237 m², rol de avalúo Nº694-39 comuna de Yungay, para la obra ''Area de Riego Yungay, Canal Huencheco Faja Adicional Km. 1,523 al Km. 3,632.36, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietaria Juana Pabla Erices Friz, ascendente a la cantidad de $158.455.
+
+- Fiscal del Ministerio de Obras Públicas.
