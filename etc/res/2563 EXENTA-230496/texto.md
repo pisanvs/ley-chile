@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.563, de 8 de septiembre de 2004, de esta Subsecretaría, rectifícase la resolución Nº 1.939 de 2004, de esta Subsecretaría, que autorizó a PESQUERA QURBOSA TRES S.A. para continuar desarrollando actividades pesqueras extractivas con las naves "Tranoi" y "Mar Austral", en el sentido de señalar que la razón social de la empresa mencionada es Qurbosa Tres S.A. y no la que allí se indica.
+
+Valparaíso, 8 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
