@@ -1,0 +1,25 @@
+Bloqueo de la costa del Perú
+
+El Director Supremo de la República de Chile:
+
+Siendo la continuacion del bloqueo anteriormente declarado sobre todos los puertos del virreinato del Perú, una consecuencia necesaria de la nueva escena militar, que va a abrirse en aquellas rejiones, por medio del ejército i de la escuadra, que hoi zarpan de nuestras riberas, con el alto designio de poner aquel pais al nivel de los pueblos independientes de América, libertándolo del infamante yugo de la España; he venido en declarar por el presente decreto: que
+
+Desde el 25 del actual mes de Agosto, deben considerarse en estado riguroso de bloqueo por la Escuadra de Chile i lo están efectivamente, en virtud de las órdenes dadas al comandante en jefe de ella, vice-almirante Lord Cochrane, todos los puertos i fondeaderos del mar Pacífico, que están situados entre los paralelos 2.°, 12' i 21.° 48' lat. sur, es decir, la línea de costa desde Iquique, hasta Guayaquil inclusive; por consiguiente, queda prohibido penetrarla a todo buque, de cualquiera nacion que fuere o procediere.
+
+Se considerará suficientemente publicada, i notificada, a todas i cada una de las naciones amigas o neutrales, desde el dia en que respectivamente se hubiere vencido el tiempo, que contado desde hoi, se prefija i relativamente por este decreto, en la forma que sigue:
+
+Queda prefijado el término de siete meses para todo buque neutral, de cualquiera nacion que sea que procediere de los puertos de Europa, de los de Estados Unidos de Norte América i de los de cualquiera establecimiento europeo; en el continente americano, i sus islas: el término de cinco meses respecto de todo buque neutral, que proceda de los puertos del Brasil: el de seis meses al que fuere procedente de los puertos de Africa i sus islas; el de un año al que procediese de los establecimientos europeos del Asia; i el de tres meses a todo buque amigo o neutral, que tenga su procedencia de las costas del Rio de la Plata.
+
+Mediante a que los términos prefijados en el artículo anterior se consideran suficientes para que la notificacion del bloqueo llegue a las naciones neutrales i amigas, a quienes comprende todo buque amigo o neutral, bajo cualquiera pabellon que venga, que se presente de algunos de los puertos bloqueados, despues de espirar el término respectivo, con arreglo a su procedencia, será remitido a Valparaiso, para ser juzgado conforme a la lei de las naciones.
+
+Todo buque neutral que conduzca a su bordo artículos de contrabando de guerra, propiedades enemigas, oficiales, maestres, sobrecargos, tropa o comerciantes de los paises sujetos al rei de España, será enviado a Valparaiso, para ser juzgado conforme a la lei de las naciones. Se entiende por artículo de contrabando las armas i municiones de toda especie, i uso; toda clase de pertrechos militares sin distincion; los víveres i toda suerte de provisiones, los útiles navales, que puedan servir para el armamento i equipo de los buques i finalmente, todos cuantos artículos i especies puedan contribuir a proporcionar al enemigo medios de hacer la guerra, por tierra o por mar, defensiva u ofensivamente.
+
+Todo buque neutral que navegue con falso o dobles papeles, o que no tenga los documentos necesarios para probar la pertenencia de la propiedad sufrirá las penas aplicables a los efectos i mercaderías del enemigo.
+
+Mas deseando el Gobierno de Chile, que las propiedades pertenecientes a súbditos de potencias neutrales, no sean perjudicadas, i que tengan proporcion de estraerlas de los paises su jetos al virrei del Perú; se confiere al vice-almirante comandante en jefe de la escuadra, la autoridad suficiente, para que, segun las instrucciones que se le han ministrado, habilite en las circunstancias, el puerto o fondeaderos, que tuviere por conveniente, a fin de que se embarquen en ellos a bordo de buques neutrales, las propiedades e intereses pertenecientes a súbditos de potencias neutrales.
+
+Quedan asimismo, libres i exentos del bloqueo, todos los puertos i costas que se hallaren bajo la inmediata influencia, i proteccion a las armas del ejército Libertador del Perú, que ha zarpado hoi de Valparaiso, por el hecho mismo de que no perteneciendo entonces ese territorio al predominio del rei de España, sino al de los independientes de América, debe en tal caso cesar en su respecto toda interdiccion.
+
+Si algun comandante de buque neutral, embarcase a su bordo propiedades e intereses perteneciente a súbditos del rei de España, bajo cualquier pretesto, dicho buque neutral será apresado i enviado a Valparaiso para ser juzgado, i sentenciado a las penas establecidas en este caso, por la lei marítima de las naciones.
+
+El presente decreto se trasmitirá a los comandantes de las fuerzas neutrales, que haya en estos mares, se publicará i circulará a quienes corresponda.- Palacio Directorial en Valparaiso, Agosto 20 de 1820.- Bernardo O'Higgins.- José Ignacio Zenteno.
