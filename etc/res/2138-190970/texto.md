@@ -1,0 +1,3 @@
+Por resolución Nº 2.138, de 10 de octure de 2001, de esta Subsecretaría, autorízase a SALMONES MULTIEXPORT LIMITADA, para continuar desarrollando las actividades pesqueras de transformación correspondientes a una planta de proceso ubicada en Avenida Cardonal Nº 2501, Puerto Montt y de operación de un vivero ubicado en Chinquihue, a 7 kms. de Puerto Montt, provincia de Llanquihue, X Región, autorizadas por esta Subsecretaría a Alimentos Multiexport Ltda.
+
+Valparaíso, 10 de octubre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
