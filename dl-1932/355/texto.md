@@ -1,0 +1,1 @@
+Dispone que la Piscina Escolar Temperada de Santiago, dependerá de la Universidad de Chile.
