@@ -1,0 +1,5 @@
+Por decreto MOP Nº 307, de 12 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 74-D, para la ejecución de la obra "Camino Mejoramiento Ruta R-90-P, Sector Traiguén-Lumaco, Tramo Km. 0,000 a Km.
+
+21,86933, Tramo II, Km. 12,181 al Km. 21,865", que figura a nombre de Huilcamán Manquebul Juana, Rol de Avalúo 218-1, comuna de Lumaco, VIII Región, superficie 2.746 m². La comisión de peritos con fecha 16 de junio de 2003, fijó el monto de la indemnización provisional en la cantidad de $3.010.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
