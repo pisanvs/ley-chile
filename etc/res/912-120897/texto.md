@@ -1,0 +1,3 @@
+Por resolución Nº912, de 30 de junio de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la resolución Nº893, de 1989, de esta Subsecretaría, que autorizó a PESQUERA CORONEL S.A., para operar la nave ''Remoy Viking'', de la V a la VII regiones y IX Región al paralelo 43° L.S., respecto de los recursos hidrobiológios Congrio dorado, Congrio colorado y Congrio negro.
+
+Valparaíso, 30 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
