@@ -1,0 +1,3 @@
+Por resolución No. 969, de 13 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución No. 429, de 1987, que autorizó a la CORPORACION MUNICIPAL DE CURACO DE VELEZ, domiciliada en calle Gabriela Mistral No. 10, Curaco de Vélez, X Región, para operar un establecimiento de cultivo de los recursos alga del género Gracilaria, moluscos bivalvos y especies salmonídeas, en la localidad de la Rampa, Canal Dalcahue, Comuna de Curaco de Vélez, Provincia de Chiloé, X Región, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 13 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
