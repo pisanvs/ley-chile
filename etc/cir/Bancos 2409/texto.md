@@ -3322,7 +3322,9 @@ Las modificaciones a las condiciones se tratarán igual que el cierre y apertura
 
 a) Si no hay cambios en la condición de giro diferido, giro incondicional o de cuenta a la vista, no será necesario suscribir un nuevo contrato, sino que basta un anexo en que conste la conformidad del titular con las nuevas condiciones por las que se regirá la cuenta a partir de la fecha que se indique. En estos casos podrá también seguir utilizándose la misma libreta, dejando constancia en ella, mediante un timbre u otro medio, del cambio en las condiciones pactadas.
 
-b) Cuando se trate de un cambio de cuenta con libreta a una sin libreta, o bien de una cuenta reajustable a una no reajustable, se conservará la antigüedad para efectos del pago de reajustes e intereses, con el consiguiente cómputo de la cantidad de giros para ese efecto. Al cambiarse una cuenta con reajustes por una sin cláusula de reajustabilidad, el importe de los reajustes aún no abonados que deben calcularse hasta la fecha del cambio de modalidad, se imputará a la cuenta en la oportunidad que le hubiere correspondido al mantenerse las condiciones anteriores, pero considerando dicho abono a contar de la fecha del cambio para efectos de la aplicación de los intereses devengados según las nuevas condiciones de la cuenta.
+b) Cuando se trate de un cambio de cuenta con libreta a una cuenta sin libreta se conservará la antigüedad para efectos del pago de reajustes e intereses, con el consiguiente cómputo de la cantidad de giros para ese efecto.
+
+c) Al cambiarse una cuenta con reajuste por una sin cláusula de reajustabilidad, se conservará la antigüedad para efectos de la fecha en que deben abonarse los intereses, así como para el cómputo de la cantidad de giros. Se liquidará la cuenta con cláusula de reajuste a la fecha del cambio a la modalidad no reajustable, debiendo en ese momento registrarse en la respectiva cuenta los reajustes y los intereses devengados sobre los depósitos y saldos mantenidos y cargarse las comisiones devengadas a esa fecha, en la proporción que corresponda, según los períodos de cobro establecidos.
 
 ### 4. Libretas de ahorro
 
