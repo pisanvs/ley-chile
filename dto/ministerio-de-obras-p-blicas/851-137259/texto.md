@@ -1,0 +1,5 @@
+Por decreto MOP Nº851, de 22 de abril de 1999, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs.13-B, 14-A, 15 y 20, para la ejecución de la obra Mejoramiento Autopista Concepción-Talcahuano, Sector Rotonda Bonilla y Campus San Andrés, Km. 0.086,65 al 0.324,15, que figuran a nombre de Suc. Carlos Mella Ortiz, Serviu y Eduardo Opazo Cruz y otros, roles de avalúo 436-8, 436-9 y 436-11, comuna de Concepción, VIII Región, superficies 318; 1.351; 468 y 303 m2. La comisión de peritos compuesta por los señores Boris Aptecar González, Pedro Tagle Martínez y Luis Soto Abarca, fijó con fecha 12 de junio de 1997, el valor provisional de las indemnizaciones en la cantidad $27.214.200, lote 13-B;
+
+$114.687.100, lote 14-A; $50.265.600, lote 15 y $14.316.750, lote 20. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
