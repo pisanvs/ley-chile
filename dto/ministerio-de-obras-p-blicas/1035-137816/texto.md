@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.035 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 13, superficie 327 m², rol de avalúo 3983-346, comuna de Talca, para la obra Camino ''Ruta 5 Tramo Talca-Chillán Calle de Servicio, Sector Aeródromo'' y se acordó el valor de indemnización con su propietario Filidor del Carmen Toledo Eguiluz, ascendente a la cantidad de $4.068.689.-
+
+Fiscal del Ministerio de Obras Públicas.
