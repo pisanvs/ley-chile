@@ -1,0 +1,3 @@
+Por Resolución N° 958 de 18 de Octubre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 3° de la Resolución N° 162, de 1994, de esta Subsecretaría, por la cual se autorizó a PESQUERA ISLADAMAS S.A., R.U.T. N° 96.603.620-6 para operar la nave "Foche", en el sentido de agregar la IV Región al litoral autorizado.
+
+Valparaíso, 18 de Octubre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
