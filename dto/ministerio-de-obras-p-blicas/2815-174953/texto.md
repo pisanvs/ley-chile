@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.815, de fecha 30 de junio de 2000, se expropió el lote de terreno Nº27, superficie 1.246,31 m2., rol de avalúo 1127-30, comuna de Castro, para la obra ''Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647'' y se acordó el valor de indemnización con su propietario Julio Armando Barría Ojeda, ascendente a la cantidad de $1.474.495.
+
+Fiscal del Ministerio de Obras Públicas.
