@@ -1,0 +1,3 @@
+Por resolución Nº600, de 14 de abril de 1999, de esta Subsecretaría de Pesca, recházase la solicitud de concesión de acuicultura Nº96110140, presentada por SOCIEDAD DE INVERSIONES FIORDOS DE AYSEN LIMITADA, para operar un centro de cultivo en Canal Carrera del Chivato, Comuna de Aysén, Provincia de Aysén, XI Región.
+
+Valparaíso, 14 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
