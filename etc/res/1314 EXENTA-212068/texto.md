@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.314 de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.042 de 2003, modificada mediante resoluciones Nº 1.064 y Nº 1.154, ambas de 2003, todas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Evaluación hidroacústica de pequeños pelágicos en la VIII y X Regiones, otoño 2003", en el sentido de señalar que la investigación se extenderá hasta el 20 de julio de 2003.
+
+Asimismo, modifícase el numeral 5º letra b) de la resolución Nº 1.042 de 2003, antes individualizada, en el sentido de aumentar la cuota de investigación asignada a la X Región en 300 toneladas, fraccionadas en 150 toneladas de anchoveta y 150 de sardina común, las que se imputarán a las fracciones autorizadas para ser extraídas con fines de investigación de las cuotas globales anuales de captura fijadas para dichas especies.
+
+Valparaíso, 20 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
