@@ -1,0 +1,3 @@
+Por resolución No. 841 de 02 de Septiembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, otórgase por un plazo de 30 días a contar de la fecha de esta resolución, para proceder a la publicación de los extractos de las resoluciones No. 489 y No. 490, de 1992, de esta Subsecretaría, para desarrollar actividades pesqueras extractivas en ejercicio del derecho que se le reconoce en virtud de lo dispuesto en el artículo 3° transitorio, incisos tercero y cuarto del DS No. 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, en razón de haberse acreditado una situación de fuerza mayor.
+
+Valparaíso, 02 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
