@@ -1,0 +1,5 @@
+Por resolución Nº2.241, de 17 de octubre de 2000, de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº2.194 del 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', en el sentido de sustituir su letra f) por la siguiente:
+
+''f) Dedicar las embarcaciones seleccionadas a las labores de prospección autorizadas en la presente investigación. No obstante lo anterior, previa comunicación al Servicio Nacional de Pesca y al Instituto de Fomento Pesquero, las naves participantes podrán desarrollar actividades pesqueras extractivas respecto de otros recursos hidrobiológicos autorizados''.
+
+Valparaíso, 17 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
