@@ -1,0 +1,3 @@
+Por decreto MOP Nº 756, de fecha 30 de abril de 2001, se expropiaron los lotes de terreno Nºs. 18, 18-B y 19-A, superficies 6.090,97 m2, 3.270,095 m2 y 802,893 m2, respectivamente, rol de avalúo en trámite, comuna de Constitución, para la obra ''Camino M-24-K Quivolgo - Puente Lautaro, Sector Putú - Quivolgo Km. 30,000,00 al 49,815.494'' y se acordó el valor de indemnización con su propietario Bosques de Chile Sociedad Anónima, ascendente a la cantidad de $7.010.960.-
+
+Fiscal del Ministerio de Obras Públicas.
