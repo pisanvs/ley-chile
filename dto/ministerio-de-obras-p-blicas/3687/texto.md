@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.687, de 29 de diciembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº23, superficie 1.049 m², rol de avalúo 438-135, comuna de Chimbarongo, Sexta Región, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector I: Km. 140.850,00 a Km. 151.500,00. Posteriormente, por decreto MOP Nº729, de 29 de febrero del 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con sus propietarios Julio Juvenal Monsalves Mac Donald y otra, ascendente a la cantidad de $25.579.779.-
+
+Fiscal del Ministerio de Obras Públicas.
