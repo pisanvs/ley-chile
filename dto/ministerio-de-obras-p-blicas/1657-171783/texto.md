@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.657, de 28 de abril del 2000, se expropió el lote de terreno Nº 199, superficie 60 m2., rol de avalúo 53-29, comuna de Collipulli, para la obra Concesión Internacional Ruta 5. Tramo Chillán-Collipulli, Novena Región, y se acordó el valor de indemnización con su propietario José Luis Castillo Ulloa, ascendente a la cantidad de $968.978.-
+
+Fiscal del Ministerio de Obras Públicas.
