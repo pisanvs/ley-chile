@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.756 de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº8, superficie 3.063 m2, rol de Avalúo Nº524-484, comuna de La Unión, para la obra "Camino Ruta T-80, Sector La Unión - Las Trancas, Km. 0,900 al 10,99034", X Región y se acordó el valor de la indemnización con su propietaria Ana María Robert Boettcher, ascendente a la cantidad de $2.030.471.-
+
+Fiscal del Ministerio de Obras Públicas.
