@@ -1,0 +1,3 @@
+Por Resolución N° 1.580, de 23 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 1372, de 1990, que autorizó a don FERNANDO LEAL MEZA, a don Víctor Maulén Figueroa y a don Valentín Osorio Rojas, para desarrollar actividades pesqueras extractivas con la nave "Borracha" en virtud de lo dispuesto en las letras b) y d) del artículo 143 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 23 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
