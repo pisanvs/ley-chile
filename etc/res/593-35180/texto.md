@@ -1,0 +1,3 @@
+Por Resolución N° 593, de 29 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase conforme a lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, parcialmente la Resolución N° 8 de 1990, que autorizó a PESQUERA DEL NORTE S.A. R.U.T., sólo en cuanto autoriza a la nave "Ordinat", la extracción de Merluza común y Congrio dorado, en el litoral de la III a IV y IX a X Regiones.
+
+Valparaíso, 29 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
