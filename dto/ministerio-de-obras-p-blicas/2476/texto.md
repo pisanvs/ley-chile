@@ -1,0 +1,3 @@
+Por decreto MOP N°2.476, de 30 de noviembre de 1998, se expropió el lote de terreno N°3, superficie 70 m2, rol de avalúo 212-261, comuna de Chimbarongo, obra Construcción Pasarela en Ruta 5 Sur VI Región, Sector Pasarela Peatonal Chimbarongo Carretera Longitudinal 5 Sur Km. 151.975, y se acordó precio de indemnización con su propietario Leoncio Manuel Ernesto Lira Durán, ascendente a la cantidad de $3.197.780.-
+
+Fiscal del Ministerio de Obras Públicas.
