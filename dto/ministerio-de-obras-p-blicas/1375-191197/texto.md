@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.375, de 14 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 9, para la obra camino Ruta W-80, sector Cruce Longitudinal-Huillinco, Kms 0,000 al 9,556, que figura a nombre de Bórquez Pérez Clemente, rol de avalúo 178-29, superficie 2.735,30 m2., comuna de Chonchi. La Comisión de Peritos, con fecha 12 de abril de 1999, fijó la indemnización provisional en la cantidad de $3.233.650, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
