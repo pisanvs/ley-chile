@@ -1,0 +1,3 @@
+Por Resolución N° 802, de 25 de agosto de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjanse sin efecto las resoluciones N° 1397 de 1992, N° 851, de 1993 y N° 400, de 1994, todas de esta Subsecretaría, que autorizaron a PESQUERA LOA SUR S.A., R.U.T. N° 95.059.000-9, para operar la nave "LOA 28", en ejercicio del derecho que se le concedió en virtud de lo dispuesto en el artículo 3° transitorio incisos 3° y 4° del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por renuncia de su titular.
+
+Valparaíso, 25 de Agosto de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
