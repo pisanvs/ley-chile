@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.450, de 31 de agosto de 1998, se expropió el lote de terreno No. 5, superficie 5.755 m²., Rol de avalúo 168-22, comuna de Maule, para la obra Camino Ruta 5, Sector Talca-Chillán, Intersección desnivelada Acceso Maule y se acordó el valor de indemnización con su propietario Eduardo Sánchez Gallardo, ascendente a la cantidad de $ 64.428.910.-
+
+Fiscal del Ministerio de Obras Públicas.
