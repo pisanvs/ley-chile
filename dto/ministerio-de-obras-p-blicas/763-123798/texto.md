@@ -1,0 +1,3 @@
+Por decreto MOP. No. 763, de 29 de mayo de 1998, se expropió el lote de terreno No. 6-B, superficie 10.000 m2., rol de avalúo 62-365, comuna de Ñiquen, para la obra Ruta 5, Tramo Talca - Chillán, Intersección Desnivelada, Acceso a Las Rosas y se acordó precio de indemnización con su propietario doña María Eugenia Izquierdo Berisso, ascendente a la cantidad de $ 17.834.232.
+
+Fiscal del Ministerio de Obras Públicas.
