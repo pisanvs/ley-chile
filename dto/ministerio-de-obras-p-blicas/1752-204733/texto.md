@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.752, de 11 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº8 para la obra: ''Sistema Norte - Sur. Tramo B: Las Acacias -
+
+Río Mapocho. Sector: Km. 11.700,00 al Km. 12.100,00'', Región Metropolitana, que figura a nombre de Cementerio Metropolitano, rol de avalúo 4200-1, comuna de Lo Espejo, superficie 226 m2. La comisión de peritos integrada por los señores Joaquín Guillermo Enrique Eyzaguirre Edwards, María Cristina Camus Palacios y Carmen Pilar Ríos Marcuello, fijó con fecha 31 de julio de 2002, el valor provisional de la indemnización en la cantidad de $19.426.036.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
