@@ -1,0 +1,3 @@
+Por resolución Nº 1.357, de 2 de julio de 2002, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A. para ampliar las actividades pesqueras extractivas con la nave "Guanaye 5" autorizada por resoluciones Nº 827 y Nº 1.919 de 2001, de esta Subsecretaría, en orden a realizar actividades pesqueras con la nave señalada precedentemente, en el área marítima comprendida entre la I a IV, VII, IX y X Regiones, por fuera del área de reserva artesanal, con cerco, sobre los siguientes recursos hidrobiológicos: Jurel fino, Anchoa blanca o samasa, Sardina redonda, Vinciguerria.
+
+Valparaíso, 2 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
