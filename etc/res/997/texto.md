@@ -1,0 +1,5 @@
+Por Resolución N° 997 de 21 de Octubre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Recontrucción, autorízase a SOCIEDAD COMERCIAL E INDUSTRIAL PESMAR LTDA., R.U.T. N° 78.063.450-2, domiciliada en Talcahuano, calle Juan Macaya N° 1348, San Vicente, para ampliar actividades pesqueras de transformación, autorizadas por Resolución N° 948, de 1991, de esta Subsecretaría, en orden a incorporar como materia prima en los procesos autorizados de la planta industrial ubicada en calle Juan Macaya N° 1348, San Vicente, Comuna de Talcahuano, autorizada por Resolución N° 948, de 1991, de esta Subsecretaría, los siguientes recursos hidrobiológicos: Conserva: Anchoa o anchoveta, Jurel, Sardina común, Sardina, Almeja, Caracol tegula, Caracol trumulco, Caracol rubio, Caracol palo palo, Chitón, Chorito maico, Jibia y Macha.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 21 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
