@@ -1,0 +1,3 @@
+Por Resolución No. 759 de 10 de Agosto de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 127, de 1991, que autorizó a don SERGIO NELSON GALLEGOS GUTIERREZ, R.U.T. No. 8.733.515-1, con domicilio postal en Casilla No. 466, Puerto Montt, X Región, para operar un establecimiento de Cultivo en Isla Maullín, Comuna de Calbuco, Provincia de Llanquihue, X Región, por renuncia total de su titular.
+
+Valparaíso, 10 de Agosto de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
