@@ -1,0 +1,11 @@
+ACUERDO Nº 67
+
+Oficio Nº 1.683. La Serena, 27 de agosto de 2001. Para su conocimiento y fines procedentes, transcribo a Ud., el siguiente Acuerdo celebrado por esta Corte:
+
+"Nº 67.- En La Serena, a veinticuatro de agosto de dos mil uno, reunida la Iltma. Corte extraordinariamente en Pleno, bajo la Presidencia de don Juan Pedro Shertzer Díaz y con la concurrencia de los señores Ministros don Alfredo Azancot Vallejo, doña Isabella Ancarola Privato y doña María Angélica Schneider Salas, y observándose que en el Sistema Computacional de Ingreso de Distribución de Demandas, que empezó a regir en este Tribunal el 27 de enero de 1998, en virtud de auto acordado de fecha 29 de diciembre de 1997, el 46% del ingreso dice relación con causas laborales y considerando además que en esta ciudad existe sólo un Tribunal del Trabajo, y de conformidad a lo dispuesto en el artículo 176 del Código Orgánico de Tribunales, se acuerda:
+
+Modificar el auto acordado de esta Corte de fecha 29 de diciembre de 1997 publicado en el Diario Oficial con fecha 21 de enero de 1998, en el sentido de que a contar del 1 de octubre próximo, se excluye del Sistema de Ingreso y Distribución Computacional, los asuntos laborales, estableciéndose que desde esa misma fecha dichas materias se presentarán directamente en el Primer Juzgado del Trabajo de La Serena.
+
+Transcríbase a la Excma. Corte Suprema, a las Iltmas. Cortes del país, al Colegio de Abogados A.G., a la Escuela de Derecho de esta IV Región, a los Juzgados de la Jurisdicción, a los Procuradores del Número, a las Corporaciones de Asistencia Judicial de la Jurisdicción, y al Consejo de Defensa del Estado, para su conocimiento.
+
+Transcríbase asimismo a la Corporación Administrativa del Poder Judicial para su publicación en el Diario Oficial.- J.P. Schertzer D. - A. Azancot V. - I. Ancarola P. - M.A. Schneider S. - R. Morales N.- Secretario titular". Dios guarde a Ud., Juan Pedro Shertzer Díaz, Presidente Subrogante.- Rubén Morales Neyra, Secretario Titular.
