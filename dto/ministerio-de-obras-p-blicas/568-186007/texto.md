@@ -1,0 +1,3 @@
+Por decreto MOP Nº 568 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº 16, superficie 9.851,07 m², rol de avalúo 387-16, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 4/5, Derivado Mahuidanche", Sector Km. 2.009,85 al Km. 7.790,94" y se acordó el valor de indemnización con su propietario Juan Bautista Segundo Muñoz Mardones, ascendente a la cantidad de $5.225.517.-
+
+Fiscal del Ministerio de Obras Públicas.
