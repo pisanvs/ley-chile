@@ -1,0 +1,3 @@
+Por decreto MOP No. 324, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s.2, 6, 7, 8 y 9, superficies 3.542; 98; 1.815; 1.309 y 671 M2., roles de avalúo No. s.136-218 y 136-187, comuna de San Francisco de Mostazal, obra Camino Ruta 5 Sur, Sector Atravieso Los Lagartos, y se acordó precio de indemnización con sus propietarios Nerina María Bezmalinovic y Humberto Lira Maffioletti, ascendente a las cantidades de $ 22.957.992.- lotes 2 y 9, y $ 26.599.424.- lotes 6, 7 y 8.-
+
+Fiscal del Ministerio de Obras Públicas.
