@@ -1,0 +1,3 @@
+Por resolución Nº 1.942, de 7 de septiembre de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Peñuelas Sector A, IV Región, individualizada en el artículo 1º) Nº 10 del D.S. Nº 509 de 1997, del Ministerio de Economía, Fomento y Reconstrucción presentado por la ASOCIACION GREMIAL DE PESCADORES Y BUZOS DE PEÑUELAS - IV REGION.
+
+Valparaíso, 7 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
