@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.833, de fecha 28 de abril del 2000, se expropiaron los lotes de terreno Nºs. 1, 2 y 2-A, superficies 5.200, 2.000 y 485 m², respectivamente, rol de avalúo 39-3, comuna de Litueche, para la obra ''Camino Ruta I-124, Sector Central Rapel - Litueche, Tramo Km. 0.000 a Km. 17.145,95 '' y se acordó el valor de indemnización con su propietario Empresa Nacional de Electricidad S.A., ascendente a la cantidad de $2.580.000.
+
+Fiscal del Ministerio de Obras Públicas.
