@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.366 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 3, superficie 4.738 m2, Rol de Avalúo Nº 597-194, comuna de San Ignacio, para la obra: "Sistema de Riego Laja-Diguillín "Bocatoma Diguillín", VIII Región y se acordó el valor de indemnización con su propietario Sebastián Abel Cárdenas Moncada, ascendente a la cantidad de $624.250.-
+
+Fiscal del Ministerio de Obras Públicas.
