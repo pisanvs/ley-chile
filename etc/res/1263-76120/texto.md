@@ -1,0 +1,3 @@
+Por Resolución Nº 1.263 de 25 de septiembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 1.412, de 1989, de esta Subsecretaría, que autorizó a PESQUERA EICOMAR S.A., sólo en lo que se refiere al sector 2, del centro de cultivo ubicado en Isla Guar, comuna de Puerto Montt, X Región, por haberse denegado la respectiva solicitud de concesión de acuicultura, por Resolución exenta Nº 350, de 13 de junio de 1997, de la Subsecretaría de Marina.
+
+Valparaíso, 25 de septiembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
