@@ -1,0 +1,3 @@
+Por resolución Nº1.179, de 12 de agosto de 1998, de esta Subsecretaría, rectifícase la resolución Nº982 de 1998, de esta Subsecretaría, que autorizó a PESQUERA GRIMAR S.A., para ampliar actividades pesqueras de transformación, en el sentido de reemplazar en Visto y numeral 1º la expresión ''1.907, de 1995'' por ''720, de 1996''.
+
+Valparaíso, 12 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
