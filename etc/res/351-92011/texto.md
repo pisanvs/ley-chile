@@ -1,0 +1,3 @@
+Por Resolución No. 351 de 19 de abril de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado calle Condell No. 1224, presunto rol avalúos 3502-35 comuna Providencia, aparentemente dominio de don Isidro del C. Leiva D. Comisión integrada por peritos señores Luis Rojas Quezada, constructor civil, Jorge Navarro Navarrete, arquitecto y Emilio Recabarren Solar, ingeniero civil, según informe de 21 de diciembre de 1988, fijó monto provisional indemnización en $ 2.276.800. pagadera al contado.-
+
+Director SERVIU Metropolitano.
