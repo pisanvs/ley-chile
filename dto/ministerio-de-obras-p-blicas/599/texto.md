@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°599, de 30 de junio de 1997, se expropió el lote de terreno N°1, superficie 196 m2., rol de avalúo 593-7, comuna de Cerrillos, para la obra Camino Autopista Santiago - San Antonio, Sector Empalme I. Riquelme - Bif. Malloco (Sector Urbano - Carlos Valdovinos - P. A. Cerda) y se acordó valor de indemnización con sus propietarios Adelaida Báez Salinas y otros, ascendente a la cantidad de $19.340.103.-
+
+Fiscal del Ministerio de Obras Públicas.
