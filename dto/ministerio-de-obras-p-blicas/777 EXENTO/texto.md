@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 777 de fecha 31 de mayo de 2004, se expropiaron los lotes de terreno Nos 569 y 570, superficies 197 y 33 m² respectivamente, Rol Nº 32-435, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua-Las Cabras, Sector San Roberto El Toco-Ruta 66, Km. 0,00000 a Km. 12,70000" y se acordó el valor de indemnización con su propietario Juan Bautista Vera, ascendente a la cantidad de $1.996.367.-
+
+Fiscal del Ministerio de Obras Públicas.
