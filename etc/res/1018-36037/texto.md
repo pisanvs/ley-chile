@@ -1,0 +1,11 @@
+Por Resolución N°1.018, de 9 de Diciembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PROCESADORA DE ALIMENTOS OMEGA SEAFOODS LIMITADA, R.U.T.
+
+N°78.410.990-9, para iniciar actividades pesqueras de transformación, en orden a operar una planta industrial ubicada en Coquimbo, Barrio Industrial Alto Peñuelas, Calle Uno, Sitio 11, donde podrá procesar en las líneas de elaboración que se indica, los siguientes recursos hidrobiológicos: Congelado, Fresco-refrigerado, Salado, Seco-salado, Pulpas, Ahumado y Marinado: Acha, Agujilla, Albacora o pez espada, Anchoa o anchoveta, Anguila, Apañado, Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Ayanque, Azulejo, Bacalao de profundidad, Blanquillo, Bonito, Breca, Cabrilla, Cabrilla común, Cachurreta, Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Caballa, Cabinza, Cazón, Dorado, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Machuelo o tritre, Marrajo o tiburón, Merluza común, Mulata o vieja Negra, Palometa, Pampanito, Pejegallo, Pejeperro, Pejerrey de mar, Pejesapo, Pejezorro, Raya, Reineta, Róbalo, Rollizo, Roncacho, Sardina común, Sierra, Tollo, Tollo de cachos, Tomoyo, Trucha arco iris, Trucha café, Vidriola o palometa, Almeja o taca, Almeja y sus variedades, Calamar, Caracol tegula, Caracol trumulco, Chocha, Cholga, Chorito, Choro, Culengue, Jibia, Lapa, Macha, Navaja de mar o huepo, Ostión del norte, Ostra del pacífico, Camarón nailon, Gamba, Jaiba, Jaiba limón, Jaiba mora, Jaiba peluda o pachona. Langostino amarillo, Langostino colorado, Picoroco, Erizo y Piure.
+
+El abastecimiento del recurso langostino colorado deberá provenir de las personas debidamente autorizadas.
+
+Los recursos Ostión del norte, Ostra del pacífico, Trucha café, Trucha arco iris, deberán provenir de centros autorizados para realizar actividades de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso 9 de Diciembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
