@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 261, de 15 de Octubre de 1991, se expropió los lotes de terreno Nºs. 18, 34-B y 35, superficies 5.395 m2., 396 m2. y 308 m2., Roles de Avalúo 565-1, 595-12 y 595-010, respectivamente, Comuna de Copiap6, para la obra Ruta 31-CH, sector Copiapó Paipote, Tramo Doble Calzada y se acordó precio de indemnización con sus propietarios don Manfredo Pellegrini V., Albina Rojas Abarcia y Juana R. Rojas Olivares. ascendente a las cantidades de $ 40.024.076 para el Lote 18, $ 6.523.631 para el Lote 34-B. y $ 5.863.508 para el Lote 35, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
