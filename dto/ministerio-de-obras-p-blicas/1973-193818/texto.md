@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.973, de 30 de noviembre de 2001, se expropió el lote de terreno Nº52, superficie 4.878 m2, rol de avalúo 537-31, comuna de Río Bueno, X Región, para la obra "Camino Río Bueno-Crucero, Sector T-90-U y T-933, tramo Km. 0,0000 al 20,90000" y se acordó el valor de indemnización con su propietario Víctor Germán Heinrich Heinrich, ascendente a la cantidad de $10.618.441.
+
+- Fiscal del Ministerio de Obras Públicas.
