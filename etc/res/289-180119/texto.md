@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución 289, 5 diciembre 2000, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Línea Férrea s/nº (Obispo San Miguel, Parcela 4), Rol de Avalúo Nº2725-001, comuna Chiguayante, superficie 1.262,50 m2. de terreno y 314,60 m2. de edificación, dentro polígono y linderos señalados plano expropiación 2725-001, de aparente dominio de Juan Alberto Pérez Cáceres, para ejecución programa ''Mejoramiento Vial Eje O'Higgins de Chiguayante'', conforme artículo 51 ley 16.391 y D.L. Nº2.186. Comisión Peritos, integrada por doña María Pamela Mac-Guire Acevedo, arquitecto; don Christian Walter Gäbler Solís, ingeniero civil, y don Italo Renso Zerga Arancibia, constructor civil, según informe de fecha 26 de octubre de 2000, fijó monto provisional indemnización en $45.835.500.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
