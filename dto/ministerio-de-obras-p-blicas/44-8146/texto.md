@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 44, de 28 de Febrero de 1994, se expropió el lote de terreno N° 3, superficie 2.970 m2, rol de avalúo 85-37, Comuna de Marchigüe, para la obra Camino San Fernando-Pichilemu, Sector Alcones-La Rosa (I-80-G) y se acordó el valor de indeminización con su propietario Roberto de Jesús Silva Quinteros, ascendente a la cantidad de $11.354.295.-
+
+Fiscal del Ministerio de Obras Públicas.
