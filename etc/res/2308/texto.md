@@ -1,0 +1,3 @@
+Por resolución Nº 2.308, de 11 de noviembre de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 304 de 1990 y Nº 412 de 1995, ambas de esta Subsecretaría, que autorizaron a SALVADOR ROQUE PIÑEIRO MELLA, para instalar y operar el centro de cultivo ubicado en ensenada Quimay, estero Compu, comuna de Queilén, X Región.
+
+Valparaíso, 11 de noviembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
