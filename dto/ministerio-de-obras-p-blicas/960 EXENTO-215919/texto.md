@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 960, de 16 de septiembre
+
+de 2003, y en base a la facultad otorgada por los
+
+artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 116-4A1 para la obra: "Concesión Internacional Ruta 5. Tramo: Collipulli - Temuco. Km. 651,46000 a Km. 656,56000", Novena Región, que figura a nombre de Fuentes Abarzúa Osvaldo, rol de avalúo 570-39, comuna de Lautaro, superficie 193 m2. La comisión de peritos integrada por los señores Yaschala Maribel Yáñez Riffo, Patricio Fernando Casagrande Ulloa y María Soledad Núñez Arroyo, fijó con fecha 18 de julio de 2003, el valor provisional de la indemnización en la cantidad de $756.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
