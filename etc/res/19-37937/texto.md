@@ -1,0 +1,3 @@
+Por Resolución exenta N° 19, de 30 de enero de 1996, del Ministerio de Economía, Fomento y Reconstrucción, dictada en recurso de reclamación interpuesto por PESQUERA REYMAR S.A., rol único tributario N° 96.550.070-7, se dejó sin efecto la resolución N° 1.565, de 1995, que ordenó la caducidad parcial de la resolución N° 933, de 1989, ambas de la Subsecretaría de Pesca, recobrando plena vigencia la autorización otorgada a la nave "Lonquimay" para operar en las condiciones que establece dicha resolución. La Subsecretaría de Pesca procederá a dar cabal cumplimiento a esta resolución.
+
+Santiago, 7 de febrero de 1996.- Raúl Pellicer Navarro, Subsecretario de Economía, Fomento y Reconstrucción (S).
