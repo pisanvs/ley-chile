@@ -1,0 +1,1 @@
+Condona la deuda existente entre la Gota de Leche de San Carlos y la Corporación de Reconstrucción y Auxulio; hace extensivas las disposiciones de la ley 8,690, de 25 de noviembre de 1946 a las instituciones y entidades que menciona, que obtuvieron préstamos para los fines que indica, de la mencionada Corporación.
