@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.543, de 28 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840, se expropió el lote de terreno Nº2-A, superficie 205 m2. para la obra Camino Huepil - Tucapel (N-33-Q), Sector Km. 17.534,75 a Km. 17.852,75 Pte. Los Troncos, que figura a nombre de Alberto Venegas Vega, rol de avalúo 262-43, comuna de Tucapel. La Comisión de Peritos fijó con fecha 26 de diciembre de 1994, el valor provisional de la indemnización en la cantidad de $67.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
