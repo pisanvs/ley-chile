@@ -1,0 +1,3 @@
+Por resolución Nº 1.817 de 18 de agosto de 2000, de esta Subsecretaría, autorízase a COMERCIAL E INDUSTRIAL DEL SUR S.A., para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 446, de 1993, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Puerto Montt, Tepual Km. 9,8, provincia de Llanquihue, X Región, autorizada por la resolución señalada precedentemente, en las líneas de elaboración de Fresco-refrigerado, Congelado, Ahumado y Salado, el recurso hidrobiológico Reineta.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
