@@ -1,0 +1,3 @@
+Por Resolución N° 667 de 11 de Julio de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución N° 1383, de 1992, de esta Subsecretaría, por la cual se autorizó a COMPAÑIA PESQUERA CAMANCHACA S.A., R.U.T. N° 93.711.000-6, para operar la nave "Pacífico I", en el sentido de señalar sus actuales características náuticas.-
+
+Valparaíso, 11 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
