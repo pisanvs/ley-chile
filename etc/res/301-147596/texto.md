@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PISCICOLA RIO PESCADO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 301, de 10 de Abril de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Piscícola Río Pescado Limitada, domiciliada en la localidad de Río Pescado, Comuna y Departamento de Puerto Varas, para capturar 150 reproductores de Salmón plateado, en río Pescado, afluente del Lago Llanquihue, en el período comprendido entre la fecha de este instrumento hasta el 31 de Julio de 1987, con el objeto de obtener productos sexuales de la especie, destinada a reemplazar las importaciones de ovas de salmón por ovas producidas en el país. Para dicho fin utilizará solamente redes de cerco o trampas removibles en el curso del río Pescado o hasta 1.000 m. de su desembocadura en el Lago Llanquihue.
+
+Valparaíso, 10 de Abril de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
