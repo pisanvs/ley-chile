@@ -7562,11 +7562,11 @@ Las instituciones deberán evaluar, a lo menos al cierre de cada ejercicio, la s
 
 3.4.- Amortizaciones.
 
-Los saldos registrados en el activo por cada uno de los programas computacionales adquiridos o desarrollados, se amortizarán linealmente a contar del momento en que comiencen a ser utilizados
+Los saldos registrados en el activo por cada uno de los programas computacionales adquiridos o desarrollados, se amortizarán linealmente de acuerdo con su vida útil estimada.
 
-Atendida la rapidez en la evolución de los cambios tecnológicos y su repercusión en las aplicaciones y sistemas operativos de los equipos, se dispone para el efecto un plazo máximo de amortización de tres años.
+En todo caso, el plazo de amortización de esos programas no podrá exceder de seis años.
 
-En todo caso, las instituciones deberán aplicar plazos menores cuando la vida útil estimada de un determinado programa sea inferior a tres años, debiendo además cumplir con lo dispuesto en el último párrafo del numeral 3.3 precedente y traspasar a resultados la totalidad de los saldos no amortizados correspondientes a programas que dejen de ser utilizados.
+La amortización se acelerará si cambian las circunstancias, debiendo reevaluarse al menos al cierre de cada ejercicio los fundamentos del plazo de amortización que se está aplicando para el programa de que se trate. Se comenzará la amortización a contar del momento en que los programas comiencen a ser utilizados, sin perjuicio de lo indicado en el numeral 3.3 precedente.
 
 4.- Sobreprecio pagado por activos inherentes a un negocio con ventajas competitivas.
 
