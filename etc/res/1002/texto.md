@@ -1,0 +1,3 @@
+Por Resolución Núm. 1002, de 21 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año a contar del 10 de Septiembre de 1992, el plazo otorgado a don RAMON ROBERTO CARDENAS BORQUEZ, R.U.T. N° 4.126.192-7, domiciliado en calle Errázuriz N° 7, Puerto Varas, en el numeral 5° de la Resolución N° 925, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 21 de octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
