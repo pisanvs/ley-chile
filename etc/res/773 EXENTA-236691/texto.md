@@ -1,0 +1,3 @@
+Por resolución exenta Nº 773, de 24 de marzo de 2005, de esta Subsecretaría, autorízase a las organizaciones de pescadores artesanales que se indica, sometidas al Régimen Artesanal de Extracción en la unidad de pesquería de Merluza del sur de la XI Región, a realizar actividades pesqueras extractivas durante el mes de marzo, en las fechas que se señalan en la resolución extractada.
+
+Valparaíso, 24 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
