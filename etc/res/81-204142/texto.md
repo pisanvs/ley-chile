@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 81, de fecha 5 de septiembre del año 2002, se aprobó la Disolución Voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales "Villa Trianon Limitada", que consta en la escritura pública suscrita con fecha 22 de julio del año 2002, ante el Notario Público de Temuco, don Claudio González Rosas.-
+
+Por orden del señor Subsecretario, Raúl Oliva Camadro, Abogado Jefe Departamento Cooperativas.
