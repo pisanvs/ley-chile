@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.161, de 1 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº201112140 presentada por VICENTE ALEJANDRO GONZALEZ RUIZ, para instalar y operar un centro de cultivo ubicado en Bahía Anna Pink, lado noreste de Península Gallegos (sector B), XI Región.
+
+Valparaíso, 1 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
