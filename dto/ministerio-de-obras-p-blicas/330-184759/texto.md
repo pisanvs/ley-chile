@@ -1,0 +1,3 @@
+Por decreto MOP Nº 330, de 28 de febrero de 2001, se expropió el lote de terreno Nº 23-B, superficie 389 m2., rol de avalúo 50-1, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector: Enlace Purranque Oriente, Décima Región y se acordó el valor de indemnización con su propietario Manuel Fernando Vera Navarrete, ascendente a la cantidad de $3.002.066.-
+
+Fiscal del Ministerio de Obras Públicas.
