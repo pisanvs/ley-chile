@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº296 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº25-B, superficie 1.290 m², rol de avalúo Nº204-9, comuna de Los Alamos, para la obra "Camino Ruta P-46, Sector Los Alamos-Sara de Lebu, Km. 0,00000 a Km. 16,84000", VIII Región y se acordó el valor de la indemnización con su propietario Roberto Salgado Toledo, ascendente a la cantidad de $694.422.-
+
+Fiscal del Ministerio de Obras Públicas.
