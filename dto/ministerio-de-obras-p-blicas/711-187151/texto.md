@@ -1,0 +1,5 @@
+Por decreto MOP Nº 711, de 30 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 6 y 8, para la ejecución de la obra ''Mejoramiento el Arroyo, Sector Acceso a Coltauco, Km. 0.000 a Km.
+
+0.675,64'', que figuran a nombre de Suc. Carlos Carrasco Ramírez, Rol de Avalúo 17-6, comuna de Coltauco, VI Región, superficies 601 y 358 m2. La comisión de peritos fijó con fecha 24 de abril de 1998, la indemnización provisional en la cantidad de $2.802.900, lote 6 y $2.339.200, lote 8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
