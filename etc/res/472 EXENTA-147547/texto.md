@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 472 de 28 de Abril de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Fundo Elena y Propiedad Denominada Santa Belarmina, conocidos como Santa Belarmina" de la Comuna de Curicó VII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 4, 6, 8 y ll a la 22, sitios N°s. 1 y 3 al 12, del Proyecto de Parcelación" Zinc - B formado entre otros por predio señalado. Los Derechos de Agua se extraen de los Canales. Nuevos los Niches y Viejo los Niches derivados del río Lentué. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.-
