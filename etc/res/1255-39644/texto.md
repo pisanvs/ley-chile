@@ -1,0 +1,3 @@
+Por Resolución Exenta N°1.255 de 14.10.93, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza complementariamente a la empresa de origen argentino Cooperativa de Trabajo Río Turbio Ltda., para efectuar servicio de transporte terrestre internacional de pasajeros entre 28 de Noviembre - Río Turbio - Villa Minera (Argentina) y Puerto Natales (Chile) y viceversa, utilizando los pasos fronterizos de Dorotea, La Laurita y Casas Viejas, realizando (6) Frecuencias Diarias de Lunes a Viernes y (3) Frecuencias Diarias los días Sábados, Domingo y Festivos.-
+
+Sergio González Tagle, Subsecretario de Transportes.
