@@ -1,0 +1,375 @@
+DECRETO LEY N° 632
+
+(Publicado en el Diario Oficial N° 28.943, de 2 de Septiembre de 1974)
+
+MINISTERIO DE HACIENDA FIJA LAS PLANTAS PARA EL PERSONAL DE LA CASA DE MONEDA DE CHILE
+
+Núm. 632.- Santiago, 26 de Agosto de 1974.- Vistos: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y N° 527, de 1974, la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+
+#### Artículo 1°
+
+El personal de la Casa de Moneda de Chile se distribuirá en las siguientes plantas que regirán a contar desde el 1° de Enero de 1974:
+
+A. Directiva
+
+B. Profesional y Técnica
+
+C. Supervisores
+
+D. Administrativa
+
+E. Operativa
+
+F. Servicios Menores
+
+=======================================================
+
+Grado Escala N°
+
+Unica Funcionarios
+
+-------------------------------------------------------
+
+A.- PLANTA DIRECTIVA
+
+Director_ __ __ __ __ __ __ __ __ 3 1
+
+Sub-Directores_ __ __ __ __ __ __ 4 3
+
+Jefe del Tesoro y Secretario Gral. 5 1
+
+Contralor __ __ __ __ __ __ __ __ 5 1
+
+Jefes de Departamentos__ __ __ __ 5 7
+
+Jefes de Departamentos__ __ __ __ 6 3
+
+Jefe del Sub-Depto. Diseño de
+
+Valores_ __ __ __ __ __ __ __ __ 6 1
+
+Asesor Legal __ __ __ __ __ __ __ 8 1
+
+Ingenieros Jefes__ __ __ __ __ __ 8 4
+
+Jefe Sub-Departamento __ __ __ __ 9 4
+
+Químico Jefe__ __ __ __ __ __ __ 10 1
+
+Jefes de Sub-Deptos__ __ __ __ __ 11 9
+
+Jefes de Sección_ __ __ __ __ __ 12 10
+
+Jefe Proyectista__ __ __ __ __ __ 12 1
+
+Administrador General __ __ __ __ 13 1
+
+Jefes de Sección_ __ __ __ __ __ 13 4
+
+Jefe de Servicio Social_ __ __ __ 13 1
+
+Jefes de Sección_ __ __ __ __ __ 14 9
+
+Asistente Social__ __ __ __ __ __ 15 1
+
+Jefes de Sección_ __ __ __ __ __ 15 4
+
+Constructor Jefe__ __ __ __ __ __ 15 1
+
+Jefes de Grupo_ __ __ __ __ __ __ 16 2
+
+Jefes de Sección_ __ __ __ __ __ 16 11
+
+Jefes de Programación__ __ __ __ 16 2
+
+Ing. Ejecución Proyectista Me-
+
+cánico_ __ __ __ __ __ __ __ __ 16 1
+
+Jefe de Sección__ __ __ __ __ __ 19 1
+
+Educadora de Párvulos__ __ __ __ 21 1
+
+Nutricionista__ __ __ __ __ __ __ 21 1
+
+____
+
+93
+
+B.- PROFESIONAL Y TECNICA
+
+Profesionales__ __ __ __ __ __ __ 5 3
+
+Profesional_ __ __ __ __ __ __ __ 6 1
+
+Profesionales__ __ __ __ __ __ __ 7 3
+
+Profesionales__ __ __ __ __ __ __ 8 4
+
+Profesional_ __ __ __ __ __ __ __ 9 1
+
+Profesional_ __ __ __ __ __ __ __ 10 1
+
+Profesionales y Técnicos__ __ __ 11 2
+
+Profesionales y Técnicos__ __ __ 12 3
+
+Profesional y Técnico__ __ __ __ 13 1
+
+Profesional y Técnico__ __ __ __ 16 1
+
+___
+
+20
+
+Al personal de esta planta se exigirá,
+
+de acuerdo a la naturaleza de las fun-
+
+ciones, título profesional universita-
+
+rio o especialización en Chile o en
+
+el extranjero.
+
+C.- PLANTA DE SUPERVISORES
+
+Jefe de Grupo __ __ __ __ __ __ __ 18 1
+
+Supervisores_ __ __ __ __ __ __ __ 18 17
+
+Jefes de Sección__ __ __ __ __ __ 19 4
+
+Jefes de Línea_ __ __ __ __ __ __ 19 9
+
+Supervisores_ __ __ __ __ __ __ __ 19 2
+
+Supervisores_ __ __ __ __ __ __ __ 20 2
+
+Jefes de Línea_ __ __ __ __ __ __ 20 2
+
+Supervisores_ __ __ __ __ __ __ __ 21 5
+
+Jefes de Línea_ __ __ __ __ __ __ 21 5
+
+Ayudante de Grabador__ __ __ __ __ 21 1
+
+Dibujante_ __ __ __ __ __ __ __ __ 21 1
+
+Operadores Jefes __ __ __ __ __ __ 21 2
+
+Torneros Mayores __ __ __ __ __ __ 21 2
+
+Cepillero Mayor_ __ __ __ __ __ __ 21 1
+
+Rectificador Mayor_ __ __ __ __ __ 21 1
+
+Soldador Mayor__ __ __ __ __ __ __ 21 1
+
+Jefes de Sección__ __ __ __ __ __ 22 2
+
+Jefes de Línea_ __ __ __ __ __ __ 22 4
+
+Jefes de Grupo__ __ __ __ __ __ __ 22 1
+
+Supervisor __ __ __ __ __ __ __ __ 23 1
+
+Analistas_ __ __ __ __ __ __ __ __ 23 2
+
+Jefe de Grupo __ __ __ __ __ __ __ 23 1
+
+Despachador__ __ __ __ __ __ __ __ 24 1
+
+Ayudante Bodega_ __ __ __ __ __ __ 24 1
+
+Practicante__ __ __ __ __ __ __ __ 25 1
+
+Dibujante Lineal __ __ __ __ __ __ 26 1
+
+____
+
+71
+
+D.- PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos__ __ __ 19 10
+
+Oficiales Administrativos__ __ __ 20 6
+
+Oficiales Administrativos__ __ __ 21 7
+
+Oficiales Administrativos__ __ __ 22 6
+
+Oficiales Administrativos__ __ __ 23 5
+
+Oficiales Administrativos__ __ __ 24 4
+
+Oficiales Administrativos__ __ __ 25 3
+
+Oficiales Administrativos__ __ __ 27 3
+
+Oficiales Administrativos__ __ __ 29 3
+
+____
+
+47
+
+El o los cargos de Oficiales Adminis-
+
+trativos de grado 29° se transformarán
+
+en grado 31° a medida que vayan quedan-
+
+do vacantes.
+
+E.- PLANTA OPERATIVA
+
+Sustitúyese la escala de grados fijada
+
+en el DFL. N° 8, de 1972, por lo siguiente:
+
+Grado 1 _ __ __ __ __ __ __ __ __ 19 45
+
+Grado 2 _ __ __ __ __ __ __ __ __ 20 9
+
+Grado 3 _ __ __ __ __ __ __ __ __ 21 20
+
+Grado 4 _ __ __ __ __ __ __ __ __ 22 20
+
+Grado 5 _ __ __ __ __ __ __ __ __ 23 43
+
+Grado 6 _ __ __ __ __ __ __ __ __ 24 52
+
+Grado 7 _ __ __ __ __ __ __ __ __ 25 62
+
+Grado 8 _ __ __ __ __ __ __ __ __ 26 39
+
+Grado 9 _ __ __ __ __ __ __ __ __ 27 17
+
+Grado 10 _ __ __ __ __ __ __ __ __ 28 7
+
+Grado 11 _ __ __ __ __ __ __ __ __ 29 6
+
+Grado 12 _ __ __ __ __ __ __ __ __ 30 3
+
+____
+
+323
+
+El o los cargos de operarios grado 30° se transformarán en grado 33° a medida que vayan quedando vacantes.
+
+F.- PLANTA DE SERVICIOS MENORES
+
+Choferes A __ __ __ __ __ __ __ __ 25 6
+
+Operadora Telefonista A__ __ __ __ 27 1
+
+Controles de Seguridad __ __ __ __ 28 3
+
+Chofer B__ __ __ __ __ __ __ __ __ 29 1
+
+Operadora Telefonista B__ __ __ __ 29 1
+
+Auxiliar__ __ __ __ __ __ __ __ __ 30 1
+
+Auxiliares __ __ __ __ __ __ __ __ 31 3
+
+Auxiliar__ __ __ __ __ __ __ __ __ 32 1
+
+____
+
+17
+
+El cargo de Auxiliar grado 32° se transformará en grado 35° una vez que queden vacantes y el cargo de chofer grado 29° se transformará en grado 33° una vez que quede vacante.
+
+#### Artículo 2°
+
+El personal de las Plantas de Supervisores y Operativa tendrá derecho a percibir una asignación de producción, no imponible, de conformidad a las normas que establezca el Reglamento.
+
+#### Artículo 3°
+
+Fíjanse los siguientes requisitos que deberán acreditar las personas para ocupar los cargos que a continuación se indican:
+
+DIRECTOR__ __ __ __ __ __ __ __ Ingeniero colegiado
+
+SUBDIRECTOR ADMINISTRATIVO__ __ Abogado, Ingeniero
+
+colegiado, Auditor,
+
+Administrador Público
+
+SUBDIRECTOR DE PRODUCCION __ __ Ingeniero colegiado
+
+SUBDIRECTOR INGENIERIA __ __ __ Ingeniero colegiado
+
+ASESOR LEGAL_ __ __ __ __ __ __ Abogado
+
+CONTRALOR_ __ __ __ __ __ __ __ Ingeniero comercial,
+
+Auditor, Administrador
+
+Público
+
+JEFE DEPTO. FINANZAS__ __ __ __ Contador Auditor
+
+JEFE DEPTO. COMERCIALIZACION __ Ingeniero colegiado
+
+JEFE DEPTO. PLANIFICACION __ __ Ingeniero colegiado
+
+JEFE DEPTO. ING. INDUSTRIAL_ __ Ingeniero colegiado
+
+JEFE DEPTO. CONTROL CALIDAD_ __ Ingeniero Ejecución
+
+Químico
+
+JEFE DEPTO. ACUÑACION_ __ __ __ Ingeniero Ejecución
+
+JEFE DEPTO. IMPRESION_ __ __ __ Ingeniero Ejecución
+
+JEFE DEPTO. MANTENIMIENTO __ __ Ingeniero colegiado
+
+2° JEFE DEPTO. ACUÑACION_ __ __ Ingeniero Ejecución
+
+2° JEFE DEPTO. IMPRESION_ __ __ Ingeniero Ejecución
+
+2° JEFE DEPTO. MANTENIMIENTO __ Ingeniero Ejecución
+
+#### Artículo 4°
+
+Para ingresar a la Planta de Supervisores deberá acreditarse, además, de los requisitos estatutarios pertinentes, poseer el título de Licenciado en Escuela Industrial. En cambio, al personal perteneciente a Casa de Moneda que desee ingresar a esa misma Planta, se le exigirá experiencia en el Servicio de a lo menos cinco años.
+
+#### Artículo 5°
+
+El subrogante legal del Director será el Sub-Director más antiguo en Casa de Moneda.
+
+Las subrogaciones restantes dentro de la empresa se efectuarán conforme al orden jerárquico dentro de la respectiva área de Subdirección, Departamentos o Secciones.
+
+#### Artículo 6°
+
+Derógase, a contar desde el 1° de Enero de 1974, el artículo 43 del decreto ley N° 316, de 18 de Febrero de 1974.
+
+#### Artículo 7°
+
+Lo dispuesto en el presente decreto ley no altera ni deroga lo establecido en los decretos leyes N.os 6 y 22, de 1973.
+
+#### Artículo 1°
+
+transitorio.- Autorízase al Director de la Casa de Moneda de Chile para definir los cargos que por única vez serán provistos por Concurso Interno.
+
+Autorízase, además, para que pueda definir aquellos cargos de la naturaleza indicada en el inciso tercero del artículo 22 del decreto ley 534, de 1974, cuya primera provisión deba hacerse por Concurso Externo.
+
+En las nuevas Plantas establecidas en el artículo 1° de este decreto ley deberá incorporarse a todo el personal actualmente en servicio, sea de planta, a contrata, a honorarios o a jornal. Dicho encasillamiento se efectuará discrecionalmente por resolución del Director de la Casa de Moneda. El encasillamiento se hará a contar desde el 1° de Enero de 1974, o en el caso de quienes ingresaron con posterioridad a esa fecha, a partir desde el día de la respectiva designación, sin que les sean exigibles las disposiciones de los artículos 3° y 4° del presente decreto ley y del artículo 14° del DFL. N° 338, de 1960.
+
+#### Artículo 2°
+
+transitorio.- El personal de Casa de Moneda, que a la fecha en que entre en vigencia este decreto ley tenía el derecho establecido en el artículo 132 del DFL. 338, de 1960, continúa en posesión de tal derecho, no obstante el grado que pueda corresponderle en esta reestructuración.
+
+#### Artículo 3°
+
+transitorio.- Se autoriza a la Casa de Moneda de Chile para que dentro del plazo de 30 días, desde el momento en que se paguen las remuneraciones a su personal ajustadas al presente decreto ley, pueda efectuar los aportes previsionales pertinentes sin estar afecta a intereses y sanciones de ninguna especie.
+
+#### Artículo 4°
+
+transitorio.- Autorízase al Director de la Casa de Moneda para prorrogar hasta el día de promulgación del presente decreto ley la fecha de aceptación de las renuncias a que se refieren las resoluciones N.os 48, de 4 de Diciembre de 1973; 51, 52 y 53, de 14 de Diciembre de 1973; 2 y 8, de 14 de Febrero de 1974; 7, de 11 de Marzo de 1974; 11 y 12, de 10 de Abril de 1974, y 14, de 8 de Mayo de 1974, en el caso de que tales personas hayan seguido prestando servicios hasta esta fecha.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Jorge Cauas Lama, Ministro de Hacienda.
