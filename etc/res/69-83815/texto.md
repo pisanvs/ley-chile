@@ -1,0 +1,3 @@
+Por resolución No. 69, de 26 de enero de 1990, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó complementariamente a la empresa peruana Expreso Internacional Ormeño S.A. para efectuar servicio internacional de transporte terrestre de pasajeros entre Lima (Perú) y Buenos Aires (Argentina), en tránsito por territorio chileno, utilizando los pasos fronterizos de Concordia y Cristo Redentor, con cuatro (4) frecuencias mensuales.-
+
+Patricio Figueroa Cruz, Subsecretario de Transportes Subrogante.
