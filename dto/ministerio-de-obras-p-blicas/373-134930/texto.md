@@ -1,0 +1,3 @@
+Por decreto MOP Nº 373, de 26 de febrero de 1999, se expropió el lote de terreno Nº 400-C, superficie 2.830,9 m², rol de avalúo 290-194, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Gustavo Rauch Oliva, ascendente a la cantidad de $1.022.924.-
+
+Fiscal del Ministerio de Obras Públicas.
