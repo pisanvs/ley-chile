@@ -92,6 +92,10 @@ Todo comerciante está obligado a llevar para su contabilidad y correspondencia:
 
 4°. El libro copiador de cartas.
 
+#### Artículo 26
+
+Los libros deberán ser llevados en lengua castellana.
+
 #### Artículo 27
 
 En el libro diario se asentarán por orden cronológico y día por día las operaciones mercantiles que ejecute el comerciante, expresando detalladamente el carácter y circunstancias de cada una de ellas.
