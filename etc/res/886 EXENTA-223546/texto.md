@@ -1,0 +1,3 @@
+Por resolución exenta Nº 886, de 30 de marzo de 2004, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A. para ampliar actividades pesqueras extractivas con la nave "Cullinto", pudiendo capturar los siguientes recursos hidrobiológicos: a) En el área marítima correspondiente a las Regiones VII, IX y X, con cerco: Jibia; b) En el área marítima correspondiente a las Regiones VII, IX y X, por fuera de las 60 millas náuticas, con arrastre de media agua: Jibia.
+
+Valparaíso, 30 de marzo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
