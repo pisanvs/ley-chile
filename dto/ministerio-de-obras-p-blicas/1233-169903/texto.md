@@ -1,0 +1,3 @@
+Por decreto MOP N°1.233, de 31 de marzo del 2000, se expropiaron los lotes de terreno N°s. 279 y 279-2, superficies 4.164 m2. y 51 m2., rol de avalúo 101-117, comuna de Papudo, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Quinta Región, y se acordó el valor de indemnización con su propietario Luis Armando Reinoso Allendes, ascendente a la cantidad total de $7.035.686.
+
+Fiscal de Ministerio de Obras Públicas.
