@@ -4396,133 +4396,143 @@ INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONA
 
 INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
-- Agencia de Cooperación Internacional (AGCI).
+- Agencia de Cooperación Internacional (AGCI)
 
-- Astilleros y Maestranzas de la Armada (ASMAR).
+- Astilleros y Maestranzas de la Armada (ASMAR)
 
-- Carbonífera Victoria-Lebu S.A.(CARVILE)
+- Carbonífera Victoria-Lebu S A (CARVILE)
 
-- Casa de Moneda de Chile.
+- Casa de Moneda de Chile
 
-- Centrales odontológicas de la Armada de Chile de Valparaíso, Viña del Mar y Talcahuano.
+- Centrales odontológicas de la Armada de Chile de Valparaíso, Viña del Mar y Talcahuano
 
-- Centro de Información de Recursos Naturales (CIREN).
+- Centro de Información de Recursos Naturales (CIREN)
 
-- Comando de Apoyo Administrativo del Ejército.
+- Comando de Apoyo Administrativo del Ejército
 
-- Comando de Industria Militar e Ingeniería.
+- Comando de Industria Militar e Ingeniería
 
-- Comercializadora de Trigo S.A. (COTRISA S.A.)
+- ComercializadoradeTrigoSA (COTRISASA)
 
-- Comisión Nacional Investigaciones Científicas y Tecnológicas (CONICYT).
+- Comisión Nacional Investigaciones Científicas y Tecnológicas (CONICYT)
 
-- Corporación de Fomento de la Producción (CORFO).
+- Corporación de Fomento de la Producción (CORFO)
 
-- Corporación de Investigación Tecnológica (INTEC-CHILE).
+- Corporación de Investigación Tecnológica (INTEC-CHILE)
 
-- Cuerpo Militar del Trabajo.
+- Corporación Nacional Forestal (CONAF)
+
+- Cuerpo Militar del Trabajo
 
 - Departamento Bienestar Dirección General de Aeronáutica Civil
 
-- Dirección de Aprovisionamiento del Estado (DAE).
+- Dirección de Aprovisionamiento del Estado (DAE)
 
-- Dirección de Bibliotecas, Archivos y Museos (DIBAM).
+- Dirección de Bibliotecas, Archivos y Museos (DIBAM)
 
-- Dirección de Bienestar de Carabineros de Chile.
+- Dirección de Bienestar de Carabineros de Chile
 
-- Dirección de Previsión de Carabineros de Chile.
+- Dirección de Previsión de Carabineros de Chile
 
-- Dirección de Sanidad de la Armada.
+- Dirección de Sanidad de la Armada
 
-- Dirección General de Crédito Prendario.
+- Dirección General de Aeronáutica Civil
 
-- Dirección General de Deportes y Recreación (DIGEDER).
+- Dirección General de Crédito Prendario
+
+- Dirección General de Deportes y Recreación (DIGEDER)
 
 - Dirección General de Movilización Nacional
 
-- Dirección General de Territorio Marítimo.
+- Dirección General de Territorio Marítimo
 
-- Empresa de Correos de Chile.
+- Empresa de Correos de Chile
 
-- Empresa Abastecimiento de Zonas Aisladas (EMAZA).
+- Empresa Abastecimiento de Zonas Aisladas (EMAZA)
 
-- Empresa de Ferrocarriles del Estado.
+- Empresa de Ferrocarriles del Estado
 
-- Empresa de Obras Sanitarias de Valparaíso S.A. (ESVAL S.A.)
+- Empresa de Obras Sanitarias de Valparaíso S A (ESVAL S A)
 
-- Empresa de Servicios Sanitarios de Antofagasta S.A. (ESSAN S.A.)
+- Empresa de Servicios Sanitarios de Antofagasta S A (ESSAN S A)
 
-- Empresa de Servicios Sanitarios de Atacama S.A. (EMSSAT S.A.)
+- Empresa de Servicios Sanitarios de Atacama S A (EMSSAT S A)
 
-- Empresa de Servicios Sanitarios de Aysén S.A.(EMSSA S.A. )
+- Empresa de Servicios Sanitarios de Aysén S A (EMSSA S A)
 
-- Empresa de Servicios Sanitarios de Coquimbo S.A. (ESSCO S.A.)
+- Empresa de Servicios Sanitarios de Coquimbo S A (ESSCO S A)
 
-- Empresa de Servicios Sanitarios de La Araucanía S.A. (ESSAR S.A.)
+- Empresa de Servicios Sanitarios de La Araucanía S A (ESSAR S A)
 
-- Empresa de Servicios Sanitarios de Los Lagos S.A. (ESSAL S.A.)
+- Empresa de Servicios Sanitarios de Los Lagos S A (ESSAL S A)
 
-- Empresa de Servicios Sanitarios de Magallanes S.A. (ESMAG S.A.)
+- Empresa de Servicios Sanitarios de Magallanes S A (ESMAG S A)
 
-- Empresa de Servicios Sanitarios de Tarapacá S.A. (ESSAT S.A.)
+- Empresa de Servicios Sanitarios de Tarapacá S A (ESSAT S A)
 
-- Empresa de Servicios Sanitarios del Bio-Bio S.A (ESSBIO S.A.)
+- Empresa de Servicios Sanitarios del Bio-Bio S A (ESSBIO S A)
 
-- Empresa de Servicios Sanitarios del Libertador S.A (ESSEL S.A.)
+- Empresa de Servicios Sanitarios del Libertador S A (ESSEL S A)
 
-- Empresa de Servicios Sanitarios del Maulé S.A (ESSAM S A.)
+- Empresa de Servicios Sanitarios del Maulé S A (ESSAM S A)
 
-- Empresa de Transporte de Pasajeros Metro S A. (METRO S.A.)
+- Empresa de Transporte de Pasajeros Metro S A (METRO S A)
 
-- Empresa Eléctrica de Aysén S A (EDELAYSEN S.A.)
+- Empresa Eléctrica de Aysén S A (EDELAYSEN S A)
 
-- Empresa Metropolitana de Obras Sanitarias S A. (EMOS S A.)
+- Empresa Metropolitana de Obras Sanitarias S A (EMOS S A)
 
-- Empresa Nacional de Aeronáutica. (ENAER)
+- Empresa Nacional de Aeronáutica (ENAER)
 
-- Empresa Nacional de Minería. (ENAMI)
+- Empresa Nacional de Minería (ENAMI)
 
-- Empresa Nacional del Carbón S.A. (ENACAR)
+- Empresa Nacional del Carbón S A (ENACAR)
 
-- Empresa Nacional del Petróleo. (ENAP)
+- Empresa Nacional del Petróleo (ENAP)
 
-- Empresa Periodística La Nación S.A.
+- Empresa Periodística La Nación S A
 
-- Empresa Portuaria Antofagasta.
+- Empresa Portuaria Antofagasta
 
-- Empresa Portuaria Arica.
+- Empresa Portuaria Arica
 
 - Empresa Portuaria Chacabuco
 
 - Empresa Portuaria Coquimbo
 
-- Empresa Portuaria de Chile. (EMPORCHI)
+- Empresa Portuaria de Chile (EMPORCHI)
 
-- Empresa Portuaria Iquique.
+- Empresa ortuaria Iquique
 
 - Empresa Portuaria Puerto Montt
+
+- Empresa Portuaria San Antonio
+
+- Empresa Portuaria Talcahuano/San Vicente
+
+- Empresa Portuaria Valparaíso
 
 - Estado Mayor Fuerza Aérea de Chile
 
 - Fábrica y Maestranza del Ejército (FAMAE)
 
-- Fondo Nacional de Desarrollo Tecnológico y Productivo. (FONTEC)
+- Fondo Nacional de Desarrollo Tecnológico y Productivo (FONTEC)
 
 - Imprenta de Carabineros de Chile
 
-- Instituto de Fomento Pesquero. (IFOP)
+- Instituto de Fomento Pesquero (IFOP)
 
-- Instituto Forestal. (INFOR)
+- Instituto Forestal (INFOR)
 
-- Instituto Nacional de Normalización. (I.N.N.)
+- Instituto Nacional de Normalización (I N N)
 
-- Parque Metropolitano de Santiago. Ministerio de Vivienda y Urbanismo.
+- Parque Metropolitano de Santiago Ministerio de Vivienda y Urbanismo
 
-- Polla Chilena de Beneficencia S.A.
+- Polla Chilena de Beneficencia S A
 
-- Servicio Aerofotogramétrico de la Fuerza Aérea de Chile.
+- Servicio Aerofotogramétnco de la Fuerza Aérea de Chile
 
-- Servicio de Bienestar Fuerza Aérea de Chile.
+- Servicio de Bienestar Fuerza Aérea de Chile
 
 - Servicio de Bienestar Subsecretaría de Hacienda
 
@@ -4532,25 +4542,25 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Servicio de Bienestar del Magisterio
 
-- Servicio de Bienestar Social de la Armada.
+- Servicio de Bienestar Social de la Armada
 
-- Servicio de Cooperación Técnica. (SERCOTEC)
+- Servicio d Cooperación Técnica (SERCOTEC)
 
 - Servicio de Obras y Construcciones de la Armada
 
-- Sociedad Agrícola SACOR Ltda. (SACOR LTDA.)
+- Sociedad Agrícola SACOR Ltda (SACOR LTDA)
 
 - Sociedad Agrícola y Servicios Isla de Pascua Ltda (SASIPA)
 
-- Subsecretaría de Telecomunicaciones.
+- Subsecretaría de Telecomunicaciones
 
-- Subsecretaría de Vivienda. Ministerio de Vivienda y Urbanismo.
+- Subsecretaría de Vivienda Ministerio de Vivienda y Urbanismo
 
 - Superintendencia de Bancos e Instituciones Financieras
 
-- Transporte Marítimo Chiloé - Aysén S.A. (TRANSMARCHILAY S.A.)
+- Transporte Marítimo Chiloé - Aysén S A (TRANSMARCHILAY S A)
 
-- Zona Franca Iquique S A (ZOFRI S.A.)
+- Zona Franca Iquique S A (ZOFRIS A)
 
 - MUNICIPALIDADES (todas las Municipalidades del país).
 
