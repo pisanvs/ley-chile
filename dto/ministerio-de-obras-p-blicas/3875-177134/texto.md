@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.875, de 31 de agosto de 2000, se expropió el lote de terreno Nº8, superficie 3.581 m2., rol de avalúo 154-38, comuna de Casablanca, para la obra ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar'', Quinta Región y se acordó el valor de indemnización con su propietario Sergio Salgado Segura, ascendente a la cantidad de $55.368.034.-
+
+Fiscal del Ministerio de Obras Públicas.
