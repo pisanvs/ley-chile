@@ -1,0 +1,3 @@
+Por decreto MOP Nº187, de 27 de febrero de 1998, se expropió el lote de terreno Nº6, superficie 1.198 m2, rol de avalúo 2.087-578, Comuna de Melipilla, para la obra Camino Autopista Santiago - San Antonio, Sector Plaza de Peaje Melipilla 2-3, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Carlos Guerra Mancilla, ascendente a la cantidad de $9.851.472.-
+
+Fiscal del Ministerio de Obras Públicas.
