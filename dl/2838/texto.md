@@ -1,0 +1,53 @@
+CREA "PREMIO NACIONAL DE EDUCACION"
+
+Núm. 2.838.- Santiago, 13 de Agosto de 1979.
+
+Considerando:
+
+Que corresponde al Estado velar por el desarrollo y perfeccionamiento de la educación del país, de modo que ésta permita y garantice a todos los chilenos el pleno desarrollo de su persona;
+
+Que entre quienes más contribuyen a este fin de la educación se encuentran los profesores del sistema nacional de educación;
+
+Que a fin de estimular los valores morales, intelectuales y pedagógicos del Magisterio Nacional, es de toda conveniencia establecer un galardón que reconozca y exalte dichos valores y tenga efecto ejemplarizador;
+
+Visto: Lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974; y 991, de 1976;
+
+La Junta de Gobierno de la República de Chile, ha acordado dictar el siguiente:
+
+Decreto ley:
+
+#### Artículo 1°
+
+Créase el "Premio Nacional de Educación", que se regirá por las disposiciones del presente decreto ley y aquellas contenidas en los artículos 8°, inciso final, 10°, 11° y 12° del decreto ley 681, de 1974, y sus modificaciones posteriores.
+
+#### Artículo 2°
+
+El Premio Nacional de Educación se otorgará cada dos años, en forma indivisible, a un educador que se haya destacado en Chile por sus dotes morales, pedagógicas e intelectuales y por sus acciones relevantes en pro de la educación nacional.
+
+Estas acciones no podrán referirse solamente al campo de la educación superior.
+
+#### Artículo 3°
+
+Se propenderá, sin que ello implique una obligación para el jurado, a que el premio se confiera alternadamente a los educadores que hayan desarrollado su labor en los distintos niveles educacionales.
+
+#### Artículo 4°
+
+El jurado que otorgará el Premio Nacional de Educación estará integrado por el Ministro de Educación Pública, quien lo presidirá; por el Presidente del Instituto de Chile; por el Presidente de la Academia de Ciencias Sociales del Instituto de Chile; por un Rector o ex Rector de una Universidad y por un Vice Rector Académico o Decano de Facultad de una Universidad que imparta carreras pedagógicas.
+
+Estos dos últimos integrantes serán designados por el Consejo de Rectores.
+
+#### Artículo 5°
+
+Los candidatos al premio sólo podrán ser propuestos por las personas e instituciones señaladas en las letras a), b) y c) del artículo 9° del decreto ley N° 681, de 1974.
+
+Las propuestas se formularán mediante un informe documentado de méritos, que será entregado en la Secretaría del Instituto de Chile durante el mes de mayo del año en que deba conferirse el galardón.
+
+Cada una de las instituciones, el conjunto de personas y cada una de las facultades universitarias a que se refieren, respectivamente, las letras a), b) y c) del artículo 9° del decreto ley N° 681, de 1974, no podrán proponer más de un candidato por cada nivel educacional que establece el artículo 3°.
+
+Artículos transitorios ARTICULO 1° El Premio Nacional de Educación será conferido por primera vez el año 1979. Para estos efectos, el plazo del artículo 9° del decreto ley 681, de 1974, se reducirá a un mes.
+
+#### Artículo 2°
+
+Mientras la Academia referida en el artículo 4° de este decreto ley no tenga existencia legal, hará sus veces la Academia de Ciencias Sociales, Políticas y Morales del Instituto de Chile.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- CESAR MENDOZA DURAN.- FERNANDO MATTHEI AUBEL.- Gonzalo Vial.- Sergio de Castro.
