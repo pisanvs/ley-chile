@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.476 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº2, superficie 4.500 m2, rol de avalúo Nº153-52, comuna de Pemuco, para la obra ''Area de Riego Pemuco, Canal El Oyente Ramal 2 Km. 0,018 al Km. 0,483 del Proyecto Laja Diguillín'' y se acordó el valor de indemnización con su propietario Claudio Alfredo Quilodrán Sandoval, ascendente a la cantidad de $1.810.458.
+
+- Fiscal del Ministerio de Obras Públicas.
