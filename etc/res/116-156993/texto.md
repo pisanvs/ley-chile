@@ -1,0 +1,3 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F. N° 116, de 29 de noviembre de 1985, se ha ordenado pagar a la persona que a continuación se indica o a quien acredite derecho como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos m s su reajuste para el lote expropiado para Agua Potable de Yungay, Comuna de Yungay, cuya superficie e indemnización es la siguiente: Lote 1: Corporación de Reforma Agraria (CORA), 9.210 m2., $ 107.573. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a. publicación que se hará en un periódico de la VIII Región.
+
+- Fiscal del Ministerio de Obras Públicas. (10)
