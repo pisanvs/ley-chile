@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.067, de 31 de julio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 51,52 y 53, para la obra Camino Ruta K-16, sector Santa Emilia-Villa Prat Tramo Kms. 26,200 al 37,786.72, que figuran a nombre de Suc. José Floridor Contreras Oyarce, rol de avalúo 139-22, comuna de Sagrada Familia, superficies 620, 340 y 175 M2., respectivamente. La Comisión de Peritos, fijó con fecha 12 de mayo de 1999, en las cantidades de $86.800, lote 51;
+
+$47.600, lote 52 y $34.500, lote 53. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
