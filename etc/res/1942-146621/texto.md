@@ -1,0 +1,9 @@
+Por resolución Nº 1.942, de 29 de septiembre de 1999, autorízase a la UNIVERSIDAD ARTURO PRAT para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del Proyecto denominado ''Mejoramiento genético: Caracterización genética y producción de semillas del recurso Argopecten purpuratus, mejoradas genéticamente'', elaborado por la citada Universidad y aprobado por esta Subsecretaría de Pesca.
+
+El objetivo general de la pesca de investigación que por la presente resolución se autoriza consiste en implementar un programa de mejoramiento genético a cultivos de ostiones, Argopecten purpuratus, para la obtención de semillas mejoradas genéticamente en el centro de cultivo de la Universidad Arturo Prat. La pesca de investigación se efectuará por el término de 60 días, contados desde la fecha de publicación de la presente resolución, en las áreas marítimas correspondientes a los sectores de Mejillones del Norte y Caleta Buena, ubicados en comuna de Huara, provincia de Iquique, I Región.
+
+En cumplimiento del objetivo de la presente pesca de investigación, la peticionaria podrá extraer, mediante buceo semiautónomo, un máximo de 200 ejemplares de la especie Ostión del norte, en las áreas marítimas antes señaladas.
+
+La Universidad Arturo Prat designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº 430, de 1991 del Ministerio de Economía, Fomento y Reconstrucción, al Rector de dicha Casa de Estudios, don Carlos Merino Pinochet.
+
+Valparaíso, 29 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
