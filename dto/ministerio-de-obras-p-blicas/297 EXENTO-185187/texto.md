@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº297 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº13-A, superficie 15 m², rol de avalúo 527-4, comuna de Linares, para la obra "Camino Ruta L-32, Sector: Cruce Ruta 5 - Puente Sifón, Tramo: Km. 2,320 a Km. 17,66644 y km. 0,000 - km. 0,963 (Variante)" y se acordó el valor de indemnización con su propietario Rudecinda Rosa Campos Vásquez, ascendente a la cantidad de $151.409.
+
+Fiscal del Ministerio de Obras Públicas.
