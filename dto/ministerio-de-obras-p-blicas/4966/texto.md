@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.966, de fecha 31 de octubre de 2000, se expropiaron los lotes de terrenos Nºs. 13, 14, 14-A, 15, 15-A, 15-B, 16, 17 y 17-A, superficies 2.549,7 M2, 2.587,7 M2, 4.240,81 M2, 29.824,7 M2. 14.417,5 M2, 4.254,86 M2, 20.448,4 M2, 44.420,9 M2 y 9.853,9 M2, respectivamente, rol de avalúo 356-65, comuna de Constitución, para la obra ''Camino M-24K Quivolgo-Puente Lautaro, Sector B: La Trinchera-Putú (Variante Costera) Km. 13,240 a Km. 30,000'' y se acordó el valor de indemnización con su propietario Agrícola y Forestal Fundo Capellanía Limitada, ascendente a la cantidad de $177.957.166.-
+
+Fiscal del Ministerio de Obras Públicas.
