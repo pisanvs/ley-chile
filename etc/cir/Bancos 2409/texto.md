@@ -39576,7 +39576,7 @@ Las divisas provenientes de coberturas que se efectúen antes de cumplirse el pl
 
 que haya efectuado la venta de divisas o endosado la planilla con los datos necesarios para efectuar la cobertura, según corresponda. En el caso de operaciones cuyo pago se hubiere convenido para una fecha posterior a aquélla en que se cumplan los citados 120 días, dicho depósito deberá mantenerse por lo menos hasta cinco días antes de la fecha de vencimiento pactada.
 
-No obstante lo señalado en el párrafo precedente, cuando se trate de la cobertura de embarques de mercaderías pagaderas a plazo, que consten en una sola factura y en un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 20.000, el referido depósito deberá mantenerse en el Banco Central de Chile hasta el vencimiento pactado.
+No obstante lo señalado en el párrafo precedente, cuando se trate de la cobertura de embarques de mercaderías pagaderas a plazo, que consten en una sola factura y en un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, el referido depósito deberá mantenerse en el Banco Central de Chile hasta el vencimiento pactado.
 
 Las colocaciones originadas en cartas de crédito financiadas por el propio banco o con moneda extranjera vendida condicionalmente, serán canceladas al momento de efectuarse la cobertura.
 
@@ -39628,11 +39628,11 @@ Internacionales de la fecha correspondiente.
 
 Las instituciones bancarias están facultadas para cobrar intereses en moneda extranjera sobre las cartas de crédito a la vista, que hubieren financiado, por el período comprendido entre la fecha de negociación y la de vencimiento del plazo de 120 días contados desde la fecha de embarque, hasta más dos días adicionales. En los casos en que la cobertura se realice después de los
 
-referidos 120 días o cuando se trate de embarques que consten en una sola factura y en un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 20.000, podrán cobrar intereses hasta la fecha de cobertura más dos días, cuando fuere procedente.
+referidos 120 días o cuando se trate de embarques que consten en una sola factura y en un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, podrán cobrar intereses hasta la fecha de cobertura más dos días, cuando fuere procedente.
 
 La tasa de interés que se cobre por estos financiamientos no podrá exceder de la que autorice para estas operaciones el Banco Central de Chile.
 
-Cuando se trate de acreditivos abiertos con una "Venta condicional de moneda extranjera", esto es, que el importador depositó el equivalente en moneda nacional, esos intereses podrán cobrarse, conforme a las normas vigentes, desde la fecha de cobertura o sea desde el instante en que la moneda chilena depositada por el importador es efectivamente utilizada en la compra de divisas,hasta el vencimiento de los 120 días desde la fecha de embarque, más dos días adicionales, si fuera necesario. En el caso de los embarques documentados en una sola factura y en un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 20.000, no podrán cobrar intereses.
+Cuando se trate de acreditivos abiertos con una "Venta condicional de moneda extranjera", esto es, que el importador depositó el equivalente en moneda nacional, esos intereses podrán cobrarse, conforme a las normas vigentes, desde la fecha de cobertura o sea desde el instante en que la moneda chilena depositada por el importador es efectivamente utilizada en la compra de divisas,hasta el vencimiento de los 120 días desde la fecha de embarque, más dos días adicionales, si fuera necesario. En el caso de los embarques documentados en una sola factura y en un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, no podrán cobrar intereses.
 
 6.2.- Sobre cartas de crédito a plazo.
 
@@ -39640,7 +39640,7 @@ En las coberturas correspondientes a cartas de crédito pagaderas a plazo, podr�
 
 vencimiento de la carta de crédito, los bancos podrán agregar intereses por el período comprendido entre esta última fecha y la fecha de cobertura hasta más dos días adicionales, cuando corresponda.
 
-No obstante lo señalado en el párrafo precedente, cuando se trate de embarques documentados mediante una sola factura y un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 20.000, los bancos sólo podrán cobrar intereses, además de los del proveedor, por el período comprendido entre la fecha de vencimiento de la carta de crédito y la fecha de la cobertura, hasta más dos días adicionales, cuando proceda.
+No obstante lo señalado en el párrafo precedente, cuando se trate de embarques documentados mediante una sola factura y un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, los bancos sólo podrán cobrar intereses, además de los del proveedor, por el período comprendido entre la fecha de vencimiento de la carta de crédito y la fecha de la cobertura, hasta más dos días adicionales, cuando proceda.
 
 La tasa de interés que se pacte con el proveedor no podrá ser superior a la autorizada por el Banco Central de Chile, para estos efectos.
 
@@ -39650,7 +39650,7 @@ Los intereses que cobren los bancos por el período en que hubieran financiado l
 
 En las coberturas de importaciones en cobranza, podrán adicionarse intereses a favor del proveedor o cedente extranjero, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la cobertura de la cobranza, hasta más dos días adicionales. En todo caso, si la cobertura se efectuare antes de los 120 días de la fecha de embarque o del vencimiento pactado, los intereses podrán cubrirse hasta la fecha en que se cumpla el mayor de dichos plazos, pudiendo adicionarlo en hasta dos días, encaso necesario.
 
-No obstante lo señalado en el párrafo precedente, cuando se trate de embarques correspondientes a una sola factura y a un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 20.000, los bancos podrán adicionar intereses del proveedor o del cedente, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la fecha de la cobertura o del vencimiento pactado, según cual sea posterior, hasta más dos días adicionales, en caso necesario.
+No obstante lo señalado en el párrafo precedente, cuando se trate de embarques correspondientes a una sola factura y a un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, los bancos podrán adicionar intereses del proveedor o del cedente, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la fecha de la cobertura o del vencimiento pactado, según cual sea posterior, hasta más dos días adicionales, en caso necesario.
 
 La tasa de interés no podrá ser superior a la autorizada por el Banco Central de Chile, para estos efectos.
 
@@ -39658,9 +39658,9 @@ La tasa de interés no podrá ser superior a la autorizada por el Banco Central 
 
 La remesa de las divisas al exterior para el pago de la respectiva importación o su rembolso a la institución bancaria, cuando se trate de importaciones efectuadas con financiamiento bancario, no podrá realizarse antes de cumplido el plazo de 120 días contado desde la fecha de embarque, salvo cuando se trate de embarques de mercaderías que consten en una sola factura y en un solo
 
-conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 20.000, caso en el cual la remesa o rembolso se hará en la oportunidad que corresponda, de acuerdo con las condiciones de pago que se hubieren pactado.
+conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, caso en el cual la remesa o rembolso se hará en la oportunidad que corresponda, de acuerdo con las condiciones de pago que se hubieren pactado.
 
-En los casos en que el importe de la cobertura haya sido depositado en el Banco Central de Chile, éste será devuelto en la fecha en que se cumplan los 120 días desde la fecha de embarque o en la fecha de vencimiento de la obligación, si ella fuere posterior. En todo caso, cuando se trate de embarques correspondientes a una sola factura y a un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 20.000, el referido depósito podrá ser girado cuando corresponda hacer el pago de la importación. La devolución de dicho depósito, se efectuará mediante abono en la cuenta corriente del respectivo banco, sin que sea necesaria solicitud alguna para tal efecto.
+En los casos en que el importe de la cobertura haya sido depositado en el Banco Central de Chile, éste será devuelto en la fecha en que se cumplan los 120 días desde la fecha de embarque o en la fecha de vencimiento de la obligación, si ella fuere posterior. En todo caso, cuando se trate de embarques correspondientes a una sola factura y a un solo conocimiento de embarque, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, el referido depósito podrá ser girado cuando corresponda hacer el pago de la importación. La devolución de dicho depósito, se efectuará mediante abono en la cuenta corriente del respectivo banco, sin que sea necesaria solicitud alguna para tal efecto.
 
 Cuando el importe de la cobertura deba ser enviado al extranjero o entregado a otro banco situado en el país, su remesa deberá efectuarse a más tardar el día siguiente hábil bancario después de la fecha en que se realizó la venta de las divisas o de la recuperación del depósito constituido en el Banco Central de Chile, según corresponda.
 
