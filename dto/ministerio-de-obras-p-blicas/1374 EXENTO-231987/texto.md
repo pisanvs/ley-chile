@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 1.374, de 30 de septiembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s 1, 2 y 4, para la obra: Camino Ruta 201 - Ch, sector Pullinque - Coñaripe, Tramo Km.
+
+3,62561 a Km. 26,15718 (Acceso a Puente), que figuran a nombre de Curilem Chihuaicura Luisa y Otros y Figueroa Jaramillo Adria y Otros, roles de avalúo 246-103 y 244-186, comuna de Panguipulli, X Región, superficies 1.187,79 M2., 537,79 M2. y 381,65 M2. La comisión de peritos fijó con fecha 5 de agosto de 2003, en las cantidades de $1.306.569, para el lote Nº 1, $591.569, para el lote Nº 2 y $1.006.485, para el lote Nº 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
