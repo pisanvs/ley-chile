@@ -1,0 +1,5 @@
+Por R.M (Ex.) Nº 56 de 15 de marzo de 2001 del Ministerio de Economía, Fomento y Reconstrucción, acógese parcialmente el recurso de reclamación interpuesto por Pesquera Oceanica 1 S.A., en contra de la resolución Nº 177 y 161 ambas de 2001, de la Subsecretaría de Pesca.
+
+En consecuencia, considérese en la determinación de su límite máximo de captura, las siguientes capturas totales de la nave "Oceánica 4", en las unidades de pesquerías y meses que se indica: Unidad de Pesquería de Jurel, X Región, individualizada en el artículo 2º letra d) de la ley Nº 19.713: Julio de 1998: 1.013 toneladas; Unidad de Pesquería de Merluza de Cola, V a X regiones, individualizada en el artículo 2º letra f) de la ley Nº 19.713. enero de 1998: 2.355 toneladas; agosto de 1999: 55 toneladas; Noviembre de 1999: 1.438 toneladas; diciembre de 1999: 627 toneladas; octubre de 2000: 18 toneladas; noviembre de 2000: 222,34 toneladas; diciembre de 2000: 3.381,74 toneladas.
+
+José de Gregorio Rebeco, Ministro de Economía, Fomento y Reconstrucción.
