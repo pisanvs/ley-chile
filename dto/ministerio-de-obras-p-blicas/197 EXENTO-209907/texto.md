@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 197 de fecha 31 de marzo del 2003, se expropio el lote de terreno Nº 3-A, superficie 2.840 m2, Rol Nº 308-166, comuna de Melipeuco, IX Región para la obra "Camino Melipeuco - Icalma, Sector Melipeuco - Tracura. Km. 97,50000 a Km. 104,2038" y se acordó el valor de indemnización con su propietario Rosa Emilia Huenchuman Llanquitru y otro, ascendente a la cantidad de $1.256.404.
+
+Fiscal del Ministerio de Obras Públicas.
