@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.193 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº23-C superficie 237,5 m²., Rol en Trámite, comuna de Teno, para la obra "Camino Ruta J-25-, Sector: Cruce Longitudinal-La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Ricardo Manuel Silva Barrios, ascendente a la cantidad de $486.744.-
+
+Fiscal del Ministerio de Obras Públicas.
