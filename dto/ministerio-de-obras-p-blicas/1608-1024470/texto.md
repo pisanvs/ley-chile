@@ -144,17 +144,19 @@ No obstante lo anterior, a las "viviendas económicas" que se construyan en las 
 
 <!-- parte:9133342 -->
 
-La superficie edificada se calculará sobre la base de medidas obtenidas en obra gruesa, más el 50% de los espacios abiertos cubiertos como balcones, loggias, jardines, terrazas, etc., los que no podrán exceder del 7% de la superficie interior.
+La superficie total edificada por unidad de vivienda o departamento será la resultante de sumar las siguientes superficies parciales:
 
-#### Artículo 12
+a) La superficie interior, medida en obra gruesa por el perímetro exterior de la vivienda. En el caso de las viviendas adosadas y de los departamentos, se medirá por el eje de los muros medianeros, inclusive los que deslindan con los espacios comunes;
+
+b) El 50% de las superficies abiertas cubiertas, no considerándose los balcones y terrazas descubiertos;
+
+c) El 100% de la parte que proporcionalmente corresponde a los departamentos en el prorrateo de las superficies comunes a que refiere el artículo 111º de la Ley General de Urbanismo y Construcciones.
+
+#### Artículo 12º
 
 <!-- parte:9133343 -->
 
-Artículo, 12.o En los edificios de departamentos se considerarán como espacios comunes las circulaciones horizontales y verticales (incluso ascensores), recintos de caldera, estanques y deartamentos del mayordomo no superior a 35 metros cuadrados.
-
-En los departamentos superiores a 100 m2. la superficie máxima se calculará incluyendo el prorrateo proporcional de los espacios comunes.
-
-En los departamentos inferiores a 100 m2., la superficie se calculará sin incluir los espacios comunes.
+El presupuesto sobre el cual se pagarán los derechos del permiso municipal se atendrá a la superficie calculada en la forma que establece el artículo anterior, y a las tablas de costo a que se refieren los artículos 126º y 127º de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 13º
 
