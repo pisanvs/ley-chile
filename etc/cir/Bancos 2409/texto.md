@@ -21658,223 +21658,173 @@ MATERIA:
 
 PREPARACION Y PUBLICACION DE ESTADOS FINANCIEROS ANUALES.
 
-### I. NORMAS DE CARACTER GENERAL
+I.- DISPOSICIONES GENERALES.
 
-### 1. Preparación de los estados financieros
+1.- Preparación de los estados financieros.
 
-Los estados financieros anuales destinados a la publicación o a la circulación, deberán confeccionarse de acuerdo con las instrucciones del presente Capítulo y con las demás normas contables e instrucciones específicas impartidas por esta Superintendencia.
+Los estados financieros anuales incluirán el Balance General, el Estado de Resultados, el Estado de Flujo de Efectivo y las correspondientes Notas.
 
-### 2. Entrega de los estados financieros a esta Superintendencia
+Las instituciones que tengan participación en sociedades filiales, como asimismo los bancos que mantengan sucursales en el exterior, deberán preparar y publicar estados financieros consolidados con sus filiales y sucursales, sin perjuicio de hacerlo además con sus estados financieros individuales.
 
-Las instituciones fiscalizadas deberán enviar a esta Superintendencia, debidamente firmados, sus estados financieros y el correspondiente informe de los auditores externos, a más tardar el duodécimo día hábil bancario del mes de enero.Las instituciones fiscalizadas deberán enviar a esta Superintendencia, debidamente firmados, sus estados financieros individuales y el correspondiente informe de los auditores externos, a más tardar el duodécimo día hábil bancario del mes de enero.
+Los estados financieros serán comparativos con el ejercicio anterior y se expresarán en millones de pesos con un decimal.
 
-Los estados financieros consolidados a que se refiere el título VI de este Capítulo, podrán enviarse posteriormente en los casos que corresponda, debiendo mediar, en todo caso, un lapso de 15 días corridos entre la fecha de envío y la fecha de publicación de dichos estados en el periódico.
+El Balance General, el Estado de Resultados y las Notas se presentarán según las instrucciones contenidas en los títulos II y III de este Capítulo.
 
-En caso de que este Organismo Fiscalizador ordene cambios en el contenido de los estados financieros como consecuencia de la revisión señalada en el N° 3 siguiente, se deberán remitir nuevamente éstos, con las rectificaciones o información complementaria requeridas. Para ese efecto las instituciones dispondrán de un plazo de cuatro días hábiles a contar de la comunicación de esta Superintendencia.
+El Estado de Flujo de Efectivo se preparará de acuerdo con los Boletines Técnicos N°s. 50 y 65 del Colegio de Contadores de Chile A.G., utilizando el método y formato que la institución estime más adecuado.
 
-Cualquier estado financiero referido al ejercicio anual, que se prepare con el propósito de darlo a conocer a terceros, deberá enviarse a esta Superintendencia y se entregará al usuario con un dictamen de los auditores externos.
+En general, en todo aquello que no se encuentre regulado por esta Superintendencia, las instituciones se ceñirán a criterios contables de general aceptación.
 
-### 3. Revisión de los estados financieros
+2.- Entrega de los estados financieros a esta Superintendencia.
 
-Con el propósito de velar por la objetividad y uniformidad en la presentación de la información y el cumplimiento de estas instrucciones, esta Superintendencia revisará los estados financieros con la profundidad que estime necesaria, sin perjuicio de revisiones más extensas que posteriormente pudiera efectuar.
+Las instituciones financieras deberán enviar sus estados financieros a esta Superintendencia a lo menos diez días hábiles bancarios antes de su publicación y en todo caso a más tardar el último día hábil bancario del mes de enero.
 
-Como consecuencia de esa revisión general, este Organismo Contralor ordenará, cuando lo estime necesario, rectificaciones de la información incluida en los estados financieros o la incorporación de antecedentes adicionales no informados y que estime relevantes, como asimismo, si fuere el caso, la eliminación de aquella información que a su juicio no sea importante o pertinente para una mejor comprensión de la situación de la empresa.
+Para el efecto se enviarán tres ejemplares, debidamente firmados, con el respectivo dictamen de los auditores externos, incluyendo los estados financieros individuales y los consolidados, cuando corresponda.
 
-Para revisar los estados financieros este Organismo Fiscalizador podrá, de acuerdo con las circunstancias, solicitar aclaraciones a las instituciones fiscalizadas o a sus auditores externos, exigir la entrega de información específica, verificar antecedentes a través de inspecciones o requerir los papeles de trabajo de los auditores externos, especialmente cuando se trate de alguna revisión posterior.
+3.- Publicación de los estados financieros.
 
-### 4. Publicación o entrega a terceros de los estados financieros
+3.1.- Publicación en el periódico.
 
-4.1. Autorización para publicar.
+Las instituciones financieras deberán publicar sus estados financieros individuales y consolidados, en forma conjunta con los estados financieros de sus subsidiarias, a más tardar el último día del mes de febrero.
 
-Mientras esta Superintendencia no lo autorice, las instituciones fiscalizadas deberán abstenerse de publicar en un periódico o en cualquier otro medio, todo o parte de la información que contienen o pudieran contener los estados financieros y de entregar información a terceros, ajenos a la empresa o a la firma de auditores contratada.
+Al respecto, cabe hacer presente que, de conformidad con lo dispuesto en el N° 12 del artículo 49 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación de los estados financieros auditados en el plazo que señala la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que lo publicaron.
 
-La autorización para publicar los estados financieros no representa una certificación de la razonabilidad o correcta preparación de ellos como tampoco de los antecedentes que les sirvieron de base, pudiendo tales estados quedar sujetos a revisiones posteriores.
+Las publicaciones en el periódico podrán efectuarse incluyendo sólo aquellas notas que para el efecto se señalan en el Anexo N° 3 de este Capítulo, a cuyas instrucciones deberán ceñirse las instituciones que se acojan a esta disposición.
 
-En el evento de que los estados financieros que se publiquen o circulen, contengan errores o no se ciñan a las normas impartidas, esta Superintendencia podrá exigir, entre otras medidas, una nueva publicación con información rectificada.
+Dentro de los cuatro días hábiles bancarios siguientes a la publicación, las instituciones enviarán a esta Superintendencia dos ejemplares de la publicación o fotocopias de la misma. El mismo procedimiento se seguirá en el evento de que publique todo o parte de los estados financieros con posterioridad.
 
-4.2. Publicación en el periódico.
+3.2.- Memoria de la sociedad.
 
-Las instituciones financieras deberán publicar sus estados financieros individuales a más tardar el duodécimo día hábil bancario del mes de febrero.
+Las instituciones financieras deberán enviar a esta Superintendencia tres ejemplares de la Memoria de la sociedad, a más tardar en la fecha del primer aviso de convocatoria a Junta Ordinaria de Accionistas.
 
-Sin perjuicio de lo anterior, las instituciones que deban preparar estados financieros consolidados, deberán publicar también dichos estados, lo cual se hará en una publicación conjunta con los estados financieros de sus subsidiarias, a más tardar el último día del mes de febrero.
+II.- ESTADOS FINANCIEROS INDIVIDUALES.
 
-Lo anterior no es óbice para publicar conjuntamente el balance consolidado, el individual y el de las filiales, dentro del plazo señalado en el primer párrafo de este número.
+1.- Balance General y Estado de Resultados.
 
-Al respecto, cabe hacer presente que, de conformidad con lo dispuesto en el N° 12 del artículo 49 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación de los estados financieros auditados en el plazo que señala la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que lo publicaron. Las publicaciones en el periódico podrán efectuarse incluyendo sólo aquellas notas que para el efecto se señalan en el Anexo N° 3 de este Capítulo, a cuyas instrucciones deberán ceñirse las instituciones que se acojan a esta disposición.
+El Balance General y el Estado de Resultados se presentarán según los modelos e instrucciones incluidos en el Anexo N° 1 de este Capítulo.
 
-4.3. Nombres y firmas.
+2.- Notas a los estados financieros.
 
-Los estados financieros deberán incluir, a continuación de la última nota, los nombres y la indicación del cargo, del Gerente General y del Contador General, o de quienes hagan sus veces y, a conveniencia de la institución, podrá agregarse la de otros ejecutivos. Los estados financieros que se envíen a esta Superintendencia deberán ser firmados por dichas personas. En la publicación que se haga en un periódico o en otros medios destinados a la circulación no será obligación incluir las firmas correspondientes.
+Los estados financieros individuales incluirán las siguientes notas, en los casos que corresponda, con la información que se establece en este título:
 
-### II. BALANCE GENERAL Y ESTADO DE RESULTADOS NO CONSOLIDADOS
+– Principales criterios contables utilizados.
 
-### 1. Criterios contables
+– Cambios contables.
 
-Los estados financieros anuales, al igual que la demás información de carácter contable que se envía a esta Superintendencia, deben tener su origen en los saldos del libro mayor al cierre del ejercicio; en caso alguno su preparación podrá incluir ajustes no registrados en la contabilidad. Se entiende que los saldos contables corresponden a aquellos que se obtienen de aplicar las normas impartidas por esta Superintendencia y que, a falta de éstas, se han utilizado criterios contables de aceptación general.
+– Hechos relevantes.
 
-### 2. Ajustes contables de cierre
+– Operaciones con partes relacionadas.
 
-Las instituciones fiscalizadas deberán tomar todas las medidas necesarias para que los saldos demostrados en los estados financieros no incluyan cuentas por aclarar o sujetas a confirmaciones, cuya aclaración o regularización dependa de una mera cuestión de desfase en la información pertinente o de la agilidad administrativa de la propia institución. De manera que, entre otros, los saldos de las operaciones con sucursales o de las cuentas de operaciones pendientes, deben encontrarse depurados o conciliados en el momento del cierre definitivo de las cuentas de mayor.
+– Inversiones en sociedades.
 
-### 3. Presentación de los saldos
+– Provisiones.
 
-El balance general y el estado de resultados se presentarán según los modelos que se muestran en el Anexo N° 1 de este Capítulo. En el mismo Anexo se incluyen las instrucciones para adecuar los formatos estándares de acuerdo con la situación que se presente en cada empresa. Las cifras se expresarán en millones de pesos, con un decimal y, cuando corresponda, se mostrarán en paréntesis. Los valores que deben incluirse en cada una de las líneas (partidas de los modelos de publicación) se obtendrán mediante agrupaciones de los saldos de las partidas dispuestas por esta Superintendencia para el Sistema Contable, y otros procedimientos que se detallan en el Anexo N° 1 de este Capítulo.
+– Patrimonio.
 
-### III. NOTAS A LOS ESTADOS FINANCIEROS
+– Inversiones.
 
-### 1. Notas que deben contener los estados financieros
+– Vencimientos de activos y pasivos.
 
-1.1. Información sobre hechos comunes en el sistema financiero.
+– Saldos de moneda extranjera.
 
-El balance general y el estado de resultados deberán acompañarse con las siguientes notas, en los casos que corresponda:
+– Operaciones con productos derivados.
 
-- Principales criterios contables utilizados.
+– Contingencias, compromisos y responsabilidades.
 
-- Cambios contables.
+– Comisiones.
 
-- Operaciones con partes relacionadas.
+– Otros ingresos de operación.
 
-- Inversiones en sociedades.
+– Otros gastos de operación.
 
-- Provisiones.
+– Ingresos no operacionales.
 
-- Patrimonio.
+– Gastos no operacionales.
 
-- Inversiones.
+– Impuestos diferidos.
 
-- Vencimientos de activos y pasivos.
+– Compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
 
-- Saldos de moneda extranjera.
+– Gastos y remuneraciones del Directorio.
 
-- Operaciones con productos derivados.
+Las notas se presentarán siguiendo el orden de prelación en que se han mencionado, debiéndose incluir sólo aquellas que sean aplicables según las instrucciones de los números siguientes.
 
-- Contingencias, compromisos y responsabilidades.
+En caso de que, conforme a criterios contables de general aceptación, sea necesario revelar hechos o situaciones especiales no contempladas en las instrucciones para la preparación de las notas antes mencionadas, se agregará la información pertinente en las mismas o en notas complementarias, según sea el caso.
 
-- Comisiones.
+3.- Notas referidas a los criterios contables.
 
-- Otros ingresos de operación.
+En la primera nota de los estados financieros se informará brevemente acerca de los principales criterios contables utilizados en su preparación. Para ese efecto se utilizará el modelo incluido en el Anexo N° 4 de este Capítulo, en lo que sea aplicable.
 
-- Otros gastos de operación.
+Cuando corresponda, en una segunda nota se indicarán los cambios en los criterios contables que hayan existido en relación con los aplicados en el ejercicio anterior, cuando la adopción de los nuevos criterios tenga un efecto significativo, debiéndose indicar la naturaleza, justificación y efectos de tales cambios en el resultado neto y en los rubros de los estados financieros.
 
-- Ingresos no operacionales.
+4.- Nota sobre hechos relevantes.
 
-- Gastos no operacionales.
+Deberán indicarse en esta nota todos los hechos ocurridos durante el período cubierto por los estados financieros o entre la fecha de cierre y la fecha de preparación de éstos, que hayan tenido durante el ejercicio o puedan tener en lo futuro, una influencia o efecto significativo en el desenvolvimiento de las operaciones de la institución o en los estados financieros.
 
-- Compras, ventas, sustituciones o canjes de créditos de la cartera de
-
-colocaciones.
-
-- Gastos y remuneraciones del Directorio.
-
-Estas notas comprenden, en general, aquellos aspectos que son comunes a más de una institución financiera y se incluirán siguiendo el orden de prelación en que se han mencionado. Cada institución incluirá sólo aquellas que son aplicables en su caso, de acuerdo con las instrucciones específicas sobre su presentación.
-
-A fin de lograr una uniformidad en la presentación de los antecedentes, las notas se prepararán de acuerdo con las especificaciones incluidas en los Anexos de este Capítulo, los cuales contienen textos o cuadros demostrativos cuyo uso es obligatorio, salvo que existan situaciones especiales no previstas en las instrucciones, que hagan imprescindible adecuar un texto.
-
-1.2. Información sobre hechos poco frecuentes o propios de la entidad reportante.
-
-La necesidad de exponer otros hechos u operaciones no contemplados en las instrucciones para la preparación de las notas mencionadas en el numeral precedente, dependerá de la situación que se presente en el banco o sociedad financiera en particular y para ello deben tenerse presente las siguientes instrucciones:
-
-a) Obligación de incluir información acerca de todos los hechos relevantes.
-
-Deberán indicarse en notas adicionales todos los hechos ocurridos durante el período cubierto por los estados financieros o entre la fecha de cierre y la fecha de preparación de éstos, que hayan tenido durante el ejercicio o puedan tener en lo futuro, una inñuencia o efecto significativo en el desenvolvimiento de las operaciones de la institución o en los estados financieros.
-
-Para cumplir con lo anterior deberá considerarse la información esencial a que se refiere la Ley N° 18.045 sobre Mercado de Valores y el Capítulo 18-10 de esta Recopilación Actualizada de Normas, incluyendo todo aquello que sea relevante según lo señalado en el párrafo anterior.
+Para cumplir con lo anterior deberá considerarse la información esencial a que se refiere la Ley Nº 18.045 sobre Mercado de Valores y el Capítulo 18-10 de esta Recopilación Actualizada de Normas, incluyendo todo aquello que sea relevante según lo señalado en el párrafo precedente.
 
 Excepcionalmente, se podrá omitir la revelación de información esencial, cuando ella se refiera a negociaciones pendientes a la fecha de preparación de los estados financieros y sólo si la divulgación de ésta pueda afectar los intereses de la institución. Con todo, esta reserva de información solamente podrá decidirse por acuerdo del Directorio y siempre que se cumpla con lo dispuesto en el Art. 10 de la Ley N° 18.045.
 
-En todo caso, no se presentarán notas complementarias para reiterar materias que deben exponerse en otras notas o que pueden incorporarse en ellas para una mejor comprensión.
+5.- Nota sobre operaciones con partes relacionadas.
 
-b) Revelaciones requeridas por los auditores externos.
-
-Las instituciones financieras podrán incluir en notas complementarias toda la información que permita á los auditores externos emitir su opinión sin necesidad de extenderse sobre una materia determinada en párrafos explicativos de su dictamen por no haberse indicado el detalle de ella en las notas.
-
-c) Información adicional exigida por esta Superintendencia.
-
-Si la información de las notas no incluye hechos que estén en conocimiento de esta Superintendencia y que ésta considera importantes para apreciar la situación de la empresa, se podrá exigir que se agregue la información omitida, salvo que se trate, naturalmente, de negociaciones pendientes que el Directorio de la empresa haya acordado mantener en reserva por las razones indicadas en la letra a) de este numeral.
-
-### 2. Expresión monetaria de los saldos
-
-Las cifras que se incluyan en las notas se expresarán en millones de pesos, con un decimal.
-
-### 3. Redacción de las notas adicionales
-
-En los casos en que la redacción de las notas adicionales que deben insertarse no haya sido expresamente señalada por esta Superintendencia, las instituciones financieras deberán tener especial cuidado en que el significado de la información que entreguen sea claro.
-
-En general, las notas deben ser suficientemente precisas, para evitar errores de interpretación acerca de la incidencia o importancia de los hechos mencionados en ellas.
-
-En caso que este Organismo estime que la redacción de tales notas no es adecuada, el texto de ellas deberá ajustarse de acuerdo con las observaciones que formule esta Superintendencia.
-
-### 4. Contenido de cada una de las notas
-
-4.1 - Nota relativa a criterios contables aplicados.
-
-En la primera nota de los estados financieros se informará brevemente acerca de los principales criterios contables utilizados en su preparación. Para ese efecto se utilizará la redacción estándar incluida en el Anexo N°4 de este Capítulo.
-
-4.2.- Nota sobre cambios contables
-
-En una segunda nota se indicarán los cambios en los criterios contables que hayan existido en relación con los aplicados en el ejercicio anterior, cuando la adopción de los nuevos criterios tenga un efecto significativo, debiéndose indicar la naturaleza, justificación y efectos de tales cambios en el resultado neto y en los rubros de los estados financieros.
-
-4.3. Nota sobre operaciones con partes relacionadas.
-
-Esta nota se presentará con información separada bajo los siguientes títulos: "a) Créditos otorgados a personas relacionadas"; y,
-
-c) Otras operaciones con partes relacionadas", debiendo utilizarse la redacción incluida en el Anexo N° 5 de este Capítulo, cuando corresponda.
+Esta nota se presentará con información separada bajo los siguientes títulos: "a) Créditos otorgados a personas relacionadas"; y, "b) Otras operaciones con partes relacionadas", debiendo utilizarse la redacción incluida en el Anexo N° 5 de este Capítulo, cuando corresponda.
 
 Para los efectos de esta nota, se entienden como partes relacionadas a las personas naturales o jurídicas vinculadas con la institución financiera según lo instruido en el Capítulo 12-4 de esta Recopilación Actualizada de Normas.
 
 Esta nota deberá incluirse también en el caso en que no existan operaciones o saldos que deban informarse, siguiendo para el efecto la redacción señalada en el Anexo 5.
 
-4.3.1. Información sobre créditos a personas relacionadas.
+5.1.- Información sobre créditos a personas relacionadas.
 
 La primera parte de la nota (letra a) contendrá la información relativa a las colocaciones y demás créditos, incluidos sus intereses por cobrar, otorgados a personas relacionadas con la institución.
 
-La información relativa a los créditos otorgados a personas relacionadas se presentará sobre la base de aquellos que se consideran para efectos de los limites de que trata el Capítulo 12-4 de esta Recopilación. Por consiguiente, en la nota se informarán tanto los créditos que se incluyen en el activo del Balance General, sea que se trate de colocaciones, operaciones con pacto o inversiones financieras, como aquellos créditos vigentes y vencidos que estuvieren registrados solamente en cuentas de orden, debiéndose indicar además, cuando corresponda, el importe total de las operaciones castigadas en los últimos cuatro años que se computan para esos límites, todo ello sin considerar los créditos otorgados a personas naturales que tengan un total de créditos igual o inferior a 3.000 UF.
+La información relativa a los créditos otorgados a personas relacionadas se presentará sobre la base de aquellos que se consideran para efectos de los límites de que trata el Capítulo 12-4 de esta Recopilación.Por consiguiente, en la nota se informarán tanto los créditos que se incluyen en el activo del Balance General,sea que se trate de colocaciones, operaciones con pacto o inversiones financieras, como aquellos créditos vigentes y vencidos que estuvieren registrados solamente en cuentas de orden, debiéndose indicar además,cuando corresponda, el importe total de las operaciones castigadas en los últimos cuatro años que se computan para esos límites, todo ello sin considerar los créditos otorgados a personas naturales que tengan un total de créditos igual o inferior a 3.000 UF.
 
 Junto con las cifras correspondientes a los créditos otorgados, se incluirán los montos a que ascienden sus respectivas garantías, considerando sólo aquellas que cumplan con las características especificadas en el artículo 84 de la Ley General de Bancos. Para este efecto las instituciones deberán atenerse a las disposiciones del Capítulo 12-3 de esta Recopilación Actualizada de Normas, incluidas las instrucciones sobre su valorización.
 
-4.3.2. Información sobre otras operaciones con partes relacionadas.
+5.2.- Información sobre otras operaciones con partes relacionadas.
 
-En la segunda parte de esta nota letra b) se revelarán los antecedentes relativos a contratos, prestaciones de servicios y otras operaciones celebrados o realizados con personas naturales o jurídicas relacionados, con excepción de aquellas transacciones que normalmente originan resultados que deben presentarse en las partidas 5105 a 5720 y 7105 a 7725.
+En la segunda parte de la nota (letra b) se revelarán los antecedentes relativos a contratos, prestaciones de servicios y otras operaciones celebrados o realizados con personas naturales o jurídicas relacionadas, con excepción de aquellas transacciones que normalmente originan resultados que deben presentarse en las partidas 5105 a 5720 y 7105 a 7725.
 
 La información acerca de las transacciones con partes relacionadas debe referirse, al menos, a lo siguiente:
 
-- Nombre o razón social de las personas que hayan efectuado operaciones con la institución. Si el nombre de fantasía de una empresa es más conocido por el público, debe incluirse éste en paréntesis.
+– Nombre o razón social de las personas que hayan efectuado operaciones con la institución. Si el nombre de fantasía de una empresa es más conocido por el público, debe incluirse este en paréntesis.
 
-- Descripción de la transacción, incluyendo información de los importes monetarios involucrados, efecto en los resultados, saldos por cobrar o por pagar al cierre del ejercicio, condiciones de cobro o pago y, en general toda la información necesaria para entender el efecto de dichas transacciones en los estados financieros.
+– Descripción de la transacción, incluyendo información de los importes monetarios involucrados, efecto en los resultados, saldos por cobrar o por pagar al cierre del ejercicio, condiciones de cobro o pago y, en general, toda la información necesaria para entender el efecto de dichas transacciones en los estados financieros.
 
-- Se debe mencionar, además, si las condiciones en que se realizaron las transacciones eran las mismas que ofrecía el mercado en esa oportunidad o, de no ser así, indicar las que imperaban en el mercado en ese momento.
+– Se debe mencionar, además, si las condiciones en que se realizaron las transacciones eran las mismas que ofrecía el mercado en esa oportunidad o, de no ser así, indicar las que imperaban en el mercado en ese momento.
 
 Deben considerarse todos los contratos con vigencia en cualquier momento del ejercicio, aun cuando estén extinguidos al cierre de éste y aquéllos que se hayan suscrito con posterioridad, hasta la fecha de preparación de los estados financieros, informándolos, en este último caso, como hechos posteriores.
 
-Será obligatorio incluir las operaciones con un detalle que individualice a cada persona relacionada, solamente cuando el importe total involucrado en el o los contratos o el monto total de las transacciones efectuadas con ella, sea igual o superior al equivalente de 5.000 Unidades de Fomento. Las demás operaciones efectuadas con partes relacionadas se incluirán en forma resumida, totalizando los importes según los tipos de operaciones, mencionando éstas en forma genérica (por ejemplo: "Arriendos", "Asesorías", etc.), pudiendo omitirse todas aquellas transacciones que individualmente no superen el equivalente de 1.000 Unidades de Fomento.
+Será obligatorio incluir las operaciones con un detalle que individualice a cada persona relacionada, solamente cuando el importe total involucrado en el o los contratos o el monto total de las transacciones efectuadas con ella, sea igual o superior al equivalente de 5.000 Unidades de Fomento.Las demás operaciones efectuadas con partes relacionadas se incluirán en forma resumida, totalizando los importes según los tipos de operaciones, mencionando éstas en forma genérica (por ejemplo: "Arriendos", "Asesorías", etc.), pudiendo omitirse todas aquellas transacciones que individualmente no superen el equivalente de 1.000 Unidades de Fomento.
 
-4.4. Nota sobre inversiones en sociedades.
+6.- Nota sobre inversiones en sociedades.
 
-En esta nota se identificarán las sociedades en las cuales la institución tenga una participación igual o superior al 10% sobre el capital pagado o las utilidades de la sociedad de que se trate. Se mostrará el importe registrado en el activo por cada inversión, el porcentaje de participación en esas sociedades y los resultados obtenidos por la aplicación del método del Valor Patrimonial Proporcional (VPP).
+Esta nota deberán presentarla las instituciones financieras que tengan una participación igual o superior al 10% en alguna sociedad o puedan elegir o designar a lo menos un miembro en el Directorio o Administración de ella, salvo que hayan dejado de tener esa participación en el curso del ejercicio, caso en el cual podrán adecuar la nota para mencionar esa circunstancia si ello constituye un hecho relevante.
+
+Se mostrará el importe registrado en el activo por cada inversión, el porcentaje de participación en las sociedades y los resultados obtenidos por la aplicación del método del Valor Patrimonial Proporcional (VPP).
 
 La información se presentará de la forma que se señala en el Anexo N° 6 de este Capítulo.
 
-Esta nota deberán presentarla solamente las instituciones financieras que tengan una participación igual o superior al 10% en alguna sociedad o puedan elegir o designar a lo menos un miembro en el Directorio o Administración de ella, salvo que hayan dejado de tener esa participación en el curso del ejercicio, caso en el cual podrán adecuar la nota para mencionar esa circunstancia si ello constituye un hecho relevante.
-
-4.5. Nota sobre provisiones.
+8.- Nota sobre provisiones.
 
 En esta nota se mostrará la composición y movimiento de las provisiones para cubrir riesgos de activos y la información relativa a las provisiones voluntarias, siguiendo para el efecto el modelo incluido en el Anexo N° 7 de este Capítulo.
 
-4.6.- Patrimonio.
+9.- Nota sobre patrimonio.
 
-Esta nota estará compuesta por dos partes La primera se referirá al patrimonio contable y la segunda al capital básico y patrimonio efectivo en relación con las exigencias de la Ley General de Bancos sobre patrimonio mínimo.
+Esta nota estará compuesta por dos partes. La primera se referirá al patrimonio contable y la segunda al capital básico y patrimonio efectivo en relación con las exigencias de la Ley General de Bancos sobre patrimonio mínimo. Ambas partes de esta nota deberán redactarse considerando el tipo de información y cuadros demostrativos incluidos en el Anexo N° 8 de este Capítulo.
 
-La primera parte de la nota deberá contener todos los antecedentes necesarios para entender la composición y el movimiento del capital pagado, reservas y las demás cuentas patrimoniales de la institución, y el destino de la utilidad del ejercicio o, si fuere el caso, la forma como se absorberá la pérdida.
+9.1.- Información sobre el patrimonio contable.
 
-En general, con respecto al capital pagado, utilidades retenidas y otras reservas, se demostrará resumidamente el movimiento que tuvieron las cuentas patrimoniales en el ejercicio. Asimismo se informará, cuando corresponda, sobre los acuerdos de la junta de accionistas que tengan relación con esos cambios y aquellos acuerdos que incidirán o pueden incidir en el capital pagado y en las reservas que se muestran al cierre del ejercicio. En lo que se refiere a las utilidades del ejercicio, se señalarán, cuando proceda, las restricciones en el reparto de utilidades y los importes susceptibles de distribuirse como dividendos o de remesarse, sujetos a la decisión de la junta de accionistas o de la casa matriz, en su caso
+La primera parte de la nota deberá contener todos los antecedentes necesarios para entender la composición y el movimiento del capital pagado, reservas y las demás cuentas patrimoniales de la institución, y el destino de la utilidad del ejercicio de que se trate y del inmediatamente anterior o, si fuere el caso, la forma como se absorberá la pérdida.
+
+En general, con respecto al capital pagado, utilidades retenidas y otras reservas, se demostrará resumidamente el movimiento que tuvieron las cuentas patrimoniales en ambos ejercicios. Asimismo se informará, cuando corresponda, sobre los acuerdos de la junta de accionistas que tengan relación con esos cambios y aquellos acuerdos que incidirán o pueden incidir en el capital pagado y en las reservas que se muestran al cierre de los ejercicios. En lo que se refiere a las utilidades de los ejercicios, se señalarán, cuando proceda, las restricciones en el reparto de utilidades y los importes susceptibles de distribuirse como dividendos o de remesarse, sujetos a la decisión de la junta de accionistas o de la casa matriz, en su caso.
 
 En particular deberá informarse, cuando sea pertinente, sobre las siguientes materias:
 
 a) Acciones suscritas y pagadas;
 
-b) Aumentos de capital enterados en el ejercicio y autorizaciones y acuerdos de aumentos de capital por enterar;
+b) Aumentos de capital enterados en cada ejercicio y autorizaciones y acuerdos de aumentos de capital por enterar;
 
-c) Acuerdos de constitución de reservas y repartos de dividendos con cargo a las utilidades del ejercicio anterior y dividendos repartidos o remesas de utilidades, realizadas o autorizadas durante el ejercicio;
+c) Acuerdos de constitución de reservas y repartos de dividendos con cargo a las utilidades del ejercicio anterior y dividendos repartidos o remesas de utilidades, realizadas o autorizadas durante los ejercicios;
 
 d) Restricciones en el reparto u obligaciones de repartir dividendos;
 
@@ -21882,47 +21832,41 @@ e) Absorción de pérdidas contra capital y reservas; y,
 
 f) Cualquier otra información importante sobre esta materia.
 
-En la segunda parte de la nota se incluirá información acerca de los indicadores de Basilea, la determinación del capital básico y patrimonio efectivo para estos efectos, como asimismo el cómputo de los activos totales y su clasificación y ponderación por riesgo
+9.2.- Información sobre el capital básico y patrimonio efectivo.
 
-Ambas partes de esta nota deberán redactarse considerando el tipo de información y cuadros demostrativos incluidos en el Anexo N° 8 de este Capítulo.
+En la segunda parte de la nota se incluirá información acerca de los indicadores de Basilea, la determinación del capital básico y patrimonio efectivo para estos efectos, como asimismo el cómputo de los activos totales y su clasificación y ponderación por riesgo.
 
-4.7. Nota de Inversiones.
+10.- Nota de inversiones.
 
-Esta nota tiene por objeto mostrar la composición de los saldos del rubro de "Inversiones" del balance general, y se presentará con información separada bajo los siguientes títulos: "a) Inversiones financieras"; y, "b) Otras inversiones".
+Esta nota tiene por objeto mostrar la composición de los saldos del rubro de "Inversiones" del balance general, y se presentará con información separada bajo los siguientes títulos: "a) Inversiones financieras"; y, "b) "Otras inversiones".
 
-La presentación se hará según los modelos que se incluyen en el Anexo N° 9 de este Capítulo, pudiendo agregarse información complementaria con mayor detalle si se estima necesario.
+La presentación se hará según los modelos que se incluyen en el Anexo N° 9 de este Capítulo.
 
-4.8. Nota de vencimientos de activos y pasivos.
+11.- Nota de vencimientos de activos y pasivos.
 
-El objeto de esta nota es mostrar la distribución de los activos y pasivos, según sus plazos remanentes a contar de la fecha a que está referido el balance general. La nota se presentará de la forma que se muestra en el Anexo N° 10 de este Capítulo.
+El objeto de esta nota es mostrar la distribución de los flujos de los principales activos y pasivos, según sus plazos remanentes a contar de la fecha a que está referido el balance general, incluyendo en consecuencia los intereses calculados hasta la fecha de vencimiento. La nota se presentará de la forma que se muestra en el Anexo N° 10 de este Capítulo
 
-4.9. Nota sobre saldos en monedas extranjeras.
+12.- Nota sobre saldos en monedas extranjeras.
 
-En esta nota deben incluirse los saldos que se mantienen en moneda extranjera, incluyendo tanto los activos y pasivos pagaderos en monedas extranjeras, como aquellos expresados en moneda extranjera y pagaderos en moneda chilena o reajustables por la variación del tipo de cambio.
+En esta nota deben incluirse los saldos que se mantienen en moneda extranjera, incluyendo tanto los activos y pasivos pagaderos en monedas extranjeras, como aquellos expresados en moneda extranjera y pagaderos en moneda chilena o reajustables por la variación del tipo de cambio. La información se presentará considerando lo indicado en el Anexo N° 11 de este Capítulo.
 
-Toda esta información se presentará en la forma indicada en el Anexo N° 11 de este Capítulo.
+13.- Nota sobre productos derivados.
 
-4.10. Nota sobre productos derivados.
+En esta nota se informarán las operaciones que la institución mantiene al cierre del ejercicio por concepto de contratos de operaciones de futuros, forward y swaps y combinaciones de estos, sobre monedas y sobre tasas de interés, tanto en el mercado local como en el mercado externo. La información corresponderá a la que se indica en el Anexo N° 12 de este Capítulo.
 
-En esta nota se informarán las operaciones que la institución mantiene al cierre del ejercicio por concepto de contratos de compras y ventas a futuro de moneda extranjera, operaciones de futuros, forward y swaps de monedas en el mercado externo, contratos de protección de tasas de interés en el mercado internacional y forward en unidades de fomento. La información se entregará conforme a lo que se indica en el Anexo N° 12 de este Capítulo.
+14.- Nota de contingencias y compromisos no registrados en pasivos.
 
-4.11. Nota de contingencias y compromisos no registrados en pasivos.
+En esta nota se incorporará toda la información que se refiere a contingencias de pérdidas significativas, recursos comprometidos, pasivos de carácter contingente no reflejados en el balance general como tales y otras responsabilidades.
 
-En esta nota se incorporará toda la información que se refiere a contingencias de pérdidas significativas, recursos comprometidos, pasivos de carácter contingente no reflejados en el balance general como tales y otras responsabilidades. Sin perjuicio de la posibilidad de hacer referencia a hechos expuestos en otras notas cuando sea necesario, éstos no se repetirán ni explicarán nuevamente en esta nota.
+Los compromisos y responsabilidades que se encuentren registrados en cuentas de orden de acuerdo con las normas de esta Superintendencia, se presentarán según las instrucciones contenidas en el Anexo N° 13 de este Capítulo.
 
-La nota deberá incluir, si es el caso, los hechos relevantes pertinentes ocurridos después de la fecha de cierre, los que se informarán como hechos posteriores.
-
-Atendido que, de acuerdo con las normas de esta Superintendencia, ciertos compromisos o responsabilidades se encuentran registrados en cuentas de orden, la nota tendrá una primera parte, signada con la letra "a) ", que debe prepararse según las instrucciones contenidas en el Anexo 13 de este Capítulo.
-
-Las contingencias y compromisos que no se encuentren registrados en las cuentas de orden dispuestas por esta Superintendencia y que se incluyan en la nota, deberán presentarse bajo títulos, que sean concordantes con el contenido. Cada título se identificará con una letra, siguiendo un orden alfabético a partir de la letra "b).
-
-4.12.- Nota sobre comisiones.
+15.- Nota sobre comisiones.
 
 En esta nota se detallarán los principales conceptos que componen los ingresos y gastos por comisiones que se muestran en el Estado de Resultados, siguiendo al efecto el modelo que se incluye en el Anexo N° 14 de este Capítulo.
 
-4.13.- Notas referidas a otros ingresos y gastos de operación y resultados no operacionales.
+16.- Notas referidas a otros ingresos y gastos de operación y resultados no operacionales.
 
-Las notas referidas a "Otros ingresos de operación", "Otros gastos de operación", "Ingresos no operacionales" o "Gastos no operacionales", se presentarán sólo si el monto que se refleja en el Estado de Resultados es relativamente importante, debiéndose indicar los principales componentes del rubro.
+Las notas referidas a "Otros ingresos de operación", "Otros gastos de operación", "Ingresos no operacionales" o "Gastos no operacionales", se relativamente importante, debiéndose indicar los principales componentes del rubro.
 
 Para ese efecto, se incluirá una nota cuando:
 
@@ -21932,11 +21876,15 @@ b) Los "Ingresos no operacionales" o los "Gastos no operacionales", comparados e
 
 En estas notas quedarán desglosados todos los conceptos que superen el 10% del rubro que corresponde detallar, debiendo en todo caso la parte no desglosada que se incluya como "otros", ser inferior al monto a partir del cual se exige la presentación de la respectiva nota.
 
-4.14.- Nota sobré compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
+17.- Nota sobre impuestos diferidos.
 
-Esta nota deberá presentarse cuando la institución haya efectuado compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones, que por cualquier motivo hayan tenido un efecto significativo en el resultado del ejercicio.
+Se incluirá en esta nota la información que para este efecto se indica en el Boletín Técnico N° 60 del Colegio de Contadores de Chile A.G.
 
-La presentación de la nota será obligatoria solamente cuando el resultado de una transacción realizada en el ejercicio o bien el resultado del conjunto de ellas, sea igual o superior al 5% del "Excedente antes de impuestos" que se muestra en el Estado de Resultados.
+18.- Nota sobre compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
+
+Esta nota deberá presentarse cuando la institución haya efectuado compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones, que por cualquier motivo hayan tenido un efecto significativo en el resultado de los ejercicios.
+
+La presentación de la nota será obligatoria solamente cuando el resultado de una transacción realizada en el respectivo ejercicio o bien el resultado del conjunto de ellas, sea igual o superior al 5% del "Excedente antes de impuestos" que se muestra en el Estado de Resultados.
 
 La información sobre las operaciones se incluirá de acuerdo con las siguientes pautas:
 
@@ -21944,67 +21892,23 @@ a) se informarán los montos totales de los créditos objeto de esas transaccion
 
 b) se indicarán los efectos de esas transacciones en cuanto al aumento o liberación de provisiones que generen, como asimismo se señalarán las consecuencias de tales operaciones en los resultados de la institución.
 
-4.15. Nota de gastos y remuneraciones del Directorio.
+19.- Nota de gastos y remuneraciones del Directorio.
 
-En esta nota se deberá indicar el total de los estipendios pagados a los miembros del Directorio, ya sea por su calidad de tales como por servicios prestados o por cualquier otro concepto. Se indicarán todos los valores que fueron cargados a los resultados del ejercicio, tanto por los desembolsos efectuados como por las provisiones constituidas, así como también aquellos desembolsos que al cierre del ejercicio no hayan sido reconocidos como gastos.
+En esta nota se deberá indicar el total de los estipendios pagados a los miembros del Directorio, ya sea por su calidad de tales como por servicios prestados o por cualquier otro concepto. Se indicarán todos los valores que fueron cargados a los resultados de los ejercicios, tanto por los desembolsos efectuados como por las provisiones constituidas, así como también aquellos desembolsos que al cierre de los ejercicios no hayan sido reconocidos como gastos.
 
-Se podrá agregar toda la información que se estime necesaria, cuando ésta, presentada como un solo total pueda, a juicio de algún director, afectar sus intereses o cuando se considere conveniente indicar la naturaleza de los principales desembolsos. La redacción de esta nota queda a criterio de la administración.
+Se podrá agregar toda la información que se estime necesaria, cuando ésta, presentada como un solo total pueda, a juicio de algún director, afectar sus intereses o cuando se considere conveniente indicar la naturaleza de los principales desembolsos.
 
-### IV. INFORMACION DE RESPALDO
-
-La Administración deberá tomar todas las medidas que correspondan para que, ante requerimientos de este Organismo Contralor, sea posible demostrar en forma clara y expedita, en la oportunidad en que se solicite, lo siguiente:
-
-a) Conciliación entre los saldos contables informados a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información y los saldos expuestos en los estados publicados;
-
-b) Fuentes de información utilizadas para la preparación de los antecedentes que contienen las notas a los estados financieros y composición o agrupación de las cifras contenidas en éstos; y,
-
-c) Antecedentes y recopilación de datos que no se obtuvieron directamente de la información que maneja el área de contabilidad y responsabilidad de los funcionarios o ejecutivos que participaron en la entrega o confirmación de dichos antecedentes para la preparación de los estados financieros.
-
-Además de esa información,las instituciones que deban presentar estados financieros consolidados según lo dispuesto en el título VI de este Capítulo, deberán mantener a disposición de esta Superintendencia, las hojas de trabajo y documentación que sustenta la preparación de esos estados.
-
-### V. INFORMACION QUE SE DEBE ENVIAR A ESTA SUPERINTENDENCIA Y PLAZOS
-
-### 1. Información que debe entregarse
-
-Las instituciones financieras deberán enviar la siguiente información, de la forma que se indica:
-
-a) Tres ejemplares de los estados financieros individuales, con el correspondiente informe de los auditores externos, para dar cumplimiento a lo señalado en N° 2 del título I de este Capítulo. Las hojas deben entregarse foliadas o encuadernadas junto con el informe de los auditores. Este último podrá contener un timbre que asegure el uso restringido de la opinión.
-
-b) Del mismo modo, deberán remitirse tres ejemplares de los estados financieros consolidados, cuando corresponda.
-
-c) Dos ejemplares de la publicación o fotocopias de la misma, efectuada en el periódico, con la firma del Gerente General, o quien haga sus veces, en cada una de las hojas que sean parte de ella, como constancia de conformidad con lo publicado. Estos antecedentes deberán enviarse, también, en el evento de que se vuelvan a publicar los estados financieros con posterioridad.
-
-d) Tres ejemplares de la memoria de la sociedad.
-
-e) En el caso de prepararse estados financieros con cifras expresadas en moneda extranjera, para su circulación en el exterior, deberá enviarse sólo un ejemplar, el que excepcionalmente podrá presentarse en calidad de borrador.
-
-Se enviará además cuando sea requerida y con la debida oportunidad, para los efectos señalados en el N° 3 del título I de este Capítulo, la información específica que sea solicitada, la que puede incluir, si fuere necesario, los antecedentes de respaldo de que trata el título IV de este Capítulo.
-
-2.- Plazos.
-
-Las obligaciones que emanan de las presentes normas deberán cumplirse dentro de los plazos que se instruyen a continuación:
-
-.
-
-VI.- ESTADOS FINANCIEROS CONSOLIDADOS.
-
-Las instituciones que tengan participación en sociedades filiales, como asimismo los bancos que mantengan sucursales en el exterior, deberán preparar y publicar estados financieros consolidados con sus filiales y sucursales, de acuerdo con las instrucciones de este título.
-
-Constituyen sociedades filiales para estos efectos, todas aquellas en las cuales la institución financiera posee directa o indirectamente más de la mitad del derecho a voto, sea que se trate de una filial bancaria o de una empresa de apoyo al giro.
+III.- ESTADOS FINANCIEROS CONSOLIDADOS.
 
 1.- Bases de preparación.
 
-Los balances consolidados se prepararán de acuerdo con criterios contables generalmente aceptados, cuyos procedimientos se describen en los Boletines Técnicos N°s. 42 y 64 del Colegio de Contadores de Chile A.G.
+Los estados financieros consolidados se prepararán de acuerdo con criterios contables generalmente aceptados, cuyos procedimientos se describen en los Boletines Técnicos N°s. 42 y 64 del Colegio de Contadores de Chile A.G.
 
-De acuerdo con lo establecido en los Capítulos 11-6 y 11-7 de esta Recopilación, las instituciones financieras deben efectuar una consolidación a una sola línea de sus subsidiarias, reconociendo en el método de contabilización del Valor Patrimonial Proporcional (VPP) tanto los efectos de los resultados no realizados como de la aplicación de los criterios seguidos por la matriz, cuando corresponda, conforme a criterios contables generalmente aceptados.
+La integración de los saldos en el Balance General, Estado de Resultados y Estado de Flujo de Efectivo consolidados, debe hacerse de acuerdo con los criterios de exposición de la matriz. Además se considerará lo indicado en el N° 2 siguiente para el balance y estado de resultados.
 
-El mismo criterio de importancia relativa o procedencia de aquellos ajustes conforme a principios contables de aceptación general, debe seguirse tanto para la consolidación global (línea a línea) con las filiales, como para consolidar una sucursal en el exterior.
+2.- Formato del Balance General y Estado de Resultados.
 
-Todo lo anterior es sin perjuicio de que la integración de los saldos línea a línea en el balance y estado de resultados consolidados, debe hacerse de acuerdo con los criterios de exposición de la matriz, considerando además lo indicado en el N° 2 siguiente.
-
-2.- Formato de los estados consolidados.
-
-Los estados financieros consolidados se prepararán de acuerdo con el modelo incluido en el Anexo N° 2 de este Capítulo, el cual comprende algunas instrucciones conducentes a uniformar la presentación de ciertas operaciones específicas de filiales.
+El Balance General y Estado de Resultados consolidados, se prepararán de acuerdo con el modelo incluido en el Anexo N° 2 de este Capítulo, el cual comprende algunas instrucciones conducentes a uniformar la presentación de ciertas operaciones específicas de filiales.
 
 3.- Notas a los estados financieros consolidados.
 
@@ -22022,7 +21926,7 @@ d) El criterio de presentar el interés minoritario en rubros separados en el ba
 
 3.2.- Demás notas a los estados financieros consolidados.
 
-Las demás notas a los estados financieros consolidados se incluirán de acuerdo con lo establecido en el título III de este Capítulo, debiendo efectuarse las adecuaciones del caso para incorporar los saldos u operaciones de las filiales y eliminar los saldos entre las compañías que se consolidan, cuando corresponda.
+Las demás notas a los estados financieros consolidados se incluirán de acuerdo con lo establecido en el título II de este Capítulo, debiendo efectuarse las adecuaciones del caso para incorporar los saldos u operaciones de las filiales y eliminar los saldos entre las compañías que se consolidan, cuando corresponda.
 
 ANEXO N°1
 
@@ -22032,37 +21936,31 @@ I.- MODELO DE ESTADOS FINANCIEROS INDIVIDUALES.
 
 II.- ADAPTACION DE LOS MODELOS.
 
-La presentación del Balance General y del Estado de Resultados deberá hacerse de acuerdo con los modelos anteriores, aun cuando en algunas líneas no se muestren saldos, lo que se indicará con un guión Sin embargo, deben tenerse presente las siguientes excepciones.
+La presentación del Balance General y del Estado de Resultados deberá hacerse de acuerdo con los modelos anteriores, aun cuando en algunas líneas no se muestren saldos, lo que se indicará con un guión ("-"). Sin embargo, deben tenerse presente las siguientes excepciones:
 
-a) Las sociedades financieras no presentarán la línea "ACREEDORES EN CUENTAS
-
-CORRIENTES" (H1)
+a) Las sociedades financieras no presentarán la línea "ACREEDORES EN CUENTAS CORRIENTES" (H1).
 
 b) Las instituciones financieras que no hayan sido autorizadas para efectuar operaciones de leasing, podrán omitir las líneas "CONTRATOS DE LEASING" (B5) y "ACTIVOS PARA LEASING" (D5).
 
-c) Los resultados por operaciones de cambio deben mostrarse en forma neta Por consiguiente, se utilizará sólo la línea que corresponda al resultado neto, ya sea "UTILIDAD DE CAMBIO NETA" o "PERDIDA DE CAMBIO NETA", excluyéndose la que no corresponda.
+c) Los resultados por operaciones de cambio deben mostrarse en forma neta. Por consiguiente, se utilizará sólo la línea que corresponda al resultado neto, ya sea "UTILIDAD DE CAMBIO NETA" o "PERDIDA DE CAMBIO NETA", excluyéndose la que no corresponda en caso de que no presente saldo en ambos ejercicios.
 
-d) Por último, en caso de resultados negativos, pueden modificarse los nombres que contienen las expresiones "EXCEDENTE" y "UTILIDAD", considerando que se incluyen cifras comparativas.
+d) Por último, en caso de resultados negativos, pueden modificarse los nombres que contienen las expresiones "EXCEDENTE" y "UTILIDAD", considerando que se incluyen cifras comparativas
 
-III.- REAGRUPACIONES DE SALDOS
+III.- REAGRUPACIONES DE SALDOS.
 
-Para obtener las cifras que corresponde presentar en el balance general a partir de los saldos que se informan en el Sistema de Información de esta Superintendencia, se sumarán los saldos de las partidas que se indican más adelante y, además, se efectuarán las reagrupaciones que se señalan a continuación.
+Para obtener las cifras que corresponde presentar en el balance general a partir de los saldos que se informan en el Sistema de Información de esta Superintendencia, se sumarán los saldos de las partidas que se indican más adelante y, además, se efectuarán las reagrupaciones que se señalan a continuación:
 
-1. - Para la presentación de las inversiones financieras.
+1.- Para la presentación de las inversiones financieras.
 
 El importe de la partida 1750 "Ajuste a Valor de mercado de inversiones transables" deberá saldarse, sólo para efectos de presentación, contra las líneas D1, D2 y D3, a fin de presentar las inversiones con sus respectivos ajustes, teniendo en cuenta lo indicado en el párrafo siguiente.
 
-Junto con lo anterior, las letras de crédito de propia emisión a su valor de mercado (saldos contenidos en las partidas 1735 y 1750) se incluirán deduciendo el pasivo (línea H5).
+2.- Por diversas cuentas del activo y del pasivo.
 
-2.- Por diversas cuentas del activo y del pasivo
+En el Balance General deberán agruparse varios saldos o partidas en las líneas "OTROS ACTIVOS" (E) y "OTROS PASIVOS" (K), con los saldos netos que se obtendrán de los siguientes ajustes o reagrupaciones y de la suma de las partidas que se indican:
 
-En el Balance General deberán agruparse varios saldos o partidas en las líneas "OTROS ACTIVOS" (E) y "OTROS PASIVOS" (K), con los saldos netos que se obtendrán de los siguientes ajustes o reagrupaciones y de la suma de las partidas que más adelante se indican:
+Los saldos que componen las partidas comprendidas en los rubros "Cuentas de Ajuste y Control", deudoras o acreedoras, se incorporarán estableciendo previamente el importe neto de los saldos de aquellas partidas relacionadas entre sí, con excepción de las cuentas "Contratos a futuro". Para realizar estos ajustes se considerarán las cuentas en moneda extranjera por su equivalente en moneda chilena al tipo de cambio de representación contable vigente al cierre del ejercicio.
 
-a) El monto de los pagos provisionales de impuestos (P.P.M.) incluidos los gastos de capacitación imputables al pago de impuestos, se presentarán junto con las provisiones que se hayan constituido con ese mismo objeto, de manera que se demuestre sólo la obligación neta o los impuestos por recuperar netos, según corresponda, en el pasivo o en el activo.
-
-b) Los saldos que componen las partidas comprendidas en los rubros "Cuentas de Ajuste y Control", deudoras o acreedoras, se incorporarán estableciendo previamente el importe neto de los saldos de aquellas partidas relacionadas entre sí, con excepción de las cuentas "Contratos a futuro". Para realizar estos ajustes se considerarán las cuentas en moneda extranjera por su equivalente en moneda chilena al tipo de cambio de representación contable vigente al cierre del ejercicio.
-
-El mismo procedimiento se seguirá en el caso de los saldos que reflejan los importes de las operaciones a futuro de la partida 2127 con respecto a los de las respectivas cuentas de la partida 4127. En este caso deben considerarse también las cuentas asociadas correspondientes a "Contratos a futuro" antes mencionadas, de las partidas 2525 y 4525
+El mismo procedimiento se seguirá en el caso de los saldos que reflejan los importes de las operaciones a futuro de la partida 2127 con respecto a los de las respectivas cuentas de la partida 4127. En este caso deben considerarse también las cuentas asociadas correspondientes a "Contratos a futuro" antes mencionadas, de las partidas 2525 y 4525.
 
 3.- Por recuperación de colocaciones castigadas.
 
@@ -22072,7 +21970,9 @@ Los saldos correspondientes a ingresos por recuperación de colocaciones castiga
 
 Las demás reclasificaciones que deben efectuarse en relación con los importes que se muestran en las partidas del Sistema de Información, se indican en las instrucciones de la sección IV siguiente, en lo que toca a situaciones en que no bastaría la simple agrupación de saldos a nivel de partidas.
 
-IV.- PARTIDAS QUE DEBEN SUMARSE.
+### IV. PARTIDAS QUE DEBEN SUMARSE
+
+LINEA PARTIDAS (No se indican algunas partidas cuyos saldos deben ser objeto de las reagrupaciones antes señaladas. Los números de referencia corresponden a las instrucciones al final de esta sección)
 
 .
 
@@ -22086,27 +21986,23 @@ OBSERVACIONES:
 
 INSTRUCCIONES:
 
-1: Incluye solamente las provisiones por riesgo de crédito y riesgo-país de las colocaciones En el evento de que, por razones extraordinarias, se hubieren constituido provisiones especiales por operaciones interbancarias (no consideradas en el método de clasificación de cartera) o con pacto (incluidas en la partida 4205), o provisiones sobre inversiones financieras (partida 4210), los importes correspondientes se restarán en las correspondientes lineas del activo Del mismo modo, las provisiones por riesgo país que no correspondan a colocaciones, deben deducirse de los respectivos activos
+1: Incluye solamente las provisiones por riesgo de crédito y riesgo-país de las colocaciones. En el evento de que, por razones extraordinarias, se hubieren constituido provisiones especiales por operaciones interbancarias (no consideradas en el método de clasificación de cartera) o con pacto (incluidas en la partida 4205), o provisiones sobre inversiones financieras (partida 4210), los importes correspondientes se restarán en las correspondientes líneas del activo. Del mismo modo, las provisiones por riesgo-país que no correspondan a colocaciones, deben deducirse de los respectivos activos.
 
-2: Se entiende que los saldos con sucursales se encuentran en la partida 2105 o en la partida 4105, pero no en ambas
+2: Se entiende que los saldos con sucursales se encuentran en la partida 2105 o en la partida 4105, pero no en ambas.
 
-3: En todo caso, esta partida no tendrá saldo al cierre del ejercicio anual por la distribución de la corrección monetaria
+3: En todo caso, esta partida no tendrá saldo al cierre del ejercicio anual por la distribución de la corrección monetaria.
 
-4: Incluir sólo si saldo neto de esta resta es acreedor
+4: Incluir sólo si saldo neto de esta resta es acreedor.
 
-5: Incluir sólo si saldo neto de esta resta es deudor
+5: Incluir sólo si saldo neto de esta resta es deudor.
 
 6: Para reflejar las comisiones por colocaciones en letras de crédito junto con los intereses.
 
-ANEXO N° 2
-
-MODELO DE ESTADOS FINANCIEROS CONSOLIDADOS.
+ANEXO N°2
 
 .
 
-INSTRUCCIONES ESPECIFICAS
-
-A continuación se incluyen instrucciones específicas para la preparación de los estados financieros consolidados, siguiendo las notas al margen de los modelos. Dichas instrucciones se refieren sólo a aspectos en los cuales podría optarse por diferentes criterios de exposición y persiguen, por consiguiente, uniformar la presentación.
+INSTRUCCIONES:
 
 A) El criterio de presentación en el balance de activos y pasivos contingentes, se seguirá sólo para las colocaciones y obligaciones de la matriz y las sucursales y filiales bancarias en el exterior.
 
@@ -22114,17 +22010,15 @@ B) Los activos y pasivos por intermediación de documentos reflejarán sólo las
 
 C) Incluirá también las inversiones en instrumentos de renta variable que mantengan las filiales.
 
-D) Incluye todos los activos y pasivos de las filiales que no tienen una integración natural en los demás activos y pasivos.
+D) Incluye todos los activos y pasivos de las filiales que no tienen una integración natural en los demás activos y pasivos. Los activos y pasivos por intermediación, como asimismo otros saldos que sólo reflejen derechos y compromisos por operaciones a futuro, o de recibir o entregar títulos, contenidos en los balances de las filiales corredores de bolsa o agencias de valores, deberán anularse o ajustarse para seguir los criterios de la matriz, sin perjuicio de la exposición en nota de los respectivos compromisos.
 
-Los activos y pasivos por intermediación, como asimismo otros saldos que sólo reflejen derechos y compromisos por operaciones a futuro, o de recibir o entregar títulos, contenidos en los balances de las filiales corredores de bolsa o agencias de valores, deberán anularse o ajustarse para seguir los criterios de la matriz, sin perjuicio de la exposición en nota de los respectivos compromisos.
-
-ANEXO N° 3
+ANEXO N°3
 
 PUBLICACIONES RESUMIDAS EN EL PERIODICO
 
-Para publicar en un periódico los estados financieros sin la totalidad de sus notas, las instituciones fiscalizadas deberán atenerse a lo siguiente.
+Para publicar en un periódico los estados financieros sin la totalidad de sus notas, las instituciones fiscalizadas deberán atenerse a lo siguiente:
 
-1.- Notas mínimas
+1.- Notas mínimas.
 
 En la publicación deberán incluirse, al menos, las siguientes notas:
 
@@ -22132,171 +22026,161 @@ a) "Principales criterios contables utilizados".
 
 b) "Cambios Contables".
 
-c) "Operaciones con partes relacionadas".
+c) "Hechos relevantes".
 
-d) "Inversiones en sociedades", cuando se incluya la participación en alguna filial.
+d) "Operaciones con partes relacionadas".
 
-e) "Provisiones".
+e) "Inversiones en sociedades", cuando se incluya la participación en alguna filial.
 
-f) "Patrimonio".
+f) "Provisiones".
 
-g) "Operaciones con productos derivados".
+g) "Patrimonio".
 
-h) "Otros ingresos de operación"; "Otros Gastos de Operación"; "Ingresos no Operacionales"; "Gastos no Operacionales" y nota sobre hechos relevantes, cuando la respectiva nota haya debido incluirse en los estados financieros de acuerdo con las instrucciones de este Capítulo .
+h) "Operaciones con productos derivados".
 
-i) Notas requeridas por los auditores externos, cuando éstos estimen que dichas notas deben incluirse también en la publicación resumida de que se trata.
+i) "Otros ingresos de operación"; "Otros Gastos de Operación"; "Ingresos no Operacionales" y "Gastos no Operacionales".
+
+j) Notas que hayan sido mencionadas en el dictamen de los auditores externos.
 
 2.- Numeración de las notas y leyenda sobre la información no publicada.
 
-Las notas no se renumerarán, debiendo mantenerse en el Balance General y en el Estado de Resultados la mención a la cantidad de notas que realmente componen el estado financiero auditado.
+Las notas no se renumerarán, debiendo mantenerse en el Balance General, en el Estado de Resultados y en el Estado de Flujo de Efectivo, la mención a la cantidad de notas que realmente componen el estado financiero auditado.
 
 Al final de las notas que se publican se incluirá, en forma destacada, la siguiente leyenda:
 
-1) Incluir el número y enunciado de cada nota omitida.
+.
+
+(1) Incluir el número y enunciado de cada nota omitida.
 
 (2) En caso de que se mantengan los estados financieros en páginas Web, podrá indicarse también el sitio para la consulta.
 
-ANEXO N° 4
+ANEXO N°4
 
 MODELO DE NOTA SOBRE CRITERIOS CONTABLES APLICADOS.
 
-NOTA N°1 - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS
+NOTA Nº 1 - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS.
 
-a) Información proporcionada
+a) Información proporcionada.
 
-Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados (1).
+Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados. Las cifras correspondientes al ejercicio ...... se presentan actualizadas según la variación del Indice de Precios al Consumidor, en un....%.
 
-Las cifras correspondientes al ejercicio (2) se presentan actualizadas según la variación del IPC utilizada para efectos de corrección monetaria (%).
+b) Intereses y reajustes.
 
-b) Intereses y reajustes
+Las colocaciones, inversiones y obligaciones se presentan con sus intereses y reajustes devengados hasta la fecha de cierre del ejercicio. Sin embargo, en el caso de las colocaciones vencidas y de las vigentes con alto riesgo de irrecuperabilidad se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes.
 
-Las colocaciones, inversiones y obligaciones se presentan con sus intereses y reajustes devengados hasta la fecha de cierre del ejercicio.
+c) Corrección monetaria.
 
-Sin embargo, en el caso de las colocaciones vencidas ./y de las vigentes con alto riesgo de irrecuperabilidad/ se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes (3).
-
-c) Corrección monetaria
-
-El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC) La aplicación de este mecanismo de ajuste significó un /cargo/abono/ neto a resultados ascendente a $ millones ($ millones en (2)).
+El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC). La aplicación de este mecanismo de ajuste significó un .../cargo/abono/ ...neto a resultados ascendente a $..............millones ($............. millones en ....).
 
 Las cuentas de resultado no se presentan corregidas monetariamente.
 
-d) Moneda extranjera
+d) Moneda extranjera.
 
-Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio de $ por US$1 ($ por US$ 1 en (2)).
+Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio de $........ por US$1 ($ ....... por US$ 1 en .....).
 
-El saldo de $ millones correspondiente a la /Utilidad/pérdida de cambio neta que se muestra en el Estado de Resultados, incluye tanto los resultados obtenidos en operaciones de cambio, como el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera (4).
+El saldo de $.............. millones correspondiente a la ...utilidad/pérdida... de cambio neta que se muestra en el Estado de Resultados(... utilidad/pérdida de $ .......... millones en .....), incluye el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera .../y el resultado realizado por las operaciones de cambio del banco/....
 
-e) Inversiones Financieras
+e) Inversiones financieras.
 
-Las inversiones en instrumentos financieros con mercado secundario y vencimiento a más de un año, se presentan ajustadas a su valor de mercado de acuerdo con instrucciones específicas de la Superintendencia de Bancos e Instituciones Financieras Dichas instrucciones exigen reconocer tales ajustes contra los resultados del ejercicio, salvo que se trate de cartera que tenga la cualidad de permanente, caso en que, sujeto a ciertos limites, se permite realizar tales ajustes directamente contra la cuenta patrimonial "Fluctuación de valores de inversiones financieras".
+Las inversiones en instrumentos financieros con mercado secundario y vencimiento a más de un año, se presentan ajustadas a su valor de mercado de acuerdo con instrucciones específicas de la Superintendencia de Bancos e Instituciones Financieras. Dichas instrucciones exigen reconocer tales ajustes contra los resultados del ejercicio, salvo que se trate de cartera que tenga la cualidad de permanente, caso en que, sujeto a ciertos límites, se permite realizar tales ajustes directamente contra la cuenta patrimonial "Fluctuación de valores de inversiones financieras".
 
-La aplicación de dicho ajuste significó un /cargo/abono/ neto a los resultados del ejercicio ascendente a $ millones ($ millones en (2)), monto que se incluye en los resultados operacionales correspondientes a la /"Utilidad por intermediación de documentos"/" Pérdida por intermediación de documentos"/ El ajuste de la cartera permanente, por su parte, significó un cargo/abono neto contra patrimonio ascendente a $ millones.
+La aplicación de dicho ajuste significó un.../cargo/abono/...neto a los resultados del ejercicio ascendente a $..............millones ($..............millones en .....), monto que se incluye en los resultados operacionales correspondientes a la ..../"Utilidad por intermediación de documentos"/"Pérdida por intermediación de documentos"/ ..... El ajuste de la cartera permanente, por su parte, significó un ....cargo/abono .... neto contra patrimonio ascendente a $ ........... millones.
 
 Las demás inversiones correspondientes a instrumentos financieros se presentan al valor de adquisición, más sus reajustes e intereses devengados.
 
 f) Activo fijo físico.
 
-El activo fijo se presenta valorizado al costo corregido monetariamente y neto de depreciaciones calculadas linealmente sobre la base de los años de vida útil de los respectivos bienes
+El activo fijo se presenta valorizado al costo corregido monetariamente y neto de depreciaciones calculadas linealmente sobre la base de los años de vida útil de los respectivos bienes.
 
-g) Inversiones en sociedades.(5)Las acciones o derechos en sociedades en las cuales la institución tiene una participación igual o superior al 10% o pueda elegir o designar a lo menos un miembro en su Directorio o Administración, se encuentran registradas en el activo a su valor patrimonial proporcional (VPP)
+g) Inversiones en sociedades.
+
+Las acciones o derechos en sociedades en las cuales la institución tiene una participación igual o superior al 10% o pueda elegir o designar a lo menos un miembro en su Directorio o Administración, se encuentran registradas en el activo a su valor patrimonial proporcional (VPP).
 
 h) Provisiones por activos riesgosos.
 
-Las provisiones exigidas para cubrir los riesgos de pérdida de los activos han sido constituidas de acuerdo con las normas de la Superintendencia de Bancos e Instituciones Financieras Los activos se presentan netos de tales provisiones o demostrando la rebaja, en el caso de las colocaciones
+Las provisiones exigidas para cubrir los riesgos de pérdida de los activos han sido constituidas de acuerdo con las normas de la Superintendencia de Bancos e Instituciones Financieras. Los activos se presentan netos de tales provisiones o demostrando la rebaja, en el caso de las colocaciones.
 
 i) Provisiones voluntarias.
 
-De acuerdo con lo dispuesto en la Ley General de Bancos, las instituciones financieras pueden constituir provisiones especiales, denominadas "provisiones voluntarias", que pueden ser computadas como patrimonio efectivo para el cumplimiento de diversas regulaciones contenidas en esa ley
-
-/ El monto que se mantiene constituido al cierre de cada ejercicio y sus efectos en los resultados, se muestra en el Balance General y en el Estado de Resultados/
-
-/ Esta institución no mantiene tales provisiones al cierre de los ejercicios/
+De acuerdo con lo dispuesto en la Ley General de Bancos, las instituciones financieras pueden constituir provisiones especiales, denominadas "provisiones voluntarias", que pueden ser computadas como patrimonio efectivo para el cumplimiento de diversas regulaciones contenidas en esa ley. El monto que se mantiene constituido al cierre de cada ejercicio y sus efectos en los resultados, se muestra en el Balance General y en el Estado de Resultados.
 
 j) Impuestos diferidos.
 
-De acuerdo con las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, no se reconoce el efecto de impuestos diferidos originados por las diferencias temporales existentes
+Los efectos de impuestos diferidos por las diferencias temporales entre el balance tributario y el balance financiero, se registran sobre base devengada según el Boletín Técnico N° 60 del Colegio de Contadores de Chile A.G.
 
 k) Vacaciones del personal.
 
-El costo anual de vacaciones y los beneficios del personal se reconocen sobre base devengada
+El costo anual de vacaciones y los beneficios del personal se reconocen sobre base devengada.
 
-INSTRUCCIONES:
-
-(1): Pueden indicarse salvedades si a juicio de los auditores externos existen diferencias importantes que deban mencionarse.
-
-(2): Año correspondiente al del ejercicio anterior.
-
-(3): Incluir este párrafo o la frase intercalada sólo si es significativo el monto de los intereses y reajustes no reconocidos en los resultados.
-
-(4): Párrafo no aplicable en el caso de sociedades financieras.
-
-(5) : Aplicable sólo en el caso de que existan saldos por los conceptos que se señalan.
-
-MODELO DE NOTA SOBRE OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE
-
-NOTA 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
-
-Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N° 18401 Este compromiso, denominado "Obligación subordinada", se expresa en Unidades de Fomento y esta afecto a un incremento de 5% anual /por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/ De acuerdo con la ley, esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual deducida la parte de ellos que corresponda a las acciones con preferencia y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
-
-Al cierre del presente ejercicio la obligación subordinada asciende a $ millones (UF) y para su amortización se ha constituido una provisión ascendente a $ millones (U.F.) que corresponde a los excedentes del ejercicio destinados a ese fin y que se muestra en el balance general como "Provisión para pago de obligación subordinada al Banco Central de Chile".
-
-La variación de la obligación subordinada en el ejercicio ha sido la siguiente:
-
-El cumplimiento de la obligación subordinada no afecta a los depositantes y acreedores en caso de liquidación forzosa y disolución de la empresa, ya que en tales circunstancias esta obligación se cumplirá con posterioridad a los pagos que procedan a depositantes y acreedores, conforme a las normas legales vigentes.
-
-Los propietarios de acciones preferidas tienen derecho a percibir dividendos calculados sobre la base del excedente que proporcionalmente corresponda a esas acciones, determinado antes de la provisión para amortizar la obligación subordinada.
-
-Los accionistas que poseen acciones ordinarias no percibirán dividendos mientras no se haya extinguido la totalidad de la obligación subordinada.
+El modelo de notas antes indicado se utilizará en todo lo que resulte aplicable en el caso de cada institución financiera.
 
 ANEXO N°5
 
-MODELO DE NOTA SOBRE OPERACIONES CON PERSONAS RELACIONADAS.
+Modelo de nota sobre operaciones con personas relacionadas.
 
 Instituciones que tienen operaciones con partes relacionadas:
 
 NOTA 3 - OPERACIONES CON PARTES RELACIONADAS.
 
-De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros
+De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
+
+a) Créditos otorgados a personas relacionadas (1)
+
+Al ... de ............... de ........, los créditos otorgados a personas relacionadas se componen como sigue (cifras en millones de pesos): (2)
+
+.
+
+* Incluye sólo aquellas garantías válidas para el cálculo de límites individuales de crédito de que trata el artículo 84 de la Ley General de Bancos, valorizadas para ese efecto de acuerdo con las instrucciones de la Superintendencia de Bancos e Instituciones Financieras.
+
+** Incluye sólo las obligaciones de personas naturales cuyas deudas son iguales o superiores al equivalente de tres mil Unidades de Fomento.
 
 b) Otras operaciones con partes relacionadas.
 
-En esta parte de la nota se incluirá la información señalada en el numeral 4.3.2 del título III de este Capítulo, señalando que la relación incluye sólo transacciones cuya suma es superior al equivalente de mil Unidades de Fomento.
+.....................................
+
+En esta parte de la nota se incluirá la información señalada en el numeral 5.2 del título II de este Capítulo, señalando que la relación incluye sólo transacciones cuya suma es superior al equivalente de mil Unidades de Fomento.
 
 Si no existiere información que incluir en esta parte de la nota se indicará lo siguiente:
 
 b) Otras operaciones con partes relacionadas.
 
-Durante el año y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas /por montos superiores a UF 1000/
+Durante el año ...... y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas .../por montos superiores a UF 1.000/....
 
 INSTRUCCIONES:
 
-(1): En caso que no hayan créditos con partes relacionadas a la fecha de los estados financieros, se indicará en esta parte de la nota lo siguiente:
+(1): En caso que no haya créditos con partes relacionadas a la fecha de los estados financieros, se indicará en esta parte de la nota lo siguiente:
 
 a) Créditos otorgados a personas relacionadas.
 
-Al de de no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa /con excepción de operaciones con personas naturales por montos inferiores a UF 3 000/
+Al ... de .......... de ........ no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa ..../con excepción de operaciones con personas naturales por montos inferiores a UF 3.000/....
 
-Sin embargo, para los efectos de límites legales, la institución debe computar créditos por un total de $ millones correspondientes a colocaciones castigadas en los últimos cuatro años de deudores relacionados con la institución (4)
-
-(2): Si la agrupación de cifras no justifica la presentación del cuadro porque la mayoría de sus espacios no contendrían saldos, se podrá presentar la información en otra forma, siempre que se indiquen todos los datos pertinentes exigidos en el modelo.
+(2): Si la agrupación de cifras no justifica la presentación de un cuadro, los datos pertinentes señalados en el modelo podrán mencionarse en otra forma.
 
 Para incorporar el valor de las garantías, debe tenerse presente que aquellas cauciones que no contemplen una cláusula de garantía general no pueden ser asignadas a otros créditos y, por lo tanto, si su valor supera el monto de la respectiva colocación, deberá considerarse aquel sólo hasta la concurrencia de dicho monto. Del mismo modo, si bien una garantía general puede ser considerada para diferentes deudas, su monto distribuido no puede ser superior al valor de todos los créditos cubiertos por ella.
-
-(3): Párrafo aplicable sólo a aquellas instituciones que mantienen el cómputo de deudas castigadas según lo dispuesto en el Capítulo 12-4 de la Recopilación Actualizada de Normas.
 
 Instituciones que no tienen operaciones con partes relacionadas:
 
 NOTA 3 - OPERACIONES CON PARTES RELACIONADAS.
 
-De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros
+De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
 
-Al de de no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa /con excepción de operaciones con personas naturales por montos inferiores a UF 3 000/ /Sin embargo, para los efectos de límites legales,la institución debe computar créditos por un total de $ millones correspondientes a colocaciones castigadas en los últimos cuatro años de deudores relacionados con la institución/
+Al ... de .......... de ........no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa ..../con excepción de operaciones con personas naturales por montos inferiores a UF 3.000/.....
 
-Por otra parte, durante el año y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas,/por montos superiores a UF 1.000/.
+Por otra parte, durante el año ..... y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas ..../por montos superiores a UF 1.000/....
 
-ANEXO N° 6
+ANEXO N°6
 
-MODELO DE NOTA SOBRE INVERSIONES EN SOCIEDADES
+MODELO DE NOTA SOBRE INVERSIONES EN SOCIEDADES.
+
+NOTA... - INVERSIONES EN SOCIEDADES.
+
+Al 31 de diciembre de .....
+
+En el Activo Fijo se presentan inversiones en sociedades por $...........millones según el siguiente detalle:
+
+.
+
+(*): Esta línea es para incluir como un total los importes netos de provisiones correspondientes a acciones o derechos en sociedades que no son filiales ni coligadas.
 
 ANEXO N°7
 
@@ -22304,115 +22188,301 @@ MODELO DE NOTA SOBRE PROVISIONES.
 
 NOTA... - PROVISIONES.
 
+a) Provisiones para cubrir activos riesgosos.
+
+Al 31 de diciembre de ......... .../el banco/la sociedad/... mantiene provisiones por un total de $ ...(1)... millones .para cubrir eventuales pérdidas.
+
+El movimiento registrado durante el ejercicio en las provisiones a que se refiere esta letra a) se resume como sigue:
+
 .
 
-(1) : Suma de los saldos de las partidas 4205, 4207, 4210, 4220 y 4241, que son los que deben mostrarse en el cuadro.
+A juicio de la administración, las provisiones constituidas cubren todas las eventuales pérdidas que pueden derivarse de la no recuperación de activos, según los antecedentes examinados por la institución.
 
-(2) : En caso de que la institución no mantenga provisiones voluntarias (saldo de la partida 4245), en esta letra b) señalará indicará simplemente "No hay."
+b) Provisiones voluntarias. (2)
 
-ANEXO N° 8
+Además de las provisiones para cubrir activos riesgosos señaladas en la letra a) de esta nota, la institución mantiene provisiones voluntarias por un total de $ .................... millones. Por concepto de .../constitución/liberación/ ... de estas provisiones genéricas, se ha ...... cargado/abonado .... a los resultados del ejercicio la suma de $ ............. millones.
+
+(1): Suma de los saldos de las partidas 4205, 4207, 4210, 4220 y 4241, que son los que deben mostrarse en el cuadro.
+
+(2): En caso de que la institución no mantenga provisiones voluntarias (saldo de la partida 4245), en esta letra b) señalará indicará simplemente "No hay.".
+
+ANEXO N°8
 
 MODELO DE NOTA SOBRE PATRIMONIO.
 
 NOTA... - PATRIMONIO.
 
-A) PATRIMONIO CONTABLE.
+A) Patrimonio contable.
+
+A continuación se resume el movimiento de las cuentas patrimoniales durante el ejercicio:
 
 .
+
+Se incluirán sólo los conceptos en que corresponda consignar algún importe. A continuación se agregará la información relativa a esta primera parte de la nota que se indica en el N° 9 del título II de este Capítulo, debiendo adecuarse el cuadro o la nota para cubrir ambos ejercicios.
+
+La segunda parte de la nota se presentará como sigue:
 
 B) Capital básico y patrimonio efectivo.
 
-De acuerdo con lo dispuesto en la Ley General de Bancos, el capital básico mínimo de una institución financiera no puede ser inferior al 3% de los activos totales, a la vez que el patrimonio efectivo no puede ser inferior al 8% de sus activos ponderados por nesgo Al cierre de cada ejercicio, esta institución presenta la siguiente situación.
+De acuerdo con lo dispuesto en la Ley General de Bancos, el capital básico mínimo de una institución financiera no puede ser inferior al 3% de los activos totales, a la vez que el patrimonio efectivo no puede ser inferior al 8% de sus activos ponderados por riesgo. Al cierre de cada ejercicio, esta institución presenta la siguiente situación:
 
 .
 
-ANEXO N° 9
+* Incluidas como inversión en estos estados financieros.
+
+** Consideradas para estos efectos por su equivalente de crédito.
+
+Por su parte, el importe de los activos ponderados por riesgo es el siguiente, según los rubros principales del balance:
+
+.
+
+* Los activos clasificados en Categoría 1 se ponderan en un 0%.
+
+INSTRUCCIONES:
+
+(1): O bien "Más: pérdida del ejercicio" cuando sea el caso.
+
+(2): Incluir sólo cuando los conceptos sean aplicables.
+
+(3): Este cuadro debe prepararse para ambos ejercicios.
+
+ANEXO N°9
 
 MODELO DE NOTA SOBRE INVERSIONES.
 
-NOTA...- INVERSIONES
+.
+
+* Clasificación según los emisores u obligados al pago. Este cuadro incluye, a nivel de totales, un monto de $ ... (1).. millones por instrumentos vendidos con pacto de retrocompra...../y $ ....... millones por instrumentos entregados en garantía.
+
+** Se incluyen dentro de la cartera permanente los instrumentos cuyo ajuste a valor de mercado se efectúa contra la cuenta "Fluctuación de valores de inversiones financieras" según lo descrito en Nota 1, .... /como asimismo instrumentos intransferibles que ascienden a $ ....... millones/......
+
+b) Otras inversiones.
 
 .
 
-(2): Párrafo aplicable sólo si es relevante el importe potencial no demostrado en el balance general que pudiere representar la enajenación de esos bienes. El monto que se indique debe corresponder a un valor razonable de realización, basado en los precios que se obtendrían en transacciones libres entre partes independientes y de acuerdo con la situación actual del mercado.
+* Los bienes recibidos en pago se incluyen netos de provisiones constituidas por $ ................ millones. El importe que se muestra en el balance corresponde al valor estimado de realización de estos bienes en su conjunto.
 
-ANEXO N° 10
+Además de los bienes recibidos en pago o adjudicados que están registrados en el activo, existen otros que fueron castigados y que aún no han sido enajenados. Se estima que estos bienes castigados podrán realizarse en una suma aproximada a MM$ .... (2)..
+
+INSTRUCCIONES:
+
+(1): Incluidos repos con el Banco Central de Chile, si fuere el caso. Los importes de este párrafo se incluyen con sus ajustes a valor de mercado.
+
+(2): El monto que se indique debe corresponder a un valor razonable de realización, basado en los precios que se obtendrían en transacciones libres entre partes independientes y de acuerdo con la situación actual del mercado.
+
+ANEXO N°10
 
 MODELO DE NOTA DE VENCIMIENTO DE ACTIVOS Y PASIVOS.
 
+NOTA... - VENCIMIENTOS DE ACTIVOS Y PASIVOS.
+
+a) Vencimientos de colocaciones e inversiones financieras.
+
+A continuación se muestran las colocaciones e inversiones financieras agrupadas según sus plazos remanentes. Los saldos incluyen los intereses devengados hasta el 31 de diciembre de ......
+
 .
 
-INSTRUCCIONES:
+COLOCACIONES (1):
 
-Demostración de los saldos de las colocaciones y otras operaciones de crédito:
+– Préstamos comerciales y otros
 
-- Deben excluirse aquellos saldos que expresamente se indican al pié de la nota, esto es, las colocaciones contingentes, la cartera vencida y los créditos morosos no traspasados a cartera vencida.
+– Créditos hipotecarios para vivienda
 
-- Dentro de los "Créditos hipotecarios para vivienda" se incluirán tanto los créditos en letras de crédito, como los otorgados con mutuos hipotecarios endosables y otros créditos hipotecarios destinados a la adquisición de vivienda señalados en el Capítulo 8-28 de esta Recopilación.
+– Préstamos de consumo
 
-- Los "Préstamos comerciales y otros" se refieren a aquellas colocaciones que no correspondan a créditos hipotecarios para vivienda, créditos de consumo ni préstamos a otras instituciones financieras.
+OTRAS OPERACIONES DE CREDITO:
 
-- El concepto "Otras operaciones de crédito" sigue el criterio de exposición del balance general.
+– Préstamos a otras instituciones financieras
 
-Demostración de los saldos de las inversiones financieras:
+– Créditos por intermediación de documentos
 
-- Las inversiones financieras se incluirán en dos grupos, según lo indicado al pié de la nota.
+INVERSIONES FINANCIERAS:
 
-- Para la "cartera no permanente" se incluirá su importe, neto de ajustes a valor de mercado, en la columna "Hasta un año".
+– Cartera permanente (2)
 
-- El monto de las inversiones clasificadas como "cartera permanente" debe, en cambio, distribuirse en las columnas considerando su valor contable y las fechas de vencimiento de los documentos.
+– Cartera no permanente (3)
 
-Información adicional.
+(1) Considera sólo los créditos efectivos vigentes al cierre del ejercicio con vencimiento en los períodos que se indican. Por consiguiente, se excluyen ..../las colocaciones contingentes y /.... los créditos traspasados a cartera vencida, como asimismo los créditos morosos que no han sido traspasados a cartera vencida que ascendían a $ .............. millones, de los cuales $ ............. millones tenían una morosidad inferior a 30 días..
 
-La información de esta nota puede ampliarse con comentarios adicionales a los señalados en el modelo.
+(2) Incluye documentos que componen la cartera permanente según lo descrito en Nota 1, sin considerar sus ajustes a valor de mercado..../y los instrumentos intransferibles /....
 
-ANEXO N° 11
+(3) Incluye el monto total del resto de la cartera de inversiones financieras, con su respectivo ajuste a valor de mercado.
 
-MODELO DE NOTA SOBRE MONEDA EXTRANJERA
+b) Vencimientos de las captaciones, préstamos y otras operaciones de financiamiento.
 
-INSTRUCCIONES:
+A continuación se muestran las captaciones, préstamos y otras obligaciones, agrupadas según sus plazos remanentes. Los saldos incluyen los intereses devengados hasta el 31 de diciembre de ......
 
-(1) El cuadro de esta nota puede ser ajustado para incluir sólo los conceptos en que corresponda consignar algún importe. Las sociedades financieras que deban presentar esta nota, podrán entregar la información de otra forma, atendido que la mayoría de los conceptos señalados en el cuadro no son propios de sus operaciones.
+.
 
-(2) Los intereses devengados que se abonan en pesos en cuenta corriente, se mostrarán en la segunda columna.
+CAPTACIONES Y OTRAS OBLIGACIONES (*):
 
-(3) Se debe informar el resto de los saldos en moneda extranjera incluidos en el Balance General. La presentación de los activos y pasivos corresponde a una agrupación de los saldos en moneda extranjera o reajustables por el tipo de cambio que quedan reflejados en el Balance según las instrucciones para su preparación contenidas en el Anexo N°1, de manera que en el cuadro se excluyen las cuentas de ajuste y control.
+– Depósitos y captaciones
 
-(4) Este párrafo debe ajustarse de acuerdo con la situación que presente el banco.
+– Otras obligaciones a plazo
 
-ANEXO N° 12
+– Obligaciones por intermediación de documentos
 
-MODELO DE NOTA SOBRE PRODUCTOS DERIVADOS.
+– Obligaciones por letras de crédito
 
-INSTRUCCIONES:
+OBLIGACIONES POR EMISION DE BONOS
 
-(1). La redacción de esta nota se presenta a modo de ejemplo y se utilizará en lo posible la redacción señalada para aquellos casos que coinciden con la situación que se presenta en la empresa, indicando sólo los conceptos aplicables en los cuadros.
+PRESTAMOS OBTENIDOS DE ENTIDADES FINANCIERAS Y BANCO CENTRAL DE CHILE:
 
-(2): Corresponde a las posiciones abiertas de futuros en bolsas extranjeras.
+– Líneas de créditos por reprogramaciones
 
-(3): En caso de que la institución opere con opciones y mantenga posiciones abiertas al cierre del ejercicio, deberá informarse el tipo de opciones ("call" o "put", compradas o vendidas) y los contratos a los que se refiere (monedas o tasas de interés), agrupadas por plazos residuales de vencimiento según 30 días, 31 a 60 días, 61 a 90 días y más de 90 días.
+- Otras obligaciones con el Banco Central
 
-ANEXO N°13
+- Préstamos de instituciones financieras del país
 
-MODELO DE NOTA SOBRE CONTINGENCIAS. COMPROMISOS Y OTRAS RESPONSABILIDADES DE LA EMPRESA.
+- Obligaciones con el exterior
 
-NOTA.... - CONTINGENCIAS, COMPROMISOS Y RESPONSABILIDADES.
+- Otras obligaciones
 
-En todo caso, cuando existan otros saldos importantes y que sea pertinente incorporarlos en esta relación, deberán agregarse, utilizando el nombre que corresponda. Debe tenerse presente que, no obstante estar incluida la partida 9210 (Valores y letras en garantía), no debe considerarse en esta nota el monto de las garantías prendarias e hipotecarias (partida 9220).
-
-(2) Otras contingencias, compromisos o responsabilidades significativas, cuando proceda, según lo indicado en el numeral 4.11 del título III de este Capítulo.
-
-ANEXO N°14
-
-MODELO DE NOTA SOBRE COMISIONES GANADAS.
+(*) Excluye todas las obligaciones a la vista,../y/.... las cuentas de ahorro a plazo .......//y las obligaciones contingentes/.....
 
 INSTRUCCIONES
 
-(1) Incluir sólo los conceptos que resulten aplicables a la situación de la empresa, preferiblemente en orden descendente
+Demostración de los saldos de las colocaciones y otras operaciones de crédito:
 
-(2) Incluye comisiones ganadas por cobranza de documentos y por recaudaciones por cuenta de empresas de servicios
+– Deben excluirse aquellos saldos que expresamente se indican al pié de la nota, esto es, las colocaciones contingentes, la cartera vencida y los créditos morosos no traspasados a cartera vencida.
 
-(3) En "Otros" podrán incluirse las comisiones ganadas por conceptos distintos a los especificados Sin embargo, en caso que el importe de alguno de ellos sea igual o superior al 10% del total de las comisiones ganadas, deberá agregarse al listado especificando el concepto y monto correspondiente.
+– Dentro de los "Créditos hipotecarios para vivienda" se incluirán tanto los créditos en letras de crédito, como los otorgados con mutuos hipotecarios endosables y otros créditos hipotecarios destinados a la adquisición de vivienda señalados en el Capítulo 8-28 de esta Recopilación.
+
+– Los "Préstamos comerciales y otros" se refieren a aquellas colocaciones que no correspondan a créditos hipotecarios para vivienda, créditos de consumo ni préstamos a otras instituciones financieras.
+
+– El concepto "Otras operaciones de crédito" sigue el criterio de exposición del balance general.
+
+Demostración de los saldos de las inversiones financieras:
+
+– Las inversiones financieras se incluirán en dos grupos, según lo indicado al pié de la nota.
+
+– Para la "cartera no permanente" se incluirá su importe, neto de ajustes a valor de mercado, en la columna "Hasta un año".
+
+– El monto de las inversiones clasificadas como "cartera permanente" debe, en cambio, distribuirse en las columnas considerando su valor contable y las fechas de vencimiento de los documentos.
+
+ANEXO N°11
+
+MODELO DE NOTA SOBRE MONEDA EXTRANJERA.
+
+NOTA ... - SALDOS DE MONEDA EXTRANJERA.
+
+En los Balances Generales se incluyen activos y pasivos en moneda extranjera o reajustables por la variación del tipo de cambio, por los montos que se indican a continuación:
+
+.
+
+* Comprende operaciones expresadas en moneda extranjera y pagaderas en pesos u operaciones reajustables por el tipo de cambio.
+
+INSTRUCCIONES:
+
+Utilizar el cuadro sólo con los conceptos que correspondan. Las sociedades financieras pueden presentar de otra forma la información, dado que la preparación de un cuadro en su caso no se justifica.
+
+La presentación sigue el criterio de agrupación de saldos del Balance General, excluyéndose, en consecuencia, las cuentas de ajuste y control.
+
+ANEXO N°12
+
+MODELO DE NOTA SOBRE PRODUCTOS DERIVADOS.
+
+A continuación se incluye un esquema de presentación de las operaciones con derivados, el que se utilizará haciendo los ajustes del caso para incluir sólo los conceptos correspondientes a las operaciones existentes al cierre de los respectivos ejercicios:
+
+NOTA...- OPERACIONES CON PRODUCTOS DERIVADOS.
+
+Operaciones con productos derivados mantenidas al cierre del ejercicio .....:
+
+.
+
+Mercado local:
+
+– Forward de monedas extranjeras con moneda chilena
+
+– Forward de monedas extranjeras
+
+– Futuros de monedas comprados (1)
+
+– Futuros de monedas vendidos (1)
+
+– Futuros de tasas de interés comprados (1)
+
+– Futuros de tasas de interés vendidos (1)
+
+– Forward u otros contratos de tasa de interés
+
+Mercados externos:
+
+– Forward de monedas extranjeras
+
+– Futuros de monedas comprados (1)
+
+– Futuros de monedas vendidos (1)
+
+– Futuros de tasas de interés comprados (1)
+
+– Futuros de tasas de interés vendidos (1)
+
+– Forward u otros contratos de tasa de interés
+
+El monto se refiere a los dólares comprados o vendidos o al equivalente en dólares de la moneda extranjera comprada o vendida a futuro, o bien el monto en dólares sobre el cual están convenidos los contratos de tasa de interés, en su caso. Los plazos corresponden al de duración de los contratos desde la fecha de la operación.
+
+b) Contratos sobre el valor de algún sistema de reajustabilidad autorizado (SRA) y sobre tasas de interés en moneda chilena.
+
+.
+
+– Forward en SRA/pesos comprados
+
+– Forward en SRA/pesos vendidos
+
+– Futuros de SRA comprados (1)
+
+– Futuros de SRA vendidos (1)
+
+c) Opciones. (2)
+
+INSTRUCCIONES:
+
+(1): Estas líneas consideran información correspondiente a posiciones abiertas de futuros en bolsas.
+
+(2): En caso de que la institución opere con opciones y mantenga posiciones abiertas al cierre del ejercicio, deberá informarse el tipo de opciones ("call" o "put", compradas o vendidas) y los contratos a los que se refiere (monedas o tasas de interés), agrupadas por plazos residuales de vencimiento según: 30 días, 31 a 60 días, 61 a 90 días y más de 90 días.
+
+ANEXO N°13
+
+MODELO DE NOTA SOBRE CONTINGENCIAS, COMPROMISOS Y OTRAS RESPONSABILIDADES DE LA EMPRESA.
+
+NOTA .... - CONTINGENCIAS, COMPROMISOS Y RESPONSABILIDADES.
+
+........
+
+Compromisos y responsabilidades contabilizados en cuentas de orden.
+
+La institución mantiene registrados en cuentas de orden los siguientes saldos relacionados con compromisos o con responsabilidades propias del giro:
+
+.
+
+La relación anterior incluye sólo los saldos más importantes. ..../Las colocaciones y obligaciones contingentes se muestran en el Balance General.../...
+
+INSTRUCCIONES:
+
+Cuando existan otros saldos importantes y que sea pertinente incorporarlos, deberán agregarse a esa relación que se refiere sólo a lo registrado en cuentas de orden.
+
+La nota incluirá además, cuando proceda, la información acerca de contingencias, compromisos o responsabilidades significativas, según lo previsto en el N° 14 del título II de este Capítulo.
+
+ANEXO N°14
+
+MODELO DE NOTA SOBRE COMISIONES
+
+NOTA...- COMISIONES
+
+El monto de los ingresos y gastos por comisiones que se muestra en el estado de resultados corresponde a los siguientes conceptos: (1)
+
+.
+
+Las comisiones ganadas por operaciones con letras de crédito se presentan en el Estado de Resultados en el rubro "Ingresos por intereses y reajustes".
+
+INSTRUCCIONES:
+
+(1): Incluir sólo los conceptos que resulten aplicables a la situación de la empresa, preferiblemente en orden descendente según los ingresos del último año.
+
+(2) Los ingresos incluirán comisiones ganadas por cobranza de documentos y por recaudaciones por cuenta de empresas de servicios.
+
+(3) En "Otros" podrán incluirse las comisiones percibidas o pagadas por conceptos distintos a los especificados. Sin embargo, en caso que el importe de alguno de ellos sea igual o superior al 10% del total de las comisiones percibidas o pagadas, deberá agregarse al listado especificando el concepto y el o los montos correspondientes.
 
 CAPITULO 18-2 (Bancos y Financieras)
 
