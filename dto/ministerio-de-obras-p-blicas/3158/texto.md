@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.158 de 31 de julio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la ejecución de la obra Mejoramiento Camino Ruta H-65, Sector Rengo - Popeta, Km. 5.092 a Km. 7.044, que figura a nombre de Bisquertt y Cía. Ltda., rol de avalúo 221-107, de la comuna de Rengo, VI Región, superficie 91 m². La comisión de peritos fijó con fecha 9 de febrero de 1999, la indemnización provisional en la cantidad de $400.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
