@@ -1,0 +1,7 @@
+Por resolución Nº 1.089, de 31 de julio de 1998, de esta Subsecretaría, modifícase el numeral 2º de la resolución Nº1.511, de 1997, que autorizó a PACIFIC FISHERIES S.A., para desarrollar actividades pesqueras extractivas con la nave ''Líder'', en el sentido de actualizar las características náuticas de esta última, en los términos que se indica: Matrícula 2918; Eslora de arqueo 55,3 m.; T.R.G. (Internacional) 1098; Capacidad de bodega 1.205 m3; Potencia motor principal 3252 Hp.; Potencia motor auxiliar 939 Hp.; Arte de pesca: Cerco y arrastre de media agua.
+
+Autorízase a Pacific Fisheries S.A. para ampliar las actividades de pesca con la nave ''Líder'' en el litoral que se señala a continuación, por fuera del área de reserva artesanal, donde podrá capturar los siguientes recursos hidrobiológicos: a) Litoral de la V, VI, VII y IX regiones, con cerco, las especies que se indican: Agujilla, Anchoveta, Bonito, Caballa, Cojinoba del norte, Merluza de cola y Sardina española; b) Litoral de la V, VI, VII y IX regiones, con arrastre de media agua, por fuera de las 60 millas, las especies que se indican: Agujilla, Anchoveta, Bonito, Caballa, Cojinoba del norte, Jurel, Merluza de cola, Sardina común y Sardina española.
+
+Deniégase la autorización solicitada por la peticionaria respecto de las áreas de pesca y recursos hidrobiológicos no contemplados en la presente resolución, en virtud de los informes técnicos y normas legales y reglamentarias.
+
+Valparaíso, 31 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
