@@ -1,0 +1,3 @@
+Por resolución No. 549, de 30 de mayo de 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978 inmueble ubicado en calle Ricardo Santa Cruz No. 769, presunto rol avalúos No. 596-18 comuna de Santiago, aparentemente dominio de doña Eva Labbé Catalán. Comisión integrada por peritos Sres. Ricardo Carvallo Rodríguez y Luis del Pozo Concha arquitectos, y Raúl Varela Hernández, ingeniero civil, según informe de 2 de diciembre de 1988, ajó monto provisional indemnización en $1.733.760, pagadera al contado.
+
+Director SERVIU Metropolitano.
