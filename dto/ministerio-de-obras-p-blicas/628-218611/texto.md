@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 628, de 30 de octubre de 1995, se expropiaron los lotes de terrenos N°s. 55 y 56, superficies 362 m2 y 470 m2, roles de avalúo 9097-2 y 9097-3, comunas de Macul y La Florida, para la obra Línea N° 5 del Metro de Santiago, sector Acevedo Hernández-Oscar Castro y se acordó precio de indemnización con su propietario I. Municipalidad de Macul, ascendente a la cantidad de $39.353.600, para los lotes Nºs. 55 y 56.
+
+Fiscal del Ministerio de Obras Públicas.
