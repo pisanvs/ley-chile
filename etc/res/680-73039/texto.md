@@ -1,0 +1,3 @@
+Por Resolución Nº 680, de 9 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1 de la Resolución Nº 171 de 1997, de esta Subsecretaría de Pesca, que autorizó a ALIMENTOS MARINOS S.A., para operar por sustitución la nave "Paniahue", en el sentido de señalar que las naves sustitutas que entran a operar son once y no diez como allí se indica.
+
+Valparaíso, 9 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
