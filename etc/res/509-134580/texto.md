@@ -1,0 +1,3 @@
+Por resolución Nº 509, de 30 de marzo de 1999, de esta Subsecretaría, recházase, conforme lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura la solicitud de concesión de acuicultura Nº 95110275, presentada por NESTOR MANUEL PEREZ CARCAMO, para operar un centro de cultivo al weste de Isla Hilda, Canal Ferronave, comuna y provincia de Aysén, XI Región.
+
+Valparaíso, 30 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
