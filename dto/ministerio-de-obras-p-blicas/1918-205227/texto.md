@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.918, de 31 de octubre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote Nº1, para la obra:
+
+''Estudio Complementario de Evacuación de Aguas Lluvias Anteproyecto Básico Sistema 3 Poniente'' Obra ''Colector 3 Poniente, Tramo Nueva San Martín - Zanjón de La Aguada, Km. 2,5858 a Km. 2,7516, que figura a nombre de Constructora BGN S.A. rol de avalúo 1165-24, comuna de Maipú, Región Metropolitana, superficie 581 m2. La comisión de peritos fijó con fecha 2 de septiembre de 2002, el monto de la indemnización provisional en la cantidad de $10.933.400.-, para el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
