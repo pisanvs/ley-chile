@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 212, 7 abril 2004. Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 2051, Rol de Avalúo Nº 842-3, comuna Concepción, superficie 30,38 m2. de terreno y 17,50 m2 de edificación, dentro polígono y linderos señalados plano expropiación S8R-18343; de aparente dominio de Alberto Pincheira Ibáñez, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Víctor Felipe Toledo Quijada, arquitecto, Alvaro Hernán Berríos San Martín, arquitecto, y Roxana Cecilia Abarzúa Gajardo, ingeniero constructor, según informe de fecha 5 de marzo de 2004, fijó monto provisional indemnización en $10.965.129.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
