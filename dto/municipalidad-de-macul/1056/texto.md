@@ -1,0 +1,3 @@
+Por Decreto N°1.056 de 22 de Octubre de 1993, la Municipalidad de Macul dispuso expropiación parcial del inmueble Rol 7535-1 ubicado en Exequiel Fernández N° 3024, inscrito a fojas 17.515, N°21.167 del Registro de Propiedad de 1978, Conservador de Bienes Raíces de Santiago, dominio aparente de don René Zúñiga Cifuentes. Objeto de la expropiación, dar cumplimiento a Plan Regulador Comunal. La indemnización se pactó de común acuerdo en $ 66.450, la que se compensó con derechos de edificación en resto de la misma propiedad.
+
+El Alcalde.
