@@ -1,0 +1,3 @@
+Por Resolución N° 1.016, de 10 de agosto de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por SALMONES UNIMARC S.A., R.U.T. N° 88.541.600-4, para un sector ubicado en Seno Vera, Comuna de Aysén, Provincia de Aysén, XI Región, en virtud de lo dispuesto en el artículo 67°, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 10 de agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
