@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº259 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº103, superficie 178,00 m2, Rol Nº516-119, comuna de Río Bueno, X Región, para la obra "Camino Río Bueno-Crucero, Sector T-90-U y T-933, tramo Km.0,00000 a Km. 20,90000" y se acordó el valor de indemnización con su propietaria Celmira Filcun Vidal y Otros, ascendente a la cantidad de $435.226.-
+
+Fiscal del Ministerio de Obras Públicas.
