@@ -7036,21 +7036,27 @@ Cuando la amortización efectiva de capital sea inferior a la prevista en las cu
 
 6.1.- Determinación del interés corriente e interés máximo convencional.
 
-En cumplimiento de las disposiciones contenidas en el artículo 6° de la Ley 18.010, esta Superintendencia publica mensualmente, en el Diario Oficial, las tasas de interés corriente y las tasas de interés máximas convencionales que rigen a partir de su fecha de publicación, para los efectos establecidos en la ley.
+En cumplimiento de las disposiciones contenidas en el artículo 6° de la Ley N° 18.010, esta Superintendencia publica mensualmente, en el Diario Oficial, las tasas de interés corriente y las tasas de interés máximo convencional que rigen a partir de su fecha de publicación, para los efectos establecidos en la ley.
 
-En uso de las facultades que el precepto legal mencionado le otorga, esta Superintendencia ha determinado tasas de interés diferenciadas para los créditos que se indican a continuación;
+Dichas tasas de interés corresponden a los siguientes tipos de operaciones:
 
-a) Créditos no reajustables en moneda chilena pactadas a plazos no superiores a 89 días.
+a) Créditos no reajustables en moneda chilena pactados a plazos no superiores a 89 días.
 
-b) Créditos no reajustables en moneda chilena pactadas a 90 días o más.
+b) Créditos no reajustables en moneda chilena pactados a 90 días o más, superiores al equivalente de 200 unidades de fomento.
 
-c) Créditos reajustables en moneda chilena.
+c) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 200 y superiores al equivalente de 100 unidades de fomento.
 
-d) Créditos en dólares de EE.UU de América o expresados en moneda extranjera.
+d) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 100 unidades de fomento.
 
-5 2.- Tasa máxima que se puede pactar en las operaciones.
+e) Créditos reajustables en moneda chilena.
 
-De acuerdo con la ley, no puede estipularse un interés que exceda el interés máximo convencional, esto es, el interés corriente que corresponda aumentado en un 50%, salvo que se trate de operaciones que el Banco Central de Chile efectúe con las instituciones financieras.
+f) Créditos en dólares de EE.UU. de América o expresados en moneda extranjera.
+
+Los montos en unidades de fomento señalados en las letras b), c) y d), se refieren al importe inicial del crédito, calculado de acuerdo con el valor de la unidad de fomento a la fecha de la convención.
+
+6.2.- Tasa máxima que se puede pactar en las operaciones.
+
+De acuerdo con la ley, no puede estipularse un interés que exceda el interés máximo convencional, esto es, el interés corriente que corresponda, aumentado en un 50%, salvo que se trate de las siguientes operaciones que quedaron con libertad de intereses por la Ley N° 19.528: i) las que se pacten con instituciones o empresas bancarias o financieras extranjeras o internacionales; ii) las que se pacten o expresen en moneda extranjera para operaciones de comercio exterior; iii) las pactadas entre el Banco Central de Chile y las instituciones financieras; y, iv) todas aquellas en que el deudor sea un banco o sociedad financiera.
 
 La tasa de interés máxima convencional aplicable será aquella que corresponda a la operación de que se trate, según la desagregación señalada en el numeral 6.1 precedente.
 
@@ -7074,47 +7080,73 @@ Si para el período de mora no se hubiere pactado en forma precisa la aplicació
 
 Por último, viene al caso recordar que si no se pacta tasa alguna para el período de mora ni se establece estipulación en contrario, corresponde cobrar el interés corriente para la operación de que se trate, desde la fecha del retardo y a las tasas que rijan durante ese retardo, de acuerdo con lo dispuesto en el mencionado artículo 16 de la Ley N° 18.010.
 
-6.2.3.- Tasa de interés máxima convencional que debe considerarse en las operaciones en moneda chilena no reajustables.
+6.2.3.- Aplicación de las tasas para operaciones en moneda chilena no reajustable.
 
-En general, cuando se pacte una operación de crédito de dinero en moneda chilena no reajustable, a un plazo que no sea superior a 89 días contados desde la fecha de la convención, podrá aplicarse una tasa de interés que no exceda de la tasa máxima vigente para este tipo de operaciones cursadas a menos de 90 días. En caso que dichas operaciones se pacten a un plazo de 90 días o más, contados desde la fecha de la convención, se podrá aplicar una tasa de interés que no exceda de la tasa máxima vigente para este tipo de operaciones pactadas a 90 días o más, por todo el período que comprenda el crédito.
-
-Lo anterior no merece dudas cuando se trata de créditos con vencimientos y pagaderos en su totalidad dentro de los 89 días siguientes a la operación o en 90 días o más. Para establecer cuál de las dos tasas de interés máxima convencional es aplicable a operaciones en moneda chilena no reajustables en otros casos, se utilizarán los siguientes criterios:
+Para establecer cuál es la tasa de interés máximo convencional que rige para las operaciones en moneda chilena no reajustable, de acuerdo con su plazo y monto según lo indicado en las letras a), b), c) y d) del numeral 6.1, deberán seguirse las siguientes reglas:
 
 a) Operaciones sin plazo de vencimiento.
 
-Al tratarse de pagarés a la vista u otras operaciones sin plazo de vencimiento, como es el caso, por ejemplo, de los sobregiros en cuenta corriente no pactados, debe considerarse la tasa de interés correspondiente a los créditos pagaderos a un plazo inferior a 90 días, salvo en el caso de los créditos en cuentas corrientes a que se refiere la letra c) de este numeral.
+Al tratarse de pagarés a la vista u otras operaciones sin plazo de vencimiento, como es el caso, por ejemplo, de los sobregiros en cuenta corriente no pactados, debe considerarse la tasa de interés correspondiente a los créditos pagaderos a un plazo inferior a 90 días.
 
-b) Operaciones, pagaderas en cuotas con vencimientos antes y después de 90 días.
+b) Operaciones con vencimientos hasta 89 días y a 90 días o más.
 
-En el caso de operaciones pagaderas en cuotas, en las que una o más de ellas venzan dentro de los primeros 89 días de vigencia del crédito y otras después de ese plazo, se deberá calcular el plazo promedio ponderado del total del crédito, a fin de determinar la tasa máxima de interés que corresponde.
+Cuando se pacte una operación de crédito de dinero en moneda chilena no reajustable, pagadero en su totalidad dentro de los 89 días siguientes a la operación, la tasa de interés no podrá exceder de la tasa máxima vigente para las operaciones a menos de 90 días, sin perjuicio de lo señalado en la letra
+
+- **c)** siguiente. Del mismo modo, cuando la totalidad del capital deba pagarse a 90 días o más, la tasa queda limitada por el interés máximo convencional fijado en relación con el monto de la operación, según lo indicado en las letras b),
+
+- **c)** y
+
+- **d)** del numeral 6.1.
+
+En el caso de operaciones pagaderas en cuotas, en las que una o más de ellas venzan dentro de los primeros 89 días de vigencia del crédito y otras después de ese plazo, se deberá calcular el plazo promedio ponderado del total del crédito, a fin de determinar si la tasa cobrada debe enmarcarse dentro del interés máximo convencional referido a operaciones hasta 89 días, o bien dentro del límite respectivo para operaciones a 90 días o más.
 
 El plazo promedio ponderado se obtendrá multiplicando el importe de cada cuota de amortización de capital por su plazo, expresado en días o meses, según las condiciones que se hubieren pactado. Luego se sumarán los productos obtenidos de esas multiplicaciones y el resultado de esa suma se dividirá por el importe total del préstamo. El cuociente que se obtenga indicará el plazo promedio ponderado del crédito, expresado en días o meses, según cual haya sido el factor utilizado. Para los fines de establecer este plazo, se considerarán solamente los vencimientos en que deba efectuarse una amortización de capital, no tomándose en cuenta, por consiguiente, los servicios de intereses que se hubieren pactado.
 
-Ahora bien, en caso que dicho plazo promedio resulte ser igual o inferior a 89 días, la tasa e Interés que se convenga no podrá exceder de la tasa máxima convencional vigente para las operaciones no reajustables en moneda chilena a menos de 90 días, pero si el referido plazo promedio ponderado resulta ser superior a 89 días, la tasa que se aplique en dicha operación, por todo el período comprendido hasta su extinción, no podrá exceder de la tasa máxima convencional vigente para este tipo de operaciones a 90 días o más.
+c) Lineas de crédito y sobregiros pactados.
 
-c) Sobregiros pactados en cuentas corrientes.
+La tasa máxima que se puede cobrar por los créditos que se originen por una línea de crédito previamente pactada, como asimismo por aquellos otorgados en la forma de sobregiros pactados en cuenta corriente, se establecerá en función del tiempo que se hubiere pactado para hacer uso de la línea o sobregirar la cuenta corriente, y del monto máximo autorizado.
 
-Los créditos que se otorguen en la forma de sobregiros pactados en cuenta corriente serán considerados, para los fines de determinar la tasa máxima de interés que se puede cobrar por ellos, de acuerdo al plazo que se hubiere pactado, ya sea que el sobregiro se mantenga ininterrumpidamente durante todo el período pactado, o bien que se haga uso de él en forma discontinuada dentro del tiempo que el crédito puede ser utilizado, aun cuando medie el pago de intereses dentro del plazo total convenido.
+7. - Prohibición de recargar los intereses con comisiones, derechos, gastos u otras prestaciones.
 
-7.- Prohibición de recargar los intereses con comisiones, derechos, gastos u otras prestaciones.
+7.1.- Disposiciones generales.
 
-E1 texto del artículo 2° de la Ley 18.010 expresa lo que sigue.
+El texto del artículo 2° de la Ley N° 18.010 expresa lo que sigue:
 
 "En las operaciones de crédito de dinero no reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor, a cualquier título, por sobre el capital."
 
 "En las operaciones de crédito reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor por sobre el capital reajustado."
 
-"En ningún caso, constituyen intereses las costas personales ni las procesales.".
+"En ningún caso, constituyen intereses las costas personales ni las procesales."
 
-En virtud de la disposición transcrita, debe entenderse que los costos propios de la gestión crediticia, tales como: informes comerciales, verificación de domicilio, gastos de tramitación, comisiones, franqueo y otros similares, constituyen intereses. Por lo tanto, las instituciones financieras deberán incluir dichos costos en la tasa de interés que publiquen y pacten con sus clientes, absteniéndose de cobrar importe alguno que no sea pura y simplemente la resultante de la aplicación de la tasa de interés que se estipule en cada caso y el relativo a la devolución del capital, debidamente reajustado cuando corresponda.
-
-Por consiguiente, el costo que tendrá para el deudor el uso del dinero debe pactarse siempre en términos de los intereses que legalmente se devengarán de acuerdo con la tasa estipulada, sin que pueda mediar el cobro de comisiones u otros conceptos, aun cuando se señale que ellos también constituyen intereses o que son o serán imputables a los intereses pactados.
+En virtud de la disposición transcrita, debe entenderse que los costos propios de la gestión crediticia, tales como: informes comerciales, verificación de domicilio, gastos de tramitación, comisiones, franqueo y otros similares, constituyen intereses. Por lo tanto, las instituciones financieras deberán incluir dichos costos en la tasa de interés que publiquen y pacten con sus clientes, absteniéndose de cobrar adicionalmente importe alguno que no sea pura y simplemente la resultante de la aplicación de la tasa de interés que se estipule en cada caso y el relativo a la devolución del capital, debidamente reajustado cuando corresponda.
 
 Lo anterior no es óbice para que las instituciones financieras cobren la correspondiente comisión cuando se trate de préstamos otorgados en letras de crédito, debido a que éstos se rigen en esta materia por las normas de la Ley General de Bancos.
 
-En todo caso, quedan exceptuados del tratamiento antes mencionado aquellos cobros que correspondan a recuperaciones de gastos que se efectúen por cuenta del deudor, como es el caso de tasaciones, impuestos, gastos notariales, seguros o inscripciones en el Conservador de Bienes Raíces, los que pueden cobrarse por separado o rebajarse del préstamo al efectuarse su liquidación.
+Tampoco existe inconveniente para que las instituciones financieras cobren comisión en aquellos actos complejos en que se presta un servicio bancario complementario o diferente de la operación de crédito de dinero, en que el banco no actúa sólo en calidad de prestamista y las comisiones claramente no constituyen un recargo de la obligación que asume el deudor por un préstamo recibido. Así ocurre, por ejemplo, con las comisiones cobradas por: apertura o mantención de líneas de crédito asociadas a cuentas corrientes; apertura o mantención de líneas de crédito asociadas a cuentas a la vista cuando existe un convenio entre la institución depositarla y un empleador para pagar los sueldos de sus titulares mediante abono a dichas cuentas; apertura, manejo y negociación de cartas de crédito; emisión de boletas de garantía; gestión de cobranza de letras de cambio u otros documentos que hayan sido endosados en garantía de créditos y otros servicios similares.
 
-Lo señalado en este N° 7 se refiere exclusivamente al cobro de comisiones u otros recargos que formen parte de la obligación que asume el deudor por el préstamo recibido. Por consiguiente, no existe inconveniente para que las instituciones financieras cobren comisión en aquellos actos complejos que determinen la prestación de un servicio complementario o diferente de la operación de crédito de dinero. Así ocurre, por ejemplo, en las comisiones cobradas por apertura o mantención de líneas de crédito, apertura, manejo y negociación de cartas de crédito, emisión de boletas de garantía, gestión de cobranza de letras de cambio u otros documentos que hayan sido endosados en garantía de créditos y otros servicios similares.
+Asimismo, las entidades financieras pueden cobrar separadamente los importes que correspondan a recuperaciones de gastos que se efectúen por cuenta del deudor, como es el caso de tasaciones, impuestos, gastos notariales, seguros o inscripciones en el Conservador de Bienes Raíces.
+
+7.2.- Situación de los créditos de consumo en relación con la prohibición de recargar los intereses.
+
+7.2.1.- Cobros por prestación de servicios conexos.
+
+Cualquier servicio que se asocie a un préstamo de consumo u otros con características o finalidades similares, constituye solamente una modalidad para su otorgamiento y no un servicio bancario distinto, por lo que no corresponde cobrar adicionalmente comisiones por actos complejos.
+
+En consecuencia, si la institución financiera contempla el cobro de importes bajo la forma de comisiones o recuperaciones de gastos, deberá incluir todos esos cobros en el desarrollo del crédito, pactando la tasa de interés que, aplicada sobre los capitales insolutos, determinen todos los pagos por amortizaciones e intereses a los que queda obligado el deudor, cualesquiera sean las denominaciones que dichos pagos pudieren recibir.
+
+En lo que se refiere al cobro de comisiones por líneas de crédito, lo anterior implica que las instituciones financieras no podrán cobrar comisión alguna por lineas de crédito rotativas ("revolving"), debiendo solamente cobrar los intereses por los montos efectivamente utilizados.
+
+Debe entenderse, además, que las presentes instrucciones no comprenden los créditos de consumo que se originan en el uso de las tarjetas de crédito autorizadas por el Banco Central de Chile, las que, en materia de comisiones, se encuentran reguladas por sus propias normas.
+
+7.2.2.- Importes que por concepto de gastos se pueden cobrar en el caso de los créditos de consumo.
+
+En relación con lo señalado en los numerales precedentes, cuando se trata de créditos de consumo u otros similares, las instituciones financieras solamente podrán cobrar los siguientes conceptos adicionales al capital con sus intereses y reajustes, en su caso:
+
+a) Impuestos de timbres y estampillas.
+
+b) Gastos notariales.
+
+c) Gastos inherentes a bienes recibidos en garantía, esto es: por tasaciones; por inscripción o registro de prendas o hipotecas; y, por primas de seguros sobre tales bienes, cuando proceda.
 
 8.- Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
 
@@ -7124,9 +7156,9 @@ Para el cálculo de intereses de documentos descontados, es improcedente el carg
 
 A fin de prever eventuales confusiones por la similitud financiera entre las operaciones en moneda nacional reajustables por el valor del dólar de los Estados Unidos de América y las operaciones expresadas en dólares y pagaderas en pesos que las instituciones financieras pueden realizar en los casos autorizados por el Banco Central de Chile, conviene mencionar las diferencias que existen entre ambas, de acuerdo con las normas vigentes;
 
-Las obligaciones en moneda nacional reajustables por el valor del dólar deben pagarse reajustadas utilizando como unidad referencial de reajuste el tipo de cambio informado por el Banco Central de Chile. El interés máximo convencional aplicable a estas operaciones es el que corresponde a los créditos reajustables en general, señalado en la letra c) del numeral 6.1**B** de este titulo.
+Las obligaciones en moneda nacional reajustables por el valor del dólar deben pagarse reajustadas utilizando como unidad referencial de reajuste el tipo de cambio informado por el Banco Central de Chile. El interés máximo convencional aplicable a estas operaciones es el que corresponde a los créditos reajustables en general, señalado en la letra e) del numeral 6.1 de este titulo.
 
-En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera, señalado en la letra d) del numeral 5.1 de este título
+En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera, señalado en la letra f) del numeral 5.1 de este título
 
 Es importante tener presente que las disposiciones del Capitulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, no permiten a las empresas bancarias y sociedades financieras realizar captaciones o colocaciones pactadas de la forma señalada en el párrafo precedente, salvo cuando se trate de las operaciones a que se refieren los Capitules V.B.1 o V.B.2 del mismo Compendio, o de la adquisición de valores mobiliarios de renta fija. Aun cuando no se señala expresamente en el citado Capítulo III.B.1, debe entenderse que también se exceptúan de dicha limitación las Boletas de Garantía que emiten los bancos, conforme a lo señalado en el Capítulo 8-11 de esta Recopilación.
 
@@ -7150,7 +7182,7 @@ b) La modalidad de cálculo de la tasa de interés tanto de las colocaciones com
 
 En todo caso, la información al público deberá hacerse en términos de tasas de interés de cobro vencido o por el equivalente anticipado cuando se trate de colocaciones, y de pago vencido en el caso de las captaciones.
 
-c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más.
+c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más. Cuando se trate de colocaciones, en estas últimas se distinguirá, a su vez, entre las operaciones no superiores a 100 U.F., las que exceden de 100 U.F. y no superen las 200 U.F. y las superiores al equivalente de 200 U.F.
 
 d) Los bancos y sociedades financieras pondrán especial cuidado en proporcionar al público la información de que se trata en forma clara y completa mediante la colocación de pizarras en lugares visibles y destacados, que contengan solamente esa información, de modo que ella sea fácilmente ubicable para todos.
 
@@ -7279,6 +7311,34 @@ Los intereses y reajustes que sean reconocidos en cuentas de resultado con motiv
 intereses y reajustes.
 
 Para los fines relacionados con las comprobaciones que esta Superintendencia pueda requerir, las instituciones financieras deberán mantener a disposición de este Organismo, por lo menos durante un plazo de un ano, ya sea en listados, planillas o en medios magnéticos, los antecedentes en que se sustente el calculo y la contabilización de los reajustes e intereses registrados en el activo, en el pasivo, en cuentas de orden y en los resultados.
+
+III.- DISPOSICIONES TRANSITORIAS.
+
+1.- Cobro de comisiones en créditos de consumo.
+
+Las instituciones financieras deberán atenerse a lo señalado en el numeral 7.2 del título I del presente Capítulo respecto de los créditos de consumo u otros similares que otorguen a partir de la fecha en que esta Superintendencia publique, por primera vez, las tasas de interés separadas por tramos para créditos no reajustables a más de 90 días, a que se refieren las letras b), c) y d) del numeral 6.1 del título I.
+
+No obstante, aquellas instituciones que pacten con sus clientes las denominadas líneas de crédito rotativas ("revolving"), sin que ellas estén asociadas a una cuenta corriente o a una cuenta a la vista que cumpla la condición mencionada en, el numeral 7.1 del título I, podrán seguir cargando comisiones por esas líneas de crédito hasta el día del mes de junio de 1999 en que se publiquen las tasas de interés mencionadas en el párrafo anterior.
+
+2.- Cálculo de la tasa de interés que debe pactarse a partir de flujos preestablecidos en base a un cobro separado de comisiones.
+
+Para ceñirse a las normas del presente Capítulo, aquellas instituciones que sigan estructurando los pagos según una tarifa de comisiones preestablecida, deberán incluir todos los importes en el desarrollo del crédito, pactando la tasa que corresponda.
+
+Para mayor claridad, se entregan los siguientes ejemplos en relación con las tasas y condiciones contractuales de los créditos:
+
+Ejemplo 1:
+
+Si se contempla un crédito por $ 100.000 con una tasa de un 2,0 % mensual, pagadero en 12 cuotas mensuales de $ 9.456 cada una, y además el cobro de una comisión por $ 12.000 que se paga distribuida en cuotas iguales de $ 1.000 junto con cada cuota del crédito, debe pactarse con el deudor un crédito de $ 100.000 con cuotas de $ 10.456 y con una tasa del 3,7%, en tanto ello no supere el interés máximo convencional.
+
+Ejemplo 2:
+
+Si se considera un crédito por $ 112.000 con un 2,0 % mensual de interés y pagadero en 12 cuotas mensuales de $ 10.591 cada una, que incluye una comisión por $ 12.000 que se descuenta al momento de otorgar el crédito, debe pactarse un crédito por $ 100.000, con las mismas cuotas y una tasa del 3,9 %, si es que ello no supera el interés máximo convencional.
+
+Por consiguiente, los cálculos deben efectuarse con una tasa de interés vencida y los cobros adicionales originalmente estructurados cómo comisiones, deben incorporarse al desarrollo del crédito como parte de los pagos por el crédito otorgado.
+
+3.- Reconocimiento de ingresos por comisiones.
+
+Mientras esta Superintendencia no imparta instrucciones relativas al reconocimiento de ingresos y gastos sobre base devengada o en función de la duración de las operaciones, las instituciones financieras podrán seguir considerando contablemente como ingresos por concepto de comisiones, aquellos importes que deben formar parte del desarrollo del crédito pactado, según lo indicado en el N° 7 del título I de este Capítulo. Para todos los demás efectos, los montos de los créditos y la información de las tasas debe ceñirse a las normas del presente Capítulo.
 
 ANEXO N° 1
 
