@@ -1,0 +1,3 @@
+Por decreto MOP Nº381, de fecha 30 de marzo del 2001, se expropiaron los lotes de terreno Nºs 30-A, 30-B, superficie 593, 834 m2., rol de avalúo 266-452, comuna de Carahue, para la obra "Pavimentación Asfáltica Camino Carahue-Puerto Saavedra, Sector I, Km. 59.347,87 al Km. 65.594,05" y se acordó el valor de indemnización con su propietaria Luz Herminia Marivil Villagrán, ascendente a la cantidad de $866.321.
+
+Fiscal del Ministerio de Obras Públicas.
