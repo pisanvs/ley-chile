@@ -1,0 +1,3 @@
+Por resolución Nº 1.089, de 4 de junio de 2002, de esta Subsecretaría, autorízase a PESQUERA LOTA PROTEIN S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 32 de 1992 y Nº 1.693 de 1995, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida Matta esquina Villagrán s/n, Lota, VIII Región, donde podrá procesar en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Harina y Aceite: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Samasa, Sardina redonda, Vincigerria.
+
+Valparaíso, 4 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
