@@ -1,0 +1,3 @@
+Por resolución Nº 38, de fecha 6 de mayo de 2002, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Sexta Región, se autorizó a la Planta Revisora B 0608, concesionada a don Franklin Aliro Hernán Brown Rodríguez, para practicar, conforme su solicitud, revisiones técnicas de vehículos clase B en Longitudinal Sur, kilómetro 86, de la comuna de Rancagua.-
+
+Héctor Iribarren Valdés, Secretario Regional Ministerial de Transportes y Telecomunicaciones Sexta Región.
