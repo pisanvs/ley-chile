@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.131 de 30 de Agosto de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado predio "Resto de la Hijuela B del Fundo Santa Ana, Hijuela C del antiguo Fundo Santa Ana, e Hijuela D del Fundo Santa Ana e Hijuela Poniente del Fundo Hijuela Larga" de la comuna de Graneros, VI Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas Nos. 1 a la 7, sitios Nos. 1 al 6 del proyecto de parcelación "Lourdes" formado por predio señalado. Los derechos de agua se extraen de los canales Rafaelino y canal Compañía, ambos derivados Primera Sección del río Cachapoal.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
