@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.628, de 31 de octubre de 2002, se expropió el lote de terreno Nº 9-1, superficie 1,43 m², rol de avalúo 330-15, comuna de Renca, para Sistema Norte-Sur. Tramo E. Río Mapocho-Ruta 5 Norte - Sector: Km. 1.061,00 al Km. 5.020,00, Región Metropolitana y se acordó el valor de indemnización con Alexy Antonio Ruiz Rojas, ascendente a la cantidad de $2.437.144.-
+
+Fiscal del Ministerio de Obras Públicas.
