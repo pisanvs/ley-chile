@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.121, de 30 de abril de 1999, se expropió el lote de terreno Nº 23, superficie 109 m2., rol de avalúo 206-19, comuna de Peñaflor, para la obra Camino Autopista Santiago - San Antonio, Sector Enlace Malloco, Región Metropolitana y se acordó el valor de indemnización con su propietario Armando Salinas San Juan, ascendente a la cantidad de $3.406.395.
+
+Fiscal del Ministerio de Obras Públicas.
