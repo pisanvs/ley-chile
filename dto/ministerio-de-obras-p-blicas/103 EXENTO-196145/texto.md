@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 103 de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 101, superficie 99 m2., Rol de Avalúo Nº 206-113, comuna de Coelemu, para la obra "Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al Km. 8,28000", VIII Región y se acordó el valor de indemnización con su propietaria Eliana del Carmen Flores Moraga, ascendente a la cantidad de $318.263.
+
+- Fiscal del Ministerio de Obras Públicas.
