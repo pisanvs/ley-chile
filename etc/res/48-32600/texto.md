@@ -1,0 +1,3 @@
+Resolución 48, Marzo 1994, SERVIU Región del BíoBío ordenó expropiación total, conforme art. 51 Ley 16.391, y D.L. 2186 de 1978, para programa obras infraestructura, inmueble ubicado en Rosamel del Solar N° 1, rol de avalúos N° 686-01, comuna de Concepción, aparente dominio de Sucesión Eduardo Gajardo Cid. Comisión integrada por Peritos Sres. Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 22 de febrero de 1994, fijó monto provisional indemnización en $31.094.350, pagadera de contado.-
+
+Director SERVIU Región del Bío Bio.
