@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 129, de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 16, superficie 445 m2, rol de avalúo 2210-89, comuna de Chillán, VIII Región, para la obra "Camino Ruta N-45, Sector Cruce Ruta N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 0,00000 al 5,88000" y se acordó el valor de indemnización con su propietario Iván Alfredo Merino Márquez, ascendente a la cantidad de $2.158.522.
+
+- Fiscal del Ministerio de Obras Públicas.
