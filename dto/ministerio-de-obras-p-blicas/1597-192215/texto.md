@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº1597, de 12 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nº1, Canal San Manuel Descarga 3, Kms. 0,000 al 1,705 y Nº2, Canal de Descarga San Manuel 13, Kms.
+
+0,000 1,027, obra: Regadío Pencahue que figura a nombre de Luis Valenzuela Valenzuela y Sergio Opazo Plaza y otros roles de avalúos 117-26 y 117-21, comuna de Pencahue, superficies 11.350 m² y 6.452 m². La Comisión de Peritos, fijó con fecha 30 de abril de 1999, en la cantidad de $2.859.820, lote Nº1 y $1.726.300, lote Nº2, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
