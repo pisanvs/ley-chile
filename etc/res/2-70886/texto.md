@@ -1,0 +1,3 @@
+Por Resolución Nº 2 de fecha 24 de febrero de 1997 de la que tomó razón Contraloría Regional, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XII Región aprobó la renuncia voluntaria presentada por Davison Automotriz Ltda., y puso término anticipado a la concesión para operar un establecimiento destinado a la revisión técnica y verificación de emisión de contaminantes que le había sido autorizada según contrato aprobado por Resolución Nº 001 de 1995 de la Secretaría Regional Ministerial de la XII Región.-
+
+Dante Fernández Barría, Secretario Regional Ministerial XII Región.
