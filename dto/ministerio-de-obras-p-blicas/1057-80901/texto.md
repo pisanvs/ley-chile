@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 944, de 30 de septiembre, y 1.057, de 31 de octubre, ambos de 1997, se expropiaron los lotes de terreno Nºs. 1, 2, 6 y 3, superficies 37,80; 35; 209 y 39 m², respectivamente, roles de avalúos 139-23, 139-865, 139-536 y 139-761, comuna de Graneros, obra Camino Cruce Longitudinal Graneros-Codegua Ruta H-17, sector Cruce Ruta 5-La Compañía y se acordó precio de indemnización con sus propietarios Jaime Cid Palma, Samuel Córdova Valenzuela, Benjamín Maturana Espinoza y Suc. Luis Antonio Arredondo Pastén y Otro, ascendente a las cantidades de $385.369, $431.390, $1.066.666 y $468.403.
+
+Fiscal del Ministerio de Obras Públicas.
