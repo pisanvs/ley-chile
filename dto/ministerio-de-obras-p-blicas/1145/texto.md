@@ -1,0 +1,5 @@
+Por Decreto MOP N°1.145, de 28 de noviembre de 1997, se expropiaron los lotes de terreno N°s 2-A, 5, 7-A y 8, Canal San José; 2 Canal San José Ramal; 2-A; 7, Canal San José Ramal 2-B y 2 Canal San José Drenaje S-3, superficies 4.068, 3.636, 1.056, 4.944, 36, 1.114 y 2.480 m2. respectivamente, roles de avalúos 694-54, 697-1, 591-43, 694-51 y rol en trámite, comuna de Yungay, para la obra Proyecto Laja-Diguillín, Area de Riego Yungay y se acordó precio de indemnización con sus propietarios, Ruth Guadalupe Rivas Santander, Zoilo Roca, Angel Custodio Cid Cid y otra, Ema Aurora Roca Seguel y otro e Isabel Burgos Silva, ascendente a las cantidades de $1.352.173, lote N° 2-A; $1.161.087, lote N° 5; $293.266, lote N° 7-A, $1.354.941, lote N° 8;
+
+$243.825, lote N° 2; $606.399, lote N° 7 y $629.835, lote N° 2.-
+
+Fiscal del Ministerio de Obras Públicas.
