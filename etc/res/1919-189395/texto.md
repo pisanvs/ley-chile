@@ -1,0 +1,3 @@
+Por resolución Nº 1.919, de 11 de septiembre de 2001, de esta Subsecretaría, autorízase a SOUTH PACIFIC KORP S.A., para continuar desarrollando actividades pesqueras extractivas y de transformación autorizadas a Pesquera Ligure S.A., mediante resoluciones extractivas Nº 826 a Nº 837 y Nº 1.904, todas de 2001 y de transformación Nº 819, Nº 820, Nº 821, Nº 1.745 y Nº 1.746; todas de 2001; Pesquera El Quillay S.A., mediante resolución extractiva Nº 289 de 2001 y Pesquera Pacific Protein S.A., mediante resoluciones de transformación Nº 838 de 1996, Nº 489 de 1999 y Nº 1.918 de 2001, todas de esta Subsecretaría de Pesca.
+
+Valparaíso, 11 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
