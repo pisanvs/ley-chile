@@ -1,0 +1,3 @@
+Por decreto MOP. No. 758, de 29 de mayo de 1998, se expropiaron los lotes de terreno No. s. 3, 4 y 9-A, superficies 16.008, 16.699 y 2.317 M2., respectivamente, roles de avalúos 17-30 y 62-351, comuna de Ñiquén, para la obra Ruta 5, Tramo Talca-Chillán, Intersecciones Desniveladas, Acceso a Las Rosas y Acceso a San Gregorio y se acordó precio de indemnización con sus propietarios doña Ramona Parada Correa y don José Joaquín González Yévenez, ascendente a las cantidades de $ 28.708.695, para los lotes No. s 3 y 4 y $ 2.713.829, para el lote No. 9-A.
+
+- Fiscal del Ministerio de Obras Públicas.
