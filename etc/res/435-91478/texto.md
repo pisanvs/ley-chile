@@ -1,0 +1,3 @@
+Por Resolución No. 435, de 9 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, inmueble ubicado en calle Roberto Espinoza No. 517, presunto rol avalúos 646-6, comuna Santiago, aparentemente dominio de don Oscar Becerra Guerrero. Comisión integrada por peritos Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos, y Walter Soto Silva, ingeniero civil, según informe de 24 de noviembre de 1988, fijó monto provisional indemnización en $ 1.843.376.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
