@@ -1,0 +1,3 @@
+Por decreto MOP Nº 235, de 31 de enero de 2000, se expropió el lote de terreno Nº 113-A, superficie 244 m², rol de avalúo 136-792, comuna de Paine, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca Sector B, Región Metropolitana y se acordó el valor de indemnización con sus propietarios Milán Jacov Kordic Mariani y otra, ascendente a la cantidad de $1.710.509.
+
+- Fiscal del Ministerio de Obras Públicas.
