@@ -1,0 +1,3 @@
+Por resolución N° 194 de 10 marzo de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, inmueble ubicado en Avenida Cinco de Abril N° 4208, presunto rol de avalúos N° 950-15 comuna de Estación Central, aparente dominio de doña Olga Fritis Thomas. Comisión integrada por peritos Sres. Pastor Correa Prats, arquitecto, Sergio Rojas Ibáñez, ingeniero Civil y Miguel Haltenhoff Aenischanslin, constructor civil, según informe de 9 de octubre de 1992, fijó monto provisional indemnización en $ 9.626.000 pagadera al contado.-
+
+Directora SERVIU Metropolitano.
