@@ -1,0 +1,3 @@
+Por decreto MOP Nº976, de fecha 29 de octubre de 2004, se expropio el lote de terreno Nº137, superficie 108 m2, rol de avalúo Nº1431-18, comuna de Antofagasta, para la obra ''Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento - Avda. Costanera'', II Región y se acordó el valor de la indemnización con su propietaria Rosa Amelia Allende Gómez, ascendente a la cantidad de $26.917.434.-
+
+Fiscal del Ministerio de Obras Públicas.
