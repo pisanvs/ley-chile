@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 1.762, de fecha 26 de Diciembre de 1984, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido de la variante N° 77-D "San Bernardo-Paradero 21-Estación Central", de la Línea de Buses N° 77 "Servicio Expreso Santiago San Bernardo" autorizado por resolución N° 986 de Octubre 13 de 1981, quedando su nuevo trazado como sigue:
+
+Circunvalación: Desde su terminal en Fidel Pinochet frente al N° 1201, continúa por Alfonso Donoso, Barros Arana, Covadonga, Freire, Av. Brasil, Gran Avda. José Miguel Carrera, Av, El Patrón, Av. Presidente José Joaquín Prieto, Av. Norte Sur, Av. Blanco Encalada, Dieciocho, Av. Libertador Bernardo O'Higgins, Bernal del Mercado, Av. Libertador Bernardo O'Higgins, Ejército Libertador, Av. Blanco Encalada, Av. Norte Sur, Av. Presidente José Joaquín Prieto, Av. Lo Ovalle,. San Luis, Av. El Parrón, Gran Avda. José Miguel Carrera, Av. Brasil, Balmaceda, Eyzaguirre, Alfonso Donoso, Fidel Pinochet hasta frente al N° l201, su terminal Santiago, 28 de Diciembre de 1984.-
+
+Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región Metropolitana.
