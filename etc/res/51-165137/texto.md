@@ -1,0 +1,5 @@
+AUTORIZA AL SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS, LAS MINAS, MANAO, PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 51, de 28 de Enero de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza al Sindicato de Trabajadores Independientes Cultivadores y Explotadores de Algas, Las Minas, Manao, domiciliado en la localidad de Manao, comuna de Ancud, para instalar y operar un establecimiento de cultivo de alga Gracilaria spp., en el sector Las Minas, Costa Este de la Bahía de Manao, comuna de Ancud, Provincia de Chiloé, X Región, en un sector de forma rectangular de 300 m. por 100 m. con una superficie total de 30.000 m2. de fondo de mar.
+
+Santiago, 28 de Enero de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
