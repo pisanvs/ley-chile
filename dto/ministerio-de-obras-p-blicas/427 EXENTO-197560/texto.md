@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº427 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº13-I, superficie 696 m2., Rol de Avalúo Nº160-312, comuna de Petorca, para la obra "Ruta E-37-D, sector Pedegua - Palquico, Km. 0,000 al Km. 14,000", V Región y se acordó el valor de indemnización con su propietario Honorio del Carmen Villalobos Pérez, ascendente a la cantidad de $795.859.-
+
+Fiscal del Ministerio de Obras Públicas.
