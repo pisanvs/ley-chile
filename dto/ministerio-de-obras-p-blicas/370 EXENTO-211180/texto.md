@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 370 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 54, superficie 255 m2, rol de avalúo Nº 135-51, comuna de San Francisco de Mostazal, para la obra "Camino Ruta Rol H-10, sector Graneros - San Francisco de Mostazal, tramo Km. 0,000 a Km. 9,317", VI Región y se acordó el valor de la indemnización con su propietario Carlos Andrés Machuca Allendes, ascendente a la cantidad de $1.426.648.-
+
+Fiscal del Ministerio de Obras Públicas.
