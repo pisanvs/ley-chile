@@ -1,0 +1,3 @@
+Por resolución Nº 903, de 30 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase la resolución Nº 166 de 1997 de esta Subsecretaría de Pesca, que autorizó a ALIMENTOS MARINOS S.A., para operar por sustitución la nave ''Querelema'', en el sentido de agregar el siguiente inciso 2º a la letra a) del numeral 2º: ''Además la interesada podrá capturar en el litoral de la III y IV Regiones, por fuera del área de reserva artesanal, con red de cerco, los siguientes recursos hidrobiológicos: Agujilla, Bonito, Caballa, Cabinza, Cojinoba del norte, Jurel, Machuelo o tritre y Sardina común''.
+
+Valparaíso, 30 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
