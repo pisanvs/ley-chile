@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.226 de 31 de agosto de 2004, se expropiaron los lotes de terrenos Nº s. 29 y 31, superficies 8.382 y 780 M2, roles de avalúo 158-21 y 157-45 respectivamente, comuna de Cochamó, para la obra "Camino Ruta W-853, Teupa-Queilén, Sector Santa María-Queilén, Tramo Km. 25,96000 a Km. 42,34833", X Región, y se acordó el valor de la indemnización con Elisa Aravena Rojas y otros, ascendente a la cantidad de $1.417.084.
+
+Fiscal del Ministerio de Obras Públicas.
