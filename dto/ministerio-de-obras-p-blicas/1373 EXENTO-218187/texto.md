@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.373 de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 97, superficie 777 m2, rol de Avalúo Nº 192-110, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Long. - Mesamavida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12", VII Región y se acordó el valor de la indemnización con su propietaria María Adelaida González, ascendente a la cantidad de $2.376.880.
+
+- Fiscal del Ministerio de Obras Públicas.
