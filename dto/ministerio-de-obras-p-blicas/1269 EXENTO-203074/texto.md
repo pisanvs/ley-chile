@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.269 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº77-A, superficie 114 m2, rol de avalúo Nº159-35, comuna de Ránquil, para la obra ''Camino Ruta O-66-N, sector Nueva Aldea-Ñipas, tramo II Km. 5,57900 a Km. 10,19480'', VIII Región y se acordó el valor de la indemnización con su propietaria María Inés Venegas Durán, ascendente a la cantidad de $248.952.-
+
+Fiscal del Ministerio de Obras Públicas.
