@@ -1,0 +1,3 @@
+Por Resolución N° 822, de 19 de Julio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcanse las Resoluciones N° 23, de 1987 y N° 55, de 1991, ambas de esta Subsecretaría, sólo en cuanto autorizaron a SOCIEDAD INDUSTRIAL PESQUERA ALSINA Y COMPAÑIA, R.U.T. N° 79.626.080-7, para operar la nave "Montserrat", en el litoral comprendido entre la II y IV Región, en virtud de lo dispuesto en el artículo 143, letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, que fijó el texto refundido de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 19 de Julio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
