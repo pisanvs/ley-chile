@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.566 de fecha 30 de noviembre de 1999, se expropiaron los lotes de terreno Nº 9 y Nº 10, superficie 4.882 m². y 2.452 m²., rol de avalúo 513-110, comuna de Talagante, para la obra ''Camino Autopista Santiago-San Antonio, Tramo: Talagante-El Paico, Segmento 3, Sector 5-0, Lado Derecho Km. 38,64000 a Km. 43,56000'' y se acordó el valor de indemnización con su propietario Alicia Ruiz Tagle Decombe, ascendente a la cantidad de $65.175.857.-
+
+Fiscal del Ministerio de Obras Públicas.
