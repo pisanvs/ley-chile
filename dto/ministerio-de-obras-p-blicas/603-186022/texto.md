@@ -1,0 +1,3 @@
+Por decreto MOP Nº 603 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 99, superficie 4.444 m2, rol de avalúo 33-122, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 a Km. 18,19349" y se acordó el valor de indemnización con su propietario René Ubeda o René Eliseo Ubeda, ascendente a la cantidad de $7.722.677.-
+
+Fiscal del Ministerio de Obras Públicas.
