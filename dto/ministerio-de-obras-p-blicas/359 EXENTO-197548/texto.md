@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº359 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº54, superficie 1.804,23 m2., Rol de Avalúo Nº1252-34, comuna de Parral, para la obra "Camino Ruta L-70, sector Cruce Ruta 128 - Cuatro Esquinas, Km. 0,000 a Km. 15,800, comuna de Parral y Retiro, Provincia de Linares", VII Región y se acordó el valor de indemnización con su propietaria Agustín Julio Retamal Biagini, ascendente a la cantidad de $1.054.096.-
+
+Fiscal del Ministerio de Obras Públicas.
