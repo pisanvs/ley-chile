@@ -1,0 +1,3 @@
+Por resolución Nº 554, de 9 de abril de 1999, de esta Subsecretaría, declárase la caducidad parcial de la Resolución Nº 355, de 1995, de esta Subsecretaría, que autorizó a TRIPESCA S.A. para operar la nave ''Tricahue'', sólo en lo relativo a las especies Anchoveta y Sardina española en el litoral de la III y IV Regiones.
+
+Valparaíso, 9 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
