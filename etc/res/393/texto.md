@@ -1,0 +1,9 @@
+Por Resolución N° 393 de 28 de Mayo de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, otórgase a SILVA VERA Y COMPAÑIA LIMITADA, R.U.T. N° 78.171.830-0, domiciliada en Balmaceda N° 334, Temuco, una autorización de acuicultura y apruébase el respectivo proyecto técnico, en orden a instalar y operar un establecimiento de cultivo ubicado en Sector El Membrillo, Comuna de Melipeuco, Provincia de Cautín, IX Región, en donde se realizarán las etapas de incubación, alevinaje y crecimiento de los recursos salmón del Atlántico, Salmo salar, Salmón rey, Oncorhynchus tshawytscha, y Trucha arco iris, Oncorhynchus mykiss, de conformidad al proyecto técnico presentado y aprobado por esta Resolución, para lo cual utilizará las aguas del Estero El Membrillo, ubicado en el mismo sector señalado precedentemente.
+
+La piscicultura en tierra tiene las siguientes coordenadas de acuerdo a Carta del Instituto Geográfico Militar N° 3845-7130 y Plano Ordinal Sernap 2747. Punto Bocatoma Lat. 38°50'34,00"S Long. 71°41'37,00"W Punto Descarga Lat. 38°50'51,00"S Long. 71°41'39,00"W La peticionaria deberá cultivar y tener una producción de las especies e instalar la infraestructura que se autoriza, de conformidad a lo establecido en la presente Resolución y en el proyecto técnico.
+
+La solicitante deberá inscribirse oportunamente en el Registro Nacional de Acuicultura, que llevará el Servicio Nacional de Pesca.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 28 de Mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
