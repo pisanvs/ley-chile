@@ -4356,7 +4356,7 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Empresa de Servicios Sanitarios del Bio-Bio S.A. (ESSBIO S.A.)
 
-- Empresa de Servicios Sanitarios del Libertador S.A. (ESSEL S.A.)
+- Empresa de Servicios Sanitarios del Libertador S.A.(ESSEL S.A.)
 
 - Empresa de Servicios Sanitarios del Maulé S.A. (ESSAM S.A.)
 
@@ -4378,6 +4378,10 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Empresa Portuaria de Chile. (EMPORCHI)
 
+- Empresa Portuaria Arica.
+
+- Empresa Portuaria Iquique.
+
 - Estado Mayor Fuerza Aérea de Chile.
 
 - Fábrica y Maestranza del Ejército.(FAMAE)
@@ -4396,7 +4400,7 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Polla Chilena de Beneficencia S.A.
 
-- Servicio Aerofotogramétrico de la Fuerza Aérea de Chile
+- Servicio Aerofotogramétrico de la Fuerza Aérea de Chile.
 
 - Servicio de Bienestar Fuerza Aérea de Chile.
 
