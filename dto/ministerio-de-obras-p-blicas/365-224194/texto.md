@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°365, de 30 de mayo de 1996, se expropiaron los lotes de terreno N° 3-A y 3-C, Servidumbre de Tránsito lote N° 3-D y Servidumbre de Acueducto lotes N° 3, 4 y 5, superficies 200, 530, 970, 1.080, 2.580 y 1.990 m, roles de avalúo 1004-13, 1004-14 y 100415, comuna de Natales, para la obra Camino Habilitación y Construcción Regadío Huertos Familiares de Huertos Familiares de Puerto Natales, Servidumbre de Acueducto Pasivo Aducción 2da Etapa y se acordó precio de la indemnización con su propietario Anjel René Puratic Dubracic, ascendente a la cantidad de $1.225.236.
+
+Fiscal del Ministerio de Obras Públicas.
