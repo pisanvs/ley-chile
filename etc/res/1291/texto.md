@@ -1,0 +1,3 @@
+Por Resolución N° 1.291, de 29 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar de la fecha de esta Resolución, el plazo otorgado en el numeral 7° de la resolución N° 849, de 1988, de esta Subsecretaría a SALMONES PUNTRA S.A., R.U.T. N° 96.524.770-K, domiciliada en O'Higgins N° 696, Castro, para operar el establecimiento de cultivo autorizado en el numeral 2° de la resolución antes indicada, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 29 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
