@@ -1,0 +1,5 @@
+AUTORIZA A JIMENEZ Y CIA. LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO AUTORIZACION QUE INDICA
+
+Por Resolución No. 197 de 05 de Marzo de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción pronunciándose sobre solicitud de 05 de Enero de 1986, se autoriza a Jiménez y Cía. Ltda., "Pesquera Aldeberán Ltda." para operar las embarcaciones CORAY I y CORAY II en la zona del litoral comprendido entre la I y II Región en faenas extractivas de jurel, sardina española, caballa y anchoa destinadas a harina y aceite, y bonito y cojinova para su industrialización para consumo humano. La peticionaria deberá contar a bordo de las embarcaciones con sistemas adecuados de preservación de la materia prima. Además, se deja sin efecto la autorización otorgada a la Sociedad Pesquera del Sur Sociedad Anónima, por Resolución No. 433, de 13 de Septiembre de 1984, de la misma Subsecretaría, para operar las embarcaciones a que se refiere la resolución que se extracta.
+
+Valparaíso, 05 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
