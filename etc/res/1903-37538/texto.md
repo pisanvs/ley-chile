@@ -1,0 +1,3 @@
+Por resolución N° 1.903, de 8 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94110141, presentada por HECTOR LEONARDO BARRIA MONTIAL, para un sector ubicado en Isla Magdalena, comuna de Cisnes, provincia de Aysén, XI Región, conforme lo dispuesto en los artículos N° 14°, del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción y N° 78° y N° 87°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
