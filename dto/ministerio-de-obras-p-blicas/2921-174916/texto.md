@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.921, de 30 de junio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº6, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 11: Km.
+
+66.500,00 a Km. 68.410,00'', Quinta Región, que figura a nombre de Moraga Pinto Ana Rosa, rol de avalúo 153-31, comuna de Casablanca, superficie 2.526 m2. La Comisión de Peritos integrada por los señores Jorge Gregorio Mendoza Larral, Claudia Paola Arellano Gómez y Pablo Antonio Aragón Bernal, fijó con fecha 02 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $6.737.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
