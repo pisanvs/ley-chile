@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 782, de 31 de marzo de 1999, se expropiaron los lotes de terreno Nºs 36, 37 y 40, superficies 3.449,73, 2.037,65 y 7.752,62, rol de avalúo 22-63, comuna de Río Claro, para la obra Camino Los Robles Huencuecho Bajo Perquín, sector Los Robles Huencuecho y se acordó precio de indemnización con su propietario Desiderio Antonio Castillo Corvalán y otros, ascendente a la cantidad de $4.681.643, para los lotes Nºs 36, 37 y 40.
+
+Fiscal del Ministerio de Obras Públicas.
