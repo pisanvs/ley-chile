@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.363, de 14 de mayo de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Ortiga - Punta Puga, X Región, individualizada en el artículo 1º Nº 2 del decreto exento Nº 677 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, ALGUEROS BUZOS, ASISTENTES DE BUZOS, MARISCADORES Y RAMOS AFINES "RIO MAULLIN".
+
+Valparaíso, 14 de mayo de 2004.- Jessica Fuentes Olmos, Subsecretaria de Pesca (S).
