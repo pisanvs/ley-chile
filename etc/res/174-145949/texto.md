@@ -1,0 +1,5 @@
+AUTORIZA A FRIGORIFICO Y CONSERVERA CERRO QUELLA "FRIGO PESCA LTDA." PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 174, de 02 de Marzo de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Frigorífico y Conservera Cerro Quella, "Frigo Pesca Ltda.", domiciliada en la ciudad de Arica, para instalar y operar una planta elaboradora de recursos hidrobiológicos en las líneas de congelado, conserva, fresco enfriado, ahumado y seco salado, en la que podrá utilizar como materia prima los siguientes recursos hidrobiológicos: Erizo, merluza común, bacalao, raya, cojinova del Norte, congrio colorado, congrio negro, pejerrey de mar, almeja o taca, caracol locate, cholga, loco, pulpo, anchoa, azulejo, bonito, caballa, cabrilla común, cachurreta, corvina, dorado, jurel, lenguado de ojos chicos, marrajo, lisa, mulata, polometa, pejezorro, sardina española, pepino, piure, acha, macha, lapa, tollo, albacora.
+
+Valparaíso, 02 de Marzo de 1987.- Roberto Cabezas Bello, Subrscretario de Pesca.
