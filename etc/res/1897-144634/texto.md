@@ -1,0 +1,11 @@
+Por resolución Nº 1.897, de 20 de septiembre de 1999, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 99-07 denominado ''Evaluación directa de Langostino colorado de la V a VIII Regiones, 1999'', elaborados por el citado Instituto y aprobados por el Consejo de Investigación Pesquera y por esta Subsecretaría.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza, es estimar, mediante evaluación directa, el nivel de biomasa y abundancia de Langostino colorado Pleuroncodes monodon presente entre la V y VIII Región, utilizando el método de área barrida. En cumplimiento del objetivo de la pesca de investigación y del subcontrato adjunto suscrito con la Universidad Católica de Valparaíso, el peticionario podrá capturar ejemplares de las especies Langostino colorado y Langostino amarillo, utilizando redes de arrastre de fondo de tipo langostinera/camaronera. Podrán efectuarse lances de pesca entre 100 y 450 metros de profundidad, a lo largo de transectas longitudinales, distanciadas cada 10 millas náuticas, en sentido latitudinal. El peticionario podrá disponer de las capturas, las que serán imputadas a las cuotas anuales de captura fijadas para cada especie.
+
+El peticionario podrá capturar y trasladar, para análisis de laboratorio, muestras de fauna acompañante y operará con la nave Pam Maiten, cuyas características náuticas son: Armador Pesquera El Golfo S.A.; Matrícula 1807 Valparaíso; Eslora 24,1 m.; Manga 6,7 m.; Capacidad de bodega 158 m3.; T.R.G. 150 t.
+
+La pesca de investigación se extenderá por el plazo de 35 días desde la fecha de la presente resolución y se desarrollará desde la V a VIII Regiones, entre las latitudes 33°30' L.S. y 37°00' L.S.
+
+El Instituto designa como persona responsable de esta pesca de investigación a don Pablo Alvarez Tuza, Director Ejecutivo del Instituto de Fomento Pesquero.
+
+Valparaíso, 20 de septiembre de 1999.- Edith Saa Collantes, Subsecretario (S) de Pesca.
