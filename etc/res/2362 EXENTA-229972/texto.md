@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.362, de 27 de agosto de 2004, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 888 de 2001, de esta Subsecretaría, sólo en cuanto que autorizó a PESQUERA MAR PROFUNDO S.A. para operar la nave "Arauco I", entre la I a III Regiones, con palangre, sobre el recurso hidrobiológico Reineta, entre la I a III Regiones, con palangre, sobre el recurso hidrobiológico Alfonsino, y entre la I a X Regiones, con trampas, sobre el recurso hidrobiológico Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
