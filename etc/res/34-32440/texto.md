@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución N° 34, de 17 de Julio de 1995, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se adjudicó a "Ramírez y Compañía Limitada" la concesión para operar, por un plazo de cuatro meses, a contar de la publicación del presente extracto, un establecimiento ubicado en Avenida Departamental N° 2025, de la Comuna de Pedro Aguirre Cerda, destinado a la revisión técnica y verificación de emisión de contaminantes de vehículos a que se refiere el inciso primero del artículo 7° del Decreto Supremo N° 156/90 del Ministerio de Transportes y Telecomunicaciones, en la forma, modo y condiciones que se señalan en el contrato que se aprueba.-
+
+Antonio Dourthe Castrillón, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
