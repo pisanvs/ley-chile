@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.035 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº32-A, superficie 1.665,48 m2., rol de avalúo Nº136-26, comuna de Chonchi, para la obra ''Camino Acceso Sur a Chonchi, Sector Ruta 5 - Chonchi, Km. 0,000 a Km. 3,25253'', X Región y se acordó el valor de indemnización con su propietaria Dolores del Carmen Vera Macías, ascendente a la cantidad de $1.519.074.
+
+Fiscal del Ministerio de Obras Publicas
