@@ -1,0 +1,3 @@
+Alcaldesa de la I. Municipalidad de Providencia, mediante Decreto No. Ex. 285 de 09 de Mayo de 1986, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976 y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en Av. Ricardo Lyon No. 1848, Rol de Avalúos No. 3233-18, aparentemente de propiedad de don Humberto Benedetti Miranda, para el ensanche de Av. Bilbao. Deslindes parte expropiada: Al Norte, 19,10 mts. Av. Bilbao; al Sur, 19,10 mts. resto de la propiedad que se expropia; al Oriente, 5 mts. Rol No. 3233-1; al Poniente, 5 mts. Av. Ricardo Lyon. Indemnización provisional $ 1.108.200.
+
+- Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
