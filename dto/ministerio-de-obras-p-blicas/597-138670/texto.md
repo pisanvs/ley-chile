@@ -1,0 +1,5 @@
+Por decreto MOP No. 597, de 9 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840 y DFL MOP No. 206, de 1960, se expropió el lote de terreno No. 5 para la obra "Ruta 5, Tramo Talca Chillán, Intersección Desnivelada Acceso a Longaví", Séptima Región, que figura a nombre de Arellano Sotomayor Juan Enrique, rol de avalúo 189-553, comuna de Longaví, superficie 433 m2. La comisión de peritos integrada por los señores, Arnoldo Sánchez Muñoz, Mario Yáñez Vásquez y Fernando Pinochet de la Barra, fijó con fecha 14 de agosto de 1998, el valor provisional de la indemnización en la cantidad de $ 2.627.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 75 del decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
