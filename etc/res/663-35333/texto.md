@@ -1,0 +1,3 @@
+Por Resolución N° 663, de 11 de Julio de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1028, de 1992, de esta Subsecretaría, que autorizó a SEA FOOD RESOURCES CHILE S.A., R.U.T. N° 96.627.260-0, para operar una planta industrial en la II Región, ubicada en calle Iquique N° 4430, de Antofagasta, por renuncia de su titular.
+
+Valparaíso, 11 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
