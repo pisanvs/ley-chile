@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 461, de 23 de mayo de 2003, se dejó sin efecto el decreto MOP exento Nº1.283, de fecha 20 de septiembre de 2001, que autorizó la expropiación del lote de terreno Nº15, para la obra Mejoramiento del Servicio de Alcantarillado El Monte - Lo Chacón - El Paico, Región Metropolitana, Rol de Avalúo Nº258-55, que figura a nombre de Ana María Navarro Hevia.
+
+Fiscal del Ministerio de Obras Públicas.
