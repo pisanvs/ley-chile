@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.924, de 28 de diciembre de 2001, se ordenó y aprobó el plano y cuadro de expropiación del lote de terreno Nº 2, y por decreto MOP exento Nº 1.924, de 28 de diciembre de 2001, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $318.810.- necesario para la ejecución de la obra "Proyecto Laja Diguillín, Area de Riego Yungay, Canal Matriz Pemuco Diguillín Variante Camino Pemuco - Cartago". El pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
