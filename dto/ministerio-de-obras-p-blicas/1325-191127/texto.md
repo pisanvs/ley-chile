@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.325, de 31 de agosto de 2001, se expropió el lote de terreno Nº 67, superficie 339 m², rol de avalúo 654-4, comuna de Estación Central, para la obra Sistema Norte Sur Tramo G: Nudo Alameda, Región Metropolitana y se acordó el valor de indemnización con su propietario Cosme Valentín Carril Echavarri y otro, ascendente a la cantidad de $136.582.007.-
+
+Fiscal del Ministerio de Obras Públicas.
