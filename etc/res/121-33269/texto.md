@@ -1,0 +1,5 @@
+CANCELA PERSONALIDAD JURIDICA A "ASOCIACION GREMIAL DE TRABAJADORES DE LA SECRETARIA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO Y DEL SERVICIO DE VIVIENDA Y URBANIZACION DE LA REGION DEL BIO BIO"
+
+Por Resolución N° 121 de fecha 25 de agosto de 1994 del Ministerio de Economía, Fomento y Reconstrucción, se canceló la Personalidad Jurídica de la "Asociación Gremial de Trabajadores de la Secretaría Regional Ministerial de Vivienda y Urbanismo y del Servicio de Vivienda y Urbanización de la Región del Bío Bío inscrita bajo el N° 155-8 del Registro que para tal efecto lleva este Ministerio, por haberse configurado respecto de ella, la causal de cancelación contemplada en el artículo 18 N° 2, letra a) del D.L. N° 2.757, de 1979.-
+
+Carlos Mladinic Alonso, Subsecretario de Economía, Fomento y Reconstrucción.
