@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 91 de fecha 05 de Agosto de 1996, del Ministerio de Economía, Fomento y Reconstrucción, se ha rechazado el Recurso de Reclamación interpuesto por la empresa Pesquera Santa Lucía S.A., Rut.: 96.527.920-2 y confirmada la Resolución/N° 1.599 de la Subsecretaría de Pesca, del año 1995 que declaró la caducidad parcial de las Resoluciones N° 1.791, de 1989 y 385 de 1991 de esa Subsecretaría, que autorizaron a dicha empresa para desarrollar actividades con la nave "Lucía".
+
+Oscar Landerretche Gacitúa, Subsecretario de Economía, Fomento y Reconstrucción.
