@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.295, de 31 de diciembre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15840, se expropió el lote de terreno Nº124-B, para la obra Camino Fresia-Parga- Llico-Las Cañitas, Rol V-46, Kms. 14.835 al 48.580, que figura a nombre de Gebauer Hitschfeld Roberto Antonio, rol de avalúo 260-11, superficie 1515 m2., comuna de Fresia. La comisión de peritos, con fecha 28 de abril de 2000, fijó la indemnización provisional en la cantidad de $5.013.300, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978,
+
+Fiscal del Ministerio de Obras Públicas.
