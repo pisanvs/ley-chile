@@ -1,0 +1,3 @@
+Por Resolución N° 42, de 12 Marzo de 1996, SERVIU II Región, dispuso, conforme D.L. 2.186 de 1978, expropiación parcial del inmueble ubicado en calle Iquique N° 3138-3144, presunto rol de avalúo N° 997-002, comuna de Antofagasta, superficie 82,16 m2., de aparente dominio de doña Elba Rosales, según inscripción fs. 1340 vta. N° 2026 año 1992, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Srs. Iván Vladilo Vargas, Ingeniero Civil, Alejandro Bargsted Balcells y Eleonora Román Latorre, arquitectos, según informe de 1° de Febrero de 1996, fijó monto provisional indemnización en $13.293.094.- pagadera al contado.
+
+Director SERVIU II Región.
