@@ -1,0 +1,15 @@
+AMPLIACION DE CONCESIONES DE SERVICIOS SANITARIOS
+
+1.- Por decreto supremo Nº3.498, de 26 de noviembre de 1999, del Ministerio de Obras Públicas, tramitado el 10 de diciembre 1999, se otorgó a la empresa Explotaciones Sanitarias S.A., RUT Nº96.569.390-4, domiciliada en Avda. Panamericana Norte 9403, Quilicura, Región Metropolitana, la ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas, para abastecer el área correspondiente a los terrenos donde se desarrolla el Loteo Valle Grande - Etapas uno y dos, comuna de Lampa, Región Metropolitana.
+
+- **2.-** Las zonas comprendidas en la concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas cuya ampliación se solicita, abarcan un territorio de aproximadamente 202 hás., las que se encuentran identificadas y delimitadas en los planos codificados con el número SC 13 - 13 A y denominados ''Territorio Operacional del Sistema de Distribución de Agua Potable incluye Ampliación Loteo Valle Grande - Etapas uno y dos'' y ''Territorio Operacional del Sistema de Recolección de Aguas Servidas incluye Ampliación Loteo Valle Grande Etapas - I y II'', del Plan de Desarrollo para la ampliación solicitada, que forman parte integrante del presente decreto. En el primer establecimiento se consulta dar servicio a 6 arranques e igual número de uniones domiciliarias. En tanto, al final del período, se consulta dar servicio a 245 arranques e igual número de uniones domiciliarias de alcantarillado.
+
+- **3.-** El servicio público de producción de agua potable, para los primeros cinco años, será abastecido por las fuentes que se indican en el numeral 3.1. letra a) de la Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los informes de títulos respectivos, bienes que serán afectados a la concesión, documentos ambos, que forman parte integrante del presente decreto.
+
+- **4.-** Las demás condiciones de prestación de los servicios otorgados en la ampliación, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) NºSC 13 - 13 A, que forman parte integrante del presente decreto.
+
+- **5.-** El concesionario queda sujeto a las leyes y reglamentos que regulan el establecimiento, construcción y explotación de servicios públicos sanitarios y a las normas técnicas, instrucciones, órdenes y resoluciones que dicte la Superintendencia de Servicios Sanitarios.
+
+- **6.-** Programa de desarrollo, nivel tarifario vigente, garantías y otros puntos constan en decreto que se extracta, reducido a escritura pública de fecha 20 de diciembre de 1999, otorgada en la Notaría Pública de Santiago de doña Antonieta Mendoza Escalas.
+
+Santiago, 21 de diciembre de 1999.- Juan Eduardo Saldivia Medina, Superintendente Servicios Sanitarios.
