@@ -1,0 +1,3 @@
+Por resolución Nº 271, de 3 de febrero de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.226, de 1992, de esta Subsecretaría, que autorizó a PESCA CHILE S.A., para ampliar las actividades pesqueras extractivas con la nave ''Betanzos'', sólo en lo relativo a la especie Alfonsino, en el área de pesca autorizada en la citada resolución.
+
+Valparaíso, 3 de febrero de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
