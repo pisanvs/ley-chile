@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 636 de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº 314 superficie 205 m2, Rol en trámite, comuna de Palmilla, para la obra ''Camino Colchagua-Pichidegua, sector San Roberto-Cruceros, tramo Km. 12.30000 al 26,00400'', y se acordó el valor de indemnización con su propietario Ramón o Ramón Luis Rodríguez Canales, ascendente a la cantidad de $3.077.050.
+
+Fiscal del Ministerio de Obras Públicas.
