@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1135, de 7 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No.
+
+95-B, para la obra Camino Acceso Norte a Concepción, sector Km. 16.705 al 20.158, que figura a nombre de María Dolores Orellana Flores, Rol de Avalúo No. 2224-172, comuna de Chillán, superficie 10.794 m2. La Comisión de Peritos integrada por Jaime García Molina, Pablo Carrillo Valenzuela y Luis Abarzúa Ceballos, con fecha 24 de abril de 1998, fijó el valor provisional de la indemnización en la cantidad de $ 7.396.784.- para el lote No. 95-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
