@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.918, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº 21-C, superficie 110 m2, rol de avalúo en trámite, comuna de Montepatria, para la obra ''Mejoramiento Ruta D-55, Puente La Ligua - Bifurcación San Lorenzo, Tramo Km. 96.174 a Km. 119.889,69'' y se acordó el valor de indemnización con su propietaria Alba Florina Jélvez Jélvez, ascendente a la cantidad de $443.734.-
+
+Fiscal del Ministerio de Obras Públicas.
