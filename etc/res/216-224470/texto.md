@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 216, 8 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 2038, Rol de Avalúo Nº 843-9 comuna Concepción, superficie 29,68 m2. de terreno y 20,65 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-18336; de aparente dominio de José Luis San Miguel Uribe, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por María Pamela Mac-Guire Acevedo, arquitecto, Ricardo Pedro Conrado Echeverría Hohmann, arquitecto, y José Manuel Gálvez Alegría, constructor civil, según informe de fecha 10 de marzo de 2004, fijó monto provisional indemnización en $9.671.340.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
