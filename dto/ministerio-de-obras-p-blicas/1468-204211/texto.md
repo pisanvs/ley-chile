@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.468, de 30 de septiembre de 2002, se dejó sin efecto el decreto MOP Nº1.726 de 31 de octubre de 2001, que ordenó la expropiación del lote 30-1, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Troncal Sur Enlace Quilpué Oriente Ramal Nor-Poniente Km. 96.373,50 al 97.040,00, por no ser necesario para la ejecución de ésta. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
