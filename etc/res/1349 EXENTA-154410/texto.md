@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta Nº 1349 de fecha Diciembre 10 de 1986, de la Secretaria Regional Ministerial de Transportes y Telecomunicaciones, de la Región Metropolitana modifica el recorrido del servicio colectivo urbano de la Línea Nº 104 "Renca - Panamericana - Centro", autorizado por resolución exenta Nº 467 de 26 de Junio de 1985, quedando su nuevo trazado como sigue:
+
+Circunvalación: Chungará entre Pasaje Pampa y Pasaje Salar de la Población Valle de Azapa, continúa por Chungará - José Miguel Infante - Condell - Arturo Prat - Manuel Rodríguez - José M. Balmaceda - Nicanor Fajardo - Avda. Domingo Santa María - Panamericana Norte - Av. Santa María - Puente Recoleta - Avda. Cardenal José María Caro - Balmaceda - Teatinos - Santo Domingo - Bandera - Puente Independencia - Avda. Santa María - Avda. La Paz - Artesanos - Borgoño - Prieto - Panamericana Norte - Avda. Domingo Santa María - José M. Balmaceda - Manuel Rodríguez - Arturo Prat - Condell - José Miguel Infante - Chungará entre Pasaje Pampa y Pasaje Salar.
+
+Santiago, 15 de Diciembre de 1986.- Ramiro Camero Weir, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana subrogante.
