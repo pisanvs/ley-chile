@@ -1,0 +1,61 @@
+MINISTERIO DE HACIENDA DECRETO LEY N° 1.283, DE 1975 Extiende el ámbito de aplicación de las disposiciones del decreto ley 754, de 1974
+
+(Publicado en el "Diario Oficial" N° 29.331, de 16 de diciembre de 1975)
+
+NUM. 1.283.- Santiago, 10 de diciembre de 1975.- Considerando:
+
+1° Que la gestión financiera del Gobierno de la Unidad Popular condujo al país a una total destrucción de sus medios de producción, causando un estado de postración económica que significó la quiebra del erario nacional;
+
+2° Que uno de los objetivos fundamentales del actual Gobierno ha debido ser, por lo tanto, la recuperación económica del país;
+
+3° Que ha sido norma invariable del actual Gobierno el respeto al ordenamiento jurídico vigente, en todo cuanto no vulnere las necesidades del país afectadas por la destrucción de la economía, ya expresada;
+
+4° Que la recuperación económica importa la necesidad de adoptar las medidas legales necesarias a fin de procurar el más igualitario reparto de la cuota de sacrificios que a cada ciudadano se ha impuesto para alcanzar el pleno desarrollo;
+
+5° Que, a la vez, es imperioso consolidar definitivamente la situación patrimonial del Estado, de sus instituciones y empresas, frente a hechos, actos o contratos acaecidos, ejecutados o celebrados en el período comprendido entre el 4 de noviembre de 1970, y el 11 de septiembre de 1973, que puedan afectar la responsabilidad del Estado, fundamentalmente por la circunstancia de que numerosos interesados particulares han pretendido encontrar una fuente de lucro en el erario nacional mediante la interposición actual de acciones judiciales tendientes a obtener, ahora, ingentes sumas de dinero por concepto de indemnizaciones, ya sea de perjuicios o por causas de expropiación o por concepto de restituciones mutuas, basándose en las irregularidades que, en su oportunidad, aceptaron que cometiera el Gobierno anterior, y
+
+Visto: lo dispuesto en los decretos leyes 1 y 128, de 1973, y 527 y 788, de 1974, la Junta de Gobierno acuerda dictar en ejercicio de la Potestad Constituyente, el siguiente
+
+DECRETO LEY:
+
+#### Artículo 1°
+
+Declárase que lo dispuesto en el artículo 1° del decreto ley 754, de 1974, es también aplicable a los juicios o procesos expropiatorios en actual tramitación que reúnan las características siguientes:
+
+a) Que en ellos se persiga la indemnización, sea de perjuicios o por causa de expropiación, o el amparo, restitución o restablecimiento de la posesión o tenencia de bienes raíces o derechos reales constituidos en ellos.
+
+b) Que dichos juicios tengan su origen en hechos, actos o contratos que hayan tenido por objeto otorgar a alguna de las entidades señaladas en el artículo 1° del decreto ley 754, el dominio, posesión o tenencia de cualquier clase de bienes y que tales hechos, actos o contratos hayan acaecido o se hubieren ejecutado o celebrado en el lapso señalado en el inciso 1° del artículo 1° del citado decreto ley;
+
+c) Que en los juicios sea parte alguna de las entidades señaladas en el artículo 1° del decreto ley mencionado.
+
+> **Nota.** NOTA: 1 El art. 2° de la ley 17998 dispuso: Declárase, interpretando el artículo 1° del decreto ley 1.283, de 1975, que entre los juicios a que se refiere su letra a) están incluidos todos aquellos en que por cualquier causa, sea directa o indirectamente, se persiga el amparo, restitución o restablecimiento de la posesión o tenencia de bienes raíces o de derechos reales constituidos en ellos y que, por consiguiente, en la enumeración de dicha letra se comprenden las acciones tendientes a obtener la declaración de caducidad de actos expropiatorios.
+
+#### Artículo 2°
+
+Establécese un impuesto a beneficio fiscal igual al 85% de las sumas que, a título de indemnización, ya sea de perjuicios o por causa de expropiación, o por concepto de restituciones mutuas, se condene pagar a las entidades indicadas en el artículo 1° del decreto ley 754, de 1974, por sentencia ejecutoria dictada en los juicios a que se refiere el artículo anterior y los decretos leyes 231, de 1973, y 754, de 1974, en sus artículos 1° y 8°. El impuesto será retenido por la entidad condenada al pago de las sumas afectas a éste y enterado en arcas fiscales.
+
+#### Artículo 3°
+
+Decláranse extinguidas todas las acciones a que se refiere el artículo 1° del presente decreto ley y el decreto ley 754, de 1974, que no hayan sido legalmente ejercitadas al día 10 de noviembre de 1975.
+
+#### Artículo 4°
+
+En los juicios a que se refiere el artículo 1° del presente decreto ley, que estuvieren pendientes, la suspensión del procedimiento a que se refiere el artículo 3° del decreto ley 754, de 1974, operará a contar desde el décimo día siguiente a la publicación de este decreto ley, aun cuando ya hubiere procedido la suspensión de acuerdo a dicho precepto.
+
+En los juicios y procesos del decreto ley 231, de 1973, en que deban aplicarse las normas de los decretos leyes 754, de 1974 y de este decreto ley, la suspensión del procedimiento a que alude el artículo 3° del decreto ley 754 operará de pleno derecho hasta el 1° de mayo de 1976, en todos aquellos casos en que por el estado de la causa a la fecha de vigencia de los decretos leyes citados no haya sido posible la aplicación del referido artículo 3°, en la oportunidad procesal en él contemplada.
+
+#### Artículo 5°
+
+Decláranse de utilidad pública y autorízase al Presidente de la República para expropiar los bienes cuyos propietarios hubieren sido privados de su posesión o tenencia en virtud de hechos que, en lo pertinente, reúnen las características señaladas en el artículo 1° cuando no se hubieren interpuesto, al 10 de noviembre de 1975, las correspondientes acciones tendientes a recuperarlos. Dichas expropiaciones se regirán or las normas del decreto ley 754, de 1974, y las indemnizaciones respectivas quedarán gravadas por el impuesto contemplado en el artículo 2°.
+
+#### Artículo 6°
+
+Derógase el inciso final del artículo 1° del decreto ley 754, de 1974.
+
+#### Artículo 7°
+
+Declárase, para todos los efectos legales, que la fecha de consignación a que se refiere el artículo 39° de la ley 16.640, es y ha sido aquella en que se deposita en la Tesorería Comunal respectiva la parte de la indemnización que la Corporación de la Reforma Agraria debe pagar al contado.
+
+Declárase, asimismo, interpretando los artículos 11° y 13° del decreto con fuerza de ley 3, del Ministerio de Agricultura, de que el aviso de consignación y la notificación de la tasación de las mejoras a que se refieren respectivamente las disposiciones legales citadas, no forman ni han formado parte del procedimiento de dicha consignación.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Jorge Cauas.- Sergio de Castro.
