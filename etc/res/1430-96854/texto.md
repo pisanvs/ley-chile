@@ -1,0 +1,5 @@
+Por Resolución No.1.430 de 8 de Noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA DEL CABO S.A., R.U.T.
+
+No.96.520.580-2 domiciliada en San Martín No.45, Concepción, para ampliar actividades pesqueras, que tiene autorizadas por Resolución No.744, de 1988, de esta Subsecretaría, en orden a incluir en la línea de procesamiento de conservas de la planta industrial ubicada en Porvenir No.181, Manquimávida, Concepción, autorizada por la Resolución citada en el numeral precedente, la elaboración de los siguientes recursos hidrobiológicos: Marrajo, Ostión del Sur, Ostra chilena, Centolla, Centollón y Jaiba mora. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 8 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
