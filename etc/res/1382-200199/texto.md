@@ -1,0 +1,3 @@
+Por resolución Nº 1.382, de 5 de julio de 2002, de esta Subsecretaría, déjase sin efecto la resolución Nº 436 de 2002, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº 200103272, presentada por don CARLOS GUIDO BAEZA CAYUN, para instalar y operar el centro de cultivo ubicado en Bahía Yal, Comuna de Chonchi, Provincia de Chiloé, X Región.
+
+Valparaíso, 5 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
