@@ -1,0 +1,1531 @@
+REGLAMENTO DFL MOP Nº 164 DE 1991 MODIFICADO POR LAS LEYES Nº 19.252 DE 1993 Y Nº 19.460 DE 1996
+
+Núm. 956.- Santiago, 6 de octubre de 1997.- Vistos: Lo dispuesto en el artículo 32º Nº 8 de la Constitución Política de la República de Chile, y el D.F.L. MOP Nº 164 modificado por las leyes Nº 19.252 de 1993 y Nº 19.460 de 1996, y
+
+Teniendo presente la necesidad de reglamentar la ejecución, reparación o conservación de obras públicas fiscales, por el sistema de concesión, establecido en el artículo 87º del decreto supremo MOP Nº 294 de 1984, y las modificaciones introducidas al DFL MOP Nº 164 Ley de Concesiones a través de las leyes Nº 19.252 de 1993 y Nº 19.460 de 1996.
+
+D e c r e t o:
+
+## Título I
+
+Disposiciones Generales
+
+#### Artículo 1º
+
+Campo de Aplicación.
+
+1.- El presente Reglamento fija las normas para la ejecución, reparación o conservación de obras públicas fiscales, por el sistema establecido en el artículo 87 del DS MOP Nº 294, de 1984, las licitaciones y concesiones que deben otorgarse, ya se trate de la explotación de las obras y servicios o respecto del uso y goce sobre bienes nacionales de uso público o fiscales, destinados a desarrollar las obras o las áreas de servicios que se convengan, en virtud de las normas generales del DFL MOP Nº 164, de 1991, modificado por las leyes 19.252 de 1993 y 19.460 de 1996, Ley de Concesiones de Obras Públicas, cuyo Texto Refundido, Coordinado y Sistematizado fue fijado en el DS MOP Nº 900, de 1996.
+
+2.- Este Reglamento de Concesiones formará parte integrante de los contratos de concesión que celebre el Ministerio de Obras Públicas en virtud de las normas señaladas en el inciso primero del presente artículo.
+
+3.- La concesión comprenderá:
+
+a) La prestación en el área de concesión de los servicios básicos y complementarios para los que fue construida la obra.
+
+b) La conservación de la obra en óptimas condiciones de uso.
+
+c) El cobro de tarifas que pagarán los usuarios de los servicios básicos y de los servicios complementarios.
+
+d) La ejecución de las inversiones o reinversiones que constituyen el plan de desarrollo del proyecto.
+
+e) El uso y goce sobre los bienes nacionales de uso público o fiscales destinados a desarrollar la obra entregada en concesión.
+
+f) El uso y goce sobre los bienes nacionales de uso público o fiscales destinados a desarrollar los servicios que se convengan.
+
+#### Artículo 2º
+
+Del Contrato y Normas Que lo Rigen.
+
+1.- Los contratos de concesión a que se refiere el artículo anterior, se regirán por:
+
+a) El DS MOP Nº 294, de 1984, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley N° 15.840, Orgánica del Ministerio de Obras Públicas, y del DFL Nº 206, de 1960;
+
+b) El DFL MOP Nº 164, de 1991, Ley de Concesiones de Obras Públicas, y sus modificaciones contenidas en la Ley 19.252 de 1993 y 19.460 de 1996, cuyo Texto Refundido, Coordinado y Sistematizado fue fijado en el DS MOP Nº 900, de 1996;
+
+c) El presente Reglamento de Concesiones;
+
+d) Las correspondientes bases de licitación y sus circulares aclaratorias;
+
+e) La oferta técnica y económica presentada por el adjudicatario de la concesión, en la forma aprobada por el MOP;
+
+f) El decreto de adjudicación respectivo.
+
+2.- En caso de discrepancia en la interpretación del contrato, primará lo dispuesto en las bases de licitación y sus circulares aclaratorias, por sobre lo establecido en la oferta presentada por el adjudicatario de la concesión, salvo el caso en que ésta contenga aspectos superiores a lo exigido en las bases de licitación y sus circulares aclaratorias, lo que será calificado por el DGOP.
+
+#### Artículo 3º
+
+Definiciones.
+
+Para la correcta interpretación del presente Reglamento, se entenderá por:
+
+1) Adjudicatario: El licitante al que se adjudicó la propuesta.
+
+2) Area de concesión: El área requerida para ejecutar las obras y prestar los servicios definidos en el contrato de concesión, que deberán estar ubicados en bienes nacionales de uso público o fiscales.
+
+3) Area de servicios complementarios: El área conformada por los terrenos susceptibles de ser ocupados por las instalaciones destinadas a prestar los servicios complementarios convenidos en el contrato de concesión.
+
+Dichos servicios podrán ser instalados en bienes nacionales de uso público, terrenos fiscales o en terrenos adquiridos especialmente al efecto por la sociedad concesionaria.
+
+4) Bases de licitación: Conjunto de normas y especificaciones administrativas, técnicas y económicas, elaboradas por el Ministerio de Obras Públicas con que se hace el llamado a licitación y que forman parte del contrato de concesión.
+
+5) Conservación o mantención: Corresponde a las reparaciones necesarias de las obras o instalaciones construidas por el concesionario o preexistentes en el área de la concesión, con el propósito de que éstas mantengan o recuperen el nivel de servicio para el que fueron proyectadas, tanto en su cantidad como en su calidad. También se entienden incluidas dentro de este concepto las medidas preventivas necesarias para que no se deterioren las obras o instalaciones.
+
+6) Costo total de la obra: Aquellos desembolsos que, directa o indirectamente, son necesarios para la construcción de la obra.
+
+7) Días: Días corridos.
+
+8) Director : Director del Servicio que corresponda.
+
+9) DGOP: Director General de Obras Públicas o Dirección General de Obras Públicas, según corresponda.
+
+10) Financista (s): Persona natural o jurídica o grupo de ellas que permiten y facilitan a la sociedad concesionaria, ya sea a través de créditos directos o con fianzas, avales, garantías o cualquiera otra caución, el financiamiento de una determinada obra de infraestructura pública por el sistema de concesión.
+
+11) Fuerza mayor: Corresponde a la definición del artículo Nº 45 del Código Civil.
+
+12) Grupo licitante: Conjunto de personas naturales o jurídicas que se presentan a una licitación acompañando una sola oferta, siendo la responsabilidad de cada uno de ellos indivisible y solidaria.
+
+13) Idea de Iniciativa Privada: Conjunto de documentos que en virtud de lo dispuesto en artículo 2° del DS MOP Nº 900 de 1996, presenta un particular, de acuerdo con lo señalado en este Reglamento.
+
+14) Ley de Concesiones: DFL MOP Nº 164, de 1991, con las modificaciones contenidas en la Ley 19.252 de 1993 y 19.460 de 1996, cuyo Texto Refundido, Coordinado y Sistematizado fue fijado en el DS MOP Nº 900, de 1996. El articulado de referencia de este Reglamento se realiza al DS MOP Nº 900 de 1996.
+
+15) Licitante u oferente: Persona natural o jurídica o grupo de ellas que se presenta a una licitación, según lo establecido en el presente Reglamento y en las respectivas bases de licitación.
+
+16) Ministerio: El Ministerio de Obras Públicas, pudiendo usarse también la sigla MOP.
+
+17) Oferta: El conjunto de documentos que forman las ofertas técnica y económica del licitante, incluida la documentación complementaria y los antecedentes generales.
+
+18) Postulante: Persona natural o jurídica o conjunto de ellas que postula ante el Ministerio de Obras Públicas la ejecución de obras públicas mediante el sistema de concesión.
+
+19) Precalificado: Persona natural o jurídica o conjunto de ellas, interesada en la licitación de una obra pública por el sistema de concesión, que ha cumplido los requisitos establecidos por las bases de precalificación.
+
+20) Precio: Contraprestación, que pagará el usuario de los servicios complementarios o de otros servicios de similar naturaleza que preste el concesionario en virtud del contrato de concesión.
+
+21) Premio en la evaluación de la oferta: Recompensa a que tiene derecho el postulante de una idea de iniciativa privada que se licita por el sistema de concesión, fijado como porcentaje, que ponderará el puntaje obtenido en su oferta económica, por el postulante licitante o por el grupo licitante al que éste haya cedido expresamente el premio.
+
+22) Presupuesto oficial de la obra: es el valor total de la obra estimado por el MOP e incluido en las bases de licitación.
+
+23) Prospecto de inversión: Documento elaborado por el MOP que resume las características técnicas de la obra que se desea entregar en concesión, las condiciones del servicio que se prestará y los montos aproximados de inversión.
+
+24) Servicios básicos: Todos aquellos que comprenden el objeto específico de la concesión y que sean imprescindibles y por los cuales el concesionario está autorizado a cobrar la tarifa.
+
+25) Servicios complementarios: Los servicios adicionales, útiles y necesarios, que el concesionario esté autorizado a prestar y por los cuales podrá cobrar un precio a los usuarios, en virtud del contrato de concesión y del artículo 7º, letra j) del DS MOP Nº 900 de 1996.
+
+26) Servicios especiales obligatorios: Cualesquiera otros servicios establecidos con carácter obligatorio en las bases de licitación. Estos podrán ser onerosos o gratuitos, según se determine en las bases de licitación.
+
+27) Sistema tarifario o estructura tarifaria: Conjunto de tarifas cobradas por los servicios básicos prestados por el concesionario.
+
+28) Sobres de oferta: Sobre, paquete, bulto u otro envoltorio en que son entregadas la oferta técnica y económica en las condiciones determinadas por las bases de licitación.
+
+29) Sociedad concesionaria: La sociedad constituida por el adjudicatario, con la que se entenderá celebrado el contrato de concesión, y cuyo objeto será la ejecución, reparación, conservación y explotación de obras públicas fiscales, en la forma y condiciones determinadas en las bases de licitación. También denominada concesionario.
+
+30) Tarifa: Contraprestación del servicio básico prestado por el concesionario, regulado en el contrato de concesión.
+
+## Título II
+
+De las licitaciones originadas por particulares
+
+#### Artículo 4º
+
+Proyectos de Iniciativa Privada.
+
+1.- De acuerdo a lo dispuesto en el artículo 2º inciso 2º y siguientes del DS MOP Nº 900 de 1996, las personas naturales o jurídicas podrán postular ante el Ministerio de Obras Públicas la ejecución, reparación o conservación de obras públicas, a cambio de su explotación, mediante el sistema de concesión, siempre que la obra no esté, al momento de la presentación, siendo estudiada por el MOP para ser ejecutada mediante este mismo sistema. Para estos efectos, el MOP pondrá a disposición de los interesados, en los meses de enero y julio de cada año, un registro de los proyectos seleccionados para su explotación por el sistema de concesión. Serán eliminados de dicho registro los proyectos que no hayan sido licitados dentro del plazo de 5 años contados desde su incorporación, salvo que el MOP fundamente su mantenimiento.
+
+2.- Esta postulación se cumplirá de acuerdo al procedimiento establecido en los artículos siguientes y comprenderá dos etapas. En la primera, en adelante Presentación, el postulante entregará el proyecto para que el MOP evalúe si es de interés público. En el caso de que exista, en principio, interés público en el proyecto presentado, se iniciará una segunda etapa, en adelante Proposición, en la que el postulante acompañará los estudios considerados por el Ministerio para evaluar la idea de iniciativa privada.
+
+#### Artículo 5º
+
+Primera Etapa, Presentación.
+
+1.- La Presentación del proyecto contendrá, a lo menos, y en el orden señalado, los siguientes antecedentes:
+
+a) Nombre o razón social, domicilio, teléfono, fax y representante legal. Si el postulante es una persona jurídica, deberá acompañar los antecedentes que acrediten su existencia legal y facultades de representación de sus mandatarios.
+
+b) Rol Unico Tributario en el caso de personas jurídicas o Cédula de Identidad en el caso de personas naturales.
+
+c) Nombre y tipo de proyecto.
+
+d) Ubicación geográfica y área de influencia.
+
+e) Estimación de demandas y su tasa de crecimiento anual indicando el porcentaje de varianza esperada.
+
+f) Terreno, propiedad del mismo y necesidad de expropiación.
+
+g) Descripción de las obras y del servicio que se prestaría en concesión.
+
+h) Inversión presupuestada y costos de operación, incluyendo el porcentaje de varianza esperada en cada caso.
+
+i) Análisis financiero a nivel de perfil.
+
+j) Evaluación social a nivel de perfil incluyendo las alternativas no tarificadas que tenga el servicio que se propone.
+
+k) Riesgo asociado a la iniciativa, entendido éste como la complementariedad o competitividad de la iniciativa con los proyectos actualmente en estudio o ejecución, tanto por el MOP como por otros organismos públicos.
+
+l) Condiciones económicas que podría tener el contrato de concesión, tales como nivel tarifario, plazo de la concesión, pagos al Fisco o nivel de subsidio.
+
+m) Análisis ambiental general orientado a la determinación de la necesidad de realizar una evaluación de Impacto Ambiental, según las normas contenidas en la Ley Nº 19.300, sobre Bases Generales del Medio Ambiente.
+
+n) Solicitud del postulante en la que señale si acepta o no que el MOP amplíe el plazo para el desarrollo de los estudios de su proposición.
+
+o) Anexos: Cualquier otro antecedente del proyecto que el postulante considere útil o necesario para su evaluación.
+
+2.- Cada uno de los citados antecedentes deberá estar debidamente respaldado y fundamentado, indicando las fuentes de información utilizadas.
+
+3.- Las comunicaciones o notificaciones que el MOP realice tanto en esta etapa como en la de proposición serán dirigidas al domicilio indicado por el postulante, mediante carta certificada, fax o cualquier otro medio que permita dejar constancia de su recepción.
+
+4.- La Presentación se entregará, en un original y dos copias, conforme a las Instrucciones para la Presentación de Proyectos de Iniciativa Privada, elaboradas por el MOP, en la oficina de partes de la Dirección General de Obras Públicas, dónde se registrará la fecha y hora de entrega. También podrán realizarse presentaciones en las oficinas de partes de las Secretarías Regionales Ministeriales del MOP, las que deberán remitir los antecedentes, en el plazo de 5 días, al DGOP.
+
+5.- El MOP revisará en el plazo de 10 días, desde la presentación, si los antecedentes acompañados se ajustan a lo establecido en el presente Reglamento y lo comunicará al postulante. En el caso que se comprobare que los antecedentes están incompletos, el postulante deberá entregar los faltantes en la oficina de partes de la DGOP o en las Secretarías Regionales Ministeriales del MOP, para lo cual tendrá un plazo adicional de 5 días desde la recepción de la notificación. Dichas Secretarías enviarán la documentación en el plazo señalado en el inciso anterior. En el caso de que estos nuevos antecedentes no sean presentados dentro de plazo, se tendrá por no efectuada la Presentación.
+
+6.- Dependiendo del monto de la inversión presupuestada, el MOP clasificará las presentaciones en las siguientes tres categorías:
+
+A) Proyectos que tengan una inversión estimada de hasta 300.000 UF
+
+B) Proyectos con una inversión estimada desde más de 300.000 UF hasta 800.000 UF
+
+C) Proyectos con una inversión estimada de más de 800.000 UF.
+
+#### Artículo 6º
+
+Evaluación de la Presentación y Respuesta.
+
+1.- Para evaluar si existe, en principio, interés público en el proyecto presentado, el MOP podrá consultar los antecedentes con el Ministerio de Hacienda, MIDEPLAN u otros ministerios u organismos públicos competentes. No obstante, en el caso de que se trate de una obra pública de aquellas a que se refiere el inciso segundo del artículo 39° del DS MOP Nº 900 de 1996, previa la respuesta al postulante, será necesario contar con un informe del ministerio, servicio público, municipio, empresa pública u organismo del Estado de cuya competencia dependa la obra a que se refiere el proyecto.
+
+2.- Dentro del plazo de 45 días, contado desde la recepción de la Presentación en la DGOP o desde la recepción de los antecedentes faltantes si los hubiere, el DGOP dirigirá, al domicilio del postulante, un oficio de respuesta en que le indicará si existe o no, en principio, interés público en la idea presentada. En caso afirmativo, dicho oficio no implica el reconocimiento de derecho alguno del postulante sobre la presentación, ni la aprobación de la misma, sino sólo un interés de conocerla en detalle, sin responsabilidad ulterior para el MOP. No obstante lo anterior, este plazo de respuesta podrá ampliarse cuando se trate de las obras públicas a que se refiere el inciso segundo del artículo 39° del DS MOP Nº 900 de 1996.
+
+3.- El oficio de respuesta, en que el MOP le comunica al postulante que existe, en principio, interés público en la idea presentada contendrá, a lo menos, lo siguiente:
+
+a) Estudios mínimos a entregar en la etapa de Proposición, su forma y especificaciones;
+
+b) Plazo para la entrega, en su caso, de los informes parciales y del informe final. El plazo para la entrega de este último no podrá exceder de 180 días;
+
+c) Designación de un inspector fiscal del proyecto que representará al Ministerio ante el postulante en esta etapa;
+
+d) Forma, cuantía y condiciones de la garantía de seriedad a que se refiere el N°3 del artículo 0 del presente Reglamento.
+
+4.- Las personas naturales o jurídicas podrán volver a presentar la misma idea, aun cuando fuere rechazada por el MOP; sin embargo, en las siguientes presentaciones, el MOP tendrá el plazo de un año para responder.
+
+#### Artículo 7º
+
+Etapa de Proposición.
+
+1.- En el plazo de 5 días, contado desde la recepción del oficio de respuesta, el postulante podrá solicitar una ampliación del plazo de entrega de los estudios propuestos por el MOP, ya sea solicitando el máximo de hasta 180 días, cuando fuere menor o un plazo mayor de hasta 2 años, a través de una comunicación escrita dirigida al Director General de Obras Públicas, siempre que haya solicitado la ampliación en su Presentación. El MOP tendrá un plazo de 10 días desde la solicitud para comunicar al postulante si amplía o no el plazo para el desarrollo de los estudios, a través de oficio dirigido a su domicilio o al fax indicado por el postulante en su presentación. Esta decisión no será susceptible de recurso alguno.
+
+2.- Durante esta etapa, el MOP podrá exigir al postulante la realización de estudios adicionales.
+
+3.- Dentro del plazo de 30 días desde la recepción del oficio de respuesta, el postulante deberá entregar una garantía de seriedad que garantice la obligación de terminar los estudios en el plazo indicado y la suficiencia de los mismos. La cuantía de la garantía será de 1.000 UF en los proyectos de Categoría A, 3.000 UF en los proyectos de Categoría B y 5.000 UF en los proyectos de Categoría C. El plazo de la misma deberá ser igual al de entrega de los estudios más 60 días. Dicha garantía será devuelta dentro de los 30 días siguientes al de la entrega de los estudios correspondientes. El MOP hará efectiva dicha garantía en el caso que los estudios no sean entregados oportunamente o ellos no cumplan con la forma y especificaciones que establece el oficio a que se hace referencia en el inciso 3º del artículo anterior. En este caso, la decisión de hacerla efectiva será fundada y comunicada al postulante.
+
+4.- El postulante deberá presentar la Proposición en la oficina de partes de la DGOP dentro del plazo fijado, adjuntando copia del oficio de respuesta del MOP señalado en el inciso tercero del artículo 6° precedente. Transcurrido el plazo señalado sin que se presentare la Proposición, se entiende que el interesado se desiste de su postulación la que podrá ser asumida por el MOP o quedará disponible para nuevas presentaciones.
+
+5.- La Proposición deberá contener los estudios ejecutados así como todos los antecedentes señalados en el inciso primero del artículo 5° del presente Reglamento, debidamente actualizados.
+
+#### Artículo 8º
+
+Reembolso de los Estudios.
+
+1.- El MOP podrá ofrecer al postulante, el reembolso de todo o parte de los costos de los estudios que debió realizar para su proposición.
+
+2.- Una vez realizados los estudios, el postulante podrá solicitar el reembolso de todo o parte de ellos. El MOP determinará los montos afectos a reembolso, para lo cual el postulante entregará al MOP, en el plazo de 30 días contados desde la fecha de recepción del oficio de respuesta señalado en el artículo anterior, un presupuesto del valor de los estudios mínimos. Respecto de los estudios adicionales, el postulante deberá entregar al MOP, en el plazo de 30 días desde que fueran solicitados, el presupuesto con el valor de éstos.
+
+3.- El MOP valorará, tanto los estudios mínimos como los estudios adicionales, a criterio de mercado, y resolverá para cada caso, sin ulterior recurso, sobre el valor que pudiere llegar a reembolsar, en el plazo de 20 días desde que fuera presentado el presupuesto respectivo. Cuando se trate de estudios adicionales exigidos por el MOP durante la etapa de proposición, el porcentaje de los mismos a reembolsar será del 100%.
+
+4.- El reembolso, si lo hubiere, será realizado en el plazo máximo de 120 días desde que dichos estudios sean entregados y recibidos conformes, salvo que el MOP apruebe la Proposición y decida llamar a licitación el proyecto, ya sea por el sistema de concesión, en cuyo caso se aplicará lo señalado en el número 5 de este artículo, o por un sistema distinto del de concesión, en cuyo caso deberá pagar los estudios realizados en el plazo de 120 días desde que realice el llamado. En todo caso, realizado el reembolso o el pago del valor de los estudios, éstos se entenderán transferidos al MOP.
+
+5.- El MOP reembolsará el total del costo de los estudios mínimos y adicionales, que debió realizar el postulante para su proposición, cuando el proyecto sea adjudicado de acuerdo al procedimiento establecido en el presente Reglamento. Cuando el proyecto sea licitado por el sistema de concesión, el reembolso será de cargo del adjudicatario de la concesión. La forma, modo y plazo de este reembolso se establecerá en las bases de licitación. El reembolso será realizado directamente por el MOP, según lo señalado en el inciso tercero, si la licitación convocada no se perfecciona por falta de adjudicación o por cualquier otra causa en uno o dos llamados, en el plazo de 90 días desde que se resuelva la no perfección del contrato de concesión.
+
+6.- El reembolso, si lo hubiere, se entenderá sin perjuicio del premio a que pudiere tener derecho el postulante de una idea de iniciativa privada cuando ésta es licitada por el sistema de concesión, según lo señalado en el artículo 10° del presente Reglamento.
+
+#### Artículo 9º
+
+Respuesta a la Proposición.
+
+1.- El MOP responderá fundadamente la Proposición dentro del plazo legal establecido en el artículo 2 inciso 2º del DS MOP Nº 900 de 1996, remitiendo previamente los antecedentes al Ministerio de Hacienda para su conocimiento.
+
+2.- En la etapa de Proposición, la iniciativa del proyecto seguirá perteneciendo al postulante hasta la respuesta del MOP sobre su aceptación o rechazo. Si la Proposición es aceptada, ésta se entenderá transferida al Ministerio de Obras Públicas a cambio del premio en la evaluación de la oferta, aunque el postulante no se presente a la licitación de que se trate. En las bases de licitación se dejará constancia de la identidad del postulante y del premio a que éste tiene derecho en la evaluación de la oferta.
+
+3.- Dentro del plazo de 1 año contado desde la aprobación de la proposición el MOP llamará a licitación pública el proyecto de concesión. El proceso de licitación se entenderá iniciado cuando el MOP llame a precalificación del proyecto según lo señalado en el artículo 13° del presente Reglamento o cuando se realice el llamado a la licitación.
+
+4.- Si la Proposición es rechazada, la iniciativa se mantendrá como de propiedad del postulante hasta por un plazo de 3 años, y no podrá ser objeto de licitación por concesión sin antes notificar dicha situación al mismo, con el objeto que pueda concurrir a la licitación y optar al premio que le corresponda en la evaluación de su oferta. La no concurrencia a la licitación del postulante, debidamente notificado mediante oficio dirigido al domicilio indicado en su presentación, implicará su renuncia a todos los derechos como impulsor de dicha iniciativa.
+
+#### Artículo 10º
+
+Premio en la Evaluación de la Oferta.
+
+1.- El postulante, cuya proposición haya sido aceptada, podrá presentarse a la licitación acompañando toda la documentación solicitada en las bases de licitación y la copia del oficio de respuesta que acredita la aceptación de la misma. Para la determinación del premio a que tendrá derecho se utilizarán las categorías mencionadas en el artículo 5º del presente Reglamento; no obstante, la inclusión definitiva del proyecto en una categoría será realizada por el MOP una vez aceptada la Proposición, en función del presupuesto oficial de la obra, incluyendo el valor actualizado de los eventuales pagos al Estado por la infraestructura preexistente, si éstos son contemplados en las bases. Dicho presupuesto deberá constar en las bases de licitación.
+
+2.- El porcentaje de premio al que tendrá derecho el postulante será de 3% en los proyectos de Categoría C, 6% en los de Categoría B y 8% en los de Categoría A.
+
+3.- El puntaje de la oferta económica del postulante se incrementará en la cantidad que resulte de ponderar dicho puntaje por el porcentaje del premio, según el procedimiento de evaluación establecido en las bases de licitación.
+
+4.- El postulante podrá presentarse también a la licitación formando parte de un grupo licitante, cediendo expresamente el premio señalado en el presente artículo, a dicho grupo oferente.
+
+#### Artículo 11º
+
+Atribuciones del Director General de Obras Públicas.
+
+1.- El Director General de Obras Públicas será la autoridad que establecerá, cuando corresponda, si un proyecto presentado es igual o distinto a otro que haya sido presentado con anterioridad o que esté incluido en los planes de inversión del MOP.
+
+2.- Los postulantes podrán apelar, en el plazo de 10 días desde que fueran notificados, de la decisión en esta materia ante el Ministro de Obras Públicas, quien resolverá la controversia en el plazo de 90 días.
+
+#### Artículo 12º
+
+Licitación de los Proyectos de Iniciativa Privada. Particularidades.
+
+1.- La licitación de los proyectos de iniciativa privada se llevará a cabo conforme al procedimiento establecido en el Título III del presente Reglamento.
+
+2.- No obstante, el MOP podrá modificar dicho procedimiento en el sentido siguiente:
+
+a) Una vez realizado el llamado a licitación el MOP podrá exigir al postulante o grupo en el que se incluya que, en el plazo determinado en las bases de licitación, entregue una oferta económica conforme al procedimiento señalado en las mismas. En todo caso el postulante deberá incluir en su presentación la garantía de seriedad de la oferta.
+
+b) La Comisión de Apertura recibirá y abrirá, en el mismo acto, la oferta económica presentada.
+
+c) Con una anticipación mínima de 60 días antes de la apertura de las ofertas a que se refiere el artículo 21° del presente Reglamento, el MOP dará a conocer el contenido de la oferta económica a todos los licitantes interesados en el proyecto, mediante publicación en algún diario de circulación nacional o mediante carta certificada, dirigida a todos los precalificados, en el caso de que el procedimiento se hubiera iniciado con precalificación de licitantes, a que se refiere el artículo 13° del presente Reglamento o a todos los que hayan comprado bases de licitación en el caso de que no haya habido precalificación.
+
+d) La oferta económica del postulante será considerada como la oferta mínima de la licitación posterior, la que se llevará a cabo por el procedimiento establecido en el Título III del presente Reglamento y lo señalado en las bases de licitación.
+
+e) A la licitación pública respectiva podrán acudir todos los licitantes que cumplan los requisitos establecidos en la Ley de Concesiones, en el presente Reglamento y en las bases de licitación, incluido el postulante. Este último deberá presentar en este acto la misma oferta económica o una oferta que obtenga mejor puntaje de acuerdo con la fórmula establecida en las bases de licitación. En caso de no presentar dicha oferta, el MOP podrá hacer efectiva la garantía de seriedad a que se refiere la letra a) de este mismo numeral. Los demás licitantes solamente podrán presentar ofertas económicas que mejoren la oferta mínima publicada por el MOP.
+
+## Título III
+
+Licitación y Adjudicación
+
+#### Artículo 13º
+
+La Precalificación de Proyectos.
+
+1.- Previo al llamado a licitación pública nacional o internacional de un proyecto o de un conjunto de proyectos, el MOP podrá efectuar un llamado a precalificación de licitantes, cuando a su juicio la obra u obras revistan especiales características de complejidad, magnitud o costo. La precalificación podrá utilizarse tanto en proyectos de iniciativa pública como en aquellos de iniciativa privada a que se refiere el Título II del presente Reglamento. Una vez realizada la precalificación el MOP podrá desistirse de la licitación del proyecto sin indemnización alguna para los precalificados.
+
+2.- El Ministerio de Obras Públicas enviará las bases de precalificación al Ministerio de Hacienda, el que podrá pronunciarse en el plazo de 30 días.
+
+3.- El llamado a precalificación deberá contener, a lo menos, el plazo y lugar para el retiro de las bases de precalificación, la materia u objeto del proyecto de concesión y el plazo para presentar los antecedentes. Los llamados a precalificación se publicarán al menos, por una vez en el Diario Oficial y otra en un diario de circulación nacional.
+
+4.- Los interesados podrán efectuar consultas sobre las bases de precalificación dentro del plazo establecido en las mismas. Las consultas serán respondidas en comunicaciones, denominadas circulares aclaratorias, dirigidas a todos los que hayan comprado bases de precalificación. El MOP podrá, ya sea por su propia iniciativa o en respuesta a una consulta, aclarar, rectificar, enmendar o adicionar las bases de precalificación a través de circulares aclaratorias.
+
+5.- El MOP precalificará a aquellos interesados que cumplan con los requisitos exigidos en las bases de precalificación los que podrán referirse a requisitos relativos a aspectos jurídicos, capacidad económica, financiera, técnica, aptitud o experiencia y podrá rechazar fundadamente aquellos que no resulten idóneos bajo estos criterios, para una determinada concesión.
+
+#### Artículo 14º
+
+Del Llamado a Licitación.
+
+1.- El llamado a licitación es el acto por el cual el Director General de Obras Públicas, por sí o mediante delegación en el Director del Servicio o en los Secretarios Regionales Ministeriales de las regiones donde se realice el proyecto, invita a los interesados para que, sujetándose a las bases de licitación, formulen ofertas.
+
+2.- El llamado a licitación contendrá, a lo menos, la materia u objeto de la concesión, el plazo y lugar para el retiro de las bases y la fecha, hora y lugar de entrega de las ofertas técnica y económica. Los llamados a licitación se publicarán al menos por una vez en el Diario Oficial y otra en un diario de circulación nacional. No obstante, cuando haya habido precalificación del proyecto y solamente puedan presentar ofertas los licitantes precalificados, se entenderá ya efectuado el llamado público.
+
+3.- En todo caso, el MOP deberá cumplir con lo dispuesto en el artículo 13º letra g) del D.S. MOP N° 294, de 1984, y en el artículo 5º del DS MOP Nº 900. Para tal efecto remitirá:
+
+a) Al Ministerio de Hacienda las bases de licitación y el Prospecto de Inversión, a fin de que se aprueben formalmente sus términos. Si dentro de los 30 días desde el ingreso de las mismas en la oficina de partes del Ministerio de Hacienda no se reciben observaciones en la oficina de partes de la Dirección General de Obras Públicas, se entenderán aprobados los documentos de licitación por parte de ese Ministerio. El plazo antes fijado se suspenderá cada vez que el Ministerio de Hacienda efectúe observaciones o solicite información al MOP.
+
+Para efectos de la aprobación del Ministerio de Hacienda, el MOP deberá acompañar a las bases los estudios y demás documentos que respaldan o fundamentan el contenido de las bases de licitación
+
+b) Al Presidente de la República, un documento resumen de las características generales de la concesión y un plano indicando la ubicación geográfica de ésta, para su aprobación. En caso de que la obra por concesión se realice en zonas fronterizas, el Presidente de la República remitirá los antecedentes al Consejo de Seguridad Nacional.
+
+#### Artículo 15º
+
+De los Licitantes.
+
+Podrán concurrir a las licitaciones las personas naturales o jurídicas, nacionales o extranjeras, consideradas individualmente o dentro de un grupo licitante, siempre que cumplan con los siguientes requisitos:
+
+a) No les afecten impedimentos legales o las inhabilidades señaladas en el artículo 16 del presente Reglamento para celebrar contratos de esta naturaleza;
+
+b) Cumplan con los requisitos y exigencias generales vigentes sobre la materia contenidas en el DS MOP Nº 294, de 1984, en la Ley de Concesiones, en el presente Reglamento y en las respectivas bases de licitación.
+
+#### Artículo 16º
+
+Inhabilidades.
+
+1.- No podrán ser licitantes ni formar parte de un grupo licitante las personas condenadas o sometidas a proceso por crimen o simple delito que merezca pena aflictiva, como tampoco los fallidos no rehabilitados. Estas causales no serán aplicables una vez transcurrido el plazo de 2 años desde el término del cumplimiento de la pena o de la rehabilitación, según corresponda.
+
+2.- La norma del inciso precedente será aplicable a las personas jurídicas cuando uno o más de sus directores o socios que tengan facultades de administración estuvieren afectados por algunas de las causales de inhabilidad antes indicadas.
+
+3.- No podrán ser licitantes ni formar parte de un grupo licitante, las personas naturales o jurídicas que hayan formado parte, en el momento de la respectiva declaración de incumplimiento grave a que se refiere el artículo 28 del DS MOP Nº 900 de 1996, del grupo controlador de una sociedad concesionaria, en los términos que establecen los artículos 97° y 99° de la Ley 18.045 de Mercado de Valores, a la que se le haya declarado la extinción de la concesión por incumplimiento grave de las obligaciones del contrato de concesión. Esta causal no será aplicable una vez transcurrido el plazo de 5 años desde la extinción del contrato.
+
+#### Artículo 17º
+
+Bases de Licitación.
+
+Las bases de licitación contemplarán, a lo menos, las siguientes materias:
+
+a) Descripción de la obra pública fiscal que se licita por el sistema de concesión.
+
+b) Determinación de la normativa que rige el contrato.
+
+c) Forma, fecha, hora y lugar de la presentación de las ofertas, requisitos a cumplir por los licitantes, y antecedentes que se deben entregar en las ofertas técnica y económica.
+
+d) Presupuesto oficial de la obra.
+
+e) Régimen de garantías, su naturaleza y cuantía, indicando los plazos en que deben constituirse. Se consideran, entre otras, garantías de seriedad de la oferta, de construcción y de explotación de la obra.
+
+f) Plazos para consultas y aclaraciones sobre las bases de licitación.
+
+g) Sistemas de evaluación de las ofertas y procedimiento de adjudicación.
+
+h) Condiciones económicas de la concesión.
+
+i) Multas y sanciones por incumplimiento del contrato de concesión.
+
+j) Si se trata de un proyecto de iniciativa privada, la identidad del postulante y premio al que tiene derecho en la evaluación de la oferta y reembolso de los costos de los estudios, si procede.
+
+k) Especificación de la obra que se entrega en concesión así como de las obras adicionales, incluidas en las bases de licitación, para la operatividad de la misma y requerimientos técnicos mínimos para su diseño, ejecución y conservación y para la explotación del servicio, según corresponda, así como las exigencias ambientales que afectan al proyecto.
+
+l) Pagos que el concesionario deberá realizar al Fisco, si los hubiere.
+
+m) Pagos que el Fisco deberá realizar al concesionario, si los hubiere.
+
+n) Si la inversión y la construcción se realizará en una o varias etapas, durante el periodo de vigencia del contrato de concesión, de conformidad al cumplimiento de los niveles de servicio previamente establecidos. En caso que nada se establezca en las bases, se entenderá que debe realizarse en una sola etapa.
+
+o) Toda otra estipulación que sea necesario o conveniente incluir en virtud de lo establecido en la Ley de Concesiones, y en el presente Reglamento.
+
+#### Artículo 18º
+
+Consultas y Aclaraciones sobre las Bases de Licitación.
+
+1.- Las consultas serán formuladas al Director General de Obras Públicas o a quién hubiera realizado el llamado. El documento correspondiente deberá ser ingresado a la oficina de partes de la Dirección General de Obras Públicas, Servicio o Secretarías Regionales Ministeriales competentes en el plazo señalado en las bases de licitación.
+
+2.- Tanto las respuestas a las consultas formuladas por los licitantes, como las aclaraciones, rectificaciones, enmiendas o adiciones que el MOP quiera hacer a las bases de licitación, serán incluidas en comunicaciones denominadas circulares aclaratorias, dirigidas a todos los licitantes, con una antelación mínima de 10 días a la fecha de apertura de la oferta técnica. Si el MOP efectúa modificaciones en un plazo menor a 10 días, se deberá cambiar la fecha de recepción y apertura de la oferta técnica a una fecha a lo menos 10 días posterior a la última modificación. Las circulares aclaratorias deberán ser puestas a disposición de los licitantes en el lugar indicado en las bases de licitación.
+
+3.- Las circulares aclaratorias, que impliquen modificaciones de las Bases de Licitación, deberán estar visadas por el Ministerio de Hacienda.
+
+#### Artículo 19º
+
+De la Oferta.
+
+1.- La oferta estará compuesta por la ''Oferta Técnica'', que contendrá los antecedentes generales y técnicos exigidos por las bases de licitación, y por la ''Oferta Económica''.
+
+2.- Serán de cargo del oferente todos los costos directos e indirectos asociados a la preparación y presentación de su oferta, no siendo el MOP, en ningún caso, responsable de estos costos.
+
+3.- Las ofertas y todos los anexos entregados por los oferentes deberán estar escritos en idioma español. Las ofertas deberán ser entregadas en Sobres de Oferta señalando cuáles corresponden a la oferta técnica y cuáles a la oferta económica, debiendo indicar en cada uno el nombre del oferente.
+
+#### Artículo 20º
+
+Contenido de las Ofertas.
+
+La oferta deberá contener, a lo menos, los antecedentes y requisitos siguientes, salvo que se hubiesen exigido en la precalificación:
+
+I Oferta Técnica
+
+A.- Antecedentes Generales
+
+a) Identificación del oferente
+
+1.- Las personas naturales deberán acompañar fotocopia autorizada de su Cédula de Identidad e indicar su domicilio.
+
+2.- Las personas jurídicas deberán acompañar los siguientes antecedentes en originales o copia autorizada o fotocopia legalizada:
+
+a) Escritura pública de constitución de sociedad y sus modificaciones posteriores o texto refundido vigente; inscripción del extracto en el Registro de Comercio respectivo y publicación del extracto en el Diario Oficial.
+
+b) Escritura pública en que conste el poder del representante legal de la sociedad y certificación de su vigencia.
+
+c) Certificado de vigencia de la sociedad.
+
+d) Domicilio de la sociedad.
+
+3.- Las personas jurídicas extranjeras deberán presentar las escrituras y demás documentos que acrediten su constitución conforme a la legislación del país de origen y el instrumento donde conste el poder del representante legal, todos los cuales deberán estar debidamente legalizados conforme al artículo 345 del Código de Procedimiento Civil. Además, deberán acompañar un informe jurídico que resuma la vida de la sociedad indicando la fecha de constitución, modificaciones, objeto, capital, administración y representante legal donde se concluya que se haya legalmente constituida.
+
+4.- Las bases de licitación podrán exigir otra clase de antecedentes.
+
+b) Declaración jurada
+
+La Declaración Jurada, suscrita ante notario, deberá contener, a lo menos, lo siguiente:
+
+. La no existencia de impedimentos o inhabilidades para celebrar contratos de esta naturaleza o para ser licitantes.
+
+. El acatamiento de todas las disposiciones inherentes al proceso de licitación y adjudicación de la concesión y a las normas establecidas en la Ley de Concesiones, en el presente Reglamento y en las respectivas bases de licitación.
+
+. Que aquellas personas naturales o jurídicas que formen parte de un grupo licitante, no formen parte directa de algún otro grupo que se presenta a la misma licitación.
+
+c) Garantía de seriedad de la oferta
+
+Los oferentes deberán incluir en su documentación una garantía de seriedad de la oferta en la forma, monto y condiciones que especifiquen las bases de licitación.
+
+B.- Antecedentes Técnicos
+
+Atendida la naturaleza diversa de las obras que pueden darse en concesión, el MOP precisará el contenido, aspectos y ponderaciones de la oferta técnica en las bases de licitación.
+
+II Oferta Económica
+
+La oferta económica contendrá la proposición y los antecedentes bajo los cuales el licitante está dispuesto a tomar la concesión de la obra, en función de alguno o algunos de los factores establecidos en el artículo 7º del DS MOP Nº 900 de 1996, según se señale en las bases de licitación.
+
+#### Artículo 21º
+
+Apertura de las Ofertas.
+
+1.- Las ofertas serán recibidas en acto público por la Comisión de Apertura en el día, hora y lugar indicado para este efecto en las bases de licitación.
+
+2.- En caso de postergación de la fecha de recepción y apertura de las ofertas, todos los derechos y obligaciones de la DGOP y de los oferentes se entenderán prorrogados hasta la nueva fecha de recepción y apertura de las ofertas, debiendo constituirse en dicha oportunidad las garantías que correspondan, cuando procediera.
+
+3.- La Comisión de Apertura estará formada, a lo menos, por el Director General de Obras Públicas o su representante, el Jefe Superior de la Dirección del MOP que corresponda a las obras a ejecutar o su representante y los Secretarios Regionales Ministeriales de la región o regiones en que se desarrollará el proyecto o la persona que él o ellos designen. Las bases de licitación podrán considerar miembros adicionales.
+
+4.- En el acto de apertura se procederá a recepcionar las ofertas técnicas y económicas y a abrir solamente el sobre de la oferta técnica de cada licitante y a verificar si se han incluido todos los antecedentes solicitados.
+
+5.- No se aceptará, bajo ninguna circunstancia, que los oferentes entreguen documentos faltantes de los solicitados en las bases o canjeen los rechazados con posterioridad al inicio del acto de apertura.
+
+6.- Los sobres de la oferta económica serán sellados y firmados por todos los integrantes de la Comisión de Apertura. Permanecerán en custodia, sin abrir, hasta el momento de haberse seleccionado las ofertas técnicas aceptables, en la fecha que señalen las bases de licitación.
+
+7.- En la ceremonia de apertura se levantará un acta en que se dejará constancia de quienes presentaron ofertas, de los antecedentes recibidos y de las observaciones que formularen los oferentes y los miembros de la Comisión de Apertura.
+
+8.- No se aceptará ninguna nueva oferta o contraoferta después del acto de apertura de la oferta técnica.
+
+#### Artículo 22º
+
+Comisión de Evaluación de las Ofertas.
+
+1.- La Comisión de Evaluación de las ofertas estará formada, a lo menos, por un profesional representante del Director General de Obras Públicas, uno del Jefe del Servicio que corresponda a la obra, uno del Ministro de Obras Públicas y uno designado por el Ministro de Hacienda. Las bases de licitación podrán contemplar la designación de miembros adicionales.
+
+2.- Los miembros de la Comisión calificarán las ofertas en forma independiente y tendrán un plazo fijo, establecido en las bases de licitación, concordante con la magnitud de la obra, su complejidad o la documentación que se haya exigido en la oferta.
+
+#### Artículo 23º
+
+Estudio y Evaluación de las Ofertas Técnicas.
+
+1.- Los aspectos técnicos sobre los que deberá pronunciarse la Comisión de Evaluación serán los indicados en las bases de licitación. Para estos efectos, cada uno de sus integrantes asignará a los aspectos a evaluar una nota de 1 a 7, sin decimales, según su propio criterio y fundamentada en un formulario especial elaborado por la DGOP.
+
+2.- La nota final obtenida por los oferentes corresponderá al promedio ponderado de todas las notas asignadas a cada uno de los aspectos, según las ponderaciones indicadas en las bases de licitación, calculadas con un solo decimal.
+
+3.- El significado de las notas será el siguiente:
+
+7 Excelente
+
+6 Muy Bueno
+
+5 Bueno
+
+4 Regular
+
+3 Menos que Regular
+
+2 Insuficiente
+
+1 Inaceptable
+
+#### Artículo 24º
+
+Aclaraciones de la Oferta.
+
+El DGOP, de oficio o a solicitud de la Comisión de Evaluación, y con el Visto Bueno del Ministro de Obras Públicas, podrá requerir de los oferentes, hasta antes de la apertura de la oferta económica, aclaraciones, rectificaciones por errores de forma u omisiones, y la entrega de antecedentes, con el objeto de clarificar y precisar el correcto sentido y alcance de la oferta, evitando que alguna sea descalificada por aspectos formales en su evaluación técnica, y velando siempre por el principio de transparencia del proceso y de igualdad de los licitantes. El Director General, con el Visto Bueno del Ministro de Obras Públicas, será quien determine si los errores u omisiones pueden ser subsanados mediante este procedimiento y podrá, si lo estima necesario, postergar la fecha de apertura de la oferta económica.
+
+#### Artículo 25º
+
+Selección Técnica.
+
+1.- No serán técnicamente aceptables las ofertas en las que:
+
+a) Uno o más de los aspectos presentados no cumplieren con lo dispuesto en el presente Reglamento y en las bases de licitación;
+
+b) Uno o más de los aspectos evaluados ha obtenido una nota final inferior a 3,0 de acuerdo a lo establecido en las bases de licitación, o
+
+c) La nota final promedio de la oferta técnica ha sido inferior a 4,0.
+
+2.- Las ofertas serán declaradas técnicamente aceptables o no aceptables, según lo establecido en el inciso anterior por la Comisión de Evaluación sin que proceda recurso o reclamación alguna sobre esta decisión ante el MOP. Quedarán a disposición de los oferentes no seleccionados todos los antecedentes que acompañan en su oferta técnica, devolviéndose las garantías correspondientes dentro de los 15 días de la fecha de apertura de las ofertas económicas. Las ofertas técnicamente aceptables pasarán a la etapa siguiente de la evaluación.
+
+#### Artículo 26º
+
+Apertura de las Ofertas Económicas.
+
+1.- La apertura de las ofertas económicas se realizará en la fecha, hora y lugar establecidos en las bases de licitación, sin perjuicio de lo señalado en el artículo 24°, y a ella podrán asistir los licitantes que lo deseen.
+
+2.- La Comisión de Apertura estará integrada en la forma señalada en el artículo 21° del presente Reglamento. La Comisión dará a conocer el resultado de la evaluación técnica de las ofertas, y procederá a abrir sólo los sobres de la oferta económica de los licitantes cuyas ofertas fueron declaradas técnicamente aceptables. Los sobres de los licitantes, cuyas ofertas no fueron aceptadas en la etapa de evaluación técnica, serán devueltos, sin abrir, dejándose constancia de ello en el acta correspondiente.
+
+3.- Las ofertas económicas que no incluyan todos los antecedentes requeridos en las bases de licitación o que presenten enmiendas o condicionamientos serán rechazadas.
+
+4.- En la ceremonia de apertura se levantará un acta en que se dejará constancia de quienes presentaron ofertas, de los antecedentes recibidos y de las observaciones que formularen los oferentes y miembros de la Comisión de Apertura.
+
+#### Artículo 27º
+
+Evaluación de Oferta Económica.
+
+1.- La Comisión de Evaluación verificará si los antecedentes presentados en la oferta económica se ajustan a las bases de licitación y asignará un puntaje a las mismas, considerando los factores señalados en el artículo 7º del DS MOP Nº 900 de 1996, evaluados según el sistema establecido en las bases de licitación.
+
+2.- En caso de licitaciones originadas por iniciativas privadas se aplicará al resultado de la evaluación el premio a que tiene derecho el postulante, si éste hubiere presentado oferta.
+
+3.- La Comisión de Evaluación levantará un Acta de Calificación, que será firmada por todos los integrantes de la misma, en la que establecerá el orden de los licitantes en función del puntaje final obtenido. Dicha acta será entregada al DGOP dentro del plazo máximo de 30 días, desde la apertura de la oferta económica.
+
+#### Artículo 28º
+
+Adjudicación.
+
+1.- Dentro del periodo de validez de la oferta, el Director General de Obras Públicas comunicará por escrito al licitante que obtuvo el puntaje mayor, mediante carta certificada, la intención de adjudicarle la concesión, acompañando copia del acta de adjudicación, firmada por el DGOP y con el visto bueno del Ministerio de Hacienda, e informará asimismo si se aceptaron servicios complementarios a la concesión y las condiciones que les serían aplicables. Esa comunicación confirmará oficialmente al oferente favorecido la intención de la DGOP de adjudicarle el contrato; sin perjuicio de que éste se entenderá adjudicado con la publicación del correspondiente decreto supremo en el Diario Oficial. El adjudicatario deberá, en el plazo que indique dicha comunicación, renovar la garantía de seriedad de la oferta por el plazo que se determine y mantenerla vigente hasta que sea entregada la garantía de construcción o explotación según corresponda. En caso de incumplimiento de esta obligación, el adjudicatario no podrá constituir la sociedad concesionaria, el MOP hará efectiva la garantía, y se aplicará lo dispuesto en el artículo 32° del presente Reglamento.
+
+2.- El DGOP con el Visto Bueno del Ministro de Hacienda podrá desestimar fundadamente todas las ofertas presentadas, sin que proceda recurso o reclamación sobre esta decisión y sin indemnización alguna para los licitantes.
+
+## Título IV
+
+Del Decreto de Adjudicación y Contrato
+
+#### Artículo 29º
+
+Contenido del Decreto de Adjudicación.
+
+El decreto supremo del Ministerio de Obras Públicas, por el que se adjudica el contrato de concesión deberá llevar, además, la firma del Ministro de Hacienda y contendrá, a lo menos, lo siguiente:
+
+a) Individualización del adjudicatario.
+
+b) Bases de licitación y la oferta técnica y económica aceptada.
+
+c) Individualización de la normativa que se entiende incorporada al contrato.
+
+d) Individualización de anexos que forman parte integrante del contrato.
+
+e) Descripción del servicio que prestará el concesionario y su ubicación geográfica.
+
+f) Plazo de duración de la concesión.
+
+g) Estructura tarifaria.
+
+h) Obligaciones y derechos del concesionario.
+
+i) Garantías y multas que correspondan .
+
+j) Beneficios que se incluyen como compensación por los servicios ofrecidos.
+
+k) Compromisos que asume el Estado.
+
+l) Servicio del MOP que fiscalizará el contrato.
+
+m) Bienes Nacionales de Uso Público que serán destinados a áreas de servicio conforme a lo señalado en el artículo 32° del DS MOP Nº 900 de 1996.
+
+n) Cualquier otra cláusula de conformidad con las bases de licitación.
+
+#### Artículo 30º
+
+De la Sociedad Concesionaria, su Constitución y Requisitos.
+
+1.- Dentro del plazo fatal fijado por las bases de licitación, el que en todo caso no podrá ser inferior a 60 días, contados desde la publicación en el Diario Oficial del decreto supremo de adjudicación del contrato de concesión, el adjudicatario deberá constituir legalmente una sociedad concesionaria, de nacionalidad chilena, o agencia de la extranjera, con quien se entenderá celebrado el contrato de concesión. Su nombre deberá incluir las palabras Sociedad Concesionaria. Su objeto será determinado en las bases de licitación de acuerdo a las características de las obras licitadas. La duración de la sociedad será, como mínimo, el plazo de la concesión, más 2 años.
+
+2.- Salvo que las bases de licitación dispongan otra cosa, la sociedad concesionaria estará sujeta a las normas que rigen a las sociedades anónimas abiertas, de acuerdo a lo señalado en el artículo 2° del D.S. Nº 587, de 1982, Reglamento de la Ley 18.046, sobre Sociedades Anónimas, para lo que deberá inscribirse en el registro correspondiente. Las bases de licitación podrán establecer otras características y requisitos que debe cumplir dicha sociedad.
+
+3.- El capital suscrito y pagado de la sociedad concesionaria, al momento de su constitución deberá ser, al menos, equivalente al 20% del presupuesto oficial estimado por el MOP para la obra, salvo que las bases de licitación fijen un monto o porcentaje mínimo diferente, ello es sin perjuicio de las exigencias legales sobre la materia. El capital pagado deberá acreditarse mediante certificado bancario u otro mecanismo general y objetivo que determinen las bases de licitación.
+
+4.- Sin perjuicio de las normas generales sobre contabilidad aplicable a las sociedades, el MOP podrá exigir a las sociedades concesionarias, a través de las bases de licitación, los registros de información contable que se consideren necesarios para fiscalizar el contrato de concesión y la sociedad concesionaria.
+
+5.- El adjudicatario de la concesión deberá tener como mínimo un 51% de los derechos de la sociedad concesionaria y se obliga a no transferirlos, durante el periodo de construcción, sin autorización del Ministerio de Obras Públicas, sin perjuicio de lo dispuesto en el artículo 21° del DS MOP Nº 900 de 1996. Además, durante todo el periodo de concesión, la sociedad concesionaria deberá comunicar previamente al MOP cualquier cambio en la propiedad de los derechos de la sociedad concesionaria, que implique cambios en el control de la administración.
+
+#### Artículo 31º
+
+Suscripción y Protocolización.
+
+Dentro del plazo fatal fijado por las bases de licitación, que en todo caso no podrá ser inferior a 60 días, contados desde la publicación en el Diario Oficial del decreto supremo de adjudicación del contrato de concesión, el adjudicatario procederá a suscribir ante notario tres transcripciones del decreto supremo de adjudicación de la concesión, en señal de aceptación de su contenido, debiendo protocolizarse ante el mismo notario uno de sus ejemplares. Una de las transcripciones referidas será entregada para su archivo, en el plazo adicional de 15 días, contados desde la protocolización, al Departamento de Concesiones de la Dirección General de Obras Públicas y la otra a la Fiscalía del Ministerio de Obras Públicas conjuntamente con una copia autorizada de la protocolización. Las bases de licitación podrán establecer transcripciones adicionales y sus destinatarios. Las transcripciones suscritas en la forma señalada harán fe respecto de toda persona y tendrán mérito ejecutivo sin necesidad de reconocimiento previo.
+
+#### Artículo 32º
+
+Sanciones en Caso de Incumplimiento.
+
+1.- Los plazos establecidos en las bases de licitación para el cumplimiento de las obligaciones a que se refieren los artículos 30° y 31° del presente Reglamento serán fatales. El incumplimiento de cualquiera de las obligaciones señaladas en los mencionados artículos será declarado mediante decreto supremo del Ministerio de Obras Públicas, que deberá llevar la firma del Ministro de Hacienda, en el cual se dejará sin efecto la adjudicación de la concesión. El MOP hará efectivas las garantías del adjudicatario que se encuentren vigentes y éste no tendrá derecho a indemnización alguna.
+
+2.- Una vez publicado el decreto supremo en el que se deja sin efecto la adjudicación de la concesión, el Ministerio de Obras Públicas podrá optar por:
+
+a) Realizar una nueva licitación pública conforme al presente Reglamento y a las bases que se establezcan para tal efecto.
+
+b) Realizar una licitación privada entre los licitantes que presentaron ofertas en la licitación original, excluido el adjudicatario cuya asignación se dejó sin efecto. Dicha licitación será convocada por el Director General de Obras Públicas, o por el Director o Secretario Regional Ministerial en el que éste hubiere delegado, mediante carta certificada u otro medio que él mismo determine, dirigida al representante del licitante, dentro de los 15 días siguientes a la publicación del decreto supremo en que se deje sin efecto la asignación realizada. En esta licitación sólo podrán participar los licitantes cuyas ofertas hayan sido declaradas técnicamente aceptables en la licitación original, los cuales podrán presentar una nueva oferta económica que mejore su oferta anterior. La presentación de las ofertas, su contenido, las garantías que correspondan, así como la apertura y evaluación de las mismas, se regirán por el presente Reglamento y la convocatoria respectiva, pudiendo establecerse en ella las aclaraciones, rectificaciones o precisiones que se estimen convenientes.
+
+3.- El DGOP, con el Visto Bueno del Ministro de Hacienda, en ambas opciones, podrá desestimar fundadamente todas las ofertas presentadas, sin que proceda recurso o reclamación sobre esta decisión y sin que los licitantes tenga derecho a indemnización alguna.
+
+#### Artículo 33º
+
+Garantías del Contrato.
+
+1.- La sociedad concesionaria deberá constituir las garantías de construcción y de explotación en los plazos establecidos en las bases de licitación, pudiendo ser tomadores de las garantías el adjudicatario de la concesión o la sociedad concesionaria. La forma y cuantía de las mismas serán determinadas en las bases de licitación.
+
+2.- El MOP podrá hacer efectivas, total o parcialmente, dichas garantías en los casos de incumplimiento del contrato y, en particular, en los siguientes:
+
+a) Celebración, por parte de la sociedad concesionaria, de algún tipo de acto o contrato sin la autorización del MOP cuando ésta sea exigida por la Ley de Concesiones, el presente Reglamento o las bases de licitación.
+
+b) Incumplimiento de las sanciones o multas impuestas durante la concesión.
+
+c) No constitución o no reconstitución de las garantías y pólizas de seguros establecidas en las bases de licitación, en los plazos previstos en las mismas.
+
+d) Retrasos en los pagos que la sociedad concesionaria tenga que realizar al Fisco, establecidos en el contrato de concesión.
+
+e) Cualquier incumplimiento de las obligaciones del concesionario con terceros, cuando el MOP sea declarado subsidiariamente responsable.
+
+f) Cualquier otro incumplimiento del contrato, según lo establecido en las bases de licitación.
+
+3.- En el caso que el MOP hiciera efectiva alguna garantía, ésta deberá reconstituirse o complementarse, según proceda, en el plazo de 15 días a contar de la fecha en que se hizo efectiva.
+
+#### Artículo 34º
+
+Garantía de Construcción.
+
+1.- La garantía de construcción tiene por objeto asegurar el cumplimiento de las obligaciones del concesionario durante la etapa de construcción. Esta garantía reemplazará la garantía de seriedad de la oferta y el plazo, forma y cuantía de la misma será establecido en las bases de licitación; en todo caso el plazo de la garantía no podrá ser inferior al señalado en las bases de licitación para la etapa de construcción de la obra, más 3 meses.
+
+2.- La garantía de construcción de la obra será devuelta a la sociedad concesionaria una vez terminadas la totalidad de las obras y entregados los documentos exigidos por el contrato para finalizar esta etapa, siempre que se haya entregado la garantía de explotación a conformidad del MOP y de acuerdo al presente Reglamento.
+
+#### Artículo 35º
+
+Garantía de Explotación.
+
+1.- La sociedad concesionaria estará obligada a entregar al MOP la garantía de explotación, en el plazo, forma y cuantía establecidos en las bases de licitación. En todo caso, la garantía tendrá una vigencia igual al periodo de explotación, más 12 meses como mínimo. No obstante, la sociedad concesionaria podrá optar por entregar documentos de garantía cuya vigencia sea menor, siempre que ello sea aceptado por el DGOP y cada documento sea entregado antes del vencimiento del anterior; el DGOP estará facultado para cobrar la garantía vigente en el caso de que ésta no se haya renovado con una antelación mínima de 10 días. El plazo del último documento será lo que reste de la etapa de explotación más 12 meses, como mínimo.
+
+2.- El MOP no otorgará la autorización de puesta en servicio provisorio de la obra, si no se da cumplimiento a la obligación de entregar la garantía de explotación.
+
+3.- Las bases de licitación podrán exigir constituir nuevas garantías por la realización de nuevas inversiones o con el objeto de asegurar el cumplimiento de las condiciones en que el Estado recibirá la obra concesionada, entre otras. El plazo de constitución, vigencia, forma y cuantía serán establecidos en las bases de licitación.
+
+4.- La garantía de explotación será devuelta en el plazo señalado en las bases de licitación, siempre y cuando el concesionario haya cumplido todas las obligaciones contraídas con el MOP.
+
+#### Artículo 36º
+
+Seguros.
+
+1.- La sociedad concesionaria deberá tomar pólizas de seguro que cubran la responsabilidad civil por daños a terceros y los riesgos catastróficos que puedan ocurrir durante el periodo de concesión. Las sumas percibidas producto de los seguros por catástrofes serán destinadas a la reconstrucción de la obra, salvo que las partes acuerden destinarlas a otros fines u obras propias del contrato de concesión.
+
+2.- Las bases de licitación determinarán los plazos, forma, condiciones, modalidades y las demás cláusulas que deberán contener dichas pólizas, así como el procedimiento de aprobación de éstas.
+
+3.- Las bases de licitación podrán exigir otro tipo de pólizas de seguro.
+
+#### Artículo 37º
+
+De los Pagos Previstos en el Contrato.
+
+1.- El Fisco realizará los pagos que correspondan en virtud del contrato de concesión, conforme al procedimiento y plazos previstos para ello en las bases de licitación y del Decreto Ley N° 1.263, de 1975, del Ministerio de Hacienda, Orgánico de Administración Financiera del Estado. La Sociedad Concesionaria realizará los pagos que correspondan en virtud del contrato de concesión conforme al procedimiento y plazos previstos para ello en las bases de licitación.
+
+2.- Con este fin la sociedad concesionaria deberá presentar, durante el mes de octubre del año anterior, la relación de todos los pagos que tenga que efectuar el Fisco a la sociedad concesionaria, indicando el motivo, la cuantía estimada y el plazo en que deberán realizarse, así como todos los pagos que tenga que realizar la sociedad concesionaria al Fisco. Asimismo deberá reiterar el pago que corresponda con un mes de anticipación a la fecha de pago.
+
+3.- La entrega de la relación de pagos o de la reiteración por escrito será sin perjuicio de la obligación de la Sociedad Concesionaria y del MOP de realizar los pagos que correspondan en virtud del contrato de concesión, no obstante las sanciones que procedan respecto de la Sociedad Concesionaria en caso de atraso o incumplimiento.
+
+4.- Los pagos que deba realizar el Fisco se efectuarán mediante Vale Vista o Cheque Nominativo, extendidos a nombre de la sociedad concesionaria o de quién corresponda legalmente.
+
+5.- Los pagos que la sociedad concesionaria deba realizar al Fisco se harán mediante Vale Vista a nombre del DGOP.
+
+6.- Cuando el Fisco tenga que pagar el IVA a la sociedad concesionaria no se contemplará reajuste entre la fecha de la facturación al Fisco y la fecha de pago de las facturas establecida en las bases de licitación.
+
+## Título V
+
+De la Fiscalización del Contrato de Concesión
+
+#### Artículo 38º
+
+Del Inspector Fiscal.
+
+1.- El MOP nominará un inspector fiscal en el plazo de 15 días desde la publicación del decreto de adjudicación en el Diario Oficial.
+
+2.- Toda comunicación y relación entre el concesionario y el Ministerio de Obras Públicas se canalizará a través del inspector fiscal, sin perjuicio de las instancias de apelación establecidas en la Ley de Concesiones, el presente Reglamento o en las bases de licitación correspondientes.
+
+#### Artículo 39º
+
+Funciones y Atribuciones del Inspector Fiscal en la Etapa de Construcción.
+
+Durante la etapa de construcción el inspector fiscal fiscalizará el desarrollo del contrato de concesión y tendrá todas las funciones y atribuciones que señalen las bases de licitación, con al menos las siguientes:
+
+a) Inspeccionar y aprobar los diseños, planos, estudios y especificaciones del proyecto;
+
+b) Fiscalizar el cumplimiento de las especificaciones y normas técnicas sobre la construcción de las obras;
+
+c) Fiscalizar el cumplimiento del plan de trabajo propuesto por la sociedad concesionaria;
+
+d) Fiscalizar el cumplimiento de las normas de seguridad; e) Fiscalizar el cumplimiento de las normas de calidad;
+
+f) Entregar a la DGOP los reportes que esta Dirección solicite en relación a la gestión de la concesión durante la etapa de construcción;
+
+g) Revisar la Información estadística entregada por la sociedad concesionaria;
+
+h) Proponer al Director respectivo compensaciones o realización de obras adicionales en la forma indicada en el artículo 68 del presente Reglamento;
+
+i) Entregar los terrenos necesarios para la construcción de las obras, previstos en las bases de licitación, con la debida anotación en el Libro de Obra;
+
+j) Proponer la aplicación de las multas que correspondan, en virtud del contrato de concesión;
+
+k) Fiscalizar y velar por el cumplimiento de los aspectos jurídicos, contables y administrativos y, en general, cualesquiera otros que emanen de los documentos del contrato.
+
+l) Dictar órdenes e instrucciones para el cumplimiento del contrato de concesión.
+
+m) Revisar y proponer al Director respectivo la aprobación del Reglamento de Servicio de la Obra;
+
+n) Cualesquiera otras establecidas en las bases de licitación.
+
+#### Artículo 40º
+
+Funciones y Atribuciones del Inspector Fiscal en la Etapa de Explotación.
+
+Durante la etapa de explotación, el inspector fiscal fiscalizará el contrato de concesión y tendrá todas las funciones y atribuciones que señalen las bases de licitación, con al menos las siguientes:
+
+a) Entregar a la DGOP los reportes que esta Dirección solicite relativos a la gestión de la concesión;
+
+b) Realizar los análisis pertinentes de los antecedentes que debe entregar la sociedad concesionaria;
+
+c) Fiscalizar el cumplimiento de las normas técnicas sobre la conservación de las obras;
+
+d) Fiscalizar el cumplimiento del plan de trabajo;
+
+e) Fiscalizar el cumplimiento de las normas técnicas sobre la operación de las obras;
+
+f) Fiscalizar el cumplimiento del reglamento de servicio de la obra;
+
+g) Fiscalizar el cumplimiento del cobro de tarifas;
+
+h) Fiscalizar el cumplimiento de las condiciones económicas de la licitación;
+
+i) Proponer la aplicación de multas;
+
+j) Fiscalizar y velar por el cumplimiento de los aspectos jurídicos, contables, administrativos y, en general, de cualesquiera otros que emanen de los documentos del contrato;
+
+k) Todas las que corresponden al inspector fiscal de la etapa de construcción relacionadas con la ingeniería de los proyectos y la construcción cuando se realicen obras durante la fase de explotación;
+
+l) Fiscalizar el cumplimiento de las exigencias ambientales del proyecto;
+
+m) Dictar órdenes e instrucciones para el cumplimiento del contrato de concesión;
+
+n) Cualesquiera otras establecidas por las bases de licitación.
+
+#### Artículo 41º
+
+Libro de Obras y Asesores.
+
+1.- Los inspectores fiscales, tanto en la etapa de construcción como en la de explotación deberán contar, para el desempeño de su cometido, entre otros antecedentes, con un libro denominado Libro de Obras, en el cual se individualizará la obra concesionada, la sociedad concesionaria y al inspector fiscal, con mención de las resoluciones pertinentes. El libro de obras deberá registrar los hechos más importantes que se produzcan durante el curso de la ejecución de la obra y explotación de la misma, en especial el cumplimiento por parte del concesionario de las especificaciones técnicas, observaciones realizadas durante la construcción, comunicaciones y notificaciones a la sociedad concesionaria, etc. y de las obligaciones contraídas en conformidad a las bases de licitación y la oferta presentada.
+
+2.- Sin perjuicio de lo establecido en el inciso anterior, con la autorización del Director respectivo, se podrá ordenar que el inspector fiscal sea asesorado por ingenieros civiles, arquitectos, constructores civiles, y otros profesionales. Las actividades y obligaciones de éstos últimos asesores se establecerán en el convenio que con ellos se celebre, para estos efectos.
+
+#### Artículo 42º
+
+Recursos.
+
+1.- Las órdenes o resoluciones escritas que en el curso de la concesión dicte el inspector fiscal, sea sobre las obras u otros aspectos que se relacionen con el contrato de concesión podrán reponerse, por escrito, dentro de los 5 días hábiles siguientes de recibida la notificación, ante el mismo inspector fiscal que las dictó. A estos efectos se entenderá recibida cuando conste en el Libro de Obras, o se haya enviado por cualquier medio que permita tener constancia de su recepción. Dentro de los 5 días hábiles siguientes, éste se pronunciará sobre la reposición solicitada, manteniendo a firme la orden o resolución, modificándola o dejándola sin efecto.
+
+2.- Una vez resuelta la reposición, la sociedad concesionaria podrá apelar ante el Director General de Obras Públicas, dentro de un plazo de 3 días hábiles, a contar de la fecha en que hubiera sido recibida la notificación. A estos efectos se entenderá recibida cuando conste en el Libro de Obras, o se haya enviado por cualquier medio que permita tener constancia de su recepción. El Director resolverá la apelación, en un plazo no mayor de 10 días hábiles, contados desde su recepción en la oficina de partes, pudiendo decretar orden de no innovar.
+
+3.- En ningún caso la interposición de la reposición o de la apelación suspenderán los efectos de la resolución u orden reclamada, cuando ésta comprometa la seguridad del usuario, la continuidad en la prestación del servicio o la calidad de la obra ofrecida.
+
+#### Artículo 43º
+
+Obligaciones de Información.
+
+1.- La sociedad concesionaria estará obligada a:
+
+· Otorgar libre acceso al inspector fiscal a los antecedentes del proyecto, planos, memorias de cálculo, especificaciones, etc., relacionados con el proyecto de ingeniería y, en general, a todos los antecedentes que sean necesarios para su labor de fiscalización y control del cumplimiento de las obligaciones emanadas del contrato de concesión.
+
+. Entregar los estados financieros trimestrales y anuales de la sociedad concesionaria, presentados en el formato (FECU) exigido por la Superintendencia de Valores y Seguros.
+
+. Informar la organización y personal superior de la sociedad cuando ésta se constituya y cada vez que se produzca un cambio.
+
+. Informar acerca de las garantías que haya otorgado la sociedad concesionaria en relación al contrato de concesión y en particular la prenda especial de concesión de obra pública indicando el nombre y domicilio de los acreedores y garantes.
+
+. Informar acerca de la prenda especial de obra pública que recaiga en los pagos comprometidos por el Fisco a la sociedad concesionaria a cualquier título, en virtud del contrato de concesión, indicando el nombre y domicilio de los acreedores y garantes.
+
+. Entregar la información acerca de los accidentes del trabajo y de las enfermedades profesionales, haciendo entrega, cuando corresponda, de las denuncias que se hubieren producido.
+
+. Proporcionar información mensual de reclamos presentados por los usuarios, identificando al usuario y el reclamo que haya formulado.
+
+2.- No obstante lo anterior, las bases de licitación podrán establecer cualquier otra información que el concesionario esté obligado a entregar al inspector fiscal.
+
+#### Artículo 44º
+
+Atribuciones del Director respectivo durante el Contrato.
+
+Durante la vigencia del contrato, el Director respectivo tendrá todas las facultades y atribuciones que conforme al ordenamiento jurídico le correspondan, teniendo, a lo menos, las siguientes funciones y atribuciones:
+
+a) Recomendar al Ministro de Obras Públicas las autorizaciones que correspondan, según las solicitudes planteadas por la sociedad concesionaria.
+
+b) Otorgar a la sociedad concesionaria autorización expresa para la modificación de los estatutos de la sociedad, para enajenar y gravar bienes y derechos, según lo establecido en artículo 15° del DS MOP Nº 900 de 1996, y para otros actos que puedan establecer las bases de licitación.
+
+c) Proponer al Ministro de Obras Públicas las modificaciones al contrato que sean necesarias por razones de interés público, conforme al inciso primero del artículo 19° del DS MOP Nº 900 de 1996, así como las indemnizaciones o compensaciones que procedan en caso de perjuicio.
+
+d) Proponer al Ministro de Obras Públicas la aceptación o rechazo de la revisión del sistema tarifario, de su fórmula de ajuste o del plazo de concesión por causas sobrevinientes que así lo justifiquen.
+
+e) Proponer al Ministro de Obras Públicas los convenios a que se refiere el artículo 20° del DS MOP Nº 900 de 1996.
+
+f) Autorizar la puesta en servicio de la obra, provisoria y definitiva.
+
+g) Poner término a la puesta en servicio provisoria, cuando procediere.
+
+h) Informar acerca de las controversias que hayan sido sometidas a la Comisión Conciliadora a los acreedores que lo soliciten y que tengan constituida en su favor la prenda especial de obra pública.
+
+i) En general, tendrá todas las facultades y atribuciones que le correspondan como parte del contrato de concesión.
+
+## Título VI
+
+De la Infraestructura en que se realizará la Obra Concesionada y Bienes y Derechos Afectos a la Misma
+
+#### Artículo 45º
+
+Infraestructura que se entrega a la Sociedad Concesionaria.
+
+1.- En el caso que el MOP proporcione a la sociedad concesionaria infraestructura preexistente, ésta se entenderá entregada en el estado en que se encuentre en el momento de la entrega del terreno o de las instalaciones, y será responsabilidad del concesionario cumplir con las obligaciones que, con respecto a las mismas, señalen las bases de licitación.
+
+2.- La entrega de terrenos o instalaciones se entenderá realizada con la suscripción y protocolización ante notario del decreto de adjudicación, salvo que las bases de licitación dispongan una fecha diferente la que no podrá ser anterior a la publicación del decreto supremo de adjudicación.
+
+3.- Los bienes nacionales de uso público o fiscales, destinados a desarrollar la obra entregada en concesión y que se encuentren comprendidos dentro del área de concesión, estarán afectos a ésta desde que se perfeccione el contrato de concesión, sin perjuicio de lo que señalen las bases de licitación.
+
+#### Artículo 46º
+
+Adquisiciones y Expropiaciones.
+
+1.- La sociedad concesionaria podrá adquirir para el Fisco los terrenos necesarios para realizar las obras de acuerdo con los planos establecidos en los proyectos aprobados, aplicándose lo dispuesto en el inciso primero del artículo 15° del DS MOP Nº 900 de 1996. En todo caso, las bases de licitación señalarán el procedimiento para la adquisición de los bienes.
+
+2.- El inspector fiscal mantendrá un registro actualizado de todos los bienes y derechos afectos a la concesión. Serán bienes afectos a la concesión todos aquellos bienes y derechos adquiridos por el concesionario, a cualquier título, durante la concesión, y que sean calificados como tales por el MOP. La reposición o renovación de bienes se someterá a la autorización de la Dirección General de Obras Públicas, la que se pronunciará sobre la solicitud presentada por el concesionario en el plazo de 30 días, contados desde la fecha de la recepción de la pertinente solicitud en la oficina de partes de la DGOP.
+
+3.- El MOP, a través del inspector fiscal, mantendrá informada a la sociedad concesionaria acerca del estado del proceso expropiatorio.
+
+## Título VII
+
+Sanciones y Multas
+
+#### Artículo 47º
+
+Infracciones y Sanciones.
+
+1.- El incumplimiento o infracción, por parte del concesionario, de cualquiera de las obligaciones del contrato de concesión, será causal de sanciones y multas.
+
+2.- El concesionario no estará exento de responsabilidad ni aun en los casos en que los incumplimientos sean consecuencia de contratos que celebre con terceras personas.
+
+#### Artículo 48º
+
+Procedimiento y Pago de las Multas.
+
+1.- Cuando el concesionario no cumpla sus obligaciones o incurra en alguna de las infracciones establecidas en las bases de licitación, el inspector fiscal propondrá al Director respectivo la multa que corresponda. Una vez aprobada ésta, el inspector fiscal notificará por escrito al concesionario de:
+
+a) Tipo de infracción en que ha incurrido;
+
+b) Características de la infracción, tales como el número de días de incumplimiento de la obligación a la fecha de la notificación, u otros elementos señalados en las bases de licitación;
+
+c) Monto de la multa.
+
+2.- Las multas o sanciones aplicadas por el MOP deberán ser pagadas por el concesionario dentro de los 30 días siguientes a la fecha de su notificación por escrito. Si el concesionario no diere cumplimiento a la sanción impuesta, dentro del plazo fijado, el MOP hará efectivas las garantías, sin perjuicio de las demás acciones que procedan.
+
+3.- La expresión notificación por escrito, comprende entre otras, anotaciones en el libro de obras, carta certificada, telegrama, o cualquier otro medio que permita dejar constancia fehaciente de la notificación.
+
+## Título VIII
+
+Del Desarrollo del Contrato de Concesión
+
+#### Artículo 49º
+
+Etapa de Construcción.
+
+La etapa de construcción, si la hubiere, comenzará con los estudios de ingeniería si procedieren y con el inicio de la ejecución de las obras de acuerdo con lo estipulado en el contrato de concesión y finalizará con la puesta en servicio provisoria de la obra según lo hayan definido las bases de licitación. Dicha etapa estará regida por lo dispuesto en el presente Reglamento y por las respectivas bases de licitación y comprenderá:
+
+a) La realización de los estudios previstos en las bases de licitación.
+
+b) La construcción de las obras señaladas en las bases de licitación.
+
+c) El mantenimiento y reparación de las obras preexistentes en el estándar que dispongan las bases de licitación, desde el inicio del contrato.
+
+d) El uso y goce sobre bienes nacionales de uso público o fiscales destinados a desarrollar la obra entregada en concesión.
+
+e) El uso y goce sobre bienes nacionales de uso público o fiscales destinados a áreas de servicios conforme a lo estipulado en el artículo 32° del DS MOP Nº 900 de 1996.
+
+#### Artículo 50º
+
+Ejecución de la Obra.
+
+1.- La obra se ejecutará conforme a lo previsto en las bases de licitación y oferta del adjudicatario. Para tal efecto, la sociedad concesionaria deberá presentar para la aprobación del inspector fiscal, todos los documentos exigidos en aquellas.
+
+2.- Cuando la obra se realice en un bien nacional de uso público, el concesionario deberá garantizar su uso ininterrumpido. Para estos efectos podrá solicitar al inspector fiscal, bajo exclusiva responsabilidad de la sociedad concesionaria, el funcionamiento de las obras ejecutadas, quién podrá autorizarlo sin que, en ningún caso, esto implique una autorización para iniciar el cobro de tarifas. La sociedad concesionaria deberá mantener, a su costo, operables para todo tipo de usuarios, los bienes nacionales de uso público o variantes por los que fuere necesario desviar el uso a causa de la ejecución de las obras contratadas.
+
+#### Artículo 51º
+
+Inicio de la Construcción de las Obras y Declaraciones de Avance.
+
+Las bases de licitación podrán establecer plazos máximos para el inicio de la construcción y avances de la obra y determinar las sanciones que correspondan en caso de retraso en los mismos.
+
+#### Artículo 52º
+
+Cumplimiento de Plazo.
+
+1. -El concesionario está obligado a concluir las obras y ponerlas en servicio en las fechas y plazos totales o parciales que se indiquen en las bases de licitación o en las determinadas en su oferta, según corresponda. Las bases de licitación indicarán sanciones y/o multas a beneficio del MOP por los incumplimientos, según el caso.
+
+2.- Si durante la construcción de la obra se produjeran atrasos ocasionados por caso fortuito o fuerza mayor, la sociedad concesionaria deberá presentar al inspector fiscal su justificación por escrito, dentro de los siguientes 30 días desde que se hayan producido y, en todo caso, dentro del plazo vigente; cumplido este periodo no se aceptará justificación alguna. El DGOP, previo informe del inspector fiscal, analizará las razones invocadas por el concesionario para justificar el atraso, y decidirá la aceptación o rechazo de la ampliación de plazo.
+
+3.- Cuando el retraso en el cumplimiento de los plazos parciales o del total, fuere imputable al Fisco, el concesionario gozará de un aumento en el plazo de la construcción igual al período de entorpecimiento o paralización, sin perjuicio de las compensaciones que procedan.
+
+#### Artículo 53º
+
+Inversión o Construcción por Etapas.
+
+1.- Las bases de licitación deberán establecer si la inversión y la construcción se realiza en una o varias etapas, durante el periodo de vigencia del contrato de concesión, de conformidad al cumplimiento de los niveles de servicio previamente establecidos, así como los plazos y condiciones a que ellas se sujetarán.
+
+2.- Las bases de licitación deberán determinar claramente los plazos y condiciones que pueden dar lugar a la realización de construcciones o inversiones y si éstas dan o no lugar a modificación del régimen económico del contrato, estableciendo claramente a qué condiciones afectaría y cómo se cuantificaría dicha modificación. En caso que nada dispongan las bases se entenderá que las inversiones o construcciones no darán lugar a la revisión del régimen económico.
+
+#### Artículo 54º
+
+Etapa de Explotación.
+
+La etapa de explotación comenzará con la puesta en servicio provisoria de las obras, comprendiendo esta etapa lo siguiente:
+
+a) La prestación del servicio básico, servicios complementarios y otros servicios para los que fue construida la obra, en el área de concesión;
+
+b) La conservación de la obra en óptimas condiciones de uso, según lo exigido por las bases de licitación;
+
+c) El cobro de tarifas que pagarán los usuarios de los servicios básicos y los precios por los otros servicios que esté autorizado a prestar el concesionario en virtud del contrato de concesión.
+
+d) La ejecución de las obras que deban construirse una vez que la obra haya sido puesta en servicio.
+
+e) El uso y goce sobre bienes nacionales de uso público o fiscales en los que se desarrolle la obra entregada en concesión.
+
+f) El uso y goce sobre bienes nacionales de uso público o fiscales destinados a áreas de servicios conforme a lo estipulado en el artículo 32° del DS MOP Nº 900 de 1996.
+
+#### Artículo 55º
+
+Autorización de Puesta en Servicio Provisoria.
+
+1.- El concesionario podrá solicitar la puesta en servicio provisoria, total o parcial de la obra, si así lo estipulan las bases de licitación. El DGOP deberá aprobar o rechazar la puesta en servicio provisoria en un plazo máximo de 30 días, contados desde la fecha de presentación de la solicitud.
+
+2.- Para estos efectos, el concesionario deberá presentar su solicitud en la oficina de partes de la DGOP, acompañando todos los documentos que hayan sido exigidos en las bases de licitación para la puesta en servicio, tales como garantía de explotación, seguros que correspondan a ésta etapa, Reglamento del Servicio de la Obra, entre otros.
+
+3.- Cumplidas las condiciones anteriores y en el caso que la obra sea aprobada, el DGOP, mediante resolución, autorizará la puesta en servicio provisoria del total o parte de la obra si así lo establecen las bases de licitación, comenzando la etapa de explotación.
+
+#### Artículo 56º
+
+Puesta en Servicio Definitiva.
+
+1.- La sociedad concesionaria deberá solicitar la recepción de la puesta en servicio definitiva de la obra dentro del plazo establecido en las bases de licitación, el que no podrá ser superior a 1 año, a contar de la autorización de la puesta en servicio provisoria de la totalidad de la obra. Las bases de licitación podrán establecer requisitos y condiciones para autorizar dicha puesta en servicio.
+
+2.- Solicitada por el concesionario la autorización de puesta en servicio definitiva, se designará una Comisión integrada por tres personas: un representante del Director General de Obras Públicas, otro del Servicio correspondiente y una última designada por el Ministro de Obras Públicas.
+
+3.- Dentro de los 10 días corridos, contados desde la recepción de la solicitud de puesta en servicio definitiva, se citará al concesionario para la inspección de la obra. Comprobado el estado satisfactorio de las obras e instalaciones y su correspondencia con el proyecto y demás especificaciones técnicas aprobadas, se levantará el acta correspondiente. Si las obras se encontraren incompletas o defectuosas, ello se hará constar en el acta, la que contendrá una descripción pormenorizada de las omisiones o defectos observados y se procederá conforme a lo estipulado en los artículos 47º y 48º de este Reglamento. Dicha acta será firmada por los miembros de la Comisión y el representante de la sociedad concesionaria y se extenderá por triplicado, quedando un ejemplar en poder de la sociedad concesionaria.
+
+4.- El concesionario no podrá poner en servicio definitivo la obra hasta que las omisiones o defectos sean subsanados a satisfacción de la Comisión, en los plazos establecidos en el acta. En caso de fallas graves, el Director General de Obras Públicas podrá cesar la puesta en servicio provisorio autorizada y, en consecuencia, el cobro de tarifas, sin perjuicio de las demás sanciones que procedan.
+
+5.- En caso de fallas menos graves, el DGOP podrá extender la puesta en servicio provisoria de la obra. La autorización señalará los plazos límites otorgados para subsanar o completar las obras o instalaciones, sin perjuicio de las sanciones que puedan aplicarse.
+
+6.- La puesta en servicio definitiva será autorizada mediante Resolución del DGOP y en ella deberá constar el monto total de la inversión realizada por el concesionario.
+
+#### Artículo 57º
+
+Reglamento de Servicio de la Obra.
+
+1.- El uso de la obra y los servicios que prestará el concesionario se regirán por un reglamento interno, el que, en todo caso, deberá incluir todas las normas derivadas de las bases de licitación y oferta técnica. La sociedad concesionaria deberá hacer entrega del borrador del mismo al inspector fiscal, para su revisión y aprobación, en el plazo previsto en las bases de licitación, y si éstas nada disponen, antes de los 90 días de la solicitud de puesta en servicio provisoria.
+
+2.- El reglamento, de acuerdo a la naturaleza diversa de las concesiones otorgadas, contendrá entre otras materias:
+
+a) Medidas de cuidado de la obra, seguridad y vigilancia.
+
+b) Medidas de mantención y aseo de las distintas instalaciones.
+
+c) Medidas orientadas a detectar y solucionar los problemas de accidentes, congestión o de cualquier otra naturaleza que se produzcan en el camino, respecto de las concesiones viales.
+
+d) Enumeración de los derechos y obligaciones de los usuarios por el uso de los servicios prestados.
+
+e) Medidas de mantenimiento y protección de las áreas revegetadas.
+
+f) Normas de utilización de los servicios obligatorios que establezcan las bases de licitación y de los servicios complementarios.
+
+g) Estándares de operación, calidad y gestión para la prestación de los servicios.
+
+h) Normas sobre reclamos de los usuarios.
+
+i) Mecanismos de evaluación y control de los servicios.
+
+j) Procedimientos.
+
+3.- En un plazo no superior a los 60 días de recepcionado el reglamento, el inspector fiscal notificará a la sociedad concesionaria de la aprobación o de las observaciones a dicho documento. En el caso de que el inspector fiscal no respondiere en el plazo indicado precedente, el Reglamento se entenderá aprobado al expirar dicho plazo. Si el inspector fiscal efectuare observaciones a dicho texto, la sociedad concesionaria tendrá un plazo de 30 días para subsanarlas. El inspector fiscal en el plazo de 15 contados desde la presentación de dichas correcciones deberá pronunciarse aprobando o rechazando éstas. Si el inspector fiscal rechazare dicho documento, la sociedad concesionaria deberá presentar un nuevo reglamento de servicio de la obra en la misma forma y procedimiento establecido para su presentación original
+
+4.- El MOP no dará la autorización de puesta en servicio provisoria de la concesión si no se ha aprobado previamente el reglamento de servicio de la obra.
+
+5.- La Sociedad Concesionaria deberá publicar un extracto del Reglamento, una vez aprobado definitivamente por el inspector fiscal, en un diario de circulación nacional y en un diario de circulación local de la comuna o comunas en las que se desarrolle la concesión. Dicho extracto se mantendrá a disposición gratuita de los usuarios en las oficinas de la Sociedad Concesionaria. El Reglamento de Servicio de la Obra aprobado podrá ser también consultado por los usuarios en las oficinas de la Sociedad Concesionaria.
+
+#### Artículo 58º
+
+Alteración en la Prestación del Servicio.
+
+1.- Cuando el concesionario, como consecuencia de la realización de los trabajos, prevea una alteración temporal en el nivel del servicio prestado, deberá comunicarlo al inspector fiscal a lo menos con 15 días de anticipación al hecho.
+
+2.- El inspector fiscal podrá exigir la adopción de medidas, por parte del concesionario, conducentes a procurar las mínimas interferencias en el uso normal de la obra. Estas medidas podrán referirse a fijación de horarios, señalización, precauciones de seguridad, plazo máximo de ejecución de obras u otras necesarias.
+
+#### Artículo 59º
+
+Estadísticas, Mediciones y Controles.
+
+1.- El concesionario deberá realizar los controles, mediciones y estadísticas que las bases de licitación le exijan, respondiendo de la veracidad de la información. Permitirá el acceso de inspectores autorizados del MOP a las dependencias donde están establecidos los sistemas de control estadístico a fin de imponerse de ellos, verificar y controlar los resultados.
+
+2.- Sin perjuicio de lo anterior, el MOP se reserva el derecho de efectuar, en forma independiente, cualquier medición que estime conveniente, pudiendo utilizar las instalaciones del concesionario que digan relación con los sistemas de control, sin afectar el funcionamiento de la concesión.
+
+#### Artículo 60º
+
+Vigilancia.
+
+1.- En el plazo que dispongan las bases de licitación, contado desde la ocupación material de uno o más terrenos correspondientes a la concesión, el concesionario debe cercarlo bajo la supervisión del MOP en la forma que indiquen las bases de licitación.
+
+2.- A partir de la ocupación y hasta la extinción de la concesión, corresponderá al concesionario la vigilancia de los terrenos y bienes afectos a la concesión. Cuidará especialmente de mantenerlos libres de ocupantes, de no permitir alteraciones de sus límites y de no admitir depósito de material ajeno a la concesión.
+
+#### Artículo 61º
+
+Obligación de Servicio Indiscriminado.
+
+1.- La obra entregada en concesión es un servicio público, por lo cual el concesionario está obligado a prestarlo ininterrumpidamente, salvo situaciones excepcionales, debidas a caso fortuito o fuerza mayor, y sin discriminación de ninguna especie a los usuarios, siempre que éstos cumplan con las condiciones del servicio y con el pago de las tarifas autorizadas en el contrato de concesión.
+
+2.- El concesionario podrá establecer tarifas, convenios o cobros diferenciados en favor de los usuarios, en atención a la intensidad de uso de la obra, o al sistema de pago de la tarifa, o a compromiso de un uso mínimo en un periodo de tiempo, u otras de similar naturaleza, conforme a lo señalado en las bases de licitación. Dichas tarifas, convenios o cobros, especiales, deberán ser no discriminatorios en el sentido que cualquier usuario que reúna las condiciones necesarias para optar a tales tarifas, convenios o cobros tendrá derecho a acceder a ellos. Con todo, el concesionario no podrá cobrar bajo ninguna circunstancia a ningún usuario una tarifa superior a la que le autoriza el contrato de concesión.
+
+#### Artículo 62º
+
+Daños a Terceros.
+
+1.- La sociedad concesionaria deberá adoptar, durante la concesión, todas las medidas para evitar daños a terceros y al personal que trabaja en la obra. Igualmente deberá tomar todas las precauciones para evitar daños a la propiedad de terceros y al medio ambiente durante la concesión de la obra.
+
+2.- La sociedad concesionaria será la única responsable de todo daño, de cualquier naturaleza, que con motivo de la ejecución de la obra y de su explotación se cause a terceros, al personal de la obra, a la propiedad de terceros o al medio ambiente, a menos que el daño sea exclusivamente imputable a medidas impuestas por el MOP después de la publicación del decreto supremo de adjudicación en el Diario Oficial.
+
+#### Artículo 63º
+
+Responsabilidad del Concesionario.
+
+El concesionario será siempre responsable del cumplimiento cabal, íntegro y oportuno del contrato de concesión, de la correcta ejecución de los proyectos y de las obras, y del cumplimiento de todas las obligaciones establecidas en el contrato de concesión, sin perjuicio de las funciones de dirección y control que corresponden al Ministerio de Obras Públicas.
+
+## Título IX
+
+De las Relaciones Con Terceros
+
+#### Artículo 64º
+
+Subcontratos.
+
+El concesionario podrá subcontratar cualquier tipo de actividad comprendida dentro del contrato de concesión, salvo que estuviera expresamente prohibido por las bases de licitación. En todo caso el concesionario será siempre el responsable ante el MOP de la correcta ejecución del contrato. Las bases de licitación podrán establecer requisitos para los subcontratos.
+
+#### Artículo 65º
+
+Transferencia de Acciones y Otras Modificaciones.
+
+1.- De acuerdo con lo previsto en el inciso quinto del artículo 30° del presente Reglamento, la sociedad concesionaria deberá solicitar autorización al MOP, durante el periodo de construcción, para transferir sus acciones o derechos.
+
+2.- En aquellos casos en que se requiera autorización, el Ministerio de Obras Públicas consentirá siempre la transferencia en favor del acreedor prendario, cuando ésta sea consecuencia de obligaciones garantizadas con la prenda de las acciones a favor de cualquier entidad financiera sujeta a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, de la Superintendencia de Valores y Seguros, o de los Fondos de Inversión regulados por la Ley Nº 18.815, o de las Administradoras de Fondos de Pensiones, establecidas de acuerdo con las normas del Decreto Ley Nº 3500, de 1980, y, en favor de cualquier otra persona natural o jurídica que cumpla los requisitos establecidos en las bases de licitación.
+
+3.- El Ministerio de Obras Públicas autorizará al adjudicatario las transferencias voluntarias de las acciones de la sociedad concesionaria, siempre que se cumplan los siguientes requisitos: a) se venda o transfiera a una sola persona, natural o jurídica, un paquete accionario único, total e indivisible igual o superior al 51% del capital social; b) que los eventuales compradores cumplan los requisitos para ser licitantes en la licitación que dio lugar al contrato de concesión, salvo que las bases de licitación establezcan otro procedimiento. El MOP autorizará o denegará la transferencia en el plazo de 30 días desde que fuera solicitado. En el caso de que no se responda en dicho plazo, la transferencia se entenderá autorizada siempre que ella sea conforme a derecho.
+
+4.- La sociedad concesionaria deberá solicitar además, a la Dirección General de Obras Públicas, autorización expresa para los siguientes actos:
+
+a) Modificación de los Estatutos de la sociedad concesionaria.
+
+b) Todo acto jurídico y contrato regulado por el artículo 15º del DS MOP Nº 900 de 1996, en cuyo caso, además, se requerirá el consentimiento del Ministro de Obras Públicas para su autorización.
+
+c) Otros actos que puedan establecer las bases de licitación.
+
+5.- La Dirección General de Obras Públicas se pronunciará, mediante resolución, sobre la solicitud de autorización en el plazo de 60 días, contados desde la fecha de la recepción de la pertinente solicitud en la oficina de partes de la DGOP. En el caso de que no se responda en dicho plazo, la autorización se entenderá concedida siempre que el acto que se autoriza sea conforme a derecho.
+
+#### Artículo 66º
+
+Transferencia de la Concesión.
+
+1.- El concesionario podrá transferir la concesión, en conformidad a lo dispuesto en el artículo 21º del DS MOP Nº 900 de 1996.
+
+2.- Para estos efectos el concesionario deberá presentar una solicitud al MOP, a través de la oficina de partes de la DGOP, individualizando al cesionario y las circunstancias de la cesión.
+
+3.- Para los efectos de lo dispuesto en el último inciso del artículo 21° del DS MOP Nº 900 de 1996 se entenderá que cumplen los requisitos establecidos en las bases de licitación aquellas personas que, habiéndose licitado la obra pública con una precalificación previa, cumplen los requisitos de las bases de precalificación correspondientes, aun cuando no hubieran sido inscritos en el registro de precalificación.
+
+4.- El MOP exigirá una garantía de seriedad del cesionario igual a la que hubieren fijado como garantía de seriedad del contrato las bases de licitación, la que deberá acompañar la solicitud de cesión. El cesionario entregará las garantías de construcción y explotación del contrato, según se trate de la etapa de construcción o explotación y según las disposiciones de los artículos 33º, 34º y 35º del presente Reglamento, una vez perfeccionado el decreto supremo que autorice la cesión, devolviéndose la garantía de seriedad en el plazo de 30 días desde su perfeccionamiento.
+
+5.- La autorización para transferir la concesión se otorgará mediante resolución en el plazo máximo de 60 días, a contar del ingreso de la solicitud en la oficina de la partes de la DGOP y se formalizará a través de un decreto supremo que autorice la cesión, que contendrá las características del nuevo concesionario. Este se dictará una vez acreditado el cumplimiento de los requisitos exigidos en el artículo 21° del DS MOP Nº 900 de 1996.
+
+#### Artículo 67º
+
+Constitución de Garantías.
+
+1.- La prenda especial de concesión de obra pública, contemplada en el artículo 43° del DS MOP Nº 900 de 1996, podrá ser pactada por la sociedad concesionaria con los financistas de la obra o de su operación o en la emisión de títulos de deuda de la sociedad concesionaria.
+
+2.- Aquellas personas naturales o jurídicas que tengan constituida en su favor la prenda especial de obra pública serán informadas de las controversias sometidas a la Comisión Conciliadora que revistan interés para ellas, de acuerdo al artículo 44º del presente Reglamento, con la finalidad de que puedan ejercer el derecho establecido en el inciso tercero del artículo 36° del DS MOP Nº 900 de 1996.
+
+## Título X
+
+Modificaciones de las Obras y Servicios y de Otros Aspectos Contractuales
+
+#### Artículo 68º
+
+Atribuciones del MOP.
+
+1.- Durante la etapa de construcción, el MOP, a propuesta del DGOP o de la sociedad concesionaria, podrá sustituir obras o realizar obras adicionales, siempre que no impliquen modificación en las condiciones económicas del contrato. Para ello utilizará uno de los siguientes procedimientos:
+
+a) Sustituir obras incluidas dentro del contrato por otras distintas que tengan valores equivalentes. Las bases de licitación determinarán un porcentaje máximo del presupuesto oficial de la obra, no superior al 5% de la misma, que podrá ser compensado.
+
+b) Realizar obras adicionales de carácter menor, en beneficio de los usuarios y la comunidad, por un valor máximo determinado en las bases de licitación. En todo caso, dichas obras no podrán afectar al cobro de tarifas por parte de la sociedad concesionaria. El monto de dichas obras será aprobado y pagado directamente por el MOP en la forma que indiquen las bases de licitación.
+
+2.- La forma de valorización de las obras se establecerá en las bases de licitación.
+
+3.- Para estos efectos no se considerarán obras nuevas o adicionales las correcciones, reparaciones u observaciones que formule el inspector fiscal para solucionar deficiencias del proyecto en ejecución, según las bases de licitación.
+
+#### Artículo 69º
+
+Modificación de las Obras y Servicios por Interés Público.
+
+1.- El Ministerio de Obras Públicas, desde que se perfeccione el contrato, podrá modificar, por razones de interés público, las características de las obras y servicios contratados y, como consecuencia, deberá compensar al concesionario con las indemnizaciones necesarias en caso de perjuicio.
+
+2.- Para ello el DGOP, a través del inspector fiscal, comunicará al concesionario las obras y servicios que corresponde modificar, las que deberán ser valoradas conforme al procedimiento indicado en las bases de licitación .
+
+3.- No será necesario compensar dichas obras en los casos en que las modificaciones sean compensadas disminuyendo otras obras previstas en las bases de licitación.
+
+4.- El Director General de Obras Públicas, con el Visto Bueno del Ministro de Obras Públicas y del Ministro de Hacienda, por razones de urgencia, podrá exigir la modificación de las obras y servicios desde el momento que lo estime conveniente, aunque esté pendiente la determinación sobre la indemnización.
+
+5.- El Ministerio de Obras Públicas podrá exigir nuevas garantías para la construcción de estas obras.
+
+6.- Las bases de licitación establecerán el monto máximo de la inversión que el concesionario puede estar obligado a realizar en virtud de lo dispuesto en los incisos anteriores, así como el plazo máximo dentro del cual el Ministerio podrá ordenar la modificación de las obras en concesión. Si las bases nada dicen a este respecto, el monto máximo de estas nuevas inversiones no podrá exceder el 15% del monto total de la inversión inicial efectuada por el concesionario, incluidas las sucesivas etapas, en el evento de que las bases de licitación hubieran previsto que la inversión o construcción se realizara por etapas. En el caso de que la modificación sea exigida durante el periodo de construcción y no sea posible determinar la inversión que realizará el concesionario, para determinar el monto máximo se utilizará el presupuesto oficial de la obra, salvo acuerdo expreso por escrito de la sociedad concesionaria, en cuyo caso se podráexceder dicho monto. El MOP no podrá requerir las modificaciones en una fecha posterior al cumplimiento de la mitad del plazo total de la concesión, salvo que así lo hubiesen dispuesto las bases de licitación o los casos de expreso acuerdo por escrito de la sociedad concesionaria.
+
+7.- Las modificaciones de las obras y servicios así como de las condiciones económicas del contrato de concesión, se harán mediante decreto supremo fundado, expedido por el Ministerio de Obras Públicas, el que deberá llevar, además, la firma del Ministro de Hacienda.
+
+#### Artículo 70º
+
+Modificaciones a las Obras por Acuerdo entre los Contratantes.
+
+1.- Si durante la vigencia de la concesión la obra resultare insuficiente para la prestación del servicio y se considerare conveniente su ampliación o mejoramiento, por iniciativa del Estado o a solicitud del concesionario, se procederá a la suscripción de un convenio complementario al contrato de concesión.
+
+2.- Este convenio complementario acogerá las particulares condiciones a que deba sujetarse la realización de las obras y su repercusión en el régimen de tarifas o en cualquier otro factor del régimen económico o en el plazo de la concesión, quedando facultado el Ministerio de Obras Públicas para incluir en dicho convenio, como compensación, uno o varios de esos factores a la vez.
+
+3.- Las bases de licitación podrán establecer mecanismos para la ejecución y compensación de estas obras.
+
+4.- La aprobación del respectivo convenio complementario se hará previo informe de la respectiva Dirección, mediante decreto supremo del Ministerio de Obras Públicas, que deberá llevar, además, la firma del Ministro de Hacienda.
+
+#### Artículo 71º
+
+Revisión del Sistema Tarifario.
+
+1.- Las bases de licitación establecerán la forma y el plazo en que el concesionario podrá solicitar la revisión del sistema tarifario, de su fórmula de reajuste o del plazo de la concesión, por causas sobrevinientes que así lo justifiquen, pudiendo modificar uno o varios de esos factores a la vez. En los casos en que las bases no contemplaren estas materias, las controversias que se susciten entre las partes se sujetarán a lo dispuesto en el artículo 36° del DS MOP Nº 900 de 1996.
+
+2.- Las modificaciones se harán mediante decreto supremo fundado expedido por el Ministerio de Obras Públicas, el que deberá llevar, además, la firma del Ministro de Hacienda.
+
+#### Artículo 72º
+
+Formalidades a Cumplir en las Modificaciones al Contrato de Concesión.
+
+1.- Las modificaciones que se efectúen al contrato de concesión de acuerdo con lo dispuesto en los artículos 69° ó 70° del presente Reglamento deberán sujetarse a las siguientes formalidades
+
+a) De las reuniones que al efecto se lleven a cabo entre la sociedad concesionaria y el MOP se dejará constancia escrita en un acta elaborada al efecto.
+
+b) Una copia del acta o actas a que se refiere el apartado a) de este numeral, deberá ser enviada al Presidente de la Comisión Conciliadora para su información o para la intervención de la misma, en el caso que ésta proceda, y otra copia deberá ser enviada al Fiscal del MOP para su custodia
+
+2.- En el caso de que en el procedimiento de modificación intervenga la Comisión Conciliadora, de las deliberaciones de la Comisión y de las audiencias de las partes se dejará constancia en actas, de las cuales se entregarán copias a las partes.
+
+3.- Los fallos de la Comisión Arbitral, cuando intervenga en las modificaciones de contrato, serán públicos y estarán a disposición de los interesados en el MOP.
+
+## Título XI
+
+Duración, Suspensión, Extinción y Transferencia Forzosa de la Concesión
+
+#### Artículo 73º
+
+Duración de la Concesión.
+
+1.- Las concesiones a que se refiere el presente Reglamento tendrán el plazo de duración que determine el decreto de adjudicación, que en ningún caso podrá ser superior a 50 años.
+
+2.- El plazo se computará de acuerdo a lo establecido en las bases de licitación. En ningún caso su inicio podrá ser anterior a la fecha de publicación del decreto supremo de adjudicación en el Diario Oficial. No obstante, la sociedad concesionaria podrá iniciar la construcción, una vez realizada la publicación antes señalada según dispongan las bases de licitación, antes del inicio del cómputo del plazo de la concesión.
+
+3.- Una vez concluido el plazo de las concesiones, las obras deberán ser nuevamente entregadas en concesión por el MOP para su conservación, reparación, ampliación o explotación, aisladas, divididas o integradas conjuntamente con otras obras, sin perjuicio de lo dispuesto en el inciso cuarto del artículo 25° del DS MOP Nº 900 de 1996. La correspondiente licitación deberá efectuarse con la anticipación necesaria para que no exista solución de continuidad entre ambas concesiones.
+
+#### Artículo 74º
+
+Suspensión de la Concesión.
+
+1.- La concesión se suspenderá en los casos previstos en el artículo 26° del DS MOP Nº 900 de 1996, quedando suspendidos todos los derechos y obligaciones del concesionario y del Estado derivados del contrato de concesión. Para los efectos de la reanudación del servicio se procederá a la evaluación de los daños, si existieren, y a determinar la forma en que concurrirán las partes a subsanarlos. A falta de acuerdo entre las partes, se recurrirá a la Comisión Conciliadora.
+
+2.- Las indemnizaciones que procedan para compensar al concesionario, en caso de que éste haya sufrido perjuicios, podrán expresarse en un aumento del plazo de la concesión, aportes del Estado, incrementos tarifarios o cualquier otro factor del régimen económico del contrato. Cualquier modificación de las cláusulas del contrato, que afecte las condiciones económicas del mismo, se hará mediante decreto supremo del Ministerio de Obras Públicas, que deberá llevar, además, la firma del Ministro de Hacienda.
+
+#### Artículo 75º
+
+Efectos por la Destrucción de la Obra.
+
+1.- Sin perjuicio de lo dispuesto en el artículo anterior, en caso de destrucción de la obra durante la construcción, el concesionario está obligado a su reparación total, sin derecho a reembolso, sin perjuicio de lo previsto en el artículo 36° del presente Reglamento, respecto del seguro de catástrofe.
+
+2.- No obstante, las bases de licitación podrán establecer la concurrencia del Fisco a la reparación de los daños, siempre que éstos se hayan producido por caso fortuito o fuerza mayor.
+
+3.- La calificación del caso fortuito o fuerza mayor invocada será efectuada por el Director General de Obras Públicas, quien se pronunciará mediante una resolución fundada.
+
+#### Artículo 76º
+
+Cumplimiento del Plazo del Contrato.
+
+1.- La concesión se extinguirá por el cumplimiento del plazo por el que se otorgó con sus modificaciones.
+
+2.- El concesionario entregará al MOP la totalidad de las obras, instalaciones, bienes o derechos afectos a la concesión, según lo estipulado en las bases de licitación. Las garantías vigentes sólo serán devueltas al concesionario cuando cumpla todas las obligaciones contraídas con el MOP, según lo establecido en el contrato de concesión.
+
+3.- Sin perjuicio de las inspecciones rutinarias dirigidas a asegurar la conservación de la obra, a lo menos con 1 año de antelación a la fecha de extinción de la concesión, el MOP exigirá al concesionario adoptar las medidas que se requieran para la entrega de las instalaciones en las condiciones establecidas en el contrato, para permitir la adecuada continuidad del servicio.
+
+4.- El MOP podrá aplicar las garantías vigentes a la reparación de los bienes deteriorados o a la adquisición de los indebidamente retirados, restituyendo la diferencia, si la hubiere en el plazo de 1 año desde la entrega de la totalidad de las obras, instalaciones y bienes o derechos afectos a la concesión.
+
+#### Artículo 77º
+
+Extinción por Mutuo Acuerdo entre los Contratantes.
+
+1.- El acuerdo entre el MOP y el concesionario extingue la concesión con arreglo a las condiciones del convenio que se suscriba por ambas partes. El MOP sólo podrá concurrir a este convenio de extinción de la concesión con el acuerdo previo favorable y por escrito de los acreedores que tengan constituida a su favor la prenda especial de concesión de obra pública. Este convenio se sujetará a las formalidades que establece el artículo 72° del Reglamento.
+
+2.- Este convenio será aprobado por decreto supremo del Ministerio de Obras Públicas, el que deberá llevar, además, la firma del Ministro de Hacienda .
+
+#### Artículo 78º
+
+Otras Causales de Extinción.
+
+Las bases de licitación podrán establecer otras causales de extinción del contrato de concesión señalando el procedimiento que deberá seguirse, así como las eventuales compensaciones al concesionario.
+
+#### Artículo 79º
+
+Incumplimiento Grave de las Obligaciones del Concesionario.
+
+1.- Las bases de licitación establecerán las causales por las que el MOP solicitará la declaración de incumplimiento grave de las obligaciones del contrato de concesión, y la aplicación del procedimiento a que se refiere el artículo 28° del DS MOP Nº 900 de 1996.
+
+2.- Cuando el concesionario incurra en alguna causal de extinción por incumplimiento grave, y siempre que no exista perjuicio para el interés público, el MOP podrá utilizar el siguiente procedimiento previo a la solicitud de declaración de extinción de la concesión:
+
+a) El MOP notificará a la sociedad concesionaria y a los acreedores que tengan constituida a su favor la prenda especial de obra pública, sobre los incumplimientos graves del contrato y demás antecedentes relevantes.
+
+b) El concesionario, en el plazo que fijen las bases de licitación, deberá entregar al MOP el informe conteniendo las medidas para subsanar las faltas o evitar su ocurrencia en el futuro. El informe deberá contar con el Visto Bueno de los acreedores a que hace referencia el numeral anterior.
+
+c) El informe podrá abordar, entre otras, las siguientes materias: medidas de gestión, cambios en la administración de la sociedad y transferencia voluntaria del contrato de concesión. Además se deberá especificar un cronograma de implementación de las acciones propuestas.
+
+d) El MOP, sobre la base del informe, fijará un plazo para implementar las medidas bajo la supervisión del inspector fiscal.
+
+3.- Dentro del plazo de tres días, desde la declaración de incumplimiento, el MOP nombrará un interventor el que sólo tendrá las facultades necesarias para velar por el cumplimiento del contrato de concesión, y que estará obligado en particular, a continuar aplicando el cobro de las tarifas autorizadas, si la obra está en la etapa de explotación, a realizar al Fisco los pagos derivados del contrato de concesión y a exigir del mismo aquellos pagos o aportes que tuviere que realizar el Fisco.
+
+4.- Durante el período de intervención seguirán vigentes todos los derechos y obligaciones del Estado derivados del contrato de concesión.
+
+5.- Previo al primer llamado a licitación a que se refiere el artículo 28° del DS MOP Nº 900 de 1996, el MOP consultará con los acreedores el mínimo de las posturas con las que se realizará el llamado a licitación, que en todo caso no podrá ser inferior a los dos tercios de la deuda contraída por el concesionario primitivo. A falta de postores se realizará un segundo llamado, cuyo mínimo no podrá ser inferior a la mitad de la deuda contraída por el concesionario y a falta de interesados se efectuará un tercer y último llamado, sin mínimo de posturas. El plazo que medie entre los distintos llamados no será superior a 30 días.
+
+6.- El pago de la concesión deberá realizarse en el plazo máximo de 180 días contado desde la finalización del procedimiento a que se refiere el artículo 28° del DS MOP Nº 900 de 1996 por el nuevo concesionario, pudiendo las bases de licitación establecer un plazo menor.
+
+#### Artículo 80º
+
+De la Intervención.
+
+El Ministro de Obras Públicas, declarará la intervención de la concesión en los casos a que se refieren los artículos 28° y 37° del DS MOP Nº 900 de 1996, y nombrará la persona del interventor. Este deberá ser un profesional universitario con, a lo menos, cinco años de experiencia profesional. Los honorarios del interventor serán fijados por el MOP y tendrán el carácter de gastos de la sociedad concesionaria. El interventor debe aceptar por escrito el cargo dentro de los 5 días siguientes a su designación.
+
+#### Artículo 81º
+
+Facultades del Interventor.
+
+1.- El interventor tendrá las facultades necesarias para velar por el cumplimiento de las obligaciones del contrato de concesión, siéndole aplicables las normas del artículo 200 Nos 1 al 5 de la Ley Nº 18.175 sobre Quiebras, para el caso del artículo 28º del DS MOP Nº 900 de 1996. Este interventor responderá de culpa levísima.
+
+2.- Para el caso del artículo 37º del mismo cuerpo legal, el interventor sólo tendrá las facultades de administración necesarias para velar por el cumplimiento del contrato de concesión. Este interventor responderá de sus actuaciones hasta por culpa levísima.
+
+3.- El interventor, desde su nombramiento, deberá llevar cuenta de las entradas y gastos de la concesión, para efectos de una buena administración, y podrá, en el desempeño de su cargo, imponerse de todos los libros, papeles y documentación del concesionario, relacionados con la concesión.
+
+#### Artículo 82º
+
+Rendición de Cuentas.
+
+El concesionario o su sucesor legal podrá solicitar rendición de cuentas del período de la intervención. El Fisco, a través del Ministerio de Obras Públicas, remitirá a su término un informe al concesionario o a su sucesor legal, de las actividades desarrolladas por el interventor, a objeto de ponerle en conocimiento de lo acontecido durante dicho período. Este informe será preparado por la Dirección General de Obras Públicas.
+
+#### Artículo 83º
+
+Quiebra de la Sociedad Concesionaria.
+
+1.- En caso de quiebra del concesionario, la primera junta ordinaria de acreedores deberá pronunciarse, de acuerdo a lo establecido en el artículo 38° del DS MOP Nº 900 de 1996, por subastar la concesión o por la continuación efectiva del giro del concesionario, la que no estará sujeta a otro plazo de término que lo que reste del contrato de concesión.
+
+2.- En el caso que proceda la subasta de la concesión, las bases de la misma deberán respetar los términos, beneficios y condiciones del contrato de concesión primitivo
+
+3.- La subasta de la concesión implicará la cesión forzosa de la concesión, por el tiempo que le reste al contrato primitivo, para los efectos de lo previsto en el artículo 21° del DS MOP Nº 900 de 1996.
+
+4.- En caso de declararse la quiebra del concesionario, el Ministerio hará efectiva la garantía de construcción o explotación, según corresponda, para responder de todo lo que éste adeude al MOP. Cuando los acreedores continúen el giro de la concesionaria deberán reconstituir la garantía respectiva en el plazo de 5 días, contados desde la declaración de continuación del giro.
+
+5.- En caso de quiebra, el MOP nombrará un representante para que, actuando coordinadamente con el síndico y la junta de acreedores, vele por el mantenimiento del o de los servicios objeto de la concesión, sin perjuicio de que la representación del interés fiscal sea realizada por quien o quienes corresponda.
+
+## Título XII
+
+De la Comisión Conciliadora
+
+#### Artículo 84º
+
+Competencia.
+
+Existirá una Comisión Conciliadora, que podrá actuar como Comisión Arbitral en los términos previstos en el artículo 36° del DS MOP Nº 900 de 1996, la que conocerá de toda controversia o reclamación que se produzca con motivo de la interpretación o aplicación del contrato de concesión o a que dé lugar su ejecución.
+
+#### Artículo 85º
+
+Composición y Constitución.
+
+1.- La Comisión estará integrada por:
+
+. Un profesional universitario designado por el Ministro de Obras Públicas.
+
+. Un profesional universitario designado por el concesionario, y
+
+. Un profesional universitario nombrado de común acuerdo entre las partes, quien la presidirá. A falta de acuerdo, este último será designado por el Presidente de la Corte de Apelaciones de Santiago.
+
+2.- Las bases de licitación podrán establecer el procedimiento de designación de los miembros de la Comisión. Si éstas nada disponen la Sociedad Concesionaria deberá entregar una escritura pública en la que conste el nombre, domicilio y profesión de la persona designada por la misma y del miembro con el que habría acuerdo con el MOP si éste existe; para ambos casos deberá designarse un suplente. El MOP dictará un Decreto con el nombramiento de la Comisión. En todo caso, los miembros deberán estar designados en el plazo de 3 meses desde el inicio de la concesión. Si dentro de este plazo, el MOP o el concesionario no hubieren designado al miembro nombrado de común acuerdo, se procederá a su designación por el Presidente de la Corte de Apelaciones de Santiago.
+
+3.- Cada parte deberá designar un titular y un suplente en la Comisión, actuando este último en caso de ausencia o impedimento del titular, no teniendo que acreditar esta condición ante terceros.
+
+4.- El Estado y la Sociedad Concesionaria podrán reemplazar al profesional designado por cada uno y, de común acuerdo podrán reemplazar al Presidente de la Comisión.
+
+5.- La Comisión Conciliadora deberá constituirse con todos sus miembros dentro del plazo de 1 mes desde su nombramiento. En el acto de constitución, los titulares y los suplentes, en su caso, deberán aceptar el nombramiento, comprometiéndose a desempeñar fielmente sus funciones.
+
+6.- En el acto de constitución, o en un plazo no superior a 30 días, la Comisión Conciliadora fijará las normas para su funcionamiento, debiendo contemplar, en todo caso :
+
+a) La audiencia de las partes y de los terceros acreedores prendarios, cuando corresponda.
+
+b) Los mecanismos para recibir las pruebas y antecedentes que las partes aporten.
+
+c) El modo en que se le formularán las solicitudes o reclamaciones.
+
+d) Los plazos de respuesta.
+
+e) El mecanismo de notificación que empleará para poner en conocimiento de las partes las resoluciones, o decisiones que adopte.
+
+7.- Las partes fijarán, de común acuerdo, las remuneraciones a que tendrán derecho los miembros de la Comisión. Dichas remuneraciones deberán ser pagadas por la parte que solicitó la intervención de la Comisión, salvo que en el acto de conciliación, si se produjere, se llegara a otro acuerdo sobre el pago. Cuando la Comisión actúe como Comisión Arbitral deberá declarar el pago de costas.
+
+8.- Los gastos de administración generales en la que la Comisión incurra, deberán ser aprobados por las partes en el acto de constitución, y pagados en partes iguales. Cualquier otro gasto que la Comisión realice deberá ser pagado por la parte que lo solicitó salvo que en el acto de conciliación, si se produjere, se llegara a otro acuerdo sobre el pago. Cuando la Comisión actúe como Comisión Arbitral deberá declarar el pago de costas.
+
+#### Artículo 86º
+
+Intervención de la Comisión. Normas Generales.
+
+1.- La Comisión Conciliadora intervendrá en los siguientes casos :
+
+a) Cuando lo solicite el MOP en virtud de lo dispuesto en el artículo siguiente.
+
+b) Cuando se produzca alguna controversia con motivo de la interpretación o aplicación del contrato de concesión o reclamaciones relativas a su ejecución.
+
+2. La Comisión Conciliadora podrá solicitar del MOP o del concesionario todos los documentos que estime convenientes, relacionados con el contrato de concesión, y tendrá acceso al libro de obras, aunque no podrá hacer ningún tipo de anotación en el mismo.
+
+3.- Las propuestas de conciliación que realice la Comisión Conciliadora serán aceptadas o rechazadas por quien tenga poder para ello por parte de la Sociedad Concesionaria y por el Ministro de Obras Públicas o por la persona que éste designe por parte del MOP, previo pronunciamiento del Ministerio de Hacienda.
+
+#### Artículo 87º
+
+Intervención de la Comisión a Solicitud del Ministerio de Obras Públicas.
+
+1.- El MOP deberá solicitar la intervención de la Comisión Conciliadora en los casos siguientes:
+
+a) Cuando proceda la aplicación de una multa igual o superior a 500 unidades tributarias mensuales;
+
+b) Cuando se solicite la suspensión de la concesión, en virtud de alguna de las causas establecidas en el artículo 26° del DS MOP Nº 900 de 1996.
+
+c) Cuando se haya producido una causal de extinción del contrato por incumplimiento grave del concesionario d) Cuando el concesionario abandone la obra o interrumpa injustificadamente el servicio.
+
+e) En aquellos casos contemplados en el contrato de concesión o en que el MOP estime conveniente la intervención de la Comisión.
+
+2.- El DGOP solicitará la intervención al Presidente de la Comisión Conciliadora, poniendo en su conocimiento todos los antecedentes en que fundamenta su solicitud y señalará la causal invocada.
+
+#### Artículo 88º
+
+Intervención de la Comisión en los Casos en que se Solicita una Indemnización o Compensación.
+
+1.- La Comisión Conciliadora deberá pronunciarse cada vez que no exista acuerdo entre el MOP y la sociedad concesionaria, respecto de la procedencia o monto de alguna indemnización o compensación por causas establecida en la Ley de Concesiones. Especialmente deberá pronunciarse en las siguientes situaciones:
+
+a) En los casos de modificaciones de obra y servicios previstas en el artículo 19° del DS MOP Nº 900 de 1996.
+
+b) En los casos en que se produzcan circunstancias sobrevinientes a la celebración del contrato y el concesionario solicite la revisión a que se refiere el inciso 3º del artículo 19 del DS MOP Nº 900 de 1996.
+
+c) En los casos en que se haya suspendido la concesión y se solicite la concurrencia del Fisco para subsanar los daños.
+
+d) Cuando durante el período de construcción se hayan producido retrasos imputables al Fisco, según lo previsto en el artículo 22° inciso tercero del DS MOP Nº 900 de 1996.
+
+e) En cualquier otra situación establecida en las bases de licitación.
+
+2.- La Comisión intervendrá a solicitud del MOP o del concesionario y actuará conforme al procedimiento regulado en el artículo 36° del DS MOP Nº 900 de 1996.
+
+#### Artículo 89º
+
+Controversias en la Aplicación del Contrato.
+
+En cualquier momento durante la vigencia del contrato, el concesionario podrá reclamar ante la Comisión Conciliadora de las controversias suscitadas con el MOP referentes a la interpretación o aplicación del contrato de concesión, o aquellas relacionadas con su ejecución, de acuerdo a lo dispuesto en el artículo 36º del DS MOP Nº 900 de 1996.
+
+#### Artículo 90º
+
+Normas de Procedimiento.
+
+1.- Solicitada la intervención de la Comisión Conciliadora, ella buscará la conciliación entre las partes. Si ella no se produce en el plazo de 30 días, el concesionario podrá solicitar a la Comisión en el plazo de 5 días, que se constituya en Comisión Arbitral, o recurrir, en el mismo plazo, ante la Corte de Apelaciones de Santiago.
+
+2.- Cuando la Comisión actúe como Comisión Arbitral, se aplicarán las normas correspondientes a los árbitros arbitradores del Código de Procedimiento Civil.
+
+## Título XIII
+
+Normas Especiales en los Caminos Concesionados
+
+#### Artículo 91º
+
+Accesos Privados.
+
+Las bases de licitación establecerán los accesos y obras de conexión que debe tener una obra en concesión, incluyendo aquellas que permitan el uso de los accesos existentes que hubieren sido autorizados conforme a derecho, de acuerdo a las siguientes reglas:
+
+a) El concesionario, de acuerdo con lo dispuesto en el artículo 41° del DS MOP Nº 900 de 1996, podrá autorizar a terceros interesados nuevos accesos y conexiones a la obra en concesión y cobrarles un pago adicional al costo de las obras necesarias para su habilitación, siempre que el acceso sea directo a las calzadas y que no correspondan a calles de servicio. Cuando un tercero solicite un acceso a una calle de servicio existente, el concesionario solamente podrá cobrar el costo de las obras necesarias para su habilitación.
+
+b) El concesionario, al solicitar autorización previa del MOP para establecer nuevos accesos y conexiones a la obra, deberá individualizar al tercero interesado, acompañando los documentos que acrediten la propiedad del predio, incluir el emplazamiento del acceso, el presupuesto total de las obras necesarias para su habilitación y el monto del pago adicional que cobrará al tercero por dicho acceso o conexión.
+
+c) El acceso y conexión a la obra deberán cumplir con la normativa vigente sobre la materia, en particular en los aspectos técnicos y de seguridad vial, debiendo, además, mantener los estándares definidos en las bases de licitación.
+
+#### Artículo 92º
+
+Ocupación, Cierre, Obstrucción o Desvío de la Ruta Concesionada.
+
+1.- En el caso que la Dirección de Vialidad otorgue permisos a municipalidades, empresas o particulares que requieran ejecutar obras en los caminos concesionados y que exijan su ocupación o rotura, dicha Dirección solicitará al concesionario que éste se pronuncie, en el plazo de 30 días, acerca de cuál es la mejor oportunidad para realizar los trabajos dentro de un período de tiempo predeterminado. La autorización será otorgada por la Dirección de Vialidad, que deberá tener en cuenta las recomendaciones de la sociedad concesionaria a este respecto. No obstante, la Dirección de Vialidad podrá autorizar directamente los casos que califique como urgentes.
+
+2.- Los costos de las obras serán de cargo de dichos terceros, quienes deberán asegurar la reposición del camino en las condiciones que tenía antes de la realización de estas obras. Asimismo, el tercero deberá compensar a la sociedad concesionaria por cualquier pérdida de ingresos que hubiera ocasionado en la concesión. Para garantizar estas obligaciones, el tercero deberá entregar, antes del inicio de las obras, a la Dirección de Vialidad, una boleta de garantía por la cuantía que fije dicha Dirección. El monto de la eventual indemnización será fijado por la Dirección de Vialidad, que deberá tener en cuenta los antecedentes proporcionados por la sociedad concesionaria y por el tercero en relación a los perjuicios que puedan haberse producido.
+
+3.- El MOP podrá instalar por sí, o a través de terceros, ductos o multiductos en la faja fiscal de la ruta, sin que esto implique compensación o indemnización alguna para la sociedad concesionaria.
+
+#### Artículo 93º
+
+Velocidad en las Rutas Concesionadas.
+
+1.- Las bases de licitación podrán establecer los límites máximos y mínimos de velocidad de circulación en las vías construidas, conservadas, reparadas y explotadas por el sistema de concesión, sea para el total o sectores de ellas. Igualmente, en las bases se podrán definir dichas velocidades para la oportunidad en que las obras alcancen un determinado estándar de diseño y conservación. Las velocidades fijadas en las bases de licitación solo podrán ser modificadas por el Ministerio, en los casos en que su vigencia no pueda mantenerse por razones de seguridad del tránsito, originadas en el estado de conservación de la vía concesionada. Restablecidas las condiciones de la vía deberán entrar en vigencia nuevamente las velocidades definidas en las bases de licitación.
+
+2.- En el caso que las velocidades no hayan sido fijadas por las bases de licitación, éstas podrán ser establecidas por decreto del Ministerio de Obras Públicas.
+
+3.- El MOP, por decreto y a petición del concesionario, podrá autorizar velocidades superiores a las definidas en el proyecto concesionado, cuando el mejoramiento de las condiciones del trazado y de la conservación de las vías concesionadas así lo permitan.
+
+#### Artículo 94º
+
+Pesos Máximos y Dimensiones de los Vehículos.
+
+1.- En los caminos concesionados regirán las normas de pesos máximos y dimensiones máximas de los vehículos establecidas para los caminos públicos a través del MOP y del Ministerio de Transportes y Telecomunicaciones. Las bases de licitación podrán establecer normas especiales sobre la materia .
+
+2.- El MOP otorgará, como beneficio a la sociedad concesionaria, las cantidades que el Fisco hubiera recaudado en el tramo, cuando la Dirección de Vialidad autorice expresamente la circulación de vehículos con sobrepeso, en proporción directa a los kilómetros del tramo en concesión con respecto al total de kilómetros recorridos por el usuario con vehículo con sobrepeso. Dichas cantidades serán calculadas anualmente por el inspector fiscal y se pagarán en la fecha y forma indicada en las bases de licitación.
+
+3.- Para verificar el peso de los vehículos, además de las plazas de pesaje que pueda instalar el MOP, la sociedad concesionaria podrá instalar sistemas de pesaje bajo su exclusiva responsabilidad, para lo cual podrá solicitar la participación de funcionarios de la Dirección de Vialidad en el control de pesos.
+
+#### Artículo 95º
+
+Publicidad en las Obras Concesionadas.
+
+La publicidad que pudiera efectuarse en una obra concesionada se regirá por las normas vigentes que regulen esta materia según sea la obra que se trate. En caso de que no exista una regulación especial al respecto, las bases de licitación podrán fijar las normas y procedimientos para regular la publicidad en las obras concesionadas.
+
+## Título XIV
+
+Concesiones Especiales
+
+#### Artículo 96º
+
+Concesiones Otorgadas a Solicitud de Otros Organismos del Estado.
+
+1.- El Ministerio de Obras Públicas es competente para otorgar en concesión toda obra pública, salvo el caso en que tales obras o bienes estén entregadas a la competencia de otro Ministerio, servicio público, Municipio, empresa pública u otro organismo integrante de la administración del Estado.
+
+2.- En estos casos, dichos entes públicos podrán delegar mediante convenio de mandato suscrito con el Ministerio de Obras Públicas, la entrega en concesión de tales obras o bienes, bajo su competencia, para que éste entregue su concesión, regida por la Ley de Concesiones. En estos casos se entenderá incluido en dicho convenio la totalidad del estatuto jurídico de concesiones de obras públicas, esto es, tanto el procedimiento de licitación y adjudicación y la ejecución, conservación y explotación como las facultades, derechos y obligaciones que emanan de la referida ley.
+
+3.- El convenio deberá ser firmado antes del llamado a licitación, y en él se podrá establecer a quién corresponde sufragar los gastos de la licitación y adjudicación así como asumir las obligaciones económicas derivadas del contrato de concesión.
+
+4.- En todo caso, la entidad pública que suscribió el convenio deberá aprobar las bases de licitación con anterioridad al llamado a licitación. Si dentro de los 30 días corridos desde el ingreso de las bases en las oficinas de dicho organismo, no se reciben observaciones en la oficina de partes de la Dirección General de Obras Públicas, se entenderán aprobados los documentos de licitación por parte del organismo respectivo.
+
+#### Artículo 97º
+
+Concesiones de Uso del Subsuelo y de los Derechos de Construcción en el Espacio.
+
+1.- El MOP podrá incluir conjunta o separadamente en la concesión el uso del subsuelo y de los derechos de construcción en el espacio sobre los bienes nacionales de uso público o fiscales, destinados a obras que se otorguen en concesión, en virtud de lo establecido en la Ley de Concesiones, siempre que se especifique en las bases de licitación el uso de los mismos.
+
+2.- Si las bases de licitación no hubieran dispuesto expresamente su inclusión en la concesión, el MOP podrá concesionarlos separadamente mediante el procedimiento establecido en el presente Reglamento, o vender dichos derechos fijando su conexión física y accesos con la o las obras que se licitan o se encuentran previamente concesionadas.
+
+## Título XV
+
+Normas Especiales Respecto de los Usuarios de las
+
+Obras
+
+#### Artículo 98º
+
+Información a los Usuarios.
+
+1.- Una vez protocolizado el decreto de adjudicación del contrato de concesión, será pública toda la documentación relevante para la ejecución de dicho contrato, esto es, las bases de licitación, los anteproyectos, proyectos y demás estudios e informes aportados por el MOP a los licitantes, la oferta del adjudicatario y las actas de evaluación. El MOP deberá poner estos antecedentes a disposición de quienes tengan interés en conocerlos dando las facilidades necesarias para su reproducción, con cargo a los interesados. El mismo procedimiento se aplicará en el caso de los convenios complementarios, modificaciones del sistema tarifario y demás modificaciones a los contratos de concesión.
+
+2.- Las bases de licitación podrán exigir al concesionario mantener, durante el período de construcción, una o más oficinas de información a los usuarios, para los efectos de poner a disposición de éstos o de las personas que tengan interés en el proyecto, los antecedentes destacados de la obra, tales como, sus características, cronograma del proyecto, sistema de cobro, entre otros. Todo ello conforme lo establezcan las bases de licitación. En casos excepcionales y en función de las características de la obra, dicha obligación podrá establecerse para la etapa de explotación.
+
+3.- Las bases de licitación podrán establecer obligaciones especiales al concesionario relativas a la difusión de las tarifas y el sistema de cobro o sus modificaciones. Estas obligaciones de difusión podrán cumplirse a través de la distribución de folletos impresos, letreros o paneles en la obra, publicaciones en medios de prensa u otros. Las bases podrán indicar además, la oportunidad en que deben efectuarse dichas actividades de difusión.
+
+#### Artículo 99º
+
+Reclamos de los Usuarios.
+
+1.- Las bases de licitación podrán establecer los procedimientos que el concesionario deberá observar para atender las consultas o reclamos de los usuarios. Entre otras podrán señalar las instancias de recepción de las mismas, su forma y plazo de presentación, la forma, plazo y modo de las respuestas de la concesionaria y las sanciones en caso de incumplimiento. Dichas sanciones podrán consistir en pagos o compensaciones en favor de los afectados.
+
+2.- El MOP podrá establecer, de manera general o para cada obra en concesión, instancias de recepción de consultas o reclamos de los usuarios, directamente en sus dependencias. Los incumplimientos al contrato de concesión que el MOP pueda conocer y comprobar a través de estas instancias serán sancionados con las multas correspondientes establecidas en las bases de licitación.
+
+## Artículos transitorios
+
+#### Artículo 1º
+
+Derógase el DS MOP Nº240 de 1991, Reglamento de Concesiones de Obras Públicas, exceptuándose los casos que se indican en el presente artículo.
+
+Las sociedades concesionarias con su contrato de concesión de obra pública perfeccionado en la fecha de publicación del presente Reglamento en el Diario Oficial podrán, dentro del plazo de los tres meses siguientes, optar por la aplicación de las normas de este Reglamento a sus respectivos contratos. Aquellas que no lo solicitaren, seguirán regidas por las normas vigentes en la fecha de licitación y del perfeccionamiento de dicho contrato de concesión.
+
+Los adjudicatarios de obras ya licitadas en la fecha de publicación de este Reglamento cuyo contrato no se hubiere perfeccionado y los licitantes de obras en proceso de licitación que resulten adjudicados, podrán ejercer el mismo derecho, en el plazo de los tres meses siguientes al perfeccionamiento de su contrato.
+
+Cuando las sociedades concesionarias o los adjudicatarios opten por acogerse a las normas de este Reglamento según lo dispuesto en los incisos anteriores, el Ministerio de Obras Públicas procederá, sin más trámite, a la dictación del correspondiente acto administrativo, que producirá efectos desde la fecha de su dictación, y en que se dejará constancia del cambio del régimen jurídico de dicho contrato.
+
+#### Artículo 2º
+
+1.- Los postulantes que hayan presentado proyectos de iniciativa privada antes de la vigencia del presente Reglamento, de acuerdo a lo dispuesto en el artículo 2° del DS MOP Nº 900 de 1996, se regirán por lo dispuesto en el D.S. Nº 240 de 1991. En el caso de proyectos que estuvieren en etapa de presentación y que el MOP declarara que no existe interés público en el proyecto, el postulante podrá realizar una nueva presentación en base a las normas contenidas en este Reglamento, rigiendo al respecto los plazos y normas establecidos en el mismo. En el caso de proyectos que estuvieren en la etapa de proposición, que no hayan sido aceptados por el MOP, el postulante seguirá conservando la iniciativa como de su propiedad. No obstante, si en el plazo de 3 años el MOP decidiera llamar el proyecto a licitación por el sistema de concesión, el postulante tendrá los derechos reconocidos en el presente reglamento.
+
+2.- En todo caso, los postulantes que hayan presentado proyectos de iniciativa privada, de acuerdo a lo dispuesto en el artículo 2° del DS MOP Nº 900 de 1996, podrán acogerse a las disposiciones del presente Reglamento mediante carta dirigida al Director General de Obras Públicas.
+
+#### Artículo 3º
+
+En los casos en que se produzca retraso en los pagos que deben realizar el MOP y la sociedad concesionaria, éstos devengarán el interés que establezcan las bases de licitación de acuerdo a la normativa vigente y, a falta de estipulación expresa, se considerará la tasa de interés corriente para operaciones reajustables en moneda nacional vigente a la fecha del pago efectivo. Sin perjuicio de ello, el retraso de los pagos que la sociedad concesionaria tenga que realizar al Fisco dará derecho al cobro de la correspondiente garantía, sin perjuicio de las demás acciones que procedan.
+
+Anótese, tómese razón, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Ricardo Lagos Escobar, Ministro de Obras Públicas.- Eduardo Aninat Ureta, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Juan Carlos Latorre Carmona, Subsecretario de Obras Públicas.
