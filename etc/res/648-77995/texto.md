@@ -1,0 +1,3 @@
+Por resolución No. 648, de 15 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 20 de marzo de 1992, el plazo otorgado a HATFIELD INTERNATIONAL S.A., R.U.T. No. 95.435.000-2, domiciliada en Santiago, en el numeral 5° de las resoluciones No. 847 y No. 923, ambas de 1989, de esta Subsecretaría, el que ya había sido prorrogado por la resolución No. 219, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 15 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
