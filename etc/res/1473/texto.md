@@ -1,0 +1,3 @@
+Por Resolución Nº 1.473, de 5 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura, solicitud Nº 95103225, presentada por CHARLES EDWARD BARTER ORAMS, para el centro de cultivo ubicado en Isla Caguache, Comuna de Quinchao, Provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 5 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
