@@ -1,0 +1,3 @@
+Por resolución Nº 2.237, de 17 de octubre de 2000, de esta Subsecretaría, autorízase a PESQUERA FRIOSUR S.A., para ampliar actividades pesqueras extractivas con la nave ''Friosur VII'', en el área marítima que se indica, por fuera del área de reserva artesanal, donde podrá capturar con arrastre los siguientes recursos hidrobiológicos: a) En el área marítima de I Región: Alfonsino; b) En el área marítima de la Isla de Pascua, Archipiélago Juan Fernández, Isla Sala y Gómez e Islas Desventuradas: Alfonsino.
+
+Valparaíso, 17 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
