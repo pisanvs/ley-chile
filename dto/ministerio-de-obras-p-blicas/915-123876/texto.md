@@ -1,0 +1,3 @@
+Por decreto MOP No. 915, de 30 de junio de 1998, se expropiaron, los lotes de terreno No. s. 9, 10 y 11, superficies 11.137,65, 1.849,50 y 18.720,45 m2. respectivamente, roles de avalúo 23-36 y 23-51, comuna de Tierra Amarilla, para la obra Camino Ruta C-35, Sector Paipote - Cerrillos y se acordó precio de las indemnizaciones con su propietario Benilop Sfeir Aborachet, ascendente a la cantidad de $ 99.085.095 para los lotes No. s. 9, 10 y 11.
+
+Fiscal del Ministerio de Obras Públicas.
