@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Punta Arenas para contratar uno o más empréstitos que produzcan hasta la suma de $ 250.000.000 con el fin de destinarlos a la construcción del edificio municipal; para su servicio establece una contribución adicional de un cuatro por mil anual sobre el avalúo de los bienes raíces de la comuna.
