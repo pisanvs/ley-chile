@@ -1,0 +1,5 @@
+Por resolución Nº790, de 1 de abril de 2003, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº316 de 2003, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal de las agregaciones de jurel (Trachurus murphyi) en la IV Región, temporada 2003", en el sentido de incorporar las siguientes naves a la nómina de embarcaciones artesanales participantes en la señalada pesca de investigación, las que se encuentran inscritas en el Registro Artesanal de la IV Región, sección pesquería de la especie Jurel: "Doña Anita", "La Garota", "Santa Verónica" y "Xyphias".
+
+Asimismo modifícase el numeral 4º de la resolución Nº316 de 2003, antes individualizada, en el sentido de eliminar la embarcación artesanal "Lorena I".
+
+Valparaíso, 1 de abril de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
