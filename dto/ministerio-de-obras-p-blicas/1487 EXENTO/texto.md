@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.487, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 2, superficie 180 m2, rol de avalúo 130-62, comuna de San Nicolás, para la obra ''Camino Cruce N-50, Coipin, Sector Puente Coipin, Km. 0,00000 al 0,22000'' y se acordó el valor de indemnización con su propietario don Luis Osnaldo Fuentes Castro, ascendente a la cantidad de $304.264.
+
+- Fiscal del Ministerio de Obras Públicas.
