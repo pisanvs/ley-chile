@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº196 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº9, superficie 60 m², Rol Nº 308-70, comuna de Melipeuco, IX Región para la obra "Camino Melipeuco-Icalma, Sector Melipeuco-Tracura. Km. 97,50000 a Km. 104,2038" y se acordó el valor de indemnización con su propietario Moisés Baltazar Díaz Romero, ascendente a la cantidad de $441.206.
+
+Fiscal del Ministerio de Obras Públicas.
