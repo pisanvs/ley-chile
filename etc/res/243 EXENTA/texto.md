@@ -1,0 +1,3 @@
+Mediante Res. Ex. N° 243 de 30 de Septiembre de 1994 el suscrito delegó en el Jefe de la Oficina Jurídica Regional las funciones descritas en los números 1 al 8 del dispositivo Primero de la Res. Ex. N° 2482, de la Dirección Nacional, del 3 de Junio de 1994, publicada en extracto en el Diario Oficial del día 6 del mismo mes y año, revocándose, además, la Resolución N° 68 de 16.09.81, publicada en el Diario Oficial N° 31.073 de 24.09.81.- en lo pertinente.-
+
+Jorge Villablanca Echegoyen, Director Regional. +
