@@ -1,0 +1,3 @@
+Por decreto MOP Nº694, de 29 de marzo de 1999, se expropiaron los lotes de terreno Nºs. 4 y 10, superficies 10.145 y 8.551 m2 respectivamente, roles de avalúo 516-52 y 511-47, comuna de Carahue, para la Obra Camino Costero Tirúa-Carahue, Sector Puyanhue Tranapuente y se acordó precio de indemnización con sus propietarios Arturo Alessandri Castro Antivil o Arturo Alessandri Castro Antiville y otros e Irma Ulloa Burgos, ascendente a las cantidades de $2.412.636.- para el lote 4 y $652.052.- para el lote 10.-
+
+Fiscal del Ministerio de Obras Públicas.
