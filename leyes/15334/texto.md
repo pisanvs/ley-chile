@@ -72,10 +72,6 @@ La Línea Aérea Nacional-Chile estará obligada a indemnizar a su personal de v
 
 Esta indemnización será de un monto igual a treinta veces el sueldo mensual imponible y monto por cargas familiares, que percibiere el empleado u obrero así accidentado con un mínimo de quince sueldos vitales anuales de la escala A del departamento de Santiago.
 
-Asimismo, esta empresa deberá destinar anualmente y a partir del año 1964, un 1,5% de sus entradas generales, al incremento del fondo de reservas que mantiene actualmente para autoseguro, eventualidades y riesgos diversos y el cual tendrá también por objeto cubrir la responsabilidad que pueda corresponderle como transportador aéreo, en el país o en el exterior, por daños o perjuicios causados a las personas o bienes transportados y a terceros, quedando así liberada de contratar seguros para cubrir los riesgos de indemnizaciones a que se refiere este artículo.
-
-Cesará la obligación de incrementar este fondo cuando las reservas acumuladas llegaren a un monto de dos mil quinientos sueldos vitales anuales.
-
 #### Artículo 8º
 
 <!-- parte:8857514 -->
