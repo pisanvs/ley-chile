@@ -1,0 +1,7 @@
+AUTORIZA A UNIEXPORT S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES QUE INDICA. AMPLIA ACTIVIDADES, PESQUERAS QUE SEÑALA
+
+Por resolución No. 727, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Uniexport S.A., R.U.T. No. 79.823.110-3, domiciliada en Castro, para continuar desarrollando actividades pesqueras autorizadas a Sociedad Productora y Exportadora de Erizos Limitada "Uniexport Ltda.", por resolución No. 1.034, de 1988, en orden a operar una planta industrial en la X Región, ubicada en Curanue, ribera Norte Estero Huildad, kilómetro 17, Quellón, donde procesará en las líneas de elaboración de congelado, fresco, fresco - enfriado, seco - salado, deshidratado y precipitado en alcohol, los siguientes recursos hidrobiológicos: Bacalao de profundidad o mero, congrio dorado, merluza del Sur, salmón, almeja o taca, calamar, loco, centolla, jaiba y erizo. Deberá adquirir el recurso salmón de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 27 de Junio de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
