@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA E INDUSTRIAS MARINAS LIMITADA "INDUMAR LTDA." PARA SUSTITUIR EMBARCACION. DEJA SIN EFECTO RESOLUCION QUE SEÑALA
+
+Por resolución No. 1.027 de 26 de Septiembre de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera e Industrias Marinas Limitada "INDUMAR Ltda.", domiciliada en Talcahuano, para sustituir en el litoral de la VIII Región la nave en construcción autorizada a operar por resolución No. 160, de 1987, de esta Subsecretaría, por la embarcación "Surmar I" donde podrá capturar los recursos: Anchoveta, sardina española, sardina común, caballa, jurel y agujilla. Se deja sin efecto la resolución No. 160, de 1987, de esta Subsecretaría, que autorizó a la peticionaria para operar un buque en construcción. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de Septiembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
