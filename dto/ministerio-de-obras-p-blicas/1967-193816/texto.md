@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.967 de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº69, superficie 90 m2, rol de Avalúo Nº112-62, comuna de Corral, para la obra "Camino Longitudinal Costero Sur, Sector El Morro-Chaihuin II (2ª Parte) Km. 15,755 a Km 27,017, X Región, y se acordó el valor de la indemnización con su propietaria Carmen Pilar del Rosario Morales Verdugo, ascendente a la cantidad de $5.456.825.
+
+- Fiscal del Ministerio de Obras Públicas.
