@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.789, de 30 de junio de 2000, se expropió el lote de terreno Nº4, superficie 984 m², rol de avalúo 154-258, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Quinta Región, y se acordó el valor de indemnización con su propietaria Inversiones Jomar Limitada, ascendente a la cantidad de $5.377.672.
+
+Fiscal del Ministerio de Obras Públicas.
