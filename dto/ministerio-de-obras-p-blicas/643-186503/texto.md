@@ -1,0 +1,3 @@
+Por decreto MOP Nº 643, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 2, superficie 26,580 m², rol de avalúo 81-2, comuna de San Clemente, para la obra "Sistema Maule Norte Canal Villalobos Bajo, Km. 0,100 al 5,878" y se acordó el valor de indemnización con su propietario Gabriel Angel González Rojas, ascendente a la cantidad de $8.236.638.-
+
+Fiscal del Ministerio de Obras Públicas.
