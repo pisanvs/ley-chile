@@ -1,0 +1,5 @@
+Por decreto MOP Nº693, de 5 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+8-A y 8-B, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Atravieso El Quillay Km. 53.620,00 a Km. 55.130,00'', Región Metropolitana, que figuran a nombre de Copropietarios Vert de Zapata, rol de avalúo 107-563, comuna de Curacaví, superficies 1.209 m2 y 1.691 m2, respectivamente. La comisión de peritos integrada por los señores Julio Víctor Fischer Gaysinsky, Maria Pilar Quiroga González y Alfredo Muñoz Carmona, fijó con fecha 28 de diciembre de 2001, el valor provisional de la indemnización en las cantidades de $2.386.750.- para el lote Nº8-A y de $4.713.750.- para el lote Nº8-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
