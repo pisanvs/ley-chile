@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 263, de 17 de septiembre de 1985, se expropió el lote N° 4, sitio 4, manzana 14, cuya superficie es 1.250 m2., rol de avalúo 891-7, Comuna de Coyhaique para la obra calle rodaje en Aeropuerto Balmaceda y se acordó el precio de indemnización con sus propietarias doña Sor Matilde Vidal Centreras y otra, ascendente a la cantidad de $ 2.565.267.-
+
+Fiscal del Ministerio de Obras Públicas. (15)
