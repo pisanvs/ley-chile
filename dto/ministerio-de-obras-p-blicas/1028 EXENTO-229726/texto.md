@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.028 de fecha 29 de julio de 2004, se expropió el lote de terreno Nº 22, superficie 3.026 m², Rol Nº 306-228, comuna de Laja, VIII Región para la obra "Camino Ruta Q-90-O, Sector Cruce Longitudinal - Laja, Km. 0,00000 al Km. 35,53000" y se acordó el valor de indemnización con su propietario Segundo Miguel A. Acuña Chavez, ascendente a la cantidad de $1.634.751.
+
+Fiscal del Ministerio de Obras Públicas.
