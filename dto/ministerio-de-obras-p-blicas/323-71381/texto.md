@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 323, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 2, 5, y 8, superficies 670, 32,50 y 2.490 M2., respectivamente, roles de avalúos 13-31, 31-9 y 122-17, comuna de Paihuano, para la obra Camino Ruta D-485, sector Paihuano - Pisco Elqui y se acordó precio de la indemnización con sus propietarios, María Salomé Valera Rojas y otra, Elena Otilia Pinto Pinto y Juana del Rosario Gómez Pinto, ascendente a las cantidades de $3.748.415, $1.045.000 y $2.090.000.-
+
+Fiscal del Ministerio de Obras Públicas.
