@@ -6628,6 +6628,8 @@ Código Plaza Cámara de la Agrupación Jurisdicción
 
 0370 El Monte " "
 
+0376 Melipilla " "
+
 0378 Isla de Maipo " "
 
 0384 Buin " "
@@ -15208,7 +15210,7 @@ ii) la institución financiera haya entablado un juicio para obtener la restituc
 
 iii) sea necesario obtener el alzamiento de un gravamen o efectuar reparaciones o terminaciones para obtener un mejor precio de venta para un bien, siempre que el tiempo necesario al efecto sea superior a doce meses.
 
-Las instituciones financieras que, de conformidad con estas normas, hagan uso del plazo adicional para la enajenación de bienes recibidos o adjudicados en pago, deberán haber castigado contablemente los bienes de que se trata, como requisito legal indispensable para acogerse a este plazo para enajenar. Además, deberán mantener a disposición de esta Superintendencia los antecedentes que demuestren que tales bienes se encuentran en alguno de los casos señalados en los numerales precedentes.
+Para hacer uso del plazo adicional de que se trata,las Instituciones financieras deberán castigar contablemente los respectivos bienes. Dicho castigo podrá efectuarse en tantas parcialidades mensuales iguales y sucesivas, como sea el número de meses fijado para la prórroga.
 
 Tanto lo plazos generales señalados en el numeral 4.1 anterior como el plazo adicional que se dispone en el presente numeral, corresponden al tiempo máximo para enajenar establecido en la ley, de manera que no procede, en caso alguno, solicitar a esta Superintendencia autorizaciones para excederlos.
 
@@ -15460,7 +15462,7 @@ Los bienes recibidos o adjudicados en pago no serán objeto de castigos contable
 
 Los deterioros físicos o desvalorizaciones de cualquier naturaleza que pueda sufrir un bien, serán reconocidos por la vía de incrementar el monto de la provisión por sobrevaloración a que se refiere el N° 2 de este título, lo que en ningún caso exime a la institución financiera de la obligación de enajenar dentro de los plazos establecidos o de mantenerse dentro del margen legal a que se ha hecho referencia anteriormente. Si la institución financiera se deshace de bienes sin valor comercial conforme a lo indicado en el numeral 4.3 del título I de estas normas, procederá a efectuar, en esa oportunidad, la correspondiente rebaja del activo, empleando para el efecto las provisiones constituidas.
 
-Los castigos efectuados en cumplimiento de lo dispuesto en el penúltimo inciso del N° 5 del artículo 84 de la Ley General de Bancos, se registrarán acreditando las respectivas cuentas de la partida 1765 con cargo a la cuenta "Castigo de bienes recibidos o adjudicados en pago" de la partida 6315, por el valor en que se encuentre registrado el bien que se castiga más las eventuales adiciones de que trata el N° 4 anterior.
+Los castigos efectuados en cumplimiento de lo dispuesto en el penúltimo inciso del N° 5 del artículo 84 de la Ley General de Bancos, se harán de acuerdo con lo previsto en el numeral 4.2 del título I de este Capítulo y sus resultados se informarán en la cuenta "Castigo de bienes recibidos o adjudicados en pago" de la partida 6315. Para contabilizar la venta de un bien cuyo valor se encuentre parcialmente castigado, el monto remanente registrado en el activo se tratará como costo de la venta.
 
 APITULO 10-2 (Bancos y Financieras)
 
@@ -23380,17 +23382,35 @@ CAPITULO 18-13 (Bancos y Financieras)
 
 MATERIA:
 
-PROHIBICION DE OFRECER INCENTIVOS DISTINTOS DE INTERESES, REAJUSTES O COMISIONES.
+INCENTIVOS DISTINTOS DE INTERESES, REAJUSTES O COMISIONES.
 
-A las instituciones financieras no les está permitido ofrecer incentivos en dinero o avaluables en dinero, distintos de intereses, reajustes o comisiones, para atraer a la clientela y al público a que efectúe depósitos, contrate créditos u otros servicios con ellas. Este principio es absoluto respecto de las operaciones pasivas, ya se trate de cuentas corrientes, cuentas de ahorro, depósitos a la vista o a plazo, etc.
+A las instituciones financieras no les está permitido ofrecer incentivos en dinero o avaluables en dinero, distintos de intereses, reajustes o comisiones, para atraer a la clientela y al público a qué efectúe depósitos, contrate créditos u otros servicios con ellas.
 
-Las operaciones activas se encuentran sujetas a las mismas normas. Sin embargo, se exceptúa el sistema denominado "de marca compartida" (co-branding) utilizado en tarjetas de crédito y que consiste en una asignación de puntaje al titular de la tarjeta, según el uso que haga de ella, permitiéndole acceder, de acuerdo al puntaje acumulado, a determinados beneficios otorgados por el comercio asociado a la tarjeta y siempre que ellos estén disponibles para todos los tarjeta-habientes en igualdad de condiciones y el emisor no participe en forma alguna en su entrega.
+Se exceptúan de esa prohibición los beneficios otorgados a los titulares de tarjetas emitidas por las instituciones financieras, en los casos y bajo las condiciones que a continuación se indican:
 
-La obligación de que los beneficios ofrecidos alcancen a todos los tenedores de tarjetas en igualdad de condiciones, implica una prohibición absoluta de asignar tales beneficios mediante sorteos u otros procedimientos selectivos basados en el azar o en otros factores diferentes al puntaje acumulado por el uso de la tarjeta.
+1.- Beneficios otorgados a las personas en su calidad de tenedores de tarjetas.
 
-Por su parte, el impedimento de participar en la entrega de los beneficios, alcanza tanto a la oferta de ellos por el propio emisor o por cuenta de él, como cualquier intervención de éste en la administración de la entrega de los servicios o bienes de que se trate.
+Se podrán otorgar beneficios a las personas por el hecho de tener una tarjeta bancaria, sea ésta de crédito, de débito o sólo para cajeros automáticos, cuando consistan en descuentos o prestaciones gratuitas ofrecidos por terceros y que, por consiguiente, no correspondan a operaciones de la institución financiera o sus filiales, ni sean entregados directamente por ellos.
 
-Además, en las promociones de las tarjetas de crédito y en la información acerca del sistema, dirigida a sus clientes o al público en general, las instituciones financieras deberán señalar en forma explícita que la entrega de los servicios o bienes ofrecidos como la ulterior atención que ellos demanden, es de exclusiva responsabilidad de la empresa participante en el contrato de co-branding, no cabiéndole a la entidad financiera ninguna intervención en ello.
+La entrega de estos beneficios puede circunscribirse a un sector específico de los usuarios de una tarjeta, siempre que la distinción no se haga en función de la realización de operaciones con la institución financiera o sus filiales y comprenda a todas las personas que se encuentren en una misma situación.
+
+2.- Beneficios otorgados por la utilización de tarjetas de crédito o de débito.
+
+Podrán otorgarse beneficios a los titulares de tarjetas de crédito o de débito, a través de un sistema basado en la asignación y acumulación de un puntaje según el uso que se haga de ellas, siempre que los beneficios estén disponibles para todos los poseedores de un mismo tipo de tarjeta.
+
+Este tipo de beneficios puede corresponder a bienes o prestaciones de servicios y descuentos en adquisiciones en el comercio o en operaciones activas o pasivas con la institución financiera, con la limitación de que ésta no puede entregar directamente los bienes corporales en que consistan los beneficios.
+
+3.- Condiciones generales.
+
+La posibilidad de otorgar los beneficios de que tratan los números precedentes, queda sujeta al cumplimiento de las siguientes condiciones generales:
+
+a) Los beneficios no podrán consistir en la entrega de dinero en cualquier forma.
+
+b) En ningún caso se podrán asignar los beneficios mediante sorteos u otros procedimientos selectivos basados en el azar.
+
+c) La institución financiera no podrá participar en la entrega de bienes o servicios ajenos a su giro. Esto se refiere tanto a la administración de su entrega como a la responsabilidad que se asume en el proceso.
+
+d) En las promociones de las tarjetas y en cualquier información acerca del sistema, dirigida a sus clientes o al público en general, las instituciones financieras deberán señalar en forma explícita que la entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de la empresa que realiza tal actividad, no cabiéndole a la entidad financiera intervención alguna en su entrega o en la ulterior atención que ellos demanden.
 
 CAPITULO 19-1 (Bancos y Financieras)
 
