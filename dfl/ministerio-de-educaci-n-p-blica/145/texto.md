@@ -1,0 +1,1 @@
+Suprime cargos que indica de la Sociedad Constructora de Establecimientos Educacionales.
