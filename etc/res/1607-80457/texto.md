@@ -1,0 +1,3 @@
+Por Resolución Nº 1.607, de 25 de noviembre de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por EXPORTACIONES Y PRODUCTOS DEL MAR B Y D LIMITADA, para operar la nave "Zuiderster 10" en el área de pesca del litoral de la III y IV Región en la captura de Anchoveta y Sardina española, en virtud de lo dispuesto en el artículo 19 letra a) del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
