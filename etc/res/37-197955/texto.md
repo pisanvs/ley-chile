@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 37, de 5 de abril del año 2002, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo Laboral Limitada de sigla Larcovi Ltda. de Santiago; en los términos que da testimonio el documento protocolizado ante el Notario de La Cisterna don Andrés Rodríguez Cruchaga, bajo el Nº 45, con fecha 27 de febrero del 2002.
+
+Por Orden del Señor Subsecretario. Carlos Rubio Estay. Jefe Departamento de Cooperativas. Ministerio de Economía, Fomento y Reconstrucción.
