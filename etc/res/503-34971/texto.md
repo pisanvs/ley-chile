@@ -1,0 +1,3 @@
+RESOLUCION D.G.A. N° 503, DE 1995, DEJA CONSTANCIA CADUCIDAD DE MERCED DEFINITIVA OTORGADA POR DECRETO N° 2.619, DE 1929, DEL MINISTERIO DEL INTERIOR, EN FAVOR DE LA SOCIEDAD GROB Y CIA. LIMITADA, EN EL RIO CAUTIN, PROVINCIA DE CAUTIN, IX REGION
+
+Por Resolución D.G.A. N° 503, de fecha 22 de septiembre de 1995, la Dirección General de Aguas dejó constancia de la caducidad de pleno derecho de la merced definitiva otorgada por Decreto Supremo N° 2.619, de fecha 7 de junio de 1929, del Ministerio del Interior, en favor de la Sociedad Grob y Cía. Limitada, en el Río Cautín, provincia de Cautín, IX Región. Copia del referido acto administrativo se encuentra a disposición de los interesados en las oficinas de la Dirección General de Aguas, Morandé 59, 8° piso, Santiago.
