@@ -1,0 +1,7 @@
+Por resolución Nº 408, de 1 de marzo de 2000, de esta Subsecretaría, autorízase a RENZO DANILO ARENAS GONZALEZ, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 1.749, de 1998, de esta Subsecretaría, donde podrá incorporar a la planta ubicada en calle Las Heras Nº 550, Población Fitz Roy, comuna de Punta Arenas, provincia de Magallanes, XII Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos:
+
+Fresco-Refrigerado: Chancharro, Bacalao de profundidad, Brótula, Róbalo, Raya, Anguila, Congrio colorado, Congrio negro, Pejerrey de mar, Salmón del Atlántico, Salmón rey, Cojinoba del norte, Cojinoba del sur, Pejegallo, Tollo, Huiro, Luga Luga, Pelillo, Luche, Chascón, Cochayuyo, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba peluda o Pachona, Jaiba reina, Jaiba remadora, Culengue, Tumbao, Macha, Lisa, Krill, Cholga, Choro, Chorito, Navaja de mar o Huepo, Lapa, Pepino de mar. Congelado: Bacalao de profundidad, Brótula, Róbalo, Raya, Anguila, Congrio colorado y Congrio negro.
+
+El abastecimiento de los recursos Salmón del Atlántico y Salmón rey, deberán provenir de centros de cultivo debidamente autorizados.
+
+Valparaíso, 1 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
