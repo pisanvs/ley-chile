@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.595, de 20 de diciembre de 2004, de esta Subsecretaría, autorízase a Enrique Horacio Cabrera Silva, para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Avenida 21 de Mayo s/n, Pargua, Calbuco, X Región, en las líneas de proceso de Cocido, Fresco refrigerado, Congelado y Conserva, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
