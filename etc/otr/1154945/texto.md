@@ -1,0 +1,7 @@
+Designacion de rehenes
+
+Santiago i Mayo 24 de 1814.
+
+Conformándome con el honor, que justamente caracteriza a este Reino, i con el vivo interes, que hace, de que con la mayor escrupulosidad, i estrictez se cumplan por parte de él los tratados, que a su nombre acepté i ratifiqué, dando efecto al artículo 11 de ellos, en que para cumplimiento de los demas ofrece Chile por rehenes tres personas de distincion; vengo en nombrar por tales al coronel don Antonio Urrutia i Mendiburu, al Teniente Coronel de Artillería don Manuel Blanco Encalada, i al Teniente Coronel don Francisco Ruiz Tagle; todos tres de las circunstancias, i relaciones que pueden apetecerse, para garantir i sincerar la buena fé i sentimientos del Gobierno Chileno, i de los habitantes de su comprension. El primero se embarcará para Lima en el puerto de Talcahuano con el Jeneral en Jefe Nacional, Brigadier don Gavino Gainza, en cuanto disponga su salida; los dos segundos se presentarán, de recibo de éste en quince dias, al Gobernador interino de Valparaiso, para embarcarse allí para dicha ciudad de Lima, en que permanecerán hasta que el Reino cumpla en el todo cuanto propuso en aquellos tratados.
+
+Trascríbase a los interesados para que en obsequio de su patria se ofrezcan a este sacrificio, que les hará acreedores a su gratitud; i a nuestro Jeneral en Jefe para su intelijencia.- Lastra. - Doctor Echeverría, secretario.
