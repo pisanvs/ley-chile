@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.826, de 30 de septiembre de 1998, se expropió el lote de terreno No. 44, superficie 4.049 m², rol de avalúo 20-103, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los Andes, Sector G, By Pass Los Andes, y se acordó el valor de indemnización con sus propietarios Engelbert Siglreithmaier y otro, ascendente a la cantidad de $14.932.263.-
+
+Fiscal del Ministerio de Obras Públicas.
