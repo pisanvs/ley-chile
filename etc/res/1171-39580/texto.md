@@ -1,0 +1,15 @@
+EXTRACTO DE RESOLUCION EXENTA N° 1171, DE 1996, QUE
+
+ASIGNA CONCESION QUE INDICA
+
+_____________________________________________________
+
+| NOTA: VER DIARIO OFICIAL N° 35.630 DEL DIA LUNES |
+
+| 02 DE DICIEMBRE DE 1996, PAGINA 11 |
+
+| SEGUNDO CUERPO |
+
+|_____________________________________________________|
+
+Firma: Subsecretario de Telecoimunicaciones.
