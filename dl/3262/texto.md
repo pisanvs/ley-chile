@@ -1,0 +1,127 @@
+ESTABLECE NORMAS SOBRE ENAJENACION DE TIERRAS ASIGNADAS POR LA CAJA DE COLONIZACION AGRICOLA, LA CORPORACION DE LA REFORMA AGRARIA, LA OFICINA DE NORMALIZACION AGRARIA Y EL SERVICIO AGRICOLA Y GANADERO, Y DE TIERRAS ADJUDICADAS A LA DISOLUCION DE COOPERATIVAS DE REFORMA AGRARIA
+
+Núm. 3.262.- Santiago, 14 de Marzo de 1980.- Visto: Lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974, y 991, de 1976,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Salvo en los casos previstos en el presente decreto ley y mientras se mantengan las deudas a que se refiere el artículo siguiente, se prohibe la celebración de contratos de compraventa, promesas de compraventa, adjudicaciones, constitución de comunidades o sociedades y, en general, cualesquier contratos o actos destinados a transferir el dominio de parcelas, huertos o sitios vendidos o asignados o que se asignen por la Caja de Colonización Agrícola, la Corporación de la Reforma Agraria, la Oficina de Normalización Agraria o el Servicio Agrícola y Ganadero, como asimismo el de las tierras adjudicadas o que se adjudiquen con motivo de la disolución de cooperativas de reforma agraria, incluyendo los demás derechos incorporados al patrimonio del asignatario o adjudicatario en virtud de la asignación o de la adjudicación.
+
+Inciso segundo.- Derogado Los actos y contratos que se celebren en contravención al presente artículo serán absolutamente nulos, sin perjuicio de las responsabilidades del asignatario o adjudicatario por infracción a las obligaciones y prohibiciones contenidas en el respectivo título o establecidas en la ley.
+
+Lo dispuesto en los incisos anteriores es sin perjuicio de la formación de comunidades originadas por sucesión por causa de muerte, disolución de la sociedad conyugal o adquisición del dominio por dos o más personas, conforme a lo dispuesto en este decreto ley. Igualmente quedan excluidos los actos de adjudicación que deriven de la liquidación de tales comunidades.
+
+Corresponderá al Consejo de Defensa del Estado ejercer las acciones que proceden en conformidad con lo dispuesto en el presente artículo, sin perjuicio de los derechos de las partes o de terceros.
+
+> **Nota.** NOTA: 1 El art. 6° de la ley 18.113 declaró extinguida las prohibiciones y limitaciones a que se referían el inciso 2° del art. 1°, y los artículos 8° y 9° del presente decreto ley.
+
+#### Artículo 2°
+
+Podrán enajenarse los predios y derechos a que se refiere el artículo anterior siempre que los propietarios de dichos inmuebles, paguen la totalidad de sus deudas por saldos de precio y la totalidad de las deudas, que por cualquier otro motivo o título, tengan con el Fisco por aplicación de lo dispuesto en los artículos 4° y 10 del decreto ley N° 2.405, de 1978.
+
+El pago a que se refiere el inciso anterior podrá ser efectuado además directamente por el adquirente al momento de suscribir el contrato, en cuyo caso el notario público que autorice tal acto deberá integrar el pago al Servicio de Tesorería, conjuntamente con los impuestos que afecten al contrato.
+
+En toda escritura de enajenación deberá dejarse constancia del pago de las deudas a que se refiere el inciso primero, mediante certificado expedido por el Servicio de Tesorería, conforme a lo dispuesto en la letra a) del inciso tercero del artículo 3°, sin lo cual dichos instrumentos no podrán ser autorizados por los notarios públicos.
+
+> **Nota.** NOTA: 2 El artículo 37 de la ley N° 18.755, publicada en el "Diario Oficial" de 7 de enero de 1989, dispuso que las disposiciones de este decreto ley, no se aplicarán a los predios cuyos propietarios hayan pagado íntegramente las deudas a que se refiere este artículo.
+
+#### Artículo 3°
+
+Los adquirentes originales de los inmuebles indicados en el artículo 1° y quienes los hubieren sucedido o subrogado en sus derechos y obligaciones en conformidad a la ley, podrán además vender sus predios y derechos si el adquirente hace suyas las deudas señaladas en el artículo anterior y se obliga a pagarlas en un plazo no superior a 16 años, contado desde la fecha del contrato de enajenación, con un interés del 7% anual o del 9% anual, en caso de mora y con los reajustes correspondientes. Este plazo no podrá exceder, en ningún caso, al que reste al adquirente original para el pago de la deuda.
+
+En las transacciones posteriores, los nuevos adquirentes deberán obligarse a pagar el saldo de la deuda fiscal con los mismos intereses y reajustes indicados y en un plazo que no exceda del que reste a su antecesor en el dominio para solventar totalmente la deuda. Tanto los reajustes como los intereses serán calculados en la forma establecida en el artículo 12° del decreto ley 2.405, de 1978.
+
+Para los efectos de lo dispuesto en los incisos anteriores, en la escritura pública de enajenación deberá insertarse un certificado emitido por el Servicio de Tesorerías, con una antelación no superior a 30 días, desde la fecha de la escritura, en el cual conste el hecho de que el deudor se encuentra al día en el pago de la deuda que afecta al predio objeto de la enajenación, y el monto y condiciones de la misma.
+
+Los notarios públicos no autorizarán las escrituras en que conste la celebración de actos o contratos autorizados en este artículo que no se sujeten a las reglas precedentes ni los Conservadores de Bienes Raíces harán las inscripciones correspondientes.
+
+Se entenderá, por el solo ministerio de la ley, que al celebrarse tales actos y contratos la Tesorería General de la República, en representación del Fisco, acepta la substitución del deudor primitivo en los términos expuestos y que, en consecuencia, da por extinguidas las obligaciones de éste, liberándolo de ellas.
+
+Quienes, de conformidad con lo dispuesto en el presente artículo y en el precedente, adquieran tierras asignadas o adjudicadas no tendrán la calidad de asignatarios o adjudicatarios, no obstante lo cual, les será aplicable lo establecido en los artículos 4°, 10, 11 y 12 del decreto ley N° 2.405, de 1978, y 3° del decreto ley N° 3.165, de 1980, en lo que corresponda.
+
+#### Artículo 4°
+
+En todo caso, para ejercer la facultad que se otorga por los artículos 2° y 3° del presente decreto ley el asignatario o adjudicatario deberá pagar la totalidad de las deudas que tuviere en favor del Instituto de Desarrollo Agropecuario y, para ejercer la facultad establecida en el artículo 5° deberá pagar la totalidad de las deudas vencidas que tuviere en favor de dicho Instituto y el adquirente deberá hacer suyas las pendientes, debiendo pagarlas en el plazo y en las condiciones pactadas por el asignatario o adjudicatario y vigente a la fecha del contrato, en cuyo caso operará la novación por cambio de deudor por el solo ministerio de la ley. El adquirente podrá también pagar los saldos pendientes al contado.
+
+En las escrituras públicas correspondientes deberá insertarse un certificado en que conste al monto de las deudas, su pago o las modalidades para su pago o su inexistencia, rigiendo también para estos efectos las prohibiciones establecidas en el inciso cuarto del artículo precedente. Dichos certificados podrán ser extendidos por el Instituto de Desarrollo Agropecuario, por los Secretarios Regionales Ministeriales de Agricultura o por los funcionarios que el Ministro de Agricultura designe expresamente para este efecto.
+
+No se exigirá la inserción del certificado a que se refiere el inciso anterior, cuando el vendedor no tenga la calidad de asignatario o adjudicatario del predio objeto de la venta.
+
+#### Artículo 5°
+
+Los asignatarios o adjudicatarios de los predios a que se refiere el inciso primero del artículo 1°, sus sucesores y quienes los hayan subrogado en sus derechos y obligaciones en virtud de lo dispuesto en el inciso quinto del artículo 3° del decreto ley N° 1.600, de 1976, y en el presente artículo. podrán celebrar actos o contratos destinados a transferir y ceder su dominio y demás derechos incorporados a su patrimonio en virtud de la asignación o adjudicación con autorización previa del Secretario Regional Ministerial de Agricultura que corresponda al lugar de ubicación del predio o a falta de él, del funcionario que designe el Ministro de Agricultura, en cualquiera de los casos y bajo las condiciones que se expresan a continuación:
+
+a) Cuando el adquirente sea propietario de uno o más predios que les hayan sido asignados o adjudicados por las entidades mencionadas en el inciso primero del artículo 1° del presente decreto ley, y no tenga el dominio de tierras que, en conjunto, excedan a una unidad agrícola familiar.
+
+b) Cuando el adquirente cumpla con los siguientes requisitos: 1) Tener la calidad de trabajador agrícola dependiente a la época de la solicitud y durante los tres años inmediatamente anteriores o haber tenido en cualquier tiempo esa calidad durante un período total de diez años, sean éstos continuos o discontinuos; 2) Ser chileno o extranjero con residencia definitiva en Chile; 3) Ser mayor de 18 años; 4) No ser propietario de tierras o serlo de un predio cuya superficie sea igual o inferior a la unidad agrícola familiar; 5) No encontrarse encargado reo por delito a que la ley señale pena aflictiva ni haber sido condenado, mediante sentencia de término, a pena aflictiva, y 6) No haber sido condenado, por sentencia de término, a una pena inferior a la señalada, en caso de reincidencia.
+
+c) Cuando el adquirente fuere o hubiere sido trabajador agrícola durante, a lo menos, 3 años continuos en algún predio sometido al proceso de reforma agraria con ocasión del cual el propietario o legítimo tenedor hubiere perdido total o parcialmente la tenencia o administración del mismo, y cumpla además con los requisitos señalados en los números 2) al 6) inclusive, de la letra b) precedente.
+
+d) Cuando el adquirente acredite, conforme a las disposiciones que establezca el reglamento, prácticas en trabajos agrícolas por un período no inferior a tres años y cumpla, además, con los requisitos señalados en los números 2) al 6) inclusive, de la letra b) del presente inciso.
+
+En los casos señalados en las letras a), b) y c) del inciso anterior los adquirentes subrogarán a los asignatarios o adjudicatarios en todos sus derechos y obligaciones establecidos en las respectivas actas de asignación o instrumentos de adjudicación y en las disposiciones legales que les sean aplicables, incluyendo las condiciones y modalidades fijadas para el pago de las deudas a que se refiere el artículo 2°.
+
+En el caso contemplado en la letra d), el adquirente subrogará también al asignatario o adjudicatario en tales derechos y obligaciones, con las siguientes salvedades: 1) El plazo pendiente para el pago de las deudas se reducirá a la mitad del establecido para el asignatario o adjudicatario, y 2) Al saldo insoluto se aplicará un interés del 7% anual o del 9% anual en caso de mora.
+
+En todo caso, la autorización a que se refiere el inciso primero del presente artículo no podrá otorgarse si el adquirente no se obliga al pago de las deudas por concepto distinto del precio de la tierra a que se refiere el artículo 2°, en las condiciones y plazos establecidos respecto de los correspondientes asignatarios o adjudicatarios, sin perjuicio de lo establecido en el inciso anterior.
+
+> **Nota.** El artículo 2° transitorio de la Ley N° 19.221, publicada el 01.06.1993, dispuso su entrada en vigencia treinta días después de su publicación.
+
+> **Nota.** NOTA 1: El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones " procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+
+#### Artículo 6°
+
+Para efectuar las inscripciones que se deriven de los actos o contratos celebrados en conformidad a los artículos 3° y 5°, los Conservadores de Bienes Raíces requerirán, además, una segunda copia de las correspondientes escrituras, la que deberán enviar, con certificado de inscripción, a la Tesorería Comunal del lugar donde tengan su oficio, dentro del tercer día de practicada la inscripción.
+
+#### Artículo 7°
+
+DEROGADO.-
+
+#### Artículo 8°
+
+DEROGADO.-
+
+#### Artículo 9°
+
+DEROGADO.-
+
+#### Artículo 10
+
+No procederá la acción resolutoria por parte del Fisco respecto de los predios a que se refiere el artículo 1° de este decreto ley.
+
+Dichos inmuebles podrán gravarse libremente, conforme a las normas del derecho común.
+
+#### Artículo 11
+
+Derógase lo dispuesto en la letra b) del artículo 76 de la ley N° 16.640, y en el artículo 86 del decreto con fuerza de ley R.R.A. N° 11, de 1963, Y declárase extinguida la prohibición de dividir contenida en los títulos de venta y asignación otorgados por la Caja de Colonización Agrícola, la Corporación de la Reforma Agraria o la Oficina de Normalización Agraria.
+
+Los Conservadores de Bienes Raíces, a requerimiento de los interesados, deberán cancelar las inscripciones relativas a la prohibición de dividir que se deroga.
+
+La división de las tierras a que se refiere el presente decreto ley se regirá por las disposiciones contenidas en el decreto ley N° 752, de 1974, y sus modificaciones.
+
+Al hacer uso de la facultad a que se refieren los artículos 2°, 3° y 5° de este decreto ley, en la forma y por los procedimientos que se señalan en esos preceptos, el asignatario podrá conservar en su dominio el sitio y casa habitación que se le hubiere asignado sin formar un todo físico con la parcela o huerto y que figure separadamente, con deslindes especiales, en el título de dominio. En estos casos no se aplicará el decreto ley N° 752, de 1974, ni lo dispuesto en el artículo 1° de este decreto ley.
+
+#### Artículo 12
+
+Deróganse en el decreto con fuerza de ley R.R.A. N° 11, de 1963, su artículo 11 y el artículo nuevo agregado por el N° 28 del artículo 224 de la ley N° 16.640, y el artículo 3° del decreto ley N° 1.600, de 1976.
+
+ARTICULOS TRANSITORIOS
+
+#### Artículo 1°
+
+El plazo establecido en el inciso primero del artículo 7° del presente decreto ley se entenderá suspendido hasta la fecha en que el Tesorero General de la República comunique, mediante una publicación en el Diario Oficial, el hecho de estar determinados los montos de las deudas a que refieren los artículos 2° y 3°.
+
+#### Artículo 2°
+
+En todo caso, desde la vigencia del presente decreto ley y hasta la fecha señalada en el artículo anterior, podrán celebrarse los actos de enajenación que se autorizan por los artículos 3° y 5°, aunque no se encuentren determinados los montos de las deudas a que se refiere el artículo 2° ni se inserte en la escritura pública el certificado exigido por la letra a) del inciso tercero del artículo 3°, en su caso, y siempre que se cumplan los demás requisitos establecidos en el presente decreto ley.
+
+Tratándose de los actos de enajenación a que se refiere el inciso anterior, el impuesto de transferencia a que se encuentren afectos se calculará y cobrará sobre la base del avalúo fiscal del respectivo predio y su pago habilitará a los notarios públicos para autorizar las correspondientes escrituras públicas. Determinado que sea el monto de las deudas a que se refiere el artículo anterior y cumplido el requisito previsto en el inciso final del artículo 14 del decreto ley N° 2.405, de 1978, el servicio de Impuestos Internos procederá a reliquidar el impuesto de transferencia sobre la base del precio de enajenación que resulte, y girará la diferencia, en caso de haberla, en contra del adquirente, sin que en tal caso proceda ningún recargo por concepto de reajustes o intereses.
+
+#### Artículo 3°
+
+Las solicitudes presentadas en la Oficina de Normalización Agraria o en el Servicio Agrícola y Ganadero con anterioridad a la vigencia del presente decreto ley con el objeto de obtener la autorización exigida por el artículo 3° del decreto ley N° 1.600, de 1976, para enajenar las tierras asignadas, serán resueltas por el Servicio Agrícola y Ganadero de conformidad con esta última disposición, sin que sea aplicable lo dispuesto en el inciso segundo del artículo 71 de la ley N° 16.640.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- MARIO MAC KAY JARAQUEMADA, General Director de Carabineros subrogante.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.
