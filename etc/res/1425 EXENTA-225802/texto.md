@@ -1,0 +1,11 @@
+Por resolución exenta Nº 1.425 de 24 de mayo de 2004 de esta Subsecretaría, modifícase la resolución Nº 1.125 de 2004, de esta Subsecretaría que autorizó a CONSULTORA PUPELDE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y evaluación de la pesquería del Pejerrey de Mar (Odontesthes regia), mediante el uso de artes de enmalle y cerco en aguas interiores de la X Región", en el sentido de sustituir el numeral 5º, incisos 2º y 3º, por los siguientes:
+
+"Las capturas de Anchoveta y Sardina común que realicen las embarcaciones participantes en la pesca de investigación se someterán a las siguientes reglas:
+
+a) Embarcaciones cuyos armadores se encuentren afiliados a organizaciones de pescadores artesanales sometidas al Régimen de Extracción Artesanal: se imputarán a la fracción autorizada a la organización a que se encuentre afiliado, autorizada para el Área Sur de la X Región, en el período comprendido entre el 31 de enero y el 31 de julio de 2004, establecida mediante resolución Nº 317 de 2004, modificada mediante resolución Nº 455 de 2004, ambas de esta Subsecretaría de Pesca.
+
+b) Embarcaciones cuyos armadores no se encuentren afiliados a organizaciones de pescadores artesanales sometidos al Régimen de Extracción Artesanal: se imputarán a la cuota remanente autorizada para el Area Sur de la X Región, para el período comprendido entre el 31 de enero y el 31 de julio de 2004, establecida mediante resolución Nº 317 de 2004, modificada mediante resolución Nº 455 de 2004, ambas de esta Subsecretaría de Pesca.
+
+c) En caso que la fracción respectiva se agote antes de la fecha de término de la presente pesca de investigación, se permitirá la extracción de Anchoveta y Sardina común como fauna acompañante de Pejerrey de Mar, en un porcentaje máximo de 5%, medido en peso, de la captura total por viaje de pesca, con un máximo de captura total conjunto de 100 toneladas, las que se imputarán a la fracción autorizada a la respectiva organización a que se encuentre afiliado el armador o a la cuota remanente, según corresponda, establecida para el período siguiente."
+
+Valparaíso, 24 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
