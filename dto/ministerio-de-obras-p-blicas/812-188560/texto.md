@@ -1,0 +1,3 @@
+Por decreto MOP Nº812 de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº29, superficie 4.325,50 m2, rol de avalúo Nº 384-34, comuna de Pitrufquén, para la obra ''Diseño Definitivo Regadío faja Maisan, Expropiaciones Red Primaria 5/5, Derivado Mahuidanche'''', Sector Km. 7.790,94 al Km. 15.096,56", y se acordó el valor de indemnización con su propietario Arnoldo Luis Augsburger Aeschlimann, ascendente a la cantidad de $4.330.691.-
+
+Fiscal del Ministerio de Obras Públicas.
