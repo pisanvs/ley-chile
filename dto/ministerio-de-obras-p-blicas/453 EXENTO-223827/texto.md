@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 453 de 26 de marzo de 2004, se expropiaron los lotes de terrenos Nº s. 42 y 42-A, superficies 925 y 256 m2. respectivamente, Rol de Avalúo Nº 512-126, comuna de Carahue, para la obra "Camino Ruta S-36, Sector Tranapuente - Nehuentué, Tramo Km. 0,000 a Km. 9,997062, correspondiente al Sub Tramo I Km. 0,000 a Km. 4,230", IX Región y se acordó el valor de indemnización con su propietario Juan Segundo Lincopi Salas y otros, ascendente a la cantidad de $855.648.
+
+Fiscal del Ministerio de Obras Públicas.
