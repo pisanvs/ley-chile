@@ -1,0 +1,5 @@
+DISPONE INCLUSION DE DON CLAUDIO MARDONES VALDES, A LAS NOMINAS DE POSTULANTES SELECCIONADOS PARA EL GOCE DEL SUBISIDIO HABITACIONAL
+
+Resolución exenta N° 3.248, de fecha 19 de noviembre de 1996, dispone inclusión de don Claudio Mardones Valdés, a las nóminas de postulantes seleccionados para el goce del Subisidio Habitacional correspondiente al llamado A-96 a Postulación Colectiva con Proyectos Habitacionales emplazados en Zonas de Renovación Urbana del Sistema General Unificado de Subsidio Habitacional. Como consecuencia de ello queda en 677 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado A-96 a Postulación Colectiva con Proyectos Habitacionales emplazados en Zonas de Renovación Urbana del Sistema General Unificado de Subsidio Habitacional y en 135.400 Unidades de Fomento (U.F.), el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.
+
+José M. Cortínez Castillo, Subsecretario de Vivienda y Urbanismo.
