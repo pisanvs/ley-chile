@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº23, de 29 de enero de 2002, se expropió el lote de terreno Nº194-1, superficie 12 m2., rol de avalúo 77-18, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector K: Km. 161.650,00 al Km. 179.500,00 se acordó el valor de la indemnización con su propietaria Elia y Edita del Carmen Muñoz García, ascendente a la cantidad de $67.500.-
+
+Fiscal del Ministerio de Obras Públicas.
