@@ -1,0 +1,3 @@
+Por resolución No. 600, de 20.06.89, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, parte inmueble, ubicado en Avda. Santa Isabel No. 313, presunto rol avalúos 584-12, comuna de Santiago, aparentemente dominio de Susana Acevedo Basoalto, Comisión integrada por peritos Italo Núñez Núñez y Hernán Monckeberg Barros, arquitectos, y Jorge Cavagnaro Michelis, ingeniero civil según informe de 26 de Diciembre de 1988, fijó monto provisional indemnización en $ 2.346.320.- pagadera, al contado.
+
+Director SERVIU Metropolitano.
