@@ -1,0 +1,5 @@
+Por decreto MOP. Nº137 de l8 de febrero de l998,y en base a la facultad otorgada por el artículo 105 del decreto MOP Nº294 de 1984 (D.F.L. Nº 850 de 1997), que fijó el texto actualizado de la Ley Nº l5.840, se expropió el lote de terreno Nº 3-B, para la obra Camino Santiago - Colína - Los Andes Sector "C", Peldehue - Casas de Chacabuco, km.
+
+26.000,00 al 36.510,80, que figura a nombre de Avícola y Agrícola Quilapilún Ltda., rol de avalúo 186-138, Comuna de Colina, superficie 17.126 m2. La Comisión de Peritos integrada por los señores Enrique Figueroa Echeverría, José Cristián Larraín Barros y Carlos Albrecht Viveros, fijó con fecha 31 de octubre de 1997, el valor provisional de la indemnización en la cantidad de $44.174 000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 79 del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Publicas.
