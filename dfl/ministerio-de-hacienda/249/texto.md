@@ -1,0 +1,1 @@
+Fija la planta del personal dependiente de la Dirección General de Educación Secundaria.
