@@ -1,0 +1,9 @@
+AUTORIZA A SOCIEDAD PESQUERA EICOMAR LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 730 de 6 de Noviembre de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Eicomar Limitada, domiciliada en la comuna de Santiago, para operar la planta elaboradora de recursos hidrobiológicos ubicada en el Km. 12 del camino Chinquihue, Puerto Montt, en las líneas de congelado, conserva, deshidratado, seco salado, ahumado y refrigerado, en las que podrá utilizar como materia prima:
+
+brótula, caballa, cabrilla española, cabrilla común, tazón, cojinova, congrio colorado, congrio dorado, congrio negro, corvina, jurel, merluza común, merluza española, merluza de cola, mero, pejegallo, pejerrey de mar, raya, róbalo, sardina común, sardina española, rollo, almejas, calamar, caracol locate, caracol trumulco, cholga, chorito, lapa, macha, navajuela, ostión del Norte, ostión del Sur, ostra, pulpo, camarón nylon, centolla, centollón, gamba, jaiba, picoroco, piure, trucha arco iris, salmón coho, salmón chinook. Las tres últimas especies sólo podrán provenir de establecimientos de cultivo autorizados. Para el deshidratado podrá utilizar además pelillo - chasca, chascón, huiro y luga - luga.
+
+Además, se dejan sin efecto el Decreto No. 294, de 1977, del Ministerio de Agricultura y las Resoluciones de la misma Subsecretaría No.s. 568, de 1984 y 22 de 1985, que autorizaron a Pesquera Eicomar Limitada para desarrollar actividades pesqueras en la planta señalada.
+
+Valparaíso, 6 de Noviembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
