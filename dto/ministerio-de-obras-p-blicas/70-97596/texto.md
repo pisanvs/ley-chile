@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 70, de 30 de enero de 1998, se expropiaron los lotes de terreno N°s. 30, 30-A y 31, superficies 30, 517 y 5.260 m2., respectivamente, roles de avalúos 5510-25, 5510-19 y 5510-17, comuna de San Bernardo para la obra Estudio de Anteproyecto e Ingeneria para el sistema Norte-Sur, Las Acacias-Río Maipo y se acordo precio de indemnización con su propietario la Sociedad Agrícola Las urbinas Limitada y Exportadora Frutas del Sur S.A. ascendente a las cantidades de $187.567.787.
+
+Fiscal del Ministerio de Obras Públicas.
