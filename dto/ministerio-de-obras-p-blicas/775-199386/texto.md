@@ -1,0 +1,3 @@
+Por decreto MOP Nº775 de fecha 30 de Abril de 2002, se expropió el lote de terreno Nº318, superficie 4.589 m2, Rol de Avalúo en trámite, comuna de Palmilla, para la obra ''Camino Colchagua-Pichidegua, Sector San Roberto-Crucero, tramo Km. 12,30000 a Km. 26,00400'', VI Región y se acordó el valor de indemnización con su propietaria Sociedad Agrícola Santa Teresa de El Huique Limitada, ascendente a la cantidad de $12.760.481.-
+
+Fiscal del Ministerio de Obras Públicas .
