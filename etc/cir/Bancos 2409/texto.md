@@ -1820,7 +1820,9 @@ Es aconsejable que por lo menos uno de los representantes del Directorio cuente 
 
 3.- Independencia de los representantes del Directorio en el Comité.
 
-Los representantes del Directorio que formen parte del Comité de Auditoría, como también su cónyuge y parientes hasta el segundo grado por consanguinidad o afinidad, no deben ejercer o haber ejercido en los últimos tres años cualquier función gerencial o ejecutiva dentro de la empresa o haberle prestado servicios profesionales dentro de ese período ni mantener o haber mantenido en ese mismo lapso, compromisos comerciales con ella, o con alguna de sus sociedades filiales, coligadas o relacionadas, como tampoco deben tener vinculación con empresas a las cuales o de las cuales haga o reciba pagos importantes o los haya efectuado o recibido en los últimos tres años. Estos miembros del Comité no deben participar de los ingresos o utilidades de la empresa más allá de los que correspondan a los emolumentos que perciban en su carácter de Directores y de los que el Directorio les pudiere fijar por el desempeño de ese cargo.
+Los representantes del Directorio que formen parte del Comité de Auditoría deben observar las condiciones de independencia que establezca el mismo Directorio de acuerdo con los criterios internacionales sobre la materia. En ese mismo sentido, dichos representantes deben abstenerse de desarrollar funciones gerenciales o administrativas en la institución y sus filiales, o de intervenir en ellas de manera que puedan cumplir su cometido con absoluta independencia e imparcialidad.
+
+Estos miembros del Comité no deben participar de los ingresos o utilidades de la empresa más allá de los que correspondan a los emolumentos que perciban en su carácter de Directores y de los que el Directorio les pudiere fijar por su desempeño en el Comité de Auditoría.
 
 4.- Duración del mandato de los representantes del Directorio y de los auditores externos.
 
