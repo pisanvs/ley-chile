@@ -1,0 +1,1 @@
+Por Decreto M.O.P. N° 364, de fecha 30 de noviembre de 1992, se expropió el lote de terreno N° 3, superficie 2.300 m2., rol de avalúo 207-128, Comuna de Limache, para la Obra Reparación Embalse Lliu-Lliu, Zona de Muro y se acordó el valor de indemnización con su propietario Bernardo Opazo Peña, ascendente a la cantidad de $416.688.- Fiscal del Ministerio de Obras Públicas.
