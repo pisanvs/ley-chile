@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.583, de 31 de julio de 2000, se expropió el lote de terreno Nº 16, superficie 30.626 m², rol de avalúo 154-106, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Enlace Zapata, Quinta Región y se acordó el valor de indemnización con su propietaria Viña Concha y Toro S.A., ascendente a la cantidad de $307.147.735.
+
+Fiscal del Ministerio de Obras Públicas.
