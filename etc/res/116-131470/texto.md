@@ -1,0 +1,3 @@
+Por resolución Nº 116, de 21 de enero de 1999, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA COLOSO S.A. para ampliar sus actividades pesqueras con la nave ''Marga Marga'' en el litoral de las regiones I y II, donde podrá capturar con red de cerco y por fuera del área de reserva artesanal el recurso anchoa blanca o samasa.
+
+Valparaíso, 21 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
