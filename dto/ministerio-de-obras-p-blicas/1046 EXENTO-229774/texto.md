@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.046, de fecha 29 de julio de 2004, se expropió el lote de terreno Nº 126, superficie 13m², rol de avalúo Nº 502-206, comuna de Retiro, para la obra "Camino Ruta L-75-Sector El Ajial-Las Camelias Tramo Km. 6.320.000 a Km. 23,400.00", VII Región y se acordó el valor de la indemnización con su propietario Juan Contreras Aravena, ascendente a la cantidad de $226.811.
+
+- Fiscal del Ministerio de Obras Públicas.
