@@ -1268,7 +1268,7 @@ No existe ninguna disposición que exceptúe a estas cuentas corrientes a nombre
 
 1.6. Cuentas corrientes con condiciones especiales.
 
-Las empresas bancarias deben cuidar que las operaciones que se efectúen a través de cuentas corrientes especiales abiertas de conformidad con los Capítulos V; IX; X; XIV Y XXXI del Compendio de Normas de Cambios Internacionales; del Capítulo VI del Compendio de Normas de Exportación; del Capítulo XXII del Compendio de Normas de Importación o de otras disposiciones impartidas o que pueda impartir en lo futuro el Banco Central de Chile, se limiten sólo a los fines señalados en las respectivas normas del Instituto Emisor.
+Las empresas bancarias deben cuidar que las operaciones que se efectúen a través de cuentas corrientes especiales abiertas de conformidad con los Capítulos V, X, XIV y XXIV del Título I y VIII del Título II del Compendio de Normas de Cambios Internacionales o de otras disposiciones impartidas o que pueda impartir en lo futuro el Banco Central de Chile, se limiten sólo a los fines señalados en las respectivas normas del Instituto Emisor.
 
 1.7. Cuentas corrientes a nombre de patrimonios que carecen de personalidad jurídica pero cuyos administradores gozan de tal atributo.
 
@@ -1338,11 +1338,15 @@ b) El plan de cobro de comisiones que los bancos establezcan, no podrá hacer di
 
 El sistema de cobro y cálculo de comisiones que los bancos establezcan, así como las modificaciones que se hagan a dicho sistema, deberá ser comunicado por escrito a cada uno de los titulares de cuentas corrientes que puedan resultar afectados, por lo menos quince días antes de que comience a operar. Sin embargo, se podrá prescindir de ese aviso previo, cuando se trate de modificaciones que signifiquen la disminución o eliminación de las comisiones vigentes.
 
-### 6. Pago de intereses sobre depósitos en cuenta corriente
+6.- Prohibición de pagar intereses sobre depósitos en cuenta corriente.
 
-Conforme a lo dispuesto en el artículo 8° de la Ley sobre Cuentas Corrientes Bancarias y Cheques, los pagos de intereses por los saldos en cuenta corriente,al igual que los cobros por comisiones de que trata el número precedente, deben regirse por las normas dictadas por el Banco Central de Chile.
+Conforme a lo dispuesto en el artículo 8° de la Ley sobre Cuentas Corrientes Bancarias y Cheques los pagos de intereses por los saldos en cuentas corrientes deben regirse por las normas dictadas por el Banco Central de Chile.
 
-Las disposiciones del Instituto Emisor, vigentes sobre la materia, no permiten a los bancos pagar intereses por los saldos mantenidos en las cuentas corrientes.
+Las disposiciones del Capitulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, prohíben el pago de intereses sobre depósitos a la vista, salvo en los casos expresamente autorizados.
+
+La prohibición anterior no establece excepciones respecto de las cuentas corrientes bancarias. Por consiguiente, los bancos deben abstenerse, igualmente, de pagar intereses sobre los saldos mantenidos en dichas cuentas corrientes.
+
+Lo anterior no alcanza, naturalmente, a los intereses que debe pagar el Banco del Estado de Chile en virtud de lo dispuesto en el artículo 509 del Código Orgánico de Tribunales.
 
 ### 7. Entrega de estados de movimiento y saldos de cuentas corrientes
 
@@ -1358,7 +1362,7 @@ Conforme a las disposiciones contenidas en el Capítulo III.G.3 del Compendio de
 
 En todo caso el otorgamiento de sobregiros de hasta 30 U.F. sin pacto previo,corresponde a una facultad del banco, de modo que podrá conceder o denegar esa facilidad crediticia a sus clientes.
 
-Los sobregiros o créditos que los bancos concedan en las cuentas corrientes ordinarias de acuerdo con dichas normas y los intereses que se apliquen, deben ceñirse a las instrucciones impartidas por esta Superintendencia sobre la materia.
+Los sobregiros o créditos que los bancos concedan en las cuentas corrientes ordinarias de acuerdo con dichas normas y los intereses que se apliquen, deben ceñirse a las instrucciones del Capitulo 8-1 de esta Recopilación Actualizada de Normas.
 
 9. Reserva sobre el movimiento de las cuentas corrientes. Facultad de los Tribunales de Justicia.
 
@@ -1369,6 +1373,14 @@ Teniendo presente lo anterior, esta Superintendencia señaló, en la Circular N�
 Este Organismo hizo presente también, en la citada circular, que dicha disposición legal sólo autoriza la "exhibición" de tales partidas,de manera que el banco puede limitarse a exhibir, en sus propias oficinas, los registros,cheques y otros documentos, sin estar obligado a proporcionar al Tribunal copia de ellos.
 
 Las referidas instrucciones se mantienen vigentes.
+
+10.- Instrucciones contables.
+
+Los depósitos en cuentas corrientes serán acreditados en la cuenta "Acreedores en cuentas corrientes", de la partida 3005.
+
+No obstante, las cuentas corrientes sujetas a condiciones especiales establecidas en las Normas de Cambios Internacionales del Banco Central de Chile, aludidas en el numeral 1.6 de este título, se reflejarán en la cuenta "Acreedores en cuentas corrientes especiales - normas de cambio", de la misma partida 3005. Por otra parte, para los depósitos por consignación a que se refieren los artículos 507 y 509 del Código Orgánico de Tribunales, se mantendrá en esa partida la cuenta "Consignaciones judiciales en cuentas corrientes".
+
+Con respecto al tratamiento contable de los créditos o sobregiros en cuentas corrientes, los bancos deben atenerse a lo dispuesto en el Capítulo 8-1 de esta Recopilación.
 
 ### III. EL CHEQUE
 
@@ -6132,29 +6144,13 @@ igual o inferior a 30 unidades de fomento.
 
 ### 2. Sobregiros sin pacto previo
 
-De lo anteriormente expresado se desprende que las entidades bancarias pueden
+De lo anteriormente expresado se desprende que las entidades bancarias pueden otorgar créditos sin pacto previo por escrito, hasta por una suma que no sobrepase las 30 unidades de fomento.
 
-otorgar créditos sin pacto previo por escrito, hasta por una suma que no
+Para los efectos del límite antes indicado se considerarán como una sola las diferentes cuentas corrientes ordinarias que una persona, natural o jurídica, mantenga en un banco.
 
-sobrepase las 30 unidades de fomento.
+Excepcionalmente el límite de 30 unidades de fomento podrá sobrepasarse, cuando el exceso provenga de gastos por servicios prestados o pagados por el banco por cuenta del cliente, conforme a lo señalado en el numeral 4.1, titulo II, del Capítulo 2-2 de esta Recopilación.
 
-Para los efectos del límite antes indicado se considerarán como una sola las
-
-diferentes cuentas corrientes ordinarias que una persona, natural o jurídica,
-
-mantenga en un banco.
-
-Excepcionalmente el límite de 30 unidades de fomento podrá sobrepasarse, cuando
-
-el exceso provenga de gastos por servicios prestados o pagados por el banco por
-
-cuenta del cliente.
-
-Debe tenerse presente que el sobregiro sin pacto previo, de hasta 30 unidades de
-
-fomento, no es un derecho del comitente y, por lo tanto, tampoco es una
-
-obligación del banco, sino un acto voluntario de éste.
+Debe tenerse presente que el sobregiro sin pacto previo, de hasta 30 unidades de fomento, no es un derecho del comitente y, por lo tanto, tampoco es una obligación del banco, sino un acto voluntario de éste.
 
 ### 3. Sobregiros con pacto previo
 
@@ -6192,85 +6188,19 @@ hasta 30 unidades de fomento, a que se refiere el número 2 de estas normas.
 
 ### 4. Intereses
 
-Los intereses de los sobregiros otorgadas en cuentas corrientes ordinarias, se
+Los intereses de los sobregiros otorgadas en cuentas corrientes ordinarias, se cobrarán en la forma en que expresamente se convenga pero siempre por períodos vencidos no inferiores a 30 días, salvo que se trate de operaciones pactadas a plazos menores. En todo caso, se recomienda que en lo posible, esos cargos se efectúen al término de cada mes calendario.
 
-cobrarán en la forma en que expresamente se convenga pero siempre por períodos
+Conjuntamente con realizar el cargo a la cuenta corriente del deudor, el banco deberá remitirle un aviso en que se comunique el importe de los intereses adeudados y debitados a su cuenta.
 
-vencidos no inferiores a 30 días, salvo que se trate de operaciones pactadas a
+Los bancos que no hayan convenido de manera expresa en el respectivo pagaré la exigibilidad de los intereses en una fecha determinada, podrán cargar en la respectiva cuenta corriente los intereses devengados por los sobregiros concedidos, aun cuando dicha cuenta se encuentre sobregirada. En todo caso, los referidos intereses podrán ser debitados en las cuentas corrientes
 
-plazos menores. En todo caso, se recomienda que en lo posible, esos cargos se
+sobregiradas,solamente al término de períodos no inferiores a treinta días contados desde la fecha en que se haya producido el sobregiro que los genere.
 
-efectúen al término de cada mes calendario.
-
-Conjuntamente con realizar el cargo a la cuenta corriente del deudor, el banco
-
-deberá remitirle un aviso en que se comunique el importe de los intereses
-
-adeudados y debitados a su cuenta.
-
-Los bancos que no hayan convenido de manera expresa en el respectivo pagaré la
-
-exigibilidad de los intereses en una fecha determinada, podrán cargar en la
-
-respectiva cuenta corriente los intereses devengados por los sobregiros
-
-concedidos, aun cuando dicha cuenta se encuentre sobregirada. En todo caso, los
-
-referidos intereses podrán ser debitados en las cuentas corrientes
-
-sobregiradas,solamente al término de períodos no inferiores a treinta días
-
-contados desde la fecha en que se haya producido el sobregiro que los genere.
-
-Los créditos que se otorguen en la forma de sobregiros en cuentas corrientes
-
-serán considerados, para los fines de determinar la tasa máxima de interés que
-
-se puede cobrar por ellos, de acuerdo al plazo que se hubiera pactado para hacer
-
-uso del crédito.
-
-En consecuencia, cuando se trate de créditos pactados a 90 días o más, podrá
-
-cobrarse, si así se hubiera convenido en las condiciones de la operación, la
-
-tasa de interés prevista para créditos no reajustables a 90 días o más. Podrán
-
-cobrarse intereses calculados sobre la base de esa tasa, tanto en los casos en
-
-que el sobregiro se mantenga ininterrumpidamente durante todo el período
-
-pactado, como también cuando se haga uso de él en forma discontinuada dentro del
-
-tiempo que el crédito puede ser utilizado, como asimismo en los casos en que
-
-medie el pago de intereses dentro del plazo total convenido. En tales casos,esos
-
-intereses se podrán cobrar a la tasa que se hubiera acordado, aunque el cobro se
-
-haga por períodos inferiores a noventa días.
+En todo caso, el cobro de intereses por los sobregiros en cuentas corrientes quedan sujetos a los límites de la tasa máxima convencional, debiendo considerarse para el efecto las instrucciones de las letras a) y c) del numeral 5.2.3 del título I del Capítulo 7-1 de esta Recopilación Actualizada de Normas.
 
 ### 5. Cómputo de endeudamiento
 
-Los bancos deberán prevenir que, por efecto de la utilización de los sobregiros
-
-concedidos, no se produzcan excesos de crédito con respecto a los márgenes
-
-individuales permitidos por el artículo 84 de la Ley General de Bancos. Es
-
-conveniente, en consecuencia, para evitar situaciones de esta naturaleza, que
-
-los bancos consideren para los fines de establecer el monto máximo de crédito
-
-que pueden conceder a una misma persona, el importe del sobregiro pactado, con
-
-prescindencia del monto que efectivamente estuviere utilizado. Sin embargo, en
-
-los estados de deudores que se envíen a esta Superintendencia, se continuará
-
-informando el sobregiro efectivo registrado en la respectiva cuenta a la fecha
-
-de la información.
+Los bancos deberán prevenir que, por efecto de la utilización de los sobregiros concedidos, no se produzcan excesos de crédito con respecto a los márgenes individuales permitidos por el artículo 84 de la Ley General de Bancos. Es conveniente, en consecuencia, para evitar situaciones de esta naturaleza, que los bancos consideren para los fines de establecer el monto máximo de crédito que pueden conceder a una misma persona, el importe del sobregiro pactado, con prescindencia del monto que efectivamente estuviere utilizado, no obstante que éste ultimo es el importe que debe computarse como crédito para los efectos del mencionado artículo 84 y para la información de la deuda del titular de la cuenta corriente a esta Superintendencia en las oportunidades que correspondan según las instrucciones del Manual del Sistema de Información.
 
 ### 6. Normas contables
 
