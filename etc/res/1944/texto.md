@@ -1,0 +1,3 @@
+Por Resolución N° 1.944, de 11 de noviembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 93104053, presentada por RAMON ROBERTO CARDENAS BORQUEZ, para un centro de cultivo ubicado en Canal San Antonio, comuna de Calbuco, Provincia de Llanquihue, X Región, conforme lo dispuesto en los artículos 78, inciso 2°, de la Ley General de Pesca y Acuicultura y 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
