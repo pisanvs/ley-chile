@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 258, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 9, 10 y 35, superficies 97 m²., 270 m² y 150 m²., Roles de avalúo sin Rol y 204-75, comuna de Santa Juana, para la obra Camino de La Madera, sector Bifurcación Diuquín - Santa Juana y se acordó el valor de indemnización con sus propietarios Berta Sanhueza Castillo; Francisco Sanhueza Soto, y Mamerto Ulloa Huaiquiñir, ascendente a las cantidades de $93.537.-; $184.556.-, y $129.750.-, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
