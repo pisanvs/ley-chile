@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 1.980, de 30 de julio de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206 de 1960, se expropió el lote de terreno Nº 125, para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: SANTIAGO-TALCA. SECTOR A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figura a nombre de Jaime Del Fierro y Cia Ltda, rol de avalúo 101-1, comuna de Paine, superficie 480 m2. La comisión de peritos integrada por los señores Paola Andrea Domingo Porcella, Carmen Pilar Ríos Marcuello y Jaime Eduardo Wood Armas, fijó con fecha 29 de abril de 1999, el valor provisional de las indemnización en la cantidad de $5.322.540.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
