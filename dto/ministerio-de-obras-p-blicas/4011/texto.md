@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.011, de 30 de diciembre de 1999, se expropió el lote de terreno Nº98-A, superficie 137 m², rol de avalúo 2233-8, comuna de Osorno, para la obra Concesión Internacional Ruta 5, Tramo: Río Bueno - Puerto Montt. Sector: Enlace Osorno, Décima Región y se acordó el valor de indemnización con su propietaria María Mónica Ojeda Muñoz, ascendente a la cantidad de $3.519.011.-
+
+Fiscal del Ministerio de Obras Públicas.
