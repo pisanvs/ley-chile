@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.689, de 23 de julio de 2003, de esta Subsecretaría, autorízase a HONORIO GARCES VERGARA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Brasil Nº 95, Calbuco, X Región, en la línea de elaboración de Salado, el recurso hidrobiológico Anchoveta.
+
+Valparaíso, 23 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
