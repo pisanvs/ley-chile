@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PRODUCTORA DE ALGAS MARINAS LIMITADA, "PROALMAR LIMITADA" PAILA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 990 de 23 de Diciembre de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Productora de Algas Marinas Limitada, "Proalar Limitada", con domicilio en Aysén, para iniciar actividades pesqueras de transformación en la línea de secado natural y artificial de algas de las especies Gracilaria«Proalmar Limitada", con domicilio en Aysén, para iniciar actividades pesqueras de transformación en la línea de secado natural y artificial de algas de las especies Gracilaria spp., Iridaea spp., Gigartina spp., C. elidium spp., Durvillaea antártica, Less», spp. Iridae spp. , Gigartina spp., Gelidium spp. , Durvillaea antartica, Lessonia nigrescens, Macrocystic pyrifera, Anhfeltia plicata y Porphyra spp., las que procesará en Puerto Chacabuco Km. 5, XI Región, adquiriéndola de terceros autorizados para extraer y vender.
+
+Valparaíso, 23 de Diciembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca,
