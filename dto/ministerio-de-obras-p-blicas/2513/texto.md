@@ -1,0 +1,3 @@
+Por decreto MOP N°2.513, de 30 de noviembre de 1998, se expropiaron los lotes de terreno N°s 7, 11, 12 y 14, superficies 63,5 m2, 56 m2, 140 m2 y 73 m2, roles de avalúo 330-20, 331-17 y 331-12, comuna de Renca, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte-Sur, sector Río Mapocho-Ruta 5 Norte, Eje General Velásquez y se acordó el valor de indemnización con sus propietarios Julio Humberto Flores Castillo, Marina del Carmen Osses Matus y otros, y Alicia del Carmen Navarro Reveco y otros, ascendente a las cantidades de $4.901.816.-, $24.712.440.- y $3.658.920.-
+
+Fiscal del Ministerio de Obras Públicas.
