@@ -1,0 +1,7 @@
+Por Resolución N° 976 de 26 de Noviembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, otórgase a SALMONES TIERRA DEL FUEGO LIMITADA, R.U.T. N° 79.825.270-4, domiciliada en Punta Arenas, calle Roca N° 932, Of. 301, una autorización de acuicultura y apruébase el respectivo proyecto técnico y el cronograma de actividades, para el centro de cultivo que se indica, en orden a instalar y operar un establecimiento de cultivo denominado Piscicultura Magallanes ubicado en Parcela A-1, Barrio Hortícola, Río Tres Puentes, Punta Arenas, XII Región, en donde cultivar los recursos Salmón Plateado, de conformidad al proyecto técnico presentado y aprobado por esta Resolución, para lo cual utilizará aguas del río Tres Puentes, ubicado en Punta Arenas, XII Región.
+
+La piscicultura en tierra tiene las siguientes coordenadas geográficas, de acuerdo al plano Ordinal del Servicio Nacional de Pesca N° 2834:
+
+Punto Bocatoma Lat. 53°07'1,62''S' Long. 70°57'01,62''W Punto Descarga Lat. 53°07'0,00''S Long. 70°54'24,86'W La solicitante deberá cultivar y tener una producción de la especie e instalar la infraestructura que se autoriza, de conformidad a lo establecido en la presente Resolución y el proyecto técnico aprobado.
+
+Valparaíso, 26 de noviembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
