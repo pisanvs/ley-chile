@@ -1,0 +1,3 @@
+Por resolución Nº 1.656, de 24 de noviembre de 1998, de esta Subsecretaría, autorízase a ABELARDO SANTANDER VERGARA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Caleta Los Verdes (Ruta A-1), Iquique, I Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Precocido, congelado y fresco-refrigerado: Almeja o taca, almeja y erizo.
+
+Valparaíso, 24 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
