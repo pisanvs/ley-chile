@@ -1,0 +1,1 @@
+Modifica el decreto con fuerza de ley 1, de 1968, de Guerra.
