@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.474, de 31 de mayo de 1999 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs.36, 36-A, 36-C y 38-A, para la obra Camino Ruta F-800, sector Las Tablas Bifurcación Tunquén, que figura a nombre de Sociedad Agrícola Ganadera, rol de avalúo 171-3, Comuna Casablanca, V Región, superficies 270, 168, 8.275 y 730 M2. La Comisión de Peritos compuesta por los señores Sergio Paravic Valdivia, Luis Carvajal Pistono y Andrés Mac-Donald Hadida, fijó con fecha 24 de julio de 1996, los valores provisionales de las indemnizaciones en las cantidades de $128.250, el lote Nº36;
+
+$80.640, el lote Nº36-A; $3.972.000, el lote Nº36-C y $294.190, el lote Nº38-A. Las indemnizaciones se pagarán al contado. Las publicaciones se efectúan en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
