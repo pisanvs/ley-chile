@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 2.033, de 31 de diciembre de 2001, se expropió el lote de terreno Nº 16, superficie 209 m², rol de avalúo 1099-175, comuna de Cartagena, para la obra Red Vial Litoral Central. Sector 1: Nuevo Camino Costero Subtramo: Cartagena-Las Cruces Kms -0.100,00 al 1.100,00, Quinta Región y se acordó el valor de indemnización con su propietario Astilleros Montemar Limitada, ascendente a la cantidad de $1.657.731.-
+
+Fiscal del Ministerio de Obras Públicas.
