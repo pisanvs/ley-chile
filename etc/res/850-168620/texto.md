@@ -1,0 +1,3 @@
+Por resolución Nº 850, de 5 de mayo de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96103241, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES DE ALGUEROS DEL SECTOR BARRIO MATADERO DE ACHAO, para operar un centro de cultivo ubicado en Rada Achao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 5 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
