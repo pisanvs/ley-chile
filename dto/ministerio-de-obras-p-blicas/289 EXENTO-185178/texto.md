@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº289, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº65, superficie 139 m², rol de avalúo 5050-364, comuna de Punta Arenas, para la obra "Reposición Ruta 9 y Acc. Aeropuerto, Sector (Ruta 9) Km. 5,31490 - Km. 19,342349 (Acceso Aeropuerto) Km. 0,000 - Km. 1,295819" y se acordó el valor de indemnización con su propietario Abel Garay Bórquez, ascendente a la cantidad de $1.416.323.
+
+Fiscal del Ministerio de Obras Públicas.
