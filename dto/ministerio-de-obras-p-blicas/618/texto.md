@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°618, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 26, 33, 42 y 45-A, superficies 70, 55, 205 y 80 m2. respectivamente, roles de avaluó 47-7 y los restantes en trámite, comuna de la Estrella, para la obra Camino Límite Regional (Rapel)-Alcones I, Sector Litueche-La Rosa y se acordó precio de indemnización con sus propietarios Norma Rosa de las Mercedes Huerta Cornejo, Juan Alberto Fuentes Flores, Manuel Valeriano Riveros Valenzuela, Mariano del Carmen Huerta Cornejo, ascendente a las cantidades de $471.835, $389.690, $4.916.936, $497.760.
+
+Fiscal del Ministerio de Obras Públicas.
