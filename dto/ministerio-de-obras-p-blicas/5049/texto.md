@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.049, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº28, superficie 663 m², rol de avalúo 49-21, comuna de Lonquimay, para la obra ''Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Puente La Puntilla-Lonquimay, Km. 106,69041 a Km. 119,30000'' y se acordó el valor de indemnización con su propietario Alberto Espinoza Villablanca, ascendente a la cantidad de $237.444.-
+
+Fiscal del Ministerio de Obras Públicas.
