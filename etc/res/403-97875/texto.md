@@ -1,0 +1,3 @@
+Por resolución Nº403, de 30 de marzo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la resolución Nº1.618 de 1989, de esta Subsecretaría, sólo en cuanto autorizó a Punta Angamos S.A., hoy EMPRESA PESQUERA EPERVA S.A., para ampliar actividades pesqueras extractivas con la nave ''Angamos 6'' (ex-Rhin), por haber paralizado operaciones de pesca por más de doce meses sucesivos, a partir del mes de abril de 1996, en el litoral de la III Región, configurándose la causal prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 30 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
