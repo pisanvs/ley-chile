@@ -1,0 +1,3 @@
+Por decreto MOP N°995, de 30 de marzo de 2000, y en base a facultad otorgada por el artículo 105 del DFL MOP N°850, de 1997, que fijó el texto actualizado de la ley N°15.840, se expropió el lote de terreno N°16, para la obra Camino Mejoramiento Ruta L-19, sector Cruce Long. (Villa Alegre) Esperanza, que figura a nombre de Rebeca del C. Galgani Hernández, rol de avalúo 236-3, comuna Villa Alegre, VII Región, superficie 89 M2. La Comisión de Peritos, fijó con fecha 19 de febrero de 2000, el valor provisional de la indemnización del lote N°16, en la cantidad de $1.931.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
