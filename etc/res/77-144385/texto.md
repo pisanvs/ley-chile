@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD COMERCIAL PESQUERA SEAPAC LTDA. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 77, de 26.01.87, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Comercial Pesquera SEAPAC Ltda., domiciliada en Santiago, Región Metropolitana, para iniciar actividades pesqueras de transformación en su planta industrial de Avenida España s/n. Las Animas, Valdivia, X Región, donde procesará en las líneas de elaboración de congelado y fresco enfriado los siguientes recursos hidrobiológicos: macha, almeja o taca, almeja, caracol azul o regula, caracol trumulco, chorito, jaiba, congrio negro, congrio colorado, congrio dorado, mero o bacalao, merluza común, merluza de cola, merluza del sur, merluza de tres aletas, corvina, lenguado de ojos chicos, lenguado de ojos grandes, tollo, raya, pejegallo, róbalo, pulpo, cabrilla.
+
+Valparaíso, 26.01.87.- Roberto Cabezas Bello, Subsecretario de Pesca.
