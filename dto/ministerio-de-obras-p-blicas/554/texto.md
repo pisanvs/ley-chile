@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 554, de 30 de junio de 1997, se expropio el lote de terreno N° 36, superficie 318,24 M2., rol de avalúo 3210-12, comuna de La Florida, para la obra Mejoramiento Eje La Florida, sector Los Ararios Las Vizcachas, Sector II y se acordó precio de indemnización con sus propietarios Eugenio del Carmen Zúñiga Sandoval y otros, ascendente a la cantidad de $29.835.387.-
+
+Fiscal del Ministerio de Obras Públicas
