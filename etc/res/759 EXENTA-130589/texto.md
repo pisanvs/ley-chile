@@ -86,9 +86,13 @@ José Miguel Carrera Av. Providencia -
 
 Av. Los Aromos
 
-Av. Los Aromos José Miguel Carrera -
+Av. Los Aromos Av. Chile -
 
 Baquedano
+
+Francisco Paula Av. Aromos -
+
+de Ginebra Av. Chile.
 
 Sauce Av. Los Aromos -
 
