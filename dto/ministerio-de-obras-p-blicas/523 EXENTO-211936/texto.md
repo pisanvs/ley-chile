@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº523 de 30 de mayo de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 2 y 4 para la obra: Camino Ruta U-72, Sector Riachuelo-Crucero, Tramo Km. 33,91000 a Km.
+
+47,49280, que figuran a nombre de Pasenau Bielefeldt María Isabel, Rol de Avalúo 346-175, comuna de Río Negro, X Región, superficies 72 m2 y 580 m2. La comisión de peritos fijó con fecha 21 de abril de 1998, el monto de la indemnización provisional en la cantidad de $47.200.-, para el lote Nº2 y $194.600.-, para el lote Nº4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
