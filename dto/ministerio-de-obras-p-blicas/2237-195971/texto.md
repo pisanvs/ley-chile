@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.237, de 28 de diciembre de 2001 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº149-1A para la obra: "Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Km. 558.700,00 -
+
+Km. 567.000,00"; Novena Región, que figura a nombre de Vásquez Díaz Octavio O., rol de avalúo 191-33, comuna de Collipulli, superficie 217 m2. La comisión de peritos integrada por los señores Juan Andrés Tepper Lavanderos, Christian Cornelio Scherpenisse Infante y Hugo Wilibaldo Repetto Vera, fijó con fecha 24 de agosto de 2001, el valor provisional de la indemnización en la cantidad de $3.698.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
