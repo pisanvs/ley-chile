@@ -34,7 +34,7 @@ Corresponde al Servicio Nacional de Salud, sin perjuicio de las facultades del M
 
 A las Municipalidades corresponde atender los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
 
-> **Nota.** El Art. 4° del la LEY 18695, publicada el 31.03.1988, estableció las funciones que corresponden a las municipalidades en sus respectivos territorios, por aplicación del Art. 107 de la Constitución Política de la República. Entre ellas, conforme a sus letras b) y c), las relacionadas con la salud publica y la protección del medio ambiente.
+> **Nota.** El Art. 4° del la LEY 18695, publicada el 31.03.1988, cuyo texto refundido fue fijado por el Art. 662, Interior, publicado el 27.08.1992, estableció las funciones que corresponden a las municipalidades en sus respectivos territorios, por aplicación del Art. 107 de la Constitución Política de la República. Entre ellas, conforme a su letra d), las relacionadas con la salud publica y la protección del medio ambiente.
 
 #### Artículo 5°
 
@@ -50,31 +50,41 @@ Las definiciones que se contienen en los preceptos siguientes, valdrán para el 
 
 Las autorizaciones o permisos concedidos por los Servicios de Salud, de acuerdo con las atribuciones de este Código, tendrán la duración que para cada caso se establezca en los respectivos reglamentos, con un mínimo de tres años. Estos plazos se entenderán automática y sucesivamente prorrogados por períodos iguales, mientras no sean expresamente dejados sin efecto.
 
+La autoridad sanitaria ante quien se presente una solicitud de autorización o permiso, deberá pronunciarse dentro del plazo de 30 días hábiles, contado desde que el requirente complete los antecedentes exigidos para ello, y en caso de denegarla, deberá hacerlo fundadamente.
+
+Si la autoridad sanitaria no emitiere un pronunciamiento dentro de dicho plazo, la autorización se entenderá concedida salvo respecto de aquellas materias que de acuerdo con la ley requieren autorización expresa.
+
+Estas últimas actividades no podrán iniciar su funcionamiento mientras no obtengan la autorización sanitaria respectiva.
+
+> **Nota.** El Art. 12 de la ley 18796, publicada el 24.05.1989, dispone que la modificación introducida al presente artículo por el Art. 10° letra a) de la misma ley, comenzará a regir a contar de la fecha de publicación del decreto con fuerza de ley que determine las materias que requieren de autorización sanitaria expresa. El referido D.F.L. es el N° 1, Salud, publicado el 21 de febrero de 1990.
+
+> **Nota.** NOTA 1: El Decreto con fuerza de ley N° 1, Salud, publicado el 21.02.1990, dictado en uso de la facultad conferida por el Art. 11 de la LEY 18796, publicada el 24.05.1989, determina las materias que requieren de autorización sanitaria expresa, de conformidad con el presente artículo.
+
 #### Artículo 8°
 
 Para el cumplimiento de las órdenes que expida en conformidad a las facultades que le concede el presente Código y sus reglamentos, el Director General de Salud podrá requerir el auxilio de la fuerza pública directamente de la Unidad del Cuerpo de Carabineros de Chile más cercana y éstas estarán obligadas a proporcionarla.
 
 ### Párrafo II
 
-DEL SERVICIO NACIONAL DE SALUD
+DE LOS SERVICIOS DE SALUD
 
-#### Artículo 9°
+#### Artículo 9º
 
-Sin perjuicio de las demás atribuciones que le confieren las leyes y el presente Código, corresponde en especial al Director General de Salud:
+Sin perjuicio de las atribuciones del Ministerio de Salud y del Instituto de Salud Pública de Chile, así como de las demás facultades que les confieren las leyes, corresponde en especial a los Directores de los Servicios de Salud en sus respectivos territorios:
 
 a) velar por el cumplimiento de las disposiciones de este Código y de los reglamentos, resoluciones e instrucciones que lo complementen, y sancionar a los infractores;
 
 b) dictar dentro de las atribuciones conferidas por el presente Código, las órdenes y medidas de carácter general, local o particular, que fueren necesarias para su debido cumplimiento;
 
-c) solicitar al Presidente de la República la dictación de los Reglamentos del presente Código, y proponerle las normas mínimas que deben comprender los reglamentos sobre facultades de orden sanitario que están a cargo de las Municipalidades;
+c) Solicitar al Presidente de la República, a través del Ministerio de Salud, la dictación de los reglamentos del presente Código y proponerle las normas que deben regular las funciones de orden sanitario a cargo de las Municipalidades;
 
-d) informar al Ministerio de Salud Pública sobre las materias que éste le requiera;
+d) informar al Ministerio de Salud sobre las materias que éste le requiera;
 
-e) solicitar de las autoridades, instituciones públicas o privadas o individuos particulares, los datos y cooperación que estime conveniente para el mejor ejercicio de sus atribuciones. Los datos o cooperación deben ser proporcionados en el plazo prudencial que el Director General señale;
+e) solicitar de las autoridades, instituciones públicas o privadas o individuos particulares los datos y cooperación que estime convenientes para el mejor ejercicio de sus atribuciones. Los datos o cooperación deben ser proporcionados en el plazo prudencial que el Director del Servicio señale;
 
-f) fijar los aranceles para las actuaciones que realice el Servicio Nacional de Salud. Los mismos aranceles señalarán las actuaciones que deberán realizarse gratuitamente; y
+f) Rebajar o eximir, en casos excepcionales y por motivos fundados, los derechos que deben pagarse por las actuaciones de los Servicios, fijados por el Arancel aprobado por el Ministerio de Salud, a determinadas personas naturales o jurídicas que ejecuten actividades de asistencia social, docencia o investigación científica. Las mismas facultades serán ejercidas por el Director del Instituto de Salud Pública de Chile, que podrá aplicarlas especialmente respecto de los controles relativos a medicamentos para necesidades personales de enfermos o de donaciones en casos de emergencias o catástrofes, y
 
-g) delegar las facultades que le concede el presente Código.
+g) delegar las facultades que les concede el presente Código.
 
 #### Artículo 10°
 
@@ -566,7 +576,9 @@ El Servicio Nacional de Salud podrá ordenar en todo caso la paralización de la
 
 Prohíbese usar las aguas de alcantarillado, desagües, acequias u otras aguas declaradas contaminadas por la autoridad sanitaria, para la crianza de moluscos y cultivos de vegetales y frutos que suelen ser consumidas sin cocer y crecen a ras de la tierra.
 
-No obstante, estas aguas se podrán usar en el riego agrícola, cuando se obtenga la autorización correspondiente del Servicio Nacional de Salud, quien determinará el grado de tratamiento, de depuración o desinfección que sea necesario para cada tipo de cultivo.
+No obstante, estas aguas se podrán usar en el riego agrícola cuando se obtenga la autorización correspondiente del Servicio Nacional de Salud, quien determinará el grado de tratamiento, de depuración o desinfección que sea necesario para cada tipo de cultivo.
+
+> **Nota.** El Decreto 1775, Salud, publicado el 19.07.1995, estableció normas para la aplicación del presente artículo.
 
 #### Artículo 76°
 
@@ -592,7 +604,9 @@ e) la prohibición de mantener determinadas especies de animales o el número m�
 
 f) la protección contra insectos, roedores y otros animales capaces de transmitir enfermedades al hombre.
 
-> **Nota.** Véase el Decreto 301, Salud, publicado el 14.12.1984, que aprueba el Reglamento sobre condiciones sanitarias mínimas en campings o campamentos de turismo.
+> **Nota.** Véase el Decreto 301, Salud, publicado el 14.12.1984, que aprueba el Reglamento sobre Condiciones Sanitarias Mínimas en Campings o Campamentos de Turismo.
+
+> **Nota.** NOTA 1: Véase el Decreto 289, Salud, publicado el 13.11.1989, que aprueba el Reglamento sobre Condiciones Sanitarias Mínimas de los Establecimientos Educacionales.
 
 ### Párrafo III
 
@@ -694,6 +708,8 @@ b) la protección de la salud, seguridad y bienestar de los ocupantes de edifici
 
 > **Nota.** NOTA 1: Véase el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
 
+> **Nota.** NOTA 2: Véase el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
+
 ### Párrafo II
 
 DE LAS SUBSTANCIAS TOXICAS O PELIGROSAS PARA LA SALUD
@@ -722,7 +738,7 @@ Exceptúanse de esta prohibición las muestras que se importen destinadas a obte
 
 # Libro IV
 
-DE LOS PRODUCTOS FARMACEUTICOS, ALIMENTOS DE USO MEDICO, COSMETICOS Y PRODUCTOS ALIMENTICIOS
+DE LOS PRODUCTOS FARMACEUTICOS, ALIMENTOS DE USO MEDICO, COSMETICOS, PRODUCTOS ALIMENTICIOS Y ARTICULOS DE USO MEDICO
 
 ## Título I
 
@@ -734,7 +750,7 @@ El Instituto de Salud Pública será la autoridad encargada en todo el territori
 
 Un reglamento contendrá las normas de carácter sanitario sobre producción, registro, almacenamiento, tenencia, distribución, venta e importación, según corresponda, y las características de los productos farmacéuticos, cosméticos y alimenticios.
 
-> **Nota.** Véase el Decreto 435, Salud, publicado 22.03.1982, Reglamento del Sistema Nacional de Control de Productos Farmacéuticos, Alimentos de Uso Médico y Cosméticos; y que establece normas sobre su elaboración, fabricación e importación.
+> **Nota.** Véase el Decreto 1876, Salud, publicado el 09.09.1996, con vigencia a contar de 210 días desde esa fecha, que reglamenta el Sistema Nacional de Control de Productos Farmacéuticos, Alimentos de Uso Médico y Cosméticos; y que establece normas sobre su elaboración, fabricación e importación.
 
 #### Artículo 95°
 
@@ -748,7 +764,7 @@ El Servicio Nacional de Salud determinará, en cada caso, si la sanción aplicab
 
 ## Título II
 
-DE LOS PRODUCTOS FARMACEUTICOS, ALIMENTOS DE USO MEDICO Y COSMETICOS
+DE LOS PRODUCTOS FARMACEUTICOS, ALIMENTOS DE USO MEDICO, COSMETICOS Y ARTICULOS DE USO MEDICO
 
 #### Artículo 97°
 
@@ -770,9 +786,29 @@ El Ministerio de Salud Pública aprobará, previo informe de sus Unidades Técni
 
 El Director General de Salud dispondrá las medidas necesarias para que la población y los servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
 
-#### Artículo 101°
+#### Artículo 101
 
-Derogado.
+Los instrumentos, aparatos, dispositivos y otros artículos o elementos destinados al diagnóstico, prevención y tratamiento de enfermedades de seres humanos, así como al reemplazo o modificación de sus anatomías y que no correspondan a las sustancias descritas en los artículos 97, 98 y 99 de este Código, deberán cumplir con las normas y exigencias de calidad que les sean aplicables según su naturaleza, en conformidad con las siguientes disposiciones:
+
+a) Las personas naturales o jurídicas que, a cualquier título, fabriquen, importen, comercialicen o distribuyan tales elementos, deberán realizar el respectivo control y certificación de su calidad en servicios, instituciones, laboratorios o establecimientos con autorización sanitaria expresa, otorgada de conformidad a lo dispuesto en el artículo 7º de este Código.
+
+El reglamento deberá establecer las condiciones de equipamiento y demás recursos de que deberán disponer los establecimientos, así como también la forma en que se solicitará y otorgará esta autorización. Las entidades cuyas solicitudes sean denegadas o no contestadas dentro del plazo a que se refiere el inciso segundo del artículo 7º de este Código, podrán reclamar, dentro del plazo de quince días hábiles, ante el Ministerio de Salud. El reglamento señalará la forma en que deberá tramitarse este recurso.
+
+b) El Instituto de Salud Pública de Chile, será el organismo encargado de autorizar y fiscalizar a las entidades que realicen el referido control y certificación, debiendo, a falta de organismos privados que desarrollen dichas tareas, ejecutarlas por sí mismo.
+
+c) Los controles y pruebas de calidad que deban efectuarse en virtud de lo dispuesto en las letras anteriores, se sujetarán a las especificaciones técnicas fijadas por las normas oficiales aprobadas y, a falta de éstas, por las que apruebe el Ministerio de Salud, a proposición del mencionado Instituto y sobre la base de la información obtenida en la materia de parte de organismos internacionales o entidades extranjeras especializadas de control.
+
+Las personas naturales o jurídicas cuyos instrumentos, aparatos, dispositivos, artículos o elementos sean rechazados por el control de calidad de una entidad autorizada, podrán reclamar ante el Instituto de Salud Pública de Chile, en el plazo de quince días hábiles, en la forma que señale el reglamento.
+
+d) Por decreto supremo fundado del Ministerio de Salud, se hará efectiva la aplicación de las disposiciones de este artículo a las diferentes clases o tipos de instrumentos, aparatos, dispositivos, artículos y elementos de que trata, a proposición del Instituto de Salud Pública de Chile, en la que deberá indicarse las especificaciones técnicas a que se sujetará su control de calidad, aprobadas con arreglo a la letra c) y las entidades que cuentan con autorización oficial para ejecutarlo o la inexistencia de interesados en obtener esta autorización.
+
+e) Será competente para instruir el sumario sanitario y sancionar las infracciones a estas disposiciones el Director del Servicio de Salud en cuyo territorio se cometan.
+
+f) Los elementos que se comercialicen o distribuyan, a cualquier título, sin contar con el certificado de calidad establecido en esta disposición, serán decomisados, sin perjuicio de las demás medidas que pueda adoptar la autoridad sanitaria.
+
+g) Las destinaciones aduaneras de estos elementos se sujetarán a las disposiciones de la ley Nº 18.164 y su uso y disposición deberán ser autorizados por el Instituto de Salud Pública de Chile.
+
+El costo de las certificaciones será de cargo exclusivo de las personas naturales o jurídicas que las soliciten.
 
 #### Artículo 102°
 
@@ -804,9 +840,11 @@ El Ministerio de Salud aprobará la o las farmacopeas que regirán en el país.
 
 Requerirán del registro previo a que se se refiere el inciso primero del artículo 102, la fabricación, importación, internación, distribución, transferencia, posesión o tenencia de productos estupefacientes, psicotrópicos y demás sustancias que produzcan efectos análogos, los que, incluido su consumo, se someterán a las disposiciones de un reglamento especial; como asimismo el tránsito en la República hacia países extranjeros de estas sustancias, respetándose las obligaciones contraídas por el Estado en sus convenios y tratados internacionales.
 
-> **Nota.** Véase el Decreto 403, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Estupefacientes.
+> **Nota.** Véanse el Decreto con Fuerza de Ley N° 1, Justicia, publicado el 18.10.1995, que fija el texto refundido de la LEY 19366 sobre sanciones al Trafico Ilícito de Estupefacientes y Sustancias Sicotrópicas; y su reglamento, contenido en el Decreto 565, Salud, publicado el 26.01.1996.
 
-> **Nota.** NOTA 1: Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961.
+> **Nota.** NOTA 1: Véase el Decreto 403, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Estupefacientes.
+
+> **Nota.** NOTA 2: Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961. Véase además el Decreto 543, Relaciones Exteriores, publicado el 20.08.1990, que promulga la Convención de las Naciones Unidas contra el Trafico Ilícito de Estupefacientes y Sustancias Sicotrópicas, suscrita en Viena el 20 de diciembre de 1988.
 
 #### Artículo 107°
 
@@ -850,9 +888,9 @@ DEL EJERCICIO DE LA MEDICINA Y PROFESIONES AFINES
 
 #### Artículo 112°
 
-Sólo podrán desempeñar actividades propia de la medicina, odontología, química y farmacia u otras relacionadas con la conservación y restablecimiento de la salud, quienes poseen el título respectivo otorgado por la Universidad de Chile u otra Universidad reconocida por el Estado y estén habilitados legalmente para el ejercicio de sus profesiones.
+Sólo podrán desempeñar actividades propias de la medicina, odontología, química y farmacia u otras relacionadas con la conservación y restablecimiento de la salud, quienes poseen el título respectivo otorgado por la Universidad de Chile u otra Universidad reconocida por el Estado y estén habilitados legalmente para el ejercicio de sus profesiones.
 
-Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
+Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un Reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
 
 No obstante lo dispuesto en el inciso primero, con la autorización del Director General de Salud podrán desempeñarse como médicos, dentistas, químico-farmacéuticos o matronas en barcos, islas o lugares apartados, aquellas personas que acreditaren título profesional otorgado en el extranjero.
 
@@ -894,7 +932,7 @@ Los consultorios de matronas podrán ser destinados al control de la evolución 
 
 #### Artículo 119°
 
-Sólo con fines terapéuticos se podrá interrumpir un embarazo. Para proceder a esta intervención se requerirá la opinión documentada de dos médicos-cirujanos.
+No podrá ejecutarse ninguna acción cuyo fin sea provocar un aborto.
 
 #### Artículo 120°
 
@@ -966,7 +1004,9 @@ La dirección técnica de los establecimientos señalados en el inciso primero, 
 
 > **Nota.** Véase el Decreto 161, Salud, publicado el 19.11.1982, que establece el Reglamento de Hospitales y Clínicas Privadas.
 
-> **Nota.** NOTA 1: Véase el Decreto 334, Salud, publicado el 27.10.1983, que aprueba el Reglamento de Casas de Reposo, Asilos y otros Establecimientos Similares.
+> **Nota.** NOTA 1: Véanse los Decretos 334, Salud, publicado el 27.10.1983, que aprueba el Reglamento de Casas de Reposo, Asilos y otros Establecimientos Similares; y Decreto 2601, Salud, publicado el 09.12.1994, sobre Establecimientos de Larga Estadía para Adultos Mayores.
+
+> **Nota.** NOTA 2: Véase el Decreto 433, Salud, publicado el 22.09.1993, sobre Laboratorios Clínicos.
 
 # Libro VII
 
@@ -1062,25 +1102,19 @@ La exhumación, transporte internacional, internación y traslado de una localid
 
 # Libro IX
 
-DEL APROVECHAMIENTO DE ORGANOS, TEJIDOS O PARTES DEL CUERPO DE UN DONANTE VIVO Y DE LA UTILIZACION DE CADAVERES O PARTE DE ELLOS CON FINES CIENTIFICOS O TERAPEUTICOS
+DEL APROVECHAMIENTO DE TEJIDOS O PARTES DEL CUERPO DE UN DONANTE VIVO Y DE LA UTILIZACION DE CADAVERES O PARTE DE ELLOS CON FINES CIENTIFICOS O TERAPEUTICOS
 
 > **Nota.** Véase el Reglamento de este Libro IX, aprobado por Decreto 240, Salud, publicado el 03.12.1983.
 
 #### Artículo 145°
 
-El aprovechamiento de órganos, tejidos o partes del cuerpo de un donante vivo para su injerto o trasplante en otra persona, sólo se permitirá cuando fuere a título gratuito y con fines terapéuticos, y se cumplan, además, los siguientes requisitos:
-
-1.- Que el donante sea legalmente capaz. No obstante, podrá efectuar estas donaciones la mujer casada en régimen de sociedad conyugal, siempre que sea mayor de edad, y
-
-2.- Que el donante, previamente informado, deje constancia en un acta firmada ante el director del establecimiento hospitalario donde se va a efectuar el trasplante, de su voluntad de efectuar la donación. El acta será también suscrita por el médico que informe al donante sobre los riesgos que corre con motivo del trasplante. El reglamento señalará las materias esenciales que deba contener dicha información, de la que se dejará, asimismo, constancia en el acta.
+El aprovechamiento de tejidos o partes del cuerpo de un donante vivo, para su injerto en otra persona, sólo se permitirá cuando fuere a título gratuito y con fines terapéuticos.
 
 #### Artículo 146°
 
-Toda persona legalmente capaz y las mujeres casadas en régimen de sociedad conyugal que sean mayores de edad, tienen derecho a disponer de su cadáver o de partes de él con el objeto de que sea utilizado en fines de investigación científica, para la docencia universitaria, para la elaboración de productos terapéuticos o en la realización de injertos.
+Toda persona plenamente capaz podrá disponer de su cadáver, o de partes de él, con el objeto de que sea utilizado en fines de investigación científica, para la docencia universitaria, para la elaboración de productos terapéuticos o en la realización de injertos.
 
-También podrá destinarlo para trasplantes de órganos con fines terapéuticos.
-
-El donante manifestará su voluntad por escrito, pudiendo revocarla en la misma forma, todo ello de conformidad con las solemnidades que señale el reglamento. Estas donaciones se inscribirán en un registro que, para los efectos de este artículo, llevará el Ministerio de Salud el que dará información periódica de las inscripciones a todos los establecimientos a que se refiere el artículo 129, que lo soliciten.
+El donante manifestará su voluntad por escrito, pudiendo revocarla en la misma forma, todo ello de conformidad con las formalidades que señale el reglamento.
 
 #### Artículo 147°
 
@@ -1090,17 +1124,11 @@ Podrán ser destinados a los mismos fines cuando el cónyuge o, a falta de éste
 
 #### Artículo 148°
 
-Podrán también destinarse a trasplantes con fines terapéuticos los órganos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
+Podrán también destinarse a injertos con fines terapéuticos los tejidos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
 
 #### Artículo 149°
 
-Para los efectos de lo previsto en el inciso segundo del artículo 146 y en el precedente, la muerte se acreditará mediante certificación médica otorgada por dos facultativos, uno de los cuales, al menos, deberá desempeñarse en el campo de la neurología o neurocirugía.
-
-Los facultativos que otorguen la certificación no podrán formar parte del equipo que realice el trasplante.
-
-Sólo podrá otorgarse la certificación cuando se haya comprobado la abolición total e irreversible de todas las funciones encefálicas, lo que se acreditará mediante la certeza diagnóstica de la causa del mal y, a lo menos, dos evidencias electroencefalográficas, en la forma que señale el reglamento. Este podrá, además, indicar procedimientos adicionales para certificar la muerte.
-
-En estos casos, al certificado de defunción expedido por el médico se agregará un documento en que se dejará constancia de los antecedentes que permitieron acreditar la muerte.
+Derogado.
 
 #### Artículo 150°
 
@@ -1110,9 +1138,11 @@ No será aplicable a las donaciones de que trata este Libro lo dispuesto en los 
 
 Cuando una persona hubiere fallecido en alguno de los casos indicados en el artículo 121 del Código de Procedimiento Penal o cuando su muerte hubiere dado lugar a un proceso penal, será necesaria la autorización del Director del Servicio Médico Legal o del médico cirujano en quien éste haya delegado esta atribución para destinar el cadáver a cualquiera de las finalidades previstas en este Libro, además del cumplimiento de los otros requisitos.
 
+En aquellos casos en que el Servicio Médico Legal no tenga la infraestructura material o de personal para la autorización, o ésta sea necesaria y requerida fuera de su horario normal de funcionamiento, la delegación recaerá en el director de un hospital del Servicio de Salud en cuyo territorio jurisdiccional se produjere la muerte del potencial donante.
+
 #### Artículo 152°
 
-Será nulo y sin ningún valor el acto o contrato que, a título oneroso, contenga la promesa o entrega de un órgano o parte del cuerpo humano para efectuar un trasplante.
+Será nulo y sin ningún valor el acto o contrato que, a título oneroso, contenga la promesa o entrega de un tejido o parte del cuerpo humano para efectuar un injerto.
 
 #### Artículo 153°
 
@@ -1204,9 +1234,9 @@ DEL SUMARIO SANITARIO
 
 #### Artículo 169°
 
-(160).- Si transcurrido el plazo señalado en el artículo anterior, el infractor no hubiere pagado la multa, sufrirá, por vía de sustitución y apremio, un día de prisión por cada vigésimo de un sueldo vital mensual para los empleados de la Industria y el Comercio del Departamento de Santiago que comprenda dicha multa.
+(160).- Si transcurrido el plazo señalado en el artículo anterior, el infractor no hubiere pagado la multa, sufrirá, por vía de sustitución y apremio, un día de prisión por cada décimo de unidad tributaria mensual que comprenda dicha multa.
 
-Para llevar a cabo esta medida, el Director General de Salud solicitará del Intendente o Gobernador respectivo el auxilio de la fuerza pública, quienes dispondrán sin más trámite la detención del infractor y su ingreso al establecimiento penal respectivo, a cuyo efecto librarán la orden correspondiente en conformidad a las reglas generales, dando cuenta de lo obrado a la autoridad sanitaria.
+Para llevar a cabo esta medida, el Director del correspondiente Servicio de Salud o del Instituto de Salud Pública de Chile, en su caso, solicitará del Intendente o Gobernador respectivo el auxilio de la fuerza pública, quienes dispondrán sin más trámite la detención del infractor y su ingreso al establecimiento penal respectivo, a cuyo efecto librarán la orden correspondiente en conformidad a las reglas generales, dando cuenta de lo obrado a la autoridad sanitaria.
 
 #### Artículo 170°
 
@@ -1232,7 +1262,7 @@ DE LAS SANCIONES Y MEDIDAS SANITARIAS
 
 #### Artículo 174°
 
-(165).- La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicte el Director General de Salud, salvo las disposiciones que tengan una sanción especial, serán castigadas con multa de un vigésimo de sueldo vital mensual hasta dos sueldos vitales anuales que rija para los empleados de la Industria y del Comercio en el departamento de Santiago. Las reincidencias serán sancionadas con el doble de la multa impuesta.
+(165).- La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicten los Directores de los Servicios de Salud o el Director del Instituto de Salud Pública de Chile, según sea el caso, salvo las disposiciones que tengan una sanción especial, será castigada con multa de un décimo de unidad tributaria mensual hasta mil unidades tributarias mensuales. Las reincidencias podrán ser sancionadas hasta con el doble de la multa original.
 
 Las infracciones antes señaladas podrán ser sancionadas, además, con la clausura de establecimientos, edificios, casas, locales, lugares de trabajo donde se cometiere la infracción; con la cancelación de la autorización de funcionamiento o de los permisos concedidos; con la paralización de obras; con el comiso, destrucción y desnaturalización de productos, cuando proceda.
 
