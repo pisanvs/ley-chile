@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 298, de 31 de mayo de 1995, se expropió el lote de terreno N° 3-A, superficie 581,30 M2., rol de avalúo en trámite, comuna de Huechuraba, para la obra Avenida Américo Vespucio, sector Recoleta Independencia y se acordó precio de indemnización con su propietario Elías Albala Franco, Laboratorio Maver S.A., ascendente a la cantidad de $11.893.917.
+
+Fiscal del Ministerio de Obras Públicas.
