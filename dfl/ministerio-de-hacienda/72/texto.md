@@ -1,0 +1,1 @@
+Fija las escalas de categorías, grados y sueldos del personal del Servicio Nacional de Salud.
