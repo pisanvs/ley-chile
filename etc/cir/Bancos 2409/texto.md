@@ -15722,13 +15722,15 @@ El equivalente en pesos chilenos del capital asignado a una sucursal no podrá s
 
 El N°1 del artículo 81 de la Ley General de Bancos establece que el capital asignado a una sucursal debe ser utilizado para los efectos de los márgenes que establezca la legislación del país en que funcione la sucursal. Por consiguiente, las sucursales en el exterior deben encuadrarse en los márgenes aplicables a sus operaciones que sean pertinentes en la legislación extranjera, considerando el capital asignado a la respectiva sucursal.
 
-4.- Límites de créditos otorgados por las sucursales en el exterior.
+4.- Créditos otorgados a deudores residentes y domiciliados en Chile y a personas relacionadas.
 
 Los créditos otorgados por una sucursal en el exterior a deudores relacionados directamente o a través de otras personas a la propiedad o gestión de la institución financiera matriz, quedan sujetos a las limitaciones señaladas en el artículo 84 N° 2 de la Ley General de Bancos y en el Capítulo 12-4 de esta Recopilación. Lo anterior es sin perjuicio del límite establecido en el N° 2 del artículo 80 de esa ley y que se menciona en la letra a) del N° 3 del título II de este Capítulo, cuando se trate de créditos otorgados a otras entidades en el exterior en las cuales participe la institución. Quedarán excluidos de la aplicación de los límites del artículo 84 N° 2, los créditos que la sucursal otorgue a su matriz. Al tratarse de créditos a otras sucursales en el exterior que mantenga la matriz, ellas quedarán incluidas para estos efectos dentro del grupo a que se refiere el numeral 4.3 del título II de este Capítulo.
 
-Por otra parte, cualquier crédito que la sucursal otorgue a una persona con domicilio o residencia en Chile, con excepción de los otorgados a su propia matriz, debe encuadrarse en los límites individuales de crédito según las reglas de los artículos 84 N° 1 y 85 de la Ley General de Bancos y del Capítulo 12-3 de esta Recopilación. También son aplicables, en relación con los trabajadores de la institución financiera, los límites a que se refiere el N° 4 del artículo 84 antes mencionado y el Capítulo 12-5 de esta Recopilación.
+Por otra parte, cualquier crédito que la sucursal otorgue a una persona con domicilio o residencia en Chile, con excepción de los otorgados a su propia matriz, debe encuadrarse en los límites individuales de crédito según las reglas de los artículos 84 N° 1 y 85 de la Ley General de Bancos y del Capítulo 12-3 de esta Recopilación. También son aplicables a las sucursales las limitaciones y prohibiciones de los números 3 y 4 del artículo 84.
 
 El cumplimiento de los límites de crédito mencionados en los párrafos precedentes deben medirse en relación con el capital asignado a la respectiva sucursal acreedora.
+
+Cuando se trate de créditos distintos a los señalados en este número, los límites quedan fijados sólo por la norma general tratada en el N° 3, salvo que se aplique la norma de excepción establecida en el N° 9 de este título.
 
 5.- Estados financieros de las sucursales según criterios contables chilenos.
 
@@ -15751,6 +15753,24 @@ A más tardar dentro de los diez días hábiles siguientes a su emisión, deber�
 8.- Auditores externos.
 
 Los estados financieros de las sucursales en el exterior deberán ser auditados por una empresa de auditores externos que representen la misma firma internacional a la que pertenezca la empresa que realiza la auditoría de la casa matriz en Chile, salvo que esa firma no tenga presencia en el país o que ello no fuera posible por aplicación de normas que exijan rotación de auditores, casos en los cuales se designará una empresa de la misma firma a que pertenezca o se encuentre asociado alguno de los auditores inscritos en el registro de esta Superintendencia.
+
+9.- Sucursales en el exterior en que se consoliden con su casa matriz los márgenes de crédito.
+
+El párrafo final del artículo 81, inciso segundo, N° 1 de la Ley General de Bancos, permite a esta Superintendencia, mediante normas generales, establecer la consolidación de los márgenes de crédito de los bancos chilenos con sus sucursales en el exterior.
+
+Este sistema corresponde a una alternativa a la aplicación de las normas que se han examinado en el N° 3 de este título.
+
+Las normas excepcionales a que se refiere este N°9 sólo serán aplicables respecto de sucursales ubicadas en países que se encuentren clasificados en primera categoría de riesgo por una empresa calificadora internacional según lo establecido en el Capítulo 1-12 de esta Recopilación, y la consolidación se hará entre todas las sucursales del banco chileno que se encuentren sujetas al sistema alternativo y su casa matriz.
+
+La excepción de que se trata se refiere a los créditos que esas sucursales concedan a personas que no se rijan por el número 4 de este título, esto es, que no sean personas naturales o jurídicas domiciliadas o residentes en Chile ni personas relacionadas por propiedad o gestión al banco, las que quedarán sujetas en todo a lo dispuesto en el N° 3 del inciso segundo del artículo 81.
+
+La diferencia de tratamiento estriba, entonces, en los márgenes aplicables a las personas domiciliadas o residentes en el exterior que no sean relacionadas. A ellas se les aplicará como margen de crédito, con o sin garantía, el menor de los siguientes factores:
+
+a) El límite del 5% sobre el patrimonio efectivo del banco en Chile sin deducir el capital asignado a la sucursal de que se trate.
+
+b) El margen del 40% del capital asignado a la sucursal correspondiente.
+
+Además, la suma de los créditos que el mismo deudor registre con la matriz del banco y con todas las sucursales sujetas a la consolidación de márgenes a que se refiere este N° 9, no podrá superar el margen de que dispone la casa matriz, conforme a la Ley General de Bancos, para prestar a un mismo deudor. Dicho margen se determinará a su vez, sobre la base del patrimonio efectivo de la casa matriz, sin deducir el capital asignado a las referidas sucursales.
 
 IV.- FILIALES EN EL EXTERIOR.
 
