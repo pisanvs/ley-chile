@@ -118,6 +118,12 @@ Todo comerciante está obligado a llevar para su contabilidad y correspondencia:
 
 4°. El libro copiador de cartas.
 
+#### Artículo 26
+
+<!-- parte:8725859 -->
+
+Los libros deberán ser llevados en lengua castellana.
+
 #### Artículo 27
 
 <!-- parte:8725270 -->
