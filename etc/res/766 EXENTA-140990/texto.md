@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE SEÑALA
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 766 de 05 de Mayo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas No. 8 (parte), 9 y 10 y sitios N°s. 9, 10 y 11 del Proyecto de Parcelación "Huencuecho Sur" de la comuna de Pelarco, Séptima Región, formado por predios "Santa María de Pelarco", "Santa Felicia; Hijuela No. 3 del Fundo Santa María de Pelarco y un Retazo de Terreno de una extensión aproximada de 71,53 hectáreas", "Hijuela Cuarta de Huencuecho - Sur o El Rincón", "Hijuela Quinta de Huencuecho Sur o Los Quillaye" y "Resto del Fundo Anquil, Potreros Meneses y Bravo y Predio Cordillerano denominado Potrero Grande y San Martín". Los Derechos de Agua se extraen del canal Santa María, derivado del estero Pelarco. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
