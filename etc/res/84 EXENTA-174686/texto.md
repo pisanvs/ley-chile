@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 84 de 25 de Enero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a las parcelas Nºs. 1 a la 36, sitios Nºs. 1 al 36 y Bienes Comunes Tranque y Casas y Cancha del Proyecto de División Terrenos Cooperativa Reforma Agraria "Ex - Ministro Trivelli Limitada", de la comuna de El Monte, Región Metropolitana, formado por predios "Resto del Fundo Casas de El Paico o La Red", "Parte del Fundo Casas de Paico o La Red" y "Parte del Fundo Casas de El Paico o Fundo La Red". Los derechos de aguas se extraen de los canales Chiñiguano, Chacón y San José y de los derrames de Monte Blanco. Publicación hecha conforme Art. 13 Ley 18.377.-
+
+Director Ejecutivo.
