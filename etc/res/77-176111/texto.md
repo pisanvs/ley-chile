@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 77, de 10 de agosto del año 2000, se aprobó reforma parcial al estatuto de la Cooperativa de Consumo de Energía Eléctrica Chillán Ltda., de sigla Copelec; en los términos que da testimonio la escritura pública de fecha 20 de junio del 2000, suscrita ante el Notario Público de Chillán, don Guillermo Vega Varas.
+
+Por orden del señor Subsecretario.- Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
