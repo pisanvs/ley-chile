@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 170, de 28 de febrero de 2002, se expropió el lote de terreno Nº7-A, superficie 80 m2, rol de avalúo 604-10, comuna de Molina, VII Región, para la obra "Camino Ruta K-175-Molina-Siete Tazas, sector Molina-Bif. Ruta K-179, Tramo Km. 0,000.00 al 8,400.00" y se acordó el valor de indemnización con su propietario don José Domingo Casanova Cabrera, ascendente a la cantidad de $1.028.544.-
+
+Fiscal del Ministerio de Obras Públicas.
