@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 886 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "El Carrizal" de la comuna de Sagrada Familia, Séptima Región y Derechos de Aprovechamiento de Aguas que corresponden a las parcelas N°s. 1 a la 8 del Proyecto de Parcelación "Risco Negro" formado por predio señalado.- Los Derechos de Aguas se extraen del Río Mataquito por el Canal Culenar de Asociación Canalistas Villa Prat.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
