@@ -1,0 +1,11 @@
+PROMULGA MODIFICACION DEL PLAN REGULADOR COMUNAL DE SANTIAGO
+
+Secc. 2da. Núm. 2.- Santiago, 3 de enero de 2003.- Vistos: antecedentes Nº1.794/02, resolución exenta Nº281, del 16 de mayo 2002, de Comisión Regional del Medio Ambiente de la Región Metropolitana; acuerdo Nº114, del 10 de julio 2002, del Concejo de Santiago; decreto Alcaldicio Secc. 2da. Nº98, de fecha 30 de julio del mismo año; oficio Nº4.120, del 5 de diciembre 2002, de la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo; y oficio Nº541, del 12 de diciembre en curso, de la Asesoría Urbana, y en ejercicio de las atribuciones que me confiere la ley Nº18.695, de 1988, Orgánica Constitucional de Municipalidades;
+
+D e c r e t o:
+
+1. Promúlgase la modificación del Plan Regulador Comunal de Santiago, aprobado por resolución Nº26, del 7 de diciembre de 1989, de la Secretaría Ministerial de la Vivienda y Urbanismo, publicado en el Diario Oficial el día 27 de enero de 1990, en el sentido de desafectar del uso de Area Verde la esquina sur - oriente, de Carabineros de Chile con Doctor Corbalán Melgarejo; graficada en la Plancheta PRSO3 - 22 a, escala 1:1.000 de los Seccionales de Líneas Oficiales y Areas Verdes, aprobado por resolución Nº5, de fecha 31 de enero de 1995 (Gobierno Regional Metropolitano), en conformidad con plano Nº157 a escala 1:1.000, confeccionado por la Asesoría Urbana, que forma parte de esta modificación, que en este acto se aprueba, quedando el terreno desafectado en Zona B, del Plan Regulador Comunal de Santiago,
+
+2. La presente modificación al Plan Regulador Comunal de Santiago, se publicará y archivará de conformidad a lo dispuesto en el artículo 43º, de la Ley General de Urbanismo y Construcciones.
+
+Anótese y transcríbase a la Dirección de Control, Dirección de Asesoría Jurídica, Secretaría Comunal de Planificación, Departamento Asuntos Concejo, Dirección Area Urbana, Dirección de Obras Municipales, y pase a la Asesoría Urbana, para su conocimiento y fines consiguientes.- Joaquín Lavín Infante, Alcalde de Santiago.- Alfredo Egaña Respaldiza, Secretario Municipal.
