@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.251, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº4, superficie 389 m², rol de avalúo 112-9, comuna de Contulmo, VIII Región, para la obra ''Camino Contulmo - Huallepen Bajo, Sector Puente Huillinco, Km. 0,00000 al 2,26000'' y se acordó el valor de indemnización con su propietario don Juan Arnaldo Herrera Ortega y Otra, ascendente a la cantidad de $248.901.-
+
+Fiscal del Ministerio de Obras Públicas.
