@@ -1,0 +1,3 @@
+Resolución 376, 16 diciembre 1993, SERVIU Región del Bío Bío ordenó expropiación total, conforme art. 51 Ley 16.391, y D.L. 2186 de 1978, para programa obras infraestructura, inmueble ubicado en Línea Férrea s/n°, rol de avalúos N° 618-5 comuna de Concepción, aparente dominio de Ferrocarriles del Estado. Comisión integrada por Peritos Sres. Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 23 de noviembre de 1993, fijó monto provisional indemnización en $ 5.688.000, pagadera de contado.
+
+Director SERVIU Región del Bío Bío.
