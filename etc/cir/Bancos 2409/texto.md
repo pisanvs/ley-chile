@@ -4572,7 +4572,7 @@ Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaci
 
 3.2.- Descuento de instrumentos a que se refiere la letra C) del Capítulo XXV del Titulo I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Los bancos podrán deducir de sus obligaciones a plazo afectas a encaje los saldos provenientes del descuento de los instrumentos a que se refiere la letra C) del Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales, registrados en la cuenta "Pagarés descontados terceros países ALADI" de las partidas 1135 ó 1230, hasta un máximo equivalente al 20% de la suma de los depósitos, captaciones y obligaciones a plazo afectos a encaje.
 
-3.3.- Inversiones financieras en el exterior que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras del Banco Central de Chile.
+3.3.- Inversiones financieras en el exterior que se refiere el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
 Los bancos podrán también deducir de sus obligaciones afectas a encaje los saldos que mantengan por inversiones financieras en el exterior a que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras, demostradas en la partida 1730, hasta un máximo equivalente al 25% de la suma de los depósitos a plazo en moneda extranjera.
 
@@ -19354,8 +19354,6 @@ De acuerdo con lo dispuesto el Capítulo III.B.2 del Compendio de Normas Financi
 
 No obstante, se permite que las instituciones financieras excedan ese límite global equivalente a un 50% del capital pagado y reservas, siempre que no sobrepasen el 100% de éste, cuando el exceso corresponda a la adquisición de letras de crédito y bonos destinados a financiar operaciones hipotecarias, que hayan tenido por objeto pagar anticipadamente otras obligaciones hipotecarias cuya finalidad hubiera sido el financiamiento de viviendas.
 
-No quedan afectas a los límites antes señalados, las letras de crédito de propia emisión que las instituciones financieras adquieran, provenientes de créditos que hubieren otorgado mediante esta modalidad, con el único objeto de financiar saldos de precio por venta de bienes raíces que se hubieren adjudicado o recibido en pago de deudas previamente contraídas.
-
 Para ajustarse a los límites de que se trata, las instituciones financieras computarán el valor de compra de los instrumentos de propia emisión que deseen adquirir, sumados al valor en que se encuentren registrados en el activo, según las normas vigentes, aquellos que mantengan en cartera.
 
 El capital pagado y reservas de la entidad financiera adquirente a la fecha de la inversión, se calculará de la forma señalada en el numeral 1.1 del Capítulo 12-1 de esta Recopilación Actualizada de Normas.
@@ -20348,349 +20346,11 @@ Los bancos que ingresen al país aportes de capital de conformidad con lo dispue
 
 Sin embargo, en los casos en que el producto de los referidos aportes de capital se destine a pagar anticipadamente créditos externos internados al amparo del Art. 14 de la Ley de Cambios Internacionales derogada por la Ley N°18.840 o del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, la recompra de divisas sólo se podrá hacer con el importe de las colocaciones recuperadas o castigadas que se hubieren cursado con cargo a dichos créditos externos. Si en la fecha de efectuar el pago anticipado de los mencionados créditos externos el banco mantuviere divisas recompradas con cargo a esos recursos, éstas pasarán a computarse como recompra del aporte de capital internado al amparo del D.L. N°600.
 
-Las divisas recompradas, deberán ser depositadas en la cuenta especial de que trata el Capítulo IV.F del Compendio de Normas Financieras y el Capítulo 13-9 de la Recopilación Actualizada de Normas.
-
 ### 2. Instrucciones contables
 
 Las divisas recompradas se acreditarán en la cuenta "Conversión recompra aportes de capital D.L. N° 600" de la partida 4510 del formulario MB1, en tanto que su equivalente en pesos moneda corriente, se registrará en la cuenta "Cambios recompra aportes de capital D.L. N° 600", de la partida 2510 del referido formulario.
 
 El último día de cada mes, los bancos ajustarán el saldo de la cuenta "Cambio recompra aportes de capital D.L. N° 600" y contabilizarán dicho ajuste en la forma prevista en el capítulo 13-30 de la Recopilación Actualizada de Normas, debiendo aplicar el tipo de cambio fijado por esta Superintendencia para tal efecto, vigente en esta fecha.
-
-CAPITULO 13-6 (Bancos y Financieras)
-
-MATERIA:
-
-VENTA DE DIVISAS AL BANCO CENTRAL DE CHILE CON PACTO DE RETROCOMPRA.
-
-### 1. Generalidades
-
-Las instituciones financieras pueden vender dólares norteamericanos al Banco Central de Chile con pacto de recompra, al tipo de cambio que haya determinado el Instituto Emisor para esas operaciones, vigente el día de la venta.
-
-El Banco Central de Chile aplicará un descuento en moneda chilena al importe de estas operaciones, el que podrá ser diferente según los plazos a que ellas se pacten.
-
-Los recursos en moneda nacional que obtengan las instituciones financieras por estas ventas con pacto de recompra, podrán ser colocados por ellas solamente en Pesos moneda corriente o en Unidades de Fomento.
-
-1.1. Origen de los recursos que pueden venderse.
-
-Los dólares de los Estados Unidos de América que las instituciones financieras vendan al Banco Central de Chile con esta modalidad de recompra, deben tener su origen en:
-
-a) Divisas recompradas por créditos ingresados y liquidados al amparo del Capítulo XIV del ex-Compendio de Normas de Cambios Internacionales y del Capítulo XIV del Titulo I del Compendio de Normas de Cambios Internacionales;
-
-b) Divisas recompradas con recuperaciones de colocaciones Acuerdo N° 1196;
-
-c) Divisas recompradas con recuperaciones de colocaciones Acuerdo N° 1418;
-
-d) Aportes de capital ingresados al amparo del Capítulo XIV del ex-Compendio de Normas de Cambios Internacionales y del Capitulo XIV del Título I del Compendio de Normas de Cambios Internacionales;
-
-e) Aportes de capital ingresados al amparo del D.L. 600 de 1974 y sus modificaciones;
-
-f) Reservas constituidas con utilidades remesables; y,
-
-g) Depósitos a la vista o a plazo.
-
-1.2.- Plazo y monto mínimos.
-
-El monto mínimo de cada venta por cuenta propia o de terceros, es de US$100.000 y el plazo de recompra que se pacte debe ser de, a lo menos, cinco días hábiles bancarios, cuando se trate de las divisas señaladas en la letra g) del numeral 1.1 precedente, y de 360 días corridos, en los demás casos. El plazo máximo de estas operaciones no podrá ser superior a 720 días corridos desde la fecha de la operación de venta.
-
-En todo caso, las instituciones financieras que deseen realizar ventas de divisas con pacto de recompra por un monto total que en un mismo día supere la suma de US$10.000.000, deben enviar una solicitud en tal sentido al Banco Central de Chile, con dos días hábiles bancarios de anticipación.
-
-1.3.- Contratos de compra venta.
-
-La materialización de estas operaciones se efectúa mediante contratos sujetos a las disposiciones del artículo 47 de su Ley Orgánica Constitucional que suscribe el Banco Central de Chile con las instituciones financieras, sea que actúen a nombre propio o por cuenta de terceros.
-
-1.4.- Ventas con pacto de recompra por cuenta de terceros.
-
-Las instituciones bancarias y las sociedades financieras pueden realizar esta misma clase de ventas por cuenta de terceros que sean personas naturales residentes en el país o personas jurídicas legalmente establecidas en Chile, mediante mandatos que, para este efecto, deben otorgarles los interesados. Estas ventas sólo podrán efectuarse con las divisas señaladas en las letras a), d) y e) del numeral 1.1 precedente, y quedan sujetas al monto mínimo indicado en dicho numeral. Estas operaciones no podrán pactarse a plazos inferiores a 360 días corridos contados desde la fecha de la venta.
-
-En todo caso, las entidades financieras pueden aceptar o rechazar los mandatos que les entreguen sus clientes para efectuar las ventas de dólares al Banco Central de Chile, con pacto de recompra.
-
-Las entidades financieras que realicen estas operaciones por cuenta de terceros deben tener presente que ellas, atendida la norma del Banco Central de Chile, se efectúan bajo la responsabilidad de la entidad mandataria, la que, por consiguiente, debe advertir a su mandante de que, si a la fecha pactada para la recompra no le ha hecho la necesaria provisión de la moneda chilena para rescatar la moneda extranjera, se perderá el derecho de recompra que le confiere el contrato al vendedor y la operación se transformará en una venta definitiva de dólares.
-
-1.5. Pérdida del derecho a recompra.
-
-Las ventas de divisas de que tratan estas disposiciones, cuyas recompras no se realicen en las fechas pactadas para ello, se considerarán definitivas y el vendedor perderá el derecho de recompra que le confiere el respectivo contrato.
-
-### 2. Instrucciones contables
-
-2.1. Divisas provenientes de disponibilidades propias de los bancos.
-
-Para efectuar la venta de estas divisas al Banco Central de Chile, los bancos deberán proceder en la forma que a continuación se indica:
-
-2.1.1. Liquidación de las divisas y venta al Banco Central.
-
-a) Moneda extranjera.
-
-Debe: "Divisas vendidas al Banco Central con pacto de recompra" de la partida 2515 del MB1, por el importe de las divisas vendidas.
-
-Haber: "Depósitos en el Banco Central" de la partida 1010 del MB1, por el cargo que efectuará el Banco Central en la cuenta de la empresa.
-
-b) Moneda chilena.
-
-Debe: "Depósitos en el Banco Central" de la partida 1010 del MB1 por los Pesos que el Instituto Emisor abona en la cuenta, producto de la venta.
-
-Haber: "Adeudado al Banco Central por divisas vendidas con pacto de recompra" de
-
-la partida 4515 del MB1.
-
-2.1.2. Recompra al Banco Central de Chile de las divisas vendidas.
-
-a) Moneda extranjera.
-
-Debe: "Depósitos en el Banco Central", por el abono efectuado por el Banco Central por la devolución de las divisas.
-
-Haber: "Divisas vendidas al Banco Central con pacto de recompra".
-
-b) Moneda chilena.
-
-Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
-
-Haber: "Depósitos en el Banco Central", por el débito de los Pesos que hace el Banco Central en pago de la recompra.
-
-2.1.3. Venta definitiva al Banco Central de Chile de las divisas no recompradas.
-
-a) Moneda extranjera.
-
-Debe: La cuenta de Reservas o de Provisiones en moneda extranjera que corresponda, de la partida 4520 del formulario MB1.
-
-Haber: "Divisas vendidas al Banco Central con pacto de recompra".
-
-b) Moneda chilena.
-
-Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
-
-Haber: la cuenta que refleje el equivalente de las reservas o provisiones que se convierten por concepto de la venta definitiva, de la partida 2520 del formulario MB1.
-
-El importe que se contabilizará en moneda chilena, será el que corresponda al precio recibido por la moneda extranjera en el momento en que se celebró el contrato de venta con pacto de recompra.
-
-Las instituciones bancarias que procedan de la manera indicada, deben solicitarla autorización previa de esta Superintendencia para realizar la venta definitiva de moneda extranjera, sea que ésta provenga de provisiones o de reservas.
-
-2.2. Divisas de sociedades financieras.
-
-Las sociedades financieras, cuyas disponibilidades en moneda extranjera susceptibles de emplearse en estas operaciones pueden provenir exclusivamente de divisas recompradas originadas en créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, para los fines contemplados en el Capítulo V.B.1 del Compendio de Normas Financieras, registrarán las ventas deque trata este capítulo, de acuerdo a las siguientes pautas:
-
-2.2.1. Liquidación y venta al Banco Central de Chile.
-
-Las sociedades financieras deben efectuar la liquidación de las divisas que vendan al Banco Central con pacto de recompra, por intermedio de una institución autorizada para operar en cambios internacionales.
-
-El registro contable de estas ventas se hará como sigue:
-
-a) Moneda extranjera.
-
-Debe: "Divisas vendidas al Banco Central con pacto de recompra", de la partida 2515 del formulario MB1, por el importe de las divisas que se liquiden.
-
-Haber: La cuenta de la que se giren las divisas correspondientes.
-
-b) Moneda chilena.
-
-Debe: "Caja" o la cuenta que corresponda, por la percepción de los Pesos, producto de la venta con pacto de recompra.
-
-Haber: "Adeudado al Banco Central por divisas vendidas con pacto de recompra", de la partida 4515 del MB1.
-
-2.2.2. Recompra de las divisas vendidas.
-
-a) Moneda extranjera.
-
-Debe: La cuenta en que se reciban los dólares norteamericanos recomprados.
-
-Haber: "Divisas vendidas al Banco Central con pacto de recompra".
-
-b) Moneda chilena.
-
-Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
-
-Haber: "Caja" o la cuenta que corresponda, de la que se giren los Pesos para el pago de la recompra.
-
-2.2.3. Venta definitiva al Banco Central de Chile de las divisas no recompradas.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión Créditos Externos-Acuerdo 1196".
-
-- "Recompra de divisas de créditos externos-Acuerdo 1196".
-
-Haber: - "Divisas vendidas al Banco Central con pacto de recompra".
-
-- "Divisas disponibles por recompra de créditos externos-Acuerdo 1196".
-
-b) Moneda chilena.
-
-Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
-
-Haber: "Cambio Créditos Externos-Acuerdo 1196".
-
-2.3. Venta de divisas con pacto de recompra por cuenta de terceros.
-
-Las instituciones financieras que realicen operaciones de venta de divisas con pacto de recompra por cuenta de terceros con el Banco Central de Chile, en virtud de mandatos otorgados para tal efecto por los interesados a la respectiva institución, registrarán estas operaciones de la siguiente manera:
-
-2.3.1. Bancos.
-
-2.3.1.1. Por la recepción de las divisas para su venta al Banco Central de Chile.
-
-Debe: "Caja" o la cuenta que corresponda, por el ingreso de las divisas recibidas del mandante.
-
-Haber: "Divisas recibidas por vender al Banco Central con pacto de recompra", de la partida 3010 del MB1, que refleja la entrega de las divisas por el mandante para su venta al Banco Central de Chile. El saldo de esta cuenta queda afecto a encaje.
-
-2.3.1.2. Por la venta de las divisas al Banco Central con pacto de recompra.
-
-a) Moneda extranjera.
-
-Debe: - "Divisas recibidas por vender al Banco Central con pacto de recompra".
-
-- "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes", de la partida 2525 del MB1.
-
-Haber: - "Depósitos en el Banco Central".
-
-- "Divisas por recomprar al Banco Central por cuenta de clientes" de la partida 4525 del MB1, por el monto de las divisas que deben recomprarse por cuenta de terceros.
-
-b) Moneda chilena.
-
-Debe: - "Depósitos en el Banco Central", por el importe que acreditará el Banco Central por la venta de las divisas.
-
-- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra" de la partida 2525 del formulario MB1.
-
-Haber: - "Caja" o la cuenta que corresponda, por la entrega al cliente del valor en Pesos de las divisas vendidas.
-
-- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros" de la partida 4525 del formulario MB1.
-
-2.3.1.3. Por la recompra al Banco Central de Chile de las divisas vendidas.
-
-a) Moneda extranjera.
-
-Debe: - "Depósitos en el Banco Central", por el abono de las divisas al vencimiento del pacto.
-
-- "Divisas por recomprar al Banco Central por cuenta de clientes".
-
-Haber: - "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes".
-
-- "Divisas por entregar a clientes por recompras al Banco Central", que refleja las divisas recibidas por la recompra, pendientes de entrega al cliente, de la partida 3010 del MB1, cuyo saldo queda afecto a encaje.
-
-b) Moneda chilena.
-
-Debe: - "Caja", o la cuenta que corresponda por el importe en Pesos pagado por el cliente por la recompra de los dólares.
-
-- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
-
-Haber: - "Depósitos en el Banco Central", por el débito efectuado por el Banco Central, correspondiente al valor de las divisas recompradas por cuenta de terceros.
-
-- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
-
-2.3.1.4. Ventas definitivas al Banco Central de Chile de divisas no recompradas.
-
-a) Moneda extranjera.
-
-Debe: "Divisas por recomprar al Banco Central por cuenta de clientes".
-
-Haber: "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes".
-
-b) Moneda chilena.
-
-Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
-
-Haber: "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
-
-2.3.2. Sociedades financieras.
-
-Las sociedades financieras que realicen estas operaciones por cuenta de sus clientes, deben liquidar las divisas en una institución financiera autorizada para operar en Cambios.
-
-Para el registro de estas operaciones observarán las siguientes instrucciones:
-
-2.3.2.1. Por la recepción de la moneda extranjera al cliente.
-
-Debe: "Caja" o la cuenta que corresponda, por la recepción al cliente de la moneda extranjera.
-
-Haber: "Divisas recibidas por vender al Banco Central con pacto de recompra", de la partida 3010 del MB1, cuenta en la que se refleja la entrega de las divisas por el mandante, para su venta al Banco Central con pacto de recompra. El saldo de esta cuenta queda afecto a encaje.
-
-2.3.2.2. Por la venta de las divisas al Banco Central de Chile.
-
-a) Moneda extranjera.
-
-Debe: - "Divisas recibidas por vender al Banco Central con pacto de recompra".
-
-- "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes".
-
-Haber: - "Divisas por recomprar al Banco Central por cuenta de clientes".
-
-- "Caja" o la cuenta que corresponda, por la entrega de los dólares al Banco Central.
-
-b) Moneda chilena.
-
-Debe: - "Caja", o la cuenta que corresponda por la recepción de los Pesos, producto de la venta de los dólares con pacto de recompra.
-
-- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
-
-Haber: - "Caja", o la cuenta que corresponda, por la entrega de los Pesos al cliente.
-
-- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
-
-2.3.2.3. Por la recompra de las divisas al Banco Central.
-
-Estas recompras que también deben efectuarse por intermedio de una institución autorizada para operar en cambios internacionales, se contabilizarán en la forma que se indica a continuación:
-
-a) Moneda extranjera.
-
-Debe: - "Divisas por recomprar al Banco Central por cuenta de clientes".
-
-- "Caja" o la cuenta que corresponda, por la recepción de los dólares.
-
-Haber: - "Divisas por entregar a clientes por recompras al Banco Central", de la partida 3010 del MB1, afecta a encaje.
-
-- "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes"
-
-b) Moneda chilena.
-
-Debe: - "Caja" o la cuenta que corresponda, por la recepción de los Pesos del cliente para efectuar la recompra.
-
-- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
-
-Haber: - "Caja" o la cuenta que corresponda por la entrega de los Pesos por la recompra de las divisas.
-
-- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
-
-2.3.2.4. Venta definitiva al Banco Central de Chile por recompras no efectuadas.
-
-a) Moneda extranjera.
-
-Debe: "Divisas por recomprar al Banco Central por cuenta de clientes".
-
-Haber: "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes".
-
-b) Moneda chilena.
-
-Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
-
-Haber: "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
-
-2.4. Descuento aplicado por el Banco Central de Chile.
-
-Los importes que las instituciones financieras paguen al Banco Central de Chile por concepto de descuento en las operaciones de venta de divisas con pacto de recompra, efectuadas con sus propios recursos, serán registrados en la cuenta "Comisiones anticipadas por ventas de divisas con pacto de recompra", de la partida 2120 del formulario MBl.
-
-Al término de cada mes, dicha comisión se traspasará a la cuenta "Comisiones pagadas por ventas de divisas con pacto de recompra" de la partida 5530 del formulario MR1, en forma proporcional al plazo pactado en el respectivo contrato.
-
-2.5. Custodia de los contratos por venta de divisas de terceros.
-
-Estos contratos deben ser registrados por los bancos y financieras con cargo a la cuenta "Contratos por venta de divisas de terceros con pacto de retrocompra" con abono a la cuenta "Depositantes de contratos por venta de divisas de terceros con pacto de retrocompra". Estas cuentas se demostrarán en las partidas 9260 y 9900, respectivamente.
-
-2.6. Ajustes por variación de tipo de cambio.
-
-Las entidades financieras deben ajustar el último día de cada mes el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
-
-Este ajuste se efectúa por la cotización que corresponda al régimen de tipo de cambio pactado para realizar la respectiva recompra, vigente en la fecha del ajuste, de tal manera que reflejen el equivalente en Pesos, a esa cotización, del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de recompra".
-
-Las diferencias correspondientes se debitarán o abonarán, según corresponda, a las cuentas "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados" o "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados", de las partidas 5720 y 7720 del formulario MR1, respectivamente.
-
-En la misma fecha y al mismo tipo de cambio antes señalados, las instituciones financieras deben ajustar las cuentas "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra" y "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros", sobre la base del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de
-
-recompra por cuenta de clientes", para cuyo efecto se debita la primera de dichas cuentas y acredita directamente la segunda.
-
-### 3. Límites
-
-Estas operaciones no quedan afectas a los límites de crédito ni de obligaciones
-
-para con terceros establecidos en la Ley General de Bancos, como tampoco al
-
-límite de endeudamiento con el Banco Central de Chile a que se refiere el
-
-Capítulo 12-6 de esta Recopilación de Normas.
 
 CAPITULO 13-7 (Bancos y Financieras)
 
@@ -20702,51 +20362,11 @@ APORTES DE CAPITAL D.L. 600 Y A UTILIDADES REMESABLES.
 
 ### 1. Generalidades
 
-Las sucursales de bancos extranjeros que hayan ingresado al país aportes de
-
-capital en monedas extranjeras al amparo del D.L. 600 y los bancos y sociedades
-
-financieras que hayan recibido aportes de capital en esas monedas acogidos a la
-
-citada disposición legal, siempre que ellos se hayan destinado a la suscripción
-
-original del capital accionario de la respectiva institución financiera o a
-
-aumentos de capital y mantuvieren recompradas las correspondientes divisas,
-
-podrán vender con pacto de recompra y con cargo a esos recursos, dólares
-
-norteamericanos al Banco Central de Chile, al tipo de cambio señalado en el
-
-Anexo N° 3 del Capítulo IV.E.1 del Compendio de Normas Financieras, de
-
-conformidad con las instrucciones contenidas en este capítulo. Igualmente podrán
-
-hacer esas ventas con los recursos provenientes de utilidades susceptibles de
-
-ser remesadas de conformidad al citado Decreto Ley, previamente calificadas por
-
-esta Superintendencia.
+Las sucursales de bancos extranjeros que hayan ingresado al país aportes de capital en monedas extranjeras al amparo del D.L. 600 y los bancos y sociedades financieras que hayan recibido aportes de capital en esas monedas acogidos a la citada disposición legal, siempre que ellos se hayan destinado a la suscripción original del capital accionario de la respectiva institución financiera o a aumentos de capital y mantuvieren recompradas las correspondientes divisas, podrán vender con pacto de recompra y con cargo a esos recursos, dólares norteamericanos al Banco Central de Chile, de conformidad con las instrucciones contenidas en este capítulo. Igualmente podrán hacer esas ventas con los recursos provenientes de utilidades susceptibles de ser remesadas de conformidad al citado Decreto Ley, previamente calificadas por esta Superintendencia.
 
 ### 2. Monto de las operaciones
 
-Estas ventas de divisas al Banco Central de Chile con pacto de recompra, serán
-
-por montos mínimos de US$ 100.000. En todo caso, las instituciones financieras
-
-que deseen realizar, en un mismo día, ventas de divisas con pacto de recompra
-
-por un monto que, incluidas las operaciones de que trata el Capítulo IV.E.1 del
-
-Compendio de Normas Financieras y el Capítulo 13-6 de esta Recopilación de
-
-Normas, exceda de US$ 10.000.000, deberán enviar una solicitud en tal sentido
-
-ala Gerencia de Financiamiento Externo del Instituto Emisor, con dos días
-
-hábiles bancarios de anticipación respecto a la fecha en que se desea cursar la
-
-respectiva operación, la que será contestada el mismo día de su presentación.
+Estas ventas de divisas al Banco Central de Chile con pacto de recompra, serán por montos mínimos de US$ 100.000. En todo caso, las instituciones financieras que deseen realizar, en un mismo día, ventas de divisas con pacto de recompra por un monto que exceda de US$ 10.000.000, deberán enviar una solicitud en tal sentido ala Gerencia de Financiamiento Externo del Instituto Emisor, con dos días hábiles bancarios de anticipación respecto a la fecha en que se desea cursar la respectiva operación, la que será contestada el mismo día de su presentación.
 
 ### 3. Plazos para efectuar las ventas de divisas
 
@@ -20812,49 +20432,21 @@ que no remitan esta información, no podrán realizar con las correspondientes
 
 divisas, las operaciones de que trata este capítulo.
 
-6. Prohibición de efectuar ventas con pacto de recompra según las disposiciones
-
-del Capítulo IV.E.1 del Compendio de Normas Financieras.
-
-Los importes que las instituciones financieras hayan informado al Banco Central
-
-de Chile según lo dispuesto en el N° 5 de este capítulo, sólo podrán ser
-
-vendidos al Instituto Emisor de acuerdo con las presentes instrucciones y no
-
-podrán, por lo tanto, venderse con sujeción a las disposiciones del Capítulo
-
-IV.E.1 del Compendio de Normas Financieras y del Capítulo 13-6 antes mencionado,
-
-dentro de los plazos que finalizan el 31 de diciembre de 1990 o el 31 de
-
-diciembre de 1995, de acuerdo a lo señalado en el N° 3 anterior, según sea la
-
-fecha de ingreso de las divisas comprometidas en la operación de que se trate.
-
-### 7. Contratos de compra venta
+### 6. Contratos de compra venta
 
 La materialización de estas operaciones se efectuará mediante contratos que suscribirá la institución financiera vendedora y el Banco Central de Chile según el formato establecido al efecto por el Instituto Emisor. Estos contratos quedarán sujetos a las disposiciones del 47 de la Ley Orgánica Constitucional del Banco Central de Chile.
 
-### 8. Uso que se puede dar a la moneda chilena recibida por estas ventas
+### 7. Uso que se puede dar a la moneda chilena recibida por estas ventas
 
-La moneda chilena que reciban las instituciones financieras por estas ventas al
-
-Banco Central de Chile, solo podrá ser utilizada en realizar colocaciones o
-
-inversiones financieras en términos nominales o reajustables por la variación
-
-del valor de la Unidad de Fomento. De acuerdo con lo establecido en forma
-
-expresa en las normas del Instituto Emisor, no podrán efectuarse con estos
+La moneda chilena que reciban las instituciones financieras por estas ventas al Banco Central de Chile, solo podrá ser utilizada en realizar colocaciones o inversiones financieras en términos nominales o reajustables por la variación del valor de la Unidad de Fomento. De acuerdo con lo establecido en forma expresa en las normas del Instituto Emisor, no podrán efectuarse con estos
 
 recursos operaciones con reajustabilidad en moneda extranjera.
 
-### 9. Normas contables
+### 8. Normas contables
 
 Las operaciones a que se refiere este capítulo, serán contabilizadas en la forma que a continuación se indica:
 
-9.1. Venta de las divisas al Banco Central de Chile.
+8.1. Venta de las divisas al Banco Central de Chile.
 
 a) Moneda extranjera.
 
@@ -20870,7 +20462,7 @@ Debe: "Depósitos en el Banco Central", de la partida 1010 del formulario MB1.
 
 Haber: "Adeudada al Banco Central por divisas vendidas con pacto de recompra D.L. 600", cuenta que se crea con ese objeto, la que sera demostrada en la partida 4515 del formulario MB1.
 
-9.2. Recompra de las divisas.
+8.2. Recompra de las divisas.
 
 a) Moneda extranjera.
 
@@ -20886,35 +20478,21 @@ Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L.
 
 Haber: "Depósitos en el Banco Central".
 
-9.3. Descuento aplicado por el Banco Central de Chile.
+8.3. Descuento aplicado por el Banco Central de Chile.
 
 Los importes que las instituciones financieras paguen al Banco Central de Chile por concepto de descuento en las operaciones de venta de divisas con pacto de recompra de que trata este capítulo, serán registrados en la cuenta "Comisiones anticipadas por ventas de divisas con pacto de recompra", de la partida 2120 del formulario MBl.
 
 Al término de cada mes, dicha comisión se traspasará a la cuenta "Comisiones pagadas por ventas de divisas con pacto de recompra" de la partida 5530 del formulario MR1, en forma proporcional al plazo pactado en el respectivo contrato.
 
-9.4. Ajustes por variación de tipo de cambio.
+8.4. Ajustes por variación de tipo de cambio.
 
 Las entidades financieras ajustarán el último día de cada mes, el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L. 600", por la cotización que corresponda al régimen de tipo de cambio pactado para efectuar la respectiva recompra, vigente en la fecha del ajuste, de tal manera que ésta refleje el equivalente en Pesos, moneda chilena, a esa cotización, del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de recompra D.L. 600".
 
 Las diferencias correspondientes serán debitadas o abonadas a la cuenta "Diferencia ajuste divisas vendidas con pacto de recompra D.L.600", de la partida 2120 ó 4120, previa deducción de un importe igual al que resulte de aplicar a la cuenta "Divisas vendidas al Banco Central con pacto de recompra DL 600" la variación del tipo de cambio de representación contable entre el mes correspondiente y el mes inmediatamente anterior. Este último importe se reconocerá en las cuentas "Gasto por ajuste operaciones DL 600" o "Ingreso por ajuste operaciones DL 600", de las partidas 5720 y 7720, respectivamente.
 
-### 10. Límites
+### 9. Límites
 
-Estas operaciones no quedan afectas a los límites de crédito ni de obligaciones
-
-para con terceros, establecidos en la Ley General de Bancos, como tampoco al
-
-límite de endeudamiento con el Banco Central de Chile a que se refiere el
-
-Capítulo 12-6 de esta Recopilación de Normas.
-
-### 11. Disposición transitoria
-
-Antes del 30 de noviembre de 1991, las entidades bancarias que mantengan divisas vendidas al Banco Central de Chile con pacto de recompra D.L. 600, calcularán la diferencia entre el equivalente de la cuenta "Divisas vendidas al Banco Central con pacto de recompra D.L. 600", al tipo de cambio de representación contable vigente a la fecha y el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L. 600".
-
-La cantidad así obtenida será restada de los saldos que a la misma fecha registre la cuenta "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados", abonándola a la misma con cargo a la cuenta de activo transitorio "Diferencia ajuste divisas vendidas con pacto de recompra D.L.600", de la partida 2120.
-
-En el caso que la cuenta "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7720, registre saldos derivados del ajuste de estas mismas operaciones, se debitará de ella, para acreditar la cuenta "Diferencia ajuste divisas vendidas con pacto de recompra D.L. 600", de la partida 4120, la suma que resulte de aplicar la diferencia entre los tipos de cambio que dieron origen a las respectivas utilidades y los tipos de cambio de representación contable vigentes en las fechas en que se determinaron esas utilidades, a los respectivos importes de "Divisas vendidas al Banco Central con pacto de recompra D.L. 600". De este modo la cuenta de resultado "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" deberá reflejar solamente la utilidad que se genera por la variación del tipo de cambio de representación contable, en tanto que la diferencia con la variación del tipo de cambio al que se ajustan las respectivas operaciones, quedará pendiente de reconocimiento en la cuenta de pasivo transitorio ya señalada.
+Estas operaciones no quedan afectas a los límites de crédito ni de obligaciones para con terceros, establecidos en la Ley General de Bancos, como tampoco al límite de endeudamiento con el Banco Central de Chile a que se refiere el Capítulo 12-6 de esta Recopilación de Normas.
 
 CAPITULO 13-8 (Bancos y Financieras)
 
@@ -21169,214 +20747,6 @@ de Chile por las operaciones a que se refiere el título II de este capítulo, n
 son computables para los efectos de los límites de endeudamiento establecidos en
 
 los artículos 81 y 115 de la Ley General de Bancos.
-
-CAPITULO 13-9 (Bancos y Financieras)
-
-MATERIA:
-
-RECURSOS EN MONEDA EXTRANJERA. SU DEPOSITO EN CUENTA ESPECIAL EN DOLARES
-
-NORTEAMERICANOS EN EL BANCO CENTRAL DE CHILE.
-
-### 1. Recursos que pueden depositarse y condiciones de los depósitos
-
-Los bancos y las sociedades financieras pueden depositar en el Banco Central de
-
-Chile, en la "Cuenta Especial de Depósito Número Dos en Dólares de los Estados
-
-Unidos de América", recursos en moneda extranjera provenientes de:
-
-a) Aportes de capital ingresados al amparo del D.L. N° 600, de 1974 y sus
-
-modificaciones;
-
-b) Reservas en moneda extranjera, con excepción de las utilidades por remesar al
-
-exterior mantenidas en moneda extranjera en virtud de una autorización expresa
-
-del Banco Central de Chile; y,
-
-c) Provisiones constituidas para las carteras de colocaciones e inversiones.
-
-Las sociedades financieras podrán operar solamente en lo relativo a los
-
-eventuales aportes de capital que pudieran recibir, debido a que no están
-
-autorizadas para mantener reservas o provisiones en moneda extranjera.
-
-Los depósitos podrán enterarse en la mencionada cuenta, únicamente en dólares
-
-norteamericanos y devengarán intereses a la tasa que fije el Banco Central de
-
-Chile, los que serán pagados mensualmente por su equivalente en moneda chilena.
-
-El plazo de estos depósitos es indefinido, pero los giros podrán efectuarse sólo
-
-para determinados fines, como se señala en el N° 2 siguiente.
-
-### 2. Giros
-
-Los depósitos mantenidos en la "Cuenta Especial de Depósito Número 2, en dólares de Estados Unidos de América", podrán girarse únicamente para alguna de las siguientes finalidades, según sea el origen de los recursos depositados:
-
-2.1. Aportes de capital ingresados al amparo del D.L. N° 600 y sus modificaciones por bancos y sociedades financieras:
-
-a) Para efectuar su venta al Banco Central, con pacto de recompra, en los términos de los Capítulos IV.E.1 y IV.E.3 del Compendio de Normas Financieras;
-
-b) Para adquirir pagarés en dólares de los Estados Unidos de América emitidos por la Tesorería General de la República; y,
-
-c) Para convertir a pesos, moneda corriente.
-
-d) Para convertir a pesos, moneda corriente, con el objeto de remesar al exterior, cuando proceda, previa autorización del Banco Central de Chile.
-
-2.2. Reservas en moneda extranjera de instituciones bancarias:
-
-Únicamente para financiar operaciones de comercio exterior y para utilizarlas en el castigo de operaciones en moneda extranjera, previa autorización del Banco Central de Chile y de esta Superintendencia, según lo establecido en el Capítulo 13-28 de esta Recopilación de Normas.
-
-2.3. Provisiones en moneda extranjera constituidas por empresas bancarias:
-
-Sólo para los fines que en cada caso autorice previamente el Banco Central de Chile y esta Superintendencia.
-
-### 3. Normas contables
-
-3.1. Por los depósitos.
-
-Los recursos que se depositen en el Banco Central de Chile en conformidad a las disposiciones de que trata este capítulo, se registrarán en la cuenta denominada "Cuenta Especial de Depósito N° 2 en dólares de los Estados Unidos de América" de la partida 1770, del formulario MB1. Esta cuenta, en el caso de los bancos, se dividirá en las siguientes subcuentas: "Aportes de Capital D.L. N° 600"; "Reservas en moneda extranjera" y "Provisiones en moneda extranjera". De esta manera quedarán identificados los recursos depositados, a fin de hacer las aplicaciones de los mismos en la forma autorizada por el Banco Central de Chile.
-
-3.2. Por los giros.
-
-Los giros se harán también en dólares norteamericanos sujetos a la reglamentación establecida para el efecto por el Banco Central de Chile y, por cada uno de ellos, se acreditará la subcuenta que corresponda, según lo expresado en el numeral precedente.
-
-Las instituciones bancarias no podrán hacer giros de una de esas subcuentas para abonarlo a alguna de las dos restantes, a menos que se trate de solucionar algún error. En este caso deberán dejarse claramente explicadas, en el correspondiente comprobante de contabilidad, las razones del traspaso. Además, la institución financiera deberá mantener reunidos los antecedentes que justificaron la operación.
-
-De cualquier modo, en los documentos contables que den cuenta de un giro, se señalará en forma precisa y con los detalles necesarios, el destino que se dará a la moneda extranjera que se retira de la cuenta.
-
-3.3. Por los intereses ganados.
-
-Los intereses devengados se registrarán en pesos, moneda corriente, en las correspondientes cuentas complementarias de intereses de la partida 1770, con abono a la cuenta "Intereses ganados por Cuenta Especial de Depósito N° 2 en dólares de los Estados Unidos de América", de la partida 7165.
-
-Cuando el Banco Central de Chile pague efectivamente los intereses ganados, se acreditará la cuenta de intereses por cobrar de la partida 1770. Las diferencias que pudieran producirse con respecto al total de los importes registrados en el activo, se llevarán directamente a la cuenta de resultados de la partida 7165 antes indicada.
-
-CAPITULO 13-12 (Bancos)
-
-MATERIA:
-
-PAGO DE INTERESES EN CUENTAS EN MONEDA EXTRANJERA MANTENIDAS EN EL BANCO CENTRAL
-
-DE CHILE.
-
-### 1. Generalidades
-
-De conformidad con las disposiciones del Capítulo IV.D.2 del Compendio de Normas
-
-Financieras del Banco Central de Chile, las empresas bancarias pueden abrir
-
-cuentas especiales de depósito en el Banco Central de Chile para determinadas
-
-monedas extranjeras. Estas cuentas, que devengarán intereses que se pagarán en
-
-la misma moneda depositada, serán distintas de las demás cuentas corrientes que
-
-mantienen las instituciones bancarias con el Instituto Emisor, cuyos saldos son
-
-computables para los efectos de cumplir con el encaje exigido, de conformidad
-
-con el artículo 79 de la Ley General de Bancos. El manejo de estas cuentas
-
-quedará determinado por las normas que para el efecto dicte el propio Banco
-
-Central de Chile.
-
-### 2. Características principales de estas cuentas
-
-Las cuentas que los bancos abran en el Banco Central de Chile, al amparo de
-
-estas normas, estarán circunscritas a las siguientes monedas extranjeras y a las
-
-que en lo futuro pueda determinar la Gerencia General del mencionado Banco:
-
-- Dólares de los Estados Unidos de América;
-
-- Marcos Alemanes; y,
-
-- Libras Esterlinas.
-
-El Banco Central de Chile pagará intereses sobre los depósitos mantenidos en
-
-dichas cuentas especiales, en la propia moneda extranjera, sobre la base de una
-
-tasa que fijará diariamente y que será determinada de acuerdo con las tasas del
-
-mercado internacional.
-
-Los depósitos mantenidos en estas cuentas especiales tienen el carácter de
-
-inversión para la empresa depositante, de manera que debe distinguirse en ese
-
-sentido, de la cuenta corriente habitual y demostrarse en consecuencia, también
-
-en forma separada.
-
-Estas cuentas tienen por única finalidad permitir a las instituciones
-
-financieras mantener sus recursos disponibles en moneda extranjera a la espera
-
-de su inversión o imputación definitiva en instrumentos del Banco Central de
-
-Chile que les permitan calzar sus activos con sus pasivos en moneda extranjera o
-
-bien destinarlos al pago de obligaciones en esas monedas.
-
-### 3. Normas contables
-
-3.1. Apertura de la cuenta especial.
-
-Estas cuentas especiales se denominarán "Cuentas Acuerdo 1.657-11-850627" y se
-
-incluirán en la partida 1010 "Depósitos en el Banco Central", del formulario
-
-MB1.
-
-Atendido que se trata de cuentas distintas de las cuentas corrientes que las
-
-instituciones financieras mantienen con el Banco Central, los giros y depósitos
-
-se efectuarán, de acuerdo con los procedimientos que determine el Banco Central
-
-de Chile.
-
-3.2. Intereses.
-
-Los intereses que devenguen las cuentas especiales Acuerdo 1.657-11-850627 serán
-
-acreditados en las mismas cuentas que los generan, el primer día hábil bancario
-
-del mes siguiente a aquél en que fueron devengados. No obstante, las entidades
-
-bancarias calcularán el devengo correspondiente a cada mes, demostrándolo al
-
-cierre del mes respectivo en las cuentas "Intereses por cobrar-Cuentas
-
-especiales Acuerdo 1.657-11-850627", de la partida 1815, del formulario MB1, e
-
-"Intereses ganados-Cuentas especiales Acuerdo 1.657-11-850627", cuyo saldo se
-
-reflejará en la partida 7000 del formulario MB1 y 7150 del formulario MR1. Una
-
-vez recibido el correspondiente abono del Banco Central de Chile, se debitará la
-
-respectiva "Cuenta-Acuerdo 1.657-11-850627" con abono a "Intereses por cobrar-
-
-Cuentas especiales Acuerdo 1.657-11850627".
-
-### 4. Otras instrucciones
-
-Las instituciones bancarias deberán llevar un control permanente de los recursos
-
-depositados, manteniendo actualizadas las correspondientes conciliaciones de los
-
-registros efectuados en la cuenta con los movimientos de débitos y créditos que
-
-informe el Banco Central de Chile.
 
 CAPITULO 13-13 (Bancos y Financieras)
 
@@ -21650,11 +21020,7 @@ b) Liquidar a moneda chilena con el objeto de efectuar, en caso que proceda, pag
 
 c) Adquirir pagarés en dólares emitidos por el Banco Central de Chile, a que se refiere el Capítulo IV.B.9 del Compendio de Normas Financieras y la Circular N° 1.899-349 del 28 de marzo de 1983, de este Organismo.
 
-d) Vender al Banco Central de Chile con pacto de recompra, según lo dispuesto en el Capítulo IV.E.1 del Compendio de Normas Financieras y en el Capítulo 13-6 de esta Recopilación de Normas.
-
-e) Depositar en la cuenta corriente especial a que se refieren el Capítulo IV.D.2 del Compendio de Normas Financieras y el Capítulo 13-12 de esta Recopilación de Normas.
-
-f) Adquirir pagarés en dólares emitidos por la Tesorería General de la República.
+d) Adquirir pagarés en dólares emitidos por la Tesorería General de la República.
 
 ### 4. Normas contables
 
@@ -21876,6 +21242,8 @@ Las instituciones financieras deben ajustar el saldo de la cuenta "Cambio Crédi
 
 El descuento que el Banco Central de Chile aplique en la retroventa de los pagarés de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, será registrado por las instituciones financieras en la cuenta "Diferencias de precio por retroventa de pagarés sustitutivos de encaje", de la partida 5610.
 
+El cargo a la cuenta de resultado antes señalada podrá diferirse, registrando el importe de la mencionada diferencia en la cuenta "Diferencias retroventa pagarés sustitutivos de encaje diferidas", de la partida 2120 Para ese efecto se traspasará mensualmente a resultados una parte proporcional de ese importe, durante el período en que el monto del encaje de que trata el citado Capítulo XIV debería permanecer depositado en el Banco Central de Chile.
+
 ### 5. Límites que afectan a estas operaciones
 
 Las operaciones de que trata este capítulo quedarán afectas a los límites de
@@ -22090,11 +21458,9 @@ c) Financiar gastos locales correspondientes a importaciones de bienes de capita
 
 d) Depositar en la cuenta especial a que se refieren la letra A) del Capítulo IV.E.2 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 13-8 de esta Recopilación de Normas, cuando se trate de recursos provenientes de obligaciones contraídas con anterioridad al 1° de febrero de 1983, incluidas las pactadas a partir de esa fecha con el objeto de efectuar el pago anticipado de aquéllas antes indicadas y excluidas las obligaciones con el exterior a que se refiere el N° 2 de la Circular Conjunta del 27 de junio de 1985 del Ministro de Hacienda, Ministro de Economía, Fomento y Reconstrucción y Presidente del Banco Central de Chile.
 
-e) Depositar en las cuentas especiales a que se refieren el Capítulo IV.D.2 del Compendio de Normas Financieras y el Capítulo 13-12 de esta Recopilación de Normas, cuando se trate de recursos provenientes de obligaciones contraídas con posterioridad al 31 de enero de 1983.
+e) Financiar los descuentos de documentos a que se refiere la letra C) del Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y el Capítulo 1327 de esta Recopilación.
 
-f) Financiar los descuentos de documentos a que se refiere la letra C) del Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y el Capítulo 1327 de esta Recopilación.
-
-g) Otorgar créditos a personas naturales o jurídicas residentes en el exterior, con el único objeto de financiar importaciones procedentes de Chile o exportaciones destinadas a este país.
+f) Otorgar créditos a personas naturales o jurídicas residentes en el exterior, con el único objeto de financiar importaciones procedentes de Chile o exportaciones destinadas a este país.
 
 ### 3. Financiamiento de Importaciones
 
@@ -25468,69 +24834,27 @@ extranjera, es el que se indica en los N°s. 2, 3 y 4 de este capítulo.
 
 Las reservas en moneda extranjera que mantengan los bancos, originadas en la adquisición de los ingresos netos en esas monedas o provenientes de otras fuentes distintas a las utilidades de los aportes de capital del D.L. 600, podrán utilizarse solamente en los siguientes fines, según lo dispuesto en el Capítulo XI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile:
 
-a) Depositarse en la cuenta especial N° 2 en dólares de Estados Unidos de América, en el Banco Central de Chile, a que se refieren el Capítulo IV.F del Compendio de Normas Financieras del Instituto Emisor y el Capítulo 13-9 de esta Recopilación de Normas. De esta cuenta se puede girar sólo para los fines que se indican en las letras b) y c) siguientes;
+a) Utilizarse para financiar operaciones de comercio exterior de conformidad con las normas del Instituto Emisor. En este caso, una vez que las divisas sean recuperadas de la respectiva operación, deberán reintegrarse a la cuenta especial N° 2; y,
 
-b) Utilizarse para financiar operaciones de comercio exterior de conformidad con las normas del Instituto Emisor. En este caso, una vez que las divisas sean recuperadas de la respectiva operación, deberán reintegrarse a la cuenta especial N° 2; y,
-
-c) Castigar, previa autorización de este Organismo Fiscalizador y del Banco Central de Chile, operaciones en moneda extranjera, en los términos del N° 5 de este capítulo.
+b) Castigar, previa autorización de este Organismo Fiscalizador y del Banco Central de Chile, operaciones en moneda extranjera, en los términos del N° 5 de este capítulo.
 
 ### 3. Reservas correspondientes a utilidades remesables al exterior
 
-La moneda extranjera que sea el producto de utilidades acumuladas remesables al
+La moneda extranjera que sea el producto de utilidades acumuladas remesables al exterior, mantenidas como reservas con autorización de esta Superintendencia y del Banco Central de Chile, deberá emplearse en alguno de los siguientes fines exclusivos:
 
-exterior, mantenidas como reservas con autorización de esta Superintendencia y
+a) Constituir depósitos en moneda extranjera en empresas bancadas establecidas en Chile;
 
-del Banco Central de Chile, deberá emplearse en alguno de los siguientes fines
+b) Adquirir pagarés del Banco Central de Chile en dólares norteamericanos, según el Capítulo IV.B.9 del Compendio de Normas Financieras y la Circular de esta Superintendencia N° 1.899-349, del 28 de marzo de 1983;
 
-exclusivos:
+c) Adquirir pagarés en dólares norteamericanos emitidos por la Tesorería General de la República;
 
-a) Constituir depósitos en moneda extranjera en empresas bancadas establecidas
+d) Remesar al exterior de acuerdo a los procedimientos establecidos por el Instituto Emisor, previa conformidad de esta Superintendencia y del Banco Central de Chile;
 
-en Chile;
-
-b) Realizar operaciones de venta de moneda extranjera con pacto de recompra, de
-
-conformidad con lo dispuesto en los Capítulos IV.E.1 del Compendio de Normas
-
-Financieras y 13-6 de esta Recopilación de Normas;
-
-c) Adquirir pagarés del Banco Central de Chile en dólares norteamericanos, según
-
-el Capítulo IV.B.9 del Compendio de Normas Financieras y la Circular de esta
-
-Superintendencia N° 1.899-349, del 28 de marzo de 1983;
-
-d) Adquirir pagarés en dólares norteamericanos emitidos por la Tesorería General
-
-de la República;
-
-e) Remesar al exterior de acuerdo a los procedimientos establecidos por el
-
-Instituto Emisor, previa conformidad de esta Superintendencia y del Banco
-
-Central de Chile;
-
-f) Depositar en las cuentas especiales en moneda extranjera en el Banco Central
-
-de Chile, a que se refieren el Capítulo IV.D.2 del Compendio de Normas
-
-Financieras y el Capítulo 13-12 de esta Recopilación de Normas; y,
-
-g) Financiar operaciones de comercio exterior.
+e) Financiar operaciones de comercio exterior.
 
 ### 4. Provisiones en moneda extranjera
 
-Las instituciones bancarias que mantengan provisiones en moneda extranjera, sólo
-
-pueden utilizar dichos recursos en los siguientes fines:
-
-a) Depositar en la cuenta especial N° 2 en el Banco Central de Chile, a que se
-
-refiere el Capítulo IV.F. del Compendio de Normas Financieras; y,
-
-b) Castigar operaciones en moneda extranjera de conformidad con lo dispuesto en
-
-el N° 5 de este capítulo.
+Las instituciones bancarias que mantengan provisiones en moneda extranjera, sólo pueden utilizar dichos recursos en castigar operaciones en moneda extranjera, de conformidad con lo dispuesto en el N° 5 de este Capítulo.
 
 5. Castigo de operaciones en moneda extranjera con provisiones o reservas en dichas monedas.
 
@@ -26950,8 +26274,6 @@ El ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá t
 
 No obstante, al tratarse del ajuste de la cuenta "Cambio Mercado de Divisas de Libre Disposición", según lo dispuesto en el Capítulo 13-1, se utilizará el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día en que se efectúe el ajuste, sin perjuicio de que, para la representación de los saldos en moneda extranjera en los estados financieros y en la información que debe enviarse a esta Superintendencia, deben utilizarse las equivalencias que informe este Organismo.
 
-Por otra parte, los ajustes correspondientes a las ventas de divisas realizadas al Banco Central de Chile con pacto de recompra, deben efectuarse conforme a lasdisposiciones del Capítulo 13-6.
-
 Debe tenerse presente, además, que para calcular y registrar los reajustes de operaciones en moneda chilena reajustables por la variación del dólar estadounidense, las instituciones financieras deben considerar el tipo de cambio que se haya pactado, ateniéndose a las instrucciones del Capítulo 7-1 de esta Recopilación.
 
 CAPITULO 13-31 (Bancos)
@@ -27646,7 +26968,7 @@ c) Créditos internos.
 
 ### II. FINANCIAMIENTOS EXTERNOS
 
-Los exportadores que reciban financiamientos externos que pueden asumir la forma de anticipos de compradores o de créditos externos, tienen la obligación de liquidar las correspondientes divisas en el Mercado Cambiario Formal o, alternativamente, si son dólares de los Estados Unidos de América, pueden venderlos al Banco Central de Chile con pacto de recompra, con sujeción a las normas establecidas en el Capítulo IV.E.1 del Compendio de Normas Financieras, debiendo en tal caso, las instituciones bancadas que participen en esas operaciones, observar además las instrucciones del Capítulo 13-6 de esta Recopilación.
+Los exportadores que reciban financiamientos externos que pueden asumir la forma de anticipos de compradores o de créditos externos, tienen la obligación de liquidar las correspondientes divisas en el Mercado Cambiario Formal.
 
 ### 1. Anticipos de Compradores del Exterior
 
