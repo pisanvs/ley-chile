@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.414, de 17 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 3-2 y 3-4, para la obra: ''Camino: Santiago - Colina - Los Andes. Sector: Enlace Auco Km. 57.000,00 al Km.
+
+57.500,00'', Quinta Región, que figuran a nombre de Inmob. Parque Renaca S.A., rol de avalúo 24-51, comuna de Calle Larga, superficies de 3.309,0 m2 y 773,1 m2 respectivamente. La comisión de peritos integrada por los señores Marlene Teresa Ríos Marcuello, Joaquín Prieto Ochagavía y Luis Pablo Padilla Vergara, fijó con fecha 24 de enero de 2000, el valor provisional de la indemnización en las cantidades de $12.119.642.- para el lote Nº3-2 y $2.925.268.- para el lote Nº3-4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
