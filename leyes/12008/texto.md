@@ -14,6 +14,8 @@ a) El pago de los derechos establecidos en el Arancel Aduanero y Adicionales;
 
 b) Los impuestos ad-valorem establecidos en el decreto supremo N.o 2,772, de 18 de Agosto de 1943, y sus modificaciones posteriores.
 
+c) Impuestos y derechos adicionales establecidos en virtud del artículo 169.o de la ley N.o 13,305.
+
 #### Artículo 2
 
 o Las disposiciones contenidas en el artículo anterior se aplicarán también a los provincias de Chiloé y Aysén, excepto las que se relacionan con la liberación que afecta a los artículos suntuarios, los cuales podrán internarse a dichas zonas pagando la totalidad de los derechos e impuestos correspondientes.
@@ -24,7 +26,7 @@ o No regirán para las importaciones que se efectúen en las provincias de Chilo
 
 Anualmente se podrá importar en las provincias de Chiloé, Aysen y Magallanes, artículos suntuarios hasta una cantidad equivalente al diez por ciento (10 %) del producto de las exportaciones totales de cada provincia en el año anterior.
 
-La Comisión de Cambios Internacionales, dentro de los primeros quince días del mes de Enero de cada año, fijará el monto de este porcentaje.
+El Banco Central de Chile, dentro de los primeros quince días del mes de Enero de cada año, fijará el monto de este porcentaje.
 
 La forma en que se distribuirá en Chiloé, Aysen y Magallanes la cuota para la importación de artículos suntuarios la fijará el reglamento para cada una de estas provincias.
 
@@ -32,13 +34,15 @@ El reglamento determinará la calidad de las mercaderías que, por las condicion
 
 La cuota de importación de artículos suntuarios que se establezca para la provincia de Magallanes no será inferior al diez por ciento de las exportaciones totales que se produzcan durante el primer año de vigencia de esta ley.
 
-Si por fijación de contingentes se redujeran las exportaciones, la Comisión de Cambios Internacionales autorizará importaciones de esta naturaleza con divisas del mercado libre bancario hasta enterar la cuota a que se refiere el inciso anterior.
+Si por fijación de contingentes se redujeran las exportaciones, el Banco Central de Chile autorizará importaciones de esta naturaleza con divisas del mercado libre bancario hasta enterar la cuota a que se refiere el inciso anterior.
 
 El ocultamiento en el retorno de divisas será sancionado de acuerdo con las disposiciones generales que se establezcan para el resto del país.
 
 Las disposiciones de esta ley relativas a las exportaciones no alteran las normas vigentes o que se establezcan sobre fijación de contingentes.
 
-En ningún caso, salvo los determinados por la presente ley, las importaciones que efectúen las provincias de Chiloé, Aysen y Magallanes podrán ser superiores al total de las exportaciones efectuadas en el año anterior. Para este efecto, la Comisión de Cambios Internacionales establecerá el control correspondiente.
+En ningún caso, salvo los determinados por la presente ley, las importaciones que efectúen las provincias de Chiloé, Aysen y Magallanes podrán ser superiores al total de las exportaciones efectuadas en el año anterior. Para este efecto, el Banco Central de Chile establecerá el control correspondiente.
+
+No obstante lo anterior, cuando en los presupuestos de importaciones de las provincias de Chiloé, Aysen y Magallanes, se produzcan déficit que puedan afectar su desarrollo, el Banco Central de Chile, podrá suplementar la importación de artículos esenciales y bienes de producción en las cantidades que determinen dichos déficit.
 
 #### Artículo 4
 
@@ -80,7 +84,7 @@ Lo anterior no se aplicará a los vehículos de pasajeros y de carga que transit
 
 #### Artículo 9
 
-o La Comisión de Cambios Internacionales deberá establecer agencias en las ciudades de Castro, Coyhaique y Punta Arenas.
+o el Banco Central de Chile deberá establecer agencias en las ciudades de Castro, Coyhaique y Punta Arenas.
 
 #### Artículo 10
 
@@ -100,7 +104,7 @@ o Las mercaderías extranjeras nacionalizadas con anterioridad a la vigencia de 
 
 #### Artículo 2
 
-o La Comisión de Cambios Internacionales fijará la cuota de divisas para importación de artículos suntuarios en las provincias de Chiloé, Aysen y Magallanes, para el año 1956 en la proporción correspondiente."
+o El Banco Central de Chile fijará la cuota de divisas para importación de artículos suntuarios en las provincias de Chiloé, Aysen y Magallanes, para el año 1956 en la proporción correspondiente.
 
 Por cuanto ha tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
