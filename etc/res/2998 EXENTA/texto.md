@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.998, de 20 de noviembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº201122025 presentada por SERVICIOS DE ACUICULTURA ACUIMAG S.A., para instalar y operar un centro de cultivo ubicado en Península Vicuña Mackenna, sector Estero Poca Esperanza, XII Región.
+
+Valparaíso, 20 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
