@@ -1,0 +1,3 @@
+Por decreto MOP Nº843, de 30 de abril del 2002, se expropió el lote de terreno Nº10-1, superficie 1.356 m2., rol de avalúo 868-1, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago Valparaíso Viña del Mar. Troncal Sur. Enlace Peñablanca Kms. 86.440,00 al 87.860,00, Quinta Región y se acordó el valor de indemnización con su propietaria Inmobiliaria Pulmahue S.A., ascendente a la cantidad de $13.376.115.- para el lote Nº10-1.
+
+Fiscal del Ministerio de Obras Públicas .
