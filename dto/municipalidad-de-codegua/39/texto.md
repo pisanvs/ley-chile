@@ -1,0 +1,9 @@
+EXPROPIA TERRENO QUE INDICA
+
+(Extracto)
+
+Por decreto N° 39 del 03 de Abril de 1986 de la Municipalidad de Codegua y en virtud de lo establecido en la letra b del art. 42 del decreto Ley N° 1.289 y lo dicho en el art. 4, 5 y 6 del decreto ley 2. 186, la resolución N° 343 del 08 de Julio de 1985 de la Intendencia VI Región, que autoriza a la Municipalidad de Codegua expropiar parte del Bien Raíz rol 14935 de Codegua, de propiedad de la sucesión Moisés Muñoz Santis, ubicada en la Estancilla de Codegua, de 9.800 m2 aprox. de superficie, inscrita a fojas 633 vta. N° 776 del año 1962 del Conservador de Rancagua, que deslinda Norte: Camino público; Sur con propiedad de Juan Reyes, antes Pablo García; Oriente con propiedad del vendedor y Poniente con Pedro Acevedo. Visto el informe de fecha 16 de Septiembre de 1985 de la Comisión integrada por los peritos: Eduardo Schonhaut Guendelman, Patricio Estrada Uribe y René Corval n, que fijó la suma de $ 352.800 (trescientos cincuenta y dos mil ochocientos pesos 100/00), como monto provisional de la indemnización.
+
+Decretase, la expropiación del lote N° 1 del plano de subdivisión agregado con el N° 114 al final del registro del año 1986 del Conservador de Rancagua que deslinda al Norte: en 120 mts. con camino Estancilla antes camino público; al sur, en 78 mts. con lote N° 2 del Bien Raíz que en parte se expropia, al Oriente en 103,15 mts. con propiedad transferida al SERVIU y Poniente en 118 mts. con calle 11 de Septiembre, antes Pedro Acevedo, cancélase, por el municipio la suma de $ 352.800 al contado, incrementado con el reajuste del art. 5° del decreto ley 2.186.
+
+José Luis Elorriaga Ochandiano, Alcalde de Codegua.
