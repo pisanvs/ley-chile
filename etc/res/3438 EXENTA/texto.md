@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.438, de 22 de diciembre de 2003, de esta Subsecretaría, autorízase a HINRICHSEN TRADING S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en sector La Playa, lote 2B, Fundo Las Gaviotas, Quintero, V Región en la línea de elaboración Harina, en recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 22 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
