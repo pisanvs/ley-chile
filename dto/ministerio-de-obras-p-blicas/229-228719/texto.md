@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 229, de 25 de septiembre de 1987, se expropió el lote N° 5 de expropiación, cuya superficie es 27.300 m2., rol de avalúo 141182, Comuna de San Vicente de Tagua-Tagua, alcantarillado de Aguas Servidas de San Vicente de Tagua-Tagua y se acordó el precio de indemnización con su propietario don José Luis Hemández Figueroa, ascendente a $ 4.564.492.
+
+Fiscal del Ministerio de Obras Públicas.
