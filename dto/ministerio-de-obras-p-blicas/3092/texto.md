@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.092, de 20 de octubre de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs. 11 y 12; para la obra: Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector B: Km. 42.950,00 al Km.
+
+55.200,00 Región Metropolitana, que figuran a nombre de Tudela Pena Corina de las, rol de avalúo 117-5, comuna de Paine, superficies 7.705 m2 y 1.416 m2, respectivamente. La Comisión de Peritos integrada por los señores Inés Elena Otárola Castillo, Juan Alfredo Díaz Velasco y Marlen Teresa Ríos Marcuello, fijó con fecha 12 de julio de 1999, el valor provisional de la indemnización en las cantidades de $71.314.750.- para el lote Nº 11 y de $10.014.200.- para el lote Nº 12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
