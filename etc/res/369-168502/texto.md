@@ -1,0 +1,3 @@
+Por resolución No. 369, de 3 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica numeral 3° de la Resolución No. 926, de 1990, de esta Subsecretaría, que autorizó a PESQUERA TUMBES S.A., R.U.T. No. 96.561.470-2, domiciliada en Concepción, para iniciar actividades pesqueras, en el sentido de autorizar con la embarcación "Tumbes I", la captura del recurso Albacora o pez espada, (Xiphias gladius), en el litoral de las Regiones I a X, con el arte de pesca enmalle.
+
+Valparaíso, 3 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
