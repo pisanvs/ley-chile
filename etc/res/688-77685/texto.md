@@ -1,0 +1,7 @@
+Por Resolución No. 688 de 24 de julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA ITATA S.A., RUT No.
+
+80.860.400-0, domiciliada en Santiago, Avda. 11 de Septiembre No. 2353, 7° piso, Providencia, Santiago, para ampliar actividades pesqueras que tiene autorizadas por Resoluciones No. 1.215, de 1989 y No. 789, de 1991, ambas de esta Subsecretaria, en orden a operar la embarcación denominada "Toltén", individualizada en las Resoluciones señaladas precedentemente, en el litoral de la V a VII, IX y X Región, donde podrá extraer con cerco, los siguientes recursos hidrobiológicos: Sardina común y Merluza de cola. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria, para realizar actividades de pesca extractiva respecto de los recursos hidrobiológicos no señalados en el texto de la presente Resolución, en virtud de los informes técnicos y normas legales y reglamentarias señaladas en los Vistos, particularmente la Resolución No. 1.529, de 1991, de esta Subsecretaría y el Artículo 19 letra c) del DS No.430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, que fijó el texto refundido, coordinado y sistematizado de la Ley No. 18.892 y sus modificaciones contenidas en las Leyes No. 19.079 y No. 19.080.
+
+Valparaíso, 24 de julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
