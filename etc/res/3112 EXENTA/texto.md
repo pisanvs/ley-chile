@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.112, de 28 de noviembre de 2003, de esta Subsecretaría, amplíase por el término de un año, contado desde el 18 de noviembre de 2003, el plazo otorgado a AQUACHILE S.A. para iniciar operaciones en la piscicultura autorizada por resolución Nº 2.296, de 2002, de esta Subsecretaría, ubicada en Quetroleufú, IX Región.
+
+Valparaíso, 28 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
