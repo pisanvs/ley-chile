@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.589, de fecha 29 de septiembre del 2000, se expropió el lote de terreno Nº174, superficie 240, rol de avalúo 69-36, comuna de Teno, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal-La Montaña, Km. 0,220 a Km. 25,000" y se acordó el valor de indemnización con su propietaria Delfina de las M. Duarte Catalán y Otro, ascendente a la cantidad de $628.720.-
+
+Fiscal del Ministerio de Obras Públicas.
