@@ -1,0 +1,785 @@
+FIJA COEFICIENTES DE DISTRIBUCION DEL FONDO COMUN MUNICIPAL PARA EL TRIENIO 1987-1989 Y LOS COEFICIENTES DE DISTRIBUCION DEL SUPLEMENTO DEL FONDO COMUN MUNICIPAL PARA EL AÑO 1987
+
+Santiago, 6 de Marzo de 1987.- Hoy se decretó lo que sigue:
+
+Núm. 346.- Vistos: Lo dispuesto por los artículos N° 36, 37 y 38 del Decreto Ley N° 3.063, de 1979; el Decreto que aprueba el reglamento para la aplicación de los artículos 35, 36, 37, 38 y 61 del Decreto Ley N° 3.063 de 1979; y las facultades que me confiere el artículo 32, N° 8 de la Constitución Política de la República,
+
+Decreto:
+
+#### Artículo 1°
+
+Fíjase para el trienio comprendido por los años 1987, 1988 y 1989 los coeficientes de distribución del Fondo Común Municipal y para el año 1987 los coeficientes de distribución del suplemento del Fondo Común Municipal.
+
+#### Artículo 2°
+
+Para el presente año el Ministerio del Interior destinará la totalidad del 10% para financiar los déficit que presenten las Municipalidades en relación a sus gastos de operación.
+
+-------------------------------------------------------
+
+Monto
+
+Menor
+
+Ingreso
+
+Déficit Coeficiente
+
+Coeficiente Operacional Suplemento
+
+Fondo Común Ajustado 1987
+
+Región Municipalidad Municipal (M$) (10%)
+
+-------------------------------------------------------
+
+I Arica 0.0088075 119224 0.0794827
+
+Camarones 0.0004727 4629 0.0030860
+
+Putre 0.0015057 0 0.0000000
+
+General Lagos 0.0003546 10161 0.0067740
+
+Iquique 0.0056295 34863 0.0232420
+
+Huara 0.0008894 0 0.0000000
+
+Camiña 0.0006139 3437 0.0022913
+
+Colchane 0.0005848 5753 0.0038353
+
+Pica 0.0008674 4266 0.0028440
+
+Pozo Almonte 0.0010178 15181 0.0101207
+
+II Tocopilla 0.0016019 34070 0.0227133
+
+María Elena 0.0013663 0 0.0000000
+
+Calama 0.0055822 79649 0.0530993
+
+Ollague 0.0003226 8362 0.0055747
+
+San Pedro de
+
+Atacama 0.0008505 942 0.0006280
+
+Antofagasta 0.0123421 52198 0.0347987
+
+Mejillones 0.0005360 4241 0.0028273
+
+Sierra Gorda 0.0003566 4059 0.0027060
+
+Taltal 0.0007333 11908 0.0079387
+
+III Chañaral 0.0009000 18801 0.0125340
+
+D. de Almagro 0.0018543 4851 0.0032340
+
+Copiapó 0.0063573 0 0.0000000
+
+Caldera 0.0009118 2569 0.0017127
+
+Tierra
+
+Amarilla 0.0007175 10067 0.0067113
+
+Vallenar 0.0040220 1416 0.0009440
+
+Freirina 0.0006554 9979 0.0066527
+
+Huasco 0.0010078 6214 0.0041427
+
+Alto del
+
+Carmen 0.0012440 2318 0.0015453
+
+IV La Serena 0.0068682 78388 0.0522587
+
+La Higuera 0.0006693 8998 0.0059987
+
+Coquimbo 0.0081720 6215 0.0041433
+
+Andacollo 0.0009794 9603 0.0064020
+
+Vicuña 0.0018483 0 0.0000000
+
+Paihuano 0.0007698 2060 0.0013733
+
+Ovalle 0.0061878 31718 0.0211453
+
+Río Hurtado 0.0009032 2300 0.0015333
+
+Monte Patria 0.0037892 0 0.0000000
+
+Combarbalá 0.0020030 0 0.0000000
+
+Punitaqui 0.0012895 911 0.0006073
+
+Illapel 0.0027405 1842 0.0012280
+
+Salamanca 0.0024817 6811 0.0045407
+
+Los Vilos 0.0012157 9344 0.0062293
+
+Mincha 0.0017885 0 0.0000000
+
+V La Ligua 0.0015363 6227 0.0041513
+
+Petorca 0.0013166 0 0.0000000
+
+Cabildo 0.0016201 0 0.0000000
+
+Zapallar 0.0006452 1031 0.0006873
+
+Papudo 0.0004949 3090 0.0020600
+
+Los Andes 0.0023634 16732 0.0111547
+
+San Esteban 0.0007258 0 0.0000000
+
+Calle Larga 0.0008425 0 0.0000000
+
+Rinconada 0.0004783 0 0.0000000
+
+San Felipe 0.0024606 0 0.0000000
+
+Putaendo 0.0015323 0 0.0000000
+
+Santa María 0.007339 0 0.0000000
+
+Panquehue 0.0004598 0 0.0000000
+
+Llay Llay 0.0016943 0 0.0000000
+
+Catemu 0.0009183 0 0.0000000
+
+Quillota 0.0043151 15845 0.0105633
+
+La Cruz 0.0009310 3117 0.0020780
+
+Caldera 0.0029601 5817 0.0038780
+
+Nogales 0.0013077 1078 0.0007187
+
+Hijuelas 0.0011375 2975 0.0019833
+
+Limache 0.0033705 290 0.0001933
+
+Olmué 0.0016679 1756 0.0011707
+
+Valparaíso 0.0128108 69928 0.0466187
+
+Viña del Mar 0.0121248 35210 0.0234733
+
+Quintero 0.0018033 2873 0.0019153
+
+Puchuncaví 0.0016797 0 0.0000000
+
+Quilpué 0.0100985 4794 0.0031960
+
+Villa Alemana 0.0067413 0 0.0000000
+
+Casablanca 0.0008178 6765 0.0045100
+
+Juan
+
+Fernández 0.0003503 7465 0.0049767
+
+San Antonio 0.0051171 18159 0.0121060
+
+Cartagena 0.0014851 720 0.0004800
+
+El Tabo 0.0011045 0 0.0000000
+
+El Quisco 0.0009247 6930 0.0046200
+
+Algarrobo 0.0008074 837 0.0005580
+
+Santo Domingo 0.0005817 2492 0.0016613
+
+Isla de
+
+Pascua 0.0005572 32446 0.0216307
+
+VI Rancagua 0.0074516 3736 0.0024907
+
+Graneros 0.0012866 1984 0.0013227
+
+Mostazal 0.0009817 0 0.0000000
+
+Codegua 0.0005757 0 0.0000000
+
+Machalí 0.0010684 1477 0.0009847
+
+Olivar 0.0006373 0 0.0000000
+
+Requínoa 0.0007856 0 0.0000000
+
+Rengo 0.0016760 5588 0.0037253
+
+Malloa 0.0008150 0 0.0000000
+
+Qta. de
+
+Tilcoco 0.0006310 0 0.0000000
+
+Sn. Vte.Tagua
+
+T. 0.0016898 0 0.0000000
+
+Pichidegua 0.0012261 750 0.0005000
+
+Peumo 0.0007154 2347 0.0015647
+
+Coltauco 0.0013043 586 0.0003907
+
+Coinco 0.0007101 0 0.0000000
+
+Doñihue 0.0020193 0 0.0000000
+
+Las Cabras 0.0011203 798 0.0005320
+
+San Fernando 0.0022960 3715 0.0024767
+
+Chimbarongo 0.0021105 0 0.0000000
+
+Placilla 0.0008415 1537 0.0010247
+
+Nancagua 0.0010326 0 0.0000000
+
+Chépica 0.0011902 869 0.0005793
+
+Santa Cruz 0.0021586 494 0.0003293
+
+Lolol 0.0009583 0 0.0000000
+
+Pumanque 0.0007136 0 0.0000000
+
+Palmilla 0.0008949 0 0.0000000
+
+Peralillo 0.0009126 1938 0.0012920
+
+Pichilemu 0.0023444 0 0.0000000
+
+Navidad 0.0015949 0 0.0000000
+
+Litueche 0.0007048 2787 0.0018580
+
+La Estrella 0.0004935 6086 0.0040573
+
+Marchigüe 0.0008689 3620 0.0024133
+
+Paredones 0.0012116 0 0.0000000
+
+VII Curicó 0.0041616 14257 0.0095047
+
+Teno 0.0010254 1538 0.0010253
+
+Romeral 0.0006111 0 0.0000000
+
+Molina 0.0029265 99 0.0000660
+
+Sagrada
+
+Familia 0.0017679 0 0.0000000
+
+Hualañé 0.0009053 0 0.0000000
+
+Licantén 0.0008164 8431 0.0056207
+
+Vichuquén 0.0005785 0 0.0000000
+
+Rauco 0.0007755 3912 0.0026080
+
+Talca 0.0096088 0 0.0000000
+
+Pelarco 0.0010208 0 0.0000000
+
+Río Claro 0.0010544 0 0.0000000
+
+San Clemente 0.0023865 4749 0.0031660
+
+Maule 0.0014510 0 0.0000000
+
+Empedrado 0.0009853 0 0.0000000
+
+Pencahue 0.0010699 9724 0.0064827
+
+Constitución 0.0036361 0 0.0000000
+
+Curepto 0.0025055 0 0.0000000
+
+Linares 0.0037557 14655 0.0097700
+
+Yerbas Buenas 0.0015222 0 0.0000000
+
+Colbún 0.0015614 0 0.0000000
+
+Longaví 0.0024511 0 0.0000000
+
+Parral 0.0030423 0 0.0000000
+
+Retiro 0.0016943 0 0.0000000
+
+Villa Alegre 0.0017021 1015 0.0006767
+
+San Javier 0.0035961 0 0.0000000
+
+Cauquenes 0.0049678 0 0.0000000
+
+Chanco 0.0013260 329 0.0002193
+
+Pelluhue 0.0014273 0 0.0000000
+
+VIII Chillán 0.0088541 2293 0.0015287
+
+San Carlos 0.0033377 0 0.0000000
+
+Ñiquén 0.0018413 0 0.0000000
+
+San Fabián 0.0008820 319 0.0002127
+
+Coihueco 0.0028195 0 0.0000000
+
+Pinto 0.0016616 0 0.0000000
+
+San Ignacio 0.0023217 0 0.0000000
+
+El Carmen 0.0021052 0 0.0000000
+
+Yungay 0.0015889 0 0.0000000
+
+Pemuco 0.0011160 0 0.0000000
+
+Bulnes 0.0014452 1075 0.0007167
+
+Quillón 0.0024014 0 0.0000000
+
+Ranquil 0.0014017 0 0.0000000
+
+Portezuelo 0.0012746 0 0.0000000
+
+Coelemu 0.0020867 0 0.0000000
+
+Trehuaco 0.0013528 0 0.0000000
+
+Cobquecura 0.0013189 0 0.0000000
+
+Quirihue 0.0017400 0 0.0000000
+
+Ninhue 0.0015934 0 0.0000000
+
+San Nicolás 0.0007682 0 0.0000000
+
+Los Angeles 0.0092179 2283 0.0015220
+
+Cabrero 0.0019625 0 0.0000000
+
+Tucapel 0.0016806 0 0.0000000
+
+Antuco 0.0005225 2647 0.0017647
+
+Quilleco 0.0011931 0 0.0000000
+
+Santa Bárbara 0.0016903 0 0.0000000
+
+Quilaco 0.0006328 4858 0.0032387
+
+Mulchén 0.0019515 267 0.0001780
+
+Negrete 0.0004986 2626 0.0017507
+
+Nacimiento 0.0027186 0 0.0000000
+
+Laja 0.0023006 0 0.0000000
+
+San Rosendo 0.0009037 3314 0.0022093
+
+Yumbel 0.0037692 0 0.0000000
+
+Concepción 0.0096929 69280 0.0461867
+
+Talcahuano 0.0183782 3043 0.0020287
+
+Penco 0.0035013 0 0.0000000
+
+Tomé 0.0069336 0 0.0000000
+
+Florida 0.0015497 0 0.0000000
+
+Hualqui 0.0023780 0 0.0000000
+
+Santa Juana 0.0021876 0 0.0000000
+
+Lota 0.0048639 16471 0.0109807
+
+Coronel 0.0111190 0 0.0000000
+
+Lebu 0.0023195 0 0.0000000
+
+Arauco 0.0020863 0 0.0000000
+
+Curanilahue 0.0029327 0 0.0000000
+
+Los Alamos 0.0016078 0 0.0000000
+
+Cañete 0.0021099 930 0.0006200
+
+Contulmo 0.0021553 0 0.0000000
+
+Tirúa 0.0012340 0 0.0000000
+
+IX Angol 0.0049368 0 0.0000000
+
+Renaico 0.0010358 0 0.0000000
+
+Collipulli 0.0016142 0 0.0000000
+
+Lonquimay 0.0012760 1565 0.0010433
+
+Curacautín 0.0017048 0 0.0000000
+
+Ercilla 0.0009254 1409 0.0009393
+
+Victoria 0.0018261 9011 0.0060073
+
+Traiguén 0.0014218 2089 0.0013927
+
+Lumaco 0.0016704 0 0.0000000
+
+Purén 0.0019314 0 0.0000000
+
+Los Sauces 0.0012064 0 0.0000000
+
+Temuco 0.0153939 0 0.0000000
+
+Lautaro 0.0024691 0 0.0000000
+
+Perquenco 0.0006386 0 0.0000000
+
+Vilcún 0.0015761 1131 0.0007540
+
+Cunco 0.0016406 0 0.0000000
+
+Melipeuco 0.0009008 2453 0.0016353
+
+Curarrehue 0.0006965 1297 0.0008647
+
+Pucón 0.0019655 0 0.0000000
+
+Villarrica 0.0039945 0 0.0000000
+
+Freire 0.0016317 0 0.0000000
+
+Pitrufquén 0.0020953 0 0.0000000
+
+Gorbea 0.0017267 0 0.0000000
+
+Loncoche 0.0024335 0 0.0000000
+
+Toltén 0.0018606 0 0.0000000
+
+Teodoro
+
+Schmidt 0.0017227 0 0.0000000
+
+Saavedra 0.0022933 0 0.0000000
+
+Carahue 0.0033317 0 0.0000000
+
+Nueva
+
+Imperial 0.0041261 0 0.0000000
+
+Galvarino 0.0017458 0 0.0000000
+
+X Valdivia 0.0079808 4565 0.0030433
+
+San José
+
+Mariquina 0.0018356 0 0.0000000
+
+Lanco 0.0015014 0 0.0000000
+
+Los Lagos 0.0013042 0 0.0000000
+
+Futrono 0.0009249 19 0.0000127
+
+Corral 0.0012005 0 0.0000000
+
+Máfil 0.0005087 1218 0.0008120
+
+Panguipulli 0.0036856 0 0.0000000
+
+La Unión 0.0023841 1063 0.0007087
+
+Paillaco 0.0012583 0 0.0000000
+
+Río Bueno 0.0012775 2264 0.0015093
+
+Lago Ranco 0.0012172 0 0.0000000
+
+Osorno 0.0041389 0 0.0000000
+
+San Pablo 0.0006741 0 0.0000000
+
+Entre Lagos 0.0006408 0 0.0000000
+
+Puerto Octay 0.0005668 0 0.0000000
+
+Purranque 0.0009408 0 0.0000000
+
+Río Negro 0.0008091 744 0.0004960
+
+San Juan
+
+Costa 0.0012471 0 0.0000000
+
+Puerto Montt 0.0085216 0 0.0000000
+
+Puerto Varas 0.0010150 0 0.0000000
+
+Cochamó 0.0007253 4937 0.0032913
+
+Calbuco 0.0033724 0 0.0000000
+
+Maullín 0.0009372 3349 0.0022327
+
+Los Muermos 0.0010588 1137 0.0007580
+
+Fresia 0.0006958 16762 0.0111747
+
+Llanquihue 0.0009624 0 0.0000000
+
+Frutillar 0.0006518 0 0.0000000
+
+Castro 0.0037811 0 0.0000000
+
+Ancud 0.0024248 9823 0.0065487
+
+Quemchi 0.0017708 0 0.0000000
+
+Dalcahue 0.0013554 0 0.0000000
+
+Curaco de
+
+Vélez 0.0010297 0 0.0000000
+
+Quinchao 0.0022125 0 0.0000000
+
+Puqueldón 0.0009086 4179 0.0027860
+
+Chonchi 0.0014848 451 0.0003007
+
+Queilén 0.0010541 1062 0.0007080
+
+Quellón 0.0017861 0 0.0000000
+
+Chaitén 0.0012739 0 0.0000000
+
+Hualaihué 0.0009997 0 0.0000000
+
+Futaleufú 0.0005439 3718 0.0024787
+
+Palena 0.0005146 6045 0.0040300
+
+XI Coyhaique 0.0022197 12532 0.0083547
+
+Lago Verde 0.0004354 1654 0.0011027
+
+Aysén 0.0020345 9302 0.0062013
+
+Cisnes 0.0010117 4666 0.0031107
+
+Guaitecas 0.0004113 4218 0.0028120
+
+Chile Chico 0.0005930 8005 0.0053367
+
+Río Ibáñez 0.0007535 313 0.0002087
+
+Cochrane 0.0004336 3687 0.0024580
+
+O'Higgins 0.0003471 3753 0.0025020
+
+Tortel 0.0003182 5671 0.0037807
+
+XII Natales 0.0019609 1978 0.0013187
+
+Torres del
+
+Paine 0.0003156 2145 0.0014300
+
+Punta Arenas 0.0045950 0 0.0000000
+
+Río Verde 0.0003098 2921 0.0019473
+
+Laguna Blanca 0.0003141 3696 0.0024640
+
+San Gregorio 0.0003516 7842 0.0052280
+
+Porvenir 0.0006669 12258 0.0081720
+
+Primavera 0.0003448 1157 0.0007713
+
+Timaukel 0.0003186 6256 0.0041707
+
+Navarino 0.0004826 13211 0.0088073
+
+Antártica 0.0003075 0 0.0000000
+
+R.M. Santiago 0.0087555 40965 0.0273103
+
+Independencia 0.0042011 14581 0.0097207
+
+Conchalí 0.0197801 5336 0.0035573
+
+Huechuraba 0.0096444 0 0.0000000
+
+Recoleta 0.0129929 0 0.0000000
+
+Providencia 0.0027448 0 0.0000000
+
+Vitacura 0.0015967 0 0.0000000
+
+Lo Barnechea 0.0010138 0 0.0000000
+
+Las Condes 0.0042453 0 0.0000000
+
+Ñuñoa 0.0053957 13313 0.0088753
+
+La Reina 0.0024370 0 0.0000000
+
+Macul 0.0088222 10092 0.0067280
+
+Peñalolén 0.0204565 0 0.0000000
+
+La Florida 0.0271688 2283 0.0015220
+
+San Joaquín 0.0069166 33867 0.0225780
+
+La Granja 0.0126231 10070 0.0067133
+
+La Pintana 0.0200320 0 0.0000000
+
+San Ramón 0.0157130 0 0.0000000
+
+San Miguel 0.0028726 6087 0.0040580
+
+La Cisterna 0.0036215 55480 0.0369867
+
+El Bosque 0.0211906 0 0.0000000
+
+Pedro Aguirre
+
+Cerda 0.0159641 0 0.0000000
+
+Lo Espejo 0.0136007 0 0.0000000
+
+Estación
+
+Central 0.0131935 0 0.0000000
+
+Cerrillos 0.0029682 0 0.0000000
+
+Maipú 0.0065192 2283 0.0015220
+
+Quinta Normal 0.0062689 27986 0.0186573
+
+Lo Prado 0.0154601 0 0.0000000
+
+Pudahuel 0.0127700 0 0.0000000
+
+Cerro Navia 0.0227787 0 0.0000000
+
+Renca 0.0101623 0 0.0000000
+
+Quilicura 0.0014705 0 0.0000000
+
+Colina 0.0027819 743 0.0004953
+
+Lampa 0.0016997 0 0.0000000
+
+Til-Til 0.0007734 289 0.0001927
+
+Puente Alto 0.0135929 0 0.0000000
+
+San José
+
+Maipo 0.0009063 378 0.0002520
+
+Pirque 0.0005690 0 0.0000000
+
+San Bernardo 0.0138674 8326 0.0055507
+
+Buin 0.0017158 0 0.0000000
+
+Paine 0.0012100 4480 0.0029867
+
+Calera de
+
+Tango 0.0005079 0 0.0000000
+
+Melipilla 0.0031525 1521 0.0010140
+
+María Pinto 0.0005110 1580 0.0010533
+
+Curacaví 0.0008183 0 0.0000000
+
+Alhué 0.0004525 7328 0.0048853
+
+San Pedro 0.0008844 0 0.0000000
+
+Talagante 0.0014939 2675 0.0017833
+
+Peñaflor 0.0055734 0 0.0000000
+
+Isla de Maipo 0.0012415 4428 0.0029520
+
+El Monte 0.0016899 0 0.0000000
+
+#### Artículo 3°
+
+Mientras no se instalen las Municipalidades cuyas comunas fueron creadas mediante el D.F.L. N° 1-3.260 de 1981, los recursos correspondientes al Fondo Común Municipal para el trienio 1987, 1988 y 1989, se distribuirán a partir de la fecha de vigencia del presente decreto, entre las respectivas comunas originarias de acuerdo a los siguientes porcentajes:
+
+Comuna Derivada Comuna Originaria Porcentaje
+
+de
+
+Distribución
+
+Independencia Santiago 60,76
+
+Conchaí 20,09
+
+Renca 19,15
+
+Recoleta Santiago 30,28
+
+Conchalí 69,72
+
+Pedro Aguirre
+
+Cerda San Miguel 70,96
+
+La Cisterna 28,99
+
+Santiago 0,05
+
+Lo Espejo La Cisterna 83,74
+
+Santiago 16,26
+
+Maipú 0,00
+
+Cerrillos Maipú 82,43
+
+Santiago 17,57
+
+El Bosque La Cisterna 55,56
+
+San Bernardo 44,44
+
+Tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, Capitán General, Presidente de la República.- Ricardo García Rodríguez, Ministro del Interior.
+
+Lo que transcribo a Ud. para su conocimiento y demás fines.- Saluda atentamente a Ud.- Luis Patricio Serre Ochsenius, Brigadier General, Subsecretario de Desarrollo Regional y Administrativo.
