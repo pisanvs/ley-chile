@@ -1,0 +1,3 @@
+Por decreto MOP No. 350, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 11, 13, 14 y 36, superficie 398,2; 2.199,2; 1.313,1 y 249,7 m2, roles de avalúo 2202-60 y 2201-37, comuna de Puerto Montt, obra Camino Ruta 7, Sector Chamiza - Quillaipe, y se acordó precio de indemnización con sus propietarios don Ramón Segundo Almonacid Olavarría y Atilio Gonz lez, ascendente a las cantidades de $ 4.215.189.- lotes 11, 13 y 14 y $ 386.929.- lote 36.-
+
+Fiscal del Ministerio de Obras Públicas.
