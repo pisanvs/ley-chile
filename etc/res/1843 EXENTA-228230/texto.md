@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.843, de 8 de julio de 2004 de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº943 de 2004, de esta Subsecretaría que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, SEDE COQUIMBO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la pesca de Cabinza (Isacia conceptionis), realizada por la flota pesquera artesanal de Coquimbo", en el sentido de reemplazar la embarcación artesanal "Doña Anita" por la embarcación artesanal "Anita II", en la nómina de naves participantes en la presente pesca de investigación.
+
+Valparaíso, 8 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
