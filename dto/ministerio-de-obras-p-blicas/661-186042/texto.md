@@ -1,0 +1,3 @@
+Por decreto MOP Nº 661, de 12 de abril de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 33, para la obra Camino Ruta L-31, sector Polvorines-La Floresta Tramo Km. 0,00000 al 15,48000, que figura a nombre de Crisologo Adolfo León Avendaño, rol de avalúo 543-63, comuna de Linares, superficie 264 m². La Comisión de Peritos fijó con fecha 10 de febrero de 2000, en la cantidad de $11.333.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
