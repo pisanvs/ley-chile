@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 38, de 28 de febrero de 1991, se expropiaron los lotes N°s. 17 y 20, superficies 156 y 47 m2. roles de avalúo 415-163 y 212-238, Comuna de Chimbarongo, para la obra Camino Longitudinal Sur, Sector San Fernando - Chimbarongo, acceso San Juan de la Sierra y acceso Santa Isabel y se acordó el precio de indemnización con sus propietarios señor Rafael del Carmen Díaz Madariaga y señora Claudia García Michelini, ascendentes a las cantidades de $ 134.320 y $ 127.397, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
