@@ -1,0 +1,3 @@
+Certifico que por resolución NºE-144-98, de fecha 16 de abril de 1998, se autorizó la modificación de los estatutos de ''Magister Internacional S.A.'', que consta del acta de la segunda junta extraordinaria de accionistas celebrada con fecha 20 de marzo de 1998, reducida a escritura pública otorgada con fecha 2 de abril de 1998 en la Notaría de Santiago de don Juan Ricardo San Martín Urrejola.
+
+Santiago, 16 de abril de 1998.- Andrés Cúneo Macchiavello, Superintendente Subrogante.Ministerio de Transportes y Telecomunicaciones
