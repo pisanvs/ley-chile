@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.114 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 42, superficie 7.457 m2, Rol de Avalúo Nº 608-24, comuna de San Ignacio, para la obra: "Proyecto Laja Diguillín, Canal Matriz Diguillín-Larqui Km. 6,416 a Km. 11,893", Comuna de San Ignacio, Provincia de Ñuble, VIII Región y se acordó el valor de indemnización con su propietario Tulio Ramón Cartes Aedo, ascendente a la cantidad de $5.287.853.
+
+Fiscal del Ministerio de Obras Públicas.
