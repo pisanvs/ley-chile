@@ -1,0 +1,3 @@
+Por decreto MOP Nº 817, de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 82-B, superficie 27 m², Rol Nº 159-101, comuna de Ranquil, VIII Región, para la obra "Camino Ruta O - 66-N, Sector Nueva Aldea - Ñipas, Tramo II Km. 5,57900 a 10,19480, y se acordó el valor de indemnización con su propietario Mario Roberto Fissore León y Otras, ascendente a la cantidad de $31.459.725.-
+
+Fiscal del Ministerio de Obras Públicas.
