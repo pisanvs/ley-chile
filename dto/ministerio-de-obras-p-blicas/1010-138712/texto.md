@@ -1,0 +1,3 @@
+Por decreto MOP No. 1010, de 29 de abril de 1999, se expropiaron los lotes de terreno No. s.10-A y 10-B, superficies 2.679,54 y 6.028,08 M2., rol de avalúo 9317-1 de la comuna de Valparaíso, para la obra Habilitación Nuevo Camino La Pólvora Etapa I, Sector Ruta 68-Acceso Sur a Valparaíso, Camino La Pólvora Rol F-724-F-730, Sector Placilla-Puertas Negras y se acordó precio de indemnización con su propietario Santiago Marín Muñoz, ascendente a la cantidad de $ 11.286.222, para el lote 10-A y $ 32.629.326, para el lote 10-B.-
+
+Fiscal del Ministerio de Obras Públicas.
