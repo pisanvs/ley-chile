@@ -1,0 +1,9 @@
+FIJA TARIFA DE USO DE MUELLE-NAVE EN SITIO N°1 DEL PUERTO DE TALCAHUANO A NAVES ROLL-ON-ROLL-OFF Núm. 160.- Valparaíso, 6 de Diciembre de 1993.- Vistos: Las recomendaciones de la Administración de Puerto de Talcahuano/San Vicente, contenidas en Ordinario N°456, de 08.11.93, por el cual solicita una tarifa Rebajada de Uso de Muelle, para naves del tipo Roll-on-Roll-off que deban atracar al sitio N°1, de popa al muelle en el puerto de Talcahuano; que es preciso optimizar el uso de la infraestructura portuaria; que el atraque de popa producirá una disminución de las horas de espera de las naves; que se evitará costos adicionales de operación de las cargas, la importancia de mantener tarifas portuarias para todos los usuarios del puerto, en todos los sitios del mismo, el Capítulo II, artículo N° 11 del D.S. (TT. y TT.) N°125/60, que autoriza al Director de la Empresa a establecer valores tarifarios inferiores a los máximos fijados; la facultad que me confiere el N°1 del artículo N°14 del D.S. (TT. y TT.) N°91/78, que fijó el texto refundido, coordinado y sistematizado de la Ley Orgánica de la Empresa Portuaria de Chile, aprobada por el D.F.L. N°290, de 1960, dicto la siguiente:
+
+Resolución:
+
+1.- Fíjase la tarifa de Uso de Muelle a la Nave en US$ 1,05 por metro eslora por hora de estadía, para las naves comerciales Roll- on-Roll-off, que atraquen de popa al sitio N°1 del Puerto de Talcahuano.
+
+2.- La vigencia de la presente Resolución será a contar de la fecha de su publicación en el Diario Oficial.
+
+Anótese, remítase a la Contraloría General para su toma de razón, regístrese y publíquese.- Raúl Urzúa Marambio, Director.
