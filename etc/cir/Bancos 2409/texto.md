@@ -10058,7 +10058,21 @@ Para efectos de clasificación de la cartera, se considerará el monto registrad
 
 Los créditos de que se trata, deben ser considerados individualmente, por el importe registrado en cuentas de orden, para los efectos del cumplimiento de los límites de crédito a que se refiere el artículo 84 de la Ley General de Bancos.
 
-### VII. DISPOSICIONES TRANSITORIAS
+VII.-CREDITOS RECOMPRADOS AL BANCO CENTRAL DE CHILE.
+
+1.- Registro de los créditos en cuentas de orden.
+
+Los créditos restituidos por el Banco Central de Chile a las instituciones financieras, con motivo de la novación de la obligación de recompra de la cartera cedida al Instituto Emisor, efectuada en el año 1989, se mantendrán registrados en sus respectivas monedas en las cuentas de orden "Créditos recomprados al Banco Central - vigentes" o "Créditos recomprados al Banco Central - vencidos", de la partida 9135. En la segunda cuenta se incluirán aquellos créditos que cumplan las condiciones que obligarían a traspasarlos a cartera vencida si estuviesen registrados en el activo, de acuerdo con lo dispuesto en el Capítulo 8-26 de esta Recopilación.
+
+Las colocaciones registradas en la cuenta "Créditos recomprados al Banco Central - vigentes" incluirán los intereses y reajustes devengados hasta el cierre de cada mes, en tanto que las colocaciones de la cuenta "Créditos recomprados al Banco Central - vencidos" incluirán los intereses y reajustes devengados hasta la fecha de vencimiento.
+
+En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese registrado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones del numeral 4.1 del título IV de dicho Capítulo.
+
+2.- Límites de crédito.
+
+Los créditos de que se trata, deben ser considerados individualmente, por el importe registrado en cuentas de orden, para los efectos del cumplimiento de los límites de crédito a que se refiere el artículo 84 de la Ley General de Bancos.
+
+### VIII. DISPOSICIONES TRANSITORIAS
 
 ### 1. Vigencia de las normas contables
 
