@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 153 de 31 de marzo de 2003, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto exento MOP Nº 742, de 31 de mayo de 2001, en la parte que se refiere al Convenio Directo de Precio Ad-Referendum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 1, fijada por la Comisión de Peritos, con fecha 3 de agosto de 1999, ascendente a la cantidad de $886.500.
+
+Fiscal del Ministerio de Obras Públicas.
