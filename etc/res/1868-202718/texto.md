@@ -1,0 +1,3 @@
+Por resolución Nº 1.868, de 30 de agosto de 2002, modifícase el numeral 4º de la resolución Nº 1.762 de 2002, modificada mediante resolución Nº 1.800 de 2002, ambas de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2002-10 denominado "Evaluación del stock desovante de anchoveta por el método de producción de huevos en la I y II Regiones, año 2002", en el sentido de reemplazar la nave "Salmón" por la nave "Intrépido", ambas de propiedad de Corpesca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 30 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
