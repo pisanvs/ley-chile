@@ -1,0 +1,3 @@
+Por decreto MOP Nº 578, de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº 112, superficie 3.402 m², rol de avalúo 2026-27, comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0,00000 a Km. 14,23039" y se acordó el valor de indemnización con su propietario Aurelio Rodríguez Sommers, ascendente a la cantidad de $18.451.280.-
+
+Fiscal del Ministerio de Obras Públicas.
