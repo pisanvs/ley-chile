@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.360, de fecha 31 de octubre de 2003, se expropiaron los lotes de terreno Nºs. 26-B, 27-B y 29, superficies 22, 450 y 321 m² respectivamente, rol Nº 34-20, comuna de Paredones, para la obra "Camino Mejoramiento Ruta I-72, sector Paredones - Bucalemu, tramo Km. 27,400 a Km. 43,100", VI Región y se acordó el valor de la indemnización con su propietario Florentino Antonio Pastene Pastene, ascendente a la cantidad de $1.601.007.
+
+- Fiscal del Ministerio de Obras Públicas.
