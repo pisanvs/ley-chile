@@ -16,8 +16,6 @@ Artículo l.o Se establece, de acuerdo con el artículo l.o de la lei número 17
 
 La fiebre carbunclosa o carbunclo bacteridiano, en todas las especies;
 
-La Brucelosis;
-
 El carbunclo sintomático, en la especie, bovina;
 
 La sarna, en las especies bovina y caprina;
@@ -39,8 +37,6 @@ Le perineumonía contajiosa, en la especie bovina;
 El muermo y la durina, en la especie, equina; y
 
 La viruela ovina.
-
-Garrapata Ovina" (Melophagus ovinus).
 
 El Presidente de la República agregará o suprimirá de la lista anterior, las enfermedades que estime convenientes, prévio el informe del Consejo de Epizootias.
 
