@@ -26,7 +26,7 @@ El exceso máximo de aire (EA) para los combustibles que a continuación se indi
 
 Combustibles EA (%)
 
-Fuel Oil 2 (Diesel grados A1 y A2) 20
+Fuel Oil 2(Diesel Grados A1 y A2) 20
 
 Fuel Oil 5 40
 
@@ -38,17 +38,17 @@ Carbón pulverizado 50
 
 Leña trozos y astillas 150
 
-Gas licuado 5
+Gas licuado 10
 
 Kerosene 20
 
 Aserrín 150
 
-Gas natural 5
+Gas Natural 10
 
-Biogás 5
+Biogás 10
 
-Gas de ciudad 5
+Gas de ciudad 10
 
 Las concentraciones de aquellas fuentes emisoras de material particulado, que presenten excesos de aire superiores a los mencionados precedentemente deberán corregirse, para efectos de lo establecido en el decreto supremo N° 32, de 1990, del Ministerio de Salud, de acuerdo a la siguiente expresión:
 
