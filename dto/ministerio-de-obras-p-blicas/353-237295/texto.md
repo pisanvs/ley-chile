@@ -1,0 +1,5 @@
+Por decreto M.O.P. N° 353, de 24 de mayo de 1996, y en base a la facultad otorgada por el artículo 105 del decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 23-A, para la obra Camino Longitudinal Sur Ruta 5, Sector By Pass Chillán, Km. 0.000.00 a Km.
+
+8.276.52, que figura a nombre de Ramón Vidal Cifuentes, rol de avalúo 2206-40, Comuna de Chillan, VIII Región, superficie 1.551 m2. La Comisión de Peritos compuesta por los señores José M. Gálvez Alegría, Ramón Jofré Soto y Manuel Conchas Rojas, fijó con fecha 8 de febrero de 1991, el valor provisional de la indemnización en la cantidad de $216.120.- para el lote 23-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
