@@ -1,0 +1,3 @@
+Por resolución Nº 2.474, de 15 de octubre de 2003, de esta Subsecretaría, autorízase a EGIDIO EUGENIO OLIVARES ROJAS para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Lo Barrio Nº 29, Coquimbo, IV Región, en las líneas de elaboración de Fresco-Enfriado y Fresco-Refrigerado, el recurso hidribiológico Loco.
+
+Valparaíso, 15 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
