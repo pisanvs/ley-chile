@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIONES
+
+Por Resolución N° 612, de 22 de Mayo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a SALAZAR Y CERNA LIMNITADA, R.U.T. N° 79.673.740-9, domiciliada en Quellón, Provincia de Chiloé, X Región, para ampliar actividades pesqueras que tiene autorizadas por Resolución N° 1.058, de 1987, de esta Subsecretaría, en orden a incluir a las líneas de elaboración de la planta industrial autorizada por la Resolución antes citada, los siguientes recursos hidrobiológicos: Albacora o pez espada, Anchoa o Anchoveta, Bacalao de profundidad o Mero, Blanquillo, Caballa, Cabrilla española, Cabrilla común, Chancharro, Cojinoba del Sur, Lenguado de ojos chicos, lenguado de ojos grandes, Merluza de tres aletas, Puye, Salmón del Atlántico, Sardina, Caracol locate, Caracol tegula, Caracol trumulco, Caracol palo palo, Chitón (Acathopleura echinata), Chiton (Chiton spp.), Chocha, Culengue, Navaja de mar, Ostión del Sur, Ostra del Pacífico, Cangrejo panchote y Jaiba mora. Asimismo, la peticionaria podrá incorporar en la planta industrial antes referida, las líneas de elaboración de fresco enfriado, fresco y precipitado en alcohol, donde podrá procesar además de los recursos hidrobiológicos autorizados mediante la señalada Resolución N° 1.058, los recursos citados precedentemente. Además, se autoriza a la peticionaria para procesar en la línea de deshidratado de algas, los siguientes recursos hidrobiológicos: Cochayuyo, Chasca, Chascón, Chicorea de mar, Huiro, Luche, Luga-luga y Pelillo.
+
+Para elaborar los recursos Centolla y Centollón, la interesada deberá acreditar su procedencia de zonas no afectas a restricción, mediante Guías de Libre Tránsito otorgadas por el Servicio Nacional de Pesca.
+
+Las especies Salmonídeas, Trucha arco iris y Ostra del Pacífico, deberán provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria, para procesar en la planta industrial a que se refiere el presente Extracto, el recurso hidrobiológico Loco, de conformidad a lo establecido en el Decreto N° 126, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 22 de Mayo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
