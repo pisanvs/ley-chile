@@ -1,0 +1,3 @@
+Por resolución No. 773 de 10 de Agosto de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 430, DE 1990, de esta Subsecretaría, que autorizó a don JOSE HECTOR TRIVIÑO NAVARRO, RUT No. 7.945.867-8, domiciliado en calle Avenino Bravo No. 292, Población Libertad, Puerto Montt, para iniciar actividades pesqueras de cultivo de algas del género Gracilaria, en Bancos de Coihuín, Comuna de Puerto Montt, Provincia de Llanquihue, X Región, por renuncia de su titular.
+
+Valparaíso, 10 de Agosto de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
