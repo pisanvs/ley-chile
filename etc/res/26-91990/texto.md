@@ -1,0 +1,3 @@
+Por Resolución de la Fiscalía del Ministerio de Obras Públicas F. No. 26, de 31 de marzo de 1989, se ha ordenado pagar la suma de $ 77.527.- a don Enrique Trivelli Rocchi o a quien acredite derecho, como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos más su reajuste para el lote No. 1, de una superficie de 1.115,29 m2., ubicado en la Comuna de Quillota, V Región, necesario para la ejecución de la obra Plaza Peaje Las Vegas. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a. publicación que se hará en un periódico de la V Región.
+
+Fiscal del Ministerio de Obras Públicas.
