@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.778, de 30 de junio de 1999, se expropiaron los lotes de terreno Nºs. 4 y 5, superficies 805 y 505 m2., roles de avalúo en trámite, comuna de Pelarco, para la obra Camino El Manzano-La Isla, Rol K-455, Sector Puente La Isla y se acordó precio de indemnización con su propietario José Walterio Cáceres Fredes, ascendente a la cantidad de $613.963.
+
+- Fiscal del Ministerio de Obras Públicas.
