@@ -1,0 +1,5 @@
+Por decreto MOP Nº999, de 17 de junio de 2002 , y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº107-A1 para la obra: ''Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector B: Km. 42.950,00 al Km.
+
+55.200,00'', Región Metropolitana, que figura a nombre de Sucesión Juan Joaquín Moya, rol de avalúo 136-114, comuna de Paine, superficie 1.620 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Joaquín Guillermo Enrique Eyzaguirre Edwards y Julio Víctor Fischer Gaysinsky, fijó con fecha 20 de diciembre de 2001, el valor provisional de la indemnización en la cantidad de $8.181.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
