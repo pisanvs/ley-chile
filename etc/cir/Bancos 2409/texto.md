@@ -17054,8 +17054,6 @@ para tal efecto.
 
 Los estados financieros anuales de empresas filiales de bancos deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia.
 
-Un resumen de dichos estados formará parte de las notas a los estados financieros de la empresa matriz, los que deberán contener una nota especial en la cual se resuman las operaciones realizadas con sus filiales.
-
 Los estados financieros de las filiales, correspondientes al ejercicio anual, serán entregados a esta Superintendencia dentro del mismo plazo establecido para que el banco matriz envíe sus propios estados financieros a este Organismo y deberán ser publicados en el mismo periódico en que el banco publique los suyos.
 
 Cada una de las sociedades filiales deberá hacer llegar sus estados financieros dentro del plazo indicado, salvo cuando se trate de sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros, en cuyo caso será responsabilidad del respectivo banco matriz el envío oportuno de dichos estados.
@@ -17369,8 +17367,6 @@ desarrollo del giro.
 Los estados financieros anuales de las empresas de apoyo deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia y publicados en el mismo periódico en que publique los suyos la institución que tenga participación mayoritaria en la respectiva sociedad o, cuando existan partícipes con aportes iguales, en el periódico en que cualquiera de ellos hubiera publicado su propio balance.
 
 Dichos estados financieros deben ser entregados por las respectivas sociedades a esta Superintendencia dentro del mismo plazo establecido para que los bancos y sociedades financieras envíen sus propios estados financieros a este Organismo.
-
-Un resumen del balance de las sociedades de apoyo formará parte de las notas a los estados financieros de las instituciones fiscalizadas socias que tengan una participación igual o superior a un 50%.
 
 ### 12. Instrucciones contables
 
@@ -32034,15 +32030,13 @@ En caso que este Organismo estime que la redacción de tales notas no es adecuad
 
 En esta nota se informará brevemente acerca de los principales criterios contables utilizados en la preparación de los estados financieros. Para ese efecto se utilizará la redacción estándar incluida en el Anexo N° 3 de este Capítulo.
 
-4.2. Nota sobre obligación subordinada con el Banco Central de Chile o venta de cartera al Instituto Emisor.
+4.2. Nota sobre obligación subordinada con el Banco Central de Chile.
 
 Esta nota incluirá información sobre el monto a que asciende la obligación subordinada con el Banco Central de Chile registrada en cuentas de orden, la provisión constituida para destinar los excedentes del ejercicio al pago de ella y la naturaleza y efectos de esa obligación. Estos antecedentes se presentarán de acuerdo con el modelo que contiene el Anexo N° 4 de este Capítulo.
 
-Si la institución no se hubiere acogido a la novación de las obligaciones derivadas de los contratos de compraventa de cartera con el Banco Central de Chile, de conformidad con la facultad que le otorgó el artículo 15 de la Ley N° 18.401, esta segunda nota la destinará a informar sobre la obligación de recompra de cartera, utilizando la redacción establecida para el efecto en el mismo Anexo.
-
 En caso de que la institución no mantenga obligaciones que provengan de contratos de compraventa de cartera celebrados con el Banco Central de Chile, sea que hubieren sido objeto de novación o no, podrá omitir esta nota o presentarla señalando lo siguiente:
 
-"La institución no tiene obligación subordinada con el Banco Central de Chile, ni mantiene saldos derivados de contratos de compraventa de cartera con el Instituto Emisor.".
+"La institución no tiene obligación subordinada con el Banco Central de Chile".
 
 4.3. Nota sobre operaciones con partes relacionadas.
 
@@ -32084,7 +32078,7 @@ Con todo, dado que las cifras de las notas deben expresarse en millones de pesos
 
 En esta nota se identificarán las sociedades en las cuales la institución tenga una participación igual o superior al 10% sobre el capital pagado o las utilidades de la sociedad de que se trate. Se mostrará el importe registrado en el activo por cada inversión, el porcentaje de participación en esas sociedades y los resultados obtenidos por la aplicación del método del Valor Patrimonial Proporcional (VPP).
 
-Además de la información detallada para cada una de las sociedades filiales y coligadas, se entregarán antecedentes básicos de las sociedades filiales, esto es, de aquellas en que la institución tenga una participación superior al 50%. Estos antecedentes incluirán cifras resumidas de sus estados financieros anuales relativos al mismo ejercicio.
+Además de la información antes indicada, se entregarán, cuando corresponda, algunos antecedentes básicos de las sociedades filiales, esto es, de aquellas en que la institución tenga una participación superior al 50%.
 
 La información se presentará de la forma que se señala en el Anexo N° 6 de este Capítulo.
 
@@ -32340,17 +32334,17 @@ El activo fijo se presenta valorizado al costo corregido monetariamente y neto d
 
 g) Inversiones en sociedades. (5)
 
-Las acciones o derechos en sociedades /filiales/ y /de apoyo al giro en las cuales la institución tiene una participación igual o superior al 10%,/ se encuentran registrados en el activo a su valor patrimonial proporcional (VPP), reconociéndose por lo tanto sobre base devengada, los aumentos y disminuciones que afectan a la inversión.
+Las acciones o derechos en sociedades /filiales/ y / de apoyo al giro en las cuales la institución tiene una participación igual o superior al 10%,/ se encuentran registrados en el activo a su valor patrimonial proporcional (VPP), reconociéndose por lo tanto sobre base devengada, los aumentos y disminuciones que afectan a la inversión
 
 h) Provisiones sobre activos riesgosos.
 
-La institución ha constituido todas las provisiones necesarias para cubrir los riesgos de pérdida de los activos, de acuerdo con la metodología de cálculo de estimación de riesgos dispuesta por la Superintendencia de Bancos e Instituciones Financieras (Nota....). (4)
+La Institución ha constituido todas, las provisiones necesarias para cubrir los riesgos de pérdida de los activos, de acuerdo con la metodología de cálculo de estimación de riesgos dispuesta por la Superintendencia de Bancos e Instituciones Financieras (Nota)(4)
 
-i) Obligación subordinada con el Banco Central de Chile.(5) (6)
+i) Obligación subordinada.con el Banco Central de Chile. (5)
 
-De acuerdo con lo dispuesto en el artículo 15 de la Ley N° 18.401, la obligación subordinada que mantiene la institución con el Banco Central de Chile, originada por la novación de la obligación de recompra de la cartera de colocaciones, no se computa como pasivo exigible. Su cumplimiento queda subordinado a la existencia de excedentes anuales que se produzcan. En consecuencia, dicha obligación se encuentra registrada sólo en cuentas de orden.
+De acuerdo con lo dispuesto en el de la Ley N° 18.401, la obligación subordinada que mantiene la institución con el Banco Central de Chile, originada por la novación de la obligación de recompra de la cartera de colocaciones, no se computa como pasivo exigible. Su cumplimiento queda subordinado a la existencia de excedentes anuales que se produzcan. En consecuencia, dicha obligación se encuentra registrada sólo en cuentas de orden.
 
-El derecho del Banco Central de Chile a percibir los excedentes netos que se hubieran producido en el período anual,.../ sin perjuicio del reparto de dividendos sobre acciones preferidas,/... se debe reconocer al cierre del ejercicio como "Provisión para pago obligación subordinada al Banco Central de Chile".
+El derecho del Banco Central de Chile a percibir los excedentes netos que se hubieran producido en el periodo anual,.../ sin perjuicio del reparto de dividendos sobre acciones preferidas,/. se debe reconocer al cierre del ejercicio como "Provisión para pago obligación subordinada al Banco Central de Chile".
 
 j) Impuestos diferidos.
 
@@ -32360,7 +32354,7 @@ INSTRUCCIONES:
 
 (1): Pueden indicarse salvedades si a juicio de los auditores externos existen diferencias importantes que deban mencionarse.
 
-(2): Incluir este párrafo o la frase intercalada sólo si es significativo el monto de los intereses y reajustes no reconocidos en los resultados.
+(2) : Incluir este párrafo o la frase intercalada sólo si es significativo el monto de los intereses y reajustes no reconocidos en los resultados.
 
 (3): Párrafo no aplicable en el caso de sociedades financieras.
 
@@ -32368,43 +32362,39 @@ INSTRUCCIONES:
 
 (5): Aplicable sólo en el caso de que existan saldos por los conceptos que se señalan.
 
-(6): Las instituciones financieras que mantengan la obligación de recomprar cartera al Banco Central de Chile, deberán incluir, en lugar de esto, la siguiente información:
-
-i) Venta de cartera al Banco Central de Chile.
-
-De conformidad con las instrucciones impartidas por el Organismo Contralor, la obligación de recompra de la Cartera de colocaciones vendida al Banco Central de Chile se contabiliza en cuentas de orden, debido a que el cumplimiento de dicho compromiso queda subordinado a la existencia de excedentes anuales que se produzcan, de acuerdo con las cláusulas de los contratos celebrados con el Instituto Emisor. La cartera vendida no forma parte de los activos de la empresa y, por consiguiente, no se requiere mantener provisiones para cubrir los riesgos de irrecuperabilidad de esas colocaciones.
-
-El derecho del Banco Central de Chile a percibir los excedentes netos que se hubieran producido en el período anual,.../ sin perjuicio del reparto de dividendos sobre acciones preferidas,/... se debe reconocer al cierre del ejercicio con "Provisión para recompra de cartera al Banco Central de Chile".
-
 ANEXO N° 4
 
 Modelo de nota sobre obligación subordinada con el Banco Central.
 
 NOTA 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
 
-El artículo 15 de la Ley N° 18401, modificada por la Ley N° 18.818 publicada en el Diario Oficial del 1° de agosto de 1989, permitió a la instituciones financieras novar las obligaciones que mantenían vigentes con el Banco Central de Chile por contratos de cesión de cartera de colocaciones, asumiendo una nueva obligación por un monto inicial igual al saldo de la obligación de recompra vigente a la fecha de la novación. Como requisito para acogerse a esa opción, se requirió el pago del valor económico de los créditos que, de conformidad con los contratos de cesión de cartera, se encontraban en poder del Banco Central de Chile, pendientes de ser recomprados.
+Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N° 18.401, que permitió a las instituciones financieras novar los contratos de cesión de cartera de colocaciones que mantenían con el Banco Central de Chile, por una nueva obligación de un monto inicial igual al saldo de la obligación de recompra establecida en tales contratos, vigente a la fecha de la novación.
 
-Ese nuevo compromiso, denominado "obligación subordinada", se encuentra expresado en Unidades de Fomento y está sujeto a un incremento acumulativo de un 5% anual ..../por la parte de la obligación novada que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/....De acuerdo con la ley esta obligación no se computa como pasivo exigible, es de plazo indeterminado hasta su entero pago y se soluciona con los excedentes de cada ejercicio anual ...deducida la parte de ellos que corresponda a las acciones preferentes/.... y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
+Este compromiso novado, denominado "Obligación subordinada" se expresa en Unidades de Fomento y está afecto a un incremento de 5% anual ../por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/....
 
-Este ....banco/sociedad financiera... optó por novar la obligación de recompra de cartera que mantenía el año 1989, según lo antes señalado, asumiendo una obligación subordinada ascendente a U.F. ................después de pagar al Banco Central de Chile el equivalente de U.F.................por el valor económico de la cartera que se encontraba pendiente de recomprar.
+De acuerdo con la ley esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual .../deducida la parte de ellos que corresponda a las acciones con preferencia/....y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
 
-Al cierre del presente ejercicio la obligación subordinada asciende a U.F........ Para amortizar esta obligación se ha constituido una provisión ascendente a $ .......... millones (U.F ...............) que corresponde a los excedentes del ejercicio destinados a ese fin y que se muestra en el balance general como "Provisión para pago de obligación subordinada al Banco Central de Chile".
+Al cierre del presente ejercicio la obligación subordinada asciende a U.F.Para su amortización se ha constituido una provisión ascendente a $............... millones (U.F.........................) que corresponde a los excedentes del ejercicio destinados a ese fin y que se muestra en el balance general como "Provisiones para pago de obligación subordinada al Banco Central de Chile".
 
-La variación de la obligación subordinada en el ejercicio se demuestra como sigue.
+La variación de esta obligación subordinada en el ejercicio ha sido la siguiente:
 
-.
+## Capítulo 18-1
 
-El compromiso de destinar excedentes al cumplimiento de la obligación subordinada a favor del Banco Central de Chile tiene distintos efectos
+ANEXO N°4
 
-a) Pagos a depositantes y acreedores
+Pág. 2
 
-El cumplimiento de la obligación subordinada no afecta a los depositantes y acreedores en caso de liquidación forzosa y disolución de la empresa, ya que en tales circunstancias esta obligación se cumplirá con posterioridad a los pagos que procedan a depositantes y acreedores, conforme a las normas legales vigentes En condiciones normales, esta obligación será cubierta con los excedentes de cada ejercicio que deben destinarse a ese fin
+El compromiso de destinar excedentes al cumplimiento de la obligación subordinada a favor del Banco Central de Chile tiene distintos efectos.
 
-b) Distribución de utilidades
+a) Pagos a depositantes y acreedores:
 
-De conformidad con las disposiciones vigentes, los propietarios de acciones preferidas tienen derecho a percibir dividendos calculados sobre la base del excedente que proporcionalmente corresponda a esas acciones, determinado antes de la provisión para amortizar la obligación subordinada
+El cumplimiento de la obligación subordinada no afecta a los depositantes y acreedores en caso de liquidación forzosa y disolución de la empresa, ya que en tales circunstancias esta obligación se cumplirá con posterioridad a los pagos que procedan a depositantes y acreedores, conforme a las normas legales vigentes. En condiciones normales, esta obligación será cubierta con los excedentes de cada ejercicio que deben destinarse a ese fin.
 
-Los accionistas que poseen acciones ordinarias no percibirán dividendos mientras no se haya extinguido la totalidad de la obligación subordinada
+b) Distribución de utilidades:
+
+De conformidad con las disposiciones vigentes, los propietarios de acciones preferidas tienen derecho a percibir dividendos calculados sobre la base del excedente que proporcionalmente corresponda a esas acciones, determinado antes de la provisión para amortizar la obligación subordinada.
+
+Los accionistas que poseen acciones ordinarias no percibirán dividendos mientras no se haya extinguido la totalidad de la obligación subordinada.
 
 NOTA 2 - CARTERA VENDIDA AL BANCO CENTRAL DE CHILE.
 
@@ -32502,15 +32492,17 @@ El total de créditos relacionados que se considerará para indicar el porcentaj
 
 > **Nota.** La letra D, del N° 3 de la Circular 2623, SBIF, promulgada el 11.06.1991, modifica el presente anexo. Sin embargo las modificaciones introducidas no se han incorporado al presente texto actualizado por no indicar la norma donde ella se deben introducir.
 
+> **Nota.** NOTA 1 La letra E, de la Circular 2661, SBIF, promulgada el 27.12.1991, modifica el presente anexo. Sin embargo las modificaciones introducidas no se han incorporado al presente texto actualizado por no indicar la norma donde ella se deben introducir.
+
 ANEXO N° 6
 
-Modelo de nota sobre inversiones en sociedades
+Modelo de nota sobre inversiones en sociedades.
 
 NOTA... - INVERSIONES EN SOCIEDADES /FILIALES / Y / COLIGADAS.
 
 a) Participación en las sociedades. (1)
 
-En el Balance General se presentan inversiones en sociedades por $.............millones .... /que corresponden/de los cuales $ ............ millones corresponden/... a la participación de la institución en sociedades ../filiales/y/coligadas/..que .../complementan/o/ facilitan/ las actividades, contempladas en .../ el número 11 bis/ el número 15 bis/ los números 11 bis y 15 bis /...del artículo 83 de la Ley General de Bancos.
+En el Balance General se presentan inversiones en sociedades por $............. millones .... /que corresponden/de los cuales $ ............. millones corresponden/... a la participación de la institución en sociedades .../filiales/y/coligadas/...que .../complementan/o/ facilitan/..las actividades, contempladas en ../el número 11 bis/ el número 15 bis/ los números 11 bis y 15 bis /...del articulo 83 de la Ley General de Bancos.
 
 Al 31 de diciembre de 19... la institución tiene participación en las siguientes sociedades .../filiales/ y / coligadas...:
 
@@ -32518,11 +32510,11 @@ Principales cifras resumidas de sus Estados Financieros al 31 de diciembre 19
 
 INSTRUCCIONES:
 
-(1): Incluir los títulos ("a) Participación en sociedades." y "b) Antecedentes acerca de las sociedades filiales.") sólo en caso de que deba incluirse la sección b) en la nota, es decir, cuando realmente existan sociedades filiales.
+1): Incluir los títulos ("a) Participación en sociedades." y "b) Antecedentes acerca de las sociedades filiales.") sólo en caso de que deba incluirse la sección b) en la nota, es decir, cuando realmente existan sociedades filiales.
 
 (2): Agregar los importes totales, cuando corresponda, por las acciones o derechos en sociedades que no son filiales ni coligadas, es decir de aquellas que representan una participación inferior al 10%.
 
-(3): Incluir la información exigida para cada una de las sociedades filiales, es decir, para aquellas en las cuales la institución tenga una participación mayor al 50%.
+(3): Incluir cada una de las sociedades filiales, es decir, aquellas en las cuales la institución tenga una participación mayor al 50%. En caso de que alguna de las sociedades informadas en este cuadro haya iniciado sus actividades durante el ejercicio, se indicará además, al pie del cuadro, la fecha de inicio de sus operaciones.
 
 ANEXO N° 7
 
@@ -32590,15 +32582,17 @@ A continuación se muestran los activos y pasivos agrupados según sus fechas de
 
 ANEXO N° 11
 
-Modelo de nota sobre moneda extranjera.
+Modelo de nota sobre moneda extranjera
 
-NOTA... - SALDOS DE MONEDA EXTRANJERA.
+NOTA ... - SALDOS DE MONEDA EXTRANJERA.
 
-En el Balance General se incluyen derechos y obligaciones en monedas extranjeras, por los montos que se resumen a continuación: (1)
+En el Balance General se Incluyen derechos y obligaciones en monedas extranjeras, por los montos que se resumen a continuación: (1)
 
 .
 
-Un total de MU$............. de los activos de la institución está financiado con reservas o provisiones autorizadas por el Banco Central de Chile.. ./además de otros recursos propios por MU$............... correspondientes al capital recomprado/...
+Incluye MUS$ por concepto de encaje mantenido por obligaciones con el exterior, conforme a las disposiciones acordadas por el Consejo del Banco Central de Chile
+
+Un total de MUS$............... de los activos de la institución está financiado con reservas o provisiones autorizadas por el Banco Central de Chile.../además de otros recursos propios por MUS$.............correspondientes al capital recomprado/...
 
 INSTRUCCIONES:
 
