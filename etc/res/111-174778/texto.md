@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 111, DE 2000
+
+Por resolución Nº 111, de 27 de junio de 2000, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se adjudicó a la Sociedad Revisiones Técnicas S.A. ''Revitec S.A.'', RUT Nº 96.875.770-9, la concesión para operar por el plazo de seis años, a contar de la fecha de publicación del presente extracto, una planta revisora clase A, ubicada en calle Décima Nº 918, Placilla, Valparaíso, y dos plantas revisoras clase B, ubicadas en calle Décima Nº 918, Placilla, Valparaíso, y calle Los Crisantemos Nº 68, de Viña del Mar, en la forma y condiciones que se señalan en el contrato que se aprueba por resolución exenta Nº 138, de 19 de julio de 2000.
+
+Valparaíso, 24 de agosto de 2000.- Carlos Inostroza Bilbao, Secretario Regional Ministerial V Región.
