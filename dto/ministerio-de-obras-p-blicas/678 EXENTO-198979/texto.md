@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº678 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº25-A, superficie 232,50 m2, rol de avalúo Nº645-30, comuna de Ovalle, para la obra ''Camino Ruta D-585 Ovalle - Huamalata - Algarrobo, Sector Ovalle - Villaseca, Km. 0,00000 a Km. 5,98083'', IV Región y se acordó el valor de indemnización con su propietario Félix Eduardo Cisterna Cisterna, ascendente a la cantidad de $560.664.-
+
+Fiscal del Ministerio de Obras Públicas.
