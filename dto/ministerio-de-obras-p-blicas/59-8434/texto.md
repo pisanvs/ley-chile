@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s 38 y 59, de 22 y 25 de febrero de 1993, se expropiaron los lotes de terreno N°s. 3, 15, 18, 19 16 y 20, superficies 114 m2., 117 m2., 330 m2., 373 m2., 230 m2., y 396 m2., respectivamente, roles de avalúo 44-165, 44-177, 44-180, 44-181, 44-178 y 44-182, Comuna de Peumo, para la obra Ruta 66 Pelequén-San Antonio, sector Peumo- Codao, y se acordó precio de indemnización con sus propietarios Juan Marchant Aravena, Nelson del C. Rubio Soto, Germán Galaz Ulloa, Aliro O. Bravo Ruiz, Marcos S. Valenzuela y otra y Víctor E. Fuentes Pizarro y otros, ascendente a las cantidades de $178.337.-, $180.680.-, $347.076.-, $380.668.-, $268.956.- y $398.635.-
+
+Fiscal del Ministerio de Obras Públicas.
