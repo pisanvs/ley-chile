@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.454, de 2 de diciembre de 2004, de esta Subsecretaría, déjase sin efecto la resolución Nº1.454 de 2004, de esta Subsecretaría, que rechazó la solicitud Nº202103157, presentada por JUAN WLADIMIR VIVAR URIBE para un centro de cultivo ubicado en sector de Punta Matao, Isla Quinchao, X Región, en virtud del artículo 59 de la ley Nº19.880.
+
+Valparaíso, 2 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
