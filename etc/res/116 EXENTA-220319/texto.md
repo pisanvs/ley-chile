@@ -1,0 +1,5 @@
+Por resolución exenta Nº 116, de 14 de enero de 2004, de esta Subsecretaría, modifícase la resolución Nº 44 de 2003, de esta Subsecretaría, que autorizó a la UNIVERSIDAD AUSTRAL DE CHILE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo espacial del reclutamiento en la pesquería artesanal de Anchoveta y Sardina común en la X Región, Valdivia", en el sentido de reemplazar el literal d) del numeral 7º por el siguiente:
+
+"d) Informar y documentar las capturas efectivas y su destino conforme lo dispuesto en el artículo 63 de la Ley General de Pesca y Acuicultura y sus normas reglamentarias. Sin perjuicio de lo anterior, la Universidad deberá elaborar un procedimiento de acreditación de las capturas desembarcadas visado por el Servicio Nacional de Pesca".
+
+Valparaíso, 14 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
