@@ -1,0 +1,3 @@
+Por resolución N° 725 de 20 de Septiembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la resolución N° 110, de 1993, de esta Subsecretaría, que autorizó a COMERCIAL Y CONSERVERA LA FUENTE DEL MAR LIMITADA, R.U.T. N° 78.280.130-9. para iniciar actividades pesqueras de transformación, en el sentido de señalar como nuevo domicilio de su planta procesadora, el siguiente: Caleta Tubul s/n°, Comuna de Arauco, VIII Región.
+
+Valparaíso, 20 de Septiembre de 1993. Andrés Couve Rioseco, Subsecretario de Pesca.
