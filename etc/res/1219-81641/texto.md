@@ -1,0 +1,3 @@
+Por resolución No. 1.219 de 09 de Octubre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 30 días a contar de la fecha de la presente resolución, el plazo para publicar en el Diario Oficial, el extracto de la resolución No. 217, de 1990, de esta Subsecretaría, que autorizó a don JOSE EZQUIVEL CAMPAÑA, R.U.T. No. 6.337.222-6, domiciliado en calle José Plaza No. 69, San Antonio, para desarrollar actividades pesqueras extractivas.
+
+Valparaíso, 09 de Octubre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
