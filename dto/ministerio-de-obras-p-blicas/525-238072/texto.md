@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 525, de 31 de julio de 1996, se expropiaron los lotes de terreno N°s. 17 y 18, superficies 328 m2. y 273 m2., respectivamente, rol de avalúo 336-1, comuna de Santa Juana, para la obra Camino de la Madera, sector Bifurcación Diuquín Santa Juana, y se acordó el valor de indemnización con sus propietarias Lidia Fernández Salazar y otro y Celina Fernández Toledo, ascendente a las cantidades de $134.431 y $45.495.
+
+Fiscal del Ministerio de Obras Públicas.
