@@ -4042,7 +4042,11 @@ Para poder ser abogado se requiere:
 
 1°) Tener veinte años de edad;
 
-2°) Tener el título de Licenciado en la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, o Universidad Católica de Chile, o Universidad Católica de Valparaíso o Universidad de Concepción;
+2°) Tener el grado de LiceDL 3631, JUSTICIA
+
+#### Artículo 1
+
+D.O. 28.02.1981nciado en Ciencias Jurídicas otorgado por una Universidad, en conformidad a la ley;
 
 3°) No haber sido condenado ni estar actualmente procesado por delito que merezca pena corporal, salvo que se trate de delitos contra la seguridad interior del Estado;
 
