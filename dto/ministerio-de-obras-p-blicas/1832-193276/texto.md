@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.832, de 31 de octubre del 2001, se expropiaron los lotes de terreno Nºs 163-1 y 163-3, superficies 6.358 y 3.541 M2., rol de avalúo 302-104, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno Puerto Montt. Sector: Atravieso Inia-Bayas del Sur Kms. 950,400 al 951,000, Décima Región y se acordó el valor de indemnización con su propietario Bayas del Sur S.A., ascendente a las cantidades de $6.558.709.-, para el lote Nº163-1 y $7.218.266.- para el lote Nº163-3.
+
+- Fiscal del Ministerio de Obras Públicas.
