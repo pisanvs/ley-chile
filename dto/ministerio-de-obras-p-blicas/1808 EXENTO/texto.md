@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.808, de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº 67, superficie 5,2 m², Rol de Avalúo Nº 179-77, comuna de Yerbas Buenas, para la obra "Camino Ruta L-31, Sector Polvorines - La Foresta, Tramo: Km. 0,00000 a Km. 15,48000; comuna de Linares, Colbún y Yerbas Buenas, provincia de Linares", VII Región y se acordó el valor de indemnización con su propietario Mario Francisco Pincheira Barrera, ascendente a la cantidad de $241.865.
+
+Fiscal del Ministerio de Obras Públicas.
