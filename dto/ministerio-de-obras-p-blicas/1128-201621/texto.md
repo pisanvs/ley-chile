@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.128 de fecha 28 de junio del 2002, se expropiaron los lotes de terreno Nºs 84 y 85, superficie 146 y 309 m2 respectivamente, sin rol, comuna de Alto del Carmen, III Región para la obra ''Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa III'', y se acordó el valor de indemnización con su propietario Agrícola e Inmobiliaria San Félix S.A., ascendente a la cantidad de $10.045.533.-
+
+Fiscal del Ministerio de Obras Públicas.
