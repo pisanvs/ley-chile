@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº295 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº4, superficie 60 m², rol de avalúo 296-5, comuna de Pullehue, para la obra "Camino Ruta M-80-N, Sector Curanipe - Bif. Chovellen Tramo Km. 0.000,0 a Km. 6.871,14" y se acordó el valor de indemnización con su propietario Nelson Patricio Gutiérrez Cerpa, ascendente a la cantidad de $316.476.-.
+
+Fiscal del Ministerio de Obras Públicas.
