@@ -1,0 +1,3 @@
+Por resolución Nº855 de 7 de mayo de 2002 de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº712 de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo y evaluación hidroacústica del Jurel, I y II Regiones", en el sentido de reemplazar la nave "Angamos 9" por la nave "Angamos 2", ambas de propiedad de Corpesca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 7 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
