@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA COLOSO S.A. PARA AMPLIAR ACTIVIDADES. DEJA SIN EFECTO RESOLUCION QUE SEÑALA
+
+Por Resolución No. 1.208 de 03 de Noviembre de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Coloso S.A., R.U.T. No. 93.065.000-5, domiciliada en calle Providencia No. 2653, oficina 1401, Santiago, para ampliar actividades pesqueras, autorizadas por Decreto No. 629 de 1976, del Ministerio de Agricultura, en orden a operar la embarcación "Vitacura", en el litoral de las Regiones I a II, donde podrá extraer los recursos hidrobiológicos: Jurel, caballa, sardina española y anchoa. Se deja sin efecto en la Resolución No. 903, de 1987, de esta Subscretaría, la autorización otorgada a Pesquera San José de Coquimbo S.A. para operar la embarcación "Vitacura" en el litoral de las Regiones I y II. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 03 de Noviembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
