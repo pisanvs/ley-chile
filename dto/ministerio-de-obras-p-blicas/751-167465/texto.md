@@ -1,0 +1,3 @@
+Por decreto MOP Nº 751, de 29 de febrero de 2000, se expropió el lote de terreno Nº 69-A, superficie 2.162 m², rol de avalúo 985-2, comuna de Paine, para la obra Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector B: Región Metropolitana y se acordó el valor de indemnización con sus propietarios Cecilia López Molina y otro, ascendente a la cantidad de $11.226.294.-
+
+Fiscal del Ministerio de Obras Públicas.
