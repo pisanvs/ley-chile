@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.298, del 31 de mayo de 1999, se expropiaron los lotes de terreno No. s. 4-H, 45-B y 46-B, superficies 120 mý, 2.076 mý y 348 mý, roles de avalúo 1226-100 y 201-33, comunas de Cabrero y Yumbel, para la obra Camino Ruta O-60, sectores Monte guila-Yumbel, y se acordó precio de indemnización con sus propietarios Exequiel Guti‚rrez Cabezas e Irma Escobar Ulloa, ascendente a las cantidades de $ 230.436 para el lote No. 4-H, y $ 1.027.205.- para los lotes No. s 45-B y 46-B.-
+
+Fiscal del Ministerio de Obras Públicas.
