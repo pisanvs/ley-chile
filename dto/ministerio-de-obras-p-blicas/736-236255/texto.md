@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 736, de fecha 30 de noviembre de 1995, se expropió el lote de terrero único, superficie 16.244 m2, rol de avalúo 123-4, comuna de Pencahue, para la obra Regadío Valle de Pencahue, Embalse de Noche Las Parcelas y se acordó precio de indemnización con su propietario Godofredo rufino González Morales, ascendente a la cantidad de $ 2.528.322.
+
+Fiscal del Ministerio de Obras Públicas.
