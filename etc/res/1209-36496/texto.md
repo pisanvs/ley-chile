@@ -1,0 +1,3 @@
+Por Resolución N° 1.209, de 5 de Septiembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ANDEMAR S.A. o Sociedad Baquedano S.A., R.U.T. N° 79.700.600-9, para continuar desarrollando, las actividades pesqueras autorizadas por esta Subsecretaría de Pesca a Sociedad Baquedano Ltda., del mismo R.U.T. y domicilio, en virtud de la Escritura Pública y disposiciones legales citadas en Visto.
+
+Valparaíso, 5 de Septiembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
