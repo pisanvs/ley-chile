@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.652, de 30 de octubre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº6, superficie 20.563 m², rol de avalúo 690-44, comuna de El Tabo, Quinta Región, para la obra Red Vial Litoral Central. Sector 3: eje Costero Interior. Subtramo: Las Pataguas - Quillaicillo Km. 0.000,00 al Km. 5.941,40. Posteriormente, por decreto MOP Nº638, de 28 de marzo de 2002, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con la Compañía Agroforestal Santa Inés Limitada, ascendente a la cantidad de $20.540.487.-
+
+Fiscal del Ministerio de Obras Públicas.
