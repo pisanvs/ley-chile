@@ -1,0 +1,3 @@
+Por decreto MOP Nº647, de 28 de marzo del 2002, se expropió el lote de terreno Nº9, superficie 6925 m2, rol de avalúo 103-33, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso Viña del Mar. Tramo 6B: Kms. 34.660,00 al 38.660,00, Región Metropolitana y se acordó el valor de indemnización con su propietario José Sergio Hernando Figueroa Olivares, ascendente a la cantidad de $45.187.024.- para el lote Nº9.
+
+Fiscal del Ministerio de Obras Públicas.
