@@ -1,0 +1,3 @@
+Por decreto MOP Nº 472 de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 1, superficie 1.844 m2, rol de avalúo Nº 281-145, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, Sector Chovellen - Límite Regional, Tramo Km. 18,260.00 a Km. 35,158.60", y se acordó el valor de indemnización con su propietaria María V. Rivas Sánchez, ascendente a la cantidad de $4.465.383.-
+
+Fiscal del Ministerio de Obras Públicas.
