@@ -1,0 +1,3 @@
+Certifico que este Banco Central de Chile, a solicitud de los interesados, ha modificado la autorización concedida a la Casa de Cambios Andino Ocho Ltda. M.C.F. para operar como entidad del mercado cambiario formal en Santiago, Valparaíso y Viña del Mar, limitando dicha autorización exclusivamente a la oficina principal de la Casa de Cambio ubicada en calle Arlegui No. 646, Local 1-C de la Ciudad de Viña del Mar.
+
+Santiago, 19 de Marzo de 1991.- Víctor Vial del Río, Secretario General.
