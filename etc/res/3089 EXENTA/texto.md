@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.089, de 28 de noviembre de 2003, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Playa Blanca s/n, Coquimbo, IV Región, en las líneas de elaboración de harina y aceite, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 28 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
