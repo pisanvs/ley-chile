@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 647 de fecha 30 de abril de 2004, se expropió el lote de terreno Nº 140-E, superficie 4.905 m², rol de Avalúo Nº 78-573, comuna de Galvarino, para la obra "Camino Ruta S-10, Sector Cruce Long. (Lautaro)- Galvarino, Tramo Km. 0,000 al 34,50853", correspondiente al Sub-Tramo V, Km. 25,837 al Km. 34,50853", IX Región y se acordó el valor de la indemnización con su propietario René Antonio Echavarria Arguelles y Otros, ascendente a la cantidad de $2.315.498.
+
+Fiscal del Ministerio de Obras Públicas.
