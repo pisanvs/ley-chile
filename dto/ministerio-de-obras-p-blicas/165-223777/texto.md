@@ -1,0 +1,3 @@
+Por decreto MOP Nº 165 de fecha 27 de febrero de 2004, se expropió el lote de terreno Nº 364-A, superficie 406 m2, rol Nº 61-30, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Manuel Antonio Cáceres Vargas, ascendente a la cantidad de $3.374.711.
+
+- Fiscal del Ministerio de Obras Públicas.
