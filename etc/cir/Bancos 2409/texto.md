@@ -10406,12 +10406,6 @@ Las empresas bancarias pueden adquirir instrumentos de la cartera de inversiones
 
 Las sociedades financieras no pueden mantener inversiones financieras en moneda extranjera.
 
-2.1.4. Adquisición de Instrumentos de propia emisión.
-
-La adquisición de efectos de comercio aceptados o suscritos por la institución adquirente involucra el pago anticipado de la obligación. Por consiguiente, una institución financiera no puede incorporar esos efectos de comercio a su activo. Por otra parte, el artículo 130 de la Ley N° 18.045 prohíbe a las sociedades emisoras adquirir sus propios bonos.
-
-Al tratarse de letras de crédito, las instituciones financieras podrán adquirirlos como inversión, dentro de los límites que para el efecto ha establecido el Banco Central de Chile en el Capítulo III.B.2 de su Compendio de Normas Financieras y que se tratan en el Capítulo 12-11 de esta Recopilación Actualizada de Normas.
-
 2.2. Venta o cesión de Instrumentos de la cartera de Inversiones financieras.
 
 2.2.1. Cumplimiento de las normas generales sobre Intermediación.
@@ -10550,7 +10544,7 @@ Para ese efecto, deben considerarse todos los instrumentos susceptibles de ajust
 
 Previa reversión de las contabilizaciones efectuadas con este mismo propósito el mes anterior, se procederá a reconocer contablemente las diferencias antes mencionadas en la forma que se describe a continuación, salvo para los instrumentos de la cartera permanente que optativamente puede conformarse según lo previsto en el numeral 7.4.3 siguiente:
 
-a) Las diferencias, en moneda chilena o extranjera, se acreditarán o debitarán en las cuentas "Ajuste a valor de mercado de inversiones no reajustables", "Ajuste a valor de mercado de inversiones reajustables" o "Ajuste a valor de mercado de inversiones registradas en moneda extranjera", según sea el caso, las que formarán parte de la Partida 1750 "Ajuste a valor de mercado de inversiones transables", del rubro de Inversiones Financieras del Activo. No obstante, cuando se trate de letras de crédito de propia emisión, se utilizará la cuenta "Ajuste a valor de mercado de letras de crédito de propia emisión", de la misma partida 1750.
+a) Las diferencias, en moneda chilena o extranjera, se acreditarán o debitarán en las cuentas "Ajuste a valor de mercado de inversiones no reajustables", "Ajuste a valor de mercado de inversiones reajustables" o "Ajuste a valor de mercado de inversiones registradas en moneda extranjera", según sea el caso, las que formarán parte de la Partida 1750 "Ajuste a valor de mercado de inversiones transables", del rubro de Inversiones Financieras del Activo.
 
 b) Al tratarse de ajustes registrados en moneda chilena, la contrapartida del abono o cargo a las cuentas del activo a que se refiere la letra a) precedente, se hará directamente en la cuenta de resultados "Pérdida neta por ajuste a valor de mercado de inversiones transables", de la Partida 5650 "Ajuste a valor de mercado de inversiones transables", o a la cuenta "Utilidad neta por ajuste a valor de mercado de inversiones transables", de la Partida 7650 "Ajuste a valor de mercado de inversiones transables".
 
@@ -10566,7 +10560,7 @@ Cuando las inversiones de esa especie deban ser ajustadas a su valor de mercado 
 
 7.4.3.1.- Condiciones para la aplicación de la modalidad de ajuste.
 
-a) Podrán ajustarse siguiendo la modalidad de que se trata, los siguientes instrumentos: pagarés del Banco Central de Chile o de la Tesorería General de la República; documentos del Instituto de Normalización Previsional(INP); instrumentos emitidos por entidades extranjeras o internacionales y letras de crédito emitidas por otros bancos o de propia emisión. Además, podrán ajustarse siguiendo esta modalidad los bonos emitidos por empresas chilenas, colocados en el país o en el exterior, que cumplan las siguientes condiciones, i) que el emisor tenga una clasificación de nesgo no inferior a "grado de inversión"; y, n) que se transen en el mercado bursátil nacional y/o en Bolsa de Valores de países que cuenten con una categoría de nesgo soberano no inferior a "AAA" para instrumentos de largo plazo.
+a) Podrán ajustarse siguiendo la modalidad de que se trata, los siguientes instrumentos: pagarés del Banco Central de Chile o de la Tesorería General de la República; documentos del Instituto de Normalización Previsional(INP); instrumentos emitidos por entidades extranjeras o internacionales y letras de crédito emitidas por otros bancos. Además, podrán ajustarse siguiendo esta modalidad los bonos emitidos por empresas chilenas, colocados en el país o en el exterior, que cumplan las siguientes condiciones, i) que el emisor tenga una clasificación de nesgo no inferior a "grado de inversión"; y, n) que se transen en el mercado bursátil nacional y/o en Bolsa de Valores de países que cuenten con una categoría de nesgo soberano no inferior a "AAA" para instrumentos de largo plazo.
 
 b) La institución financiera deberá conformar la cartera que quedará sujeta a este tratamiento contable y que se denominará "cartera permanente". En todo caso, la incorporación de los instrumentos elegidos para esta cartera, no obsta a su eventual enajenación.
 
@@ -13922,21 +13916,19 @@ Por otra parte, el deudor deberá comprometerse, en caso que las letras de créd
 
 pudiera estar adeudando y luego al pago o abono de los dividendos más próximos del nuevo mutuo.
 
-12.6.- Exención tributaria y rebaja de gastos.
+III.- COMPRA DE LETRAS DE CREDITO DE PROPIA EMISION.
 
-Los nuevos créditos que otorguen las instituciones financieras para pagar anticipadamente otros préstamos de conformidad con estas instrucciones, pueden acogerse a las exenciones tributarias y rebaja de aranceles notariales y de Conservadores de Bienes Raíces, de que trata el artículo 41 de la Ley N° 18.482, en la medida en que se cumplan las condiciones establecidas para ello.
+Las instituciones financieras pueden adquirir letras de crédito de propia emisión en los casos y bajo las condiciones que se indican a continuación:
 
-III.- INVERSIONES EN LETRAS DE CREDITO.
+1.- Compra para efectuar amortizaciones.
 
-1.- Letras de crédito de propia emisión.
+Las letras de crédito emitidas puede adquirirlas el propio emisor para efectuar amortizaciones extraordinarias según lo establecido en la ley y en las normas del Banco Central de Chile, caso en el cual las letras deberán anularse al momento de recibirse, concretando la amortización prevista.
 
-Las normas del Banco Central de Chile admiten la inversión en letras de crédito de propia emisión, dentro de los límites que establece en el Capítulo III.B.2 de su Compendio de Normas Financieras.
+2.- Compra para facilitar las operaciones hipotecarias.
 
-Para cumplir con dichos límites las instituciones financieras deberán atenerse a lo establecido en el Capítulo 12-11 de esta Recopilación Actualizada de Normas.
+Las instituciones pueden adquirir las letras de crédito emitidas, cuando así se convenga con el tenedor de las mismas.
 
-2.- Compra de letras de crédito emitidas por otras instituciones financieras.
-
-Las entidades financieras podrán también adquirir letras de crédito emitidas por otras empresas, de acuerdo con lo autorizado en el N° 20 del artículo 69 de la Ley General de Bancos, sujetas a los márgenes individuales de crédito de que trata el artículo 84 del mismo cuerpo legal.
+El total de letras de crédito de propia emisión que las instituciones financieras pueden mantener en su poder, debe sujetarse al límite establecido por el Banco Central de Chile en el Capítulo III B 2 de su Compendio de Normas Financieras. Dicho límite se medirá computando el valor par de los instrumentos de propia emisión que se mantengan.
 
 IV.- NORMAS CONTABLES.
 
@@ -14082,13 +14074,7 @@ Haber: - "Caja" o la cuenta que corresponda.
 
 10.1.4.- Rescate de letras en poder de la institución.
 
-Debe: - "Intereses por pagar en cupones por vencer", por los intereses devengados desde el último vencimiento hasta la fecha del rescate de la letra.
-
-- "Letras de crédito en circulación con amortización directa", por el valor nominal o residual de la letra.
-
-Haber: - "Letras de crédito de propia emisión", de la partida 1735.
-
-- La cuenta que corresponda por los respectivos intereses.
+Cuando se amorticen letras que mantiene la institución financiera según lo indicado en el N° 2 del título III de este Capítulo, se rebajará el saldo de la cuenta de orden "Letras de crédito en poder de la institución" de la partida 9419, por los importes que correspondan a las letras que se anulan.
 
 10.1.5.- Utilización del fondo de amortización.
 
@@ -14236,13 +14222,7 @@ Haber: -"Caja" o la cuenta que corresponda.
 
 10.3.- Rescate de letras en poder de la institución.
 
-Debe: -"Letras de crédito en circulación con amortización indirecta".
-
--"Cupones por vencer" por el monto de los intereses devengados entre el último vencimiento y la fecha de rescate.
-
-Haber: -"Letras de crédito de propia emisión", de la partida 1735.
-
--La cuenta que corresponda por los intereses respectivos.
+Cuando se amorticen letras que mantiene la institución financiera según lo indicado en el N° 2 del título III de este Capítulo, se rebajará el saldo de la cuenta de orden "Letras de crédito en poder de la institución" de la partida 9419, por los importes que correspondan a las letras que se anulan.
 
 10.4.- Utilización del fondo de amortización.
 
@@ -14296,9 +14276,39 @@ Haber: "Préstamos en letras de crédito con amortización indirecta". En caso q
 
 Las primas de seguro de incendio, de desgravamen y de cesantía involuntaria correspondientes a estas operaciones, serán registradas por las instituciones financieras en la forma prevista en el N° 13 de la letra A.- de este título.
 
-C. INVERSIONES FINANCIERAS EN LETRAS DE CREDITO.
+C.- ADQUISICION Y VENTA DE LETRAS DE CREDITO DE PROPIA EMISION.
 
-Las letras de crédito que adquieran los bancos o sociedades financieras, sean de su propia emisión o emitidas por otras instituciones financieras, serán registradas de acuerdo con las instrucciones del Capítulo 8-21 de esta Recopilación Actualizada de Normas.
+La adquisición y venta de las letras de crédito de propia emisión se registrará de acuerdo con lo que se describe a continuación:
+
+1.- Compra de letras.
+
+Debe - "Letras de crédito en circulación con amortización directa" o "Letras de crédito en circulación con amortización indirecta", según sea el caso.
+
+- "Mayor valor pagado en compra de letras de crédito de propia emisión", de la partida 2120, si el valor pagado fuera superior al valor registrado en el pasivo.
+
+Haber - La cuenta que corresponda por el precio pagado.
+
+- "Menor valor pagado en compra de letras de crédito de propia emisión", de la partida 4120, si el valor pagado fuera inferior al valor registrado en el pasivo.
+
+Junto con lo anterior, las letras de crédito adquiridas se registrarán en la cuenta de orden "Letras de crédito en poder de la institución", de la partida 9419. Esta cuenta deberá reflejar al cierre de cada mes el saldo actualizado de dichas letras, con sus respectivos reajustes e intereses.
+
+Mientras las letras no sean vendidas, el importe registrado en la cuenta "Menor valor pagado en compra de letras de crédito de propia emisión" se traspasará linealmente a la cuenta de ingresos "Diferencia en compra o venta de letras de crédito de propia emisión" de la partida 7620, considerando el plazo remanente de las letras Lo mismo se hará, en su caso, con el importe registrado en la cuenta "Mayor valor pagado en compra de letras de crédito", traspasándolo a la cuenta "Diferencia en compra o venta de letras de créditos de propia emisión", de la partida 5620.
+
+2.- Venta de las letras.
+
+Debe - La cuenta que corresponda por el precio obtenido.
+
+- "Menor valor pagado en compra de letras de crédito de propia emisión", por el saldo remanente que se mantenga por la diferencia en la compra de las respectivas letras.
+
+- "Diferencia en compra o venta de letras de créditos de propia emisión", de la partida 5620, en caso de que la diferencia neta sea negativa.
+
+Haber - "Letras de crédito en circulación con amortización directa" o "Letras de crédito en circulación con amortización indirecta", según sea el caso, y las cuentas de intereses por pagar que correspondan, para reconocer el pasivo al mismo valor que tendría si las letras no se hubieran adquirido, deducidas las eventuales amortizaciones ocurridas.
+
+- "Mayor valor pagado en compra de letras de crédito de propia emisión", por el saldo remanente que se mantenga por la diferencia en la compra de las respectivas letras.
+
+- "Diferencia en compra o venta de letras de crédito de propia emisión" de la partida 7620, en caso que la diferencia neta sea positiva.
+
+Junto con lo anterior, debe rebajarse el importe correspondiente de la cuenta de orden "Letras de crédito en poder de la institución".
 
 D. VENTA DE LAS LETRAS DE CREDITO POR CUENTA DE TERCEROS.
 
@@ -17582,11 +17592,9 @@ Las inversiones financieras con mercado secundario, como asimismo las que sean t
 
 - **a)** los instrumentos que conformen la cartera permanente de acuerdo a lo establecido en el Capítulo 8-21 de esta Recopilación;
 
-- **b)** las letras de crédito de propia emisión;
+- **b)** los instrumentos entregados en garantía; y,
 
-- **c)** los instrumentos entregados en garantía; y,
-
-- **d)** las inversiones correspondientes a instrumentos vendidos con pacto de retrocompra, cuando su plazo residual de recompra sea superior a 29 días.
+- **c)** las inversiones correspondientes a instrumentos vendidos con pacto de retrocompra, cuando su plazo residual de recompra sea superior a 29 días.
 
 En los instrumentos derivados se computarán los activos y pasivos subyacentes. En el caso del margen referido sólo a operaciones pagaderas en moneda chilena a menos de 30 días, se considerarán todos los derivados que se paguen o compensen en moneda chilena, aun cuando se expresen en moneda extranjera.
 
@@ -17817,16 +17825,6 @@ d) Inversiones en oro amonedado o en pastas.
 Las instituciones financieras no podrán efectuar inversiones en los bienes señalados en el N° 2, cuando el monto de la adquisición sumado al valor contable de aquellas inversiones que ya se mantienen, exceda una vez el importe de su capital pagado y reservas.
 
 Para este efecto se considerará el valor contable, a la fecha del cómputo, de los activos correspondientes a inversiones en sociedades, incluido el saldo del "goodwill" que se mantuviere por ellas, al activo fijo físico neto de depreciaciones, y a las inversiones en oro.
-
-CAPITULO 12-11 (Bancos y Financieras)
-
-MATERIA:
-
-LIMITE DE INVERSIONES EN LETRAS DE CREDITO DE PROPIA EMISION.
-
-De acuerdo con lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden adquirir letras de crédito de su propia emisión hasta por el 5% del monto total de sus emisiones. No obstante, podrán exceder dicho límite siempre que tales adquisiciones no sobrepasen del 50% de su respectivo capital básico.
-
-Para verificar el cumplimiento del límite de que se trata, se computará el valor par de los instrumentos de propia emisión que se mantengan.
 
 CAPITULO 12-12 (Bancos y Financieras) MATERIA:
 
