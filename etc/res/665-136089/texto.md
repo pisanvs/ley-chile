@@ -1,0 +1,3 @@
+Por resolución Nº 665, de 22 de abril de 1999, de esta Subsecretaría, autorízase a GUILLERMO HUMBERTO MARIN ESTEVEZ, para liberar los ejemplares de la especie Esturión blanco de California, cuyo cultivo experimental fue aprobado por resolución Nº 1.090, de 1998, de esta Subsecretaría, desde el corral donde se encuentran actualmente confinados, conforme el numeral 6º de la citada resolución, hacia el tranque individualizado en el numeral 2º de la misma.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
