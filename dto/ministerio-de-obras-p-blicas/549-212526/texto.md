@@ -1,0 +1,3 @@
+Por decreto MOP Nº549 de 30 de mayo de 2003, se dejó sin efecto los numerales 3º, 4º, 5º, 6º y 7º del decreto MOP Nº2.462, de 31 de agosto de 1999, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº12. Consígnese judicialmente el monto provisional de la indemnización del lote Nº12, fijada por la Comisión de Peritos, con fecha 29 de septiembre de 1997, ascendente a la cantidad de $30.275.- La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
