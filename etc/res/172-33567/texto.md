@@ -1,0 +1,3 @@
+Por resolución N° 172, de 28 de Febrero de 1995, de esta Subsecretaría del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 412, de 1990, de esta Subsecretaría, que autorizó a don OSCAR LEON BONILLA, R.U.T. N° 2.316.134-6, para operar un vivero ubicado en San Rafael, Estero Huito, comuna Calbuco, Provincia de Llanquihue, X Región, por haberse derogado el Decreto de Concesión Marítima.
+
+Valparaíso, 28 de Febrero de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
