@@ -1,0 +1,5 @@
+Por decreto MOP Nº 982, de 16 de septiembre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco los lotes de terreno Nºs. 5, 10, 13 y 14, para la obra: Camino Ruta G-76, Sector María Pinto - Santa Inés, Tramo Km. 0,00000 a Km. 12,26088, que figuran a nombre de Carreño Carreño María y otros, Rol de Avalúo 6-9, comuna de María Pinto, Región Metropolitana, superficies 38,30 m2., 57,20 m2., 86,90 m2. y 34,50 m2. La Comisión de Peritos, fijó con fecha 28 de mayo de 2002, complementada por Acta de fecha 4 de octubre de 2002 en lo que respecta al lote Nº 5, el monto de la indemnización provisional en la cantidad de $264.970.-, para el lote Nº 5; $357.480.-, para el lote Nº 10;
+
+$2.500.410.-, para el lote Nº 13 y $12.495.750.- para el lote Nº 14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
