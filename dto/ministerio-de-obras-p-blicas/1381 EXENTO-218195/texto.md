@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 1.381 de fecha 31 de octubre del 2003, se expropió el lote de terreno Nº 36, superficie 131 m2, Rol Nº 208-107, comuna de Cabildo, V Región para la obra Camino Cabildo-Putaendo, Ruta E-41 Sector La Vega Guayacán, Km. 12,46900 a Km. 22,40000", y se acordó el valor de indemnización con su propietaria Berta Carolina Aracena Suárez, ascendente a la cantidad de $357.760.
+
+- Fiscal del Ministerio de Obras Públicas.
