@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.069 de 31 de octubre del 2002, se expropió el lote de terreno Nº381, superficie 1.697 m2, rol de Avalúo 3140-8, comuna de La Granja, para la obra Proyecto Sistema Américo Vespucio Sur Ruta 78-Av. Grecia Sector 3: Ruta 5-Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con Miguel Luciano Margas Garetto ascendente a la cantidad de $105.700.893.-
+
+Fiscal del Ministerio de Obras Públicas.
