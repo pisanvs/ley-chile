@@ -1,0 +1,3 @@
+Por Resolución No. 690, de 11 de Junio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fonento y Reconstrucción, se prorroga por 6 meses a contarde esta fecha, el plazo otorgado a don MIGUEL ANGEL DIAZ ALVAREZ, RUT No. 6.350.898-7, domiciliado en calle Las Industrias No. 4579, San Juan de Llo-Lleo, San Antonio, para empezar a operar la planta autorizada por Resolución No. 704, de 1989 de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 11 de Junio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
