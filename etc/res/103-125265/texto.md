@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución No. 103, de 5 de Diciembre de 1988 el SERVIU VI Región del Libertador General Bernardo O'Higgins, dispuso la expropiación conforme el DL 1.523 de 1976 y el DS No. 186 (V. y U.), de 1988 de los inmuebles ubicados en Avenida Brasil con Avenida Estación de la comuna de Rancagua; que corresponde a las propiedades de Avenida Brasil No. 1232 Rol de Avalúos No. 729 de la comuna de Rancagua y de aparente dominio de doña Berta Rosa; Eusebio y Mar a Juana Martínez Acevedo; y propiedad de Avenida Estación No. 1240 Rol de Avalúos No. 7210 de la Comuna de Rancagua, de aparentemente dominio de la sucesión Briones Calvo. Comisión tasadora integrada por los señores: René Octavio Corvalán Correa, arquitecto; Oscar Enrique Novoa Vargas, arquitecto; y Eduardo Schonhaut Guendelman, ingeniero civil, según informe de diciembre de 1988, fijaron monto provisional de las indemnizaciones: en la suma de $ 12.692.000 para el predio de Avenida Brasil No. 1232, Rol de Avalúos No. 72-9 de Rancagua, y en $ 9.345.680 para el predio de Avenida Estación No. 1240, Rol de Avalúos No. 72-10 de Rancagua, las que se pagarán al contado.-
+
+Director SERVU VI Región.
