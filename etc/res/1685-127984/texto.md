@@ -1,0 +1,7 @@
+Por resolución Nº 1.685, de 27 de noviembre de 1998, de esta Subsecretaría, modifícase las resoluciones Nº 1.132 y Nº 1.133 ambas de 1998, de esta Subsecretaría que fijaron las nóminas de armadores y embarcaciones habilitados para operar en las unidades de pesquería de Anchoveta y Sardina española y Jurel, de la III y IV Regiones, respectivamente, señaladas en el artículo primero letras a) y b) del D.S. Nº 493 de 1996 y artículo 1º del D.S. Nº 608, de 1997, ambos del Ministerio de Economía, Fomento y Reconstrucción, en el área de sus respectivas autorizaciones, en el sentido de eliminar de dichas nóminas a la nave en construcción N.N.
+
+(Res. 1.324/96) de COMPAÑIA PESQUERA CAMANCHACA S.A., por haberse dejado sin efecto su autorización de pesca mediante resolución Nº 899, de 1997, de esta Subsecretaría.
+
+Deniégase la solicitud formulada por Compañía Pesquera Camanchaca S.A., para incluir la nave ''Bucanero I'' en las nóminas de armadores industriales y embarcaciones habilitadas para realizar actividades pesqueras en las unidades de pesquería de Anchoveta, Sardina española y Jurel de la III y IV Regiones, antes individualizadas, contenidas en las resoluciones Nº 1.132 y Nº 1.133 ambas de 1998, de esta Subsecretaría, por no contar dicha embarcación con autorización vigente para operar sobre las señaladas unidades de pesquería.
+
+Valparaíso, 27 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
