@@ -1,0 +1,3 @@
+Por Decreto MOP. No 344, de 31 de marzo de 1998, se expropió el lote de terreno No 4, superficie 96,40 m2., rol de avalúo 139-788, comuna de Graneros, obra Camino Cruce Longitudinal Graneros- Codegua Ruta H-17, sector Cruce Ruta 5-La Compañía y se acordó precio de indemnización con su propietario Fernando Zamorano Reyes, ascendente a la cantidad de $662.595.
+
+Fiscal del Ministerio de Obras Públicas.
