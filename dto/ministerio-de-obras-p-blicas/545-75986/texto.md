@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°545 , de 30 de junio de 1997, se expropio el lote de terreno N° 4-A., superficie 1.201,8 M2.,rol de Avalúo 877-44, comuna de Coquimbo, para la obra Mejoramiento Ruta 5 norte Coquimbo La Herradura Camino Ruta 5 norte Rol: R-5 y se acordó precio de indemnización con su propietario, Enrique Van Oosterwyk Riedemann ascendente a la cantidad de $6.626.357
+
+Fiscal del Ministerio de Obras Públicas
