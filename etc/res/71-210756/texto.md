@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 71 de 12.05.2003, Serviu VI Región del Libertador Bernardo O'Higgins, tomada razón en fecha 26.05.03, ordenó expropiación parte de un inmueble ubicado en Avenida Freire Nº 869, rol Nº 339-2 de la comuna de Rancagua, superficie aproximada de 54,90 m2 de terreno y 123,28 m2 de construcciones, delimitada en polígono Z-A'-C'-Q'-B', conforme al Plano 1/2000, de aparente dominio de doña Albertina Raquel Moreno Navarro, inscrita a fojas 1016 Nº 1243 del año 1954, Proyecto de Mejoramiento Red Vial Avenida Freire, Rancagua, conforme al art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shippley R., Jorge Godoy Rojas, Florencio Carter B., Ingeniero, Arquitecto y Constructor Civil, respectivamente, según informe de fecha febrero de 2000, monto provisional en $70.464.060, más reajustes legales respectivos.
+
+- Directora Serviu VI Región.
