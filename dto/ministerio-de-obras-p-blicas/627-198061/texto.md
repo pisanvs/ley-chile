@@ -1,0 +1,3 @@
+Por decreto MOP Nº627, de 28 de marzo del 2002, se expropió el lote de terreno Nº10-2, superficie 1.148 m², rol de avalúo 361-7, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos Sector Kms. 163.000,00 al 163.980,00. Quinta Región y se acordó el valor de indemnización con su propietario Instituto de Educación Rural, ascendente a la cantidad de $2.859.094.- para el lote Nº10-2.-
+
+Fiscal del Ministerio de Obras Públicas.
