@@ -1,0 +1,3 @@
+Por Decreto MOP. No 209, de 27 de febrero de 1998, se expropiaron los lotes de terreno Nos. 5 y 11, superficies 556,6 y 485,4 m2. respectivamente, roles de avalúo 250- 19 y 406-14, comuna Los Muermos, para la obra: Camino Ruta V-46, Sector Río Frío - Los Muermos y se acordó precio de indemnización con sus propietarios Rogelio Olivares Torruella y Luis Tellez Paredes, ascendente a las cantidades de $188.890.-para el lote 5 y $173.681.- para el lote 11.-
+
+Fiscal del Ministerio de Obras Públicas.
