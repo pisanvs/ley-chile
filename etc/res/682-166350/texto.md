@@ -1,0 +1,3 @@
+Por resolución Nº682, de 5 de abril de 2000, de esta Subsecretaría, autorízase a CompañIa Pesquera Camanchaca S.A., para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº11, de 1980, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Manuel Montt Nº1941, comuna de Tomé, provincia de Concepción, VIII Región, en las líneas de elaboración de Fresco-enfriado y Congelado, el recurso Reineta.
+
+Valparaíso, 5 de abril de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
