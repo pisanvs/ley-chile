@@ -1,0 +1,3 @@
+Por decreto MOP N° 4.046, de fecha 31 de agosto de 2000, se expropió el lote de terreno N° 1, superficie 1.426 m2., rol de avalúo 339-7, comuna de Pelluhue, para la obra ''Camino Ruta M-50, Sector Cauquenes - Chanco, Km. 35,206 - 35,290'' y se acordó el valor de indemnización con su propietario Dulcinea del Carmen Leal Orellana, ascendente a la cantidad de $1.217.206.
+
+Fiscal del Ministerio de Obras Públicas.
