@@ -1,0 +1,9 @@
+EXMO. SEÑOR.
+
+El Ilustre Cabildo de esta Capital ha consultado al Senado el modo i órden que debe observar en las próximas elecciones de Capitulares, haciendo recuerdo del artículo de constitucion, i teniendo el cuerpo motivos justísimos que le impiden establecer nuevas reglas para esas elecciones, ha dispuesto que los actuales Cabildos procedan a sus elecciones del modo que se ha ejecutado hasta aquí i que para que puedan instruir a los nuevamente electos de los asuntos pendientes, queden seis cabildantes que se reelejirán de los actuales funcionarios, debiendo ser estos los Rejidores, Juez de abasto, el de policía baja, el Juez de aguas, el alcalde ménos antiguo, el procurador jeneral de Ciudad para que pueda instruir al que se elijiere, caso que la eleccion no recayese en él; debiendo observarse lo mismo respecto del Secretario, con la prevencion que la acta electiva de Alcaldes, Rejidores, i la que se extienda para el nuevo Procurador i Secretario, debe pasarse al Excelentísimo Señor Supremo Director para la aprobacion; i advirtiendo a los electores, que en los elejidos deben encontrárselas cualidades de aptitud, patriotismo, i aversion a toda clase de partido subversivo del orden i tranquilidad pública, podrá V. E. comunicar esta resolucion al Ilustre Cabildo de esta Capital, i a los demas del Estado para que procedan al desempeño de sus funciones.
+
+Dios guarde a V. E. muchos años. Santiago, diciembre 15 de 1818.- José Ignacio Cienfuegos.- José María Villarreal, secretario.
+
+Santiago, diciembre 16 de 1818.
+
+Conformado: transcríbase al Ilustre Cabildo de esta Capital, i circúlese a los demas del Estado para su observancia.- O'Higgins-Echeverría.
