@@ -1,0 +1,7 @@
+Por decreto MOP Nº3.804, de 29 de diciembre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 76, 78, 80, 81, 82, 83, 84, 91 y 92, para la obra Servicio de Alcantarillado sector San Juan Lo Gallardo, San Antonio, que figuran a nombre de Carlos Vidal Silva, Aurelio Latuz Morán, Héctor A. Hernández Hernández, Adelaida Medina Hinojosa, Suc. Hernández, Suc. Arce Velásquez, Soc. Francisco Flores y Brunilda Villa, roles de avalúos 9031-75, 9031-73, 9031-71 y en trámite, comuna de San Antonio, V Región, superficies 60; 81; 61,50; 45; 82,50; 69; 60; 219 y 108 M2., respectivamente. La Comisión de Peritos compuesta por los señores Alvaro Verdejo Vidal, Pablo Caria Giurici y Osvaldo Muñoz Quintana, fijó con fecha 25 de septiembre de 1999, el valor provisional de la indemnización en la cantidad de $120.000, lote 76; $162.000, lote 78;
+
+$123.000, lote 80; $90.000, lote 81; $165.000, lote 82;
+
+$138.000, lote 83; $120.000, lote 84; $438.000, lote 91 y $216.000, lote 92. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
