@@ -1,0 +1,3 @@
+Por Resolución N° 721, del 26 de Julio de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución N° 1050, de 1990, de esta Subsecretaría de Pesca que autorizó a SOCIEDAD PESQUERA BORQUEZ LTDA., RUT N° 79.960.710-7, para iniciar actividades pesqueras de transformación en el sentido de incorporar, a las líneas de proceso autorizadas, los recursos hidrobiológicos señalados en el numeral 2° de la Resolución N° 566, de 1988, de esta Subsecretaría.
+
+Valparaíso, 26 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
