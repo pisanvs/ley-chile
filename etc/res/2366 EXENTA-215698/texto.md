@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.366, de 8 de octubre de 2003, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.654 de 2002, de esta Subsecretaría, que autorizó a PESQUERA DE LOS ANDES LTDA., RUT Nº 96.533.090-9, domiciliada en Reyes Lavalle Nº 3170, oficina 21, comuna de Las Condes, Santiago, para realizar actividades pesqueras extractivas en aguas internacionales con la nave "Elqui", en virtud de lo dispuesto en el artículo 143 letra d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
