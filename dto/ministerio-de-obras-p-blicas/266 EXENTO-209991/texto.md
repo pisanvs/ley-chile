@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 266 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 127, superficie 8 m², Rol Nº 502-25, comuna de Retiro, VII Región para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario María Angélica Pozo Aravena, ascendente a la cantidad de $216.726.-
+
+Fiscal del Ministerio de Obras Públicas.
