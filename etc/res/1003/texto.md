@@ -1,0 +1,3 @@
+Por resolución N° 1.003, de 30 de Noviembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 620, de 1989, de esta Subsecretaría, que autorizó a a PESQUERA SASSO S.A., R.U.T. N° 96.547.830-2, para operar una nave en construcción, en virtud de lo señalado en el artículo 3° transitorio, del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de Noviembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
