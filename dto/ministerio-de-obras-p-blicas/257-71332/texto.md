@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 257, de 31 de marzo de 1997, se expropiaron a los lotes de terreno Nºs. 3, 8-A, 8-B, 11 y 17, superficies 12.425, 3.070, 2.443, 4,615 y 5,449 m2. respectivamente, roles de avalúos 597-74, sin rol, 597-107, 597-109 y 597-108, comuna de San Ignacio, para la obra Proyecto Laja - Diguillín, Canal Matriz, Sector Bulnes y se acordó precio de la indemnización con sus propietarios, Olga Lubertina Martínez Rivas, Hernán Henríquez Jiménez y José Rómulo Henríquez Jiménez, ascendente a las cantidades de $5.607.852 para el lote Nº 3, $753.619 para el lote Nº 8-A y $6.296.047 para los lotes Nºs. 8-B, 11 y 17.
+
+Fiscal del Ministerio de Obras Públicas.
