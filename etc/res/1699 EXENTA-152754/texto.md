@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.699 de 26 de Agosto de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a sector excluido y expropiado del predio "Fundo Santa Corina, Capellanía o Carrizal Compuesto de 3 Porciones de Terreno", de la Comuna de Rengo, Sexta Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 6 y sitios N°s. 1 al 5 del Proyecto de Parcelación "Santa Corina", formado por predio señalado. Los derechos de agua se extraen del Rio Claro, canales Bisquert y Mira y derrames Estero Cantarrana y Las Pulgas. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
