@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.740, de 27 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1 y 2, para la obra Camino Ruta L-32, sector Cruce Ruta 5-Puente Sifón, Tramo Km. 2,320 al 17,66644 y Km.
+
+0,000 al 0,963 (Variante), que figuran a nombre de Laura Melania González Valenzuela y José Antonio Figueroa Vergara, roles de avalúo 534-74 y 504-4, comuna de Linares, VII Región, superficies 41 m² y 35 m². La comisión de peritos fijó con fecha 23 de julio de 1997, en la cantidad de $61.500, lote Nº1 y $6.300, lote 2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
