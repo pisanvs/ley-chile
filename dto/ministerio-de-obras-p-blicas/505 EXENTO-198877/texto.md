@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 505, de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nºs. 64 y 64-A, superficies 461 m² y 111 m², rol de avalúo 159-36, comuna de Ranquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, Tramo I, Km. 0,00000 al 5,58300'' y se acordó el valor de indemnización con su propietario don Jorge Eugenio Mena Vera, ascendente a la cantidad de $1.562.530.-
+
+Fiscal del Ministerio de Obras Públicas.
