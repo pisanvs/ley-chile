@@ -16470,6 +16470,10 @@ En todo caso, si la institución compradora, por cualquier causa, adquiere en fo
 
 Cuando, en las operaciones de compra de documentos con pacto, los instrumentos transados reúnan los requisitos para servir de garantía para los efectos de la ampliación del margen de crédito según lo señalado en el N° 3 del título III de este Capítulo, la tenencia transitoria de los títulos o su registro a nombre de la institución financiera adquirente en una empresa de depósito y custodia de valores regida por la Ley N° 18.876, permitirá cursar la operación con pacto como crédito con garantía. Para este efecto debe considerarse sólo el valor de los respectivos documentos adquiridos, calculado según lo dispuesto en el título IV de este Capítulo. El mismo criterio debe seguirse con los valores adquiridos con pacto a través de una empresa de depósito y custodia de valores.
 
+4.4.- Notas estructuradas.
+
+Las inversiones en notas estructuradas quedan sujetas a los límites de crédito del artículo 84 de la Ley General de Bancos, debiendo considerarse como deudor directo tanto al emisor de la nota como al deudor del instrumento subyacente.
+
 ### 5. Deudas complementarias
 
 5.1. Imputación de las deudas sociales a los socios o accionistas.
