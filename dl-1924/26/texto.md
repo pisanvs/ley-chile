@@ -1,0 +1,113 @@
+DECRETO LEY N° 26, 1924.
+
+MINISTERIO DEL INTERIOR Decreto-Lei N.° 26, que establece el servicio de identificacion personal obligatorio.
+
+(Publicado en el Diario Oficial núm. 14,031, de 18 de noviembre de 1924, y con rectificaciones en el núm.
+
+14,032).
+
+Núm. 26.- Santiago, 7 de octubre de 1924.- Teniendo presente:
+
+Que el servicio de identificacion personal está establecido en distintas ciudades de la República, por simples decretos gubernativos;
+
+Que este servicio es indispensable en las sociedades modernas, como una garantía para los habitantes;
+
+Que hai conveniencia pública en organizar definitivamente este servicio,
+
+La Junta de Gobierno, ha acordado y dicta el siguiente
+
+DECRETO-LEI:
+
+#### Artículo 1
+
+° Establécese en la República el servicio de identificacion personal obligatorio, segun el sistema de Juan Vucetich y la descripcion morfolójica de Alfonso Bertillon.
+
+#### Artículo 2
+
+° El servicio identificatorio dependerá de la Direccion Jeneral de Policías y estará a cargo de un Gabinete Central, establecido en Santiago, y de gabinetes ubicados en las cabeceras de provincias y de departamentos. Estos quedarán obligados a efectuar jiras periódicas por todo el departamento, a fin de facilitar la jeneralizacion de este servicio.
+
+#### Artículo 3
+
+° Los gabinetes se hallarán bajo la vigilancia inmediata de las respectivas jefaturas de policías departamentales, pero técnicamente quedarán bajo la vijilancia del Gabinete Central.
+
+#### Artículo 4
+
+° Corresponde a los gabinetes de identificacion:
+
+1.° La filiacion de las personas y todas las operaciones concernientes a la identificacion personal;
+
+2.° La dacion de la libreta o carnet de identidad;
+
+3.° La dacion de certificados de conducta;
+
+4.° Abrir prontuarios y la anotacion en ellos de los antecedentes judiciales y policiales que consten de documentos firmados por funcionarios autorizados para ello;
+
+5.° La formación de la estadística de los delincuentes;
+
+6.° Espedir los informes que sobre cualquiera de los puntos indicados, les soliciten las autoridades judiciales o administrativas.
+
+#### Artículo 5
+
+° Estarán obligados a obtener su libreta de identidad personal, todos los residentes en el territorio de la República, tanto nacionales como extranjeros que hayan cumplido veintiún años de edad, libreta que será renovada cada cinco años.
+
+Exceptúanse de esta obligacion: las mujeres, los religiosos enclaustrados, las personas recluídas en los Hospicios y Casas de Orates, los condenados a prision, presidio o reclusion, mientras dure la condena, y los inhábiles para todo trabajo.
+
+#### Artículo 6
+
+° La libreta será documento suficiente para probar la identidad del individuo en todos los actos públicos o privados en que la presente, y tendrá, por lo tanto, valor legal; pero aquella que no reuna el requisito de haber sido renovada dentro de los cinco años que le fija el artículo anterior, sólo tendrá el valor de una presuncion.
+
+#### Artículo 7
+
+° La infraccion de los artículos 5.° y 6.° será castigada con una multa de sesenta pesos, conmutables en un dia de prision por cada veinte pesos.
+
+#### Artículo 8
+
+° Corresponde a la Policía de Seguridad velar por el fiel cumplimiento de la presente lei, quedando facultada para exijir, cuando lo estime por conveniente, y a cualquier persona, la libreta o carnet correspondiente; el solo hecho de negarse a ello, constituye una infraccion, que será castigada con una multa de veinte a sesenta pesos, conmutable en un dia de prision por cada veinte pesos.
+
+#### Artículo 9
+
+° Atendida su calidad, las libretas se dividirán en tres clases, cuyos precios respectivos no podrán exceder de las cantidades que a continuación se indican: de 1.a clase, hasta veinte pesos; de 2.a clase, hasta ocho pesos; el precio del carnet de identidad de 3.a clase será de tres pesos. Queda a la eleccion del adquirente escoger una u otra de estas libretas.
+
+Este valor se cubrirá por medio de estampillas de impuesto fiscal, que se pagarán en la propia libreta y se inutilizarán con el timbre del gabinete correspondiente.
+
+INCISO FINAL.- DEROGADO.-
+
+#### Artículo 10
+
+Los servicios de identificacion serán únicamente fiscales. Quedan suprimidos los gabinetes particulares que existen con este objeto, y se prohibe su instalacion para el futuro, bajo pena de mil pesos de multa, sin perjuicio de la clausura inmediata del establecimiento y del comiso de los útiles y muebles con que se dotare.
+
+#### Artículo 11
+
+Las oficinas de identificacion estarán obligadas a tomar el número de fichas dactiloscópicas de cada filiado, que sean necesarias para servir el canje de antecedentes entre las diversas oficinas del pais y las estranjeras, con las cuales exista convenio sobre la materia.
+
+#### Artículo 12
+
+Los informes que se espidan por los jefes de oficina, las libretas de identidad y los prontuarios formados por las mismas, son documentos públicos para los efectos de los artículos 193, 194, 199, 200, 201 y 247 del Código Penal, y tendrán el mérito de presuncion legal probatoria en materia criminal.
+
+#### Artículo 13
+
+Los estranjeros transeuntes tendrán obligacion de adquirir libretas de identidad en los gabinetes de la República, si su permanencia en el pais excede de dos meses; en caso contrario, podrán acreditar su identidad con solo sus pasaportes, salvo caso de duda, en que las autoridades podrán exijirle otros documentos.
+
+#### Artículo 14
+
+El Gabinete Central y los de las capitales de provincias y de departamentos, tendrán el personal y sueldos que fije un decreto-lei especial. El personal será propuesto por la Direccion Jeneral de Policías en la forma establecida por la lei número 4,052, de 13 del mes en curso.
+
+#### Artículo 15
+
+Los certificados de antecedentes que se soliciten a los gabinetes, deberán llevar una estampilla de cinco pesos de impuesto fiscal.
+
+#### Artículo 16
+
+Se fija un plazo de tres meses para que se establezcan en todas las policías departamentales los gabinetes de identificacion y el de un año para que sea obligatorio el tener libreta de identidad.
+
+> **Nota.** NOTA: 1 El Decreto Ley N° 460, de 1925, prorrogó, hasta el 1° de enero de 1926 el plazo fijado por el presente decreto ley para que sea obligatoria la libreta de identidad personal. Posteriormente, el art. 1° de la ley 4.237, prorrogó hasta el 1° de enero de 1930 el plazo fijado por los decretos leyes N°s. 26, de 1924 y 460 de 1925, para que sea obligatoria la libreta de identidad personal.
+
+#### Artículo 17
+
+Se podrá invertir hasta la suma de quinientos mil pesos en la instalacion de este servicio en toda la República.
+
+#### Artículo 18
+
+La Junta de Gobierno dictará los reglamentos necesarios para la ejecucion del presente decreto-lei.
+
+Anótese, rejístrese, comuníquese e insértese en el Boletin de las Leyes y Decretos del Gobierno.- Luis Altamirano.- Francisco E. Nef.- J. P. Bennett.- Alcibíades Roldan.
