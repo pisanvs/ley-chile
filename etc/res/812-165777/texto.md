@@ -1,0 +1,7 @@
+AUTORIZA A SOCIEDAD PLANTA PROCESADORA DE ALIMENTOS VELASQUEZ COQUIMBO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 812, de 04 de Diciembre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Planta Procesadora de Alimentos Velásquez Coquimbo Limitada, domiciliada en Coquimbo, para incorporar en la planta que opera en calle Condell No. 1 de Coquimbo. la línea de conservería, en la que podrá utilizar como materia prima; anguila, atún aleta larga, blanquillo, bonito, caballa, cazón, cojinova del Norte, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado de ojos chicos, lisa, bilagay, marrajo, merluza común, merluza española, palometa, pejegallo, pejeperro, pejerrey de mar, sardina española, tollo, taca, almeja, caracol azul, caracol locate, caracol trumulco, cholga, chorito, choro zapato, lapa, macha, navaja, ostión del Norte, pulpo, gamba, jaiba, piure y pepino de mar.
+
+La interesada deberá efectuar el transporte de las especies mencionadas desde su centro de abastecimiento hasta la planta elaboradora en medios dotados con sistemas adecuados de preservación de la materia prima, tales como cajas o contenedores aislados con hielo, cámaras isotérmicas o refrigeradas.
+
+Valparaíso, 04 de Diciembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
