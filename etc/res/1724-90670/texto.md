@@ -1,0 +1,11 @@
+AUTORIZA A DON DEMETRIO SEGUNDO CONTRERAS MIRANDA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por resolución No. 1.724 de 9 de Noviembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Demetrio Segundo Contreras Miranda, R.U.T. No. 6.315.585-3, domiciliado en la ciudad de Lota, calle Puerto Aysén No. 58, La Playa, para iniciar actividades pesqueras, en orden a operar la embarcación "Santa Carolina", en el litoral de las Regiones V al paralelo 43° LS, excluidas las aguas interiores de la X Región, donde podrá extraer los siguientes recursos hidrobiológicos: Bacalao de profundidad o mero, congrio colorado, congrio dorado, congrio negro, cojinoba del Sur, cojinoba del Norte, corvina, lisa, machuelo o tritre, merluza de cola, merluza común, pejegallo, pejerrey de mar, raya, tollo, anchoa, caballa, jurel, sardina y sardina común. Con todo, el solicitante no podrá extraer en el litoral de la VIII Región los recursos anchoa, caballa, jurel, sardina y sardina común, de conformidad con lo dispuesto en el DS No. 436, de 1985, prorrogado por el decreto No. 363, de 1989, del Ministerio de Economía, Fomento y Reconstrucción. No obstante lo anterior, el peticionario podrá extraer con la nave a que se refiere la presente resolución, el recurso albacora o pez espada, en el litoral de la I a la X Región.
+
+Deniégase, la autorización solicitada por el peticionario para extraer el recurso Bacalao de profundidad o mero, en el litoral comprendido al Norte de Punta Liles conforme a lo establecido en el decreto No. 439 de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Deniégase la autorización solicitada por el peticionario para operar la nave "Santa Carolina", en el litoral de la I a la IV y del paralelo 43° LS. al Sur, incluidas las aguas interiores de la X Región, sin perjuicio de lo dispuesto en el inciso final numeral 3° de esta resolución, respecto del recurso albacora o pez espada.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Noviembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
