@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 875 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 20, sitios N°s. 1 al 30 y Bien común general No. 1 del Proyecto de Parcelación "Los Aromos", comuna de San Nicolás, VIII Región, formado por predios "San José o el Oasis" y "Monteleón". Los Derechos de Agua se extraen de los canales Monteleón y Arancibia, río Ñuble y derrames conducidos por Estero Loloco o Lirutao o Ninquihue y por Estero Monteleón.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
