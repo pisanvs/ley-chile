@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 535 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nº 61-C y 62, superficies 1.352 y 1.820 m², Rol de Avalúo Nº 271-44, comuna de San Javier, para la obra ''Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 2 Carrizal - Puente Belco, Tramo Km. 17,34000 a Km. 23,51000'' VII Región y se acordó el valor de indemnización con su propietaria Esmeralda de las Rosas Salgado Fuentes, ascendente a la cantidad de $1.404.721.-
+
+Fiscal del Ministerio de Obras Públicas.
