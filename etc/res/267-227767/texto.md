@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 267, DE 2004
+
+Por resolución Nº 267, de 29 de junio de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región de Coquimbo, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº 209 de 2004, del mismo origen, para la instalación y operación de una Planta Revisora Clase AB, en la Comuna de La Serena, y una Planta Revisora Clase AB, en la Comuna de Ovalle, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la IV Región de Coquimbo, y la concesionaria "Revisiones Técnicas Ovalle Limitada", con fecha 25 de junio de 2004. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.
+
+Claudio Méndez Olave, Secretario Regional Ministerial de Transportes y Telecomunicaciones, IV Región de Coquimbo. La Serena, 29 de junio de 2004.
