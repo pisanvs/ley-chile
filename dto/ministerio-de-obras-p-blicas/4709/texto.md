@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.709, de 27 de octubre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº3-1, para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector B: Km. 42.950,00 al Km. 55.200,00", Región Metropolitana, que figura a nombre de Rojas Pérez Aureo D., rol de avalúo 117-2, comuna de Paine, superficie 422 m2. La comisión de peritos integrada por los señores Inés Elena Otárola Castillo, María Angélica Hurtado Arranz y Marcela Alejandra Redard Ayala, fijó con fecha 28 de julio de 2000, el valor provisional de la indemnización en la cantidad de $4.017.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
