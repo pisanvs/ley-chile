@@ -1,0 +1,9 @@
+﻿ Donativo para la espedicion al Perú
+
+Excmo. Señor:
+
+Nacido en un Pais que tiene la gloria de haber sido el primero que hizo escuchar en América el eco sagrado de la libertad, perseguido i arrastrado de calabozo en calabozo por los esfuerzos que practiqué en defenderla i arribado por una felicidad a Chile donde tambien participé de los presidios que preparó la tiranía a los patriotas: yo debo consagrar a la causa de América cuanto soi, no solo porque este es mi deber, sino tambien por los sacrificios con que desde sus principios me hallo empeñado en ella. Así es que oblo en calidad de donativo la cantidad que V.E. se ha servido señalarme por via de empréstito para ausilio de la espedicion a Lima. I pudiendo todavía contribuir con 50 fanegas de trigo que aun quedan en mi poder, hago tambien cesion de ellas para el mismo efecto. Suplicando por último a V.E., que cuando se verifique la salida de esta espedicion, recuerde que existe en Chile un patriota que desea ardientemente servir con su persona en la gran causa que sostenemos, i que no quedarán satisfechos sus deseos, si V.E, no le permite incorporarse en el ejército para concurrir al ausilio de nuestros hermanos del Perú.
+
+Dios guarde la vida de V.E. muchos años.- Santiago i Setiembre 21 de 1819.- B.L.M. de V.E. su respetuoso súbdito i capellán.- Francisco José del Castillo.- Excmo. Señor Supremo Director.
+
+Santiago, Setiembre 21 de 1819.- Se acepta la jenerosa oferta del benemérito patriota presbítero don Francisco José del Castillo, cura de la Calera. Su loable entusiasmo patriótico es digno de imitacion.- Insértese en la Gaceta Ministerial su nota i este decreto.- O'Higgins.- Echeverría.
