@@ -1,0 +1,3 @@
+Por Resolución N° 183, de 26 de Enero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año, a contar de la fecha de la presente Resolución, la vigencia de la Resolución N° 876, de 1992, que autorizó a PESCA CHILE S.A., R.U.T. N° 95.023.000-2, para ampliar actividades pesqueras extractivas con la nave "Pedrosa", de conformidad con lo dispuesto en el artículo 143 letra b), de la Ley 18.892 y sus modificaciones.
+
+Valparaíso, 26 de Enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
