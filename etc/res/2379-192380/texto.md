@@ -1,0 +1,3 @@
+Por resolución Nº 2.379 de 28 de noviembre de 2001 de esta Subsecretaría, autorízase a PESQUERA FRIOSUR VII S.A. para continuar desarrollando actividades pesqueras extractivas con la nave "Friosur VII", autorizada por resoluciones Nº 766 de 1993, Nº 277 de 1999, Nº 293, Nº 294, Nº 2.237, Nº 2.587, todas de 2000, Nº 107 y Nº 2.004, ambas de 2001, todas de esta Subsecretaría de Pesca.
+
+Valparaíso, 28 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
