@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.310, de 29 de octubre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 10, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figura a nombre de Larrea Lozano Jesús Elías, rol de avalúo 654-3, comuna de Buin, superficie 7.625 m². La Comisión de Peritos integrada por los señores Inés Elena Otárola Castillo, Juan Alfredo Díaz Velasco y Marlen Teresa Ríos Marcuello, fijó con fecha 2 de julio de 1999, el valor provisional de la indemnización en la cantidad de $108.560.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
