@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.281, de 17 de abril de 2000, se dejó sin efecto la expropiación de los lotes de terreno Nºs 35 y 36, aprobada por decreto MOP Nº2.320, de 30 de agosto de 1999, que figuran a nombre de Sara C. Cisterna Yáñez y Sara Cecilia Cisterna Yáñez y otro, roles de avalúo 528-105 y 528-57, comuna de Linares, superficies 413 m2. y 109 m2., para la obra Camino Ruta L-32, sector Cruce Ruta 5, Puente Sifón Kms. 2,320 al 17,666.44.
+
+Fiscal del Ministerio de Obras Públicas.
