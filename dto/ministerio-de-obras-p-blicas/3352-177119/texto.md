@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.352, de 31 de julio de 2000, se expropió el lote de terreno Nº70, superficie 48.665 m², rol de avalúo 636-68, comuna de Victoria, para la obra ''Concesión Internacional Ruta 5, Tramo Collipulli-Temuco'', Novena Región y se acordó el valor de indemnización con su propietaria Agrícola Santa Carolina Limitada, ascendente a la cantidad de $91.759.805.-
+
+Fiscal del Ministerio de Obras Públicas.
