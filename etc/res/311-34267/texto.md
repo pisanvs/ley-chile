@@ -1,0 +1,5 @@
+Por Resolución N° 311 de 13 de Febrero de 1996 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase parcialmente, la Resolución N° 721, de 1988, de esta Subsecretaría, que autorizó a PESQUERA SAN SEBASTIAN S.A., para realizar actividades pesqueras con la nave Llo Lleo, en cuanto se refiere a las unidades pesquería de los recursos hidrobiológicos Albacora, en el litoral de la III a la X Región y Jurel, en el litoral de la III y VII y IX a X Regiones, Atún, Bonito, Cojinoba, Langostino colorado, Caballa, Merluza del sur, Congrio dorado, en el litoral de la III a X Región, en virtud de lo señalado en el artículo 143 letra b), del D.S. N° 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Asimismo, déjase sin efecto la autorización concedida a la peticionaria respecto de la utilización del arte de pesca enmalle.
+
+Valparaíso, 13 de Febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
