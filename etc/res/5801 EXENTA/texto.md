@@ -1,0 +1,31 @@
+EXCEPCIONA DEL SISTEMA DE CAMBIO DE SUJETO DEL IVA A COMPAÑIA MINERA EL INDIO
+
+Núm. 5.801 exenta.- La Serena, 13 de noviembre de 1992.- Visto: El escrito del 16 de Octubre de 1992, presentado por don Gonzalo Bremer Gómez, RUT N° 7.012.917-5, y don Rodrigo Aranda Villalobos, RUT N° 7.431.527-5, ambos en representación de Compañía Minera el Indio, RUT N° 85.758.600-K. para estos efectos domiciliados en Coquimbo, Barrio Industrial, Sitio N° 58, Alto Peñuelas; los antecedentes y comprobaciones que el Departamento de Fiscalización de esta Dirección Regional ha allegado conjuntamente con remitir el Informe N° 502, del 27 de Octubre de 1992, sobre la situación tributaria de la contribuyente, el análisis y evaluación de la IV Dirección Regional sobre la petición del contribuyente, y
+
+Considerando:
+
+1°) Que, en conformidad con lo dispuesto en el N° 9 de la parte resolutiva de la Resolución N° Ex. 3.338, del 10 de Septiembre de 1992, de la Dirección Nacional del Servicio de Impuestos Internos, publicada en el Diario Oficial del 14 de Septiembre de 1992, la Compañía Minera El Indio, ha solicitado excepcionarse del régimen de cambio de sujeto, de derecho del Impuesto al Valor Agregado en las ventas de los productos mineros a que se refiere dicha resolución, por las ventas que de dichos productos efectúe, ya sea al Banco Central de Chile, a la Casa de Moneda de Chile, en la Empresa Nacional de Minería (ENAMI), a los poderes compradores de productos mineros establecidos por el Estado de Chile, a las empresas en que el Estado tenga participación mayoritaria en el capital, a los exportadores en general y a los contribuyentes que declaran en Primera Categoría su renta efectiva según contabilidad completa.
+
+2°) Que, en virtud de la disposición mencionada en la citada Resolución Ex. N° 3.338, los Directores Regionales del Servicio de Impuestos Internos poseen la facultad para excepcionar a determinados contribuyentes del régimen de cambio de sujeto de los impuestos previo análisis de sus antecedentes tributarios y cumplimiento de ciertos requisitos copulativos.
+
+3°) Que, la Circular N° 44 de la Dirección Nacional del Servicio de Impuestos Internos de fecha 09 de Octubre de 1992, publicada en el Diario Oficial del 14 de septiembre de 1992, en sus párrafos N°s. 8 y 9 atingentes sobre la materia, señala las condiciones que deben cumplir los contribuyentes que deseen excepcionarse del régimen de cambio de Sujeto del IVA, establecido en la señalada Resolución N° Ex. 3.338, los antecedentes que deberán adjuntarse y trámites a cumplirse para que pueda accederse a la petición formulada.-
+
+En relación con la Circular N° 44, citada la Dirección Nacional por intermedio de la Subdirección de Fiscalización emitió el Reservado N° 156, de 30 de Octubre de 1992, que interpretó el porcentaje de compras excluidas las del activo fijo. Al respecto señala que por lo poco significativo que resulta el monto de las cifras decimales, éstas no deben ser consideradas, ni corresponde efectuar un redondeo por aproximación, por lo tanto para calcular el 70% aludido debe despreciarse cualquier cifra decimal.-
+
+4°) Que, conforme al mérito de la solicitud y antecedentes, presentados por la peticionaria tenidos a la vista, análisis efectuados, el Informe N° 502 del 27 de Octubre de 1992, emitido por el Departamento de Fiscalización de esta Dirección Regional, los demás antecedentes aportados y comprobaciones realizadas por el informante, el Director Regional infrascrito luego de analizarlos estima del caso considerar que la Compañía Minera El Indio, cumple con las condiciones estatuidas para excepcionarse del régimen del cambio de sujeto de derecho del IVA, de acuerdo a las normas citadas e instrucciones emitidas por la Dirección Nacional sobre la materia.-
+
+Vistos, además lo previsto en los artículos 2° y 10° del D.L. N° 825 de 1974 y demás pertinentes del D.S. N° 55, de Hacienda, de 1977, artículo 6°; letra A, N°s. 1 y 3 del D.L. N° 830 de 1974, sobre Código Tributario y artículo 7°, letra b) y p) del D.F.L. N° 7, publicado en el Diario Oficial del 15 de Octubre de 1980, sobre Ley Orgánica del Servicio de Impuestos Internos y sus modificaciones, Resolución N° Ex. 3.338, publicada en el Diario Oficial del 14 de Septiembre de 1992, en concordancia con la circular N° 44 del 09 de Octubre de 1992, de este Servicio, y Reservado N° 156 de 30 de Octubre de 1992, de la Subdirección de Fiscalización del Servicio de Impuestos Internos.-
+
+Se resuelve:
+
+Ha lugar a lo solicitado.
+
+1°) Excepciónese del Sistema de Cambio de Sujeto de Derecho del Impuesto al Valor Agregado a la Compañía Minera El Indio, RUT N° 85.758.600-K, establecido en la Resolución Ex. N° 3.338, de 10 de Septiembre de 1992, de la Dirección Nacional, publicada en el Diario Oficial del 14 de Septiembre de 1992, por las ventas de oro, productos semielaborados de oro, artículos de oro, y joyas y minerales de oro, y en las ventas de productos contenidos de oro, metales, y minerales, cuyo precio de venta por kilogramo sea igual o superior a 18 Unidades Tributarias Mensuales vigentes para el mes en que se efectúa la transacción, que se realice a las instituciones ya señaladas.
+
+2°) Esta autorización regirá a contar de su publicación en el Diario Oficial hasta el 30 de Septiembre de 1993, y podrá ser dejada sin efecto si esta Dirección Regional estimare que el contribuyente ha dejado de cumplir con las condiciones en cuya virtud le fue concedida.-
+
+3°) Las facturas que emita la contribuyente por las ventas que efectúe de los productos mineros indicados en la Resolución N° Ex. 3.338, de 1992, deberán señalar el número y fecha de la presente resolución, como igualmente figurar en ellas la fecha de expiración de la autorización que se concede mediante la presente resolución, en la forma que se señala:
+
+"Venta sin retención de Impuestos a las ventas y servicios" Res. Ex. N° .....de fecha..... de la Dirección Regional.....publicada en el Diario Oficial de fecha......
+
+Publíquese el texto completo de esta resolución en el Diario Oficial, por cuenta y costo de la contribuyente.- Anótese, comuníquese y notifíquese, por carta certificada.- Norberto San Martín Soto, Director Regional.
