@@ -1,0 +1,5 @@
+Por resolución Nº1.196, de 18 de junio de 1999, de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº432 de 1999, de esta Subsecretaría que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, sede Coquimbo, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado: ''Pesca de investigación del Ostión del Norte para evaluar y optimizar una estrategia de manejo'', en el sentido de agregar un inciso segundo a dicho numeral, y cuyo tenor es el siguiente: ''Las actividades de extracción sólo podrán ser realizadas dentro del área autorizada, por pescadores y embarcaciones artesanales inscritos con caleta base Puerto Aldea, conforme al programa de investigación establecido por la Universidad y aprobado por la Subsecretaría de Pesca.
+
+Déjase sin efecto la resolución Nº641 de 1999, de esta Subsecretaría, por no haberse publicado el extracto de ésta dentro del término fijado, según lo establecido en el artículo 100 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
