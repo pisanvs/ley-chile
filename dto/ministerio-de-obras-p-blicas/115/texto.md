@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. N° 115, de 31 de Mayo de 1991 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno 1, para la obra Interconexión Vial Panamericana Sur por Avda. General Velásquez, Sector Nudo General Velásquez J.J. Prieto (Ex-Ochagavía), que figura a nombre de Mario Garcia de la Huerta, Rol de Avalúo 4500-7, Comuna de San Bernardo, Superficie 2.130 m2., Deslindes: Norte: Con resto del predio; Sur: Con Avda. General Velásquez y J.J. Prieto; Este: Con resto del predio y Avda. J.J. Prieto y Oeste: con Avda. General Velásquez y resto del predio afectado con la expropiación. La Comisión de Peritos compuesta por los señores Jorge Navarro Navarrete, René Ureta Koster y Roberto Correa Bezanilla, fijó con fecha 23 de Junio de 1989, el valor provisional de la indemnización en la cantidad de $ 2.130.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
