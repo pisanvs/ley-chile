@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE SECURITIZADORA SECURITY S.A.
+
+Certifico: Que por resolución exenta Nº69, de fecha 31 de marzo de 2003, esta Superintendencia de Valores y Seguros aprobó la reforma de estatutos de la sociedad Securitizadora Security S.A., acordada en la primera junta extraordinaria de accionistas de 16 de diciembre de 2002 complementada por acuerdo de la segunda junta extraordinaria de accionistas de 21 de marzo de 2003, ambas reducidas a escrituras públicas de fechas 19 de diciembre de 2002 y 24 de marzo de 2003 respectivamente, en la Notaría de Santiago de don Alvaro Bianchi Rosas, con domicilio en Dr. Sótero del Río 322, Santiago.
+
+La reforma consiste en aumentar el capital social actualmente suscrito y pagado y que revalorizado al 31 de diciembre 2001 asciende a la suma de $242.425.234 dividido en 100 acciones nominativas, de una misma serie y sin valor nominal a la suma de $500.000.000, mediante la capitalización de $120.438.049 emitiendo 100 acciones liberadas de pago, nominativas, ordinarias, de una misma serie y sin valor nominal y con $137.136.717 mediante la emisión de 100 acciones de pago, nominativas, ordinarias, de una misma serie y sin valor nominal, que deberá ser pagado dentro del plazo de 3 años contado desde la fecha de la junta.
+
+Santiago, 31 de marzo de 2003.- Carmen Undurraga Martínez, Secretario General.
