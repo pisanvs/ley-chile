@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 637, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 2,3 y 5, superficies 1.500, 1.250 y 198 M2., roles de avalúo 2196-78 y 2196-216, comuna de Puerto Montt, para la obra Camino ruta 7, Sector Pelluco - Chamiza y se acordó precio de indemnización con sus propietarios Agrícola Inmobiliaria e Inversiones Lomas de Coihuin Limitada y Teresa González Cordero, ascendente a las cantidades de $5.700.660.- y $392.839.
+
+Fiscal del Ministerio de Obras Públicas
