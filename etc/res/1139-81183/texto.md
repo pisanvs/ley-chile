@@ -1,0 +1,3 @@
+Por resolución Nº1.139 de 3 de Septiembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año, a contar de la fecha de esta resolución, el plazo otorgado a COMPAÑIA PESQUERA CAMANCHACA S.A., R.U.T. Nº93.711.000-6, domiciliada en Santiago, en el numeral 7º de la resolución Nº475, de 1989, prorrogado por la resolución Nº1.010, de 1990, ambas de esta Subsecretaría, para operar una planta industrial ubicada en Pelancura, San Antonio, V Región, contenida en el numeral 4º de la resolución Nº475, de 1989, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 3 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
