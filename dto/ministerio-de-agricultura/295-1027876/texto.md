@@ -20,17 +20,17 @@ Decreto:
 
 Prohíbese la corta o aprovechamiento en cualquier forma de los árboles que se encuentran situados en los terrenos ubicados dentro de los siguientes límites:
 
-Norte, lugar La Leonera, línea recta imaginaria que lo une con el portazuelo Los Baños de Los Nevados de Chillan, línea recta imaginaria que lo une con el Paso Treguiles, frontera limite con la República de Argentina.
+Norte, Cerro Castro en la divisoria de aguas entre los ríos Ñuble y Perquilauquén, siguiendo dicha divisoria entre la cuenca del Ñuble y las del Perquilauquén, Longaví y Guaiquivilo hasta el límite con la República Argentina.
 
 Este, frontera Chileno-Argentina hasta el Portazuelo Trapa Trapa.
 
 Sur; portazuelo Trapa Trapa, línea imaginaria que une las cumbres de los cerros Risquería y Pan de Azúcar.
 
-Oeste, Pan de Azúcar, línea imaginaria que une los cerros Pilque y Panteón; confluencias de los esteros Cholguán y Las Mulas, recta hasta el cerro Caipo y el lugar La Leonera.
+Oeste, Las líneas rectas imaginarlas que unen los siguientes puntos, Cerro Pan de Azúcar, Cerro Pilque, Cerro Panteón, confluencia de los esteros Cholguán y Las Mulas, Cerro Caipo, Cerro Alto del Padre (cota 975 Carta Preliminar I.G.M. 36°46' lat. Sur 71° 38' long. Oeste). Cerro Las Minas y Cerro Castro en la divisoria de aguas entre los ríos Ñuble y perquilauquén.
 
 #### Artículo 2°
 
-No obstante lo dispuesto en el artículo anterior el Servicio Agrícola y Ganadero previo informe de la Corporación Nacional Forestal podrá autorizar la corta de árboles dentro de los límites fijados precedentemente, cuando dichas faenas tengan por objeto despejar terrenos para la construcción o realización de obras de beneficio público o la puesta en marcha de planes de manejo o mejoramiento de las mismas masas vegetales que se están protegiendo. La autorización señalará la forma y condiciones en que deberá realizarse el aprovechamiento.
+No obstante lo dispuesto en el artículo anterior, la Corporación Nacional Forestal podrá autorizar la corta de árboles dentro de los límites fijados precedentemente, cuando dichas faenas tengan por objeto despejar terrenos para la construcción o realización de obras de beneficio público o la puesta en marcha de planes de manejo o mejoramiento de las mismas masas vegetales que se están protegiendo. La autorización señalará la forma y condiciones en que deberá realizarse el aprovechamiento.
 
 #### Artículo 3°
 
