@@ -1,0 +1,3 @@
+Por resolución número 1.714 de 9 de agosto de 2001 de esta Subsecretaría, rectifícase los Vistos y número 3º de la resolución Nº 1.623 de 2001, que autorizó al INSTITUTO DE FOMENTO PESQUERO para realizar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2001-10 "Evaluación del Stock Desovante de Anchoveta por el método de producción de huevos en la I y II Regiones, año 2001", en el sentido de reemplazar la expresión "resolución Nº 961 de 2000" por "resolución Nº 2.436 de 2000".
+
+Valparaíso, 9 de agosto de 2001.- Edith Saa Collantes, Subsecretario de Pesca (S).
