@@ -1,0 +1,3 @@
+Por decreto MOP Nº531, de 30 de marzo de 2001, se expropió el lote de terreno Nº9, superficie 4.561 m², rol de avalúo 866-97, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Troncal Sur Tramo 1, Quinta Región y se acordó el valor de indemnización con sus propietarios Manuel Emilio Araya Farías y otra, ascendente a la cantidad de $33.525.843.
+
+Fiscal del Ministerio de Obras Públicas.
