@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº390 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº13-M, superficie 662 m2., Rol de Avalúo Nº160-313, comuna de Petorca, para la obra "Ruta E-37-D, sector Pedegua - Palquico, Km. 0,000 al Km. 14,000", V Región y se acordó el valor de indemnización con su propietario Gabriel Ernesto Díaz Gallardo, ascendente a la cantidad de $1.125.647.-
+
+Fiscal del Ministerio de Obras Públicas.
