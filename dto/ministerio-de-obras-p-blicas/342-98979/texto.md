@@ -1,0 +1,5 @@
+Por decreto MOP. No 342, de 31 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 de D.F.L. MOP. No 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley No 15.840, se expropiaron los lotes de terreno Nos. 1, 7, 12, 49, 72, 74 y 75, para la obra Camino Los Robles - Huencuecho - Bajo Perquín, Sector Los Robles - Huencuecho, que figuran a nombre de Daniel Segundo Flores Flores, Héctor Saavedra Muñoz, María Hormazabal Ormazabal y otra, Ramón Leyton de la Fuente y Juan Julio Matamato Guerra Estevez, Iván Correa Opazo y Carlos Sottolichio- agosto de 1997 los valores provisionales de las indemnizaciones en las cantidades de $158.500, lote No 9l; $562.000, lote 7; $3.503.400; lote No 12; $222.900, lote No 49; $4.042.840, lote No 72;
+
+$5.875.980, lote No 74 y $956.260, lote No 75. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
