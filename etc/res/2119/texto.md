@@ -1,0 +1,3 @@
+Por resolución número 2.119, de 29 de septiembre de 2000, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.543, de 2000, de esta Subsecretaría, que declaró la caducidad de las resoluciones Nº 1.271, de 1988 y Nº 151, de 1998, que autorizaron a PESQUERA CANTABRICO S.A., para operar la nave ''Maresma'', por haberse acreditado el pago de la patente única pesquera.
+
+Valparaíso, 29 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
