@@ -1,0 +1,153 @@
+CONCEDE UN ANTICIPO DE AUMENTO DE REMUNERACIONES Y PENSIONES COMO COMPENSACION DE GASTO FAMILIAR Santiago, 11 de Febrero de 1974.- Con esta fecha se ha dictado el siguiente decreto ley:
+
+Núm. 314.- Vistos, lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y
+
+Teniendo Presente:
+
+1°) Que con motivo de la situación del mercado internacional, ha sido indispensable efectuar ajustes a los precios de algunos artículos de consumo habitual, por lo que el Gobierno estima absolutamente necesario ayudar a los sectores de escasos recursos para que puedan hacer frente a la situación descrita, que exige esfuerzo y sacrificios a toda la comunidad nacional;
+
+2°) Que para dar cumplimiento al proposito anterior se ha estimado conveniente atender, en forma fundamental, a las necesidades que afectan al grupo familiar de trabajadores y pensionados de más bajos ingresos, estableciendo el pago de un anticipo como compensación de gasto familiar, en función del número de cargas y dentro de determinados límites de remuneraciones;
+
+3°) Que con el propósito de garantizar el pago oportuno de las cantidades que correspondan por estos conceptos, se ha buscado un mecanismo impositivo adicional, de carácter transitorio, de cargo de patrones y empleadores y cuyo rendimiento constituirá un Fondo Especial para atender el mayor gasto que se produzca; usando para todos estos efectos los mecanismos de compensación y administrativos actualmente vigentes para el Sistema Unico de Prestaciones Familiares en conformidad a lo prevenido en el decreto ley N° 307, de 4 de Febrero del presente año;
+
+4°) Que esta mayor entrada que percibirán los sectores de menores ingresos, tanto del Sector Público como del Privado, tendrá el carácter de anticipo de reajuste de remuneraciones, no sujeto a restitución y, que por tanto deberá ser absorbido en su oportunidad dentro de la idea de transitoriedad enunciada respecto de la cotización adicional que deberá efectuarse, y 5°) Que atendida la naturaleza especial de este anticipo y los objetivos que con él se persiguen, su monto no será considerado renta para ningún efecto legal.
+
+La Junta de Gobierno de la Repúublica de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Establécese a partir del 1° de Febrero de 1974, para todos los trabajadores dependientes y pensionados de regímenes previsionales, cualquiera que sea el sector a que pertenezcan un anticipo de aumento de remuneraciones y pensiones relacionado con el número de cargas familiares que tengan legalmente reconocidas, conforme a la escala que se establece en el artículo siguiente. A este anticipo tendrán derecho los trabajadores y pensionados que disfruten de una remuneración o pensión mensual imponible de E° 60.000 o menos.
+
+#### Artículo 2°
+
+El anticipo se determinará multiplicando los valores que se indican a continuación, según los tramos de remuneraciones o pensiones imponibles, por el número de cargas familiares legalmente reconocidas:
+
+======================================================
+
+Remuneración o pensión Anticipo por
+
+mensual imponible cada carga
+
+(E°) (E°)
+
+------------------------------------------------------
+
+Hasta 40.000 __ __ __ __ __ __ __ __ 2.200
+
+40.001 - 44.000 __ __ __ __ __ __ __ 1.800
+
+44.001 - 48.000 __ __ __ __ __ __ __ 1.400
+
+48.001 - 52.000 __ __ __ __ __ __ __ 1.000
+
+52.001 - 56.000 __ __ __ __ __ __ __ 600
+
+56.001 - 60.000 __ __ __ __ __ __ __ 200
+
+No obstante, respecto de los trabajadores agrícolas a que se refiere el artículo 17° del decreto ley N° 275, de 1974, el anticipo será de E° 1.000 por carga y en el caso de los empleados de casas particulares, de E° 1.000 por carga.
+
+#### Artículo 3°
+
+El anticipo de aumento a que se refiere el artículo anterior se pagará, en todo caso, junto con las Remuneraciones que les corresponda percibir a los trabajadores.
+
+Para determinar la procedencia y el monto del anticipo, en el Sector Público, se atenderá a la renta que les haya correspondido o corresponda a los trabajadores en virtud de su encasillamiento en la Escala Unica establecida en el decreto ley N° 249, de 1974. Hasta tanto no medie encasillamiento, se estará al total de las remuneraciones que les correspondiere percibir en el mes de Febrero con arreglo al artículo 31° de decreto ley N.° 295, de 1974.
+
+En el Sector Privado se atenderá a las remuneraciones que les corresponda percibir a los trabajadores en cumplimiento a lo dispuesto en el decreto ley número 275, de 1974.
+
+#### Artículo 4°
+
+En el caso de los trabajadores que se remuneren mediante jornal diario o por trato, se determinará el tramo de remuneraciones a que se refiere el artículo 2° multiplicando por 30 el promedio diario de las remuneraciones obtenidas durante los días efectivamente trabajados.
+
+Para los trabajadores que presten servicios por jornada parcial el tramo correspondiente se calculará considerando la remuneración que les corresponderá por una jornada completa de ocho horas diarias.
+
+En el caso de los trabajadores marítimos eventuales y discontinuos para la determinación del tramo correspondiente se considerará la remuneración efectivamente percibida cualquiera sea el núumero de días trabajados en el mes.
+
+#### Artículo 5
+
+El anticipo por carga a que se refiere el presente decreto ley se pagará por el periódo en que el trabajador haya percibido asignación familiar, conjuntamente con esté y en las mismas condiciones y circunstancias.
+
+#### Artículo 6°
+
+La infracción a las normas contenidas en los artículos 2°, 3°, 4° y 5° de este decreto ley, será sancionada con multa de diez sueldos vitales mensuales del departamento de Santiago, por cada trabajador afectado, que se aplicará administrativamente en conformidad a la ley N° 14.972.
+
+Si dentro del plazo para reclamar a que se refiere la ley mencionada el infractor cumpliere con la norma transgredida, quedará sin efecto automáticamente la multa, siempre que se haya acreditado satisfactoriamente dicho cumplimiento ante el inspector respectivo.
+
+#### Artículo 7°
+
+Las pensiones de vejez, invalidez, retiro y jubilaciones en general, que no perciban asignaciones familiares y que cuente con una pensión inferior a E° 14.200 tendrán derecho a un anticipo que les permita enterar esta suma.
+
+Los demás pensionados que se rigen por las disposiciones sobre minimos contenidos en el artículo 26° de la ley N° 15.386 y que no perciben asignación familiar tendrán derecho a un anticipo calculado con los porcentajes vigentes en dicha disposición legal en relación al monto señalado en el inciso anterior.
+
+Los pensionados en conformidad al artículo 24° de la ley N° 15.386 y al artículo 245 de la ley numero 16.464, tendrán derecho a un anticipo que les complete E° 5.000 mensuales.
+
+Los beneficiarios de pensiones asistenciales de la ley N° 15.386 tendrán derecho a un anticipo equivalente al 50% del que corresponda a los pensionados de la ley N° 10.383, según la calidad del beneficiario.
+
+Los beneficiarios de pensiones concedidas de acuerdo con el artículo 39° de la ley N° 10.662 tendrán derecho a un anticipo para completar E° 5.000 mensuales. Las pensiones de viudez de este grupo llevarán el 50% de la cantidad resultante y los otros beneficiarios, cada uno, el 15% de ella.
+
+#### Artículo 8°
+
+El anticipo a que se refiere el artículo anterior, será de cargo de las instituciones pagadoras de pensiones, distribuyéndose el gasto en la misma proporción y forma establecida en el artículo 8° del decreto ley N° 255, de 1974.
+
+Con todo, si el fondo de pensiones del Servicio de Seguro Social no alcanzare a financiar el mayor gasto que signifique este anticipo, el Servicio podrá girar las sumas necesarias del Fondo Especial a que se refiere el artículo 10°, previa autorización de la Superintendencia de Seguridad Social.
+
+#### Artículo 9°
+
+Para determinar el derecho al anticipo de aumento en favor de los pensionados a que se refieren tanto el artículo 2° como el 7°, se considerará el monto de las pensiones del mes de Febrero de 1974, fijado en virtud de lo dispuesto en el decreto ley N° 255, del mismo año.
+
+No obstante, respecto de aquellos pensionados que se encuentranen las situaciones prescritas en la letra d) del artículo 1° y en el artículo 3° del DL. 255, la pensión provisoria que se les pague en carácter de anticipo de acuerdo con esas disposiciones servirá de base para determinar el derecho que establece el presente decreto ley. Una vez practicadas las reliquidaciones que fijen los montos definitivos de estas pensiones, las cantidades que se hubieren pagado se imputarán a las que en definitiva hubieren correspondido a los pensionados.
+
+#### Artículo 10°
+
+Créase un Fondo Especial para financiar el anticipo de aumento establecido en el presente decreto ley, que se formará con la cotización adicional a que se refiere el artículo transitorio.
+
+El Fondo Especial será administrado en iguales términos y forma que el Sistema Unico de Prestaciones Familiares establecido en el decreto ley N° 307, de 1974, pero separadamente del Fondo Unico de dicho Sistema.
+
+A petición de la Superintendencia de Seguridad Social, el Banco del Estado de Chile abrirá una cuenta corriente subsidiaria de la Cuenta Unica Fiscal para el manejo de los recursos del Fondo. Esta cuenta tendrá a su vez las cuentas auxiliares que sean necesarias para facilitar el movimiento de sus fondos y establecer los controles adecuados.
+
+Para los efectos de recaudar y enterar la cotización adicional y efectuar las compensaciones que correspondan, se aplicarán los mismos mecanismos establecidos para el Sistema ya indicado, sin perjuicio de las instrucciones y normas que imparta la Superintendencia de Seguridad Social sobre la materia, las que tendrán carácter de obligatorias de acuerdo con los términos de la ley numero 16.395.
+
+#### Artículo 11°
+
+En el caso de los trabajadores en actividad, el anticipo de aumento será compensado, en su totalidad, ante el Fondo Especial, conforme a las normas establecidas en el decreto ley N° 307, de 1974.
+
+#### Artículo 12°
+
+Las instituciones pagadoras de pensiones cancelarán el anticipo de aumento conjuntamente con dichos beneficios y, provisoriamente, con cargo a sus propios recursos. Con excepción de lo dispuesto en el artículo 7°, el anticipo calculado en relación al número de asignaciones familiares se compensará ante el Fondo con arreglo al procedimiento establecido por el Sistema Unico de Prestaciones Familiares.
+
+#### Artículo 13°
+
+Las cantidades que corresponda percibir con arreglo a las disposiciones del presente decreto ley no constituirán renta para ningún efecto legal y, en consecuencia, no serán tributables ni quedarán afectas a imposiciones.
+
+#### Artículo 14°
+
+Agrégase al artículo 3° del decreto ley N° 255, de 1974, el siguiente inciso:
+
+"Por otra parte, el monto del anticipo que se deba pagar de conformidad con el mismo mecanismo, no podrá exceder, en ningún caso, del 80% de la renta asignada al Grado 3 de la Escala Unica de Sueldos fijada por el decreto ley N° 249, de 1974. Tratándose de pensiones de sobrevivientes, este límite será del 40% de la renta señalada."
+
+#### Artículo 15°
+
+Declárase que la facultad entregada al Servicio Social por el artículo 7° del decreto ley N° 255 públicado en el Diario Oficial de 10 de Enero de 1974, lo ha sido para fijar un salario mínimo imponible, el cual no obsta, de consiguiente, a la obligación legal de efectuar imposiciones sobre los salarios reales devengados cuando excedan del mínimo.
+
+#### Artículo 16°
+
+Agrégase el siguiente inciso segundo al artículo 23° del decreto ley N° 249, públicado en el Diario Oficial del 5 de Enero de 1974:
+
+"No obstante, si por aplicación de lo dispuesto en el inciso anterior, la cantidad máxima permitida como aporte de la Institución resultare inferior a las sumas que, para tal efecto, se contemplaron en los presupuestos vigentes en Septiembre de 1973, las respectivas Instituciones quedan autorizadas para igualar, durante 1974, mediante un aporte complementario el que para tal fin ellas consultaron en sus referidos presupuestos vigentes en el mes de Septiembre del año pasado."
+
+#### Artículo 17°
+
+Agrégase al artículo 13° del decreto ley N° 307, de 1974, el siguiente inciso final:
+
+Con todo, los trabajadores marítimos eventuales y discontinuos, imponentes de la Caja de Previsión de la Marina Mercante Nacional y de la Sección Tripulantes de Naves y Operarios Marítimos de la misma, tendrán derecho a percibir las asignaciones establecidas en el presente decreto ley con su monto completo, cualquiera que sea el número de días trabajados en el mes con tal que hayan percibido en dicho periodo una remuneración igual o superior al ingreso mínimo mensual vigente para los trabajadores del Sector Privado. Si el ingreso fuere menor, el monto de las asignaciones a pagar en el mes respectivo se reducira proporcionalmente."
+
+#### Artículo transitorio
+
+Establécese, transitoriamente, una cotización adicional de 13% sobre la remuneración imponible, de cargo de los patrones y empleadores, mencionados en la letra a) del artículo 19° del decreto ley N° 307, de 1974, para financiar el Fondo Especial a que se refiere el artículo 10°.
+
+Esta cotización adicional tendrá igual naturaleza y carácter que la establecida en la disposición del decreto ley N° 307, señalada en el inciso precedente, siendole aplicable de consiguiente, las disposiciones del artículo 27° de dicho texto legal y se absorberá a medida que se aumenten las remuneraciones o se modifique el monto de la asignación familiar.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General de Carabineros, Director General de Carabineros.- Mario Mac-Kay Jaraquemada, General de Carabineros, Ministro del Trabajo y Previsión Social.- Fernando Léniz Cerda, Ministro de Hacienda, Subrogante.
+
+Lo transcribo a U. para su conocimiento.- Saluda a U.- Raúl Medel Baldeig, Subsecretario de Previsión Social.
