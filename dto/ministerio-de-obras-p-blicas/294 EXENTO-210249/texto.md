@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº294, de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nº1-A, 2-A y 3-A, superficies 1.001,75, 2.891,00 y 2.736,20 m², rol de Avalúo Nº502-59, comuna de Saavedra, para la obra "Camino Costero Sur, sector Tranapuente - Puerto Saavedra - Porma, Tramo Tranapuente - Puerto Saavedra - Chelle Km. 53,250000 al Km. 53,315096 y Km. 65,260000 al Km. 100,240000", correspondiente al Subtramo V Accesos Puente Budi Km. 72,52677 al Km. 73,910, IX Región, y se acordó el valor de la indemnización con su propietario Juan Pañian Paillaqueo, ascendente a la cantidad de $5.726.636.-
+
+Fiscal del Ministerio de Obras Públicas.
