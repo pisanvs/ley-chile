@@ -2080,7 +2080,7 @@ El librado, en cumplimiento del mandato, debe limitarse a dejar constancia en el
 
 12.2. Indicación de las causas que motivan la revocación del cheque.
 
-Como ya se ha expresado, el librado debe abstenerse de pagar el cheque cuando haya recibido instrucciones en ese sentido de su mandante, aunque este último no le indique las causas que tiene para revocarlo.
+Como ya se ha expresado, el librado debe abstenerse de pagar el cheque cuando haya recibido instrucciones en ese sentido de su mandante, aunque este último no le indique las causas que tiene para revocarlo. Si el librador expresa algún motivo para revocar el cheque, tal motivo deberá ser consignado por el banco librado en el acta de protesto respectiva.
 
 Si la razón de la revocación es una de las que señala el artículo 26 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, resulta conveniente para el librador estampar y precisar este hecho en el momento de dar el respectivo aviso al banco librado.
 
@@ -2169,6 +2169,8 @@ Debe indicarse el domicilio del titular de la cuenta, registrado en el banco par
 c) Causa del protesto.
 
 Debe dejarse constancia precisa de la razón por la cual no se paga el cheque.
+
+Cuando el cheque no haya sido pagado por haber recibido el librado una orden de no pago y el librador haya indicado el motivo que tuvo para revocar el cheque, debe consignarse en el acta de protesto el motivo invocado.
 
 d) Fecha y hora del protesto.
 
