@@ -1,0 +1,7 @@
+Construccion de recovas
+
+Santiago, 22 de Agosto de 1818.
+
+El Ilustre Cabildo me propondrá un plan de distribucion de Abastos en cuatro puntos de esta ciudad, donde puedan construirse Recovas, para que el público, con comodidad proporcionada, las compre en ellas esponiendo los arbitrios con que deba sufragarse al costo de la obra, i que se emprenda con tal prontitud, que para el verano próximo venidero quede la plaza mayor totalmente desembarazada. Entre tanto, se comisiona al Juez de Abastos para que divida en dos partes iguales la provision de Carnes, dejando una en la Recova de la Plaza mayor, i reparta la otra proporcionalmente en la plazuela del Puente, en la Recova de la parroquia de Santa Ana, i en lugar inmediato a la esquina de la Calle Vieja de San Diego, que mira a la Cañada. Para evitar la molestia de empeños sobre ser preferidos los abastecedores en los puestos que le parezcan ventajosos, el Juez de Abastos hará la primera division por sorteo, dejando en la Recova de la Plaza la mitad que salga por dicho sorteo de la totalidad, que para el efecto debe entrar en un cántaro u otra basija aparente por medio de cédula, en que estarán escritos los nombres de los Abastecedores, haciéndose igual sorteo para la subdivision de los que deben ocupar los tres puntos indicados.-
+
+O'Higgins.- Irisarri.
