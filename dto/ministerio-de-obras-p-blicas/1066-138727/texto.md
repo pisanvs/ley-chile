@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.066, del 29 de abril de 1999, se expropió el lote de terreno No. 275, superficie 7,5 M2, rol de avalúo 222-22, comuna de San Vicente, para la obra Camino Quinta de Tilcoco - Cruce Ruta 66, Sector Tunca El Medio - Empalme Ruta H-56, Ruta 66 y se acordó precio de indemnización con su propietario Orlando Enrique Reyes Osorio y otro, ascendente a la cantidad de $ 296.864.-
+
+Fiscal del Ministerio de Obras Públicas.
