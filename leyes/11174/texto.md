@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para expropiar los inmuebles que indica y cuyos deslindes señala, ubicados en la comuna de Santiago, con el fin de destinarlos al ensanche del Liceo "Miguel Luis Amunátegui".
