@@ -1,0 +1,3 @@
+Por Resolución N° 2.011, de 2 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94103161 presentada por CARLOS SEGUNDO MUÑOZ MUÑOZ, para un centro de cultivo ubicado en sector La Planchada, Isla Quinchao, comuna de Curaco de Vélez, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 2 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
