@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.232, de 4 de diciembre de 2003, de esta Subsecretaría, autorízase a TERESA MATILDE SALDIVIA MORAGA para ampliar actividades pesqueras de transformación, en orden de incorporar a la planta ubicada en Bellavista Nº 059-A, Punta Arenas, XII Región, en la línea de elaboración Congelado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 4 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
