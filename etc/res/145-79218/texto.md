@@ -1,0 +1,7 @@
+Por resolución No. 145 de 24 de Febrero de 1992 de esta Subsecretaría de pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIAL FRIGORIFICO VALPARAISO LIMITADA, R.U.T. No. 78.038.030-6, domiciliada en Valparaíso, Ruta 68, No. 1240, Placilla, para ampliar actividades pesqueras de transformación, autorizadas por Resolución No. 1229, de 1991, de esta Subsecretaría, en orden a incorporar y en la línea de proceso de congelado de la planta industrial, autorizada por la Resolución citada precedentemente, los siguientes recursos hidrobiológicos: Merluza común, Merluza del sur, Caracol tegula, Caracol trumulco, Culengue, Locate, Navajuela, Centolla, Centollón y Langosta de J. Fernández.
+
+Deberá adquirir los recursos de pescadores artesanales de la Región. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para procesar el recurso loco y langostino colorado, de conformidad a lo dispuesto en el DS No. 614, de 1991 y No. 421, de 1989, respectivamente ambos, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 24 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de pesca.-
