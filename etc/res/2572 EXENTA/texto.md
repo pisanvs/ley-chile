@@ -1,0 +1,21 @@
+Por Resolución Exenta No. 0-2572 de fecha 14 de Agosto de 1989, se dispuso la publicación del siguiente extracto:
+
+En Santiago de Chile, con fecha 21 de Junio de
+
+1989, ante el Notario Titular de la Séptima Notaría Sr.
+
+Arturo Carvajal Escobar, se otorgó la escritura pública de constitución del "Partido Socialdemócrata", complementada por escritura pública otorgada ante el mismo Notario el 08 de Agosto de 1989.
+
+Su sigla es P.S.D. y su símbolo una rosa, cuyos pétalos son de contornos rojos, enmarcados en un rectángulo blanco delimitado por líneas verdes, el tallo sin espinas es de color verde y son dos trazos paralelos que rematan en una hoja cada uno sin tocar la flor. Al costado del rectángulo y en color verde aparece la leyenda "PARTIDO SOCIALDEMOCRATA". El lema del Partido es "POR LA SENDA DE LA DEMOCRACIA CON LA ROSA DE LA ESPERANZA".
+
+La Directiva Central Provisional la integran como: Presidente Armandiela Castillo Castillo; Vicepresidente y Tesorero, Abel Velásquez Azócar; Secretario General, Oscar Recabarren Gálvez; Subsecretario General, Jorge Jiménez Castro.
+
+Integran el Tribunal Supremo en carácter provisional: Presidente, Luis Hernán Correa Espinoza; Secretaria, Adriana Euzquiza Bustos; Vocales: María Aladro Letelier, Sabina del Carmen Carrasco Carrasco y Elsa Núñez Freymann.
+
+Todas las personas antes señaladas constituyen domicilio común en la sede del Partido Socialdemócrata, calle París No. 815, Santiago.
+
+En caso de renuncia u otro impedimento, los miembros de la Directiva Central y Tribunal Supremo Provisionales serán reemplazados o subrogados por la persona que designe la propia Directiva Central Provisional.
+
+Declaración de Principios. El "PARTIDO SOCIALDEMOCRATA", es una colectividad integrada por personas procedentes de diversos medios sociales, de distintas creencias que coinciden en determinados principios morales y que, con idénticos objetivos políticos, aspiran a ejercer el poder para implantar un orden económico social capaz de asegurar la plena vigencia de la libertad política y la igualdad social. Sus principios básicos son: el humanismo, la democracia y el socialismo democrático y utiliza para su consecución la planificación y la participación. Todo ser humano es digno de igual consideración. A cada hombre se le deben otorgar iguales posibilidades para desarrollar sus potencialidades. El poder político emana del pueblo y a él le corresponde generar los órganos y autoridades del Estado mediante sufragio universal secreto y libre. La sociedad debe reconocer y respetar los derechos y libertades de las personas y la existencia de un régimen constitucional fundado en la separación de los poderes, la responsabilidad de los Gobernantes y el respeto y sujeción de todos a la Ley. El Estado debe asegurar que se den las condiciones económicas y sociales para que se ejerzan los derechos y libertades. La realización de la doctrina socialdemócrata permite conciliar la libertad política con la igualdad social. Ello se obtiene mediante la aplicación de medidas sociales y económicas que tiendan a resolver paulatinamente los elementos de enfrentamiento dentro de la sociedad. El Estado es el instrumento de política social para lograr la transformación de la sociedad que dé justicia a los trabajadores y consagre un sistema de igualdad y libertad. La igualdad social sólo es posible en una sociedad que haya obtenido un importante grado de justicia en la distribución de ingresos, seguridad social y en los servicios de educación, salud y vivienda. Los objetivos inmediatos del "PARTIDO SOCIALDEMOCRATA", son la ocupación plena, la seguridad social y una justa distribución de los ingresos y bienes. Los trabajadores desempeñan un rol fundamental en la construcción y realización de la sociedad socialdemócrata. El orden jurídico debe garantizar la libertad y los Derechos del Hombre sin distinciones de ninguna naturaleza, como el mantenimiento de la paz como principios fundamentales de la convivencia entre los pueblos. Las estructuras socio-politicas de Latinoamérica, en especial, deben apoyarse recíproca y solidariamente en procura de una creciente integración. La ideología Socialdemócrata debe adquirir las características y modalidades propias de cada país.-
+
+Juan Ignacio García Rodríguez, Director.
