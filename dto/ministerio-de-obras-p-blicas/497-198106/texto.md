@@ -1,0 +1,5 @@
+Por decreto MOP Nº497, de 14 de marzo de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº90 para la obra: "Concesión Internacional Sistema Oriente - Poniente. Zona Poniente: Walker Martínez - Petersen. Tramo 7: Km. 21.496, 40 al Km.
+
+23.360,00"; Región Metropolitana, que figura a nombre de Vásquez González Juan y Otro, rol de avalúo 490-2, comuna de Renca, superficie 177 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Inés Elena Otárola Castillo y Ramón Enrique Domingo Labarca, fijó con fecha 30 de enero de 2002, el valor provisional de la indemnización en la cantidad de $14.074.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
