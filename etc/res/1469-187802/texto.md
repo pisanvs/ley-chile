@@ -1,0 +1,3 @@
+Por resolución Nº 1.469, de 12 de julio de 2001, de esta Subsecretaría, déjase sin efecto la resolución Nº 304 de 1988, de esta Subsecretaría, que autorizó a la UNIVERSIDAD ARTURO PRAT, para instalar y operar el centro de cultivo ubicado en un sector entre Villa Vacaciones y Huayquique, comuna y provincia de Iquique, I Región.
+
+Valparaíso, 12 de julio de 2001.- Daniel Albarrán Ruiz -Clavijo, Subsecretario de Pesca.
