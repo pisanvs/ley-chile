@@ -1,0 +1,3 @@
+Por resolución Nº 93, de 23 de enero de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110195 presentada por ANDRES ALEJANDRO JOHNSON GONZALEZ, para instalar y operar un centro de cultivo ubicado en Isla Simpson Sector Noroeste, Comuna de Aysén, Provincia de Aysén, XI Región.
+
+Valparaíso, 23 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
