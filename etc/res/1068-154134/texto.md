@@ -1,0 +1,5 @@
+AUTORIZA A DON FRANCISCO SOTO-AGUILAR PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 1.068 de 09 de Septiembre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Francisco Soto-Aguilar Gaitán, RUT No. 3.260.650-4, domiciliado en Gómez Carreño No. 5215, Talcahuano, para extraer con la embarcación "Aries" en construcción, los siguientes recursos hidrobiológicos: mediante red de arrastre, en las Regiones IV a X, Merluza común, congrio dorado, congrio negro, langostino colorado, langostino amarillo; con espinel, en las Regiones IV a X, congrio dorado, congrio colorado, congrio negro, merluza común y raya. Podrá extraer el recurso mero en el litoral comprendido entre Punta Liles (32° 45' 40" L.S.) y la X Región y con red de cerco, en las Regiones III a VII, jurel, anchoa, sardina común, sardina española y caballa.
+
+Valparaíso, 09 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
