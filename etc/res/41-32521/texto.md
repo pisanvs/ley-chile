@@ -1,0 +1,3 @@
+Por Resolución N° 041 de 13 de enero de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 845, de 1992, que declaró la caducidad de la Resolución N° 1026, de 1989, ambas de esta Subsecretaría, en virtud de lo dispuesto en la Resolución N° 1282, de 1990, de esta Subsecretaría y en el artículo 5° transitorio inciso 6° de la Ley N° 18.892 y sus modificaciones.
+
+Valparaíso, 13 de Enero de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
