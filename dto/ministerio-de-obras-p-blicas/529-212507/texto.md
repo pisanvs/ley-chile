@@ -1,0 +1,5 @@
+Por decreto MOP Nº529, de 30 de mayo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL. MOP. Nº206, de 1960, se expropió el lote de terreno Nº1, para la obra:
+
+"RUTA 68 CURACAVI KM. 52.500 A KM. 52.544,85", Región Metropolitana, que figura a nombre de MORENO VELIZ CARMEN GRACIELA, rol de avalúo 30-30, comuna de Curacavi, superficie 859 m2. La comisión de peritos integrada por los señores Patricia Verónica Zavala Contreras, Jorge Navarro Navarrete y Felipe Cádiz Bouch, fijó con fecha 29 de agosto de 1995, el valor provisional de la indemnización en la cantidad de $5.927.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
