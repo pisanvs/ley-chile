@@ -1,0 +1,7 @@
+Por resolución N° 111 de 19 de Febrero de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la letra e) del numeral 1° de la Resolución N° 303 de 1992, que declaró la caducidad de la Resolución N° 1028 de 1990, ambas de esta Subsecretaría de conformidad con lo dispuesto en el artículo 7° del D.S. N° 175 de 1980, por haberse acreditado la ocurrencia de una fuerza mayor respecto de esta última.
+
+Rectifícase el numeral 2° de la Resolución N° 1028, de 1990 de esta Subsecretaría que autorizó a ALIMENTOS MULTIEXPORT S.A., R.U.T. N° 96.513.230-9, domiciliada en Santiago, Avenida Américo Vespucio Sur N° 842, Las Condes, para operar un establecimiento de cultivo de especies salmonídeas, en el sentido de señalar que el Sector 1 está ubicado en "localidad Chaparrano" y el Sector 2 en "localidad Río Llaguepe" y no como allí erróneamente se consigna.
+
+Amplíase por un año contado desde el 31 de agosto de 1992, el plazo otorgado en el numeral 5° de la Resolución N° 1028, de 1990, de esta Subsecretaría, a Alimentos Multiexport S.A. ya individualizada, para iniciar operaciones de cultivo, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 19 de Febrero de 1993. Andrés Couve Rioseco, Subsecretario de Pesca.
