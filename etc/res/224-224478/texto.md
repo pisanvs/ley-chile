@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 224, 8 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 2290, Rol de Avalúo Nº 903-11 comuna Concepción, superficie 32,83 m2. de terreno y 51,68 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-18311; de aparente dominio de Suc. Marta Alicia Provoste Moraga, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Santiago Samir Aptecar Nazer, arquitecto, Gabriel Ignacio Fernández de la Maza, ingeniero civil, y Sergio Labarca Garrido, constructor civil, según informe de fecha 4 de marzo de 2004, fijó monto provisional indemnización en $9.964.780.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
