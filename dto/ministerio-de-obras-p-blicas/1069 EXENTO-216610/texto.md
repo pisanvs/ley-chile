@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.069, de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº47, superficie 649,2 m², Rol Nº557-176, comuna de Linares, VII Región para la obra "Camino Ruta L-45, Sector: Linares-Llepo, tramo: Km. 2,750.2 a Km. 13,147", y se acordó el valor de indemnización con su propietaria Mónica Jeanette Vásquez Bravo y Otros, ascendente a la cantidad de $595.260.-
+
+Fiscal del Ministerio de Obras Públicas.
