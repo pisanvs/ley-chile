@@ -1,0 +1,3 @@
+Por resolución Nº565 de 15 de Junio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por 1 año a contar del 10 de mayo de 1992, el plazo otorgado a don JOSE EFRAIN TORRES TORRES, R.U.T. Nº3.170.186-4, domiciliado en localidad de Estero del Dique, Golfo de Quetalmahue, en el numeral 5º de la resolución Nº942, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 15 de Junio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca
