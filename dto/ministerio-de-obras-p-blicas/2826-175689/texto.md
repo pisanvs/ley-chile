@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.826, de 30 de junio de 2000, se expropió el lote de terreno Nº3, superficie 4.740,1 m2., Rol de avalúo 502-357, comuna de Saavedra, para la obra Camino Costero Sur, Sector Tranapuente - Puerto Saavedra - Porma, Tramo Tranapuente - Puerto Saavedra - Chelle, Km. 53.250,000 - Km. 56.315,096 / Km. 65.260,000 - Km. 100.240,000 y se acordó precio de la indemnización con sus propietarios Camilo Cabrera Troncoso y otros en la cantidad de $3.109.107.
+
+- Fiscal del Ministerio de Obras Públicas.
