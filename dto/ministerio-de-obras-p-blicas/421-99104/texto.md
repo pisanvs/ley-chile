@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 421, de 9 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 52 y 54, para la ejecución de la obra Embalse Puclaro, Sector Variante a Ruta 41-CH, Km. 0.000 a Km. 10.320, que figuran a nombre de Manuel Hernán Rojas Rojas, rol de avalúo 402-15, comuna de Vicuña, IV Región, superficies 400 y 5.690 m2. La comisión de peritos compuesta por los señores Juan Ibáñez Palma, Iris Marcich Moller y Alfredo Prieto Parra, fijó con fecha 10 de marzo de 1997, el valor provisional de las indemnizaciones en la cantidad de $385.000.- lote 52 y $5.524.000.- lote 54. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
