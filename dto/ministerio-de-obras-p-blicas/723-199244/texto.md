@@ -1,0 +1,5 @@
+Por decreto MOP Nº723, de 15 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº1-1, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Enlace Quilpué Oriente. Ramal Sur Poniente. Km.
+
+95.840,00 a Km. 96.500,00'', Quinta Región, que figura a nombre de Folc Telefonía e Inv. Leiva y Leiva, rol de avalúo 3455-106, comuna de Quilpué, superficie 2.267 m2. La comisión de peritos integrada por los señores Jorge Gregorio Mendoza Larral, Ivor Orlando Fuentealba Charnay y Claudia Paola Arellano Gómez, fijó con fecha 22 de febrero de 2002, el valor provisional de la indemnización en la cantidad de $16.559.640.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
