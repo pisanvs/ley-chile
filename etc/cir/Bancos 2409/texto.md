@@ -12164,7 +12164,7 @@ IV.- DISPOSICION TRANSITORIA.
 
 No obstante lo indicado en el numeral 2.5 del título III de este Capítulo, al tratarse de bienes recuperados durante los años 1999, 2000, 2001 y 2002 el plazo para su castigo se amplía hasta 30 meses a contar de la fecha de su recuperación.
 
-Asimismo podrá aplicarse un plazo adicional de 12 meses para el castigo de los bienes recuperados durante el año 2003, sujeto a la presentación a esta Superintendencia de un programa de enajenación de esos bienes, aprobado por el Directorio En ese programa deberán explicarse las razones que, a juicio del Directorio, justifican la prórroga, detallándose los bienes que se acogerán a ella.
+Asimismo podrá aplicarse un plazo adicional de 12 meses para el castigo de los bienes recuperados durante el año 2003 y de seis meses para aquellos recuperados en el curso del año 2004, sujeto a la presentación a esta Superintendencia de un programa de enajenación de esos bienes, aprobado por el Directorio En ese programa deberán explicarse las razones que, a juicio del Directorio, justifican la prórroga, detallándose los bienes que se acogerán a ella.
 
 ANEXO N° 1
 
