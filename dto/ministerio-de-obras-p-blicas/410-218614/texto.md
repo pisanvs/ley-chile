@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 410, de 31 de julio de 1995, se expropiaron los lotes de terreno Nºs. 46, 49, 51 y 52, superficies 39.320 m2, 13.580 m2, 5.320 m2 y 65.180 m2, respectivamente, roles de avalúo 2071-22 y 2071-12, comuna de Maipú, para la obra Camino Autopista Santiago-San Antonio, sector Empalme I. Riquelme-Bif. Malloco y se acordó el valor de indemnización con su propietaria María Soledad Vial Valdés, ascendente a la cantidad de $609.032.508.
+
+Fiscal del Ministerio de Obras Públicas.
