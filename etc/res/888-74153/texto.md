@@ -1,0 +1,3 @@
+Por Resolución Nº 888, de 27 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95103158, presentada por PEDRO ANTONIO CEBALLOS NAVARRETE, para un centro de cultivo ubicado al Sur de Punta Castillo, Comuna de Chonchi, Provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos Nº 78º y Nº 88º, de la Ley General de Pesca y Acuicultura y en el artículo 14º, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 27 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
