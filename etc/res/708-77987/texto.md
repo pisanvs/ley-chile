@@ -1,0 +1,3 @@
+Por resolución No. 708, de 31 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad las resoluciones No.846 y No. 1.457, de 1987, ambas de esta Subsecretaría, por las cuales se autorizaron a PESQUERA BAHIA SAN JORGE S.A., R.U.T. No. 96.500.710-5, domiciliada en Avda. Pedro Aguirre Cerda No. 5923, Antofagasta, con domicilio postal en casilla 375, Antofagasta, para realizar actividades pesqueras con la nave "Pacific Raider", en virtud de lo dispuesto en el artículo 7° del DS No. 175 de 1980 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 31 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
