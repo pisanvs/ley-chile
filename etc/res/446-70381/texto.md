@@ -1,0 +1,3 @@
+Por Resolución Nº 446, de 27 de marzo de 1997, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por PESQUERA PUNTA ARENAS S.A., para ampliación de área de actividad pesquera en zona de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos (CCRVMA), sobre los recursos Dissostichus eleginoides y Dissostichus mawsoni con la nave "Sur", en virtud de lo establecido en la medida de conservación 31/X de la CCRVMA.
+
+Valparaíso, 27 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
