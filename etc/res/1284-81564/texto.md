@@ -1,0 +1,3 @@
+Por resolución No. 1.284 de 26 de Octubre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deroga la resolución No. 704, de 1986, de esta Subsecretaría, que autorizó a don Maximiliano Almonacid Gutiérrez, RUT No. 389.440-1, domiciliado en Sector Quillaipe, Comuna de Puerto Montt, calle Miraflores No. 1155, para desarrollar actividades pesqueras de cultivo, por renuncia de su titular.
+
+Valparaíso, 26 de Octubre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
