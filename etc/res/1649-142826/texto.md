@@ -1,0 +1,3 @@
+Por resolución Nº 1.649, de 31 de agosto de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.268 de 1991, de esta Subsecretaría, que autorizó a FLOR MARIA ALBORNOZ TOBAR, para instalar y operar el establecimiento de cultivo correspondiente al sector 2 del centro ubicado en Puerto Pérez, Isla Grupo Cinco Hermanos, comuna y provincia de Aysén, XI Región, por haberse denegado la respectiva solicitud de concesión de acuicultura.
+
+Valparaíso, 31 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
