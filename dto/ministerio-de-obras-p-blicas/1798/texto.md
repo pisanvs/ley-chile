@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.798, de 31 de octubre del 2001, se expropió el lote de terreno Nº15, superficie 1.521 m2., rol de avalúo 980-4, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso-Viña del Mar Troncal Sur. Enlace Peñablanca Kms. 86.440,00 al 87.860,00, Quinta Región y se acordó el valor de indemnización con su propietario Sergio Seleuco Márquez Jego, ascendente a la cantidad de $13.169.705.
+
+- Fiscal del Ministerio de Obras Públicas.
