@@ -1,0 +1,3 @@
+Por resolución número 2.340 de 15 de noviembre de 2001 de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº2.255 de 2001, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección de áreas de reclutamiento del Jurel entre la III y X Regiones", en el sentido de reemplazar la nave "Mack" por la nave "Cobra", ambas de propiedad de Pesquera El Golfo S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 15 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
