@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA NOTIFICACION
+
+Resolución 141, 5 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví N° 1849, Rol de Avalúo N° 762-11 comuna Concepción, superficie 36,50 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-18367; de aparente dominio de Sociedad Comercializadora de Pinturas, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Leonardo Eugenio Fasce Casanueva, arquitecto, Mario Fabrizio Bellolio Bosticca, arquitecto, e Italo Zerga Arancibia, constructor civil, según informe de fecha 4 de marzo de 2004, fijó monto provisional indemnización en $5.751.596.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
