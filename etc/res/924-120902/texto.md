@@ -1,0 +1,3 @@
+Por resolución Nº 924, de 30 de junio de 1998 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de las resoluciones Nº 1235 de 1987 y Nº 846 de 1997, de esta Subsecretaría, que autorizan a PESQUERA E INVERSIONES LIUCURA S.A., para desarrollar operaciones pesqueras con la nave ''Liucura'', en el litoral de la III a VII regiones sobre los recursos Agujilla, Anchoveta, Atún de aleta larga, Bonito, Caballa, Cabinza, Cochinilla, Cojinoba del norte, Jurel, Pampanito, Roncacho, Sardina común, Sardina española y Machuelo.
+
+Valparaíso, 30 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
