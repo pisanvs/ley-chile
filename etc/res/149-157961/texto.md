@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA PESQUERA FRANCIS DRAKE LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 149, de 15 de Marzo de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Industria Pesquera Francis Drake Limitada, domiciliada en Valparaíso, para ampliar la planta que tiene autorizada por decreto N° 197, de 1978, del Ministerio de Agricultura, en calle Phillippi N° 195, Valparaíso, a la línea de conserva. Además, podrá utilizar como materia prima en la elaboración de congelado y conserva, los siguientes recursos hidrobiológicos: albacora, anchoa, atún aleta amarrilla, atún aleta larga, bonito, brótula, caballa, cojinova del Norte, cojinova del Sur, congrio colorado, congrio dorado, congrio negro, corvina, jurel, merluza común, sardina común, sardina española, almeja, caracol trumulco, cholga, chorito, choro zapato, lapa, loco, macha, ostión del Norte ostra, camarón nailon, centolla, langosta de Juan Fernández, langostino amarillo, langostino colorado, jaiba y erizo. Santiago, 15 de Marzo de 1985.-
+
+Roberto Verdugo Gormaz, Subsecretario de Pesca.
