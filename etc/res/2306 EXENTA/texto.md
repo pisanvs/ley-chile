@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE YERBAS BUENAS
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2.306 de 30 de Diciembre de 1988 conforme Art. 5° Transitorio Código de Aguas, determinó derechos aprovechamiento aguas proporcionales que corresponden a sector excluido y sector expropiado predios "Hijuela Norte del Fundo Quilipín", "Hijuela N° 2 de las en que se subdividió el Fundo Peralillo e Hijuela N° 3 formada por el Fundo Challacura" y "Challacura", de la comuna de Yerbas Buenas, VII Región; y derechos aprovechamiento aguas que corresponden a parcelas N°s. 1 a la 24, sitios N°s. 1 al 29 y reservas Cora N°s. 1 a la 12 del Proyecto de Parcelación "Quilipín", formado por predios señalados y otros. Los derechos de agua se extraen de los canales "Cunaco", "Quilipín Bajo", "Peralillo Tapia" Julio Amigo y derrames del Canal San Ramón. Publicación hecha conforme Art. 13 ley N° 18.377.
+
+Director Ejecutivo
