@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.588, de fecha 31 de octubre de 2002, se expropiaron los lotes de terreno Nºs 133-A y 133-C, superficie 1.576 y 486 m2, respectivamente, Rol Nº 78-117, comuna de Galvarino, IX Región. para la obra ''Camino Ruta S-10, Sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 al 34,50853, correspondiente al Subtramo IV, Km. 18,000 al 25,837'', y se acordó el valor de indemnización con su propietario Agrícola Ganadera y Forestal San Cristóbal Limitada, ascendente a la cantidad de $2.313.623.-
+
+Fiscal del Ministerio de Obras Públicas.
