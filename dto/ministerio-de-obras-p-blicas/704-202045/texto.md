@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 704, de 30 de agosto de 1996, se expropiaron los lotes de terrenos N°s. 131, 145, 151, 153 y 157, superficies 5.440 m2., 13.241 m2., 11.747 m2., 8.664 m2. y 15.500 m2., roles de avalúo 160-69,160-46,160-84,16083 y 160-40, comuna de Ránquil, para la obra Camino Acceso Norte a Concepción, sector Km. 20.293 al27.961, y se acordaron los valores de indemnización con sus propietarios Mario González Maldonado, Bertilio Oviedo Fuentes, Manuel Valderrama Soto y José Valderrama Soto, ascendentes a las sumas de $5.850.338.-, $1.999.713.-, $4.186.585.-, $2.356.647.- y $15.352.890.-
+
+Fiscal del Ministerio de Obras Públicas.
