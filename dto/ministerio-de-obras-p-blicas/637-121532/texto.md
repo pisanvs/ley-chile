@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 637, de 26 de mayo de 1998, se expropió el lote de terreno Nº 13, superficie 511,7 m2., rol de avalúo 79-1, comuna de Buin, para la obra Proyecto de Ingeniería Mejoramiento Ruta 5, sector Pasada por Buin Camino Ruta 5 Sur Rol R-5 y se acordó precio de la indemnización con su propietario Asociación Canal Huidobro y Otras, ascendente a la cantidad de $ 63.072.374.
+
+Fiscal del Ministerio de Obras Públicas.
