@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución 83, 8 abril 1999, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Juan de Dios Rivera, Nº 1190-1192-1194, Rol de Avalúo Nº 781-0004, comuna Concepción, superficie 113 m2. de terreno y 246,56 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-781-0004; de aparente dominio de Manuel H. Campos Villa, para ejecución programa ''Mejoramiento Interconexión Vial Centro Concepción-Autopista Talcahuano'', conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 30 de 0ctubre de 1997, fijó monto provisional indemnización en $15.455.680.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
