@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.640, de 30 de noviembre de 1999, se expropió el lote de terreno Nº58, superficie 1.589 m², rol de avalúo 136-7, comuna de San Francisco de Mostazal, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector C, VI Región y se acordó el valor de indemnización con su propietario Virgilio Ernesto Meza Invernizzi, ascendente a la cantidad de $13.110.508.
+
+Fiscal del Ministerio de Obras Públicas.
