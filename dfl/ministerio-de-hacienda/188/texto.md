@@ -1,0 +1,1 @@
+Declara en reorganización la Secretaría General de Gobierno y la Dirección de Informaciones del Estado, y reemplaza esta última por la Oficina de Informaciones y Radiodifusión, dependiente de la primera; fija las plantas y remuneraciones de los funcionarios de la Secretaría General de Gobierno.
