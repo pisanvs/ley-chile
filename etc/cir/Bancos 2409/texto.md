@@ -1434,7 +1434,7 @@ e) Bonos, debentures y otros valores de renta fija inscritos en el Registro de V
 
 En las ventas o cesiones de documentos de su cartera de colocaciones o inversiones financieras que realicen los bancos y sociedades financieras deberán cumplirse las siguientes condiciones:
 
-a) Deben transferirse los títulos completos, no pudiendo, por lo tanto, venderse documentos sin transferirlos, vender separadamente los cupones de un título o ceder sólo participaciones sobre créditos. En el caso de la venta de valores depositados en una empresa de depósito y custodia de valores de acuerdo con la Ley N° 18.876, la condición de vender títulos completos debe entenderse en relación con la posición mínima transferible según el reglamento de esa empresa;
+a) Deben transferirse los títulos completos, no pudiendo, por lo tanto, venderse documentos sin transferirlos, vender separadamente los cupones de un título o ceder sólo participaciones sobre créditos. No obstante, al tratarse de Pagarés Reajustables del Banco Central de Chile con Pago en Cupones (PRC) y Pagarés Reajustables en Dólares del Banco Central de Chile (PRD), las instituciones financieras podrán venderlos o cederlos en forma fraccionada, a partir de un cupón o de la parte correspondiente a los derechos del mismo. En el caso de la venta de valores depositados en una empresa de depósito y custodia de valores de acuerdo con la Ley N° 18.876, la condición de vender títulos completos debe entenderse en relación con la posición mínima transferible según el reglamento de esa empresa;
 
 b) Los títulos de crédito deberán estar extendidos cumpliendo todas las formalidades legales y exigencias tributarias;
 
@@ -1526,7 +1526,7 @@ Los reajustes de las operaciones deben corresponder al mismo tipo de reajustabil
 
 2.6. Pactos y documentos pagaderos en moneda extranjera.
 
-Por regla general, las instituciones financieras no podrán efectuar operaciones con pacto pagaderas en moneda extranjera. Sin embargo, los bancos podrán realizar tales operaciones en dólares norteamericanos cuando se refieran a pagarés del Banco Central de Chile de que trata el Capítulo IV.B.9 del Compendio de Normas Financieras.
+Las operaciones con pacto en moneda extranjera sólo podrán realizarse entre bancos y cumpliendo las condiciones señaladas en el último párrafo del N° 3 de este título.
 
 En ningún caso las instituciones podrán adquirir o transferir documentos pagaderos en moneda extranjera mediante pactos que se solucionen en moneda chilena.
 
@@ -1551,6 +1551,8 @@ i) Los documentos emitidos por el Banco Central de Chile y por la Tesorería Gen
 ii) Certificados de Depósito Expresados en Dólares de los Estados Unidos de América - Acuerdo 163-05-911010.
 
 iii) Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
+
+Por otra parte, los bancos podrán realizar entre ellos operaciones con pacto en moneda extranjera, desde un día hábil bancario, con cualquier documento de la cartera de inversiones financieras de la institución cedente que sea pagadero o expresado en moneda extranjera o reajustable por el tipo de cambio, siempre que la venta y la recompra se pacte en la misma moneda que el instrumento transferido o, si éste fuere pagadero en pesos, en la moneda extranjera en que esté expresado o se base su reajustabilidad.
 
 ### 4. Exención de encaje y reserva técnica
 
