@@ -1,0 +1,3 @@
+Por Resolución N° 702, de 12 de abril de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la autorización concedida por el D.S. N° 114, de 1978, del Ministerio de Agricultura, que autorizó a la SOCIEDAD PESQUERA NUEVA AURORA LTDA. para desarrollar actividades pesqueras con la nave "Tucán", en virtud de lo dispuesto en el artículo 143, letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 12 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
