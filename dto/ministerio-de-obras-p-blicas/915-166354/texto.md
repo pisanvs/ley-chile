@@ -1,0 +1,3 @@
+Por decreto MOP Nº915, de 22 de marzo del 2000, se expropió el lote de terreno Nº39-13, superficie 1.250,0 m², rol de avalúo 164-935, comuna de Colina, para la obra Camino Santiago-Colina- Los Andes, Sector ''B'', By Pass Colina C. de Servicio Sta. Filomena, Región Metropolitana y se acordó el valor de indemnización con su propietario Serviu Metropolitano, ascendente a la cantidad de $7.798.641.-
+
+Fiscal del Ministerio de Obras Públicas.
