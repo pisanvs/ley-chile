@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº812 de fecha de 31 de mayo de 2002, se expropio el lote de terreno Nº5, superficie 1.155 m2, Rol Nº266-40, comuna de San Javier, VII Región para la obra ''Camino Mejoramiento Ruta 126 Los Conquistadores, sector 2 Carrizal-Puente Belco, tramo Km. 17,34000 a Km. 23,51000'' y se acordó el valor de indemnización con su propietario Admor Antonio Vásquez Toro, ascendente a la cantidad de $840.283.
+
+Fiscal del Ministerio de Obras Públicas.
