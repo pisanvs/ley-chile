@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO Nº 231 EXENTO, DE 2001
+
+Por decreto exento Nº 231 de fecha 9 de mayo de 2001 del Ministerio de Educación, se revoca el reconocimiento oficial del Centro de Formación Técnica Chileno Británico de Cultura de la ciudad de Viña del Mar con sedes en la ciudad de Viña del Mar, Concepción y Quillota, organizado por la Sociedad Centro de Formación Técnica Chileno-Británico de Cultura Limitada o C.F.T. Chileno-Británico y elimínase a dicho Centro del Registro correspondiente en que se encuentra inscrito con el Nº 122.
+
+Asimismo, se derogan los decretos exentos de Educación Nº 52 del 12 de marzo de 1985 ampliado por decreto exento Nº 82 del 1 de marzo de 1990 y modificado por decreto exento Nº 175 del 21 de abril de 1993, que autorizó el funcionamiento del Centro de Formación Técnica Chileno Británico de Cultura de la ciudad de Viña del Mar, con sedes en la ciudad de Viña del Mar, Concepción y Quillota y resoluciones exentas Nº 2.894 del 28 de octubre de 1986; Nº 1.456 del 3 de junio de 1988; Nº 2.424 del 5 de septiembre de 1989; y decretos exentos Nº 424 del 28 de diciembre de 1990; Nº 114 del 4 de junio de 1991; Nº 8 del 13 de enero de 1992; Nº 286 del 8 de junio de 1993; Nº 92 del 4 de marzo de 1994; Nº 178 del 22 de abril de 1994; Nº351 del 26 de marzo de 1997 y Nº 661 del 13 de junio de 1997, que aprobaron planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado.
+
+Santiago, 24 de mayo de 2001.- José Weinstein Cayuela, Subsecretario de Educación.
