@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 353, de fecha 30 de marzo de 2001, se dejó sin efecto el decreto MOP Nº 5.173, de 30 de noviembre de 2000, por no haber sido tramitado y se expropió el lote de terreno Nº 65, superficie 8.250 M2, rol de avalúo 142-72, comuna de Chonchi, para la obra "Camino Ruta 5, Sector Chonchi - Tara, Km. 1.205,160 al 1.215,004" y se acordó el valor de indemnización con su propietario Pedro José Segundo Andrade Andrade ascendente a la cantidad de $2.998.250.-
+
+Fiscal del Ministerio de Obras Públicas.
