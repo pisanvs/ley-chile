@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.493, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 61 y 64, superficies 105 m² y 419 m², rol de avalúo 172-11, comuna de Puchuncaví, para la obra Ampliación Camino Nogales- Puchuncaví, Ruta F-20, Quinta Región y se acordó el valor de indemnización con su propietaria Hilda Rosa Gómez Castro, ascendente a la cantidad total de $794.518.-
+
+Fiscal del Ministerio de Obras Públicas.
