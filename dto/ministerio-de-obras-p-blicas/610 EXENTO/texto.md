@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 610, de 29 de mayo de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 49-A, para la obra Estudio de Factibilidad y Diseño del Embalse Corrales y sus obras complementarias, Canal Alimentador, que figura a nombre de Roco Luis Alberto, rol de avalúo 248-80, superficie 2.643,76 m2., comuna de Salamanca. La Comisión de Peritos, con fecha 12 de febrero de 2001, fijó la indemnización provisional en la cantidad de $880.474, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
