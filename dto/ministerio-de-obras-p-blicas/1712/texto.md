@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.712, de 28 de septiembre de 1998, y en base a la facultad otorgada por el artículo 105 del DFL.MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 152, para la obra Camino Santiago - Colina - Los Andes, Sector "A" A. Vespucio - By Pass Colina, Km.
+
+13.489,50 al 16.306,00, que figura a nombre de Castro Urzúa Francisco Javier, rol de avalúo 164-732, comuna de Colina, superficie 1.350,3 m². La Comisión de Peritos integrada por las señoras Victoria Adriana Blanco Costa, María Cristina Camus Palacios y señor Gustavo Domínguez Errázuriz, fijó con fecha 27 de agosto de 1998, el valor provisional de la indemnización en la cantidad de $ 27.865.890.- para el lote 152. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
