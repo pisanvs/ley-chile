@@ -1,0 +1,3 @@
+Por resolución Nº 665 de 7 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, no ha lugar el recurso de reconsideración interpuesto por PESQUERA MAR PROFUNDO S.A., en atención a que no existen nuevos antecedentes que permitan reconsiderar la caducidad de la resolución Nº 1.834, de 1997, respecto de la nave ''Arauco I''.
+
+Valparaíso, 7 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
