@@ -1,0 +1,5 @@
+Por resolución Nº1.910, 30 de diciembre de 1998, de esta Subsecretaría, autorízase a PESQUERA QUELLON LIMITADA, para ampliar actividades pesqueras autorizadas por las resoluciones Nº73 y Nº79, ambas de 1979, Nº91, de 1980, Nº781, de 1985, Nº200, de 1986, Nº683, de 1989 y Nº59, de 1993, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en camino San Antonio S/Nº, comuna de Quellón, provincia de Chiloé, X Región, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Ahumado, Embutidos: Salmón rey, Salmón plateado, Salmón del atlántico y Trucha arcoiris o cabeza de acero; Fresco, enfriado, ahumado, conserva, congelado, deshidratado y salado: Abalón Haliotis rufescens, Abalón Haliotis discus hamnai, Abalón Haliotis fulgens, Abalón Haliotis corrugata, Abalón Haliotis kamtschatkama y Abalón Haliotis iris.
+
+Los recursos Salmón rey, Salmón plateado, Salmón del atlántico, Trucha arcoiris y Abalón, deberán provenir de centros de cultivos autorizados.
+
+Valparaíso, 30 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
