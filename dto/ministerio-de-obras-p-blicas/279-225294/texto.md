@@ -1,0 +1,3 @@
+Por decreto MOP Nº 279, de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 6-B, superficie 2.276 m2, rol Nº 1559-120, comuna de Los Angeles, para la obra "Camino Ruta Q-34 Candelaria - La Laja, Sector Millantu - La Laja Km. 20,00000 a 35,88380", VIII Región y se acordó el valor de la indemnización con su propietario Juan Segundo Jiménez Leal, ascendente a la cantidad de $4.061.101.
+
+- Fiscal del Ministerio de Obras Públicas.
