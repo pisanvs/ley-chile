@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.112 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº47-A, superficie 285 m², rol de avalúo 286-7, comuna de San Fernando, VI Región, para la obra ''Camino San Fernando-Roma, Rol I-301, I-255, I-151, Km. 0.000 al 10,954264'' y se acordó el valor de indemnización con su propietario don Sergio o Sergio Hernán Pérez Romero, ascendente a la cantidad de $4.532.274.-
+
+Fiscal del Ministerio de Obras Públicas.
