@@ -1,0 +1,3 @@
+Por resolución Nº 141, de 30 de enero de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 1841 de 1997, de esta Subsecretaría, que autorizó a EDELBERTO FRIAS JIMENEZ, para operar la nave Sol Naciente II, en virtud de la renuncia formulada por su titular.
+
+Valparaíso, 30 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
