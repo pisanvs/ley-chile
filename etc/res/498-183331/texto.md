@@ -1,0 +1,5 @@
+Por resolución Nº 498, de 21 de marzo de 2001, de esta Subsecretaría, autorízase a FOODCORP CHILE S.A., para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Parque Industrial Escuadrón, Primera Etapa, Sitio 14, Coronel, VIII Región, donde podrá procesar en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Harina y Aceite: Agujilla, Anchoveta, Caballa, Jurel, Merluza de cola, Merluza de tres aletas, Sardina española, Sardina común, y desechos provenientes de otras líneas de procesamiento; Seco-Salado, Congelado y Fresco-Enfriado: Agujilla, Anchoveta, Bacalao de profundidad, Bonito, Caballa, Cabinza, Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Corvinilla, Jurel, Machuelo o tritre, Merluza común, Merluza de cola, Merluza de tres aletas, Sardina española, Sardina común.
+
+Déjase sin efecto la resolución Nº 626, de 1995, de esta Subsecretaría, que autorizó a Pesquera del Cabo S.A., para realizar actividades de transformación.
+
+Valparaíso, 21 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
