@@ -1,0 +1,3 @@
+Por Resolución N° 588, de 14 de Junio de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 92, de 1989, de esta Subsecretaría, que autorizó a don FEDERICO EDUARDO SCHAFER SERON, R.U.T. N° 6.722.503-1, para realizar actividades de cultivo de alga del género Gracilaria sp., en Río Cariquilda, Comuna de Maullín, Provincia de Llanquihue, X Región, por renuncia de su titular.
+
+Valparaíso, 14 de Junio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
