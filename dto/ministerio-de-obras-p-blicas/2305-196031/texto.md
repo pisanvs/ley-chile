@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.305, de 31 de diciembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº106-A, para la obra Camino Fresia Parga- Llico-Las Cañitas, Rol V-46, Kms. 14.835 al 48.580, que figura a nombre de Yunge Binner Fernando Suc., rol de avalúo 261-6, superficie 772,5 m², comuna de Fresia. La Comisión de Peritos, con fecha 28 de abril de 2000, fijó la indemnización provisional en la cantidad de $3.294.950, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
