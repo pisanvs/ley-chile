@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.039, de 29 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.
+
+5, 6 y 8, para la ejecución de la obra Camino Ruta I-124, Sector Central Rapel - Litueche, Tramo Km. 0.000 a Km. 17.145,95, que figuran a nombre de Enrique Vargas Cáceres, Suc. Belisario Molina Prado y Alvaro Antonio Caroca Caroca, Roles de Avalúo 39-18, 38-13 y 30-50, de la comuna de Litueche, VI Región, superficies 1.200, 700 y 850 M2. La comisión peritos fijó con fecha 14 de diciembre de 1998, la indemnización provisional en la cantidad de $360.000, lote 5; $420.000, lote 6 y $570.000, lote 8, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
