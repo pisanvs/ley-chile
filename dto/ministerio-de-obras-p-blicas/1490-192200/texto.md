@@ -1,0 +1,3 @@
+Por decreto MOP Nº1490 de fecha 28 de septiembre del 2001, se expropió el lote de terreno Nº52, superficie 17.490 m², Rol de Avalúo Nº543-10, comuna de Linares, para la obra "Camino Ruta L-31, Sector Polvorines-La Floresta, Tramo: Km.0,00000 a Km.15,48000" y se acordó el valor de indemnización con su propietario Pablo Ignacio Chacón López, ascendente a la cantidad de $15.120.870.-
+
+Fiscal del Ministerio de Obras Públicas.
