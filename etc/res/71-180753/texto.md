@@ -1,0 +1,3 @@
+Por resolución Nº71, de 22 de enero de 2001, de esta Subsecretaría, declárase la caducidad de la resolución Nº1.926 de 1999, de esta Subsecretaría, que autorizó a PESQUERA RIO LONCOMILLA LTDA. para realizar actividad extractiva con la nave ''Puerto Aysén'', en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
