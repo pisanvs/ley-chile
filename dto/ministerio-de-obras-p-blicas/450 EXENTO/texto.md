@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº450, de 15 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº19 para la obra: "Concesión Internacional Ruta 5. Tramo: Collipulli - Temuco. Sector:
+
+Km. 702,70000 al Km. 705,48000", Novena Región, que figura a nombre de Currihual Reuque Florentina, rol de avalúo 396-84, comuna de Pitrufquen, superficie 146 m2. La comisión de peritos integrada por los señores Patricio Fernando Casagrande Ulloa, Yaschala Maribel Yáñez Riffo y Hugo Wilibaldo Repetto Vera, fijó con fecha 4 de febrero de 2002, el valor provisional de la indemnización en la cantidad de $377.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
