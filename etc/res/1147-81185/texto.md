@@ -1,0 +1,3 @@
+Por resolución Nº1.147 de 3 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar de esta fecha, el plazo otorgado a EMPRESA NACIONAL DE PESCA S.A., R.U.T. Nº96.540.500-3, domiciliada Santiago, en el numeral 1º de la resolución Nº1.403, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 3 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
