@@ -1,0 +1,31 @@
+DEJA SIN EFECTO SOLICITUDES DE INSCRIPCION QUE INDICA, PARA EL SEGUNDO LLAMADO 1992 DEL SISTEMA GENERAL UNIFICADO DE SUBSIDIO HABITACIONAL; PARA EL LLAMADO A POSTULACION COLECTIVA CON PROYECTOS HABITACIONALES (LLAMADO 1992) Y PARA LLAMADO A POSTULACION PARA LA ADQUISICION O CONSTRUCCION DE VIVIENDAS EMPLAZADAS EN ZONAS DE RENOVACION URBANA (LLAMADO 2-92), POR LAS RAZONES QUE SEÑALA
+
+Santiago, 27 de noviembre de 1992.- Hoy se resolvió lo que sigue:
+
+Núm. 3.725 exenta.- Visto: El D.S. N° 44 (V.y U.), de 1988, y sus modificaciones, que regula el Sistema General Unificado de Subsidio Habitacional, y en especial lo previsto en sus artículos 1°, 3°, 4°, 6°, 7°, 8°, 9°, 10, 12, 14, 32, 33, 34, 35, 37 y en sus Títulos II y III; las resoluciones exentas N° 1.946 y N° 1.947, ambas de este Ministerio, de fecha 27 de julio de 1992, publicadas en el Diario Oficial del 31 de julio de 1992, la última de ellas publicada incompleta en dicho Diario Oficial, por lo que se publicó su rectificación en el Diario Oficial del 4 de agosto de 1992, resolución esta última que fue modificada por resolución exenta N° 3.640, también de este Ministerio, de fecha 18 de noviembre de 1992; y,
+
+Considerando:
+
+a) Que en el número 1° de la resolución exenta N° 1.947, de este Ministerio, de 1992, modificada por resolución exenta N° 3.640, también de este Ministerio, de 1992, se dipuso el llamado a inscripción de postulantes al Sistema General Unificado de Subsidio Habitacional (segundo llamado 1992), fijándose en esas mismas resoluciones el monto de los recursos que se destinarían para el financiamiento del subsidio directo correspondiente y su distribución regional y por tramos de valor de vivienda;
+
+b) Que en el número 2° de la resolución exenta N° 1.947, de este Ministerio, de 1992, modificada por resolución exenta N° 3.640, también de este Ministerio, de 1992, se dispuso el llamado a inscripción de postulantes en la modalidad de postulación colectiva con proyectos habitacionales (llamado 1992), fijándose en esas mismas resoluciones el monto de los recursos que se destinarían para el financiamiento del subsidio directo correspondiente y su distribución regional por tramos de valor de vivienda;
+
+c) Que en el número 3° de la resolución exenta N° 1.947, de este Ministerio, de 1992, modificada por resolución exenta N° 3.640, también de este Ministerio, de 1992, se dispuso el llamado a postulación para la adquisición o construcción de viviendas emplazadas en zonas de renovación urbana (llamado 2-92), fijándose en esas mismas resoluciones el monto de los recursos que se destinarían para el financiamiento del subsidio directo correspondiente y su distribución regional;
+
+d) Que mediante resolución exenta N° 1.946, de este Ministerio, de 1992, en relación con la resolución exenta N° 3.500, también de este Ministerio, de 1991, se fijaron las menciones y datos que deberán contener las solicitudes de inscripción para postular al segundo llamado 1992 del Sistema General Unificado de Subsidio Habitacional; para el llamado a postulación colectiva con proyectos habitacionales (llamado 1992) y para el llamado a postulación para la adquisición o construcción de viviendas emplazadas en zonas de renovación urbana (llamado 2-92) indicando los documentos que deberán acompañarse a ellas o exhibirse y su forma de presentación;
+
+e) Que el D.S. N° 44 (V. y U.), de 1988, y sus modificaciones, establece algunas inhabilidades para postular al Sistema General Unificado de Subsidio Habitacional, así como las causales por las cuales este Ministerio podrá dejar sin efecto, mediante resoluciones, las solicitudes para postular a dicho beneficio, dicto la siguiente
+
+Resolución:
+
+1°.- Déjanse sin efecto las 403 solicitudes de inscripción para el llamado a postulación al Sistema General Unificado de Subsidio Habitacional (segundo llamado 1992), efectuado por el número 1° de la resolución exenta N° 1.947, de este Ministerio, de 1992, modificada por resolución exenta N° 3.640, también de este Ministerio, de 1992, presentadas por las personas individualizadas en las nóminas que se acompañan, las cuales se entenderán formar parte integrante de la presente resolución, por las causales que en cada caso se expresan en dichas nóminas, y acéptanse las 51 renuncias voluntarias presentadas por los postulantes a dicho llamado, que en las mismas nóminas se indican.
+
+2°.- Déjanse sin efecto las 97 solicitudes de inscripción de postulantes al Sistema General Unificado de Subsidio Habitacion, en la modalidad de postulación colectiva con proyectos habitacionales (llamado 1992), efectuado por el número 2° de la resolución exenta N° 1.947, de este Ministerio, de 1992, modificada por resolución exenta N° 3.640, también de este Ministerio, de 1992, y las 12 solicitudes de socios, miembros o afiliados reemplazantes, presentadas por las personas indicadas en las nóminas que se acompañan, las cuales se entenderán formar parte integrante de la presente resolución, por las causales que en cada caso se expresan en dichas nóminas, y acéptanse las dos renuncias voluntarias presentadas por el postulante y por el integrante de la nómina de reemplazantes que en las mismas nóminas se indican.
+
+3°.- Déjanse sin efecto las 2 solicitudes de inscripción de postulantes al Sistema General Unificado de Subisidio Habitacional, en la modalidad de postulación para la adquisición o construcción de viviendas emplazadas en zonas de renovación urbana (llamado 2-92), efectuado por el número 3° de la resolución exenta N° 1.947, de este Ministerio, de 1992, modificada por resolución exenta N° 3.640, también de este Ministerio, de 1992, presentada por las personas individualizadas en la nóminas que se acompañan, las cuales se entenderán formar parte integrante de la presente resolución, por las causales que en cada caso se expresan en dichas nóminas.
+
+4°.- publíquense las nóminas completas a que se refiere la presente resolución, en un periódico de circulación nacional, y exhíbanse dichas nóminas en las oficinas de los Serviu.
+
+Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Alberto Etchegaray Aubry, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Joan Mac Donal M., Subsecretaria de Vivienda y Urbanismo.
