@@ -1,0 +1,3 @@
+Por resolución Nº 1.377, de 3 de julio de 2002, de esta Subsecretaría, autorízase a COMERCIALIZADORA PRODUCTOS DEL MAR CALETA ANGOSTA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Caleta Angosta s/n, Huasco, III Región, en donde podrá elaborar, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Alga seca, Picado de algas: Chascón, Huiro, Huiro palo.
+
+Valparaíso, 3 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
