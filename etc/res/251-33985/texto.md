@@ -1,0 +1,5 @@
+Por Resolución N° 251, de 4 de Marzo de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PRODUCTORA Y COMERCIALIZADORA DEL MAR LIMITADA, R.U.T. N° 79.682.770-K, para ampliar actividades pesqueras de transformación, autorizadas por Resoluciones N° 635, de 1987, N° 253 y N° 1030, ambas de 1992, todas de esta Subsecretaría, en orden a incorporar como materia prima a las líneas de proceso autorizados en su planta industrial ubicada en Camino al Fuerte N° 78, Coquimbo, IV Región, autorizada por las Resoluciones señaladas precedentemente, los siguientes recursos hidrobiológicos: Albacora y Pejerrey de mar.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 4 de Marzo de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
