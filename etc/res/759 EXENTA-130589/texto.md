@@ -98,9 +98,9 @@ Hurtado de Mendoza José Miguel Carrera -
 
 Baquedano
 
-Baquedano Hurtado de Mendoza -
+Baquedano Rafael de la Presa -
 
-Av.Providencia
+Avda. Providencia.
 
 Arzobispo Valdivieso Av. Providencia -
 
