@@ -354,6 +354,38 @@ Talagante, con siete jueces, con competencia sobre las comunas de Talagante, El 
 
 Curacaví, con dos jueces, con competencia sobre las comunas de Curacaví y María Pinto.
 
+Habrá además, con asiento en la comuna de Santiago, los siguientes juzgados de garantía:
+
+Primer Juzgado de Garantía de Santiago, con seis jueces, con competencia sobre la comuna de Pudahuel.
+
+Segundo Juzgado de Garantía de Santiago, con quince jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca y Conchalí.
+
+Tercer Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Independencia y Recoleta.
+
+Cuarto Juzgado de Garantía de Santiago, con diecisiete jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
+
+Quinto Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre las comunas de Cerro Navia y Lo Prado.
+
+Sexto Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Estación Central y Quinta Normal.
+
+Séptimo Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre la comuna de Santiago.
+
+Octavo Juzgado de Garantía de Santiago, con nueve jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
+
+Noveno Juzgado de Garantía de Santiago, con diecisiete jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+
+Décimo Juzgado de Garantía de Santiago, con cinco jueces, con competencia sobre las comunas de Lo Espejo y Pedro Aguirre Cerda.
+
+Undécimo Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de San Miguel, La Cisterna y El Bosque.
+
+Duodécimo Juzgado de Garantía de Santiago, con seis jueces, con competencia sobre las comunas de San Joaquín y La Granja.
+
+Decimotercer Juzgado de Garantía de Santiago, con doce jueces, con competencia sobre las comunas de Macul y Peñalolén.
+
+Decimocuarto Juzgado de Garantía de Santiago, con quince jueces, con competencia sobre la comuna de La Florida.
+
+Decimoquinto Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de San Ramón y La Pintana.
+
 ### Párrafo 2º
 
 De los tribunales de juicio oral en lo penal
@@ -501,6 +533,22 @@ San Bernardo, con nueve jueces, con competencia sobre las comunas de San Bernard
 Melipilla, con seis jueces, con competencia sobre las comunas de Melipilla, San Pedro, Alhué, Curacaví y María Pinto.
 
 Talagante, con seis jueces, con competencia sobre las comunas de Talagante, El Monte, Isla de Maipo, Peñaflor y Padre Hurtado.
+
+Habrá además, con asiento en la comuna de Santiago, los siguientes tribunales de juicio oral en lo penal:
+
+Primer Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Lo Prado, Cerro Navia y Pudahuel.
+
+Segundo Tribunal de Juicio Oral en lo Penal de Santiago, con veintiún jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca, Conchalí, Independencia y Recoleta.
+
+Tercer Tribunal de Juicio Oral en lo Penal de Santiago, con veinticuatro jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes, Providencia, Ñuñoa y La Reina.
+
+Cuarto Tribunal de Juicio Oral en lo Penal de Santiago, con quince jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
+
+Quinto Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+
+Sexto Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, con competencia sobre las comunas de Lo Espejo, Pedro Aguirre Cerda, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque y La Pintana.
+
+Séptimo Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, con competencia sobre las comunas de Macul, Peñalolén y La Florida.
 
 #### Artículo 21
 
@@ -2210,7 +2258,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.488 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.352 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.577 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.426 pesos.
 
 #### Artículo 199
 
