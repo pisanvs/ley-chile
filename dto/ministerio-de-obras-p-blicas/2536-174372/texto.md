@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.536, de 30 de junio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 659 y 660 para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C: Acceso Sur a Santiago.
+
+Km. 17.700,00 a Km. 46.600,00, Región Metropolitana, que figuran a nombre de Villa Díaz Francisco, rol de avalúo 658-299, comuna de Buin, superficies 3.175 m2 y 47.953 m2, respectivamente. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Miguel Juan Fernández Cádiz y Jorge Eduardo Lackington Vergara, fijó con fecha 01 de marzo de 2000, el valor provisional de la indemnización en las cantidades de $6.805.426.- para el lote Nº659 y de $91.920.075.- para el lote Nº660. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
