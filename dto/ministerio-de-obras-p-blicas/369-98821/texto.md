@@ -1,0 +1,3 @@
+Por decreto MOP. No 369, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nos 38-B y 38-C, superficies 2.390 y 2.010 M2, rol de avalúo 173-3 comuna de Casablanca, para la obra Ruta F-800, Sector Las Tablas Bifurcación Tunquén, provincia de Valparaíso, V Región y se acordó precio de la indemnización con su propietario, Sociedad Agrícola y Ganadera Requínoa Limitada y otro, ascendente a las cantidades de $1.269.014, para el lote 38-B y $1.350.934, para el lote 38-C.
+
+Fiscal del Ministerio de Obras Públicas.
