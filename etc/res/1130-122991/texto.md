@@ -1,0 +1,3 @@
+Por resolución Nº 1.130, de 5 de agosto de 1998, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 136 de 1987 en su numeral 4º, que autorizó a SOCIEDAD PESQUERA DOÑA ELENA LIMITADA, para instalar y operar un establecimiento de cultivo destinado a realizar liberación controlada y control de retorno de especies en la desembocadura del río Buñocoihue o Hueñocoihue, comuna de Dalcahue, provincia de Chiloé, X Región.
+
+Valparaíso, 5 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
