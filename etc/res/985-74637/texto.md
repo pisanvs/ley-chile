@@ -1,0 +1,3 @@
+Por Resolución Nº 985, de 10 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA Y CONSERVERA CABO DE HORNOS LIMITADA, para continuar desarrollando las actividades pesqueras autorizadas a Pesquera y Conservera Cabo de Hornos S.A., en virtud de la escritura pública y disposiciones legales citadas en Visto.
+
+Valparaíso, 10 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
