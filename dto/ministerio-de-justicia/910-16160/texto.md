@@ -2,11 +2,7 @@ REGLAMENTA PROCEDIMIENTO DE CADUCIDAD Y ELIMINACION DE CEDULAS DE IDENTIDAD, PAS
 
 Santiago, 15 de Julio de 1992.- Hoy se decretó lo que sigue:
 
-Núm. 910.- Vistos: Lo dispuesto en el artículo 32 N° 8 de la Constitución Política de la República; el D.F.L.
-
-N° 1.729, de 1976; el D.L. N° 1.268, de 1975, el Decreto N° 1.010, de 1989, del Ministerio de Justicia; la Resolución Exenta N° 287, de 1989, del Servicio de Registro Civil e Identificación; la Ley 4.408; el D.F.L.
-
-2.128 de 1930; la Ley 19.052; la Resolución N° 55, de 1992, de la Contraloría General de la República y las conclusiones del Ditamen N° 3042, de 1991, de ese órgano de control, y
+Núm. 910.- Vistos: Lo dispuesto en el artículo 32 N° 8 de la Constitución Política de la República; el D.F.L. N° 1.729, de 1976; el D.L. N° 1.268, de 1975, el Decreto N° 1.010, de 1989, del Ministerio de Justicia; la Resolución Exenta N° 287, de 1989, del Servicio de Registro Civil e Identificación; la Ley 4.408; el D.F.L. 2.128 de 1930; la Ley 19.052; la Resolución N° 55, de 1992, de la Contraloría General de la República y las conclusiones del Ditamen N° 3042, de 1991, de ese órgano de control, y
 
 Considerando:
 
@@ -32,7 +28,7 @@ Fíjanse los siguientes plazos máximos para que los solicitantes de documentos 
 
 3.- Pasaportes ordinarios para chilenos individual, documentos de viaje y títulos de viaje para extranjeros: tres meses.
 
-4.- Pasaportes ordinarios para chilenos familiar : seis meses, a menos que, en un plazo inferior a aquél, el mayor de los hijos que figure en él, cumpla dieciocho años, evento en el cual caducará en esta última fecha.
+4.- Pasaportes ordinarios para chilenos familiar: seis meses, a menos que, en un plazo inferior a aquél, el mayor de los hijos que figure en él, cumpla dieciocho años, evento en el cual caducará en esta última fecha.
 
 5.- Certificados de todo tipo, computacionales o manuales, libretas de familia y copias íntegras de registros: seis meses.
 
@@ -44,9 +40,9 @@ Declárase que vencidos los plazos indicados en él artículo anterior, caducar�
 
 1.- Cédula de identidad para chilenos y extranjeros:
 
-Transcurrido el plazo que corresponda, la Oficina que tenga en su poder el documento para la entrega al requirente, procederá a inutilizarlo mediante el uso de una perforadora especial, con las palabras "C.I. CADUCADO", la que quedará impresa en el costado izquierdo de la cédula sobre la fotocopia.
+Transcurrido el plazo que corresponda, la Oficina que tenga en su poder el documento para la entrega al requirente, procederá a inutilizarlo mediante un corte a 45 grados sobre la fotografía, partiendo del centro del costado izquierdo de la cédula.
 
-2.- Pasaportes ordinarios individuales y familiares, documentos de viaje y títulos de viaje para extranjeros: Estos documentos se inutilizarán mediante el mismo mecanismo señalado en el número anterior, procedimiento que tratándose de pasaportes cuyo formato es tipo libro, deberá quedar impreso en cada una de las hojas que forman el documento, incluyendo en éstas la tapa y contratapa.
+2.- Pasaportes ordinarios individuales y familiares, documentos de viaje y títulos de viaje para extranjeros: Estos documentos se inutilizarán mediante un corte transversal que divida en dos mitades iguales todo el documento, incluidas su tapa y contratapa.
 
 3.- Certificados, Libretas de Familia y Copias Integras.
 
@@ -54,7 +50,7 @@ Transcurrido el plazo ya establecido, se inutilizarán mediante un timbre especi
 
 #### Artículo 3°
 
-Establécese el siguiente procedimiento único de eliminación de documentos caducados.
+Establécese el siguiente procedimiento único de eliminación de las partes de los documentos caducados.
 
 Vencidos los plazos de caducidad indicados para cada tipo de documento y formalizada ésta en la forma señalada en el artículo 2°, el Servicio de Registro Civil e Identificación procederá a la eliminación de los documentos de acuerdo al siguiente procedimiento:
 
@@ -63,6 +59,10 @@ Vencidos los plazos de caducidad indicados para cada tipo de documento y formali
 2.- Recepcionada la documentación, el Jefe del Departamento Archivo General procederá a su cotejo con el Acta recibida, firmando al pie de dicho documento en señal de conformidad.
 
 3.- El Archivo General procederá a la destrucción material de la documentación caducada mediante su introducción en las máquinas trituradoras de papel que mantiene ese Departamento del Servicio, certificándose el hecho de la destrucción en el acta correspondiente por el Jefe de dicho Departamento o por el funcionario en quien delegue esa actuación.
+
+#### Artículo 4°
+
+Las cédulas de identidad extraviadas, que se reciban en las Oficinas, serán remitidas al Archivo General del Servicio, en donde estarán a disposición de sus titulares por un plazo de seis meses. Mensualmente se prepararán nóminas con las cédulas recibidas, las que se fijarán a la vista del público en los gabinetes de identificación. Las cédulas que no sean reclamadas caducarán una vez que transcurra el plazo señalado y se eliminarán siguiendo el procedimiento establecido en el artículo anterior.
 
 Tómese razón, regístrese, comuníquese y publíquese.- ENRIQUE KRAUSS RUSQUE, Vicepresidente de la República.- Francisco Cumplido Cereceda, Ministro de Justicia.
 
