@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 148, de l8 de febrero de 1998, y en base a la facultad otorgada por el artículo lO5 del decreto MOP. Nº 294 de 1984 (D. F.L. Nº850 de 1997), que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 6-1, para la obra Camino Santiago-Colina-Los Andes Sector "C", Peldehue- Casas de Chacabuco, km.
+
+36.220,00 al 41.061,40, que figura a nombre de Garbarino Guerrini Virgilio, rol de avalúo 186-14, comuna de Colina, superficie 12.128.0 m2. La Comisión de Peritos integrada por los señores María Soledad Saffie Duery, Gonzalo Herrera Villamil y René Ureta Koster, fijó con fecha 5 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $15.102.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
