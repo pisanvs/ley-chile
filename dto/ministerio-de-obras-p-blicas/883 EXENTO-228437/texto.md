@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 883, de fecha 30 de junio de 2004, se expropió el lote de terreno Nº 69-A, superficie 135 m², Rol Nº 511-80, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Long. - Mesamávida, sector Cruce Longitudinal - San Luis Tramo Km. 0,000.00 a Km. 13,841.12" y se acordó el valor de indemnización con su propietaria Norma Filomena González Valdés, ascendente a la cantidad de $482.220.- para el lote Nº 69-A.
+
+- Fiscal del Ministerio de Obras Públicas.
