@@ -1,0 +1,5 @@
+Por decreto MOP Nº 744 de 7 de julio de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 5, para la obra: Camino Pavimentación Avenida Cuartel Entre Enlace Hijuelas y Avenida Manuel Rodríguez, Sector Calle Cuartel, Km. 0,00000 a Km.
+
+0,57226, que figuran a nombre de Laborda Echegary Hernán, rol de avalúo 15-00015, comuna de Hijuelas, V Región, superficie 1.260,59 m2. La Comisión de Peritos, fijó con fecha 18 de octubre de 2002, el monto de la indemnización provisional en la cantidad de $6.493.255.- para el lote Nº 5. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
