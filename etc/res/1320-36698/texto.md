@@ -1,0 +1,5 @@
+Por Resolución N° 1.320, de 20 de Septiembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA COLOSO S.A., R.U.T. N° 93.065.000-5, para ampliar actividades pesqueras extractivas, autorizadas por la Resolución N° 34, de 1980, de esta Subsecretaría, en orden a operar la nave "Marga Marga", autorizada por las Resoluciones señalada precedentemente, en el litoral comprendido entre la I y IV Regiones, donde podrá extraer mediante cerco, el recurso hidrobiológico Bacaladillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 20 de Septiembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
