@@ -1,0 +1,3 @@
+Por resolución exenta No. 301 de 27 de junio de 1989, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó al señor Carlos René Silva Puratic para efectuar servicio internacional de transporte terrestre de pasajeros en entre Punta Arenas (Chile) y Río Gallegos (Argentina), por el Paso Monte Aymond con una frecuencia semanal, de ida y vuelta.
+
+Manuel Gárate Meneses, Coronel, Subsecretario de Transportes.
