@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 705 de fecha 29/4/96, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó complementariamente a la empresa argentina Autotransportes Andesmar S.R.L., para efectuar servicio internacional de transporte terrestre de pasajeros entre Mendoza (Argentina) y Santiago-Valparaíso-Viña del Mar (Chile), utilizando el paso fronterizo de Cristo Redentor (Sistema Cristo Redentor), efectuando dos (2) frecuencias diarias de ida y vuelta.-
+
+Claudio Hohmann Barrientos, Subsecretario de Transportes.
