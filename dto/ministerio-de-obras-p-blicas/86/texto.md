@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 86, de fecha 31 de marzo de 1994, se expropiaron los lotes de terreno N°s. 1, 1, 3, 5, 3 y 5, superficies 1.296 M2., 4.297,60 M2, 4.016,40 M2., 7.407 M2., 4.167,10 M2. y 558 M2., rol de Avalúo 123-5, Comuna de Pencahue, para las obras Canales Pueblo Bajo, El Palto y Santa Sara, y se acordó valor de indemnización con su propietario don Efraín del Carmen Villamán Castro, ascendente a la cantidad de $1.665.705.-
+
+Fiscal del Ministerio de Obras Públicas.
