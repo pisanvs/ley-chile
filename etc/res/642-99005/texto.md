@@ -1,0 +1,3 @@
+Por resolución Nº 642, de 5 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95104060, presentada por JOSE CARLOS OJEDA OJEDA, para operar un centro de cultivo en Desembocadura Ensenada Codihue, Sector Aguantao, comuna de Calbuco, provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
