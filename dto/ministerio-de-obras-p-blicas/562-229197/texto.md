@@ -1,0 +1,3 @@
+Por decreto MOP Nº 562 de fecha 9 de julio de 2004, se rectificó el decreto MOP Nº 98 de 10 de febrero de 2004, en lo que respecta al numeral 4º , debiendo decir "... Fiscal Regional de la Sexta Región .." y no como se especificó en el acto expropiatorio, correspondiente a la obra "Concesión Internacional Ruta 5. Tramo: Santiago-Talca Sector G: Km. 110.200,00 al Km. 128.400,00".
+
+- Fiscal del Ministerio de Obras Públicas.
