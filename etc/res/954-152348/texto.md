@@ -1,0 +1,5 @@
+AUTORIZA A DON JAIME HALPERN AGOSIN PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 954, de 20 de Agosto de 1987, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Jaime Halpern Agosín, cédula de identidad No. 3. 153.965 de Santiago, domiciliado en Huérfanos No. 979, oficina 906, Santiago, para ampliar las actividades pesqueras de transformación autorizadas por resolución No. 59, de 1979 y resolución No. 145 de 1980 de la Subsecretaria de Pesca, en orden a incorporar entre los recursos hidrobiológicos que se le autorizó procesar en su planta industrial de Maipú No. 215, Coquimbo, IV Región, el denominado Lapa, en las líneas de elaboración de conserva y congelado.
+
+Valparaíso, 20 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
