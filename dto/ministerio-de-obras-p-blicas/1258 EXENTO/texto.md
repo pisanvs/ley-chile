@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.258 de fecha 31 de agosto del 2001, se expropiaron los lotes de terreno Nºs. 93 y 93-A, superficie 148 y 152 m², respectivamente, Rol de Avalúo Nº33-313, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua-Las Cabras, Sector San Roberto-El Toco-Ruta 66, Tramo Km. 12,70000 al 18,19349" y se acordó el valor de indemnización con su propietario Senobia Soledad Moreno Valdés, ascendente a la cantidad de $826.271.-
+
+Fiscal del Ministerio de Obras Públicas.
