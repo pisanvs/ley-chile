@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 60, de 27 de Febrero de 1992, se expropiaron los lotes de terreno Nos. 6,7,10 y 16, superficies 530,70 M2., 669,25 M2., 20,50 M2. y 477,18 M2., roles de avalúos 38-52, 38-53, 38-56 y 38-48, Comuna de Romeral, para la obra Camino Longitudinal Sur, sector Romeral-Molina, Paso Superior Aguas Negras y se acordó precio de indemnización con sus propietarios Héctor Navarro Arrigada y Otros, Hugo Núñez Núñez, Carlos Leiva Leiva y Gilberto Vergara Valenzuela, ascendente a las cantidades de $ 2.526.061, $ 1.596.303, $ 93.798 y $ 1.261.984, respectivamente,
+
+Fiscal del Ministerio de Obras Públicas.-
