@@ -1,0 +1,3 @@
+Por decreto MOP Nº 114, de fecha 28 de febrero del 2001, se expropió el lote de terreno Nº 7, superficie 230 m², rol de avalúo 304-26, comuna de Mulchén, para la obra "Camino Ruta Q-80, Sector Ruta 5 - Mulchén, Tramo I Km. 0,00000 a Km. 2,76300, y Sector Ruta 5 - Negrete, Tramo II Km. 0,00000 a Km. 29,93300" y se acordó el valor de indemnización con su propietaria Rosa Delia Acuña Maldonado y Otras, ascendente a la cantidad de $208.868.-
+
+Fiscal del Ministerio de Obras Públicas.
