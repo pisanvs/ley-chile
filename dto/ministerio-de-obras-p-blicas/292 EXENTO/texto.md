@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº292, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº1-A, superficie 554,8 m², rol de avalúo 3255-180, comuna de Temuco, para la obra "Camino Ruta S-20, Sector Temuco - Chol Chol, Tramo Km. 3,50000 al Km. 25,01609, provincia de Cautín" y se acordó el valor de indemnización con su propietario Agustín Rucán Antiqueo, ascendente a la cantidad de $648.821.-.
+
+Fiscal del Ministerio de Obras Públicas.
