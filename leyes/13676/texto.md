@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Quinta Normal para contratar uno o más empréstitos que produzcan hasta la suma de $ 135.000.000 con el fin de destinarlos a la ejecución de diversas obras de adelanto comunal; para su servicio establece una contribución adicional de un tres por mil anual sobre el avalúo de los bienes raíces de la comuna.
