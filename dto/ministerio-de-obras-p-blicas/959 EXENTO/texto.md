@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº959, de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nºs. 114 y 115, superficies 845 m² y 885 m², respectivamente, rol de avalúo 126-24, comuna de Ranquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea Ñipas, Tramo II, Km. 5,57900 al 10,19480'' y se acordó el valor de indemnización con su propietaria doña Anay del Carmen del Solar del Solar, ascendente a la cantidad de $2.025.664.-
+
+Fiscal del Ministerio de Obras Públicas.
