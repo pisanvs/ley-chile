@@ -1,0 +1,11 @@
+Por resolución exenta Nº 3.102, de 28 de noviembre de 2003, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A. para ampliar actividades pesqueras extractivas con la nave "Guanaye 5" en las áreas marítimas que en cada caso se indican, donde podrá capturar los recursos hidrobiológicos que a continuación se señalan:
+
+- **a)** Entre la I a III Regiones, por fuera del área de reserva artesanal, con arrastre de media agua: Anchoveta o anchoa, Sardina española, Jurel, Sardina común, Merluza de cola, Agujilla, Bacaladillo o mote, Bonito, Caballa, Cojinoba del norte Seriolella violacea, Cojinoba del sur, Cojinoba moteada, Dorado, Machuelo o tritre, Merluza de tres aletas, Merluza del sur, Palometa, Jurel fino, Anchoa blanca, Sardina redonda, Vinciguerria;
+
+- **b)** En la IV Región, por fuera de las 60 millas náuticas, con arrastre de media agua: Anchoveta o anchoa, Sardina española, Jurel, Sardina común, Merluza de cola, Agujilla, Bacaladillo o mote, Bonito, Caballa, Cojinoba del norte Seriolella violacea, Cojinoba del sur, Cojinoba moteada, Dorado, Machuelo o tritre, Palometa, Jurel fino, Anchoa blanca, Sardina redonda, Vinciguerria;
+
+- **c)** En la VII y IX Regiones, por fuera de las 60 millas náuticas, con arrastre de media agua: Anchoveta o anchoa, Sardina española, Jurel, Sardina común, Merluza de cola, Agujilla, Bacaladillo o mote, Bonito, Caballa, Cojinoba del norte Seriolella violacea, Cojinoba del sur, Cojinoba moteada, Dorado, Machuelo o tritre, Palometa, Jurel fino, Anchoa blanca, Sardina redonda, Vinciguerria;
+
+- **d)** En la X Región, por fuera de las 60 millas náuticas, con arrastre de media agua: Anchoveta o anchoa, Sardina española, Jurel, Sardina común, Merluza de cola, Agujilla, Bacaladillo o mote, Bonito, Caballa, Cojinoba del norte Seriolella violacea, Cojinoba del sur, Cojinoba moteada, Dorado, Machuelo o tritre, Palometa, Jurel fino, Anchoa blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 28 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
