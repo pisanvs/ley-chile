@@ -1,0 +1,3 @@
+Por decreto MOP Nº 201, de 29 de enero de 1999, se expropiaron los lotes de terreno Nºs. 58 y 59-A, superficies 6.559 m² y 86 m², rol de avalúo 955-12, comuna de Bulnes, para la obra Concesión Internacional Ruta 5, Tramo Chillán-Collipulli, Sector 1, VIII Región y se acordó el valor de indemnización con su propietario Fulvio Camaño López, ascendente a la cantidad total de $12.157.990.-
+
+Fiscal del Ministerio de Obras Públicas.
