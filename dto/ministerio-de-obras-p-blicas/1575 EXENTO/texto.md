@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.575, de fecha 31 de octubre de 2002, se expropiaron los lotes de terreno Nºs 1, 2 y 3, superficies 484,3 m2, 305,9 m2 y 309,9 m2, respectivamente, rol de avalúo 170-48, comuna de Curarrehue, IX Región, para la obra ''Camino Mamuil Malal, tramo Puente Correntoso Km. 130,988 al Puente Puesco Km. 136,860, Sector Km. 130,988 al 134,620'' y se acordó el valor de indemnización con su propietaria doña Lucía Paredes Matamala, ascendente a la cantidad de $1.751.878.-
+
+Fiscal del Ministerio de Obras Públicas.
