@@ -1,0 +1,7 @@
+AUTORIZA A DISTRIBUIDORA DE PRODUCTOS DEL MAR S.A.
+
+"DIPROMAR S.A." PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.067, de 09 de Septiembre de 1987, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Distribuidora de Productos del Mar S.A. "DIPROMAR S.A.", domiciliada en calle San Martín No. 167, Oficina No. 303, Puerto Montt, para ampliar actividades pesqueras autorizadas por resolución No. 811 de 1987, de esta Subsecretaria, en orden a elaborar en la línea de conservas en la planta autorizada por la resolución antes citada los siguientes recursos hidrobiológicos: Merluza del Sur, congrio colorado, mero, raya, tollo, pejerrey, salmón del Pacífico corvina, sardina común, jurel, bonito, sierra, cojinova, anchoa, chancharro, congrio negro, congrio dorado, chorito, choro zapato, cholga, loco, almeja, caracol tegula, caracol locate, caracol trumulco, lapa, culengue, macha, navajuela, calamar, picoroco, jaiba, piure, erizo, pinuca y centolla. La planta será abastecida por pescadores artesanales de la X y XI Región y el recurso Salmón del Pacífico deberá provenir de centros de cultivo autorizados.
+
+Valparaíso, 09 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
