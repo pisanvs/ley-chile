@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.717, de 23 de junio de 2004, de esta Subsecretaría, modifícase la resolución Nº 3.503 de 2003, de esta Subsecretaría, que autorizó a PESCA CHILE S.A. para realizar operaciones pesqueras de conformidad con lo dispuesto en el artículo 12 transitorio de la ley Nº 18.892, en el sentido de incorporar a la nave fábrica denominada "Cabo de Hornos", la que podrá operar en aguas exteriores, por fuera de las líneas de base recta, en las áreas marítimas comprendidas entre el 44°30' L.S. y el 47° L.S. y entre el 47° L.S. y el 57° L.S., respecto de los recursos y con las obligaciones establecidas en la resolución Nº 1.716 de 2004, de esta Subsecretaría.
+
+Déjase sin efecto la resolución Nº 3.554 de 2003, de esta Subsecretaría, sólo en cuanto autorizó a Pesquera Yelcho S.A. a operar con las naves "Betanzos" y "Unionsur", en virtud de lo dispuesto en las resoluciones Nº 1.118, Nº 1.119, Nº 1.120, Nº1.715 y Nº 1.716, todas de 2004, de esta Subsecretaría, y de lo dispuesto en la presente resolución.
+
+Valparaíso, 23 de junio de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
