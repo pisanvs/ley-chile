@@ -1,0 +1,3 @@
+Por resolución Nº 851, de 7 de mayo de 2002, de esta Subsecretaría, declárase la caducidad de la resolución Nº 455 de 1993, de esta Subsecretaría de Pesca, que autorizó a PESQUERA ATACAMA S.A., ampliar actividades pesqueras extractivas con una nave en construcción denominada "Atacama VII", en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 7 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
