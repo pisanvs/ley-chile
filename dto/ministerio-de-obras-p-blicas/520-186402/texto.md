@@ -1,0 +1,3 @@
+Por decreto MOP Nº 520 de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 2, superficie 302 m2, rol de avalúo 141-31, comuna de Coihueco, para la obra "Camino Coihueco - Relbunco, Sector Puente Relbunco, Km. 0,0000 a Km. 0,25000" y se acordó el valor de indemnización con su propietario José Reinaldo Gaínza Gutiérrez, ascendente a la cantidad de $990.873.-
+
+Fiscal del Ministerio de Obras Públicas.
