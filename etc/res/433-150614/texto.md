@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA SANTA MARlA S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 433 de 08 de Mayo de 1987 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Santa María S.A.. domiciliada en Concepción, para iniciar las actividades pesqueras extractivas con su embarcación "Santa María I", en el litoral comprendido entre la I a IX Región, donde podrá extraer los siguientes recursos hidrobiológicos: bacalao, congrio dorado, congrio negro y raya; y en el litoral de la III a VII y IX Región donde extraerá: jurel, sardina española, sardina común y anchoveta. Podrá además, efectuar actividades de transformación en la línea de proceso de congelado en Frigorífico Concepción, ubicado en calle Las Heras No. 2241, Concepción; utilizando como materia prima los siguientes recursos hidrobiológicos: bacalao, congrio dorado, congrio negro, raya, pejerrey, merluza, albacora, loco y caracol trumulco.
+
+Valparaíso, 08 de Mayo de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
