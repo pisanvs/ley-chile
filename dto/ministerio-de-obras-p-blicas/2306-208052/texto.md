@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.306 de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº20, superficie 1.475 m², rol de avalúo Nº5050-85, comuna de Punta Arenas, para la obra "Reposición Ruta 9 y Acc. Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819", XII Región y se acordó el valor de la indemnización con su propietario Transportes y Servicios Santa Bárbara Limitada, ascendente a la cantidad de $11.904.273.-
+
+Fiscal del Ministerio de Obras Públicas.
