@@ -1,0 +1,5 @@
+Por decreto MOP Nº 124, de 31 de enero de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 474, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago Km.
+
+-0.150,00 a Km. 10.986,00, Región Metropolitana, que figura a nombre de Troncoso Peralta Raúl Antonio, rol de avalúo 7799-16, comuna de La Pintana, superficie 134 m². La Comisión de Peritos integrada por los señores Pablo Antonio Aragón Bernal, Jorge Gregorio Mendoza Larral y Esteban Benusic Carevic, fijó con fecha 12 de noviembre de 1999, el valor provisional de la indemnización en la cantidad de $23.497.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
