@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 458 de 23 de Marzo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamientos de Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "Santa Eliana", de la comuna de Molina, VII Región; y Derechos de Aprovechamiento de Aguas que corresponden a parcelas N°s. 1 a la 35, sitios N°s. 1 al 38 y Reserva CORA No. 1 del Proyecto de Parcelación "Buena Fe Oriente", formado por predio señalado y predio "San Luis de Las Tres Esquinas". Los Derechos de Agua se extraen del Canal "Nuevo Urzúa". Publicación hecha con forme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
