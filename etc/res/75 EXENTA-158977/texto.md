@@ -1,0 +1,3 @@
+Por resolución exenta No. 75, de 27 de Junio de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la 1ª Región, se autoriza a Srs. Oscar Cáceres Morales, Néstor Contreras F., René Oyanedel R., para efectuar servicio de taxi colectivo no urbano dentro del territorio nacional.-
+
+Juan W. Flacquer Hernández, Secretario Regional Ministerial Transportes y Telecomunicaciones I Región Tarapacá.
