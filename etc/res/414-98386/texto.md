@@ -1,0 +1,5 @@
+Por resolución Nº414, de 30 de marzo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstruccion, autorízase a JOSE RENE VIDAL BARRIENTOS, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Pedro Montt Nº1190, Castro, X Región, donde podrá procesar, en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Ahumado, Congelado y Sellado al Vacío: Salmón plateado, Salmón del Atlántico, Trucha arcoiris o Cabeza de acero, Cholga, Chorito y Ostra del Pacífico; Cocción, Congelado y Sellado al Vacío: Jaiba y Centolla. Los recursos Salmón plateado, Salmón del Atlántico, Trucha arcoiris y Ostra del Pacífico, deberán provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 30 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
