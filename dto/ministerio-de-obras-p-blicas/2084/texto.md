@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.084, de 30 de julio de 1999, se expropió el lote de terreno Nº5, superficie 7.756,0 m2., rol de avalúo 390-20, comuna de Pitrufquén, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietaria Yolanda Adriana Vergara Carrasco, ascendente a la cantidad de $4.477.987.-
+
+Fiscal del Ministerio de Obras Públicas.
