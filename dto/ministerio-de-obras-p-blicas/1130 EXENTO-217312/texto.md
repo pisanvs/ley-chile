@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.130 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 19, superficie 389 m², rol de avalúo Nº 172-543, comuna de San Clemente, para la obra "Camino: Mejoramiento Ruta K-705, Sector: Cruce Ruta 115-CH (El Guindo) - Vilches Alto, Tramo Km. 0,00000 a Km. 13,06400 (Ruta K-705) y Km. 35,46000 a Km. 35,80000 (Ruta 115-CH), comuna de San Clemente, provincia de Talca", VII Región y se acordó el valor de la indemnización con su propietaria Rosa Elena del Carmen González Aguilera, ascendente a la cantidad de $889.273.
+
+- Fiscal del Ministerio de Obras Públicas.
