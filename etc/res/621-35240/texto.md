@@ -1,0 +1,5 @@
+Por Resolución N° 621, de 8 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ISABEL DEL CARMEN NUÑEZ PINTO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Tercera Poniente N° 2994, Tocopilla, II Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-refrigerado: Almeja o taca, Caracol, Caracol locate, Caracol tegula, Chitón o apretador, Cholga, Lapa, Pulpo, Jaiba peluda o pachona, Erizo; Precocido: Caracol, Caracol locate, Caracol tegula, Chitón o apretador, Cholga, Lapa, Pulpo, Jaiba peluda o pachona.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 8 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
