@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.395, de 31 de mayo de 1999, se expropiaron los lotes de terrenos Nºs. 556 y 557, superficies 3.430,2 m2. y 317,0 m2., rol de avalúo 546-58, comuna de La Unión, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietario César Armando Yohn Manzano, ascendente a la cantidad de $2.441.053.-
+
+Fiscal del Ministerio de Obras Públicas.
