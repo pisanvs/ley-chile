@@ -1,0 +1,3 @@
+Por resolución Nº 2.441 de 10 de octubre de 2003, de esta Subsecretaría, autorízase a SOCIEDAD EXTRACTORA Y COMERCIALIZADORA DE PRODUCTOS DEL MAR, AGROP. Y FORESTALES LTDA., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Arica Nº 2478, Valdivia, X Región, en la línea de elaboración de Cocido, Alga Seca y Deshidratado, los siguientes recursos hidrobiológicos: Huiro, Lechuga de mar, Carola, Cochayuyo, Cotoni, Chasca, Chascón, Chicorea de mar, Luche, Luga-Luga Mazaella membranacea, Pelillo y Luga-Luga Sarcothalia crispata.
+
+Valparaíso, 10 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
