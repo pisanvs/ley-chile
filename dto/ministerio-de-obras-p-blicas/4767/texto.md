@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.767, de 31 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 6, 7, 8, 9, 10 y 11. Obra: Extensión Poniente Línea 5, sector Santa Ana Matucana, que figuran a nombre Uranga Birkner José Antonio, Roldán Alvarado Marcos, Avila Arancibia María Raquel y otra, Manríquez Millán Roberto; Martínez E. Crescente y Ot. y Asesor e Invers. Generac Perdid Ltda., roles de avalúos 301-19, 301-20, 301-21, 301-14, 271-4 y 271-23, comuna de Santiago Oeste, superficies 1.079, 525, 211, 136, 619 y 51 M2., respectivamente. La comisión de peritos, fijó con fecha 11 de octubre de 2000, en la cantidad de $261.693.300, lote 6; $92.977.000, lote 7; $35.900.550, lote 8;
+
+$21.813.850, lote 9; $157.563.000, lote 10 y $7.524.000, lote 11. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
