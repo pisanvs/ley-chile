@@ -1,0 +1,3 @@
+Por decreto MOP Nº 786 de fecha 31 de agosto de 2004, se expropió el lote de terreno Nº 45, superficie 1.514,00 m2, rol de avalúo Nº 764-137, comuna de Lampa, para la obra "Camino Ruta G-184-182, Sector El Noviciado-Cruce Ruta G-16 (Lipangue) tramo de Km. 4,450 a Km. 15,04419", Región Metropolitana y se acordó el valor de la indemnización con su propietario Alexander William Murray Garay, ascendente a la cantidad de $5.508.960.-
+
+Fiscal del Ministerio de Obras Públicas.
