@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 687, de 30 de abril de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 62, 64-B, 64-C y 64-F, para la ejecución de la obra ''Camino -Ruta S-16, Sector Galvarino-Chol-Chol, Tramo Km. 0,00000 a Km. 24,30269; Subtramo II'', que figuran a nombre de Jara Vidal Margott y Juan Pedro Guilcan y otros, rol de avalúo 611-61 y 611-9, comuna de Nueva Imperial, IX Región, superficies 409, 901, 1090 y 645 m2. La Comisión de peritos fijó con fecha 26 de septiembre de 1999, el valor provisional de la indemnización en la cantidad de $98.160, lote 62; $316.240, lote 64-B; $2.083.600, lote 64-C y $388.800, lote 64-F. La indemnización se pagará al contado.
+
+La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
