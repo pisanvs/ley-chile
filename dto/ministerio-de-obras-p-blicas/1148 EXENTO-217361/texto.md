@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.148 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 15, superficie 543 m², rol de avalúo Nº266-34, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 2 Carrizal Puente Belco, Tramo Km. 17,34000 a Km. 23,51000", VII Región y se acordó el valor de la indemnización con su propietaria Pilar Andrea Galdames Saravia y Otro, ascendente a la cantidad de $498.223.
+
+- Fiscal del Ministerio de Obras Públicas.
