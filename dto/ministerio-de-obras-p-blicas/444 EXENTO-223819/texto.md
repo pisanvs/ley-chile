@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 444 de 26 de marzo de 2004, se expropió el lote de terreno Nº 11, superficie 1.655,00 m2, rol de avalúo Nº 179-32, comuna de Chonchi, para la obra "Camino Ruta W-80, Sector Cruce Longitudinal Huillinco, Km. 0,000 a Km. 9,556" X Región y se acordó el valor de la indemnización con su propietaria María del Carmen Oyarzún Andrade, ascendente a la cantidad de $1.296.115.
+
+Fiscal del Ministerio de Obras Públicas.
