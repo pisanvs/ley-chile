@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.543, de 29 de septiembre del 2000, se expropió el lote de terreno Nº66, superficie 3.405,01 m2., rol de avalúo 323-21, comuna de Constitución, para la obra Camino M-24-K Quivolgo - Puente Lautaro, Sector C, Putu - Quivolgo, Km. 30,000 a Km. 49,815.494 y se acordó precio de la indemnización con su propietaria Violeta Eugenia Anguita Gutiérrez y otros, ascendente a la cantidad de $3.891.031.-
+
+Fiscal del Ministerio de Obras Públicas.
