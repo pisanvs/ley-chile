@@ -1,0 +1,3 @@
+Por Resolución N° 967 de 13 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por 1 año a contar del 13 de septiembre de 1992, el plazo otorgado a don JOSE ARMANDO BORQUEZ CARDENAS, R.U.T. N° 6.577.046-6, para instalar y operar un establecimiento de cultivo autorizado por la Resolución N° 944, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 13 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
