@@ -1,0 +1,11 @@
+Por resolución Nº 582, de 9 de abril de 2001, de esta Subsecretaría, autorízase a MARIA ISABEL AYLLACH AGUILERA, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº444 de 1997, de esta Subsecretaría, en orden a operar una planta ubicada en Candelaria s/n, localidad rural de la comuna de Quellón, provincia de Chiloé, X Región, en la que podrá procesar, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-enfriado, fresco-refrigerado, congelado, seco-salado, ahumado y conserva: Bacalao de profundidad, Caballa, Cabrilla, Cabrilla común, Chancharro, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Tiburón, Machuelo o tritre, Merluza del sur, Mero, Pejegallo, Pejerrey de mar, Puye, Raya, Róbalo, Rollizo, Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado, Sardina española, Sardina común, Sierra, Tollo, Trucha arcoiris, Abalón rojo, Almeja Venus antiqua, Almeja Eurhomalea exalbida, Calamar, Caracol palo palo, Caracol trumulco, Caracol caramujo, chitón espinoso, Cholga, Chorito, Choro, Culengue, Navaja de mar o Huepo, Lapa, Caracol locate, Macha, Navajuela, Ostión del norte, Ostra chilena, Ostra del Pacífico, Caracol picuyo, Caracol piquilhue, Pulpo, Almeja o taca, Loco, Cangrejo panchote, Centollón, Jaiba, Jaiba remadora, Picoroco, Centolla, Erizo, Piure y Pepino de mar.
+
+La materia prima será adquirida a pescadores artesanales e industriales, debidamente autorizados.
+
+Los recursos hidrobiológicos Abalón rojo, Ostra del Pacífico, Ostión del norte, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón cereza, Salmón keta, Salmón rosado, Trucha arcoiris, deberán provenir de centros de cultivos autorizados.
+
+El recurso Caracol caramujo deberá cumplir con las normas sobre importación y sanidad correspondiente.
+
+Déjase sin efecto la resolución Nº25 de 1992, de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 9 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
