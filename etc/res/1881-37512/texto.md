@@ -1,0 +1,3 @@
+Por Resolución N° 1.881, de 8 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a la SOCIEDAD MARITIMA Y ARMADORA SAN JORGE LIMITADA, para ampliar actividades pesqueras de transformación, en orden a procesar en la planta ubicada en Parque Industrial AGPIA, Pasaje 1, Sitio 17, N° 387, Iquique, I Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Seco-salado: Anchoveta; Fresco-refrigerado: Loco, Erizo; Congelado: Loco.
+
+Valparaíso, 8 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
