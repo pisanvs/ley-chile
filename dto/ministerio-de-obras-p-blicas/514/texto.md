@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 514, de fecha 31 de octubre de 1994, se expropío el lote N° 3, superficie 2.191 m2., rol de avalúo 1216-168, Comuna de Teodoro Schmidt, para la obra Camino Freire - Toltén por Hualpín, sector Hualpín - Puente Peule y se acordó valor de indeminización con su propietario Luis A. Valenzuela Tapia y otros, ascendente a la cantidad de $277.008.-
+
+Fiscal del Ministerio de Obras Públicas.
