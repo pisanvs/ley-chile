@@ -1,0 +1,3 @@
+Por decreto MOP. exento Nº 1.115 de 30 de julio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 31-D para la obra: Camino Ruta F-10-G, sector Cuesta La Dormida Etapa 2, Km. 10,98400 a Km. 34,50000, que figura a nombre de Cía. Minera Los Amigos S.A., rol de avalúo 225-12, Comuna de Olmué, V Región, superficie 216,39 m2. La Comisión de Peritos, fijó con fecha 15 de agosto de 2001, en la cantidad de $754.751.-, para el lote 31-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
