@@ -38,6 +38,8 @@ En ningún caso, salvo los determinados por la presente ley, las importaciones q
 
 No obstante lo anterior, cuando en los presupuestos de importaciones de las provincias de Chiloé, Aysen y Magallanes, se produzcan déficit que puedan afectar su desarrollo, el Banco Central de Chile, podrá suplementar la importación de artículos esenciales y bienes de producción en las cantidades que determinen dichos déficit.
 
+> **Nota.** El artículo 5° de la Ley 14824, publicada el 13.01.1962, dispone todas las mercaderías que en ella se indican y que se internen en las provincias de Chiloé, Aysen y Magallanes, quedarán afectas al pago de todos los derechos e impuestos que se cobren por las aduanas, con excepción del impuesto adicional establecido de acuerdo con lo dispuesto en el artículo 169° de la Ley 13305 y deroga para las referidas provincias, la vigencia de lo establecido en los incisos cuarto y quinto del presente artículo.
+
 #### Artículo 4
 
 o Las mercaderías extranjeras, estén o no nacionalizadas, como asimismo las nacionales procedentes de las provincias de Magallanes, Aysen y Chiloé, que se lleven al norte del país, estarán afectas, según el caso, al régimen establecido para la reexportación o para las exportaciones, con las modalidades que acuerde la Junta General de Aduanas, a proposición del Superintendente, sometiéndose, además, a las normas establecidas por el Consejo Nacional de Comercio Exterior para las importaciones en general.
@@ -70,11 +72,13 @@ c) Los industriales y agricultores que no tengan la permanencia a que se refiere
 
 #### Artículo 8
 
-o El Administrador de la Aduana respectiva de las provincias de Chiloé, Aysen y Magallanes podrá autorizar la salida de vehículos motorizados a otras zonas del país por un plazo no superior a seis meses. Las nuevas autorizaciones sólo podrán otorgarse después de transcurrido un año desde el vencimiento del permiso anterior.
+o Facúltase a los Administradores de Aduana de las provincias de Chiloé y Magallanes para autorizar la salida temporal de vehículos motorizados, a excepción de camiones de carga, que se hayan importado o se importen al amparo de las franquicias concedidas por esta ley, desde dichas provincias al resto del país, hasta por un plazo de seis meses en cada año calendario.
 
-En todo lo demás estas salidas temporales se regirán por lo dispuesto en el artículo 146.o de la ordenanza de Aduanas y en los Reglamentos respectivos.
+Dicho término se contará desde la fecha efectiva de entrada al resto del territorio nacional y los interesados podrán completarlo de una sola vez o en varias salidas temporales.
 
-Lo anterior no se aplicará a los vehículos de pasajeros y de carga que transiten desde o hacia la República Argentina, los cuales se regirán por las normas especiales que se establezcan en los Reglamentos.
+Corresponderá a la Superintendencia de Aduanas adoptar las medidas que estime conducentes para la aplicación de este artículo.
+
+En todo caso, el propietario del vehículo deberá estar domiciliado en la respectiva provincia y estará obligado a acreditar que éste posee patente al día de alguna de las Municipalidades de las provincias mencionadas y que está inscrito en el Registro de Vehículos Motorizados del correspondiente Conservador de Bienes Raíces.
 
 #### Artículo 9
 
