@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.117 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 393, superficie 240 m², rol Nº 63-38, comuna de Pichidegua, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Benjamín Hernando Arenas Miranda, ascendente a la cantidad de $51.922.577.
+
+Fiscal del Ministerio de Obras Públicas.
