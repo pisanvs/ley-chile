@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.425 de fecha 31 de octubre de 2003, se expropiaron los lotes de terreno Nº s. 5-A, 5-B y 10, superficie 569,80, 82,00 y 1.049,50 m² respectivamente, rol Nº 160-123 y 160-103, comuna de Petorca, para la obra "Ruta E-37-D, Sector Palquico - Las Palmas, Km. 14,04861 a Km. 26,13776", V Región y se acordó el valor de la indemnización con su propietario Sergio del Carmen Astudillo Hidalgo, ascendente a la cantidad de $3.424.063.-
+
+Fiscal del Ministerio de Obras Públicas.
