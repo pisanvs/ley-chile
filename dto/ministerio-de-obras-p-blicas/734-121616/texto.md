@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 734, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del DFL. MOP. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 28, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, Sector km. 83.100,00 al km.
+
+87.215,00, que figura a nombre de Lazo Hurtado Bernardo Fernando, rol de avalúo 152-43, comuna de Llay-Llay, superficie 2.772 m2. La Comisión de Peritos integrada por los señores Patricio Benjamín García Toso, José Rogelio Alfredo Reyes Azancot y Luis Pablo Padilla Vergara, fijó con fecha 28 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $ 8.535.600.- para el lote Nº 28.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Púbicas.
