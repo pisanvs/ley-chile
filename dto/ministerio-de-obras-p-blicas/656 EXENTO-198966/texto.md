@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 656 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 17, superficie 177 m2, Rol Nº 155-41, comuna de Cararrehue, para la obra ''Camino Catripulli-Cararrehue, Sector Km. 108,02 al Km 114,80'', y se acordó el valor de indemnización con su propietario José Reinaldo Jaramillo Pacheco, ascendente a la cantidad de $544.057.
+
+Fiscal del Ministerio de Obras Públicas.
