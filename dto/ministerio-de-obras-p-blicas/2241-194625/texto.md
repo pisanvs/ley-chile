@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.241, de fecha 28 de diciembre del 2001, se expropiaron los lotes de terreno Nº2 y 3, superficies 123.612,05 y 80.645,97 m2, Rol de Avalúo Nº 134-29, comuna de Paihuano, para la obra ''Camino Ruta 41-CH, Sector Juntas del Toro-Límite, Sector Km. 147.380 a Km. 226.780'', IV Región y se acordó el valor de indemnización con su propietario Comunidad Vallecillo y Río Seco, ascendente a la cantidad de $21.285.822.
+
+- Fiscal del Ministerio de Obras Públicas.
