@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.801, de 30 de septiembre de 1998, se expropiaron los lotes de terreno No. s. 36, 37, 38 y 39, superficies 8.298, 10.260, 832 y 1.687 m² respectivamente, rol de avalúo 523-7, comuna de Carahue, para la obra Camino Tirúa - Trovolhue - Carahue y se acordó precio de indemnización con su propietario Sucesión José Meñaco Paineo, ascendente a la cantidad de $4.909.639.-
+
+Fiscal del Ministerio de Obras Públicas.
