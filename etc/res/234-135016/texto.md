@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución No. 234 de 03 de Marzo de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad conforme con el artículo 7° del Decreto Supremo No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, de las siguientes autorizaciones: - Resolución No. 207, de 1983, de esta Subsecretaria, que autorizó a la Cooperativa de Pescadores Artesanales Tierra del Fuego Ltda., domiciliada en Puerto Porvenir, para desarrollar actividades pesqueras extractivas y de transformación.- - Resolución No. 572, de 1984, de esta Subsecretaria, que autorizó a la Sociedad Ingeniería Comercial e Industrial Incoin Ltda., domiciliada en Punta Arenas, para desarrollar actividades pesqueras de extracción y de secado de algas.
+
+Valparaíso, 03 de Marzo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
