@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 1.348, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 180, 182, 182-A, 182-B, 182-D, 182-E, 184, 184-A y 184-B, para la obra Camino Ruta J-25, sector Cruce Longitudinal-La Montaña Km. 0,22000 al Km. 25,00000, que figuran a nombre de Florencio Segundo Flores Martínez, rol de avalúo 68- 115, comuna de Teno, superficies 458, 163, 143, 260, 170, 705, 471, 208,80 y 180 m², respectivamente. La Comisión de Peritos, fijó con fecha 2 de junio de 1998, en la cantidad de $278.000, lote Nº 180; $163.000, lote Nº 182; $143.000, lote Nº 182-A; $348.000, lote Nº 182-B; $170.000, lote Nº 182-D; $705.000, lote Nº 182-
+
+E; $256.850, lote Nº 184; $255.800, lote Nº 184-A y $212.000, lote Nº 184-B, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
