@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.088 de 13 de agosto de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra: Construcción Puente Valdivia de Paine, Sector Accesos al Puente Valdivia de Paine, que figura a nombre de Soc. Agrícola y Ganadera Santibáñez, rol de avalúo en trámite, comuna de Paine, Región Metropolitana, superficie 38 m². La comisión de peritos fijó con fecha 30 de mayo de 2003 en la cantidad de $57.000.- lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
