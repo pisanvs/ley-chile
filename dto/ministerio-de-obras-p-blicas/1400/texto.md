@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.400, de 31 de agosto de 1998, se expropió el lote de terreno No. 2, superficie 519 m2 , rol de avalúo 511-16, comuna de Talagante, para la obra Camino Autopista Santiago - San Antonio, Sector Segmento 3, Calles de Servicio, Sector 6, lado derecho, y se acordó el valor de indemnización con su propietario Juan Oehninger Mourgues, ascendente a la cantidad de $ 2.921.429.
+
+- Fiscal del Ministerio de Obras Públicas.
