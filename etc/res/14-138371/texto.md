@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución No. 14, de 11 de Enero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad conforme con el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, de las siguientes autorizaciones: Resolución No. 253, de 1981, de esta Subsecretaría, que autorizó a don Augusto Barrientos Díaz, cédula de identidad No. 67.109, domiciliado en Curanué, Quellón, Chiloé, para desarrollar actividades pesqueras de cultivo.- Resolución No. 254, de 1981, de esta Subsecretaría, que autorizó a don José Jovino Barrientos Ojeda, cédula de identidad No. 6.403.720-K, domiciliado en Curanué, Quellón, Chiloé, para desarrollar actividades pesqueras de cultivo.
+
+Valparaíso, 11 de Enero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
