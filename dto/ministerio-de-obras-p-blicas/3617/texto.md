@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.617, de 30 de noviembre de 1999, se expropió el lote de terreno Nº 48-A, superficie 1.038 m², rol de avalúo 120-21, comuna de Maipo, para la obra Concesión Internacional Ruta 5, Tramo Santiago - Talca, Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Segundo Aránguiz Ulloa, ascendente a la cantidad de $6.656.614.-
+
+Fiscal del Ministerio de Obras Públicas.
