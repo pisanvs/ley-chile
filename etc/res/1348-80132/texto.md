@@ -1,0 +1,3 @@
+Por Resolución No. 1348 de 24 de Octubre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 1° de la Resolución Nº 1248, de 1991, de esta Subsecretaría, en el sentido de señalar que la autorización para realizar actividades pesqueras extractivas se refiere a la SOCIEDAD PESQUERA MAMIÑA S.A., R.U.T. No. 96.508.940-3, domiciliada en Santiago.
+
+Valparaíso, 24 de Octubre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
