@@ -18700,53 +18700,19 @@ que se constituyan como se indica a continuación:
 
 - Sociedades a que se refiere la letra a) del número 11 bis del artículo 83:
 
-a) Intermediarios de valores según la forma establecida en la Ley N° 18.045, ya
+a) Intermediarios de valores según la forma establecida en la Ley N° 18.045, ya sea en calidad de agentes de valores o bien como corredores de bolsa;
 
-sea en calidad de agentes de valores o bien como corredores de bolsa;
+b) Administradoras de fondos mutuos en la forma establecida en el D.L. N° 1.328 de 1976. Las carteras de los fondos podrán tener acciones siempre que se cumpla con lo siguiente: i) que el nombre del fondo mutuo contenga la palabra "acciones", de manera que el público pueda identificar plenamente esta característica; y, ii) que el porcentaje máximo a invertir en acciones sea, medido como promedio para cada trimestre calendario, un 50% del total del fondo. Esta disposición deberá estar contenida en el reglamento interno de operación de cada fondo.
 
-b) Administradoras de fondos mutuos en la forma establecida en el D.L. N° 1.328
+c) Empresas de "leasing", siempre que ellas se encuadren dentro de las condiciones que establezca esta Superintendencia;
 
-de 1976, siempre que en las carteras de los fondos administrados no existan
-
-acciones de sociedades anónimas y que en sus estatutos se establezca la
-
-prohibición de que en esas carteras existan títulos representativos de deuda
-
-emitidos por entidades vinculadas al banco;
-
-- Sociedades a que se refiere la letra b) del N° 11 bis del artículo 83:
-
-c) Empresas de "leasing", siempre que ellas se encuadren dentro de las
-
-condiciones que establezca esta Superintendencia;
-
-d) Empresas que actúen como operadoras de tarjetas de crédito de acuerdo con las
-
-normas que se establecen en el Capítulo III.J.1 del Compendio de Normas
-
-Financieras del Banco Central de Chile y según las normas que al respecto dicte
+d) Empresas que actúen como operadoras de tarjetas de crédito de acuerdo con las normas que se establecen en el Capítulo III.J.1 del Compendio de Normas Financieras del Banco Central de Chile y según las normas que al respecto dicte
 
 esta Superintendencia en virtud del D.L. N° 1.097, de 1975; y,
 
-e) Empresas de asesorías financieras, cuando su giro sea asesorar a sus clientes
+e) Empresas de asesorías financieras, cuando su giro sea asesorar a sus clientes en: i) la búsqueda de fuentes alternativas de financiamiento; ii) la reestructuración de sus pasivos; iii) las negociaciones para adquirir, vender o fusionar empresas; iv) la emisión y colocación de bonos y debentures y v) la colocación de fondos en el mercado de capitales.
 
-en: i) la búsqueda de fuentes alternativas de financiamiento; ii) la
-
-reestructuración de sus pasivos; iii) las negociaciones para adquirir, vender o
-
-fusionar empresas; iv) la emisión y colocación de bonos y debentures y v) la
-
-colocación de fondos en el mercado de capitales.
-
-Cada sociedad filial tendrá como objeto exclusivo uno de los giros señalados en
-
-los literales anteriores, salvo en el caso de las sociedades señaladas en la
-
-letra a), las que podrán complementar el giro principal con la actividad de
-
-asesorías financieras a que se refiere la letra e), siempre que lo admitan las
-
-normas pertinentes.
+Cada sociedad filial tendrá como objeto exclusivo uno de los giros señalados en los literales anteriores, salvo en el caso de las sociedades señaladas en la letra a), las que podrán complementar el giro principal con la actividad de asesorías financieras a que se refiere la letra e), siempre que lo admitan las normas pertinentes.
 
 ### 2. Participación en sociedades filiales
 
@@ -19070,113 +19036,35 @@ empresa filial y la empresa matriz.
 
 ### 12. Participación de la sociedad filial en otras sociedades
 
-Conforme a lo dispuesto en la Ley General de Bancos, las sociedades filiales no
-
-podrán adquirir acciones ni tomar participación en otras sociedades, salvo que
-
-la inversión sea imprescindible para el desarrollo de su giro y siempre que no
-
-exceda en momento alguno del 5% del capital pagado de la sociedad en que se
+Conforme a lo dispuesto en la Ley General de Bancos, las sociedades filiales no podrán adquirir acciones ni tomar participación en otras sociedades, salvo que la inversión sea imprescindible para el desarrollo de su giro y siempre que no exceda en momento alguno del 5% del capital pagado de la sociedad en que se
 
 efectúe dicha inversión.
 
-Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un
+Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un banco efectúe en alguna sociedad debe contar con la autorización previa de esta Superintendencia. En la solicitud que para este objeto se presente, deberá informarse de las razones por las cuales la inversión es imprescindible para el desarrollo del giro.
 
-banco efectúe en alguna sociedad debe contar con la autorización previa de esta
-
-Superintendencia. En la solicitud que para este objeto se presente, deberá
-
-informarse de las razones por las cuales la inversión es imprescindible para el
-
-desarrollo del giro.
-
-En todo caso, las sociedades que se constituyan como corredores de bolsa pueden
-
-mantener, dentro del límite antes señalado, acciones de la bolsa de valores en
-
-la cual operen.
+En todo caso, las sociedades que se constituyan como corredores de bolsa pueden mantener, dentro del límite antes señalado, acciones de la bolsa de valores en la cual operen. Asimismo, una sociedad filial podrá tener participación en la propiedad de otra sociedad filial del mismo banco, siempre que el porcentaje de participación sobre el capital pagado y las utilidades, no exceda el 1%.
 
 ### 13. Instrucciones contables
 
-Las inversiones en sociedades filiales se contabilizarán de acuerdo con las
-
-siguientes disposiciones:
+Las inversiones en sociedades filiales se contabilizarán de acuerdo con las siguientes disposiciones:
 
 13.1. Valorización de las inversiones.
 
-Las acciones o derechos en las sociedades de que trata este capítulo, se
+Las acciones o derechos en las sociedades de que trata este capítulo, se registrarán en el activo a su valor de costo más corrección monetaria. La participación sobre las utilidades de las empresas filiales se reconocerá en el momento de percibirse los dividendos o beneficios que éstas repartan.
 
-registrarán en el activo a su valor de costo más corrección monetaria. La
-
-participación sobre las utilidades de las empresas filiales se reconocerá en el
-
-momento de percibirse los dividendos o beneficios que éstas repartan.
+En el evento de adquirirse acciones o derechos en sociedades ya constituidas, por un valor mayor que el valor patrimonial proporcional a que se refiere el numeral 13.2 de este capítulo, se llevará a la respectiva cuenta de inversiones solamente el monto correspondiente al valor patrimonial proporcional determinado a la fecha de compra. La diferencia con respecto al costo se registrará en una cuenta del activo transitorio y se traspasará a resultados en el plazo máximo de 24 meses, de la forma dispuesta en la letra e) del numeral 13.4 de este capítulo.
 
 13.2. Provisiones.
 
-En todo momento los bancos deberán mantener provisiones por cada filial que
+En todo momento los bancos deberán mantener provisiones por cada filial que tuvieren, para cubrir las diferencias que existieren entre el valor registrado en el activo y el valor patrimonial proporcional, cuando éste último sea menor.
 
-tuvieren, para cubrir las diferencias que existieren entre el valor registrado
+El mencionado valor patrimonial proporcional corresponderá al monto que se obtiene de aplicar el porcentaje de participación que tiene el banco en la correspondiente filial, al total del patrimonio que muestren los estados financieros de esta última; esto es el capital, reservas y resultado acumulado.Este valor se utilizará exclusivamente para determinar las eventuales pérdidas con el fin de constituir las provisiones que correspondan y no debe ser objeto de ajustes adicionales.
 
-en el activo y el valor patrimonial proporcional, cuando éste último sea menor.
-
-El mencionado valor patrimonial proporcional corresponderá al monto que se
-
-obtiene de aplicar el porcentaje de participación que tiene el banco en la
-
-correspondiente filial, al total del patrimonio que muestren los estados
-
-financieros de esta última; esto es el capital, reservas y resultado
-
-acumulado.Este valor se utilizará exclusivamente para determinar las eventuales
-
-pérdidas con el fin de constituir las provisiones que correspondan y no debe ser
-
-objeto de ajustes adicionales.
-
-La comparación entre el valor contable de la inversión y el referido valor
-
-patrimonial proporcional deberá efectuarse mensualmente y podrá basarse en los
-
-resultados obtenidos por la filial hasta el mes inmediatamente anterior. Sin
-
-embargo, al tratarse del cierre del ejercicio anual y si la sociedad filial
-
-tuviere pérdidas, el valor patrimonial proporcional deberá considerar los
-
-resultados hasta el 31 de diciembre. En este caso, el banco matriz deberá
-
-hacer,antes de la entrega de los formularios MB1 y MR1 a esta Superintendencia,
-
-los ajustes necesarios para la presentación de sus propios estados financieros.
-
-En el evento de adquirirse acciones o derechos en sociedades ya constituidas a
-
-un valor mayor que el valor patrimonial proporcional determinado a la fecha de
-
-compra, deberán constituirse las correspondientes provisiones con cargo a los
-
-resultados al momento de la adquisición. Sin embargo, en casos justificados y
-
-sobre la base del análisis de la evaluación técnica a que se refiere el último
-
-### Párrafo d — el número 2 de este capítulo, esta Superintendencia podrá autorizar
-
-diferir el correspondiente cargo a los resultados, en la forma que se determine
-
-como producto de dicho análisis.
+La comparación entre el valor contable de la inversión y el referido valor patrimonial proporcional deberá efectuarse mensualmente y podrá basarse en los resultados obtenidos por la filial hasta el mes inmediatamente anterior. Sin embargo, al tratarse del cierre del ejercicio anual y si la sociedad filial tuviere pérdidas, el valor patrimonial proporcional deberá considerar los resultados hasta el 31 de diciembre. En este caso, el banco matriz deberá hacer,antes de la entrega de los formularios MB1 y MR1 a esta Superintendencia, los ajustes necesarios para la presentación de sus propios estados financieros.
 
 13.3. Subcuentas para el registro por cada filial.
 
-Para cada una de las cuentas que se mencionan en el numeral siguiente, se
-
-abrirán subcuentas, cuando corresponda, con las siguientes
-
-denominaciones;"Agencia de valores", "Administradora de Fondos Mutuos", "Empresa
-
-leasing","Administradora de tarjetas de crédito", o "Asesorías financieras". Se
-
-entenderá que las imputaciones a las cuentas que se indican están referidas a
+Para cada una de las cuentas que se mencionan en el numeral siguiente, se abrirán subcuentas, cuando corresponda, con las siguientes denominaciones;"Agencia de valores", "Administradora de Fondos Mutuos", "Empresa leasing","Administradora de tarjetas de crédito", o "Asesorías financieras". Se entenderá que las imputaciones a las cuentas que se indican están referidas a
 
 las subcuentas correspondientes.
 
@@ -19184,33 +19072,31 @@ las subcuentas correspondientes.
 
 a) Constitución o compra de acciones o derechos en una sociedad filial.
 
-Debe: "Inversiones en sociedades", de la partida 2320 del formulario MB1.
+Debe: - "Inversiones en sociedades", de la partida 2320 del formulario MB1, por el costo o el valor patrimonial proporcional, el que sea menor.
 
-Haber: "Caja", o la cuenta que corresponda.
+- "Mayor valor pagado en inversiones", de la partida 2120, por la diferencia entre el valor patrimonial proporcional y el monto efectivamente pagado, cuando este último sea mayor.
+
+Haber: - "Caja", o la cuenta que corresponda.
+
+Al tratarse de una nueva sociedad, el registro se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
+
+Cuando se adquieran acciones o derechos en sociedades ya constituidas, por un menor valor que el valor patrimonial proporcional, la diferencia entre ambos no será reconocida contablemente.
 
 b) Provisiones sobre inversiones en sociedades.
 
-Debe: "Provisiones sobre inversiones en sociedades", de la partida 6135 del
+Debe: "Provisiones sobre inversiones en sociedades", de la partida 6135 del formulario MR1, "Provisiones sobre activo fijo financiero".
 
-formulario MR1, "Provisiones sobre activo fijo financiero".
-
-Haber: "Provisiones sobre inversiones en sociedades", de la partida 4240 del
-
-formulario MB1, "Provisiones sobre activo fijo financiero".
+Haber: "Provisiones sobre inversiones en sociedades", de la partida 4240 del formulario MB1, "Provisiones sobre activo fijo financiero".
 
 c) Dividendos o repartos de utilidades de la filial.
 
 Debe: "Caja" o la cuenta que corresponda, por el importe recibido.
 
-Haber: "Dividendos obtenidos de inversiones en sociedades", que se demostrará en
-
-la partida 8315 del formulario MR1.
+Haber: "Dividendos obtenidos de inversiones en sociedades", que se demostrará en la partida 8315 del formulario MR1.
 
 d) Liberaciones de provisiones.
 
-Debe: "Provisiones sobre inversiones en sociedades", de la partida 4240 del
-
-formulario MB1.
+Debe: "Provisiones sobre inversiones en sociedades", de la partida 4240 del formulario MB1.
 
 Haber: - "Provisiones sobre inversiones en sociedades", de la partida 6135 antes
 
@@ -19223,6 +19109,14 @@ que hubiere entre el total de la disminución de las provisiones y el cargo
 efectuado para incrementarla en el ejercicio. Esta cuenta se demuestra en la
 
 partida 8110 del formulario MR1.
+
+e) Amortización del mayor valor pagado por acciones o derechos en sociedades.
+
+Debe: "Amortización mayor valor pagado en inversiones en sociedades", que se abrirá para ese efecto en la partida 6315 del formulario MR1.
+
+Haber: "Mayor valor pagado en inversiones en sociedades", de la partida 2120 del formulario MB1."
+
+Se traspasará mensualmente a resultados el valor que resulte de dividir el respectivo saldo no amortizado, de la cuenta "Mayor valor pagado en inversiones en sociedades", por la cantidad de meses que resten para cumplirse el plazo de amortización. No obstante, el monto que se lleve a resultados en un ejercicio no podrá ser inferior a la utilidad que se obtuviere, en el mismo ejercicio, por la percepción de dividendos o distribución de utilidades de la correspondiente sociedad filial.
 
 CAPITULO 11-3 (Bancos y Financieras)
 
@@ -33548,63 +33442,19 @@ que le autorice, el cual no excederá de doce meses.
 
 ### 5. Operaciones de cambio que podrán realizar las personas autorizadas
 
-Las personas autorizadas para estos fines por el Banco Central de Chile podrán
+Las personas autorizadas para estos fines por el Banco Central de Chile podrán efectuar las siguientes operaciones de cambio:
 
-efectuar las siguientes operaciones de cambio:
+a) Comprar y vender contratos a futuro de cobertura de tasa de interés, en dólares de los Estados Unidos de América, en Bolsas Oficiales Extranjeras, por intermedio de un corredor en el exterior autorizado para operar en dichas Bolsas, de conformidad con lo indidicado en el Capítulo VI ya señalado.
 
-a) Comprar y vender contratos a futuro de cobertura de tasa de interés, en
+b) Comprar dólares estadounidenses para remesar a los corredores en el exterior por los conceptos señalados en el N° 5 del Capítulo VI ya mencionado.
 
-dólares de los Estados Unidos de América, en Bolsas Oficiales Extranjeras, por
+Las personas autorizadas que realicen las operaciones de que se trata, están obligadas a retornar al país y a liquidar en el mercado bancario las divisas que provengan de transacciones en Bolsas Oficiales Extranjeras.
 
-intermedio de un corredor en el exterior autorizado para operar en dichas
+Los retornos correspondientes a utilidades y a otros ingresas derivados de las referidas operaciones, deberán efectuarse a lo menos cada vez que se produzca un exceso de fondos en la cuenta de la respectiva persona con su corredor que supere el 25% del margen de garantía exigido.
 
-Bolsas, de conformidad con lo indidicado en el Capítulo VI ya señalado.
+Las devoluciones de márgenes de garantía deberán retornarse dentro del plazo máximo de veinte días hábiles bancarios contados desde la fecha de vencimiento de los contratos suscritos y deberán liquidarse dentro de los diez días siguientes a la fecha en que sean puestos a disposición de la persona autorizada que realizó las correspondientes operaciones a futuro.
 
-b) Comprar dólares estadounidenses para remesar a los corredores en el exterior
-
-por concepto de constitución de garantías por los contratos suscritos; de
-
-pérdidas derivadas de fluctuaciones de precio de los contratos transados a
-
-futuro; comisiones, gastos de correo y de comunicaciones en general.
-
-Las personas autorizadas que realicen estas operaciones están obligadas a
-
-retornar al país y a liquidar en el mercado bancario las divisas que provengan
-
-de devolución de garantías constituidas por los contratos suscritos, utilidades
-
-derivadas de fluctuaciones de precio de los contratas transados a futuro y
-
-cualesquiera otros ingresas que provengan, directa o indirectamente, de estas
-
-transacciones en Bolsas Oficiales Extranjeras.
-
-Los retornos correspondientes a utilidades y a otros ingresas derivados de las
-
-referidas operaciones, deberán efectuarse a lo menos cada vez que se produzca un
-
-exceso de fondos en la cuenta de la respectiva persona con su corredor que
-
-supere el 25% del margen de garantía exigido.
-
-Las devoluciones de márgenes de garantía deberán retornarse dentro del plazo
-
-máximo de veinte días hábiles bancarios contados desde la fecha de vencimiento
-
-de los contratos suscritos y deberán liquidarse dentro de los diez días
-
-siguientes a la fecha en que sean puestos a disposición de la persona autorizada
-
-que realizó las correspondientes operaciones a futuro.
-
-En todo caso, se eximirá del cumplimiento de la obligación de retornar y
-
-liquidar las divisas por los conceptos antes señalados cuando éstas sean
-
-destinadas a la constitución de márgenes de garantía exigidos por la suscripción
-
-de nuevos contratos a futuro.
+En todo caso, se eximirá del cumplimiento de la obligación de retornar y liquidar las divisas por los conceptos antes señalados cuando éstas sean destinadas a la constitución de márgenes de garantía exigidos por la suscripción de nuevos contratos a futuro.
 
 6. Obligaciones de las personas autorizadas para realizar estas operaciones a
 
