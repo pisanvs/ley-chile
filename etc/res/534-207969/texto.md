@@ -1,0 +1,3 @@
+Por resolución Nº 534, de 21 de febrero de 2003, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 416 de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de Jurel I y II Región, Primera Etapa 2003", en el sentido de eliminar la embarcación artesanal "Loreto IV", Nº RPA 29172, de la nómina de naves autorizadas para participar en la citada pesca de investigación.
+
+Valparaíso, 21 de febrero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
