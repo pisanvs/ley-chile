@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.463. de 31 de mayo del 2000, se expropió el lote terreno Nº 21-A, superficie 1.685 m², rol de avalúo 202-02, comuna de Lumaco, para la obra Camino Lumaco - Capitán Pastene, Sector Lumaco - Capitán Pastene, Km. 0.000 a Km. 10.525,168 y se acordó precio de la indemnización con su propietaria Erika Caballeri Pincheira en la cantidad de $506.640.
+
+Fiscal del Ministerio de Obras Públicas.
