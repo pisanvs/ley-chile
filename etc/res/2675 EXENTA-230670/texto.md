@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.675, de 20 de septiembre de 2004 de esta Subsecretaría, recházase la solicitud de modificación del proyecto técnico y cronograma de actividades Nº 99104029, presentada por SERGIO RAUL MIRANDA VELASQUEZ, para el centro de cultivo ubicado en estero Chope, al sur de Punta Chéchil, Isla Puluqui, X Región.
+
+Valparaíso, 20 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
