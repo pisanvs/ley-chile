@@ -1,0 +1,3 @@
+Por resolución exenta Nº 616, de 2 de marzo de 2005 de esta Subsecretaría, autorízase a I PING INDUSTRIAL Y COMPAÑÍA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Las Totoritas s/n, San Vicente de Quilaco, comuna de Hualqui, VIII Región, donde podrá elaborar en las líneas de proceso de Alga Seca, Deshidratado y en Ramas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 2 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
