@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 445 de fecha 26 de marzo de 2004, se expropió el lote de terreno Nº 17, superficie 1.043 m², rol de avalúo Nº 418-49, comuna de Loncoche, para la obra "Reposición Construcción y Habilitación de Camino para Vialidad Complementaria Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno-Puerto Montt, Camino Collimallin", IX Región y se acordó el valor de la indemnización con su propietario Franklin Gustavo Navarro Silva, ascendente a la cantidad de $903.675.
+
+Fiscal del Ministerio de Obras Públicas.
