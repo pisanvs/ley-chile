@@ -1,0 +1,11 @@
+MODIFICA DECRETO NUMERO 254 EXENTO, DE 1995 Núm. 57 exento.- Santiago, 1 de Abril de 1996.- Visto: Lo informado por el Departamento de Pesquerías de esta Subsecretaría de Pesca mediante Memorándum Técnico (R. Pesq.) N° 6, de 22 de febrero de 1996; lo dispuesto en el artículo 32 N° 08 de la Constitución Política del Estado; el Oficio N° 265 de la Subsecretaría de Pesca al Consejo Zonal de Pesca de la III y IV Regiones y su respuesta mediante oficio N° 09, ambos de 1996; el Oficio N° 264, de la Subsecretaría de Pesca al Consejo Zonal de Pesca de la V, VI, VII VIII y IX Regiones e Islas Oceánicas y su respuesta mediante Oficio N° 09, ambos de 1996; el Oficio N° 263, de la Subsecretaría de Pesca al Consejo Zonal de Pesca de la X y XI Regiones y su respuesta mediante Oficio N° 017, ambos de 1996; la Carta del Consejo Nacional de Pesca N° 06, de fecha 11 de marzo de 1996; los D.S. N° 354, de 1993 y N° 387, ambos de 1995; el Decreto Exento N° 254, de 1995, todos del Ministerio de Economía, Fomento y Reconstrucción; los D.S. N° 654 y N° 2.012, ambos de 1994, del Ministerio del Interior; el D.F.L. N° 5, de 1983; la Ley N° 18.892 y sus modificaciones cuyo texto refundido fue fijado por el D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción; la Resolución N° 55 de 1992, de la Contraloría General de la República y sus modificaciones.
+
+Decreto:
+
+#### Artículo único
+
+Modifícase la cuota global anual de captura de la especie Merluza común (Merluccius gayi), fijada para 1996, en 80.000 toneladas, por el Decreto Exento N° 254, de 1995, del Ministerio de Economía, Fomento y Reconstrucción, en el sentido de indicar que la cuota antes señalada se aumentará en 4.000 toneladas, para ser extraídas por la flota artesanal de conformidad con lo establecido en el N° 2 del artículo 1° del Decreto Exento antes señalado.
+
+Anótese, comuníquese y publíquese.- Por orden del Sr. Presidente de la República, Alvaro García Hurtado, Ministro de Economía, Fomento y Reconstrucción.
+
+Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a usted.- Patricio Bernal Ponce, Subsecretario de Pesca.
