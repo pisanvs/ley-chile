@@ -100,11 +100,13 @@ Quedan sometidos a la jurisdicción chilena los crímenes y simples delitos perp
 
 6°) Los cometidos por chilenos contra chilenos si el culpable regresa a Chile sin haber sido juzgado por la autoridad del país en que delinquió;
 
-7°) La piratería; y
+7°) La piratería;
 
-8°) Los comprendidos en los tratados celebrados con otras potencias.
+8°) Los comprendidos en los tratados celebrados con otras potencias;
 
-9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República.
+9°) Los sancionados por la ley 6.026 y las que la han modificado, cometidos por chilenos o por extranjeros al servicio de la República, y
+
+10°) Los sancionados en los artículos 366 quinquies, 367 y 367 bis Nº 1, del Código Penal, cuando pusieren en peligro o lesionaren la indemnidad o la libertad sexual de algún chileno o fueren cometidos por un chileno o por una persona que tuviere residencia habitual en Chile; y el contemplado en el artículo 374 bis, inciso primero, del mismo cuerpo legal, cuando el material pornográfico objeto de la conducta hubiere sido elaborado utilizando chilenos menores de dieciocho años.
 
 #### Artículo 7°
 
