@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 363 de fecha 27 de febrero del 2004, se expropió el lote de terreno Nº 29, superficie 605 m2, Rol Nº 327-2, comuna de Laja, VIII Región para la obra "Camino Ruta Q - 34, Candelaria - La Laja Sector Millantú - La Laja; Km. 20,00000 al 35,88380" y se acordó el valor de indemnización con su propietario Mario Chávez Urbiles, ascendente a la cantidad de $396.197.
+
+- Fiscal del Ministerio de Obras Públicas.
