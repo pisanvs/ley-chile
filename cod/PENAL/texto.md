@@ -3322,6 +3322,8 @@ Se comete violación yaciendo con la mujer en alguno de los casos siguientes:
 
 3.° Cuando sea menor de doce años cumplidos aun cuando no concurra ninguna de las circunstancias expresadas en los dos números anteriores.
 
+En el caso del número 3º del inciso anterior, la pena será presidio mayor en su grado medio a máximo.
+
 #### Artículo 362
 
 <!-- parte:9672631 -->
@@ -3350,11 +3352,13 @@ El que se hiciere reo del delito de sodomía sufrirá la pena de presidio menor 
 
 Se impondrá la pena de presidio menor en su grado máximo a presidio mayor en su grado medio al que cometiere el delito concurriendo algunas de las siguientes circunstancias:
 
-1°.- Cuando se use de fuerza e intimidación sobre la víctima;
+1°.- Cuando se use de fuerza e intimidación sobre la víctima, y
 
-2°.- Cuando se halle la víctima privada de razón o de sentido por cualquier causa, y
+2°.- Cuando se halle la víctima privada de razón o de sentido por cualquier causa.
 
-3°.- Ser el ofendido menor de catorce años cumplidos, aun cuando no concurra ninguna de las circunstancias expresadas en los dos números anteriores.
+3°.- Suprimido.
+
+Se impondrá la pena de presidio mayor en su grado medio a máximo si el ofendido fuere menor de catorce años cumplidos, aun cuando no concurra ninguna de las circunstancias expresadas en los dos números del inciso anterior.
 
 #### Artículo 366
 
@@ -3411,6 +3415,12 @@ Los maestros o encargados en cualquier manera de la educación o dirección de l
 <!-- parte:9672643 -->
 
 Los comprendidos en el artículo precedente y cualesquiera otros reos de corrupción de menores con interés de terceros, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
+
+#### Artículo 372 bis
+
+<!-- parte:9722102 -->
+
+El que con motivo u ocasión de violación o de sodomía, causare, además, la muerte del ofendido será castigado con la pena de presidio perpetuo a muerte
 
 ### VIII. De los ultrajes públicos a las buenas costumbres
 
@@ -4291,6 +4301,8 @@ En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 de
 6.° A los que con datos falsos u ocultando antecedentes que les son conocidos, celebraren dolosamente contratos aleatorios basados en dichos datos o antecedentes.
 
 7.° A los que en el juego se valieren de fraude para asegurar la suerte.
+
+8.° A los que fraudulentamente obtuvieren del Fisco, de las municipalidades, de las Cajas de Previsión y de las instituciones centralizadas o descentralizadas del Estado, prestaciones improcedentes, tales como remuneraciones, bonificaciones, subsidios, pensiones, jubilaciones, asignaciones, devoluciones o imputaciones indebidas.
 
 #### Artículo 471
 
