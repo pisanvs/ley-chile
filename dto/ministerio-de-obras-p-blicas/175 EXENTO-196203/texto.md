@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 175 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 24, superficie 235 m2, Rol de Avalúo Nº 281-27, comuna de Pelluhue, para la obra "Camino Chovellen-Cobquecura, Sector: Chevollen-Limite Regional, Tramo Km. 18,260.00 a Km. 35,158.60" y se acordó el valor de indemnización con su propietario Jacob González Morales, ascendente a la cantidad de $795.667.
+
+- Fiscal del Ministerio de Obras Públicas.
