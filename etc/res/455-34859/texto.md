@@ -1,0 +1,3 @@
+Por Resolución N° 455 de 27 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones N° 177 y N° 1205, ambas de 1991, de esta Subsecretaría, que autorizaron a don VICTOR MANUEL ROMAN MERINO, R.U.T. N° 5.966.770-K, para operar la nave "Vicmar I", por haberse configurado la causal prevista en el artículo 143, letra b) de la Ley N° 18.892.
+
+Valparaíso, 27 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
