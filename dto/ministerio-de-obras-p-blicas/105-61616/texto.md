@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 105, de 31 de enero de 1997, se expropiaron los lotes de terreno Nºs. 197-A, 198, 212 y 214, superficies 8.406 m², 6.514 m², 796 m² y 81 m², respectivamente, roles de avalúo 611-60, 610-9 y 610-24, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Lidia A. Vidal Vidal, Flor María Vera Vera y Teresa Uribe Vera, ascendente a las cantidades de $2.341.839.-; $2.260.488.-; $155.928.-, y $88.037.-
+
+Fiscal del Ministerio de Obras Públicas.
