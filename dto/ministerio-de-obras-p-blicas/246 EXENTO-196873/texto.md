@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 246 de fecha 18 de marzo del 2002, se expropió el lote de terreno Nº 77, superficie 40 m², Rol de avaluó Nº 502-476, comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00", VII Región y se acordó el valor de indemnización con su propietario Dima Arturo Vallejos Lara, ascendente a la cantidad de $242.592.-
+
+Fiscal del Ministerio de Obras Públicas.
