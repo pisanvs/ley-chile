@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.881, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº36, superficie 166,83 m2, rol de avalúo Nº1252-98, comuna de Parral, VII Región, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128-Cuatro Esquinas, Tramo Km. 0,000 al 15,800" y se acordó el valor de indemnización con su propietario don Orlando Antonio Cisterna Aravena, ascendente a la cantidad de $518.974.
+
+- Fiscal del Ministerio de Obras Públicas.
