@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.706, de 28 de agosto de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 3 y 4, para la obra Camino Las Hortensias-Colico, sector Puente Allipen Km. 0.000 a Km.
+
+0.350, que figuran a nombre de Marcelina Nanco Quintun, Rol de avalúo 336-72, comuna de Cunco, superficies 1.470.70 m2 y 400 m2. La comisión de peritos integrada por los señores Roberto Gesche Robert, Fernando Luis Contreras Ennings y Patricio Casagrande Ulloa, fijó con fecha 8 de mayo de 1999, los valores provisionales de las indemnizaciones en las cantidades de $441.210.- para el lote 3 y $120.000.- para el lote 4. La indemnización se pagará al contado.- La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
