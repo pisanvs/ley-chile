@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.805, de 30 de septiembre de 1998, se expropiaron los lotes de terreno No. s 2-A y 2-B, superficies 90 y 291 m², roles de avalúo 2899-22 y 2899-18, comunas de Pudahuel y Renca, respectivamente, para la obra Habilitación Segunda Calzada Avenida Américo Vespucio, sector Carretera Panamericana Norte-Ruta 72, y se acordó precio de indemnización con su propietario Alberto Guzmán Riesco, ascendente a la cantidad total de $22.694.265.-
+
+Fiscal del Ministerio de Obras Públicas.
