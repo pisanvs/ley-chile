@@ -1,0 +1,3 @@
+Por decreto MOP Nº277 de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº35, superficie 3.393 m², Rol Nº1418-226, comuna de Rancagua, VI Región para la obra "Camino Ruta H-188, sector Cruceros - Chancón, Tramo 1, Km. 0,00000 al Km. 7,85900" y se acordó el valor de indemnización con su propietario Oscar Orlando Cuevas Contreras, ascendente a la cantidad de $5.002.408.-
+
+Fiscal del Ministerio de Obras Públicas.
