@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 391, de 31 de Mayo de 1996, se ordenó la consignación judicial de la indemnización provisional del lote de terreno Nº 3, ascendiente a $ 680.400.- destinado a la ejecución de la obra Embalse Santa Juana, Sector la Laja, Etapa III, expropiado por Decreto M.O.P. Nº 663, de 31 de Octubre de 1995, que figura a nombre de Petronila Varas Huanchicay, rol de avalúo 846-9, superficie 230 m2, comuna de Vallenar, III Región.
+
+Fiscal del Ministerio de Obras Públicas.
