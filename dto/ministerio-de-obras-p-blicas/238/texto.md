@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 238, de 25 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 183 y 184, superficies 10.868 m2. y 5.735 m2., roles de avalúo 1093-551 y 1093-553, comuna de Quillón, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Lorenzo Silva Parada, y Francisco Javier Cartes Saavedra, ascendente a las cantidades de $8.879.280.- y $1.350.150.-
+
+Fiscal del Ministerio de Obras Públicas.
