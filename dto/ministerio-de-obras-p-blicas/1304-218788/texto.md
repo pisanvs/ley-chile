@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.304, de 31 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 118, 119 y 123, para la ejecución de la obra "Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, Tramo II, Km.
+
+5,57900 a Km. 10,19480", que figuran a nombre de Bustos Mora Armando, rol de avalúo 126-4, comuna de Ranquil, VIII Región, superficies 3.647, 2.432 y 1.220 m2. La comisión de peritos con fecha 20 de julio de 2001, fijó el monto de la indemnización provisional en la cantidad de $3.331.600, lote 118; $1.981.600, lote 119 y $1.220.000, lote 123. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
