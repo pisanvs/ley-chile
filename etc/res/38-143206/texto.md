@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD AGENCIA DE PRODUCTOS INTERNACIONALES LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 38, de 13 de Enero de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Agencia de Productos Internacionales Limitada, domiciliada en Santiago, para instalar y operar en Bajo Molle Sur s/n, Iquique, I Región, una planta elaboradora de recursos hidrobiológicos en las líneas de conserva y congelado, en la que podrá utilizar como materia prima los recursos Anchoa, bonito, caballa, cojinova del Norte, congrio colorado, congrio negro, jurel, lenguado ojos grandes, mero, raya, sardina española, almeja o taca, caracol locate, cholga, pulpo, jaiba y piure.
+
+Valparaíso, 13 de Enero de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
