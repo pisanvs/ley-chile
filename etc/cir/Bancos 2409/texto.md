@@ -4528,9 +4528,7 @@ N° 3055 "Depósitos y captaciones".
 
 Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", en la respectiva moneda extranjera. La permanencia de los importes registrados en la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los contabilizados en la cuenta "Canje de otras plazas", será de dos días hábiles bancarios.
 
-3.2.- Descuento de instrumentos a que se refiere la letra C) del Capítulo XXV del Titulo I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Los bancos podrán deducir de sus obligaciones a plazo afectas a encaje los saldos provenientes del descuento de los instrumentos a que se refiere la letra C) del Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales, registrados en la cuenta "Pagarés descontados terceros países ALADI" de las partidas 1135 ó 1230, hasta un máximo equivalente al 20% de la suma de los depósitos, captaciones y obligaciones a plazo afectos a encaje.
-
-3.3.- Inversiones financieras en el exterior que se refiere el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
+3.2.- Inversiones financieras en el exterior que se refiere el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
 Los bancos podrán también deducir de sus obligaciones afectas a encaje los saldos que mantengan por inversiones financieras en el exterior a que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras, demostradas en la partida 1730, hasta un máximo equivalente al 25% de la suma de los depósitos a plazo en moneda extranjera.
 
@@ -9904,7 +9902,7 @@ No obstante lo señalado en los numerales precedentes, las instituciones financi
 
 a) Las adquisiciones de efectos de comercio en moneda extranjera, correspondientes a operaciones de exportación y aquellos que sean adquiridos con recursos provenientes del exterior conocidos como "acuerdo 1196", deberán ser registrados en la forma prevista en los Capítulos 14-3 y 13-13, respectivamente, de esta Recopilación Actualizada de Normas.
 
-b) Las adquisiciones o descuentos de documentos en moneda extranjera correspondientes a créditos otorgados a personas residentes en el exterior para financiar operaciones de comercio exterior con Chile, como asimismo los documentos en moneda extranjera emitidos sobre la base de otros documentos reembolsables con cargo a Convenios de Pagos y Créditos Recíprocos entre Bancos Centrales de países miembros de ALADI, tratados en el Capítulo 13-27 de esta Recopilación, deberán registrarse de la forma que se establece en dicho Capítulo.
+b) Las adquisiciones o descuentos de documentos en moneda extranjera correspondientes a créditos otorgados a personas residentes en el exterior para financiar operaciones de comercio exterior con Chile, tratados en el Capítulo 13-27 de esta Recopilación, deberán registrarse de la forma que se establece en dicho Capítulo.
 
 c) Las operaciones con mutuos hipotecarios endosables deben registrarse en la forma prevista en el Capítulo 8-4 de esta Recopilación de Normas.
 
@@ -24036,7 +24034,7 @@ MATERIA:
 
 FINANCIAMIENTOS A BANCOS Y A OTRAS PERSONAS DEL EXTERIOR.
 
-### I. CREDITOS A PERSONAS RESIDENTES EN EL EXTERIOR PARA FINANCIAR OPERACIONES DE COMERCIO EXTERIOR CON CHILE
+I.ELIMINADO.
 
 ### 1. Créditos para financiar Importaciones procedentes de Chile
 
@@ -24093,54 +24091,6 @@ El importe registrado en la cuenta "Beneficios por devengar de documentos acepta
 5. limites.
 
 Los créditos señalados precedentemente, otorgados para el financiamiento de importaciones hacia Chile, estarán afectos al límite de endeudamiento individual del 5% para operaciones sin garantía y al 25% en los casos en que exista garantía válida para estos efectos, de conformidad con lo dispuesto en el artículo 84 de la Ley General de Bancos y en el Capítulo 12-3 de esta Recopilación Actualizada de Normas, en tanto que aquellos cuya finalidad sea financiar el pago de exportaciones chilenas, podrán alcanzar los márgenes de 10% y 30% previstos para esos créditos en las disposiciones antes señaladas.
-
-II. DESCUENTO DE DOCUMENTOS EMITIDOS SOBRE LA BASE DE OTROS INSTRUMENTOS REMBOLSABLES CON CARGO A CONVENIOS DE PAGOS Y CREDITOS RECIPROCOS ENTRE BANCOS CENTRALES DE PAISES MIEMBROS DE ALADI
-
-1. Facultad de los bancos para descontar pagarés originados en operaciones de comercio exterior entre países integrantes de ALADI.
-
-Los bancos están facultados para descontar pagarés emitidos por bancos del exterior autorizados para operar por intermedio del Convenio de Pagos y Créditos Recíproco de que trata el Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, o bien, por exportadores extranjeros con el aval de los referidos bancos. Para emitir los mencionados pagarés, los bancos del exterior o los exportadores extranjeros, según sea el caso, deben ser tenedores de instrumentos por montos y vencimientos idénticos a los1 que emitan, originados en operaciones de comercio exterior entre países integrantes de ALADI, rembolsables por intermedio del respectivo Convenio de Pagos y Créditos Recíproco.
-
-### 2. Requisitos que deben reunir los documentos para ser descontados
-
-Los pagarés susceptibles de ser descontados por los bancos situados en Chile, deben reunir los requisitos que a continuación se indican:
-
-a) Se denominarán "Pagaré derivado de operaciones comerciales emitidos o avalados por instituciones autorizadas", en adelante, "el pagaré".
-
-b) El pagaré sólo podrá ser suscrito por bancos del exterior autorizados para operar por intermedio del Convenio de Pagos y Créditos Recíproco o por exportadores extranjeros con el aval de un banco autorizado, que sean tenedores de documentos rembolsables por intermedio del respectivo Convenio de Pagos y Créditos Recíproco, originados en exportaciones de un país miembro de ALADI hacia otro país perteneciente también a la misma Asociación Latinoamericana de Integración. Estos documentos servirán de base para la emisión de los referidos pagarés.
-
-c) El pagaré debe ser emitido a favor del Banco descontante situado en Chile y su importe y vencimiento deben coincidir con el importe y vencimiento del documento original que haya servido de base para la emisión de aquél.
-
-d) En el dorso del pagaré se deben indicar los datos del documento original, particularmente los relativos a la exportación de que se trate con mención del país de origen y de destino, como asimismo una declaración del suscriptor en la que deje constancia que no se han emitido ni se emitirán otros documentos negociables sobre la base del mismo documento original.
-
-e) En el pagaré debe constar la autorización del Banco suscriptor o avalista de ese instrumento, para que su importe sea rembolsado por intermedio del Convenio de Pagos y Créditos Recíproco, así como la referencia bajo la cual se deberá requerir el rembolso. Al respecto, se deberá tener presente que sólo podrán ser reembolsados con cargo al Convenio de Pagos y Créditos Recíproco los importes de estas operaciones cuyo plazo no exceda de 365 días. En caso de vencimientos superiores a ese plazo, el reembolso por el importe que venza después de 365 días deberá cursarse fuera de convenio.
-
-### 3. Antecedentes de los deudores
-
-En consideración a que los documentos descontados en virtud de las normas contenidas en este título, deben ser emitidos o avalados por un banco autorizado para operar por intermedio del Convenio de Pagos y Créditos Recíproco, el que además deberá otorgar su autorización para que dichos instrumentos sean rembolsados con cargo al referido Convenio, no es necesario que los bancos descontantes cuenten con los documentos exigidos en el Capítulo 8-28 para la evaluación de estos créditos.
-
-### 4. Instrucciones contables
-
-Los descuentos de estos pagarés deberán ser registrados de la siguiente forma:
-
-Debe: "Pagarés descontados terceros países ALADI", de la partida 1135 ó 1230.
-
-Haber: - La cuenta que corresponda para pagar el importe del documento descontado.
-
-- "Beneficios por devengar de pagarés terceros países ALADI", de la partida 4120.
-
-El importe registrado en la cuenta "Beneficios por devengar de pagarés terceros países ALADI", será traspasado mensualmente a la cuenta "Beneficios de pagarés terceros países ALADI", de la partida 7605, en forma proporcional al tiempo que medie entre la fecha del descuento y la fecha de vencimiento del respectivo pagaré.
-
-### 5. Limites
-
-5.1. Monto máximo de descuentos que se pueden realizar con depósitos a plazo.
-
-El saldo de colocaciones correspondientes a pagarés descontados que mantengan los bancos, financiadas con recursos provenientes de depósitos y captaciones a plazo en moneda extranjera, no podrá exceder el 25% de los saldos diarios que registren por concepto de dichos depósitos y captaciones, más el 25% de los saldos diarios de sus obligaciones con el exterior.
-
-5.2. limite de crédito.
-
-Los créditos otorgados mediante el descuento de los documentos de que trata este título, estarán afectos al límite de endeudamiento individual del 25% para operaciones con garantía de que trata el artículo 84 de la Ley General de Bancos, siempre que en el instrumento descontado se establezca que su rembolso se efectuará por intermedio del Convenio de Pagos y Créditos Recíproco vigente entre el Banco Central de Chile y el Banco Central del país del respectivo deudor.
-
-Cuando se trate de importes que no sean reembolsables por intermedio del Convenio de Pagos y Créditos Recíproco, se les aplicará el límite de endeudamiento individual del 5% para operaciones sin garantía.
 
 CAPITULO 13-28 (Bancos)
 
