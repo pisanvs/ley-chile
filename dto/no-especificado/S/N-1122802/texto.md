@@ -1,0 +1,15 @@
+Reconocimiento al Ejército de los Andes
+
+(Oficio del Ilustre Cabildo al Excelentísimo Señor Supremo Director)
+
+Excmo. Señor.:
+
+Con el mayor dolor ha visto el Cabildo el artículo de la Gazeta de 12 del que rije, en que se habla de los urdidores, asegurándose que en las tiendas i cafées públicos, han proferido que nada debe Chile al Ejército de los Andes porque se ha salvado por el esfuerzo de sus propios hijos, formándose de estas espresiones la justa crítica que merecen esas almas bajas, que desconocidas intentan formar una discordia que produciria los mas perjudiciales efectos. Al paso que el Cabildo conoce mui bien que hai hombres para todo, siente que en los papeles públicos corran los defectos de los mal intencionados confundiéndose quizá con esto la virtud de los buenos ciudadanos; i si representando al pueblo que le elijió debe mirar por él, no puede prescindir de recomendar a la superior consideracion de V.E. que tomándose las mas activas providencias para ejemplarizar a los ingratos, se tenga entendido que el pueblo de Chile está convencido del beneficio que debe a sus Libertadores, ordenando que para satisfaccion, se publique así en la Gazeta. Es lo mas sensible Sr. Excmo. mirar confundidos los hombres de bien con aquellos hablantines que en la discordia, tienen formada su gloria, i si este es un mal que debe remediarse, será consiguiente acordar una medida que, quitando la nota que puede refluir contra la parte sana del pueblo, se atajen, en tiempo unas consecuencias que para lo futuro, pueden traer funestos resultados. Consuele V.E. al Cabildo en una queja que solo tiene por fundamento el vivo deseo de conciliar la union, de quitar la division i de hacer entender que agradecido, tributa i tributará siempre las mas afectuosas espresiones de cariño i respeto del Ejército de los Andes que a costa de su sangre i de los valerosos esfuerzos de sus guerreros hizo desaparecer la tiranía, para que renaciera la dulce Libertad.
+
+Dios guarde a V.E. muchos años.- Sala Capitular de Santiago i Marzo 14 de 1817. Fernando Errázuriz.- Francisco Fontecilla.- Domingo de Eyzaguirre.- Felipe Santiago Solar.- José Antonio de Campino.- Miguel Ovalle.- Antonio José de Aránguis.- José Manuel de Astorga.- Manuel Echeverría.- Excmo. Supremo Director del Estado.
+
+Santiago i Marzo 14 de 1817.
+
+Pase esta declaracion del Ilustro Cabildo al Editor de la Gaceta para que, haciéndola imprimir en una estraordinaria, sirva de satisfaccion a los jenerosos defensores de nuestra Libertad, i destruya el justo resentimiento que podrian fundar en las indiscretas espresiones de esos ingratos despreciables, cuyos nombres pondrá, el Editor inmediatamente en noticia del Gobierno para aplicarles la pena que merecen. Imprímase igualmente este decreto para que nuestros Libertadores se persuadan, que ni el pueblo ni sus representantes, ni el Gobierno son capaces de desconocerles deuda tan obligatoria.
+
+O'Higgins.- Zañartu, Ministro de Estado.
