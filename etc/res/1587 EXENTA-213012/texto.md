@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.587, de 9 de julio de 2003, de esta Subsecretaría, apruébase la solicitud presentada por PEDRO ANTONIO PIZARRO VALENZUELA, para transferir la piscicultura ubicada en Estero Los Chilcos, IX Región, autorizada por resolución Nº214 de 2003, de esta Subsecretaría, a Salmones Multiexport Limitada.
+
+Valparaíso, 9 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
