@@ -1,0 +1,3 @@
+Por decreto MOP Nº398, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº16-A, superficie 298 m², Rol de avalúo Nº3800-278, comuna de Puente Alto, para la obra "Mejoramiento Eje La Florida, Sector El Peñón a Las Vizcachas Ruta G-25 Camino Puente Alto", Región Metropolitana, y se acordó el valor de la indemnización con su propietario Aurelio Núñez Zúñiga, ascendente a la cantidad de $12.652.096.
+
+- Fiscal del Ministerio de Obras Públicas.
