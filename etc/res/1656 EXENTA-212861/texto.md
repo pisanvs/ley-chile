@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.656, de 16 de julio de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 200111375 presentada por COMERCIAL E INDUSTRIAL AQUA SMOLT CHILE SOCIEDAD ANONIMA para instalar y operar un centro de cultivo ubicado en Canal Piure, al noreste de Isla Arbolito, XI Región.
+
+Valparaíso, 16 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
