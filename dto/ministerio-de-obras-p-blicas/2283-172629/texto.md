@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.283, de 30 de mayo de 2000, se expropió el lote de terreno Nº86, superficie 952 m2., rol de avalúo 65-230, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietario Jorge Manuel Tagle Castillo, ascendente a la cantidad de $2.649.333.
+
+- Fiscal del Ministerio de Obras Públicas.
