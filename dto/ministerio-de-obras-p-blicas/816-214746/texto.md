@@ -1,0 +1,3 @@
+Por decreto MOP Nº 816, de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 6, superficie 1.402,14 m², Rol Nº 179-108, comuna de Nogales, V Región para la obra "Construcción Camino Conexión Ex Asentamiento El Melón - Atravieso El Melón, Sector El Melón, Km. 0,00000 a 0,74811, y se acordó el valor de indemnización con su propietario Pedro Humberto Jeldes Zamora y Otra, ascendente a la cantidad de $6.262.237.-
+
+Fiscal del Ministerio de Obras Públicas.
