@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº190, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nº 4, 4-A, 5, 5-A, superficies 124,22, 270,00, 322,56, 321,00 m², Rol de avalúo Nº2087-411, comuna de Melipilla, para la obra "Camino Melipilla-Casablanca, Rol G-74-F, Sector cruce Ruta 78-puente Bollenar, Tramo Km. 0.000 a Km. 14.245,05" Región Metropolitana y se acordó el valor de la indemnización con su propietario Gerardo Francisco Gómez Santis, ascendente a la cantidad de $7.322.709.
+
+- Fiscal del Ministerio de Obras Públicas.
