@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 9, de fecha 15 de enero del año 2003, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales Villa Los Maquis Limitada, que consta en la escritura pública suscrita con fecha 4 de diciembre del año 2002, ante el Notario Público de Talca, don Juan Bianchi Astaburuaga.
+
+Por orden del señor Subsecretario.- Raúl Oliva Camadro, Jefe Departamento Cooperativas.
