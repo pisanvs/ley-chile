@@ -1,0 +1,5 @@
+Por resolución Nº 3.169 de esta Subsecretaría, modifícase la resolución Nº 2.430 de 2004, modificada mediante resoluciones Nº 2.805 y Nº 3.056, ambas de 2004, todas de esta Subsecretaría de Pesca, que autorizó a AYCON CONSULTORES S.A., para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Modelo de administración y control del esfuerzo de pesca sobre el recurso Merluza del sur (Merluccius australis) en aguas interiores de la XI Región", en el sentido de agregar al numeral 8º, el siguiente inciso final:
+
+"La Subsecretaría de Pesca podrá autorizar mediante resolución, que una o más organizaciones de pescadores artesanales operen en un período distinto al autorizado a la respectiva flota, por motivos debidamente fundados.".
+
+Valparaíso, 2 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
