@@ -1,0 +1,9 @@
+Por Resolución No. 1.462 de 28 de Noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a INTER AUSTRAL S.A.; R.U.T.
+
+N°96.586.100-9, domiciliada en la ciudad de Santiago, para iniciar actividades pesqueras de transformación, en orden a operar una planta industrial ubicada en calle Arica No. 2399 Valdivia donde procesará en la línea de elaboración de congelado y fresco, los siguientes recursos hidrobiológicos: Bacalao de Profundidad o Mero, Blanquillo, Bonito, Cabrilla española, Cabrilla común, Chancharro, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Lenguado de ojos chicos, Lenguado de ojos grandes, Merluza común, Merluza del sur, Merluza de cola, Mulata de tres aletas, Palometa, Pejegallo, Pejerrey de mar, Raya, Róbalo, Salmón del Atlántico, Salmón del Pacífico, Sardina común, Sardina, Sierra, Tollo, Almeja o taca, Almeja, Calamar, Caracol trumulco, Cholga, Chorito, Choro, Lapa, Macha, Navajuela, Centolla, Centollón, Jaiba, Erizo, Piure, Pepino de mar. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria para procesar el recurso Loco, de conformidad con lo establecido en el DS No. 126, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Derógase la Resolución No. 1917, de 1989, de esta Subsecretaría, por renuncia de su titular.
+
+Valparaíso, 28 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
