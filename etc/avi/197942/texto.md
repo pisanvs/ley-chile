@@ -1,0 +1,5 @@
+ENTIDADES RELIGIOSAS DE DERECHO PUBLICO
+
+Juan Eugenio Del Real Armas, abogado, Notario Público Titular, Gran Avda. 8932, La Cisterna, certifico: Que con fecha 23 de mayo del año 2001, ante mí, se redujo escritura pública Acta y Constitución de Estatutos de "Constitución del Ministerio Evangelístico de Dios", de fecha 10 de mayo 2001, la cual se encuentra inscrita en el Registro Público a cargo de la Secretaría de Estado, bajo el número cero cero ciento noventa y cinco, de fecha dieciocho de diciembre de dos mil uno, del Departamento Personas Jurídicas Registro Público de Entidades Religiosas Ley número diecinueve mil seiscientos treinta y ocho, Decreto Supremo número trescientos tres, de dos mil F: dieciocho mil ciento trece, FLB/ JDJ/ AS/ svr.veintiocho. cero tres. dos mil dos, solicitud número dos mil setecientos catorce, de fecha once abr. dos mil dos.-
+
+La Cisterna, 22 de abril 2002.- Eugenio Del Real Armas.- Notario Público.
