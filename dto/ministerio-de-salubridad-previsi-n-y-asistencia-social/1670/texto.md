@@ -178,11 +178,15 @@ La Empresa está obligada a comunicar a la Caja dentro de los 15 días siguiente
 
 #### Artículo 15
 
-El haber en el Fondo de Retiro y en el de Indemnización Legal del imponente fallecido pertenecerá por iguales partes y con derecho a acrecer al cónyuge sobreviviente no divorciado perpetuamente por su culpa, y a sus legitimarios.
+El haber en el Fondo de Retiro del imponente fallecido corresponderá, por iguales partes y con derecho a acrecer, a los beneficiarios de montepío a quienes corresponda entrar al goce de este beneficio. En el caso de la viuda, ésta, además, no deberá encontrarse divorciada perpetuamente por su culpa.
 
-A falta de cónyuge en las condiciones indicadas, y de legitimarios, dicho haber corresponderá a los herederos del imponente en conformidad a las reglas de la sucesión intestada que establece el Código Civil, salvo que se hubiere dispuesto de dichos haberes por acto testamentario.
+Si al fallecimiento del imponente no quedare beneficiario de montepío, el Fondo de Retiro le corresponderá por iguales partes y con derecho a acrecer, al cónyuge sobreviviente no divorciado perpetuamente por su culpa, y a sus legitimarios.
 
-En el caso del artículo 995 del Código Civil, los haberes antes indicados incrementarán el Fondo de Auxilio.
+A falta de cónyuge en las condiciones indicadas y de legitimarios, dicho haber corresponderá a los herederos del imponente en conformidad a las reglas de la Sucesión intestada que establece el Código Civil, salvo que se hubiere dispuesto de dichos haberes por acto testamentario.
+
+El haber en el Fondo de Indemnización Legal corresponderá a los mismos beneficiarios y en la misma forma señalada en los dos incisos anteriores.
+
+En el caso del artículo 995 del Código Civil, los haberes antes indicados incrementaran el Fondo de Pensiones.
 
 ## Título IV
 
@@ -230,9 +234,11 @@ a) De la jubilación o de la pensión de invalidez que el causante esté percibi
 
 b) De la pensión de invalidez calculada a la fecha de la muerte si ésta se produjere en servicio activo.
 
-Cuando el beneficiario de montepío se reduzca a una sola persona se pagará el 50% en lugar del 75% establecido en el inciso anterior.
+La pensión de montepío, será obligatoria cuando existan hijos legítimos solteros, menores de 18 años y derecho a acrecer a la viuda y a los hijos. En este caso, todos los beneficiarios deberán hacer la imposición a que se refiere la letra a) del Art. 16.
 
-Si una persona con derecho a montepío no impone al Fondo de Pensiones la totalidad del Fondo de Retiro por no haberlo recibido íntegro en la distribución de él, hecha de acuerdo con el artículo 15, recibirá como montepío la misma proporción de éste que haya entre la suma cotizada al Fondo de Pensiones, y el monto total del Fondo de Retiro; siempre que la cotización sea hecha en la totalidad de la parte del Fondo de Retiro percibida. En este caso no se aplicará la disposición contenida en el inciso anterior.
+El total de montepío se distribuirá entre sus beneficiarios, en la misma proporción en que éstos hagan la imposición establecida en la letra a) del artículo 16º.
+
+El total de las pensiones de montepío que cause un imponente no podrá ser inferior a un sueldo vital escala A) del departamento de Santiago.
 
 #### Artículo 20
 
