@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.191, de 30 de octubre de 1998, se expropió el lote de terreno Nº2, superficie 90 m2., rol de avalúo 165-13, comuna de Puchuncaví, para la obra Ruta F-20 Nogales - Puchuncaví, Cruce Pucalán - Chilicauquén y Cruce Chilicauquén y se acordó el valor de indemnización con su propietario Ricardo del Carmen Torres, ascendente a la cantidad de $18.603.398.-
+
+Fiscal del Ministerio de Obras Públicas.
