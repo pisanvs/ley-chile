@@ -1,0 +1,3 @@
+Por decreto MOP Nº 132 de fecha 27 de febrero de 2004, se expropió el lote de terreno Nº 510-A, superficie 219 m², rol de avalúo en trámite, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietaria Edita del Carmen Carroza Gaete, ascendente a la cantidad de $3.729.275.
+
+- Fiscal del Ministerio de Obras Públicas.
