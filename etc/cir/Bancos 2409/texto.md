@@ -3850,9 +3850,9 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES
 
-A.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1994
+ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 
 - Astilleros y Maestranzas de la Armada.
 
@@ -3864,13 +3864,13 @@ A.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1994
 
 - Comando de Industria Militar e Ingeniería.
 
-- Comercializadora de Trigo S A "COTRISA".
+- Comercializadora de Trigo S.A. "COTRISA".
 
-- Comisión Nacional de Investigaciones Científicas y Tecnológicas
+- Comisión Nacional de Investigaciones Científicas y Tecnológicas.
 
 - Corporación de Fomento de la Producción.
 
-- Departamento Bienestar Dirección General de Aeronáutica Civil
+- Departamento Bienestar Dirección General de Aeronáutica Civil.
 
 - Dirección de Aprovisionamiento del Estado.
 
@@ -3878,7 +3878,7 @@ A.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1994
 
 - Dirección de Previsión de Carabineros de Chile.
 
-- Dirección de Sanidad de la Armada
+- Dirección de Sanidad de la Armada.
 
 - Dirección General de Crédito Prendario.
 
@@ -3886,9 +3886,9 @@ A.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1994
 
 - Empresa de Correos de Chile.
 
-- Empresa de Ferrocarriles del Estado
+- Empresa de Ferrocarriles del Estado.
 
-- Empresa de Obras Sanitarias y Región S.A..
+- Empresa de Obras Sanitarias V Región S.A.
 
 - Empresa de Servicios Sanitarios de Antofagasta S.A.
 
@@ -3904,9 +3904,9 @@ A.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1994
 
 - Empresa de Servicios Sanitarios de Magallanes S.A.
 
-- Empresa de Servicios Sanitarios de Tarapaca S.A.
+- Empresa de Servicios Sanitarios de Tarapacá S.A.
 
-- Empresa de Servicios Sanitarios del Bío-Bío S.A
+- Empresa de Servicios Sanitarios del Bío-Bío S.A.
 
 - Empresa de Servicios Sanitarios del Libertador S.A.
 
@@ -3914,19 +3914,19 @@ A.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1994
 
 - Empresa de Transporte Ferroviario S.A.
 
-- Empresa de Transporte de Pasajeros Metro S A.
+- Empresa de Transporte de Pasajeros Metro S.A.
 
 - Empresa Eléctrica Colbún-Machicura S.A.
 
-- Empresa Eléctrica de Aysén S A
+- Empresa Eléctrica de Aysén S.A.
 
-- Empresa Eléctrica del Norte Grande S A
+- Empresa Eléctrica del Norte Grande S.A.
 
-- Empresa Marítima S A
+- Empresa Marítima S.A.
 
 - Empresa Metropolitana de Obras Sanitarias S.A.
 
-- Empresa Nacional de Aeronáutica
+- Empresa Nacional de Aeronáutica.
 
 - Empresa Nacional de Minería.
 
@@ -3948,15 +3948,19 @@ A.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1994
 
 - Instituto Nacional de Normalización.
 
-- Polla Chilena de Beneficencia
+- MUNICIPALIDADES (todas las Municipalidades del país).
+
+- Polla Chilena de Beneficencia.
 
 - Servicio de Bienestar de la Fuerza Aérea de Chile.
 
-- Servicio de Bienestar de la Superintendencia de Bancos e Instituciones Financieras
+- Servicio de Bienestar de la Superintendencia de Bancos e Instituciones
 
-- Servicio de Bienestar de la Superintendencia de Valores y Seguros
+Financieras.
 
-- Servicio de Bienestar del Magisterio
+- Servicio de Bienestar de la Superintendencia de Valores y Seguros.
+
+- Servicio de Bienestar del Magisterio.
 
 - Servicio de Bienestar Social de la Armada.
 
@@ -3976,103 +3980,7 @@ A.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1994
 
 - Zona Franca Iquique S.A.
 
-B.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1993.
-
-Municipalidades de
-
-Arica.
-
-Calama.
-
-Cerro Navia.
-
-Chillán.
-
-Concepción.
-
-Conchalí.
-
-Coyhaique.
-
-El Bosque.
-
-El Monte.
-
-Estación Central.
-
-Isla de Maipo.
-
-La Cisterna.
-
-La Granja.
-
-La Reina.
-
-Las Condes.
-
-Lo Prado.
-
-Machalí.
-
-Macul.
-
-Maipú.
-
-Mariquina.
-
-Melipilla
-
-Navarino.
-
-Ñuñoa.
-
-Penco.
-
-Peñaflor.
-
-Peñalolén.
-
-Providencia.
-
-Pudahuel.
-
-Puerto Montt.
-
-Quinta Normal.
-
-Rancagua.
-
-Renca.
-
-San Bernardo.
-
-San Fernando.
-
-San Joaquín.
-
-Santiago.
-
-Talagante.
-
-Temuco.
-
-Traiguén.
-
-Valparaíso.
-
-Viña del Mar.
-
-Vitacura.
-
-C.- OTRAS AUTORIZACIONES INFORMADAS
-
-Entidad Autorizada hasta el
-
-Empresa Abastecimiento de Zonas Aisladas 30.06.92
-
-Ministerio de Vivienda y Urbanismo 30.11.92
-
-Agencia de Cooperación Internacional 31.12.92.
+Todas las entidades indicadas están autorizadas hasta el 28 de febrero de 1994.
 
 CAPITULO 2-12 (Bancos y Financieras)
 
