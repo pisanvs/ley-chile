@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.003, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº4-B, superficie 162 M2, rol de avalúo 525-22, comuna de Linares, para la obra "Camino Ruta L-32, Sector Cruce Ruta 5-Puente Sifón, tramo Km. 2,320 a Km. 17,66644 y Km. 0,000-Km. 0,963." y se acordó el valor de indemnización con su propietaria Rosalina del Carmen Alarcón Vergara, ascendente a la cantidad de $520.516.-
+
+Fiscal del Ministerio de Obras Públicas.
