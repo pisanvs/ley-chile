@@ -1,0 +1,3 @@
+Por resolución Nº 2.170, de 20 de octubre de 1999 de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA COLOSO S.A., para ampliar las actividades pesqueras extractivas con la nave ''Bandurria'', matrícula 2306, autorizadas por resoluciones Nº 500 de 1997 y Nº 1.036 de 1999 de esta Subsecretaría, en orden a realizar actividades pesqueras con la nave ''Bandurria'' en el litoral de la I y II Regiones, por fuera del área de reserva artesanal, donde podrá capturar con red de cerco el recurso hidrobiológico Jurel fino y Sardina redonda.
+
+Valparaíso, 20 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
