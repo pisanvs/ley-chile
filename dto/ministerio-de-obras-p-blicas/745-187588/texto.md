@@ -1,0 +1,3 @@
+Por decreto MOP Nº745, de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº61, superficie 460,76 m2., rol de avalúo 1131-43, comuna de Castro, para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid)-Putemún-Dalcahue, Km. 0,000 a Km. 11,991647" y se acordó el valor de indemnización con su propietaria María Gisela Jael Sotomayor Guíñez, ascendente a la cantidad de $479.974.-
+
+Fiscal del Ministerio de Obras Públicas.
