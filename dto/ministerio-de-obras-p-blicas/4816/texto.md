@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.816, de fecha 31 de octubre de 2000, se expropiaron los lotes de terreno Nºs. 2, 2-A y 28, superficies 1.002 m², 1.458 m² y 1.166 m², respectivamente, rol de avalúo 5026-154, comuna de Punta Arenas, para la obra "Actualización Proyecto Canal de trasvase Estero Llau Llau a Estero Bitsch de Punta Arenas Fase II, Prolongación Canal Llau-Llau, Km. -0.009 al Km. 1.066 /Canal de Trasvase Llau Llau a Estero Bitsch, Tramo Km. -0,012 a Km. 1.384" y se acordó el valor de indemnización con su propietario Juan Eliceo Guentén Levicoy, ascendente a la cantidad de $6.816.152.-
+
+Fiscal del Ministerio de Obras Públicas.
