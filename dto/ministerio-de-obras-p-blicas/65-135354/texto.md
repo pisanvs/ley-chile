@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 65, de 24 de marzo de 1988, se expropiaron los lotes N°s. 15 y 16, superficies 13.000 m2. y 13.548 m2., roles de avalúo 2.206-51 y 2.206-29, respectivamente, comuna de Chillán, para Camino Longitudinal Sur, Ruta 5, sector By Pass Chillán y se acordó precio de indemnización con su propietario don Julio Autonell Bertetti, ascendente a $ 321.227.-
+
+Fiscal del Ministerio de Obras Públicas.
