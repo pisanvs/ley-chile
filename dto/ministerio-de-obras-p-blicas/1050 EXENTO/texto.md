@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.050, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº86, superficie 145 m², rol de avalúo en trámite, comuna de Parral, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario Silvia Jesús Vivanco Soto, ascendente a la cantidad de $302.211.-
+
+Fiscal del Ministerio de Obras Públicas.
