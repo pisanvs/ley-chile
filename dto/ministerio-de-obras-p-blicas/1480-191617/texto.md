@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.480, de 28 de septiembre de 2001, se expropiaron los lotes de terreno Nºs. 31 y 31-1, superficies 4.755 y 598 m2., rol de avalúo 690-48, comuna de El Tabo, para la obra Red Vial Litoral Central Sector 3: Eje Costero Interior Subtramo Las Pataguas Quillaicillo, Kms. 5.936,10 al 8.408,204, Quinta Región y se acordó el valor de indemnización con su propietaria Elza Eliana Aranda Mac Evoy, ascendente a la cantidad de $3.873.075.- para los lotes Nºs. 31 y 31-1.
+
+- Fiscal del Ministerio de Obras Públicas.
