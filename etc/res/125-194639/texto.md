@@ -1,0 +1,3 @@
+Por resolución Nº125 de 26 de diciembre 2001, Serviu Región de Tarapacá, conforme a decretos leyes Nº 1.523 de 1976 y Nº 2.186 de 1978 y decretos supremos Nos 355 de 1976, 63 de 1996, y decreto Nº 120 de 2000, todos de Vivienda y Urbanismo, dispuso expropiación total del inmueble ubicado en Iquique, calle Las Cabras Nº1717, Rol de Avalúo Nº78-01, de presunto dominio de Augusto Pino Herrera. Comisión integrada por peritos señores Sergio Ruiz Román y Héctor Ruiz Le-Beuffe, arquitectos, y Oscar Escárate Arancibia, constructor civil, según informe de tasación de 20 diciembre 2001, fijó monto provisional de indemnización en $10.300.000.- pagadera al contado.-
+
+Oscar Cajiao Pizarro, Director Serviu Región de Tarapacá (S).
