@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICA
+
+Resolución 242, 1º septiembre 1997, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Paicaví Nº 228-232, Rol de Avalúo Nº 105-0022, comuna Concepción, superficie 236 m² de terreno y 291 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-105-0022; de aparente dominio de Luis Hin-richs Olivares, para ejecución programa "Mejoramiento Interconexión Vial Centro Concepción-Autopista Talcahuano", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 2 de diciembre de 1996, fijó monto provisional indemnización en $59.745.000.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
