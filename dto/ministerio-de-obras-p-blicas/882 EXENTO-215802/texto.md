@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 882, de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº 77, superficie 462 m², rol Nº 302-591, comuna de Cunco, IX Región, para la obra "Camino Ruta S-61, sector Cunco Melipeuco, tramo Km. 55,000 al Km. 87,46783, correspondiente al Subtramo II, Km. 62,784 al 76,043" y se acordó el valor de indemnización con su propietario Luis Isaías Aguilera Godoy y Otros, ascendente a la cantidad de $510.717.
+
+- Fiscal del Ministerio de Obras Públicas.
