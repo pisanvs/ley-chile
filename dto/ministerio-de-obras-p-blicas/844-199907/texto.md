@@ -1,0 +1,3 @@
+Por decreto MOP Nº844 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº113-A, superficie 1.260,00 m², Rol Nº225-111, comuna de Olmué, para la obra ''Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,984 a Km. 34,5000'' y se acordó el valor de indemnización con su propietario Abelardo Segundo Toledo González, ascendente a la cantidad de $22.424.872.-
+
+Fiscal del Ministerio de Obras Públicas.
