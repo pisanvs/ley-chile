@@ -1,0 +1,3 @@
+Por decreto M.O.P, No. 35, de 27 de febrero de 1987, se expropió el lote de terreno No. 6, superficie de 4.730 m2, rol de avalúo 536-2, comuna de Linares, para la obra Alcantarillado de Aguas Servidas de Linares, Mejoramiento Integral del Sistema, VII Región y se acordó el precio de indemnización con su propietaria doña María Beatriz Ferrada Vásquez, ascendente a la suma de $1.512,654.-
+
+Fiscal del Ministerio de Obras Públicas
