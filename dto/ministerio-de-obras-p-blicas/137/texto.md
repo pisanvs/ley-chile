@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 137, de fecha 29 de Abril de 1994, se expropiaron los lotes de terrenos N°s. 12 y 13 superficies ambas 375, roles de avalúo 336-2 y 336-3, Comuna de Penco, para la obra Ampliación y Reposición Ruta 150 Concepción - Lirquén, y se aprobó el precio de indemnización con sus propietarios Luz E. Villanueva Vallejos y Cristian J. Guerrero Villanueva, ascendente a las cantidades de $7.970.270 y $4.490.750.-
+
+Fiscal del Ministerio de Obras Públicas
