@@ -1,0 +1,3 @@
+Alcaldesa I. Municipalidad de Providencia, mediante Decreto No. 2.008 de 26 de Agosto de 1985, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976, y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en calle Marchant Pereira No. 107, Rol de Avalúo No. 523-6, aparentemente de propiedad de doña Virginia Larraín García Moreno, para el ensanche de la calle Marchant Pereira. Deslindes parte expropiada: Al Norte, en 5,10 mts. con Rol No. 523-5; Al Sur, en 5 mts. con calle Fidel Oteíza; Al Oriente, en 19,20 mts. con calle Marchant Pereira, y al Poniente, en 19,70 mts. con resto propiedad. Indemnización provisional $ 969.875, pagadera contado.
+
+Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
