@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 550 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nºs 389 y 407, superficie 427 y 675 m2, Rol Nº 33-116, comuna de Pichidegua, para la obra ''Camino Conexión Vial Pichidegua-Las Cabras, Sector San Roberto.El Toco-Ruta 66, tramo Km. 12,70000 al 16,48000'', y se acordó el valor de indemnización con su propietario Pedro Víctor Mena Navarro y otros, ascendente a la cantidad de $3.263.631.
+
+Fiscal del Ministerio de Obras Públicas.
