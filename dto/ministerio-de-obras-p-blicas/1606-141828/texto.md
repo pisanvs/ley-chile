@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.606, de 21 de junio de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No. s. 12 y 20, para la obra Camino Ruta E-39, sector Quinquimo-El Rayado, Tramo Kms. 0,300 al 6,600, que figuran a nombre de Ferrocarriles del Estado y Augusto Sigifred González González, roles de avalúos 90.500-1 y 341-1, comuna de La Ligua, superficies 4 m2 y 287 m2. La Comisión de Peritos compuesta por las Sras. María Isabel Ríos Marcuello y Claudia Paola Arellano Gómez y el Sr. Pablo Antonio Aragón Bernal, fijó con fecha 4 de junio de 1998, el valor provisional de la indemnización en las cantidades de $ 158.000, para el lote No. 12 y $ 1.356.400, para el lote No.
+
+20. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 75 del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
