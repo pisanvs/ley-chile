@@ -1,0 +1,3 @@
+Por decreto MOP Nº 414 de 19 de mayo de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 19-C para la obra: Camino Ruta G-420, Sector Camino a Naltagua, Tramo km. 0,000 a km. 7,700, que figura a nombre de Alcalde Tunon Gmo. Angel, rol de avalúo 2509-1, comuna de Isla de Maipo; Región Metropolitana, superficie 3.540 m². La Comisión de Peritos, fijó con fecha 5 de septiembre de 2001 en la cantidad de $11.595.000.- lote Nº 19-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
