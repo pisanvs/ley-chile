@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 377, de 21 de diciembre de 1988, se expropiaron los lotes de terrenos N°s. 1, 2, 3, 4, 5, 6-A, 6-B, 7, 8 y 9, superficie 13.620 M2. roles de avalúos 3046-6 y 30465, respectivamente, comuna de Las Condes, para la obra Camino a Farellones, Km. 6,5 al Km. 9,0 y se acordó el precio de indemnización con su propietario Andrés Maira Rojas, ascendente a la suma de $ 958.262.-
+
+Fiscal del Ministerio de Obras Públicas.
