@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución 272, 2 septiembre 1996, SERVIU Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Irarrázabal N° 425, Rol de Avalúo N° 352-11, comuna Concepción, superficie 56 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-11029-352-11; de aparente dominio de Fisco de Chile, para ejecución programa "Mejoramiento Eje Vial Los Carrera de Concepción", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 9 de Julio de 1996, fijó monto provisional indemnización en $3.385.000.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
