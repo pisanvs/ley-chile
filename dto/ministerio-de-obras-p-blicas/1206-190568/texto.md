@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.206 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº9, superficie 993 m2., rol de avalúo 181-4, comuna de San Nicolás, para la obra "Camino Ruta N-60-O, Sector Río Ñuble-Portezuelo, Km. 6.900.00 a Km. 28.883.35" y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de San Nicolás, ascendente a la cantidad de $649.562.-
+
+Fiscal del Ministerio de Obras Públicas.
