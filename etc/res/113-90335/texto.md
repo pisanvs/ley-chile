@@ -1,0 +1,3 @@
+Por Resolución Nº 113, de 23 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de reconsideración presentada por SOCIEDAD AGRICOLA AGUAS BLANCAS LTDA. por no darse cumplimiento a lo dispuesto en el D.S. Nº 427 de 1989 del Ministerio de Economía, Fomento y Reconstrucción, al estar copada la capacidad de carga del Estero Agua Fría, zona Huingán, Peñaflor, Santiago.
+
+Valparaíso, 23 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
