@@ -1,0 +1,107 @@
+DECRETO LEY N° 3.260, DE 1980 Establece régimen de gobierno y administración de la Región Metropolitana de Santiago (Publicado en el "Diario Oficial" N° 30.630, de 1° de abril de 1980)
+
+NUM. 3.260.- Santiago, 13 de marzo de 1980.- Visto: Lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+DECRETO LEY:
+
+#### Artículo 1°
+
+El gobierno y la administración de la Región Metropolitana de Santiago, se regirá por las normas establecidas en los decretos leyes 573 y 575, ambos de 1974, y las disposiciones de la presente ley.
+
+#### Artículo 2°
+
+La Región Metropolitana de Santiago, comprende:
+
+a) Los actuales departamentos de Santiago, Presidente Aguirre Cerda, Melipilla, Talagante, San Bernardo, Puente Alto y Maipo.
+
+b) Las actuales comunas de San Pedro y Alhué.
+
+c) La parte del distrito 2 Leyda y 3 Cuncumén de la actual comuna de San Antonio, correspondiente a la hoya del estero Puangue, situada al Oriente del siguiente límite: la línea de cumbres que limita por el Poniente la hoya del estero Puangue, desde la cota 752, situada al Norponiente del cerro Minillas, hasta el trigonométrico cerro Las Juntas, pasando por el paso Sepultura, loma Los Maquis y los cerros Las Rosas, Bandurrias, Quillay y de la cuesta San Diego, y el paralelo astronómico del trigonométrico cerro Las Juntas; desde dicho trigonométrico hasta tocar el curso del río Maipo.
+
+#### Artículo 3°
+
+La capital nacional de la República de Chile, es la ciudad de Santiago, y a la vez, lo será de la Región Metropolitana de Santiago.
+
+#### Artículo 4°
+
+La Región Metropolitana de Santiago se dividirá en seis provincias.
+
+#### Artículo 5°
+
+Las provincias que integran la Región Metropolitana de Santiago, las comunas que la conforman y sus respectivas ciudades capitales serán las siguientes:
+
+Provincia de Santiago, capital Santiago, que comprende las actuales comunas de Santiago, Las Condes, Providencia, La Reina, Ñuñoa, La Florida, San Miguel, La Granja, La Cisterna, Maipú, Quinta Normal, Pudahuel, Renca, Quilicura y Conchalí.
+
+Provincia de Chacabuco, capital Colina, que comprende las actuales comunas de Colina, Lampa y Tiltil;
+
+Provincia Cordillera, capital Puente Alto, que comprende las actuales comunas de Puente Alto, Pirque y San José de Maipo;
+
+Provincia de Maipo, capital San Bernardo, que comprende las actuales comunas de San Bernardo, Calera de Tango, Buin y Paine;
+
+Provincia de Talagante, que comprende las actuales comunas de Talagante, Isla de Maipo, El Monte y Peñaflor, y
+
+Provincia de Melipilla, capital Melipilla que comprende las actuales comunas de Melipilla, María Pinto, Curacaví, San Pedro y Alhué. Se incluye, además la parte del distrito 2 Leyda y 3 Cuncumén de la actual comuna de San Antonio, correspondiente a la hoya del estero Puangue situada al oriente del siguiente límite: la línea de cumbres que limita por el poniente la hoya del estero Puangue, desde la cota 752, situada al norponiente del cerro Minillas, hasta el trigonométrico cerro Las Juntas, pasando por el paso Sepultura, Loma Los Maquis y los cerros Las Rosas, Bandurrias, Quillay y de la cuesta San Diego, y el paralelo astronómico del trigonométrico cerro Las Juntas, desde dicho trigonométrico hasta tocar el curso del río Maipo.
+
+#### Artículo 6°
+
+El gobierno y la administración superiores de la Región Metropolitana de Santiago residen en el Intendente Regional Metropolitano, a quien corresponderá ejercer las funciones y atribuciones que para los Intendentes Regionales se asignan en las normas constitucionales y legales, fundamentalmente en los decretos leyes 573 y 575, ambos de 1974. Le corresponderá en especial:
+
+a) Coordinar la actuación que deban desarrollar los organismos metropolitanos en la Región;
+
+b) Coordinar la acción de los Municipios y de los organismos competentes de la Región, en materia de transporte y tránsito público;
+
+c) Coordinar las acciones tendientes a la preservación del medio ambiente en la Región y supervisar el cumplimiento de las medidas acordadas, y
+
+d) DEROGADA.
+
+#### Artículo 7°
+
+El Intendente Regional Metropolitano, cuando las necesidades de la Región así lo requieran, ajustándose a las instrucciones del Supremo Gobierno sobre la materia, podrá delegar las facultades de que se encuentra investido, en los Gobernadores Provinciales, en los Alcaldes o en otras autoridades de la Región Metropolitana.
+
+#### Artículo 8°
+
+Créase, dependiente jerárquicamente del Intendente Regional Metropolitano, y técnica y administrativamente de la Oficina de Planificación Nacional, la Secretaría Regional de Planificacíon y Coordinación Metropolitana, que cumplirá las funciones y atribuciones señaladas para las Secretarías Regionales de Planificación y Coordinación en los decretos leyes 573 y 575, ambos de 1974, y se regirá por las normas establecidas para estos organismos en el decreto ley 937, de 1975.
+
+#### Artículo 9°
+
+La autoridad superior de la provincia será el Gobernador, quien estará subordinado al Intendente Regional Metropolitano. Será nombrado por el Presidente de la República, oyendo a dicho Intendente y permanecerá en su cargo mientras cuente con la confianza de aquél.
+
+#### Artículo 10°
+
+A los Gobernadores Provinciales les corresponderá ejercer las funciones y atribuciones que para estas autoridades se establecen en las normas constitucionales y legales, especialmente en los decretos leyes 573, ambos de 1974.
+
+#### Artículo 11°
+
+Las Municipalidades, los Alcaldes y demas organismos municipales, en las comunas comprendidas en la Región Metropolitana de Santiago, tendrán las atribuciones que les señala el decreto ley 1.289, de 1975.
+
+Sin embargo, para los efectos de programar, coordinar y evaluar acciones o tareas comunes que puedan emprender las Municipalidades de la provincia de Santiago, el Intendente Regional será asesorado por el Comité de Alcaldes presidido por él e integrado por todos los Alcaldes de las comunas respectivas.
+
+El Intentente Regional, oyendo al Comité de Alcaldes, podrá disponer que los Municipios aporten fondos para la realización de programas y tareas comunes, con sujeción a las normas financieras o presupuestarias que les sean aplicables.
+
+#### Artículo 1°
+
+Facúltase al Presidente de la República para que en el plazo de un año, contado desde la publicación de la presente ley, mediante decretos expedidos a través del Ministerio del Interior y suscritos por el Ministro de Hacienda, fije la organización, estructura y plantas de la Intendencia Regional Metropolitana y de las Gobernaciones Provinciales que integran esta Región, así como de la Secretaría Regional de Planificación y Coordinación Metropolitana.
+
+Asimismo, facúltase al Presidente de la República para que dentro del mismo plazo e igual procedimiento fije las plantas de las Municipalidades de la Región Metropolitana.
+
+#### Artículo 2°
+
+El encasillamiento en las plantas de la Intendencia Regional Metropolitana, de las Gobernaciones Provinciales y Municipalidades que integren esta Región, así como el de la Secretaría Regional de Planificación, se efectuarán por decreto supremo expedido a través del Ministerio del Interior, dentro de los ciento veinte días siguientes a la publicación del decreto que fije las plantas de las referidas instituciones y se sujetará a las normas contenidas en el artículo 29 del decreto ley 2.879, de 1979.
+
+El Presidente de la República podrá encasillar discrecionalmente en los cargos de las plantas de cada una de las entidades a que se refiere el inciso anterior a todo o parte del personal de planta actualmente en servicio en ellas, o a contrata al 31 de diciembre de 1979. Los funcionarios que no sean encasillados en las nuevas plantas, cesarán en sus cargos por el solo ministerio de la ley, y si reúnen los demás requisitos legales, tendrán derecho a jubilar por expiración obligada de funciones.
+
+> **Nota.** NOTA: 1 El artículo único letra e) del Decreto Ley N° 3.642, ordenó suprimir, en el artículo 2° transitorio del presente Decreto Ley, las expresiones "del Aerea Metropolitana", siendo tales que expresiones se encuentran en el artículo 3° transitorio.-
+
+#### Artículo 3°
+
+Facútase al Presidente de la República, para que en el plazo de un año, a proposición del Ministerio del Interior, determine definitivamente los límites del Area Metropolitana, de las provincias y de las comunas, pudiendo en el ejercicio de esta facultad crear nuevas comunas y readecuar el territorio de las existentes en esta Región.
+
+> **Nota.** NOTA: 1 El artículo único letra e) del Decreto Ley N° 3.642, ordenó suprimir, en el artículo 2° transitorio del presente Decreto Ley, las expresiones "del Aerea Metropolitana", siendo tales expresiones se encuentran en el artículo 3° transitorio.-
+
+#### Artículo 4°
+
+Las nuevas plantas que se establezcan por aplicación de las normas de este decreto ley, no podrán significar mayor gasto que el autorizado para las respectivas plantas vigentes.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- CESAR MENDOZA DURAN.- FERNANDO MATTHEI AUBEL.- Sergio Fernández.- Sergio de Castro.
