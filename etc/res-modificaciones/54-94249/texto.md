@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION QUE INDICA. AUTORIZA A PESQUERA PUNTA ANGAMOS S.A. PARA AMPLIAR ACTIVIDADES
+
+Por resolución N° 54 de 16 de Enero de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la Resolución N° 327, de 1985, de esta Subsecretaría, que autorizó a Pesquera Punta Angamos S.A., R.U.T. N° 94.054.000-8, domiciliada en Santiago, para ampliar actividades pesqueras en orden a señalar las actuales características náuticas de las dos embarcaciones a que se refiere el numeral 2° de dicha resolución. Se autoriza a la peticionaria para ampliar actividades pesqueras en el sentido de extender la zona de operación de las embarcaciones señaladas precedentemente al litoral de la III Región. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 16 de Enero de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca
