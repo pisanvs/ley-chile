@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.550, de 3 de diciembre de 1998, se expropió el lote de terreno Nº1, superficie 90.560 m²., rol de avalúo 90213-1, comuna de Curacautín, para la obra camino Ruta R - 89, Victoria - Curacautín - Paso P. Hachado, Sector Túnel Las Raíces y se acordó precio de indemnización con su propietario Empresa de Ferrocarriles del Estado, ascendente a la cantidad de $8.549.026.304.-
+
+Fiscal del Ministerio de Obras Públicas.
