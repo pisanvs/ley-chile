@@ -1,0 +1,1 @@
+Agrega inciso al artículo 4° de la ley 11.520, de 6 de mayo de 1954, que autorizó a la Municipalidad de Traiguén para contratar uno o más empréstitos para destinarlos a la finalidad que señala.
