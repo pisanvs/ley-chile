@@ -1,0 +1,5 @@
+Por resolución Nº966, de 9 de julio de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, modifícase la resolución Nº655, de 7 de mayo de 1998, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO (IFOP), para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Estudio biológico pesquero de los recursos Tawera y Culengue en la X Región'', en el sentido que se indica:
+
+El numeral 3º de la resolución citada en Visto, se modifica en el sentido que la fecha de entrada en vigencia será la de la presente resolución; asimismo se modifica el numeral 4º en la parte que se refiere al área de operaciones de pesca respecto del recurso Tawera gayi (Juliana), el que se reemplaza por el de Canal Caucahue, Estero Tubildad (42°10' S; 73°30' W).
+
+Valparaíso, 9 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
