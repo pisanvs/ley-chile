@@ -1,0 +1,3 @@
+Por decreto MOP Nº 465, de 28 de febrero de 2002, se expropió el lote de terreno Nº 12, superficie 557 m2., rol de avalúo 680-116, comuna de El Tabo, para la obra Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Acceso a El Tabo Kms. 0.000,00 al 3.822,00, Quinta Región y se acordó el valor de indemnización con su propietario Aliro Gastón Libuy Bustamante, ascendente a la cantidad de $2.974.056.- para el lote Nº 12.
+
+Fiscal del Ministerio de Obras Públicas.
