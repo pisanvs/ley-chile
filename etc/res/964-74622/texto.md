@@ -1,0 +1,3 @@
+Por Resolución Nº 964, de 4 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95106019, presentada por CULTIVOS YADRAN S.A., para un centro de cultivo ubicado en canal Laitec, comuna de Quellón, provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos Nº 78º y Nº 87º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
