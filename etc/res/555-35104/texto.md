@@ -1,0 +1,3 @@
+Por Resolución N° 555, de 3 de Junio de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución que se indica, en virtud de lo prescrito en el artículo 6° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción: Resolución N° 226, de 1991, de esta Subsecretaría, que autorizó a FERNANDEZ, MERCADO Y CIA. LIMITADA, R.U.T. N° 86.163.900-7, domiciliada en Regimiento Coquimbo 210, ciudad de Coquimbo, para ampliar actividades de procesamiento autorizadas para la planta industrial autorizada por Resolución N° 374, de 1982, de esta Subsecretaría.
+
+Valparaíso, 3 de Junio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
