@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.412, de 29 de noviembre de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº203111339 presentada por SERVICIOS MARITIMOS OXXEAN SOCIEDAD ANONIMA, para instalar y operar un centro de cultivo ubicado en Estero Cupquelan, lado norte de Ventisquero San Rafael (sector 1), XI Región.
+
+Valparaíso, 29 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
