@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 110, de 18 de Abril de 1985, se expropió el lote Nº 1, para Recintos Planta y Estanques Agua Potable de Curanipe, que figura a nombre de Sucesión Vicente Leal Leal, superficie 4.800 m2., rol de avalúo 295-3, comuna de Pelluhue, VII Región. La Comisión de Peritos compuesta por los señores Emilio Kort Micaly, Renato Guerra Estévez y René Ramírez Valenzuela, fijó con fecha 02 de Mayo de 1984, el valor provisional de la indemnización en la cantidad de $ 144.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
