@@ -1,0 +1,3 @@
+Por Resolución No. 237 de fecha 27 de Julio de 1989, conforme artículo 51 No. 16391 de 1965 y DS No. 181 de 1988 de Vivienda y Urbanismo SERVIU IX Región dispuso expropiación inmueble ubicado en calle Andrés Bello No. 1182, ciudad Temuco, Rol de Avalúo No. 222-13 inscrito a nombre de María Dreves Cerda a fojas 857 No. 1124, año 1947 Registro de Propiedad Conservador Bienes Raíces de Temuco. Informe Tasación Expropiación fecha 28 de Noviembre de 1988 Comisión Peritos señores José Méndez Manríquez, ingeniero civil, Mario Molina Ramwell, constructor civil, y Pablo Reidel Wanner, arquitecto. Monto provisional indemnización suma $ 3.427.396.- incluido reajuste legal artículo 5° DL No. 2.186 de 1978, pagadero al contado.
+
+Director Regional.
