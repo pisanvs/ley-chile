@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.330, de 11 de mayo de 2004, de esta Subsecretaría, declárase la caducidad de la resolución Nº 2.586 de 2002, de esta Subsecretaría, que autorizó a PESQUERA QUINTERO S.A., para realizar actividades pesqueras extractivas sobre el recurso Reineta, en el área marítima de la I a la III Regiones, de conformidad con lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
