@@ -1,0 +1,3 @@
+Por Resolución N° 1.892, de 20 de Diciembre de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifíquese el numeral 1° de la Resolución N° 1740, de 1995, que modificó la Resolución N° 492, de 1992, ambas de esta Subsecretaría, en el sentido de señalar que el Rol Unico Tributario de PESQUERA COLOMBO S.A., corresponde al N° 96.530.830-K, y no al individualizado en dicha Resolución.
+
+Valparaíso, 20 de Diciembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
