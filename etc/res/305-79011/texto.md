@@ -1,0 +1,3 @@
+Por resolución No. 305, de 06 de Abril de 1992, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se rectifica el numeral segundo de la Resolución No. 104 de 1992, de esta Subsecretaría que autorizó a PESCA CHILE S.A., RUT No. 95.023.000-2 domiciliada en Santiago calle Estado No. 10, oficina 801, para ampliar actividades pesqueras de transformación, en el sentido que donde dice "...Salmón común Clupea bentincki" debe decir "... Sardina común Clupea bentincki".
+
+Valparaíso, 06 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
