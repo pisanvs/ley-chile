@@ -1,0 +1,5 @@
+EXTRACTO DE CANCELACION DE PERSONALIDAD JURIDICA DE ASOCIACION GREMIAL QUE INDICA
+
+Por resolución N° 116, de 5 de Diciembre de 1984, del Ministerio de Economía, Fomento y Reconstrucción, se canceló la personalidad jurídica de la "Asociación Gremial de Trabajadores del Comercio Minorista Establecido en la calle Sangra de Arica", inscrita bajo el N° 1.238, en el Registro de Asociaciones Gremiales, por haberse configurado respecto de ella la causal establecida en el artículo 5° inciso 3 del DL 2.757. Los fondos quedados una vez liquidada la asociación deben ser entregados al Centro de Rehabilitación Especial "CREE" y los bienes muebles e inmuebles deberán ser entregados a la "Inmobiliaria Sangra Nicolasa Altamirano Carriozo en C.P.A.".
+
+Jorge Valenzuela Durán, Coronel de Ejército, Subsecretario de Economía, Fomento y Reconstrucción.
