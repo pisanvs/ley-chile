@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.221, de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº4, superficie 400,0 m2, Rol de Avalúo 397-19, comuna de Pitrufquén, para la obra "Camino Ruta S-65, Sector Pitrufquén-Ñancul, Km. 0,000 al Km. 12,250" y se acordó el valor de indemnización con su propietario Samuel Fierro Villablanca, ascendente a la cantidad de $505.721.-
+
+Fiscal del Ministerio de Obras Públicas.
