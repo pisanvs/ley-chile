@@ -1,0 +1,3 @@
+Por resolución Nº1.799, de 23 de agosto de 2002, modifícase el númeral 4º de la resolución Nº1.312, de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE INVESTIGACION PESQUERA OCTAVA REGION (INPESCA), para efectuar una pesca de investigación de conformidad con los términos Técnicos de Referencia del Proyecto denominado "Delimitación y caracterización de la estructura de las agregaciones de Jurel entre la III y X Regiones", en el sentido de señalar que la pesca de investigación se realizará entre el 25 de junio y el 4 de septiembre de 2002, ambas fechas inclusive.
+
+Valparaíso, 23 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
