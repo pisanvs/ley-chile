@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.740, de 25 de junio de 1999, se expropió el lote de terreno Nº206, superficie 59.450,9 m², rol de avalúo 397-15, comuna de Loncoche, para la obra Concesión Internacional Ruta 5 Tramo Temuco-Río Bueno, Novena Región y se acordó el valor de indemnización con su propietaria Forestal Tornagaleones S.A., ascendente a la cantidad de $30.687.000.-
+
+Fiscal del Ministerio de Obras Públicas.
