@@ -1,0 +1,3 @@
+Por resolución Nº 352 de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97101090 presentada por JUANA DEL CARMEN SOTO MILLALONCO, para instalar y operar un centro de cultivo ubicado en la ribera norte del río Maullín, comuna de Maullín, Provincia de Llanquihue, X Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
