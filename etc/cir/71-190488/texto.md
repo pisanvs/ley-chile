@@ -1,0 +1,5 @@
+EXTRACTO DE CIRCULAR Nº 71, DE 2001
+
+La Dirección Nacional del Servicio de Impuestos Internos ha dictado con fecha 11 de octubre de 2001, la Circular Nº 71 mediante la cual, teniendo presente lo dispuesto en los Nºs. 1 y 2 de la letra A) y en el Nº 1 de la letra B) de artículo 6º del Código Tributario, se instruye sobre el tratamiento que debe darse a las consultas que formulen funcionarios y contribuyentes sobre la aplicación e interpretación de las normas tributarias, regulando entre otras materias, la competencia para absorberlas, la publicidad de las respuestas en su caso, y las normas de coordinación interna. El texto íntegro de esta Circular se encuentra incluido en la página web del Servicio de Impuestos Internos en Internet, cuya dirección es http://www.sii.cl y además se publicará en el Boletín del Servicio del mes de octubre de 2001.-
+
+Javier Etcheberry Celhay, Director.
