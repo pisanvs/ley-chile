@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.529, de 29 de septiembre de 2000, se expropió el lote de terreno Nº58, superficie 180 m², rol de avalúo 5472-7, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Alejandro del Carmen Espinoza López, ascendente a la cantidad de $17.613.108.-
+
+Fiscal del Ministerio de Obras Públicas.
