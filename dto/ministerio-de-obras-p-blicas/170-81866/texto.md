@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 170, de 26 de julio de 1991, se expropiaron los lotes N°s. 4 y 5, superficies 9.311 M2. y 2.115 M2., respectivamente, rol de avalúo 2023-44 Comuna de Melipilla, para la ejecución de la obra Camino Autopista Santiago - San Antonio, sector Melipilla Puangue y se acordó precio de indemnización con su propietario Eugenio Rozas Ossa, ascendente a la suma de $9.394.748.
+
+Fiscal del Ministerio de Obras Públicas.
