@@ -1,0 +1,3 @@
+Por Resolución No. 251, de 11 de Marzo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución No. 1.112, de 1990, de esta Subsecretaría, que autorizó la ASOCIACION GREMIAL DE ALGUEROS, PESCADORES ARTESANALES Y VECINOS DEL SECTOR PUENTE QUILO, R.U.T. No. 71.596.400-7, domiciliada en Ancud, para ampliar actividades pesqueras de cultivo de alga del género Gracilaria, en el sentido de señalar que el vértice E de las coordenadas geográficas que allí se señalan es: "41° 51' 21,01" L.S. 73°59'09,15" W" y no como allí erróneamente se señala.
+
+Valparaíso, 11 de marzo de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
