@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.384, de 31 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Camino Ruta N-69, sector Bulnes - Cruce Ruta N-59, Kms.
+
+9.320 al 19.186,84, que figura a nombre de Pedro Riquelme Orellana, rol de avalúo 542-24, comuna de Bulnes, superficie 421 m2. La comisión de peritos compuesta por los señores José Manuel Gálvez Alegría, Luis Soto Abarca y Luis Abarzúa Ceballos, fijó con fecha 20 de noviembre de 1996, el valor provisional de la indemnización en la cantidad de $631.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
