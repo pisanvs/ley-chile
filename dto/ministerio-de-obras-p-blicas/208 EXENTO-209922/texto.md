@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 208 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs 7 y 8, superficie 20,0 y 86,0 m2 respectivamente, Rol Nº 155-9, comuna de Curarrehue, IX Región para la obra "Camino Catripulli - Curarrehue, Sector Km. 108,20 al Km. 114,80" y se acordó el valor de indemnización con su propietario Benilde del Carmen Manríquez Llancapi, ascendente a la cantidad de $442.117.-
+
+Fiscal del Ministerio de Obras Públicas.
