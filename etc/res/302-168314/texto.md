@@ -1,0 +1,3 @@
+Por resolución No. 302, de 19 de Marzo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 30 días a contar de esta fecha, el plazo otorgado a don VICTOR PATRICIO POBLETE GARRETON, R.U.T. No. 5.039.267-8, domiciliado en la ciudad de Concepción, calle Colcura 835, Llacolén, San Pedro, en el numeral 4° de la Resolución No. 987 de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 19 de marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
