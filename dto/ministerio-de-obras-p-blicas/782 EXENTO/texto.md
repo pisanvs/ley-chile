@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº782, de 31 de mayo de 2002, se expropiaron los lotes de terreno Nº8, 9 y 10, superficies 7.376, 3.029, y 9.341 m2. respectivamente, rol de avalúo Nº591-7, comuna de Ovalle, para la obra ''Camino Ruta D-595 Ovalle - Hurtado, sector Tranque Recoleta - Samo Alto, Km. 9.780,00 a Km. 31.840,00 Etapa I, IV Región y se acordó el valor de indemnización con su propietaria Nelly Ester Fernández López, ascendente a la cantidad de $4.638.840.
+
+Fiscal del Ministerio de Obras Públicas.
