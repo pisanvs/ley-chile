@@ -1,0 +1,3 @@
+Por resolución Nº 1.875, de 28 de agosto de 2000, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.510 de 1996, de esta Subsecretaría, que autorizó a PESQUERA RIQUELME CARTES Y COMPAÑIA LIMITADA, para operar un proyecto de nave en construcción en astilleros Factoría Naval de Marín S.A., en virtud de lo dispuesto en el artículo 143 letra b) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
