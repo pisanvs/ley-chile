@@ -1,0 +1,3 @@
+Por resolución No. 2, de Julio 3 de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región, se autoriza a don Gastón Antonio Campusano Alvarez para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos, incluido el del conductor; de vehículos motorizados de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en calle Ignacio Serrano s/n de la comuna de La Serena.
+
+La Serena, Julio 10 de 1985.- Dante Guerra Tallar, Secretario Regional Ministerial de Transportes y Telecomunicaciones, IV Región de Coquimbo, subrogante.
