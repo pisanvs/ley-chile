@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.173, de 4 de noviembre de 2004, de esta Subsecretaría, autorízase a JAME DEL ROSARIO PIZARRO CORTES, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en punta Salinas kilómetro 50, Chañaral, III Región, donde podrá elaborar en la línea de proceso de Alga Seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 4 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
