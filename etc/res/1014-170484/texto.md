@@ -1,0 +1,3 @@
+Por resolución Nº 1.014, de 5 de junio de 2000, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96101130, presentada por SERGIO GONZALO VELASQUEZ ANDRADE, para operar un centro de cultivo ubicado en el sector de Punta Metri, comuna de Puerto Montt, provincia de Llanquihue, X Región.
+
+Valparaíso, 5 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
