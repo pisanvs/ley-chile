@@ -1,0 +1,3 @@
+Por resolución Nº 1.298, de 18 de junio de 2003, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.950, de 2002, de esta Subsecretaría, que declaró la caducidad parcial de las resoluciones Nº 330, de 1982, Nº 198, de 1985, y Nº 460, de 1987, todas de esta Subsecretaría, sólo en cuanto autorizaron a doña MARIA BAYCIC BAYCIC para operar la nave "Don Mario" entre la III y IV Regiones, con arrastre, sobre el recurso Langostino amarillo, en cumplimiento de la resolución exenta Nº 31, de fecha 24 de marzo de 2003, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
