@@ -1,0 +1,3 @@
+Por resolución Nº 2.277 de 18 de octubre de 2000 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Puerto Sur, VIII Región, individualizada en el artículo 1º) Nº 23 del D.S. Nº 729 de 1997, del Ministerio de Economía, Fomento y Reconstrucción presentado por la Cooperativa de Pescadores Pelilleros, Isla Santa María Limitada.
+
+Valparaíso, 18 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
