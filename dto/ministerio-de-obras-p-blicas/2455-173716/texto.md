@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.455, de 30 de mayo del 2000, se expropió el lote de terreno Nº25, superficie 243 m², rol de avalúo 3800-251, comuna de Puente Alto, para la obra Mejoramiento Eje La Florida, El Peñón-Las Vizcachas, Sector Km. 6.980 a Km. 10.340. Camino Ruta G-25 Camino Puente Alto y se acordó precio de la indemnización con su propietario Luis Osvaldo Ibáñez Martínez, ascendente a la cantidad de $12.399.836.
+
+Fiscal del Ministerio de Obras Públicas.
