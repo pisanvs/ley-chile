@@ -1,0 +1,7 @@
+Por Resolución No. 1.439 de 20 de Noviembre de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA FRIOSUR S.A., R.U.T.
+
+No. 86.577.500-8, domiciliada en Puerto Chacabuco, para ampliar las actividades pesqueras autorizadas por Resolución No. 922, de 1989 de esta Subsecretaría en la forma y bajo las condiciones que a continuación se señalan. Autorízase a Pesquera Friosur S.A., para realizar un proyecto de pesca exploratoria, con la nave factoría Friosur V, teniendo como especie objetivo, el recurso hidrobiológico bacalao de profundidad Dissostichus eleginoides. El proyecto tiene por objeto conocer la distribución espacial de la abundancia y la estimación de los parámetros de crecimiento del recurso bacalao de profundidad, en el área de mar exterior localizada al sur del paralelo 56° L.S. La duración del proyecto que por la presente Resolución se autoriza, es de seis meses, a contar de la fecha de esta publicación.
+
+Fíjase cómo zona de operación la comprendida al sur del paralelo 56° L.S. (sur del Cabo de Hornos), por fuera de las líneas de base recta, y el área de la convergencia Antártica al sur del paralelo 60° L.S. En esta última zona, se deberá efectuar al menos el 30% del total de los lances de pesca. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 20 de Noviembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
