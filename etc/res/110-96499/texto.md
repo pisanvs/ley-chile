@@ -1,0 +1,5 @@
+Por Resolución No. 110, de 29 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la autorización solicitada por doña MARIA ERNESTINA ALMONACID ALMONACID, R.U.T. No.
+
+5.836.322-7, domiciliada en Changue, Correo de Maullín, para prorrogar el plazo de publicación a que se refiere el numeral 4° de la Resolución No. 686, de 1990 de esta Subsecretaría, de acuerdo a lo dispuesto en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción. Se caduca, en mérito a lo antes señalado, la Resolución No. 686, antes citada, de conformidad a lo establecido en el artículo 6° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
