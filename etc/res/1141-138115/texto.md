@@ -1,0 +1,3 @@
+Por resolución Nº 1.141, de 16 de junio de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 588 de 1991 y Nº 166 de 1994, ambas de esta Subsecretaría, que autorizaron a AGUSTINA DE LAS MERCEDES MONTELLANO PAEZ, para instalar y operar el centro de cultivo ubicado en Punta Fernández, Bahía Inglesa, comuna de Caldera, provincia de Copiapó, III Región.
+
+Valparaíso, 16 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
