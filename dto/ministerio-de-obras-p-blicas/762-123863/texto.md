@@ -1,0 +1,3 @@
+Por decreto MOP No. 762, de 29 de mayo de 1998, se expropió el lote de terreno No. 2, superficie 345 m2, rol de avalúo 2204-9, comuna de Chillán, para la obra Ampliación Segunda Calzada Ruta 5 Sur, sector By Pass Chillán-Rucapequén, y se acordó el valor de indemnización con su propietaria María Bernarda Villouta Cartes, ascendente a la cantidad de $ 1.573.873.-
+
+Fiscal del Ministerio de Obras Públicas.
