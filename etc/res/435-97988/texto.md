@@ -1,0 +1,3 @@
+Por resolución Nº435, de 6 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a INVERTEC SEAFOOD S.A., para continuar desarrollando las actividades pesqueras de transformación autorizadas a Antarfrío S.A., mismo RUT y domicilio, por resoluciones Nº212, de 1991 y Nº250, de 1993, ambas de esta Subsecretaría, con el mérito de la escritura pública.
+
+Valparaíso, 6 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
