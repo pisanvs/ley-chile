@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.187 de fecha 31 de julio del 2002, se expropió el lote de terreno Nº 3, superficie 153 m², Rol Nº 850-38, comuna de Alto del Carmen, III Región para la obra ''Construcción Puente Ramadilla, Ruta C-495, Sector Juntas del Carmen, Km. 0,12300 al 0,26000'' y se acordó el valor de indemnización con su propietario Luis Alfonso Paredes Campillay, ascendente a la cantidad de $861.322.-
+
+Fiscal del Ministerio de Obras Públicas.
