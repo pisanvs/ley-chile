@@ -1552,7 +1552,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 350 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 260 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 422 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 314 pesos.
 
 #### Artículo 199
 
@@ -2320,11 +2320,17 @@ El secretario abogado del Fiscal de la Corte Suprema será designado a propuesta
 
 #### Artículo 287
 
-La terna para el nombramiento de notarios, Conservadores y Archiveros de las tres primeras categorías se formará con el funcionario más antiguo de la misma serie de la categoría inmediatamente inferior que se oponga al concurso y con dos funcionarios de esa categoría o de la misma categoría del cargo que se trata de proveer, también de la misma serie.
+Las ternas para proveer los cargos de notario, conservador y archivero de las dos primeras categorías se formarán del modo siguiente:
 
-Podrán figurar funcionarios de la misma serie de la categoría subsiguiente, siempre que tengan más de 10 años de antigüedad en el grado.
+a) En uno de los lugares figurará un notario, conservador o archivero de la misma categoría o de la inmediatamente inferior;
 
-A falta de opositores que reúnan los requisitos que preceden, la terna se formará con otros funcionarios de la misma serie y categorías inmediatamente inferior y subsiguientes señaladas; en su defecto, con abogados.
+b) En el otro un funcionario de las tres primeras categorías del escalafón primario, y
+
+c) En el tercero, otro notario o un abogado.
+
+Cuando se trate de proveer cargos de notario, conservador o archivero de la tercera categoría, un lugar de la terna será asignado a un funcionario de la misma categoría, o de la inmediatamente inferior, en ambos casos de la primera serie, otro a un funcionario de las seis primeras categorías del escalafón primario con más de cinco años de antigüedad y el tercero a otro notario o a un abogado.
+
+En los concursos a que se refieren los incisos anteriores, a falta de opositores que reúnan los requisitos señalados, la terna se formará con abogados.
 
 No podrán ser incluidos en ternas o propuestas para cargos de notarios o conservadores de bienes raíces, de ninguna categoría, los miembros y fiscales de las Cortes de Apelaciones a cuya jurisdicción pertenezcan los cargos que se trata de proveer.
 
@@ -3160,49 +3166,51 @@ El litigante rebelde sólo podrá comparecer ante estos últimos tribunales repr
 
 #### Artículo 399
 
-Los notarios son ministros de fe pública encargados de redactar, autorizar y guardar en su archivo los instrumentos que ante ellos se otorgaren, de dar a las partes interesadas los testimonios que pidieren, y de practicar las demás diligencias que la ley les recomiende.
+Los notarios son ministros de fe pública encargados de autorizar y guardar en su archivo los instrumentos que ante ellos se otorgaren, de dar a las partes interesadas los testimonios que pidieren, y de practicar las demás diligencias que la ley les encomiende.
 
 #### Artículo 400
 
-En cada departamento de la República habrá, por lo menos, un Notario, y los demás que el Presidente de la República determine, previo informe favorable de la respectiva Corte de Apelaciones y habida consideración a las necesidades del servicio público y a la población del respectivo departamento.
+En cada departamento de la República habrá, por lo menos, un notario, y los demás que el Presidente de la República determine, previo informe de la respectiva Corte de Apelaciones y habida consideración a las necesidades del servicio.
 
-Sin embargo, en aquellos departamentos formados por más de una comuna, el Presidente de la República, previo informe favorable de la respectiva Corte de Apelaciones, podrá crear notarías para una o más de dichas comunas, cuyos titulares deberán establecer sus oficios dentro del territorio que se fije para dichas notarías.
+En aquellos departamentos formados por más de una comuna, el Presidente de la República, previo informe de la respectiva Corte de Apelaciones, podrá crear notarías disponiendo que los titulares establezcan sus oficios dentro del territorio de una de esas comunas. Estos notarios, al igual que los nombrados para el departamento, podrán ejercer sus funciones dentro de todo el territorio departamental.
 
-Corresponderá asimismo al Presidente de la República fijar, en el decreto de creación de dichas notarías, la categoría que se asignará al cargo respectivo, previo informe de la respectiva Corte de Apelaciones.
+El Presidente de la República, en el decreto de creación de dichas notarías, establecerá la categoría que se asignará al cargo.
 
-Para la creación de nuevas notarías, será preciso que el departamento, agrupación de comunas o comunas correspondientes, tengan una población superior a cuarenta mil habitantes, no pudiendo haber más de un notario por cada porción de dicho número de habitantes.
-
-Ningún notario podrá ejercer sus funciones fuera del departamento, agrupación de comunas o comuna para que hubiere sido nombrado. En el caso del inciso segundo, los demás notarios sólo podrán ejercerlas en el resto del territorio departamental.
-
-Lo dispuesto en los incisos precedentes es sin perjuicio de lo prescrito en los artículos 43 y 44.
+Ningún notario podrá ejercer sus funciones fuera del respectivo departamento.
 
 #### Artículo 401
 
 Son funciones de los notarios:
 
-1°) Extender los instrumentos públicos con arreglo a las instrucciones que, de palabra o por escrito, les dieren las partes otorgantes;
+1.- Extender los instrumentos públicos con arreglo a las instrucciones que, de palabra o por escrito, les dieren las partes otorgantes;
 
-2°) Levantar inventarios solemnes;
+2.- Levantar inventarios solemnes;
 
-3°) Protestar letras de cambio;
+3.- Efectuar protestos de letras de cambio y demás documentos mercantiles;
 
-4°) Notificar los traspasos de acciones y constituciones y notificaciones de prenda que se les solicitaren;
+4.- Notificar los traspasos de acciones y constituciones y notificaciones de prenda que se les solicitaren.
 
-5°) Asistir a las juntas generales de accionistas de sociedades anónimas, para los efectos que la ley o reglamento de ellas lo exigieren;
+5.- Asistir a las juntas generales de accionistas de sociedades anónimas, para los efectos que la ley o reglamento de ellas lo exigieren;
 
-6°) En general, dar fe de los actos para que fueren requeridos y que no estuvieren expresamente encomendados a otros funcionarios;
+6.- En general, dar fe de los hechos para que fueren requeridos y que no estuvieren encomendados a otros funcionarios;
 
-7°) Guardar y conservar en riguroso orden cronológico los instrumentos que ante ellos se otorguen, en forma de precaver todo extravío y hacer fácil y expedito su examen;
+7.- Guardar y conservar en riguroso orden cronológico los instrumentos que ante ellos se otorguen, en forma de precaver todo extravío y hacer fácil y expedito su examen;
 
-8°) Dar a las partes interesadas los testimonios o certificados que pidan, de los actos que ante ellos se celebren;
+8.- Otorgar certificados o testimonios de los actos celebrados ante ellos o protocolizados en sus registros;
 
-9°) Facilitar a cualquiera persona que lo solicite, el examen de los instrumentos públicos que ante ellos se otorguen; y
+9.- Facilitar, a cualquiera persona que lo solicite, el examen de los instrumentos públicos que ante ellos se otorguen y documentos que protocolicen;
 
-10) Las demás que les encomienden las leyes.
+10.- Autorizar las firmas que se estampen en documentos privados, sea en su presencia o cuya autenticidad conste;
+
+11.- Las demás que les encomienden las leyes.
 
 #### Artículo 402
 
-Cuando un notario faltare o se inhabilitare para el ejercicio de sus funciones, el juez de letras respectivo de turno, designará al abogado que haya de reemplazarle, mientras dura el impedimento o estuviere sin proveerse el cargo.
+Cuando un notario se ausentare o inhabilitare para el ejercicio de sus funciones, el juez de letras respectivo de turno, designará al abogado que haya de reemplazarle, mientras dure el impedimiento o estuviere sin proveerse el cargo.
+
+En los lugares de asiento de Corte de Apelaciones la designación de reemplazante corresponderá al Presidente de ella.
+
+En ambos casos y siempre que no se trate de la aplicación de medidas disciplinarias que provoquen la inhabilidad del notario, éste podrá proponer al juez, el abogado que deba reemplazarlo bajo su responsabilidad.
 
 2). De las escrituras públicas
 
@@ -3212,63 +3220,81 @@ Escritura pública es el instrumento público o auténtico otorgado con las sole
 
 #### Artículo 404
 
-Las escrituras públicas deben escribirse en idioma castellano y estilo claro y preciso, y en ellas no podrán emplearse abreviaturas, cifras ni otros signos que los caracteres de uso corriente.
+Las escrituras públicas deben escribirse en idioma castellano y estilo claro y preciso y en ellas no podrán emplearse abreviaturas, cifras ni otros signos que los caracteres de uso corriente, ni contener espacios en blanco.
+
+Podrán emplearse también palabras de otro idioma que sean generalmente usadas o como término de una determinada ciencia o arte.
+
+El notario deberá inutilizar, con su firma y sello, el reverso no escrito de las hojas en que se contenga una escritura pública o de sus copias.
 
 #### Artículo 405
 
-Toda escritura pública debo ser otorgada ante notario y dos testigos, vecinos del departamento, que sepan leer y escribir y capaces de darse cuenta del acto o contrato que se celebra.
+Las escrituras públicas deberán otorgarse ante notario y podrán ser extendidas manuscritas, mecanografiadas o en otra forma que leyes especiales autoricen. Deberán indicar el lugar y fecha de su otorgamiento; la individualización del notario autorizante y el nombre de los comparecientes, con expresión de su nacionalidad, estado civil, profesión, domicilio y cédula de identidad, salvo en el caso de extranjeros y chilenos radicados en el extranjero, quienes podrán acreditar su identidad con el pasaporte o con el documento de identificación con que se les permitió su ingreso al país.
 
-En ella el notario deberá dejar constancia de conocer a los otorgantes, o de habérsele acreditado su identidad con la cédula personal respectiva, cuyos datos se insertarán en la escritura; o con la aserción firmada en el mismo registro, de dos testigos honorables, conocidos del notario, vecinos del departamento y hábiles para testificar.
+Además, el notario al autorizar la escritura indicará el número de anotación que tenga en el repertorio, la que se hará el día en que sea firmada por el primero de los otorgantes.
+
+El reglamento fijará la forma y demás características que deben tener los originales de escritura pública y sus copias.
 
 #### Artículo 406
 
-Los testigos deberán estar presentes con los otorgantes al momento de la firma; y suscribirán la escritura inmediatamente después de aquéllos, autorizándola el notario a continuación.
+Las escrituras serán rubricadas y selladas en todas sus fojas por el notario.
+
+Carecerá de valor el retiro unilateral de la firma estampada en el instrumento, si éste ya lo hubiere suscrito otro de los otorgantes.
 
 #### Artículo 407
 
-Cualquiera de las partes podrá exigir al notario que, previamente, lea la escritura en alta voz; pero, si todos los otorgantes están de acuerdo en omitir esta formalidad, leyéndola ellos mismos, podrá procederse así.
+Cualquiera de las partes podrá exigir al notario que antes de firmarla, lea la escritura en alta voz, pero si los otorgantes están de acuerdo en omitir esta formalidad, leyéndola ellos mismos, podrá procederse así.
 
 #### Artículo 408
 
-Si alguno de los comparecientes o todos ellos no supieren o no pudieren firmar, lo hará a su ruego uno de los testigos o de los otorgantes que no tenga un interés contrario, según el texto de la escritura, o una tercera persona, debiendo los que no firmen poner junto a la del que la hubiere firmado a su ruego, la impresión del pulgar de su mano derecha o, en su defecto, el de la izquierda. Si no pudiere hacerlo con ninguno de esos dedos, lo hará con cualquiera de los otros. El notario dejará constancia de este hecho o de la imposibilidad absoluta de efectuarlo.
+Si alguno de los comparecientes o todos ellos no supieren o no pudieren firmar, lo hará a su ruego uno de los otorgantes que no tenga interés contrario, según el texto de la escritura, o una tercera persona, debiendo los que no firmen poner junto a la del que la hubiere firmado a su ruego, la impresión del pulgar de la mano derecha o, en su defecto, el de la izquierda. El notario dejará constancia de este hecho o de la imposibilidad absoluta de efectuarlo.
+
+Se considera que una persona firma una escritura o documento no sólo cuando lo hace por sí misma, sino también en los casos en que supla esta falta en la forma establecida en el inciso anterior.
 
 #### Artículo 409
 
-Siempre que alguno de los otorgantes lo exija, los firmantes dejarán su impresión digital, en la forma indicada en el artículo anterior.
+Siempre que alguno de los otorgantes o el notario lo exijan, los firmantes dejarán su impresión digital en la forma indicada en el artículo anterior.
 
 #### Artículo 410
 
-Toda escritura pública deberá comenzar expresando el lugar y fecha de su otorgamiento, el nombre del notario que la autoriza y el de los comparecientes, con expresión de su nacionalidad, estado civil, profesión y domicilio.
+No será obligatorio insertar en la escritura documentos de ninguna especie, a menos que alguno de los otorgantes lo requiera.
+
+Si en virtud de una ley debe insertarse en la escritura determinado documento, se entenderá cumplida esta obligación con su exhibición al notario, quien dejará constancia de este hecho antes o después de la firma de los otorgantes indicando la fecha y número del documento, si los tuviere, y la autoridad que lo expidió; y el documento será agregado al final del protocolo.
 
 #### Artículo 411
 
-Serán nulas las adiciones, apostillas, entre renglonaduras, raspaduras o enmendaturas en las escrituras matrices, que no aparezcan salvadas al final y antes de las firmas de los que las suscriban.
+Se tendrán por no escritas las adiciones, apostillas, entre renglonaduras, raspaduras o enmendaduras u otra alteración en las escrituras originales que no aparezcan salvadas al final y antes de las firmas de los que las suscriban.
+
+Corresponderá al notario, salvar las adiciones, apostillas, entre renglonaduras, raspaduras o enmendaduras u otra alteración en las escrituras originales.
 
 #### Artículo 412
 
-Serán, igualmente, nulas las escrituras públicas:
+Serán nulas las escrituras públicas:
 
-1°) Que contengan disposiciones a favor del notario que las autorice, de su cónyuge, ascendientes, descendientes o hermanos;
+1.- Que contengan disposiciones o estipulaciones a favor del notario que las autorice, de su cónyuge, ascendientes, descendientes o hermanos, y
 
-2°) En que sean testigos el cónyuge, ascendientes o descendientes de alguno de los otorgantes;
-
-3°) Y aquéllas en que el notario no dé fe del conocimiento de los otorgantes, o no supla esta diligencia en la forma establecida en el artículo 405, o en que no aparezcan las firmas de las partes y testigos que deban hacerlo y la del notario.
+2.- Aquéllas en que los otorgantes no hayan acreditado su identidad en alguna de las formas establecidas en el artículo 405, o en que no aparezcan las firmas de las partes y del notario.
 
 #### Artículo 413
 
-Se considera que una persona firma una escritura o documento, no sólo cuando lo hace por sí misma, en la forma corriente, sino también en los casos en que no sabiendo o no pudiendo hacerlo, supla esta falta en la forma establecida en el artículo 408.
+Las escrituras de constitución, modificación, resciliación o liquidación de sociedades, de liquidación de sociedades conyugales, de partición de bienes, escrituras constitutivas de personalidad jurídica, de asociaciones de canalistas, cooperativas, contratos de transacciones y contratos de emisión de bonos de sociedades anónimas, sólo podrán ser extendidas en los protocolos notariales sobre la base de minutas firmadas por algún abogado.
+
+Asimismo, el notario dejará constancia en las escrituras del nombre del abogado redactor de la minuta. La omisión de esta exigencia no afectará la validez de la escritura.
+
+Las obligaciones establecidas en los incisos anteriores no regirán en los lugares donde no hubiere abogados en un número superior a tres.
+
+El notario autorizará las escrituras una vez que éstas estén completas y hayan sido firmadas por todos los comparecientes.
 
 #### Artículo 414
 
-En cuanto al otorgamiento de testamentos, se estará a lo establecido al respecto en el Código Civil, debiendo el notario dejar constancia de la hora y lugar en que se otorguen.
+En cuanto al otorgamiento de testamento, se estará a lo establecido al respecto en el Código Civil, debiendo el notario dejar constancia de la hora y lugar en que se otorgue. La identidad del testador deberá ser acreditada en la forma establecida en el artículo 405. No regirá esta exigencia cuando, a juicio del notario, circunstancias calificadas así lo aconsejen.
 
 3). De las protocolizaciones
 
 #### Artículo 415
 
-Protocolización es el hecho de agregar un documento al final del registro de un notario, a pedido de parte interesada.
+Protocolización es el hecho de agregar un documento al final del registro de un notario, a pedido de quien lo solicita.
 
-Para que la protocolización surta efecto legal, deberá dejarse constancia en el registro, del día en que se efectúe, con un certificado firmado por los solicitantes, en que especifiquen el contenido del documento que protocolizan, con sus indicaciones más esenciales para individualizarlo, y número de páginas y fecha, certificación que suscribirán también el notario y testigos.
+Para que la protocolización surta efecto legal deberá dejarse constancia de ella en el libro repertorio el día en que se presente el documento, en la forma establecida en el artículo 430.
 
 #### Artículo 416
 
@@ -3276,31 +3302,33 @@ No pueden protocolizarse, ni su protocolización producirá efecto alguno, los d
 
 #### Artículo 417
 
-La protocolización de testamentos cerrados, orales o privilegiados ordenada por los jueces y la de los otorgados fuera del registro del notario, deberá hacerse insertando su contenido íntegramente en el registro del día en que se efectúe y agregando su original al fin del protocolo respectivo con todos los antecedentes que lo acompañen.
+La protocolización de testamentos cerrados, orales o privilegiados, ordenada por los jueces y la de los otorgados fuera del registro del notario, deberán hacerse agregando su original al protocolo con los antecedentes que lo acompañen.
+
+Para protocolizar los testamentos será suficiente la sola firma del notario en el libro repertorio.
 
 #### Artículo 418
 
-El documento protocolizado sólo podrá ser desglosado del protocolo en virtud de decreto judicial, consultando a la Corte respectiva.
+El documento protocolizado sólo podrá ser desglosado del protocolo en virtud de decreto judicial.
 
 #### Artículo 419
 
-Sin perjuicio de lo dispuesto en el artículo 1,703 del Código Civil, la fecha de un instrumento privado se contará respecto de terceros desde su protocolización con arreglo al presente Código.
+Sin perjuicio de lo dispuesto en el artículo 1703 del Código Civil, la fecha de un instrumento privado se contará respecto de terceros desde su anotación en el repertorio con arreglo al presente Código.
 
 #### Artículo 420
 
 Una vez protocolizados, valdrán como instrumentos públicos:
 
-1°) Los testamentos cerrados y abiertos en forma legal;
+1.- Los testamentos cerrados y abiertos en forma legal;
 
-2°) Los testamentos solemnes abiertos que se otorguen en hojas sueltas, siempre que su protocolización se haya efectuado a más tardar, dentro del primer día siguiente hábil al de su otorgamiento;
+2.- Los testamentos solemnes abiertos que se otorguen en hojas sueltas, siempre que su protocolización se haya efectuado a más tardar, dentro del primer día siguiente hábil al de su otorgamiento;
 
-3°) Los testamentos menos solemnes o privilegiados que no hayan sido autorizados por notario, previo decreto del juez competente;
+3.- Los testamentos menos solemnes o privilegiados que no hayan sido autorizados por notario, previo decreto del juez competente;
 
-4°) Los protestos de letras y las actas de ofertas de pago; y
+4.- Las actas de ofertas de pago; y
 
-5°) Los instrumentos otorgados en el extranjero, las transcripciones y traducciones efectuadas por el intérprete oficial o peritos nombrados al efecto por el juez competente y debidamente legalizadas que hayan servido para otorgar escrituras en Chile.
+5.- Los instrumentos otorgados en el extranjero, las transcripciones y las traducciones efectuadas por el intérprete oficial o los peritos nombrados al efecto por el juez competente y debidamente legalizadas, que sirvan para otorgar escrituras en Chile.
 
-4). De las copias de escrituras públicas y documentos
+4). De las copias de escrituras públicas y documentos protocolizados y de los documentos privados.
 
 #### Artículo 421
 
@@ -3308,21 +3336,23 @@ Sólo podrán dar copias autorizadas de escrituras públicas o documentos protoc
 
 #### Artículo 422
 
-Las copias podrán ser manuscritas, dactilografiadas, impresas, litografiadas, fotografiadas o fotograbadas en ellas deberá expresarse si son primeras o segundas copias, y se estampará el signo o sello del notario autorizante.
+Las copias podrán ser manuscritas, dactilografiadas, impresas, fotocopiadas, litografiadas o fotograbadas. En ellas deberá expresarse que son testimonio fiel de su original y llevarán la fecha, la firma y sello del funcionario autorizante. El notario deberá otorgar tantas copias cuantas se soliciten.
 
 #### Artículo 423
 
-Sólo podrá otorgarse una primera copia u original, que será la única con mérito ejecutivo.
+Los notarios no podrán otorgar copia de una escritura pública mientras no se hayan pagado los impuestos que correspondan.
 
-Sin embargo, en los contratos en que dos o más partes tengan derecho a ejercitar acciones recíprocas o diversas para el cumplimiento de obligaciones de la misma índole, el notario deberá dar cuantas primeras copias sean necesarias, expresando en cada una el nombre de la parte a quien la diere como segundo original.
+Esta misma norma se aplicará a los documentos protocolizados.
 
 #### Artículo 424
 
-No obstante lo dispuesto en el artículo anterior, si una parte hubiere extraviado el original de su escritura, podrá pedir al juez correspondiente que ordene al notario dar un segundo original con el mérito del primero y previa citación de la persona a quien deba perjudicar o de su causante; y corridos los trámites legales, el juez mandará expedir la copia solicitada, en la que el notario dejará constancia de la forma en que ha sido extendida.
+Derogado.
 
 #### Artículo 425
 
-Se prohibe a los notarios otorgar segundas copias cuando no hubiere sido extendida la primera.
+Los notarios podrán autorizar las firmas que se estampen en documentos privados, siempre que den fe del conocimiento o de la identidad de los firmantes y dejen constancia de la fecha en que se firman. Se aplicará también en este caso la regla del artículo 409.
+
+Los testimonios autorizados por el notario, como copias, fotocopias o reproducciones fieles de documentos públicos o privados, tendrán valor en conformidad a las reglas generales.
 
 5). De la falta de fuerza legal de las escrituras, copias y testimonios notariales
 
@@ -3330,29 +3360,21 @@ Se prohibe a los notarios otorgar segundas copias cuando no hubiere sido extendi
 
 No se considerará pública o auténtica la escritura:
 
-1°) Que fuese autorizada por persona que no sea notario, o por notario incompetente, suspendido o inhabilitado en forma legal;
+1.- Que no fuere autorizada por persona que no sea notario, o por notario incompetente, suspendido o inhabilitado en forma legal;
 
-2°) Que no esté en el protocolo o se escriba en alguno que no pertenezca al notario autorizante o al de quien esté subrogando legalmente;
+2.- Que no esté incorporada en el protocolo o que éste no pertenezca al notario autorizante o al de quien esté subrogando legalmente.
 
-3°) En que no conste la designación exacta y única del día, mes y año; o de la hora y sitio de su otorgamiento si se trata de un testamento;
+3.- En que no conste la firma de los comparecientes o no se hubiere salvado este requisito en la forma prescrita en el artículo 408;
 
-4°) En que no conste la firma de los comparecientes o no se hubiere salvado este requisito en la forma prescrita en el art. 408;
+4.- Que no esté escrita en idioma castellano;
 
-5°) En que sean testigos personas a quienes afecten las incapacidades establecidas en el presente párrafo;
+5.- Que en las firmas de las partes o del notario o en las escrituras manuscritas, no se haya usado tinta fija, o de pasta indeleble, y
 
-6°) En que el notario hubiere omitido suplir el conocimiento de los comparecientes por medio de testigos, o dejar constancia de haberse exhibido la correspondiente cédula de identidad personal;
-
-7°) Que no esté en idioma castellano;
-
-8°) En que aparezcan estipulaciones a favor del notario autorizante o de sus parientes hasta el cuarto grado de consanguinidad y segundo de afinidad;
-
-9°) En que el notario no haya usado tinta fija o indeleble o que haya dactilografiado o impreso en su protocolo;
-
-10) Que no se firme dentro de los sesenta días siguientes a su otorgamiento.
+6.- Que no se firme dentro de los sesenta días siguientes de su fecha de anotación en el repertorio.
 
 #### Artículo 427
 
-Los notarios sólo podrán dar copia íntegra de la escritura o documentos protocolizados, salvo los casos en que la ley ordene otra cosa, o que por decreto judicial se le ordene certificar sobre parte de ellos.
+Los notarios sólo podrán dar copias íntegras de las escrituras o documentos protocolizados, salvo los casos en que la ley ordene otra cosa, o que por decreto judicial se le ordene certificar sobre parte de ellos.
 
 #### Artículo 428
 
@@ -3362,83 +3384,117 @@ Las palabras que en cualquier documento notarial aparezcan interlineadas, enmend
 
 #### Artículo 429
 
-Todo notario deberá formar un protocolo en el papel que la correspondiente ley determine, en cuadernillos enteros de cinco pliegos cada uno, metido un pliego dentro del otro, de manera que la primera foja del cuadernillo sea la mitad del pliego cuya otra mitad corresponda a la décima foja del mismo; y que ordenará por riguroso orden de fecha del otorgamiento de las escrituras que en él se inserten, debiendo numerar cada foja en su parte superior con las letras y números, numerando y rotulando cada escritura al margen y a la altura de su comienzo, no pudiendo dejar entre escritura y escritura más espacio en blanco que el indispensable para las firmas de los otorgantes, notario y testigos.
+Todo notario deberá llevar un protocolo, el que se formará insertando las escrituras en el orden numérico que les haya correspondido en el repertorio.
 
-Los protocolos deberán empastarse, a lo menos, cada dos meses, no pudiendo formarse con más de quinientas fojas cada uno.
+A continuación de las escrituras se agregarán los documentos a que se refiere el artículo 415, también conforme al orden numérico asignado en el repertorio.
 
-Cada protocolo se iniciará con un certificado del notario en que exprese la fecha en que lo inicie con indicación del período de tiempo que comprenderá, enunciación del contrato o escritura y nombre de los otorgantes de la con que principia.
+Los protocolos deberán empastarse, a lo menos, cada dos meses, no pudiendo formarse cada libro con más de quinientas fojas, incluidos los documentos protocolizados, que se agregarán al final en el mismo orden del repertorio. Cada foja se numerará en su parte superior con letras y números.
+
+En casos calificados, los notarios podrán solicitar de la Corte de Apelaciones respectiva autorización para efectuar los empastes por períodos superiores, siempre que no excedan de un año.
+
+Cada protocolo llevará, además, un índice de las escrituras y documentos protocolizados que contenga, y en su confección se observará lo dispuesto en el inciso tercero del artículo 431. Se iniciará con un certificado del notario en que exprese la fecha en que lo inicie, enunciación del respectivo contrato o escritura y nombre de los otorgantes de la escritura con que principia.
+
+Transcurridos dos meses, desde la fecha de cierre del protocolo, el notario certificará las escrituras que hubieren quedado sin efecto por no haberse suscrito por todos los otorgantes. Este certificado se pondrá al final del protocolo indicando el número de escrituras y documentos que contiene y la enunciación de las que hayan quedado sin efecto.
 
 #### Artículo 430
 
-Transcurridos dos meses desde la fecha de la última escritura extendida en el protocolo, el notario dejará sin efecto las que no hubieren sido suscritas por todos los otorgantes y pondrá un certificado al fin del protocolo indicando el número de escrituras que contiene y la enunciación de las que hayan quedado sin efecto.
+Todo notario llevará un libro repertorio de escrituras públicas y de documentos protocolizados en el que se dará un número a cada uno de estos instrumentos por riguroso orden de presentación.
+
+Cuando se tratare de escrituras, se dejará constancia en este libro de la fecha en que se efectúa la anotación; de las partes que la otorgan, a menos que sean más de dos, pues en este caso se indicarán los nombres de los dos primeros comparecientes, seguidos de la expresión "y otros", del nombre del abogado o abogados si la hubieren redactado y de la denominación del acto o contrato.
+
+Tratándose de documentos protocolizados, se dejará constancia de la fecha en que se presenten, de las indicaciones necesarias para individualizarlos, del número de páginas de que consten y de la identidad de la persona que pida su protocolización.
+
+Sin embargo si la protocolización se indicare en una escritura pública, bastará la anotación ordenada en el inciso segundo.
+
+El libro repertorio se cerrará diariamente, indicándose el número de la última anotación, la fecha y firma del notario. Si no se hubiere efectuado anotaciones, se expresará esta circunstancia.
+
+La falta de las anotaciones señaladas en el inciso segundo, no afectará la validez de una escritura pública otorgada, sin perjuicio de la responsabilidad del notario.
 
 #### Artículo 431
 
-Cada notario llevará un libro índice público, en que anotará por orden alfabético de los apellidos de los otorgantes las escrituras que ante él se otorguen; y otro privado en que anotará los testamentos cerrados con indicación del lugar de su otorgamiento y del nombre y domicilio de sus testigos.
+El notario llevará un libro índice público, en el que anotará las escrituras por orden alfabético de los otorgantes; y otro privado en el que anotará, en la misma forma, los testamentos cerrados con indicación del lugar de su otorgamiento y del nombre y domicilio de sus testigos.
 
-El primero estará a disposición del público, debiendo exhibirlo a quien lo exija y el último deberá mantenerlo reservado, no teniendo obligación de exhibirlo, sino por decreto de juez competente.
+El primero estará a disposición del público, debiendo exhibirlo a quien lo solicite y el segundo deberá mantenerlo reservado, no teniendo obligación de exhibirlo, sino por decreto de juez competente o ante una solicitud de un particular que acompañe el certificado de defunción que corresponda al otorgante del testamento.
 
-Los índices de escrituras deberán ser hechos por los nombres de cada uno de los otorgantes, salvo que se trate de contratos de sociedad que tengan nombre especial, pues en estos casos bastará con enunciarlos por el de la sociedad a que corresponden.
+Los índices de escrituras deberán ser hechos con el nombre de los otorgantes y si se tratare de personas jurídicas, sucesiones u otra clase de comunidades bastará con anotar el nombre de éstas.
 
 #### Artículo 432
 
-El notario es responsable de las faltas, defectos o deterioros de los protocolos, mientras los conserve en su poder, bajo las penas que este párrafo establece.
+El notario es responsable de las faltas, defectos o deterioros de los protocolos, mientras los conserve en su poder.
 
 #### Artículo 433
 
-El notario entregará al archivero judicial del departamento a que corresponda, los protocolos a su cargo, que tengan más de un año de fecha, y los índices de escrituras públicas que tengan más de diez años.
+El notario entregará al archivero judicial del departamento que corresponda, los protocolos a su cargo, que tengan más de un año desde la fecha de cierre y los índices de escrituras públicas que tengan más de diez años.
 
 #### Artículo 434
 
-Los protocolos y documentos protocolizados o agregados a los mismos, deberán guardarse en cajas de fierro o bóvedas contra incendios, y no podrán ser sacados de la oficina del notario, ni aún por orden judicial, salvo en los casos fortuitos o de fuerza mayor, sino por el notario en persona.
+Los protocolos y documentos protocolizados o agregados a los mismos, deberán guardarse en cajas de seguridad o bóvedas contra incendio.
 
 #### Artículo 435
 
-Tampoco podrá el notario permitir sacar de su oficina los documentos que se encuentren bajo su custodia, en razón de su oficio.
+Los protocolos y cualquier documento que se hubiere entregado al notario bajo custodia en razón de su oficio, sólo podrán sacarse de sus oficinas por decreto judicial o en casos de fuerza mayor.
+
+Si se tratare de decreto judicial, el notario personalmente deberá ejecutarlo.
 
 #### Artículo 436
 
-En los casos de pérdida, robo o inutilización de los protocolos o documentos pertenecientes a la notaría, el notario en cuyo poder se encuentran aquéllos al momento de ocurrir el hecho, dará cuenta inmediatamente a la autoridad judicial de que depende para que instruya el correspondiente proceso.
+En los casos de pérdida, robo o inutilización de los protocolos o documentos pertenecientes a la notaría, el notario dará cuenta inmediatamente a la autoridad judicial de que dependa para que inicie el correspondiente proceso.
 
 #### Artículo 437
 
-Los protocolos o documentos perdidos o inutilizados, deberán reponerse por orden del ministro de Corte o juez encargado de la visita de la notaría, con citación de los interesados, de los testigos cuando las partes no estuvieren conformes, e intervención del ministerio público.
+Los protocolos o documentos perdidos o inutilizados deberán reponerse por orden del visitador de la notaría, con citación de los interesados.
 
 #### Artículo 438
 
-La reposición, en cuanto sea posible, se verificará con las copias autorizadas expedidas por el notario, declaraciones de testigos y demás pruebas que el juzgado estime convenientes.
+La reposición, en cuanto sea posible, se efectuará con las copias autorizadas expedidas por el notario, declaraciones de testigos y demás pruebas que el tribunal estime convenientes.
+
+Las personas que tengan copias autorizadas de las originales estarán obligadas a presentarlas al tribunal, y en caso de negarse a ello, se aplicará el procedimiento de apremio establecido en el artículo 276 del Código de Procedimiento Civil.
 
 #### Artículo 439
 
-Las personas que tengan copias autorizadas de las matrices estarán obligadas a presentarlas al tribunal, y en caso de negarse a ello, podrán ser compelidas por la fuerza.
+Los testamentos abiertos o cerrados que se otorguen ante notario u otros funcionarios públicos que hagan sus veces, deberán figurar, sin perjuicio de su inserción en los índices a que se refiere el artículo 431, en un registro índice general de disposiciones de última voluntad, que estará a cargo y bajo la responsabilidad del Archivero Judicial de Santiago. Este registro tendrá dos índices, uno para los testamentos abiertos y otro para los testamentos cerrados, los que se regirán por lo dispuesto en el inciso final del artículo 431 y deberán indicar, además, el funcionario ante quien se haya otorgado.
 
-7). De la penas
+Estos registros serán reservados sin que ellos puedan ser exhibidos o se informe respecto de ellos, salvo por orden judicial o ante una petición de un particular que acompañe el certificado de defunción que corresponda al otorgante del testamento.
+
+Los notarios de las tres primeras categorías del Escalafón deberán remitir al Archivero Judicial de Santiago, dentro de los diez primeros días de cada mes, por carta certificada, las nóminas de los testamentos abiertos y de los testamentos cerrados que se hubieren otorgado en sus oficios durante el mes anterior, con los datos indicados en el inciso tercero del artículo 431. Los notarios de la cuarta categoría del Escalafón y los funcionarios públicos que hagan las veces de notario, deberán hacer igual remisión por períodos bimestrales, dentro de los diez primeros días siguientes al vencimiento del respectivo bimestre.
+
+7). De las infracciones y sanciones
 
 #### Artículo 440
 
-El notario que ejerciere funciones de tal, fuera del departamento o territorio para que hubiere sido nombrado, sufrirá la pena de reclusión menor en cualquiera de sus grados.
+El notario que faltare a sus obligaciones podrá ser sancionado disciplinariamente con amonestación, censura o suspensión, según sea la gravedad del hecho.
+
+Sin embargo, podrá aplicarse la sanción de exoneración del cargo al notario que fuere reincidente en el período de dos años en los hechos siguientes:
+
+a) Si se insertare en el protocolo escrituras o instrumentos sin haberse dado fiel cumplimiento a las exigencias de los artículos 405 y 430;
+
+b) Si por su culpa o negligencia deja de tener la calidad de pública o auténtica una escritura en virtud de cualquiera de las circunstancias previstas en el artículo 426;
+
+c) Si no cumpliere con lo dispuesto en el artículo 421 o no cumpliere la obligación de salvar las palabras interlineadas, enmendadas o sobrepasadas establecidas en el artículo 411;
+
+d) Si se perdiere un protocolo del notario por culpa o negligencia de éste, y
+
+e) Si faltare a las obligaciones señaladas en los N°s. 7 y 8 del artículo 401 y en el 423.
 
 #### Artículo 441
 
-El notario que faltare a las obligaciones que le señalan los números 8° y 9° del art. 401, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de uno o dos sueldos vitales.
+Si en alguno de los hechos descritos en las letras a), b), c) y e) del artículo 440 mediare malicia del notario, éste será castigado con la pena que señala el artículo 193 del Código Penal.
 
 #### Artículo 442
 
-En las mismas penas incurrirá el notario por cuya culpa o negligencia deje de tener su calidad de pública o auténtica una escritura, en virtud de cualquiera de las circunstancias previstas en el artículo 426.
+El notario que ejerciere funciones de tal fuera del territorio para el que hubiere sido nombrado, sufrirá la pena de reclusión menor en cualquiera de sus grados.
 
 #### Artículo 443
 
-El notario que contraviniere lo dispuesto en los artículos 427 y 428, será castigado con la pena que señala el artículo 193 del Código Penal.
+El notario que hubiere autenticado una firma en conformidad con el artículo 425 que no corresponda a la persona que haya suscrito el instrumento respectivo, incurrirá en las penas del artículo 193 del Código Penal.
 
 #### Artículo 444
 
-En los casos en que la pérdida de un protocolo se debiera a culpa o negligencia del notario, se aplicará a éste la pena de reclusión menor en cualquiera de sus grados.
-
-Si el hecho fuera imputable a dolo del notario, la pena será presidio menor en su grado máximo a presidio mayor en su grado mínimo.
+Derogado.
 
 #### Artículo 445
 
-Toda pena impuesta a un notario en virtud de este párrafo, lleva consigo la inhabilitación especial perpetua para el ejercicio del cargo, sin perjuicio de las otras penas accesorias que procedan en conformidad al Código Penal.
+Toda sanción penal impuesta a un notario en virtud de este párrafo, lleva consigo la inhabilitación especial perpetua para el ejercicio del cargo, sin perjuicio de las otras penas accesorias que procedan en conformidad al Código Penal.
 
 ### 8. Los Conservadores
 
@@ -3538,7 +3594,7 @@ Estos índices serán formados con arreglo a las instrucciones que den las respe
 
 Las funciones de los archiveros, en cuanto ministros de fe, se limitan a dar conforme a derecho, los testimonios y certificados que se les pidan; y a poner, a petición de parte, las respectivas notas marginales en las escrituras públicas.
 
-Los archiveros generales podrán dar, sin decreto judicial, copia autorizada de las escrituras contenidas en los protocolos de su archivo, en todos aquellos casos en que el notario que haya intervenido en su otorgamiento habría podido darlas sin decreto.
+Los archiveros judiciales podrán dar copia autorizada de las escrituras contenidas en los protocolos de su archivo, en todos aquellos casos en que el notario que haya intervenido en su otorgamiento habría podido darlas.
 
 ### 10. Los Asistentes Sociales Judiciales
 
@@ -3704,9 +3760,9 @@ Esta disposición no regirá en el feriado de vacaciones con los notarios, conse
 
 Ningún notario, Conservador, Archivero, secretario, procurador o receptor podrá ausentarse del lugar de su residencia ni dejar de asistir diariamente a su oficina sin permiso del Presidente de la Corte si ejerciere sus funciones en el lugar de asiento de este tribunal, o del juez de letras respectivo o de turno, en los demás casos.
 
-Este permiso no podrá otorgarse por más de ocho días a los secretarios, de dos meses a los notarios, Conservadores y Archiveros, y de un mes a los otros funcionarios. Si el permiso solicitado excediere de este plazo y no pasare de un año, deberá pedirse por escrito ante el Presidente de la República. Si transcurrido un año no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
+Este permiso podrá otorgarse como máximo, en cada año calendario, por una sola vez o fraccionado, por ocho días a los secretarios, dos meses a los notarios, conservadores y archiveros y un mes a los otros funcionarios. Si el permiso solicitado excediere a los aludidos plazos y no pasare de un año, deberá pedirse por escrito ante el Presidente de la República. Si transcurrido un año no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
 
-En los permisos hasta por dos meses el notario, Conservador y Archivero podrá proponer al juez el abogado que debe subrogarlo bajo su responsabilidad, propuesta que en el caso de los notarios y Conservadores de cuarta categoría podrá recaer en el oficial 1.o de la oficina respectiva. Si el permiso excediere de dicho plazo, corresponderá al Presidente de la República la designación del reemplazante.
+En los permisos hasta por dos meses el notario, conservador y archivero podrá proponer al juez el abogado que deba subrogarlo bajo su responsabilidad, propuesta que en el caso de los notarios y conservadores de cuarta categoría podrá recaer en el oficial 1° de la oficina respectiva.
 
 #### Artículo 479
 
@@ -4052,7 +4108,9 @@ Para poder ser abogado se requiere:
 
 La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante, y
 
-5°) Haber servido satisfactoriamente en alguna de las entidades públicas o privadas destinadas a prestar asistencia jurídica y judicial gratuita, durante seis meses en la forma dispuesta por la ley. Los representantes de esas entidades deberán certificar el cumplimiento de este requisito.
+5°) Haber cumplido satisfactoriamente una práctica profesional por seis meses en las Corporaciones de Asistencia Judicial a que se refiere la ley N° 17.995, circunstancia que deberá acreditarse por el Director General de la respectiva Corporación.
+
+Un reglamento determinará los requisitos, forma y condiciones que deban cumplirse para que dicha práctica sea aprobada.
 
 La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Tribunales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
 
@@ -4076,7 +4134,7 @@ Sólo los chilenos podrán ejercer la profesión de abogado. Lo dicho se entende
 
 #### Artículo 527
 
-Las defensas orales ante cualquier tribunal de la República sólo podrán hacerse por un abogado habilitado para el ejercicio de la profesión. No obstante, los postulantes que estén realizando su práctica para obtener el título de abogado en entidades públicas o privadas que otorguen asistencia judicial y jurídica gratuita, podrán hacer tales defensas ante las Cortes de Apelaciones y Marciales en favor de las personas patrocinadas por esas entidades. Para estos fines el representante de ellas deberá otorgar al postulante un certificado que lo acredite como tal.
+Las defensas orales ante cualquier tribunal de la República sólo podrán hacerse por un abogado habilitado para el ejercicio de la profesión. No obstante, los postulantes que estén realizando su práctica para obtener el título de abogado en las Corporaciones de Asistencia Judicial creadas por la ley N° 17.995, podrán hacer tales defensas ante las Cortes de Apelaciones y Marciales en favor de las personas patrocinadas por esas entidades. Para estos fines el representante de ellas deberá otorgar al postulante un certificado que lo acredite como tal.
 
 #### Artículo 528
 
