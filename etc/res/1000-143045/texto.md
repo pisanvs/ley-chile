@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA PESQUERA OCEANICA LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.000 de 26 de Diciembre de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Industria Pesquera Oceánica Ltda., con domicilio en Iquique, para ampliar las actividades pesqueras que tiene autorizadas por resolución No. 81, de 23 de Febrero de 1984, en orden a instalar una planta elaboradora en Iquique, I Región, Barrio Industrial, Sitio No. 2, donde procesará en la línea de elaboración de conservas los siguientes recursos hidrobiológicos; almeja, anchoa, atún, bonito, caballa, cachurreta, calamar, cojinova del Norte, cholga, jaiba, jurel, lapa, locate, loco, macha, mero, navajuela o berberecho, ostión del Norte, pejerrey de mar, piure, pulpo, sardina española, sardina común, los que adquirirá del subsector pesquero industrial y artesanal.
+
+Valparaíso, 26 de Diciembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
