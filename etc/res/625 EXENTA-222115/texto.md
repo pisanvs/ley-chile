@@ -1,0 +1,3 @@
+Por resolución exenta Nº 625, de 27 de febrero de 2004, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 99081044 presentada por FRANCISCO ALFREDO DE LA CRUZ YAÑEZ para instalar y operar un centro de cultivo ubicado en un terreno privado localizado en Altos del Laja, sector Cruz de Piedra, VIII Región.
+
+Valparaíso, 27 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
