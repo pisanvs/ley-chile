@@ -1,0 +1,5 @@
+Resolución 336, 27 noviembre 1998, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Manuel Montt Nº 821, Rol de Avalúo Nº 360-5, comuna Concepción, superficie 162,89 m2. de terreno, 102,20 m2., de edificación, 11,35 mts. de cierro de acero, 9,80 mts. de cierro de pandereta y 9 m2. de pastelón, dentro polígono y linderos señalados plano expropiación S8R-13979; de aparente dominio de Carlos Alarcón Contreras, para ejecución programa
+
+''Recuperación Urbana de la Ribera Norte del Río Bío Bío'', conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Boris Aptecar González, arquitecto, Gerardo Valverde Vildósola, arquitecto y Sergio Labarca Garrido, constructor civil, según informe de fecha 29 de octubre de 1998, fijó monto provisional indemnización en $39.071.780.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
