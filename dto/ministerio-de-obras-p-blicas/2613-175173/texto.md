@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.613 de 30 de junio de 2000, se expropió el lote de terreno Nº1, superficie 444 M2., rol de avalúo 155-2, comuna de Pemuco, para la obra Proyecto Laja - Diguillín, Area de Riego Yungay, Canal Matriz Pemuco - Diguillín, Variante Camino Pemuco - Cártago y se acordó precio de la indemnización con su propietario Carlos Mario A. Zurita Domínguez, ascendente a la cantidad de $165.332.
+
+Fiscal del Ministerio de Obras Públicas.
