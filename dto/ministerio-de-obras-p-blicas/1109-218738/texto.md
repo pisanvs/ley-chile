@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.109, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 240, superficie 543 m², rol en trámite, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región, y se acordó el valor de la indemnización con su propietario Lizandro Alberto Cornejo Trujillo, ascendente a la cantidad de $3.413.743.
+
+Fiscal del Ministerio de Obras Públicas.
