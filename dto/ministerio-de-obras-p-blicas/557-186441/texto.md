@@ -1,0 +1,3 @@
+Por decreto MOP Nº 557, de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 31, superficie 1.321,92 m2., rol de avalúo 248-26, comuna de Salamanca, para la obra "Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias Canal Alimentador" y se acordó el valor de indemnización con su propietario Daniel Arredondo Clavería, ascendente a la cantidad de $1.040.587.-
+
+Fiscal del Ministerio de Obras Públicas.
