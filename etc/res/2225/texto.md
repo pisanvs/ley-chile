@@ -1,0 +1,3 @@
+Por resolución Nº 2.225, de 29 de octubre de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 172 de 1982, de esta Subsecretaría, que autorizó a PESQUERA MARBELLA LIMITADA, hoy Pesquera Marbella S.A., para operar la nave ''Costa Grande 2'', en el litoral de la XI y XII Regiones, respecto de los recursos hidrobiológicos Jurel, Sardina española, Caballa, Anchoa, Agujilla, Cojinoba del norte y Bonito.
+
+Valparaíso, 29 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
