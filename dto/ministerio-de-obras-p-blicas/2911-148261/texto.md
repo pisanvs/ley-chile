@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.911, de 30 de septiembre de 1999, se expropió el lote de terreno Nº80-3A, superficie 8.095,0 m², rol de avalúo 254-2, comuna de Lautaro, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli-Temuco", Novena Región, y se acordó el valor de indemnización con su propietario Waldemar Cristián Scholtz Reinike, ascendente a la cantidad de $8.904.312.-
+
+Fiscal del Ministerio de Obras Públicas.
