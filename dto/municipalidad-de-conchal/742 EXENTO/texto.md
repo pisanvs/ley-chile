@@ -1,0 +1,13 @@
+EXTRACTO DE DECRETO DE EXPROPIACION
+
+La Alcaldesa de la I. Municipalidad de Conchalí, mediante Decreto Alcaldicio Exento No. 742 de fecha 26 de Diciembre de 1991, ha dispuesto la expropiación parcial, conforme al DFL No. 458/ 76, del MINW; el DL No. 2.186 y 3.464 y la Ley 18.695, orgánica Constitucional de Municipalidades, de las franjas de terreno ubicadas en el Empalme de Avda. Pedro Fontova con Avda. Américo Vespucio y Huechuraba, con el fin de a concluir los trabajos de pavimentación de Avda. Pedro Fontova desde Avda. Huechuraba hasta Avda. Américo Vespucio de esta Comuna.
+
+Dichas franjas ubicadas una frente a la otra pertenecen a dos propiedades denominadas, cada una, Porción A-DOS y Porción B-DOS, y que corresponden a la Hijuela Segunda del Fundo Santa Rosa de Huechuraba, de la Comuna de Conchalí, ambas de aparente dominio de doña María Luisa Tasso Miranda, roles de avalúo desconocidos.
+
+Los deslindes de una de las franjas que se expropia y que forma parte de la propiedad denominada Porción A-DOS son: al Norte: con Avda. Américo Vespucio Norte en una extensión de 10 metros, al Sur: antes con el canal o desague Quilicura hoy Avda. Huechuraba en una extensión de 10 metros; ai Oriente, con el resto de la Porción A-DOS de la Hijuela Segunda del Fundo Santa Rosa de Huechuraba, en una extensión de 101 metros aproximadamente y al Poniente, con la Porción B-DOS de la Hijuela Segunda, situado el deslinde en una línea imaginaria trazada en el centro del camino que las separa, en una extensión de 101 metros aproximadamente. La superficie de esta franja es de aproximadamente 1.010 Mts.2. Los deslindes de la otra franja que se expropia y que forma parte de la Porción de B-DOS son: 1 Norte: con la Avda.
+
+Américo Vespucio Norte, en una extensión de 10 metros; al Sur, antes con canal o desagüe Quilicura hoy Avda. Huechuraba, en una extensión de 10 metros; al Oriente, con la Porción A-DOS de la misma Hijuela Segunda, situado el deslinde en una línea imaginaria trazada al centro del camino que las separa en una extensión de 101 metros aproximadamente y Poniente, con el resto de la Porción B-DOS, de la Hijuela Segunda en una extensión de 101 metros aproximadamente. La superficie de la franja es de aproximadamente 1.010 Mts.2.
+
+Indemnización Provisional total: $ 15.150.000.- (Quince millones ciento cincuenta mil pesos), pagadero contado.
+
+Graciela Varas Arriaza, Alcaldesa (S).Luis Silva Iribarne, Secretario Municipal(S)
