@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 193 de fecha 28 de febrero del 2002, se expropiaron los lotes de terreno Nº 7 y 8, superficies 7.5, 61.25 m2, rol de avalúo Nº 140-89, comuna de Sagrada Familia, para la obra "Camino: Cruce Longitudinal (Lontué)-Curepto, Sector: San Juan-Santa Emilia, Km. 22.373,75 a Km. 25.198,75, comuna de Sagrada Familia, Provincia de Curicó", VII Región y se acordó el valor de indemnización con su propietario Luis Abel Guzmán Ibarra, ascendente a la cantidad de $329.621.
+
+- Fiscal del Ministerio de Obras Públicas.
