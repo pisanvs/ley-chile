@@ -1,0 +1,3 @@
+Resolución 71, 18 abril 1994, Serviu Región del Bio Bio ordenó expropiación total, conforme art. 51 Ley 16.391, y D.L. 2.186 de 1978, programa obras infraestructura, inmueble ubicado en Avda. Arturo Prat 1.402, rol de avalúos N° 619-3 comuna de Concepción, aparente dominio de Industria Metalúrgica Concepción Limitada. Comisión integrada por Peritos Sres. Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 11 de Abril de 1994, fijó monto provisional indemnización en $59.905.000.- pagadera de contado.
+
+Director Serviu Región del Bío Bío.
