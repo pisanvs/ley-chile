@@ -1,0 +1,3 @@
+Por decreto MOP. No. 867, de 30 de junio de 1998, se expropió el lote de terreno No. 11-B, superficie 3.063 m2., rol de avalúo 118-132, comuna de Quilicura, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, y se acordó el valor de indemnización con sus propietarias Industrias Químicas Cloramón Limitada y Resinas Chilenas Limitada, ascendente a la cantidad de $ 141.799.678.
+
+- Fiscal del Ministerio de Obras Públicas.
