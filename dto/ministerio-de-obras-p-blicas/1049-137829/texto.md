@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.049 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 25, superficie 118 m2., rol de avalúo 3983-116, comuna de Talca, para la obra ''Ruta 5 Tramo Talca - Chillán Intersección Desnivelada Acceso a Pelarco'' y se acordó el valor de indemnización con su propietario Samuel Garrido Zúñiga, ascendente a la cantidad de $878.291.-
+
+Fiscal del Ministerio de Obras Públicas.
