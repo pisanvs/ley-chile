@@ -1,0 +1,1 @@
+Prorroga el plazo establecido en el artículo 1° transitorio de la ley 12.045, de 11 de julio de 1956, que creó el Colegio de Periodistas.
