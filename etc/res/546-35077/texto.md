@@ -1,0 +1,3 @@
+Por Resolución N° 546 de 3 de junio de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1940, de 1989, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA ENGRAULIS CHILE LIMITADA, R.U.T. N° 79.866.340-2, en orden a desarrollar actividades pesqueras de cultivo, en Sector Punta Pilluco, Comuna de Puerto Montt, Provincia de Llanquihue, X Región, en virtud de la renuncia formulada por su titular.
+
+Valparaíso, 3 de junio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
