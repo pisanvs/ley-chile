@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.749, de 31 de julio de 2003, de esta Subsecretaría, modifícase la resolución Nº 905 de 2003, modificada mediante resoluciones Nº 1.271, Nº 1.441 y Nº 1.615, todas de 2003, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, SEDE COQUIMBO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2003-03 denominado "Evaluación directa de langostino colorado entre la III y IV Regiones, año 2003", en el sentido de señalar que la pesca de investigación se extenderá hasta el 15 de agosto de 2003.
+
+Valparaíso, 31 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
