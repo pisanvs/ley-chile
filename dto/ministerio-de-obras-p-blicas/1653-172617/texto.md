@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.653, de 28 de abril de 2000, se expropió el lote de terreno Nº5, superficie 50 m2, rol de avalúo 167-37, comuna de San Clemente, para la obra Camino El Guindo Vilches Rol K-705, sector Puente Vilches Kms. 12,887 al 13,104 y se acordó precio de la indemnización con su propietario Guillermo Antonio Loyola Alegría, ascendente a la cantidad de $5.500.418.
+
+Fiscal del Ministerio de Obras Públicas.
