@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.041, de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nºs. 23 y 23-G, superficies 865,08 m2 y 1.093,50 m2, respectivamente, rol de avalúo 324-49, comuna de Constitución, VII Región, para la obra ''Camino M-24-K, Quivolgo Puente Lautaro, Sector C: Putú Quivolgo, Km. 30,000.00 al 49,815.494'' y se acordó el valor de indemnización con su propietaria doña María Angélica Miño Araya, ascendente a la cantidad de $567.170.-
+
+Fiscal del Ministerio de Obras Públicas.
