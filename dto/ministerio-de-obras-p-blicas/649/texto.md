@@ -1,0 +1,5 @@
+Por Decreto MOP. N° 649, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840, se expropió el lote de terreno N° 143, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, Sector Km. 21.900,00 al Km.
+
+26.200,00, que figura a nombre de Papeles Industriales Ltda., Rol de Avalúo N° 150-387, comuna de Lampa, superficie 4.494 m2., La comisión de peritos integrada por Luz Araya Elizalde, René Armando Cruz Momberg y Leonardo Enrique Bastías Tessada, fijó con fecha 11 de diciembre de 1997, el valor provisional de la indemnización es la cantidad de $ 71.101.020.- para el lote N° 143. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
