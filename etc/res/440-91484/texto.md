@@ -1,0 +1,3 @@
+Por Resolución No. 440, de 09 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble calle Santa Isabel No. 209 - 247, presunto rol avalúos No. 581-5, comuna Santiago, aparentemente dominio de Sociedad "Automotora Universal Ltda.". Comisión integrada por peritos Sres. Teresa Sancho Pernas y René Ureta Koster, arquitectos, y José Miguel Haltenhoff Aenishanslin, constructor civil, según informe de 16 enero de 1989, fijó monto provisional indemnización en $ 3.431.950.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
