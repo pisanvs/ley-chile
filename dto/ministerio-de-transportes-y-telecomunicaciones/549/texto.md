@@ -1,0 +1,313 @@
+OTORGA CONCESION DE SERVICIO PUBLICO TELEFONICO A
+
+COMPAÑIA DE TELECOMUNICACIONES DE CHILE S.A.
+
+Santiago, 20 de octubre de 1998.- Con esta fecha se ha decretado lo que sigue:
+
+Núm. 549.- Vistos:
+
+a) El decreto ley Nº 1.762 de 1977.
+
+b) La Ley Nº 18.168 de 1982, Ley General de Telecomunicaciones.
+
+c) El artículo 1º de la Ley Nº 16.436 de 1966.
+
+d) El decreto supremo Nº 457 de 1994, del Ministerio de Transportes y Telecomunicaciones, Reglamento del Fondo de Desarrollo de las Telecomunicaciones.
+
+e) El Nº 1 del artículo 3º párrafo III de la resolución Nº 55 de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la resolución Nº 520 de 1996, ambas de la Contraloría General de la República.
+
+f) Acta del 10.03.98, correspondiente a la decimonovena sesión del Consejo de Desarrollo de las Telecomunicaciones, que aprobó las bases generales y específicas del concurso público correspondiente al Programa de Proyectos Subsidiables 1998 del Fondo de Desarrollo de las Telecomunicaciones.
+
+Considerando:
+
+a) Lo solicitado por la interesada mediante Ingreso Subtel Nº 20.030 del 21.08.98.
+
+b) El Acta del 16.07.98, correspondiente a la vigésima sesión del Consejo de Desarrollo de las Telecomunicaciones.
+
+D e c r e t o:
+
+1. Otórgase concesión de Servicio Público Telefónico a la Compañía de Telecomunicaciones de Chile S.A., R.U.T. Nº 90.635.000-9, con domicilio en San Martín Nº 50, comuna de Santiago, Región Metropolitana, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes
+
+2. Autorízase a la concesionaria para instalar, operar y explotar lo siguiente:
+
+2.1 A lo menos un teléfono público o centro de llamadas en cada una de las localidades señaladas en las bases específicas del Proyecto Rancagua Código 981233, según el siguiente cuadro:
+
+Localidad Comuna Región
+
+Codegua Codegua 6
+
+El Carmen Codegua 6
+
+La Estancilla Codegua 6
+
+Las Delicias Codegua 6
+
+Los Angeles de Callejones Codegua 6
+
+El Alamo Coltauco 6
+
+El Mutro Coltauco 6
+
+Idahue Coltauco 6
+
+La Corderina Coltauco 6
+
+La Puntilla de Purén Coltauco 6
+
+Los Marcos Coltauco 6
+
+Parral Coltauco 6
+
+Vista Hermosa Coltauco 6
+
+Cerro La Perdís de La Viña Quinta de Tilcoco 6
+
+El Cerrito de Guacarhue Quinta de Tilcoco 6
+
+El Panteón Quinta de Tilcoco 6
+
+La Estacada Quinta de Tilcoco 6
+
+La Viña Quinta de Tilcoco 6
+
+Los Nogales Quinta de Tilcoco 6
+
+Monte Chico Quinta de Tilcoco 6
+
+El Maitén Requínoa 6
+
+Las Rosas Requínoa 6
+
+Lo Hermógenes Requínoa 6
+
+Sector Fundo Las Rosas Requínoa 6
+
+Lo Donoso San Vicente 6
+
+La Marinana Cancha de Carrera San Fernando 6
+
+Los Baños San Fernando 6
+
+Nilcunlauta San Fernando 6
+
+2.2 Líneas de abonado en cada una de las localidades señaladas en el punto 2.1, dentro del ámbito de cobertura de los medios de transmisión instalados, sin exceder los límites geográficos de la zona primaria respectiva.
+
+Los teléfonos públicos y líneas de abonado se conectarán a la red pública telefónica a través del centro de conmutación autorizados, mediante planta externa radioenlaces y/o medios de transmisión arrendados a terceros.
+
+Las características técnicas y ubicación de los sistemas radiantes serán las siguientes:
+
+Sistemas de Transmisión:
+
+Sistema Punto - Punto VHF
+
+Frecuencias : F1 = 159,025 MHz F1' = 163,625 MHz
+
+F2 = 159,475 MHz F2' = 164,075 MHz
+
+F3 = 159,050 MHz F3' = 163,650 MHz
+
+F4 = 158,875 MHz F4' = 163,475 MHz
+
+Tipo de Emisión : 16K0F3EJN
+
+Potencia Máxima : 10 Watts.
+
+Sistema radiante: Antenas Yagi, con 10 dBi. de ganancia.
+
+Polarización : Horizontal.
+
+Radioestación Tipo de Frecuencias Radioestación
+
+Origen Radioestación Tx Rx Destino
+
+Las Delicias Terminal F1' F1 Graneros
+
+El Mutro Terminal F2' F2 Rengo
+
+El Cerrito de
+
+Guacarhue Terminal F3' F3 Rengo
+
+La Marinana
+
+Cancha de Terminal F4' F4 San Fernando
+
+Carrera
+
+Ubicación de las radioestaciones:
+
+Radioestación Ubicación Coord. Geográficas
+
+Latitud Longitud
+
+Las Delicias Las Delicias 34°04' 70°42'
+
+El Mutro El Mutro 34°21' 71°04'
+
+El Cerrito de
+
+Guacarhue El Cerrito
+
+de Guacarhue 34°20' 71°01'
+
+La Marinana Cancha
+
+de Carrera La Marinana
+
+Cancha de Carrera 34°34' 70°52'
+
+Rengo Rengo 34°24' 70°54'
+
+Graneros Graneros 34°04' 70°44'
+
+San Fernando San Fernando 34°35' 70°59'
+
+Sistema Punto - Punto UHF
+
+Frecuencias : F5 = 484,975 MHz F5' = 494,575 MHz
+
+Tipo de Emisión : 16K0F3EJN
+
+Potencia Máxima : 10 Watts.
+
+Sistema radiante : Antenas Yagi, con 10 dBi. de ganancia.
+
+Polarización : Horizontal.
+
+Radioestación Tipo de Frecuencias Radioestación
+
+Origen Radioestación Tx Rx Destino
+
+El Panteón Terminal F5 F5' Rengo
+
+Ubicación de las radioestaciones:
+
+Radioestación Ubicación Coord. Geográficas
+
+Latitud longitud
+
+El Panteón El Panteón 34°22' 71°00'
+
+Sistema Multiacceso Digital
+
+Frecuencias : F6 = 1.435,75 MHz F6' = 1.502,25 MHz
+
+F7 = 1.446,25 MHz F7' = 1.512,75 MHz
+
+Tipo de Emisión : 2M00F7EJT
+
+Potencia Máxima : 1 Watts
+
+Sistema radiante : Antenas yagi, con 10 dBi. de ganancia.
+
+Polarización : Vertical.
+
+Radioestación Tipo de Frecuencias Radioestación
+
+Origen Radioestación Par 1 Par 2 Destino
+
+Tx Rx Tx Rx
+
+Rancagua Base F6 F6' Solo
+
+Terminales
+
+Cerro Copequén Repetidora F7' F7 F6' F6
+
+Los Nogales Terminales F7 F7' Cerro Copequén
+
+Ubicación de las radioestaciones:
+
+Radioestación Ubicación Coord. Geográficas
+
+Latitud Longitud
+
+Los Nogales Los Nogales 34°22' 70°58'
+
+* Las estaciones Rancagua y Cerro Copequén fueron autorizadas en el proyecto 961532 del FDT, mediante decreto supremo Nº 68 de 1997.
+
+3. Apruébase el proyecto técnico base de la solicitud presentado por la concesionaria, correspondiente a su propuesta relativa al Proyecto Rancagua, Código 981233, en lo concerniente a los sistemas y equipos de telecomunicaciones autorizados en el presente decreto, conforme a las disposiciones técnico legales que rigen el servicio de telecomunicaciones concedido. La documentación respectiva quedará archivada en la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría.
+
+El monto del subsidio asignado a la concesionaria es de ciento un millones ciento tres mil cuatrocientos pesos ($101.103.400). Impútese este gasto al ítem Nº 19-02-01-33-85-039, Fondo del Desarrollo de las Telecomunicaciones del presupuesto vigente.
+
+Las Bases Generales y las Bases Específicas del Proyecto, correspondientes al primer llamado a concurso público para la asignación de proyectos y sus respectivos subsidios del Programa 1998 del Fondo de Desarrollo de las Telecomunicaciones, forman parte integrante del presente decreto, para todos los efectos administrativos y legales.
+
+4. La zona de servicio comprende las localidades señaladas en el punto 2.1 precedente y el ámbito de cobertura de los medios de transmisión que se instalen.
+
+5. La tarifa máxima a público que podrá aplicar la concesionaria, para las llamadas locales efectuadas a través de los teléfonos públicos (o centro de llamados), durante los primeros 10 años de suministro del servicio telefónico, expresada en moneda de curso legal al 1º de enero de 1996, con IVA incluido, se calculará según la siguiente fórmula:
+
+Tarifa máxima = 52,39 x (1 + IVA) x T x fcorr ($/minuto)
+
+donde:
+
+IVA = Impuesto al Valor Agregado.
+
+T = Período de cobro mínimo de la llamada local,
+
+establecido por la concesionaria, expresado
+
+en minutos enteros.
+
+fcorr = Factor de corrección de acuerdo al valor de T,
+
+según la siguiente tabla:
+
+T 1 2 3 4 5
+
+fcorr 1,000 0,792 0,647 0,510 0,425
+
+El período de cobro mínimo ''T'' no podrá ser superior a cinco minutos ni inferior a un minuto. La concesionaria deberá informar a los usuarios en un lugar visible la tarifa aplicada, explicitando que ésta da derecho a efectuar una llamada local a cualquier destino dentro de la respectiva zona primaria, cuya duración podrá ser igual o inferior a dicho período ''T''. La tarifa máxima al público, por llamada local, se reajustará por el índice IR, determinado según la siguiente fórmula:
+
+VER D.O. DE FECHA 29.12.1998
+
+donde:
+
+IPM = Indice de Precios al por Mayor publicado por el
+
+INE, siendo IPMt el valor del mes anterior al de
+
+aplicación de la tarifa e IPM0 el valor del mes de
+
+noviembre de 1995.
+
+IPC = Indice de Precios al Consumidor publicado por el
+
+INE, siendo IPCt el valor del mes anterior al de
+
+aplicación de la tarifa e IPC0 el valor del mes de
+
+noviembre de 1995.
+
+US$A = Indice dólar ajustado US$A=US$ x (1 + tasa
+
+arancelaria), siendo US$t el promedio de dólar observado
+
+del mes anterior al de aplicación de la tarifa; US$0 el
+
+promedio del dólar observado de noviembre de 1995; (1 +
+
+tasa arancelaria)t, la tasa arancelaria vigente al
+
+término del mes anterior al de aplicación de la tarifa;
+
+y (1 + tasa arancelaria)0 igual a 1,11.
+
+t = Tasa de impuesto a las utilidades, siendo
+
+t0 igual al 15% y tt la tasa de impuesto a las
+
+utilidades vigente al término del mes anterior al de
+
+aplicación de la tarifa.
+
+6. La concesionaria durante un período de 10 años, contados desde la fecha de publicación del presente decreto en el Diario Oficial, no podrá disminuir las prestaciones de servicio especificadas en las bases del concurso y singularizadas en el punto 2.1 del presente decreto.
+
+7. El plazo para iniciar la construcción de las obras será de 6 meses y para su término de 13 meses. Asimismo, el plazo para iniciar el servicio será de 15 meses. Todos estos plazos serán contados desde la fecha de publicación en el Diario Oficial del presente decreto.
+
+8. El período de vigencia de la presente concesión será de 30 años, contados desde la publicación del presente decreto en el Diario Oficial.
+
+9. Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y técnicas que regulan las telecomunicaciones, en lo que le sean aplicables.
+
+Anótese, tómese razón, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Juanita Gana Quiroz, Subsecretaria de Telecomunicaciones.
