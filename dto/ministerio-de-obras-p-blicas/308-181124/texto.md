@@ -1,0 +1,3 @@
+Por decreto MOP Nº308, de fecha 29 de diciembre de 2000, se expropió el lote de terreno Nº19, superficie 165 m2, rol de avalúo 63-4, comuna de Marchigue, para la obra "Camino Pichidegua - Marchigue, Sector Marchigue - La Esperanza, Tramo Km. 43.600 al 69.237,91" y se acordó el valor de indemnización con su propietaria Blanca Rosa Carvajal Villaseca, ascendente a la cantidad de $1.125.525.-
+
+Fiscal del Ministerio de Obras Públicas.
