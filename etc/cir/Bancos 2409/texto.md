@@ -4334,7 +4334,7 @@ Para el cumplimiento de la exigencia señalada, las instituciones financieras de
 
 El encaje de que trata el presente Capítulo será calculado por "períodos mensuales", que corresponderán al lapso comprendido entre el día 9 de un mes y el día 8 del mes siguiente, sobre la base de los saldos promedios que registren en el respectivo "período mensual" las distintas cuentas, tanto de activo como de pasivo, que se consideran para determinar la posición de encaje."
 
-Los promedios señalados precedentemente, se determinarán considerando sólo los saldos vigentes en los días hábiles bancarios del respectivo "período mensual", para el caso del encaje que debe cumplirse en moneda nacional, y en los días corridos, para el caso de aquél que afecta a las monedas extranjeras.
+Los promedios señalados precedentemente, se determinarán considerando los saldos vigentes durante los días corridos del respectivo período mensual.
 
 2.- Equivalencia en dólares de los saldos en otras monedas extranjeras.
 
@@ -4370,15 +4370,15 @@ Los depósitos, captaciones y otras obligaciones en moneda nacional, que manteng
 
 1.1.1. Depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial.
 
-Los depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial efectuados conforme al artículo 517 del Código Orgánico de Tribunales, estarán afectos a una tasa de encaje de 10%.
+Los depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial efectuados conforme al artículo 517 del Código Orgánico de Tribunales, estarán afectos a una tasa de encaje de 9%.
 
 1.1.2. Depósitos a la orden judicial.
 
-Los depósitos a la orden judicial estarán afectos al 4% de encaje.
+Los depósitos a la orden judicial estarán afectos al 3,6 de encaje.
 
 1.2. Depósitos, captaciones y obligaciones a plazo.
 
-Los depósitos, captaciones y obligaciones a plazo, desde 30 días y hasta un año y los depósitos a más de un año plazo, estarán afectos a una tasa de 4%.
+Los depósitos, captaciones y obligaciones a plazo, desde 30 días y hasta un año y los depósitos a más de un año plazo, estarán afectos a una tasa de 3,6%.
 
 Las demás captaciones a más de un año no estarán afectas a encaje.
 
@@ -4448,7 +4448,7 @@ Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a
 
 3.2 Compensación por pago de Ordenes de Pago.
 
-Los bancos distintos al banco librado, podrán deducir del monto de sus depósitos diarios, una compensación por la salida de caja que representa para ellos el pago de Ordenes de Pago emitidas por las instituciones de previsión al amparo del artículo 15 de la Ley 17.671, tratadas en el Capítulo 5-2 de esta Recopilación. Esa compensación es equivalente, según la tasa de encaje vigente, al 900% de los importes pagados. El monto de esta compensación debe registrarse en la cuenta "Compensación Ordenes de Pago Ley 17.671", de la partida 9160 del mismo nombre, del MB1.
+Los bancos distintos al banco librado, podrán deducir del monto de sus depósitos diarios, una compensación por la salida de caja que representa para ellos el pago de Ordenes de Pago emitidas por las instituciones de previsión al amparo del artículo 15 de la Ley 17.671, tratadas en el Capítulo 5-2 de esta Recopilación. Esa compensación es equivalente, según la tasa de encaje vigente, al 1011,11% de los importes pagados. El monto de esta compensación debe registrarse en la cuenta "Compensación Ordenes de Pago Ley 17.671", de la partida 9160 del mismo nombre, del MB1.
 
 3.3 Obligaciones por las cuales deben constituir reserva técnica.
 
