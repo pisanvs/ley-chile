@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION N° 5, DE 1994
+
+Por Resolución N° 5, de fecha 26 de Septiembre de 1994, y sus modificaciones, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se adjudicó a Dn. Alberto Guillermo Yávar Maturana, la concesión para operar a contar de la publicación del presente extracto hasta el 11 de Enero de 1999, un establecimiento ubicado en calle Evaristo Merino N° 236 de la Comuna de Pichilemu, destinado a la revisión técnica y verificación de emisión de contaminantes de vehículos motorizados y sus remolques, a que se refiere el inciso 2° del art. 7° del D.S. N° 156/90 del Ministerio de Transportes y Telecomunicaciones, en la forma y condiciones que se señalan en el Contrato que se aprueba.
+
+Luis Díaz Solís, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
