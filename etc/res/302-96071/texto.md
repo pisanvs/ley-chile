@@ -1,0 +1,3 @@
+Por Resolución No. 302, de 06 de Abril de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la Resolución No. 75, de 1992, de esta Subsecretaría, que autorizó a PRODUCTORA Y COMERCIALIZADORA DARWIN LIMITADA, R.U.T. No. 79.670.130-7, domiciliada en calle Hernando de Aguirre No. 391, Santiago, para ampliar las actividades pesqueras que tenía autorizadas por Resolución No. 530, de 1989, de esta Subsecretaría, en orden a incluir en las líneas de procesamiento de su planta industrial ubicada en la Ex-Estación Cuarentenaria SAG, Puerto Chacabuco, Aysén, XI Región, además de los recursos autorizados los siguientes: Navaja y Almeja juliana.
+
+Valparaíso, 06 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
