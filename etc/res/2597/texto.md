@@ -1,0 +1,3 @@
+Por resolución Nº 2.597, de esta Subsecretaría, autorízase a OTTO GEBLER Y CIA. LIMITADA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Camino Villarrica-Pucón Km. 6, comuna de Villarrica, IX Región, donde podrá elaborar en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Ahumado y semi conserva: Salmón del Atlántico, Salmón plateado y Trucha arcoiris.
+
+Valparaíso.- Felipe Sandoval Precht, Subsecretario de Pesca.
