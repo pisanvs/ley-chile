@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 622, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 4 y 5, superficies 2.240 m2. y 1.027 m2., respectivamente, rol de avalúo 507-37, comuna de Talagante, para la obra Camino Autopista Santiago-San Antonio, Sector Enlace y Plaza de Peaje Talagante, y se acordó precio de indemnización con Instituto de Religiosas Adoratrices Esclavas del Santísimo Sacramento y de la Caridad , ascendente a la cantidad de $42.007.410.-
+
+Fiscal del Ministerio de Obras Públicas
