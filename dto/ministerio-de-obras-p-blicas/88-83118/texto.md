@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 88, de 30 de marzo de 1990, se modifica Decreto MOP. Nº 220, de 23 de septiembre de 1987, en la parte que se refiere a la aprobación del Convenio Directo de Precio Ad Referendum, suscrito con doña Rosa M. Urzúa Martín, por el lote No. 27, expropiado para la ejecución del camino Longitudinal Sur, Ruta 5, sector By Pass Chillán, de una superficie de 22.910 m2., Rol de Avalúo 2207-2, Comuna de Chillán. Al mismo tiempo se ordenó consignar judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, el 24 de Junio de 1986, ascendente a $ 183.280. Dicha cantidad estará afecta al reajuste que determina el DL No. 2186, de 1978.- El pago se hará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
