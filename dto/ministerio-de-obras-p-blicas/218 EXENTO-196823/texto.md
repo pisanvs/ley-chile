@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 218 de 28 de febrero del 2002, se expropió el lote de terreno Nº 87, superficie 120,90 m² Rol de Avalúo Nº 224-4, comuna de Olmué, para la obra "Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,984 a Km. 34,500" y se acordó el valor de indemnización con su propietario Francisco J. Hernández Guzmán, ascendente a la cantidad de $552.333.-
+
+Fiscal del Ministerio de Obras Públicas.
