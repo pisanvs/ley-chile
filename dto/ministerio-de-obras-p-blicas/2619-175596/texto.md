@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.619 de fecha 30 de junio de 2000, se expropió el lote de terreno Nº23, superficie 2.196 m², rol de avalúo 230-31, comuna de Monte Patria, para la obra ''Camino Ruta D-597, Monte Patria - Caren, Sector Juntas - Caren, Km. 8.260,00 a Km. 30.065,19 Etapa I'' y se acordó el valor de indemnización con su propietario Manuel Jesús Alucema López y otro, ascendente a la cantidad de $3.752.171.
+
+- Fiscal del Ministerio de Obras Públicas.
