@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 2.235 de 29 de Octubre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "San Luis de Pelequén" de la comuna de Malloa, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 4 a la 9 - 12 a la 13 y 27 a la 36, sitios N°s. 3 al 32 y Reserva CORA N° 1 del Proyecto de Parcelación "San Luis de Pelequén" formado por predio señalado. Los Derechos de Agua se extraen del Canal La Palma o Paula Urrutia derivado del Estero "Malambo" o "Huinico Chico".- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
