@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.127, de 31 de agosto de 2000, se expropió el lote de terreno Nº178, superficie 86 m2., rol de avalúo 5883-3, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietario José Domingo Faúndez Cáceres, ascendente a la cantidad de $15.372.695.
+
+Fiscal del Ministerio de Obras Públicas.
