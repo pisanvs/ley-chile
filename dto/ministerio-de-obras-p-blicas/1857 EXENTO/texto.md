@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.857, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº6, superficie 956 m2, rol de Avalúo Nº126-63, comuna de El Carmen, para la obra ''Area de Riego Rinconada Canal San Fernando Mogotillo Ramal 5, Km. 0,004 al Km. 1,724, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietaria Irma del Tránsito Soto Medina, ascendente a la cantidad de $482.159.
+
+Fiscal del Ministerio de Obras Públicas.
