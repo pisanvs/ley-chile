@@ -1,0 +1,25 @@
+MODIFICA RESOLUCION Nº 1.106 EXENTA, DE 2000, QUE FIJA MENCIONES Y DATOS QUE DEBERAN CONTENER LAS SOLICITUDES DE INSCRIPCION PARA LLAMADOS A POSTULACION DEL SISTEMA DE SUBSIDIO HABITACIONAL PARA LA ATENCION DEL SECTOR RURAL (TITULO I, TITULO II Y TITULO III)
+
+Santiago, 14 de febrero de 2001.- Hoy se resolvió lo que sigue:
+
+Núm. 364 exenta.- Visto: El D.S. Nº 167 (V. y U.), de 1986, y sus modificaciones; la resolución exenta Nº 1.106, de Vivienda y Urbanismo, de fecha 27 de abril de 2000, publicada en el Diario Oficial del 6 de mayo de 2000, y
+
+Considerando: Las modificaciones introducidas al D.S. Nº 167 (V. y U.), de 1986, por el D.S. Nº 288 (V. y U.), de 2000, dicto la siguiente
+
+R e s o l u c i ó n:
+
+1º.- Modifícase el numeral I de la resolución exenta Nº 1.106, de este Ministerio, de 2000, en la siguiente forma:
+
+1.- Reemplázase el inciso segundo de su número 3º, por el siguiente:
+
+"En caso que el postulante, o su cónyuge o uno o más miembros integrantes del grupo familiar acreditado, estuvieran inscritos en el Registro Nacional de la Discapacidad, se deberá especificar esta situación la que se acreditará acompañando fotocopia de la credencial de inscripción en el Registro Nacional de la Discapacidad o con certificado a que se refiere el artículo 8º del D.S. Nº 1.137, de Justicia, de 1994, que aprueba el reglamento de dicho Registro; con declaración jurada del postulante de que viven con él y a sus expensas, en su caso; debiendo, además acreditarse la condición de cónyuge o miembro integrante del grupo familiar del postulante o de su cónyuge, cuando corresponda, conforme se señala en esta resolución.".
+
+2.- Sustitúyese el número 4º por el siguiente:
+
+"4º.- Miembros que componen el grupo familiar del postulante. Sólo se considerarán miembros del grupo familiar, al postulante mismo; a su cónyuge; hijos menores de 18 años, incluyendo a aquellos que cumplen los 18 años durante el año calendario en que se postula; los hijos mayores de 18 años reconocidos como carga familiar del postulante o de su cónyuge; los hijos aún no nacidos que cuenten con dicho reconocimiento, y los padres del postulante reconocidos como carga familiar de éste que vivan con él y a sus expensas. Para estos efectos, deberá indicar los nombre y apellidos completos y año de nacimiento de cada uno de los miembros integrantes que componen su grupo familiar, incluyendo los hijos aún no nacidos reconocidos como carga familiar del postulante o de su cónyuge, en cuyo caso se omitirá la información relativa al nombre y al año de nacimiento. Lo anterior se acreditará acompañando fotocopia de las hojas correspondientes de la libreta de familia en que esté registrada la partida de nacimiento de los hijos, o con los certificados de nacimiento respectivos, siempre que en estos últimos conste el nombre de uno de sus padres, a lo menos, y siempre que éste sea el del postulante o su cónyuge, y, además, tratándose de hijos mayores de 18 años, con copia del documento en que conste su reconocimiento como carga familiar del postulante o de su cónyuge; tratándose de hijos aún no nacidos reconocidos como carga familiar del postulante o de su cónyuge, bastará con este último documento; tratándose de los padres del postulante, con copia del documento en que conste su reconocimiento como carga familiar del postulante, y declaración jurada de que viven con él y a sus expensas. Para los efectos de obtener el puntaje adicional de que trata el reglamento, para el caso de postulación de madre o padre soltero o viudo o cuyo matrimonio ha sido declarado nulo o de acreditarse discapacidad que afecte al postulante y/o a su cónyuge, en ambas circunstancias acreditando tener a su cargo uno o más hijos menores de 15 años al último día del respectivo período de postulación, que cumplan con los requisitos para integrar su grupo familiar y que sean acreditados como carga familiar del postulante o de su cónyuge, cuando corresponda, estos hijos deberán acreditarse acompañando fotocopia de las hojas correspondientes de la libreta de familia en que esté registrada la partida de nacimiento de los hijos o con los certificados de nacimiento correspondientes y, además, con copia del documento en que conste su reconocimiento como carga familiar del postulante o de su cónyuge, cuando corresponda. Cuando sea procedente, se podrá aplicar el procedimiento de acreditación que señala el inciso cuarto del número 3º de este numeral I.".
+
+2º.- Déjase establecido que las menciones y referencias que en la señalada resolución exenta Nº 1.106, de este Ministerio, de 2000, se hacen a los números 3º y 4º de su numeral I, deberán entenderse referidas a dichos números, en la forma en que ellos han sido modificados por el número 1º de esta resolución.
+
+Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
