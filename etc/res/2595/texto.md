@@ -1,0 +1,3 @@
+Por resolución Nº 2.595, de 4 de diciembre de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chungungo, sector C, IV Región, individualizada en el artículo 1º) Nº 2 del D.S Nº 398 de 1998 del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE TRABAJADORES INDEPENDIENTES DE CHUNGUNGO, comuna La Higuera, IV Región.
+
+Valparaíso, 4 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
