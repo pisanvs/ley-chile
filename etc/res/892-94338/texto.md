@@ -1,0 +1,9 @@
+AUTORIZA A PESQUERA RIO S1MPSON S.A. PARA INICIAR ACTIVIDADES DENIEGA AUTORIZACION QUE INDICA
+
+Por Resolución No. 892, de 01 de Agosto de 1989, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Río Simpson S.A., R..U.T. No. 96.547.380-7, domiciliada en Santiago, para iniciar actividades pesqueras, en orden a operar la embarcación en construcción "Río Simpson", en el litoral comprendido entre la VIII Región y el paralelo 43° L.S., excluidas las correspondientes aguas interiores, donde podrá extraer los siguientes recursos hidrobiológicos: Anguila, Apañado, Atún aleta amarilla, Atún aleta larga Ayanque, Azulejo, Bacalao de J. Fernández, Blanquillo, Bonito, Breca, Brótula, Gabinza, Cabrilla española, Cabrilla común, Cachurreta, Cazón, Chancharro, Cojinoba del norte, Cojinoba del sur, congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Lenguado de ojos chicos, Lenguado ojos grandes, Lisa, Machuelo o tritre, Marrajo o tiburón, Merluza común, Merluza del sur, Merluza de cola, Merluza de tres aletas, Mulata o vida negra, Palometa, Pampanito, Pejegallo, Pejeperro, Pejerrata, Pejerrey de mar, Pejezorro, Raya, Róbalo, Rollizo, Roncacho, Sargo, Tollo, Tomoyo, Vidriola y Bacalao de profundidad o mero.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Se deniega la autorización solicitada por la peticionaria para extraer peces demersales en la zona de mar exterior al sur del paralelo 43° L.S. y en aguas interiores de la X XI y XII Región, atendiendo el estado de plena explotación en que se encuentra esta pesquería.
+
+Valparaíso, 01 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
