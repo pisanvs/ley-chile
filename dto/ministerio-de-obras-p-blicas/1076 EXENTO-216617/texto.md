@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.076, de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº15, superficie 825 m², Rol Nº281-29, comuna de Pelluhue, VII Región para la obra "Camino Chovellen-Cobquecura, Sector: Chovellen-Límite Regional, tramo 18,260.00 a Km. 35,158.60", y se acordó el valor de indemnización con su propietario José Gregorio Torres Vega y Otro, ascendente a la cantidad de $2.225.646.-
+
+Fiscal del Ministerio de Obras Públicas.
