@@ -1,0 +1,3 @@
+Por resolución Nº 1.586 de 12 de agosto de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.525 de 1998, de esta Subsecretaría, en cuanto autorizó a PESQUERA SAN JOSE S.A., para operar una nave en construcción en Astilleros Marco Chilena Limitada, respecto de la captura de Anchoveta, Sardina española y Jurel, en el litoral de la III y IV Regiones, de conformidad con lo establecido en el inciso segundo de la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 12 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
