@@ -2990,7 +2990,7 @@ c) Giro anticipado de parte o la totalidad del saldo, autorizado por el SERVIU, 
 
 En el pago de reajustes e intereses y, si es el caso, en el cobro de comisiones por la mantención de cuentas de ahorro a plazo para la vivienda, las instituciones financieras deben ceñirse a las instrucciones impartidas sobre esa materia en el Capítulo 2-4 de esta Recopilación de Normas, tanto en lo que concierne a la información a los ahorrantes, como a la forma de cálculo y oportunidad de la imputación de los montos a las respectivas cuentas individuales.
 
-No obstante, para la determinación del derecho a recibir reajustes deben tenerse presente las disposiciones específicas contenidas en el numeral 3.2 anterior en relación con el límite de giros, así como las instrucciones del número 10 de este título, relativas al abono anticipado de los reajustes e intereses devengados, cuando se traspase una cuenta de ahorro a plazo para la vivienda a otra institución financiera.
+No obstante, para la determinación del derecho a percibir reajustes e intereses deben tenerse presente las instrucciones específicas relativas al cómputo de giros contenidas en el numeral 3.2, y las relativas al abono anticipado de intereses y reajustes de que tratan los N°s 10 y 14 de este título.
 
 En todo caso, no tendrán derecho a reajuste ni a intereses las cuentas que hayan sido cerradas voluntariamente antes de cumplir el período mínimo que corresponda, salvo cuando el cierre tenga lugar para los efectos de traspasar la cuenta a otra entidad financiera, caso en que se procederá respecto de los intereses y reajustes devengados, de acuerdo con lo señalado en el número 10 de este título.
 
@@ -3119,6 +3119,10 @@ Para acreditar que el ahorro mantenido se aplica al pago del precio de compra o 
 Si se trata de destinarlo al pago de la construcción de una vivienda en un sitio de propiedad del ahorrante, deberá mantenerse en la cuenta hasta una fecha no anterior a la de inscripción de la prohibición para enajenar la vivienda a que se refiere el número 2 del título VI de este capítulo, ni a la fecha del certificado de recepción municipal de la vivienda.
 
 Sin embargo, el ahorrante podrá girar anticipadamente el saldo acumulado, con el objeto de pagar el precio de la vivienda que adquiere o construye, si para ello cuenta con la autorización del SERVIU, según lo establecido en el numeral 12.3 de estas normas.
+
+Cuando corresponda aplicar total o parcialmente los fondos acumulados al pago de la vivienda, se deberá liquidar y abonar previamente los reajustes e intereses devengados hasta el último día del mes anterior a aquél en que se efectúe el giro, aunque hasta esa fecha no hubiere transcurrido el período establecido como regla general para el abono.
+
+La aplicación de los recursos al pago de la vivienda adquirida, implica el cierre de la cuenta de ahorro para la vivienda, puesto que con ese giro se cumple su finalidad. En caso de que no se aplique la totalidad de los fondos a ese pago, las instituciones financieras, junto con proceder al cierre de la cuenta, traspasarán el saldo remanente como depósito inicial de una nueva cuenta de ahorro abierta para el efecto, a menos que el titular acuerde otro destino para ese saldo.
 
 ### 15. Cumplimiento del contrato de ahorro
 
