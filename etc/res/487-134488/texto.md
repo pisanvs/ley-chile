@@ -1,0 +1,3 @@
+Por resolución Nº 487, de 29 de marzo de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 525 de 1995, de esta Subsecretaría, que autorizó a PACIFIC FISHERIES S.A., para operar la nave ''Ligrunn'', sólo en lo relativo a la operación en el litoral de las regiones III y IV, respecto de los recursos Jurel, Agujilla, Anchoveta, Caballa, Machuelo o tritre, Sardina española y Sardina común, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
