@@ -1,0 +1,5 @@
+Por decreto MOP Nº5.342, de 13 de diciembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº19-A, para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector G: Km. 110.200,00 - Km. 128.400,00", Sexta Región, que figura a nombre de Martínez Ruz Lidia del C., rol de avalúo 206-343, comuna de Rengo, superficie 572 m². La comisión de peritos integrada por los señores José Cristián Larraín Barros, Enrique Luis Figueroa Echeverría y María Angélica Hurtado Arranz, fijó con fecha 28 de febrero de 2000, el valor provisional de la indemnización en la cantidad de $5.248.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
