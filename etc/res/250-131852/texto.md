@@ -1,0 +1,13 @@
+Por resolución Nº 250, de 3 de febrero de 1999, de esta Subsecretaría, autorízase a EXPOMAGRO TALCAHUANO S.A., para iniciar actividades pesqueras de transformación, en la forma y bajo las condiciones que a continuación se expresan.
+
+La peticionaria podrá instalar y operar una planta ubicada en Las Heras Nº 2241, Concepción, VIII Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Congelado, fresco-refrigerado, semiconserva, surimi, salado, seco-salado, ahumado, cocido, congelado, apanado y prefrito.
+
+Acha, Agujilla, Albacora o pez espada, Alfonsino, Anchoveta, Anguila, Apañado, Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Ayanque, Azulejo, Bacaladillo o mote, Bacalao de profundidad, Bacalao de J. Fernández, Besugo, Blanquillo, Bonito, Breca o bilagay, Brótula, Caballa, Cabinza, Cabrilla, Cochinilla, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Chancharro, Dorado, Huaiquil, Corvinilla, Jerguilla, Jurel, Lenguado de ojos chicos, Lisa, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Palometa, Pampanito de J. Fernández, Pejeperro, Pejesapo, Pejegallo, Pejerrey de mar, Puye, Raya, Reineta, Róbalo, Rollizo, Roncacho, Salmón del Atlántico, Salmón plateado, Salmón rey, Sardina española, Sardina común, Sargo, Sierra, Tiburón o marrajo, Tollo, Tomoyo, Toremo, Trucha arcoiris o Cabeza de acero, Turbot, Vidriola o palometa, Vieja o mulata, Almeja o taca, Almeja, Calamar, Caracol caramujo, Caracol locate, Caracol trumulco, Chitón o apretador, Chocha, Cholga, Choro, Chorito, Navaja de mar o huepo, Lapa, Loco, Macha, Navajuela, Ostión del norte, Ostión del sur, Ostra chilena, Ostra del Pacífico, Pulpo.
+
+Camarón nailon, Camarón de río, Camarón ecuatoriano, Centolla, Centollón, Gamba, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba peluda o pachona, Jaiba reina, Jaiba remadora, Langosta de J. Fernández, Langostino amarillo, Langostino colorado, Picoroco, Erizo, Pepino de mar, Piure.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Déjase sin efecto la resolución Nº 427, de 1985, de esta Subsecretaría, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 3 de febrero de 1999.- Edith Saa Collantes, Subsecretario de Pesca (S).
