@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.563, de 22 de octubre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Servicios Sanitarios del Bío Bío S.A., el lote de terreno Nº1, para la obra Emisario de Aguas Servidas-Negrete, que figura a nombre de José del Carmen Zapata Molina, rol de avalúo 00070-00197, comuna de Negrete, VIII Región, superficie 2.698,11 M2. La Comisión de Peritos, fijó con fecha 30 de julio de 2001, el valor provisional de la indemnización en la cantidad de $2.698.110, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal de Ministerio de Obras Públicas.
