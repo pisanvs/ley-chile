@@ -1,0 +1,3 @@
+Por decreto MOP Nº 292, de fecha 28 de febrero de 2001, se expropiaron los lotes de terreno Nºs. 1-C y 2-A, superficies 686 m2 y 327 m2, respectivamente, roles de avalúo 131-91 y 131-90, comuna de Nancagua, para la obra "Camino Ruta I-50, Sector Nancagua - Santa Cruz, Km. 26.800 al Km. 42.321" y se acordó el valor de indemnización con su propietaria Ana Rosa Piña Díaz, ascendente a la cantidad de $13.607.620.-
+
+Fiscal del Ministerio de Obras Públicas.
