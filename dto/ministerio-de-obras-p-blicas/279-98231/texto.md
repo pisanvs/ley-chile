@@ -1,0 +1,5 @@
+Por decreto MOP. Nº279, de 16 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº7O, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, sector km.
+
+14.800,00 al km. 21.300,00, que figura a nombre de Productos Plásticos del Pacífico S.A., Rol de Avalúo 183-73, comuna de Colina, superficie 2.829 m2. La comisión de peritos integrada por Mónica del Carmen Conejeros Rudloff, Marly Ester Flores Altonaga y Walter Foich Garbarini, fijó con fecha 28 de noviembre de 1997, el valor provisional de la indemnización en la cantidad de $93.279.237.- para el lote 70. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
