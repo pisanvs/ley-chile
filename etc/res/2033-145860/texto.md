@@ -1,0 +1,3 @@
+Por resolución Nº 2.033, de 11 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97106013, presentada por INVERTEC PESQUERA MAR DE CHILOE S.A., para operar un centro de cultivo ubicado en Canal Laitec, sector Punta Laitec, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 11 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
