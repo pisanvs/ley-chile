@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA CHILEMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS, DEJA SIN EFECTO AUTORIZACION QUE INDICA Y DEROGA RESOLUCION No. 499, DE 1984
+
+Por Resolución No. 574, 12 Set. 1985, de la Subsecretería de Pesca del Ministerio de Economía, Fomento y Reconstrucción se autoriza a Pesquera Chilemar, S.A., domiciliada; en Santiago y Arica, para operar la embarcación "FERMAR I", en la zona del litoral comprendida entre la I y la II Región, en labores extractivas de sardina española, jurel, anchoa y caballa. La embarcación que se autoriza reemplaza a la denominada "MAR VERDE", sancionada operar por Resolución No. 132, de 1984, de la misma Subsecretaría, autorización que se deja sin efecto. Asimismo, se deroga la Resolución No. 499, de 25 de Octubre de 1984, modificada por Resolución No. 529, de 08 de Noviembre de 1984, y No. 99, de 15 de Febrero de 1985, que autorizó a Sociedad Pesquera Formar Limitada, para operar la embarcación "FERMAR I".
+
+Valparaíso, 12 de Septiembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
