@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.721, de 3 de noviembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112000 presentada por MARIA ORIANA HERNANDEZ MANSILLA para instalar y operar un centro de cultivo ubicado en Península Taitao, lado weste de Estero Walker (sector 1), XI Región.
+
+Valparaíso, 3 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
