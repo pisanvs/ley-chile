@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.472, de 31 de mayo de 1999, se expropió el lote de terreno Nº 2, superficie 12.942 m², rol de avalúo 168-147, comuna de Maule, para la obra Camino Ruta 5, Tramo Talca - Chillán, Intersección Desnivelada Acceso a Maule, Séptima Región y se acordó el valor de indemnización con su propietario José Sergio Abdalah Zárate, ascendente a la cantidad de $20.469.870.-
+
+Fiscal del Ministerio de Obras Públicas.
