@@ -1,0 +1,3 @@
+Por decreto MOP N°2.231, de 30 de octubre de 1998, se expropiaron los lotes de terreno N°s. 4 y 9, superficies 279,2 m2 y 135 m2, roles de avalúo 330-8 y 330-15, comuna de Renca, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte-Sur, sector Río Mapocho-Ruta 5 Norte, Eje General Velásquez y se acordó el valor de indemnización con sus propietarios Héctor Enrique Plaza Hernández y otros y Alexis Antonio Ruiz Rojas, ascendente a las cantidades de $32.087.918 y $9.464.700.
+
+Fiscal del Ministerio de Obras Públicas.
