@@ -1,0 +1,5 @@
+Por resolución N° 350, de 30 de Marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA BALZAK S.A., R.U.T. N° 96.693.160-4, para ampliar las actividades pesqueras que tiene autorizadas por resolución N° 696, de 1994, de esta Subsecretaría, en orden a capturar con la nave "Teararoa Rakei", autorizada por la resolución señalada precedentemente, en el litoral de la VIII Región al paralelo 41°28,6', por fuera del área de reserva artesanal, los siguientes recursos hidrobiológicos, sólo como fauna acompañante de la especie Raya volantín con espinel de fondo: Anguila, Chancharro, Tollo de cachos y Fume.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 30 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
