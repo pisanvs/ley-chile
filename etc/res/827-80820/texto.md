@@ -1,0 +1,3 @@
+Por resolución No. 827, de 17 de Julio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar de la fecha de esta Resolución, el plazo otorgado a PESQUERA OCEANICA LTDA., R.U.T. No. 82.957.700-3, domiciliado en calle Los Conquistadores No. 1700, Torre Santa María, Piso 14, Santiago, para empezar a operar la planta industrial autorizada por la Resolución No. 1410, de 1988, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 17 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
