@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.170, de 29 de mayo del 2000, se expropiaron los lotes de terreno Nºs. 3, 7, 8, 17 y 20, superficies 1.188, 490, 1.259, 192 y 237 m² respectivamente, roles de avalúos 329-77, 323-61, 323-65 y 324-4, comuna de Río Negro, para la obra Camino Ruta U-72, Huilma-Riachuelo, tramo Kms. 18,14000 al 33,91000 y se acordó precio de las indemnizaciones con sus propietarios Zacarías Segundo Aguila Vidal, Luis Alberto Silva González, Edwin del Carmen Arismendi Sánchez y Guido José Neumann Hitschfeld, ascendentes a las cantidades de $1.253.387 para el lote Nº3, $845.084, para los lotes Nºs. 7 y 8, $356.859, para el lote Nº17 y $305.652, para el lote Nº20.-
+
+Fiscal del Ministerio de Obras Públicas.
