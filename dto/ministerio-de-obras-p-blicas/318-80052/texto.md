@@ -1,0 +1,3 @@
+Por Decreto MOP Nº. 318 de 29 de noviembre de 1991, se expropiaron los lotes Nº. s. 32, 33 y 34 del Tramo C y No. s. 2, 3,4,5,6,7,8 y 9 del Tramo D, superficie 5.695,97 m2., rol de avalúo 221-015, Comuna de Santa Bárbara, para la obra Camino de Acceso y de la Red Vial Interna de la Central Pangue, y se acordó precio de indemnización con su propietaria Sociedad Agrícola Pireco Ltda., ascendente a $ 2.022.025.-
+
+Fiscal del Ministerio de Obras Públicas.
