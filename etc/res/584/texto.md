@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIONES
+
+Por Resolución N° 584, de 17 de mayo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstruccion, se autoriza a EXPLOTADORA Y COMERCIALIZADORA DE PRODUCTOS MARINOS PRINCIPADO LTDA.;
+
+R.U.T. N° 79.987.080-0, domiciliada en Puerto Montt, calle Antonio Varas N° 813, Of. 4 y 5, para iniciar actividades pesqueras de transformación, en orden a operar una planta industrial en la X Región, ubicada en la localidad de San Antonio, Comuna de Quellón, Provincia de Chiloé, donde procesará en las líneas de elaboración de congelado, fresco-enfriado, seco-salado, deshidratado, ahumado, conservas, los siguientes recursos hidrobiológicos: Bacalao de profundidad, caballa, cojinoba del Norte, cojinoba del Sur, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado de ojos chicos, lenguado de ojos grandes, lisa machuelo o tristre, narrajo o tiburón, merluza común, merlusa del Sur, merluza de cola, merluza de tres aletas, pejegallo, pejerrey de mar, raya, róbalo, salbón del pacífico, sardina, sardina común, sierra, tiburón sardinero, tollo, trucha arcoiris, almeja o taca, almeja, calamar, caracol locate, caracol tegula, caracol trumulco, cholga, chorito, choro, culengue, lapa, macha, navajuela, ostión del Sur, otra Chilena, otra del Pacífico, pulpo, camarón de roca, centolla, centollón, krill, jaiba, langostino de los canales, picoroco, erizo y piure. Asimismo, procesará en la línea de secado de algas: Cochayuyo, chasca, chascón, huiro, luga-luga y pelillo. Deberá adquirir las especies salmonídeas en centros de cultivos autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras que le corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias o que se establezcan.
+
+Deniégase la autorización solicitada para procesar los recursos loco y ostión del Norte, en virtud de lo dispuesto en los D.S. N° 198, de 1988 y D.S. N° 126, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 17 de Mayo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
