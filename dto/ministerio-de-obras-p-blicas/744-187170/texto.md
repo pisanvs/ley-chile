@@ -1,0 +1,3 @@
+Por decreto MOP Nº 744, de 30 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la ejecución de la obra ''Camino Cobquecura-Colmuyao-Mela, Sector Puente Mela Km. 0,00000 a Km. 0,38100'', que figura a nombre de Domingo Osmán Cartes Vergara, Rol de Avalúo 192-14, comuna de Trehuaco, VIII Región, superficie 4.708 m². La comisión de peritos fijó con fecha 15 de abril de 2000, el valor provisional de la indemnización en la cantidad de $4.756.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
