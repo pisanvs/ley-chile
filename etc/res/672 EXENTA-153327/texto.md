@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante Resolución Exenta N° 672 de 20 de Mayo de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "Fundo San Ramón.... Fundo Callejones" "Santa Teresa" de la comuna de Linares, VII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s 1 a la 12, sitios N°s I al 18 del Proyecto de Parcelación "El Piñón" formado por predios señalados, Los Derechos de Agua se extraen del Estero Apestado por el canal San Ramón; del Estero Correntoso, del Estero El Arrayán por el Canal Callejones y Canal Santa Teresa, de Derrames La Chimba, Derrames Reemplazo Canal Iansa, Derrames del Fundo Suc. Rodríguez por el Canal La Posada, Derrames del Fundo San Ramón por Canal Novoa, Derrames del Asentamiento Piñadero, y del Canal Villalobos.- Publicación hecha conforme Art, 13 Ley N° 18.377.-
+
+Director Ejecutivo.
