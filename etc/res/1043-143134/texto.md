@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD COMERCIAL E INDUSTRIAL GIORDANO LTDA. Y COMPAÑIA EN COMANDITA POR ACCIONES PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 1.043, de 30 de Diciembre de 1986, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Comercial e Industrial Giordano Ltda. y Compañía en Comandita por Acciones, domiciliada en Iquique, para sustituir una embarcación en construcción de 400 m3 de capacidad de bodega que tenía autorizada operar en el litoral de la I y II Región por resolución No. 6, de 1986, de esta Subsecretaría, por dos embarcaciones de 140 m3. y 260 m3, respectivamente, en el litoral de las Regiones citadas, en faenas extractivas de jurel, sardina española, caballa y anchoa que destinará a la línea de harina de pescado y de bonito que destinará a la de congelado. Derógase la resolución No. 6, de 1986, de esta Subsecretaría, que autorizó a la peticionaria para operar una embarcación en construcción.
+
+Valparaíso, 30 de Diciembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
