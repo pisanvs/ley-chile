@@ -978,6 +978,12 @@ La sanción pecuniaria establecida en el inciso precedente podrá hacerse efecti
 
 El que concertado facilitare los medios para que en las referidas presentaciones se incluyan maliciosamente datos o antecedentes falsos, será sancionado con la pena de presidio menor en su grado mínimo y con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
+24°.- Los contribuyentes de los impuestos establecidos en la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del decreto ley Nº 824, de 1974, que dolosamente y en forma reiterada, reciban de las instituciones a las cuales efectúen donaciones, contraprestaciones directas o indirectas o en beneficio de sus empleados, directores o parientes consanguíneos de éstos, hasta el segundo grado, en el año inmediatamente anterior a aquél en que se efectúe la donación o, con posterioridad a ésta, en tanto la donación no se hubiere utilizado íntegramente por la donataria o simulen una donación, en ambos casos, de aquellas que otorgan algún tipo de beneficio tributario que implique en definitiva un menor pago de algunos de los impuestos referidos, serán sancionados con la pena de presidio menor en sus grados medio a máximo. Para estos efectos, se entenderá que existe reiteración cuando se realicen dos o más conductas de las que sanciona este inciso, en un mismo ejercicio comercial anual.
+
+El que dolosamente destine o utilice donaciones de aquellas que las leyes permiten rebajar de la base imponible afecta a los impuestos de la Ley sobre Impuesto a la Renta o que otorgan crédito en contra de dichos impuestos, a fines distintos de los que corresponden a la entidad donataria de acuerdo a sus estatutos, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
+
+Los contribuyentes del impuesto de primera categoría de la Ley sobre Impuesto a la Renta, que dolosamente y en forma reiterada, deduzcan como gasto de la base imponible de dicho impuesto donaciones que las leyes no permiten rebajar, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
+
 #### Artículo 98
 
 De las sanciones pecuniarias responden el contribuyente y las demás personas legalmente obligadas.
@@ -1128,7 +1134,7 @@ El Director Regional podrá autorizar a funcionarios del Servicio para conocer y
 
 #### Artículo 117
 
-Conocerá en primera instancia de todo asunto relacionado con la determinación de los impuestos a las asignaciones por causa de muerte y a las donaciones y con la aprobación del pago respectivo, el Juez de Letras de Mayor Cuantía en lo Civil que haya concedido o deba conceder la posesión efectiva de la herencia del causante o el del domicilio del donante, en su caso. El mismo Juez conocerá de la aplicación de las sanciones que correspondan, en relación a estos impuestos.
+Derogado.
 
 #### Artículo 118
 
@@ -1408,19 +1414,15 @@ Del procedimiento de reclamo del impuesto a las asignaciones por causa de muerte
 
 #### Artículo 155
 
-La resolución judicial que determine o apruebe un impuesto a las asignaciones por causa de muerte y a las donaciones, diferente al propuesto por el Servicio, deberá notificarse personalmente o por cédula al jefe de éste en el lugar donde se tramite el asunto.
-
-La resolución que determine el impuesto será en todo caso apelable y contra la sentencia de segunda instancia procederán los recursos de casación en la forma y en el fondo, conforme a las reglas generales.
-
-Sin perjuicio de los plazos y recursos legales, el interesado podrá solicitar en cualquier tiempo el cumplimiento de la resolución o del acto de partición, o disponer de los bienes hereditarios, pagando previamente la parte no discutida del impuesto y caucionado a satisfacción de la Dirección Regional o depositando a la orden del tribunal la parte controvertida.
+Derogado.
 
 #### Artículo 156
 
-El recurso de apelación contra la resolución que fije el impuesto deberá interponerse en el término fatal de quince días, contados desde la notificación.
+Derogado.
 
 #### Artículo 157
 
-Corresponderá al Director Regional la representación y defensa del Fisco, en primera instancia, en los trámites de determinación del impuesto.
+Derogado.
 
 ### Párrafo 3°
 
@@ -1564,13 +1566,11 @@ De las denuncias por infracciones a los impuestos a las asignaciones por causa d
 
 #### Artículo 166
 
-En los casos en que la Dirección Regional estime procedente la denuncia formulada y con motivo de ella deban determinarse impuestos a las asignaciones por causa de muerte o a las donaciones, pedirá el juez competente, además de la liquidación del impuesto, la aplicación de las sanciones que corresponda. El juez deberá comprender en el fallo la determinación de los impuestos y la aplicación de las sanciones que sean procedentes.
-
-Serán aplicables en estos casos las normas establecidas en el Párrafo 1° del Título IV de este Libro, en lo que sean pertinentes, y los recursos que se deduzcan comprenderán en su caso las sanciones y los impuestos a que el fallo se refiera.
+Derogado.
 
 #### Artículo 167
 
-Si con motivo de la infracción cometida no procediere la liquidación o reliquidación de impuestos, se dará tramitación a la denuncia de acuerdo con las normas del Párrafo 1° de este Título.
+Derogado.
 
 ## Título V
 
@@ -1900,9 +1900,7 @@ Los plazos establecidos en el presente artículo y en el que antecede se suspend
 
 #### Artículo 202
 
-Sin perjuicio de las normas de los artículos 200 y 201, el plazo de prescripción para el cobro del impuesto a las asignaciones por causa de muerte y a las donaciones, será de seis años si el contribuyente no hubiere solicitado la determinación provisoria o definitiva del impuesto. En los demás casos dicho término será de tres años.
-
-Para los efectos del número 2° del artículo 201, se entenderá que se cumple con los requisitos que ese número establece, desde que el Servicio pida la determinación provisoria o definitiva del impuesto.
+Derogado.
 
 TITULO FINAL
 

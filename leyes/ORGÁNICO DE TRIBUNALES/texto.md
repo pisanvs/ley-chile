@@ -2258,7 +2258,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.577 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.426 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.750 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.560 pesos.
 
 #### Artículo 199
 
@@ -4350,11 +4350,9 @@ Las personas que tengan copias autorizadas de las originales estarán obligadas 
 
 #### Artículo 439
 
-Los testamentos abiertos o cerrados que se otorguen ante notario u otros funcionarios públicos que hagan sus veces, deberán figurar, sin perjuicio de su inserción en los índices a que se refiere el artículo 431, en un registro índice general de disposiciones de última voluntad, que estará a cargo y bajo la responsabilidad del Archivero Judicial de Santiago. Este registro tendrá dos índices, uno para los testamentos abiertos y otro para los testamentos cerrados, los que se regirán por lo dispuesto en el inciso final del artículo 431 y deberán indicar, además, el funcionario ante quien se haya otorgado.
+El hecho de haberse otorgado un testamento abierto o cerrado ante notario u otros funcionarios públicos que hagan sus veces, deberá figurar, sin perjuicio de su inserción en los índices a que se refiere el artículo 431, en un Registro Nacional de Testamentos, que estará a cargo y bajo la responsabilidad del Servicio de Registro Civil e Identificación. Igualmente, deberán figurar en este Registro todos los testamentos protocolizados ante notario.
 
-Estos registros serán reservados sin que ellos puedan ser exhibidos o se informe respecto de ellos, salvo por orden judicial o ante una petición de un particular que acompañe el certificado de defunción que corresponda al otorgante del testamento.
-
-Los notarios de las tres primeras categorías del Escalafón deberán remitir al Archivero Judicial de Santiago, dentro de los diez primeros días de cada mes, por carta certificada, las nóminas de los testamentos abiertos y de los testamentos cerrados que se hubieren otorgado en sus oficios durante el mes anterior, con los datos indicados en el inciso tercero del artículo 431. Los notarios de la cuarta categoría del Escalafón y los funcionarios públicos que hagan las veces de notario, deberán hacer igual remisión por períodos bimestrales, dentro de los diez primeros días siguientes al vencimiento del respectivo bimestre.
+Los notarios y los referidos funcionarios deberán remitir al Servicio de Registro Civil e Identificación, dentro de los diez primeros días de cada mes, por carta certificada, las nóminas de los testamentos que se hubieren otorgado o protocolizado en sus oficios, durante el mes anterior, indicando su fecha, el nombre y rol único nacional del testador y la clase de testamento de que se trata.
 
 7). De las infracciones y sanciones
 
