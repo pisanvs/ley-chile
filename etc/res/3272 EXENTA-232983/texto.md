@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.272 de 12 de noviembre de 2004 de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 3555 de 2003, modificada mediante resoluciones Nº 1494, Nº 1750 y Nº 2983, todas de 2004, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Pesca de investigación de Merluza del sur en la Región de Magallanes - Fase III, 2004", en el sentido de señalar que la cuota de investigación autorizada para el mes de noviembre será extraída a contar del 1º de diciembre.
+
+Déjase sin efecto la resolución Nº 3157 de 2004, de esta Subsecretaría de Pesca, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 12 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
