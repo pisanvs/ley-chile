@@ -1,0 +1,3 @@
+Por resolución Nº189, de 30 de septiembre de 1999, de Serviu Región de Coquimbo, se ordenó expropiación, conforme art. 51 ley 16.391 y D.L. 2.186 de 1978, de parte del inmueble ubicado en calle Amunátegui Nº427 presunto Rol de avalúo 162-138 comuna de La Serena, aparente dominio doña Miriam L. Trigo G., de una superficie aproximada de 50,467 metros cuadrados. Comisión Peritos integrada por don Patricio Mena López, Alfredo Prieto Parra y doña Iris Marcich Moller, arquitectos, según informe de 14 de septiembre de 1999, fijó monto provisional indemnización en $2.637.309 pagadera al contado.-
+
+Director Serviu Región de Coquimbo.
