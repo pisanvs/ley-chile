@@ -1,0 +1,3 @@
+Por Resolución Nº 108, de 22 de enero de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución Nº 251, de 1987, de esta Subsecretaría, que autorizó a COMPAÑIA PESQUERA CABO AUSTRAL S.A., para desarrollar actividades pesqueras extractivas con la nave "Gendarme I", sólo en lo relativo a la especie Langostino amarillo Cervimunida johni, por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 22 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
