@@ -1,0 +1,3 @@
+Por Resolución Nº 273, de 25 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ROBINSON CRUSOE Y COMPAÑIA LIMITADA, para continuar desarrollando las actividades pesqueras autorizadas a Aquasur Fisheries Sociedad Pesquera Limitada, del mismo R.U.T. y domicilio, en virtud de la escritura pública y disposiciones legales.
+
+Valparaíso, 25 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
