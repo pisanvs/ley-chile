@@ -1,0 +1,1 @@
+Amplía en diez años el plazo de la moratoria establecida en las leyes que indica, para el servicio de aquellas obligaciones en moneda extranjera que no hubiere asumido la Caja Autónoma de Amortización de la Deuda Pública.
