@@ -1,0 +1,3 @@
+Por resolución Nº 346 de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97101068 presentada por TEOFILO GODOY OJEDA, para instalar y operar el centro de cultivo ubicado en lote C, parcela Nº 63, ribera norte del río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
