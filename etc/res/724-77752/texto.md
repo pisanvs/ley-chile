@@ -1,0 +1,5 @@
+Por Resolución No. 724 de 31 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a CONSERVERA PENTZKE S.A., R.U.T. No. 92.279.000-0, domiciliada en la ciudad de San Felipe, calle Avenida Bernardo O'Higgins No. 310, para ampliar actividades que tiene autorizadas por Resolución No. 828, de 1991, en orden a operar una planta industrial en la V Región, ubicada en Avenida Bernardo O'Higgins No. 310, Provincia de San Felipe, donde procesará en la línea de elaboración de congelado, fresco - refrigerado, ahumado y conservas, los siguientes recursos hidrobiológicos: Congelado, Fresco - refrigerado, Ahumado y Conservas, Trucha arco iris, Salmón del atlántico y Salmón coho, los que provendrán de su propio centro de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que establezcan.
+
+Valparaíso, 31 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
