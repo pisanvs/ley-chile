@@ -1,0 +1,5 @@
+Por Resolución No. 682 de 24 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a AGRICOLA TREBULCO LTDA., R.U.T.
+
+No. 79.812.440-4, domiciliada en Camino El Oliveto s/n°, Santa Ana, Talagante, para ampliar actividades pesqueras de transformación, autorizadas por Resolución No. 1.003, de 1989 de esta Subsecretaría, en orden a operar una planta industrial, ubicada en Camino El Oliveto s/n° , Santa Ana, Talagante, Santiago, donde procesará en la línea de elaboración de congelado y fresco - refrigerado el recurso hidrobiológico Trucha arcoiris, Oncorhynchus mykiss, el que deberá adquirir de centros de cultivo autorizado. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 24 de Julio de 1992.- Andrés Couve Rioseco Subsecretario de Pesca.
