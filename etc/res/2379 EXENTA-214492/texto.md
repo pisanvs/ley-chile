@@ -54,70 +54,6 @@ Se solicitará un Estudio de Impacto sobre el Sistema de Transporte Urbano, cuan
 
 Cuadro N° 2.1. Condiciones que determinan la necesidad de un EISTU
 
-N° Instru- Artículo Proyectos Unidad Requiere
-
-mento EISTU
-
-Legal
-
-1 Art. Uso Estaciona- ≤250
-
-2.4.3 Residen- miento Estac.
-
-cial
-
-2 Ordenanza Uso No Estaciona- ≤150
-
-General de Residen- miento Estac.
-
-Urbanismo y cial
-
-Construccio-
-
-nes
-
-3 Art. Locales Capacidad ≤720
-
-4.5.4(*) Escolares Alumno Alumnos
-
-4 Art. Estableci- Ocupación 1.000
-
-4.8.3(*) mientos Máxima personas
-
-Deportivos
-
-y Recreativos
-
-Art.
-
-4.13.7(*) Terminales Vehículos Todos las
-
-Usuarios Categorías
-
-excepto
-
-la A
-
-5 DFL 850/97 - Colindantes No hay Según
-
-del MOP con Caminos crite-
-
-Públicos (CP) rios
-
-ante-
-
-riores
-
-6 DS 83/85 - Colindantes No hay Según
-
-Mintratel con Red Vial crite-
-
-Básicas (RVB) rios
-
-ante-
-
-riores
-
 * : En lo que corresponde al estudio de tránsito y/o accesibilidad deberán ceñirse a esta Metodología.
 
 Todos los proyectos que requieran de un Estudio de Impacto sobre el Sistema de Transporte Urbano deberán ser presentados a la Ventanilla Unica que será representada por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones.
@@ -1041,6 +977,8 @@ Transporte Privado
 La comparación de los indicadores se realizará para los arcos de los accesos de cada intersección del área de influencia. En este sentido, en cada arco de los accesos se deberá calcular la capacidad de reserva, la cual se define en este caso, como el flujo vehicular (veq/hr) equivalente a la diferencia entre el 90 % de la capacidad y el flujo obtenido en la simulación del Escenario Base.
 
 De esta forma, si qo y Qo son el flujo y la capacidad en el Escenario Base en los períodos que se analizan, respectivamente, entonces la capacidad de reserva Qr está dada por la siguiente expresión:
+
+.
 
 Se entenderá que el proyecto no genera impacto y que, por lo tanto, no se requieren medidas de mitigación, si para todos los arcos del área de influencia se cumple alguna de las siguientes condiciones, según corresponda:
 
