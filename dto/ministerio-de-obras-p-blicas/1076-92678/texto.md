@@ -1,0 +1,3 @@
+Por Decreto MOP N°1.076, de 31 de octubre de 1997, se expropiaron los lotes de terreno N°s 4 y 4-A, Canal Trilaleo; N° 2 y 2, Canal Trilaleo-Ramal 2.1, superficies 1.356, 2.766, 1.590, 662 y 162 m2, respectivamente, roles de avalúos 589-13 y 589-9, Comuna de Yungay, para la obra Proyecto Laja Diguillín, Area de Riego Yungay y se acordó precio de indemnización con sus propietarios, Bristela Erices Friz y otros, ascendente a la cantidad de $1.768.111.
+
+Fiscal del Ministerio de Obras Públicas.
