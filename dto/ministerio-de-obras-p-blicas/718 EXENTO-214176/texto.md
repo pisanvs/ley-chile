@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 718 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 46-A, superficie 607 m², rol Nº 1129-36, comuna de Pichilemu, VI Región para la obra "Camino Pichilemu - Cáhuil, Ruta I-500, Km. 0,980 al 12,76217, y se acordó el valor de indemnización con su propietario José Antonio Mellado Cabrera, ascendente a la cantidad de $1.908.179.
+
+Fiscal del Ministerio de Obras Públicas.
