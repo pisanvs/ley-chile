@@ -1,0 +1,11 @@
+Por resolución Nº 1.855, de 29 de agosto de 2002, de esta Subsecretaría, autorízase a la UNIVERSIDAD AUSTRAL DE CHILE para realizar una pesca de investigación en el marco del Proyecto Fondecyt 1020183 denominado "Interacciones Bosque-Agua: Servicio Generadores de Biodiversidad", el cual se considera como parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en demostrar que la diversidad y abundancia de los organismos macrobentónicos fluviales y de peces, guarda relación directa con la composición específica y diversidad vegetacional nativa del bosque templado húmedo que circunda la cuenca de drenaje.
+
+La pesca de investigación se efectuará por el término de 12 meses contados desde la fecha de publicación de la presente resolución en el Diario Oficial, en las siguientes áreas de pesca: Cuencas de los ríos Valdivia, Bueno, Maullín, Petrohué, Chamiza; Cursos de agua afluentes a los ríos Toltén, Itata y Biobío.
+
+En cumplimiento del objetivo de la presente pesca de investigación, se autoriza la extracción controlada de un límite máximo de 10 ejemplares de cada una de las siguientes especies, dos veces al año, en los muestreos invierno-primavera y verano-otoño: Trucha arcoiris, Trucha café, Salmón coho, Salmón del Atlántico, Salmón rey. Asimismo, la peticionaria podrá capturar, dos veces al año, en los muestreos antes señalados, 3 ejemplares de las siguientes especies nativas: a) En las áreas de pesca de la VIII, IX y X Región: Bagre, Lamprea, Puye grande, Peladilla, Farionela listada; b) En las áreas de pesca de la VIII Región: Puye chico, Pejerrey.
+
+La Universidad designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al rector de dicha Casa de Estudios, don Manfred Max-Neef.
+
+Valparaíso, 29 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
