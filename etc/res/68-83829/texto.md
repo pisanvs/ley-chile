@@ -1,0 +1,3 @@
+Por Resolución No. 68, de 26 de enero de 1990, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó complementariamente a la empresa peruana Expreso Internacional Ormeño SA para efectuar servicio internacional de transporte terrestre de pasajeros entre Lima (Perú) y Santiago (Chile), por paso Concordia, con dos (2) frecuencias semanales.-
+
+Patricio Figueroa Cruz, Subsecretario de Transportes Subrogante.
