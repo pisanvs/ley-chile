@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.957, de 30 de noviembre de 2001, y en base a la facultad otorgada por el artículo 105 de DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra Laja-Diguillín, Area de Riego Rinconada, Canal San Fernando Mogotillo, Ramal 1.1, Km 0.006-0.240", que figura a nombre de Sandoval Stevens Alicia Pilar, rol de avalúo 128-145, comuna de El Carmen, superficie 1.644 m2. La Comisión de Peritos fijó la indemnización provisional, con fecha 30 de septiembre de 2001, en la cantidad de $3.790.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
