@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.464, de 31 de agosto de 1999, se expropiaron los lote de terreno Nºs 12 y 13, superficies 930 y 8.650 m2. respectivamente, rol de avalúo 48-40, comuna de Lonquimay, para la obra Camino Curacautín - Pino Hachado, Sector Malalcahuello - Lonquimay y se acordó precio de indemnización con su propietario Sociedad Forestal San Juan Limitada, ascendente a la cantidad de $1.345.741.-
+
+Fiscal del Ministerio de Obras Públicas.
