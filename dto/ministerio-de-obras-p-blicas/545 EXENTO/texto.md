@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 545, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 17, superficie 2.574,0 m², rol de avalúo 386-32, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, expropiaciones Red Primaria 1/5, Derivado Comuy, Sector Km. 0.000 al 6.120,36" y se acordó el valor de indemnización con su propietario José Ñirifil Ancan y otros, ascendentes a la cantidad de $1.341.801.-
+
+Fiscal del Ministerio de Obras Públicas.
