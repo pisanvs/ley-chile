@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 651, de 29 de mayo de 1998, se autorizó el Convenio Directo de Precio Ad-Referéndum del lote No. 27, con don Jorge González Miranda y otra, ascendente a la cantidad de $ 44.607.775. Obra: Mejoramiento Eje La Florida, sector Los Ararios Las Vizcachas, Sector II, expropiación autorizada por decreto M.O.P. No. 901, de 30 de septiembre de 1997.
+
+- Fiscal del Ministerio de Obras Públicas.
