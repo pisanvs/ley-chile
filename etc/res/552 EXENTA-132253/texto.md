@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 552 de 09.06.88, conforme art. 5° transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a sector excluido y sector expropiado predio "Resto Fundo El Salto", de la comuna de Yumbel, VIII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 6, sitios N°s. 1 al 5 y Reservas Cora N°s. Lote A, B y C del Proyecto de Parcelación "Salto del Laja", formado por predio señalado. Los Derechos de Agua se extraen del canal Batuco derivado del río Laja, estero Batuco y derrames del predio Curanilahue. Publicación hecha conforme art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
