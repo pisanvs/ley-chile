@@ -1,0 +1,3 @@
+Por Resolución No. 441, de 9 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado en Santa Isabel No. 464, presunto rol avalúos No 621-16, comuna Santiago, aparentemente dominio de don Salomón Mois Sarfaty. Comisión integrada por peritos Sres. Luis Rojas Quezada, constructor civil, Sergio Rojas Ibáñez y Emilio Recabarren Solar, ingenieros civiles, según informe de 27.11.88, fijó monto provisional indemnización en $ 1.501.880.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
