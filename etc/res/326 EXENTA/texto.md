@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 326 de 23 de Marzo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predio "Los Pretiles" de la comuna de Chimbarongo, VIa. Región; y Derechos Aprovechamiento Aguas que corresponden a Parcelas N°s. 1 a la 6 y sitios N°s. 1 al 13 del Proyecto de Parcelación "Los Pretiles" formado por predio señalado. Los Derechos de Agua se extraen del canal "La Punta" derivado del Río Tinguiririca.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
