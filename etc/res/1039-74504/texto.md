@@ -1,0 +1,3 @@
+Por Resolución Nº 1.039, de 17 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 728, de 1996, de esta Subsecretaría, que denegó la solicitud de concesión de acuicultura Nº 93104061, presentada por GRANJA MARINA CHAUQUEAR LIMITADA, para el centro de cultivo ubicado en Punta Caicaen, Isla Calbuco, Comuna de Calbuco, Provincia de Llanquihue, X Región, en virtud de haberse dictado con error de hecho.
+
+Valparaíso, 17 de julio de 1997.- Juan Manuel Cruz
