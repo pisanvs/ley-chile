@@ -4062,11 +4062,9 @@ Los depósitos de terceros enterados para cumplir con la obligación de que trat
 
 ### 2. Registro contable
 
-2.1 Depósitos por encaje de terceros y obligaciones con el exterior.
+2.1. Depósitos por encaje de terceros.
 
 Los importes que los bancos reciban de terceros por concepto del depósito que deben constituir sobre los créditos que éstos obtengan del exterior de conformidad con la norma del Banco Central de Chile a que se refiere el N° 1 precedente, serán registrados en la cuenta "Depósitos por encaje de terceros" de la partida 3425.
-
-Por otra parte, las instituciones financieras, a partir del 17 de junio de 1991, deben registrar en subcuentas distintas las obligaciones con el exterior afectas a estas normas de encaje y aquellas que no están sujetas a este gravamen por corresponder a operaciones anteriores a la fecha indicada, por tratarse de créditos del exterior internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, cuyo encaje especial se debe constituir de conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Título I de dicho Compendio, o bien, por tratarse de obligaciones derivadas de la negociación de cartas de crédito que se encontraban emitidas y registradas antes del 17 de junio de 1991.
 
 2.2. Encaje mantenido.
 
@@ -4074,27 +4072,27 @@ El importe en moneda extranjera que las instituciones financieras mantengan depo
 
 ### 3. Cuentas de obligaciones afectas a encaje
 
-Quedarán sujetos al encaje de que trata este título, los saldos de los importes recibidos por los depósitos por encaje de terceros antes referidos, como asimismo, las obligaciones con el exterior registradas como afectas a encaje de conformidad con lo dispuesto en el N° 2 precedente, exceptuando, por lo tanto, a aquellas exentas de ese gravamen, que se demuestran en las partidas que a continuación se indican:
+Quedarán sujetos al encaje de que trata este título, los saldos de los importes recibidos por los depósitos por encaje de terceros antes referidos y las obligaciones con el exterior, que se demuestran en las partidas que a continuación se indican:
 
-N° 3425 "Otras obligaciones" (Unicamente la cuenta "Depósitos por encaje de terceros")
+N° 3425 "Otras obligaciones" (Unicamente la cuenta "Depósitos por encaje de terceros").
 
 N° 3505 "Adeudado a bancos del exterior por financiamiento de importaciones y exportaciones".
 
-N° 3510 "Adeudado a bancos del exterior por otras obligaciones".
+N° 3510 "Adeudado a bancos del exterior por otras obligaciones" (Excepto la cuenta "Obligaciones por créditos externos-Acuerdo 1196").
 
-N° 3515 "Adeudado a oficinas del mismo banco".
+N° 3515 "Adeudado a oficinas del mismo banco" (Excepto la cuenta "Obligaciones por créditos externos-Acuerdo 1196").
 
 N° 3520 "Corresponsales ALADI-Banco Central".
 
 N° 3525 "Otros préstamos y obligaciones".
 
-N° 3555 "Adeudado a bancos del exterior".
+N° 3555 "Adeudado a bancos del exterior" (Excepto la cuenta "Obligaciones por créditos extremos-Acuerdo 1196").
 
-N° 3560 "Adeudado a oficinas del mismo banco".
+N° 3560 "Adeudado a oficinas del mismo banco" (Excepto la cuenta "Obligaciones por créditos externos-Acuerdo 1196").
 
 N° 3565 "Corresponsales ALADI-Banco Central".
 
-N° 3570 "Otros préstamos y obligaciones".
+N° 3570 "Otros préstamos y obligaciones.
 
 ### 4. Encaje exigido y mantenido
 
@@ -4105,6 +4103,10 @@ El encaje exigido se calculará por "períodos mensuales", según lo señalado e
 4.2. Encaje mantenido.
 
 El encaje por las obligaciones antes mencionadas deberá estar constituido por las monedas extranjeras del respectivo país o por dólares de los Estados Unidos de América, depositados en el Banco Central de Chile para tal efecto en la "Cuenta especial encaje Acuerdo N° 143-01-910705.
+
+### 5. Disposición transitoria
+
+Entre el 11 de julio y el 8 de noviembre de 1991, las instituciones financieras deberán constituir el encaje de que se trata, sobre una determinada proporción del monto de sus obligaciones con el exterior que se establecerá para cada período de acuerdo con la siguiente tabla:
 
 V.- Información a esta Superintendencia.
 
