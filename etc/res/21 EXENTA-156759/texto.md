@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 21 de 11 de Enero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a la Reserva y Sector expropiado Predio "Las Vegas" de la comuna de Los Angeles, VIII Región, y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s 1 a la 10, sitios N°s 4 al 17 del proyecto de Parcelación "Poder Campesino" formado por el predio señalado. Los derechos de agua se extraen del Canal Laja y Estero Rarinco, Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
