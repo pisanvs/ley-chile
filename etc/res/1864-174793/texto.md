@@ -1,0 +1,3 @@
+Por resolución Nº 1.864, de 25 de agosto de 2000, de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 1.689, de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación, de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', en el sentido de señalar que el límite máximo de captura autorizado se incrementará en 4.126 toneladas, las cuales serán imputadas a la fracción de agosto asignada a la Zona B del área de estudio, comprendida entre la V a la X Regiones.
+
+Valparaíso, 25 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
