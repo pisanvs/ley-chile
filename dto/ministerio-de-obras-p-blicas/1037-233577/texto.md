@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.037, de 16 de noviembre de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº16 para la obra ''Acceso al Puerto de San Antonio Ruta 78. Sector: Agua Buena - Puerto San Antonio. Km. 1.200,00 a Km.
+
+7.840,00'', Quinta Región, que figura a nombre de Container Operators S.A., rol de avalúo 8071-1, comuna de San Antonio, superficie 6.309 m². La comisión de peritos integrada por los señores Luis Pablo Padilla Vergara, Maximiliano Cortés Caiozzi y Lorena Consuelo Larraín Saffa, fijó con fecha 12 de octubre de 2004, el valor provisional de la indemnización en la cantidad de $90.625.720.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
