@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 600 de fecha 30 de junio del 2003, se expropiaron los lotes de terreno Nºs. 26 y 27, superficie 340 y 47 m² respectivamente, rol de avalúo 217-57, comuna de Curepto, VII Región para la obra "Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco Curepto - Puente Lautaro Tramo Km. 46,180 a Km. 83,91430; comuna de Curepto, Provincia de Talca" y se acordó el valor de indemnización con su propietario Modesto José Hernández, ascendente a la cantidad de $913.202.-
+
+Fiscal del Ministerio de Obras Públicas.
