@@ -1,0 +1,3 @@
+Por decreto MOP Nº 825 de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 29, superficie 6.100 m², Rol Nº 204-087, comuna de Chaitén, X Región para la obra "Camino Ruta 7 (Longitudinal Austral), Chaitén - Ex Pozos de Empréstitos, Km. 0,000 a Km. 13,07086" y se acordó el valor de indemnización con su propietario Patricio Hernán Echeverría Muñoz, ascendente a la cantidad de $3.746.520.-
+
+Fiscal del Ministerio de Obras Públicas.
