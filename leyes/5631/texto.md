@@ -1,0 +1,1 @@
+Fija sueldos a los empleados de educación primaria y secundaria que indica y a los de las Escuelas Industriales y Mineras, aumentos trienales y gratificación para el que preste servicios en las provincias de Tarapacá, Antofagasta, Atacama, Aysen y Magallanes.
