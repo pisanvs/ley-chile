@@ -1,0 +1,3 @@
+Por resolución Nº 1.779, de 14 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110338, presentada por SALMONES MAINSTREAM S.A., para instalar y operar el centro de cultivo ubicado en Canal Carrera de Cuchi, Sector Sur de Isla Victoria, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 14 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
