@@ -1,0 +1,3 @@
+Por Decreto MOP No. 87 de 30 de marzo de 1990, se expropiaron los lotes N°s. 4, 5 y 15, superficies 1.195 m2., 1.790 m2 y 1.530 m2.; roles de avalúo 234-53, 234-505 y 24-21, Comunas de Rengo y Quinta de Tilcoco, para Camino Rengo Quinta de Tilcoco y se acordó. precio de indemnización con sus propietarios sres. Angel Acámpora Imperati, Andrés Juan Calvo Larraín y Oscar Miguel Hernández y otros, ascendente a $ 343.752.- $ 448.229.- y $ 5.325.354.-.
+
+Fiscal del Ministro de Obras Públicas.
