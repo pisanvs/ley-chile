@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 957, de 31 de octubre de 1996, se expropiaron los lotes de terreno Nºs. 51-a y 52-a, superficie 1.513 m2., y 1.800 m2., rol de avalúo 2071-12, comuna de Maipú, para la obra Camino Autopista Santiago-San Antonio. sector Empalme Isabel Riquelme - Bif. Malloco, Tramo B, Enlace Américo Vespucio, y se acordó el valor de indemnización con su propietaria María Soledad Vial Valdés, ascendente a la cantidad de ·33.777.791.-
+
+Fiscal del Ministerio de Obras Públicas.
