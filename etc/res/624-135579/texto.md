@@ -1,0 +1,3 @@
+Por resolución Nº 624, de 22 de abril de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101029, presentada por OMAR PONCIANO CAMACHO ORELLANA, para operar un centro de cultivo en sector caleta Chinquihue, bahía Chincui, comuna de Puerto Montt, provincia de Llanquihue, X Región.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
