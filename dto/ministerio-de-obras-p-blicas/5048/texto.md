@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.048, de 31 de octubre de 2000, se expropió el lote terreno Nº1, superficie 9.659 m², rol de avalúo 202-3, comuna de Hualqui, para la obra Camino Ruta O-60, Sector Chiguayante - Hualqui (Paso Sup. F.F.C.C.), Km. 5.210.00 al Km. 5.876.00 y se acordó precio de la indemnización con su propietario Anatolio Ormazábal Ormazábal, ascendente a la cantidad de $31.013.212.
+
+Fiscal del Ministerio de Obras Públicas.
