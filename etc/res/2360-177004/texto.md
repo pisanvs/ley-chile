@@ -1,0 +1,3 @@
+Por resolución Nº 2.360, de 24 de octubre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110307 presentada por JORGE ALEJANDRO CARLOS JOSE OSSA ARANGUA, para instalar y operar un centro de cultivo ubicado en estero Quitralco, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 24 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
