@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 441, de 30 de abril de 1997, se expropiaron los lotes de terreno N°s. 2 y 7, superficies 1.310 m2 y 14.558 m2. roles de avalúos 1420-109 y 1423-4, comuna de Rancagua, obra Conexión Vial Camino Rancagua Doñihue, Ruta H-30-Ruta 5 y se acordó precio de indemnización con sus propietarios Josefa Carballal Pérez y Waldo Casas Cordero Urrutia, ascendente a las cantidades de $ 2.177.420 y $ 37.494.750.
+
+Fiscal del Ministerio de Obras Públicas.
