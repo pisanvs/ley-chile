@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.932, de 20 de julio de 2004, de esta Subsecretaría, modifícase el numeral 1.- de la resolución Nº 354 de 2004, de esta Subsecretaría, que autorizó a SINDICATO DE TRABAJADORES INDEPENDIENTES Y PESCADORES ARTESANALES DE SOTOMO, para instalar colectores de semillas de mitílidos en cuatro sectores, dos en la localidad de Sotomó y dos en la localidad de Farallones Marimeli norte, X Región, en el sentido de ampliar el plazo de vigencia de dicha autorización hasta el 30 de septiembre de 2004.
+
+Valparaíso, 20 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
