@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.385, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº23-A, superficie 374 M2, sin rol de avalúo, comuna de Alto del Carmen, III Región, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa I'' y se acordó el valor de indemnización con su propietario don Santiago Rivera Angulo y Otros, ascendente a la cantidad de $340.436.-
+
+Fiscal del Ministerio de Obras Públicas.
