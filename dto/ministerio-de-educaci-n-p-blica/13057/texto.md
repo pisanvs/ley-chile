@@ -42,6 +42,8 @@ MATERIA
 
 16.- Aprobación del planes y programas de estudio.
 
+17.- Aprobación de reglamentos de evaluación, promoción y titulación de alumnos, de las diferentes modalidades de la enseñanza.
+
 SUBSECRETARIO DE EDUCACION
 
 MATERIA
