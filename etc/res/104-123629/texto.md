@@ -1,0 +1,3 @@
+Por resolución Nº 104, de 14 de agosto de 1998, Serviu II Región dispuso conforme D.L. 2186 de 1978, y para ejecución proyecto Mejoramiento Eje San Martín e Iquique - Antofagasta, expropiación parcial del inmueble ubicado en calle Iquique Nº 4131, rol avalúo Nº 1264-13, comuna de Antofagasta, superficie 25,56 m2, de aparente dominio de don Angel Segundo Gómez Morales, según inscripción fs. 399, Nº 543, año 1996, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Sr. Alejandro Bargsted B., Sra. Eleonora Román L. Arquitectos, y Sr. Héctor Villegas G. Constructor Civil, según informe de 22 de julio de 1998, fijó monto provisional indemnización en $2.850.932.- pagadera al contado.
+
+Director Serviu II Región.-
