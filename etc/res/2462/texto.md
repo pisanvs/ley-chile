@@ -1,0 +1,3 @@
+Por resolución Nº 2.462 de 22 de diciembre de 1999 de esta Subsecretaría, déjase sin efecto las resoluciones Nº 699 de 1988 y Nº 626 de 1989, ambas de esta Subsecretaría, que autorizaron al SINDICADO DE TRABAJADORES INDEPENDIENTES, CULTIVADORES Y EXPLOTADORES DE ALGAS ''EL CORAL'', para instalar y operar el centro de cultivo ubicado en Estero Pudeto, comuna de Ancud, provincia de Chiloé, X Región.
+
+Valparaíso, 22 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
