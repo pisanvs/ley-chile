@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.128 de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº 3, superficie 144,0 m2, rol Nº 2202-11, comuna de Osorno, X Región para la obra "Mejoramiento Ruta U-22, sector Osorno - Forrahue, Tramo Km. 0,00000 a 11,43000", y se acordó el valor de indemnización con su propietario Jaime Ampuero Pérez, ascendente a la cantidad de $9.812.280.
+
+Fiscal del Ministerio de Obras Públicas.
