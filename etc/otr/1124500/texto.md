@@ -1,0 +1,9 @@
+La celebracion de la misa i la independencia nacional
+
+Oficio.- Aunque no está permitido variar él rito, sin declaracion de la sagrada congregacion sancionada por el Supremo Pontífice, no perjudica su instabilidad la subrogacion que dentro del mismo exije la emancipacion del Estado i supresion de aquellas preces que dictadas por las autoridades vijentes no tienen lugar en su independencia; por eso he puesto el auto que elevo a V. E. para que siendo de su supremo agrado, lo mande dar a la Gazeta, a efecto que se circule con la brevedad que exije su naturaleza.
+
+Dios guarde a V.E. muchos años.- Santiago i Marzo 2 de 1818.- Excelentísimo Señor: -José Ignacio Cienfuegos.- Excelentísimo Señor Supremo Director Delegado.
+
+Santiago i Marzo 3 de 1818.
+
+Debiendo estar acordes los inviolables derechos de la sociedad con los justos sentimientos de nuestra adorable relijion, que ordena hacer frecuentes oraciones i obsecraciones por todas las personas constituidas en sublimidad; i habiendo el Estado Chileno jurado solemnemente su Independencia i perpetua separacion de Fernando VII, es consiguiente no se nombre en el cánon de la misa ni en las oraciones, o colectas: en cuya atencion ordenamos i mandamos a todos los sacerdotes seculares i regulares, que ínterin se facilita nuestra inmediata correspondencia con la Silla Apostólica, i se concordan con ella todas las materias de disciplina eclesiástica, digan en el canon: et status nostri postestatibus, en lugar de et Rege nostro Ferdinando; i que en el Viérnes Santo se omita las dos oraciones en que se pide por Fernando VII i la nacion española. Asimismo ordenamos i mandamos, que todos los sacerdotes de ambos cleros, en todas las misas privadas i solemnes que celebren, digan la oracion que se halla en el Misal Romano pro tempori belli.- Cienfuegos.- Barreda.
