@@ -1,0 +1,3 @@
+Por resolución Nº 2.003, de 12 de septiembre de 2000, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.682, de 2000, modificada mediante resolución Nº 1.757, de 2000, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación, de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesquería Artesanal del Jurel en la VIII Región'', en el sentido de eliminar las naves ''Víctor Guillermo'' y ''Don José III'' de la nómina de naves participantes en la señalada investigación, por renuncia de sus armadores.
+
+Valparaíso, 12 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
