@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.113, de 30 de marzo de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº44, para la obra Camino Ruta L-70, sector Cruce Ruta 128-Cuatro Esquinas, que figura a nombre de Humedes del Tránsito Aedo Mena, rol de avalúo 1252-108, comuna de Parral. La Comisión de Peritos fijó con fecha 17 de febrero de 1999 la indemnización provisional en la cantidad de $214.010, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
