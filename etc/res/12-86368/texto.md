@@ -1,0 +1,3 @@
+Por resolución Nº 12, de 6 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94110085, presentada por SALMONES UNIMARC S.A., para un centro de cultivo ubicado al este de la Isla Luchín, Canal Caruso, comuna de Aysén, provincia de Aysén, XI Región, en virtud de lo dispuesto en los artículos 78º y 87º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
