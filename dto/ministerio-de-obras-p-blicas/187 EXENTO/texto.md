@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 187, de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 2, superficie 309,43 m2., Rol de Avalúo Nº 178-56, comuna de Chonchi, para la obra "Camino Acceso Sur a Chonchi, Sector Ruta 5-Chonchi, Km. 0,000 a Km. 3,25253", X Región y se acordó el valor de indemnización con su propietaria Rosa Patricia García Pérez, ascendente a la cantidad de $404.626.
+
+- Fiscal del Ministerio de Obras Públicas.
