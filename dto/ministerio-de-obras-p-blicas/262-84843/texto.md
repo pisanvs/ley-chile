@@ -1,0 +1,3 @@
+Por decreto MOP. No. 262, de 24 de septiembre de 1992, se expropió el lote de terreno No. 12, superficie 1.237 m2., rol de avalúo 1216-33, Comuna de Teodoro Schmidt, para la obra Camino Freire-Toltén por Hualpín, sector Hualpín-Puente Peule y se acordó el valor de indemnización con su propietaria María Margarita Mardones Castro, ascendente a la cantidad de $ 156.190.-
+
+Fiscal del Ministerio de Obras Públicas.
