@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.136, de 1 de septiembre de 2003, de esta Subsecretaría, modifícase el numeral 11º de la resolución Nº 220 de 2002, modificada por resolución Nº 2.184 de 2002, ambas de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE para realizar actividades experimentales sobre la especie Abalón japonés, en conformidad con los términos técnicos de referencia del proyecto "Cultivos de Abalón japonés Haliotis discus hannai en estanques y en el mar", en el sentido de señalar que la autorización rige hasta el 31 de diciembre de 2003.
+
+Valparaíso, 1 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
