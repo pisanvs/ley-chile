@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.874, de 30 de septiembre de 1999, se ordenó la expropiación y aprobó el plano y cuadro de expropiación de los lotes de terreno Nºs.4-A, 5 y 6, y por decreto MOP Nº1.499, de 28 de septiembre de 2001, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $1.045.500, lote 4-A; $492.050, lote 5 y $429.775, lote 6, necesario para la ejecución de la obra ''Camino Ruta D-55, sector Pte. La Ligua-Bif. San Lorenzo Variante Chañaral Alto'', el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
