@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.318, de 30 de julio del 2002, se expropió el lote de terreno Nº 3-A, superficie 1.906 m², rol de avalúo 1102-12, comuna de Casablanca, para la obra Red Vial Litoral Central Sector 1: Nuevo Camino Costero Subtramo: Cartagena Las Cruces Km. -0.160,00 al 0.500,00, Quinta Región y se acordó el valor de indemnización con su propietaria Sociedad Rosendo Fernández e Hijas Limitada, ascendente a la cantidad de $16.468.168.- para el lote Nº 3-A.-
+
+Fiscal del Ministerio de Obras Públicas.
