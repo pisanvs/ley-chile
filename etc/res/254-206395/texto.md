@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 254, de 29 de noviembre de 2002, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Calle 3 Lote 7 Nº 5955, Fuente de Piedra, Rol de Avalúo Nº1523-7, comuna Chiguayante, superficie 1.213,50 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-17309, de aparente dominio de Constructora e Inversiones C.P.M. Ltda., para ejecución programa de viviendas en comuna de Chiguayante, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por Leonardo Eugenio Fasce Casanueva, arquitecto; Oscar Aurelio Chávez Alcaíno, ingeniero agrónomo, y Gonzalo Melo Sáez, constructor civil, según informe de fecha 12 de junio de 2002, fijó monto provisional indemnización en $39.671.742.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
