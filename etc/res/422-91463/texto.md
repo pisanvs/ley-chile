@@ -1,0 +1,3 @@
+Por Resolución No. 422, de 08 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación conforme DL 2.186, de 1978 inmueble ubicado en calle Roberto Espinoza No. 527, presunto rol avalúos 646-7, Comuna Santiago, aparentemente dominio de Luis Agurto Yáñez. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos, y Walter Soto Silva, ingeniero civil, según informe de 24 de noviembre de 1988, fijó monto provisional indemnización en $ 1.732.020.- pagadera al contado.
+
+Director SERVIU Metropolitano.
