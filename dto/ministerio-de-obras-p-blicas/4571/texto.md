@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.571, de fecha 29 de septiembre de 2000, se expropiaron los lotes de terreno Nºs.3-A y 4-A, superficies 5.580 y 5.740 M2, respectivamente, rol de avalúo 187-42, comuna de Panguipulli, para la obra ''Camino CH-203, Sector Bifurcación Coñaripe - Choshuenco, Tramo Km. 56,68000 a Km. 93,28612'' y se acordó el valor de indemnización con su propietario René Osvaldo Bopp Martínez, ascendente a la cantidad de $15.120.156.-
+
+Fiscal del Ministerio de Obras Públicas.
