@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº1.708 de fecha 31 de octubre de 2001, se expropió el lote de terreno Nº33, superficie 1.992,00 m², rol de avalúo Nº385-66, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 2/5, Derivado Comuy. Sector Km. 6.120,36 al Km. 10.016,42" y se acordó el valor de indemnización con su propietario José Mercedes Jaramillo Jaramillo, ascendente a la cantidad de $917.107.-
+
+Fiscal del Ministerio de Obras Públicas.
