@@ -1,0 +1,3 @@
+Por Resolución N° 1.416, de 5 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año, a contar del 16 de julio de 1995, el plazo para continuar operando los derechos conferidos por las Resoluciones N° 215, de 1982, N° 462 y N° 463, de 1995, todas de esta Subsecretaría, a don NELSON ARENAS REQUENA, R.U.T. N° 2.466.151-2, respecto de la nave hundida "Pompeya I", en virtud de lo dispuesto en el artículo N° 143 letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 5 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
