@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA COMERCIAL INDUSTRIAL REPRODUCTORA DE ESPECIES MARINAS CHAMIZA S.A. PARA CONTINUAR DESARROLLANDO ACTIVIDADES PESQUERAS QUE INDICA
+
+Por resolución Nº1.935, de 11 de Diciembre de 1989. de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Empresa Comercial Industrial Reproductora de Especies Marinas Chamiza S.A., R.U.T Nº79.556.9308, domiciliada en la ciudad de Puerto Monte, para continuar desarrollando actividades pesqueras autorizadas a la Sociedad Comercial Industrial Agro Acuícola Chamiza Limitada, por resoluciones Nº435, de 1988 y Nº1.030, de 1989, ambas de esta Subsecretaría, en la misma forma y condiciones establecidas en las resoluciones antes citadas. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 11 de Diciembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
