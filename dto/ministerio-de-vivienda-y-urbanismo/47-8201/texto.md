@@ -74,7 +74,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Capacidad máxima de edificación»: margen volumétrico máximo construible en cada predio, resultado de la aplicación de las normas sobre línea de edificación, rasantes, distanciamientos, alturas, coeficientes de ocupación de suelo, constructibilidad, densidad y demás normas urbanísticas, con sus respectivas normas de beneficios especiales en cada caso.
 
-«Carga de ocupación»: relación del número máximo de personas por metro cuadrado, para los efectos del cálculo de los sistemas de evacuación, según el destino del edificio o de sus sectores si contiene diferentes usos.
+«Carga de ocupación»: relación del número máximo de personas por metro cuadrado, para los efectos previstos en la presente Ordenanza, entre otros, para el cálculo de los sistemas de evacuación según el destino del edificio o de sus sectores si contiene diferentes usos.
 
 «Centro comercial»: edificación en uno o más niveles, pisos o plantas, destinada a servir de mercado para la compraventa de mercaderías diversas o prestación de servicios, conformada por una agrupación de locales acogidos o no al régimen de copropiedad inmobiliaria y los mercados de abasto, ferias persas, terminales agropecuarios, supermercados y similares.
 
@@ -132,9 +132,9 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Desmonte»:rebaje de terrenos no rocosos en la ladera de un cerro, que no requiere refuerzo estructural.
 
-«Distanciamiento»: distancia mínima horizontal entre el deslinde del predio y el punto más cercano de la edificación, sin contar los elementos de techumbre en volado, aleros, vigas, jardineras o marquesinas.
+«Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.
 
-«Ducto» (Shaft): conducto técnico generalmente destinado a contener las instalaciones de un edificio.
+«Ducto» (Shaft) : conducto técnico generalmente destinado a contener las instalaciones de un edificio.
 
 «Edificación aislada»: la separada de los deslindes, emplazada por lo menos a las distancias resultantes de la aplicación de las normas sobre rasantes y distanciamientos que se determinen en el instrumento de planificación territorial o, en su defecto, las que establece la presente Ordenanza.
 
@@ -194,11 +194,13 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Galería»: espacio generalmente cubierto, horizontal o en rampa, destinado a la circulación de público, con locales comerciales a uno o ambos lados.
 
-«Informe de riesgos»: DEROGADO.
+Informe de riesgos»: DEROGADO.
 
 «Inmueble de conservación histórica»: el individualizado como tal en un Instrumento de Planificación Territorial dadas sus características arquitectónicas, históricas o de valor cultural, que no cuenta con declaratoria de Monumento Nacional.
 
-«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente. Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
+«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente.
+
+Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
 
 «Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regional de Desarrollo Urbano, al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional y al Límite Urbano.
 
@@ -254,7 +256,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Obra gruesa habitable»: construcción techada y lateralmente cerrada, con piso o radier afinado, dotada de, a lo menos, un recinto de baño habilitado, con puerta, y en el caso de viviendas, dotada, además, con un recinto de cocina habilitado.
 
-«Obra menor»: modificación de edificaciones existentes que no alteran su estructura o ampliaciones de hasta 100 m2.
+«Obra menor»: modificaciones de edificios existentes que no alteran la estructura o las fachadas y ampliaciones de edificaciones cuando la superficie a ampliar no represente más de un 20% de la existente, no supere los 100 m2 y no comprometa construcciones vecinas .
 
 «Obra nueva»: la que se construye sin utilizar partes o elementos de alguna construcción preexistente en el predio.
 
@@ -332,6 +334,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Retranqueo»: escalonamiento vertical que adopta la fachada de un edificio hacia el interior del predio.
 
+«Revisor de Proyecto de Cálculo Estructural»: ingeniero civil o arquitecto, con inscripción vigente en el correspondiente Registro del Ministerio de Vivienda y Urbanismo, que efectúa la revisión del proyecto de cálculo estructural. Se entenderá también como tal, la persona jurídica en cuyo objetivo social esté comprendido dicho servicio y que para estos efectos actúe a través de uno de dichos profesionales.
+
 «Revisor independiente»: profesional competente, con inscripción vigente en el correspondiente Registro del Ministerio de Vivienda y Urbanismo, que verifica e informa al respectivo Director de Obras Municipales que los anteproyectos, proyectos y obras cumplen con todas las disposiciones legales y reglamentarias pertinentes. Se entenderá también como tal, la persona jurídica en cuyo objetivo social esté comprendido dicho servicio y que para estos efectos actúe a través de un profesional competente.
 
 «Saldo predial»: sitio cuya superficie o frente, por efecto de una expropiación o cesión obligatoria, resulta menor a la subdivisión o frente predial mínimos establecidos en el Instrumento de Planificación Territorial respectivo.
@@ -342,7 +346,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Sistema de evacuación de personas»: conjunto de elementos arquitectónicos y dispositivos de apoyo con que cuenta una edificación para la evacuación de personas desde su interior.
 
-«Sistema de Información Geográfica» (SIG): herramienta informática que permite el manejo de información planimétrica georreferenciada en interacción con bases de datos asociadas.
+«Sistema de Información Geográfica» (SIG): Herramienta informática que permite el manejo de información planimétrica georreferenciada en interacción con bases de datos asociadas.
 
 «Sistema de Información Territorial» (SIT): Sistema implementado como plataforma para el almacenamiento y difusión de información territorializable.
 
@@ -388,7 +392,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Unidad funcional independiente»: la que, formando parte de una edificación colectiva, permite su utilización en forma independiente del resto de la edificación, tales como departamentos, oficinas y locales comerciales, sin perjuicio de que se acceda a ella a través de espacios de uso común.
 
-«Urbanizar»: ejecutar, ampliar o modificar cualquiera de las obras señaladas en el artículo 134 de la Ley General de Urbanismo y Construcciones que correspondan según el caso, en el espacio público o en el contemplado con tal destino en el respectivo Instrumento de Planificación Territorial o en un proyecto de loteo.
+«Urbanizar»: ejecutar el pavimento de las calles y pasajes, las plantaciones y obras de ornato, las instalaciones sanitarias y energéticas, con sus obras de alimentación y desagües de aguas servidas y aguas lluvias, y las obras de defensa y de servicio del terreno.
 
 «Uso de suelo»: conjunto genérico de actividades que el Instrumento de Planificación Territorial admite o restringe en un área predial, para autorizar los destinos de las construcciones o instalaciones.
 
@@ -396,7 +400,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Vía»: espacio destinado al tránsito.
 
-«Vías de evacuación»: circulación horizontal, inclinada o vertical de un edificio, que permita la salida fluida de personas en situaciones de emergencia, desde el acceso de cada unidad hasta un espacio exterior libre de riesgo, comunicado a la vía pública.
+«Vía de evacuación»: circulación horizontal y vertical de un edificio, que permite la salida fluida de personas en situaciones de emergencia, desde el acceso de cada unidad hasta un espacio exterior libre de riesgo, comunicado a la vía pública.
 
 «Vivienda»: edificación o unidad destinada al uso habitacional.
 
@@ -421,8 +425,6 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 «Zona vertical de seguridad»: vía vertical de evacuación protegida de los efectos del fuego que, desde cualquier nivel hasta el de salida, permite a los usuarios evacuar el edificio sin ser afectados por el fuego, humo o gases.
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
-
-> **Nota.** NOTA 1 El Nº3 del Artículo único del Decreto-217, Vivienda, publicado el 20.02.2002, eliminó estos vocablos y sus respectivas definiciones, en la versión anterior a la entrada en vigencia del Decreto-75, Vivienda, publicado el 25.06.2001, por lo que no se incorporó dicha modificación en el presente texto actualizado.
 
 #### Artículo 1
 
@@ -468,6 +470,8 @@ El profesional competente que informa de las medidas de gestión y de control de
 
 La calidad de Revisor Independiente se acreditará mediante copia del Certificado de Inscripción Vigente en el Registro Nacional de Revisores Independientes de Obras de Construcción, al momento de ingresar los anteproyectos, proyectos y recepciones de obras en que hayan sido contratados.
 
+La calidad de Revisor de Proyecto de Cálculo Estructural se acreditará mediante copia del Certificado de Inscripción Vigente en el Registro respectivo, al momento de solicitar el permiso de edificación.
+
 #### Artículo 1
 
 2.2. Los planos, especificaciones técnicas y demás documentos técnicos de los anteproyectos y proyectos deberán ser firmados por el o los profesionales competentes que los hubieren elaborado y por el propietario.
@@ -476,7 +480,7 @@ Para acreditar la calidad de propietario bastará que éste presente una declara
 
 En el caso de anteproyectos, éstos deberán cumplir los requisitos indicados en los incisos precedentes, salvo que se acompañe una escritura pública de promesa de compraventa, en cuyo caso la declaración jurada antes aludida podrá suscribirla el promitente comprador, consignando su calidad de tal en la solicitud. En ningún caso podrá exigirse, para la aprobación de anteproyectos, el perfeccionamiento previo de la fusión de terrenos.
 
-No corresponderá al Director de Obras Municipales ni al Revisor Independiente estudiar los títulos de dominio de la propiedad.
+No corresponderá al Director de Obras Municipales ni al Revisor Independiente ni al Revisor de Proyecto de Cálculo Estructural estudiar los títulos de dominio de la propiedad.
 
 #### Artículo 1
 
@@ -526,9 +530,9 @@ En la carátula o al inicio del Libro de Obras deberá estamparse o anotarse la 
 
 9. Nombre del Revisor Independiente, si lo hubiere.
 
-10. Nombre de los profesionales proyectistas de instalaciones domiciliarias, urbanizaciones o de especialidades, según corresponda, al iniciarse las obras respectivas.
+10. Nombre del Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación.
 
-11. ELIMINADO.
+11. Nombre de los profesionales proyectistas de instalaciones domiciliarias, urbanizaciones o de especialidades, según corresponda, al iniciarse las obras respectivas.
 
 Cuando las personas antes indicadas efectúen alguna anotación, éstas deberán quedar debidamente firmadas, fechadas y plenamente individualizado el nombre de la persona que las realiza, quien deberá quedarse con una copia de respaldo. La segunda copia quedará en poder del propietario y el original del Libro de Obras se entregará a la Dirección de Obras Municipales al momento de la recepción definitiva total de las obras, para su archivo, junto con el expediente correspondiente y permitir su consulta por cualquier interesado.
 
@@ -590,6 +594,12 @@ La responsabilidad del supervisor es sin perjuicio de las responsabilidades que 
 
 Los resultados de dichos estudios y las recomendaciones técnicas que contengan serán de responsabilidad del profesional especialista que los suscriba.
 
+#### Artículo 1
+
+2.17. Los Revisores de Proyecto de Cálculo Estructural responderán de su labor en la forma que establecen las normas generales sobre prestación de servicios profesionales.
+
+Los Revisores de Proyecto de Cálculo Estructural no podrán actuar en tal calidad respecto del mismo proyecto en que les corresponda intervenir profesionalmente en cualquier otra calidad.
+
 ## Capítulo 3.
 
 DE LAS SANCIONES
@@ -618,9 +628,11 @@ DE LAS SANCIONES
 
 8. La falta de revisor independiente o de inspector técnico, tratándose de edificios de uso público.
 
-9. La inexistencia de Libro de Obras, las adulteraciones de éste, la omisión de las firmas correspondientes en las instrucciones y observaciones, o el incumplimiento de tales instrucciones sin justificación.
+9. La falta de Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación.
 
-10. Emplear materiales o elementos industriales defectuosos que contravengan las disposiciones de esta Ordenanza.
+10. La inexistencia de Libro de Obras, las adulteraciones de éste, la omisión de las firmas correspondientes en las instrucciones y observaciones, o el incumplimiento de tales instrucciones sin justificación.
+
+11. Emplear materiales o elementos industriales defectuosos que contravengan las disposiciones de esta Ordenanza.
 
 Las multas se aplicarán a quienes resulten responsables de la infracción, de acuerdo a la sentencia dictada al efecto por el Juez de Policía Local correspondiente.
 
@@ -799,6 +811,8 @@ Las postergaciones de permisos a que se refiere el artículo 117 de la Ley Gener
 4.16. Si después de concedido un permiso hubiere necesidad de introducir modificaciones o variantes en el proyecto o en las obras correspondientes, tales modificaciones se tramitarán en la forma señalada en los artículos 3.1.9. y 5.1.17. de esta Ordenanza General.
 
 En caso de edificios de uso público, a la solicitud de modificación de proyecto deberá acompañarse un informe favorable de Revisor Independiente.
+
+En caso de edificios de uso público y de aquellos que esta Ordenanza determina, a la solicitud de modificación de proyecto deberá acompañarse informe favorable de Revisor de Proyecto de Cálculo Estructural.
 
 #### Artículo 1
 
@@ -1570,9 +1584,19 @@ Las áreas verdes de dominio privado se entenderán siempre admitidas, salvo que
 
 #### Artículo 2
 
-1.31. El tipo de uso Area Verde se refiere a los parques, plazas y áreas libres destinadas a área verde, sean éstas fiscales, municipales o de dominio privado.
+1.31. El tipo de uso Area Verde definida en los Instrumentos de Planificación Territorial se refiere a los parques, plazas y áreas libres destinadas a área verde, que no son Bienes Nacionales de uso público, cualquiera sea su propietario, ya sea una persona natural o jurídica, pública o privada.
 
-Los Instrumentos de Planificación Territorial deberán identificar las áreas verdes, en forma separada de las áreas destinadas a vialidad.
+En las áreas verdes señaladas en el inciso anterior, que no se hubieren materializado como tales, se podrá autorizar la construcción de edificios de uso público o con destinos complementarios al área verde, siempre que el área destinada a estos usos no ocupe más del 20% de la superficie total del predio destinada a uso área verde en el Instrumento de Planificación Territorial. Se deberá incluir en dicho porcentaje la vialidad interna necesaria para estos usos, con excepción de la definida en el Instrumento de Planificación Territorial, si la hubiere; también las superficies destinadas a estacionamientos sobre el terreno y cualquier otro porcentaje admitido previamente por el Instrumento de Planificación Territorial.
+
+Dichas autorizaciones al proyecto presentado serán otorgadas por el Director de Obras Municipales, previo informe del Asesor Urbanista si lo hubiere, en el caso que las áreas verdes estén definidas en un Plan Regulador Comunal. En el caso que el área verde se encuentre definida en un Plan Regulador Metropolitano o Intercomunal, la autorización al proyecto será otorgada por la Secretaría Regional Ministerial de Vivienda y Urbanismo, previa consulta a la Municipalidad respectiva.
+
+Una vez obtenida la autorización mencionada en el inciso anterior, las construcciones respectivas deberán obtener permiso de edificación ante la Dirección de Obras Municipales respectiva, la que podrá otorgarlo en forma conjunta con la autorización cuando corresponda. El proyecto deberá contemplar conjuntamente las edificaciones y el paisajismo que se pretende ejecutar.
+
+Será requisito para la recepción definitiva de las edificaciones, la materialización y mantención de áreas verdes equivalentes como mínimo a 4 veces la superficie utilizada por el proyecto, pero si se tratare de un área verde de carácter metropolitano o intercomunal con una superficie superior a 50 ha, será requisito para la recepción definitiva de las edificaciones, la materialización y mantención de áreas verdes equivalentes como mínimo a 4 veces la superficie ocupada por las edificaciones, en ambos casos, de acuerdo a un proyecto de paisajismo, el que deberá contemplar al menos la forestación con especies autóctonas o adecuadas al clima de la zona en que se emplaza el proyecto. Las plazas o parques que contemple el proyecto, podrán ser imputados dentro del porcentaje exigido de áreas verdes que se deben materializar en el resto del predio.
+
+Las autorizaciones y construcciones podrán obtenerse y ejecutarse en forma parcial y sucesiva, siempre que la suma de ellas no sobrepase en total, el porcentaje máximo señalado en el inciso segundo precedente. El proyecto se puede localizar concentrado o disperso en el terreno.
+
+En las áreas verdes a que se refiere este artículo, se entenderán siempre admitidos como destinos complementarios y compatibles los equipamientos Científico, Culto y Cultura, Deporte y Esparcimiento.
 
 Las áreas verdes públicas o privadas señaladas como tales en los Instrumentos de Planificación Territorial sólo podrán ser destinadas a otros usos mediante modificación del respectivo Instrumento de Planificación Territorial.
 
@@ -1586,13 +1610,15 @@ En aquellos casos que un Instrumento de Planificación Territorial asigne a un p
 
 1.33. Las clases de equipamiento se refieren a los conjuntos de actividades que genéricamente se señalan en este artículo, pudiendo una construcción tener aspectos de dos o más de ellas:
 
+- Científico, en establecimientos destinados principalmente a la investigación, divulgación y formación científica, al desarrollo y transferencia tecnológica y a la innovación técnica.
+
 - Comercio, en establecimientos destinados principalmente a las actividades de compraventa de mercaderías diversas, tales como: centros y locales comerciales, grandes tiendas, supermercados, mercados, estaciones o centros de servicio automotor, restaurantes, fuentes de soda, bares, discotecas, y similares.
 
 - Culto y Cultura, en establecimientos destinados principalmente a actividades de desarrollo espiritual, religioso o cultural, tales como: catedrales, templos, santuarios, sinagogas, mezquitas; centros culturales, museos, bibliotecas, salas de concierto o espectáculos, cines, teatros, galerías de arte, auditorios, centros de convenciones, exposiciones o difusión de toda especie; y medios de comunicación, entre otros, canales de televisión, radio y prensa escrita.
 
 - Deporte, en establecimientos destinados principalmente a actividades de práctica o enseñanza de cultura física, tales como: estadios, centros y clubes deportivos, gimnasios, multicanchas; piscinas, saunas, baños turcos; recintos destinados al deporte o actividad física en general, cuente o no con áreas verdes.
 
-- Educación, en establecimientos destinados principalmente a la formación o capacitación en educación superior, técnica, media, básica, básica especial y prebásica, a centros de investigación científica o tecnológica, y a centros de capacitación, de orientación o de rehabilitación conductual.
+- Educación, en establecimientos destinados principalmente a la formación o capacitación en educación superior, técnica, media, básica, básica especial y prebásica, y a centros de capacitación, de orientación o de rehabilitación conductual.
 
 - Esparcimiento, en establecimientos o recintos destinados principalmente a actividades recreativas, tales como: parques de entretenciones, parques zoológicos, casinos, juegos electrónicos o mecánicos, y similares.
 
@@ -2183,6 +2209,8 @@ El Ministerio de Vivienda y Urbanismo, mediante resolución, aprobará la metodo
 A la solicitud de permiso de edificación de los proyectos a que se refiere el inciso primero se deberá acompañar un Estudio de Impacto sobre el Sistema de Transporte Urbano, suscrito por un profesional especialista y aprobado por la Unidad de Tránsito y Transporte Públicos de la correspondiente Municipalidad o por la respectiva Secretaría Regional Ministerial de Transportes y Telecomunicaciones, según corresponda, de acuerdo a la metodología.
 
 La Dirección de Obras Municipales, de acuerdo al resultado del Estudio de Impacto sobre el Sistema de Transporte Urbano, establecerá las adecuaciones que el propietario deberá efectuar en la vialidad afectada por el proyecto, cuyo cumplimiento se hará exigible a la recepción definitiva de la edificación.
+
+> **Nota.** El presente artículo fue modificado por el Decreto 1, Vivienda, publicado el 01.02.2003, norma que fue declarada inconstitucional por Sentencia publicada en el Diario Oficial de 21.04.2003, por lo que no se encuentran incorporadas en el presente texto.
 
 #### Artículo 2
 
@@ -5790,7 +5818,13 @@ Revisor Independiente y la
 
 individualización de éste.
 
-g) Si cuenta con anteproyecto aprobado y
+g) Si cuenta con informe favorable de Revisor
+
+de Proyecto de Cálculo Estructural y la
+
+individualización de éste.
+
+h) Si cuenta con anteproyecto aprobado y
 
 vigente que haya servido de base para el
 
@@ -5804,9 +5838,11 @@ fotocopia de la resolución de aprobación.
 
 4. Informe del Revisor Independiente, cuando corresponda, o del arquitecto proyectista, bajo declaración jurada, en los casos de permisos de construcción de un proyecto referido a una sola vivienda o a una o más viviendas progresivas o infraestructuras sanitarias.
 
-5. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa de servicios sanitarios correspondiente. De no existir empresa de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva.
+5. Informe favorable de Revisor de Proyecto de Cálculo Estructural, cuando corresponda su contratación.
 
-6. Planos de arquitectura numerados, que deberán contener :
+6. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, emitido por la empresa de servicios sanitarios correspondiente. De no existir empresa de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva.
+
+7. Planos de arquitectura numerados, que deberán contener :
 
 a) Ubicación del predio, señalando su
 
@@ -5900,23 +5936,23 @@ f) Plano de cierro, cuando el proyecto lo
 
 consulte.
 
-7. Cuadro de superficies, indicando las superficies parciales necesarias según el tipo de proyecto y cálculo de carga de ocupación de acuerdo a estas superficies y a los destinos contemplados en el proyecto.
+8. Cuadro de superficies, indicando las superficies parciales necesarias según el tipo de proyecto y cálculo de carga de ocupación de acuerdo a estas superficies y a los destinos contemplados en el proyecto.
 
-8. Plano comparativo de sombras, en caso de acogerse al artículo 2.6.11. de la presente Ordenanza.
+9. Plano comparativo de sombras, en caso de acogerse al artículo 2.6.11. de la presente Ordenanza.
 
-9. Planos de estructura, acompañados de los cálculos de estabilidad de la construcción cuando corresponda, de acuerdo a lo señalado en el artículo 5.1.7. de la presente Ordenanza.
+10. Proyecto de cálculo estructural cuando corresponda de acuerdo con el artículo 5.1.7. de la presente Ordenanza.
 
-10.Especificaciones técnicas de las partidas contempladas en el proyecto, especialmente las que se refieran al cumplimiento de normas contra incendio o estándares previstos en esta Ordenanza.
+11. Especificaciones técnicas de las partidas contempladas en el proyecto, especialmente las que se refieran al cumplimiento de normas contra incendio o estándares previstos en esta Ordenanza.
 
-11.Levantamiento topográfico, debidamente acotado, con indicación de niveles, suscrito por un profesional o técnico competente y refrendado por el arquitecto proyectista, salvo que dicha información esté incorporada en las plantas de arquitectura.
+12. Levantamiento topográfico, debidamente acotado, con indicación de niveles, suscrito por un profesional o técnico competente y refrendado por el arquitecto proyectista, salvo que dicha información esté incorporada en las plantas de arquitectura.
 
-12.Estudio de Ascensores, cuando corresponda.
+13. Estudio de Ascensores, cuando corresponda.
 
 Los niveles y superficies declaradas serán responsabilidad del profesional competente suscriptor del proyecto.
 
 En los dibujos de las plantas, cortes y elevaciones se empleará la escala 1:50. Si la planta del edificio tiene una longitud mayor de 50 m dicha escala podrá ser 1:100. En caso justificado se admitirán planos a otra escala.
 
-Respecto de los antecedentes identificados con los números 6., 7., 9. y 10. de este artículo, se agregarán dos nuevas copias, una vez que el expediente se encuentre apto para el otorgamiento del permiso.
+Respecto de los antecedentes identificados con los números 7., 8., 10. y 11. de este artículo, se agregarán dos nuevas copias, una vez que el expediente se encuentre apto para el otorgamiento del permiso.
 
 Las solicitudes de permiso de edificación de las construcciones industriales, de equipamiento, turismo y poblaciones, ubicadas fuera de los límites urbanos, deberán acompañar además de los antecedentes que señala este artículo, los informes favorables de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio Agrícola Ganadero.
 
@@ -5924,11 +5960,11 @@ Se entienden incluidos en el permiso de edificación todas las autorizaciones o 
 
 #### Artículo 5
 
-1.7. En los casos en que deban presentarse cálculos de estabilidad, el Director de Obras Municipales deberá exigir que se acompañen memoria de cálculo y planos de estructura, ambos firmados por el profesional competente y verificar que contengan las indicaciones y dibujos que para cada caso se indican en el presente artículo.
+1.7. Las edificaciones, exceptuadas las señaladas en el inciso final de este artículo, deberán ejecutarse conforme a un proyecto de cálculo estructural, elaborado y suscrito por un ingeniero civil o por un arquitecto.
 
-No corresponderá al Director de Obras Municipales ni al revisor independiente revisar los cálculos que contengan dichos pliegos.
+El proyecto de cálculo estructural se presentará a la Dirección de Obras Municipales junto con la solicitud de permiso de edificación, acompañando la memoria de cálculo y los planos de estructura, ambos firmados por el profesional competente.
 
-El pliego de cálculos deberá contener las indicaciones siguientes:
+La memoria de cálculo deberá contener las indicaciones siguientes:
 
 1. Cargas y sobrecargas verticales por metro cuadrado (fija o móvil).
 
@@ -5936,19 +5972,23 @@ El pliego de cálculos deberá contener las indicaciones siguientes:
 
 3. Tensiones admitidas en los materiales y en el terreno y justificación de estas últimas.
 
-4. Indicación de las condiciones de medianería, y, asimismo, previsiones hechas para resguardar la seguridad de los terrenos y edificaciones vecinas.
+4. Indicación de las condiciones de medianería y, asimismo, previsiones hechas para resguardar la seguridad de los terrenos y edificaciones vecinas.
 
-Los planos de estructura que se acompañarán al pliego de cálculos contendrán los siguientes dibujos:
+Los planos de estructura contendrán los siguientes dibujos:
 
-1. Plantas de fundaciones y de cada piso o grupo de pisos iguales, a escala 1:100 ó 1:50. En estos planos se indicará la ubicación de los distintos conductos colectivos, tales como de ventilación ambiental, de evacuación de gases de la combustión y de basura, cuando corresponda.
+1. Plantas de fundaciones y de cada piso o grupo de pisos iguales, a escala entre 1:100 y 1:10. En estos planos se indicará la ubicación de los distintos conductos colectivos, tales como de ventilación ambiental, de evacuación de gases de la combustión y de basura, cuando fuere necesario.
 
-2. Secciones generales indispensables para definir las diversas partes de la estructura a escala 1:100 ó 1:50.
+2. Secciones generales indispensables para definir las diversas partes de la estructura a escala entre 1:100 y 1:10.
 
-3. Detalles de construcción de fundaciones, losas, vigas, ensambles, perfiles y otros que sean necesarios para la buena ejecución de la obra, a escala 1:10, 1:20 ó 1:50, según sea conveniente para la claridad de los planos.
+3. Detalles de construcción de fundaciones, losas, vigas, ensambles, perfiles y otros que sean necesarios para la buena ejecución de la obra, a escala entre 1:100 y 1:10.
 
-4. Detalles de juntas de dilatación o separación entre cuerpos. En el caso de adición de elementos que impliquen aumento de carga, se justificará por el cálculo la estabilidad de las partes afectadas. Lo mismo se hará en el caso de modificación de la estructura resistente, o de su rigidez, debiendo, además, justificarse la estabilidad del conjunto.
+4. Especificaciones Técnicas de diseño que incluyan las características de los materiales considerados en el proyecto, zona sísmica donde se construirá el proyecto y el tipo de suelo de fundación, de acuerdo a la clasificación de la tabla 4.2 de la NCh.433.
 
-No será necesario presentar cálculos de estabilidad de los edificios de las clases C, D, E y F, siempre que se cumpla con lo dispuesto en el Título 5 Capítulo 6 de la presente Ordenanza. Sin embargo, cuando se trate de edificios en que se reúna público como ser escuelas, hospitales, salas de espectáculos, lugares de culto, será obligatoria la presentación de los cálculos correspondientes.
+5. Detalles de juntas de dilatación o separación entre cuerpos.
+
+No corresponderá al Director de Obras Municipales ni al Revisor Independiente revisar los proyectos de cálculo estructural.
+
+Se exceptúan de la obligación de contar con proyecto de cálculo estructural, las edificaciones cuya superficie sea menor de 100 m2, las obras menores y las edificaciones de las clases C, D, E y F, cuya carga de ocupación sea inferior a 20 personas, siempre que en la solicitud de permiso de edificación el propietario deje constancia que la obra se ejecutará conforme a las disposiciones del Capítulo 6 de este mismo Título.
 
 #### Artículo 5
 
@@ -6057,6 +6097,10 @@ Será responsabilidad del constructor mantener en el lugar de la obra, durante t
 8. Presupuesto de obras complementarias, si las hubiere.
 
 9. Fotocopia del permiso anterior.
+
+10. Informe favorable de Revisor Independiente, cuando corresponda.
+
+11. Firma del proyectista de cálculo estructural e informe favorable de Revisor de Proyecto de Cálculo Estructural, cuando corresponda.
 
 Una vez aprobados y para todos los efectos legales, los nuevos antecedentes reemplazarán a los documentos originales.
 
@@ -6170,7 +6214,147 @@ Si la Dirección de Obras Municipales verificare durante el transcurso de la obr
 
 #### Artículo 5
 
-1.25. Derogado.
+1.25. En los casos que a continuación se indican, el propietario deberá contratar un Revisor de Proyecto de Cálculo Estructural:
+
+1. Edificios de uso público.
+
+2. Conjuntos de viviendas cuya construcción hubiere sido contratada por los Servicios de Vivienda y Urbanización.
+
+3. Conjuntos de viviendas sociales de 3 o más pisos.
+
+4. Conjuntos de viviendas de 3 o más pisos que no sean sociales.
+
+5. Edificios de 3 o más pisos cuyo destino sea uso exclusivo oficinas privadas.
+
+6. Edificios que deban mantenerse en operación ante situaciones de emergencia, tales como hospitales, cuarteles de bomberos, cuarteles policiales, edificaciones destinadas a centros de control de empresas de servicios energéticos y sanitarios, emisoras de telecomunicaciones.
+
+7. Edificios cuyo cálculo estructural esté basado en normas extranjeras, las cuales deberán ser declaradas al momento de solicitar el permiso.
+
+La revisión del proyecto de cálculo estructural de las obras cuya edificación hubiere sido contratada por órganos de la Administración del Estado, podrá efectuarse por el propio órgano contratante, a través de ingenieros o arquitectos de su dependencia que se encuentren inscritos en el Registro Nacional de Revisores de Proyectos de Cálculo Estructural.
+
+#### Artículo 5
+
+1.26. El informe favorable de Revisor de Proyecto de Cálculo Estructural en los casos que señala el artículo anterior, debe ser presentado ante la Dirección de Obras Municipales junto con la solicitud de permiso de edificación.
+
+No obstante lo dispuesto en el inciso anterior, el propietario estará facultado para entregar el informe favorable del Revisor de Proyecto de Cálculo Estructural hasta el momento del otorgamiento del permiso de edificación. En todo caso, deberá acreditarse la contratación del Revisor de Proyecto de Cálculo Estructural al solicitarse el permiso de edificación.
+
+La infracción a lo dispuesto en el inciso anterior será sancionada con la paralización de la obra que dispondrá el Director de Obras Municipales por resolución fundada, sin perjuicio de la sanción por la infracción prevista en el número 9. del artículo 1.3.2. de la presente Ordenanza.
+
+#### Artículo 5
+
+1.27. El Revisor de Proyecto de Cálculo Estructural revisará el proyecto de acuerdo con las normas técnicas que se indican a continuación y verificará su cumplimiento en lo que le sea aplicable:
+
+NCh 169 Ladrillos cerámicos - Clasificación y
+
+requisitos.
+
+NCh 181 Bloques huecos de hormigón de cemento.
+
+NCh 203 Acero para uso estructural - Requisitos.
+
+NCh 204 Acero - Barras laminadas en caliente para
+
+hormigón armado.
+
+NCh 205 Acero - Barras reviradas para hormigón
+
+armado.
+
+NCh 211 Barras con resaltes en obras de hormigón
+
+armado.
+
+NCh 218 Acero - Mallas de acero de alta resistencia
+
+para hormigón armado - Especificaciones.
+
+NCh 219 Mallas de acero de alta resistencia -
+
+Condiciones de uso en el hormigón armado.
+
+NCh 427 Construcción - Especificaciones para el
+
+cálculo, fabricación y construcción de
+
+estructuras de acero.
+
+NCh 428 Ejecución de construcciones en acero.
+
+NCh 429 Hormigón Armado - Primera parte.
+
+NCh 430 Hormigón Armado - Segunda parte.
+
+NCh 431 Construcción - Sobrecargas de nieve.
+
+NCh 432 Cálculo de la acción del viento sobre
+
+las construcciones.
+
+NCh 433 Diseño sísmico de edificios.
+
+NCh 434 Barras de acero de alta resistencia en
+
+obras de hormigón armado.
+
+NCh 1159 Acero estructural de alta resistencia y
+
+baja aleación para construcción.
+
+NCh 1173 Acero - Alambre liso o con entalladuras
+
+de grado AT5650H, para uso en hormigón
+
+armado - Especificaciones.
+
+NCh 1174 Construcción - Alambre de acero liso o con
+
+entalladuras, de grado AT56 - 50H en forma
+
+de barras rectas - Condiciones de uso en
+
+el hormigón armado.
+
+NCh 1198 Madera - Construcciones en madera - Cálculo.
+
+NCh 1537 Diseño estructural de edificios - Cargas
+
+permanentes y sobrecargas de uso.
+
+NCh 1928 Albañilería armada - Requisitos para el
+
+diseño y cálculo.
+
+NCh 1990 Madera - Tensiones admisibles para madera
+
+estructural.
+
+NCh 2123 Albañilería confinada - Requisitos de
+
+diseño y cálculo.
+
+NCh 2151 Madera laminada encolada estructural -
+
+Vocabulario.
+
+NCh 2165 Tensiones admisibles para la madera
+
+laminada encolada estructural de pino
+
+radiata.
+
+NCh 2369 Diseño Sísmico de Estructuras e
+
+Instalaciones Industriales.
+
+NCh 2577 Construcción - Barras de plástico reforzado
+
+con fibras de vidrio, fibras de carbono y
+
+fibras arámidas - Requisitos.
+
+El Revisor de Proyecto de Cálculo Estructural informará favorablemente el respectivo proyecto si éste cumple con lo señalado en el inciso precedente. En caso contrario, formulará observaciones, debiendo ponerlas en conocimiento del proyectista de cálculo estructural, por escrito, en un solo acto, indicando la totalidad de las observaciones que deben ser aclaradas o subsanadas para dar curso al informe favorable, remitiendo copia de las observaciones al propietario.
+
+En casos en que se justifique debidamente que no existen normas técnicas aplicables a la materia, los proyectos de cálculo estructural deberán ser realizados sobre la base de normas técnicas extranjeras, cuya aplicación se adecue más al proyecto, a criterio del Revisor del Proyecto de Cálculo Estructural.
 
 ## Capítulo 2
 
@@ -6226,9 +6410,7 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 
 4. Aviso de instalación y planos correspondientes a las redes y elementos de telecomunicaciones, cuando proceda.
 
-5. Declaración de instalaciones eléctricas de ascensores y montacargas inscrita por el instalador autorizado en la Superintendencia de Electricidad y Combustibles, la cual registrará la inscripción.
-
-Certificado del fabricante o instalador de ascensores indicando que la instalación está conforme a las normas vigentes, dirigido a la Dirección de Obras Municipales respectiva.
+5. Certificados de instalaciones de ascensores y montacargas, emitido por la autoridad que corresponda y por el instalador, cuando proceda. Asimismo la certificación de aprobación de los sistemas electromecánicos o electrohidráulicos.
 
 6. Declaración de instalaciones de calefacción, central de agua caliente y aire acondicionado, emitida por el instalador, cuando proceda.
 
@@ -6243,8 +6425,6 @@ Cuando el proyecto aprobado incluya la ejecución de obras de urbanización, deb
 Tratándose de proyectos de loteo con construcción simultánea, se recepcionarán simultáneamente las obras de edificación y de urbanización, salvo que estas últimas se hubieren recepcionado en forma anticipada.
 
 Los antecedentes y certificaciones a que se refiere este artículo se archivarán conjuntamente con el legajo que señala el inciso primero del artículo 5.1.16. de esta Ordenanza y formarán parte del mismo.
-
-> **Nota.** NOTA El Artículo primero transitorio del Decreto-115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días desde su publicación.
 
 #### Artículo 5
 
