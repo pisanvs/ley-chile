@@ -16,9 +16,7 @@ DE LA PLANTA NACIONAL DE CARGOS DEL MINISTERIO DE VIVIENDA Y URBANISMO
 
 #### Artículo 2°
 
-Sustitúyese, a contar del 1° de enero de 1992, la Planta Nacional de Cargos del personal del Ministerio de Vivienda y Urbanismo, sus Secretarías Ministeriales y los Servicios Regionales y Metropolitano de Vivienda y Urbanización, fijada por el DFL N° 2, de 1990, del Ministerio de Vivienda y Urbanismo, por la
-
-siguiente:
+Sustitúyese, a contar del 1° de enero de 1992, la Planta Nacional de Cargos del personal del Ministerio de Vivienda y Urbanismo, sus Secretarías Ministeriales y los Servicios Regionales y Metropolitano de Vivienda y Urbanización, fijada por el DFL N° 2, de 1990, del Ministerio de Vivienda y Urbanismo, por la siguiente:
 
 ------------------------------------------------------
 
@@ -40,7 +38,9 @@ Ministeriales Metropolitano,
 
 V y VIII Región 3° 3
 
-Directores Servicios de Vivienda y urbanización Metropolitano,
+Directores Servicios de Vivienda
+
+y urbanización Metropolitano,
 
 V y VIII Región 3° 3
 
@@ -134,9 +134,7 @@ Los cargos de esta planta que a continuación se indican y que sean provistos de
 
 - 31 cargos grado 6° se transformarán en 20 cargos grado 13° y en 11 cargos grado 14°, sucesivamente.
 
-- 16 cargos grado 7° se transformarán en 7 cargos grado 14°, en 5 cargos grado 17° y en 4 cargos grado
-
-18°, sucesivamente.
+- 16 cargos grado 7° se transformarán en 7 cargos grado 14°, en 5 cargos grado 17° y en 4 cargos grado 18°, sucesivamente.
 
 ------------------------------------------------------
 
@@ -178,9 +176,7 @@ Los cargos de esta planta que a continuación se indican y que sean provistos de
 
 - 20 cargos grado 10° se transformarán en 7 cargos grados 13°, en 10 cargos grado 14° y en 3 cargos grado 15°, sucesivamente.
 
-- 7 cargos grado 11° se transformarán en 7 cargos
-
-grado 15°.
+- 7 cargos grado 11° se transformarán en 7 cargos grado 15°.
 
 ------------------------------------------------------
 
@@ -259,12 +255,6 @@ TOTAL 479
 TOTAL GENERAL 3.008.
 
 > **Nota.** El artículo único del DFL 1, Vivienda, publicado el 18.03.2004, crea los siguientes cargos en la planta nacional del Ministerio de Vivienda y Urbanismo:Planta Cargo Grado Nº de Cargos EURDirectivos Jefe Departamento 5 1Profesionales Profesional 5 8.
-
-> **Nota.** NOTA 1: El artículo primero, del DFL 16, Hacienda, publicado el 02.10.2007, crea un cargo de Subsecretario Regional Ministerial y un cargo de Director Servicio de Vivienda y Urbanización, ambos grado 4, en la Planta de Directivos.
-
-> **Nota.** NOTA 2: El artículo primero, del DFL 18, Hacienda, publicado el 02.10.2007, crea un cargo de Subsecretario Regional Ministerial y un cargo de Director Servicio de Vivienda y Urbanización, ambos grado 4, en la Planta de Directivos.
-
-> **Nota.** NOTA 3 Los numerales 1 y 2 del artículo primero del Decreto con Fuerza de Ley 7, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial, grado 4°, en su planta de Directivos, asimismo, crea un cargo de Director de Servicio de Vivienda y Urbanización Regional, grado 4°, afecto al Sistema de Alta Dirección Pública, primer nivel jerárquico en su planta de Directivos.
 
 #### Artículo 3°
 
