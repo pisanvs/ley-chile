@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 151, de 24 de Junio de 1986, se expropiaron los lotes N°s. 1, 2, 3, 4 y 5, roles de avalúo 154205, 154-169, 154-209, 154-206 y 154-70, superficies 1.690 m2, 1.600 m2, 240 m2, 1.530 m2, y 1.920 m2, Comuna Las Cabras, VI Región, para Camino S/Rol La Llavería, sector Estero Las Palmas y se acordó precio de indemnización con sus propietarios sres. Manuel Gonz lez Palominos, Ruperto A. Núñez Guerrero, Juan Ugalde Espinoza, Luis Aliaga Gonz lez y Servando Jerez Osorio, ascendente. a $ 319.910; $ 304.328; $ 85.128; $ 270.130; y $ 346.369, respectivamente.
+
+- Fiscal del Ministerio de Obras Públicas. (15)
