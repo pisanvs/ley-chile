@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1490 de 12 de Agosto de 1987, conforme art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predios "Hijuela Nor - Oriente del Fundo Santa Filomena de Nos" e "Hijuela Sur - Poniente del Fundo Santa Filomena de Nos", y a Sector Excluido y Sector Expropiado Predio "Hijuela Quinta Santa Isabel de la Estancilla Norte que formaba parte de la ex Hacienda San León de Nos", de la comuna de San Bernardo, Región Metropolitana; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 6 a la 15 y 29 a la 67, sitios N°s. 8 al 14 y 36 al 80 y Reservas CORA No. 1 y 3 (parte) del Proyecto de Parcelación "Santa Filomena" formado por predio señalado ante otros. Los derechos de agua se extraen de los canales Espejo, Ochagavía, Pinto y Onificado de la Asociación Canales de Maipo, todos derivados del Río Maipo y derrames del predio San León de Nos.
+
+Publicación hecha conforme art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
