@@ -1,0 +1,3 @@
+Por Resolución Nº592, de 30 de Junio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD SKYRING SALMON S.A., R.U.T. Nº79.698.670-8, domiciliada en calle Luis Pasteur Nº6703 Santiago, para continuar desarrollando las actividades pesqueras que tiene autorizadas la Sociedad Skyring Salmon Ltda., R.U.T. Nº79.698.760-8. domiciliada en calle Luis Pasteur Nº6703, Santiago.
+
+Valparaíso, 30 de Junio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
