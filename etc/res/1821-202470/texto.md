@@ -1,0 +1,3 @@
+Por resolución Nº1.821, de 27 de agosto de 2002, de esta Subsecretaría, autorízase a JOSE LUIS FERRO DENIS para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº210 y Nº1.609, ambas de 1996, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Malaquías Concha Nº1221, San Vicente, Talcahuano, VIII Región, en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Congelado: Azulejo y Reineta.
+
+Valparaíso, 27 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
