@@ -8306,6 +8306,8 @@ Los sobregiros en una cuenta corriente bancaria corresponden a todos aquellos gi
 
 Estos sobregiros pueden obedecer a una modalidad de crédito previamente acordada con el titular de la cuenta corriente, o bien, pueden originarse por una contingencia o una operación especial, sin que al comitente le asista un derecho contractual para sobregirar la cuenta.
 
+De acuerdo lo dispuesto en el Capítulo III.B.l del Compendio de Normas Financieras del Banco Central de Chile, cuando se trate de cuentas corrientes en moneda extranjera sólo pueden conceder sobregiros aquellos bancos cuyos Directorios, o agentes en el caso de sucursales de bancos extranjeros, hayan establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
+
 2.- Sobregiro sin pacto previo.
 
 De acuerdo con lo dispuesto por el Banco Central de Chile en el Capítulo III.G.3. del Compendio de Normas Financieras, los bancos están facultados para conceder sobregiros en cuentas corrientes sin que medie un pacto previo.
@@ -8580,33 +8582,15 @@ Conforme a lo establecido en el artículo 5° de la Ley N° 19.439, las instituc
 
 ### 2. Monto máximo de los préstamos
 
-Los préstamos que otorguen las instituciones financieras bajo esta modalidad, no
+Los préstamos que otorguen las instituciones financieras bajo esta modalidad, no podrán exceder del 80% del valor de tasación del inmueble ofrecido en garantía.
 
-podrán exceder del 80% del valor de tasación del inmueble ofrecido en garantía.
+En caso de operaciones de compraventa de bienes raíces, dichos préstamos no deberán exceder del mencionado importe o del 80% del precio de venta del respectivo inmueble, si este último precio fuere inferior la valor de tasación.
 
-En caso de operaciones de compraventa de bienes raíces, dichos préstamos no
-
-deberán exceder del mencionado importe o del 80% del precio de venta del
-
-respectivo inmueble, si este último precio fuere inferior la valor de tasación.
+No obstante lo anterior, cuando se trate de los créditos pagaderos en moneda extranjera, expresados en moneda extranjera pagaderos en moneda chilena o en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, mencionados en el N° 5 de este título, los préstamos no podrán exceder del 65% del valor de tasación del inmueble ni del precio de compraventa.
 
 ### 3. Garantía hipotecaria
 
-La hipoteca a favor del acreedor, que garantice estos créditos, deberá ser de
-
-primer grado y exclusivamente para caucionar una obligación determinada. No
-
-obstante, se admite la posibilidad de que esa hipoteca lo sea de segundo grado
-
-siempre que la primera hipoteca no se haya constituido con carácter de garantía
-
-general, sino para garantizar una obligación perfectamente determinada, la
-
-que,sumada al crédito amparado por la segunda hipoteca, no debe exceder del 80%
-
-del valor de tasación del inmueble o del 80% del precio de venta del bien raíz,
-
-según cual sea menor.
+La hipoteca a favor del acreedor, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea de segundo grado siempre que la primera hipoteca no se haya constituido con carácter de garantía general, sino para garantizar una obligación perfectamente determinada, la que,sumada al crédito amparado por la segunda hipoteca, no debe exceder del 65% u 80% del valor de tasación del inmueble ni del precio de venta del bien raíz, de acuerdo a lo señalado en el N° 2 precedente.
 
 ### 4. Tasación de la garantía
 
@@ -8628,11 +8612,11 @@ procedimiento de valuación que se adopte, se consideren y ponderen correctament
 
 todos los factores que incidan en el valor que se le asigne al bien raíz.
 
-### 5. Tasa de interés y reajustes
+5.- Moneda, reajustes y tasa de interés.
 
-La tasa de interés que se acuerde puede ser fija o flotante. Cuando se utilice una tasa de interés flotante, ella debe tener por base la Tasa de Interés Promedio (TIP) de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras del Banco Central de Chile y deberá pactarse siguiendo las mismas reglas establecidas para los préstamos en letras de crédito, señaladas en la letra c) del numeral 1.1 del título I del Capítulo 9-1 de esta Recopilación Actualizada de Normas.
+Los créditos deberán otorgarse en moneda chilena, pudiendo expresarse en unidades de fomento o en índice valor promedio para efectos de su reajustabilidad. No obstante, las empresas bancarias podrán también otorgar créditos en moneda extranjera, o en pesos indexados a una moneda extranjera en cualquiera de las modalidades indicadas en el N° 3 del Capítulo III.B.1 del Compendio de Normas Financieras, cuando se trate de mutuos hipotecarios para fines generales y siempre que el Directorio del banco acreedor, o su agente en el caso de una sucursal de un banco extranjero, haya establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
 
-Las obligaciones podrán expresarse en unidades de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile.
+La tasa de interés que se acuerde puede ser fija o flotante. La tasa de interés variable debe tener por base la tasa TIP, pactada siguiendo las mismas reglas establecidas para los préstamos en letras de crédito, señaladas en la letra c) del numeral 1.1 del título I del Capítulo 9-1 de esta Recopilación. No obstante, al tratarse de créditos otorgados y pagaderos en moneda extranjera, expresados en moneda extranjera y pagaderos en moneda chilena o bien en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, la tasa de interés flotante debe tener por base la tasa Prime o Libo.
 
 Las instituciones financieras no podrán recargar la tasa de interés pactada en estas operaciones con comisiones, gastos u otras prestaciones, salvo los conceptos a que se refiere el N° 10 siguiente.
 
@@ -8646,7 +8630,7 @@ Raíces.
 
 ### 7. Dividendos hipotecarios
 
-El reembolso de los préstamos otorgados al amparo de estas normas se hará en moneda nacional, por medio de dividendos.
+El reembolso de los préstamos otorgados al amparo de estas normas se hará en la moneda que corresponda, por medio de dividendos.
 
 En el caso de préstamos hipotecarios para la vivienda, el servicio se hará mediante dividendos mensuales sucesivos vencidos. En estos préstamos no podrán pactarse dividendos crecientes o decrecientes, ni plazos de gracia superiores a tres meses a contar de la fecha de otorgamiento del crédito, debiendo enterarse cada pago dentro de los 10 primeros días del mes siguiente al de la fecha de vencimiento.
 
@@ -8806,77 +8790,25 @@ actividades, puedan causar al deudor del mutuo.
 
 4. Obligaciones de las instituciones en su calidad de agentes administradores.
 
-En su calidad de agentes administradores, las instituciones financieras serán
+En su calidad de agentes administradores, las instituciones financieras serán responsables de la eficacia de los contratos y garantías, debiendo, por lo tanto, verificar la identidad y capacidad legal de las personas con las cuales se realicen estas operaciones, la autenticidad e integridad de los mutuos que administren y velar por la forma externa y correlación de los endosos.
 
-responsables de la eficacia de los contratos y garantías, debiendo, por lo
+Las instituciones financieras, en el ejercicio de su función de agentes administradores, deberán cumplir, además, con las siguientes obligaciones:
 
-tanto, verificar la identidad y capacidad legal de las personas con las cuales
+a) Obtener los antecedentes y evaluar la capacidad crediticia de los solicitantes de préstamos hipotecarios endosables, efectuar el estudio de los títulos y las tasaciones de las propiedades entregadas en garantía, ciñéndose especialmente a los requerimientos establecidas en el mandato de administración de los mutuos.
 
-se realicen estas operaciones, la autenticidad e integridad de los mutuos que
+El análisis de estos antecedentes debe estar orientado a determinar tanto el valor de la garantía ofrecida como la situación financiera y la capacidad de pago del deudor, teniendo en cuenta que el monto máximo del préstamo no podrá exceder del 80% o 65% del valor del inmueble hipotecado, según corresponda de acuerdo con lo indicado en el N° 2 del título I de este Capítulo.
 
-administren y velar por la forma externa y correlación de los endosos.
+b) Redactar la escritura pública en que se hará constar el otorgamiento del préstamo, la constitución de la respectiva garantía y, cuando proceda, la compraventa del bien raíz. Además, deberá realizar los trámites de las inscripciones que correspondan en el Conservador de Bienes Raíces.
 
-Las instituciones financieras, en el ejercicio de su función de agentes
+c) Cobrar y percibir, en las fechas establecidas en el contrato de mutuo, el valor de los dividendos y de las primas de los seguros, a que se encuentre obligado el deudor, y realizar la cobranza en caso de no pago de los mismos, de acuerdo a los términos del contrato de administración.
 
-administradores, deberán cumplir, además, con las siguientes obligaciones:
+d) Entregar a su mandante, en la forma convenida en el contrato de administración, los pagos ordinarios y extraordinarios efectuados por los deudores.
 
-a) Obtener los antecedentes y evaluar la capacidad crediticia de los
+e) Informar a su mandante, en forma veraz, suficiente y oportuna, de todo hecho que afecte a sus intereses y que se refiera a las deudores, debiendo proporcionar a aquél los antecedentes relativos a sus operaciones, cuando así se lo solicite.
 
-solicitantes de préstamos hipotecarios endosables, efectuar el estudio de los
+Además, la institución mandataria deberá poner a disposición de su mandante o de quien éste autorice en forma expresa, información actualizada del saldo insoluto de la deuda de cada uno de los mutuarios y de los dividendos en mora que éstos
 
-títulos y las tasaciones de las propiedades entregadas en garantía, ciñéndose
-
-especialmente a los requerimientos establecidas en el mandato de administración
-
-de los mutuos.
-
-El análisis de estos antecedentes debe estar orientado a determinar tanto el
-
-valor de la garantía ofrecida como la situación financiera y la capacidad de
-
-pago del deudor, teniendo en cuenta que el monto máximo del préstamo no podrá
-
-exceder del 80% del valor del inmueble hipotecado.
-
-b) Redactar la escritura pública en que se hará constar el otorgamiento del
-
-préstamo, la constitución de la respectiva garantía y, cuando proceda, la
-
-compraventa del bien raíz. Además, deberá realizar los trámites de las
-
-inscripciones que correspondan en el Conservador de Bienes Raíces.
-
-c) Cobrar y percibir, en las fechas establecidas en el contrato de mutuo, el
-
-valor de los dividendos y de las primas de los seguros, a que se encuentre
-
-obligado el deudor, y realizar la cobranza en caso de no pago de los mismos, de
-
-acuerdo a los términos del contrato de administración.
-
-d) Entregar a su mandante, en la forma convenida en el contrato de
-
-administración, los pagos ordinarios y extraordinarios efectuados por los
-
-deudores.
-
-e) Informar a su mandante, en forma veraz, suficiente y oportuna, de todo hecho
-
-que afecte a sus intereses y que se refiera a las deudores, debiendo
-
-proporcionar a aquél los antecedentes relativos a sus operaciones, cuando así se
-
-lo solicite.
-
-Además, la institución mandataria deberá poner a disposición de su mandante o de
-
-quien éste autorice en forma expresa, información actualizada del saldo insoluto
-
-de la deuda de cada uno de los mutuarios y de los dividendos en mora que éstos
-
-registren. Asimismo, deberá mantener bajo su custodia todos los antecedentes y
-
-documentos del préstamo.
+registren. Asimismo, deberá mantener bajo su custodia todos los antecedentes y documentos del préstamo.
 
 ### 5. Registro de mutuos hipotecarios endosables
 
@@ -13024,6 +12956,8 @@ Las instituciones financieras deben tener presente que la emisión de letras de 
 
 respectiva hipoteca se encuentre debidamente inscrita a su favor o que aún no se haya cumplido ese trámite.
 
+De acuerdo a lo establecido en el Capítulo III.B.l del Compendio de Normas Financieras del Banco Central de Chile, las operaciones con emisión de letras de crédito en moneda extranjera deben circunscribirse a aquellas para fines generales y sólo pueden realizarlas los bancos cuyos Directorios, o agentes en el caso de sucursales de bancos extranjeros, hayan establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
+
 1. - Del prospecto.
 
 La institución financiera que desee otorgar préstamos en letras de crédito para la vivienda u otros fines, deberá presentar a esta Superintendencia un prospecto que habrá de contener las condiciones generales de la emisión. La emisión proyectada deberá ser motivo de un Acuerdo del Directorio de la empresa.
@@ -13032,27 +12966,25 @@ La institución financiera que desee otorgar préstamos en letras de crédito pa
 
 En el prospecto se deberán mencionar y describir las siguientes condiciones de cada emisión que se proyecte;
 
-a) Monto de la emisión propuesta, moneda en que se expresará (Pesos, U.F., I.V.P. o moneda extranjera) y si las letras serán al portador o nominativas.
+a) Monto de la emisión propuesta, moneda o unidad de valor en que se expresará y si las letras serán al portador o nominativas.
 
-El emisor deberá acompañar un detalle de las series que se propone emplear con indicación de si se destinarán al financiamiento de vivienda o a fines generales. Pertenecerán a una misma serie las letras que tengan idénticas características en cuanto a tasa de interés, forma y plazo de amortización. Asimismo, se deberá indicar si las letras se expresarán en moneda extranjera, Pesos, Unidades de Fomento y, cuando se trate de letras de crédito para vivienda, sólo en Unidades de Fomento o en Indice Valor Promedio. El corte delas letras será determinado libremente por la institución emisora.
+El emisor deberá acompañar un detalle de las series que se propone emplear con indicación de si se destinarán al financiamiento de vivienda o a fines generales. Pertenecerán a una misma serie las letras que tengan idénticas características en cuanto a tasa de interés, forma y plazo de amortización. Asimismo, se indicará la moneda o unidad de valor a que se refiere el artículo 3° del Capítulo II.A.1 antes mencionado, en que se expresarán las letras de crédito. El corte delas letras será determinado libremente por la institución emisora.
 
 b) Plazo de los préstamos.
 
-Este deberá ser igual al de vencimiento de las letras de crédito
-
-correspondientes, pero en ningún caso inferior a un año.
+Este deberá ser igual al de vencimiento de las letras de crédito correspondientes, pero en ningún caso inferior a un año.
 
 c) Tasa de interés.
 
 Es preciso tener presente que la tasa de interés es libre y puede ser fija o flotante, con la limitación que la del préstamo debe ser idéntica a la de las respectivas letras de crédito, sin considerar, para este efecto, la comisión a cargo del deudor del crédito.
 
-Cuando se pacte una tasa de interés flotante en un mutuo hipotecario, se deberá señalar expresamente, de conformidad con lo dispuesto en las normas del Banco Central de Chile, que ésta variará semestralmente y esa variación tendrá por base la Tasa
+La tasa de interés variable debe tener por base la tasa TIP a que se refiere el párrafo siguiente, salvo que se trate de letras de crédito emitidas y pagaderas en moneda extranjera, expresadas en moneda extranjera y pagaderas en moneda chilena o en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, en cuyos casos la tasa de interés flotante debe tener por base la tasa Prime o Libo.
 
-de Interés Promedio establecida en el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada por el Banco Central de Chile y publicada en el Diario Oficial en la segunda quincena de los meses de mayo y noviembre de cada año. Sin embargo, durante el período inicial de vigencia, la tasa de interés será aquella que conste en la respectiva letra y en el mutuo. Las tasas variables calculadas en la forma antedicha, regirán para el segundo semestre del mismo año en que se determine y para el primer semestre del año siguiente,respectivamente.
+Cuando se establezca una tasa de interés flotante tomando por base la tasa TIP, se deberá señalar expresamente que aquella tasa variará semestralmente considerando la Tasa de Interés Promedio (TIP) establecida en el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada por el Banco Central de Chile y publicada en el Diario Oficial en la segunda quincena de los meses de mayo y noviembre de cada año. Sin embargo, durante el período inicial de vigencia, la tasa de interés será aquella que conste en la respectiva letra y en el mutuo. Las tasas variables calculadas en la forma antedicha, regirán para el segundo semestre del mismo año en que se determine y para el primer semestre del año siguiente,respectivamente.
 
-En todo caso, la tasa de interés flotante no podrá ser superior en más de tres puntos porcentuales con respecto a la tasa de interés que se aplique en la fecha en que comience la vigencia del crédito. A vía de ejemplo, si la tasa de interés al inicio del crédito fuera de 7% anual, el valor máximo que podría alcanzar dicha tasa sería del 10% anual.
+En todo caso, cuando se trate de letras de crédito para vivienda la tasa de interés flotante no podrá ser superior en más de tres puntos porcentuales con respecto a la tasa de interés que se aplique en la fecha en que comience la vigencia del crédito. A vía de ejemplo, si la tasa de interés al inicio del crédito fuera de 7% anual, el valor máximo que podría alcanzar dicha tasa sería del 10% anual.
 
-Asimismo, el valor mínimo para la tasa de interés flotante no podrá ser inferior a tres puntos porcentuales con respecto a la tasa que se aplique al comienzo del crédito, salvo que la institución financiera que lo otorgue opte, al momento de cursarlo, por prescindir del límite inferior de variación de la tasa de interés aplicable al préstamo y a las letras de crédito. Esta condición deberá quedar expresamente indicada en el respectivo contrato de mutuo y en el texto de las letras de crédito.
+Asimismo, el valor mínimo para la tasa de interés flotante en las letras de crédito para vivienda, no podrá ser inferior a tres puntos porcentuales con respecto a la tasa que se aplique al comienzo del crédito, salvo que la institución financiera que lo otorgue opte, al momento de cursarlo, por prescindir del límite inferior de variación de la tasa de interés aplicable al préstamo y a las letras de crédito. Esta condición deberá quedar expresamente indicada en el respectivo contrato de mutuo y en el texto de las letras de crédito.
 
 d) Amortización.
 
@@ -13088,7 +13020,7 @@ b) Tasa de interés y plazo.
 
 En las letras de crédito con tasa de interés fija se colocarán, a continuación de los signos alfabéticos señalados en la letra a) precedente, cinco signos numéricos. Los tres primeros dígitos corresponderán a la tasa de interés. El tercero de ellos indicará la fracción decimal, en caso de haberla, en tanto que los dos últimos indicarán el plazo de extinción total del instrumento.
 
-Al tratarse de letras de crédito con tasa de interés variable, en lugar de los tres dígitos correspondientes a la tasa de interés, se indicarán las letras "TIP".
+Al tratarse de letras de crédito con tasa de interés variable, en lugar de los tres dígitos correspondientes a la tasa de interés, se indicarán las letras "TIP" cuando corresponda a una tasa basada en la Tasa de Interés Promedio, o las letras "VAR" cuando la tasa se base en una distinta.
 
 c) Origen de la letra de crédito y periodicidad de amortización.
 
@@ -13108,13 +13040,19 @@ G = Fines generales con período de gracia.
 
 d) Unidad de valor en que está expresado el documento.
 
-Luego del signo alfabético a que se refiere la letra c) precedente, se imprimirá un signo numérico que representará la unidad de valor en que está expresada la respectiva letra de crédito. Estos signos y su significado serán los siguientes:
+Luego del signo alfabético a que se refiere la letra c) precedente, se imprimirá un signo numérico que representará la unidad de valor o moneda en que está expresada la respectiva letra de crédito. Estos signos y su significado serán los siguientes:
 
-1 = Unidad de Fomento (UF); y,
+1 = Unidad de Fomento (UF).
 
 2 = Indice Valor Promedio (IVP).
 
-La aplicación práctica de las instrucciones contenidas en este numeral se demuestra a continuación mediante el siguiente ejemplo: Una letra de crédito para vivienda, emitida a 20 años plazo, con una tasa de interés del 8,5% anual y expresada en Indice Valor Promedio (IVP), tendrá el siguiente código: AD08520V2. Asimismo, una letra de crédito de iguales características que la señalada pero con tasa de interés flotante, llevará el siguiente código: ADTIP20V2. No obstante que mediante esta codificación se identifican ahora las letras que corresponden a créditos para fines generales y las que tienen su origen en préstamos para vivienda, deberá agregarse en el caso de estas últimas, a continuación del código, la palabra "Vivienda". Este código de identificación se imprimirá en el lado superior izquierdo de la letra de crédito, bajo el nombre de la entidad emisora y en tipos suficientemente destacados.
+3 = Pesos moneda chilena, no reajustable.
+
+4 = Expresada en moneda extranjera y pagadera en pesos o reajustable por la variación del tipo de cambio.
+
+5 = Pagadera en moneda extranjera.
+
+La aplicación práctica de las instrucciones contenidas en este numeral se demuestra a continuación mediante el siguiente ejemplo: Una letra de crédito para vivienda, emitida a 20 años plazo, con una tasa de interés del 8,5% anual y expresada en Indice Valor Promedio (IVP), tendrá el siguiente código: AD08520V2. Asimismo, una letra de crédito de iguales características que la señalada pero con tasa de interés flotante basada en la tasa TIP, llevará el siguiente código: ADTIP20V2. No obstante que mediante esta codificación se identifican ahora las letras que corresponden a créditos para fines generales y las que tienen su origen en préstamos para vivienda, deberá agregarse en el caso de estas últimas, a continuación del código, la palabra "Vivienda". Este código de identificación se imprimirá en el lado superior izquierdo de la letra de crédito, bajo el nombre de la entidad emisora y en tipos suficientemente destacados.
 
 1.2.2.- Código de transacción bursátil.
 
@@ -13174,7 +13112,7 @@ Las tablas de desarrollo deberán estar referidas a una unidad de capital y debe
 
 Para el cálculo de las tasas de interés trimestrales, equivalentes a una tasa de interés anual fija, se emplearán no menos de 7 decimales. El séptimo decimal se aumentará al valor inmediatamente superior sólo cuando el octavo sea igual o superior a cinco.
 
-Aparte del cuadro descrito, se deberá indicar la tasa de interés anual aplicada y los períodos de amortización o pago de intereses. Cuando corresponda a letras de crédito con tasa de interés flotante, se indicará, además de la tasa inicial utilizada para el cálculo de las amortizaciones de capital, la tasa máxima y la tasa mínima.
+Aparte del cuadro descrito, se deberá indicar la tasa de interés anual aplicada y los períodos de amortización o pago de intereses. Cuándo se trate de letras de crédito con tasa de interés flotante, se indicará la tasa inicial utilizada para el cálculo de las amortizaciones de capital y, cuando corresponda, la tasa máxima y la tasa mínima.
 
 2.2.- Tablas de desarrollo de los mutuos.
 
@@ -13196,7 +13134,7 @@ g) Amortización acumulada.
 
 Al igual que las tablas de desarrollo de las letras de crédito, estas tablas deberán estar referidas a una unidad de capital y las cifras se expresarán con no menos de cuatro decimales.
 
-Cuando la tabla corresponda a mutuos con tasa de interés flotante, no se mencionarán los datos señalados en las letras c) y e), ya que el servicio de la deuda dependerá de la tasa de interés que rija en cada oportunidad. En este caso, se dejará constancia, en la respectiva tabla de desarrollo, de la fórmula que se utilizará para el cálculo de los intereses y que ella se aplicará sobre el saldo insoluto de capital antes del pago del respectivo dividendo. Asimismo, se indicará que en dicha fórmula se empleará la Tasa de Interés Promedio (TIP), que el Banco Central de Chile certifique y publique en el Diario Oficial, en conformidad al Capítulo IV.B.8.1 del Compendio de Normas Financieras, debiendo señalar el límite máximo que dicha tasa podrá alcanzar, como también el mínimo, en el caso que éste se hubiera fijado.
+Cuando la tabla corresponda a mutuos con tasa de interés flotante, no se mencionarán los datos señalados en las letras c) y e), ya que el servicio de la deuda dependerá de la tasa de interés que rija en cada oportunidad. En este caso, se dejará constancia, en la respectiva tabla de desarrollo, de la fórmula que se utilizará para el cálculo de los intereses, identificando la tasa base y su forma de certificación o publicación.
 
 A fin de facilitar el cobro de los mutuos hipotecarios y de conformidad con lo dispuesto en el artículo 111 de la Ley General de Bancos, las instituciones financieras deberán protocolizar las tablas de desarrollo en una Notaría, para dejar constancia, posteriormente, en cada una de las escrituras de mutuo, de la tabla que es aplicable a la deuda.
 
@@ -13206,7 +13144,7 @@ Las instituciones financieras podrán omitir el envío de las tablas de desarrol
 
 En todo caso, para construir una tabla de desarrollo de letras de crédito para vivienda con tasa fija, en la cual se basan también las amortizaciones de capital de aquéllas que se emiten con tasa variable, debe tenerse presente,además de lo indicado en el numeral 2.1 anterior, que el factor correspondiente al valor del cupón será siempre el mismo, excepto el último que podrá ser diferente por efecto del cálculo.
 
-El valor presente que se determine no deberá contener una diferencia superior o inferior a 0,0005 unidades, para una obligación o deuda referida a 1 UF o IVP.
+El valor presente que se determine no deberá contener una diferencia superior o inferior a 0,0005 unidades, para una obligación o deuda referida a una unidad de capital.
 
 Debido a que la modalidad de cobro de las comisiones y el monto de éstas dependerán de las opciones elegidas por cada institución financiera, las tablas de desarrollo de los mutuos deberán enviarse siempre a esta Superintendencia.
 
@@ -13406,15 +13344,17 @@ Las normas del Banco Central de Chile establecen que los préstamos que efectúe
 
 En caso de operaciones de compra venta de bienes raíces, dichos préstamos tampoco podrán exceder del mencionado importe o del 75% del precio de venta del respectivo inmueble si este último precio fuere inferior al valor de tasación.
 
+No obstante lo anterior, cuando se trate de créditos otorgados en moneda extranjera o de operaciones en moneda chilena indexadas a una moneda extranjera, dichos límites serán del 60%.
+
 Además, como es natural, deberán tenerse presente los márgenes individuales de crédito establecidos en el Art. 84 de la Ley General de Bancos.
 
 2.2.- Monto máximo del dividendo pactado en préstamos para viviendas cuyo valor de tasación no sea superior a 3.000 U.F.
 
-En los préstamos destinados a la adquisición o construcción de viviendas cuyo valor de tasación sea igual o inferior al equivalente de 3.000 Unidades de Fomento, el dividendo que se pacte no podrá exceder, al momento del otorgamiento del crédito, al 25 % de los ingresos del prestatario. Para estos efectos sólo podrán considerarse, además de los ingresos del prestatario, los de su cónyuge, siempre que éste se constituya en fiador y codeudor solidario del crédito
+En los préstamos destinados a la adquisición o construcción de viviendas cuyo valor de tasación sea igual o inferior al equivalente de 3.000 Unidades de Fomento, el dividendo que se pacte no podrá exceder, al momento del otorgamiento del crédito, al 25 % de los ingresos del prestatario. Para estos efectos sólo podrán considerarse, además de los ingresos del prestatario, los de su cónyuge, siempre que éste se constituya en fiador y codeudor solidario del crédito.
 
 3.- Garantía hipotecaria.
 
-La hipoteca a favor de la entidad financiera, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda del 75% del valor de tasación del inmueble o del 75% del precio de venta del inmueble, según corresponda.
+La hipoteca a favor de la entidad financiera, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda, de acuerdo a lo señalado en el numeral 2.1 de este título y según sea el caso, del 60% ó 75% del valor de tasación del inmueble o de su precio de venta.
 
 Si dos instituciones financieras participan simultáneamente en el otorgamiento de un crédito de esta especie podrán, de común acuerdo, fijar el orden de precedencia en cuanto a la garantía hipotecaria de primer y segundo grado.
 
@@ -13468,13 +13408,11 @@ En consideración a que el importe de las letras de crédito debe guardar perfec
 
 emisora será el que venza en el mes precedente a aquél en que el mutuario deba iniciar el servicio de su obligación.
 
-Si el inicio del pago de los dividendos corresponde al segundo o tercer mes de un trimestre calendario, el emisor estará obligado a entregar al mutuario,mediante un pagaré expresado en U.F. o en I.V.P. según corresponda, el monto dela amortización e intereses por el período comprendido entre el día 1° del mes en que se inicie el pago de los dividendos y el último día del respectivo trimestre calendario.
+Si el inicio del pago de los dividendos corresponde al segundo o tercer mes de un trimestre calendario, el emisor estará obligado a entregar al mutuario,mediante un pagaré expresado en la moneda o unidad de valor que corresponda, el monto dela amortización e intereses por el período comprendido entre el día 1° del mes en que se inicie el pago de los dividendos y el último día del respectivo trimestre calendario.
 
 Dicho pagaré podrá extenderse a la orden, nominativo o al portador. La fecha de vencimiento deberá ser coincidente con la del cupón correspondiente al trimestre en que se efectúe la emisión material de la letra y su monto será igual al valor de dicho cupón, deducido el importe devengado entre la fecha de vencimiento del cupón inmediatamente anterior y la del último día del mes anterior al de inicio del pago del mutuo. El pagaré deberá indicar, además, la obligación hipotecaria a que corresponde.
 
-Cuando se trate de préstamos en letras de crédito para fines generales en lasque se hubiere convenido que el crédito empezará a devengar intereses y reajustes a favor del acreedor desde el día primero del mes subsiguiente a aquél en que se celebre el respectivo contrato de mutuo, la institución emisora deberá desprender el primer cupón de las correspondientes letras de crédito. En tales casos la institución emisora deberá entregar al mutuario, mediante un pagaré expresado en U.F. o en I.V.P. según corresponda, el monto de la amortización e intereses por el período comprendido entre el día 1° del mes en que se inicie el
-
-servicio del mutuo y la fecha de vencimiento del cupón retirado.
+Cuando se trate de préstamos en letras de crédito para fines generales en lasque se hubiere convenido que el crédito empezará a devengar intereses y reajustes a favor del acreedor desde el día primero del mes subsiguiente a aquél en que se celebre el respectivo contrato de mutuo, la institución emisora deberá desprender el primer cupón de las correspondientes letras de crédito. En tales casos la institución emisora deberá entregar al mutuario, mediante un pagaré expresado en la moneda o unidad de valor que corresponda, el monto de la amortización e intereses por el período comprendido entre el día 1° del mes en que se inicie el servicio del mutuo y la fecha de vencimiento del cupón retirado.
 
 El referido pagaré, al igual que el señalado precedentemente, podrá ser a la orden, nominativo o al portador y deberá indicar la obligación hipotecaria a que corresponde.
 
@@ -13482,53 +13420,13 @@ De acuerdo a lo señalado en el párrafo anterior, la fecha de vencimiento debe 
 
 7.- Dividendos.
 
-El artículo 1° del Capítulo II.A.1 del Compendio de Normas Financieras vigente
+El artículo 1° del Capítulo II.A.1 del Compendio de Normas Financieras vigente sobre emisión de letras de crédito, dispone que el rembolso de los préstamos otorgados mediante estos instrumentos se hará por medio de dividendos anticipados que comprenderán el interés, la amortización y la comisión.
 
-sobre emisión de letras de crédito, dispone que el rembolso de los préstamos
+Se entenderán como dividendos anticipados en los préstamos para la vivienda, aquéllos cuyo pago deba hacerse al comienzo de cada uno de los intervalos de pago acordados. Este intervalo debe ser mensual, debiendo pagarse los dividendos dentro de los diez primeros días del respectivo período. En los préstamos para vivienda debe tenerse presente que la suma de tres dividendos mensuales debe corresponder al valor del cupón trimestral de las letras de crédito emitidas.
 
-otorgados mediante estos instrumentos se hará en moneda nacional por medio de
+La suma de los dividendos del mutuo, cualquiera sea la periodicidad en que deben ser pagados, debe ser coincidente, en lo que a cuota de capital e intereses se refiere, con la respectiva cuota de amortización de capital e intereses de las correspondientes letras de crédito emitidas.
 
-dividendos anticipados que comprenderán el interés, la amortización y la
-
-comisión.
-
-Se entenderán como dividendos anticipados en los préstamos para la vivienda,
-
-aquéllos cuyo pago deba hacerse al comienzo de cada uno de los intervalos de
-
-pago acordados. Este intervalo debe ser mensual, debiendo pagarse los dividendos
-
-dentro de los diez primeros días del respectivo período. En los préstamos para
-
-vivienda debe tenerse presente que la suma de tres dividendos mensuales debe
-
-corresponder al valor del cupón trimestral de las letras de crédito emitidas.
-
-La suma de los dividendos del mutuo, cualquiera sea la periodicidad en que deben
-
-ser pagados, debe ser coincidente, en lo que a cuota de capital e intereses se
-
-refiere, con la respectiva cuota de amortización de capital e intereses de las
-
-correspondientes letras de crédito emitidas.
-
-Cuando se trate de préstamos en letras de crédito para vivienda, el primer
-
-dividendo vencerá en el mes subsiguiente a aquél en que se hubiere celebrado el
-
-respectivo contrato de mutuo. En el caso de préstamos en letras de crédito para
-
-fines generales, los dividendos tendrán la periodicidad y el vencimiento que se
-
-hubiere convenido expresamente en el contrato de mutuo. En estos últimos
-
-créditos se podrá pactar que el devengo de intereses, comisiones y reajustes a
-
-favor de la institución financiera acreedora se inicie el día 1° del mes en que
-
-se firme la correspondiente escritura o el día primero del mes subsiguiente a
-
-éste.
+Cuando se trate de préstamos en letras de crédito para vivienda, el primer dividendo vencerá en el mes subsiguiente a aquél en que se hubiere celebrado el respectivo contrato de mutuo. En el caso de préstamos en letras de crédito para fines generales, los dividendos tendrán la periodicidad y el vencimiento que se hubiere convenido expresamente en el contrato de mutuo. En estos últimos créditos se podrá pactar que el devengo de intereses, comisiones y reajustes a favor de la institución financiera acreedora se inicie el día 1° del mes en que se firme la correspondiente escritura o el día primero del mes subsiguiente a éste.
 
 8.- Amortización extraordinaria de préstamos.
 
@@ -13646,7 +13544,7 @@ Las normas del Banco Central de Chile prohíben en forma expresa a las instituci
 
 Las instituciones financieras están facultadas para otorgar préstamos en letras de crédito que tengan por finalidad pagar anticipadamente otro préstamo de igual naturaleza.
 
-Estos nuevos préstamos pueden cursarse en la misma moneda o modalidad de reajuste que contemplaba el crédito que se paga o en otra distinta, siempre que se encuentre dentro de las autorizadas por el Banco Central de Chile, esto es,Unidades de Fomento, moneda extranjera pagadera en moneda chilena, o bien, si se trata de préstamos para vivienda, también en I.V.P.
+Estos nuevos préstamos pueden cursarse en la misma moneda o modalidad de reajuste que contemplaba el crédito que se paga o en otra distinta, siempre que se encuentre dentro de las autorizadas por el Banco Central de Chile.
 
 El monto del nuevo crédito que se curse, comprenderá el saldo del préstamo de igual naturaleza y sus respectivos créditos complementarios que se paguen bajo esta modalidad, siempre que estos últimos consten en el correspondiente mutuo. Además, se podrán incluir en el monto de esta operación los siguientes conceptos:
 
@@ -13662,7 +13560,7 @@ Los préstamos en letras de crédito que tengan por objeto pagar anticipadamente
 
 12.3.- Relación deuda-garantía.
 
-El monto del préstamo en letras de crédito no debe exceder del 75% del valor de la garantía. Para los fines de determinar el porcentaje que representa la garantía, se considerará el valor de las letras expresado en las láminas, menos la parte de amortización contenida en los cupones trimestrales desprendidos de ellas que correspondan al período comprendido entre la fecha de emisión nominal y el día primero del mes subsiguiente al de emisión material de las letras, cuando éstas sean para vivienda y, en caso que sean para fines generales, cuando se haya pactado esa modalidad en el respectivo mutuo.
+El monto del préstamo en letras de crédito no debe exceder del 60% ó 75% del valor de la garantía, según corresponda. Para los fines de determinar el porcentaje que representa la garantía, se considerará el valor de las letras expresado en las láminas, menos la parte de amortización contenida en los cupones trimestrales desprendidos de ellas que correspondan al período comprendido entre la fecha de emisión nominal y el día primero del mes subsiguiente al de emisión material de las letras, cuando éstas sean para vivienda y, en caso que sean para fines generales, cuando se haya pactado esa modalidad en el respectivo mutuo.
 
 En todo caso, las normas del Banco Central de Chile le permiten que los préstamos en letras de crédito otorgados para pagar anticipadamente otro u otros préstamos de igual naturaleza, queden exentos del referido límite, por el período que medie entre la fecha de su otorgamiento y la fecha en que se efectúe dicho prepago".
 
@@ -13708,11 +13606,7 @@ IV.- NORMAS CONTABLES.
 
 Las operaciones de que se trata, se contabilizarán con la misma fecha de la
 
-escritura de mutuo. En las operaciones en Unidades de Fomento e Indice Valor
-
-Promedio, deberá considerarse el valor que éstos tengan el día en que se efectúe
-
-su contabilización.
+escritura de mutuo. En las operaciones expresadas en alguna unidad de valor, deberá considerarse el equivalente que ésta tenga el día en que se efectúe su contabilización.
 
 Las referidas operaciones serán registradas en la siguiente forma:
 
@@ -13726,7 +13620,7 @@ Haber: "Letras de crédito en circulación con amortización directa", de la par
 
 2 . - Reajustes de estas operaciones.
 
-Las instituciones financieras deberán ajustar, a lo menos el último día hábil de cada mes, las cuentas en que se registren estas operaciones, al valor que para esa fecha tenga la Unidad de Fomento o el IVP según corresponda. Dicho ajuste operará de la siguiente forma:
+Las instituciones financieras registrarán contablemente los reajustes al menos al cierre de cada, mes, ciñéndose a lo siguiente:
 
 2.1.- Por el activo.
 
