@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº924, de 25 de junio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 35-A, 43-D, 44-C, 45-B y 50-B, para la obra Camino Ruta 7, sector Chamiza-Quillaipe, Km.
+
+4,83687 a Km. 15,84700, provincia de Llanquihue, X Región, que figuran a nombre de Suc Gutiérrez Hernández José y otra, Uribe Olavarría Francisco J y Olavarría Guerrero Mario, roles de avalúo 2203-12, 2205-87 y 2204-24, superficies 910 m2; 721 m2; 166 m2; 295 m2. y 42,5 m2., comuna de Puerto Montt. La Comisión de Peritos, con fecha 15 de junio de 2001, fijó la indemnización provisional en las cantidades de $1.685.000, lote 35-A, $1.901.500, lote 43-D, $569.000, lote 44-C, $1.942.500, lote 45-B y $88.750, lote 50-B, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
