@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.075, de 30 de septiembre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para la obra: Laja-Diguillín, Canal Matriz Diguillín-Larqui, Km.
+
+0,000 a Km. 7,000, Alimentador Nº 3, del lote Nº 1 y Alimentador Nº 4, el lote Nº 1, que figuran a nombre de Cortés Acuna Pedro Eduardo, Rol de Avalúo 602-52, comuna de San Ignacio, VIII Región, superficies 13.926 m2 y 25.468 m2. La Comisión de Peritos, fijó con fecha 26 de junio de 2003, el monto de la indemnización provisional en la cantidad $12.313.100.-, lote 1 (Alimentador Nº 3) y $22.388.300.-, lote 1 (Alimentador Nº 4). La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
