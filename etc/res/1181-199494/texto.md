@@ -1,0 +1,3 @@
+Por resolución Nº 1.181, de 11 de junio de 2002, de esta Subsecretaría, recházase la solicitud de modificación de proyecto técnico de acuicultura Nº200104037 presentada por SALMONES PACIFICO SUR S.A., para la concesión ubicada en Isla Abtao, Punta Areal, X Región, autorizada por resolución Nº1.407 de 1998, de la Subsecretaría de Marina.
+
+Valparaíso, 11 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
