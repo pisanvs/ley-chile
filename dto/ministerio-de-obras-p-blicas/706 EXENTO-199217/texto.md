@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº706, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº91, superficie 239 M2, rol de avalúo 282-8, comuna de San Fernando Región, para la obra ''Camino San Fernando-Roma, rol I-301, I-255, I-151, Km. 0.000 al 10,954264'', y se acordó el valor de indemnización con su propietario don Carlos Alberto Zúñiga Pérez y Otro, ascendente a la cantidad de $782.856.-
+
+Fiscal del Ministerio de Obras Públicas.
