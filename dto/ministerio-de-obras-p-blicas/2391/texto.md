@@ -1,0 +1,5 @@
+Por decreto MOP No. 2.391, de 17 de noviembre de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No. s.
+
+8, 9 y 10, para la obra Camino Ruta U-55-V, sector Osorno Puerto Octay Tramo Kms. 15,202 al 34,100, que figuran a nombre de Pedro Fredy Freitag Richter y Amalia Matilde Richter Proeschle, roles de avalúos 151-21 y 151-10, comuna de Puerto Octay, superficies 94; 110 y 150 m2., respectivamente. La comisión de peritos compuesta por los señores Luis Collarte Concha, Luis Narváez Espinoza y Ernesto Zumelzu Delgado, fijó con fecha 7 de noviembre de 1997, el valor provisional de las indemnizaciones en las cantidades de $ 75.200, lote 8; $ 88.000, lote 9 y $ 120.000, lote 10. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
