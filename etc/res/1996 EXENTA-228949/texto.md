@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.996, de 23 de julio de 2004, de esta Subsecretaría, autorízase a INDUSTRIAL COQUIMBO S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Camino al Fuerte Nº 20, Coquimbo, IV Región, en las líneas de elaboración de Fresco-enfriado, Fresco-refrigerado y Congelado, los recursos indicados en la resolución extractada.
+
+Valparaíso, 23 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
