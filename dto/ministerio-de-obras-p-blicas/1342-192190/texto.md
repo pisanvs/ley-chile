@@ -1,0 +1,3 @@
+Por decreto MOP Nº1342, de 31 de agosto de 2001, se expropiaron los lotes de terreno Nºs. 5-A y 5-D, superficies 763 M2 y 84 M2, respectivamente, rol de avalúo 5055-16, comuna de Punta Arenas, XII Región, para la obra "Reposición Ruta 9 y Acceso Aeropuerto, Sector (Ruta 9), Km. 5,31490 al 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819" y se acordó el valor de indemnización con su propietario Belisario Díaz Guenchor, ascendente a la cantidad de $7.033.258.-
+
+Fiscal del Ministerio de Obras Públicas.
