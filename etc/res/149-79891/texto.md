@@ -1,0 +1,3 @@
+Por resolución No. 149, de 24 de Septiembre de 1991, se canceló la personalidad jurídica de "Asociación de Funcionarios no Académicos de la Universidad de Atacama, Asociación Gremial", inscrita bajo el No. 2.067, por haberse configurado la causal contemplada en el artículo 5°, inciso tercero del decreto ley No. 2.757, de 1979.-
+
+Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción.
