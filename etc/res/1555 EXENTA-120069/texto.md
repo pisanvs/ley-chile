@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION Nº 1.555 EXENTA, DE 1998
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº1.555 del 22 de mayo de 1998, conforme artículo 5º transitorio Código Aguas, determinó Derechos Aprovechamiento de Aguas proporcionales que corresponden a Sector Excluido de la Expropiación del predio ''Hacienda Los Angeles, formada por las Hijuelas Los Angeles, Las Mercedes y Cerrillos'', de la comuna de Cabildo, V Región; Sectores La Mora y Las Puertas-Guayacán del sector expropiado del predio y derechos de agua proporcionales de Sitios Nºs. 1 al 61 asignados por el SAG.
+
+Los derechos de aguas se extraen del Estero Los Angeles por las Tomas del Bajo o San Carlos, del Cerro o Algarrobo, El Culén, El Jote o La Mora Bajo, El Palto o La Mora, Los Rábanos, Las Puertas y El Espino; del Estero El Cajón o Guayacán por las Tomas Guayacán, Agua Potable y del Cajón; de los Pozos Lazcano, Agua Potable, Cora, Junta de Vecinos Nº15, El Cerro, El Culén 2 o El Eucaliptus, El Culén 1, La Mora El Bajo, El Palto, La Mancha, San Miguel, Agua Potable Las Puertas, Las Lechugas, El Lilén, Las Puertas, Escuela Guayacán y Guayacán; de la Vertiente El Arrayanal y de las vertientes y aguadas cordilleranas La Mina María, El Guaydao, El Guindo, El Andacollo, El Relvo, La Tinaja, El Maitén, La Colmenia, El Sauce, El Palqui, El Carrizo, El Zorro, Quebrada Honda, El Quilo, El Sapo, Corrales de Bueyes, Los Monitos, Los Maquis, Los Peumos de Adentro y Los Peumos de Abajo, Agua del Chivato, Agua Primera del Sauce, El Alamo, El Rincón de Los Horcones, Los Peumo de Guayacán, Quebrada de Las Tranquillas, La Hortiga y El Horna Grande.
+
+Publicación hecha conforme artículo 13 ley Nº18.377.-
+
+Director Nacional.
