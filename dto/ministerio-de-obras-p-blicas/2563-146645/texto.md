@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.563, de 22 de septiembre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº6, para la obra Camino Ruta I-50, sector Nancagua-Santa Cruz, Tramo km.
+
+26,800 al 42,321 , que figura a nombre de la Empresa de Ferrocarriles del Estado, rol de avalúo 90154-1, comuna de Nancagua, superficie 124 m2. La Comisión de Peritos compuesta por los señores Eduardo Schonhaut Guendelman, José Luis Pezo Segovia y Alejandro Padilla Henríquez, fijó con fecha 10 de agosto de 1998, el valor provisional de la indemnización en la cantidad de $2.650.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
