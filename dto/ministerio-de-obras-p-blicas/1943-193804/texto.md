@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.943, de 30 de noviembre de 2001, se expropió el lote de terreno Nº2, superficie 1.770 m2., rol de avalúo 60-604, comuna de Futrono, X Región, para la obra "Camino Ruta T-665, Sector Llifén-Calcurrupe, Tramo Km. 75,75334 al 77,62103" y se acordó el valor de indemnización con su propietaria Ivonne Fidelia Furet Torres y otro, ascendente a la cantidad de $5.262.195.
+
+- Fiscal del Ministerio de Obras Públicas.
