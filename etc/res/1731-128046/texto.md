@@ -1,0 +1,3 @@
+Por resolución Nº 1.731, de 1 de diciembre de 1998, de esta Subsecretaría, deniégase la solicitud presentada por ALIMENTOS MARINOS S.A., para ampliar actividades pesqueras extractivas con la nave ''Paniahue'', respecto de las áreas y especies hidrobiológicas solicitadas, en virtud de lo dispuesto en el artículo 19 letras c) y e), de la Ley de Pesca y Acuicultura.
+
+Valparaíso, 1 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
