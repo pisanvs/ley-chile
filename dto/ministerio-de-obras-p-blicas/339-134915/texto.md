@@ -1,0 +1,3 @@
+Por decreto MOP Nº 339, de 26 de febrero de 1999, se expropió el lote de terreno Nº 3-1, superficie 538 m², rol de avalúo 186-181, comuna de Colina, para la obra Camino Santiago-Colina-Los Andes, Sector ''C'', Peldehue-Casas de Chacabuco, Región Metropolitana y se acordó el valor de indemnización con su propietario Ricardo Segundo Guardia Astete, ascendente a la cantidad de $5.136.500.-
+
+Fiscal del Ministerio de Obras Públicas.
