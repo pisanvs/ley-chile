@@ -1,0 +1,3 @@
+Por resolución exenta Nº 992, de 13 de abril de 2004, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA GALEB LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Huasco Nº 86, Antofagasta, II Región, en las líneas de proceso Fresco-Refrigerado y Congelado, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 13 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
