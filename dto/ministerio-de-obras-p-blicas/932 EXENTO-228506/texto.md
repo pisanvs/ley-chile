@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 932, de fecha 30 de junio de 2004, se expropiaron los lotes de terreno Nº s 5 y 6, superficie 8.636,0 y 4.594,0 m²., respectivamente, Rol Nº 6326, comuna de Lonquimay, IX Región para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector: Liucura - Paso Pino Hachado, Km. 158,54000 al Km. 179,59862, correspondiente al Tramo I Km. 158,54000 al Km. 164,75450" y se acordó el valor de indemnización con su propietario Pedro María Contreras García, ascendente a la cantidad de $3.627.844.
+
+Fiscal del Ministerio de Obras Públicas.
