@@ -1,0 +1,5 @@
+Por Resolución N° 724, de 20 de Septiembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CLOTILDE GALLARDO Y COMPAÑIA LIMITADA, R.U.T. N° 89.754.400-8, para iniciar actividades pesqueras de transformación, en orden a operar una planta industrial en la II Región, ubicada en calle Cuarta Poniente s/n°, comuna de Tocopilla, en las líneas de proceso que se indican, para elaborar los siguientes recursos hidrobiológicos: Secado y Molienda de algas marinas; Chascón, Huiro, Canutillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 20 de Septiembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
