@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Por Resolución Nº 060-043 de 6 de mayo de 1997, del Serviu V Región Valparaíso, se dispuso conforme artículo 87 Ley 8.946, expropiación parcial de inmueble ubicado frente a calle Manuel Rodríguez, de Viña del Mar, de dominio de la Sociedad "Inmobiliaria Stadio Italiano S.A.", inscrito a fs. 626 Nº 721 y a fs. 627 Nº 722 del Registro de Propiedad del año 1982 del Conservador de Bienes Raíces de Valparaíso, en una superficie aproximada de 140 m2. Comisión Tasadora integrada por Sres. Osvaldo Muñoz Quintana, arquitecto; Pablo Caria Giurici, constructor civil; y Alvaro Verdejo Vidal, ingeniero constructor, según informe de 27 de noviembre de 1996, fijó monto provisional indemnización en $1.904.000.- que se pagarán de contado.-
+
+Alberto Ramírez Urzúa, Director Serviu V Región.
