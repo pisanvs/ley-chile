@@ -1,0 +1,3 @@
+Por resolución Nº 621, de 24 de marzo de 2000, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 2.215, Nº 2.218, Nº 2.225 y Nº 2.230, de 1996, y Nº 650, de 1999, todas de esta Subsecretaría, que otorgaron a EMPACADORA DEL PACIFICO LIMITADA, permisos extraordinarios de pesca para la unidad de pesquería del recurso hidrobiológico Langostino amarillo fijada en el artículo 1º del D.S. Nº 787, de 1996, del Ministerio de Economía, Fomento y Reconstrucción, de conformidad con el artículo 143 letra h) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de marzo de 2000.- Daniel Alabarrán Ruiz-Clavijo, Subsecretario de Pesca.
