@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.497, de 31 de agosto de 1999, se expropió el lote de terreno Nº179-A, superficie 496 m², rol de avalúo 163-25, comuna de Ránquil, para la obra "Camino Acceso Norte a Concepción", Octava Región y se acordó el valor de indemnización con sus propietarios Quintín Segundo Parada Delgado y Genoveva del Carmen Benítez Luengo, ascendente a la cantidad de $249.282.-
+
+Fiscal del Ministerio de Obras Públicas.
