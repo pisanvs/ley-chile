@@ -1,0 +1,5 @@
+AUTORIZA A DON JUAN PABLO LENIZ GONZALEZ PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 191 de 30 de Mayo de 1983 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Juan Pablo Léniz González, cédula de identidad N° 5.802.660-3 de Concepción, domiciliado en Avda. Francesa 127 de Concepción, para instalar y operar un establecimiento de cultivo de algas Gracilaria, en un sector de la localidad de Lirquén, Bahía de Concepción, en un área de 50.000 m2. de fondo de mar. Las actividades que podrá realizar, consistirán en labores de reconocimiento y limpieza de fondo de mar, plantación, control y cosecha de la pradera artificial y secado y limpieza de la especie señalada.
+
+Santiago, 30 de Mayo de 1983.- Roberto Verdugo Gormaz, Subsecretario de Pesca
