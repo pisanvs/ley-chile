@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION Nº 125, DE 1986, QUE AUTORIZO A INDUSTRIA PESQUERA TIMONEL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO AUTORIZACION QUE INDICA.
+
+Por resolución Nº 788, de 22 de octubre de 1986, de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución Nº 125, de 1986, de esa Subsecretaría, que autorizó a Industria pesquera Timonel S.A., domiciliada en Talcahuano, para operar una embarcación en construcción en el litoral de VIII Región, en orden a ampliar su capacidad de bodega de 550 m3. a 650 m3. y deja sin efecto la autorización otorgada a Industria Pesquera Timonel S.A., por el decreto Nº 41, de 1972, del Ministerio de Agricultura, para operar entre otras, el barco de cerco "TACORA I", cuya capacidad de bodega es de 135 m3.
+
+Valparaíso, 22 de octubre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
