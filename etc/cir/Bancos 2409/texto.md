@@ -7154,6 +7154,14 @@ b) Gastos notariales.
 
 c) Gastos inherentes a bienes recibidos en garantía, esto es: por tasaciones; por inscripción o registro de prendas o hipotecas; y, por primas de seguros sobre tales bienes, cuando proceda.
 
+7.2.3.- Seguros asociados a créditos de consumo.
+
+Las instituciones financieras no podrán establecer la contratación de seguros como condición para otorgar los créditos. Ello no obsta, naturalmente, para que el deudor tome voluntariamente los seguros que desee, financiándolos con el crédito.
+
+En concordancia con lo señalado en los numerales precedentes, las instituciones que consideren conveniente resguardar sus créditos contratando seguros destinados a extinguir todo o parte de la deuda en caso de muerte o cesantía de sus deudores, deben hacerlo a costo de la propia institución, es decir, sin cobrar al deudor del crédito, en forma adicional a los intereses pactados, importe alguno a causa de esos seguros.
+
+Será requisito para otorgar un crédito que contemple además la venta de cualquier seguro de carácter voluntario, que la institución financiera obtenga del solicitante una declaración en que conste su manifestación de voluntad en orden a que, además del crédito que solicita, desea contratar los seguros que indica, por el precio que señala, y que está en conocimiento de que puede obtener el crédito con la misma tasa y demás condiciones si no adquiriera tales seguros.
+
 8.- Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
 
 Para el cálculo de intereses de documentos descontados, es improcedente el cargo de días adicionales al vencimiento, aún tratándose de documentos descontados pagaderos fuera de la plaza asiento de la institución descontante y cuya cobranza tenga que encomendarse a otra empresa, toda vez que la demora que esto supone para que la primera pueda disponer efectivamente de su valor, no es imputable, de ninguna manera, al beneficiario del descuento.
