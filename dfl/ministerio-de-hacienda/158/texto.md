@@ -1,0 +1,1 @@
+Declara en reorganización la Dirección General de Producción Agraria Pesquera la que, en adelante, se denominará Dirección de Agricultura Pesca; fija las plantas y remuneraciones de sus funcionarios.
