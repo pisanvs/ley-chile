@@ -1,0 +1,3 @@
+Por resolución exenta Nº 259, de 27 de enero de 2005, de esta Subsecretaría, autorízase a GEOMAR S.A., para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Forestal Nº 1108, Parque Industrial Coronel, Coronel, VIII Región, donde podrá procesar, en las líneas de elaboración de Cocido, Fresco enfriado, Fresco refrigerado, Ahumado, Conserva y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de enero de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S)
