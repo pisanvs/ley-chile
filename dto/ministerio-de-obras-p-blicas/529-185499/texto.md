@@ -1,0 +1,3 @@
+Por decreto MOP Nº529, de 30 de marzo de 2001, se expropió el lote de terreno Nº140-3, superficie 368 m², rol de avalúo 136-787, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietario Fernando Domingo de la Maza Arellano, ascendente a la cantidad de $5.013.007.
+
+Fiscal del Ministerio de Obras Públicas.
