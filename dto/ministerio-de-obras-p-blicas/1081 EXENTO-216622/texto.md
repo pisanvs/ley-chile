@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.081 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº1, superficie 10.212 m2., Rol de Avalúo Nº1015-32, comuna de Vallenar, para la obra: "Unificación Canales Buena Esperanza - Quebrada Honda", Km. 0,000 al Km. 1,042, del Proyecto "Mejoramiento Canales Tercera Sección Valle Río Huasco", III Región, y se acordó el valor de indemnización con su propietario Carlos René Morales Ríos y Otras, ascendente a la cantidad de $2.586.305.-
+
+Fiscal del Ministerio de Obras Públicas.
