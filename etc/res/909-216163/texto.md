@@ -1,0 +1,5 @@
+Por resolución No. 909 de 12 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 3º de la resolución No. 1349, de 1990, de esta Subsecretaría, que autorizó a don HECTOR SILVA SILVA, R.U.T. N 5.681.610-0, domiciliado en Talcahuano, calle Lautaro No. 179, San Vicente, para iniciar actividades pesqueras, en el sentido de incluir la captura del recurso Albacora o pez espada, en el litoral de las Regiones III a X, con el arte de pesca enmalle y arpón.
+
+Se deniega la autorización solicitada por el peticionario para extraer los recursos Sardina común y anchoveta en el litoral de la VIII y IX Región, en virtud de las normas legales, reglamentarias e informes técnicos citados en Visto.
+
+Valparaíso, 12 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
