@@ -1,0 +1,3 @@
+Por resolución Nº 2.834, de 11 de diciembre de 2002, de esta Subsecretaría, declárase la caducidad de la resolución Nº183 de 1991, de esta Subsecretaría, que autorizó a GUILLERMO ABARCA LLANOS para desarrollar actividades con la nave Tía Blanca, en virtud de lo dispuesto en las letras b) y d) del artículo 143 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
