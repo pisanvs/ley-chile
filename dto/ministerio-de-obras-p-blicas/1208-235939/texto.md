@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.208 de 28 de diciembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 40, para la obra: Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 2 Carrizal Puente Belco, Tramo: km. 17,34000 a km. 23,51000, que figura a nombre de Zapata Crespo José René, rol de avalúo 266-41, Comuna de San Javier, VII Región, superficie 562 m2. La Comisión de Peritos fijó con fecha 1 de junio de 2001 en la cantidad de $4.260.000.- lote 40. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
