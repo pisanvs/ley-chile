@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 424 de 16 de Abril de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predio "Hijuela Norte o Santa Cristina del Fundo Santa Rosa" de la comuna de Teno, 7a. Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 56, sitios N°s. 1 al 19, 22 al 36, 36-A, 37 al 45 y 47 al 51 y Reserva CORA No. 1 del Proyecto de Parcelación "San Cristóbal formado, entre otros; por predio señalado. Los Derechos de Agua se extraen de los canales Aurora, Ventana y Cerrillos todos derivados del Río Teno y Derrames originados en la Colonia Teniente Cruz.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
