@@ -1,0 +1,3 @@
+Por Resolución Nº 988, de 10 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año, a contar de la fecha de publicación del extracto de la Resolución Nº 1.256, de 1996, de esta Subsecretaría, esto es, el 2 de agosto de 1996, el plazo concedido a SERVICIOS ASOCIADOS HEFESA LIMITADA, para desarrollar actividades de acuicultura, en el establecimiento ubicado en Ensenada Río Tepú, Fundo El Ventisquero, comuna de Puerto Varas, provincia de Llanquihue, X Región.
+
+Valparaíso, 10 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
