@@ -1,0 +1,5 @@
+AUTORIZA A DON JUAN ONETO BAVESTRELLO PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución N° 474, de 05 de Agosto de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Juan Oneto Bavestrello, RUT. 5.681.725-5, domiciliado en Valparaíso, calle Blanco 1041, Oficina 49, para operar la embarcación denominada "Portugal II", en la zona del litoral comprendida entre la IV y la VIII Región, en labores extractivas de los siguientes recursos: albacora, atún aleta amarilla, atún aleta larga, bacalao de Juan Fernández, congrio colorado, congrio dorado, mero, raya, vidriola, bacalao de profundidad, azulejo, marrajo, palometa, pejezorro, camarón de roca, camarón nylon, langostino amarillo, langostino colorado, merluza común, merluza española, merluza de cola y merluza de 3 aletas.
+
+Valparaíso, 05 de Agosto de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
