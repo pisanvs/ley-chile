@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero, mediante resolución exenta No. 779 de 17 de Junio de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó derechos Aprovechamiento de Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela La Laguna de Lo Arcaya que formaba parte del Fundo Las Casas de Lo Arcaya" de la Comuna de Pirque, Región Metropolitana; y Derechos Aprovechamiento Aguas que corresponden a las Parcelas N°s. 1 a la 13, sitios 1 al 13, del Proyecto de Parcelación "La Laguna" formado por predio señalado. Los Derechos de Agua se extraen del Canal Pirque, del Río Clarillo; y de la Quebrada El Almendro y Los Baños.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
