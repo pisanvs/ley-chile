@@ -1,0 +1,9 @@
+Por Resolución Nº566, de 15 de Junio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don LUIS ORLANDO RETAMALES CARDENAS, RUT Nº8.219.129-1, domiciliado en la ciudad de Puerto Montt, Calle Cristian Brahm Nº543, para iniciar actividades pesqueras de transformación, en orden a operar una Planta Industrial en la X Región, ubicada en el Kilómetro 5, de la ruta a El Tepual, en la Comuna de Puerto Montt, X Región, Provincia de Llanquihue, donde podrá procesar en la línea de elaboración de congelado, fresco - refrigerado, salado, conservas, los siguientes recursos hidrobiológicos: Fresco - refrigerado y Congelado; Bacalao de profundidad, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Merluza común, Merluza del sur, Merluza de cola, Pejerrey de mar, Salmón del atlántico, Salmón cereza, Salmón plateado (coho), Salmón rey, Sardina común , Sardina, Raya, Róbalo, Tollo, Trucha arco iris, Almeja o taca, Almeja, Chorito, Culengue Macha, Navajuela, Navaja de mar o huepo, Jaiba, Jaiba mora, Conservas; Salmón del atlántico, Salmón cereza, Salmón plateado, Salmón rey, Sardina común, Sardina, Almeja o taca, Almeja, Caracol rubio, Caracol trumulco, Cholga, Chorito, Chorito, Choro, Culengue, Lapa, Macha, Navajuela, Navaja de mar o huepo, Jaiba, Jaiba mora, Salado: Anchoa o Anchoveta, Pejerrey de mar, Sardina, Sardina común.
+
+Deberá adquirir los recursos Salmón del Atlántico, Salmón plateado, Salmón cereza, Salmón rey y Trucha arco iris de centros de cultivos autorizados.
+
+Deniégase lo solicitado respecto del recurso loco, en virtud de lo dispuesto en el DS Nº614 de 1991 del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que establezcan.
+
+Valapraíso, 15 de Junio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
