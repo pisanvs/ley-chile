@@ -1,0 +1,3 @@
+Por decreto MOP Nº 368, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs 366 y 368, superficies 108,8 m² y 1.887,1 m², rol de avalúo 240-51, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Gastón Villanueva Montecino, ascendente a la cantidad total de $1.055.787.-
+
+Fiscal del Ministerio de Obras Públicas.
