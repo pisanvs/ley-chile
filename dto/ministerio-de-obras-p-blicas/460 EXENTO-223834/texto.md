@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 460 de fecha 26 de marzo de 2004, se expropiaron el lote de terreno Nº 3, superficie 410 m2, Rol Nº 111-58, comuna de Contulmo, VIII Región para la obra "Camino Contulmo - Huallepen Bajo, Sector Puente Pichihuillinco, Km. 0,00000 a 0,20000" y se acordó el valor de indemnización con su propietario Juan Ambrosio Carrillo Quilodrán, ascendente a la cantidad de $505.376.
+
+Fiscal del Ministerio de Obras Públicas.
