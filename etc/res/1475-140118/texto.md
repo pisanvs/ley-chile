@@ -1,0 +1,3 @@
+Por resolución Nº 1.475, de 2 de agosto de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 322 de 1995, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA AYALA HERMANOS S.A. CERRADA, para realizar actividades pesqueras extractivas con la nave ''Tortuga'', de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 2 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
