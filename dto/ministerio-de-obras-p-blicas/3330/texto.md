@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.330, de 29 de octubre de 1999, se expropió el lote de terreno Nº 120, superficie 1.857 m2., rol de avalúo 136-178, comuna de Paine, para la obra Concesión Internacional Ruta 5; Tramo: Santiago - Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietario Manuel Padilla Dinamarca, ascendente a la cantidad de $10.133.466.-
+
+Fiscal del Ministerio de Obras Públicas.
