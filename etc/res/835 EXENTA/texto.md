@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 835 de 13 de Mayo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Resto del Fundo La Capilla" de la comuna de Los Angeles VIII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 11 sitios N°s. 1 al 5 y 7 al 13 del Proyecto de Parcelación "Peñaflor" formado por predio señalado. Los Derechos de Agua se extraen del Canal del Laja derivado del río Laja y del estero o río Curanadú. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
