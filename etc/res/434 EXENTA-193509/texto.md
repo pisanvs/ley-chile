@@ -1,0 +1,5 @@
+APRUEBA MODIFICACION DE ESTATUTOS DE "COMPAÑIA DE SEGUROS GENERALES LAS AMERICAS S.A."
+
+Certifico: Que por resolución exenta Nº 434 de 28 de diciembre de 2001, se aprobaron la modificación de los estatutos de la sociedad anónima "Compañía de Seguros Generales Las Américas S.A.", acordada en Junta Extraordinaria de Accionistas de 21 de diciembre de 2001, cuya acta consta de la escritura pública de 21 de diciembre de 2001 otorgada ante el Notario de Santiago don Patricio Raby Benavente. La reforma de estatutos consiste en aumentar el capital de $5.743.203.023.- dividido en 3.756.504 acciones nominativas, de una misma serie, sin valor nominal a $11.297.763.568.- dividido en 7.366.754 acciones nominativas, de una misma serie, sin valor nominal, dentro del plazo de tres años contado desde el 21 de diciembre de 2001.
+
+Santiago, 28 de diciembre de 2001.- Nelson Torres Morgado, Secretario General Subrogante.
