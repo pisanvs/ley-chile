@@ -1,0 +1,9 @@
+EXTRACTO DE LOS ACUERDOS Nºs. 23/98 QUE DISPONE SUSPENDER EL INGRESO DE NUEVOS ALUMNOS A TODAS LAS CARRERAS Y REITERAR ACCIONES QUE DEBEN SER CUMPLIDAS POR LA INSTITUCION, Y 24/98 QUE DISPONE NO CERTIFICAR LA AUTONOMIA Y AMPLIAR EL PERIODO DE ACREDITACION DEL INSTITUTO PROFESIONAL ESANE DEL NORTE
+
+En sesión ordinaria de 8 de enero de 1998, el Consejo Superior de Educación, adoptó los siguientes acuerdos:
+
+1. Con mérito en el incumplimiento de las acciones dispuestas en el Acuerdo Nº073/96 sobre informe de estado de avance del proyecto institucional del Instituto Profesional Esane del Norte, reiteradas por este organismo a través del Oficio Nº214/97, y de conformidad con lo dispuesto en el artículo 41 de la ley 18.962, Orgánica Constitucional de Enseñanza, el Consejo Superior de Educación acordó suspender, durante el año 1998, el ingreso de nuevos alumnos a todas las carreras impartidas por el Instituto Profesional Esane del Norte y reiterar las acciones no cumplidas, a las que deberá dar cumplimiento a más tardar el 30 de mayo de 1998 (Acuerdo Nº023/98).
+
+2. Considerando que si bien, el Instituto Profesional Esane del Norte ha logrado un desarrollo adecuado en algunas áreas de su quehacer, no ha desarrollado aún de igual manera otras áreas de importancia dentro del proceso de consolidación de su proyecto institucional durante el período de acreditación establecido por la ley, y de conformidad con lo dispuesto en el artículo 42 de la Ley 18.962, Orgánica Constitucional de Enseñanza, el Consejo Superior de Educación acordó no certificar la autonomía del mencionado Instituto Profesional y ampliar el período de acreditación por un plazo de cinco años (Acuerdo Nº024/98).
+
+Se publica el presente extracto para conocimiento de la comunidad.- María José Lemaitre del Campo, Secretaria Ejecutiva, Consejo Superior de Educación.
