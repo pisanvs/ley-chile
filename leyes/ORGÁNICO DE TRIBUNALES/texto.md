@@ -1246,7 +1246,7 @@ b) De los recursos de queja que se deduzcan en contra de jueces de letras, juece
 
 4°) En primera instancia:
 
-a) De los desafueros de los Diputados y Senadores;
+a) De los desafueros de las personas a quienes les fueren aplicables los incisos segundo, tercero y cuarto del artículo 58 de la Constitución Política de la República;
 
 b) De los recursos de amparo y de protección; y
 
@@ -1516,7 +1516,7 @@ Corresponde a la Corte Suprema en pleno:
 
 1° Conocer del recurso de inaplicabilidad reglado en el artículo 80 de la Constitución Política de la República y de las contiendas de competencia de que trata el inciso final de su artículo 79;
 
-2° Conocer de las apelaciones que se deduzcan en las causas por desafuero de senadores y diputados a que se refiere el artículo 58 de la Constitución Política;
+2° Conocer de las apelaciones que se deduzcan en las causas por desafuero de las personas a quienes les fueren aplicables los incisos segundo, tercero y cuarto del artículo 58 de la Constitución Política;
 
 3° Conocer en segunda instancia, de los juicios de amovilidad fallados en primera por las Cortes de Apelaciones o por el Presidente de la Corte Suprema, seguidos contra jueces de letras o Ministros de Cortes de Apelaciones, respectivamente;
 
