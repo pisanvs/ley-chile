@@ -1,0 +1,9 @@
+Ocultacion de personas sospechosas
+
+Don Francisco de Borja Fontecilla, etc.
+
+Con la previa aprobacion del Excmo. Supremo Director Delegado, se cita, se emplaza nuevamente a todo individuo que se haya ocultado a consecuencia de haber advertido las medidas precautorias adoptadas por el Gobierno; se les protesta que del modo que se ha ejecutado con los demas se les oirán relijiosamente todas sus escepciones i defensiones; indultándoles de la pena del anterior bando relativo a los ocultados. Los dueños, o dueñas de casas, que no manifiesten, o presenten a los que tengan escondidos, participarán de igual indulto siempre que, o la presentacion, o la denunciacion la ejecutaren en el término de veinticuatro horas. Si no se quiere vivir con enemigos interiores, tampoco quiere el Gobierno que por infundados temores permanezcan confundidos entre esa peste de la República algunos mal aconsejados o demasiado tímidos que pudiendo justificar su inocencia han sido seducidos para ocultarse. Preséntense en el señalado término, i advertirán las miras benéficas de un gobierno que si aspira a consolidar la opinion, llama i advierte a los que con sinceridad quieren formar la gran familia de los hombres libres.
+
+A los esclavos i esclavas que denunciaren la ocultacion que ejecutan sus amos de personas sospechosas, se les concederá la plena i absoluta libertad por el hecho mismo de comprobarse la denunciacion con la aprehension del ocultado; i a los criados i criadas libres se les gratificará con cien pesos, que deberán pagarse por el dueño de la casa, que abriga la ocultacion. Para que llegue a noticias de todos publíquese, fíjese e imprímase.-
+
+Santiago, Enero 20 de 1818.- Francisco de Borja Fontecilla.
