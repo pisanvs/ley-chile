@@ -1,0 +1,3 @@
+Por Resolución Nº 724, de 25 de mayo de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por CONSTRUCCIONES Y CARPINTERIA NAVAL S.A., para ampliar el plazo para realizar actividades pesqueras extractivas con la nave ''Antonio Lorenzo'', autorizada por resolución Nº 291, de 1989, Nº 1.525, de 1991, y Nº 16, de 1998 todas de esta Subsecretaría, en virtud de no haberse acreditado una circunstancia de fuerza mayor o caso fortuito.
+
+Valparaíso, 25 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
