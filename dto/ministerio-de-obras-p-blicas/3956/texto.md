@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.956, de 29 de diciembre de 1999, se expropió el lote de terreno Nº5, superficie 5.653 m², rol de avalúo 2204-4, comuna de Chillán, para la obra Concesión Internacional Ruta 5, Tramo: Talca - Chillán, Octava Región y se acordó el valor de indemnización con su propietario Héctor Luis Gaete Montero, ascendente a la cantidad de $25.780.414.-
+
+Fiscal del Ministerio de Obras Públicas.
