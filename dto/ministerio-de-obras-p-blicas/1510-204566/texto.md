@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.510, de 30 de agosto de 2002, se dejó sin efecto los numerales 4º, 5º, 6º y 7º del decreto MOP Nº210, de fecha 27 de febrero de 1998, en la parte que se refiere al Convenio Directo de precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº17. Consígnese judicialmente el monto de la indemnización provisional fijada por la comisión de peritos con fecha 8 de enero de 1996, ascendente a la cantidad de $846.000.-
+
+Fiscal del Ministerio de Obras Públicas.
