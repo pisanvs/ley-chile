@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.658 de 30 de noviembre de 2004, se expropió el lote de terreno Nº 24-4, superficie 157,60 m², rol de Avalúo Nº 198-18, comuna de Maule, para la obra ''Camino Ruta K-620, Sector Culenar - Maule Km. 0,000.00 a Km. 10,520.00'', VII Región y se acordó el valor de la indemnización con su propietaria Marlenne Andrea Ferretti Abarca, ascendente a la cantidad de $847.838.-
+
+Fiscal del Ministerio de Obras Públicas.
