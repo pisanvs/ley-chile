@@ -104,11 +104,13 @@ Segunda.- Necesidad racional del medio empleado para impedirla o repelerla.
 
 Tercera.-Falta de provocación suficiente por parte del que se defiende.
 
-Se entenderá que concurren estas tres circunstancias respecto de aquel que durante la noche rechaza el escalamiento o fractura de los cercados, paredes o entradas de una casa o de un departamento habitado o de sus dependencias y del que impida o trate de impedir la consumación de los delitos señalados en los artículos 433 y 436, cualquiera que sea el daño que ocasionen al agresor.
+Inciso Derogado.
 
 5.° El que obra en defensa de la persona o derechos de su cónyuge, de sus parientes consanguíneos legítimos en toda la línea recta y en la colateral hasta el cuarto grado inclusive, de sus afines legítimos en toda la línea recta y en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilegítimos reconocidos, siempre que concurran la primera y segunda circunstancias prescritas en el número anterior, y la de que, en caso de haber precedido provocación de parte del acometido, no tuviere participación en ella el defensor.
 
 6.° El que obra en defensa de la persona y derechos de un extraño, siempre que concurran las circunstancias expresadas en el número anterior y la de que el defensor no sea impulsado por venganza, resentimiento u otro motivo ilegítimo.
+
+Se presumirá legalmente que concurren las circunstancias previstas en este número y en los números 4° y 5° precedentes, cualquiera que sea el daño que se ocasione al agresor, respecto de aquel que rechaza el escalamiento en los términos indicados en el número 1° del artículo 440 de este Código, en una casa, departamento u oficina habitados, o en sus dependencias o, si es de noche, en un local comercial o industrial y del que impida o trate de impedir la consumación de los delitos señalados en los artículos 141, 142, 365, inciso segundo, 390, 391, 433 y 436 de este Código.
 
 7.° El que para evitar un mal ejecuta un hecho, que produzca daño en la propiedad ajena, siempre que concurran las circunstancias siguientes:
 
