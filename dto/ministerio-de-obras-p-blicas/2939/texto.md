@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.939, de 30 de septiembre de 1999, y en base a la facultad otorgada por los artículo 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº123-3, para la obra "Concesión Internacional Ruta 5 Tramo: Collipulli-Temuco".
+
+Km. 657,35000 al Km. 659,70240, Novena Región, que figura a nombre de S.A.C.I. Falabella, rol de avalúo 3279-16, comuna de Temuco, superficie de 896 m². La Comisión de Peritos integrada por los señores Lautaro Francisco Soto Rodríguez, Claudio Benjamín Rojas García y Claudio Ricardo González Valenzuela, fijo con fecha 10 de marzo de 1999, el valor provisional de la indemnización en la cantidad de $9.201.300.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
