@@ -1,0 +1,59 @@
+ACUERDO
+
+''En Santiago, a quince de octubre de mil novecientos noventa y nueve, se reunió esta Corte en pleno extraordinario presidido por su titular, don Roberto Dávila Díaz y con asistencia de los Ministros señores Alvarez García, Carrasco, Correa, Garrido, Libedinsky, Benquis, Tapia, Gálvez, Rodríguez, Cury, Pérez, Alvarez Hernández, Marín y Espejo y teniendo presente:
+
+Que la Constitución Política de la República, en su capítulo VI-A, relativo al Ministerio Público (Art. 80E) y la Ley Orgánica Constitucional de este Ministerio Nº 19.640, publicada en el Diario Oficial en el día de 15 de octubre de mil novecientos noventa y nueve, establecen que es atribución de esta Corte Suprema llamar a concurso público de antecedentes para la designación del Fiscal Nacional y conformar la respectiva quina de postulantes a ese cargo.
+
+Que, asimismo los cuerpos citados encomiendan a las Cortes de Apelaciones el llamado a concurso público de antecedentes para la formación de las ternas de postulantes al nombramiento de los Fiscales Regionales.
+
+Que al efecto el artículo 80E de la Constitución Política de la República dispone:
+
+''La Corte Suprema y las Cortes de Apelaciones, en su caso, llamarán a concurso público de antecedentes para la integración de las quinas y ternas, las que serán acordadas por la mayoría absoluta de sus miembros en ejercicio, en pleno convocado al efecto...''.
+
+''Las quinas y ternas se formaran en única votación en la cual cada integrante del pleno tendrá derecho a votar por tres o dos personas respectivamente. Resultarán elegidos quienes obtengan las cinco o tres primeras mayorías según correspondan. De producirse un empate, éste se resolverá mediante sorteo''.
+
+Que en conformidad con lo que preceptúan los artículos 1º y 2º transitorios de la Ley Orgánica Constitucional del Ministerio Público Nº 19.640, en relación con lo que establece la norma constitucional anteriormente transcrita, para el nombramiento del primer Fiscal Nacional y la designación de los Fiscales Regionales de la Cuarta Región de Coquimbo y de la Novena Región de la Araucanía, la Corte Suprema y las Cortes de Apelaciones de La Serena y Temuco, dentro de los cinco días siguientes a la publicación en el Diario Oficial de la Ley Orgánica Constitucional del Ministerio Público, en el caso de esta Corte Suprema y dentro de los cinco días siguientes a la publicación en el Diario Oficial del decreto de nombramiento del Fiscal Nacional, en el de las referidas Cortes de Apelaciones, deben llamar a concurso público de antecedentes para la formación de la quina y ternas correspondientes. Dentro de los treinta días siguientes a la fecha de la convocatoria, este Tribunal deberá remitir la quina al Presidente de la República y las Cortes de Apelaciones de La Serena y Coquimbo en ese mismo término remitirán las ternas que confeccionen al Fiscal Nacional para las correspondientes designaciones.
+
+Que como las normas constitucionales y los preceptos de la Ley Orgánica respectiva no han fijado el plazo por el cual se deberá llamar a los concursos, ni señalado la forma como debe efectuarse la correspondiente difusión de esas convocatorias, resulta necesario que este Tribunal reglamente adecuadamente la materia en uso de sus facultades económicas.
+
+Que igualmente corresponde a esta Corte Suprema, por expresa disposición de lo que ordenan los artículos 15º y 29º de la Ley Orgánica Constitucional del Ministerio Público, establecer la forma cómo habrá de desarrollarse ante esta Corte Suprema y ante las Cortes de Apelaciones respectivas, la audiencia pública en que debe recibirse a los postulantes que reúnan los requisitos legales para integrar la quina para la designación del Fiscal Nacional y las ternas para Fiscales Regionales.
+
+Por estos fundamentos y en ejercicio de las facultades económicas de que está investida esta Corte Suprema, de acuerdo con lo establecido por los artículos 79º de la Constitución Política, 96º Nº 4 del Código Orgánico de Tribunales y 15º, inciso segundo y 29º inciso tercero de la Ley Orgánica Constitucional del Ministerio Público Nº 19.640, se resuelve dictar el siguiente Auto Acordado:
+
+1º.- Esta Corte Suprema, para la formación de la quina para el nombramiento del primer Fiscal Nacional y las Cortes de Apelaciones de la Serena y Temuco, para la integración de las ternas para la designación de sus respectivos Fiscales Regionales, dentro de los plazos de cinco días previstos en la Ley Orgánica Constitucional del Ministerio Público, se reunirán en plenos especialmente convocados al efecto y acordarán llamar a concurso público de antecedentes de postulantes a esos cargos, por el término de diez días contados desde la fecha del acuerdo.
+
+2º.- Corresponderá al Presidente de la Corte Suprema y a los Presidentes de las Cortes de Apelaciones de La Serena y Temuco la ejecución de estas convocatorias y, al efecto, dispondrán su conveniente difusión. El llamado a concurso para Fiscal Nacional se publicará a la mayor brevedad, en extracto, por dos días consecutivos en los dos diarios de mayor circulación nacional. En el caso de los concursos para Fiscales Regionales de la Cuarta Región de Coquimbo y la Novena de la Araucanía, se procederá de la misma manera y los avisos se publicarán durante dos días consecutivos, en el diario de mayor circulación en la respectiva Región y en uno de los diarios de mayor circulación nacional.
+
+3º.- El Presidente de esta Corte, además, comunicará la apertura del concurso para la designación del primer Fiscal Nacional al Presidente de la República y al Presidente del Senado.
+
+4º.- Las oposiciones a los respectivos concursos se harán mediante solicitud escrita de los postulantes, quienes deberán adjuntar a ella la documentación que acredite que reúnen los requisitos legales para postular, señalados para el cargo de Fiscal en el artículo 14º de la Ley Orgánica Constitucional del Ministerio Público y para los de Fiscales Regionales en el artículo 31º de la misma ley; para acreditar la exigencia establecida en las letras d) de ambas disposiciones, los interesados deberán acompañar declaración jurada simple de no encontrarse sujetos a alguna de las incapacidades e incompatibilidades previstas en la ley.
+
+Deberán acompañar, igualmente, una relación curricular de sus títulos, diplomas, cursos y grados y de las actividades profesionales y del desempeño de cargos docentes o académicos públicos o privados, que ejerzan o hubieren ejercido y cualquier otro antecedente que pudiere servir para evaluar sus méritos.
+
+5º.- Vencido el término de la convocatoria, lo que certificará el Secretario de cada Tribunal, se ordenará, si corresponde, la realización de la audiencia pública dispuesta por la ley.
+
+6º.- Existiendo un número suficiente de candidatos que reúnan los requisitos legales para postular a los cargos de que se trata, el Presidente de la Corte Suprema y los Presidentes de las Cortes de Apelaciones de La Serena y Temuco, en cada caso con el acuerdo de sus respectivos plenos, dispondrán la realización de la audiencia pública que contemplan los artículos 15º y 29º de la Ley Orgánica Constitucional del Ministerio Público Nº 19.640.
+
+La celebración de esta audiencia, su día y hora, tendrá lugar al tercer día siguiente a la resolución que la ordene, la que se notificará a los interesados por carta certificada que se despachará el mismo día que se dicte, dejándose constancia de su envío en el expediente del concurso, sin perjuicio de la difusión o publicidad de la resolución que podrán disponer los respectivos Presidentes.
+
+7º.- Siendo la finalidad primera de esta audiencia pública la de recibir personalmente en pleno a todos los postulantes que reúnan los requisitos legales y dar a conocer públicamente los antecedentes acompañados a sus postulaciones, el Secretario de este Tribunal y de las respectivas Cortes de Apelaciones confeccionarán oportunamente una nómina, por orden alfabético, de todos los interesados que se encuentren en esa situación y una síntesis de los antecedentes más relevantes presentados por ellos.
+
+Cada Secretario arbitrará, asimismo, las medidas tendientes a facilitar el acceso a la audiencia, además de la de todos los postulantes, del público y de los medios de prensa y de comunicación que se interesen en asistir a ella, dentro de las disponibilidades del respectivo recinto.
+
+8º.- El día fijado para la audiencia el Presidente del Tribunal ordenará su iniciación disponiendo que el Secretario dé lectura a la nómina de todos los postulantes al concurso. Enseguida, el mismo Secretario procederá a efectuar un sorteo entre los candidatos, con el objeto de determinar el orden en que sus antecedentes se darán a conocer al pleno. Siguiendo el orden del sorteo, el Secretario o el Relator de Pleno que se designe, dará cuenta a la Corte de una síntesis de los antecedentes más relevantes presentados por cada candidato y una vez que esto se lleve a cabo, el Presidente, invitará al mismo postulante a efectuar una sucinta exposición, que no durará más de diez minutos, sobre sus criterios respecto de la naturaleza y funciones primordiales del cargo al que concursa. Si en la audiencia pública no fuere posible conocer los antecedentes y exposiciones de todos los postulantes, ella continuará al día siguiente o los sucesivos hasta su término.
+
+9º.- El Presidente de la Corte Suprema y los Presidentes de las Cortes de Apelaciones respectivas, darán por terminada la audiencia una vez que se haya cumplido con la finalidad de su convocatoria y a continuación citarán especialmente al pleno para la formación de la quina y ternas correspondientes, a una audiencia que podrá efectuarse inmediatamente después de finalizada la audiencia pública o, a más tardar, dentro de los tres días siguientes a su término, procediéndose de la manera expresamente prevista y regulada en el artículo 80ºE de la Constitución Política de la República y en los artículos 15º y 29º de la Ley Orgánica Constitucional del Ministerio Público.
+
+En esa convocatoria o pleno para confeccionar la quina y ternas referidas, no podrán participar los Ministros que no hubieren concurrido a la audiencia de recepción de los postulantes.
+
+Formada que sea la quina para Fiscal Nacional, el Presidente de esta Corte Suprema, antes del vencimiento de los treinta días corridos contados desde la fecha de la convocatoria del concurso, la remitirá el Presidente de la República.
+
+Los Presidentes de la Corte de Apelaciones de La Serena y Temuco, a su turno, dentro de ese mismo término, contado desde sus respectivas convocatorias, remitirán las ternas correspondientes al Fiscal Nacional designado.
+
+10º.- Las notificaciones que deban efectuarse en los expedientes de cada concurso se practicarán por el estado diario. Los plazos de días que se mencionan en las disposiciones de la Ley Orgánica Constitucional del Ministerio Público, que se citan en este acuerdo, así como los términos que fijan en el presente Auto Acordado, deben entenderse que son de días corridos.
+
+11º.- Siguiendo la gradualidad y plazos que la Ley Orgánica Constitucional del Ministerio Público establece para la entrada en funcionamiento de los Fiscales Regionales del país (Art. 4º transitorio), las restantes Cortes de Apelaciones del país, en las oportunidades que corresponda y a solicitud del Fiscal Nacional (Art. 3º transitorio) formarán las ternas para la designación de los respectivos Fiscales Regionales, sujetándose al procedimiento previsto en el artículo 29º de la Ley Orgánica Constitucional del Ministerio Público Nº 19.640 y, en lo no regulado por ésta, a las disposiciones del presente Acuerdo.
+
+12º.- Este Auto Acordado regirá a contar de esta misma fecha, sin perjuicio de su publicación en el Diario Oficial a la mayor brevedad.
+
+Transcríbase este acuerdo de inmediato, por la vía más rápida a las Cortes de Apelaciones de La Serena y Temuco.''.
