@@ -1,0 +1,1 @@
+Ley de Emergencia. Fija sueldos personal administración reglamenta jubilaciones.
