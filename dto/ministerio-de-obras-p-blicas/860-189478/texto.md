@@ -1,0 +1,5 @@
+Por decreto MOP Nº860, de 31 de mayo de 2001 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº15 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Km. 413.700,00 al Km. 415.160,00" Octava Región, que figura a nombre de Alarcón Letelier Lucía Isidora, rol de avalúo en trámite, comuna de Chillán Viejo, superficie 1.035 m2. La comisión de peritos integrada por los señores Juan Pablo Cuevas Castillo, María Lorena Niedmann Lolas y Jaime García Molina, fijó con fecha 22 de agosto de 2000, el valor provisional de la indemnización en la cantidad de $2.918.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
