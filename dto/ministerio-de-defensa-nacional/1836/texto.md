@@ -214,6 +214,8 @@ Estarán obligados a utilizar los servicios de Práctico Oficial, todas las nave
 
 a) Durante toda la navegación por los Canales Australes;
 
+No obstante lo anterior, normalmente no se exigirá el empleo de Prácticos Oficiales a las naves mercantes que naveguen el Estrecho de Magallanes, con el sólo propósito de cruzar los Océanos Pacífico y Atlántico, siempre que no naveguen ni antes ni después, algún otro estrecho o canal de las aguas territoriales chilenas. Cuando alguna circunstancia determina suspender la presente excepción temporal, la Dirección del Litoral y de Marina Mercante dispondrá las medidas convenientes para permitir que las naves mercantes puedan recibir o desembarcar Prácticos tanto en la entrada oriental como en la occidental del Estrecho de Magallanes.
+
 a-1) Durante toda la navegación por el Estrecho de Magallanes, con las siguientes excepciones transitorias:
 
 1.o Naves que utilicen el Estrecho de Magallanes con el único propósito de cruzarlo directamente de un océano a otro, sin recalar antes o después en algún puerto nacional y siempre que no naveguen otros estrechos o canales de las aguas jurisdiccionales chilenas.
@@ -720,13 +722,9 @@ CALDERILLA
 
 La zona interior comprendida entre el Islote Centinela Negro y la parte Oeste de los Islotes Jorge.
 
-HUASCO:
+HUASCO:(comprende los Terminales Marítimos de Guacolda y Santa Bárbara):
 
-La zona comprendida entre el paralelo que pasa por la desembocadura del Río Huasco y el meridiano que pasa por Punta Panulcillo.
-
-SANTA BARBARA
-
-La zona interior comprendida entre el Islote Cayo por el Este y el Islote Blanco por el Oeste.
+La zona interior comprendida entre la desembocadura del Río Huasco y el Islote Blanco.
 
 CRUZ GRANDE:
 
@@ -860,7 +858,7 @@ A los 354° y a 1.740 metros del P. de O., dos cables.
 
 HUASCO:
 
-A los 051° y a 3.320 metros del Faro Isla Guacolda, dos y medio cables.
+Al 050° y a 1.600 mts. del Faro Isla Guacolda, 2 cables.
 
 COQUIMBO:
 
@@ -910,4 +908,4 @@ PUNTA ARENAS:
 
 A los 160° y a 1.605 metros del P. de O., dos cables.
 
-> **Nota.** El numeral 8 del Decreto 1949, Defensa, publicado el 02.07.1960, modifico la presente norma en el sentido de indicar que donde dice: de 10.001 a 13.000, debe decir: de 10.001 a 15.000.
+> **Nota.** El numeral 8 del Decreto 1949, Defensa, publicado el 02-07-1960, modifico la presente norma en el sentido de indicar que donde dice: de 10.001 a 13.000, debe decir: de 10.001 a 15.000.
