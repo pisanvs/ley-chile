@@ -1,0 +1,3 @@
+Por resolución Nº 2.368, de 27 de agosto de 2004, declárase la caducidad parcial de la resolución Nº 1.255 de 1994, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA BIO BIO LIMITADA, hoy Pesquera Bío Bío S.A. para realizar actividades pesqueras extractivas con la nave "Biomar V", sobre el recurso Raya, en el área marítima comprendida entre el límite Norte de la VIII Región y el 41º28,6' L.S., todo ello por presentar una laguna operacional superior a 12 meses consecutivos, incurriendo en la causal de caducidad establecida en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
