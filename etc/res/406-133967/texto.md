@@ -1,0 +1,23 @@
+EXTRACTO DE CONSTITUCION DEL PARTIDO POLITICO ALTERNATIVA DE CAMBIO
+
+Por resolución O Nº 406 de 15 de marzo de 1999 se ordenó la publicación del siguiente extracto en cumplimiento de lo dispuesto en el artículo 5º inciso tercero y para los efectos señalados en el artículo 10º, ambos de la ley Nº 18.603.
+
+Declaración de Principios
+
+''En Santiago, con fecha 26 de enero de 1999, se otorgó ante Notario Público, don Manuel C.P. Cammas Montes, la escritura de constitución del partido ''Alternativa de Cambio'', rectificada ante el Notario Suplente de la misma Notaría don M. Alejandro Robles Squella, por escritura pública de fecha 9 de marzo de 1999. Su sigla es P.A.L.C.
+
+Los aspectos más relevantes de su declaración de principios señalan:
+
+El partido ''Alternativa de Cambio'' es una fuerza política construida por hombres y mujeres que voluntaria, consciente y libremente se comprometen a realizar las transformaciones en el ámbito de la política, la sociedad, la economía y la cultura que el país requiere. Sus integrantes adhieren a los valores de una visión humanista de la sociedad, inspirándose en concepciones diversas de esa visión, ya sea laica, cristiana, marxista o ecologista. El partido
+
+''Alternativa de Cambio'' considera que la sociedad debe estar organizada y orientada por los valores éticos de la equidad, la solidaridad y el respeto irrestricto a los Derechos Humanos. Adhiere a una interpretación política de la ecología que permita una relación responsable con el medio ambiente. Señala que la Democracia es el escenario donde deben resolver los conflictos político sociales y de representación del pueblo como depositario de la soberanía popular, siendo el voto secreto, universal, igualitario e informado la vía de expresión de dicha soberanía. La Democracia requiere de un continuo desarrollo y profundización a través de la acción política de los ciudadanos. Plantea la urgencia de iniciar el camino hacia una sociedad sustentable, debiendo responder el sistema económico al sistema social y no a la inversa. Este desarrollo económico sustentable debe permitir la satisfacción de las necesidades vitales de todos los habitantes de nuestro país y la preservación de la naturaleza que sustenta distintas formas de vida y proporciona las bases para la reproducción del ser humano. Rechaza la dictadura del mercado sobre las orientaciones fundamentales de la sociedad, donde sólo quienes tienen el poder económico pueden expresarse. Reconoce el carácter pluriétnico de la sociedad chilena y no acepta ninguna exclusión, en ningún ámbito de la sociedad, ya sea por razones de género, étnicas, sexuales, culturales o de nivel de ingresos. Propone tomar medidas para el control del capital comercial y financiero de origen transnacional e impedir que continúe la dominación de los actuales paradigmas ideológicos del neoliberalismo: la disminución del gasto fiscal y de la acción del Estado y la reducción de los salarios reales y los beneficios sociales con el pretexto de aumentar el empleo. Estima que el bienestar social y ambiental así como la justicia y la seguridad deben ser asumidas por un Estado democrático controlado. El partido ''Alternativa de Cambio'' entiende que una sociedad debe ser abierta y sin exclusiones, sin dogmas ni miedos, que permita crear con alegría e ingenio, avanzando con confianza en el futuro''.
+
+La Directiva Central Provisional está integrada por: Presidente, Jacobo Schatan Weitzman, Primer Vicepresidente, Francisco Rivas Larraín, Segundo Vicepresidente, Alvaro Gómez Concha, Secretario, Martín Pascual Arias, Tesorero, Isabel Lincolao Garcés.
+
+El Tribunal Supremo Provisional está integrado por: Presidente, Rossina Fernández Mendelewski, Vicepresidente, Jaime Insunza Becker, Secretario, Elio Chepillo Chepillo, Vocal, Ramón Pérez Moreno.
+
+El domicilio común de la Directiva Central y del Tribunal Supremo Provisionales, es Huérfanos 1761, oficina 211.
+
+En caso de fallecimiento, renuncia o cualquier otro motivo que inhabilite o imposibilite, transitoriamente o definitivamente a algún miembro de la Directiva Central Provisional o del Tribunal Supremo Provisional, antes de la constitución del Consejo General, las vacantes serán llenadas por decisión de la mayoría de los miembros de la Directiva Central Provisional, de entre los suscriptores del presente instrumento. Tal norma regirá para el reemplazo o subrogación de los miembros de la Directiva Central Provisional o del Tribunal Supremo Provisional, antes de la inscripción del Partido.-
+
+Juan Ignacio García Rodríguez, Director.
