@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION NUMERO 2.804 EXENTA, DE 1998, QUE DELEGA EN FUNCIONARIOS QUE INDICA FACULTADES QUE SEÑALA
+
+Con fecha 12 de mayo de 1998 el suscrito ha dictado la resolución Ex. Nº2.804, autorizando a los Directores Regionales para delegar, mediante resolución, en el Jefe del Departamento Regional de Avaluaciones y en el funcionario a cargo del área de Avaluaciones en las unidades de su dependencia, la facultad de condonar un porcentaje de la multa del artículo 97º Nº1 del Código Tributario que aplique el Servicio de acuerdo a lo dispuesto en el artículo 2º de la ley Nº17.990. Los delegados efectuarán la condonación en el mismo formulario en que se determine, aplique y gire la sanción, agregando su nombre y el número y fecha de la resolución delegatoria en el recuadro destinado a los datos del girador.
+
+Esta facultad sólo podrá ser ejercida, por los delegados, cuando los notarios o conservadores de bienes raíces, dentro del plazo adicional que se les haya conferido, remitan los formularios originales con la información que deben proporcionar al Servicio sobre transferencia o transmisión de bienes raíces, o los formularios corregidos en el caso en que hayan incurrido en anomalías en su confección. Podrán, también, hacer uso de esta facultad, cuando la información sea remitida fuera del plazo primitivo, pero antes que el Servicio les comunique a los notarios o conservadores de bienes raíces, la infracción cometida y el plazo adicional conferido para el cumplimiento de la obligación.
+
+La condonación que se conceda se otorgará sujeta a la condición de que no se deduzca reclamo en contra de la sanción aplicada. El incumplimiento de esta condición producirá la nulidad de la condonación.
+
+Javier Etcheberry Celhay, Director.
