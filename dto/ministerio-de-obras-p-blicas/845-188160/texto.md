@@ -1,0 +1,3 @@
+Por decreto MOP Nº 845, de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº 5, superficie 13.503,34 m², rol de avalúo 215-21, comuna de Teodoro Schmidt, para la obra "Camino Costero Sur, Tramo Chelle - Hualpín - Puente Peule, Subtramo III By - Pass Hualpín Km. 58,600 al 62,790" y se acordó el valor de indemnización con su propietario Aldo Guillermo Gebert Anders y Otra, ascendente a la cantidad de $5.674.478.-
+
+Fiscal del Ministerio de Obras Públicas.
