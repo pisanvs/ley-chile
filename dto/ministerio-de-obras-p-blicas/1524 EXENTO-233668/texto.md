@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.524 de fecha 29 de octubre del 2004, se expropió el lote de terreno Nº 589-B, superficie 76 m², rol Nº32-54, comuna de Pichidegua, VI Región, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toro - Ruta 66, tramo Km. 0,00000 al Km. 12,70000" y se acordó el valor de indemnización con su propietaria María Inés Muñoz Castro, ascendente a la cantidad de $407.898.- para el lote Nº 589-B.
+
+Fiscal del Ministerio de Obras Públicas.
