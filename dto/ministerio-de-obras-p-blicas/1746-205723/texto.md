@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.746, de 11 de octubre de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 44-4 para la obra: ''Camino: Santiago - Colina - Los Andes, Sector ''B'' By Pass Colina. Ramal Conexión Peldehue.
+
+Km. 9.300,00 a Km. 9.820,00", Región Metropolitana, que figura a nombre de Cía. Minera Disputada de Las Condes, rol de avalúo 185-11, comuna de Colina, superficie 2.433,1 m². La comisión de peritos integrada por los señores, María Cristina Camus Palacios, Carmen Pilar Ríos Marcuello y Gustavo Antonio Domínguez Errázuriz, fijó con fecha 5 de marzo de 1999, el valor provisional de la indemnización en la cantidad de $17.201.700. La indemnización se pagará al contado. La se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
