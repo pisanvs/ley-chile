@@ -2190,11 +2190,17 @@ El que con violencia o fraude impidiere ejercer sus funciones a un miembro del C
 
 El que ocasionare, tumulto o excitare al desorden en el despacho de una autoridad o corporación pública hasta el punto de impedir o interrumpir sus actos, será castigado con reclusión menor en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales.
 
+#### Artículo 268 bis
+
+El que diere falsa alarma de incendio, emergencia o calamidad pública a los Cuerpos de Bomberos u otros servicios de utilidad pública, incurrirá en la pena de reclusión menor en su grado mínimo.
+
 ### II. Desórdenes públicos
 
 #### Artículo 269
 
 Los que turbaren gravemente la tranquilidad pública para causar injuria u otro mal a alguna persona particular o con cualquier otro fin reprobado, incurrirán en la pena de reclusión menor en su grado mínimo, sin perjuicio de las que les correspondan por el daño u ofensa causados.
+
+Incurrirá en la pena de presidio menor, en su grado mínimo a medio, el que impidiere o dificultare la actuación del personal de los Cuerpos de Bomberos u otros servicios de utilidad pública, destinada a combatir un siniestro u otra calamidad o desgracia que constituya peligro para la seguridad de las personas.
 
 § II bis. De la obstrucción a la justicia.
 
