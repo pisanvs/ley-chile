@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 1.077 de 31 de octubre de 1997, se expropió el lote de terreno N° 8-i, superficie 348 M2., rol de avalúo 101-25, comuna de Quilicura, para la obra Habilitacion Segunda Calzada Avenida Américo Vespucio, Sector Carretera Panamericana Norte - Ruta 72 y se acordó precio de indemnización con su propietario Salvador Magiamarchi Hurtado y otros, ascendente a la cantidad de $ 28.956.158.-
+
+Fiscal del Ministerio de Obras Públicas.
