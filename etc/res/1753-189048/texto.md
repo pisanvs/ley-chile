@@ -1,0 +1,9 @@
+Por resolución Nº 1.753, de 16 de agosto de 2001, de esta Subsecretaría, autorízase a COMERCIAL BLUE FISH LIMITADA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Paseo del Mar Nº 245, San Antonio, V Región, donde podrá procesar en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Fresco-Enfriado y Congelado: Agujilla, Albacora o pez espada, Anchoveta, Atún aleta amarilla, Bacalao de profundidad, Blanquillo, Caballa, Cojinoba del norte, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lisa, Merluza común, Merluza del sur, Palometa, Pejegallo, Pejerrey de mar, Raya, Reineta, Róbalo, Salmón del Atlántico, Salmón plateado, Sardina española, Sardina común, Sierra, Marrajo o tiburón, Tollo, Trucha arcoiris, Almeja, Calamar, Cholga, Chorito, Choro, Jibia, Lapa, Loco, Macha, Navajuela, Ostión del norte, Ostión del sur Chlamys vitrea, Ostión del sur Chlamys patagonica, Ostra chilena, Ostra del Pacífico, Pulpo, Camarón nailon, Centolla, Centollón, Gamba, Jaiba mora, Langostino amarillo, Langostino colorado, Picoroco, Erizo y Piure.
+
+La materia prima deberá provenir de pescadores artesanales e industriales, debidamente autorizados.
+
+Los recursos hidrobiológicos Ostra del Pacífico, Ostión del norte, Salmón del Atlántico, Salmón plateado y Trucha arcoiris, deberán provenir de centros de cultivos autorizados.
+
+Déjase sin efecto la resolución Nº 1.159, de 1998, de esta Subsecretaría que autorizó a Sociedad Industrial Pesquera Echeverría y Sierralta Ltda. o Ecomar Ltda., RUT Nº 78.830.480-3, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 16 de agosto de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
