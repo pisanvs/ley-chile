@@ -3240,9 +3240,11 @@ El monto de las comisiones y las condiciones para su cobro sólo se podrán camb
 
 Los cobros por concepto de comisiones deberán efectuarse con una frecuencia que debe determinarse y expresarse en términos de trimestres calendario y se cargarán siempre el último día del mes en que finalice el período fijado.
 
-10.2. Comisiones superiores al saldo de la cuenta.
+10.2.- Cuentas con saldo inferior al monto de la comisión o sin saldo.
 
-En ningún caso los cargos por comisiones podrán ser superiores al saldo de la cuenta afectada, ya que en momento alguno una cuenta de ahorro puede quedar sobregirada. En este caso, la diferencia que hubiere entre el saldo de la cuenta y el monto de la comisión, podrá ser imputada con posterioridad si la cuenta llegare a tener saldo.
+En caso de que el monto de la comisión fuere superior al saldo de una cuenta al momento en que corresponda cargarla, se podrá imputar a ella sólo un importe que no exceda al saldo que registre en la oportunidad, dado que las cuentas de ahorro no admiten sobregiros. La diferencia no recuperada por exceder el saldo de la cuenta, se podrá cargar posteriormente, una vez que la cuenta registre el saldo suficiente para ello. En caso contrario, la institución podrá cobrar directamente al titular la diferencia adeudada y proceder al cierre de la cuenta si esta se mantuviere inactiva, según lo previsto en los numerales 11 y 14.6 de este Capítulo.
+
+En ningún caso se cobrarán comisiones correspondientes a períodos posteriores a aquél en el que la cuenta de ahorro quedó sin saldo, si en tales períodos permanece en esa condición.
 
 10.3. Efecto de las comisiones en el cálculo de intereses y reajustes.
 
@@ -4192,6 +4194,26 @@ Los depósitos y captaciones a plazo fijo que no sean cobrados en la fecha de ve
 
 Cuando se trate de depósitos a plazo renovables que hayan cumplido el período pactado para su renovación automática, las instituciones financieras los mantendrán registrados en su cuenta de origen, salvo que sean cobrados por el titular, incorporando en cada renovación los intereses capitalizados en el período.
 
+7.- Emisión desmaterializada de certificados o pagarés de depósitos a plazo.
+
+Las instituciones financieras que acuerden con una empresa de depósito y custodia de valores no emitir físicamente los certificados o pagarés de depósitos a plazo de los clientes que hayan aceptado tal procedimiento, deberán llevar un registro en que se individualice cada uno de los depósitos en que se utilice ese sistema. Dicho registro contendrá al menos los siguientes datos:
+
+- **a)** número del documento que se ingresa desmaterializadamente a la empresa de depósito y custodia de valores;
+
+- **b)** nombre completo o razón social del depositante, esto es, del titular original del instrumento a la orden;
+
+- **c)** número de RUT y domicilio del mismo;
+
+- **d)** fecha de emisión;
+
+- **e)** capital, expresado en la moneda o en la unidad de reajustabilidad que corresponda;
+
+- **f)** tasa de interés; y,
+
+- **g)** fecha de vencimiento.
+
+En el caso de materialización posterior de un depósito a plazo, se procederá según lo convenido con la empresa de depósito y custodia de valores, de acuerdo con la reglamentación que le rige para el efecto, debiendo quedar también constancia de tal acto en el registro antes mencionado.
+
 CAPITULO 2-8 (Bancos y Financieras)
 
 MATERIA:
@@ -4616,6 +4638,8 @@ h) Constancia de la constitución de garantías, si correspondiere.
 
 i) Indicación de las normas de seguridad que utilizará la sociedad en la confección de sus títulos (características de las tintas, del papel, marcas o sellos, etc.).
 
+Los antecedentes señalados en las letras c) e i) no son exigibles cuando se utilice el sistema de emisión desmaterializada previsto en la Ley N° 18.876.
+
 ### 2. Menciones de la escritura de emisión
 
 La escritura de emisión suscrita con el representante provisional de los tenedores de bonos, deberá incluir los antecedentes mínimos que se señalan en los numerales siguientes.
@@ -4676,7 +4700,7 @@ n) Obligaciones, limitaciones o prohibiciones a que se sujetará el emisor duran
 
 o) Indicación, cuando corresponda, que se trata de bonos convertibles en acciones, señalando la relación de conversión o forma de determinarla o bien, que son bonos subordinados emitidos al amparo del artículo 55 de la Ley General de Bancos.
 
-p) Referencia a procedimientos para canje de títulos o cupones, o para remplazo de éstos en casos de extravío, hurto, robo, inutilización o destrucción.
+p) Referencia a procedimientos para canje de títulos o cupones, o para remplazo de éstos en casos de extravío, hurto, robo, inutilización o destrucción, cuando se trate de emisiones en forma material.
 
 2.4. Juntas de tenedores de bonos.
 
@@ -4796,7 +4820,7 @@ d) Reglas para la protección de los tenedores: Referencia a cualquier restricci
 
 e) Amortización extraordinaria: Indicación de si existirán procedimientos de amortización extraordinaria o rescates anticipados, explicando en qué consistirán y cómo se llevarán a cabo. En caso de no haber, deberá señalarse expresamente.
 
-f) Remplazo o canje de títulos: Referencia a procedimientos de remplazo de los títulos hurtados, robados, dañados o extraviados, o de canje por otros que representen un menor número de láminas.
+f) Remplazo o canje de títulos: Referencia a procedimientos de remplazo de los títulos hurtados, robados, dañados o extraviados, o de canje por otros que representen un menor número de láminas, cuando se trate de emisiones en forma material.
 
 g) Juntas de tenedores de bonos: Indicación de quienes pueden convocarlas, forma de citación, quórum para constitución y acuerdos y materias a tratarse.
 
@@ -4845,6 +4869,8 @@ c) Avisos de convocatoria a junta de tenedores y copia del acta de la reunión.
 ### 6. Registro de bonos emitidos
 
 Toda entidad emisora de bonos deberá llevar un registro en el cual anotará todos los títulos de bonos que haya emitido, con indicación de su número, serie, valor y el nombre de la persona a quien pertenezca, en caso de tratarse de emisiones a la orden.
+
+Cuando se trate de emisiones desmaterializadas deberá agregarse en el registro dicha característica, el nombre de la empresa de depósito de valores con la que se haya convenido la no emisión física de esos valores y la identificación de los títulos que se hubieren emitido en forma material a solicitud de esa empresa, cuando sea el caso.
 
 CAPITULO 2-12 (Bancos y Financieras)
 
@@ -5268,7 +5294,7 @@ Conforme con lo anteriormente expresado, las referidas instituciones no deben da
 
 3.1.- Canje deducible.
 
-Los bancos y las sociedades financieras podrán deducir diariamente de los depósitos y obligaciones a la vista afectos a encaje, la suma de los saldos de las cuentas "Canje de la plaza" y "Canje de otras plazas", de la partida 1015, tratadas en el título VI del Capítulo 5- 1 de esta Recopilación.
+Las instituciones financieras podrán deducir diariamente de los depósitos y obligaciones a la vista afectos a encaje, la suma de los saldos de las cuentas que conforman la partida 1015, con excepción de la cuenta "Canje no deducible".
 
 Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a encaje, el excedente diario que se produzca cuando el saldo de las cuentas antes señaladas sea superior a sus depósitos y obligaciones a la vista sujetas a encaje.
 
@@ -5454,6 +5480,10 @@ A continuación se señalan los principales indicadores que guardan relación co
 
 .
 
+(1) Sólo en moneda chilena y en monedas extranjeras sujetas a posición.
+
+.
+
 CAPITULO 4-2 (Bancos y Financieras)
 
 MATERIA:
@@ -5514,7 +5544,7 @@ En estricto sentido, el cómputo adecuado de éstos consiste en agregarlos día 
 
 4. Importes que las instituciones financieras pueden deducir de sus obligaciones afectas a reserva técnica.
 
-Las instituciones financieras podrán deducir diariamente de las obligaciones señaladas en el N° 1 de este título, la suma de los saldos de las cuentas "Canje de la plaza" y "Canje de otras plazas", de la partida 1015, tratadas en el título VI del Capítulo 5-1 de esta Recopilación, esto es, el importe de esa partida menos el saldo de la cuenta "Canje no deducible".
+Las instituciones financieras podrán deducir diariamente de las obligaciones señaladas en el N° 1 de este título, la suma de los saldos de las cuentas que conforman la partida 1015, con excepción de la cuenta "Canje no deducible".
 
 ### 5. Forma y oportunidad de constituir la reserva técnica
 
@@ -13414,7 +13444,7 @@ Las instituciones financieras podrán reemplazar las letras de crédito destruid
 
 7.- Letras depositadas en una empresa de depósito y custodia de valores.
 
-La Ley N° 18.876 publicada en el Diario Oficial del 21 de diciembre de 1989 y reglamentada por el Decreto Supremo N° 734 del Ministerio de Hacienda, de 1991, permite reemplazar títulos depositados en las sociedades de depósito y custodia de valores autorizadas para operar de acuerdo con dicha ley.
+La Ley N° 18.876 publicada en el Diario Oficial del 21 de diciembre de 1989 y reglamentada por el Decreto Supremo N° 734 del Ministerio de Hacienda, de 1991, permite reemplazar títulos depositados en las sociedades de depósito y custodia de valores autorizadas para operar de acuerdo con dicha ley, como asimismo efectuar el registro de valores sin la emisión física de los respectivos títulos.
 
 En su calidad de emisores de letras de crédito susceptibles de depositarse y registrarse en tales empresas, las instituciones financieras deberán ceñirse a las siguientes instrucciones.
 
@@ -13430,11 +13460,23 @@ En todo caso, los cortes mínimos y máximos deberán ser convenidos previamente
 
 Los sistemas de control de la institución emisora deberán asegurar la inmediata inutilización definitiva de las láminas remplazadas y la anotación de los remplazos en sus registros. Para la destrucción de dichas láminas se seguirá el mismo procedimiento que se utiliza para destruir las letras completamente amortizadas.
 
-7.2.- Pago de valores registrados en las empresas de depósito y custodia.
+7.2.- Letras de crédito emitidas desmaterializadamente.
 
-Para proceder al pago de los cupones de las letras de crédito que hayan sido ingresadas a una empresa de depósito y custodia de valores, la presentación de las letras podrá ser suplida por el sistema de información, cobro y liquidación convenido entre la entidad emisora y esa empresa. En ese caso, se podrá también pagar sin la presentación de los respectivos cupones si el emisor confiere un mandato a la empresa de depósito y custodia de valores para que ésta, en su representación, custodie e inutilice los cupones pagados y se los entregue en la oportunidad que se establezca en ese mandato.
+Según lo previsto en el inciso segundo del artículo 11 de la Ley N° 18.876, modificado por la Ley N° 19.705, los bancos y sociedades financieras pueden acordar con una empresa de depósito y custodia de valores la emisión desmaterializada de sus letras de crédito, entendiéndose satisfecha, de acuerdo con la ley, la entrega material de las letras para la celebración de los respectivos contratos de mutuos hipotecarios mediante la respectiva anotación en cuenta.
 
-7.3.- Sorteos y publicaciones.
+Las letras de crédito desmaterializadas deberán tratarse igual que las láminas físicas, en el sentido de considerar distintos cortes para efecto de los eventuales sorteos.
+
+En el evento de que el emisor y la empresa de depósito y custodia de valores convengan el reemplazo de títulos ya emitidos físicamente y mantenidos en custodia en dicha empresa, por el sistema de emisión desmaterializada, deberá procederse a la inutilización definitiva de las respectivas láminas físicas, siguiendo el mismo procedimiento que se utiliza para las completamente amortizadas.
+
+7.3.- Pago de valores registrados en las empresas de depósito y custodia.
+
+Para proceder al pago de los cupones de las letras de crédito físicamente emitidas que hayan sido ingresadas a una empresa de depósito y custodia de valores, la presentación de las letras podrá ser suplida por el sistema de información, cobro y liquidación convenido entre la entidad emisora y esa empresa. En ese caso, se podrá también pagar sin la presentación de los respectivos cupones si el emisor confiere un mandato a la empresa de depósito y custodia de valores para que ésta, en su representación, custodie e inutilice los cupones pagados y se los entregue en la oportunidad que se establezca en ese mandato.
+
+Cuando se trate de letras de crédito desmaterializadas, el pago se efectuará de acuerdo con los procedimientos acordados por el emisor con la empresa de depósito y custodia de valores.
+
+7.4.- Sorteos y publicaciones.
+
+Los sorteos de letras de crédito deberán incluir tanto aquellos valores que tengan existencia material como aquellos que no la tengan y que corresponda sortear de acuerdo con los cortes respectivos.
 
 Las instituciones que efectúen sorteos, deberán entregar a la empresa de depósito y custodia de valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 21 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
@@ -13458,11 +13500,15 @@ d) Serie, número y monto de cada una de las letras de crédito emitidas por el 
 
 Se anotará también en el Registro, cuando corresponda, el pagaré de cancelación parcial del cupón a que se refiere la letra c) del número 5 del Título V del Reglamento Financiero del Banco Central de Chile.
 
+En el registro deben ingresarse e identificarse según su tipo de emisión, tanto las letras de crédito que sé émiten físicamente como las correspondientes al sistema de emisión desmaterializada.
+
 Es requisito indispensable para el registro de las letras, que el respectivo mutuo hipotecario se encuentre firmado ante Notario. Por lo tanto, dichos valores deberán ser registrados tan pronto como se cumpla ese requisito.
 
-8.2.- Control sobre láminas en circulación.
+8.2.- Control sobre emisiones desmaterializadas vigentes y láminas en circulación.
 
 Dado que el remplazo de láminas por otras de mayor o menor denominación hace imprescindible un control respecto de las láminas vigentes que se encuentren en circulación, considerando las emisiones y anulaciones con motivo del canje, las instituciones financieras que deban remplazar láminas a solicitud de una empresa de depósito y custodia de valores, deberán mantener registros que permitan el control de cada una de las láminas.
+
+Cuando se acuerde con una empresa de depósito y custodia de valores el sistema de emisión desmaterializada, el registro deberá también permitir el control permanente de la situación de las letras vigentes, en cuanto si se trata de documentos físicos o corresponden a ese sistema.
 
 8.3.- Modalidades de registros.
 
