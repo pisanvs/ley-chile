@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.682, de fecha 30 de noviembre de 2004, se expropió el lote de terreno Nº 1, superficie 415,00 m²., rol de avalúo Nº 2210-325, comuna de Hualalihue, para la obra "Camino sin Rol, sector Puente Cisnes Nº 2, tramo Km. 1,031 a Km. 1,430", X Región y se acordó el valor de la indemnización con su propietario Luis Alfredo Soto Ojeda, ascendente a la cantidad de $424.134.
+
+Fiscal del Ministerio de Obras Públicas.
