@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA FRIOSUR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 682, de 22 de Octubre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Fríosur Limitada, domiciliada en Santiago, para operar una planta elaboradora de congelados de recursos hidrobiológicos en Puerto de Chacabuco, calle José María Caro s/n. Instalaciones Frigoríficas CORFO, XI Región, en la que podrá utilizar como materia prima las siguientes especies: Brótula, caballa, razón, chancharro, cojinova del Norte, cojinova del Sur, congrio dorado, congrio negro, jurel, reineta, merluza común, merluza española. merluza de cola, merluza de 3 aletas, mero, pejegallo, róbalo, salmón del Pacífico, sierra, tollo y trucha arco iris. Los recursos salmón del Pacifico y trucha arco iris, deber n provenir de establecimiento de cultivo autorizados.
+
+Valparaíso. 22 de Octubre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
