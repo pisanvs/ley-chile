@@ -1,0 +1,3 @@
+Por decreto MOP Nº 381, de 25 de febrero de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la ejecución de la obra "Mejoramiento Ruta - 5 Pasada por Temuco, Sector Avenida Javiera Carrera", que figura a nombre de Frigorífico Temuco S.A., rol de avalúo 1835-1, comuna de Temuco, IX Región, superficie 2.002 M2. La comisión de peritos fijó con fecha 10 de febrero de 2001, el valor provisional de la indemnización en la cantidad de $96.994.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
