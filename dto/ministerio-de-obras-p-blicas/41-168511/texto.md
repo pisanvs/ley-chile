@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 41, de 28 de febrero de 1991, se expropió el lote No. 6, superficie 1.093 m2, rol de avalúo 286-008, Comuna de San Fernando, para la obra Camino Longitudinal Sur, sector San Fernando - Chimbarongo, enlace Roma - San Fernando y se acordó el precio de indemnización con sus propietarios don Eduardo Segundo Muñoz Chávez y otros, ascendente a la cantidad de $ 1.537.311.-
+
+Fiscal del Ministerio de Obras públicas.
