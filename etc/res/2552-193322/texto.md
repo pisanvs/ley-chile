@@ -1,0 +1,3 @@
+Por resolución Nº2.552, de 20 de diciembre de 2001, de esta Subsecretaría, declárase que con fecha 29 de octubre de 2001 han quedado sin efecto las resoluciones Nº1.457 de 1996, Nº255 de 1997, Nº109 de 2000, Nº1.298, Nº1.895 y Nº1.947, todas de 2001, de esta Subsecretaría, que autorizaron a PESQUERA PLAYA BLANCA S.A. para desarrollar actividad extractiva con la nave Hoddevick, en conformidad con lo dispuesto en el artículo 9º de la Ley Nº19.713. Dicha nave queda permanente e irrevocablemente excluida de la actividad pesquera extractiva.
+
+Valparaíso, 20 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
