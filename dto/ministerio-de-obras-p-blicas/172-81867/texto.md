@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 172 de 26 de julio de 1991, se expropió el lote No. 29, superficie 29 m2., rol de avalúo 2240-30, Comuna de La Granja, para la obra Avenida Circunvalación Américo Vespucio, sector Vicuña Mackenna - Santa Rosa y se acordó precio de indemnización con su propietario don Alberta Galleguillos y Bugueño, ascendente a la cantidad de $ 3.763.550.-
+
+Fiscal del Ministerio de Obras Públicas.
