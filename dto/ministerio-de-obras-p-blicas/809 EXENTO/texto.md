@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº809 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº18-C, superficie 166 m2, Rol en trámite, comuna de San Fernando, VI Región para la obra: ''Camino San Fernando Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km 10,954264'', y se acordó el valor de indemnización con su propietario Luis Alberto Hernández Mesina, ascendente a la cantidad de $707.939.-
+
+Fiscal del Ministerio de Obras Públicas.
