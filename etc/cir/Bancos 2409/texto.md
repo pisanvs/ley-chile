@@ -6428,13 +6428,13 @@ NEXO N° 6
 
 CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 
+Bancos
+
 001 BANCO DE CHILE
 
 008 BANCO O'HIGGINS
 
 009 BANCO INTERNACIONAL
-
-010 BANCO OSORNO Y LA UNION
 
 011 DRESDNER BANQUE NATIONALE DE PARIS
 
@@ -6444,27 +6444,25 @@ CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 
 016 BANCO DE CREDITO E INVERSIONES
 
-017 BANCO DO BRASIL S.A.
-
-018 BANCO CENTRAL DE CHILE
+017 BANCO DO BRASIL S A
 
 027 BANCO CONCEPCION
 
 028 BANCO BICE
 
-029 BANCO DE A. EDWARDS
+029 BANCO DE A EDWARDS
 
 031 REPUBLIC NATIONAL BANK OF NEW YORK
 
-032 BANK OF AMERICA N.T and S.A.
+032 BANK OF AMERICA NT and S A
 
-033 CITIBANK N.A.
+033 CITIBANK N A
 
-034 BANCO REAL S.A.
+034 BANCO REAL S A
 
 035 BANCO DE SANTIAGO
 
-036 BANCO DO ESTADO DE SAO PAULO S.A.
+036 BANCO DO ESTADO DE SAO PAULO S A
 
 037 BANCO SANTANDER-CHILE
 
@@ -6472,31 +6470,35 @@ CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 
 039 THE FIRST NATIONAL BANK OF BOSTON
 
-040 BANCO SUDAMERIS
+040 BANCO SUDAMFRIS
 
-041 THE CHASE MANHATTAN BANK N.A.
+041 THE CHASE MANHATTAN BANK N A
 
-042 AMERICAN EXPRESS BANK LTD.
+042 AMERICAN EXPRESS BANK LTD
 
 043 BANCO DE LA NACION ARGENTINA
 
-045 THE BANK OF TOKYO-MITSUBISHI LTD.
+045 THE BANK OF TOKYO-MITSUBISHI LTD
 
 046 ABN AMRO BANK (CHILE)
 
 049 BANCO SECURITY
 
-051 ING BANK (CHILE) S.A.
+051 ING BANK (CHILE) S A
 
 504 BANCO BHIF
 
 507 BANCO DEL DESARROLLO
 
-716 CORPORACION FINANCIERA ATLAS S.A.
+Sociedades financieras
 
-733 FINANCIERA CONDELL S.A.
+716 CORPORACION FINANCIERA ATLAS S A
 
-734 FINANCIERA CONOSUR.
+733 FINANCIERA CONDELL S A
+
+734 FINANCIERA CONOSUR
+
+018 BANCO CENTRAL DE CHILE.
 
 ANEXO N° 7
 
@@ -8246,97 +8248,107 @@ ANEXO N° 1
 
 1.- Empresas que requieren autorización del Ministro de Hacienda y de Economía, Fomento y Reconstrucción para solicitar créditos.
 
-- Agrícola y Servicios Isla de Pascua Ltda.
+- Carbonífera Victoria de Lebu S.A. (CARVILE S.A.)
 
-- Carbonífera Victoria de Lebu S.A.
+- Comercializadora de Trigo S.A. (COTRISA S.A.)
 
-- Comercializadora de Trigo S.A.
+- Empresa Almacenadora de Combustible Ltda. (EMALCO LTDA.)
 
-- Empremar Sur S.A.
+- Empresa de Abastecimiento de Zonas Aisladas (EMAZA)
 
-- Empresa Almacenadora de Combustible Ltda.
+- Empresa de Correos de Chile,
 
-- Empresa de Abastecimiento de Zonas Aisladas
+- Empresa de los Ferrocarriles del Estado.
 
-- Empresa de Correos de Chile
+- Empresa de Obras Sanitarias de Valparaíso S.A.(ESVAL S.A.)
 
-- Empresa de los Ferrocarriles del Estado
+- Empresa de Servicios Sanitarios de Antofagasta S.A. (ESSAN S.A.)
 
-- Empresa de Obras Sanitarias y Región S.A.
+- Empresa de Servicios Sanitarios de Atacama S.A. (EMSSAT S.A.)
 
-- Empresa de Servicios Sanitarios de Antofagasta S.A
+- Empresa de Servicios Sanitarios de Aysén S.A. (EMSSA S.A.)
 
-- Empresa de Servicios Sanitarios de Atacama S.A.
+- Empresa de Servicios Sanitarios de Coquimbo S.A. (ESSCO S.A.)
 
-- Empresa de Servicios Sanitarios de Aysén S.A.
+- Empresa de Servicios Sanitarios de La Araucanía S.A. (ESSAR S.A.)
 
-- Empresa de Servicios Sanitarios de Coquimbo S.A.
+- Empresa de Servicios Sanitarios de Los Lagos S.A. (ESSAL S.A.)
 
-- Empresa de Servicios Sanitarios de La Araucanía S.A.
+- Empresa de Servicios Sanitarios de Magallanes S.A. (ESMAG S.A.)
 
-- Empresa de Servicios Sanitarios de Los Lagos S.A.
+- Empresa de Servicios Sanitarios de Tarapacá S.A. (ESSAT S.A.)
 
-- Empresa de Servicios Sanitarios de Magallanes S.A.
+- Empresa de Servicios Sanitarios del Bío-Bío S.A. (ESSBIO S.A.)
 
-- Empresa de Servicios Sanitarios de Tarapacá S.A.
+- Empresa del Libertador S.A. (ESSEL S.A.)
 
-- Empresa de Servicios Sanitarios del Bío-Bío S.A.
+- Empresa de Servicios Sanitarios del Maulé S.A. (ESSAM S.A.)
 
-- Empresa de Servicios Sanitarios del Libertador S A
+- Empresa de Transporte de Pasajeros Metro S.A. (METRO S.A.)
 
-- Empresa d Servicios Sanitarios del Maulé S.A.
+- Empresa de Transporte Ferroviario S.A. (FERRONORS.A.)
 
-- Empresa de Transporte de Pasajeros Metro S.A.
+- Empresa Eléctrica Colbún Machicura S.A. (COLBUN S.A.)
 
-- Empresa de Transporte Ferroviario S.A.
+- Empresa Eléctrica de Aysén S.A. (EDELAYSEN S.A.)
 
-- Empresa Eléctrica Colbún Machicura S.A.
+- Empresa Metropolitana de Obras Sanitarias S.A. (EMOS S.A.)
 
-- Empresa Eléctrica de Aysén S.A.
+- Empresa Nacional de Minería (ENAMI)
 
-- Empresa Marítima S.A.
+- Empresa Nacional del Carbón S.A. (ENACAR S.A.)
 
-- Empresa Metropolitana de Obras Sanitarias S.A
+- Empresa Nacional del Petróleo (ENAP)
 
-- Empresa Minera Aysén Ltda.
+- Empresa Periodística La Nación S.A.
 
-- Empresa Nacional de Minería
+- Empresa Portuaria de Chile (EMPORCHI)
 
-- Empresa Nacional del Carbón
+- Ferrocarril de Arica a la Paz S.A. (FCALP S.A.)
 
-- Empresa Nacional del Petróleo
+- Ferrocarril de Pasajeros S.A. (FERROPAS S.A.)
 
-- Empresa Periodística La Nación S.A
+- Ferrocarril del Sur S.A. (FERROSUR S.A.)
 
-- Empresa Portuaria de Chile
+- Ferrocarriles Suburbanos S.A. (FESUB S.A.)
 
-- Isapre Ferrosalud S,A.
+- Metro Regional de Valparaíso S.A. (MERVAL S.A.)
 
-- Petrox S A. Refinería de Petróleo
+- Isapre del Carbón S.A. (ISCAR S.A.)
+
+- Isapre Ferrosalud SA. (FERROSALUD S.A.)
+
+- Infraestructura y Tráfico Ferroviario S.A. (I.T.F. S.A.)
+
+- Inmobiliaria Nueva Vía S.A. (INVIA S.A.)
+
+- Petro Servicio Corp. S.A.
 
 - Polla Chilena de Beneficencia S.A.
 
-- Radio Nacional de Chile
+- Refinería de Petróleo Concón S.A. (R.P.C. S.A.)
 
-- Refinería de Petróleo Concón S.A.
+- Refinería de Petróleo S.A. (PETROX S.A.)
 
-- Sociedad Agrícola Corfo Ltda.
+- Sociedad Agrícola y Servicios Isla de Pascua Ltda. (SASIPA LTDA.)
 
-- Sociedad Transporte Marítimo Chiloé-Aysén Ltda.
+- Sociedad Agrícola Sacor Ltda. (SACOR LTDA.)
 
-- Transcontainer S.A.
+- Sociedad Internacional Petrolera S.A. (SIPETROL S.A.)
 
-- Zona Franca de Iquique S.A.
+- Transporte Marítimo Chiloé-Aysén S.A.(TRANSMARCHILAY S.A.)
 
-2. - Empresas que sólo requieren autorización del Ministro de Hacienda para solicitar créditos.
+- Zona Franca de Iquique S.A. (ZOFRI S.A.)
 
-- Astilleros y Maestranzas de la Armada
+2.- Empresas que sólo requieren autorización del Ministro de Hacienda para solicitar créditos.
 
-- Empresa Nacional de Aeronáutica
+- Astilleros y Maestranzas de la Armada (ASMAR)
 
-- Fábrica y Maestranzas del Ejército
+- Empresa Nacional de Aeronáutica (ENAER)
 
-- Corporación Nacional del Cobre de Chile.
+- Fábrica y Maestranzas del Ejército (FAMAE)
+
+- Corporación Nacional del Cobre de Chile (CODELCO CHILE).
 
 CAPITULO 8-9 (Bancos y Financieras)
 
