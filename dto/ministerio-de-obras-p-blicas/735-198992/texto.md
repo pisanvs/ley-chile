@@ -1,0 +1,3 @@
+Por decreto MOP Nº 735, de 15 de abril de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 116-A, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Etapa 2, Km. 10,98400 al 34,50000, que figura a nombre de Nelson Orellana Cardemil, rol de avalúo 224-43, superficie 350,52 m2., comuna de Olmué. La comisión de peritos, con fecha 15 de septiembre de 2001, fijó la indemnización provisional en la cantidad de $3.300.078, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
