@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.947 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 4, superficie 2.450 m²., rol de avalúo 432-3, comuna de Chimbarongo, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca Sector I: Km. 140.850,00 a Km. 151.500,00'' y se acordó el valor de indemnización con su propietario Soc. Agrícola y Comercial Correa Ltda., ascendente a la cantidad de $6.690.503.-
+
+Fiscal del Ministerio de Obras Públicas.
