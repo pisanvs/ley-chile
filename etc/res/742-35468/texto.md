@@ -1,0 +1,3 @@
+Por Resolución N° 742, de 22 de junio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por ROSSANA DEL CARMEN PEREIRA FLORES, R.U.T. N° 8.915.936-9, para un centro de cultivo ubicado en Bahía de Tongoy, Comuna de Coquimbo, Provincia de Elqui, IV Región, por no dar cumplimiento el respectivo proyecto técnico al artículo 67°, inciso 5° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de junio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
