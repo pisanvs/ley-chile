@@ -1,0 +1,9 @@
+Derechos sobre la venta de buques
+
+Excmo. Señor:
+
+El capítulo del reglamento de libre comercio que libertó de derechos la compra de buques por hijos del pais por solo el término de tres años, i que agració en la mitad en los dos siguientes, prohibiendo absolutamente este comercio en los restantes, se dictó con consideracion a que en el término de cinco años se conceptuaban nuestros astilleros en estado de levantar buques mayores en suficiente número para su tráfico. El interregno que desgraciadamente tuvimos, i la guerra constante en que se ha ocupado el pais ha embarazado esta i otras negociaciones tan útiles e interesantes al comercio. De consiguiente ha cesado la razon de la lei, i nos hallamos en el caso de prorrogar los términos de aquellas gracias atendido al interes que resulta de ellas a los naturales comerciantes de Chile. Por tanto, i a fin que se facilite este comercio i que tenga el Estado con él las entradas[X1] naturales que le corresponden, se declara que interin se formaliza i ponen en ejecucion los astilleros del pais no paguen los vendedores de buques mayores mas derechos que los establecidos de alcabala, quedando suspendidos los artículos del reglamento de libre comercio que hacen referencia a esta declaracion. Puede V.E. mandar se publique esta resolucion para su observancia i cumplimiento.
+
+Dios guarde a V.E. muchos años. Sala del Senado, Agosto 9 de 1821- Juan Agustín Alcalde.- Jose María Villarreal, secretario.- Excmo. Señor Supremo Director de la República.
+
+Santiago i Agosto 16 de 1821.- Conformado.- Tómese razon, e imprímase.-O'Higgins.- Dr. Rodríguez.
