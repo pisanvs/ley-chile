@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.033, de 29 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº2, para la obra Puente Maitenhuapi, Camino Alto Pangue-Maitenhuapi Rol K-440, Kms. 0,007.60 al 0,360.00, que figura a nombre de Rogelia Ida Véliz Quiñonez, rol de avalúo 8086-3, comuna de San Rafael, VII Región, superficie 1.618 M2.. La Comisión de Peritos, fijó con fecha 17 de octubre de 1998, en la cantidad de $1.035.100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
