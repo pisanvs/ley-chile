@@ -1,0 +1,13 @@
+Por resolución Nº 126, de 12 de enero de 2005, de esta Subsecretaría, autorízase a la ASOCIACION GREMIAL DE PEQUEÑOS ARMADORES PESQUEROS ARRASTREROS Y PATRONES DE PESCA V Y VIII REGION para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la captura incidental de Pejegallo (Callorhynchus callorhynchus) en las actividades de pesca industrial orientadas a la Merluza común (Merluccius gayi) con redes de fondo de baja altura".
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en caracterizar la captura incidental de Pejegallo en las actividades de pesca industrial orientadas a la Merluza común con redes de fondo de baja altura.
+
+La pesca de investigación se efectuará en el área marítima comprendida entre el límite norte de la VIII Región y el paralelo 41°28,6' L.S., por fuera del área de reserva artesanal, en el período comprendido entre la fecha de la presente resolución y el 31 de marzo de 2005, ambas fechas inclusive.
+
+Podrán participar en la presente pesca de investigación los titulares de las embarcaciones industriales que a continuación se individualizan, que cuentan con límite máximo de captura por armador en la unidad de pesquería de Merluza común, y con autorización vigente para operar en la unidad de pesquería de la citada especie, declarada en régimen de plena explotación: Marcelino S. González Rivera: Don Marcelo, Don Vicente, Walrus; Sociedad Pesquera Genmar Limitada: Don Chelo I; Antonio G. Da Venezia Retamales: Tío Gringo; Sociedad Pesquera Leucotón Limitada: Leucotón; Sociedad Pesquera Pessur Limitada: Pesur I; Marcelino S. González Silva: Berta.
+
+Para los efectos de la presente pesca de investigación, se exceptúan a las naves industriales participantes del cumplimiento de la medida de administración establecida en el DS Nº 411 de 2000, del Ministerio de Economía, Fomento y Reconstrucción, sólo en lo referido al porcentaje de captura de Pejegallo en la pesca de Merluza común con red de arrastre. En consecuencia, autorízase un porcentaje máximo de 15% del recurso Pejegallo, medido en peso por viaje de pesca, en relación con la captura total de viaje, como fauna acompañante en la pesca dirigida a Merluza común con red de arrastre.
+
+El peticionario designa como persona responsable de esta pesca de investigación al presidente don Carlos Carrasco Bañados.
+
+Valparaíso, 12 de enero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
