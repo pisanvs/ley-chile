@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.490, de 27 de mayo de 2004, de esta Subsecretaría, modifícase la resolución Nº 559 de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para realizar actividades experimentales de acuicultura sobre las especies Esturión de Siberia y Esturión Blanco, en la forma que a continuación se señala:
+
+a) Elimínase la letra c) del numeral 3.
+
+b) Agrégase a continuación de la letra b) del numeral 3.- el siguiente inciso: "Asimismo el interesado podrá mantener 19 ejemplares de la especie Esturión Blanco Acipenser transmontanus, en la piscicultura otorgada al Instituto Profesional de Osorno, hoy Universidad de Los Lagos, mediante resoluciones Nº 267 de 1981 y Nº 149 de 1988, ambas de esta Subsecretaría, ubicada en el sector Río Sur, comuna de Puerto Varas, provincia de Llanquihue, X Región, e inscrita en el Registro Nacional de Acuicultura bajo el Nº 1.763; y 100 ejemplares de la especie Esturión de Siberia Acipenser baeri, en la piscicultura otorgada a la misma universidad, mediante resoluciones Nº 219 de 1982, Nº 292 de 1983 y Nº 149 de 1988, todas de esta Subsecretaría, ubicada en el sector de Lago Rupanco, Entre Lagos, comuna de Puyehue, provincia de Osorno, X Región, e inscrita en el Registro Nacional de Acuicultura bajo el Nº 1.762".
+
+Valparaíso, 27 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
