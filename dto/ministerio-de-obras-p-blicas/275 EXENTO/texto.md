@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº275, de fecha 30 de marzo de 2001, se expropió los lotes de terreno Nºs. 62 y 63, superficie 3.046,81 y 647,54 m², respectivamente, rol de avalúo 327-6, comuna de Constitución, para la obra ''Camino M-24-K Quivolgo - Puente Lautaro, Sector C, Putú - Quivolgo, Km. 30,000.00 a Km. 49,815.494'' y se acordó el valor de indemnización con su propietario Marcela Alejandra Torres Valdés, ascendente a la cantidad de $630.293.-.
+
+Fiscal del Ministerio de Obras Públicas.
