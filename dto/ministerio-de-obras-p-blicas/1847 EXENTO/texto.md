@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.847, de 30 de noviembre del 2001, se expropió el lote de terreno Nº59, superficie 265 m2, rol de Avalúo 103-468, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar Tramo 6 A2: Kms. 33.200,00 al 33.880,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Manuel Antonio Díaz Montenegro, ascendente a la cantidad de $1.614.598.
+
+- Fiscal del Ministerio de Obras Públicas.
