@@ -1,0 +1,3 @@
+Por resolución Nº1.124, de 21 de junio de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Puerto Yana, VIII Región, individualizada en el artículo 1º) Nº26 del D.S. Nº729 de 1997, citado en Visto, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL Y ACTIVIDADES AFINES DE CALETA YANI.
+
+Valparaíso, 21 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
