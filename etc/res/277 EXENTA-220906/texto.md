@@ -1,0 +1,3 @@
+Por resolución exenta Nº 277 de 22 de enero de 2004 de esta Subsecretaría, autorízase a COMERCIAL Y PESQUERA SOUTH WIND S.A, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Los Industriales Nº 668, Huechuraba, Región Metropolitana, en las líneas de elaboración Fresco Refrigerado, las ovas del recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 22 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
