@@ -1,0 +1,1 @@
+Declara en reorganización la Empresa de Transportes Colectivos del Estado.
