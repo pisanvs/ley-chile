@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 67, de fecha 13 de julio del año 2001, del Ministerio de Economía, Fomento y Reconstrucción, se aprobó la disolución voluntaria de la Cooperativa de Consumo del Personal de la Fábrica de Celulosa Laja Limitada, que consta en la escritura pública, suscrita con fecha 9 de mayo del año 2001, ante el Notario Público de Santiago, don Rubén Galecio Gómez.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
