@@ -1,0 +1,5 @@
+Por Decretro M.O.P. N° 214, de 28 de abril de 1995, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno N°s. 32, 33 y 35, para la obra Línea N° 5 del Metro de Santiago, "Vicuña Mackenna" (Camino Agrícola El Pinar), que figuran nombre de Otto Kraus S.A.I.C., inmobiliaria Til Til S.A., y Comercial San Juan Limitada, roles de avalúos N°s. 1701-4, 7911-5 y 9077-12, comunas de San Joaquín y Macul, Región Metropolitana, Superficies 587 m2, 145,5 m2. y 20,6 m2. La Comisión de Peritos compuesta por los señores Ricardo Carvallo Rodríguez, Carlos del Pedregal Sánchez y Sergio Rojas Ibáñez, fijó con fecha 1° de Diciembre de 1994, el valor provisional de las indemnizaciones en las cantidades de $35.924.300, para el lote N° 32;
+
+$8.581.800, para el lote N° 33, y $1.771.940, para el Lote N° 35. Las indeminizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el ar-tículo 7° del Decreto Ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
