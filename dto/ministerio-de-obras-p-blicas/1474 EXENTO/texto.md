@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.474 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 2, superficie 398 m2, rol de avalúo 196-50, comuna de Cobquecura, para la obra ''Camino Cobquecura - Mela, Sector Puente Colmuyao, Km. 0,03000 a Km. 0,21200'' y se acordó el valor de indemnización con su propietario Víctor Hugo Pradenas Concha, ascendente a la cantidad de $859.736.
+
+- Fiscal del Ministerio de Obras Públicas.
