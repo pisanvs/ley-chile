@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 394, de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 25, superficie 76 m2, Rol Nº 503-61, comuna de Santa Cruz, VI Región, para la obra "Camino Santa Cruz - Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietario Eduvina Rosa González González, ascendente a la cantidad de $327.472.-
+
+Fiscal del Ministerio de Obras Públicas.
