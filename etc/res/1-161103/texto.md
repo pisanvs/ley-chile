@@ -1,0 +1,3 @@
+Por resolución No. 1 de 10 de Junio de 1985 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se autoriza a don Jaime Reyes Ulloa para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos, incluido el del conductor; de vehículos de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en calle Longitudinal Sur No. 2251 de la ciudad de Rancagua.-
+
+Rigoberto Gómez Lavín, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
