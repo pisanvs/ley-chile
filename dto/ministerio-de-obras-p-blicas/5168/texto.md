@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.168, de 30 de noviembre de 2000, se expropió el lote de terreno Nº13-1, superficie 1.199 m2., rol de avalúo 107-10, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Tramo 8, Región Metropolitana y se acordó el valor de indemnización con su propietaria Julia García Burillo, ascendente a la cantidad de $2.888.344.
+
+- Fiscal del Ministerio de Obras Públicas.
