@@ -1,0 +1,3 @@
+Por resolución No. 888 de 05 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año desde la fecha de la presente resolución, el plazo otorgado a SOCIEDAD DE ACTIVIDADES Y EXPLOTACION ACUICOLA LOS ACANTILADOS LIMITADA, RUT No. 79.874.790-8, domiciliada en la ciudad de Puerto Aysén, en el numeral 5° de la resolución No. 846, de 1990, de esta Subsecretaría, por haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 05 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
