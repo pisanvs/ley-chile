@@ -1,0 +1,3 @@
+Por resolución Nº 1.246, de 14 de junio de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201012001, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES, ESCADORES ARTESANALES Y AYUDANTES DE CALETA CHANAVAYA, para un centro de cultivo ubicado en Caleta Chanavaya, Pabellón de Pica, I Región.
+
+Valparaíso, 14 de junio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
