@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.579, de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº5, superficie 94 m2., rol de avalúo 432-21, comuna de Chimbarongo, para la obra "Concesión Internacional Ruta 5 Tramo Santiago - Talca, Sector I: Km. 140.850,00 a Km. 151.500,00" y se acordó el valor de indemnización con su propietario Lucía Techita de las Mercedes Maturana Astorga, ascendente a la cantidad de $293.747.-
+
+Fiscal del Ministerio de Obras Públicas.
