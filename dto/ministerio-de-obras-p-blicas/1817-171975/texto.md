@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.817, de 28 de abril del 2000, se expropió el lote de terreno Nº 40, superficie 940 m2., rol de avalúo 212-517, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector J, Sexta Región y se acordó el valor de indemnización con su propietario Arnaldo Torrealba Meza, ascendente a la cantidad de $3.141.677.
+
+Fiscal del Ministerio de Obras Públicas.
