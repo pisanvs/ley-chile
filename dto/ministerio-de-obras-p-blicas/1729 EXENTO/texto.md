@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº1.729 de fecha 31 de octubre de 2001, se expropió el lote de terreno Nº3, superficie 2.450 m², rol de avalúo Nº3983-203, comuna de Talca, para la obra "Canal Matriz Descarga Nº2 Km. 0,792 al Km. 0,890" y se acordó el valor de indemnización con su propietario Héctor o Héctor Hernán Conde Zúñiga, ascendente a la cantidad de $632.294.-
+
+Fiscal del Ministerio de Obras Públicas.
