@@ -1,0 +1,3 @@
+Por Resolución N° 1.015, de 10 de agosto de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución N° 882, de 1986, de esta Subsecretaría, que autorizó a PESQUERA FAMSO S.A., R.U.T. N° 95.344.000-8, para desarrollar actividades pesqueras extractivas con la nave "Don Orlando", en lo relativo a las especies Agujilla, Anchoveta, Caballa, Jurel y Sardina española, en el litoral de las I y II Regiones, por haberse configurado la causal prevista en el artículo 143 letra b), de la Ley N° 18.892 citada en Visto.
+
+Valparaíso, 10 de agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
