@@ -1,0 +1,3 @@
+Por resolución Nº 1.225 de 27 de junio de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95110130, presentada por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para operar un centro de cultivo ubicado en seno Melimoyu, canal Pedregoso, isla Yalac, comuna de Cisnes, provincia de Aysén, XI Región, conforme a lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
