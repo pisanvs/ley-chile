@@ -1,0 +1,3 @@
+Por resolución Nº158, de esta Subsecretaría, déjase sin efecto la resolución Nº2.740 de 2000, de esta Subsecretaría que autorizó a AYSEN CONSULTORES LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Determinación de la estructura de tallas y caracterización del esfuerzo de pesca artesanal, aplicado sobre el recurso Merluza del sur (Merluccius australis), en aguas interiores de la XI Región'', a partir del 1º de febrero de 2001, en virtud de lo solicitado por el peticionario antes individualizado.
+
+Valparaíso, 29 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
