@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 480 de fecha 26 de mayo de 2003, se modificó el numeral 2 del decreto MOP exento Nº 186, de fecha 31 de marzo de 2003, en lo que respecta al nombre de la comuna de los lotes Nº 120-A y 121, de la obra "Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo Km. 0,00000 a Km. 15,48000", por cuanto es comuna de Colbún y no la que allí se expresa.
+
+Fiscal del Ministerio de Obras Públicas.
