@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.002, de fecha 31 de octubre de 2000, se expropiaron los lotes de terreno Nºs. 10 y 11, superficies 13.691 y 4.839 m², respectivamente, rol de avalúo 49-15, comuna de Lonquimay, para la obra ''Camino Malalcahuello-Paso Pino Hachado, rutas R-891, R-955 y R-89, Sector Puente La Puntilla-Lonquimay, Km. 106,69041 a Km. 119,30000'' y se acordó el valor de indemnización con su propietario César Fuentes Gutiérrez, ascendente a la cantidad de $3.610.804.-
+
+Fiscal del Ministerio de Obras Públicas.
