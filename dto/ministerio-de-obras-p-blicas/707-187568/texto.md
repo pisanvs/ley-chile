@@ -1,0 +1,3 @@
+Por decreto MOP Nº707 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº12-A, superficie 1.532 m2., rol de avalúo 180-8, comuna de San Nicolás, para la obra "Camino Ruta N-60-O, Sector Río Ñuble- Portezuelo, Km. 6.900.00 a Km. 28.833.35" y se acordó el valor de indemnización con su propietario Rossana Eliana Gutiérrez Hollander, ascendente a la cantidad de $786.682.-
+
+Fiscal del Ministerio de Obras Públicas.
