@@ -290,7 +290,7 @@ El organismo de previsión correspondiente registrará estos comprobantes a soli
 
 La bonificación y los aumentos anuales se regularán sobre la base de la pensión que habría correspondido al imponente en el momento de justificar los requisitos para jubilar con sueldo íntegro.
 
-El derecho a la bonificación será declarado por la Caja o por el organismo auxiliar correspondiente, a petición del interesado, y el beneficio se deberá a contar desde la fecha de la solicitud respectiva o desde el día en que se cumplan los requisitos para jubilar con sueldo íntegro si éste fuere posterior.
+El derecho a la bonificación será declarado por la Caja o por el organismo auxiliar correspondiente, a petición del interesado, y el beneficio se deberá contar desde el momento en que el imponente cumplió los requisitos para jubilar con sueldo íntegro y continuó prestando servicios, cualquiera que sea la fecha en que se le solicite.
 
 Son requisitos para jubilar con sueldo íntegro, para los fines de este Título, el haber cumplido 35 años de servicios computables.
 
