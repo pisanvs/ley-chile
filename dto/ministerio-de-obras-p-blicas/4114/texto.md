@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.114, de 31 de agosto del 2000, se expropiaron los lotes de terreno Nºs. 13, 14, 16, 17, 18, 19, 10-A y 17-A, superficies 1.682, 545, 1.084, 9.273, 1.748, 427, 850 y 2.580 m² respectivamente, roles de avalúos 3001-8 y 3001-9, comuna de Ovalle, para la obra Camino Ruta D-595; Ovalle-Hurtado, Sector Tranque Recoleta-Samo Alto, Tramo Km. 9.780,00 a Km. 31.840,00 y se acordó precio de la indemnización con su propietaria Sociedad Agrícola El Carmen Ltda., ascendente a la cantidad de $33.426.890.
+
+Fiscal del Ministerio de Obras Públicas.
