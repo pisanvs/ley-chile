@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº231 de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nos 35 y 36, superficie 744 y 384 m², rol de avalúo 202-12, comuna de Lumaco, para la obra "Camino Lumaco-Capitán Pastene, Sector Lumaco-Capitán Pastene, Km. 0.000 al 10.525,168" y se acordó el valor de indemnización con su propietario José Armen Rain Huenuche, ascendente a la cantidad de $475.858.-
+
+Fiscal del Ministerio de Obras Públicas.
