@@ -1,0 +1,25 @@
+Aplicacion de las mandas forzosas de la provincia de Comquimbo al Instituto Nacional de su departamento.
+
+Excmo. Señor:
+
+El particular interes que tengo en la pronta formacion del instituto literario que ha de establecerse en la ciudad de Coquimbo, segun las acertadas providencias que ha dictado V. E., i el cumplimiento de las confianzas que me ha depositado aquel Cabildo, me precisan a dirijir a V. E. el presente recurso, que si no equivoco mi juicio, es conforme a lo decretado por V. E. Ordenada ya la creacion de aquel Instituto bajo las mismas bases i reglas que se han adoptado para el de la capital, debe gozar los privilejios i las escepciones que a éste corresponden: de consiguiente, supuesta la suprema determinacion de que todo testador haya de dejar seis pesos en favor del Instituto como una manda forzosa, entiendo que establecido el de Coquimbo no se estimará por cosa estraña, que todas las mandas forzosas que se recauden en aquella provincia i distrito de la Intendencia se conviertan en utilidad de su Instituto, por militar respecto de él la razon que se tuvo para esta determinacion. El Instituto de Coquimbo es un departamento provincial, i si lo que produce la provincia con referencia a él, le es justamente debido, no puedo dudar de la singular bondad de V. E., se sirva declarar que todo lo anexo a las mandas forzosas de aquella Intendencia se resuma en su Instituto literario, dando con esto una nueva prueba al Cabildo, por quien hablo, del aprecio i de la distincion con que le honra, la misma que aumentará los motivos de gratitud i reconocimiento que tiene para con V. E.
+
+Dios guarde a V. E. muchos años. - Santiago, Junio 8 de 1821. - Excmo. Señor - José María Argandoña. – Excmo. Senado de la República.
+
+Santiago, Junio 8 de 1821. - Remítase por secretaría esta solicitud a la Junta de Educacion, para que con arreglo a su contenido informe lo que corresponda en justicia. - Alcalde. - Villarreal, secretario.
+
+Excmo. Señor:
+
+Nada es tan conducente a la educacion literaria de la juventud como la multiplicacion de institutos en que ellos aprendan las ciencias i las virtudes cívicas. Los griegos no habrian tenido trescientos doctores que en diferentes puntos escribiesen a un tiempo la batalla de Maratón, si no hubiesen contado con las escuelas científicas de Jonia, Elea; Italia i los gimnasios de la Academia, del Liceo i del Cinosargo, a cuyas instituciones se contribuia respectivamente por cada provincia al fondo señalado por su gobierno particular. Es mui justo, pues, que las mandas de Coquimbo tenga la aplicacion que apetece su Cabildo, elijiendo éste un depositario con buenas garantías para que en su poder existan esas entradas hasta la realizacion de este útil establecimiento, cuya acta de creacion tendrá V. E. la dignacion de participar al Tribunal de Educacion pública para su conocimiento, i que en lo sucesivo se entienda con él cualquiera jestion de aquel proyecto de su dependencia.
+
+Santiago, 15 de Junio de 1821. - José María de Rozas. - José Gregorio Argomedo. - Dr. Bernardo de Vera. - Dr. Manuel José Verdugo. - José Antonio Briceño. – Bernardino Bilbao.
+
+Excmo. Señor:
+
+Por el adjunto espediente se instruirá V. E. que por el conducto del apoderado del Cabildo de Coquimbo se pidió al Senado la declaracion relativa a que las mandas forzosas que se dejan en los testamtentos que se otorgan en aquella provincia se apliquen en favor del Instituto Nacional que debe allí establecerse conforme a lo decidido por el Senado i aprobado por V. E. Para resolver se pidió informe a la Junta de Educacion, i conviniendo en esta aplicacion por los justos i racionales fundamentos que afianzan la peticion, la aprueba el Senado, para que no teniendo embarazo V. E., se sirva decretar la ejecucion en la forma propuesta por la misma Junta de Educacion, a la que si fuere del agrado de V. E., podrá ordenar se le pase copia de la acta de ereccion del Instituto para su conocimiento i para que en lo sucesivo se hagan ante ella las jestiones convenientes a llevar adelante aquel recomendable proyecto.
+
+Dios guarde a V. E. muchos años. - Sala del Senado, en Santiago de Chile, Junio 19 de 1821. - Francisco Antonio Pérez. - José María Villarreal, secretario. - Excmo. Señor Supremo Director de la República.
+
+Santiago, Julio 4 de 1821. - Se sanciona el presente acuerdo del Excmo. Senado, i en consecuencia se aplican las mandas forzosas de la provincia de Coquimbo al Instituto Nacional de su departamento i que se recaudarán segun el Senado-consulto de 31 de Marzo de 1819 i el reglamento que contiene: cumpliendo el Cabildo de Coquimbo con les calidades que pide el Tribunal de educacion pública en su informe, i a quien se pasará una copia de la acta de ereccion de dicho Instituto para los fines que espresa. -
+
+Comuníquese esta determinacion por la Gaceta Ministerial. - O'Higgins. - Echeverría.
