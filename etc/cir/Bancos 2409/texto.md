@@ -16702,27 +16702,11 @@ de uso anterior que pudiera haber tenido.
 
 ### 3. Situaciones especiales
 
-Los contratos que cumplan sólo algunas de las condiciones señaladas en el número
+Los contratos que cumplan sólo algunas de las condiciones señaladas en el número anterior y que no correspondan a simples contratos de arrendamiento, deberán someterse a la consideración de este Organismo para determinar el tratamiento contable que corresponde darles.
 
-anterior y que no correspondan a simples contratos de arrendamiento, deberán
+Las operaciones a que se refiere el párrafo precedente se contabilizarán, mientras se reciban las instrucciones específicas de esta Superintendencia, en la forma dispuesta en el N° 2 del título II del presente Capítulo.
 
-someterse a la consideración de este Organismo para determinar el tratamiento
-
-contable que corresponde darles.
-
-En todo caso, deberán consultarse a esta Superintendencia los contratos sobre
-
-arrendamiento de bienes que hubieran sido de propiedad de la empresa, cualquiera
-
-sean las condiciones que se hubieren pactado en ellos.
-
-Las transacciones especiales a que se refiere este número deberán contabilizarse
-
-de la forma dispuesta en el 2 del título II del presente capítulo, a la espera
-
-de instrucciones específicas que imparta esta Superintendencia con motivo de la
-
-consulta que en cada uno de estos casos se le deben formular.
+En ningún caso las instituciones financieras podrán celebrar contratos de "leasing" sobre bienes del activo físico que sean de su propiedad, sea que tales contratos adopten la forma de "lease back" u otra cualquiera que, de algún modo, signifique vender un bien para recibirlo luego en arriendo con opción de compra que se pueda ejercer al término del contrato de arrendamiento o antes de que éste concluya.
 
 ### II. NORMAS CONTABLES
 
