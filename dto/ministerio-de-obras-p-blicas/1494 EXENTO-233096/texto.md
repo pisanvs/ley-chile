@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.494 de 29 de octubre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra: Camino Curicó-Iloca, Rol J-60, Sector Puente Iloca I, km. 120,700 a km. 120,894, que figura a nombre de Ferrada Ferrada Ester, rol de avalúo 167-18, comuna de Licantén, VII Región, superficie 219 m². La comisión de peritos fijó con fecha 9 de junio de 2000, en la cantidad de $2.190.000.- lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
