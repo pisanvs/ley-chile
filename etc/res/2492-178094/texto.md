@@ -1,0 +1,3 @@
+Por resolución Nº 2.492 de 14 de noviembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES ALGUEROS PAZ Y PROGRESO, solicitud Nº 95101071, para instalar y operar un centro de cultivo ubicado en Río San Pedro Nolasco, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 14 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
