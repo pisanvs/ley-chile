@@ -1,0 +1,3 @@
+Por decreto MOP Nº60, de 16 de febrero de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Servicios Sanitarios de Los Lagos S.A., el lote de terreno Nº1, para la obra Mejoramiento Sistema de Agua Potable Pozo Profundo Lago Ranco, que figura a nombre de María Teresa Diestre Gil, rol de avalúo 59-5, superficie 36.0 m²., comuna de Lago Ranco. La Comisión de Peritos, con fecha 24 de noviembre de 2000, fijó la indemnización provisional en la cantidad de $2.017.800, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
