@@ -1,0 +1,3 @@
+Por Resolución N° 682, de 12 de abril de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad de la Resolución N° 888, de 1988, de esta Subsecretaría, que autorizó a don MANUEL HIPOLITO GRAÑAS MEDINA, para desarrollar actividades pesqueras extractivas con la nave "Coruña", por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley N° 18.892 y sus modificaciones.
+
+Valparaíso, 12 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
