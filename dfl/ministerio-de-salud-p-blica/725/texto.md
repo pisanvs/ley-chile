@@ -26,6 +26,10 @@ El Presidente de la República dictará, previo informe del Director General de 
 
 Corresponde al Servicio Nacional de Salud, sin perjuicio de las facultades del Ministerio de Salud Pública, atender todas las materias relacionadas con la salud pública y el bienestar higiénico del país, de conformidad con lo dispuesto en el inciso final del N° 14° del artículo 10° de la Constitución Política del Estado, este Código y su Ley Orgánica.
 
+> **Nota.** La Constitución Política de la República de Chile, aprobada por Decreto 1150, Interior, publicado el 24.10.1980, establece en su Art. 19 N° 9 el derecho a la protección de la salud y, en su N° 8, el derecho a vivir en un medio ambiente libre de contaminación.
+
+> **Nota.** NOTA 1: Véanse el Capítulo I del Decreto ley 2763, Salud, publicado el 03.08.1979, que reorganiza el Ministerio de Salud, y el Decreto 395, Salud, publicado el 23.02.1980, que aprueba el reglamento orgánico de esta Secretaría de Estado.
+
 #### Artículo 4°
 
 A las Municipalidades corresponde atender los asuntos de orden sanitario que le entregan el artículo 105° de la Constitución Política del Estado y las disposiciones de este Código.
@@ -33,6 +37,8 @@ A las Municipalidades corresponde atender los asuntos de orden sanitario que le 
 #### Artículo 5°
 
 Cada vez que el presente Código haga referencia a la autoridad sanitaria, se entenderá por ella el Director General de Salud o las personas en quienes éste delegue sus funciones o atribuciones.
+
+> **Nota.** El Art. 16 del Decreto Ley 2763, Salud, publicado el 03.08.1979, vigente desde el 1° de agosto de 1980 según dispone el Decreto 227, Salud, publicado el 18.06.1980, creó los "Servicios de Salud", fijó su distribución territorial, y estableció que tales Servicios serán los continuadores legales del Servicio Nacional de Salud en sus respectivos territorios, con sus mismos derechos y obligaciones, de acuerdo con las funciones señaladas en el Art. 17 del mismo decreto ley.
 
 #### Artículo 6°
 
@@ -94,6 +100,8 @@ e) establecer plazas, parques o locales públicos de juego o recreo para adultos
 
 f) proveer a la limpieza y conservación de los canales, acequias y bebederos, considerando además las condiciones de seguridad necesarias para prevenir accidentes.
 
+> **Nota.** Véase el Decreto ley 1.480, Salud Pública, publicado el 25 de junio de 1976, que faculta al Director General el Servicio Nacional de Salud para delegar en el Alcalde de la I. Municipalidad de Santiago las facultades que indica. Ver, además, el Art. 18 del Decreto ley 2.763, Salud Pública, publicado el 03.08.1979, en virtud del cual la facultad debe entenderse conferida al Director de Salud correspondiente de la Región Metropolitana, dentro del territorio asignado.
+
 #### Artículo 12°
 
 El Presidente de la República, por intermedio de los Ministerios del Interior y Salud Pública, y a propuesta del Director General de Salud, deberá, estableciendo servicios y obligaciones mínimas, reglamentar la forma cómo las Municipalidades ejercerán las funciones sanitarias que se les encomienden en la presente ley. Todo acto o reglamento municipal que esté en pugna con dichas normas sanitarias es nulo y esta nulidad será declarada por el Presidente de la República.
@@ -101,6 +109,8 @@ El Presidente de la República, por intermedio de los Ministerios del Interior y
 #### Artículo 13°
 
 En caso de negligencia grave de una Municipalidad en el cumplimiento de sus obligaciones sanitarias específicas, sin perjuicio de lo establecido en el artículo 165°, el Presidente de la República podrá transferir, por períodos que no excedan de dos años, el cumplimiento de tales obligaciones al Servicio Nacional de Salud, a costa de la Municipalidad respectiva, con acuerdo previo del Ministerio del Interior.
+
+> **Nota.** La referencia al Art. 165 debe entenderse hecha al Art. 174 del presente Código en virtud de lo dispuesto en el Art. 3° de la Ley N° 18.173, publicada el 15 de noviembre de 1982, que incorporó un nuevo Libro noveno y reenumeró los artículos que quedaron a continuación.
 
 #### Artículo 14°
 
@@ -279,6 +289,8 @@ DE LOS LABORATORIOS DE SALUD PUBLICA
 #### Artículo 42°
 
 El Servicio Nacional de Salud establecerá en los puntos del territorio de la República que sea necesario, los laboratorios indispensables para realizar los análisis e investigaciones que se estimen apropiadas para proteger y mantener la salud pública.
+
+> **Nota.** Véase el Capítulo IV, Arts. 35 a 45, del Decreto Ley 2763, Salud, publicado el 03.08.1979, que crea el Instituto de Salud Pública de Chile "Dr. Eugenio Suárez Herreros", como continuador legal, con todos sus derechos y obligaciones, del ex Servicio Nacional de Salud, en lo referente al ex Instituto Bacteriológico de Chile.
 
 #### Artículo 43°
 
@@ -524,11 +536,15 @@ Antes de poner en explotación las obras mencionadas, ellas deben ser autorizada
 
 El Servicio Nacional de Salud ejercerá la vigilancia sanitaria sobre provisiones o plantas de agua destinadas al uso del hombre, como asimismo de las plantas depuradoras de aguas servidas y de residuos industriales o mineros; podrá sancionar a los responsables de infracciones y en casos calificados, intervenir directamente en la explotación de estos servicios, previo decreto del Presidente de la República.
 
+> **Nota.** Véase el Decreto 735, Salud, publicado el 19.12.1969, que aprueba el Reglamento de los Servicios de Agua destinados al consumo humano.
+
 #### Artículo 73°
 
 Prohíbese descargar las aguas servidas y los residuos industriales o mineros en ríos o lagunas, o en cualquier otra fuente o masa de agua que sirva para proporcionar agua potable a alguna población, para riego o para balneario, sin que antes se proceda a su depuración en la forma que se señale en los reglamentos.
 
 Sin perjuicio de lo establecido en el Libro IX de este Código, la autoridad sanitaria podrá ordenar la inmediata suspensión de dichas descargas y exigir la ejecución de sistemas de tratamientos satisfactorios destinados a impedir toda contaminación.
+
+> **Nota.** La referencia al Libro IX original del Código Sanitario debe entenderse hecha al Libro X en virtud de lo dispuesto en el Art. 3° de la LEY 18173, publicada el 15.11.1982, que incorporó un un nuevo Libro IX y reenumeró el anterior.
 
 #### Artículo 74°
 
@@ -694,6 +710,8 @@ El Servicio Nacional de Salud es la autoridad encargada en todo el territorio na
 
 Un Reglamento contendrá las normas de carácter sanitario sobre producción, fabricación, registro, almacenamiento, tenencia, distribución, venta, importación o exportación y características de los productos farmacéuticos, alimentos de uso médico, cosméticos y productos alimenticios.
 
+> **Nota.** Véase el Decreto 435, Salud, publicado el 22.03.1982, Reglamento del Sistema Nacional de Control de los productos farmacéuticos, alimentos de uso médico y cosméticos; y que establece normas sobre su elaboración, fabricación e importación.
+
 #### Artículo 95°
 
 Los productos a que se refiere el artículo anterior deberán responder en su composición química y características microbiológicas a sus nomenclaturas y a las denominaciones legales y reglamentarias establecidas y, en el caso de los alimentos, además, a sus caracteres organolépticos.
@@ -724,41 +742,19 @@ Se entenderá por cosmético cualquier preparado que se destine a ser aplicado e
 
 #### Artículo 100°
 
-El Ministerio de Salud Pública aprobará, a proposición de la Comisión a que se refiere el artículo siguiente, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país para una eficiente terapéutica. Este Formulario Nacional precisará la forma farmacéutica y dosis de cada medicamento y señalará el uso, limitaciones y peligros de los mismos.
+El Ministerio de Salud Pública aprobará, previo informe de sus Unidades Técnicas Normativas, un Formulario Nacional de Medicamentos que contendrá la nómina de los productos farmacéuticos indispensables en el país para una eficiente terapéutica. Este Formulario Nacional precisará la forma farmacéutica y dosis de cada medicamento y señalará el uso, limitaciones y peligro de los mismos.
 
-El Director General de Salud dispondrá las medidas necesarias para que la población y los Servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
+El Director General de Salud dispondrá las medidas necesarias para que la población y los servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
 
-#### Artículo 101º
+#### Artículo 101°
 
-Una Comisión permanente propondrá al Ministerio de Salud Pública el Formulario Nacional de Medicamentos y sus modificaciones, e informará al Director General de Salud sobre las autorizaciones para importar o fabricar en el país productos farmacéuticos. Esta Comisión estará integrada por:
-
-Dos representantes de la Facultad de Medicina de la Universidad de Chile;
-
-Dos representantes de la Facultad de Química y Farmacia de la Universidad de Chile;
-
-Dos representantes de la Facultad de Odontología de la Universidad de Chile;
-
-Un representante de la Facultad de Medicina Veterinaria de la Universidad de Chile;
-
-Un representante del Colegio Médico de Chile;
-
-Un representante del Colegio de Químicos Farmacéuticos de Chile;
-
-Dos representantes del Servicio Nacional de Salud;
-
-Un representante del Servicio Médico Nacional de Empleados, y
-
-Dos representantes del Consejo de Salud de las Fuerzas Armadas.
-
-Cada miembro titular podrá designar un suplente.
-
-Un Reglamento determinará la forma en que serán designados sus miembros, sus reemplazos, duración y demás condiciones de funcionamiento.
+Derogado.
 
 #### Artículo 102°
 
-Ningún producto farmacéutico o cosmético podrá ser importado o fabricado en el país sin la autorización previa del Director General de Salud, quien deberá solicitar informe a la Comisión a que se refiere el artículo anterior cuando se trate de productos nuevos.
+Ningún producto farmacéutico o cosmético podrá ser importado o fabricado en el país sin la autorización previa del Director General de Salud, quien deberá solicitar informe a las Unidades Técnicas Normativas a que se refiere el artículo 100º cuando se trate de productos nuevos.
 
-Esta misma Comisión informará, de oficio o a petición del Servicio Nacional de Salud, sobre la cancelación de la autorización de fabricación, importación o expendio de aquellos productos que hayan sido desplazados o que convenga suspender su uso.
+Estas mismas Unidades Técnicas informarán, de oficio o a petición del Servicio Nacional de Salud, sobre la cancelación de la autorización de fabricación, importación o expendio de aquellos productos que hayan sido desplazados o que convenga suspender su uso.
 
 Además, para la venta o distribución a cualquier título de los productos farmacéuticos y cosméticos autorizados, se requerirá que éstos sean registrados en el Servicio Nacional de Salud.
 
@@ -774,7 +770,9 @@ La Oficina de Marcas Comerciales del Ministerio de Economía, Fomento y Reconstr
 
 #### Artículo 105°
 
-El Ministerio de Salud Pública, previo informe de la Comisión a que se refiere el artículo 101°, aprobará la o las Farmacopeas que regirán en el país.
+El Ministerio de Salud aprobará la o las farmacopeas que regirán en el país.
+
+> **Nota.** Véase el Decreto 192, Salud, publicado el 18.08.1977, que establece el orden de precedencia de los textos oficiales sobre farmacopea y sus suplementos, que regirán en el país.
 
 #### Artículo 106°
 
@@ -796,7 +794,7 @@ Se entenderá por alimentos o productos alimenticios cualquier substancia o mezc
 
 El Reglamento determinará las tolerancias técnicas admitidas que deberán satisfacer las materias primas destinadas a la elaboración de alimentos.
 
-> **Nota.** Véase la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine.
+> **Nota.** Véanse la LEY 4869, publicada el 04.08.1930, que autoriza al Presidente de la República para declarar obligatoria la pasteurización de la leche en las ciudades que determine y, entre otros, los decretos de Salud N° 18, D.O. 25.02.1976 y N° 181, D.O. de 20.08.1977, en que se hace obligatoria en las comunas que en ellos se señalan.
 
 #### Artículo 109°
 
@@ -822,7 +820,7 @@ DEL EJERCICIO DE LA MEDICINA Y PROFESIONES AFINES
 
 #### Artículo 112°
 
-Sólo podrán desempeñar actividades propias de la medicina, odontología, química y farmacia u otras relacionadas con la conservación y restablecimiento de la salud, quienes poseen el título respectivo otorgado por la Universidad de Chile u otra Universidad reconocida por el Estado y estén habilitados legalmente para el ejercicio de sus profesiones.
+Sólo podrán desempeñar actividades propia de la medicina, odontología, química y farmacia u otras relacionadas con la conservación y restablecimiento de la salud, quienes poseen el título respectivo otorgado por la Universidad de Chile u otra Universidad reconocida por el Estado y estén habilitados legalmente para el ejercicio de sus profesiones.
 
 Asimismo, podrán ejercer profesiones auxiliares de las referidas en el inciso anterior quienes cuenten con autorización del Director General de Salud. Un reglamento determinará las profesiones auxiliares y la forma y condiciones en que se concederá dicha autorización, la que será permanente, a menos que el Director General de Salud, por resolución fundada, disponga su cancelación.
 
@@ -882,15 +880,19 @@ La fabricación y elaboración de productos farmacéuticos sólo se permitirá e
 
 #### Artículo 122°
 
-Ninguna farmacia, droguería o laboratorio de productos farmacéuticos de uso humano podrá instalarse funcionar o trasladarse sin autorización del Servicio Nacional de Salud.
+Ninguna farmacia, droguería o laboratorio de productos farmacéuticos podrá instalarse, funcionar o trasladarse sin autorización del Servicio Nacional de Salud.
 
 Corresponderá a éste, asimismo, la fiscalización de dichos establecimientos.
 
 #### Artículo 123°
 
-La venta al público de los productos farmacéuticos para uso humano sólo podrá hacerse en las farmacias, las cuales deberán ser dirigidas técnicamente por un farmacéutico o químico farmacéutico.
+La venta al público de los productos farmacéuticos para uso humano sólo podrá hacerse en las Farmacias, las que deberán ser dirigidas técnicamente por un Farmacéutico o Químico Farmacéutico.
 
-Sólo los farmacéuticos o químicos-farmacéuticos o las sociedades legalmente constituidas en que figure como socio uno o más de estos profesionales, podrán adquirir o instalar farmacias. En todo caso la farmacia adquirida o instalada por una sociedad deberá ser dirigida técnicamente por alguno de los socios farmacéutico o químico-farmacéutico.
+No obstante y en conformidad a las instrucciones que imparta el Ministerio de Salud, el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de almacenes farmacéuticos. Estos almacenes sólo podrán expender los productos farmacéuticos y demás elementos que determine el reglamento.
+
+Los almacenes farmacéuticos estarán dirigidos por prácticos de farmacia quienes deberán ser autorizados por el Servicio Nacional de Salud, previa comprobación de las condiciones de idoneidad y competencia que determine el decreto supremo reglamentario del Ministerio de Salud.
+
+Sin perjuicio de lo dispuesto en los incisos anteriores, los productos farmacéuticos para uso humano autorizados en el reglamento podrán ser expendidos en otros establecimientos, a cargo de un práctico de farmacia, en la forma y condiciones que determine el reglamento, el que, además, fijará la nómina de dichos productos.
 
 #### Artículo 124°
 
@@ -898,7 +900,7 @@ Los médicos-cirujanos, cirujanos-dentistas y matronas podrán para el ejercicio
 
 #### Artículo 125°
 
-El Servicio Nacional de Salud podrá autorizar la instalación de botiquines para el despacho o venta de productos farmacéuticos y elementos de primeros auxilios que determine el reglamento, en clínicas, maternidades, casas de socorro, campamentos mineros, termas, postas médicas, cuarteles, navíos, cooperativas de consumo y otros establecimientos.
+El Servicio Nacional de Salud podrá autorizar la instalación de botiquines para el despacho o venta de productos farmacéuticos y elementos de primeros auxilios que determine el reglamento, en clínicas, maternidades, casas de socorro, campamentos mineros, termas, postas médicas, cuarteles y navíos.
 
 #### Artículo 126°
 
@@ -972,6 +974,10 @@ Sólo en cementerios legalmente autorizados podrá efectuarse la inhumación de 
 
 Sin embargo, el Director General de Salud podrá autorizar la inhumación temporal o perpetua de cadáveres en lugares que no sean cementerios, en las condiciones que establezca en cada caso.
 
+> **Nota.** Véase el Decreto 357, Salud, publicado el 18.06.1970, que establece el Reglamento General de Cementerios.
+
+> **Nota.** NOTA 1 La Ley 18096, publicada el 25.01.1982, transfiere a las Municipalidades los cementerios situados en sus respectivos territorios comunales, que pertenecen a los Servicios de Salud.
+
 #### Artículo 136°
 
 Sólo el Servicio Nacional de Salud podrá autorizar la instalación y funcionamiento de cementerios, crematorios, casas funerarias y demás establecimientos semejantes. Un Reglamento contendrá las normas que regirán para la instalación y funcionamiento de los mencionados establecimientos y sobre la inhumación, cremación, transporte y exhumación de cadáveres.
@@ -996,7 +1002,9 @@ La obligación de dar sepultura a un cadáver recaerá sobre el cónyuge sobrevi
 
 #### Artículo 141°
 
-Prohíbese inscribir en el Registro Civil las defunciones e inhumaciones de cadáveres si no se justifica previamente las causas del fallecimiento mediante un certificado del médico que lo asistió en la última enfermedad. A falta de éste, corresponderá extender dicho certificado al Servicio Nacional de Salud en las condiciones que determine el Reglamento.
+Prohíbese inscribir en el Registro Civil las defunciones e inhumaciones de cadáveres si no se justifican previamente las causas del fallecimiento mediante un certificado del médico que lo asistió en la última enfermedad. A falta de éste, corresponderá extender dicho certificado al Servicio Nacional de Salud en las condiciones que determine el Reglamento.
+
+> **Nota.** Véase el Decreto 460, Salud Pública, publicado el 18.07.1970, que aprueba el Reglamento sobre extensión de certificado médico de defunción.
 
 #### Artículo 142°
 
@@ -1010,161 +1018,221 @@ Los fallecimientos deberán ser inscritos en el Registro Civil de acuerdo con la
 
 La exhumación, transporte internacional, internación y traslado de una localidad a otra del territorio nacional de cadáveres o restos humanos, sólo podrá efectuarse con autorización del Director General de Salud. Las exhumaciones que decrete la Justicia Ordinaria se exceptúan de esta obligación.
 
-#### Artículo 145°
-
-Podrán ser dedicados a fines de investigación científica y estudios anatomopatológicos los cadáveres de personas cuyos deudos así lo autorizaren, así como también los cadáveres de personas fallecidas en establecimientos asistenciales no reclamados dentro de un plazo prudencial fijado por el Director del establecimiento.
-
 # Libro IX
 
+DEL APROVECHAMIENTO DE ORGANOS, TEJIDOS O PARTES DEL CUERPO DE UN DONANTE VIVO Y DE LA UTILIZACION DE CADAVERES O PARTE DE ELLOS CON FINES CIENTIFICOS O TERAPEUTICOS
+
+#### Artículo 145°
+
+El aprovechamiento de órganos, tejidos o partes del cuerpo de un donante vivo para su injerto o trasplante en otra persona, sólo se permitirá cuando fuere a título gratuito y con fines terapéuticos, y se cumplan, además, los siguientes requisitos:
+
+1.- Que el donante sea legalmente capaz. No obstante, podrá efectuar estas donaciones la mujer casada en régimen de sociedad conyugal, siempre que sea mayor de edad, y
+
+2.- Que el donante, previamente informado, deje constancia en un acta firmada ante el director del establecimiento hospitalario donde se va a efectuar el trasplante, de su voluntad de efectuar la donación. El acta será también suscrita por el médico que informe al donante sobre los riesgos que corre con motivo del trasplante. El reglamento señalará las materias esenciales que deba contener dicha información, de la que se dejará, asimismo, constancia en el acta.
+
+#### Artículo 146°
+
+Toda persona legalmente capaz y las mujeres casadas en régimen de sociedad conyugal que sean mayores de edad, tienen derecho a disponer de su cadáver o de partes de él con el objeto de que sea utilizado en fines de investigación científica, para la docencia universitaria, para la elaboración de productos terapéuticos o en la realización de injertos.
+
+También podrá destinarlo para trasplantes de órganos con fines terapéuticos.
+
+El donante manifestará su voluntad por escrito, pudiendo revocarla en la misma forma, todo ello de conformidad con las solemnidades que señale el reglamento. Estas donaciones se inscribirán en un registro que, para los efectos de este artículo, llevará el Ministerio de Salud el que dará información periódica de las inscripciones a todos los establecimientos a que se refiere el artículo 129, que lo soliciten.
+
+#### Artículo 147°
+
+Los cadáveres de personas fallecidas en establecimientos hospitalarios públicos o privados, o que se encuentren en establecimientos del Servicio Médico Legal, que no fueren reclamados dentro del plazo que señale el reglamento, podrán ser destinados a estudios e investigación científica, y sus órganos y tejidos, destinados a la elaboración de productos terapéuticos y a la realización de injertos.
+
+Podrán ser destinados a los mismos fines cuando el cónyuge o, a falta de éste, los parientes en primer grado de consanguinidad en la línea recta o colateral no manifestaren su oposición dentro del plazo y en la forma que señale el reglamento.
+
+#### Artículo 148°
+
+Podrán también destinarse a trasplantes con fines terapéuticos los órganos de cadáveres de personas cuyo cónyuge o, a falta de éste, los parientes en el orden señalado en el artículo 42 del Código Civil, otorguen autorización en un acta suscrita ante el director del establecimiento hospitalario donde hubiere ocurrido el fallecimiento.
+
+#### Artículo 149°
+
+Para los efectos de lo previsto en el inciso segundo del artículo 146 y en el precedente, la muerte se acreditará mediante certificación médica otorgada por dos facultativos, uno de los cuales, al menos, deberá desempeñarse en el campo de la neurología o neurocirugía.
+
+Los facultativos que otorguen la certificación no podrán formar parte del equipo que realice el trasplante.
+
+Sólo podrá otorgarse la certificación cuando se haya comprobado la abolición total e irreversible de todas las funciones encefálicas, lo que se acreditará mediante la certeza diagnóstica de la causa del mal y, a lo menos, dos evidencias electroencefalográficas, en la forma que señale el reglamento. Este podrá, además, indicar procedimientos adicionales para certificar la muerte.
+
+En estos casos, al certificado de defunción expedido por el médico se agregará un documento en que se dejará constancia de los antecedentes que permitieron acreditar la muerte.
+
+#### Artículo 150°
+
+No será aplicable a las donaciones de que trata este Libro lo dispuesto en los artículos 1137 a 1146 del Código Civil.
+
+#### Artículo 151°
+
+Cuando una persona hubiere fallecido en alguno de los casos indicados en el artículo 121 del Código de Procedimiento Penal o cuando su muerte hubiere dado lugar a un proceso penal, será necesaria la autorización judicial para destinar el cadáver a cualquiera de las finalidades previstas en este título, además del cumplimiento de los otros requisitos.
+
+#### Artículo 152°
+
+Será nulo y sin ningún valor el acto o contrato que, a título oneroso, contenga la promesa o entrega de un órgano o parte del cuerpo humano para efectuar un trasplante.
+
+#### Artículo 153°
+
+Las placentas y otros órganos y tejidos que determine el reglamento podrán destinarse a la elaboración de productos terapéuticos y a otros usos que el mismo reglamento indique.
+
+#### Artículo 154°
+
+Las disposiciones de este Libro no se aplicarán a las donaciones de sangre ni a las de otros tejidos que señale el reglamento.
+
+# Libro X
+
 DE LOS PROCEDIMIENTOS Y SANCIONES
+
+> **Nota.** Este Libro, que era el noveno en el Código original, ha pasado a ser "Libro Décimo", por disposición del Art. 3 de la LEY 18173, publicada el 15.11.1982. Dicha norma dispone el cambio en la numeración de su articulado, pasando el artículo 146 a ser 155, y correlativamente los siguientes.
 
 ## Título I
 
 DE LA INSPECCION Y ALLANAMIENTO
 
-#### Artículo 146°
+#### Artículo 155°
 
-Para la debida aplicación del presente Código y de sus reglamentos, decretos y resoluciones del Director General de Salud, la autoridad sanitaria podrá practicar la inspección y registro de cualquier sitio, edificio, casa, local y lugares de trabajo, sean públicos o privados.
+(146).- Para la debida aplicación del presente Código y de sus reglamentos, decretos y resoluciones del Director General de Salud, la autoridad sanitaria podrá practicar la inspección y registro de cualquier sitio, edificio, casa, local y lugares de trabajo, sean públicos o privados.
 
 Cuando se trate de edificio o lugares cerrados, deberá procederse a la entrada y registro previo decreto de allanamiento del Director General de Salud, con el auxilio de la fuerza pública si fuere necesario.
 
-#### Artículo 147°
+#### Artículo 156°
 
-Estas actuaciones serán realizadas por funcionarios del Servicio Nacional de Salud. Cuando con ocasión de ellas se constatare una infracción a este Código o a sus reglamentos, se levantará acta dejándose constancia de los hechos materia de la infracción.
+(147).- Estas actuaciones serán realizadas por funcionarios del Servicio Nacional de Salud. Cuando con ocasión de ellas se constatare una infracción a este Código o a sus reglamentos, se levantará acta dejándose constancia de los hechos materia de la infracción.
 
 El acta deberá ser firmada por el funcionario que practique la diligencia, el que tendrá el carácter de ministro de fe.
 
-#### Artículo 148°
+#### Artículo 157°
 
-En los casos de allanamiento, se notificará al dueño o arrendatario del lugar o edificio en que hubiere de practicarse la diligencia, o al encargado de su conservación o custodia.
+(148).- En los casos de allanamiento, se notificará al dueño o arrendatario del lugar o edificio en que hubiere de practicarse la diligencia, o al encargado de su conservación o custodia.
 
 Si no es habida alguna de las personas expresadas, la notificación se hará a cualquier persona mayor de edad que se halle en dicho lugar o edificio; si no se encontrare a nadie, se hará constar esta circunstancia en el acta que se levantará al efecto.
 
-#### Artículo 149°
+#### Artículo 158°
 
-Practicadas las diligencias prescritas en el artículo anterior se procederá a la entrada y registro, para cuyo efecto se invitará al dueño, arrendatario o persona encargada a presenciar el acto. Si dichas personas estuvieren impedidas o ausentes, la invitación se hará a un miembro adulto de su familia, o en su defecto, a cualquier persona.
+(149).- Practicadas las diligencias prescritas en el artículo anterior se procederá a la entrada y registro, para cuyo efecto se invitará al dueño, arrendatario o persona encargada a presenciar el acto. Si dichas personas estuvieren impedidas o ausentes, la invitación se hará a un miembro adulto de su familia, o en su defecto, a cualquier persona.
 
 Todos los concurrentes que pudieran, firmarán el acta que al efecto se levantare, la que contendrá el inventario de los bienes que se recojan y se dará copia al interesado, si la solicitare.
 
-#### Artículo 150°
+#### Artículo 159°
 
-Si durante la inspección o registro o allanamiento se comprobará una infracción a la ley o reglamentos y se encontraren los elementos que hubieren servido para cometerla, podrán ser éstos trasladados a los depósitos o almacenes del Servicio Nacional de Salud o cerrarse y sellarse la parte del local y de los muebles en que se hubieren encontrado, mientras resuelve la autoridad sanitaria.
+(150).- Si durante la inspección o registro o allanamiento se comprobara una infracción a la ley o reglamentos y se encontraren los elementos que hubieren servido para cometerla, podrán ser éstos trasladados a los depósitos o almacenes del Servicio Nacional de Salud o cerrarse y sellarse la parte del local y de los muebles en que se hubieren encontrado, mientras resuelve la autoridad sanitaria.
 
-#### Artículo 151°
+#### Artículo 160°
 
-A fin de comprobar el correcto cumplimiento de las disposiciones del presente Código y sus reglamentos, el Servicio Nacional de Salud podrá, previo recibo y sin necesidad de pago, retirar de las aduanas y de los sitios en que se elaboren, distribuyan o expendan, aquellas muestras que fuere necesario examinar.
+(151).- A fin de comprobar el correcto cumplimiento de las disposiciones del presente Código y sus reglamentos, el Servicio Nacional de Salud podrá, previo recibo y sin necesidad de pago, retirar de las aduanas y de los sitios en que se elaboren, distribuyan o expendan, aquellas muestras que fuere necesario examinar.
 
 ## Título II
 
 DEL SUMARIO SANITARIO
 
-#### Artículo 152°
-
-Los sumarios que se instruyan por infracciones al presente Código y a sus reglamentos, decretos o resoluciones del Director General de Salud, podrán iniciarse de oficio o por denuncia de particulares.
-
-#### Artículo 153°
-
-La autoridad sanitaria, tendrá autoridad suficiente, para investigar y tomar declaraciones necesarias en el esclarecimiento de los hechos relacionados con las leyes, reglamentos y resoluciones sanitarias.
-
-#### Artículo 154°
-
-Cuando se trate de sumarios iniciados de oficio, deberá citarse al infractor después de levantada el acta respectiva. La persona citada deberá concurrir el día y horas que se señale, con todos sus medios probatorios. En caso de inasistencia, tendrá lugar lo dispuesto en el artículo 158° del presente Código.
-
-#### Artículo 155°
-
-Cuando se trate de sumarios iniciados por denuncia de particulares, la autoridad sanitaria citará al posible infractor, así como al denunciante, y examinará separadamente a los testigos y demás medios probatorios que se le presenten, levantando acta de lo obrado ante dos personas, y se practicará las investigaciones necesarias para el esclarecimiento de los hechos denunciados.
-
-#### Artículo 156°
-
-Las notificaciones que sea menester practicar se harán por funcionarios del Servicio Nacional de Salud o de Carabineros, quienes procederán con sujeción a las instrucciones que se impartan, dejando testimonio escrito de su actuación.
-
-#### Artículo 157°
-
-Bastará para dar por establecido la existencia de una infracción a las leyes y reglamentos sanitarios el testimonio de dos personas contestes en el hecho y en sus circunstancias esenciales; o el acta que levante el funcionario del Servicio al comprobarla.
-
-#### Artículo 158°
-
-Establecida la infracción, la autoridad sanitaria dictará sentencia sin más trámite.
-
-#### Artículo 159°
-
-Los infractores a quienes se les aplicare multa deberán acreditar su pago ante la autoridad sanitaria que los sancionó, dentro del plazo de cinco días hábiles contados desde la notificación de la sentencia.
-
-#### Artículo 160°
-
-Si transcurrido el plazo señalado en el artículo anterior, el infractor no hubiere pagado la multa, sufrirá, por vía de sustitución y apremio, un día de prisión por cada vigésimo de un sueldo vital mensual para los empleados de la Industria y el Comercio del Departamento de Santiago que comprenda dicha multa.
-
-Para llevar a cabo esta medida, el Director General de Salud solicitará del Intendente o Gobernador respectivo el auxilio de la fuerza pública, quienes dispondrán sin más trámite la detención del infractor y su ingreso al establecimiento penal respectivo, a cuyo efecto librarán la orden correspondiente en conformidad a las reglas generales, dando cuenta de lo obrado a la autoridad sanitaria.
-
 #### Artículo 161°
 
-La clausura y demás medidas sanitarias ordenadas en la sentencia, no podrán dejarse sin efecto o suspenderse a menos que el Director General de Salud así lo ordenare, o que lo dispusiera la justicia ordinaria al fallar por sentencia definitiva ejecutoriada o que cause ejecutoria, la reclamación que se interponga.
+(152).- Los sumarios que se instruyan por infracciones al presente Código y a sus reglamentos, decretos o resoluciones del Director General de Salud, podrán iniciarse de oficio o por denuncia de particulares.
 
 #### Artículo 162°
 
-De las sanciones aplicadas por el Servicio Nacional de Salud podrá reclamarse ante la justicia ordinaria civil, dentro de los cinco días hábiles siguientes a la notificación de la sentencia, reclamo que tramitará en forma breve y sumaria. Para dar curso a ellos se exigirá que el infractor acompañe el comprobante de haber pagado la multa.
-
-El tribunal desechará la reclamación si los hechos que hayan motivado la sanción se encuentren comprobados en el sumario sanitario de acuerdo a las normas del presente Código, si tales hechos constituyen efectivamente una infracción a las leyes o reglamentos sanitarios y si la sanción aplicada es la que corresponde a la infracción cometida.
+(153).- La autoridad sanitaria, tendrá autoridad suficiente, para investigar y tomar declaraciones necesarias en el esclarecimiento de los hechos relacionados con las leyes, reglamentos y resoluciones sanitarias.
 
 #### Artículo 163°
 
-Las sentencias que dicte la autoridad sanitaria podrán cumplirse no obstante encontrarse pendiente la reclamación a que se refiere el artículo anterior, sin perjuicio de la que por sentencia definitiva ejecutoriada o que cause ejecutoria resuelva la justicia ordinaria al pronunciarse sobre aquella.
+(154).- Cuando se trate de sumarios iniciados de oficio, deberá citarse al infractor después de levantada el acta respectiva. La persona citada deberá concurrir el día y horas que se señale, con todos sus medios probatorios. En caso de inasistencia, tendrá lugar lo dispuesto en el artículo 158 del presente Código.
+
+> **Nota.** El Art. 158 del presente código, a que se hace referencia, ha pasado a ser Art. 167 en virtud de lo dispuesto en el Art. 3° de la Ley 18173, publicada el 15.11.1982.
 
 #### Artículo 164°
 
-En todos los procedimientos judiciales a que diere lugar la aplicación del presente Código, el Servicio Nacional de Salud gozará de privilegio de pobreza y estará exento de hacer las consignaciones que ordena la ley.
+(155).- Cuando se trate de sumarios iniciados por denuncia de particulares, la autoridad sanitaria citará al posible infractor, así como al denunciante, y examinará separadamente a los testigos y demás medios probatorios que se le presenten, levantando acta de lo obrado ante dos personas, y se practicará las investigaciones necesarias para el esclarecimiento de los hechos denunciados.
+
+#### Artículo 165°
+
+(156).- Las notificaciones que sea menester practicar se harán por funcionarios del Servicio Nacional de Salud o de Carabineros, quienes procederán con sujeción a las instrucciones que se impartan, dejando testimonio escrito de su actuación.
+
+#### Artículo 166°
+
+(157).- Bastará para dar por establecido la existencia de una infracción a las leyes y reglamentos sanitarios el testimonio de dos personas contestes en el hecho y en sus circunstancias esenciales; o el acta, que levante el funcionario del Servicio al comprobarla.
+
+#### Artículo 167°
+
+(158).- Establecida la infracción, la autoridad sanitaria dictará sentencia sin más trámite.
+
+#### Artículo 168°
+
+(159).- Los infractores a quienes se les aplicare multa deberán acreditar su pago ante la autoridad sanitaria que los sancionó, dentro del plazo de cinco días hábiles contado desde la notificación de la sentencia.
+
+#### Artículo 169°
+
+(160).- Si transcurrido el plazo señalado en el artículo anterior, el infractor no hubiere pagado la multa, sufrirá, por vía de sustitución y apremio, un día de prisión por cada vigésimo de un sueldo vital mensual para los empleados de la Industria y el Comercio del Departamento de Santiago que comprenda dicha multa.
+
+Para llevar a cabo esta medida, el Director General de Salud solicitará del Intendente o Gobernador respectivo el auxilio de la fuerza pública, quienes dispondrán sin más trámite la detención del infractor y su ingreso al establecimiento penal respectivo, a cuyo efecto librarán la orden correspondiente en conformidad a las reglas generales, dando cuenta de lo obrado a la autoridad sanitaria.
+
+#### Artículo 170°
+
+(161).- La clausura y demás medidas sanitarias ordenadas en la sentencia, no podrán dejarse sin efecto o suspenderse a menos que el Director General de Salud así lo ordenare, o que lo dispusiera la justicia ordinaria al fallar por sentencia definitiva ejecutoriada o que cause ejecutoria, la reclamación que se interponga.
+
+#### Artículo 171°
+
+(162).- De las sanciones aplicadas por el Servicio Nacional de Salud podrá reclamarse ante la justicia ordinaria civil, dentro de los cinco días hábiles siguientes a la notificación de la sentencia, reclamo que tramitará en forma breve y sumaria. Para dar curso a ellos se exigirá que el infractor acompañe el comprobante de haber pagado la multa.
+
+El tribunal desechará la reclamación si los hechos que hayan motivado la sanción se encuentren comprobados en el sumario sanitario de acuerdo a las normas del presente Código, si tales hechos constituyen efectivamente una infracción a las leyes o reglamentos sanitarios y si la sanción aplicada es la que corresponde a la infracción cometida.
+
+#### Artículo 172°
+
+(163).- Las sentencias que dicte la autoridad sanitaria podrán cumplirse no obstante encontrarse pendiente la reclamación a que se refiere el artículo anterior, sin perjuicio de lo que por sentencia definitiva ejecutoriada o que cause ejecutoria resuelva la justicia ordinaria al pronunciarse sobre aquélla.
+
+#### Artículo 173°
+
+(164).- En todos los procedimientos judiciales a que diere lugar la aplicación del presente Código, el Servicio Nacional de Salud gozará de privilegio de pobreza y estará exento de hacer las consignaciones que ordena la ley.
 
 ## Título III
 
 DE LAS SANCIONES Y MEDIDAS SANITARIAS
 
-#### Artículo 165°
+#### Artículo 174°
 
-La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicte el Director General de Salud, salvo las disposiciones que tengan una sanción especial, serán castigadas con multa de un vigésimo de sueldo vital mensual hasta dos sueldos vitales anuales que rija para los empleados de la Industria y del Comercio en el departamento de Santiago. Las reincidencias serán sancionadas con el doble de la multa impuesta.
+(165).- La infracción de cualquiera de las disposiciones de este Código o de sus reglamentos y de las resoluciones que dicte el Director General de Salud, salvo las disposiciones que tengan una sanción especial, serán castigadas con multa de un vigésimo de sueldo vital mensual hasta dos sueldos vitales anuales que rija para los empleados de la Industria y del Comercio en el departamento de Santiago. Las reincidencias serán sancionadas con el doble de la multa impuesta.
 
 Las infracciones antes señaladas podrán ser sancionadas, además, con la clausura de establecimientos, edificios, casas, locales, lugares de trabajo donde se cometiere la infracción; con la cancelación de la autorización de funcionamiento o de los permisos concedidos; con la paralización de obras; con el comiso, destrucción y desnaturalización de productos, cuando proceda.
 
-#### Artículo 166°
+#### Artículo 175°
 
-En los casos en que la sanción consista en la cancelación de la autorización de funcionamiento o de los permisos concedidos, el Servicio Nacional de Salud comunicará este hecho a la Municipalidad respectiva para que proceda a cancelar la correspondiente patente.
+(166).- En los casos en que la sanción consista en la cancelación de la autorización de funcionamiento o de los permisos concedidos, el Servicio Nacional de Salud comunicará este hecho a la Municipalidad respectiva para que proceda a cancelar la correspondiente patente.
 
-#### Artículo 167°
+#### Artículo 176°
 
-Los auxilios en especie, tales como medicamentos, alimentos terapéuticos o suplementarios, que el Servicio Nacional de Salud entregue a la población en cumplimiento de sus programas, no podrán ser comercializados por quienes los reciben.
+(167).- Los auxilios en especie, tales como medicamentos, alimentos terapéuticos o suplementarios, que el Servicio Nacional de Salud entregue a la población en cumplimiento de sus programas, no podrán ser comercializados por quienes los reciben.
 
-Sin perjuicio de la sanción que corresponda al beneficiario que infringiere esta disposición, serán especialmente sancionados quienes adquieran el producto directamente de aquel o de un tercero, a cualquier título, y quienes, sin tener derecho a él, lo tengan en su poder.
+Sin perjuicio de la sanción que corresponda al beneficiario que infringiere esta disposición, serán especialmente sancionados quienes adquieran el producto directamente de aquél o de un tercero, a cualquier título, y quienes, sin tener derecho a él, lo tengan en su poder.
 
-#### Artículo 168°
+#### Artículo 177°
 
-El Director General de Salud podrá, cuando se trate de una primera infracción y aparecieren antecedentes que lo justifiquen, apercibir y amonestar al infractor, sin aplicar la multa y demás sanciones, exigiendo que se subsanen los defectos que dieron origen a la infracción, dentro del plazo que se señale.
+(168).- El Director General de Salud podrá, cuando se trate de una primera infracción y aparecieren antecedentes que lo justifiquen, apercibir y amonestar al infractor, sin aplicar la multa y demás sanciones, exigiendo que se subsanen los defectos que dieron origen a la infracción, dentro del plazo que se señale.
 
-#### Artículo 169°
+#### Artículo 178°
 
-La autoridad podrá también, como medida sanitaria, ordenar en casos justificados la clausura, prohibición de funcionamiento de casas, locales o establecimientos, paralización de faenas, decomiso, destrucción y desnaturalización de productos.
+(169).- La autoridad podrá también, como medida sanitaria, ordenar en casos justificados la clausura, prohibición de funcionamiento de casas, locales o establecimientos, paralización de faenas, decomiso, destrucción y desnaturalización de productos.
 
 Estas medidas podrán ser impuestas por el ministro de fe, con el solo mérito del acta levantada, cuando exista un riesgo inminente para la salud, de lo que deberá dar cuenta inmediata a su jefe directo. Copia del acta deberá ser entregada al interesado.
 
-#### Artículo 170°
+#### Artículo 179°
 
-Las multas que se impongan por infracción a las disposiciones del presente Código y sus reglamentos o a las resoluciones del Director General de Salud, serán a beneficio del Servicio Nacional de Salud y no estarán afectas al recargo establecido por la ley 10.309. Las multas deberán integrarse directamente al organismo local de salud, que las aplicó.
+(170).- Las multas que se impongan por infracción a las disposiciones del presente Código y sus reglamentos o a las resoluciones del Director General de Salud, serán a beneficio del Servicio Nacional de Salud y no estarán afectas al recargo establecido por la ley N° 10.309. Las multas deberán integrarse directamente al organismo local de salud que las aplicó.
 
-#### Artículo 171°
+#### Artículo 180°
 
-Todos los objetos decomisados por el Servicio Nacional de Salud en virtud de las facultades que le confiere el presente Código, se destinarán a beneficio de esa Institución o, los destruirá, cuando proceda.
+(171).- Todos los objetos decomisados por el Servicio Nacional de Salud en virtud de las facultades que le confiere el presente Código, se destinarán a beneficio de esa Institución o, los destruirá, cuando proceda.
 
-No obstante, el Servicio podrá dejar los mencionados objetos en poder de su dueño siempre que puedan ser desnaturalizados y empleados en otros fines sin riesgo para la salud pública. En este caso el interesado deberá cumplir todas las exigencias que le formule el Servicio.
+No obstante, el Servicio podrá dejar los mencionados objetos en poder de su dueño siempre que puedan ser desnaturalizados y empleados en otro fines sin riesgo para la salud pública. En este caso el interesado deberá cumplir todas las exigencias que le formule el Servicio.
 
 Las especies que atendida su naturaleza o el estado en que se encuentren no deban ser destruidas, ni sean útiles a la Institución y respecto de las cuales no se haya aplicado el inciso anterior, deberán subastarse por intermedio de la Dirección General del Crédito Prendario y de Martillo y su producido ingresará a fondos generales del Servicio Nacional de Salud.
 
-#### Artículo 172°
+#### Artículo 181°
 
-Las especies decomisadas con ocasión de un delito contra la salud pública se destinarán también al Servicio Nacional de Salud, el que dispondrá de ellas en las mismas condiciones señaladas en el artículo anterior.
+(172).- Las especies decomisadas con ocasión de un delito contra la salud pública se destinarán también al Servicio Nacional de Salud, el que dispondrá de ellas en las mismas condiciones señalada en el artículo anterior.
 
-Los estupefacientes incautados con ocasión de un proceso criminal que no puedan ser objeto de la sanción señalada en el artículo 31° del Código Penal, por haber terminado el respectivo proceso en sobreseimiento o sentencia absolutoria, se destinarán al Servicio Nacional de Salud, a menos que la persona en cuyo poder se encontró la especie acredite su legítima adquisición con la correspondiente autorización para poseerla y usarla de acuerdo a este Código y sus reglamentos.
+Los estupefacientes incautados con ocasión de un proceso criminal que no puedan ser objeto de la sanción señalada en el artículo 31 del Código Penal, por haber terminado el respectivo proceso en sobreseimiento o sentencia absolutoria, se destinarán al Servicio Nacional de Salud, a menos que la persona en cuyo poder se encontró la especie acredite su legítima adquisición con la correspondiente autorización para poseerla y usarla de acuerdo a este Código y sus reglamentos.
 
-#### Artículo 173°
+#### Artículo 182°
 
-Derógase el decreto con fuerza de ley 226, de 15 de Mayo de 1931 y sus modificaciones posteriores.
+(173).- Derógase el decreto con fuerza de ley N° 226, de 15 de mayo de 1931, y sus modificaciones posteriores.
 
 Los reglamentos preexistentes que versen sobre las materias que en este Código se tratan quedan derogados sólo en la parte que le fueren contrarios.
 
