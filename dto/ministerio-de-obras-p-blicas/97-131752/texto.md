@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 97, de 29 de abril de 1988, se expropió el lote No. 2, superficie 476 M2., rol de avalúo 150-21, Comuna de Quinchao, para la obra Ampliación de la Fuente de Abastecimiento de Agua Potable de Achao, Segunda Etapa y se acordó el precio de indemnización con su propietario don Carlos Aladino Gallegos y otro, ascendente a la cantidad de $ 47.543.
+
+- Fiscal del Ministerio de Obras Públicas.
