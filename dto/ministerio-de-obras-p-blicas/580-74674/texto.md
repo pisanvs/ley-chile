@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 580, de 30 de junio de 1997, se expropiaron los lotes de terreno Nºs. 272 y 274, superficies 16.821 m2. y 9.188 m2., rol de avalúo 1281-39, comuna de Penco, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Omar Pérez Pérez y otro, ascendente a las cantidades de $2.991.854.- y $9.528.840.-
+
+Fiscal del Ministerio de Obras Públicas.
