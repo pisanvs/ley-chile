@@ -1,0 +1,79 @@
+APRUEBA TABLA QUE INDICA, PARA LOS EFECTOS QUE SEÑALA
+
+Santiago, 28 de Agosto de 1986.- Hoy se resolvió lo que sigue
+
+Núm. 190.- Visto: El DS No. 74, (V. y U.), de 1984, y sus modificaciones, que regula el otorgamiento de Subsidio Habitacional para el Sistema de Ahorro y Financiamiento de la Vivienda, y en especial lo dispuesto en sus artículos 6, 12 y 13; la Resolución Exenta No. 1.791, de 1986, modificada y complementaria por la Resolución Exenta No. 2.147, de 1986, y Considerando: a) Que conforme al artículo 13 del DS No. 74, (V. y U.), de 1984, mediante resoluciones del Ministro de Vivienda y Urbanismo se aprobará la tabla que se confeccione para cada tramo, monto y plazo de préstamo, en que se fijen los porcentajes de valor par de las letras de crédito que se obliga a enterar el Ministerio de Vivienda y Urbanismo, cuando se obtenga un producido menor en la venta de dichas letras en la Bolsa de Comercio, cumpliéndose con las condiciones y formalidades que se establecen en dicho reglamento;
+
+b) Que la misma disposición establece que para la confección de la tabla aludida, se atenderá a la diferencia existente a la fecha de postulación entre la tasa de interés nominal del tipo de letras correspondientes al préstamo indicado por el postulante y la tasa interna de retorno promedio ponderado, observada en la Bolsa de Comercio para ese tipo de letras durante el mes anterior al de la postulación, con un subsidio implícito de un monto máximo de 130 Unidades de Fomento para cada operación:
+
+c) Que el mismo artículo 13 del reglamento citado previene que, a falta de transacciones de ese tipo de letras, podr utilizarse otro método de cálculo para la confección de la tabla antes mencionada, el cual deberá ser aprobado por resoluciones del Ministro de Vivienda y Urbanismo, conjuntamente con la tabla respectiva;
+
+d) Que de acuerdo al inciso segundo del artículo 12 del DS No. 74, (V. y U.), de 1984, estos créditos se otorgarán en Unidades de Fomento o en Indice de Valor Promedio, a un plazo de 12, 15 ó 20 años y con un interés máximo efectivo a los beneficiarios del 8%, del 9% o del 10% anual, siendo ambas condiciones a elección del mutuario, las que deberán estipularse en los respectivos instrumentos de mutuo hipotecario, y se financiarán mediante la emisión de letras de crédito de tasa de interés nominal no inferior al 5 %, no pudiendo la respectiva institución crediticio cobrar una comisión que exceda del 3% anual, lo que permite el otorgamiento de créditos con una amplia gama de tasas de interés nominal
+
+e) Que para el llamado a inscripción para la octava oportunidad de postulación y para los cupos disponibles que restaren una vez efectuada la selección correspondiente a la octava oportunidad de postulación, formulado por resolución exenta No. 1.791, de este Ministerio, publicada en el Diario Oficial del 14 de Junio de 1986, modificada y complementado por resolución exenta No. 2.147, de este Ministerio, publicada en el Diario Oficial del 18 de julio de 1986, corresponde considerar para los efectos señalados precedentemente, las transacciones de letras de crédito efectuadas en la Bolsa de Comercio durante el mes de Julio de 1986;
+
+f) Que por la circunstancia señalada en la letra d) anterior, para la octava oportunidad y para el llamado a cupos disponibles indicado, se ha estimado conveniente aprobar la Tabla que fije los porcentajes de valor par de las letras de crédito que se obliga a enterar este Ministerio en la forma indicada en el considerando a) de esta resolución, solo para el caso de letras de créditos otorgados en Unidades de Fomento, a un plazo de 12, 15 ó 20 años, con una tasa de interés nominal de la letra del 5% y aprobar, en esta misma resolución el procedimiento que se adoptará en aquellos casos en que los créditos se otorguen en Unidades de Fomento, a un plazo de 12, 15 ó 20 años, pero a una tasa de interés nominal superior al 5% anual, o en Indice de Valor Promedio a un plazo de 12, 15 ó 20 años y a una tasa de interés nominal igual o superior al 5% anual;
+
+g) Que en los Boletines Bursátiles Diarios, editados por la Bolsa de Comercio de Santiago, en que se reflejan las transacciones efectuadas durante el mes de Julio de 1986, en algunos casos aparecen letras de crédito de características similares a aquéllas a las que se refiere el DS No. 74, (V. y U.), de 1984 (por ejemplo, créditos otorgados en Unidades de Fomento, a un plazo de 12, 15 ó 20 años, con una tasa de interés nominal de la letra del 5%); en tanto que en otros casos, no aparecen transacciones de ese tipo (por ejemplo, créditos obligados en Unidades de Fomento, a un plazo de 20 años, con una tasa de interés nominal de la letra del 6% ), por lo que es necesario utilizar otro método de cálculo, conforme lo indica el considerado c) de esta resolución;
+
+h) Que en conformidad a la frase agregada por el número 9 del artículo único del DS No. 105, (V. y U.), de 1985, al inciso primero del artículo 12 del DS No. 74, (V. y U.), de 1985, es conveniente diferenciar claramente el monto nominal de los créditos que se otorguen, del monto máximo o valor residual que efectivamente reciba el postulante, no pudiendo exceder este último del equivalente a 500 Unidades de Fomento si el postulante hubiere optado al tramo A, o del equivalente a 1.000 Unidades de Fomento si hubiere optado al tramo B, dicto la siguiente
+
+Resolución:
+
+1°.- Apruébase la siguiente tabla de porcentajes de valor par cuya diferencia se obliga a enterar el Ministerio de Vivienda y Urbanismo, cuando se obtenga un producido menor en la venta, en la Bolsa de Comercio, de las letras de crédito emitidas en llamado a postulación dispuesto por Resolución Exenta N 1.791, en la forma modificada y complementada por Resolución Exenta No. 2.147, ambas de este Ministerio, de 1986, cuando esos créditos se financien mediante la emisión de letras de crédito expresadas en Unidades de Fomento, de tasa de interés nominal del 5% anual:
+
+(VER D.O. 20 09 1986 PAG. 5)
+
+2°.- Cuando se pacten créditos con beneficiarios del Subsidio Habitacional para el Sistema de Ahorro y Financiamiento de la Vivienda, correspondientes al llamado a postulación dispuesto por Resolución Exenta No. 1.791, en la forma modificada y complementada por Resolución Exenta No.
+
+2.147, ambas de este Ministerio, de 1986, a una tasa de interés nominal superior al 5%, que cumplan con los requisitos y condiciones reglamentarias respectivas, se utilizará el siguiente mecanismo de cálculo para determinar el porcentaje de valor par cuya diferencia se obliga a enterar el Ministerio de Vivienda y Urbanismo cuando se obtenga un producido menor en la venta, en la Bolsa de Comercio, de las letras de crédito emitidas en conformidad a lo dispuesto en el DS No. 74, (V. y U.), de 1984, según sea el caso:
+
+a) Si en los Boletines Bursátiles Diarios editados por la Bolsa de Comercio de Santiago, en que se reflejan las transacciones efectuadas en el mes de Julio de 1986, aparecen vendidas letras de crédito expresadas en Unidades de Fomento, de características similares, en cuanto a su plazo y tasa de interés nominal, a aquéllas que se hubieren emitido para financiar el crédito cuyo cobro de diferencia se formula, se utilizará un procedimiento de cálculo similar a aquel empleado para determinar la tabla inserta en el número 1° de esta resolución, pero considerando la información referente a las letras de esa unidad de pactación, de plazo y tasa de interés nominal correspondientes a cada caso y,
+
+b) Si en los Boletines Bursátiles Diarios editados por la Bolsa de Comercio de Santiago, en que se reflejan las transacciones efectuadas en el mes de Julio de 1986, no aparecen vendidas letras de crédito expresadas en Unidades de Fomento, de caractesísticas similares en cuanto a su plazo y tasa de interés nominal, a aquéllas que se hubieren emitido para financiar el crédito cuyo cobro de diferencia se formule, se utilizar el siguiente método de calculo:
+
+b.1) Préstamos a 12 años plazo, pactados en Unidades de Fomento:
+
+Se calculará la tasa interna de retorno promedio ponderada de las transacciones de letras de crédito correspondientes a préstamos pactados a 12 años plazo, expresados en Unidades de Fomento, que ganan un interés nominal más cercano a aquél establecido para las letras cuyo cobro de diferencia se formula, incluyéndose para estos efectos todas las transacciones de este tipo de letras que aparezcan publicadas en los Boletines Bursátiles Diarios, editados por la Bolsa de Comercio de Santiago, correspondientes a transacciones efectuadas durante el mes de Julio de 1986.
+
+Si en dichos Boletines aparecen transacciones de letras tanto para un interés superior, como para uno inferior más cercano, se elegirá aquel en que en dicho mes de Julio de 1986 aparezca un mayor volumen de Unidades de Fomento tramadas y, en caso que este volumen fuere igual, se elegirén las transacciones correspondientes al interés superior más cercano.
+
+Al valor promedio así obtenido se le calculará el Valor Actual Neto (VAN), correspondiente a letras de crédito por préstamos pactados a 12 años plazo, expresados en Unidades de Fomento, que ganan un interés nominal similar a aquel de las letras correspondientes al préstamo cuyo cobro de diferencia se formule.
+
+Para los efectos antes señalados se considerará la Tabla de Desarrollo de una Letra de Crédito registrada en la Superintendencia de Bancos e Instituciones Financieras y, en caso de existir m s de una Tabla registrada para la misma unidad de pactación, plazo y tasa de interés nominal, se estar a aquélla cuyo código presente un dígito inferior.
+
+b.2) Préstamos a 15 años plazo, pactados en Unidades de Fomento:
+
+Se calculará la tasa interna de retorno promedio ponderada de las transacciones de letras de crédito correspondientes a préstamos pactados a 15 años plazo, expresados en Unidades de Fomento, que ganen un interés nominal m s cercano a aquél establecido para las letras cuyo cobro de diferencia se formula, incluyéndose para estos efectos todas las transacciones de este tipo de letras que aparezcan publicadas en los Boletines Burs tiles Diarios, editados por la Bolsa de Comercio de Santiago, correspondientes a transacciones efectuadas durante el mes de Julio de 1986.
+
+Si en dichos Boletines aparecen transacciones de letras tanto para un interés superior, como para uno inferior más cercano, se elegirá aquel en que en dicho mes de Julio de 1986 aparezca un mayor volumen de Unidades de Fomento transadas y, en caso que este volumen fuere igual, se elegirán las transacciones correspondientes al interés superior más cercano.
+
+Al valor promedio así obtenido se le calculará el Valor Actual Neto (VAN), correspondiente a letras de crédito por préstamos pactados a 15 años plazo, expresados en Unidades de Fomento, que ganan un interés nominal similar a aquél de las letras correspondientes al préstamo cuyo cobro de diferencia se formule.
+
+Para los efectos señalados se considerará la Tabla de Desarrollo de una Letra de Crédito registrada en la Superintendencia de Bancos e Instituciones Financieras y, en caso de existir más de una Tabla registrada para la misma unidad de pactación, plazo y tasa de interés nominal, se estará a aquella cuyo código presente un díjito inferior.
+
+b.3) Préstamos a 20 años plazo, pactados en Unidades de Fomento:
+
+Se calculará la tasa interna de retorno promedio ponderada de las transacciones de letras de crédito ccrrespondientes a préstamos pactados a 20 años plazo, expresados en Unidades de Fomento, que ganen un interés nominal más cercano a aquél establecido para las letras cuyo cobro de diferencia se formula, incluyéndose para estos efectos todas las transacciones de este tipo de letras que aparezcan publicadas en los Boletines Bursátiles Diarios, editados por la Bolsa de Comercio de Santiago, correspondientes a transacciones efectuadas durante el mes de Julio de 1986.
+
+Si en dichos Boletines aparecen transacciones de letras tanto para un interés superior, como para uno inferior más cercano, se elegirá aquél en que en dicho mes de Julio de 1986 aparezca un mayor volumen de Unidades de Fomento transadas y, en caso que este volumen fuere igual, se elegirán las transacciones correspondientes al interés superior más cercano.
+
+Al valor promedio así obtenido se le calculará el Valor Actual Neto (VAN), correspondiente a letras de crédito por préstamos pactados a 20 años plazo, expresadas en Unidades de Fomento, que ganan un interés nominal similar a aquél de las letras correspondientes al préstamo cuyo cobro de diferencia se formule.
+
+Para los efectos señalados se considerará la Tabla de Desarrollo de una Letra de Crédito registrada en la Superintendencia de Bancos e Instituciones Financieras y en caso de existir más de una Tabla registrada para la misma unidad de pactación, plazo y tasa de interés nominal, se estar a aquélla cuyo código presente un dígito inferior.
+
+c) Para el caso de créditos pactados en Indice de Valor Promedio, toda vez que en los Boletines Bursátiles Diarios editados por la Bolsa de Comercio de Santiago, en que se reflejan las transacciones efectuadas en el mes de Julio de 1986, no aparecen vendidas letras de crédito pactadas en esa unidad, se estará al porcentaje que corresponda aplicar a préstamos pactados en Unidades de Fomento, al mismo plazo y tasa de interés que aquél establecido para las letras cuyo cobro de diferencia se formula, para cuyo efecto los valores expresados en Indico de Valor Promedio se transformarán a su equivalente en Unidades de Fomento, considerando ambos (Indice de Valor Promedio y Unidad de Fomento), a su valor vigente al día en que se haya efectuado la venta de las letras respectivas en la Bolsa de Comercio, fecha que deberá constar en la Factura de venta a que se refiere el inciso tercero del artículo 13 del DS No. 74 (V. y U.), de 1984.
+
+3°.- Déjase establecido que los porcentajes señalados en el número 1°, así como aquellos que se determinen conforme al número 2° regir n para los montos nominales de préstamo. Sin embargo, el postulante seleccionado podrá requerir un préstamo nominal de un monto superior al señalado al momento de su inscripción, siempre que el valor residual de ese préstamo no exceda de dicho monto.
+
+4°.- Corresponderá a la División de Finanzas de este Ministerio determinar en cada caso, a solicitud del interesado, los porcentajes a que se refiere el número 2° de esta resolución.
+
+5°.- Para efectuar la conversión de los valores expresados en Unidades de Fomento, a pesos, moneda nacional, se utilizar el procedimiento fijado por resolución No. 304, de este Ministerio, de 1984.
+
+Tratándose de créditos que se pacten en Indice de Valor Promedio, para los efectos de proceder al pago de la diferencia a que se refiere el artículos 13 del DS No. 74 (V. y U.), de 1984, los montos que resulten, expresados en Indice de Valor Promedio, se convertirán a su equivalente en pesos, moneda nacional, considerando el valor del Indice de Valor Promedio vigente el día en que se haya efectuado la venta de las letras respectivas en la Bolsa de Comercio, fecha que deberá constar en la Factura de Venta a que se refiere el inciso final del artículo 13 del DS No. 74 (V. y U.), de 1984.
+
+6°.- Se deja constancia que para la confección de la tabla que se aprueba por la presente resolución, se ha considerado un subsidio implícito de un monto máximo de 130 Unidades de Fomento para cada operación, monto máximo que también se deberá considerar para los efectos de determinar los porcentajes a que se refiere el número 2° de esta resolución, aún cuando los créditos estuvieren expresados en Indice de Valor Promedio.
+
+Anótese, tómese razón y publíquese en el Diario Oficial.- Miguel A. Poduje Sapiaín, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo a US. para su conocimiento.- Dios guarde a US.- Luis Salas Romo, Subsecretario de Vivienda y Urbanismo.
