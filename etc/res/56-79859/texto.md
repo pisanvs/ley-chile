@@ -1,0 +1,13 @@
+Por Resolución Nº 56 de 21 de Enero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a NORPESCA LIMITADA, R.U.T. Nº 78.081.820-4, domiciliada en la ciudad de Antofagasta, para iniciar actividades pesqueras de transformación, donde podrá operar una planta industrial en la II Región, ubicada en calle Pedro Aguirre Cerda Nº 7727 y 7729, de Antofagasta, donde procesará en la línea de elaboración de congelado, salado y conservas, los siguientes recursos hidrobiológicos: Congelado: Acha, Albacora o pez espada, Anchoa o anchoveta, Anguila, Apañado, Azulejo, Bacalao de profundidad, Blanquillo, Bonito, Caballa, Cabrilla común, Cazón, Cojinoba del Norte, Congrio colorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado de ojos grandes, Marrajo o tiburón, Merluza común, Mulata o vieja negra, Palometa, Pejeperro, Pejerrey del mar, Pejesapo, Pejezorro, Raya, Róbalo, Sardina común, Sardina, Tollo, Almeja, Caracol locate, Chocha, Cholga, Chorito, Lapa, Ostra chilena, Pulpo, Jaiba, Erizo, Piure. Conservas: Anchoa o anchoveta, Atún aleta amarilla, Bacalao de profundidad, Bonito, Caballa, Cazón, Cojinoba del Norte, Corvina, Dorado, Jurel, Marrajo o tiburón, Merluza común, Pejeperro, Pejezorro, Sardina, Tollo, Almeja, Caracol locate, Chocha, Cholga, Chorito, Choro, Lapa, Macha, Pulpo, Jaiba. Salado: Anchoa o anchoveta, Azulejo, Bacalao de profundidad, Caballa, Jurel,Sardina, Sardina común.
+
+Adquirirá la materia prima de pescadores artesanales de la I a X Región y subsector industrial.
+
+La interesada estará obligada a informar oportunamente al Servicio Nacional de Pesca que corresponda, respecto del abastecimiento de recursos hidrobiológicos y de los productos finales derivados de ellos, de conformidad con lo establecido en el Art. 1° Nº 50 de la Ley Nº 19.079.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Derógase la Resolución Nº 627 de 1987 que autorizó a don Renzo Follegati Ghio para operar una planta en el mismo lugar a que se refiere esta autorización por solicitud del titular.
+
+Deniégase la autorización solicitada para procesar los recursos loco y langostino colorado de conformidad con lo dispuesto en los DS Nº 614 y Nº 613 de 1991 del Ministerio de Economía, Fomento y Reconstrucción.-
+
+Valparaíso, 21 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
