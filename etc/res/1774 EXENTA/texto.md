@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE SEÑALA
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.774 de 29 de Noviembre de 1984, ratificada por resolución exenta No. 771 de 05 de Mayo de 1988 conforme Art. 5° Transitorio del Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "El Vergel de Trebuco", de la comuna de Talagante, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a Parcelas N°s. 1 a la 8 y Sitios N°s. 1 al 6 del Proyecto de Parcelación "Las Vertientes" formado por predio señalado. Los derechos de aguas se extraen del Estero Carampangue y derrames provenientes del Fundo de don Ladislao Barros. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
