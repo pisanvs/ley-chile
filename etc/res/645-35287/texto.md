@@ -1,0 +1,3 @@
+Por Resolución N° 645, de 10 de abril de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA BIO-BIO S.A., R.U.T. N° 84.902.900-2, domiciliada en Colón N° 2450, Talcahuano, para continuar desarrollando las actividades pesqueras extractivas autorizadas a Pesquera Santo Tomás S.A., R.U.T. N° 96.711.400-6, y a Pesquera Bío-Bío Ltda., R.U.T. N° 84.902.900-2, ambas del mismo domicilio, en virtud de las Escrituras Públicas de Fusión y Transformación Social.
+
+Valparaíso, 10 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
