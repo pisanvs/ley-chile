@@ -1,0 +1,7 @@
+Enseñanza de niñas
+
+Santiago, 21 de Agosto de 1812.
+
+La indiferencia con que miró el antiguo Gobierno la educacion del bello sexo, sino pudo ser el resultado del sistema depresivo, es el comprobante ménos equívoco de la degradacion con que era mirado el Americano; parecerá, una paradoja en el mundo culto, que la capital de Chile poblado de mas de cincuenta mil habitantes, no haya aun conocido una escuela de mujeres, ¡acaso podría creerse a la distancia en comprobante de aquélla máxima bárbara, de que el americano no es susceptible de enseñanza! pero ya es preciso desmentir errores, i sobre todo dar ejercicio a los claros talentos del sexo amable; i para verificarlo con la decencia, relijiosidad i buen éxito que se ha prometido, el Gobierno ordena que, a ejemplo de lo que se ha hecho en los Conventos de Regulares, destine cada Monasterio en su patio de fuera o compazes, una sala capaz para situar la enseñanza de niñas que deben aprender por principios la relijion, a leer i escribir i los demas menesteres de una matrona, a cuyo astado debe, prepararlas la patria; aplicando el ayuntamiento de sus fondos los salarios de maestras que bajo la direccion i clausura de cada Monasterio sean capaces de llenar tan loable como indispensable objeto.-
+
+Trascríbase al Cabildo i Monasterio e imprímase.-Prado.-Carrera.-Portales.-Vial, secretario.
