@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.510, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 150-A y 150-B, superficies 3.482,0 m2 y 1.231,0 m2., rol de avalúo 367-16, comuna de Loncoche, para la obra "Concesión Internacional Ruta 5; Tramo Temuco-Río Bueno", Novena Región y se acordó el valor de indemnización con su propietario Roberto Spuler Greenhill, ascendente a la cantidad total de $10.203.571.-
+
+Fiscal del Ministerio de Obras Públicas.
