@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA LACKS S.R. LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 529 de 14 de Julio de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Lacks S.R. Limitada, domiciliada en Valparaíso, para instalar una línea de congelado en la planta procesadora de recursos hidrobiológicos que tiene autorizada por resolución No. 365, de 1986, de la Subsecretaría de Pesca, en la que podrá emplear como materia prima para productos congelados o ahumados, además de los recursos que en dicha resolución tiene autorizados, los siguientes: merluza común, pejegallo, congrio dorado, congrio colorado, congrio negro, rollo, róbalo, rollizo, albacora, chorito, corvina, choro zapato, cholga, salmón coho, salmón chinook, bacalao de J. Fernández y trucha arco iris.
+
+Valparaíso, 14 de Julio de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
