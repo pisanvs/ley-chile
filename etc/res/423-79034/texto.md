@@ -1,0 +1,3 @@
+Por Resolución No. 423 de 14 de Mayo de 1992 de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones No. 258, de 1983, No. 174, de 1984, No. 993, de 1986 y No. 601, de 1987, todas de esta Subsecretaría, que autorizaron a PESQUERA PACIFICO LIMITADA R.U.T. No. 79.700.600-9, domiciliada en la ciudad de Coquimbo, para operar una planta de transformación de Recursos hidrobiológicos en la comuna de Coquimbo, provincia de Elqui, IV Región, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 14 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
