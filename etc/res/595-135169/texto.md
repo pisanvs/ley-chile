@@ -1,0 +1,3 @@
+Por resolución Nº 595, de 13 de abril de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1205 de 1997, que autorizó a don RAUL QUEZADA RODRIGUEZ para operar la nave ''Don Pedro I'' en el litoral de la V a la VII y IX Regiones respecto de los recursos Jurel, Anchoveta, Cojinoba del norte, Cojinoba del sur, Machuelo o tritre, Sardina común y Sardina española.
+
+Valparaíso, 13 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
