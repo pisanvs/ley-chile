@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 102 de 25 de Enero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predio: "Resto de la Hijuela El Alba, una de las Tres en que se dividió el predio denominado El Alba" de la comuna de Chépica, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas Nºs. 1 a la 17, sitios Nºs. 1 al 9 del Proyecto de Parcelación "El Alba" formado por predio señalado. Los Derechos de Agua se extraen del Canal Comunidad a través canales Arañino y Molino y pozo profundo ubicado en el sitio Nº 7 de este proyecto de parcelación. Publicación hecha conforme Art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
