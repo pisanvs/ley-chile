@@ -648,9 +648,13 @@ El pago del impuesto a las asignaciones por causa de muerte y a las donaciones s
 
 #### Artículo 75
 
-Los notarios y demás ministros de fe no podrán autorizar instrumento alguno que deje constancia de una convención afecta al impuesto contemplado en la ley de impuesto a las ventas ni otorgar copia de ellos, ni autorizar la firma de quienes concurren a otorgarlos, sin que previamente se les acompañe el recibo que acredite el pago del respectivo tributo, del cual deberá quedar constancia en el documento que al efecto se otorgue o se protocolice. Para los efectos contemplados en este artículo no regirán los plazos de declaración y pago señalados en esa ley.
+Los notarios y demás ministros de fe deberán dejar constancia del pago del tributo contemplado en la Ley sobre Impuesto a las Ventas y Servicios, en los documentos que den cuenta de una convención afecta a dicho impuesto.
 
-Con todo, el Director Regional podrá, a su juicio exclusivo, determinar que la declaración y pago del impuesto se hagan dentro de los plazos indicados en la ley de impuesto a las ventas, cuando estime debidamente resguardado el interés fiscal.
+Para los efectos contemplados en este artículo, no regirán los plazos de declaración y pago señalados en esa ley.
+
+Con todo, el Director Regional podrá, a su juicio exclusivo, determinar que la declaración y pago del impuesto se haga dentro de los plazos indicados en esa ley, cuando estime debidamente resguardado el interés fiscal.
+
+Los notarios y demás ministros de fe deberán autorizar siempre los documentos a que se refiere este artículo, pero no podrán entregarlos a los interesados ni otorgar copias de ellos sin que previamente se encuentren pagados estos tributos.
 
 #### Artículo 76
 
@@ -662,9 +666,9 @@ Para los efectos de dar cumplimiento a las obligaciones tributarias de la Ley de
 
 #### Artículo 78
 
-Los notarios tendrán la obligación de vigilar el pago del tributo que corresponda a cada documento que autoricen o protocolicen, en relación a los impuestos de la Ley de Timbres, Estampillas y Papel Sellado, siendo solidariamente responsables del pago de los mismos, sin perjuicio de lo dispuesto en el artículo 158°.
+Los notarios estarán obligados a vigilar el pago de los tributos que corresponda aplicar en conformidad a la Ley de Timbres y Estampillas, respecto de las escrituras y documentos que autoricen, o documentos que protocolicen, y responderán solidariamente con los obligados al pago del impuesto. Para este efecto, el notario firmará la declaración del impuesto, conjuntamente con el obligado a su pago.
 
-Cesará la responsabilidad del notario, si el impuesto hubiere sido pagado previa aprobación de la Dirección Regional, y de la cual se dejará testimonio escrito. También cesará dicha responsabilidad si el impuesto hubiere sido enterado en tesorería, de acuerdo con la determinación que hiciere la justicia ordinaria, de conformidad al artículo 158°.
+Cesará dicha responsabilidad si el impuesto hubiere sido enterado en Tesorería, de acuerdo con la determinación efectuada por la justicia ordinaria conforme a lo dispuesto en el artículo 158.
 
 #### Artículo 79
 
@@ -756,7 +760,7 @@ El Síndico de Quiebras, con el mérito de las liquidaciones practicadas, verifi
 
 Salvo disposición en contrario, en los casos en que se exija comprobar el pago de un impuesto, se entenderá cumplida esta obligación con la exhibición del respectivo recibo o del certificado de exención, o demostrándose en igual forma estar al día en el cumplimiento de un convenio de pago celebrado con el Servicio de Tesorerías. El Director Regional podrá autorizar, en casos calificados, se omita el cumplimiento de la obligación precedente, siempre que el interesado caucione suficientemente el interés fiscal.
 
-Si se tratare de documentos o inscripciones en registros públicos, deberá el respectivo comprobante insertarse en ellos o anotarse al margen.
+Si se tratare de documentos o inscripciones en registros públicos, bastará exhibir el correspondiente comprobante de pago al funcionario que deba autorizarlos, quien dejará constancia de su fecha y número, si lo tuviere, y de la Tesorería o entidad a la cual se hizo el pago.
 
 En todo caso, no se exigirá la exhibición del certificado de inscripción en el rol de contribuyentes, ni la comprobación de estar al día en el pago del impuesto global complementario, a los adquirentes o adjudicatarios de viviendas por intermedio de la Corporación de la Vivienda.
 
@@ -1324,9 +1328,9 @@ El recurso de apelación contra la resolución que fije el impuesto deberá inte
 
 Corresponderá al Director Regional la representación y defensa del Fisco, en primera instancia, en los trámites de determinación del impuesto.
 
-### Párrafo 3° — .
+### Párrafo 3°
 
-Del procedimiento de reclamo del impuesto de Timbres, Estampillas y Papel Sellado
+Del procedimiento de determinación judicial del impuesto de Timbres y Estampillas
 
 #### Artículo 158
 
