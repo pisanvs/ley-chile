@@ -1,0 +1,3 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F. N° 184, de 26 de Diciembre de 1984, se ha ordenado pagar a las personas que a continuación se indican o a quienes acrediten derecho como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos más su reajuste para los lotes expropiados para Alcantarillado de Curanilahue, cuyas superficies y roles de avalúo de la comuna de Curanilahue, se indican: Lote 1: Amalia Ojeda, 125 m2, rol 193- 9, $ 24.300 y lote 2: Germán Varela García, 250 m2., rol 193- 14, $ 23.600. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a. publicación que se hará en un periódico de la VIII Región.-
+
+Fiscal del Ministerio de Obras Públicas.
