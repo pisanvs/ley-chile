@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 595, de 30 de Noviembre de 1994 se expropió el lote de terreno Nº 7, superficie 545 m2., rol de avalúo en trámite, comuna de Conchalí, para la ejecución de la obra Avenida Américo Vespucio, sector Recoleta - Independencia, y se acordó valor de indemnización con su propietario V. H. Manufacturas de Tubos de Acero S.A., ascendente a la cantidad de $7.016.180.
+
+Fiscal del Ministerio de Obras Públicas.
