@@ -1,0 +1,3 @@
+Por resolución Nº 2.155, de 18 de octubre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110111, presentada por HUMBERTO JOSE FISCHER LLOP, para operar un centro de cultivo ubicado en canal Bynon, sector norte de la Isla Jorge-1, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 18 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
