@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 180, de 10.02.87, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido de la Variante No. 34-C "Población J.M. Caro Fraklin - Lo Hermida", de la Línea de Buses No. 34 "San Eugenio Recoleta", autorizado por resolución exenta No. 229 de 12.03.82, quedando su nuevo trazado e individualización como sigue:
+
+VARIANTE No. 34-C "JOSE MARIA CARO - PEÑALOLEN"
+
+Circunvalación: Desde su terminal en Límite Urbano con Júpiter, continúa por Límite Urbano - Av. Central - Buenaventura - Av. Central - Av. Cerrillos - Av. Ale. Carlos Valdovinos - Ríos Talaveras - Av. Isabel Riquelme - Euclides Orán - Av. Ale. Carlos Valdovinos - Gran Avda. José Miguel Carrera - San Diego - Bío Bío Arturo Prat - Placer - Santa Rosa -Bío Bío - Sierra Bella Franklin - Santa Elena Rodrigo de Araya - Diagonal Rodrigo de Araya - Av. Grecia - Av. Lo Hermida - Puente Las Perdices - Av. Río Claro - Las Parcelas Av. Las Perdices, hasta frente al No. 1660, donde se controlará en Garita de Control, circunvalando y continuando por Av. Las Perdices - Las Parcelas Av. Río Claro - Puente Las Perdices - Av. Lo Hermida - Av. Grecia - Diagonal Rodrigo de Araya - Rodrigo de Araya Av. Pedro de Valdivia - Zañartu W. Rebolledo Guillermo Mann - Celia Solar - Santa Elena - Franklin - Nataniel -Bío Bío - San Diego - Gran Avda. José Miguel Carrera - Milán Barcelona - Av. Isabel Riquelme - Juan de Bastías- Av. Ale. Carlos Valdovinos - Calle Uno Norte - Av. Cerrillos - Av. Central - Buenaventura - Av. Central - Límite Urbano hasta Júpiter, su terminal.
+
+Santiago, 17.02.87.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
