@@ -1,0 +1,1 @@
+Reemplaza el artículo 2° y modifica el artículo 4° de la ley 12.612, de 22 de octubre de 1957, que autorizó a la Municipalidad de Ultima Esperanza para contratar empréstitos para atender a la ampliación y mejoramiento del servicio de alumbrado de la población de Puerto Natales.
