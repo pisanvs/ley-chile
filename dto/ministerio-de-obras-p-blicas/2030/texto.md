@@ -1,0 +1,1 @@
+Por decreto MOP Nº 2.030, de 28 de octubre de 1998, se dejó sin efecto el decreto MOP Nº 724, de 29 de mayo de 1998, en la parte que se refiere al lote de terreno Nº 115, de la obra Concesión Internacional Ruta 5, Tramo Los Vilos - La Serena, sector B Hornillos - La Herradura, Km. 325.542 al 457.750.
