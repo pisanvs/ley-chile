@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 289, de 31 de marzo de 1997, se expropió el lote de terreno Nº 1-A, superficie 1.092 M2., rol de avalúo en trámite, comuna de Requínoa, para la obra Camino Cruce Longitudinal (Requínoa)-Rincón del Abra-Cruce Ruta H-40, sector El Abra-Cruce Ruta H-40 y se acordó precio de indemnización con su propietaria Sociedad Agrícola Las Delicias Limitada, ascendente a la cantidad de $2.735.544.-
+
+Fiscal del Ministerio de Obras Públicas.
