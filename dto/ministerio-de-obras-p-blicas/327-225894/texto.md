@@ -1,0 +1,3 @@
+Por decreto MOP Nº 327, de fecha 27 de abril del 2004, se expropió el lote de terreno Nº 57, superficie 2.673 m²., Rol Nº 302-404, comuna de Cunco, IX Región para la obra "Camino Ruta S-61, Sector Cunco-Melipeuco, tramo Km. 55,000 al Km. 87,46783, correspondiente al Sub-Tramo II Km. 62,784 al Km. 76,043" y se acordó el valor de la indemnización con su propietario Valentín Alejandro Morales Montiel, ascendente a la cantidad de $18.312.127.- para el lote Nº 57.
+
+- Fiscal del Ministerio de Obras Públicas.
