@@ -1,0 +1,7 @@
+Por decreto MOP Nº1.933, de 30 de julio de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1, 2, 12, 14, 16, 18, 41 y 43, para la obra Camino Ruta J-60, Sector Puente Lautaro-Iloca, Km. 101.074,58 a Km. 122.969,62, que figuran a nombre de Soc. Agrícola y Ganadera Lora Ltda., Luis Alfonso Correa Meléndez, Rafael Olea Celsi, Narciso Antonio Espinoza y Antonio Arriagada, roles de avalúos 164-13, 168-1, 168-37 y en trámite, comuna de Licantén, superficies 56,50; 101,50;
+
+3.194; 1.079; 429; 97; 59,5 y 42,4 m² respectivamente. La Comisión de Peritos compuesta por los señores Carlos Sottolichio Díaz, Renato Guerra Estévez y Guillermo Picón Vicioso, fijó con fecha 8 de julio de 1997, los valores provisionales de las indemnizaciones en las cantidades de $143.000, lote Nº1; $42.030, lote Nº2; $363.880, lote Nº12;
+
+$189.850, lote Nº14; $69.350, lote Nº16 y $34.550, lote Nº18 y con fecha 3 de febrero de 1998 en $476.000, lote Nº41 y $339.200, lote Nº43. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
