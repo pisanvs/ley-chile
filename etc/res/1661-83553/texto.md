@@ -1,0 +1,3 @@
+Por Resolución Nº 1.661, de 3 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1 de la Resolución Nº 652 de 1997 y numeral 2 de la Resolución Nº 653 de 1997, ambas de esta Subsecretaría, que señalan las características náuticas de la nave "Angamos 3", de EMPRESA PESQUERA EPERVA S.A., ex Pesquera Punta Angamos S.A., en el sentido de establecer que la capacidad de Bodega de dicha nave es 440,42 m3.
+
+Valparaíso, 3 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
