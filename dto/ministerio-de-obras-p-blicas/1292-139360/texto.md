@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.292, de 31 de mayo de 1999, se expropió el lote de terreno Nº 21, superficie 406 m2., rol de avalúo 3983-115, comuna de Talca, para la obra Ruta 5 Tramo Talca - Chillán ''Intersección Desnivelada Acceso a Pelarco'', Séptima Región y se acordó el valor de indemnización con su propietaria María Angélica Ponce Ponce, ascendente a la cantidad de $2.263.712.
+
+Fiscal del Ministerio de Obras Públicas.
