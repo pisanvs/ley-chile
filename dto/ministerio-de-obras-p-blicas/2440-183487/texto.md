@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.440, de 30 de mayo de 2000, se expropió el lote de terreno Nº 65, superficie 180 m², rol de avalúo 5472-15, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario José Miguel Portilla Rivera, ascendente a la cantidad de $22.978.087.-
+
+Fiscal del Ministerio de Obras Públicas.
