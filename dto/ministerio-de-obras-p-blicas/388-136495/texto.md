@@ -1,0 +1,3 @@
+Por decreto MOP Nº388, de 26 de febrero de 1999, se expropió el lote de terreno Nº14-B, superficie 1.153,00 m2, rol de avalúo 102-22, comuna de San Pablo, para la obra Concesión Internacional Ruta 5, Tramo Río Bueno - Puerto Montt, Sector Río Bueno - San Pablo, Décima Región y se acordó el valor de indemnización con su propietario Bernardo Pinninghoff Junemann, ascendente a la cantidad de $822.758.-.
+
+Fiscal del Ministerio de Obras Públicas.
