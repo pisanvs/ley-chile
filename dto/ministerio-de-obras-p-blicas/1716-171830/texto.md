@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.716, de 28 de abril de 2000, se expropió el lote de terreno Nº 19, superficie 317 m², rol de avalúo 5344-9, comuna de La Granja, para la obra Concesión Internacional Ruta 5: Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Irma Rina Garabito Garabito, ascendente a la cantidad de $26.757.310.-
+
+Fiscal del Ministerio de Obras Públicas.
