@@ -1,0 +1,3 @@
+Por decreto MOP Nº541, de 28 de febrero del 2000, se expropió el lote de terreno Nº416, superficie 101 m², rol de avalúo 7855-42, comuna de La Pintana, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria María Jeannette Jiménez Vergara, ascendente a la cantidad de $5.156.102.-
+
+Fiscal del Ministerio de Obras Públicas.
