@@ -160,6 +160,8 @@ MATERIA
 
 19.- Declaración de material didáctico auxiliar complementario y/o de consulta para la educación chilena.
 
+20.- Determinación de los elementos de enseñanza y material didáctico mínimo que deben tener los establecimientos educacionales declarados cooperadores de la función educativa del Estado.
+
 DIRECTOR DE EDUCACION PRIMARIA Y NORMAL
 
 MATERIA
