@@ -1,0 +1,3 @@
+Por resolución número 1.478, de 12 de julio de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99104025 presentada por LUIS ZAPATA ÑANCO, para un centro de cultivo en canal Quihua, X Región.
+
+Valparaíso, 12 de julio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
