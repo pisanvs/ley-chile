@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.174, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 58-A, superficie 438 m², Rol de avalúo Nº 277-245, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, Sector Chovellen - Límite Regional, Tramo Km. 18,260.00 a Km. 35,158.60", VII Región, y se acordó el valor de la indemnización con su propietario Patricio Jaime Arrau Vidal ascendente a la cantidad de $1.618.162.-
+
+Fiscal del Ministerio de Obras Públicas.
