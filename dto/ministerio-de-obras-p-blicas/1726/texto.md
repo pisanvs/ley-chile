@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.726, de 25 de junio de 1999, se expropiaron los lotes de terreno Nºs. 14 y 17, superficies 610 y 3.980 m², rol de avalúo 519-101, comuna de Carahue, para la obra Camino Costero Tirúa-Carahue, tramo Tirúa-Bajo Yupehue y se acordó precio de indemnización con su propietario Juan de Dios Meñaco Lloncón, ascendente a la cantidad de $935.039.
+
+- Fiscal del Ministerio de Obras Públicas.
