@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.270, de 31 de mayo de 1999, se expropió el lote de terreno Nº 27-A, superficie 237 m2., rol de avalúo 19-39, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector 1'', Octava Región y se acordó el valor de indemnización con sus propietarios Aguida Nenen Villegas y Alcibiades Pavez Garrido, ascendente a la cantidad de $9.410.526.
+
+Fiscal del Ministerio de Obras Públicas.
