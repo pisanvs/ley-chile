@@ -1,0 +1,3 @@
+Por resolución Nº 1.796, de 9 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96101141, presentada por HUMBERTO JOSE FISCHER LLOP, para operar un centro de cultivo ubicado en sector Sureste Isla Capeaguapi, comuna de Puerto Montt, provincia de Llanquihue, X Región.
+
+Valparaíso, 9 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
