@@ -9108,195 +9108,87 @@ MATERIA:
 
 AVALES Y FIANZAS.
 
-### 1. Obligaciones susceptibles de ser avaladas o afianzadas
+1.- Obligaciones susceptibles de ser avaladas o afianzadas.
 
-En general, con excepción de las limitaciones y prohibiciones que se señalan en este mismo capítulo, las instituciones financieras pueden avalar o afianzar, en forma simple o solidaria, obligaciones expresadas en moneda chilena.
+En general, con excepción de las limitaciones y prohibiciones que se señalan en este mismo Capítulo, las instituciones financieras pueden avalar o afianzar, en forma simple o solidaria, obligaciones expresadas en moneda chilena.
 
-Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda extranjera en conformidad con lo establecido en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales y en el Capítulo III I 1 del Compendio de Normas Financieras, del Banco Central de Chile. Las sociedades financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda extranjera cuando sean expresamente autorizadas para ello.
+Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda extranjera en conformidad con lo establecido en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales y en el Capítulo III.1.1 del Compendio de Normas Financieras, del Banco Central de Chile. Las sociedades financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda extranjera cuando sean expresamente autorizadas para ello.
 
-En todo caso, las instituciones financieras podrán avalar o afianzar solamente aquellas obligaciones que correspondan a operaciones comerciales o financieras efectivas y conocidas, cuyo monto y plazo estén de antemano perfectamente determinados, y su riesgo haya sido previamente calificado.
+Las instituciones financieras podrán avalar o afianzar solamente aquellas obligaciones que correspondan a operaciones comerciales o financieras efectivas y conocidas, cuyo monto y plazo estén de antemano perfectamente determinados, y su nesgo haya sido previamente calificado.
 
-### 2. Forma de otorgar los avales o fianzas
+En caso de obligaciones en que no es posible determinar de antemano el monto de la obligación avalada o afianzada, como ocurre, a vía de ejemplo, con las obligaciones de pago inherentes a posiciones asumidas en instrumentos derivados, lo anterior se cumplirá limitando la garantía a un monto máximo.
 
-Los avales o fianzas deben otorgarse por medio de instrumentos que, en el evento
+2.- Otorgamiento de los avales o fianzas.
 
-de que la entidad financiera avalista o fiadora tenga que hacer frente al pago
+Cualquiera sea la forma en que se otorgue un aval o fianza, esto es, mediante la firma en el propio título de crédito, en un documento aparte o mediante una carta de crédito stand by, la institución financiera deberá quedar con un título ejecutivo incuestionable para perseguir la responsabilidad del deudor en caso de que tenga que hacer frente al pago de la obligación avalada o afianzada.
 
-de la obligación avalada o afianzada, deje en su poder, en cada caso, un título
+3.- Avales otorgados por dos o más instituciones.
 
-ejecutivo incuestionable para perseguir la responsabilidad del afianzado.
+Dos o más instituciones financieras podrán avalar o afianzar conjuntamente una o vanas obligaciones, ya sea haciéndose responsables de su cumplimiento en forma solidaria, o bien mediante convenios dentro de los cuales esa responsabilidad quede compartida entre los garantes, en proporciones determinadas.
 
-### 3. Avales conjuntos
+De darse ese caso, cada una de ellas deberá contabilizar la obligación contingente derivada de la garantía que otorgue, por su valor total, cuando dicha garantía se dé en forma solidaria y por la cuota de su responsabilidad particular, cuando se dé limitada solamente a una parte de la obligación mancomunada, considerándose de la misma forma para los efectos de los límites de crédito del artículo 84 de la Ley General de Bancos y los márgenes de que trata el N° 7 de este Capítulo.
 
-Dos o más instituciones financieras podrán avalar o afianzar conjuntamente una o
+4.- Prohibiciones.
 
-varias obligaciones, ya sea haciéndose responsables de su cumplimiento en forma
+Las instituciones financieras no podrán avalar o afianzar obligaciones a favor de instituciones financieras establecidas en el país.
 
-solidaria, o bien mediante convenios dentro de los cuales esa responsabilidad
+Tampoco podrán avalar o afianzar obligaciones asumidas por otras instituciones financieras, sea que éstas se encuentren establecidas en el país o en el extranjero, salvo que, de acuerdo con lo previsto en el N° 2 del artículo 80 de la Ley General de Bancos, se trate de obligaciones de bancos extranjeros en los que el avalista o fiador tenga participación en su propiedad.
 
-quede compartida entre los garantes, en proporciones determinadas.
+Queda además prohibido a las instituciones financieras descontar, negociar o aceptar en garantía, letras de cambio y otros efectos de crédito avalados o afianzados por otras instituciones financieras situadas en el país.
 
-De darse ese caso, cada una de ellas deberá contabilizar la obligación
+5.- Avales y fianzas a entidades fiscales o empresas en las que el Estado tenga participación mayoritaria.
 
-contingente derivada de la garantía que otorgue, por su valor total, cuando
+Las instituciones financieras no podrán avalar o afianzar obligaciones a cargo del Fisco, de las instituciones y reparticiones del Estado ni de aquellas entidades en que éste tenga participación mayoritaria, sin contar previamente con la autorización del Ministerio que debe autorizar los créditos directos, según lo previsto en el Capítulo 8-8 de esta Recopilación.
 
-dicha garantía se dé en forma solidaria y por la cuota de su responsabilidad
+6.- Avales y fianzas en moneda extranjera.
 
-particular, cuando se dé limitada solamente a una parte de la obligación
-
-mancomunada.
-
-### 4. Prohibiciones
-
-Las instituciones financieras no podrán avalar o afianzar obligaciones en moneda
-
-chilena o extranjera a cargo de otras instituciones financieras, sea que éstas
-
-se encuentren establecidas en el país o en el extranjero. Tampoco podrán avalar
-
-o afianzar obligaciones a favor de instituciones financieras establecidas en el
-
-país.
-
-Queda asimismo prohibido a las instituciones financieras descontar, negociar o
-
-aceptar en garantía, letras de cambio y otros efectos de crédito avalados o
-
-afianzados por esas mismas instituciones.
-
-5. Avales y fianzas a entidades fiscales o empresas en las que el Estado tenga
-
-participación mayoritaria.
-
-Las instituciones financieras no podrán avalar o afianzar obligaciones a cargo
-
-del Fisco, de las instituciones y reparticiones del Estado ni de aquellas
-
-entidades en que éste tenga participación mayoritaria, sin contar previamente
-
-con la autorización del Ministerio correspondiente para obtener créditos
-
-directos.
-
-### 6. Avales y fianzas en moneda extranjera
-
-De conformidad con lo dispuesto en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera, con las limitaciones que se indican en el Capitulo III.I.1 antes mencionado y en este Capitulo, a favor de personas naturales o jurídicas residentes en Chile o en el extranjero.
-
-Sin embargo, para avalar o afianzar obligaciones a favor de personas que no tengan residencia en el país, deberán contar previamente con la autorización del Banco Central de Chile, excepto cuando se trate de aquellas operaciones señaladas en el numeral 6.1 siguiente.
+De conformidad con lo dispuesto en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera, con las limitaciones que se indican en el Capítulo III.I.1 antes mencionado, a favor de personas naturales o jurídicas residentes en Chile o en el extranjero, siempre que no correspondan a garantía de pago de importaciones chilenas.
 
 Los importes en moneda extranjera que los bancos paguen a las personas residentes en el país, por haberse hecho efectivos los avales o fianzas que hayan otorgado, deberán ser liquidados a moneda corriente nacional en el mercado cambiario formal. Los bancos avalistas o fiadores serán responsables del cumplimiento de esta norma.
 
-6.1.- Operaciones que pueden ser avaladas a afianzadas sin solicitar autorización.
+Por otra parte, en aquellos casos en que el deudor principal no haya cumplido el pago total o parcial de una obligación en moneda extranjera avalada o afianzada que cuente con acceso autorizado al mercado de divisas, el banco avalista o fiador deberá informar al Banco Central de Chile, en la correspondiente planilla de egreso, que se ha hecho cargo de la cobertura en razón a su calidad de avalista o fiador.
 
-Los bancos están facultados para avalar o afianzar obligaciones con el exterior en moneda extranjera, sin necesidad de solicitar autorización previa al Banco Central de Chile, cuando su objeto sea alguno de los siguientes:
+Conforme a lo establecido en el Capítulo XX antes mencionado, el Banco Central de Chile podrá exigir a las empresas bancarias, en la oportunidad que lo estime conveniente, los antecedentes que correspondan a los avales y fianzas en moneda extranjera.
 
-a) Responder de créditos recibidos del exterior por empresas del país, que se destinen a facilitar sus exportaciones;
+7.- Límites.
 
-b) Responder a préstamos financieros, internados al país de acuerdo al Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile;
+Además de los límites de crédito establecidos en el artículo 84 de la Ley General de Bancos, los avales y fianzas que otorguen las instituciones financieras quedan sujetos a los siguientes límites:
 
-c) Responder como garante directo o como contra fiador o avalista de documentos emitidos en el exterior que sirvan de garantía de calidad de las exportaciones chilenas o de seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos; y,
+7.1.- Límites de avales y fianzas en moneda chilena.
 
-d) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden otorgarse mediante cartas de crédito Stand by, las que deben sujetarse a las normas contenidas en este capítulo.
+El monto global de las obligaciones pagaderas en moneda nacional que cada institución financiera podrá mantener en carácter de avalista o fiador, no podrá exceder de una vez su patrimonio efectivo.
 
-e) Responder como garante directo de letras de cambio aceptadas o de pagarés suscritos en el exterior, correspondientes al precio pagadero a plazo de exportaciones chilenas. En estos casos, las empresas bancarias deberán enviar al Banco Central de Chile la información requerida en el Capítulo XX del título I del Compendio de Normas de Cambios Internacionales, dentro del plazo establecido para tal efecto.
+Sin perjuicio de ese margen, los avales y fianzas que una institución financiera pudiere otorgar en moneda chilena a una sociedad constituida en el exterior en la cual tenga participación, deben computarse para el límite establecido en el N° 2 del inciso primero del artículo 80 de la Ley General de Bancos.
 
-Asimismo, las instituciones bancarias podrán avalar letras de cambio extendidas en moneda extranjera, pagaderas en moneda chilena, que los importadores acepten en favor de los Servicios de Aduana para garantizar el pago diferido de derechos
+7.2.- Límites de avales y fianzas en moneda extranjera.
 
-aduaneros.
+De acuerdo con lo establecido por el Banco Central de Chile en el Capítulo III.1.1 de su Compendio de Normas Financieras, el monto global de los avales y fianzas en moneda extranjera que otorgue un banco a personas residentes o domiciliadas en el país, sumados a los créditos contingentes en moneda extranjera que dichas personas mantengan por la emisión de boletas de garantía o cartas de crédito stand by, no podrá exceder de una vez el patrimonio efectivo de la entidad avalista o emisora.
 
-6.2. Cobertura de las operaciones avaladas o afianzadas.
+Independientemente del límite anterior, las mismas normas del Banco Central de Chile disponen que el monto de esos créditos contingentes otorgados a personas no residentes ni domiciliadas en el país, no podrá exceder del 25% de dicho patrimonio. Ese porcentaje podrá alcanzar hasta el 37,5 % si la empresa bancaria cuenta con un indicador de Basilea igual o superior a 10%.
 
-a) Con recursos del deudor principal.
+En todo caso, los créditos contingentes por avales y fianzas, boletas de garantía o cartas de crédito stand by, que se otorguen a un banco extranjero de cuya propiedad sea partícipe el banco chileno, deben computarse para el límite que establece el N° 2 del inciso primero del artículo 80 de la Ley General de Bancos.
 
-Cuando el deudor pague, dentro del plazo correspondiente, las obligaciones en moneda extranjera avaladas o afianzadas que cuenten con acceso autorizado al mercado de divisas, la respectiva empresa bancaria procederá a efectuar la venta de las divisas necesarias e informará al Banco Central de Chile mediante las planillas respectivas, acompañadas de los documentos que se requieran en cada caso.
+8.- Instrucciones contables.
 
-b) Con recursos del banco avalista o fiador.
+8.1.- Registro de los avales y fianzas otorgados.
 
-Si el deudor principal no ha cumplido el pago total o parcial de una obligación en moneda extranjera avalada o afianzada, y siempre que ella cuente con acceso autorizado al mercado de divisas, el banco avalista o fiador efectuará la cobertura por el monto que corresponda, con cargo a sus propios recursos en moneda chilena.
+Los avales o fianzas que otorguen las instituciones financieras, serán registrados al momento en que se perfeccionen, en las siguientes cuentas, por el importe total de la garantía otorgada y en la moneda correspondiente:
 
-En este caso, la entidad bancaria deberá indicar este hecho en la correspondiente planilla de egreso que enviará al Banco Central de Chile acompañada de la documentación que corresponda.
+Debe: "Créditos contingentes por avales o fianzas, de la partida 1610 ó 1660.
 
-### 7. Instrucciones contables
+Haber: "Obligaciones contingentes por avales o fianzas", de la partida 3610 ó 3660.
 
-7.1. Obligaciones en moneda chilena.
+8.2.- Reajustes e intereses.
 
-Los avales o fianzas que otorguen las instituciones financieras en moneda,chilena serán registrados al momento en que se perfeccionen en el instrumento en que se otorguen, en las siguientes cuentas por el importe total de los respectivos documentos avalados o afianzados, o por la parte proporcional que corresponda, en el caso de tratarse de avales con responsabilidad compartida en proporciones o montos determinados, siempre que así esté claramente establecido en los instrumentos correspondientes:
+Los reajustes de las colocaciones y obligaciones contingentes deben registrarse de acuerdo con lo previsto en el Capítulo 7-1 de esta Recopilación, esto es, sin afectar las cuentas de resultados.
 
-Debe: "Créditos contingentes por avales o fianzas", la que se demostrará en la partida 1610 ó 1660 del formulario MB1.
+Los intereses correspondientes a los créditos contingentes, en moneda chilena o extranjera, se incluirán en la partida 7125.
 
-Haber: "Obligaciones contingentes por avales y fianzas", de la partida 3610 ó 3660 del formulario MB1.
+8.3.- Avales y fianzas pagados por la entidad avalista con sus propios recursos.
 
-En cada oportunidad en que se efectúe un pago, se revertirán los importes registrados en las mencionadas cuentas y se reingresarán, en el mismo acto, los saldos vigentes de la respectiva obligación, en caso de haberlos.
+Cuando una institución financiera pague con sus propios recursos una operación avalada o afianzada, cargará el importe desembolsado o el monto en moneda chilena necesario para adquirir la respectiva moneda extranjera si se trata de una cobertura en moneda extranjera, en la cuenta "Deudores por pago de obligaciones avaladas" de la partida 1140.
 
-7.2. Obligaciones en moneda extranjera.
-
-Los avales o fianzas que se otorguen para caucionar cualesquiera de las obligaciones señaladas en el numeral 6.1 precedente, se registrarán por sus respectivos valores en moneda extranjera en las cuentas:
-
-Los avales o fianzas que se otorguen para caucionar cualesquiera de las obligaciones señaladas en las letras b), c), d) y e) del numeral 6.1 precedente, se registrarán por sus respectivos valores en moneda extranjera en las cuentas:
-
-Debe: "Créditos contingentes por avales o fianzas", que se incluye en la partida 1610 ó 1660 del formulario MB1.
-
-Haber: "Obligaciones contingentes por avales y fianzas".
-
-Dentro de las mencionadas cuentas se establecerán subcuentas de acuerdo al tipo de operación avalada. Así, los avales relativos a créditos externos ingresados al amparo del Capitulo XIV del Título I del Compendio de Normas de Cambios Internacionales, se registrarán en una subcuenta llamada "Préstamos externos Capítulo XIV.
-
-Aquellos que caucionen créditos del exterior recibidos por empresas del país, destinados a facilitar sus exportaciones, se contabilizarán en una subcuenta que se denominará "Créditos del exterior para exportaciones".
-
-Los avales o fianzas otorgados en calidad de contra-garantía de documentos emitidos en el exterior para garantizar calidad de las exportaciones chilenas o seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos, se llevarán en una subcuenta con el nombre de"Contra-garantía o avales sobre documentos de garantía emitidos en el
-
-exterior".
-
-Los compromisos por avales otorgados para responder de los pagos que se deriven de las obligaciones generadas por contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras, serán contabilizados por los bancos según las normas contenidas en las instrucciones impartidas por este Organismo para el tratamiento de esas operaciones.
-
-7.3. Avales sobre documentos extendidos en moneda extranjera y pagaderos en moneda chilena.
-
-Para la contabilización de los avales otorgados sobre letras de cambio extendidas en moneda extranjera, pero pagaderas en moneda chilena, que los importadores acepten a favor de los Servicios de Aduana por el pago diferido de derechos aduaneros, los bancos deben emplear las siguientes cuentas:
-
-Debe: "Créditos contingentes por avales o fianzas en moneda extranjera pagaderos en moneda chilena", de la partida 1610 ó 1660, según corresponda.
-
-Haber: "Obligaciones contingentes por avales y fianzas en moneda extranjera pagaderos en moneda chilena", de la partida 3610 ó 3660, según proceda.
-
-7.4. Avales y fianzas pagados por la entidad avalista con sus propios recursos.
-
-Cuando una institución financiera deba pagar con sus propios recursos una operación avalada o afianzada, cargará el importe desembolsado o el monto en moneda chilena necesario para adquirir la respectiva moneda extranjera si se trata de una cobertura en moneda extranjera, en una cuenta de la partida 1140 "Varios deudores".
-
-Los importes registrados en "Varios deudores" que no sean recuperados, se traspasarán a cartera vencida dentro de los 90 días siguientes, conforme a lo establecido en el Capítulo 8-26 de esta Recopilación Actualizada de Normas.
-
-7.5. Custodia de Certificados de Inscripción.
-
-Los certificados, en los casos que corresponda, deberán ser contabilizados en la misma moneda en que estén expresados, en la cuenta de orden "Valores en custodia", de la partida 9260.
-
-### 8. Límites legales
-
-8.1.- Límites globales de avales y fianzas.
-
-El monto global de las obligaciones pagaderas en moneda nacional que cada institución financiera podrá mantener en carácter de avalista y fiador, no debe exceder en ningún momento, sumadas a las obligaciones de la misma naturaleza pagaderas en moneda extranjera, de dos veces su capital pagado y reservas.
-
-Para las operaciones pagaderas en moneda extranjera, dicho monto global no debe exceder de una vez su capital pagado y reservas, según lo dispuesto en el Capítulo III.I.1 del Compendio de Normas Financieras del Banco Central de Chile.
-
-8.2. Límite individual.
-
-Los avales y fianzas, tanto en moneda chilena como en moneda extranjera, que otorguen las instituciones financieras, se computarán dentro de los márgenes individuales de endeudamiento del avalado o afianzado, establecidos en el artículo 84 de la Ley General de Bancos.
-
-En el caso que dos o más instituciones avalen en forma solidaria una o más obligaciones a cargo de una misma persona, cada una de ellas deberá imputar el monto total del aval a los márgenes del respectivo deudor, de acuerdo con lo dispuesto en el párrafo anterior. Solamente en el caso en que una obligación sea avalada con responsabilidad compartida por dos o más entidades financieras en proporción a montos perfectamente limitados, cada una de esas empresas podrá imputar al respectivo deudor la parte correspondiente a la responsabilidad comprometida por ella.
-
-8.3. Relación deuda capital.
-
-Los compromisos que las entidades financieras contraigan por concepto de avales o fianzas, deberán sumarse al monto global de sus demás obligaciones, para los efectos del límite fijado en los artículos 81 y 115 de la Ley General de Bancos.
-
-### 9. Encaje
-
-Las obligaciones por avales o fianzas otorgados por las instituciones
-
-financieras quedarán exentas de encaje, en conformidad con lo dispuesto en el
-
-Capítulo III.I.1 del Compendio de Normas Financieras del Banco Central de Chile.
-
-### 10. Antecedentes de operaciones avaladas
-
-Para los fines relacionados con las comprobaciones que esta Superintendencia pueda requerir, las instituciones financieras deberán habilitar una carpeta para cada operación avalada o afianzada, en la que mantendrán todos los antecedentes documentarlos relacionados con su origen, desarrollo y, en general, los que sean precisos para esclarecer, eventualmente, cuantos detalles puedan pedírseles respecto a dichas operaciones. Como elemento primordial de esta carpeta, deberán incorporar a ella una fotocopia del instrumento en que conste la fianza o aval otorgados, y en su caso, del documento en que conste la obligación que se caucione.
-
-El Banco Central de Chile podrá exigir a las empresas bancarias, en la oportunidad que lo estime conveniente, los antecedentes que correspondan a los avales y fianzas en moneda extranjera, conforme a lo establecido en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales.
+Los importes registrados en esa cuenta que no sean recuperados, se traspasarán a cartera vencida dentro de los 90 días siguientes a su registro en ella, conforme a lo establecido en el Capitulo 8-26 de esta Recopilación Actualizada de Normas.
 
 CAPITULO 8-11 (Bancos)
 
@@ -9406,15 +9298,7 @@ favor de terceros, susceptibles de caucionarse mediante este instrumento.
 
 De conformidad con lo dispuesto en el Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales, las empresas bancarias pueden emitir boletas de garantía en moneda extranjera con el objeto de caucionar el cumplimiento de obligaciones de hacer, a favor de personas residentes en Chile o en el extranjero.
 
-Sin embargo, para emitir dichas boletas a favor de personas que no tengan residencia en el país o que generen una obligación de pago en el exterior, deberán contar previamante con la autorización del Banco Central de Chile, excepto cuando se trate de caucionar aquellas operaciones señaladas en las letras a) y b) de este numeral.
-
 Los importes en moneda extranjera que los bancos paguen a las personas residentes en el país, por haberse hecho efectivas las boletas de garantía que hayan emitido, deberán ser liquidados a moneda corriente nacional en el mercado cambiario formal. Los bancos emisores de las boletas de garantía serán responsables del cumplimiento de esta norma.
-
-Los bancos no necesitarán autorización previa del Banco Central de Chile para emitir boletas de garantía en moneda extranjera, cuyo objeto sea alguno de los siguientes:
-
-a) Para responder por las garantías de calidad de exportaciones chilenas; de seriedad en el cumplimiento de propuestas abiertas en el exterior a que concurran exportadores chilenos; o por el cumplimiento de contratos de exportación firmados por exportadores chilenos.
-
-b) Para caucionar obligaciones a favor del Banco Central de Chile, en el caso de las personas naturales o jurídicas que deban constituir esas garantías, de acuerdo con las disposiciones dictadas por el Instituto Emisor.
 
 El Banco Central de Chile podrá requerir en cualquier momento a las empresas bancarias la entrega de los antecedentes que correspondan a las boletas de garantía en moneda extranjera emitidas conforme a las normas contenidas en el Capítulo XXI antes citado. Los bancos deberán cumplir con la entrega de dichos documentos dentro del plazo que para tal efecto se les señale.
 
@@ -9498,85 +9382,7 @@ cumplirse la finalidad para la cual fue otorgada.
 
 Los bancos pueden emitir boletas de garantía contra pagarés, en pesos moneda nacional sin reajustabilidad o reajustables por alguno de los sistemas de que trata el Capítulo II.B.3 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 7-1 de esta Recopilación. Tanto la boleta como el pagaré, cuando la emisión de aquélla se haga con financiamiento bancario, se extenderán con el mismo sistema de reajustabilidad. Si la emisión se realiza contra un depósito del tomador, este último, en caso que devuelva la boleta, podrá reclamar la reajustabilidad del depósito, solamente si éste ha cumplido a lo menos 30 ó 90 días desde la fecha de su entero, según se trate de una operación reajustable por la variación del tipo de cambio del dólar de los Estados Unidos de América o de otro sistema de reajuste, respectivamente, de conformidad con las normas del Banco Central de Chile sobre depósitos y captaciones reajustables. No obstante, el pago al beneficiario se hará siempre en términos reajustables, cuando sea esa la cláusula de pago, aún en el caso que no hubieran transcurrido 30 ó 90 días desde la emisión del documento, según corresponda.
 
-### 11. Normas contables
-
-11.1. Emisión de boletas de garantía.
-
-11.1.1. En moneda chilena.
-
-a) Con depósito en dinero efectivo.
-
-Las instituciones bancarias que reciban depósitos en dinero efectivo para la emisión de boletas de garantía, registrarán el importe recibido en depósito y la emisión de la correspondiente boleta, en la siguiente forma:
-
-Debe: "Caja", por el importe recibido para constituir el depósito para boleta de garantía.
-
-Haber: - "Boletas de garantía enteradas en efectivo". El saldo de esta cuenta se reflejará en la partida 3010, del formulario MB1. En el caso que se trate de un documento pagadero a 30 días o más, el registro se hará en la cuenta:
-
-- "Boletas de garantía enteradas en efectivo-pagaderas a 30 días o más", cuyo saldo se incluirá en la partida 3030, del formulario MB1.
-
-Si el depósito recibido tiene por objeto emitir una boleta de garantía reajustable, el registro contable del mismo se hará en la cuenta:
-
-- "Boletas de garantía reajustables en efectivo". El saldo de esta cuenta será demostrado en la partida 3010 ó 3030, del formulario MB1. En todo caso al depósito se le reconocerán los reajustes ganados, solamente si mantiene una permanencia mínima de 30 ó 90 días, según corresponda.
-
-b) Con préstamo o contra pagaré.
-
-Cuando la boleta sea emitida contra un préstamo que, para el efecto le otorgue al tomador la institución bancaria, el registro contable será el siguiente:
-
-Debe: "Deudores por boletas de garantía" o "Deudores por boletas de garantía reajustables", según corresponda, El saldo de esta cuenta se demostrará en la partida 1605 del formulario MB1, a menos que tanto el préstamo como la boleta misma tuvieran alguna cláusula relativa a que su pago se hará efectivo en un plazo superior a un año, contado desde la fecha en que fuera requerido, caso excepcional en que se registrará en la partida 1655 del formulario MB1.
-
-Haber: "Boletas de garantía enteradas con pagaré". El saldo de esta cuenta se demostrará en la partida 3605 del formulario MB1, salvo que la boleta especifique que su pago se hará efectivo en un plazo de más de un año contado desde la fecha en que el beneficiario comunique su decisión de hacerla efectiva,caso en que será demostrada en la partida 3655, del formulario MB1.
-
-11.1.2. En moneda extranjera.
-
-a) En dinero efectivo.
-
-Se procederá de la misma manera señalada para las boletas emitidas contra un depósito en pesos, moneda chilena, debitando "Caja" o la cuenta que corresponda por la recepción de la respectiva moneda extranjera.
-
-b) Contra pagaré.
-
-La contabilización de una boleta de garantía extendida en moneda extranjera y emitida contra un préstamo otorgado al respectivo tomador, se hará en forma similar a la indicada en la letra b) del numeral 11.1.1. anterior.
-
-En todo caso,debe señalarse tanto en el pagaré respectivo como en la boleta, cuando el documento sea pagadero por su equivalente en pesos moneda nacional.
-
-c) Contra depósito en pesos moneda chilena.
-
-Las entidades bancarias pueden emitir también las boletas de garantía expresadas en moneda extranjera y pagaderas por su equivalente en pesos, moneda nacional,contra un depósito constituido por el respectivo tomador, por el correspondiente equivalente en pesos. En tal caso, el depósito que se constituya será considerado y tratado como depósito reajustable por la variación del tipo de cambio y la contabilización se hará de la siguiente forma:
-
-Debe: "Caja", por el importe equivalente de la moneda extranjera recibido en pesos, moneda nacional.
-
-Haber: "Boletas de garantía expresadas en moneda extranjera enteradas y pagaderas en pesos moneda nacional", por el valor original de los pesos recibidos para la emisión de la boleta que será reajustado al término de cada mes, de acuerdo con la variación que tena la respectiva moneda extranjera. El saldo de esta cuenta será demostrado en la columna "Reajustable" de la partida 3010 ó 3030, del formulario MB1, según sea la forma de pago establecida (a la vista o con 30 o más días de aviso). Conviene que, para los efectos de un mejor control e información se establezcan subcuentas por cada tipo de moneda, Debe
-
-tenerse presente que para los efectos de su devolución al tomador, los reajustes devengados por el depósito serán pagados solamente si éste ha enterado a lo menos 30 días.
-
-11.2. Intereses sobre boletas de garantía.
-
-Los intereses que los bancos cobren por los préstamos otorgados para boletas de garantía, en moneda chilena o extranjera, serán acreditados en la respectiva cuenta de resultados de la partida 7125 "Intereses percibidos y devengados por colocaciones contingentes.
-
-11.3. Reajustes sobre boletas de garantía.
-
-a) Emitidas contra pagaré.
-
-Las colocaciones y obligaciones contingentes derivadas de la emisión de boletas de garantía contra pagaré no generarán reajustes que afecten las cuentas de resultado, en la medida en que cada asiento de activo tenga su correspondiente contrapartida en el pasivo.
-
-b) Emitidas contra depósito en dinero efectivo.
-
-En los casos de las boletas reajustables emitidas contra depósito en dinero efectivo,los reajustes que devengue éste, de acuerdo a lo que al respecto se hubiera pactado,se debitarán a la cuenta "Reajustes pagados sobre depósitos enteradas para boletas de garantía", cuyo saldo se demostrará en la partida 5315 del formulario MR1.
-
-11.4. Pago de las boletas de garantía.
-
-El pago de la boleta de garantía al respectivo beneficiario, cuando éste la haga efectiva o a su tomador, ocasionará la reversión de los asientos a que se refiere la letra b) de los numerales 11.1.1. y 11.1.2 anteriores y tratándose de boletas constituidas con un depósito en dinero efectivo, se procederá al giro de ese depósito para hacer frente al pago.
-
-Sin embargo, si el pago de una boleta de garantía cursada contra pagaré se realiza sin que el deudor o tomador reembolse su importe al banco a más tardar al momento que éste efectúe dicho pago, el crédito contingente hasta entonces existente, se convertirá en un crédito efectivo que, a menos que se convenga en otorgar al deudor un financiamiento para hacer frente a ese rembolso, se registrará en "Deudores por boletas de garantía pagadas", cuenta cuyo saldo se demostrará en la partida 1140 "Varios Deudores" del formulario MB1. Como el pagaré suscrito por el deudor es "a la vista", la contabilización del mismo en la referida cuenta no podrá ser por un plazo mayor de 90 días. Al término de ese plazo, si no ha sido pagado, deberá traspasarse a "Cartera Vencida".
-
-En el caso que el depósito efectuado por el tomador fuera insuficiente para responder al pago de la boleta-caso que puede suceder, por ejemplo, con las operaciones reajustables, cuando la boleta es cobrada antes de que el depósito cumpla su plazo para comenzar a devengar reajustes-la diferencia correspondiente se registrará igualmente en la cuenta "Deudores por boletas de garantía pagadas", de la partida 1140 "Varios Deudores", sujeto al plazo máximo de 90 días de permanencia en esa cuenta.
-
-11.5. Boletas de garantía a favor de organismos del sector público.
-
-En el número 3 del presente capítulo se señaló que los bancos deben mantener un libro talonario diferente para la emisión de boletas de garantía a favor de instituciones públicas. De igual modo, es necesario que en la contabilidad queden separadas las boletas extendidas a favor de entes del sector público, de aquellas que lo son a favor de personas naturales o jurídicas privadas. En consecuencia, las cuentas "Boletas de garantía enteradas en efectivo"; "Boletas de garantía reajustables enteradas en efectivo"; "Boletas de garantía enteradas con pagaré"; "Boletas de garantía expresadas en moneda extranjera enteradas y
-
-pagaderas en pesos moneda nacional", se deben mantener divididas en las subcuentas; "Boletas de garantía a favor del sector privado" y "Boletas de garantía a favor de organismos públicos".
-
-11.6. Extinción de la boleta de garantía.
+11.- Extinción de la boleta de garantía.
 
 Las boletas de garantía se extinguen al momento que el beneficiario la hace efectiva o que el tomador la devuelve al banco, dentro del plazo de validez que se le ha dado al documento. En caso que la boleta de garantía sea devuelta, deberá constar en el dorso la leyenda "Devuelta al tomador" y el nombre o razón social y la firma del beneficiario.
 
@@ -9584,45 +9390,47 @@ Si ella no es cobrada o devuelta hasta la fecha fijada para su vencimiento, la i
 
 En cuanto a las boletas emitidas sin un plazo determinado de vencimiento, ellas podrán cancelarse, si no son cobradas o devueltas, si el banco obtiene del beneficiario una declaración en el sentido de que ella no será cobrada y que, en consecuencia, renuncia a todo derecho que pudiera haber tenido sobre esa garantía.
 
-### 12. Límite global de endeudamiento
+12.- Límite de boletas de garantía en moneda extranjera.
 
-La obligación que la institución bancaria asume ante el beneficiario de una
+De acuerdo con lo establecido por el Banco Central de Chile en el Capítulo III.I.1 de su Compendio de Normas Financieras, el monto global de los créditos contingentes en moneda extranjera por boletas de garantía, avales o fianzas y cartas de crédito stand by, que otorgue un banco a personas residentes o domiciliadas en el país, no podrá exceder de una vez el patrimonio efectivo de la entidad emisora o avalista.
 
-boleta de garantía emitida contra pagaré o por el depósito recibido del
+Independientemente del límite anterior, las mismas normas del Banco Central de Chile disponen que el monto de esos créditos contingentes otorgados a personas no residentes ni domiciliadas en el país, no podrá exceder del 25% de dicho patrimonio. Ese porcentaje podrá alcanzar hasta el 37,5 % si la empresa bancaria cuenta con un indicador de Basilea igual o superior a 10%.
 
-tomador,cuando su emisión se realice con cargo a un depósito, debe computarse
+En todo caso, los créditos contingentes por boletas de garantía, avales o fianzas y cartas de crédito stand by, que se otorguen a un banco extranjero de cuya propiedad sea partícipe el banco chileno, deben computarse para el límite que establece el N° 2 del inciso primero del artículo 80 de la Ley General de Bancos.
 
-para los fines del límite de endeudamiento con terceros, de que trata el
+13.- Normas contables.
 
-#### Artículo 81
+Las boletas de garantía que emitan los bancos serán registradas de la siguiente forma:
 
-de la Ley General de Bancos y acerca del cual instruyó esta
+13.1.- Boletas emitidas con depósito en dinero efectivo.
 
-Superintendencia en el Capítulo 12-2 de esta Recopilación de Normas.
+La emisión de boletas de garantía contra recepción de un depósito en dinero efectivo que efectúe el tomador, será registrada en la cuenta "Boletas de garantía en efectivo", de la partida 3010, si es pagadera a la vista, o de la partida 3030, si es pagadera con 30 días de aviso.
 
-### 13. Relación de operaciones activas y pasivas
+13.2.- Emisión de la boleta con crédito.
 
-De conformidad con las instrucciones impartidas en el Capítulo 12-9 de esta
+Cuando la boleta sea emitida contra un crédito otorgado al tomador por la institución bancaria, el registro contable será el siguiente:
 
-Recopilación, las colocaciones y obligaciones derivadas de la emisión de boletas
+Debe: "Deudores por boletas de garantía", de la partida 1605 ó 1655.
 
-de garantía contra pagaré, no quedan afectas a la regulación establecida por el
+Haber: "Boletas de garantía enteradas con pagaré", de la partida 3605 ó 3655.
 
-Banco Central de Chile, en el Capítulo III.B.2 del Compendio de Normas
+13.3.- Reajustes e intereses.
 
-Financieras, para las operaciones activas y pasivas.
+Los reajustes devengados por las boletas de garantía reajustables emitidas contra depósito en dinero efectivo, se debitarán a la cuenta "Reajustes pagados sobre boletas de garantía en efectivo", de la partida 5315.
 
-Sin embargo, quedan sujetos a esas disposiciones los depósitos que se enteren
+Los reajustes de las colocaciones y obligaciones contingentes deben registrarse de acuerdo con lo previsto en el Capítulo 7-1 de esta Recopilación, esto es, sin afectar las cuentas de resultados.
 
-para la emisión de esos documentos, que se demuestran en las partidas 3010 ó
+Los intereses correspondientes a los créditos contingentes, en moneda chilena o extranjera, se incluirán en la partida 7125.
 
-3030, del formulario MB1.
+13.4.- Pago de las boletas de garantía tomadas con crédito.
+
+En el caso que el pago de una boleta de garantía emitida con cargo a un crédito otorgado al tomador no sea reembolsado de inmediato por éste, el banco deberá registrar el monto desembolsado y no cubierto por el tomador, en la cuenta "Deudores por boletas de garantía pagadas", de la partida 1140.
+
+Los importes registrados en esa cuenta que no sean recuperados, se traspasarán a cartera vencida dentro de los 90 días siguientes, conforme a lo establecido en el Capítulo 8-26 de esta Recopilación Actualizada de Normas.
 
 ### 14. Formato de la boleta de garantía
 
-Las boletas de garantía tendrán el formato y características, señalados en el N°
-
-2 del Capítulo 6-1 de esta Recopilación de Normas.
+Las boletas de garantía tendrán el formato y características señalados en el N° 2 del Capítulo 6-1 de esta Recopilación de Normas, salvo cuando se trate de las boletas de garantía a que se refiere el N° 15 siguiente, caso en el cual podrá adoptarse un formato distinto.
 
 15.- Boletas de Garantía emitidas por cuenta de un banco del exterior.
 
@@ -15604,7 +15412,7 @@ De acuerdo con lo establecido en el N° 1 del artículo 80 de la Ley General de 
 
 a) La suma de los depósitos, préstamos y otras acreencias que los bancos chilenos mantengan, ya sea directamente o a través de otras personas, en sociedades del giro bancario de las que sean accionistas, no podrán exceder del 25% del patrimonio efectivo de la entidad extranjera. Esta disposición del N° 2 del artículo 80 de la Ley General de Bancos alcanza a todos los depósitos a la vista o a plazo y los créditos que otorgue la institución financiera chilena, sus sucursales en el exterior y sus filiales, como asimismo los efectuados por cualquier persona a través de la cual la institución financiera provea de fondos a la entidad extranjera a que se refiere este límite.
 
-b) Dentro del límite señalado en la letra a), las instituciones financieras chilenas sólo podrán avalar, afianzar o, en cualquier forma, caucionar obligaciones de bancos u otras sociedades en las que participen en el extranjero, en los casos y en la forma que determinen las normas sobre cauciones para tales entidades que dicte el Banco Central de Chile o esta Superintendencia en uso de sus respectivas facultades.
+b) Las instituciones financieras chilenas podrán avalar, afianzar o, en cualquier forma, caucionar obligaciones de bancos u otras sociedades en las que participen en el extranjero, con sujeción al límite señalado en la letra a) precedente y dentro de los márgenes generales mencionados en el Capítulo 8-10 de esta Recopilación.
 
 c) Las instituciones financieras chilenas deberán proporcionar a esta Superintendencia información sobre las entidades extranjeras en que participen, sin perjuicio de la obligación que imponen los artículos 9° y 10 de la Ley N° 18.045. Dichas información se entregará conforme a lo previsto en los títulos IV y y de este Capítulo.
 
@@ -16160,7 +15968,7 @@ b) Instrumentos financieros en moneda de su país de origen, emitidos o garantiz
 
 a) Créditos contra otras instituciones financieras regidas por la Ley General de Bancos. Incluye préstamos interbancarios, operaciones con pacto de retroventa, inversiones en letras de crédito o en bonos, depósitos a plazo y cualquier otro crédito contra bancos o sociedades financieras constituidos en Chile o sucursales de bancos extranjeros que operen en el país.
 
-b) La ley también incluye en esta categoría las "cartas de crédito irrevocables y pagaderas a su sola presentación para operaciones de comercio exterior, pendientes de negociación, otorgadas por bancos extranjeros calificados en primera categoría de riesgo que figuren en la nómina a que se refiere el artículo 78". De esta disposición se desprende que los bancos podrán incluir en esta categoría los créditos contingentes que correspondan a confirmaciones de cartas de crédito documentarías a la vista, emitidas por bancos extranjeros calificados en primera categoría de riesgo por una empresa calificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
+b) La ley también incluye en esta categoría las "cartas de crédito irrevocables y pagaderas a su sola presentación para operaciones de comercio exterior, pendientes de negociación, otorgadas por bancos extranjeros calificados en primera categoría de riesgo por empresas calificadoras internacionales que figuren en la nómina a que se refiere el artículo 78". De esta disposición se desprende que los bancos podrán incluir en esta categoría los créditos contingentes que correspondan a confirmaciones de cartas de crédito documentarías a la vista, emitidas por bancos extranjeros calificados en primera categoría de riesgo por una empresa calificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
 
 2.4.- Categoría 4.
 
@@ -16463,6 +16271,14 @@ Por otra parte, no se considera deudor directo ni indirecto al banco del exterio
 Los emisores de valores mobiliarios de renta fija y los suscriptores o aceptantes de efectos de comercio adquiridos o descontados por la institución, son siempre deudores de ella por tales instrumentos y tienen la calidad de deudores directos cuando dichos documentos son cedidos sin responsabilidad del vendedor.
 
 En el caso de documentos nominativos o a la orden que hayan sido cedidos o endosados a la institución financiera con la responsabilidad de un tercero, se considerará deudor directo al cedente o endosante, mientras que los demás obligados al pago pasarán a tener la calidad de deudores indirectos.
+
+En todo caso, si la institución financiera adquiere en forma masiva documentos representativos de crédito de dinero, el cedente debe considerarse deudor directo, aun cuando los endosos se hayan efectuado sin responsabilidad, si ocurre alguna de las siguientes circunstancias:
+
+- **a)** la institución financiera no efectúe una calificación de cada uno de los deudores de los créditos comprendidos en la cesión;
+
+- **b)** el cedente se encargue, directamente o a través de un tercero, de la cobranza de los créditos cedidos; o
+
+- **c)** se establezca alguna condición que garantice la recuperación total o parcial de los créditos o la sustitución por otros documentos, en caso de morosidad u otras circunstancias.
 
 En cualquier caso, como es natural, el propio documento adquirido o descontado por la institución financiera no sirve de garantía de los créditos directos o indirectos de los obligados a su pago.
 
@@ -16900,9 +16716,7 @@ Con todo, la cartera vencida incluirá solamente los intereses y reajustes deven
 
 3.2. Intereses, reajustes y variación del tipo de cambio.
 
-En la medida en que no se otorgue un nuevo crédito o que no exista novación dela obligación primitivamente pactada y que no nazca, por lo tanto, una nueva obligación que por voluntad de las partes o disposición de la ley sustituya a la anterior, el mayor valor de los créditos otorgados, originado por el devengo o capitalización de intereses y reajustes o por el efecto de la variación del tipo de cambio que ocasione un exceso en el monto de esos créditos respecto del margen legal, no se considera una infracción a las disposiciones del artículo 84. De allí que un crédito otorgado originalmente dentro de los límites, como producto de sucesivas renovaciones o prórrogas puede originar un exceso no
-
-sancionable, siempre que dichas renovaciones no impliquen novación de la obligación primitiva o no se otorguen otros créditos.
+En la medida en que no se otorgue un nuevo crédito o que no exista novación dela obligación primitivamente pactada y que no nazca, por lo tanto, una nueva obligación que por voluntad de las partes o disposición de la ley sustituya a la anterior, el mayor valor de los créditos otorgados, originado por el devengo o capitalización de intereses y reajustes o por el efecto de la variación del tipo de cambio que ocasione un exceso en el monto de esos créditos respecto del margen legal, no se considera una infracción a las disposiciones del artículo 84. De allí que un crédito otorgado originalmente dentro de los límites, como producto de sucesivas renovaciones o prórrogas puede originar un exceso no sancionable, siempre que dichas renovaciones no impliquen novación de la obligación primitiva o no se otorguen otros créditos.
 
 Lo anterior no significa que los créditos pueden computarse por el valor de la obligación original para establecer la procedencia de otorgar un nuevo crédito o novar uno existente. En consecuencia, si se otorga un crédito y con ello nace una nueva obligación del deudor, deben computarse previamente los créditos ya otorgados de la forma indicada en el numeral 3.1 anterior, para determinar si se dispone de margen para concederlo.
 
@@ -16913,6 +16727,10 @@ Al respecto, conviene tener presente que, en el evento de que no existiere marge
 No obstante que el cambio de moneda de una obligación no implica, por si solo,una novación, al tratarse de créditos otorgados en moneda extranjera para exportaciones, acogidos a los mayores márgenes a que se refiere el N° 2 del título I de este capítulo, cualquier modificación a los dos requisitos copulativos que la ley exige para acogerse a esos límites especiales, esto es, ser en moneda extranjera y tener por finalidad el financiamiento de exportaciones, impide seguir amparando el crédito en ese mayor límite.
 
 En este caso, la forma de determinar el monto de los créditos no difiere de lo indicado en los numerales precedentes, pero ellos no pueden seguir acogidos al margen especial si se cambian las condicione primitivas que sí lo permitían.
+
+3.4.- Avales solidarios.
+
+En el caso que dos o más instituciones avalen en forma solidaria una o más obligaciones a cargo de una misma persona, cada una de ellas deberá imputar el monto total del aval a los márgenes del respectivo deudor, para los efectos de los límites del artículo 84 de la Ley General de Bancos. Solamente en el caso en que una obligación sea avalada con responsabilidad compartida por dos o más entidades financieras en proporción a montos perfectamente limitados, cada una de esas empresas podrá imputar al respectivo deudor la parte correspondiente a la responsabilidad comprometida por ella.
 
 ### 4. Valor actualizado de las garantías
 
@@ -17040,9 +16858,7 @@ a una institución financiera no se considerarán relacionados cuando su partici
 
 1.2. Personas relacionadas con una institución financiera a través de la gestión.
 
-Están relacionadas a través de la gestión de una institución financiera aquellas personas que, sin tener necesariamente participación en la propiedad, ejercen algún grado de control sobre las decisiones de la entidad, por el cargo que ocupan en ella. Se considera que ejercen esta influencia los directores, el gerente general, el subgerente general, los gerentes y subgerentes, los agentes y las personas que son apoderados generales o se desempeñan como asesores del directorio, de un comité de directores o de la gerencia, como también el fiscal,el abogado jefe y el contralor. Si en una institución prestan servicios
-
-personas que desempeñan funciones similares a los cargos descritos, quedarán sujetas a la condición de relacionadas por gestión, aunque se les haya asignado otro nombre.
+Están relacionadas a través de la gestión de una institución financiera aquellas personas que, sin tener necesariamente participación en la propiedad, ejercen algún grado de control sobre las decisiones de la entidad, por el cargo que ocupan en ella. Se considera que ejercen esta influencia los directores, el gerente general, el subgerente general, los gerentes y subgerentes, los agentes y las personas que son apoderados generales o se desempeñan como asesores del directorio, de un comité de directores o de la gerencia, como también el fiscal,el abogado jefe y el contralor. Si en una institución prestan servicios personas que desempeñan funciones similares a los cargos descritos, quedarán sujetas a la condición de relacionadas por gestión, aunque se les haya asignado otro nombre.
 
 Se considerarán también relacionadas a la entidad financiera las sociedades en que cualquiera de los recién mencionados tenga, directamente o a través de otras sociedades, su cónyuge, separado o no de bienes, o sus hijos menores, una participación en la propiedad igual o superior a un 5%.
 
@@ -17079,14 +16895,6 @@ i) Cuando las obligaciones del deudor sean servidas con recursos de una persona 
 j) Cuando el deudor mantenga cuentas, que representen un porcentaje importante de su activo o pasivo, con sociedades relacionadas a la institución financiera acreedora y no tenga un giro acreedora y no tenga un giro productivo que justifique la existencia de dichas cuentas.
 
 k) Cuando se trate de una sociedad deudora, previamente considerada relacionada, cuya propiedad sea traspasada a terceros sin que existan antecedentes fidedignos de que se permitió la presentación de otras ofertas; cuando las condiciones de venta difieren significativamente de las que prevalecen en el mercado o cuando los adquirentes no hayan demostrado un patrimonio que guarde relación con la magnitud de la operación antes de efectuarla.
-
-En relación con las presunciones señaladas, esta Superintendencia ha tomado conocimiento de operaciones que efectúan empresas relacionadas con la respectiva institución financiera, por las cuales se ceden a la institución documentos de crédito de dinero de que es titular la empresa, sin asumir responsabilidad por el pago de los mismos, o en otros términos, los respectivos títulos de crédito son endosados sin responsabilidad.
-
-Este Organismo ha podido determinar al respecto que la operatoria utilizada sirve para financiar a la empresa relacionada con cargo a la institución financiera. En efecto, aunque finalmente el cedente no asume responsabilidad, en la práctica, ello no resulta así, por cuanto la empresa cedente transfiere una universalidad de créditos de sus clientes que el banco no califica en forma individual, y muchas veces es la propia cedente la que se encarga de efectuar el cobro de los créditos y se obliga a prevenir la posible mora en los deudores de la cartera cedida.
-
-Por lo tanto, no se trata en la especie de una venta de determinados créditos de que es titular una persona, efectuada sin ulterior responsabilidad o garantía para ésta, en que la institución adquirente califica a los deudores de esos créditos y asume el riesgo correspondiente, sino que es una operación de financiamiento directo a la empresa relacionada.
-
-Por lo anterior, debe estimarse que esta situación se encuadra dentro de las presunciones de relación establecidas en las letras f) e i) de este numeral, y por lo tanto la compra de documentos efectuada en estos casos, debe considerarse dentro del margen del respectivo deudor relacionado a que se refiere el artículo 84 N° 2 de la Ley General de Bancos y el título III de este Capítulo.
 
 2. Entidades relacionadas a una institución y que conforman un grupo de personas vinculadas entre sí.
 
@@ -19186,58 +18994,6 @@ Los créditos otorgados por los bancos con cargo a los recursos de que trata est
 
 Los bancos deben enviar al Banco Central de Chile la información relativa a las líneas de crédito externas, en los términos indicados en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales.
 
-CAPITULO 13-21 (Bancos)
-
-MATERIA:
-
-TRANSACCIONES A FUTURO EN MERCADOS EXTRANJEROS. AVALES QUE PUEDEN OTORGAR LOS BANCOS.
-
-1. Avales y fianzas destinados a garantizar los pagos derivados de transacciones a futuro.
-
-De acuerdo con las disposiciones contenidas en el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales, las personas residentes en el país están facultadas para realizar las operaciones a futuro de que trata dicho Capítulo, con el objeto de cubrir el riesgo inherente a flujos futuros de productos o monedas extranjeras, correspondientes a operaciones ya realizadas o por realizarse en el mercado cambiario formal.
-
-Las obligaciones de pago que se generen con motivo de la realización de las operaciones antes mencionadas, pueden ser avaladas y afianzadas por los bancos, de acuerdo con las siguientes instrucciones:
-
-1.1. Requisitos para conceder el aval.
-
-Los bancos podrán caucionar mediante aval o fianza, los pagos derivados de los contratos a futuro, de productos o monedas extranjeras, suscritos por los participantes en los mercados a futuro, entre otras formas, mediante carta de crédito "stand by", a favor de las personas que actúen como contraparte de los usuarios de este sistema de cobertura de riesgos. Para ello se deberán cumplir los siguientes requisitos:
-
-a) Que la solicitud de aval o caución indique claramente el producto y su volumen físico o el monto de la moneda extranjera cubiertos mediante las transacciones que se garantizarán, como asimismo el período de vigencia de la garantía solicitada.
-
-b) Que el interesado se comprometa a dar estricto cumplimiento a todas las disposiciones contenidas en el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, aplicables a la operación que será avalada.
-
-c) Que los avales y fianzas que se otorguen para caucionar estos compromisos, no excedan los límites de que trata el N° 8 del Capítulo 8-10 de esta Recopilación Actualizada de Normas.
-
-1.2. Cartas de crédito "stand by".
-
-Si los bancos otorgan su garantía de pago de las obligaciones derivadas de transacciones a futuro, mediante cartas de crédito "stand by", ellas deberán extenderse a nombre del corredor o de la persona que actúe como contraparte del solicitante en estas operaciones y deberán mencionar, además del importe de la garantía, que pasará a ser el valor de la carta de crédito, el producto y su volumen físico o el monto de la moneda extranjera, objeto de las transacciones garantizadas y el plazo de vigencia de la garantía.
-
-1.3. Plazo de vigencia de los avales y fianzas.
-
-Los avales y fianzas que concedan los bancos, comprendiendo en ellos las cartas de crédito "stand by" o cualquiera otra forma en que se otorguen, para garantizar el pago de las obligaciones derivadas de las transacciones a futuro, deberán tener una vigencia determinada, que no podrá exceder de un año, desde su fecha de otorgamiento.
-
-### 2. Instrucciones contables
-
-2.1. Otorgamiento del aval o fianza.
-
-Los avales y fianzas de que se trata, se registrarán en las siguientes cuentas:
-
-Debe: - "Garantías otorgadas para operaciones de mercado futuro", dividida en dos subcuentas "carta garantía" o "carta de crédito stand by" según corresponda, de la partida 1610.
-
-Haber: - "Obligaciones por garantías otorgadas para operaciones a futuro", de la partida 3610.
-
-2.2. Pagos efectuados por los bancos en calidad de avalistas o fiadores.
-
-Los importes que los bancos desembolsen cuando efectúen pagos en su calidad de avalistas o fiadores, se registrarán en una cuenta de la partida 1140 "Varios Deudores".
-
-### 3. Márgenes legales
-
-Los compromisos que los bancos contraigan por esta clase de obligaciones, estarán sujetos a los límites sobre avales y fianzas de que trata el N° 8 del Capítulo 8-10 de esta Recopilación de Normas, sin perjuicio de los límites de crédito del artículo 84 de la Ley General de Bancos.
-
-### 4. Antecedentes de los avales o fianzas otorgados
-
-Los bancos deberán archivar en una carpeta individual, los antecedentes completos relativos a las operaciones amparadas por los avales o fianzas otorgados, incluida una copia del documento en que se dejó constancia de la garantía bancaria.
-
 CAPITULO 13-27 (Bancos)
 
 MATERIA:
@@ -20303,40 +20059,6 @@ Por otra parte, la negociación de cartas de crédito a plazo confirmadas corres
 En todo caso, en los límites a que se refiere este numeral, se deben incluir las demás obligaciones que pueda tener la entidad deudora con el banco negociador,sea que estén afectas a estos margenes especiales o a los generales, del 5% para créditos sin garantía y del 25% para operaciones amparadas por garantía.
 
 Las confirmaciones de cartas de crédito de exportación, entre la fecha en que estas se otorguen y la fecha de negociación de las respectivas cartas de crédito,no están afectas a los límites de crédito de que trata el artículo 84 de la Ley General de Bancos.
-
-CAPITULO 14-2 (Bancos)
-
-MATERIA:
-
-CARTAS DE CREDITO STAND BY PARA GARANTIZAR EL CUMPLIMIENTO DE CONTRATOS DE EXPORTACION.
-
-### 1. Emisión de cartas de crédito stand by
-
-De conformidad con lo dispuesto en el Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los bancos están facultados para emitir cartas de crédito stand by, con el objeto de garantizar el cumplimiento de contratos correspondientes a exportaciones, suscritos por exportadores chilenos.
-
-Estas cartas de crédito deberán señalar como mínimo los siguientes datos: Fecha de emisión, nombre completo y domicilio del beneficiario, monto que garantiza en moneda extranjera, identificación del contrato de exportación que caucionan y plazo de validez.
-
-### 2. Normas contables
-
-Las operaciones de que trata este capítulo, serán registradas en la forma que a continuación se indica:
-
-2.1. Emisión de las cartas de crédito.
-
-Debe: "Deudores por cartas de crédito stand by garantía exportaciones", por el monto en moneda extranjera de la respectiva carta de crédito, la que se demostrará en la partida 1610 del formulario MB1.
-
-Haber: "Obligaciones por cartas de crédito stand by garantía exportaciones", la que se demostrará en la partida 3610 del formulario MB1.
-
-2.2. Intereses.
-
-Los intereses que devenguen estas operaciones, serán acreditados en la cuenta "Intereses ganados" de la partida 7125 del formulario MR1, con cargo a la cuenta "Intereses por cobrar" de la partida 1810 del formulario MB1.
-
-3.3. Comisiones.
-
-Las comisiones que los bancos cobren por los créditos de que se trata, serán acreditadas en la cuenta "Comisiones ganadas por cartas de crédito stand by", la que se demostrara en la partida 7510 del formulario MR1.
-
-### 3. Límites legales
-
-Los créditos de que trata este capítulo y las obligaciones que de ellos se derivan, quedan afectos a los límites a que se refieren los artículos 84 y 81, respectivamente, de la Ley General de Bancos.
 
 CAPITULO 14-3 (Bancos)
 
