@@ -8628,29 +8628,11 @@ AVALES Y FIANZAS.
 
 ### 1. Obligaciones susceptibles de ser avaladas o afianzadas
 
-En general, con excepción de las limitaciones y prohibiciones que se señalan en
+En general, con excepción de las limitaciones y prohibiciones que se señalan en este mismo capítulo, las instituciones financieras pueden avalar o afianzar, en forma simple o solidaria, obligaciones expresadas en moneda chilena.
 
-este mismo capítulo, las instituciones financieras pueden avalar o afianzar, en
+Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda extranjera en conformidad con lo establecido en el Capítulo XX del Compendio de Normas de Cambios Internacionales y en el Capítulo III I 1 del Compendio de Normas Financieras, del Banco Central de Chile. Las sociedades financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda extranjera cuando sean expresamente autorizadas para ello.
 
-forma simple o solidaria, obligaciones expresadas en moneda chilena.
-
-Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda
-
-extranjera en conformidad con lo establecido en el Capítulo XX del Compendio de
-
-Normas de Cambios Internacionales del Banco Central de Chile. Las sociedades
-
-financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda
-
-extranjera cuando sean expresamente autorizadas para ello.
-
-En todo caso, las instituciones financieras podrán avalar o afianzar solamente
-
-aquellas obligaciones que correspondan a operaciones comerciales o financieras
-
-efectivas y conocidas, cuyo monto y plazo estén de antemano perfectamente
-
-determinados, y su riesgo haya sido previamente calificado.
+En todo caso, las instituciones financieras podrán avalar o afianzar solamente aquellas obligaciones que correspondan a operaciones comerciales o financieras efectivas y conocidas, cuyo monto y plazo estén de antemano perfectamente determinados, y su riesgo haya sido previamente calificado.
 
 ### 2. Forma de otorgar los avales o fianzas
 
@@ -8718,51 +8700,21 @@ directos.
 
 6.1. Operaciones que pueden ser avaladas o afianzadas.
 
-Los bancos están facultados para avalar o afianzar obligaciones en moneda
-
-extranjera, cuyo objeto sea alguno de los siguientes:
+Los bancos están facultados para avalar o afianzar obligaciones en moneda extranjera, cuyo objeto sea alguno de los siguientes:
 
 a) Responder del pago de importaciones pagaderas a más de un año plazo;
 
-b) Responder de créditos recibidos del exterior por empresas del país, que se
+b) Responder de créditos recibidos del exterior por empresas del país, que se destinen a facilitar sus exportaciones;
 
-destinen a facilitar sus exportaciones;
+c) Responder a préstamos financieros, internados al país de acuerdo al Capítulo XIV del Compendio de Normas de Cambios Internacionales o autorizados por el Banco Central de Chile, siempre que en la respectiva autorización se señale que la operación contempla el aval bancario;
 
-c) Responder a préstamos financieros, internados al país al amparo del Art. 14
+d) Responder como garante directo o como contra fiador o avalista de documentos emitidos en el exterior que sirvan de garantía de calidad de las exportaciones chilenas o de seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos; y,
 
-de la Ley de Cambios Internacionales o autorizados por el Banco Central de
+e) Responder de los pagos que se deriven de las obligaciones generadas por los contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por las personas autorizadas para ello de conformidad con las disposiciones contenidas en el Capítulo VIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Estas cauciones también pueden
 
-Chile, siempre que en la respectiva autorización se señale que la operación
+otorgarse mediante cartas de crédito Stand by, las que deben sujetarse a las normas contenidas en este capítulo.
 
-contempla el aval bancario;
-
-d) Responder como garante directo o como contra fiador o avalista de documentos
-
-emitidos en el exterior que sirvan de garantía de calidad de las exportaciones
-
-chilenas o de seriedad en el cumplimiento de propuestas abiertas en el
-
-extranjero a que concurran exportadores chilenos; y,
-
-e) Responder de los pagos que se deriven de las obligaciones generadas por los
-
-contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras,por
-
-las personas autorizadas para ello de conformidad con las disposiciones
-
-contenidas en el Capítulo VIII del Compendio de Normas de Cambios
-
-Internacionales del Banco Central de Chile. Estas cauciones también pueden
-
-otorgarse mediante cartas de crédito Stand by, las que deben sujetarse a las
-
-normas contenidas en este capítulo.
-
-Asimismo, las instituciones bancarias podrán avalar letras de cambio extendidas
-
-en moneda extranjera, pagaderas en moneda chilena, que los importadores acepten
-
-en favor de los Servicios de Aduana para garantizar el pago diferido de derechos
+Asimismo, las instituciones bancarias podrán avalar letras de cambio extendidas en moneda extranjera, pagaderas en moneda chilena, que los importadores acepten en favor de los Servicios de Aduana para garantizar el pago diferido de derechos
 
 aduaneros.
 
@@ -8770,293 +8722,113 @@ aduaneros.
 
 a) Con recursos del deudor principal.
 
-Cuando el deudor pague, dentro del plazo correspondiente, las obligaciones en
-
-moneda extranjera avaladas o afianzadas que cuenten con acceso autorizado al
-
-mercado de divisas, la respectiva empresa bancaria procederá a efectuar la venta
-
-de las divisas necesarias e informará al Banco Central de Chile mediante las
-
-planillas respectivas, acompañadas de los documentos que se requieran en cada
-
-caso.
+Cuando el deudor pague, dentro del plazo correspondiente, las obligaciones en moneda extranjera avaladas o afianzadas que cuenten con acceso autorizado al mercado de divisas, la respectiva empresa bancaria procederá a efectuar la venta de las divisas necesarias e informará al Banco Central de Chile mediante las planillas respectivas, acompañadas de los documentos que se requieran en cada caso.
 
 b) Con recursos del banco avalista o fiador.
 
-Si el deudor principal no ha cumplido el pago total o parcial de una obligación
+Si el deudor principal no ha cumplido el pago total o parcial de una obligación en moneda extranjera avalada o afianzada, y siempre que ella cuente con acceso autorizado al mercado de divisas, el banco avalista o fiador efectuará la cobertura por el monto que corresponda, con cargo a sus propios recursos en moneda chilena.
 
-en moneda extranjera avalada o afianzada, y siempre que ella cuente con acceso
-
-autorizado al mercado de divisas, el banco avalista o fiador efectuará la
-
-cobertura por el monto que corresponda, con cargo a sus propios recursos en
-
-moneda chilena.
-
-En este caso, la entidad bancaria deberá indicar este hecho en la
-
-correspondiente planilla de egreso que enviará al Banco Central de Chile
-
-acompañada de la documentación que corresponda.
+En este caso, la entidad bancaria deberá indicar este hecho en la correspondiente planilla de egreso que enviará al Banco Central de Chile acompañada de la documentación que corresponda.
 
 Cuando se trate de la cobertura de préstamos internados al amparo del artículo
 
-14 de la Ley de Cambios Internacionales, las entidades bancarias que realicen el
+14 de la Ley de Cambios Internacionales, las entidades bancarias que realicen el pago en su carácter de avalistas o fiadores, deberán presentar al Banco Central de Chile el correspondiente Certificado de Inscripción de Aporte de Capital.
 
-pago en su carácter de avalistas o fiadores, deberán presentar al Banco Central
-
-de Chile el correspondiente Certificado de Inscripción de Aporte de Capital.
-
-Para estos efectos, las empresas bancarias, al momento de otorgar su aval o
-
-fianza, exigirán al deudor la entrega del referido Certificado emitido por el
-
-Banco Central de Chile, el que mantendrán en custodia hasta la extinción de la
-
-obligación caucionada.
+Para estos efectos, las empresas bancarias, al momento de otorgar su aval o fianza, exigirán al deudor la entrega del referido Certificado emitido por el Banco Central de Chile, el que mantendrán en custodia hasta la extinción de la obligación caucionada.
 
 ### 7. Instrucciones contables
 
 7.1. Obligaciones en moneda chilena.
 
-Los avales o fianzas que otorguen las instituciones financieras en
+Los avales o fianzas que otorguen las instituciones financieras en moneda,chilena serán registrados al momento en que se perfeccionen en el instrumento en que se otorguen, en las siguientes cuentas por el importe total de los respectivos documentos avalados o afianzados, o por la parte proporcional que corresponda, en el caso de tratarse de avales con responsabilidad compartida en proporciones o montos determinados, siempre que así esté claramente establecido en los instrumentos correspondientes:
 
-moneda,chilena serán registrados al momento en que se perfeccionen en el
+Debe: "Créditos contingentes por avales o fianzas", la que se demostrará en la partida 1610 ó 1660 del formulario MB1.
 
-instrumento en que se otorguen, en las siguientes cuentas por el importe total
+Haber: "Obligaciones contingentes por avales y fianzas", de la partida 3610 ó 3660 del formulario MB1.
 
-de los respectivos documentos avalados o afianzados, o por la parte proporcional
-
-que corresponda, en el caso de tratarse de avales con responsabilidad compartida
-
-en proporciones o montos determinados, siempre que así esté claramente
-
-establecido en los instrumentos correspondientes:
-
-Debe: "Créditos contingentes por avales o fianzas", la que se demostrará en la
-
-partida 1610 ó 1660 del formulario MB1.
-
-Haber: "Obligaciones contingentes por avales y fianzas", de la partida 3610 ó
-
-3660 del formulario MB1.
-
-En cada oportunidad en que se efectúe un pago, se revertirán los importes
-
-registrados en las mencionadas cuentas y se reingresarán, en el mismo acto, los
-
-saldos vigentes de la respectiva obligación, en caso de haberlos.
+En cada oportunidad en que se efectúe un pago, se revertirán los importes registrados en las mencionadas cuentas y se reingresarán, en el mismo acto, los saldos vigentes de la respectiva obligación, en caso de haberlos.
 
 7.2. Obligaciones en moneda extranjera.
 
 a) Por coberturas diferidas avaladas o afianzadas.
 
-Las empresas bancarias contabilizarán los avales o fianzas que otorguen en
+Las empresas bancarias contabilizarán los avales o fianzas que otorguen en moneda extranjera por importaciones con cobertura diferida, en las siguientes cuentas y en la misma moneda en que se encuentren expresadas las obligaciones caucionadas:
 
-moneda extranjera por importaciones con cobertura diferida, en las siguientes
+Debe: "Créditos contingentes por avales o fianzas", Subcuenta "Coberturas diferidas cuotas por cubrir", la que se reflejará en la partida 1610 ó 1660 del formulario MB1.
 
-cuentas y en la misma moneda en que se encuentren expresadas las obligaciones
+Haber: "Obligaciones contingentes por avales y fianzas", Subcuenta "Coberturas diferidas cuotas por cubrir", de la partida 3610 ó 3660 del formulario MB1.
 
-caucionadas:
+En cada oportunidad en que se efectúe la cobertura parcial o total de una operación avalada registrada en estas cuentas, se procederá a revertir el importe de ella y a ingresar el saldo vigente, cuando lo hubiere.
 
-Debe: "Créditos contingentes por avales o fianzas", Subcuenta "Coberturas
+En aquellos casos en que se cubra anticipadamente una obligación avalada o afianzada correspondiente a una importación con cobertura diferida, se contabilizará a su vez el importe cubierto y avalado, en las siguientes cuentas:
 
-diferidas cuotas por cubrir", la que se reflejará en la partida 1610 ó 1660 del
+Debe: "Créditos contingentes por avales o fianzas", Subcuenta "Coberturas diferidas cuotas cubiertas", cuyo saldo se demostrará en la partida 1610 ó 1660 del formulario MB1.
 
-formulario MB1.
+Haber: "Obligaciones contingentes por avales y fianzas", Subcuenta "Coberturas diferidas cubiertas", de la partida 3610 ó 3660 del formulario MB1.
 
-Haber: "Obligaciones contingentes por avales y fianzas", Subcuenta "Coberturas
-
-diferidas cuotas por cubrir", de la partida 3610 ó 3660 del formulario MB1.
-
-En cada oportunidad en que se efectúe la cobertura parcial o total de una
-
-operación avalada registrada en estas cuentas, se procederá a revertir el
-
-importe de ella y a ingresar el saldo vigente, cuando lo hubiere.
-
-En aquellos casos en que se cubra anticipadamente una obligación avalada o
-
-afianzada correspondiente a una importación con cobertura diferida, se
-
-contabilizará a su vez el importe cubierto y avalado, en las siguientes cuentas:
-
-Debe: "Créditos contingentes por avales o fianzas", Subcuenta "Coberturas
-
-diferidas cuotas cubiertas", cuyo saldo se demostrará en la partida 1610 ó 1660
-
-del formulario MB1.
-
-Haber: "Obligaciones contingentes por avales y fianzas", Subcuenta "Coberturas
-
-diferidas cubiertas", de la partida 3610 ó 3660 del formulario MB1.
-
-En la oportunidad en que se proceda a pagar al acreedor la obligación avalada y
-
-cubierta anticipadamente, se revertirá la contabilización efectuada en las
-
-referidas cuentas, por el importe respectivo.
+En la oportunidad en que se proceda a pagar al acreedor la obligación avalada y cubierta anticipadamente, se revertirá la contabilización efectuada en las referidas cuentas, por el importe respectivo.
 
 b) Otros avales en moneda extranjera.
 
-Los avales o fianzas que se otorguen para caucionar cualesquiera de las
+Los avales o fianzas que se otorguen para caucionar cualesquiera de las obligaciones señaladas en las letras b), c), d) y e) del numeral 6.1 precedente, se registrarán por sus respectivos valores en moneda extranjera en las cuentas:
 
-obligaciones señaladas en las letras b), c), d) y e) del numeral 6.1 precedente,
-
-se registrarán por sus respectivos valores en moneda extranjera en las cuentas:
-
-Debe: "Créditos contingentes por avales o fianzas", que se incluye en la partida
-
-1610 ó 1660 del formulario MB1.
+Debe: "Créditos contingentes por avales o fianzas", que se incluye en la partida 1610 ó 1660 del formulario MB1.
 
 Haber: "Obligaciones contingentes por avales y fianzas".
 
-Dentro de las mencionadas cuentas se establecerán subcuentas de acuerdo al tipo
+Dentro de las mencionadas cuentas se establecerán subcuentas de acuerdo al tipo de operación avalada. Así, los avales relativos a créditos externos ingresados al amparo del artículo 14 de la Ley de Cambios Internacionales se registrarán en una subcuenta llamada "Préstamos externos Art. 14".
 
-de operación avalada. Así, los avales relativos a créditos externos ingresados
+Aquellos que caucionen créditos del exterior recibidos por empresas del país, destinados a facilitar sus exportaciones, se contabilizarán en una subcuenta que se denominará "Créditos del exterior para exportaciones".
 
-al amparo del artículo 14 de la Ley de Cambios Internacionales se registrarán en
-
-una subcuenta llamada "Préstamos externos Art. 14".
-
-Aquellos que caucionen créditos del exterior recibidos por empresas del país,
-
-destinados a facilitar sus exportaciones, se contabilizarán en una subcuenta que
-
-se denominará "Créditos del exterior para exportaciones".
-
-Los avales o fianzas otorgados en calidad de contra-garantía de documentos
-
-emitidos en el exterior para garantizar calidad de las exportaciones chilenas o
-
-seriedad en el cumplimiento de propuestas abiertas en el extranjero a que
-
-concurran exportadores chilenos, se llevarán en una subcuenta con el nombre
-
-de"Contra-garantía o avales sobre documentos de garantía emitidos en el
+Los avales o fianzas otorgados en calidad de contra-garantía de documentos emitidos en el exterior para garantizar calidad de las exportaciones chilenas o seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos, se llevarán en una subcuenta con el nombre de"Contra-garantía o avales sobre documentos de garantía emitidos en el
 
 exterior".
 
-Los compromisos por avales otorgados para responder de los pagos que se deriven
+Los compromisos por avales otorgados para responder de los pagos que se deriven de las obligaciones generadas por contratos a futuro celebrados con corredores de Bolsas Oficiales Extranjeras, serán contabilizados por los bancos según las normas contenidas en las instrucciones impartidas por este Organismo para el tratamiento de esas operaciones.
 
-de las obligaciones generadas por contratos a futuro celebrados con corredores
+7.3. Avales sobre documentos extendidos en moneda extranjera y pagaderos en moneda chilena.
 
-de Bolsas Oficiales Extranjeras, serán contabilizados por los bancos según las
+Para la contabilización de los avales otorgados sobre letras de cambio extendidas en moneda extranjera, pero pagaderas en moneda chilena, que los importadores acepten a favor de los Servicios de Aduana por el pago diferido de derechos aduaneros, los bancos deben emplear las siguientes cuentas:
 
-normas contenidas en las instrucciones impartidas por este Organismo para el
+Debe: "Créditos contingentes por avales o fianzas en moneda extranjera pagaderos en moneda chilena", de la partida 1610 ó 1660, según corresponda.
 
-tratamiento de esas operaciones.
-
-7.3. Avales sobre documentos extendidos en moneda extranjera y pagaderos en
-
-moneda chilena.
-
-Para la contabilización de los avales otorgados sobre letras de cambio
-
-extendidas en moneda extranjera, pero pagaderas en moneda chilena, que los
-
-importadores acepten a favor de los Servicios de Aduana por el pago diferido de
-
-derechos aduaneros, los bancos deben emplear las siguientes cuentas:
-
-Debe: "Créditos contingentes por avales o fianzas en moneda extranjera pagaderos
-
-en moneda chilena", de la partida 1610 ó 1660, según corresponda.
-
-Haber: "Obligaciones contingentes por avales y fianzas en moneda extranjera
-
-pagaderos en moneda chilena", de la partida 3610 ó 3660, según proceda.
+Haber: "Obligaciones contingentes por avales y fianzas en moneda extranjera pagaderos en moneda chilena", de la partida 3610 ó 3660, según proceda.
 
 7.4. Avales y fianzas pagados por la entidad avalista con sus propios recursos.
 
-Cuando una institución financiera deba pagar con sus propios recursos una
+Cuando una institución financiera deba pagar con sus propios recursos una operación avalada o afianzada, cargará el importe desembolsado en la cuenta "Varios deudores", de la partida 1140 del formulario MB1. Si dicho importe no es recuperado dentro de los 90 días calendario siguientes, la entidad de que se trate lo traspasará a "Colocaciones vencidas, de la partida 1405 del formulario MB1.
 
-operación avalada o afianzada, cargará el importe desembolsado en la cuenta
+No obstante lo anterior, cuando un banco avalista efectúe la cobertura del importe desembolsado en moneda extranjera, debitará en la cuenta "Varios deudores" el monto en moneda chilena necesario para adquirir la respectiva moneda extranjera.
 
-"Varios deudores", de la partida 1140 del formulario MB1. Si dicho importe no es
+7.5. Custodia de Certificados de Inscripción de Préstamos ingresados al amparo del Art. 14 de la Ley sobre Operaciones de Cambios Internacionales.
 
-recuperado dentro de los 90 días calendario siguientes, la entidad de que se
-
-trate lo traspasará a "Cartera Vencida", de la partida 1405 del formulario MB1.
-
-No obstante lo anterior, cuando un banco avalista efectúe la cobertura del
-
-importe desembolsado en moneda extranjera, debitará en la cuenta "Varios
-
-deudores" el monto en moneda chilena necesario para adquirir la respectiva
-
-moneda extranjera.
-
-7.5. Custodia de Certificados de Inscripción de Préstamos ingresados al amparo
-
-del Art. 14 de la Ley sobre Operaciones de Cambios Internacionales.
-
-Los certificados a que se refiere el inciso final de la letra b) del numeral 6.2
-
-de este capítulo, deberán ser contabilizados, en la misma moneda en que estén
-
-expresados, en las cuentas que se indican a continuación:
+Los certificados a que se refiere el inciso final de la letra b) del numeral 6.2 de este capítulo, deberán ser contabilizados, en la misma moneda en que estén expresados, en las cuentas que se indican a continuación:
 
 Debe: "Valores en custodia", de la partida 9260 del formulario MB1.
 
-Haber: "Depositantes de valores en custodia", de la partida 9900 del formulario
-
-MB1.
+Haber: "Depositantes de valores en custodia", de la partida 9900 del formulario MB1.
 
 ### 8. Límites legales
 
-8.1. Límite global.
+8.1.- Límites globales de avales y fianzas.
 
-El monto global de las obligaciones que cada institución financiera podrá
+El monto global de las obligaciones pagaderas en moneda nacional que cada institución financiera podrá mantener en carácter de avalista y fiador, no debe exceder en ningún momento, sumadas a las obligaciones de la misma naturaleza pagaderas en moneda extranjera, de dos veces su capital pagado y reservas.
 
-mantener en el carácter de avalista o fiador no podrá exceder en ningún momento
-
-del 100% de su capital pagado y reservas.
+Para las operaciones pagaderas en moneda extranjera, dicho monto global no debe exceder de una vez su capital pagado y reservas, según lo dispuesto en el Capítulo III.I.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 8.2. Límite individual.
 
-Los avales y fianzas, tanto en moneda chilena como en moneda extranjera, que
+Los avales y fianzas, tanto en moneda chilena como en moneda extranjera, que otorguen las instituciones financieras, se computarán dentro de los márgenes individuales de endeudamiento del avalado o afianzado, establecidos en el artículo 84 de la Ley General de Bancos.
 
-otorguen las instituciones financieras, se computarán dentro de los márgenes
-
-individuales de endeudamiento del avalado o afianzado, establecidos en el
-
-#### Artículo 84
-
-de la Ley General de Bancos.
-
-En el caso que dos o más instituciones avalen en forma solidaria una o más
-
-obligaciones a cargo de una misma persona, cada una de ellas deberá imputar el
-
-monto total del aval a los márgenes del respectivo deudor, de acuerdo con lo
-
-dispuesto en el párrafo anterior. Solamente en el caso en que una obligación sea
-
-avalada con responsabilidad compartida por dos o más entidades financieras en
-
-proporción a montos perfectamente limitados, cada una de esas empresas podrá
-
-imputar al respectivo deudor la parte correspondiente a la responsabilidad
-
-comprometida por ella.
+En el caso que dos o más instituciones avalen en forma solidaria una o más obligaciones a cargo de una misma persona, cada una de ellas deberá imputar el monto total del aval a los márgenes del respectivo deudor, de acuerdo con lo dispuesto en el párrafo anterior. Solamente en el caso en que una obligación sea avalada con responsabilidad compartida por dos o más entidades financieras en proporción a montos perfectamente limitados, cada una de esas empresas podrá imputar al respectivo deudor la parte correspondiente a la responsabilidad comprometida por ella.
 
 8.3. Cobertura anticipada de operaciones avaladas o afianzadas.
 
-No se imputarán a los márgenes señalados en los numerales 8.1 y 8.2 precedentes,
-
-las cuotas de coberturas diferidas con aval bancario que hayan sido cubiertas
-
-con anticipación a su vencimiento, de acuerdo a las normas que rigen la materia.
+No se imputarán a los márgenes señalados en los numerales 8.1 y 8.2 precedentes, las cuotas de coberturas diferidas con aval bancario que hayan sido cubiertas con anticipación a su vencimiento, de acuerdo a las normas que rigen la materia.
 
 8.4. Relación deuda capital.
 
-Los compromisos que las entidades financieras contraigan por concepto de avales
-
-o fianzas, deberán sumarse al monto global de sus demás obligaciones, para los
-
-efectos del límite fijado en los artículos 81 y 115 de la Ley General de Bancos.
+Los compromisos que las entidades financieras contraigan por concepto de avales o fianzas, deberán sumarse al monto global de sus demás obligaciones, para los efectos del límite fijado en los artículos 81 y 115 de la Ley General de Bancos.
 
 ### 9. Encaje
 
