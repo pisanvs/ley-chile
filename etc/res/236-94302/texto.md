@@ -1,0 +1,3 @@
+Por resolución No. 236 de 29 de Mayo de 1986, del Ministerio de Transportes y Telecomunicaciones se autorizó a la Sucesión Domingo Ghisoni Draghi, integrada por doña Sara Serafina Cvitanic Sapunar, doña Liliana Emilia Ghisoni Hutt y los señores Carlos Alberto Ghisoni Hutt y Aldo Domingo Ghisoni Hutt, para efectuar servicio internacional de transporte terrestre de pasajeros entre Punta Arenas (Chile) y Río Gallegos (Argentina), por el paso Monte Aymond.
+
+Patricio Figueroa Cruz, Subsecretario de Transportes subrogante.
