@@ -33106,7 +33106,9 @@ Para calcular las cantidades que deben rebajarse del impuesto por los conceptos 
 
 De acuerdo a lo que dispone el citado artículo 5 transitorio, la franquicia tributaria señalada redirá hasta el ejercicio tributario 1992, para el caso de la clasificación de títulos representativos de deuda, y hasta el ejercicio tributario 1995, para la clasificación de títulos representativos de capital.
 
-FIRMAS EVALUADORAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA.
+ANEXO N°1
+
+FIRMAS EVALUADORAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
 
 1) ANINAT, MENDEZ, MERINO Y ASOCIADOS, CLASIFICADORA DE RIESGO LTDA.
 
@@ -33119,6 +33121,8 @@ FIRMAS EVALUADORAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA.
 5) SOCIEDAD CLASIFICADORA DE RIESGO PRISMA LTDA.
 
 6) ECONSULT CLASIFICADORA DE RIESGO LTDA.
+
+7) COVARRUBIAS Y CIA. LTDA. CLASIFICADORA DE RIESGO.
 
 CAPITULO 19-2 (Bancos y Financieras)
 
