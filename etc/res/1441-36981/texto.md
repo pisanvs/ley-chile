@@ -1,0 +1,3 @@
+Por Resolución N° 1.441, de 5 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 1.159, de 1996, de esta Subsecretaría que autorizó a CONSTRUCCIONES Y CARPINTERIA NAVAL CONCAR S.A., en orden a señalar que la peticionaria podrá procesar en la planta ubicada en Lote 5 D 5, de Río Guanaco, comuna de Navarino, Puerto Williams, XII Región, en las líneas de elaboración de Congelado, Fresco-enfriado, Conservas y Ahumado, todos los recursos hidrobiológicos indicados en el numeral 2°, de la Resolución N° 1.159, de 1996, de esta Subsecretaría.
+
+Valparaíso, 5 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
