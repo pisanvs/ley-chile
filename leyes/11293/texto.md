@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Limache para contratar uno o más empréstitos que produzcan hasta la cantidad de $ 10.000.000 con el fin de construir los edificios para la Casa Consistorial, Teatro Municipal y locales comerciales para renta de la Municipalidad.
