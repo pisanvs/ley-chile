@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.718, de fecha 30 de junio de 2000, se expropió los lotes de terreno Nºs. 20, 21 y 22, superficie 1.764, 425 y 1.101 m2, respectivamente, rol de avalúo 49-37, comuna de Lonquimay, para la obra ''Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Puente La Puntilla - Lonquimay, Km. 106,69041 al Km. 119,30000'' y se acordó el valor de indemnización con su propietario Jorge Adalberto Salas Morales, ascendente a la cantidad de $700.199.
+
+Fiscal del Ministerio de Obras Públicas.
