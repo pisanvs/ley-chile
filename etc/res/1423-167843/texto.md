@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD "ASTILLEROS Y SERVICIOS NAVALES LIMITADA" PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 1.423 de 07.12.87 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad "Astilleros y Servicios Navales Limitada", domiciliada en Santiago, para ampliar las actividades pesqueras autorizadas por Resolución No. 206 de 1984 de esta Subsecretaría, en orden a instalar y operar una planta industrial ubicada en Bahía Ilque, Comuna de Puerto Montt, Provincia de Llanquihue, Xa. Región, en las líneas de elaboración de fresco - refrigerado y congelado, donde procesará los siguientes recursos hidrobiológicos: Salmón del atlántico, salmón del pacífico y trucha arco iris, que provendrán de centros de cultivo autorizados.
+
+Valparaíso, 07.12.87.- Roberto Cabezas Bello, Subsecretario de Pesca.
