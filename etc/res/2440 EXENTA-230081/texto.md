@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.440, de 1 de septiembre de 2004, de esta Subsecretaría, autorízase a COYA SUR Y COMPAÑIA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Costanera Sur, Playa Los Gringos s/n, Arica, I Región, donde podrá procesar, en las líneas de elaboración de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Seco-salado, Ahumado, Harina, Aceite, Deshidratado, Salazón o Salado-húmedo y Semiconserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 1 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
