@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD VASQUEZ Y COMPAÑIA LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS QUE INDICA
+
+Por resolución N° 201 de 9 de Junio de 1983, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad "Vásquez y Compañía Limitada", domiciliada en Talcahuano, para operar la embarcación "Ulises VII", en el litoral comprendido entre la I y la XII Region, en labores extractivas de agujilla, anchoa, azulejo, atún aleta larga, atún aleta amarilla, bonito caballa, cabrilla, cojinova, congrio dorado, congrio colorado, congrio negro, cabinza, jurel, lisa, merluza común, merluza española, merluza de cola, pejerrey, pejegallo, pez espada, sardina española, sardina común, sierra, tollo, langostino colorado, langostino amarillo y camarón nylon.
+
+Santiago, 9 de Junio de 1983.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
