@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 592, de fecha 30 de abril de 2002, se expropiaron los lotes de terreno Nºs 2, 3, 4, 5 y 6, superficies 184 M2, 253 M2, 249 M2, 275 M2 y 479 M2, respectivamente, rol de avalúo 2210-32, comuna de Chillán, VIII Región, para la obra ''Mejoramiento Ruta N-45, Sector Variante Cato, Km. 0,00000 al 4,15551'', y se acordó el valor de indemnización con su propietaria doña Gloria Patricia Beas Peirano y Otro, ascendente a la cantidad de $4.819.315.-
+
+Fiscal del Ministerio de Obras Públicas.
