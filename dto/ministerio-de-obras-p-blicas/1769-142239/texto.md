@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.769, de 30 de junio de 1999, se expropiaron los lotes de terreno Nºs 8-A y 13, superficies 223 y 315 m², respectivamente, roles de avalúo en trámite y 172-4, comuna de Yerbas Buenas, para la obra Camino Ruta L-25, sector Lisonjera-Yerbas Buenas y se acordó precio de indemnización con sus propietarios Zoila Bustos Reyes y Thusnelda Torres Tapia, ascendente a las cantidades de $5.152.680 y $2.492.360.
+
+- Fiscal del Ministerio de Obras Públicas.
