@@ -1,0 +1,3 @@
+Por resolución Nº 251 de 3 de febrero de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.405 de 1996, de esta Subsecretaría, que autorizó a PESQUERA LANDES S.A., operar una nave en construcción, en virtud de lo dispuesto en el artículo 143 letra b) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 3 de febrero de 1999.- Edith Saa Collantes, Subsecretario de Pesca (S).
