@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICA PARA DESTINARLOS A LA CONSTRUCCION DE VIVIENDAS SOCIALES
+
+Por Resolución N° 85 de 07.08.1995, modificada por Resolución N° 111, de 14.09.1995 ordenó expropiación del inmueble ubicado en calle Los Copihues s/n comuna de Puerto Varas, en conformidad a lo dispuesto en el Art. 51 de la Ley 16.391 y D.L. 2.186 para destinarlo a la construcción de Viviendas Sociales de aparente dominio de Sociedad Constructora de Viviendas Económicas Varasur Ltda., superficie aproximada de 2,7 Hás. Indemnización provisoria de $18.900.000 determinada por Comisión Tasadora integrada por Carlos Mera Santibáñez y Daniel Cisterna Espinoza, Constructores Civiles y Leopoldo Schumacher Guarda, Ingeniero Civil según informe de 06 Junio 95. Indemnización se pagará de contado, según Art. 16 Inc. final D.L. 2.186.-
+
+Yolanda del Carmen Godoy Paz, Ministro de Fe, Serviu Región de Los Lagos.
