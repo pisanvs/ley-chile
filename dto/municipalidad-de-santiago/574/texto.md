@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 574, de 25 de Mayo de 1988, Alcalde de la I. Municipalidad de Santiago dispone derogación del Decreto Sección 2da. No. 1.105, de 23 de Julio de 1981, que ordenó expropiación parcial inmueble denominado Casa Colorada, ubicada en Merced 850 - 876 Santiago Rol 278-9. Ordénase desistimiento procedimiento judicial de expropiación de inmueble señalado y como consecuencia de ello la restitución del mismo a propietarios y se solicite cancelación de inscripción fojas 39.266 No. 50.926 Registro de Propiedades del Conservador de Bienes Raíces de Santiago 1981. Departamento Jurídico realizará gestiones fin obtener devolución dineros pagados y cobro mejoras introducidas.
+
+Gustavo Alessandri V., Alcalde de Santiago.
