@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº221, de 27 de febrero de 1998, se expropió el lote de terreno Nº2, superficies 274 m2., rol de avalúo 335-6, comuna de Peñaflor, para la obra Camino Nos Malloco Rol G-34, Sector Nos Malloco (desde Ciclovía 2 - Cruce Ruta 78) y se acordó precio de indemnización con su propietario Luis Andrés Garcés Vial, ascendente a la cantidad de $1.344.954.-
+
+Fiscal del Ministerio de Obras Públicas.
