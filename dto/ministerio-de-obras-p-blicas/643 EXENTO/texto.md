@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 643, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 149, superficie 228 M2, rol de avalúo 231-9, comuna de Olmué, V Región, para la obra ''Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,984 al 34,500'' y se acordó el valor de indemnización con su propietario don Heriberto Altamirano Villavicencio, ascendente a la cantidad de $1.287.495.-
+
+Fiscal del Ministerio de Obras Públicas.
