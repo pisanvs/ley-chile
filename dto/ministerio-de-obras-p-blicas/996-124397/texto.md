@@ -1,0 +1,3 @@
+Por decreto MOP. No. 996, de 30 de julio de 1998, se expropió el lote de terreno No. 6, superficie 4.033,53 m2., rol de avalúo 21-19, comuna de Tierra Amarilla, obra Camino Ruta C-35, sector Paipote Cerrillos y se acordó precio de indemnización con sus propietarios Elizabeth de las Mercedes Arancibia Fernández y otros, ascendente a la cantidad de $ 10.228.789.-
+
+Fiscal del Ministerio de Obras Públicas.
