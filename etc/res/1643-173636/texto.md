@@ -1,0 +1,1 @@
+Por resolución Nº 1.643 de 26 de julio de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura 95101208 presentada por RODRIGO PAYA GONZALEZ, para instalar y operar un centro de cultivo ubicado en sector Río del Este, bahía Ralún, comuna de Puerto Varas, provincia de Llanquihue, X Región.
