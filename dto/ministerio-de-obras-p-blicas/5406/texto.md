@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.406, de 29 de diciembre de 2000 y en base aa la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1-A, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector B La Trinchera-Putú (Variante Costera) Km. 13,240 al 30,000, que figura a nombre de Florencia Letelier Fumeron y ot, rol de avalúo 171-72, comuna de Curepto, superficie 24.891,81 m². La Comisión de Peritos fijó con fecha 5 de febrero de 2000, en la cantidad de $11.386.115.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
