@@ -1,0 +1,3 @@
+Por resolución No. 982, de 13 de Octubre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución No. 759, de 1989, modificada por la Resolución No. 1.882 de 1989, de esta Subsecretaría, por la cual se autorizó a PESQUERA MARBELLA S.A., R.U.T. No. 86.946.900-9, domiciliada en Santiago, Los Conquistadores 1700, Torre Santa María, piso 14, en orden a señalar las actuales características naúticas de la nave "Costa Grande 5".
+
+Valparaíso, 13 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
