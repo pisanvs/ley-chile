@@ -1,0 +1,5 @@
+Por resolución N° 837, de 29 de Octubre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA VIENTO SUR LTDA., R.U.T. N° 81.677.400-4, para ampliar actividades pequeras autorizadas por Decreto N° 336, 1968 del Ministerio de Agricultura, en orden a incorporar a las líneas de proceso ya autorizadas para su planta ubicada en Concepción, Entrada Camino a Bocar Sur N°, casilla 357, el proceso de fresco-refrigerado y podrá, asimismo, elaborar el siguiente recurso hidrobiológico en las líneas de proceso que se indica: Congelado y fresco-refrigerado: Besugo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
