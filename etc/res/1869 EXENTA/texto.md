@@ -1,0 +1,7 @@
+DISPONE EXCLUSION DE PERSONAS QUE INDICA EN NOMINAS DE POSTULANTES SELECCIONADOS PARA GOCE DE SUBSIDIO HABITACIONAL
+
+Res. exenta Nº 1.869, de fecha 17 de julio de 1998, dispone exclusión de don José Lionel Alarcón Gangas, de doña Verónica Brunilda Anabalón Reyes, de doña María Violeta Arredondo Berríos, de doña Lucía Marta Astudillo Guajardo, de doña Aurora del Carmen Calderón Cruz, de doña Ema Filomena Morales Castro, de don Florencio de la Cruz Pacheco Cabrera, de doña Marianela del Carmen Pacheco Riquelme, de don Nelson Alejandro Pérez Díaz, de don Eduardo Alberto Toro Toro, de don Osvaldo Antonio Velásquez Sotelo, de doña Clara de las Mercedes Verdejo Pérez y de doña Viviana del Carmen Vergara Canales, de las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado extraordinario Título I de 1997 del Sistema de Subsidio Habitacional para la Atención del Sector Rural.
+
+Como consecuencia de ello queda en 749 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado extraordinario Título I de 1997 del Sistema de Subsidio Habitacional para la Atención del Sector Rural y en 98.030 Unidades de Fomento (U.F.) el monto de recursos comprometidos para el financiamiento del subsidio directo de dichos postulantes seleccionados.
+
+- Berta A. Belmar Ruiz, Subsecretaria de Vivienda y Urbanismo.
