@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.431, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 34, 39, 47 y 65, para la obra Camino Cauquenes Límite Regional Quirihue, sector Cauquenes Kms. 0.000 al 17.780, que figuran a nombre de Marcelino S. Osores Osores, Manuel Fernández Vásquez, Humberto Díaz Canales y Miguel A. Macaya Macaya, roles de avalúo 426-50, 427-26, 426-20 y 427-21, Comuna de Cauquenes, VII Región, superficies 514, 526, 1.057 y 233 M2. La Comisión de Peritos, fijó con fecha 13 de julio de 1994, en las cantidades de $41.560, lote 34; $53.040, lote 39;
+
+$722.280, lote 47 y $933.980, lote 65. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
