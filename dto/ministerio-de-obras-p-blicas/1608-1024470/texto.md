@@ -118,7 +118,7 @@ Para 7 habitantes, 122,5 metros cuadrados
 
 Para 8 o más habitantes, 140 metros cuadrados.
 
-No obstante lo anterior, a las "viviendas económicas" que se construyan en las provincias de Aysen y Magallanes podrán agregarse construcciones, exteriores a la vivienda misma, que no incluyan instalaciones para servicios higiénicos, y cuya superficie no sobrepase los 16 metros cuadrados. Esta construcción adicional exterior no será computable para los efectos de aplicar a dicha vivienda los beneficios, franquicias y exenciones que contempla el DFL Nº 2, de 1959.
+No obstante lo anterior, a las "viviendas económicas" que se construyan en las provincias de Chiloé, Aysen y Magallanes podrán agregarse construcciones, exteriores a la vivienda misma, que no incluyan instalaciones para servicios higiénicos, y cuya superficie no sobrepase los 16 metros cuadrados. Esta construcción adicional exterior no será computable para los efectos de aplicar a dicha vivienda los beneficios, franquicias y exenciones que contempla el DFL Nº 2, de 1959.
 
 #### Artículo 11
 
@@ -197,6 +197,8 @@ o La distancia desde la puerta de acceso de una vivienda individual o de un edif
 o En los conjuntos de que trata el presente Título se exigirá que se proyecten como espacios comunes libres, superficies no inferiores a 1 metro cuadrado por cada habitante de vivienda con patio propio, y de 7 metros cuadrados por cada habitante de edificio o vivienda con patio común. Para que la vivienda sea considerada en el cálculo de los espacios comunes, como vivienda, con patio propio, dicho patio no debe ser inferior a 6 metros cuadrados por cada habitante de la vivienda. La cantidad de habitantes de las viviendas se calculará como se establece en el artículo 10.o Los pasajes se considerarán como espacios comunes de esparcimiento.
 
 Las condiciones de asoleamiento, zonificación y unidad de espacio común son de iniciativa del Arquitecto autor del proyecto, sin perjuicio de las resoluciones que adopten las autoridades correspondientes cuando procedan.
+
+En los conjuntos habitacionales que se proyecten en terrenos cuya superficie sea igual o mayor a 5.000 metros cuadrados y en los que se garantice la construcción total y simultánea, la superficie mínima del terreno singular podrá rebajarse hasta 100 metros cuadrados.
 
 #### Artículo 25
 
