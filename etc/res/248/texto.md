@@ -1,0 +1,5 @@
+Por Resolución N° 248, de 3 de Marzo de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA NACIONAL DE PESCA S.A., R.U.T. N° 96.540.500-3, para ampliar actividades pesqueras de transformación, autorizadas por Resoluciones N° 603, de 1987 y N° 181, de 1992, ambas de esta Subsecretaría, en orden a incorporar como materia prima a las líneas de proceso, autorizadas en su planta industrial ubicada en ex Población Valencia, Puerto de San Antonio, autorizada por las Resoluciones señaladas precedentemente, el recurso hidrobiológico Merluza de cola, el que deberá adquirir a industriales y será abastecido de su propia flota.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 3 de Marzo de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
