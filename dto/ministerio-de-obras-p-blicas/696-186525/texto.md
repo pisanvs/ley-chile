@@ -1,0 +1,3 @@
+Por decreto MOP Nº 696, de 30 de abril de 2001, se expropió el lote de terreno Nº 37, superficie 236 m2, rol de avalúo 5353-9, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Manuel Alberto Herboza Silva, ascendente a la cantidad de $32.166.127.-
+
+Fiscal del Ministerio de Obras Públicas.
