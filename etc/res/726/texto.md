@@ -1,0 +1,7 @@
+Por resolución N° 726 de 20 de Septiembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA LACKS S.A., R.U.T. N° 79.578.890-5, para ampliar actividades pesqueras de transformación que tiene autorizadas por la resolución N° 365, N° 529 y N° 789, todas de 1986, N° 436, de 1988 y N° 415, de 1993, todas de esta Subsecretaría, en orden a incorporar como materia prima a las líneas de proceso autorizadas en su planta industrial ubicada en Avenida Los Placeres N° 838, Cerro Placeres, Valparaíso, V Región, donde elaborará los siguientes recursos hidrobiológicos: Ahumado: Reineta, Salmón del Atlántico. Congelado: Azulejo, Cabinza, Cabrilla española, Cabrilla común, Marrajo o tiburón, Raya, Reineta, Salmón del Atlántico, Tiburón sardinero, Vidriola, Jibia, Navajuela, Langosta de Juan Fernández, Erizo. Salado: Anchoa o anchoveta, Cojinoba del norte, Congrio dorado, Corvina, Jurel, Rollizo, Sardina común, Sardina.
+
+Los recursos serán adquiridos a terceros; asimismo, deberá adquirir el recurso Salmón del Atlántico, de centros autorizados para realizar actividades de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 20 de Septiembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
