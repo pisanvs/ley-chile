@@ -1,0 +1,3 @@
+Por resolución Nº 2.559, de 27 de diciembre de 1999, de esta Subsecretaría, amplíase por un año, a contar del 30 de abril del año 2000, el plazo otorgado a PESQUERA BRAVAMAR LIMITADA, para desarrollar operaciones pesqueras con la nave ''Denise'', autorizada por resoluciones citadas en visto, en razón de haberse acreditado el hundimiento de la nave como caso fortuito.
+
+Valparaíso, 27 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
