@@ -1,0 +1,1 @@
+Destina fondos para la celebración de las fiestas del II Centenario de la fundación de la ciudad de Talca: para una exposición nacional de la industria, comercio y agricultura; un Teatro y Estadio, y un monumento a los próceres de Talca, etc., obras que, terminadas, deberán ser entregadas a la Municipalidad por la Comisión que indica.
