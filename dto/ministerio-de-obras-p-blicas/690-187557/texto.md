@@ -1,0 +1,3 @@
+Por decreto MOP Nº690, de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº48, superficie 3.916 m2., rol de avalúo 209-173, comuna de Panguipulli, para la obra "Camino Ch-203, Sector Bifurcación Coñaripe-Choshuenco (Acceso a Puentes) Tramo Km. 56,68000 al 93,28612" y se acordó el valor de indemnización con su propietario Claudio Joaquín Croquevielle Pérez, ascendente a la cantidad de $2.753.390.-
+
+Fiscal del Ministerio de Obras Públicas.
