@@ -1,0 +1,5 @@
+Por Resolución N° 763, de 30 de Septiembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD FRIGORIFICO SEMINARIO LIMITADA, R.U.T. N° 79.643.040-0, para ampliar actividades que tiene autorizadas por Resoluciones N° 1.010, de 1991 y N° 114, de 1993, ambas de esta Subsecretaría en orden a ampliar las actividades de procesamiento de la planta industrial autorizada en las Resoluciones individualizadas precedentemente, ubicada en la Región Metropolitana, Juan Griego N° 4590, comuna de San Joaquín, donde procesará en las líneas de elaboración de congelado, fresco-refrigerado, ahumado y semi-conservas, el siguiente recurso hidrobiológico: Erizo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 30 de Septiembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
