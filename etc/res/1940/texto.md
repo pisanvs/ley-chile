@@ -1,0 +1,3 @@
+Por Resolución N° 1.940, de 11 de noviembre de 1996 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 91001156, presentada por PEDRO JOSE MALDONADO PEREZ, para un centro de cultivo ubicado frente del Sector Putemún, Estero Castro, comuna de Castro, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
