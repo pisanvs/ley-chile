@@ -1,0 +1,1 @@
+Otorga facilidades a deudores Caja de Crédito Hipotecario.
