@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.412 de 29 de octubre de 1999, se expropió el lote de terreno Nº 88, superficie 940 m², rol de avalúo 1435-32, comuna de Llanquihue, para la obra Concesión Internacional Ruta 5; Tramo Río Bueno - Puerto Montt. Sector: Frutillar - Fresia, Décima Región y se acordó el valor de indemnización con su propietario Armando Fortunato Castro Muñoz, ascendente a la cantidad de $4.543.573.
+
+- Fiscal del Ministerio de Obras Públicas.
