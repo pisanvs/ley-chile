@@ -112,7 +112,7 @@ h) DEROGADO.
 
 i) Resolver, en casos a su juicio calificados, en el carácter de árbitro arbitrador sin ulterior recurso, las dificultades que se susciten entre compañía y compañía, entre éstas y sus intermediarios o entre éstas o el asegurado o beneficiario en su caso, cuando los interesados de común acuerdo lo soliciten. Sin embargo, el asegurado o el beneficiario podrán por sí solos solicitar al árbitro arbitrador la resolución de las dificultades que se produzcan, cuando el monto de la indemnización reclamada no sea superior a 120 unidades de fomento;
 
-j) Cuando lo juzgue conveniente, querellarse por el delito de incendio y hacerse parte en los procesos seguidos con motivo de tales delitos. La Superintendencia podrá, además, ordenar a las Compañías de Seguros, cuando lo estime conveniente, que se hagan parte de esos procesos o deduzcan querella. Podrán también las Compañías actuar en los procesos de incendios como querellantes o como partes, sin necesidad de orden del Superintendente, no obstante lo dispuesto en el artículo 114, del Código de Procedimiento Penal. La Compañía que intervenga en conformidad a este Artículo, tendrá la calidad de parte principal y deberán seguirse con ella todas las tramitaciones posteriores del juicio; pero sin que esta intervención signifique que ejercita la acción civil derivada del delito que se persigue;
+j) DEROGADO;
 
 k) Establecer, mediante norma de carácter general, disposiciones sobre la información que las compañías deberán proporcionar al público sobre el calce de sus activos y pasivos, en lo referente al plazo, reajustabilidad y tipo de moneda en que éstos se encuentran;
 
@@ -542,31 +542,29 @@ Las cuestiones litigiosas que se susciten con motivo de los contratos de seguros
 
 #### Artículo 30
 
-En todo proceso criminal que se siguiere por incendio, los Tribunales de Justicia apreciarán la prueba en conciencia y con entera libertad.
-
-En todo siniestro por incendio el Comandante del Cuerpo de Bomberos de la localidad respectiva, deberá enviar al Tribunal correspondiente, un informe escrito, cuya fuerza probatoria, para los efectos judiciales, tendrá el valor de una declaración de dos testigos contestes en el hecho y en sus circunstancias esenciales, sin tacha, legalmente examinados y que den razón de sus dichos.
+El Comandante del Cuerpo de Bomberos que hubiere intervenido en las labores relacionadas con cualquier siniestro por incendio deberá enviar al Ministerio Público un informe escrito, en el que se individualizará el voluntario que dirigió dichas tareas; el lugar de ocurrencia y el estado en que se encontraba el bien afectado; una relación circunstanciada de las operaciones practicadas y su resultado, y las conclusiones que, en vista de su conocimiento y experiencia, pudiere formular sobre el origen del incendio y las causas que lo provocaron.
 
 DEROGADO.
 
 #### Artículo 31
 
-Cuando el incendio tuviere lugar en el establecimiento de un comerciante o industrial, el Juez se incautará de los libros y papeles del siniestrado y asegurará su comparecencia ante el Tribunal, procediendo su detención sólo en caso de que hubiere fundado temor de su fuga o que dicha medida fuere indispensable para el éxito de las investigaciones sobre el origen del siniestro.
+Cuando el incendio tuviere lugar en un establecimiento comercial o industrial, el Ministerio Público, con la autorización del juez de garantía, incautará los libros y papeles del siniestrado, actuando en lo demás conforme al procedimiento que corresponda de acuerdo al Código Procesal Penal.
 
-Tanto el Juez como los funcionarios de policía, en su caso, deberán procurar que las medidas que adopten, no perturbe las labores de extinción del incendio y salvataje y custodia de las especies.
+Tanto el fiscal del Ministerio Público como los funcionarios de policía, en su caso, deberán procurar que las medidas que adopten, no perturbe las labores de extinción del incendio y salvataje y custodia de las especies.
 
 #### Artículo 32
 
-Producido el siniestro, el local ocupado por el establecimiento comercial o industrial y el salvataje, quedarán a la orden del Juzgado, quien deberá tomar las medidas necesarias para evitar mayores perjuicios.
+Producido el siniestro, el local ocupado por el establecimiento comercial o industrial y el salvataje, quedarán a la orden del Ministerio Público, quien deberá tomar las medidas necesarias para evitar mayores perjuicios.
 
-Si hubiere seguros comprometidos, el Juez entregará el local y salvataje aludidos al liquidador oficial nombrado por las Compañías Aseguradoras y bajo la responsabilidad de éstas.
+Si hubiere seguros comprometidos, el juez de garantía, a solicitud del Ministerio Público, podrá autorizar que se entregue el local y salvataje aludidos al liquidador oficial nombrado por las Compañías aseguradoras y bajo la responsabilidad de éstas.
 
-Para los efectos del inciso anterior, la Asociación de Aseguradores de Chile o en su defecto la entidad que señale la Superintendencia de Compañías de Seguros deberá, a petición del Juez, informar sobre la existencia de seguros comprometidos en el siniestro.
+Para los efectos del inciso anterior, la Asociación de Aseguradores de Chile o en su defecto la entidad que señale la Superintendencia de Valores y Seguros deberá, a petición del Ministerio Público, informar sobre la existencia de seguros comprometidos en el siniestro.
 
 #### Artículo 33
 
-Ni el asegurador, ni el asegurado, ni ambos juntos, podrán disponer del salvataje sino con la autorización del juez que conoce del sumario, quien sólo podrá otorgarla una vez evacuado el informe pericial en el caso que esta diligencia se haya decretado, salvo que el éxito de las investigaciones aconseje lo contrario.
+Ni el asegurador, ni el asegurado, ni ambos juntos, podrán disponer del salvataje sino con la autorización del fiscal del Ministerio Público que dirija la investigación, quien deberá otorgarla una vez evacuadas las diligencias que se hubieren ordenado, o con anterioridad si ellas no se vieren entorpecidas por tal disposición.
 
-El producido de la realización del salvataje en caso de efectuarse, quedará a la orden del Juzgado durante los veinte días siguientes a la iniciación del proceso, con excepción de los gastos efectuados que podrán cancelarse desde luego con audiencia del liquidador de seguros y del asegurado.
+El producido de la realización del salvataje, en caso de efectuarse, quedará a disposición del juez de garantía durante los veinte días siguientes a la iniciación de la investigación, con excepción de los gastos efectuados, que podrán pagarse desde luego con audiencia del Ministerio Público, del liquidador de seguros y del asegurado.
 
 #### Artículo 34
 
@@ -574,9 +572,7 @@ DEROGADO.
 
 #### Artículo 35
 
-La detención de los comerciantes en los casos calificados en el Artículo 31, podrá durar hasta diez días, a contar de la iniciación del sumario. Pasado el plazo de veinte días, a contar de la misma fecha, el Juzgado entregará el producido del salvataje a su dueño y las Compañías aseguradoras podrán pagar los seguros comprometidos, a menos que se haya declarado reo al siniestrado.
-
-> **Nota.** El artículo 9º de la LEY 19047, modificado por las leyes 19114 y 19158, ordenó sustituir la palabra "reo" por las expresiones "procesado", "inculpado", "condenado", "demandado" o "ejecutado" o bien mantenerse según corresponda.
+Pasado el plazo de veinte días, a contar desde el inicio de la investigación, el juez de garantía entregará el producido del salvataje a su dueño, y las Compañías aseguradoras podrán pagar los seguros comprometidos, a menos que el Ministerio Público hubiere formalizado la investigación en contra del siniestrado y solicitare que se decrete como medida cautelar real la retención del producto del salvataje.
 
 #### Artículo 36
 
@@ -648,7 +644,7 @@ En el caso previsto en el número 5°, la Superintendencia, al momento de notifi
 
 No podrán participar en las actividades regidas por esta ley como directores, gerentes, administradores, apoderados o representantes legales de una entidad aseguradora, reaseguradora, corredora de seguros, liquidadora de siniestros o administradora de mutuos hipotecarios, ni ejercer la actividad de corredor de seguros o de liquidador de siniestros, las siguientes personas:
 
-a) los procesados o condenados por delitos que merezcan pena aflictiva o por los delitos a que se refiere esta ley;
+a) los condenados por delitos que merezcan pena aflictiva o por los delitos a que se refiere esta ley;
 
 b) los fallidos no rehabilitados o quienes tengan prohibición o incapacidad de comerciar; y
 
@@ -666,9 +662,7 @@ No obstante lo anterior, cuando una persona haga uso del derecho que le confiere
 
 #### Artículo 47
 
-La Compañía que efectuare el pago de indemnización por un siniestro a favor de un asegurado a quien se procesa como presunto culpable, antes de que éste obtenga a su favor sentencia absolutoria o sobreseimiento definitivo ya ejecutoriado, incurrirá en la sanción que la Superintendencia resuelva imponerle, de acuerdo con la gravedad de la falta.
-
-No obstante, podrá la Superintendencia autorizar en casos calificados especialmente, el pago de las indemnizaciones después de dictado el auto de sobreseimiento temporal a favor del asegurado.
+La compañía que efectuare el pago de indemnización por un siniestro a favor de un asegurado en contra del cual exista una medida cautelar vigente que lo prohiba, incurrirá en la sanción que la Superintendencia resuelva imponerle, de acuerdo con la gravedad de la falta.
 
 #### Artículo 48
 
@@ -692,7 +686,7 @@ Los administradores y gerentes de las compañías de seguros tendrán las mismas
 
 Si alguna persona o entidad ejerciera en cualquier forma el comercio de seguros o de reaseguros, contraviniendo las disposiciones de los Artículos 4 y 46, la Superintendencia podrá clausurar las oficinas o establecimientos en que se ejerciten esas actividades, para lo cual el Intendente o Gobernador respectivo, a petición del Superintendente, deberán suministrar el auxilio de la fuerza pública, sin perjuicio de incurrir en la sanción contemplada en el inciso primero del Artículo 467 del Código Penal.
 
-Las operaciones que se hubieren efectuado serán liquidadas por un liquidador designado por el Juez del Crimen que conociere de la denuncia respectiva.
+Las operaciones que se hubieren efectuado serán liquidadas por un liquidador designado por el juez de garantía respectivo, a propuesta del Ministerio Público.
 
 ## Título II
 
@@ -800,7 +794,7 @@ La liquidación de los siniestros amparados por un seguro podrán practicarla la
 
 La liquidación del siniestro tiene por fin básicamente determinar la ocurrencia del siniestro, si el riesgo está bajo cobertura de una compañía determinada, y el monto de la indemnización a pagar, todo ello de conformidad con el procedimiento que establezca el reglamento.
 
-Los liquidadores que deban informar un siniestro podrán solicitar de las autoridades administrativas o judiciales que por su cargo tengan antecedentes relacionados con éste, les faciliten su conocimiento o les otorguen su certificación sobre los puntos necesarios para su liquidación. Igual facultad tendrán los apoderados de las compañías encargados de hacer la respectiva liquidación, cuando no se la hayan encomendado a un liquidador de siniestros.
+Los liquidadores que deban informar un siniestro podrán solicitar del Ministerio Público o de las autoridades administrativas que por su cargo tengan antecedentes relacionados con ese hecho, les faciliten su conocimiento o les otorguen su certificación sobre los puntos necesarios para su liquidación. Igual facultad tendrán los apoderados de las compañías encargados de hacer la respectiva liquidación, cuando no se la hayan encomendado a un liquidador de siniestros.
 
 En el ejercicio de sus funciones, y sin perjuicio de sus obligaciones legales y reglamentarias, los liquidadores de siniestros deberán guardar la debida independencia y autonomía en su cometido, garantizando la imparcialidad y objetividad del proceso de liquidación, y velar porque sus opiniones se emitan con estricta sujeción a criterios técnicos.
 
@@ -980,7 +974,7 @@ Declarada la quiebra, el síndico podrá citar a la junta de acreedores establec
 
 #### Artículo 81
 
-En todas las quiebras de compañías de seguros, el tribunal, al día siguiente hábil a dicha declaración, dará aviso de ella por oficio al juez del crimen correspondiente e indicará todos los datos que permitan individualizar la persona del fallido.
+En todas las quiebras de compañías de seguros, el tribunal, al día siguiente hábil a dicha declaración, dará aviso de ella por oficio al Ministerio Público e indicará todos los datos que permitan individualizar la persona del fallido.
 
 El oficio será tramitado por el síndico, quien estará obligado, además, a velar por el cumplimiento de este precepto.
 

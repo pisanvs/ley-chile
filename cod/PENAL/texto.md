@@ -94,7 +94,7 @@ Inciso Derogado.
 
 3.° El mayor de dieciséis años y menor de dieciocho, a no ser que conste que ha obrado con discernimiento.
 
-El Tribunal de Menores respectivo hará declaración previa sobre este punto para que pueda procesársele.
+Inciso Derogado.
 
 4.° El que obra en defensa de su persona o derechos, siempre que concurran las circunstancias siguientes:
 
@@ -110,7 +110,7 @@ Inciso Derogado.
 
 6.° El que obra en defensa de la persona y derechos de un extraño, siempre que concurran las circunstancias expresadas en el número anterior y la de que el defensor no sea impulsado por venganza, resentimiento u otro motivo ilegítimo.
 
-Se presumirá legalmente que concurren las circunstancias previstas en este número y en los números 4° y 5° precedentes, cualquiera que sea el daño que se ocasione al agresor, respecto de aquel que rechaza el escalamiento en los términos indicados en el número 1° del artículo 440 de este Código, en una casa, departamento u oficina habitados, o en sus dependencias o, si es de noche, en un local comercial o industrial y del que impida o trate de impedir la consumación de los delitos señalados en los artículos 141, 142, 365, inciso segundo, 390, 391, 433 y 436 de este Código.
+Se presumirá legalmente que concurren las circunstancias previstas en este número y en los números 4° y 5° precedentes, cualquiera que sea el daño que se ocasione al agresor, respecto de aquel que rechaza el escalamiento en los términos indicados en el número 1° del artículo 440 de este Código, en una casa, departamento u oficina habitados, o en sus dependencias o, si es de noche, en un local comercial o industrial y del que impida o trate de impedir la consumación de los delitos señalados en los artículos 141, 142, 361, 365, inciso segundo, 390, 391, 433 y 436 de este Código.
 
 7.° El que para evitar un mal ejecuta un hecho, que produzca daño en la propiedad ajena, siempre que concurran las circunstancias siguientes:
 
@@ -154,7 +154,7 @@ Son circunstancias atenuantes:
 
 8.° Si pudiendo eludir la acción de la justicia por medio de la fuga u ocultándose, se ha denunciado y confesado el delito.
 
-9.° Si del proceso no resulta contra el procesado otro antecedente que su espontánea confesión.
+9ª. Si se ha colaborado sustancialmente al esclarecimiento de los hechos.
 
 10.° El haber obrado por celo de la justicia.
 
@@ -266,7 +266,7 @@ Ningún delito se castigará con otra pena que la que le señale una ley promulg
 
 Si después de cometido el delito y antes de que se pronuncie sentencia de término, se promulgare otra ley que exima tal hecho de toda pena o le aplique una menos rigorosa, deberá arreglarse a ella su juzgamiento.
 
-Si la ley que exima el hecho de toda pena o le aplique una menos rigurosa se promulgare después de ejecutoriada la sentencia, sea que se haya cumplido o no la condena impuesta, el Tribunal de primera instancia que hubiere pronunciado dicha sentencia deberá modificarla, de oficio o a petición de parte y con consulta a la Corte de Apelaciones respectiva.
+Si la ley que exima el hecho de toda pena o le aplique una menos rigurosa se promulgare después de ejecutoriada la sentencia, sea que se haya cumplido o no la condena impuesta, el tribunal que hubiere pronunciado dicha sentencia, en primera o única instancia, deberá modificarla de oficio o a petición de parte.
 
 En ningún caso la aplicación de este artículo modificará las consecuencias de la sentencia primitiva en lo que diga relación con las indemnizaciones pagadas o cumplidas o las inhabilidades.
 
@@ -276,7 +276,7 @@ El perdón de la parte ofendida no extingue la acción penal, salvo respecto de 
 
 #### Artículo 20
 
-No se reputan penas, la restricción de la libertad de los procesados, la separación de los empleos públicos acordada por las autoridades en uso de sus atribuciones o por el tribunal durante el proceso o para instruirlo, ni las multas y demás correcciones que los superiores impongan a sus subordinados y administrados en uso de su jurisdicción disciplinal o atribuciones gubernativas.
+No se reputan penas, la restricción o privación de libertad de los detenidos o sometidos a prisión preventiva u otras medidas cautelares personales, la separación de los empleos públicos acordada por las autoridades en uso de sus atribuciones o por el tribunal durante el proceso o para instruirlo, ni las multas y demás correcciones que los superiores impongan a sus subordinados y administrados en uso de su jurisdicción disciplinal o atribuciones gubernativas.
 
 ### II. De la clasificación de las penas
 
@@ -392,7 +392,7 @@ INCISO SUPRIMIDO.
 
 #### Artículo 26
 
-La duración de las penas temporales empezará a contarse desde el día de la aprehensión del procesado.
+La duración de las penas temporales empezará a contarse desde el día de la aprehensión del imputado.
 
 PENAS QUE LLEVAN CONSIGO OTRAS ACCESORIAS.
 
@@ -478,7 +478,7 @@ Las penas de inhabilitación especial perpetua y temporal para algún cargo u of
 
 La suspensión de cargo y oficio público y profesión titular, inhabilita para su ejercicio durante el tiempo de la condena.
 
-La suspensión decretada durante el juicio, trae como consecuencia inmediata la privación de la mitad del sueldo al presunto procesado, la cual sólo se le devolverá en el caso de pronunciarse sentencia absolutoria.
+La suspensión decretada durante el juicio, trae como consecuencia inmediata la privación de la mitad del sueldo al imputado, la cual sólo se le devolverá en el caso de pronunciarse sentencia absolutoria.
 
 La suspensión decretada por vía de pena, priva de todo sueldo al suspenso mientras ella dure.
 
@@ -562,7 +562,7 @@ A los autores de crimen o simple delito frustrado y a los cómplices de crimen o
 
 A los autores de tentativa de crimen o simple delito, a los cómplices de crimen o simple delito frustrado y a los encubridores de crimen o simple delito consumado, se impondrá la pena inferior en dos grados a la que señala la ley para el crimen o simple delito.
 
-Exceptúanse de esta regla los encubridores comprendidos en el núm. 3.° del art. 17, en quienes concurra la circunstancia primera del mismo número, a los cuales se impondrá la pena de inhabilitación especial perpetua, si el delincuente encubierto fuere procesado de crimen y la de inhabilitación especial temporal en cualquiera de sus grados, si lo fuere de simple delito.
+Exceptúanse de esta regla los encubridores comprendidos en el núm. 3.° del art. 17, en quienes concurra la circunstancia primera del mismo número, a los cuales se impondrá la pena de inhabilitación especial perpetua, si el delincuente encubierto fuere condenado por crimen y la de inhabilitación especial temporal en cualquiera de sus grados, si lo fuere por simple delito.
 
 También se exceptúan los encubridores comprendidos en el núm. 4.° del mismo art. 17, a quienes se aplicará la pena de presidio menor en cualquiera de sus grados.
 
@@ -846,7 +846,7 @@ En estos casos solo se impondrá la pena mayor asignada al delito más grave.
 
 #### Artículo 76
 
-Siempre que el tribunal imponga una pena que lleve consigo otras por disposición de la ley, según lo prescrito en el § III de este título, condenará también al procesado expresamente en estas últimas.
+Siempre que el tribunal imponga una pena que lleve consigo otras por disposición de la ley, según lo prescrito en el § III de este título, condenará también al acusado expresamente en estas últimas.
 
 #### Artículo 77
 
@@ -962,7 +962,7 @@ En caso de reincidencia sufrirá la pena de reclusión menor en su grado mínimo
 
 #### Artículo 91
 
-Los que después de haber sido condenados por sentencia ejecutoria cometieren algún crimen o simple delito durante el tiempo de su condena, bien sea mientras la cumplen o después de haberla quebrantado, sufrirán la pena que la ley señala al nuevo crimen o simple delito que cometieren, debiendo cumplir esta condena y la primitiva por el orden que el tribunal prefije en la sentencia, de conformidad con las reglas prescritas en el art. 74 para el caso de imponerse varias penas al mismo delincuente.
+Los que después de haber sido condenados por sentencia ejecutoriada cometieren algún crimen o simple delito durante el tiempo de su condena, bien sea mientras la cumplen o después de haberla quebrantado, sufrirán la pena que la ley señala al nuevo crimen o simple delito que cometieren, debiendo cumplir esta condena y la primitiva por el orden que el tribunal prefije en la sentencia, de conformidad con las reglas prescritas en el art. 74 para el caso de imponerse varias penas al mismo delincuente.
 
 Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, podrá imponérsele la de presidio perpetuo calificado. Si el nuevo crimen o simple delito tuviere señalada una pena menor, se agravará la pena perpetua con una o más de las penas accesorias indicadas, a arbitrio del Tribunal, que podrán imponerse hasta por el máximo del tiempo que permite el artículo 25.
 
@@ -990,7 +990,7 @@ DE LA EXTINCIÓN DE LA RESPONSABILIDAD PENAL.
 
 La responsabilidad penal se extingue:
 
-1.° Por la muerte del procesado, siempre en cuanto a las penas personales, y respecto de las pecuniarias sólo cuando a su fallecimiento no hubiere recaído sentencia ejecutoria.
+1.° Por la muerte del responsable, siempre en cuanto a las penas personales, y respecto de las pecuniarias sólo cuando a su fallecimiento no se hubiere dictado sentencia ejecutoriada.
 
 2.° Por el cumplimiento de la condena.
 
@@ -1052,7 +1052,7 @@ Esta prescripción se interrumpe quedando sin efecto el tiempo trascurrido, cuan
 
 #### Artículo 100
 
-Cuando el reo se ausentare del territorio de la República sólo podrá prescribir la acción penal o la pena contando por uno cada dos días de ausencia, para el cómputo de los años.
+Cuando el responsable se ausentare del territorio de la República sólo podrá prescribir la acción penal o la pena contando por uno cada dos días de ausencia, para el cómputo de los años.
 
 Para los efectos de aplicar la prescripción de la acción penal o de la pena, no se entenderán ausentes del territorio nacional los que hubieren estado sujetos a prohibición o impedimento de ingreso al país por decisión de la autoridad política o administrativa, por el tiempo que les hubiere afectado tal prohibición o impedimento.
 
@@ -1062,11 +1062,11 @@ Tanto la prescripción de la acción penal como la de la pena corren a favor y e
 
 #### Artículo 102
 
-La prescripción será declarada de oficio por el tribunal aún cuando el procesado no la alegue, con tal que se halle presente en el juicio.
+La prescripción será declarada de oficio por el tribunal aún cuando el imputado o acusado no la alegue, con tal que se halle presente en el juicio.
 
 #### Artículo 103
 
-Si el inculpado se presentare o fuere habido antes de completar el tiempo de la prescripción de la acción penal o de la pena, pero habiendo ya trascurrido la mitad del que se exige, en sus respectivos casos, para tales prescripciones, deberá el tribunal considerar el hecho como revestido de dos o más circunstancias atenuantes muy calificadas y de ninguna agravante y aplicar las reglas de los arts. 65, 66, 67 y 68, sea en la imposición de la pena, sea para disminuir la ya impuesta.
+Si el responsable se presentare o fuere habido antes de completar el tiempo de la prescripción de la acción penal o de la pena, pero habiendo ya trascurrido la mitad del que se exige, en sus respectivos casos, para tales prescripciones, deberá el tribunal considerar el hecho como revestido de dos o más circunstancias atenuantes muy calificadas y de ninguna agravante y aplicar las reglas de los arts. 65, 66, 67 y 68, sea en la imposición de la pena, sea para disminuir la ya impuesta.
 
 Esta regla no se aplica a las prescripciones de las faltas y especiales de corto tiempo.
 
@@ -1380,7 +1380,7 @@ En los casos a que se refieren los núms. 2.°, 5.° y 6.° de este artículo, l
 
 Sufrirá las penas de presidio o reclusión menores y la accesoria que corresponda:
 
-1º. El que decretare o prolongare indebidamente la incomunicación de una persona privada de libertad o usare con ella de un rigor innecesario, y
+1º. El que incomunicare a una persona privada de libertad o usare con ella de un rigor innecesario, y
 
 2º. El que arbitrariamente hiciere arrestar o detener en otros lugares que los establecidos por la ley.
 
@@ -1470,7 +1470,7 @@ Sufrirá la pena de suspensión en sus grados mínimo a medio, si gozare de rent
 
 #### Artículo 159
 
-Si en los casos de los artículos anteriores de este párrafo, el inculpado justificare que ha obrado por orden de sus superiores a quienes debe obediencia disciplinaria, las penas señaladas en dichos artículos se aplicarán sólo a los superiores que hayan dado la orden.
+Si en los casos de los artículos anteriores de este párrafo, aquél a quien se atribuyere responsabilidad justificare que ha obrado por orden de sus superiores a quienes debe obediencia disciplinaria, las penas señaladas en dichos artículos se aplicarán sólo a los superiores que hayan dado la orden.
 
 #### Artículo 160
 
@@ -1550,7 +1550,7 @@ Inciso Derogado.
 
 #### Artículo 171
 
-Si la falsificación o cercenamiento fueren tan ostensibles que cualquiera pueda notarlos y conocerlos a la simple vista, los que fabricaren, cercenaren, expendieren, introdujeren o circularen la moneda así falsificada o cercenada, se reputarán procesados por engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
+Si la falsificación o cercenamiento fueren tan ostensibles que cualquiera pueda notarlos y conocerlos a la simple vista, los que fabricaren, cercenaren, expendieren, introdujeren o circularen la moneda así falsificada o cercenada podrán ser castigados como responsables de estafas y otros engaños, con las penas que se establecen en el título respectivo.
 
 II. De la falsificación de documentos de crédito del Estado, de las Municipalidades, de los establecimientos públicos, sociedades anónimas o bancos de emisión legalmente autorizados
 
@@ -1586,7 +1586,7 @@ Cuando no exceda de esta suma, estimándose el acto mera falta, se penará como 
 
 #### Artículo 179
 
-Si la falsificación fuere tan grosera y ostensible que cualquiera pueda notarla y conocerla a la simple vista, los que falsificaren, expendieren, introdujeren o circularen los títulos así falsificados, se reputarán procesados de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
+Si la falsificación fuere tan grosera y ostensible que cualquiera pueda notarla y conocerla a la simple vista, los que falsificaren, expendieren, introdujeren o circularen los títulos así falsificados, podrán ser castigados como responsables de estafas y otros engaños con las penas que se establecen en el título respectivo.
 
 ### III. De la falsificación de sellos, punzones, matrices, marcas, papel sellado, timbres, estampillas, etc
 
@@ -1610,7 +1610,7 @@ Las penas serán presidio menor en su grado mínimo multa de seis a diez unidade
 
 #### Artículo 184
 
-Cuando la falsificación fuere tan mal ejecutada que cualquiera pueda notarla y conocerla a la simple vista, los que la hubieren efectuado y los que expendieren o introdujeren el papel sellado o las estampillas así falsificados, se reputarán procesados por engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
+Cuando la falsificación fuere tan mal ejecutada que cualquiera pueda notarla y conocerla a la simple vista, los que la hubieren efectuado y los que expendieren o introdujeren el papel sellado o las estampillas así falsificados, podrán ser castigados como responsables de estafas y otros engaños con las penas que se establecen en el Título respectivo.
 
 #### Artículo 185
 
@@ -1734,15 +1734,15 @@ Si el certificado ha sido falsificado bajo el nombre de un particular, la pena s
 
 #### Artículo 206
 
-El que en causa criminal diere falso testimonio a favor del reo, será castigado con la pena de presidio menor en su grado máximo y multa de dieciséis a veinte unidades tributarias mensuales, si la causa fuere por crimen; con presidio menor en su grado medio y multa de once a quince unidades tributarias mensuales, si fuere por simple delito, y con presidio menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales, cuando fuere por falta.
+El que en causa criminal diere ante el juez falso testimonio a favor del imputado o acusado, será castigado con la pena de presidio menor en su grado máximo y multa de dieciséis a veinte unidades tributarias mensuales, si la causa fuere por crimen; con presidio menor en su grado medio y multa de once a quince unidades tributarias mensuales, si fuere por simple delito, y con presidio menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales, cuando fuere por falta.
 
 #### Artículo 207
 
-El que diere falso testimonio en contra del reo, sufrirá las penas de presidio mayor en su grado mínimo y multa de veintiuna a veinticinco unidades tributarias mensuales, si la causa fuere por crimen; de presidio menor en su grado máximo y multa de once a veinte unidades tributarias mensuales, si fuere por simple delito, y de presidio menor en su grado medio y multa de seis a diez unidades tributarias mensuales e inhabilitación absoluta perpetua para derechos políticos y por el tiempo de la condena para cargos y oficios públicos, cuando fuere por falta.
+El que en causa criminal diere ante el juez falso testimonio en contra del imputado o acusado, sufrirá las penas de presidio mayor en su grado mínimo y multa de veintiuno a veinticinco unidades tributarias mensuales, si la causa fuere por crimen; de presidio menor en su grado máximo y multa de once a veinte unidades tributarias mensuales, si fuere por simple delito, y de presidio menor en su grado medio y multa de seis a diez unidades tributarias mensuales e inhabilitación absoluta perpetua para derechos políticos y por el tiempo de la condena para cargos y oficios públicos, cuando fuere por falta.
 
 #### Artículo 208
 
-Si en virtud del falso testimonio se hubiere impuesto al acusado una pena respectivamente mayor que las determinadas en el artículo precedente, se aplicará la misma al testigo falso; salvo el caso de ser la de muerte, que se reemplazará por el presidio perpetuo.
+Si en virtud del falso testimonio se hubiere impuesto al acusado una pena respectivamente mayor que las determinadas en el artículo precedente, se aplicará la misma al testigo falso.
 
 #### Artículo 209
 
@@ -1754,7 +1754,7 @@ Si el valor de la demanda no excediere de cuatro sueldos vitales, las penas ser�
 
 El que ante la autoridad o sus agentes perjurare o diere falso testimonio en materia que no sea contenciosa, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de seis a diez unidades tributarias mensuales.
 
-En igual pena incurrirá el denunciante que perjurare sobre la preexistencia de la especie hurtada o robada, en la declaración que preste con arreglo a lo establecido en el artículo 83 del Código de Procedimiento Penal.
+Inciso Eliminado.
 
 #### Artículo 211
 
@@ -1762,7 +1762,7 @@ La acusación o denuncia que hubiere sido declarada calumniosa por sentencia eje
 
 #### Artículo 212
 
-El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado como procesados por falso testimonio.
+El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado con las penas del falso testimonio.
 
 ### VIII. Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres
 
@@ -1826,13 +1826,13 @@ Las disposiciones de este artículo sólo se harán efectivas cuando entablada l
 
 #### Artículo 223
 
-Los miembros de los tribunales de justicia colegiados o unipersonales y los funcionarios que desempeñan el ministerio público, sufrirán las penas de inhabilitación absoluta perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares y la de presidio o reclusión menores en cualesquiera de sus grados:
+Los miembros de los tribunales de justicia colegiados o unipersonales y los fiscales judiciales, sufrirán las penas de inhabilitación absoluta perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares y la de presidio o reclusión menores en cualesquiera de sus grados:
 
 1° Cuando a sabiendas fallaren contra ley expresa y vigente en causa criminal o civil.
 
 2° Cuando por sí o por interpuesta persona admitan o convengan en admitir dádiva o regalo por hacer o dejar de hacer algún acto de su cargo.
 
-3° Cuando ejerciendo las funciones de su empleo o valiéndose del poder que éste les da, seduzcan o soliciten a persona procesada o que litigue ante ellos.
+3° Cuando ejerciendo las funciones de su empleo o valiéndose del poder que éste les da, seduzcan o soliciten a persona imputada o que litigue ante ellos.
 
 #### Artículo 224
 
@@ -1876,7 +1876,7 @@ En estos casos el tribunal, suspendiendo el cumplimiento de la orden, representa
 
 Se aplicarán respectivamente las penas determinadas en los artículos precedentes:
 
-1.° A las personas que, desempeñando por ministerio de la ley los cargos de miembros de los tribunales de justicia colegiados o unipersonales, fueren procesados por alguno de los crímenes o simples delitos enumerados en dichos artículos.
+1.° A las personas que, desempeñando por ministerio de la ley los cargos de miembros de los tribunales de justicia colegiados o unipersonales, fueren condenadas por alguno de los crímenes o simples delitos enumerados en dichos artículos.
 
 2.º A los subdelegados e inspectores que incurrieren en iguales infracciones.
 
@@ -2202,7 +2202,11 @@ Los que turbaren gravemente la tranquilidad pública para causar injuria u otro 
 
 El que se rehusare a proporcionar a los tribunales de justicia antecedentes que conozca o que obren en su poder y que permitan establecer la existencia de un delito o la participación punible en él, o que, con posterioridad a su descubrimiento, destruya, oculte o inutilice el cuerpo, los efectos o instrumentos de un crimen o simple delito, será sancionado con la pena señalada para el respectivo crimen o simple delito, rebajada en dos grados.
 
-Estarán exentas de las penas que establece este artículo las personas a que se refieren el inciso final del artículo 17 de este Código y el artículo 210 del Código y el artículo 201 del Código de Procedimiento Penal.
+Estarán exentas de las penas que establece este artículo las personas a que se refieren el inciso final del artículo 17 de este Código y el artículo 210 del Código y los artículos 302 y 303 del Código Procesal Penal.
+
+#### Artículo 269 ter
+
+El fiscal del Ministerio Público que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento que permita establecer la existencia de un delito, la participación punible en él, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
 
 ### III. De la rotura de sellos
 
@@ -2392,7 +2396,7 @@ El empleado público culpable de connivencia en la evasión de un preso o deteni
 
 1.° En el caso de que el fugitivo se halle condenado por ejecutoria a alguna pena, con la inferior en dos grados y la de inhabilitación especial perpetua para el cargo u oficio.
 
-2.° Con la pena inferior en tres grados a la señalada por la ley al delito por que se halle procesado el fugitivo, si no se le hubiere condenado por ejecutoria, y con la de inhabilitación especial temporal para el cargo u oficio en su grado medio.
+2.° Con la pena inferior en tres grados a la señalada por la ley si al fugitivo no se le hubiere condenado por sentencia ejecutoriada, y con la de inhabilitación especial temporal para el cargo u oficio en su grado medio.
 
 #### Artículo 300
 
@@ -2916,6 +2920,8 @@ El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, 
 
 En las mismas penas incurrirá el autor del manuscrito, de la figura o de la estampa o el que los hubiere reproducido por un procedimiento cualquiera que no sea la imprenta.
 
+La sentencia condenatoria por este delito ordenará la destrucción total o parcial, según proceda, de los impresos o de las grabaciones sonoras o audiovisuales de cualquier tipo que sean objeto de comiso.
+
 ### IX. Del incesto
 
 #### Artículo 375
@@ -3052,7 +3058,7 @@ En los casos de mutilaciones de miembros menos importantes, como un dedo o una o
 
 #### Artículo 397
 
-El que hiriere, golpeare o maltratare de obra a otro, será castigado como procesados por lesiones graves:
+El que hiriere, golpeare o maltratare de obra a otro, será castigado como responsable de lesiones graves:
 
 1.° Con la pena de presidio mayor en su grado mínimo, si de resultas de las lesiones queda el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 
@@ -3224,21 +3230,19 @@ La calumnia y la injuria se reputan hechas por escrito y con publicidad cuando s
 
 #### Artículo 423
 
-El acusado de calumnia o injuria encubierta o equívoca que rehusare dar en juicio explicaciones satisfactorias acerca de ella, será castigado como procesado de calumnia o injuria manifiesta.
+El acusado de calumnia o injuria encubierta o equívoca que rehusare dar en juicio explicaciones satisfactorias acerca de ella, será castigado con las penas de los delitos de calumnia o injuria manifiesta.
 
 #### Artículo 424
 
-Podrán ejercitar la acción de calumnia o injuria el cónyuge, los hijos, nietos, padres, abuelos y hermanos legítimos, los hijos y padres naturales y el heredero del difunto agraviado
+Derogado.
 
 #### Artículo 425
 
-Respecto de las calumnias o injurias publicadas por medio de periódicos extranjeros, podrán ser procesados los que, desde el territorio de la República, hubieren enviado los artículos o dado orden para su inserción, o contribuido a la introducción o expendición de esos periódicos en Chile con ánimo manifiesto de propagar la calumnia o injuria.
+Respecto de las calumnias o injurias publicadas por medio de periódicos extranjeros, podrán ser acusados los que, desde el territorio de la República, hubieren enviado los artículos o dado orden para su inserción, o contribuido a la introducción o expendición de esos periódicos en Chile con ánimo manifiesto de propagar la calumnia o injuria.
 
 #### Artículo 426
 
-La calumnia o injuria causada en juicio se juzgará disciplinariamente, conforme al Código de Procedimientos, por el tribunal que conoce de la causa; salvo el caso en que su gravedad, en concepto del mismo tribunal, diere mérito para proceder criminalmente.
-
-En este último caso, no podrá entablarse la acción sino después de terminado el litigio en que se causó la calumnia o injuria.
+La calumnia o injuria causada en juicio se juzgará disciplinariamente por el tribunal que conoce de la causa; sin perjuicio del derecho del ofendido para deducir, una vez que el proceso haya concluido, la acción penal correspondiente.
 
 #### Artículo 427
 
@@ -3246,15 +3250,13 @@ Las expresiones que puedan estimarse calumniosas o injuriosas, consignadas en un
 
 #### Artículo 428
 
-Nadie será perseguido por calumnia o injuria sino a instancia de la parte agraviada o de las personas enumeradas en el art. 424, si el ofendido hubiere muerto o estuviere física o moralmente imposibilitado. El culpable puede ser relevado de la pena impuesta mediante perdón del acusador; pero la remisión no producirá efecto respecto de la multa una vez que ésta haya sido satisfecha.
+El condenado por calumnia o injuria puede ser relevado de la pena impuesta mediante perdón del acusador; pero la remisión no producirá efecto respecto de la multa una vez que ésta haya sido satisfecha.
 
 La calumnia o injuria se entenderá tácitamente remitida cuando hubieren mediado actos positivos que, en concepto del tribunal, importen reconciliación o abandono de la acción.
 
 #### Artículo 429
 
-Si la calumnia o injuria fuere dirigida contra las autoridades en su carácter de tales, podrán éstas requerir al ministerio público para que entable a su nombre la correspondiente acción.
-
-Igual derecho corresponde al Presidente de la República, a los ministros de las naciones extranjeras acreditados en Chile u otros funcionarios que gocen de inmunidades diplomáticas, aun respecto de las calumnias o injurias hechas en su carácter privado.
+Derogado.
 
 #### Artículo 430
 
@@ -3268,9 +3270,9 @@ En el caso de calumnias o injurias recíprocas, se observarán las reglas siguie
 
 La acción de calumnia o injuria prescribe en un año, contado desde que el ofendido tuvo o pudo racionalmente tener conocimiento de la ofensa.
 
-La misma regla se observará en el caso del art. 423; pero el tiempo trascurrido desde que el ofendido tuvo o pudo tener conocimiento de la ofensa hasta su muerte, se tomará en cuenta al computarse el año durante el cual pueden ejercitar esta acción las personas comprendidas en dicho artículo.
+La misma regla se observará respecto de las demás personas enumeradas en el artículo 108 del Código Procesal Penal; pero el tiempo trascurrido desde que el ofendido tuvo o pudo tener conocimiento de la ofensa hasta su muerte, se tomará en cuenta al computarse el año durante el cual pueden ejercitar esta acción las personas comprendidas en dicho artículo.
 
-En ningún caso podrá entablarse acción de calumnia o injuria después de cinco años, contando desde que se cometió el delito.
+No podrá entablarse acción de calumnia o injuria después de cinco años, contados desde que se cometió el delito. Pero si la calumnia o injuria hubiere sido causada en juicio, este plazo no obstará al cómputo del año durante el cual se podrá ejercer la acción.
 
 ## Título Noveno
 
@@ -3390,9 +3392,9 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 
 #### Artículo 448
 
-El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de una unidad tributaria mensual, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será considerado procesado por hurto y castigado con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales.
+El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de una unidad tributaria mensual, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será castigado con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales.
 
-También será considerado procesado por hurto y castigado con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufragio, inundación, incendio, terremoto, accidente en ferrocarril u otra causa análoga, cuyo valor exceda la cantidad mencionada en el inciso anterior, y no las entregare a los dueños o a la autoridad en su defecto.
+También será castigado con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufragio, inundación, incendio, terremoto, accidente en ferrocarril u otra causa análoga, cuyo valor exceda la cantidad mencionada en el inciso anterior, y no las entregare a los dueños o a la autoridad en su defecto.
 
 ### V. Disposiciones comunes a los tres párrafos anteriores
 
@@ -3400,7 +3402,7 @@ También será considerado procesado por hurto y castigado con presidio menor en
 
 En los casos de robos o hurtos de vehículos, de caballos o bestias de silla o carga, de ganado mayor o menor o porcino, podrán ser aplicadas respectivamente a los autores, cómplices y encubridores las penas superiores en un grado a las que les hayan correspondido sin la circunstancia de tratarse de la sustracción de animales.
 
-Cuando la pena conste de dos o más grados el aumento establecido en el inciso primero se hará después de determinarse la pena que habría correspondido al procesado con prescindencia de la expresada circunstancia.
+Cuando la pena conste de dos o más grados el aumento establecido en el inciso primero se hará después de determinarse la pena que habría correspondido al condenado con prescindencia de la expresada circunstancia.
 
 La regla del inciso primero de este artículo se observará también en los casos previstos en el artículo 448, si se trata de animales o aves comprendidos en los incisos anteriores.
 
@@ -3454,7 +3456,7 @@ Cuando del proceso no resulte probado el valor de la cosa sustraída ni pudiere 
 
 #### Artículo 456
 
-Si ántes de perseguir al procesado o ántes de decretar su prision devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433 y 434, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
+Si antes de perseguir al responsable o antes de decretar su prisión devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433 y 434, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
 
 #### Artículo 456 bis
 
@@ -3516,7 +3518,7 @@ Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren 
 
 #### Artículo 461
 
-Serán castigados como procesados por usurpación de aguas con las penas del art. 459, los que teniendo derecho para sacarlas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.
+Serán castigados con las penas del artículo 459, los que teniendo derecho para sacar aguas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.
 
 #### Artículo 462
 
@@ -3706,7 +3708,7 @@ El contador o cualquiera persona que falsee o adultere la contabilidad del comer
 
 b)
 
-A los comerciantes responsables del delito de incendio se les aplicará también una multa de veintiuna a cincuenta unidades tributarias mensuales, tomándose en cuenta para graduarla la naturaleza, entidad y gravedad del siniestro y las facultades económicas del inculpado.
+A los comerciantes responsables del delito de incendio se les aplicará también una multa de veintiuna a cincuenta unidades tributarias mensuales, tomándose en cuenta para graduarla la naturaleza, entidad y gravedad del siniestro y las facultades económicas del condenado.
 
 Si no se paga la multa el condenado sufrirá por vía de sustitución y apremio, un día de reclusión por un un quinto de unidad tributaria mensual de multa, no pudiendo exceder la reclusión de seis meses.
 
@@ -3716,7 +3718,7 @@ La multa impuesta se mantendrá en una cuenta especial a la orden de la Superint
 
 #### Artículo 484
 
-Son procesados por daño y están sujetos a las penas de este párrafo, los que en la propiedad ajena causaren alguno que no se halle comprendido en el párrafo anterior.
+Incurren en el delito de daños y están sujetos a las penas de este párrafo, los que en la propiedad ajena causaren alguno que no se halle comprendido en el párrafo anterior.
 
 #### Artículo 485
 

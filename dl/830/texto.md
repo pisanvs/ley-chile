@@ -368,9 +368,9 @@ Junto con sus declaraciones, los contribuyentes sujetos a la obligación de llev
 
 El Director y demás funcionarios del Servicio no podrán divulgar, en forma alguna, la cuantía o fuente de las rentas, ni las pérdidas, gastos o cualesquiera datos relativos a ellas, que figuren en las declaraciones obligatorias, ni permitirán que éstas o sus copias o los libros o papeles que contengan extractos o datos tomados de ellas sean conocidos por persona alguna ajena al Servicio salvo en cuanto fueren necesarios para dar cumplimiento a las disposiciones del presente Código u otras normas legales.
 
-El precepto anterior no obsta al examen de las declaraciones por los jueces o al otorgamiento de la información que éstos soliciten sobre datos contenidos en ellas, cuando dicho examen o información sea necesario para la prosecución de los juicios sobre impuesto, sobre alimentos y en procesos por delitos comunes, ni a la publicación de datos estadísticos en forma que no puedan identificarse los informes, declaraciones o partidas respecto de cada contribuyente en particular.
+El precepto anterior no obsta al examen de las declaraciones por los jueces o al otorgamiento de la información que éstos soliciten sobre datos contenidos en ellas, cuando dicho examen o información sea necesario para la prosecución de los juicios sobre impuesto y sobre alimentos; ni al examen que practiquen o a la información que soliciten los fiscales del Ministerio Público cuando investiguen hechos constitutivos de delito, ni a la publicación de datos estadísticos en forma que no puedan identificarse los informes, declaraciones o partidas respecto de cada contribuyente en particular.
 
-Para los efectos de lo dispuesto en este artículo y para el debido resguardo del eficaz cumplimiento de los procedimientos y recursos que contempla este Código, sólo el Servicio podrá revisar o examinar las declaraciones que presenten los contribuyentes, sin perjuicio de las atribuciones de los Tribunales de Justicia.
+Para los efectos de lo dispuesto en este artículo y para el debido resguardo del eficaz cumplimiento de los procedimientos y recursos que contempla este Código, sólo el Servicio podrá revisar o examinar las declaraciones que presenten los contribuyentes, sin perjuicio de las atribuciones de los Tribunales de Justicia y de los fiscales del Ministerio Público, en su caso.
 
 La información tributaria, que conforme a la ley proporcione el Servicio, solamente podrá ser usada para los fines propios de la institución que la recepciona.
 
@@ -578,7 +578,7 @@ Con el fin de llevar a efecto la medida de que trata el inciso anterior, el func
 
 Para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el Servicio podrá pedir declaración jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicción de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas. Estarán exceptuados de estas obligaciones, salvo en los casos de sucesión por causa de muerte o comunidades en que sean comuneros los parientes, el cónyuge, los parientes por consanguinidad en la línea recta o dentro del cuarto grado de la colateral, el adoptante, el adoptado, los parientes por afinidad en la línea recta o dentro del segundo grado de la colateral de dichos terceros. Además estarán exceptuadas de estas obligaciones las personas obligadas a guardar el secreto profesional.
 
-No estarán obligadas a concurrir a declarar las personas indicadas en el artículo 191° del Código de Procedimiento Penal, a las cuales el Servicio, para los fines expresados en el inciso precedente, deberá pedir declaración jurada por escrito.
+No estarán obligadas a concurrir a declarar las personas indicadas en el artículo 300 del Código Procesal Penal, a las cuales el Servicio, para los fines expresados en el inciso precedente, deberá pedir declaración jurada por escrito.
 
 #### Artículo 61
 
@@ -589,6 +589,8 @@ Salvo disposición en contrario, los preceptos de este Código, no modifican las
 La Justicia Ordinaria podrá ordenar el examen de las cuentas corrientes en el caso de procesos por delitos que digan relación con el cumplimiento de obligaciones tributarias.
 
 Asimismo, el Director podrá disponer dicho examen, por resolución fundada, cuando el Servicio se encuentre investigando infracciones a las leyes tributarias sancionadas con pena corporal.
+
+> **Nota.** El Artículo 43 de la Ley 19806, publicada el 31.05.2002, ordenó modificar el presente artículo. Sin embargo la Sentencia del Tribunal Constitucional publicada como anexo de la misma ley ordenó eliminar dicha modificación por inconstitucional, por lo tanto no se ha incorporado en el presente texto actualizado. En el diario oficial del 01.06.2002, se publicó la rectificación pertinente.
 
 #### Artículo 63
 
@@ -673,10 +675,6 @@ De otros medios de fiscalización
 #### Artículo 72
 
 Las Oficinas de Identificación de la República no podrán extender pasaportes sin que previamente el peticionario les acredite encontrarse en posesión del Rol Unico Nacional, o tener carnet de identidad con número nacional y dígito verificador, o estar inscrito en el Rol Unico Tributario. No será necesario esta exigencia por parte de las Oficinas de Identificación cuando los interesados deban acreditar el pago del impuesto de viaje o estar exento del mismo.
-
-La Policía de Investigaciones de Chile y Carabineros de Chile no podrán autorizar la salida del país de las personas investigadas por presuntas infracciones a las leyes tributarias sancionadas con pena corporal sin exigir previamente en cada caso un certificado del Servicio de Impuestos Internos que acredite que el contribuyente ha otorgado caución suficiente, a juicio del Director Regional.
-
-Para estos efectos el Servicio de Impuestos Internos deberá enviar al Departamento de Policía Internacional y a Carabineros de Chile una nómina de los contribuyentes que se encuentren investigados por presuntas infracciones a las leyes tributarias sancionadas con pena corporal.
 
 #### Artículo 73
 
@@ -764,7 +762,7 @@ La información así obtenida será mantenida en secreto y no se podrá revelar,
 
 #### Artículo 86
 
-Los funcionarios del Servicio, nominativa y expresamente autorizados por el Director, tendrán el carácter de ministros de fe, para todos los efectos de este Código y las leyes tributarias y en los procesos por delitos que digan relación con el cumplimiento de obligaciones tributarias.
+Los funcionarios del Servicio, nominativa y expresamente autorizados por el Director, tendrán el carácter de ministros de fe, para todos los efectos de este Código y las leyes tributarias.
 
 #### Artículo 87
 
@@ -852,13 +850,13 @@ Los apremios no se aplicarán, o cesarán, según el caso, cuando el contribuyen
 
 #### Artículo 95
 
-Procederá el apremio en contra de las personas que, habiendo sido citadas por segunda vez en conformidad a lo dispuesto en los artículos 34 o 60, penúltimo inciso, durante la investigación administrativa de delitos tributarios, no concurran sin causa justificada; procederá, además, el apremio en los casos de las infracciones señaladas en el N° 7 del artículo 97 y también en todo caso en que el contribuyente no exhiba sus libros o documentos de contabilidad o entrabe el examen de los mismos.
+Procederá el apremio en contra de las personas que, habiendo sido citadas por segunda vez en conformidad a lo dispuesto en los artículos 34 o 60, penúltimo inciso, durante la recopilación de antecedentes a que se refiere el artículo 161, Nº 10, no concurran sin causa justificada; procederá, además, el apremio en los casos de las infracciones señaladas en el N° 7 del artículo 97 y también en todo caso en que el contribuyente no exhiba sus libros o documentos de contabilidad o entrabe el examen de los mismos.
 
 Las citaciones a que se refiere el inciso anterior, deberán efectuarse por carta certificada y a lo menos para quinto día contado desde la fecha en que ésta se entienda recibida. Entre una y otra de las dos citaciones a que se refiere dicho inciso deberá mediar, a lo menos, un plazo de cinco días.
 
 En los casos señalados en este artículo, el apercibimiento deberá efectuarse por el Servicio, y corresponderá al Director Regional solicitar el apremio.
 
-Será juez competente para conocer de los apremios a que se refiere el presente artículo el Juez del Crimen de Mayor Cuantía del domicilio del infractor.
+Será juez competente para conocer de los apremios a que se refiere el presente artículo el juez de letras en lo civil de turno del domicilio del infractor.
 
 #### Artículo 96
 
@@ -1036,13 +1034,13 @@ Disposiciones comunes
 
 #### Artículo 105
 
-Las sanciones pecuniarias serán aplicadas por el Servicio de acuerdo con el procedimiento que corresponda del Libro Tercero, excepto en aquellos casos en que de conformidad al presente Código sean de la competencia de la justicia ordinaria.
+Las sanciones pecuniarias serán aplicadas por el Servicio de acuerdo con el procedimiento que corresponda del Libro Tercero, excepto en aquellos casos en que de conformidad al presente Código sean de la competencia de la justicia ordinaria civil.
 
-La aplicación de las sanciones pecuniarias por la justicia ordinaria se regulará en relación a los tributos cuya evasión resulte acreditada en el respectivo juicio criminal.
+La aplicación de las sanciones pecuniarias por la justicia ordinaria se regulará en relación a los tributos cuya evasión resulte acreditada en el respectivo juicio.
 
-Sin perjuicio de lo dispuesto en el artículo 162°, si la infracción estuviere afecta a sanción corporal o a sanción pecuniaria y corporal, la aplicación de ellas corresponderá a la justicia del crimen.
+Sin perjuicio de lo dispuesto en el artículo 162°, si la infracción estuviere afecta a sanción corporal o a sanción pecuniaria y corporal, la aplicación de ellas corresponderá a los tribunales con competencia en lo penal.
 
-No obstará al procesamiento del infractor, el hecho de no encontrarse ejecutoriada la determinación de los impuestos por él adeudados.
+El ejercicio de la acción penal es independiente de la acción de determinación y cobro de impuestos.
 
 #### Artículo 106
 
@@ -1094,9 +1092,7 @@ Igualmente constituirá circunstancia agravante de responsabilidad penal que el 
 
 #### Artículo 112
 
-En los casos de reiteración de infracciones a las leyes tributarias sancionadas con pena corporal, se aplicará la pena correspondiente a las diversas infracciones, estimadas como un solo delito, aumentándola en uno, dos o tres grados.
-
-Lo dispuesto en el inciso anterior es sin perjuicio de la aplicación, en su caso, de las normas contenidas en los incisos 2° y 3° del artículo 509 del Código de Procedimiento Penal.
+En los casos de reiteración de infracciones a las leyes tributarias sancionadas con pena corporal, se aplicará la pena correspondiente a las diversas infracciones, estimadas como un solo delito, aumentándola, en su caso, conforme a lo dispuesto en el artículo 351 del Código Procesal Penal.
 
 Sin perjuicio de lo dispuesto en el N° 10 del artículo 97 en los demás casos de infracciones a las leyes tributarias, sancionadas con pena corporal, se entenderá que existe reiteración cuando se incurra en cualquiera de ellas en más de un ejercicio comercial anual.
 
@@ -1492,77 +1488,37 @@ Igualmente, podrá hacerlo la Corte Suprema conociendo de los recursos de casaci
 
 9°.- En lo establecido por este artículo y en cuanto la naturaleza de la tramitación lo permita, se aplicarán las demás normas contenidas en el Título II de ese Libro.
 
-10°.- No se aplicará el procedimiento de este Párrafo tratándose de infracciones que ese Código sanciona con multa y pena corporal. En estos casos corresponderá al Servicio investigar los hechos que servirán de fundamento a la respectiva denuncia o querella, pero la sustanciación del proceso respectivo y la aplicación de las sanciones, tanto pecuniarias como corporales, corresponderá a la Justicia del Crimen, de acuerdo con lo dispuesto en el artículo 105°.
+10°.- No se aplicará el procedimiento de este Párrafo tratándose de infracciones que este Código sanciona con multa y pena corporal. En estos casos corresponderá al Servicio recopilar los antecedentes que habrán de servir de fundamento a la decisión del Director a que se refiere el artículo 162, inciso tercero.
 
-Con el objeto de llevar a cabo la investigación previa a que se refiere el inciso precedente, el Director podrá ordenar la aposición de sellos y la incautación de los libros de contabilidad y demás documentos relacionados con el giro del negocio del presunto infractor.
+Con el objeto de llevar a cabo la recopilación a que se refiere el inciso precedente, el Director podrá ordenar la aposición de sello y la incautación de los libros de contabilidad y demás documentos relacionados con el giro del negocio del presunto infractor.
 
 Las medidas mencionadas en el inciso anterior podrán ordenarse para ser cumplidas en el lugar en que se encuentren o puedan encontrarse los respectivos libros de contabilidad y documentos, aunque aquél no corresponda al domicilio del presunto infractor.
 
 Para llevar a efecto las medidas de que tratan los incisos anteriores, el funcionario encargado de la diligencia podrá recurrir al auxilio de la fuerza pública, la que será concedida por el Jefe de Carabineros más inmediato sin más trámite que la exhibición de la resolución que ordena dicha medida, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario.
 
-Contra la resolución que ordene dichas medidas y sin que ello obste a su cumplimiento, podrá ocurrirse ante el Juez de Letras de Mayor Cuantía en lo Criminal que corresponda, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo.
+Contra la resolución que ordene dichas medidas y sin que ello obste a su cumplimiento, podrá ocurrirse ante el juez de letras en lo civil de turno del domicilio del contribuyente, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo.
 
 #### Artículo 162
 
-Los juicios criminales por delitos tributarios sancionados con pena corporal, sólo podrán ser iniciados por querella o denuncia del Servicio, o del Consejo de Defensa del Estado, a requerimiento del Director. Cuando sean iniciados por querella o denuncia del Servicio, la representación y defensa del Fisco corresponderá sólo al Director por sí o por medio de mandatario, sin perjuicio de lo dispuesto en el artículo 9°, N° 1 del decreto ley número 2.573, de 1979, que establece el Estatuto Orgánico del Consejo de Defensa del Estado.
+Las investigaciones de hechos constitutivos de delitos tributarios sancionados con pena corporal sólo podrán ser iniciadas por denuncia o querella del Servicio. Con todo, la querella podrá también ser presentada por el Consejo de Defensa del Estado, a requerimiento del Director.
 
-El Director tendrá derecho al conocimiento del sumario en cualquier causa en que se investiguen o persigan delitos comunes, cuando estimare fundadamente que se ha cometido un delito tributario en relación con los hechos investigados o perseguidos y así lo hiciere presente al juez de la causa. Si en tales procesos ejercitare la acción judicial a que se refiere el artículo 162 del Código Tributario y se dictare auto de procesamiento por delito tributario, procederá la desacumulación, en conformidad a lo dispuesto en el artículo 160 del Código Orgánico de Tribunales. El proceso desacumulado por delito tributario continuará tramitándose conforme a las normas aplicables a esta clase de juicios.
+En las investigaciones penales y en los procesos que se incoen, la representación y defensa del Fisco corresponderá sólo al Director, por sí o por medio de mandatario, cuando la denuncia o querella fuere presentada por el Servicio, o sólo al Consejo de Defensa del Estado, en su caso. El denunciante o querellante ejercerá los derechos de la víctima, de conformidad al Código Procesal Penal. En todo caso, los acuerdos reparatorios que celebre, conforme al artículo 241 del Código Procesal Penal, no podrán contemplar el pago de una cantidad de dinero inferior al mínimo de la pena pecuniaria, sin perjuicio del pago del impuesto adeudado y los reajustes e intereses penales que procedan de acuerdo al artículo 53 de este Código.
 
-Si la infracción estuviere sancionada con multa y pena corporal, quedará al libre arbitrio del Director interponer, sin más trámite, la correspondiente querella o denuncia. Si no se dedujere querella o denuncia, la sanción pecuniaria será aplicada con arreglo al procedimiento general establecido en el artículo 161°.
+Si la infracción pudiere ser sancionada con multa y pena corporal, el Director podrá, discrecionalmente, interponer la respectiva denuncia o querella o enviar los antecedentes al Director Regional para que aplique la multa que correspondiere a través del procedimiento administrativo previsto en el artículo anterior.
 
-Asimismo, por resolución fundada del Director, en caso de error manifiesto, el Servicio o el Consejo deberán desistirse de la acción penal.
-
-Será competente para conocer de los juicios por delitos tributarios sancionados con pena corporal, el Juez del Crimen de Mayor Cuantía de cualesquiera de los domicilios del infractor.
-
-Si hay dos o más infractores con distintos domicilios, será competente el Juez del domicilio de cualquiera de ellos, y la causa quedará radicada en el Tribunal donde se interponga la querella o se formule la denuncia.
-
-La competencia de los jueces que conozcan de estos procesos no se alterará por causa sobreviniente.
-
-La circunstancia de haberse iniciado el procedimiento señalado en el artículo anterior, no será impedimento para que, en los casos de infracciones sancionadas con multa y pena corporal, se interponga querella o denuncia. En tal caso, el Director Regional se declarará incompetente para seguir conociendo el asunto en cuanto se haga constar en el proceso respectivo el hecho de haberse acogido a tramitación la querella o denuncia.
+La circunstancia de haberse iniciado el procedimiento por denuncia administrativa señalado en el artículo anterior, no será impedimento para que, en los casos de infracciones sancionadas con multa y pena corporal, se interponga querella o denuncia. En tal caso, el Director Regional se declarará incompetente para seguir conociendo el asunto en cuanto se haga constar en el proceso respectivo el hecho de haberse acogido a tramitación la querella o efectuado la denuncia.
 
 La interposición de la acción penal o denuncia administrativa no impedirá al Servicio proseguir los trámites inherentes a la determinación de los impuestos adeudados; igualmente no inhibirá al Director Regional para conocer o continuar conociendo y fallar la reclamación correspondiente.
 
+El Ministerio Público informará al Servicio, a la brevedad posible, los antecedentes de que tomare conocimiento con ocasión de las investigaciones de delitos comunes y que pudieren relacionarse con los delitos a que se refiere el inciso primero.
+
+Si no se hubieren proporcionado los antecedentes sobre alguno de esos delitos, el Servicio los solicitará al fiscal que tuviere a su cargo el caso, con la sola finalidad de decidir si presentará denuncia o interpondrá querella, o si requerirá que lo haga al Consejo de Defensa del Estado. De rechazarse la solicitud, el Servicio podrá ocurrir ante el respectivo juez de garantía, quien decidirá la cuestión mediante resolución fundada.
+
 #### Artículo 163
 
-En todas aquellas materias no sujetas a disposiciones especiales del presente Código, la tramitación de los procesos a que dieren lugar los delitos previstos en este cuerpo legal se ajustarán a las reglas establecidas en los Libros I y II del Código de Procedimiento Penal, con las modificaciones que a continuación se expresan:
+Cuando el Director del Servicio debiere prestar declaración testimonial en un proceso penal por delito tributario, se aplicará lo dispuesto en los artículos 300 y 301 del Código Procesal Penal.
 
-a) Las denuncias o querellas que se presentaren a los Tribunales de Justicia para iniciar acción criminal contra los contribuyentes con el fin de perseguir su responsabilidad penal, no requerirán del trámite de ratificación, sirviendo en estos casos de suficiente confirmación la denuncia o querella formulada por el Servicio o el Consejo de Defensa del Estado;
-
-b) El Juez sumariante dispondrá las medidas de investigación y las llevará a cabo hasta la conclusión del sumario, en el plazo de ciento veinte días. Sólo por resolución fundada, que comunicará a la Corte de Apelaciones respectiva, podrá el Juez prorrogar dicho término por una sola vez.
-
-En la declaración indagatoria de los querellados el juez deberá interrogarlos sobre el contenido completo de la querella, exhibiendo al interrogado los libros y documentos, para su reconocimiento.
-
-En las diligencias a que se refiere el artículo 52 del Código de Procedimiento Penal, el Juez dispondrá la preferencia con que la autoridad o Servicio que corresponda deba cumplirlas.
-
-La misma regla se aplicará respecto de las órdenes de detención que expida el Tribunal.
-
-c) Las actuaciones del sumario no tendrán el carácter de secretas para el denunciante o querellante. El tribunal correspondiente facilitará al querellante la obtención de copia simple de todas las actuaciones que se practiquen, sin formalidad alguna ni resolución escrita;
-
-d) El Director de Impuestos Internos prestará declaración por medio de informe cuando lo requiera el Juez de la causa;
-
-e) Los informes contables emitidos por los funcionarios del Servicio de Impuestos Internos que realizaron la investigación administrativa del delito tributario, tendrán, para todos los efectos legales, el valor de informe de peritos.
-
-Las partes podrán designar, a su costa, peritos adjuntos en materias contables o de otra índole, los que deberán evacuar sus informes en el plazo de veinte días, pudiendo éste ser ampliado a veinte días más por una sola vez, a petición de los peritos y por resolución fundada del Juez de la causa. Transcurridos los plazos sin que se hayan evacuado los informes, quedará ipso facto sin efecto la designación del perito sin necesidad de requerimiento previo o resolución del Tribunal. Iguales normas se aplicarán respecto de los peritos que el Tribunal de oficio designe.
-
-f) Cuando proceda la excarcelación, el Juez fijará el monto de la fianza. En los casos a que se refiere el inciso segundo del número 4° del artículo 97, la fijará en una suma no inferior al 30% de los impuestos evadidos, reajustados en la forma prevista en el artículo 53, y de acuerdo a la estimación que de ellos se haga por el Servicio de Impuestos Internos. La excarcelación se otorgará y la fianza se rendirá de acuerdo a los incisos segundo y tercero del artículo 361 del Código de Procedimiento Penal, cualquiera que sea la pena asignada al delito.
-
-Sin embargo, en los casos a que se refiere el inciso tercero del N° 4 del artículo 97, la excarcelación procederá de acuerdo con las reglas generales, pero se exigirá, además, caución y no se admitirá otra que no sea un depósito de dinero de un monto no inferior al de la devolución indebidamente obtenida, según los antecedentes que presente el Servicio de Impuestos Internos. Sobre este monto, el Tribunal fijará los reajustes e intereses que procedan;
-
-Al conceder el beneficio de la libertad provisional, el tribunal decretará simultáneamente el arraigo del procesado, hasta el término por sentencia firme del proceso incoado.
-
-g) Para los efectos previstos en los artículos 380 y siguientes del Código de Procedimiento Penal, corresponderá en primer término al querellante el señalamiento de los bienes sobre los cuales ha de recaer el embargo;
-
-h) La ratificación de los testigos del sumario solicitada por el querellado, será ordenada por el Juez sólo cuando lo estime necesario;
-
-i) Las apelaciones que se deduzcan por los querellados en los procesos por delitos tributarios se concederán en el solo efecto devolutivo, en la única excepción de la sentencia definitiva. Al concederse el recurso en un solo efecto deberán en todo caso enviarse compulsas al Tribunal de Alzada, no pudiendo remitirse, bajo ningún pretexto, el expediente original, a menos de ser requerido por dicho Tribunal para tenerlo a la vista en el fallo del recurso. Transcurrido el plazo de diez días desde la fecha de concesión del recurso sin que las compulsas hayan sido elevadas al tribunal de alzada, se tendrá al apelante por desistido del recurso y a firme la resolución recurrida.
-
-Concedido el recurso de apelación, se elevarán los autos al Tribunal de segunda instancia, el que tramitará el recurso sin más formalidades que fijar el día para la vista de la causa. Las Cortes de Apelaciones darán preferencia a estas causas, para cuyo efecto las agregarán a la tabla en la semana siguiente de haber ingresado a la Secretaría del Tribunal.
-
-Cualquiera que sea el número de los querellados, sólo podrán ejercer por dos veces el derecho de suspender la vista de la causa y por una el de recusar.
-
-j) Toda sentencia condenatoria de primera o de segunda instancia deberá establecer el monto de los impuestos cuya evasión se haya acreditado en el respectivo juicio criminal. La sentencia condenatoria podrá conceder el beneficio de la remisión condicional de la pena y el reo acogerse a dicho beneficio si además de dar cumplimiento a las exigencias contenidas en los números 1), 2) y 3) de la ley 7.821 modificada por la ley 17.642, se obligue a pagar dentro de seis meses de ejecutoriada la sentencia, la multa y costas de la causa y los impuestos adeudados. El pago de tales impuestos deberá efectuarse en su valor reajustado hasta la fecha del pago efectivo, con más sus respectivos intereses.
-
-En el evento de transcurrir el plazo indicado en el inciso anterior, sin que se haya acreditado en el proceso respectivo, el pago de la multa, costas, impuestos e intereses adeudados o la suscripción de un convenio conforme a lo dispuesto en el artículo 192, quedará sin efecto ipso facto la concesión del beneficio y el Juez, de oficio y sin más trámite, dispondrá la orden de detención respectiva para el ingreso del reo al establecimiento en que ha de cumplir la pena primitiva de libertad establecida en la sentencia.
+Si, en los procedimientos penales que se sigan por los mismos delitos, procediere la prisión preventiva, para determinar en su caso la suficiencia de la caución económica que la reemplazará, el tribunal tomará especialmente en consideración el hecho de que el perjuicio fiscal se derive de impuestos sujetos a retención o recargo o de devoluciones de tributos; el monto actualizado, conforme al artículo 53 de este Código, de lo evadido o indebidamente obtenido, y la capacidad económica que tuviere el imputado.
 
 #### Artículo 164
 
@@ -1872,15 +1828,15 @@ c) Que no se conozcan bienes sobre los cuales puedan hacerse efectivas.
 
 6°.- Las deudas por impuestos territoriales, que no alcanzaren a ser pagados con el precio obtenido en subasta pública del predio correspondiente.
 
-7º.- Las que correspondan a contribuyentes que hayan deducido querella por haber sido estafados o defraudados en dineros entregados para el pago de impuestos determinados, y siempre que se haya condenado a los culpables por sentencia que se encuentre ejecutoriada.
+7º.- Las que correspondan a contribuyentes que hayan deducido querella por haber sido estafados o defraudados en dineros entregados para el pago de impuestos determinados, y siempre que se haya condenado a los culpables por sentencia que se encuentre ejecutoriada o se haya decretado a su respecto la suspensión condicional del procedimiento.
 
 La declaración de incobrabilidad sólo podrá efectuarse por aquella parte que no exceda, en los impuestos mensuales o esporádicos, de 50 unidades tributarias mensuales por cada período o impuesto; y en los impuestos anuales, en aquella parte que no exceda a 120 unidades tributarias mensuales por cada período.
 
-Los contribuyentes que hayan deducido la querella a que se refiere el inciso primero de este número, podrán solicitar al tribunal que la esté conociendo la suspensión del cobro judicial de los impuestos respectivos.
+Los contribuyentes que hayan deducido la querella a que se refiere el inciso primero de este número, podrán solicitar al juez de garantía que corresponda la suspensión del cobro judicial de los impuestos respectivos.
 
-El tribunal podrá ordenar la suspensión total o parcial del cobro de los impuestos, por un plazo determinado que podrá ser renovado, previo informe del Servicio de Tesorerías y siempre que se haya dictado auto de procesamiento.
+El tribunal podrá ordenar la suspensión total o parcial del cobro de los impuestos, por un plazo determinado que podrá ser renovado, previo informe del Servicio de Tesorerías y siempre que se haya formalizado la investigación.
 
-La suspensión cesará de pleno derecho, cuando se deje sin efecto el auto de procesamiento o se dicte sobreseimiento temporal o definitivo o sentencia absolutoria. El tribunal deberá comunicar de inmediato la ocurrencia de cualquiera de estas circunstancias, al Servicio de Tesorerías, mediante oficio.
+La suspensión cesará de pleno derecho, cuando se dicte sobreseimiento temporal o definitivo o sentencia absolutoria. El tribunal deberá comunicar de inmediato la ocurrencia de cualquiera de estas circunstancias, al Servicio de Tesorerías, mediante oficio.
 
 Decretada la suspensión del cobro judicial no procederá el abandono del procedimiento en el juicio ejecutivo correspondiente, mientras subsista aquélla.
 
