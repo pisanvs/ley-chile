@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº1.698 de fecha 29 de noviembre del 2002, se expropió el lote de terreno Nº41-B, superficie 630 m2, Rol en Trámite, comuna de Pelarco, VII Región para la obra "Camino Los Robles - Huencuecho - Bajo Perquín, Sector Huencuecho - Bajo Perquín, Tramo Km. 46,140.00 al 76,107.70" y se acordó el valor de indemnización con su propietario Pedro Segundo Rojas Amigo, ascendente a la cantidad de $368.506.-
+
+Fiscal del Ministerio de Obras Públicas.
