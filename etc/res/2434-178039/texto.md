@@ -1,0 +1,3 @@
+Por resolución N°2.434, de 31 de octubre de 2000, de esta Subsecretaría, modifícase el numeral 5º de la resolución N°2.194, de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con el Proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', en el sentido de reemplazar la nave ''Carolina III'' de propiedad de Pesquera Nacional S.A. por la nave ''Toyita'', de propiedad de Empresa Nacional de Pesca S.A.
+
+Valparaíso, 31 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
