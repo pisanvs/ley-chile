@@ -472,7 +472,7 @@ Los casos de imprevisión, como los que demuestren incompetencia profesional en 
 
 #### Artículo 93
 
-Cuando se opere en el embarque, desembarque o transbordo de materiales disgregados, como arena, huesos, cenizas, piedras sueltas y otras substancias no contenidas en envases, que impidan su caída al agua, se pondrá entre el buque y el muelle o entre el buque o las embarcaciones que ejecuten el transbordo o entre los buques que se encuentren en el mismo caso, una planchada de madera bien unida con aleros laterales o en su defecto, encerados resistentes dispuestos en forma que impidan la caída al agua del material que se desprenda de los chinguillos o tinas.
+Suprimido.
 
 #### Artículo 94
 
@@ -1076,21 +1076,31 @@ En concordancia con lo que establece en el Art.182 quedan prohibidas las pitadas
 
 ## Capítulo XXI
 
-Lastres, piedras, basuras, etc.
+Prohibición de arrojar o derramar en las aguas jurisdiccionales de la República, petróleo y sus derivados, lastre, escombros, basura, etc.
 
 #### Artículo 185
 
-Queda prohibido arrojar lastres u otro objeto alguno que no boye o embarcar lastre, sin permiso del capitán de puerto, el que designará, en cada caso, el paraje donde debe efectuarse la operación.
+Se prohíbe arrojar lastre, escombros,basuras, derramar petróleo y sus derivados o residuos de los mismos, aguas de relave de minerales u otras materias orgánicas nocivas o peligrosas de cualquier especie, en los puertos o en las aguas jurisdiccionales de la República, sin el consentimiento previo de la autoridad marítima respectiva, quien designará, en todo caso, el lugar o forma como se procederá a efectuar alguna de dichas operaciones.
+
+Cuando se ejecuten faenas de embarque o desembarque de materiales sólidos que se transporten a granel, se colocará entre la nave y el muelle o entre la nave y las embarcaciones que efectúen la carga o descarga, una planchada o encerados resistentes en forma tal que impidan la caída al agua del material desprendido durante la ejecución de la faena.
+
+Se prohíbe, además, efectuar rellenos o avances dentro del agua sin el conocimiento previo de la autoridad marítima y sin contar con la respectiva concesión que corresponda, en conformidad a lo dispuesto en el Reglamento General sobre Concesiones Marítimas.
 
 #### Artículo 186
 
-Si un buque tuviera necesidad de lastrar o deslastrar en lanchas, lo hará con las debidas precauciones, procediendo en la forma indicada en el Art.93 para impedir la caída de piedras y arenas en el mar.
+Cuando debido a un siniestro marítimo o por otras causas se produzca la contaminación de las aguas por el efecto de derrames de hidrocarburos u otras substancias nocivas o peligrosas, la autoridad marítima respectiva adoptará todas las medidas que estime procedentes para evitar la destrucción de la flora y fauna marítima.
+
+Las medidas que en estos casos adopte la autoridad marítima, no serán susceptibles de reclamo o recurso alguno.
 
 #### Artículo 187
 
-Las lanchas que conduzcan piedras, ladrillos u otras especies sueltas, sumergibles que puedan perjudicar el fondo, deberán tomar las precauciones prescritas en el artículo anterior para su carga, transporte o descarga. En los casos extraordinarios de alijo obligado en el agua, por golpes de viento u otro accidente, deberán justificar la urgente necesidad de haberlo hecho.
+Toda infracción a las presentes disposiciones será penada con una multa al capitán o a los representantes de la nave infractora de $1.000 oro a $1.000.000 oro, los que serán además, responsables de los perjuicios ocasionados, corriendo por su cuenta la total eliminación del elemento contaminador a entera satisfacción de la autoridad marítima, aunque la contaminación se haya producido por caso fortuito.
 
-Art.188. Nadie podrá arrojar en las bahías y playas, escombros, basuras u otros objetos que puedan perjudicar el tránsito o el fondo de ellas o que se hagan con la intención de efectuar rellenos o avances sobre el mar, para cuyo caso se deberá contar con el decreto supremo correspondiente.
+Procederá la aplicación de la multa aunque el "derrame haya sido ocasionado por culpa o descuido levísimo.
+
+#### Artículo 188
+
+Las naves que naveguen las aguas jurisdiccionales de la República como también las que arriben a un puerto nacional conduciendo un cargamento de petróleo o sus derivados u otras materias líquidas inflamables, nocivas o peligrosas, deberán tener, entre los documentos de a bordo, una póliza de seguro contra todo riesgo de contaminación de las aguas, por efectos de derrame de hidrocarburos o de cualquier otra substancia nociva o peligrosa.
 
 ## Capítulo XXII
 
