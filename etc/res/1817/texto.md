@@ -1,0 +1,3 @@
+Por Resolución N° 1.817, de 24 de octubre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 93106005, presentada por PISCICULTURA RIO MOLULCO LTDA., para un sector ubicado en Ensenada Mapue, Isla Tranqui, Comuna de Queilén, Provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78° y 87°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
