@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.998, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº79, superficie 660,0 m², rol de avalúo 112-59, comuna de Corral, para la obra "Camino Longitudinal Costero Sur, Sector El Morro-Chaihuin II (3ª Parte), Km. 15,755 a Km. 27,017" y se acordó el valor de indemnización con su propietario José Mateo Railaf Llasquen, ascendente a la cantidad de $1.456.652.-
+
+Fiscal del Ministerio de Obras Públicas.
