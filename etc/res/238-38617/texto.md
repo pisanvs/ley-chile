@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 238 de 18 de Febrero de 1994 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Trasportes, se autorizó a la sociedad González y Compañía Limitada (Transporte Aconcagua Santiago T.A.S. Choapa Limitada o T.A.S. Choapa Limitada) para prolongar el servicio internacional de transporte terrestre de pasajeros entre Santiago (Chile) y San Luis-Córdoba (Argentina) hasta Villa Carlos Paz (Argentina) y Viña del Mar (Chile) durante el período comprendido entre el 1° de Diciembre y el 30 de Abril de cada año.-
+
+Jaime Herrera Ferrada, Subsecretario de Transportes Subrogante.
