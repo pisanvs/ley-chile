@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.469, de 20 de junio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº 15, para la obra Actualización Proyecto Refuerzo Colector Las Américas Cerro Los Placeres, que figura a nombre de Banco del Trabajo, rol de avalúo 8271-03, comuna de Valparaíso, V Región, superficie 308.88 m². La Comisión de Peritos fijó con fecha 5 de enero de 2000, el valor provisional de la indemnización en la cantidad de $308.880. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
