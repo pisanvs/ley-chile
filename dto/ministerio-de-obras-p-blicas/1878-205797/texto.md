@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.878, de 29 de octubre de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 148-B para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Km. 558.700,00 al Km. 567.000,00", Novena Región, que figura a nombre de Forestal Millalemu S.A., rol de avalúo 191-11, comuna de Collipulli, superficie 4.775 m². La comisión de peritos integrada por los señores María Soledad Núñez Arroyo, Christian Cornelio Scherpenisse Infante y Yáschala Maribel Yáñez Riffo, fijó con fecha 24 de julio de 2002, el valor provisional de la indemnización en la cantidad de $6.308.523. La indemnización se pagará al contado. La se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
