@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD COMERCIAL ALESA S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 427 de 23 de Julio de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Comercial Alesa S.A., domiciliada en Santiago, para instalar y operar una planta elaboradora de congelados de recursos hidrobiológicos en calle Las Heras N° 2241, Concepción, VIII Región. Los recursos que utilizará como materia prima en la elaboración del producto señalado son los siguientes: agujilla, bacalao de J. Fernández, cojinova del Norte, cojinova del Sur, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado de ojos chicos, lenguado de ojos grandes, lisa, merluza común, merluza española, merluza de cola, merluza de 3 aletas, mero, pejegallo, pejerrey de mar, robalo, sardina común, tollo, almeja o taca, almeja, calamar, caracol azul, caracol locate, caracol trumulco, cholga, lapa, loco, macha, navajuela, pulpo, jaiba y erizo.
+
+Valparaíso, 23 de Julio de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
