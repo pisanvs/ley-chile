@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.115 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 2, superficie 719 m2, rol de avalúo Nº 266-412, comuna de Carahue, para la obra "Mejoramiento Ruta S-46, Sector Carahue - Puerto Domínguez, Km. 0,00000 a Km. 7,34893", provincia de Cautín, comuna de Carahue y Saavedra", IX Región y se acordó el valor de la indemnización con su propietaria Irma Escobar Díaz y otros, ascendente a la cantidad de $43.367.712.
+
+Fiscal del Ministerio de Obras Públicas.
