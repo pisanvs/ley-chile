@@ -1,0 +1,3 @@
+Por resolución exenta No. 135, de 20 de Febrero de 1990, se adjudica a Soc. Touring Club Ltda., la concesión para operar, por un plazo de cinco años a contar del 05 de marzo de 1990, un establecimiento ubicado en calle Avda. Vitacura No. 8620, Las Condes destinado a la Revisión Técnica y Verificación de Emisión de Contaminantes de Automóviles, Station Wagons, Motocicletas, Vehículos de carga de menos de 1.750 Kg. de capacidad de carga útil y sus remolques ubicadas en la Región Metropolitana, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Carlos Silva Echiburu, Ministro de Transportes y Telecomunicaciones.
