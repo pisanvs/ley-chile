@@ -1,0 +1,3 @@
+Por resolución Nº 1.252, de 7 de julio de 1999, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Loanco, VII Región, individualizada en el artículo 1º) Nº 1 del D.S. Nº 493 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES, BUZOS MARISCADORES, ALGUEROS ACUICULTORES Y ACTIVIDADES CONEXAS DE CALETA LOANCO.
+
+Valparaíso, 7 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
