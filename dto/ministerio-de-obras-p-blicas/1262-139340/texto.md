@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.262, de 31 de mayo de 1999, se expropió el lote de terreno Nº 50, superficie 3.284 m2., rol de avalúo 107-41, comuna de San Pablo, para la obra ''Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt, Sector San Pablo - Osorno, Décima Región y se acordó el valor de indemnización con su propietaria Agrícola Margarita Berries Limitada, ascendente a la cantidad de $2.298.711.
+
+Fiscal del Ministerio de Obras Públicas.
