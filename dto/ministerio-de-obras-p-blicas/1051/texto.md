@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 1.051, de 28 de Octubre de 1997, se expropiaron los lotes de terreno Nºs. 1, 2, superficies 140 y 334 M2. Respectivamente, rol de avalúo 319-495, comuna de Buin, para la obra Mejoramiento Ruta 5, Sector Pasada por Buin, Camino Ruta 5 Sur Rol R-5, y se acordó precio de indemnización con su propietario Sergio, Casas del Valle Barros, ascendente a la cantidad de $11.913.893.-
+
+Fiscal del Ministerio de Obras Públicas.-
