@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº658, de 31 de mayo de 2001, se expropió el lote de terreno Nº108, superficie 261 m², rol de avalúo 700-51, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo-Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario Héctor Manuel Fuentes de la Fuente, ascendente a la cantidad de $2.185.064.-
+
+Fiscal del Ministerio de Obras Públicas.
