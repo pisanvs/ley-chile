@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº267, de fecha 22 de marzo del 2002, se expropió el lote de terreno Nº 31, superficie 303 m2, Rol de avalúo Nº499-171, comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial-Las Camelias Tramo 6,320.00 al Km. 23,400.00", VII Región y se acordó el valor de indemnización con su propietario Roque Antonio Valverde López, ascendente a la cantidad de $629.994.-
+
+Fiscal del Ministerio de Obras Públicas
