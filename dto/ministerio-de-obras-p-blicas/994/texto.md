@@ -1,0 +1,5 @@
+Por decreto MOP N°994, de 25 de noviembre de 1996 rectificado por Decreto 1.063, de 12 de diciembre de 1996 y en base a la facultad otorgada por el artículo 105 del Decreto MOP.
+
+N°294, de 1984 que fijó el texto actualizado de la Ley N°15.840, se expropiaron los lotes de terreno N°s 1,2,2-A y 3 para la obra Agua Potable de Cañete, Recinto Captación El Salto, que figuran a nombre de Don Sergio Fica Peréz, Alicia VI González Pacheco y Anselmo Cáceres Osses, roles de avalúos 217-2, 218-13 y 218-11, Comuna de Cañate, VIII Región, superficies 16.500, 10.550, 9.238,20 y 21.650 m2.,respectivamente. La Comisión de Peritos compuesta por los señores Pablo Carrillo Valenzuela, José Manuel Gálvez Alegría y Ramón Jofré Soto, fijó con fecha 9 de mayo de 1996, el valor provisional de la indemnización en las cantidades de $1.980.000., para el lote 1, $1.226.000., para el lote 2 $4.165.000,-para el lote 3 y con fecha 9 de septiembre de 1996, en la suma de $1.385.730,-para el lote 2-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento de lo dispuesto en el Artículo 7° del Decreto Ley N° 2.186, de 1978
+
+Fiscal del Ministerio de Obras Públicas
