@@ -1,0 +1,9 @@
+Por Resolución Nº33, de 20 de Enero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SANTA MARTA LIMITADA;
+
+R.U.T. Nº78.112.980-1, domiciliada en calle Seminario Nº91, Puerto Montt, para iniciar actividades pesqueras, operar la planta industrial ubicada en calle Andina, esquina El Tofo, Barrio Industrial, Puerto Montt, Provincia de Llanquihue, X Región, en la línea de elaboración de fresco-refrigerado, congelado, seco-salado, ahumado y conserva, los siguientes recursos hidrobiológicos: Albacora o pez espada, Anchoa o anchoveta, Bacalao, Brótula, Cabrilla, Cazón, Chancharro, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Marrajo o tiburón, Merluza común, Merluza española, Merluza de cola, Merluza de tres aletas, Pejegallo, Pejerrey de mar, Puye, Raya, Róbalo, Rollizo, Salmón del atlántico, Salmón del pacífico, Sardina común, Sierra Tollo, Trucha arcoiris, Almeja o taca, Calamar, Camarón locate, Trumulco, Cholga, Chorito, Choro zapato, Culengue, Lapa, Macha, Navajuela, Ostión del sur, Ostra, Ostra del pacífico, Pulpo, Cangrejo, Centolla, Centollón, Jaiba, Picoroco, Erizo y Piure.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para procesar el recurso loco, de conformidad a lo dispuesto en el D.S. Nº614, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 20 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
