@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.977, de 31 de octubre de 2002, se expropiaron los lotes de terreno Nºs 58-A y 58-B, superficies 4.902 y 1.017,25 m² respectivamente, rol de Avalúo Nº214-28, comuna de Teodoro Schmidt, para la obra "Camino S-60 sector: Teodoro Schmidt - Hualpín, Km. 43,94000 al Km. 59,10294, tramo II Km. 53,075 al Km. 58,093", IX Región y se acordó el valor de la indemnización con el propietario Pedro Nolasco Sepúlveda Zambrano, ascendente a la cantidad de $3.618.013.-
+
+Fiscal del Ministerio de Obras Públicas.
