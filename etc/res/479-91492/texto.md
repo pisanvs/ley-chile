@@ -1,0 +1,3 @@
+Por Resolución No. 479, de 12 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, - parte inmueble - ubicado Condell 1249 - 1267, presunto rol avalúos 917-21, comuna Providencia, aparentemente dominio de Rosa Gattas vda. de Abuhadba. Comisión integrada por peritos Luis Rojas Quezada, constructor civil, Jorge Navarro Navarrete, arquitecto, y Emilio Recabarren Solar, ingeniero civil, según informe de 21.12.88, fijó monto provisional indemnización en $ 7.155.500.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
