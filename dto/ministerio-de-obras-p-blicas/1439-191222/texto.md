@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.439, de 28 de septiembre de 2001, se expropiaron los lotes de terreno Nºs. 112, 114, 115, 117, 118, 119 y 120, superficies 3.315,45 m2, 3.675,03 m2, 3.685,89 m2, 40.860,37 m2, 1.575,52 m2, 24.249,53 m2 y 2.246,88 m2, respectivamente, roles de avalúo 1238-6, 1238-1, 1238-11 y en trámite, comuna de Pichilemu, VI Región, para la obra "Camino Costero Pichilemu-Iloca, sector Puente Cahui y Accesos" y se acordó el valor de indemnización con sus propietarios Liliana Ester Núñez Henríquez, María Soledad Araneda Núñez, Ricardo Antonio Araneda Núñez e Inmobiliaria San Pedro de Alcántara S.A., ascendente a la cantidad de $509.423.816.-
+
+Fiscal del Ministerio de Obras Públicas.
