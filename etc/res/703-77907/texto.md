@@ -1,0 +1,3 @@
+Por Resolución Nº703 de 31 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº838, de 1990 que autorizó a doña CYNTHIA ASTRID CORCIONE GALLEGOS, R.U.T. Nº7.040.228-9, domiciliada en Calle Las Codornices Nº132, Concepción, para operar un establecimiento de cultivo del recurso alga gracilaria en la comuna de Maullín, X Región, por renuncia total de su titular ya individualizado.
+
+Valparaíso 31 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
