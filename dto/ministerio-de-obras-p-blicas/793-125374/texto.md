@@ -1,0 +1,5 @@
+Por decreto MOP. No. 793, de 19 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206 de 1960, se expropió el lote de terreno No. 259, para la obra Camino Ruta 5 Norte, tramo Santiago-Los Vilos, Sector Km.
+
+63.400,00 al km. 73.900,00, Región Metropolitana, que figura a nombre de Laso Martín Antonio Alfredo Km. 70, Rol de Avalúo 153-6, de la comuna de Llay-Llay, superficie 5.935 m2. La Comisión de Peritos integrada por los Sres. Jorge Gregorio Mendoza Larral, Pablo Antonio Aragón Bernal y Juan Carlos Paniagua López, fijó con fecha 26 de enero de 1998, el valor provisional de la indemnización en la cantidad de $ 4.059.540.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
