@@ -1,0 +1,3 @@
+Por resolución Nº 946, de 16 de mayo de 2002, de esta Subsecretaría, autorízase a ALIMENTOS MULTIEXPORT S.A., RUT Nº 96.938.200-8, domiciliada en Isidora Goyenechea Nº 3621, piso 17, Las Condes, Santiago, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Conservas Multiexport S.A. RUT Nº 96.521.130-6, con domicilio en Km. 20, camino Coronel, Concepción, VIII Región, en virtud de las escrituras públicas y demás documentos citados en Visto.
+
+Valparaíso, 16 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
