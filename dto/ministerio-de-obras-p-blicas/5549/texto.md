@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.549 de fecha 29 de diciembre del 2000, se expropió el lote de terreno Nº 54, superficie 102 m2, Rol de Avalúo 497-14, comuna de Concepción, para la obra "Mejoramiento Autopista Concepción - Talcahuano, Sector Rotonda Bonilla y Campus San Andrés Km. 0.324,15 al Km. 0.602,65" y se acordó el valor de indemnización con su propietaria María Retamal Díaz y otro, ascendente a la cantidad de $11.504.108.-
+
+Fiscal del Ministerio de Obras Públicas.
