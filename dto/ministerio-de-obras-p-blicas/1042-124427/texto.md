@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.042, de 30 de julio de 1998, se expropió el lote de terreno No. 26, superficie 210 m², rol de avalúo 170-21, comuna de Cauquenes, para la obra Camino Cauquenes-Límite Regional-Quirihue, Sector By Pass Norte y se acordó precio de la indemnización con su propietario José del Rosario Villegas Candia, ascendente a la cantidad de $ 1.876.160.-
+
+Fiscal del Ministerio de Obras Públicas.
