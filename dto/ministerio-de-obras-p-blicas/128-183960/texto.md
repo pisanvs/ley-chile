@@ -1,0 +1,3 @@
+Por decreto MOP Nº 128, de fecha 28 de febrero del 2001, se expropió el lote de terreno Nº 1, superficie 3.846 m², rol de avalúo 2217-251, comuna de Osorno, para la obra "Construcción Puente Huamputue, Camino Osorno - Trinidad, Rol V-22" y se acordó el valor de indemnización con su propietario Gastón Mauricio Montesinos Wittig, ascendente a la cantidad de $1.419.964.-
+
+Fiscal del Ministerio de Obras Públicas.
