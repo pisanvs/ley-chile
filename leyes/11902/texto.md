@@ -1,0 +1,1 @@
+Autoriza expropiar, en favor de sus ocupantes, los terrenos que indica y cuyos deslindes señala, que integran las Poblaciones Zelada e Industrial Yungay, ubicadas en la comuna de Quinta Normal.
