@@ -148,9 +148,9 @@ Sin embargo, la Secretaría General de Gobierno podrá suspender o cancelar los 
 
 #### Artículo 26
 
-Queda prohibido a las estaciones radiodifusoras toda transmisión que contenga expresiones injuriosas o contrarias a la moral y buenas costumbres, como asimismo la transmisión de informaciones, disertaciones, discursos y otros medios de propaganda que vayan contra el régimen constitucional establecido, inciten a la subversión del orden público, contravengan las leyes del país o constituyan actos delictuosos contemplados en el decreto ley número 425, de 20 de Marzo de 1925, y en la ley. N.o 6.026, de 11 de Febrero de 1937.
+El plazo de las concesiones de radiocomunicaciones de servicio público será de treinta años para aquellas cuyas obras iniciales de aprovechamiento tengan un presupuesto hasta de veinte millones de pesos, y se aumentará en un año por cada millón de pesos en que el presupuesto exceda la suma indicada, no pudiendo ser superior a noventa años.
 
-La infracción a este artículo será sancionada en conformidad a lo dispuesto en la ley N.o 6.026, ya citada y demás disposiciones legales vigentes.
+Para las concesiones de servicio privado, el plazo será indefinido, pero los concesionarios quedarán obligados a acreditar en el mes de Diciembre de cada año, ante la Dirección y a su satisfacción, que mantienen inalterable el motivo para el cual fueron otorgadas, de conformidad con el artículo 37 de la Ley General de Servicios Eléctricos; como asimismo, en la época que corresponda; la prórroga del plazo de vigencia del contrato de sociedad. Si así no lo hicieren, el Gobieno podrá declarar caducada la concesión sin que el concesionario tenga derecho a ulterior reclamo. La caducidad de las concesiones de servicio privado se declarará por medio de un decreto supremo.
 
 #### Artículo 27
 
@@ -175,3 +175,5 @@ Corresponderá a la Secretaría General de Gobierno, en caso de divergencias o d
 V.o B.o - Manuel Aguirre Geisse.- Subsecretario del Interior.
 
 > **Nota.** El numeral 2 letra c) del Decreto 3766, Interior, publicado el 02.08.1948, ordena suprimir el artículo 4.o y todas las referencias que en el presente reglamento se hagan a la Comisión de Radiodifusión.
+
+> **Nota.** NOTA 1 El Decreto 6127, Interior, publicado el 29.12.1952, modifica el artículo 26 de la presente norma, no obstante, referirse la citada norma al Decreto N.o 3.375.
