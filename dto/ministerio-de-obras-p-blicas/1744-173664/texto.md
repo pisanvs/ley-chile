@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.744, de fecha 28 de abril del 2000, se expropió los lotes de terreno Nºs. 18, 24, 26-A y 26-B, superficie 316, 107, 1.300 y 950 m², respectivamente, rol de avalúo 2207-7, comuna de Osorno, para la obra "Camino Ruta U-72, sector Osorno-Huilma, Tramo Km. 0,000 a Km. 18,100" y se acordó el valor de indemnización con su propietario Sergio Alberto González Martínez, ascendente a la cantidad de $1.109.214.-
+
+Fiscal del Ministerio de Obras Públicas.
