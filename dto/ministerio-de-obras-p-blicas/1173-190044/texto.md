@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.173, de 31 de julio de 2001, se expropió el lote de terreno Nº 126 superficie 962 m², rol de avalúo 277-27, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo - Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario Emilio Alejandro Gacitúa Martínez, ascendente a la cantidad de $3.525.650.
+
+- Fiscal del Ministerio de Obras Públicas.
