@@ -1,0 +1,3 @@
+Por decreto MOP Nº186, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº81, superficie 224,00 m2, rol de avalúo 233-58, comuna de Villa Alegre, para la obra ''Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre-Esperanza), Tramo Km. 0,000.00 al Km. 10,623.89'' y se acordó el valor de indemnización con su propietario Rafael Villegas Aguilera, ascendente a la cantidad de $550.020.-
+
+Fiscal del Ministerio de Obras Públicas.
