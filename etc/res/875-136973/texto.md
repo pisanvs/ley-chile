@@ -1,0 +1,3 @@
+Por resolución Nº 875, de 18 de mayo de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 251 de 1996, de esta Subsecretaría, que autorizó a JUAN RICARDO GONZALEZ SALDIVIA para instalar y operar el centro de cultivo ubicado en Quiquel, al sur de Punta Teguel, desembocadura del Estero Teguel, Canal Dalcahue, comuna de Dalcahue, provincia de Chiloé, X Región.
+
+Valparaíso, 18 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
