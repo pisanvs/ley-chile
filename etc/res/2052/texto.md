@@ -1,0 +1,5 @@
+DELEGA EN EL JEFE DE DEPARTAMENTO JURIDICO REGIONAL FACULTAD QUE INDICA
+
+Mediante Resolución N° 2.052 de 24 de Octubre de 1994, el suscrito delegó en el Jefe del Departamento Jurídico Regional, la facultad de conocer y fallar todas las reclamaciones de los contribuyentes en contra de las liquidaciones, giros, pagos, resoluciones, que deban tramitarse con arreglo a los procedimientos establecidos en el Título II y en el párrafo 1° del Título III del Libro Tercero del Código Tributario, y para que conozca y resuelva todos los denuncios por infracciones que deban tramitarse de acuerdo a los procedimientos contemplados en los párrafos 1° y 2° del Título IV del Libro Tercero del citado código, sin perjuicio de las facultades delegadas en la Resolución N° 2034 de 09.09.92, derogándose las delegaciones de facultades sobre las materias señaladas que se habían efectuado con anterioridad en el Jefe del Departamento de Resoluciones Regional.-
+
+Ramón Concha Velis, Director Regional.
