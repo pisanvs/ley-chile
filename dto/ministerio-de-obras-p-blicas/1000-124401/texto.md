@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.000, de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206 de 1960, se expropiaron los lotes de terreno No. s.24-A y 25, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector km. 161.580,00 al 165.800,00, V Región, que figura a nombre de Longotoma SA, rol de avalúo 361-69, de la comuna de La Ligua, superficies 992 m2 y 2.684 m2. La Comisión de peritos integrada por los Sres. María Isabel Ríos Marcuello, Joaquín Prieto Ochagavía y Claudia Paola Arellano Gómez, fijó con fecha 15 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 1.640.000.- para el lote No. 24-A y $ 4.751.000.- para el lote No. 25. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
