@@ -1,0 +1,7 @@
+Declaracion acerca de lo que debe entenderse por ribera de mar
+
+El Director Supremo de la República de acuerdo con el Excmo. Senado:
+
+Para evitar los perjuicios que con justicia reclama el arrendatario de la hacienda de Bucalemu sobre la servidumbre abusiva que sufre de ciento i mas posesiones de pescadores, que a la sombra de la pesca infieren en el fundo graves perjuicios; se declara por adicion al reglamento de 25 de setiembre de 1819, que por rivera del mar debe entenderse desde la mas alta marea ordinaria, uniéndose de ella las 80 varas de playa de que habla el artículo quinto del citado reglamento; de modo que para el señalamiento de lo que se reserva en favor de los pescadores con el objeto único de la pesca, no puede tenerse consideracion a la alta marea que en las creces estraordinarias del mar suele a las veces observarse; prohibiéndose enteramente a los pescadores el hacer negociaciones ajenas a la pesca en los terrenos de las haciendas que tienen por límites el mar, no pudiendo por lo mismo mantener en lo que debe estimarse rigurosamente por playa otros animales que los necesarios para la pesca i su conduccion a los puntos en que debe espenderse. Insertese en la Gaceta Ministerial. Palacio Directorial en Santiago de Chile, Setiembre 3 de 1821.-
+
+Bernardo O'Higgins. - Joaquin de Echeverría.
