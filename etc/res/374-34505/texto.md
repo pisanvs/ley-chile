@@ -1,0 +1,3 @@
+Por Resolución N° 374, de 21 de Febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a doña ELVA ELENA BUSTAMANTE OLATE, R.U.T. N° 3.541.047-3, para continuar desarrollando las actividades pesqueras autorizadas por resolución N° 245, de 1989, de esta Subsecretaría, respecto de la nave "Don Pedro I", a don Pedro Omar Avilés Sepúlveda, R.U.T. N° 2.568.399-4, en virtud de la escritura pública y disposiciones legales citadas en Visto.
+
+Valparaíso, 21 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
