@@ -1,0 +1,7 @@
+Por Resolución No. 328, de 13 de Abril de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA QURBOSA LIMITADA, R.U.T. Nº 81.342.600-5, domiciliada en calle Juan Antonio Ríos Nº 101, Talcahuano, para ampliar actividades pesqueras de transformación que tiene autorizadas por Resolución Nº 443, de 1984, de esta Subsecretaría, en orden a operar una planta industrial en la VIII Región, ubicada en calle Juan Antonio Ríos Nº 15, de la comuna de Talcahuano, donde se procesará en las líneas de elaboración de harina y aceite de pescado, los siguientes recursos hidrobiológicos: Agujilla, Anchoa y Anchoveta, Caballa, Jurel, Merluza de cola, Sardina común y Sardina.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada para incluir en el proceso de harina los recursos Machuelo y cochinilla, de conformidad con lo dispuesto en el DS Nº 316, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 13 de abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
