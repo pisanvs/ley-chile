@@ -1,0 +1,1 @@
+Dispone el traspaso de Caja de las imposiciones previsionales de los funcionarios que indica del Servicio Aerofotogramétrico de la Fuerza Aérea de Chile.
