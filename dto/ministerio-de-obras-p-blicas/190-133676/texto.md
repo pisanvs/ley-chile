@@ -1,0 +1,3 @@
+Por decreto MOP Nº190 de fecha 29 de enero de 1999, se expropió el lote de terreno Nº55, superficie 37 m2., rol de avalúo 747-52, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5, Tramo Chillán - Collipulli Sector 1 Km. 427.526,70 a Km. 434.386,40'', y se acordó el valor de indemnización con su propietario Agrícola y Ganadera Santa Elena Limitada, la cantidad de $151.307.-
+
+Fiscal del Ministerio de Obras Públicas.
