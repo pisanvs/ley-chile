@@ -4470,17 +4470,17 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Empresa de Servicios Sanitarios de Tarapacá S.A. (ESSAT S.A.)
 
-- Empresa de Servicios Sanitarios del Bio-Bio S.A. (ESSBIO S.A.)
+- Empresa de Servicios Sanitarios del Bio-Bio S.A (ESSBIO S.A.)
 
-- Empresa de Servicios Sanitarios del Libertador S.A. (ESSEL S.A.)
+- Empresa de Servicios Sanitarios del Libertador S.A (ESSEL S.A.)
 
-- Empresa de Servicios Sanitarios del Maulé S.A. (ESSAM S.A.)
+- Empresa de Servicios Sanitarios del Maulé S.A (ESSAM S A.)
 
-- Empresa de Transporte de Pasajeros Metro S.A. (METRO S.A.)
+- Empresa de Transporte de Pasajeros Metro S A. (METRO S.A.)
 
-- Empresa Eléctrica de Aysén S.A. (EDELAYSEN S.A.)
+- Empresa Eléctrica de Aysén S A (EDELAYSEN S.A.)
 
-- Empresa Metropolitana de Obras Sanitarias S.A. (EMOS S.A.)
+- Empresa Metropolitana de Obras Sanitarias S A. (EMOS S A.)
 
 - Empresa Nacional de Aeronáutica. (ENAER)
 
@@ -4496,21 +4496,23 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Empresa Portuaria Arica.
 
-- Empresa Portuaria Chacabuco.
+- Empresa Portuaria Chacabuco
+
+- Empresa Portuaria Coquimbo
 
 - Empresa Portuaria de Chile. (EMPORCHI)
 
 - Empresa Portuaria Iquique.
 
-- Empresa Portuaria Puerto Montt.
+- Empresa Portuaria Puerto Montt
 
-- Estado Mayor Fuerza Aérea de Chile.
+- Estado Mayor Fuerza Aérea de Chile
 
-- Fábrica y Maestranza del Ejército.(FAMAE)
+- Fábrica y Maestranza del Ejército (FAMAE)
 
 - Fondo Nacional de Desarrollo Tecnológico y Productivo. (FONTEC)
 
-- Imprenta de Carabineros de Chile.
+- Imprenta de Carabineros de Chile
 
 - Instituto de Fomento Pesquero. (IFOP)
 
@@ -4526,33 +4528,33 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Servicio de Bienestar Fuerza Aérea de Chile.
 
-- Servicio de Bienestar Subsecretaría de Hacienda.
+- Servicio de Bienestar Subsecretaría de Hacienda
 
-- Servicio de Bienestar de la Superintendencia de Bancos e Instituciones Financieras.
+- Servicio de Bienestar de la Superintendencia de Bancos e Instituciones Financieras
 
-- Servicio de Bienestar de la Superintendencia de Valores y Seguros.
+- Servicio de Bienestar de la Superintendencia de Valores y Seguros
 
-- Servicio de Bienestar del Magisterio.
+- Servicio de Bienestar del Magisterio
 
 - Servicio de Bienestar Social de la Armada.
 
 - Servicio de Cooperación Técnica. (SERCOTEC)
 
-- Servicio de Obras y Construcciones de la Armada.
+- Servicio de Obras y Construcciones de la Armada
 
 - Sociedad Agrícola SACOR Ltda. (SACOR LTDA.)
 
-- Sociedad Agrícola y Servicios Isla de Pascua Ltda. (SASIPA)
+- Sociedad Agrícola y Servicios Isla de Pascua Ltda (SASIPA)
 
 - Subsecretaría de Telecomunicaciones.
 
 - Subsecretaría de Vivienda. Ministerio de Vivienda y Urbanismo.
 
-- Superintendencia de Bancos e Instituciones Financieras.
+- Superintendencia de Bancos e Instituciones Financieras
 
 - Transporte Marítimo Chiloé - Aysén S.A. (TRANSMARCHILAY S.A.)
 
-- Zona Franca Iquique S.A. (ZOFRI S.A.)
+- Zona Franca Iquique S A (ZOFRI S.A.)
 
 - MUNICIPALIDADES (todas las Municipalidades del país).
 
