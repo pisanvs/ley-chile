@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.304 de 25 de agosto de 2004 de esta Subsecretaría, autorízase a GILBERTO JAVIER CORREA BRAVO para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Duao s/n, Licantén, VII Región, en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado, Congelado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Santiago, 25 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
