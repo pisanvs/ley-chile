@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.287 de fecha 31 de octubre del 2003, se expropio el lote de terreno Nº 23, superficie 17.260 m2, Rol Nº 327-28, comuna de Laja, VII Región para la obra "Camino Ruta Q-34 Candelaria-La Laja, Sector Millantu-La Laja km. 20,00000 a 35,88380"; y se acordó el valor de indemnización con su propietaria Erica Bendicta Torres Urra, ascendente a la cantidad de $8.185.728.
+
+Fiscal del Ministerio de Obras Públicas.
