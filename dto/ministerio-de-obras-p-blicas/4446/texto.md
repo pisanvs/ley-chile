@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.446, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs.14-D, 31-C, 41-A y 43-B, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector C Putú-Quivolgo, Kms. 30,000 al 49,815.494, que figuran a nombre de José Humberto Montecino Urzúa, Marta Valdés Nunes, Suc. José Aguilar Aguilar y Berta Barrera, roles de avalúo 350-45, 326-9, 321-14 y en trámite, comuna de Constitución, VII Región, superficies 889; 1.200;
+
+2.230,20 y 1.146 m2., respectivamente. La comisión de peritos fijó con fecha 3 de septiembre de 1999, en las cantidades de $243.580, lote 14-D, $600.000, lote 31-C, $1.115.100, lote 41-A y $114.600, lote 43-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
