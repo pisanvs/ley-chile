@@ -1,0 +1,5 @@
+Por Resolución Nº 434, de 27 de marzo de 1997, de esta Subsecretaría de Pesca, otórgase a PESCA CHILE S.A., un permiso extraordinario de pesca para la unidad de pesquería del recurso Bacalao de profundidad fijada en el artículo 1º del D.S. Nº 328, de 1992, del Ministerio de Economía, Fomento y Reconstrucción. Este permiso extraordinario tendrá vigencia para las temporadas de pesca de la especie Bacalao de profundidad que se fijen en los años 1997 a 2005, ambos inclusive; y faculta a su titular para pescar anualmente el 1,08% de la Cuota Global Anual de Captura, de conformidad con lo dispuesto en el artículo 40 de la Ley Nº 18.892 y sus modificaciones.
+
+Déjase sin efecto la Resolución Nº 1.354, de 1996, de esta Subsecretaría.
+
+Valparaíso, 27 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
