@@ -1,0 +1,3 @@
+Por decreto MOP Nº 521, de fecha 30 de junio del 2004, se expropió el lote de terreno Nº 34, superficie 1.213,54 m²., Rol Nº 706-001, comuna de Quintero, V Región para la obra "Ruta F-190, sector Colmo-Puchuncaví, Km. 0,0000 a Km. 25,22591, comunas de Limache, Concón, Quintero, Punchucaví y Quillota, provincias de Valparaíso y Quilota V Región", y se acordó el valor de indemnización con su propietaria Marcela Hodar Vizcaya, ascendente a la cantidad de $7.064.673.
+
+- Fiscal del Ministerio de Obras Públicas.
