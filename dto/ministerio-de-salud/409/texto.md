@@ -1,0 +1,27 @@
+ESTABLECE SEDE Y TERRITORIO DE SERVICIO DE SALUD LLANQUIHUE CHILOE-PALENA
+
+Santiago, 14 de Diciembre de 1984.- Hoy se decretó lo que sigue:
+
+Núm. 409.- Visto: Lo establecido en el inciso final del artículo 16° del decreto ley N° 2.763, de 1979; en el artículo 3° del decreto supremo N° 281, de 30 de Julio de 1980 y en el artículo 18° del decreto supremo N° 235, de 17 de Junio de 1980, ambos del Ministerio de Salud; y teniendo presente las facultades que me confiere el artículo 32° N° 8 de la Constitución Política de la República,
+
+Decreto:
+
+#### Artículo 1°
+
+El Servicio de Salud Llanquihue-ChiloePalena tendrá su sede en la ciudad de Puerto Montt y su territorio será el comprendido dentro de los siguientes limites:
+
+Norte: El río San Luis, desde su desembocadura en el Mar Chileno hasta su origen en las inmediaciones de la cota 822: la línea recta, desde la cota 822 hasta la cota 807, pasando por la cota 789; la línea recta que une la cota 807 con el origen del estero sin nombre que nace inmediato a dicha cota 807; el citado estero sin nombre, desde su origen hasta su desembocadura en el estero El Repil; el estero El Repil, aguas arriba, desde la desembocadura del referido estero sin nombre hasta la desembocadura del estero sin nombre signado X1 por CONARA (41° 02' latitud sur; 73° 42' longitud oeste); dicho estero X1, desde su desembocadura hasta la confluencia de los dos esteros sin nombre que lo forman; el paralelo astronómico de la confluencia de los dos esteros que forman el estero X1, desde dicha confluencia hasta el estero sin nombre signado X2, por CONARA (41° 02' latitud sur; 73° 41' longitud oeste); el citado estero X2, desde el paralelo astronómico de la confluencia de los esteros que forman el estero X1, hasta su desembocadura en el río Hueyusca; el río Hueyusca, desde la desembocadura del estero X2 hasta su confluencia con el estero Collihuineo; el estero Collihuinco, desde su confluencia con el río Hueyusca hasta la desembocadura del estero sin nombre situada al sur de la localidad El Array n; dicho estero, desde su desembocadura en el estero Collihuinco hasta su origen; la línea recta, desde el origen del estero sin nombre que desemboca en el estero Collihuinco al sur de la localidad El Array n hasta el origen del estero La Huella; el estero La Huella, desde su origen hasta su confluencia con el estero La Raya; el río Maule, desde la confluencia de los esteros La Raya y La Huella, que lo forman, hasta su confluencia con el río Toro; el río Maipué, desde la confluencia de los ríos Maule y Toro, que lo forman, hasta su confluencia con el río López; el río López, desde su confluencia con el río Maipué hasta su confluencia con el río Nihue o Copío; el río Nihue o Copío, desde su confluencia con el río Maipué hasta el lindero poniente de la parcela rol 329-103; el lindero poniente y sur de la parcela rol 329-103, sur de los predios Ponce (rol 329-105) y Coñico (rol 308-28) y poniente y sur del predio Quilanto (rol 15613), desde el río Nihue o Copio hasta el lago Llanquihue; el lago Llanquihue, desde el lindero sur del predio Quilanto (rol 156-13) hasta la desembocadura del estero Las Cascadas (41° 07' latitud sur); el estero Las Cascadas, desde su desembocadura en el lago Llanquihue hasta el origen de su brazo norte; la línea recta, desde el origen del brazo norte del estero Las Cascadas hasta la cumbre del volcán Osorno; la línea de cumbres que limita por el sur y oriente la hoya del lago Rupanco, desde la cumbre del volcán Osorno, hasta la cota 1.561 de la carta 1:50.000 del Instituto Geográfico Militar, pasando por los cerros La Picada y Puntiagudo; y una línea recta, desde la cota 1.561 hasta el portezuelo de Millaqueo, sobre la frontera con Argentina.
+
+Este: La frontera con Argentina, desde el portezuelo de Millaqueo hasta la línea de cumbres que limita por el sur la hoya del lago Palena.
+
+Sur: La finca de cumbres que limita por el sur la hoya del lago Palena, desde la frontera con Argentina hasta la línea de cumbres que limita por el sur la hoya del río Palena; la línea de cumbres que limita por el sur la hoya del río Palena, desde la línea de cumbres que limita por el sur la hoya del lago Palena hasta la desembocadura del río Frío en el río Palena; la línea de cumbre que limita por el sur la hoya del río Frío, desde su desembocadura en el río Palena hasta la línea de cumbres que limita por el norte la hoya del río Rodríguez; la finca de cumbres que limita por el norte la hoya del río Rodríguez, del fiordo Pitipalena y de la Rada Palena, desde la línea de cumbres que limita por el sur la hoya del río Frío hasta la punta Guala; y el Golfo Corcovado, desde la punta, Guala hasta el Mar Chileno, a 43° 45' latitud sur.
+
+Oeste: El Mar Chileno, desde el Golfo Corcovado, a 43° 45' latitud sur, hasta la desembocadura del río San Luis.
+
+#### Artículo 2°
+
+Derógase el artículo 18° del decreto supremo N° 235, de 17 de Junio de 1980, del Ministerio de Salud.
+
+Anótese, tómese razón, publíquese e insértese en la Recopilación Oficial de Reglamentos de la Contraloría General de la República. AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Winston Chinchón Bunting, Ministro de Salud.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Héctor Rodríguez Palacios, Subsecretario de Salud, Subrogante.
