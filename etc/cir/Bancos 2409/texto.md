@@ -18382,6 +18382,8 @@ No quedan sujetos a los límites señalados, los préstamos con garantía hipote
 
 Todo lo anterior es sin perjuicio del cumplimiento de los límites individuales de crédito de que trata el N° 1 del referido artículo 84 y de la prohibición de otorgar crédito a los empleados que se desempeñen como apoderados generales de la institución establecida en el inciso tercero del N° 4 antes mencionado, materias a las que se refieren los Capítulos 12-3 y 12-12 de esta Recopilación de Normas, respectivamente.
 
+Estas instrucciones rigen igualmente para los créditos que otorgue el Banco del Estado de Chile a su personal, según Resolución N° 37, del 13 de marzo de 1991, del Ministerio de Hacienda, dictada en virtud de lo dispuesto en el artículo 44 de la Ley Orgánica del Banco del Estado de Chile, modificado por el N° IV del ARTICULO SEGUNDO de la Ley N° 18.840.
+
 ### 2. Concepto de trabajador
 
 Para los efectos de los márgenes de que trata este capítulo, debe entenderse por
@@ -29920,7 +29922,9 @@ IMPORTACIONES DESDE ZONAS FRANCAS.
 
 Las mercaderías que se adquieran en las Zonas Francas, destinadas a su Zona Franca de Extensión, podrán ser pagadas en moneda extranjera o en moneda chilena.
 
-En los casos en que los importadores de mercaderías desde las Zonas Francas, para las Zonas Francas de Extensión, deseen efectuar el pago de dichas mercaderías mediante divisas del mercado cambiario formal, deberán presentar previamente al Banco Central de Chile, por intermedio de una empresa bancaria, la respectiva Solicitud Registro Factura, debiendo dar cumplimiento a lo dispuesto en el Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y a las instrucciones contenidas en este Capítulo.
+En los casos en que los importadores de mercaderías desde las Zonas Francas, para las Zonas Francas de Extensión, deseen efectuar el pago de dichas mercaderías mediante divisas del mercado cambiario formal, deberán presentar previamente al Banco Central de Chile, por intermedio de una empresa bancaria, la respectiva Solicitud Registro Factura o el Informe de Importación.
+
+Cuando la importación se realice al amparo de una Solicitud Registro Factura, se deberá dar cumplimiento a las disposiciones contenidas en el Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, a las instrucciones contenidas en este Capítulo y a las normas generales sobre importaciones que le sean aplicables. En los casos en que la importación se efectúe al amparo de un Informe de Importación, se deberá cursar con sujeción a las normas generales sobre importaciones que sean aplicables a estas operaciones.
 
 ### 1. Solicitud Registro Factura
 
@@ -29934,7 +29938,7 @@ Cuando así lo solicite el usuario o el importador, según corresponda, la empre
 
 2.1. Norma general.
 
-Los importadores o usuarios de las Zonas Francas que adquieran divisas para el pago de las mercaderías amparadas por Solicitudes Registro Factura extendidas en moneda extranjera y emitidas por el Banco Central de Chile, de conformidad con lo dispuesto en el antes mencionado Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales, no están sujetos a la obligación de liquidar dicha moneda extranjera. La referida adquisición de divisas sólo podrá efectuarse por el valor indicado en la respectiva Solicitud Registro Factura, una vez que haya sido internada la mercadería y a más tardar dentro de los 30 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación se haga exigible.
+Los importadores o usuarios de las Zonas Francas que adquieran divisas para el pago de las mercaderías amparadas por Solicitudes Registro Factura extendidas en moneda extranjera y emitidas por el Banco Central de Chile, de conformidad con lo dispuesto en el antes mencionado Capítulo VI del Título III del Compendio de Normas de Cambios Internacionales, no están sujetos a la obligación de liquidar dicha moneda extranjera. La referida adquisición de divisas sólo podrá efectuarse por el valor indicado para tal efecto por el Banco Central de Chile, en la respectiva Solicitud Registro Factura, una vez que haya sido internada la mercadería y a más tardar dentro de los 30 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación se haga exigible.
 
 2.2. Requisitos para efectuar la cobertura.
 
@@ -29978,7 +29982,7 @@ Las empresas bancarias deberán cumplir con la entrega de dichos documentos dent
 
 3. Importación de mercaderías desde Zonas Francas para su uso o consumo en el país.
 
-La salida de mercaderías desde las Zonas Francas para su uso o consumo en el país, excepto las destinadas a las Zonas Francas de Extensión, deberá sujetarse en todo a las disposiciones legales y reglamentarias vigentes para las operaciones de importación, sin perjuicio de las normas especiales que les sean aplicables.
+La salida de mercaderías desde las Zonas Francas para su uso o consumo en el país, deberá sujetarse en todo a las disposiciones legales y reglamentarias vigentes para las operaciones de importación, sin perjuicio de las normas especiales que les sean aplicables.
 
 ### II. PROCEDIMIENTOS DE PAGO
 
