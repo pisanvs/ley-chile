@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.412 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº42, superficie 64m2, rol en trámite, comuna de San Vicente, VI Región, para la obra ''Mejoramiento camino Ruta H-724, sector La Gruta - Pueblo de Indios, Km. 0,000 a Km. 1,187 y Sector Ruta H-730, km. 1,600 al km. 3,292'' y se acordó el valor de indemnización con su propietario Matías Antonio Fuentes Farías, ascendente a la cantidad de $894.040.-
+
+Fiscal del Ministerio de Obras Públicas.
