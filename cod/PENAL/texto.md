@@ -2124,17 +2124,21 @@ El que fabricare, vendiere o distribuyere armas absolutamente prohibidas por la 
 
 #### Artículo 289°
 
-El que de propósito y sin permiso de la autoridad competente propagare una enfermedad animal o una plaga vegetal, será penado con presidio menor en su grado medio o multa de seis a veinte sueldos vitales.
+El que de propósito y sin permiso de la autoridad competente propagare una enfermedad animal o una plaga vegetal, será penado con presidio menor en su grado medio a máximo.
 
-Si la propagación se produjere por negligencia inexcusable del tenedor o encargado de las especies animales o vegetales afectadas por la enfermedad o plaga o del funcionario a cargo del respectivo control sanitario, la pena será de presidio menor en su grado mínimo o multa de seis a diez sueldos vitales.
+Si la propagación se produjere por negligencia inexcusable del tenedor o encargado de las especies animales o vegetales afectadas por la enfermedad o plaga o del funcionario a cargo del respectivo control sanitario, la pena será de presidio menor en su grado mínimo a medio.
 
-#### Artículo 290°
+Si la enfermedad o plaga propagada fuere de aquellas declaradas susceptibles de causar grave daño a la economía nacional, se aplicará la pena asignada al delito correspondiente en su grado máximo.
 
-Los que, a sabiendas, infringieren las instrucciones de la autoridad competente destinadas a impedir la propagación de una enfermedad animal o de una plaga vegetal, serán penados con presidio menor en su grado mínimo o multa de seis a veinte sueldos vitales.
+El reglamento determinará las enfermedades y plagas a que se refiere el inciso anterior.
+
+#### Artículo 290
+
+Si la propagación de las enfermedades a que se refiere este párrafo se originare con motivo u ocasión de la introducción ilícita al país de animales o especies vegetales, la pena asignada al delito correspondiente podrá aumentarse en un grado.
 
 #### Artículo 291
 
-Si con motivo de la infracción de lo dispuesto en el precedente artículo, ha resultado la propagación del contagio, se impondrá a los culpables la pena de reclusión menor en su grado mínimo o multa de quinientos a mil pesos.
+Los que propagaren indebidamente organismos, productos, elementos o agentes químicos, virales, bacteriológicos, radiactivos, o de cualquier otro orden que por su naturaleza sean susceptibles de poner en peligro la salud animal o vegetal, o el abastecimiento de la población, serán penados con presidio menor en su grado máximo.
 
 ### X. De las asociaciones ilícitas
 
@@ -3112,7 +3116,9 @@ El robo en lugar no habitado, se castigará con presidio menor en sus grados med
 
 #### Artículo 443
 
-Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitios no destinados a la habitación si el autor hace uso de llaves falsas o verdaderas que se hubiere sustraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si utiliza medios de tracción
+Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitios no destinados a la habitación si el autor hace uso de llaves falsas o verdaderas que se hubiere sustraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si utiliza medios de tracción.
+
+Se sancionará igualmente con la pena del artículo anterior al que se apropiare de alambres de tendido eléctrico, cables de los servicios telefónicos, telegráficos, de radio comunicaciones o de televisión, o alambres de electricidad o comunicaciones de las empresas de ferrocarriles, escalando para ello las torres, pilares o postes en que los alambres o cables estén instalados, ya sea que se ingrese o no a los recintos cerrados o cercados donde se encuentren emplazadas dichas torres, pilares o postes o extrayéndolos en cualquiera forma de su lugar de instalación, sea que se trate de redes subterráneas, subacuáticas o aéreas, mediante el uso de alicates, cortafríos o, en general, cualquier otro instrumento o elemento idóneo para cortar alambres o cables.
 
 #### Artículo 444
 
