@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Linares para transferir gratuitamente al Cuerpo de Bomberos de dicha ciudad el inmueble que indica y cuyos deslindes señala.
