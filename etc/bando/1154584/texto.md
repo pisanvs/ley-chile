@@ -1,0 +1,11 @@
+Cumplimiento del Reglamento de Policía
+
+Por cuanto en el Reglamento de Policía mandado repetidas veces ejecutar i guardar en todas sus partes, se previene en los artículos 12 i 13 lo siguiente:
+
+Todo vecino dará noticia al alcalde de cualquier huésped, que nuevamente llegue a su casa, i que deba mantenerse allí mas de un dia: bajo la pena de dos pesos a los habitantes de cuarto, i seis a los de casa por cada omision. Los inquilinos sirvientes de los hacendados, que llegan de sus haciendas, no se entienden por huéspedes. El que admite en su casa un sirviente sin papel, en que el anterior amo, i en defecto de éste el alcalde de aquel barrio, espongan su conducta, es responsable a las deudas que haya contraido dicho sirviente con el amo anterior.
+
+Todo alcalde de barrio que no auxilie a su Inspector o Superintendente; todo vecino que no ocurra al llamado de su alcalde para una pronta precision, ronda, u otra medida extraordinaria de seguridad pública, será penado por la primera vez en 20 pesos; por la segunda, en destierro. Siendo los militares llamados a un mismo tiempo por sus jefes, i por la Policía, deberán concurrir a las órdenes de los primeros. Esta pension que se impone al vecindario es para casos ejecutivos, i extraordinarios. I los que no se hallaren solventes a las penas de este artículo, i el anterior, padecerán una reclusion, o prision equivalente.
+
+Por todo orden, i manda, se cumpla puntualmente lo prevenido en dicho artículo, bajo la pena que en ellos se imponen a los contraventores; i el Gobierno queda a la mira de su observancia protestando hacer sentir el peso de su indignacion a cuantas personas faltasen a lo mandado. Para que llegue a noticias de todos, publíquese por bando no solo en la plaza, i lugares acostumbrados sino tambien en las Prefecturas de la ciudad i suburbios; fíjese en los lugares públicos e imprímase.
+
+Dado en el Palacio de Gobierno de Santiago, a 27 de Agosto de 1813.-José Miguel Infante.-Francisco Antonio Pérez.-Mariano Egaña, secretario.
