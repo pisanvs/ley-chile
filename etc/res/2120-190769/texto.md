@@ -1,0 +1,11 @@
+Por resolución Nº 2.120, de 5 de octubre de 2001, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 642 de 2001, de esta Subsecretaría que autorizó al CENTRO DE ESTUDIOS Y DESARROLLO PESQUERO SUR AUSTRAL LIMITADA, RUT Nº 77.440.210-1, domiciliado en Edificio Petrohué, Benavente 555, oficina 204, Puerto Montt, para efectuar una pesca de investigación de conformidad con los Términos técnicos de referencia del proyecto denominado "Pesca de investigación para evaluar un sistema de ordenamiento y autorregulación en la pesquería demersal sur austral, en aguas interiores de la décima región, del recurso Merluza del sur, segunda etapa", en el sentido de señalar que la pesca de investigación se efectuará en el área de aguas interiores de la X Región, entre el 16 de abril y el 26 de diciembre de 2001, ambas fechas inclusive.
+
+Asimismo, modifícase el numeral 4º de la resolución Nº 642 de 2001, en el sentido de señalar que se autoriza para el período octubre-diciembre un límite máximo de captura ascendente a 1448,25 toneladas de Merluza del sur, las cuales se fraccionarán y serán extraídas en las siguientes zonas y períodos.
+
+Zona 1 Hualaihue: comprende las áreas de operación de las caletas Isla Los Toros, Puerto Bonito, El Manzano, Tentelhue, Rolecha, Contao, Hualaihue y Quiacas: 241,5 toneladas entre el 20 y el 24 de octubre, 210 toneladas entre el 27 de noviembre y el 1 de diciembre y 272,65 toneladas entre el 17 y 21 de diciembre.
+
+Zona 2 A Puerto Montt: comprende las áreas de operación de las caletas de Chaicas, Isla Maillen, Anahuac, Pichipelluco, Isla Los Toros e Isla Queullín: 120,75 toneladas entre el 25 y el 27 de octubre, 105 toneladas entre el 16 y el 18 de noviembre y 136,3 toneladas entre el 22 y el 23 de diciembre.
+
+Zona 2 B Calbuco: comprende las áreas de operación de las caletas de San Agustín, Isla Tabón, Isla Queullín, Isla Huar y Calbuco: 120,75 toneladas entre el 28 y el 30 de octubre, 105 toneladas entre el 19 y el 21 de noviembre y 136,3 toneladas entre el 24 y el 26 de diciembre.
+
+Valparaíso, 5 de octubre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
