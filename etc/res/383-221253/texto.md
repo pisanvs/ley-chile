@@ -1,0 +1,3 @@
+Por resolución Nº 383, de 10 de febrero de 2004, de esta Subsecretaría, recházase reconsideración formulada por GRANJA MARINA CHAUQUEAR LIMITADA, contra resolución Nº 2.443 de 2002, de esta Subsecretaría, que remitió a la Subsecretaría de Marina la solicitud de concesión de acuicultura para un centro de cultivo ubicado en estero Machildad, Sector Norte de Punta Máchil, X Región.
+
+Valparaíso, 10 de febrero de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
