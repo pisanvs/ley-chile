@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.207, de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a IVAN ALEJANDRO BELLIAZZI BARRIENTOS, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Prolongación Calle Arica Poste Nº34, sector Las Mulatas, Valdivia, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado, Congelado, Seco Salado, Ahumado, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
