@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD PESQUERA INDO S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución Nº 175, de 6 de Mayo de 1980, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera Indo S. A. para ampliar sus actividades pesqueras, autorizadas por decreto Nº 510, de 1965, del Ministerio de Agricultura, facultándola para operar tres embarcaciones con los siguientes nombres y números de matrícula: Eperva 40 - Nº 1980 - Eperva 41 - Nº 1981, e Isluga - matrícula en trámite, en el litoral comprendido entre la Línea de la Concordia y el Puerto de Antofagasta, teniendo como puerto base Iquique. Con dichas embarcaciones podrá capturar un volumen máximo de 96.000 tons./año, de los siguientes recursos: Anchoveta, Sardina Española, Jurel, Caballa y Roncacho.-
+
+Roberto Verdugo Gormaz, Subsecretario de Pesca.
