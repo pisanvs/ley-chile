@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.313, de 29 de octubre de 1999, se dejó sin efecto la expropiación del lote Nº 4-C, que figura a nombre de Héctor Manuel Castro Contreras, rol de avalúo Nº 160-111, comuna de Pemuco, superficie 378 m2, para la obra Proyecto Laja-Diguillín, Area de Riego Pemuco, canal San Miguel Pal Pal Bajo Ramal Nº 2, aprobada por el decreto MOP Nº 152, de fecha 18 de febrero de 1998.-
+
+Fiscal del Ministerio de Obras Públicas.
