@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 49, de 26 de febrero de 1992, se expropió el lote, No. 18, rol de avalúo 451-4, Comuna de Chimbarongo, superficie 53 m2., para la obra Camino Longitudinal Sur, sector San Fernando-Chimbarongo, Acceso San Juan de la Sierra y se acordó el precio de indemnización con su propietaria doña María Eliana Palacios Fitz-Henry, ascendente a la cantidad de $ 183.498.-
+
+Fiscal del Ministerio de Obras Públicas.
