@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 219, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 5, superficie 419,88 m², Rol Nº208-192, comuna de Curacautín, IX Región, para la obra "Puente el Colorado Camino Curacautín-Conguillío Km. 21,669015 al 22,059365" y se acordó el valor de indemnización con su propietaria Ana María Vallejos Garrido ascendente a la cantidad de $1.358.701.-
+
+Fiscal del Ministerio de Obras Públicas.
