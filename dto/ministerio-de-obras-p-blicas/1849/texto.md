@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.849, de 30 de septiembre de 1998, se expropiaron los lotes de terreno Nº s 26 y 28, superficies 164 m² y 368 m², roles de avalúos 450-7 y 450-8, comuna de Concepción, obra Mejoramiento Autopista Concepción Talcahuano, sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con sus propietarios Sucesión Carlos Herrera y otra y Herminda del C. Mendoza y otra, ascendente a las cantidades de $ 24.401.280 y $ 48.587.370.-
+
+Fiscal del Ministerio de Obras Públicas.
