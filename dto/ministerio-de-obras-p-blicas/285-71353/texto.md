@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 285, de 31 de marzo de 1997, se expropiaron los lotes de terrenos Nºs 8 y 9, superficies 2.454 m2. y 4.048 m2., rol de avalúo 1044-7, comuna de La Serena, obra Camino Ruta 5-Islon-Las Rojas, sector Islon Altovalsol y se acordó precio de indemnización con sus propietaria Sociedad Agrícola Bakulic e Hijos Ltda., ascendente a la cantidad de $5.528.358.
+
+Fiscal del Ministerio de Obras Públicas.
