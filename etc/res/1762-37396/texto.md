@@ -1,0 +1,5 @@
+Por Resolución N° 1.762, de 14 de octubre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SAN JOSE S.A., para ampliar las actividades pesqueras extractivas autorizadas por Resolución N° 1.318, de 1996, de esta Subsecretaría, en orden a operar la nave "Ventisquero", individualizada en la Resolución citada precedentemente, en el litoral de la I a III Regiones, por fuera del área de reserva artesanal y litoral de las IV, V, VI, VII, IX y X Regiones, por fuera de la línea imaginaria trazada a una distancia de 60 millas marinas, medidas desde las líneas de base normales, donde podrá extraer con arrastre de media agua, el recurso hidrobiológico Jurel y su fauna acompañante.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de octubre de 1996.- Juan Manuel Cruz Zamora, Subsecretario de Pesca.
