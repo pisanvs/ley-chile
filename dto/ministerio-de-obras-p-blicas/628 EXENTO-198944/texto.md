@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 628 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 95, superficie 29 m2, Sin Rol, comuna de Alto del Carmen, para la obra ''Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al 70,000, Etapa III'', y se acordó el valor de indemnización con su propietario Jorge Díaz Gajardo, ascendente a la cantidad de $283.657.
+
+Fiscal del Ministerio de Obras Públicas.
