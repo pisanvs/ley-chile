@@ -1,0 +1,3 @@
+Por resolución Nº 717, de 10 de abril de 2002, de esta Subsecretaría, autorízase a ALFREDO EDUARDO ROJAS VEGA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Camino al Vertedero Nº 100, La Herradura, Coquimbo, IV Región, donde podrá procesar en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Alga seca: Huiro, Huiro negro, Palo, Chasca y Pelillo; Harina, Deshidratado: Desechos de: Camarón nailon, Langostino amarillo y Langostino colorado.
+
+Valparaíso, 10 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
