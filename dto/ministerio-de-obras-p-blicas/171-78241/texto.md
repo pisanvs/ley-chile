@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº171, de fecha 16 de junio de 1992, se expropiaron los lotes de terreno Nºs. 17, 18, 20 y 22, superficies 635 M2., superficies 635 M2. 480 M2., 360 M2. y 2.700 M2., respectivamente, roles de avalúos 32-9, 32-8 y 32-7, Comuna Olivar, para la obra Camino Olivar Coínco y se acordó el valor de indemnización con su propietaria Sociedad Agrícola La Capilla Limitada, ascendente a la cantidad de $ 5.170.040.
+
+Fiscal del Ministerio de Obras Públicas.
