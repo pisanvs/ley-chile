@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 940, de fecha 29 de junio de 2001, se expropió el lote de terreno Nº 90, superficie 153 m², rol de avalúo 179-53, comuna de Yerbas Buenas, para la obra "Camino Ruta L-31, Sector Polvorines - La Floresta. Tramo Km. 0,00000 al 15,48000" y se acordó el valor de indemnización con su propietario Salvador Antonio Ibáñez Matamala, ascendente a la cantidad de $486.458.-
+
+Fiscal del Ministerio de Obras Públicas.
