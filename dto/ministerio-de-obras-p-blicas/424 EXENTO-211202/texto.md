@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº424 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº99, superficie 32 m2, Rol Nº596-50, comuna de Santa Cruz, VI Región, para la obra "Camino Santa Cruz - Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939 y se acordó el valor de indemnización con su propietario Sergio Omar Hidalgo Saavedra y otros, ascendente a la cantidad de $291.286.
+
+Fiscal del Ministerio de Obras Públicas.
