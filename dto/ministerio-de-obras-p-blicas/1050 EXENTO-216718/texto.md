@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.050 de fecha 29 de septiembre de 2003, se expropió el lote de terreno Nº40-A, superficie 31 m², Rol Nº511-30, comuna de Longaví, VII Región para la obra: "Camino Ruta L-49, Cruce Long.-Mesamávida, Sector Cruce Longitudinal-San Luis, Tramo Km. 0,000.00 a Km. 13,841.12" y se acordó el valor de indemnización con su propietario Hilda del Carmen Yáñez Vergara, ascendente a la cantidad de $283.050.
+
+Fiscal del Ministerio de Obras Públicas.
