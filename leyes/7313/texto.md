@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Loncoche contratar empréstito hasta por $ 700,000, a fin de atender a la construcción del Teatro y del Mercado, mejoramiento de la plaza central, ensanche del Matadero, etc.; establece para el servicio del empréstito, una contribución adicional de 1% sobre los bienes raíces de la comuna.
