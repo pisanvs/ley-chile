@@ -1,0 +1,5 @@
+AUTORIZA A DON OSVALDO CUBILLOS CANALES PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.220, de 09 de Noviembre de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Osvaldo Cubillos Canales, R.U.T. No. 4.917.364-4, domiciliado en calle Raúl Cisternas No. 8662, Población General Bonilla, Antofagasta, para desarrollar actividades pesqueras, en orden a operar la embarcación "Boca Maule", en el litoral de las Regiones I a IV, donde podrá extraer los siguientes recursos hidrobialógicos: Bonito, cojinoba, dorado, anchoveta, jurel, caballa y sardina española. Con todo, no podrá extraer los cuatro últimos recursos en la I y II Región. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Noviembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
