@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 469 de 28 de Abril de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "San Ignacio" o "Hijuela Tercera y Cuarta San Ignacio" de la Comuna de Quilicura, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 - 1A a la 14 -14A, sitios N°s. 1 al 14, Reserva Cora No. 1 del Proyecto de Parcelación "San Ignacio" formado por predios señalados. Los Derechos do Agua se extraer del canal El Carmen, derivado del Río Maipo. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
