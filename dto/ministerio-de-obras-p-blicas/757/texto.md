@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 757, de 14 de agosto de 1997, se expropiaron los lotes de terreno Nºs. 7, 40 y 45, superficies 1.077, 1.811 y 446 M2., respectivamente, roles de avalúos 4590-94, 2590-85 y 2590-106, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Las Acacias - Río Maipo y se acordó precio de indemnización con sus propietarios Sociedad Montaje Industrial Socopel Limitada, María Hilda Peña Cabezas y Nora Catalina Schuster Hochhausler, ascendentes a las cantidades de $104.335.504, para el lote Nº 7; $229.793.635, para el lote Nº 40 y $16.962.674, para el lote Nº 45.-
+
+Fiscal del Ministerio de Obras Públicas.
