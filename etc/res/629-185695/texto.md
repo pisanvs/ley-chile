@@ -1,0 +1,3 @@
+Por resolución Nº 629 de 12 de abril de 2001 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Las Guaneras, II Región, individualizada en el artículo 1º) Nº 5 del D.S. Nº 163 de 1998 del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS Y RAMOS AFINES.
+
+Valparaíso, 12 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
