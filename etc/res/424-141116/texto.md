@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA VERDEMAR LIMITADA PARA AMPLIAR ACTIVIDADES. DECLARA CADUCIDAD DE RESOLUCION QUE INDICA
+
+Por resolución No. 424, de 26 de Abril de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase que la autorización para realizar actividades otorgada a Pesquera Lenga Ltda. mediante resolución No. 61, de 1986, de esta Subsecretaría, debe entenderse concedida a Pesquera Verdemar Limitada, por cambio razón social. Se autoriza a Pesquera Verdemar Limitada, domiciliada en Talcahuano, para ampliar las actividades pesqueras autorizadas por la resolución No. 61, de 1986, de esta Subsecretaría, en orden a incluir en la planta industrial en la VIII Región, ubicada en calle Pedro Montt No. 405, Talcahuano, y autorizada por la resolución citada, en las líneas de elaboración de conservas y congelado, además de los recursos hidrobiológicos autorizados la Merluza de cola. Declárase la caducidad de la resolución No. 1492, de 1987, de esta Subsecretaría, conforme a lo dispuesto en el artículo 6° del Decreto Supremo No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de Abril de 1988.- Roberto Cabezas Bello Subsecretario de Pesca.
