@@ -1,0 +1,3 @@
+Por decreto MOP Nº589, de 29 de febrero de 2000, se expropió el lote de terreno Nº1, superficie 15.131 m2, rol de avalúo 7087-8, comuna de La Pintana, obra Agua Potable de Santiago, Estudio de Planificación Ampliación Sistema Cerro Negro, incluyendo Zona de Expansión de Nos y se acordó precio de indemnización con su propietaria Ilustre Municipalidad de La Pintana, ascendente a $179.855.222.-
+
+Fiscal del Ministerio de Obras Públicas.
