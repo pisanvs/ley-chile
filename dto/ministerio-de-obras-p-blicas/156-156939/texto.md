@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 156, de 4 de Junio de 1985, se expropió el lote de terreno No. 12, para Prolongación Línea No. 2 del Metro, sector Mapocho con Avda. Manuel Rodríguez, que figura a nombre de don Enrique Venturino Soto, hoy Sociedad Enrique Venturino Soto y Compañía Limitada, rol de avalúo 284-7, superficie 175,50 m2., Comuna de Santiago. La Comisión de Peritos compuesta por los señores Jorge Cavagnaro, Sergio Jiménez y Ricardo Carvallo, fijó con fecha Julio de 1984, el valor provisional de la indemnización en la cantidad de $ 1.834.100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
