@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 189, de 27 de febrero de 1998, se expropió el lote de terreno Nº60-A, superficie 37 m2, rol de avalúo en trámite, comuna de Quinta de Tilcoco, para la obra Camino Quinta de Tilcoco - Cruce Ruta 66, sector La Estacada, sector El Huapi y se acordó precio de la indemnización con su propietario, Daniel Sánchez Chavarría, ascendente a la cantidad de $372.849.-
+
+Fiscal del Ministerio de Obras Públicas.
