@@ -1,0 +1,1 @@
+Concede franquicias aduaneras a la internación de equipos, máquinas y maquinarias nuevas siempre que ellas no se fabriquen en el país, destinadas a empresas nacionales que se dediquen exclusivamente a la producción de artículos de exportación.
