@@ -1760,7 +1760,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 3.276 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 2.448 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 3.779 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 2.824 pesos.
 
 #### Artículo 199
 
@@ -1900,13 +1900,13 @@ Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados inte
 
 #### Artículo 219
 
-Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema; quince para la Corte de Apelaciones de Santiago; ocho para la Corte de Apelaciones de Valparaíso; siete para las Cortes de Apelaciones de San Miguel y de Concepción; cinco para las Cortes de Apelaciones de Talca, Temuco y Valdivia; y tres para cada una de las demás Cortes, previa formación por la Corte Suprema, de las respectivas ternas.
+Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema; quince para la Corte de Apelaciones de Santiago; nueve para las Cortes de Apelaciones de Valparaíso, San Miguel y Concepción; cinco para las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia; y tres para cada una de las demás Cortes, previa formación por la Corte Suprema, de las respectivas ternas.
 
 La designación de abogados integrantes de las Cortes de Apelaciones se hará en el mes de enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de enero, en que comienza el trienio respectivo.
 
 Las ternas para abogados integrantes de las Cortes de Apelaciones serán formadas tomando los nombres de una lista que, en el mes de diciembre de cada año, enviarán a la Corte Suprema las respectivas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
 
-Estas listas se compondrán, para Santiago, de setenta y cinco nombres; para Valparaíso, de cuarenta; para San Miguel y Concepción, de treinta y cinco; para Talca, Temuco y Valdivia, de veinticinco; y de quince para las demás Cortes.
+Estas listas se compondrán, para Santiago, de setenta y cinco nombres; para Valparaíso, San Miguel y Concepción, de cuarenta y cinco nombres; para Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia, de veinticinco, y de quince para las demás Cortes.
 
 Las ternas para abogados integrantes de la Corte Suprema serán formadas tomando los nombres de una lista que, en el mes diciembre en que termina el trienio respectivo, formará la misma Corte. En esta lista deberán figurar cuarenta y cinco abogados, con residencia en la ciudad de Santiago, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
 
@@ -4260,7 +4260,7 @@ La Corporación Administrativa del Poder Judicial
 
 #### Artículo 506
 
-La administración de los recursos financieros, tecnológicos y materiales destinados al funcionamiento de la Corte Suprema, de las Cortes de Apelaciones y de los Juzgados de Letras, de Menores y del Trabajo, la ejercerá la Corte Suprema a través de un organismo denominado Corporación Administrativa del Poder Judicial, con personalidad jurídica, que dependerá exclusivamente de la misma Corte y tendrá su domicilio en la ciudad en que ésta funcione.
+La administración de los recursos humanos, financieros, tecnológicos y materiales destinados al funcionamiento de la Corte Suprema, de las Cortes de Apelaciones y de los Juzgados de Letras, de Menores y del Trabajo, la ejercerá la Corte Suprema a través de un organismo denominado Corporación Administrativa del Poder Judicial, con personalidad jurídica, que dependerá exclusivamente de la misma Corte y tendrá su domicilio en la ciudad en que ésta funcione.
 
 La referida Corporación se regirá por las disposiciones de este Título y por los autos acordados que al efecto dicte la Corte Suprema, dentro de sus atribuciones, y le serán también aplicables las normas sobre administración financiera del Estado.
 
@@ -4278,6 +4278,10 @@ En los inmuebles de propiedad particular que se arrienden para que en ellos func
 
 5° La creación, implementación y mantención de salas cunas en aquellos lugares en que sean necesarias en conformidad a la ley, para los hijos del personal del Poder Judicial.
 
+6° Asesorar técnicamente y formular proposiciones a la Corte Suprema en materias de personal e indicadores de gestión y ejecutar la administración de los recursos humanos del Poder Judicial conforme a las directrices que ésta le imparta.
+
+7° Remitir, previa autorización del Consejo Superior, los informes y estudios que haya elaborado o encargado a terceros y obren en su poder a los Ministerios de Justicia y Hacienda y a los órganos y autoridades del Estado, cuando los soliciten para materias relacionadas con su competencia.
+
 Podrá, asimismo, destinar los fondos que sean necesarios, de sus recursos propios, para solventar los gastos de atención y locomoción de los hijos de dicho personal judicial, en salas cunas externas, que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
 
 La Corporación Administrativa del Poder Judicial podrá poner a disposición de los tribunales las sumas necesarias para el cumplimiento de los fines previstos en este artículo, los cuales deberán rendir, ante ella, cuenta detallada de la inversión de estos fondos. Dicho organismo llevará una cuenta en conformidad a lo establecido en el artículo 516.
@@ -4286,7 +4290,7 @@ La Corporación Administrativa del Poder Judicial estará exenta de toda clase d
 
 #### Artículo 507
 
-La Corporación Administrativa del Poder Judicial tendrá un Consejo Superior, un director, un subdirector, un jefe de finanzas y presupuestos, un jefe de adquisiciones y mantenimiento, un jefe de informática y computación, y un contralor interno. Su estructura orgánica funcional básica estará constituida por un Departamento de Finanzas y Presupuestos, un Departamento de Adquisiciones y Mantenimiento, un Departamento de Informática y Computación, y una Contraloría Interna.
+La Corporación Administrativa del Poder Judicial tendrá un Consejo Superior, un director, un subdirector, un jefe de finanzas y presupuestos, un jefe de adquisiciones y mantenimiento, un jefe de informática y computación, un jefe de recursos humanos y un contralor interno. Su estructura orgánica funcional básica estará constituida por un departamento de finanzas y presupuestos, un departamento de adquisiciones y mantenimiento, un departamento de informática y computación, un departamento de recursos humanos y una contraloría interna.
 
 #### Artículo 508
 
@@ -4316,7 +4320,7 @@ Compete al director impartir instrucciones al subdirector y demás personal de l
 
 #### Artículo 511
 
-Sin perjuicio de las obligaciones que les asigne el Consejo Superior o el director con el acuerdo de dicho Consejo, los jefes de finanzas y presupuestos, de adquisiciones y mantenimiento y de informática y computación, serán directamente responsables del funcionamiento de los respectivos departamentos; el subdirector, de la administración interna de la Corporación y de la coordinación de las diferentes unidades; y el contralor interno, de la auditoría financiera y operativa de las mismas. Estos dos últimos empleados informarán de su gestión directamente al director.
+Sin perjuicio de las obligaciones que les asigne el Consejo Superior o el director con el acuerdo de dicho Consejo, los jefes de finanzas y presupuestos, de adquisiciones y mantenimiento, de informática y computación y de recursos humanos serán directamente responsables del funcionamiento de los respectivos departamentos; el subdirector, de la administración interna de la Corporación y de la coordinación de las diferentes unidades; y el contralor interno, de la auditoría financiera y operativa de las mismas. Estos dos últimos empleados informarán de su gestión directamente al director.
 
 #### Artículo 512
 
