@@ -1,0 +1,27 @@
+DECRETO-LEY N.o 11
+
+(Se tomó razón de él por la Contraloría General; pero no ha sido publicado en el "Diario Oficial").
+
+Declara Banco del Estado el Banco Central de Chile Núm. 11.- Santiago, junio 8 de 1932.- Considerando indispensable para la República Socialista de Chile, la Junta de Gobierno
+
+Decreta:
+
+#### Artículo 1º
+
+<!-- parte:9034975 -->
+
+Declárase Banco del Estado el Banco Central de Chile.
+
+#### Artículo 2º
+
+<!-- parte:9034976 -->
+
+Las acciones clases B, C, y D, expresadas en el artículo 2.o del decreto-ley N.o 486, de 21 de agosto de 1925, se rescatarán por su valor nominal.
+
+#### Artículo 3º
+
+<!-- parte:9034977 -->
+
+Desde la vigencia de este decreto se suprime el Director indicado en el Título III del decreto-ley antes citado, y el Gobierno dispondrá lo conveniente para la Administración del Banco Central de Chile.
+
+Tómese razón, comuníquese, publíquese e insértese en el Boletín de Leyes y Decretos del Gobierno.- ARTURO PUGA.- Carlos Dávila.- Eugenio Matte H.- A. Lagarrigue.
