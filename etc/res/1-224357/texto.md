@@ -1,0 +1,43 @@
+PRORROGA VIGENCIA DE CONTRATO DE CONCESION PARA OPERAR PLANTAS DE REVISION TECNICA, EN REGION METROPOLITANA, DE CONCESIONARIO QUE INDICA
+
+Núm. 1.- Santiago, 1 de abril de 2004.- Visto: Lo dispuesto en los artículos 1º, incisos 4 y 5; 6 y 19º Nºs 1, 7, 8, 21 y 24 de la Constitución Política de la República de Chile; el artículo 3º del DFL. Nº 1/2001 que fijó el texto refundido, coordinado y sistematizado de la ley 18.575; el artículo 4º de la ley Nº 18.696; el artículo 94º de la ley Nº 18.290, lo dispuesto en el D.S. Nº 156/90 y en las resoluciones Nº 154/97 y 242/97, ambas del Ministerio de Transportes y Telecomunicaciones, que aprobaron las Bases Técnicas y Administrativas para la licitación pública de una concesión para operar establecimientos que practiquen Revisiones Técnicas de vehículos en la Región Metropolitana y las Modificaciones de las mismas, lo previsto en la resolución Nº 2 de 23 de enero de 2003, que aprueba Bases de Licitación para otorgar concesiones para operar establecimientos que practiquen revisiones técnicas; la resolución Nº 89/2003, modificatoria de las referidas Bases, la resolución exenta Nº 740, de 4 de julio de 2003, modificada por la resolución Nº 92, de 28 de octubre de 2003, que llama a licitación para otorgar concesiones para operar establecimientos que practiquen revisiones técnicas en la Región Metropolitana, todas del citado Ministerio; la resolución Nº 520, de 1996, de la Contraloría General de la República, que fijó el texto refundido, coordinado y sistematizado de la resolución Nº 55, de 1992, de ese mismo órgano Contralor; la resolución exenta Nº 490/98 que adjudicó la concesión y aprobó el contrato de concesión para operar plantas revisoras en la Región Metropolitana, celebrado con la Sociedad Touring Club Limitada, con fecha 28 de enero de 1998, cuya actual razón social es Touring Club-Tüv Rheinland Limitada; y la resolución exenta Nº 224/2003, que prorrogó dicha concesión hasta el 17 de abril de 2004, todas de esta Secretaría Regional Ministerial; la convención de prórroga, de fecha 29 de marzo de 2004, suscrita por el referido concesionario, y el informe técnico de la Unidad de Operaciones de esta misma Secretaría Regional, de fecha 22 de marzo de 2004.
+
+Considerando:
+
+1º Que corresponde al Estado, a través del Ministerio de Transportes y Telecomunicaciones, regular y asegurar el correcto y continuo funcionamiento de los servicios públicos concesionados por su intermedio, tal como es el caso de los establecimientos que practican revisiones técnicas y verificación de emisiones contaminantes a los vehículos motorizados en la Región Metropolitana. Para tal efecto, y mediante la resolución exenta Nº 740/2003 citada en el Visto, se ha llamado a Licitación Pública para otorgar concesiones que operen plantas revisoras en la aludida región, proceso que se encuentra ya en la etapa previa de apertura de las ofertas técnicas y económicas.
+
+2º Que, de producirse transitoriamente en la Región Metropolitana un período de merma notoria de los servicios que prestan estos establecimientos, una buena parte de los vehículos motorizados podrían verse impedidos de circular en las vías públicas por no cumplir con el requisito establecido en el artículo 94º de la ley Nº 18.290, lo que afectaría el normal desarrollo de las actividades en la región.
+
+3º Que, conforme a lo concluido por estudios de esta Secretaría Regional, en caso de no verificarse la prórroga de los establecimientos referidos, la reducción de la oferta de los servicios que éstos prestan afectaría ostensiblemente su demanda, afectando gravemente las condiciones de vida de los habitantes de la Región Metropolitana.
+
+En efecto, de acuerdo al informe técnico elaborado por la Unidad de Operaciones de esta Secretaría Regional Ministerial, citado en el Visto, la oferta de estos servicios para plantas tipo B, se reduciría al menos en un 28% y respecto de plantas tipo A2, en un 22%.
+
+4º Que, la Constitución Política del Estado establece como deber y fin del Estado el promover el bien común, para lo cual debe atender las necesidades públicas en forma continua y permanente, necesidad que en este caso satisfacen las plantas revisoras entregadas en concesión, toda vez que otorgan una certificación técnica a los propietarios de los vehículos motorizados que, por una parte, les permite a éstos circular por las vías públicas ejerciendo consecuentemente todos los atributos del dominio y, por la otra, satisfacer el interés público existente en la mantención de niveles aceptables de seguridad en la circulación vial y en la protección del medio ambiente.
+
+5º Que, además resulta necesario coordinar la fecha de término del contrato de concesión para operar establecimientos de revisión técnica y verificación de emisión de contaminantes, que se indica en la parte resolutiva del presente acto administrativo, con aquella en que se estima en que comenzarán a operar con plenitud los nuevos establecimientos revisores, en virtud del nuevo proceso de licitación aludido en el Visto y en el considerando primero, procurando de este modo dar continuidad al servicio que prestan los establecimientos revisores.
+
+6º Que, en mérito de lo anterior, esta autoridad regional se ve en la necesidad de prorrogar extraordinariamente la vigencia de la concesión del servicio público señalado y, en consecuencia, modificar la duración de la misma.
+
+7º Que, el concesionario en conocimiento de lo antes indicado ha manifestado su conformidad para continuar operando durante el período de prórroga, suscribiendo la convención de prórroga aludida en el Visto.
+
+Resuelvo:
+
+1º Prorrógase en forma extraordinaria la vigencia del contrato de concesión para operar establecimientos que practiquen revisiones técnicas y verificación de emisión de contaminantes en la Región Metropolitana, celebrado con la Sociedad Touring Club-Tüv Rheinland Limitada, de fecha 28 de enero de 1998, aprobado por resolución exenta Nº 490/98 y prorrogado por resolución exenta Nº 224/2003, ambas de la Secretaría Regional Ministerial Metropolitana de Transportes y Telecomunicaciones, por el plazo de 24 meses, a contar del 17 de abril de 2004, o hasta que la demanda del servicio de revisión técnica pueda ser adecuadamente satisfecha con la operación de todos o parte de los establecimientos que se concesionen en la Región Metropolitana, lo que será determinado por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, mediante resolución fundada; cualquiera de los dos hechos que ocurra primero.
+
+2º En virtud de esta prórroga, se mantienen vigentes las demás estipulaciones, derechos, obligaciones, procedimientos, así como las garantías que se contemplan en el contrato que se prorroga, según consta de la convención de prórroga que se acompaña y que forma parte integrante de la presente resolución.
+
+Anótese, tómese razón y publíquese.- Silvio Albarrán Albán, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
+
+CONTRALORIA GENERAL DE LA REPUBLICA
+
+División de la Vivienda y Urbanismo y
+
+Obras Públicas y Transportes
+
+Subdivisión Jurídica
+
+Cursa con alcance Resolución Nº 1, de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana Núm. 19.684.- Santiago, 21 de abril de 2004. La Contraloría General ha dado curso al documento señalado en el epígrafe, que prorroga en forma extraordinaria la vigencia del contrato de concesión para operar establecimientos que practiquen revisiones técnicas y verificación de emisión de contaminantes en la Región Metropolitana, en razón a la solución de continuidad del servicio de acuerdo a lo dispuesto en el artículo 4º de la ley Nº 18.696, y a sus efectos en la comunidad.
+
+Lo anterior es sin perjuicio de la responsabilidad administrativa que corresponda hacer efectiva por no haberse adoptado oportunamente las medidas tendientes a licitar nuevamente este servicio público, como lo dispone el decreto Nº 156, de 1990, del Ministerio de Transportes y Telecomunicaciones y el precepto legal antes mencionado, infringiéndose así los principios de eficiencia y eficacia consagrados en los artículos 3º y 53º de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL Nº 1 (19.653), de 2000, del Ministerio Secretaría General de la Presidencia.
+
+Transcríbase a la Subdivisión de Auditoría e Inspección.- Saluda atentamente a Ud., Noemí Rojas Llanos, Subcontralor General de la República. Al Señor Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, Presente.
