@@ -1,0 +1,3 @@
+Por decreto MOP Nº653, de 29 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 10 y 22, roles de avalúo 3198-174 y 3198-157, comuna de Chillán, obra Camino Ruta N-545, Chillán Tanilvoro, sector Chillán Universidad Adventista y se acordó precio de indemnización con sus propietarios que se indican en dicho decreto, ascendente a las cantidades de $91.344, lote 10 y $129.360, lote 22.
+
+Fiscal del Ministerio de Obras Públicas.
