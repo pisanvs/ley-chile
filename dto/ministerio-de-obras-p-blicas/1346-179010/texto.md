@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.346, de 17 de abril de 2000, modificado Por decreto MOP Nº3.644, de 28 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº25-A, para la obra ''Concesión Internacional Ruta 5. tramo: Santiago-Talca. Sector H: Km. 128.400,00-Km.
+
+140.850,00'', Sexta Región, que figura a nombre de Peñaloza Orellana Teresa Isabel, rol de avalúo 273-683, comuna de San Fernando, superficie 62,5 m². La Comisión de Peritos integrada por los señores Manuel Hernán Díaz Farfán, René Octavio Corvalán Correa y Orlando Antonio Fariña Vásquez, fijó con fecha 30 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $240.350.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
