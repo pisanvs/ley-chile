@@ -1,0 +1,3 @@
+Por Resolución No. 1.442, de 20 de Noviembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de la fecha de la presente Resolución, el plazo otorgado a don JULIO PADILLA JEREZ, R.U.T. No. 5.992.862-7 y don JUAN PADILLA PEREZ, R.U.T. No. 5.339.180-K, ambos domiciliados en Avda. Bernardo O'Higgins No. 01, Villa Esperanza de Curanilahue, en el numeral 4° de la Resolución No. 1.228, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Santiago, 20 de Noviembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
