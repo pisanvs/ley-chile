@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 136, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 12-A, superficie 447 m2, rol de avalúo 1226-16, comuna de Cabrero, para la obra "Camino Ruta O-60, Sector Monte Aguila - Yumbel, Km. 6,63900 al 17,53111" y se acordó el valor de indemnización con su propietario Víctor Marcelo Calbacho Méndez, ascendente a la cantidad de $620.954.-
+
+Fiscal del Ministerio de Obras Públicas.
