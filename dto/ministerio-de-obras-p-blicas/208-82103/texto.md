@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 208 de 06 de Septiembre de 1990, se expropiaron 10.5 lotes Nos. 56 y 57, 58, 59, 60, superficies 36.108 m2. y 15.700 m2. respectivamente, roles de avalúos 5004-297 y 5004-318; 5004-320; 5004-331; 5004-319, todos de la comuna de Coronel, para la ejecución de la obra Ampliación Ruta 160, camino Concepción - Coronel, Km. 2.386 al 19.500, y se acordó precio de indemnización con sus propietarios Sociedad Lavadora de Carbón y Sociedad Inmobiliaria Fortaleza Limitada, ascendente a las cantidades de $ 41.524.200.- y $ 18.840.000 respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
