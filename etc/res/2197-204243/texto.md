@@ -1,0 +1,3 @@
+Por resolución Nº 2.197, de 09 de octubre de 2002, de esta Subsecretaría, autorízase a Salmones Tecmar S.A. para continuar desarrollando las actividades de acuicultura auto-rizadas a Salmones Huillinco S.A. por resolución Nº 45 de 2002, en una piscicultura ubicada en Sector Palqui, Isla Quinchao, Comuna de Curaco de Vélez, Provincia de Chiloé, X Región.
+
+Valparaíso, 9 de octubre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
