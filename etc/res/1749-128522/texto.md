@@ -1,0 +1,7 @@
+Por resolución Nº 1.749 de 9 de diciembre de 1998 de esta Subsecretaría, autorízase a RENZO DANILO ARENAS GONZALEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Las Heras Nº 550, Población Fitz Roy, comuna de Punta Arenas, provincia de Magallanes, XII Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-Refrigerado: Erizo, Centolla, Centollón, Ostión del sur, Caracol piquilhue, Caracol trophon, Loco, Navaja de mar o Huepo, Almeja o taca, Almeja, Lapa; Congelado, Conserva: Erizo, Centolla, Centollón, Ostión del sur, Caracol piquilhue, Caracol trophon, Loco, Merluza de cola, Merluza del sur, Salmón plateado, Trucha arcoiris o Cabeza de acero, Congrio dorado, Salmón del Atlántico, Navaja de mar o Huepo, Almeja o taca, Almeja, Lapa, Piure, Krill, Cholga, Choro, Pulpo.
+
+Los recursos Salmón del Atlántico, Salmón plateado y Trucha arcoiris o Cabeza de acero, deberán provenir de centros de cultivos autorizados.
+
+Déjase sin efecto la resolución Nº 38, de 1997, de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 9 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
