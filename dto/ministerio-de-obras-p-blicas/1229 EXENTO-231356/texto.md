@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.229 de fecha 31 de agosto de 2004, se expropió el lote de terreno Nº 284, superficie 104 M2, rol Nº en trámite, comuna de Palmilla, VI Región, para la obra "Camino Colchagua-Pichidegua, Sector San Roberto-Cruceros, Tramo Km. 12,30000 a Km. 26,00400", y se acordó el valor de indemnización con su propietario Jorge Fernando Flores Sabaya, ascendente a la cantidad de $1.265.275.
+
+Fiscal del Ministerio de Obras Públicas.
