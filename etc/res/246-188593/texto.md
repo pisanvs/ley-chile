@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A SECURITIZADORA OF AMERICA S.A.
+
+Certifico: Que por resolución Nº 246 de fecha 8 de agosto de 2001 esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad "Securitizadora of America S.A.", según escritura pública de 26 de julio de 2001, otorgada en la Notaría de Santiago de don José Musalem Saffie, con oficio en calle Huérfanos Nº 770, tercer piso, de esta ciudad. Reforma consiste en: 1) Modificación de la razón social por ABN AMRO Securitizadora S.A., 2) Indicación que el capital social, ascendente a $759.857.803, dividido en 759.857.803 acciones ordinarias, nominativas, de una sola serie, sin valor nominal, de igual valor cada una, se encuentra íntegramente suscrito y pagado. 3) Eliminación del artículo 1º transitorio, derogación de los artículos 2º y 8º tansitorio y modificación del artículo 5º transitorio, de los estatutos sociales.
+
+Santiago, 8 de agosto de 2001.- Carmen Undurraga Martínez, Secretaria General.
