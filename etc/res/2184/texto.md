@@ -1,0 +1,3 @@
+Por resolución Nº 2.184, de 2 de octubre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101087 presentada por MARIA LORETO MONTES OJEDA, para instalar y operar el centro de cultivo ubicado en Lote A, Parcela Nº 10, ribera norte del río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 2 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
