@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.459 de fecha 31 de mayo del 2000, se expropió los lotes de terreno Nºs. 9, 18 y 19, superficie 3.854, 1.655 y 1.792 m² respectivamente, rol de avalúo 519-33 y 519-158, comuna de Carahue, para la obra ''Camino Costero Tirúa-Carahue, Tramo Tirúa-Bajo Yupehue, Km. 19.000,00 al Km. 23.413,36'' y se acordó el valor de indemnización con sus propietarios Pedro Enrique Sáez Díaz y Antonio Paillán Caniullán, ascendente a la cantidad de $754.875.- para el lote Nº9 y $8.648.041.- para los lotes Nºs. 18 y 19.
+
+Fiscal del Ministerio de Obras Públicas.
