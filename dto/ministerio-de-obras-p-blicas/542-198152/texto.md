@@ -1,0 +1,3 @@
+Por decreto MOP Nº542 de fecha 28 de marzo de 2002, se expropiaron los lotes de terreno Nº29 y 31, superficies 2.094 y 2.784 m², Rol de Avalúo Nº1418-237 y 1418-236, comuna de Rancagua, para la obra "Camino Ruta H-188, Sector Cruceros - Chancón, Tramo 1, Km. 0,00000 al Km. 7,85900", VI Región y se acordó el valor de indemnización con su propietario Alfonso de Jesús García-Huidobro Ortúzar, ascendente a la cantidad de $6.979.451.-
+
+Fiscal del Ministerio de Obras Públicas.
