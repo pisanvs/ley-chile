@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1.547 de fecha 28 de noviembre del 2003, se expropiaron los lotes de terreno Nº s 51 y 52, superficies 642,0 y 1.175,0 M2, rol Nº 512-385, comuna de Carahue, IX Región para la obra "Camino Ruta S-36, sector Tranapuente-Nehuentúe, tramo Km. 0,000 a Km. 9,997062, correspondiente al Subtramo II, Km. 4,235 a Km. 9,997062" y se acordó el valor de indemnización con su propietario José Joel Carrasco Soto, ascendente a la cantidad de $1.395.135.-
+
+Fiscal del Ministerio de Obras Públicas.
