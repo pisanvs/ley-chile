@@ -18,9 +18,11 @@ Día 19: Presidencia de la República, Poder Legislativo, Poder Judicial, Contra
 
 Incluye, además al Ministerio de Planificación y Cooperación y al Ministerio Secretaría General de la Presidencia de la República.
 
-D�a 21: Servicios dependientes del Ministerio de Defensa Nacional.
+Día 21: Servicios dependientes del Ministerio de Defensa Nacional.
 
-Día 22: Servicios dependientes de los Ministerios de Relaciones Exteriores, Economía, Fomento y Reconstrucción, de Justicia, de Bienes Nacionales y de Vivienda y Urbanismo
+Día 22: Servicios dependientes de los Ministerios de Relaciones Exteriores, Economía, Fomento y Reconstrucción, de Justicia, de Bienes Nacionales y de Vivienda y Urbanismo.
+
+Tratándose del personal de los Centros de Administración Directa del Servicio Nacional de Menores, dependiente del Ministerio de Justicia, el ajuste mensual se efectuará el último día hábil del respectivo mes.
 
 Día 23: Servicios dependientes de los Ministerios de Obras Públicas, Agricultura, del Trabajo y Previsión Social, de Minería y de Transportes y Telecomunicaciones.
 
