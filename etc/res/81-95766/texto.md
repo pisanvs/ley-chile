@@ -1,0 +1,3 @@
+Por resolución No. 81, de 27 de septiembre de 1974, de la Fiscalía del Ministerio de Obras Públicas, se ordenó pagar a la Corporación de Fomento, o a quien acredite derecho, como valor del lote único, superficie 43.140 m2., expropiado con motivo de la ejecución del Aeródromo Ayacara, Provincia de Palena, X Región, la cantidad de E° 56.082 que corresponde al avalúo fijado por la Comisión de Hombres Buenos respectiva, más E° 18.909 por reajuste. De acuerdo al Reglamento de Expropiaciones respectivo el plazo para reclamar Judicialmente del avalúo, es de 20 días contados desde la fecha de la segunda publicación que se hará en un periódico de la ciudad de Puerto Montt.
+
+Fiscal Ministerio de Obras públicas.
