@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.685, de 17 de junio de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Lenqui-Punta Santa Teresa, X Región, individualizada en el artículo 1º Nº 9 del decreto exento Nº 677 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES ASTIMAR, ASTILLEROS, COMUNA DE MAULLIN.
+
+Valparaíso, 17 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
