@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 560 de fecha 31 de marzo de 2004, se expropió el lote de terreno N° 2, superficie 1.000 m², rol N° 50-365, comuna de Lonquimay, para la obra "Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, sector: Acceso a Lonquimay, Km. 0,09742 al Km. 0,62000", IX Región y se acordó el valor de la indemnización con su propietario Fidel Muñoz Benítez, ascendente a la cantidad de $1.272.650.
+
+Fiscal del Ministerio de Obras Públicas.
