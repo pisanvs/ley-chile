@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.971, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº3, superficie 1.506 m², rol de avalúo 1545-129, comuna de Los Angeles, para la obra ''Camino Los Angeles-Santa Julia, Km. 1.6, Sector Puente Paillihue, Km. 0,10000 a Km. 0,41650'' y se acordó el valor de indemnización con su propietario Jaime Edmundo Toledo Jara, ascendente a la cantidad de $1.171.292.
+
+Fiscal del Ministerio de Obras Públicas.
