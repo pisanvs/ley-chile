@@ -1,0 +1,3 @@
+Por Resolución N° 964 de 20 de Octubre de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a la SUCESION BERNARDINO BAHAMONDE BAHAMONDE, R.U.T. N° 53.217.560-7, para continuar desarrollando, como sucesora legal, las actividades pesqueras autorizadas por esta Subsecretaría de Pesca a don Bernardino Bahamonde Bahamonde, por Resoluciones N° 54, de 1984 y N° 146, de 1986, ambas de esta Subsecretaría, en virtud de los documentos y disposiciones legales citadas en Visto.
+
+Valparaíso, 20 de Octubre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
