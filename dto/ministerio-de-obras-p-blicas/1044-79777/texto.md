@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 1.044, de 24 de octubre de 1997, se expropió el lote de terreno Nº 1, superficie 8.241 m2., rol de avalúo 1060-20, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Nudo Ruta 5 Sur - Catemito y se acordó precio de indemnización con su propietario Inmobiliaria Hasbún y Karmy Limitada, ascendente a la cantidad de $391.428.145.
+
+Fiscal del Ministerio de Obras Públicas.
