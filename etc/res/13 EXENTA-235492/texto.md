@@ -1,0 +1,5 @@
+ESTABLECE OBLIGACION DE LOS DONATARIOS A QUE SE REFIEREN LOS ARTÍCULOS 2º Y 3º DE LA LEY Nº19.885, DE EMITIR CERTIFICADO A LOS DONANTES QUE REALICEN DONACIONES PARA FINES SOCIALES
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº13 de 8 de febrero de 2005 que regula las especificaciones y formalidades que debe cumplir el certificado que deben emitir los donatarios a que se refieren los artículos 2º y 3º de la ley Nº19.885, para que sus donantes puedan acreditar las donaciones que les hubieren efectuado con fines sociales, según lo dispuesto en la parte final del Nº4, del artículo 1º, de la citada ley.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de febrero de 2005.
