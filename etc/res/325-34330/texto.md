@@ -1,0 +1,3 @@
+Por Resolución N° 325 de 29 de marzo de 1996, de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, del inmueble ubicado en calle Teniente Soto N° 300, presunto rol de avalúos N° 3212-14 comuna de San Joaquín, de aparente dominio de don Roberto Herrera Véliz. Comisión integrada por peritos Sra. Teresa Sancho Pernas y Sr. René Ureta Koster, arquitectos, y Sr. Marcos Cáceres Aravena, constructor civil, según informe de 31 de octubre de 1995 fijó monto provisional de indemnización en $7.206.000.- pagadera al contado.-
+
+Director, SERVIU Metropolitano.
