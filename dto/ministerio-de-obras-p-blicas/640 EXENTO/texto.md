@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 640, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 137, superficie 149 M2, rol de avalúo 205-85, comuna de Coelemu, VIII Región, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al 8,28000'' y se acordó el valor de indemnización con su propietaria doña Carmela Neira Arriagada, ascendente a la cantidad de $384.048.
+
+Fiscal del Ministerio de Obras Públicas.
