@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 182, 6 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 1963, Rol de Avalúo Nº 812-8 comuna Concepción, superficie 64,40 m². de terreno, dentro polígono y linderos señalados plano expropiación S8R-18353; de aparente dominio de Suc. Francisco Henríquez Lagos, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Jorge Eduardo Jerez Avello, arquitecto, Christian Walter Gäbler Solís, ingeniero civil, y Juan Pablo Cuevas Castillo, constructor civil, según informe de fecha 5 de marzo de 2004, fijó monto provisional indemnización en $11.785.200.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
