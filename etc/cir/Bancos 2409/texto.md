@@ -16090,9 +16090,11 @@ A continuación se describen los tipos de servicios que esta Superintendencia ha
 
 - Participación en sociedad de depósito de valores creada de conformidad con la Ley N° 18.876.
 
-- Recopilación y preevaluación de antecedentes de potenciales clientes de una institución financiera.
+- Recopilación y preevaluadón de antecedentes de potenciales clientes de una institución financiera.
 
-- Prestación de servíaos de personal a sus asociados y a las filiales de estos.
+- Prestación de servidos de personal a sus asodados y a las filiales de estos.
+
+- Servidos de interacción electrónica orientados a la realización de operaciones comerciales y financieras entre empresas.
 
 ANEXO N° 3
 
