@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 317, DE 2004
+
+Por resolución Nº 317, de 8 de noviembre de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región del Bío Bío, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº 304/2004, del mismo origen, para la instalación y operación de una Planta Revisora Clase AB, en la comuna de Concepción, una Planta Revisora Clase AB, en la comuna de Chillán, una Planta Revisora Clase AB, en la comuna de Los Angeles y una Planta Revisora Clase AB, en la comuna de Cañete, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región del Bío Bío y la concesionaria "Prestotec Limitada'', en la misma fecha indicada. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.-
+
+Dalton Campos Seguin, Secretario Regional Ministerial de Transportes y Telecomunicaciones, VIII Región del Bío Bío.
