@@ -1,0 +1,3 @@
+Por Resolución N° 467 de 1 de junio de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, del inmueble ubicado en Avda. Vicuña Mackenna Poniente N° 5726, presunto rol de avalúos N° 3-0004 comuna de La Florida, aparente dominio de doña Clemira Berríos Pérez. Comisión integrada por peritos Sres. Mario Vergara Navarrete, arquitecto, Raúl Varela Hernández, ingeniero civil y Carlos del Pedregal Sánchez, constructor civil, según informe de 8 de febrero de 1993, fijó monto provisional indemnización en $ 14.445.000.- pagadero al contado.-
+
+Directora Serviu Metropolitano.
