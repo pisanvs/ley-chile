@@ -1,0 +1,7 @@
+AUTORIZA A DON HERIBERTO MUÑOZ CONCHA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 208 de 01.03.88 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Heriberto Muñoz Concha, R.U.T. No. 6.489.185-5, domiciliado en calle Las Heras 2241, Concepción, para iniciar actividades pesqueras, en orden a operar en la planta industrial de Comercial Alesa S.A., autorizada por resolución No. 427, de 1985, de esta Subsecretaría, en donde procesará en las líneas de fresco, fresco - enfriado y congelado, los siguientes recursos: Sardina común, anchoa, jurel, sardina española, caballa, corvina, cojinoba, congrio negro, congrio dorado, raya, congrio colorado, merluza común, merluza del Sur, pejegallo, agujilla, pejerrey, tollo, chancharro, bacalao de J. Fernández, almeja, caracol trumulco, chorito, cholga, lapa, loco, macha, navajuela, picoroco, camarón nailon, langostino amarillo, langostino colorado, jaiba mora, jaiba peluda, jaiba reina, centolla, erizo y piure.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 01.03.88.- Roberto Cabezas Bello, Subsecretario de Pesca.
