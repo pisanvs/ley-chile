@@ -1,0 +1,3 @@
+Por resolución Nº 347, de 5 de marzo de 1997 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 93106029 presentada por SALMONES PACIFIC STAR LIMITADA, para un centro de cultivo ubicado en Punta Pichagua, comuna de Quellón, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 5 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
