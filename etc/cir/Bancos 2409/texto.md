@@ -13380,8 +13380,6 @@ ANEXO N° 10
 
 ANEXO N° 11
 
-INDICE DE CODIGOS DE TABLAS DE DESARROLLO DE LETRAS DE CREDITO
-
 .
 
 CAPITULO 9-6 (Bancos y Financieras)
@@ -19784,8 +19782,6 @@ d) Los trabajos especiales de que se trata podrán ser remunerados con cargo a e
 
 ANEXO N°1
 
-FIRMAS DE AUDITORES EXTERNOS DE BANCOS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
-
 Número de
 
 Inscripción * Nombre de la empresa.
@@ -19795,8 +19791,6 @@ Inscripción * Nombre de la empresa.
 005 DELOITTE & TOUCHE SOCIEDAD DE AUDITORES Y CONSULTORES LIMITADA.
 
 008 KPMG AUDITORES CONSULTORES LIMITADA.
-
-010 ERNST & YOUNG (CHILE) AUDITORES - CONSULTORES LIMITADA.
 
 014 GRANT THORNTON AUDITORES CONSULTORES LIMITADA.
 
@@ -19810,7 +19804,9 @@ Inscripción * Nombre de la empresa.
 
 023 ERNST & YOUNG SERVICIOS PROFESIONALES DE AUDITORIA Y ASESORIAS LIMITADA.
 
-Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos.
+025 LANDA CONSULTORES AUDITORES LIMITADA.
+
+* Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos.
 
 CAPITULO 20-1 (Bancos y Financieras)
 
