@@ -1,0 +1,3 @@
+Por decreto MOP Nº 582, de 30 de abril de 1998, se expropiaron los lotes de terreno Nº s 12, 13 y 14, superficies 100,50; 160,50 y 55 m2, roles de avalúo 1350-9, 1350-10 y 1350-16, comuna de Puerto Montt, obra Camino Mejoramiento Ruta 5 Sur Sector Acceso Sur a Pargua Urmeneta, Camino Panamericana Sur Rol 5, y se acordó precio de indemnización con su propietaria Inmobiliaria y Construcción Austral S.A., ascendente a la cantidad de $ 27.862.414.-
+
+Fiscal del Ministerio de Obras Públicas.
