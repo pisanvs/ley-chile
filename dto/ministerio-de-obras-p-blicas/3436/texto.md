@@ -1,0 +1,3 @@
+Por decreto MOP Nº3436, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nº2, 3-A, 3-B, 3-C y 3-D, superficies 186,6 m², 142.089,7 m², 2.772,1 m², 5.691,3 m² y 512,0 m², rol de avalúo 8-458, comuna de Colbún, obra Camino Ruta 115-Ch, sector Puente Armerillo-Límite Paso Pehuenche y se acordó precio de indemnización con su propietario Empresa Eléctrica Pehuenche S.A., ascendente a la cantidad de $2.004.362.366.
+
+Fiscal del Ministerio de Obras Públicas.
