@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.011, de 29 de abril de 1999, se expropió el lote de terreno No. 34, superficie 1.498,40 m2., Rol de avalúo 215-137, comuna de Teodoro Schmidt, obra Camino Costero Sur, Sector Tranapuente - Puerto Saavedra - Porma, Tramo Chelle - Hualpín - Puente Peule, y se acordó precio de indemnización con su propietaria Manuela Huircan Trengol, ascendente a la cantidad de $ 442.750.-
+
+Fiscal del Ministerio de Obras Públicas.
