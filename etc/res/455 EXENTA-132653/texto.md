@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 455 de 29 de Marzo de 1988, conforme Art. 5° Transitorio Código Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos y Reservas y Sectores Expropiados predios "La Calvina antes Santa Ursula de Nancagua", "Resto de la Hijuela Sur del Antiguo Fundo Pillán" y "El Cardal" de la comuna de Nancagua, VI Región y Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 34, sitios N°s. 1 al 20 y Reservas CORA N°s. 1 y 2 del Proyecto de Parcelación "La Calvina", formado por predios señalados y por predio "La Calvina". Los derechos de aguas se extraen del Canal La Calvina, derivado del Estero Puquillay; de las Tomas El Potrerillo y Los Toyos o El Cardal del Estero Puquillay; de los Canales El Carmen, Pillán y La Orilla del Estero Las Piedras y de la Toma El Peral del Estero Las Piedras. Publicación hecha conforme Art. 13 Ley No.
+
+18.377.-
+
+Director Ejecutivo.
