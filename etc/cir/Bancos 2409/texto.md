@@ -12668,127 +12668,61 @@ A. PRESTAMOS CONCEDIDOS EN LETRAS DE CREDITO CON AMORTIZACION DIRECTA.
 
 1.- Otorgamiento del préstamo.
 
-Debe: "Préstamos en letras de crédito con amortización directa" por el monto del
+Debe: "Préstamos en letras de crédito con amortización directa" por el monto del capital, cuenta que se reflejará en la partida 1310 del MB1, para vivienda y en la partida 1305, para fines generales.
 
-capital, cuenta que se reflejará en la partida 1310 del MB1, para vivienda y en
-
-la partida 1305, para fines generales.
-
-Haber: "Letras de crédito en circulación con amortización directa", de la
-
-partida 3310 del MB1 por el valor de las letras de crédito, más el importe de
-
-amortización contenido en el pagaré complementario en caso que proceda.
+Haber: "Letras de crédito en circulación con amortización directa", de la partida 3310 del MB1 por el valor de las letras de crédito, más el importe de amortización contenido en el pagaré complementario en caso que proceda.
 
 2 . - Reajustes de estas operaciones.
 
-Las instituciones financieras deberán ajustar, a lo menos el último día hábil de
-
-cada mes, las cuentas en que se registren estas operaciones, al valor que para
-
-esa fecha tenga la Unidad de Fomento o el IVP según corresponda. Dicho ajuste
-
-operará de la siguiente forma:
+Las instituciones financieras deberán ajustar, a lo menos el último día hábil de cada mes, las cuentas en que se registren estas operaciones, al valor que para esa fecha tenga la Unidad de Fomento o el IVP según corresponda. Dicho ajuste operará de la siguiente forma:
 
 2.1.- Por el activo.
 
-Debe: "Reajustes por cobrar de préstamos en letras de crédito", cuenta que se
-
-demostrará en la partida 1305 ó 1310 del MB1, según corresponda.
+Debe: "Reajustes por cobrar de préstamos en letras de crédito", cuenta que se demostrará en la partida 1305 ó 1310 del MB1, según corresponda.
 
 Haber: "Reajustes ganados", de la partida 7310 del MR1.
 
-Para efectos del calculo de este reajuste, sólo se tomarán en cuenta los
-
-créditos que estén al día en el pago de sus dividendos y aquéllos que presenten
-
-dividendos en mora de hasta 90 días. En consecuencia, no se reajustarán los
-
-créditos ingresados a cartera vencida. La adecuada identificación de estos
-
-créditos se logrará a través del fiel cumplimiento de las instrucciones
-
-contables que siguen.
+Para efectos del cálculo de este reajuste, sólo se tomarán en cuenta los créditos que estén al día en el pago de sus dividendos y aquellos que presenten dividendos en mora por menos de 90 días. En consecuencia, no se reajustarán los créditos que tengan dividendos en mora por 90 días o más.
 
 2.2.- Por el pasivo
 
 Debe: "Reajustes pagados" de la partida 5350 del MR1
 
-Haber: "Reajustes por pagar de obligaciones por letras de crédito", cuenta cuyo
+Haber: "Reajustes por pagar de obligaciones por letras de crédito", cuenta cuyo saldo se demostrará en la partida 3310 del MB1.
 
-saldo se demostrará en la partida 3310 del MB1.
-
-Debe tenerse presente que las cuentas de reajustes por cobrar y reajustes por
-
-pagar, aquí mencionadas, se entienden como cuentas complementarias de aquéllas
-
-que reflejan las colocaciones y obligaciones que dan origen a esos reajustes.
+Debe tenerse presente que las cuentas de reajustes por cobrar y reajustes por pagar, aquí mencionadas, se entienden como cuentas complementarias de aquéllas que reflejan las colocaciones y obligaciones que dan origen a esos reajustes.
 
 3 . - Constitución de dividendos.
 
-El primer día hábil de cada mes, se deberán contabilizar todos los dividendos
+El primer día hábil de cada mes, se deberán contabilizar todos los dividendos que vencerán en dicho mes, de la siguiente forma:
 
-que vencerán en dicho mes, de la siguiente forma:
+Debe: "Dividendos por cobrar", cuenta que se demostrará en la partida 1315 de igual nombre, del MB1.
 
-Debe: "Dividendos por cobrar", cuenta que se demostrará en la partida 1315 de
-
-igual nombre, del MB1.
-
-Haber: -"Préstamos en letras de crédito con amortización directa", por el monto
-
-de la amortización.
+Haber: -"Préstamos en letras de crédito con amortización directa", por el monto de la amortización.
 
 -"Intereses ganados" de la partida 7120 del MR1, por el monto de los intereses.
 
--"Comisiones hipotecarias" de la partida 7505 del MR1, por el monto de la
+-"Comisiones hipotecarias" de la partida 7505 del MR1, por el monto de la comisión.
 
-comisión.
-
-Como se señala en el numeral 11.2 de esta letra "A", no se contabilizará el
-
-devengo de intereses, comisiones Y reajustes por los dividendos que venzan a
-
-contar de la fecha en que el primero de ellos que se hubiera mantenido impago
-
-ingrese a cartera vencida.
+Como se señala en el numeral 11.2 de esta letra "A", no se contabilizará el devengo de intereses, comisiones Y reajustes por los dividendos que venzan a contar de la fecha en que el primero de ellos que se hubiera mantenido impago ingrese a cartera vencida.
 
 4.- Devengo de intereses de la letra.
 
-Junto con la constitución de los dividendos, se contabilizarán los intereses por
-
-pagar de los respectivos cupones de las letras, de la siguiente forma:
+Junto con la constitución de los dividendos, se contabilizarán los intereses por pagar de los respectivos cupones de las letras, de la siguiente forma:
 
 Debe: "Intereses pagados" de la partida 5150 del MR1.
 
 Haber: "Intereses por pagar en cupones por vencer", de la partida 3315 del MB1.
 
-Los importes que se registrarán en estas cuentas corresponderán al mismo monto
-
-de los intereses devengados en la constitución del dividendo, que se
-
-contabilizan en la cuenta de la partida 7120 del MR1. La suspensión del registro
-
-de devengo de intereses sobre el mutuo no exime de la obligación de que se
-
-continúen contabilizando los intereses mensuales devengados por la letra de
-
-crédito.
+Los importes que se registrarán en estas cuentas corresponderán al mismo monto de los intereses devengados en la constitución del dividendo, que se contabilizan en la cuenta de la partida 7120 del MR1. La suspensión del registro de devengo de intereses sobre el mutuo no exime de la obligación de que se continúen contabilizando los intereses mensuales devengados por la letra de crédito.
 
 5.- Constitución del fondo de amortización.
 
-Simultáneamente con los asientos indicados en los números 3 y 4 se deberá
+Simultáneamente con los asientos indicados en los números 3 y 4 se deberá registrar en el fondo de amortización el importe que por ese concepto esté incluido en el dividendo:
 
-registrar en el fondo de amortización el importe que por ese concepto esté
+Debe: "Amortización directa de letras de crédito por efectuar" de la partida 9420 del formulario MB1.
 
-incluido en el dividendo:
-
-Debe: "Amortización directa de letras de crédito por efectuar" de la partida
-
-9420 del formulario MB1.
-
-Haber: "Responsabilidad por amortización directa de letras de crédito por
-
-efectuar" de la partida 9900 del formulario MB1.
+Haber: "Responsabilidad por amortización directa de letras de crédito por efectuar" de la partida 9900 del formulario MB1.
 
 6.- Recepción del pago de dividendos.
 
@@ -12800,19 +12734,11 @@ Haber: "Dividendos por cobrar".
 
 Al vencimiento de cada cupón, se hará el siguiente asiento:
 
-Debe: -"Intereses por pagar en cupones por vencer", por el importe
+Debe: -"Intereses por pagar en cupones por vencer", por el importe correspondiente a los intereses.
 
-correspondiente a los intereses.
+-"Letras de crédito en circulación con amortización directa", por el importe de la amortización.
 
--"Letras de crédito en circulación con amortización directa", por el importe de
-
-la amortización.
-
-Haber: "Cupones vencidos por pagar" de la partida 3010 del MB1, que comprenderá,
-
-por lo tanto, la parte del capital por pagar, con la de sus respectivos
-
-intereses.
+Haber: "Cupones vencidos por pagar" de la partida 3010 del MB1, que comprenderá, por lo tanto, la parte del capital por pagar, con la de sus respectivos intereses.
 
 8.- Pago de cupones.
 
@@ -12822,15 +12748,11 @@ Haber: "Caja" o la cuenta que corresponda.
 
 9.- Amortización ordinaria de las letras de crédito.
 
-Simultáneamente con el asiento indicado en el N° 7, se deberá revertir el
-
-asiento que se señala en el N° 5 "Constitución del fondo de amortización".
+Simultáneamente con el asiento indicado en el N° 7, se deberá revertir el asiento que se señala en el N° 5 "Constitución del fondo de amortización".
 
 10.- Pago anticipado.
 
-En caso de que el deudor pague anticipadamente el todo o parte del saldo de su
-
-obligación se procederá de la siguiente forma:
+En caso de que el deudor pague anticipadamente el todo o parte del saldo de su obligación se procederá de la siguiente forma:
 
 10.1.- Pago en dinero.
 
@@ -12838,47 +12760,25 @@ obligación se procederá de la siguiente forma:
 
 Debe: - "Caja" o la cuenta que corresponda.
 
-Haber: - "Préstamos en letras de crédito con amortización directa" por el monto
+Haber: - "Préstamos en letras de crédito con amortización directa" por el monto de la amortización.
 
-de la amortización.
+- "Reajustes ganados", por los reajustes devengados a la fecha del pago y no contabilizados con anterioridad, en la partida 7310, del form. MR1.
 
-- "Reajustes ganados", por los reajustes devengados a la fecha del pago y no
-
-contabilizados con anterioridad, en la partida 7310, del form. MR1.
-
-- "Intereses ganados", de la partida 7120 del MR1 por los intereses que
-
-correspondan.
+- "Intereses ganados", de la partida 7120 del MR1 por los intereses que correspondan.
 
 - "Comisiones hipotecarias" por el monto de la comisión que corresponda.
 
-La institución financiera deberá utilizar el importe recibido en amortizar
+La institución financiera deberá utilizar el importe recibido en amortizar extraordinariamente letras de crédito, ya sea por sorteo a la par, compra en el mercado o rescate de las que estén en su poder.
 
-extraordinariamente letras de crédito, ya sea por sorteo a la par, compra en el
-
-mercado o rescate de las que estén en su poder.
-
-Simultáneamente se deberá registrar en el fondo de amortización el importe
-
-respectivo, mediante cargo a la cuenta "Amortización extraordinaria de letras de
-
-crédito por efectuar" de la partida 9420 del MB1 con abono a "Responsabilidad
-
-por amortización extraordinaria de letras de crédito por efectuar" de la partida
-
-9900 del MB1.
+Simultáneamente se deberá registrar en el fondo de amortización el importe respectivo, mediante cargo a la cuenta "Amortización extraordinaria de letras de crédito por efectuar" de la partida 9420 del MB1 con abono a "Responsabilidad por amortización extraordinaria de letras de crédito por efectuar" de la partida 9900 del MB1.
 
 10.1.2.- Amortización extraordinaria por sorteo a la par.
 
 a) Por las letras sorteadas.
 
-Debe - "Intereses por pagar en cupones por vencer", por los intereses devengados
+Debe - "Intereses por pagar en cupones por vencer", por los intereses devengados desde el último vencimiento hasta la fecha del sorteo.
 
-desde el último vencimiento hasta la fecha del sorteo.
-
-- "Letras de crédito en circulación con amortización directa", por el valor
-
-nominal o residual, según corresponda, de las letras sorteadas.
+- "Letras de crédito en circulación con amortización directa", por el valor nominal o residual, según corresponda, de las letras sorteadas.
 
 Haber: "Letras de crédito amortizadas por pagar", de la partida 3010 del MB1.
 
@@ -12890,31 +12790,19 @@ Haber: "Caja" o la cuenta que corresponda.
 
 10.1.3.- Amortización extraordinaria por compra.
 
-Debe: - "Intereses por pagar en cupones por vencer", por los intereses
+Debe: - "Intereses por pagar en cupones por vencer", por los intereses devengados desde el último vencimiento hasta la fecha de compra de la letra.
 
-devengados desde el último vencimiento hasta la fecha de compra de la letra.
-
-- "Letras de crédito en circulación con amortización directa", por el monto de
-
-la amortización.
+- "Letras de crédito en circulación con amortización directa", por el monto de la amortización.
 
 Haber: - "Caja" o la cuenta que corresponda.
 
-- "Diferencia por compra extraordinaria de letras de crédito", de la partida
-
-7620 del MR1, por la diferencia entre el valor de la letra y el valor pagado por
-
-ella.
+- "Diferencia por compra extraordinaria de letras de crédito", de la partida 7620 del MR1, por la diferencia entre el valor de la letra y el valor pagado por ella.
 
 10.1.4.- Rescate de letras en poder de la institución.
 
-Debe: - "Intereses por pagar en cupones por vencer", por los intereses
+Debe: - "Intereses por pagar en cupones por vencer", por los intereses devengados desde el último vencimiento hasta la fecha del rescate de la letra.
 
-devengados desde el último vencimiento hasta la fecha del rescate de la letra.
-
-- "Letras de crédito en circulación con amortización directa", por el valor
-
-nominal o residual de la letra.
+- "Letras de crédito en circulación con amortización directa", por el valor nominal o residual de la letra.
 
 Haber: - "Letras de crédito de emisión propia", de la partida 1735 del MB1.
 
@@ -12922,41 +12810,21 @@ Haber: - "Letras de crédito de emisión propia", de la partida 1735 del MB1.
 
 10.1.5.- Utilización del fondo de amortización.
 
-Conjuntamente con los asientos contables señalados en los numerales 10.1.2 letra
-
-a), 10.1.3 y 10.1.4, las entidades financieras deberán debitar la cuenta
-
-"Responsabilidad por amortización extraordinaria de letras de crédito por
-
-efectuar" y acreditar "Amortización extraordinaria de letras de crédito por
-
-efectuar", por el valor amortizado.
+Conjuntamente con los asientos contables señalados en los numerales 10.1.2 letra a), 10.1.3 y 10.1.4, las entidades financieras deberán debitar la cuenta "Responsabilidad por amortización extraordinaria de letras de crédito por efectuar" y acreditar "Amortización extraordinaria de letras de crédito por efectuar", por el valor amortizado.
 
 10.2.- Pago con letras de crédito.
 
-Cuando el deudor pague el todo o parte de su deuda con letras de crédito, se
-
-hará el siguiente asiento:
+Cuando el deudor pague el todo o parte de su deuda con letras de crédito, se hará el siguiente asiento:
 
 Debe: "Letras de crédito en circulación con amortización directa".
 
-Haber: "Préstamos en letras de crédito con amortización directa". En caso que
-
-proceda, se deberá acreditar también la cuenta "Dividendos por cobrar".
+Haber: "Préstamos en letras de crédito con amortización directa". En caso que proceda, se deberá acreditar también la cuenta "Dividendos por cobrar".
 
 11.- Dividendos no pagados al vencimiento.
 
 11.1.- Ingreso a cartera vencida.
 
-El plazo para traspasar a cartera vencida los dividendos que se mantengan
-
-impagos se fija en 90 días, contados desde el día 1° del mes en que deba
-
-efectuarse su pago, en concordancia con la regla general en vigencia. En
-
-consecuencia, cuando un dividendo impago de un cierto crédito cumpla 90 días en
-
-esa condición, deberá ser traspasado a cartera vencida, sin modificar el valoren
+El plazo para traspasar a cartera vencida los dividendos que se mantengan impagos se fija en 90 días, contados desde el día 1° del mes en que deba efectuarse su pago, en concordancia con la regla general en vigencia. En consecuencia, cuando un dividendo impago de un cierto crédito cumpla 90 días en esa condición, deberá ser traspasado a cartera vencida, sin modificar el valoren
 
 pesos al que esté registrado:
 
@@ -12964,101 +12832,39 @@ Debe: "Dividendos hipotecarios vencidos" de la partida 1410 del MB1.
 
 Haber: "Dividendos por cobrar" de la partida 1315 del MB1.
 
-El procedimiento anotado se seguirá con cada uno de los dividendos de un mismo
+El procedimiento anotado se seguirá con cada uno de los dividendos de un mismo crédito que permanezcan impagos, a más tardar cuando cumplan 90 días desde la fecha en que debieron ser pagados.
 
-crédito que permanezcan impagos, en la medida en que cumplan 90 días desde la
+En la eventualidad de que un crédito con dividendos en mora o vencidos contenga la llamada "cláusula de aceleración", según la cual, con motivo del no pago de un determinado número de cuotas o dividendos, pueda hacerse exigible la totalidad del crédito, el saldo insoluto de dicho préstamo se llevará a la cuenta "Préstamos en letras de crédito vencidos" de la partida 1410 del MB1,
 
-fecha en que debieron ser pagados.
+dentro de un plazo de 90 días a contar desde la fecha en que se haya presentado la demanda judicial.
 
-En la eventualidad de que un crédito con dividendos en mora o vencidos contenga
+11.2. Suspensión del reconocimiento de reajustes, intereres y comisiones.
 
-la llamada "cláusula de aceleración", según la cual, con motivo del no pago de
+De acuerdo con lo dispuesto en el Capítulo 7-1 de esta Recopilación, deberá suspenderse la contabilización de reajuste e intereses de un crédito pagadero en cuotas, a contar del momento en que una de ellas permanezca 90 días impaga. Dicha suspensión durará hasta que se paguen o renegocien todas las cuotas en mora.
 
-un determinado número de cuotas o dividendos, pueda hacerse exigible la
+En el caso de los préstamos hipotecarios en letras de crédito, corresponde suspender, a contar del momento en que el primero de los dividendos impagos cumpla noventa días en esa situación de mora, el reconocimiento contable de los reajustes, intereses y comisiones que se contabilizan al constituirse los dividendos según las instrucciones del N° 3 de esta letra A), por los dividendos que se constituyan después de esa fecha, como asimismo los reajustes posteriores del saldo total del capital.
 
-totalidad del crédito y la empresa decida hacer uso de esa facultad, el saldo
+Sin embargo, como una manera de facilitar los procedimientos en el caso de la constitución de los dividendos que se encuentren en la situación señalada en el párrafo anterior, las instituciones financieras podrán seguir el procedimiento contable general descrito en el N° 3 de esta letra A), revirtiendo posteriormente, al cierre del mes en que se constituyen esos dividendos, los
 
-insoluto de dicho préstamo se llevará a la cuenta "Préstamos en letras de
+correspondientes reajustes, intereses y comisiones.
 
-crédito vencidos" de la partida 1410 del MB1.
+De esa forma, al término de cada mes los dividendos de que se trata, quedarán registrados en la cuenta "Dividendos por cobrar" solamente por su valor de amortización, importe por el cual se traspasarán en su oportunidad a cartera vencida, en tanto que los constituidos antes de la fecha a contar de la cual debe aplicarse la suspensión quedarán contabilizados con los reajustes,
 
-Una vez efectuado el traspaso a cartera vencida de un dividendo impago, se
+intereses y comisiones que se incluyeron al constituirse.
 
-suspenderá a partir de ese momento, el devengo de reajustes, intereses y
+### 12. Recuperación o renegociación de créditos impagos
 
-comisiones sobre el saldo del respectivo préstamo.
+12.1. Reingreso a cartera vigente.
 
-11.2.- Ajuste mensual de las cuentas de resultados por dividendos impagos
+Los créditos incluidos en la cuenta "Préstamos en letras de crédito vencidos" podrán reingresarse a la cuenta de origen de la cartera vigente, cuando se paguen o renegocien todos sus dividendos en mora.
 
-traspasados a cartera vencida.
+12.2. Reconocimiento de reajustes, intereses y comisiones.
 
-En el numeral 11.1 precedente se señaló que, en el caso de aquellos créditos que
+Cuando ocurra la recuperación o renegociación de uno o más dividendos impagos de un determinado crédito, por los que se hubiera suspendido el devengo de reajustes, intereses y comisiones, se procederá a reconocer en las respectivas cuentas de resultados los ingresos correspondientes a esos dividendos.
 
-mantengan dividendos impagos, cada uno de éstos se traspasará a cartera vencida,
+12.3. Castigos.
 
-una vez que cumpla 90 días desde su vencimiento, en esa condición de mora.
-
-Por lo tanto, el hecho de que permanezcan uno o más dividendos impagos, no
-
-impedirá que se continúen constituyendo los posteriores que venzan dentro de los
-
-noventa días siguientes de la fecha en que venció el primero que esté en
-
-situación de mora. La constitución de estos dividendos lleva implícito el
-
-reconocimiento contable de los reajustes, intereses y comisiones devengados en
-
-ellos. Sin embargo, desde el momento en que el primero de los dividendos impagos
-
-cumpla noventa días en esa situación, se dejarán de reconocer en resultados los
-
-reajustes, intereses y comisiones incluidos en todos los dividendos relativos al
-
-mismo crédito, que venzan a contar de esa fecha.
-
-Consecuente con lo anterior y como una manera de facilitar los procedimientos
-
-para la contabilización que se hace de los dividendos que vencen en cada mes,las
-
-instituciones financieras pueden registrar el primer día de cada período mensual
-
-la totalidad de los dividendos cuyo vencimiento está fijado para el mes
-
-respectivo, incluidos aquéllos que corresponden a créditos que cuenten con
-
-dividendos registrados en cartera vencida.
-
-Antes de proceder al cierre de cada mes y en concordancia con lo establecido en
-
-el párrafo anterior, se revertirán los reajustes, intereses y comisiones de
-
-aquellos dividendos constituidos en el mes, correspondientes a préstamos con
-
-cuotas anteriores en cartera vencida. En consecuencia, estos dividendos impagos,
-
-quedarán registrados en la cuenta "Dividendos por cobrar", solamente por su
-
-valor de amortización, importe por el cual se traspasarán en su oportunidad a
-
-cartera vencida.
-
-12.- Recuperación de dividendos impagos y reactivación del crédito.
-
-Cuando ocurra la recuperación de uno o más dividendos impagos de un determinado
-
-crédito, por los que se hubiera suspendido el devengo de reajustes, intereses y
-
-comisiones se procederá a reconocer contablemente éstos.
-
-En los casos en que el acreedor haya hecho uso de la cláusula de aceleración y,
-
-posteriormente, hubiere convenido con el deudor que, previo pago de los
-
-dividendos en mora, continúe sirviendo el préstamo en la forma originalmente
-
-pactada, podrá considerarse dicho crédito como renegociado y, por lo
-
-tanto,traspasarse a cartera vigente.
+De acuerdo con lo dispuesto en el numeral 3.2.2, título I, del Capítulo 8-29 de esta Recopilación, si algún dividendo permaneciere impago 36 meses a contar de su vencimiento, las instituciones acreedoras deberán castigar todos los dividendos vencidos correspondientes al crédito que se encuentre en esa situación. Los restantes dividendos deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada uno de ellos, sin perjuicio de que puede también castigarse el total del saldo del crédito.
 
 B. PRESTAMOS CONCEDIDOS EN LETRAS DE CREDITO CON AMORTIZACION INDIRECTA.
 
