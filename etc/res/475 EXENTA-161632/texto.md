@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 475, de 16 de Abril de 1985, conforme art. 5º transitorio Código de Aguas, determinó derechos de Aprovechamiento de Aguas proporcionales que corresponden a sector excluido y sector expropiado del predio "El Pensamiento" y del predio expropiado "Potreros del Carril y El Jardín" y "La Viña y Establecimiento de Pasto" de la comuna de Rinconada, V Región; y derechos aprovechamiento de aguas que corresponden a las parcelas Nº I a la 16, sitios Nº I al 6 del Proyecto de Parcelación "José de San Martín" formado por predios señalados. Los derechos de agua se extraen del canal Rinconada y canal San Rafael. Publicación hecha conforme art. 13, Ley Nº 18.377.-
+
+Director Ejecutivo.
