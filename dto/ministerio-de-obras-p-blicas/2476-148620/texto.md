@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.476, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs 9-A, 16, 17, 29-A, y 30, superficies 48; 245; 307; 243 y 1.496 M2 roles de avalúo 99-421, 341-179, 341-1, 341-2 y 341-4, comuna de La Ligua, para la obra Camino Ruta E-39, sector Quinquimo El Rayado y se acordó precio de indemnización con sus propietarios Eduardo Humberto Viorklumds Bolados, Christian Fernando Larenas Dublas, Patricia Ana Tello Mourgues, Sociedad Maderera Los Molinos y Compañía Limitada y Club Deportivo Unión Serrano, ascendentes a las cantidades de $886.664 el lote Nº 9-A, $1.331.676 el lote 16, $1.690.541 el lote Nº 17, $993.859 el lote Nº 29-A, y $6.842.814 el lote Nº 30.
+
+Fiscal del Ministerio de Obras Públicas.
