@@ -22156,21 +22156,11 @@ industrial".
 
 ### 5. Determinación de los márgenes
 
-Los márgenes de tres y diez por ciento a que se refiere este capítulo, se
-
-calcularán sobre la base del promedio de la suma de las partidas incluidas en
-
-los siguientes rubros del Activo, tanto en moneda chilena como en moneda
-
-extranjera, registrados en el mes de que se trate:
+Los márgenes de tres y diez por ciento a que se refiere este capítulo, se calcularán sobre la base del promedio de la suma de las partidas incluidas en los siguientes rubros del Activo, tanto en moneda chilena como en moneda extranjera, registrados en el mes de que se trate:
 
 a) Fondos disponibles, excepto las partidas 1015 y 1020 del MB1.
 
-b) Colocaciones con recursos propios, excepto las cuentas Deudores por Cartas de
-
-Crédito negociadas y Créditos para importación de las partidas 1125 y 1220 del
-
-formulario MB1.
+b) Colocaciones, con excepción de las colocaciones contingentes, de las colocaciones en letras de crédito (partidas 1245, 1305, 1310, 1315 y 1410) y de las cuentas Deudores por Cartas de Crédito Negociadas y Créditos para Importación, de las partidas 1125 y 1220.
 
 c) Inversiones financieras.
 
