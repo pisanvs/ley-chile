@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.690, de 28 de abril del 2000, se expropió el lote de terreno Nº 11, superficie 715 m², rol de avalúo 543-10, comuna de La Unión, para la obra Camino Ruta T-75, sector Chan Chan - Puerto Nuevo, tramo Km. 17.697,32 a Km. 38.521,94 y se acordó precio de la indemnización con su propietaria Sociedad Agrícola Ganadera y Forestal Las Cruces Ltda. en la cantidad de $10.767.843.-
+
+Fiscal del Ministerio de Obras Públicas.
