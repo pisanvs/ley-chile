@@ -1,0 +1,3 @@
+Por resolución No. 1.446 de 20 de Noviembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrogable por 30 días, a contar de la fecha de la presente resolución, el plazo otorgado a DESHIDRATADORA DE ALGAS LTDA., RUT No. 78.015.840-9, domiciliada en la ciudad de Puerto Montt, en el numeral 4° de la Resolución No. 1262, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 20 de Noviembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
