@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº2.016, de 28 de diciembre de 2001, se expropió el lote de terreno Nº23, superficie 283 m2, rol de avalúo 104-377, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso Viña del Mar. Tramo 6A1: Kms. 31.430,00 al 33.260,00, Región Metropolitana y se acordó el valor de indemnización con su propietaria Catalina Luisa de las Mercedes Verdugo Leddihn y Otras, ascendente a la cantidad de $2.398.976.-
+
+Fiscal del Ministerio de Obras Públicas.
