@@ -1,0 +1,3 @@
+Por decreto MOP Nº212, de fecha 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 1 y 2, superficies 771 m² y 219 m², respectivamente, rol de avalúo 220-31, comuna de Cañete, para la obra "Camino Cañete - Sara de Lebu, Sector Puente Tucapel, Km. 0,00000 a Km. 0,24550" y se acordó el valor de indemnización con su propietario Gregorio Segundo Cuevas Aguayo y Otros, ascendente a la cantidad de $714.989.-
+
+Fiscal del Ministerio de Obras Públicas.
