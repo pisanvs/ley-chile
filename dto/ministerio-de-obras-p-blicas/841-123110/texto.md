@@ -1,0 +1,5 @@
+Por decreto MOP No. 841, de 25 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No. s. 2, 4, 12, 14 y 15, para la obra Camino Pucón Curarrehue sector Bifurcación Lago Caburga, que figuran a nombre de Agro Riberas del Trancura, Miguel Krause Kachele y Enrique Muller Mouttel, roles de avalúo, 107-21, 107-23, 107-2 y 107-3, comuna Pucón IX Región, superficies 50, 278, 119, 290 y 124 m2. La comisión de peritos compuesta por los señores Enrique Vallete de la Harpe, José Díaz Villegas y Elso Bahamonde Neuman, fijó con fecha 7 de julio de 1995, el valor provisional de la indemnización en las cantidades de $ 37.500, para el lote No. 2, $ 208.500, para el lote No.
+
+4, $ 89.250, para el lote No. 12, $ 217.500, para el lote No. 14 y $ 93.000, para el lote No. 15. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
