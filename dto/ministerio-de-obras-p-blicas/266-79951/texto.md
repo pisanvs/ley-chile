@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 266, de 15 de octubre de 1991, se expropiaron los lotes N°s. 27 y 30, superficies 204 m2. y 21.833 m2., roles de avalúo 176- 25 y 5015-21, respectivamente, Comuna de Coronel, para la obra Camino By Pass Coronel - Lota (Ruta 160), sector By Pass Coronel - Lota y se acordó precio de indemnización con sus propietarios Néstor Enrique Cuevas Avendaño y Otros y Cooperativa de Viviendas Cecilio Arancibia Ltda., ascendente a $ 5.596.784.- y $ 20.202.443.-
+
+Fiscal del Ministerio de Obras Públicas.
