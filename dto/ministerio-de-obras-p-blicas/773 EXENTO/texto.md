@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 773 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 7, superficie 24,00 m², rol de avalúo Nº 6-5, comuna de María Pinto, para la obra "Camino Ruta G-76, Sector María Pinto - Santa Inés, Tramo de Km. 0,0000 a Km. 12,26088", Región Metropolitana y se acordó el valor de la indemnización con su propietario Gustavo Lisperguer Lisperguer y Otros, ascendente a la cantidad de $403.678.
+
+- Fiscal del Ministerio de Obras Públicas.
