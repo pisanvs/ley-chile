@@ -1,0 +1,5 @@
+AUTORIZA A DON JUAN CARLOS CESPEDES PIZARRO PARA DESARROLLAR ACTIVIDADES DE CULTIVO Y DENIEGA AUTORIZACION QUE INDICA
+
+Por Resolución Nº 569, 10 Set. 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Juan Carlos Céspedes Pizarro, RUT. 9.315.711-7., domiciliado en P. 11 de Septiembre, Salamanca 4199, Arica, para instalar y operar un establecimiento de cultivo de ostión del Norte, en un sector de 10.000 m2. de porciones de agua, ubicado en la Capilla, Arica Ia. Región, Lat. 18º32'06" S. Long. 70º19'56" W. Asimismo, se deniega por razones técnicas, autorización a la persona señalada para desarrollar actividades de cultivo de ostión en un sector de 60.000 m2. de fondo de mar, ubicado en la Capilla, Arica.
+
+Valparaíso, 10 Set. 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
