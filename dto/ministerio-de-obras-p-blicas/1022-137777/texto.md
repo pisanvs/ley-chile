@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.022 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 192, superficie 96 m², rol de avalúo 150-147, comuna de Lampa, para la obra ''Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Sector Km. 26.200,00 a Km. 30.510,50'' y se acordó el valor de indemnización con su propietario Asociación de Padres de Familia del Instituto de Humanidades Luis Campino, ascendente a la cantidad de $482.793.-.
+
+Fiscal del Ministerio de Obras Públicas.
