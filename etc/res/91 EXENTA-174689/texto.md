@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 91 de 25 de Enero de 1988, conforme Art. 5º Transitorio Código Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos y Sectores Expropiados predios "Fundo Santa Victoria", "San Jorge", "Hijuela La Blanca" y "San Miguel o San Miguel de Calleuque" de la comuna de Peralillo, VI Región y Derechos Aprovechamiento Aguas que corresponden a las parcelas Nºs. 1 a la 57; sitios Nºs. 1 al 46 y Reservas CORA Nºs. 2 y 3 del Proyecto de Parcelación "San Miguel de Calleuque", formado por predios señalados y predio "Hijuela Cuarta del Fundo Los Cardos o El Llano". Los derechos de aguas se extraen de los canales Cardino, Habilitación, La Viroca y Calleuque; Merced de Aguas del Estero Lihueimo; aguas del Río Tinguiririca que se elevan por bombas; del Estero Pundureo o La Viña; de recursos de aguas subterráneas que se extraen de pozos profundos y de derrames de Patria Nueva, de La Troya y de Santa Victoria. Publicación hecha conforme Art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
