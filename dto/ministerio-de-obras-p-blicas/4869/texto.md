@@ -1,0 +1,3 @@
+Por decreto MOP 4.869, de 31 de octubre del 2000, se expropió el lote de terreno Nº52-A, superficie 104 m2., rol de avalúo 619-31, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector N, Séptima Región y se acordó el valor de indemnización con su propietario Mario Jorge González Puebla, ascendente a la cantidad de $507.137.-
+
+Fiscal del Ministerio de Obras Públicas.
