@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.697, de fecha 28 de abril del 2000, se expropió los lotes de terreno Nºs. 1 y 2, superficie 134 y 460 m², rol de avalúo 268-122 y 268-121, comuna de Carahue, para la obra ''Camino Carahue - Puerto Saavedra, sector II Kms. 65.594,05 al 87.689.33'' y se acordó el valor de indemnización con sus propietarios Gustavo Adolfo Otth Arias y Nilsa Hinalda Otth Arias, ascendente a la cantidad de $231.595.- para el lote Nº1 y $503.088.- para el lote Nº2.
+
+Fiscal del Ministerio de Obras Públicas.
