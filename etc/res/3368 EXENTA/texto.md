@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.368, de 16 de diciembre de 2003, de esta Subsecretaría, autorízase a SOPESA S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en O'Higgins Nº 1907, San Antonio, V Región, en las líneas de elaboración de Harina y Aceite, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 16 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
