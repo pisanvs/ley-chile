@@ -1,0 +1,3 @@
+Por decreto MOP N° 1.074 de fecha 30 de septiembre del 2003, se expropió el lote de terreno N° 72-D, superficie 6.073 m2, Rol en N° 277-208, comuna de Pelluhue, VII Región para la obra "Camino Chovellén-Cobquecura, Sector Chovellén-Límite, Regional Tramo Km. 18,260.00 al 35,158.60 y se acordó el valor de indemnización con su propietario Julio Dionisio Salgado Villalobos, ascendente a la cantidad de $34.173.366.
+
+- Fiscal del Ministerio de Obras Públicas.
