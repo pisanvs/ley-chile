@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.252, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº34-C, superficie 195 m², rol de avalúo 2204-111, comuna de Puerto Montt, X Región, para la obra ''Camino Ruta 7 Chamiza - Quillaipe, Km. 4,83687 al 15,84700'' y se acordó el valor de indemnización con su propietario don Oscar Manuel Bahamonde Montaña, ascendente a la cantidad de $479.400.-
+
+Fiscal del Ministerio de Obras Públicas.
