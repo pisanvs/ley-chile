@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 50, de 22 de Febrero de 1985, se expropiaron los lotes N°s. 10, 12 y 13, cuyas superficies son 120 m2., 320 m2. y 670 m2., roles de avalúo 318-33, 318-35, y 318-37, todos de la Comuna de Concepción, VIII Región y se acordó el precio de indemnización con sus propietarios Alex Trautmann Vergara, Héctor Zambrano Zambrano y Héctor Ramón, Jorge Aurelio, Sergio Augusto y Eliana Aurora Montero Melo, ascendente a las cantidades de $ 42.398, para el lote N° 10, $ 103.620, para el lote N° 12 y $ 190.525, para el lote N° 13.-
+
+Fiscal del Ministerio de Obras Públicas.
