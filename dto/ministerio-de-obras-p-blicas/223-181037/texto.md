@@ -1,0 +1,3 @@
+Por decreto MOP Nº223, de fecha 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 1, 2 y 3, superficies 144 m², 149 m² y 127 m², respectivamente, rol de avalúo 2206-13, comuna de Osorno, para la obra "Camino Ruta U-72, Sector Osorno - Huilma, Tramo Km. 0,000 a Km. 18,100" y se acordó el valor de indemnización con su propietario José Osciel Mancilla, ascendente a la cantidad de $1.287.452.-
+
+Fiscal del Ministerio de Obras Pú-blicas.
