@@ -1,0 +1,5 @@
+APROBACION DE TRANSFERENCIA DEL DOMINIO DE CONCESIONES DE EMPRESA DE SERVICIOS SANITARIOS AGUAS DE LILEN S.A. A EMPRESA DE OBRAS SANITARIAS DE VALPARAISO S.A.
+
+Por decreto supremo Nº 859 del Ministerio de Obras Públicas, de fecha 30 de abril de 2002, tramitado el 21 de junio de 2002, se aprobó la transferencia de la concesión de producción y distribución de agua potable y de recolección y disposición de aguas servidas, de Aguas de Lilén S.A. RUT Nº 96.668.060-1 a la empresa ESVAL S.A. RUT Nº 89.900.400-0, domiciliada en calle Cochrane Nº 751, Valparaíso. Las concesiones que se transfieren constan en DS/MOP Nº 414, modificado por el DS/MOP Nº 64/96, y su territorio operacional es un proyecto inmobiliario ubicado en el sector denominado Playa Lilén, loteo Punta Puyai, comuna de Papudo, provincia de Petorca, V Región. Programa de Desarrollo, nivel tarifario, garantías y otros en decreto extractado, que se redujo a escritura pública ante el Notario de Valparaíso don Eduardo Bravo Ubilla, de 2 de julio de 2002.
+
+Santiago, 31 de julio de 2002.- Juan Eduardo Saldivia Medina, Superintendente de Servicios Sanitarios.
