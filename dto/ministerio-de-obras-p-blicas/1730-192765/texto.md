@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.730, de 31 de octubre de 2001, se expropió el lote de terreno Nº 126-C, superficie 306 m2., rol de avalúo 1404-11, comuna de Puerto Varas, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno Puerto Montt. Sector: C.S. Puerto Varas Poniente Km. 1.004,900 a Km. 1.007,340, Décima Región y se acordó el valor de indemnización con su propietario Marcelo Federico Teuber Loebel, ascendente a la cantidad de $1.042.554.-
+
+Fiscal del Ministerio de Obras Públicas.
