@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 125, de 30 de Abril de 1990 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. No. 294, que fijó el texto actualizado de la Ley No.
+
+15.840, se expropiaron los lotes de terrenos No. s. 16 y 17, para la obra Ampliación Ruta 160, Camino Concepción-Coronel, Km. 2.398 al 19.500, VIII Región, que figuran a nombre del señor Víctor L. Campos Sáez, rol de avalúo de ambos 15006-6, Comuna de Concepción, superficie 629 m2 y 4.653 m2. Deslindes: Lote 16: Norte: faja Fiscal; Sur: Av. Victoria; Este: Resto del predio, y Oeste: Camino público. Lote 17: Norte: Isabel Pedrero Arriagada; Sur: Faja fiscal; Este: Resto del predio, y Oeste: Camino público. La Comisión de Peritos compuesta por los señores Pablo Carrillo Valenzuela, Jorge Valenzuela Rodríguez y don Jaime García Molina, fijó con fecha Enero de 1990, el valor provisional de la indemnización en la suma de $ 754.800.- para el lote No. 16 y $ 4.653.000.- para el lote No. 17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
