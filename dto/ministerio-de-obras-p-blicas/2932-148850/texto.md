@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.932, de 30 de septiembre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 34, 36, 38, 39, 41 y 43, para la ejecución de la obra Camino Fresia - Parga - Llico - Las Cañitas, rol V-46, Km. 14.835 a Km. 34.000, que figuran a nombre de Juan Pablo Beltrán Villalobos, Rol de avalúo 164-61, comuna de Fresia, X Región, superficies 529, 196, 938, 329, 40 y 510 m². La comisión de peritos compuesta por los señores Carlos Eugenio Mera Santibáñez, Mario Olivares Bustamante y Leopoldo Ramón Schumacher Guarda, fijó con fecha 10 de julio de 1998, el valor provisional de las indemnizaciones en las cantidades de $105.800, lote 34; $39.200, lote 36;
+
+$187.600, lote 38; $65.800, lote 39; $8.000, lote 41 y $102.000, lote 43. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
