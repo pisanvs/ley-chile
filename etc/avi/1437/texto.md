@@ -1,0 +1,19 @@
+CONSTITUCION DEL PARTIDO "IZQUIERDA CRISTIANA POR LA PARTICIPACION DEMOCRATICA"
+
+"En Santiago, con fecha 02 de Mayo de 1994, se otorgó ante el Titular de la Décimo Novena Notaría de Santiago don Víctor Manuel Correa Valenzuela la escritura de constitución del Partido "Izquierda Cristiana Por la Participación", modificada por escritura pública ante el mismo notario con fecha 31 de Mayo de 1994.
+
+El partido se denomina "Izquierda Cristiana por la Participación Democrática.".
+
+Resumen Declaración de Principios Chile es un país privilegiado en territorio, recursos naturales y población. Sin embargo, más de un tercio de los chilenos vive en una situación de probreza que los éxitos de un fuerte crecimiento no logra erradicar; el sistema nos ha lanzado en una irresponsable ola depredadora del medio ambiente, reemplazando tradicionales valores nuestros por un consumismo desenfrenado. El neoliberalismo, que se impone como proyecto global a nivel planetario, es presentado como un dogma no susceptible de racional discusión, pese a la evidente crisis que viven los países desarrollados y en los cuales podemos ver sus resultados. Nuestra institucionalidad no es plenamente democrática en tanto persisten los importantes enclaves autoritarios que distorsionan la voluntad del pueblo soberano. Una presencia militar elevada a nivel de poder del Estado dificulta seriamente la convivencia democrática y la reconciliación al tiempo que es fuente de derroche de los recuros públicos y un lastre para las políticas sociales. Este nuevo partido político emergente, afirma como prioritarias las acciones de gobierno destinadas a completar la democratización del país y a corregir drásticamente la regresiva distribución del ingreso nacional.
+
+Creemos que la lucha contra la extrema pobreza no tiene sentido ni posibilidades de éxito si no va acompañada del rechazo de los abusos de una extrema riqueza. Reivindicamos la importancia de la ética en el manejo de los asuntos públicos y el noble papel de la política y de los partidos políticos en la construcción de una democracia efectivamente pluralista y participativa y en la mantención de los equilibrios ambientales. En los albores del año 2.000, las importantes tareas del desarrollo nacional con efectiva erradicación de la miseria deben fundamentarse plenamente en el humanismo cristiano y vertientes afines del pensamiento, cuya fuerza y vigencia afirmamos. La libertad del hombre se basa y robustece en la práctica de la solidaridad, la equidad y el respeto de los derechos humanos, únicos pilares sólidos para una democracia estable y un desarrollo sustentable y sostenido.
+
+La Directiva Central Provisional está integrada por las siguientes personas: Presidente: Osvaldo Sergio Giannini Iñíguez; Primer Vicepresidente: Juan Enrique del Canto Labarca; Segundo Vicepresidente: Claudio Mardones Vásquez; Tercer Vicepresidente: Hilda Lucía Chirinos Benavides; Secretario General: Sergio René Sánchez Bahamonde; Tesorero: Jaime Turull Muñoz; Primer Director: Sergio Reyes Marambio; Segundo Director: Luis Sergio Vásquez Albornoz; Tercer Director: Patricio Velasco Herrera.
+
+El Tribunal Supremo Provisional está integrado por las siguientes personas: Presidente: Guillermo Ascui Salvatierra; Vicepresidente: Pedro Videla Riquelme; Secretario: Eugenio Ormeño Ortiz; Vocales: Luis Alberto Mardones Vásquez y Alicia Saavedra Casanova.
+
+El domicilio común de la Directiva Central y del Tribunal Supremo Provisionales es calle Bandera 566, Oficina 54, Santiago.
+
+En caso de fallecimiento, renuncia o cualquier otro motivo que imposibilite o inhabilite a algún miembro de la Directiva Central Provisional o del Tribunal Supremo Provisional, antes de la constitución del Consejo General, será reemplazado el impedido por decisión de la mayoría de los miembros de la Directiva Central Provisional, por alguno de los suscriptores de la escritura pública de constitución.".-
+
+Andrés Merino Espiñeira, Director (S).
