@@ -2926,103 +2926,49 @@ Las instituciones financieras que mantengan formularios de certificado de manten
 
 ANEXO N° 1
 
-CERTIFICADO DE MANTENCION DE CUENTA DE AHORRO A PLAZO PARA LA VIVIENDA - DECRETO
+CERTIFICADO DE MANTENCION DE CUENTA DE AHORRO A PLAZO PARA LA VIVIENDA - DECRETO SUPREMO N° 44, DE 1988 DEL MINISTERIO DE VIVIENDA Y URBANISMO
 
-SUPREMO N° 44, DE 1988 DEL MINISTERIO DE LA VIVIENDA Y URBANISMO
+CERTIFICADO N°: .......................... FECHA EMISION: ......................
 
-CERTIFICADO N°: FECHA:
+INSTITUCION FINANCIERA: ........................................................
 
-INSTITUCION FINANCIERA
+PARA SER PRESENTADO A: SERVIU (1)
 
-PARA SER PRESENTADO AL SERVIU VALIDO
+OTRA INSTITUCION FINANCIERA (1)
 
-HASTA
+VALIDO HASTA ............
 
-A OTRA INSTITUCION FINANCIERA
+CERTIFICO que don (doña) ............................ R.U.T. N° ............................ suscribió con esta institución financiera el .......... de ............. de 19...... un contrato de ahorro para los fines señalados en el Decreto Supremo N° 44, del Ministerio de Vivienda y Urbanismo, de 1988.
 
-CERTIFICO que don (doña) R.U.T.
+El mencionado contrato fue modificado con fecha ..................... , siendo sus condiciones originales y actuales, en 10 que se refiere al ahorro total mínimo pactado, plazo para enterarlo y saldos medios semestrales, las siguientes:
 
-N° suscribió con esta institución financiera el de 19
+El ahorro total acumulado, incluidos reajustes e intereses, a la fecha de emisión de este certificado, asciende a la suma de $ ............... equivalente a ........ Unidades de Fomento (*) (**).
 
-un contrato de ahorro para los fines señalados en el
-
-Decreto Supremo N° 44, del Ministerio de Vivienda y Urbanismo,
-
-de 1988.
-
-El mencionado contrato fue modificado con fecha , siendo
-
-sus condiciones originales y actuales, en lo que se refiere al
-
-ahorro total mínimo pactado, plazo para enterarlo y saldos medios
-
-semestrales, las siguientes:
-
-Contrato Contrato
-
-Original modificado
-
-Monto total mínimo de ahorro pactado: U.F. U.F.
-
-Plazo para enterar el ahorro mínimo
-
-pactado: meses meses
-
-Saldos medios mínimos semestrales
-
-Contrato Contrato
-
-Original modificado
-
-Primer Semestre U.F. U.F.
-
-Segundo Semestre U.F. U.F.
-
-Tercer Semestre U.F. U.F.
-
-Cuarto Semestre U.F. U.F.
-
-Quinto Semestre U.F. U.F.
-
-Sexto Semestre U.F. U.F.
-
-El ahorro total acumulado, incluidos reajustes e intereses, a la fecha de
-
-emisión de este certificado, asciende a la suma de $
-
-equivalente a Unidades de Fomento (*) (**).
-
-Los saldos medios efectivamente mantenidos en cada periodo, son los siguientes:
+Los saldos medios efectivamente mantenidos en cada período, son los siguientes:
 
 Durante el plazo fijado en el contrato (Original o modificado):
 
-Primer semestre: U.F. Cuarto semestre: U.F.
+Primer semestre: ........... U.F. Cuarto semestre: ...... U.F.
 
-Segundo semestre: U.F. Quinto semestre: U.F.
+Segundo semestre: .......... U.F. Quinto semestre: ...... U.F.
 
-Tercer semestre: U.F. Sexto semestre: U.F.
+Tercer semestre: .......... U.F. Sexto semestre: ... ... U.F.
 
 Después de cumplido el plazo fijado en el contrato:
 
-Primer mes: U.F. Quinto mes: U.F. Noveno mes: U.F.
+Primer mes: .. U.F. Quinto mes: .. U.F. Noveno mes ....: ... U.F.
 
-Segundo mes: U.F. Sexto mes : U.F. Décimo mes: U.F.
+Segundo mes:.. U.F. Sexto mes: .... U.F. Décimo mes.....: ... U.F.
 
-Tercer mes: U.F. Séptimo mes: U.F. Décimo 1er mes: U.F.
+Tercer mes: .. U.F. Séptimo mes: .. U.F. Décimo 1er mes : ... U.F.
 
-Cuarto mes: U.F. Octavo mes: U.F. Décimo 2do mes: U.F.
+Cuarto mes: .. U.F. Octavo mes : .. U.F. Décimo 2° mes..: ... U.F.
 
-El saldo medio mantenido desde el término del último semestre informado precedentemente, hasta el de 19 fue de U.F.
+Se deja constancia que la antigüedad acumulada de la cuenta de ahorro a que se refiere este Certificado, es de meses.
 
-Se deja constancia que la antigüedad acumulada de la cuenta de chorro a que se refiere este Cerfificado, es de meses.
+(*) Para los efectos de su giro o traspaso, el saldo estará referido al valor de la unidad de fomento, vigente en el último día del mes inmediatamente anterior a la fecha en que se haga uso de él, a menos que el titular hubiera perdido el derecho a reajuste.
 
-------------------------------------
-
-GERENTE
-
-* Para los efectos de su giro o traspaso, el saldo estará referido al valor de la unidad de fomento, vigente en el último día del mes inmediatamente anterior a la fecha en que se haga uso de él, a menos que el titular hubiera perdido el derecho a reajuste.
-
-* En caso que el ahorrante hubiera perdido el derecho a reajuste, deberá dejarse constancia de este hecho, mediante la frase: "Sin derecho a reajuste por haber efectuado en el último período de doce meses una cantidad de giros superior a la pactada".
+(**) En caso que el ahorrante hubiera perdido el derecho a reajuste, deberá dejarse constancia de este hecho, mediante la frase: "Sin derecho a reajuste por haber efectuado en el último período de doce meses una cantidad de giros superior a la pactada".
 
 ANEXO N° 2
 
@@ -16626,15 +16572,7 @@ SOCIEDADES FILIALES QUE COMPLEMENTAN EL GIRO DE LOS BANCOS.
 
 ### 1. Negocios que complementan el giro bancario
 
-Los bancos sólo podrán tener participación en sociedades filiales cuyo giro
-
-complemente el negocio bancario. En concordancia con las facultades que le
-
-confiere el número 11 bis del artículo 83 de la Ley General de Bancos, esta
-
-Superintendencia estima que complementan el giro bancario aquellas sociedades
-
-que se constituyan como se indica a continuación:
+Los bancos sólo podrán tener participación en sociedades filiales cuyo giro complemente el negocio bancario. En concordancia con las facultades que le confiere el número 11 bis del artículo 83 de la Ley General de Bancos, esta Superintendencia estima que complementan el giro bancario aquellas sociedades que se constituyan como se indica a continuación:
 
 - Sociedades a que se refiere la letra a) del número 11 bis del artículo 83:
 
@@ -16642,15 +16580,19 @@ a) Intermediarios de valores según la forma establecida en la Ley N° 18.045, y
 
 b) Administradoras de fondos mutuos en la forma establecida en el D.L. N° 1.328 de 1976. Las carteras de los fondos podrán tener acciones siempre que se cumpla con lo siguiente: i) que el nombre del fondo mutuo contenga la palabra "acciones", de manera que el público pueda identificar plenamente esta característica; y, ii) que el porcentaje máximo a invertir en acciones sea, medido como promedio para cada trimestre calendario, un 50% del total del fondo. Esta disposición deberá estar contenida en el reglamento interno de operación de cada fondo.
 
-c) Empresas de "leasing", siempre que ellas se encuadren dentro de las condiciones que establezca esta Superintendencia;
+c) Administradoras de fondos de inversión en la forma establecida en la Ley N° 18.815 del 20 de julio de 1989.
 
-d) Empresas que actúen como operadoras de tarjetas de crédito de acuerdo con las normas que se establecen en el Capítulo III.J.1 del Compendio de Normas Financieras del Banco Central de Chile y según las normas que al respecto dicte
+- Sociedades a que se refiere la letra b) del N° 11 bis del articulo 83:
+
+d) Empresas de "leasing", siempre que ellas se encuadren dentro de las condiciones que establezca esta Superintendencia;
+
+e) Empresas que actúen como operadoras de tarjetas de crédito de acuerdo con las normas que se establecen en el Capítulo III.J.1 del Compendio de Normas Financieras del Banco Central de Chile y según las normas que al respecto dicte
 
 esta Superintendencia en virtud del D.L. N° 1.097, de 1975; y,
 
-e) Empresas de asesorías financieras, cuando su giro sea asesorar a sus clientes en: i) la búsqueda de fuentes alternativas de financiamiento; ii) la reestructuración de sus pasivos; iii) las negociaciones para adquirir, vender o fusionar empresas; iv) la emisión y colocación de bonos y debentures y v) la colocación de fondos en el mercado de capitales.
+f) Empresas de asesorías financieras, cuando su giro sea asesorar a sus clientes en: i) la búsqueda de fuentes alternativas de financiamiento; ii) la reestructuración de sus pasivos; iii) las negociaciones para adquirir, vender o fusionar empresas; iv) la emisión y colocación de bonos y debentures y v) la colocación de fondos en el mercado de capitales.
 
-Cada sociedad filial tendrá como objeto exclusivo uno de los giros señalados en los literales anteriores, salvo en el caso de las sociedades señaladas en la letra a), las que podrán complementar el giro principal con la actividad de asesorías financieras a que se refiere la letra e), siempre que lo admitan las normas pertinentes.
+Cada sociedad filial tendrá como objeto exclusivo uno de los giros señalados en los literales anteriores, salvo en el caso de las sociedades señaladas en la letra a), las que podrán complementar el giro principal con la actividad de asesorías financieras a que se refiere la letra f), siempre que lo admitan las normas pertinentes.
 
 ### 2. Participación en sociedades filiales
 
@@ -16778,55 +16720,15 @@ del artículo 65 de la Ley General de Bancos.
 
 ### 6. Inversión en sociedades filiales
 
-La inversión en capital que una entidad bancaria realice en empresas filiales
+La inversión en capital que una entidad bancaria realice en empresas filiales queda sujeta al límite establecido en el inciso penúltimo del artículo 83 de la Ley General de Bancos. La inversión en cuestión se valorizará de acuerdo con lo dispuesto en el numeral 13.1 de este capítulo.
 
-queda sujeta al límite establecido en el inciso penúltimo del artículo 83 de la
+Atendidas las normas de contabilidad generalmente aceptadas y las prácticas bancarias internacionales, que buscan formas de consolidar el banco matriz con sus filiales, y las disposiciones del artículo 82 de la Ley General de Bancos, se establece que el capital que un banco aporte a una sociedad filial será deducido de su capital y reservas para los efectos de la aplicación del margen a
 
-Ley General de Bancos. La inversión en cuestión se valorizará de acuerdo con lo
+que se refiere el artículo 81 de dicha ley. Sin embargo, en la medida en que el pasivo exigible de la sociedad filial no supere el monto de su capital pagado y reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto delas obligaciones de la filial con terceros y con el porcentaje de participación del banco en el capital de la filial.
 
-dispuesto en el numeral 13.1 de este capítulo.
+Conforme a lo anterior, el monto a deducir del capital y reservas del banco matriz se obtendrá multiplicando el porcentaje de participación que éste tenga en la filial, por el monto de los pasivos exigibles que ella registre el último día del trimestre calendario inmediatamente anterior, excluidos los que correspondan a obligaciones con el propio banco matriz.
 
-Atendidas las normas de contabilidad generalmente aceptadas y las prácticas
-
-bancarias internacionales, que buscan formas de consolidar el banco matriz con
-
-sus filiales, y las disposiciones del artículo 82 de la Ley General de Bancos,
-
-se establece que el capital que un banco aporte a una sociedad filial será
-
-deducido de su capital y reservas para los efectos de la aplicación del margen a
-
-que se refiere el artículo 81 de dicha ley. Sin embargo, en la medida en que el
-
-pasivo exigible de la sociedad filial no supere el monto de su capital pagado y
-
-reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto
-
-delas obligaciones de la filial con terceros y con el porcentaje de
-
-participación del banco en el capital de la filial.
-
-Conforme a lo anterior, el monto a deducir del capital y reservas del banco
-
-matriz se obtendrá multiplicando el porcentaje de participación que éste tenga
-
-en la filial, por el monto de los pasivos exigibles que ella registre el último
-
-día del trimestre calendario inmediatamente anterior, excluidos los que
-
-correspondan a obligaciones con el propio banco matriz.
-
-En todo caso, el monto que los bancos deberán deducir de su capital pagado y
-
-reservas de conformidad con las normas precedentes, no podrá exceder al importe
-
-en que la inversión se encuentre registrada en el activo a la fecha de cómputo
-
-del margen de endeudamiento, deducida la provisión que se encuentre constituida
-
-a esa fecha por la respectiva inversión, según las instrucciones del numeral
-
-13.2 de este capítulo.
+En todo caso, el monto que los bancos deberán deducir de su capital pagado y reservas de conformidad con las normas precedentes, no podrá exceder al importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo del margen de endeudamiento.
 
 ### 7. Créditos a sociedades filiales
 
@@ -16854,41 +16756,13 @@ bancos no podrán recibir en garantía bienes de sus sociedades filiales.
 
 ### 8. Fiscalización de las sociedades filiales
 
-De conformidad con lo establecido en la letra a) del N° 11 bis del artículo 83
+De conformidad con lo establecido en la letra a) del N° 11 bis del artículo 83 de la Ley General de Bancos, las sociedades filiales de bancos cuyo giro sea la intermediación de valores, ya sea en la forma de agentes de valores, administradoras de fondos mutuos, administradoras de fondos de inversión o corredores de bolsa, deberán someterse a las leyes que rigen tales actividades y serán fiscalizadas por la Superintendencia de Valores y Seguros. A estas sociedades les serán aplicables, además de todas las normas dictadas por ese Organismo, aquéllas de carácter general relativas a filiales de bancos impartidas por esta Superintendencia.
 
-de la Ley General de Bancos, las sociedades filiales de bancos cuyo giro sea la
+Todas las sociedades filiales distintas de las mencionadas en el párrafo precedente quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, les son aplicables las disposiciones del D.L. N° 1.097 y las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
 
-intermediación de valores, ya sea en la forma de agentes de valores,
+Esta Superintendencia podrá requerir a los bancos toda la documentación relativa a sus sociedades filiales que estime pertinente.
 
-administradoras de fondos mutuos o corredores de bolsa, deberán someterse a las
-
-leyes que rigen tales actividades y serán fiscalizadas por la Superintendencia
-
-de Valores y Seguros. A estas sociedades les serán aplicables, además de todas
-
-las normas dictadas por ese Organismo, aquéllas de carácter general relativas a
-
-filiales de bancos impartidas por esta Superintendencia.
-
-Todas las sociedades filiales distintas de las mencionadas en el párrafo
-
-precedente quedan sujetas a la fiscalización de esta Superintendencia y, por lo
-
-tanto, les son aplicables las disposiciones del D.L. N° 1.097 y las normas que
-
-este Organismo les imparta, de acuerdo con las facultades que le confiere la
-
-ley.
-
-Esta Superintendencia podrá requerir a los bancos toda la documentación relativa
-
-a sus sociedades filiales que estime pertinente.
-
-Las sociedades filiales que quedan sujetas a la fiscalización de esta
-
-Superintendencia deberán cumplir con los requerimientos de información de este
-
-Organismo desde el momento en que se constituyan.
+Las sociedades filiales que quedan sujetas a la fiscalización de esta Superintendencia deberán cumplir con los requerimientos de información de este Organismo desde el momento en que se constituyan.
 
 ### 9. Aplicación de la Ley de Mercado de Valores
 
@@ -16904,47 +16778,23 @@ inscritos en esta Superintendencia y de acuerdo con las normas que se dicten
 
 para tal efecto.
 
-### 10. Estados financieros
+### 10. Información de la situación financiera de las sociedades filiales
 
-Los estados financieros que las sociedades filiales deben preparar, referidos al
+10.1. Estados financieros anuales.
 
-31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año, serán
+Los estados financieros anuales de empresas filiales de bancos deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia.
 
-enviados a esta Superintendencia dentro de un plazo que vencerá el quinto día
+Un resumen de dichos estados formará parte de las notas a los estados financieros de la empresa matriz, los que deberán contener una nota especial en la cual se resuman las operaciones realizadas con sus filiales.
 
-hábil del mes subsiguiente a aquél a que se refiere el respectivo balance, con
+Los estados financieros de las filiales, correspondientes al ejercicio anual, serán entregados a esta Superintendencia dentro del mismo plazo establecido para que el banco matriz envíe sus propios estados financieros a este Organismo y deberán ser publicados en el mismo periódico en que el banco publique los suyos.
 
-excepción del último, cuyo plazo de entrega se regirá por lo dispuesto en el
+Cada una de las sociedades filiales deberá hacer llegar sus estados financieros dentro del plazo indicado, salvo cuando se trate de sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros, en cuyo caso será responsabilidad del respectivo banco matriz el envío oportuno de dichos estados.
 
-párrafo siguiente.
+10.2. Estados de situación preparados en fechas intermedias.
 
-Los estados financieros de las filiales, correspondientes al ejercicio
+Además de los estados financieros anuales auditados, las sociedades filiales deberán enviar periódicamente a esta Superintendencia los estados de situación que este Organismo les exija para efectos de fiscalización.
 
-anual,serán entregados a esta Superintendencia dentro del mismo plazo
-
-establecido para que el banco matriz envíe sus propios estados financieros a
-
-este Organismo y deberán ser publicados en el mismo periódico en que el banco
-
-publique los suyos.
-
-Cada una de las sociedades filiales deberá hacer llegar sus estadas financieros
-
-dentro de los plazos indicados, salvo cuando se trate de sociedades sujetas a la
-
-fiscalización de la Superintendencia de Valores y Seguros, en cuyo caso será
-
-responsabilidad del respectivo banco matriz el envío oportuno de dichos estados.
-
-Los estados financieros anuales de empresas filiales de bancas deberán ser
-
-auditados por una firma de auditores externos. Un resumen de dichos estados
-
-formará parte de las notas a los estados financieros de la empresa matriz, los
-
-que deberán contener una nota especial en la cual se resuman las operaciones
-
-realizadas con sus filiales.
+Al tratarse de sociedades fiscalizadas por la Superintendencia de Valores y Seguros, los bancos deberán hacer llegar a este Organismo, además de los estados financieros anuales de que trata el numeral precedente, estados de situación referidos al 31 de marzo, 30 de junio y 30 de septiembre, dentro de un plazo que vencerá el quinto día hábil del mes subsiguiente a aquél a que se refiere el respectivo balance.
 
 ### 11. Operaciones de las sociedades filiales con partes relacionadas
 
@@ -16984,77 +16834,43 @@ En todo caso, las sociedades que se constituyan como corredores de bolsa pueden 
 
 ### 13. Instrucciones contables
 
-Las inversiones en sociedades filiales se contabilizarán de acuerdo con las siguientes disposiciones:
+Las inversiones en sociedades filiales se contabilizarán de acuerdo con las siguientes instrucciones:
 
 13.1. Valorización de las inversiones.
 
-Las acciones o derechos en las sociedades de que trata este capítulo, se registrarán en el activo a su valor de costo más corrección monetaria. La participación sobre las utilidades de las empresas filiales se reconocerá en el momento de percibirse los dividendos o beneficios que éstas repartan.
+Las acciones o derechos en las sociedades de que trata este Capítulo se registrarán en el activo a su valor patrimonial proporcional (VPP).
 
-En el evento de adquirirse acciones o derechos en sociedades ya constituidas, por un valor mayor que el valor patrimonial proporcional a que se refiere el numeral 13.2 de este capítulo, se llevará a la respectiva cuenta de inversiones solamente el monto correspondiente al valor patrimonial proporcional determinado a la fecha de compra. La diferencia con respecto al costo se registrará en una cuenta del activo transitorio y se traspasará a resultados en el plazo máximo de 24 meses, de la forma dispuesta en la letra e) del numeral 13.4 de este capítulo.
+Dicho método de contabilización se aplicará de acuerdo con criterios contables de aceptación general, debiendo reconocerse proporcionalmente los resultados y, cuando proceda, las demás variaciones patrimoniales y los efectos de los resultados no realizados y de la aplicación uniforme de criterios de contabilización, de manera que el efecto en el resultado neto del banco matriz sea el mismo que se obtendría si las empresas hubieran sido consolidadas.
 
-13.2. Provisiones.
+El cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión deberán efectuarse mensualmente y podrán basarse en los resultados obtenidos por la filial hasta el mes inmediatamente anterior, salvo cuando se trate del cierre del ejercicio anual, en que se deberán tomar los resultados definitivos de la respectiva filial hasta el 31 de diciembre.
 
-En todo momento los bancos deberán mantener provisiones por cada filial que tuvieren, para cubrir las diferencias que existieren entre el valor registrado en el activo y el valor patrimonial proporcional, cuando éste último sea menor.
+13.2. Cuentas que se utilizarán.
 
-El mencionado valor patrimonial proporcional corresponderá al monto que se obtiene de aplicar el porcentaje de participación que tiene el banco en la correspondiente filial, al total del patrimonio que muestren los estados financieros de esta última; esto es el capital, reservas y resultado acumulado.Este valor se utilizará exclusivamente para determinar las eventuales pérdidas con el fin de constituir las provisiones que correspondan y no debe ser objeto de ajustes adicionales.
+Las inversiones en sociedades filiales se registrarán en la cuenta "Inversiones en sociedades filiales", de la partida 2320 del MB1. Al cierre de cada mes dicha cuenta será corregida monetariamente y luego se cargará o abonará a ella, según proceda, el importe correspondiente a la proporción de las utilidades o las pérdidas de la sociedad filial. A esta cuenta se abonarán también los dividendos o utilidades repartidos por la sociedad filial al banco matriz.
 
-La comparación entre el valor contable de la inversión y el referido valor patrimonial proporcional deberá efectuarse mensualmente y podrá basarse en los resultados obtenidos por la filial hasta el mes inmediatamente anterior. Sin embargo, al tratarse del cierre del ejercicio anual y si la sociedad filial tuviere pérdidas, el valor patrimonial proporcional deberá considerar los resultados hasta el 31 de diciembre. En este caso, el banco matriz deberá hacer,antes de la entrega de los formularios MB1 y MR1 a esta Superintendencia, los ajustes necesarios para la presentación de sus propios estados financieros.
+Al tratarse de una nueva sociedad, el registro en la cuenta "Inversiones en sociedades filiales" se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
 
-13.3. Subcuentas para el registro por cada filial.
+Las utilidades reconocidas proporcionalmente se registrarán en la cuenta "Utilidades de inversiones en sociedades" de la partida 8315 del MR1, en tanto que las pérdidas se imputarán a la cuenta "Pérdidas por inversiones en sociedades" de la partida 6315.
 
-Para cada una de las cuentas que se mencionan en el numeral siguiente, se abrirán subcuentas, cuando corresponda, con las siguientes denominaciones;"Agencia de valores", "Administradora de Fondos Mutuos", "Empresa leasing","Administradora de tarjetas de crédito", o "Asesorías financieras". Se entenderá que las imputaciones a las cuentas que se indican están referidas a
+13.3. Diferencias entre el valor pagado y el valor patrimonial proporcional.
 
-las subcuentas correspondientes.
+En el evento de que se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el costo y el valor patrimonial proporcional determinado a la fecha de la adquisición, se tratarán de la siguiente forma:
 
-13.4. Contabilizaciones.
+a) Si el valor pagado es mayor que el VPP:
 
-a) Constitución o compra de acciones o derechos en una sociedad filial.
+Cuando el valor pagado sea mayor que el valor patrimonial proporcional, se registrará la diferencia en la cuenta "Mayor valor pagado en inversiones en sociedades", de la partida 2120 del MB1.
 
-Debe: - "Inversiones en sociedades", de la partida 2320 del formulario MB1, por el costo o el valor patrimonial proporcional, el que sea menor.
+El importe registrado en esa cuenta se traspasará al término de cada mes a la cuenta de resultados "Amortización mayor valor pagado en inversiones en sociedades", de la partida 6315 del MR1, en cuotas consecutivas, equivalentes a lo menos al 4% del mayor valor pagado y corregidas monetariamente, de manera que se amortice dentro de un plazo máximo de 2 años a contar del mes siguiente a aquel en que se efectúa la inversión.
 
-- "Mayor valor pagado en inversiones", de la partida 2120, por la diferencia entre el valor patrimonial proporcional y el monto efectivamente pagado, cuando este último sea mayor.
+En todo caso, el monto que se lleve a resultados en un ejercicio no podrá ser inferior a las utilidades proporcionales reconocidas en el mismo ejercicio por la inversión en la respectiva sociedad filial, debiéndose efectuar, cuando corresponda, una amortización adicional con la consiguiente reducción del plazo originalmente establecido para extinguir el saldo de la cuenta "Mayor valor pagado en inversiones en sociedades".
 
-Haber: - "Caja", o la cuenta que corresponda.
+b) Si el valor pagado es menor que el VPP:
 
-Al tratarse de una nueva sociedad, el registro se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
+Cuando el valor pagado sea menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Mayor valor de inversiones en sociedades", de la partida 4120 del MB1. El monto acreditado a esa cuenta se extinguirá mediante traspasos mensuales a la cuenta "Utilidad por mayor valor de inversiones en sociedades", de la partida 8315 del MR1, en un plazo mínimo de 5 años, en cuotas iguales, consecutivas y corregidas monetariamente.
 
-Cuando se adquieran acciones o derechos en sociedades ya constituidas, por un menor valor que el valor patrimonial proporcional, la diferencia entre ambos no será reconocida contablemente.
+No obstante lo anterior, si la respectiva sociedad filial incurriere en pérdidas en un ejercicio, el monto que se traspase a resultados en ese ejercicio podrá ser equivalente a las pérdidas proporcionales reconocidas por la inversión.
 
-b) Provisiones sobre inversiones en sociedades.
-
-Debe: "Provisiones sobre inversiones en sociedades", de la partida 6135 del formulario MR1, "Provisiones sobre activo fijo financiero".
-
-Haber: "Provisiones sobre inversiones en sociedades", de la partida 4240 del formulario MB1, "Provisiones sobre activo fijo financiero".
-
-c) Dividendos o repartos de utilidades de la filial.
-
-Debe: "Caja" o la cuenta que corresponda, por el importe recibido.
-
-Haber: "Dividendos obtenidos de inversiones en sociedades", que se demostrará en la partida 8315 del formulario MR1.
-
-d) Liberaciones de provisiones.
-
-Debe: "Provisiones sobre inversiones en sociedades", de la partida 4240 del formulario MB1.
-
-Haber: - "Provisiones sobre inversiones en sociedades", de la partida 6135 antes
-
-mencionada, para revertir el cargo hasta por el saldo, si fuese el caso.
-
-- "Liberación de provisiones sobre inversiones en sociedades", por la diferencia
-
-que hubiere entre el total de la disminución de las provisiones y el cargo
-
-efectuado para incrementarla en el ejercicio. Esta cuenta se demuestra en la
-
-partida 8110 del formulario MR1.
-
-e) Amortización del mayor valor pagado por acciones o derechos en sociedades.
-
-Debe: "Amortización mayor valor pagado en inversiones en sociedades", que se abrirá para ese efecto en la partida 6315 del formulario MR1.
-
-Haber: "Mayor valor pagado en inversiones en sociedades", de la partida 2120 del formulario MB1."
-
-Se traspasará mensualmente a resultados el valor que resulte de dividir el respectivo saldo no amortizado, de la cuenta "Mayor valor pagado en inversiones en sociedades", por la cantidad de meses que resten para cumplirse el plazo de amortización. No obstante, el monto que se lleve a resultados en un ejercicio no podrá ser inferior a la utilidad que se obtuviere, en el mismo ejercicio, por la percepción de dividendos o distribución de utilidades de la correspondiente sociedad filial.
+Si se enajenaren las inversiones que hayan originado los saldos remanentes de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Mayor valor de inversiones en sociedades" señaladas en las letras a) y b) precedentes, se aplicarán estos saldos como mayor o menor costo del activo vendido, respectivamente. Al tratarse de enajenaciones parciales, los saldos se revertirán en forma proporional al monto enajenado.
 
 CAPITULO 11-3 (Bancos y Financieras)
 
@@ -17174,63 +16990,15 @@ de la Ley General de Bancos.
 
 ### 5. Inversión en sociedades de apoyo
 
-La inversión en capital que una entidad financiera realice en empresas de apoyo
+La inversión en capital que una entidad financiera realice en empresas de apoyo queda sujeta al límite establecido en el inciso penúltimo del artículo 83 de la Ley General de Bancos. La inversión en cuestión se valorizará de acuerdo con lo dispuesto en el numeral 12.1 de este capítulo.
 
-queda sujeta al límite establecido en el inciso penúltimo del artículo 83 de la
+Atendidas las normas de contabilidad generalmente aceptadas y las prácticas bancarias internacionales, que buscan formas de consolidar el banco matriz con sus filiales, y las disposiciones del artículo 82 de la Ley General de Bancos, se establece que el capital que una institución financiera aporte a una sociedad de apoyo al giro, será deducido de su capital y reservas para los efectos de la aplicación del margen a que se refieren los artículos 81 y 115 de la dicha ley,cuando la empresa de apoyo tenga la calidad de sociedad filial de acuerdo con las disposiciones del artículo 86 de la Ley sobre Sociedades Anónimas. Sin embargo, en la medida en que el pasivo exigible de la sociedad filial no supere el monto de su capital pagado y reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto de las obligaciones de la filial con terceros y con el porcentaje de participación de la institución financiera en el capital de su filial.
 
-Ley General de Bancos. La inversión en cuestión se valorizará de acuerdo con lo
-
-dispuesto en el numeral 11.1 de este capítulo.
-
-Atendidas las normas de contabilidad generalmente aceptadas y las prácticas
-
-bancarias internacionales, que buscan formas de consolidar el banco matriz con
-
-sus filiales, y las disposiciones del artículo 82 de la Ley General de Bancos,
-
-se establece que el capital que una institución financiera aporte a una sociedad
-
-de apoyo al giro, será deducido de su capital y reservas para los efectos de la
-
-aplicación del margen a que se refieren los artículos 81 y 115 de la dicha
-
-ley,cuando la empresa de apoyo tenga la calidad de sociedad filial de acuerdo
-
-con las disposiciones del artículo 86 de la Ley sobre Sociedades Anónimas. Sin
-
-embargo, en la medida en que el pasivo exigible de la sociedad filial no supere
-
-el monto de su capital pagado y reservas, dicha deducción se hará sólo
-
-parcialmente y de acuerdo con el monto de las obligaciones de la filial con
-
-terceros y con el porcentaje de participación de la institución financiera en el
-
-capital de su filial.
-
-Conforme a lo anterior, el monto a deducir del capital y reservas de la
-
-institución financiera matriz se obtendrá multiplicando el porcentaje de
-
-participación que ésta tenga en la filial, por el monto de los pasivos exigibles
-
-que la empresa de apoyo registre el último día del trimestre calendario
-
-inmediatamente anterior, excluidos los que correspondan a obligaciones con la
+Conforme a lo anterior, el monto a deducir del capital y reservas de la institución financiera matriz se obtendrá multiplicando el porcentaje de participación que ésta tenga en la filial, por el monto de los pasivos exigibles que la empresa de apoyo registre el último día del trimestre calendario inmediatamente anterior, excluidos los que correspondan a obligaciones con la
 
 propia institución financiera matriz.
 
-En todo caso, el monto que las instituciones financieras deberán deducir de su
-
-capital pagado y reservas de conformidad con las normas precedentes, no podrá
-
-exceder al importe en que la inversión se encuentre registrada en el activo a la
-
-fecha de cómputo del margen de endeudamiento, deducida la provisión que se
-
-encuentre constituida a esa fecha por la respectiva inversión, según las
-
-instrucciones del numeral 11.2 de este capítulo.
+En todo caso, el monto que las instituciones financieras deberán deducir de su capital pagado y reservas de conformidad con las normas precedentes, no podrá exceder al importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo del margen de endeudamiento.
 
 ### 6. Créditos a empresas de apoyo
 
@@ -17258,69 +17026,11 @@ garantía bienes de sus sociedades de apoyo.
 
 ### 7. Fiscalización de las sociedades de apoyo
 
-Las sociedades a que se refiere el N° 15 bis del artículo 83 de la Ley General
+Las sociedades a que se refiere el N° 15 bis del artículo 83 de la Ley General de Bancos quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, les son aplicables las disposiciones del Decreto Ley N° 1.097 y las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
 
-de Bancos quedan sujetas a la fiscalización de esta Superintendencia y, por lo
+Los servicios que preste una sociedad de apoyo a una institución financiera, deben contar con la conformidad previa de esta Superintendencia.
 
-tanto, les son aplicables las disposiciones del D.L. N° 1.097 y las normas que
-
-este Organismo les imparta, de acuerdo con las facultades que le confiere la
-
-ley.
-
-Sin perjuicio de las normas que al respecto pueda impartir esta Superintendencia
-
-a las sociedades de apoyo, es condición para que una institución financiera
-
-participe en una empresa de apoyo, que la contabilidad de esta última se lleve
-
-de acuerdo con principios de contabilidad generalmente aceptados. Por otra
-
-parte, los servicios que preste una sociedad de apoyo a una institución
-
-financiera, deben contar con la conformidad previa de esta Superintendencia.
-
-Las sociedades de apoyo deberán enviar a este Organismo Contralor, estados
-
-financieros referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de
-
-diciembre de cada año. Con excepción del último, cuya entrega se regirá por lo
-
-dispuesto en el párrafo siguiente, estos estados financieros se entregarán
-
-dentro de un plazo que vencerá el quinto día del mes subsiguiente a aquél a que
-
-se refiere el balance.
-
-Los estados financieros de las empresas de apoyo, correspondientes al ejercicio
-
-anual, serán entregados a esta Superintendencia dentro del mismo plazo
-
-establecido para la entrega de los balances auditados de los bancos y sociedades
-
-financieras y deberán ser publicados en el mismo periódico en que publique los
-
-suyos la institución que tenga participación mayoritaria en la respectiva
-
-sociedad o, cuando existan partícipes con aportes iguales, en el periódico en
-
-que cualquiera de ellos hubiera publicado su propio balance.
-
-Los estados financieros anuales de las empresas a que se refiere este capítulo
-
-deberán ser auditados por una firma de auditores externos. Un resumen de ellos
-
-formará parte de las notas a los estados financieros de las instituciones
-
-fiscalizadas socias que tengan una participación igual o superior a un 50%, sin
-
-perjuicio de las instrucciones específicas que se impartan para la preparación
-
-de las notas, en lo relativo a la naturaleza y valor de la respectiva inversión.
-
-Las sociedades de apoyo al giro deberán cumplir con los requerimientos de
-
-información de esta Superintendencia desde el momento en que se constituyan.
+Las sociedades de apoyo al giro deben enviar a esta Superintendencia para efectos de fiscalización, la información establecida en las normas generales o instrucciones específicas impartidas a dichas sociedades, las que comprenden, entre otras, la exigencia de remitir estados de situación en forma periódica.
 
 ### 8. Aplicación de la Ley de Mercado de Valores
 
@@ -17380,79 +17090,67 @@ informarse de las razones por las cuales la inversión es imprescindible para el
 
 desarrollo del giro.
 
-### 11. Instrucciones contables
+### 11. Estados financieros anuales
 
-Las inversiones en sociedades de apoyo se contabilizarán de acuerdo con las siguientes disposiciones:
+Los estados financieros anuales de las empresas de apoyo deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia y publicados en el mismo periódico en que publique los suyos la institución que tenga participación mayoritaria en la respectiva sociedad o, cuando existan partícipes con aportes iguales, en el periódico en que cualquiera de ellos hubiera publicado su propio balance.
 
-11.1. Valorización de las inversiones.
+Dichos estados financieros deben ser entregados por las respectivas sociedades a esta Superintendencia dentro del mismo plazo establecido para que los bancos y sociedades financieras envíen sus propios estados financieros a este Organismo.
 
-Las acciones o derechos en las sociedades de que trata este capítulo, se registrarán en el activo a su valor de costo más corrección monetaria.
+Un resumen del balance de las sociedades de apoyo formará parte de las notas a los estados financieros de las instituciones fiscalizadas socias que tengan una participación igual o superior a un 50%.
 
-La participación sobre las utilidades de las respectivas empresas se reconocerá en el momento de percibirse los dividendos o beneficios que éstas repartan.
+### 12. Instrucciones contables
 
-En el evento de adquirirse acciones o derechos en sociedades ya constituidas, por un valor mayor que el valor patrimonial proporcional a que se refiere el numeral 11.2 de este capítulo, se llevará a la respectiva cuenta de inversiones solamente el monto correspondiente al valor patrimonial proporcional determinado a la fecha de compra. La diferencia con respecto al costo se registrará en una cuenta del activo transitorio y se traspasará a resultados en el plazo máximo de 24 meses, de la forma dispuesta en la letra e) del numeral 11.4 de este capítulo.
+Las inversiones en sociedades de apoyo se contabilizarán de acuerdo con las siguientes instrucciones, según el grado de participación que se tenga en ellas:
 
-11.2. Provisiones.
+12.1. Inversiones en sociedades de apoyo que sean filiales o coligadas de la institución financiera.
 
-En todo momento las instituciones financieras deberán mantener provisiones por cada empresa de apoyo en que tuvieren participación, para cubrir las diferencias que existieren entre el valor registrado en el activo y el valor patrimonial
+Cuando la institución financiera tenga una participación igual o superior al 10% en una sociedad de apoyo, o cuando pueda elegir o designar por lo menos un miembro del directorio o de la administración de la misma de acuerdo con los estatutos de la empresa de apoyo, la inversión se valorizará y registrará de la siguiente forma:
 
-proporcional, cuando este último sea menor.
+12.1.1. Valorización de las inversiones.
 
-El mencionado valor patrimonial proporcional corresponderá al monto que se obtiene de aplicar el porcentaje de participación que tiene la entidad financiera en la correspondiente sociedad, al total del patrimonio que muestren los estados financieros de esta última; esto es, el capital, reservas y resultado acumulado. Este valor se utilizará exclusivamente para determinar las eventuales pérdidas en la inversión realizada por la institución financiera, con el fin de constituir las provisiones que correspondan y no debe ser objeto de ajustes adicionales.
+Las acciones o derechos en las sociedades de apoyo antes señaladas se registrarán en el activo a su valor patrimonial proporcional (VPP).
 
-La comparación entre el valor contable de la inversión y el referido valor patrimonial proporcional deberá efectuarse mensualmente y podrá tener por base los resultados obtenidos hasta el mes inmediatamente anterior, por la sociedad
+Dicho método de contabilización se aplicará de acuerdo con criterios contables de aceptación general, debiendo reconocerse proporcionalmente los resultados y, cuando proceda, las demás variaciones patrimoniales y los efectos de los resultados no realizados y de la aplicación uniforme de criterios de contabilización, de manera que el efecto en el resultado neto de la institución financiera sea el mismo que se obtendría si las empresas hubieran sido consolidadas.
 
-en la que se participa.
+El cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión deberán efectuarse mensualmente y podrán basarse en los resultados obtenidos por la empresa de apoyo hasta el mes inmediatamente anterior, salvo cuando se trate del cierre del ejercicio anual, en que se deberán tomar los resultados definitivos de la respectiva sociedad hasta el 31 de diciembre.
 
-Sin embargo, al tratarse del cierre del ejercicio anual y si la sociedad de apoyo tuviere pérdidas, el valor patrimonial proporcional deberá considerar los resultados hasta el 31 de diciembre. En este caso, la institución que participa
+12.1.2. Cuentas que se utilizarán.
 
-en dicha sociedad deberá hacer, antes de la entrega de los formularios MB1 y MR1 a esta Superintendencia, los ajustes necesarios para la presentación de sus propios estados financieros.
+Las inversiones en las sociedades de que se trata se registrarán en la cuenta "Inversiones en sociedades de apoyo", de la partida 2320 del MB1. Al cierre de cada mes dicha cuenta será corregida monetariamente y luego se cargará o abonará a ella, según proceda, el importe correspondiente a la proporción de las utilidades o las pérdidas de la sociedad filial. A esta cuenta se abonarán también los dividendos o utilidades repartidos por la sociedad de apoyo a la institución financiera.
 
-11.3. Subcuentas para el registro.
+Al tratarse de una nueva sociedad, el registro en la cuenta "Inversiones en sociedades de apoyo"? se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
 
-Para cada una de las cuentas que se mencionan en el numeral siguiente, se abrirá una subcuenta, denominada "Empresas de apoyo". Se entenderá que las imputaciones a las cuentas que se indican están referidas a la subcuenta correspondiente.
+Las utilidades reconocidas proporcionalmente se registrarán en la cuenta "Utilidades de inversiones en sociedades" de la partida 8315 del MR1, en tanto que las pérdidas se imputarán a la cuenta "Pérdidas por inversiones en sociedades" de la partida 6315.
 
-11.4. Contabilizaciones.
+12.1.3. Diferencias entre el valor pagado y el valor patrimonial proporcional.
 
-a) Constitución o compra de acciones o derechos en una sociedad de apoyo al giro.
+En el evento de que se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el costo y el valor patrimonial proporcional determinado a la fecha de la adquisición, se tratarán de la siguiente forma:
 
-Debe: - "Inversiones en sociedades", de la partida 2320 del formulario MB1, por el costo o el valor patrimonial proporcional,el que sea menor.
+a) Si el valor pagado es mayor que el VPP:
 
-- "Mayor valor pagado en inversiones", de la partida 2120, por la diferencia entre el valor patrimonial proporcional y el monto efectivamente pagado, cuando este último sea mayor.
+Cuando el valor pagado sea mayor que el valor patrimonial proporcional, se registrará la diferencia en la cuenta "Mayor valor pagado en inversiones en sociedades", de la partida 2120.
 
-Haber: - "Caja", o la cuenta que corresponda.
+El importe registrado en esa cuenta se traspasará al término de cada mes a la cuenta de resultados "Amortización mayor valor pagado en inversiones en sociedades", de la partida 6315 del MR1, en cuotas consecutivas, equivalentes a lo menos al 4% del mayor valor pagado y corregidas monetariamente, de manera que se amortice dentro de un plazo máximo de 2 años a contar del mes siguiente a aquel en que se efectúa la inversión.
 
-Al tratarse de una nueva sociedad, el registro se efectuará al momento de girarse el aporte de capital o pagarse las acciones suscritas.
+En todo caso, el monto que se lleve a resultados en un ejercicio no podrá ser inferior a las utilidades proporcionales reconocidas en el mismo ejercicio por la inversión en la respectiva sociedad filial, debiéndose efectuar, cuando corresponda, una amortización adicional con la consiguiente reducción del plazo originalmente establecido para extinguir el saldo de la cuenta "Mayor valor pagado en inversiones en sociedades".
 
-Cuando se adquieran acciones o derechos en sociedades ya constituidas, por un menor valor que el valor patrimonial proporcional, la diferencia entre ambos no será reconocida contablemente.
+b) Si el valor pagado es menor que el VPP: Cuando el valor pagado sea menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Mayor valor de inversiones en sociedades", de la partida 4120 del MB1.
 
-b) Provisiones sobre inversiones en sociedades.
+El monto acreditado a esa cuenta se extinguirá mediante traspasos mensuales a la cuenta "Utilidad por mayor valor de inversiones en sociedades", de la partida 8315 del MR1, en un plazo mínimo de 5 años, en cuotas iguales, consecutivas y corregidas monetariamente.
 
-Debe: - "Provisiones sobre inversiones en sociedades", de la partida 6135 del formulario MR1.
+No obstante lo anterior, si la respectiva sociedad filial incurriere en pérdidas en un ejercicio, el monto que se traspase a resultados en ese ejercicio podrá ser equivalente a las pérdidas proporcionales reconocidas por la inversión.
 
-Haber: - "Provisiones sobre inversiones en sociedades", de la partida 4240 del formulario MB1.
+Si se enajenaren las inversiones que hayan originado los saldos remanentes de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Mayor valor de inversiones en sociedades" señaladas en las letras a) y b) precedentes, se aplicarán estos saldos como mayor o menor costo del activo vendido, respectivamente. Al tratarse de enajenaciones parciales, los saldos se revertirán en forma proporcional al monto enajenado.
 
-c) Dividendos o repartos de utilidades de la filial.
+12.2. Inversiones con menor participación.
 
-Debe: - "Caja" o la cuenta que corresponda, por el importe recibido.
+Cuando la institución financiera tenga en una sociedad de apoyo, una participación inferior a la señalada en el numeral 12.1 anterior, las inversiones se registrarán a su valor de costo más corrección monetaria, en la cuenta "Inversiones en sociedades de apoyo" antes mencionada.
 
-Haber: - "Dividendos obtenidos de inversiones en sociedades", que se demostrará en la partida 8315 del formulario MR1.
+En este caso, la institución financiera deberá constituir provisiones sobre dichas inversiones para cubrir el menor valor que puedan tener sus acciones o derechos, tomando como valor de referencia de éstos el que se obtiene de aplicar el porcentaje de participación en la sociedad al total del patrimonio contable que muestren los estados financieros de la empresa de apoyo, esto es, el capital, reservas y resultado acumulado por lo menos hasta el cierre del mes precedente.
 
-d) Liberaciones de provisiones.
+Dichas provisiones se constituirán abonando la cuenta "Provisiones sobre inversiones en sociedades", de la partida 4240 del MB1, con cargo a la cuenta del mismo nombre de la partida 6135 del MR1. Cuando el monto de las provisiones constituidas exceda el monto exigido, las instituciones financieras liberarán el exceso revirtiendo esa contabilización y llevando la parte que provenga del ejercicio anterior, cuando corresponda, a la cuenta "Liberación de provisiones sobre inversiones en sociedades" de la partida 8110 del MR1.
 
-Debe: - "Provisiones sobre inversiones en sociedades", de la partida 4240 del formulario MB1.
-
-Haber: - "Provisiones sobre inversiones en sociedades", de la partida 6135, para revertir el cargo hasta por el saldo, si fuese el caso.
-
-- "Liberación de provisiones sobre inversiones en sociedades", por la diferencia que hubiere entre el total de la disminución de las provisiones y el cargo efectuado para incrementarla en el ejercicio. Esta cuenta se demostrará en la partida 8110 del formulario MR1.
-
-e) Amortización del mayor valor pagado por acciones o derechos en sociedades.
-
-Debe: - "Amortización mayor valor pagado en inversiones en sociedades", que se abrirá para ese efecto en la partida 6315 del formulario MR1.
-
-Haber: - "Mayor valor pagado en inversiones en sociedades", de la partida 2120 del formulario MB1."
-
-Se traspasará mensualmente a resultados el valor que resulte de dividir el respectivo saldo no amortizado, de la cuenta "Mayor valor pagado en inversiones en sociedades", por la cantidad de meses que resten para cumplirse el plazo de amortización. No obstante, el monto que se lleve a resultados en un ejercicio no podrá ser inferior a la utilidad que se obtuviere, en el mismo ejercicio, por la percepción de dividendos o distribución de utilidades de la correspondiente sociedad de apoyo al giro.
+Por otra parte, en el caso de las inversiones de que trata este numeral, los dividendos o beneficios que las empresas de apoyo repartan a la institución financiera se acreditarán a la cuenta "Dividendos obtenidos de inversiones en sociedades", de la partida 8315 del MR1, por los importes efectivamente percibidos.
 
 CAPITULO 12-1 (Bancos y Financieras)
 
@@ -17478,13 +17176,11 @@ No obstante, la parte así computada no podrá superar el 20% del capital pagado
 
 1.3. Deducción al capital y reservas para los efectos del artículo 81 ó 115 de la Ley General de Bancos, de las inversiones en sociedades filiales o de apoyo.
 
-El capital que una institución financiera aporte a una sociedad, al amparo de lo dispuesto en el N° 11 bis o en el N° 15 bis del artículo 83 de la Ley General de
-
-Bancos, será deducido de su capital pagado y reservas para los efectos de la aplicación del margen a que se refieren los artículos 81 y 115 de dicha ley, cuando la empresa en la que participa el banco o la sociedad financiera tenga la calidad de sociedad filial de acuerdo con las disposiciones del artículo 86 de la Ley sobre Sociedades Anónimas. Sin embargo, en la medida en que el pasivo exigible de la sociedad filial no supere el monto de su propio capital pagado y reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto delas obligaciones de la filial con terceros y con el porcentaje de participación de la institución financiera en el capital de su filial.
+El capital que una institución financiera aporte a una sociedad, al amparo de lo dispuesto en el N° 11 bis o en el N° 15 bis del artículo 83 de la Ley General de Bancos, será deducido de su capital pagado y reservas para los efectos de la aplicación del margen a que se refieren los artículos 81 y 115 de dicha ley, cuando la empresa en la que participa el banco o la sociedad financiera tenga la calidad de sociedad filial de acuerdo con las disposiciones del artículo 86 de la Ley sobre Sociedades Anónimas. Sin embargo, en la medida en que el pasivo exigible de la sociedad filial no supere el monto de su propio capital pagado y reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto delas obligaciones de la filial con terceros y con el porcentaje de participación de la institución financiera en el capital de su filial.
 
 Para dar cumplimiento a lo anterior, el monto a deducir del capital y reservas de la institución financiera matriz se obtendrá multiplicando el porcentaje de participación que ésta tenga en el capital pagado de la filial, por el monto delos pasivos exigibles que esta última registre el último día del trimestre calendario inmediatamente anterior, excluidos los que correspondan a obligaciones con la propia institución financiera matriz.
 
-En todo caso, el monto máximo que las instituciones financieras deberán deducir de su capital pagado y reservas de conformidad con las normas precedentes, será equivalente al importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo del margen de endeudamiento, deducida la provisión que se encuentre constituida a esa fecha por la respectiva inversión.
+En todo caso, el monto máximo que las instituciones financieras deberán deducir de su capital pagado y reservas de conformidad con las normas precedentes, será equivalente al importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo del margen de endeudamiento.
 
 El monto que corresponde rebajar del capital pagado y reservas para establecer, al término de cada mes, aquel que debe considerarse para efectos del artículo 81 ó 115 de la Ley General de Bancos, según las instrucciones de este numeral, se registrará en la cuenta "Deducción del capital por participación en filiales", de la partida 9700, "Valores complementarios para efectos de márgenes", del MB1, con abono a la cuenta "Responsabilidad por control de límites legales", de la partida 9900.
 
