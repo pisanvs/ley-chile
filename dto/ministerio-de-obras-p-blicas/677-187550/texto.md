@@ -1,0 +1,3 @@
+Por decreto MOP Nº677 de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº62, superficie 130 m², rol de avalúo 2213-430, comuna de Chillán, para la obra "Camino Ruta N-45, Sector Cruce N-49 (Chillán)- La Capilla-Tres Esquinas, Km. 6,26000 a Km. 28,54000" y se acordó el valor de indemnización con su propietario Carlos Vargas Baquedano, ascendente a la cantidad de $161.148.-
+
+Fiscal del Ministerio de Obras Públicas.
