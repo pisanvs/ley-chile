@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.392, de 31 de mayo de 1999, se expropió el lote de terreno Nº 2, superficie 70 m2., rol de avalúo 839-134, comuna de Parral, para la obra Camino Ruta 5, Tramo Talca - Chillán, Sector Solución Calle de Servicio Sector Las Tinajas, Séptima Región y se acordó el valor de indemnización con su propietario Juan Francisco Arias, ascendente a la cantidad de $282.015.-
+
+Fiscal del Ministerio de Obras Públicas.
