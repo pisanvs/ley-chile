@@ -1,0 +1,3 @@
+Por decreto MOP Nº 790, de 17 de mayo de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 11, para la obra Canal Alimentador Kms 0,000,00 al 15,084,59, Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias, que figura a nombre de Juan Guillermo Roco González, rol de avalúo 248-135, superficie 3.713,81 m², comuna de Salamanca. La comisión de peritos, con fecha 12 de febrero de 2001, fijó la indemnización provisional en la cantidad de $4.526.143, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
