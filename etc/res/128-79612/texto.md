@@ -1,0 +1,3 @@
+Por resolución No. 128, de 14 de Febrero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, derógase la Resolución No. 1830, de 1989, de esta Subsecretaría, por la cual se autorizó a don JOSE MIGUEL DONOSO PASTOR, R.U.T. No. 8.425.073-2. domiciliado en calle Pelantaro No. 1125, Concepción, para instalar y operar un establecimiento de cultivo del recurso alga del género Gracilaria, en Caleta Colcura, Comuna de Coronel, Golfo de Arauco, VIII Región, por renuncia de su titular.
+
+Valparaíso, 14 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
