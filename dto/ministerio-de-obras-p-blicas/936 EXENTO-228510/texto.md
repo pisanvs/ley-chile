@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 936 de 30 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió los lotes de terreno Nº s. 1 y 2, para la obra: "Mejoramiento Camino El Natre-Tres Cerros, Sector Puente El Natre, Tramo Km. 11,100 a Km. 11,200", que figuran a nombre de Parra Espana Abelino, rol de avalúo 3283-9, comuna de Vilcún, IX Región, superficies 466 y 134 m². respectivamente. La Comisión de Peritos, fijó con fecha 25 de noviembre de 2002 en las cantidades de
+
+$333.000.-lote 1 y $207.000.- lote 2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
