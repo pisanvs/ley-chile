@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.984, de 30 de junio del 2000, se expropió el lote de terreno Nº72, superficie 68 m2., rol de avalúo 49-25, comuna de Malloa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector G, Sexta Región, y se acordó el valor de indemnización con sus propietarios Marcela Clotilde Alvarez Cádiz y Otro, ascendente a la cantidad de $507.581.
+
+- Fiscal del Ministerio de Obras Públicas.
