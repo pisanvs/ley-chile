@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta No. 240, del 28 de Octubre de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Cuarta Región de Coquimbo, se autoriza al "Sindicato de Trabajadores Independientes de Taxis Colectivos Línea No. 5.- Vista Hermosa", para efectuar el servicio de taxi colectivo urbano de la Línea No. 5.- "Vista Hermosa-La Serena" cuyo trazado que a continuación se indica fue autorizado por Resolución Exenta No. 116, del 26 de Junio de 1984, de esta Secretaría Regional:
+
+Circunvalación: "A": Desde su terminal de calle Gabriel González Videla, a 150 metros Sur de Av. Cuatro Esquinas, en La Serena, continúa por Gabriel González Videla Huanhualí - Benavente - Colo Colo - Cienfuegos - Colón Pedro Pablo Muñoz - Av. Francisco de Aguirre - Larraín Alcalde- Huanhuali - Gabriel González Videla - Los Jardines - Cisternas - Cuatro Esquinas Larraín Alcalde - Peñafiel - A. Berdnt - Huanhualt - Balmaceda - Domeyko - Cienfuegos - Colón - Pedro Pablo Muñoz - Av. Francisco de Aguirre - Larraín Alcalde- Huanhuali - Gabriel González Videla - hasta 150 metros Sur de Av. Cuatro Esquinas su terminal.
+
+Circunvalación: "B": Desde su terminal de Gabriel González Videla, a 150 metros Sur de Av. Cuatro Esquinas, continúa por Av. Cuatro Esquinas - J. Cisternas - Julio Díaz Guerrero - Gabriel González Videla - Huanhualí - Balmaceda - Domeyko - Cienfuegos - Colón Pedro Pablo Muñoz - Av. Francisco de Aguirre - Larraín Alcalde - Av. Cuatro Esquinas hasta su terminal de Gabriel González Videla.
+
+La Serena, 28 de Octubre de 1985.- Jorge Vargas Borcosky, Secretario Regional Ministerial de Transportes y Telecomunicaciones, IV Región de Coquimbo.
