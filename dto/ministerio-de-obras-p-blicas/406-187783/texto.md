@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 406, de 30 de Noviembre de 1984, se expropiaron los lotes N°s. 10 y 11 y se constituyó servidumbre en los lotes N°s, 12, 13, 14, 15 y 18, roles de avalúo 546-51 para los lotes 10,12, 13 y 14, 546-131 para los lotes ll y 18 y 546-87 para el lote 15, superficies 11.260 m²., 3.146 m²., 2.940 m²., 915 m²., 315 m²., 1.380 comuna de La Unión, X Región, para Agua Potable de La Unión y se acordó el precio de indemnización con sus propietarios don Teófilo Grob Werner, José Ancapi Antihual y Linos de Chile S.A., ascendente a $ 375.570 para los lotes 10, 12, 13 y 14: $ 116.663 para los lotes 11 y 18 y $ 26.040 para el lote 15.
+
+Fiscal del Ministerio de Obras Públicas.
