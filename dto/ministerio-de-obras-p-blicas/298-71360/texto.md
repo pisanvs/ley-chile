@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 298, de 31 de marzo de 1997, se expropió el lote de terreno Nº 116, superficie 38.278 m2., rol de avalúo 129-80, comuna de El Carmen, para la obra Proyecto Laja-Diguillín, Faja Expropiación Canal Matriz, Sector Pemuco Diguillín y se acordó precio de la indemnización con su propietario, José Eduardo Guíñez Herrera, ascendente a la cantidad de $11.953.071.-
+
+Fiscal del Ministerio de Obras Públicas.
