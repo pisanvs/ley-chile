@@ -1,0 +1,5 @@
+Por decreto MOP Nº 413, de 19 de mayo de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 8 para la obra:
+
+"Proyecto: Concesión Internacional Sistema Américo Vespucio Nor - Poniente. Avda. El Salto - Ruta 78. Tramo: 6 Ruta 78 Pajaritos - Ruta 68", Región Metropolitana, que figura a nombre de Inversiones Quildos Limitada, rol de avalúo 2599-32, comuna de Pudahuel, superficie 3.335 m². La comisión de peritos integrada por los señores Cristián Larraín Arnolds, Roberto Carlos Muñoz Ordenes y María Cristina Camus Palacios, fijó con fecha 13 de febrero de 2004, el valor provisional de la indemnización en la cantidad de $31.721.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
