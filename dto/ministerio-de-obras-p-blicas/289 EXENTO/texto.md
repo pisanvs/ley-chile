@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº289, de 29 de diciembre de 2000, se expropió el lote de terreno Nº116-3, superficie 109 m², rol de avalúo 37-102, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector E, Sexta Región y se acordó el valor de indemnización con su propietario Luis Humberto Mancilla Mancilla, ascendente a la cantidad de $388.216.-
+
+Fiscal del Ministerio de Obras Públicas.
