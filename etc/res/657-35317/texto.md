@@ -1,0 +1,3 @@
+Por Resolución N° 657, de 11 de abril de 1996 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por ANA MARIA AUBA BERNALES, para un centro de cultivo ubicado en Punta Mechai, Estero Mechai, comuna de Queilén, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2° y artículo N° 87 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
