@@ -1,0 +1,5 @@
+AUTORIZA A PRODUCTOS MARITIMOS Y AGROPECUARIOS HIGH TECH CHILE LTDA, PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 704, de 10 de Julio de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Productos Marítimos y Agropecuarios High Tech Chile Ltda. domiciliada en Concepción, para ampliar actividades pesqueras autorizadas por Res. No. 229, de 1985, y 261, de 1987, de esta Subsecretaría de Pesca, en orden a incluir en las líneas de elaboración, congelado y deshidratado en la planta industrial ubicada en Sector Huildad, Comuna de Quellón, X Región, los siguientes recursos hidrobiológicos, Congrio dorado, Congrio negro, Corvina, Jurel, Mero o Bacalao, Raya, Almeja o taca, Almeja, Caracol trumuleo, Chorito, Loco, Macha, Navajuela, Camarón nailon, Centolla, Langostino colorado, Jaiba, Erizo y Cochayuyo.
+
+Valparaíso, 10 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
