@@ -1,0 +1,3 @@
+Por Resolución Nº 1.561, de 14 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95103059, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL CONCHAS BLANCAS, para la concesión de acuicultura ubicada en Punta Coñao, Isla Quinchao, Comuna de Quinchao, Provincia de Chiloé, X Región conforme lo dispuesto en el artículo Nº 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 14 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
