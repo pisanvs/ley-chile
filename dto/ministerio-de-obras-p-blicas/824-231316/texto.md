@@ -1,0 +1,3 @@
+Por decreto MOP Nº 824 de 16 de septiembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1-A para la obra: Camino Melipilla - San Antonio, Sector Puente Puangue, km. 297,00 a km. 704,00, que figura a nombre de Fabio Cáceres Carlos César, rol de avalúo 2024-498 comuna de Melipilla, Región Metropolitana, superficie 783 m². La Comisión de Peritos, fijó con fecha 20 de mayo de 2001 en la cantidad de $8.108.850.- para el lote Nº 1-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
