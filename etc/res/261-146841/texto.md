@@ -1,0 +1,5 @@
+AUTORIZA A "PRODUCTOS MARITIMOS Y AGROPECUARIOS - HIGH TECH CHILE LTDA." PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 261, de 27 de Marzo de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a "Productos Marítimos y Agropecuarios High Tech Chile LIda.", con domicilio en calle Diagonal Pedro Aguirre Cerda No. 1075 oficina No. 4, Concepción, para ampliar actividades pesqueras autorizadas por Resolución No. 229, de 1985, pudiendo operar una planta daboradora de recursos hidrobiológicos en las líneas de congelados y deshidratados en la localidad de Candelaria, sector Huildad, Comuna de Quellón, X Región, donde procesará los siguientes recursos hidrobiológicos que adquirirá del sector pesquero artesanal regional: Choro zapato, cholga, lapa, ostra, piure, centollón, pejerrey, sardina común, sardina española, anchoa, merluza del sur, merluza de cola, merluza de 3 aletas, tollo, brótula, róbalo, chancharro, cabrilla, sierra y cojinova del sur.
+
+Roberto Cabezas Bello, Subsecretario de Pesca.
