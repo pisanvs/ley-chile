@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA GUANAYE LTDA. PARA OPERAR LA EMBARCACION QUE SEÑALA Y DEJA SIN EFECTO AUTORIZACION QUE INDICA
+
+Por resolución N° 169 de 20 de Febrero de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Guanaye Ltda., domiciliada en la comuna de Providencia para operar en calidad de propietaria, la embarcación HAYDUK, en el litoral comprendido entre la I y la II Región, en faenas extractivas de jurel, sardina española, caballa y anchoa. Asimismo deja sin efecto la autorización conferida a la peticionaria por resolución N° 350, de 25 de Julio de 1984, de la Subsecretaría de Pesca, para operar la misma embarcación en el litoral comprendido entre la I y la III Región.
+
+Valparaíso, 20 de Febrero de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
