@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.651, de 31 de octubre de 2002, se expropió el lote de terreno Nº21, superficie 146 m², rol de Avalúo Nº2210-535 comuna de Chillán, para la obra ''Camino Ruta N-45, sector Cruce N-49 (Chillán) - La Capilla - Tres Esquinas Km. 0,00000 al Km. 5,88000'', VIII Región y se acordó el valor de la indemnización con Inversiones Trigal Limitada, ascendente a la cantidad de $671.965.-
+
+Fiscal del Ministerio de Obras Públicas.
