@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.503 de 23 de octubre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 51E, 51F, 52, 62 y 57A para la obra: Camino Ruta T-55, sector Futrono - Llifén, tramo Km.
+
+55,30000 a Km. 75,76384, que figuran a nombre de Manque Vidal Geralda, Manque Vidal Otilia y Coronado Cárdenas Gumaro D, roles de avalúo 61-57, 61-66 y 61-167, comuna de Futrono, X Región, superficies 485,60 m2, 421,50 m2, 1.190,10 m2, 619,50 m2 y 301,50 m2. La Comisión de Peritos fijó, con fecha 12 de febrero de 2001, el monto de la indemnización provisional en la cantidad de $971.200.-, para el lote 51E; $843.000.-, para el lote 51F; $2.503.200.-, para el lote 52, y $986.100, para el lote 62 y con fecha 3 de julio de 2001, en la cantidad de $1.901.390.- para el lote 57A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
