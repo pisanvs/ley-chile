@@ -1,0 +1,3 @@
+Por Decretos MOP. N°s. 390 y 391, ambos de 18 de noviembre de 1993, se expropiaron los lotes de terreno N°s. 3, 4, 4 y 5, superficies 15.180 m2., 2.540 m2., 7.510 m2. y 4.330 m2., respectivamente, roles de avalúo 107-022 y 109-007, Comuna de Pencahue, para las obras Canal Corinto 2 y Canal Las Tizas del Regadío Pencahue y se acordó precio de indemnización con sus propietarios Eduardo José Pozo Merino y Carlos Gustavo Eduardo Loyola Cabezas y otras, ascendente a las cantidades de $428.955.- y $376.162.-
+
+Fiscal del Ministerio de Obras Públicas.
