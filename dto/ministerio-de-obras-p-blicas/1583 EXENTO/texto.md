@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 1.583 de fecha 26 de octubre del 2001, se expropió el lote de terreno Nº 1, superficie 2.071,05 m², Rol de Avalúo Nº 122-30, comuna de Pencahue, para la obra ''Canal OD 1-2-2 Prolongación Km. 0,000 al Km. 0,428.81, del Proyecto Regadío Pencahue'', y se acordó el valor de indemnización con su propietario Emilio Jorge Díaz Gidi o Jorge Díaz Gidi, ascendente a la cantidad de $717.047.
+
+- Fiscal del Ministerio de Obras Públicas.
