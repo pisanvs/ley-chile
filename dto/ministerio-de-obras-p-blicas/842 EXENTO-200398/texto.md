@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº842 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº94, superficie 98 m2., rol de avalúo Nº1420-236, comuna de Rancagua, para la obra ''Mejoramiento Camino Ruta H-240, sector Rancagua-San Ramón, Km. 0,0000 a Km. 5,0000'', VI Región y se acordó el valor de indemnización con su propietario José Domingo Véliz Cornejo, ascendente a la cantidad de $835.834.-
+
+Fiscal del Ministerio de Obras Públicas.
