@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 25 EXENTA, DE 2003
+
+Por Res. Ex. Nº 25 de 23 de abril de 2003, se autoriza a la empresa Telefónica Móvil de Chile S.A., RUT 96.786.140-5, para emitir y recibir documentos tributarios electrónicos a partir del mes de mayo de 2003. Los documentos autorizados a emitir son los siguientes: Facturas Electrónicas, Notas de Crédito Electrónicas, Notas de Débito Electrónicas, Facturas Electrónicas de Ventas y Servicios no Afectos o Exentos de IVA, Guías de Despacho Electrónicas, Boletas Electrónicas y Boletas Electrónicas de Ventas y Servicios no Afectos o Exentos de IVA. En la citada resolución se establecen los procedimientos que deberá cumplir el contribuyente individualizado para la generación de dichos documentos, su envío al Servicio de Impuestos Internos y a los receptores electrónicos, su otorgamiento a los receptores no electrónicos, su almacenamiento en medios electrónicos y su registro en archivos electrónicos.
+
+El texto íntegro de esta resolución se encuentra incluído en el sitio Web del Servicio de Impuestos Internos en Internet, cuya dirección es http://www.sii.cl.
