@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.097, de 31 de julio de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº5, para la ejecución de la obra "Camino Costero Sur, sector Tranapuente-Puerto Saavedra-Porma, tramo Tranapuente-Puerto Saavedra-Chelle, Km.
+
+53.250,000-56.315,096; Km. 65.260,000-Km. 100.240,000; Subtramo 2, Km. 65.260-Km. 67.577,949", que figura a nombre de Fleta Viguera Nelly del C., rol de avalúo Nº502-359, comuna de Saavedra, IX Región, superficie 5.142,9 m2. La comisión de peritos fijó con fecha 27 de diciembre de 1998, el valor de la indemnización en la cantidad de $3.130.740.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
