@@ -1,0 +1,3 @@
+Por decreto MOP Nº814, de 31 de mayo de 2001, se expropió el lote de terreno Nº136, superficie 4.638 m², rol de avalúo 32-115, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector F, Sexta Región y se acordó el valor de indemnización con sus propietarios Ramón Hipólito Abatte Osorio y otros, ascendente a la cantidad de $34.870.774.-
+
+Fiscal del Ministerio de Obras Públicas.
