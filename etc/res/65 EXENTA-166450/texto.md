@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 65 de fecha 18 de Enero de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a los señores Jorge Eleodoro Strange Acevedo, Carlos Iván Alarcón Quintanilla, Víctor Sergio Núñez Hermosilla, Alberto Raúl Araya Flores, Aníbal Edmundo Aguilar Herrera, Alejandro Desiderio Tudela Yáñez, José Esteban Vásquez Ramírez y Marcelo Adrián de Jesús González Maldonado, para efectuar servido de taxi colectivo urbano de la Linea N° 59 "Carrascal Las Rejas", cuyo trazado fue autorizado por resolución N° 366 de 12 de Junio de 1984, de esta Secretaría Regional.
+
+Santiago, 22 de Enero de 1985.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región Metropolitana.
