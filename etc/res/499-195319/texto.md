@@ -1,0 +1,3 @@
+Por resolución Nº 499, de 1 de marzo de 2002, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 1.331 de 1990 y Nº 450 de 1991 de esta Subsecretaría, que autorizaron a SOCIEDAD AGRICOLA, FORESTAL Y PESQUERA YBAR Y ABAD CIA. LTDA., a desarrollar actividades extractivas con la nave "Brisa", matrícula 566 Constitución, de conformidad la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
