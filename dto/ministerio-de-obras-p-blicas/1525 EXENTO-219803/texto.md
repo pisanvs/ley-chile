@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.525, de fecha 28 de noviembre de 2003, se expropió el lote de terreno Nº 113, superficie 8 m², rol de avalúo Nº 1420-47, comuna de Rancagua, para la obra "Mejoramiento Ruta H-240, Sector Rancagua-San Ramón, Km. 0,0000 a Km. 5,0000", VI Región, se acordó el valor de la indemnización con su propietario Eusebio o Eusebio Juan García Kholer, ascendente a la cantidad de $175.414.-
+
+Fiscal del Ministerio de Obras Públicas.
