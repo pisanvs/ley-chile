@@ -1,0 +1,3 @@
+Por resolución exenta Nº 51/99 de 21 de junio de 1999, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la II Región, se aprobó el contrato de concesión adjudicada mediante resolución exenta Nº42/99 de la misma Secretaría Regional, a la sociedad Middleton y Compañía Limitada para operar, por un plazo de seis años a contar de la publicación del presente extracto, una planta revisora ubicada en calle Freirina s/n al llegar a calle Argentina, Calama, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Gastón Viveros Viveros, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Antofagasta.
