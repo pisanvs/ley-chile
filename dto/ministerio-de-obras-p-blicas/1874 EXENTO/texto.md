@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.874, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº53, superficie 145 m2., rol de avalúo 135-50, comuna de San Francisco de Mostazal, VI Región, para la obra "Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, Tramo Km. 0,000 al 9,317" y se acordó el valor de indemnización con su propietario don Mario del Tránsito Aceituno Mena, ascendente a la cantidad de $2.101.460.
+
+- Fiscal del Ministerio de Obras Públicas.
