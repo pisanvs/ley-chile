@@ -1,0 +1,5 @@
+Por decreto MOP Nº 898 de 5 de octubre de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 15 y 18 para la obra: Camino Ruta K-12-J, Sector Accesos Puente La Huerta, Tramo km.0,00000 a km.
+
+3,10520, que figuran a nombre de Moya Poblete José Lisandro, Castro Herrera Germán, rol de avalúo 133-51 y 133-49, Comuna Sagrada Familia, VII Región, superficies 7.801 y 10.308 m2. La Comisión de Peritos con fecha 2 de mayo de 2003, fijó los montos de las indemnizaciones provisionales en las cantidades de $3.120.400.- lote Nº 15 y $3.370.400.- lote Nº 18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
