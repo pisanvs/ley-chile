@@ -1,0 +1,3 @@
+Por Resolución N° 1.246, de 2 de julio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1° de la Resolución N° 1.066, de 1996, de esta Subsecretaría, en orden a sustituir la expresión "...Resolución N° 523, de 1995..." por "...Resolución N° 523, de 1985...".
+
+Valparaíso, 2 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
