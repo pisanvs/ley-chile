@@ -1,0 +1,3 @@
+Por resolución Nº 2.675, de 29 de octubre de 2003, de esta Subsecretaría, autorízase a SOCIEDAD RUBIO Y MAUAD LIMITADA para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Gerónimo Méndez Nº 1841, Galpón Nº 37, Coquimbo, IV Región, donde podrá elaborar, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Cocido, Fresco-Enfriado, Fresco-Refrigerado y Congelado: Ostión del norte, Cholga, Macha, Ostra chilena, Loco, Lapa, Camarón nailon, Jaiba limón, Jaiba marmola, Jaiba peluda o pachona, Jaiba reina, Langostino amarillo, Langostino colorado.
+
+Valparaíso, 29 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
