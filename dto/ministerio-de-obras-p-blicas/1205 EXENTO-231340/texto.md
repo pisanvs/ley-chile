@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.205 de 31 de agosto de 2004, se expropió el lote de terreno Nº 98, superficie 351 m2, rol de Avalúo 530-90, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo II Km. 3,95000 a Km. 12,40150", VIII Región y se acordó el valor de la indemnización con su propietario Claudio Andrés Toledo Cabrera, ascendente a la cantidad de $1.549.156.
+
+Fiscal del Ministerio de Obras Públicas.
