@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD MESTRE Y CIA. LTDA.
+
+Núm. 4.- Certifico que Sociedad Mestre y Cía. Ltda., RUT Nº 79.965.000-2, domiciliada en Camino Constitución a San Javier Km. 6, comuna de Constitución, cuyo representante legal es Mestre Allende Nelson Iván, RUT Nº 5.026.232-4, cumple todos los requisitos y exigencias establecidas en resolución Nº Ex. 4.916 de 31.10.2000, de la Dirección Nacional del Servicio de Impuestos Internos, y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado, en las adquisiciones de madera que efectúe durante el período comprendido entre el día 1º del mes siguiente al de la publicación en el Diario Oficial, de este certificado, lo que regirá en forma indefinida.
+
+Talca, 4 de diciembre de 2001.- Mirtha Barra Paredes, Directora Regional.
