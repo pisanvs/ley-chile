@@ -1,0 +1,5 @@
+Por resolución No. 971 de 21 de Agosto de 1991 de esta Subsecretaría de Pesca, del Ministerio de Economía. Fomento y Reconstrucción, deniégase la autorización solicitada por don REINALDO OTEY GONZALEZ, RUT No. 4.414.984-2, domiciliado en Estero Chaular sector rural de la Comuna de Ancud, para especificar coordenadas geogr ficas que delimitan el área autorizada para desarrollar actividades pesqueras, por resolución No. 443, de 1983, de esta Subsecretaría, en virtud de lo dispuesto en el artículo 7° del DS No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+En virtud de lo señalado en el numeral anterior y de conformidad a la norma citada, cadúcase la resolución No. 443, de 1983, de esta Subsecretaría, que autorizó a don Reinaldo Otey González, para iniciar actividades pesqueras de cultivo de Ostra, en la localidad de Punta Larga, Estero Cahular, Provincia de Chiloé, X Región.
+
+Valparaíso, 21 de Agosto de 1991.- Andrés Couve Riosseco, Subsecretario de Pesca.
