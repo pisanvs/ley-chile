@@ -1,0 +1,5 @@
+Por decreto MOP Nº706, de 29 de febrero de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº85, para la obra:
+
+''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli''. Sector: Km. 534.180,00 al Km. 544.020,00. Octava Región, que figura a nombre de Morandé Tocornal Joaquín y ot., rol de avalúo 607-12, comuna de Mulchén, superficie 2.264 m2. La comisión de peritos integrada por los Jaime García Molina, Juan Pablo Cuevas Castillo y Omar Andrés Aspé Neira, fijó con fecha 01 de febrero de 1999, el valor provisional de la indemnización en la cantidad de $2.241.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
