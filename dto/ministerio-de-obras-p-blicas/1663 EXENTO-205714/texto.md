@@ -1,0 +1,5 @@
+Por decreto M.O.P. exento Nº1.663, de 25 de noviembre de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº17-A para la obra: Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 2: Carrizal - Puente Belco, Tramo Km. 17,34000 a Km.
+
+23,51000, que figura a nombre de Yáñez Galdames Delfín Raimundo, rol de avalúo 266-50, Comuna de San Javier, VII Región, superficie 236 m2. La Comisión de Peritos, fijó con fecha 30 de abril de 2002, el monto de la indemnización provisional en la cantidad de $586.200.- para el lote Nº17-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
