@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº315 de 28 de marzo de 2002, se expropió el lote de terreno Nº1-C, superficie 458 m², sin rol, comuna de Tierra Amarilla, para la obra "Camino Ruta C-411, Sector Ruta 5 - Nantoco, Km. 0,0000 a Km. 24,35088, Etapa III" y se acordó el valor de indemnización con su propietario Manuel Darío Lamas Contreras y otra, ascendente a la cantidad de $560.060.-
+
+Fiscal del Ministerio de Obras Públicas.
