@@ -1,0 +1,3 @@
+Por decreto MOP No. 351, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s 1-A, 4-A, 4-E, 4-F y 4-H, superficies 1.060, 296, 187, 204 y 483 m2, roles de avalúo 1364-38, 1367-87, sin rol y 1366-101, comuna de San Carlos, obra Camino Ruta N-31, Sector Tres Esquinas - Bifurcación El Palo, y se acordó precio de indemnización con sus propietarios Zulema Cuervo Fuentealba y Otros, Matilde del Carmen Escamilla Acuña, Manuel Antonio Mercado Contreras, Juan Francisco Candia Parada y José Sebastián Gamonal Gamonal, ascendente a las cantidades de $ 658.354; $ 224.404; $ 452.770; $ 320.966 y $ 258.372.-
+
+Fiscal del Ministerio de Obras Públicas.
