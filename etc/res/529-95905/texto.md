@@ -1,0 +1,3 @@
+Por resolución No. 529, de 26 de mayo de 1989 SERVIU Metropolitano, ordenóse expropiación conforme DL 2.186 de 1978 inmueble ubicado en calle Ricardo Santa Cruz No. 715, presunto rol avalúos No. 596-7, comuna de Santiago, aparentemente dominio de don Nicanor Cerda Aránguiz y Otros. Comisión integrada por peritos Sres. Ricardo Carvallo -Rodríguez y Luis del Pozo Concha, arquitectos, y Raúl Varela Hernández ingeniero civil, según informe de 2 de diciembre de 1988, fijó monto provisional indemnización en $ 17.226.520.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
