@@ -1,0 +1,3 @@
+Por decreto MOP Nº185 de fecha 29 de enero de 1999, se expropió el lote de terreno Nº93, superficie 6.109 m2., rol de avalúo 851-16, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5, Tramo Chillán - Collipulli Sector 1 Km. 434.386,40 a Km. 436.788,50'', y se acordó el valor de indemnización con su propietario Olvin del Rosario Jara Godoy, la cantidad de $18.631.456.-
+
+Fiscal del Ministerio de Obras Públicas.
