@@ -1,0 +1,3 @@
+Por decreto MOP Nº628, de fecha 28 de marzo del 2002, se expropiaron los lotes de terreno Nº6, 11 y 1, superficies 8.499, 12.323 y 2.980 m², Rol de Avalúo Nº480-163, comuna de Yungay, para la obra: Area de Riego Los Puquios, "Canal Los Puquios (Tramos Existente y Proyectado), Km. 0,000 a Km. 1,341", lotes Nº6 y 11 y "Canal Los Puquios Ramal 4 Km. 0,006 al Km. 0,222", lote Nº1, del Proyecto Laja Diguillín, VIII Región, y se acordó el valor de indemnización con su propietario José Aníbal Urbano Velásquez y Otros, ascendente a la cantidad de $10.521.804.-
+
+Fiscal del Ministerio de Obras Públicas.
