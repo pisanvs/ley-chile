@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº697 de fecha 30 de abril de 2002, se expropió el lote de terreno Nº36, superficie 75 m2, Rol Nº2213-455, comuna de Chillán, para la obra ''Camino Ruta N-45, Sector Cruce Ruta N-49 (Chillán)-La Capilla-Tres Esquinas, Km. 0,00000 a Km. 5,88000'', y se acordó el valor de indemnización con su propietario Luminalda de los Angeles Llanos Sandoval, ascendente a la cantidad de $231.975.-
+
+Fiscal del Ministerio de Obras Públicas.
