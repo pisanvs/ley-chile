@@ -1,0 +1,3 @@
+Por resolución N° 524, de 29 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad conforme con el artículo 7° del Decreto Supremo N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, de la Resolución N° 383, de 1986, de esta Subsecretaría, que autorizó a don HORACIO ESPEJO ROJAS, R.U.T. N° 6.457.956-8, domiciliado en calle Maipú N° 500, Coquimbo, para desarrollar actividades pesqueras de transformación.
+
+Valparaíso, 29 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
