@@ -1,0 +1,5 @@
+En cumplimiento de lo dispuesto en los decretos del Ministerio de Economía, Fomento y Reconstrucción, Nº 291, de 11 de junio de 1999 y Nº 668, de 16 de noviembre de 1999, certifico que por resolución (A) Nº 134, de 17 de diciembre 1999, del señor Vicepresidente Ejecutivo, totalmente tramitada, se puso en ejercicio el Acuerdo de Consejo Nº 2.052, de 1999, que creó los Comités de Asignación Zonal de Fondos de Fomento (CAZ), y modificó y fijó el texto refundido de la resolución Nº 81 (A), de 1998, que creara el Comité de Asignación de Fondos de Fomento CAFF.
+
+El texto completo de la antes referida resolución, estará a disposición de los usuarios en la Secretaría General de la Corporación y en las Direcciones Regionales.
+
+Santiago, 12 de abril de 2000.- Yerko Koscina Peralta, Secretario General.
