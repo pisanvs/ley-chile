@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.439, de 30 de mayo del 2000, se expropió el lote de terreno Nº68, superficie 180 m², rol de avalúo 5472-2, comuna de La Granja, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Sergio Francisco Pizarro Fierro, ascendente a la cantidad de $22.694.407.
+
+- Fiscal del Ministerio de Obras Públicas.
