@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.087, de 25 de julio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº6, para la obra Camino Conexión La Unión-Corral, sector Morro Gonzalo, Puente Caleta Amargo, Km. 0,00000 a Km. 5,35469, que figura a nombre de Navarro Barrientos Alejo, rol de avalúo 104-7, superficie 10.404 m², comuna de Corral. La Comisión de Peritos, con fecha 22 de mayo de 2000, fijó la indemnización provisional en la cantidad de $2.288.880, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
