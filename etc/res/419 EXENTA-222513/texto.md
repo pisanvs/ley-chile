@@ -1,0 +1,3 @@
+Por resolución exenta Nº419, de 16 de febrero de 2004 de esta Subsecretaría, autorízase a GEOMAR S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Forestal Nº1108, Parque Industrial, Coronel, VIII Región, en las líneas de elaboración Cocido, Fresco-Enfriado, Fresco-Refrigerado, Ahumado y Conserva, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 16 de febrero de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
