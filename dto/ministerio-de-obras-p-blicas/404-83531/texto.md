@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº404, de 29 de diciembre de 1989, se expropió el lote Nº9, con una superficie 2.379,4 m2., rol de avalúo 90151-1, Comuna de Malloa, para la ejecución de la obra Camino Longitudinal Sur (Ruta 5), sector Pelequén-San Fernando-Cruce La Paloma y camino San Fernando Pelequén-Enlace San Vicente-Pelequén, Ruta 5 y se acordó precio de indemnización con su propietario Empresa Ferrocarriles del Estado, ascendente a la suma de $ 663.785.-
+
+Fiscal del Ministerio de Obras Públicas.
