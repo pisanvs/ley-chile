@@ -1,0 +1,43 @@
+MODIFICA CONCESION DE RADIODIFUSION SONORA EN FRECUENCIA MODULADA QUE INDICA
+
+Santiago, 18 de julio de 2003.- Con esta fecha se ha decretado lo que sigue:
+
+Núm. 446.- Vistos:
+
+a) El decreto ley Nº 1.762 de 1977, que creó la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría;
+
+b) La ley Nº 18.168 de 1982, Ley General de Telecomunicaciones, en adelante la ley;
+
+c) El número 1º del artículo 3º del párrafo III de la resolución Nº 55 de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la resolución Nº 520 de 1996, ambas de la Contraloría General de la República;
+
+d) El decreto supremo Nº 126 de 01.04.1997, del Ministerio de Transportes y Telecomunicaciones que aprobó el Reglamento de Radiodifusión Sonora; y e) El decreto supremo Nº 63 de 08.04.1980, que otorgó la concesión, modificado por los decretos supremos Nº 260 de 27.11.1989, Nº 188 de 20.09.1990 y Nº 222 de 12.07.1993, todos del Ministerio de Transportes y Telecomunicaciones.
+
+Considerando:
+
+a) La solicitud de autorización previa para transferir la concesión, otorgada mediante el decreto supremo indicado en la letra e) de los Vistos, ingreso Subtel Nº 15.137 de 26.02.2003;
+
+b) La resolución exenta Nº 402 de 03.04.2003, de la Subsecretaría, que autorizó previamente la transferencia;
+
+c) El instrumento privado de fecha 14.04.2003, que da cuenta material de la transferencia de la concesión, así como de la inserción de la misma en la resolución que dispuso la autorización previa a la que se refiere el inciso tercero del artículo 21º de la ley;
+
+d) La solicitud de modificación, por cambio de titular, de la concesión, objeto de la transferencia, ingreso Subtel Nº 21.089 de 30.04.2003;
+
+e) Que el representante de la persona jurídica adquirente es chileno y no se encuentra sometido a proceso o condenado por delito que merezca pena aflictiva;
+
+f) La solicitud de informe previo a la Comisión Preventiva Regional de la I Región de fecha 14.01.2003, de conformidad a lo dispuesto en el artículo 38º de la ley Nº 19.733 de 2001;
+
+g) Lo informado por la Comisión Preventiva Regional de la I Región, mediante dictamen Nº72/L.E.P. de 27.01.2003; y, en uso de mis atribuciones,
+
+D e c r e t o:
+
+1.- Modifícase la concesión de radiodifusión sonora en frecuencia modulada, señal distintiva XQA-16, para la ciudad de Arica, I Región, cuyo titular es la empresa Riquelme Cabrera Asociados, continuadora legal de la empresa Riquelme Marini Asociados, RUT Nº 50.161.080-1, según consta en el decreto supremo indicado en la letra e) de los Vistos, en el sentido que su nuevo titular es la sociedad Comunicaciones Cappisima Limitada, RUT Nº 77.772.220-4, domiciliada en Maipú Nº 533, Arica, I Región.
+
+2.- La nueva concesionaria gozará de los mismos derechos y estará afecta a las mismas responsabilidades que su antecesora en la concesión.
+
+3.- El presente decreto de modificación debe publicarse en el Diario Oficial dentro del plazo de 30 días hábiles, contados desde su notificación a la concesionaria. La no publicación de éste dentro del plazo indicado, producirá la extinción de dicho acto administrativo por el solo ministerio de la ley sin necesidad de declaración alguna, de conformidad a lo previsto en el Nº4 del artículo 23 de la ley.
+
+4.- Es obligación de la nueva concesionaria, el conocimiento y cumplimiento de las disposiciones de la ley, reglamentos, normas técnicas y modificaciones, en lo que le sean aplicables.
+
+Anótese, tómese razón, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Javier Etcheberry Celhay, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Cristián Cortés Araya, Jefe División Concesiones Subrogante.
