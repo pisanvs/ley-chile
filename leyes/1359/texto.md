@@ -1,0 +1,1 @@
+Lei núm. 1,359 que autoriza a la Municipalidad de Iquique para establecer el servicio de desagües de la ciudad
