@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 699, de 22 de noviembre de 1995, se expropiaron los lotes de terreros Nºs. 7 y 8, superficies 992 m2 y 4.054 m2, roles de avalúo 593-48 y 93-49, comuna de Cerrillos, para la obra Camino Autopista Santiago - San Antonio, Sector Empalme Isabel Riquelme - Bif. Malloco y se acordó el valor de indemnización con sus propietarios Soc. Forestal Chile Ltda. y otros y Soc. Forestal Chile Ltda., ascendente a las cantidades de $ 26.399.264.- y $ 160.036.000.
+
+Fiscal del Ministerio de Obras Públicas.
