@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.672, de fecha 30 de noviembre de 2004, se expropiaron los lotes de terreno Nºs. 61 y 62, superficies 749 m2 y 690 m2, rol de avalúo Nº616-533, comuna de Nueva Imperial, para la obra "Camino Ruta S-16, Sector Chol Chol - Nueva Imperial Tramo Km.24,30269 al Km.43,50000, Subtramo II Km.29,840 al Km.35,215", IX Región y se acordó el valor de la indemnización con su propietaria Antonia Gallardo Lincoqueo, ascendente a la cantidad de $1.369.344.
+
+Fiscal del Ministerio de Obras Públicas.
