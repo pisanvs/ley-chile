@@ -1,0 +1,3 @@
+Por Resolución No. 842 de 02 de Septiembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifica las Resoluciones No. 489 y No. 490, de 1992, de esta Subsecretaría, por las cuales se autorizó a PESQUERA CORMORAN S.A., para desarrollar actividades pesqueras extractivas en ejercicio del derecho que se le reconoce en virtud de lo dispuesto en el Artículo 3° transitorio incisos 3° y 4°, de la Ley General de Pesca y Acuicultura, en el sentido de indicar que el R.U.T. de la solicitante es el No. 96.507.640-9, y no el No. 95.507.640-9 como señala en las citadas Resoluciones.
+
+Valparaíso, 02 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
