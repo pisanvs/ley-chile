@@ -1,0 +1,3 @@
+Por resolución número 2.071, de 13 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96110123, presenta por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para operar un centro de cultivo ubicado en Isla Carmen Costa Sur, Seno Aysén, Comuna de Aysén, Provincia de Aysén, XI Región.
+
+Valparaíso, 13 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
