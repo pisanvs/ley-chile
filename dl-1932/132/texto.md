@@ -1,0 +1,91 @@
+Remuneración por hora de clase de los profesores Núm. 132.- Santiago, 4 de Julio de 1932.- Teniendo presente que la Ley de Presupuestos de Educación Pública del presente año, no determina claramente la remuneración por horas de clase del profesorado, ni los aumentos del personal administrativo superior, con relación a la escala de rebajas de la ley N.o 5,005;
+
+Que la aplicación del inciso 2.o de dicha ley no guarda relación con el mayor o menor trabajo del funcionario;
+
+Que las disposiciones del artículo 6.o no son aplicables a los servicios educacionales ya que ellos están dotados sólo del personal indispensable para el correcto funcionamiento de los mismos: y,
+
+Considerando, finalmente, la falta de concordancia entre la Ley de Presupuestos de Educación y las disposiciones de la ley N.o 5,005, citada, la Junta de Gobierno ha acordado y dicta el siguiente
+
+Decreto-ley:
+
+#### Artículo 1
+
+o Declárase que la disposición contenida en el art. 6.o de la Ley N.o 5,005, de 25 de Noviembre del año último, no es aplicable al Ministerio de Educación Pública y a los servicios de su dependencia.
+
+#### Artículo 2
+
+o Fíjese, por el resto del presente año, la remuneración por hora semanal de clase de los profesores de los establecimientos de Educación Secundaria, Normal, Comercial, Industrial y Física, en las siguientes cantidades:
+
+las de 500 pesos, en _____________________ $ 430
+
+las de 750 y 800 pesos, en________________ 600
+
+las de 1,000 pesos, en____________________ 800
+
+las de 1,250 pesos, en____________________ 1,000
+
+las de 1,500 pesos, en____________________ 1,200
+
+#### Artículo 3
+
+o Los aumentos de sueldos a que se refieren los artículos 2.o y 4.o del decreto con fuerza de ley N.o 4,550, de 22 de Agosto de 1930, serán por el resto del presente año, los siguientes: Para el personal administrativo superior de Educación Secundaria, Comercial, Física, Normal y Escuelas de Aplicación:
+
+por 3 años________________________________ $ 1,150
+
+por 6 años________________________________ 2,300
+
+por 9 años________________________________ 3,450
+
+por 12 años_______________________________ 4,600
+
+por 15 años_______________________________ 5,750
+
+por 18 años_______________________________ 7,150
+
+por 21 años_______________________________ 8,550
+
+por 24 años_______________________________ 9,950
+
+por 27 años_______________________________ 11,350
+
+por 30 años_______________________________ 12,750
+
+Para el personal administrativo superior y de talleres y laboratorios de Educación Industrial: Directores de 1.a, 2.a y 3.a, por cada 3
+
+años______________________________________ $ 1,000
+
+Subdirectores de 1.a, 2.a y 3.a, por cada
+
+3 años____________________________________ 800
+
+Inspectores generales de 1.a, 2.a y 3.a, por
+
+cada 3 años_______________________________ 550
+
+Ingenieros jefes de 1.a, 2.a, 3.a y 4.a, por
+
+cada 3 años_______________________________ 800
+
+Jefes de 1.a, 2.a. 3.a y 4.a, por cada 3
+
+años _____________________________________ 550
+
+Ayudantes de 1.a, 2.a, 3.a y 4.a, por
+
+cada 3 años_______________________________ 280
+
+Operarios especialistas de 1.a, 2.a, 3.a y
+
+4.a, por cada 3 años______________________ 280
+
+#### Artículo 4
+
+o El mayor gasto que signifique la presente ley se financiará con el excedente que no se ocupe en 07|02|02| e) 07|03|01, "Otros Sueldos", inciso 3.o del presupuesto de Educación Pública vigente.
+
+#### Artículo 5
+
+o La presente ley comenzará a regir a contar desde el 1.o de Julio del año en curso.
+
+Anótese, tómese razón, regístrese, comuníquese, publíquese e insértese en el Boletín de Leyes y Decretos del Gobierno.- CARLOS DAVILA.- Nolasco Cárdenas.- J.E.
+
+Peña Villalón.- Enrique Zañartu.- C. Soto.
