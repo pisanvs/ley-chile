@@ -1,0 +1,3 @@
+Por decreto MOP Nº391, de 26 de febrero de 1999, se expropiaron los lotes de terrenos Nºs. 13 y 14, superficies 37 y 93 M2. respectivamente, roles de avalúo 3198-16 y 3198-15, comuna de Chillán, para la obra Camino Ruta N-545 Chillán - Tanilvoro, Sector Chillán - Universidad Adventista y se acordó precio de indemnización con sus propietarios Ramón Pérez Zapata y Juan Vásquez Medina, ascendentes a las cantidades de $348.667.- para el lote 13 y $611.579.- para el lote 14.
+
+- Fiscal del Ministerio de Obras Públicas.
