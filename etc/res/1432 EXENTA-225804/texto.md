@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.432, de 24 de mayo de 2004 de esta Subsecretaría, se acoge el recurso de reposición presentado por Kristian Jahn en representación de MARIO FLORINDO GAJARDO VENEGAS, y en consecuencia, se deja sin efecto la resolución Nº 2.405 de 2003, de esta Subsecretaría. Por consiguiente, se mantienen vigentes las autorizaciones otorgadas mediante resoluciones Nº 1.064 de 1992, Nº 1.141 de 1998, Nº 1.862 y Nº 2.384, ambas de 2000, y Nº 1.146 de 2001, todas de esta Subsecretaría, y que autorizan al referido armador para realizar actividades pesqueras extractivas con la nave "Noel I".
+
+Valparaíso, 24 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
