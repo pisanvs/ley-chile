@@ -1,0 +1,3 @@
+Por decreto MOP Nº 787 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 72-A, superficie 2.947 M2, rol Nº 608-24, comuna de Santa Cruz, VI Región, para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0.00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietario Gustavo Alejandro Marambio Agrela, ascendente a la cantidad de $4.580.106.
+
+- Fiscal del Ministerio de Obras Públicas.
