@@ -1,0 +1,3 @@
+Por resolución Nº 995, de 1 de junio de 2000, de esta Subsecretaría, deniégase la solicitud presentada por don ERASMO ANTONIO MUÑOZ FLORES, para otorgar certificado de transferencia de la nave ''Skorpion II'', por carecer de recursos hidrobiológicos declarados en plena explotación susceptibles de ser transferidos, en virtud de lo dispuesto en el artículo 23 inciso primero de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 1 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
