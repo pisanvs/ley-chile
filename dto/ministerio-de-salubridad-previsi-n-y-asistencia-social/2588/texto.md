@@ -104,6 +104,14 @@ De la cuenta individual
 
 Los intereses se capitalizarán en las cuentas individuales, dentro de los 30 días siguientes a la aprobación del Balance por la Dirección General de Previsión Social.
 
+Se entenderá que la fecha de apertura de la cuenta "individual es aquella en que se realizó la primera imposición o "la fecha en que ésta debió realizarse de acuerdo con el artículo "170 del Reglamento Nº 269, de 1926. Si las imposiciones no se "efectuaran oportunamente y ha transcurrido un tiempo que haga "dudosa la efectividad de la prestación de los servios en los "cuales se fundan las imposiciones, la Caja de Previsión de "Empleados Particulares deberá admitirlas cuando se acredite la "prestación efectiva de los servicios de empleados particular por "medio de sentencia ejecutoriada dictada en juicio en que haya "sido parte dicha Caja de Previsión, si el juicio se hubiere "iniciado con posterioridad al 8 de Septiembre de 1952.
+
+La Caja podrá admitir las imposiciones a las cuales se "refiere el inciso precedente cuando la prestación efectiva de los "servicios de empleados particular se acredite por alguno de los "modos siguientes: lº) Con el certificado de la Dirección General "del Trabajo, fundado en el informe favorable de su Departamento "de Inspección; 2º) Con informe favorable de los Servicios "Inspectivos de la mencionada Caja de Previsión. Esta Institución "resolverá en cada caso, previo informe de la Fiscalía, sobre las "solicitudes que se presenten con este objeto y de su resolución "podrá apelarse a la Superintendencia de Seguridad Social.
+
+En ningún caso, la sola declaración del empleador o del "empleado, o de ambos conjuntamente, podrá constituir prueba "suficiente para establecer en la sentencia o en los informes o "resoluciones señaladas anteriormente, la efectividad de los "servicios en los cuales se fundan las imposiciones.
+
+Las imposiciones que se efectúen en conformidad con los "incisos precedentes, se considerarán como oportunamente "realizadas para todos los efectos legales, siempre que se "integren con el interés legal devengado desde la fecha de "vigencia de la ley 8.956, de 26 de Julio de 1948.
+
 #### Artículo 10
 
 ° Los imponentes conservarán la propiedad de los fondos acumulados en su cuenta individual, hasta el 8 de noviembre de 1952. A contar desde esta fecha, tendrán ese derecho solamente sobre las sumas acumuladas en su Fondo de Retiro Individual.
