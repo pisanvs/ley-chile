@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 208, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 17, superficie 488 m2, rol de avalúo 29-4, comuna de Paredones, VI Región, para la obra "Camino Mejoramiento Ruta I-72, Sector Paredones - Bucalemu, tramo Km. 27,800 al 43,100" y se acordó el valor de indemnización con su propietario don José Abelardo Pérez Rodríguez, ascendente a la cantidad de $484.493.-
+
+Fiscal del Ministerio de Obras Públicas.
