@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 175, de 25.07.88, se expropiaron los lotes 1 y 2, superficies 196 m2. y 185 m2. respectivamente, rol de avalúo para ambos lotes 328-17, Comuna de Limache, V Región, para Servicio de Agua Potable Rural, Cooperativa "Los Maitenes" y se acordó precio de indemnización con su propietaria doña Carmen Rosa Olguín Elgueta, ascendente a $ 200.300.-
+
+Fiscal del Ministerio de Obras Públicas.
