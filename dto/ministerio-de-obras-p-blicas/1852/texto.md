@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.852, de 30 de septiembre de 1998, se expropiaron los lotes de terreno No. s. 44-B, 45, 47, 50, 54, 58 y 60, superficies 200, 302, 310, 267, 120, 301 y 20 m²., roles de avalúo No. s. 229-75, 229-130 y 229-123, comuna de Rengo, obra Camino H-521, Sector Ruta 5 Fundo El Rincón por Lo de Lobos, y se acordó precio de indemnización con sus propietarios Mitzi Mujica Jélvez, Gladys Eliana Abarca Fuentes y Urbán Urquiza Abasolo, ascendente a las cantidades de $2.725.863, para los lotes 44-B, 45 y 50; $1.487.096.- lote 47 y $5.770.508.- lotes 54, 58 y 60.-
+
+Fiscal del Ministerio de Obras Públicas.
