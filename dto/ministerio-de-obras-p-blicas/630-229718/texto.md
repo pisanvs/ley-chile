@@ -1,0 +1,3 @@
+Por decreto MOP Nº 630, de 29 de julio de 2004, se dejó sin efecto el decreto MOP Nº 221, de 26 de marzo de 2004, que ordenó la expropiación del lote Nº 6ERL2, necesario para la obra Extensión Línea 2 Norte Recoleta - Vespucio, Sector Santo Dumont - Av. Américo Vespucio, por cuanto la Empresa de Transporte de Pasajeros Metro S.A. adquirió mediante compraventa el lote señalado.
+
+Fiscal del Ministerio de Obras Públicas.
