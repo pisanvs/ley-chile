@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.356, de 31 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, de 1964 y del DFL MOP.
+
+No. 206, de 1960, se expropiaron los lotes de terreno No. s. 1 y 2, para la obra Ruta 5, Tramo Talca - Chillán, Plaza Troncal Camarico, que figuran a nombre de Jorge JoséArturo Valenzuela Castro y Farias Gajardo Juan Suc, roles de avalúos en tr mite y 25-9, Comuna de Río Claro, VII Región, superficies 21.240 y 3.647 m2 , respectivamente. La Comisión de Peritos compuesta por los señores Francisco Azócar Bobadilla, Carlos Sottolichio Díaz y Luis Hugo Villarroel Urbina, fijó con fecha 12 de mayo de 1998, el valor provisional de las indemnizaciones en las cantidades de $ 21.240.000, para el lote No. 1 y $ 3.647.000, para el lote No. 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
