@@ -1,0 +1,5 @@
+Por decreto MOP N°675, de 5 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP N°850, de 1997, que fijó el texto actualizado de la ley N°15.840 y DFL MOP N°206, de 1960, se expropió el lote de terreno N°199-1 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector K: KM. 161.650,00 al KM. 179.500,00", Séptima Región, que figura a nombre de Vega Farías Osvaldo, rol de avalúo 77-21, comuna de Teno, superficie 498 m2. La comisión de peritos integrada por los señores María Isabel de Jesús Ríos Marcuello, Enrique Luis Figueroa Echeverría y José Cristián Larraín Barros, fijó con fecha 1 de octubre de 2001, el valor provisional de la indemnización en la cantidad de $18.215.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
