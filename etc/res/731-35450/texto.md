@@ -1,0 +1,5 @@
+Por Resolución N° 731 de 24 de Septiembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción modifícase la Resolución N° 310, de 1993, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, R.U.T. N° 61.310.000-8, para efectuar una pesca de investigación dirigida a los recursos Merluza de cola y Merluza de tres aletas, en el sentido de sustituir el numeral 8 de la Resolución precitada, por el siguiente:
+
+"8.- La pesca de investigación se efectuará de acuerdo con los Términos Técnicos de Referencia y sus modificaciones contenidas en el acta-acuerdo suscrita entre el Instituto de Fomento Pesquero y la Subsecretaría de Pesca, de fecha 15 de Septiembre de 1993, sobre el estudio "Pesca de Investigación de Merluza de cola y Merluza de tres aletas al sur del paralelo 47° L.S.", elaborados por el Instituto antes mencionado, aprobados técnicamente por la Subscretaría de Pesca y que se considera parte integrante de esta resolución.".
+
+Valparaíso, 24 de Septiembre de 1993. Andrés Couve Rioseco, Subsecretario de Pesca.
