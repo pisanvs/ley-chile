@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.618, de fecha 30 de junio de 2000, se expropió los lotes de terreno Nºs. 7, 7-A, 10 y 10-A, superficie 365,78, 1.397, 1.529 y 357 m2, respectivamente, rol de avalúo 2087-42, comuna de Melipilla, para la obra ''Camino Melipilla - Casa Blanca, Rol G-74-F Sector Cruce Ruta 78 - Puente Bollenar, Tramo Km. 0.000,00 a Km. 14.245,05'' y se acordó el valor de indemnización con su propietario Manuel Santiago Valenzuela Hernández, ascendente a la cantidad de $20.681.757.
+
+Fiscal del Ministerio de Obras Públicas.
