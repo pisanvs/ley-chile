@@ -1,0 +1,3 @@
+Por decreto MOP Nº289, de 31 de enero del 2000, se expropió el lote de terreno Nº43, superficie 810,0 m2., rol de avalúo 3213-441, comuna de Padre Las Casas, para la obra Concesión Internacional Ruta 5, Tramo Collipulli-Temuco, Novena Región y se acordó el valor de indemnización con su propietario Vicariato Apostólico de la Araucanía, ascendente a la cantidad de $13.727.529.
+
+Fiscal del Ministerio de Obras Públicas.
