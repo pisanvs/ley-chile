@@ -1,0 +1,3 @@
+Por resolución No. 228, de 26 de Febrero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la autorización solicitada por don LUIS CELEDON ACUÑA, RUT No. 5.882.830-0, domiciliado en calle Monjitas No. 843, oficina 6003-C, Santiago, para prorrogar el plazo a que se refiere el numeral 5° de la resolución No. 851, de 1987, de esta Subsecretaría, en atención a lo dispuesto en el artículo 7°, del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción. Cadúcase, en mérito de lo antes señalado y de conformidad a lo dispuesto en el artículo y la norma antes citada, la resolución No. 851, de 1987, de esta Subsecretaría.
+
+Valparaíso, 26 de Febrero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
