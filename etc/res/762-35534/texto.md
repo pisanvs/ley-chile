@@ -1,0 +1,5 @@
+Por resolución N° 762 de 30 de Septiembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don OSVALDO RIVERA, R.U.T. N° 3.457.119-8, para iniciar actividades pesqueras de transformación, en orden a operar una planta industrial en la IV Región, ubicada Población Diego Portales, calle 4 Sur N° 1286, donde procesará en la línea de elaboración de ahumado, los siguientes recursos hidrobiológicos: Atún, Billagay, Caballa, Cabrilla española, Cojinoba del norte, Corvina, Jurel, Machuelo o trite, Mulata o vieja negra, Pampanito, Pejegallo, Raya, Rollizo, Sardina, Sierra, Tollo y Lapa.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.-
+
+Valparaíso 30 de Septiembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
