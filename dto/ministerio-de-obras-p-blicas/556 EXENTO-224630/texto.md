@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 556 de fecha 31 de marzo de 2004, se expropiaron los lotes de terreno Nos 66, 69, 70 y 74, superficies 154, 70,0, 65,0 y 611,0 m² respectivamente, rol N° 512-403, 512-402, 512-401 y 512-398, comuna de Carahue, para la obra "Camino Ruta S-36, sector Tranapuente-Nehuentúe, tramo Km. 0,000 a Km. 9,997062, correspondiente al subtramo II, Km. 4,235 a Km. 9,997062", IX Región y se acordó el valor de la indemnización con su propietario Juana Soldado Millaqueo, ascendente a la cantidad de $1.343.868.
+
+Fiscal del Ministerio de Obras Públicas.
