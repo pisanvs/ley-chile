@@ -20,223 +20,483 @@ o El producto del o los préstamos que se contraten de acuerdo con la autorizaci
 
 Eº
 
-1.- Aporte para la construcción
+1.- Aporte para la
 
-del gimnasio cerrado 320.000
+construccióndel
 
-2.- Aporte a la Sociedad Constructora
+gimnasio cerrado 320.000
 
-de Establecimientos Educacionales
+2.- Aporte a la
 
-para la construcción de la Escuela
+Sociedad
 
-Industrial de Talcahuano. 200.000
+Constructora
 
-3.- Aporte a la Dirección de Pavimentación
+de Establecimientos
 
-Urbana para construcción de soleras,
+Educacionales
 
-aceras y calzadas en los diferentes
+para la construcción
 
-barrios de la ciudad 112.000
+de la Escuela
 
-4.- Aporte a la Dirección de Obras
+Industrial de
 
-Sanitarias para dotar de agua potable
+Talcahuano. 200.000
 
-y alcantarillado a los diferentes
+3.- Aporte a la
 
-barrios de la ciudad 144.000
+Dirección de
 
-5.- Para obras de mejoramiento del Mercado
+Pavimentación
+
+Urbana para
+
+construcción de
+
+soleras,
+
+aceras y
+
+calzadas en los
+
+diferentes
+
+barrios de la
+
+ciudad 112.000
+
+4.- Aporte a la
+
+Dirección de Obras
+
+Sanitarias para
+
+dotar de agua
+
+potable
+
+y alcantarillado
+
+a los diferentes
+
+barrios de la 44.000
+
+ciudad
+
+5.- Para obras de
+
+mejoramiento del
+
+Mercado
 
 Central 64.000
 
-6.- Para terminación del Mercado de la
+6.- Para terminación
 
-Población Las Higueras 48.000
+del Mercado de la
 
-7.- Aporte a la Sociedad Constructora
+Población Las
 
-de Establecimientos Hospitalarios
+Higueras 48.000
 
-para la construcción definitiva del
+7.- Aporte a la
 
-Hospital de Talcahuano 120.000
+Sociedad Constructora
 
-8.- Para adquisición o expropiación
+de Establecimientos
 
-de sitios o terrenos dentro de
+Hospitalarios
 
-la comuna destinados a la
+para la construcción
 
-construcción de escuelas públicas
+definitiva del
 
-o compra de acciones de la Sociedad
+Hospital de
 
-Constructora de Establecimientos
+Talcahuano 120.000
+
+8.- Para adquisición
+
+o expropiación
+
+de sitios o
+
+terrenos dentro de
+
+la comuna
+
+destinados a la
+
+construcción de
+
+escuelas públicas
+
+o compra de
+
+acciones de la Sociedad
+
+Constructora de
+
+Establecimientos
 
 Educacionales 136.000
 
-9.- Aportes al Cuerpo de Bomberos de
+9.- Aportes al Cuerpo
 
-Talcahuano, para los siguientes fines:
+de Bomberos de
 
-a) Construcción del edificio de su
+Talcahuano, para
 
-Cuartel General y ayuda para la
+los siguientes fines:
 
-renovación del material. 50.000
+a) Construcción
 
-b) Construcción del local destinado
+del edificio
 
-a Cuartel de la 8a. Compañía de
+de su Cuartel
 
-Bomberos, en el terreno donado por
+General y
 
-la Compañía de Acero del Pacífico. 60.000
+ayuda para la
 
-c) Construcción de locales destinados
+renovación del
 
-a cuarteles de la 9a., 10a. y 11a.
+material. 50.000
 
-Compañías de Bomberos a razón de
+b) Construcción
 
-Eº 30.000 para cada una 90.000
+del local destinado
 
-10.- Aporte para la ejecución de obras
+a Cuartel de la
 
-de alcantarillado de la población en
+8a. Compañía de
 
-construcción de la Sociedad Cooperativa
+Bomberos, en el
 
-de Edificación de Viviendas "Los
+terreno donado
+
+por la Compañía
+
+de Acero del 60.000
+
+Pacífico.
+
+c) Construcción de
+
+locales destinados
+
+a cuarteles de
+
+la 9a., 10a. y 11a.
+
+Compañías de
+
+Bomberos a razón de
+
+Eº 30.000
+
+para cada una 90.000
+
+10.- Aporte para la
+
+ejecución de obras
+
+de alcantarillado
+
+de la población en
+
+construcción de la
+
+Sociedad Cooperativa
+
+de Edificación
+
+de Viviendas "Los
 
 Cóndores Ltda." 40.000
 
-11.- Aporte para la reparación y remodela-
+11.- Aporte para la
 
-miento de la Plaza de Armas
+reparación y remodela-
+
+miento de la Plaza
+
+de Armas
 
 "Arturo Prat" 30.000
 
-12.- Aporte para ampliación del Hogar para
+12.- Aporte para
 
-Niños Vagos Ciudad del Niño "Ricardo
+ampliación del
+
+Hogar para
+
+Niños Vagos Ciudad
+
+del Niño "Ricardo
 
 Espinoza" 40.000
 
-13.- Aporte para el relleno de la explanada
+13.- Aporte para
 
-de la Avenida Blanco Encalada y obras
+el relleno
 
-de urbanización del Cerro "El Morro".. 40.000
+de la explanada
 
-14.- Aporte para adquisición o construcción
+de la Avenida
 
-de edificio o mejoramiento del local
+Blanco Encalada y
 
-para funcionamiento del Liceo Nocturno
+obras de
 
-"Pedro Aguirre Cerda" 32.000
+urbanización
 
-15.- Aporte a la Dirección de Obras
+del Cerro
 
-Portuarias para mejoramiento de la
+"El Morro". 40.000
 
-construcción del muro de contención en
+14.- Aporte para
 
-Caleta de Pescadores "El Morro" 12.000
+adquisición o
 
-16.- Aporte para construcción de vías de
+construcción
 
-acceso y urbanización de la Isla
+de edificio o
+
+mejoramiento del
+
+local para
+
+funcionamiento
+
+del Liceo Nocturno
+
+"Pedro Aguirre 32.000
+
+Cerda"
+
+15.- Aporte a la
+
+Dirección de Obras
+
+Portuarias para
+
+mejoramiento de la
+
+construcción del
+
+muro de contención
+
+en Caleta de
+
+Pescadores 12.000
+
+"El Morro"
+
+16.- Aporte para
+
+construcción de
+
+vías dE acceso
+
+y urbanización de
+
+la Isla
 
 Rocuant. 20.000
 
-17.- Aporte a la Gota de Leche "Almirante
+17.- Aporte a la
 
-Villarroel" para construcción del
+Gota de Leche
 
-local destinado a salas cunas 16.000
+"Almirante
 
-18.- Aporte a la Cruz Roja para ampliación
+Villarroel" para
+
+construcción del
+
+local destinado
+
+a salas cunas 16.000
+
+18.- Aporte a la
+
+Cruz Roja para
+
+ampliación
 
 de su local 12.000
 
-19.- Aporte para la construcción o adquisi-
+19.- Aporte para la
 
-ción de un local para el funcionamien-
+construcción o
 
-to de una Biblioteca o Casa del Arte y
+adquisición
 
-la Cultura, incluyendo adquisición de
+de un local
 
-terrenos para este objeto o
+para el funcionamien-
+
+to de una Biblioteca o
+
+Casa del Arte y
+
+la Cultura,
+
+incluyendo
+
+adquisición de
+
+terrenos para
+
+este objeto o
 
 expropiación 50.000
 
-20.- Aporte para construcción de locales
+20.- Aporte para
 
-sociales para Pescadores en las
+construcción
 
-caletas "El Morro", "San Vicente",
+de locales
 
-"Tumbes", "El Puerto" y "La Gloria"
+sociales para
 
-20.000
+Pescadores en las
 
-21.- Aporte para la construcción o habili-
+caletas
 
-tación de un local para la Escuela
+"El Morro",
+
+"San Vicente",
+
+"Tumbes",
+
+"El Puerto" y
+
+"La Gloria" 20.000
+
+21.- Aporte para la
+
+construcción o habili-
+
+tación de un local
+
+para la Escuela
 
 Técnica Femenina 120.000
 
-22.- Aporte para la ampliación del Liceo
+22.- Aporte para la
 
-Coeducacional de Talcahuano 100.000
+ampliación del
 
-23.- Para gastos que demande la celebración
+Liceo
 
-del bicentenario de la fundación de
+Coeducacional de
 
-Talcahuano, inclusive respecto a feria
+Talcahuano 100.000
+
+23.- Para gastos que
+
+demande la
+
+celebración
+
+del bicentenario
+
+de la fundación de
+
+Talcahuano,
+
+inclusive respecto
+
+a feria
 
 y exposiciones 16.000
 
-24.- Aporte a la instalación, honorario y
+24.- Aporte a la
 
-otros gastos de una oficina asesora
+instalación,
 
-de planeamiento y urbanismo de la
+honorario y
 
-Municipalidad de Talcahuano 8.000
+otros gastos de
 
-25.- Aporte para adquisición o construcción
+una oficina asesora
 
-de local destinado al Liceo Nocturno
+de planeamiento y
 
-"Juan Bautista Etchegoyen" 30.000
+urbanismo de la
 
-26.- Aporte a la Sociedad Constructora
+Municipalidad de
 
-de Establecimientos Educacionales
+Talcahuano 8.000
 
-mediante suscripción de acciones
+25.- Aporte para
 
-para la construcción de la Escuela
+adquisición o
 
-Vocacional N.o 29, de Talcahuano
+construcción
 
-40.000
+de local destinado
 
-27.- Aporte a la Sociedad Protectora de
+al Liceo Nocturno
 
-Empleados de Talcahuano para cons -
+"Juan Bautista
 
-trucción de un local social 30.000
+Etchegoyen" 30.000
+
+26.- Aporte a la
+
+Sociedad
+
+Constructora
+
+de Establecimientos
+
+Educacionales
+
+mediante suscripción
+
+de acciones
+
+para la
+
+construcción de
+
+la Escuela
+
+Vocacional N.o 29,
+
+de Talcahuano 40.000
+
+27.- Aporte a la
+
+Sociedad
+
+Protectora de
+
+Empleados de
+
+Talcahuano para
+
+construcción de
+
+un local social 30.000
 
 Eº 2.000.000
+
+28.- Adquisiciones de
+
+vehículos, y
+
+29.- Adquisición o
+
+expropiación
+
+de terrenos destinados a
+
+Parque Industrial.
 
 Las inversiones contempladas en este artículo que incidan en obras consultadas en el Plano Regulador, deberán ajustarse a él y a las prioridades que señale o recomiende.
 
@@ -244,7 +504,7 @@ Decláranse de utilidad pública los terrenos que sean necesarios para realizar 
 
 #### Artículo 4
 
-o- Derogado.
+o- La Municipalidad determinará, con el voto conforme de los dos tercios de los regidores en ejercicio y en sesión especialmente citada al efecto, la prioridad de las inversiones indicadas en el artículo precedente y en la misma forma podrá alterar las cantidades indicadas para cada una de ellas.
 
 #### Artículo 5
 
