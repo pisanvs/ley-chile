@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 311, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 4 y 7, superficies 320 y 165 M2., roles de avalúos 2196-103 y 2196-80, comuna de Puerto Montt, obra Camino Ruta 7, sector Pelluco-Chamiza y se acordó precio de indemnización con sus propietarios Luis España España y Lucila Soto Cárdenas, ascendente a las cantidades de $518.448 y $301.231.-
+
+Fiscal del Ministerio de Obras Públicas.
