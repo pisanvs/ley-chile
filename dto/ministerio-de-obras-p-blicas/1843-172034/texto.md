@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.843, de 28 de abril del 2000, se expropiaron los lotes de terreno Nºs. 129-E y 129-F, superficies 389 m2. y 118 m2., rol de avalúo 160-173, comuna de Pemuco, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, Octava Región, y se acordó el valor de indemnización con su propietario Jabín Herrera Obreque, ascendente a la cantidad total de $1.638.734.
+
+Fiscal del Ministerio de Obras Públicas.
