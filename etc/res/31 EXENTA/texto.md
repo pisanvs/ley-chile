@@ -1,0 +1,5 @@
+DEJA SIN EFECTO RESOLUCION EXENTA N° 348, DE 1994 Núm. 31 exenta.- Concepción, 16 de Marzo de 1995.- Visto: Lo dispuesto en la Resolución N° 59/85 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, la Resolución Exenta N° 348/94 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región, y el Oficio Reservado N° 300 del 14 de Marzo de 1995 de la Secretaría Regional Ministerial de Obras Públicas, R e s u e l v o:
+
+Déjase sin efecto la Resolución Exenta N° 348 de fecha 16 de Diciembre de 1994, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región, que prohibió la circulación de los vehículos que indica por el Puente N° 1 sobre el Río Bío Bío, en la Comuna de Concepción.
+
+Anótese, comuníquese y publíquese.- Miguel Reyes Núñez, Secretario Regional Ministerial Transportes y Telecomunicaciones VIII Región del Bío Bío.
