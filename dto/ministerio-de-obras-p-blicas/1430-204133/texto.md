@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.430, de 30 de agosto de 2002, se expropió el lote de terreno Nº3-B, superficie 4.758 m2, rol de avalúo 623-87, comuna de Molina, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca Sector M: Km.192.900,00 al 209.700,00. Séptima Región y se acordó el valor de indemnización con su propietaria Compañía Nacional de Fuerza Eléctrica S.A. ascendente a la cantidad de $33.769.306.- para el lote Nº3-B.-
+
+Fiscal del Ministerio de Obras Públicas
