@@ -1,0 +1,11 @@
+ENTIDADES RELIGIOSAS DE DERECHO PUBLICO
+
+Juan Ricardo San Martín Urrejola, Notario Público, Titular 43ª Notaría de Santiago, Morandé 261, Santiago, certifico: Que por escrituras públicas suscritas ante el Notario Público, Eduardo Pinto Peralta, Ahumada trescientos cuarenta y uno, cuarto piso, de fecha 1 de marzo del 2001, y las complementarias de 15 de marzo del 2001 ante el Notario Público, Andrés Rodríguez Cruchaga, de Gran Avenida José Miguel Carrera número siete mil novecientos cincuenta y ocho de La Cisterna, y de fecha 25 de mayo del 2001 ante mí, con oficio en calle Morandé número doscientos sesenta y uno de la Región Metropolitana, se constituyó "Iglesia Filadelfia La Casa del Joven", con domicilio en calle Varas Mena Nº 557, comuna de San Miguel de la Región Metropolitana, Persona de Derecho Público con Registro Público Nº 66 de 20 de marzo del 2001, en virtud ley Nº 19.638: constituyentes: El Directorio está constituido por las siguientes personas: Presidente: Jorge Arnaldo Méndez Jara, quien ejerce el cargo de Obispo Superintendente y su ejercicio será en forma vitalicia, Vicepresidente Juan Carlos Pino Serra, Secretario Marcelo Roberto Rivera Pinto, Pro Secretario Ennio Marcelo Ferreccio Morales, Tesorero María Jesús Quiroz Melo, Pro Tesorero Florentino Painen Baltierra, Directores: Ruth Elizabeth Méndez Quiroz y David Alejandro Correa Montes de la Oca, cuyos propósitos son los siguientes:
+
+- **a)** Difundir el Evangelio del Señor Jesucristo, fundamentado en la Biblia, estableciendo para ellos, Templos, Institutos Bíblicos, Escuelas, Librería, Casas editoras, usando los medios de comunicación social, y estableciendo servicios de asistencia social y beneficencia, para socorrer a los desvalidos y debilitados de la comunidad cercana a nuestros Templos.- Para obtener los fines propuestos, se sujetará a las disposiciones legales y vigentes en el país;
+
+- **b)** Promover la comunión cristiana entre los miembros que la integran; y
+
+- **c)** El elemento esencial que caracteriza a esta entidad, sus fundamentos y principios en que sustenta su fe es que "por gracias somos salvos por medio de la fe, pues es don de Dios; no por obras, para que nadie se glorie" Efesios dos, versículo ocho y nueve del Nuevo Testamento.-
+
+Santiago, 11 de julio de 2001.
