@@ -1,0 +1,3 @@
+Por resolución Nº468, de 7 de Abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95110108, presentada por SALMONES MULTIEXPORT LTDA., para operar un centro de cultivo ubicado en Puerto Cisnes, Comuna de Cisnes, Provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 14 del DS Nº290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de Abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
