@@ -1,0 +1,7 @@
+DISPONE MODIFICACION DE MENCIONES Y DATOS EN RELACION A POSTULACIONES QUE SEÑALA
+
+Resolución exenta Nº 1.499, de fecha 5 de junio de 1998, dispone la modificación de las menciones y datos en relación al tramo de valor de vivienda a que postuló doña Patricia del Carmen González Flores y en relación a la región a que efectivamente postuló don Pablo Ariel Larenas Achurra, en las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado 2-97 a Postulación para la Adquisición o Construcción de Viviendas emplazadas en Zonas de Renovación Urbana del Sistema General Unificado de Subsidio Habitacional.
+
+Déjase constancia que las modificaciones mencionadas mantienen en 1.127 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado 2-97 a Postulación para la Adquisición o Construcción de Viviendas emplazadas en Zonas de Renovación Urbana del Sistema General Unificado de Subsidio Habitacional y en 224.480 Unidades de Fomento (U.F.), el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.-
+
+Sergio González Tapia, Subsecretario de Vivienda y Urbanismo subrogante.
