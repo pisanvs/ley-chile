@@ -1,0 +1,5 @@
+Por resolución Nº 1.790, de 11 de diciembre de 1998, de esta Subsecretaría, autorízase a PATAGONIA SALMON FARMING S.A. para ampliar actividades pesqueras de transformación que tiene autorizadas por resoluciones Nº 873, de 1995, y Nº 33, de 1998, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Bahía Ilque s/n, comuna de Puerto Montt, provincia de Llanquihue, X Región, en las líneas de elaboración que a continuación se indican, los siguientes recursos hidrobiológicos: Fresco-Refrigerado, Congelado, Ahumado: Congrio colorado, Congrio dorado, Congrio negro, Corvina, Huaiquil o Corvinilla, Jurel, Lenguado de ojos chicos, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Pejerrey de mar, Róbalo, Sierra, Marrajo o tiburón, Tollo, Caracol locate, Caracol trumulco, Culengue, Cholga, Choro, Chorito, Navaja de mar o Huepo, Lapa, Loco, Macha, Navajuela, Ostra chilena, Ostra del Pacífico y Pulpo.
+
+El recurso Ostra del Pacífico deberá provenir de centros de cultivo autorizados.
+
+Valparaíso, 11 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
