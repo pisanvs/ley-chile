@@ -182,11 +182,11 @@ Se denominarán Oficiales de Servicios Especiales aquellos Oficiales de Línea y
 
 En el Ejército podrá existir un Escalafón de Complemento, integrado por aquellos Oficiales de los grados de Capitán, Mayor, Teniente Coronel y Coronel, provenientes de los Escalafones de Armas, Material de Guerra, Intendencia, Transporte y Ayudantía General.
 
-El Presidente de la República, por decreto supremo, a requerimiento del Comandante en Jefe del Ejército, podrá fijar anualmente el número de Oficiales de los referidos escalafones que pasará al Escalafón de Complemento.
+En la Fuerza Aérea podrá existir un Escalafón de Complemento integrado por Oficiales de los grados de Capitán de Bandada, Comandante de Escuadrilla, Comandante de Grupo y Coronel de Aviación, provenientes de los Escalafones de Línea del Aire, de Ingenieros, de Defensa Aérea y de Administración.
 
-Los Oficiales que ingresen a este escalafón serán deter- minados anualmente por la respectiva Junta de Selección de Oficiales, con el mismo grado que éstos tengan en los escalafones a que pertenezcan.
+El Presidente de la República, por decreto supremo, a requerimiento del Comandante en Jefe del Ejército o de la Fuerza Aérea, en su caso, podrá fijar anualmente el número de Oficiales de los referidos escalafones que pasará al Escalafón de Complemento.
 
-En ningun caso estos Oficiales podrán restituirse a los escalafones de origen y no podrán ascender, excepto cuando la Junta de Selección de Oficiales estima que algún Teniente Coronel o Mayor, se hacen merecedores de ascenso, en cuyo caso podrá proponerlo u otorgarlo, según sea el caso y siempre que exista la vacante correspondiente. Este ascenso no podrá ser en más de un grado mientras se esté en este escalafón, y siempre que el total de su promoción ya hubiere ascendido. La cantidad de ascensos se determinará anualmente en el estudio técnico que la Dirección del Personal elabora para la respectiva Junta de Selección.
+Los Oficiales que ingresen a este escalafón serán determinados anualmente por la respectiva Junta de Selección de Oficiales, con el mismo grado que éstos tengan en los escalafones a que pertenezcan. En ningún caso estos Oficiales podrán restituirse a los escalafones de origen y no podrán ascender, excepto cuando la Junta de Selección de Oficiales estima que algún Teniente Coronel o Mayor, o sus equivalentes en la Fuerza Aérea, se hacen merecedores de ascenso, en cuyo caso podrá proponerlo u otorgarlo, según sea el caso y siempre que exista la vacante correspondiente. Este ascenso no podrá ser en más de un grado mientras se éste en este escalafón, y siempre que el total de su promoción ya hubiere ascendido. La cantidad de ascensos se determinará anualmente en el estudio técnico que la Dirección del Personal en el Ejército o el Comando de Personal en la Fuerza Aérea elaboren para la respectiva Junta de Selección.
 
 Las normas de funcionamiento de este escalafón y demás exigencias a que estarán sujetos dichos Oficiales, serán las que establezca el Reglamento Complementario.
 
@@ -400,6 +400,10 @@ a) De Línea:
 
 - De Apoyo Técnico
 
+. De Comunicación y
+
+Eléctrónica
+
 . De Mantenimiento
 
 y Armamento
@@ -407,10 +411,6 @@ y Armamento
 . De Apoyo de las
 
 Operaciones Aéreas
-
-. De Comunicación y
-
-Eléctrónica
 
 - De Apoyo Administrativo
 
@@ -655,6 +655,8 @@ En el caso del ascenso a General de Brigada Aérea, sólo podrán ser propuestos
 En todo caso, los Oficiales Superiores y Comandantes de Grupo que no hayan ascendido, podrán permanecer en servicio durante el plazo máximo de tres años, contado desde el ascenso de un Oficial que les siga en antigüedad. Transcurrido este plazo, si no hubieren ascendido, deberán necesariamente ser incluidos en Lista de Retiro. Ello, sin perjuicio de la aplicación de las normas generales sobre eliminación, durante el término señalado.
 
 El ascenso al grado de Suboficial Mayor se cursará por el respectivo Comandante en Jefe, a proposición de una Junta Especial de Selección, en conformidad con los requisitos que, para cada Institución, establezca el Reglamento Complementario respectivo.
+
+En la Armada, los ascensos hasta el grado de Capitán de Navío inclusive, de las promociones de Oficiales egresados de la Escuela Naval, excepto aquellos que integran el escalafón de Oficiales de Mar, se harán siguiendo el orden de precedencia establecido en el artículo 5° de este Estatuto. Lo anteior, no regirá en aquellos casos en que los ascensos no pudieren hacerse efectivos por no cumplirse los requisitos establecidos al efecto o por concurrir alguna otra causal legal o reglamentaria que impida ascender a un determinado Oficial.
 
 #### Artículo 33°
 
@@ -1356,6 +1358,8 @@ Comandante de Grupo_
 
 f) Oficiales de Banda (B)
 
+Teniente 7 años
+
 Capitán de Bandada_ 5 Años
 
 Comandante de
@@ -1692,7 +1696,7 @@ b) Resolver en única instancia, los reclamos interpuestos por los afectados en 
 
 c) Clasificar a los Oficiales Subalternos, en mérito a los conceptos de las calificaciones y a sus propias apreciaciones;
 
-d) Proponer a la Junta de Selección de Oficiales Jefes y Superiores aquellos Oficiales que integrarán las Listas de Retiro, de acuerdo con las instrucciones que imparta el Comandante en Jefe Institucional.
+d) Proponer a la Junta de Selección de Oficiales Jefes y Superiores aquellos Oficiales que integrarán las Listas de Retiro o los que pasarán al Escalafón de Complemento, de acuerdo con las instrucciones que imparta el Comandante en Jefe Institucional.
 
 (5) De la Junta de Selección de Oficiales Jefes y Superiores en la Fuerza Aérea:
 
@@ -1704,13 +1708,13 @@ c) Clasificar a los Oficiales Jefes y Superiores, en mérito a los conceptos de 
 
 d) Formar la lista de retiros;
 
-e) SUPRIMIDA;
+e) Formar la lista de Oficiales que pasarán al Escalafón de Complemento;
 
 f) Conocer y resolver, en única instancia, las solicitudes de reconsideración que los Oficiales Subalternos y Jefes, interpongan respecto a su calificación y clasificación cuando ello no signifique el retiro del servicio, y
 
 g) Conocer y resolver, en primera instancia, las solicitudes de reconsideración que interpongan los afectados en los siguientes casos:
 
-- Los Oficiales, en general, respecto a las resoluciones que determinen su inclusión en lista de retiros.
+- Los Oficiales, en general, respecto a las resoluciones que determinen su inclusión en lista de retiros o ingreso al Escalafón de Complemento.
 
 - Los Oficiales, en general, respecto a su clasificación en lista, 4, ó 3, por segunda vez consecutiva.
 
@@ -2626,9 +2630,11 @@ Retiro
 
 16 4
 
-Los Empleados Civiles de las Fuerzas Armadas y de las Subsecretarías de Guerra, Marina y Aviación tendrán derecho a la renta del o los grados superiores al que se encuentren encasillados de acuerdo con sus años de servicios de aquellos señalados en el artículo 108 o válidos para el retiro según corresponda, en relación con los tiempos mínimos que les fueren requeridos para el ascenso, siguiendo el orden correlativo de los grados de la Escala de Sueldos de las Fuerzas Armadas, con la limitación de que no podrán obtener por este concepto una renta mayor a la del grado de renta precedente al superior de aquella que les corresponda de acuerdo a su ubicación en la planta respectiva. Para obtener las rentas superiores asignadas a su respectivo cargo, este personal podrá computar los excesos de tiempo servido en grados anteriores, sea en su actual escalafón o en otros en que se haya desempeñado, que no hubiere utilizado para disfrutar de este beneficio.
+Los Empleados Civiles de las Fuerzas Armadas y de las Subsecretarías de Guerra, Marina y Aviación tendrán derecho a la renta del grado jerárquico que les correspondería tener de acuerdo con sus años de servicios de aquellos señalados en el artículo 108 o válidos para el retiro según corresponda, en relación con los tiempos mínimos que les fueren requeridos para el ascenso, siguiendo el orden correlativo de los grados de la Escala de Sueldos de las Fuerzas Armadas, con la limitación de que no podrán obtener por este concepto una renta mayor a la del grado de renta precedente al superior de aquella que les corresponda de acuerdo a su ubicación en la planta respectiva. Para obtener las rentas superiores asignadas a su respectivo cargo, este personal podrá computar los excesos de tiempo servido en grados anteriores, sea en su actual escalafón o en otros en que se haya desempeñado, que no hubiere utilizado para disfrutar de este beneficio.
 
 Para el solo efecto de la aplicación de este artículo, se considerará que el personal a que se refiere el inciso anterior requiere de cuatro años de permanencia en cada grado para ascender.
+
+Los Empleados Civiles en cuyos escalafones o plantas no se consulten grados jerárquicos superiores al cual estuvieren encasillados y aquellos que no forman escalafón, gozarán de las remuneraciones correspondientes al grado superior y al que precede,siguiendo el orden correlativo de la Escala de Sueldos de las Fuerzas Armadas, al enterar los requisitos de tiempo mínimo a que se refieren los incisos precedentes, según se trate de uno u otro beneficio. Igual norma se aplicará a los Empleados Civiles que ocupan el grado jerárquico inmediatamente inferior al grado máximo de su respectivo escalafón, para obtener la renta del grado precedente al superior. En todo caso, los que hayan alcanzado el grado máximo de su respectivo escalafón, podrán igualmente obtener el beneficio del sueldo precedente al superior, al enterar 30 años de servicios válidos para el retiro.
 
 #### Artículo 132°
 
@@ -3534,7 +3540,7 @@ b) Con una imposición del cinco por ciento sobre las pensiones de retiro y mont
 
 c) Con un aporte fiscal, que se efectuará por duodécimos, equivalente al 0,2% del total de remuneraciones imponibles y pensiones de retiros y montepíos que se pague al personal afecto a la presente ley;
 
-d) Con un aporte de la Caja de Previsión de la Defensa Nacional, equivalente al 0,50 del ocho por ciento que percibe por concepto de imposición previsional del personal afecto a desahucio;
+d) Con un aporte de la Caja de Previsión de la Defensa Nacional equivalente al 1/2% de las sumas afectas a los descuentos a que se refieren las letras a) y b) del artículo 5° del decreto con fuerza de ley N° 31, de 1953, del personal afecto a desahucio;
 
 e) Con las devoluciones que efectúe el personal que vuelve al servicio, con goce de pensión y con derecho a obtener nuevo desahucio, y
 
@@ -3668,9 +3674,9 @@ El personal señalado en el artículo 2° del presente Estatuto y en el artícul
 
 1°.- Se le considerará en posesión de 30 años de servicios efectivos en las Fuerzas Armadas para todos los efectos legales, incluso trienios, cualquiera haya sido el tiempo real de su desempeño, y
 
-2°.- Se le aumenta la indemnización establecida en el artículo 208°, letra a) del presente cuerpo de leyes a un monto equivalente a tres años de sueldo base que al causante le correspondería percibir con arreglo a las disposiciones legales vigentes y a lo prescrito en el N° 1 anterior.
+2°.- Se le aumenta la indemnización establecida en el artículo 208°, letra a) del presente cuerpo de leyes a un monto equivalente a tres años de sueldo imponible que al causante le correspondería percibir con arreglo a las disposiciones legales vigentes y a lo prescrito en el N° 1 anterior.
 
-De iguales derechos gozará el personal que en las situaciones mencionadas en el inciso anterior, aunque no se desempeñe en un acto del servicio, fuere muerto o inutilizado, víctima de atentados, por su sola condición de miembro de las Fuerzas Armadas.
+De iguales derechos gozará el personal mencionado en el inciso primero que, rigiendo o no un estado de excepción constitucional, fuere muerto o inutilizado, víctima de atentados por su sola condición de miembros de las Fuerzas Armadas, esté o no en el desempeño de un acto de servicio, todo lo cual será calificado por el Comandante en Jefe respectivo.
 
 #### Artículo 237°
 
@@ -3680,9 +3686,7 @@ A medida que se produzcan tales vacantes, se restituirán, en forma automática,
 
 En la misma forma, en el Ejército, el Presidente de la Républica podrá aumentar transitoriamente las plazas de los Coroneles, Tenientes Coroneles y Mayores en el Escalafón de Armas, en el número de plazas no ocupadas, en estos mismos grados, en el Escalafón de Complemento, cuando sea necesario para la movilidad del Escalafón de Armas derivada de la aplicación de lo dispuesto en el inciso final del artículo 32°.
 
-INCISO CUARTO SUPRIMIDO.
-
-INCISO QUINTO SUPRIMIDO.
+Asimismo, en la Fuerza Aérea, el Presidente de la República podrá aumentar transitoriamente las plazas de Coroneles de Aviación y de Comandantes de Grupo de los Escalafones del Aire, de Ingenieros, de Defensa Aérea y de Administración, en el número de plazas no ocupadas, en estos mismos grados, en el Escalafón de Complemento, cuando sea necesario para la movilidad de los mismos, derivada de la aplicación de lo dispuesto en el artículo 79, N° 5, letra h).
 
 #### Artículo 238°
 
