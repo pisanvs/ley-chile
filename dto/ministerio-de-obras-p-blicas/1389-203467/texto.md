@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.389, de fecha 31 de julio de 2002, se expropió el lote de terreno Nº24, superficie 187 m2, rol de avalúo Nº559-16, comuna de Linares, para la obra ''Camino Ruta L-45, Sector Linares-Llepo, Tramo Km. 2,750.2 a Km. 13,147'', VII Región, y se acordó el valor de la indemnización con su propietaria Pascuala del Carmen Ibáñez Castro, ascendente a la cantidad de $4.606.474.-
+
+Fiscal del Ministerio de Obras Públicas.
