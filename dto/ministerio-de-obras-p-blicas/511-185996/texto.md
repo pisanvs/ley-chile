@@ -1,0 +1,3 @@
+Por decreto MOP Nº 511 de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs 6, 7, 8, 6-A, 7-A y 8-A, superficie 110,00, 115,00, 65,00, 610,00, 53,00, 60,00 m2, respectivamente, Rol de avalúo 519-23, comuna de Combarbalá, para la obra "Mejoramiento Ruta D-55, Sector Puente La Ligua - Bifurcación San Lorenzo" y se acordó el valor de indemnización con su propietario Comunidad Agrícola Castillo Mal Paso y Otros, ascendente a la cantidad de $5.989.132.-
+
+Fiscal del Ministerio de Obras Públicas.
