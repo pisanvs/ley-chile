@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.214 de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº82, superficie 618 m², Rol de Avalúo Nº611-54, comuna de Nueva Imperial, para la obra "Camino Ruta S-16, Sector Galvarino-Chol Chol, Tramo Km. 0,00000 al Km. 24,33510, Provincia de Cautín, comuna de Galvarino y Nueva Imperial", y se acordó el valor de indemnización con su propietario Osvaldo Neira u Osvaldo Neira Romero, ascendente a la cantidad de $272.309.-
+
+Fiscal del Ministerio de Obras Públicas.
