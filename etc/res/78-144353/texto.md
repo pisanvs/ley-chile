@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA COLOSO S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución N° 78, de 26.01.87, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Coloso S.A., domiciliaria en Santiago, para operar, a partir del 17 de agosto de 1987, una nave en construcción en reemplazo de las embarcaciones "Calle Calle", "Punta Ballena" y "Rengo", en el litoral de las Regiones I y II, en faenas extractivas de los recursos: Jurel, sardina española, caballa y anchoa. Deróganse, a partir de la misma fecha, las resoluciones N° 154, de 1980 y N° 401, de 1986, ambas de esta Subsecretaría, que autorizaron la operación de los barcos "Calle Calle" y "Punta Ballena", respectivamente y el numeral 8°, II, letra b) del Decreto de Agricultura N° 629, de 1976, que autorizó operar la embarcación "Rengo".
+
+Valparaíso, 26.01.87.- Roberto Cabezas Bello, Subsecretario de Pesca.
