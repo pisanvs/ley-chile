@@ -1,0 +1,5 @@
+DISPONEN EXPROPIACIONES TOTALES Y PARCIALES DE INMUEBLES QUE INDICAN
+
+Resolución 268, 24 Noviembre 2000, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Línea Férrea s/nº, Rol de Avalúo Nº 2720-001, comuna Chiguayante, superficie 12.380,90 m2. de terreno y 112,30 m2. de edificación, dentro polígonos y linderos señalados plano expropiación 2720-001; de aparente dominio de Comunidad Schaub, para ejecución programa ''Mejoramiento Vial Eje O'Higgins de Chiguayante'', conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por don Boris Aptecar González, arquitecto, don Orlando Paredes Vásquez, ingeniero civil y don Sergio Labarca Garrido, constructor civil, según informe de fecha 17 de Octubre de 2000, fijó monto provisional indemnización en $198.195.950.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
