@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.159 de fecha 30 de noviembre del 2004, se expropiaron los lotes de terrenos Nºs. 88-I y 90-B, superficies 10.691 y 1.597 m2, Rol en trámite, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, sector Chovellen - Límite Regional, tramo Km. 18,260.00 a Km 35,158.60" y se acordó el valor de indemnización con su propietaria Adelina del Carmen Torres Alarcón y Otra, ascendente a la cantidad de $30.745.711.- para los lotes Nºs 88-I y 90-B.
+
+Fiscal del Ministerio de Obras Públicas.
