@@ -1,0 +1,3 @@
+Por resolución Nº 1.267, de 9 de julio de 1999, de esta Subsecretaría, rectifícase la resolución Nº 1.742 de 1 de diciembre de 1998, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura presentada por ARTURO SIMON ANTIGUAL ARRIAGADA, en el sentido de sustituir en su numeral 1º, el número de solicitud ''94103033'' por ''94103038''.
+
+Valparaíso, 9 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
