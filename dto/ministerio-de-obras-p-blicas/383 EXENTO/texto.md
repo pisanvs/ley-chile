@@ -1,0 +1,5 @@
+Por decreto MOP. exento Nº383, de 30 de marzo de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1, 2, 3, 10, 14, 44 y 48, para la obra Proyecto Embalse Puclaro sector Variante a Ruta 41-CH, Km. 0,000 a Km. 10.320, que figuran a nombre de Com. Agríc. Los Algodones y Comunidad Agrícola Los Algodón, roles de avalúo 402-3 y 404-1, superficies 2.620 m2.;
+
+48.022 m2.; 20.800 m2.; 37.960 m2; 4.600 m2; 20.300 m2. y 10.530 m2., comuna de Vicuña. La Comisión de Peritos, con fecha 25 de septiembre de 1996, fijó la indemnización provisional en las cantidades de $866.320, lote Nº1, $576.099, lote Nº2, $593.280, lote Nº3, $245.820, lote 10, $207.360, lote 14, $111.350, lote 44 y $47.385, lote 48, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
