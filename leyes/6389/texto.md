@@ -1,0 +1,1 @@
+Concede, por el plazo que indica, al Club Deportivo y Social de Putaendo, el uso y goce del terreno que expresa y cuyos deslindes señala.
