@@ -1,0 +1,3 @@
+Por decreto MOP Nº 152 de fecha 27 de febrero del 2004, se expropió el lote de terreno Nº 1, superficie 706 m2, Rol Nº 288-2, comuna de Los Vilos, IV Región para la obra "Construcción Puente Sobre Río Quilimarí y Accesos, sector Quilimarí, Km. 0,00000 a 0,98350" y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Los Vilos, ascendente a la cantidad de $3.565.538.-
+
+Fiscal del Ministerio de Obras Públicas.
