@@ -1,0 +1,3 @@
+Por resolución Nº165, de 30 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución Nº644 de 1989, de esta Subsecretaría, que autorizó a JUAN ALVARO OLIVARES CARCAMO, para instalar y operar un centro de cultivo ubicado en Río Quenuir, comuna de Maullín, X Región, por haberse dejado sin efecto el D.S. Nº624 del 13 de septiembre de 1990 del Ministerio de Defensa Nacional.
+
+Valparaíso, 30 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
