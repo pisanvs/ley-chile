@@ -1,0 +1,3 @@
+Por Resolución N° 395, de 7 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto, las Resoluciones N° 423, de 1991 y N° 118, de 1994, de esta Subsecretaría, que autorizaron a JUAN IVAN ADIO ALVARADO, R.U.T. N° 11.309.898-8, para operar un centro de cultivo ubicado en Canal Quihua, Comuna de Calbuco, Provincia de Llanquihue, X Región, en virtud de la renuncia de su titular.
+
+Valparaíso, 7 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
