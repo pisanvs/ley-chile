@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 190, de 27 de febrero de 1998, se expropiaron los lotes de terreno Nºs. 9 y 13, superficies 558 y 8.812 m2. respectivamente, rol de avalúo 1404-94, comuna de Puerto Varas, para la obra Camino Ampliación Ruta 5 Sur, Sector Puerto Varas-Puerto Montt y se acordó precio de indemnización con su propietario Sergio Rosa Wilke, ascendente a la cantidad de $46.119.866.-
+
+Fiscal del Ministerio de Obras Públicas.
