@@ -1,0 +1,7 @@
+Por resolución Nº 3.555, de 15 de diciembre de 2004, de esta Subsecretaría, modifícase la resolución Nº 407 de 2004, modificada mediante resoluciones Nº 785, Nº 1.112, Nº 1.351, Nº 2.612, Nº 2.769, Nº 2.984, Nº 2.986, Nº 3.125 y Nº 3.462, todas de 2004, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en los siguientes términos:
+
+a) En el numeral 6º inciso 3º, en el sentido de incrementar en 2.000 toneladas de Anchoveta la cuota autorizada a las naves artesanales participantes en la presente pesca de investigación que se encuentren inscritas en el Registro Pesquero Artesanal de la II Región, sección pesquería de la especie Anchoveta. El incremento antes indicado se hará efectivo una vez agotada la cuota establecida mediante resolución Nº 3.125 de 2004, de esta Subsecretaría; y
+
+b) En el numeral 6º inciso 7º, en el sentido de incrementar en 5.000 toneladas de Anchoveta la cuota autorizada a las naves artesanales participantes en la presente pesca de investigación que se encuentren inscritas en el Registro Pesquero Artesanal de la I Región, sección pesquería de la especie Anchoveta.
+
+Valparaíso, 15 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
