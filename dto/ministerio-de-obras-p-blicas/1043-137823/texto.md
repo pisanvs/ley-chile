@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.043 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 3, superficie 1.039 m2., rol de avalúo 2202-141, comuna de Chillán Viejo, para la obra ''Ruta 5 Tramo Talca - Chillán Sector Calle de Servicio Los Colihues'' y se acordó el valor de indemnización con su propietario José Gilberto Sánchez Jara, ascendente a la cantidad de $4.630.346.-
+
+Fiscal del Ministerio de Obras Públicas.
