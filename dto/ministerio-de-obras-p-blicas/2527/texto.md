@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.527, de 31 de agosto de 1999, se expropió el lote de terreno Nº7, superficie 2.135 m², rol de avalúo 4505-19, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Ruta 5 Sur - Departamental y sector Eje General Velásquez, Región Metropolitana y se acordó el valor de indemnización con su propietario Transportes Santa Inés Limitada, ascendente a la cantidad de $73.971.594.-
+
+Fiscal del Ministerio de Obras Públicas.
