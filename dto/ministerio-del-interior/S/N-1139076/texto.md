@@ -514,7 +514,7 @@ Cuando las representaciones tuvieren por fundamento abusos ó atentados cometido
 
 3.° Prestar ó rehusar su consentimiento á los actos del Presidente de la República á que, según lo prevenido en esta Constitución, debe proceder de acuerdo con la Comisión Conservadora;
 
-4.° Pedir al Presidente de la República que convoque extraordinariamente al Congreso cuando, á su juicio, lo exigieren circunstancias extraordinarias y excepcionales;
+4.° Convocar al Congreso a sesiones estraordinarias cuando lo estimare conveniente, o cuando la mayoría de ámbas Cámaras lo pidiere por escrito;
 
 5.° Dar cuenta al Congreso en su primera reunión, de las medidas que hubiere tomado en desempeño de su cargo.
 
@@ -687,6 +687,8 @@ Son atribuciones especiales del Presidente:
 5.° Convocarlo á sesiones extraordinarias, con acuerdo del Consejo de Estado.
 
 6.° Nombrar y remover á su voluntad á los Ministros del Despacho y oficiales de sus secretarías, á los Consejeros de Estado de su elección, á los Ministros diplomáticos, á los Cónsules y demás agentes exteriores, á los Intendentes de provincia y á los Gobernadores de plaza.
+
+El nombramiento de los Ministros Diplomáticos deberá someterse a la aprobación del Senado, o en su receso, al de la Comisión Conservadora.
 
 7.° Nombrar los magistrados de los tribunales superiores de justicia, y los jueces letrados de primera instancia á propuesta del Consejo de Estado, conforme á la parte 2.° del artículo 95.
 
