@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.786, de 31 de octubre de 2001, se expropió el lote de terreno Nº32, superficie 2.497 m2., rol de avalúo 690-18, comuna de El Tabo, para la obra Red Vial Litoral Central. Sector 3: Eje Costero Interior. Subtramo: Quillaicillo-Rosario Km. 13.200,00 al Km. 16.782,246, Quinta Región, se acordó el valor de la indemnización con su propietario Hugo Sergio Moraga Muñoz, ascendente a la cantidad de $78.635.091.
+
+- Fiscal del Ministerio de Obras Públicas.
