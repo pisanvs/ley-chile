@@ -3490,77 +3490,69 @@ A.- INSTITUCIONES CUYA AUTORIZACION RIGA HASTA EL 28 DE FEBRERO DE 1990.
 
 41.- Astilleros y Maestranzas de la Armada.
 
-42.- Fábrica y Maestranza del Ejército.
+42.- Junta de Administración y Vigilancia Zona Franca de Iquique.
 
-## Capítulo 2-11
+43.- Caja Central de Ahorros y Préstamos.
 
-ANEXO N° 1
+44.- Departamento Bienestar Dirección General Aeronáutica Civil.
 
-Pág. 2
+45.- Servicio Bienestar Social de la Armada.
 
-43.- Junta de Administración y Vigilancia Zona Franca de Iquique.
+46.- Dirección de Bienestar de Carabineros.
 
-44.- Caja Central de Ahorro y Préstamos.
+47.- Carabineros de Chile, Imprenta.
 
-45.- Departamento Bienestar Dirección General Aeronáutica Civil.
+48.- Servicio de Bienestar del Magisterio.
 
-46.- Servicio Bienestar Social de la Armada.
+49.- Servicio Bienestar de la Superintendencia de Valores y Seguros.
 
-47.- Dirección de Bienestar de Carabineros.
+50.- Comercializadora de Trigo S.A.
 
-48.- Carabineros de Chile, Imprenta.
+51.- Sociedad Administradora de Créditos de Transporte Ltda. "SACRETLTDA".
 
-49.- Servicio de Bienestar del Magisterio.
+52.- Empresa Eléctrica de Magallanes S.A. "EDELMAG S.A.".
 
-50.- Servicio Bienestar de la Superitendencia de Valores y Seguros.
+53.- Empresa Eléctrica de Aysén S.A. "EDELAYSEN S.A.".
 
-51.- Comercializadora de trigo S.A.
+54.- Municipalidad de Santiago.
 
-52.- Sociedad Administrdorade Créditos de Transporte Ltda. "SACRETLTDA".
+55.- Municipalidad de Las Condes.
 
-53.- Empresa Eléctrica de Magallanes S.A. "EDELGMAG S.A.".
+56.- Municipalidad de Machalí.
 
-54.- Empresa Eléctrica de Aysén S.A. "EDELAYSEN S.A."
+57.- Municipalidad de Viña del Mar.
 
-55.- Municipalidad de Santiago.
+58.- Municipalidad de Providencia.
 
-56.- Municipalidad de Las Condes.
+59.- Municipalidad de Peñalolén.
 
-57.- Municipalidad de Machalí.
+60.- Municipalidad de Cerro Navia.
 
-58.- Municipalidad de Viña del Mar.
+61.- Municipalidad de Lo Prado.
 
-59.- Municipalidad de Providencia.
+62.- Municipalidad de Pudahuel.
 
-60.- Municipalidad de Peñalolén.
+63.- Municipalidad de Estación Central.
 
-61.- Municipalidad de Cerro Navia.
+64.- Municipalidad de La Cisterna.
 
-62.- Municipalidad de Lo Prado.
+65.- Municipalidad de San Joaquín.
 
-63.- Municipalidad de Pudahuel.
+66.- Municipalidad de Rancagua.
 
-64.- Municipalidad de Estación Central.
+67.- Municipalidad de Arica
 
-65.- Municipalidad de La Cisterna.
+68.- Municipalidad de Renca.
 
-66.- Municipalidad de San Joaquín.
+69.- Municipalidad de Maipú.
 
-67.- Municipalidad de Rancagua.
+70.- Municipalidad de San Bernardo.
 
-68.- Municipalidad de Arica.
+71.- Municipalidad de Valparaíso.
 
-69.- Municipalidad de Renca.
+B.- INSTITUCIONES CUYA AUTORIZACIÓN RIGE HASTA EL 19 DE JULIO DE 1990.
 
-70.- Municipalidad de Maipú.
-
-71.- Municipalidad de San Bernardo.
-
-72.- Municipalidad de Valparaíso.
-
-B. INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1989.
-
-### 1. Municipalidad de Santiago
+1.- Instituto de Investigaciones Tecnológicas.
 
 ### 2. Municipalidad de Las Condes
 
@@ -4758,11 +4750,9 @@ En el caso de que alguna Cámara se opere mediante un sistema de transmisión y 
 
 participantes.
 
-4.- Los delegados de todas las instituciones, deberán encontrarse en la sala de reuniones de la Cámara Compensadora antes de las horas fijadas por este Reglamento para su iniciación.
+4.- Los delegados de todas las instituciones deberán encontrarse en la sala de reuniones de la Cámara Compensadora antes de las horas fijadas por este Reglamento para su iniciación, salvo en el caso que la presencia de éstos no sea necesaria por tratarse de reuniones destinadas exclusivamente a ajustes y compensaciones que se realicen mediante un sistema de transmisión y procesamiento electrónico de datos, para aquellas instituciones conectadas a dicho sistema.
 
-5.- La Institución de Turno deberá atender las solicitudes de prórroga que, para la iniciación de la reunión o la transmisión de los datos en su caso, puedan presentar los participantes, siempre que dicha solicitud se presente antes de la hora habitual fijada para el comienzo de la respectiva sesión o para la recepción de los datos. Estas prórrogas podrán otorgarse por un tiempo
-
-razonable, el que será determinado por el Jefe de Cámara de la Institución de Turno. Respecto de la quinta Cámara no podrán otorgarse prórrogas, salvo que se obtenga previamente autorización expresa del Banco Central de Chile.
+5.- La Institución de Turno deberá atender las solicitudes de prórroga que, para la iniciación de la reunión o la transmisión de los datos en su caso, puedan presentar los participantes, siempre que dicha solicitud se presente antes de la hora habitual fijada para el comienzo de la respectiva sesión o para la recepción de los datos. Estas prórrogas podrán otorgarse por un tiempo razonable, el que será determinado por el Jefe de Cámara de la Institución de Turno. Respecto de la quinta Cámara no podrán otorgarse prórrogas, salvo que se obtenga previamente autorización expresa del Banco Central de Chile.
 
 6.- Si algún delegado llegare con atraso o una institución no transmitiera la información oportunamente, en el caso de utilizarse un sistema de transmisión y procesamiento electrónico de datos, el Jefe de Cámara dará cuenta a la superioridad de la Institución de Turno para que ésta notifique del hecho a la Institución respectiva.
 
@@ -4778,13 +4768,15 @@ II.- DE LAS REUNIONES DE LA CAMARA.
 
 a) Primera Reunión (Cámara Inicial):
 
-a1) Esta reunión se iniciará todos los días hábiles a las horas que se indican:
+al) Esta reunión se iniciará todos los días hábiles a las horas que se indican:
 
 Lunes: 17:30 horas
 
 Martes a viernes: 17:00 horas
 
 Si el día lunes no fuere hábil, la primera Cámara del día siguiente hábil se celebrará a partir de las 17:30 horas.
+
+Sin embargo, podrá fijarse en forma permanente un horario distinto a éste cuando el volumen de documentos a procesar o las características de una determinada plaza financiera así lo aconsejare. Esta modificación deberá acordarse por la mayoría absoluta de las instituciones de la plaza e informarse a la Superintendencia de Bancos e Instituciones Financieras, por el Gerente o Agente de la Institución que se encuentre de turno, en la fecha en que ella se adopte.
 
 a2) El objetivo de esta reunión es efectuar el canje, la compensación y el cobro de los cheques y demás documentos de las empresas financieras de cargo de las otras de la misma plaza. Sin embargo, toda institución tiene el derecho de no cobrar por Cámara cualquier documento que tenga contra otra.
 
@@ -4808,6 +4800,8 @@ bl) Todos los días hábiles, a las 9:30 horas en el mismo recinto de la Cámara
 
 b2) La determinación de saldos a favor y en contra se hará conforme al procedimiento ya señalado para la primera reunión.
 
+b3) En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, las planillas podrán remplazarse por el envío de mensajes a través de la red del sistema y el ajuste de valores y devolución de documentos rechazados se efectuará en la tercera reunión. Asimismo, la determinación de saldos a favor y en contra se efectuará en forma transitoria, realizándose en todo caso la transmisión de las planillas pertinentes a las instituciones financieras.
+
 c) Tercera Reunión (Cámara de devoluciones):
 
 c1) Esta reunión se efectuará todos los días hábiles a las horas que se indican:
@@ -4825,6 +4819,8 @@ c3) Los cheques para ser devueltos deberán llevar estampado en el dorso un timb
 En consecuencia, quedará establecida la conformidad de todos aquellos documentos que no sean devueltos por su intermedio, salvo que por acuerdo entre la institución receptora y la obligada al pago se resuelva qué esta última pague el documento fuera de Cámara.
 
 c4) El procedimiento de compensación de esta tercera reunión será igual al establecido en el numeral a4) anterior.
+
+c5) En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, se efectuará también en esta reunión el ajuste de valores y devolución de documentos rechazados, cuyos montos hayan sido incluidos en los mensajes de la segunda reunión, procediéndose al cierre de ésta conjuntamente con la transmisión de las planillas definitivas.******
 
 d) Cuarta Reunión (Cámara de Operaciones Interfinancieras):
 
@@ -20880,6 +20876,8 @@ Operaciones Activas.
 
 Partidas N°s. 1205 a 1248.
 
+Partida N° 2136
+
 Operaciones Pasivas.
 
 Partida N° 3035
@@ -21011,6 +21009,8 @@ Partidas N°s. 1655 a 1725
 Partidas N°s. 1735 y 1740
 
 Partidas N°s. 1765 y 1775.
+
+Partida N° 2136
 
 De conformidad con lo dispuesto en la Circular N° 2302-715 de 16 de noviembre de 1987, las instituciones financieras deberán deducir de las partidas de activo que corresponda el saldo de la cuenta "Pactos de estabilización de dividendos".
 
