@@ -1,0 +1,17 @@
+CONCEDE PENSION, POR GRACIA, A PERSONAS QUE INDICA
+
+Santiago, 13 de agosto de 1999.- Hoy se decretó lo que sigue:
+
+Núm. 4.239.- Visto: Lo dispuesto en el artículo 32 Nº 13, de la Constitución Política de la República de Chile, en la ley Nº 18.056, el informe favorable emitido en reunión de fecha 10 de junio de 1999, de la Comisión Especial, creada por decreto supremo Nº 1.928, de 1981, de Interior, y Considerando: Que las personas que a continuación se indican, se encuentran en la situación prevista en el artículo 6º, de la ley Nº 18.056, la que ha sido debidamente calificada y en uso de la facultad privativa que la disposición citada me confiere,
+
+D e c r e t o:
+
+#### Artículo único
+
+Concédese, por gracia, a cada una de las siguientes personas: Carmen Aniñir Aniñir, RUT 6.841.165-3; Orlando Baeza Contreras, RUT 7.717.856-2; Enrique Pedro Castillo Rivero, RUT 5.905.864-9; Gilberto Antonio Cerda Muñoz, RUT 4.996.782-9; Ricardo del Carmen Contreras Astorga, RUT 4.195.689-5; Germán Díaz Romero, RUT 5.093.429-2; Simón Escalona Escalona, RUT 4.326.432-K; Primitivo Fuentealba Ormeño, RUT 4.670.089-9; Martiniano Gallegos Hermosilla, RUT 3.888.199-K; Manuel Alejandro García Rivera, RUT 4.685.718-6; Brunilda del Carmen González González, RUT 5.245.206-6; Lorenzo Huaiquil Maribur, RUT 7.616.800-8; Manuel Arturo Inostroza Saldías, RUT 4.628.532-8; Ramón María Jara Torres, RUT 4.597.369-7; José Waldemar Jiménez Caiga, RUT 4.897.019-2; Juan Agustín Lagos Andaeta, RUT 4.200.265-8; Carlos Reinaldo Lagos Roa, RUT 4.797.719-3; Anselmo Llanquileo Millanao, RUT 5.496.491-9; Eugenio Mellado Montoya, RUT 4.234.997-6; Francisco Javier Molina Hernández, RUT 4.324.257-1; Manuel Monsalves Monsalves, RUT 4.897.727-8; Luis Eliseo Morales Vega, RUT 4.451.618-7; Luisa Genoveva Muñoz Cabrera, RUT 6.638.478-0; Eusebio del Tránsito Nova Vera, RUT 5.533.756-K; Adán Jesús Otárola Pardo, RUT 4.128.319-K; Ilda del Carmen Palacios Parra, RUT 6.480.217-8; Inés de las Mercedes Palma Navarrete, RUT 4.670.911-K; Manuel Jesús Parra Esparza, RUT 4.373.419-9; Juan de Dios Pino Ramírez, RUT 4.548.555-2; José Carlos Poblete Barrueto, RUT 6.305.486-0; Luis Hernán Quijada Quijada, RUT 4.952.562-1; Pedro Antonio Ramírez Acuña, RUT 6.323.411-7; Graciela Rosa Rojas Castillo, RUT 5.907.955-7; José Delmo Saldías Reyes, RUT 4.987.668-8; José Filidor Sepúlveda Rubio, RUT 4.636.152-0; Bernardo Trangulao Huentelao, RUT 4.379.032-3; Prosperina del Carmen Valdebenito Quezada, RUT 6.277.603-K; Regina de las Mercedes Verdugo Jara, RUT 4.705.351-K, una pensión equivalente a un ingreso mínimo mensual, debiendo considerarse que el monto del ingreso mínimo para estos efectos, es aquel a que hace referencia el inciso 1º, del artículo 5 de la ley Nº 18.647, que se emplea para fines no remuneracionales.
+
+El gasto que demande el presente decreto supremo, se imputará al item ''Jubilaciones, Pensiones y Montepíos'', del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro Público.
+
+Anótese, tómese razón, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Raúl Troncoso Castillo, Ministro del Interior.- Eduardo Aninat Ureta, Ministro de Hacienda.
+
+Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud., Guillermo Pickering de la Fuente, Subsecretario del Interior.
