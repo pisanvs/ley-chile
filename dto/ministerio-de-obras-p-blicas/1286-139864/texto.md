@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.286 del 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.42 y 53, superficies 60 m2 y 29 m2., roles de avalúo 2020-232 y 2020-96, comuna de Melipilla, para la obra Camino Ruta G-668, sector El Molino - Codigua, y se acordó precio de indemnización con sus propietarios Rosamel Vera García y Víctor Cañas Alvarado, ascendente a las cantidades de $604.307 y $434.403.-
+
+Fiscal del Ministerio de Obras Públicas.
