@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 399 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 5, superficie 87,0 m2, rol de avalúo Nº 137-392, comuna de Paine, para la obra "Camino sin Rol, sector Peralillo - Abrantes, tramo Km. 0,00000 a Km. 6,03921", comunas de Paine y Buin, provincia de Maipo", Región Metropolitana y se acordó el valor de la indemnización con su propietaria Magdalena del Carmen Gárate Soto, ascendente a la cantidad de $674.517.-
+
+Fiscal del Ministerio de Obras Públicas.
