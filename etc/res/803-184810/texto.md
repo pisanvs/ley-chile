@@ -1,0 +1,3 @@
+Por resolución Nº 803, de 20 de abril de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99103241, presentada por INVERTEC PESQUERA MAR DE CHILOE S.A., para instalar y operar el centro de cultivo ubicado al este de Punta Mesa de Piedra, Isla Chulín, comuna de Chaitén, provincia de Palena, X Región.
+
+Valparaíso, 20 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
