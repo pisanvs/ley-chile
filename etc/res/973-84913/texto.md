@@ -1,0 +1,3 @@
+Por resolución No. 973 de 13 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por 30 días, a contar de la fecha de esta resolución el plazo otorgado en el No. 2 de la resolución No. 797, de 1992, de esta Subsecretaría que modificó las características naúticas de la nave "Ike II" de SOCIEDAD MAR JORDAN S.A., RUT No. 86.583.600-7, domiciliada en Arica, por haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 13 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
