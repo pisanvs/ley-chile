@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 1.273, de 31 de mayo de 1999, se expropió el lote de terreno Nº 97, superficie 3.010 m2., rol de avalúo 1437-33, comuna de Llanquihue, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt. Sector: Fresia - Puerto Varas, Décima Región y se acordó el valor de indemnización con su propietario Gert Otwin Werner Kretschmar, ascendente a la cantidad de $7.688.293.
+
+Fiscal del Ministerio de Obras Públicas.
