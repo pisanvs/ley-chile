@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD COMERCIAL INDUSTRIAL AGROACUICOLA CHAMIZA LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 277, de 20 de Mayo de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Comercial Industrial Agroacuícola Chamiza Limitada, domiciliada en el sector rural Chamiza, kilómetro 14, camino Puerto Montt a Lago Chapo, para instalar y operar una planta de conservas y ahumado de recursos hidrobiológicos en el domicilio señalado, en la que podrá utilizar como materia prima: pejerrey de mar, róbalo, salmón del Pacífico, sardina común, sardina española, sierra, trucha arco iris, almejas, cholga, chorito, choro zapato, macha, jaiba y piure. Los recursos choro, trucha y salmón deberá adquirirlos la peticionaria exclusivamente en establecimientos de cultivo autorizados.
+
+Santiago, 20 de Mayo de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca
