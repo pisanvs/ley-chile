@@ -1,0 +1,5 @@
+Por resolución N°1.285 de 28 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 3° de las resoluciones N°717, N°718 y N°719, de 1992, todas de esta Subsecretaría, por las cuales se autorizó a PESCA CHILE S.A., R.U.T. N°95.023.000-2, domiciliada en Santiago, Estado N°10, oficina 801, para ampliar actividades pesqueras con las embarcaciones "Pesca Chile I", "Pesca Chile II" y "Pesca Chile IV", en el sentido de agregar entre los recursos que se le faculta extraer, la especie Cojinoba del norte, empleando espinel, en el litoral de la III a IV Regiones. Asimismo se le autoriza a extraer con dichas naves, en el litoral de la I a III Regiones, empleando espinel, el recurso Corvina.
+
+Modifícase, asimismo, la resolución N°718, de 1992, de esta Subsecretaría, en su numeral tercero, en el sentido de reemplazar las palabras "litoral de las Regiones I y V," por las siguientes: "áreas de pesca correspondiente a las Regiones I a V".
+
+Valparaíso, 28 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
