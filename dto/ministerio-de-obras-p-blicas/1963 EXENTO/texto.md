@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.963, de 28 de diciembre de 2001, se expropió el lote de terreno Nº27, superficie 685 m2., rol de avalúo 18-58, comuna de Ñiquén, para la obra Concesión Internacional Ruta 5. Tramo: Talca-Chillán. Sector: Kms. 356.800,00 al 357.560,00, Octava Región y se acordó el valor de indemnización con su propietario Bernardino del Carmen Muñoz Torres, ascendente a la cantidad de $2.037.345.-
+
+Fiscal del Ministerio de Obras Públicas.
