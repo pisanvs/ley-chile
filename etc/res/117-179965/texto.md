@@ -1,0 +1,3 @@
+Mediante resolución Nº 117, de 6 de diciembre del año 2000, se aprobó reforma parcial al estatuto de la Cooperativa de Servicio Asociación de Médicos del Hospital Clínico de la Universidad Católica de Chile Limitada, de Santiago; en los términos que da testimonio la escritura pública de fecha 10 de noviembre del 2000 suscrita ante el Notario Público de Santiago, don Aliro Veloso Muñoz.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
