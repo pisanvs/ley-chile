@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.481, de 6 de diciembre de 2004, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.111, de 2004, modificada mediante resoluciones Nº 1.426, Nº 1.936 y Nº 3.208, todas de 2004, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo biológico-pesquero de Sardina común y Anchoveta en aguas interiores de la X Región", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de diciembre de 2004, inclusive.
+
+Para los efectos de la presente pesca de investigación, se exceptúa el cumplimiento de la veda biológica de los recursos Anchoveta y Sardina común establecida mediante decreto exento Nº 239, de 1996, modificado mediante decreto exento Nº 19, de 2004, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 6 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
