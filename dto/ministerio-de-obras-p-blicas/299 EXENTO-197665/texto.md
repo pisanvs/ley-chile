@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº299, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº72, superficie 99 M2, rol de avalúo 284-11, comuna de San Fernando, VI Región, para la obra "Camino San Fernando - Roma, Rol I-301, I-255 I-151, Km. 0.000 al 10,954264" y se acordó el valor de indemnización con su propietario Idon Oscar Arturo Pérez Farías, ascendente a la cantidad de $452.141.-
+
+Fiscal del Ministerio de Obras Públicas.
