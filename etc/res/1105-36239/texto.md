@@ -1,0 +1,7 @@
+#### Artículo 1
+
+<!-- parte:8295724 -->
+
+Por Resolución N° 1.105 de 25 de Agosto de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SANTA MARTA LTDA., R.U.T. N° 78.112.980-1, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en calle Andina esquina El Tofo s/n°, Barrio Industrial, Puerto Montt, en las líneas de elaboración de Fresco-refrigerado y Congelado, el recurso hidrobiológico Loco Concholepas concholepas.
+
+Valparaíso, 25 de Agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
