@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.901, de 31 de agosto de 2000, y en base a la facultad otorgada por el artículo 105 del DFL. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 60, 64, 65, 72 y 74. Obra: Camino reposición Ruta G-74-F, sector Melipilla-Bollenar, Tramo Kms. 0,00000 al 14,23039, que figuran a nombre de Pedro Quilvira Leyton;
+
+I. Municipalidad de Melipilla y Soc. Agrícola Danobeitia y Osorio, roles de avalúos 2023-217, 2087-4 y 2023-75, Comuna de Melipilla, superficies 426, 162, 101, 250 y 194 m2., respectivamente. La Comisión de Peritos fijó con fecha 10 de marzo de 2000, en la cantidad de $2.471.400, lote 60; $1.164.800, lote 64; $800.900, lote 65; $1.265.000, lote 72 y $1.030.600, lote 74. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
