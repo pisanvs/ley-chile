@@ -1426,10 +1426,6 @@ El N° 15 del artículo 83 de la Ley General de Bancos permite garantizar la col
 
 Las comisiones que perciban las instituciones financieras por las operaciones de que trata este título, serán registradas en la cuenta "Comisiones ganadas por intermediación", de la partida 7525.
 
-### V. DISPOSICION TRANSITORIA
-
-Las instituciones financieras dispondrán de un plazo que vence el 31 de diciembre de 1991, para dar cumplimiento a las instrucciones contenidas en el numeral 2.7 del título III de este Capítulo, relativas a la forma de documentar las operaciones con pacto de retrocompra.
-
 ANEXO N° 1
 
 TEXTO DE LA CIRCULAR CONJUNTA PUBLICADA EN EL DIARIO OFICIAL DEL 23 DE AGOSTO DE 1990.
@@ -2822,16 +2818,6 @@ Debido a que el saldo depositado en una cuenta de ahorro a plazo o a la vista s�
 
 En todo caso, la libreta en que consta el saldo de una cuenta de ahorro no es un título de crédito y, por lo tanto, no constituye una garantía valida para los efectos de los límites individuales de crédito dispuestos en el artículo 84 N° 1 de la Ley General de Bancos.
 
-### 19. Disposiciones transitorias
-
-19.1. Exigibilidad de los contratos de apertura.
-
-No obstante lo dispuesto en el numeral 3.1 de este Capítulo, que exige la formalización del contrato de apertura en un documento especial, hasta el 31 de diciembre de 1991 las instituciones financieras podrán mantener los procedimientos de apertura de cuentas de ahorro que actualmente utilicen en concordancia con las instrucciones vigentes hasta la fecha de emisión de las presentes normas, salvo para la apertura de nuevas cuentas en que se pacte giro incondicional y abono trimestral de reajustes y para todas las cuentas de ahorro sin libreta, casos en los cuales deberá necesariamente suscribirse el contrato mencionado en aquel numeral.
-
-19.2. Contabilización de los intereses devengados.
-
-Lo dispuesto en el tercer párrafo del numeral 15.2 de este Capítulo, en lo que se refiere a registrar los intereses devengados que aún no se abonen a las cuentas de ahorro, en cuentas complementarias de la partida 3035, rige sólo a contar del 1° de enero de 1992. Por consiguiente, hasta el 31 de diciembre de 1991 dichos intereses se incluirán en la partida 3805, en cuentas separadas, según se trate de Cuentas con giro incondicional o de cuentas con giro diferido.
-
 CAPITULO 2-5 (Bancos y Financieras)
 
 MATERIA:
@@ -3515,10 +3501,6 @@ Por su parte, las cuentas de resultado por los reajustes se incluirán en las pa
 Los depósitos y captaciones a plazo fijo que no sean cobrados en la fecha de vencimiento, devengarán intereses y reajustes sólo hasta dicha fecha y serán traspasados, el mismo día de su vencimiento, a la cuenta "Depósitos y captaciones vencidos" de la partida 3010, incluyendo sus intereses y, cuando corresponda, los reajustes devengados. Esta cuenta se dividirá en las subcuentas "Del público" y "De instituciones financieras", con un criterio similar al indicado en la letra a) del numeral 7.1. anterior.
 
 Cuando se trate de depósitos a plazo renovables que hayan cumplido el período pactado para su renovación automática, las instituciones financieras los mantendrán registrados en su cuenta de origen, salvo que sean cobrados por el titular, incorporando en cada renovación los intereses capitalizados en el período.
-
-### 8. Disposición transitoria
-
-Las instrucciones contables contenidas en el N° 7 precedente entrarán en vigor a contar del 1° de enero de 1992. Hasta el 31 de diciembre de 1991, las instituciones financieras deberán seguir las normas contables vigentes hasta la fecha de emisión del presente Capítulo.
 
 CAPITULO 2-10 (Bancos y Financieras)
 
@@ -4312,9 +4294,9 @@ ENCAJE.
 
 I.- DISPOSICIONES GENERALES.
 
-De conformidad con las disposiciones contenidas en el Capítulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, las empresas bancarias y sociedades financieras deben cumplir con las exigencias de encaje sobre sus depósitos, captaciones y otras obligaciones, que se indican en los títulos II y III siguientes.
+De conformidad con las disposiciones contenidas en el Capítulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, las empresas bancarias y sociedades financieras deben cumplir con las exigencias de encaje sobre sus depósitos, captaciones y otras obligaciones, que se indican en los títulos siguientes.
 
-Para el cumplimiento de la exigencia señalada, las instituciones financieras deberán atenerse a los siguientes criterios generales;
+Para el cumplimiento de la exigencia señalada, las instituciones financieras deberán atenerse a los siguientes criterios generales:
 
 ### 1. Períodos de encaje
 
@@ -4326,17 +4308,21 @@ Los promedios señalados precedentemente, se determinarán considerando sólo lo
 
 Para determinar la equivalencia en moneda chilena de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a moneda chilena, al tipo de cambio de representación contable fijado por esta Superintendencia, vigente en las fechas correspondientes.
 
-### 3. Plazo de vencimiento de los documentos de depósitos o captación
+### 3. Intereses y reajustes
+
+Para los efectos de computar las obligaciones afectas a encaje de que trata este Capítulo, no se considerarán los reajustes e intereses por pagar que deben registrarse en cuentas complementarias de conformidad con las disposiciones vigentes. Por consiguiente, las menciones que más adelante se hacen a partidas o cuentas, deben entenderse referidas a los saldos sin incluir los de esas cuentas complementarias.
+
+### 4. Plazo de vencimiento de los documentos de depósitos o captación
 
 Los plazos de vencimiento de los depósitos o documentos de captación, que determinarán la tasa de encaje a que la obligación quedará afecta, se refieren al lapso que debe transcurrir entre la constitución del depósito o suscripción del documento de captación o su renovación, según sea el caso, y la fecha en que el acreedor de la institución financiera tiene derecho a recuperar el total o parte del capital o intereses, en el caso de operaciones no reajustables y del total o parte del capital o reajustes, si se trata de operaciones reajustables
 
 En el caso de la obtención de recursos mediante venta de documentos con pacto de retrocompra, el plazo de que se trata será el que medie entre la fecha de venta del documento y la fecha fijada para su retrocompra
 
-### 4. Excedentes de encaje
+### 5. Excedentes de encaje
 
-Los excedentes de encaje en moneda nacional pueden utilizarse para cubrir déficit de encaje en monedas extranjeras. Los excedentes de encaje en monedas extranjeras, cualesquiera que ellas sean, no se pueden emplear para cumplir con la obligación de encaje correspondiente a depósitos, captaciones y otras obligaciones en otras monedas extranjeras ni para los depósitos, captaciones y otras obligaciones en moneda chilena.
+Los excedentes de encaje en moneda nacional pueden utilizarse para cubrir los déficit en el encaje en monedas extranjeras de que trata el título III de este Capítulo. Los excedentes de encaje en monedas extranjeras, cualesquiera que ellas sean, no se pueden emplear para cumplir con la obligación de encaje correspondiente a depósitos, captaciones y otras obligaciones en otras monedas extranjeras ni para los depósitos, captaciones y otras obligaciones en moneda chilena.
 
-5. Obligaciones afectas a reserva técnica, art. 80 bis Ley General de Bancos.
+6. Obligaciones afectas a reserva técnica, art. 80 bis Ley General de Bancos.
 
 El monto de las obligaciones afectas a la reserva técnica de que tratan el Capítulo III.A.4 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 4-2 de esta Recopilación, no estarán afectos a la exigencia de encaje de que trata este Capítulo.
 
@@ -4392,21 +4378,19 @@ La nueva tasa de encaje para los depósitos a la orden judicial será aplicable 
 
 2.2. Cuentas de depósitos, captaciones y obligaciones a Plazo.
 
-Estarán afectos a encaje, a la tasa indicada en el numeral 1.2 anterior, los saldos de las cuentas que se demuestran en las siguientes partidas del MB1, con excepción de los importes correspondientes a "Reajustes por pagar":
+Estarán afectos a encaje, a la tasa indicada en el numeral 1.2 anterior, las cuentas de las partidas que se indican a continuación:
 
-N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días";
+- N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días";
 
-N° 3025 "Depósitos y captaciones a plazo de 90 días a un año";
+- N° 3025 "Depósitos y captaciones a plazo de 90 días a un año";
 
-N° 3030 "Otros saldos acreedores a plazo";
+- N° 3030 "Otros saldos acreedores a plazo";
 
-N° 3035 "Depósitos de ahorro a plazo";
+- N° 3035 "Depósitos de ahorro a plazo";
 
-N° 3065 "Depósitos y captaciones" (exceptuadas las captaciones a más de un año que no provengan de depósitos);
+- N° 3065 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a más de un año exentas de encaje" de que trata el Capítulo 2-7 de esta Recopilación.
 
-N° 3110 "Venta a instituciones financieras de documentos con pacto de recompra", excepto los pagarés emitidos por el Banco Central de Chile y por la Tesorería General de la República; y,
-
-N° 3115 "Venta a terceros de documentos con pacto de recompra", excepto los pagarés emitidos por el Banco Central de Chile y por la Tesorería General de la República
+-N°s. 3110 y 3115: sólo las subcuentas "De 30 a 89 días plazo" y "De 90 días a un año plazo"/ de las cuentas "Obligación de retrocompra otras inversiones financieras"/ tratadas en el Capítulo 8-21 de esta Recopilación.
 
 2.3. Contenido de la partida 3010 " Otros saldos acreedores a la vista"
 
@@ -4500,7 +4484,7 @@ N° 3025 "Depósitos y captaciones a plazo de 90 días a un año";
 
 N° 3030 "Otros saldos acreedores a plazo", y,
 
-N° 3055 "Depósitos y captaciones" (exceptuadas las captaciones a más de un año que no provengan de depósitos).
+N° 3055 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a más de un año exentas de encaje" y la subcuenta "Captaciones Acuerdo 1396" de la cuenta "Depósitos y captaciones del exterior Acuerdo 1396".
 
 ### 3. Importes que se pueden deducir de las obligaciones afectas a encaje
 
@@ -4538,7 +4522,7 @@ Los depósitos de terceros enterados para cumplir con la obligación de que trat
 
 Los importes que los bancos reciban de terceros por concepto del depósito que deben constituir sobre los créditos que éstos obtengan del exterior de conformidad con la norma del Banco Central de Chile a que se refiere el N° 1 precedente, serán registrados en la cuenta "Depósitos por encaje de terceros" de la partida 3425.
 
-Por otra parte, con el objeto de obtener directamente de los saldos contables el importe de las obligaciones con el exterior exentas de encaje correspondiente a los créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, que se regirán en esta materia por sus propias normas y a las obligaciones reestructuradas de conformidad con los Contratos Modificatorios de los Contratos de Reestructuración suscritos por la República de Chile, en los términos aprobados por el Consejo del Banco Central de Chile mediante Acuerdos N°s 72-04-901113 y 72-06-901113, éstos serán registrados, además de su imputación en las respectivas cuentas del pasivo, en la cuenta de orden "Obligaciones con el exterior exentas de encaje" de la partida 9167 "Obligaciones exentas de encaje", con abono a la cuenta "Responsabilidad por obligaciones exentas de encaje" de la partida 9900.
+Por otra parte, con el objeto de obtener directamente de los saldos contables el importe de las obligaciones con el exterior exentas de encaje correspondiente a los créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, que se regirán en esta materia por sus propias normas y a las obligaciones reestructuradas de conformidad con los Contratos Modificatorios de los Contratos de Reestructuración suscritos por la República de Chile, en los términos aprobados por el Consejo del Banco Central de Chile mediante Acuerdos N°s 72-04-901113 y 72-06-901113, éstos serán registrados, además de su imputación en las respectivas cuentas del pasivo, en la cuenta de orden "Obligaciones con el exterior exentas de encaje" de la partida 9167 "Obligaciones exentas de encaje", con abono a la cuenta "Responsabilidad por obligaciones exentas de encaje" de la partida 9900. En estas cuentas se registrarán los importes de las operaciones sin incluir los intereses devengados.
 
 2.2. Encaje mantenido.
 
@@ -4577,10 +4561,6 @@ El encaje exigido se calculará por "períodos mensuales", según lo señalado e
 4.2. Encaje mantenido.
 
 El encaje por las obligaciones antes mencionadas deberá estar constituido por las monedas extranjeras del respectivo país o por dólares de los Estados Unidos de América, depositados en el Banco Central de Chile para tal efecto en la "Cuenta especial encaje Acuerdo N° 143-01-910705.
-
-### 5. Disposición transitoria
-
-Entre el 11 de julio y el 8 de noviembre de 1991, las instituciones financieras deberán constituir el encaje de que se trata, sobre una determinada proporción del monto de sus obligaciones con el exterior que se establecerá para cada período de acuerdo con la siguiente tabla:
 
 V.- Información a esta Superintendencia.
 
@@ -4656,7 +4636,7 @@ Las instituciones financieras que deban constituir reserva técnica podrán hace
 
 En todo caso, cuando una institución financiera opte por constituir su reserva técnica en forma diferida de conformidad con lo señalado en el párrafo precedente, deberá mantener esa modalidad, sin perjuicio de lo dispuesto en el numeral 10.2 de este título, y sólo podrá cambiarla con autorización previa de esta Superintendencia.
 
-Dicha reserva técnica se enterará con billetes y monedas de curso legal en el país o con monedas extranjeras sujetas a posición de cambio, que estén disponibles en caja, en las respectivas instituciones financieras, o depositados a la vista en e] Banco Central de Chile, incluido el saldo de la cuenta "Depósitos "overnight" en el Banco Central de Chile", Para estos efectos se considerarán como caja las remesas en efectivo en tránsito entre oficinas de una misma empresa bancaria o sociedad financiera y las remesas en efectivo al Banco Central de Chile. Es decir, serán utilizables como reserva técnica los saldos de las partidas 1005 y 1010 del MB1, excluidos los importes de las cuentas "Caja en custodia en empresas transportadoras de valores" y "Caja en custodia en otras entidades financieras" y los saldos en monedas extranjeras de libre disposición.
+Dicha reserva técnica se enterará con billetes y monedas de curso legal en el país o con monedas extranjeras sujetas a posición de cambio, que estén disponibles en caja, en las respectivas instituciones financieras, o depositados a la vista en e] Banco Central de Chile, incluido el saldo de la cuenta "Depósitos "overnight" en el Banco Central de Chile", Para estos efectos se considerarán como caja las remesas en efectivo en tránsito entre oficinas de una misma empresa bancaria o sociedad financiera y las remesas en efectivo al Banco Central de Chile. Por consiguiente, serán utilizables como reserva técnica los saldos de las partidas 1005 y 1010, excluidos los saldos en monedas extranjeras de libre disposición y los importes de las cuentas "Caja en custodia en empresas transportadoras de valores", "Caja en custodia en otras entidades financieras" y "Cuenta especial encaje Acuerdo N° 143-01-910705".
 
 Asimismo, la reserva técnica podrá enterarse con documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, para cuyo vencimiento no falten más de 90 días, sean instrumentos destinados especialmente para estos efectos o los demás que cumplan con esa condición y que se señalan en los numerales 5.3 y 5.4 de este título.
 
@@ -4698,23 +4678,21 @@ c) Pagarés reajustables con tasa flotante (PTF), Capítulo IV.B.8 del Compendio
 
 d) Pagarés en dólares de Estados Unidos de Norteamérica, Capítulo IV.B.9 del Compendio de Normas Financieras.
 
-e) Pagarés expresados en dólares norteamericanos, Capítulo IV.B.10 del Compendio de Normas Financieras.
+e) Pagarés de reprogramación, Acuerdos 1507 y 1578 (ex capítulos II.B.5, II.B.5.1, II.B.5.3 y II.B.5.4 del Compendio de Normas Financieras).
 
-f) Pagarés de reprogramación de que tratan los capítulos II.B.5, II.B.5.1, II.B.5.3 y II.B.5.4 del Compendio de Normas Financieras.
+f) Pagarés al portador a que se refiere el N° 3 del Acuerdo 1506-14-830406 (PPBC).
 
-g) Pagarés por compra de letras de crédito, Capítulo IV.A.2 del Compendio de Normas Financieras.
+g) Pagarés Dólar Preferencial (PDP).
 
-h) Pagarés Dólar Preferencial (PDP), Capítulo XIII del Compendio de Normas de Cambios Internacionales.
+h) Pagarés emitidos con motivo de ventas de cartera al Instituto Emisor, de conformidad con lo dispuesto en el Acuerdo 1555-07-840209 y sus modificaciones.
 
-i) Pagarés emitidos con motivo de ventas de cartera al Instituto Emisor, de conformidad con lo dispuesto en el Acuerdo 1555-07-840209 y sus modificaciones.
+i) Pagarés de que trata el Anexo N° 1 del Capítulo XVIII del Título I del Compendio de Normas de Cambios Internacionales.
 
-j) Pagarés de que trata el Anexo N° 1 del Capítulo XVIII del Compendio de Normas de Cambios Internacionales.
+j) Pagarés emitidos de conformidad con lo dispuesto en el Anexo N° 1 del Capítulo XIX del Título I del Compendio de Normas de Cambios Internacionales.
 
-k) Pagarés emitidos de conformidad con lo dispuesto en el Anexo N°1 del Capítulo XIX del Compendio de Normas de Cambios Internacionales.
+k) Pagarés reajustables con pago en cupones (PRC), Capítulo IV.B.8.3 del Compendio de Normas Financieras.
 
-l) Pagarés reajustables con pago en cupones (PRC), Capítulo IV.B.8.3 del
-
-Compendio de Normas Financieras.
+l) Certificados de Depósito Expresados en Dólares de los Estados Unidos de América - Acuerdo 163-05-911010.
 
 Para constituir la reserva técnica con los pagarés señalados precedentemente, se computará, como ya se indicó, sólo el capital y los intereses efectivamente devengados a la fecha respectiva, que se percibirán dentro de los noventa días siguientes.
 
@@ -6446,7 +6424,7 @@ Es importante tener presente que las disposiciones del Capitulo III.B.1 del Comp
 
 Cabe agregar también que el artículo 24 de la Ley 18.010 deja expresamente establecido que en esas obligaciones expresadas en moneda extranjera, pagaderas en pesos, no puede pactarse otra forma de reajuste que la que llevan implícita.
 
-Por lo mismo, mientras las operaciones reajustables por la variación del dólar deben registrarse en pesos, quedando afectas a las instrucciones contables sobre reajustes contenidas en el titulo II de este Capítulo, las operaciones expresadas en moneda extranjera deben registrarse en la respectiva moneda extranjera sin generar asiento contable alguno por concepto de reajuste. En estos casos, de acuerdo con las normas impartidas al respecto, debe seguirse el criterio de ajustar la cuenta "cambio" o la que hace sus veces, a fin de reconocer el efecto de la variación del tipo de cambio por los descalces entre activos y pasivos en moneda extranjera, utilizando para el efecto el tipo de cambio de representación contable de que trata el Capítulo 13-30 de esta Recopilación Actualizada de Normas.
+Las operaciones reajustables por la variación del dólar deben registrarse en pesos, quedando afectas a las instrucciones contables sobre reajustes contenidas en el título II de este Capítulo, en tanto que las operaciones expresadas en moneda extranjera deben registrarse, cuando no existan normas contables específicas en que se disponga lo contrario, en la respectiva moneda extranjera, siguiendo el criterio de ajustar la cuenta "cambio" o la que haga sus veces, a fin de reconocer el efecto de la variación del tipo de cambio por los descalces entre activos y pasivos en moneda extranjera y utilizando para el efecto el tipo de cambio de representación contable de que trata el Capítulo 13-30 de esta Recopilación Actualizada de Normas.
 
 En todo caso, cabe tener presente que para los efectos de las relaciones que se deben mantener entre las operaciones activas y pasivas según lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y en el Capítulo 12-9 de esta Recopilación Actualizada de Normas, el margen correspondiente a operaciones en moneda extranjera incluye no sólo aquellas en moneda extranjera o documentadas en moneda extranjera y pagaderas en moneda nacional, sino también las operaciones reajustables por la variación del tipo de cambio. Adicionalmente, en aquellas normas se establece que los recursos que las instituciones financieras capten mediante depósitos a plazo reajustables por la variación del tipo de cambio, sólo pueden ser utilizados en colocaciones o inversiones en depósitos a plazo de la misma naturaleza.
 
@@ -6506,7 +6484,7 @@ Las mismas cuentas deben ser utilizadas en el caso excepcional en que el reajust
 
 Los importes correspondientes a los intereses devengados se incluirán en cuentas complementarias de las cuentas en que se encuentren registrados los saldos de capital. Este procedimiento se seguirá incluso en aquellos casos en que deben devengarse y registrarse en moneda chilena los intereses de operaciones registradas en moneda extranjera.
 
-Al tratarse de intereses que no tienen una correspondencia directa con los importes de un capital registrado en el activo o en el pasivo y no constituyen, por lo tanto, un complemento de los respectivos derechos u obligaciones, los importes devengados por cobrar se incluirán en cuentas de la partida 1820 "Intereses por cobrar de otras operaciones". Si se trata de intereses por pagar, los saldos de esta especie se incluirán en la partida 3820 "Intereses por pagar de otras operaciones".
+Al tratarse de intereses que no tienen una correspondencia directa con los importes de un capital registrado en el activo o en el pasivo y no constituyen, por lo tanto, un complemento de los respectivos derechos u obligaciones, como asimismo en el caso de los intereses devengados sobre saldos que aún no tienen la calidad de disponibles, los importes devengados por cobrar se incluirán en cuentas de la partida 1820 "Intereses por cobrar de otras operaciones". Si existieren intereses por pagar que no tengan una correspondencia directa con un capital registrado en el pasivo, los saldos se incluirán en la partida 3820 "Intereses por pagar de otras operaciones".***B**
 
 Las cuentas de resultado, por su parte, corresponderán a las de "Intereses ganados" (Partidas 7105 a 7200) o de "Intereses Pagados" (Partidas 5105 a 5200)."
 
@@ -6519,6 +6497,12 @@ Los intereses contabilizados en dichas cuentas son inseparables de las operacion
 2.5. Tratamientos contables especiales.
 
 Los criterios de contabilización señalados en los numerales 2.2, 2.3 y 2.4 precedentes se utilizarán siempre que no existan instrucciones específicas de esta Superintendencia que establezcan, para determinadas operaciones, un tratamiento diferente.
+
+En todo caso, no se registrarán en las cuentas complementarias de reajustes de que trata el numeral 2.2 precedente, los reajustes de las colocaciones contingentes y de las obligaciones contingentes, los cuales deberán contabilizarse ajustando directamente las respectivas cuentas del activo y del correspondiente pasivo, sin afectar los resultados.
+
+Por otra parte, las cuentas del activo correspondientes a inversiones financieras, como asimismo, las cuentas de las partidas 3040 y 3070 del pasivo, no tendrán cuentas complementarias de reajustes ni de intereses, salvo que la institución opte por utilizarlas, caso en el cual deberán refundirse los saldos para los efectos de información a esta Superintendencia.
+
+Debe tenerse presente también, que a las cuentas correspondientes a préstamos en letras de crédito de las partidas 1305 y 1310, como asimismo a las que corresponden a letras de crédito en circulación de las partidas 3305 y 3310, no les son aplicables las instrucciones relativas al uso de cuentas complementarias de intereses, puesto que éstos deben registrarse en cuentas de las partidas 1315 y 3315, respectivamente, en concordancia con las instrucciones del Capitulo 9-1 de esta Recopilación Actualizada de Normas.
 
 3. Suspensión del devengo de reajustes e intereses de colocaciones e inversiones financieras.
 
@@ -6603,12 +6587,6 @@ Los intereses y reajustes que sean reconocidos en cuentas de resultado con motiv
 intereses y reajustes.
 
 Para los fines relacionados con las comprobaciones que esta Superintendencia pueda requerir, las instituciones financieras deberán mantener a disposición de este Organismo, por lo menos durante un plazo de un ano, ya sea en listados, planillas o en medios magnéticos, los antecedentes en que se sustente el calculo y la contabilización de los reajustes e intereses registrados en el activo, en el pasivo, en cuentas de orden y en los resultados.
-
-### III. DISPOSICIONES TRANSITORIAS
-
-Las instrucciones contenidas en el numeral 2.3 del título II de este Capítulo, relativas a la utilización de cuentas complementarias para el registro de los intereses por cobrar y por pagar, regirán a contar del Ia de enero de 1992.
-
-Hasta el 31 de diciembre de 1991, las instituciones financieras registrarán los intereses devengados en las respectivas cuentas de "Intereses por cobrar" de las partidas 1805 a 1825, o de "Intereses por pagar" de las partidas 3805 a 3820.
 
 ANEXO N° 1
 
@@ -7186,7 +7164,7 @@ Haber: "Utilizaciones de tarjetas de crédito por cobrar".
 
 5.4. Intereses.
 
-En concordancia con las normas generales sobre la materia, los intereses que devenguen los créditos a los titulares de las tarjetas de crédito deberán registrarse en la cuenta "Intereses de créditos a titulares de tarjetas de crédito" de la partida 7110 ó 7115 del MR1, con cargo a la cuenta "Intereses por cobrar de créditos a titulares de tarjetas de crédito" de la partida 1805 ó 1810 del MB1.
+En concordancia con las normas generales sobre la materia, los intereses que devenguen los créditos a los titulares de las tarjetas de crédito deberán registrarse en la cuenta "Intereses de créditos a titulares de tarjetas de crédito" de la partida 7110 ó 7115 de l MR1, con cargo a la correspondiente cuenta complementaria de intereses por cobrar*.
 
 5.5. Avances en efectivo y compras de cargo inmediato.
 
@@ -10166,38 +10144,6 @@ Dicha disposición debe entenderse en relación con operaciones especiales, ajen
 
 Conviene aclarar a este respecto que la subrogación voluntaria de un crédito efectuada por el acreedor a un tercero que lo paga, constituye una cesión de crédito y queda sujeta a las normas precedentes.
 
-### IV. PROCEDIMIENTOS PARA LA TRANSFERENCIA ENTRE INSTITUCIONES FINANCIERAS DE DOCUMENTOS DE LA CARTERA DE COLOCACIONES
-
-En las transferencias de documentos de la cartera de colocaciones que realicen entre sí las instituciones financieras fiscalizadas por esta Superintendencia, deberán cumplirse, junto con las normas relativas a las adquisiciones y cesiones de que tratan los títulos precedentes, los siguientes procedimientos:
-
-### 1. Informe de la Fiscalía y Gerencia General
-
-Las compras, ventas, permutas o canjes de documentos de su cartera de colocaciones que realicen entre sí las instituciones financieras, requerirán informes previos de la Fiscalía y Gerencia General de la institución financiera relativos a los aspectos jurídicos y efectos financieros, respectivamente, de las operaciones de que se trate. El informe de la Gerencia General, tanto de la institución que entrega como de la que recibe los documentos objeto de la transacción, deberá considerar a lo menos los antecedentes que a continuación se indican, respecto de cada operación y pronunciarse acerca de ellos:
-
-a) Valor nominal de los documentos objeto de la transacción y valor económico o comercial de éstos;
-
-b) Procedimiento e información utilizados para determinar el valor económico o comercial de los instrumentos;
-
-c) Provisiones que se liberen por los créditos que se enajenen y provisiones que corresponde constituir por los créditos que se reciben, según sea el caso;
-
-d) Clasificación de acuerdo con las disposiciones del Capítulo 8-28 de esta Recopilación Actualizada de Normas, asignada a los créditos por la institución vendedora y por aquella que los adquiere, según corresponda; y,
-
-e) Contenido de la nota que deberá agregarse al Estado de Situación más próximo que se publique o al Balance General, según sea el caso, dando cuenta de sus efectos en los resultados de la empresa.
-
-2. Envió a esta Superintendencia de los antecedentes acerca de las transacciones realizadas.
-
-Las instituciones financieras que participen en las transacciones de que trata este título, deberán remitir a esta Superintendencia, dentro de los primeros diez días de cada mes, los antecedentes mencionados en el N° 1 precedente, que hayan servido de base para cursar las operaciones realizadas en el mes inmediatamente anterior.
-
-### 3. Aviso a deudores
-
-La institución cedente y la cesionaria o ambas en conjunto, enviarán un aviso a los deudores de los créditos que se transfieran, informándoles de la transferencia y el lugar u oficina de la entidad adquirente, en la que el crédito debe ser pagado.
-
-### 4. Cobranza de los créditos traspasados
-
-Cuando el crédito sea pagadero en una plaza distinta de la que corresponda a la institución que lo recibió, la institución adquirente deberá procurar que el deudor pueda continuar sirviéndolo en la misma plaza, sea en las oficinas de la propia institución o, en su defecto, en las de alguna institución corresponsal que deberá ser señalada para el efecto.
-
-Queda, en todo caso, a criterio de las entidades involucradas en estos traspasos, determinar los medios y modalidades que estimen más adecuados y eficientes para facilitar a los deudores el normal cumplimiento de sus obligaciones.
-
 ### V. INSTRUCCIONES CONTABLES
 
 Las instituciones financieras deberán registrar las operaciones de compra y venta de los títulos de crédito de que trata este Capítulo en la forma que se indica a continuación, salvo en los casos que se señalan en el N° 5 de este título:
@@ -10644,74 +10590,6 @@ Por otra parte, las instituciones financieras deben tener presente que las cuent
 
 Las instituciones financieras deberán informar a esta Superintendencia la composición de sus inversiones financieras al cierre de cada mes, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información.
 
-### 13. Disposiciones transitorias
-
-13.1. Aplicación de las normas contables.
-
-Las disposiciones de carácter contable contenidas en: el último párrafo del N° 1; en el numeral 4.1; en los números 6,7,8, 9,10 y 11; y, en los Anexos de este Capítulo, rigen a contar del 1° de enero de 1992.
-
-Hasta el 31 de diciembre de 1991, las instituciones financieras deberán atenerse a las normas contables vigentes a la fecha de emisión del presente Capítulo, con excepción de la obligación de ajustar a valor de mercado los instrumentos adquiridos con pacto de retroventa, los cuales no serán objeto de ajuste por ese concepto.
-
-13.2. Inversiones financieras en el exterior.
-
-En el caso de las inversiones financieras en el exterior de que trata el numeral 2.1.2 de este Capítulo, los bancos se atendrán, hasta el 31 de diciembre de 1991, a las instrucciones de los numerales siguientes:
-
-13.2.1. Compras de instrumentos financieros.
-
-Las compras se registrarán por el valor en moneda extranjera efectivamente pagado, en cuentas de la partida 1730 "Inversiones en el exterior" que reflejen apropiadamente el tipo de instrumento de que se trate.
-
-13.2.2. Devengo de intereses.
-
-Para los efectos de calcular y contabilizar, a lo menos al cierre de cada mes, el devengo de la rentabilidad de las inversiones en los títulos de crédito comprados, la institución financiera adquirente determinará la tasa de interés implícita en la compra, debiendo considerar para tal efecto el valor de adquisición, el valor final del respectivo instrumento y el período comprendido entre la fecha de adquisición y la de su vencimiento.
-
-Los intereses se registrarán en la respectiva moneda extranjera y se demostrarán en las partidas 1815 y 7165.
-
-13.2.3. Resultados por venta de instrumentos financieros.
-
-Las utilidades o pérdidas que se originen por la venta de los instrumentos financieros se registrarán en moneda extranjera en la cuenta que corresponda de las partidas 7620 ó 5620, según se trate de utilidades o de pérdidas por diferencia de precio.
-
-13.2.4. Provisiones.
-
-Las inversiones en moneda extranjera de que se trata no quedarán comprendidas dentro del sistema de clasificación de activos de que trata el Capítulo 8-28 de esta Recopilación Actualizada de Normas.
-
-Sin embargo, las variaciones negativas en los precios de mercado de los instrumentos financieros, deberán ser reconocidas mediante la constitución de provisiones especiales equivalentes a la diferencia entre el valor contable al cierre de cada mes y el valor de mercado a la misma fecha, cuando el primero sea mayor. Para este efecto se entenderá que el valor contable corresponde al valor de compra más los intereses devengados de la forma establecida en el numeral 13.2.2 de este Capítulo.
-
-Dichas provisiones se constituirán en moneda chilena por el correspondiente equivalente de la moneda extranjera calculado sobre la base del tipo de cambio para representación contable fijado por esta Superintendencia.
-
-A contar desde la fecha de emisión del presente Capítulo, quedan sujetos a las provisiones de que se trata solamente los instrumentos con vencimiento a más de un año.
-
-Para los efectos de revisión, las empresas bancarias mantendrán a disposición de este Organismo la información necesaria relativa a las condiciones del mercado financiero internacional o bursátil donde se transen habitualmente los instrumentos adquiridos.
-
-13.3. Contabilizaciones que deberán efectuarse para ajustarse a los nuevos criterio de contabilización dispuestos en este Capitulo.
-
-Para adoptar los nuevos procedimientos de contabilización de las inversiones financieras que rigen a contar del 1° de enero de 1992, las instituciones financieras se atendrán a las siguientes instrucciones:
-
-13.3.1. Registro de las inversiones financieras en las nuevas cuentas.
-
-Las inversiones financieras quedarán registradas en las nuevas cuentas que se indican en el Anexo N° 1 de este Capítulo, considerando como valor contable al 1° de enero de 1992 -como si fuera el valor de adquisición a que se refieren esas normas- el importe neto del capital, reajustes, intereses y activo transitorio o pasivo transitorio, sin afectar, en caso alguno, las cuentas de resultado.
-
-De esta manera quedarán saldadas las cuentas de intereses por cobrar y cuentas complementarias de reajustes y las respectivas cuentas del activo y pasivo transitorio que se dejarán de utilizar, debiéndose devengar con posterioridad los intereses y reajustes sobre la base del nuevo valor contable así determinado, considerando la TIR que resulte de ese valor con respecto a los flujos futuros de cada instrumento.
-
-En el caso de las inversiones en bonos o debentures, deberán aplicarse también las provisiones que se mantengan constituidas al 31 de diciembre de acuerdo con las normas del Capítulo 8-29 que rigen hasta esa fecha, de manera que el monto que quedará registrado en el activo y que se tomará como valor de compra será el importe correspondiente al capital más sus reajustes e intereses, menos el respectivo pasivo transitorio o más el activo transitorio y menos las correspondientes provisiones.
-
-13.3.2. Saldos por ajuste a valor de mercado.
-
-Los importes que se mantengan registrados en el activo por ajustes a valor de mercado se traspasarán a las respectivas cuentas de la partida 1750, esto es, "Ajuste a valor de mercado de inversiones no reajustables", "Ajuste a valor de mercado de inversiones reajustables" o "Ajuste a valor de mercado de inversiones registradas en moneda extranjera". En esta última cuenta se registrarán los importes en moneda extranjera, utilizando para efecto del traspaso de que se trata, el tipo de cambio informado por esta Superintendencia que rija a la fecha y las cuentas de conversión y cambio que se indican en la letra c) del numeral 7.4 de este Capítulo.
-
-13.3.3. Provisiones sobre inversiones financieras en el exterior.
-
-Las provisiones que se mantuvieren al 31 de diciembre de 1991 sobre las inversiones financieras en el exterior, se traspasarán abonándolas a la cuenta "Ajuste a valor de mercado de inversiones registradas en moneda extranjera", siguiendo el mismo criterio señalado en el numeral precedente.
-
-13.3.4. Operaciones con pacto de retrocompra.
-
-Los saldos por las operaciones de compra con pacto de instrumentos financieros se traspasarán a las respectivas cuentas de capital, reajustes e intereses de la partida 1690 6 1695, debiendo quedar registrados en esas cuentas los importes calculados a la fecha del traspaso para cada operación de crédito. Las eventuales diferencias que se produzcan entre los saldos netos registrados antes de esos traspasos y los importes que quedarán imputados a las nuevas cuentas, se llevarán a resultados como diferencias de precio. Simultáneamente, deberán registrarse los instrumentos adquiridos con pacto, en las cuentas de orden de la partida 9261. Los saldos de las operaciones de venta con pacto se traspasarán a las nuevas cuentas de capital, reajustes e intereses, de manera tal que en ellas queden registrados los importes calculados para cada operación de captación a la fecha del traspaso y las diferencias que existan se lleven a los resultados, como diferencias de precio.
-
-13.4. Pagarés del Banco Central de Chile Capítulo XIX expresados en dólares de los EE.UU. y pagaderos en pesos.
-
-Hasta el 31 de diciembre de 1991 todas las inversiones en instrumentos expresados en moneda extranjera y pagaderos en pesos deberán mantenerse registradas en moneda extranjera, debiendo ajustarse las respectivas cuentas "Cambio" de acuerdo con el tipo de cambio informado por esta Superintendencia.
-
-En el caso de las inversiones en pagarés expresados en dólares emitidos por el Banco Central de Chile de que trata el Anexo 1 del Capítulo XIX del Titulo I de su Compendio de Normas de Cambios Internacionales, que son rescatados de acuerdo con el tipo de cambio a que se refiere el N° 7 del Capítulo I de ese Título, el ajuste a valor de mercado se realizará por la diferencia entre el valor de la inversión expresada en pesos al tipo de cambio de representación contable informado por la Superintendencia y el valor de mercado de los instrumentos expresado en pesos según el tipo de cambio al cual se rescatan los pagarés.
-
 ANEXO N° 1
 
 CUENTAS PARA LAS INVERSIONES FINANCIERAS
@@ -10992,15 +10870,11 @@ Las instituciones financieras deben traspasar a cartera vencida los créditos o 
 
 Al tratarse de importes de la partida 1140 "Varios Deudores", el plazo de 90 días se contará desde la fecha en que aquéllos se registraron en esa partida.
 
-Los traspasos se efectuarán a la cuenta "Colocaciones vencidas" o a las cuentas específicas dispuestas por esta Superintendencia para el registro de determinadas operaciones, de la partida 1405 del formulario MB1. Sin embargo, cuando se trate de cuotas morosas conformadas solamente por intereses, el traspaso de éstos se efectuará a la cuenta "Intereses por cobrar vencidos" de la
-
-partida 1825 del formulario MB1.
+Los traspasos se efectuarán a la cuenta "Colocaciones vencidas" o a las cuentas específicas dispuestas por esta Superintendencia para el registro de determinadas operaciones, de la partida 1405 del formulario MB1.
 
 En el evento de que las condiciones pactadas de un crédito contemplen la posibilidad de demandar al deudor el pago del valor total de un documento pagadero originalmente en cuotas, incluidas por lo tanto las cuotas no vencidas, se traspasará a cartera vencida, desde las respectivas cuentas de colocaciones e intereses por cobrar, el monto de las cuotas cuyo vencimiento no se haya
 
 cumplido pero que pueden hacerse efectivas en virtud de la cláusula de aceleración. El referido traspaso se hará dentro de los 90 días siguientes a la presentación de la demanda judicial. Para este efecto se presumirá que al presentarse la demanda judicial se hace efectiva la cláusula de aceleración.
-
-Los intereses registrados en la cuenta "Intereses por cobrar vencidos" deberán agregarse al capital del respectivo crédito, cuando éste se traspase total o parcialmente a "Colocaciones vencidas", a fin de mantener en una misma cuenta la totalidad del saldo contable vencido del crédito.
 
 Los créditos ingresados a cartera vencida y que no se hubieren extinguido totalmente mediante su pago o remisión, podrán salir de ella solamente por castigo o por renegociación.
 
@@ -11014,7 +10888,7 @@ Al tratarse de créditos sobre los cuales se hubiere suspendido el reconocimient
 
 siguiente forma:
 
-a) Los reajustes e intereses suspendidos sólo originarán un traspaso en las respectivas cuentas de orden, de acuerdo con lo dispuesto en el numeral 3.1.3 del referido Capítulo, sin afectar, por lo tanto, las cuentas de activo ni las de ingresos.
+a) Los reajustes e intereses suspendidos sólo originarán un traspaso en las respectivas cuentas de orden, de acuerdo con lo dispuesto en el numeral 3.1.3 del título II del referido Capítulo, sin afectar, por lo tanto, las cuentas de activo ni las de ingresos.
 
 b) En el caso de créditos registrados a su valor final, el traspaso a cartera vencida no afectará el monto que se mantenga registrado en la respectiva cuenta del pasivo transitorio, "Intereses percibidos y no devengados", a que se refiere el numeral 2.4 del título II del Capítulo 7-1, el que permanecerá inalterable hasta tanto no se pague, renegocie, castigue o condone el respectivo crédito traspasado a cartera vencida.
 
@@ -11044,43 +10918,17 @@ Los créditos se reingresarán a la cartera vigente junto con los intereses y re
 
 Junto con el reingreso de los créditos renegociados a la cartera vigente, se deberán constituir, cuando corresponda, las provisiones por cartera renegociada de acuerdo con las instrucciones del N° 2 del título I del Capítulo 8-29 de esta Recopilación.
 
-### 2. Inversiones financieras vencidas
+2.- Inversiones financieras vencidas.
 
-2.1. Traspaso de las inversiones financieras vencidas.
+Conforme a lo dispuesto en el Capítulo 8-29 de esta Recopilación Actualizada de Normas, las inversiones financieras que no fueren recuperadas dentro de los 90 días siguientes a su vencimiento, deberán ser castigadas. Mientras no se castiguen, se mantendrán en su cuenta de origen.
 
-Todas aquellas inversiones financieras que permanezcan impagas en sus cuentas de origen deberán traspasarse a la cuenta "Inversiones Financieras Vencidas", de la partida 1745 del formulario MB1. dentro de un plazo no superior a 90 días desde su fecha de vencimiento. Sin embargo, al tratarse de intereses por cobrar registrados separadamente del capital, el traspaso se efectuará a la cuenta "Intereses por cobrar vencidos", de la partida 1825 del mismo formulario.
+3.- Nómina que debe mantenerse a disposición de este Organismo.
 
-Las inversiones financieras ingresadas a la cuenta señalada en el párrafo anterior que no hubieren sido totalmente pagadas por el emisor o que no se hubieren extinguido por otra causa, sólo podrán salir de dicha cuenta por renegociación o por castigo.
+Las instituciones financieras deberán mantener a disposición de esta Superintendencia una nómina referida al último día de cada mes, con el detalle de las colocaciones vencidas que se mantengan registradas en sus cuentas de origen en virtud de no haberse cumplido el plazo máximo de 90 días fijado para su traspaso a cartera vencida.
 
-No obstante, cuando todo o parte del capital de la respectiva inversión sea registrado en la cuenta "Inversiones Financieras Vencidas", los correspondientes intereses registrados en "Intereses por cobrar vencidos" serán traspasados a dicha cuenta, de manera que en ella queden incluidos todos los saldos vencidos de la misma inversión.
+4.- Información que debía remitirse a esta Superintendencia.
 
-2.2. Contabilización de los traspasos a la cuenta de inversiones financieras vencidas.
-
-Para efectuar el traspaso de estas operaciones a la cuenta "Inversiones financieras vencidas", se seguirá el mismo procedimiento establecido para las colocaciones, señalado en el numeral 1.1 de este capítulo.
-
-2.3. Reingreso a cartera vigente de inversiones financieras vencidas.
-
-Las inversiones financieras vencidas pueden ser reingresadas a sus cuentas de origen cuando exista una renegociación con los correspondientes emisores, en condiciones que demuestren en forma clara que la inversión puede ser recuperada por esta vía. Corresponderá a la entidad financiera acreedora, calificar con criterio realista la viabilidad del cumplimiento de los planes de pago presentados por los emisores.
-
-Los reajustes e intereses correspondientes a las inversiones financieras renegociadas se considerarán capitalizados, de modo que se incluirán en el registro contable de la respectiva inversión renegociada.
-
-3. Información sobre colocaciones o inversiones pendientes de traspaso a cartera vencida e inversiones financieras vencidas.
-
-3.1. Nóminas que deben mantenerse a disposición de este Organismo.
-
-Las instituciones financieras deberán mantener a disposición de esta Superintendencia una nómina referida al último día de cada mes, con el detalle de las colocaciones vencidas que se mantengan registradas en sus cuentas de origen en virtud de no haberse cumplido el plazo máximo de 90 días fijado para su traspaso a cartera vencida. Una nómina similar deberá mantenerse por las
-
-inversiones financieras que se encuentren en idéntica situación.
-
-Las referidas nóminas contendrán la siguiente información:
-
-a) Nómina de colocaciones: número y tipo de la operación, nombre del deudor, monto del crédito, fecha de origen y de vencimiento.
-
-b) Nómina de inversiones financieras: número y tipo de instrumento, nombre del emisor, valor nominal, fecha de origen y vencimiento.
-
-3.2. Información que debe remitirse a esta Superintendencia.
-
-Las instituciones financieras deberán remitir a esta Superintendencia la información relativa a créditos morosos no traspasados a cartera vencida, conforme a las instrucciones contenidas en el Manual del Sistema de Información, referidas al formulario M40.
+La información sobre la morosidad de los créditos en general y su situación respecto al traspaso a cartera vencida, debe informarse a este Organismo conforme a las instrucciones contenidas en el Manual del Sistema de Información.
 
 CAPITULO 8-28 (Bancos y Financieras)
 
@@ -11438,105 +11286,21 @@ Si como consecuencia de nuevas clasificaciones practicadas por la empresa aument
 
 El mismo procedimiento deberá seguirse en caso de que aumente el riesgo adicional a que se refiere el 7 de este título, con respecto a la provisión especial que debe cubrirlo, como consecuencia del otorgamiento de nuevos créditos calificados como riesgosos en su origen.
 
-### III. RIESGO DE INVERSIONES EN BONOS Y DEBENTURES
+III.- EVALUACION DE INVERSIONES FINANCIERAS Y DE CREDITOS POR OPERACIONES DE INTERMEDIACION DE INSTRUMENTOS FINANCIEROS.
 
-### 1. Instrumentos que deben clasificarse por categorías de riesgo
+1.- Inversiones financieras.
 
-Las instituciones deberán evaluar el riesgo y clasificar en consecuencia, la totalidad de los valores mobiliarios de renta fija de su cartera de inversiones financieras, emitidos por cualquier entidad diferente al Banco Central de Chile, a la Tesorería General de la República o a bancos y sociedades financieras sujetas a la fiscalización de esta Superintendencia. Esta evaluación deberá comprender las inversiones en instrumentos emitidos por entidades domiciliadas en el país como también aquellos documentos emitidos en el exterior y recibidos por operaciones específicas debidamente autorizadas por el Banco Central de Chile.
+De acuerdo con lo dispuesto en el Capítulo 8-21 de esta Recopilación Actualizada de Normas, las inversiones en bonos o debentures o en los efectos de comercio que se indican en el mismo Capítulo, quedan sujetas, al igual que los instrumentos de oferta pública emitidos por el Banco Central de Chile y por la Tesorería General de la República, al procedimiento de ajuste a valor de mercado cuando el plazo residual para su vencimiento sea superior a un año.
 
-### 2. Procedimiento para la clasificación de bonos y debentures
+Por consiguiente, la evaluación de riesgos de pérdida de las inversiones financieras, que puede dar lugar a la constitución de provisiones, se centrará en el análisis de la recuperabilidad de las inversiones que se mantengan en instrumentos emitidos por sociedades emisoras que pueden presentar problemas de liquidez o solvencia, cuando esas inversiones no queden sujetas al procedimiento de ajuste a valor de mercado.
 
-Las principales variables que inciden en la evaluación del riesgo de los bonos y debentures están relacionadas con la solvencia y liquidez del emisor de los respectivos títulos y con la cotización de mercado que éstos tuvieren.
+Para ese efecto se considerarán los instrumentos emitidos en el país por entidades diferentes al Banco Central de Chile o a la Tesorería General de la República y que no se encuentren clasificados en categorías "A" o "B" por la Comisión Clasificadora de Riesgo a que se refiere el Decreto Ley N° 3.500, de 1980.
 
-El riesgo de aquellos que son normalmente mantenidos hasta su vencimiento por parte del tenedor, se puede analizar con un enfoque similar al utilizado para las colocaciones. La evaluación de los instrumentos que se transan habitualmente en el mercado secundario, es más directa y se refiere a una comparación entre los valores a que se encuentren contabilizados en la institución tenedora y las cotizaciones de mercado que se consideren representativas del valor del instrumento.
+Los análisis que para esos casos especiales se efectúen y la forma en que se estimen las pérdidas, deberán quedar debidamente documentados y a disposición de esta Superintendencia.
 
-En todo caso, en ambas situaciones es posible asignar un porcentaje o rango de pérdida en relación a su valor de contabilización y, por lo tanto, se clasificarán en las siguientes categorías:
+2.- Créditos por operaciones con pacto.
 
-2.1. Categoría "A": Inversiones de riesgo normal.
-
-Los bonos y debentures comprendidos en esta categoría son aquéllos con liquidez inobjetable y cuyos títulos se transan habitualmente en el mercado a un valor similar al registrado en la contabilidad.
-
-2.2. Categoría "B": Inversiones de riesgo potencial superior al normal.
-
-En esta categoría se incluirán todas aquellas inversiones en bonos y debentures cuyo precio pueda experimentar fluctuaciones adversas con respecto a su valor contable, no obstante que se estima que el capital e intereses podrían ser recuperados íntegramente al vencimiento del documento sin perjuicio de que su enajenación signifique incurrir en una pérdida moderada. De producirse una pérdida, ésta debiera ser inferior al 5% de los montos contabilizados.
-
-2.3. Categoría "B -Inversiones de riesgo potencial superior al normal.
-
-Deberán encasillarse en esta categoría los bonos y debentures cuyo valor comercial haya experimentado un descenso, sin que pueda visualizarse un mejoramiento de su precio en el corto o mediano plazo. Dicha fluctuación, referida al valor en que ellos se encuentren contabilizados, podría provenir de factores que afecten negativamente al emisor de los títulos o de condiciones
-
-adversas de carácter perdurable en el mercado, que determinen un cambio en las preferencias de los inversionistas. Asimismo, se clasificarán en esta categoría aquellos instrumentos poco o difícilmente transables y que la situación de solvencia del emisor o las condiciones en que están pactados, indiquen que provocarán una pérdida al tenedor.
-
-El reconocimiento de una pérdida en el valor de los instrumentos clasificados en esta categoría, sea que se origine en la situación financiera del emisor o en las condiciones de los mercados en que ellos se transan, aconseja que queden sujetos a una revisión permanente, con el propósito de comprobar el desarrollo de la condición del emisor o bien del mercado en el cual se
-
-transan dichos títulos.
-
-En definitiva, se ubicarán en esta categoría aquellos instrumentos cuya pérdida estimada, en relación al valor contabilizado por la entidad financiera, fluctúe entre el 5% y el 39%.
-
-2.4. Categoría C: Inversiones con pérdidas esperadas significativas.
-
-Las inversiones en bonos y debentures que se clasifiquen en esta categoría, corresponderán a aquéllas en que existe una expectativa de pérdida importante con respecto a su valor de contabilización.
-
-Los principales factores que inciden en que un instrumento se clasifique en esta categoría, tienen relación con un serio deterioro de la capacidad de pago del emisor, sea, por ejemplo, debido a las perspectivas de la continuidad de sus actividades o de la situación que resultaría de su patrimonio remanente.
-
-En el caso de ser instrumentos que se transan en el mercado, éstos deberán haber experimentado una ostensible baja en su cotización, no previéndose que esta situación pudiera revertirse dentro de plazos razonables.
-
-En definitiva, deberán clasificarse en esta categoría aquellas inversiones cuyas pérdidas esperadas se sitúan en el rango de 40% a 79% del valor contabilizado, incluidos los respectivos intereses.
-
-2.5. Categoría D: Inversiones irrecuperables.
-
-Corresponderá clasificar en esta categoría aquellos bonos y debentures estimados irrecuperables en virtud de la condición de insolvencia del emisor del título o de su capacidad de pago.
-
-Podrá aplicarse esta categoría a los títulos de deuda transables en el mercado, cuya cotización no supere al 20% del valor en que se encuentran contabilizados, estimándose que dicha valoración se mantendrá por un tiempo prolongado. Para clasificar los bonos y debentures en esta categoría, la pérdida esperada deberá fluctuar en un rango comprendido entre el 80% y 100% de su valor de
-
-contabilización.
-
-### 3. Información requerida
-
-Las entidades financieras mantendrán toda la información necesaria relativa a la calidad de los emisores de los títulos y condiciones del mercado donde se transen, que justifiquen la clasificación efectuada.
-
-Para facilitar la necesaria comprobación por parte de este Organismo, dichos datos habrán de mantenerse ordenadamente en carpetas de fácil consulta que se pondrán a disposición de los inspectores de esta Superintendencia.
-
-### 4. Pérdida estimada de los bonos y debentures
-
-La pérdida estimada de la cartera de bonos y debentures de que trata este título y que sirve de base para constituir las provisiones, corresponderá a la suma del 1 % del valor de los instrumentos clasificados en categoría B, el 20% de las
-
-inversiones clasificadas en categoría B-, el 60% de los títulos clasificados en categoría C y el 90% de aquellos clasificados en categoría D.
-
-Los referidos porcentajes se aplicarán sobre los valores en que los respectivos instrumentos se encuentren registrados en la contabilidad, considerando los correspondientes reajustes e intereses y, además, las diferencias de precio que aún no hayan sido traspasadas a resultados.
-
-### 5. Revisión de esta Superintendencia
-
-La clasificación de los bonos y debentures será revisada por esta Superintendencia dentro de sus inspecciones habituales.
-
-Si este Organismo constatare que no se ha dado cumplimiento a las pautas establecidas, reubicará los instrumentos en las categorías de riesgo que le corresponden. Las nuevas clasificaciones así establecidas, sustituirán para todos los efectos a la que haya determinado la institución y no podrán ser modificadas sin que previamente la entidad financiera solicite fundadamente
-
-una reconsideración y cuente con la respectiva autorización de este Organismo, la que se entregará, a más tardar, en la siguiente visita de inspección.
-
-Si con posterioridad a la revisión de esta Superintendencia la institución financiera estima que el riesgo de pérdida de alguna inversión se ha incrementado, deberá reclasificarla en la categoría de mayor riesgo que le corresponda.
-
-### 6. Exigencia de provisiones
-
-Las instituciones financieras deberán mantener constituida al cierre de cada mes, una provisión equivalente a la pérdida estimada de sus inversiones en bonos y debentures. En concordancia con lo dispuesto en los N°s 4 y 5 precedentes, el monto de la provisión exigida se establecerá de acuerdo con lo siguiente:
-
-6.1.- Instituciones clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
-
-Las instituciones que se encuentren clasificadas por segunda o más veces consecutivas en categoría I según la calidad de sus procesos dé clasificación de cartera, mantendrán automáticamente el nivel de provisiones exigido según la pérdida estimada calculada sobre el valor contable de los bonos o debentures que mantengan en cartera al cierre de cada mes, debiendo considerar para este efecto, a partir del mismo mes en que se comuniquen, las clasificaciones que informe esta Superintendencia como consecuencia de su revisión.
-
-6.2.- Instituciones que no se estuvieren clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
-
-Las instituciones financieras que estuvieren clasificadas en las categorías II ó III, como asimismo aquellas que estando en categoría I no hubieren alcanzado la misma categoría en la evaluación precedente, quedarán sujetas a las siguientes reglas:
-
-a) Pérdida informada.
-
-Esta Superintendencia comunicará a cada institución financiera la pérdida estimada de las inversiones en bonos y debentures de que se trata, sobre la base de la composición y clasificación que le corresponde a la cartera existente a la fecha en que este Organismo realice la respectiva visita de inspección.
-
-El monto de la pérdida informada se expresará en unidades de fomento y se mantendrá vigente hasta que esta Superintendencia comunique un nuevo riesgo, de manera que el equivalente en pesos de ese monto, que se determina al valor que la unidad de fomento tenga el último día de cada mes, corresponderá a la exigencia de provisión que debe mantenerse mensualmente.
-
-No obstante, si con posterioridad a esa comunicación la institución financiera vendiere o castigare instrumentos que incidieron en forma importante en el monto de la pérdida comunicada por este Organismo, podrá solicitar una reconsideración de dicho monto, para lo cual deberá acompañar los antecedentes de las ventas o castigos efectuados, que justifiquen su petición.
-
-b) Aumento del riesgo durante la vigencia de la aplicación del monto informado.
-
-Si la institución financiera determina una pérdida superior a la informada por este Organismo, como consecuencia de haber practicado una nueva clasificación, sobre la base del valor contable de los bonos y debentures a una fecha posterior a aquella en que comenzó a regir el monto determinado por esta Superintendencia, deberá considerar la mayor pérdida para los efectos de constituir provisiones.
+Debido a que las pérdidas que podrían derivarse de las operaciones de compra con pacto de retrocompra de instrumentos financieros responderían solamente a situaciones de ocurrencia muy improbable al realizarse éstas conforme a las disposiciones vigentes, los activos correspondientes a estas operaciones no quedarán sujetos a un procedimiento general de evaluación o clasificación de los créditos, sin perjuicio de que la institución financiera deba mantener suficiente información acerca de los clientes y de la calidad de los instrumentos adquiridos, a fin de precaver eventuales pérdidas En todo caso, cualquier operación que pueda originar pérdidas deberá quedar, sobre la base de un criterio conservador, con las debidas provisiones al cierre del ejercicio.
 
 ### IV. EVALUACION DE LOS BIENES RECIBIDOS EN PAGO O ADJUDICADOS
 
@@ -11988,35 +11752,33 @@ incluidos los intereses por cobrar vencidos, y alcanzarán hasta el 100% de la p
 
 Las provisiones globales constituidas en el ejercicio, al igual que las provisiones especiales de que trata el N° 2 de este título, no son deducibles como gasto tributario.
 
-### II. PROVISIONES Y CASTIGOS DE INVERSIONES EN BONOS Y DEBENTURES
+II.- PROVISIONES Y CASTIGOS DE INVERSIONES FINANCIERAS.
 
-### 1. Provisiones
+1.- Provisiones.
 
-Las instituciones financieras deberán mantener constituida, al cierre de cada mes, una provisión global para cubrir la pérdida estimada de sus inversiones en valores mobiliarios de renta fija emitidos por entidades diferentes al Banco Central de Chile, a la Tesorería General de la República, a bancos y a sociedades financieras establecidas en el país. El monto de esta provisión se
+En general, las inversiones financieras no quedarán sujetas a provisiones desde el momento en que los eventuales riesgos se reflejarán en su valor de mercado, al cual deben ajustarse de acuerdo con lo instruido en el Capítulo 8-21 de esta Recopilación. Sin embargo, corresponderá constituir provisiones en los siguientes casos excepcionales:
 
-determinará de acuerdo con el procedimiento establecido en el N° 6 del título III del Capítulo 8-28 de esta Recopilación.
+a) Cuando la institución financiera, en cumplimiento de lo señalado en el N° 1 del título III del Capítulo 8-28 de esta Recopilación, haya estimado una pérdida para aquellas inversiones en instrumentos cuyos emisores presenten problemas que hagan dudosa su recuperación. En este caso deberá mantenerse una provisión que cubra dicha pérdida estimada; y,
 
-En todo caso, la provisión que debe mantenerse por estos instrumentos no podrá ser inferior al monto de ellos registrado en la cuenta "Inversiones financieras vencidas".
+b) En el evento de que la institución financiera, en una operación diferente a una venta con pacto de retrocompra, se hubiera comprometido a comprar un instrumento financiero a un precio que resulte ser superior al valor de mercado del mismo, al cierre de un mes. En este caso, la provisión que debe constituirse, que en rigor no cubre un nesgo de un activo, sólo tiene por objeto aplicar un criterio conservador cuando esa operación no habitual se presente al término de un mes, reconociendo aquella diferencia de precios. La provisión constituida se revertirá al desaparecer esa diferencia o al realizarse la operación comprometida.
 
-La provisión de que se trata se registrará en la cuenta "Provisión por inversiones financieras riesgosas" de la partida 4210 del formulario MB1, con cargo a una cuenta del mismo nombre de la partida 6120 del formulario MR1.
+Las provisiones de que se trata se registrarán en la cuenta "Provisión por inversiones financieras riesgosas" de la partida 4210, con cargo a una cuenta del mismo nombre de la partida 6120.
 
-Al disminuir la exigencia de provisión, los excesos se eliminarán, cuando corresponda, efectuando el asiento inverso, es decir, se acreditará la cuenta "Provisiones por inversiones financieras riesgosas" de la partida 6120, aunque las provisiones provengan del ejercicio anterior, hasta por el saldo que esa cuenta de resultados tenga. El exceso se llevará a la cuenta "Liberación de
-
-provisiones por riesgos de activos" de la partida 8110 del formulario MR1.
+Para liberar las provisiones, cuando corresponda, se acreditará la cuenta de resultados antes mencionada, aunque las provisiones provengan del ejercicio anterior, hasta por el saldo que esa cuenta tenga. El exceso se llevará a la cuenta "Liberación de provisiones por riesgos de activos" de la partida 8110.
 
 ### 2. Castigos
 
-2.1. Oportunidad en que deben castigarse los bonos o debentures.
+2.1.- Oportunidad en que deben castigarse las inversiones financieras.
 
-Los saldos de inversiones en bonos o debentures deberán castigarse cuando la institución financiera estime que no existe ninguna posibilidad de recuperación, como puede ocurrir, por ejemplo, en el caso de extravío o hurto de títulos.
+Los instrumentos financieros que no hayan sido pagados por los emisores, se castigarán al cumplirse 90 días a contar del respectivo vencimiento del documento o del cupón en su caso, sin perjuicio de mantener las provisiones necesarias para cubrir aquella parte que aún no haya vencido.
 
-Los bonos o debentures que no hayan sido pagados por los emisores, se castigarán en un plazo máximo de 12 meses desde su ingreso a cartera vencida.
+En todo caso, las inversiones deberán castigarse cuando la institución estime que no existe ninguna posibilidad de recuperación, aun cuando no se haya cumplido el plazo señalado precedentemente.
 
 2.2. Contabilización de los castigos.
 
 Los castigos se contabilizarán de la siguiente forma:
 
-Debe: - "Provisión por inversiones financieras riesgosas" de la partida 4210 del formulario MB1, por el valor al cual se encuentren registrados los instrumentos en cartera vencida.
+Debe: - "Provisión por inversiones financieras riesgosas" de la partida 4210 del formulario MB1.
 
 - "Inversiones castigadas", que se abrirá para este efecto y que se incluirá en la partida 9600 "Operaciones castigadas" antes mencionada.
 
@@ -12024,11 +11786,9 @@ Haber: - La cuenta en que se encuentren registrados los documentos que se castig
 
 - "Responsabilidad por operaciones castigadas" de la partida 9900 del formulario MB1.
 
-El uso de las provisiones para efectuar el castigo, no exime a la institución financiera de la obligación de mantener el nivel mínimo de provisiones exigidas.
-
 2.3. Recuperación de inversiones castigadas.
 
-Las sumas que se recuperen por el pago de bonos o debentures castigados, se registrarán con abono a la cuenta "Recuperación de colocaciones e inversiones castigadas", de la partida 7910, en el caso de las recuperaciones de inversiones financieras castigadas en el mismo ejercicio o en la cuenta del mismo nombre incluida en la partida 8105 del formulario MR1, cuando se trate de recuperaciones de inversiones castigadas en años anteriores.
+Las sumas que se recuperen por el pago de inversiones financieras castigadas, se registrarán con abono a la cuenta "Recuperación de colocaciones e inversiones castigadas", de la partida 7910, en el caso de las recuperaciones de inversiones financieras castigadas en el mismo ejercicio o en la cuenta del mismo nombre incluida en la partida 8105 del formulario MR1, cuando se trate de recuperaciones de inversiones castigadas en años anteriores.
 
 Al mismo tiempo, deberá revertirse el monto que corresponda, registrado en las cuentas "Inversiones castigadas" y Responsabilidad por operaciones castigadas" de las partidas 9600 y 9900, respectivamente.
 
@@ -12060,13 +11820,13 @@ Además de las provisiones sobre la cartera de colocaciones y sobre las inversio
 
 Las referidas provisiones son las mínimas que deben mantenerse y, por lo tanto, las instituciones pueden constituir provisiones adicionales cuando sea necesario, de acuerdo con las siguientes instrucciones:
 
-a) Instituciones que no mantienen compromisos por venta de cartera al Banco Central de Chile.
+a) Instituciones que no mantienen obligación subordinada con el Banco Central de Chile.
 
-Las instituciones que no mantengan obligaciones de recompra de cartera con el Banco Central de Chile ni obligación subordinada proveniente de la novación de contratos de compraventa de cartera, pueden constituir provisiones adicionales de acuerdo con criterios contables de aceptación general, sin que necesariamente deban mediar para ello instrucciones de este Organismo.
+Las instituciones que no mantengan obligación subordinada proveniente de la novación de contratos de compraventa de cartera, pueden constituir provisiones adicionales de acuerdo con criterios contables de aceptación general, sin que necesariamente deban mediar para ello instrucciones de este Organismo.
 
-b) Instituciones que mantienen compromisos por venta de cartera.
+b) Instituciones que mantienen obligación subordinada con el Banco Central de Chile.
 
-Aquellas instituciones financieras que mantengan vigentes con el Banco Central de Chile obligaciones por contratos de venta y cesión de cartera u obligación subordinada asumida en la novación de tales contratos, requerirán de una autorización previa de esta Superintendencia para constituir provisiones adicionales a las mínimas exigidas, cuando la suma de dichas provisiones adicionales sea superior al equivalente del 1% del total de sus colocaciones e intereses por cobrar.
+Aquellas instituciones financieras que mantengan obligación subordinada con el Banco Central de Chile asumida en la novación de los contratos de venta y cesión de cartera, requerirán una autorización previa de esta Superintendencia para constituir provisiones adicionales a las mínimas exigidas, cuando la suma de dichas provisiones adicionales sea superior al equivalente del 1% del total de sus colocaciones e intereses por cobrar.
 
 Las solicitudes que pudieran presentarse a este Organismo para constituir provisiones voluntarias por sobre el margen indicado, deberán estar claramente fundadas en riesgos o pérdidas no cubiertos por las provisiones existentes.
 
@@ -12184,9 +11944,9 @@ Las obligaciones por el refinanciamiento de estos créditos serán registradas e
 
 7.4. Intereses.
 
-Los intereses que devenguen los créditos cursados por las instituciones financieras con los recursos de que se trata, serán registrados con cargo a la cuenta "Intereses por cobrar" de la partida 1805 ó 1810 del MB1, con abono a la cuenta "Intereses ganados" de la partida 7105 o 7115 del MR1, según corresponda.
+Los intereses que devenguen los créditos cursados por las instituciones financieras con los recursos de que se trata, serán registrados con cargo a la respectiva cuenta complementaria de intereses, abonando la cuenta de resultados de la partida 7105 ó 7115, según corresponda.
 
-Los intereses que se adeuden a favor del Banco Central de Chile por los refinanciamientos recibidos, se registrarán con cargo a la cuenta "Intereses pagados" de la partida 5155 del MR1 con abono a la cuenta "Intereses por pagar" de la partida 3810 del MB1.
+Los intereses que se adeuden a favor del Banco Central de Chile por los refinanciamientos recibidos, se registrarán con cargo a la cuenta de resultados de la partida 5155, abonando la correspondiente cuenta complementaria de intereses".
 
 7.5. Reajustes.
 
@@ -12268,39 +12028,15 @@ haya cumplido ese trámite.
 
 1. - Del prospecto.
 
-La institución financiera que desee otorgar préstamos en letras de crédito para
-
-la vivienda u otros fines, deberá presentar a esta Superintendencia un prospecto
-
-que habrá de contener las condiciones generales de la emisión. La emisión
-
-proyectada deberá ser motivo de un Acuerdo del Directorio de la empresa.
+La institución financiera que desee otorgar préstamos en letras de crédito para la vivienda u otros fines, deberá presentar a esta Superintendencia un prospecto que habrá de contener las condiciones generales de la emisión. La emisión proyectada deberá ser motivo de un Acuerdo del Directorio de la empresa.
 
 1.1.- Condiciones generales de la emisión.
 
-En el prospecto se deberán mencionar y describir las siguientes condiciones de
+En el prospecto se deberán mencionar y describir las siguientes condiciones de cada emisión que se proyecte;
 
-cada emisión que se proyecte;
+a) Monto de la emisión propuesta, moneda en que se expresará (Pesos, U.F., I.V.P. o moneda extranjera) y si las letras serán al portador o nominativas.
 
-a) Monto de la emisión propuesta, moneda en que se expresará (Pesos, U.F.,
-
-I.V.P. o moneda extranjera) y si las letras serán al portador o nominativas.
-
-El emisor deberá acompañar un detalle de las series que se propone emplear con
-
-indicación de si se destinarán al financiamiento de vivienda o a fines
-
-generales. Pertenecerán a una misma serie las letras que tengan idénticas
-
-características en cuanto a tasa de interés, forma y plazo de amortización.
-
-Asimismo, se deberá indicar si las letras se expresarán en moneda extranjera,
-
-Pesos, Unidades de Fomento y, cuando se trate de letras de crédito para
-
-vivienda, sólo en Unidades de Fomento o en Indice Valor Promedio. El corte delas
-
-letras será determinado libremente por la institución emisora.
+El emisor deberá acompañar un detalle de las series que se propone emplear con indicación de si se destinarán al financiamiento de vivienda o a fines generales. Pertenecerán a una misma serie las letras que tengan idénticas características en cuanto a tasa de interés, forma y plazo de amortización. Asimismo, se deberá indicar si las letras se expresarán en moneda extranjera, Pesos, Unidades de Fomento y, cuando se trate de letras de crédito para vivienda, sólo en Unidades de Fomento o en Indice Valor Promedio. El corte delas letras será determinado libremente por la institución emisora.
 
 b) Plazo de los préstamos.
 
@@ -12310,131 +12046,45 @@ correspondientes, pero en ningún caso inferior a un año.
 
 c) Tasa de interés.
 
-Es preciso tener presente que la tasa de interés es libre y puede ser fija o
+Es preciso tener presente que la tasa de interés es libre y puede ser fija o flotante, con la limitación que la del préstamo debe ser idéntica a la de las respectivas letras de crédito, sin considerar, para este efecto, la comisión a cargo del deudor del crédito.
 
-flotante, con la limitación que la del préstamo debe ser idéntica a la de las
+Cuando se pacte una tasa de interés flotante en un mutuo hipotecario, se deberá señalar expresamente, de conformidad con lo dispuesto en las normas del Banco Central de Chile, que ésta variará semestralmente y esa variación tendrá por base la Tasa
 
-respectivas letras de crédito, sin considerar, para este efecto, la comisión a
+de Interés Promedio establecida en el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada por el Banco Central de Chile y publicada en el Diario Oficial en la segunda quincena de los meses de mayo y noviembre de cada año. Sin embargo, durante el período inicial de vigencia, la tasa de interés será aquella que conste en la respectiva letra y en el mutuo. Las tasas variables calculadas en la forma antedicha, regirán para el segundo semestre del mismo año en que se determine y para el primer semestre del año siguiente,respectivamente.
 
-cargo del deudor del crédito.
+En todo caso, la tasa de interés flotante no podrá ser superior en más de tres puntos porcentuales con respecto a la tasa de interés que se aplique en la fecha en que comience la vigencia del crédito. A vía de ejemplo, si la tasa de interés al inicio del crédito fuera de 7% anual, el valor máximo que podría alcanzar dicha tasa sería del 10% anual.
 
-Cuando se pacte una tasa de interés flotante en un mutuo hipotecario, se deberá
-
-señalar expresamente, de conformidad con lo dispuesto en los respectivos
-
-acuerdos del Consejo Monetario y del Comité Ejecutivo del Banco Central de
-
-Chile, que ésta variará semestralmente y esa variación tendrá por base la Tasa
-
-de Interés Promedio establecida en el N° 5 del Capítulo IV.B.8.1 del Compendio
-
-de Normas Financieras, certificada por el Banco Central de Chile y publicada en
-
-el Diario Oficial en la segunda quincena de los meses de mayo y noviembre de
-
-cada año. Sin embargo, durante el período inicial de vigencia, la tasa de
-
-interés será aquella que conste en la respectiva letra y en el mutuo. Las tasas
-
-variables calculadas en la forma antedicha, regirán para el segundo semestre del
-
-mismo año en que se determine y para el primer semestre del año
-
-siguiente,respectivamente.
-
-En todo caso, la tasa de interés flotante no podrá ser superior en más de tres
-
-puntos porcentuales con respecto a la tasa de interés que se aplique en la fecha
-
-en que comience la vigencia del crédito. A vía de ejemplo, si la tasa de interés
-
-al inicio del crédito fuera de 7% anual, el valor máximo que podría alcanzar
-
-dicha tasa sería del 10% anual.
-
-Asimismo, el valor mínimo para la tasa de interés flotante no podrá ser inferior
-
-a tres puntos porcentuales con respecto a la tasa que se aplique al comienzo del
-
-crédito, salvo que la institución financiera que lo otorgue opte, al momento de
-
-cursarlo, por prescindir del límite inferior de variación de la tasa de interés
-
-aplicable al préstamo y a las letras de crédito. Esta condición deberá quedar
-
-expresamente indicada en el respectivo contrato de mutuo y en el texto de las
-
-letras de crédito.
+Asimismo, el valor mínimo para la tasa de interés flotante no podrá ser inferior a tres puntos porcentuales con respecto a la tasa que se aplique al comienzo del crédito, salvo que la institución financiera que lo otorgue opte, al momento de cursarlo, por prescindir del límite inferior de variación de la tasa de interés aplicable al préstamo y a las letras de crédito. Esta condición deberá quedar expresamente indicada en el respectivo contrato de mutuo y en el texto de las letras de crédito.
 
 d) Amortización.
 
-En lo relativo a la amortización, deberá especificarse si ésta será ordinaria
+En lo relativo a la amortización, deberá especificarse si ésta será ordinaria directa o indirecta. De acuerdo a la definición legal se entiende por amortización ordinaria directa, aquella en que periódicamente el emisor paga parte del capital y de los intereses convenidos, cuyos importes se expresan en el respectivo cupón. La amortización ordinaria indirecta es aquella que se
 
-directa o indirecta. De acuerdo a la definición legal se entiende por
+efectúa por compra o por rescate de las letras de crédito o por sorteo a la par,hasta por un valor nominal igual al fondo de amortización correspondiente al período respectivo.
 
-amortización ordinaria directa, aquella en que periódicamente el emisor paga
-
-parte del capital y de los intereses convenidos, cuyos importes se expresan en
-
-el respectivo cupón. La amortización ordinaria indirecta es aquella que se
-
-efectúa por compra o por rescate de las letras de crédito o por sorteo a la
-
-par,hasta por un valor nominal igual al fondo de amortización correspondiente al
-
-período respectivo.
-
-Las letras de crédito destinadas a préstamos para la vivienda, se amortizarán
-
-siempre en la modalidad ordinaria directa trimestral, con servicio en los meses
-
-de marzo, junio, septiembre y diciembre de cada año. El último servicio
-
-ordinario de estas letras deberá recaer siempre en el mes de diciembre.
+Las letras de crédito destinadas a préstamos para la vivienda, se amortizarán siempre en la modalidad ordinaria directa trimestral, con servicio en los meses de marzo, junio, septiembre y diciembre de cada año. El último servicio ordinario de estas letras deberá recaer siempre en el mes de diciembre.
 
 e) Valor del cupón.
 
-El cupón podrá comprender interés y amortización o sólo el interés, según se
+El cupón podrá comprender interés y amortización o sólo el interés, según se trate de letras con amortización ordinaria directa u ordinaria indirecta.
 
-trate de letras con amortización ordinaria directa u ordinaria indirecta.
-
-Cuando se trate de letras de crédito con tasa de interés flotante, se indicará
-
-en los respectivos cupones, en lugar del monto de intereses, la fórmula que se
-
-utilizará para determinar su importe.
+Cuando se trate de letras de crédito con tasa de interés flotante, se indicará en los respectivos cupones, en lugar del monto de intereses, la fórmula que se utilizará para determinar su importe.
 
 1.2.- Tamaño de las láminas de letras de crédito.
 
-Las letras de crédito deben imprimirse en láminas cuyas dimensiones no excederán
-
-las señaladas en el Anexo N°1 del Capítulo II.A.1 del Compendio de Normas
-
-Financieras. A la misma disposición deberán atenerse con respecto a la ubicación
-
-de los antecedentes en las referidas láminas.
+Las letras de crédito deben imprimirse en láminas cuyas dimensiones no excederán las señaladas en el Anexo N°1 del Capítulo II.A.1 del Compendio de Normas Financieras. A la misma disposición deberán atenerse con respecto a la ubicación de los antecedentes en las referidas láminas.
 
 1.3.- Codificación de las letras de crédito.
 
 1.3.1.- Código de identificación.
 
-Las distintas series de letras deberán identificarse mediante un sistema
+Las distintas series de letras deberán identificarse mediante un sistema alfanumérico que permita conocer las características de la serie a través de ese código de identificación.
 
-alfanumérico que permita conocer las características de la serie a través de ese
-
-código de identificación.
-
-Este sistema consiste en el uso de los signos que se indican a continuación, en
-
-el mismo orden en que deben ser impresos en la respectiva letra de crédito:
+Este sistema consiste en el uso de los signos que se indican a continuación, en el mismo orden en que deben ser impresos en la respectiva letra de crédito:
 
 a) Sistema de amortización.
 
-Los primeros signos del código serán dos letras que indicarán si la amortización
-
-ordinaria de la letra de crédito es directa o indirecta, debiendo utilizarse las
-
-siguientes letras:
+Los primeros signos del código serán dos letras que indicarán si la amortización ordinaria de la letra de crédito es directa o indirecta, debiendo utilizarse las siguientes letras:
 
 AD = Amortización ordinaria directa.
 
@@ -12442,35 +12092,13 @@ AI = Amortización ordinaria indirecta.
 
 b) Tasa de interés y plazo.
 
-En las letras de crédito con tasa de interés fija se colocarán, a continuación
+En las letras de crédito con tasa de interés fija se colocarán, a continuación de los signos alfabéticos señalados en la letra a) precedente, cinco signos numéricos. Los tres primeros dígitos corresponderán a la tasa de interés. El tercero de ellos indicará la fracción decimal, en caso de haberla, en tanto que los dos últimos indicarán el plazo de extinción total del instrumento.
 
-de los signos alfabéticos señalados en la letra a) precedente, cinco signos
-
-numéricos. Los tres primeros dígitos corresponderán a la tasa de interés. El
-
-tercero de ellos indicará la fracción decimal, en caso de haberla, en tanto que
-
-los dos últimos indicarán el plazo de extinción total del instrumento.
-
-Al tratarse de letras de crédito con tasa de interés variable, en lugar de los
-
-tres dígitos correspondientes a la tasa de interés, se indicarán las letras
-
-"TIP".
+Al tratarse de letras de crédito con tasa de interés variable, en lugar de los tres dígitos correspondientes a la tasa de interés, se indicarán las letras "TIP".
 
 c) Origen de la letra de crédito y periodicidad de amortización.
 
-La finalidad de la letra de crédito, esto es, si se trata de letras de crédito
-
-que tengan su origen en mutuos para financiamiento de vivienda o para fines
-
-generales, estará representada por un signo alfabético que se imprimirá a
-
-continuación de los signos numéricos señalados en la letra b) precedente. Este
-
-signo alfabético indicará, además, la periodicidad de las amortizaciones de las
-
-letras de crédito, según se muestra a continuación:
+La finalidad de la letra de crédito, esto es, si se trata de letras de crédito que tengan su origen en mutuos para financiamiento de vivienda o para fines generales, estará representada por un signo alfabético que se imprimirá a continuación de los signos numéricos señalados en la letra b) precedente. Este signo alfabético indicará, además, la periodicidad de las amortizaciones de las letras de crédito, según se muestra a continuación:
 
 V = Vivienda con amortización directa trimestral.
 
@@ -12486,59 +12114,19 @@ G = Fines generales con período de gracia.
 
 d) Unidad de valor en que está expresado el documento.
 
-Luego del signo alfabético a que se refiere la letra c) precedente, se imprimirá
-
-un signo numérico que representará la unidad de valor en que está expresada la
-
-respectiva letra de crédito. Estos signos y su significado serán los siguientes:
+Luego del signo alfabético a que se refiere la letra c) precedente, se imprimirá un signo numérico que representará la unidad de valor en que está expresada la respectiva letra de crédito. Estos signos y su significado serán los siguientes:
 
 1 = Unidad de Fomento (UF); y,
 
 2 = Indice Valor Promedio (IVP).
 
-La aplicación práctica de las instrucciones contenidas en este numeral se
-
-demuestra a continuación mediante el siguiente ejemplo: Una letra de crédito
-
-para vivienda, emitida a 20 años plazo, con una tasa de interés del 8,5% anual y
-
-expresada en Indice Valor Promedio (IVP), tendrá el siguiente código: AD08520V2.
-
-Asimismo, una letra de crédito de iguales características que la señalada pero
-
-con tasa de interés flotante, llevará el siguiente código: ADTIP20V2. No
-
-obstante que mediante esta codificación se identifican ahora las letras que
-
-corresponden a créditos para fines generales y las que tienen su origen en
-
-préstamos para vivienda, deberá agregarse en el caso de estas últimas, a
-
-continuación del código, la palabra "Vivienda". Este código de identificación se
-
-imprimirá en el lado superior izquierdo de la letra de crédito, bajo el nombre
-
-de la entidad emisora y en tipos suficientemente destacados.
+La aplicación práctica de las instrucciones contenidas en este numeral se demuestra a continuación mediante el siguiente ejemplo: Una letra de crédito para vivienda, emitida a 20 años plazo, con una tasa de interés del 8,5% anual y expresada en Indice Valor Promedio (IVP), tendrá el siguiente código: AD08520V2. Asimismo, una letra de crédito de iguales características que la señalada pero con tasa de interés flotante, llevará el siguiente código: ADTIP20V2. No obstante que mediante esta codificación se identifican ahora las letras que corresponden a créditos para fines generales y las que tienen su origen en préstamos para vivienda, deberá agregarse en el caso de estas últimas, a continuación del código, la palabra "Vivienda". Este código de identificación se imprimirá en el lado superior izquierdo de la letra de crédito, bajo el nombre de la entidad emisora y en tipos suficientemente destacados.
 
 1.3.2.- Código de transacción bursátil.
 
-Las instituciones financieras están facultadas para imprimir en las letras de
+Las instituciones financieras están facultadas para imprimir en las letras de crédito el "código de transacción bursátil", con el objeto de facilitar la intermediación de estos títulos y armonizar también los procedimientos de custodia de aquellos títulos mantenidos en el Banco Central de Chile.
 
-crédito el "código de transacción bursátil", con el objeto de facilitar la
-
-intermediación de estos títulos y armonizar también los procedimientos de
-
-custodia de aquellos títulos mantenidos en el Banco Central de Chile.
-
-Este código se fijará, en cada caso, de común acuerdo con la Bolsa de Comercio
-
-de Santiago. La impresión deberá efectuarse en caracteres menos destacados que
-
-los empleados por este Organismo para designar los títulos y se ubicará bajo el
-
-código alfanumérico establecido por esta Superintendencia, en un espacio que no
-
-exceda de las siguientes dimensiones:
+Este código se fijará, en cada caso, de común acuerdo con la Bolsa de Comercio de Santiago. La impresión deberá efectuarse en caracteres menos destacados que los empleados por este Organismo para designar los títulos y se ubicará bajo el código alfanumérico establecido por esta Superintendencia, en un espacio que no exceda de las siguientes dimensiones:
 
 LARGO : 2 cm. máximo.
 
@@ -12546,65 +12134,27 @@ ANCHO : 0,6 cm. máximo.
 
 DIGITOS : 3 caracteres alfabéticos, numéricos o mixtos, como máximo.
 
-Esta codificación podrá agregarse a las letras de crédito en la oportunidad en
-
-que cada institución lo estime necesario.
+Esta codificación podrá agregarse a las letras de crédito en la oportunidad en que cada institución lo estime necesario.
 
 1.3.3.- Color de las letras de crédito.
 
-Las letras de crédito para vivienda continuarán imprimiéndose exclusivamente en
+Las letras de crédito para vivienda continuarán imprimiéndose exclusivamente en color azul, tanto para las que se expresen en Unidades de Fomento como para aquellas que se emitan en Indice Valor Promedio.
 
-color azul, tanto para las que se expresen en Unidades de Fomento como para
+Las letras de crédito para fines generales se imprimirán en el color que determine la respectiva institución emisora, con excepción, como resulta obvio, del color azul, debiendo procurar cierta uniformidad y permanencia en la utilización de los colores que elijan.
 
-aquellas que se emitan en Indice Valor Promedio.
+1.4.- Uniformidad en la impresión de las letras de crédito y en la confección de las tablas de desarrollo.
 
-Las letras de crédito para fines generales se imprimirán en el color que
-
-determine la respectiva institución emisora, con excepción, como resulta obvio,
-
-del color azul, debiendo procurar cierta uniformidad y permanencia en la
-
-utilización de los colores que elijan.
-
-1.4.- Uniformidad en la impresión de las letras de crédito y en la confección de
-
-las tablas de desarrollo.
-
-Las instituciones financieras procurarán, entre ellas, uniformar el diseño de
-
-los caracteres para imprimir las láminas de las letras de crédito, como asimismo
-
-la orla que éstas llevarán, el valor de cada cupón cuando se trate de letras de
-
-crédito de similares características, colores de los caracteres, fondos, etc.
-
-Para tal efecto, pueden considerar las sugerencias que les hiciere la Casa de
-
-Moneda de Chile, teniendo en cuenta que, al poner en práctica las medidas
-
-señaladas, se simplificará el trabajo de impresión de las letras de crédito, con
-
-los consiguientes beneficios de una mayor rapidez de esos trabajos y
+Las instituciones financieras procurarán, entre ellas, uniformar el diseño de los caracteres para imprimir las láminas de las letras de crédito, como asimismo la orla que éstas llevarán, el valor de cada cupón cuando se trate de letras de crédito de similares características, colores de los caracteres, fondos, etc. Para tal efecto, pueden considerar las sugerencias que les hiciere la Casa de Moneda de Chile, teniendo en cuenta que, al poner en práctica las medidas señaladas, se simplificará el trabajo de impresión de las letras de crédito, con los consiguientes beneficios de una mayor rapidez de esos trabajos y
 
 abaratamiento de costos.
 
 1.5.- Registro del Prospecto.
 
-Si el prospecto presentado por la institución solicitante cumple con todos los
-
-requisitos y exigencias legales y reglamentarios, esta Superintendencia
-
-procederá a anotarlo en su Registro, de lo cual se dejará constancia en el
-
-respectivo certificado de inscripción que se entregará a la entidad financiera.
+Si el prospecto presentado por la institución solicitante cumple con todos los requisitos y exigencias legales y reglamentarios, esta Superintendencia procederá a anotarlo en su Registro, de lo cual se dejará constancia en el respectivo certificado de inscripción que se entregará a la entidad financiera.
 
 1.6.- Modificación del Prospecto.
 
-En los casos en que se requiera ampliar el monto de emisión de una serie
-
-incluida en un prospecto inscrito en el Registro, será necesario obtener un
-
-Certificado de este Organismo.
+En los casos en que se requiera ampliar el monto de emisión de una serie incluida en un prospecto inscrito en el Registro, será necesario obtener un Certificado de este Organismo.
 
 2.- Tablas de Desarrollo.
 
@@ -12682,47 +12232,13 @@ En cualquier caso, las instituciones financieras no podrán comprometer operacio
 
 3.- Condiciones materiales de emisión.
 
-Las letras de crédito serán impresas en la Casa de Moneda. Sin embargo, también
+Las letras de crédito serán impresas en la Casa de Moneda. Sin embargo, también pueden serlo en imprentas particulares cuando así lo haya autorizado el Consejo del Banco Central de Chile. En este último casó, las instituciones financieras deberán verificar que las imprentas elegidas para realizar el trabajo cuenten con los medios técnicos y de seguridad necesarios que garanticen una impresión perfecta de estos documentos y que impidan la consumación de irregularidades o de hechos delictuosos que pudieran afectar la confianza en este tipo de instrumentos. En este mismo aspecto, las entidades financieras mantendrán los controles adecuados relacionados con las firmas autorizadas, Registro de Letras y puesta en circulación de éstas.
 
-pueden serlo en imprentas particulares cuando así lo haya autorizado el Comité
+El texto y las menciones que deberá contener la letra de crédito para vivienda se indican en los Anexos N°s .3, 4, 5 Y 6 de este capítulo, según se trate de letras expresadas en Unidades de Fomento, en Indice Valor Promedio, a tasa de interés fija o variable. Las letras de crédito para otros fines que contemplen la misma modalidad de amortización ordinaria directa, podrán incorporar igual texto.
 
-Ejecutivo del Banco Central de Chile. En este último casó, las instituciones
+El texto de las letras de crédito con amortización ordinaria indirecta se ajustará al que se señala en los Anexos N°s. 7 y 8.
 
-financieras deberán verificar que las imprentas elegidas para realizar el
-
-trabajo cuenten con los medios técnicos y de seguridad necesarios que garanticen
-
-una impresión perfecta de estos documentos y que impidan la consumación de
-
-irregularidades o de hechos delictuosos que pudieran afectar la confianza en
-
-este tipo de instrumentos. En este mismo aspecto, las entidades financieras
-
-mantendrán los controles adecuados relacionados con las firmas autorizadas,
-
-Registro de Letras y puesta en circulación de éstas.
-
-El texto y las menciones que deberá contener la letra de crédito para vivienda
-
-se indican en los Anexos N°s .3, 4, 5 Y 6 de este capítulo, según se trate de
-
-letras expresadas en Unidades de Fomento, en Indice Valor Promedio, a tasa de
-
-interés fija o variable. Las letras de crédito para otros fines que contemplen
-
-la misma modalidad de amortización ordinaria directa, podrán incorporar igual
-
-texto.
-
-El texto de las letras de crédito con amortización ordinaria indirecta se
-
-ajustará al que se señala en los Anexos N°s. 7 y 8.
-
-En los Anexos N°s. 9 y 10 se muestra el diseño de un cupón de letra de crédito
-
-con tasa de interés fija y tasa de interés variable, respectivamente que, como
-
-se puede apreciar, incluye la identificación de la letra a que corresponde.
+En los Anexos N°s. 9 y 10 se muestra el diseño de un cupón de letra de crédito con tasa de interés fija y tasa de interés variable, respectivamente que, como se puede apreciar, incluye la identificación de la letra a que corresponde.
 
 4.- Emisión nominal y material de las letras.
 
@@ -12828,17 +12344,7 @@ irregularidades en su manejo por parte de alguna entidad emisora.
 
 7.- Normas sobre destrucción o pérdida de letras de crédito.
 
-Sobre el particular, las entidades financieras deberán atenerse a las
-
-disposiciones establecidas por el Consejo Monetario y contenidas en el Capítulo
-
-II.A.1.1 del Compendio de Normas Financieras del Banco Central de Chile.
-
-Las letras que se entreguen en remplazo de las deterioradas o inutilizadas las
-
-registrará la institución emisora de acuerdo con la modalidad establecida en la
-
-materia por el Consejo Monetario.
+Las instituciones financieras podrán reemplazar las letras de crédito destruidas o extraviadas, ateniéndose a las disposiciones que para el efecto se establecen en el Capítulo II.A.1 1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 8.- Información al público.
 
@@ -12904,7 +12410,7 @@ con tasa de interés fija o flotante, respectivamente.
 
 2.1.- Monto máximo de los préstamos.
 
-Las normas impartidas por el Consejo Monetario establecen que los préstamos que efectúen las instituciones financieras bajo esta modalidad, no podrán exceder del 75% del valor de tasación del inmueble ofrecido en garantía.
+Las normas del Banco Central de Chile establecen que los préstamos que efectúen las instituciones financieras bajo esta modalidad, no podrán exceder del 75% del valor de tasación del inmueble ofrecido en garantía.
 
 En caso de operaciones de compra venta de bienes raíces, dichos préstamos tampoco podrán exceder del mencionado importe o del 75% del precio de venta del respectivo inmueble si este último precio fuere inferior al valor de tasación.
 
@@ -13166,111 +12672,29 @@ se firme la correspondiente escritura o el día primero del mes subsiguiente a
 
 8.- Amortización extraordinaria de préstamos.
 
-El artículo 95 de la Ley General de Bancos faculta a los deudores de préstamos
-
-en letras de crédito para reembolsar anticipadamente todo o parte del capital no
-
-amortizado de su deuda, ya sea en dinero o en letras de crédito de la misma
-
-serie del préstamo. A este respecto, las normas del Consejo Monetario agregan
-
-que, en el caso del pago mediante letras de crédito, éstas deben ser también del
+El artículo 95 de la Ley General de Bancos faculta a los deudores de préstamos en letras de crédito para reembolsar anticipadamente todo o parte del capital no amortizado de su deuda, ya sea en dinero o en letras de crédito de la misma serie del préstamo. A este respecto, las normas del Banco Central de Chile agregan que, en el caso del pago mediante letras de crédito, éstas deben ser también del
 
 mismo año y del mismo emisor.
 
-Cuando el pago se realice en esta última forma, las letras serán recibidas por
+Cuando el pago se realice en esta última forma, las letras serán recibidas por el valor nominal del respectivo título, descontadas las amortizaciones parciales ya efectuadas, en el caso de que se trate de letras con amortización directa, o a su valor par cuando lo sean con amortización indirecta.
 
-el valor nominal del respectivo título, descontadas las amortizaciones parciales
+El pago total o parcial extraordinario puede hacerse en todo tiempo, salvo en los meses en que deban realizarse los sorteos, cuando así corresponda.
 
-ya efectuadas, en el caso de que se trate de letras con amortización directa, o
+En el caso de una amortización extraordinaria total de la deuda, el deudor debe pagar los dividendos del período de amortización en que se efectúe el pago anticipado, más el capital insoluto que resulte una vez deducida la amortización incluida en dichos dividendos.
 
-a su valor par cuando lo sean con amortización indirecta.
+Cuando se trate de amortizaciones anticipadas parciales, el pago se aplicará proporcionalmente a los dividendos restantes de la deuda, de modo que el importe de éstos se rebajará sin alterar el plazo pactado de ella. En este caso, el monto pagado por el deudor se aplicará al capital insoluto a la fecha del pago y, sobre la base del saldo resultante y del plazo remanente, se recalcularán los dividendos que deben pagarse a partir del mes siguiente. En caso de operaciones con tasa de interés variable, la amortización de capital que corresponderá incluir en los dividendos remanentes, se calculará según la tasa de interés vigente en la fecha en que se efectúe el pago anticipado.
 
-El pago total o parcial extraordinario puede hacerse en todo tiempo, salvo en
+En conformidad con lo dispuesto en el inciso segundo del artículo 95 de la Ley General de Bancos, el deudor que amortice forma extraordinaria, total o
 
-los meses en que deban realizarse los sorteos, cuando así corresponda.
+parcialmente el saldo de su deuda, debe pagar a la entidad emisora, adicionalmente, una suma equivalente al interés y comisión correspondiente a un período de amortización de las letras de su préstamo, calculada sobre el monto que se amortice extraordinariamente, cualquiera hubiera sido la cantidad pagada anticipadamente.
 
-En el caso de una amortización extraordinaria total de la deuda, el deudor debe
+Para ese efecto, las instituciones financieras deberán considerar los intereses y comisiones que, según las correspondientes tablas de desarrollo,correspondería cobrar en el período de amortización siguiente a aquél en que se realice el pago anticipado. Al tratarse de operaciones con tasa de interés variable, se utilizará para este efecto, la tasa vigente para los dividendos del período en el cual se paga anticipadamente.
 
-pagar los dividendos del período de amortización en que se efectúe el pago
+De cualquier modo, el cobro adicional de dichos intereses y comisiones, es un derecho que la ley confiere a las entidades emisoras y, por lo tanto, es perfectamente renunciable, de manera que su aplicación queda entregada al buen criterio de las instituciones acreedoras.
 
-anticipado, más el capital insoluto que resulte una vez deducida la amortización
+Al recibir algún pago para amortizar anticipadamente el total o parte de la obligación hipotecaria, las instituciones financieras no podrán cobrar al deudor valores que no correspondan a lo indicado precedentemente. En las liquidaciones que se entreguen a los deudores por pagos extraordinarios totales o parciales que éstos hicieren, deben señalar claramente los conceptos por los cuales se cobra, de tal manera que el deudor pueda constatar la correcta aplicación de lo dispuesto en las presentes instrucciones.
 
-incluida en dichos dividendos.
-
-Cuando se trate de amortizaciones anticipadas parciales, el pago se aplicará
-
-proporcionalmente a los dividendos restantes de la deuda, de modo que el importe
-
-de éstos se rebajará sin alterar el plazo pactado de ella. En este caso, el
-
-monto pagado por el deudor se aplicará al capital insoluto a la fecha del pago
-
-y, sobre la base del saldo resultante y del plazo remanente, se recalcularán los
-
-dividendos que deben pagarse a partir del mes siguiente. En caso de operaciones
-
-con tasa de interés variable, la amortización de capital que corresponderá
-
-incluir en los dividendos remanentes, se calculará según la tasa de interés
-
-vigente en la fecha en que se efectúe el pago anticipado.
-
-En conformidad con lo dispuesto en el inciso segundo del artículo 95 de la Ley
-
-General de Bancos, el deudor que amortice forma extraordinaria, total o
-
-parcialmente el saldo de su deuda, debe pagar a la entidad emisora,
-
-adicionalmente, una suma equivalente al interés y comisión correspondiente a un
-
-período de amortización de las letras de su préstamo, calculada sobre el monto
-
-que se amortice extraordinariamente, cualquiera hubiera sido la cantidad pagada
-
-anticipadamente.
-
-Para ese efecto, las instituciones financieras deberán considerar los intereses
-
-y comisiones que, según las correspondientes tablas de desarrollo,correspondería
-
-cobrar en el período de amortización siguiente a aquél en que se realice el pago
-
-anticipado. Al tratarse de operaciones con tasa de interés variable, se
-
-utilizará para este efecto, la tasa vigente para los dividendos del período en
-
-el cual se paga anticipadamente.
-
-De cualquier modo, el cobro adicional de dichos intereses y comisiones, es un
-
-derecho que la ley confiere a las entidades emisoras y, por lo tanto, es
-
-perfectamente renunciable, de manera que su aplicación queda entregada al buen
-
-criterio de las instituciones acreedoras.
-
-Al recibir algún pago para amortizar anticipadamente el total o parte de la
-
-obligación hipotecaria, las instituciones financieras no podrán cobrar al deudor
-
-valores que no correspondan a lo indicado precedentemente. En las liquidaciones
-
-que se entreguen a los deudores por pagos extraordinarios totales o parciales
-
-que éstos hicieren, deben señalar claramente los conceptos por los cuales se
-
-cobra, de tal manera que el deudor pueda constatar la correcta aplicación de lo
-
-dispuesto en las presentes instrucciones.
-
-No obstante lo señalado precedentemente, las instituciones financieras podrán
-
-recibir, a petición del deudor, el pago anticipado de dividendos que comprendan
-
-un período máximo de seis meses, sin que se considere amortización
-
-extraordinaria del respectivo préstamo.
+No obstante lo señalado precedentemente, las instituciones financieras podrán recibir, a petición del deudor, el pago anticipado de dividendos que comprendan un período máximo de seis meses, sin que se considere amortización extraordinaria del respectivo préstamo.
 
 9.- Amortización extraordinaria de letras de crédito.
 
@@ -13488,203 +12912,61 @@ e) El precio al cual se vendieron las letras de crédito asociadas al mutuo, en
 
 los casos que corresponda.
 
-11.- Prohibición de otorgar garantía de liquidez anticipada en las operaciones
+11.- Prohibición de otorgar garantía de liquidez anticipada en las operaciones con letras de crédito.
 
-con letras de crédito.
+Las normas del Banco Central de Chile prohíben en forma expresa a las instituciones emisoras otorgar garantía de liquidez anticipada a las letras de crédito que emitan. Dicho en otros términos, estas entidades, sin perjuicio de la facultad de comprar letras de crédito dentro del margen establecido, no pueden tomar ningún compromiso para asegurar a los tenedores de letras de crédito su pago anticipado o su adquisición futura.
 
-El acuerdo del Consejo Monetario prohíbe en forma expresa a las instituciones
-
-emisoras otorgar garantía de liquidez anticipada a las letras de crédito que
-
-emitan. Dicho en otros términos, estas entidades, sin perjuicio de la facultad
-
-de comprar letras de crédito dentro del margen establecido, no pueden tomar
-
-ningún compromiso para asegurar a los tenedores de letras de crédito su pago
-
-anticipado o su adquisición futura.
-
-12. - Pago anticipado de un préstamo en letras de crédito mediante otro de igual
-
-naturaleza.
+12. - Pago anticipado de un préstamo en letras de crédito mediante otro de igual naturaleza.
 
 12.1.- Condiciones de los nuevos créditos.
 
-Las instituciones financieras están facultadas para otorgar préstamos en letras
+Las instituciones financieras están facultadas para otorgar préstamos en letras de crédito que tengan por finalidad pagar anticipadamente otro préstamo de igual naturaleza.
 
-de crédito que tengan por finalidad pagar anticipadamente otro préstamo de igual
+Estos nuevos préstamos pueden cursarse en la misma moneda o modalidad de reajuste que contemplaba el crédito que se paga o en otra distinta, siempre que se encuentre dentro de las autorizadas por el Banco Central de Chile, esto es,Unidades de Fomento, moneda extranjera pagadera en moneda chilena, o bien, si se trata de préstamos para vivienda, también en I.V.P.
 
-naturaleza.
+El monto del nuevo crédito que se curse, comprenderá el saldo del préstamo de igual naturaleza y sus respectivos créditos complementarios que se paguen bajo esta modalidad, siempre que estos últimos consten en el correspondiente mutuo. Además, se podrán incluir en el monto de esta operación los siguientes conceptos:
 
-Estos nuevos préstamos pueden cursarse en la misma moneda o modalidad de
+a) Gastos notariales, de inscripción en el Conservador de Bienes Raíces, de estudio de títulos y tasaciones, inherentes al nuevo mutuo;
 
-reajuste que contemplaba el crédito que se paga o en otra distinta, siempre que
-
-se encuentre dentro de las autorizadas por el Banco Central de Chile, esto
-
-es,Unidades de Fomento, moneda extranjera pagadera en moneda chilena, o bien, si
-
-se trata de préstamos para vivienda, también en I.V.P.
-
-El monto del nuevo crédito que se curse, comprenderá el saldo del préstamo de
-
-igual naturaleza y sus respectivos créditos complementarios que se paguen bajo
-
-esta modalidad, siempre que estos últimos consten en el correspondiente mutuo.
-
-Además, se podrán incluir en el monto de esta operación los siguientes
-
-conceptos:
-
-a) Gastos notariales, de inscripción en el Conservador de Bienes Raíces, de
-
-estudio de títulos y tasaciones, inherentes al nuevo mutuo;
-
-b) Diferencias de precio estimadas que, eventualmente, pueden producirse al
-
-liquidar las letras de crédito del nuevo mutuo, dentro del rango que se haya
-
-convenido expresamente entre la entidad emisora y el deudor.
+b) Diferencias de precio estimadas que, eventualmente, pueden producirse al liquidar las letras de crédito del nuevo mutuo, dentro del rango que se haya convenido expresamente entre la entidad emisora y el deudor.
 
 c) Gastos por pago anticipado pactados en el mutuo original.
 
 12.2.- Garantía de los préstamos.
 
-Los préstamos en letras de crédito que tengan por objeto pagar anticipadamente
-
-otros créditos de igual naturaleza, pueden ser caucionados por la misma garantía
-
-del crédito que se prepaga a que se refiere el N°3 de este título. En tal
-
-caso,será suficiente la tasación de los respectivos inmuebles, efectuada al
-
-otorgar dicho crédito, a menos que la institución financiera acreedora estime
-
-necesario practicar una nueva tasación. En todo caso, si la hipoteca recae en
-
-bienes raíces distintos de aquél que cauciona el crédito que se paga
-
-anticipadamente, deberá efectuarse la tasación de la nueva garantía.
+Los préstamos en letras de crédito que tengan por objeto pagar anticipadamente otros créditos de igual naturaleza, pueden ser caucionados por la misma garantía del crédito que se prepaga a que se refiere el N°3 de este título. En tal caso,será suficiente la tasación de los respectivos inmuebles, efectuada al otorgar dicho crédito, a menos que la institución financiera acreedora estime necesario practicar una nueva tasación. En todo caso, si la hipoteca recae en bienes raíces distintos de aquél que cauciona el crédito que se paga anticipadamente, deberá efectuarse la tasación de la nueva garantía.
 
 12.3.- Relación deuda-garantía.
 
-El monto del préstamo en letras de crédito no debe exceder del 75% del valor de
+El monto del préstamo en letras de crédito no debe exceder del 75% del valor de la garantía. Para los fines de determinar el porcentaje que representa la garantía, se considerará el valor de las letras expresado en las láminas, menos la parte de amortización contenida en los cupones trimestrales desprendidos de ellas que correspondan al período comprendido entre la fecha de emisión nominal y el día primero del mes subsiguiente al de emisión material de las letras, cuando éstas sean para vivienda y, en caso que sean para fines generales, cuando se haya pactado esa modalidad en el respectivo mutuo.
 
-la garantía. Para los fines de determinar el porcentaje que representa la
-
-garantía, se considerará el valor de las letras expresado en las láminas, menos
-
-la parte de amortización contenida en los cupones trimestrales desprendidos de
-
-ellas que correspondan al período comprendido entre la fecha de emisión nominal
-
-y el día primero del mes subsiguiente al de emisión material de las letras,
-
-cuando éstas sean para vivienda y, en caso que sean para fines generales, cuando
-
-se haya pactado esa modalidad en el respectivo mutuo.
-
-Sin embargo, por acuerdo del Consejo Monetario, los préstamos en letras de
-
-crédito otorgados para pagar anticipadamente otro u otros préstamos de igual
-
-naturaleza, quedarán exentos del referido límite, por el período que medie entre
-
-la fecha de su otorgamiento y la fecha en que se efectúe dicho prepago.
+En todo caso, las normas del Banco Central de Chile le permiten que los préstamos en letras de crédito otorgados para pagar anticipadamente otro u otros préstamos de igual naturaleza, queden exentos del referido límite, por el período que medie entre la fecha de su otorgamiento y la fecha en que se efectúe dicho prepago".
 
 12.4.- Prepaqos de créditos para vivienda.
 
-Si el préstamo que se paga anticipadamente fue cursado en letras de crédito para
+Si el préstamo que se paga anticipadamente fue cursado en letras de crédito para vivienda, el nuevo crédito que se conceda para el pago de aquél, debe corresponder a letras de crédito para vivienda. En caso que el préstamo que se prepague hubiere sido cursado en letras de crédito para fines generales y su producto destinado a la adquisición, construcción o ampliación de
 
-vivienda, el nuevo crédito que se conceda para el pago de aquél, debe
+viviendas,siempre que éstos hayan sido otorgados al usuario final de tales inmuebles, el nuevo préstamo puede ser cursado en letras de crédito para vivienda. En los demás casos, el nuevo crédito deberá ser cursado en letras de crédito para fines generales.
 
-corresponder a letras de crédito para vivienda. En caso que el préstamo que se
-
-prepague hubiere sido cursado en letras de crédito para fines generales y su
-
-producto destinado a la adquisición, construcción o ampliación de
-
-viviendas,siempre que éstos hayan sido otorgados al usuario final de tales
-
-inmuebles, el nuevo préstamo puede ser cursado en letras de crédito para
-
-vivienda. En los demás casos, el nuevo crédito deberá ser cursado en letras de
-
-crédito para fines generales.
-
-Las instituciones financieras también pueden otorgar préstamos en letras de
-
-crédito para pagar anticipadamente préstamos hipotecarios que hubieren sido
-
-financiados con recursos diferentes de los instrumentos antes indicados,cursados
-
-por ellas o por la Asociación Nacional de Ahorro y Préstamo, siempre que las
-
-operaciones que se paguen anticipadamente hayan sido otorgadas a largo plazo.
-
-Estos nuevos préstamos serán en letras de crédito para vivienda o para fines
-
-generales, según haya sido el destino del crédito que se prepague mediante este
-
-procedimiento.
+Las instituciones financieras también pueden otorgar préstamos en letras de crédito para pagar anticipadamente préstamos hipotecarios que hubieren sido financiados con recursos diferentes de los instrumentos antes indicados,cursados por ellas o por la Asociación Nacional de Ahorro y Préstamo, siempre que las operaciones que se paguen anticipadamente hayan sido otorgadas a largo plazo. Estos nuevos préstamos serán en letras de crédito para vivienda o para fines generales, según haya sido el destino del crédito que se prepague mediante este procedimiento.
 
 12.5.- Procedimiento que deberá seguir el deudor.
 
-El deudor que acuerde con la institución financiera acreedora el pago anticipado
+El deudor que acuerde con la institución financiera acreedora el pago anticipado de un préstamo en letras de crédito mediante un nuevo préstamo de igual naturaleza, deberá presentar una solicitud en tal sentido. La entidad financiera, si aprueba esa solicitud dejará constancia detallada en la respectiva aprobación, de las condiciones del nuevo préstamo que se otorga, en
 
-de un préstamo en letras de crédito mediante un nuevo préstamo de igual
+cuanto a monto, reajustabilidad, tasa de interés, comisión, plazo y aplicación que se le dará.
 
-naturaleza, deberá presentar una solicitud en tal sentido. La entidad
+El beneficiario del préstamo deberá otorgar un mandato irrevocable a la institución financiera acreedora a fin de que proceda a la liquidación de las correspondientes letras de crédito y destine su producto al pago anticipado del crédito que se extingue mediante este procedimiento.
 
-financiera, si aprueba esa solicitud dejará constancia detallada en la
+Para dar cumplimiento a lo anterior, el deudor facultará a la institución financiera acreedora para que venda en el mercado las letras de crédito correspondientes al nuevo préstamo que se le otorga, debiendo señalar el precio mínimo al cual desea que las letras de crédito sean enajenadas.
 
-respectiva aprobación, de las condiciones del nuevo préstamo que se otorga, en
+Por otra parte, el deudor deberá comprometerse, en caso que las letras de crédito se vendan a un precio inferior a su valor par, a hacerse cargo de la diferencia. Si las letras de crédito se venden por sobre su valor par, la institución financiera acreedora, destinará la diferencia que pudiere resultar, en primer término a pagar los gastos generados por la operación, que el mutuario
 
-cuanto a monto, reajustabilidad, tasa de interés, comisión, plazo y aplicación
-
-que se le dará.
-
-El beneficiario del préstamo deberá otorgar un mandato irrevocable a la
-
-institución financiera acreedora a fin de que proceda a la liquidación de las
-
-correspondientes letras de crédito y destine su producto al pago anticipado del
-
-crédito que se extingue mediante este procedimiento.
-
-Para dar cumplimiento a lo anterior, el deudor facultará a la institución
-
-financiera acreedora para que venda en el mercado las letras de crédito
-
-correspondientes al nuevo préstamo que se le otorga, debiendo señalar el precio
-
-mínimo al cual desea que las letras de crédito sean enajenadas.
-
-Por otra parte, el deudor deberá comprometerse, en caso que las letras de
-
-crédito se vendan a un precio inferior a su valor par, a hacerse cargo de la
-
-diferencia. Si las letras de crédito se venden por sobre su valor par, la
-
-institución financiera acreedora, destinará la diferencia que pudiere resultar,
-
-en primer término a pagar los gastos generados por la operación, que el mutuario
-
-pudiera estar adeudando y luego al pago o abono de los dividendos más próximos
-
-del nuevo mutuo.
+pudiera estar adeudando y luego al pago o abono de los dividendos más próximos del nuevo mutuo.
 
 12.6.- Exención tributaria y rebaja de gastos.
 
-Los nuevos créditos que otorguen las instituciones financieras para pagar
-
-anticipadamente otros préstamos de conformidad con estas instrucciones, pueden
-
-acogerse a las exenciones tributarias y rebaja de aranceles notariales y de
-
-Conservadores de Bienes Raíces, de que trata el artículo 41 de la Ley N° 18.482,
-
-en la medida en que se cumplan las condiciones establecidas para ello.
+Los nuevos créditos que otorguen las instituciones financieras para pagar anticipadamente otros préstamos de conformidad con estas instrucciones, pueden acogerse a las exenciones tributarias y rebaja de aranceles notariales y de Conservadores de Bienes Raíces, de que trata el artículo 41 de la Ley N° 18.482, en la medida en que se cumplan las condiciones establecidas para ello.
 
 III.- INVERSIONES EN LETRAS DE CREDITO.
 
@@ -14076,41 +13358,7 @@ Las primas de seguro de incendio y de desgravamen correspondientes a estas opera
 
 C. INVERSIONES FINANCIERAS EN LETRAS DE CREDITO.
 
-Las letras de crédito de su propia emisión que adquieran las instituciones
-
-financieras serán registradas por su valor par, esto es, su valor nominal más
-
-los intereses y reajustes devengados hasta la fecha de adquisición, con cargo a
-
-la cuenta "Letras de crédito de emisión propia" de la partida 1735 del
-
-formulario MB1 y con abono a la cuenta que corresponda por el desembolso
-
-efectuado. Las letras de crédito emitidas por otras instituciones financieras
-
-serán registradas por su valor par en la cuenta "Letras de crédito emitidas por
-
-otras instituciones" de la partida 1725 del formulario MB1.
-
-Las diferencias que se produzcan entre el valor par del documento adquirido y su
-
-valor de adquisición, serán registradas en la cuenta "Beneficios obtenidos y no
-
-devengados por compra de valores", de la partida 4120 del formulario MB1, o bien
-
-en la cuenta "Diferencias de precio diferidas por compra de valores", de la
-
-partida 2120 de dicho formulario, según proceda.
-
-Los importes registrados en las referidas cuentas, serán traspasados el último
-
-día de cada mes, en forma proporcional al plazo remanente para el vencimiento
-
-del documento, a la cuenta "Beneficios obtenidos por compra de valores", de la
-
-partida 7620 del formulario MR1 y "Diferencias de precio por compra de valores",
-
-de la partida 5620 del formulario ya mencionado, respectivamente.
+Las letras de crédito que adquieran los bancos o sociedades financieras, sean de su propia emisión o emitidas por otras instituciones financieras, serán registradas de acuerdo con las instrucciones del Capítulo 8-21 de esta Recopilación Actualizada de Normas.
 
 D. VENTA DE LAS LETRAS DE CREDITO POR CUENTA DE TERCEROS.
 
@@ -15426,49 +14674,13 @@ el quinto día anterior al fijado para el rescate.
 
 ### 8. Instrucciones contables
 
-Los títulos convertibles de que se trata, se acreditarán en la cuenta "Bonos en
+Los títulos convertibles de que se trata, se acreditarán en la cuenta "Bonos en circulación convertibles en letras de crédito", la que se demostrará en la partida 3075 del formulario MB1.
 
-circulación convertibles en letras de crédito", la que se demostrará en la
+Los descuentos o las primas, correspondientes al monto necesario para cuadrar con el efectivo recibido, en caso que la institución financiera se haga cargo delas diferencias, se imputarán en las cuentas "Diferencias de precio diferidas por emisión de bonos" o "Beneficios por devengar por emisión de bonos", según corresponda, de las partidas 2120 ó 4120 del formulario MB1,
 
-partida 3075 del formulario MB1.
+respectivamente.Estas diferencias se llevarán a resultados, mes a mes, linealmente en el período de duración del título, según la fecha de vencimiento pactada. Por consiguiente,en caso de rescate anticipado, el saldo que se mantuviese registrado en alguna de las citadas cuentas, correspondiente al título amortizado, deberá traspasarse de inmediato a resultados. Para efectuar estos traspasos se abrirá la cuenta"Diferencias de precio por emisión de bonos" en la partida 5620 o la cuenta"Beneficios obtenidos por emisión de bonos", en la partida 7620 del formulario MR1, según sea el caso.
 
-Los descuentos o las primas, correspondientes al monto necesario para cuadrar
-
-con el efectivo recibido, en caso que la institución financiera se haga cargo
-
-delas diferencias, se imputarán en las cuentas "Diferencias de precio diferidas
-
-por emisión de bonos" o "Beneficios por devengar por emisión de bonos", según
-
-corresponda, de las partidas 2120 ó 4120 del formulario MB1,
-
-respectivamente.Estas diferencias se llevarán a resultados, mes a mes,
-
-linealmente en el período de duración del título, según la fecha de vencimiento
-
-pactada. Por consiguiente,en caso de rescate anticipado, el saldo que se
-
-mantuviese registrado en alguna de las citadas cuentas, correspondiente al
-
-título amortizado, deberá traspasarse de inmediato a resultados. Para efectuar
-
-estos traspasos se abrirá la cuenta"Diferencias de precio por emisión de bonos"
-
-en la partida 5620 o la cuenta"Beneficios obtenidos por emisión de bonos", en la
-
-partida 7620 del formulario MR1, según sea el caso.
-
-Los reajustes adeudados por los bonos en circulación se debitarán en la
-
-cuenta"Reajustes pagados" de la partida 5310 del formulario, con abono a la
-
-cuenta"Reajustes por pagar", de la partida 3075 del formulario MB1.
-
-Los intereses adeudados por los bonos emitidos se debitarán en la cuenta
-
-"Intereses pagados" de la partida 5125 del formulario MR1, con abono a la cuenta
-
-"Intereses por pagar" de la partida 3805 del formulario MB1.
+Los reajustes e intereses devengados por los bonos en circulación se registrarán en cuentas complementarias de acuerdo con las normas generales, con cargo a las respectivas cuentas de resultado de las partidas 5310 y 5125, respectivamente.
 
 ### 9. Límites legales
 
@@ -15658,55 +14870,11 @@ con el prospecto respectivo, según se dispone en el Capítulo 2-10 de esta Reco
 
 ### 3. Monto máximo de bonos en circulación
 
-Como se expresó anteriormente las normas aprobadas por el Comité Ejecutivo del
+Las normas del Banco Central de Chile A** establecen como única finalidad de los bonos emitidos con reajustabilidad por variación de IVP, el financiamiento de créditos hipotecarios para vivienda. Por consiguiente, debe existir una relación directa entre el monto total de los bonos de estas características que se encuentren en circulación,incluidos aquellos que la entidad emisora mantenga en calidad de inversión financiera y el saldo de los créditos hipotecarios vigentes, otorgados con la misma modalidad de reajuste.
 
-Banco Central de Chile establecen como única finalidad de los bonos emitidos con
+Sin embargo, considerando que los bonos operan como un instrumento de captación de recursos y que, por lo tanto, probablemente su colocación en el mercado no sea coincidente con la fecha de otorgamiento de los créditos que deban financiarse con esos pasivos, se ha resuelto establecer un margen de tolerancia para cumplir con la aludida relación. En consecuencia, se determina que el monto de bonos reajustables por variación IVP en circulación, incluidos los que se mantengan, como inversión financiera del propio emisor, no podrá exceder ni ser inferior en mas del 5% del capital pagado y reservas de la entidad emisora, al saldo de los mutuos hipotecarios reajustables por IVP, financiados con esos bonos.
 
-reajustabilidad por variación de IVP, el financiamiento de créditos hipotecarios
-
-para vivienda. Por consiguiente, debe existir una relación directa entre el
-
-monto total de los bonos de estas características que se encuentren en
-
-circulación,incluidos aquellos que la entidad emisora mantenga en calidad de
-
-inversión financiera y el saldo de los créditos hipotecarios vigentes, otorgados
-
-con la misma modalidad de reajuste.
-
-Sin embargo, considerando que los bonos operan como un instrumento de captación
-
-de recursos y que, por lo tanto, probablemente su colocación en el mercado no
-
-sea coincidente con la fecha de otorgamiento de los créditos que deban
-
-financiarse con esos pasivos, se ha resuelto establecer un margen de tolerancia
-
-para cumplir con la aludida relación. En consecuencia, se determina que el monto
-
-de bonos reajustables por variación IVP en circulación, incluidos los que se
-
-mantengan, como inversión financiera del propio emisor, no podrá exceder ni ser
-
-inferior en mas del 5% del capital pagado y reservas de la entidad emisora, al
-
-saldo de los mutuos hipotecarios reajustables por IVP, financiados con esos
-
-bonos.
-
-Toda diferencia que exceda el margen indicado deberá ser solucionada, ya sea
-
-mediante la recolocación de los recursos en nuevos créditos de la misma
-
-naturaleza o bien procediendo al rescate de bonos por amortización
-
-extraordinaria de aquellas emisiones que contemplen esa modalidad, como también
-
-colocando una nueva emisión de bonos en el mercado, en el caso que el monto de
-
-los créditos vigentes de esa especie fuera superior al saldo de los bonos en
-
-circulación.
+Toda diferencia que exceda el margen indicado deberá ser solucionada, ya sea mediante la recolocación de los recursos en nuevos créditos de la misma naturaleza o bien procediendo al rescate de bonos por amortización extraordinaria de aquellas emisiones que contemplen esa modalidad, como también colocando una nueva emisión de bonos en el mercado, en el caso que el monto de los créditos vigentes de esa especie fuera superior al saldo de los bonos en circulación.
 
 ### 4. Procedimiento para efectuar amortizaciones extraordinarias
 
@@ -15782,85 +14950,31 @@ Normas.
 
 6.1. Registro de los bonos.
 
-Los bonos de que se trata deberán registrarse en una cuenta que se denominará
-
-"Bonos en circulación para financiar mutuos hipotecarios", la que se demostrará
-
-en la partida 3075 del formulario MB1.
+Los bonos de que se trata deberán registrarse en una cuenta que se denominará "Bonos en circulación para financiar mutuos hipotecarios", la que se demostrará en la partida 3075 del formulario MB1.
 
 6.2. Reajustes e intereses de los bonos.
 
-Los intereses devengados por los bonos de que trata el presente capítulo se
-
-debitarán mensualmente a la cuenta "Intereses Pagados", de la partida 5140, del
-
-formulario MR1, con abono a la cuenta "Intereses por pagar", de la partida 3805
-
-del formulario MB1.
-
-En cuanto a los reajustes de estos instrumentos, ellos se contabilizarán en la
-
-cuenta "Reajustes pagados" de la partida 5315 del formulario MR1 con abono
-
-a"Reajustes por pagar" de la partida 3075 del formulario MB1.
+Los reajustes e intereses devengados por los bonos en circulación se registrarán en cuentas complementarlas de acuerdo con las normas generales, con cargo a las respectivas cuentas de resultado de las partidas 5315 y 5140, respectivamente.
 
 6.3. Amortización de los bonos.
 
-Los bonos amortizados se contabilizarán en la cuenta "Bonos y Debentures por
-
-pagar", de la partida 3010 del formulario MB1, con cargo a la cuenta "Bonos en
-
-circulación para financiar mutuos hipotecarios", de la partida 3075, del
-
-formulario MB1.
+Los bonos amortizados se contabilizarán en la cuenta "Bonos y Debentures por pagar", de la partida 3010 del formulario MB1, con cargo a la cuenta "Bonos en circulación para financiar mutuos hipotecarios", de la partida 3075, del formulario MB1.
 
 6.4. Cupones por pagar.
 
-Los cupones por pagar, cuando sea pertinente, se registrarán, a su fecha de
-
-vencimiento en la cuenta "Cupones de bonos por pagar", cuenta cuyo saldo se
-
-reflejará en la partida 3010, del formulario MB1, debitando los importes
-
-correspondientes a las cuentas "Intereses por pagar" y "Bonos y Debentures por
-
-pagar", según corresponda.
+Los cupones por pagar, cuando sea pertinente, se registrarán, a su fecha de vencimiento en la cuenta "Cupones de bonos por pagar", cuenta cuyo saldo se reflejará en la partida 3010, del formulario MB1, debitando los importes correspondientes a las cuentas "Intereses por pagar" y "Bonos y Debentures por pagar", según corresponda.
 
 6.5. Inversiones en bonos de propia emisión.
 
-Las entidades financieras que adquieran estos bonos de su propia emisión, los
-
-registrarán en la cuenta "Bonos de propia emisión Acuerdo 1719 adquiridos", cuyo
-
-saldo se representará en la partida 1735 del formulario MB1.
+Las entidades financieras que adquieran estos bonos de su propia emisión, los registrarán de acuerdo con las instrucciones del Capítulo 8-21 de esta Recopilación Actualizada de Normas.
 
 ### 7. Margen de inversiones
 
-El Acuerdo del Comité Ejecutivo del Banco Central de Chile faculta a las
-
-instituciones financieras para que excedan el límite de 50% del capital pagado y
-
-reservas establecido para inversiones en letras de crédito y debentures de
-
-propia emisión, pudiendo alcanzar hasta el 100% de su capital y reservas, si lo
-
-que excede del primero de los porcentajes indicados, corresponde a la compra de
-
-letras de crédito o de bonos destinados a pagar anticipadamente otras
+Las normas del Banco Central de Chile facultan a las instituciones financieras para que excedan el límite de 50% del capital pagado y reservas establecido para inversiones en letras de crédito y debentures de propia emisión, pudiendo alcanzar hasta el 100% de su capital y reservas, si lo que excede del primero de los porcentajes indicados, corresponde a la compra de letras de crédito o de bonos destinados a pagar anticipadamente otras
 
 obligaciones hipotecarias cuya finalidad fue el financiamiento de viviendas.
 
-De conformidad con lo indicado, no podrán acogerse a este mayor margen los bonos
-
-que correspondan a prestamos otorgados directamente para la adquisición de
-
-viviendas. En consecuencia, dentro de ese margen adicional, ninguna institución
-
-financiera podrá mantener inversiones en esta clase de bonos, por una cantidad
-
-mayor al monto de los préstamos que registre para pagar anticipadamente otros
-
-créditos para compra de viviendas.
+De conformidad con lo indicado, no podrán acogerse a este mayor margen los bonos que correspondan a prestamos otorgados directamente para la adquisición de viviendas. En consecuencia, dentro de ese margen adicional, ninguna institución financiera podrá mantener inversiones en esta clase de bonos, por una cantidad mayor al monto de los préstamos que registre para pagar anticipadamente otros créditos para compra de viviendas.
 
 CAPITULO 9-5 (Bancos y Financieras)
 
@@ -16034,9 +15148,7 @@ Estas diferencias con respecto al valor par se llevarán a resultados, mes a mes
 
 7.2. Intereses y reajustes.
 
-Los reajustes adeudados por los bonos en circulación se debitarán en la cuenta "Reajustes pagados por bonos subordinados" de la partida 5310 del MR1, con abono a la respectiva cuenta de "Reajustes por pagar" de la partida 4190 del MB1.
-
-Los intereses devengados por los bonos emitidos se debitarán en la cuenta "Intereses pagados por bonos subordinados" de la partida 5125 del MR1, con abono a la cuenta "Intereses por pagar bonos subordinados" que se reflejará en la partida 3819 que, con el mismo nombre, se incorpora al MB1.
+Los intereses y reajustes adeudados por los bonos en circulación se registrarán en cuentas complementarias de acuerdo con las normas generales, con cargo a las cuentas "Intereses pagados por bonos subordinados" de la partida 5140 y "Reajustes pagados por bonos subordinados" de la partida 5315.
 
 7.3. Vencimiento de los bonos.
 
@@ -16442,45 +15554,11 @@ Haber: "Caja" o la cuenta que corresponda por el desembolso efectuado o para
 
 reconocer la obligación de pago.
 
-### 5. Corrección monetaria
+5.- Corrección monetaria.
 
-Debe: - La correspondiente subcuenta de "Bienes recibidos en pago" o "Bienes
+La corrección monetaria se contabilizará de acuerdo con las instrucciones del Capítulo 7-3 de esta Recopilación Actualizada de Normas.
 
-adjudicados en remate", por la corrección monetaria aplicada al término de cada
-
-mes.
-
-- "Adiciones a bienes recibidos en pago o adjudicados".
-
-Haber: "Corrección monetaria de bienes recibidos en pago", cuenta de resultado
-
-que forma parte del monto neto que debe presentarse en la partida 6405 o,
-
-eventualmente, en la partida 8405 del formulario MR1.
-
-Para la corrección monetaria se aplicará la variación del IPC a todos los saldos
-
-provenientes del mes anterior, cualquiera sea el tipo de bien que se encuentre
-
-registrado.
-
-Por tratarse de una actualización de saldos, en que la corrección monetaria se
-
-contabiliza directamente en las cuentas que se corrigen, la contabilización
-
-efectuada no será objeto de reversión al mes siguiente y el cálculo se efectuará
-
-de acuerdo con la variación del IPC del mes anterior sobre la base ya
-
-corregida,utilizando un factor con, por lo menos, cuatro decimales. Debe tenerse
-
-presente que la corrección monetaria dará origen a un incremento de las
-
-provisiones por sobrevaloración, por el aumento de la diferencia entre el valor
-
-contable y el valor de realización, si este último no sufre variaciones que la
-
-compensen.
+Debe tenerse presente que la corrección monetaria dará origen a un incremento de las provisiones sobre los bienes recibidos o adjudicados en pago de que trata el N° 2 de este título, por el aumento de la diferencia entre el valor contable y el valor de realización, si este último no sufre variaciones que la compensen.
 
 6. Gastos e ingresos originados por la mantención o explotación temporal de
 
@@ -16501,82 +15579,6 @@ Los bienes recibidos o adjudicados en pago no deberán ser objeto de castigos co
 Los deterioros físicos o desvalorizaciones de cualquier naturaleza que pueda sufrir un bien, serán reconocidos por la vía de incrementar el monto de la provisión por sobrevaloración a que se refiere el N° 2 de este título, lo que en ningún caso exime a la institución financiera de la obligación de enajenar dentro de los plazos establecidos o de mantenerse dentro del margen legal a que se ha hecho referencia anteriormente. Si la institución financiera se deshace de bienes sin valor comercial conforme a lo indicado en el numeral 4.3 del título I de estas normas, procederá a efectuar, en esa oportunidad, la correspondiente rebaja del activo, empleando para el efecto las provisiones constituidas.
 
 Los castigos se registrarán acreditando las respectivas cuentas de la partida 1765 del MB1 con cargo a la cuenta "Castigo de bienes recibidos o adjudicados en pago" de la partida 6315 del MR1, por el valor en que se encuentre registrado el bien que se castiga más las eventuales adiciones de que trata el N° 4 anterior.
-
-8. Bienes recibidos en pago o adjudicados por créditos vendidos al Banco Central
-
-de Chile.
-
-Los bienes recibidos o adjudicados por créditos vendidos al Banco Central de
-
-Chile se registrarán de la forma indicada en la Circular 2.212-636 de 8 de
-
-octubre de 1986, de este Organismo. Para ese efecto se utilizarán las cuentas
-
-"Bienes recibidos en pago por cartera vendida" y "Bienes adjudicados por cartera
-
-vendida", con las mismas subcuentas que se indican en la contabilización
-
-señalada en el número 1 de este título, según el tipo de bien adquirido.
-
-No obstante lo señalado en los numerales 2.1 y 2.3 de este título, los bienes
-
-recibidos en pago de créditos cedidos al Banco Central de Chile no serán objeto
-
-de provisión alguna, en tanto se haya imputado en la cuenta "Valor de bienes
-
-recibidos o adjudicados por créditos cedidos al Banco Central de Chile por
-
-liquidar", de la partida 3045 del formulario MB1, un importe equivalente a lo
-
-registrado en la respectiva cuenta del activo, según las instrucciones de la
-
-Circular N° 2.212-636, ya citada.
-
-Sin embargo, si con la recepción de estos bienes se pagaron, además,colocaciones
-
-no vendidas al Banco Central de Chile, deberán efectuarse las correspondientes
-
-provisiones por sobrevaloraciones cuando sea necesario, por la parte de los
-
-bienes recibidos que no correspondan al pago de cartera vendida al Instituto
-
-Emisor.
-
-Los saldos correspondientes a los bienes recibidos o adjudicados en pago de
-
-créditos vendidos al Banco Central de Chile, también serán corregidos
-
-monetariamente, pero el importe correspondiente se abonará a la cuenta "Valor de
-
-bienes recibidos o adjudicados por créditos cedidos al Banco Central de Chile
-
-por liquidar", antes mencionada.
-
-### IV. OTRAS DISPOSICIONES
-
-1. Bienes recibidos en pago o adjudicados con plazo de enajenación cumplido al
-
-27 de noviembre de 1986.
-
-Los bienes recibidos en pago o adjudicados con anterioridad a la fecha de
-
-publicación de la Ley N° 18.576, cuyo plazo de enajenación hubiere vencido antes
-
-de esa fecha y que, de acuerdo a las normas que regían sobre la materia, fueron
-
-castigados, deben ser enajenados por las instituciones financieras dentro del
-
-plazo de un año a contar del 9 de marzo de 1988. No obstante, en los casos en
-
-que existieren situaciones legales que impidieren perfeccionar la enajenación
-
-delos referidos bienes, el mencionado plazo de un año se contará desde la fecha
-
-en que se resuelva el problema que impide realizar dicha enajenación.
-
-Los ingresos obtenidos por la venta de estos bienes se registrarán en la cuenta
-
-"Ingresos por venta de bienes castigados" de la partida 8315 del formulario MR1.
 
 CAPITULO 11-1 (Bancos y Financieras)
 
@@ -16730,19 +15732,13 @@ Debe: "Activos físicos por leasing". Esta cuenta se demostrará en la partida 2
 
 Haber: "Contratos de leasing por pagar", cuenta cuyo saldo se incluirá en la partida 3070, del formulario MB1. En esta cuenta se demostrará el valor del bien contabilizado en el activo, deducido el pago que se hubiere efectuado al contado.
 
-1.3. Por los reajustes.
+1.3.- Intereses y Reajustes.
 
-Debe: "Reajustes pagados sobre contratos de leasing". El saldo de esta cuenta será incluido en la partida que con el N° 5315, aparece en el formulario MR1.
+Los importes correspondientes a los intereses y reajustes devengados se abonarán a la cuenta "Contratos de leasing por pagar" antes mencionada.
 
-Haber: "Reajustes por pagar sobre contratos de leasing", cuenta complementaria, cuyo saldo se demostrará junto al de la cuenta "Contratos de leasing por pagar", de la partida 3070, del formulario MB1.
+Los intereses se cargaran a la cuenta "Intereses pagados sobre contratos de leasing" de la partida 5140, en tanto que los reajustes se debitarán en la cuenta "Reajustes pagados sobre contratos de leasing" de la partida 5315.
 
-1.4. Por los intereses.
-
-Debe: "Intereses pagados sobre contratos de leasing". Por los intereses devengados sobre el saldo insoluto del capital adeudado, incluidos sus reajustes cuando corresponda, que se encuentre registrado en la cuenta "Contratos de leasing por pagar". Estos intereses se determinarán de acuerdo con lo señalado en la letra b) del numeral 1.1 anterior. El saldo de esta cuenta se demostrará en la partida 5140, del formulario MR1.
-
-Haber: "Intereses por pagar sobre contratos de leasing". Por los intereses devengados por pagar sobre contratos de leasing vigentes determinados en la forma indicada anteriormente. El saldo de estos intereses por pagar será demostrado en la partida 3820 del formulario MB1.
-
-1.5. Por el pago de los contratos.
+1.4. Por el pago de los contratos.
 
 Cada vez que se realice un pago en abono de la obligación contraída en el contrato de leasing, se procederá a rebajar en lo que corresponda, el monto de la obligación registrada por ese contrato:
 
@@ -16750,13 +15746,7 @@ Debe: "Contratos de leasing por pagar".
 
 Haber: "Caja" o la cuenta pertinente por el giro para efectuar el pago correspondiente.
 
-Además, se debitará, en la suma que corresponda, la cuenta de "Intereses por pagar sobre contratos de leasing".
-
-1.6. Cálculo de los intereses y reajustes.
-
-Tanto los intereses como los reajustes sobre los saldos adeudados se calcularán mensualmente de conformidad con las disposiciones del Capítulo 7-1 de esta Recopilación Actualizada de Normas y serán contabilizados de acuerdo con las instrucciones recién señaladas.
-
-1.7. Término del contrato.
+1.5. Término del contrato.
 
 Al término del contrato y producida la transferencia del bien, se procederá a traspasar éste al Activo Fijo de la empresa, desde la cuenta "Activos físicos por leasing. Consecuente con ello se realizará el siguiente registro contable:
 
@@ -17822,11 +16812,11 @@ según se trate de un banco o de una sociedad financiera, respectivamente.
 
 ### 2. Determinación de las obligaciones
 
-Para establecer el monto de las obligaciones sujetas al margen de que tratan los artículos 81 y 115 de la Ley General de Bancos, se sumarán los saldos de las cuentas que deben demostrarse en las partidas 3005 a 3820 del MB1, exceptuada la partida 3819 "Intereses por pagar bonos subordinados" y las partidas 3430 y 3485 "Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central", hasta un año y a más de un año. Asimismo, se exceptuarán del cómputo los saldos de las cuentas "Redescuento documentos avalados-corresponsales ALADI" hasta un año y a más de un año, de las partidas 3405 y 3455, respectivamente.
+Para establecer el monto de las obligaciones sujetas al margen de que tratan los artículos 81 y 115 de la Ley General de Bancos, se sumarán los saldos de las cuentas que deben incluirse en las partidas 3005 a 3820, exceptuados los de aquellas comprendidas en las partidas 3430 y 3485 ("Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile"). Asimismo, se excluirán los saldos de las cuentas "Redescuento documentos avalados-corresponsales ALADI" de las partidas 3405 y 3455.
 
 A lo anterior se sumará el saldo de la cuenta "Bonos subordinados computados como obligaciones", de la partida 9700.
 
-Además, se incluirán todas las cauciones y garantías registradas en cuentas dela partida 9290, por obligaciones que no se hayan computado al considerar laspartidas señaladas en el párrafo precedente.
+Además, se incluirán todas las cauciones y garantías registradas en cuentas dela partida 9290, por obligaciones que no se hayan computado al considerar laspartidas señaladas en el párrafo anteprecedente.
 
 De la suma de los saldos antes mencionados, se deducirán los siguientes montos, cuando corresponda:
 
@@ -19818,23 +18808,11 @@ Instituto Emisor y asentada en los libros de la institución deudora.
 
 5. Procedimiento para determinar el promedio mensual de obligaciones afectas.
 
-Los bancos y las sociedades financieras calcularán los promedios mensuales de
+Los bancos y las sociedades financieras calcularán los promedios mensuales de los saldos de las diversas obligaciones que mantengan con el Banco Central de Chile, tanto en moneda chilena como en moneda extranjera. Este cálculo se hará sobre la base de los saldos diarios de tales compromisos. Cuando se trate de obligaciones en moneda chilena reajustable, se deberá incluir el respectivo reajuste.
 
-los saldos de las diversas obligaciones que mantengan con el Banco Central de
+Respecto de las obligaciones en monedas extranjeras, los promedios mensuales resultantes se convertirán a moneda chilena a los tipos de cambio para representación contable vigentes en la fecha correspondiente.
 
-Chile, tanto en moneda chilena como en moneda extranjera. Este cálculo se hará
-
-sobre la base de los saldos diarios de tales compromisos. Cuando se trate de
-
-obligaciones en moneda chilena reajustable, se deberá incluir el respectivo
-
-reajuste.
-
-Respecto de las obligaciones en monedas extranjeras, los promedios mensuales
-
-resultantes se convertirán a moneda chilena a los tipos de cambio para
-
-representación contable vigentes en la fecha correspondiente.
+No se considerarán en el cómputo de las obligaciones, los intereses devengados por pagar que se registren en cuentas complementarias.
 
 ### 6. Exceso sobre el margen establecido
 
@@ -19928,69 +18906,23 @@ Bancos, según corresponda.
 
 ### 3. Operaciones afectas
 
-Quedan afectos a los márgenes de tres y diez por ciento todos los depósitos y
+Quedan afectos a los márgenes de tres y diez por ciento todos los depósitos y captaciones, hasta un año plazo, recibidos de otras instituciones financieras del país, así como los préstamos al mismo plazo obtenidos de ellas, excepto los garantizados por documentos de la cartera de colocaciones de la empresa deudora.
 
-captaciones, hasta un año plazo, recibidos de otras instituciones financieras
+Se considerarán dentro de estos límites los depósitos y captaciones a la vista y hasta un año plazo recibidos de otras entidades financieras situadas en el país y registrados en las partidas 3005, 3010, 3020, 3025 y 3030 del MB1, así como los préstamos obtenidos de esas empresas, tanto en moneda chilena como extranjera, contabilizados en las partidas 3410 y 3415 del MB1, que no se encuentren garantizados por documentos de la cartera de colocaciones entregados por la entidad deudora a la institución acreedora.
 
-del país, así como los préstamos al mismo plazo obtenidos de ellas, excepto los
+Sin embargo, no se computarán para los efectos de estos márgenes, los depósitos constituidos con cheques y documentos sobre otras plazas, que las entidades bancarias reciban de las demás instituciones financieras.
 
-garantizados por documentos de la cartera de colocaciones de la empresa deudora.
+Las obligaciones en moneda extranjera, provenientes de estos depósitos, captaciones y préstamos, se computarán por su equivalente en moneda chilena calculado sobre la base del tipo de cambio para representación contable, vigente en el período correspondiente.
 
-Se considerarán dentro de estos límites los depósitos y captaciones a la vista y
+Las obligaciones reajustables según la Unidad de Fomento se considerarán por el valor que la referida Unidad registraba en la fecha de cierre del mes inmediatamente anterior.
 
-hasta un año plazo recibidos de otras entidades financieras situadas en el país
+Por otra parte, a las obligaciones reajustables por la variación del tipo de cambio del dólar norteamericano, se les incorporará el reajuste devengado hasta el último día del mes anterior al de la información.
 
-y registrados en las partidas 3005, 3010, 3020, 3025 y 3030 del MB1, así como
+A los depósitos, captaciones y préstamos pactados en esta modalidad y recibidos en el curso del mes informado, se les agregará el reajuste correspondiente a la variación del tipo de cambio entre la fecha de su ingreso y el último día del mismo mes.
 
-los préstamos obtenidos de esas empresas, tanto en moneda chilena como
+Los depósitos, captaciones y préstamos reajustables en Unidades de Fomento recibidos en el curso del mes informado, se considerarán por el valor que dicha Unidad tenía en la fecha de ingreso de la operación, ajustándose al término del mismo mes al valor de la Unidad de Fomento vigente en ese día.
 
-extranjera, contabilizados en las partidas 3410 y 3415 del MB1, que no se
-
-encuentren garantizados por documentos de la cartera de colocaciones entregados
-
-por la entidad deudora a la institución acreedora.
-
-Sin embargo, no se computarán para los efectos de estos márgenes, los depósitos
-
-constituidos con cheques y documentos sobre otras plazas, que las entidades
-
-bancarias reciban de las demás instituciones financieras.
-
-Las obligaciones en moneda extranjera, provenientes de estos depósitos,
-
-captaciones y préstamos, se computarán por su equivalente en moneda chilena
-
-calculado sobre la base del tipo de cambio para representación contable, vigente
-
-en el período correspondiente.
-
-Las obligaciones reajustables según la Unidad de Fomento se considerarán por el
-
-valor que la referida Unidad registraba en la fecha de cierre del mes
-
-inmediatamente anterior.
-
-Por otra parte, a las obligaciones reajustables por la variación del tipo de
-
-cambio del dólar norteamericano, se les incorporará el reajuste devengado hasta
-
-el último día del mes anterior al de la información.
-
-A los depósitos, captaciones y préstamos pactados en esta modalidad y recibidos
-
-en el curso del mes informado, se les agregará el reajuste correspondiente a la
-
-variación del tipo de cambio entre la fecha de su ingreso y el último día del
-
-mismo mes.
-
-Los depósitos, captaciones y préstamos reajustables en Unidades de Fomento
-
-recibidos en el curso del mes informado, se considerarán por el valor que dicha
-
-Unidad tenía en la fecha de ingreso de la operación, ajustándose al término del
-
-mismo mes al valor de la Unidad de Fomento vigente en ese día.
+No se considerarán en el cómputo de las obligaciones, los intereses devengados por pagar que se registren en cuentas complementarias.
 
 ### 4. Operaciones exentas
 
@@ -20086,21 +19018,11 @@ Se exceptúan de los márgenes a que se refieren los numerales precedentes, las 
 
 ### 2. Obligaciones afectas a margen
 
-Quedan afectas al límite señalado en el número anterior, en los casos que
+Quedan afectas al límite señalado en el número anterior, en los casos que corresponda, todas las obligaciones contraídas por las entidades financieras con acreedores del exterior a plazos inferiores a un año, distintas de aquellas que se destinen al financiamiento de exportaciones.
 
-corresponda, todas las obligaciones contraídas por las entidades financieras con
+En consecuencia, se considerarán dentro de este margen los préstamos y otras obligaciones registradas en las partidas 3505 a 3525 del formulario MB1, con excepción de las obligaciones que tengan por única finalidad el financiamiento de exportaciones chilenas.
 
-acreedores del exterior a plazos inferiores a un año, distintas de aquellas que
-
-se destinen al financiamiento de exportaciones.
-
-En consecuencia, se considerarán dentro de este margen los préstamos y otras
-
-obligaciones registradas en las partidas 3505 a 3525 del formulario MB1, con
-
-excepción de las obligaciones que tengan por única finalidad el financiamiento
-
-de exportaciones chilenas.
+No se considerarán en el cómputo de las obligaciones, los intereses devengados por pagar que se registren en cuentas complementarias.
 
 ### 3. Cesión de márgenes entre instituciones financieras
 
@@ -20204,13 +19126,19 @@ Los promedios se calcularán considerando sólo los saldos vigentes en los días
 
 Para determinar la equivalencia en moneda chilena de las operaciones en monedas extranjeras, se convertirán los respectivos saldos diarios a moneda chilena, al tipo de cambio de representación contable fijado por esta Superintendencia, vigente en las fechas correspondientes.
 
-### 5. Cómputo de la reajustabilidad
+### 5. Reajustes e intereses de las operaciones
+
+5.1. Cómputo de los reajustes.
 
 Tanto las operaciones activas como pasivas se computarán con sus respectivos reajustes devengados, de manera que deben considerarse los reajustes registrados en las respectivas cuentas complementarias, en la fecha que corresponda.
 
 El mismo procedimiento se seguirá en el caso de saldos sujetos a corrección monetaria.
 
 Todo ello es sin perjuicio de lo indicado anteriormente, en orden a considerar los saldos promedios mantenidos sólo en los días hábiles bancarios.
+
+5.2. Exclusión de los intereses devengados registrados en cuentas complementarias.
+
+Los intereses devengados de los activos o pasivos que deben incluirse en cuentas complementarias, no se computarán para los efectos de establecer las relaciones entre operaciones activas y pasivas de que se trata, salvo en el caso de los intereses por pagar de bonos subordinados a que se refiere el Capítulo 9-6 de esta Recopilación Actualizada de Normas.
 
 ### II. RELACION ENTRE OPERACIONES A MAS DE UN AÑO
 
@@ -20238,35 +19166,23 @@ Partida N° 3035
 
 Partida N° 3005
 
-Partidas N°s 3075 y 3080
+Partida N° 3075
 
 Partidas N°s 3455 a 3485
 
 Partidas N°s 3555 a 3570
 
-Partidas N°s 3819 y 4190, menos el saldo de la cuenta "Bonos subordinados computados como capital" de la partida 9700.
+Partida N° 4190, menos el saldo de la cuenta "Bonos subordinados computados como capital" de la partida 9700.
 
 3. Inversiones en acciones, debentures y en Activo Fijo que se deducen del capital pagado y reservas.
 
 Las cifras relativas a inversiones en acciones, debentures y los importes correspondientes al activo fijo, que deben rebajarse del Capital Pagado y Reservas para calcular el margen de colocaciones a más de un año, según lo dispuesto en las normas del Banco Central de Chile, han de corresponder a los saldos promedios del mes, incluidos sus reajustes o corrección monetaria, según corresponda, registrados en las siguientes cuentas:
 
-- Cuenta "Bonos emitidos por otras instituciones financieras" de la partida 1725;
+- Cuentas "Bonos", "Bonos u otras obligaciones no afectas a límite artículo 84 LGB" y "Bonos o debentures" de las partidas 1725, 1730 y 1735, respectivamente.
 
-- Cuenta "Acciones de bancos constituidos en el exterior" de la partida 1730;
+- Cuentas de la partida 2305 "Activo fijo físico".
 
-- Cuenta "Bonos o debentures emitidos en el exterior" de la partida 1730;
-
-- Cuenta "Inversiones en bonos o debentures" de la partida 1735;
-
-- Cuenta "Bonos o debentures vencidos" de la partida 1745.
-
-- Cuentas de la partida 1746 (Acciones Ley N° 18.439).
-
-- Cuentas de la partida 2305 (Activo fijo físico).
-
-- Cuentas de la partida 2310 (Otros activos fijos).
-
-- Cuentas de la partida 2320 (Inversiones en sociedades).
+- Cuentas de la partida 2320 "Inversiones en sociedades".
 
 ### III. RELACION ENTRE OPERACIONES EN MONEDA CHILENA REAJUSTARLES
 
@@ -20318,13 +19234,11 @@ Partidas N°s 3605 a 3615
 
 Partidas N°s 3655 y 3660
 
-Partidas N°s 3819 y 4190, menos el saldo de la cuenta "Bonos subordinados computados como capital" de la partida 9700
+Partida N° 4190, menos el saldo de la cuenta "Bonos subordinados computados como capital" de la partida 9700
 
 Partida N° 4515
 
-Las operaciones interbancarias, sean préstamos otorgados o recibidos, que se pacten en unidades de fomento o con otras cláusulas de reajustabilidad autorizadas por el Banco Central de Chile y por períodos en que el valor de dicha unidad o el factor de reajustabilidad que se aplicará sea conocido, no podrán computarse como operaciones reajustables para los efectos de que se trata.
-
-Debe tenerse presente, además, que las obligaciones provenientes de pactos de recompra de instrumentos financieros deben registrarse según la forma de su pacto, como reajustables o no reajustables, independientemente de la reajustabilidad de los instrumentos transados.
+Las operaciones interbancarias, sean créditos otorgados o recibidos, incluidas las operaciones con pacto de retrocompra, que se pacten en unidades de fomento o con otras cláusulas de reajustabilidad autorizadas por el Banco Central de Chile y por períodos en que el valor de dicha unidad o el resultante del factor de reajustabilidad que se aplicará al vencimiento sea conocido al momento de efectuarse la operación, no podrán computarse como operaciones reajustables para los efectos de que se trata.
 
 ### IV. OPERACIONES EN MONEDA EXTRANJERA
 
@@ -20348,17 +19262,15 @@ Partidas del Activo.
 
 1110 a 1240
 
-1605 a 1660
+1605 a 1695
 
-1705 a 1715
-
-1725 a 1745
+1705 a 1740
 
 1770 a 1780
 
 2105 a 2125
 
-2305 a 2310
+2305 a 2320
 
 2515
 
@@ -20370,7 +19282,7 @@ Partidas del Pasivo.
 
 3040 a 3070
 
-3105 a 3115
+3110 a 3115
 
 3405 a 3660
 
@@ -20396,11 +19308,11 @@ Si bien el Sistema Contable definido en el Manual del Sistema de Información co
 
 a) Préstamos interbancarios reajustables otorgados o recibidos con reajuste conocido.
 
-En el evento de que la institución financiera otorgue o reciba créditos interbancarios que se encuentren en la situación señalada en el penúltimo párrafo del N° 2 del título III de este Capítulo, deberá registrar, al cierre del mes el saldo promedio mantenido por estas operaciones, en las cuentas "Préstamos interbancarios reajustables otorgados con reajuste conocido" o "Préstamos interbancarios reajustables recibidas con reajuste conocido", según corresponda. Estas cuentas formarán parte de la partida 9705 "Control de operaciones activas y pasivas", del MB1, y se cargarán contra la cuenta "Responsabilidad por control de operaciones activas y pasivas" de la partida 9900.
+En el evento de que la institución financiera otorgue o reciba créditos interbancarios que se encuentren en la situación señalada en el último párrafo del N° 2 del título III de este Capítulo, deberá registrar, al cierre del mes el saldo promedio mantenido por estas operaciones, en las cuentas "Créditos interbancarios reajustables otorgados con reajuste conocido" o "Créditos interbancarios reajustables recibidas con reajuste conocido", según corresponda. Estas cuentas formarán parte de la partida 9705 "Control de operaciones activas y pasivas", del MB1, y se cargarán contra la cuenta "Responsabilidad por control de operaciones activas y pasivas" de la partida 9900.
 
 b) Operaciones reajustables por la variación del tipo de cambio.
 
-Las instituciones financieras que mantuvieren activos o pasivos reajustables por la variación del tipo de cambio, deberán registrar al cierre de cada mes el promedio de los saldos mantenidos en estas operaciones durante el mes, en las siguientes cuentas, según corresponda: "Colocaciones en moneda nacional reajustables por la variación del tipo de cambio", "Inversiones en moneda nacional reajustables por la variación del tipo de cambio", "Otros activos en moneda nacional reajustables por la variación del tipo de cambio", "Depósitos y captaciones en moneda nacional reajustables por la variación del tipo de cambio", "Obligaciones en moneda nacional reajustables por la variación del tipo de cambio" y "Otros pasivos en moneda nacional reajustables por la variación del tipo de cambio". Estas cuentas integrarán también la partida 9705 antes señalada, y se cargarán con abono a la cuenta "Responsabilidad por control de operaciones activas y pasivas", de la partida 9900.
+Las instituciones financieras que mantuvieren activos o pasivos reajustables por la variación del tipo de cambio, deberán registrar al cierre de cada mes el promedio de los saldos mantenidos en estas operaciones durante el mes, en las siguientes cuentas, según corresponda: "Colocaciones en moneda nacional reajustables por la variación del tipo de cambio", "Inversiones financieras reajustables por la variación del tipo de cambio", "Otros activos en moneda nacional reajustables por la variación del tipo de cambio", "Depósitos y captaciones en moneda nacional reajustables por la variación del tipo de cambio", "Obligaciones en moneda nacional reajustables por la variación del tipo de cambio" y "Otros pasivos en moneda nacional reajustables por la variación del tipo de cambio". Estas cuentas integrarán también la partida 9705 antes señalada, y se cargarán con abono a la cuenta "Responsabilidad por control de operaciones activas y pasivas", de la partida 9900. En la cuenta "Inversiones financieras reajustables por la variación del tipo de cambio" antes mencionada, se incluirá el promedio de los saldos contables de las inversiones financieras que deben registrarse en pesos y que se reajustan por la variación del tipo de cambio, incluidas aquellas inversiones en instrumentos expresados en moneda extranjera y pagaderos en pesos.
 
 1.3. Capital ingresado al país al amparo de los artículos 14, 15 ó 16 de la ex Ley de Cambios Internacionales o del DL 600 y sus modificaciones.
 
@@ -20434,7 +19346,7 @@ Las inversiones sujetas al límite de que se trata son las siguientes:
 
 a) Inversiones en acciones o derechos en sociedades señalados en el numeral 1.1 del Capitulo 11-4 de esta Recopilación Actualizada de Normas, con excepción de los obtenidos por dación en pago o en remate judicial, indicados en la letra d) de ese numeral;
 
-b) Los bienes ralees y bienes corporales muebles, correspondientes al activo fijo físico de la institución; y,
+"b) Los bienes que componen el activo fijo físico, conforme a lo señalado en el numeral 2.1 del Capítulo 11-5 de esta Recopilación; y,
 
 c) Inversiones en oro sellado chileno o en otra forma de que trata el Capítulo 8-23 de esta Recopilación
 
@@ -20442,7 +19354,7 @@ c) Inversiones en oro sellado chileno o en otra forma de que trata el Capítulo 
 
 Las instituciones financieras no podrán efectuar nuevas inversiones en los bienes señalados en el número precedente, cuando el valor de los bienes que se deseen adquirir, sumado al valor contable de aquellos que se mantengan en su activo, exceda una vez su capital pagado y reservas.
 
-Para este efecto se considerará el monto del capital pagado y reservas a la fecha de la inversión, calculado de la forma señalada en el numeral 1.1 del Capítulo 12-1 de esta Recopilación Actualizada de Normas, y el valor contable a la misma fecha, incluida su corrección monetaria, de los bienes que deben registrarse en las partidas 2305, 2310 y 2320 y en la cuenta "Inversiones en Oro" de la partida 1735.
+Para este efecto se considerará el monto del capital pagado y reservas a la fecha de la inversión, calculado de la forma señalada en el numeral 1.1 del Capítulo 12-1 de esta Recopilación Actualizada de Normas, y el valor contable a la misma fecha, incluida su corrección monetaria, de los bienes que deben registrarse en las partidas 2305 y 2320 y en la cuenta "Inversiones en Oro" de la partida 1735.
 
 Los saldos en moneda extranjera se computarán por su equivalente en moneda chilena calculado al tipo de cambio de representación contable vigente, informado por esta Superintendencia.
 
@@ -22092,23 +21004,7 @@ Banco Central de Chile.
 
 ### 3. Intereses
 
-El Instituto Emisor pagará intereses sobre los saldos promedio de los depósitos
-
-mantenidos en las cuentas especiales en monedas extranjeras. Estos
-
-intereses,calculados a la tasa establecida por el Banco Central de Chile, se
-
-pagarán por su equivalente en pesos moneda corriente nacional, al tipo de cambio
-
-que determine dicho Banco.
-
-El importe correspondiente a los intereses abonados podrá depositarse en la
-
-cuenta corriente "pesos expresados en dólares de los Estados Unidos de América",
-
-de que trata el Capítulo IV.D.1 del Compendio de Normas Financieras del
-
-Instituto Emisor.
+El Instituto Emisor pagará intereses sobre los saldos promedio de los depósitos mantenidos en las cuentas especiales en monedas extranjeras. Estos intereses,calculados a la tasa establecida por el Banco Central de Chile, se pagarán por su equivalente en pesos moneda corriente nacional, al tipo de cambio que determine dicho Banco.
 
 ### 4. Giro de los depósitos
 
@@ -22124,199 +21020,51 @@ b) Para efectuar cambios de la moneda extranjera depositada en el Banco Central 
 
 ### 5. Normas contables
 
-Las instituciones financieras que, en cumplimiento de las normas establecidas
-
-por el Instituto Emisor, constituyan los correspondientes depósitos en dólares
-
-de Estados Unidos de América o en otras monedas extranjeras autorizadas, en las
-
-cuentas especiales establecidas con ese fin, observarán las siguientes
-
-instrucciones:
+Las instituciones financieras que, en cumplimiento de las normas establecidas por el Instituto Emisor, constituyan los correspondientes depósitos en dólares de Estados Unidos de América o en otras monedas extranjeras autorizadas, en las cuentas especiales establecidas con ese fin, observarán las siguientes instrucciones:
 
 5.1. Por los depósitos.
 
-Los depósitos que se enteren en las cuentas especiales a que se refiere este
+Los depósitos que se enteren en las cuentas especiales a que se refiere este capítulo, se registrarán en las cuentas que se indican a continuación de la partida 1780 "Cuenta Especial de Depósito N° 1 en el Banco Central de Chile",del formulario MB1.
 
-capítulo, se registrarán en las cuentas que se indican a continuación de la
+En consideración a que los recursos depositados en estas cuentas podrán ser utilizados, según sea su origen, para determinados fines de acuerdo a lo que se mencionó en el N° 4 precedente, es necesario que las instituciones financieras lleven el control que se requiere para el cumplimiento de esas disposiciones. Por consiguiente y para mantener la concordancia con el plan de cuentas elaborado para el efecto por el Banco Central de Chile, se utilizarán las siguientes cuentas y subcuentas, por cada una de las monedas extranjeras que se depositen en el Banco Central de Chile en cumplimiento a estas normas.
 
-partida 1780 "Cuenta Especial de Depósito N° 1 en el Banco Central de Chile",del
+La separación de estas cuentas y subcuentas se hace de acuerdo al origen y destino de los respectivos recursos:
 
-formulario MB1.
-
-En consideración a que los recursos depositados en estas cuentas podrán ser
-
-utilizados, según sea su origen, para determinados fines de acuerdo a lo que se
-
-mencionó en el N° 4 precedente, es necesario que las instituciones financieras
-
-lleven el control que se requiere para el cumplimiento de esas disposiciones.Por
-
-consiguiente y para mantener la concordancia con el plan de cuentas elaborado
-
-para el efecto por el Banco Central de Chile, se utilizarán las siguientes
-
-cuentas y subcuentas, por cada una de las monedas extranjeras que se depositen
-
-en el Banco Central de Chile en cumplimiento a estas normas.
-
-La separación de estas cuentas y subcuentas se hace de acuerdo al origen y
-
-destino de los respectivos recursos:
-
-a) Cuenta: "Cuenta Especial de Depósito N° 1 en moneda extranjera-Transitorio"
-
-subcuentas: "Recompras Acuerdo 1196"
+a) Cuenta: "Cuenta Especial de Depósito N° 1 en moneda extranjera-Transitorio" subcuentas: "Recompras Acuerdo 1196"
 
 "Recuperaciones Acuerdo 1418"
 
-b) Cuenta: "Cuenta Especial de Depósito N° 1 en moneda extranjera-con crédito"
+b) Cuenta: "Cuenta Especial de Depósito N° 1 en moneda extranjera-con crédito" subcuentas: "Recompras Acuerdo 1196" "Recuperaciones Acuerdo 1418" "Recuperaciones colocaciones financiadas con otras obligaciones" "Operaciones avaladas y asumidas por el Banco".
 
-subcuentas: "Recompras Acuerdo 1196" "Recuperaciones Acuerdo 1418"
+La separación indicada tiene por objeto identificar para los efectos de los giros de estas cuentas, el origen de los recursos de que, en cada caso, disponen en las respectivas monedas.
 
-"Recuperaciones colocaciones financiadas con otras obligaciones"
-
-"Operaciones avaladas y asumidas por el Banco".
-
-La separación indicada tiene por objeto identificar para los efectos de los
-
-giros de estas cuentas, el origen de los recursos de que, en cada caso, disponen
-
-en las respectivas monedas.
-
-La cuenta señalada en el literal a) tiene, como su mismo nombre lo indica, el
-
-carácter de cuenta de tránsito, desde la cual se distribuirán los recursos
-
-depositados, sea a la cuenta de la letra b) o bien para su empleo en alguno
-
-delos fines autorizados.
+La cuenta señalada en el literal a) tiene, como su mismo nombre lo indica, el carácter de cuenta de tránsito, desde la cual se distribuirán los recursos depositados, sea a la cuenta de la letra b) o bien para su empleo en alguno delos fines autorizados.
 
 5.2. Por los giros.
 
-Como lo indican las normas aprobadas por el Comité Ejecutivo del Banco Central
+Como lo indican las normas aprobadas por el Comité Ejecutivo del Banco Central de Chile, de que trata este capítulo, de las cuentas antes indicadas se podrá girar sólo para los fines expresamente señalados en esas disposiciones y que fueron comentados en el N° 4 anterior.
 
-de Chile, de que trata este capítulo, de las cuentas antes indicadas se podrá
+Dichos giros deberán efectuarse de la subcuenta que corresponda, según sea el origen de los recursos utilizados.
 
-girar sólo para los fines expresamente señalados en esas disposiciones y que
+En el respectivo comprobante contable deberán dejarse claramente establecidas las cuentas y subcuentas que se afectan en el giro y la finalidad del mismo.
 
-fueron comentados en el N° 4 anterior.
+No podrán efectuarse giros o traspasos entre las distintas subcuentas que componen los saldos de las cuentas "Cuenta Especial de Depósito N° 1 en moneda extranjera-Transitorio" y "Cuenta Especial de Depósito N° 1 en moneda extranjera- con crédito", salvo que se trate de reparar un error de contabilización o de imputación de los recursos, lo que en todo caso, deberá quedar claramente explicado en el respectivo comprobante y, así también, deberá desprenderse delos antecedentes que hayan servido de justificación para realizar tales traspasos. Cuando ocurran esas situaciones, las entidades financieras deberán mantener reunidos, a la disposición de este Organismo fiscalizado, los antecedentes que respaldan las mencionadas transferencias.
 
-Dichos giros deberán efectuarse de la subcuenta que corresponda, según sea el
+En los giros que se hagan para el financiamiento de operaciones de comercio exterior, los recursos comprometidos pueden depositarse en los bancos corresponsales del exterior sobre los cuales se abrirán cartas de crédito, en el caso de tratarse de financiamientos de esa naturaleza. Tales depósitos pueden hacerse a partir de la fecha de apertura del correspondiente acreditivo a la vista.
 
-origen de los recursos utilizados.
+En estos términos, en el mismo día en que se haya efectuado el respectivo giro de las subcuentas "Recuperaciones colocaciones financiadas con otras obligaciones" o "Recuperaciones Acuerdo 1418", deberán haberse abierto cartas de crédito a la vista con financiamiento de la propia institución, por un monto no inferior al giro efectuado. También puede girarse para cumplir el pago de una carta de crédito a plazo, en la correspondiente fecha de vencimiento si no se hubiere hecho su oportuna cobertura.
 
-En el respectivo comprobante contable deberán dejarse claramente establecidas
+Cuando se trate de cursar un financiamiento para exportaciones, la moneda extranjera utilizada puede girarse y depositarse en el propio Banco Central de Chile, en el caso que el exportador realice su conversión en el mismo banco que le otorgó el financiamiento o bien, si la liquida en otra entidad bancaria, debe transferirse al banco que en ese caso indique el cliente.
 
-las cuentas y subcuentas que se afectan en el giro y la finalidad del mismo.
-
-No podrán efectuarse giros o traspasos entre las distintas subcuentas que
-
-componen los saldos de las cuentas "Cuenta Especial de Depósito N° 1 en moneda
-
-extranjera-Transitorio" y "Cuenta Especial de Depósito N° 1 en moneda
-
-extranjera- con crédito", salvo que se trate de reparar un error de
-
-contabilización o de imputación de los recursos, lo que en todo caso, deberá
-
-quedar claramente explicado en el respectivo comprobante y, así también, deberá
-
-desprenderse delos antecedentes que hayan servido de justificación para realizar
-
-tales traspasos. Cuando ocurran esas situaciones, las entidades financieras
-
-deberán mantener reunidos, a la disposición de este Organismo fiscalizado, los
-
-antecedentes que respaldan las mencionadas transferencias.
-
-En los giros que se hagan para el financiamiento de operaciones de comercio
-
-exterior, los recursos comprometidos pueden depositarse en los bancos
-
-corresponsales del exterior sobre los cuales se abrirán cartas de crédito, en el
-
-caso de tratarse de financiamientos de esa naturaleza. Tales depósitos pueden
-
-hacerse a partir de la fecha de apertura del correspondiente acreditivo a la
-
-vista.
-
-En estos términos, en el mismo día en que se haya efectuado el respectivo giro
-
-de las subcuentas "Recuperaciones colocaciones financiadas con otras
-
-obligaciones" o "Recuperaciones Acuerdo 1418", deberán haberse abierto cartas de
-
-crédito a la vista con financiamiento de la propia institución, por un monto no
-
-inferior al giro efectuado. También puede girarse para cumplir el pago de una
-
-carta de crédito a plazo, en la correspondiente fecha de vencimiento si no se
-
-hubiere hecho su oportuna cobertura.
-
-Cuando se trate de cursar un financiamiento para exportaciones, la moneda
-
-extranjera utilizada puede girarse y depositarse en el propio Banco Central de
-
-Chile, en el caso que el exportador realice su conversión en el mismo banco que
-
-le otorgó el financiamiento o bien, si la liquida en otra entidad bancaria, debe
-
-transferirse al banco que en ese caso indique el cliente.
-
-A fin de identificar debidamente los recursos comprometidos, la entidad
-
-financiera debe distinguir en su contabilidad las operaciones financiadas con
-
-ellos, de modo que una vez cumplida la operación y recuperadas las divisas,
-
-vuelvan ellas a la correspondiente cuenta especial de depósito en el Banco
-
-Central de Chile.
+A fin de identificar debidamente los recursos comprometidos, la entidad financiera debe distinguir en su contabilidad las operaciones financiadas con ellos, de modo que una vez cumplida la operación y recuperadas las divisas, vuelvan ellas a la correspondiente cuenta especial de depósito en el Banco Central de Chile.
 
 5.3. Por los intereses ganados.
 
-Los intereses que abone el Banco Central de Chile sobre los depósitos mantenidos
+Los intereses que abone el Banco Central de Chile sobre los depósitos mantenidos con las divisas recuperadas y que serán pagados por su equivalente en pesos moneda corriente, se calcularán mensualmente sobre la base de los saldos promedio mantenidos (numerales) y de acuerdo a la tasa de interés que haya determinado el Instituto Emisor para el período correspondiente.
 
-con las divisas recuperadas y que serán pagados por su equivalente en pesos
+Los intereses devengados se registrarán en pesos, moneda corriente, en las correspondientes cuentas complementarias de intereses de la partida 1780, con abono a la cuenta "Intereses ganados-Divisas recuperadas y mantenidas en el Banco Central de Chile", de la partida 7165.
 
-moneda corriente, se calcularán mensualmente sobre la base de los saldos
-
-promedio mantenidos (numerales) y de acuerdo a la tasa de interés que haya
-
-determinado el Instituto Emisor para el período correspondiente.
-
-La contabilizaron mensual de este devengo, se hará por su equivalente en
-
-pesos,moneda corriente, en las cuentas "Intereses por cobrar-Divisas recuperadas
-
-y mantenidas en el Banco Central de Chile", de la partida 1820 del formulario
-
-MB1 e "Intereses ganados-Divisas recuperadas y mantenidas en el Banco Central de
-
-Chile", de la partida 7165 en el MR1.
-
-Cuando el Banco Central de Chile pague efectivamente los intereses ganados, se
-
-acreditará la cuenta "Intereses por cobrar-Divisas recuperadas y mantenidas en
-
-el Banco Central de Chile", hasta la concurrencia del saldo registrado en esa
-
-cuenta, correspondiente a los intereses del período por el cual se recibe el
-
-pago. El remanente, en caso que hubiere, se acreditará a la cuenta de "Intereses
-
-ganados Divisas recuperadas y mantenidas en el Banco Central de Chile".
-
-Las entidades financieras tienen la opción de transferir estos intereses a la
-
-cuenta especial "Cuenta corriente pesos expresada en dólares de los Estados
-
-Unidos de América" del Capítulo IV.D.1 del Compendio de Normas Financieras del
-
-Instituto Emisor.
+Cuando el Banco Central de Chile pague efectivamente los intereses ganados, se acreditarán a las cuentas de intereses por cobrar de la partida 1780. Las diferencias que pudieran producirse con respecto al total de los importes registrados en el activo, se llevarán directamente a la cuenta de resultados de la partida 7165 antes indicada.
 
 ### II. CREDITOS ESPECIALES EN UNIDADES DE FOMENTO
 
@@ -22406,13 +21154,9 @@ Central de Chile, en la cual el Instituto Emisor les depositará el monto girado
 
 3.2. Por los intereses.
 
-Los intereses por la utilización de estos créditos serán calculados a la tasa determinada por el Banco Central de Chile y registrados al término de cada mes, en las cuentas "Intereses por pagar-Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile", de la partida 3810, del formulario MB1 e "Intereses pagados Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile", cuyo saldo se demostrará en la partida 5155 del formulario MR1.
+Los intereses devengados por la utilización de estos créditos serán calculados a la tasa determinada por el Banco Central de Chile y registrados al término de cada mes en las respectivas cuentas complementarias de intereses por pagar de las partidas 3430 ó 3485 antes mencionadas con cargo a la cuenta "Intereses pagados-Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile", de la partida 5155.
 
-Cada vez que corresponda hacer el pago de estos intereses, se debitará el saldo registrado en la cuenta "Intereses por pagar-Obligaciones por equivalente
-
-divisas recuperadas y mantenidas en el Banco Central de Chile" correspondiente a
-
-los intereses del período por el cual se realice el pago. El importe que faltare para efectuar dicho pago, se debitará en la cuenta de "Intereses pagados-Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile."
+Cada vez que corresponda hacer el pago de estos intereses, se debitará el saldo registrado en la respectiva cuenta complementaria del pasivo. Las diferencias que pudieran producirse con respecto a los importes registrados en el pasivo se debitarán directamente a la cuenta de resultados de la partida 5155.
 
 3.3. Por los reajustes.
 
@@ -22526,9 +21270,9 @@ De cualquier modo, en los documentos contables que den cuenta de un giro, se se�
 
 3.3. Por los intereses ganados.
 
-El Banco Central de Chile abonará los intereses que devenguen estos depósitos, en su equivalente en pesos, moneda corriente. Por consiguiente, las entidades financieras contabilizarán el último día de cada mes el devengo correspondiente, también en moneda chilena, al tipo de cambio de representación contable vigente en la fecha de contabilización. Se debitará para estos efectos, la cuenta "Intereses por cobrar de Cuenta Especial de Depósito en dólares de los Estados Unidos de América". El saldo de esta cuenta se demostrará en la partida 1820 del formulario MB1. El abono respectivo se hará en la cuenta "Intereses ganados por Cuenta Especial de Depósito N° 2 en dólares de los Estados Unidos de América", de la partida 7165 del formulario MR1.
+Los intereses devengados se registrarán en pesos, moneda corriente, en las correspondientes cuentas complementarias de intereses de la partida 1770, con abono a la cuenta "Intereses ganados por Cuenta Especial de Depósito N° 2 en dólares de los Estados Unidos de América", de la partida 7165.
 
-Una vez recibido el abono del Banco Central de Chile, se acreditarán los "Intereses por cobrar de Cuenta Especial de Depósito en dólares de los Estados Unidos de América", hasta el importe relativo a los intereses del período por el cual se recibe el pago y el remanente, si hubiera, se acreditará a la cuenta "Intereses ganados por Cuenta Especial de Depósito N° 2 en dólares de los Estados Unidos de América".
+Cuando el Banco Central de Chile pague efectivamente los intereses ganados, se acreditará la cuenta de intereses por cobrar de la partida 1770. Las diferencias que pudieran producirse con respecto al total de los importes registrados en el activo, se llevarán directamente a la cuenta de resultados de la partida 7165 antes indicada.
 
 CAPITULO 13-12 (Bancos)
 
@@ -23778,37 +22522,19 @@ Los bancos registrarán las operaciones de que se trata, de la siguiente forma:
 
 6.1 Por la obligación que se asume.
 
-Debe: - "Créditos originalmente avalados", cuenta que será demostrada en la
+Debe: - "Créditos originalmente avalados", cuenta que será demostrada en la partida 1110 ó 1205 del formulario MB1, según corresponda.
 
-partida 1110 ó 1205 del formulario MB1, según corresponda.
+- La cuenta pertinente del rubro obligaciones contingentes en la que se encuentre registrada la obligación que se asume directamente.
 
-- La cuenta pertinente del rubro obligaciones contingentes en la que se
+Haber: - La cuenta que corresponda del rubro colocaciones contingentes, por el monto del crédito que pasa a ser una colocación efectiva.
 
-encuentre registrada la obligación que se asume directamente.
-
-Haber: - La cuenta que corresponda del rubro colocaciones contingentes, por el
-
-monto del crédito que pasa a ser una colocación efectiva.
-
-- La cuenta que corresponda del rubro préstamos y otras obligaciones contraídas
-
-en el exterior, por la obligación asumida directamente con acreedores externos.
+- La cuenta que corresponda del rubro préstamos y otras obligaciones contraídas en el exterior, por la obligación asumida directamente con acreedores externos.
 
 6.2. Por los intereses.
 
-Los intereses que devenguen los créditos de que se trata, se acreditarán en la
+Los intereses que devenguen los créditos de que se trata, se acreditaran en la cuenta de intereses ganados de la partida 7115, con cargo a la respectiva cuenta complementaria de intereses por cobrar de la colocación.
 
-cuenta "Intereses ganados" de la partida 7115 del formulario MR1, con cargo a la
-
-cuenta "Intereses por cobrar" de la partida 1810 del formulario MB1.
-
-A su vez, los intereses adeudados por la obligación con el exterior, se
-
-debitarán en la cuenta "Intereses pagados" de la partida 5180 ó 5185 del
-
-formulario MR1,según corresponda, con abono a la cuenta "Intereses por pagar" de
-
-la partida 3815 del formulario MB1.
+A su vez, los intereses adeudados por la obligación con el exterior se debitarán en las respectivas cuentas de intereses pagados de las partidas 5180 ó 5185, según corresponda, con abono a la cuenta complementaria de intereses por pagar de la obligación.
 
 ### 7. Límites legales
 
@@ -24190,109 +22916,29 @@ por el mismo Instituto Emisor, en los términos y condiciones previstos en el
 
 Anexo N° 1 del Capítulo XIX ya citado.
 
-7. Aplicación que se puede dar al producto del cobro de títulos de deuda externa
+7. Aplicación que se puede dar al producto del cobro de títulos de deuda externa o a los documentos canjeados o sustituidos.
 
-o a los documentos canjeados o sustituidos.
+Una vez efectuado el cobro del título de deuda externa, el banco mandatario, previa autorización del Banco Central de Chile y de conformidad con el correspondiente mandato, que deberá otorgarle la necesaria facultad para ello, procederá a realizar los siguientes actos:
 
-Una vez efectuado el cobro del título de deuda externa, el banco mandatario,
+a) Vender a terceras personas o comprar para sí los nuevos instrumentos recibidos por canje o sustitución del título de deuda externa. Estas operaciones deben hacerse al contado y en pesos moneda nacional;
 
-previa autorización del Director de Operaciones del Banco Central de Chile y de
+b) Efectuar la inversión autorizada por el Instituto Emisor con el producto del cobro del título de deuda externa o con el de la venta de los instrumentos recibidos en canje o sustitución del mismo, o bien, aportar dichos recursos a una entidad situada en Chile;
 
-conformidad con el correspondiente mandato, que deberá otorgarle la necesaria
+c) Aportar los instrumentos recibidos en canje o sustitución del título, a una entidad residente en Chile, con el objeto de que ésta lo aplique a los fines autorizados por el Instituto Emisor; y,
 
-facultad para ello, procederá a realizar los siguientes actos:
+d) Dar los nuevos instrumentos recibidos por canje o sustitución del título, en pago de bienes representativos de la inversión autorizada por el Banco Central de Chile o recibirlos para sí, en pago por el mismo concepto recién señalado.
 
-a) Vender a terceras personas o comprar para sí los nuevos instrumentos
+En caso de no ser posible la aplicación inmediata del importe recibido por el cobro del título o por la venta de los instrumentos canjeados o sustituidos, el banco mandatario previa autorización del Banco Central de Chile y de conformidad con lo que se haya estipulado en el mandato,podrá utilizar dichos recursos, por cuenta de su mandante, para constituir depósitos a la vista o a plazo en la misma institución o en otro
 
-recibidos por canje o sustitución del título de deuda externa. Estas operaciones
+banco situado en Chile, mientras se perfecciona la inversión autorizada. Los referidos depósitos, podrán ser sin reajuste o reajustables por la variación de la Unidad de Fomento o del tipo de cambio del dólar estadounidense y con intereses o sin ellos de conformidad con las normas generales sobre la materia. El capital delos referidos depósitos y sus intereses y reajustes, podrán ser girados exclusivamente para efectuar la inversión autorizada por el Instituto Emisor.
 
-deben hacerse al contado y en pesos moneda nacional;
+Cuando los nuevos instrumentos recibidos por canje o sustitución del título de deuda externa o los recursos obtenidos de su cobro o de la venta de esos instrumentos sean aportados a una entidad residente en Chile para que ésta realice las inversiones autorizadas por el Banco Central de Chile, dicha entidad deberá conferir, a su vez, un mandato irrevocable a una empresa bancaria que opere en Chile para que ella, previa autorización del Instituto Emisor y actuando por cuenta de su mandante, utilice tales recursos para realizar las correspondientes inversiones, cobre los nuevos instrumentos, los venda a terceros o los adquiera para sí al contado y en pesos
 
-b) Efectuar la inversión autorizada por el Instituto Emisor con el producto del
+moneda chilena, o bien, los transfiera a terceros en pago de bienes representativos de la inversión autorizada por el Banco Central de Chile o los reciba en pago por igual concepto. El referido mandato deberá contener instrucciones para que el banco mandatario pueda retener y depositar a la vista o a plazo sujetos a las mismas condiciones y con la misma finalidad señalada en
 
-cobro del título de deuda externa o con el de la venta de los instrumentos
+el párrafo precedente de esta misma letra, los recursos del aporte o los que se originen por la venta o cobro de los nuevos instrumentos, hasta tanto se les dé su aplicación definitiva.
 
-recibidos en canje o sustitución del mismo, o bien, aportar dichos recursos a
-
-una entidad situada en Chile;
-
-c) Aportar los instrumentos recibidos en canje o sustitución del título, a una
-
-entidad residente en Chile, con el objeto de que ésta lo aplique a los fines
-
-autorizados por el Instituto Emisor; y,
-
-d) Dar los nuevos instrumentos recibidos por canje o sustitución del título, en
-
-pago de bienes representativos de la inversión autorizada por el Banco Central
-
-de Chile o recibirlos para sí, en pago por el mismo concepto recién señalado.
-
-En caso de no ser posible la aplicación inmediata del importe recibido por el
-
-cobro del título o por la venta de los instrumentos canjeados o sustituidos, el
-
-banco mandatario previa autorización del Director de Operaciones del Banco
-
-Central de Chile y de conformidad con lo que se haya estipulado en el
-
-mandato,podrá utilizar dichos recursos, por cuenta de su mandante, para
-
-constituir depósitos a la vista o a plazo en la misma institución o en otro
-
-banco situado en Chile, mientras se perfecciona la inversión autorizada. Los
-
-referidos depósitos, podrán ser sin reajuste o reajustables por la variación de
-
-la Unidad de Fomento o del tipo de cambio del dólar estadounidense y con
-
-intereses o sin ellos de conformidad con las normas generales sobre la materia.
-
-El capital delos referidos depósitos y sus intereses y reajustes, podrán ser
-
-girados exclusivamente para efectuar la inversión autorizada por el Instituto
-
-Emisor.
-
-Cuando los nuevos instrumentos recibidos por canje o sustitución del título de
-
-deuda externa o los recursos obtenidos de su cobro o de la venta de esos
-
-instrumentos sean aportados a una entidad residente en Chile para que ésta
-
-realice las inversiones autorizadas por el Banco Central de Chile, dicha entidad
-
-deberá conferir, a su vez, un mandato irrevocable a una empresa bancaria que
-
-opere en Chile para que ella, previa autorización del Director de Operaciones
-
-del Instituto Emisor y actuando por cuenta de su mandante, utilice tales
-
-recursos para realizar las correspondientes inversiones, cobre los nuevos
-
-instrumentos, los venda a terceros o los adquiera para sí al contado y en pesos
-
-moneda chilena, o bien, los transfiera a terceros en pago de bienes
-
-representativos de la inversión autorizada por el Banco Central de Chile o los
-
-reciba en pago por igual concepto. El referido mandato deberá contener
-
-instrucciones para que el banco mandatario pueda retener y depositar a la vista
-
-o a plazo sujetos a las mismas condiciones y con la misma finalidad señalada en
-
-el párrafo precedente de esta misma letra, los recursos del aporte o los que se
-
-originen por la venta o cobro de los nuevos instrumentos, hasta tanto se les dé
-
-su aplicación definitiva.
-
-Por otra parte, de acuerdo con lo señalado en el Anexo N° 2 del Capítulo XIX ya
-
-mencionado, las inversiones acogidas a las disposiciones de dicho Anexo, deberán
-
-efectuarse dentro del plazo máximo de sesenta días contados desde la fecha de la
+Por otra parte, de acuerdo con lo señalado en el Anexo N° 2 del Capítulo XIX ya mencionado, las inversiones acogidas a las disposiciones de dicho Anexo, deberán efectuarse dentro del plazo máximo de sesenta días contados desde la fecha de la
 
 respectiva autorización del Banco Central de Chile.
 
@@ -24454,11 +23100,11 @@ a) En moneda extranjera.
 
 Debe: - La cuenta de pasivo en que mantengan registrada la obligación pertinente.
 
-- "Intereses por pagar", de la partida 3815 del formulario MB1, por aquellos intereses que se mantienen adeudados, cuando se encuentren registrados en moneda extranjera.
+- "Intereses por pagar", por aquellos intereses que se mantienen adeudados, cuando se encuentren registrados en moneda extranjera.
 
 - "Intereses pagados" de la partida 5180, 5185 ó 5190 del formulario MR1, por los intereses en moneda extranjera correspondientes al período comprendido entre el último devengo y la fecha de pago del título.
 
-Haber: "Conversión títulos deuda externa-Acuerdo 1725", de la partida 2510 ó 4510 del formulario MB1, por el importe del respectivo título, incluidos sus intereses en moneda extranjera.
+Haber: "Conversión títulos deuda externa-Acuerdo 1725", de la partida 4510, por el importe del respectivo título, incluidos sus intereses en moneda extranjera.
 
 b) En moneda chilena.
 
@@ -24478,23 +23124,7 @@ En este caso se procederá de acuerdo con las instrucciones del numeral 15.3.1 p
 
 15.4. Adquisición de los efectos de comercio emitidos por los deudores de títulos de deuda externa, por canje o sustitución.
 
-Los documentos emitidos en canje o sustitución de títulos de deuda externa que adquieran las instituciones financieras serán registrados por su valor par a la fecha de adquisición, en cuentas que se denominarán "Documentos provenientes de prepagos de deuda externa". Estas cuentas se reflejarán, según sea el deudor o emisor del instrumento de que se trate, en las partidas del formulario MB1, 1705, cuando se trate de documentos emitidos por el Banco Central de Chile; 1710, cuando los documentos registrados estén emitidos por organismos fiscales; 1725, si el registro corresponde a instrumentos emitidos por otras instituciones financieras del país y 1735 si se trata de documentos que hayan sido emitidos en paso cíe créditos externos ingresados al país por personas o entidades distintas a las señaladas precedentemente, caucionadas por CORFO, empresas bancarias o sociedades financieras autorizadas para operar en el país.
-
-La diferencia entre el valor par antes mencionado y el precio de adquisición, se contabilizará en la cuenta "Beneficios obtenidos y no devengados por compra pagarés redenominados deuda externa". El saldo de esta cuenta se demostrará en la partida 4120, del formulario MB1. En el caso que el valor pagado por el documento fuere superior a su valor par, la diferencia correspondiente al mayor precio pagado se contabilizará en la cuenta "Diferencias de precio por reconocer en compra de pagarés redenominados deuda externa". El saldo de esta cuenta se incluirá en la partida 2120, del formulario MB1.
-
-Las diferencias así contabilizadas, se traspasarán a las cuentas de resultado"Beneficios por compra pagarés redenominados deuda externa" y "Pérdidas por diferencias de precio pagarés redenominados deuda externa" de las partidas 7610,7615, 7620, 5610, 5615 ó 5620. del formulario MR1, dependiendo de si se trata de utilidad o pérdida y de quien sea el emisor del documento que haya
-
-originado la diferencia. Ese traspaso se efectuará mensualmente, en forma lineal a razón de 1/n avo del número de meses que falten para el vencimiento o pago de la última amortización de capital.
-
-Si se procede a enajenar un documento por el cual se mantiene una diferencia deprecio registrada en las cuentas de Activo Transitorio o de Pasivo Transitorio,dicha diferencia deberá ser traspasada íntegramente en ese mismo acto a la correspondiente cuenta de resultados.
-
-Las diferencias que se produzcan entre el precio de venta de los documentos que las entidades financieras enajenen y el valor a que esos documentos se encontraban registrados en la respectiva cuenta de inversión, se registrarán directamente en las cuentas anteriormente mencionadas, "Beneficios por compra de pagarés redenominados deuda externa" o "Pérdidas por diferencias de precio
-
-pagarés redenominados deuda externa", según corresponda.
-
-Las obligaciones derivadas de las ventas con pacto de retrocompra de estos documentos, se registrarán en la cuenta "Ventas a instituciones financieras con pacto de retrocompra de pagarés redenominados deuda externa", o bien, "Ventas a terceros con pacto de retrocompra de pagarés redenominados deuda externa, por el valor en el cual se haya realizado la venta. Los saldos de estas cuentas se representarán en las partidas 3110 ó 3115 del formulario MB1. Las diferencias entre el precio de venta y el precio de retrocompra se acreditarán a la cuenta "Intereses por pagar sobre ventas con pacto de retrocompra pagarés deuda externa", de la partida 3820 del formulario MB1, con cargo a la cuenta "Intereses pagados sobre ventas con pacto de retrocompra pagarés redenominados deuda externa" de la partida 5140 del formulario MR1, si la operación se encuentra pactada a no más de treinta días o, en caso contrario,dicho asiento se efectuará al término de cada mes calendario.
-
-La realización de estas transacciones no afectarán las diferencias de precio registradas en el Activo o Pasivo Transitorio, las que seguirán llevándose a la respectiva cuenta de resultados de acuerdo con lo señalado en los párrafos precedentes.
+Los documentos emitidos en canje o sustitución de títulos de deuda externa que adquieran las instituciones financieras, deberán registrarse de acuerdo con las instrucciones del Capitulo 8-21 de esta Recopilación Actualizada de Normas.
 
 15.5. Saldo de cuentas "Conversión títulos deuda externa-Acuerdo 1.725" y "Cambio títulos deuda externa-Acuerdo 1.725".
 
@@ -24502,7 +23132,7 @@ Las instituciones financieras solucionarán el saldo acreedor de de la cuenta"Co
 
 debe hacerse, en lo pasible, en forma simultánea con el pago o sustitución de títulos en moneda extranjera.
 
-Si al término de mes subsiste un saldo en la cuenta "Cambio títulos deuda externa-Acuerdo 1.725", éste será ajustado sobre la base del tipo de cambio que esta Superintendencia haya fijado para la liquidación de las cuentas "Cambio" o bien será traspasado a la correspondiente cuenta de resultados, en el caso que no se registrare saldo en la cuenta "Conversión títulos deuda externa-Acuerdo 1.725."
+Si al término de mes subsiste un saldo en la cuenta "Cambio títulos deuda externa-Acuerdo 1.725", éste será ajustado sobre la base del tipo de cambio que esta Superintendencia haya fijado para la liquidación de las cuentas "Cambio" o bien será traspasado a la correspondiente cuenta de resultados, en el caso que no se registrare saldo en la cuenta "Conversión títulos deuda externa-Acuerdo 1.725.
 
 ### 16. Márgenes individuales de crédito
 
@@ -24530,7 +23160,7 @@ Los deudores al suscribir estos convenios, deben renunciar al acceso al Mercado 
 
 negociación. De acuerdo con las disposiciones en comento, el cobro, canje o sustitución de esos documentos, debe hacerse siempre por una institución bancaria o sociedad financiera establecida en Chile quedando, por lo tanto,estas últimas facultadas para realizar específicamente estas operaciones que comprenden documentos en moneda extranjera, excepto cuando el producto de ellos se utilice en el pago de acciones emitidas por el deudor, en los casos en que se haya obtenido la autorización para tal efecto.
 
-Los nuevos instrumentos derivados de ese canje o sustitución, podrán ser objeto de las intermediaciones permitidas para los instrumentos financieros en general, de acuerdo con las disposiciones de la Circular N° 1.698-184 y sus modificaciones, de este Organismo.
+Los nuevos instrumentos derivados de ese canje o sustitución, podrán ser objeto de las intermediaciones permitidas para los instrumentos financieros en general, de acuerdo con las disposiciones de los Capítulos 2-1 y 8-21 de esta Recopilación Actualizada de Normas.
 
 ### 2. Personas que pueden operar
 
@@ -24672,7 +23302,7 @@ El monto del pago que se convenga con el deudor de un título de deuda externa, 
 
 Para determinar el equivalente en pesos moneda nacional, del título de deuda externa, se considerará el saldo del capital más los intereses devengados, hasta la fecha de la transacción en la respectiva moneda extranjera, multiplicado por el tipo de cambio a que se refiere el N° 6 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales, salvo en el caso de los títulos de que trata el N° 14 de este Capítulo, en que utilizarán para tal efecto el tipo de cambio a que se refiere el N° 7 del Capítulo I ya citado.
 
-En todo caso, el adquirente de los nuevos documentos emitidos con motivo del canje o sustitución del título de deuda externa, podrá, a su vez, enajenarlos al precio que se convenga con el comprador, de conformidad con las normas generales sobre captación e intermediación financiera contenidas en la Circular N° 1.698-184 del 27 de agosto de 1980 y sus modificaciones, de este Organismo.
+En todo caso, el adquirente de los nuevos documentos emitidos con motivo del canje o sustitución del título de deuda externa, podrá, a su vez, enajenarlos al precio que se convenga con el comprador, de conformidad con las normas generales sobre captación e intermediación financiera contenidas en el Capítulo 2-1 de esta Recopilación.
 
 10. Monto máximo de títulos de deuda externa que se puede cobrar, canjear o sustituir en cada mes.
 
@@ -24820,13 +23450,13 @@ Las operaciones de que trata este capítulo, serán registradas de la forma que 
 
 15.1.1. Adquisición de pagarés.
 
-Debe: - "Pagarés Banco Central de Chile-Capítulo XVIII" de la partida 1705 del formulario MB1, por el valor nominal de los documentos adquiridos.
+Debe: - "Pagarés Capítulo XVIII (Cupos-DB)" de la partida 1706, por el valor nominal de los documentos adquiridos.
 
 - "Costo margen adjudicado Capítulo XVIII", que forma parte de la partida 2120 del formulario MB1, por la diferencia entre el valor pagado y el valor de rescate por parte del Banco Central de Chile. Los importes registrados en esta cuenta deberán extinguirse de la forma indicada en el numeral 15.1.3 de este capítulo.
 
 Haber: - "Depósitos en el Banco Central de Chile" de la partida 1010, "Caja" o la cuenta que corresponda, por el monto pagado al Banco Central de Chile o a otra institución financiera, según sea el caso, por los pagarés adquiridos.
 
-- "Descuentos por rescate PBC-Capítulo XVIII", cuenta acreedora que se incluye también en la partida 1705 del formulario MB1 y que tiene por objeto valuar los pagarés a su valor de rescate, manteniendo registrado el valor nominal. Por lo tanto, esta cuenta es complementaria de la cuenta "Pagarés Banco Central de Chile-Capítulo XVIII" ya mencionada y debe reflejar siempre la diferencia entre el valor nominal y el valor de rescate de esos instrumentos en poder de la institución.
+- "Descuentos Pagarés Capítulo XVIII (Cupos-CR)"partida 1706,cuenta acreedora que se incluye también en la partida 1705 del formulario MB1 y que tiene por objeto valuar los pagarés a su valor de rescate, manteniendo registrado el valor nominal. Por lo tanto, esta cuenta es complementaria de la cuenta "Pagarés Capítulo XVIII (Cupos-DB)" ya mencionada y debe reflejar siempre la diferencia entre el valor nominal y el valor de rescate de esos instrumentos en poder de la institución.
 
 Simultáneamente con las contabilizaciones antes indicadas, deberá registrarse, en moneda extranjera, el monto del margen adjudicado en el Banco Central de Chile o recibido de otra institución financiera, en las siguientes cuentas de orden que se abrirán para el control del margen disponible:
 
@@ -24838,9 +23468,9 @@ Haber: - "Responsabilidad sobre margen disponible Capítulo XVIII", de la partid
 
 Debe: - "Depósitos en el Banco Central de Chile", "Caja" o la cuenta que corresponda, por el valor recibido por el rescate o por la cesión de pagarés a otra institución financiera, según sea el caso.
 
-- "Descuentos por rescate PBC-Capítulo XVIII", para revertir la parte que complementa el valor nominal de los pagarés entregados, de acuerdo con lo señalado en el numeral 15.1.1 precedente.
+- "Descuentos Pagarés Capítulo XVIII (Cupos-CR)", para revertir la parte que complementa el valor nominal de los pagarés entregados, de acuerdo con lo señalado en el numeral 15.1.1 precedente.
 
-Haber: - "Pagarés Banco Central de Chile-Capítulo XVIII", por el importe del valor nominal de los pagarés vendidos que se encuentre registrado en esta misma cuenta.
+Haber: - "Pagarés Capítulo XVIII (Cupos-DB)", por el importe del valor nominal de los pagarés vendidos que se encuentre registrado en esta misma cuenta.
 
 - "Beneficios obtenidos por cesión de PBC Capítulo XVIII", por la diferencia entre el precio de venta y el valor de rescate de los documentos, cuando se transfiera margen a otra institución financiera, cuenta que forma parte de la partida 7906 "Ingresos por operaciones Capítulo XVIII" del formulario MR1.
 
@@ -24886,11 +23516,11 @@ a) En moneda extranjera.
 
 Debe: - La cuenta de pasivo en que mantengan registrada la obligación pertinente.
 
-- "Intereses por pagar", de la partida 3815 del formulario MB1, por aquellos intereses que se mantienen adeudados cuando se encuentren registrados en moneda extranjera.
+- "Intereses por pagar", por aquellos intereses que se mantienen adeudados cuando se encuentren registrados en moneda extranjera.
 
 - "Intereses pagados", de la partida 5180, 5185 ó 5190 del del formulario MR1, según corresponda, por los intereses en moneda extranjera relativos al período comprendido entre el último devengo y la fecha de pago del título.
 
-Haber: - La cuenta "Conversión títulos deuda externa Acuerdo 1725", de la partida 2510 ó 4510 del formulario MB1, por el importe del respectivo título, incluidos sus intereses en moneda extranjera.
+Haber: - La cuenta "Conversión títulos deuda externa Acuerdo 1725", de la partida 4510, por el importe del respectivo título, incluidos sus intereses en moneda extranjera.
 
 b) Moneda chilena:
 
@@ -24922,23 +23552,7 @@ No podrá llevarse a resultados el beneficio obtenido en tanto no se traspase a 
 
 15.6. Adquisición por las instituciones financieras de instrumentos emitidos por canje o sustitución de títulos de deuda externa.
 
-Los documentos emitidos en canje o sustitución de títulos de deuda externa que adquieran las instituciones financieras serán registrados por su valor para la fecha de adquisición, en cuentas que se denominarán "Documentos provenientes de prepagos de deuda externa". Estas cuentas se reflejarán, según sea el deudor o emisor del instrumento de que se trate, en las partidas del formulario MB1,1705, cuando se trate de documentos emitidos por el Banco Central de Chile; 1710 cuando los documentos registrados estén emitidos por organismos fiscales; 1725 si el registro corresponde a instrumentos emitidos por otras instituciones
-
-financieras del país y 1735 si se trata de documentos que han sido emitidos en pago de créditos externos ingresados al país al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, por personas naturales o jurídicas residentes en Chile.
-
-La diferencia entre el valor par antes mencionado y el precio de adquisición, se contabilizará en una cuenta que se denominará "Beneficios obtenidos y no devengados por compra pagarés redenominados deuda externa". El saldo de esta cuenta se demostrará en la partida 4120, "Pasivo Transitorio", del formulario MB1. En el caso que el valor pagado por el documento fuere superior a su valor par, la diferencia correspondiente al mayor precio pagado se contabilizará en la cuenta "Diferencias de precio por reconocer en compra de pagarés redenominados deuda externa". El saldo de esta cuenta se incluirá en la partida 2120, del formulario MB1.
-
-Las diferencias así contabilizadas, se traspasarán a cuentas de resultado"Beneficios por compra de pagarés redenominados deuda externa" y "Pérdidas por diferencias de precio pagarés rede nominados deuda externa", que se incluyen en las partidas 7610, 7615, 7620, 5610, 5615 ó 5620, del formulario MR1, dependiendo de si se trata de utilidades o pérdidas y de quién sea el emisor del documento que haya originado la diferencia. Ese traspaso se efectuará mensualmente, en forma lineal a razón de 1/n avo del número de meses que falten para el vencimiento del documento o pago de la última amortización de capital.
-
-Si se procede a enajenar un documento por el cual se mantiene una diferencia deprecio registrada en las cuentas de Activo Transitorio o de Pasivo Transitorio,dicha diferencia deberá ser traspasada íntegramente en ese mismo acto a la correspondiente cuenta de resultados.
-
-Las diferencias que se produzcan entre el precio de venta de los documentos que las entidades financieras enajenen y el valor a que esos documentos se encontraban registrados en la respectiva cuenta de inversión, se registrarán directamente en las cuentas anteriormente mencionadas, "Beneficios por compra de pagarés redenominados deuda externa" o "Pérdidas por diferencias de precio
-
-pagarés redenominados deuda externa", según corresponda.
-
-Las obligaciones derivadas de las ventas con pacto de retrocompra de estos documentos, se registrarán en la cuenta "Ventas a terceros con pacto de retrocompra de pagarés redenominados deuda externa" o bien, "Ventas a instituciones financieras con pacto de retrocompra de pagarés redenominados deuda externa", por el valor en el cual se haya realizado la venta. Los saldos de estas cuentas se representarán en las partidas 3110 ó 3115 del formulario MB1. Las diferencias entre el precio de venta y el precio de retrocompra se acreditarán a la cuenta "Intereses por pagar sobre ventas con pacto de retrocompra pagarés deuda externa", de la partida 3820 del formulario MB1, con cargo a la cuenta "Intereses pagados sobre ventas con pacto de retrocompra pagarés redenominados deuda externa" de la partida 5140 del formulario MR1, si la operación se encuentra pactada a no más de treinta días o, en caso contrario,dicho asiento se efectuará al término de cada mes calendario.
-
-La realización de estas transacciones no afectará las diferencias de precio registradas en el Activo o Pasivo Transitorio, las que seguirán llevándose a la respectiva cuenta de resultados de acuerdo con lo señalado en los párrafos precedentes.
+Los documentos emitidos en canje o sustitución de títulos de deuda externa que adquieran las instituciones financieras, deberán registrarse de acuerdo con las instrucciones del Capítulo 8-21 de esta Recopilación Actualizada de Normas.
 
 15.7. Saldos de cuentas "Conversión títulos deuda externa-Acuerdo 1725" y "Cambio títulos deuda externa-Acuerdo 1725".
 
@@ -24976,21 +23590,11 @@ encuadren dentro de la normativa establecida.
 
 ### 18. Información al Banco Central de Chile
 
-Los bancos y las sociedades financieras deberán enviar a la Gerencia de
+Los bancos y las sociedades financieras deberán enviar al Banco Central de Chile, de conformidad con las disposiciones del Capítulo XVIII ya mencionado, la información que se indica, en las oportunidades que se señalan a continuación.
 
-Financiamiento Externo del Banco Central de Chile, de conformidad con las
+a) dentro de los cinco días hábiles bancarios siguientes a la fecha en que se cursen, comunicarán las operaciones realizadas conforme a estas normas;
 
-disposiciones del Capítulo XVIII ya mencionado, la información que se indica, en
-
-las oportunidades que se señalan a continuación.
-
-a) dentro de los cinco días hábiles bancarios siguientes a la fecha en que se
-
-cursen, comunicarán las operaciones realizadas conforme a estas normas;
-
-b) antes de las 14.00 horas del mismo día en que se efectúen, informarán las
-
-cesiones de márgenes realizadas.
+b) antes de las 14.00 horas del mismo día en que se efectúen, informarán las cesiones de márgenes realizadas.
 
 CAPITULO 13-21 (Bancos)
 
@@ -26070,17 +24674,13 @@ Las instituciones financieras pueden obtener el diferencial de cambio de que se 
 
 a) Castigo de créditos pactados, expresados o reajustables en moneda extranjera;
 
-b) Créditos vendidos al Banco Central de Chile en virtud del Acuerdo N° 1.555-07-840209 y sus modificaciones;
+b) Importaciones efectuadas para su propio uso;
 
-c) Importaciones efectuadas para su propio uso;
+c) Deudas de terceros en moneda extranjera que paguen al exterior en su calidad de garantes; y,
 
-d) Deudas de terceros en moneda extranjera que paguen al exterior en su calidad de garantes; y,
+d) Prepago de parte de los deudores de los créditos, siempre que en este caso dicho prepago se haya recibido antes del 1° de julio de 1985 y al tipo de cambio preferencial.
 
-e) Prepago de parte de los deudores de los créditos, siempre que en este caso dicho prepago se haya recibido antes del 1° de julio de 1985 y al tipo de cambio preferencial.
-
-Cuando los créditos a que se refieren las letras a), b) y d) precedentes, sean posteriormente pagados en forma parcial o total por los deudores o por otras personas obligadas a su pago, la institución financiera deberá transferir a éstos el pagaré que haya recibido del Banco Central de Chile por la diferencia de cambio de que se trate, o bien podrá emitir, a favor de las mismas
-
-personas,un pagaré por el mismo monto de capital, igual tasa de interés y haciendo coincidir su fecha de vencimiento con la del pagaré emitido por el Banco Central de Chile.
+Cuando los créditos a que se refieren las letras a) y c) precedentes, sean posteriormente pagados en forma parcial o total por los deudores o por otras personas obligadas a su pago, la institución financiera deberá transferir a éstos el pagaré que haya recibido del Banco Central de Chile por la diferencia de cambio de que se trate, o bien podrá emitir, a favor de las mismas personas,un pagaré por el mismo monto de capital, igual tasa de interés y haciendo coincidir su fecha de vencimiento con la del pagaré emitido por el Banco Central de Chile.
 
 ### 4. Importes susceptibles de cubrirse con acceso al diferencial cambiario
 
@@ -26164,31 +24764,11 @@ El plazo máximo para solicitar el diferencial cambiario de que se trata, es de 
 
 Las solicitudes que sean devueltas con reparos por el Banco Central de Chile, deberán ser presentadas nuevamente con las observaciones subsanadas, en un plazo de diez días hábiles bancarios, contados desde la fecha de la observación formulada por el Instituto Emisor.
 
-### 6. Créditos cedidos al Banco Central de Chile
-
-Las instituciones financieras que hubieren cedido cartera de colocaciones al Banco Central de Chile en virtud del Acuerdo N° 1.555-07-840209 y sus modificaciones, podrán requerir el diferencial cambiario que corresponda, respecto de las colocaciones cedidas, pactadas, expresadas o reajustables en moneda extranjera, con derecho a ese diferencial, solamente en los siguientes casos:
-
-a) Cuando se trate de colocaciones vencidas incluidas en la cartera cedida, consideradas irrecuperables; condición esta última que debe ser certificada por esta Superintendencia; y,
-
-b) Por los créditos pactados, expresados o reajustables en moneda extranjera con derecho al diferencial cambiario, que se transformen a créditos en moneda corriente nacional, como consecuencia del tratamiento financiero definitivo acordado con el respectivo deudor y siempre que se realice no antes del vencimiento del crédito pactado, expresado o reajustable en moneda extranjera.
-
-En los casos señalados, la entidad financiera cederá nuevos créditos al Banco Central de Chile con el fin de mantener inalterado el importe relativo a la obligación de recompra establecida en el respectivo contrato de compraventa de cartera.
-
-El diferencial cambiario que corresponda aplicar en estos casos, será el vigente en la respectiva fecha de vencimiento o en la oportunidad en que se produzca la transformación a que se refiere la letra b) de este número.
-
-No obstante lo anterior, las personas que paguen créditos que hayan sido cedidos al Instituto Emisor por los cuales la institución financiera acreedora no hubiera ejercido la opción antes referida, podrán requerir el diferencial que corresponda a la fecha del pago efectivo, de acuerdo con las disposiciones del Capítulo XIII del Compendio de Normas de Cambios Internacionales vigente antes del 19 de abril de 1990. En caso de que la entidad financiera hubiera hecho efectiva esa opción, el deudor recibirá el correspondiente diferencial de la entidad acreedora, sobre la misma base señalada en el numeral 3.2 precedente.
-
-El importe sobre el cual las instituciones financieras pueden requerir el diferencial cambiario que corresponda, en el caso de créditos expresados en moneda chilena, reajustables por la variación del tipo de cambio, no podrá ser superior al valor que representa en moneda extranjera el monto por el cual fueron cedidos los respectivos créditos. Dicho valor se determina sobre la base del tipo de cambio que corresponda, según lo señalado en la letra b) del numeral 5.2 precedente, que rija a la fecha de los respectivos vencimientos en el caso de créditos vencidos y del que regía a la fecha de cesión en el caso de los créditos vigentes.
-
-Respecto de los créditos que estuvieren expresados en moneda extranjera, el diferencial cambiario a que tuvieren derecho debe determinarse directamente sobre el monto en moneda extranjera en que se encuentre extendido el crédito respectivo más los intereses incluidos en la cesión, siguiendo al efecto un procedimiento similar al que se utilice para los créditos de la cartera propia.
-
-Si los intereses con derecho al diferencial cambiario que estuvieren incorporados en la cesión, se encontraren expresados en pesos moneda chilena, su valor en moneda extranjera se calculará en la misma forma señalada en el párrafo precedente.
-
-### 7. Modalidad operativa
+### 6. Modalidad operativa
 
 La modalidad operativa establecida en el Capítulo XIII ya mencionado, consiste en una compra y venta de divisas que realiza el Banco Central de Chile a las instituciones financieras a tipos de cambio diferenciados. Sin embargo, estas instituciones por razones de simplificación operarán en la forma que a continuación se indica:
 
-7.1. Compra venta de dólares.
+6.1. Compra venta de dólares.
 
 Las entidades financieras venderán a los deudores, cuando corresponda, los dólares necesarios para el pago de los créditos adeudados, calculados al tipo de cambio que se haya determinado.
 
@@ -26206,439 +24786,137 @@ Estas nóminas se confeccionarán según las instrucciones que al respecto ha im
 
 Las nóminas deben suscribirse con expresa declaración y bajo juramento de que los datos contenidos, así como los documentos anexos a ellas, son verídicos.
 
-7.2. Operatoria del Banco Central de Chile.
+6.2. Operatoria del Banco Central de Chile.
 
-El Banco Central de Chile hará entrega de las diferencias determinadas en las nóminas a que alude el numeral 7.1 de este capítulo, de acuerdo a las siguientes pautas:
+El Banco Central de Chile hará entrega de las diferencias determinadas en las nóminas a que alude el numeral 6.1 de este capítulo, de acuerdo a las siguientes pautas:
 
-7.2.1. El Banco Central de Chile entregará pagarés por el diferencial cambiario que corresponda, expresados en unidades de fomento, con vencimiento a seis años,de acuerdo con lo dispuesto en el Capítulo XIII del Compendio de Normas de Cambios Internacionales vigente antes del 19 de abril de 1990.
+6.2.1. El Banco Central de Chile entregará pagarés por el diferencial cambiario que corresponda, expresados en unidades de fomento, con vencimiento a seis años,de acuerdo con lo dispuesto en el Capítulo XIII del Compendio de Normas de Cambios Internacionales vigente antes del 19 de abril de 1990.
 
-7.2.2. Estos pagarés serán emitidos al portador y devengarán un interés del 3% anual, pagadero semestralmente, con una sola amortización final.
+6.2.2. Estos pagarés serán emitidos al portador y devengarán un interés del 3% anual, pagadero semestralmente, con una sola amortización final.
 
-7.2.3. Los pagarés tendrán las siguientes fechas de emisión nominales: 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año.
+6.2.3. Los pagarés tendrán las siguientes fechas de emisión nominales: 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año.
 
-7.2.4. Dichos pagarés serán emitidos en cortes de 50, 100, 500 y 1.000 unidades de fomento. Por los importes inferiores a 50 unidades de fomento que resulten de cada operación, se emitirá un solo pagaré para cada deudor. Las cantidades que resulten inferiores a una unidad de fomento, serán entregadas en efectivo o mediante el documento que determine el Banco Central de Chile.
+6.2.4. Dichos pagarés serán emitidos en cortes de 50, 100, 500 y 1.000 unidades de fomento. Por los importes inferiores a 50 unidades de fomento que resulten de cada operación, se emitirá un solo pagaré para cada deudor. Las cantidades que resulten inferiores a una unidad de fomento, serán entregadas en efectivo o mediante el documento que determine el Banco Central de Chile.
 
-7.2.5. Los pagarés y sus respectivos cupones por intereses, que sean presentados a cobro después de la fecha de vencimiento, serán pagados en pesos moneda corriente, al valor que ]a unidad de fomento tenga en la fecha de vencimiento.
+6.2.5. Los pagarés y sus respectivos cupones por intereses, que sean presentados a cobro después de la fecha de vencimiento, serán pagados en pesos moneda corriente, al valor que ]a unidad de fomento tenga en la fecha de vencimiento.
 
 El Banco Central de Chile podrá rescatar anticipadamente estos pagarés, en cuyo caso devengarán interés sólo hasta la fecha de su rescate.
 
-7.2.6. Los pagarés serán entregados por el Banco Central de Chile con fecha de emisión correspondiente al último día del trimestre calendario inmediatamente anterior a la fecha en que corresponda efectuar la devolución y descontará los intereses devengados entre esa fecha de emisión y la fecha de la operación.
+6.2.6. Los pagarés serán entregados por el Banco Central de Chile con fecha de emisión correspondiente al último día del trimestre calendario inmediatamente anterior a la fecha en que corresponda efectuar la devolución y descontará los intereses devengados entre esa fecha de emisión y la fecha de la operación.
 
-7.3. Pagos de créditos expresados en monedas distintas al dólar norteamericano.
+6.3. Pagos de créditos expresados en monedas distintas al dólar norteamericano.
 
 Cuando las operaciones acogidas a la modalidad de pago establecida en estas instrucciones estén expresadas en monedas extranjeras distintas al dólar norteamericano, se deberá hacer la conversión a la moneda estadounidense según las paridades vigentes en el último día hábil bancario del mes precedente a la fecha de pago, publicadas diariamente por el Banco Central de Chile, conforme a
 
 lo dispuesto en el N° 7 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales.
 
-### 8. Disposiciones generales
+### 7. Disposiciones generales
 
-8.1. Deudores acogidos a esta modalidad que a su vez hubieren otorgado créditos
+7.1. Deudores acogidos a esta modalidad que a su vez hubieren otorgado créditos en moneda extranjera a sus clientes.
 
-en moneda extranjera a sus clientes.
-
-Según lo dispone el Acuerdo del Comité Ejecutivo del Banco Central de Chile, los
-
-deudores de las instituciones financieras o de acreedores del exterior que se
-
-hubieren acogido a esta modalidad de pago y que, a su vez hubieren concedido
-
-créditos similares a terceros, deben traspasar a ellos dicho beneficio en la
-
-forma establecida por el Banco Central de Chile.
+Según lo dispone el Acuerdo del Comité Ejecutivo del Banco Central de Chile, los deudores de las instituciones financieras o de acreedores del exterior que se hubieren acogido a esta modalidad de pago y que, a su vez hubieren concedido créditos similares a terceros, deben traspasar a ellos dicho beneficio en la forma establecida por el Banco Central de Chile.
 
 8.2. Facultad de utilizar en forma optativa esta modalidad de pago.
 
-Las deudores de créditos pagaderos de acuerdo a la modalidad especial de pago a
+Las deudores de créditos pagaderos de acuerdo a la modalidad especial de pago a que se refiere este capítulo pueden, a su elección, acogerse o no a ella.
 
-que se refiere este capítulo pueden, a su elección, acogerse o no a ella.
+El hecho de que no lo hagan para un determinado vencimiento, no les invalida el derecho de tener acceso a la diferencia de cambio para los vencimientos siguientes.
 
-El hecho de que no lo hagan para un determinado vencimiento, no les invalida el
+### 8. Instrucciones contables
 
-derecho de tener acceso a la diferencia de cambio para los vencimientos
+8.1. Bancos.
 
-siguientes.
+8.1.1. Por las ventas y compras de dólares.
 
-### 9. Instrucciones contables
+Las divisas que los bancos vendan a los deudores de estos créditos, serán debitadas en la cuenta "Conversión Mercado Bancario" de la partida 2505 ó 4505 del formulario MB1, en la medida que correspondan a operaciones con acceso al mercado de cambios. Asimismo, el importe en pesos que reciban de ellos, lo acreditarán en la cuenta "Cambio Mercado Bancario" de las partidas ya indicadas del formulario MB1.
 
-9.1. Bancos.
+8.1.2. Por la diferencia de cambio que debe entregar el Banco Central de Chile.
 
-9.1.1. Por las ventas y compras de dólares.
+Los diferenciales de cambio a que se refiere el número 1 de este capítulo, que las instituciones financieras deben cobrar del Banco Central de Chile por cuenta de sus deudores, se registrarán por su correspondiente valor en pesos, en las cuentas "Diferencias de cambio por recibir del Banco Central de Chile-Acuerdo 1657" cuyo saldo se demuestra en la partida 2525 del formulario MB1, con abono a la cuenta "Acreedores por diferencias de cambio a pagar por el Banco Central de Chile-Acuerdo 1657", la que se incluye en la partida 4525 de dicho formulario.
 
-Las divisas que los bancos vendan a los deudores de estos créditos, serán
+Los importes a cobrar del Banco Central de Chile se deben contabilizar en las mencionadas cuentas, en la misma fecha en que se realice el pago de las respectivas operaciones y sus valores deben ser coincidentes con los que se expresen en las nóminas que se envíen al día siguiente al Instituto Emisor.
 
-debitadas en la cuenta "Conversión Mercado Bancario" de la partida 2505 ó 4505
+8.1.3. Pago de los créditos expresados en moneda extranjera pero pagaderos en moneda chilena y de aquéllos expresados en moneda chilena reajustables por la variación del tipo de cambio.
 
-del formulario MB1, en la medida que correspondan a operaciones con acceso al
+Los bancos deben recibir de los respectivos deudores el equivalente en moneda chilena de las deudas a que se refiere este numeral, al tipo de cambio vigente en la fecha del pago.
 
-mercado de cambios. Asimismo, el importe en pesos que reciban de ellos, lo
+En la misma oportunidad en que se reciban dichos pagos, procederán a calcular la diferencia de cambio a que se refiere el número 1 de este capítulo. Esta diferencia será contabilizada en las cuentas "Diferencias de cambio por recibir del Banco Central-Acuerdo 1657" y "Acreedores por diferencias de cambio a pagar por el Banco Central de Chile-Acuerdo 1657".
 
-acreditarán en la cuenta "Cambio Mercado Bancario" de las partidas ya indicadas
+8.2. Sociedades financieras.
 
-del formulario MB1.
+En el caso de las sociedades financieras que reciban el pago de créditos expresados en moneda extranjera pero pagaderos en moneda chilena y de aquéllos expresados en moneda chilena reajustables por la variación del tipo de cambio,deberán atenerse a las instrucciones dispuestas para bancos en el numeral 8.1.3 anterior.
 
-9.1.2. Por la diferencia de cambio que debe entregar el Banco Central de Chile.
+8.3. Diferencias de cambio en cobertura de créditos castigados, créditos cancelados mediante bienes recibidos en pago o adjudicados en la fecha del vencimiento o después de ella.
 
-Los diferenciales de cambio a que se refiere el número 1 de este capítulo, que
+Las instituciones financieras que cubran bajo esta modalidad en la fecha de vencimiento o después de ella créditos castigados o cancelados mediante bienes recibidos en pago o adjudicados, contabilizarán las diferencias de cambio por recibir del Banco Central de Chile en la cuenta "Diferencias de cambio por recibir del Banco Central-Acuerdo 1657".
 
-las instituciones financieras deben cobrar del Banco Central de Chile por cuenta
+8.4. Diferencias de cambio en cobertura de créditos castigados, pagados mediante la cesión o adjudicación de bienes o pagados antes de su vencimiento al tipo de cambio preferencial.
 
-de sus deudores, se registrarán por su correspondiente valor en pesos, en las
+Las diferencias sobre obligaciones con derecho al diferencial cambiario, cuyo monto total no sea superior a US$ 50.000 por deudor, pagadas anticipadamente en alguna de las formas indicadas, antes del 1° de julio de 1985, al tipo de cambio
 
-cuentas "Diferencias de cambio por recibir del Banco Central de Chile-Acuerdo
+preferencial, o castigadas también antes de esa fecha al referido tipo de cambio,pero cuyo vencimiento pactado aún no se haya cumplido, se mantendrán registradas en la cuenta "Diferencias de Cambio por recuperar del Banco Central- Acuerdo 1.657",de la partida 2120 del formulario MB1.
 
-1657" cuyo saldo se demuestra en la partida 2525 del formulario MB1, con abono a
-
-la cuenta "Acreedores por diferencias de cambio a pagar por el Banco Central de
-
-Chile-Acuerdo 1657", la que se incluye en la partida 4525 de dicho formulario.
-
-Los importes a cobrar del Banco Central de Chile se deben contabilizar en las
-
-mencionadas cuentas, en la misma fecha en que se realice el pago de las
-
-respectivas operaciones y sus valores deben ser coincidentes con los que se
-
-expresen en las nóminas que se envíen al día siguiente al Instituto Emisor.
-
-9.1.3. Pago de los créditos expresados en moneda extranjera pero pagaderos en
-
-moneda chilena y de aquéllos expresados en moneda chilena reajustables por la
-
-variación del tipo de cambio.
-
-Los bancos deben recibir de los respectivos deudores el equivalente en moneda
-
-chilena de las deudas a que se refiere este numeral, al tipo de cambio vigente
-
-en la fecha del pago.
-
-En la misma oportunidad en que se reciban dichos pagos, procederán a calcular la
-
-diferencia de cambio a que se refiere el número 1 de este capítulo. Esta
-
-diferencia será contabilizada en las cuentas "Diferencias de cambio por recibir
-
-del Banco Central-Acuerdo 1657" y "Acreedores por diferencias de cambio a pagar
-
-por el Banco Central de Chile-Acuerdo 1657".
-
-9.2. Sociedades financieras.
-
-En el caso de las sociedades financieras que reciban el pago de créditos
-
-expresados en moneda extranjera pero pagaderos en moneda chilena y de aquéllos
-
-expresados en moneda chilena reajustables por la variación del tipo de
-
-cambio,deberán atenerse a las instrucciones dispuestas para bancos en el numeral
-
-9.1.3 anterior.
-
-9.3. Diferencias de cambio en cobertura de créditos castigados, créditos
-
-cancelados mediante bienes recibidos en pago o adjudicados en la fecha del
-
-vencimiento o después de ella.
-
-Las instituciones financieras que cubran bajo esta modalidad en la fecha de
-
-vencimiento o después de ella créditos castigados o cancelados mediante bienes
-
-recibidos en pago o adjudicados, contabilizarán las diferencias de cambio por
-
-recibir del Banco Central de Chile en la cuenta "Diferencias de cambio por
-
-recibir del Banco Central-Acuerdo 1657".
-
-9.4. Diferencias de cambio en cobertura de créditos castigados, pagados mediante
-
-la cesión o adjudicación de bienes o pagados antes de su vencimiento al tipo de
-
-cambio preferencial.
-
-Las diferencias sobre obligaciones con derecho al diferencial cambiario, cuyo
-
-monto total no sea superior a US$ 50.000 por deudor, pagadas anticipadamente en
-
-alguna de las formas indicadas, antes del 1° de julio de 1985, al tipo de cambio
-
-preferencial, o castigadas también antes de esa fecha al referido tipo de
-
-cambio,pero cuyo vencimiento pactado aún no se haya cumplido, se mantendrán
-
-registradas en la cuenta "Diferencias de Cambio por recuperar del Banco Central-
-
-Acuerdo 1.657",de la partida 2120 del formulario MB1.
-
-Sin embargo, las entidades financieras deberán ajustar mensualmente el saldo
-
-dela referida cuenta de conformidad con el importe que se determine al realizar
-
-el cálculo que a continuación se indica:
+Sin embargo, las entidades financieras deberán ajustar mensualmente el saldo dela referida cuenta de conformidad con el importe que se determine al realizar el cálculo que a continuación se indica:
 
 D = N x (T - F), donde:
 
 D = es el diferencial cambiario por cobrar a esa fecha.
 
-N = es el monto en dólares de los créditos pagados anticipadamente, sea
+N = es el monto en dólares de los créditos pagados anticipadamente, sea efectivamente o por dación o adjudicación de bienes en pago, o castigados, por los cuales se tendrá acceso a ese diferencial.
 
-efectivamente o por dación o adjudicación de bienes en pago, o castigados, por
+T = es el tipo de cambio del último día del mes, establecido por esta Superintendencia para el ajuste de las cuentas Cambio.
 
-los cuales se tendrá acceso a ese diferencial.
+F = es el equivalente en pesos moneda nacional, de 0,0399 UF al valor de esa Unidad para el último día del mes respectivo.
 
-T = es el tipo de cambio del último día del mes, establecido por esta
+El importe de este ajuste se debitará en la cuenta "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidada" de la partida 5715 del formulario MR1, o bien, se acreditará en la cuenta "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidada" de la partida 7715 del formulario MR1, según corresponda.
 
-Superintendencia para el ajuste de las cuentas Cambio.
+8.5. Diferencias de cambio correspondientes a créditos pagados por los deudores antes de su vencimiento.
 
-F = es el equivalente en pesos moneda nacional, de 0,0399 UF al valor de esa
+Cuando los deudores paguen estas operaciones antes de su vencimiento, las instituciones financieras registrarán provisionalmente la diferencia de cambio que corresponda a la fecha del prepago y que deberá ajustarse en la fecha de vencimiento pactada, en las cuentas "Diferencias de cambio por a justar-Acuerdo 1657" de la partida 2525 del formulario MB1, con abono a la cuenta "Acreedores por diferencias de cambio por ajustar-Acuerdo 1657", cuyo saldo se demuestra en la partida 4525 del formulario MB1.
 
-Unidad para el último día del mes respectivo.
+En la fecha de vencimiento de las respectivas operaciones, las instituciones financieras revertirán el asiento contable indicado en el párrafo precedente y registrarán la diferencia de cambio definitiva que corresponde recuperar del Banco Central de Chile en las cuentas "Diferencias de cambio por recibir del Banco Central-Acuerdo 1657", con abono a "Acreedores por diferencias de cambio apagar por e] Banco Central-Acuerdo 1657".
 
-El importe de este ajuste se debitará en la cuenta "Pérdidas por variación del
+8.6. Cobro de las diferencias. Envío de las nóminas al Banco Central de Chile.
 
-tipo de cambio de recursos en moneda extranjera liquidada" de la partida 5715
+Las instituciones financieras deben cobrar las diferencias de que tratan estas instrucciones, mediante nóminas que enviarán diariamente al Instituto Emisor. La suma de las nóminas que se remitan debe ser coincidente con el saldo de la cuenta "Diferencias de cambio por recibir del Banco Central-Acuerdo 1657".
 
-del formulario MR1, o bien, se acreditará en la cuenta "Utilidades por variación
+Los importes de las operaciones incluidas en las nóminas de cobro que se presentan al Banco Central de Chile, se debitarán individualmente en la cuenta "Diferencias de cambio-Acuerdo 1657 en trámite de cobro", la que se incluirá en la partida 2525 del formulario MB1, con abono a "Diferencias de cambio por recibir del Banco Central Acuerdo 1657". Esta contabilización se hará en la misma fecha en que las respectivas operaciones sean remitidas al Instituto Emisor.
 
-del tipo de cambio de recursos en moneda extranjera liquidada" de la partida
+Conforme al mecanismo establecido, las instituciones financieras deben enviar al Banco Central de Chile las nóminas de cobro con todas las operaciones pagadas efectivamente el día anterior, de modo que la cuenta "Diferencias de cambio por recibir del Banco Central-Acuerdo 1657" debe quedar sin saldo al inicio de las operaciones de cada día y, consecuentemente, el saldo al cierre diario corresponderá exclusivamente a las diferencias de cambio registradas en la fecha y que deben ser cobradas al Banco Central de Chile en el día siguiente.
 
-7715 del formulario MR1, según corresponda.
+8.7. Operaciones rechazadas por el Banco Central de Chile.
 
-9.5. Diferencias de cambio correspondientes a créditos pagados por los deudores
+Los importes de las operaciones incluidas en una nómina de cobro y que sean rechazadas por el Banco Central de Chile por cualquier motivo, que una vez solucionado ocasione una nueva presentación, serán debitados en la cuenta "Diferencias de cambio-Acuerdo 1657 pendientes por reparos", que se demuestra en la partida 2525 del formulario MB1. Los importes de estas operaciones serán acreditados, de acuerdo a lo expresado en el numeral 8.5 de este capítulo, a la cuenta "Diferencias de cambio-Acuerdo 1657 en trámite de cobro".
 
-antes de su vencimiento.
+Una vez solucionado el reparo, se enviará nuevamente la operación al Banco Central de Chile, pero en nómina separada. Cuando ocurra la nueva presentación, se registrará la diferencia a cobrar en la cuenta "Diferencias de cambio-Acuerdo 1657 en trámite de cobro", con abono a "Diferencias de cambio-Acuerdo 1657 pendientes por reparos".
 
-Cuando los deudores paguen estas operaciones antes de su vencimiento, las
+8.8. Recepción del diferencial cambiario pagado por el Banco Central de Chile.
 
-instituciones financieras registrarán provisionalmente la diferencia de cambio
+8.8.1. Diferencias a favor de terceros.
 
-que corresponda a la fecha del prepago y que deberá ajustarse en la fecha de
+Al recibir los correspondientes importes a favor de terceros, las instituciones financieras debitarán "Acreedores por diferencias de cambio a pagar por el Banco Central de Chile-Acuerdo 1657" con abono a "Diferencias de cambio-Acuerdo 1657 en trámite de cobro" por el monto que se reciba. Así, el saldo de esta cuenta reflejará el importe de las operaciones presentadas a cobro al Banco Central de Chile y que aún no han sido pagadas o rechazadas por el Instituto Emisor.
 
-vencimiento pactada, en las cuentas "Diferencias de cambio por a justar-Acuerdo
+Simultáneamente deberán registrar el importe de los documentos que reciban, en las cuentas "Documentos recibidos del Banco Central por diferencias de cambio-Acuerdo 1657" y "Documentos emitidos por el Banco Central por diferencias de cambio-Acuerdo 1657 por entregar a clientes", que se demuestran en las partidas 9260 "Valores en custodia" y 9900 "Depositantes de valores en custodia" del formulario MB1, respectivamente.
 
-1657" de la partida 2525 del formulario MB1, con abono a la cuenta "Acreedores
+8.8.2. Diferencias a favor de las instituciones financieras.
 
-por diferencias de cambio por ajustar-Acuerdo 1657", cuyo saldo se demuestra en
+Las instituciones financieras registrarán los pagarés que reciban por estas diferencias a su favor, en la cuenta "Documentos del Banco Central con mercado secundario", de la partida 1705, con abono a "Diferencias de cambio-Acuerdo 1657 en tramite de cobro" 8.9. Adquisición a terceros de los pagarés emitidos por el Banco Central de Chile.
 
-la partida 4525 del formulario MB1.
+Las entidades financieras pueden adquirir de los respectivos beneficiarios los pagarés que emita el Banco Central de Chile en pago de las diferencias de cambio de que trata este capítulo.
 
-En la fecha de vencimiento de las respectivas operaciones, las instituciones
+Los documentos adquiridos se contabilizarán de acuerdo con las instrucciones del Capítulo 8-21 de esta Recopilación Actualizada de Normas.
 
-financieras revertirán el asiento contable indicado en el párrafo precedente y
+8.10. Control de partidas vigentes.
 
-registrarán la diferencia de cambio definitiva que corresponde recuperar del
+Las entidades financieras deben mantener un control permanente sobre los importes individuales que permanecen vigentes en las cuentas "Diferencias de cambio-Acuerdo 1657 en trámite de cobro", "Diferencias de cambio-Acuerdo 1657 pendientes por reparos" y "Diferencias de cambio por recibir del Banco Central-Acuerdo 1657". A lo menos una vez al mes debe efectuarse una conciliación de las partidas pendientes con el saldo de dichas cuentas.
 
-Banco Central de Chile en las cuentas "Diferencias de cambio por recibir del
+La suma de los saldos de las citadas cuentas, deducidas las diferencias en trámite de cobro, pendientes por reparo o por recibir del Banco Central a favor de la propia institución financiera según lo establecido en el numeral 3.2 anterior, debe coincidir con el saldo de la cuenta "Acreedores por diferencias de cambio a pagar por el Banco Central de Chile-Acuerdo 1657".
 
-Banco Central-Acuerdo 1657", con abono a "Acreedores por diferencias de cambio
+Esta última cuenta se debitará solamente por los pagos efectuados por el Banco Central de Chile y por las devoluciones o rechazos definitivos de operaciones que realice el Instituto Emisor. En todo caso, los débitos se harán por los mismos importes ingresados y que se encuentren vigentes a la fecha del cargo.
 
-apagar por e] Banco Central-Acuerdo 1657".
+### 11. Información al Banco Central de Chile
 
-9.6. Cobro de las diferencias. Envío de las nóminas al Banco Central de Chile.
-
-Las instituciones financieras deben cobrar las diferencias de que tratan estas
-
-instrucciones, mediante nóminas que enviarán diariamente al Instituto Emisor. La
-
-suma de las nóminas que se remitan debe ser coincidente con el saldo de la
-
-cuenta "Diferencias de cambio por recibir del Banco Central-Acuerdo 1657".
-
-Los importes de las operaciones incluidas en las nóminas de cobro que se
-
-presentan al Banco Central de Chile, se debitarán individualmente en la cuenta
-
-"Diferencias de cambio-Acuerdo 1657 en trámite de cobro", la que se incluirá en
-
-la partida 2525 del formulario MB1, con abono a "Diferencias de cambio por
-
-recibir del Banco Central Acuerdo 1657". Esta contabilización se hará en la
-
-misma fecha en que las respectivas operaciones sean remitidas al Instituto
-
-Emisor.
-
-Conforme al mecanismo establecido, las instituciones financieras deben enviar al
-
-Banco Central de Chile las nóminas de cobro con todas las operaciones pagadas
-
-efectivamente el día anterior, de modo que la cuenta "Diferencias de cambio por
-
-recibir del Banco Central-Acuerdo 1657" debe quedar sin saldo al inicio de las
-
-operaciones de cada día y, consecuentemente, el saldo al cierre diario
-
-corresponderá exclusivamente a las diferencias de cambio registradas en la fecha
-
-y que deben ser cobradas al Banco Central de Chile en el día siguiente.
-
-9.7. Operaciones rechazadas por el Banco Central de Chile.
-
-Los importes de las operaciones incluidas en una nómina de cobro y que sean
-
-rechazadas por el Banco Central de Chile por cualquier motivo, que una vez
-
-solucionado ocasione una nueva presentación, serán debitados en la cuenta
-
-"Diferencias de cambio-Acuerdo 1657 pendientes por reparos", que se demuestra en
-
-la partida 2525 del formulario MB1. Los importes de estas operaciones serán
-
-acreditados, de acuerdo a lo expresado en el numeral 9.5 de este capítulo, a la
-
-cuenta "Diferencias de cambio-Acuerdo 1657 en trámite de cobro".
-
-Una vez solucionado el reparo, se enviará nuevamente la operación al Banco
-
-Central de Chile, pero en nómina separada. Cuando ocurra la nueva presentación,
-
-se registrará la diferencia a cobrar en la cuenta "Diferencias de cambio-Acuerdo
-
-1657 en trámite de cobro", con abono a "Diferencias de cambio-Acuerdo 1657
-
-pendientes por reparos".
-
-9.8. Recepción del diferencial cambiario pagado por el Banco Central de Chile.
-
-9.8.1. Diferencias a favor de terceros.
-
-Al recibir los correspondientes importes a favor de terceros, las instituciones
-
-financieras debitarán "Acreedores por diferencias de cambio a pagar por el Banco
-
-Central de Chile-Acuerdo 1657" con abono a "Diferencias de cambio-Acuerdo 1657
-
-en trámite de cobro" por el monto que se reciba. Así, el saldo de esta cuenta
-
-reflejará el importe de las operaciones presentadas a cobro al Banco Central de
-
-Chile y que aún no han sido pagadas o rechazadas por el Instituto Emisor.
-
-Simultáneamente deberán registrar el importe de los documentos que reciban, en
-
-las cuentas "Documentos recibidos del Banco Central por diferencias de cambio-
-
-Acuerdo 1657" y "Documentos emitidos por el Banco Central por diferencias de
-
-cambio-Acuerdo 1657 por entregar a clientes", que se demuestran en las partidas
-
-9260 "Valores en custodia" y 9900 "Depositantes de valores en custodia" del
-
-formulario MB1, respectivamente.
-
-9.8.2. Diferencias a favor de las instituciones financieras.
-
-Las instituciones financieras registrarán los pagarés que reciban por estas
-
-diferencias a su favor, en la cuenta "Pagarés del Banco Central por diferencias
-
-de cambio propias-Acuerdo 1657", la que se demuestra en la partida 1705
-
-"Documentos emitidos por el Banco Central" del formulario MB1, con abono a
-
-"Diferencias de cambio-Acuerdo 1657 en trámite de cobro".
-
-9.9. Adquisición a terceros de los pagarés emitidos por el Banco Central de
-
-Chile.
-
-Las entidades financieras pueden adquirir de los respectivos beneficiarios los
-
-pagarés que emita el Banco Central de Chile en pago de las diferencias de cambio
-
-de que trata este capítulo.
-
-Los documentos adquiridos se contabilizarán por su valor par, esto es, capital
-
-reajustado más intereses devengados hasta la fecha de adquisición, en la cuenta
-
-"Pagarés del Banco Central por diferencias de cambio-Acuerdo 1657 adquiridos de
-
-terceros", que se demuestra en la partida 1705 del formulario MB1.
-
-Las diferencias entre el valor de adquisición y el valor del documento a la
-
-fecha de la compra se acreditarán en la cuenta "Beneficias obtenidos y no
-
-devengados por compra de pagarés Acuerdo 1657", que se demuestra en la partida
-
-4120 "Pasivo transitorio" del formulario MB1. Al término de cada mes, se
-
-traspasará la parte devengada a la cuenta "Beneficios por adquisición de pagarés
-
-del Banco Central-Acuerdo 1657", de la partida 7610 del formulario MR1.
-
-Si el precio de adquisición resultara mayor que el valor par antes señalado, la
-
-diferencia entre ambos importes se debitará en la cuenta "Diferencias de precio
-
-diferida por compra de pagarés-Acuerdo 1657", la que se demuestra en la partida
-
-2120 del formulario MB1. Al término de cada mes, se traspasará la parte
-
-proporcional al plazo remanente del documento a la cuenta "Diferencias de precio
-
-por adquisición de pagarés del Banco Central-Acuerdo 1657" cuyo saldo se
-
-demuestra en la partida 5610 del formulario MR1.
-
-9.10. Intereses y reajustes devengados.
-
-Los intereses y reajustes que devenguen los referidos pagarés a contar de la
-
-fecha de su adquisición o recepción, se acreditarán a las cuentas "Intereses
-
-sobre pagarés del Banco Central-Acuerdo 1657" y "Reajustes ganados sobre pagarés
-
-Banco Central-Acuerdo 1657" que se demuestran en las partidas 7150 y 7350 del
-
-formulario MR1, respectivamente, con cargo a la cuenta "Intereses por cobrar
-
-sobre pagarés Banco Central-Acuerdo 1657" y a la cuenta complementaria"Reajustes
-
-por cobrar sobre pagarés Banco Central-Acuerdo 1657".
-
-9.11. Control de partidas vigentes.
-
-Las entidades financieras deben mantener un control permanente sobre los
-
-importes individuales que permanecen vigentes en las cuentas "Diferencias de
-
-cambio-Acuerdo 1657 en trámite de cobro", "Diferencias de cambio-Acuerdo 1657
-
-pendientes por reparos" y "Diferencias de cambio por recibir del Banco Central-
-
-Acuerdo 1657". A lo menos una vez al mes debe efectuarse una conciliación de las
-
-partidas pendientes con el saldo de dichas cuentas.
-
-La suma de los saldos de las citadas cuentas, deducidas las diferencias en
-
-trámite de cobro, pendientes por reparo o por recibir del Banco Central a favor
-
-de la propia institución financiera según lo establecido en el numeral 3.2
-
-anterior, debe coincidir con el saldo de la cuenta "Acreedores por diferencias
-
-de cambio a pagar por el Banco Central de Chile-Acuerdo 1657".
-
-Esta última cuenta se debitará solamente por los pagos efectuados por el Banco
-
-Central de Chile y por las devoluciones o rechazos definitivos de operaciones
-
-que realice el Instituto Emisor. En todo caso, los débitos se harán por los
-
-mismos importes ingresados y que se encuentren vigentes a la fecha del cargo.
-
-### 10. Información al Banco Central de Chile
-
-Las instituciones financieras deben enviar al Banco Central de Chile,
-
-conjuntamente con las nóminas para el cobro de las diferencias de cambio, el
-
-formulario "Informe Diario sobre Diferencias de Cambio Acuerdo 1657", de
-
-conformidad con el formulario e instrucciones que se adjuntan en Anexo N° 1.
+Las instituciones financieras deben enviar al Banco Central de Chile, conjuntamente con las nóminas para el cobro de las diferencias de cambio, el formulario "Informe Diario sobre Diferencias de Cambio Acuerdo 1657", de conformidad con el formulario e instrucciones que se adjuntan en Anexo N° 1.
 
 ANEXO N° 1
 
@@ -30146,7 +28424,7 @@ Los depósitos a plazo constituidos con divisas cuyo retorno sea informado al Ba
 
 3.2. Intereses.
 
-Los intereses que devenguen los depósitos a plazo a que se refiere este capítulo, serán debitados en la cuenta que corresponda de la partida 5110, 5120 ó 5130, con abono a la respectiva cuenta de "Intereses por pagar" de la partida 3805.
+Los intereses que devenguen los depósitos a plazo a que se refiere este capítulo, serán debitados en la cuenta que corresponda de la partida 5110, 5120 ó 5130, con abono a la respectiva cuenta complementaria de intereses de los pasivos registrados en la partida 3020 ó 3025.
 
 CAPITULO 14-7 (Bancos)
 
@@ -31268,59 +29546,17 @@ registrados de la siguiente forma:
 
 a) Colocaciones
 
-Los saldos en moneda extranjera de los créditos para financiar importaciones a
-
-que se refiere este capítulo se incluirán en la cuenta "Créditos para
-
-importación con financiamiento del Banco Central o por su intermedio", de la
-
-partida 1220, cuando correspondan a los créditos originalmente pactados. En caso
-
-de reprogramaciones u otros cambios en las condiciones de los créditos, los
-
-saldos derivados de las obligaciones primitivas de los deudores pueden
-
-mantenerse en las cuentas dispuestas para el efecto, en concordancia con las
-
-disposiciones que impartió esta Superintendencia en relación con
-
-reprogramaciones o reestructuraciones de deudas.
+Los saldos en moneda extranjera de los créditos para financiar importaciones a que se refiere este capítulo se incluirán en la cuenta "Créditos para importación con financiamiento del Banco Central o por su intermedio", de la partida 1220, cuando correspondan a los créditos originalmente pactados. En caso de reprogramaciones u otros cambios en las condiciones de los créditos, los saldos derivados de las obligaciones primitivas de los deudores pueden mantenerse en las cuentas dispuestas para el efecto, en concordancia con las disposiciones que impartió esta Superintendencia en relación con reprogramaciones o reestructuraciones de deudas.
 
 b) Obligaciones con el Banco Central de Chile.
 
-Los saldos en moneda extranjera que se mantuvieren por las líneas de crédito, se
-
-incluirán en la cuenta "Adeudado al Banco Central de Chile por créditos
-
-concedidos con financiamiento del Instituto Emisor", de la partida 3455 del
-
-formulario MB1, sin perjuicio de mantenerse identificados los montos inherentes
-
-a cada línea de crédito, cuando corresponda, en registros auxiliares o en
-
-subcuentas.
+Los saldos en moneda extranjera que se mantuvieren por las líneas de crédito, se incluirán en la cuenta "Adeudado al Banco Central de Chile por créditos concedidos con financiamiento del Instituto Emisor", de la partida 3455 del formulario MB1, sin perjuicio de mantenerse identificados los montos inherentes a cada línea de crédito, cuando corresponda, en registros auxiliares o en subcuentas.
 
 c) Intereses.
 
-De acuerdo con las disposiciones que rigen para estas operaciones, los intereses
+De acuerdo con las disposiciones que rigen para estas operaciones, los intereses devengados por las entidades bancarias sobre las colocaciones que mantengan con cargo a las líneas de crédito antes indicadas deben registrarse, en moneda chilena, con cargo a la cuenta complementaria de intereses de colocaciones y con abono a la respectiva cuenta de resultados de la partida 7115.
 
-devengados por las entidades bancarias sobre las colocaciones que mantengan con
-
-cargo a las líneas de crédito antes indicadas deben registrarse, en moneda
-
-chilena, con cargo a la cuenta "Intereses por cobrar" de la partida 1810 del
-
-formulario MB1 y con abono a la cuenta "Intereses ganados" de la partida 7115
-
-del formulario MR1.
-
-A su vez, los intereses adeudados por las obligaciones con el Banco Central de
-
-Chile, se registrarán, en moneda chilena, en la cuenta "Intereses por pagar"
-
-dela partida 3810 del formulario MB1, con cargo a la cuenta "Intereses pagados"
-
-dela partida 5155 del formulario MR1.
+A su vez, los intereses adeudados por las obligaciones con el Banco Central de Chile, se registrarán, en moneda chilena, en la cuenta complementaria de intereses de la partida 3455, con cargo a la respectiva cuenta de resultados de la partida 5155.
 
 3.- Limites legales.
 
