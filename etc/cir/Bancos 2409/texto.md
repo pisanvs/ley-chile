@@ -37380,41 +37380,23 @@ liquidación que debe entregarle el banco.
 
 a) Cartas de crédito financiadas por el banco emisor.
 
-Debe: - "Deudores por créditos negociables a la vista" subcuenta "Destino zonas
+Debe: - "Deudores por créditos negociables a la vista" subcuenta "Destino zonas francas", cuando amparen el embarque de mercadería destinada a las zonas francas, o "Destino resto del país", en los demás casos.
 
-francas", cuando amparen el embarque de mercadería destinada a las zonas
+- "Deudores por créditos negociables a plazo sin aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país".
 
-francas, o "Destino resto del país", en los demás casos.
+- "Deudores por créditos negociados a plazo con aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país".
 
-- "Deudores por créditos negociables a plazo sin aceptación de letra" subcuenta
+Los saldos de estas cuentas se demostrarán en la partida 1615 del formulario MB1.
 
-"Destino zonas francas" o "Destino resto del país".
-
-- "Deudores por créditos negociados a plazo con aceptación de letra" subcuenta
-
-"Destino zonas francas" o "Destino resto del país".
-
-Los saldos de estas cuentas se demostrarán en la partida 1615 del formulario
-
-MB1.
-
-Haber: - "Cartas de crédito por negociar-ALADI", cuando se trate de créditos
-
-cuyo pago deba efectuarse por intermedio de un Convenio de Pagos y Créditos
-
-Recíproco, o bien,
+Haber: - "Cartas de crédito por negociar-ALADI", cuando se trate de créditos cuyo pago deba efectuarse por intermedio de un Convenio de Pagos y Créditos Recíproco, o bien,
 
 -"Cartas de crédito por negociar-Otros países".
 
-Los saldos de estas cuentas se demostrarán en la partida 3615 del formulario
-
-MB1.
+Los saldos de estas cuentas se demostrarán en la partida 3615 del formulario MB1.
 
 b) Cartas de crédito pagadas en moneda extranjera por el ordenante.
 
-Debe: "Caja" o la cuenta que corresponda por la recepción de la moneda
-
-extranjera.
+Debe: "Caja" o la cuenta que corresponda por la recepción de la moneda extranjera.
 
 Haber: - "Cartas de crédito enteradas en efectivo-ALADI", o bien,
 
@@ -37422,15 +37404,11 @@ Haber: - "Cartas de crédito enteradas en efectivo-ALADI", o bien,
 
 El saldo de estas cuentas se demostrará en la partida 3010 del formulario MB1.
 
-c) Cartas de crédito abiertas con depósito provisional en moneda chilena por el
-
-ordenante.
+c) Cartas de crédito abiertas con depósito provisional en moneda chilena por el ordenante.
 
 i) Moneda extranjera.
 
-Debe: "Moneda extranjera vendida condicionalmente-Créditos por negociar", la que
-
-se demostrará en la partida 2525 del formulario MB1.
+Debe: "Moneda extranjera vendida condicionalmente-Créditos por negociar", la que se demostrará en la partida 2525 del formulario MB1.
 
 Haber: - "Cartas de crédito por negociar-ALADI", o bien,
 
@@ -37440,199 +37418,85 @@ ii) Moneda chilena.
 
 Debe: "Caja" o la cuenta recepción de la moneda que corresponda por la chilena.
 
-Haber: - "Pagos a cuenta de ventas condicionales de monedas extranjeras", de la
+Haber: - "Pagos a cuenta de ventas condicionales de monedas extranjeras", de la partida 4525 del formulario MB1, hasta por el equivalente del importe en moneda extranjera debitado en "Moneda extranjera vendida condicionalmente-Créditos por negociar", calculado al tipo de cambio fijado por esta Superintendencia.
 
-partida 4525 del formulario MB1, hasta por el equivalente del importe en moneda
-
-extranjera debitado en "Moneda extranjera vendida condicionalmente-Créditos por
-
-negociar", calculado al tipo de cambio fijado por esta Superintendencia.
-
-- "Pagos a cuenta de créditos por liquidar", de la partida 3010 del formulario
-
-MB1, por el monto enterado por el importador, que supere a la suma acreditada
-
-en"Pagos a cuenta de ventas condicionales de moneda extranjera.
+- "Pagos a cuenta de créditos por liquidar", de la partida 3010 del formulario MB1, por el monto enterado por el importador, que supere a la suma acreditada en"Pagos a cuenta de ventas condicionales de moneda extranjera.
 
 5.1.2.- Negociación.
 
-Cuando el banco emisor reciba de su corresponsal la comunicación a la cual
-
-adjunte los documentos requeridos en la carta de crédito, procederá a efectuar
-
-el siguiente asiento contable:
+Cuando el banco emisor reciba de su corresponsal la comunicación en la que le informe que la carta de crédito ha sido negociada, procederá a efectuar el siguiente asiento contable:
 
 a) Cartas de crédito financiadas por el banco.
 
-Debe: - "Anticipos para importación" subcuenta "Destino zonas francas" o
+Debe: - "Anticipos para importación" subcuenta "Destino zonas francas" o "Destino resto del país", según corresponda.
 
-"Destino resto del país", según corresponda.
+- "Deudores por cartas de crédito negociadas a plazo sin aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país".
 
-- "Deudores por cartas de crédito negociadas a plazo sin aceptación de letra"
+- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país", o bien,
 
-subcuenta "Destino zonas francas" o "Destino resto del país".
+- "Créditos para importación" subcuenta "Destino zonas francas" o "Destino resto del país".
 
-- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra"
+El saldo de las tres primeras cuentas señaladas se reflejará en la partida 1125 del formulario MB1, en tanto que el de la última se demostrará en la partida 1220 del referido formulario.
 
-subcuenta "Destino zonas francas" o "Destino resto del país", o bien,
+En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Deudores por cartas de crédito negociadas bajo reserva" subcuenta "Destino zonas francas" o "Destino resto del país", de la partida 1125 del formulario MB1. Cuando se reciba la conformidad del ordenante, se traspasará alas cuentas antes señaladas.
 
-- "Créditos para importación" subcuenta "Destino zonas francas" o "Destino resto
+Haber: - "Comisiones de agente por pagar", cuando proceda, de la partida 3010 del formulario MB1.
 
-del país".
+- "Obligaciones por créditos negociados a plazo-ALADI", que se demostrará en la partida 3520 ó 3565, del formulario MB1.
 
-El saldo de las tres primeras cuentas señaladas se reflejará en la partida 1125
+- "Obligaciones por créditos negociados a plazo Otros países", cuyo saldo se reflejará en las partidas 3505, 3515, 3555 ó 3560, según sea el caso, del formulario MB1.
 
-del formulario MB1, en tanto que el de la última se demostrará en la partida
+- La cuenta que corresponda por el desembolso de la moneda extranjera, en caso de tratarse de una carta de crédito pagadera a la vista, con recursos del banco emisor. En caso que este pago se realice con recursos que se obtengan en el exterior para tal efecto, se deberán acreditar las cuentas "Adeudado a bancos y corresponsales del exterior" de la partida 3505, 3510 ó 3555 del formulario MB1, "Adeudado al exterior a oficinas del mismo banco" de la partida 3515 ó 3560 del formulario MB1, o bien, "Adeudado a bancos y corresponsales con rembolso a través de convenios ALADI" de la partida 3520 ó 3565 del referido formulario,según corresponda.
 
-1220 del referido formulario.
-
-En caso que la carta de crédito se haya negociado bajo reserva y aún no se
-
-hubiere recibido la conformidad del ordenante, su importe se deberá registrar en
-
-la cuenta "Deudores por cartas de crédito negociadas bajo reserva" subcuenta
-
-"Destino zonas francas" o "Destino resto del país", de la partida 1125 del
-
-formulario MB1. Cuando se reciba la conformidad del ordenante, se traspasará
-
-alas cuentas antes señaladas.
-
-Haber: - "Comisiones de agente por pagar", cuando proceda, de la partida 3010
-
-del formulario MB1.
-
-- "Obligaciones por créditos negociados a plazo-ALADI", que se demostrará en la
-
-partida 3520 ó 3565, del formulario MB1.
-
-- "Obligaciones por créditos negociados a plazo Otros países", cuyo saldo se
-
-reflejará en las partidas 3505, 3515, 3555 ó 3560, según sea el caso, del
-
-formulario MB1.
-
-- La cuenta que corresponda por el desembolso de la moneda extranjera, en caso
-
-de tratarse de una carta de crédito pagadera a la vista, con recursos del banco
-
-emisor. En caso que este pago se realice con recursos que se obtengan en el
-
-exterior para tal efecto, se deberán acreditar las cuentas "Adeudado a bancos y
-
-corresponsales del exterior" de la partida 3505, 3510 ó 3555 del formulario MB1,
-
-"Adeudado al exterior a oficinas del mismo banco" de la partida 3515 ó 3560 del
-
-formulario MB1, o bien, "Adeudado a bancos y corresponsales con rembolso a
-
-través de convenios ALADI" de la partida 3520 ó 3565 del referido
-
-formulario,según corresponda.
-
-Simultáneamente deberá revertirse el asiento contable respectivo, señalado en la
-
-letra a) del numeral 5.1.1 precedente.
+Simultáneamente deberá revertirse el asiento contable respectivo, señalado en la letra a) del numeral 5.1.1 precedente.
 
 b) Cartas de crédito pagadas en moneda extranjera por el ordenante.
 
 Debe: - "Cartas de crédito enteradas en efectivo".
 
-- "Anticipos para importación" subcuenta "Destino zonas francas" o "Destino
-
-resto del país", por la diferencia, en caso de haberla, entre el importe
-
-recibido del ordenante y el valor definitivamente negociado.
+- "Anticipos para importación" subcuenta "Destino zonas francas" o "Destino resto del país", por la diferencia, en caso de haberla, entre el importe recibido del ordenante y el valor definitivamente negociado.
 
 Haber: - "Comisiones de agente por pagar", cuando proceda.
 
-- "Remanente de cartas de crédito enteradas en efectivo", por el saldo que
+- "Remanente de cartas de crédito enteradas en efectivo", por el saldo que pudiera quedar, si el importe depositado por el ordenante ha sido superior al valor de la negociación. Este saldo se demostrará en la partida 3010 del formulario MB1.
 
-pudiera quedar, si el importe depositado por el ordenante ha sido superior al
+- La cuenta que corresponda por el desembolso de la moneda extranjera para pagar el importe de la negociación.
 
-valor de la negociación. Este saldo se demostrará en la partida 3010 del
+En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Cartas de crédito enteradas en efectivo negociadas bajo reserva", dela partida 3010 del formulario MB1. Cuando se reciba la conformidad del ordenante, se registrarán los importes que correspondan en las cuentas señaladas precedentemente.
 
-formulario MB1.
+c)Cartas de crédito abiertas con depósito provisional en moneda chilena por el ordenante.
 
-- La cuenta que corresponda por el desembolso de la moneda extranjera para pagar
+Debe: - "Moneda extranjera vendida condicionalmente-Créditos negociados", de la partida 2525 del formulario MB1, o bien,
 
-el importe de la negociación.
-
-En caso que la carta de crédito se haya negociado bajo reserva y aún no se
-
-hubiere recibido la conformidad del ordenante, su importe se deberá registrar en
-
-la cuenta "Cartas de crédito enteradas en efectivo negociadas bajo reserva",
-
-dela partida 3010 del formulario MB1. Cuando se reciba la conformidad del
-
-ordenante, se registrarán los importes que correspondan en las cuentas señaladas
-
-precedentemente.
-
-c)Cartas de crédito abiertas con depósito provisional en moneda chilena por el
-
-ordenante.
-
-Debe: - "Moneda extranjera vendida condicionalmente-Créditos negociados", de la
-
-partida 2525 del formulario MB1, o bien,
-
-- "Moneda extranjera vendida condicionalmente-Negociación bajo reserva", en caso
-
-que la carta de crédito hubiere sido negociada bajo reserva y aún no se hubiere
-
-obtenido la conformidad del ordenante. Cuando se reciba la conformidad de éste,
-
-el importe respectivo será traspasado a la cuenta señalada precedentemente. Esta
-
-cuenta se demostrará en la partida 2525 del formulario MB1.
+- "Moneda extranjera vendida condicionalmente-Negociación bajo reserva", en caso que la carta de crédito hubiere sido negociada bajo reserva y aún no se hubiere obtenido la conformidad del ordenante. Cuando se reciba la conformidad de éste, el importe respectivo será traspasado a la cuenta señalada precedentemente. Esta cuenta se demostrará en la partida 2525 del formulario MB1.
 
 Haber: - "Comisiones de agente por pagar", cuando proceda.
 
 - La cuenta que corresponda por el importe desembolsado.
 
-Simultáneamente deberá revertirse el asiento contable señalado en el literal i)
-
-de la letra c) del numeral 5.1.1 precedente.
+Simultáneamente deberá revertirse el asiento contable señalado en el literal i) de la letra c) del numeral 5.1.1 precedente.
 
 5.1.3.- Pago al exterior de las cartas de crédito negociadas a plazo.
 
-Debe: - "Anticipos para importación" subcuenta "Destino zonas francas" o"Destino
+Debe: - "Anticipos para importación" subcuenta "Destino zonas francas" o"Destino resto del país", según proceda, o bien,
 
-resto del país", según proceda, o bien,
-
-- "Créditos para importación", subcuenta "Destino zonas francas" o "Destino
-
-resto del país".
+- "Créditos para importación", subcuenta "Destino zonas francas" o "Destino resto del país".
 
 Haber: La cuenta que corresponda por el desembolso respectivo.
 
-Simultáneamente deberán revertir el asiento contable practicado con motivo de la
+Simultáneamente deberán revertir el asiento contable practicado con motivo de la negociación de la carta de crédito a plazo.
 
-negociación de la carta de crédito a plazo.
+5.1.4.- Recepción del pago de cartas de crédito que amparen embarques para Zonas Francas.
 
-5.1.4.- Recepción del pago de cartas de crédito que amparen embarques para Zonas
-
-Francas.
-
-Debe: "Caja" o la cuenta que corresponda por la recepción de la moneda
-
-extranjera.
+Debe: "Caja" o la cuenta que corresponda por la recepción de la moneda extranjera.
 
 Haber: - "Anticipos para importación" subcuenta "Destino zonas francas",
 
-- "Deudores por cartas de crédito negociadas a plazo sin aceptación de letra"
+- "Deudores por cartas de crédito negociadas a plazo sin aceptación de letra" subcuenta "Destino zonas francas",
 
-subcuenta "Destino zonas francas",
+- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra" subcuenta "Destino zonas francas", o bien,
 
-- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra"
-
-subcuenta "Destino zonas francas", o bien,
-
-- "Créditos para importación" subcuenta "Destino zonas francas", según
-
-corresponda.
+- "Créditos para importación" subcuenta "Destino zonas francas", según corresponda.
 
 5.1.5.- Coberturas de cartas de crédito.
 
@@ -37640,29 +37504,15 @@ a) Cartas de crédito financiadas por el banco emisor.
 
 i) Moneda extranjera.
 
-Debe: - "Conversión mercado bancario", de la partida 2505 ó 4505 del formulario
+Debe: - "Conversión mercado bancario", de la partida 2505 ó 4505 del formulario MB1, por el monto correspondiente a la importación, más los gastos e intereses respectivos, o bien,
 
-MB1, por el monto correspondiente a la importación, más los gastos e intereses
-
-respectivos, o bien,
-
-- La cuenta que corresponda por la utilización de divisas provenientes de
-
-exportaciones, cuando el pago se realice con esos recursos, de acuerdo con lo
-
-autorizado por el Banco Central de Chile en el correspondiente Informe de
-
-Importación Complementario.
+- La cuenta que corresponda por la utilización de divisas provenientes de exportaciones, cuando el pago se realice con esos recursos, de acuerdo con lo autorizado por el Banco Central de Chile en el correspondiente Informe de Importación Complementario.
 
 Haber: - "Anticipos para importación" subcuenta "Destino resto del país",
 
-- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra"
+- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra" subcuenta "Destino resto del país",
 
-subcuenta "Destino resto del país",
-
-- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra"
-
-subcuenta "Destino zonas francas", o bien,
+- "Deudores por cartas de crédito negociadas a plazo con aceptación de letra" subcuenta "Destino zonas francas", o bien,
 
 - "Créditos para importación" subcuenta "Destino resto del país", según
 
@@ -37674,19 +37524,13 @@ Debe: "Caja" o la cuenta que corresponda por la recepción de la moneda chilena,
 
 en caso que proceda.
 
-Haber: "Cambio mercado bancario" de la partida 2505 ó 4505 del formulario MB1,
+Haber: "Cambio mercado bancario" de la partida 2505 ó 4505 del formulario MB1, por el importe en moneda chilena, de las divisas vendidas.
 
-por el importe en moneda chilena, de las divisas vendidas.
-
-b) Cartas de crédito abiertas con depósito provisional en moneda chilena por el
-
-ordenante.
+b) Cartas de crédito abiertas con depósito provisional en moneda chilena por el ordenante.
 
 i) Moneda extranjera.
 
-Debe: "Conversión mercado bancario", por el monto correspondiente a la
-
-importación, más los gastos e intereses respectivos, cuando proceda.
+Debe: "Conversión mercado bancario", por el monto correspondiente a la importación, más los gastos e intereses respectivos, cuando proceda.
 
 Haber: "Moneda extranjera vendida condicionalmente-Créditos negociados".
 
@@ -37702,73 +37546,33 @@ vendida.
 
 5.1.6.- Gastos en moneda extranjera.
 
-Los desembolsos en moneda extranjera que realice el Banco emisor por concepto de
+Los desembolsos en moneda extranjera que realice el Banco emisor por concepto de comisiones y gastos que le cobre su corresponsal, cuyo importe sea de cargo del ordenante de la carta de crédito, serán debitados en la cuenta "Anticipos para
 
-comisiones y gastos que le cobre su corresponsal, cuyo importe sea de cargo del
-
-ordenante de la carta de crédito, serán debitados en la cuenta "Anticipos para
-
-importación" subcuenta "Destino zonas francas" o "Destino resto del país", según
-
-corresponda, en la que permanecerán hasta su pago o cobertura, conforme a lo
-
-señalado en los numerales 5.1.4 y 5.1.5 precedentes.
+importación" subcuenta "Destino zonas francas" o "Destino resto del país", según corresponda, en la que permanecerán hasta su pago o cobertura, conforme a lo señalado en los numerales 5.1.4 y 5.1.5 precedentes.
 
 5.1.7.- Intereses sobre cartas de crédito.
 
-Los intereses en moneda chilena que cobren los bancos sobre las cartas de
+Los intereses en moneda chilena que cobren los bancos sobre las cartas de crédito serán acreditados en la cuenta que corresponda de la partida 7115 del formulario MR1.
 
-crédito serán acreditados en la cuenta que corresponda de la partida 7115 del
+Los intereses en moneda extranjera que cobren los bancos, con sujeción a lo dispuesto en el Capítulo XV antes mencionado, serán registrados en la cuenta respectiva de la partida 7115 del formulario MR1.
 
-formulario MR1.
-
-Los intereses en moneda extranjera que cobren los bancos, con sujeción a lo
-
-dispuesto en el Capítulo XV antes mencionado, serán registrados en la cuenta
-
-respectiva de la partida 7115 del formulario MR1.
-
-Por otra parte, los intereses que los bancos paguen por los financiamientos del
-
-exterior, serán registrados en la cuenta que proceda de la partida 5180 ó 5185
-
-del formulario MR1, con excepción de aquéllos a cargo del importador que cobre
-
-el proveedor sobre cartas de crédito negociadas a plazo, los que se registrarán
-
-en la cuenta "Anticipos para importación".
+Por otra parte, los intereses que los bancos paguen por los financiamientos del exterior, serán registrados en la cuenta que proceda de la partida 5180 ó 5185 del formulario MR1, con excepción de aquéllos a cargo del importador que cobre el proveedor sobre cartas de crédito negociadas a plazo, los que se registrarán en la cuenta "Anticipos para importación".
 
 5.1.8.- Comisiones.
 
-Las comisiones que se cobren sobre las cartas de crédito serán registradas en la
-
-cuenta "Comisiones ganadas-Cartas de crédito", de la partida 7515 del formulario
-
-MR1.
+Las comisiones que se cobren sobre las cartas de crédito serán registradas en la cuenta "Comisiones ganadas-Cartas de crédito", de la partida 7515 del formulario MR1.
 
 5.1.9.- Créditos no pagados a su vencimiento.
 
-El importe de los créditos financiados por los bancos que no sean pagados por el
-
-importador al término del plazo fijado para el efecto, será traspasado a Cartera
-
-Vencida en la misma moneda en que ellos se encuentren registrados, de
-
-conformidad con las normas generales sobre la materia.
+El importe de los créditos financiados por los bancos que no sean pagados por el importador al término del plazo fijado para el efecto, será traspasado a Cartera Vencida en la misma moneda en que ellos se encuentren registrados, de conformidad con las normas generales sobre la materia.
 
 5.2.- Cartas de crédito por cuenta del propio banco emisor.
 
 5.2.1.- Apertura.
 
-Debe: "Importaciones en tránsito", la que se demostrará en la partida 2310 si
+Debe: "Importaciones en tránsito", la que se demostrará en la partida 2310 si los bienes que se importan se integran al activo fijo, o en la partida 2120 si la importación corresponde a materiales fungibles.
 
-los bienes que se importan se integran al activo fijo, o en la partida 2120 si
-
-la importación corresponde a materiales fungibles.
-
-Haber: "Cartas de crédito por negociar por cuenta propia", la que se reflejará
-
-en la partida 3615 del formulario MB1.
+Haber: "Cartas de crédito por negociar por cuenta propia", la que se reflejará en la partida 3615 del formulario MB1.
 
 5.2.2.- Negociación.
 
@@ -37776,13 +37580,7 @@ Debe: "Importaciones por cubrir", la que será demostrada en la partida 2310 ó
 
 2120 del formulario MB1, según corresponda.
 
-Haber - "Comisiones de agente por pagar", cuando proceda.- "Adeudado al exterior
-
-por importaciones por cuenta propia", por la deuda contraída directamente con el
-
-proveedor extranjero, la que será demostrada en la partida 3040 ó 3070 del
-
-formulario MB1, según corresponda, o bien,
+Haber - "Comisiones de agente por pagar", cuando proceda.- "Adeudado al exterior por importaciones por cuenta propia", por la deuda contraída directamente con el proveedor extranjero, la que será demostrada en la partida 3040 ó 3070 del formulario MB1, según corresponda, o bien,
 
 - La cuenta que corresponda por el desembolso de la moneda extranjera.
 
@@ -37798,13 +37596,9 @@ Debe: "Conversión mercado bancario"Haber: "Importaciones por cubrir".
 
 b) Moneda chilena.
 
-Debe: La cuenta de activo que corresponda según la naturaleza de los bienes
+Debe: La cuenta de activo que corresponda según la naturaleza de los bienes importados.
 
-importados.
-
-Haber: "Cambio mercado bancario", por el importe desembolsado en moneda chilena
-
-para el pago de las divisas destinadas a la cobertura de la operación.
+Haber: "Cambio mercado bancario", por el importe desembolsado en moneda chilena para el pago de las divisas destinadas a la cobertura de la operación.
 
 5.3.- Cobranzas del exterior.
 
@@ -37832,9 +37626,7 @@ Debe: La cuenta que corresponda por la recepción de la moneda extranjera.
 
 Haber: - "Comisiones de agente por pagar", cuando proceda.
 
-- "Cobranzas por remesar", la que será demostrada en la partida 3010 del
-
-formulario MB1.
+- "Cobranzas por remesar", la que será demostrada en la partida 3010 del formulario MB1.
 
 Además, deben revertir el asiento contable señalado en el numeral 5.3.1
 
@@ -37844,9 +37636,7 @@ precedente.
 
 a) Moneda extranjera.
 
-Debe: "Conversión mercado bancario", por el monto correspondiente a la
-
-importación, más los gastos e intereses, cuando proceda.
+Debe: "Conversión mercado bancario", por el monto correspondiente a la importación, más los gastos e intereses, cuando proceda.
 
 Haber: - "Comisiones de agente por pagar", cuando proceda.
 
@@ -37868,67 +37658,35 @@ Haber: La cuenta que corresponda por el desembolso de la moneda extranjera.
 
 5.3.5.- Comisiones de cobranza.
 
-Las comisiones que los bancos cobren sobre estas operaciones, serán acreditadas
-
-en la cuenta "Comisiones ganadas-Cobranzas extranjeras", cuyo saldo será
-
-demostrado en la partida 7520 del formulario MR1.
+Las comisiones que los bancos cobren sobre estas operaciones, serán acreditadas en la cuenta "Comisiones ganadas-Cobranzas extranjeras", cuyo saldo será demostrado en la partida 7520 del formulario MR1.
 
 5.4.- Liquidación de comisiones de agentes.
 
-La liquidación de comisiones de agentes que provengan de las operaciones de
-
-importación de que trata este capítulo, se contabilizará de la siguiente forma:
+La liquidación de comisiones de agentes que provengan de las operaciones de importación de que trata este capítulo, se contabilizará de la siguiente forma:
 
 a) Moneda extranjera.
 
-Debe: "Comisiones de agente por pagar", por el importe de la comisión que se
-
-liquida.
+Debe: "Comisiones de agente por pagar", por el importe de la comisión que se liquida.
 
 Haber: "Conversión mercado bancario".
 
 b) Moneda Chilena.
 
-Debe: "Cambio mercado bancario", por el valor en moneda chilena, pagado por las
+Debe: "Cambio mercado bancario", por el valor en moneda chilena, pagado por las divisas correspondientes a la comisión que se liquida.
 
-divisas correspondientes a la comisión que se liquida.
-
-Haber - "Impuesto por pagar sobre comisiones de agente" por el impuesto a que se
-
-refiere el D.L. N° 825, de 1974, y sus modificaciones, la que se demostrará en
-
-la partida 3010 del formulario MB1.
+Haber - "Impuesto por pagar sobre comisiones de agente" por el impuesto a que se refiere el D.L. N° 825, de 1974, y sus modificaciones, la que se demostrará en la partida 3010 del formulario MB1.
 
 - La cuenta que corresponda por el pago al comisionista.
 
 5.5.- Cobertura anticipada de cartas de crédito y de cobranzas del exterior.
 
-Cuando los bancos efectúen la cobertura de importaciones antes de los 120 días
-
-contados desde la fecha de embarque o antes del plazo estipulado para el pago
-
-dela respectiva operación, procederán de conformidad con lo previsto en el
-
-Capítulo XV del Compendio de Normas de Importación antes mencionado.
+Cuando los bancos efectúen la cobertura de importaciones antes de los 120 días contados desde la fecha de embarque o antes del plazo estipulado para el pago dela respectiva operación, procederán de conformidad con lo previsto en el Capítulo XV del Compendio de Normas de Importación antes mencionado.
 
 5.6.- Pagos a cuenta de créditos.
 
-Los importes que los bancos reciban en moneda chilena para destinarlos a la
+Los importes que los bancos reciban en moneda chilena para destinarlos a la cobertura de importaciones, serán acreditados en la cuenta "Pagos a cuenta de créditos por liquidar" de la partida 3010 del formulario MB1.
 
-cobertura de importaciones, serán acreditados en la cuenta "Pagos a cuenta de
-
-créditos por liquidar" de la partida 3010 del formulario MB1.
-
-En la misma cuenta antes señalada se deberán contabilizar los importes que los
-
-bancos reciban, ya sea como resultado de la cobranza de letras u otros efectos
-
-de comercio constituidos en garantía o de cualquier otro origen, con el objeto
-
-de aplicarlos al pago de créditos para importación o de cualquiera otra
-
-naturaleza.
+En la misma cuenta antes señalada se deberán contabilizar los importes que los bancos reciban, ya sea como resultado de la cobranza de letras u otros efectos de comercio constituidos en garantía o de cualquier otro origen, con el objeto de aplicarlos al pago de créditos para importación o de cualquiera otra naturaleza.
 
 6.- Límites legales.
 
