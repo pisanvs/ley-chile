@@ -1,0 +1,5 @@
+APRUEBA ORDENANZA DE REGISTRO DE PERSONAS JURIDICAS RECEPTORAS DE TRANSFERENCIAS
+
+La Ilustre Municipalidad de Punitaqui pone en conocimiento de la comunidad, que de acuerdo a lo establecido en la ley Nº 19.862 y al DS Nº 375 del Ministerio de Hacienda que regula la citada ley, el Honorable Concejo Municipal por unanimidad adoptado en Sesión Ordinaria Nº 15, de fecha 3 de agosto de 2004, ha aprobado la Ordenanza que establece y regula el Registro de Personas Jurídicas Receptoras de Transferencias Municipales. El señalado texto contempla los siguientes Títulos I Disposiciones Generales; II de las Transferencias; III del otorgamiento de las Transferencias; Título IV de los Convenios y Título V de las Rendiciones de Cuentas; y se encuentra inserto en decreto exento Nº 617 del 16 de agosto de 2004, a disposición de los interesados en la Secretaría Municipal, ubicada en Caupolicán Nº 1147 de Punitaqui.
+
+Anótese, comuníquese y publíquese.- Blas Araya Rivera, Alcalde.- Sonia Pereira Olivarez, Secretaria Municipal.
