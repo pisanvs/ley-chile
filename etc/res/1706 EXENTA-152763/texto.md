@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.706 de 26 de Agosto de 1987 modificó Resolución Exenta No. 892 de 25 de Junio de 1987, publicada en el Diario Oficial de fecha 01.07.87 conforme art. 5° Transitorio Código de Aguas determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parte del Proyecto de Parcelación "Estrella del Alba", de la comuna de Coihueco, VIII Regíón, correspondiente a parcelas N°s. 1 a la 23 y sitios N°s. 1 al 22, formadas en parte efectivamente expropiada de los predios "Fundo Talquipén y Fundo El Manzano" y "Fundo Talquipén, retazo de terreno de una y media cuadra de extensión y retazo de terreno de un cuarto de cuadra de extensión conocido como Talquipén Olalde". Los Derechos de Agua se extraen de los canales La Mina y San Pedro derivados del rio Chillán.
+
+Publicación hecha conforme art. 13 ley No. 18.377.-
+
+Director Ejecutivo.
