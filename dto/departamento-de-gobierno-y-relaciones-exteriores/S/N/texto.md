@@ -1,0 +1,7 @@
+ADICION AL REGLAMENTO.
+
+Por cuanto el Congreso de Plenipotenciarios de la nacion con fecha 6 del corriente ha dictado un artículo adicional a la acta de union acordada en 30 de Marzo último cuyo tenor es el siguiente: En las elecciones de diputados al congreso jeneral nombrarán tambien las delegaciones sus cinco electores respectivos con arreglo al art. 28 y desde entonces los delegados serán nombrados por el Supremo Gobierno en la forma que se previene en el art. 27 de la acta de union. Entretanto las delegaciones que se mantengan tranquilas y gustosas con sus actuales mandatarios, los conservaran subrogándose el defecto de estos conforme a las leyes jenerales; pero en las que se hayan reconocidos o se manifestasen facciones, desórdenes o algun jenero de innovacion en las formas establecidas para los gobernadores de partidos; el Supremo Director nombrará personas imparciales y de absoluta probidad que, manden provisoriamente hasta el nombramiento de electores y propuestas que deben hacerse. Contéstese la consulta de la honorable asamblea de Santiago con insercion de este decreto, y pásese al Gobierno ejecutivo de la nacion para que se publique como una adicion a la acta de union. Por tanto insertese en el Boletin con lo que se tendrá por bastante publicado y circulado.
+
+Santiago, Abril 11 de 1823. Freire.
+
+Egaña.
