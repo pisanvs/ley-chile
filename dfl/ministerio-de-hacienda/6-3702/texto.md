@@ -1,0 +1,1 @@
+Agrega inciso final al artículo 56° del decreto con fuerza de ley 224, de 1953, que fijó el texto de la Ley General de Construcciones y Urbanización.
