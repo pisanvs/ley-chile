@@ -1,0 +1,3 @@
+Por resolución Nº 505, de 18 de febrero de 2003, de esta Subsecretaría, rectifícase el numeral 1º de la resolución Nº 994 de 2001, de esta Subsecretaría, que autorizó a ALIMENTOS MARINOS S.A. para desarrollar actividades pesqueras con la nave "Arequipa VII", en el sentido de indicar que la eslora de arqueo de la citada nave es 33,02 m y no como allí se indica.
+
+Valparaíso, 18 de febrero de 2003.- Jessica Fuentes Olmos, Subsecretaria de Pesca (S).
