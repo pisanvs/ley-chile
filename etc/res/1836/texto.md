@@ -1,0 +1,3 @@
+Por Resolución N° 1.836, de 25 de octubre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94110167, para un centro de cultivo ubicado en Ensenada Baja, Comuna de Aysén, Provincia de Aysén, XI Región, en virtud de lo dispuesto en el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
