@@ -1,0 +1,5 @@
+Por Resolución No. 49.- 20 de Enero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a INVERSIONES Y SERVICIOS RAUCO S.A., R.U.T. No. 96.545.100-5, domicliada en calle Toesca No. 2096, Santiago, para ampliar actividades pesqueras, autorizadas por Resolución No. 1112, de 1989, de esta Subsecretaría, en orden a incluir la línea de proceso de cocido en la planta industrial, ubicada en calle Costanera s/n°, localidad de Puyuhuapi, Comuna de Río Cisnes, XI Región, los siguientes recursos hidrobiológicos: Almeja, Ostión del sur, Centolla, Centollón y Jaiba mora. Deberá acreditar la procedencia de los recursos centolla y centollón, mediante guía de libre tránsito otorgada por el Servicio Nacional de Pesca.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 20 de Enero de 1992.- Andrés Couve Ríoseco, Subsecretario de Pesca.
