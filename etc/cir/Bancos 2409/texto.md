@@ -2146,7 +2146,7 @@ a) Deben transferirse los títulos completos, salvo que el fraccionamiento del i
 
 b) Los títulos de crédito deberán estar extendidos cumpliendo todas las formalidades legales y exigencias tributarias;
 
-c) Los documentos que se vendan o cedan deben encontrarse en poder de la institución y entregarse al comprador o cesionario, salvo que este último opte por dejarlos en custodia en la propia institución vendedora. Lo anterior no alcanza a las ventas concretadas mediante transferencia de posiciones de los valores mantenidos en una empresa de depósito y custodia de valores a que se refiere la Ley N° 18.876;
+c) Los documentos que se vendan o cedan, deben ser de propiedad de la institución vendedora o cedente y encontrarse debidamente registrados en su contabilidad, pudiendo estar al momento de la transacción, físicamente en poder de ella o no estarlos;
 
 d) Las ventas podrán ser: i) definitivas, o, ii) con pacto de retrocompra, con sujeción, en este caso, a las normas del título III de este Capítulo;
 
