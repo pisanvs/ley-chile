@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.512, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.155 y 156 , superficies 19.451 m2. y 20.778 m2., rol de avalúo 299-12, comuna de Los Vilos, para la obra Camino Ruta 5 Norte Tramo: Santiago-Los Vilos, Cuarta Región, y se acordó el valor de indemnización con su propietaria Inversiones Inmobiliarias Lorengell Limitada, ascendente a la cantidad total de $86.761.884.-
+
+Fiscal del Ministerio de Obras Públicas.
