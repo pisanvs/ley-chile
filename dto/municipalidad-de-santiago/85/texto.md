@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 85, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2449, Rol 333-5 Santiago, aparente dominio María Soledad Felicori Vergara, superficie aproximada a expropiar 912 m2. Deslindes: Norte, 24 mts. resto del predio; Sur, 24 mts. calle Agustinas; Oriente, 38 mts. otro propietario y Poniente, 38 mts. otro propietario. Indemnización provisional $ 11.436.000.- pagadera contado.
+
+Máximo Honorato Alamos. Alcalde Santiago.
