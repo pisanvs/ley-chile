@@ -1,0 +1,11 @@
+Por decreto MOP Nº 1.013, de 10 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco, los lotes de terreno Nºs 101, 103, 104, 105, 108, 109, 110, 113, 114, 116, 118, 120, 123, 132, y 136, para la obra: Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento - Avda. Costanera, Comuna de Antofagasta, Provincia de Antofagasta, II Región, Sector Calle Chuquicamata - Avda. Costanera Norte - E. Pérez Z., que figuran a nombre de Toledo Vásquez Zunilda, Rojas Cortés David E. y otros, González Esckers Carlos, Ledesma Olivares Guillermo Enriq., Alvarez Carvajal María Deysi, Alancay Caro Eugenia, Lara Godoy Luis Armando, Villanueva Prenafeta Patricio Ferna., Legua Madrid Olegario, Maltes Huerta Ninfa Ester, Varela Vda. de Diez Aurelia, Carmona Piñones Guillermo, Bañados Medina Manuel Enrique, Casimir Vergara Teresa Avieri e Hidalgo Barrera Marta y otro, roles de avalúo 1435-14, 1435-13, 1435-5, 1435-12, 1435-11, 1435-2, 1435-10, 1435-8, 1435-7, 1434-2, 1433-1, 1432-21, 1432-35, 1432-30 y 1431-19, superficies 90 m².; 141 m².; 122 m².; 154 m².; 219 m².; 126 m².; 199m².; 241m².; 296m².; 119m².; 214m².;126m².; 97m².; 71m². y 85 m². La Comisión de Peritos, fijó con fecha 14 de abril de 2004, en las cantidades de $29.082.734, para el lote Nº101;
+
+$28.893.141, para el lote Nº103; $11.229.894, para el lote Nº104; $28.459.466, para el lote Nº105;
+
+$25.082.085, para el lote Nº108; $9.773.226, para el lote Nº109; $24.987.167, para el lote Nº110;
+
+$68.159.253, para el lote Nº113; $31.579.550, para el lote Nº114; $25.403.781, para el lote Nº116;
+
+$25.237.693, para el lote Nº118; $16.878.811, para el lote Nº120; $8.401.347, para el lote Nº123; $5.581.143, para el lote Nº132 y $8.663.872, para el lote Nº136. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
