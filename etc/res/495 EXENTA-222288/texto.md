@@ -1,0 +1,3 @@
+Por resolución exenta Nº 495, de 24 de febrero de 2004, de esta Subsecretaría, autorízase a SOCIEDAD BAKKAVOR CHILE S.A., para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Parcela Nº 65, Lote Ruze, Porvenir, provincia de Tierra del Fuego, XII Región, donde podrá procesar en las líneas de elaboración Alga seca, Deshidratado, Fresco enfriado, Fresco refrigerado, Congelado, Cocido, Seco salado, Ahumado, Conserva, Harina, Fresco-Cocido-Pasteurizado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
