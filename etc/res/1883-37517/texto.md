@@ -1,0 +1,3 @@
+Por resolución N° 1.883, de 8 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA LANDES SOCIEDAD ANONIMA, para publicar, dentro del plazo de treinta días contados desde la fecha de la presente Resolución, el extracto de esta Resolución y el de la Resolución N° 1.422 de 1996, de esta Subsecretaría, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 8 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
