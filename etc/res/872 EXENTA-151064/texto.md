@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 872 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "Fundo El Cardal", "resto del Fundo Rabanal" de la comuna de Rancagua, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 16, sitios N°s. 1 al 5 y 8 al 17, del Proyecto de Parcelación "San Carlos" formado por predios señalados. Los Derechos de Agua se extraen del Canal San Pedro, Población y Derivados que se entregan por Canal Pueblos Naturales.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
