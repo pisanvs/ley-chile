@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.889 de fecha 31 de diciembre de 1998, se expropió los lotes de terreno Nºs. 221-A, 221-B, 221-C, 221-D, 221-E, 221-F, 221-G, 221-H y 221-I, superficie 122 m², 385 m², 385 m², 425 m², 703 m², 488 m², 463 m², 485 m², y 441 m² respectivamente, rol de avalúo en trámite, comuna de Til-Til, para la obra ''Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Sector Km. 30.510,50 a Km. 41.400,00'', y se acordó el valor de indemnización con su propietario Sergio José Retamal Iglesias, ascendente a la cantidad de $19.953.933.-
+
+Fiscal del Ministerio de Obras Públicas.
