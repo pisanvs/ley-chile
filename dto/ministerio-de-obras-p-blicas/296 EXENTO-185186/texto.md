@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº296 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº3, superficie 10 m², rol de avalúo 296-5, comuna de Pullehue, para la obra "Camino Ruta M-80-N, Sector Curanipe - Bif. Chovellen Tramo Km. 0.000,0 a Km. 6.871,14" y se acordó el valor de indemnización con su propietario Manuel María Cerpa Suazo, ascendente a la cantidad de $280.368.-.
+
+Fiscal del Ministerio de Obras Públicas.
