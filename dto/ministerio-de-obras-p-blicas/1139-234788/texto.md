@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.139, de fecha 30 de noviembre de 2004, se expropió el lote de terreno Nº 3, superficie 9.602 m²., rol de avalúo Nº 531-46, comuna de Linares, para la obra "Camino Ruta L-32, Sector Puente Sifón y Accesos, Tramo Km. 0,00000 a Km. 3,20000, comuna de Linares y San Javier, provincia de Linares", VII Región y se acordó el valor de la indemnización con su propietario Justo Elías Bobadilla Sáez, ascendente a la cantidad de $3.941.288.
+
+Fiscal del Ministerio de Obras Públicas.
