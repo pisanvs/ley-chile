@@ -1,0 +1,9 @@
+AUTORIZA A ENRIQUE SANCHEZ OCAMPO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución Nº154, 1º de Febrero de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Enrique Sánchez Ocampo, R.U.T. Nº2.129.131-5, domiciliado en Viña del Mar, Calle Bellavista 1215, Reñaca para iniciar actividades pesqueras, en orden a operar la embarcación "Santa Teresa III", en el litoral comprendido entre la III y VII Región, donde podrá extraer los siguientes recursos hidrobiológicos: Bacalao de Juan Fernández, Congrio colorado, Congrio dorado, Congrio negro, Merluza común, Pejegallo, Tollo, Anchoa, Jurel, Sardina, Sardina común, Corvina, Atún aleta amarilla, Atún aleta larga. Además, podrá capturar en el litoral de la I a la X Región el recurso albacora o pez espada. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Se deniega la autorización solicitada por el peticionario para operar la nave "Santa Teresa III" en el litoral de la I, II y VIII a XII Región, sin perjuicio de lo expresado respecto del recurso albacora o pez espada, en el inciso 2º del numeral 3 de esta Resolución.
+
+Declárase la caducidad de las Resoluciones Nº943 y Nº1778, de 1989, de esta Subsecretaría, de conformidad con lo señalado en el artículo 6º del Decreto Nº175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de Febrero de 1990.- Roberto Cabezas Bello. Subsecretario de Pesca.
