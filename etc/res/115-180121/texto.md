@@ -1,0 +1,3 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Resolución 115 de 12 de diciembre de 2000, Dirección Regional Serviu X Región expropió inmueble ubicado sector Alerce comuna Puerto Montt, lote 3A plano expropiación aparente dominio José Ricardo Hueica Loncochino, Rol 2190-14, superficie 11,50 hás. indemnización provisional $103.500.000 de contado fijado por Comisión Peritos Leopoldo Schmacher Guarda, Nelson Igor Flores, Enrique Hoelck Altmann designados resolución exenta 2.108, de 31.10.00 conforme DL 2.186.
