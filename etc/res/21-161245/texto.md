@@ -1,0 +1,3 @@
+Por resolución de la fiscalía del Ministerio de Obras Públicas F. No. 21, de 21 de Marzo de 1985, se ha ordenado pagar a la persona que a continuación se indica o a quien acredite derecho como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos, más su reajuste, para el lote expropiado para Casas camineros C.P.A. en Los Vilos, cuya superficie y rol de avalúo de la comuna de Los Vilos se indica: Lote 1: Editha Wessely Wohlrath, 2.700 m2., rol 247-4, $ 302.970. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a publicación que se hará en un periódico de la IV Región.
+
+Fiscal del Ministerio de Obras Públicas.
