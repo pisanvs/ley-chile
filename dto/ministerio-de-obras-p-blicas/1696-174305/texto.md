@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.696 de fecha 28 de abril de 2000, se expropió el lote terreno Nº 15, superficie 5.200 m², rol de avalúo 23-2, comuna de Tierra Amarilla, para la obra ''Mejoramiento Ruta C-35, Sector Paipote - Cerrillos'' y se acordó el valor de la indemnización con su propietaria María Eujenia Izquierdo Meléndez y otro, ascendente a la cantidad de $15.874.360.
+
+Fiscal del Ministerio de Obras Públicas.
