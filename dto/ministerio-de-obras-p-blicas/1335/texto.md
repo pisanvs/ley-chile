@@ -1,0 +1,3 @@
+Por decreto MOP. No.1.335, de 31 de agosto de 1998, se expropiaron los lotes de terreno No. s 1, 2, 3, y 4, superficies 42.292; 3.255; 6.702 y 8.218 m²., rol de avalúo 9318-2, comuna de Valparaíso, obra "Camino Rodelillo - El Salto - Villa Dulce, Tramo Intersección Ruta 68/Ruta F66, Sector Enlace Agua Santa, y se acordó precio de indemnización con sus propietarios Soc. Forestal Valparaíso S.A., ascendente a la cantidad de $ 161.295.723.-
+
+Fiscal del Ministerio de Obras Públicas.
