@@ -1,0 +1,3 @@
+Por resolución Nº 1.782, de 30 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la resolución Nº 51 de 1990 de esta Subsecretaría, que autorizó a don ATILIO BERMUDEZ VALDERRAMA, para realizar actividades pesqueras extractivas con la nave "Agua Luna", por no haber operado sobre la unidad de pesquería autorizada de conformidad a lo dispuesto en el artículo 143 letras b) y d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 30 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
