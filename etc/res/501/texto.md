@@ -1,0 +1,5 @@
+Por Resolución N° 501 de 16 de Julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 199, de 1992, modificada por la Resolución N° 291, de 1993, ambas de esta Subsecretaría, que autorizaron a COMPAÑIA PESQUERA CAMANCHACA S.A., R.U.T. N° 93.711.000-6, en el sentido de reemplazar el numeral 2° por el que se indica.
+
+Déjase sin efecto la Resolución N° 731, de 1989, en cuanto se refiere a la autorización para operar la nave "BODANES" y la Resolución N° 715, de 1990, ambas de esta Subsecretaría, a petición de la interesada y por haberse fusionado sus derechos mediante la destinación de dicha nave para ejercer el derecho otorgado mediante la Resolución N° 199, de 1992, de esta misma entidad.-
+
+Valparaíso, 16 de julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
