@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.583, de 9 de septiembre de 2004 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112144 presentada por MARIA ORIANA HERNANDEZ MANSILLA, para instalar y operar un centro de cultivo ubicado en Bahía Anna Pink, lado oeste de punta Astudillo (sector 1), XI Región.
+
+Valparaíso, 9 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
