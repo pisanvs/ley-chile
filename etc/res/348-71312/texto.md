@@ -1,0 +1,3 @@
+Por Resolución Nº 348 de 21 de abril de 1997 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. Nº 2.186 de 1978, de parte del inmueble ubicado en Avda. Carrascal Nº 4459, presunto rol de avalúos Nº 4117-2 comuna de Quinta Normal, de aparente dominio de Dirección Servicio de Salud Consultorio. Comisión integrada por peritos Sra. Teresa Sancho Pernas, arquitecto, Sergio Rojas Ibáñez, ingeniero civil y Luis Rojas Quezada, constructor civil según informe de 17 de diciembre de 1996 fijó monto provisional de indemnización en $8.140.410.- pagadera al contado.
+
+Director SERVIU Metropolitano.
