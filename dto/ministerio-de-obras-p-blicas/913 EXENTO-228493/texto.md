@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 913 de 30 de junio de 2004, se expropió el lote de terreno Nº 59, superficie 29 m2 , rol de Avalúo Nº 609-23, comuna de Santa Cruz, para la obra "Camino Santa Cruz - Yánquil, Rol I-730, Km. 0.00000 al Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietaria María Isabel Gálvez Lizama y otros, ascendente a la cantidad de $950.666.
+
+Fiscal del Ministerio de Obras Públicas.
