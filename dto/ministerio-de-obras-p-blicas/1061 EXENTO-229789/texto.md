@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.061 de fecha 29 de julio de 2004, se expropió el lote de terreno Nº 2-C, superficie 150 m2, Rol Nº 52-59, comuna de Pumanque, VI Región para la obra "Camino Ruta I-60, Sector Población - Pumanque, Tramo Km. 0,000 al Km. 20,90079" y se acordó el valor de indemnización con su propietario Manuel Francisco Galaz Galaz, ascendente a la cantidad de $556.054.- para el lote Nº 2-C.
+
+Fiscal del Ministerio de Obras Públicas.
