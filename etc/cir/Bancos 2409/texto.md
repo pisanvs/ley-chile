@@ -3730,6 +3730,8 @@ La condición de permanencia mínima de 90 días para el pago de reajuste de los
 
 También podrán exceptuarse de esa condición hasta el 10 de septiembre de 2002, los demás depósitos efectuados en las cuentas de ahorro vigentes con anterioridad al 10 de septiembre de 2001.
 
+La limitación al número de seis giros en el período de doce meses para no perder el derecho a intereses, a que se refiere la letra b) del numeral 7.3, se aplicará a contar del próximo período de doce meses que comience después del 2 de marzo de 2002.
+
 CAPITULO 2-5 (Bancos y Financieras)
 
 MATERIA:
