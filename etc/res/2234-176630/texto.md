@@ -1,0 +1,3 @@
+Por resolución Nº 2.234, de 12 de octubre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96110033, presentada por SALMONES MULTIEXPORT LIMITADA, para instalar y operar el centro de cultivo ubicado en Canal Refugio - Seno s/n, CR-7, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 12 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
