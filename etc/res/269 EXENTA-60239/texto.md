@@ -1,0 +1,3 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DE IVA A SOC. AGRICOLA Y FORESTAL SANTA IRMA
+
+La VIII Dirección Regional del Servicio de Impuestos Internos, por Resolución DRE08/Nº Ex- 0269, de fecha 10 de diciembre de 1996, excepciona, a contar del 1º del mes siguiente al de esta publicación a la Soc. Agrícola y Forestal Santa Irma, Rut. Nº 78.413.870-4 del régimen de Cambio de Sujeto de IVA, establecido en la Resolución Nº Ex-4325, de 12-09-96 de la Dirección Nacional, publicada en el Diario Oficial del día 17-09-96.
