@@ -1,0 +1,7 @@
+﻿Para la organizacion y arreglo de la Sala de la Suprema Corte de Justicia se proveyó a propuesta del Presidente el decreto que sigue.
+
+Santiago, Octubre 22 de 1825.
+
+Conviniéndose el Gobierno con el medio que propone el Presidente de la Suprema Corte de Justicia sobre el modo de suplir la plaza de dicho Tribunal provista en el Juez de Letras de Concepcion D. Manuel Novoa mientras se sabe de su aceptacion, y puede verificar su venida a esta capital, entrará a subrogarle el Camarista menos antiguo Dr. D. Carlos Rodriguez, atendida tambien la resistencia que los otros vocales de la Cámara han hecho para aceptar y desempeñar este destino. En su consecuencia las causas para que se necesitare en la Cámara de mas de tres Ministros, se despacharán, como se ha practicado en este tiempo pasado, llamando a los Abogados que se nombran suplentes con este objeto.- Y por lo que respecta a la segunda parte de la propuesta que contiene el oficio del Sr. Presidente de la Suprema Corte, se encarga a él mismo, el dirijir o disponer lo conveniente acerca de la preparacion de la Sala necesaria para el despacho en el local, que designa en la casa del Consulado, presentando el correspondiente presupuesto de gastos necesarios de refaccion y menaje. Comuníquese e imprímase en el Boletin.
+
+FREIRE. -------- Campino.
