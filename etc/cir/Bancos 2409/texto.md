@@ -8126,7 +8126,7 @@ MUTUOS HIPOTECARIOS ENDOSABLES.
 
 ### 1. Préstamos Hipotecarios
 
-Las instituciones financieras están facultadas para otorgar préstamos endosables con garantía hipotecaria, sujetos a las disposiciones contenidas en el N° 4 bis del artículo 83 de la Ley General de Bancos y en el presente capítulo.
+Las instituciones financieras están facultadas para otorgar préstamos endosables con garantía hipotecaria, sujetos a las disposiciones contenidas en el N° 7 del artículo 69 de la Ley General de Bancos y en el presente capítulo.
 
 Los referidos préstamos deberán cumplir con los siguientes requisitos:
 
@@ -8238,33 +8238,9 @@ En el evento de que se pacte una tasa de interés flotante según lo indicado en
 
 ### 9. Amortizaciones extraordinarias de los préstamos
 
-Atendido que la disposición del artículo 10 de la Ley N° 18.010, contiene la
+Los prepagos totales o parciales de los créditos concedidos con los mutuos hipotecarios endosables de que trata este Capítulo, quedan sujetos a las disposiciones del artículo 10 de la Ley N° 18.010, materia de que trata el Capítulo 7-1 de esta Recopilación.
 
-mínima garantía de protección para el deudor en caso de prepago del crédito
-
-obtenido, en los contratos deberán señalarse las normas más favorables que el
-
-acreedor consienta a su deudor, tanto en el monto o plazo de interés posterior
-
-ala fecha de pago que éste deberá abonar cuando se efectúe un prepago total o
-
-parcial.
-
-En caso de amortizaciones parciales, deberá establecerse la forma en que se
-
-aplicarán estos pagos en las cuotas de capital adeudado. Los contratos podrán
-
-contemplar también el establecimiento de montos mínimos para la amortización
-
-extraordinaria de préstamos.
-
-Se recomienda establecer un sistema para la aplicación de las amortizaciones
-
-extraordinarias similar al que contempla el inciso segundo del artículo 95 de la
-
-Ley General de Bancos para el caso de préstamos con letras de crédito, por la
-
-semejanza que ofrecen ambos sistemas para el deudor.
+En caso de amortizaciones parciales, deberá establecerse la forma en que se aplicarán esos pagos en las cuotas de capital adeudado. Los contratos podrán contemplar también los montos mínimos para la amortización extraordinaria de estos préstamos.
 
 ### 10. Gastos de cargo del deudor hipotecario
 
@@ -8352,7 +8328,7 @@ Por consiguiente, la única forma de modificar las demás condiciones consiste e
 
 16.- Procedimiento para la ejecución de las garantías hipotecarias.
 
-El procedimiento para ejecutar forzadamente los contratos de mutuos hipotecarios endosables celebrados a contar del 31 de enero de 1996, de acuerdo a la Ley N° 19.439, quedará sujeto a las disposiciones especiales de los artículos 98 a 106 de la Ley General de Bancos.
+El procedimiento para ejecutar forzadamente los contratos de mutuos hipotecarios endosables celebrados a contar del 31 de enero de 1996, de acuerdo a la Ley N° 19.439, quedará sujeto a las disposiciones especiales de los artículos 103 a 111 de la Ley General de Bancos.
 
 ### II. OPERACIONES CON MUTUOS HIPOTECARIOS ENDOSABLES REALIZADAS COMO AGENTES DE
 
@@ -8372,43 +8348,13 @@ administrador, o adquirir mutuos hipotecarios endosables.
 
 ### 2. Agentes administradores
 
-De conformidad con lo dispuesto en el artículo 21 bis, citado en el N° 1
+De conformidad con lo dispuesto en el artículo 21 bis, citado en el N° 1 precedente, y en virtud de las normas contenidas en el artículo 88 de la Ley General de Bancos, las instituciones financieras están facultadas para actuar como agentes administradores de las compañías de seguros del segundo grupo, en el otorgamiento, adquisición y administración de mutuos hipotecarios endosables.
 
-precedente, y en virtud de las normas contenidas en el artículo 51 de la Ley
+Para realizar dichas operaciones, las instituciones financieras, a diferencia de otros agentes administradores, no necesitan estar inscritas en el registro especial, que para tal efecto llevará la Superintendencia de Valores y Seguros. Asimismo, la fiscalización de las instituciones financieras en el desarrollo de esta función será llevada a cabo por la Superintendencia de Bancos e Instituciones Financieras.
 
-General de Bancos, las instituciones financieras están facultadas para actuar
+Los bancos y sociedades financieras que deseen actuar como agentes administradores de compañías de seguros en la realización de estas operaciones, deberán celebrar con dichas empresas un contrato esencialmente revocable, en el que se estipularán las funciones, obligaciones, prohibiciones y derechos de las partes.
 
-como agentes administradores de las compañías de seguros del segundo grupo, en
-
-el otorgamiento, adquisición y administración de mutuos hipotecarios endosables.
-
-Para realizar dichas operaciones, las instituciones financieras, a diferencia de
-
-otros agentes administradores, no necesitan estar inscritas en el registro
-
-especial, que para tal efecto llevará la Superintendencia de Valores y Seguros.
-
-Asimismo, la fiscalización de las instituciones financieras en el desarrollo de
-
-esta función será llevada a cabo por la Superintendencia de Bancos e
-
-Instituciones Financieras.
-
-Los bancos y sociedades financieras que deseen actuar como agentes
-
-administradores de compañías de seguros en la realización de estas operaciones,
-
-deberán celebrar con dichas empresas un contrato esencialmente revocable, en el
-
-que se estipularán las funciones, obligaciones, prohibiciones y derechos de las
-
-partes.
-
-En el desempeño de su función de agentes administradores, las instituciones
-
-financieras podrán actuar como mandatarios a nombre propio o a nombre de su
-
-mandante.
+En el desempeño de su función de agentes administradores, las instituciones financieras podrán actuar como mandatarios a nombre propio o a nombre de su mandante.
 
 ### 3. Seguro para garantizar el fiel cumplimiento de las obligaciones de los
 
@@ -8522,19 +8468,9 @@ modificaciones del contrato de mutuo, tales como autorizaciones para vender o
 
 enajenar el bien hipotecado, prohibiciones, gravámenes, etc.
 
-### 6. Mutuos hipotecarios endosables representativos de reserva técnica y
+6. Mutuos hipotecarios endosables representativos de reserva técnica y patrimonio.
 
-patrimonio.
-
-De conformidad con las normas de la Superintendencia de Valores y Seguros, para
-
-que los mutuos hipotecarios endosables sean representativas de reserva técnica y
-
-patrimonio de las compañías de seguros del segundo grupo, deberán reunir los
-
-requisitos establecidos para tal efecto en la Circular N° 811 del 22 de julio de
-
-1988 de ese Organismo.
+Sin perjuicio de lo indicado en el título I de este Capítulo, relativo a las condiciones que deben cumplir los mutuos hipotecarios endosables otorgados por las instituciones sujetas a la fiscalización de esta Superintendencia, para que dichos mutuos sean representativos de reserva técnica y patrimonio de las compañías de seguros del segundo grupo, deberán cumplir con las exigencias adicionales establecidas por la Superintendencia de Valores y Seguros para el efecto.
 
 ### III. INFORMACION AL DEUDOR HIPOTECARIO
 
@@ -10632,7 +10568,7 @@ Con el objeto de constituir oportunamente las provisiones necesarias para cubrir
 
 Esta Superintendencia, mediante sus visitas inspectivas habituales y por otros medios, evalúa regularmente la calidad de los activos de las instituciones bajo su vigilancia.
 
-Por otra parte, de conformidad con lo dispuesto en el inciso segundo del artículo 13 bis del D.L. 1.097, corresponde a este Organismo publicar, a lo menos tres veces al año, información sobre los activos de las instituciones fiscalizadas y su clasificación y evaluación conforme a su grado probable de recuperabilidad.
+Por otra parte, de conformidad con lo dispuesto en el inciso segundo del artículo 14 de la Ley General de Bancos, corresponde a este Organismo publicar, a lo menos tres veces al año, información sobre los activos de las instituciones fiscalizadas y su clasificación y evaluación conforme a su grado probable de recuperabilidad.
 
 Es imprescindible, por lo tanto, que cada institución financiera cuente con sistemas adecuados para mantener permanentemente evaluados los riesgos de sus activos sobre la base de la metodología dispuesta en este Capítulo, cuya aplicación requiere del análisis de información confiable y oportuna de la situación de los deudores y de conclusiones fundadas acerca de los riesgos y de las posibles pérdidas. Dichos sistemas deben permitir, entre otros aspectos, obtener en cualquier momento la clasificación de la cartera en las correspondientes categorías de riesgo y realizar una revisión de dichas clasificaciones cada vez que sea necesario, lo que debe reflejarse en las clasificaciones que, de acuerdo con las instrucciones del Manual del Sistema de Información, se informan a este Organismo.
 
@@ -10826,7 +10762,7 @@ Para los efectos de las disposiciones contenidas en este número se considerará
 
 a) Préstamos en letras de crédito para la vivienda, otorgados por la misma institución o adquiridos a otra entidad financiera;
 
-b) Préstamos mediante mutuos hipotecarios endosables otorgados al amparo del N° 4 bis del artículo 83 de la Ley General de Bancos, concedidos por la propia institución o adquiridos de terceros, siempre que: i) corresponda a créditos otorgados para financiar la adquisición, ampliación, reparación o construcción de viviendas; y, ii) hayan sido otorgados al usuario final de tales inmuebles;
+b) Préstamos mediante mutuos hipotecarios endosables otorgados al amparo del N° 7 del artículo 69 de la Ley General de Bancos, concedidos por la propia institución o adquiridos de terceros, siempre que: i) corresponda a créditos otorgados para financiar la adquisición, ampliación, reparación o construcción de viviendas; y, ii) hayan sido otorgados al usuario final de tales inmuebles;
 
 c) Préstamos para la vivienda otorgados originalmente por el Sistema Nacional de Ahorro y Préstamo, adquiridos por la institución financiera; y,
 
@@ -10985,8 +10921,6 @@ d) Que se hayan otorgado sin suficientes garantías a una sociedad y que no se d
 7.2. Determinación del riesgo adicional.
 
 Sin perjuicio de la estimación de pérdida de la cartera, conforme a la definición del N° 6 anterior, si la institución tuviere deudores clasificados en categorías "A" o "B", que deban a la institución financiera un monto igual o superior al equivalente de 25.000 Unidades de Fomento y que tengan algún crédito que cumpla con alguna de las características señaladas en las letras a), b), c) o d) del numeral 7.1 precedente, otorgado o renovado con posterioridad al 30 de junio de 1988, se considerará como riesgo adicional de la cartera de colocaciones el monto equivalente a un 5% del importe total adeudado por tales deudores, incluidos sus reajustes e intereses por cobrar.
-
-En todo caso, el monto de dicho riesgo adicional no se considerará como pérdida estimada de activos para efectos del cálculo del compromiso patrimonial y demás aspectos que contempla la Ley General de Bancos, en particular su artículo 119, sin perjuicio de la obligación de mantener una provisión especial para cubrir ese riesgo adicional, la que sí será computada para aquellos efectos.
 
 ### 8. Revisión de esta Superintendencia
 
@@ -23306,7 +23240,7 @@ b) Domicilio legal;
 
 c) Fecha de la escritura de constitución de la sociedad;
 
-d) Número y fecha de la Resolución de esta Superintendencia en que autorizó la existencia o instalación de la institución, conforme a los artículos 28 ó 29 dela Ley General de Bancos; y,
+d) Número y fecha de la Resolución de esta Superintendencia en que autorizó la existencia o instalación de la institución, conforme a los artículos 31 ó 32 de la Ley General de Bancos; y,
 
 e) Inscripción en el Registro de Comercio.
 
@@ -23326,23 +23260,21 @@ Deberán mantenerse a disposición del público los siguientes antecedentes fina
 
 a) Monto del capital pagado y reservas. Corresponderá a la suma de los saldos que deben incluirse en las partidas 4305 a 4405 a la fecha que corresponda;
 
-b) Relación deuda/capital. Este indicador se establecerá de acuerdo con las instrucciones del Capítulo 12-2 de esta Recopilación Actualizada de Normas;
+b) Relación del capital básico con los activos totales y del patrimonio efectivo con los activos ponderados por nesgo, de que trata el Capítulo 12-1 de esta Recopilación.
 
-c) Coeficiente de cobertura patrimonial. Deberá corresponder al último porcentaje publicado por esta Superintendencia.
+c) Total de compromisos vigentes por avales y fianzas y obligaciones contingentes. Este monto deberá ser igual al total de obligaciones contingentes registradas a la fecha que corresponda;
 
-d) Total de compromisos vigentes por avales y fianzas y obligaciones contingentes. Este monto deberá ser igual al total de obligaciones contingentes registradas a la fecha que corresponda;
+d) Monto de operaciones de intermediación vigentes. Se indicará la suma de las partidas 3105 a 3115.
 
-e) Monto de operaciones de intermediación vigentes. Se indicará la suma de las partidas 3105 a 3115.
+Los antecedentes deben estar referidos a la fecha del último estado de situación o estado financiero preparado para su publicación conforme a las normas de los Capítulos 18-2 y 18-1 de esta Recopilación, debiendo actualizarse a más tardar el último día del mes siguiente a la fecha a la que esos estados se refieran.
 
-Los antecedentes deben estar referidos a la fecha del último Balance o Estado de Situación que se haya publicado en un periódico de acuerdo con las instrucciones de esta Superintendencia y se actualizarán dentro del plazo máximo de 10 días acontar de la respectiva publicación. La información indicada en la letra c), sin embargo, se actualizará cada vez que el coeficiente de cobertura patrimonial sea publicado por este Organismo, disponiéndose para ello también de un plazo de diez días.
-
-Con la presentación de los antecedentes mencionados en las letras b), d) y e)anteriores, se entenderá cumplida la obligación que, en lo atinente a esa información específica, se exige en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
+Con la presentación de los antecedentes mencionados en las letras b), c) y d) anteriores, se entenderá cumplida la obligación que, en lo atinente a esa información específica, se exige en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 2.4. Estados financieros anuales y Estados de Situación.
 
-Se mantendrá igualmente a disposición del público, una copia de los dos últimos Estados de Situación que se hayan publicado y una copia de los Estadas Financieros anuales referidos a los dos últimos ejercicios, con el correspondiente informe de los auditores externos.
+Se mantendrá igualmente a disposición del público, una copia de los dos últimos Estados de Situación preparados en conformidad con lo dispuesto en el Capítulo 18-2 de esta Recopilación, y una copia de los Estadas Financieros anuales referidos a los dos últimos ejercicios, con el correspondiente informe de los auditores externos.
 
-Las entidades fiscalizadas tendrán un plazo de 10 días para actualizar esta información, a contar de la fecha de publicación de dichos estados. A conveniencia de la administración, los estados financieros anuales podrán ser reemplazadas posteriormente por la Memoria de la sociedad.
+Las instituciones financieras actualizarán esta información a más tardar el último día del mes siguiente al que se refiera el nuevo estado financiero. A conveniencia de la administración, los estados financieros anuales podrán ser reemplazadas posteriormente por la Memoria de la sociedad.
 
 2.5. Hechos relevantes publicados.
 
@@ -23378,59 +23310,41 @@ La institución financiera, a requerimiento de cualquier persona, tiene la oblig
 
 ANEXO N° 1
 
-MODELO DE CARTELERA INFORMACION SOBRE LA INSTITUCION.
+MODELO DE CARTELERA
 
 INFORMACION SOBRE LA INSTITUCION.
 
-La siguiente es una información general acerca de esta institución.
+La siguiente es una información general acerca de esta institución. MAYOR INFORMACION sobre ella puede ser CONSULTADA POR USTED en ............ (1) .. ..................
 
-MAYOR INFORMACION sobre ella, puede ser CONSULTADA POR USTED en
+Razón social: .................................................
 
-............................(1)..............................
+Dirección de la oficina principal: .............................................
 
-Razón social: ..............................................................
-
-Dirección de la oficina principal: .........................................
+................................................................................
 
 DIRECTORIO
 
-Presidente: ................................................................
+Presidente: ...............................
 
-Vicepresidente: ............................................................
+Vicepresisente: ...........................
 
-Directores: ................................................................
+Directores: ................................
 
-Gerente General: ..........................................................
+Gerente General: ............................
 
-Antecedentes financieros:
+Antecedentes financieros al ...../...../..... :
 
-Capital y reservas al $..../.../.................millones.
+Capital pagado y reservas: $ ........ millones.
 
-Relación Deuda / Capital al ..../..../.........veces.
+Patrimonio efectivo: $ ........ millones. (*)
 
-Coeficiente de cobertura patrimonial al .....% (#)
+Capital básico/Activo total: ..... % (*)
 
-(#) El coeficiente de cobertura patrimonial es un indicador publicado por la
+Patrimonio efectivo/Activos ponderados por riesgo: ...... % (*)
 
-Superintendencia de Bancos e Instituciones Financieras de acuerdo con lo
+(*) Corresponde al patrimonio y relaciones con los activos señaladas en el Título VII de la Ley General de Bancos. De acuerdo con el artículo 66 de dicha Ley, el capital básico no puede ser inferior al 3% de los activos totales, en tanto que el patrimonio efectivo debe ser a lo menos igual a 8% de los activos ponderados por riesgo, netos de provisiones exigidas.
 
-dispuesto en el art. 13 bis del D.L. N° 1.097. Un coeficiente mayor que 100
-
-señala que, al considerarse las pérdidas estimadas y los excedentes a esa
-
-fecha,resulta un patrimonio superior al capital y reservas contabilizado; si es
-
-menor indica que las provisiones y excedentes son insuficientes para cubrir las
-
-pérdidas estimadas y existe, en consecuencia, un compromiso del capital y
-
-reservas.
-
-(1): Descripción de la ubicación del mesón donde se encuentra la correspondiente
-
-carpeta, o la sección o unidad donde ésta se halla, dependiendo de las
-
-características de la oficina de que se trate.
+(1): Descripción de la ubicación del mesón donde se encuentra la correspondiente carpeta, o la sección o unidad donde ésta se halla, dependiendo de las características de la oficina de que se trate.
 
 CAPITULO 18-10 (Bancos y Financieras)
 
