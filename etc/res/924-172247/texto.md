@@ -1,0 +1,3 @@
+Por resolución Nº924, de 18 de mayo de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Lenga Sector A, VIII Región, individualizada en el artículo 1º) Nº3 del D.S. Nº729 de 1997, citado en Visto, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES, BUZOS MARISCADORES Y PRODUCTORES DE ALGAS CALETA LENGA DE TALCAHUANO.
+
+Valparaíso, 18 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
