@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.357 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 12, superficie 272 m2, rol de Avalúo Nº 518-49, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo I Km. 0,00000 a Km. 3,95000", VIII Región y se acordó el valor de la indemnización con su propietaria Alicia del Carmen Salamanca Mellado, ascendente a la cantidad de $695.243.-
+
+Fiscal del Ministerio de Obras Públicas.
