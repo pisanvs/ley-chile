@@ -1,0 +1,3 @@
+Por decreto MOP Nº 207, de 31 de enero de 2000, se expropió el lote de terreno Nº 42-A, superficie 23.559 m², rol de avalúo 1547-18, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli. By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietario Eduardo del Carmen Novoa González, ascendente a la cantidad de $29.125.488.
+
+- Fiscal del Ministerio de Obras Públicas.
