@@ -610,13 +610,11 @@ Cualquiera persona podrá reclamar de la composicion y de las clasificaciones de
 
 #### Artículo 94
 
-Por exijirlo el interes nacional, los establecimientos de la primera categoría, que actualmente existan, y los que en adelante existieran, cerrarán sus puertas, es decir, se clausurarán, desde las cinco de la tarde de los dias sábados, hasta las ocho de la mañana de los dias lúnes de todo el año. Igual clausura será obligatoria durante los dias festivos y feriados.
-
-Tampoco podrán abrirse, ni funcionar cantinas ni establecimientos en que se espendan bebidas alcohólicos en las poblaciones modelos para obreros, construidas por los Consejos de Habitaciones, por instituciones de beneficencia o de otra naturaleza, y que hayan sido previamente declaradas "hijiénicas" y "económicas" por los respectivos Consejos, ni a una distancia menor de doscientos metros de las mismas poblaciones.
+DEROGADO
 
 #### Artículo 95
 
-Por exijirlo el interes nacional, en los establecimientos de segunda categoría no podrá venderse ni consumirse, bebida alcohólica alguna, desde las cinco de la tarde de los dias sábados hasta las ocho de la mañana de los dias lúnes, y durante los dias festivos y feriados, fuera de las horas de almuerzo y de comida.
+DEROGADO
 
 #### Artículo 96
 
