@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.126, de 30 de marzo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº44, para la obra: Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector:
+
+Km. 506.200,00 al Km. 515.600,00, By - Pass Los Angeles, Octava Región, que figura a nombre de Marín Infante Raimundo, rol de avalúo 1545-34, comuna de Los Angeles, superficie 46.003 m². La comisión de peritos integrada por los señores Karin Alicia Ernst Elizalde, Claudio Manuel Castro Gutiérrez y Juan Pablo Cuevas Castillo, fijó con fecha 27 de octubre de 1999, el valor provisional de la indemnización en la cantidad de $63.388.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
