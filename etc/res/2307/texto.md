@@ -1,0 +1,3 @@
+Por resolución Nº 2.307, de 11 de noviembre de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 772 de 1991 y Nº 288 de 1994, ambas de esta Subsecretaría, en cuanto autorizaron a RAMON MOLINA VERA, para instalar y operar el Sector 3 del centro de cultivo ubicado en canal Caulín, comuna de Ancud, provincia de Chiloé, X Región.
+
+Valparaíso, 11 de noviembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
