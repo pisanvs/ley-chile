@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.348, de 31 de agosto de 1998, se expropió el lote de terreno No. 27-A, superficie 1.549 m2., Rol de Avalúo 20-61, comuna de Calle Larga, para la obra Camino Santiago-Colina-Los Andes, Sector "G" By Pass Los Andes, KM. 0.000,00 al 5.026,61, V Región, y se acordó precio de la indemnización con Isabel Angélica Fábrega Montanares, ascendente a la cantidad de $ 2.539.054.
+
+- Fiscal del Ministerio de Obras Públicas.
