@@ -1,0 +1,3 @@
+Por resolución Nº 1.441, de 13 de julio de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Totoralillo Centro Sector B, IV Región, individualizada en el artículo 1°) N° 13 del DS N° 509 de 1997 del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE BUZOS ASISTENTES Y PESCADORES ARTESANALES DE TOTORALILLO-COMUNA DE COQUIMBO, IV Región.
+
+Valparaíso, 13 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
