@@ -1,0 +1,3 @@
+Por decreto MOP Nº 577, de 9 de junio de 2003, y en base a la facultad otorgada por el artículo 12 de la ley Nº 18.777, de 1989, se expropió para la Empresa de Obras Sanitarias de Valparaíso S.A. el lote de terreno Nº 1, para la obra: Planta Impulsora Ramaditas Nº 2, que figura a nombre de Lara Orellana María A y Otros, Rol de Avalúo 6136-2, comuna de Valparaíso, V Región, superficie 308,90 m². La Comisión de Peritos, con fecha 17 de abril de 2003, fijó el monto de la indemnización provisional en la cantidad de $6.795.800, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
