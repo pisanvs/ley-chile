@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.033 de 30 de septiembre de 1999, se expropió el lote de terreno Nº 83-2, superficie 1.184 m², rol de avalúo 2230-147, comuna de Osorno, para la obra Concesión Internacional Ruta 5: Tramo Río Bueno - Puerto Montt. Sector: Pilauco, Décima Región y se acordó el valor de indemnización con sus propietarios Carlos Rolando Oyarzún Durán y otro, ascendente a la cantidad de $13.354.159.-
+
+Fiscal del Ministerio de Obras Públicas.
