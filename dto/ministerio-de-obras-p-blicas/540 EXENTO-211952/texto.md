@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº540 de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº76-E, superficie 50,60 m², Rol de Avalúo en trámite, comuna de San Clemente, VII Región para la obra "Camino Los Robles- Huencuecho-Bajo Perquín, Sector Huencuecho-Bajo Perquín, Tramo Km. 46.140,00 a Km. 76.107,70" y se acordó el valor de indemnización con su propietaria Ana Julia Henríquez Avila, ascendente a la cantidad de $265.887.
+
+- Fiscal del Ministerio de Obras Públicas.
