@@ -1,0 +1,3 @@
+Por decreto MOP Nº385 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº12, superficie 700 m2, Rol de avalúo 604-54, comuna de Mulchén, para la obra "Camino Ruta Q-80, Sector Ruta 5-Mulchén, Tramo I Km. 0,00000 a Km. 2,76300" y Sector Ruta 5-Negrete, Tramo II Km. 0,00000 a Km. 29,93300" y se acordó el valor de indemnización con su propietario Antonio Pérez Pérez, ascendente a la cantidad de $539.226.
+
+Fiscal del Ministerio de Obras Públicas.
