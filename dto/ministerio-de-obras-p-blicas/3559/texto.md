@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.559 de fecha 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 216-C, 216-D y 218-B, superficie 70 m²., 632 m². y 672 m². respectivamente, rol de avalúo 609-3, comuna de Tomé, para la obra ''Camino Acceso Norte a Concepción Sector Km. 11.192.00 a Km. 74.105.00'' y se acordó el valor de indemnización con su propietario Víctor Manuel Baeza Baeza, ascendente a la cantidad de $825.939.-
+
+Fiscal del Ministerio de Obras Públicas.
