@@ -1,0 +1,5 @@
+Por decreto MOP. Nº160 de l8 de febrero de l998,y en base a la facultad otorgada por el artículo 105 del decreto MOP. Nº294 de 1984 (D.F.L. Nº850 de 1997), que fijó el texto actualizado de la Ley Nº l5.840, se expropió el lote de terreno Nº27-1, para la obra Camino Santiago - Colina - Los Andes Sector "B", By Pass Colina, Km. 0.739,90 al Km.
+
+5.926,30, que figura a nombre de Soc. Agrícola Sta. Filomena S.A., rol de avalúo 164-11, comuna de Colina, superficie 25.875,8 m2. La Comisión de Peritos integrada por los señores Carlos Garcés Fernández, Inés Elena Otárola Castillo y Ramón Enrique DomIngo Labarca, fijó con fecha 29 de diciembre de 1997, el valor provisional de la indemnización en la cantidad de $60.161.235.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
