@@ -1,0 +1,1 @@
+Crea, bajo la dependencia del Ministerio de Hacienda, una Comisión Coordinadora para la Zona Norte, fija su composición, señala sus atribuciones y la somete a la fiscalización de la Contraloría General de la República.
