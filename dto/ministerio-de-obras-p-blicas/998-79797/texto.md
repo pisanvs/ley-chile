@@ -1,0 +1,5 @@
+Por Decreto MOP. Nº 998, de 15 de octubre de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto MOP. Nº 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 35, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, Las Acacias -
+
+Río Maipo, que figura a nombre de Abbruzzese y Cía. Ltda., rol de avalúo Nº 2589-76, comuna de San Bernardo, Región Metropolitana, superficie 730 M2., respectivamente. La Comisión de Peritos compuesta por los señores Ramón Undurraga Montes, Jorge Navarro Navarrete y Patricia Zavala Contreras, fijó con fecha 20 de diciembre de 1996, el valor provisional de la indemnización en la cantidad de $37.388.950. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
