@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.106, de 31 de julio de 2001, se expropió el lote de terreno Nº76, superficie 235 m², rol de avalúo 277-32, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo - Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario Carlos Roberto Rebollo Zúñiga, ascendente a la cantidad de $1.443.185.-
+
+Fiscal del Ministerio de Obras Públicas.
