@@ -1,0 +1,1 @@
+Decreto-Lei N° 416, que modifica la lei N° 3,929, sobre impuesto a las donaciones y asignaciones por causa de muerte.
