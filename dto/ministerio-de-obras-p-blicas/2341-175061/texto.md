@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.341, de 30 de mayo de 2000, se expropió el lote de terreno Nº136, superficie 203 m², rol de avalúo 5356-26, comuna de La Granja, para la obra Concesión Internacional Ruta 5, tramo Santiago - Talca, Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietaria Josefina del Pilar Cerdeira Díaz, ascendente a la cantidad de $27.187.219.
+
+Fiscal del Ministerio de Obras Públicas.
