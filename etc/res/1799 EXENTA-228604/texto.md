@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.799, de 2 de julio de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Río Llico Sector B, X Región, individualizada en el artículo 1º del decreto exento Nº 774 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES, BUZOS, ASISTENTES DE BUZOS MARISCADORES Y RAMOS AFINES DE ESTAQUILLA "EL FUTURO".
+
+Valparaíso, 2 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
