@@ -1,0 +1,3 @@
+Por Resolución N° 622, de 16 de Agosto de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase y devuélvanse los antecedentes de la solicitud de concesión de acuicultura presentada por doña MERCEDES CUELL AZOCAR, R.U.T. N° 6.404.977-1, para instalar y operar un establecimiento de cultivo de algas del género Gracilaria, en la Parcela N° 7, Lote C, de la Ribera Norte del Río Maullín, Comuna de Maullín, Provincia de Llanquihue, X Región, por sobreponerse el área solicitada con otra solicitud en trámite, en virtud de lo prescrito en el artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 16 de Agosto de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
