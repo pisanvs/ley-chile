@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.414, de fecha 29 de diciembre del 2000, se expropió el lote de terreno Nº 13, superficie 4.566,09 m², rol de avalúo 248-275, comuna de Salamanca, para la obra ''Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias'' y se acordó el valor de indemnización con su propietario Ramón Luis Cuevas Tapia, ascendente a la cantidad de $9.731.122.-
+
+Fiscal del Ministerio de Obras Públicas.
