@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 881, de 5 de octubre de 2004, se modificó el decreto MOP Nº 222, de 26 de marzo de 2004, que ordenó la expropiación del lote de terreno Nº 219L4, de manera que se rectificó el numeral 2º , en cuanto a que la superficie a expropiar, quedó en 210 m2 y no 247 m2, como se indicó inicialmente. Asimismo, se modificaron los numerales 3º y 7º , en el sentido de que la indemnización provisional es la suma de $44.012.100.
+
+Fiscal del Ministerio de Obras Públicas.
