@@ -1,0 +1,5 @@
+Por decreto MOP Nº905, de 22 de abril de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 10 y 11; para la obra Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli, Sector By Pass Salto del Laja, Km. 480.459,20 al Km. 483.573,00, Octava Región, que figuran a nombre de Bravo Rivera Hector Arturo, rol de avalúo 1507-123, comuna de Los Angeles, superficies de 4.394 m2 y 5.244 m2 respectivamente. La comisión de peritos integrada por los señores Luis Soto Abarca, Eddie Cerda Ureta y Juan Andrés Tepper Lavanderos, fijó con fecha 3 de septiembre de 1998, el valor provisional de las indemnizaciones en las cantidades de
+
+$16.191.300.- para el lote N° 10 y de $2.513.360.- para el lote N° 11. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
