@@ -1,0 +1,3 @@
+Por decreto MOP. No. 395, de 31 de marzo de 1998, se expropió el lote de terreno No. 185-A, superficie 816 m., Rol de Avalúo 179-463, comuna de Nogales, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, sector km. 121.100,00 a km. 127.900,00, y se acordó precio de la indemnización con su propietario Fuchs Friedrich Paul Marie, ascendente a la cantidad de $ 3.136.648.
+
+-Fiscal del Ministerio de Obras Públicas.
