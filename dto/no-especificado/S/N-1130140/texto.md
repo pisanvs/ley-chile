@@ -1,0 +1,5 @@
+Consulta del Tribunal mayor de cuentas sobre nuevo término en la introduccion de mercaderías extranjeras.
+
+Exmo. Sr.- Hacen algunos dias que se cumplió el término permitido para la internacion de las mercaderías prohibidas al art. 216 del reglamento de 13. El Tribunal tiene entendido que los buques anclados en la bahía del puerto de Valparaiso tienen a su bordo de aquellos artículos. Las apuradas circunstancias del erario creo no permiten por ahora prohibir internacion alguna al menos por el término de un año. De lo contrario sería inevitable ocurrir al horroroso riste recurso de las contribuciones directas. Tampoco cree el Tribunal convenga que las mercaderías prohibidas paguen mas derechos que las que na lo son. Todo cuanto se quiera decir contra todo lo expuesto no puede tener lugar al presente en concepto de los que se penetren del estado actual de la hacienda pública. Sobretodo V.E. resolverá lo que mejor convenga y lo comunicará a este Tribunal si lo tiene a bien para avisarlo a la aduana de desambarco. Sala del Tribunal mayor de cuentas, Febrero 6 de 1823.-
+
+Rafael Correa de Saa.
