@@ -1,0 +1,3 @@
+Por decreto MOP Nº447 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº73-C, superficie 2.940 m2, Rol de Avalúo Nº277-213, comuna de Pelluhue, VII Región para la obra "Camino Chovellén - Cobquecura Sector: Chovellén - Límite Regional Tramo: Km. 18,260.00 a Km. 35,158.60" y se acordó el valor de indemnización con su propietaria Graciela Gabriela Alvear Bustos, ascendente a la cantidad de $5.623.808.
+
+- Fiscal del Ministerio de Obras Públicas.
