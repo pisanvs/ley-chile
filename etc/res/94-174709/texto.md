@@ -1,0 +1,3 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F Nº 94, de 07 de diciembre de 1987, se ha ordenado pagar la suma de $ 1.095.714.- a PROVIEN o a quien acredite derecho como valor de la indemnización correspondiente al 100% del avalúo fijado por la Comisión de Hombres Buenos, más su reajuste, con motivo de la expropiación del Lote Nº 1, de una superficie de 64.582 m2, ubicado en la Comuna de Viña del Mar, V Región, necesario para la construcción de la obra Camino Internacional Valparaíso a Caracoles, sector Achupallas a Concón. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la segunda publicación que se hará en un periódico de la V Región.-
+
+Fiscal del Ministerio de Obras Públicas.
