@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.479, de 2 de diciembre de 2004, de esta Subsecretaría, autorízase a JOSE HERNAN UGARTE EDWARDS, para transferir a Ugarte e Hijos Limitada, la piscicultura ubicada en río Iculpe, X Región, autorizada por la resolución Nº 1.182 de 1988, modificada mediante resolución Nº 2.779 de 2002, ambas de esta Subsecretaría.
+
+Valparaíso, 2 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
