@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.063, de 29 de junio de 2001, se expropió el lote de terreno Nº 1-B, superficie 10.305 m2., rol de avalúo 3501-87, comuna de Quilpué, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Tramo, Quinta Región y se acordó el valor de indemnización con su propietaria Cooperativa de Viviendas y Servicios Habitacionales Sol del Pacífico Limitada de Valparaíso, ascendente a la cantidad de $78.534.765.-.
+
+Fiscal del Ministerio de Obras Públicas.
