@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.090, de 30 de julio de 1999, se expropiaron los lotes de terreno Nºs 32-1B y 32-1D, superficies 2.351,0 m2. y 1.052,0 m2., rol de avalúo 536-20, comuna de Victoria, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietaria Soc. Comercial Industrial y de Inversiones Ximplar Ltda., ascendente a la cantidad total de $1.908.058.-
+
+Fiscal del Ministerio de Obras Públicas.
