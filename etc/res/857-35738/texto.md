@@ -1,0 +1,3 @@
+Por Resolución N° 857, de 7 de mayo de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por ERNESTO ENRIQUE LAWRENCE DIAZ, para un centro de cultivo ubicado en Isla Apiao, Comuna de Quinchao, Provincia de Chiloé, X Región, por no dar cumplimiento el respectivo proyecto técnico a lo dispuesto en los artículos 78°, 87° y 88° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 7 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
