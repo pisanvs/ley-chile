@@ -1,0 +1,5 @@
+Por decreto MOP Nº 946, de 25 de octubre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 122, para la ejecución de la obra "Camino Ruta S-790, Sector Nueva Toltén Limite Regional (Queule), tramo Km.
+
+87,50000 a Km. 103,33500, correspondiente al Subtramo III, Km. 87,50000 a Km. 92,33000', que figura a nombre de Nancufil Mellado María, rol de avalúo 238-267, comuna de Toltén, IX Región, superficie: 1.827 M2. La Comisión de peritos con fecha 14 de noviembre de 2003, fijó el monto de la indemnización provisional en la cantidad de $3.404.800, para el lote Nº 122. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
