@@ -1,0 +1,3 @@
+Por resolución Nº 463, de 7 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº94106045, presentada por SALMONES PACIFIC STAR LTDA., para operar un centro de cultivo ubicado en Estero Guamblad, comuna de Quellón, provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 7 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
