@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 134, de 29 de febrero de 1996, se expropiaron los lotes de terrenos N°s. 17, 18 y 19, superficies 11.104, 1.607 y 684 M2., rol de avalúo 3064-12, Comuna de Ovalle,, para la obra Camino Ruta 5 Norte, Sector Hornillos Peñablanca Tramo Km. 325,54207 a Km. 356,59181, y se acordó precio de indemnización con su propietario Hernán Pizarro Pizarro, ascendente a la cantidad de $3.990.528.
+
+- Fiscal del Ministerio de Obras Públicas.
