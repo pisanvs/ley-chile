@@ -3198,7 +3198,13 @@ Los ejemplares, máquinas u objetos contrahechos, introducidos o expendidos frau
 
 #### Artículo 472
 
-El que habitualmente hubiere suministrado valores, de cualquier manera que sea, a un interés que exceda del máximum que la ley permita estipular, abusando de la debilidad o pasiones del que lo toma, será castigado con relegación menor en sus grados mínimo a medio y multa de ciento a mil pesos.
+El que suministre valores, de cualquiera manera que sea, a un interés que exceda del máximo que la ley permita estipular, será castigado con presidio o reclusión menores en cualquiera de sus grados.
+
+Condenado por usura un extranjero, será expulsado del país; y condenado como reincidente en delito de usura un nacionalizado, se le cancelará su nacionalización y se le expulsará del país.
+
+En ambos casos la expulsión se hará después de cumplida la pena.
+
+En la sustanciación y fallo de los procesos instruidos para la investigación de estos delitos, los Tribunales apreciarán la prueba en conciencia.
 
 #### Artículo 473
 
