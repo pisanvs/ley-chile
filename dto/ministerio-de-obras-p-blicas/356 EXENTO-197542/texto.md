@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº356, de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº1-A, superficie 1.094 m2, Rol de avalúo Nº589-16, comuna de Yungay, para la obra "Area de Riego Yungay, Canal Trilaleo Faja Adicional Km.0.050 al Km.4.606 del Proyecto Laja Diguillín", VIII Región y se acordó el valor de indemnización con su propietaria María Isabel Avello Anabalón y Otros, ascendente a la cantidad de $321.167.-
+
+Fiscal del Ministerio de Obras Públicas.
