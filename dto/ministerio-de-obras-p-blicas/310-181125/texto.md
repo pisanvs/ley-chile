@@ -1,0 +1,3 @@
+Por decreto MOP Nº310, de fecha 29 de diciembre de 2000, se expropió el lote de terreno Nº10, superficie 444 m2, rol de avalúo 129-18, comuna de Machalí, para la obra "Camino Caletones - Termas de Cauquenes, Conexión Ruta 5 Sur Roles H-255; H-35 y H-405, Sector Coya - Gultro, Km. 0,00000 al 28,38019" y se acordó el valor de indemnización con su propietario Benjamín Abarca Romero, ascendente a la cantidad de $1.968.296.-
+
+Fiscal del Ministerio de Obras Públicas.
