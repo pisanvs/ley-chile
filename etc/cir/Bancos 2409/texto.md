@@ -25116,7 +25116,9 @@ RESERVAS Y PROVISIONES EN MONEDA EXTRANJERA.
 
 1.- Generalidades.
 
-Los bancos pueden mantener divisas en calidad de reservas o provisiones en moneda extranjera, generadas principalmente por la compra que les ha permitido efectuar anualmente el Banco Central de Chile, de sus ingresos netos en esas monedas.
+Los bancos pueden mantener divisas en calidad de reservas o provisiones en moneda extranjera, generadas principalmente por la compra que en su oportunidad les permitió efectuar el Banco Central de Chile, de sus ingresos netos en esas monedas.
+
+De conformidad con lo dispuesto en los Capítulos III y XI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, a partir del cierre del ejercicio del año 1992 los bancos pueden, sujetos sólo a la previa autorización de esta Superintendencia, constituir reservas en monedas extranjeras mediante la adquisición de todo o parte del ingreso neto que generen anualmente en esas monedas. Dichas reservas se constituirán a más tardar el último día hábil del mes de febrero del año siguiente a aquel en que se obtenga el ingreso neto.
 
 Además, los bancos receptores de aportes de capital del exterior acogidos a las disposiciones del Decreto Ley N° 600, de 1974, como sucede con las sucursales de bancos extranjeros, pueden mantener en calidad de reservas sus utilidades liquidas, convertidas a moneda extranjera, siempre que para ello cuenten con la aprobación de esta Superintendencia y del Banco Central de Chile.
 
@@ -25348,29 +25350,35 @@ MATERIA:
 
 LIQUIDACION DE LAS CUENTAS DE RESULTADO EN MONEDAS EXTRANJERAS AL CIERRE DEL EJERCICIO.
 
-### 1. Liquidación de saldos de cuentas de resultado en moneda extranjera
+1.- Liquidación de saldos de cuentas de resultado en moneda extranjera.
 
-A fin de dar cumplimiento a lo dispuesto en el N° 2 de la letra A) del Capítulo III del Titulo I del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile, los saldos en moneda extranjera que las entidades bancarias registren en cada una de sus diferentes cuentas de resultado al cierre del ejercicio, deberán convertirse a moneda chilena, a las equivalencias informadas por este Organismo que se encuentren vigentes a esa fecha, de acuerdo con lo dispuesto en el Capítulo 13-30 de esta Recopilación.
+Al cierre de cada ejercicio los saldos en moneda extranjera que las entidades bancarias registren en cada una de sus diferentes cuentas de resultado deberán convertirse a moneda chilena, de acuerdo con el tipo de cambio de representación contable de que trata el Capitulo 13-30 de esta Recopilación.
 
-### 2. Monedas sujetas a posición de cambio
+2.- Monedas sujetas a posición de cambio.
 
-La liquidación de las cuentas de resultado en monedas extranjeras, con la sola excepción de aquellas en monedas denominadas de "libre disposición", se registrará mediante cargos o abonos en la cuenta "Conversión mercado bancario", según se trate de saldos deudores o acreedores. El correspondiente contravalor en moneda chilena, se debitará o acreditará en la cuenta de resultado del mismo nombre, en Pesos, con abono o cargo en la respectiva cuenta "Cambio mercado bancario".
+La liquidación de las cuentas de resultado en monedas extranjeras, con la sola excepción de aquellas en monedas denominadas de "libre disposición", se registrará mediante cargos o abonos en la cuenta "Conversión liquidación cuentas de resultado", según se trate de saldos deudores o acreedores. El correspondiente contravalor en moneda chilena, se debitará o acreditará en Pesos en la cuenta de resultado del mismo nombre que aquella que registraba la moneda extranjera, con abono o cargo en la respectiva cuenta "Cambio liquidación cuentas de resultado".
 
-Habida consideración que estos ingresos y egresos afectan la Posición de Cambios, los bancos comunicarán al Banco Central de Chile los movimientos generados por esas compras y ventas de moneda extranjera, mediante la emisión de las correspondientes "Planillas de operación de cambios" las que integrarán el "Informe Diario de Posición y Operaciones de Cambios Internacionales", del día en que esas liquidaciones se cursen.
+Las cuentas "Conversión liquidación cuentas de resultado" y "Cambio liquidación cuentas de resultado" antes mencionadas formarán parte de las partidas 2510 y 4510 y se saldarán con cargo o abono a las cuentas "Conversión mercado bancario" y "Cambio mercado bancario" en las siguientes oportunidades, según corresponda.
 
-### 3. Monedas de libre disposición
+a) Al momento de constituir Reservas en moneda extranjera con todo o parte de su ingreso neto en moneda extranjera, conforme a las instrucciones del Capítulo 13-28 de esta Recopilación Actualizada de Normas;
 
-Los saldos que se registren en cuentas de ingresos y gastos y que estén expresados en cualquiera de las monedas de libre disposición se liquidarán mediante abonos o cargos en la respectiva cuenta "Conversión mercado de divisas de libre disposición". El contravalor resultante en moneda chilena, determinado según las equivalencias informadas por este Organismo, se acreditará o debitará en la cuenta del mismo nombre de ingresos o gastos en moneda chilena, según corresponda, mediante el débito o crédito pertinente en la cuenta "Cambio mercado de divisas de libre disposición". A continuación, el saldo de esta última cuenta se ajustará utilizando el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera, conforme a las instrucciones del N° 2 del Capítulo 13-30 de esta Recopilación.
+b) A más tardar el último día hábil del mes de febrero del año siguiente, en el caso que el banco resuelva no constituir Reservas en moneda extranjera con su ingreso neto; y
 
-4. Información que debe enviarse al Banco Central de Chile y a esta Superintendencia.
+c) En el curso del mes de enero del año siguiente, cuando exista una pérdida neta en moneda extranjera.
 
-Al término de las operaciones del día 15 de diciembre de cada año, o del día hábil bancario inmediatamente anterior, en caso de no serlo la fecha establecida, los bancos deberán declarar al Banco Central de Chile los Ingresos y egresos habidos en las diferentes monedas extranjeras de que trata el N° 2 de este Capítulo, registrados en sus cuentas de resultado hasta ese día.
+En esas oportunidades, en que se afecta la Posición de Cambios, los bancos comunicarán al Banco Central de Chile los movimientos generados por las respectivas compras y ventas de moneda extranjera, mediante la emisión de las correspondientes "Planillas de operación de cambios" las que integrarán el "Informe Diario de Posición y Operaciones de Cambios Internacionales".
 
-Los mismo antecedentes, referidos a los ingresos y gastos habidos en el ejercicio terminado el 31 de diciembre, deberán ser entregados al Banco Central de Chile y a esta Superintendencia.
+En caso de que al cierre del mes de enero no se haya procedido aún a realizar la liquidación definitiva señalada precedentemente, se deberán ajustar los saldos de las cuentas "Cambio liquidación cuentas de resultado" de acuerdo con lo dispuesto en el N° 5 del Capítulo 13-30, con cargo o abono a una cuenta de la partida 5715 ó 7715, según corresponda.
 
-La información se proporcionará dentro de los 3 días hábiles siguientes a la fecha de término antes mencionada, mediante el formulario A-8 y de acuerdo con las instrucciones del Manual del Sistema de Información.
+3.- Monedas de libre disposición.
 
-Como ya se indicó, esta información comprenderá los resultados en las monedas extranjeras en que ellos se hubieren producido, exceptuadas las de "libre disposición", ya que los ingresos y egresos en estas últimas monedas están excluidos de la Posición de Cambios para los efectos de determinar el excedente o déficit arrojado al cierre del ejercicio por las cuentas de resultado en moneda extranjera.
+Los saldos que se registren en cuentas de ingresos y gastos y que estén expresados en cualquiera de las monedas de libre disposición se liquidarán mediante abonos o cargos en la respectiva cuenta "Conversión mercado de divisas de libre disposición" El contravalor resultante en moneda chilena, determinado según las equivalencias informadas por este Organismo, se acreditará o debitará en la cuenta del mismo nombre de ingresos o gastos en moneda chilena, según corresponda, mediante el débito o crédito pertinente en la cuenta "Cambio mercado de divisas de libre disposición" A continuación, el saldo de esta última cuenta se ajustará utilizando el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera, conforme a las instrucciones del N° 5 del Capítulo 13-30 de esta Recopilación.
+
+4.- Información que debe enviarse al Banco Central de Chile y a esta Superintendencia.
+
+Los bancos deberán declarar al Banco Central de Chile y a esta Superintendencia los ingresos y egresos habidos en las diferentes monedas extranjeras de que trata el N°2 de este Capítulo, registrados al cierre del ejercicio anual.
+
+La información se proporcionará de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información.
 
 CAPITULO 13-32(Bancos)
 
