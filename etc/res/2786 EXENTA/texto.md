@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.786, de 1 de octubre de 2004, de esta Subsecretaría, autorízase a DISTRIBUIDORA DE PRODUCTOS DEL MAR RIMAR LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Trinidad Ramírez Nº 0241, La Cisterna, Santiago, donde podrá procesar, en las líneas de elaboración de Fresco Enfriado, Fresco Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 1 de octubre de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
