@@ -1,0 +1,3 @@
+Por Resolución N° 1.422, de 05 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la letra b) del numeral 1° de la Resolución N° 800, de 1995, en cuanto caducó la Resolución N° 210, de 1986, ambas de esta Subsecretaría, que autorizó a don JUAN ALBERTO CARRIZO URBINA, R.U.T. N° 2.379.923-5, para operar las naves "Doña Aurora" y "Aurora Patricia", por haberse acreditado el pago de la patente pesquera.
+
+Valparaíso, 05 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
