@@ -1,0 +1,3 @@
+Por resolución No. 1.475 de 5 de Diciembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2 de la resolución No. 475, de 1991, de esta Subsecretaría, que autorizó a don MIGUEL EMELINDO MELENDEZ VILCHES, R.U.T. No. 6.437.660-8, domiciliado en calle Orella No. 589, San Antonio, para iniciar actividades pesqueras, en el sentido de señalar que las naves autorizadas son tres, las que se individualizan como "Miguelito", "Miguelito II" y "Miguelito III", y no cuatro como allí se indica.
+
+Valparaíso, 5 de Diciembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
