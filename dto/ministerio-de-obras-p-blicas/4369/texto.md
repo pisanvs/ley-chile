@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.369, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 7 y 9, para la ejecución de la obra Camino Ruta S-20, Sector Temuco-Cholchol, Tramo Km.
+
+3,500.00 a Km. 25,016.09, que figuran a nombre de Ramón Rucan Lepin y José Huenuqueo Millavil, roles de avalúo 3255-176 y 3252-688, comuna de Temuco, IX Región, superficies 714 y 66 m². La Comisión de Peritos fijó con fecha 10 de agosto de 1999, el valor provisional de la indemnización en la cantidad de $642.600, lote y $59.400, lote 9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
