@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.863, de 30 de septiembre de 1999 se expropiaron los lotes de terreno Nºs. 2-B y 3, superficies 4.068 m2 y 1.822 m2., rol de avalúo 164-4, comuna de Cobquecura, obra camino Cobquecura-Mela-Boca Itata, sector Puente Taucu, Kms. 0.000 al 0.672 y se acordó precio de indemnización con su propietaria Rita del Carmen Cisternas Gavilán, ascendente a la cantidad de $4.490.974.
+
+- Fiscal del Ministerio de Obras Públicas.
