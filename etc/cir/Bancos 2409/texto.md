@@ -27758,37 +27758,15 @@ PRESTAMOS EN MONEDA CHILENA CON CARGO A RECURSOS EN MONEDA EXTRANJERA ACUERDO
 
 ### 1. Generalidades
 
-En conformidad con las normas del Banco Central de Chile, las empresas bancarias
+En conformidad con las normas del Banco Central de Chile, contenidas en el Capítulo V.B.2 del Compendio de Normas Financieras, las empresas bancarias están facultadas para otorgar préstamos en moneda chilena documentados en moneda extranjera o documentados en moneda nacional, reajustables por la variación que experimente el valor de la Unidad de Fomento o no reajustables. Tales préstamos pueden otorgarse con recursos en moneda extranjera provenientes de depósitos a plazo constituidos por personas naturales o jurídicas y otros recursos, distintos de los que correspondan a los ingresados al amparo del artículo 14 de la Ley de Cambios Internacionales, de los aportes de capital recomprados, de las reservas constituidas en moneda extranjera, de los depósitos a la vista constituidos por personas naturales o jurídicas y de los indicados en el N° 2 del Capítulo XXVI del Compendio de Normas de Cambios Internacionales.
 
-están facultadas para otorgar préstamos en moneda chilena documentados en moneda
+Los bancos deberán informar al Banco Central de Chile, los recursos en moneda extranjera que liquiden para otorgar estos préstamos.
 
-extranjera o documentados en moneda nacional, reajustables por la variación que
-
-experimente el valor de la Unidad de Fomento o no reajustables.
-
-Tales préstamos pueden otorgarse con recursos en monedas extranjeras, distintos
-
-de las reservas y provisiones en moneda extranjera, de los aportes de capital
-
-recomprados, de aquéllos ingresados al amparo del artículo 14 de la Ley de
-
-Cambios Internacionales o de los obtenidos para financiar importaciones a más de
-
-un año plazo, gastos de importación de bienes de capital o exportaciones.
-
-Los bancos deberán registrar previamente en el Banco Central de Chile, los
-
-recursos en moneda extranjera que liquiden para otorgar estos préstamos. La
-
-recuperación de estos recursos en moneda extranjera se hará en la forma y
-
-condiciones señaladas en el numeral 6.1 de este capítulo.
+La recuperación de estos recursos en moneda extranjera se hará en la forma y condiciones señaladas en el numeral 6.1 de este capítulo.
 
 ### 2. Plazo de los préstamos
 
-El plazo de los mencionados créditos, no podrá exceder de 180 días contados
-
-desde la fecha de su otorgamiento.
+El plazo de los mencionados créditos, no podrá exceder de 360 días contados desde la fecha de su otorgamiento.
 
 ### 3. Documentación de los préstamos
 
@@ -27844,277 +27822,63 @@ Unidad de Fomento o no reajustables, según corresponda.
 
 6.1. Adquisición de las divisas.
 
-Los bancos tienen acceso al mercado de cambios para adquirir la moneda
+Los bancos tienen acceso al mercado de cambios para adquirir la moneda extranjera que hayan liquidado para otorgar los préstamos de que se trata. Cuando los recursos para otorgar los créditos provengan de depósitos a plazo en moneda extranjera, esa adquisición sólo podrá efectuarse en la fecha de pago o de castigo del crédito, según corresponda.
 
-extranjera que hayan liquidado para otorgar los préstamos de que se trata, más
+Podrán efectuar las referidas adquisiciones con los importes que reciban de sus clientes en pago de los mencionados préstamos o con sus propios recursos en moneda chilena, incluyendo los montos equivalentes al castigo de dichos créditos.
 
-los correspondientes intereses.
+Los bancos también pueden adquirir divisas con los recursos provenientes de los pagos recibidos del Banco Central de Chile por el servicio de los pagarés expresados en dólares de que trata la letra g) del N° 6 del Capítulo II.B.5.3 y la letra b) del N° 12 del Capítulo II.B.5.4 del Compendio de Normas Financieras,que hayan sido adquiridos con el financiamiento cursado por el Banco Central de Chile para la conversión a moneda chilena de los créditos otorgados con los recursos de que trata el presente capítulo, de acuerdo con las normas antes citadas y con lo instruido por este Organismo en las Circulares N°s. 2.015-462;2.016-463 y 2.028-474 y sus modificaciones.
 
-Podrán efectuar las referidas adquisiciones con los importes que reciban de sus
+De conformidad con las disposiciones del Instituto Emisor contenidas en el Título I de la letra G) del Capítulo XIV del Compendio de Normas de Cambios Internacionales,los bancos no podrán recomprar divisas por los importes de las referidas conversiones a moneda chilena, toda vez que éstos se mantendrán invertidos en los pagarés señalados en el párrafo precedente.
 
-clientes en pago de los mencionados préstamos o con sus propios recursos en
-
-moneda chilena, incluyendo los montos equivalentes al castigo de dichos
-
-créditos.
-
-Los bancos también pueden adquirir divisas con los recursos provenientes de los
-
-pagos recibidos del Banco Central de Chile por el servicio de los pagarés
-
-expresados en dólares de que trata la letra g) del N° 6 del Capítulo II.B.5.3 y
-
-la letra b) del N° 12 del Capítulo II.B.5.4 del Compendio de Normas
-
-Financieras,que hayan sido adquiridos con el financiamiento cursado por el Banco
-
-Central de Chile para la conversión a moneda chilena de los créditos otorgados
-
-con los recursos de que trata el presente capítulo, de acuerdo con las normas
-
-antes citadas y con lo instruido por este Organismo en las Circulares N°s.
-
-2.015-462;2.016-463 y 2.028-474 y sus modificaciones.
-
-De conformidad con las disposiciones del Instituto Emisor contenidas en el
-
-## Título I — de la letra G) del Capítulo XIV del Compendio de Normas de Cambios
-
-Internacionales,los bancos no podrán recomprar divisas por los importes de las
-
-referidas conversiones a moneda chilena, toda vez que éstos se mantendrán
-
-invertidos en los pagarés señalados en el párrafo precedente.
-
-Por otra parte, los bancos no podrán adquirir divisas con los importes que
-
-reciban de sus clientes en pago anticipado de los referidos préstamos que tengan
-
-acceso al diferencial cambiario de que trata el Capítulo XIII del Compendio de
-
-Normas de Cambios Internacionales de acuerdo con lo establecido en la letra
-
-b)del Título I de la letra G) del Capítulo XIV del mismo Compendio a menos que
-
-se renuncie al mencionado diferencial. Si se opta por conservar ese derecho, la
-
-adquisición de las divisas sólo podrá efectuarse a partir de la fecha de
-
-vencimiento del crédito pagado anticipadamente.
+Por otra parte, los bancos no podrán adquirir divisas con los importes que reciban de sus clientes en pago anticipado de los referidos préstamos que tengan acceso al diferencial cambiario de que trata el Capítulo XIII del Compendio de Normas de Cambios Internacionales de acuerdo con lo establecido en la letra b)del Título I de la letra G) del Capítulo XIV del mismo Compendio a menos que se renuncie al mencionado diferencial. Si se opta por conservar ese derecho, la adquisición de las divisas sólo podrá efectuarse a partir de la fecha de vencimiento del crédito pagado anticipadamente.
 
 6.2. Condición para adquirir divisas.
 
-Para cursar las adquisiciones de divisas de que trata el numeral 6.1
+Para cursar las adquisiciones de divisas de que trata el numeral 6.1 anterior, los bancos deberán inscribir previamente en el Banco Central de Chile las obligaciones contraídas por la obtención de los recursos con que financian estos préstamos.
 
-precedente,los bancos deberán inscribir previamente en el Banco Central de Chile
-
-las obligaciones contraídas por la obtención de los recursos con que financian
-
-los préstamos de que se trata. En caso de tratarse de la recuperación de
-
-recursos correspondientes a reservas y provisiones en moneda extranjera, deberán
-
-declarar esta circunstancia al Instituto Emisor y depositar las divisas
-
-adquiridas,directamente en la "Cuenta Especial de Depósito N° 2 en Dólares de
-
-los Estados Unidos", a que se refiere el Capítulo IV.F del Compendio de Normas
-
-Financieras.
-
-Si el registro de los recursos en el Banco Central de Chile se hubiere efectuado
-
-antes de liquidar las divisas para otorgar los referidos préstamos, de
-
-conformidad con lo indicado en el número 1 precedente, los bancos deberán
-
-comunicar esa situación al Instituto Emisor antes de efectuar la adquisición de
-
-divisas.
+Si el registro de los recursos en el Banco Central de Chile se hubiere efectuado antes de liquidar las divisas para otorgar los referidos préstamos, de conformidad con lo indicado en el número 1 precedente, los bancos deberán comunicar esa situación al Instituto Emisor antes de efectuar la adquisición de divisas.
 
 6.3. Monto máximo de divisas recuperadas que pueden mantener.
 
-El saldo que los bancos mantengan en la cuenta "Divisas recuperadas-Acuerdo
+El saldo que los bancos mantengan en la cuenta "Divisas recuperadas-Acuerdo 1418", de que trata la letra a) del numeral 8.2.1 de este capítulo, no podrá ser superior al monto de las obligaciones contraídas por la obtención de los recursos para financiar estos préstamos, más el saldo de las obligaciones con el Instituto Emisor expresadas en dólares por el refinanciamiento de la reprogramación de estos créditos, según lo dispuesto en los Capítulos II.B.5 y II.B.5.3 del Compendio de Normas Financieras, deducidos los saldos de las operaciones que a continuación se indican:
 
-1418", de que trata la letra a) del numeral 8.2.1 de este capítulo, no podrá ser
+a) Saldo de colocaciones efectuadas con estos recursos, ya sea que las mantengan registradas como tales o que las hayan vendido al Banco Central de Chile.
 
-superior al monto de las obligaciones contraídas por la obtención de los
+b) Saldo de pagarés expresados en dólares norteamericanos adquiridos con motivo de la conversión a moneda chilena de estos créditos, efectuada en virtud de las disposiciones contenidas en las letras
 
-recursos para financiar estos préstamos, más el saldo de las obligaciones con el
+- **a)** y
 
-Instituto Emisor expresadas en dólares por el refinanciamiento de la
+- **b)** del N° 3 del Capítulo II.B.5.3 y letra
 
-reprogramación de estos créditos, según lo dispuesto en los Capítulos II.B.5 y
+- **a)** del N° 12 del Capítulo II.B.5.4 ya mencionados y sobre las cuales instruyó esta Superintendencia en las Circulares N°s. 2.015-462, 2.016-463 y 2.028-474 y sus modificaciones.
 
-II.B.5.3 del Compendio de Normas Financieras, deducidos los saldos de las
+c) Saldo de pagarés expresados en dólares del Capítulo IV.B.10 del Compendio de Normas Financieras, adquiridos con el importe de la recuperación de estos créditos o con una suma equivalente a la de aquellos créditos castigados y con los importes recibidos del Banco Central de Chile por el servicio de los pagarés aludidos en la letra
 
-operaciones que a continuación se indican:
+- **b)** precedente, y de los señalados en la letra
 
-a) Saldo de colocaciones efectuadas con estos recursos, ya sea que las mantengan
+- **e)** del N° 5 del Capítulo II.B.5 y en la letra
 
-registradas como tales o que las hayan vendido al Banco Central de Chile.
+- **f)** del N° 6 del Capítulo II.B.5.3 del Compendio de Normas Financieras.
 
-b) Saldo de pagarés expresados en dólares norteamericanos adquiridos con motivo
+d) Saldo de la cuenta corriente pesos expresada en dólares a que se refiere el Capítulo IV.D.1 del Compendio de Normas Financieras del Banco Central de Chile,por la parte que corresponda a recuperaciones o castigo de estos créditos.
 
-de la conversión a moneda chilena de estos créditos, efectuada en virtud de las
+e) Saldo de pagarés expresados en dólares de Estados Unidos de América adquiridos de conformidad con lo indicado en la letra e) del N° 5 del Capítulo II.B.5 y en la letra f) del N° 6 del Capítulo II.B.5.3 del Compendio de Normas Financieras, correspondientes a créditos otorgados con estos recursos que hayan sido reprogramados en la forma prevista en las Circulares N°s. 1.903-352 y sus modificaciones y 2.015-402 y sus modificaciones, de este Organismo.
 
-disposiciones contenidas en las letras a) y b) del N° 3 del Capítulo II.B.5.3 y
+Para los efectos del límite a que se refiere este numeral, se considerará sólo el capital de los mencionados créditos, involucrado en las operaciones señaladas precedentemente.
 
-letra a) del N° 12 del Capítulo II.B.5.4 ya mencionados y sobre las cuales
-
-instruyó esta Superintendencia en las Circulares N°s. 2.015-462, 2.016-463 y
-
-2.028-474 y sus modificaciones.
-
-c) Saldo de pagarés expresados en dólares del Capítulo IV.B.10 del Compendio de
-
-Normas Financieras, adquiridos con el importe de la recuperación de estos
-
-créditos o con una suma equivalente a la de aquellos créditos castigados y con
-
-los importes recibidos del Banco Central de Chile por el servicio de los pagarés
-
-aludidos en la letra b) precedente, y de los señalados en la letra e) del N° 5
-
-del Capítulo II.B.5 y en la letra f) del N° 6 del Capítulo II.B.5.3 del
-
-Compendio de Normas Financieras.
-
-d) Saldo de la cuenta corriente pesos expresada en dólares a que se refiere el
-
-Capítulo IV.D.1 del Compendio de Normas Financieras del Banco Central de
-
-Chile,por la parte que corresponda a recuperaciones o castigo de estos créditos.
-
-e) Saldo de pagarés expresados en dólares de Estados Unidos de América
-
-adquiridos de conformidad con lo indicado en la letra e) del N° 5 del Capítulo
-
-II.B.5 y en la letra f) del N° 6 del Capítulo II.B.5.3 del Compendio de Normas
-
-Financieras, correspondientes a créditos otorgados con estos recursos que hayan
-
-sido reprogramados en la forma prevista en las Circulares N°s. 1.903-352 y sus
-
-modificaciones y 2.015-402 y sus modificaciones, de este Organismo.
-
-Para los efectos del límite a que se refiere este numeral, se considerará sólo
-
-el capital de los mencionados créditos, involucrado en las operaciones señaladas
-
-precedentemente.
-
-6.4. Utilización de las divisas recuperadas.
-
-Las divisas que recuperen los bancos mediante el procedimiento de que trata el
-
-numeral 6.1 precedente, deberán utilizarse, tan pronto como sean adquiridas, en
-
-alguno de los fines que a continuación se indican, según sea el origen de los
-
-recursos con que se hubieren otorgado los respectivos créditos:
-
-6.4.1. Divisas recompradas que correspondan a recursos que no sean créditos
-
-externos.
-
-Esta moneda extranjera podrá utilizarse en los siguientes fines:
-
-a) Liquidar a moneda chilena para otorgar préstamos de conformidad con las
-
-normas de este capítulo.
-
-b) Constituir depósitos a la vista o a plazo en moneda extranjera en bancas
-
-situados en Chile.
-
-c) Adquirir pagarés en dólares del Banco Central de Chile, de conformidad con
-
-las disposiciones contenidas en la Circular N° 1.899-349, del 28 de marzo de
-
-1983, de este Organismo.
-
-d) Venderlas al Instituto Emisor con pacto de recompra, de acuerdo con lo
-
-establecido en el Capítulo 13-6 de esta Recopilación, siempre que se trate de
-
-dólares estadounidenses.
-
-e) Depositar en las cuentas corrientes a que se refiere el Capítulo IV.D.2 del
-
-Compendio de Normas Financieras.
-
-f) Adquirir los pagarés expresados y pagaderas en dólares que emita la Tesorería
-
-General de la República.
-
-6.4.2. Divisas recompradas que correspondan a obligaciones con el exterior
-
-contraídas antes del 1° de febrero de 1983.
-
-Con estas divisas, que incluyen las recompradas que corresponden a obligaciones
-
-contraídas desde el 1° de febrero de 1983 con el objeto de prepagar aquéllas
-
-anteriores a la fecha indicada, con excepción de las indicadas en el N° 2 de la
-
-Circular Conjunta, del 27 de junio de 1985, de los Ministros de Hacienda, de
-
-Economía, Fomento y Reconstrucción y Presidente del Banco Central de Chile, las
-
-entidades financieras pueden:
-
-a) Liquidar a moneda chilena para otorgar préstamos de conformidad con las
-
-normas de este capítulo.
-
-b) Liquidar a moneda chilena para adquirir divisas destinadas a pagar
-
-obligaciones con el exterior, previa autorización del Banco Central de Chile.
-
-c) Depositar en la cuenta corriente especial a que se refiere la letra A) del
-
-Capítulo IV.E.2 del Compendio de Normas Financieras.
-
-6.4.3. Divisas recompradas que correspondan a obligaciones con el exterior
-
-distintas a las incluidas en el numeral 6.4.2 precedente.
-
-Con estas divisas se podrá efectuar cualquiera de las operaciones señaladas en
-
-el numeral 6.4.1 precedente y, además, la indicada en la letra b) del numeral
-
-6.4.2.
+6.4. Destino de las divisas recuperadas. Las divisas que recuperen los bancos mediante el procedimiento de que trata el numeral 6.1 precedente, deberán ser depositadas en la cuenta especial de que trata el Capítulo 13-12 de esta Recopilación Actualizada de Normas.
 
 ### 7. Procedimiento operativo
 
-Los bancos se procurarán los recursos para otorgar estos préstamos, mediante la
+Los bancos se procurarán los recursos para otorgar estos préstamos, mediante la liquidación del importe necesario de moneda extranjera.
 
-liquidación del importe necesario de moneda extranjera.
+Por otra parte, con la moneda chilena a que se refiere el numeral 6.1 de este capítulo, las entidades bancarias comprarán la moneda extranjera correspondiente al capital de los recursos liquidados para cursar los préstamos de que trata este capítulo.
 
-Por otra parte, al recibir los recursos señalados en el numeral 6.1 de este
-
-capítulo, las entidades bancarias comprarán la moneda extranjera
-
-correspondiente,como también el importe de sus respectivos intereses.
-
-Al cierre de las operaciones diarias emitirán una Planilla de Operación de
-
-Cambios-Comercio Invisible-Ingresos, por el total de las divisas que hayan
-
-liquidado en el día para el otorgamiento de los referidos préstamos; una
-
-Planilla de Operación de Cambios-Comercio Invisible-Egresos, por el total de las
-
-divisas que hayan adquirido por la recuperación o castigo de dichos créditos;
-
-y,otra planilla de egreso de divisas por los intereses de estos créditos.
+Al cierre de las operaciones diarias emitirán las correspondientes Planillas de Operación de Cambios-Comercio Invisible-Ingresos, por el importe de las divisas que hayan liquidado en el día para el otorgamiento de los referidos préstamos y de Operación de Cambios-Comercio Invisible-Egresos, por el monto de las divisas que hayan adquirido por la recuperación o castigo de dichos créditos.
 
 ### 8. Instrucciones contables
 
-Los bancos deberán atenerse a las siguientes instrucciones para registrar las
-
-operaciones a que se refiere este capítulo.
+Los bancos deberán atenerse a las siguientes instrucciones para registrar las operaciones a que se refiere este capítulo.
 
 8.1. Otorgamiento de préstamos.
 
@@ -28122,25 +27886,19 @@ operaciones a que se refiere este capítulo.
 
 a) Moneda extranjera.
 
-Debe; "Préstamos en moneda chilena documentados en moneda extranjera-Acuerdo
+"Debe: - "Conversión Mercado Bancario".
 
-1418", de la partida 1110 del formulario MB1, por la moneda extranjera
+- "Divisas recuperadas-Acuerdo 1418", de la partida 9470 del formulario MB1.
 
-liquidada.
+Haber: - "Préstamos en moneda chilena documentados en moneda extranjera-Acuerdo 1418" o la cuenta que corresponda.
 
-Haber: "Conversión Mercado Bancario" de la partida 2505 ó 4505 del formulario
-
-MB1.
+- "Responsabilidad por divisas recuperadas-Acuerdo 1418", de la partida 9900 del formulario MB1."
 
 b) Moneda chilena.
 
-Debe: "Cambio Mercado Bancario" de la partida 2505 ó 4505 del formulario MB1,
+Debe: "Cambio Mercado Bancario" de la partida 2505 ó 4505 del formulario MB1, por el equivalente de la moneda extranjera liquidada.
 
-por el equivalente de la moneda extranjera liquidada.
-
-Haber: "Caja" o la cuenta que corresponda por la entrega de la moneda chilena al
-
-usuario.
+Haber: "Caja" o la cuenta que corresponda por la entrega de la moneda chilena al usuario.
 
 8.1.2. Préstamos documentados en moneda chilena.
 
@@ -28148,39 +27906,25 @@ usuario.
 
 a) Moneda extranjera.
 
-Debe: "Conversión recursos propios-Acuerdo 1418", cuyo saldo se demostrará en la
-
-partida 2510 del formulario MB1.
+Debe: "Conversión recursos propios-Acuerdo 1418", cuyo saldo se demostrará en la partida 2510 del formulario MB1.
 
 Haber: "Conversión Mercado Bancario", por el importe liquidado.
 
 b) Moneda chilena.
 
-Debe: "Cambio Mercado Bancario", por el equivalente de la moneda extranjera
+Debe: "Cambio Mercado Bancario", por el equivalente de la moneda extranjera liquidada.
 
-liquidada.
-
-Haber: "Cambio recursos propios-Acuerdo 1418", de la partida 4510 del formulario
-
-MB1.
+Haber: "Cambio recursos propios-Acuerdo 1418", de la partida 4510 del formulario MB1.
 
 8.1.2.2. Entrega del importe en pesos al usuario.
 
-Debe: "Préstamos en moneda chilena con recursos propios - Acuerdo 1418"
+Debe: "Préstamos en moneda chilena con recursos propios - Acuerdo 1418" subcuenta "No reajustables" o "Reajustables por la variación de la Unidad de Fomento", según proceda, de la partida 1110 del formulario MB1.
 
-subcuenta "No reajustables" o "Reajustables por la variación de la Unidad de
-
-Fomento", según proceda, de la partida 1110 del formulario MB1.
-
-Haber: "Caja" o la cuenta que corresponda por la entrega de la moneda chilena al
-
-usuario del crédito.
+Haber: "Caja" o la cuenta que corresponda por la entrega de la moneda chilena al usuario del crédito.
 
 8.2. Recuperación de la moneda extranjera.
 
-Cuando los bancos recuperen la moneda extranjera en la forma prevista en el
-
-numeral 6.1 de este capítulo efectuarán los siguientes asientos contables:
+Cuando los bancos recuperen la moneda extranjera en la forma prevista en el numeral 6.1 de este capítulo efectuarán los siguientes asientos contables:
 
 8.2.1. Préstamos documentados en moneda extranjera.
 
@@ -28188,31 +27932,11 @@ a) Moneda extranjera.
 
 Debe: - "Conversión Mercado Bancario".
 
-- "Divisas recuperadas-Acuerdo 1418" por el importe del capital en moneda
+- "Divisas recuperadas-Acuerdo 1418" por el importe del capital en moneda extranjera recuperado. Esta cuenta se demostrará en la partida 9470 en el formulario MB1 y deberá dividirse en las subcuentas: "otros recursos financieros", "deuda externa anterior al 1° de febrero de 1983"; y, "deuda externa posterior al 31 de enero de 1983", debiendo en cada caso, afectarse la que corresponda, de acuerdo al origen de los recursos comprometidos. Esa clasificación corresponderá a la descrita en los numerales 6.4.1, 6.4.2 y 6.4.3 de este capítulo, respectivamente.
 
-extranjera recuperado. Esta cuenta se demostrará en la partida 9470 en el
+Haber: - "Préstamos en moneda chilena documentados en moneda extranjera-Acuerdo 1418" o la cuenta que corresponda.
 
-formulario MB1 y deberá dividirse en las subcuentas: "otros recursos
-
-financieros", "deuda externa anterior al 1° de febrero de 1983"; y, "deuda
-
-externa posterior al 31 de enero de 1983", debiendo en cada caso, afectarse la
-
-que corresponda, de acuerdo al origen de los recursos comprometidos. Esa
-
-clasificación corresponderá a la descrita en los numerales 6.4.1, 6.4.2 y 6.4.3
-
-de este capítulo, respectivamente.
-
-Haber: - "Préstamos en moneda chilena documentados en moneda extranjera-Acuerdo
-
-1418" o la cuenta que corresponda.
-
-- "Responsabilidad por divisas recuperadas-Acuerdo 1418" la que será demostrada
-
-en la partida "Responsabilidad por divisas recuperadas", bajo el N° 9900 en el
-
-formulario MB1.
+- "Responsabilidad por divisas recuperadas-Acuerdo 1418" la que será demostrada en la partida "Responsabilidad por divisas recuperadas", bajo el N° 9900 en el formulario MB1.
 
 b) Moneda chilena.
 
@@ -28226,11 +27950,7 @@ Haber: "Cambio Mercado Bancario".
 
 Debe: "Caja" o la cuenta que corresponda por el importe en moneda chilena.
 
-Haber: "Préstamos en moneda chilena con recursos propios-Acuerdo 1418" subcuenta
-
-"No Reajustables" o "Reajustables por la variación de la Unidad de Fomento" o la
-
-cuenta que corresponda.
+Haber: "Préstamos en moneda chilena con recursos propios-Acuerdo 1418" subcuenta "No Reajustables" o "Reajustables por la variación de la Unidad de Fomento" o la cuenta que corresponda.
 
 8.2.2.2. Adquisición de las divisas.
 
@@ -28238,13 +27958,11 @@ a) Moneda extranjera.
 
 Debe: - "Conversión Mercado Bancario".
 
-- "Divisas recuperadas-Acuerdo 1418", debiendo imputarse la subcuenta que
-
-corresponda.
+- "Divisas recuperadas-Acuerdo 1418".
 
 Haber: - "Conversión recursos propios-Acuerdo 1418".
 
-- "Responsabilidad por divisas recuperadas-Acuerdo 1418".
+- "Responsabilidad por divisas recuperadas Acuerdo 1418".
 
 b) Moneda chilena.
 
@@ -28254,79 +27972,25 @@ Haber: "Cambio Mercado Bancario".
 
 8.3. Utilización de las divisas recuperadas.
 
-Cuando los bancos liquiden divisas recuperadas para otorgar los préstamos de que
+Cuando los bancos liquiden divisas recuperadas para otorgar los préstamos de que trata este capítulo deberán revertir el correspondiente importe registrado en las cuentas "Divisas recuperadas-Acuerdo 1418" y "Responsabilidad por divisas recuperadas-Acuerdo 1418". Asimismo, cuando utilicen dichas divisas para pagar obligaciones, deberán revertir en las referidas cuentas, el monto utilizado.
 
-trata este capítulo deberán revertir el correspondiente importe registrado en
-
-las cuentas "Divisas recuperadas-Acuerdo 1418" y "Responsabilidad por divisas
-
-recuperadas-Acuerdo 1418". Asimismo, cuando utilicen dichas divisas para pagar
-
-obligaciones, deberán revertir en las referidas cuentas, el monto utilizado.
-
-En los casos en que realicen las demás operaciones señaladas en el numeral 6.4
-
-de este capítulo, no efectuarán asiento alguno en las cuentas mencionadas en el
-
-párrafo precedente.
+PÁRRAFO SUPRIMIDO.
 
 8.4. Intereses.
 
-El importe que perciban por concepto de intereses sobre los préstamos otorgados
-
-tanto de aquéllos documentados en moneda extranjera como en moneda nacional,
-
-será convertido a moneda extranjera al momento de su percepción y se registrará
-
-mediante el siguiente asiento contable:
-
-a) Moneda extranjera.
-
-Debe: "Conversión Mercado Bancario".
-
-Haber: "Intereses ganados por préstamos con recursos propios-Acuerdo 1418" de la
-
-partida 7000 en el formulario MB1 y 7115 del formulario MR1.
-
-b) Moneda chilena.
-
-Debe: "Caja" o la cuenta que corresponda.
-
-Haber: "Cambio Mercado Bancario".
+El importe que perciban por concepto de intereses sobre los préstamos otorgados, tanto de aquellos documentados en moneda extranjera como en moneda nacional, será acreditado en la cuenta "Intereses ganados por préstamos con recursos propios-Acuerdo 1418", de la partida 7115 del formulario MR1
 
 8.5. Reajustes.
 
-Los reajustes que se perciban por estos préstamos serán acreditados en la cuenta
-
-"Reajustes ganados por préstamos con recursos propios-Acuerdo 1418", de la
-
-partida 7000 del formulario MB1 y 7305 del formulario MR1.
+Los reajustes que se perciban por estos préstamos serán acreditados en la cuenta "Reajustes ganados por préstamos con recursos propios-Acuerdo 1418", de la partida 7305 del formulario MR1.
 
 8.6. Ajuste mensual.
 
-El último día de cada mes los bancos ajustarán el saldo de la cuenta "Cambio
-
-recursos propios-Acuerdo 1418" y contabilizarán dicho ajuste en las cuentas
-
-"Pérdidas por variación del tipo de cambio de recursos en moneda extranjera
-
-liquidados" o "Utilidades por variación del tipo de cambio de recursos en moneda
-
-extranjera liquidados", según corresponda. Estas cuentas se demuestran en las
-
-partidas 5715 ó 7715, del Form. MR1 respectivamente. Para los efectos de este
-
-ajuste se empleará el tipo de cambio fijado para tal objeto por esta
-
-Superintendencia, vigente a esa fecha.
+El último día de cada mes los bancos ajustarán el saldo de la cuenta "Cambio recursos propios-Acuerdo 1418" y contabilizarán dicho ajuste en las cuentas "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados" o "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados", según corresponda. Estas cuentas se demuestran en las partidas 5715 ó 7715, del Form. MR1 respectivamente. Para los efectos de este ajuste se empleará el tipo de cambio fijado para tal objeto por esta Superintendencia, vigente a esa fecha.
 
 8.7. Depósitos en el Banco Central de Chile.
 
-Los depósitos a que se refiere el N° 4 de este capítulo, serán registrados en la
-
-cuenta "Depósitos obligados-Acuerdo 1418", cuyo saldo será demostrado en la
-
-partida 1770 del formulario MB1.
+Los depósitos a que se refiere el N° 4 de este capítulo, serán registrados en la cuenta "Depósitos obligados-Acuerdo 1418", cuyo saldo será demostrado en la partida 1770 del formulario MB1.
 
 CAPITULO 13-15 (Bancos)
 
