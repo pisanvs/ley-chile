@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.548, de 29 de septiembre del 2000, se expropió el lote terreno Nº18, superficie 42,00 m2., sin rol de avalúo, comuna de Alto del Carmen, para la obra Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa I y se acordó precio de la indemnización con su propietario Carlos Bolados Ledezma, ascendente a la cantidad de $2.524.994.-
+
+Fiscal del Ministerio de Obras Públicas.
