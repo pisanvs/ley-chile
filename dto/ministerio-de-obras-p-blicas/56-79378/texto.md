@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 56, de 26 de febrero de 1992, se expropiaron los lotes N°s. 3 y 6, superficie 615,60 M2 y 257,80 m2, roles de avalúos N°s. 500-44 y 500-54, Comuna de Curicó, para la obra Camino Longitudinal Sur, sector Romeral- Molina y se acordó precio de indemnización con sus propietarios Carlos Sepúlveda Jiménez y Nelly Rodríguez Martínez, ascendente a las cantidades de $ 1.472.050 y $ 643.385, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
