@@ -1,0 +1,3 @@
+Por resolución exenta Nº 464, de 22 de febrero de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111336 presentada por SERVICIOS MARITIMOS OXXEAN SOCIEDAD ANONIMA, para instalar y operar un centro de cultivo ubicado en canal Renjifo, lado oeste de Isla Mc Pherson (sector 2), XI Región.
+
+Valparaíso, 22 de febrero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
