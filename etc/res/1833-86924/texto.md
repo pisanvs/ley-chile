@@ -1,0 +1,3 @@
+Por resolución Nº 1.833, de 31 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por don ARNOLDO POBLETE LARA, de prórroga del plazo de suspensión de actividades pesqueras extractivas por fuerza mayor, con la nave "Monserrat", por haber incurrido en la causal de caducidad señalada en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, al 7 de abril de 1996, fecha del siniestro de la nave.
+
+Valparaíso, 31 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
