@@ -1,0 +1,9 @@
+AUTORIZA A DON LUIS HUMBERTO HERRERA LUNA, PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 858, de 06 de Agosto de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Luis Humberto Herrera Luna, Carnet de Identidad No. 3.800.300-3 de Coquimbo, domiciliado en calle Manuel Rodríguez No. 1802, Coquimbo, para instalar y operar un establecimiento de cultivo de ostión del Norte, ostra del Pacífico y alga Gracilaria, en un sector de Bahía Caleta Totoralillo Norte, Comuna de La Higuera, Provincia de Elqui, IV Región, en un área de 60.000 m2. de fondo de mar respecto del recurso hidrobiológico alga Gracilaria y en sistemas suspendidos en un área de 125.000 m2. respecto a las especies ostión del Norte y ostra del Pacífico, cuyas coordenadas geográficas son las siguientes, de acuerdo al plano que acompaña a la solicitud signado por el Servicio Nacional de Pesca con el No. Ordinal 579. Vértice A. Lat. 29° 28' 13,00" S. Long. 71° 20' 25,00" W. Vértice B. 29° 28' 10,00" S. Long. 71° 20' 13,90" W. Vértice C. 29° 28' 20,00" S. Long. 71° 20' 24,00" W.; Vértice D. Lat. 29° 28' 17,00" S. Long. 71° 20' 11,00" W.- Vértice A. Lat. 29° 27' 55,00" S. Long. 71° 20' 28,00" W.; Vértice B. 29° 27' 51,00" S. Long. 71° 20' 10,00" W.;
+
+Vértice C. Lat. 29° 28' 02,00" S. Long. 71° 20' 10,00" W.
+
+Vértice D. Lat. 29° 28' 04,00" S. Long. 71° 20' 28,00" W. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 06 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
