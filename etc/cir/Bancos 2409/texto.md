@@ -4062,9 +4062,11 @@ Los depósitos de terceros enterados para cumplir con la obligación de que trat
 
 ### 2. Registro contable
 
-2.1. Depósitos por encaje de terceros.
+2.1. Depósitos por encaje de terceros y obligaciones con el exterior.
 
 Los importes que los bancos reciban de terceros por concepto del depósito que deben constituir sobre los créditos que éstos obtengan del exterior de conformidad con la norma del Banco Central de Chile a que se refiere el N° 1 precedente, serán registrados en la cuenta "Depósitos por encaje de terceros" de la partida 3425.
+
+Por otra parte, con el objeto de obtener directamente de los saldos contables el importe de las obligaciones con el exterior exentas de encaje correspondiente a los créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, que se regirán en esta materia por sus propias normas y a las obligaciones reestructuradas de conformidad con los Contratos Modificatorios de los Contratos de Reestructuración suscritos por la República de Chile, en los términos aprobados por el Consejo del Banco Central de Chile mediante Acuerdos N°s 72-04-901113 y 72-06-901113, éstos serán registrados, además de su imputación en las respectivas cuentas del pasivo, en la cuenta de orden "Obligaciones con el exterior exentas de encaje" de la partida 9167 "Obligaciones exentas de encaje", con abono a la cuenta "Responsabilidad por obligaciones exentas de encaje" de la partida 9900.
 
 2.2. Encaje mantenido.
 
@@ -4072,27 +4074,27 @@ El importe en moneda extranjera que las instituciones financieras mantengan depo
 
 ### 3. Cuentas de obligaciones afectas a encaje
 
-Quedarán sujetos al encaje de que trata este título, los saldos de los importes recibidos por los depósitos por encaje de terceros antes referidos y las obligaciones con el exterior, que se demuestran en las partidas que a continuación se indican:
+Quedarán sujetos al encaje de que trata este título, los saldos de los importes recibidos por los depósitos por encaje de terceros antes referidos y las obligaciones con el exterior que se demuestran en las partidas que a continuación se indican, excepto aquellas que deben también registrarse en la cuenta "Obligaciones con el exterior exentas de encaje" de que trata el numeral 2.1 de este título:
 
 N° 3425 "Otras obligaciones" (Unicamente la cuenta "Depósitos por encaje de terceros").
 
 N° 3505 "Adeudado a bancos del exterior por financiamiento de importaciones y exportaciones".
 
-N° 3510 "Adeudado a bancos del exterior por otras obligaciones" (Excepto la cuenta "Obligaciones por créditos externos-Acuerdo 1196").
+N° 3510 "Adeudado a bancos del exterior por otras obligaciones"
 
-N° 3515 "Adeudado a oficinas del mismo banco" (Excepto la cuenta "Obligaciones por créditos externos-Acuerdo 1196").
+N° 3515 "Adeudado a oficinas del mismo banco"
 
 N° 3520 "Corresponsales ALADI-Banco Central".
 
 N° 3525 "Otros préstamos y obligaciones".
 
-N° 3555 "Adeudado a bancos del exterior" (Excepto la cuenta "Obligaciones por créditos extremos-Acuerdo 1196").
+N° 3555 "Adeudado a bancos del exterior"
 
-N° 3560 "Adeudado a oficinas del mismo banco" (Excepto la cuenta "Obligaciones por créditos externos-Acuerdo 1196").
+N° 3560 "Adeudado a oficinas del mismo banco"
 
 N° 3565 "Corresponsales ALADI-Banco Central".
 
-N° 3570 "Otros préstamos y obligaciones.
+N° 3570 "Otros préstamos y obligaciones".
 
 ### 4. Encaje exigido y mantenido
 
