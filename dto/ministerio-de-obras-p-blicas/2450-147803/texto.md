@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.450, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 62 y 63, superficies 42.898,5 y 724,4 m², rol de avalúo 212-1, comuna de Teodoro Schmidt, IX Región, para la obra Camino Costero Sur, sector Tranapuente Puerto Saavedra Porma Chelle y se acordó el precio de indemnización con su propietaria María Angélica González Olguín y otra, ascendente a la cantidad de $13.862.808.-
+
+Fiscal del Ministerio de Obras Públicas.
