@@ -1,0 +1,7 @@
+Por resolución Nº354, de 16 de marzo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a LUZ MARIELA PAREDES MONSALVE, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en pasaje Austral Nº110, Villa Los Colonos, Puerto Aysén, XI Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Conserva ahumado, Conserva natural, Conserva al aceite, Semi-conserva, Fresco-refrigerado, Congelado al vacío, Congelado al vacío, Congelado IQF: Merluza del sur, Salmón plateado, Salmón del Atlántico, Trucha arcoiris o Cabeza de acero, Cojinoba del sur, Almeja o taca, Caracol locate, Chorito, Cholga, Choro, Culengue, Lapa, Loco y Navajuela; Conserva natural y Fresco-refrigerado: Puye; Conserva natural, Conserva al aceite, Semi-conserva, Fresco-refrigerado, Congelado al vacío, Congelado al vacío, Congelado IQF: Jibia, Pulpo, Centolla, Jaiba, Picoroco y Erizo.
+
+Los recuros Salmón del Atlántico y Salmón plateado, deberán provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 16 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
