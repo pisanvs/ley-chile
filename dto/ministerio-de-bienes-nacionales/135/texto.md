@@ -1,0 +1,51 @@
+DESAFECTA E INCORPORA PARTE DE LA RESERVA FORESTAL "ALACALUFES" Y PARQUE NACIONAL "MONTE BALMACEDA", AL PARQUE NACIONAL BERNARDO O'HIGGINS DE LAS XI Y XII REGIONES
+
+Núm. 135.- Santiago, 24 de Abril de 1985.- Vistos estos antecedentes; lo informado por el Ministerio de Agricultura y por la Asesoría Ecológica del Ministerio de Bienes Nacionales en oficios adjuntos, ambos de 1983; por la División de Bienes Nacionales en oficio Nº1.807, de 1984 y por el Departamento de Mensura de este Ministerio en Prov. Int. Nº 185, de 1985;
+
+Teniendo presente: Que por decretos Nºs. 207, de 22 de Abril de 1966, párrafo Nºs. 263 y 264, ambos de fecha 22 de Julio de 1969, todos del Ministerio de Agricultura, fueron creados; el Parque Nacional "Monte Balmaceda", Reserva Forestal "Alacalufes" y el Parque Nacional "Bernardo O'Higgins", respectivamente;
+
+Considerando:
+
+Que, la superficie real del Parque Nacional "Bernardo O'Higgins" ha sido determinada en 1.753. 100 Hás. y no como se señala en el decreto de creación:
+
+Que, parte de los terrenos que comprenden dicho Parque, corresponden al Parque Nacional "Monte Balmaceda", cuya superficie es de 7.900 Hás., con el que estaría fomando una sola unidad;
+
+Que parte de los terrenos que comprende la Reserva Forestal "Alacalufes" presentan una serie de características escénicas y de flora y fauna silvestre, de interesante valor ecológico, que justifican su clasificación como Parque Nacional, categoría a la cual se ajustan más adecuadamente en virtud del concepto y objetivos de ella;
+
+Que es conveniente incorporar al Parque Nacional "Bernardo O'Higgins" terrenos fiscales que contienen valores ecológicos interesantes, a fin de aumentar la diversidad de sus recursos y ambientes naturales y, por ende, la aptitud de dicha unidad como Parque Nacional;
+
+Que es necesario considerar que dicho Parque Nacional incluye valores antropológicos como son los restos de comunidades del hombre de los canales (alacalufes, etc.), que deben ser protegidos por todos los medios posibles;
+
+Que la totalidad de los terrenos que comprenderán el Parque Nacional "Bernardo O'Higgins" son aptos sólo para la vida silvestre, la protección de hoyas hidrográficas o la recreación en ambientes naturales e incluyen el Campo de Hielo Sur, el Campo de Hielo Dr. Juan Bruggen y el Campo de Hielo Patagónico, los que en conjunto abarcan alrededor de 1.100.500 Hás.; en virtud de lo dispuesto en el artículo 21º del DL Nº 1.939, de 1977,
+
+Decreto:
+
+I.- Desaféctase de su calidad de tal, parte de la Reserva Forestal "Alacalufes", que corresponde a una superficie aproximada de un millón setecientas setenta y cuatro mil hectáreas (1.774.000 Has.), quedando con una superficie aproximada de novectentas mil hectáreas (900.000 Hás).
+
+II.- Incorpóranse al Parque Nacional "Bernardo O'Higgins", ubicado en las provincias de Capitán Prat (XI Región Aysén del General Carlos Ibáñez del Campo) y Ultima Esperanza (XII Región de Magallanes y de la Antártica Chilena), la parte señalada en el numerando anterior y el Parque Nacional "Monte Balmaceda", de una superficie de siete mil novecientos hectáreas (7.900 Hás.), ubicado en la comuna de Natales, provincia Ultima Esperanza, XII Región, quedando con una superficie aprox. de tres millones quinientos veinticuatro mil seiscientas cuarenta y ocho hectáreas (3.524.648 Hás.); plano Nº XII-1-300-T.R.; y los siguientes deslindes:
+
+- NORTE: Bahía Dineley, Estrecho del Castillo, Estrecho Adalberto, Estrecho Search y luego en dirección Norte por el Canal Messier hasta el canal Somerset. Continúa por el Canal Baker hasta el curso de agua que da al frente a la Isla San Francisco, continúa por este curso en dirección Sur pasando por la ribera Oeste de dos lagunas sin nombre para continuar por los linderos Oeste, Sur y parte del Este de la propiedad ocupada por don Próspero Urrutia y luego proseguir por el faldeo de cordillera fiscal que corresponde a los deslindes Oeste y Este de las propiedades ocupadas por Oscar Pedrero y Juan Nahuel, respectivamente continúa por los deslindes Sur y Este de la propiedad ocupada por Juan Nahuel que lo separa del Ventisquero Jorge Montt, y prosigue por la ribera del Fiordo Calen pasando por el Estero Ventisquero y por el Sur de las Islas Ester y Clara y el Norte de la Isla Faro hasta la Punta Glaciar.
+
+- ESTE: Desde Punta Glaciar sigue por la Cesta Occidental en dirección Sur hasta llegar al Ventisquero Jorge Montt bordeando su margen Oriental, continúa bordeando en sus márgenes Occidental y Oriental del Ventisquero Lucia pasando por el borde Occidental del Lago Berguez hasta llegar al Ventisquero Gabriel Quiroz o Pascua también bordeándolo y Pasando por el Cerro Nublado, la naciente del Río Pascua en este Ventisquero, el Cerro Mayo, el Cerro San Martín hasta llegar al Ventisquero Oriental, bordeándolo siguiendo en dirección General Sur pasando por el nacimiento de un Río sin nombre que desemboca en una Laguna sin nombre, el borde Occidental de otra Laguna sin nombre, el Cerro Mellizo Sur, los nacimientos de ambos brazos del Río Bravo que van a desembocar al brazo Poniente del Lago O'Higgins, el borde Occidental de una Laguna sin nombre de la cual nace el Río Manzo, el borde Norte y Oriente del Cerro O'Higgins, el Cerro Cóndor hasta llegar al Ventisquero O'Higgins, bordeándolo pasando por el margen del Lago O'Higgins siguiendo al Sur hasta los faldeos cubiertos por el campo de hielo del Cerro Pirámide hasta llegar al Ventisquero Chico orillando hasta el nacimiento del Río De Los Toros, continuando por este Río hasta su confluencia con el Río que alimenta por el Sur el Lago del Desierto; desde esta confluencia siguiendo al Sur hasta el primer afluente (sin nombre) que desemboca por el Oriente; siguiendo por este afluente en su brazo Norte hasta el límite internacional con la República Argentina. Continúa por dicho límite pasando por el Cerro Chaltel o Fitz Roy, Cerro de la Torre, Cerro Adela, Cerro Campana, Cerro Murallón, Cerro Bertrand, Cerro Bolados, Cerro Peineta, Cerro Mayo, Cerro Cervantes hasta llegar al paralelo 50º 45' Latitud Sur; tesde ahí una recta imaginaria que corta el Ventisquero Dickson hasta llegar al Cerro Stokes de cota 2.150 m.s.n.m.; del Cerro Stokes una línea recta imaginaria hasta el Cerro Blanco de cota 1.910 m.s.n.m.: del Cerro Blanco una lineo recta imaginaria hasta el Cerro Zapato de cota 1.450 m.s.n.m; del Cerro Zapato una línea recta imaginaria hasta un Cerro sin nombre de cota 2.256 m..s.n.m.; desde este Cerro sin nombre una línea recta imaginaria hasta el nacimiento del Río Geikie; el curso de dicho Río hasta su confluencia con otro sin nombre que nace desde dos lagunas adyacentes a un Ventisquero sin nombre; el curso de este Río siguiendo por la margen Oriental de la Laguna ubicado al Este hasta aproximadamente al centro de esta margen, de aquí en dirección Este cruzando un Río sin nombre que desemboca en el Lago Tindalt siguiendo la base de un Cerro sin nombre hasta llegar al Río Serrano; el curso de este Río siguiendo por la ribera Oeste hasta la costa Norte del Seno Ultima Esperanza siguiendo por dicha costa que bordea el Cerro Balmaceda hasta llegar a Puerto Bellavista; sigue en una línea recta imaginaria hasta un corro sin nombre de cota 1.994 m.s.n.m.; pasando por el extremo Noroeste del Fiordo Worseley.
+
+- SUR: Cerro sin nombre de cota 1.994 m.s.n.m.: sigue en una línea recta imaginaria hasta un cerro sin nombre de cota 1.362 m.s.n.m.; continúa en dirección Noroeste por un Fiordo al Oriente de la Península Staines, pasando al Occidente de una Isla sin nombre, cruzando por el Paso Blanche, continuando en dirección Oeste por el Paso Stewart y luego en dirección Norte por un Paso al Oriente delo Isla Lucia e Islotes Paget; luego toma dirección Noroeste y Norte continuando por un canal que corre el Oriente de la Isla Esperanza, tomando dirección Este frente a Cabo San Antonio y luego dirección Noroeste por el Canal Pitt pasando por el Oriente de la Isla Peel, Islas Kentish, Isla Cumming e Isla sin nombre al Norte de Isla Cumming, siguiendo por el Paso Tres Cerros, Paso Caffin, Estrecho Trinidad, Canal Trinidad hasta llegar al Golfo Trinidad, y
+
+- OESTE: Desde el Golfo Trinidad continúa en dirección Norte, pasando al Oeste de la Isla Mornington hasta llegar a Bahía Dineley. Se incluyen todos los islotes y roqueríos existentes entre el Golfo Trinidad y Bahía Dineley, situados hasta cinco kilómetros de la costa de las islas comprendidas en dicho sector.
+
+Se deja constancia que quedan excluidos del Parque Nacional "Bernardo O'Higgins" los siguientes terrenos;
+
+a) Predio de 315,4 Hás., de propiedad de la Fábrica de Conservas La Vega S.A., individualizado en el plano Nº XII1-142-C.R., de la Colección de Magallanes, del Ministerio de Bienes Nacionales;
+
+b) Terrenos transferidos al Servicio de Vivienda y Urbanización, según DS Nº 647, de 1978 (M.T. y C.), de una extensión de 8,6 .Hás.; y
+
+c) Terrenos actualmente arrendados a don Juan Bustos Muñoz, de una extensión de 1.723,00 Hás.; individualizado en el plano Nº XII-l-169-T.R., de la Colección de Magallanes del Ministerio de Bienes Nacionales.
+
+Los tres sectores señalados se ubican en el área de Puerto Edén, indicándose en el plano del Parque Nacional "Bernardo O'Higgins su ubicación relativa.
+
+d) Los terrenos que conforman el Lote Nº 11 del plano Nº 10 de Ultima Esperanza, Ministerio de Bienes Nacionales, de una extensión de 5.300 Hás., cuya ubicación específica se señala en el mismo plano de la unidad; y
+
+e) Terrenos arrendados a los señores Juan Aurelio Nahuel Mansilla, Oscar Pedrero Ayala; Moisés F. Velásquez Muñoz, Próspero Segundo Urrutia Iñiguez y Próspero Urrutia Torres, de una extensión total de 10.352 Hás.
+
+Regístrese en el Ministerio de Bienes Nacionales, tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- René Peri Fagerstrom, General Inspector, Ministro de Bienes Nacionales.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Jorge Calderón Figueroa, Subsecretario de Bienes Nacionales.
