@@ -1,0 +1,3 @@
+Por Decreto Secc. 2a. N° 641, de 13 Noviembre 1995. Alcalde I. Municipalidad de Santiago dispone expropiación parcial conforme D.S. N° 458 Vivienda y Urbanismo, Ley N° 18.695 y D.L. N° 2.186 inmueble San Martín 555, Rol 190-7 aparentemente dominio Administración y Servicios La Florida S. Superficie aproximada 74,55 m2. Deslindes: Franja Norte: 2,70 mts. con propiedad uso público y 2,50 mts. con otro propietario; Sur, 2,80 mts. con propiedad uso público y 2,65 mts. con otro propietario; Oriente, 14 mts. con resto de propiedad; Poniente, 14 mts. con calle San Martín. Indemnización provisional $14.139.708.- pagadera contado.-
+
+Jaime Ravinet de la Fuente, Alcalde de Santiago. +
