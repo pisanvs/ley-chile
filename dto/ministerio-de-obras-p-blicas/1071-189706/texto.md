@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.071, de 29 de junio de 2001, se expropió el lote de terreno Nº37, superficie 3.817 m², rol de avalúo 866-236, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Tramo 1, Quinta Región y se acordó el valor de indemnización con su propietaria María Irene Luisa Di Gaetano Barbet, ascendente a la cantidad de $18.425.896.-
+
+Fiscal del Ministerio de Obras Públicas.
