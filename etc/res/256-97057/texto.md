@@ -1,0 +1,3 @@
+Por resolución Nº 256 de 18 de febrero de 1998 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por don MIGUEL ANGEL QUEZADA CERDA, de autorización para iniciar actividades pesqueras extractivas con la nave "Mamá Antonia", por no darse cumplimiento a lo dispuesto en el artículo 1º de la ley Nº 19.516, al no haber operado durante 1995, con red de arrastre.
+
+Valparaíso, 18 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
