@@ -1,0 +1,3 @@
+Por resolución No. 851, de 23 de Julio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución No. 56, de 1983, de esta Subsecretaría, que autorizó a doña JULIA NANCO CALFULAF, RUT No. 8.290.096-9, domiciliada en Sector Desembocadura Río Colún, Comuna de Corral, Provincia de Valdivia, Décima Región de Los Lagos, para realizar actividades pesqueras de cultivo de choro zapato, por renuncia de su titular.
+
+Valparaíso, 23 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
