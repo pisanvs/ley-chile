@@ -1,0 +1,3 @@
+Por decreto MOP Nº 141 de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 1, superficie 953 m², rol de avalúo 223-23, comuna de Cañete, para la obra "Camino Pulebu - Butamalal, Sector Puente Cayucupil, Km. 0,00000 a Km. 0,24600" y se acordó el valor de indemnización con su propietario Ramón Renato Cáceres Toro, ascendente a la cantidad de $814.104.-
+
+Fiscal del Ministerio de Obras Públicas.
