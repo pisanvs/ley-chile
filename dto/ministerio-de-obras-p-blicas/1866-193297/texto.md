@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.866, de 30 de noviembre de 2001, se expropió el lote de terreno Nº146-1, superficie 268 m², rol de avalúo 277-22, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo-Casablanca (Ruta F-90). Tramo: Km. 0.000,00 a Km. 32.100,00, Quinta Región y se acordó el valor de indemnización con su propietaria María de la Luz Antonia Torres Bisquertt y otros, ascendente a la cantidad de $2.368.059.
+
+- Fiscal del Ministerio de Obras Públicas.
