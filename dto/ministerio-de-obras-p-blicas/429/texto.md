@@ -1,0 +1,3 @@
+Por Decreto MOP N° 429, de fecha 28 de septiembre de 1994, se expropió el lote de terreno N° 36, superficie 730 M2., rol de avalúo 251-51, Comuna de Chanco, para la ejecución de la obra Camino Constitución-Chanco rol M-50, sector Reloca-Las Cañas y se acordó valor de indeminización con su propietario Gilberto Suazo Lepe, ascendete a la cantidad de $ 167.846.-
+
+Fiscal del Ministerio de Obras Públicas.
