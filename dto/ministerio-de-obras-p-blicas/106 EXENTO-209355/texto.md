@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº106, de 21 de marzo de 2003, se expropió el lote de terreno Nº86-A, superficie 564 m2., rol de avalúo 747-189, comuna de Los Bulnes, para Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli. Sector: Km. 435.378,00 al Km. 441.635,00, VIII Región, y se acordó el valor de indemnización con Rita Escobar Anabalón, ascendente a la cantidad de $1.105.329.
+
+Fiscal del Ministerio de Obras Públicas.
