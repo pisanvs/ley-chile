@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2366 de 10 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Reserva y Sector Expropiado Predios "Santa Julia y Santa Ana Poniente" y "Santa Ana" de la comunal de Freire, IX Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 2 a la 12, 14 y 16 a la 25 del Proyecto de Parcelación "La Unión" formado por predios señalados. Los Derechos de Agua se extraen del Canal Allipén derivado del Río Allipén. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
