@@ -1,0 +1,3 @@
+Por R.M. (Ex.) Nº 13, del 24 de enero de 2003, del Ministerio de Economía, Fomento y Reconstrucción, acógese el recurso de reclamación interpuesto por ALIMENTOS MARINOS S.A. contra las resoluciones Nº 2.985 y Nº 2.997, ambas de 2002, de la Subsecretaría de Pesca. En consecuencia, considérese al recurrente y la nave "Santa Irene" en la determinación del límite máximo de captura por armador correspondiente al año 2003, en las unidades de pesquería Sardina común y Anchoveta, V a X Regiones, y Merluza de cola, V a X Regiones.
+
+Valparaíso, 24 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
