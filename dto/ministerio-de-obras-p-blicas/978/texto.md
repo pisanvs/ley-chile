@@ -1,0 +1,3 @@
+Por decreto MOP N°s 595 y 978, de 16 de octubre de 1995 y 22 de noviembre de 1996 respectivamente, se ordenó la expropiación del lote N°37, como asimismo, por este último se autorizó el convenio Directo de Precio por la suma de $208.928.953.-con propietario don Angel Escalona Daza para la ejecución de la obra Camino Autopista Santiago-San Antonio, sector Empalme I. Riquelme-Bif. Malloco.
+
+Fiscal del Ministerio de Obras Públicas
