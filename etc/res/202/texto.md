@@ -1,0 +1,3 @@
+Por resolución N° 202 de 10 de marzo de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, inmueble ubicado en Avenida Cinco de Abril N° 4202, presunto rol de avalúos N° 950-14 comuna de Estación Central, aparente dominio de doña Luisa Agas Aranda. Comisión integrada por peritos Sres. Pastor Correa Prats, arquitecto, Sergio Rojas Ibáñez, ingeniero Civil, y Miguel Haltenhoff Aenischanslin, constructor civil, según informe de 9 de octubre de 1992, fijó monto provisional indemnización en $ 5.580.000 pagadera al contado.-
+
+Directora SERVIU Metropolitano.
