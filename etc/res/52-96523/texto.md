@@ -1,0 +1,3 @@
+Por resolución No. 52 de 16 de Enero de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se rectifica el numeral 2° de la Resolución No. 1221, de 1990, de esta Subsecretaría, por la cual se autorizó a la ASOCIACION GREMIAL DE PESCADORES ARTESANALES Y CULTIVADORES DEL MAR DE CATRUMAN, domiciliada en Sector Catruman, Casilla Postal 52, Ancud, para iniciar actividades pesqueras de cultivo, en el sentido de consignar que el RUT de la interesada es el No. 71.596.300-0 y no el que erróneamente se señala allí.
+
+Valparaíso, 16 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
