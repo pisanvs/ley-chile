@@ -6908,15 +6908,15 @@ Bancos
 
 031 REPUBLIC NATIONAL BANK OF NEW YORK
 
-032 BANK OF AMERICA N T and S A
+032 BANK OF AMERICA, NATIONAL ASSOCIATION
 
-033 CITIBANK N A
+033 CITIBANK N A.
 
 034 BANCO REAL S A
 
 035 BANCO SANTIAGO
 
-036 BANCO DO ESTADO DE SAO PAULO S A
+036 BANCO DO ESTADO DE SAO PAULOS A
 
 037 BANCO SANTANDER-CHILE
 
@@ -16525,6 +16525,8 @@ a) Préstamos con garantía hipotecaria para vivienda, otorgados al adquiriente 
 b) Contratos de leasing de vivienda, en los términos señalados en el Capítulo 8-37 de esta Recopilación, esto es, los contratos que recaigan sobre una vivienda y que se celebren directamente con el usuario final.
 
 c) Créditos contingentes que, de acuerdo con las instrucciones de esta Superintendencia, deben incluirse en las partidas 1605, 1610, 1615, 1620, 1655 y 1660. Incluye, en consecuencia, las colocaciones contingentes que corresponden a: emisión de boletas de garantía, otorgamiento de avales y fianzas, emisión de cartas de crédito y confirmaciones de cartas de crédito. Las confirmaciones de cartas de crédito que cumplan las condiciones indicadas en la letra b) del numeral 2.3 precedente, se incluirán en categoría 3.
+
+d) Depósitos a plazo constituidos en bancos del exterior clasificados en una categoría de riesgo no inferior a A-, por una empresa clasificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
 
 2.5.- Categoría 5.
 
