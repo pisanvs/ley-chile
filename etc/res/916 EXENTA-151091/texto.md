@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 916 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y sector expropiado predios "Parte del Fundo El Peral de Pudahuel y porción C del resto del Fundo La Cuarta Hijuela .de la Punta", "Parte del Fundo El Peral de Pudahuel", de la comuna de Pudahuel, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 25, sitios N°s. 1 al 14 y Reserva CORA No. 2 del Proyecto-de Parcelación "Campo Alegre", formado por predios señalados. Los Derechos de Agua se extraen del canal de Maipo.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
