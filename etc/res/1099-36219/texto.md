@@ -1,0 +1,3 @@
+Por Resolución N° 1.099, de 11 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial, en virtud de lo dispuesto en el artículo 143 letra b) del D.S. N° 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, de las Resoluciones N° 555 y N° 897, ambas de 1993, de esta Subsecretaría, solamente en cuanto autorizó a PESCA CHILE S.A., para realizar actividades pesqueras extractivas con la nave "Cote Saint Jaques", en el litoral comprendido entre la VIII Región y el paralelo 41°28,6' L.S., sobre el recurso hidrobiológico Merluza común.
+
+Valparaíso, 11 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
