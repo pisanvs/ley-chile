@@ -1,0 +1,3 @@
+Alcaldesa I. Municipalidad de Providencia, mediante Decreto No. 2.006 de 26 de Agosto de 1985, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976, y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en calle Guardia Vieja No. 186, Rol de Avalúo No. 930-33, aparentemente de propiedad de don Salomón Awad Wahbi, para el ensanche de la calle Guardia Vieja. Deslindes parte expropiada: Al Norte: en 8 mts. con Rol 93032, Al Sur, en 8 mts. con otros propietarios; Al Oriente, 1N 12,20 mts. con resto de la propiedad; y al Poniente, en 12,20 mts. con calle Guardia Vieja. Indemnización provisional $ 1.101.000, pagadera contado.
+
+- Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
