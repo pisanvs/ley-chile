@@ -22820,11 +22820,7 @@ Mientras esta Superintendencia no lo autorice, las instituciones fiscalizadas de
 
 La autorización para publicar los estados financieros no representa una certificación de la razonabilidad o correcta preparación de ellos como tampoco de los antecedentes que les sirvieron de base, pudiendo tales estados quedar sujetos a revisiones posteriores.
 
-El contenido de los estados financieros que se publiquen deberá corresponder exactamente a la misma información enviada a este Organismo y que éste haya autorizado.
-
-En todo caso, cualquier publicación, circulación o entrega a terceros, de estados financieros anuales que contengan información que difiera de la aprobada por este Organismo Contralor o que sea un extracto de éstos, deberá contar con la conformidad previa de esta Superintendencia, salvo que se trate únicamente de su traducción a otro idioma.
-
-Si los estados financieros publicados no corresponden a la versión autorizada por este Organismo, contienen errores o no cumplen con las normas impartidas, esta Superintendencia podrá exigir, entre otras medidas, una publicación con información rectificada, en la forma que disponga.
+En el evento de que los estados financieros que se publiquen o circulen, contengan errores o no se ciñan a las normas impartidas, esta Superintendencia podrá exigir, entre otras medidas, una nueva publicación con información rectificada.
 
 4.2. Publicación en el periódico.
 
@@ -22834,7 +22830,7 @@ Sin perjuicio de lo anterior, las instituciones que deban preparar estados finan
 
 Lo anterior no es óbice para publicar conjuntamente el balance consolidado, el individual y el de las filiales, dentro del plazo señalado en el primer párrafo de este número.
 
-Al respecto, cabe hacer presente que, de conformidad con lo dispuesto en el inciso segundo del N° 4 del artículo 65 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación de los estados financieros auditados en el plazo que señala la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que lo publicaron.
+Al respecto, cabe hacer presente que, de conformidad con lo dispuesto en el inciso segundo del N° 4 del artículo 65 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación de los estados financieros auditados en el plazo que señala la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que lo publicaron.Las publicaciones en el periódico podrán efectuarse incluyendo sólo aquellas notas que para el efecto se señalan en el Anexo N° 3 de este Capítulo, a cuyas instrucciones deberán ceñirse las instituciones que se acojan a esta disposición.
 
 4.3. Nombres y firmas.
 
@@ -22872,7 +22868,7 @@ El balance general y el estado de resultados deberán acompañarse con las sigui
 
 - Inversiones en sociedades.
 
-- Provisiones para cubrir activos riesgosos.
+- Provisiones.
 
 - Capital, reservas y resultado del ejercicio.
 
@@ -22944,7 +22940,7 @@ En caso que este Organismo estime que la redacción de tales notas no es adecuad
 
 4.1. Notas relativas a criterios contables aplicados y cambios contables.
 
-En la primera nota de los estados financieros se informará brevemente acerca de los principales criterios contables utilizados en su preparación. Para ese efecto se utilizará la redacción estándar incluida en el Anexo N° 3 de este Capítulo.
+En la primera nota de los estados financieros se informará brevemente acerca de los principales criterios contables utilizados en su preparación. Para ese efecto se utilizará la redacción estándar incluida en el Anexo N° 4 de este Capítulo.
 
 En una segunda nota se indicarán los cambios en los criterios contables que hayan existido en relación con los aplicados en el ejercicio anterior, cuando la adopción de los nuevos criterios tenga un efecto significativo, debiéndose indicar la naturaleza, justificación y efectos de tales cambios en el resultado neto y en los rubros de los estados financieros.
 
@@ -22992,19 +22988,13 @@ Será obligatorio incluir las operaciones con un detalle que individualice a cad
 
 En esta nota se identificarán las sociedades en las cuales la institución tenga una participación igual o superior al 10% sobre el capital pagado o las utilidades de la sociedad de que se trate. Se mostrará el importe registrado en el activo por cada inversión, el porcentaje de participación en esas sociedades y los resultados obtenidos por la aplicación del método del Valor Patrimonial Proporcional (VPP).
 
-Además de la información antes indicada, se entregarán, cuando corresponda, algunos antecedentes básicos de las sociedades filiales, esto es, de aquellas en que la institución tenga una participación superior al 50%.
-
 La información se presentará de la forma que se señala en el Anexo N° 6 de este Capítulo.
 
 Esta nota deberán presentarla solamente las instituciones financieras que tengan una participación igual o superior al 10% en alguna sociedad, salvo que hayan dejado de tener esa participación en el curso del ejercicio, caso en el cual podrán adecuar la nota para mencionar esa circunstancia si ello constituye un hecho relevante.
 
 4.5. Nota sobre provisiones.
 
-En esta nota se mostrará la composición de las provisiones cuyo saldo total se indica en el balance general, y el incremento, disminución o utilización de las provisiones en el ejercicio.
-
-Deberá expresarse además, en esta nota, la opinión de la administración respecto a la suficiencia de estas provisiones e indicarse la relación que existe con las provisiones mínimas exigidas de acuerdo con las normas de los Capítulos 8-28, 10-1 y 11-3 de esta Recopilación y entre el total de las provisiones mantenidas y aquellas que, para casos especiales, pudo haber requerido en forma extraordinaria esta Superintendencia.
-
-La presentación de la nota se ceñirá a la forma que se demuestra en el Anexo N° 7 de este Capítulo.
+En esta nota se mostrará la composición y movimiento de las provisiones para cubrir riesgos de activos y la información relativa a las provisiones voluntarias, siguiendo para el efecto el modelo incluido en el Anexo N° 7 de este Capítulo.
 
 4.6.- Nota sobre capital, reservas y resultado del ejercicio.
 
@@ -23262,6 +23252,8 @@ OBSERVACIONES:
 
 > **Nota.** NOTA 5 La letra H), N° I, Circular 2872, SBIF, promulgada el 30.12.1996, modifica el presente Anexo, a fin de actualizarlo y traspasar instrucciones actualmente contenidas en el Anexo N° 2.
 
+> **Nota.** NOTA 6 La letra G), de la Circular 2876, SBIF, promulgada el 11.12.1996,modifica el presente Anexo, a fin de incorporar en el Estados de Resultados una línea para reflejar el efecto de la constitución o liberación de las provisiones voluntarias en los resultados del ejercicio.
+
 ANEXO N° 2
 
 MODELO DE ESTADOS FINANCIEROS CONSOLIDADOS.
@@ -23286,39 +23278,47 @@ F) Incluye todos los activos y pasivos de las filiales que no tienen una integra
 
 Los activos y pasivos por intermediación, como asimismo otros saldos que sólo reflejen derechos y compromisos por operaciones a futuro, o de recibir o entregar títulos, contenidos en los balances de las filiales corredores de bolsa o agencias de valores, deberán anularse o ajustarse para seguir los criterios de la matriz, sin perjuicio de la exposición en nota de los respectivos compromisos.
 
-ANEXO N°3
+> **Nota.** NOTA La letra G), de la Circular 2876, SBIF, promulgada el 11.12.1996,modifica el presente Anexo, a fin de incorporar en el Estados de Resultados una línea para reflejar el efecto de la constitución o liberación de las provisiones voluntarias en los resultados del ejercicio.
 
-MODELO DE NOTA SOBRE CRITERIOS CONTABLES APLICADOS.
+ANEXO N° 3
 
-NOTA N°1 - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS.
+PUBLICACIONES RESUMIDAS EN EL PERIODICO
 
-a) Información proporcionada.
+Para publicar en un periódico los estados financieros sin la totalidad de sus notas, las instituciones fiscalizadas deberán atenerse a lo siguiente:
 
-Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados.(1)
+1.- Notas mínimas
 
-b) Intereses y reajustes.
+En la publicación deberán incluirse, al menos, las siguientes notas
 
-Las colocaciones, inversiones y obligaciones se presentan con sus intereses y reajustes devengados hasta la fecha de cierre del ejercicio.
+a) "Principales criterios contables utilizados"
 
-Sin embargo, en el caso de las colocaciones vencidas ..../y de las vigentes con alto riesgo de irrecuperabilidad/...se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes. (2)
+b) "Cambios Contables".
 
-c) Corrección monetaria.
+c) "Obligación subordinada con el Banco Central de Chile"
 
-El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC). La aplicación de este mecanismo de ajuste significó un../cargo/abono/...neto a resultados ascendente a $...........millones
+d) "Operaciones con partes relacionadas"
 
-Las cuentas de resultado no se presentan corregidas monetariamente
+e) "Inversiones en sociedades", cuando se incluya la participación en alguna filial
 
-d) Moneda extranjera.
+f) "Provisiones"
 
-Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio informado por la Superintendencia de Bancos e Instituciones Financieras ($.......por US$1).
+g) "Capital, reservas y resultado del ejercicio"
 
-El saldo de $......... millones correspondiente a la . .../Utilidad/pérdida de cambio neta que se muestra en el Estado de Resultados, incluye tanto los resultados obtenidos en operaciones de cambio, como el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera. (3)
+h) "Operaciones con productos derivados"
 
-e) Inversiones Financieras.
+i) "Otros ingresos de operación", "Otros Gastos de Operación", "Ingresos no Operacionales", "Gastos no Operacionales" y nota sobre hechos relevantes, cuando la respectiva nota haya debido incluirse en los estados financieros de acuerdo con las instrucciones de este Capítulo.
 
-Las inversiones en instrumentos financieros con mercado secundario y vencimiento a más de un año, se presentan ajustadas a su valor de mercado de acuerdo con instrucciones especificas de la Superintendencia de Bancos e Instituciones Financieras. La aplicación de dicho ajuste significó un.../cargo/abono/...neto a los resultados del ejercicio ascendente a $.........millones, monto que se incluye en los resultados operacionales correspondientes a la ..../"Utilidad por intermediación de documentos"Pérdida por intermediación de documentos"/....
+j) Notas requeridas por los auditores externos, cuando éstos estimen que dichas notas deben incluirse también en la publicación resumida de que se trata.
 
-Las demás inversiones correspondientes a instrumentos financieros se presentan al valor de adquisición, más sus reajustes e intereses devengados.
+2.- Numeración de las notas y leyenda sobre la información no publicada.
+
+Las notas no se renumerarán, debiendo mantenerse en el Balance General y en el Estado de Resultados la mención a la cantidad de notas que realmente componen el estado financiero auditado.
+
+Al final de las notas que se publican se incluirá, en forma destacada, la siguiente leyenda
+
+(*) Incluir el número y enunciado de cada nota omitida.
+
+ANEXO N° 4
 
 f) Activo fijo físico.
 
@@ -23328,71 +23328,53 @@ g) Inversiones en sociedades.(5)
 
 Las acciones o derechos en sociedades en las cuales la institución tiene una participación igual o superior al 10%, se encuentran registradas en el activo a su valor patrimonial proporcional (VPP).
 
-h) Provisiones sobre activos riesgosos.
+h) Provisiones.
 
-La institución ha constituido todas las provisiones necesarias para cubrir los riesgos de pérdida de los activos, de acuerdo con la metodología de cálculo de estimación de riesgos dispuesta por la Superintendencia de Bancos e Instituciones Financieras (Nota....).(4)
+Las provisiones exigidas para cubrir los riesgos de perdida de los activos han sido constituidas de acuerdo con las normas de la Superintendencia de Bancos e Instituciones Financieras Los activos se presentan netos de tales provisiones o demostrando la rebaja, en el caso de las colocaciones.
 
-i) Obligación subordinada con el Banco Central de Chile.(5)
+/ Las provisiones que mantiene la institución por sobre las mínimas exigidas por la Superintendencia corresponden a las "Provisiones Voluntarias" cuyo monto y efecto en los resultados del ejercicio se muestra directamente en el Balance General y en el Estado de Resultados /
 
-De acuerdo con lo dispuesto en el artículo 15 de la Ley N° 18.401, la obligación subordinada que mantiene la institución con el Banco Central de Chile no se computa como pasivo exigible, encontrándose dicha obligación registrada sólo en cuentas de orden.
+i) Obligación subordinada con el Banco Central de Chile.(6)
 
-La amortización que corresponde efectuar sobre la base de los excedentes que se obtienen en un ejercicio, debe quedar provisionada al cierre de ese ejercicio, demostrándose su importe como "Provisión para pago obligación subordinada al Banco Central de Chile" (Nota 2).
+De acuerdo con lo dispuesto en el artículo 15 de la Ley N° 18401, la obligación subordinada que mantiene la institución con el Banco Central de Chile no se computa como pasivo exigible, encontrándose dicha obligación registrada solo en cuentas de orden.
+
+La amortización que corresponde efectuar sobre la base de los excedentes del ejercicio se demuestra bajo "Otros Pasivos", en el rubro "Provisión para pago obligación subordinada al Banco Central de Chile".
 
 j) Impuestos diferidos.
 
 De acuerdo con las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, no se reconoce el efecto de impuestos diferidos originados por las diferencias temporales existentes.
 
-INSTRUCCIONES:
+k) Vacaciones del personal.
 
-(1). Pueden indicarse salvedades si a juicio de los auditores externos existen diferencias importantes que deban mencionarse.
+El costo anual de vacaciones y los beneficios del personal se reconocen sobre base devengada.
 
-(2): Incluir este párrafo o la frase intercalada sólo si es significativo el monto de los intereses y reajustes no reconocidos en los resultados.
+INSTRUCCIONES
 
-(3): Párrafo no aplicable en el caso de sociedades financieras.
+(1): Pueden indicarse salvedades si a juicio de los auditores externos existen diferencias importantes que deban mencionarse.
 
-(4): Referencia a la nota sobre provisiones, según el número que le corresponda a dicha nota.
+(2): Año correspondiente al del ejercicio anterior.
+
+(3): Incluir este párrafo o la frase intercalada sólo si es significativo el monto de los intereses y reajustes no reconocidos en los resultados.
+
+(4): Párrafo no aplicable en el caso de sociedades financieras.
 
 (5): Aplicable sólo en el caso de que existan saldos por los conceptos que se señalan.
 
-> **Nota.** La letra G) del N° I, de la Circular 2803, SBIF, promulgada el 29.12.1994, modifica el presente Anexo, adecuando el texto de la nota sobre provisiones e incorporando una nota sobre gastos de vacaciones del personal.
-
-ANEXO N°4
-
-MODELO DE NOTA SOBRE OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
-
-Instituciones que mantienen obligación subordinada:
+MODELO DE NOTA SOBRE OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE
 
 NOTA 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
 
-Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N°18.401, que permitió a las instituciones financieras novar los contratos de cesión de cartera de colocaciones que mantenían con el Banco Central de Chile, por una nueva obligación de un monto inicial Igual al saldo de la obligación de recompra establecida en tales contratos, vigente a la fecha de la novación.
+Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N° 18401 Este compromiso, denominado "Obligación subordinada", se expresa en Unidades de Fomento y esta afecto a un incremento de 5% anual /por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/ De acuerdo con la ley, esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual deducida la parte de ellos que corresponda a las acciones con preferencia y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
 
-Este compromiso novado, denominado "Obligación subordinada" se expresa en Unidades de Fomento y está afecto a un incremento de 5% anual ..../por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/....
+Al cierre del presente ejercicio la obligación subordinada asciende a $ millones (UF) y para su amortización se ha constituido una provisión ascendente a $ millones (U.F.) que corresponde a los excedentes del ejercicio destinados a ese fin y que se muestra en el balance general como "Provisión para pago de obligación subordinada al Banco Central de Chile".
 
-De acuerdo con la ley esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual .../deducida la parte de ellos que corresponda a las acciones con preferencia/....y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
+La variación de la obligación subordinada en el ejercicio ha sido la siguiente:
 
-Al cierre del presente ejercicio la obligación subordinada asciende a UF..............Para su amortización se ha constituido una provisión ascendente a $................millones (U.F.................) que corresponde a los excedentes del ejercicio destinados a ese fin y que se muestra en el balance general como "Provisiones para pago de obligación subordinada al Banco Central de Chile"
+El cumplimiento de la obligación subordinada no afecta a los depositantes y acreedores en caso de liquidación forzosa y disolución de la empresa, ya que en tales circunstancias esta obligación se cumplirá con posterioridad a los pagos que procedan a depositantes y acreedores, conforme a las normas legales vigentes.
 
-La variación de esta obligación subordinada en el ejercicio ha sido la siguiente:
-
-.
-
-El compromiso de destinar excedentes al cumplimiento de la obligación subordinada a favor del Banco Central de Chile tiene distintos efectos
-
-a) Pagos a depositantes y acreedores:
-
-El cumplimiento de la obligación subordinada no afecta a los depositantes y acreedores en caso de liquidación forzosa y disolución de la empresa, ya que en tales circunstancias esta obligación se cumplirá con posteridad a los pagos que procedan a depositantes y acreedores, conforme a las normas legales vigentes. En condiciones normales, esta obligación será cubierta con los excedentes de cada ejercicio que deben destinarse a ese fin.
-
-b) Distribución de utilidades:
-
-De conformidad con las disposiciones vigentes, los propietarios de acciones preferidas tienen derecho a percibir dividendos calculados sobre la base del excedente que proporcionalmente corresponda a esas acciones, determinado antes de la provisión para amortizar la obligación subordinada.
+Los propietarios de acciones preferidas tienen derecho a percibir dividendos calculados sobre la base del excedente que proporcionalmente corresponda a esas acciones, determinado antes de la provisión para amortizar la obligación subordinada.
 
 Los accionistas que poseen acciones ordinarias no percibirán dividendos mientras no se haya extinguido la totalidad de la obligación subordinada.
-
-Instituciones que no.mantienen obligación subordinada;
-
-NOTA 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
-
-Esta institución no tiene la obligación subordinada con el Banco Central de Chile a que se refiere la Ley N° 18.401.
 
 ANEXO N°5
 
@@ -23456,43 +23438,13 @@ Por otra parte, durante el ejercicio y hasta la fecha de preparación de los est
 
 ANEXO N° 6
 
-MODELO DE NOTA SOBRE INVERSIONES EN SOCIEDADES.
-
-NOTA... - INVERSIONES EN SOCIEDADES /FILIALES / Y / COLIGADAS.
-
-a) Participación en las sociedades.(1)
-
-En el Balance General se presentan inversiones en sociedades por $.............millones .. /que corresponden/de los cuales $ .............. millones corresponden/, a la participación de la institución en sociedades .../filiales/y/coligadas/...que /complementan/o/ facilitan/ ..las actividades, contempladas en ../ el número 11 bis/ el número 15 bis/ los números 11 bis y 15 bis /...del artículo 83 de la Ley General de Bancos.
-
-Al 31 de diciembre de 19... la institución tiene participación en las siguientes sociedades ../filiales/ y / coligadas...:
-
-.
-
-INSTRUCCIONES:
-
-(1): Incluir los títulos ("a) Participación en sociedades." y "b) Antecedentes acerca de las sociedades filiales.») sólo en caso de que deba incluirse la sección b) en la nota, es decir, cuando realmente existan sociedades filiales.
-
-(2): Agregar los importes totales, cuando corresponda, por las acciones o derechos en sociedades que no son filiales ni coligadas, es decir de aquellas que representan una participación inferior al 10%, rebajados por el importe de las provisiones que se hubieren constituido.
-
-(3) : Incluir cada una de las sociedades filiales, es decir, aquellas en las cuales la institución tenga una participación mayor al 50%. En caso de que alguna de las sociedades informadas en este cuadro haya iniciado sus actividades durante el ejercicio, se indicará además, al pie del cuadro, la fecha de inicio de sus operaciones.
+MODELO DE NOTA SOBRE INVERSIONES EN SOCIEDADES
 
 ANEXO N°7
 
 MODELO DE NOTA SOBRE PROVISIONES
 
-NOTA... - PROVISIONES PARA CUBRIR ACTIVOS RIESGOSOS.
-
-Al 31 de diciembre de 19........./ el banco/la sociedad/... mantiene provisiones para cubrir eventuales pérdidas por un total de $ ............. millones ..../, del cual un monto de $..........millones corresponde a las provisiones mínimas exigidas por la Superintendencia de Bancos e Instituciones Financieras.
-
-El movimiento registrado durante el ejercicio en las cuentas de provisiones se resume como sigue:
-
-.
-
-A juicio de la administración, las provisiones constituidas cubren todas las eventuales pérdidas que pueden derivarse de la no recuperación de activos, según los antecedentes examinados por la institución.
-
-> **Nota.** La letra C, de la Circula 2718, SBIF, promulgada el 16.12.1992, complementa las instrucciones para la preparación de las notas sobre operaciones con partes relacionadas y provisiones para cubrir activos riesgosos contenidas en el presente Anexo, especificándose las partidas que originan los saldos que deben informarse en cada caso.
-
-> **Nota.** NOTA 1 La letra H) del N° I, de la Circular 2803, SBIF, promulgada el 29.12.1994, modifica el texto del modelo de nota sobre provisiones contenido en el presente Anexo.
+NOTA... - PROVISIONES.
 
 ANEXO N° 8
 
