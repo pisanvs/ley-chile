@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD DE FOMENTO Y COMERCIAL ALBATROS S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 36, de 22 de Enero de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad de Fomento Industrial y Comercial Albatros S.A., domiciliada en Santiago, para operar dos embarcaciones individualizadas en el contrato de construcción suscrito en Diciembre de 1984, con Astilleros y Maestranzas de la Armada, en la zona del litoral comprendida entre la V y la X Región, en faenas extractivas de anchoa, sardina española, sardina común, jurel y caballa. Asimismo, para instalar y operar una planta de harina y aceite de pescado en la Bahía de Coronel, VIII Región, en la que podrá utilizar como materia prima los mismos recursos antes especificados para extraer con las embarcaciones mencionadas.
+
+Santiago, 22 de Enero de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
