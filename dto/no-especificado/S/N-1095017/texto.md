@@ -1,0 +1,33 @@
+Libertad de Imprenta
+
+El Director Supremo del Estado de Chile, de acuerdo con el Excmo. Senado, ha tenido a bien anunciar que para lo sucesivo se ponga en observancia el decreto de 23 de Junio de 1813 sobre la libertad de imprenta que es como sigue:
+
+Despues que en todas las naciones cultas i en todos los tiempos se ha hablado tanto sobre las utilidad de la libertad de imprenta: cuando todos conocen que esta es la barrera mas fuerte contra los ataques de la tiranía, i que jamas ha existido un estado libre sin que todos sus habitantes tengan un derecho de manifestar publicamente sus opiniones; cuando hemos visto que los déspotas han mirado siempre como el medio mas seguro de afianzar la tiranía, el prohibir a todo ciudadano la libre comunicacion de sus ideas, y obligarle a pensar conforme a los caprichos y vicios de su Gobierno; i finalmente cuando todos íntimamente conocen que tan natural como el pensar le es al hombre el comunicar sus discursos, seria presuncion querer decir algo de nuevo sobre las ventajas de este precioso derecho tan propio de los hombres libres, que el Gobierno quiere devolverles, convencido de que es el único medio de conservar la libertad, formar, i dirijir la opinion pública i difundir las luces. En su virtud decreta:
+
+1.º Habrá desde hoi entera i absoluta libertad de Imprenta. El hombre tiene derecho de examinar cuantos objetos estén a su alcance; por consiguiente, quedan abolidas las revisiones, aprobaciones i cuantos requisitos se opongan a la libre publicacion de los escritos.
+
+2.º Siendo la facultad que los hombres tienen de escribir con la limitacion de que se guarde decoro i honestidad; faltar a esta condicion es un delito. Si el que falta agravia a un tercero, a éste corresponde la acusacion ante la junta protectora, de que despues se hablará. Si el escrito publicado espone la seguridad i tranquilidad pública, la relijion del Estado, o el sistema de gobierno, a todos los ciudadanos i en especial al Ministro Fiscal. Tan sagrado e inviolable es a los ojos de la lei la reputacion de los gobernantes o supremos majitrados, como la de los ciudadanos particulares i en esta materia todos tienen el mismo derecho a quejarse.
+
+3.º La libertad de la prensa se pone bajo la suprema tuicion i cuidados del Senado, quien en todos tiempos debe responder al Gobierno i a los chilenos del encargo mas sagrado que le ha confiado la Patria. Un Senador nombrado por su cuerpo es el especialmente comisionado para velar sobre la libertad i sin su audiencia no podrá condenarse alguno por haber abusado.
+
+4.º Una junta compuesta de siete individuos de ilustracion, patriotismo e ideas liberales, proteje tambien la libertad de la prensa; i en todo caso de reclamacion contra un escrito, declara si hai o no abuso de esta libertad. Si lo hai, las justicias ordinarias conocen el delito i aplican las penas que corresponden. Ningun tribunal, ningun juez puede proceder a conocer i castigar crímen de esta clase sin la previa declaracion de hecho, que debe dar la junta protectora, de que hai abuso.
+
+5.º Los individuos de esta junta pueden ser eclesiásticos o seculares i solo duran un año en el ejercicio de sus funciones. Su eleccion es en la forma siguiente. El Senado, el Cabildo i la misma junta que acaba, forman cada uno por votacion secreta una lista de quince individuos, que tengan los requisitos necesarios para entrar en la junta protectora (en esta primera eleccion se omite la lista que debia formar dicha junta). Estas listas se pasan al Gobierno, quien a presencia de los tres cuerpos proponentes hará poner en un cántaro tantas cédulas cuantos individuos contienen las tres i se sacarán a la suerte veintiuna cédulas. Los individuos de las siete primeras son los vocales de la junta, i los restantes suplentes para los casos de recusacion, enfermedad o implicancia de los propietarios. No hai embarazo para que las personas propuestas por un cuerpo lo sean tambien por otro, con tal que entre todos alcancen al número de veinticuatro que se reputa suficiente para determinar en primera i segunda vista.
+
+6.º Estos vocales al recibirse harán juramento de sostener en cuanto sea justo el derecho que tienen los ciudadanos a publicar sus escritos. El acusado puede recusar hasta diez vocales, sin que se le obligue a espresar causa.
+
+7.º De las resoluciones de esta junta puede apelarse a la misma junta, compuesta de siete individuos distintos de los que proveyeren el auto reclamado, quienes revisarán el asunto en la mima forma que dispone para primera vista.
+
+7.° Convencido el Gobierno de que es un delirio que los hombres particulares disputen sobre materias i objetos sobrenaturales; i no pudiendo ser controvertida la moral que aprueba toda la Iglesia Romana: por una escepcion de lo determinado en el artículo 1.° declara: que los escritos relijiosos no pueden publicarse sin previa censura del ordinario eclesiástico i de un vocal de la junta protectora. Siempre que se reclamare sobre un escrito que trate de materias relijiosas, seis individuos sorteados de entre el total, que componen las últimas listas presentadas para la eleccion de vocales, unidos al diocesano, declaran ante todas cosas a pluralidad si la materia que se reclama es o no relijiosa; i resolviendo que lo es, se sortean entónces cuatro vocales eclesiásticos del mismo total de las listas, i no habiéndolos, se completa su número con los examinadores sinodales mas antiguos residentes en la capital i éstos unidos al diocesano examinan en la forma ordinaria si hai o no abuso.
+
+9.º De todo escrito es responsable su autor, i si es anónimo, el impresor, quien tambien debe responder de la publicacion de un escrito relijioso sin la censura dispuesta en el artículo 8.°.
+
+10. Todo ciudadano que directamente por amenazas o de otro cualquier modo indirecto atentase contra la libertad de la imprenta, se entiende que ha atacado la libertad nacional: deben imponérsele las penas correspondientes a este delito, i principalmente la de privársele en adelante de los derechos de ciudadanía.-
+
+Palacio Directorial de Santiago de Chile, 13 de Julio de 1819.-Bernardo O'Higgins.- Joaquin de Echeverría.
+
+En el Palacio Directorial de Santiago de Chile, a quince de Julio de mil ochocientos diez i nueve, reunidos en la Sala de Gobierno el Excmo. Supremo Director del Estado, el Excmo. Senado i el mui Ilustre Ayuntamiento, procedieron al sorteo de vocales de la Junta Protectora, segun lo dispuesto en en el reglamento de la libertad de imprenta, i puestas en un cántaro treinta cédulas que contenían los nombres de los ciudadanos propuestos, salieron por la suerte los siguientes:
+
+Vocales de la Junta
+
+Don Agustin Vial.- Don José Miguel Infante.- Don Salvador de la Cavareda.- Dr. don Bernar.
