@@ -1,0 +1,3 @@
+Por decreto MOP. No. 971, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s.22 y 23, superficies 585 y 230 m². respectivamente, rol de avalúo 2528-42, comuna de Monte Patria, para la obra Camino Ruta D-55, sector Pte. La Ligua - Bif. San Lorenzo y se acordó precio de la indemnización con su propietario, Gaspar Alvaro Rojas Jélvez, ascendente a la cantidad de $ 1.188.385 para los lotes No. s.22 y 23.-
+
+Fiscal del Ministerio de Obras Públicas.
