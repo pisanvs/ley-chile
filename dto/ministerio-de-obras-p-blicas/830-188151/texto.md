@@ -1,0 +1,3 @@
+Por decreto MOP Nº 830, de 31 de mayo de 2001, se expropió el lote de terreno Nº 17, superficie 1.573 m2., rol de avalúo 866-143, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Troncal Sur. Tramo 1, Quinta Región y se acordó el valor de indemnización con su propietario Hermann Fernando Rauter Jorquera, ascendente a la cantidad de $13.859.520.-
+
+Fiscal del Ministerio de Obras Públicas.
