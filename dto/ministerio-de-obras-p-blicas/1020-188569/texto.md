@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.020, de 29 de junio de 2001, se expropió el lote de terreno Nº 1-1, superficie 229 m2., rol de avalúo 1328-109, comuna de San Carlos para la obra Concesión Internacional Ruta 5 Tramo Talca-Chillán, Octava Región y se acordó el valor de indemnización con su propietario Rafael Segundo Lagos Torres, ascendente a la cantidad de $12.389.968.-.
+
+Fiscal del Ministerio de Obras Públicas.
