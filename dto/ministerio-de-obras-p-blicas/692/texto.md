@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 692 de 25 de julio de 1997, se expropiaron los lotes de terreno N°s. 120, 121 y 122, superficies 1.855, 4.060 y 8.809 m2. respectivamente, rol de avalúo 531-193, comuna de Cauquenes, para la obra Camino Cauquenes- Límite regional-Quiriue, Sector Cauquenes-Límite Regional y se acordó precio de indemnización con su propietario Pablo Ceroni Ferrada, ascendente a la cantidad de $5.289.614
+
+Fiscal del Ministerio de Obras Públicas
