@@ -1,0 +1,5 @@
+Por Resolución N° 1.670, de 10 de septiembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por DOMINGO DESIDERIO RISCO OLAVARRIA, para un sector ubicado en el Río Tornagaleones entre Liquiñe y sector Los Cuervos, comuna de Corral, provincia de Valdivia, X Región, en virtud de lo dispuesto en los artículos 76°, 77°, 78° y 5° transitorio inciso 6°, de la Ley General de Pesca y Acuicultura y el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Déjase sin efecto las Resoluciones N° 568, de 1990 y N° 760, de 1991, ambas de esta Subsecretaría, en virtud de lo señalado precedentemente.
+
+Valparaíso, 10 de septiembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
