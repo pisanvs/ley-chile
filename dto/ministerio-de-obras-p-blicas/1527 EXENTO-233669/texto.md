@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.527, de fecha 29 de octubre de 2004, se expropió el lote de terreno Nº 88-G, superficie 427 m²., rol de avalúo en trámite, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, Sector: Chovellen - Límite Regional, Tramo 18,260.00 a Km. 35,158.60", VII Región y se acordó el valor de la indemnización con su propietario José Cruz Torres Manríquez, ascendente a la cantidad de $975.062.
+
+Fiscal del Ministerio de Obras Públicas.
