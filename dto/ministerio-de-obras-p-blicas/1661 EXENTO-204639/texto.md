@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.661, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº2-A, superficie 6.179 m2, rol de avalúo Nº157-17, comuna de Pemuco, para la obra: ''Area de Riego Pemuco, Canal San Ramón Faja Adicional Km. 0,022 al 6,378 del Proyecto Laja Diguillín'', VIII Región, y se acordó el valor de indemnización con su propietario, Julio César Ocampo Salinas, ascendente a la cantidad de $4.571.488.-
+
+Fiscal del Ministerio de Obras Públicas.
