@@ -1,0 +1,3 @@
+Por resolución Nº 1.927, de 6 de septiembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95110156, presentada por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para instalar y operar el centro de cultivo ubicado en estero Mena, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 6 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
