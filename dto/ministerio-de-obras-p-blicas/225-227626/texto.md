@@ -1,0 +1,3 @@
+Por decreto MOP Nº 225 de fecha 26 de marzo del 2004, se expropiaron los lotes de terreno Nº s 88, 92 y 98, superficies 291, 13.887 y 2.618 m2, respectivamente, Rol Nº 305-20, comuna de Melipeuco, IX Región para la obra "Camino Ruta S - 61, sector Cunco - Melipeuco, Tramo Km. 55,000 al Km. 87,46783, correspondiente al Sub - Tramo III Km. 76,068 al 87,443." y se acordó el valor de indemnización con su propietario Mario Arnoldo García Subugal, ascendente a la cantidad de $8.603,966,- para los lotes Nº s 88, 92 y 98.
+
+Fiscal del Ministerio de Obras Públicas.
