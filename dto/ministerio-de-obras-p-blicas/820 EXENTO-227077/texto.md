@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 820 de 31 de mayo de 2004, se expropió el lote de terreno Nº 15-A, superficie 1.362 m², rol de Avalúo 1559-158, comuna de Laja, para la obra "Camino Ruta Q-34, Candelaria - La Laja, Sector Millantu - La Laja, KM. 20,00000 a KM. 35.88380", VIII Región y se acordó el valor de la indemnización con su propietario Eduardo Alberto Avello Cid, ascendente a la cantidad de $696.700.-
+
+Fiscal del Ministerio de Obras Públicas.
