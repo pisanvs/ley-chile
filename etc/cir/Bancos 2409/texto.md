@@ -1570,6 +1570,8 @@ No hay inconveniente legal para que dos o más personas abran una cuenta corrien
 
 En estas cuentas lo normal será que giren todos los titulares conjuntamente,salvo que se otorgue mandato a una o varias personas.
 
+Asimismo, no existe inconveniente legal para que dos o más personas abran una cuenta corriente de la que pueda girar cada una de ellas indistintamente. En todo caso, para la mencionada apertura, cada una de dichas personas deberá cumplir los requisitos exigidos para ser titular de una cuenta corriente.
+
 No existe ninguna disposición que exceptúe a estas cuentas corrientes a nombre de varios titulares, de las normas generales acerca de la sucesión por causa de muerte y de los impuestos que las afectan. Corresponderá, pues, a los titulares sobrevivientes, demostrar las relaciones que los unían con el causante y el origen y dominio del dinero que se encontraba depositado, si desean evitar que se colacione con su patrimonio.
 
 1.6. Cuentas corrientes bancarias de depósito con condiciones especiales.
