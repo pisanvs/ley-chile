@@ -1,0 +1,3 @@
+Núm 8.- Certifico que Nibsa S.A., RUT 83.017.600-4, cumple integralmente los requisitos establecidos en la resolución Ex. Nº 7 del 28 de enero de 2003, publicada en el Diario Oficial de fecha 03.02.2003, en consecuencia tiene la calidad de agente retenedor de Impuesto al Valor Agregado en las Ventas de Chatarra, que efectúe a contar del día 1º del mes siguiente a la fecha de la publicación del presente certificado en el Diario Oficial.
+
+Santiago, 3 de julio de 2003.- Carmen Gloria Reveco Castillo, Directora Regional (S).
