@@ -1,0 +1,3 @@
+Por Resolución N° 671 de 30 de Mayo de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL COMTESA S.A., R.U.T. N° 94.565.000-1, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Cirujano Allende Padin N° 255, Puerto Chacabuco, en las líneas de elaboración de fresco, congelado, conserva y seco-salado, los siguientes recursos hidrobiológicos: Loco, Caracol tegula, Caracol trumulco.
+
+Valparaíso, 30 de Mayo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
