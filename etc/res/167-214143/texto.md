@@ -1,0 +1,3 @@
+Resolución 167, 28 julio 2003, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Ocho Oriente Lote 1, Rol de Avalúo Nº 2736-5, comuna Chiguayante, superficie 372 m2, de terreno dentro polígono y linderos señalados plano expropiación S8R-2736-5; de aparente dominio de Sucesión Rosa Amelia Luna Delgado, para ejecución programa de viviendas en comuna de Chiguayante, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por Eduardo Cerda Ureta, arquitecto, Juan Andrés Tepper Lavanderos, ingeniero agrónomo, y Omar Andrés Aspe Neira, constructor civil, según informe de fecha 7 de junio de 2001, fijó monto provisional indemnización en $8.967.432.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
