@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.894, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 240-B, 240-C y 240-D, superficies 2.960 m², 425 m² y 1.300 m², rol de avalúo 614-5, comuna de Tomé, para la obra "Camino Acceso Norte a Concepción", Octava Región y se acordó el valor de indemnización con su propietaria Forestal Bío Bío S.A., ascendente a la cantidad de $1.130.857.-
+
+Fiscal del Ministerio de Obras Públicas.
