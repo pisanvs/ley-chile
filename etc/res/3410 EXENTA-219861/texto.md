@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.410 de 17 de diciembre de 2003 de esta Subsecretaría, apruébese modificación de proyecto técnico de autorización de acuicultura, otorgada por resolución Nº 1.123 de 1997, de esta Subsecretaría, presentada por SOCIEDAD AGRICOLA Y GANADERA CURILEUFU LIMITADA, solicitud Nº 200140001, para el centro de cultivo ubicado en Fundo Curileufu, X Región.
+
+Valparaíso, 17 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
