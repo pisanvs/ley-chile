@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.965 de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº 130, superficie 1.314 m², Rol en trámite, comuna de Pichidegua, VI Región para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400" y se acordó el valor de indemnización con su propietaria Eugenia del Pilar León Correa, ascendente a la cantidad de $3.735.793.-
+
+Fiscal del Ministerio de Obras Públicas.
