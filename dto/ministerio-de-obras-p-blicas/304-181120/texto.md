@@ -1,0 +1,3 @@
+Por decreto MOP Nº304, de fecha 29 de diciembre de 2000, se expropió el lote de terreno Nº85-A, superficie 91,00 m², rol de avalúo 233-56, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal, (Villa Alegre-Esperanza), Tramo Km. 0,000.00 a Km. 10,623.89" y se acordó el valor de indemnización con su propietaria Bartolina del Tránsito Oñate González, ascendente a la cantidad de $263.712.-
+
+Fiscal del Ministerio de Obras Públicas.
