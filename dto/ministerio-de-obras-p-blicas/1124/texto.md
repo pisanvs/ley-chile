@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N°. 1.124, de 27 de noviembre de 1997 y en base a la facultad otorgada por el articulo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno N°s. 5-E20 y 5-E28, para la obra Extensión Línea N° 5 del Metro de Santiago sector Baquedano Santa Ana, Catedral Manuel Rodríguez que figuran a nombre de doña Miriam Soledad Hernández Ossandón y Mario del Carmen Torres Espinoza, roles de avalúos 167-48 y 167-56, Comuna de Santiago, Deptos.
+
+N°s. 35 y 45, más su porcentaje en bienes comunes. La Comisión de Peritos compuesta por los señores Ricardo Carvallo Rodríguez, Carlos del Pedregal Sánchez y Sergio Rojas Ibañez, fijó con fecha con fecha 20 de junio de 1997, el valor provisional de la indemnización en las cantidades de $20.537.608, para el lote 5-E20 y $19.877.712, para el lote 5-E28. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas
