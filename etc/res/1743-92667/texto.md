@@ -1,0 +1,9 @@
+AUTORIZA A DON SALVADOR YAÑEZ ELGUETA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 1.743, de 09 de Noviembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Salvador Yáñez Elgueta, R.U.T. No. 4.910.267-4, domiciliado en Caldera, calle Gabriela Mistral No. 04, para iniciar actividades pesqueras, en orden a operar la embarcación "Delfina", en el litoral de las Regiones I a V, donde podrá extraer los siguientes recursos hidrobiológicos: Agujilla, bonito, cabrilla española cabrilla común, cojinoba del norte, cojinoba del sur, dorado, machuelo o tritre y palometa. Asimismo, podrá operar con la embarcación antes citada, en el litoral de las Regiones III a V, donde podrá capturar los recursos: Anchoa, caballa, jurel, sardina común y sardina. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Se deniega la autorización solicitada por el peticionario para operar la citada embarcación en el litoral de la VI a VIII Región.
+
+Se deniega la autorización solicitada por el peticionario para extraer con la nave "Delfina" en el litoral de la I y II Región, los recursos hidrobiológicos: Anchoa, Caballa, Jurel, Sardina y Sardina común, de conformidad a lo dispuesto en el Decreto No. 436, de 1986, prorrogado por el Decreto No. 303, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 09 de Noviembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
