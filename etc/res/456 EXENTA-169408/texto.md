@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 456, del 17 de Noviembre de 1987, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región de Coquimbo, se autoriza a don Oscar Manuel Quevedo Troncoso, Luis Orlando Pérez Villalobos, Rolando Sigfredo Novoa Lambert, Víctor Manuel Rivera Villalobos y René Domingo Barraza Astorga para efectuar el servicio de taxi colectivo urbano de la Línea N° 16.- "La Feria - Población Fray Jorge", cuyo trazado, que a continuación se indica, fue autorizado por resolución exenta N° 127, del 28 de Junio de 1984, de esta Secretaría Regional: Circunvalación: Desde su terminal de Ruta 45, a 50 metros de calle Mirador, en la ciudad de Ovalle, continúa por Vicuña Mackenna - Portales El Buche - Independencia - Av. La Chimba - A. Blest Gana Miguel Aguirre - Tangue - Ariztía Oriente - La Feria - Camilo Henríquez - Cardenal Caro Valentín Letelier - Germán Riesco - Barros Luco - Carlos Condell - Las Encinas - Las Acacias - Los Nogales - Los Lirios - Av. El Romeral - Benavente - Pedro Montt - Antonio Tirado -
+
+Independencia - Victoria - Yungay - Av. La Chimba Tamaya - Vicuña Mackenna Benavente - Av. El Romeral Los Lirios - Los Nogales - Las Acacias - Los Alamos - Barros Luco - Cardenal Caro - Camilo Henríquez - La Feria - Ariztía Poniente - Libertad- Mirador Ruta 45 hasta 50 metros de calle Mirador, su terminal.
+
+La Serena, 18 de Noviembre de 1987.- Jorge Vargas Borcosky, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV Región de Coquimbo.
