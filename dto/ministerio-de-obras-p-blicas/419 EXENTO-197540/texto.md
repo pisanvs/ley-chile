@@ -1,0 +1,3 @@
+Por decreto MOP. (exento) Nº419 de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº6-A, superficie 26,90 m2, rol de Avalúo Nº2338-192, comuna de Iquique, para la obra "Habilitación Segundo Acceso a Iquique Segunda Etapa", I Región y se acordó el valor de indemnización con su propietaria Benilda Donoso Díaz, ascendente a la cantidad de $2.802.240.-
+
+Fiscal del Ministerio de Obras Públicas.
