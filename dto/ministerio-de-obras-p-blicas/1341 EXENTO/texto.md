@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1341, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 37 y 41, para la ejecución de la obra "Mejoramiento Ruta N-577, Sector Rengo-Rinconada de Malambo (Ramal) Km. 0.000 a Km.
+
+0.325,407", que figuran a nombre de Soto Hernán y Ot. y Toro Casimira Suc., rol de Avalúo 210-40 y 210-23, de la comuna de Rengo, VI Región, superficies 24 y 56 m2. La comisión de peritos fijó con fecha 30 de junio de 1997, la indemnización provisional en la cantidad de $316.200, lote 37 y $364.800, lote 41; la indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
