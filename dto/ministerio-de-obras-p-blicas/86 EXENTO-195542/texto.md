@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº86, de fecha 21 de febrero de 2002, se expropió el lote de terreno Nº50, superficie 9.770 m², rol de avalúo Nº2-8, comuna de Río Hurtado, IV Región, para la obra "Camino Ruta D-595, Ovalle Hurtado, Sector Tranque Recoleta - Samo Alto, Km. 9.78000 al 31.84000" y se acordó el valor de indemnización con su propietario don Osciel del Rosario Ramos Barrera, ascendente a la cantidad de $2.365.272.-
+
+Fiscal del Ministerio de Obras Públicas.
