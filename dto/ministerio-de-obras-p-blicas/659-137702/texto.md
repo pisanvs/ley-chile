@@ -1,0 +1,3 @@
+Por decreto MOP Nº 659, de 29 de marzo de 1999, se expropiaron los lotes de terreno Nºs. 14 y 15, superficies 213,60 m² y 1.039,80 m², rol de avalúo 215-207, Comuna de T. Schmidt, para la obra Camino Costero Sur, sector Tranapuente-Puerto Saavedra-Porma, Tramo Chelle-Hualpín-Puente Peule y se acordó precio de indemnización con su propietaria Zulema Huircan Puen o Zulema Huircan, ascendente a la cantidad de $233.283.-
+
+Fiscal del Ministerio de Obras Públicas.
