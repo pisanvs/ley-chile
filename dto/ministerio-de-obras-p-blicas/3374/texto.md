@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.374, de 29 de octubre de 1999, se expropió el lote de terreno Nº 57-B, superficie 8.995 m², rol de avalúo 294-41, comuna de Frutillar, para la obra Concesión Internacional Ruta 5; Tramo Río Bueno - Puerto Montt. Sector: Casma - Frutillar, Décima Región y se acordó el valor de indemnización con su propietario Luis Everardo Rodríguez Rodríguez, ascendente a la cantidad de $4.424.747.
+
+- Fiscal del Ministerio de Obras Públicas.
