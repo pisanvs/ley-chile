@@ -1,0 +1,3 @@
+Por Resolución Nº 456, de 27 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 24 de octubre de 1996, el plazo concedido en la Resolución Nº 1.413, de 1995, de esta Subsecretaría, a la SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LTDA., para ampliar actividades pesqueras de transformación autorizadas por Resolución Nº 232, de 1984, de esta Subsecretaría, en virtud de haberse acreditado una causal de fuerza mayor.
+
+Valparaíso, 27 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
