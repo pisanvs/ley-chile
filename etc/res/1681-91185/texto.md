@@ -1,0 +1,9 @@
+AUTORIZA A DON HERNAN ENRIQUE HAUPT VALDOVINOS PARA INICIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACION QUE INDICA
+
+Por Resolución No. 1.681, de 08 de Noviembre de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Hernán Enrique Haupt Valdovinos. R.U.T. No. 6.040.458-5, domiciliado en la ciudad de San Antonio, calle Los Plataneros No. 22; para iniciar actividades pesqueras, en orden a operar la embarcación "Enrique Junior", en el litoral de las Regiones que a continuación se indica, donde podrá extraer los siguientes recursos hidrobiológicos: a) Entre las Regiones III y VII, ambas inclusive: Con Enmalle: Cojinoba del Norte, cojinoba del Sur y corvina. Con Espinel: Bacalao de profundidad o mero, congrio colorado, congrio dorado, congrio negro, lenguado de ojos chicos, lenguado de ojos grandes, merluza común, marrajo o tiburón, pejegallo, raya y tollo. Con Cerco: Anchoa, caballa, jurel, sardina y atún. b) Entre las Regiones I y X, ambas inclusive, con enmalle: Albacora o pez espada.
+
+Deniégase la autorización solicitada por el peticionario para operar la nave a que se refiere la presente Resolución, en el litoral de las Regiones I, II y VIII a X, sin perjuicio de la autorización concedida respecto del recurso albacora o pez espada en la letra b) del numeral 3° de esta Resolución.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 08 de Noviembre de 1989.- Roberto Cabezas Bello. Subsecretario de Pesca.
