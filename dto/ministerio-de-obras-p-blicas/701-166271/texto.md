@@ -1,0 +1,5 @@
+Por decreto MOP Nº701, de 29 de febrero de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº46, para la obra:
+
+''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli''. Sector: Km. 514.200,00 al Km. 522.161,45. By Pass Los Angeles, Octava Región, que figura a nombre de Torres Torres Julio, rol de avalúo 1545-137, comuna de Los Angeles, superficie 70.168 m2. La comisión de peritos integrada por los señores Karin Alicia Ernst Elizalde, Claudio Manuel Castro Gutiérrez y Juan Pablo Cuevas Castillo, fijó con fecha 15 de noviembre de 1999, el valor provisional de la indemnización en la cantidad de $39.587.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
