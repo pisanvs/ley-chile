@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 229, de 30 de Septiembre de 1991, se expropiaron los lotes de terreno Nºs. 1, 2,4,5,6 y 7, superficies 257 m2., 912 m2., 351 m2., 76 m2., 91 m2., y 62 m2., roles de avalúo 120-001, 119-040, 119-014, 119-026 y 14-003, respectivamente, Comuna de Malloa, para la obra Camino Rengo-Malloa, Ruta H-66-G, sector Bifurcación Acceso Malloa y sector Panquehue - Malloa y se acordó precio de indemnización con sus propietarios Victoria Castro Gálvez, José Múnizaga Sánchez, Gabriel Ascuí Muñoz, Belarmino Núnez Vásquez, Luis Francisco Juraszeck Mardones y Segundo Soto Ardiaca, ascendentes a las cantidades de $ 175.145.-, $ 599.184.-, $ 211.171.-, $ 286.890.-, 82.125.- y $ 212.430.-
+
+Fiscal del Ministerio de Obras Públicas.
