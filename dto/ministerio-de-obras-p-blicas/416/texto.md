@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 416, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs 210, 216 y 218-A, superficies 1.677 m²., 33.914 m². y 200 m²., roles de avalúo 610-4, y 609-3, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Israel Cid Jara y Víctor Baeza Baeza, ascendente a las cantidades de $1.389.747.-; $148.958.- y $25.688.660.-
+
+Fiscal del Ministerio de Obras Públicas.
