@@ -1,0 +1,3 @@
+Por decreto MOP Nº947, de fecha 29 de agosto del 2003, se expropió el lote de terreno Nº207, superficie 3.092 m², Rol Nº66-703, comuna de Palmilla, VI Región para la obra "Camino Colchagua, sector San Roberto-Cruceros, tramo Km. 12,3000 a 26,00400" y se acordó el valor de indemnización con su propietario Egidio Segundo González Niño, ascendente a la cantidad de $4.108.262.
+
+Fiscal del Ministerio de Obras Públicas.
