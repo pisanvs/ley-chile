@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.657, de fecha 30 de septiembre de 2002, se expropiaron los lotes de terreno Nºs. 33-B y 33-C, superficies 51 m2 y 58 m2, respectivamente, rol de avalúo 153-49, comuna de Ranquil, VIII Región para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea-Ñipas, Tramo I Km. 0,00000 al 5,58300'' y se acordó el valor de indemnización con su propietaria doña Flor Alicia Puentes Otárola, ascendente a la cantidad de $104.856, para el lote Nº 33-B y $5.901.839, para el lote Nº 33-C.-
+
+Fiscal del Ministerio de Obras Públicas.
