@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.237, de 25 de julio de 2002, se rectificó el numeral 2º del decreto supremo MOP Nº 1.858, de 19 de noviembre de 2001, que ordenó la expropiación del lote Nº 122, para la ejecución de la obra: ''Red Vial Litoral Central. Enlace Algarrobo Km. 28.700,00 a Km. 29.740,00''; en el sentido que el número de Rol de Avalúo es 402-47, y no como en él se señala.-
+
+Fiscal del Ministerio de Obras Públicas.
