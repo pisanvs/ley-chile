@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.099, de 30 de julio de 1999, se expropió el lote de terreno Nº 2, superficie 7.350 m2., rol de avalúo 539-25, comuna de Linares, para la obra ''Ruta 5 Tramo Talca - Chillán, Servicio de Control Nº 2'', Séptima Región y se acordó el valor de indemnización con su propietario Luis Humberto Rojas Larrañaga, ascendente a la cantidad de $25.688.863.
+
+- Fiscal del Ministerio de Obras Públicas.
