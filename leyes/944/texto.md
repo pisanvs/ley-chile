@@ -1,0 +1,11 @@
+Pago de Certificados Salitreros Lei núm. 944.-Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente
+
+PROYECTO DE LEI:
+
+#### Artículo UNICO
+
+Autorízase al Presidente de la República, por el término de un año, para invertir hasta la cantidad de siete mil trescientas cincuenta libras en pagar los certificados salitreros, números cuatrocientos ocho, cuatrocientos ochenta i cuatro, quinientos diezisiete i quinientos veinte de la serie A de diez mil soles cada uno; i números cero doscientos treinta i cinco, cero seiscientos veintiseis, cincuenta i cuatro, noventa i cinco, ciento veintisiete, ochocientos noventa i ocho, ochocientos noventa i nueve, mil ciento ochenta i siete, mil cuatrocientos noventa i uno, mil cuatrocientos noventa i dos, mil cuatrocientos noventa i tres, mil cuatrocientos noventa i cuatro, mil cuatrocientos noventa i cinco, dos mil noventa i seis, dos mil noventa i siete, dos mil noventa i ocho, dos mil doscientos diez, dos mil quinientos cuarenta i uno, dos mil setecientos trece, dos mil setecientos catorce, dos mil setecientos quince, dos mil setecientos veinticuatro, dos mil setecientos veinticinco, dos mil setecientos veintiseis, tres mil veinticinco, cuatro mil ciento treinta i seis, cuatro mil quinientos treinta i seis, cuatro mil quinientos treinta i nueve, cuatro mil quinientos cuarenta i cuatro, i cuatro mil quinientos cuarenta i cinco de la série B, de mil soles cada uno, emitidos por el Gobierno del Perú en conformidad a la lei de 28 de Mayo de 1875, i decreto de 14 de Diciembre del mismo año, que no han sido pagados en el plazo concedido por la lei de 18 de Abril de 1887, ni canjeados en conformidad a la lei de 10 de Setiembre de 1892.
+
+Este pago se verificará en las condiciones especificadas en la citada lei de 18 de de Abril de 1887, i no se computarán intereses posteriores a esa fecha.
+
+I por cuanto, oido el Consejo de Estado, lo he aprobado i sancionado; por tanto, ordeno se promulgue i lleve a efecto como lei de la República.- FEDERICO ERRAZURIZ.- Elías Fernández A.
