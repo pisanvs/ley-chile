@@ -1,0 +1,3 @@
+Por Resolución N° 1.703, de 24 de septiembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones N° 264, de 1993 y N° 914, de 1995, de esta Subsecretaría, que autorizaron a PESQUERA PLAYA BLANCA S.A., para operar la nave "Zuiderster 3", en virtud de lo señalado en el artículo 143 letra b), del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 24 de septiembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
