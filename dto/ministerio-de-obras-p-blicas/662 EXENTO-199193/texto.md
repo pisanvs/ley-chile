@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº662 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº155, superficie 72 m2, rol Nº207-142, comuna de Coelemu, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000'', y se acordó el valor de indemnización con su propietario José Manuel Ulloa Neira, ascendente a la cantidad de $148.464.-
+
+Fiscal del Ministerio de Obras Públicas.
