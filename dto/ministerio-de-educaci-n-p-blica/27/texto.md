@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 27 EXENTO, DE 1996
+
+Por Decreto Exento N° 27, de fecha 22 de enero de 1996, del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el N° 75, correspondiente al Centro de Formación Técnica Fundación de Educación y Desarrollo Social Los Lagos, Fedeso o Centro de Formación Técnica ISI, organizado por la Fundación de Educación y Desarrollo Social Los Lagos, Fedeso, dejándose sin efecto el Decreto Exento de Educación N° 27 del 3 de febrero de 1983, modificado por Decreto Exento de Educación N° 179 del 27 de septiembre de 1984 y las Resoluciones Exentas que aprobaron los planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado. Ello a solicitud de la propia institución.
+
+Santiago, 30 de enero de 1996.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
