@@ -1,0 +1,3 @@
+Por resolución N° 1.904, de 8 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por la SOCIEDAD ALGUERA, PESCADORES Y BUZOS ENSENADA CORRAL LTDA., para un sector ubicado en ribera Este de Ensenada San Juan, comuna de Corral, provincia de Valdivia, X Región, en virtud de lo dispuesto en los artículos 10°, letra e) y 12°, del D.S. N° 290, de 1993, modificado por el D.S. N° 604, de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 8 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
