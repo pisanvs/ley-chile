@@ -1,0 +1,5 @@
+AUTORIZA A CONSERVAS Y CONGELADOS FITZ ROY S.A. PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución No. 687 de 09 de Julio de 1087 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Conservas y Congelados Fitz Roy S.A., domiciliada en Santiago, para operar una planta industrial en Calbuco, X Región, ya autorizada para Pesquera Tarapacá S.A. por Resolución No. 361, de 1981 y No. 295, de 1986, ambas de esta entidad, donde procesará en las líneas de congelado, deshidratado y conserva los siguientes recursos hidrobiológicos: Merluza del Sur, merluza común, raya, mero, cojinova, reineta, trucha y salmón del Pacífico. Los recursos antes mencionados serán abastecidos por terceros y las especies trucha y salmón del Pacifico deberán ser adquiridos de centros de cultivo autorizados. Derógase el numeral 2° de la Resolución No. 361, de 1981, y la Resolución No. 295, de 1986, ambas de esta Subsecretaría de Pesca.
+
+Valparaíso, 09 de Julio de 1987.- Roberto Cabezas Bello. Subsecretario de Pesca.
