@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 237, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 103, superficie 38 m2, Rol Nº 502-13, comuna de Retiro, VII Región, para la obra "Camino Ruta L-75, Sector El Ajial-Las Camelias. Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario Sergio Andrés Tapia Carreño ascendente a la cantidad de $253.950.-
+
+Fiscal del Ministerio de Obras Públicas.
