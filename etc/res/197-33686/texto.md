@@ -1,0 +1,9 @@
+Por resolución N° 197, de 8 de Febrero de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA Y CULTIVOS DE RECURSOS MARINOS LIMITADA, R.U.T. N° 88.547.300-8, para ampliar actividades pesqueras autorizadas por la Resolución N° 196, de 1982, de esta Subsecretaría, en orden a operar una planta ubicada en Caleta Prado s/n°, Mejillones, II Región, donde podrá procesar en las líneas de elaboración que se indica, los siguientes recursos hidrobiológicos: Congelado: Acha, Albacora o pez espada, Anguila, Apañado, Atún aleta larga, Bonito, Cabinza, Cabrilla, Cazón, Cojinoba del norte, Congrio colorado, Congrio negro, Corvina, Dorado, Lenguado de ojos chicos, Machuelo o tritre, Merluza común, Mulata o vieja negra, Palometa, Pejeperro, Pejerrey de mar, Pejesapo, Róbalo, Sardina, Sardina común, Tollo, Tomoyo, Almeja, Calamar, Caracol locate, Caracol trumulco, Chitón o apretador, Chocha, Cholga, Chorito, Choro, Culengue, Jibia, Lapa, Macha, Navaja de mar o huepo, Ostión del norte, Pulpo, Jaiba, Picoroco, Erizo y Piure; Salado: Anchoa o anchoveta, Azulejo, Bacalao de profundidad, Caballa, Jurel, Marrajo o tiburón, Raya y Sardina.
+
+En el ejercicio de las actividades de procesamiento autorizadas, la solicitante deberá dar estricto cumplimiento a las normas legales y reglamentarias que regulen la conservación de recursos hidrobiológicos.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada respecto de las especies y líneas de elaboración no incluidos en la presente resolución, en virtud de los informes técnicos y normas legales y reglamentarias citadas en visto.
+
+Valparaíso, 8 de Febrero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
