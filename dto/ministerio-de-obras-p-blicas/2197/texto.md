@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.197, de 30 de octubre de 1998, se deja sin efecto el decreto MOP Nº604, de 30 de abril de 1998, en la parte que se refiere al lote de terreno Nº70, que autorizó el plano y cuadro de expropiación y convenio ad-referendum, para la obra Camino Ruta 57-CH, Santiago - Los Andes, Sector Túnel Chacabuco - Bifurcación Auco, Rol de Avalúo 24-52, comuna de Calle Larga, que figura a nombre de Arturo Manzur Manzur.-
+
+Fiscal del Ministerio de Obras Públicas.
