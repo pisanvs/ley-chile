@@ -5714,47 +5714,247 @@ CAPITULO 7-1 (Bancos y Financieras)
 
 MATERIA:
 
-INTERESES y REAJUSTES DEVENGADOS.
+INTERESES Y REAJUSTES.
 
-Para determinar y contabilizar los reajustes e intereses devengados, tanto por pagar como por cobrar, las instituciones financieras deberán atenerse a las siguientes instrucciones:
+I.- NORMAS GENERALES.
 
-### 1. Cálculo de los reajustes devengados
+1.- Normas que rigen el cobro de reajustes e intereses.
 
-Los reajustes de las colocaciones, inversiones financieras, depósitos, captaciones, préstamos obtenidos y demás derechos u obligaciones pactadas con cláusulas de reajustabilidad, deberán calcularse de acuerdo con los valores que tenga la Unidad de Fomento, el Indice Valor Promedio o el tipo de cambio pactado, según sea el caso, a la fecha a la cual se refiera el cálculo.
+El N° 9 del artículo 35 de la Ley Orgánica Constitucional del Banco Central de Chile, le confiere a ese Organismo la facultad de autorizar los sistemas de reajuste que utilicen las empresas bancarias, sociedades financieras y cooperativas de ahorro y crédito, en sus operaciones de crédito de dinero en moneda nacional. Las instituciones financieras deben ceñirse, en consecuencia, a los sistemas de reajustes establecidos por el Instituto Emisor en el Capitulo II.B.3 de su Compendio de Normas Financieras, materia que se comenta en el N° 2 siguiente.
 
-El efecto de la variación del tipo de cambio por las operaciones pagaderas en moneda extranjera o expresadas en moneda extranjera y pagaderas en pesos, no da origen a asientos contables por el concepto de reajustes de que trata este Capítulo. En esos casos, de acuerdo con las normas impartidas al respecto, debe seguirse el criterio de ajustar la cuenta "cambio" o la que haga sus veces, a fin de reconocer, como utilidad o pérdida de cambio, el efecto de la variación del tipo de cambio por los descalces entre activos y pasivos en moneda extranjera.
+Cabe tener presente que, si bien el referido Capítulo II.B.3 no contiene ninguna limitación en cuanto a los plazos mínimos a los que pueden pactarse las operaciones reajustables, las instituciones financieras, en sus operaciones de captación e intermediación de fondos, deben observar también las restricciones de plazos que el Banco Central de Chile ha establecido en el Capítulo III.B.1. del Compendio de Normas Financieras y que afectan tanto a los reajustes como a los intereses.
 
-### 2. Contabilización de los reajustes e intereses devengados
+En lo que concierne a las normas legales que rigen el cobro de intereses en las operaciones de crédito de dinero, en el presente Capítulo se comentan también algunos preceptos de la ley N° 18.010, cuya interpretación se considera necesario uniformar para las instituciones financieras.
 
-2.1. Oportunidad de contabilización de los reajustes e intereses.
+2.- Sistemas de reajustes autorizados por el Banco Central de Chile.
+
+2.1.- Generalidades.
+
+De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, en virtud de la facultad que le confiere el N° 9 del artículo 35 de su Ley Orgánica Constitucional, en las operaciones de crédito de dinero en que sea parte algún banco, sociedad financiera o cooperativa de ahorro y crédito, deben utilizarse sólo los sistemas de reajuste tratados en el Capítulo II B.3 del Compendio de Normas Financieras y que se comentan a continuación
+
+Al respecto debe tenerse presente que, según lo establecido en el citado precepto legal, las estipulaciones de un sistema de reajuste no autorizado se tendrán por no escritas.
+
+Por otra parte, las modificaciones a un sistema de reajuste autorizado o la supresión del mismo, no afectarán a las operaciones de crédito de dinero en que sea parte un banco, una sociedad financiera o una cooperativa de ahorro y crédito, las que seguirán rigiéndose por la modalidad de reajuste que se haya estipulado antes de la modificación o supresión. En todo caso, ello no impide que en tales situaciones las partes convengan la sustitución del sistema de reajuste por otro que se encuentre autorizado.
+
+Por último, en lo que respecta al alcance de estas normas, estima esta Superintendencia que las instituciones financieras quedan impedidas de descontar o adquirir efectos de comercio o valores mobiliarios, cuando ellos contengan cláusulas de reajustabilidad que no correspondan a algún sistema autorizado por el Banco Central de Chile. Ello sin perjuicio de la posibilidad de recibir tales instrumentos en pago de obligaciones, conforme a las disposiciones del N° 5 del artículo 84 de la Ley General de Bancos.
+
+2.2.- Sistemas autorizados.
+
+a) Unidad de Fomento(U.F)
+
+La Unidad de Fomento es una unidad de valor que incorpora las variaciones del Indice de Precios al Consumidor (IPC).
+
+Esta unidad fue creada por el Decreto Supremo del Ministerio de Hacienda N° 40 del 2 de enero de 1967, el que le asignó un valor inicial de E° 100, reajustable el primer día de cada trimestre calendario de acuerdo a la variación experimentada por el Indice de Precios al Consumidor.
+
+Posteriormente, por Decreto Supremo del Ministerio de Hacienda 280 del 12 de mayo de 1975, se estableció el reajuste mensual del valor de dicha unidad y a partir del 1° de agosto de 1977, en virtud de lo dispuesto en el Decreto Supremo del Ministerio de Hacienda N° 613 del 14 de ese mismo año, ese valor se determina para cada día
+
+De conformidad con las normas del Instituto Emisor señaladas en el numeral 2.1 precedente, el valor de esta unidad continúa reajustándose diariamente, a partir del día diez de cada mes y hasta el día 9 del mes siguiente, a la tasa promedio geométrica correspondiente a la variación que haya experimentado el Indice de Precios al Consumidor, determinado por el Instituto Nacional de Estadística, o el Organismo que lo remplace, en el mes calendario inmediatamente anterior al período para el cual dicha unidad se calcule La tasa promedio geométrica antes mencionada, se establece de la forma que se indica en el Anexo N° 1 de este Capítulo
+
+b) Indice Valor Promedio (I.V.P)
+
+La unidad de valor denominada "Indice Valor Promedio", fue creada por Acuerdo N° 1719-01-860321 del ex Comité Ejecutivo del Banco Central de Chile, en uso de la facultad que le otorgaba el artículo 3° de la Ley N° 18.010 y el artículo 40 de la Ley N° 18.482.
+
+Esta unidad empezó a regir el 9 de abril de 1986, fecha en que se le dio un valor inicial de $ 2954,06, reajustable diariamente a partir del 10 de abril de 1986, a una tasa equivalente al promedio geométrico diario correspondiente a la variación del Indice de Precios al Consumidor registrada en los últimos seis meses
+
+De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, el valor del Indice Valor Promedio continúa reajustándose a partir del día diez de cada mes y hasta el día nueve del mes siguiente, de acuerdo al factor diario determinado como se indica en el Anexo N° 2 de este Capítulo.
+
+c) Tipo de cambio del dolar de los Estados Unidos de América.
+
+El Banco Central de Chile determina diariamente el valor del tipo de cambio del dólar de los Estados Unidos de América, correspondiente al valor promedio ponderado de las compras y ventas de dicha moneda realizadas por las empresas bancarias situadas en el país, en el día hábil bancario anterior al de su publicación y vigencia, excluidas las transacciones señaladas por el Instituto Emisor en el Capítulo II.B.3 del Compendio de Normas Financieras.
+
+2.3- Publicación de valores de los sistemas de reajustabilidad.
+
+El Banco Central de Chile publicará en el Diario Oficial, a más tardar el día 9 de cada mes, los valores diarios que la Unidad de Fomento y el Indice Valor Promedio tendrán durante el período comprendido entre el día 10 del mismo mes y el día 9 del mes siguiente.
+
+Por otra parte, el Instituto Emisor publica diariamente en el Diario Oficial el tipo de cambio del dólar de los Estados Unidos de América señalado precedentemente.
+
+2.4.- Expresión en monedas de cuenta.
+
+La utilización de alguno de los sistemas autorizados por el Banco Central de Chile comprende tanto la posibilidad de que el respectivo documento se exprese en pesos y que se indique el sistema de reajuste que se aplicará, como también la de que dicho documento se exprese en la unidad de valor autorizada por el Instituto Emisor.
+
+Sin embargo, ello no es admisible en el caso de operaciones reajustables por la variación del dólar de los Estados Unidos de América a que se refiere la letra c) del numeral 2.2 precedente, debido a que en ese caso el documento quedaría expresado en moneda extranjera, lo cual supone condiciones contractuales diferentes según se indica en el 8 de este título, y no de una moneda de cuenta equivalente a pesos chilenos, propia del sistema de reajuste autorizado.
+
+3.- Cálculo de interés y reajustes.
+
+3.1.- Cómputo de intereses.
+
+El inciso final del artículo 11 de la Ley N° 18.010, establece que para los efectos de ella, en todas las operaciones de crédito de dinero, reajustables o no reajustables, en moneda nacional o en moneda extranjera, los plazos de meses son de 30 días y los de años, de 360 días Por lo tanto, para el solo efecto del cálculo de intereses en una operación con tasas mensuales o anuales, el divisor será siempre de 30 ó 360 y el multiplicador el número de días que efectivamente corresponda al período que comprende la operación.
+
+En cambio, para el vencimiento de los efectos de comercio o valores mobiliarios con que se documente la operación, los plazos de años o de meses comprenderán los días que indica el artículo 48 del Código Civil, atendido que dichos documentos mercantiles o civiles se rigen en todo caso por las normas de dicho Código, en conformidad con lo dispuesto por el artículo 110 del Código de Comercio
+
+Así, en un préstamo con letra de cambio, en que ésta vence a un año plazo, los intereses se calcularán dividiendo por 360 el producto de la tasa por el capital de la operación y multiplicando el resultado por la cantidad de días efectivamente transcurridos hasta el vencimiento.
+
+3.2.- Computo de intereses y reajustes cuando las obligaciones vencen en día no hábil bancario.
+
+Los reajustes deben calcularse de acuerdo con el respectivo valor informado por el Banco Central de Chile según lo indicado en el numeral 2 3 de este título I, que corresponda a la fecha hasta la cual éstos se determinen
+
+3.3 - Cómputo de intereses y reajustes cuando las obligaciones vencen en día no hábil bancario.
+
+El artículo 111 del Código de Comercio establece que "la obligación que vence en día domingo o en otro día festivo es pagadera al siguiente".
+
+"La misma regla se aplicará a las obligaciones que venzan los días sábado de cada semana y 31 de diciembre de cada año".
+
+De acuerdo con la disposición legal transcrita, los intereses y reajustes de las obligaciones cuyo vencimiento sea postergado por esta norma, deben continuar devengándose hasta el día hábil bancario siguiente inclusive.
+
+Este mismo procedimiento se seguirá en el caso de los días que sean declarados feriados, ya sea por leyes generales o especiales.
+
+4.- Pago anticipado.
+
+El artículo 10 de la Ley 18010, mantiene el sistema de pago anticipado para el deudor que estableció en su tiempo el DL N° 455 y cuyo fundamento obedeció a que, al respetarse en su integridad lo dispuesto en el artículo 2204 del Código Civil y tratándose de un mutuo con intereses, nunca podría el deudor pagar anticipadamente sin consentimiento del acreedor
+
+El sistema de pago anticipado que establece este articulo y que obliga al deudor a pagar todos los intereses de la deuda hasta el vencimiento pactado, sea ésta reajustable o no, nunca excluye la posibilidad de que el acreedor le reciba el pago en condiciones menos onerosas.
+
+En ese sentido, esta Superintendencia estima que los bancos y sociedades financieras no deben pretender asilarse en este artículo 10, sino en casos muy justificados, por ejemplo: cuando haya dificultad para recolocar el dinero anticipado en operaciones rentables. Ello porque la única razón que tiene este precepto es que un prepago masivo podría obligar a una institución financiera a prepagar a su vez a sus depositantes, pero, por ello mismo y atendido que siempre se tratará de una situación muy excepcional, conviene en lo posible cobrar lo que realmente les compense el gasto de liquidación anticipada de la operación.
+
+Por otra parte, conviene tener presente que en el caso de obligaciones contratadas en letras de crédito, los pagos anticipados se rigen por lo establecido en el artículo 95 de la Ley General de Bancos, que contempla un sistema especial cuyas características se tratan en el N° 8, título II, del Capitulo 9-1 de esta Recopilación Actualizada de Normas.
+
+5.- Interés corriente e interés máximo convencional.
+
+5.1.- Determinación del interés corriente e interés máximo convencional.
+
+En cumplimiento de las disposiciones contenidas en el artículo 6° de la Ley 18.010, esta Superintendencia publica mensualmente, en el Diario Oficial, las tasas de interés corriente y las tasas de interés máximas convencionales que rigen a partir de su fecha de publicación, para los efectos establecidos en la ley.
+
+En uso de las facultades que el precepto legal mencionado le otorga, esta Superintendencia ha determinado tasas de interés diferenciadas para los créditos que se indican a continuación;
+
+a) Créditos no reajustables en moneda chilena pactadas a plazos no superiores a 89 días.
+
+b) Créditos no reajustables en moneda chilena pactadas a 90 días o más.
+
+c) Créditos reajustables en moneda chilena.
+
+d) Créditos en dólares de EE.UU de América o expresados en moneda extranjera.
+
+5 2.- Tasa máxima que se puede pactar en las operaciones.
+
+De acuerdo con la ley, no puede estipularse un interés que exceda el interés máximo convencional, esto es, el interés corriente que corresponda aumentado en un 50%, salvo que se trate de operaciones que el Banco Central de Chile efectúe con las instituciones financieras.
+
+La tasa de interés máxima convencional aplicable será aquella que corresponda a la operación de que se trate, según la desagregación señalada en el numeral 5.1 precedente.
+
+Para determinar si el interés pactado supera o no el máximo convencional, la ley se remite al momento de la convención, sea que se trate de tasas fijas o variables
+
+5.2.1.- fijas y tasas variables
+
+En las operaciones con interés de tasa fija, no merece duda que los intereses correspondientes a una tasa numérica establecida en el momento de la convención, que no supere el interés máximo convencional vigente a la fecha del pacto para el tipo de operación de que se trate, pueden continuar cobrándose a la tasa pactada durante todo el periodo que comprenda la operación.
+
+En el caso de intereses pactados sobre la base de tasa variable, entendida por tal una tasa construida sobre un factor variable, v. gr.: interés corriente, interés máximo convencional, prime rate, libor, etc , sean o no recargados en uno o mas puntos, la tasa resultante podrá mantenerse en el tiempo al igual que la tasa fija, siempre que al momento de la convención ella tampoco haya superado el interés máximo convencional Es evidente, por ejemplo, que la tasa "interés máximo convencional más uno" nace ilícita
+
+5 2.2 - .tasa pactada para el periodo de mora.
+
+El limite equivalente a la tasa de interés máxima convencional rige también para las tasas que se pacten para el caso de mora.
+
+Cualquiera sea la duración del retardo en el cumplimiento de la obligación, la tasa de interés máxima convencional aplicable será también aquella que corresponda a la operación de que se trate, según lo indicado en el numeral 5 1 anterior
+
+Asimismo, en concordancia con lo señalado en el numeral 5 2 1 precedente y con lo dispuesto en el artículo 16 de la Ley 18.010, para el período de mora es posible pactar la tasa de interés máxima convencional vigente en la fecha de la convención (tasa fija que, ademas, es conocida numéricamente al momento del pacto) o la que rija durante la mora (tasa variable)
+
+Si para el período de mora se pactare en forma imprecisa la aplicación de la tasa de interés, en el sentido de referirse a la "máxima convencional" sin mayores explicaciones (esto es, de la que se encuentra vigente en la fecha de la convención, la que rija durante el período de mora o la que resulte más alta o más baja entre ambas), deberán cobrarse estos intereses de acuerdo con la tasa que rija durante el período de mora, siguiendo la norma que para un caso similar da el antes citado artículo 16. Se entiende, en este caso, que la tasa variable que rige durante el período de mora puede representar, según la duración de éste, más de una tasa numérica, debiendo utilizarse cada una de ellas para su respectivo lapso de vigencia dentro del período de mora.
+
+Por último, viene al caso recordar que si no se pacta tasa alguna para el período de mora ni se establece estipulación en contrario, corresponde cobrar el interés corriente para la operación de que se trate, desde la fecha del retardo y a las tasas que rijan durante ese retardo, de acuerdo con lo dispuesto en el mencionado artículo 16 de la Ley N° 18.010.
+
+5.2.3.- Tasa de interés máxima convencional que debe considerarse en las operaciones en moneda chilena no reajustables.
+
+En general, cuando se pacte una operación de crédito de dinero en moneda chilena no reajustable, a un plazo que no sea superior a 89 días contados desde la fecha de la convención, podrá aplicarse una tasa de interés que no exceda de la tasa máxima vigente para este tipo de operaciones cursadas a menos de 90 días. En caso que dichas operaciones se pacten a un plazo de 90 días o más, contados desde la fecha de la convención, se podrá aplicar una tasa de interés que no exceda de la tasa máxima vigente para este tipo de operaciones pactadas a 90 días o más, por todo el período que comprenda el crédito.
+
+Lo anterior no merece dudas cuando se trata de créditos con vencimientos y pagaderos en su totalidad dentro de los 89 días siguientes a la operación o en 90 días o más. Para establecer cuál de las dos tasas de interés máxima convencional es aplicable a operaciones en moneda chilena no reajustables en otros casos, se utilizarán los siguientes criterios:
+
+a) Operaciones sin plazo de vencimiento.
+
+Al tratarse de pagarés a la vista u otras operaciones sin plazo de vencimiento, como es el caso, por ejemplo, de los sobregiros en cuenta corriente no pactados, debe considerarse la tasa de interés correspondiente a los créditos pagaderos a un plazo inferior a 90 días, salvo en el caso de los créditos en cuentas corrientes a que se refiere la letra c) de este numeral.
+
+b) Operaciones, pagaderas en cuotas con vencimientos antes y después de 90 días.
+
+En el caso de operaciones pagaderas en cuotas, en las que una o más de ellas venzan dentro de los primeros 89 días de vigencia del crédito y otras después de ese plazo, se deberá calcular el plazo promedio ponderado del total del crédito, a fin de determinar la tasa máxima de interés que corresponde.
+
+El plazo promedio ponderado se obtendrá multiplicando el importe de cada cuota de amortización de capital por su plazo, expresado en días o meses, según las condiciones que se hubieren pactado. Luego se sumarán los productos obtenidos de esas multiplicaciones y el resultado de esa suma se dividirá por el importe total del préstamo. El cuociente que se obtenga indicará el plazo promedio ponderado del crédito, expresado en días o meses, según cual haya sido el factor utilizado. Para los fines de establecer este plazo, se considerarán solamente los vencimientos en que deba efectuarse una amortización de capital, no tomándose en cuenta, por consiguiente, los servicios de intereses que se hubieren pactado.
+
+Ahora bien, en caso que dicho plazo promedio resulte ser igual o inferior a 89 días, la tasa e Interés que se convenga no podrá exceder de la tasa máxima convencional vigente para las operaciones no reajustables en moneda chilena a menos de 90 días, pero si el referido plazo promedio ponderado resulta ser superior a 89 días, la tasa que se aplique en dicha operación, por todo el período comprendido hasta su extinción, no podrá exceder de la tasa máxima convencional vigente para este tipo de operaciones a 90 días o más.
+
+c) Sobregiros pactados en cuentas corrientes.
+
+Los créditos que se otorguen en la forma de sobregiros pactados en cuenta corriente serán considerados, para los fines de determinar la tasa máxima de interés que se puede cobrar por ellos, de acuerdo al plazo que se hubiere pactado, ya sea que el sobregiro se mantenga ininterrumpidamente durante todo el período pactado, o bien que se haga uso de él en forma discontinuada dentro del tiempo que el crédito puede ser utilizado, aun cuando medie el pago de intereses dentro del plazo total convenido.
+
+6.- Prohibición de recargar los intereses con comisiones, derechos, gastos u otras prestaciones.
+
+E1 texto del artículo 2° de la Ley 18.010 expresa lo que sigue.
+
+"En las operaciones de crédito de dinero no reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor, a cualquier título, por sobre el capital."
+
+"En las operaciones de crédito reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor por sobre el capital reajustado."
+
+"En ningún caso, constituyen intereses las costas personales ni las procesales.".
+
+En virtud de la disposición transcrita, debe entenderse que los costos propios de la gestión crediticia, tales como informes comerciales, verificación de domicilio, gastos de tramitación, comisiones, franqueo y otros similares, constituyen intereses Por lo tanto, las instituciones financieras deberán incluir dichos costos en la tasa de interés que publiquen y pacten con sus clientes absteniéndose de cobrarlos por separado, ya sea que la institución financiera cobre dichos gastos para sí o para otra persona natural o jurídica.
+
+Quedan exceptuados del tratamiento mencionado, los cobros inherentes a tasaciones, impuestos, gastos notariales, seguros e inscripciones en el Conservador de Bienes Raíces, que se deriven de las gestiones por el cumplimiento de requisitos para el otorgamiento de créditos, como por ejemplo la constitución de garantías, distintos a los propiamente financieros o bancarios, los que podrán cobrarse por separado o rebajarse del préstamo al efectuarse su liquidación.
+
+Lo anterior no obsta para que las instituciones financieras puedan cobrar su comisión usual por la cobranza de letras u otros documentos a la orden que les hayan sido endosados en garantía de créditos, ya que tales comisiones no forman parte de la prestación que el deudor se obliga a satisfacer por el crédito recibido, sino que constituyen el pago del servicio adicional que representa la cobranza de los efectos cedidos en garantía del crédito.
+
+En todo caso, dicha comisión no podrá exceder de la que contemple la tarifa general que cada institución financiera tenga establecida para el correspondiente servicio de cobranzas.
+
+7.- Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
+
+Para el cálculo de intereses de documentos descontados, es improcedente el cargo de días adicionales al vencimiento, aún tratándose de documentos descontados pagaderos fuera de la plaza asiento de la institución descontante y cuya cobranza tenga que encomendarse a otra empresa, toda vez que la demora que esto supone para que la primera pueda disponer efectivamente de su valor, no es imputable, de ninguna manera, al beneficiario del descuento.
+
+8.- Diferencia entre las operaciones reajustables por el dólar de los Estados Unidos de América y las operaciones expresadas en moneda extranjera, pagaderas en moneda nacional.
+
+A fin de prever eventuales confusiones por la similitud financiera entre las operaciones en moneda nacional reajustables por el valor del dólar de los Estados Unidos de América y las operaciones expresadas en dólares y pagaderas en pesos que las instituciones financieras pueden realizar en los casos autorizados por el Banco Central de Chile, conviene mencionar las diferencias que existen entre ambas, de acuerdo con las normas vigentes;
+
+Las obligaciones en moneda nacional reajustables por el valor del dólar deben pagarse reajustadas utilizando como unidad referencial de reajuste el tipo de cambio informado por el Banco Central de Chile. El interés máximo convencional aplicable a estas operaciones es el que corresponde a los créditos reajustables en general, señalado en la letra c) del numeral 5.1 de este titulo.
+
+En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera, señalado en la letra d) del numeral 5.1 de este título
+
+Es importante tener presente que las disposiciones del Capitulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, no permiten a las empresas bancarias y sociedades financieras realizar captaciones o colocaciones pactadas de la forma señalada en el párrafo precedente, salvo cuando se trate de las operaciones a que se refieren los Capitules V.B.1 o V.B.2 del mismo Compendio, o de la adquisición de valores mobiliarios de renta fija.
+
+Cabe agregar también que el artículo 24 de la Ley 18.010 deja expresamente establecido que en esas obligaciones expresadas en moneda extranjera, pagaderas en pesos, no puede pactarse otra forma de reajuste que la que llevan implícita.
+
+Por lo mismo, mientras las operaciones reajustables por la variación del dólar deben registrarse en pesos, quedando afectas a las instrucciones contables sobre reajustes contenidas en el titulo II de este Capítulo, las operaciones expresadas en moneda extranjera deben registrarse en la respectiva moneda extranjera sin generar asiento contable alguno por concepto de reajuste. En estos casos, de acuerdo con las normas impartidas al respecto, debe seguirse el criterio de ajustar la cuenta "cambio" o la que hace sus veces, a fin de reconocer el efecto de la variación del tipo de cambio por los descalces entre activos y pasivos en moneda extranjera, utilizando para el efecto el tipo de cambio de representación contable de que trata el Capítulo 13-30 de esta Recopilación Actualizada de Normas.
+
+En todo caso, cabe tener presente que para los efectos de las relaciones que se deben mantener entre las operaciones activas y pasivas según lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y en el Capítulo 12-9 de esta Recopilación Actualizada de Normas, el margen correspondiente a operaciones en moneda extranjera incluye no sólo aquellas en moneda extranjera o documentadas en moneda extranjera y pagaderas en moneda nacional, sino también las operaciones reajustables por la variación del tipo de cambio. Adicionalmente, en aquellas normas se establece que los recursos que las instituciones financieras capten mediante depósitos a plazo reajustables por la variación del tipo de cambio, sólo pueden ser utilizados en colocaciones o inversiones en depósitos a plazo de la misma naturaleza.
+
+9.- Información al público.
+
+Las entidades financieras informarán al público las tasas de interés que apliquen a sus colocaciones y captaciones, de la forma dispuesta en el numeral 10.4 de la Circular N° 1.698-184 de 27 de agosto de 1980. Para ese efecto deberán considerar también la desagregación de las operaciones en moneda chilena no reajustables, según los plazos de hasta 89 días y de 90 días o más.
+
+10.- Información a esta Superintendencia de las tasas de interés cobradas.
+
+Para los efectos de la determinación del interés comente, las instituciones financieras deben remitir a esta Superintendencia la información relativa a las tasas de interés cobradas en sus operaciones, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información.
+
+II.-NORMAS CONTABLES, CALCULO Y CONTABILIZACION DE REAJUSTES E INTERESES DEVENGADOS.
+
+Para determinar y contabilizar los reajustes e intereses devengados, tanto por pagar como por cobrar, las instituciones financieras deberán atenerse a las siguientes instrucciones
+
+1 - Calculo de los reajustes devengados.
+
+Los reajustes devengados de las colocaciones, inversiones financieras, depósitos, captaciones, préstamos obtenidos y demás derechos u obligaciones pactadas con cláusulas de reajustabilidad, deberán calcularse de acuerdo con los valores informados por el Banco Central de Chile según lo indicado en el 2 del titulo I de este Capítulo.
+
+Cuando corresponda registrar el devengo hasta un día no hábil bancario, como puede ocurrir al cierre de un mes, se utilizará el valor informado de la respectiva unidad de valor (UF o IVP) para ese día. Al tratarse de operaciones reajustables por la variación del valor del dólar de los Estados Unidos de América, se considerará el correspondiente al último día hábil bancario.
+
+2.- Contabilización de los reajustes e intereses devengados.
+
+2.1 - Oportunidad de contabilización de los reajustes e intereses.
 
 Los reajustes e intereses de los activos y pasivos deberán reconocerse sobre la base de lo devengado y se contabilizarán, como mínimo, mensualmente.
 
-Al último día de cada mes deberán quedar registrados los intereses y reajustes por cobrar o por pagar, según sea el caso, solamente por los montos devengados y no percibidos o pagados hasta el cierre del mes correspondiente. Estos intereses
+Al cierre del último día de cada mes deberán quedar registrados los intereses y reajustes por cobrar o por pagar, según sea el caso, solamente por los montos devengados y no percibidos o pagados hasta el cierre del mes correspondiente. Estos intereses y reajustes deben calcularse de acuerdo con los términos pactados para cada operación y sólo sobre aquellas operaciones que se mantengan registradas en e activo o en el pasivo a la misma fecha, sin perjuicio de lo señalado en los N°s. 3 Y 4 de este título.
 
-y reajustes deben calcularse de acuerdo con los términos pactados para cada operación y sólo sobre aquellas operaciones que se mantengan registradas en el activo o en el pasivo a la misma fecha.
-
-La contabilización de los reajustes e intereses sobre la base de lo devengado se suspenderá en los casos mencionados en el N° 3 de este Capítulo, en que debe seguirse el criterio de reconocer los ingresos provenientes de operaciones de cierto riesgo y de las colocaciones vencidas, sólo al momento en que sean efectivamente percibidos.
+La contabilización de los reajustes e intereses sobre la base de lo devengado se suspenderá en los casos mencionados en el N° 3 de este título, en que debe seguirse el criterio de reconocer sólo al momento en que sean efectivamente percibidos, los ingresos provenientes de operaciones de cierto riesgo y de las colocaciones vencidas.
 
 2.2. Cuentas de reajustes por cobrar o por pagar.
 
 Los reajustes devengados se contabilizarán en cuentas complementarias de las cuentas en que se encuentren registrados los saldos reajustables que los originen.
 
-Las cuentas complementarias de activo, denominadas "Reajustes por cobrar" se cargarán con abono a las respectivas cuentas de "Reajustes ganados" (Partidas 7305 a 7400 del formulario MR1). Por su parte, las cuentas complementarias de pasivo, que se denominan "Reajustes por pagar", se acreditarán con cargo a las cuentas "Reajustes pagados" (Partidas 5305 a 5400 del formulario MR1).
+Las cuentas complementarias de activo, denominadas "Reajustes por cobrar" se cargarán con abono a las respectivas cuentas de "Reajustes ganados" (Partidas 7305 a 7400 del formulario MR1). Por su parte, las cuentas complementarias de pasivo. que se denominan "Reajustes por pagar", se acreditarán con cargo a las cuentas "Reajustes pagados" (Partidas 5305 a 5400 del formulario MR1).
 
 Las mismas cuentas deben ser utilizadas en el caso excepcional en que el reajuste resultare negativo.
 
 2.3. Cuentas de intereses por cobrar o por pagar.
 
-Los intereses devengados se registrarán en las respectivas cuentas de "Intereses por cobrar" (Partidas 1805 a 1825 del formulario MB1) o de "Intereses por pagar" (Partidas 3805 a 3820 del formulario MB1). Por su parte, las cuentas de resultados corresponderán a las de "Intereses ganados" (Partidas 7105 a 7200 del formulario MR1) o a las de "Intereses pagados" (Partidas 5105 a 5200 del
-
-formulario MR1), según se trate de los intereses de activos o de pasivos.
+Los intereses devengados se registrarán en las respectivas cuentas de "Intereses por cobrar" (Partidas 1805 a 1825 del formulario MB1) o de "Intereses por pagar" (Partidas 3805 a 3820 del formulario MB1). Por su parte, las cuentas de resultados corresponderán a las de "Intereses ganados" (Partidas 7105 a 7200 del formulario MR1) o a las de "Intereses pagados" (Partidas 5105 a 5200 del formulario MR1), según se trate de los intereses de activos o de pasivos.
 
 2.4. Operaciones registradas por su valor final. Intereses pagados o percibidos anticipadamente.
 
 Cuando las operaciones se registren a su valor final o los intereses se perciban o se paguen anticipadamente, deben registrarse los intereses no devengados en cuentas de la partida 4120 "Pasivo Transitorio" o de la partida 2120 "Activo Transitorio", con el nombre de "Intereses percibidos y no devengados" o "Intereses pagados anticipadamente", respectivamente.
 
-Los intereses contabilizados en dichas cuentas son inseparables de las operaciones con que están relacionados y el traspaso a las cuentas de "Intereses Ganados" o de "Intereses Pagados" deberá hacerse linealmente en el período de duración del crédito.
+Los intereses contabilizados en dichas cuentas son inseparables de las operaciones que los originan y el traspaso a las cuentas de "Intereses Ganados" o de "Intereses Pagados" deberá hacerse linealmente en el período de duración del crédito.
 
 2.5. Tratamientos contables especiales.
 
@@ -5766,41 +5966,35 @@ Los criterios de contabilización señalados en los numerales 2.2, 2.3 y 2.4 pre
 
 3.1.1. Colocaciones.
 
-Las instituciones financieras suspenderán el devengo de los intereses y reajustes en las cuentas de "Intereses por Cobrar" e "Intereses Ganados", registrándolos solamente en cuentas de orden, en los casos que a continuación se indican:
+Las instituciones financieras suspenderán el devengo de los intereses y reajustes en las cuentas de "Intereses por Cobrar" e "Intereses Ganados", registrandolos solamente en cuentas de orden, en los casos que a continuacion se indican:
 
-a) Colocaciones clasificadas en categoría "D".
+a) Colocaciones clasificadas en categoda "D".
 
-Los intereses y reajustes devengados por colocaciones vigentes que se encuentren clasificadas en categoría "D", se dejarán de contabilizar en las correspondientes cuentas de intereses y reajustes por cobrar y en las de resultados, a partir de la fecha en que se hubiera efectuado dicha clasificación o en que esta Superintendencia comunique esa determinación a la institución
+Los intereses y reajustes devengados por colocaciones vigentes que se encuentren clasificadas en categoría "D", se dejaran de contabilizar en las correspondientes cuentas de intereses y reajustes por cobrar y en las de resultados, a partir de la fecha en que se hubiera efectuado dicha clasificación o en que esta Superintendencia comunique esa determinación a la institución financiera fiscalizada.
 
-financiera fiscalizada.
+b) Colocaciones clasificadas en categoría "C" por mas de un año o reclasificadas desde la categoría "D".
 
-b) Colocaciones clasificadas en categoría "C" por más de un año o reclasificadas desde la categoría "D".
-
-Las entidades financieras suspenderán la contabilización del devengo de los intereses y reajustes de créditos vigentes, cuando éstos hayan completado un período superior a un año clasificados en categoría "C". En el caso de créditos que se reclasifiquen de categoría "D" a categoría "C", se mantendrá la suspensión a que estaban afectos por el hecho de encontrarse en aquella categoría.
+Las entidades financieras suspenderán la contabilización del devengo de los intereses y reajustes de créditos vigentes, cuando estos hayan completado un período superior a un año clasificados en categoría "C". En el caso de créditos que se reclasifiquen de categoría "D" a categoría "C", se mantendrá la suspensión a que estaban afectos por el hecho de encontrarse en aquella categoría.
 
 c) Colocaciones vigentes otorgadas bajo condiciones especiales.
 
-Las instituciones financieras también deberán abstenerse de contabilizar en los resultados, los intereses y reajustes devengados sobre créditos vigentes otorgados bajo una o más de las siguientes condiciones, a menos que esta Superintendencia, en atención a las características del flujo de ingresos del deudor o de la maduración del proyecto, les haya autorizado previamente para
-
-efectuar dicha contabilización:
+Las instituciones financieras también deberán abstenerse de contabilizar en los resultados, los intereses y reajustes devengados sobre créditos vigentes otorgados bajo una o mas de las siguientes condiciones, a menos que esta Superintendencia, en atención a las características del flujo de ingresos del deudor o de la maduración del proyecto, les haya autorizado previamente para efectuar dicha contabilización:
 
 i) Período de gracia para capital e intereses superior a 24 meses, esto es, que el primer pago se realice después del referido plazo;
 
-ii) Frecuencia de vencimiento superior a un año de las cuotas posteriores al término del período de gracia; y
+ii) Frecuencia de vencimiento superior a un año de las cuotas posteriores al termino del periodo de gracia; y
 
-iii) El monto pactado de cada cuota no alcanza a cubrir el importe de los intereses devengados sobre el saldo insoluto del crédito durante el período respectivo.
+iii) El monto pactado de cada cuota no alcanza a cubrir el importe de los intereses devengados sobre el saldo insoluto del crédito durante el periodo respectivo.
 
-Lo establecido en el numeral i) anterior no se aplica a los préstamos que, en virtud de los Acuerdos N°s 1.507 y 1.578 del Banco Central de Chile sobre reprogramación de créditos, contemplen períodos de gracia superiores a los indicados en ese numeral.
+Lo establecido en el numeral i) anterior no se aplica a los prestamos que, en virtud de los Acuerdos N°s. 1.507 y 1.578 del Banco Central de Chile sobre reprogramación de créditos, contemplen periodos de gracia superiores a los indicados en ese numeral.
 
-La suspensión del devengo de intereses y reajustes por las causales señaladas en las letras a) y b) de este numeral 3.1.1, no se aplicará a los créditos de consumo ni a los créditos hipotecarios para vivienda, definidos en el título II del Capítulo 8-28 de esta Recopilación, como tampoco a las colocaciones contingentes, en lo que respecta a la suspensión de reajustes.
+La suspensión del devengo de intereses y reajustes por las causales señaladas en las letras a) y b) de este numeral 3.1.1, no se aplicara a los créditos de consumo ni a los créditos hipotecarios para vivienda, definidos en el título II del Capítulo 8-28 de esta Recopilación, como tampoco a las colocaciones contingentes, en lo que respecta a la suspensión de reajustes.
 
-Los intereses y reajustes devengados con anterioridad a la fecha en que se cumplan algunas de las condiciones señaladas en las letras precedentes, no serán objeto de reversión; de manera que quedarán registrados en el activo los intereses y reajustes por cobrar devengados hasta esa fecha, en tanto que los devengos posteriores se reflejarán en cuentas de orden.
+Los intereses y reajustes devengados con anterioridad a la fecha en que se cumplan algunas de las condiciones señaladas en las letras precedentes, no serán objeto de reversión; de manera que quedarán registrados en el activo los intereses y reajustes por cobrar devengados hasta esa fecha, en tanto que los devengos posteriores se reflejaran en cuentas de orden.
 
 3.1.2. Inversiones en bonos o debentures.
 
-Igual tratamiento que el mencionado en las letras a) y b) del numeral precedente, deberá darse, según corresponda, al devengo de reajustes e intereses de inversiones en valores mobiliarios de renta fija emitidos por entidades nacionales o extranjeras diferentes a la Tesorería General de la República, al Banco Central de Chile o a bancos y sociedades financieras sujetas a la
-
-fiscalización de esta Superintendencia.
+Igual tratamiento que el mencionado en las letras a) y b) del numeral precedente, deberá darse, según corresponda, al devengo de reajustes e intereses de inversiones en valores mobiliarios de renta fija emitidos por entidades nacionales o extranjeras diferentes a la Tesorería General de la República, al Banco Central de Chile o a bancos y sociedades financieras sujetas a la fiscalización de esta Superintendencia.
 
 3.1.3. Registro de intereses y reajustes en cuentas de orden.
 
@@ -5808,23 +6002,19 @@ Los intereses y reajustes devengados a partir de la fecha en que las colocacione
 
 a) Colocaciones.
 
-Los intereses no reconocidos en los resultados, sobre las colocaciones que estén vigentes, se registrarán en la cuenta "Intereses devengados de colocaciones riesgosas vigentes", de la partida 9490 del formulario MB1. En caso de que el respectivo crédito se traspase a cartera vencida, los montos registrados en esa cuenta se traspasarán, a su vez, a la cuenta "Intereses devengados de
+Los intereses no reconocidos en los resultados, sobre las colocaciones que estén vigentes, se registraran en la cuenta "Intereses devengados de colocaciones riesgosas vigentes", de la partida 9490 del formulario MB1. En caso de que el respectivo crédito se traspase a cartera vencida, los montos registrados en esa cuenta se traspasaran, a su vez, a la cuenta "Intereses devengados de colocaciones riesgosas vencidas", de la misma partida 9490, atendido que estas cuentas de orden son complementarias de las cuentas del activo para efectos de información del monto adeudado.
 
-colocaciones riesgosas vencidas", de la misma partida 9490, atendido que estas cuentas de orden son complementarias de las cuentas del activo para efectos de información del monto adeudado.
+Por su parte, los reajustes sobre las colocaciones de que se trata, se registraran en la cuenta "Reajustes devengados de colocaciones riesgosas vigentes" o "Reajustes devengados de colocaciones riesgosas vencidas", ambas de la partida 9510 del formulario MB1, siguiendo el mismo criterio señalado para los intereses en el párrafo precedente.
 
-Por su parte, los reajustes sobre las colocaciones de que se trata, se registrarán en la cuenta "Reajustes devengados de colocaciones riesgosas vigentes" o "Reajustes devengados de colocaciones riesgosas vencidas", ambas de la partida 9510 del formulario MB1, siguiendo el mismo criterio señalado para los intereses en el párrafo precedente.
-
-La suma de dichos intereses y reajustes se registrará en la cuenta "Devengo de intereses y reajustes de colocaciones riesgosas" de la partida 9900 del formulario MB1.
+La suma de dichos intereses y reajustes se registrara en la cuenta "Devengo de intereses y reajustes de colocaciones riesgosas" de la partida 9900 del formulario MB1.
 
 b) Bonos y debentures.
 
-Los intereses y reajustes devengados, no reconocidos en los resultados, por inversiones en bonos o debentures, se registrarán en las siguientes cuentas:
-
-"Intereses devengados de bonos y debentures riesgosos vigentes" o "Intereses devengados de bonos y debentures vencidos", de la partida 9490 del formulario MB1 y "Reajustes devengados de bonos y debentures riesgosos vigentes" o "Reajustes devengados de bonos y debentures riesgosos vencidos", de la partida 9510 de dicho formulario, respectivamente, con abono a la cuenta "Devengo de intereses y reajustes de bonos y debentures riesgosos", de la partida 9900 del formulario MB1.
+Los intereses y reajustes devengados, no reconocidos en los resultados, por inversiones en bonos o debentures, se registraran en las siguientes cuentas: "Intereses devengados de bonos y debentures riesgosos vigentes" o "Intereses devengados de bonos y debentures vencidos", de la partida 9490 del formulario MB1 y "Reajustes devengados de bonos y debentures riesgosos vigentes" o "Reajustes devengados de bonos y debentures riesgosos vencidos" de la partida 9510 de dicho formulario, respectivamente, con abono a la cuenta "Devengo de intereses y reajustes de bonos y debentures riesgosos", de la partida 9900 del formulario MB1.
 
 3.1.4. Suspensión de reajustes e intereses en créditos registrados a su valor final.
 
-Al tratarse de operaciones registradas en el activo a su valor final según lo indicado en el numeral 2.4 de este Capítulo, la suspensión del reconocimiento en cuentas de resultados de los reajustes e intereses, alcanza también a los traspasos a dichas cuentas de los saldos registrados en el pasivo transitorio, de modo que esos traspasos dejarán de efectuarse mientras se mantenga la suspensión.
+Al tratarse de operaciones registradas en el activo a su valor final según lo indicado en el numeral 2.4 de este título, la suspensión del reconocimiento en cuentas de resultados de los reajustes e intereses, alcanza también a los traspasos a dichas cuentas de los saldos registrados en el pasivo transitorio, de modo que esos traspasos dejarán de efectuarse mientras se mantenga la suspensión.
 
 3.2. Suspensión de reajustes e intereses de créditos vencidos.
 
@@ -5836,21 +6026,61 @@ A partir de la fecha de vencimiento se suspenderá la contabilización del deven
 
 Cuando se trate de préstamos en letras de crédito o de otro tipo de préstamos pagaderos en cuotas, la suspensión del devengo de reajustes e intereses posteriores al vencimiento, a que se refiere el numeral precedente, rige también para la cuota que no haya sido pagada, aplicándose a los intereses o reajustes de ésta que se devengan a contar de la fecha en que ella debió ser pagada.
 
-Para el saldo no vencido se seguirá el criterio de suspender la contabilización de los reajustes e intereses, a contar del momento en que alguna parcialidad o cuota morosa permanezca 90 días impaga, aunque ella se componga solamente de intereses. Dicha suspensión durará desde esa fecha hasta que se paguen o renegocien todas las cuotas o parcialidades que estuvieren en mora, oportunidad en que se reconocerán contablemente los reajustes e intereses devengados y no pagados que se encontraban suspendidos, sin perjuicio de lo dispuesto en los numerales 3.1.1 a 3.1.4 de este capítulo.
+Para el saldo no vencido se seguirá el criterio de suspender la contabilización de los reajustes e intereses, a contar del momento en que alguna parcialidad o cuota morosa permanezca 90 días impaga, aunque ella se componga solamente de intereses. Dicha suspensión durará desde esa fecha hasta que se paguen o renegocien todas las cuotas o parcialidades que estuvieren en mora, oportunidad en que se reconocerán contablemente los reajustes e intereses devengados y no pagados que se encontraban suspendidos, sin perjuicio de lo dispuesto en los numerales 3.1.1 a 3.1.4 de este título.
 
-3.2.3 Otras instrucciones.
+3.2.3. Otras instrucciones.
 
-Las disposiciones de los numerales 3.2.1 y 3.2.2 precedentes, son aplicables tanto a las colocaciones como a las inversiones financieras total o parcialmente impagas. Los intereses y reajustes de que se trata no se reflejarán en las cuentas de orden a que se refiere el numeral 3.1.3 de este capítulo.
+Las disposiciones de los numerales 3.2.1 y 3.2.2 precedentes, son aplicables tanto a las colocaciones como a las inversiones financieras total o parcialmente impagas. Los intereses y reajustes de que se trata no se reflejarán en las cuentas de orden a que se refiere el numeral 3.1. 3 de este título.
 
 ### 4. Percepción o capitalización de reajustes e intereses suspendidos
 
-Los reajustes e intereses suspendidos se reconocerán en las cuentas de resultados en el momento en que sean efectivamente percibidos o cuando sean capitalizados por renegociación de los respectivos créditos, debiendo constituirse, cuando corresponda, las provisiones sobre cartera renegociada según lo dispuesto en el N° 2 del título I del Capítulo 8-29 de esta Recopilación.
+Los reajustes e intereses suspendidos se reconocerán en las cuentas de resultados en el momento en que sean efectivamente percibidos o cuando sean capitalizados por renegociación de los respectivos créditos, debiendo constituirse, cuando corresponda, las provisiones sobre cartera renegociada según lo dispuesto en el N° 2 del titulo I del Capitulo 8-29 de esta Recopilación.
 
-Los intereses y reajustes que sean reconocidos en cuentas de resultado con motivo de su pago o capitalización, deberán revertirse de las cuentas de orden en las que se encontraban registrados, a lo menos al término del mes en que se haya procedido a su pago o capitalización.
+Los intereses y reajustes que sean reconocidos en cuentas de resultado con motivo de su pago o capitalización, deberán revertirse de las cuentas de orden en las que se encontraban registrados, a lo menos al termino del mes en que se haya procedido a su pago o capitalización.
 
-5. Información sobre las operaciones que generan los respectivos intereses y reajustes.
+### 5. Información sobre las operaciones que generan los respectivos
 
-Para los fines relacionados con las comprobaciones que esta Superintendencia pueda requerir, las instituciones financieras deberán mantener en sus archivos los antecedentes en que se sustente el cálculo y la contabilización de los reajustes e intereses registrados en el activo, en el pasivo, en cuentas de orden y en los resultados.
+intereses y reajustes.
+
+Para los fines relacionados con las comprobaciones que esta Superintendencia pueda requerir, las instituciones financieras deberán mantener a disposición de este Organismo, por lo menos durante un plazo de un ano, ya sea en listados, planillas o en medios magnéticos, los antecedentes en que se sustente el calculo y la contabilización de los reajustes e intereses registrados en el activo, en el pasivo, en cuentas de orden y en los resultados.
+
+ANEXO N° 1
+
+DETERMINACIÓN DEL VALOR DE LA UF.
+
+El valor de la Unidad de Fomento se determina de acuerdo con la variación del Indice de Precios al Consumidor, según:
+
+.
+
+en que:
+
+T = Tasa promedio geométrica de reajuste del valor de la Unidad de Fomento.
+
+n = Numero de días comprendidos en el periodo para el cual se calcule el valor de la Unidad de Fomento.
+
+Vm = Porcentaje de variación del Indice de Precios al Consumidor registrado en el mes inmediatamente anterior.
+
+El valor de la Unidad de Fomento al d{a 9 de enero de 1990 fue de $ 5.458,97.
+
+ANEXO N° 2
+
+DETERMINACIÓN DEL VALOR DEL IVP.
+
+El valor del Indice Valor Promedio se determina de acuerdo con la variación del Indice de Precios al Consumidor, según:
+
+.
+
+en que:
+
+F = Factor diario de reajuste porcentual del IVP.
+
+k = Numero de días transcurridos en el semestre móvil correspondiente.
+
+(IPC)t = Valor del Indice de Precios al Consumidor en el mes precedente a aquel en que se determine el IVP.
+
+(IPC)t-6 = Valor del Indice de Precios al Consumidor seis meses antes del mes precedente a aquel en que se determine el IVP.
+
+EI valor del Indice de Valor Promedio al 9 de enero de 1990, fue de $ 5.389,14.
 
 CAPITULO 8-1 (Bancos)
 
@@ -9536,257 +9766,29 @@ total de los créditos concedidos o renovados desde la sesión de directorio
 
 anterior.
 
-CAPITULO 8-13 (Bancos y Financieras)
+CAPITULO 8-13. Derogado.
 
-MATERIA:
+### 1. Derogado
 
-TASAS DE INTERES PARA OPERACIONES NO REAJUSTARLES EN MONEDA CHILENA.
+### 2. Derogado
 
-En cumplimiento de las disposiciones contenidas en el Art. 6° de la Ley N°
+### 3. Derogado
 
-18.010, esta Superintendencia publica mensualmente, en el Diario Oficial, las
+### 4. Derogado
 
-tasas de interés que regirán, a partir de su fecha de publicación, para las
+### 5. Derogado
 
-operaciones de crédito en moneda chilena reajustables y no reajustables, y
+### 6. Derogado
 
-aquellas en moneda extranjera.
+CAPITULO 8-14. Derogado.
 
-En uso de las facultades que el precepto legal mencionado le otorga, esta
+CAPITULO 8-15. Derogado.
 
-Superintendencia ha resuelto determinar tasas de interés diferenciadas, para los
+### 1. Derogado
 
-créditos no reajustables en moneda chilena, según se trate de operaciones
+### 2. Derogado
 
-pactadas a plazos no superiores a 89 días o de operaciones pactadas a 90 días o
-
-más.
-
-Como consecuencia de lo anterior este Organismo imparte las siguientes
-
-instrucciones:
-
-1. Tasa de interés para operaciones no reajustables pagaderas en su totalidad al
-
-vencimiento.
-
-Cuando se pacte una operación de crédito de dinero en moneda chilena no
-
-reajustable, a un plazo que no sea superior a 89 días contados desde la fecha
-
-dela convención, podrá aplicarse una tasa de interés que no exceda de la tasa
-
-máxima vigente para este tipo de operaciones cursadas a menos de 90 días. En
-
-caso que dichas operaciones se pacten a un plazo de 90 días o más, contados
-
-desde la fecha de la convención, se podrá aplicar una tasa de interés que no
-
-exceda de la tasa máxima vigente para este tipo de operaciones pactadas a 90
-
-días o más, por todo el período que comprenda el crédito.
-
-### 2. Operaciones no reajustables en moneda chilena pagaderas en cuotas
-
-Cuando se trate de operaciones de crédito de dinero, pactadas en moneda chilena,
-
-no reajustables, pagaderas en cuotas, en las que una o más de ellas venzan
-
-dentro de los primeros 89 días de vigencia del crédito y otras venzan después de
-
-ese plazo, se deberá calcular el plazo promedio ponderado del total del crédito,
-
-a fin de determinar la tasa máxima de interés aplicable. En caso que dicho plazo
-
-promedio resulte ser igual o inferior a 89 días, la tasa de interés que se
-
-convenga no podrá exceder de la tasa máxima convencional vigente para
-
-operaciones no reajustables en moneda chilena a menos de 90 días, pero si el
-
-referido plazo promedio ponderado resulta ser superior a 89 días, la tasa que se
-
-aplique en dicha operación, por todo el período comprendido hasta su extinción,
-
-no podrá exceder de la tasa máxima convencional vigente para este tipo de
-
-operaciones a 90 días o más.
-
-### 3. Cálculo del plazo promedio de operaciones pagaderas en cuotas
-
-Para calcular el plazo promedio ponderado a que se refiere el número precedente,
-
-se multiplicará el importe de cada cuota de amortización de capital por su
-
-plazo, expresado en días o meses, según las condiciones que se hubieren pactado.
-
-Luego se sumarán los productos obtenidos de esas multiplicaciones. El resultado
-
-de esa suma se dividirá por el importe total del préstamo. El cuociente que se
-
-obtenga indicará el plazo promedio ponderado del crédito, expresado en días o
-
-meses, según cual haya sido el factor utilizado.
-
-Para los fines de establecer estos plazos, se considerarán solamente los
-
-vencimientos en que deba efectuarse una amortización de capital, no tomándose en
-
-cuenta, por consiguiente, los servicios de intereses que se hubieran pactado.
-
-### 4. Sobregiros en cuenta corriente
-
-Los créditos que se otorguen en la forma de sobregiros en cuenta corriente serán
-
-considerados, para los fines de determinar la tasa máxima de interés que se
-
-puede cobrar por ellos, de acuerdo al plazo que se hubiera pactado para hacer
-
-uso del crédito.
-
-En consecuencia, cuando se trate de créditos pactados a 90 días o más, podrá
-
-cobrarse, si así se hubiera convenido en las condiciones de la operación, la
-
-tasa de interés prevista para créditos no reajustables a 90 días o más. Podrán
-
-cobrarse intereses calculados sobre la base de esa tasa, tanto en las casos en
-
-que el sobregiro se mantenga ininterrumpidamente durante todo el período
-
-pactado, como también cuando se haga uso de él en forma discontinuada dentro del
-
-tiempo que el crédito puede ser utilizado, como asimismo en los casos en que
-
-medie el pago de intereses dentro del plazo total convenido. En tales casos,esos
-
-intereses se podrán cobrar a la tasa que se hubiera acordado, aunque el cobro se
-
-haga por períodos inferiores a noventa días.
-
-A los sobregiros no pactados, por ser créditos exigibles de inmediato, debe
-
-aplicárseles la tasa de interés correspondiente a los créditos pagaderos a un
-
-plazo inferior a 90 días.
-
-5. Tasa de interés máxima convencional para operaciones no reajustables en moneda chilena, en mora.
-
-La tasa de interés máxima convencional que se puede pactar por el período de mora de un crédito convenido a menos de 90 días, será, hasta su total cancelación, la tasa de interés que rija en la fecha de la convención o durante el período de retardo, para operaciones pactadas a menos de 90 días. La tasa de interés máxima convencional que se puede pactar por el período de mora de un crédito pactado a 90 días o más, será la vigente para operaciones pactadas a ese plazo, que rija en la fecha de la convención o durante el período de mora.
-
-Respecto de la tasa de interés máxima convencional que se puede pactar en un crédito pagadero en cuotas, por el período de mora de una o más de ellas, ya sea que se hayan pactado por un plazo promedio ponderado inferior o superior a 89 días, debe seguirse el mismo predicamento anterior, es decir, si el plazo promedio ponderado es, por ejemplo, inferior a 90 días, para el período de mora de una o más cuotas podrá estipularse la tasa máxima convencional vigente en la fecha de la convención o la que rija durante la mora para operaciones pactadas a ese plazo.
-
-En caso que en una operación de crédito de dinero sólo se estipule la aplicación de la tasa de interés máxima convencional, sin indicar si se trata de la que esté vigente en la fecha de la convención o durante el período de mora, se aplicará esta última, siguiendo la norma que para un caso similar da el artículo 16 de la Ley N° 18.010.
-
-### 6. Información al público
-
-Las entidades financieras informarán al público, en la misma forma dispuesta en
-
-el numeral 10.4 de la Circular N° 1.698-184, la tasa de interés que, en virtud
-
-de la desagregación de que tratan estas instrucciones, apliquen a sus
-
-colocaciones y captaciones en moneda chilena no reajustables, a plazos de 1 a 89
-
-días y de 90 días o más.
-
-CAPITULO 8-14 (Bancos y Financieras)
-
-MATERIA:
-
-IMPROCEDENCIA DEL CARGO DE INTERESES POR DIAS ADICIONALES AL DE VENCIMIENTO EN
-
-OPERACIONES DE CREDITO CON LETRAS DE CAMBIO.
-
-En prevención de eventuales confusiones, esta Superintendencia cumple con hacer
-
-saber a las instituciones fiscalizadas que es improcedente el cargo de días
-
-adicionales al vencimiento, para el cálculo de intereses de documentos
-
-descontados. Tal procedimiento no puede admitirse, ni aún tratándose de
-
-documentos descontados pagaderos fuera de la plaza asiento de la institución
-
-descontante y cuya cobranza tenga que encomendarse a otra empresa, toda vez que
-
-la demora que esto supone para que la primera pueda disponer efectivamente de su
-
-valor, no es imputable, de ninguna manera, al beneficiario del descuento.
-
-CAPITULO 8-15 (Bancos y Financieras)
-
-MATERIA:
-
-INTERESES SOBRE OPERACIONES DE CREDITO. PROHIBICION DE RECARGARLOS CON
-
-COMISIONES, DERECHOS, GASTOS U OTRAS PRESTACIONES.
-
-### 1. Concepto de interés
-
-La Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981, que
-
-establece normas para las operaciones de crédito y otras obligaciones de dinero,
-
-dispuso en su artículo 2° que constituye interés toda suma que recibe o tiene
-
-derecho a recibir el acreedor, a cualquier título, por sobre el capital.
-
-En las operaciones de crédito reajustables, constituye interés toda suma que
-
-recibe o tiene derecho a recibir el acreedor por sobre el capital reajustado.
-
-En ningún caso, constituyen intereses las costas personales ni las procesales.
-
-### 2. Gastos propios de la gestión crediticia
-
-En virtud de la disposición transcrita, debe entenderse que los costos propios
-
-de la gestión crediticia, tales como: informes comerciales, verificación de
-
-domicilio, gastos de tramitación, comisiones, franqueo y otros similares,
-
-constituyen intereses. Por lo tanto, las instituciones financieras deberán
-
-incluir dichos costos en la tasa de interés que publiciten y pacten con sus
-
-clientes absteniéndose de cobrarlos por separado, ya sea que la institución
-
-financiera cobre dichos gastos para sí o para otra persona natural o jurídica.
-
-Quedan exceptuados del tratamiento mencionado, los cobros inherentes a
-
-tasaciones, impuestos, gastos notariales, seguros e inscripciones en el
-
-Conservador de Bienes Raíces, que se deriven de las gestiones por el
-
-otorgamiento de créditos, distintos a los propiamente financieros o
-
-bancarios,los que podrán cobrarse por separado o rebajarse del préstamo al
-
-efectuarse su liquidación.
-
-### 3. Comisión de cobranza
-
-Lo dispuesto en el número 2 anterior no obsta para que las instituciones
-
-financieras puedan cobrar su comisión usual por la cobranza de letras u otros
-
-documentos a la orden que les hayan sido endosadas en garantía de créditos, ya
-
-que tales comisiones no forman parte de la prestación que el deudor se obliga a
-
-satisfacer por el crédito recibido, sino que constituyen el pago del servicio
-
-adicional que representa para él la cobranza de los efectos cedidos en garantía
-
-del mismo.
-
-En todo caso, dicha comisión no podrá exceder de la que contemple la tarifa
-
-general que cada institución financiera tenga establecida para el servicio
-
-ordinario de cobranzas.
+### 3. Derogado
 
 CAPITULO 8-16 (Bancos y Financieras)
 
@@ -10098,7 +10100,7 @@ siguiente forma:
 
 a) Los reajustes e intereses suspendidos sólo originarán un traspaso en las respectivas cuentas de orden, de acuerdo con lo dispuesto en el numeral 3.1.3 del referido Capítulo, sin afectar, por lo tanto, las cuentas de activo ni las de ingresos.
 
-b) En el caso de créditos registrados a su valor final, el traspaso a cartera vencida no afectará el monto que se mantenga registrado en la respectiva cuenta del pasivo transitorio, "Intereses percibidos y no devengados", a que se refiere el numeral 2.4 del citado Capítulo 7-1, el que permanecerá inalterable hasta tanto no se pague, renegocie, castigue o condone el respectivo crédito traspasado a cartera vencida.
+b) En el caso de créditos registrados a su valor final, el traspaso a cartera vencida no afectará el monto que se mantenga registrado en la respectiva cuenta del pasivo transitorio, "Intereses percibidos y no devengados", a que se refiere el numeral 2.4 del título II del Capítulo 7-1, el que permanecerá inalterable hasta tanto no se pague, renegocie, castigue o condone el respectivo crédito traspasado a cartera vencida.
 
 1.3. Reingreso a cartera vigente de créditos vencidos.
 
@@ -10122,7 +10124,7 @@ Los importes correspondientes a los créditos pagaderos en cuotas que se hubiere
 
 Los créditos renegociados se contabilizarán en subcuentas que, con el nombre de "Créditos renegociados provenientes de cartera vencida", se demostrarán en las partidas que correspondan del rubro colocaciones del MB1, de acuerdo a la naturaleza del crédito de que se trate. Sin embargo, cuando según lo previsto en el numeral 1.3.3 precedente, se reingresen a cartera vigente los saldos de créditos que se hubieren traspasado a cartera vencida por la causal establecida en el tercer párrafo del numeral 1.1 de este Capítulo, el reingreso se efectuará por los montos respectivos, a la cuenta en que originalmente se encontraban registrados dichos saldos.
 
-Los créditos se reingresarán a la cartera vigente junto con los intereses y reajustes que se hubieren suspendido por las causales señaladas en el N° 3 del Capítulo 7-1 de esta Recopilación, los cuales se reconocerán en las respectivas cuentas de resultados y se considerarán capitalizados.
+Los créditos se reingresarán a la cartera vigente junto con los intereses y reajustes que se hubieren suspendido por las causales señaladas en el N° 3 del título II del Capítulo 7-1 de esta Recopilación, los cuales se reconocerán en las respectivas cuentas de resultados y se considerarán capitalizados.
 
 Junto con el reingreso de los créditos renegociados a la cartera vigente, se deberán constituir, cuando corresponda, las provisiones por cartera renegociada de acuerdo con las instrucciones del N° 2 del título I del Capítulo 8-29 de esta Recopilación.
 
@@ -10708,7 +10710,7 @@ concurrencia del saldo deudor que demuestren esas cuentas. En consecuencia, los 
 
 Además de la provisión global sobre la cartera de colocaciones y de las provisiones individuales para créditos vencidos, los bancos y sociedades financieras que renegocien algún crédito o cuota después de transcurridos 90 días desde su vencimiento, deberán constituir una provisión equivalente al 100% de la diferencia entre el valor al cual estuviere registrado el crédito en el activo antes de la renegociación y el mayor valor al cual quedare contabilizado una vez que ésta se haya efectuado.
 
-La misma provisión deberá constituirse, cualquiera sea la oportunidad en que se efectúe la renegociación, cuando el crédito renegociado se encuentre en alguna de las situaciones que determinan la suspensión de intereses y reajustes antes del vencimiento, señaladas en el numeral 3.1.1 del Capítulo 7-1 de esta Recopilación.
+La misma provisión deberá constituirse, cualquiera sea la oportunidad en que se efectúe la renegociación, cuando el crédito renegociado se encuentre en alguna de las situaciones que determinan la suspensión de intereses y reajustes antes del vencimiento, señaladas en el numeral 3.1.1 del título II del Capítulo 7-1 de esta Recopilación.
 
 Para los efectos de constituir las provisiones transitorias de que se trata, se considerarán también los otorgamientos de nuevos créditos, ya sea al mismo deudor o a un tercero, que se destinen a pagar algún crédito que se encuentre en alguna de las situaciones señaladas en los párrafos precedentes.
 
@@ -10774,7 +10776,7 @@ Haber: - La cuenta de colocaciones que corresponda.
 
 - "Responsabilidad por operaciones castigadas", que se crea dentro de la partida 9900.
 
-Cuando se trate de un crédito registrado por su valor final, al que se le hubiere suspendido el reconocimiento contable del devengo de intereses y reajustes según lo indicado en el numeral 3.1.4 del Capítulo 7.1, el castigo se hará con cargo a la cuenta "Intereses percibidos y no devengados", hasta por el monto de los intereses que por dicho crédito se mantenga en ella, debitando la respectiva cuenta de provisión sólo por la diferencia.
+Cuando se trate de un crédito registrado por su valor final, al que se le hubiere suspendido el reconocimiento contable del devengo de intereses y reajustes según lo indicado en el numeral 3.1.4 del título II del Capítulo 7-1, el castigo se hará con cargo a la cuenta "Intereses percibidos y no devengados", hasta por el monto de los intereses que por dicho crédito se mantenga en ella, debitando la respectiva cuenta de provisión sólo por la diferencia.
 
 El registro en las cuentas "Colocaciones castigadas" y "Responsabilidad por operaciones castigadas" se efectuará solamente cuando la institución financiera acreedora deba computar esos montos para informara esta Superintendencia los créditos castigados, de acuerdo con lo indicado en el N° 4 del título IV de este Capítulo y en el Manual del Sistema de Información. La contabilización en esas cuentas se hará por el importe correspondiente al castigo del activo, más los intereses y reajustes que estuvieren registrados en cuentas de orden según las instrucciones del Capítulo 7-1 de esta Recopilación. En el caso de los créditos registrados a su valor final, se considerará dicho valor final.
 
@@ -14126,44 +14128,6 @@ CODIGO DE TABLAS TASA DE INTERES ANUAL (%) PLAZO (AÑOS)
 
 12020 12,0 20
 
-CAPITULO 9-2 (Bancos y Financieras)
-
-MATERIA:
-
-INDICE VALOR PROMEDIO.
-
-El Comité Ejecutivo del Banco Central de Chile en uso de la facultad que le
-
-otorga el artículo 3° de la Ley N° 18.010 y el artículo 40 de la Ley N° 18.482,
-
-acordó crear una nueva modalidad de reajuste aplicable solamente a las
-
-operaciones con bonos o con letras de crédito, destinados al financiamiento de
-
-viviendas.
-
-Esta forma de reajustabilidad está representada por una unidad llamada "Indice
-
-Valor Promedio", que rige desde el 9 de abril de 1986, fecha en que se le dio un
-
-valor inicial de $2.954,06. Conforme a lo establecido en el Acuerdo N° 1.719-01-
-
-860321 del Comité Ejecutivo del Banco Central de Chile, dicho valor se reajusta
-
-diariamente a partir del 10 de abril de 1986, a una tasa equivalente al promedio
-
-geométrico diario correspondiente a la variación del Indice de Precios al
-
-Consumidor registrada en los últimos seis meses, utilizando para tal efecto la
-
-fórmula acordada por el Instituto Emisor.
-
-Esta Superintendencia determinará e informará mensualmente, sobre la base antes
-
-indicada, el valor de esa unidad para el periodo comprendido entre el día 10 de
-
-cada mes y el día 9 del mes siguiente.
-
 CAPITULO 9-3 (Bancos y Financieras)
 
 MATERIA:
@@ -14546,7 +14510,7 @@ Cuando en las condiciones de la emisión, especificadas en la escritura y en el 
 
 1.2. Reajuste de los bonos.
 
-Los bonos mencionados, serán reajustables sobre la base del mecanismo de reajuste denominado Indice Valor Promedio (IVP), acerca del cual trata el Capítulo 9-2 de esta Recopilación de Normas.
+Los bonos mencionados, serán reajustables sobre la base del mecanismo de reajuste denominado Indice Valor Promedio (IVP), acerca del cual trata el Capitulo 7-1 de esta Recopilación de Normas.
 
 1.3. Condiciones materiales de la emisión.
 
@@ -41018,27 +40982,7 @@ caso alguno la aplicación de una multa."
 
 (*) Se refiere al año 1986.
 
-CAPITULO 20-2 (Bancos y Financieras)
-
-MATERIA:
-
-COMPUTO DE LAS OBLIGACIONES REAJUSTABLES CUANDO VENCEN EN DIA NO HABIL BANCARIO.
-
-El artículo 111 del Código de Comercio establece que "la obligación que vence en
-
-día domingo o en otro día festivo es pagadera al siguiente".
-
-"La misma regla se aplicará a las obligaciones que venzan los días sábado de
-
-cada semana y 31 de diciembre de cada año".
-
-De acuerdo con la disposición legal transcrita, las obligaciones cuyo
-
-vencimiento sea postergado por esta norma, siempre deberán pagarse, si están
-
-expresadas en unidades reajustables, por el equivalente de ésta al día del
-
-efectivo vencimiento.
+CAPITULO 20-2. Derogado.
 
 CAPITULO 20-3 (Bancos)
 
@@ -41068,196 +41012,6 @@ los certificados que otorguen, de la hora a la que corresponde la certificación
 
 que se entrega.
 
-CAPITULO 20-4 (Bancos y Financieras)
+CAPITULO 20-4. Derogado.
 
-MATERIA:
-
-LEY N° 18.010. PRINCIPALES DISPOSICIONES RELACIONADAS CON LAS OPERACIONES DE LAS
-
-INSTITUCIONES FINANCIERAS.
-
-La Ley N° 18.010, publicada en el Diario Oficial del 27 de mayo de 1981 tuvo por
-
-objeto refundir en un solo texto las disposiciones sobre operaciones de crédito
-
-de dinero contenidas en el D.L. N° 455, de 1974 y las normas sobre obligaciones
-
-en moneda extranjera o expresadas en moneda extranjera que se encontraban en
-
-parte sujetas a la Ley N° 14.949. Estos dos textos habían originado confusiones
-
-e interpretaciones discutibles por la falta de claridad de algunos de sus
-
-preceptos. Por otra parte, el D.L. N° 455, de 1974, contenía disposiciones
-
-tributarlas propias de la Ley sobre Impuesto a la Renta.
-
-A continuación se comentan algunos preceptos de esta Ley cuya interpretación se
-
-considera necesario uniformar para las instituciones fiscalizadas.
-
-### 1. Cálculo de intereses
-
-El inciso final del artículo 11 de la Ley de que se trata, establece que para
-
-los efectos de ella, en todas las operaciones de crédito de dinero, reajustables
-
-o no reajustables, en moneda nacional o en moneda extranjera, los plazos de
-
-meses son de 30 días y los de años, de 360 días.
-
-Esta fue costumbre comercial por muchos años en Chile; pero parecía estar
-
-contrapuesta con las normas que para el mismo efecto establece el articulo 48
-
-del Código Civil al que hace expresa referencia el artículo 110 del Código de
-
-Comercio. Por ello desde un tiempo a esta parte las instituciones financieras
-
-habían recibido la instrucción de atenerse en el cómputo de intereses a las
-
-normas legales citadas.
-
-Con esta modificación, para el solo efecto del cálculo de intereses en una
-
-operación con tasas mensuales o anuales, el divisor será siempre de 30 ó 360 y
-
-el multiplicador el número de días que efectivamente corresponda al periodo que
-
-comprende la operación.
-
-En cambio, para el vencimiento de los efectos de comercio o valores mobiliarios
-
-con que se documente la operación, los plazos de años o de meses comprenderán
-
-los días que indica el articulo 48 del Código Civil, atendido que dichos
-
-documentos mercantiles o civiles se rigen en todo caso por las normas de dicho
-
-Código, en conformidad con lo dispuesto por el artículo 110 del Código de
-
-Comercio.
-
-Así, en un préstamo con letra de cambio, en que ésta vence a un año
-
-plazo,contado desde el 1° de agosto de 1981, el vencimiento será el 19 de agosto
-
-de 1982. Los intereses, por su parte, se calcularán dividiendo por 360 el
-
-producto de la tasa por el capital de la operación y multiplicando el resultado
-
-por 365,número de días que comprende el plazo de un año en este caso, por no ser
-
-bisiesto 1982.
-
-Por la misma razón, para los efectos de que un depósito o captación haga un
-
-determinado encaje y también para los efectos de los plazos de las operaciones
-
-en la relación entre activas y pasivas se estimará que el año es de 365 ó 366
-
-días, según corresponda, esto es, se seguirá la norma ya señalada que contiene
-
-el Código Civil.
-
-### 2. Interés máximo convencional
-
-De acuerdo con el artículo 6° de la Ley en comentario, el interés corriente se determina, ahora, por esta Superintendencia en la primera quincena de cada mes calendario sobre la base de los intereses cobrados en sus colocaciones por los bancos y sociedades financieras en el mes anterior, haciendo distingo entre operaciones en moneda nacional, reajustables o no, y en una o más monedas
-
-extranjeras o expresadas en moneda extranjera.
-
-El interés máximo convencional de cada uno de estos tipos de operaciones es el que resulta de aumentar en un 50% el interés corriente que corresponda.
-
-La ley, para estos efectos, se remite al momento de la convención para determinar si el interés pactado supera o no al máximo convencional y lo aplica por igual al de tasa fija o variable. En el interés de tasa fija no merece duda que un interés de una tasa numérica establecida en el momento de la convención en que el interés máximo convencional era igual o superior a dicha tasa, podrá continuar cobrándose a tasa pactada durante todo el período que comprenda la operación.
-
-Ahora bien, en el caso de tasa variable, estimando por tal una tasa construida sobre un factor variable, v.gr., interés corriente, interés máximo convencional, prime rate, libor, etc., cualquiera de ellos recargado en uno o más puntos,dicha
-
-tasa podrá mantenerse en el tiempo al igual que la tasa fija, siempre que al momento de la convención ella tampoco haya superado el interés máximo convencional. Es evidente, p. ej., que la tasa "interés máximo convencional más uno" nace ilícita.
-
-En todo caso, de conformidad con lo dispuesto en el artículo 16 de la Ley N° 18.010, en las operaciones de crédito de dinero se puede pactar, para el período de mora, la tasa de interés máxima convencional vigente en la fecha de la convención o la que rija durante la mora. En los casos en que para el período de mora sólo se pacte la aplicación de la tasa de interés máxima convencional, sin indicar si se trata de la que se encuentre vigente en la fecha de la convención o de la que rija durante la mora, se aplicará esta última, siguiendo la norma que para un caso similar da el artículo 16 de la Ley N° 18.010.
-
-### 3. Pago anticipado
-
-El artículo 10 de la referida ley mantiene el sistema de pago anticipado para el
-
-deudor que estableció el D.L. N° 455 Y cuyo fundamento obedece a que, al
-
-respetarse en su integridad lo dispuesto en el artículo 2204 del Código Civil y
-
-tratándose de un mutuo con intereses, nunca podría el deudor pagar
-
-anticipadamente sin consentimiento del acreedor.
-
-Debe aclararse en primer término que el sistema de pago anticipado que establece
-
-este artículo y que obliga al deudor a pagar todos los intereses de la deuda
-
-hasta el vencimiento pactado, sea ésta reajustable o no, nunca excluye la
-
-posibilidad de que el acreedor le reciba el pago en condiciones menos onerosas.
-
-Por otra parte, en el caso de obligaciones contratadas en letras de crédito
-
-existe otro sistema de pago anticipado (artículo 95 de la Ley General de Bancos)
-
-que se ajusta a la especial naturaleza de este tipo de operaciones y que
-
-continúa siendo aplicable a ellas a pesar de la modificación de que se trata.
-
-En todo caso, esta Superintendencia estima que los bancos y sociedades
-
-financieras no deben pretender asilarse en este artículo 10, sino en casos muy
-
-justificados, p. ej., cuando haya dificultad para recolocar el dinero anticipado
-
-en operaciones rentables. La única razón que tiene la mantención de este
-
-precepto es que un prepago masivo podría obligar a una institución financiera a
-
-prepagar a su vez a sus depositantes, pero, por ello mismo y atendido que
-
-siempre se tratará de una situación muy excepcional, conviene en lo posible
-
-cobrar lo que realmente les compense el gasto de liquidación anticipada de la
-
-operación.
-
-### 4. Operaciones reajustables
-
-En el artículo 3° de la Ley N° 18.010, se establece que en las operaciones de
-
-crédito de dinero en moneda nacional, no puede pactarse otra forma de reajuste
-
-que no sea a variación de la unidad de Fomento o la que pudiere autorizar el
-
-Banco Central de Chile.
-
-De acuerdo con las disposiciones del D.L. N° 455, esta Superintendencia había
-
-señalado anteriormente que las operaciones reajustables no podían pactarse a
-
-plazos inferiores a 90 días. La Ley N° 18.010 no contiene ninguna limitación en
-
-ese sentido, de manera que el referido plazo mínimo queda sin efecto,
-
-pudiendo,en consecuencia, pactarse esta clase de operaciones sin sujeción a un
-
-plazo mínimo.
-
-Sin embargo, las instituciones financieras, en sus operaciones de captación e
-
-intermediación de fondos, deberán observar las restricciones de plazos que el
-
-Banco Central de Chile, en uso de las facultades que le confiere su Ley
-
-Orgánica, ha dispuesto en el Capítulo III.B.1 del Compendio de Normas
-
-Financieras y que afectan tanto a los reajustes como a los intereses.
-
-### 5. Operaciones expresadas en moneda extranjera
-
-el artículo 20 de la Ley N° 18.010, ha generalizado el pacto de obligaciones
-
-expresadas en moneda extranjera y pagaderas en moneda nacional como un sistema
-
-que puede regir a todo tipo de obligaciones y en todo tipo de personas.
+Artículo .- Derogado.
