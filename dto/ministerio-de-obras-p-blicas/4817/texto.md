@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.817 de 31 de octubre del 2000, se expropiaron los lotes de terreno Nºs. 17, 18, 19 y 20, superficies 1.715, 2.883, 1.241 y 4.008 m²., respectivamente, roles de avalúo Nºs. 5026-102, 5026-101, 5026-99 y 5026-98, comuna de Punta Arenas, para la obra Actualización Proyecto Canal de Trasvase Estero Llau Llau a Estero Bitsch de Punta Arenas Fase II, Prolongación Canal Llau - Llau, Km. -0,009 al Km. 1.066 y se acordó precio de la indemnización con su propietario Obispado de Punta Arenas ascendente a la cantidad de $5.083.514.-
+
+Fiscal del Ministerio de Obras Públicas.
