@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.280, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº22, superficie 62,70 m², rol de avalúo 1600-1, comuna de Paine, Región Metropolitana, para la obra ''Camino Sin rol, Sector Peralillo - Abrantes, Tramo Km. 0,00000 al 6,03921'' y se acordó el valor de indemnización con su propietario don Leopoldo Eugenio Manzor Caru, ascendente a la cantidad de $526.614.-
+
+Fiscal del Ministerio de Obras Públicas.
