@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº879 de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº262, superficie 462, rol Nº61-80, comuna de Palmilla, VI Región, para la obra "Camino Colchagua Pichidegua, sector San Roberto Cruceros, tramo Km. 12,30000 a 26,00400", y se acordó el valor de indemnización con su propietario Leopoldo Segundo Romero Arratia, ascendente a la cantidad de $2.081.904 para el lote Nº262.
+
+- Fiscal del Ministerio de Obras Públicas.
