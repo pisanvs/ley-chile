@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 360 de 14 de Abril de 1993 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó a la empresa Transporte Magallanes Tour Limitada para efectuar transporte internacional terrestre de pasajeros entre Punta Arenas (Chile) y Río Gallegos (Argentina) por Paso Monte Aymond (Integración Austral), con una frecuencia semanal de ida y vuelta.-
+
+Sergio González Tagle, Subsecretario de Transportes.
