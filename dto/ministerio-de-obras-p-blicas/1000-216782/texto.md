@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.000, de 16 de septiembre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco el lote de terreno Nº3-A, para la obra Habilitación 2º Acceso Iquique, Sector Circunvalación-Ruta A-16, que figura a nombre de Coop Serv Dueños Camiones Iqq, rol de avalúo 81-14, comuna de Iquique, I Región, superficie 502 m². La comisión de peritos fijó con fecha 30 de marzo de 2000, el monto de la indemnización provisional en la cantidad de $45.322.856.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
