@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.471, de 19 de diciembre de 2003 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra Planta Elevadora de Aguas Servidas Nº 1, Comuna de Maullín, Provincia de Llanquihue, X Región, que figura a nombre de Andrade Vera Sonia Mercedes, rol de avalúo 15-41, superficie 376,64 m2, comuna de Maullín. La Comisión de Peritos, con fecha 15 de octubre de 2003, fijó la indemnización provisional en la cantidad de $4.105.376, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
