@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.650, de fecha 30 de noviembre del 2004, se expropiaron los lotes de terreno Nºs. 87-A y 88-A, superficies 165 y 123 m²., Roles Nºs. 518-428 y 518-429, comuna de Antuco, VIII Región, para la obra ''Camino Ruta Q-45, Sector Antuco-Abanico, Tramo II Km. 3,95000 a Km. 12,40150'' y se acordó el valor de indemnización con su propietario Hernán Javier Bobadilla Cea, ascendente a la cantidad de $377.059.
+
+- Fiscal del Ministerio de Obras Públicas.
