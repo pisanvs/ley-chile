@@ -1,0 +1,3 @@
+Por resolución Nº 387, de 11 de marzo de 1999 de esta Subsecretaría, autorízase a LUIS ROLANDO VERGARA ROJAS, para ampliar actividades pesqueras de transformación, en orden a incorporar, a la planta de proceso ubicada en La Ribera Sur Nº 400, Pudeto Bajo, Ancud, las líneas de elaboración de Salado y Seco-salado, en las que podrá utilizar como materia prima, el recurso hidrobiológico Anchoveta Engraulis ringens.
+
+Valparaíso, 11 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
