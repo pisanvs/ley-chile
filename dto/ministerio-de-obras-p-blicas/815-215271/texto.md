@@ -1,0 +1,3 @@
+Por decreto MOP Nº 815 de 31 de julio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 1, para la obra: Camino Ruta 150, Lirquén - Tomé, Km. 22,76100 a Km. 23,28500, que figura a nombre Forestal Celco S.A., Rol de Avalúo 625-11, comuna de Tomé, VIII Región, superficie 14.315 m². La Comisión de Peritos, fijó con fecha 28 de agosto de 2001, en la cantidad de $13.162.360.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
