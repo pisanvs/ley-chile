@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 686 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 12, superficie 2.650,60, Rol de Avalúo 169-6, comuna de Curarrehue, para la obra "Camino Mamuil Malal, Tramo Puente Correntoso, Km. 130,988 al Puente Puesco Km. 136,860, Sector Km. 130,988 al 134,620" y se acordó el valor de indemnización con su propietario Juan Alejandro Torres Opazo, ascendente a la cantidad de $2.277.930.-
+
+Fiscal del Ministerio de Obras Públicas.
