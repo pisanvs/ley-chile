@@ -1,0 +1,3 @@
+Por decreto MOP Nº940 de fecha 29 de agosto de 2003, se expropiaron los lotes de terreno Nos 1, 2, 3 y 4, superficie 17, 2.335, 121 y 112 m², Rol Nº311-88, comuna de Freire, IX Región para la obra "Camino Ruta 5 - Vialidad Complementaria, Sector Acceso Norte Freire, Tramo Km. 0,00000 a 0,85187" y se acordó el valor de indemnización con su propietario Feliciano Vielma Ortega, ascendente a la cantidad de $7.836.610.
+
+Fiscal del Ministerio de Obras Públicas.
