@@ -14,7 +14,7 @@ Del territorio
 
 #### Artículo 1°
 
-El territorio de Chile se extiende desde el desierto de Atacama hasta el Cabo de Hornos, i desde las cordilleras de los Andes hasta el mar Pacífico, comprendiendo el Archipiélago de Chiloé, todas las islas adiacentes, i las de Juan Fernández.
+Suprimido.-
 
 ## Capítulo II
 
@@ -64,15 +64,15 @@ A la Municipalidad del departamento de la residencia de los individuos que no ha
 
 #### Artículo 8º
 
-Son ciudadanos activos con derecho a sufrajio: Los chilenos que habiendo cumplido veinticinco años, si son solteros, i veintiuno, si son casados, i sabiendo leer i escribir tengan alguno de los siguientes requisitos:
+Son ciudadanos activos con derecho de sufrajio los chilenos que hubieren cumplido veintiun años de edad, que sepan leer i escribir i estén inscritos en los rejistros electorales del departamento.
 
-1º Una propiedad inmoble, o un capital invertido en alguna especie de jiro o industria. El valor de la propiedad inmoble, o del capital, se fijará para cada provincia de diez en diez años por una lei especial;
+Estos rejistros serán públicos i durarán por el tiempo que determine la lei.
 
-2º El ejercicio de una industria o arte, el goce de algún empleo, renta o usufructo, cuios emolumentos o productos guarden proporción con la propiedad inmoble, o capital de que se habla en el número anterior.
+Las inscripciones serán continuas i no se suspenderán sino en el plazo que fije la lei de elecciones.
 
 #### Artículo 9º
 
-Nadie podrá gozar del derecho de sufragio sin estar inscrito en el rejistro de electores de la Municipalidad a que pertenezca, i sin tener en su poder el boleto de calificación tres meses antes de las elecciones.
+Suprimido.
 
 #### Artículo 10
 
@@ -96,9 +96,9 @@ Se pierde la ciudadanía:
 
 3º Por naturalización en país extranjero;
 
-4º Por admitir empleos, funciones, distinciones o pensiones de un Gobierno estranjero sin especial permiso del Congreso.
+4º Por admitir empleos, funciones, o pensiones de un Gobierno estranjero sin especial permiso del Congreso.
 
-5º SUPRIMIDO.
+5º Suprimido.
 
 Los que por una de las causas mencionadas en este artículo hubieren perdido la calidad de ciudadanos, podrán impetrar rehabilitación del Senado.
 
@@ -164,9 +164,11 @@ La Cámara de Diputados se compone de miembros elejidos por los departamentos en
 
 #### Artículo 19
 
-Se elejirá un Diputado por cada veinte mil almas, i por una fraccion que no baje de doce mil.
+Se elejirá un Diputado por cada treinta mil habitantes i por una fracción que no baje de quince mil.
 
-Tambien se elejirán Diputados suplentes en el número que fije la lei.
+Si un Diputado muere o deja de pertenecer a la Cámara por cualquiera causa, dentro de los dos primeros años de su mandato, se procederá a su reemplazo por nueva elección en la forma i tiempo que la lei prescriba.
+
+El Diputado que perdiere su representación por desempeñar o aceptar un empleo incompatible, no podrá ser reelejido hasta la próxima renovación de la Cámara.
 
 #### Artículo 20
 
@@ -214,23 +216,23 @@ Se elejirá, en la misma forma, un Senador suplente por cada provincia para que 
 
 #### Artículo 25
 
-Tanto los Senadores propietarios como los suplentes, permanecerán en el ejercicio de sus funciones por seis años, pudiendo ser reelejidos indefinidamente.
+Los Senadores, permanecerán en el ejercicio de sus funciones por seis años, pudiendo ser reelejidos indefinidamente.
 
 #### Artículo 26
 
-Los Senadores propietarios se renovarán cada tres años en la forma siguiente:
+Los Senadores se renovarán cada tres años en la forma siguiente:
 
 Las provincias que elijan un número par de Senadores harán la renovacion por mitad en la eleccion de cada trienio.
 
 Las que elijan un número impar, la harán en el primer trienio, dejando para el trienio siguiente la del Senador impar que no se renovó en el anterior.
 
-Las que elijan un solo Senador, lo renovarán cada seis años, aplicándose esta misma regla a los Senadores suplentes.
+Las que elijan un solo Senador, lo renovarán cada seis años.
 
 #### Artículo 27
 
-Cuando falleciere algún Senador o se imposibilitare, por cualquier motivo, para desempeñar sus funciones, la provincia respectiva elijirá en la primera renovacion otro que lo subrogue por el tiempo que le faltase para llenar su periodo constitucional.
+Si un Senador muere o deja de pertenecer a la Cámara por cualquiera causa antes del último año de su mandato, se procederá a su reemplazo por nueva elección, por el tiempo que le falte, en la forma i plazo que la lei prescriba.
 
-Igual procedimiento se adoptará siempre que un Senador se encuentre en alguno de los casos del artículo 23.
+El Senador que perdiere su representación por desempeñar o aceptar un empleo incompatible, no podrá ser elejido antes del próximo trienio.
 
 #### Artículo 28
 
@@ -530,7 +532,7 @@ Esta elección se hará a pluralidad absoluta de sufrajios, i por votación secr
 
 #### Artículo 73
 
-No podrá hacerse el escrutinio ni la rectificación de estas elecciones, sin que estén presentes las tres cuartas partes del total de los miembros de cada una de las Cámaras.
+No podrá hacerse el escrutinio, ni la rectificación de estas elecciones, sin que esté presente la mayoría absoluta del total de miembros de cada una de las Cámaras.
 
 #### Artículo 74
 
