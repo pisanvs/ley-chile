@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION Nº 351 EXENTA, DE 2000
+
+Con fecha 7 de agosto de 2000 la Secretaría Regional Ministerial de Bienes Nacionales de la II Región Antofagasta dictó resolución exenta Nº 351, por medio de la cual se otorga a Comunidad Indígena Atacameña de Lasana concesión de uso gratuito del inmueble fiscal ubicado en Pukará de Lasana, localidad de Lasana, Calama, El Loa, por un plazo de 5 años, renovables años.
