@@ -1,0 +1,3 @@
+Por resolución No. 1.526 de 11 de Diciembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 30 días a contar de la fecha de la presente resolución, el plazo otorgado a don JOAQUIN ENRIQUE MENDOZA LARRAL, R.U.T. No. 4.974.740-3, domiciliado en Viña del Mar, Pasaje Monterrey No. 60, en el numeral 4° de la resolución No. 1.087, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de fuerza mayor.
+
+Valparaíso, 11 de Diciembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
