@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE YERBAS BUENAS
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2.307 de 30 de Diciembre de 1988 conforme Art. 5° Transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado predios "Fundo San Ignacio, Los Castaños, fundo ubicado en Coihuecura y El Alamo y San Juan", de la comuna de Yerbas Buenas, VII Región; y derechos aprovechamiento aguas que corresponden a parcelas N°s. 1 a la 21, sitios N°s. 1 al 13, del Proyecto de Parcelación "San Ignacio", formado por predios señalados y otro. Los derechos de agua se extraen de los canales San Ignacio, Pando, Santa Ema, Naranjal, Flor María, Gatica, Cerda, Santa Eduvigis y Flores Alto. Publicación hecha conforme Art. 13 ley N° 18.377.
+
+Director Ejecutivo.
