@@ -1,0 +1,3 @@
+Mediante resolución Ministerial Nº 91, de fecha 19 de octubre de 2001, se aprobó la reforma parcial al estatuto de la Cooperativa de Vivienda y Servicios Habitacionales de Funcionarios de Investigaciones Limitada, ahora Cooperativa de Servicios Habitacionales de Funcionarios de Investigaciones, de Santiago, en los términos que da testimonio el Acta reducida a escritura pública con fecha 5 de septiembre de 2001, ante el Notario Público de Santiago, don Mario Farren Cornejo.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
