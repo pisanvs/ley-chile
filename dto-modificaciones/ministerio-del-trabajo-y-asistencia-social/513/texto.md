@@ -126,6 +126,10 @@ Sin necesidad de comprobar invalidez, los empleados que tengan más de diez año
 
 Para los efectos del cómputo y determinación del monto de las jubilaciones establecidas en los artículos 8.o y 9.o, servirá como promedio el del sueldo y asignaciones permanentes percibidas durante los últimos 24 meses.
 
+El promedio será el de los últimos 12 meses cuando el imponente haya permanecido en el mismo grado a lo menos durante ese mismo lapso.
+
+En el caso a que se refiere el inciso anterior, las diferencias de imposiciones personales y patronales que pudieren existir, correspondientes a los 24 últimos meses, serán integradas por el pensionado y se descontarán del desahucio que le correspondiere.
+
 Las jubilaciones las concederá la Ilustre Municipalidad, con el informe favorable de la Caja.
 
 #### Artículo 11
