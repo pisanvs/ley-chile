@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 352, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 95, superficie 124,00 m2, rol de avalúo 2025-12, comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0.00000 al 14,23039" y se acordó el valor de indemnización con su propietaria Marion Edita Zurita Leiva, ascendente a la cantidad de $822.209.-
+
+Fiscal del Ministerio de Obras Públicas.
