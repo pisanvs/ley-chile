@@ -1,0 +1,7 @@
+Por resolución Nº1.386 de 4 de Noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorizase a don LUIS VIDELA JULIO, R.U.T. Nº8.282.698-K, domiciliado en calle Melgarejo Nº720, 4º piso, Depto. Nº42, Coquimbo, IV Región, para ampliar actividades pesqueras, que tiene autorizada por resolución Nº1.451, de 1989, de esta Subsecretaría, en orden a incorporar en la planta industrial autorizada por la resolución citada en el numeral precedente, a la línea de proceso de conserva, los siguientes recursos hidrobiológicos: Albacora o pez espada, anguila, congrio colorado, congrio dorado, congrio negro lenguado de ojos chicos, lenguado de ojos grandes, merluza común, pejegallo, quirquincho, caracol locate, caracol tegula, caracol trumulco, chorito, choro, lapa, navajuela, ostra chilena, pulpo, camarón nailon, gamba, jaiba mora, jaiba reina, picoroco, erizo y piure.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por el peticionario para procesar el recurso langostino colorado, de conformidad al D.S. Nº421 de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
