@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.317, de 10 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de modificación de proyecto técnico de concesión de acuicultura Nº 201111967 presentada por PATAGONIA SALMON FARMING S.A., para el centro de cultivo cuya concesión de acuicultura fue otorgada por resolución Nº 299 de 1998 de la Subsecretaría de Marina.
+
+Valparaíso, 10 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
