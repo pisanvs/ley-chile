@@ -1,0 +1,3 @@
+Por resolución Nº654 de 16 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año, a contar del 1º de octubre de 1991 el plazo otorgado a INDUSTRIA PESQUERA POSEIDON S.A., RUT Nº96.148.000-0, domiciliada en Morris Nº721, Valparaíso, para operar la nave "Viña del Mar" autorizada por resoluciones Nº599, de 1986 y Nº930, de 1989, ambas de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 16 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
