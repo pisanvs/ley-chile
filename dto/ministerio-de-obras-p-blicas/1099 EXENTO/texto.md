@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.099, de 31 de julio de 2001, se expropió el lote de terreno Nº45-1, superficie 701 m², rol de avalúo 20-154, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los Andes, Sector "G", By Pass Los Andes, Calle de Servicio, Quinta Región y se acordó el valor de indemnización con su propietario Carlos Ernesto Vargas Barraza, ascendente a la cantidad de $1.308.052.-
+
+Fiscal del Ministerio de Obras Públicas.
