@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº54, de 19 de mayo del año 2000, se autorizó existencia y aprobó el estatuto de la Cooperativa de Trabajo para la Capacitación y Desarrollo Industrial para los Cooperativos Microempresarios, Antártida Limitada, de sigla ''Antarticoop Ltda.'', de la ciudad de Punta Arenas; en los términos que da testimonio documento protocolizado bajo el Nº453 de los Registros del Notario Público de la ciudad de Punta Arenas, José Leopoldo Vergara Villarroel, con fecha 3 de abril del año 2000.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
