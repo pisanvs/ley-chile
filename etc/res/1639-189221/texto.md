@@ -1,0 +1,3 @@
+Por resolución Nº 1.639, de 3 de agosto de 2001, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado El Quisco Sector C, V Región, individualizada en el artículo 1º) Nº 1 del D.S. Nº 652, de 1997, modificado mediante decreto supremo Nº 505, de 1998, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES "NARCISO AGUIRRE" DE PESCADORES ARTESANALES DE LA COMUNA DE EL QUISCO.
+
+Valparaíso, 3 de agosto de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
