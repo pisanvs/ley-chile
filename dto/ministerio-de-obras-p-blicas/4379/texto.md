@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.379, de 29 de septiembre de 2000,y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº3, para la obra:
+
+''CONCESION INTERNACIONAL INTERCONEXION VIAL SANTIAGO-VALPARAISO-VIÑA DEL MAR. TRONCAL SUR. ENLACE VILLA ALEMANA. KM. 90.894,40 A KM. 91.894,20'', Quinta Región, que figura a nombre de Conavicoop, rol de avalúo 847-465, comuna de VILLA ALEMANA, superficie 5.026 m2. La comisión de peritos integrada por los señores Inés Elena Otárola Castillo, Jorge Eduardo Lackington Vergara y Orlando Antonio Fariña Vásquez, fijó con fecha 18 de julio de 2000, el valor provisional de la indemnización en la cantidad de $22.767.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
