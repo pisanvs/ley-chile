@@ -1,0 +1,3 @@
+Por resolución Nº 2.106, de 13 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96103229, presentada por MARIA MATILDE CHAMIA PEREZ, para operar un centro de cultivo ubicado en un sector entre Punta Putique y Punta Traiguén, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 13 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
