@@ -1,0 +1,9 @@
+Por decreto M.O.P. No. 446, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del decreto M.O.P. No. 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley No. 15.840 y del DFL.
+
+No. 206, de 1960, se expropiaron los lotes de terreno No.s.
+
+1, 5, 6, 7, 8, 9, 10, 11, 22, 23, 24, 37, 62, 65, 124 y 126, para la obra Ampliación Camino, Sector Nogales - Puchuncaví Ruta F-20, que figuran a nombre de Bravo Cortés Ramón Francisco, Wilde Serrano Oscar y Otro, Suc. Delicio Reyes, González Maginio Suc., Fernández Fernández Aurora y Otros y Bernal Fernández Atilio, roles de avalúo171-137, 171-139, sin rol, 175-17, 172-12 y 193-2, comunas de Nogales y Puchuncaví, V Región, superficies 160, 240, 1.860, 1.545, 2.950, 240, 1.477, 215, 18, 1.112, 96, 1.344, 86, 918, 200 y 280 M2., respectivamente. La Comisión de Peritos compuesta por los señores Pablo Caria Giurici, Orlando Antonio Fariña Vásquez y la señora María Isabel Ríos Marcuello, fijó con fecha 20 de junio de 1997, el valor provisional de la indemnización en las cantidades de $ 240.000, para el lote No. 1; $ 360.000, para el lote No. 5; $ 2.232.000, para el lote No. 6; $ 1.854.000, para el lote No. 7; $ 3.540.000, para el lote No. 8; $ 240.000, para el lote No. 9; $ 1.329.300, para el lote No. 10; $ 215.000, para el lote No.
+
+11, $ 18.000, para el lote No. 22; $ 1.000.800, para el lote No. 23; $ 96.000, para el lote No. 24; $ 1.209.600, para el lote No. 37; $ 86.000, para el lote No. 62; $ 918.000, para el lote No. 65; $ 300.000, para el lote No. 124 y $ 420.000, para el lote No. 126. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
