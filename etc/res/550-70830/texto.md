@@ -1,0 +1,3 @@
+Por Resolución Nº 550 de 17 de abril de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad de la Resolución Nº 86, de 1993 de esta Subsecretaría, que autorizó a AGROPESCA S.A., para ampliar actividades pesqueras extractivas con la nave "Blue", por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 17 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
