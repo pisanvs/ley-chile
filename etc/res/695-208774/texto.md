@@ -1,0 +1,3 @@
+Por resolución Nº 695, 19 de marzo de 2003, de esta Subsecretaría, declárese la caducidad parcial de la resolución Nº 618 de 1996, de esta Subsecretaría, sólo en cuanto autorizó a SOCIEDAD PESQUERA VIENTO SUR LIMITADA, hoy Sociedad Pesquera Viento Sur S.A., para operar la nave "Sunnan I", entre la IV Región y el paralelo 41º 28,6' L.S., con red de arrastre de fondo, respecto del recurso Raya, ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 19 de marzo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
