@@ -1,0 +1,5 @@
+Por resolución Nº564, de 24 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA MAR BLANCO LIMITADA, para ampliar actividades pesqueras extractivas con la nave ''María Bernardita'', autorizada por la resolución Nº2.192 de 1996, de esta Subsecretaría, en orden a realizar actividades pesqueras con la nave ''María Bernardita'', en el litoral de la V, VI, VII y IX Regiones, por fuera del área de reserva artesanal, donde podrá capturar con red de cerco los siguientes recursos hidrobiológicos: Anchoveta, Sardina española, Caballa, Merluza de cola, Sardina común y Agujilla.
+
+Déjase sin efecto la resolución Nº589 de 1995 de esta Subsecretaría, por haberse transferido las autorizaciones de pesca de la nave ''María Bernardita'' a Pesquera Mar Blanco Limitada.
+
+Valparaíso, 24 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
