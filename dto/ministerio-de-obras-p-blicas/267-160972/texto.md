@@ -1,0 +1,3 @@
+Por decreto MOP Nº 267, de 31 de enero del 2000, se expropió el lote de terreno Nº 9, superficie 975 m2., rol de avalúo 115-5, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria Magaly del Pilar Ortiz González, ascendente a la cantidad de $26.410.987.
+
+Fiscal del Ministerio de Obras Públicas.
