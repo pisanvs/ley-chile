@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº741 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº17 superficie 1.217 m2 , rol de avalúo Nº105-207, comuna de Curacaví, para la obra "Camino Ruta G-76, Sector María Pinto-Santa Inés, Tramo de Km 0,0000 a Km 12,26088", Región Metropolitana y se acordó el valor de la indemnización con su propietario Samuel Ramón Ovalle Undurraga, ascendente a la cantidad de $1.438.227.
+
+- Fiscal del Ministerio de Obras Públicas.
