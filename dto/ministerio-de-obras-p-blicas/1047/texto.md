@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº1.047, de 28 de octubre de 1997, se expropiaron los lotes de terreno Nºs. 23 y 24, superficies 9.072 y 4.035, roles de avalúo 601-36 y 601- 35, comuna de San Ignacio, para la obra Proyecto Laja Diguillín, Canal Matriz sector Bulnes y se acordó precio de indemnización con sus propietarios José Armando Muñoz Parra y Marcelino Muñoz Parra, ascendente a las cantidades de $4.056.242 y $1.775.237, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
