@@ -1,0 +1,3 @@
+Por Resolución Nº 963, de 4 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95106031, presentada por CULTIVOS YADRAN S.A., para un centro de cultivo ubicado en Canal Guamblad, Isla San Pedro, Comuna de Quellón, Provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos Nº 14º, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción y Nº 78º y Nº 87º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
