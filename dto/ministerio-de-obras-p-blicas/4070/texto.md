@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.070, de 31 de agosto de 2000, se expropió el lote de terreno Nº26-1A, superficie 1.362 m2., rol de avalúo 1511-109, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Productos Forestales Kamapu Limitada, ascendente a la cantidad de $2.021.351.
+
+Fiscal del Ministerio de Obras Públicas.
