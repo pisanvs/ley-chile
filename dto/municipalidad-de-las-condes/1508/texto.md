@@ -256,7 +256,7 @@ Aquellas Formas Publicitarias que no cumplan con la presente Ordenanza dentro de
 
 <!-- parte:8951819 -->
 
-Prohíbese durante las veinticuatro horas de cada día, el encendido de toda publicidad gráfico-luminosa, iluminada, y letreros luminosos ubicados en espacios de uso público y en propiedades privadas orientadas hacia el espacio público, para ser vistas desde este último.
+Prohíbese el encendido de toda publicidad gráfico luminosa, iluminada y letreros luminosos ubicados en espacio de uso público y en propiedades privadas orientados hacia el espacio público para ser vistos desde éste último. Sólo se permite el encendido de publicidad de lunes a viernes desde las 23:00 horas hasta las 04:00 horas del día siguiente y sábados y domingos todo el día.
 
 Prohíbese la iluminación fijada al exterior de los edificios, fachadas y elementos ornamentales sea que se trate de edificios públicos o privados durante las 24 horas de cada día.
 
