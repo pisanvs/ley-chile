@@ -1,0 +1,3 @@
+Por Resolución N° 873 de 11 de Noviembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por diez meses, contados desde el 1° de noviembre de 1993, el plazo conferido a PESQUERA FRIOSUR S.A., R.U.T. N° 86.577.500-8, para reiniciar operaciones con la nave "Friosur III", autorizada por Resolución N° 326, de 1987, de esta Subsecretaría, en virtud de haberse acreditado la ocurrencia de una fuerza mayor, de conformidad con lo dispuesto en la letra b) del artículo 143 de la Ley N° 18.892 y sus modificaciones.
+
+Valparaíso, 11 de Noviembre de 1993.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
