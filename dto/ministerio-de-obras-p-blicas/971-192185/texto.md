@@ -1,0 +1,3 @@
+Por decreto MOP Nº971, de 19 de noviembre de 1996, se ordenó y aprobó el plano y cuadro de expropiación del lote de terreno Nº7, y por decreto MOP Nº1.477, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $911.700, para la obra Proyecto Sistema Regadío Maule Sur Canal Alimentador al Estero Abranquil del Km. 0.000 al 1.670. El pago de indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
