@@ -1,0 +1,3 @@
+Por resolución Nº 156 de 17 de enero de 2002 de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 37 de 2002, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado ''Distribución espacio temporal de las capturas de jurel en la I y II Región (Primera Etapa, 2002)'', en el sentido de reemplazar la nave ''Patillos'' por la nave ''Eperva 56'', ambas de propiedad de Corpesca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 17 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
