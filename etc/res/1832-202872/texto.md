@@ -1,0 +1,3 @@
+Por resolución Nº 1.832, de 28 de agosto de 2002, modifícase el numeral 4º letra b) de la resolución Nº 1.696 de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA OCTAVA REGION (INPESCA), para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2002-14 denominado "Evaluación del stock desovante de anchoveta y sardina común entre la V y X Regiones, año 2002", en el sentido de señalar que la fase de cruceros de prospección de huevos y adultos se realizará entre el 15 de agosto y el 15 de septiembre de 2002, ambas fechas inclusive.
+
+Valparaíso, 28 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
