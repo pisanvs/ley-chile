@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE ADMINISTRADORA DE FONDOS PARA LA VIVIENDA INTERCAJAS S.A.
+
+Certifico: Que por resolución Nº 318, de fecha 25 de julio de 2002, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad Administradora de Fondos para la Vivienda Intercajas S.A., la que consta en escritura pública de fecha 1 de julio de 2002, otorgada en la Notaría de Santiago de don René Benavente Cash, con domicilio en Paseo Huérfanos 979, piso 7, Santiago.
+
+Reforma consiste en aumentar el capital social de $318.894.080 pesos, dividido en 200 acciones sin valor nominal, de una sola serie, íntegramente suscrito y pagado, a la suma de $518.894.080 pesos, dividido en 600 acciones. Del aumento de $200.000.000 pesos dividido en 400 acciones, se suscribieron y pagaron al contado, 200 acciones equivalentes a $100.000.000 pesos. El saldo, se deberá suscribir y pagar dentro del plazo máximo de tres años contado desde el 19 de junio de 2002, al precio por acción que determine una junta extraordinaria de accionistas citada para tal efecto. Se modifican artículos quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 25 de julio de 2002.- Carmen Undurraga Martínez, Secretario General.
