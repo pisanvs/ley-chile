@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 770 de fecha 31 de mayo del 2004, se expropió el lote de terreno Nº 579, superficie 210 m², Rol Nº 32-413, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 al Km. 12,70000" y se acordó el valor de indemnización con su propietario Luis Arturo Osorio Salas, ascendente a la cantidad de $912.042.-
+
+Fiscal del Ministerio de Obras Públicas.
