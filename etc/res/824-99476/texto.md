@@ -1,0 +1,3 @@
+Por resolución Nº 824, de 4 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 96103172, presentada por ARIELA DEL CARMEN CARDENAS CARDENAS, para operar un centro de cultivo en Canal Quinchao-Huyar Bajo, comuna de Curaco de Vélez, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
