@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº248 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs 1 y 5, superficie 947,8 y 496,40 m2, respectivamente, Rol Nº139-1 y 139-14, comuna de Chonchi, X Región para la obra "Camino Ruta W-80, Sector Cruce Longitudinal Huillinco, Km.0,000 a Km. 9,556" y se acordó el valor de indemnización con su propietario José Pérez Cárcamo, ascendente a la cantidad de $1.526.412.-
+
+Fiscal del Ministerio de Obras Públicas.
