@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.463, de 31 de mayo de 1999, se expropió el lote de terreno Nº 2, superficie 176 m2., rol de avalúo 1303-8, comuna de San Carlos, para la obra ''Ruta 5 Tramo Talca - Chillán, Sector Acceso Gaona Oriente'', Octava Región y se acordó el valor de indemnización con su propietario Ramón del Carmen Sánchez Sepúlveda, ascendente a la cantidad de $1.030.500.-
+
+Fiscal del Ministerio de Obras Públicas.
