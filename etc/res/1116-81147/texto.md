@@ -1,0 +1,5 @@
+Por Resolución No. 1.116, de 02 de Septiembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 11 de la Resolución No. 1.882, de 1989, de esta Subsecretaría, que autorizó a PESQUERA MARBELLA LIMITADA, R.U.T. No.
+
+86.946.900-9, domiciliada en la ciudad de Iquique, para sustituir las embarcaciones "Costa Grande 1", "Costa Grande 6" y una nave en construcción, por las embarcaciones "Marchigüe" y "Costa Grande 1" por el que a continuación se indica. "11.- a partir de la fecha de inicio de operación de la nave "Marchigüe" quedarán sin efecto las Resoluciones No. 172, de 1982, de esta Subsecretaría, en lo relativo a la embarcación "Costa Grande 1", No. 778, de 1985 y No. 1.154, de 1988, en lo relativo a la nave en construcción autorizada en el numeral 3° de dicho instrumento.".
+
+Valparaíso, 02 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
