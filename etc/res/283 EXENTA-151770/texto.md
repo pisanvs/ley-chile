@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 283, del 22 de julio de 1987, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región de Coquimbo, se autoriza a doña Amelia Carmen Miranda Rojas, para efectuar el servicio de taxi colectivo urbano de la Línea No. 18.- "Población Limarí-Portales" cuyo trazado, que a continuación se indica, fue autorizado por resolución exenta No. 129, del 28 de junio de 1984, de esta Secretaría Regional. Circunvalación: Desde su terminal ubicado en calle Diaguitas con Fray Jorge, en la ciudad de Ovalle, continúa por Fray Jorge - Av. Las Palmas - Av. Las Acacias - Los Pimientos - Ruta 43 - Rotonda - Ariztía Poniente - Libertad - Portales - Vicuña Mackenna - Ariztía Poniente - Tangue - Ariztía Oriente - Rotonda - Ruta 43 - Av. Las Palmas - Av. Las Torres - Diaguitas hasta su terminal con Fray Jorge.-
+
+Jorge Vargas Borcosky, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV Región de Coquimbo.
