@@ -1,0 +1,3 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F. No. 69, de 18.07.85, se ha ordenado pagar la suma de $ 218.747 a la Fundación Fomento Cultura Popular Santa Teresita, o a quien acredite derecho como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos m s su reajuste, para los lotes 2 y 3, de una superficie de 150 m2 y 1.800 m2, respectivamente, rol de avalúo 3712-8, Comuna de Talca, para Agua Potable de Talca, Pozo 804. Se deja constancia que el plazo para reclamar judicialmente del avalúo es 30 días contados desde la fecha de la 2ª publicación que se hará en un periódico de la VII Región.
+
+- Fiscal del Ministerio de Obras Públicas.
