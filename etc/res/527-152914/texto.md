@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PRODUCTOS SECOS Y CONCELADOS LIMITADA "PROSECOL LIMITADA" PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 527, de 14 de Julio de 1986, de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Productos Secta y Congelados Limitada "Prosecol Limitada", domiciliado en Talcahuano, para instalar y operar una planta elaboradora de recursos hidrobiológicos en las líneas de conservas, seco-salado, congelado y harina de pescado, en Lora Bajo, calle Piloto Pardo s/n°, VIII Región. Los recursos que utilizará como materia prima en la elaboración de los productos mencionados son: línea de harina, además de los desechos de todas las líneas, jurel, sardina común, sardina española anchoa, en las otras líneas de proceso señaladas: anchoa, cojinova del norte, congrio colorado, congrio dorado, congrio negro, loco, macha, navajuela, camarón nailón, langostino amarillo, langustino colorado, jaiba y erizo.
+
+Valparaíso, 14 de julio de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
