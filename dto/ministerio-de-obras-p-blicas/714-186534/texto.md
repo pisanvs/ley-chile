@@ -1,0 +1,5 @@
+Por decreto MOP Nº 714, de 30 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del DFL. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 109, para la ejecución de la obra "Camino Costero Tirúa-Carahue, Tramo Tranapuente-Carahue, Sector Km.
+
+55.438,97-Km. 69.895,61; Km. 0.000-Km. 3.927,45; Sub-Tramo III", que figura a nombre de Soc. Forestal M Agríc. Sta. Ana L., rol de avalúo 261-27, comuna de Carahue, IX Región, superficie 11.395,70 M2. La comisión de peritos fijó con fecha 29 de marzo de 1999, el valor provisional de la indemnización en la cantidad de $7.422.850. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
