@@ -1,0 +1,21 @@
+LLAMA A INSCRIPCION PARA LA TERCERA OPORTUNIDAD DE POSTULACION AL SUBSIDIO HABITACIONAL DEL SISTEMA DE AHORRO Y FINANCIAMIENTO DE LA VIVIENDA, Y A INSCRIPCION EXTRAORDINARIA PARA LA ATENCION DE DAMNIFICADOS POR LOS SISMOS DE MARZO DE 1985, Y FIJA NUMERO DE SUBSIDIOS A OTORGAR EN CADA CASO Y SU DISTRIBUCION REGIONAL
+
+Santiago, 11 de Abril de 1985.- Hoy se resolvió lo que sigue:
+
+No. 1.081 exenta.- Visto: El DS No. 74 (V. y U.), de 1984 que regula el otorgamiento de Subsidio Habitacional para el Sistema de Ahorro y Financiamiento de la Vivienda, y sus modificaciones, y en especial lo dispuesto en sus artículos 3°, 7°, 20, 21, y 1° y 3° transitorios, y el DS No. 55 (V. y U.), de 1985, dicto la siguiente,
+
+Resolución:
+
+1°.- Llámase a inscripción para la tercera oportunidad de postulación al Subsidio Habitacional del Sistema de Ahorro y Financiamiento de la Vivienda, de conformidad a las disposiciones del DS No. 74 (V. y U.), de 1984 y sus modificaciones, y en especial, a las del artículo 1° transitorio del decreto antes mencionado.
+
+2°.- Llámase asimismo a inscripción extraordinaria de postulantes para el Sistema de Ahorro y Financiamiento de la Vivienda, a los damnificados por los sismos acaecidos en el mes de Marzo de 1985, de conformidad a las disposiciones del DS No. 55 (V. y U.), de 1985. Para estos efectos se entenderán por damnificados las personas que tuvieren la calidad de propietarios o de arrendatarios de una vivienda ubicada en alguna de las comunas de las regiones Metropolitana, V, VI o de las provincias de Curicó y Talca de la VII Región, que hubiere resultado totalmente destruida o que hubiere sido necesario demoler a consecuencia de los sismos acaecidos en el mes de Marzo de l985.
+
+3°.- Fíjase en la cantidad de 2.000 (dos mil) el número de Certificados de Subsidio Habitacional que se otorgarán en el llamado a inscripción para la tercera oportunidad de postulación, dispuesto en el número 1° de la presente resolución; y en la cantidad de 1.000 (un mil) el número de Certificados de Subsidio Habitacional que se otorgarán a los damnificados por los sismos acaecidos en el mes de Marzo de 1985 en el llamado extraordinario a inscripción dispuesto en el número 2° de la presente resolución, incluyendo en estas cifras los Certificados que se extiendan por el equivalente a cero Unidades de Fomento de subsidio directo.
+
+4°.- La selección para la asignación de los 3.000 Subsidios Habitacionales a que se refieren los números anteriores se efectuará por regiones, y la distribución regional por tipos o tramos de crédito solicitado se efectuará en forma directamente proporcional a la cantidad de postulantes en cada uno de ellos, conforme lo dispone el inciso primero del artículo 7° del DS No. 74 (V. y U.), de 1984. En el llamado a que se refiere el número lo de esta resolución regirá lo dispuesto por el artículo 4° transitorio del DS No. 74 (V. y U.), de 1984, agregado por DS No. 55 (V. y U.), de 1985.
+
+5°.- Durante un período de 14 días corridos, que se extenderá desde el 15 de Abril de 1985 y hasta el 28 de Abril de 1985, ambas fechas inclusive, los SERVIU entregarán los formularios y demás antecedentes necesarios a los interesados para los llamados a postulación que dispone la presente resolución, y les proporcionarán toda la información que éstos requieran sobre la materia. En virtud de lo dispuesto en el artículo 21 del DS No. 74 (V. y U.), de 1984, establécese que sólo durante este período podrá acreditarse ante el SERVIU respectivo la disponibilidad de sitio en las condiciones y para los efectos previstos en el artículo 3° transitorio del DS No. 74 (V. y U.), de 1984 y en el artículo 3° del DS No. 55 (V. y U.), de 1985.
+
+6°.- Los SERVIU mantendrán abiertas las inscripciones para postular a los llamados al Subsidio Habitacional que dispone la presente resolución, entre el 29 de Abril de 1985 y el 12 de Mayo de 1985, ambas fechas inclusive, período durante el cual proceder n a la recepción de las solicitudes de postulación y documentos que deben acompañarla.
+
+Anótese, publíquese en el Diario Oficial y archívese. Miguel A. Poduje Sapiaín, Ministro de Vivienda y Urbanismo. Lo que transcribe a US. para su conocimiento.- Dios guarde a US.- Luis Salas Romo, Subsecretario de Vivienda y Urbanismo.
