@@ -1,0 +1,3 @@
+Por resolución Nº 2.345, de 19 de noviembre de 2001, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 2.313 de 2001, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del Proyecto FIP Nº 2001-21 denominado "Evaluación de reclutamiento de merluza de cola, año 2001", aprobado por esta Subsecretaría, en el sentido de reemplazar la nave "Saint John" por la nave "Bronco", ambas de propiedad de Pesquera El Golfo S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 19 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
