@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES DE INMUEBLES QUE INDICA; NOTIFICACION
+
+Resolución 563, 13 septiembre 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en el sector "25 de Octubre" aledaño a Estación de Ferrocarriles del Estado, Roles de Avalúo Nºs. 11-059 y 11-060, comuna de San Rosendo, superficie 1.123,50 m². de terreno, dentro polígono y linderos señalados plano expropiación S8R-19213; de aparente dominio de Inmobiliaria Nueva Vía S.A., para ejecución programa de construcción viviendas en comuna de San Rosendo, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Víctor Felipe Toledo Quijada, arquitecto; Alvaro Hernán Berríos San Martín, arquitecto; y Roxana Cecilia Abarzúa Gajardo, ingeniero constructor, según informe de fecha 17 de agosto de 2004, fijó monto provisional indemnización en $3.590.706.-, pagadera de contado.
+
+Director Serviu Región del BÍo Bío.
