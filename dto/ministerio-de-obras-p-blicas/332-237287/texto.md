@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N° 332, de 17 de Mayo de 1996, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno N°s 0, 1 y 1-A, para la obra Camino Acceso Norte a Concepción Kms. 0.002 al 0.226,7 que figuran a nombre de Oscar Contreras Navarrete, Teodoro García Damann y Ot. y Andrés Castillo Gajardo, roles de avalúos 2218-25, 2218-10 y 2218-19, Comuna de Chillán, VIII Región, superficies 86.329 M2., 34.472 M2. y 900 M2. La Comisión de Peritos compuesta por los señores Jaime García Molina, Pablo Carrillo Valenzuela y Luis Abarzúa Ceballos, fijó con fecha 5 de diciembre de 1995, el valor provisional de la indemnización en las cantidades de $36.618.180, para el lote N° 0;
+
+$15.399.680, para el lote N° 1 y $198.000, para el lote N° 1-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
