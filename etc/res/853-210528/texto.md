@@ -1,0 +1,3 @@
+Por resolución Nº853, de 17 de abril de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Mississipi, X Región, individualizada en el artículo 1º, letra e), del D.S. Nº38 de 2001, modificado por el decreto exento Nº158 de 2002, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES DE MISSISSIPI.
+
+Valparaíso, 17 de abril de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
