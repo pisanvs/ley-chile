@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.890, de 30 de noviembre del 2001, se expropiaron los lotes de terreno Nºs. 126-H, 126-I, 126-J y 126-K, superficies 207, 180, 112 y 185 m², rol de avalúo 1404-68, comuna de Puerto Varas, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector C.S. Puerto Varas Poniente Kms. 1.004,900 al 1.007,340, Décima Región y se acordó el valor de indemnización con su propietario Ganadera Línea Vieja Ltda., ascendente a la cantidad de $2.531.904.
+
+- Fiscal del Ministerio de Obras Públicas.
