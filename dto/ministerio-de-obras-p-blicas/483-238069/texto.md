@@ -1,0 +1,3 @@
+Por Decreto M.O. P. Nº 483, de 28 de junio de 1996, se expropiaron los lotes de terrenos N°s 19, 25, 31, 40, 41 y 41-A, superficies 178,50, 2.789, 60, 239,50, 325, 50, 110 m2 roles de avalúos 231-081, 229-105, en trámite, 229-102 y 229-68 comuna de Rengo, para la obra Camino Ruta H-521, Sector Ruta 5-Fundo El Rincón, por Lo De Lobos y se acordó precio de indemnización con sus propietarios, Oscar Rosalindo Cornejo Bravo, Leyla Cristina Cassis Mohor, María Emilia Lucavechi Molina y Clotilde Mercedes Bravo Canales, ascendentes a las cantidades de $323.078 para el lote Nº 19, $9.932.765 para el lote Nº 25 $878.148 para el lote Nº 31, $383.801 para el lote N° 40 $355.775 para el lote N°41 y $336.050 para el lote N°41-A.
+
+Fiscal del Ministerio de Obras Públicas.
