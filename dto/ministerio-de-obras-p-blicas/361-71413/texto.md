@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 361, de 21 de abril de 1997, y en base a la facultad otorgada por el Artículo 105 del Decreto MOP. Nº 294. de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 19 y 33, para la obra Camino Acceso Norte a Concepción, Km. 0.002 al 0.226,7, Km.
+
+3.329 al 3.523 y Km. 5.071 al 14.928, que figuran a nombre de Juan Gabriel Ortiz Ortega, y María González Fuentealba, roles de avalúo 2247-11 y 2252-13, comuna de Chillán, superficies 102 m2. y 7.604 m2. La comisión de peritos integrada por los señores Jaime García Molina, Pablo Carrillo Valenzuela y Luis Abarzúa Ceballos, fijó con fecha 5 de diciembre de 1995, los valores provisionales de las indemnizaciones en las cantidades de $18.870.- y $1.431.096.- Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
