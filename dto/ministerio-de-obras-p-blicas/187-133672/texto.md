@@ -1,0 +1,3 @@
+Por decreto MOP Nº187 de fecha 29 de enero de 1999, se expropió el lote de terreno Nº94, superficie 7.780 m2., rol de avalúo 851-18, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5, Tramo Chillán - Collipulli Sector 1 Km. 434.386,40 a Km. 436.788,50'', y se acordó el valor de indemnización con su propietario Héctor Hugo Espinoza Riquelme, la cantidad de $23.909.107.-
+
+Fiscal del Ministerio de Obras Públicas.
