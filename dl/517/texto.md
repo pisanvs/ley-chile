@@ -1,0 +1,1 @@
+Entrega a la Comisión que señala la dirección, administración y representación de la Asociación Nacional de Empleados de Servicio de Educación
