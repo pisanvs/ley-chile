@@ -1,0 +1,7 @@
+Por resolución Nº 39, de 10 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a EMPRESA PESQUERA EPERVA S.A., R.U.T. Nº 91.643.000-0, domiciliada en Santiago, para sustituir en el litoral de la I y II Región, la embarcación Mar Rojo, autorizada por resolución Nº 1.660, y la tercera nave en proyecto de construcción, autorizada por resolución Nº 782, ambas de 1989, de esta Subsecretaría, por una nave en construcción, la que podrá extraer los siguientes recursos hidrobiológicos, con cerco: Anchoa, Caballa, Jurel, Sardina común y Sardina. Asimismo, la interesada, podrá extraer con la nave antes referida, en el litoral de la III Región, los recursos hidrobiológicos indicados precedentemente.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+A partir de la fecha de inicio de operación de la embarcación en construcción a que se refiere el presente Extracto, quedará sin efecto la resolución Nº 782, de 1989, de esta Subsecretaría, que autorizó a Empresa Pesquera Eperva S.A., para ampliar actividades pesqueras en lo relativo a la autorización conferida para operar la tercera nave en construcción y la resolución Nº 1.660, de 1989, de esta Subsecretaría, que autorizó a la citada Empresa, para operar la embarcación Mar Rojo.
+
+Valparaíso, 10 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
