@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO Nº 505 EXENTO, DE 2000
+
+Por decreto exento Nº 505 de fecha 10 de noviembre de 2000 del Ministerio de Educación, se revoca el reconocimiento oficial del Centro de Formación Técnica La Frontera de Temuco, organizado por la Sociedad Educacional Alonso de Ercilla de la Frontera Limitada o Centro de Formación Técnica Alonso de Ercilla de La Frontera y elimínase a dicho centro del registro correspondiente en que se encuentra inscrito en el Nº 59.
+
+Por este mismo documento, se deroga el decreto exento Nº 185 del 21 de octubre de 1982, modificado por decreto exento Nº 15 del 18 de enero de 1984 y Nº 24 del 13 de enero de 1993, que autorizó el funcionamiento del Centro de Formación Técnica La Frontera de Temuco y resoluciones exentas Nº 718 del 12 de abril de 1983; Nº 949 del 7 de mayo de 1985; Nº 150 del 15 de enero de 1986; Nº 1.075 del 7 de mayo de 1986; Nº 1.005 del 13 de mayo de 1987; Nº 1.405 del 11 de mayo de 1989 y decreto exento Nº 234 del 12 de agosto de 1992, que aprobaron planes y programas de estudios de las carreras técnicas para el centro de formación técnica mencionado.
+
+Santiago, 30 de noviembre de 2000.- José Weinstein Cayuela, Subsecretario de Educación.
