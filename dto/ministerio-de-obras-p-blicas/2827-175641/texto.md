@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.827 de fecha 30 de junio de 2000, se expropió el lote de terreno Nº2-B, superficie 1.020 m2., Rol de avalúo 159-1, comuna de Pemuco, para la obra ''Camino Ruta N-85, Sector Cruce Long. (Gral. Cruz) - Pemuco, Tramo 0.000,00 a Km. 23.870.37'' y se acordó el valor de indemnización con su propietaria Dignorita Judit Mardones Mardones, ascendente a la cantidad de $444.214.
+
+- Fiscal del Ministerio de Obras Públicas.
