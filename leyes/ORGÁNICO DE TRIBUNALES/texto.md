@@ -160,7 +160,7 @@ De los Jueces de Distrito y de los Jueces de Subdelegación
 
 #### Artículo 14
 
-En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo los distritos del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de mil seiscientos ochenta escudos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de tres mil setecientos cuarenta escudos.
+En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo los distritos del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de cincuenta pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de cien pesos.
 
 Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 
@@ -244,7 +244,7 @@ A los jueces de distrito corresponden las atribuciones propias de ministro de fe
 
 En cada subdelegación de la República que no esté comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo las subdelegaciones del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
 
-1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de tres mil setecientos cuarenta escudos y no pase de siete mil cuatrocientos setenta escudos;
+1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de cien pesos y no pase de ciento cincuenta pesos;
 
 2°) En segunda instancia, de las causas de que conocieren en primera los respectivos jueces de distrito; y
 
@@ -254,7 +254,7 @@ Les corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 
 Lo dispuesto en este artículo regirá también en toda sección de subdelegación no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
 
-No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de mil seiscientos ochenta escudos.
+No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de cincuenta pesos.
 
 Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
@@ -318,15 +318,19 @@ Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcio
 
 Los jueces de letras de menor cuantía conocerán:
 
-1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de siete mil cuatrocientos setenta escudos;
+1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de ciento cincuenta pesos;
 
-2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de siete mil cuatrocientos setenta escudos y no sea superior a ciento cincuenta y dos mil doscientos escudos y
+2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de ciento cincuenta pesos y no sea superior a tres mil pesos y
 
-3.o) De los asuntos que otras leyes entreguen a su conocimiento.
+3.o) En única instancia, de los juicios de desahucio, restitución y demás que deriven del contrato de arrendamiento, cuya cuantía se determina por el monto de la renta para cada período de pago, cuando el valor de esa renta no exceda de ciento cincuenta pesos, y en primera instancia cuando pase de esa cantidad y no exceda de ochocientos pesos.
+
+En cuanto a los juicios de reconvenciones de pago regirá lo dispuesto en los N°s. 1° y 2°.
+
+4.o) De los asuntos que otras leyes entreguen a su conocimiento.
 
 Incisos derogados.
 
-Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de once mil doscientos diez escudos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
+Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de doscientos pesos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
 
 Los Jueces de Letras de Menor Cuantía no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
@@ -368,7 +372,7 @@ Si en la capital del departamento hubiere dos o más jueces letrados de menor cu
 
 Los jueces de letras de menor cuantía conocerán, además, de las siguientes materias:
 
-1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de ciento cincuenta y dos mil doscientos escudos.
+1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar.
 
 Pero si se promoviere contienda sobre el dominio del predio dominante o sirviente, o sobre la adquisición por prescripción u otro título de una manera especial de ejercer la servidumbre, se inhibirán de todo conocimiento.
 
@@ -380,9 +384,9 @@ Será competente para conocer de estos juicios el juez del lugar donde hubiere o
 
 3°) De las notificaciones de las actas de protestos de cheques a las personas domiciliadas en la respectiva jurisdicción.
 
-Si el valor del cheque excediere de ciento cincuenta y dos mil doscientos escudos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
+Si el valor del cheque excediere de tres mil pesos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
 
-4°) De las cuestiones civiles valorizables hasta ciento cincuenta y dos mil doscientos escudos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
+4°) De las cuestiones civiles valorizables hasta tres mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
 #### Artículo 39
 
@@ -442,7 +446,9 @@ El Presidente de la República, previo informe favorable de la misma Corte y oye
 
 Tanto los jueces del crimen a que se refiere el inciso primero, como los tribunales civiles a los cuales se fije un territorio jurisdiccional exclusivo, podrán practicar actuaciones en cualesquiera de los dos departamentos, en los asuntos sometidos a su conocimiento.
 
-Inciso derogado.
+Con el acuerdo previo de la Corte de Apelaciones de Santiago, y por no más de una vez al año, el Presidente de la República, oyendo al Consejo General del Colegio de Abogados, podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refieren los incisos primero y segundo.
+
+> **Nota.** El Art. 16 del Decreto Ley 1682, Justicia, publicado el 25.01.1977, derogó la letra b) del artículo 4° del decreto ley N° 744, de 1974, y declaró que el inciso final del artículo 43 del Código Orgánico de Tribunales, que a su vez había sido derogada por dicha disposición, mantiene su vigencia.
 
 #### Artículo 44
 
@@ -458,11 +464,11 @@ Los jueces de letras de mayor cuantía conocerán:
 
 1°) En única o en primera instancia, conforme al inciso final de este número:
 
-a) De las causas civiles sobre cosas cuyo valor exceda de siete mil cuatrocientos setenta escudos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de mil seiscientos ochenta escudos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
+a) De las causas civiles sobre cosas cuyo valor exceda de ciento cincuenta pesos; pero, tratándose de los juicios del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de cincuenta pesos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
 b) De las causas de comercio, con la misma salvedad de la letra precedente.
 
-Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de mil seiscientos ochenta escudos y las causas de comercio que no excedan de siete mil cuatrocientos setenta escudos y en primera todas las demás.
+Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de cincuenta pesos y las causas de comercio que no excedan de ciento cincuenta pesos y en primera todas las demás.
 
 2°) En primera instancia:
 
@@ -570,7 +576,7 @@ Las Cortes de Apelaciones
 
 #### Artículo 54
 
-Habrá en la República quince Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, Rancagua, Talca, Chillán, Concepción, Los Angeles, Temuco, Valdivia, Puerto Montt y Punta Arenas.
+Habrá en la República quince Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia, Puerto Montt, Coyhaique y Punta Arenas.
 
 #### Artículo 55
 
@@ -594,15 +600,15 @@ h) El de la Corte de Talca comprenderá el departamento de Constitución de la p
 
 i) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
 
-j) El de la Corte de Concepción comprenderá las provincias de Concepción y Arauco;
+j) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
 
-k) El de la Corte de Los Angeles comprenderá la provincia de Bío Bío y los departamentos de Angol y Collipulli de la provincia de Malleco;
+k) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín;
 
-l) El de la Corte de Temuco comprenderá las provincias de Cautín y Malleco, exceptuados de esta última los departamentos de Angol y Collipulli;
+l) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno;
 
-m) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Osorno;
+m) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue y Chiloé;
 
-n) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue, Chiloé y Aysen, y
+n) El de la Corte de Coyhaique comprenderá la provincia de Aysen, y
 
 ñ) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
 
@@ -612,7 +618,7 @@ Las Cortes de Apelaciones se compondrán del número de miembros que a continuac
 
 1° Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca y Chillán, Puerto Montt y Punta Arenas tendrán cuatro miembros;
 
-2° Las Cortes de Temuco y Valdivia tendrán cinco miembros;
+2° La Corte de Temuco tendrá cinco miembros;
 
 3° Las Cortes de Valparaíso y Concepción tendrán siete miembros, y
 
@@ -636,9 +642,9 @@ Las Cortes de Apelaciones tendrán el número de Relatores que a continuación s
 
 1°.- Las Cortes de Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Los Angeles, Puerto Montt y Punta Arenas tendrán un Relator;
 
-2°.- Las Cortes de Chillán y Valdivia tendrán dos Relatores.
+2°.- Las Cortes de Chillán, Temuco y Valdivia, dos relatores;
 
-3°.- Las Cortes de Valparaíso, Concepción y Temuco tendrán tres Relatores, y
+3°.- Las Cortes de Valparaíso y Concepción, tres relatores; y
 
 4°.- La Corte de Santiago tendrá diez Relatores.
 
@@ -652,13 +658,13 @@ La Corte de Apelaciones de Santiago tendrá dos secretarios. El tribunal reglar�
 
 Las Cortes de Valparaíso y Concepción se dividirán en dos salas de cuatro y tres ministros, respectivamente.
 
-La Corte de Santiago se dividirá en seis Salas de tres Ministros cada una, excepto la primera, la segunda y la tercera que se compondrán de cuatro Ministros.
+La Corte de Santiago se dividirá en seis salas de tres Ministros cada una, excepto la primera y la segunda, que se compondrán de cuatro Ministros. En caso de funcionamiento extraordinario en siete salas, la séptima sala se compondrá de dos Ministros y se integrará con un tercer miembro en conformidad a lo dispuesto en el artículo 62.
 
 Cada sala representa a la Corte en los asuntos de que conoce.
 
 La designación de los ministros que correspondan a cada sala se hará por sorteo anual.
 
-Para la constitución de las Salas de la Corte de Apelaciones de Santiago, se sortearán los miembros del tribunal, con excepción de su Presidente, que formará parte de la primera Sala por derecho propio.
+Para la constitución de las salas de la Corte de Apelaciones de Santiago, se sortearán los miembros del tribunal, con excepción de su Presidente, para quien la integración de la sala será facultativa y podrá hacerlo en cualquiera de ellas.
 
 #### Artículo 62
 
@@ -724,13 +730,11 @@ En las Cortes de Apelaciones que consten de más de una sala se formarán tantas
 
 En las tablas deberá designarse un día de la semana, a lo menos, para conocer de las causas criminales, y otro para conocer de los asuntos civiles de que hayan conocido los jueces de letras de menor cuantía, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
 
-Sin embargo, las apelaciones o las consultas relativas a la libertad provisional de los inculpados o reos en un mismo proceso, serán de la competencia de la Sala que haya conocido por primera vez de una de estas apelaciones o consultas.
-
-La misma regla se aplicará a las apelaciones que se deduzcan respecto del auto encargatorio de reo o de la resolución denegatoria.
+Sin embargo, los recursos de amparo, las apelaciones que se deduzcan en un mismo proceso respecto del auto declaratorio de reo de cualquiera de los inculpados de la resolución que no da lugar a pronunciarlo, o que acoge o rechaza la petición de modificarlo o dejarlo sin efecto, y las apelaciones o consultas relativas a la libertad provisional de esos inculpados o reos, serán de la competencia de la sala que haya conocido por primera vez de los recursos, apelaciones o consultas mencionados.
 
 Serán agregados extraordinariamente a la tabla del día siguiente hábil al de su ingreso al tribunal, o el mismo día, en casos urgentes: 1° las apelaciones y consultas relativas a la libertad provisional de los inculpados y reos; 2° los recursos de amparo; y 3° las demás que determinen las leyes.
 
-Serán agregadas también extraordinariamente las apelaciones de los autos de procesamiento que se refieran a reos privados de libertad, a la tabla del día que el Presidente de la Corte respectiva determine, dentro de un término que no podrá exceder de cinco días contados desde el ingreso de los autos a Secretaría.
+Se agregarán extraordinariamente, también, las apelaciones de las resoluciones relativas al auto de procesamiento señaladas en el inciso cuarto, en causas en que haya reos privados de libertad. La agregación se hará a la tabla del día que determine el Presidente de la Corte, dentro del término de cinco días desde el ingreso de los autos a la Secretaría del Tribunal.
 
 #### Artículo 70
 
@@ -1636,7 +1640,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema, deberá pagarse en estampillas un impuesto de trescientos setenta escudos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de diez escudos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de treinta pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de veinte pesos.
 
 #### Artículo 199
 
@@ -1762,9 +1766,9 @@ La integración de las salas de la Corte de Santiago se hará preferentemente co
 
 Si en una Sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las Salas de que se componga el Tribunal y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
 
-Se subrogarán recíprocamente las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Copiapó con la de La Serena; la de Santiago con la de Valpara�so; la de Rancagua con la de Talca; la de Chillán con la de Concepción; la de Los Angeles con la de Temuco, y la de Valdivia con la de Puerto Montt.
+Se subrogarán recíprocamente las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Copiapó con la de La Serena; la de Santiago con la de Valparaíso; la de Rancagua con la de Talca; la de Chillán con la de Concepción; la de Temuco con la de Valdivia, y la de Puerto Montt con la de Coyhaique.
 
-La Corte de Punta Arenas será subrogada por la de Puerto Montt.
+La Corte de Apelaciones de Punta Arenas será subrogada por la de Coyhaique.
 
 En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe ser subrogada.
 
@@ -1790,9 +1794,9 @@ Las ternas serán formadas tomando los nombres de una lista que, en el mes de Di
 
 Si no hubiere Colegio de Abogados, las listas serán formadas por las Cortes de Apelaciones respectivas.
 
-Estas listas se compondrán, para Santiago, de 40 nombres, y de 15 para las demás Cortes.
+Estas listas se compondrán, para Santiago, de cuarenta nombres; para Valparaíso y Concepción, de veinticinco, y de quince para las demás Cortes.
 
-Para la formación de las ternas de los abogados integrantes de la Corte Suprema, este tribunal tomará sus nombres de una lista de 45 abogados, que reúnan las condiciones exigidas en el inciso segundo, y que le será enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre en que termina el trienio respectivo.
+Para la formación de las ternas de los abogados integrantes de la Corte Suprema, este tribunal tomará sus nombres de una lista de 45 abogados, que reúnan las condiciones exigidas en el inciso tercero, y que le será enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre en que termina el trienio respectivo. Tanto el Consejo General como los Consejos Provinciales del Colegio de Abogados no podrán incluir en las listas a que se refiere este artículo a profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquier otra oportunidad.
 
 Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los otros dos componentes de la terna que formó la Corte Suprema en la oportunidad respectiva.
 
@@ -1806,9 +1810,7 @@ De la integración deberá dejarse testimonio en el respectivo proceso.
 
 #### Artículo 221
 
-Los Abogados que fueren llamados a integrar la Corte Suprema, percibirán de fondos fiscales una remuneración de trescientos cincuenta pesos por cada audiencia a que concurran.
-
-Esta remuneración será de doscientos cincuenta pesos para los que integren las Cortes de Apelaciones.
+Los abogados que fueren llamados a integrar la Corte Suprema, las Cortes de Apelaciones y las Cortes del Trabajo, percibirán una remuneración equivalente a una treintava parte de aquella asignada al cargo de los Ministros del respectivo tribunal por cada audiencia a que concurran.
 
 Los funcionarios judiciales llamados a integrar las Cortes de Apelaciones no percibirán remuneración de ninguna naturaleza por este concepto.
 
@@ -2262,7 +2264,7 @@ En la lista número uno se colocará a los funcionarios que además de tener mor
 
 En la lista número dos se incluirá a los funcionarios moralmente intachables, que cumplan satisfactoriamente los deberes y obligaciones de su cargo y sean eficientes y celosos en su desempeño.
 
-En la lista número tres, se incluirá a los funcionarios que no posean los requisitos para figurar en la lista número dos, que tengan moralidad intachable y cuyo desempeño funcionario sea solamente regular, y a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de algunas de las medidas disciplinarias de amonestación privada, censura por escrito, pago de costas o multa.
+En la lista número tres se incluirá a los funcionarios que no posean los requisitos para figurar en la lista número dos, que tengan moralidad intachable y cuyo desempeño funcionario sea solamente regular, y a los que en los meses que precedan al período en que se efectúa la calificación hubieren sido objeto de alguna de las medidas disciplinarias de censura por escrito, pago de costas o multas.
 
 En la lista número cuatro, se colocará a los funcionarios que no posean los requisitos para figurar en la lista número tres; a los funcionarios deficientes; a los que a juicio de la Corte Suprema, hubieren infringido alguna de las prohibiciones indicadas en los números 2° y 3° del artículo 323; a los que por dos años consecutivos hubieren figurado en la lista número tres y a los que en los meses que precedan al período en que se efectúa la calificación, hayan sido objeto de la medida disciplinaria de suspensión de sus funciones, cuando la falta cometida, a juicio de la Corte Suprema, sea de especial gravedad.
 
@@ -2354,9 +2356,7 @@ El fiscal podrá integrar el tribunal para los efectos de este artículo.
 
 Para proveer el cargo de ministro o fiscal de la Corte Suprema, este tribunal enviará al Presidente de la República una lista de cinco personas, en la que deberán figurar los dos miembros más antiguos de las Cortes de Apelaciones. Los otros tres lugares se llenarán en atención a los méritos de los candidatos pudiendo figurar personas extrañas a la Administración de Justicia.
 
-Los candidatos pertenecientes a la Administración de Justicia deberán, además, haber estado siempre incluidos en la lista número uno a que se refiere el artículo 275.
-
-Si alguno de los dos miembros más antiguos de las Cortes de Apelaciones no cumpliere este requisito, se dejará constancia de ello en la propuesta.
+Incisos derogados.
 
 #### Artículo 284
 
@@ -2822,7 +2822,7 @@ No tendrán derecho a licencia los funcionarios suplentes que entren a subrogar 
 
 Los funcionarios judiciales a quienes la ley no les acuerde el feriado establecido en el artículo 313, podrán obtenerlo, cada año por el término de un mes, siempre que no hayan usado licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiere obtenido esta clase de licencia, por un lapso inferior a su feriado, tendrá derecho a él por el tiempo necesario para enterarlo.
 
-No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni dos o más jueces de letras de un mismo departamento.
+No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni tampoco dos o más jueces de letras de un mismo departamento cuando ello perjudique al servicio, a juicio de la autoridad que debe conceder el feriado.
 
 Podrán acumularse no más de dos períodos de feriado.
 
@@ -3494,7 +3494,7 @@ El notario que ejerciere funciones de tal, fuera del departamento o territorio p
 
 #### Artículo 441
 
-El notario que faltare a las obligaciones que le señalan los números 8° y 9° del art. 401, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de setecientos cincuenta escudos a siete mil cuatrocientos setenta escudos.
+El notario que faltare a las obligaciones que le señalan los números 8° y 9° del art. 401, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de uno o dos sueldos vitales.
 
 #### Artículo 442
 
@@ -4172,7 +4172,7 @@ Los jueces de distrito y de subdelegación y los jueces de letras de mayor y de 
 
 1°) Amonestación verbal e inmediata;
 
-2°) Multa que no exceda de setenta escudos, ciento setenta escudos, setecientos cincuenta escudos o dos mil cincuenta escudos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
+2°) Multa que no exceda de un cuarto, medio, uno o dos sueldos vitales según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
 
 3°) Arresto que no exceda de veinticuatro o cuarenta y ocho horas, según se trate de un juez de distrito en el primer caso, o de un juez de subdelegación o de letras de menor cuantía en el segundo, y de cuatro días, si se trata de un juez de letras de mayor cuantía.
 
@@ -4188,7 +4188,7 @@ Podrán también los jueces de letras de mayor cuantía, para la represión o ca
 
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
 
-4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de mil seiscientos ochenta escudos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
+4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de un sueldo vital, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
 
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 
@@ -4240,7 +4240,7 @@ Las faltas o abusos de que habla el artículo anterior podrán corregirlos las C
 
 3°) Pago de costas;
 
-4°) Multa que no sea inferior a setecientos cincuenta escudos ni exceda de tres mil setecientos cuarenta escudos;
+4°) Multa que no sea inferior a medio sueldo vital ni exceda de tres sueldos vitales;
 
 5°) Suspensión de funciones hasta por cuatro meses. Durante este tiempo el funcionario gozará de medio sueldo.
 
@@ -4280,11 +4280,11 @@ Para la represión y castigo de las faltas que se cometieren ante la Corte Supre
 
 2°) Censura por escrito;
 
-3°) Multa que no exceda de tres mil setecientos cuarenta escudos;
+3°) Multa que no exceda de tres sueldos vitales;
 
 4°) Arresto que no exceda de ocho días.
 
-Este arresto será siempre conmutable en multa, en proporción de setecientos cincuenta escudos por cada día.
+Este arresto será siempre conmutable en multa, en proporción de medio sueldo vital por cada día.
 
 Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras de mayor cuantía, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
 
@@ -4356,13 +4356,13 @@ Todo recurso de queja deberá interponerse en el plazo fatal de cinco días. Est
 
 Para interponer un recurso de queja, el recurrente deberá consignar previamente en arcas fiscales una cantidad equivalente al 1% de la cuantía del negocio, con un máximo de un sueldo vital mensual, escala A) del departamento de Santiago.
 
-Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a la décima parte del mencionado sueldo vital, si el recurso se interpone ante la Corte Suprema o ante una Corte de Apelaciones, o a la vigésima parte de dicho sueldo si se interpone ante un Juez de Letras.
+Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a medio sueldo vital, si el recurso se interpone ante la Corte Suprema o ante una Corte de Apelaciones, o a la cuarta parte de dicho sueldo si se interpone ante un Juez de Letras.
 
 No regirá la exigencia de la consignación previa tratándose de los recursos de queja que incidan en negocios en que se litiga en papel común, ni respecto de los que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
 
 La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
 
-Si el recurso fuere desechado por un tribunal colegiado y por la unanimidad de sus miembros, el tribunal ordenará que la multa establecida en el inciso anterior se eleve al doble de la cantidad consignada.
+Si el recurso fuere desechado por un tribunal colegiado y por la unanimidad de sus miembros, el tribunal ordenará que la multa establecida en el inciso anterior se eleve al doble de la cantidad consignada y se condenará en las costas del recurso al recurrente cuando hubiere comparecido en él su contraparte.
 
 Respecto de los multas a que este artículo se refiere regirá también lo dispuesto en el artículo 252 del Código de Procedimiento Civil.
 
