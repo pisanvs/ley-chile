@@ -1,0 +1,7 @@
+EXTRACTO DECRETOS APROBATORIOS CONVENIOS ENTRE SERVICIOS DE SALUD QUE INDICA Y MUNICIPALIDADES QUE SEÑALA, SOBRE ASIGNACION DE RECURSOS A ESTABLECIMIENTOS ASISTENCIALES BAJO LA ADMINISTRACION MUNICIPAL
+
+Por decretos supremos N° 377 y N° 378, ambos de 24 de enero de 1994 del Ministerio de Salud, apruébanse los convenios celebrados con fecha 14 de diciembre de 1993 y 20 de diciembre de 1993, entre el Servicio de Salud Concepción-Arauco y la Municipalidad de Concepción y entre el Servicio de Salud Viña del Mar-Quillota y la Municipalidad de Viña del Mar respectivamente, sobre asignación de recursos a establecimientos asistenciales bajo la administración municipal, que complementan los convenios de traspaso de establecimientos asistenciales celebrados entre las mismas partes, respectivamente aprobados por los decretos supremos N° 725 y N° 728, ambos de 1987, del mismo Ministerio, incorporando en lo que les es aplicable, en el primer caso el Consultorio Urbano Boca Sur y en el segundo el Consultorio General Urbano Forestal Alto Las Torres.
+
+Los convenios que se aprueban por los presentes decretos empezarán a ejecutarse el día primero del mes siguiente al de la fecha de publicación del extracto de dichos decretos en el Diario Oficial.
+
+Otras disposiciones constan en convenios y decretos que se extractan.- Patricio Silva Rojas, Subsecretario de Salud.
