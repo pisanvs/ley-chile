@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA YADRAN SOCIEDAD LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 239 de 13 de Marzo de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Yadr n Sociedad Limitada, domiciliada en Santiago, para instalar y operar una planta procesadora de recursos hidrobiológicos en la localidad de Puerto Cisnes, XI Región, en las líneas de congelado, deshidratado, semi-deshidratado y conserva, en la que podr utilizar como materia prima erizo, jaiba, centolla, centollón, chorito, cholga, caracol, lapa, almeja, tollo, bacalao de profundidad, raya y congrio. La interesada deber efectuar el transporte de las especies desde su centro de abastecimiento hasta la planta elaboradora en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 13 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
