@@ -446,7 +446,7 @@ Desde el momento de la inscripción del pedimento su titular podrá efectuar tod
 
 Desde el momento de la inscripción de la manifestación su titular podrá efectuar todos los trabajos necesarios para reconocer la mina y para constituir la pertenencia. Si con motivo de esos trabajos necesita arrancar sustancias concesibles, se hará dueño de ellas.
 
-Si se ponen obstáculos por el dueño del predio superficial o por cualquiera otra persona para que el peticionario o el manifestante realicen los trabajos referidos, deberá el juez autorizar el auxilio de la fuerza pública, siempre que exista informe favorable del Servicio.
+Si se ponen obstáculos por el dueño del predio superficial o por cualquiera otra persona para que el peticionario o el manifestante realicen los trabajos referidos, deberá el juez autorizar el auxilio de la fuerza pública, siempre que exista informe favorable del Servicio. Con todo, el juez no autorizará el auxilio de la fuerza pública para realizar trabajos de reconocimiento de la mina en concesión minera ajena, respecto de cuya existencia el Servicio deberá dejar constancia en el informe.
 
 #### Artículo 54
 
@@ -594,11 +594,11 @@ En igual situación, el manifestante de fecha anterior o que se tenga por anteri
 
 #### Artículo 67
 
-Si un manifestante de fecha anterior o que se tenga por anterior, hace uso de la acción de los artículos 62 ó 63, y, en su caso, de la del inciso primero del artículo 66, y su oposición fuere rechazada, no podrá hacer valer posteriormente la acción de nulidad del número seis o siete, en su caso, del artículo 95.
+Si un manifestante de fecha anterior o que se tenga por anterior deduce acción de oposición invocando la causal segunda del artículo 61, y su oposición fuera rechazada, no podrá hacer valer posteriormente la acción nulidad de los números seis o siete, en su caso, del artículo 95.
 
 #### Artículo 68
 
-Las oposiciones a que se refieren los artículos 61, N° 1, 62, 63 y 66, inciso primero, se tramitarán con arreglo al procedimiento señalado en el artículo 233. En el juicio se tendrá por demandante al opositor, y sólo será admisible como única defensa del demandado la de que su solicitud de mensura no abarca los terrenos comprendidos en el pedimento, en la concesión de exploración o en la solicitud de mensura en que se funda la acción.
+Todas las oposiciones a que se refiere el artículo 61 se tramitarán con arreglo al procedimiento señalado en el artículo 233. En el juicio se tendrá por demandante al opositor, y sólo será admisible como única defensa del demandado la de que su solicitud de mensura no abarca los terrenos comprendidos en el pedimento, en la concesión de exploración o en la solicitud de mensura en que se funda la acción.
 
 Cualquiera otra defensa y toda excepción perentoria que puedan corresponder al demandado sólo podrán hacerse valer por éste, como acciones, en juicio separado.
 
@@ -614,15 +614,15 @@ Lo dispuesto en el inciso anterior será aplicable al caso en que una sentencia 
 
 #### Artículo 70
 
-Desde que quede presentada una demanda de oposición conforme al artículo 61, y hasta que quede ejecutoriada la correspondiente sentencia, las partes no podrán paralizar el juicio por más de tres meses. Si transcurre este término sin que alguna de ellas practique cualquiera diligencia útil destinada a dar curso progresivo a los autos, cualquiera persona podrá solicitar que se declare, con sólo el mérito del certificado del secretario, la caducidad de los derechos de ambas partes, y que se ordene cancelar las inscripciones respectivas.
+Desde que quede presentada una demanda de oposición conforme al artículo 61, y hasta que quede ejecutoriada la correspondiente sentencia, las partes no podrán paralizar el juicio por más de tres meses. Si transcurre este término sin que alguna de ellas practique cualquiera diligencia útil destinada a dar curso progresivo a los autos, cualquiera persona podrá solicitar que se declare, con sólo el mérito del certificado del secretario, la caducidad de los derechos de ambas partes, y que se ordene cancelar las inscripciones respectivas. Con todo, la caducidad no afectará en caso alguno la concesión para explorar y a la pertenencia, ya constituidas.
 
-Desde que quede ejecutoriada la sentencia que pone término al juicio de oposición, fundado en la causal segunda del artículo 61, y hasta que se dicte la respectiva sentencia constitutiva, ninguno de los que fueron parte en él y haya obtenido el reconocimiento del derecho a mensurar, podrá paralizar por más de tres meses los trámites de constitución de su pertenencia o pertenencias. Si transcurre este término sin que el respectivo interesado practique alguna diligencia útil destinada a ese efecto, cualquiera persona podrá solicitar que se declare la caducidad a que se refiere el inciso anterior, en la forma y con los alcances allí indicados.
+Desde que quede ejecutoriada la sentencia que pone término al juicio de oposición, y hasta que se dicte la respectiva sentencia constitutiva, ninguno de los que fueron parte en él y haya obtenido el reconocimiento del derecho a mensurar, podrá paralizar por más de tres meses los trámites de constitución de su pertenencia o pertenencias. Si transcurre este término sin que el respectivo interesado practique alguna diligencia útil destinada a ese efecto, cualquiera persona podrá solicitar que se declare la caducidad a que se refiere el inciso anterior, en la forma y con los alcances allí indicados.
 
 Cualquier interesado podrá pedir que se notifique al ingeniero o perito para que entregue el acta y plano al juez, para lo cual dicho ingeniero o perito tendrá el plazo que el tribunal señale.
 
 Mientras no se haga uso del derecho a pedir la caducidad, podrá en cualquier tiempo continuarse la tramitación; pero el derecho a pedir la caducidad por la paralización ya producida subsistirá hasta que quede ejecutoriada la sentencia que puso término al juicio o se dicte la sentencia constitutiva, en su caso.
 
-Contra la sentencia que se pronuncie acerca de la caducidad procederán los mismos recursos que contra una sentencia definitiva.
+Contra la sentencia que se pronuncie acerca de la caducidad procederán los mismos recursos que contra una sentencia definitiva. La apelación en contra de la sentencia que deseche la solicitud de caducidad se concederá en el solo efecto devolutivo.
 
 Sección 2a
 
@@ -647,6 +647,8 @@ Para los efectos de lo dispuesto en el número sexto del artículo 95, se presum
 El perito no podrá en caso alguno abarcar con la mensura terrenos ya mensurados, aun cuando el acta de la mensura de estos últimos no se haya levantado todavía.
 
 La operación de mensura podrá abarcar todo o parte del terreno cuya mensura se solicitó, pero, en ningún caso, terrenos situados fuera del perímetro indicado en dicha solicitud. Para este efecto, podrá reducirse el número de pertenencias, la superficie de una o más de ellas, o ambas cosas.
+
+Los ingenieros o peritos encargados de la mensura quedarán afectos, en el desempeño de sus cargos, a las responsabilidades civiles y criminales que correspondan.
 
 #### Artículo 74
 
@@ -718,9 +720,9 @@ Si el informe del Servicio señala que se ha producido alguna de las situaciones
 
 Cada uno de los afectados podrá, dentro del plazo de treinta días, contado desde la fecha de la publicación, presentarse en el expediente del interesado oponiéndose a la constitución de la pertenencia o pertenencias de éste.
 
-La oposición será rechazada de plano, si no se acompaña a ella copia auténtica de la solicitud de mensura o del acta de mensura, en su caso, y del plano respectivo.
+La oposición será rechazada de plano, si no se acompaña a ella copia auténtica de la solicitud de mensura o del acta de mensura, en su caso, y del plano respectivo, si la ley, en su oportunidad, hubiere hecho obligatorio levantarlo.
 
-La oposición se tramitará con arreglo al procedimiento señalado en el artículo 233, y se tendrá al opositor por demandante. El informe del Servicio servirá de base de presunción judicial.
+La oposición se tramitará con arreglo al procedimiento señalado en el artículo 233, y se tendrá al opositor por demandante. El informe del Servicio servirá de base de presunción judicial, y corresponderá al demandado probar que el terreno abarcado por la mensura de sus pertenencias no se encuentra en todo o parte ocupado por la o las pertenencias del opositor o, en su caso, que se han extinguido los derechos de las partes al terreno en que se ha alegado la preferencia.
 
 En este juicio al demandado le será aplicable lo dispuesto en el artículo 70.
 
@@ -860,7 +862,7 @@ Sólo son causales de nulidad de una concesión minera, las siguientes:
 
 Las acciones de nulidad establecidas en los números 1° a 7° del artículo anterior, se extinguen por prescripción en el plazo de cuatro años, contados desde la fecha de la publicación del extracto a que se refiere el artículo 90.
 
-Transcurrido el mismo plazo, tampoco podrá impugnarse la inscripción de la sentencia constitutiva de la concesión.
+Transcurrido el mismo plazo, tampoco podrán impugnarse la publicación del extracto a que se refiere el artículo 90 ni la inscripción de la sentencia constitutiva de la concesión.
 
 Cumplida la prescripción, la concesión queda saneada de todo vicio y además se entiende que la sentencia y su inscripción han producido siempre los efectos que, para cada una de éstas, señala el artículo 91. La sentencia que, en los casos de los números 6° y 7° del artículo anterior, declare la prescripción de la acción de nulidad a que dichos números se refieren, también declarará extinguida la pertenencia afectada por la superposición.
 
@@ -2063,6 +2065,8 @@ En virtud de lo establecido en el inciso segundo de la segunda disposición tran
 Las pertenencias constituidas sobre nitratos y sales análogas que se encuentran vigentes, subsistirán como tales y, para todos los efectos legales, se regirán por las disposiciones de este Código en lo que ellas le sean aplicables, pero la obligación establecida en el artículo 142 sólo será exigible, a su respecto, desde el 1° de marzo de 1989.
 
 Los titulares de las concesiones y solicitudes de concesiones a que se refiere la parte final del inciso primero y el inciso segundo del artículo 2° transitorio, no estarán afectos a la obligación de pagar la tasa de manifestación a que se refiere el artículo 51, con ocasión de la correspondiente manifestación o manifestaciones.
+
+> **Nota.** NOTA: 2 El artículo 1° del Decreto N° 141, de Minería, publicado en el "Diario Oficial" de 25 de febrero de 1989, dispuso que el pago de la primera patente anual a que se refiere el inciso primero del presente artículo, se efectuará conforme a lo dispuesto en los artículos 142 y y siguientes de este Código, siéndole aplicable a este pago, el inciso primero del artículo 56 de su Reglamento sin necesidad de figurar en alguna de las nóminas mencionadas en el artículo 58 del mismo. El artículo 2° del citado decreto supremo, dispone que, con la información proporcionada por el Servicio de Tesorerías, el Servicio Nacional de Geología y Minería confeccionará el rol de las pertenencias sobre nitratos y sales análogas respecto de las cuales se haya hecho exigible la obligación de pago de patente, establecida en el presente artículo transitorio.
 
 TITULO FINAL
 
