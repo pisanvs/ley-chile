@@ -1,0 +1,29 @@
+COMPLEMENTA INSTRUCCIONES DE LA CIRCULAR
+
+Nº 3, DE 6 DE MAYO DE 1985, RELATIVAS AL SISTEMA DE DEVOLUCION ANTICIPADA DE IVA ESTABLECIDO EN EL ARTICULO 6º DEL DS Nº 348, DE 1975, DEL MINISTERIO DE ECONOMIA, FOMENTO Y RECONSTRUCCION
+
+(Circular Nº 60)
+
+El Servicio de Impuestos Internos, por Circular Nº 60, de 17 de Noviembre de 1986, expresa lo siguiente:
+
+Por Circular Nº 23, de 06 de Mayo de 1985, en el Capítulo VI se dieron instrucciones sobre el nuevo texto del artículo 6º del Decreto Supremo Nº 348 del Ministerio de Economía, Fomento y Reconstrucción, considerando las modificaciones introducidas por los Decretos Supremos Nºs. 36 y 65 ambos de 1985, del mismo Ministerio.
+
+El mencionado artículo 6º estableció un sistema de devolución anticipada del Impuesto al Valor Agregado, para aquellas personas que realicen inversiones con el objeto de exportar, según autorización previa del Ministerio de Economía, Fomento y Reconstrucción.
+
+En la citada Circular se indicó que respecto de los remanen tes de crédito fiscal acumulados al 10 de Marzo de 1985 fecha de vigencia del artículo 6º podría solicitarse su devolución siempre que estos saldos no correspondieran a ventas internas. Asimismo, se hizo presente que el sistema de devolución anticipada es incompatible con aquel que contiene el artículo 1º del Decreto Supremo 348.
+
+Al respecto, por la presente Circular se complementan y precisan las instrucciones mencionadas, en el siguiente sentido:
+
+1.- En consideración a que tanto la devolución normal reglamentada en el artículo 1º del Decreto Supremo 348, como la contenida en el artículo 6º, se basan en la misma disposición legal, esto es, el artículo 36º del decreto ley 825, deben ser coincidentes en términos generales en cuanto a su objeto y espíritu.
+
+2.- Atendido lo sostenido precedentemente, debe concluirse que si a la persona que efectúa exportaciones, acogidas a las normas del artículo 1º del Decreto 348 y además tiene ventas internas, sólo se le permite la devolución del impuesto sin límite respecto de la parte proporcional que corresponda a sus exportaciones, es lógico inferir que aquella otra persona que se encuentra autorizada a la devolución anticipada del artículo 6º, no puede tampoco recuperar en esta forma los créditos fiscales que correspondan a ventas internas, como tampoco aquellos que resulten como remanentes de estas mismas operaciones.
+
+3.- No obstante lo anterior, como los contribuyentes acogidos al citado artículo 6º aún no están en condiciones de exportar, se encuentran imposibilitados de utilizar el procedimiento de recuperación proporcional de los créditos, en el evento que efectúen ventas internas, como lo hacen las personas que quedan sujetas al régimen común cuando efectúan exporta ciones. Como esta situación derivaría en un trato discriminatorio en perjuicio de la persona acogida a la devolución anticipada, se ha permitido que estos contribuyentes separen con tablemente, y con la documentación respectivaq las operaciones ajenas al compromiso de exportación y que correspondan a ventas internas, con el objeto de excluirlas de la recuperación anticipada. Esta es la razón por la cual la Resolución Ex. Nº 643, de 1985, de este Servicio, contempla en la declaración jurada que deben presentar al Servicio de Tesorerías, los inversionistas acogidos al artículo 6º, la exigencia de señalar "el gravamen recargado en las facturas o documentos de adquisición o importación de bienes o utilización de servicios, contabilizados separadamente en el período tributario respectivo, y que se destinen exclusivamente a la exportación que se efectuará con motivo de la inversión de capital cuyo proyecto haya sido aprobado por el Ministerio de Economía, Fomento y Reconstrucción."
+
+4.- En otro orden de ideas, este Servicio ha sostenido que el sistema de devolución anticipada es incompatible con aquel que contempla el artículo 1º del Decreto Supremo 348, es decir que se utilicen simultáneamente los dos sistemas. Al respecto, se estima que si el contribuyente inicia regularmente el proceso de exportación -como cualquier otro exportador común- no tendría sentido que deba continuar separando sus operaciones internas, ya que cuenta con todos los elementos normales de cálculo de la devolución o recuperación mediante la proporcionalidad que señala el artículo 1º.
+
+5.- En consecuencia, al existir un compromiso de expor tación que sirvió de base para la autorización de la devolución anticipada, según debe constar en una Resolución fundada emitida por el Ministerio de Economía, Fomento y Reconstrucción, el contribuyente acogido al artículo 6º, del Decreto Supremo Nº 848, que desee realizar ventas internas, deberá solicitar previamente, al Servicio de Impuestos Internos, una autorización para llevar registros separados de todas las operaciones, tanto por las compras como de otros costos, gastos generales, etc., que digan relación con las ventas que efectúe dentro del país. El contribuyente que no cumpla con el registro separado de sus operaciones y, por consiguiente, no acredite fehacientemente la procedencia de sus créditos fiscales respecto de sus ventas internas, no tendrá derecho a la rebaja de éstos de los débitos fiscales, para los efectos del pago del impuesto.
+
+Por otra parte, cuando el contribuyente considere que ha iniciado su actividad normal de exportador, deberá solicitar al Servicio de Impuestos Internos acogerse al procedimiento de cálculo de recuperación del impuesto, que se aplica a los contribuyentes afectos al artículo 1º del Decreto Supremo 348, teniendo presente, no obstante, que la Resolución del Ministerio de Economía, Fomento y Reconstrucción que aprobó el proyecto de inversión, se mantendrá vigente hasta su total cumplimiento o derogación. El Servicio de Impuestos Internos comunicará esta autorización al Servicio de Tesorerías.-
+
+Francisco Fernández Villavicencio, Director.
