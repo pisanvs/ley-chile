@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 201, de 30 de marzo de 2001, se expropió el lote de terreno Nº 234, superficie 168 m2., rol de avalúo 247-78, comuna de Los Vilos, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Cuarta Región y se acordó el valor de indemnización con su propietaria Sociedad Turismo Las Vertientes Limitada, ascendente a la cantidad de $645.191.
+
+- Fiscal del Ministerio de Obras Públicas.
