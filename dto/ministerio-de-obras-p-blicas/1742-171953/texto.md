@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.742, de 28 de abril del 2000, se expropiaron los terrenos Nºs. 1, 2, 3 y 10, superficies 21,25; 665,50; 3.321,83 y 4.722,15 m², roles de avalúos 1018-27 y 1018-55, comuna de Puerto Natales, para la obra Mejoramiento Camino Acceso a Balmaceda, 72D340, Sector Puerto Natales - Balmaceda, Kms. 0.000 al 10.500,00 Ultima Esperanza y se acordó precio de las indemnizaciones con sus propietarios Ricardo Helmer Mansilla y Carmen Luisa Soto Martínez, ascendentes a las cantidades de $976.642, para los lotes Nºs. 1, 2 y 3 y $826.526, para el lote Nº 10.
+
+Fiscal del Ministerio de Obras Públicas.
