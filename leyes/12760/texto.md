@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Talca para contratar uno o más empréstitos que produzcan hasta la cantidad de $ 100.000.000 con el fin de atender a diversas obras de adelanto local; para su servicio prorroga los impuestos establecidos en el artículo 4° de la ley 10.054, de 22 de noviembre de 1951.
