@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 914 de fecha 30 de junio de 2004, se expropió el lote de terreno Nº 633, superficie 94 m2., rol de avalúo en trámite, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km . 3,00000 a Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietario Pedro Antonio Osorio Díaz, ascendente a la cantidad de $1.090.453.
+
+Fiscal del Ministerio de Obras Públicas.
