@@ -1,0 +1,3 @@
+Por resolución Nº 624, de 10 de abril del 2001, de esta Subsecretaría, modifícase el considerando tercero y el numeral 2 de la resolución Nº 124 de 2001 de esta Subsecretaría, que amplió el plazo a ALIMENTOS MARINOS S.A. para iniciar actividades pesqueras extractivas con la nave "Ordinat", en el sentido de señalar que el recurso hidrobiológico, objeto de la caducidad parcial allí declarada, es la Sardina española y no la Sardina común como allí erróneamente se señala.
+
+Valparaíso, 10 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
