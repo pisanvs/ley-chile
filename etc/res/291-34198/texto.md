@@ -1,0 +1,3 @@
+Por Resolución N° 291, de 9 de febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por ocho meses, a contar del 29 de septiembre de 1995, el plazo otorgado a SOCIEDAD PESQUERA CALETA PORTALES S.A., para iniciar las actividades pesqueras autorizadas por Resolución N° 812, de 1994, de esta Subsecretaría, en virtud de haberse acreditado la existencia de una fuerza mayor.
+
+Valparaíso, 9 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
