@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.962, de 16 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Puente Cucao, sector Camino Chonchi-Cucao, que figura a nombre de Lautaro Ulises Vera Alvarez, rol de avalúo 155-12, comuna de Chonchi, X Región, superficie 754,47 m². La Comisión de peritos, fijó con fecha 2 de diciembre de 1998, en la cantidad de $3.257.505. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
