@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº361 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº13, superficie 905,18 m2, Rol de Avalúo Nº1252-30, comuna de Parral, para la obra "Camino Ruta L-70, sector Cruce Ruta 128 - Cuatro Esquinas, tramo Km. 0,000 a Km. 15,800, comuna de Parral y Retiro, Provincia de Linares", VII Región y se acordó el valor de indemnización con su propietario Germán Muñoz Quiroz, ascendente a la cantidad de $2.783.609.-
+
+Fiscal del Ministerio de Obras Públicas.
