@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.976, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº73, superficie 690 m2., rol de avalúo 11-2, comuna de Río Hurtado, para la obra ''Camino Ruta D-595 Ovalle - Hurtado, Sector Tranque Recoleta - Samo Alto, Km. 9.780,00 a Km. 31.840,00, Etapa II'' y se acordó el valor de indemnización con su propietario Nelso Oriel Alvarez Taiba, ascendente a la cantidad de $1.325.060.-
+
+Fiscal del Ministerio de Obras Públicas.
