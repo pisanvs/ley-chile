@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 73 de 25 de Enero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Derechos de Adquisición; Sector Excluido y Reservas y Sectores Expropiados predios "Resto de El Molino", "Hijuela Segunda Potrero Nuevo", "Sección Nº 4 del Fundo El Molino", "Sección Número Tercera del Fundo El Molino" e "Hijuela Cuarta del Fundo La Purísima, hoy San Pedro", de la comuna de Teno, VII Región y Derechos Aprovechamiento Aguas que corresponden a parcelas Nºs. 1 a la 31, sitios Nºs. 2, 3, 5 al 35 y 41 al 46 y reserva CORA Nº 1 del Proyecto de Parcelación "El Molino" formado por predios señalados. Los derechos de aguas se extraen de los canales Graneros Ventana y Cerrillos, todos del Río Teno. Publicación hecha conforme Art. 13 Ley 18.377.-
+
+Director Ejecutivo.
