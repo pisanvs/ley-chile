@@ -1,0 +1,3 @@
+Por decreto MOP Nº775, de 31 de marzo de 1999, se expropiaron los lotes de terreno Nºs 2 y 3, superficies 3.732 y 440 m², respectivamente, roles de avalúo en trámite, comuna de Pelarco, para la obra: Camino El Manzano-La Isla Rol K-455, Sector Pte. La Isla y se acordó precio de indemnización con su propietaria Iris Rebeca Cáceres Fredes, ascendente a la cantidad de $775.685.
+
+Fiscal del Ministerio de Obras Públicas.
