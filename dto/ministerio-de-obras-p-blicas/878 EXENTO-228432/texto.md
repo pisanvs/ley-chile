@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 878, de fecha 30 de junio de 2004, se expropiaron los lotes de terreno Nº s 41, 45-A y 45-B, superficie 841, 621 y 306 m²., respectivamente, Rol Nº 54-21 y 54-20, comuna de San Fabián, VIII Región para la obra "Mejoramiento Ruta N-31, Bifurcación El Palo - San Fabián, Km. 26,60000 a Km. 41,32000" y se acordó el valor de indemnización con su propietaria Graciela de Jesús Istiart Mercado, ascendente a la cantidad de $2.450.587.
+
+- Fiscal del Ministerio de Obras Públicas.
