@@ -1,0 +1,3 @@
+Por resolución Nº434, de 1 de marzo de 2000, de esta Subsecretaría, déjase sin efecto la resolución Nº1.652, de 1999, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA COLOSO S.A., para ampliar actividades pesqueras extractivas con la nave ''Aventurero'', en virtud de lo dispuesto por la resolución Nº1.545, de 1999, de esta Subsecretaría.
+
+Valparaíso, 1 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
