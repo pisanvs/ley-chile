@@ -1,0 +1,3 @@
+Por decreto MOP Nº376 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº62, superficie 57 m2, Rol de avalúo 502-4 comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial-Las Camelias Tramo: Kms. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario Filomena del Carmen Sotomayor Prado, ascendente a la cantidad de $284.620.
+
+Fiscal del Ministerio de Obras Públicas.
