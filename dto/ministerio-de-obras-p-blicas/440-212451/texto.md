@@ -1,0 +1,3 @@
+Por decreto MOP Nº440 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº48-G, superficie 64,22 m2, Rol de Avalúo Nº557-119, comuna de Linares, VII Región, para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147" y se acordó el valor de indemnización con su propietaria Brunilda del Carmen Vásquez Latorre, ascendente a la cantidad de $3.741.952.
+
+- Fiscal del Ministerio de Obras Públicas.
