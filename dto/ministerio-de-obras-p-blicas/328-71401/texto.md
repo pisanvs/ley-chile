@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 328, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 1 y 3-B, superficies 1.317 y 1.470 M2., roles de avalúo 12.200-1 y 12.200-3, comuna de Pedro Aguirre Cerda, para la obra Interconexión Vial Panamericana Longitudinal Sur por General Velásquez, sector Pedro Aguirre Cerda-Ochagavía y se acordó precio de indemnización con sus propietarias Inversiones Henríquez S.A. e Inverzag S.A., ascendentes a las cantidades de $53.906.246. para el lote 1 y $57.633.408. para el lote 3-B.-
+
+Fiscal del Ministerio de Obras Públicas.
