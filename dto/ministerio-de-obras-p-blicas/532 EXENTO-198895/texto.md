@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 532 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 55, superficie 360,00 m², Rol de Avalúo Nº 70-26, comuna de Teno, para la obra ''Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, Km. 0,22000 a Km. 25,00000'' VII Región y se acordó el valor de indemnización con su propietaria Blanca Flor María Verdugo Canales, ascendente a la cantidad de $640.930.-
+
+Fiscal del Ministerio de Obras Públicas.
