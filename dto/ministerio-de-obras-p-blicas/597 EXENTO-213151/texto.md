@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 597 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 10-B, superficie 863,0 m2, Rol Nº 337-5, comuna de Loncoche, IX Región, para la obra "Camino Ruta 741 - Ruta 743 Acceso Huiscapi, sector Acceso Huiscapi, tramo Km. 0,010 al Km. 3,148" y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Loncoche, ascendente a la cantidad de $2.538.867.
+
+Fiscal del Ministerio de Obras Públicas.
