@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.736, de 28 de agosto de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº16 para la obra:
+
+''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco; Km. 679,20000 A Km. 688,10000, Novena Región, que figura a nombre de Niculeo Nancuche Dominga, rol de avalúo 3210-277, comuna de Padre Las Casas, superficie 996,0 m2. La comisión de peritos integrada por los señores Patricio Fernando Casagrande Ulloa, Yaschala Maribel Yáñez Riffo y Pablo Alex Mansilla Aravena, fijó con fecha 31 de enero de 2000, el valor provisional de la indemnización en la cantidad de $11.157.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
