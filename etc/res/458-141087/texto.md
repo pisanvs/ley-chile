@@ -1,0 +1,7 @@
+AUTORIZA A DOÑA MARINA OJEDA SOTO PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 458 de 09 de Mayo de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a doña Marina Ojeda Soto, RUT No. 6.253.030-8, domiciliada en la ciudad de Punta Arenas, Pasaje Esteban Scarpa No. 761, para iniciar actividades pesqueras, en orden a operar una planta industrial ubicada en su domicilio, donde procesará, en las líneas de elaboración de fresco-enfriado y ahumado, los siguientes recursos hidrobiológicos: Bacalao, brótula, congrio dorado, merluza del Sur, merluza de cola, merluza de tres aletas, pejerrey, róbalo, sierra, chancharro, raya, tollo, salmón del Pacífico, almeja, cholga, chorito, calamar, pulpo, navajuela, ostión del Sur, caracol piquilhue, loco, erizo, picoroco, centolla, centollón, langostino de los canales, jaiba y piure. El recurso salmón deberá provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Mayo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
