@@ -1,0 +1,3 @@
+Por resolución Nº 1.729 de 14 de agosto de 2002, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101002 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES ALGUEROS "LUZ Y FUERZA", para instalar y operar un centro de cultivo ubicado en Río Quenuir, X Región.
+
+Valparaíso, 14 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
