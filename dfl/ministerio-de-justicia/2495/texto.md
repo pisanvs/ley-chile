@@ -1,0 +1,7 @@
+TRASPASA AL DIRECTOR GENERAL DE BIBLIOTECAS LAS FUNCIONES QUE EL DECRETO-LEY NUMERO 425 CONFERIA AL ACUSADOR PUBLICO.
+
+Santiago, 10 de Septiembre de 1927.- Teniendo presente que por decreto número 426, de 28 de Febrero último, se suprimieron los cargos de Promotores Fiscales que, entre otras atribuciones, tenían las que le señalaba el decreto-ley número 425, de 20 de Marzo de 1925; que, desde aquella fecha esas funciones las continuó ejerciendo el Director General de Bibliotecas; que hay manifiesta conveniencia en que una misma oficina tenga el control de las publicaciones que se hagan en contravención a las prescripciones del citado decreto-ley, para lo cual es conveniente que los impresores envíen a la referida oficina los ejemplares de las publicaciones que se remitían a los Promotores Fiscales; que existe interés fiscal en que así se proceda, por cuanto las multas a que el decreto-ley se refiere, son a beneficio del Erario Nacional; y de acuerdo con la facultad que confiere al Presidente de la República la ley 4,156, de 4 de Agosto último, Decreto:
+
+1.o Traspásanse al Director General de Bibliotecas las funciones que el decreto-ley número 425, de 20 de Marzo de 1925, confería al acusador público; y 2.o Remítase el ejemplar que todo impresor debía entregar al acusador público, a la Visitación de Imprentas de la Biblioteca Nacional.
+
+Tómese razón, comuníquese, publíquese e insértese en el Boletín de las Leyes y Decretos del Gobierno.- C. IBAÑEZ C.- José Santos Salas.
