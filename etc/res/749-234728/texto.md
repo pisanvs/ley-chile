@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº749, 13 diciembre 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle 8 Oriente Nº103, Rol de Avalúo Nº2757-17, comuna Chiguayante, superficie 210,54 metros cuadrados de terreno y 82,72 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.464, de aparente dominio de Roa Mardones Novoa e Hijos, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", de la comuna de Chiguayante, conforme artículo 51 ley 16.391 y DL 2.186. Comisión peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, Víctor Toledo Quijada, arquitecto y Alvaro Berríos San Martín, arquitecto, según informe de fecha 6 de diciembre de 2004, fijó monto provisional indemnización en $30.203.120.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
