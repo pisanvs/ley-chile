@@ -1,0 +1,7 @@
+Por resolución Nº 573, de 24 de febrero de 2003, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA BORQUEZ LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Sector rural de Auchac s/Nº Quellón, X Región, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Cocido, Fresco-enfriado y Fresco refrigerado: Reineta, Róbalo, Pejerrey de mar, Bacalao de profundidad, Congrio colorado, Congrio dorado, Congrio negro, Jurel, Corvina, Merluza común, Merluza del sur, Merluza de cola, Raya, Salmón del Atlántico, Salmón plateado, Sierra, Tollo, Trucha arcoiris; Congelado: Reineta, Róbalo, Pejerrey de mar y Bacalao de profundidad; Conserva: Congrio colorado, Congrio dorado, Congrio negro, Jurel, Corvina, Merluza común, Merluza del sur, Merluza de cola, Raya, Salmón del Atlántico, Salmón plateado, Sierra, Tollo y Trucha arcoiris.
+
+La materia prima deberá provenir de pescadores artesanales e industriales, debidamente autorizados.
+
+Los recursos hidrobiológicos Salmón del Atlántico, Salmón plateado, Trucha arcoiris, deberán provenir de centros de cultivo autorizados.
+
+Valparaíso, 24 de febrero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
