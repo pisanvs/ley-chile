@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº287, de 29 de diciembre de 2000, se expropió el lote de terreno Nº14, superficie 134 m2., rol de avalúo 123-4, comuna de Punitaqui, para la obra Concesión Internacional Ruta 5. Tramo Los Vilos-La Serena, Sector C, Mantos de Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietario Federico del Rosario Pizarro Robles, ascendente a la cantidad de $746.156.-
+
+Fiscal del Ministerio de Obras Públicas.
