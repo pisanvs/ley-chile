@@ -1,0 +1,5 @@
+Por Decreto Alcaldicio N° 923 de fecha 26 de Octubre de 1994, de la I. Municipalidad de Peñaflor se dispuso la expropiación parcial, conforme al D.L. 2186 de inmueble ubicado entre calles Eusebio Lillo, hoy calle Primera Transversal, Manuel Guzmán Maturana y Gabriela Mistral, hoy calle Teniente Merino, de la comuna de Peñaflor, hoy Padre Hurtado, sin rol de avalúo, de aparente dominio de la Cooperativa de Viviendas "El Manzano Ltda", según inscripción que rola a fs. 397 vt.
+
+N° 601 Registro Propiedad año 1974 Conservador de Bienes Raíces de Talagante. Comisión Tasadora integrada por señores Carlos del Pedregal Sánchez, constructor civil, Sergio Rojas Ibáñez, ingeniero civil y Ricardo Carvallo Rodríguez, arquitecto, fijó monto provisional indemnización en la suma de $10.574.000 ($3.400 el metro cuadrado) más reajuste que proceda, que se pagará de contado.-
+
+Secretario Municipal.
