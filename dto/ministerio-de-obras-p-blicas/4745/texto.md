@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.745, de 27 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº8, para la obra Mejoramiento Zanjón de la Aguada III Tramo Kms. 4,408,86 al 10,167,10, que figura a nombre de Plásticos Unidos S.A., rol de avalúo 1001-25, comuna de San Joaquín, superficie 154,54 m². La Comisión de Peritos fijó con fecha 14 de diciembre de 1999, en la cantidad de $6.567.950. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
