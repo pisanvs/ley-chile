@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.930, de 31 de diciembre de 1998 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 13 para la obra Ruta 5, Tramo Talca-Chillán, Intersección Desnivelada Acceso a Longaví VII Región, que figura a nombre de Emp. FFCC. del Estado, rol de avalúo 90251-1, comuna de Longaví, superficie 2192 m².
+
+La Comisión de Peritos integrada por los señores, Fernando Pinochet de la Barra, Alberto Arnoldo Sánchez Muñoz y Mario Enrique Yáñez Vásquez, fijó con fecha 14 de agosto de 1998, el valor provisional de la indemnización en la cantidad de $12.713.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
