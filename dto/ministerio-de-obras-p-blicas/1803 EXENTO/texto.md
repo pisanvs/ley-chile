@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.803, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº 1, superficie 85 m2., rol de avalúo Nº 212-6, comuna de Curepto, VII Región, para la obra "Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco Curepto-Puente Lautaro Tramo Km. 46,180 al 83,91430" y se acordó el valor de indemnización con su propietario don Luis Antonio Arancibia Rojas, ascendente a la cantidad de $214.463.
+
+Fiscal del Ministerio de Obras Públicas.
