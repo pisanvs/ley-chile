@@ -1,0 +1,3 @@
+Por resolución Nº 2.181, de 20 de octubre de 1999, de esta Subsecretaría, recházase, conforme lo dispuesto en el artículo 14 del DS Nº 290 de 1993 del Ministerio de Economía, Fomento y Reconstrucción la solicitud de concesión de acuicultura Nº 96106075, presentada por DELFIN SEGUNDO CARCAMO BURGOS, para operar un centro de cultivo en San Juan de Chadmo, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 20 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
