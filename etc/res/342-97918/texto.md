@@ -1,0 +1,5 @@
+Por resolución Nº342 de 16 de marzo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA PESQUERA EPERVA S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Caleta Quiane s/n, Arica, I Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Harina y aceite de pescado: Agujilla, Merluza de cola, Merluza de tres aletas y Sardina española; Aceite de pescado: Bacaladillo o mote, Machuelo o tritre, Lisa, Pejerratas y Pejerrey de mar.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 16 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
