@@ -1,0 +1,7 @@
+Por resolución Nº 1028 de 27 de julio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, autorízase a PROCESADORA DE PRODUCTOS MARINOS LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Isla Toto, provincia de Aysén, comuna de Cisnes, XI Región, donde podrá procesar, en las líneas de elaboración que se señalan a continuación, los siguientes recursos hidrobiológicos: Conserva, Ahumado, Fresco-Refrigerado:
+
+Brótula, Congrio dorado, Congrio negro, Jurel, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Pejerrey de mar, Puye, Raya, Róbalo, Rollizo, Salmón del Atlántico, Sardina española, Sardina común, Sardina austral, Trucha arcoiris o Cabeza de acero, Turbot, Almeja o taca, Almeja, Caracol locate, Caracol palo palo, Caracol picuyo, Caracol piquilhue, Caracol rubio, Caracol tegula, Caracol trophon, Caracol trumulco, Culengue, Cholga, Choro, Chorito, Navaja de mar o Huepo, Lapa, Ostión del norte, Ostión del sur, Ostra chilena, Ostra del Pacífico, Pulpo, Jaiba, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba peluda o pachona, Jaiba reina, Jaiba remadora, Picoroco y Erizo.
+
+Los recursos Salmón del Atlántico, Trucha arcoiris, Turbot, Ostión del norte y Ostra del Pacífico, deberán provenir de centros de cultivos autorizados.
+
+Valparaíso, 27 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
