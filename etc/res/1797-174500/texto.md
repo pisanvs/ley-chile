@@ -1,0 +1,3 @@
+Por resolución Nº 1.797, de 14 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110510, presentada por PABLO ENRIQUE AGUILERA MARIN, para instalar y operar el centro de cultivo ubicado en Canal Chucao Nuevo, Isla Forsyth, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 14 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
