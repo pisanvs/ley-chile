@@ -1,0 +1,11 @@
+AUTORIZA A LA SOCIEDAD PESQUERA SAN ANTONIO S.A. PARA SUSTITUIR Y AMPLIAR ACTIVIDADES PESQUERAS. DEJA SIN EFECTO PARCIALMENTE RESOLUCION QUE INDICA. DENIEGA AUTORIZACION QUE SEÑALA
+
+Por resolución No.1.230, de 1º de Septiembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera San Antonio S.A., R.U.T. No.87.992.600-9, domiciliada en la ciudad de Santiago, para sustituir en el litoral de la VIII Región, en la captura de los recursos Anchoa, Caballa, Jurel y Sardina española, las embarcaciones denominadas "Ogri y "Vigri", autorizadas por la Resolución No.512, de 1985, de esta Subsecretaría, por la embarcación denominada "Seiko". Además la solicitante podrá capturar con la nave antes referida en el litoral de las Regiones que a continuación se indica, los siguientes recursos hidrobiológicos: a) Entre las Regiones VI a X, con Cerco: Agujilla y Merluza de cola.
+
+b) Entre las Regiones VI y VII y en las Regiones IX y X con Cerco: Anchoa, Caballa, Jurel, Sardina y Sardina común. c) Entre la VI Región y el paralelo 43º L.S., excluidas las correspondientes aguas interiores: Merluza de Tres aletas. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+A partir de la fecha de inicio de operación de la embarcación "Seiko", quedará sin efecto la autorización otorgada mediante la resolución No.512, de 1985, de esta Subsecretaría, en lo relativo a la operación de las naves "Ogri" y "Vigri", en el litoral de la VIII Región, para la captura de los recursos hidrobiológicos Anchoa, Caballa, Jurel y Sardina.
+
+Deniégase la autorización solicitada por el peticionario para operar con la nave antes referida, en el litoral comprendido entre la III y V Región. Asimismo, se deniega la autorización para la extracción de peces demersales en el litoral de mar exterior ubicado al Sur del paralelo 43º L.S. y en aguas interiores de la X Región, atendido el estado de plena explotación de esta pesquería.
+
+Valparaíso, 1º de Septiembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
