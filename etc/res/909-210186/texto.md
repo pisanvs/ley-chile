@@ -1,0 +1,3 @@
+Por resolución Nº 909, de 30 de abril de 2003, de esta Subsecretaría, autorízase a ANTARFOOD S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones citadas precedentemente, en orden a incorporar a la planta ubicada en Camino a Huicha S/Nº, Chonchi, Chiloé, X Región, en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Congelado: Camarón ecuatoriano, Camarón nailon, Langostino amarillo, Langostino colorado, Camarón de río y Camarón tigre.
+
+Valparaíso, 30 de abril de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
