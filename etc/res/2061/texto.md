@@ -1,0 +1,3 @@
+Por resolución Nº 2.061, de 11 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97103188, presentada por SINDICATO DE PESCADORES ARTESANALES BUZOS ALGUEROS RAMOS SIMILARES CHONCHI, para operar un centro de cultivo ubicado en Vilupulli, comuna de Chonchi, provincia de Chiloé, X Región.
+
+Valparaíso, 11 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
