@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº552 de fecha 30 de abril de 2002, se expropió el lote de terreno Nº2-D, superficie 195m², rol Nº1547-183, comuna de Los Angeles, para la obra ''Camino Los Amgeles - Santa Julia Km. 1.6, Sector Puente Paillihue, Km. 0,10000 al 0,41650'', y se acordó el valor de indemnización con su propietario Luis Enrique Pinto Garrido, ascendente a la cantidad de $244.131.-
+
+Fiscal del Ministerio de Obras Públicas.
