@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.396, de fecha 31 de julio de 2002, se expropiaron los lotes de terreno Nº57, 62 y 64-A, superficies 705, 1.250 y 128 m², rol de avalúo Nº212-36, comuna de Coelemu, para la obra ''Camino Ruta O-170, O-176, Sector Acceso a Guarilihue, Tramo I, Km. 0,00000 al 8,28000'', VIII Región y se acordó el valor de la indemnización con su propietario José Santos Cabrera Fuentealba y Otros, ascendente a la cantidad de $7.027.810.-
+
+Fiscal del Ministerio de Obras Públicas.
