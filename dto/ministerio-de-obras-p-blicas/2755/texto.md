@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.755, de 30 de diciembre de 1998, se expropió el lote de terreno Nº 200, superficie 4.077 m2, rol de avalúo 150-153, comuna de Lampa, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos y se acordó el valor de indemnización con sus propietarios Cristián Donoso Propiedades Limitada y otros, ascendente a la cantidad de $ 22.621.558.
+
+- Fiscal del Ministerio de Obras Públicas.
