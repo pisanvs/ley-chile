@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 464, de 30 de abril de 1997, se expropió el lote de terreno Nº 51, superficie 13.700 m2., rol de avalúo 334-199, comuna de Peñaflor, para la obra Camino Autopista Santiago - San Antonio, sector Empalme I. Riquelme - Bif. Malloco, y se acordó el valor de indemnización con su propietario Alfonso Reyes Ruiz, ascendente a la cantidad de $56.059.700.-
+
+Fiscal del Ministerio de Obras Públicas.
