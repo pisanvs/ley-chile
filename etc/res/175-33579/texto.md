@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION PARCIAL DE INMUEBLES QUE SEÑALA
+
+Resolución 175, 8 Septiembre 1995, Serviu Región del Bío Bío ordenó expropiación parcial, inmueble ubicado en comuna de Tomé, prolongación calle Ignacio Carrera Pinto, Sector Frutillar, Lote 2, Rol de Avalúos N° 43-15, comuna de Tomé, superficie 90 m2., dentro polígono y linderos señalados plano expropiación S8R-11193-E, de aparente dominio de doña Teresa del Carmen Garrido Veloso, para construcción colector aguas servidas, conforme artículo 51 Ley 16.391 y D.S. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 4 de agosto de 1995, fijó monto provisional indemnización en $1.914.500.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
