@@ -1,0 +1,3 @@
+Por Resolución Nº 134, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 610, de 1989, de esta Subsecretaría, que autorizó al SEMINARIO CONCILIAR DE ANCUD, para realizar actividades de cultivo en el establecimiento ubicado en Estero El Dique, Comuna de Ancud, Provincia de Chiloé, X Región, en virtud de la renuncia formulada por su titular.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
