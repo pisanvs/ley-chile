@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 62, de 27 de febrero de 1992, se expropiaron los lotes N°s. 47-b, 48 y 49, superficies 782,5 m2., 1.905 m2. y 1.774 m2., respectivamente, rol de avalúo 5004-70, Comuna de Coronel, para la obra Ampliación Ruta 160, Camino Concepción Coronel y se acordó precio de indemnización con sus propietarios Palou Amigo e Hijas Ltda., ascendente a la cantidad de $ 6.919.340.-
+
+Fiscal del Ministerio de Obras Públicas.
