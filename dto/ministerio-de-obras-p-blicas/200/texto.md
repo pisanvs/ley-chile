@@ -20,7 +20,7 @@ b) Ordenar la instrucción de investigaciones sumarias o sumarios administrativo
 
 c) Destinar, comisionar y encargar cometidos al personal dentro de la Dirección General de Obras Públicas;
 
-d) Contratar estudios, proyectos y ejecución de obras y resolver las modificaciones, liquidaciones y cancelaciones de los mismos conforme a las disposiciones legales y reglamentarias pertinentes.
+d) Contratar estudios, proyectos y ejecución de obras y resolver las modificaciones, liquidaciones y cancelaciones de los mismos conforme a las disposiciones legales y reglamentarias pertinentes y designar Comisiones receptoras de obras conforme al Reglamento para contratos de Obras Públicas.
 
 e) Ejecutar obras por administración directa o por administración delegada o trato directo o cotización privada en conformidad a las disposiciones legales y reglamentarias pertinentes;
 
@@ -82,7 +82,7 @@ c) Destinar, comisionar y encargar cometidos al personal dentro de sus respectiv
 
 d) Cumplir y hacer cumplir los Planes Anuales de Estudios y proyectos y de Ejecución de Obras;
 
-e) Contratar los estudios, proyección y ejecución de obras y resolver las modificaciones, liquidaciones y cancelaciones de los mismos, de acuerdo con el Reglamento;
+e) Contratar los estudios, proyección y ejecución de obras y resolver las modificaciones, liquidaciones y cancelaciones de los mismos, de acuerdo con el Reglamento y designar Comisiones receptoras de obras conforme al Reglamento para contratos de Obras Publicas;
 
 f) Ejecutar obras por administración directa o por administración delegada o trato directo en conformidad al reglamento;
 
