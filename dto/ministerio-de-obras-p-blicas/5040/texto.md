@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.040, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº32, superficie 184 M2, rol de avalúo 3800-282, comuna de Puente Alto, para la obra ''Mejoramiento Eje La Florida, El Peñón-Las Vizcachas, Sector Km. 6.980 a Km. 10.340, Camino Ruta G-25-Camino Puente Alto'' y se acordó el valor de indemnización con su propietario Esteban Emparanza Gunther, ascendente a la cantidad de $7.738.100.
+
+- Fiscal del Ministerio de Obras Públicas.
