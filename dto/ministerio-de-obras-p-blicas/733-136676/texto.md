@@ -1,0 +1,3 @@
+Por decreto MOP Nº733, de fecha 29 de marzo de 1999, se expropió el lote de terreno Nº109, superficie 587 m2, rol de avalúo 160-165, comuna de Pemuco, para la Obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli Sector 1 Km. 436.788,50 al Km. 440.611,50'', VIII Región y se acordó el valor de indemnización con su propietario Hernán Mendoza Solís, la cantidad de $1.082.694.-
+
+Fiscal del Ministerio de Obras Públicas.
