@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.799, de 31 de octubre del 2001, se expropió el lote de terreno Nº1, superficie 102 m2., rol de avalúo 1195-39, comuna de Maipú, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Av. Américo Vespucio-Semi Anillo Poniente Kms. 11.020,00 al 13.390,00, Región Metropolitana y se acordó el valor de indemnización con su propietaria María Sara Rodríguez Llona, ascendente a la cantidad de $2.915.997.
+
+- Fiscal del Ministerio de Obras Públicas.
