@@ -1,0 +1,3 @@
+Por Resolución N° 1.026, de 11 de agosto de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorróguese por el término de 5 meses a contar de la fecha de publicación de la presente Resolución el plazo otorgado al INSTITUTO DE FOMENTO PESQUERO, R.U.T. N° 61.310.000-8, para efectuar una pesca de investigación dirigida al recurso Raya (Raja spp.), autorizada mediante Resolución N° 12, de 1995, de esta Subsecretaría, en razón de haberse acreditado la existencia de fuerza mayor.
+
+Valparaíso, 11 de agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
