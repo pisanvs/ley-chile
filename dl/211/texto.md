@@ -1,0 +1,553 @@
+FIJA NORMAS PARA LA DEFENSA DE LA LIBRE COMPETENCIA
+
+Santiago, 17 de Diciembre de 1973.- Hoy se decretó lo que sigue:
+
+Núm. 211.- Teniendo presente:
+
+1° Que el monopolio y las prácticas monopólicas son contrarias a una sana y efectiva competencia en el abastecimiento de los mercados ya que mediante el control de la oferta o demanda es posible fijar precios artificiales y lesivos al interés del consumidor;
+
+2° Que tales actividades, por otra parte, no incentivan la producción; protegen al productor o distribuidor ineficiente; tienden a la concentración del poder económico y distorsionan el mercado en perjuicio de la colectividad;
+
+3° Que, por tanto, resulta necesario garantizar la libre concurrencia previniendo la existencia del monopolio y de las prácticas monopólicas y sancionando drásticamente su ejecución;
+
+4° Que, sin embargo, cierta producción de bienes y servicios puede o debe, en determinadas circunstancias, realizarse a través de organizaciones de estructura monopólica estatal, siempre que los fines perseguidos redunden en beneficio de la comunidad y su creación, funcionamiento y resguardos se prevean mediante una ley expresa;
+
+5° Que las normas destinadas a fomentar la libre competencia industrial y comercial que prevé el título V de la ley N° 13.305, modificado por la ley N° 15.142, si bien tienen mérito conceptual no contemplan una estructura orgánico-funcional que las haga operativas y eficaces en todo el país;
+
+6° Que en esta tarea de prevención de las actividades monopólicas para garantizar la libre y sana competencia es necesario incorporar al sector docente de la Universidad, a los productores y comerciantes y a la comunidad a través de sus representantes más calificados para estos fines;
+
+Vistos: las leyes N°s 13.305 y 15.142 y el decreto ley N° 1, de 11 de Septiembre de 1973; la Junta de Gobierno ha acordado lo siguiente:
+
+Decreto ley:
+
+> **Nota.** Ver DTO 511, Economía, Fomento y Reconstrucción, publicado el 27.10.1980, que fija el texto refundido, coordinado y sistematizado de este decreto ley.
+
+> **Nota.** NOTA 1: Ver DFL 1, Economía, Fomento y reconstrucción, publicado el 07.03.2005, que fija el nuevo texto refundido ,coordinado y sistematizado de este decreto ley.
+
+## Título I — -
+
+DISPOSICIONES GENERALES
+
+#### Artículo 1°
+
+El que ejecute o celebre, individual o colectivamente, cualquier hecho, acto o convención que tienda a impedir la libre competencia dentro del país en las actividades económicas, tanto en las de carácter interno como en las relativas al comercio exterior, será penado con presidio menor en cualquiera de sus grados.
+
+Cuando el delito incida en artículos o servicios esenciales, tales como los correspondientes a alimentación, vestuario, vivienda, medicina o salud, la pena se aumentará en un grado.
+
+#### Artículo 2°
+
+Para los efectos previstos en el artículo anterior se considerarán, entre otros, como hechos, actos o convenciones que tienden a impedir la libre competencia, los siguientes:
+
+a) Los que se refieran a la producción, tales como el reparto de cuotas, reducciones o paralizaciones de ellas;
+
+b) Los que se refieran al transporte;
+
+c) Los que se refieran al comercio o distribución, sea mayorista o al detalle, tales como el reparto de cuotas o la asignación de zonas de mercado o la distribución exclusiva, por una sola persona o entidad, de un mismo artículo de varios productores;
+
+d) Los que se refieran a la determinación de los precios de bienes y servicios, como acuerdos o imposición de los mismos a otros;
+
+e) Los que se refieran a la libertad de trabajo o a la libertad de los trabajadores para organizarse, reunirse, o negociar colectivamente, como los acuerdos o actos de empresarios, sindicatos u otros grupos o asociaciones, tendientes a limitar o entorpecer el libre curso de negociaciones colectivas dentro de cada empresa o los que impidan o entraben el legítimo acceso a una actividad o trabajo, y
+
+f) En general, cualquier otro arbitrio que tenga por finalidad eliminar, restringir o entorpecer la libre competencia.
+
+#### Artículo tercero
+
+Tratándose de personas jurídicas y sin perjuicio de la responsabilidad penal a que se hagan acreedores sus representantes legales o las personas naturales que por ellas obraron, podrá ordenarse la disolución de las sociedades, corporaciones y demás personas jurídicas de derecho privado.
+
+En caso de tratarse de una sociedad o de una agencia de una sociedad anónima extranjera, la sentencia que aplique la pena prevista en este artículo deberá ser inscrita en el Registro de Comercio respectivo y publicada, por una vez, en el Diario Oficial.
+
+#### Artículo cuarto
+
+No podrá otorgarse a los particulares la concesión de ningún monopolio para el ejercicio de actividades económicas tales como extractivas, industriales, comerciales o de servicios.
+
+Sólo por ley podrá reservarse a instituciones fiscales, semifiscales, públicas, de administración autónoma o municipales el monopolio de determinadas actividades como las señaladas en el inciso anterior.
+
+No obstante y siempre que el interés nacional lo exija, se podrá autorizar por decreto supremo fundado y previo informe favorable de la Comisión Resolutiva que se establece en el presente decreto ley, la celebración o el mantenimiento de aquellos actos o contratos que, referidos en los artículos precedentes, sean sin embargo necesarios para la estabilidad o desarrollo de las inversiones nacionales o se trate de actos o contratos en que sea parte alguna de las instituciones señaladas en los incisos primero y segundo del Art. 16 de la ley N° 10.336.
+
+#### Artículo 5°
+
+Sin perjuicio de lo establecido en la presente ley, continuarán vigentes las disposiciones legales y reglamentarias referidas a las propiedades intelectual e industrial, a la minería especialmente al petróleo, a la producción, comercio y distribución del salitre, yodo y cobre; las contenidas en el Código Sanitario; las contempladas en la Ley de Alcoholes y Bebidas Alcohólicas; las que regulan la creación y funcionamiento de las empresas de servicios públicos o municipales; las relativas a empresas bancarias y bolsas de valores; como también las que digan relación con los transportes, fletamentos y cabotajes, y crédito prendario.
+
+Igualmente quedarán en vigor las disposiciones legales y reglamentarias que confieren a las autoridades atribuciones relacionadas con el ejercicio de las actividades económicas, incluso aquellas que se refieren a la fijación de precios máximos y control de su cumplimiento.
+
+Con todo, no podrá establecerse ningún estanco, ni aún en virtud de los preceptos referidos en los dos incisos precedentes, sin previo informe favorable de la Comisión Resolutiva.
+
+La Comisión Resolutiva podrá solicitar la modificación o derogación de preceptos legales o reglamentarios, incluso los señalados en este artículo, en cuanto limitando o eliminando la libre competencia, los estime perjudiciales para el interés común.
+
+#### Artículo 6°
+
+Para la prevención, investigación, corrección y represión de los atentados a la libre competencia o de los abusos en que incurra quien ocupe una situación monopólica, aún cuando no fueren constitutivos de delito, habrá los siguientes Organismos y Servicio:
+
+a) Las Comisiones Preventivas Regionales;
+
+b) La Comisión Preventiva Central;
+
+c) La Comisión Resolutiva;
+
+d) La Fiscalía Nacional Económica.
+
+Todas las referencias que normas legales o reglamentarias hagan a las Comisiones Preventivas Provinciales, a la Fiscalía de la Defensa de la Libre Competencia y al Fiscal, se entenderán hechas a las Comisiones Preventivas Regionales, a la Fiscalía Nacional Económica y al Fiscal Nacional, respectivamente.
+
+## Título II — -
+
+DE LAS COMISIONES PREVENTIVAS REGIONALES Y CENTRAL
+
+#### Artículo 7°
+
+En cada capital de región existirá una Comisión Preventiva Regional, que estará integrada por las siguientes personas:
+
+a) El Secretario Regional Ministerial de Economía, que la presidirá;
+
+b) Un miembro designado por el Intendente Regional;
+
+c) Un profesional universitario designado por el Consejo de Regional;
+
+d) Un representante de las Juntas de Vecinos, elegido por los Presidentes de Juntas de Vecinos de la ciudad capital de la región, en reunión especialmente convocada al efecto por el correspondiente Fiscal Regional.
+
+El integrante mencionado en la letra a) precedente será reemplazado, en caso de ausencia o impedimento, por su subrogante legal. Respecto de los demás integrantes, deberá designarse un titular y un suplente, quienes permanecerán dos años en sus cargos.
+
+En ausencia del Presidente titular o suplente, la Comisión será presidida por el integrante que le siga en el orden de precedencia establecido en este artículo, que se encuentre presente.
+
+El quórum para sesionar será de tres miembros, a lo menos, y los acuerdos se adoptarán por simple mayoría. En caso de empate, decidirá el voto de quien presida.
+
+#### Artículo 8°
+
+Las Comisiones Preventivas Regionales tendrán las siguientes atribuciones y funciones:
+
+a) Absolver consultas acerca de los actos o
+
+contratos existentes que podrían infringir las
+
+disposiciones de la presente ley;
+
+b) Pronunciarse respecto de las consultas que se
+
+formulen sobre actos o contratos que se propongan ejecutar o celebrar en cuanto puedan alterar la libre competencia.
+
+c) Velar porque dentro de su respectiva jurisdicción se mantenga el juego de la libre competencia y no se cometan abusos de una situación monopólica, pudiendo conocer, de oficio o a petición de cualquiera persona, de toda situación que pudiera alterar dicho libre juego o constituir esos abusos, y proponer los medios para corregirla;
+
+d) Requerir de la Fiscalía la investigación de los actos contrarios a la libre competencia o que pudieren constituir abusos de una situación monopólica;
+
+e) Solicitar la colaboración de cualquier funcionario de los organismos o servicios públicos; de las empresas, entidades o sociedades en que el Estado tenga directa o indirectamente, aporte, representación o participación, y de las municipalidades;
+
+f) Resolver, a petición de la Fiscalía, las medidas preventivas de:
+
+1) Suspender, hasta por el término de quince días, la aplicación de convenios de reparto de cuotas de producción, de distribución y zonas de mercado o de cualquiera otra índole que pudieren configurar fundadamente alguna de las acciones descritas en los artículos 1° y 2°.
+
+Esta suspensión podrá ser renovada, por una sola vez e igual plazo, a requerimiento del Fiscal.
+
+2) Fijar dentro de su zona jurisdiccional precios máximos a los bienes y servicios objeto de investigación, por un plazo hasta de quince días, prorrogable por la propia Comisión en resolución fundada, por igual período, y
+
+g) A requerimiento del Fiscal, solicitar del Ministerio de Economía, Fomento y Reconstrucción o de cualquier otro organismo o servicio público el ejercicio de sus facultades reguladoras de la actividad económica, con carácter preventivo, a fin de impedir los efectos perjudiciales de los actos que se investigan.
+
+Si la materia sometida al conocimiento de la Comisión Preventiva Regional tuviere carácter nacional o se refiriese a más de una región, ésta deberá abstenerse de su conocimiento y enviar los antecedentes a la Comisión Preventiva Central.
+
+#### Artículo 9°
+
+De las decisiones y medidas acordadas por las Comisiones Preventivas Regionales y Central, se podrá reclamar ante la Comisión Resolutiva, dentro del plazo de tres días hábiles.
+
+Este recurso, que no suspenderá los efectos de las resoluciones reclamadas, se interpondrá ante la respectiva Comisión Preventiva Regional o Central que lo remitirá, informado, con los antecedentes que se hayan allegado, dentro de tercero día.
+
+La Comisión Resolutiva se pronunciará sobre la reclamación dentro del plazo de quince días, contado desde que reciba los antecedentes. Si no resolviere dentro de este plazo se entenderá acogido el reclamo.
+
+Lo dispuesto en el inciso anterior no regirá si la Comisión estima del caso abocarse al conocimiento del asunto, en virtud de sus propias atribuciones, con independencia de lo solicitado por el recurrente, lo que debe declarar así, previamente, disponiendo la audiencia de los afectados. En este caso, se suspenderán los efectos de la resolución reclamada.
+
+#### Artículo 10°
+
+La Comisión Preventiva Central estará integrada por:
+
+a) Un representante del Ministro de Economía, Fomento y Reconstrucción, que la presidirá;
+
+b) Un representante del Ministro de Hacienda;
+
+c) Dos profesores universitarios, abogado e
+
+ingeniero comercial, respectivamente, designados por el Consejo de Rectores, y
+
+d) Un representante de las Juntas de Vecinos, elegido por los Presidentes de Uniones Comunales de Juntas de Vecinos de la Región Metropolitana en reunión especialmente convocada al efecto por el Fiscal Nacional.
+
+Las autoridades y organismos respectivos deberán designar un representante titular y otro suplente, quienes permanecerán dos años en sus cargos.
+
+En ausencia del Presidente titular o suplente la Comisión será presidida por el integrante que le siga en el orden de precedencia establecido en este artículo, que se encuentre presente.
+
+El quórum para sesionar será de tres miembros, a lo menos, y los acuerdos se adoptarán por simple mayoría. En caso de empate, decidirá el voto de quien presida.
+
+#### Artículo 11°
+
+La Comisión Preventiva Central actuará como Comisión Preventiva para la Región Metropolitana de Santiago, con todas las atribuciones conferidas por el artículo 8°. Le corresponderá, especialmente, conocer de todos aquellos actos o situaciones que, comprendidos en dicho artículo, tengan carácter nacional o se refieran a más de una región.
+
+#### Artículo 12°
+
+En contra de las resoluciones de las Comisiones Preventivas Regionales y Central no procederá recurso administrativo ni judicial alguno, salvo el previsto en el artículo 9°.
+
+#### Artículo 13°
+
+Las resoluciones y acuerdos de las Comisiones Regionales y de la Comisión Central no obstan al ejercicio de sus atribuciones por la Comisión Resolutiva y por la Fiscalía, en su caso.
+
+#### Artículo 14°
+
+Los actos o contratos ejecutados o celebrados de acuerdo con las decisiones de las Comisiones Preventivas Regionales o Central no acarrearán responsabilidad sino en el caso que, posteriormente y sobre la base de nuevos antecedentes, sean calificados como contrarios a la libre competencia por ellas mismas o por la Comisión Resolutiva, y a partir desde que se notifique o publique la resolución que haga esta calificación.
+
+#### Artículo 15°
+
+Las Comisiones Preventivas Regionales sesionarán en la Intendencia respectiva o en la sede que ellas mismas acuerden con el voto favorable del miembro designado por el Intendente.
+
+Los gastos que irrogue su funcionamiento serán de
+
+cargo de la Intendencia, la que designará el o los funcionarios públicos que administrativamente deban servirlas, sin derecho a remuneración especial por ello.
+
+La Comisión Preventiva Central funcionará en la Sede de la Fiscalía Nacional Económica y será servida por la Secretaría de ésta.
+
+## Título III
+
+DE LA COMISION RESOLUTIVA
+
+#### Artículo 16°
+
+La Comisión Resolutiva estará integrada por las siguientes personas:
+
+a) Un Ministro de la Corte Suprema, designado por
+
+este Tribunal, que la presidirá;
+
+b) Un Jefe de Servicio designado por el Ministro de Economía, Fomento y Reconstrucción;
+
+c) Un Jefe de Servicio designado por el Ministro de Hacienda;
+
+d) Un Decano de una Facultad de Ciencias Jurídicas y Sociales de una Universidad con sede en Santiago, y
+
+e) Un Decano de una Facultad de Ciencias Económicas de una Universidad con sede en Santiago.
+
+En caso de impedimento de la persona indicada en la letra a), la Corte Suprema deberá designar a otro de sus miembros en su reemplazo.
+
+Los demás miembros de la Comisión serán reemplazados por sus subrogantes.
+
+Los integrantes de la Comisión durarán dos años en sus cargos. Los señalados en las letras d) y e) serán designados por sorteo ante el Presidente de la Comisión, en conformidad a las normas internas que ésta acuerde.
+
+Un abogado de la planta de la Fiscalía Nacional Económica actuará como Secretario de esta Comisión y él mismo u otro profesional de este Servicio actuará como relator en los asuntos que conozca.
+
+#### Artículo 17°
+
+La Comisión Resolutiva supervigilará la adecuada aplicación de las normas de la presente ley y el correcto desempeño de los organismos que establece e impartirá las instrucciones generales a que deban sujetarse. Sus acuerdos o resoluciones serán obligatorias para las Comisiones Preventivas.
+
+Serán deberes y atribuciones de esta Comisión:
+
+a) Conocer, de oficio o a solicitud del Fiscal, las situaciones que pudieren constituir infracciones a la presente ley e investigar respecto de ellas, con las más amplias atribuciones, incluida la de requerir el auxilio de la fuerza pública, incluso con facultad de allanamiento y descerrajamiento, la que será concedida sin más trámite; pronunciarse respecto de las mismas situaciones y adoptar, en cada caso, si fuere necesario, una o más de las siguientes resoluciones:
+
+1) Modificar o poner término a los actos, contratos, convenios, sistemas o acuerdos que sean contrarios a las disposiciones de la presente ley;
+
+2) Ordenar la modificación o disolución de las sociedades, corporaciones y demás personas jurídicas de derecho privado que hubieren intervenido en los actos, contratos, convenios, sistemas o acuerdos a que se refiere el número anterior;
+
+3) Declarar la inhabilidad temporal de los responsables para ocupar cargos directivos en colegios profesionales o instituciones gremiales, la que podrá regularse de uno a cinco años;
+
+4) Aplicar multas a beneficio fiscal hasta por una suma equivalente a diez mil unidades tributarias.
+
+Las multas se regularán prudencialmente, según sea el capital en giro o la capacidad económica del infractor y la gravedad de la infracción;
+
+5) Ordenar al Fiscal Nacional el ejercicio de la acción penal respecto de los delitos a que se refieren los artículos 1° y 2°;
+
+b) Dictar instrucciones de carácter general a las cuales deberán ajustarse los particulares en la celebración de actos o contratos que pudieran atentar contra la libre competencia;
+
+c) Informar de acuerdo con los artículos 4° y 5°;
+
+d) Requerir la modificación o derogación de los preceptos legales y reglamentarios a que se refiere el inciso final del artículo 5°;
+
+e) Conocer de la reclamación a que se refiere el artículo 9° y, de oficio o a petición de cualquier interesado, de los diferendos que se produzcan entre dos o más Comisiones Preventivas, en especial cuando se emitan pronunciamientos distintos sobre una misma materia;
+
+f) Establecer, de oficio o a petición de parte, y previo informe del Ministerio del Trabajo y Previsión Social, fechas distintas de negociación colectiva para empresas de una misma rama de actividad, a fin de evitar que negociaciones en una misma fecha en distintas empresas puedan conducir a una situación monopólica. Copia de esta resolución se remitirá a la Dirección del Trabajo, la que deberá notificarla a los afectados;
+
+g) Las demás que le señalen las leyes.
+
+#### Artículo 18°
+
+La Comisión Resolutiva adoptará sus acuerdos por mayoría de votos, decidiendo, en caso de empate, el voto del Presidente. El quórum será de tres miembros y no podrá sesionar sin la asistencia del Presidente. La comisión podrá sesionar en el Palacio de los Tribunales de Justicia o en la repartición pública que anualmente determine en su primera sesión.
+
+Son aplicables a los miembros de la Comisión las causales de implicancia y de recusación previstas en los artículos 195 y 196 del Código Orgánico de Tribunales. La causal invocada podrá ser aceptada por el integrante afectado; si así no fuere, será fallada de plano por la Comisión, con exclusión de aquél. Se aplicará una multa de hasta veinte unidades tributarias al incidentista, si la implicancia o la recusación fuere desestimada por unanimidad.
+
+El conocimiento y el fallo de las causas a que se refiere la letra a) del artículo 17 precedente, se someterá al siguiente procedimiento:
+
+A.- El procedimiento será escrito, salvo la vista de la causa, y las partes deberán comparecer representadas en la forma prevista en los artículos 40 y 41 de la ley 4.409, Orgánica del Colegio de Abogados.
+
+B.- El requerimiento del Fiscal Nacional y el auto cabeza de proceso, se mandará poner en conocimiento de las personas a quienes afecte, las que tendrán para contestarlo el plazo de quince días hábiles o el término mayor que la Comisión señale.
+
+C.- La notificación del requerimiento del Fiscal Nacional, del auto cabeza de proceso, de la resolución que los mande poner en conocimiento y la primera notificación que se practique a una parte, se efectuarán personalmente a quienes afecte.
+
+La notificación personal se efectuará por un Ministro de Fe, entregando copia íntegra de la resolución y de los antecedentes que la motivan. La Comisión podrá disponer que se entregue un extracto de esos documentos.
+
+Cualquier lugar se considerará como hábil para practicar la notificación personal. El Ministro de Fe deberá dejar constancia de la notificación en el proceso, en la forma señalada en el artículo 43° del Código de Procedimiento Civil.
+
+La Comisión, con el solo informe del Ministro de Fe que exprese no haber ubicado a quien debe notificar y cuál es su morada, podrá ordenar se notifique en la forma prevista en el inciso segundo del artículo 44° del Código de Procedimiento Civil.
+
+D.- La Comisión podrá ordenar se practique la notificación personal que regla el artículo 54° del Código de Procedimiento Civil, cuando se den, a su juicio, las circunstancias que dicho precepto señala.
+
+E.- Vencido el plazo establecido en la letra B del presente artículo, sea que se hubiere evacuado o no el traslado por los interesados, la Comisión abrirá un término probatorio de diez días hábiles.
+
+Las partes que deseen rendir prueba testimonial, deberán presentar su lista de testigos dentro del segundo día hábil de abierto dicho probatorio y no se admitirán a declarar más de cuatro testigos por cada parte.
+
+F.- Serán admisibles los medios de prueba indicados en el artículo 341° del Código de Procedimiento Civil y todo indicio o antecedente que, en concepto de la Comisión, sean idóneos para establecer los hechos pertinentes.
+
+La Comisión podrá decretar, en cualquier estado de la causa y aún después de la vista de la misma, la práctica de diligencias probatorias que estime conveniente.
+
+G.- Las diligencias a que dé lugar la inspección personal del Tribunal o la absolución de posiciones, serán practicadas por el miembro de la Comisión que ésta designe.
+
+H.- Las cuestiones accesorias al asunto principal sometido al conocimiento de la Comisión, serán falladas de plano. En su defecto, se dejará su resolución para definitiva y el incidente se tramitará conjuntamente con lo principal y se recibirá a prueba, si la Comisión lo estima necesario.
+
+I.- Agotada la recepción de la prueba, la Comisión así lo declarará y ordenará traer los autos en relación, fijando día y hora para ello. La Comisión podrá resolver se oigan alegatos de abogados.
+
+J.- La Comisión, de oficio, dará curso progresivo a los autos, para dejarlos en estado de sentencia.
+
+K.- La Comisión apreciará los antecentes y la prueba en conciencia y fallará del mismo modo, debiendo su sentencia ser fundada. La sentencia deberá dictarse dentro del plazo de cuarenta y cinco días, contado desde que el proceso se encuentre en estado de fallo.
+
+L.- Las resoluciones que dicte la Comisión, incluso la sentencia definitiva, no serán susceptibles de recurso alguno, salvo lo previsto en el artículo 19°.
+
+M.- Las resoluciones que dicte la Comisión, exceptuadas la sentencia definitiva, que se notificará por cédula, y las indicadas en la letra C de este artículo, se notificarán por carta certificada enviada al domicilio del notificado.
+
+Se entenderá practicada la notificación por carta certificada, el tercer día hábil contado desde la fecha de recepción de la carta por el Servicio de Correos y Telégrafos.
+
+N.- Tendrán el carácter de Ministro de Fe para la práctica de las diligencias que ordena este procedimiento, además del Secretario de la Comisión, las personas a quienes el Presidente de ésta designe para desempeñar esa función.
+
+Ñ.- Cuando haya de practicarse una actuación fuera del territorio de la Región Metropolitana de Santiago, la Comisión podrá cometer su cumplimiento a las Comisiones Preventivas o a las Fiscalías Regionales, mediante el envío del correspondiente oficio.
+
+O.- La Comisión, de oficio o a petición de parte, podrá decretar, por el plazo que estime conveniente, todas aquellas medidas precautorias que sean necesarias para impedir los efectos de las conductas sometidas a su conocimiento y para cautelar el interés común. Estas resoluciones serán esencialmente transitorias y podrán modificarse o dejarse sin efecto en cualquier estado de la causa.
+
+P.- Las normas contenidas en los libros I y II del Código de Procedimiento Civil regirán como supletorias al procedimiento fijado en el presente artículo, en todo aquello que no sean incompatibles con él.
+
+#### Artículo 19°
+
+Sólo serán reclamables las resoluciones de la Comisión Resolutiva que dispongan la modificación o disolución de las personas jurídicas, la inhabilidad para ocupar determinados cargos en colegios profesionales o instituciones gremiales y la aplicación de multas.
+
+El Fiscal Nacional podrá también deducir reclamaciones en contra de resoluciones de la Comisión Resolutiva, recaídas en las materias a que se refiere el inciso precedente, aun cuando fueren absolutorias.
+
+El recurso se interpondrá ante la Comisión Resolutiva, directamente o por intermedio de la respectiva Comisión Preventiva, y conocerá de él una de las salas de la Corte Suprema, previa vista al Fiscal de este Tribunal. El recurso deberá interponerse en el plazo de diez días hábiles, contado desde la respectiva notificación. Se verá en lugar preferente de la Tabla, no podrá suspenderse la vista de la causa, y se fallará en conciencia.
+
+#### Artículo 20°
+
+Las multas que imponga la Comisión Resolutiva deberán pagarse dentro de los diez días hábiles siguientes a la fecha en que quede ejecutoriada la respectiva resolución.
+
+Con todo, para interponer el recurso de reclamación a que se refiere el artículo anterior, deberá haberse consignado el cincuenta por ciento de la multa decretada, sin considerar los recargos legales. Estará exento de este requisito el Fiscal Nacional cuando sea él quien interponga el recurso.
+
+Si el afectado no pagare la multa sufrirá, por vía de sustitución, la pena de reclusión, regulándose un día por cada sueldo vital mensual, que aplicará sin forma de juicio y con el solo requerimiento de la Comisión el Juez del Crimen del domicilio del o de los infractores.
+
+## Título IV — -
+
+DE LA FISCALIA NACIONAL ECONOMICA
+
+#### Artículo 21°
+
+La Fiscalía Nacional Económica tendrá su sede en Santiago, será independiente de todo organismo o servicio y se relacionará con el Supremo Gobierno a través del Ministerio de Economía, Fomento y Reconstrucción. Su jefe superior será el Fiscal Nacional, quien deberá tener el título de abogado con cinco años de anterioridad, a lo menos, a su nombramiento.
+
+El Fiscal Nacional será de libre designación del Presidente de la República, se regirá por las normas del Estatuto Administrativo y sólo podrá ser removido y sancionado, según proponga la Contraloría General de la República, previo sumario instruido por ésta.
+
+#### Artículo 22°
+
+En cada capital de Región habrá un funcionario dependiente del Fiscal Nacional que, con el título de Fiscal Regional, desempeñará las funciones propias de aquél, dentro del territorio de la respectiva región.
+
+#### Artículo 23°
+
+El personal de la Fiscalía Nacional, incluyendo el que ejerza cargos Directivos Superiores, será nombrado por el Fiscal Nacional, dependerá de éste y se regirá por el Estatuto Administrativo. Los Fiscales y Procuradores Regionales se mantendrán en sus cargos mientras cuenten con la confianza del Fiscal Nacional.
+
+Fíjase la siguiente planta de la Fiscalía Nacional Económica.
+
+=======================================================
+
+N°
+
+Grado EUS. Nivel Cargos
+
+-------------------------------------------------------
+
+JEFE SUPERIOR DEL
+
+SERVICIO
+
+Fiscal Nacional_ __ __ 4 B I 1
+
+DIRECTORES
+
+SUPERIORES
+
+Subfiscal Nacional_ __ 2 I 1
+
+Abogado Jefe de Divi-
+
+sión Antimonopolios__ 3 II 1
+
+Abogado Jefe División
+
+Delito Económico__ __ 3 II 1
+
+Abogado Jefe División
+
+Regionales __ __ __ __ 3 II 1
+
+Fiscales Regionales __ 4 III 12
+
+ABOGADOS
+
+Abogados__ __ __ __ __ 4 I 3
+
+Abogados__ __ __ __ __ 6 I 3
+
+Abogados Procuradores
+
+Regionales __ __ __ __ 7 I 12
+
+INGENIEROS
+
+Ingenieros __ __ __ __ 4 I 3
+
+SECRETARIAS
+
+EJECUTIVAS
+
+Secretarias Ejecutivas 15 I 2
+
+OFICIALES DE
+
+PRESUPUESTO
+
+Jefe de Presupuesto_ __ 14 II 1
+
+Oficiales de Presupuesto 16 II 2
+
+OFICIALES
+
+ADMINISTRATIVOS
+
+Oficiales Administrativos 19 I 2
+
+Oficiales Administrativos 20 I 2
+
+SERVICIOS
+
+MENORES
+
+Auxiliares_ __ __ __ 25 I 3
+
+=======================================================
+
+Sin perjuicio de la planta fijada en este artículo, el Fiscal Nacional podrá contratar personal asimilado a grados o a honorarios para estudios o trabajos de cualquiera naturaleza que requiera el desempeño de las funciones que le encomienda la presente ley, para lo cual deberá dar cumplimiento a las normas del decreto 691, de 1977, del Ministerio de Hacienda, y a la dotación asignada al Servicio.
+
+Para el ejercicio de los cargos de Sub-fiscal Nacional y de Fiscales Regionales se requiere el título de abogado.
+
+El Jefe Superior y los Directivos Superiores de la planta de la Fiscalía Nacional Económica tendrán derecho a percibir la asignación establecida en el artículo 6° del decreto ley 1.770, de 1977.
+
+#### Artículo 24°
+
+El Fiscal Nacional, en el ejercicio de sus funciones, es independiente de todas las autoridades o tribunales ante los cuales es llamado a ejercerlas. Puede en consecuencia defender los intereses que le están encomendados en la forma que estime arreglada a derecho, según sus propias apreciaciones.
+
+Serán atribuciones y deberes del Fiscal Nacional:
+
+a) Instruir las investigaciones que estime procedentes para fiscalizar las infracciones a esta ley y al decreto ley 280, de 1974.
+
+La Dirección General de Investigaciones deberá poner a disposición del Fiscal Nacional el personal de ese Servicio que éste requiera para el cumplimiento del cometido indicado en esta letra;
+
+b) Actuar como parte, representando el interés general de la colectividad en el orden económico, ante la Comisión Resolutiva y los Tribunales de Justicia, con todos los deberes y atribuciones que le correspondan como tal parte.
+
+Ante la Corte Suprema, el Fiscal Nacional podrá defender los fallos de la Comisión Resolutiva o impugnarlos.
+
+Respecto de las investigaciones practicadas por los Fiscales Regionales y de los cargos formulados por éstos, el Fiscal Nacional podrá hacerlos suyos, ejerciendo sus funciones acusadoras ante la Comisión Resolutiva o desestimarlos con informe fundado a esta misma;
+
+c) Requerir de la Comisión Resolutiva y de las Comisiones Preventivas el ejercicio de cualquiera de sus atribuciones.
+
+d) Velar por el total y fiel cumplimiento de los fallos e instrucciones que dicte la Comisión Resolutiva o los Tribunales de Justicia en las materias a que se refiere esta ley;
+
+e) Solicitar de las Comisiones Regionales la adopción de medidas preventivas con motivo de las investigaciones que la Fiscalía se encuentre practicando;
+
+f) Emitir los informes que soliciten las Comisiones Preventivas Regionales y Central y la Comisión Resolutiva;
+
+g) Solicitar la colaboración de cualquier funcionario de los organismos o servicios públicos o de las empresas, entidades o sociedades en que el Estado o sus empresas, entidades o sociedades tengan aporte, representación o participación, o de las Municipalidades;
+
+h) Exigir de cualquiera oficina o servicios referidos en la letra g) que pongan a su disposición los antecedentes que estime necesario para las investigaciones, denuncias o querellas que se encuentre practicando o en que le corresponda intervenir.
+
+El Fiscal Nacional podrá también exigir, por intermedio de los funcionarios que corresponda, el examen de toda documentación y elementos contables y otros que estime necesarios.
+
+El Fiscal Nacional y los funcionarios encargados de estas revisiones sólo podrán dar a conocer los datos de que se impongan a la Comisión Resolutiva, a las Comisiones Preventivas y a los Tribunales de Justicia.
+
+Las personas que entorpezcan las investigaciones a que se refiere la presente disposición podrán ser apremiadas con arrestos hasta por quince días. Si el entorpecimiento se mantuviere, su autor será penado con presidio menor en cualquiera de sus grados. Si se tratare de un funcionario público será además penado con la pérdida del empleo.
+
+La orden de arresto y el proceso criminal, en su caso, se dará e instruirá, respectivamente, por el Juez Letrado con jurisdicción en lo criminal que sea competente según las reglas generales, a requerimiento del Fiscal Nacional;
+
+i) Solicitar a los particulares las informaciones y los antecedentes que estime necesarios con motivo de las investigaciones que practique;
+
+j) Ejercitar la acción penal, por sí o por delegado, cuando se lo ordene la Comisión Resolutiva de conformidad con el N° 5 de la letra a) del artículo 17°;
+
+k) Ejercitar la acción penal pública, por los delitos que establece el decreto ley 280, de 1974. Respecto de las infracciones, podrá hacerlo cuando, a su juicio, sea necesaria la intervención de la Fiscalía Nacional.
+
+Sin perjuicio de lo establecido precedentemente, el Fiscal Nacional podrá actuar como parte en los procesos en que se hubiere ejercitado la referida acción penal pública por otro órgano, aunque no formalice querella;
+
+l) Prestar asistencia jurídica ante los tribunales a los servicios del Estado que establezca la ley, y
+
+m) Los demás que señalen las leyes.
+
+#### Artículo 25°
+
+Las atribuciones y deberes de los Fiscales Regionales, serán las señaladas en el artículo precedente, con exclusión de las letras b), c) y j), y las demás facultades que, especialmente, les delegue el Fiscal Nacional. Cuando el conocimiento de un asunto corresponda a la Comisión Resolutiva, el Fiscal Regional respectivo deberá proponerlo al Fiscal Nacional.
+
+#### Artículo 26°
+
+El Fiscal Nacional podrá delegar el ejercicio de la acción penal que le corresponda en los abogados de la Fiscalía, en los Fiscales y Abogados Procuradores Regionales o en el Consejo de Defensa del Estado.
+
+#### Artículo 27°
+
+El Fiscal Nacional podrá, cuantas veces estime necesario, por sí o por delegado, asumir la representación de la Fiscalía en cualquier proceso o intervenir, de igual manera, en cualquier trámite o actuación determinados.
+
+Artículo vigésimo octavo: La Fiscalía, en sus escritos y actuaciones ante las Comisiones y los Tribunales de Justicia, estará exenta de los impuestos de la Ley de Timbres, Estampillas y Papel Sellado, y los abogados que actúen por ella podrán comparecer personalmente ante los Tribunales Superiores de Justicia.
+
+Artículo vigésimo noveno.- Las Comisiones Preventivas y la Fiscalía a que se refieren los artículos anteriores, deberán recibir e investigar, según corresponda, todas las denuncias formuladas por particulares respecto de actos o contratos que puedan importar infracción a las normas del presente decreto ley.
+
+Artículo trigésimo: Los integrantes de las Comisiones Preventivas y de la Comisión Resolutiva, cualesquiera sea su calidad, se entenderán comprendidos en la disposición del Art. 260 del Código Penal.
+
+Dichos integrantes no tendrán derecho a remuneración especial.
+
+## Título V — -
+
+DEL PROCESO PENAL
+
+Artículo trigésimo primero: Los procesos criminales por los delitos penados en este decreto ley se sujetarán al procedimiento ordinario por crimen o simple delito de acción pública, sin más modificaciones que las siguientes:
+
+#### Artículo 32°
+
+El proceso sólo podrá iniciarse por denuncia o querella formulada por el Fiscal Nacional, por sí o por delegado, y, en todo caso, a requerimiento previo efectuado a dicho Fiscal por la Comisión Resolutiva.
+
+Artículo trigésimo tercero: El sumario deberá terminar en el plazo de sesenta días. Sin embargo este término podrá prorrogarse hasta por treinta días más y por una sola vez, si el Juez lo estima indispensable para el éxito de la investigación, debiendo en tal caso dictarse un auto motivado y darse cuenta a la Corte de Apelaciones respectiva.
+
+Artículo trigésimo cuarto.- El representante de la Fiscalía podrá tomar conocimiento de lo que se haya obrado en el sumario y en cualquier estado del mismo.
+
+Artículo trigésimo quinto: Los Tribunales de Justicia apreciarán la prueba en conciencia.
+
+Artículo trigésimo sexto: Todos los hechos ejecutados en virtud de un determinado acto o convención penado por los Arts. 1° y 2° serán juzgados como un solo delito.
+
+#### Artículo 37°
+
+Será competente para conocer en primera instancia un Ministro de la Corte de Apelaciones respectiva, como Tribunal unipersonal.
+
+## Título VI — - DISPOSICION FINAL
+
+Artículo trigésimo octavo: DEROGADO
+
+DISPOSICIONES TRANSITORIAS
+
+#### Artículo primero
+
+Las causas que actualmente conozca la Comisión establecida en el artículo 175 de la ley N° 13.305, seguirán substanciándose por la Comisión Resolutiva con arreglo a las normas del presente decreto ley.
+
+#### Artículo segundo
+
+Las Comisiones Preventivas Provinciales, Preventiva Central y Resolutiva, deberán constituirse dentro del plazo máximo de quince días, a contar de la fecha de publicación del presente decreto ley en el Diario Oficial, a requerimiento de sus respectivos Presidentes.
+
+#### Artículo tercero
+
+Para todos los efectos legales se entiende que el cargo de Fiscal es el sucesor del empleo a que alude el Art. 175 bis de la ley N° 13.305 y continuará servido por su actual titular.
+
+#### Artículo cuarto
+
+Deróganse las disposiciones del Título V de la ley N° 13.305.-
+
+#### Artículo 5°
+
+Deróganse las disposiciones del Título V de la ley 13.305. Declárase que las conductas comprendidas en los hechos constitutivos de delito con arreglo a lo establecido en los artículos 1°, 2° y 3° de esta ley, según el texto original del decreto ley 211, de 1973, realizadas con anterioridad a la vigencia del citado cuerpo legal, no serán susceptibles de ser sancionadas en conformidad con lo expresado en los referidos preceptos, ni, tampoco, de acuerdo a lo que estatuía el Título V de la ley 13.305, derogado por el inciso anterior de este artículo, sin perjuicio de lo dispuesto en el artículo 1° transitorio.
+
+AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director de Carabineros.- Fernando Léniz Cerda, Ministro de Economía, Fomento y Reconstrucción.- Gonzalo Prieto Gándara, Abogado, Ministro de Justicia.
+
+Lo que comunico a Ud. para su conocimiento.- Saluda atentamente a Ud.-Héctor Bórquez Rojas, subsecretario de Economía.
