@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 1.007 de 10 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº. 99, para la obra: Camino Mejoramiento Ruta K-175, Sector Tres Esquinas - Las Trancas, km. 8,306.62 a km. 25,735.24 , que figura a nombre de Agroindustrial Nacional S A, rol de avalúo 640-7 Comuna de Molina, VII Región, superficie 18.519 m². La Comisión de Peritos fijó con fecha 3 de julio de 2000, en la cantidad de $9.157.600.- lote Nº99. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
