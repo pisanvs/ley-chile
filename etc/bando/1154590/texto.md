@@ -1,0 +1,5 @@
+﻿ Gratificacion por entrega de armas
+
+Por cuanto se han notado los graves perjuicios que se han orijinado al Estado de que los desertores soldados fujitivos, i muchos de los que han muerto en el campo del honor, hayan dejado, botado i perdido sus armas, desvigorizando nuestra fuerza. Por tanto se tiene acordado que todo el que hallare algun fusil, i lo presente por sí o por interpuesta persona a los Ministros del Erario en la capital, o al Comisario de Guerra en el Cuartel Jeneral de Talca, se le gratifique con ocho pesos fuertes, graduando este compensativo con proporcion al valor i mérito de cualesquiera otras armas, que del mismo modo se presentaren; publíquese por bando i circúlese.
+
+Dado en Talca, a 16 de Noviembre de 1813. - Infante. - Eyzaguirre. - Cienfuegos. - Dr. Mancheño, secretario.
