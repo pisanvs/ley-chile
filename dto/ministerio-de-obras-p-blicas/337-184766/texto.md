@@ -1,0 +1,3 @@
+Por decreto MOP Nº 337, de 28 de febrero de 2001, se expropiaron los lotes de terreno Nºs. 612-1, 613-1, 614-1, 615-1, 616-1, 617-1, 618-1, 619-1, 620-1 y 621-1, superficies 2.854 m², 4.207 m², 2.365 m², 2.657 m², 1.723 m², 3.047 m², 1.213 m², 3.437 m², 706 m². y 5.105 m²., rol de avalúo 319-578, comuna de Buin, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Agrícola Santa Laura del Alto S.A., ascendente a la cantidad total de $149.040.476.-
+
+Fiscal del Ministerio de Obras Públicas.
