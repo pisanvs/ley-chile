@@ -1,0 +1,5 @@
+Por resolución Nº 2.821, de 11 de diciembre de 2002, modifícase la resolución Nº 2.816, de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo de la captura de sardina española extraída por la flota cerquera artesanal de la II Región", en el sentido de reemplazar el numeral 4º por el siguiente:
+
+"4.- Podrán participar en la presente pesca de investigación, las naves artesanales que se inscriban previamente en una nómina que elaborará para estos efectos el Instituto de Fomento Pesquero, la cual será remitida al Servicio Nacional de Pesca para fines de fiscalización."
+
+Valparaíso, 11 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
