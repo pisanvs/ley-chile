@@ -1,0 +1,3 @@
+Por decreto MOP Nº 237, de 31 de enero de 2000, se expropió el lote de terreno Nº 6, superficie 793 m², rol de avalúo 118-2, comuna de Paine, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria Sociedad Inmobiliaria Civil Labra y Compañía, ascendente a la cantidad de $4.412.223.
+
+- Fiscal del Ministerio de Obras Públicas.
