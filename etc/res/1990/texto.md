@@ -1,0 +1,3 @@
+Por resolución Nº 1.990, de 7 de octubre de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 749 de 1985 y Nº 529 de 1990, ambas de esta Subsecretaría, que autorizaron a JOSE MARIANO MONTEALEGRE ANDRADE, para instalar y operar el centro de cultivo ubicado en Río Cariquilda, comuna de Maullín, X Región.
+
+Valparaíso, 7 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
