@@ -1,0 +1,5 @@
+DEROGA EXCEPCION DEL CAMBIO DE SUJETO DEL IVA A LUIS GAMBOA VALENZUELA
+
+La VII Dirección Regional Talca del Servicio de Impuestos Internos, por resolución Nº Ex. 2.030, de 27 de octubre de 1999, deroga a contar del 1º del mes siguiente al de la publicación de la presente resolución, a Luis Gamboa Valenzuela, RUT Nº 3.091.485-6, la resolución Nº Ex. 5.176, del 09.12.94 de esta Dirección Regional que lo excepcionaba del cambio de sujeto del IVA en las ventas de trigo, a solicitud del contribuyente, en atención a que no ha efectuado compras de trigo en los últimos dos años, dejando de ocurrir las circunstancias que ameritaban la excepción. El peticionario deja de tener la calidad de retenedor del Impuesto al Valor Agregado en las compras de trigo.
+
+Talca, 27 de octubre de 1999.- José A. Moretti Soto, Director Regional.
