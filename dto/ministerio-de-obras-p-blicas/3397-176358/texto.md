@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.397, de 31 de julio de 2000, se expropió el lote de terreno Nº 41, superficie 94 m2, rol de avalúo 104-117, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Enlace Los Panguiles, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Jorge Araujo Muñoz, ascendente a la cantidad de $597.360.
+
+Fiscal del Ministerio de Obras Públicas.
