@@ -1,0 +1,3 @@
+Por resolución Nº 363, de 31 de enero de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Topocalma, Sector A, VI Región, individualizada en el artículo 1º, Nº 16 del D.S. Nº 332, de 2000, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES DE TOPOCALMA.
+
+Valparaíso, 31 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
