@@ -1,0 +1,5 @@
+Por decreto MOP. No 330 de 31 de marzo de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del D.F.L. No 810 de 1997, que fijó el texto actualizado de la Ley No 5.840, se expropiaron los lotes de terreno Nos.
+
+30-A, 30-B, 31, 32, 33-B, 34, 35-A y 35-B para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector km 87.215,00 al km 91.370,00, que figuran a nombre de lnmob Las Totoras Ltda., Pizarro Bahamóndez José Fernando, Escobar Pérez Alvaro Segundo, Lecaros Sánchez Mario Roberto, Agroind y Com Buena Esperanza Ltda., Arévalo Saavedra Octavio René, Arévalo Varas Alberto Patricio, Arévalo Varas José Andrés, roles de avalúo 151-263,151-157, 151-220, 151-154, 151-230, 151-155,151-256 y 151-292, comuna de Llay-Llay, superficies 804 M2.,1.348 m2.,1.953 M2. 1.654 M2.,2.947 M2.,534 M2. 967 M2.
+
+Fiscal del Ministerio de Obras Públicas.
