@@ -1,0 +1,3 @@
+Por resolución Nº 969, de 10 de julio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a JUAN DOMINGO RIVERA ITURRA para ampliar actividades pesqueras autorizadas por resoluciones Nº 1.160 y Nº 1.617, ambas de 1996, y Nº 701, de 1997, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Estero Quellón s/nº, Quellón, provincia de Chiloé, X Región, en la línea de elaboración de Deshidratado en Alcohol, el recurso hidrobiológico Erizo.
+
+Valparaíso, 10 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
