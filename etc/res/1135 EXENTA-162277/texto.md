@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.135 de 30 de Agosto de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado predios: "Hacienda Teno", "Parte del Predio Fundo Punta del Monte", "Resto del Fundo Santa Berta", "El Foso Número Uno" de la comuna de Teno, VII Región, y derechos de aprovechamiento de aguas que corresponden a las parcelas Nos.. 1 a la 62, sitios Nos.. 1 al 50 bien común especial No. 6, Reserva CORA No. 1 y 2 y Retén, del proyecto de parcelación "Hacienda Teno" formado por predios señalados. Los derechos de agua se extraen del Canal Compuerta, Comalle, Punta del Monte, todos derivados del río Teno.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
