@@ -1,0 +1,3 @@
+Por resolución Nº 2.545, de 8 de noviembre de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 890 de 1989, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA DEL CABO S.A. para operar la nave "Haugagut", en el área marítima comprendida entre el límite norte de la X Región y el paralelo 43° L.S., con arte de cerco y arrastre, sobre el recurso hidrobiológico Merluza de tres aletas Micromesistius australis, ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y del memorándum de la División de Desarrollo Pesquero de esta Subsecretaría, citado en Visto.
+
+Valparaíso, 8 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
