@@ -1,0 +1,3 @@
+Por Decretos MOP. Nºl80 y Nº218, de 27 de febrero de 1998, se expropiaron los lotes de terreno Nºs. 30 y 55, superficies 227, 95 y 25.085 m2. respectivamente, roles de avalúo 4O2-34 y 363-2, comuna de Vicuña, para la obra Proyecto Embalse Puciaro, Sector Variante a Ruta 41 - Ch y se acordó precio de indemnización con sus propietarios Mario González Cáceres y Sociedad Agrícola El Alamo Limitada, ascendente a las cantidades de $1.512.567.- para lote 30 y $41.325.675.- para lotes 55.-
+
+Fiscal del Ministerio de Obras Públicas.
