@@ -1,0 +1,3 @@
+El Banco Central de Chile, certifica que la Tasa de Interés Promedio (TIP) mensual de captación para operaciones reajustables entre 90 y 365 días, fue de 11,79% anual durante el mes de Febrero de 1990. Asimismo, en conformidad a lo dispuesto en el No. 5 del Capítulo IV.B.8.1. del Compendio de Normas Financieras, certifica que la Tasa de Interés Promedio (TIP) quincenal de captación para operaciones reajustables entre 90 y 365 días, correspondiente a la segunda quincena de febrero de 1990, fue de 12,17% anual.
+
+Santiago, 05 de marzo de 1990.- Víctor Vial del Río, Secretario General Interino.
