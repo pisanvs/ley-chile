@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.211, de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Pedro Aguirre Cerda Nº719, Coronel, VIII Región, en las líneas de elaboración de harina y aceite, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
