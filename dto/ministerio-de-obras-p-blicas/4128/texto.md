@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.128, de 31 de agosto de 2000, se expropió el lote de terreno Nº90, superficie 160 m2., rol de avalúo 5354-14, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietario Alberto Lepín Carilao, ascendente a la cantidad de $24.531.368.
+
+Fiscal del Ministerio de Obras Públicas.
