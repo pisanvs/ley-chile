@@ -3652,7 +3652,7 @@ Si la institución calcula los intereses y/o reajustes, en su caso, sobre la bas
 
 14.6. Aviso de desahucio de una cuenta de ahorro.
 
-Las instituciones financieras que deseen hacer efectiva la facultad de cerrar una cuenta de ahorro, deberán remitir al titular un aviso en tal sentido, por lo menos con treinta días corridos de antelación al cierre, informándole de las razones que motivan esa medida.
+Las instituciones financieras que deseen hacer efectiva la facultad de cerrar una cuenta de ahorro, deberán remitir al titular un aviso en tal sentido, informándole de las razones que motivan esa medida.
 
 En esa comunicación se le señalará al titular la oportunidad en que deberá retirar el saldo y los intereses y reajustes devengados, cuando corresponda.
 
@@ -4370,7 +4370,7 @@ c) Las comisiones serán percibidas detrayendo su importe de la cuenta que las o
 
 Las cuentas de depósito a la vista son de plazo indefinido por lo que sus saldos, mientras esté vigente la cuenta, no quedan sujetos a caducidad.
 
-Para cerrar una cuenta por decisión unilateral de la institución depositaría, sea porque haya quedado sin saldo o por cualquier otra razón, deberá enviarse un aviso de desahucio al titular por lo menos con 30 días corridos de antelación al cierre, informándole de las razones que motivan esa medida y la oportunidad en que deberá retirar el saldo que aún mantuviere.
+Para cerrar una cuenta por decisión unilateral de la institución depositaría, sea porque haya quedado sin saldo o por cualquier otra razón, deberá enviarse un aviso de desahucio al titular, informándole de las razones que motivan esa medida y la oportunidad en que deberá retirar el saldo que aún mantuviere.
 
 2.8.- Envío periódico del estado de movimiento y saldos.
 
