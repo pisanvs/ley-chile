@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Resolución 399, 23 diciembre 1997, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado al Sur Poniente de la población La Estrella, sector Michaihue, que forma parte aparentemente del Rol de Avalúo Nº 15009-3, comuna San Pedro de la Paz, superficie 56.096 m2. de terreno, dentro polígono y linderos señalados plano expropiación SBR-13460; de aparente dominio de Rolando Valdebenito Valdebenito, para ejecución programa adquisición de terrenos, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto, y Sergio Labarca G., constructor civil, según informe de fecha 13 de noviembre de 1997, fijó monto provisional indemnización en $74.607.680.-, pagadera de contado.
+
+Director SERVIU Región del Bío Bío.
