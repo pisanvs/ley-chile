@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 275, de 16 de agosto de 1986, se expropiaron los lotes 1, 2, 4, 6 y 7, roles de avalúo 136-334, 136-335, 136-336, 136-336, 136-336, superficies 2. 168 m2., 2.515 m2., 1.755 m2., 2.250 m2. y 5.220 m2., respectivamente, Comuna de Paine, para Camino Enlace Hospital, sector Paso Superior Hospital y se acordó precio de indemnización con su propietario Servicio Agrícola y Ganadero, ascendente a $ 6.224.430.-
+
+Fiscal del Ministerio de Obras Públicas.
