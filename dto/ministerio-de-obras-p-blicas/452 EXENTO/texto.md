@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 452, de 30 de abril de 2001, se expropió el lote de terreno Nº 215-2, superficie 1.322 m², rol de avalúo 202-18, comuna de Zapallar, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietaria Norma Violeta Bórquez Aguilera, ascendente a la cantidad de $2.360.445.-
+
+Fiscal del Ministerio de Obras Públicas.
