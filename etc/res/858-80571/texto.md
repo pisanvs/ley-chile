@@ -1,0 +1,3 @@
+Por resolución No. 858, de 23 de Julio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones No. 1462, de 1989 y No. 546, de 1990, de esta Subsecretaría, por la cual se autorizó a don JOSE ADRIAN VARGAS MANCILLA, RUT No. 5.151.530-7, domiciliado en calle Francisco Vivar No. 1366, Puerto Montt, para instalar y operar un establecimiento de cultivo del recurso Alga Gracilaria, en el sector de Panitao, Bahía Huenquillahue, Comuna de Puerto Montt, X Región, en virtud de la renuncia presentada por el interesado.
+
+Valparaíso, 23 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
