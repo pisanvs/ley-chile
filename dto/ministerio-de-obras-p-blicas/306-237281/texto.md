@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 306, de 30 de abril de 1996, se expropió el lote de terreno N° 36-A, superficie 12.724 M2, rol de avalúo 5017-5, comuna de Coronel, para la obra Camino By Pass Coronel-Lota (Ruta 160), Sector Segunda Calzada Tramo Interurbano Coronel-Lota y Mejoramíento Lota y se acordó precio de la indemnización con el propietario Fredy Santiago Sánchez, ascendente a la cantidad de $46.238.862.
+
+Fiscal del Ministerio de Obras Públicas.
