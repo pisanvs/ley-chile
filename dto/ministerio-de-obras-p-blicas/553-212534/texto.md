@@ -1,0 +1,3 @@
+Por decreto MOP Nº553, de 30 de mayo de 2003, se dejó sin efecto el decreto MOP Nº1.667 de 30 de septiembre de 2002, en la parte que autorizaba el Convenio de Precio Ad-Referéndum y fijaba el precio de la indemnización definitiva. Por medio del mismo decreto, se acordó con don Miguel Luciano Margas Garetto un nuevo valor de la indemnización ascendente a la cantidad de $53.738.360.
+
+Fiscal del Ministerio de Obras Públicas.
