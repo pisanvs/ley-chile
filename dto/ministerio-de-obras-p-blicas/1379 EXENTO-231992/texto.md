@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.379 de 30 de septiembre de 2004, se expropió el lote de terreno Nº 56-A, superficie 352 m2, Rol Nº 608-1, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0.00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietaria María Crinalda Arce Reyes y Otros, ascendente a la cantidad de $2.425.446.
+
+Fiscal del Ministerio de Obras Públicas.
