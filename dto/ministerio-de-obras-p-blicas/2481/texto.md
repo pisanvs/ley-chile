@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 2.481, de 30 de noviembre de 1998, se expropiaron los lotes de terreno Nºs. 10 y 11, superficies 226 m2. y 30 m2., rol de avalúo 136-11, comuna de San Francisco de Mostazal, obra Camino Ruta H-111, sector Ruta 5-La Punta y se acordó precio de indemnización con su propietario Jorge Misleh Maluje, ascendente a la cantidad de $ 1.197.558.
+
+- Fiscal del Ministerio de Obras Públicas.
