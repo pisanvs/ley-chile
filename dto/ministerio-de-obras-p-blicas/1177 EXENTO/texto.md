@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.177 de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 11, superficie 1.050 m2, rol de avalúo Nº 426-116, comuna de Loncoche, para la obra ''Camino Ruta 741 - Ruta 743 Acceso Huiscapi, Sector Huiscapi, Tramo Km. 0,010 al Km. 3,148'', IX Región y se acordó el valor de la indemnización con su propietaria Juana Edith Martínez Celedón, ascendente a la cantidad de $1.700.360.-
+
+Fiscal del Ministerio de Obras Públicas.
