@@ -1,0 +1,15 @@
+DELEGA EN LA OFICINA DE REGISTRO Y CONTROL DE PROFESIONES MEDICAS Y PARAMEDICAS DEL SERVICIO DE SALUD VALPARAISO SAN ANTONIO FUNCIONES QUE SEÑALA
+
+Núm. 2.856 exenta.- Valparaíso, 21 de septiembre de 2001.- Vistos y considerando: La necesidad que una dependencia determinada del Servicio de Salud Valparaíso San Antonio se encargue de estudiar y analizar las solicitudes que se presenten para obtener la autorización sanitaria para la instalación de hospitales, clínicas privadas y otros establecimientos del área de la salud que lo necesiten de acuerdo con la normativa vigente sobre la materia, como asimismo, de inspeccionar y fiscalizar su funcionamiento, lo dispuesto en el artículo 43 inciso primero letras a), b), c), d) y e) y en su inciso segundo de la ley 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado; artículos 3 y 129 del Código Sanitario; artículos 4, 8 y 50 del DS 161/82 del Ministerio de Salud que aprobó el Reglamento de Hospitales y Clínicas Privadas; artículos 46 y siguientes del DS 570/98 del Ministerio de Salud que aprobó el Reglamento para la Internación de las Personas con enfermedades mentales y sobre los establecimientos que la proporcionan; los artículos 1º, 4º, 5º, 14º letra n), 16º y 49º del DS 42/86 del Ministerio de Salud; el oficio Nº 4161, de 7.9.2001 de Contraloría Regional Valparaíso; y,
+
+Teniendo presente: Lo dispuesto en el DL 2.763/79; en la resolución 520/96 de la Contraloría General de la República, y en uso de las facultades que me confieren los DS 42/86 y 201/2000, ambos del Ministerio de Salud, dicto la siguiente,
+
+R e s o l u c i ó n:
+
+1º Deléguese en la Oficina de Registro y Control de Profesiones Médicas y Paramédicas del Servicio de Salud Valparaíso San Antonio, las funciones de estudiar y analizar las solicitudes que se presenten para obtener la autorización sanitaria requerida para la instalación de hospitales, clínicas privadas y otros establecimientos del área de la salud que lo necesiten en concordancia con las normas vigentes sobre la materia, como asimismo de inspeccionar y fiscalizar su funcionamiento. Las funciones antes señaladas, se pueden realizar sin perjuicio de la fiscalización de los establecimientos actualmente existentes, estén o no autorizados.
+
+2º La presente resolución delegatoria comenzará a regir a contar de la fecha de su publicación en el Diario Oficial, y en esta última fecha quedarán derogadas aun en la parte que no fueren contrarias a ella, las resoluciones preexistentes sobre todas las materias que en ésta se tratan.
+
+3º Déjese sin efecto la resolución T.R. Nº 129, de 1 de agosto de 2001, del Servicio de Salud Valparaíso San Antonio, devuelta sin tramitar por oficio Nº 4161, de 7 de septiembre de 2001, del Sr. Contralor Regional de Valparaíso, debiendo colocarse en su anverso y reverso, de manera destacada, un timbre de ANULADA debiendo quedar archivada en el Registro correspondiente.
+
+Anótese y publíquese.- Daniel A. Verdessi Belemmi, Director Servicio de Salud Valparaíso San Antonio.
