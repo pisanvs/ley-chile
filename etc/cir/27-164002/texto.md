@@ -1,0 +1,29 @@
+TERMINO DE GIRO EN EL CASO DE TRANSFORMACIONES DE SOCIEDADES
+
+(Circular Nº 27)
+
+Santiago, 07 de Junio de 1985.
+
+El artículo 69º del Código Tributario, en su inciso primero, reglamenta la terminación del giro comercial o industrial o el cese de las actividades de los contribuyentes, estableciendo las obligaciones de dar aviso por escrito al Servido; de presentar el balance final, acompañado de los demás antecedentes que éste estime necesarios, y de pagar el impuesto correspondiente hasta el momento del expresado balance, las que deberán cumplirse dentro de los dos meses siguientes al término del giro o al cese de las actividades, según el caso.
+
+Para los efectos de aplicar lo establecido en este inciso debe entenderse que una persona pone término a su giro comercial o industrial o cesa en sus actividades, cuando deja de realizar los actos que lo clasificaban como un contribuyente sometido a un determinado régimen tributario, sin perjuicio que continúe realizando otras actividades o actos que estén o puedan estar gravados con una tributación distinta o similar, como ocurre cuando una persona que es comerciante y empleado a la vez, deja de realizar los actos de comercio que lo hacían tributar como un contribuyente de primera categoría de la Ley sobre Impuesto a la Renta, y sigue afecto al impuesto único de segunda categoría que grava las rentas del trabajo dependiente.
+
+A este respecto debe tenerse también presente que los actos liquidatorios de la empresa individual o social no obstan al término de giro o de la actividad, aun cuando dichos actos den origen a algunos impuestos, como ocurre con la venta de bienes del activo realizable de que trata el artículo 28º de la Ley sobre Impuesto a las Ventas y Servicios.
+
+Por otra parte debe considerarse que la expresión usada por el inciso primero de este artículo 69º, que se comenta, en el sentido que la persona debe dejar de estar afecta a impuestos como resultado del término de giro o de las actividades, se refiere sólo a los impuestos normales y propios que derivan del ejercicio regular del giro o de la actividad que termina, y no a otros que puedan seguir afectando al contribuyente por otras razones o por los actos liquidatorios de la empresa o sociedad.
+
+El inciso segundo de este artículo 69º del Código Tributario, hace extensivas las obligaciones que establece en su inciso primero por el término del giro comercial o industrial o por el cese de las actividades, a los casos en que empresas individuales o sociales se transformen en sociedades de cualquiera naturaleza o en que las sociedades aporten a otra u otras todo su Activo y Pasivo, sin atender a si efectivamente se produce en el hecho el término del giro o de la actividad.
+
+En consecuencia, toda vez que una empresa individual o social se transforme en una sociedad de cualquiera naturaleza, o que una sociedad aporte a otra u otras todo su Activo y Pasivo, deberá dentro de los dos meses siguientes a la fecha en que haya ocurrido la transformación o aporte, cumplirse con las obligaciones de dar aviso por escrito al Servicio, presentarse el balance final, hasta el momento de la referida transformación o aporte, y pagar los impuestos. correspondientes a dicho balance. De acuerdo con lo expresado, toda situación tributaria que con arreglo a las leyes deban o puedan desplazarse de un período tributario hacia los siguientes, no podrán ser aprovechadas o aplicadas a las situaciones o resultados posteriores a la fecha de la transformación o del aporte.
+
+No es obligatorio dar el aviso a que se refiere el párrafo anterior cuando las sociedades que subsistan o que se creen se hagan responsables solidariamente, en las escrituras respectivas de transformación o aporte, de todos los impuestos que se adeudaren por la o las primitivas empresas, sin perjuicio de tener que presentar el balance y declaración correspondiente a la época anterior a la transformación o aporte en la oportunidad normal, y de pagar los impuestos que resulten del referido balance.
+
+La solidaridad debe pactarse en la respectiva escritura de transformación o aporte, en forma expresa, empleando expresiones que no dejen dudas respecto al tipo de responsabilidad, como "responde in solidum", "responde solidariamente" o "se responsabiliza solidariamente".
+
+Como es obvio, la norma que libera de la obligación de dar aviso de término de giro no puede aplicarse cuando de la transformación o aporte no subsisten dos o más personas, ya que el instituto jurídico de la responsabilidad solidaria requiere necesariamente de dos o más personas sobre las cuales debe recaer la obligación.
+
+En el caso que la transformación o el aporte se efectúe en el curso de un mismo período tributario, los responsables de efectuar tas respectivas declaraciones deberán separar los resultados y hechos anteriores a la, transformación o aporte y efectuar las declaraciones de impuestos que correspondan, independientemente de los resultados o hechos acaecidos con posterioridad a dichas circunstancias, en razón a que debe considerarse que tributariamente se ha extinguido un contribuyente y se ha originado, uno nuevo que tributará en forma totalmente separada y por los resultados que se obtengan en adelante.
+
+La declaración que corresponde al término de giro debe ser presentada por la persona que a; transforma en sociedad de otro tipo o por la sociedad que efectúa el aporte de todo su Activo y Pasivo a otra sociedad, según el caso; sin perjuicio de la responsabilidad que corresponde a la suciedad transformada o a la que recibe el aporte, cuando se haya pactado la cláusula de responsabilidad solidaria por los impuestos adeudados.
+
+Francisco Fernández Villavicencio, Director.
