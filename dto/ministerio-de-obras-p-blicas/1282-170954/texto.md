@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.282, de 17 de abril de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.1 y 2, para la obra Camino Lautaro Pillanlelbun, sector Puente Muco, que figuran a nombre de Francisco Ugarte Larraín, rol de avalúo 300-31, comuna de Lautaro. La comisión de peritos fijó con fecha 25 de febrero de 1999, la indemnización provisional en las cantidades de $898.800, para el lote Nº1 y $367.200, para el lote Nº2, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
