@@ -1,0 +1,3 @@
+Por Resolución N° 1.815, de 24 de octubre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Solicitud N° 94110163, presentada por VICTOR ARNOLDO BARRIA BARRIA, para un sector ubicado al Norte de la Isla Acuao, Comuna de Aysén, Provincia de Aysén, XI Región, por no dar cumplimiento el respectivo proyecto técnico al artículo 14°, inciso 2° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de Octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
