@@ -1,0 +1,3 @@
+Por resolución Nº 2.254, de 31 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución Nº 1.099 de 1996, de esta Subsecretaría, que declaró la caducidad de la autorización concedida a PESCA CHILE S.A., para operar la nave "Cote Saint Jacques", en el litoral de la VIII Región al paralelo 41º 28,6' L.S., contenida en las Resoluciones Nº 555 y Nº 897 de 1993, ambas de esta Subsecretaría, en virtud de haberse dictado fundada en un error de hecho que por este acto se repara.
+
+Valparaíso, 31 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
