@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.425, de 9 de octubre de 2003, de esta Subsecretaría, autorízase a MARIO HERNAN VALDERRAMA ARAYA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Flamenquito Km. Nº 935, Chañaral, III Región, donde podrá procesar, en las líneas de proceso de Molienda los recursos hidrobiológicos Huiro negro y Huiro palo.
+
+Valparaíso, 9 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
