@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.793, de 6 de agosto de 2003, de esta Subsecretaría, modifícase el numeral 5º inciso 2º de la resolución Nº 1.548 de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Prospección de caladeros tradicionales de Merluza común y otros recursos de importancia comercial en la zona de Valparaíso y San Antonio", en el sentido de incorporar a la nómina de especies autorizadas para ser extraídas por las embarcaciones artesanales participantes en la presente pesca de investigación, el recurso Merluza de cola.
+
+Valparaíso, 6 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
