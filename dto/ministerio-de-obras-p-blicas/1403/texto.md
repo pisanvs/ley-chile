@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.403, de 31 de agosto de 1998, se expropiaron los lotes de terreno No.s. 50 y 53, superficies 6.941 m² y 294 m², rol de avalúo 2206-75, comuna de Chillán, para la obra Ruta 5 Sur, Tramo Talca-Chillán, Intersección Desnivelada Acceso a Parque Lantaño, y se acordó el valor de indemnización con sus propietarios José Miguel Maldonado Romero y otros, ascendente a la cantidad de $ 15.397.250.-
+
+Fiscal del Ministerio de Obras Públicas.
