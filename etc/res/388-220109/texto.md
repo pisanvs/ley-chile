@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA NOTIFICACION
+
+Resolución 388, 11 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en el sector Michaihue, Rol de Avalúo Nº15009-0061, comuna San Pedro de la Paz, superficie 5.440,29 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-18673, de aparente dominio de Delmira Gaete Rodríguez y Otro, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de San Pedro de la Paz, conforme artículo 51 ley 16.391 y D.L. Nº2.186. Comisión Peritos integrada por Víctor Felipe Toledo Quijada, arquitecto; Leonardo Eugenio Fasce Casanueva, arquitecto, y Christian Walter Gäbler Solís, ingeniero civil, según informe de fecha 14 de noviembre de 2003, fijó monto provisional indemnización en $2.218.094, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
