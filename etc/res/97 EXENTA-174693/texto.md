@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 97 de 25 de Enero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido Reserva y Sector Expropiado predio "Hijuela Primera de la Hacienda Quilicura", "Hijuela Tercera de la Hacienda Quilicura", "Hijuela Cuarta de Quilicura", de la comuna de Las Cabras, VI Región; y Derechos Aprovechamiento Aguas que corresponden a Parcelas Nºs. 1 a la 26, 28 a la 71, sitios Nºs. 1 al 10, 20 al 22 y 30 al 39, Reserva Cora Nº 5, del Proyecto de Parcelación "Los Silos" formado por predios señalados y por predios "Hijuela Segunda de la ex Hacienda Quilicura", "Hijuela Quinta de la Hacienda Quilicura". Los Derechos de Agua se extraen de canal Cocalán, derivado del río Cachapoal y del Estero Quilicura. Derrames de las Hijuelas de la Ex Hacienda Quilicura. Publicación hecha conforme Art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
