@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº325 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº44, superficie 2.237 m², Rol de Avalúo Nº402-43, comuna de Lumaco, para la obra "Camino Lumaco - Capitán Pastene, Sector Lumaco - Capitán Pastene, Km. 0.000 al Km. 10.525,168", IX Región y se acordó el valor de indemnización con su propietario José Oscar Ghiselini Araya, ascendente a la cantidad de $2.615.360.-
+
+Fiscal del Ministerio de Obras Públicas.
