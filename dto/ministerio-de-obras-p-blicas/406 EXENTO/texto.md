@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº406, de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº19, superficie 723 m2., Rol de Avalúo Nº63-314, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado, Rutas R-891, R-955 y R-89, Sector Liucura - Paso Pino Hachado, Km. 158,54000 al Km. 179,59862, correspondiente al tramo I Km. 158,54000 al Km. 165,85100", IX Región, y se acordó el valor de indemnización con su propietaria Edelmira Albornoz Meliqueo, ascendente a la cantidad de $334.771.-
+
+Fiscal del Ministerio de Obras Públicas.
