@@ -1664,6 +1664,98 @@ ANEXO N°1
 
 .
 
+CAPITULO 1-14 (Bancos y Financieras)
+
+MATERIA:
+
+PREVENCION DEL LAVADO DE ACTIVOS.
+
+1.- Consideraciones Generales.
+
+Las instituciones bancarias, por la naturaleza de sus funciones, pueden ser utilizadas para depositar y transferir fondos provenientes de actividades ilícitas, especialmente el narcotráfico, como también para intentar legitimar los activos, producto de tales actividades.
+
+Las transacciones y transferencias de fondos que diariamente ejecutan las instituciones bancarias, requieren identificar aquellas que tienen un origen legítimo, de aquellas que se pretenden realizar con la finalidad de encubrir negocios ilícitos.
+
+Ante tal situación, y de acuerdo también con las recomendaciones internacionales sobre la materia, los bancos deben tratar de orientar sus precauciones hacia un exhaustivo conocimiento de sus clientes y de las actividades que desarrollan, como también en el caso de las operaciones bancarias, deben procurar interiorizarse de las razones de éstas, cuando ellas no sean concordantes con el giro o profesión del cliente o aún siéndolo, parezcan desmedidas o sospechosas, sea por su monto, su frecuencia, o sus destinatarios, en el caso de transferencias de fondos.
+
+La necesidad de distinguir las operaciones legítimas de las transacciones cuya finalidad es el lavado de activos conducen a fijar la atención, como se señaló, en el conocimiento de los clientes con quienes opera la institución bancaria. En ese sentido se han elaborado también las recomendaciones contenidas en el documento del Comité de Basilea sobre "Prevención del uso criminal del sistema bancario con el propósito de lavado de dinero" y cuya versión en idioma inglés, se adjunta en el anexo a este Capítulo.
+
+Por su parte la Asociación de Bancos e Instituciones Financieras de Chile A.G., preparó un "Manual para la prevención del blanqueo de capitales", que contiene una serie de recomendaciones, concordantes con las pautas internacionales sobre la materia.
+
+2.- Manual de Procedimientos.
+
+Las instituciones financieras deben contar con un manual de procedimientos que indique las pautas que la entidad debe aplicar para evitar verse envuelta o servir de medio para la facilitación o realización de operaciones de lavado de dinero.
+
+Para la confección de ese manual se sugiere recoger las recomendaciones, tanto del Comité de Basilea como de la Asociación de Bancos e Instituciones Financieras de Chile A.G., que se dirigen principalmente al conocimiento que las instituciones financieras deben tener de sus clientes.
+
+Asimismo, deben contemplarse pautas relativas al análisis que debe hacerse de las transacciones que realicen sus clientes, particularmente cuando ellas no coincidan con la actividad conocida de éstos, sea por su monto, frecuencia, destinatarios o remitentes, etc.
+
+Por otra parte, para el caso de detección de operaciones que merezcan sospechas, deben establecerse reglas que consideren el discreto manejo y recopilación de los antecedentes que generan las dudas sobre la legitimidad de las operaciones que se estima deben ser investigadas.
+
+Por último, es conveniente incluir un código de conducta del personal que contenga los principios que la institución determine respecto de las relaciones que deben mantenerse con los clientes, que aseguren una conducta dentro de un estricto marco ético y responsable que evite un comportamiento de excesiva confianza con los clientes y la aceptación de regalos y atenciones que no correspondan a una relación normal entre los clientes y la institución financiera o sus funcionarios.
+
+3.- Oficial de Cumplimiento.
+
+Es conveniente que cada institución designe a un funcionario de confianza, de nivel gerencial, como Oficial de Cumplimiento, cuya función y responsabilidad será mantener una coordinación interna respecto de la vigilancia de las operaciones de los clientes con la empresa, la observancia de las instrucciones del manual de procedimiento, el conocimiento de los casos sospechosos y su comunicación tanto a la Administración Superior de la institución como a su Directorio y eventualmente, si así lo estimare, a las demás instituciones financieras. Todo ello, sin perjuicio de las funciones que le competen a la auditoría interna de la empresa.
+
+4.- Vigilancia del Directorio.
+
+El Directorio deberá aprobar el manual que contenga las políticas y procedimientos que la institución establezca, conducentes a evitar que ella sea utilizada para el lavado de activos.
+
+La persona de nivel gerencial responsable de los programas y procedimientos ("oficial de cumplimiento"), mantendrá informado al directorio de los resultados de su gestión. Por otra parte, deberá mantenerse una adecuada cobertura de auditoría, que le asegure al Directorio el apego a las políticas y procedimientos que ha aprobado.
+
+Al menos una vez al año se pondrá en tabla de sesión de Directorio la evaluación de esas políticas y procedimientos, sin perjuicio de la necesidad de atender, cuando corresponda, las observaciones que emanen de esta Superintendencia con motivo de su evaluación según lo indicado en el N°5 siguiente.
+
+5.- Evaluación de esta Superintendencia.
+
+La eficacia de las políticas y procedimientos adoptados por las instituciones, como asimismo las eventuales sanciones que pudiera aplicar este Organismo por incumplimiento de lo establecido en este Capítulo, serán considerados por esta Superintendencia en la evaluación y clasificación por gestión de que trata el Capítulo 1-13 de esta Recopilación.
+
+Anexo N° 1
+
+PREVENTION OF CRIMINAL USE OF THE BANKING SYSTEM FOR THE PURPOSE OF MONEY-LAUNDERING (December 1988)
+
+Preamble
+
+1. Banks and other financial institutions may be unwittingly used as intermediaries for the transfer or deposit of funds derived from criminal activity. Crimináis and their associates use the financial system to make payments and transfers of funds from one account to another; to hide the source and beneficial ownership of money; and to provide storage for bank-notes through a safe- deposit facility. These activities are commonly referred to as money- laundering.
+
+2. Efforts undertaken hitherto with the objective of preventing the banking system from being used in this way have largely been undertaken by judicial and regulatory agencies at national level. However, the increasing intemational dimensión of organised criminal activity, notably in relation to the narcotics trade, has prompted collaborative initiatives at the intemational level. One of the earliest such initiatives was undertaken by the Committee of Ministers of the Council of Europe in June 1980. In its report1 the Committee of Ministers concluded that "... the banking system can play a highly effectiVe preventive role while the cooperation of the banks also assists in the repression of such criminal acts by the judicial authorities and the pólice". In recent years the issue of how to prevent crimináis laundering the proceeds of crime through the financial system has attracted increasing attention from legislative authorities, law enforcement agencies and banking supervisors in a number of countries.
+
+3. The various national banking supervisory authorities represented on the Basle Committee on Banking Regulations and Supervisory Practices do not have the same roles and responsibilities in relation to the suppression of money- laundering. In some countries supervisors have a specific responsibility in this field; in others they may have no direct responsibility. This reflects the role of banking supervisión, the primary function of which is to maintain the overall financial stability and soundness of banks rather than to ensure that individual transactions conducted by bank customers are legitímate. Nevertheless, despite the limits in some countries on their specific responsibility, all members of the Committee firmly believe that supervisors cannot be indifferent to the use made of banks by criminals.
+
+4. Public confidence in banks, and henee their stability, can be undermined by adverse publicity as a result of inadvertent association by banks with crimináis. In addition, banks may lay themselves open to direct losses from fraud, either through negligence in screening undesirable customers or where the integrity of their own officers has been undermined through association with crimináis. For these reasons the members of the Basle Committee consider that banking supervisors have a general role to encourage ethical standards of professional conduct among banks and other financial institutions.
+
+1 Measures against the transfer and safeguarding of funds of criminal origin. Recommendation No. R(80) 10 adopted by the Committee of Ministers of the Council of Europe on 27th June 1980.
+
+5. The Committee believes that one way to promote this objective, consistent with differences in national supervisory practice, is to obtain intemational agreement to a Statement of Principies to which financial institutions should be expected to adhere.
+
+6. The attached Statement is a general statement of ethical principies which encourages banks' management to put in place effective procedures to ensure that all persons conducting business with their institutions are properly identified; that transactions that do not appear legitímate are discouraged; and that cooperation with law enforcement agencies is achieved. The Statement is not a legal document and its implementation will depend on national practice and law. In particular, it should be noted that in some countries banks may be subject to additional more stringent legal regulations in this field and the Statement is not intended to replace or diminish those requirements. Whatever the legal position in different countries, the Committee considere that the first and most important safeguard against money laundering is the integrity of banks' own managements and their vigilant determination to prevent their institutions becoming associated with crimináis or being used as a channel for money-laundering. The Statement is intended to reinforce those standards of conduct.
+
+7. The supervisory authorities represented on the Committee support the principies set out in the Statement. To the extent that these matters fall within the competence of supervisory authorities in different member countries, the autorities will recommend and encourage all banks to adopt policies and practices consistent with the Statement. With a view to its acceptance worldwide, the Committee would also commend the Statement to supervisory authorities in other countries.
+
+Statement of Principies
+
+### I. Purpose
+
+Banks and other financial institutions may unwittingly be used as intermediarles for the transfer or deposit of money derived from criminal activity. The intention behind such transactions is often to hide the beneficial ownership of funds. The use of the financial system in this way is of direct concern to pólice and other law enforcement agencies; it is also a matter of concern to banking supervisors and banks' managements, since public confidence in banks may be undermined through their association with criminals.
+
+This Statement of Principies is intended to outline some basic policies and procedures that banks' managements should ensure are in place within their institutions with a view to assisting in the suppression of money-laundering through the banking system, national and intemational. The Statement thus sets out to reinforce existing best practices among banks and, specifically, to encourage vigilance against criminal use of the payments system, implementation by banks of effective preventive safeguards, and cooperation with law enforcement agencies.
+
+### II. Customer identiflcation
+
+With a view to ensuring that the financial system is not used as a channel for criminal funds, banks should make reasonable efforts to determine the true identity of all customers requesting the institution's services. Particular care should be taken to identify the ownership of all accounts and those using safe- custody facilities. All banks should institute effective procedures for obtaining identification from new customers. It should be an explicit policy that significant business transactions will not be conducted with customers who fail to provide evidence of their identity.
+
+### III. Compliance with laws
+
+Banks management should ensure that business is conducted in conformity with high ethical standards and that laws and regulations pertaining to financial transactions are adhered to. As regards transactions executed on behalf of customers, it is accepted that banks may have no means of knowing whether the transaction stems from or forms part of criminal activity. Similarly, in an intemational context it may be difficult to ensure that cross-border transactions on behalf of customers are in compliance with the regulations of another country. Nevertheless, banks should not set out to offer services or provide active assistance in transactions which they have good reason to suppose are associated with money-laundering activities.
+
+### IV. Cooperation with law enforcement authorities
+
+Banks should cooperate fully with national law enforcement authorities to the extent permitted by specific local regulations relating to customer confidentiality. Care should be taken to avoid providing support or assistance to customers seeking to deceive law enforcement agencies through the provisión of altered, incomplete or misleading information. Where banks become aware of facts which lead to the reasonable presumption that money held on deposit derives from criminal activity or that transactions entered into are themselves criminal in purpose, appropriate measures, consistent with the law, should be taken, for example, to deny assistance, sever relations with the customer and cióse or freeze accounts.
+
+### V. Adherence to the Statement
+
+All banks should formally adopt policies consistent with the principies set out in this Statement and should ensure that all members of their staff concemed, wherever located, are informed of the bank's policy in this regard. Attention should be given to staff training in matters covered by the Statement. To promote adherence to these principies, banks should implement specific procedures for customer Identification and for retaining intemal records of transactions. Arrangements for intemal audit may need to be extended in order to establish an effective means of testing for general compliance with the Statement.
+
 CAPITULO 2-1 (Bancos y Financieras)
 
 MATERIA:
