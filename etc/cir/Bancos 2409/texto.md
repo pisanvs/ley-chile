@@ -24692,6 +24692,16 @@ Por último, en la chequera de pago, cuando ése sea el sistema utilizado, deber
 
 En todo caso, cuando se produzcan reclamaciones relacionadas con el cobro de honorarios por cobranza de créditos, corresponderá a la entidad financiera probar que, de acuerdo con estas instrucciones, informó de manera completa y oportuna al cliente sobre el particular.
 
+CAPITULO 18-13 (Bancos y Financieras)
+
+MATERIA:
+
+PROHIBICION DE OFRECER INCENTIVOS DISTINTOS DE INTERESES, REAJUSTES O COMISIONES.
+
+A las instituciones financieras no les está permitido ofrecer incentivos en dinero o avaluables en dinero, distintos de intereses, reajustes o comisiones, para atraer a la clientela y al público a que efectúe depósitos, contrate créditos u otros servicios con ellas. Este principio es absoluto respecto de las operaciones pasivas, ya se trate de cuentas corrientes, cuentas de ahorro, depósitos a la vista o a plazo, etc.
+
+Las operaciones activas se encuentran sujetas a iguales normas. Sin embargo se exceptúa el sistema denominado "de marca compartida" (co-branding), utilizado en tarjetas de crédito y que consiste en una asignación de puntaje al titular de la tarjeta, según el uso que haga de ella, permitiéndole acceder, de acuerdo al puntaje acumulado, a determinados beneficios otorgados por el comercio asociado a la tarjeta y siempre que tales beneficios guarden una razonable proporción con el esfuerzo realizado para obtener el puntaje requerido. Esta operatoria así acotada respecto de este sistema en ningún caso significa aceptar que se efectúen sorteos relacionados con él, que permitan a un número reducido de clientes, recibir bienes de valor desproporcionado con el aporte realizado. Esto no es aceptable bajo ningún concepto, aunque los bienes sorteados los proporcione el comercio asociado o terceros.
+
 CAPITULO 19-1 (Bancos y Financieras)
 
 MATERIA:
