@@ -1,0 +1,1 @@
+Con fecha 28 julio de 2000, la Secretaría Regional Ministerial de la V Región, dictó la resolución Nº1002, por medio de la cual se le otorgó al ''Club Deportivo Alejandro Selkirk'', una concesión de uso gratuito del inmueble ubicado en calle Dresden s/n, de la comuna de Juan Fernández, Provincia de Valparaíso, por un plazo de 5 años.
