@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 994 de 09.06.88, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s 1 a la 6, sitios N°s 1 al 21 y 23 al 32 y Reservas Cora N°s C, D-1, D-2, D-3, E y F, del Proyecto de Parcelación "Cosmito" de la comuna de Penco VIII Región, formado por parte del predio "Granja Cosmito" Los Derechos de Agua provienen de dos mercedes de agua de los Esteros Paso de Piedra y Sin Nombre conducidas por el desagüe la Greda y de vertientes alimentadoras de un tranque. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
