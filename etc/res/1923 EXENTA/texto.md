@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1923 de 09 de Septiembre de 1987, conforme artículo 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Norte o Las Casas del Fundo Ostalazas" de la comuna de Melipilla, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 17, sitios A al G; K L y M del Proyecto de Parcelación "La Alianza" formado por predio señalado y "Resto Hijuela Sur o La Estación del Fundo Ostalazas". Los Derechos de Agua se extraen de los canales Picano, derivado del Río Maipo y Puangue, derivado del Río Maipo, Derrames del Desague El Marco y aguas de la Acequia Esmeraldina, derivada del canal San José.
+
+Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
