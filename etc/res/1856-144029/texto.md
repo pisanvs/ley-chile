@@ -1,0 +1,3 @@
+Por resolución Nº 1.856, de 16 de septiembre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110100, presentada por Humberto JosE Fischer Llop, para operar un centro de cultivo ubicado en Canal Pérez Sur, Sector este de la Isla Teresa - 3, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 16 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
