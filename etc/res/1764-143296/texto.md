@@ -1,0 +1,3 @@
+Por resolución Nº 1.764, de 7 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96106091, presentada por BERTIL RAGNAR TENGELIN BARRIENTOS, para operar un centro de cultivo ubicado en Punta Pichagua, Isla Laitec, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 7 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
