@@ -1,0 +1,3 @@
+Por resolución Nº 1.644, de 23 de noviembre de 1998, de esta Subsecretaría, autorízase a AGAR DEL PACIFICO S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Federico Schwager Nº 1112, Parque Industrial Escuadrón, comuna de Coronel, VIII Región, donde podrá procesar en la línea de elaboración de Agar-agar, el recurso alga del género Gracilaria.
+
+Valparaíso, 23 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
