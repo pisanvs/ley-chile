@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 550, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 77, superficie 462 m2, sin rol de avalúo, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa II" y se acordó el valor de indemnización con su propietario Waldo Godoy Avalos, ascendente a la cantidad de $649.268.-
+
+Fiscal del Ministerio de Obras Públicas.
