@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.280, de 29 de octubre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 3 y 4, para la obra Camino Ruta D-595, Ovalle Hurtado, sector Cruce Ruta 43-Embalse Recoleta Tramo Km.
+
+0.000 al 9.964,25, que figuran a nombre de Suc. Martín Ochoa y Arturo Araya A. y otros, roles de avalúos 582-14 y 582-17, comuna de Ovalle, IV Región, superficies 1.621 m2 y 2.483 m2. La Comisión de Peritos compuesta por los señores Héctor Enrique Lantermo Gillet, Alfredo Prieto Parra y Víctor Vargas Reyes, fijó con fecha 22 de diciembre de 1997, en la cantidad de $324.200, lote 3 y $496.600, lote 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
