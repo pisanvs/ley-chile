@@ -1,0 +1,3 @@
+Por Resolución N° 1.029, de 14 de Agosto de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SKYRING SALMON S.A., R.U.T. N° 79.698.670-0, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en sector rural de Rauco, Chonchi, Chiloé, la línea de elaboración de Ahumado, en la que podrá procesar los siguientes recursos hidrobiológicos: Salmón del Atlántico, Salmón plateado, Salmón rey, Trucha arcoiris, Trucha café.
+
+Valparaíso, 14 de Agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
