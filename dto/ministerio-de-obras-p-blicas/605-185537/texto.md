@@ -1,0 +1,3 @@
+Por decreto MOP Nº605, de 30 de marzo de 2001, se expropió el lote de terreno Nº46, superficie 2.417 m², rol de avalúo 866-186, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Troncal Sur Tramo 1, Quinta Región y se acordó el valor de indemnización con sus propietarios Yolanda Araya Maldonado y otros, ascendente a la cantidad de $11.821.479.
+
+Fiscal del Ministerio de Obras Públicas.
