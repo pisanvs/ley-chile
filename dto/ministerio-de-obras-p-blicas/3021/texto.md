@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.021, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L MOP Nº206, de 1960, se expropió el lote de terreno Nº710, para la obra:
+
+''Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector C: Acceso Sur a Santiago Km 17.700,00 a Km 46.600,00'', Región Metropolitana, que figura a nombre de Sevilla Araya Rafael, rol de avalúo 136-133, comuna de Paine, superficie 13.090 m². La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Jorge Eduardo Lackington Vergara y Mario Bochetti Ojeda, fijó con fecha 27 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $20.485.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
