@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 632, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 117-A, superficie 184 M2, sin rol de avalúo, comuna de Alto del Carmen, III Región, para la obra ''Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al 70,000, Etapa III'' y se acordó el valor de indemnización con su propietario don Gildo Gajardo Valderrama, ascendente a la cantidad de $294.981.-
+
+Fiscal del Ministerio de Obras Públicas.
