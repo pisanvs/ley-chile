@@ -1112,67 +1112,197 @@ CAPITULO 1-7 (Bancos y Financieras)
 
 MATERIA:
 
-DISPOSITIVOS ELECTRONICOS AUTOSUFICIENTES.
+SISTEMAS ELECTRONICOS DE CONSULTA Y TRANSFERENCIA DE FONDOS.
 
-### I. GENERALIDADES
+### I. DISPOSITIVOS ELECTRONICOS AUTOSUFICIENTES
 
 Para los efectos de las presentes instrucciones, se entenderá por dispositivos electrónicos autosuficientes, todos aquellos terminales habilitados para que los clientes autorizados ejecuten transacciones por vía electrónica o consulten datos relativos a sus saldos o transacciones con la respectiva institución financiera.
 
-El término dispositivos electrónicos autosuficientes incluye, a vía de ejemplo, los cajeros automáticos para efectuar operaciones tales como giros y depósitos en sus cuentas corrientes o cuentas de ahorro, transferencias entre cuentas, consultas de saldos o pagos de servicios: los terminales de puntos de venta; dispositivos para transmisiones por vía telefónica o por télex que generan
+El término dispositivos electrónicos autosuficientes incluye, a vía de ejemplo, los cajeros automáticos para efectuar operaciones tales como giros y depósitos en sus cuentas corrientes o cuentas de ahorro, transferencias entre cuentas, consultas de saldos o pagos de servicios; los terminales de puntos de venta; dispositivos para transmisiones por vía telefónica o fax que permiten ejecutar una orden; o, cualquier terminal mediante el cual el usuario debite o acredite una cuenta sin otro intermediario que el servicio automatizado.
 
-documentos que permiten ejecutar una orden; o, cualquier terminal mediante el cual el usuario debite o acredite una cuenta sin otro intermediario que el servicio automatizado.
+### II. REQUISITOS QUE DEBEN CUMPLIR LOS SISTEMAS UTILIZADOS
 
-### II. AUTORIZACION DE ESTA SUPERINTENDENCIA PARA LA INSTALACION DE DISPOSITIVOS ELECTRONICOS AUTOSUFICIENTES
+### 1. Sistemas de consultas de información
 
-La incorporación de configuraciones que deben adaptarse a las necesidades de usuarios locales y, especialmente, la prestación de servicios que deben encuadrarse en las disposiciones legales y reglamentarias vigentes, hacen necesario que esta Superintendencia autorice la habilitación de los dispositivos electrónicos autosuficientes que decidan instalar las entidades financieras.
+Dentro de este grupo se incluyen todos aquellos servicios en que un cliente de la institución financiera, mediante el uso de algún dispositivo electrónico autosuficiente, efectúa una consulta que no signifique la emisión de un instrumento susceptible de ser valorado ni una transferencia de fondos. Constituyen sistemas de consulta, por ejemplo, aquellos que entregan información de saldos o movimientos en cuenta corriente o de ahorro, estados de cobranzas, valor de la unidad de fomento, tipo de cambio, etc.
 
-Para ese efecto, las instituciones fiscalizadas deberán poner en conocimiento de este Organismo todos aquellos servicios dirigidos al usuario que contemplen terminales electrónicos habilitados para la ejecución de movimientos de fondos o dispositivos para consulta de información sujeta a secreto o reserva.
+En aquellos casos en que el sistema, para dar respuesta a la consulta, deba acceder a fuentes de información sujetas a reserva o afectas al secreto bancario, deberá resguardarse la privacidad y confidencialidad de la información requerida tomando la medidas tendientes a asegurar que dicha información sea accesible sólo para aquellos usuarios que se encuentren autorizados para tal efecto.
 
-### 1. Información que debe proporcionarse
+De este modo, si se trata de una consulta telefónica, deberá proporcionarse al usuario una clave (password o PIN) que permita su identificación al momento de efectuarla.
 
-El informe que se envíe con ese objeto, deberá comprender, a lo menos, los siguientes antecedentes:
+Para el caso en que la consulta se efectúe a través de un sistema que utilice una tarjeta con banda magnética para el acceso, el banco deberá tener sistemas de operación suficientemente flexibles que posibiliten, por lo menos, el bloqueo de la tarjeta inmediatamente que ello sea requerido por el cliente.
 
-a) Descripción de los dispositivos electrónicos que se incorporarán, así como una relación de los servicios que prestarán al cliente.
+### 2. Operaciones que generan documentos valorados
 
-b) Mecanismos de control interno y de seguridad necesarios para garantizar el buen servicio de la instalación; y,
+Dentro de este grupo se incluyen todos aquellos servicios en que un cliente del banco, mediante el uso de dispositivos electrónicos autosuficientes, efectúa operaciones que se traducirán en la emisión de documentos valorados, tales como cheques, órdenes de pago, vales vista, pagarés o certificados de depósitos a plazo, etc. Igualmente, quedan comprendidos en este grupo el suministro de talonarios de cheques por medio de estos dispositivos.
 
-c) El procedimiento de registro contable de la operación ejecutada por intermedio del equipo, en caso de que su utilización involucre algún tipo de transacción.
+Para efectuar tales operaciones, deberán cumplirse los siguientes requisitos, sin perjuicio de los demás mecanismos de control que la institución estime conveniente disponer:
 
-Tratándose de operaciones con cajeros automáticos y terminales de punto de venta, deberá informarse, además, lo siguiente:
+a) La institución deberá contar con un mandato o autorización de su cliente.
 
-i) Días y horario de funcionamiento y ubicación exacta de los equipos, cuando ellos no formen parte de una red compartida con otras instituciones financieras, y
+b) La privacidad y seguridad se resguardará mediante una clave (password o PIN) que permita la identificación del cliente al momento de realizar la operación.
 
-ii) Oficina bancaria de la cual dependerá la operatoria administrativa y contable de dichas unidades.
+c) Al tratarse de órdenes transmitidas que originen instrumentos valorados cuyos beneficiarios sean personas naturales o jurídicas diferentes al cliente que utiliza el servicio, las transmisiones o mensajes deberán ser encriptados.
 
-No será necesario enviar la información señalada en este numeral, cuando se trate de extensión de un servicio ya existente, sea éste a nuevos clientes o a otras oficinas o dependencias de la institución financiera, en la medida en que los dispositivos y los sistemas de control y seguridad, sean los que esta Superintendencia conoció previamente.
+d) Los sistemas que utilicen una tarjeta con banda magnética para el acceso deberán permitir el bloqueo de la tarjeta cada vez que ello sea requerido por el cliente.
 
-Sin embargo, deberá actualizarse la información relativa a cajeros automáticos y terminales de punto de venta a que se refieren los literales i) e ii), cada vez que ocurra algún cambio.
+### 3. Transferencia electrónica de fondos
 
-### 2. Autorización para la puesta en marcha
+Se entenderá por transferencia electrónica de fondos toda operación que signifique débitos o créditos de dinero en una cuenta, efectuada por medio de dispositivos electrónicos autosuficientes.
 
-La autorización para la puesta en marcha de estos dispositivos se otorgará previa verificación, por parte de esta Superintendencia, de que el sistema contemple los controles mínimos que aseguren razonablemente el cumplimiento de las normas que rigen las operaciones que se realizarán mediante el uso de dispositivos electrónicos autosuficientes y el resguardo de los intereses de los usuarios.
+Con el objeto de evitar pérdidas patrimoniales a sus clientes y de cautelar la reserva de las operaciones, el sistema que se establezca deberá contar con los medios que garanticen la privacidad de las transacciones que se efectúen por su intermedio. De igual modo, deberá velarse para que el acceso y la ejecución de las operaciones de transferencias electrónicas de fondos quede circunscrito exclusivamente a las personas autorizadas para ello. En este sentido, sin perjuicio de los demás mecanismos de control interno y de seguridad que la institución estime conveniente disponer, el sistema deberá:
 
-### III. COBRO DE GASTOS Y COMISIONES A USUARIOS DE LOS DISPOSITIVOS AUTOSUFICIENTES
+a) Activar un perfil de seguridad que identifique el terminal lógico o físico, definido para el cliente, de manera que se permita el acceso sólo a las cuentas que estén previamente autorizadas.
+
+b) Tener predefinidas todas la cuentas, propias y de terceros, cuando corresponda, que estarán adscritas al sistema, las que deberán tener el carácter de exclusivas en términos de su operación. Por consiguiente, para ejecutar una transferencia de fondos será imprescindible que las cuentas de origen y de destino de los fondos sean previamente incorporados al sistema a requerimiento de los respectivos titulares.
+
+c) Permitir al cliente titular de una cuenta, limitar a un monto máximo diario las transferencias de fondos que, mediante ese sistema, se realicen desde su cuenta a cuentas propias o de terceros. En todo caso, el importe susceptible de girarse no podrá exceder del saldo disponible de la cuenta girada, es decir, del monto no afecto a retención a la fecha y hora en que se ejecuta la instrucción.
+
+d) Autentificar los mensajes y asegurar que los mensajes recibidos correspondan exactamente a los emitidos.
+
+e) Emitir un comprobante al momento de registrar las transacciones que involucren movimientos de fondos. Este deberá indicar a lo menos la cuenta debitada, la cuenta acreditada, el monto transferido, la fecha de la contabilización, el nuevo saldo disponible de la cuenta girada y el saldo contable.
+
+f) Encriptar los mensajes transmitidos en el caso de que el sistema incluya transferencias de fondos a cuentas de otros titulares. La encriptación deberá considerar, como mínimo, la siguiente información: claves de identificación, cuentas involucradas en la transacción y montos de ésta. Asimismo, los archivos residentes en los dispositivos autosuficientes de los clientes, cuando corresponda, deberán estar codificados.
+
+g) Mantener mecanismos de información o bloqueo que impidan efectuar una operación afectando una cuenta que no se encuentre vigente al momento de realizar la transacción.
+
+### 4. Archivos de respaldo de transferencias electrónica de fondos
+
+El sistema que se use para efectos de transferencia electrónica de fondos deberá contemplar, a lo menos, los siguientes archivos magnéticos:
+
+4.1. Archivo de clientes.
+
+Este archivo deberá permitir la obtención de los siguientes datos referidos a una fecha determinada:
+
+a) Clientes adscritos al sistema y sus respectivos números de RUT.
+
+b) Cuentas que pueden afectarse con transferencias electrónicas de fondos, de acuerdo con lo autorizado por el cliente.
+
+c) Monto máximo para cada transferencia.
+
+d) Servicios cuyas cuentas pueden pagarse automáticamente.
+
+4.2. Archivos de transacciones realizadas.
+
+El sistema deberá generar archivos que contengan todas las transacciones realizadas por este medio. La información de estos archivos comprenderá, para cada transacción:
+
+a) Los números de identificación de las cuentas involucradas.
+
+b) El monto de cada transacción.
+
+c) Fecha de contabilización.
+
+d) Fecha y la hora exacta de su realización.
+
+e) Nombre y RUT del cliente.
+
+El plazo de mantención de estos archivos será el dispuesto por esta Superintendencia en conformidad con lo establecido en el Art. 19 de la Ley General de Bancos.
+
+### III. ANTECEDENTES SOBRE LOS SISTEMAS
+
+Los bancos deberán disponer en todo momento, para consulta de esta Superintendencia, lo siguiente:
+
+a) Los procedimientos administrativos y las características técnicas del software y hardware del sistema de aplicación, incluyendo la transmisión de datos. En esta documentación se deberá incluir, además, una regulación de las responsabilidades, derechos y obligaciones del prestador de servicios y del cliente, en todo lo que atañe al uso del servicio ofrecido y, en particular, a la estipulación de los mecanismos de seguridad, control y confidencialidad de las operaciones que pueden realizarse, las condiciones generales de utilización del servicio y las condiciones específicas que rigen para las transacciones que se contemple ofrecer.
+
+b) Una descripción del procedimiento establecido para el caso de divergencias entre la institución financiera y el usuario, en relación con las transacciones realizadas, como por ejemplo su monto, oportunidad, usuarios participantes, etc.
+
+c) Una opinión de la Contraloría Interna de la institución financiera, referente a la razonabilidad de los mecanismos de seguridad y control interno del sistema.
+
+### IV. CONTABILIZACIÓN DE LAS OPERACIONES EFECTUADAS EN HORARIO ESPECIAL
+
+Los giros, depósitos, pagos y toda otra operación mediante estos sistemas, efectuada con posterioridad a las 14:00 horas, como asimismo las transacciones realizadas en días sábado, domingo y festivos, deberán considerarse para todos los fines como efectuados el día hábil bancario siguiente.
+
+### V. COBRO DE GASTOS Y COMISIONES A USUARIOS DE LOS SISTEMAS
 
 ### 1. Generalidades
 
-Las instituciones financieras que ofrecen a sus clientes diversos servicios mediante el uso de dispositivos electrónicos autosuficientes, están facultadas para cobrar a los usuarios de esos sistemas automáticos, el reembolso de los gastos que ocasione su utilización, comisiones, o ambos conceptos, según se pacte en el respectivo convenio con el cliente, siempre que se cumplan las condiciones que se señalan en este título y se ajusten, en los casos que corresponda, a las disposiciones que, en uso de sus facultades pueda dictar el Banco Central de Chile sobre la materia.
+Las instituciones financieras que ofrecen a sus clientes diversos servicios mediante el uso de dispositivos electrónicos autosuficientes, están facultadas para cobrar a los usuarios de esos sistemas automáticos, tanto el reembolso de los gastos que ocasione su utilización, como las comisiones que se hayan establecido, o ambos conceptos, según se pacte en el respectivo convenio con el cliente, siempre que se cumplan las condiciones que se señalan en este título.
 
 ### 2. Información a los usuarios
 
-Los cobros que se implanten por los conceptos indicados o las modificaciones a las tarifas ya establecidas, deberán comunicarse a los respectivos usuarios, al momento en que éstos se incorporen al servicio o, en el caso de aquellos clientes que ya son usuarios del sistema, se les informará de ello por carta, con una anticipación mínima de quince días con respecto a la fecha en que comience a regir el cobro de que se trate.
+Los cobros que se implanten por los conceptos indicados o las modificaciones a las tarifas ya establecidas, deberán comunicarse a los usuarios, al momento en que éstos se incorporen al servicio o, en el caso de aquellos clientes que ya son usuarios del sistema, se les informará de ello por carta, con una anticipación mínima de quince días con respecto a la fecha en que comience a regir el cobro de que se trate.
+
+Asimismo, las entidades financieras deberán indicar en sus pizarras de información al público, el importe de las comisiones y gastos que cobran por los servicios que se prestan mediante dispositivos que utilizan tarjetas con banda magnética.
 
 ### 3. Modalidad de cobro de las comisiones
 
 Las comisiones que se cobren por la utilización de estos sistemas automáticos deben limitarse exclusivamente a los usuarios del sistema y podrán cobrarse con la periodicidad y modalidad que cada institución determine, debiendo en todo caso atenerse a las condiciones informadas a sus clientes.
 
-Los cobros que se hagan por este concepto, deben tratarse en forma totalmente separada de las comisiones que se cobren por mantención de cuentas corrientes o de cuentas de ahorro, a que se refieren los Capítulos 2-2 y 2-4 de esta Recopilación Actualizada de Normas, respectivamente.
+Los cobros que se hagan por este concepto, deben tratarse en forma totalmente separada de las comisiones que se cobren por mantención de cuentas corrientes o cuentas de ahorro, a que se refieren los Capítulos 2-2 y 2-4 de esta Recopilación de Normas, respectivamente.
 
 Cuando el titular de una cuenta de ahorro sea a su vez cuentacorrentista del mismo banco, el cargo por concepto de comisiones o de recuperación de gastos por el uso de una tarjeta u otro medio que permita el acceso a sistemas que posibiliten transacciones electrónicas en ambas cuentas, se efectuará preferentemente en la cuenta corriente.
 
-4. Obligación de mantener la prestación de servicios en la forma tradicional a clientes que no utilicen cajeros automáticos.
+4. Obligación de mantener la prestación de servicios en la forma tradicional.
 
-Las instituciones financieras que ofrezcan a sus clientes servicios de cajero automático para giros y depósitos en cuenta corriente, además de otras prestaciones por ese mismo medio, tales como giros y depósitos en cuenta de ahorro, consultas de saldos, pagos de servidos, transferencias entre cuentas, etc., y establezcan el cobro de comisiones o el reembolso de gastos por el uso del sistema, deben mantener la atención directa en sus distintas oficinas, tanto para aquellos clientes que utilicen los servicios automáticos, como para aquellos que no se suscriban a esa modalidad, de todos los servicios a que se puede acceder por los sistemas electrónicos, sin discriminación alguna entre uno y otro procedimiento, salvo las limitaciones en cuanto se refiere a los horarios de atención de público que ha fijado esta Superintendencia de conformidad con la ley.
+Las instituciones financieras que ofrezcan a sus clientes servicios mediante dispositivos electrónicos autosuficientes y establezcan el cobro de comisiones o el reembolso de gastos por el uso del sistema, deben mantener de todos modos la atención directa en sus distintas oficinas, tanto para aquellos clientes que utilicen los servicios automáticos, como para aquellos que no se suscriban a esa modalidad. Esa atención directa debe comprender todos los servicios a que se puede acceder por los sistemas electrónicos, sin discriminación alguna entre uno y otro procedimiento, salvo las diferencias propias de los sistemas automatizados y las limitaciones en cuanto se refiere a los horarios de atención de público que ha fijado esta Superintendencia de conformidad con la ley.
+
+CAPITULO 1-10 (Bancos y Financieras)
+
+MATERIA:
+
+CONSERVACION Y ELIMINACION DE ARCHIVOS.
+
+De conformidad con lo dispuesto en el artículo 19 de la Ley General de Bancos, las instituciones sometidas a la fiscalización de esta Superintendencia deben conservar durante diez años sus libros, formularios, correspondencia, documentos y papeletas. Sin embargo, la misma norma legal faculta a este Organismo Contralor para autorizar a las referidas instituciones la eliminación de parte de estos archivos antes del plazo mencionado, para exigirles que determinados documentos o libros se guarden por plazos mayores y para conservar reproducciones mecánicas o fotográficas en remplazo de los documentos originales.
+
+En uso de la facultad antes señalada, esta Superintendencia imparte las siguientes instrucciones:
+
+### I. DOCUMENTOS QUE DEBERAN CONSERVARSE EN ORIGINAL
+
+Las instituciones financieras deberán conservar en original los siguientes documentos:
+
+a) los libros, documentos y correspondencia que digan relación directa o indirecta con operaciones que mantengan registradas en su contabilidad o con algún asunto o litigio pendiente;
+
+b) los libros de actas de juntas de accionistas, de sesiones de directorio o comités resolutivos;
+
+c) los antecedentes necesarios para certificar el tiempo servido y la renta percibida por sus trabajadores; y,
+
+d) en general, todos los documentos relacionados con la historia institucional de la empresa.
+
+Los documentos que no estén incluidos en las definiciones de los literales precedentes, podrán eliminarse de los archivos al cumplirse diez años a contar de la fecha en que fueron extendidos o de la última anotación en ellos, según corresponda, o bien antes de cumplirse ese plazo en los casos y condiciones que se señalan en los títulos siguientes de este Capítulo, todo ello naturalmente, sin perjuicio de respetar los plazos que exija la normativa tributaria, laboral, cambiaría, municipal, etc.
+
+### II. ELIMINACION DE DOCUMENTOS SIN MICROGRABACION O MICROCOPIA PREVIA
+
+Las instituciones financieras podrán eliminar, sin necesidad de micrograbarla o microcopiarla previamente, toda aquella documentación de cinco o más años de antigüedad que corresponda a solicitudes relacionadas con emisión o entrega de documentos, copias de estados de cuenta, copias de traspasos contables y libros o estados de cuenta subsidiarios o auxiliares, siempre que no se refieran a operaciones, negocios o asuntos que se encuentren vigentes o pendientes o, en el caso de libros o estados, que contengan operaciones en esa situación.
+
+### III. DOCUMENTOS QUE PUEDEN ELIMINARSE PREVIA SU MICROGRABACION O MICROFILMACION
+
+Las instituciones financieras pueden eliminar, previa su microfilmación o micrograbación, los documentos que se indican a continuación, siempre que correspondan a operaciones, asuntos o situaciones totalmente concluidas o finiquitadas:
+
+a) Duplicados de recibos o de comprobantes de depósitos en cuenta corriente.
+
+b) Traspasos de acciones.
+
+c) Copias de contratos, convenios y correspondencia de distinta naturaleza.
+
+La eliminación de dichos documentos, una vez grabados o microfilmados, podrá hacerse dentro del tiempo que cada institución estime prudente.
+
+Las microcopias o micrograbaciones deben conservarse por el período de diez años, contado desde la fecha de origen de los respectivos documentos originales.
+
+Además, los bancos podrán micrograbar o microfilmar los cheques pagados que sean entregados a los respectivos giradores, conforme a lo establecido en el título IV del Capítulo 2.2 de esta Recopilación Actualizada de Normas.
+
+IV. LEY N° 18.845, QUE ESTABLECE SISTEMA DE MICROCOPIA O MICROGRABACION DE DOCUMENTOS.
+
+La Ley N° 18.845, de 3 de noviembre de 1989, estableció un sistema de microcopia o micrograbación de documentos, disponiendo en su artículo 5° que las microformas y copias pertenecientes a archivos privados, tendrán el mismo mérito que los antecedentes originales.
+
+Esta Superintendencia autoriza utilizar este procedimiento en todos aquellos documentos que no sea necesario guardar en original, según lo indicado en el título I de este Capítulo. Resulta obvio que no será necesario aplicar este sistema en el caso de los documentos en que se puede proceder a su micrograbación o microfilmación simple, según lo expresado en el título III anterior.
+
+### 1. Requisitos que debe cumplir este procedimiento
+
+Las microformas, sus copias y duplicados que se confeccionen al amparo de las disposiciones a que se refiere este título, deberán ceñirse a las normas técnicas de la Organización Internacional para la Estandarización (ISO), aprobadas como normas oficiales de la República de Chile por el Instituto Nacional de Normalización, a través del correspondiente acto administrativo y cumplir, además, los siguientes requisitos:
+
+a) Que la microcopia o micrograbado hayan sido efectuados por alguna de las personas o entidades inscritas en el Registro del Conservador del Archivo Nacional y que cumplan con los demás requisitos que se establecen en el D.F.L. N° 4, publicado en el Diario Oficial del 30 de diciembre de 1991; y,
+
+b) Que el proceso de microcopia o micrograbado se efectúe en la forma que señala el artículo 3°, incisos segundo y tercero, de la ley.
+
+### 2. Inscripción en el Registro del Conservador del Archivo Nacional
+
+El D.F.L. N° 4 permite expresamente inscribirse en el registro a que se refiere la letra a) del artículo 5° de la ley 18.845, entre otras instituciones, a los bancos, siempre que estén autorizados por la Superintendencia para utilizar procedimientos de microcopia o micrograbado, destinados a la reproducción de sus propios documentos, autorización que debe entenderse otorgada en la medida en que se cumplan las correspondientes disposiciones legales y las instrucciones de este Capítulo, y que se refieran a los documentos que este título permite grabar.
+
+### 3. Destrucción de documentación
+
+Conforme lo dispuesto en el artículo 6° de la Ley N° 18.845, tratándose de instrumentos privados, puede procederse a la destrucción de los documentos que sean microcopiados o micrograbados de conformidad a la ley, una vez transcurridos cinco años desde la fecha de la microcopia o micrograbación.
+
+De acuerdo a lo establecido en el inciso tercero, del mencionado artículo, para la destrucción de documentos pertenecientes a archivos o registros privados, como son los de las instituciones financieras, es necesaria la notificación mediante un aviso que se publicará en el Diario Oficial con una anticipación mínima de 90 días. Dicho aviso debe indicar la fecha fijada para la destrucción, una breve descripción genérica de los documentos y de su fecha o período de emisión, debiendo señalar que cualquier persona que tuviere interés en ello podrá solicitar y obtener a su costa certificaciones vinculadas con los documentos y copias del mismo, antes de que se proceda a su destrucción.
 
 CAPITULO 2-1 (Bancos y Financieras)
 
@@ -1638,7 +1768,7 @@ Si, por negligencia o descuido de alguno de sus funcionarios, el banco paga un c
 
 4.4. Aviso de cargo.
 
-Cada vez que se practique un cargo a una cuenta corriente por cualquier causa distinta del pago de cheques, de giros efectuados a través de cajeros automáticos o del impuesto que grava a los mismos, el banco deberá despachar al cliente, en el mismo día en que se debite la cuenta, un aviso dándole a conocer el origen y monto del cargo efectuado.
+Cada vez que se realiza un cargo a una cuenta corriente por cualquier causa distinta del pago de cheques, transferencia electrónica de fondos, incluido retiro a través de cajeros automáticos y su respectivo impuesto, o del pago de servicios previamente pactados con el titular, el banco deberá despachar al cliente, en el mismo día en que se debite la cuenta, un aviso dándole a conocer el origen y monto del cargo efectuado.
 
 ### 5. Cobro de comisiones a titulares de cuentas corrientes
 
@@ -2258,77 +2388,19 @@ Por lo tanto, la persona que pierde un libreto de cheques o algún formulario de
 
 ### IV. OTRAS DISPOSICIONES
 
-### 1. Microfilmación y devolución de los cheques pagados
+### 1. Devolución de los cheques pagados
 
-El inciso 4° del artículo 19 de la Ley General de Bancos establece que el Superintendente podrá autorizar a las empresas bancarias para devolver al librador los cheques cancelados. Ellos tiene relación con el primer inciso de dicho artículo, que obliga a los bancos a conservar durante diez años los documentos y faculta al Superintendente para disponer la disminución o ampliación de dicho plazo y permitir la conservación de reproducciones fotográficas en reemplazo de los documentos originales.
+Conforme a lo dispuesto en el inciso 4° del artículo 19 de la Ley General de Bancos, esta Superintendencia autoriza a las empresas bancarias para devolver al librador los cheques cancelados, siempre que se cumplan las siguientes condiciones:
 
-1.1. Devolución de los cheques cancelados.
+a) Que el banco conserve micrograbaciones o microfilmes de los cheques entregados al librador, al menos durante un plazo de cinco años; y,
 
-Para devolver los cheques cancelados a los libradores, es condición indispensable que el banco conserve microfilmes de ellos, de acuerdo con las presentes instrucciones.
+b) Que el titular de la cuenta corriente solicite o acepte el procedimiento de devolución.
 
-En caso de que algún cuentacorrentista no acepte dicha devolución, el banco deberá conservar en sus archivos los cheques cancelados hasta que se cumpla el plazo de 10 años dispuesto por la ley, aún cuando ellos sean también microfilmados. Por tratarse de documentación del banco, en ningún caso las empresas bancarias podrán destruir los documentos originales que no sean entregados a los libradores, aunque cuenten con una conformidad de éstos, hasta tanto no se cumpla el plazo previsto en el artículo 19 de la Ley General de Bancos.
+Los cheques podrán devolverse por períodos determinados o bien conjuntamente con el envío del estado de cuenta corriente, sin perjuicio de hacerlo también en la oportunidad en que el librador lo solicite.
 
-La devolución de los cheques podrá efectuarse por períodos determinados o bien conjuntamente con el envío del estado de cuenta corriente.
+El costo de la micrograbación o microfilmación será exclusivamente de cargo del banco, pudiendo cobrarse al interesado las copias de los cheques que solicite.
 
-1.2. Autorización para microfilmar los cheques.
-
-Todo banco que desee acogerse al procedimiento de devolución de cheques pagados,deberá solicitar para ello autorización previa de esta Superintendencia mediante carta ampliamente explicativa de los elementos que utilizará con dicho propósito, de cuál será la unidad administrativa encargada de la microfilmación y cuál o cuáles funcionarios serán responsables de dicho proceso, de la conservación, archivo y consulta de los rollos de película y de la obtención delas fotocopias que se soliciten.
-
-El costo de la microfilmación será exclusivamente de cargo del banco. El de las copias de los cheques que se le soliciten, se podrá cobrar al interesado.
-
-Las empresas bancarias no podrán hacer alteración alguna en los sistemas para microfilmar que les apruebe este Organismo y cualquier modificación que estimen del caso efectuar deberán consultarla previamente.
-
-Las empresas bancarias quedan facultadas por esta Superintendencia para conservar los rollos de los microfilmes de que se trata, sólo por el plazo mínimo de cinco años a contar de la fecha de contabilización del último documento inserto en cada rollo.
-
-1.3. Procedimiento de microfilmación.
-
-Podrán ser microfilmados los cheques que hayan sido pagados y verificados en lo que se refiere a totales de control, firmas y demás características esenciales.
-
-Debe microfilmarse el anverso y el reverso de cada documento, de modo que éste pueda ser perfectamente identificado.
-
-Los rollos de microfilmes deben ser numerados en forma correlativa, y al comienzo de cada uno de ellos debe microfilmarse un acta de iniciación, con la siguiente información mínima:
-
-a) Número de orden del rollo;
-
-b) Lugar y fecha de iniciación;
-
-c) Oficina del banco a que corresponden los documentos que se procesan;
-
-d) Individualización del primer documento que se va a microfilmar; y,
-
-e) Nombre y firma de el o los funcionarios responsables del proceso de microfilmación.
-
-Queda estrictamente prohibido dejar en los rollos espacios en blanco y hacer en los documentos originales que se sometan al proceso de microfilmación, en las películas y en las copias, recortes, dobleces, enmendaduras o cualquiera otra alteración.
-
-Inmediatamente después de microfilmado el último documento, se debe proceder a microfilmar un acta de término de proceso, la que debe contener, como mínimo, la siguiente información:
-
-a) Número de orden del rollo;
-
-b) Lugar y fecha de término;
-
-c) Oficina del banco a que corresponden los documentos;
-
-d) Individualización del último documento microfilmado;
-
-e) Número total de exposiciones y cheques microfilmados;
-
-f) Declaración de que los microfilmes que constan en el rollo de película son auténticos y hechos por los funcionarios responsables designados a tal efecto; y,
-
-g) Nombre y firma de los funcionarios responsables.
-
-El departamento responsable de la microfilmación se encargará de la revisión delos rollos de película mediante el cotejo con los documentos originales para asegurarse de que no haya imágenes corridas, veladas o de que por algún motivo resulten ilegibles. Por ningún motivo podrían devolverse los cheques sin que los rollos hayan sido previamente revelados.
-
-Cuando por cualquiera causa, al examinarse los documentos en el rollo, se encuentre que uno o varios cheques resultaron defectuosamente reproducidos,deberá hacerse una nueva microfilmación de ellos e insertarse en ella un acta que diga: "Con esta fecha los siguientes documentos se microfilmaron nuevamente con el objeto de asegurar su legibilidad, por defectos de la primera microfilmación". Al final de la nueva microfilmación se extenderá un acta que diga: "Hasta aquí se repitió la microfilmación de (tantos) cheques". En estas actas deberán incluirse, además los antecedentes señalados en las letras d) y g)precedentes.
-
-La película que resulte de esta operación se cortará y se añadirá al final del rollo que contiene los documentos mal microfilmados; por ningún motivo podrá intercalarse esta tira en la secuencia que originalmente le correspondió.
-
-Si por algún defecto de operación se corta un rollo de película ya revelado, el departamento responsable de la microfilmación procederá a investigar el hecho para, posteriormente, certificar que:
-
-- **a)** la rotura se debió a tal o cual circunstancia;
-
-- **b)** no falta información en el rollo; y,
-
-- **c)** se hace un empalme,con conocimiento del departamento encargado y declaración del jefe responsable,de que en tal parte existe un empalme, ocasionado por tal o cual motivo.
+El hecho de que sea condición indispensable conservar micrograbaciones o microfilmes para devolver los cheques pagados, en ningún caso faculta al banco para destruir los documentos originales que se hayan microcopiado cuando ellos no se devuelvan al librador, aunque cuenten con su conformidad. En estos casos, las empresas bancarias deberán conservar los documentos originales que no sean entregados al librador durante un plazo de cinco años desde la fecha de micrograbación o microfilmación.
 
 ### 2. Cheque viajero
 
@@ -2532,9 +2604,7 @@ c) Cuando el titular así lo requiera.
 
 ### 5. Utilización de sistemas automatizados
 
-Los sistemas de cajeros automáticos u otros sistemas electrónicos que permitan depositar o girar automáticamente en las cuentas de ahorro, deben contar con la conformidad previa de esta Superintendencia. Para el efecto, las instituciones fiscalizadas deben atenerse a lo dispuesto en el Capítulo 1-7 de esta Recopilación Actualizada de Normas.
-
-Los sistemas automatizados deberán contemplar operaciones sólo en línea, de manera tal que nunca pueda producirse un sobregiro en alguna cuenta de ahorro. Asimismo, deberán comprender los demás controles o procedimientos necesarios para el cumplimiento de las instrucciones del presente Capítulo, en particular los requisitos señalados en el numeral 7.1.3.
+Los sistemas de cajeros automáticos y otros sistemas electrónicos que permitan depositar o girar automáticamente en las cuentas de ahorro deberán comprender los controles o procedimientos necesarios para que en este último caso ninguna cuenta de ahorro se sobregire y, además, se dé cumplimiento a las disposiciones generales del Capítulo 1-7 de esta Recopilación Actualizada de Normas y a las instrucciones específicas del numeral 7.1.3 del presente Capítulo.
 
 Las instituciones financieras pueden habilitar sistemas de transferencia electrónica de fondos que permitan a los titulares de cuentas de ahorro con libreta operar sus cuentas sin presentar la libreta, siempre que el uso del sistema por parte del titular sea optativo, tanto en lo que se refiere a la posibilidad de no incorporarse al sistema, como en lo relativo a la facultad de no utilizarlo, quedando a criterio de cada institución financiera la calificación de los titulares de cuentas de ahorro con libreta que pueden tener acceso a algún sistema automatizado para girar de su cuenta de ahorro. Para el efecto, deberá establecerse un número máximo de transacciones posibles de realizar sin la presentación de la libreta, después del cual el titular deberá estar obligado a actualizarla para poder seguir utilizando el sistema.
 
@@ -6588,9 +6658,7 @@ Los estados financieros que se publiquen, al igual que la demás información de
 
 Las instituciones financieras deberán conservar en sus archivos permanentes toda la documentación comprobatoria de las operaciones realizadas, ordenada de tal forma que su consulta sea fácil y expedita.
 
-Conforme a lo dispuesto en el artículo 19 de la Ley General de Bancos, las instituciones sometidas a la fiscalización de esta Superintendencia deben conservar sus libros, formularios, correspondencia, documentos y papeletas a lo menos durante un plazo de diez años, salvo que el Superintendente autorice la eliminación de parte de los archivos o la conservación de reproducciones de determinada documentación en remplazo de los originales, antes de ese plazo.
-
-Con todo, en ningún caso podrán destruirse los libros o instrumentos que digan relación directa o indirecta con algún asunto o litigio pendiente.
+Dichos archivos deberán mantenerse durante el tiempo que corresponda, de acuerdo con lo establecido en el artículo 19 de la Ley General de Bancos y en el Capítulo 1-10 de esta Recopilación de Normas.
 
 CAPITULO 7-3 (Bancos y Financieras)
 
@@ -10020,7 +10088,7 @@ Con todo, la institución financiera que tenga motivos fundados para estimar que
 
 En el caso que para algunos de los instrumentos financieros señalados esta Superintendencia no entregue precios para efectuar la valoración al último día de un determinado mes, las instituciones deberán efectuar una estimación, debidamente fundamentada, de los valores de mercado de los respectivos documentos.
 
-En estos casos, deberá enviarse a este Organismo, dentro de los primeros 5 días hábiles del mes siguiente, una nómina en la cual se identifiquen estas inversiones y los valores de mercado utilizados para efectuar el ajuste a que se refiere el numeral 7.4 de este Capítulo.
+En estos casos, las instituciones financieras deberán conservar en un archivo especial, para eventuales revisiones de esta Superintendencia, la nómina de estas inversiones con los respectivos valores de mercado utilizados en el ajuste mensual a que se refiere el numeral 7.4 de este Capítulo y los antecedentes de respaldo que justifican la aplicación de esos precios.
 
 El mismo procedimiento deberá seguirse para informar aquellos casos en que se haya aplicado un valor de mercado inferior al que se obtiene de la información que entrega esta Superintendencia, según lo indicado en el último párrafo del numeral 5.1 precedente.
 
@@ -10862,11 +10930,11 @@ Este Organismo revisará las clasificaciones que, de acuerdo con las normas del 
 
 Si con la información disponible, esta Superintendencia constatare en la revisión de las clasificaciones realizadas por cada entidad financiera que no se ha dado cabal cumplimiento a las pautas establecidas en estas normas, efectuará las reubicaciones de créditos en las categorías de riesgo que correspondan.
 
-Las modificaciones que se efectúen sustituirán para todos los efectos a las clasificaciones dispuestas por la institución y no podrán ser modificadas hacia categorías de riesgo inferior sin que, en forma previa, la entidad financiera fundadamente solicite una reconsideración y cuente con la aprobación de este Organismo. En todo caso, dicha reconsideración se resolverá, a más tardar, en la siguiente visita destinada a examinar los activos de la institución solicitante.
+Las reubicaciones que se efectúen sustituirán para todos los efectos a las clasificaciones establecidas por la institución, sin perjuicio de que ésta pueda cambiarlas posteriormente a categorías de mayor o de menor riesgo, según corresponda, cuando existan nuevos antecedentes que así lo ameriten.
 
-Las obligaciones que los deudores reclasificados por este Organismo mantengan en la cartera de colocaciones, deberán integrar los préstamos clasificados aunque no estén comprendidos dentro de los 400 mayores deudores o del 75% de la cartera comercial.
+Sin embargo, cuando se trate de modificar las reubicaciones establecidas por esta Superintendencia hacia categorías de menor riesgo, las instituciones financieras que no queden calificadas por dos o más veces consecutivas en categoría I, según la calidad de sus procesos de clasificación de cartera, deberán contar con la aprobación previa de este Organismo. Para ese efecto, dichas instituciones solicitarán una reconsideración a esta Superintendencia, la que se resolverá, a más tardar, en la siguiente visita destinada a examinar los activos de la institución solicitante. En todo caso, en la medida en que la calidad de sus colocaciones evolucione desfavorablemente, esas instituciones estarán obligadas a actualizar su clasificación conforme a la nueva realidad vigente, primando para todos los efectos, en este caso, el mayor riesgo asignado por la entidad.
 
-Por otra parte, en la medida que la calidad de sus activos evolucione desfavorablemente, la institución financiera estará obligada a actualizar su clasificación conforme a la nueva realidad vigente, primando para todos los efectos, en este caso, el mayor riesgo asignado por la entidad.
+Las obligaciones que los deudores reclasificados por este Organismo mantengan en la cartera de colocaciones, deberán integrar los préstamos clasificados aunque no estén comprendidos dentro de los 400 mayores deudores o del 75% de la cartera comercial, cualquiera sea la categoría en que quede calificada la institución financiera según la calidad de sus procesos de clasificación.
 
 8.2. Reclasificación total de los créditos comerciales.
 
@@ -10886,9 +10954,9 @@ ii) un procedimiento basado en factores objetivos tales como la morosidad o la c
 
 La revisión de la clasificación de la cartera de colocaciones que efectúe esta Superintendencia, incluirá también la verificación de la identificación de aquellos créditos que, de conformidad con lo dispuesto en el numeral 7.1 de este título, tengan la calidad de "créditos riesgosos en su origen" y, por ende, del cumplimiento de lo establecido en el numeral 7.2, en orden a considerar el 5% de las obligaciones de los deudores de tales créditos como riesgo adicional de la cartera de colocaciones.
 
-La nómina de dichos créditos que cuente con la conformidad de esta Superintendencia, se mantendrá vigente hasta que se realice otra visita de inspección. Por tanto, la condición de "crédito riesgoso en su origen" de una determinada colocación sólo podrá eliminarse cuando la respectiva institución financiera, en dicha visita de inspección, proporcione antecedentes de que ya no
+La nómina de dichos créditos que cuente con la conformidad de esta Superintendencia sustituirá, en caso de discrepancias con la que mantenga la institución, la base para el cálculo del riesgo adicional de que trata el numeral 7.2 de este título, sin perjuicio de las posteriores eliminaciones de créditos de dicha nómina cuando ya no existan los motivos que llevaron a considerarlos como "riesgosos en su origen" o de la incorporación de nuevos créditos si alguno de ellos tiene alguna de las características señaladas en el numeral 7.1 de este título.
 
-existen los motivos para considerarlo como tal.
+Sin embargo, las instituciones financieras que no queden calificadas por dos o más veces consecutivas en categoría I según la calidad de sus procesos de clasificación, no podrán eliminar créditos de dicha nómina mientras esta Superintendencia no apruebe una nueva nómina en su próxima visita de inspección, oportunidad en la cual las instituciones entregarán los antecedentes que justifiquen la exclusión.
 
 En todo caso, si se otorga un nuevo crédito que tenga alguna de las características señaladas en el numeral 7.1 de este título, a deudores que estuvieren clasificados en categorías "A" o "B" y cuyo endeudamiento con la institución fuera igual o superior a U.F. 25.000, la institución financiera deberá considerarlo para los efectos de la exigencia de provisiones, de acuerdo con lo instruido en el 9 siguiente.
 
@@ -10908,9 +10976,11 @@ El procedimiento para determinar cuál es el monto de provisiones que debe mante
 
 9.1.- Instituciones clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
 
-Las instituciones que, de acuerdo con lo señalado en el título I de este Capítulo, se mantengan clasificadas por segunda o más veces consecutivas en categoría I según la calidad de sus procesos de clasificación de cartera, mantendrán automáticamente el nivel de provisiones exigido sobre la base de lo dispuesto anteriormente. Por consiguiente, esas instituciones reconocerán tanto los aumentos como las disminuciones de la pérdida estimada y, cuando corresponda, del riesgo adicional de que trata el numeral 7.2 de este Capítulo, según los créditos que mantengan al término de cada mes registrados en el activo, incluidos los reajustes e intereses devengados.
+Las instituciones que, de acuerdo con lo señalado en el título I de este Capítulo, se mantengan clasificadas por segunda o más veces consecutivas en categoría I según la calidad de sus procesos de clasificación de cartera, mantendrán automáticamente el nivel de provisiones exigido sobre la base de lo dispuesto anteriormente. Por consiguiente, esas instituciones reconocerán tanto los aumentos como las disminuciones de la pérdida estimada y, cuando corresponda, del riesgo adicional de que trata el numeral 7.2 de este Capítulo, según los créditos que mantengan al término de cada mes registrados en el activo, incluidos los reajustes e intereses devengados, sin perjuicio de los cambios que, sobre la materia, realice la institución con posterioridad a la visita de inspección de este Organismo, en los casos que corresponda.
 
-Cada vez que esta Superintendencia, de acuerdo con lo señalado en los numerales 8.1 y 8.4 de este Capítulo, comunique las clasificaciones de deudores según los resultados de su revisión y la nómina de créditos riesgosos en su origen, las provisiones mínimas exigidas deberán calcularse considerando dichas clasificaciones y créditos a partir del mismo mes en que ellos sean comunicados.
+Cada vez que esta Superintendencia, de acuerdo con lo señalado en los numerales 8.1 y 8.4 de este Capítulo, comunique las clasificaciones de deudores según los resultados de su revisión y la nómina de créditos riesgosos en su origen, las provisiones mínimas exigidas deberán calcularse considerando dichas clasificaciones y créditos a partir del mismo mes en que ellos sean comunicados, sin perjuicio de los cambios que, sobre la materia, realice la institución con posterioridad a la visita de inspección de este Organismo, en los casos que corresponda.
+
+Los ajustes que, en virtud de lo señalado en este numeral, se realicen al término de cada mes, deberán quedar debidamente justificados por la respectiva institución financiera con los antecedentes que los respaldan, los cuales deberán conservarse en un archivo especial para eventuales revisiones de esta Superintendencia.
 
 9.2.- Instituciones que no estuvieren clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
 
@@ -11336,9 +11406,13 @@ d) Cuando se cumpla el plazo en que la operación puede mantenerse impaga en car
 
 3.1.2. Las instituciones financieras podrán castigar colocaciones cuyo plazo de vencimiento aún no se haya cumplido, solamente si cuentan con la conformidad previa de esta Superintendencia.
 
-Para ese efecto deberán remitir a este Organismo una solicitud en tal sentido, informando de las razones que motivan los castigos y acompañando los antecedentes pertinentes que las justifiquen.
+Las instituciones financieras podrán castigar colocaciones cuyo plazo de vencimiento aún no se haya cumplido, siempre que se ciñan a lo siguiente:
 
-En todo caso, mientras no se cumpla la fecha de vencimiento pactada, los créditos que se castiguen deberán incluirse como créditos vigentes en la información sobre deudores a que se refiere el Capítulo 18-5 de esta Recopilación.
+a) Deben mantenerse, en un archivo especial, las constancias de las razones y antecedentes que se han tenido en consideración para concluir que tales créditos son irrecuperables; y,
+
+b) Mientras no se cumpla la fecha de vencimiento pactada, los créditos que se castiguen deben informarse como créditos vigentes en la información sobre deudores a que se refiere el Capítulo 18-5 de esta Recopilación.
+
+Con todo, las instituciones financieras que no se encuentren clasificadas dos o más veces consecutivas en categoría I según lo establecido en el título I del Capítulo 8-28 de la Recopilación Actualizada de Normas, solamente podrán castigar créditos vigentes si cuentan con la conformidad previa de esta Superintendencia. Para ese efecto deberán remitir una solicitud en tal sentido, acompañando la información a que se refiere la letra a) precedente.
 
 3.2. Plazos para efectuar los castigos de créditos vencidos.
 
@@ -15328,87 +15402,27 @@ obtener el valor de adquisición de cada bien.
 
 ### 4. Plazos para enajenar los bienes recibidos o adjudicados en pago
 
-Los bienes recibidos o adjudicados en pago deben ser enajenados dentro del plazo
+Los bienes recibidos o adjudicados en pago deben ser enajenados dentro del plazo de un año contado desde la fecha de adquisición, salvo que se trate de acciones, en cuyo caso la ley dispone un plazo de seis meses a contar desde la fecha de adquisición.
 
-de un año contado desde la fecha de adquisición, salvo que se trate de acciones,
+Para todos los efectos, se considerará como fecha de adquisición o de enajenación, a fecha en que sea firmada la correspondiente escritura. Sin embargo, en caso de que existan situaciones legales que impidan perfeccionar la adjudicación respectiva como, por ejemplo, embargo o prohibiciones de celebrar actos o contratos, podrá considerarse como fecha de adquisición aquélla en que quede resuelto el problema de que se trate, debiendo mantenerse a disposición de esta Superintendencia los antecedentes que justifiquen tal determinación.
 
-en cuyo caso la ley dispone un plazo de seis meses a contar desde la fecha de
+4.2. Plazo adicional.
 
-adquisición.
+No obstante lo señalado en el numeral 4.1 anterior, las instituciones financieras dispondrán de un plazo adicional de hasta dieciocho meses contado desde el vencimiento del plazo allí indicado exclusivamente cuando se presenten los siguientes casos justificados:
 
-Para todos los efectos, se considerará como fecha de adquisición o de
+i) existe una prohibición judicial para enajenar el bien;
 
-enajenación, a fecha en que sea firmada la correspondiente escritura. Sin
+ii) la institución financiera haya entablado un juicio para obtener la restitución o desalojo del bien;
 
-embargo, en el caso que existieren situaciones legales que impidieren
+iii) sea necesario efectuar reparaciones o terminaciones para obtener un mejor precio de venta para un bien, siempre que el tiempo necesario para ejecutar las obras sea superior a doce meses;
 
-perfeccionar la adjudicación respectiva, como por ejemplo, embargos o
+Las instituciones financieras que, de conformidad con estas normas, hagan uso del plazo adicional para la enajenación de bienes recibidos o adjudicados en pago, deberán haber castigado contablemente los bienes de que se trata, como requisito legal indispensable para acogerse a este plazo para enajenar. Además, deberán mantener a disposición de esta Superintendencia los antecedentes que demuestren que tales bienes se encuentran en alguno de los casos señalados en los numerales precedentes.
 
-prohibiciones de celebrar actos o contratos, podrá considerarse como fecha de
-
-adquisición, previa conformidad que deberá solicitarse a esta Superintendencia,
-
-aquélla en que quede resuelto el problema de que se trate.
-
-4.2 Ampliación de plazos.
-
-No obstante lo señalado en el numeral anterior, en casos justificadas las
-
-instituciones financieras podrán obtener una autorización escrita de esta
-
-Superintendencia para ampliar el plazo de enajenación de algún bien. Sin
-
-embargo,si se autoriza una prórroga, ella tendrá efecto solamente si la
-
-institución solicitante castiga contablemente el bien de que se trate, en el mes
-
-en que reciba la respectiva autorización.
-
-Las solicitudes para obtener la respectiva autorización se entregarán a esta
-
-Superintendencia, a lo menos, con treinta días de antelación a la fecha del
-
-vencimiento del plazo y serán calificadas por este Organismo sobre la base de la
-
-suficiencia de los antecedentes que demuestren la necesidad de contar con un
-
-mayor tiempo para vender un bien. La amplitud de la prórroga dependerá de las
-
-causales que originan las dificultades para la enajenación pero, en ningún caso,
-
-podrá ser superior a 18 meses. Para este efecto, se considerará que existe
-
-justificación para ampliar el plazo cuando:
-
-i) exista una prohibición judicial para enajenar el bien;
-
-ii) la institución financiera haya entablado un juicio para obtener la
-
-restitución o desalojo del bien; o,
-
-iii) sea necesario efectuar reparaciones o terminaciones para obtener un mejor
-
-precio de venta para un bien, siempre que el tiempo necesario para ejecutar las
-
-obras sea superior a doce meses.
+Tanto lo plazos generales señalados en el numeral 4.1 anterior como el plazo adicional que se dispone en el presente numeral, corresponden al tiempo máximo para enajenar establecido en la ley, de manera que no procede, en caso alguno, solicitar a esta Superintendencia autorizaciones para excederlos.
 
 4.3. Bienes no liquidables.
 
-Cuando se trate de bienes, especialmente acciones, derechos en sociedades o
-
-instrumentos financieros cuyos emisores u obligados al pago se encuentren
-
-declarados en quiebra, como así también de marcas comerciales o de otros bienes
-
-y especies que carezcan de valor comercial o que definitivamente no puedan ser
-
-enajenados, la entidad financiera tenedora de tales bienes deberá deshacerse de
-
-ellos a cualquier título que estime adecuado, como por ejemplo, su donación a
-
-instituciones de beneficencia o a otras entidades sin fines de lucro, dentro del
-
-plazo señalado en el numeral 4.1 anterior.
+Cuando se trate de bienes, especialmente acciones, derechos en sociedades o instrumentos financieros cuyos emisores u obligados al pago se encuentren declarados en quiebra, como así también de marcas comerciales o de otros bienes y especies que carezcan de valor comercial o que definitivamente no puedan ser enajenados, la entidad financiera tenedora de tales bienes deberá deshacerse de ellos a cualquier título que estime adecuado, como por ejemplo, su donación a instituciones de beneficencia o a otras entidades sin fines de lucro, dentro del plazo señalado en el numeral 4.1 anterior.
 
 ### 5. Condiciones para la enajenación
 
@@ -15666,7 +15680,7 @@ partidas 5900 y 7910 del formulario MR1, respectivamente.
 
 ### 7. Castigos
 
-Los bienes recibidos o adjudicados en pago no deberán ser objeto de castigos contables, salvo que se haga uso de una prórroga autorizada por esta Superintendencia de acuerdo con lo dispuesto en el numeral 4.2 del título I de este capítulo, en cuyo caso el castigo es obligatorio al momento de recibirse la respectiva autorización.
+Los bienes recibidos o adjudicados en pago no serán objeto de castigos contables, salvo para hacer uso del plazo adicional a que se refiere el numeral 4.2 del título I de este Capítulo, en cuyo caso, conforme a la ley, el castigo es obligatorio.
 
 Los deterioros físicos o desvalorizaciones de cualquier naturaleza que pueda sufrir un bien, serán reconocidos por la vía de incrementar el monto de la provisión por sobrevaloración a que se refiere el N° 2 de este título, lo que en ningún caso exime a la institución financiera de la obligación de enajenar dentro de los plazos establecidos o de mantenerse dentro del margen legal a que se ha hecho referencia anteriormente. Si la institución financiera se deshace de bienes sin valor comercial conforme a lo indicado en el numeral 4.3 del título I de estas normas, procederá a efectuar, en esa oportunidad, la correspondiente rebaja del activo, empleando para el efecto las provisiones constituidas.
 
