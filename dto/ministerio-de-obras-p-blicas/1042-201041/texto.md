@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.042 de 25 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1 para la obra: Camino San Vicente - El Tambo, Rol H-801, Sector Puente Zamorano km. 0,400, que figura a nombre de Suc. Leiva Gloria Amada o Amada G., rol de avalúo 41-37, comuna de San Vicente, VI Región, superficie 2.206 m². La Comisión de Peritos fijó con fecha 27 de abril de 2001, en la cantidad de $35.435.100.-, para el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
