@@ -1,0 +1,3 @@
+Por decreto MOP Nº197, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº7, superficie 656 m², rol de avalúo 159-118, comuna de Pemuco, para la obra "Camino Ruta N-85, Sector Cruce Long. (Gral. Cruz) - Pemuco, Tramo Km. 0.000.00 a Km. 23.870.37" y se acordó el valor de indemnización con su propietario Hugo José Rubilar Ocampo, ascendente a la cantidad de $576.088.-
+
+Fiscal del Ministerio de Obras Públicas.
