@@ -1,0 +1,3 @@
+Alcaldesa de la I. Municipalidad de Providencia, mediante Decreto No. Ex. 897, de 11 de Agosto de 1986, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976 y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en Avda. Bilbao No. 2489, Rol de Avalúos No. 3237-8, aparentemente de propiedad de Shell Chile S.A. Petrolera, para el ensanche de la Avda. Bilbao. Deslindes parte expropiada: al Norte, 29 mts. Avda. Bilbao; al Sur, 29 mts. resto de la propiedad que se expropia; al Oriente, 5 mts. Avda. Holanda, y al Poniente, 5 mts. Rol No. 3237-7. Indemnización provisional: $ 1.701.000.
+
+- Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
