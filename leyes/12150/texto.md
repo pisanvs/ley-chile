@@ -1,0 +1,1 @@
+Crea en la planta permanente de la Corporación de la Vivienda el Escalafón de Constructores Civiles Universitarios; suprime los cargos que indica de los Escalafones Técnico y Administrativo de la misma Corporación.
