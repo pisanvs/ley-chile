@@ -1,0 +1,3 @@
+Por decreto MOP Nº947, de 31 de mayo del 2002, se expropió el lote de terreno Nº6, superficie 622 m2, rol de avalúo 9317-68, comuna de Valparaíso, para la obra Concesión Internacional Interconexión Vial Santiago, Valparaíso - Viña del Mar. Tramo 16: Kms. 97.400,00 al 99.500,00, Quinta Región y se acordó el valor de indemnización con su propietario Inmobiliaria Marítima Portuaria S.A., ascendente a la cantidad de $9.343.648.-
+
+Fiscal del Ministerio de Obras Públicas.
