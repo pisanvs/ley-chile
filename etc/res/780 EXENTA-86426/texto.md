@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA 780, DE 1991
+
+Por Resolución Exenta No. 780 de fecha 02 de octubre de 1991, de la Secretaría Regional Ministerial de Educación de Atacama, se aprobó los Planes y Programas de Estudios Mínimos, de acuerdo a lo dispuesto en el Dcto. Ex 152/89, para la Educación Media de Adultos, modalidad técnico Profesional del Instituto de Educación Popular (I.E.P.) de Copiapó e impartir las especialidades y título técnico del nivel medio, en las especialidades que se indican: Mecánica y Electromecánica Automotriz, Instalaciones Eléctricas Domiciliarias y de Fuerza, Diseño y Corte Industrial Femenino, Administración de Servicio de Alimentación Colectiva. A contar del año lectivo 1991.
+
+Fecha, Diciembre de 1991. Por orden del señor Secretario Regional Ministerial de Educación de Atacama.- Luis Cortés Ovalle.
