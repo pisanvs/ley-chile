@@ -1,0 +1,15 @@
+REASUME MANDO DEL ESTADO Santiago, 8 de Agosto de 1995.- Hoy se decretó lo que sigue:
+
+Núm. 2.314.- Visto: Lo dispuesto en los artículos 29° y 32°, N° 8 de la Constitución Política de la República de Chile,
+
+Decreto:
+
+#### Artículo 1
+
+<!-- parte:8269319 -->
+
+Con ocasión de mi regreso al país a contar de esta fecha reasumo el mando del Estado.
+
+Tómese razón, regístrese, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Carlos Figueroa Serrano, Ministro del Interior.
+
+Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud., Belisario Velasco Baraona, Subsecretario del Interior.
