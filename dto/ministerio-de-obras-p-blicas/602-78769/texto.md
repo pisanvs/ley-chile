@@ -1,0 +1,3 @@
+Por Decretos M.O.P. Nºs 1042, de 29 de noviembre de 1996 y 602, de 30 de junio de 1997, se ordeno la expropiación del lote Nº 3, del Enlace Agua Buena, como asimismo, por este último Decreto se autorizó el Convenio Directo del Precio por la suma de $407.632.458.- con su propietaria Sociedad de Inversiones Fénix Limitada, para la ejecución de la obra Proyecto Enlaces Ruta 78 del Camino Santiago - San Antonio, sector Leyda - Agua Buena
+
+Fiscal del Ministerio de Obras Públicas.
