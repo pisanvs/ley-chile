@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s. 217 y 254, de fechas 28 de abril y 24 de mayo, ambos de 1995, se expropiaron los lotes de terreno N°s. 1, 4, 17 y 18, superficies 900, 9.975, 1.470 y 1.255, M2., respectivamente roles de avalúos 117-258, 117-291, 764-104 y 764-109, comuna de Quilicura y Lampa, para la obra Camino Quilicura Lampa y se acordó precio de indemnización con sus propietarios Industrias Ceresita S.A, Anesa S.A. y Juan Montecinos Hernández, ascendente a las cantidades de $1.818.760, $15.487.185, y $1.608.388, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
