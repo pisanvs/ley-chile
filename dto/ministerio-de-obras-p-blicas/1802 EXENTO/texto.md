@@ -1,0 +1,3 @@
+Por decreto MOP Nº (exento) 1.802, de fecha 30 de noviembre del 2001, se expropiaron los lotes de terreno Nº 32 y 43, superficie 3.174,60 y 641,02 m², Rol de Avalúo Nº 1252-33, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128 - Cuatro Esquinas, Tramo Km. 0,000 a Km. 15,800, comuna de Parral y Retiro, provincia de Linares", VII Región y se acordó el valor de indemnización con su propietario Sergio Patricio Domke Yáñez, ascendente a la cantidad de $2.814.877.-
+
+Fiscal del Ministerio de Obras Públicas.
