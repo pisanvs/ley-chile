@@ -1,0 +1,3 @@
+Por Decreto MOP Nº1.426, de 31 de agosto de 1998, se expropiaron, los lotes de terreno Nºs.27 y 75, superficies 80 y 130m2. respectivamente, roles de avalúos en trámite y 221-2, comuna de Chimbarongo, para la obra Ruta I-85-j, sector Cruce Longitudinal (Chimbarongo) - Codegua, se acordó precio de las indemnizaciones con sus propietarios Francisco Javier Celis Sandoval y otros y Obispado de Rancagua, ascendentes a las cantidades de $500.940.- para el lote Nº27 y $941.985.- para el lote Nº75.-
+
+Fiscal del Ministerio de Obras Públicas.
