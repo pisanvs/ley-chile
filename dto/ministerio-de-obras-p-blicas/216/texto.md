@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 216, de 30 de Julio de 1993, se expropiaron los lotes de terrenos N°s. 1, 2, 9, 10 y 11 superficies 618 M2., 628 M2., 1.635 M2., 378 M2. y 1.475 M2., roles de avalúos 289-14, 284-34, 307-6 y 296-20, Comuna de San Fernando, para la obra Camino San Fernando-Puente Negro, sector San Fernando-Puente Negro y se acordó precio de indemnización con sus propietarios Carlos Vivanco González, Pedro Juan Gómez Navarro, José Francisco Cuevas Velasco y Gerardo Maturana Becerra, ascendentes a las cantidades de $ 1.600.452.-; $ 2.126.210.-; $ 1.943.302.- y $ 2.117.232.-
+
+Fiscal del Ministerio de Obras Públicas.
