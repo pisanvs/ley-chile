@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.413 de 29 de octubre de 1999, se expropió el lote de terreno Nº 128-1, superficie 589 m², rol de avalúo 1000-184, comuna de Puerto Varas, para la obra Concesión Internacional Ruta 5: Tramo Río Bueno - Puerto Montt. Sector: Puerto Varas - Acceso Forestal Polincay, Décima Región y se acordó el valor de indemnización con su propietario Aserradero Polincay Ltda., ascendente a la cantidad de $6.969.290.
+
+- Fiscal del Ministerio de Obras Públicas.
