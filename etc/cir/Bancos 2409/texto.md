@@ -2756,9 +2756,7 @@ Conviene tener presente, además, que según el artículo 31 antes mencionado, l
 
 7.3. Endoso de cheques nominativos.
 
-La Ley sobre Cuentas Corrientes Bancarias y Cheques permite que los cheques extendidos en forma nominativa puedan ser endosados a un banco en comisión de cobranza. Como la existencia de la cuenta corriente hace presumir que el endoso practicado en el cheque nominativo tiene por objeto la cobranza de éste, el referido endoso puede hacerse con la cláusula valor en cobro, con la sola indicación de que es para depositar en cuenta corriente, con el solo número de la cuenta corriente o con la sola firma del endosante, de su mandatario o de su representante legal.
-
-Ahora bien, como esa presunción no resulta igualmente clara cuando una persona encomienda el cobro de un cheque nominativo a un banco en que no mantenga cuenta, en ese caso deberá exigírsele que el beneficiario endose con la cláusula valor en cobro u otra equivalente.
+De acuerdo con la Ley, los cheques extendidos en forma nominativa sólo pueden ser endosados a un banco en comisión de cobranza Cuando se trate de un cheque que se deposita en una cuenta corriente del beneficiario, el endoso puede hacerse con la sola firma del cuentacorrentista, de su mandatario o de su representante legal. En los demás casos, el banco exigirá el endoso con la cláusula de valor en cobro u otra equivalente.
 
 7.4. Responsabilidad de los bancos en el endoso de un cheque nominativo.
 
@@ -3516,7 +3514,7 @@ Los intereses que devenguen los depósitos de ahorro a plazo deben debitarse a l
 
 Tanto los reajustes como los intereses devengados que aún no se hayan imputado a las respectivas cuentas de ahorro, deben abonarse en cuentas complementarias de las indicadas en el numeral 15.1 anterior, formando parte también de la partida 3035, de acuerdo con lo señalado en el Capítulo 7-1 de esta Recopilación Actualizada de Normas.
 
-Para el cálculo de los reajustes y de los intereses deben seguirse los procedimientos indicados en los numerales 8.2 y 9.2 de este Capítulo, respectivamente.
+Para el cálculo de los reajustes y de los intereses deben seguirse los procedimientos indicados en los numerales 8 y 9.2 de este Capítulo, respectivamente.
 
 15.3. Comisiones.
 
@@ -4314,7 +4312,7 @@ En todo caso, tratándose de depósitos a plazo renovables la renovación perió
 
 Los depósitos a plazo se registrarán en las siguientes cuentas o subcuentas de las partidas que se señalan en este numeral.
 
-En el caso de depósitos en que se pacten retiros parciales de capital dentro del año y a más de un año, la cuenta que corresponde utilizar se determinará según las reglas establecidas en el numeral 1.1, título V, del Capítulo 12-9 de esta Recopilación.
+En el caso de depósitos en que se pacten retiros parciales de capital dentro del año y a más de un año, la cuenta que corresponde utilizar se determinará según el plazo promedio ponderado del capital de la operación:
 
 a) Depósitos de 30 días a un año plazo.
 
@@ -5357,6 +5355,10 @@ No obstante lo anterior, las oficinas bancarias situadas en las siguientes local
 - Puerto Williams
 
 Para la retención sobre valores en cobro correspondientes a documentos en moneda extranjera de cargo de otros bancos del país, se aplicará el plazo de retención señalado en la letra a) de este numeral, salvo que se trate de documentos que no pueden presentarse en la cámara de compensación de Santiago según lo indicado en el Capítulo 5-1 de esta Recopilación.
+
+En aquellos casos en que el cobro de los documentos se haga efectivo en plazos inferiores a los señalados en este numeral, la institución depositaría deberá, desde el momento en que recibe el reembolso, permitir al depositante disponer del respectivo importe.
+
+La liberación de fondos que, por cualquier circunstancia, se efectúe sobre un documento que resulte rechazado, en ningún caso exime al depositante de que, una vez producida la devolución del documento, éste se cargue a su cuenta corriente Al respecto debe tenerse presente que una institución está obligada a recibir la devolución de un documento que ha presentado a cobro en la primera reunión de una cámara de compensación, sólo en su respectiva segunda reunión, quedando liberada de la obligación de recibirlo posteriormente.
 
 2.2.- Documentos de cargo de la misma institución depositaria.
 
@@ -12962,7 +12964,7 @@ c) Explicación acerca de los controles internos que se prevén para manejar o p
 
 d) Equipamientos y servicios contemplados para desarrollar el giro de leasing.
 
-e) En caso de que el desarrollo del giro esté asociado a la adquisición de cartera de alguna entidad distinta a su filial, la institución financiera deberá remitir el informe de los auditores a que se refiere el N° 3 del título I de este Capítulo.
+e) En caso de que el desarrollo del giro esté asociado a la adquisición de cartera de alguna entidad distinta a su filial, la institución financiera deberá remitir el informe de los auditores a que se refiere el N° 4 del título I de este Capítulo.
 
 Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue Es requisito indispensable, por lo tanto, que la información sea completa, verificable y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
@@ -16320,7 +16322,7 @@ a) Préstamos con garantía hipotecaria para vivienda, otorgados al adquiriente 
 
 b) Contratos de leasing de vivienda, en los términos señalados en el Capítulo 8-37 de esta Recopilación o en la Circular N° 18 dirigida a las sociedades filiales, esto es, los contratos que recaigan sobre una vivienda y que se celebren directamente con el usuario final.
 
-c) Créditos contingentes que, de acuerdo con las instrucciones de esta Superintendencia, deben incluirse en las partidas 1605, 1610, 1615, 1620, 1655 y 1660. Incluye, en consecuencia, las colocaciones contingentes que corresponden a: emisión de boletas de garantía, otorgamiento de avales y fianzas, emisión de cartas de crédito y confirmaciones de cartas de crédito. Las confirmaciones de cartas de crédito que cumplan las condiciones indicadas en la letra b) del numeral 2.3 precedente, se incluirán en categoría 3. Los mismos conceptos se aplican para los créditos contingentes de las sucursales y filiales que consolidan.
+c) Créditos contingentes que, de acuerdo con las instrucciones de esta Superintendencia, deben incluirse en las partidas 1605, 1610, 1615, 1620, 1655 y 1660. Incluye, en consecuencia, las colocaciones contingentes que corresponden a: emisión de boletas de garantía, otorgamiento de avales y fianzas, emisión de cartas de crédito y confirmaciones de cartas de crédito. Las confirmaciones de cartas de crédito que cumplan las condiciones indicadas en la letra c) del numeral 2.3 precedente, se incluirán en categoría 3. Los mismos conceptos se aplican para los créditos contingentes de las sucursales y filiales que consolidan.
 
 d) Depósitos a plazo constituidos en bancos del exterior, con vencimiento a más de 180 días a contar de la fecha del cómputo, clasificados en una categoría de riesgo no inferior a A-, por una empresa clasificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
 
@@ -16450,7 +16452,7 @@ Se entenderá para estos efectos como créditos para exportaciones en moneda ext
 
 a) Préstamos en moneda extranjera que se otorguen a exportadores para financiar exportaciones desde Chile;
 
-b) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de cambio o pagarés, aceptadas o suscritos por el importador extranjero y, en los casos que proceda, avalados por un banco extranjero, originados en exportaciones enviadas en cobranza;
+b) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de cambio o pagarés, aceptadas o suscritos por el importador extranjero, y adquisiciones de facturas cursadas de conformidad con las normas del Capítulo 8-38 de esta Recopilación, originados en exportaciones enviadas en cobranza;
 
 c) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de cambio o pagarés, aceptadas o suscritos a favor de exportadores por bancos nacionales o extranjeros, con motivo de la negociación de cartas de crédito;
 
