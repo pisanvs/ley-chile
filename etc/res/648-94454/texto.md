@@ -1,0 +1,7 @@
+AUTORIZA A SOCIEDAD AGRICOLA SALMONES CAICAEN LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 648 de 7 de junio 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Agrícola Salmones Caicaén Limitada, R.U.T. No. 79.732.130- 3, domiciliada en las ciudades de Osorno y Santiago, para ampliar las actividades pesqueras, autorizadas por las Resoluciones No. 754, de 1988 y No. 1212, de 1988; ambas de esta Subsecretaría, en orden a incluir en los establecimientos de cultivo autorizados por la Resolución No. 754, de 1988, de esta Subsecretaría, los recursos Salmón rey, Salmón del Atlántico y Trucha arco iris, en el sector de El Calabozo, Río Coihueco, El Encanto (Lago Rupanco), en la Comuna de Entre Lagos, Provincia de Osorno y Canal Caicaén en la Comuna de Calbuco, Provincia de Llanquihue, X Región, y en los sectores de San Agustín, Comuna de Calbuco y de Río Blanco, Comuna de Puerto Varas, los recursos: Salmón plateado, Salmón rey y Trucha arco iris. Los recursos salmonídeos serán adquiridos de centros de cultivo autorizados o importados de conformidad con la legislación vigente.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 7 de junio 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
