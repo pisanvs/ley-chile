@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 60, de 20 de marzo de 1987, se expropió el lote de terreno No. 1, superficie de 199,27 m2., rol de avalúo 274-1, comuna de Santiago, para la obra Accesos Sur-Oriente y Sur Poniente de la Mesanina Poniente de la Estación Mapocho, se acordó el precio de indemnización con sus propietarias las señoras Sara y Dora Blinder Dargoltz, ascendente a la suma de $18.520.224.-
+
+Fiscal del Ministerio de Obras Públicas. (15)
