@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.561 de 29 de septiembre del 2000, se expropió el lote de terreno Nº4, superficie 6.360 m²., rol de avalúo 157-13, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Canal San Ramón, Km. 0.000 al Km. 6.637 y se acordó precio de la indemnización con su propietario Francisco Antonio Riquelme Valdebenito, ascendente a la cantidad de $2.332.047.-
+
+Fiscal del Ministerio de Obras Públicas.
