@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.765 de 29 de diciembre de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 Y DFL MOP Nº206 de 1960, se expropió los lotes de terreno Nºs 130-1, 132-A y 133 para la obra Concesión Internacional Ruta 5, Tramo Chillán-Collipulli, Sector Km. 440.611,50 a km. 447.870,40; Octava Región, que figuran a nombre de FFCC del Estado, roles de avalúo 90165-1, comuna de Pemuco, superficies 1.085, 3.264 y 5.621 m2., respectivamente. La comisión de peritos integrada por los señores Aris Sergio Drapela Alvarez, Luis Abarzúa Ceballos y Karin Alicia Ernst Elizalde, fijó con fecha 12 de agosto de 1998, los valores provisionales de las indemnizaciones en las cantidades de $2.887.400.- para el lote Nº130-1;
+
+$5.339.000.- para el lote Nº132-A y $7.047.750.- para el lote Nº133, respectivamente. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
