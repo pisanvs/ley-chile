@@ -588,6 +588,14 @@ El acreedor que tiene varios créditos vencidos contra un deudor, puede imputar 
 
 El comerciante que al recibir una cuenta paga o da finiquito, no pierde el derecho de solicitar la rectificación de los errores, omisiones, partidas duplicadas u otros vicios que aquélla contenga.
 
+#### Artículo 123
+
+Derogado.
+
+#### Artículo 124
+
+Derogado.
+
 #### Artículo 125
 
 Si se dieren en pago documentos al portador, se causará novación si el acreedor al recibirlos no hubiere hecho formal reserva de sus derechos para el caso de no ser pagados.
@@ -3493,6 +3501,652 @@ El contrato de cambio es una convención por la cual una de las partes se obliga
 #### Artículo 621
 
 El contrato de cambio se perfecciona por el solo consentimiento de las partes acerca de la cantidad que debe ser pagada, el precio de ella, el lugar y época del pago y puede ser probado por cualquiera de los medios que admite este Código.
+
+#### Artículo 622
+
+Las personas que pueden obligarse pueden celebrar el contrato de cambio por su propia cuenta o por la de un tercero que las haya autorizado especialmente al efecto.
+
+> **Nota.** El N° 5 del Artículo 108 de la Ley 18092, publicada el 14.01.1982, deroga el inciso segundo de la presente norma.
+
+#### Artículo 623
+
+Derogado.
+
+#### Artículo 624
+
+Derogado.
+
+#### Artículo 625
+
+Derogado.
+
+#### Artículo 626
+
+Derogado.
+
+#### Artículo 627
+
+Derogado.
+
+#### Artículo 628
+
+Derogado.
+
+#### Artículo 629
+
+Derogado.
+
+#### Artículo 630
+
+Derogado.
+
+#### Artículo 631
+
+Derogado.
+
+#### Artículo 632
+
+Derogado.
+
+#### Artículo 633
+
+Derogado.
+
+#### Artículo 634
+
+Derogado.
+
+#### Artículo 635
+
+Derogado.
+
+#### Artículo 636
+
+Derogado.
+
+#### Artículo 637
+
+Derogado.
+
+#### Artículo 638
+
+Derogado.
+
+#### Artículo 639
+
+Derogado.
+
+#### Artículo 640
+
+Derogado.
+
+#### Artículo 641
+
+Derogado.
+
+#### Artículo 642
+
+Derogado.
+
+#### Artículo 643
+
+Derogado.
+
+#### Artículo 644
+
+Derogado.
+
+#### Artículo 645
+
+Derogado.
+
+#### Artículo 646
+
+Derogado.
+
+#### Artículo 647
+
+Derogado.
+
+#### Artículo 648
+
+Derogado.
+
+#### Artículo 649
+
+Derogado.
+
+#### Artículo 650
+
+Derogado.
+
+#### Artículo 651
+
+Derogado.
+
+#### Artículo 652
+
+Derogado.
+
+#### Artículo 653
+
+Derogado.
+
+#### Artículo 654
+
+Derogado.
+
+#### Artículo 655
+
+Derogado.
+
+#### Artículo 656
+
+Derogado.
+
+#### Artículo 657
+
+Derogado.
+
+#### Artículo 658
+
+Derogado.
+
+#### Artículo 659
+
+Derogado.
+
+#### Artículo 660
+
+Derogado.
+
+#### Artículo 661
+
+Derogado.
+
+#### Artículo 662
+
+Derogado.
+
+#### Artículo 663
+
+Derogado.
+
+#### Artículo 664
+
+Derogado.
+
+#### Artículo 665
+
+Derogado.
+
+#### Artículo 666
+
+Derogado.
+
+#### Artículo 667
+
+Derogado.
+
+#### Artículo 668
+
+Derogado.
+
+#### Artículo 669
+
+Derogado.
+
+#### Artículo 670
+
+Derogado.
+
+#### Artículo 671
+
+Derogado.
+
+#### Artículo 672
+
+Derogado.
+
+#### Artículo 673
+
+Derogado.
+
+#### Artículo 674
+
+Derogado.
+
+#### Artículo 675
+
+Derogado.
+
+#### Artículo 676
+
+Derogado.
+
+#### Artículo 677
+
+Derogado.
+
+#### Artículo 678
+
+Derogado.
+
+#### Artículo 679
+
+Derogado.
+
+#### Artículo 680
+
+Derogado.
+
+#### Artículo 681
+
+Derogado.
+
+#### Artículo 682
+
+Derogado.
+
+#### Artículo 683
+
+Derogado.
+
+#### Artículo 684
+
+Derogado.
+
+#### Artículo 685
+
+Derogado.
+
+#### Artículo 686
+
+Derogado.
+
+#### Artículo 687
+
+Derogado.
+
+#### Artículo 688
+
+Derogado.
+
+#### Artículo 689
+
+Derogado.
+
+#### Artículo 690
+
+Derogado.
+
+#### Artículo 691
+
+Derogado.
+
+#### Artículo 692
+
+Derogado.
+
+#### Artículo 693
+
+Derogado.
+
+#### Artículo 694
+
+Derogado.
+
+#### Artículo 695
+
+Derogado.
+
+#### Artículo 696
+
+Derogado.
+
+#### Artículo 697
+
+Derogado.
+
+#### Artículo 698
+
+Derogado.
+
+#### Artículo 699
+
+Derogado.
+
+#### Artículo 700
+
+Derogado.
+
+#### Artículo 701
+
+Derogado.
+
+#### Artículo 702
+
+Derogado.
+
+#### Artículo 703
+
+Derogado.
+
+#### Artículo 704
+
+Derogado.
+
+#### Artículo 705
+
+Derogado.
+
+#### Artículo 706
+
+Derogado.
+
+#### Artículo 707
+
+Derogado.
+
+#### Artículo 708
+
+Derogado.
+
+#### Artículo 709
+
+Derogado.
+
+#### Artículo 710
+
+Derogado.
+
+#### Artículo 711
+
+Derogado.
+
+#### Artículo 712
+
+Derogado.
+
+#### Artículo 713
+
+Derogado.
+
+#### Artículo 714
+
+Derogado.
+
+#### Artículo 715
+
+Derogado.
+
+#### Artículo 716
+
+Derogado.
+
+#### Artículo 717
+
+Derogado.
+
+#### Artículo 718
+
+Derogado.
+
+#### Artículo 719
+
+Derogado.
+
+#### Artículo 720
+
+Derogado.
+
+#### Artículo 721
+
+Derogado.
+
+#### Artículo 722
+
+Derogado.
+
+#### Artículo 723
+
+Derogado.
+
+#### Artículo 724
+
+Derogado.
+
+#### Artículo 725
+
+Derogado.
+
+#### Artículo 726
+
+Derogado.
+
+#### Artículo 727
+
+Derogado.
+
+#### Artículo 728
+
+Derogado.
+
+#### Artículo 729
+
+Derogado.
+
+#### Artículo 730
+
+Derogado.
+
+#### Artículo 731
+
+Derogado.
+
+#### Artículo 732
+
+Derogado.
+
+#### Artículo 733
+
+Derogado.
+
+#### Artículo 734
+
+Derogado.
+
+#### Artículo 735
+
+Derogado.
+
+#### Artículo 736
+
+Derogado.
+
+#### Artículo 737
+
+Derogado.
+
+#### Artículo 738
+
+Derogado.
+
+#### Artículo 739
+
+Derogado.
+
+#### Artículo 740
+
+Derogado.
+
+#### Artículo 741
+
+Derogado.
+
+#### Artículo 742
+
+Derogado.
+
+#### Artículo 743
+
+Derogado.
+
+#### Artículo 744
+
+Derogado.
+
+#### Artículo 745
+
+Derogado.
+
+#### Artículo 746
+
+Derogado.
+
+#### Artículo 747
+
+Derogado.
+
+#### Artículo 748
+
+Derogado.
+
+#### Artículo 749
+
+Derogado.
+
+#### Artículo 750
+
+Derogado.
+
+#### Artículo 751
+
+Derogado.
+
+#### Artículo 752
+
+Derogado.
+
+#### Artículo 753
+
+Derogado.
+
+#### Artículo 754
+
+Derogado.
+
+#### Artículo 755
+
+Derogado.
+
+#### Artículo 756
+
+Derogado.
+
+#### Artículo 757
+
+Derogado.
+
+#### Artículo 758
+
+Derogado.
+
+#### Artículo 759
+
+Derogado.
+
+#### Artículo 760
+
+Derogado.
+
+#### Artículo 761
+
+Derogado.
+
+#### Artículo 762
+
+Derogado.
+
+#### Artículo 763
+
+Derogado.
+
+#### Artículo 764
+
+Derogado.
+
+#### Artículo 765
+
+Derogado.
+
+#### Artículo 766
+
+Derogado.
+
+#### Artículo 767
+
+Derogado.
+
+#### Artículo 768
+
+Derogado.
+
+#### Artículo 769
+
+Derogado.
+
+#### Artículo 770
+
+Derogado.
+
+#### Artículo 771
+
+Derogado.
+
+#### Artículo 772
+
+Derogado.
+
+#### Artículo 773
+
+Derogado.
+
+#### Artículo 774
+
+Derogado.
+
+#### Artículo 775
+
+Derogado.
+
+#### Artículo 776
+
+Derogado.
+
+#### Artículo 777
+
+Derogado.
+
+#### Artículo 778
+
+Derogado.
+
+#### Artículo 779
+
+Derogado.
+
+#### Artículo 780
+
+Derogado.
+
+#### Artículo 781
+
+Derogado.
+
+#### Artículo 781 bis
+
+Derogado.
 
 ## Título XII
 
