@@ -1,0 +1,5 @@
+AUTORIZA A DON PEDRO CARVAJAL FERREIRA PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA
+
+Por resolución Nº 205, de 14 de Mayo de 1984, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Pedro Carvajal Ferreira, RUT Nº 6.660.738-0, domiciliado en calle Eduardo Cornelio 8017, Población Rubén Infante, Antofagasta, para instalar y operar un cultivo de alga Gracilaria en Playa Chipana, entre Punta Falsa de Chipana y Farellones de Chipana, Iquique, Ia Región, en un área de 100.000 m2. Asimismo, se declara que la resolución Nº 66, de 1984, de la Subsecretaría de Pesca, ha quedado sin efecto, por haber incurrido su titular, en la causal de caducidad establecida en el artículo 6º del decreto Nº 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Santiago, 14 de Mayo de 1984.- Roberto Verdugo Gormaz, Subsecretaría de Pesca.
