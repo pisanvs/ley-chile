@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.663, de 25 de septiembre de 1998, se expropiaron los lotes de terreno Nºs. 52, 53 y 54, superficies 2.523 m², 2.068 m² y 5.087 m², rol de avalúo 20-107, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los Andes, Sector G, By Pass Los Andes, y se acordó el valor de indemnización con su propietario Segundo Eujenio Salinas Jara, ascendente a la cantidad total de $19.872.227.-
+
+Fiscal del Ministerio de Obras Públicas.
