@@ -1,0 +1,3 @@
+Por decreto MOP Nº394, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº94, superficie 47,00 m2, Rol de avalúo 2025-12 comuna de Melipilla, para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla-Bollenar, Km. 0,00000 a Km. 14,23039" y se acordó el valor de indemnización con su propietario Pedro José Atenas Gutiérrez, ascendente a la cantidad de $626.753.
+
+Fiscal del Ministerio de Obras Públicas.
