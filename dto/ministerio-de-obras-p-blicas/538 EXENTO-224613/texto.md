@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 538, de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 1-A, superficie 330 m2, rol de avalúo Nº 203-74, comuna de Chaitén, para la obra "Camino Ruta 7 (Longitudinal Austral), Chaitén - Ex Pozos de Empréstitos". Km. 0,000 a Km. 13,07086, X Región, y se acordó el valor de la indemnización con su propietario Orlando Morales Ortiz, ascendente a la cantidad de $949.930.-
+
+Fiscal del Ministerio de Obras Públicas.
