@@ -1,0 +1,3 @@
+Por resolución Nº 1.672, de 26 de noviembre de 1998, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95102056, presentada por Salmones Caleta Bay Ltda., para el centro de cultivo ubicado entre Isla Liguiñe e Isla del Rey, Río Tornagaleones, comuna y provincia de Valdivia, X Región.
+
+Valparaíso, 26 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
