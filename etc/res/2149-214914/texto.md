@@ -1,0 +1,3 @@
+Por resolución Nº 2.149, de 2 de septiembre de 2003, de esta Subsecretaría, autorízase a PRODUCTOS MARINOS DE EXPORTACION S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 84 de 1985 y Nº 467 de 1988, ambas de esta Subsecretaría, en orden a operar en la planta ubicada en Avenida Presidente Alessandri Nº 750, Queilén, X Región, donde podrá procesar, en las líneas de elaboración de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Seco-salado, Ahumado, Conserva y Deshidratado, el recurso hidrobiológico Abalón rojo.
+
+Valparaíso, 2 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
