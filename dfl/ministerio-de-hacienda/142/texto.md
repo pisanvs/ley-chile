@@ -1,0 +1,1 @@
+Fija las plantas y remuneraciones de los empleados de la Caja de Previsión de Empleados Particulares.
