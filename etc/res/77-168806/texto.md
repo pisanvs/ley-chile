@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD PESQUERA EL GOLFO STENGEL Y CIA. LTDA PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución N° 77, de 04 de Febrero de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera El Golfo Stengel y Cía. Ltda., para operar el barco f brica de bandera chilena, denominado "Margot María Stenger", en la zona de las 200 millas marinas, medidas desde las líneas de base rectas, situada al Sur del paralelo 44,5° de Latitud Sur, teniendo como puerto base de operaciones Talcahuano. La interesada realizar con la embarcación faenas extractivas y procesamiento en las líneas de congelado, harina y conservación de los siguientes recursos: merluza española, congrio dorado merluza de cola, merluza de 3 aletas, cojinova y jurel.
+
+Santiago, 04 de Febrero de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
