@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 611 de fecha 30 de junio de 2003, se expropiaron los lotes de terreno Nºs 52-A y 53-A, superficie 135 y 10 m2 respectivamente, Rol Nº 192-6, comuna de Longaví, VII Región para la obra "Camino Ruta L-49, Cruce Long. - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12" y se acordó el valor de indemnización con su propietaria Myrtha Beatriz Pérez Ortega y otras, ascendente a la cantidad de $573.188.-
+
+Fiscal del Ministerio de Obras Públicas.
