@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 550 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 14, superficie 71.000 m2, Rol Nº 72-59, comuna de Futrono, X Región para la obra "Camino Ruta T-55, Sector Futrono - Llifén, tramo Km. 55,300 al Km. 75,76384" y se acordó el valor de indemnización con su propietario Pedro Antonio Tercero Barrientos Bórquez, ascendente a la cantidad de $461.282.- para el lote Nº 14.
+
+Fiscal del Ministerio de Obras Públicas.
