@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 1.365 de fecha 31 de octubre del 2003, se expropió el lote de terreno Nº 5-G, superficie 194,36 m2, Rol Nº 323-77, comuna de Río Negro, X Región para la obra "Camino Ruta U-72, Sector Huilma - Riachuelo, Tramo Km. 18,14000 al Km. 33,91000", y se acordó el valor de indemnización con su propietaria María Otilia Caripán Pailalef, ascendente a la cantidad de $1.817.192.
+
+- Fiscal del Ministerio de Obras Públicas.
