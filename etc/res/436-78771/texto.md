@@ -1,0 +1,3 @@
+Por resolución No. 436 de 14 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año, a contar de la fecha de esta Resolución, el plazo otorgado a PESCA CHILE S.A., R.U.T. No. 95.023.000-2, domiciliada en la ciudad de Santiago, Estado No. 10, Oficina 801, en el numeral 5° de las Resoluciones No. 182 y 1.789, de 1989, ambas de esta Subsecretaría en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso 14 de mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
