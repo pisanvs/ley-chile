@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2.027 de fecha 28 de diciembre del 2001, se expropiaron los lotes de terreno Nºs 96 y 97, superficie 376,0 y 1.913 m2, rol de avalúo 260-15, comuna de Fresia, para la obra "Camino Fresia- Parga-Llico-Las Cañitas, Km. 14.835 a Km. 34.000" y se acordó el valor de indemnización con su propietario Herminio Kaschel Niklitschek, ascendente a la cantidad de $717.772.-
+
+Fiscal del Ministerio de Obras Públicas.
