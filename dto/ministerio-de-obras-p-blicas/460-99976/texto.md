@@ -1,0 +1,5 @@
+Por decreto MOP. No. 460, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP.
+
+No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206, de 1960, se expropiaron los lotes de terreno No.s. 175-A y 175-B, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, que figuran a nombre de N£nez Mec¡as Ernesto, rol de avalúo No. 150-264, comuna de Lampa, Región Metropolitana, superficies 1.325 y 266 m2. La Comisión de Peritos compuesta por los señores Américo Agustín Delucchi Cabaña, Juan Eduardo Espinoza Asenjo y la señora Mariela Lillo Felmer, fijó con fecha 14 de noviembre de 1997, el valor provisional de la indemnización en las cantidades de $ 9.393.600, para el lote No. 175-A y $ 1.621.600, para el lote No. 175-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
