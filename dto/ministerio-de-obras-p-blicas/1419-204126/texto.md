@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.419 de fecha 30 de septiembre de 2002, se expropiaron los lotes de terreno Nºs. 19-A y 20-A, superficies 296 y 647,5 m2, rol de Avalúo Nº140-146, comuna de Puerto Varas, para la obra ''Camino Ruta V-505, Sector Puerto Varas-Los Alerces-Puerto Montt, Km.0,000 a Km. 16,340, Provincia de Llanquihue'', X Región y se acordó el valor de la indemnización con su propietario Sociedad Agrícola Ganadera Aitue Limitada ascendente a la cantidad de $3.285.614.-
+
+Fiscal del Ministerio de Obras Públicas.
