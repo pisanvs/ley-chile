@@ -1,0 +1,5 @@
+Certifico que el Consejo del Banco Central de Chile, en su Sesión N°335, celebrada el 27 de enero de 1994, acordó suprimir, a contar del 1° de febrero de 1994, la Gerencia de División de Política Financiera, pasando las Gerencias de Operaciones Monetarias y de Instituciones Financieras a depender de la Gerencia General y designando al señor Camilo Carrasco Alfonso en el cargo de Gerente General del Banco Central de Chile.
+
+Asimismo, acordó, a contar de la misma fecha, que todas las facultades y funciones que competen a la Gerencia de División de Política Financiera o al Gerente de Política Financiera y que se contemplan en los Compendios de Normas de Cambios Internacionales y de Normas Financieras o en Acuerdos separados del Consejo, se entenderá que corresponden a la Gerencia General o al Gerente General, según sea el caso.
+
+Santiago, 1° de febrero de 1994.- Víctor Vial del Río, Ministro de Fe.
