@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 459, de 30 de abril de 2001, se expropió el lote de terreno Nº 69-1, superficie 68 m², rol de avalúo 514-100, comuna de San Fernando, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector H, Sexta Región y se acordó el valor de indemnización con su propietario Luis Ernesto Román Salazar, ascendente a la cantidad de $375.870.-
+
+Fiscal del Ministerio de Obras Públicas.
