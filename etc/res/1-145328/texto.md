@@ -20,7 +20,9 @@ b) De uso mixto, para pasajeros y carga ocasional, con un máximo de seis asient
 
 c) La carrocería debe formar un solo cuerpo entre la cabina del conductor y la caja de carga, la cual debe estar montada sobre chassis (bastidor); y contar con dos puertas laterales y una trasera completa.
 
-d) Altura mínima desde el suelo a la parte baja del diferencial, 19cm. e) Estar equipado con dos de los siguientes elementos:
+d) Altura mínima desde el suelo a la parte baja del diferencial, 19cm.
+
+e) Estar equipado con dos de los siguientes elementos:
 
 (1) Barra de tiro o ganchos, argollas o bolas para remolque, ya sean delanteras o traseras.
 
@@ -36,7 +38,7 @@ Se entenderá por vehículo Furgón, al que cumpla con las siguientes condicione
 
 a) Vehículo para transporte de mercancías, provisto de dos puertas delanteras que dan acceso a la única corrida de asientos, para conductor y acompañante.
 
-b) La caja de carga debe formar un solo cuerpo con el sector del conductor, cerrada por sus costados en un solo panel, sin vidrios (ni su alojamiento predispuesto), ni asientos traseros; con puertas que permitan la carga y descarga de las mercancías que transportan.
+b) La caja de carga debe formar un solo cuerpo con el sector del conductor, cerrada por sus costados en un solo panel, sin vidrios, ni asientos traseros; con puertas que permitan la carga y descarga de las mercancías que transportan. Con todo, la Comisión Automotriz podrá fundadamente y por la unanimidad de los miembros presentes, calificar como furgón, a los vehículos que tengan alojamiento predispuesto para vidrios, cuando considere que dicha circunstancia no puede alterar la naturaleza, características y destino del vehículo.
 
 La condición exigida, que la caja de carga forme un solo cuerpo con el sector del conductor, se refiere a que la carrocería sea unitaria, es decir, que no esté formada por dos partes totalmente separadas, como acontece por ejemplo, con las camionetas Pick-up; de manera tal, que la colocación de una división intermedia entre el espacio destinado a las mercancías y los asientos del chofer y acompañante, en nada afecten la forma de la carrocería propiamente tal, que sigue siendo de fabricación unitaria.
 
