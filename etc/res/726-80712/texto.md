@@ -1,0 +1,3 @@
+Por Resolución No. 726 de 19 de Junio de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 3° de la Resolución No. 1143, de 1990, de esta Subsecretaría, que autorizó a don LUIS EDUARDO GONZALEZ CISTERNAS, R.U.T. No. 5.682.483-9, domiciliado en El Quisco, para iniciar actividades pesqueras, en el sentido de autorizar al solicitante para extraer el recurso Albacora o pez espada, (Xphias gladius), en el litoral de las Regiones I a X, con los artes de pesca enmalle y arpón.
+
+Valparaíso, 19 de Junio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
