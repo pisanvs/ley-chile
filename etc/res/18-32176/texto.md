@@ -1,0 +1,3 @@
+Por resolución N° 18, del 30 de Junio de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región del Bío Bío, se adjudicó al señor Guillermo Contreras Espinoza, la concesión para operar, hasta el 7 de septiembre de 1997, a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en el KM. 30.6 camino a Coronel, destinado a la revisión técnica y veríficación de emisión de contaminantes de los vehículos motorizados, remolques y semirremolques, según el inciso primero del artículo 7° del D.S. N° 156/90, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Mauricio Leiva Chamorro, Secretario Regional Ministerial, Transportes y Telecomunicaciones VIII Región del Bío Bío.
