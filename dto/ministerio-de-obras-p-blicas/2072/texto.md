@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.072, de 30 de octubre de 1998, se expropió el lote de terreno Nº1-I, superficie 49 m², rol de avalúo en trámite, comuna de Quinta de Tilcoco, para la obra Camino Quinta de Tilcoco - Coinco, Sector Quinta de Tilcoco - Coinco y se acordó precio de la indemnización con su propietario, Luis Gerardo Contreras Silva, ascendente a la cantidad de $480.851.-
+
+Fiscal del Ministerio de Obras Públicas.
