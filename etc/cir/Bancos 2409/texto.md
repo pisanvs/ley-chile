@@ -11254,13 +11254,11 @@ En el caso de los créditos de consumo a que se refiere el Anexo N° 2 del Capí
 
 Los contratos de arrendamiento se castigarán cuando se cumpla alguna de las siguientes circunstancias:
 
-a) Cuando un contrato que mantenga cuotas impagas, no esté amparado por un título ejecutivo y los bienes arrendados no se encuentren en poder del arrendatario,
+a) Al cumplirse el plazo de prescripción de las acciones de cobro o al momento del rechazo de la ejecución del contrato por resolución judicial ejecutoriada,
 
-b) Al cumplirse el plazo de prescripción de las acciones de cobro o al momento del rechazo de la ejecución del contrato por resolución judicial ejecutoriada,
+b) Cuando, por insolvencia del arrendatario u otra causa sobreviniente, la institución considere que no existe ninguna posibilidad de recuperación de las rentas de arrendamiento, y el valor del bien no pueda ser considerado para los efectos de recuperación del contrato, ya sea porque no está en poder del arrendatario, por el estado en que se encuentra, por los gastos que involucraría su recuperación, traslado y mantención, por obsolescencia tecnológica o por no existir antecedentes sobre su ubicación y estado actual,
 
-c) Cuando, por insolvencia del arrendatario u otra causa sobreviniente, la institución considere que no existe ninguna posibilidad de recuperación de las rentas de arrendamiento, y el valor del bien no pueda ser considerado para los efectos de recuperación del contrato, ya sea por el estado en que se encuentra, por los gastos que involucraría su recuperación, traslado y mantención, por obsolescencia tecnológica o por no existir antecedentes sobre su ubicación y estado actual,
-
-d) Por último, aun cuando la institución estime que puede lograr la recuperación de los montos adeudados, deberá seguir los siguientes criterios i) si el contrato no se encuentra amparado con un título ejecutivo, castigará las cuotas morosas que hayan cumplido 90 días impagas y si la cuota más antigua ha cumplido 12 meses desde su vencimiento, deberá además castigar la totalidad del crédito, ii) si el contrato se encuentra amparado por un título ejecutivo, castigará todas las cuotas vencidas cuando la más antigua de ellas haya cumplido 12 meses desde su vencimiento y, posteriormente, deberá castigar las cuotas restantes a medida que vayan venciendo. Este último procedimiento podrá anticiparse mediante el castigo del saldo total del contrato, lo que en todo caso se hará al presentarse alguna de las circunstancias señaladas en los literales precedentes.
+c) Aun cuando la institución estime que puede lograr la recuperación de los montos adeudados, castigará todas las cuotas vencidas cuando la más antigua de ellas haya cumplido doce meses desde su vencimiento y, posteriormente, deberá castigar las cuotas restantes en la medida que vayan venciendo. Este último procedimiento podrá anticiparse mediante el castigo del saldo total del contrato, lo que en todo caso se hará al presentarse alguna de las circunstancias señaladas en las letras precedentes.
 
 3.- Contabilización de los castigos de colocaciones.
 
