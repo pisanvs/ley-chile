@@ -1,0 +1,3 @@
+Por decreto MOP Nº 551 de fecha 30 de mayo de 2003, se expropiaron los lotes de terreno Nº 21 y 22, superficies 234,00 m2 y 30.699,00 m2, rol de Avalúo Nº 233-56, comuna de Quellón, para la obra "Camino Ruta 5 Sur, Sector Compu Colonia Yungay, tramo Km. 1.240,000 a Km. 1.257,445 y Sector Curva La Herradura, tramo 1.263,50 Km. 1.264,309, Provincia de Chiloé", X Región y se acordó el valor de la indemnización con su propietario Juan Bernardo Uribe Velásquez, ascendente a la cantidad de $18.897.591.
+
+Fiscal del Ministerio de Obras Públicas.
