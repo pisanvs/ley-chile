@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.723, de 25 de junio de 1999, se expropiaron los lotes de terreno No. s 131-C y 132, superficies 321 m2 y 1.856 m2, rol de avalúo 602-68, comuna de Mulchén, para la obra "Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli", Octava Región y se acordó el valor de indemnización con su propietario Horacio Arturo Schettino Gutiérrez, ascendente a la cantidad total de $ 5.199.757.-
+
+Fiscal del Ministerio de Obras Públicas.
