@@ -1,0 +1,3 @@
+Por resolución Nº 1.793, de 11 de diciembre de 1998, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 536 de 1991, en cuanto autorizó a SOCIEDAD PESQUERA COLOSO S.A., para operar la nave ''Bío Bío'', Matrícula 2.196 ex ''Con Con'', en la captura del recurso hidrobiológico Jurel Trachurus murphyi, en el litoral de la III y IV Regiones, por no haber operado en dicha pesquería en el término legal, de conformidad con lo señalado en el inciso segundo de la letra b) del artículo 143 del D.S. Nº 430 de 1991 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
