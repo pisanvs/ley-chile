@@ -1,0 +1,3 @@
+Por resolución exenta Nº 319, de 8 de febrero de 2005, de esta Subsecretaría, autorízase a INDUSTRIAS ISLA QUIHUA S.A., para continuar desarrollando las actividades pesqueras de transformación autorizadas a Pesquera Isla Quihua S.A., en una planta ubicada en Avenida Matta Nº 203, Lota, mediante las resoluciones Nº 2.709 y Nº 3.354, ambas de 2004 y de esta Subsecretaría, en virtud de la escritura pública citada en Visto y del contenido de la presente resolución.
+
+Valparaíso, 8 de febrero de 2005.- Jéssica Fuentes Olmos, Subsecretario de Pesca (S).
