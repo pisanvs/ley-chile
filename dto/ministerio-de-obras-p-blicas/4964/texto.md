@@ -1,0 +1,3 @@
+Por decreto MOP 4.964, de 31 de octubre de 2000, se expropiaron los lotes de terreno Nºs. 1-A y 1-B, superficies 28.949 m² y 14.446 m², rol de avalúo 869-1, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Troncal Sur, Atravieso El Rincón, Lámina Especial, Quinta Región y se acordó el valor de indemnización con su propietario Gustavo Martínez Pérez, ascendente a la cantidad total de $396.988.731.-
+
+Fiscal del Ministerio de Obras Públicas.
