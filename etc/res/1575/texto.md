@@ -1,0 +1,7 @@
+Por Resolución N° 1.575, de 22 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 913 de 1996, de esta Subsecretaría, que autorizó a PESQUERA IQUIQUE GUANAYE S.A., para sustituir la nave "Guanaye 5", por una nave en construcción, en los términos que se indican:
+
+a) En el numeral 1, agrégase el siguiente inciso final: "Para dar cumplimiento al inciso anterior la solicitante deberá previamente cancelar la inscripción en el Registro Pesquero Industrial de la nave "Guanaye 5". Una vez acreditada la cancelación el Servicio podrá admitir la inscripción de la nave sustituta, debiendo informar de inmediato a la Subsecretaría de Pesca." b) Sustitúyese el numeral 11 por el siguiente:
+
+"Desde el momento en que, en cumplimiento de lo dispuesto en el inciso final del numeral 1 de esta Resolución, la nave se inscriba en el Registro Pesquero Industrial, quedará sin efecto la Resolución N° 689 de 1995, de esta Subsecretaría, que autorizó la operación de la nave "Guanaye 5", en virtud de la sustitución a que se refiere la presente Resolución. En consecuencia, la nave antes indicada podrá seguir operando hasta el momento en que cumpla lo dispuesto en el inciso 3° y 4° del numeral 1, sin perjuicio de lo establecido en el numeral 6 de la Resolución N° 913, de 1996."
+
+Valparaíso, 22 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
