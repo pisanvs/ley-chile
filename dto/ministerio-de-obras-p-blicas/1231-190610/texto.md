@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.231 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº55, superficie 1.064 m2., Rol de avalúo Nº611-1, comuna de Nueva Imperial, para la obra "Camino Ruta S-16, Sector Galvarino-Chol Chol, Tramo Km. 0,00000 al Km. 24,30269" correspondiente al Sub-tramo II Km. 8,339 al Km. 15,574, y se acordó el valor de indemnización con su propietaria Gregoria Sáez Neira y otro, ascendente a la cantidad de $392.980.-
+
+Fiscal del Ministerio de Obras Públicas.
