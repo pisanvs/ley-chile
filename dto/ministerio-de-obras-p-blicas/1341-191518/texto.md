@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.341 de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº5-A, superficie 249 m2., rol de avalúo 761-4, comuna de Renca, para la obra ''Estudio de Ingeniería Habilitación Segunda Calzada Avda. Américo Vespucio, Sector Carretera Panamericana Norte-Ruta 72'' y se acordó el valor de indemnización con su propietario Compañía de Petróleos de Chile S.A., ascendente a la cantidad de $16.379.220.
+
+- Fiscal del Ministerio de Obras Públicas.
