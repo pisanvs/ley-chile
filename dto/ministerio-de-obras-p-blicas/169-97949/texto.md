@@ -1,0 +1,5 @@
+Por decreto MOP. Nº169 de 23 de febrero de l998,y en base a la facultad otorgada por el artículo lO5 del decreto MOP. Nº294 de 1984 (D.F.L. Nº850 de 1997), que fijó el texto actualizado de la ley Nºl5.840, se expropió el lote de terreno Nº24, para la obra Camino Santiago-Colina - Los Andes Sector "B", By Pass Colina, km. 0.739,90 al km.
+
+5.926,30, que figura a nombre de Saavedra Romero Hernán, rol de avalúo 169-14, comuna de Colina, superficie 65.513,4 m2. La Comisión de Peritos integrada por los señores Carlos Garcés Fernández, Inés Elena Otárola Castillo y Ramón Enrique DomIngo Labarca, fijó con fecha 29 de diciembre de 1997, el valor provisional de la indemnización en la cantidad de $150.091.199.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
