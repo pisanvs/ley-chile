@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.254 de 30 de agosto de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº86, para la obra: Camino Ruta L-49, Cruce Long. Mesamavida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12, que figura a nombre de Zúñiga Norambuena Víctor Ramón, rol de avalúo 509-27, comuna de Longaví, VII Región, superficie 115 m². La Comisión de Peritos, fijó con fecha 19 de junio de 2000, en la cantidad de $281.000.- para el lote Nº86. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
