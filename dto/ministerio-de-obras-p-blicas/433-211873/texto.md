@@ -1,0 +1,3 @@
+Por decreto MOP Nº 433 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 12, superficie 637 m², rol de avalúo en trámite, comuna de Graneros, VI Región, para la obra "Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 a Km. 9,317" y se acordó el valor de indemnización con su propietario Leonardo Enrique Fuentes Soto y otros, ascendente a la cantidad de $23.027.007.-
+
+Fiscal del Ministerio de Obras Públicas.
