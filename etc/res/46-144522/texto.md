@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION TOTAL DE INMUEBLE
+
+Por resolución Nº46, de 25 de agosto de 1999, tomada razón el 21 de septiembre del mismo año, Serviu XII Región Magallanes y Antártica Chilena dispuso expropiación total, conforme al decreto ley 1.523, de 1976, decreto supremo 140, de Vivienda y Urbanismo, de 1991 y decreto ley 2.186, de 1978, de inmueble ubicado en Punta Arenas, Avenida 21 de Mayo S/Nº, Lote Nº3, entre las calles Oscar Viel y Almirante Latorre, rol de avalúo Nº1382-37, de aparente dominio de doña Paola Marcela Zanetti Turina, Hernán Ricardo Zanetti Turina, Nenia Adriana Turina Mimica y Delia Aída Zanetti Sapunar. Comisión tasadora integrada por Sres. José Subiabre Aguilar, José Barría Bonacic y Sra. Jeannette Moris Torres, todos arquitectos, fijó monto provisional indemnización, según informe de fecha 14 de julio de 1999, en $59.649.760.-, que será pagada al contado, con los reajustes legales.-
+
+Héctor Ramírez Figueroa, Arquitecto, Director Servicio de Vivienda y Urbanización XII Región.
