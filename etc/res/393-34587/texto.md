@@ -1,0 +1,3 @@
+Por Resolución N° 393, de 7 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 1.345, de 1990, de esta Subsecretaría, que autorizó a don PABLO LAUREANO LORENZO PASSALACQUA LAMAS, R.U.T. N° 5.918.740-6, para operar la nave "Tintorera", conforme lo dispuesto en el artículo 143° letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
