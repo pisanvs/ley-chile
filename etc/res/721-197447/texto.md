@@ -1,0 +1,3 @@
+Por resolución Nº 721, de 10 de abril de 2002, de esta Subsecretaría, autorízase a HERMOSINA CRUZ OLIVARES para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 2.628, de 2000, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Rengo Nº 086, Los Vilos, IV Región, en la línea de elaboración de Fresco-enfriado, el recurso hidrobiológico Loco.
+
+Valparaíso, 10 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
