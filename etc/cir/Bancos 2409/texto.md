@@ -21288,47 +21288,41 @@ El Banco Central de Chile aplicará un descuento en moneda chilena al importe de
 
 Los recursos en moneda nacional que obtengan las instituciones financieras por estas ventas con pacto de recompra, podrán ser colocados por ellas solamente en Pesos moneda corriente o en Unidades de Fomento.
 
-1.1. Plazo y monto mínimos.
+1.1. Origen de los recursos que pueden venderse.
 
-El monto mínimo de cada venta por cuenta propia o de terceros, con las excepciones que se indican en los párrafos siguientes, es de US$ 100.000 y el plazo de recompra que se pacte debe ser, a lo menos, cinco días hábiles bancarios, salvo en el caso señalado en el párrafo tercero de este numeral, y no superior a 720 días corridos desde la fecha de la operación de venta.
+Los dólares de los Estados Unidos de América que las instituciones financieras vendan al Banco Central de Chile con esta modalidad de recompra, deben tener su origen en:
 
-Sin embargo, en las operaciones que se realicen por cuenta de exportadores con recursos provenientes de anticipos de compradores del exterior, créditos externos o internos o retornos de exportación informados al Banco Central de Chile y acogidos al plazo especial de 90 días para su liquidación, de que trata el N° 7 del Capítulo III del Título II del Compendio de Normas de Cambios Internacionales, el monto mínimo es de US$ 50.000.
+a) Divisas recompradas por créditos ingresados y liquidados al amparo del Capítulo XIV del ex-Compendio de Normas de Cambios Internacionales y del Capítulo XIV del Titulo I del Compendio de Normas de Cambios Internacionales;
 
-En las operaciones por cuenta de terceros, cuyos recursos no provengan de los anticipos, créditos o retornos de exportación señalados en el párrafo precedente o de aportes de capital internados al amparo del D.L. N° 600 ó del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, el monto mínimo es de US$ 500.000 y su plazo con la única excepción de los referidos anticipos, créditos o retornos de exportación, no podrá ser inferior a 360 días.
+b) Divisas recompradas con recuperaciones de colocaciones Acuerdo N° 1196;
 
-En todo caso, las instituciones financieras que deseen realizar ventas de divisas con pacto de recompra por un monto total que en un mismo día supere la suma de US$ 10.000.000, deben enviar una solicitud en tal sentido a la Gerencia de Financiamiento Externo del Banco Central de Chile, con dos días hábiles bancarios de anticipación.
+c) Divisas recompradas con recuperaciones de colocaciones Acuerdo N° 1418;
 
-1.2. Contratos de compra venta.
+d) Aportes de capital ingresados al amparo del Capítulo XIV del ex-Compendio de Normas de Cambios Internacionales y del Capitulo XIV del Título I del Compendio de Normas de Cambios Internacionales;
 
-La materialización de estas operaciones se efectúa mediante contratos que suscribe el Banco Central de Chile, los que quedan sujetos a las disposiciones del artículo 47 de su Ley Orgánica Constitucional.
+e) Aportes de capital ingresados al amparo del D.L. 600 de 1974 y sus modificaciones;
 
-Cuando se efectúen ventas de divisas con pacto de recompra con recursos provenientes de retornos de exportación informados al Banco Central de Chile,que se encuentren acogidos al plazo especial de 90 días para su liquidación, contador desde la fecha de vencimiento del plazo establecido para su retorno, se deberá dejar constancia en el respectivo contrato que se trata de retornos
+f) Reservas constituidas con utilidades remesables; y,
 
-informados al Instituto Emisor pendientes de liquidación.
+g) Depósitos a la vista o a plazo.
 
-1.3. Origen de los recursos que pueden venderse.
+1.2.- Plazo y monto mínimos.
 
-1.3.1. Bancos.
+El monto mínimo de cada venta por cuenta propia o de terceros, es de US$100.000 y el plazo de recompra que se pacte debe ser de, a lo menos, cinco días hábiles bancarios, cuando se trate de las divisas señaladas en la letra g) del numeral 1.1 precedente, y de 360 días corridos, en los demás casos. El plazo máximo de estas operaciones no podrá ser superior a 720 días corridos desde la fecha de la operación de venta.
 
-Los dólares de los Estados Unidos de Norteamérica que las instituciones bancarias vendan al Banco Central de Chile con esta modalidad de recompra, pueden tener su origen en:
+En todo caso, las instituciones financieras que deseen realizar ventas de divisas con pacto de recompra por un monto total que en un mismo día supere la suma de US$10.000.000, deben enviar una solicitud en tal sentido al Banco Central de Chile, con dos días hábiles bancarios de anticipación.
 
-a) sus propias disponibilidades en moneda estadounidense exceptuadas las provenientes de su Posición de Cambio; y,
+1.3.- Contratos de compra venta.
 
-b) recompras de dólares recibidos del exterior, efectuadas de conformidad con lo dispuesto en la letra G) del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
+La materialización de estas operaciones se efectúa mediante contratos sujetos a las disposiciones del artículo 47 de su Ley Orgánica Constitucional que suscribe el Banco Central de Chile con las instituciones financieras, sea que actúen a nombre propio o por cuenta de terceros.
 
-1.3.2. Sociedades Financieras.
+1.4.- Ventas con pacto de recompra por cuenta de terceros.
 
-Las sociedades financieras pueden efectuar estas operaciones únicamente con dólares provenientes de las recompras a que se refiere la letra b) del numeral 1.3.1 precedente.
-
-1.4. Ventas con pacto de recompra por cuenta de terceros.
-
-Las instituciones bancarias y las sociedades financieras pueden realizar esta misma clase de ventas por cuenta de terceros mediante mandatos que, para este efecto, deben otorgarles los interesados. Estas ventas quedan sujetas a los montos y a los plazos mínimos establecidos para estas operaciones de terceros, en el numeral 1.1 de estas instrucciones.
+Las instituciones bancarias y las sociedades financieras pueden realizar esta misma clase de ventas por cuenta de terceros que sean personas naturales residentes en el país o personas jurídicas legalmente establecidas en Chile, mediante mandatos que, para este efecto, deben otorgarles los interesados. Estas ventas sólo podrán efectuarse con las divisas señaladas en las letras a), d) y e) del numeral 1.1 precedente, y quedan sujetas al monto mínimo indicado en dicho numeral. Estas operaciones no podrán pactarse a plazos inferiores a 360 días corridos contados desde la fecha de la venta.
 
 En todo caso, las entidades financieras pueden aceptar o rechazar los mandatos que les entreguen sus clientes para efectuar las ventas de dólares al Banco Central de Chile, con pacto de recompra.
 
-Las entidades financieras que realicen estas operaciones por cuenta de terceros deben tener presente que ellas, atendida la norma del Banco Central de Chile, se efectúan bajo la responsabilidad de la entidad mandataria, la que, por consiguiente,debe advertir a su mandante de que, si a la fecha pactada para la recompra no le ha hecho la necesaria provisión de la moneda chilena para
-
-rescatar la moneda extranjera, se perderá el derecho de recompra que le confiere el contrato al vendedor y la operación se transformará en una venta definitiva de dólares.
+Las entidades financieras que realicen estas operaciones por cuenta de terceros deben tener presente que ellas, atendida la norma del Banco Central de Chile, se efectúan bajo la responsabilidad de la entidad mandataria, la que, por consiguiente, debe advertir a su mandante de que, si a la fecha pactada para la recompra no le ha hecho la necesaria provisión de la moneda chilena para rescatar la moneda extranjera, se perderá el derecho de recompra que le confiere el contrato al vendedor y la operación se transformará en una venta definitiva de dólares.
 
 1.5. Pérdida del derecho a recompra.
 
@@ -21592,9 +21586,7 @@ Al término de cada mes, dicha comisión se traspasará a la cuenta "Comisiones 
 
 2.5. Custodia de los contratos por venta de divisas de terceros.
 
-Estos contratos deben ser registrados por los bancos y financieras con cargo a la cuenta "Contratos por venta de divisas de terceros con pacto de retrocompra".
-
-Esta cuenta se dividirá en dos sube lientas que se denominarán "Retornos informados y pendientes de liquidación", en la que se registrarán las operaciones realizadas con recursos provenientes de retornos de exportación informados al Banco Central de Chile y acogidos, para su liquidación, al plazo especial de 90 días y "Otros recursos", en la que se registrarán las demás operaciones por cuenta de terceros, con abono a la cuenta "Depositantes de contratos por venta de divisas de terceros con pacto de retrocompra". Estas cuentas se demostrarán en las partidas 9260 y 9900 del formulario MB1, respectivamente.
+Estos contratos deben ser registrados por los bancos y financieras con cargo a la cuenta "Contratos por venta de divisas de terceros con pacto de retrocompra" con abono a la cuenta "Depositantes de contratos por venta de divisas de terceros con pacto de retrocompra". Estas cuentas se demostrarán en las partidas 9260 y 9900, respectivamente.
 
 2.6. Ajustes por variación de tipo de cambio.
 
