@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.585, de 30 de noviembre de 1999, se expropió el lote de terreno Nº47, superficie 304 m², rol de avalúo 115-9, comuna de Malloa, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector G, VI Región y se acordó el valor de indemnización con su propietaria Silvia Rosa Aliste Díaz, ascendente a la cantidad de $5.110.105.
+
+Fiscal del Ministerio de Obras Públicas.
