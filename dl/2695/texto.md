@@ -1,0 +1,379 @@
+DECRETO LEY N° 2.695, de 1979 Fija normas para regularizar la posesión de la pequeña propiedad raíz y para la constitución del dominio sobre ella
+
+(Publicado en el "Diario Oficial" N° 30.420, de 21 de julio de 1979)
+
+NUM. 2.695.- Santiago, 30 de mayo de 1979.- Visto: lo dispuesto en los decretos leyes 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y
+
+Considerando: 1° Que la deficiente constitución del dominio de las pequeñas propiedades raíces rurales y urbanas genera problemas de índole socioeconómico de crecimiento progresivo, al impedir que gran número de ellas se incorpore efectivamente al proceso productivo nacional;
+
+2° Que por ello se ha creado un sistema que la legislación ha denominado "saneamiento del dominio de la pequeña propiedad", que tiene por objeto regularizar la situación del poseedor material que carece de títulos o que los tiene imperfectos, lo que es previo, en el caso de la pequeña propiedad agrícola, a la elaboración de planes de desarrollo y de asistencia técnica o crediticia, así como a cualquier reordenamiento destinado a atacar e impedir el minifundio;
+
+3° Que la legislación vigente sobre la materia no ha permitido dar solución eficaz al problema, por lo cual es conveniente modificarla, adecuándola a la realidad actual y estableciendo un nuevo procedimiento que dé facultades a la autoridad administrativa para ordenar la inscripción de los predios a nombre de sus poseedores materiales que reúnan los requisitos establecidos en la ley, y que contemple la intervención de la Justicia Ordinaria sólo en los casos de legítima oposición o para garantizar los derechos de terceros, y Habiéndose oído además al Consejo de Estado sobre esta iniciativa,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente.
+
+DECRETO LEY:
+
+## Título I
+
+Disposiciones Generales
+
+#### Artículo 1°
+
+Los poseedores materiales de bienes raíces rurales o urbanos, cuyo avalúo fiscal para el pago del impuesto territorial sea inferior a ochocientas o a trescientas ochenta unidades tributarias, respectivamente, que carezcan de título inscrito, podrán solicitar de la Dirección de Tierras y Bienes Nacionales que se les reconozca la calidad de poseedores regulares de dichos bienes a fin de quedar habilitados para adquirir su dominio por prescripción, de acuerdo con el procedimiento que se establece en la presente ley.
+
+Para estos efectos se considerará el avalúo que esté vigente en la fecha que se presente la respectiva solicitud, referido al total o parte del bien raíz, según corresponda, proporcionado por el Servicio de Impuestos Internos.
+
+> **Nota.** NOTA: 1 Ver el Decreto Supremo N° 541, del Ministerio de Bienes Nacionales, publicado en el "Diario Oficial" de 17 de Octubre de 1996, Reglamento del presente Decreto Supremo, que fija normas para regularizar la posesión de la pequeña propiedad raíz y constituir el dominio sobre ella, y deja sin efecto decreto N° 7, de 1996, no tramitado.
+
+#### Artículo 2°
+
+Para ejercitar el derecho a que se refiere el artículo anterior, el solicitante deberá reunir los siguientes requisitos:
+
+1.- Estar en posesión del inmueble, por sí o por otra persona en su nombre, en forma continua y exclusiva, sin violencia ni clandestinidad, durante cinco años, a lo menos, y
+
+2.- Acreditar que no existe juicio pendiente en su contra en que se discuta el dominio o posesión del inmueble, iniciado con anterioridad a la fecha de presentación de la solicitud.
+
+No será obstáculo para el ejercicio de este derecho la circunstancia de que existan inscripciones de dominio anteriores sobre el mismo inmueble.
+
+En las casas o edificios poseídos en común por varias personas que deseen acogerse al procedimiento de regularización de la posesión establecido en el presente texto legal no se aplicarán estas disposiciones sino en los casos en que esos inmuebles cumplan con las prescripciones de la ley 6.071.
+
+#### Artículo 3°
+
+El solicitante podrá agregar a su posesión la de sus antecesores, sea ésta legal o material, siempre que el inmueble no forme parte de uno inscrito de mayor extensión, y que exista, a lo menos, un título aparente que haga presumible la continuidad de las posesiones.
+
+Se tendrá, entre otros, como título aparente la promesa de compraventa de plazo vencido; la adquisición de mejoras o de derechos y acciones sobre el inmueble, sea por instrumento público o privado, y el hecho de ser el solicitante descendiente o heredero presunto del poseedor anterior. La calidad de descendiente, podrá acreditarse también con las partidas de bautismo y de matrimonio religioso o con la partida de nacimiento en que conste el nombre del padre o de la madre.
+
+El hecho de invocar como antecedente un contrato de promesa de compraventa o cualquier otro instrumento público o privado en que conste la voluntad de transferir la propiedad no significará que el poseedor reconozca dominio ajeno.
+
+#### Artículo 4°
+
+La posesión material deberá acreditarse en la forma establecida en el artículo 925° del Código Civil.
+
+El pago del impuesto territorial podrá ser considerado como plena prueba de la posesión material cuando por su regularidad, continuidad y duración reúna los caracteres establecidos en el inciso segundo del artículo 426° del Código de Procedimiento Civil. El pago del mismo tributo durante los cinco años anteriores a la presentación de la solicitud hará plena prueba de dicha posesión respecto del peticionario.
+
+El solo hecho de existir una inscripción anterior que ampare el inmueble, no significará que el poseedor material esté reconociendo dominio ajeno, sin perjuicio de los derechos del titular de esa inscripción contemplados en el Título IV de la presente ley.
+
+#### Artículo 5°
+
+El solicitante deberá acompañar una declaración jurada, prestada ante Notario, o, en su defecto, ante el Oficial del Registro Civil en cuyo territorio jurisdiccional se encuentre el inmueble, o ante el funcionario que el Servicio determine, acerca del hecho de cumplir con el requisito contemplado en el N° 1 del artículo 2°, sobre el origen de su posesión y respecto de los antecedentes legales y de hecho de los poseedores anteriores, si los conociere, como, asimismo, sobre el conocimiento que tuviere de la existencia de inscripciones que se refieran al inmueble y de las otras personas que pudieran tener derechos sobre el predio.
+
+#### Artículo 6°
+
+El cumplimiento del requisito de no existir juicio pendiente se acreditará mediante declaración jurada que deberá prestarse conjuntamente con la que exige el artículo anterior.
+
+#### Artículo 7°
+
+La presente ley será aplicable a los inmuebles ubicados en cualquier punto del territorio de la República, incluyendo a aquellos cuyos títulos de dominio no hayan sido reconocidos como válidos por el Fisco en conformidad a las leyes sobre propiedad austral.
+
+En el caso de terrenos ubicados en zonas fronterizas, se requerirá autorización previa de la Dirección Nacional de Fronteras y Límites del Estado.
+
+#### Artículo 8°
+
+No obstante, lo dispuesto en el artículo anterior, las normas de la presente ley no serán aplicables a los terrenos comprendidos en las poblaciones declaradas, en situación irregular, de acuerdo con la ley 16.741, a las tierras indígenas regidas por la ley 17.729, a las comunidades sujetas a las disposiciones del decreto con fuerza de ley 5, de 1967, del Ministerio de Agricultura, y a los terrenos de la provincia de Isla de Pascua.
+
+Tampoco serán aplicables a las propiedades fiscales, entendiéndose por tales las que se encuentren inscritas a nombre del Fisco, ni a las de los gobiernos regionales, municipalidades y servicios públicos descentralizados, ni a las comprendidas en las herencias deferidas a favor de ellos, ni a los inmuebles en que estén efectuando hechos positivos de aquéllos a que sólo da derecho el dominio.
+
+Sin perjuicio de lo anterior, el Ministerio de Bienes Nacionales, mediante resolución fundada, podrá aplicar el procedimiento de regularización establecido en este decreto ley, respecto de los inmuebles de propiedad de las municipalidades y de servicios públicos descentralizados, como los Servicios Regionales de Vivienda y Urbanización. Para efectuar esta regularización, dicha Secretaría de Estado deberá contar con la autorización previa y expresa de los representantes legales de las instituciones propietarias de los inmuebles de que se trata, y se regirán en todo lo demás por las disposiciones generales de este cuerpo legal, y las demás normas que les sean aplicables.
+
+Asimismo, el Ministerio de Bienes Nacionales, mediante resolución fundada, podrá aplicar el procedimiento de regularización establecido en este decreto ley, en todos aquellos inmuebles donde exista incerteza de quién es su propietario por encontrarse éstos ubicados en localidades del país donde los conservadores de bienes raíces competentes hayan sufrido algún siniestro, y como consecuencia de éste, no exista historia de la propiedad raíz, o ésta no se haya podido conservar, en uno y otro caso, por pérdida o destrucción de los registros respectivos.
+
+Si fuera necesario acreditar que el inmueble no se encuentra en alguno de los casos a que se refieren los incisos primero y segundo de este artículo, será suficiente prueba un certificado expedido por el Servicio o por el Ministerio de la Vivienda y Urbanismo, según corresponda.
+
+#### Artículo 9°
+
+El que maliciosamente obtuviere el reconocimiento de la calidad de poseedor regular de acuerdo con el procedimiento establecido en la presente ley, será sancionado con las penas del artículo 473° del Código Penal.
+
+Se presumirá el dolo cuando el interesado tuviere, en la fecha de presentación de su solicitud, la calidad de arrendatario o mero tenedor o haya reconocido dominio ajeno mediante un acto o contrato escrito.
+
+Si como consecuencia de lo señalado en el inciso primero se interpusiere acción penal, y ésta fuere acogida, el tribunal ordenará que se cancele la inscripción de que tratan los artículos 12 y 14.
+
+Si falleciere el procesado antes de existir sentencia firme, sin perjuicio del sobreseimiento definitivo que corresponda, si no hubiere demanda civil, el querellante podrá solicitar por vía incidental al tribunal de la causa la cancelación de la inscripción a que se refiere el inciso anterior en el plazo de sesenta días contados desde la muerte de aquél, debiendo emplazarse a los herederos mediante tres avisos publicados en un diario o periódico de circulación provincial, a su costa, entre cada uno de los cuales deben mediar a lo menos diez días, para que expongan lo que crean conveniente a sus derechos. En su rebeldía, el tribunal realizará de oficio todas las diligencias que estimare necesarias para decidir si ordena o no la cancelación impetrada o resolverá de plano si hubiere mérito para ello. Si en la causa criminal hubiere demanda civil, o ella se hubiera interpuesto independientemente, se proseguirá conforme a las normas generales contra los respectivos herederos.
+
+## Título II
+
+Del procedimiento
+
+#### Artículo 10°
+
+Presentada la solicitud en el Servicio, éste la admitirá a tramitación, previo informe jurídico, cuando a su juicio sea difícil u onerosa la regularización de la posesión inscrita por los procedimientos establecidos en otras leyes. El Servicio oficiará al Servicio de Impuestos Internos para que este organismo informe, dentro de los quince días hábiles siguientes a la fecha de recepción del oficio respectivo, sobre el nombre, rol único tributario y domicilio de quien aparezca, según sus antecedentes, como propietario del inmueble.
+
+Recibidos los antecedentes a que se refiere el inciso anterior, si se tratere de personas naturales, el Servicio oficiará al Servicio de Registro Civil e Identificación y al Servicio Electoral para que, dentro de los quince días hábiles siguientes a la fecha de recepción del oficio respectivo, informen del último domicilio que registra en dichos organismos la persona que, según el Servicio de Impuestos Internos, aparece como supuesto propietario, o de su fallecimiento. Con estos antecedentes el Servicio procederá a notificar la solicitud, mediante carta certificada, al supuesto propietario del inmueble, adjuntando copia íntegra de ella.
+
+Cumplidos los trámites anteriores, o sin ellos cuando los organismos pertinentes no hubiesen aportado información dentro de los plazos señalados acerca del supuesto titular, el Servicio dispondrá que el personal técnico de su dependencia, o el contratado en la forma dispuesta en el artículo 40, compruebe en el terreno la concurrencia de los requisitos exigidos en el artículo 2°, y reúna los datos necesarios para individualizar el inmueble, levantando el respectivo plano, todo ello si procediere. De la visita a terreno que se efectuare deberá dejarse constancia en la unidad de Carabineros correspondiente más cercana.
+
+#### Artículo 11°
+
+Cumplidos los trámites a que se refiere el artículo anterior y previo informe jurídico, el Servicio deberá pronunciarse denegando o aceptando la solicitud presentada. En este último caso la resolución respectiva deberá disponer que ella se publique por dos veces en un diario o periódico de los de mayor circulación en la región que determine el Servicio y ordenará, asimismo, fijar carteles durante 15 días en los lugares públicos que él determine. Asimismo, tratándose de procedimientos de regularización cuyo objeto sean bienes raíces ubicados en zonas geográficas de difícil acceso, que el Servicio señale, dicha resolución se comunicará mediante mensaje radial en el medio que el mismo Servicio determine.
+
+Las publicaciones se harán indistintamente los días primero y quince del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados.
+
+Los avisos y carteles contendrán en forma extractada la resolución del Servicio, la individualización del peticionario, la ubicación y deslindes del inmueble, su denominación, si la tuviere, su superficie aproximada y la respectiva inscripción si fuere conocida, y en ellos deberá prevenirse que, si dentro del plazo de 30 días hábiles contados desde la publicación del último aviso, no se dedujere oposición por terceros, se ordenará la inscripción a nombre del solicitante.
+
+#### Artículo 12°
+
+Si no se dedujere oposición dentro del plazo indicado en el artículo anterior y previa certificación de este hecho y del de haberse efectuado las publicaciones y colocado los carteles, el Servicio podrá dictar resolución ordenando la inscripción del inmueble en el Registro de Propiedad del Conservador de Bienes Raíces respectivo.
+
+Esta resolución contendrá la individualización de el o los peticionarios, la ubicación y deslindes del predio, su denominación, si la tuviere, y su superficie aproximada; estará exenta del trámite de toma de razón y no será necesario reducirla a escritura pública.
+
+#### Artículo 13°
+
+Cuando el Servicio rechazare una solicitud, el interesado podrá recurrir al Subsecretario de Tierras y Colonización, el que resolverá sin ulterior recurso.
+
+#### Artículo 14°
+
+El Conservador de Bienes Raíces deberá practicar la inscripción del inmueble a requerimiento del Servicio o del interesado, de acuerdo con las indicaciones que contenga la resolución dictada por el Servicio y agregará, al final del Registro de Propiedad, una copia autorizada de dicha resolución, junto con el plano correspondiente, en su caso, y además practicará la inscripción de la prohibición a que se refiere el artículo 17° de la presente ley.
+
+Para proceder a la inscripción no será necesario que se acredite el pago del impuesto territorial, ni que el inmueble está al día en lo relativo a deudas de pavimentación.
+
+A solicitud del interesado, el Servicio podrá ordenar que se practique una sola inscripción, a nombre del mismo poseedor material, cuando dos o más predios o retazos rurales estén ubicados en un mismo departamento y sus avalúos, en conjunto, no excedan el límite establecido en el artículo 1°.
+
+En lo demás, el Conservador se ceñirá a las normas del Reglamento del Registro Conservatorio de Bienes Raíces, en lo que no fueren modificadas por el reglamento de la presente ley.
+
+## Título III
+
+De los efectos de la inscripción
+
+#### Artículo 15°
+
+La resolución del Servicio que acoja la solicitud se considerará como justo título. Una vez practicada su inscripción en el Registro del Conservador de Bienes Raíces, el interesado adquirirá la calidad de poseedor regular del inmueble para todos los efectos legales, aunque existieren en favor de otras personas inscripciones que no hubieran sido materialmente canceladas.
+
+Transcurrido un año completo de posesión inscrita no interrumpida, contado desde la fecha de la inscripción, el interesado se hará dueño del inmueble por prescripción, la que no se suspenderá en caso alguno.
+
+La resolución indicada en el inciso primero y la sentencia a que se refiere el artículo 25 de esta ley se subinscribirán al margen de la respectiva inscripción de dominio a la que afecte el saneamiento, si se tuviere conocimiento de ella.
+
+#### Artículo 16°
+
+Como consecuencia de lo dispuesto en el artículo precedente, expirado el plazo de un año a que esa disposición se refiere, prescribirán las acciones emanadas de los derechos reales de dominio, usufructo, uso o habitación, servidumbres activas y el de hipotecas relativos al inmueble inscrito de acuerdo con la presente ley.
+
+Las anteriores inscripciones de dominio sobre el inmueble, así como la de los otros derechos reales mencionados, las de los gravámenes y prohibiciones que lo afectaban, una vez transcurrido el citado plazo de un año, se entenderán canceladas por el solo ministerio de la ley, sin que por ello recobren su vigencia las inscripciones que antecedían a las que se cancelan.
+
+Con todo, si las hipotecas y gravámenes hubiesen sido constituidas por el mismo solicitante o por alguno de los antecesores cuya posesión legal o material se hubiera agregado a la suya, dichas hipotecas y gravámenes continuarán vigentes sobre el inmueble. Subsistirán igualmente, los embargos y prohibiciones decretados en contra del solicitante o de alguno de sus antecesores; pero ello no será obstáculo para practicar las inscripciones que correspondan.
+
+#### Artículo 17°
+
+Los poseedores de inmuebles inscritos con arreglo a esta ley no podrán gravarlos ni enajenarlos durante el plazo de un año, contado desde la fecha de la inscripción.
+
+Los Conservadores de Bienes Raíces deberán inscribir de oficio esta prohibición, la que quedará cancelada, por el solo ministerio de la ley, una vez transcurrido el referido plazo de un año. Vencido este término, dichos funcionarios deberán alzarlas de oficio, sin necesidad de requerimiento de parte interesada.
+
+Los mencionados poseedores podrán, sin embargo, constituir en cualquier tiempo gravámenes en favor de organismos de crédito estatales o privados, servicios públicos o instituciones creadas por ley o en las cuales el Estado tenga participación o representación.
+
+Los poseedores de predios rústicos podrán, asimismo, enajenar el inmueble en favor de los organismos o instituciones mencionados en el inciso anterior o en beneficio de una persona natural dueña de otra pequeña propiedad agrícola cuya explotación pueda complementarse con la de dichos predios. En este último caso el cumplimiento de los requisitos mencionados se acreditará mediante certificado expedido por el Servicio Agrícola y Ganadero.
+
+## Título IV
+
+Del Ejercicio de Derechos por Terceros
+
+#### Artículo 18°
+
+Los terceros que pretendan impugnar la solicitud o la inscripción practicada a nombre del peticionario, sólo podrán hacerlo ejerciendo los derechos que se les confiere en el presente título, dentro de los plazos y de acuerdo con las normas que se establecen en los artículos que siguen.
+
+### Párrafo 1°
+
+De la oposición
+
+#### Artículo 19°
+
+Los terceros que formulen oposición a la solicitud en la oportunidad establecida en el artículo 11° de la presente ley, sólo podrán fundarla en alguna de las causales siguientes:
+
+1.- Ser el oponente poseedor inscrito del inmueble o de una porción determinada de él, siempre que su título le otorgue posesión exclusiva;
+
+Sin embargo, no podrá invocar esta causal el que solo tenga la calidad de comunero; el que por sí o sus antecesores, haya vendido o prometido vender al peticionario o a aquellos de quien o quienes éste derive sus derechos, aunque sea por instrumento privado, el todo o parte del predio y recibido dinero a cuenta del precio, ni tampoco el que invoque una inscripción especial de herencia cuando en la respectiva resolución de posesión efectiva se haya omitido a otros herederos con derecho a ella.
+
+Los que se encuentren en las situaciones previstas en el inciso anterior, sólo podrán ejercer el derecho de pedir compensación en dinero establecido en el párrafo 3° del presente título. Igual derecho tendrá el comunero, sin perjuicio de lo que dispone el número 4° de este artículo.
+
+Con todo, podrá invocar esta causal aquel que hubiere solicitado judicialmente la resolución del contrato o interpuesto acción de petición de herencia, siempre que se haya notificado la demanda con antelación a la fecha de presentación ante el Servicio de la solicitud correspondiente por el requirente.
+
+2.- Tener el oponente igual o mejor derecho que el solicitante, esto es, reunir en sí los requisitos señalados en el artículo 2°, respecto de todo el inmueble o de una parte de él.
+
+En este caso, el oponente deberá deducir reconvención, solicitando que se practique la correspondiente inscripción a su nombre, que producirá los efectos señalados en el título III de la presente ley.
+
+3.- No cumplir el solicitante todos o algunos de los requisitos establecidos en el artículo 2°, y
+
+4.- Ser una comunidad de que forme parte el oponente, poseedora inscrita del inmueble o de una porción determinada de él, siempre que aquélla se encuentre en liquidación, al momento en que fue presentada la solicitud a que se refiere el artículo 1°.
+
+#### Artículo 20°
+
+La oposición deberá deducirse ante el Servicio dentro del plazo de treinta días hábiles, contado desde la última publicación a que se refiere el artículo 11° y deberá contener la individualización de él o los oponentes, sus fundamentos, los documentos y demás medios de prueba en que se apoya y las peticiones concretas que se formulen.
+
+Presentada la oposición, la cual se entenderá como demanda para todos los efectos legales, el Servicio deberá abstenerse de continuar la tramitación y remitirá de inmediato los antecedentes al juez de letras en lo civil dentro de cuyo territorio jurisdiccional se encuentre el predio, lo que será notificado por carta certificada tanto al peticionario como al oponente.
+
+Si el predio estuviere en dos o más territorios jurisdiccionales, será competente el juez de cualquiera de ellos. Si existieren varios juzgados de igual jurisdicción, será competente el que se encontrare de turno en el momento de la interposición de la oposición.
+
+#### Artículo 21°
+
+El Servicio podrá asumir, por excepción, el patrocinio y representación del peticionario de escasos recursos contra quien se dirija la oposición, ante el tribunal mencionado.
+
+#### Artículo 22°
+
+Recibida la demanda, el tribunal examinará si invoca alguno de los fundamentos descritos en el artículo 19 o si reúne los requisitos del artículo 20. Si careciere de ellos, la declarará inadmisible, ordenando en la misma resolución la inscripción a que se refieren los artículos 12 y 14 de esta ley, la cual será apelable conforme a las reglas generales, notificándose dicha negativa por el estado diario al actor y personalmente al demandado.
+
+Si el tribunal estimare que la demanda aparece revestida de fundamentos plausibles y reúne los requisitos legales, citará a las partes a una audiencia de contestación en día y hora determinados, por verificarse entre los diez y treinta días hábiles contados desde su ingreso, con el fin de que las partes expongan lo que convenga a sus derechos. La demanda y su proveído serán notificados, a lo menos, con tres días hábiles de anticipación a la verificación de la audiencia, bajo apercibimiento de tenerse por no deducida, debiendo el tribunal proceder conforme al inciso anterior ordenando la respectiva inscripción, resolución que será inapelable.
+
+Si hubiere necesidad de prueba, ésta se rendirá en el plazo y forma establecidos para los incidentes, y se apreciará en conciencia.
+
+En igual forma serán apreciados por el juez los antecedentes acumulados en la instancia administrativa, que le hayan sido remitidos por el Servicio, de acuerdo con lo que dispone el artículo 20°.
+
+#### Artículo 23°
+
+El juez dictará sentencia dentro del plazo de diez días hábiles, contado desde que haya vencido el término probatorio o se hayan cumplido las medidas para mejor resolver que hubiere decretado.
+
+#### Artículo 24°
+
+La sentencia que rehace total o parcialmente la oposición, ordenará la inscripción en favor del peticionario, de la totalidad del inmueble o de la porción determinada del mismo respecto de la cual aquél haya acreditado el cumplimiento de los requisitos del artículo 2°.
+
+En el evento que el tribunal acepte la oposición deberá ordenar la inscripción a nombre del oponente, en el caso en que ella procediere.
+
+La inscripción se hará en la forma establecida en el artículo 14°.
+
+#### Artículo 25°
+
+La sentencia judicial que ordene la inscripción sera considerada como justo título y la inscripción que se practique producirá los mismos efectos establecidos en el título III de la presente ley.
+
+### Párrafo 2°
+
+De las acciones de dominio
+
+#### Artículo 26°
+
+Sin perjuicio de lo dispuesto en el artículo 19° los terceros podrán, dentro del plazo de un año, contado desde la fecha de la inscripción del inmueble practicada por resolución administrativa o judicial, deducir ante el tribunal señalado en el artículo 20° las acciones de dominio que estimen asistirles.
+
+El procedimiento se ajustará a las reglas del juicio sumario establecido en el Título XI del Libro III, del Código de Procedimiento Civil.
+
+#### Artículo 27°
+
+Si el Tribunal acogiere la acción a que se refiere el artículo anterior, ordenará la cancelación de la inscripción practicada con arreglo a esta ley conservando su plena vigencia las inscripciones que existían sobre el inmueble con anterioridad a ella.
+
+### Párrafo 3°
+
+De la compensación de derechos en dinero
+
+#### Artículo 28°
+
+Sin perjuicio de lo dispuesto en los artículos 19° y 26°, los terceros que acrediten dominio sobre todo el inmueble o una parte de él y que no hayan ejercido oportunamente las acciones a que se refiere el párrafo 2° de este título, así como los que pretendan derechos de comunero sobre el mismo o ser titulares de algún derecho real que lo afecte, podrán exigir que tales derechos le sean compensados en dinero en la proporción que corresponda hasta la concurrencia del valor del predio, manteniendo para estos efectos sus respectivos privilegios.
+
+La determinación del valor de los derechos a falta de acuerdo de las partes, se hará por el tribunal oyendo al Servicio Agrícola y Ganadero o a la Corporación Nacional Forestal, en su caso, tratándose de predios rurales y al Servicio de Impuestos Internos respecto de los inmuebles urbanos. Para los efectos de la tasación se estará al valor comercial que tenga el bien en la fecha en que se practique, excluyendo las mejoras adquiridas o realizadas por el poseedor material. Si la tasación se refiere a todo el inmueble o a una parte de él, no podrá ser inferior a su avalúo fiscal o proporcional, reducidas las mencionadas mejoras que estuvieren comprendidas en él.
+
+#### Artículo 29°
+
+La acción a que se refiere el artículo anterior deberá ejercerse dentro del plazo de cinco años, contados desde la fecha de la inscripción, ante el tribunal que señala el artículo 20° y se tramitará de acuerdo con las reglas del procedimiento sumario.
+
+#### Artículo 30°
+
+Si la sentencia reconociere los derechos invocados, el valor de los mismos fijados en ella se pagará, a falta de acuerdo entre las partes, con un máximo de hasta un diez por ciento al momento de quedar firme la sentencia y el saldo en un plazo no inferior a cinco años, ni superior a diez, contados desde esa misma fecha, con un interés que no excederá del seis por ciento anual y reajustado en un porcentaje no superior al aumento que experimentare el Indice de Precios al Consumidor fijado por el Instituto Nacional de Estadísticas.
+
+## Título V
+
+Disposiciones Varias
+
+#### Artículo 31°
+
+Los predios rústicos inscritos de acuerdo con las disposiciones de la presente ley, sólo serán divisibles de acuerdo con las normas legales contempladas en el decreto ley 752, de 1974, y sus modificaciones.
+
+No se entenderá que hay división, cuando se solicite de acuerdo con esta ley la regularización de la posesión o la constitución del dominio de un inmueble que forma parte de otro de mayor extensión.
+
+> **Nota.** El artículo 8° del D.L 3516, publicado el 01.12.1980, derogó expresamente el D.L 752 de 1974, citado en el presente artículo.
+
+#### Artículo 32°
+
+Las facultades que esta ley confiere al Servicio, podrán delegarse en sus Directores Regionales, Jefes de Oficinas Provinciales o abogados del Servicio, mediante resoluciones fundadas exentas del trámite de toma de razón.
+
+Se entenderá por Servicio, a la Subsecretaría del Ministerio de Bienes Nacionales, la que actuará a través de la División de Constitución de la Propiedad Raíz.
+
+#### Artículo 33°
+
+Por decreto supremo, dictado a través del Ministerio de Tierras y Colonización, podrán señalarse zonas, áreas o regiones de aplicación preferente de la presente ley.
+
+Las personas que en estos casos no impetraren los derechos que les concede esta ley, podrán hacerlo después siempre que las disponibilidades y planes de trabajo del Servicio le permitan atender su solicitud.
+
+#### Artículo 34°
+
+Los organismos, instituciones o empresas del Estado y aquellos en que éste tenga participación o representación, deberán dar preferencia en el otorgamiento de préstamos o asistencia técnica, a las personas que los soliciten para propiedades inscritas a su nombre o que estén en trámite de inscripción, en conformidad a esta ley.
+
+#### Artículo 35°
+
+Las solicitudes de regularización de la posesión de acuerdo con las normas del presente texto, así como los documentos, escrituras públicas, inscripciones y sus copias y las demás actuaciones a que dé lugar este procedimiento, estarán exentas de todo impuesto fiscal.
+
+#### Artículo 36°
+
+El Servicio gozará de privilegio de pobreza en todas sus actuaciones.
+
+#### Artículo 37°
+
+La mujer casada se considerará separada de bienes para los efectos de ejercitar los derechos que establece esta ley en favor de los poseedores materiales, y para todos los efectos legales referentes al bien objeto de la regularización.
+
+#### Artículo 38°
+
+Derógase el decreto con fuerza de ley 6, de 1968, del Ministerio de Agricultura y sus modificaciones.
+
+#### Artículo 39°
+
+Las normas de los artículos 58° y 101° del Reglamento del Registro Conservatorio de Bienes Raíces no se aplicarán a los inmuebles a que se refiere el inciso primero del artículo 1° de la presente ley, a menos que la inscripción sea requerida por el Fisco.
+
+#### Artículo 40°
+
+Para el cumplimiento de las funciones que le asigna el presente texto, aparte de su dotación normal, el Servicio podrá contratar personal en forma permanente o transitoria, por jornadas completas o parciales, sobre la base de honorarios o en cualquiera otra forma, de acuerdo con las normas legales vigentes sobre la materia.
+
+Sin perjuicio de lo anterior, el Ministerio de Bienes Nacionales podrá contratar con las personas naturales o jurídicas que se encuentren incorporadas en el Registro Nacional a que se refiere la letra d) del artículo 42º, los trabajos topográficos y jurídicos y demás acciones de apoyo necesarias para acogerse a los beneficios que establece este cuerpo legal, al amparo de lo que dispone la ley Nº 18.803.
+
+Cuando los particulares contraten directamente la realización de los trabajos topográficos y jurídicos indicados, con algunas de las personas a que se refiere el inciso anterior, el Ministerio de Bienes Nacionales podrá cobrar los gastos que demande la recepción y visación conforme de los trabajos encargados, los cuales deberán ser determinados mediante resolución fundada y enterarse en favor del Ministerio de Bienes Nacionales.
+
+#### Artículo 41°
+
+Los gastos que demande la aplicación del procedimiento de regularización establecido en este decreto ley, determinados mediante resolución fundada, serán de costo del solicitante, quien deberá enterarlos oportunamente en el Ministerio de Bienes Nacionales.
+
+Con todo, las personas que acrediten debidamente no contar con recursos suficientes, conforme lo establezca el reglamento de la presente ley, podrán optar a su financiamiento total o parcial, con cargo a los recursos públicos que se destinen al efecto.
+
+El Ministerio de Bienes Nacionales podrá recibir, de parte de las municipalidades y de entidades de derecho público o privado, los aportes suficientes para el financiamiento, total o parcial, de las acciones de apoyo y complementarias que este procedimiento hiciere necesario. Estos recursos serán empleados para el financiamiento de los casos señalados en el inciso anterior. La transferencia de estos aportes deberá realizarse mediante un convenio celebrado entre el aportante y el Secretario Regional Ministerial de Bienes Nacionales competente, en el marco de lo dispuesto en la legislación vigente.
+
+Se entenderán por acciones de apoyo a las potestades públicas establecidas en este decreto ley, entre otras, los trabajos topográficos y jurídicos necesarios para acogerse al beneficio de la regularización. Asimismo, serán acciones de apoyo y complementarias, entre otras, las publicaciones, inscripciones y copias que este procedimiento hiciere necesario.
+
+#### Artículo 42°
+
+El Servicio tendrá, además, en las materias de que trata esta ley, las siguientes atribuciones:
+
+a) Requerir de los conservadores de bienes raíces, notarios y oficinas públicas, los documentos que estime indispensables para resolver las solicitudes, los que deberán serle proporcionados sin costo;
+
+b) Solicitar y firmar ante los conservadores de bienes raíces las inscripciones, subinscripciones y anotaciones necesarias para el cumplimiento de los fines de esta ley;
+
+c) Asesorar jurídicamente a los propietarios que hayan obtenido la inscripción de sus predios, de conformidad al procedimiento establecido en esta ley, en materias relativas al dominio y explotación del predio, y
+
+d) Establecer un Registro Nacional en el que se inscribirán las personas naturales o jurídicas que se interesen en realizar los trabajos topográficos y jurídicos a que se refiere el artículo 40º.
+
+Cualquier persona natural o jurídica podrá incorporarse a este Registro, siempre que cumpla con los requisitos técnicos, profesionales, de infraestructura, capacidad e idoneidad establecidos por el Ministerio de Bienes Nacionales para realizar los trabajos topográficos o jurídicos, o ambos. El Ministerio de Bienes Nacionales autorizará la incorporación al Registro mencionado por resolución fundada, una vez que haya verificado el cumplimiento de los requisitos exigidos. Dictada la referida resolución, el contratista deberá pagar por única vez el derecho de incorporación al Registro, el que deberá enterarse a favor del Ministerio de Bienes Nacionales. El monto del derecho deberá ser fijado por resolución fundada de la jefatura del servicio, sobre la base de las acciones de control y fiscalización que el Estado deba ejercer para regular el funcionamiento de las personas naturales y jurídicas inscritas en el Registro.
+
+El Registro y su funcionamiento estarán bajo la superintendencia y fiscalización del Ministerio de Bienes Nacionales el cual, por medio del Secretario Ministerial Regional respectivo, podrá, en caso de incumplimiento, hacer efectivas las garantías que deberán constituir a su nombre los contratistas para garantizar el fiel y oportuno cumplimiento de sus obligaciones y eventuales daños materiales a terceros, como asimismo, aplicar las siguientes sanciones:
+
+- **a)** amonestación escrita;
+
+- **b)** multa de hasta 50 unidades tributarias mensuales;
+
+- **c)** suspensión hasta por un año, y
+
+- **d)** eliminación del Registro.
+
+El Ministerio de Bienes Nacionales deberá mantener un repertorio en el que deje constancia de la individualización de los contratistas, su comportamiento, actividades, sanciones, incorporación y retiro del Registro, el que tendrá carácter público.
+
+Un reglamento establecerá las normas que sean necesarias para la aplicación de esta ley, el funcionamiento del Registro y las demás condiciones en que han de operar los contratistas inscritos.
+
+El Secretario Regional Ministerial respectivo será competente para conocer y resolver sobre las sanciones referidas en la letra d), precedente, conforme a lo dispuesto en la ley Nº 19.880.
+
+#### Artículo 43°
+
+Las transferencias, adjudicaciones y todas las actuaciones encaminadas a transmitir las propiedades a que se refiere el artículo 1°, estarán exentas de todo impuesto fiscal y pagarán solamente el cincuenta por ciento de los derechos arancelarios que correspondan a Notarios, Conservadores de Bienes Raíces, Archiveros, Procuradores del Número y Receptores Judiciales.
+
+#### Artículo 44°
+
+En relación con las propiedades a que se refiere la presente ley, los conservadores de bienes raíces deberán practicar las inscripciones dentro del plazo máximo de treinta días, contado desde la fecha en que fueron requeridas.
+
+Disposiciones transitorias
+
+#### Artículo 1°
+
+Las solicitudes que en la fecha en que entre en vigor esta ley se encontraren en tramitación judicial en conformidad a las disposiciones del decreto con fuerza de ley 6, de 1968, del Ministerio de Agricultura, continuarán sustanciándose de acuerdo con las normas de ese cuerpo legal. Las que se encontraren en la etapa de tramitación administrativa, se sujetarán al procedimiento establecido en la presente ley.
+
+#### Artículo 2°
+
+Mientras se dicte el reglamento de la presente ley, la Dirección de Tierras y Bienes Nacionales, y el Departamento de Títulos, mantendrán las facultades que les confiere el decreto con fuerza de ley 6, de 1968, en cuanto no se opongan a las disposiciones de este texto.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- CESAR MENDOZA DURAN.- JAVIER LOPETEGUI TORRES.- Lautaro Recabarren.
