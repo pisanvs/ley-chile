@@ -1,0 +1,3 @@
+Por Resolución Nº 2.161, de 26 de diciembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94110071, presentada por SALMONES UNIMARC S.A., para un centro de cultivo ubicado en Seno Isla Traiguén, Canal Costa, Comuna de Aysén, Provincia de Aysén, XI Región, en virtud de lo dispuesto en los artículos 78º y 87º de la Ley General de Pesca y Acuicultura y 14º del D.S. Nº 290 de 1993 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
