@@ -1,0 +1,3 @@
+Por decreto MOP. No. 715, de 29 de mayo de 1998, se expropiaron los lotes de terreno No. s.30 y 31, superficies 132 y 213 M2., respectivamente, rol de avalúo 175-11, comuna de Puchuncaví, para la obra Ampliación Camino Nogales-Puchuncaví Ruta F-20 y se acordó precio de indemnización con su propietario doña Eliana del Carmen Fernández Arancibia y otros, ascendente a la cantidad de $ 572.795, para los lotes No. s. 30 y 31.
+
+- Fiscal del Ministerio de Obras Públicas.
