@@ -1,0 +1,3 @@
+Por decreto MOP. No. 2.023, de 30 de julio de 1999, se expropió el lote de terreno No. 2, superficie 552 m²., rol de avalúo 56-219, comuna de San Gregorio Ñiquén, para la obra "Ruta 5 Tramo Talca - Chillán, sector Bifurcación El Espinal", Octava Región, y se acordó el valor de indemnización con su propietario Juan Ramón Cortés Tapia, ascendente a la cantidad de $ 2.064.134.-.
+
+Fiscal del Ministerio de Obras Públicas.
