@@ -1,0 +1,3 @@
+Por resolución Nº 1.062, de 13 de junio de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Ensenada El Granero, VIII Región, individualizada en el artículo 1º) Nº 27 del D.S Nº 729 de 1997 del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES, PRODUCTORES DE ALGAS, ACUICULTORES Y ACTIVIDADES AFINES Y CONEXAS DE LA CALETA LENGA.
+
+Valparaíso, 13 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
