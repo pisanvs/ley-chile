@@ -1,0 +1,13 @@
+Por Resolución N° 769, de 5 de Octubre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a INDUSTRIAL COMERCIAL E INMOBILIARIA ARIES S.A., R.U.T. N° 96.651.470-1, para desarrollar actividades pesqueras extractivas con la nave "SOCOROMA", en el área de pesca comprendida entre el límite norte de la V Región y el límite sur de la VII Región y el litoral de la IX Región, el que forma parte de la unidad de pesquería de la especie Jurel, Trachurus murphyi y el área de pesca comprendida entre el límite norte de la IV Región y el paralelo 41° 28,6' L.S. el que forma parte de la unidad de pesquería de la especie Merluza común, Merluccius gayi, definidas y declaradas en estado de plena explotación en el artículo 1°, letra d) y e) del D.S. N° 354, de 1993, del Ministerio de Economía, Fomento y Reconstrucción, y asimiladas a dicho régimen en el mismo artículo, fueron transferidas por el titular de las Resoluciones N° 196, de 1990 y N° 22, de 1991, ambas de esta Subsecretaría, Sr. Fernando Landeta Ahués, R.U.T.
+
+N° 4.375.170-0 a Industrial, Comercial e Inmobiliaria Aries S.A., según consta de la escritura pública de compraventa citada en Visto.
+
+La peticionaria podrá extraer en consecuencia, en el área de pesca comprendida entre el límite norte de la V Región y el límite sur de la VII Región y el litoral de la IX Región el recurso jurel, Trachurus murphyi, con cerco, y entre el límite norte de la IV Región y el paralelo 41° 28,6' L.S., Merluza común, Merluccius gayi, con arrastre.
+
+Además la peticionaria podrá capturar en el área de pesca que se señala, los siguientes recursos hidrobiológicos como fauna acompañante de las especies objetivo autorizadas: a) Litoral de la V a la VII y IX Región, con cerco: Merluza de cola, Agujilla, Bonito, Cojinoba del norte, Machuelo, Sierra, Anchoa, Caballa, Sardina; b) Litoral de la IV Región al paralelo 41° 28,6' L.S., con arrastre: Anguila, Calamar, Gamba, Congrio colorado, Congrio dorado, Congrio negro, Merluza del sur, Merluza de cola, Corvina, Langostino amarillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Déjase sin efecto la Resolución N° 196, de 1990 ampliada y modificada por Resolución N° 22, de 1991, ambas de esta Subsecretaría, en cuanto autorizaron a Fernando Landeta Ahués, R.U.T. N° 4.375.170-0, para realizar faenas de pesca extractiva con la nave "SOCOROMA", en virtud de la transferencia señalada en Visto.
+
+Valparaíso, 5 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
