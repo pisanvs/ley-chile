@@ -1,0 +1,3 @@
+DISPONE EXPROPIACION DE INMUEBLE QUE INDICA QUE SE INDICAN
+
+Por Decreto Alcaldicio N° 548 de fecha 31 de Mayo de 1991, la I. Municipalidad de Tomé dispuso expropiación conforme Art. 7°, Ley 18.138 de inmueble ubicado en localidad de Menque, Rol de Avalúo N° 416 - 39 de la Comuna de Tomé de aparente dominio del Sr. Alberto Figueroa Salazar, Comisión de Peritos formada por Sres. Teodoro Medina Reyes, Ingeniero Civil, Luis Soto Abarca, Arquitecto y Luis Soto Abarca, Arquitecto y Luis Abarzúa Ceballos, Constructor Civil, según informe de fecha 12 de Marzo de 1991, fijó monto provisional de indemnización en la suma de $ 592.825,00 pagaderos de contado.
