@@ -1,0 +1,3 @@
+Por Resolución No. 1451 de 25 de Noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución No. 543, de 1991, de esta Subsecretaría, que autorizó a LEVER CHILE S.A., R.U.T. No. 92.091.000-9, domiciliada en la ciudad de Santiago, para liberar 50.000 ejemplares de Trucha arco iris, Oncorhynchus mykiss, en Río Yelcho Chico, Comuna de Chaitén, Provincia de Palena, X Región, en el sentido de señalar que la liberación se llevará a efecto durante los meses de Noviembre y Diciembre de 1991 y Enero de 1992.
+
+Valparaíso, 25 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
