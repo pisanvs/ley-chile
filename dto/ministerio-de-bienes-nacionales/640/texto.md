@@ -1,0 +1,47 @@
+DESAFECTA DE SU CALIDAD DE TAL A PARQUE NACIONAL "LAGO ROSSELOT" Y LO DECLARA RESERVA FORESTAL. DESAFECTA DE SU CALIDAD DE TALES A LAS RESERVAS FORESTALES "PUERTO CISNES" Y "PUYUHUAPI" Y CREA PARQUE NACIONAL "QUEULAT"
+
+Núm. 640.- Santiago, 13 de Octubre de 1983.- Vistos: Estos antecedentes; lo informado por el Ministerio de Agricultura; por la División de Bienes Nacionales y por el Asesor Ecológico del Ministerio de Bienes Nacionales, en oficios adjuntos; y en virtud de lo dispuesto en el artículo 21º del D.L. Nº 1.939, de 1977;
+
+Considerando:
+
+Que parte de los terrenos del Parque Nacional "Lago Rosselot" se encuentran degradados debido a la acción antrópica, siendo necesario efectuar labores de recuperación de dichos terrenos;
+
+Que en ese Parque Nacional se ha detectado la presencia de fauna introducida, como es el caso del Ciervo Rojo, lo cual es incompatible con el concepto y objetivos de un Parque Nacional, no así de una Reserva Forestal;
+
+Que, dada la extrema susceptibilidad de los recursos existentes a sufrir degradación, se hace necesario proteger el área, en resguardo del bienestar de la comunidad, objetivo factible de lograr mediante el manejo del área como Reserva Forestal;
+
+Que gran parte de los terrenos que conforman las Reservas Forestales Puerto Cisnes y Puyuhuapi se ajustan más adecuadamente al concepto y objetivos de un Parque Nacional, por cuanto ellos comprenden un conjunto de ecosistemas conformados por diversos ambientes naturales como valles, montañas, ríos, lagunas, glaciares y bosques, prácticamente inalterados por la acción antrópica. Esta gran diversidad de ambientes naturales constituye un alto potencial para la realización de actividades de investigación, educación ambiental y recreación al aire libre, lo que se ve facilitado por su adecuado y permanente acceso a través de la recién construida Carretera Longitudinal Austral General Pinochet; y que, en general, los recursos existentes dentro de los referidos terrenos contribuyen en alto grado a la conservación de la diversidad ecológica y regulación del medio ambiente.
+
+Decreto:
+
+1º.- Desaféctase de su calidad de tal, al Parque Nacional "Lago Rosselot"; de una superficie aproximada de doce mil trescientas noventa hectáreas (12.390 hás.); ubicado en la XIa. Región Aysen del General Carlos Ibáñez del Campo, creado por D.S. Nº 524, de 31 de Octubre de 1968, del Ministerio de Agricultura.
+
+2º.- Créase la Reserva Forestal "Lago Rosselot", ubicada en la comuna de Cisnes, provincia de Aysen, XIa. Región Aysen del General Carlos Ibáñez del Campo; de una superficie aproximada de doce mil setecientas veinticinco hectáreas (12.725 Hás.); individualizada en el plano Nº XI-1-830-C.R. y que deslinda:
+
+Norte, propiedad de Pablo Leal Peña y Sucesión Juan Hepp;
+
+Este, ribera oeste del Lago Rosselot, terrenos ocupados por Francisco Peralta, ribera oeste del Lago Rosselot hasta la desembocadura del Estero El Rosado;
+
+Sur, propiedad de José Luis Loebel; y Oeste, propiedad de la Sucesión Helmut Hopperdietzel; Walter Hopperdietzel; terrenos ocupados por Audilio Gómez; propiedad de Luis Schilling Rosas; de Juan Emir Schilling Rosas; de la Sucesión Alfredo Schilling Rosas y Area Protección Forestal Poblado La Junta.
+
+3º.- Desaféctanse de su calidad de tales, las siguientes Reservas Forestales:
+
+"Puerto Cisnes": De una superficie aproximada de ciento treinta y seis mil hectáreas (136.000 hás.), ubicado en la XIa. Región Aysen del General Carlos Ibáñez del Campo, creada por D.S. Nº 63, de 4 de Febrero de 1969, del Ministerio de Agricultura.
+
+"Puyuhuapi": De una superficie aproximada de trece mil ciento siete hectáreas (13.107 hás.), ubicada en la XIa. Región Aysen del General Carlos Ibáñez del Campo; creada por D.S. Nº 64, de 4 de Febrero de 1969, del Ministerio de Agricultura y desafectada en parte por D.S. Nº 553, de 1º de Septiembre de 1982, del Ministerio de Bienes Nacionales.
+
+4º.- Créase el Parque Nacional "Queulat", ubicado en la comuna de Cisnes, provincia de Aysen, XIa. Región Aysen del General Carlos Ibáñez del Campo; de una superficie aproximada de ciento cincuenta y cuatro mil noventa y tres hectáreas (154.093 hás.); individualizado en el plano Nº XI-1-807-C.R. y que deslinda:
+
+Norte, propiedades de los señores Hugo Rosas Toledo, Juan Carrasco, Alfonso Altamirano, terrenos ocupados por Luis Contreras, Víctor Altamirano, propiedad de la Sucesión Ludwig, terreno ocupado por Aniceto Díaz, propiedad de la Sucesión Helmut Hopperdietzel; terrenos ocupados por Hernán de la Cruz, Víctor Altamirano, Osvaldo Teraucán, propiedad de la Sucesión Helmut Hopperdietzel, José Luis Loebel, Lago Rosselot, terrenos ocupados por Jorge Cárdenas y otros, Armando Núñez, Helio Núñez, Roberto Recaval; Estero Sorpresa aguas arriba hasta su curso medio; de ahí sigue una línea imaginaria y quebrada en dirección Sur pasando por las cotas 1.030, 929, 1.666, todas m.s.m.n., luego toma dirección Noreste por las cotas 1.542, 1.366, 803, 1.878, 1.456 y 1589, todas m.s.n.m. para enseguida continuar en dirección Sureste pasando por el Estero Geafer hasta unirse en línea recta con el punto de cota 1.616 m.s.n.m.
+
+Este, desde la cota 1.616 m.s.n.m., en línea imaginaria y quebrada en dirección Suroeste que une las cotas 1.519, 1.820, 1.304, 1.633 hasta 1.743, todas m.s.n.m., luego en dirección Sureste continúa pasando por la cota 1.633 m.s.n.m., enseguida toma dirección Suroeste llegando a la cota 1.714 m.s.n.m., de ahí continúa en dirección Oeste pasando por las cotas 1.716 (Cerro Diablito Negro), 1.498 y 1.130, todas m.s.n.m., luego toma dirección Suroeste, cruza el Río Pedregoso hasta la cota 585 m.s.n.m.,desde este punto sigue en dirección Noreste y Sureste pasando por la cota 674 m.s.n.m., hasta llegar a la cota 771 m.s.n.m., luego continúa en dirección Sur en línea imaginaria y quebrada pasando por las cotas 1.034, 1.216, 579, 992, todas m.s.n.m., desde esta última cota sigue en línea recta hasta la medianía de la falda del Cerro Cordillera Queulat de 1.708 m.s.n.m; desde este punto por una línea recta en dirección Sureste hasta unirse con la cota 423 m.s.n.m., desde aquí continua una línea recta imaginaria en dirección Sur pasando por la cota 914 m.s.n.m., hasta limitar con los terrenos ocupados por Baudilio Córdova y otros.
+
+Sur, terrenos ocupados por Baudilio Córdova y otros, Humberto Márquez, Filiberto Solís, José Mansilla, Eliseo Gallardo, Homero Neftalí Pino, José Cid Ortega, terreno fiscal, José Cid Ortega, Honorio Sagal, Santiago Sánchez, Mario Guillard Tricot hasta la cota 1.110 m.s.n.m.
+
+Oeste, desde la cota 1.110 m.s.n.m., en línea imaginaria y quebrada en dirección Noreste uniendo las cotas 1.424 y 1.048 m.s.n.m, luego en dirección Norte pasa por las cotas 1.156, 1.160, 1.070, hasta la cota 1.195, todas m.s.n.m., luego en dirección Noreste hasta la cota 488 m.s.n.m., enseguida toma dirección Norte hasta la cota 1.149 m.s.n.m, luego tomando direcciones Noroeste y Noreste continúa pasando por las cotas 860, 954, 920, 865, 872, 714 y 1.076, todas m.s.n.m., hasta la propiedad de José A. Lepio, continúa por el deslinde de la propiedad de este último, hasta intersectar con la Carretera General Pinochet, continúa por ésta bordeando el Seno Queulat hasta el vértice Suroeste de la propiedad de Roberto Fuentes, por el deslinde de dicha propiedad hasta su intersección con el Río Ventisqueros, continúa por el deslinde de la propiedad ocupada por Antonio Zúñiga hasta el vértice Sureste del terreno ocupado por José Segovia, por el deslinde Este de dicho terreno y por el de Antonio Raín Ñancupe hasta su vértice Noreste, por el deslinde Este de la propiedad de David Fuentes hasta intersectar el Río Ventisquero, por dicho río aguas arriba hasta la latitud de la cota 927 m.s.n.m., por línea de dirección Oeste hasta dicha cota, desde este punto en línea recta hasta la cota 710 m.s.n.m., desde esta cota una línea recta hasta el vértice Noreste de la propiedad de Herwin Frodlech que la separa de terrenos desafectados de la Ex Reserva Forestal Puerto-Cisnes, propiedad de Walter Hopperdietzel, pasando por el deslinde Sur del Lago Risopatrón, cruzando por la carretera General Pinochet y hasta el curso medio del Río Pascua, desde ese punto continúa aguas arriba hasta la cota 945 m.s.n.m., que coincide con su nacimiento, una línea imaginaria y quebrada en dirección Norte pasando por las cotas 1.109, 1.120, 1.105, 1.148, 1.245, 960, 1.084, 896, 1.080, 1.220, 1.391, 1.334, 1.456, 1.361, 1.236, 1.175, 1.241, 1.283, 1.180, 1.388, 1.233, 1.104, 1.216, 1.034, 1.053, 990, 1.123, 1.139, 1.141, 1.147, 1.034, todas m.s.n.m., cota esta última que coincide con el nacimiento del Estero sin nombre, por el cual continúa el límite hasta intersectar con la propiedad de don Hugo Rosas Toledo.
+
+5º.- La Reserva Forestal "Lago Rosselot" y el Parque Nacional "Queulat", creados por el presente decreto, quedarán bajo la tuición y control de la Corporación Nacional Forestal.
+
+Regístrese, tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- René Peri Fagerstrom, General Inspector, Ministro de Bienes Nacionales.
+
+Lo que transcribo a Ud. para su conocimiento.-Saluda atentamente a Ud.- Jorge Calderón Figueroa, Subsecretario Bienes Nacionales.
