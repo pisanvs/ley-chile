@@ -1,0 +1,3 @@
+Por decreto MOP Nº 112 de fecha 28 de febrero del 2001, se expropió el lote de terreno Nº 65, superficie 175 m², rol de avalúo 68-140, comuna de Teno, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal-La Montaña, Km. 0.220 a Km. 25,000" y se acordó el valor de indemnización con su propietario Luis Alfonso Muñoz Leiva, ascendente a la cantidad de $441.294.-
+
+Fiscal del Ministerio de Obras Públicas.
