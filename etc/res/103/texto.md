@@ -1,0 +1,3 @@
+Por resolución N° 103, de 18 de Febrero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por 30 días a contar de la fecha de la presente resolución, el plazo otorgado a PESQUERA EL GOLFO S.A., R.U.T. N° 96.237.000-4, em el numeral 4° de la resolución N° de1992, de esta Subsecretaría, que autorizó a la peticionaria para desarrollar actividades pesqueras extractivas con la nave "Saint John", en virtud de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 18 de Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
