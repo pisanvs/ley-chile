@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.283, de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 18, superficie 4.222,9 m², rol de avalúo Nº 502-80, comuna de Saavedra, para la obra "Camino Costero Sur, Tramo Tranapuente-Pto. Saavedra-Chelle, By Pass Puerto Saavedra Km. 67,691 al Km. 70,001", IX Región y se acordó el valor de la indemnización con su propietario Tomás Segundo Carmona Sandoval, ascendente a la cantidad de $3.259.178.-
+
+Fiscal del Ministerio de Obras Públicas.
