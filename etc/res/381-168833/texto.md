@@ -1,0 +1,3 @@
+Por resolución No. 381, de 5 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deroga la resolución No. 1639, de 1989, de esta Subsecretaría, que autorizó a don LUIS ERWIN VILLEGAS SALDIVIA, RUT No. 10.488.766-1, domiciliado en Ancud, Casilla Postal No. 52, para iniciar actividades pesqueras de cultivo de alga Gracilaria, en un sector del Golfete de Quetalmahue, X Región, por renuncia de su titular.
+
+Valparaíso, 5 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
