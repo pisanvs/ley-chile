@@ -1,0 +1,3 @@
+Por Resolución N° 346 de 23 de abril de 1986 de Dirección SERVIU Metropolitano, se ordenó expropiación, conforme DL N° 2.186 de 1978, inmueble ubicado en calle José M. Cerda N° 5502, presunto rol avalúos N° 5.344-51, comuna San Miguel, aparentemente dominio de doña Elsa Tapia Espinoza. Comisión Tasadora integrada por Sres. Juan Pañella Casares, René Ureta K"ster y Jorge Navarro Navarrete, arquitectos, según informe del mes de noviembre de 1985 fijó monto provisional indemnización en $ 2.025.000.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
