@@ -1,0 +1,7 @@
+Por decreto MOP Nº5.212, de 30 de noviembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº152-34, para la obra:
+
+"Camino: Ruta 5 Norte. Tramo: Santiago - Los Vilos. Sector:
+
+Km. 110.860,00 al Km. 112.020,00", Quinta Región, que figura a nombre de Serviu, rol de avalúo 1282-100, comuna de La Calera, superficie 181 m². La Comisión de Peritos integrada por los señores Pablo Antonio Aragón Bernal, Jorge Gregorio Mendoza Larral y María Cristina Ayala Muñoz, fijó con fecha 20 de junio de 2000, el valor provisional de la indemnización en la cantidad de $9.861.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
