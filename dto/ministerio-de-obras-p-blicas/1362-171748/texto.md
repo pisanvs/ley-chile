@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.362, de 17 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº18, para la ejecución de la obra Camino Cauquenes - Límite Regional - Quirihue, Sector Cuesta Km. 17.780,00 a Km.
+
+40.504,64, que figura a nombre de Tiburcio A. Torres Torres, rol de avalúo Nº529-205, de la comuna de Cauquenes, VII Región, superficie 6.672 m². La comisión de peritos compuesta por Hugo Villarroel Urbina, Carlos Sottolichio Díaz e Iván Correa Opazo, fijó con fecha 23 de agosto de 1994, el valor provisional de la indemnización en la cantidad de $266.880.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
