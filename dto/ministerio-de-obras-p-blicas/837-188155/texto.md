@@ -1,0 +1,3 @@
+Por decreto MOP Nº 837 de fecha 31 de mayo del 2001, se expropió el lote de terreno Nº 10, superficie 599 m², rol de avalúo 5050-26, comuna de Punta Arenas, para la obra "Reposición Ruta 9 y Acc. Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819" y se acordó el valor de indemnización con su propietario Juan Agustín Ojeda San Martín y Otra, ascendente a la cantidad de $4.725.745.-
+
+Fiscal del Ministerio de Obras Públicas.
