@@ -1,0 +1,3 @@
+Por decreto MOP Nº 691 de fecha 30 de junio del 2003, se expropió el lote de terreno Nº 4, superficie 5.232 m2, Rol de Avalúo Nº 600-45, comuna de San Ignacio, para la obra: "Proyecto Laja Diguillín, Canal Matriz Diguillín - Larqui Km. 6,416 al Km. 11,893, Comuna de San Ignacio, Provincia de Ñuble", VIII Región y se acordó el valor de indemnización con su propietario Armando Sáez, ascendente a la cantidad de $3.667.612.
+
+- Fiscal del Ministerio de Obras Públicas.
