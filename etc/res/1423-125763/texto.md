@@ -1,0 +1,3 @@
+Por resolución Nº 1.423 de 1 de octubre de 1998, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura Nº 96102048, presentada por PRIETO VIAL UGARTE Y CIA. LTDA., para operar un centro de cultivo en Sector El Cuervo, entre Isla Liguiñe e Isla del Rey, Río Tornagaleones, comuna de Valdivia, provincia de Valdivia, X Región.
+
+Valparaíso, 1 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
