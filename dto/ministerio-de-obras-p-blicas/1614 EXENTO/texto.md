@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 1.614 de fecha 31 de octubre del 2001, se expropió el lote de terreno Nº 2, superficie 432,50 m²., Rol de Avalúo Nº 108-36, comuna de Pencahue, para la obra ''Canal de Descarga Corinto 1, Km. 0,000 al km. 0,267, del Proyecto Regadío Pencahue'', y se acordó el valor de indemnización con su propietaria María Eugenia Inostroza Garrido, ascendente a la cantidad de $217.046.
+
+- Fiscal del Ministerio de Obras Públicas.
