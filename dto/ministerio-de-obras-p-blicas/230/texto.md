@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 230, de 30 de Julio de 1993, se expropiaron los lotes de terreno N°s 5 y 10, superficies 34.475 M2. y 6.996 M2., roles de avalúos 261-2 y 260-16, Comuna de Tucapel, para la obra Canal Laja Diguillín, y se acordó precio de indemnización con sus propietarios Diego Hernán Cerda Molina y Mercedes Olivia Campos Matus, ascendente a las cantidades de $ 1.176.189 y $ 685.521, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
