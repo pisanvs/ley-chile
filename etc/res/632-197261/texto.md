@@ -1,0 +1,3 @@
+Por resolución Nº 632, de 26 de marzo de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Weste Isla Mocha, VIII Región, individualizada en el artículo 1º Nº 1 del D.S. Nº 56 de 1999, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ORGANIZACION COMUNITARIA FUNCIONAL DE PESCADORES ARTESANALES Y BUZOS MARISCADORES DE ISLA MOCHA.
+
+Valparaíso, 26 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
