@@ -1,0 +1,3 @@
+Por resolución Nº761, de 26 de marzo de 2003, de esta Subsecretaría, modifícase la resolución Nº 533, de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco I y II Región", en el sentido de incorporar la nave industrial Mar Caribe y la nave artesanal Shalom II.
+
+Valparaíso, 26 de marzo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
