@@ -1,0 +1,3 @@
+Por decreto MOP Nº710, de 29 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 127-A, 127-B, 129, 136, 137, 138, 139, 140, 141, 141-A, 142, 143, 144, 144-A, 145, 146, 147, 148, 149, 150 y 151, roles de avalúo 515-7 y 515-3, comuna de Carahue, obra Camino Costero Tirúa - Carahue, Tramo Bajo Yupehue - Cruce Puyanhue y se acordó precio de indemnización con sus propietarios Pedro Juan Bautista Ulloa Rebolledo, Luis Joel Bustos Bustos y Mario Antonio Alvarez Lara, ascendentes a las cantidades de $857.558, lote Nº127-A, $9.533.259, lotes Nºs. 127-B y 129 y $14.660.678, lotes Nºs. 136 al 151, 141-A y 144-A.-
+
+Fiscal del Ministerio de Obras Públicas.
