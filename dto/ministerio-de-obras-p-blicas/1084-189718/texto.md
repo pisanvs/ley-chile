@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.084, de fecha 31 de julio del 2001, se expropió el lote de terreno Nº27-A, superficie 33 m², rol en trámite, comuna de Retiro, para la obra " Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario Erna Luz Valverde Maureira, ascendente a la cantidad de $296.735.-
+
+Fiscal del Ministerio de Obras Públicas.
