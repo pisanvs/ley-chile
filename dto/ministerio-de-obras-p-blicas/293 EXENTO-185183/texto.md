@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº293 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº34, superficie 319,38 m2, rol de avalúo 1252-233, comuna de Parral, para la obra "Camino Ruta L-70, sector Cruce Ruta 128 - Cuatro Esquinas, Km. 0,000 a Km. 15,800" y se acordó el valor de indemnización con su propietario Anyolina del C. Gutiérrez Gutiérrez, ascendente a la cantidad de $854.923.
+
+Fiscal del Ministerio de Obras Públicas.
