@@ -858,7 +858,7 @@ Si, como medio para cometer los delitos previstos en los incisos anteriores, se 
 
 9°.- El ejercicio efectivamente clandestino del comercio o de la industria con multa del treinta por ciento de una unidad tributaria anual a cinco unidades tributarias anuales y con presidio o relegación menores en su grado medio y, además, con el comiso de los productos en instalaciones de fabricación y envases respectivos.
 
-10°.- El no otorgamiento de guías de despacho de facturas, notas de débito, notas de crédito o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas, notas de débito, notas de crédito o guías de despacho sin el timbre correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa del cincuenta por ciento al quinientos por ciento del monto de la operación, con un mínimo de 5 unidades tributarias mensuales.
+10°.- El no otorgamiento de guías de despacho de facturas, notas de débito, notas de crédito o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas, notas de débito, notas de crédito o guías de despacho sin el timbre correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa del cincuenta por ciento al quinientos por ciento del monto de la operación, con un mínimo de 2 unidades tributarias mensuales y un máximo de 40 unidades tributarias anuales.
 
 En el caso de las infracciones señaladas en el inciso primero, éstas deberán ser, además, sancionadas con clausura de hasta 20 días de la oficina, estudio, establecimiento o sucursal en que hubiere cometido la infracción.
 
@@ -884,7 +884,7 @@ La misma sanción se aplicará al que impidiere en forma ilegítima el cumplimie
 
 15°.- El incumplimiento de cualquiera de las obligaciones establecidas en los artículos 34° y 60° inciso penúltimo, con una multa del veinte por ciento al cien por ciento de una unidad tributaria anual.
 
-16°.- La pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, con multa del 1% al 30% del capital efectivo, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional y, además el contribuyente cumpla con los siguientes requisitos:
+16°.- La pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, con multa del 1% al 30% del capital efectivo, con un mínimo de 2 unidades tributarias mensuales y un máximo de 40 unidades tributarias anuales, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional y, además el contribuyente cumpla con los siguientes requisitos:
 
 a) Dar aviso al Servicio dentro de los 5 días siguientes, y
 
@@ -896,7 +896,7 @@ En todo caso, la pérdida o inutilización de los libros de contabilidad suspend
 
 Para los efectos previstos en el inciso primero de este número se entenderá por capital efectivo el definido en el artículo 2°, N° 5 de la Ley de Impuesto a la Renta.
 
-En aquellos casos en que, debido a la imposibilidad de determinar el capital efectivo, no sea posible aplicar la sanción señalada en el inciso primero, se sancionará dicha pérdida o inutilización con una multa de hasta 20 unidades tributarias anuales.
+En aquellos casos en que, debido a la imposibilidad de determinar el capital efectivo, no sea posible aplicar la sanción señalada en el inciso primero, se sancionará dicha pérdida o inutilización con una multa de hasta 40 unidades tributarias anuales.
 
 17°.- La movilización o traslado de bienes corporales muebles realizado en vehículos destinados al transporte de carga sin la correspondiente guía de despacho o factura, otorgadas en la forma exigida por las leyes, será sancionado con una multa del 10% al 200% de una unidad tributaria anual.
 
@@ -1090,11 +1090,13 @@ El territorio jurisdiccional de estos Tribunales será el de la Corte de Apelaci
 
 El Tribunal Especial de Alzada encargado de conocer de los reclamos de avalúos de los bienes de la Primera Serie estará integrado por un Ministro de la Corte de Apelaciones correspondiente, quien lo presidirá, por un representante del Presidente de la República y por un empresario agrícola con domicilio en el territorio jurisdiccional del respectivo Tribunal Especial de Alzada, que será designado por el Presidente de la República.
 
-El Tribunal Especial de Alzada que deba conocer de los reclamos de avalúos de los bienes de la Segunda Serie estará compuesto por un Ministro de la Corte de Apelaciones correspondiente, quien lo presidirá, con voto dirimente; dos representantes del Presidente de la República y por un arquitecto que resida en la ciudad asiento de Corte de Apelaciones en que ejerza su función el Tribunal, designado por el Presidente de la República de una terna que le propondrá el Colegio de Arquitectos de Chile.
+El Tribunal Especial de Alzada que deba conocer de los reclamos de avalúos de los bienes de la Segunda Serie estará compuesto por un Ministro de la Corte de Apelaciones correspondiente, quien lo presidirá, con voto dirimente; dos representantes del Presidente de la República y por un arquitecto que resida en la ciudad asiento de Corte de Apelaciones en que ejerza su función el Tribunal designado por el Presidente de la República de una terna que le propondrá el Intendente Regional, previa consulta de éste al Consejo Regional de Desarrollo respectivo.
 
-Salvo el caso del Ministro de Corte que presidirá cada Tribunal, los nombramientos de los demás miembros de ellos deberán recaer en personas que estén en posesión del título de ingeniero agrónomo o técnico agrícola, tratándose del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Primera Serie, o del título de ingeniero civil, arquitecto o constructor civil, en el caso del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Segunda Serie.
+Salvo el caso del Ministro de Corte que presidirá cada Tribunal, los nombramientos de los demás miembros de ellos deberán recaer en personas que estén en posesión del título de Ingeniero Agrónomo o Técnico Agrícola, tratándose del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Primera Serie, o del Título de Ingeniero Civil, Arquitecto o Constructor Civil, en el caso del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Segunda Serie.
 
 En ambos Tribunales actuará de Secretario el funcionario que designe el Director, para cada uno de ellos.
+
+> **Nota.** NOTA: 5 Véase el art. 4° del D.L. N° 2.325, de 8 de septiembre de 1978, que establece una asignación para los miembros de estos tribunales.
 
 #### Artículo 122
 
@@ -1214,13 +1216,13 @@ Notificada que sea la sentencia que falle el reclamo, no podrá el Director Regi
 
 #### Artículo 139
 
-Contra la sentencia que falle un reclamo o que lo declare improcedente o que haga imposible su continuación, sólo podrán interponerse los recursos de reposición y de apelación, dentro del plazo de cinco días, contados desde la notificación.
+Contra la sentencia que falle un reclamo o que lo declare improcedente o que haga imposible su continuación, sólo podrán interponerse los recursos de reposición y de apelación, dentro del plazo de diez días contado desde la notificación.
 
 Si se interpusieren ambos, deberán serlo conjuntamente, entendiéndose la apelación en subsidio de la reposición.
 
 El término para apelar no se suspende por la solicitud de aclaración, agregación o rectificación que se deduzca de acuerdo con el artículo anterior.
 
-La resolución no que falle la reposición es susceptible de recurso alguno, sin perjuicio de la apelación que se hubiere deducido subsidiariamente.
+La resolución que falle la reposición no es susceptible de recurso alguno, sin perjuicio de la apelación que se hubiere deducido subsidiariamente.
 
 Procederá también la apelación contra las resoluciones que dispongan aclaraciones, agregaciones o rectificaciones a un fallo dictado por el Director Regional.
 
@@ -1323,6 +1325,8 @@ La apelación deberá interponerse en el plazo de quince días, contado desde la
 #### Artículo 153
 
 El Tribunal Especial de Alzada fallará la causa sin más trámite que la fijación del día para la vista de la causa. No obstante, el tribunal, cuando lo estime conveniente, podrá oír las alegaciones de las partes.
+
+El Servicio será considerado, para todos los efectos legales, como parte en este juicio.
 
 #### Artículo 154
 
