@@ -1,0 +1,13 @@
+ORDENANZA LOCAL SOBRE DERECHOS MUNICIPALES POR
+
+CONCESIONES, PERMISOS, OCUPACION DE BIENES NACIONALES DE
+
+USO PUBLICO, PROPAGANDA Y OTROS SERVICIOS
+
+_______________________________________________________
+
+| NOTA: VER DIARIO OFICIAL N° 34.759 DEL 08 DE |
+
+| ENERO DEL 1994, PAGINAS 3, 4, 5 Y 6. |
+
+|_____________________________________________________|
