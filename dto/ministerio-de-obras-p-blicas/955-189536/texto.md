@@ -1,0 +1,5 @@
+Por decreto MOP Nº955, de 15 de junio de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo Temuco - Río Bueno Km. 860,55000 a Km. 867,05000", Décima Región, que figura a nombre de Cardemil López Alonso, rol de avalúo 554-111, comuna de Paillaco, superficie 30.000 m2. La comisión de peritos integrada por los señores Enrique Edgardo Hoelck Altmann, Jaime Sanz Bahamonde y Leopoldo Schumacher Guarda, fijó con fecha 16 de marzo de 2001, el valor provisional de la indemnización en la cantidad de $15.000.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
