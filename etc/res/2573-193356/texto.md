@@ -1,0 +1,3 @@
+Por resolución Nº 2.573, de 27 de diciembre de 2001, de esta Subsecretaría, autorízase a la EMPRESA DE DESARROLLO PESQUERO DE CHILE S.A., para realizar operaciones pesqueras a contar del 01 de enero y hasta el 31 de diciembre del año 2002, ambas fechas inclusive, con los barcos fábrica denominados "Unzen" y "Unionsur", en aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 44º 30' de latitud sur, respecto de las áreas y recursos y con las obligaciones establecidas en sus respectivas autorizaciones.
+
+Valparaíso, 27 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
