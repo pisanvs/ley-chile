@@ -1,0 +1,7 @@
+Por Resolución N° 1.533, de 9 de agosto de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA LANDES S.A., para ampliar actividades pesqueras extractivas, autorizadas por Resolución N° 1.423, de 1996, de esta Subsecretaría, en orden a operar la nave "Loa 9", individualizada en la Resolución citada precedentemente, en las áreas de pesca que a continuación se indican, donde podrá extraer con cerco, los siguientes recursos hidrobiológicos: a) Litoral de la III y IV Región, por fuera del área de reserva artesanal, con cerco: Agujilla, Anchoveta, Caballa, Jurel, Sardina española y Sardina común; b) Litoral de la X Región, por fuera del área de reserva artesanal, con cerco: Agujilla, Anchoveta, Caballa, Jurel, Sardina española, Sardina común y Merluza de cola.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria respecto de las áreas de pesca y recursos hidrobiológicos no contemplados en la presente Resolución, en virtud de los informes técnicos y normas legales y reglamentarias.
+
+Valparaíso, 9 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
