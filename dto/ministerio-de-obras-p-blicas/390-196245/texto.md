@@ -1,0 +1,3 @@
+Por decreto MOP Nº 390 de 25 de febrero del 2002, se expropió el lote de terreno Nº 23-F1, superficie 469 m2., rol de avalúo 50-13, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno Puerto Montt Sector Población Dollinco de Kms. 957,100 al 957,400, Décima Región y se acordó el valor de indemnización con su propietario José Raúl Oyarzo Ulloa., ascendente a la cantidad de $22.387.987.
+
+- Fiscal del Ministerio de Obras Públicas.
