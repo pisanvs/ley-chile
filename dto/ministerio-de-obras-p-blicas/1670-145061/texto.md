@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.670, de 24 de junio de 1999, se expropió el lote de terreno Nº14-D, superficie 5.297 m²., rol de avalúo 102-94, comuna de San Pablo, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Río Bueno - San Pablo, Décima Región y se acordó el valor de indemnización con su propietario Guillermo Alvares Torres, ascendente a la cantidad de $8.299.506.-
+
+Fiscal del Ministerio de Obras Públicas.
