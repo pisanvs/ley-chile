@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 175 de 14 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a derechos de adquisición y sector expropiado parcelado predio: "Los Maquis" de la comuna de Renaico, Novena Región; y derechos de aprovechamierrto de aguas que corresponden a las parcelas N°s. 4 a la 6 y 9 del proyecto de parcelación "El Labrador" formado por predio señalado. Los derechos de agua se extraen del Canal Santa Ana.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
