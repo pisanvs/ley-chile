@@ -1,0 +1,1 @@
+Establece los impuestos que señala con el objeto de construir un camino entre Combarbalá y Puerto Oscuro y otro entre Illapel y Canela Alta, por La Aguada, y para pavimentar el camino entre Ovalle y Coquimbo.
