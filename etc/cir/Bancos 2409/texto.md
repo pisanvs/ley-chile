@@ -3776,89 +3776,75 @@ MATERIA:
 
 ENCAJE.
 
-1. Encaje sobre depósitos, captaciones y otras obligaciones en moneda chilena.
+I.- DISPOSICIONES GENERALES.
 
-1.1. Depósitos, captaciones y otras obligaciones a la vista.
+De conformidad con las disposiciones contenidas en el Capítulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, las empresas bancarias y sociedades financieras deben cumplir con las exigencias de encaje sobre sus depósitos, captaciones y otras obligaciones, que se indican en los títulos II y III siguientes.
 
-Los depósitos, captaciones y obligaciones a la vista en moneda chilena estarán sujetos a las siguientes normas de encaje:
+Para el cumplimiento de la exigencia señalada, las instituciones financieras deberán atenerse a los siguientes criterios generales;
 
-1.1.1. Tasas.
+El encaje de que trata el presente Capítulo, sera calculado por períodos que corresponderán a un mes calendario completo, sobre la base de los saldos promedios que registren en el respectivo período mensual, las distintas cuentas, tanto de pasivo como de activo, que se consideran para determinar la posición de encaje.
 
-a) 10% sobre los depósitos, captaciones, cuentas de ahorro a la vista y demás obligaciones a la vista.
+Los promedios señalados precedentemente, se determinarán considerando sólo los saldos vigentes en los días hábiles bancarios del respectivo mes.
 
-b) 100% sobre los depósitos a la vista que mantengan las instituciones afectas al D.F.L. N° 1 de 1959, sobre Cuenta Unica Fiscal, en bancos diferentes del Banco del Estado de Chile.
+### 2. Equivalencia en moneda chilena de los saldos en monedas extranjeras
 
-1.1.2. Cuentas de depósitos, captaciones y obligaciones a la vista afectas a encaje.
+Para determinar la equivalencia en moneda chilena de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a moneda chilena, al tipo de cambio de representación contable fijado por esta Superintendencia, vigente en las fechas correspondientes.
 
-Estarán afectos a encaje, a las tasas precedentemente señaladas, los saldos de las cuentas que se demuestren en las siguientes partidas del formulario MB1.
+### 3. Plazo de vencimiento de los documentos de depósitos o captación
+
+Los plazos de vencimiento de los depósitos o documentos de captación, que determinarán la tasa de encaje a que la obligación quedará afecta, se refieren al lapso que debe transcurrir entre la constitución del depósito o suscripción del documento de captación o su renovación, según sea el caso, y la fecha en que el acreedor de la institución financiera tiene derecho a recuperar el total o parte del capital o intereses, en el caso de operaciones no reajustables y del total o parte del capital o reajustes, si se trata de operaciones reajustables
+
+En el caso de la obtención de recursos mediante venta de documentos con pacto de retrocompra, el plazo de que se trata será el que medie entre la fecha de venta del documento y la fecha fijada para su retrocompra
+
+### 4. Excedentes de encaje
+
+Los excedentes de encaje en moneda nacional pueden utilizarse para cubrir déficit de encaje en monedas extranjeras. Los excedentes de encaje en monedas extranjeras, cualesquiera que ellas sean, no se pueden emplear para cumplir con la obligación de encaje correspondiente a depósitos, captaciones y otras obligaciones en otras monedas extranjeras ni para los depósitos, captaciones y otras obligaciones en moneda chilena.
+
+5. Obligaciones afectas a reserva técnica, art. 80 bis Ley General de Bancos.
+
+El monto de las obligaciones afectas a la reserva técnica de que tratan el Capítulo III.A.4 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 4-2 de esta Recopilación, no estarán afectos a la exigencia de encaje de que trata este Capítulo.
+
+II.-ENCAJE SOBRE DEPOSITOS, CAPTACIONES Y OTRAS OBLIGACIONES EN MONEDA CHILENA.
+
+Las empresas bancarias y las sociedades financieras conformarán la exigencia de encaje sobre depósitos, captaciones y otras obligaciones en moneda chilena, con sujeción a las siguientes instrucciones:
+
+### 1. Tasas de encaje
+
+Los depósitos, captaciones y otras obligaciones en moneda nacional, que mantengan las empresas bancarias y las sociedades financieras, estarán afectos a las siguientes tasas de encaje:
+
+1.1. Depósitos, captaciones y obligaciones a la vista.
+
+Los depósitos, captaciones y obligaciones a la vista, cualquiera sea su naturaleza, estarán afectos a una tasa de encaje de 10%.
+
+1.2. Depósitos, captaciones y obligaciones a plazo.
+
+Los depósitos, captaciones y obligaciones a plazo, desde 30 días y hasta un año y los depósitos a más de un año plazo, estarán afectos a una tasa de 4%.
+
+Las demás captaciones a más de un año no estarán afectas a encaje.
+
+2. Cuentas de depósitos, captaciones y obligaciones en moneda nacional afectas a encaje.
+
+2.1 Cuentas de depósitos, captaciones y obligaciones a la vista.
+
+Estarán afectos a encaje a la tasa señalada en el numeral 1.1 anterior, los saldos de las cuentas que se demuestren en las siguientes partidas del MB1:
 
 a) Bancos.
 
-- N° 3005 "Acreedores en cuentas corrientes",
+N° 3005 "Acreedores en cuentas corrientes",
 
-- N° 3010 "Otros saldos acreedores a la vista"; y,
+N° 3010 "Otros saldos acreedores a la vista", y,
 
-- N° 3015 "Depósitos de ahorro a la vista".
+N° 3015 "Depósitos de ahorro a la vista".
 
 b) Sociedades Financieras.
 
-- N° 3010 "Otros saldos acreedores a la vista"; y,
+N° 3010 "Otros saldos acreedores a la vista"; y,
 
-- N° 3015 "Depósitos de ahorro a la vista".
+N° 3015 "Depósitos de ahorro a la vista".
 
-1.1.3. Contenido de la partida 3010 "Otros saldos acreedores a la vista".
+2.2. Cuentas de depósitos, captaciones y obligaciones a Plazo.
 
-En lo que se refiere al contenido de esta partida, las instituciones financieras deberán cumplir fielmente las instrucciones contenidas en el Manual del formulario MB1, en el sentido de registrar en las cuentas que la integran, todos los conceptos que en la parte pertinente del referido manual se detallan y, en general, todos los compromisos propios del giro de la empresa, a menos de 30 días, para los cuales no se haya establecido específicamente una partida.
-
-En consecuencia, todos los depósitos, captaciones y obligaciones de plazo vencido deberán registrarse como "Otros saldos acreedores a la vista" hasta la fecha en que dichos valores sean restituidos a sus beneficiarios.
-
-Conforme con lo anteriormente expresado, las referidas instituciones no deben dar de baja las captaciones a su vencimiento, mediante el giro de cheques, vales vista u otros documentos similares, antes de que el pago de dichos valores sea requerido por los interesados.
-
-1.1.4. Importes que pueden deducirse de las obligaciones afectas a encaje.
-
-Los bancos y las sociedades financieras podrán deducir diariamente de los depósitos y obligaciones a la vista afectos a encaje, los saldos de las cuentas "Canje de la plaza", "Canje de otras plazas" y "Documentos deducibles de encaje a cargo de sucursales". Las dos primeras cuentas se incluyen en la partida 1015 del formulario MB1 y la última en la partida 2115 del mismo formulario.
-
-Mientras sea deducible de encaje, el canje generado por los depósitos que efectúen las instituciones afectas al DFL N° 1 de 1959, se contabilizará, además, en las cuentas "Canje de instituciones afectas al DFL N° 1" y "Responsabilidad por canje de instituciones afectas al DFL N° 1" que conformarán las partidas 9169 y 9900 del MB1, respectivamente.
-
-Los valores que conformen el saldo de la partida 1015 deberán corresponder exclusivamente a documentos girados a cargo de otras entidades financieras. Luego no podrán incluirse en ningún caso, documentos a cargo de la propia institución, ni los emitidos por ésta contra sus oficinas o corresponsales.
-
-Los bancos distintos al banco librado, podrán deducir del monto de sus depósitos diarios, una compensación debe registrarse en la cuenta "Compensación Ordenes de Pago Ley 17.671", de la partida 9160 del mismo nombre, del MB1.
-
-En consecuencia, sírvase retirar del respectivo volumen de la Recopilación Actualizada de Normas, el Capítulo 16-2 que se deroga y remplazar las siguientes hojas por las que se adjuntan a la presente Circular: hoja N° 7 del Indice de Capítulos; hojas N° 3 y 4 del índice de materias; hojas N°s 2, 3 y 4 del Capítulo 3-1 y, hoja N° 3 del Capítulo 4-1.
-
-Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a encaje, el excedente que se produzca diariamente cuando el saldo de las cuentas antes señaladas sea superior a sus depósitos y obligaciones a la vista sujetas a encaje.
-
-Los importes registrados en las cuentas señaladas precedentemente, podrán deducirse de las obligaciones afectas a encaje sólo por un día hábil bancario,salvo en el caso de los documentos registrados en la cuenta "Canje de otras plazas", en los que la deducción podrá hacerse hasta por dos días hábiles bancarios.
-
-En ningún caso podrá deducirse de las obligaciones afectas a encaje los documentos recibidas de otras oficinas del mismo banco, ubicadas en otras plazas para su cobro en la cámara local. Dichos documentos deberán registrarse en la cuenta "Canje no deducible" de la partida 1015, del formulario MB1, puesto que ya cumplieron su período de deducción en la oficina remitente.
-
-Los bancos y sociedades financieras podrán deducir diariamente de sus obligaciones a la vista netas afectas a encaje, las obligaciones por las cuales deban constituir la reserva técnica de que trata el Capítulo 4-2 de esta Recopilación. En caso de que las obligaciones a la vista netas fueran inferiores al monto deducible, el remanente podrá ser rebajado de las obligaciones a plazo afectas a encaje.
-
-1.1.5. Encaje sobre depósitos de instituciones afectas al D.F.L. N° 1 de 1959.
-
-Respecto al encaje sobre los depósitos a la vista que las instituciones afectas al D.F.L. N° 1, de 1959, sobre Cuenta Unica Fiscal, mantengan en bancos diferentes del Banco del Estado de Chile o sobre depósitos a plazo que las mismas instituciones mantengan en cualquier banco, se deja en claro que la tasa del 100% regirá para los depósitos que dichas instituciones tomen o mantengan expresamente a su nombre y no para aquellas consignaciones que se hagan a su nombre por parte de terceros en función de trámites reglamentarios, en pago de obligaciones o a cualquier otro título.
-
-Los depósitos que las instituciones afectas al DFL N° 1 tomen o mantengan a su nombre, se demostrarán, además, en las cuentas "Depósitos en cta. cte. instituciones DFL N° 1", "Otros saldos acreedores a la vista instituciones DFL N° 1" o "Depósitos a plazo instituciones DFL N° 1", según corresponda, de la partida 9161 "Depósitos de instituciones afectas al DFL N° 1" del MB1, y en la cuenta "Responsabilidad por depósitos de instituciones afectas al DFL N° 1", de la partida 9900 del MB1. En estas cuentas no se incluirán los importes correspondientes a los intereses o reajustes de las operaciones de que se trata, mientras no hayan sido capitalizados.
-
-1.2. Encaje sobre depósitos, captaciones y obligaciones exigibles a plazo (30 días o más).
-
-Los depósitos, captaciones y obligaciones a plazo, en moneda chilena estarán sujetos a las siguientes normas de encaje:
-
-1.2.1. Tasas.
-
-a) Los depósitos, captaciones y obligaciones a plazo desde 30 días y hasta un año y las cuentas de ahorro a plazo estarán afectos a una tasa de encaje de 4%.
-
-b) Los depósitos a más de un año plazo estarán afectos a la tasa de encaje señalada en la letra a) precedente. Las demás captaciones a más de un año plazo estarán exentas de encaje.
-
-c) Los depósitos a la orden judicial constituidos según lo dispuesto en los artículos 507 y 509 del Código Orgánico de Tribunales y los fondos depositados en conformidad con lo establecido en el Decreto Ley N° 1.519 de 1976, estarán afectos a la tasa de encaje de 4% indicada en la letra a) precedente, y se demostrarán, respectivamente, en las cuentas "Depósitos por consignaciones judiciales" y "Depósitos D.L. 1.519", las que formarán parte de la partida 3010 del MB1.
-
-d) Los depósitos y captaciones a plazo que mantengan las instituciones afectas al D.F.L. N° 1, de 1959 sobre Cuenta Unica Fiscal, estarán sujetos a un 100% de encaje.
-
-e) Las captaciones por ventas de documentos con pacto de retrocompra, siempre que tales operaciones no recaigan en pagarés emitidos por el Banco Central de Chile o por la Tesorería General de la República, estarán afectas a la tasa de encaje señalada en la letra a) precedente.
-
-1.2.2. Cuentas de depósitos, captaciones y obligaciones a plazo afectas a encaje.
-
-Estarán afectos a encaje, a las tasas indicadas en el numeral 1.2.1 anterior, los saldos de las cuentas que se demuestran en las siguientes partidas del formulario MB1, con excepción de los importes correspondientes a "Reajustes por pagar":
+Estarán afectos a encaje, a la tasa indicada en el numeral 1.2 anterior, los saldos de las cuentas que se demuestran en las siguientes partidas del MB1, con excepción de los importes correspondientes a "Reajustes por pagar":
 
 N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días";
 
@@ -3872,167 +3858,119 @@ N° 3065 "Depósitos y captaciones" (exceptuadas las captaciones a más de un a�
 
 N° 3110 "Venta a instituciones financieras de documentos con pacto de recompra", excepto los pagarés emitidos por el Banco Central de Chile y por la Tesorería General de la República; y,
 
-N° 3115 "Venta a terceros de documentos con pacto de recompra", excepto los pagarés emitidos por el Banco Central de Chile y por la Tesorería General de la República.
+N° 3115 "Venta a terceros de documentos con pacto de recompra", excepto los pagarés emitidos por el Banco Central de Chile y por la Tesorería General de la República
 
-Las sociedades financieras pueden deducir diariamente de sus obligaciones a plazo afectas a encaje, el excedente que se produzca cuando el saldo de sus cuentas "Canje de la plaza", "Canje de otras plazas", "Documentos deducibles de encaje a cargo de sucursales" y obligaciones afectas a reserva técnica, sea superior a sus obligaciones a la vista sujetas a encaje.
+2.3. Contenido de la partida 3010 " Otros saldos acreedores a la vista"
 
-1.3. Encaje exigido y mantenido.
+Las instituciones financieras deberán cumplir fielmente las instrucciones contenidas en el Manual del MB1, en el sentido de registrar en las cuentas que integran la partida 3010, todos los conceptos que en la parte pertinente del referido manual se detallan y, en general, todos los compromisos propios del giro de la empresa, a menos de 30 días, para los cuales no se haya establecido específicamente una partida.
 
-El encaje exigido se calculará por períodos mensuales y su cumplimiento se hará en relación con el promedio de depósitos, captaciones y obligaciones del mismo período.
+En consecuencia, todos los depósitos, captaciones y obligaciones de plazo vencido deberán registrarse como "Otros saldos acreedores a la vista" hasta la fecha en que dichos valores sean restituidos a sus beneficiarios.
 
-1.3.1. Encaje mantenido.
+Conforme con lo anteriormente expresado, las referidas instituciones no deben dar de baja las captaciones a su vencimiento, mediante el giro de cheques u otros documentos similares, antes de que el pago de dichos valores sea requerido por los interesados.
 
-El encaje mantenido debe estar compuesto por billetes y monedas de curso legal del país, ya sea que estén disponibles en caja, como remesa en efectivo en tránsito entre oficinas, como remesas en efectivo en tránsito al Banco Central de Chile o depositados en el Banco Central de Chile. Es decir, se computarán como encaje los saldos de las partidas 1005 y 1010 del formulario MB1.
+### 3. Importes que pueden deducirse de las obligaciones afectas a encaje
 
-Los saldos de caja y de cuentas corrientes con el Banco Central de Chile utilizados para enterar la reserva técnica no pueden, a su vez, ser empleados para enterar el encaje mantenido.
+3.1 Canje y documentos deducibles de encaje a cargo de sucursales.
 
-Asimismo, el monto depositado en el Banco Central de Chile, especialmente para constituir la Reserva Técnica, registrado en la cuenta "Depósitos de Reserva Técnica en el Banco Central de Chile", no podrá, en caso alguno, ser utilizado para enterar el encaje mantenido.
+Los bancos y las sociedades financieras podrán deducir diariamente de los depósitos y obligaciones a la vista afectos a encaje, los saldos de las cuentas "Canje de la plaza", "Canje de otras plazas" y "Documentos deducibles de encaje a cargo de sucursales". Las dos primeras cuentas se incluyen en la partida 1015 y la última en la partida 2115 del MB1.
 
-1.3.2. Depósitos mantenidos en el Banco Central de Chile.
+Los valores que conformen el saldo de la partida 1015 deberán corresponder exclusivamente a documentos girados a cargo de otras entidades financieras. Luego no podrán incluirse en ningún caso, documentos a cargo de la propia institución.
+
+De ningún modo podrán deducirse de las obligaciones afectas a encaje los documentos recibidos de otras oficinas del mismo banco, ubicadas en otras plazas, para su cobro en la cámara local. Dichos documentos deberán registrarse en la cuenta "Canje no deducible" de la partida 1015 del MB1, puesto que ya cumplieron su período de deducción en la oficina remitente.
+
+Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a encaje, el excedente diario que se produzca cuando el saldo de las cuentas antes señaladas sea superior a sus depósitos y obligaciones a la vista sujetas a encaje.
+
+3.2 Compensación por pago de Ordenes de Pago.
+
+Los bancos distintos al banco librado, podrán deducir del monto de sus depósitos diarios, una compensación por la salida de caja que representa para ellos el pago de Ordenes de Pago emitidas por las instituciones de previsión al amparo del artículo 15 de la Ley 17.671. Esa compensación es equivalente, según la tasa de encaje vigente, al 900% de los importes pagados. El monto de esta compensación debe registrarse en la cuenta "Compensación Ordenes de Pago Ley 17.671", de la partida 9160 del mismo nombre, del MB1.
+
+3.3 Obligaciones por las cuales deben constituir reserva técnica.
+
+Los bancos y sociedades financieras podrán deducir diariamente de sus obligaciones a la vista netas afectas a encaje, las obligaciones por las cuales deban constituir la reserva técnica de que trata el Capítulo 4-2 de esta Recopilación. En caso de que las obligaciones a la vista netas fueran inferiores al monto deducible, el remanente podrá ser rebajado de las obligaciones a plazo afectas a encaje.
+
+3.4. Período de deducción.
+
+Los importes deducibles de que tratan los numerales precedentes podrán detraerse de las obligaciones afectas a encaje sólo por un día hábil bancario, salvo en el caso de los documentos registrados en la cuenta "Canje de otras plazas", en el que la deducción podrá hacerse hasta por dos días hábiles bancarios.
+
+### 4. Encaje exigido y mantenido
+
+4.1. Encaje exigido.
+
+El encaje exigido se calculará por períodos mensuales y su cumplimiento se hará en relación con el promedio de depósitos, captaciones y obligaciones, previa deducción de los importes que correspondan, según lo dispuesto en el N° 3 precedente.
+
+4.2 .Encaje mantenido.
+
+El encaje mantenido debe estar compuesto por billetes y monedas de curso legal del país, ya sea que estén disponibles en caja, en las respectivas empresas bancarias y sociedades financieras o depositados a la vista en el Banco Central de Chile. Para estos efectos se considerarán, asimismo, como si estuvieran en caja, las remesas en efectivo en tránsito entre oficinas de una misma empresa bancaria o sociedad financiera y las remesas en efectivo al Banco Central de Chile. Es decir, se computarán como encaje los saldos de las partidas 1005 y 1010 del MB1, excluidas las cuentas "Caja en custodia en empresas transportadoras de valores" y "Caja en custodia en otras entidades financieras".
+
+Asimismo, se considerará como parte del encaje mantenido, el depósito de garantía a que se refiere el artículo 36 de la Ley General de Bancos.
+
+Los fondos disponibles en caja y los depósitos a la vista en el Banco Central de Chile utilizados para enterar la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación, no pueden, a la vez, ser empleados para constituir el encaje mantenido.
+
+Del mismo modo, el monto depositado en el Banco Central de Chile, especialmente para constituir la reserva técnica, registrado en la cuenta "Depósitos de reserva técnica en el Banco Central de Chile", no podrá, en caso alguno, ser utilizado para enterar el encaje mantenido.
+
+4.3 Depósitos en el Banco Central de Chile.
 
 Los depósitos en el Banco Central de Chile sólo podrán efectuarse en dinero efectivo o en cheques girados contra las cuentas corrientes que se mantengan en el Banco Central de Chile. El valor de estos cheques se excluirá del canje y será cargado en la cuenta corriente del girador el mismo día en que se efectúe el depósito.
 
 En el caso que una institución financiera le solicite a otra el giro de cheques sobre el Banco Central de Chile, no se considerarán fondos disponibles los que provengan de depósitos en cuenta corriente efectuados con vales vista u otros documentos de otras empresas bancarias o sociedades financieras, aun cuando sean de la misma plaza. Por lo tanto, cuando esta situación se presente, la institución financiera requerida no estará obligada a entregar el cheque sobre el Banco Central de Chile hasta tanto no haya recibido efectivamente el pago de tales documentos.
 
-### 2. Encaje sobre depósitos y captaciones en monedas extranjeras
+III.- ENCAJE SOBRE DEPOSITOS, CAPTACIONES Y OTRAS OBLIGACIONES EN MONEDAS EXTRANJERAS.
 
-Los bancos conformarán la exigencia de encaje sobre depósitos y captaciones en monedas extranjeras, con arreglo a las siguientes instrucciones:
+Las empresas bancarias conformarán la exigencia de encaje sobre depósitos, captaciones y otras obligaciones en monedas extranjeras, con sujeción a las siguientes instrucciones:
 
-2.1. Tasas.
+### 1. Tasas de encaje
 
-Aplicarán las que se detallan a continuación:
+Los depósitos, captaciones y otras obligaciones en monedas extranjeras estarán afectos a las siguientes rasas de encaje:
 
-a) 10% sobre los depósitos y captaciones a la vista; y
+1.1. Depósitos, captaciones y obligaciones a la vista
 
-b) 4% sobre los depósitos y captaciones exigibles a plazo (30 días o más).
+Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 10%.
 
-Las captaciones en moneda extranjera a más de un año plazo, que no correspondan a depósitos, estarán exentas de encaje.
+1.2. Depósitos, captaciones y obligaciones a plazo.
 
-2.2. Cuentas de depósitos y captaciones afectas a encaje.
+Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza desde 30 días y hasta un año y los depósitos a más de un año plazo estarán afectos a una tasa de encaje de 4%.
 
-Estarán afectos a encaje, a las tasas precedentemente indicadas, los saldos de las cuentas que se demuestran en las siguientes partidas del formulario MB1:
+Las demás captaciones a más de un año no estarán afectas a encaje.
 
-N° 3005 "Acreedores en cuentas corrientes";
+2. Cuentas de depósitos, captaciones y obligaciones en monedas extranjeras afectas a encaje.
+
+Quedarán sujetos a encaje, a las tasas precedentemente indicadas, los saldos de las cuentas que se demuestren en las siguientes partidas del MB1.
+
+N° 3005 "Acreedores en cuentas corrientes",
 
 N° 3010 "Otros saldos acreedores a la vista";
 
 N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días";
 
-N° 3025 "Depósitos y captaciones a plazo de 90 días a 1 año";
+N° 3025 "Depósitos y captaciones a plazo de 90 días a un año";
 
-N° 3030 "Otros saldos acreedores a plazo"; y,
+N° 3030 "Otros saldos acreedores a plazo", y,
 
-N° 3065 "Depósitos y captaciones".
+N° 3055 "Depósitos y captaciones" (exceptuadas las captaciones a más de un año que no provengan de depósitos).
 
-2.3. Importes que se pueden deducir de las obligaciones afectas a encaje.
+### 3. Importes que se pueden deducir de las obligaciones afectas a encaje
 
-Los bancos podrán deducir diariamente de los depósitos y captaciones a la vista el saldo de la cuenta "Canje de la plaza" y "Canje de otras plazas", de la partida 1015 del formulario MB1, en la respectiva moneda extranjera. La permanencia de los importes que sean registrados en las referidas cuentas, no podrá exceder de un día hábil bancario.
+Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", de la partida 1015 del MB1, en la respectiva moneda extranjera. La permanencia de los importes que sean registrados la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los registrados en la cuenta "Canje de otras plazas" será de dos días hábiles bancarios.
 
-2.4. Encaje exigido.
+### 4. Encaje exigido y mantenido
 
-a) El encaje correspondiente a los depósitos y captaciones en monedas extranjeras, se determinará en forma separada para cada una de las monedas extranjeras. En consecuencia, por ningún motivo podrá establecerse encaje conjunto.
+4.1. Encaje exigido
+
+El encaje correspondiente a los depósitos y captaciones en monedas extranjeras, se determinará en forma separada para cada una de las diferentes monedas. En consecuencia, no puede establecerse encaje conjunto.
 
 La instrucción precedente implica que las disponibilidades que los bancos tengan de una determinada moneda extranjera, les servirán como partida de encaje mantenido sólo para los depósitos y captaciones en esa misma moneda.
 
-b) La suma de los saldos totales de depósitos en una determinada moneda extranjera que en su promedio mensual no exceda del equivalente de US$ 1.000 quedará al margen de la obligación de constituir encaje.
+4.2. Encaje mantenido.
 
-2.5. Encaje mantenido.
+El encaje, para cada una de las monedas extranjeras, deberá estar constituido por billetes y monedas del respectivo país, que estén disponibles en caja en el respectivo banco, en tránsito entre sus oficinas o en tránsito al Banco Central de Chile. Se excluyen, para efectos de este cómputo, los billetes y monedas en custodia en empresas transportadoras de valores o en otras instituciones financieras.
 
-Para los efectos de constituir el encaje efectivo, los bancos computarán los billetes y monedas del país respectivo mantenidos en Caja y los depósitos mantenidos en el Banco Central de Chile en las mismas monedas, ya sea en su cuenta corriente, en la cuenta "Depósitos en el Banco Central expresados en dólares", en la cuenta especial para los excesos de la posición de cambio, de que trata el numeral 8.4 del Capítulo 13-1 de esta Recopilación o aquellos efectuados por una noche o por días inhábiles bancarios de fin de semana que se registran en la cuenta "Depósitos "overnight" en el Banco Central de Chile" de la partida 1010 del formulario MB1. Luego, los importes en moneda extranjera depositados en las "Cuentas Acuerdos 1657-11-850627", a que se refiere el Capítulo 13-12 o los mantenidos en el exterior, no sirven para integrar el encaje.
+Asimismo, servirán para constituir el encaje los demás depósitos a la vista en monedas extranjeras o expresados en dichas monedas, mantenidos en el Banco Central de Chile, incluidos los saldos de las cuentas "Depósitos en el Banco Central expresados en dólares" y "Depósitos "Overnight" en el Banco Central de Chile". Con todo, para estos efectos deberá exceptuarse el saldo registrado en "Cuentas Acuerdo 1657-11-850627", el que no será computable como encaje mantenido.
 
-Los excedentes de encaje en moneda nacional sirven para cubrir déficit de cualquier moneda extranjera. En cambio, los excedentes de encaje en monedas extranjeras, cualesquiera que ellas sean, no sirven como encaje para los depósitos en otras monedas extranjeras ni para los depósitos en moneda chilena.
+De conformidad con lo señalado en el N° 4 del titulo I de este Capítulo, el encaje exigido en monedas extranjeras también puede enterarse con excedentes de encaje mantenido en moneda chilena.
 
-El cumplimiento del encaje exigido se hará en relación con el promedio de depósitos del mismo período y se calculará por períodos mensuales.
+Los fondos en moneda extranjera así como aquellos en moneda chilena, disponibles en caja o depositados a la vista en el Banco Central de Chile, que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación, no podrán, a su vez, ser empleados para constituir el encaje mantenido.
 
-### 3. Otras disposiciones
-
-3.1. Período de encaje.
-
-Los períodos de encaje corresponderán a un mes calendario completo, considerándose dentro de ese período solamente los días hábiles bancarios.
-
-3.2. Interés que abonará el Banco Central de Chile.
-
-El Banco Central de Chile pagará intereses sobre el encaje exigido por los depósitos y captaciones a plazo en moneda chilena, de acuerdo con las siguientes pautas:
-
-3.2.1. Encaje que devengará intereses.
-
-El Banco Central de Chile determinará mensualmente el saldo promedio del encaje exigido por depósitos y captaciones a plazo en moneda chilena, reajustables y no reajustables, sobre el cual pagará intereses. El déficit de encaje, si lo hubiere, será descontado de los saldos promedio beneficiados con el pago de intereses.
-
-3.2.2. Tasa de interés.
-
-El interés que pagará el Instituto Emisor sobre el promedio de encaje referido en el numeral 3.2.1 precedente, será el señalado para el efecto en el Capítulo III.A.2 del Compendio de Normas Financieras del Banco Central de Chile.
-
-3.2.3. Pago de los intereses.
-
-Los intereses serán pagados el último día hábil del mes siguiente al cual fueron devengados. El Banco Central de Chile realizará su pago mediante abono a la cuenta corriente de la respectiva institución financiera o bien entregará por su importe, pagarés expresados en Unidades de Fomento, calculados de acuerdo al valor que dicha Unidad tenga en la fecha en que corresponda pagar los intereses.
-
-3.2.3.1. Características de los pagarés.
-
-Los pagarés mencionados en el numeral anterior serán nominativos e intransferibles y su vencimiento será a cinco años plazo. Ganarán un interés de cinco por ciento por año, capitalizable anualmente y pagadero en la fecha de rescate del respectivo documento.
-
-3.2.3.2. Rescate anticipado.
-
-Las instituciones financieras podrán solicitar el rescate de estos pagarés al valor par de los títulos, una vez transcurrido a lo menos un año desde su emisión, pero siempre que la entidad que solicite el rescate, hubiere mantenido en el semestre inmediatamente anterior a la fecha de su solicitud, provisiones superiores a las exigidas por esta Superintendencia para las carteras de colocaciones e inversiones.
-
-El monto del rescate anticipado no podrá ser mayor que el exceso de las provisiones mantenidas, por sobre las exigidas.
-
-La opción de rescate anticipado podrá ejercerse solamente en los meses de enero y julio de cada año y las instituciones que decidan hacer uso de esa opción, deberán informar a esta Superintendencia con una anticipación de 10 días hábiles bancarios el monto total del rescate que solicitarán.
-
-3.2.4. Instrucciones contables.
-
-Los intereses que se devenguen sobre el promedio del encaje exigido por los depósitos y captaciones a plazo en moneda chilena, así como los pagarés en que ellos se documenten, se contabilizarán conforme a las siguientes instrucciones:
-
-3.2.4.1. Intereses devengados.
-
-a) Sobre el promedio del encaje exigido.
-
-Una vez que el Banco Central de Chile informe a la empresa el monto de los intereses devengados en el mes anterior y entregue los respectivos pagarés, se efectuará la siguiente contabilización:
-
-Debe: "Pagarés Banco Central-Acuerdo 1442" de la partida 1705 del formulario MB1.
-
-Haber: "Intereses ganadas sobre encaje exigido-Acuerdo 1442" de la partida 7200 del formulario MR1.
-
-b) Sobre pagarés.
-
-Los intereses que devenguen los pagarés emitidos por el Banco Central de Chile se tratarán mes a mes de acuerdo con las instrucciones generales que sobre intereses devengados ha impartido esta Superintendencia.
-
-La capitalización de estos intereses, que ocurrirá anualmente, se contabilizará de la siguiente forma:
-
-Debe: "Pagarés Banco Central-Acuerdo 1442". En esta cuenta se cargará el valor original o anterior a la capitalización de que se trate, más los intereses que se capitalicen.
-
-Haber: - "Intereses ganados sobre Pagarés Banco Central-Acuerdo 1442" de la partida 7150 del formulario MR1.
-
-- "Pagarés Banco Central-Acuerdo 1442" por el importe del pagaré respectivo antes de incorporarle los intereses que se capitalizan.
-
-3.2.4.2. Reajustes devengados.
-
-Los reajustes que ganen estos pagarés, correspondientes a la variación que experimente la Unidad de Fomento, se debitarán mensualmente en la cuenta complementaria "Reajustes por cobrar", subcuenta "Reajustes por cobrar", sobre pagarés - Acuerdo 1442", con abono a la cuenta "Reajustes ganados sobre pagarés - Acuerdo 1442", que se demostrará en la partida 7350 del formulario MR1.
-
-3.2.4.3. Rescate de los pagarés.
-
-Cuando se produzca el rescate de estos pagarés, ya sea anticipado o por haber cumplido su plazo, las entidades financieras acreditarán el importe del pagaré rescatado a la cuenta "Pagarés Banco Central Acuerdo 1442".
-
-3.3. Plazo de vencimiento de los documentos de depósito o captación.
-
-Los plazos de vencimiento de los depósitos o documentos de captación, que determinarán la tasa de encaje a que la obligación quedará afecta, se refieren al lapso que debe transcurrir entre la constitución del depósito o suscripción del documento de captación o su renovación y la fecha en que el acreedor de la institución financiera tiene derecho a recuperar el total o parte del capital o intereses si se trata de una operación no reajustable o del capital, intereses o reajustes cuando la operación es reajustable. En este último caso, el retiro anticipado de intereses no afectará la forma de computar el plazo de vencimiento.
-
-En el caso de la obtención de recursos mediante venta de documentos con pacto de retrocompra, el plazo de que se trata será el que medie entre la fecha de venta del documento y la fecha fijada para su recompra.
-
-3.4. Separación de los depósitos y captaciones a plazo afectos a encaje, según sus vencimientos pactados.
-
-Para los efectos del pago de intereses por parte del Banco Central de Chile sobre el encaje exigido, las entidades financieras deberán clasificar sus depósitos, captaciones y otras obligaciones a plazo no reajustables afectas a encaje, de acuerdo a sus plazos, en los siguientes tramos:
-
-a) Entre 30 y 59 días;
-
-b) Entre 60 y 89 días;
-
-c) Entre 90 días y un año; y,
-
-d) A más de un año.
-
-Las instituciones financieras deberán registrar los depósitos y captaciones que reciban, separados según los plazos señalados en las letras a), b), c) y d)precedentes.
-
-### 4. Información a esta Superintendencia
+IV.- Información a esta Superintendencia.
 
 Las instituciones financieras deberán enviar a esta Superintendencia la información relativa a encaje, de conformidad con las instrucciones del Manual del Sistema de Información.
 
@@ -4106,9 +4044,9 @@ Las instituciones financieras que deban constituir reserva técnica podrán hace
 
 En todo caso, cuando una institución financiera opte por constituir su reserva técnica en forma diferida de conformidad con lo señalado en el párrafo precedente, deberá mantener esa modalidad, sin perjuicio de lo dispuesto en el numeral 10.2 de este título, y sólo podrá cambiarla con autorización previa de esta Superintendencia.
 
-Dicha reserva técnica se enterará con billetes y monedas de curso legal en el país o con monedas extranjeras sujetas a posición de cambio que la institución financiera mantenga ya sea en caja, como remesa en efectivo en tránsito entre oficinas, como remesa en efectivo en tránsito al Banco Central de Chile o en cuentas corrientes de libre disposición en el Banco Central de Chile incluidas en éstas los depósitos "overnight" y la cuenta corriente en pesos expresada en dólares a que se refiere el Capítulo IV.D.1 del Compendio de Normas Financieras del Instituto Emisor. Asimismo, podrá enterarse con depósitos en moneda chilena
+Dicha reserva técnica se enterará con billetes y monedas de curso legal en el país o con monedas extranjeras sujetas a posición de cambio, que estén disponibles en caja, en las respectivas instituciones financieras, o depositados a la vista en e] Banco Central de Chile, incluidos los saldos de las cuentas "Depósitos en el Banco Central expresados en dólares" y "Depósitos "overnight" en el Banco Central de Chile", Para estos efectos se considerarán como caja las remesas en efectivo en tránsito entre oficinas de una misma empresa bancaria o sociedad financiera y las remesas en efectivo al Banco Central de Chile. Es decir, serán utilizables como reserva técnica los saldos de las partidas 1005 y 1010 del MB1, excluidos los importes de las cuentas "Caja en custodia en empresas transportadoras de valores" y "Caja en custodia en otras entidades financieras" y los saldos en monedas extranjeras de libre disposición.
 
-constituidos en ese Banco, específicamente para estos efectos, o bien, con documentos emitidos por el Banco Central de Chile o por la Tesorería General dela República, para cuyo vencimiento no falten más de 90 días, sean instrumentos destinados especialmente para estos efectos o los demás que cumplan con esa condición y que se señalan en los numerales 5.3 y 5.4 de este título.
+Asimismo, la reserva técnica podrá enterarse con documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, para cuyo vencimiento no falten más de 90 días, sean instrumentos destinados especialmente para estos efectos o los demás que cumplan con esa condición y que se señalan en los numerales 5.3 y 5.4 de este título.
 
 En los casos en que los documentos emitidos por el Instituto Emisor o por la Tesorería General de la República sean pagaderos en cuotas, sólo se considerará como reserva técnica mantenida, el importe de capital de dichos documentos, que se percibirá dentro de los 90 días siguientes a la fecha en que se realice el cómputo de esa reserva, sin perjuicio de agregar los intereses efectivamente devengados hasta esta última fecha.
 
@@ -5865,6 +5803,8 @@ CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 122 FINANCIERA FUSA S.A.
 
 733 FINANCIERA CONDELL S.A.
+
+734 FINANCIERA CONOSUR.
 
 ANEXO N° 7
 
@@ -39022,7 +38962,7 @@ CAJA. DINERO EN TRANSITO O EN CUSTODIA.
 
 Se considerarán como remesas en tránsito de una institución financiera, los importes que se entreguen a una empresa transportadora de valores con el fin de que ésta los transporte a otra oficina de la misma institución que encarga el traslado en virtud de un contrato de prestación de tal servicio que se haya suscrito entre ambas partes, o que, de acuerdo con lo establecido en el mismo contrato, la empresa transportadora guarde en custodia en sus bóvedas, sujetos a las instrucciones que le imparta la institución depositante.
 
-Las remesas en tránsito que se mantengan en custodia se tratarán como fondos disponibles de la entidad depositaría y, en consecuencia serán computables como tales, para los efectos de encaje y de reserva técnica, en los casos que corresponda, y siempre que el banco o sociedad financiera cuente con el correspondiente ejemplar original del certificado de recepción en custodia que deberá extender en duplicado la empresa transportadora de valores y el transporte y custodia se realicen en virtud de un contrato que, como se señaló en el párrafo precedente de este número, hayan celebrado las partes.
+Las remesas en tránsito que se mantengan en custodia en las empresas transportadoras de valores no serán computables para los efectos de constituir el encaje y la reserva técnica a que se refieren los Capítulos 4-1 y 4-2, respectivamente, de esta Recopilación.
 
 En todo caso, corresponderá a las instituciones bancarias y sociedades financieras que contraten estos servicios comprobar y exigir los resguardos necesarios y precisar las responsabilidades de la empresa encargada de la custodia de esos valores.
 
@@ -39032,7 +38972,7 @@ Los bancos y sociedades financieras podrán mantener en custodia en otras entida
 
 La entidad depositaría deberá entregar a la institución depositante una confirmación escrita o certificación en duplicado de los importes que reciba en custodia, en la que deberá dejarse constancia de la fecha de recepción y del valor recibido, siendo obligación del depositante devolver el original de ese documento cuando gire parcial o totalmente los montos depositados.
 
-La certificación señalada en el párrafo precedente, permitirá a la entidad depositante considerar esos recursos como fondos disponibles computables para los efectos del encaje mantenido y de la reserva técnica, cuando corresponda.
+Los depósitos en custodia de que trata el párrafo precedente no serán computables para los efectos de constituir el encaje y la reserva técnica a que se refieren los Capítulos 4-1 y 4-2, respectivamente, de esta Recopilación.
 
 ### 3. Normas contables
 
