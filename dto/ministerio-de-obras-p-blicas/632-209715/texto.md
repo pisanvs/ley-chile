@@ -1,0 +1,3 @@
+Por Decreto MOP N° 632, de 26 de agosto de 1996, se expropió el lote de terreno N° 32, superficie 18.003 m2., rol de avalúo 1035-124, Comuna de Maipú, para la obra Camino Autopista Santiago-San Antonio, sector Empalme Isabel Riquelme-Bif. Malloco, y se acordó el valor de indemnización con su propietaria Patricia Gandarillas Oviedo, ascendente a la cantidad de $160.699.513.
+
+Fiscal del Ministerio de Obras Públicas.
