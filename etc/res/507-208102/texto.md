@@ -1,0 +1,3 @@
+Por resolución Nº 507, de 18 de febrero de 2003, de esta Subsecretaría, autorízase a PESQUERA PLAYA BLANCA S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Bahía Calderilla S/N, Caldera, III Región, en las líneas de elaboración de harina y aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 18 de febrero de 2003.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
