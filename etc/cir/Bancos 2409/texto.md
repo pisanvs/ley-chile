@@ -20548,23 +20548,27 @@ a) Monto mínimo de US$ 10.000,00.
 
 b) Pago de intereses por períodos mensuales, trimestrales, semestrales o anuales, según se haya autorizado en la respectiva solicitud de inscripción.
 
-1.3. Encaje y reserva técnica de los depósitos, captaciones y créditos del exterior.
+1.3.- Encaje y reserva técnica de los depósitos, captaciones y créditos de exterior.
 
-Por los depósitos y captaciones ya indicados, debe mantenerse el encaje y la reserva técnica que les afecte, establecidos en los Capítulos 4-1 y 4-2 de esta Recopilación de Normas, en la propia moneda extranjera o bien por su equivalente en moneda chilena, de conformidad con las disposiciones que rigen al respecto.
+1.3.1.- Depósitos y captaciones.
 
-Por otra parte, de conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Titulo I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, se debe constituir un depósito en el Instituto Emisor por concepto de encaje equivalente al 20% de los créditos obtenidos del exterior, internados al amparo del Capítulo XIV del Título I del referido Compendio, autorizados y registrados a partir del 15 de junio de 1991, en la misma moneda extranjera en que se haya pactado la respectiva obligación.
+Por los depósitos y captaciones ya indicados, debe mantenerse el encaje y, cuando corresponda, la reserva técnica que les afecte, establecidos en los Capítulos 4-1 y 4-2 de esta Recopilación de Normas.
 
-Los depósitos de que trata el párrafo precedente, se deberán constituir dentro de los dos días hábiles bancarios siguientes a la fecha de liquidación de los correspondientes créditos, no devengarán intereses y su plazo de permanencia en el Instituto Emisor, para aquellas operaciones autorizadas y registradas entre el 15 de junio de 1991 y el 28 de mayo de 1992, incluidas aquellas cuyas solicitudes se hayan presentado al Banco Central de Chile hasta el 28 de mayo de 1992, será el siguiente:
+1.3.2.- Créditos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
-a) Noventa días, en el caso de financiamientos del exterior pactados a un plazo promedio inferior a noventa días.
+De conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, se debe constituir un depósito en el Instituto Emisor por concepto de encaje, por los créditos obtenidos del exterior, internados al amparo del Capítulo XIV del Título I del referido Compendio, en la misma moneda extranjera en que se haya pactado la respectiva obligación. El monto de dicho depósito debe ser equivalente a lo siguiente:
 
-b) Un plazo igual al plazo promedio del financiamiento, en los casos en que éste último sea superior a noventa días e inferior a un año.
+a) Un 20% para los créditos autorizados y registrados a partir del 15 de junio de 1991 cuyas solicitudes de registro se hayan presentado a más tardar el 18 de agosto de 1992.
 
-c) Un año, cuando el plazo promedio de la respectiva obligación sea superior a un año.
+b) Un 30% del respectivo crédito, para aquellos cuya solicitud de registro se presente al Instituto Emisor a partir del 19 de agosto de 1992.
 
-Cuando se trate de depósitos correspondientes a créditos cuyas solicitudes se presenten al Banco Central de Chile a partir del 2 9 de mayo de 1992, su permanencia en el Instituto Emisor será por el período de un año, cualquiera sea el plazo al que se haya pactado el crédito.
+Los depósitos de que se trata deben constituirse dentro de los dos días hábiles bancarios siguientes a la fecha de liquidación de los correspondientes créditos, no devengan intereses y deben mantenerse durante los plazos que se señalan a continuación:
 
-No obstante lo anterior, las instituciones financieras podrán optar por adquirir y retrovender los pagarés emitidos por el Banco Central de Chile de que trata el Anexo N° 5 del Capítulo XTV del Título I del Compendio de Normas de Cambios Internacionales, en lugar de constituir el encaje señalado en los dos párrafos precedentes.
+i) Al tratarse de créditos cuyas solicitudes de registro se hubieren presentado al Banco Central de Chile hasta el 28 de mayo de 1992, el plazo es igual a: (1) noventa días, en el caso de financiamientos del exterior pactados a un plazo promedio inferior a noventa días; (2) al plazo promedio del financiamiento, en los casos en que éste último sea superior a noventa días e inferior a un año; o (3) un año, cuando el plazo promedio de la respectiva obligación sea superior a un año
+
+ii) Cuando se trate de depósitos correspondientes a créditos cuyas solicitudes se presenten al Banco Central de Chile a partir del 29 de mayo de 1992, su permanencia en el Instituto Emisor será de un año, cualquiera sea el plazo al que se haya pactado el crédito.
+
+En sustitución del encaje señalado en este numeral, las instituciones financieras pueden optar por adquirir y retrovender los pagarés emitidos por el Banco Central de Chile de que trata el Anexo 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
 1.4. Liquidación en el mercado cambiario.
 
@@ -26462,15 +26466,11 @@ El Banco Central de Chile podrá aplicar una multa a las personas que hayan obte
 
 Los exportadores que contraten créditos del exterior para financiar sus exportaciones, deben registrar tales operaciones en el Banco Central de Chile, antes de su contratación.
 
-Las personas que reciban los referidos créditos, deberán constituir un depósito en el Banco Central de Chile por concepto de encaje, equivalente al 20% de dichos financiamientos. Estos depósitos no devengarán intereses y deberán efectuarse por intermedio de la empresa bancaria que realice la liquidación del crédito externo, el día hábil bancario siguiente a la fecha de dicha liquidación y en la misma moneda de la respectiva obligación. El plazo de permanencia de estos depósitos en el Instituto Emisor, en los casos en que las solicitudes de los créditos hayan sido presentadas al Banco Central de Chile hasta el 28 de mayo de 1992, será el siguiente:
+Los referidos créditos están afectos a un depósito por concepto de encaje, que debe constituirse en el Banco Central de Chile. El importe de ese depósito es igual al 20% del monto del respectivo financiamiento externo para aquellos créditos cuyas solicitudes hubieran sido presentadas al Instituto Emisor hasta el 18 de agosto de 1992 y de 30% para los que se presenten después de esa fecha. Estos depósitos no devengarán intereses y deberán efectuarse por intermedio de la empresa bancaria que realice la liquidación del crédito externo, el día hábil bancario siguiente a la fecha de dicha liquidación y en la misma moneda de la respectiva obligación. El plazo de permanencia de estos depósitos en el Instituto Emisor, será el siguiente.
 
-a) Noventa días, si el financiamiento del exterior fuere pactado a un plazo promedio inferior a 90 días.
+i) Al tratarse de créditos cuyas solicitudes de registro se hubieren presentado al Banco Central de Chile hasta el 28 de mayo de 1992, el plazo es igual a (1) noventa días, en el caso de financiamientos del exterior pactados a un plazo promedio inferior a noventa días; (2) al plazo promedio del financiamiento, en los casos en que éste último sea superior a noventa días e inferior a un año; o (3) un año, cuando el plazo promedio de la respectiva obligación sea superior a un año.
 
-b) Un plazo igual al plazo promedio del financiamiento, en los casos en que éste último sea superior a noventa días e inferior a un año.
-
-c) Un año, cuando el plazo promedio de la respectiva obligación sea superior a un año.
-
-Cuando se trate de depósitos correspondientes a créditos cuyas solicitudes se presenten al Banco Central de Chile a partir del 29 de mayo de 1992, su permanencia en el Instituto Emisor será por el período de un año, cualquiera sea el plazo al que se haya pactado el crédito.
+ii) Cuando se trate de depósitos correspondientes a créditos cuyas solicitudes se presenten al Banco Central de Chile a partir del 29 de mayo de 1992, su permanencia en el Instituto Emisor será de un año, cualquiera sea el plazo al que se haya pactado el crédito.
 
 La liquidación de las divisas provenientes de estos créditos podrá efectuarse en cualquier empresa bancaria, la que deberá informar de ella al Instituto Emisor mediante la respectiva Planilla de Ingreso.
 
