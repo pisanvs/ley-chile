@@ -1,0 +1,3 @@
+Por decreto MOP Nº 646 de fecha 29 de julio del 2004, se expropió el lote de terreno Nº 79, superficie 1.7645 m2, Rol Nº 609-14, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz - Yaquil, Rol I-730, Km. 0.00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietaria Norma del Carmen Giménez Miranda, ascendente a la cantidad de $3.652.174.-
+
+Fiscal del Ministerio de Obras Públicas.
