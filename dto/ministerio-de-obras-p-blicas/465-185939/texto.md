@@ -1,0 +1,3 @@
+Por decreto MOP Nº 465 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 11, superficie 1.070 m², rol de avalúo 396-22, comuna de Pitrufquén, para la obra "Camino Ruta S-65, Sector Pitrufquén-Ñancul Kms. 0,000 al 12,250" y se acordó el valor de indemnización con su propietario Nelson Belsazar Díaz Contreras, ascendente a la cantidad de $1.392.389.-
+
+Fiscal del Ministerio de Obras Públicas.
