@@ -1,0 +1,3 @@
+Por Resolución Nº 791, de 6 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 91001135, presentada por JOSE DARIO TRUJILLO, para un centro de cultivo ubicado en Sector Tey, Estero Castro, Comuna de Castro, Provincia de Chiloé X Región, conforme lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
