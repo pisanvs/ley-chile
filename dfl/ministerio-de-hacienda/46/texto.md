@@ -1,0 +1,1 @@
+Suprime la planta de funcionarios semifiscales de la Caja de Colonización Agrícola y crea en la misma planta de funcionarios fiscales; disposiciones acerca del cambio de la situación jurídica de estos empleados; incompatibilidad entre la condición de colono o parcelero de la Caja de Colonización Agrícola con la de funcionario de dicha Institución.
