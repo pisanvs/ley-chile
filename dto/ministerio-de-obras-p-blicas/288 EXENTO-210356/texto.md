@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº288 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº46, superficie 35 m², rol de avalúo Nº537-27, comuna de Río Bueno, para la obra "Camino Río Bueno-Crucero, Sector T-90-U y T-933, Tramo Km. 0,00000 a Km. 20,90000", X Región y se acordó el valor de la indemnización con su propietario Luis Andrés Uribe Alvarez y Otro, ascendente a la cantidad de $282.054.-
+
+Fiscal del Ministerio de Obras Públicas.
