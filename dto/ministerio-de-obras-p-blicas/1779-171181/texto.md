@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.779, de 28 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº37-A, para la obra:''Camino Acceso Norte a Concepción, VIII Región, Ramal Colector, Sector Rafael-Agua Amarilla, km.
+
+6.686.00 a Km. 8.788.00", Octava Región, que figura a nombre de Damián Gordo Moneo, rol de avalúo 602-1, comuna de Tomé, superficie 1.195 m2. La comisión de peritos integrada por los señores Pablo Carrillo Valenzuela, Ramón Jofré Soto y José Manuel Gálvez Alegría, fijó con fecha 10 de julio de 1998, el valor provisional de la indemnización en la cantidad de $215.100.- La indemnización se pagará al contado. La publicación se efectuá en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
