@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.455, de 10 de octubre de 2003, de esta Subsecretaría, prorrógase por 30 días, el plazo otorgado en el numeral 5.- de la resolución Nº2.141 de 2003, de esta Subsecretaría, que autorizó a MARITZA GLADYS MELO SOTO, para desarrollar actividades pesqueras de transformación, en la forma y lugar en que la mencionada resolución se indica.
+
+Valparaíso, 10 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
