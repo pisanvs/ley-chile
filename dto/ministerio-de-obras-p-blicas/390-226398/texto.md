@@ -1,0 +1,3 @@
+Por decreto MOP Nº 390 de 7 de mayo de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 13 para la obra: Mejoramiento Ruta 60-CH, sector Villa Dulce - Torquemada, Tramo Km. 0,00000 a Km. 10,47641, que figura a nombre de Inmob. e Inver. G. y A S.A., rol de avalúo 7022-20, comuna de Viña del Mar, V Región, superficie 419 m². La Comisión de Peritos, fijó con fecha 17 de noviembre de 2003, en la cantidad de $11.132.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
