@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.319, de fecha 31 de diciembre de 2002, se expropiaron los lotes de terreno Nºs 12-A, 12-B, 12-C, 12-D, 12-E y 12-F, superficie 265,50, 344, 387, 433, 604 y 172 M2, respectivamente, Rol Nº2023-299, comuna de Melipilla, Región Metropolitana, para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla- Bollenar, Km. 0,00000 a Km. 14,23039" y se acordó el valor de indemnización con su propietaria Ana María Lamarca Barros, ascendente a la cantidad de $11.890.574.-
+
+Fiscal del Ministerio de Obras Públicas.
