@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.701 de 26 de Agosto de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "Hijuela B o Los Nogales de la Hacienda Camarico" "Hijuela Segunda o Valle Hermoso de la Hacienda Santa Mariana" "Hijuela San Santiago" e Hijuela Segunda de Las Virginias de Camarico, de la comuna de Rengo, VI Región; y Derechos Aprovechamiento Aguas que corresponden a 21 parcelas N°s. 10 a la 30, sitios N°s. 9 al 17 del resto del Proyecto de Parcelación "Camarico" formado por predios señalados y otro. Los Derechos de Agua se extraen del Canal Apalta provenientes del Rio Cachapoal. Derrames del Fundo del Delirio, de los predios Los Nogales, Las Higueras y San Santiago; derrames del lado norte de Camarico, Aguas del desague del Deslinde Oriente de la Hacienda Santa Mariana, derrames y vertientes de la Hacienda La Esmeralda.
+
+Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
