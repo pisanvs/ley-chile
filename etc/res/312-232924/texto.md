@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 312, DE 2004
+
+Por resolución Nº 312, de 3 de noviembre de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región del Bío Bío, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº 306/2004, del mismo origen, para la instalación y operación de una Planta Revisora Clase AB, en la comuna de Talcahuano, una Planta Revisora Clase AB, en la comuna de Lota, una Planta Revisora Clase B, en la comuna de San Carlos y una Planta Revisora Clase B, en la comuna de Los Angeles, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región del Bío Bío y la concesionaria "Revisiones Bío Bío Limitada'', en la misma fecha indicada. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.-
+
+Dalton Campos Seguin, Secretario Regional Ministerial de Transportes y Telecomunicaciones, VIII Región del Bío Bío.
