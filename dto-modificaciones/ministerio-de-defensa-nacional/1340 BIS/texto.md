@@ -140,7 +140,7 @@ La infracción de los dispuesto en el artículo anterior, será sancionada confo
 
 #### Artículo 27
 
-Toda nave nacional o extranjera que se dirija a un puerto, avisara su llegada al capitán de puerto con cuatro horas de anticipación, por lo menos y en los puertos en que no exista estación radiotelegráfica lo avisará por intermedio de otras estaciones costeras con la debida prontitud, solicitando acusar recibo.
+Toda nave nacional o extranjera que se dirija a un puerto, avisara su llegada al capitán de puerto con veinticuatro horas de anticipación, por lo menos y en los puertos en que no exista estación radiotelegráfica lo avisará por intermedio de otras estaciones costeras con la debida prontitud, solicitando acusar recibo.
 
 En esta comunicación indicará: la hora probable de llegada; si conduce pasajeros; el número de ellos; el número de valijas de correspondencia para el puerto; el número de cuadrillas de obreros que va a necesitar para las faenas; clase de patente de sanidad que trae o si se ha presentado algún casos sospechosos durante la última navegación.
 
