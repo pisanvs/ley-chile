@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución No. 1.267, de 22 de Noviembre de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad conforme con el artículo 7° del Decreto Supremo No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, de las siguientes autorizaciones: a) Resolución No. 267, de 1982, de esta Subsecretaría, que autorizó a "Industrias de los Terminales Pesqueros de Santiago Limitada" "Interpez Ltda.", domiciliada en Santiago, para desarrollar actividades pesqueras de transformación. b) Resolución No. 60, de 1986, de esta Subsecretaría, que autorizó a Petropesca S.A., domiciliada en Santiago, para desarrollar actividades pesqueras de transformación. c)- Resolución No. 274, de 1986, de esta Subsecretaría, que autorizó a Sociedad Piscicultura Sangri-La Limitada, domiciliada en Santiago, para desarrollar actividades pesqueras de cultivo.
+
+Valparaíso, 22 de Noviembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
