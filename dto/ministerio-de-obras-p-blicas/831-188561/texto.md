@@ -1,0 +1,3 @@
+Por decreto MOP Nº831, de 31 de mayo de 2001, se expropió el lote de terreno Nº6, superficie 4.397 m2, Rol de Avalúo 866-99, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Troncal Sur. Tramo 1. Quinta Región y se acordó el valor de indemnización con su propietario José Orlando Bobadilla Mora, ascendente a la cantidad de $32.482.750.-
+
+Fiscal del Ministerio de Obras Públicas.
