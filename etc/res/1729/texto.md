@@ -1,0 +1,3 @@
+Por Resolución Nº 1.729, de 15 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95104026, presentada por MARITZA SUSANA AMPUERO OJEDA, para operar un centro de cultivo en Sector en la desembocadura del Río de la Máquina, Canal Quihua, comuna de Calbuco, provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 15 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
