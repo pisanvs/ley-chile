@@ -1,0 +1,3 @@
+Por decreto MOP Nº229, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº23, superficie 152 m², rol de avalúo 1024-25, comuna de Santa Cruz, para la obra "Camino Ruta I-50, Sector Nancagua - Santa Cruz, Tramo Km. 26,800 al Km. 42,321" y se acordó el valor de indemnización con su propietario Sucesión de don Luis Horacio Muñoz Muñoz, ascendente a la cantidad de $2.708.343.-
+
+Fiscal del Ministerio de Obras Públicas.
