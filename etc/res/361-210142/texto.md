@@ -1,0 +1,3 @@
+Por resolución Nº 361, de 31 de enero de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chorrillos, VI Región, individualizada en el artículo 1º del D.S. Nº 37 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE ALGUEROS Y BUZOS MARISCADORES EL CHORRILLO.
+
+Valparaíso, 31 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
