@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.526, de 29 de septiembre del 2000, se expropió el lote de terreno Nº22-2, superficie 932 m2., rol de avalúo 306-7, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector Enlace Purranque Poniente, Décima Región y se acordó el valor de indemnización con su propietario Nelson Eduardo Navarro Montenegro, ascendente a la cantidad de $2.991.508.
+
+Fiscal del Ministerio de Obras Públicas.
