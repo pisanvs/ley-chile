@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO ALCALDICIO Nº 718 EXENTO, DE 1998
+
+Decreto exento número 718, de 30 de abril 1998, Municipalidad Rancagua expropia: Resto del lote A uno o lote uno, rol avalúo 8041-38, deslindes: Norte, lote A cuatro en 307,50 metros, lote A dos en 183,50 metros y Avenida Uruguay en 39 metros, hoy en 524 metros Avenida República de Chile; Sur, en 523,40 metros población Hermanos Vera, hoy en 523,40 metros otros propietarios; Oriente, en 86 metros calle Isabel Palma, hoy en 33,40 metros Bombero Villalobos; Poniente, en 67,33 metros otros propietarios, hoy en 33,40 metros intersección calles Uruguay y Venus. Propietario Luis Roberto Araneda Aranda. Indemnización definitiva 5.247,44 U.F. pagaderas siguiente forma: a) 1749,14 U.F., equivalentes $24.883.615, día 15 mayo 1998; b) 3.498.3 U.F. dos cuotas iguales anuales, vencimiento 15 mayo 1999 y 15 mayo 2000, al valor U.F. momento pago. Expropiación artículo 29 Ley Nº 18.695, ensanche de Avenida República de Chile, tramo calles Bombero Villalobos intersección calle Uruguay y Venus.
+
+Darío Valenzuela Van Treek, Alcalde.- Pedro Retamal Acuña, Secretario Municipal (S).
