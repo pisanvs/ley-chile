@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 237, de fecha 28 de agosto de 1992, se expropió el lote de terreno No. 9, superficie 1.200 M2. rol de avalúo 179-5, Comuna de Coronel, para la obra Camino By Pass Coronel Lota Ruta 160, sector By Pass Coronel Lota y se acordó el valor de indemnización con su propietario Germán Segundo Millar Sánchez y otros, ascendente a la cantidad de $ 10.920.250.
+
+Fiscal del Ministerio de Obras Públicas.
