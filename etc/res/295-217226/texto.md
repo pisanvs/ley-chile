@@ -1,0 +1,5 @@
+DISPONEN EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+Resolución 295, 13 octubre 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle 8 Oriente Sitio 19, Rol de Avalúo Nº2754-19, comuna Chiguayante, superficie 414,10 m2 de terreno, y 99,10 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-16.548; de aparente dominio de Jaime Farina Saez y Otro, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Chiguayante, conforme artículo 51 ley 16.391 y D.L. Nº2.186. Comisión Peritos integrada por María Pamela Mac-Guire Acevedo, arquitecto, Víctor Felipe Toledo Quijada, arquitecto, y Roxana Cecilia Abarzúa Gajardo, ingeniero constructor, según informe de fecha 11 de septiembre de 2003, fijó monto provisional indemnización en $15.232.200.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
