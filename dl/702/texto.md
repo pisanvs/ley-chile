@@ -1,0 +1,37 @@
+FUSIONA LAS COMISIONES DE BIENESTAR DE LA SECRETARIA Y ADMINISTRACION GENERAL DEL MINISTERIO DEL INTERIOR Y DEL SERVICIO DE GOBIERNO INTERIOR
+
+Santiago, 21 de Octubre de 1974.- La H. Junta de Gobierno de la República de Chile ha acordado hoy promulgar lo siguiente:
+
+Núm. 702.- Considerando:
+
+1.- Que en la actualidad existen separadamente, las Comisiones de Bienestar del Personal de la Subsecretaría del Interior y del Servicio de Gobierno Interior, y se rigen por los decretos N°s. 166 y 510, de fechas 3 de Abril de 1962, y 10 de Octubre de 1963, respectivamente, ambos del Ministerio del Trabajo y Previsión Social, Subsecretaría de Previsión y funcionan en las dependencias del Ministerio del Interior;
+
+2.- Que la unificación en un solo Servicio de Bienestar para todo el personal indicado, permitirá contar con mayores recursos económicos y por ende otorgar mayores y nuevos beneficios, además de centralizar la información de orden contable con mayor expedición en la atención de sus afiliados;
+
+3.- Que, por otra parte, es conveniente dotar de un servicio de Bienestar para el personal que se desempeña en la Oficina de Presupuestos y Planificación del Ministerio del Interior, y
+
+Vistos: lo dispuesto en los decretos leyes N°s. 1, 98 y 128, de fechas 11 de Septiembre, 22 de Octubre y 16 de Noviembre de 1973, respectivamente, y 527, de 25 de Junio de 1974,
+
+la Junta de Gobierno ha acordado dictar el siguiente,
+
+Decreto ley:
+
+#### Artículo 1°
+
+Fusiónanse las Comisiones de Bienestar de la Secretaría y Administración General del Ministerio del Interior y del Servicio de Gobierno Interior, en un Servicio de Bienestar que se regirá por el Reglamento que para estos efectos dicte el Ministerio del Trabajo y Previsión Social.
+
+El Consejo de este Servicio será presidido por el Subsecretario del Interior, y su composición será determinada en el Reglamento.
+
+#### Artículo 2°
+
+A este Servicio de Bienestar podrán pertenecer también, los funcionarios de la Oficina de Presupuestos y Planificación y Oficina Nacional de Emergencia, ambas del Ministerio del Interior.
+
+#### Artículo transitorio
+
+Mientras se dicte el Reglamento correspondiente regirán los decretos del Ministerio del Trabajo y Previsión Social N°s. 166, de 3 de Abril de 1962, y 510, de 10 de Octubre de 1963, en todo lo que sea compatible con el presente decreto ley.
+
+Las discrepancias o dudas que pudieren surgir en la aplicación armónica de los dos decretos reglamentarios antes mencionados, serán resueltas por el Subsecretario del Interior.
+
+Anótese, regístrese en la Contraloría General de la República y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- César Benavides Escobar, General de División, Ministro del Interior.- Nicanor Díaz Estrada, General de Brigada Aérea, Ministro del Trabajo y Previsión Social.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Montero Marx, Subsecretario del Interior.
