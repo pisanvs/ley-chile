@@ -1,0 +1,3 @@
+Por resolución Nº 2.140, de 18 de octubre de 1999, de esta Subsecretaría, deniégase la solicitud presentada por PESQUERA MARBELLA S.A., para iniciar actividades pesqueras extractivas con la nave ''Marchigüe'', Matrícula 2282, en el litoral de la V a la X Regiones, en la captura de Anchoveta y Sardina común, de conformidad con lo dispuesto en el artículo 19 letra c) y e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
