@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 309, de 30 de abri1 de 1996, se expropiaron los lotes de terreno N°s. 22 y 23 superficies 125 M2 y 50 M2, rol de avalúo 244-023, comuna de Salamanca, para la obra Camino Salamanca Llimpo, Sector Km. 0.000 a Km. 14.495,40 y se acordó precio de indemnización con su propietario Pedro Antonio Pizarro Saavedra, ascendente a la cantidad de $277.907.
+
+Fiscal del Ministerio de Obras Públicas.
