@@ -1,0 +1,3 @@
+Por decreto MOP Nº395 de fecha 26 de febrero de 1999, se expropió el lote de terreno Nº118, superficie 1.063 m2., rol de avalúo 160-157 comuna de Pemuco, para la Obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector 1 Km. 440.611,50 al Km. 447.870,40'' VIII Región, y se acordó el valor de indemnización con su propietario Ramón Luis Riffo Mardones, la cantidad de $2.274.281.-
+
+Fiscal del Ministerio de Obras Públicas.
