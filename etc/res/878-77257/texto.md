@@ -1,0 +1,3 @@
+Por Resolución No. 878 de 10 de Septiembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 628, de 1988, de esta Subsecretaría, que autorizó a don JORGE ELIZARDO OJEDA ANDRADE, R.U.T. No. 5.765.200-4, domiciliado en la localidad de Lolcura, Comuna de Maullín X Región, para operar un establecimiento de cultivo, en el Sector de Lolcura, Isla Elisa Río Maullín, Provincia de Llanquihue, X Región, por renuncia de su titular, ya individualizado.
+
+Valparaíso, 10 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
