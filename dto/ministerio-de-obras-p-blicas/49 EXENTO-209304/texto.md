@@ -1,0 +1,5 @@
+Por decreto Exento MOP Nº49, de 26 de febrero de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº16-2, para la obra: "CONCESION INTERNACIONAL INTERCONEXION VIAL SANTIAGO - VALPARAISO - VIÑA DEL MAR. TRAMO 5. LAMINA ESPECIAL 2. KM. 27.740,00 A KM.
+
+30.300,00", Región Metropolitana, que figura a nombre de INVERSIONES CURACAVI LTDA, rol de avalúo 104-338, comuna de Curacavi, superficie 158 m2. La comisión de peritos integrada por los señores Carmen Pilar Ríos Marcuello, Eduardo Alejandro Silva Aracena y María Cristina Camus Palacios, fijó con fecha 6 de enero de 2003, el valor provisional de la indemnización en la cantidad de $331.460.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
