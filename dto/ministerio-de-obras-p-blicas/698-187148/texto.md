@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 698, de 30 de abril de 2001, se expropió el lote de terreno Nº 16-A, superficie 4.560 m2., rol de avalúo 141-150, comuna de Codegua, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca y Acceso Sur a Santiago. By Pass Rancagua, Sexta Región y se acordó el valor de indemnización con su propietaria Sociedad Frutícola Callejones Limitada, ascendente a la cantidad de $26.177.423.-.
+
+Fiscal del Ministerio de Obras Públicas.
