@@ -1,0 +1,3 @@
+Por R.M. (Ex) Nº 18, de 15 de marzo de 2001, del Ministerio de Economía, Fomento y Reconstrucción, acógese parcialmente el recurso de reclamación interpuesto por PESQUERA YELCHO S.A., en contra de las resoluciones Nº 167 y Nº 173, ambas de 2001, de la Subsecretaría de Pesca. Considérese en la determinación de su límite máximo de captura en la unidad de pesquería Merluza de tres aletas, la siguiente captura total de la embarcación en construcción autorizada por resolución Nº 2.420 de 2000, en el mes de junio de 2000: 0,100 toneladas.-
+
+José de Gregorio Rebeco, Ministro de Economía, Fomento y Reconstrucción.
