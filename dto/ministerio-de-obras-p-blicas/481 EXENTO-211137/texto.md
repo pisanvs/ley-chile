@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 481 de fecha 26 de mayo de 2003, se deja sin efecto el decreto MOP exento Nº 1107, de fecha 28 de junio de 2002, que afecta al lote de terreno Nº 25, de la obra "Camino Chovellen - Cobquecura, Sector Chovellen - Límite Regional, Tramo 18,260.00 a Km. 35,158.60", por cuanto la expropiación de dicho lote no es necesaria para los requerimientos de la obra.
+
+Fiscal del Ministerio de Obras Públicas.
