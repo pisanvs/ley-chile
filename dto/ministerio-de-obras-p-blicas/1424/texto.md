@@ -1,0 +1,5 @@
+Por decreto MOP. No.1.424, de 31 de agosto de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP. No.850, de 1997, que fijó el texto actualizado de la ley No.15.840 y del DFL. MOP.
+
+No.206, de 1960, se expropió el lote de terreno No.41-A, para la obra Camino Ruta 5 Norte, tramo Santiago - Los Vilos, Km. 87.215,00 al 91.370,00, Quinta Región, que figura a nombre de Barraza Núnez Gumercindo, rol de avalúo 151-72, comuna de Llay Llay, superficie 4.795 m². La comisión de peritos integrada por los señores Ismael Allendes Marín, María Cristina Ayala Muñoz y Jaime Joaquín Misael Riquelme Gutiérrez, fijó con fecha 15 de enero de 1998, el valor provisional de la indemnización en la cantidad de $ 29.740.881.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No.2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
