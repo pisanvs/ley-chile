@@ -1,0 +1,3 @@
+Por resolución Nº733, de 12 de abril de 2000, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº97103226, presentada por CULTIVOS MARINOS WYBORN LIMITADA, para operar un centro de cultivo ubicado en sector entre Punta Tanecuhe y Punta Coñao, isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 12 de abril de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
