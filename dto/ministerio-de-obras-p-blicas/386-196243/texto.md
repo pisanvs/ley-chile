@@ -1,0 +1,3 @@
+Por decreto MOP Nº 386 de fecha 25 de febrero del 2002, se expropiaron los lotes de terreno Nº 90-A y 91, superficies 8.222, 618 m2., Rol de Avalúo Nº 204-5, comuna de Panguipulli, para la obra "Camino CH-203, Sector Bifurcación Coñaripe Choshuenco (Acceso a Puentes), Km. 56,68000 a Km. 93,28612", X Región y se acordó el valor de indemnización con su propietario Sociedad Kanka Huasi Limitada, ascendente a la cantidad de $11.594.973.
+
+- Fiscal del Ministerio de Obras Públicas.
