@@ -1,0 +1,3 @@
+Por decreto exento Nº 562 de fecha 19 de agosto de 2003, se expropió el lote Nº 14, superficie de 786,19 m², Rol de Avalúo Nº 7-2, comuna de Coltauco, para el proyecto "Construcción Lotes con Servicio Coltauco Centro II Etapa", propietarios don Oscar Gastón Bravo Bravo y doña Mónica Ledermann Dehnhardt, ascendente a la suma de $5.110.235.-
+
+Coltauco, agosto 27 de 2003.- Beatriz del C. Caro Monsalve, Secretaria Municipal.
