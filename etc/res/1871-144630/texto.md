@@ -1,0 +1,3 @@
+Por resolución Nº 1.871, de 20 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96110149, presentada por SALMONES MULTIEXPORT LIMITADA, para operar un centro de cultivo ubicado en Seno Magdalena - Punta Krauss, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 20 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
