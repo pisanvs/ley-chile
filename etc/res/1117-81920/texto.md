@@ -1,0 +1,3 @@
+Por resolución N°. 1.117 de 02 de Septiembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la resolución N°. 927, de 1989, de esta Subsecretaría, por la cual se autorizó a PESQUERA MONTEMAR S.A., RUT N°. 96.502.580-4, domiciliada en Santiago, para operar la nave "Kuky", en el litoral y respecto de los recursos que allí se indican, en virtud de lo dispuesto en el artículo 6° del DS N°. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 02 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
