@@ -1,0 +1,3 @@
+Por Resolución N° 1.076 de 24 de Diciembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 863, de 1989, de esta Subsecretaría, que, autorizó a don JOSE FREDY VERA VERA, R.U.T. N° 6.514.665-7, para operar un establecimiento de cultivo del recurso alga del género Gracilaria spp., ubicado en Sector Punta Castillo, Río Maullín, Comuna de Maullín, X Región, por haberse caducado el Decreto Supremo de concesión marítima.
+
+Valparaíso, 24 de Diciembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
