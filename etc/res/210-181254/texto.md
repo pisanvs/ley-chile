@@ -1,0 +1,3 @@
+Por resolución Nº210, de 28 de enero de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº354, de 1983, de esta Subsecretaría, en cuanto autorizó a COMPAÑIA PESQUERA CAMANCHACA S.A. para operar con la nave ''Polarstrom'' respecto de los recursos Anchoveta, Agujilla, Jurel, Sardina española y Sardina común en el litoral de la I, II y XI Regiones y Anchoveta y Sardina española, en el litoral de la III y IV Regiones, de conformidad con la letra b) del artículo 143 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
