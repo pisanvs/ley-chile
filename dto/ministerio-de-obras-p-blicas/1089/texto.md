@@ -1,0 +1,3 @@
+Por Decreto MOP N°1.089, de 31 de octubre de 1997, se expropió el lote de terreno N° 8, superficie 3.640 m2, rol de avalúo 762-18, comuna de Renca para la obra Habilitación Segunda Calzada Avenida Américo Vespucio, sector Carretera Panamericana Norte-Sur y se acordó precio de indemnización con su priopietario Vital S.A., ascendente a la cantidad de $208.211.-
+
+Fiscal del Ministerio de Obras Públicas.
