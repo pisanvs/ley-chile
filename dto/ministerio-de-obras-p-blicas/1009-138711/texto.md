@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.009, de 29 de abril de 1999, se expropiaron los lotes de terreno No. s.2-A, 2-C, 2-D, 2-E y 2-F, superficies 252, 135, 126, 133 y 105 mý, respectivamente, rol de avalúo 169-10, comuna de Casablanca, para la obra Ruta F-830, Camino Casablanca-Las Dichas-Algarrobo, Sector Casablanca-Las Dichas y se acordó precio de indemnización con sus propietarios Cecilia Godoy, Rubén Godoy González, Héctor Godoy González, Sara Godoy González y Elvira Godoy González, ascendente a las cantidades de $ 1.111.214, $ 973.596, $ 640.129, $ 710.581 y $ 561.256.-
+
+Fiscal del Ministerio de Obras Públicas.
