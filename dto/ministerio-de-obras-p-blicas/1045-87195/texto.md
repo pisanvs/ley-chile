@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 1.045, de 24 de Octubre de 1997, se expropió el lote de terreno Nº 61, superficie 1.653 M2., rol de avalúo 2590-7, comuna de San Bernardo, para la Obra Estudio de Anteproyecto de Ingeniería para el Sistema Norte-Sur, Las Acacias-Río Maipo, y se acordó precio de indemnización con el propietario don Rafael Santiago Castro Navarro, ascendente a la cantidad de $46.191.452.
+
+Fiscal del Ministerio de Obras Públicas.-
