@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 475, de 30 de abril de 2001, se expropió el lote de terreno Nº 29, superficie 220 m², rol de avalúo 619-15, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Séptima Región y se acordó el valor de indemnización con su propietario José Domingo Inostroza Gutiérrez, ascendente a la cantidad de $962.418.-
+
+Fiscal del Ministerio de Obras Públicas.
