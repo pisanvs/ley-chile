@@ -1,0 +1,3 @@
+Por decreto MOP Nº404, de 30 de marzo de 2001, se expropió el lote de terreno Nº45-A4, superficie 171 m², rol de avalúo 88-6, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K: Séptima Región, y se acordó el valor de indemnización con su propietario Rolando del Carmen Cofré González, ascendente a la cantidad de $1.223.746.
+
+Fiscal del Ministerio de Obras Públicas.
