@@ -1,0 +1,3 @@
+Por Decreto MOP N° 1.209, de 30 de diciembre de 1997, se dejó si efecto el decreto N° 698 de 22 de noviembre de 1995, modificado por el decreto N° 224 de 14 de marzo de 1997, que se refiere a la expropiación del lote N° 2, que figura a nombre de Ricardo Marín Acuña y otros, destinado para la obra Programa de Tratamiento de A.S. del Gran Santiago, Planta de Tratamiento de A.S. Santiago Sur.-
+
+Fiscal del Ministerio de Obras Públicas.
