@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.089, de 30 de julio de 1999, se expropió el lote de terreno Nº80-1D, superficie 1.119,0 m2., rol de avalúo 205-7, comuna de Perquenco, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietario Rodolfo Juan Schurch Berg, ascendente a la cantidad de $1.729.068.-
+
+Fiscal del Ministerio de Obras Públicas.
