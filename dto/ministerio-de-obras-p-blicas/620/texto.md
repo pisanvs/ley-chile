@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 620, de 30 de junio de 1997, se expropiaron los lotes de terreno Nºs. 1 y 2, superficies 1.888 y 1.900 m2. respectivamente, rol de avalúo 60-48, comuna de Til-Til, para la obra Mejoramiento Integral del Servicio de Agua Potable para la Localidad de Til-Til y se acordó precio de indemnización con su propietaria Sara Grandón Letelier, ascendente a la cantidad de $4.182.470.-
+
+Fiscal del Ministerio de Obras Públicas.
