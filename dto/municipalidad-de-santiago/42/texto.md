@@ -1,0 +1,3 @@
+Decreto Secc. 2da. Nº 42, 24/01/97, Alcalde Municipalidad Santiago dispone expropiación parcial, conforme art. 85 Decreto 458 Ministerio Vivienda y Urbanismo inmueble Alonso Ovalle 1004-1094, Arturo Prat 121-125 Rol Nº 436-1, 436-2, 436-10 y 436-11, comuna Santiago, dominio aparente Corporación para el Desarrollo de Santiago, superficie aproximada 511,75 metros cuadrados. Deslindes Norte, 102,35 mts. Alonso Ovalle; Sur 102,35 mts. resto propiedad; Oriente, 5 mts. Arturo Prat y Poniente, 5 mts. San Diego. Indemnización $110.026.250., pagadera contado.
+
+Jaime Ravinet de la Fuente, Alcalde Santiago.
