@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución ministerial Nº32, de fecha 27 de marzo de 2003, se aprobó la reforma parcial al estatuto de la Cooperativa de Servicios de Dueños de Autobuses de Cautín Limitada, en los términos que da testimonio el Acta reducida a Escritura Pública con fecha 1 de agosto del año 2002, ante el Notario Público de la agrupación de comunas de Temuco, Padre Las Casas, Cunco, Vilcún, Freire y Melipeuco, señora Mónica Leonor Toledo Reyne, suplente del titular Marcelo Gay Pasche, repertorio Nº2027, la que fuera complementada con fecha 23 de febrero de 2003, ante el Notario Público de la agrupación de comunas de Temuco, Padre Las Casas, Cunco, Vilcún, Freire y Melipeuco, señor Vicente Villarroel Ramírez, suplente del titular Marcelo Gay Pasche, repertorio número 223.
+
+Por orden del Sr. Subsecretario, Raúl Oliva Camadro, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
