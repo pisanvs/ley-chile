@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.390, de 29 de octubre de 1999, se expropió el lote de terreno Nº 97, superficie 7.972,0 m², rol de avalúo 3367-9, comuna de Padre Las Casas, para la obra Concesión Internacional Ruta 5, Tramo Collipulli-Temuco, Novena Región, y se acordó el valor de indemnización con su propietario Leonidas Moraga Barría, ascendente a la cantidad de $16.283.540.
+
+- Fiscal del Ministerio de Obras Públicas.
