@@ -1,0 +1,3 @@
+Por decreto MOP Nº 545, de 28 de febrero del 2000, se expropió el lote de terreno Nº 45, superficie 142 m², rol de avalúo 113-70, comuna de Malloa, para la obra Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector G: Sexta Región y se acordó el valor de indemnización con su propietaria María Eva Cáceres Labra, ascendente a la cantidad de $1.572.300.-
+
+Fiscal del Ministerio de Obras Públicas.
