@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.813 de 30 de diciembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijo el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 29, 33-A y 34; para la Obra: Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli, Sector 1: Km. 423.646,00 al 427.251,20, Octava Región, que figuran a nombre de Joublan Millan Jean Paul Denis, rol de avalúo 335-14, comuna de Bulnes, superficies de 10.487 m², 3.634 m² y 1.568 m², respectivamente. La Comisión de Peritos integrada por los señores Ramón Jofré Soto, Pablo Carrillo V. y José Manuel Gálvez Alegría, fijó con fecha 14 de agosto de 1998, el valor provisional de las indemnizaciones en las cantidades de $60.913.000.- para el lote 29, $7.293.000.- para el lote 33-A y
+
+$3.247.000.- para el lote 34. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
