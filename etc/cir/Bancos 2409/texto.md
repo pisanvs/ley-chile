@@ -21364,13 +21364,25 @@ a) Monto mínimo de US$ 10.000,00.
 
 b) Pago de intereses por períodos mensuales, trimestrales, semestrales o anuales, según se haya autorizado en la respectiva solicitud de inscripción.
 
-1.3. Encaje y reserva técnica de los depósitos y captaciones del exterior.
+1.3. Encaje y reserva técnica de los depósitos, captaciones y créditos del exterior.
 
 Por los depósitos y captaciones ya indicados, debe mantenerse el encaje y la reserva técnica que les afecte, establecidos en los Capítulos 4-1 y 4-2 de esta Recopilación de Normas, en la propia moneda extranjera o bien por su equivalente en moneda chilena, de conformidad con las disposiciones que rigen al respecto.
 
+Por otra parte, de conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Titulo I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, se debe constituir un depósito en el Instituto Emisor por concepto de encaje equivalente al 20% de los créditos obtenidos del exterior, internados al amparo del Capítulo XIV del Título I del referido Compendio, autorizados y registrados a partir del 15 de junio de 1991, en la misma moneda extranjera en que se haya pactado la respectiva obligación.
+
+Los depósitos de que trata el párrafo precedente, se deberán constituir dentro de los dos días hábiles bancarios siguientes a la fecha de liquidación de los correspondientes créditos, no devengarán intereses y su plazo de permanencia en el Instituto Emisor será el siguiente:
+
+a) Noventa días, en el caso de financiamientos del exterior pactados a un plazo promedio inferior a noventa días.
+
+b) Un plazo igual al plazo promedio del financiamiento, en los casos en que éste último sea superior a noventa días e inferior a un año.
+
+c) Un año, cuando el plazo promedio de la respectiva obligación sea superior a un año.
+
+No obstante lo anterior, las instituciones financieras podrán optar por adquirir y retrovender los pagarés emitidos por el Banco Central de Chile de que trata el Anexo N° 5 del Capítulo XTV del Título I del Compendio de Normas de Cambios Internacionales, en lugar de constituir el encaje señalado en los dos párrafos precedentes.
+
 1.4. Liquidación en el mercado cambiario.
 
-Una vez recibido el importe del crédito, depósito o captación del exterior, la institución beneficiaría procederá a liquidarlo en el mercado cambiario formal dentro de un plazo no superior a los 15 días hábiles siguientes, contados desde la fecha en que comenzó a devengar intereses. El importe liquidado debe corresponder al monto del crédito, depósito o captación, deducido el encaje, en los casos en que corresponda.
+Una vez recibido el importe del crédito, depósito o captación del exterior, la institución beneficiaría procederá a liquidarlo en el mercado cambiario formal en la misma fecha en que se ingresen las divisas al país. El importe liquidado debe corresponder al monto del crédito, depósito o captación, deducido el encaje, en los casos en que corresponda.
 
 Inmediatamente de realizada esa liquidación, la institución que la haya cursado la comunicará al Banco Central de Chile en las correspondientes Planillas de Operación de Cambios-Comercio Invisible-Ingresos.
 
@@ -21786,9 +21798,15 @@ Haber: "Depósitos y captaciones del exterior-Acuerdo 1396", la que se refleja e
 
 a) Moneda extranjera.
 
-Debe: - "Conversión Créditos Externos-Acuerdo 1196" de la partida 2510 ó 4510 del MB1.
+Debe: - "Conversión Créditos Externos-Acuerdo 1196", de la partida 2510 ó 4510.
 
-Haber: - "Conversión Mercado Bancario", de la partida 2505 ó 4505 del MB1. Las sociedades financieras deben abonar la cuenta en la cual mantengan disponible el importe que liquiden.
+- "Depósito por encaje de créditos del exterior", de la partida 1770, por la constitución del encaje en el Banco Central de Chile.
+
+Haber: - "Conversión Mercado Bancario", de la partida 2505 ó 4505. Las sociedades financieras deben abonar la cuenta en la cual mantengan disponible el importe que liquiden.
+
+- La cuenta que corresponda por el giro para enterar el encaje en el Banco Central de Chile.
+
+Cuando se rescate el depósito del Banco Central de Chile, se revertirá la cuenta respectiva y se procederá a liquidar dicho importe, en los casos que proceda.
 
 b) Moneda chilena.
 
@@ -21973,6 +21991,10 @@ Haber: La cuenta en que se mantenga disponible el importe en moneda extranjera.
 4.14. Ajuste de la cuenta "Cambio Créditos Externos-Acuerdo 1196".
 
 Las instituciones financieras deben ajustar el saldo de la cuenta "Cambio Créditos Externos-Acuerdo 1196", en la forma prevista en la Circular N° 1.892-343, de 3 de marzo de 1983, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio que ordene esta Superintendencia.
+
+4.15. Descuento en la retroventa de pagarés del Banco Central de Chile.
+
+El descuento que el Banco Central de Chile aplique en la retroventa de los pagarés de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, será registrado por las instituciones financieras en la cuenta "Diferencias de precio por retroventa de pagarés sustitutivos de encaje", de la partida 5610.
 
 ### 5. Límites que afectan a estas operaciones
 
@@ -28226,17 +28248,33 @@ Los anticipos que reciban los exportadores de sus compradores del exterior, se l
 
 La institución bancaria que liquide estos anticipos deberá emitir la correspondiente Planilla de Ingreso Comercio Visible, de acuerdo con las instrucciones que al respecto ha impartido el Banco Central de Chile.
 
-1.2. Pago de los anticipos que se efectúen dentro de 180 días desde su liquidación.
+1.2. Obligación de efectuar embarques.
 
-El pago de los anticipos de compradores del exterior por los cuales no se hayan efectuado embarques de mercaderías, que se haga dentro de los 180 días siguientes a su respectiva liquidación, sólo podrá realizarse con divisas cuya adquisición no se efectúe en el mercado cambiario formal.
+Las personas que obtengan estos anticipos estarán obligadas a realizar embarques de mercaderías, dentro de los 180 días contados desde la fecha de liquidación en el mercado cambiario formal, de las divisas provenientes de estos financiamientos.
 
-El referido pago deberá comunicarse por escrito al Banco Central de Chile, dentro de los cinco días hábiles bancarios siguientes a la fecha en que éste se curse.
+1.3. Aplicación o devolución de los anticipos.
+
+Los anticipos de compradores deberán ser aplicados como retornos de exportaciones, dentro de un plazo de 90 días contados desde la fecha de aceptación a trámite de la Declaración de Exportación del correspondiente embarque.
+
+Los anticipos de compradores por los que no se realicen embarques de mercaderías, podrán ser pagados con divisas adquiridas en el mercado cambiario formal.
+
+1.4. Sanción por no embarcar.
+
+El Banco Central de Chile podrá aplicar una multa a las personas que hayan obtenido anticipos de compradores del exterior y no efectúen embarques de mercaderías por tales operaciones o los efectúen sólo por una parte de dichos financiamientos o los realicen fuera de plazo.
 
 ### 2. Créditos externos
 
 2.1. Registro y liquidación.
 
 Los exportadores que contraten créditos del exterior para financiar sus exportaciones, deben registrar tales operaciones en el Banco Central de Chile, antes de su contratación.
+
+Las personas que reciban los referidos créditos, deberán constituir un depósito en el Banco Central de Chile por concepto de encaje, equivalente al 20% de dichos financiamientos. Estos depósitos no devengarán intereses y deberán efectuarse por intermedio de la empresa bancaria que realice la liquidación del crédito externo, el día hábil bancario siguiente a la fecha de dicha liquidación y en la misma moneda de la respectiva obligación. El plazo de permanencia de estos depósitos en el Instituto Emisor será el siguiente:
+
+a) Noventa días, si el financiamiento del exterior fuere pactado a un plazo promedio inferior a 90 días.
+
+b) Un plazo igual al plazo promedio del financiamiento, en los casos en que éste último sea superior a noventa días e inferior a un año.
+
+c) Un año, cuando el plazo promedio de la respectiva obligación sea superior a un año.
 
 La liquidación de las divisas provenientes de estos créditos podrá efectuarse en cualquier empresa bancaria, la que deberá informar de ella al Instituto Emisor mediante la respectiva Planilla de Ingreso.
 
@@ -28248,7 +28286,7 @@ Los bancos podrán vender a los exportadores las divisas necesarias para el pago
 
 Los exportadores que hayan liquidado créditos externos según lo indicado en el numeral 2.1 precedente, podrán devolver el capital e intereses de estos créditos a sus acreedores extranjeros, previa autorización del Banco Central de Chile. El pago de estos créditos podrá hacerse antes del vencimiento pactado, siempre que se realice con la liquidación de divisas correspondientes a retornos de exportación.
 
-Con todo, el pago de los créditos externos, por los cuales no se hayan efectuado embarques de mercaderías, que se haga dentro de los 180 días contados desde la fecha de su liquidación, sólo podrá realizarse con divisas cuya adquisición no se efectúe en el mercado cambiario formal. En estos casos, el referido pago deberá ser comunicado por escrito al Banco Central de Chile dentro de los cinco días hábiles bancarios contados desde la fecha en que éste se efectúe.
+El pago de los créditos externos, por los cuales no se hayan efectuado embarques de mercaderías, podrá realizarse con divisas adquiridas en el mercado cambiario formal.
 
 ### III. FINANCIAMIENTOS INTERNOS
 
@@ -28264,7 +28302,7 @@ La institución bancaria que liquide un crédito interno de exportación deberá
 
 El pago de los créditos internos podrá efectuarse antes de su vencimiento si se realiza con la liquidación de divisas provenientes de retornos de exportación.
 
-En todo caso, el pago de los créditos internos, por los cuales no se hayan efectuado embarques de mercaderías, que se haga dentro de los 180 días contados desde la fecha de su liquidación, sólo podrá realizarse con divisas cuya adquisición no se efectúe en el mercado cambiario formal. El referido pago deberá ser comunicado por escrito al Banco Central de Chile dentro de los cinco días hábiles bancarios contados desde la fecha en que éste se efectúe.
+El pago de los créditos internos, por los cuales no se hayan efectuado embarques de mercaderías, podrá realizarse con divisas adquiridas en el mercado cambiario formal.
 
 ### 3. Intereses
 
