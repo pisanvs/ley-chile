@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 135, de 14 de Mayo de 1985, se expropió el lote de terreno Nº 2, para Agua Potable de Cauquenes, que figura a nombre de don Gabriel Araya Gavilán, rol avalúo 404-10, superficie 4.874 m2., comuna de Cauquenes, VII Región. La Comisión de Peritos compuesta por los señores Emilio Kort Micaly, Renato Guerra Estévez y René Ramírez Valenzuela, fijó con fecha, 24 de Octubre de 1983, el valor provisional de la indemnización en la cantidad de $ 146.220. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
