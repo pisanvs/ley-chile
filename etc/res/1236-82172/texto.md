@@ -1,0 +1,5 @@
+Por resolución N°. 1.236, de 04 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a PESQUERA ISLA DEL REY S.A., RUT N°. 96.545.810-7, domiciliada en Santiago, para ampliar actividades pesqueras extractivas, en orden a operar las embarcaciones "Carlos V" y "Fernando VI", autorizadas por resolución N°. 1139, de 1989, de esta Subsecretaría, en el litoral de las Regiones III a X, con enmalle, el recurso hidrobiológico que se indica: Albacora o pez espada.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de Septiembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
