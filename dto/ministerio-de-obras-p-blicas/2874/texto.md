@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.874, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 4-A, 5, 6, 11, 15 y 19, superficies 610, 191, 107,50, 31, 78 y 186 M2., respectivamente, roles de avalúos en trámite, comuna de Montepatria, obra Camino Ruta D-55, sector Pte. La Ligua-Bif. San Lorenzo, Variante Chañaral Alto y se acordó precio de indemnización con sus propietarios Sociedad Agrícola Osvaldo Lagunas y Compañía Ltda., Jaime Valenzuela Véliz y otro y Delia Flores Villalobos, ascendente a las cantidades de $2.544.935, lotes 4-A, 5 y 6; $364.740, lotes 11 y 15 y $1.078.945, lote 19.
+
+Fiscal del Ministerio de Obras Públicas.
