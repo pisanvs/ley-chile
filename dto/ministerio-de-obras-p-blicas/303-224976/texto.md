@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 303, de 30 de abril de 1996, se expropió el lote de terreno N° 33, superficie 414 M2., rol de avalúo 220-81, comuna de San Javier, para la obra Camino Ruta 5, Longitudinal Sur, sector San Javier Parral I, Tramo A y se acordó precio de indemnización con sus propietarios Luis Naranjo Bustos y otro, ascendente a la cantidad de $4.793.868.
+
+Fiscal del Ministerio de Obras Públicas.
