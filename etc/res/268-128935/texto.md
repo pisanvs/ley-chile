@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA PLAYA BLANCA LTDA. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución N° 268, de 8 de Octubre de 1982, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Playa Blanca Ltda. para utilizar como materia prima en la planta de congelado autorizada por resolución 144, de 1982, además los siguientes recursos que adquirirá a pescadores artesanales de la III Región: tollo, machuelo, dorado, palometa, congrio negro, congrio colorado, cojinova, albacora, pejerrey, lenguado, vieja, merluza común, pejegallo, corvina, pejezorro, apañado, pejeperro, bilagay, cabrilla, rollizo, jergilla, anguila, loco y ostión.
+
+Santiago 8 de Octubre de 1982.- Alvaro Bardón Muñoz, Subsecretario de Economía, Fomento y Reconstrucción y subrogante de Pesca.
