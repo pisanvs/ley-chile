@@ -1,0 +1,3 @@
+Por Resolución Nº 117, de 23 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las resoluciones Nº 1.114, Nº 1.115 y Nº 1.116, todas de 1994, de esta Subsecretaría, que autorizaron a PESQUERA SANTA LUCIA S.A., para ampliar actividades pesqueras extractivas, con las naves "Marleen", "Orka" y "Walvis", por no haber iniciado operaciones dentro del plazo autorizado, esto es, antes del 29 de diciembre de 1996, verificándose la causal de caducidad prevista en el artículo 143 letra b), de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 23 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
