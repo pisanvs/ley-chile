@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº754, de 30 de mayo de 2002, se expropió el lote de terreno Nº142-A, superficie 208 m², rol de avalúo 68-114, comuna de Teno, VII Región, para la obra ''Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, Km. 0,22000 al 25,00000'' y se acordó el valor de indemnización con su propietario don Hernán del Carmen Calquín Morales, ascendente a la cantidad de $530.556.-
+
+Fiscal del Ministerio de Obras Públicas.
