@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.361, de 31 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, de 1964 y el DFL MOP.
+
+No. 206, de 1960, se expropiaron los lotes de terreno No. s. 1 y 2, para la obra Ruta 5, Tramo Talca - Chillán, Solución Bifurcación Los Pequenes, que figuran a nombre de Guti‚rrez Saldana Luis Alberto, rol de avalúo 838-17, Comuna de Parral, VII Región, superficies 393 y 1.481 m2 , respectivamente. La Comisión de Peritos compuesta por los señores Jorge Brito Obreque, Iván Correa Opazo y Luis Hugo Villarroel Urbina, fijó con fecha 18 de mayo de 1998, el valor provisional de las indemnizaciones en las cantidades de $ 596.000, para el lote No. 1 y $ 1.184.800, para el lote No. 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
