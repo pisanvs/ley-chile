@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2.028 de fecha 28 de diciembre del 2001, se expropió el lote de terreno Nº70, superficie 3.475,00 m2, Rol de Avalúo Nº536-26, comuna de Río Bueno, para la obra "Camino Río Bueno - Crucero, Sector T-90-U y T-933, Tramo Km. 0,00000 a Km. 20,90000", X Región y se acordó el valor de indemnización con su propietaria Sonia Erica Amanda Heinrich Heinrich, ascendente a la cantidad de $2.051.893.-
+
+Fiscal del Ministerio de Obras Públicas.
