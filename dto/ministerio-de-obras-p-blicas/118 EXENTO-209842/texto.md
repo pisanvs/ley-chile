@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 118 de 28 de marzo de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 57-B para la obra: Camino Fresia - Parga - Llico - Las Cañitas, Rol V-46, Km.
+
+14.835 a Km. 48.580, que figura a nombre de Vera Ojeda José Caciano, rol de avalúo 164-77, comuna de Fresia, X Región, superficie 180 m2. La Comisión de Peritos, fijó con fecha 10 de julio de 1998, complementada por acta de fecha 26 de agosto de 1999, el monto de la indemnización provisional en la cantidad de $54.000.- para el lote Nº57-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
