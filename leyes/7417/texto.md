@@ -1,0 +1,1 @@
+Autoriza ceder a la Sociedad Constructora de Establecimientos Educacionales el terreno que indica y cuyos límites señala, ubicado en San Francisco de Limache.
