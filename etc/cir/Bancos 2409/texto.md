@@ -2174,6 +2174,8 @@ b) Los siguientes documentos emitidos por el Banco Central de Chile:
 
 - Cupones de emisión reajustables opcionales (C.E.R.O.) en dólares.
 
+- Bonos del Banco Central de Chile en Pesos (BCP), en Unidades de Fomento (BCU) y expresados en Dólares de los Estados Unidos de América (BCD).
+
 c) Pagarés emitidos por la Tesorería General de la República, correspondientes a emisiones seriadas de instrumentos de oferta pública.
 
 d) Bonos de la deuda interna y cualquiera otra clase de documentos representativos de obligaciones del Estado o de sus instituciones o garantizados por aquél o éstas.
@@ -21074,31 +21076,31 @@ d) Los trabajos especiales de que se trata podrán ser remunerados con cargo a e
 
 ANEXO N°1
 
-FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA.
+FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
 
 Número de
 
-Inscripción * Nombre de la empresa.
+Inscripción* Nombre de la empresa
 
-002 PRICEWATERHOUSECOOPERS CONSULTORES, AUDITORES Y COMPAÑÍA LIMITADA.
+002 PRICE WATERHOUSE, CONSULTORES, AUDITORES Y CIA LTDA.
 
-005 DELOITTE Y TOUCHE SOCIEDAD DE AUDITORES Y CONSULTORES LIMITADA.
+005 DELOITTE & TOUCHE SOCIEDAD DE AUDITORES Y CONSULTORES LIMITADA
 
-008 JERIA Y ASOCIADOS, AUDITORES CONSULTORES LIMITADA.
+008 JERIA Y ASOCIADOS, AUDITORES CONSULTORES LIMITADA
 
-010 ERNST Y YOUNG (CHILE) AUDITORES - CONSULTORES LIMITADA.
+010 ERNST & YOUNG (CHILE) AUDITORES - CONSULTORES LIMITADA
 
-014 SURLATINA Y HORWATH AUDITORES LIMITADA.
+014 SURLATINA & HORWATH AUDITORES LIMITADA
 
 017 GRANT THORNTON INTERNATIONAL AUDITORES CONSULTORES S.A.
 
-019 ARTECUR ANDERSEN - LANGTON CLARKE, AUDITORES Y CONSULTORES LTDA.
+019 LANGTON CLARKE, AUDITORES Y CONSULTORES LTDA.
 
 020 CGA AUDITCORP LTDA.
 
-021 G Y AUDITORES CONSULTORES LTDA.
+021 G & V AUDITORES CONSULTORES LTDA.
 
-* Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
+Se incluyen solo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
 
 CAPITULO 20-1 (Bancos y Financieras)
 
