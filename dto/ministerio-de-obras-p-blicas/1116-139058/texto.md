@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.116, de 30 de abril de 1999, se expropiaron los lotes de terreno Nºs. 17-B y 41-B, superficies 326 m2. y 328 m2., rol de avalúo 337-10, comuna de Peñaflor, para la obra Camino Autopista Santiago - San Antonio, Sector Enlace Malloco, Región Metropolitana y se acordó el valor de indemnización con su propietario Roberto Azócar Plaza, ascendente a la cantidad total de $12.696.074.
+
+Fiscal del Ministerio de Obras Públicas.
