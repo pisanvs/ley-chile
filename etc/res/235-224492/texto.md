@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 235, 8 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 1872 B. Norte, Rol de Avalúo Nº 763-11, comuna Concepción, superficie 18,72 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-18363; de aparente dominio de Inversiones e Inmob. San Pedro Ltda., para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Leonardo Fasce Casanueva, arquitecto, Mario Bellolio Bosticca, arquitecto, e Italo Zerga Arancibia, constructor civil, según informe de fecha 4 de marzo de 2004, fijó monto provisional indemnización en $3.520.480.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
