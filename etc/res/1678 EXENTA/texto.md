@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DE IVA A SERVICIOS E INVERSIONES CARGILL LIMITADA
+
+La Dirección Reg. Metrop. Santiago Oriente del S.I.I., por Resolución N° Ex. 1.678 de 1996, otorga a contar del 1° del mes siguiente al de esta publicación a Servicios e Inversiones Cargill Limitada, RUT N° 78.743.790-7 la calidad de Agente Retenedor de IVA establecido en la Resolución N° Ex. 5.024 de la Dirección Nacional publicada en el Diario Oficial del día 22.11.94.
