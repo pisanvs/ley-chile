@@ -1,0 +1,5 @@
+Por Resolución No. 149, de 24 de Febrero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA Y CONSERVERA EL ANCLA Y CIA. LTDA., RUT. No. 79.698.840-1, domiciliada en Calbuco, Avenida Brasil No. 65, para ampliar actividades pesqueras de transformación, autorizadas por Resolución No. 174, de 1989, de esta Subsecretaría, en orden a incorporar y procesar en la planta industrial. ubicada en Avda. Brasil No. 65, Calbuco. Provincia de Llanquihue, en las líneas de elaboración de congelado y conserva, el recurso hidrobiológico denominado Navaja de mar o Huepo. Deberá adquirir el recurso a terceros que operan en la VIII y XI Región.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 24 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
