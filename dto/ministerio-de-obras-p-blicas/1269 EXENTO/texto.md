@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.269, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº5B-1, superficie 454 m2., rol de avalúo Nº593-5, comuna de Yungay, para la obra "Area de Riego Yungay, Canal Huencheco Faja Adicional Km. 1,523 al Km. 3,632.36 del Proyecto Laja Diguillín", y se acordó el valor de indemnización con su propietario José Miguel Manríquez Chavarría, ascendente a la cantidad de $254.720.-
+
+Fiscal del Ministerio de Obras Públicas.
