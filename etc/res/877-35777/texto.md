@@ -1,0 +1,3 @@
+Por Resolución N° 877 de 21 de Septiembre de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1247, de 1989, de esta Subsecretaría, que autorizó a don GUILLERMO PINTO BASCUÑAN, para operar un establecimiento de cultivo, en un sector del Río Pudeto, comuna de Ancud, provincia de Chiloé, X Región, por haberse caducado la concesión marítima de acuicultura.-
+
+Valparaíso, 21 de Septiembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
