@@ -662,7 +662,7 @@ El primer inciso dispone que cuando se establezcan suplentes, éstos serán de u
 
 El efecto que produce la vacancia de un director titular o de éste y de su suplente en su caso, de acortar el período de todo el directorio, dispuesto por el inciso final, no se aplica ni a los bancos ni las sociedades financieras debido a que existe norma especial sobre directores provisionales en el artículo 42 de la Ley General de Bancos aplicable a todas las instituciones financieras.
 
-Finalmente, este artículo es complementario de la Ley General de Bancos, tanto para bancos como para sociedades financieras que tengan directores suplentes, en cuanto establece el derecho de éstos a participar en las sesiones con derecho a voz y les concede derecho a voto solo cuando falta el titular. En Anexo N° 1 de este capítulo se transcribe un dictamen de esta Superintendencia acerca de los derechos de los directores suplentes.
+Finalmente, este artículo es complementario de la Ley General de Bancos, tanto para bancos como para sociedades financieras que tengan directores suplentes, en cuanto establece el derecho de éstos a participar en las sesiones con derecho a voz y les concede derecho a voto solo cuando falta el titular, es decir, cuando el suplente reemplaza o entra a ocupar una vacante. En ningún caso podría votar con motivo de la abstención de un titular que asiste a la reunión.
 
 #### Artículo 33
 
@@ -690,9 +690,9 @@ La reserva que establece este artículo es aplicable a bancos y sociedades finan
 
 #### Artículo 44
 
-La Ley General de Bancos establece en su artículo 84 N° 4 una restricción a las operaciones de crédito que una institución financiera puede realizar con sus trabajadores. Asimismo, prohibe a dichas entidades conceder, directa o indirectamente, créditos a un director o a cualquiera persona que se desempeñe en ella como apoderado general, todo lo cual ha sido comentado en el Capítulo 12-5 de esta Recopilación, en la Circular N° 2.221-644, de 27 de noviembre de 1986 y en la Carta Circular N° 27-24 de 11 de marzo de 1987. Las demás operaciones bancarias y financieras no tienen restricción legal para los directores o empleados de un banco o sociedad financiera en la Ley General de Bancos.
+La Ley General de Bancos establece en su artículo 84 N° 4 una restricción a las operaciones de crédito que una institución financiera puede realizar con sus trabajadores. Asimismo, prohíbe a dichas entidades conceder, directa o indirectamente, créditos a un director o a cualquiera persona que se desempeñe en ella como apoderado general, todo lo cual se encuentra tratado en los Capítulos 12-5 y 12-12 de esta Recopilación. Las demás operaciones bancarias y financieras no tienen restricción legal para los directores o empleados de un banco o sociedad financiera en la Ley General de Bancos.
 
-Por ello, el artículo 44 y sus consecuencias en el artículo 42 N° 5, sólo tienen aplicación en los casos de otros actos o contratos que no san propiamente operaciones bancarias, que los directores del banco o sociedad financiera, sus parientes, sus mandantes, o las sociedades de que formen parte, realicen con la institución financiera. Por ejemplo, se aplicará lo dispuesto en ese precepto a un director que venda una propiedad al banco, a la cónyuge de un director que compre un automóvil a la misma empresa, a una sociedad de la que un director forme parte o tenga participación y que celebre un contrato de construcción con el banco, etc. Pero, si se trata de que un director o las sociedades de que forme parte depositen o abran cuenta corriente en el banco o para que tales sociedades le encomienden cobranzas o le den mandato de comisiones de confianza, no sera necesario cumplir con el artículo 44 de la Ley N° 18.046. En Anexo N° 4 se da a conocer un dictamen sobre esta materia.
+Por ello, el artículo 44 y sus consecuencias en el artículo 42 N° 5, sólo tienen aplicación en los casos de otros actos o contratos que no san propiamente operaciones bancarias, que los directores del banco o sociedad financiera, sus parientes, sus mandantes, o las sociedades de que formen parte, realicen con la institución financiera. Por ejemplo, se aplicará lo dispuesto en ese precepto a un director que venda una propiedad al banco, a la cónyuge de un director que compre un automóvil a la misma empresa, a una sociedad de la que un director forme parte o tenga participación y que celebre un contrato de construcción con el banco, a una agencia de valores perteneciente a un director o gerente en que éste tenga intereses, que realice operaciones de compra o venta de valores mobiliarios por intermedio o con el agente de valores, etc. Pero, si se trata de que un director o las sociedades de que forme parte depositen o abran cuenta corriente en el banco o para que tales sociedades le encomienden cobranzas o le den mandato de comisiones de confianza, no sera necesario cumplir con el artículo 44 de la Ley N° 18.046.
 
 #### Artículo 45
 
@@ -818,7 +818,7 @@ Los dividendos no cobrados en bancos y sociedades financieras no se rigen por es
 
 ARTICULOS 86 a 93. Se aplican estos artículos a las sociedades filiales que excepcionalmente pueden tener los bancos, sin perjuicio de las normas especiales que puedan dictarse para ellas en los casos en que la Ley autoriza.
 
-En todo caso, las normas sobre consolidación de los balances de las filiales bancarias serán las que fije esta Superintendencia en uso de sus atribuciones propias. En anexo N° 3 se da a conocer un dictamen sobre la materia.
+En todo caso, en virtud del artículo 63 de la Ley General de Bancos, no son aplicables las normas sobre consolidación de los balan ces de las filiales, sin perjuicio de la facultad que compete a esta Superintendencia para establecer las normas que estime pertinentes sobre esta materia.
 
 ARTICULOS 94 a 100. Las normas sobre divisiones, transformaciones y fusiones de sociedades que contiene este título son aplicables a bancos y sociedades financieras, en la medida que tales operaciones se concilien con la naturaleza, objeto y fines de la institución financiera.
 
@@ -850,187 +850,137 @@ Define lo que se entiende por condiciones de equidad para efectos de la ley.
 
 Declara la primacía de las disposiciones de la ley sobre cualquiera norma de los estatutos sociales que les sea contraria. En los bancos y sociedades financieras prevalece, en todo caso, como se ha expresado, la Ley General de Bancos.
 
-ANEXO N° 1
-
-"Señor Gerente General:
-
-Me refiero a su nota de 22.12.81, en que consulta acerca del derecho a voto que
-
-pudieran tener en las sesiones de Directorio los directores suplentes en caso
-
-deque se abstenga de votar algún director titular.
-
-Sobre el particular, debo hacer presente a Ud. que el inciso 2° del
-
-#### Artículo 32
-
-de la
-
-Ley sobre sociedades
-
-anónimas, establece que los directores suplentes siempre podrán
-
-participar en las reuniones de directorio con derecho a voz y sólo tendrán
-
-derecho a voto cuando falten sus titulares.
-
-De lo expresado queda en claro que el director suplente sólo tiene derecho a
-
-voto en las sesiones de Directorio cuando reemplaza a algún director titular que
-
-no ha asistido a la reunión de que se trate o en el evento en que se produzca
-
-alguna vacante en el Directorio, caso en el cual entra a ocuparla el director
-
-suplente y desde ese momento pasa a ser propietario de su cargo por todo el
-
-tiempo que le faltaba al director reemplazado para completar su período.
-
-Por lo expuesto en el caso que Ud. plantea, en que asisten a la reunión de
-
-Directorio todos los directores titulares, el director suplente sólo puede
-
-ejercer su derecho a voz, aun cuando algún director titular se abstenga de votar
-
-sobre un determinado acuerdo."
-
-ANEXO N° 2
-
-"Señor Gerente General:
-
-Me refiero a su nota de 21.12.81, en que formula diversas consultas acerca de la aplicación de la Ley N° 18.046 sobre sociedades anónimas publicada en el Diario Oficial de fecha 22.10.81. Señala Ud. que el artículo 62 de la citada ley, suprimió el trámite del cierre del Registro de Accionistas que la reglamentación anterior exigía para que pudieran efectuarse diversas actuaciones sociales. No obstante, y atendido que el Estatuto del Banco contiene esta exigencia, solicita la opinión de este Organismo en lo relativo a la vigencia de la norma estatutaria, luego de la modificación introducida por la citada ley.
-
-Sobre el particular, es preciso tener presente que el artículo 62 de la Ley N° 18.046 eliminó el cierre del Registro de Accionistas y dispuso en su lugar que sólo pueden participar en las Juntas los titulares de acciones inscritas en el citado Registro con cinco días de anticipación.
-
-De acuerdo con lo señalado en el artículo 1° transitorio del mismo texto legal,la referida ley rige desde su publicación en el Diario Oficial, sin perjuicio deque las sociedades anónimas existentes deban adecuar sus estatutos dentro del plazo que al efecto se les otorga.
-
-Al respecto, es preciso señalar además que las normas sobre cierre del Registro de Accionistas que estaban contenidas en el Reglamento de Sociedades Anónimas han quedado sin aplicación por ser una materia incompatible con las disposiciones de la ley, de acuerdo con los términos del artículo 39 transitorio de la Ley N° 18.046 ya citada. Esta norma reglamentaria era aplicable a los bancos de acuerdo con lo señalado en el artículo 50 del Reglamento aludido.
-
-De lo expuesto se concluye que la exigencia contenida en el Estatuto del Banco referente al cierre del registro ha quedado derogada desde la fecha de la dictación de la referida ley.
-
-Consulta Ud. acerca de la forma de computar el plazo a que alude el artículo 62 de la Ley N° 18.046, en cuanto al derecho de los accionistas de ejercer su derecho a voto.
-
-Al respecto, la norma legal dispone que solamente podrán participar en las Juntas y ejercer sus derechos de voz y voto los titulares de acciones inscritas en el Registro de Accionistas con cinco días de anticipación a aquel en que haya de celebrarse la respectiva Junta.
-
-Para computar los plazos hacia atrás no existe norma legal que señale la forma de hacerlo; pero esta Superintendencia siempre ha entendido que debe contarse dicho plazo desde el día anterior a aquel en que se ha de realizar la actuación correspondiente, en este caso, la Junta de Accionistas. Si la Junta se va a realizar el día 20, el plazo de cinco días se contará desde el 19 hacia atrás y corresponderá por lo tanto el día 15. Los inscritos hasta este día inclusive tendrán derecho a votar.
-
-En cuanto a su tercera consulta relativa a la fecha del pago de dividendos, me atengo a lo ya expuesto anteriormente en lo que se refiere al plazo, con la salvedad que la norma legal se refiere a días hábiles.
-
-Por último, pregunta Ud. acerca de la aplicación que debiera darse a la norma establecida en el artículo 68 de la Ley N° 18.046, que dispone que no serán consideradas para los efectos del quórum y de las mayorías requeridas en las Juntas, las acciones pertenecientes a accionistas que durante un plazo superiora cinco años no hubieren cobrado los dividendos distribuidos por la sociedad ni asistido a las Juntas de Accionistas que se hubieren celebrado. Señala Ud. al efecto, que dado que el artículo 1° transitorio de la ley dispone que la ley rige desde su publicación en el Diario Oficial, resulta indispensable saber si,a juicio de esta Superintendencia, en cualquier Junta que se celebre desde el 22 de octubre de 1981 han de excluirse dichos accionistas o si, por el contrario, a partir de la mencionada fecha, comienza a correr el primer plazo de cinco años,de modo que solamente se aplicaría esta sanción en las Juntas que se reúnan después del 21 de octubre de 1986.
-
-Sobre el particular, esta Superintendencia estima que de aplicarse de inmediato esta norma importaría dar a la ley un efecto retroactivo, que se traduce en privar a los accionistas del ejercicio de sus derechos en las Juntas, en circunstancias de que los hechos en que se fundamenta esta sanción habrían ocurrido con anterioridad a la dictación de la ley.
-
-Esta tesis se contradice con diversas normas de nuestro ordenamiento jurídico,razón por la cual hacen concluir al suscrito que la disposición legal indicada sólo puede regir para lo futuro y se aplicaría en consecuencia a las Juntas que se celebren con posterioridad al transcurso del plazo de cinco años de vigencia de la ley."
-
-ANEXO N° 3
-
-"Señor Gerente General:
-
-En su nota de 05.01.82 consulta acerca de la aplicación de la norma contenida en el artículo 90 de la Ley N° 18.046, que se refiere a la información que debe contener la memoria anual del Directorio para el caso que la sociedad tenga filiales y/o coligadas.
-
-Sobre el particular, el artículo 63 de la Ley General de Bancos dispone que no se aplican a los bancos las normas sobre consolidación de balances a que se refiere la Ley de Sociedades Anónimas, entre otras.
-
-Por tal motivo el suscrito es de opinión que la disposición antes señalada no rige para las sociedades bancarias, sin perjuicio de la facultad que compete a esta Superintendencia para establecer las normas que estime pertinentes sobre esta materia."
-
-ANEXO N° 4
-
-"Señor Gerente General:
-
-En su nota de fecha 22.10.84 plantea Ud. diversas consultas relacionadas con la Ley N° 18.046 sobre sociedades anónimas y su aplicación a las instituciones financieras. Solicita Ud. en primer término, que se le aclare el alcance sobre las restricciones a que están sometidas las operaciones entre una institución financiera y una agencia de valores en que uno o más directores o gerentes de aquéllas tengan interés.
-
-Sobre el particular, debo señalarle que esta Superintendencia, en la Circular N° 1.783-253, al referirse a esta materia, precisó el alcance de las restricciones impuestas por el artículo 44 de la Ley N° 18.046, para la realización de actos o celebración de contratos en que tenga interés un director o gerente.
-
-Es necesario tener presente que el artículo 44 citado no prohíbe las negociaciones entre la sociedad y uno o más directores o gerentes o sus parientes, sino que las somete a reglas especiales que se pueden sintetizar en las siguientes:
-
-- **a)** las negociaciones tienen que ser conocidas en forma detallada y aprobadas por el Directorio.
-
-- **b)** Deben ajustarse a las condiciones de equidad que habitualmente prevalecen en el mercado y
-
-- **c)** De ellas debe informarse en la próxima Junta de Accionistas y mencionarlas expresamente en la citación.
-
-Esta Superintendencia en la aludida circular, determinó excluir ciertas operaciones bancarias del ámbito de aplicación del referido artículo 44, por cuanto por sus propias características son de general aplicación y similares en sus condiciones a las que prevalecen en el mercado. Así, no se divisa el motivo para exigir que se cumpla con la mencionada disposición legal, para que un director pueda abrir cuenta corriente en el propio banco, o para que efectúe un depósito a la vista o a plazo, o para otras operaciones bancarias de la misma naturaleza. Sin embargo, en la misma circular se precisó que en todas aquellas operaciones en que pudiere existir interés particular del director o gerente comprometido por tratarse de operaciones especiales y por ende no habituales ni sujetas a reglas generales, resulta necesario dar cumplimiento a las exigencias contenidas en la aludida disposición legal, así, por ejemplo, se mencionó el caso en que un director adquiera un bien raíz o mueble al banco, entre otros.
-
-De lo expuesto, en la situación concreta que Ud. plantea relativa a los negocios que un banco realice con una agencia de valores perteneciente a un director o gerente o en que ése tenga intereses, debe entenderse comprendido en la norma antedicha, desde el momento que corresponde a una compra o venta de un valor mobiliario realizada a título oneroso por intermedio o con el Agente de Valores que no difiere, dadas sus características, de las situaciones planteadas en forma expresa en la circular.
-
-Solicita Ud. además, que se le aclare si es necesario incluir los viáticos que se paguen a los directores en la memoria anual.
-
-Al respecto, y atendido lo dispuesto en el artículo 33 de la Ley N° 18.046 y en la Circular N° 1.783-253 de este Organismo, cabe concluir que los viáticos pagados en el ejercicio deben señalarse en la memoria, en la nota sobre Remuneraciones al Directorio, sin perjuicio de que sean contabilizados como Gastos de Administración.
-
-En lo relativo a su consulta acerca de la inclusión de los contratos de asesoría celebrados entre el banco y un director en las notas al balance, cumplo con señalarle que se cumple con la exigencia pertinente, si se agrega la correspondiente remuneración en forma global, sin que sea necesario precisar el contenido y beneficiario del contrato.
-
-Solicita Ud. que se le indiquen las sanciones que contempla la ley por la infracción de los preceptos legales aludidos y si afectan a la institución, a los respectivos directores y gerente o a ambos.
-
-Al respecto es preciso efectuar una distinción acerca de la disposición legal que pueda ser vulnerada. Si se infringe el artículo 44 de la Ley N° 18.046, esto es, si se celebran actos o contratos con directores o gerentes sin dar cumplimiento a las exigencias del citado precepto legal, es aplicable en la especie la sanción general contenida en el artículo 133 de la misma, en relación con referido artículo 44, que obliga al o a los infractores a indemnizar los perjuicios ocasionados y rembolsar a la sociedad una suma equivalente a los beneficios que a él, a sus parientes o representados les hubieren reportado dichas negociaciones. La anterior es sin perjuicio de las sanciones administrativas que pudiere aplicar esta Superintendencia en uso de sus atribuciones legales y de las sanciones penales que correspondan. La sanción aludida afecta al director, directores o gerentes que tuvieran interés en la operación en la forma contemplada en la ley. En el caso de infringirse la norma del artículo 33 sobre antecedentes que debe contener la memoria, este Organismo tiene facultades para sancionar a la institución respectiva en uso de las facultades contenidas en el artículo 19 de su Ley Orgánica. Lo anterior, es sin perjuicio de la responsabilidad penal que pudiere existir en la especie, conforme a lo dispuesto en los artículos 26 y 26 bis de la Ley General de Bancos, en contra de las personas que mencionan dichas disposiciones."
-
 CAPITULO 1-3 (Bancos y Financieras)
 
 MATERIA:
 
-ACCIONISTAS. OBLIGACION DE CUMPLIR CON EL ARTICULO N° 54 DE LA LEY N° 18.045 SOBRE MERCADO DE VALORES.
+ACCIONISTAS. DISPOSICIONES VARIAS.
 
-La Ley N° 18.045, establece en su artículo 54 que, "cuando una o más personas directamente o a través de una sociedad filial o coligada pretendan obtener el control de una sociedad, sometida a la fiscalización de la Superintendencia, deberán informar previamente tal propósito al público en general. En dicha información se indicará a lo menos el precio y condiciones de la negociación a efectuarse, cualquiera sea la forma de adquisición de las acciones, comprendiéndose incluso la que pudiere realizarse por suscripciones directas o transacciones privadas."
+I.- CUMPLIMIENTO DEL ARTICULO 54 DE LA LEY N° 18.045 SOBRE MERCADO DE VALORES.
 
-De acuerdo con lo dispuesto en el citado precepto legal, la adquisición de las acciones que signifique obtener el control de una sociedad sólo se podrá perfeccionar después de transcurridos cinco días hábiles desde la fecha en que se publique el referido aviso.
+La Ley N° 18.045 de Mercado de Valores, establece en su artículo 54 que, "cuando una o más personas directamente o a través de una sociedad filial o coligada pretendan obtener el control de una sociedad, sometida a la fiscalización de la Superintendencia, deberán informar previamente tal propósito al público en general. En dicha información se indicará a lo menos el precio y condiciones de la negociación a efectuarse, cualquiera sea la forma de adquisición de las acciones, comprendiéndose incluso la que pudiere realizarse por suscripciones directas o transacciones privadas".
 
-Para los efectos del cumplimiento de esta disposición legal y de acuerdo con lo establecido en el artículo 69 de esa misma Ley, este Organismo ha resuelto impartir las siguientes instrucciones que son concordantes con las que ha dado a conocer sobre la misma materia, la Superintendencia de Valores y Seguros a las sociedades anónimas sometidas a su fiscalización.
+De acuerdo con lo dispuesto en el citado precepto legal, la adquisición de las acciones que signifique obtener el control de una sociedad sólo se podrá perfeccionar después de transcurridos cinco días hábiles desde la fecha en que se publique el referido aviso. Conforme a lo señalado en el artículo 97 de esa Ley de Mercado de Valores, se entiende que obtiene el control de una sociedad toda persona o grupo de personas con acuerdo de actuación conjunta que, directamente o a través de otras personas naturales o jurídicas, participa en su propiedad y tiene poder para asegurar la mayoría de los votos en las juntas de accionistas y elegir la mayoría de los directores, o influir decisivamente en la administración.
 
-### 1. Disposiciones de carácter general
+Para los efectos del cumplimiento de lo dispuesto en el Artículo 54 y de acuerdo con lo establecido en el artículo 69 de esa misma Ley, este Organismo imparte las siguientes instrucciones que son concordantes con las que dio a conocer sobre la misma materia, la Superintendencia de Valores y Seguros a las sociedades anónimas sometidas a su fiscalización:
 
-El cumplimiento de la publicación que ordena la norma establecida en el artículo 54 de la Ley N° 18.045 sobre Mercado de Valores, compete a las personas que directa o indirectamente pretendan, a través de la adquisición de acciones,asumir el control de una sociedad anónima.
+1.- Disposiciones de carácter general.
 
-En el caso de los bancos y de las sociedades financieras constituidos como sociedades anónimas en el país, esa disposición es plenamente aplicable a las personas que, por la vía indicada, procuren controlar la empresa.
+El cumplimiento de la publicación que ordena la norma establecida en el artículo 54 de la Ley N° 18.045 sobre Mercado de Valores, compete a las personas que directa o indirectamente pretendan, a través de la adquisición de acciones, asumir el control de una sociedad anónima. En el caso de los bancos y de las sociedades financieras constituidos como sociedades anónimas en el país, esa disposición es plenamente aplicable a las personas que, por la vía indicada, procuren controlar la empresa.
 
-Si bien la información antedicha debe ser proporcionada a la Superintendencia y publicada por las personas interesadas en tomar el control de la sociedad,compete a la propia sociedad y a su administración, velar porque esas personas cumplan con la norma legal que establece la mencionada obligación.
+Si bien la información antedicha debe ser proporcionada a la Superintendencia y publicada por las personas interesadas en tomar el control de la sociedad, compete a la propia sociedad y a su administración, velar porque esas personas cumplan con la norma legal que establece la mencionada obligación.
 
-### 2. Información que debe proporcionarse
+2.- Información que debe proporcionarse.
 
 Las personas que pretendan adquirir una parte importante del capital social de un banco o sociedad financiera, con el objeto de obtener su control, deberán comunicar su intención a esta Superintendencia, a lo menos diez días hábiles bancarios antes de la fecha en que se proponga realizar la operación.
 
 La información mínima que debe entregarse sobre la materia, será la siguiente:
 
-a) nombre completo y RUT de los adquirentes. En caso de tratarse de una persona jurídica, además será necesario incluir los nombres de las principales personas naturales que directa o indirectamente sean socios o accionistas del informante;
+a) Nombre completo y RUT de los adquirentes. En caso de tratarse de una persona jurídica, además será necesario incluir los nombres de las principales personas naturales que directa o indirectamente sean socios o accionistas del informante.
 
-b) razón social de la empresa cuyas acciones se desea adquirir;
+b) Razón social de la empresa cuyas acciones se desea adquirir.
 
-c) cantidad de las acciones que se pretende adquirir y precio que se pagaría por ellas;
+c) Cantidad de las acciones que se pretende adquirir y precio que se pagaría por ellas.
 
-d) porcentaje que alcanzarían las acciones que se adquirirían, sobre el capital suscrito de la sociedad cuyo control se desea asumir;
+d) Porcentaje que alcanzarían las acciones que se adquirirían, sobre el capital suscrito de la sociedad cuyo control se desea asumir.
 
-e) participación -en caso de conocerse- que alcanzaría el o las informantes, en el capital, directa o indirectamente, una vez que se materialice la transacción que se informa.
+e) Participación - en caso de conocerse - que alcanzaría el o los informantes, en el capital, directa o indirectamente, una vez que se materialice la transacción que se informa.
 
-### 3. Publicación del aviso en un diario de circulación nacional
+3.- Publicación del aviso en un diario de circulación nacional.
 
 La misma información que se entregue a esta Superintendencia, deberán publicarla bajo su responsabilidad, las personas que proyecten realizar esa adquisición de acciones.
 
 Esa publicación deberá realizarse, de acuerdo con la pertinente disposición legal, mediante un aviso notorio en un diario de circulación nacional, por lo menos, con cinco días de anticipación a la fecha en que se proyecte realizar la adquisición de las acciones.
 
-En el aviso que se publique deberán destacarse, tanto el nombre del banco o sociedad financiera de que se trate, como la palabra "control".
+En el aviso que se publique deberán destacarse, tanto el nombre del banco o sociedad financiera de que se trate, como la palabra "control". Al respecto, se sugiere que tales avisos lleven por título "Control de ...(nombre de la sociedad)", seguido luego del nombre completo del o de los posibles adquirentes, con la demás información indicada en el número dos precedente y la que se indica en las letras siguientes del mismo número.
 
-Al respecto, se sugiere que tales avisos lleven por título "Control de...(nombre de la sociedad)", seguido luego del nombre completo del o de los posibles adquirentes, con la demás información indicada en el número dos precedente y la que se indica en las letras siguientes del mismo número.
+Deberá también hacerse mención que tal aviso se publica de acuerdo a lo dispuesto en el artículo 54 de la Ley N° 18.045.
 
-Deberá también hacerse mención que tal aviso se publica de acuerdo a lo dispuesto en el artículo N° 54 de la Ley N° 18.045.
+4.- Información que deben proporcionar las entidades financieras.
 
-### 4. Información que deben proporcionar las entidades financieras
+Las instituciones financieras, cuyas acciones cambien de propietario y como consecuencia de ello, cambie el control sobre la propiedad de la empresa, deben comunicar a esta Superintendencia la ocurrencia de ese hecho, tan pronto como tomen conocimiento de él. Simultáneamente con informar de ello a este Organismo, deberán también hacerlo a las Bolsas de Valores.
 
-Las instituciones financieras, cuyas acciones cambien de propietario y como consecuencia de ello, cambie el control sobre la propiedad de la empresa, deben comunicar a esta Superintendencia la ocurrencia de ese hecho, tan pronto como tomen conocimiento de él.
+La información que se entregue para estos efectos, consistirá en la individualización de los respectivos accionistas, según la forma indicada en la letra a) del N° 2 de este título; número de acciones adquiridas y precio pagado por ellas; proporción que las acciones adquiridas representan en el capital social de la empresa; y, fecha en que los adquirentes asumieron el control de la sociedad o adquirieron las acciones.
 
-Simultáneamente con informar de ello a este Organismo, deberán también hacerlo a las Bolsas de Valores.
+5.- Control que deben ejercer las entidades financieras sobre el cumplimiento de estas disposiciones.
 
-La información que se entregue para estos efectos, consistirá en la individualización de los respectivos accionistas, según la forma indicada en la letra a) del N° 2 de este capítulo; número de acciones adquiridas y precio pagado por ellas; proporción que las acciones adquiridas representan en el capital social de la empresa; y, fecha en que los adquirentes asumieron el control de la sociedad o adquirieron las acciones.
+Corresponde a las mismas instituciones financieras afectadas por el cambio de propiedad, velar porque las personas adquirentes de las acciones, hayan dado cumplimiento a las instrucciones que se imparten en las presentes normas y, por ende, al artículo 54 de la Ley N° 18.045. Para los efectos señalados, el banco o la sociedad financiera exigirá al momento de anotar la adquisición de las correspondientes acciones, que el comprador o los compradores le acompañen un ejemplar del diario en que fue publicado el aviso a que se refiere el N° 3 de este título y una copia de la carta que dichas personas debieron enviar a esta Superintendencia, de acuerdo con lo señalado en el N° 2 precedente.
 
-5. Control que deben ejercer las entidades financieras sobre el cumplimiento de estas disposiciones.
+En el caso que no se hubiere cumplido con alguno de los requisitos indicados, no podrá darse curso al registro de la transacción, sin que previamente los interesados procedan a cumplir las mencionadas exigencias, debiendo en tal caso, observarse los plazos correspondientes.
 
-Corresponde a las mismas instituciones financieras afectadas por el cambio de propiedad, velar porque las personas adquirentes de las acciones, hayan dado cumplimiento a las instrucciones que se imparten en el presente capítulo y, por ende, al artículo 54 de la Ley N° 18.045.
+6.- Publicación de estas transacciones como hechos esenciales.
 
-Para los efectos señalados, el banco o la sociedad financiera exigirá al momento de anotar la adquisición de las correspondientes acciones, que el comprador o los compradores le acompañen un ejemplar del diario en que fue publicado el aviso a que se refiere el N° 3 de este capítulo y una copia de la carta que dichas personas debieron enviar a esta Superintendencia, de acuerdo con lo señalado en el N° 2 precedente.
-
-En el caso que no se hubiere cumplido con alguno de los requisitos indicados, no podrá darse curso al registro de la transacción, sin que previamente los interesados procedan a cumplir las mencionadas exigencias, debiendo en tal caso,observarse los plazos correspondientes.
-
-### 6. Publicación de esas transacciones como hechos esenciales
-
-Las transacciones de que se ocupa el presente capítulo pueden constituir un hecho esencial para la institución financiera afectada, como se establece en el Capítulo 18-10 de esta Recopilación y como tal, debe ser publicado, de acuerdo con lo dispuesto en esas instrucciones y en cumplimiento a lo establecido en los artículos 9° y 10° de la Ley N° 18.045.
+Las transacciones de que se trata pueden constituir un hecho esencial para la institución financiera afectada, como se establece en el Capítulo 18-10 de esta Recopilación y como tal, debe ser publicado, de acuerdo con lo dispuesto en esas instrucciones y en cumplimiento a lo establecido en los artículos 9° y 10 de la Ley N° 18.045.
 
 Debe entenderse que esta publicación es sin perjuicio de las que deben efectuar oportunamente los propios adquirentes de las acciones, en virtud de las presentes disposiciones.
+
+II.- CUMPLIMIENTO DEL ARTICULO 12 DE LA LEY N° 18.045 SOBRE MERCADO DE VALORES.
+
+La exigencia contenida en el artículo 12 de la Ley N° 18.045 será cumplida por las instituciones financieras enviando la información correspondiente a la Superintendencia de Valores y Seguros conforme a lo señalado en el título I del Capítulo 18-11 de esta Recopilación Actualizada de Normas, y remitiendo la misma información a las bolsas de valores, dentro del plazo señalado en dicho Capítulo.
+
+III.- ACTAS DE LAS JUNTAS DE ACCIONISTAS. SU ENVIO A LA SUPERINTENDENCIA.
+
+Las instituciones financieras deberán enviar a este Organismo una copia simple de las actas de las juntas ordinarias y extraordinarias de accionistas, tan pronto se encuentren redactadas y bajo la sola firma del gerente general o de quien haga sus veces. El plazo máximo para este envío es de diez días hábiles bancarios contado desde la fecha de celebración de la respectiva Junta.
+
+En caso de que el acta sea objeto de modificaciones, se comunicarán a esta Superintendencia también dentro de un plazo de diez días hábiles bancarios, contado desde la fecha en que el acta quede firmada.
+
+Lo anterior es sin perjuicio, naturalmente, de la obligación de enviar, además, en aquellos casos en que la ley lo exige, dichas actas reducidas a escritura pública.
+
+IV.- COMPUTO DEL PLAZO A QUE ALUDE EL ARTICULO 62 DE LA LEY N° 18.046.
+
+El artículo 62 de la Ley N° 18.046 dispone que solamente podrán participar en las Juntas y ejercer sus derechos de voz y voto los titulares de acciones inscritas en el Registro de Accionistas con cinco días de anticipación a aquel en que haya de celebrarse la respectiva Junta. El artículo 104 del Reglamento aclara que el plazo es de días hábiles.
+
+Para computar los plazos hacia atrás no existe norma legal que señale la forma de hacerlo, pero esta Superintendencia siempre ha entendido que debe contarse dicho plazo desde el día anterior a aquel en que se ha de realizar la actuación correspondiente, en este caso, la Junta de Accionistas. Si la Junta se va a realizar, por ejemplo, un lunes 20, el plazo de cinco días se contará desde el sábado 18 hacia atrás y corresponderá, por lo tanto, el día martes 14, salvo que exista otro feriado intermedio. En ese caso, los inscritos hasta ese día 14 inclusive, tendrán derecho a votar.
+
+V.- PREVENCION DE IRREGULARIDADES EN EL TRASPASO DE ACCIONES.
+
+1.- Procedimiento para cursar traspasos efectuados fuera de bolsa.
+
+A fin de precaver eventuales irregularidades en las operaciones efectuadas fuera de bolsa, en que los títulos de las acciones se encuentren en poder de la sociedad emisora por no haber sido retirados por los accionistas, las instituciones financieran deberán:
+
+a) Abstenerse de cursar los traspasos de acciones efectuados fuera de bolsa en que los títulos de las acciones no hayan sido previamente retirados y acompañados al traspaso, salvo que la institución compruebe la autenticidad de la venta.
+
+b) Mantener las medidas de seguridad que sean pertinentes para resguardar el interés de sus accionistas, entre las cuales están: i) verificar la firma del accionista contenida en el traspaso, esté o no firmado ante notario, con la que figure en sus registros; ii) llevar un registro con los datos de la persona que presenta los traspasos, el cual deberá contener, a lo menos, los siguientes datos: nombres, apellidos, domicilio, teléfono, firma y fotocopia de la cédula de identidad; y iii) contactarse con el accionista vendedor, en la medida que sea posible, a fin de confirmar la venta. En igual forma se deberá actuar frente a los poderes para vender que no estén otorgados por escritura pública.
+
+2.- Comunicación a esta Superintendencia.
+
+En caso de que se incurriera en un acto fraudulento en el traspaso de acciones, los hechos deberán ser informados a esta Superintendencia a más tardar el día hábil bancario siguiente a que se tome conocimiento de la irregularidad.
+
+CAPITULO 1-4 (Bancos y Financieras)
+
+MATERIA:
+
+DIRECTORES. DISPOSICIONES VARIAS.
+
+I.- ACTAS DE SESIONES DE DIRECTORIO. SU ENVIO A LA SUPERINTENDENCIA.
+
+1.- Envío de las actas a este Organismo.
+
+Las instituciones financieras deberán enviar a este Organismo las actas de sesiones de directorio, ordinarias y extraordinarias, tan pronto se encuentren redactadas y bajo la sola firma del gerente general o de quien haga sus veces. El plazo máximo para este envío es de diez días hábiles bancarios contado desde la fecha de la correspondiente reunión.
+
+En caso de que el acta sea objeto de modificaciones u observaciones se comunicarán a esta Superintendencia también dentro de un plazo de diez días hábiles bancarios, contado desde la fecha en que el acta quede firmada por todos los concurrentes, o se deje constancia en ella de que los que no hayan firmado se encuentran imposibilitados de hacerlo.
+
+2.- Numeración de las actas.
+
+Las actas de sesiones ordinarias y extraordinarias deberán numerarse en forma correlativa, asignando una numeración seguida a las ordinarias y otra a las extraordinarias. Esta numeración deberá figurar tanto en el acta oficial que se inserte en el libro correspondiente, como en la copia que se envíe a esta Superintendencia en cumplimiento de las instrucciones del numeral precedente.
+
+II.- IMPROCEDENCIA DE OTORGAR PODERES A DIRECTORES PARA FUNCIONES OPERATIVAS.
+
+A los directores, como miembros de un cuerpo colegiado, sólo les corresponde actuar normalmente en las sesiones de dicho órgano, ya sea en pleno o dentro de los comités que se hayan designado, y dejar constancia, en ambos casos, en el acta correspondiente, de los acuerdos tomados. Los directores no pueden actuar legítimamente sino en la respectiva sesión de directorio o de comité que integren.
+
+Por lo anterior, resulta improcedente otorgar poderes generales que faculten a uno o más directores para realizar operaciones genéricas del giro ordinario de la institución. Dichos poderes generales de administración operativa de la empresa, deberán conferirse únicamente a los ejecutivos de ella, sean éstos el gerente general, o los gerentes, subgerentes y factores en general.
+
+Lo anterior no obsta, naturalmente, a que puedan otorgarse, en sesión de directorio o comité, poderes especiales a uno o más directores, para operaciones perfectamente determinadas y previamente acordadas por el órgano correspondiente. Tampoco es óbice para que un director actúe como apoderado conjunto con uno o varios ejecutivos de la empresa, siempre que no tenga poder por sí solo o con otro u otros directores.
+
+III.- INFORMACION AL DIRECTORIO SOBRE CREDITOS CONCEDIDOS. INCISO 1° ART. 44 DE LA LEY GENERAL DE BANCOS.
+
+El artículo 44 de la Ley General de Bancos, en su inciso 1°, dispone que "el gerente o quien haga sus veces, deberá poner en conocimiento del directorio, en cada sesión ordinaria que celebre, todos los créditos concedidos desde la reunión anterior, con los antecedentes que los justifiquen y demás informaciones que solicite el directorio".
+
+Sobre el particular, esta Superintendencia, consciente de las dificultades prácticas y administrativas que la redacción del citado artículo 44 implica para aquellas instituciones financieras que otorgan mensualmente un elevado número de créditos, dispone que los respectivos gerentes o quienes hagan sus veces informen a su directorio sólo aquellas operaciones que excedan el monto que este último prudencialmente determine para estos efectos.
+
+Sin embargo, al establecer la cuantía de las operaciones que deben ponerse en su conocimiento, el directorio deberá tener presente el objetivo último de la citada disposición, cual es el que se le mantenga cabalmente informado respecto del manejo crediticio de la entidad, por lo que de manera alguna podrá fijarse un monto que desvirtúe este propósito.
+
+Por igual motivo, en la misma oportunidad deberá informarse el número y monto total de los créditos concedidos o renovados desde la sesión de directorio anterior.
 
 CAPITULO 1-5 (Bancos)
 
@@ -9255,54 +9205,6 @@ c) que se deje constancia, en la boleta de garantía emitida, de que el banco lo
 d) que tales boletas no comprometan, por lo tanto, en forma alguna, la responsabilidad del banco local.
 
 Sólo si se cumplen esos requisitos podrá entenderse que la emisión de la boleta de garantía no representa obligación alguna, directa o indirecta del banco y, por lo tanto, su importe no se computará para los márgenes legales y reglamentarios, debiendo en todo caso registrarse en cuentas de orden para efectos de control.
-
-CAPITULO 8-12 (Bancos y Financieras)
-
-MATERIA:
-
-INFORMACIÓN ACERCA DE LOS CRÉDITOS CONCEDIDOS QUE EL GERENTE DEBE PONER EN
-
-CONOCIMIENTO DEL DIRECTORIO. INCISO 1° DEL ARTICULO 44 DE LA LEY GENERAL DE
-
-BANCOS.
-
-El artículo 44 de la Ley General de Bancos, en su inciso 1°, dispone que "el
-
-gerente o quien haga sus veces, deberá poner en conocimiento del directorio,
-
-encada sesión ordinaria que celebre, todos los créditos concedidos desde la
-
-reunión anterior, con los antecedentes que lo justifiquen y demás informaciones
-
-que solicite el directorio".
-
-Sobre el particular, esta Superintendencia, consciente de las dificultades
-
-prácticas y administrativas que la redacción del citado artículo 44 implica para
-
-aquellas instituciones financieras que otorgan mensualmente un elevado número de
-
-créditos, ha dispuesto que los respectivos gerentes o quienes hagan sus veces
-
-informen a su directorio sólo aquellas operaciones que excedan el monto que este
-
-último prudencialmente determine para estos efectos.
-
-Sin embargo, al establecer la cuantía de las operaciones que deben ponerse en su
-
-conocimiento, el directorio deberá tener presente el objetivo último de la
-
-citada disposición, cual es el que se le mantenga cabalmente informado respecto
-
-del manejo crediticio de la entidad, por lo que de manera alguna podrá fijarse
-
-un monto que desvirtúe este propósito.
-
-Por igual motivo, en la misma oportunidad deberá informarse el número y monto
-
-total de los créditos concedidos o renovados desde la sesión de directorio
-
-anterior.
 
 CAPITULO 8-13. Derogado.
 
@@ -25697,6 +25599,26 @@ Los hechos o antecedentes de que se trata, deberán ser también comunicados a l
 ### 5. Información para esta Superintendencia
 
 Las instituciones financieras deberán enviar a este Organismo dos ejemplares o copias fotostáticas de la publicación que hubieren hecho de las informaciones esenciales a que se refieren estas normas. El plazo para cumplir dicho envío será de dos días hábiles bancarios, contados desde la fecha de la respectiva publicación. Por su parte, tal como se indica en el N° 3 precedente, cualquier decisión o acuerdo del directorio que otorgue el carácter de reservado a ciertos hechos o antecedentes, debe ser comunicado por escrito a este Organismo a más tardar al día hábil siguiente de su adopción.
+
+CAPITULO 18-11 (Bancos y Financieras)
+
+MATERIA:
+
+INFORMACION A LA SUPERINTENDENCIA DE VALORES Y SEGUROS.
+
+I.- INFORMACION DE TRANSACCIONES DE ACCIONISTAS.
+
+El artículo 12 de la Ley N° 18.045 dispone que las personas que directamente o a través de otras personas naturales o jurídicas posean el 10% o más del capital suscrito de una sociedad cuyas acciones se encuentren inscritas en el Registro de Valores, así como los directores y gerentes de esas sociedades, cualquiera sea la cantidad de acciones que posean, deben informar a la Superintendencia de Valores y Seguros y a las bolsas de valores en que dichas acciones se coticen, toda transacción que de ellas efectúen, sean adquisiciones o enajenaciones, dentro de los cinco días siguientes al de la respectiva operación.
+
+De acuerdo con lo señalado precedentemente y de conformidad con lo dispuesto en el artículo 69 de la ley en comento, se establece que los bancos y sociedades financieras cuyas acciones se encuentren incorporadas al Registro de Valores que lleva esta Superintendencia deben dar cumplimiento, en todo lo que les sea aplicable, a las instrucciones impartidas por la Superintendencia de Valores y Seguros acerca de esas materias mediante su Circular N° 585 del 29 de enero de 1986, de manera que la información que entreguen a esa Superintendencia sea concordante y armónica con la que es proporcionada por las demás empresas emisoras de valores de oferta pública.
+
+### II. INFORMACION PRIVILEGIADA
+
+El Título XXI de la Ley N° 18.045 establece normas relativas al manejo y uso de la información privilegiada tanto de emisores de valores de oferta pública y de sus negocios, como de dichos valores y señala que cualquier persona que en razón de su cargo, posición, actividad o relación tenga acceso a dicha información, está obligada a guardar estricta reserva y no la puede utilizar para beneficio propio o ajeno.
+
+Por otra parte, la referida disposición establece que las personas que participen en las decisiones y operaciones de adquisición y enajenación de valores para inversionistas institucionales e intermediarios de valores y aquellas que, en razón de su cargo o posición, tengan acceso a la información respecto a las transacciones de estas entidades, deberán informar a la dirección de la respectiva empresa y ésta a la Superintendencia de Valores y Seguros, toda adquisición o enajenación de valores que hayan realizado, en la forma y oportunidades que ese Organismo Contralor determine.
+
+Sobre la base de la disposición antes mencionada y de conformidad con lo señalado en el artículo 69 de la Ley N° 18.045, esta Superintendencia de Bancos e Instituciones Financieras establece, sin perjuicio de las facultades de fiscalización que le competen, que los bancos y las sociedades financieras deberán remitir directamente a la Superintendencia de Valores y Seguros la información requerida por ese Servicio mediante su Circular N° 1.003 del 21 de marzo de 1991, en la forma y dentro de los plazos que esa instrucción señala.
 
 CAPITULO 18-12 (Bancos y Financieras)
 
