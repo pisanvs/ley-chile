@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 337, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 87, superficie 285,00 m2, rol de avalúo 233-55, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre - Esperanza), Tramo Km. 0,000.00 al 10,623.89" y se acordó el valor de indemnización con su propietario José Antonio Olivera González, ascendente a la cantidad de $795.093.-
+
+Fiscal del Ministerio de Obras Públicas.
