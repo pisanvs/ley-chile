@@ -1,0 +1,3 @@
+Por decreto MOP Nº 282 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 86, superficie 4.175 m², Rol Nº 617-296, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S - 16, sector Chol Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,5000, Sub Tramo III Km. 35,380 al Km. 43,50000" y se acordó el valor de indemnización con su propietaria Amalia Clorinda Blanco Calfuqueo, ascendente a la cantidad de $5.313.552.- para el lote Nº 86.
+
+- Fiscal del Ministerio de Obras Públicas.
