@@ -1,0 +1,3 @@
+Por Resolución N° 929, de 10 de octubre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones N° 3 y N° 936, ambas de 1988, de esta Subsecretaría, que autorizaron a SOCIEDAD EXPLOTADORA DE RECURSOS MARINOS LIMITADA "Serman Ltda.", para operar un establecimiento de cultivo, en un sector denominado Piedra Azul, comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos, X Región, por haberse caducado la concesión marítima de acuicultura.
+
+Valparaíso, 10 de Octubre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
