@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 349, de 29 de diciembre de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 44, 45, 46, 47, 48, 50, 51 y 61, para la obra Camino Longitudinal Costero Sur, sector El Morro Chaihuín II, Kms. 15,755 al 27,017 (segunda parte), que figuran a nombre de José D. Muñoz Maripane, Justo P. Leal Charlin y María Verónica del C. Birke León, roles de avalúo 112-31, 112-12 y 112-56, superficies 3.147 m2.; 2.257 m2.; 940 m2.; 3.723 m2.;
+
+2.707 m2.; 7.133 m2.; 617 m2. y 210 m2., comuna de Corral. La Comisión de Peritos, con fecha 16 de octubre de 1999, fijó la indemnización provisional en las cantidades de $944.100, lote Nº 44, $1.128.500, lote Nº 45, $282.000, lote Nº 46, $1.116.900, lote Nº 47, $1.218.150, lote Nº 48, $2.496.550, lote Nº 50, $185.100, lote Nº 51 y $292.000, lote Nº 61, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
