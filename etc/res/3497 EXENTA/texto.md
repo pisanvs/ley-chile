@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.497, de 24 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112203 presentada por MAX RICARDO STRUBE OTEGUI, para instalar y operar un centro de cultivo ubicado en sector al norte de Isla Julia, comuna de Guaitecas, provincia de Aysén, XI Región.
+
+Valparaíso, 24 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
