@@ -4430,7 +4430,7 @@ Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a
 
 3.2 Compensación por pago de Ordenes de Pago.
 
-Los bancos distintos al banco librado, podrán deducir del monto de sus depósitos diarios, una compensación por la salida de caja que representa para ellos el pago de Ordenes de Pago emitidas por las instituciones de previsión al amparo del artículo 15 de la Ley 17.671, tratadas en el Capítulo 5-2 de esta Recopilación. Esa compensación es equivalente, según la tasa de encaje vigente, al 1011,11% de los importes pagados. El monto de esta compensación debe registrarse en la cuenta "Compensación Ordenes de Pago Ley 17.671", de la partida 9160 del mismo nombre, del MB1.
+Los bancos distintos al banco librado, podrán deducir de sus depósitos y captaciones, cuando corresponda, una compensación por los desembolsos efectuados para pagar las Ordenes de Pago emitidas por las instituciones de previsión al amparo del artículo 15 de la Ley N° 17.671, tratadas en el Capítulo 5-2 de esta Recopilación. El monto de este deducible se determinará según lo indicado por el Banco Central de Chile en el Capítulo III.A.1.1 del Compendio de Normas Financieras y se registrará en la cuenta de orden "Compensación Ordenes de Pago Ley 17.671", de la partida 9160.
 
 3.3 Obligaciones por las cuales deben constituir reserva técnica.
 
