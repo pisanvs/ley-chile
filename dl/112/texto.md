@@ -1,0 +1,43 @@
+FIJA ATRIBUCIONES PARA LOS RECTORES-DELEGADOS DE LA UNIVERSIDAD CATOLICA DE CHILE Y UNIVERSIDAD CATOLICA DE VALPARAISO
+
+Decreto ley N° 112.- Santiago, 29 de Octubre de 1973.- Vistos:
+
+1.- Lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973 y en el decreto ley N° 50, de 1° de Octubre de 1973;
+
+2.- La necesidad de que los Rectores-Delegados cuenten con las facultades necesarias para reestructurar las Universidades a fin de que éstas cumplan con los objetivos señalados por la Junta de Gobierno;
+
+3.- La especial situación jurídica en que se encuentran las Universidades Católicas del país, atendida su vinculación con la autoridad de la Iglesia Católica.
+
+La Junta de Gobierno ha acordado el siguiente Decreto ley:
+
+#### Artículo 1°
+
+Los Rectores-Delegados de la Universidad Católica de Chile y de la Universidad Católica de Valparaíso tendrán todas las facultades, atribuciones y deberes que las normas legales y las disposiciones de los estatutos y reglamentos aplicables a la respectiva Universidad les señalen.
+
+Además de lo anterior, tendrán las siguientes facultades:
+
+a) Suprimir, disolver o declarar en receso los cuerpos colegiados superiores existentes; modificar su composición o sus acuerdos; asumir todas o parte de sus facultades o delegarlas en otras autoridades colegiadas o unipersonales actualmente existentes o que se creen en el futuro;
+
+b) Crear o suprimir cargos, fijar y modificar sus atribuciones y deberes; designar, remover, destituir, crear o suprimir autoridades unipersonales; establecer, modificar, suprimir, declarar en receso o disolver los órganos colegiados de la respectiva Universidad, cualquiera que sea su naturaleza, y fijarles sus atribuciones y deberes;
+
+c) Crear, modificar, refundir o suprimir Unidades Académicas, Departamentos, programas y demás formas de trabajo de la respectiva Universidad;
+
+d) Aprobar, modificar y derogar las normas internas relativas a otorgamiento de títulos y Grados Académicos y a planes y programas de estudio;
+
+e) Designar, remover o destituir al personal académico y administrativo de la respectiva Universidad;
+
+f) Dictar o modificar los estatutos, reglamentos y demás cuerpos normativos de la respectiva Universidad y de las entidades dependientes de ellas o creadas bajo su tuición para el cumplimiento de sus fines, si lo estimen necesario;
+
+g) Representar judicial y extrajudicialmente a las respectivas Universidades con todas las facultades que las leyes y normas internas de cada Universidad confieren al Rector, al organismo colegiado superior y a otros a los cuales se haya confiado tal representación.
+
+#### Artículo 2°
+
+Sin perjuicio de lo establecido en el artículo anterior, la Santa Sede, la Conferencia Episcopal Chilena, los respectivos Ordinarios Eclesiásticos y Grandes Cancilleres de la Universidad Católica de Chile y de la Universidad Católica de Valparaíso tendrán todas las facultades que la Legislación Canónica, el Estatuto Básico de las Universidades Católicas Chilenas y los Estatutos y Reglamentos de cada Universidad les otorgan.
+
+#### Artículo 3°
+
+Las disposiciones del presente decreto ley regirán desde el 2 de Octubre de 1973.
+
+Anótese, regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros, Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Hugo Castro Jiménez, Contraalmirante, Ministro de Educación.
+
+Saluda atentamente a Ud.- René del Villar L., Subsecretario de Educación Pública.
