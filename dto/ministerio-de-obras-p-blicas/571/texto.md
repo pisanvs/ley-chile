@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº571, de 29 de abril de 1998, se expropiaron los lotes de terreno Nºs. 19-F, 19-I y 20, superficies 86, 275 y 131 M2., roles de avalúo 2020-452, 2020-337 y sin rol, comuna de Melipilla, obra Camino Ruta G-668, Sector El Molino - Codigua, y se acordó precio de indemnización con sus propietarios Sergio Eduardo Yáñez Catalán, Miguel Guerra Guerra y Modesta Balbina Balbi Núñez, ascendente a las cantidades de $594.550.- $1.389.925.- y $780.925.-, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
