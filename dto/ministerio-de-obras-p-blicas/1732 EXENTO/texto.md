@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº1.732 de fecha 31 de octubre del 2001, se expropió el lote de terreno Nº2, superficie 12.420 m², rol de avalúo Nº3983-205, comuna de Talca, para la obra "Canal Matriz Pencahue, Sifón Río Claro Km. 10.297 al Km. 10.738" y se acordó el valor de indemnización con su propietario Héctor o Héctor Hernán Conde Zúñiga, ascendente a la cantidad de $14.112.-
+
+Fiscal del Ministerio de Obras Públicas.
