@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 252, de 16 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del decreto M.O.P. No. 294, de 1984, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No.s.
+
+34, 47, 48 y 49 para la obra Proyecto Embalse Puclaro Sector Punta Azul y San Carlos III Etapa que figuran a nombre de Jeraldo Clotilde y Proyecto Sol Elquino, Rol de avalúo 402-7 y 402-16 comuna de Vicuña, IV Región, superficies 63.800, 1.600, 2.200 y 29.000 m2. La Comisión de peritos compuesta por los señores Alfredo Prieto Parra, Juan Ibáñez Palma y Iris Marcich Moller, fijó con fecha 20 de noviembre de 1996, el valor provisional de las indemnizaciones en las cantidades de $ 41.797.000, para el lote No. 34, $ 2.100.000, para el lote No. 47, $ 6.200.000, para el lote No. 48 y $ 1.189.000, para el lote No. 49. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2186, de 1978.
+
+-Fiscal del Ministerio de Obras Públicas.
