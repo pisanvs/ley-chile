@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 137, de 29 de Febrero de 1996, se expropiaron los lotes de terreno N°s. 15 y. 32, superficies 928 M2 y 832 M2., roles de avalúos 207- 16 y 220-25, comuna de San Javier, para la obra Camino Ruta 5, Longitudinal Sur, sector San Javier Parral I, Tramo A, y se acordó precio de indemnización con sus propietarios Arsenio Garrido Cerpa y otros e Irme Eliana Ramírez Sáez, ascendente a las cantidades de $45.220.786, para el lote N° 15 y $19.064.752, para el lote N° 32.
+
+- Fiscal del Ministerio de Obras Públicas.
