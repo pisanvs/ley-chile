@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.128, de 30 de abril de 1999, se expropiaron los lotes de terrenos Nºs. 96 y 99, superficies 11.699 m2. y 1.493 m2., rol de avalúo 851-21, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector 1'', Octava Región y se acordó el valor de indemnización con sus propietarios Manuel Enrique Saldías Cifuentes y Otros, ascendente a la cantidad total de $20.569.298.
+
+Fiscal del Ministerio de Obras Públicas.
