@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.013, de 28 de julio de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Río Pudeto, X Región, individualizada en el artículo 1º del decreto exento Nº 1.076 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS Y RECURSOS BENTONICOS "PUPELDE".
+
+Valparaíso, 28 de julio de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
