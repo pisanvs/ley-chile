@@ -1,0 +1,3 @@
+Por decreto MOP Nº309 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº123-M, superficie 73.520 m², sin rol, comuna de Alto del Carmen, III Región para la obra "Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa III" y se acordó el valor de indemnización con su propietario Gaspar Méndez Leyton, ascendente a la cantidad de $20.508.800.-
+
+Fiscal del Ministerio de Obras Públicas.
