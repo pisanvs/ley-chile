@@ -1,0 +1,3 @@
+Por decreto MOP Nº 630, de fecha 29 de febrero del 2000, se expropió los lotes de terreno Nºs. 10-A y 13-A, superficie 219,27 y 1.340,20 m² respectivamente, sin rol de avalúo, comuna de Vicuña, para la obra ''Embalse Puclaro II Etapa Sector La Polvada, Complementaria '' y se acordó el valor de indemnización con sus propietarios Juan Antonio Flores Cáceres y Silvia Vigorena Cáceres y otros, ascendente a la cantidad de $3.426.480.- por el lote Nº 10-A y $4.074.441.- por el Nº 13-A.-
+
+Fiscal del Ministerio de Obras Públicas.
