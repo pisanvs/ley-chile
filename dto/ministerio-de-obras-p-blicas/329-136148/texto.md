@@ -1,0 +1,3 @@
+Por decreto MOP No. 329, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 1-A, 2 y 3-A superficies 40, 134 y 15 m2 roles de avalúo 12006-21, 12006-22 y 12006-23 comuna de San Pedro de la Paz, para la obra Reposición Puente Bío Bío Antiguo Ruta 160 Concepción San Pedro sector San Pedro y se acordó precio de indemnización con sus propietarios David Guillermo Aliaga Gonz lez, Eladia Hortencia Carvallo Ospital y Jorge Andrés Maurelia Loyola, ascendente a las cantidades de $ 1.828.800, para el lote No. 1-A, $ 5.497.818, para el lote No. 2 y $ 685.800, para el lote No. 3-A.-
+
+Fiscal del Ministerio de Obras Públicas.
