@@ -24152,6 +24152,18 @@ obstante que para ellas no rige el Título VI de la Ley General de Bancos que se
 
 refiere a las comisiones de confianza.
 
+CAPITULO 17-5 (Bancos y Financieras)
+
+MATERIA:
+
+COLOCACION DE CUOTAS DE FONDOS MUTUOS EN CALIDAD DE AGENTES.
+
+De conformidad con las normas legales en actual vigencia, los bancos y las sociedades financieras, actuando en calidad de agentes colocadores, pueden aceptar mandatos de sociedades administradoras de fondos mutuos para la colocación de cuotas de los fondos que éstas administren.
+
+Los referidos mandatos deberán conferirse en conformidad a lo dispuesto en el artículo 12 del D.L. N° 1.328, de 1976, y en el artículo 34 del Reglamento de dicho cuerpo legal.
+
+Las instituciones financieras que realicen las operaciones de colocación de cuotas de fondos mutuos, además de dar cumplimiento a las normas que les son aplicables en la realización de esa actividad, deberán proporcionar a la Superintendencia de Valores y Seguros la información que ella requiere en relación con esas operaciones y atenerse a las instrucciones que haya emitido.
+
 CAPITULO 18-1 (Bancos y Financieras)
 
 MATERIA:
