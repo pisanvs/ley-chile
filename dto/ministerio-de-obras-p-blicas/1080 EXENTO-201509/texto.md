@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.080, de 25 de julio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs 4A, 15A, 15B, 15C y 17A, para la obra Camino Ruta U-72, sector Osorno - Huilma Tramo Kms.
+
+0,00000 al 18,10000, que figuran a nombre de Amthauer Hollstein Ingris Alfrida y Agrícola y Gand. Las Vegas Ltda., roles de avalúo 2209-8 y 2209-5, superficies 120,00 m2.; 7,20 m2., 40,00 m2., 70,00 m2. y 760,00 m2., comuna de Osorno. La Comisión de Peritos, con fecha 28 de julio de 2000, fijó la indemnización provisional en las cantidades de $74.400, lote 4A, $23.960, lote 15A, $22.000, lote 15B, $171.500, lote 15C y $570.000, lote 17A, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
