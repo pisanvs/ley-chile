@@ -1,0 +1,3 @@
+Por resolución No. 158 de 31 de Enero de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de esta fecha, el plazo otorgado a don JOSE MARCELINO MARIPAN, R.U.T. No. 4.704.457-K, domiciliado en Carrizo, dirección postal Correo de Maullín, en el numeral 4° de la Resolución No. 932, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 31 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
