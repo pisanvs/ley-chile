@@ -1,0 +1,3 @@
+Por resolución Nº 461, de 7 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº93106031, presentada por SALMONES PACIFIC STAR LTDA., para operar un centro de cultivo ubicado en Canal San Pedro, comuna de Quellón, provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura y artículo 14 del DS Nº290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
