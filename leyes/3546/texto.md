@@ -1,0 +1,1 @@
+Lei núm. 3,546, que dispone que la pavimentación de la Avenida Irarrázabal, en la parte comprendida entre las líneas del Ferrocarril de Circunvalacion i la Plaza Pública de Nuñoa, será obligatoria en conformidad a las disposiciones de la lei núm. 1,463, de 11 de Junio de 1901.
