@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Collipulli contratar empréstito hasta por $ 200,000 a fin de destinar su producto a la construcción de un edificio para teatro y a oficinas dependientes de la Municipalidad; y eleva en 1o/oo adicional el impuesto a la renta que grava las propiedades raíces de la comuna.
