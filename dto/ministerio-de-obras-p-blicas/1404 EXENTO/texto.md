@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.404, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº104, superficie 306 m², Rol de Avalúo 516-120, comuna de Río Bueno, X Región, para la obra ''Camino Río Bueno-Crucero, Rol T-90-U y T-933, Km. 0,000 al 20,900 (II Parte)'' y se acordó el valor de indemnización con su propietario don Luis Alfredo Aguila, ascendente a la cantidad de $538.852.
+
+- Fiscal del Ministerio de Obras Públicas.
