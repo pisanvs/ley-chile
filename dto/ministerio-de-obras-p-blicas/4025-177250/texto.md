@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.025, de 31 de agosto de 2000, se expropió el lote de terreno Nº56, superficie 14.790 m2., rol de avalúo 1545-89, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5, Tramo Chillán-Collipulli, By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietario Gustavo Fuentes Gubeli, ascendente a la cantidad de $17.519.186.
+
+Fiscal del Ministerio de Obras Públicas.
