@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.050, de 25 de octubre de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202111125 presentada por SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Plaza, al sur de Punta Carmela, Isla Alberto Vargas (sector 2), XI Región.
+
+Valparaíso, 25 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
