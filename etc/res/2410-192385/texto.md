@@ -1,0 +1,3 @@
+Por resolución Nº 2.410, de 4 de diciembre de 2001, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº282 de 1989, de esta Subsecretaría, que autorizó a BOLIVAR GUZMAN ACUÑA, sólo en lo que respecta a la autorización para operar la nave "Santa Isabel I", en virtud de lo señalado en el Artículo 143 letra b) del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por no haber operado la mencionada nave, por más de doce meses en las pesquerías autorizadas.
+
+Valparaíso, 4 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
