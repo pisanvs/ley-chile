@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 210, de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs 71 y 71-A, superficie 297 y 60 m2., respectivamente, Rol Nº 179-61 y 179-60, comuna de Yerbas Buenas, VII Región para la obra "Camino Ruta L-31, Sector Polvorines-La Floresta, Tramo Km. 0,00000 a Km. 15,48000" y se acordó el valor de indemnización con su propietario Lindor Eduardo Pérez Calderón, ascendente a la cantidad de $765.201.-
+
+Fiscal del Ministerio de Obras Públicas.
