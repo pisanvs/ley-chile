@@ -2350,6 +2350,192 @@ La prescripción no tiene lugar cuando los socios verifican por sí mismos la li
 
 Las acciones de los acreedores contra el socio o socios liquidadores, considerados en esta última cualidad, y las que tienen los socios entre sí prescriben por el transcurso de los plazos que señala el Código Civil.
 
+### 8. De las sociedades anónimas
+
+#### Artículo 424
+
+DEROGADO
+
+#### Artículo 425
+
+DEROGADO
+
+#### Artículo 426
+
+DEROGADO
+
+#### Artículo 427
+
+DEROGADO
+
+#### Artículo 428
+
+DEROGADO
+
+#### Artículo 429
+
+DEROGADO
+
+#### Artículo 430
+
+DEROGADO
+
+#### Artículo 431
+
+DEROGADO
+
+#### Artículo 432
+
+DEROGADO
+
+#### Artículo 433
+
+DEROGADO
+
+#### Artículo 434
+
+DEROGADO
+
+#### Artículo 435
+
+DEROGADO
+
+#### Artículo 436
+
+DEROGADO
+
+#### Artículo 437
+
+DEROGADO
+
+#### Artículo 438
+
+DEROGADO
+
+#### Artículo 439
+
+DEROGADO
+
+#### Artículo 440
+
+DEROGADO
+
+#### Artículo 441
+
+DEROGADO
+
+#### Artículo 442
+
+DEROGADO
+
+#### Artículo 443
+
+DEROGADO
+
+#### Artículo 444
+
+DEROGADO
+
+#### Artículo 445
+
+DEROGADO
+
+#### Artículo 446
+
+DEROGADO
+
+#### Artículo 447
+
+DEROGADO
+
+#### Artículo 448
+
+DEROGADO
+
+#### Artículo 449
+
+DEROGADO
+
+#### Artículo 450
+
+DEROGADO
+
+#### Artículo 451
+
+DEROGADO
+
+#### Artículo 452
+
+DEROGADO
+
+#### Artículo 453
+
+DEROGADO
+
+#### Artículo 454
+
+DEROGADO
+
+#### Artículo 455
+
+DEROGADO
+
+#### Artículo 456
+
+DEROGADO
+
+#### Artículo 457
+
+DEROGADO
+
+#### Artículo 458
+
+DEROGADO
+
+#### Artículo 459
+
+DEROGADO
+
+#### Artículo 460
+
+DEROGADO
+
+#### Artículo 461
+
+DEROGADO
+
+#### Artículo 462
+
+DEROGADO
+
+#### Artículo 463
+
+DEROGADO
+
+#### Artículo 464
+
+DEROGADO
+
+#### Artículo 465
+
+DEROGADO
+
+#### Artículo 466
+
+DEROGADO
+
+#### Artículo 467
+
+DEROGADO
+
+#### Artículo 468
+
+DEROGADO
+
+#### Artículo 469
+
+DEROGADO
+
 ### 9. Disposiciones relativas a la sociedad
 
 en comandita
