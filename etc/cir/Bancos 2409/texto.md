@@ -20766,35 +20766,19 @@ c) Depósitos a Plazo constituidos en otras instituciones financieras.
 
 ### 4. Componentes de las operario es activas y pasivas a más de un año plazo
 
-Para los efectos de la relación de operaciones a más de un año plazo, se
+Para los efectos de la relación de operaciones a más de un año plazo, se considerarán como operaciones "activas" o "pasivas" las que se registran en las cuentas que se demuestran en las Partidas del MB1 que más adelante se indican,tanto en moneda chilena como extranjera. Esta relación incluirá los saldos promedios de las respectivas cuentas en cada mes, más los reajustes registrados en cuentas complementarias, en el caso de las operaciones reajustables.
 
-considerarán como operaciones "activas" o "pasivas" las que se registran en las
+Respecto de las operaciones a más de un año, será necesario informar separadamente:
 
-cuentas que se demuestran en las Partidas del MB1 que más adelante se
+- **a)** las reajustables por la variación de la Unidad de Fomento;
 
-indican,tanto en moneda chilena como extranjera. Esta relación incluirá los
+- **b)** las no reajustables en moneda chilena, y
 
-saldos promedios de las respectivas cuentas en cada mes, más los reajustes
-
-registrados en cuentas complementarias, en el caso de las operaciones
-
-reajustables.
-
-Respecto de las operaciones a más de un año, será necesario informar
-
-separadamente: a) las reajustables por la variación de la Unidad de Fomento; b)
-
-las no reajustables en moneda chilena, y c) las en moneda extranjera,incluidas
-
-en estas últimas las expresadas en moneda chilena reajustables por la variación
-
-del tipo de cambio, como también las expresadas en moneda extranjera y pagaderas
-
-en moneda chilena.
+- **c)** las en moneda extranjera,incluidas en estas últimas las expresadas en moneda chilena reajustables por la variación del tipo de cambio, como también las expresadas en moneda extranjera y pagaderas en moneda chilena.
 
 Operaciones Activas.
 
-Partidas N°s. 1205 a 1245.
+Partidas N°s. 1205 a 1248.
 
 Operaciones Pasivas.
 
@@ -20802,11 +20786,11 @@ Partida N° 3035
 
 Partida N° 3065
 
-Partidas N°s. 3075 y 3080
+Partidas N°s. 3075 y 3085
 
 Partidas N°s. 3105 a 3115
 
-Partidas N°s. 3455 a 3480
+Partidas N°s. 3455 a 3485
 
 Partidas N°s. 3555 a 3570.
 
@@ -30016,31 +30000,17 @@ a) Moneda extranjera.
 
 Debe: "Conversión Mercado Bancario" de la partida 2505 ó 4505 del formulario MB1.
 
-Haber: "Conversión-Divisas para garantía contratos a futuro" que se crea para
+Haber: "Conversión-Divisas para garantía contratos a futuro" que se crea para tal efecto, cuyo saldo se demostrará en la partida 4525 del formulario MB1.
 
-tal efecto, cuyo saldo se demostrará en la partida 4525 del formulario MB1.
-
-En estas cuentas se registrará el importe de la moneda extranjera adquirida con
-
-cargo a la Posición de Cambios para enterar el depósito destinado a cumplir los
-
-márgenes de garantía exigidos para las Bolsas Oficiales Extranjeras, sobre los
-
-contratos vigentes.
+En estas cuentas se registrará el importe de la moneda extranjera adquirida con cargo a la Posición de Cambios para enterar el depósito destinado a cumplir los márgenes de garantía exigidos para las Bolsas Oficiales Extranjeras, sobre los contratos vigentes.
 
 b) Moneda chilena.
 
-Debe: "Cambio-Divisas para garantía contratos a futuro", que se crea con ese
-
-objeto, la que será demostrada en la partida 2525 del formulario MB1.
+Debe: "Cambio-Divisas para garantía contratos a futuro", que se crea con ese objeto, la que será demostrada en la partida 2525 del formulario MB1.
 
 Haber: "Cambio Mercado Bancario" de la partida 2505 ó 4505 del formulario MB1.
 
-Corresponde contabilizar en estas cuentas el equivalente en pesos moneda chilena
-
-pagado por la adquisición de la moneda extranjera, para constituir los depósitos
-
-destinados a cumplir con los márgenes de garantía por los contratos de compra o
+Corresponde contabilizar en estas cuentas el equivalente en pesos moneda chilena pagado por la adquisición de la moneda extranjera, para constituir los depósitos destinados a cumplir con los márgenes de garantía por los contratos de compra o
 
 venta a futuro de moneda extranjera vigentes.
 
@@ -30048,163 +30018,149 @@ venta a futuro de moneda extranjera vigentes.
 
 a) En efectivo:
 
-Debe: "Garantías en efectivo por contratos a futuro de monedas extranjeras", que
+Debe: "Garantías en efectivo por contratos a futuro de monedas extranjeras", que se habilita con esa finalidad, cuyo saldo será demostrado en la partida 1775 del formulario MB1.
 
-se habilita con esa finalidad, cuyo saldo será demostrado en la partida 1775 del
-
-formulario MB1.
-
-Haber: La cuenta que corresponda por el giro de la moneda extranjera para
-
-entregar el importe que se constituirá para cumplir con el margen de garantía
-
-delos contratos a futuro vigentes.
+Haber: La cuenta que corresponda por el giro de la moneda extranjera para entregar el importe que se constituirá para cumplir con el margen de garantía delos contratos a futuro vigentes.
 
 b) Carta de Crédito Stand By.
 
-Debe: "Cauciones otorgadas por contratos a futuro moneda extranjera", cuyo saldo
+Debe: "Cauciones otorgadas por contratos a futuro moneda extranjera", cuyo saldo se demostrará en la partida 9290 del formulario MB1.
 
-se demostrará en la partida 9290 del formulario MB1.
+Haber: "Responsabilidad por cauciones otorgadas por contratos a futuro moneda extranjera", la que será reflejada en la partida 9900 del formulario MB1.
 
-Haber: "Responsabilidad por cauciones otorgadas por contratos a futuro moneda
-
-extranjera", la que será reflejada en la partida 9900 del formulario MB1.
-
-Quedará registrado en estas cuentas el importe en moneda extranjera de las
-
-cartas de crédito u otros documentos emitidos por el banco a favor del
-
-respectivo corredor de Bolsa Oficial Extranjera, para cumplir el margen de
-
-garantía de los contratos vigentes de compra o venta a futuro de moneda
+Quedará registrado en estas cuentas el importe en moneda extranjera de las cartas de crédito u otros documentos emitidos por el banco a favor del respectivo corredor de Bolsa Oficial Extranjera, para cumplir el margen de garantía de los contratos vigentes de compra o venta a futuro de moneda
 
 extranjera.
 
 5.2. Compra y venta de contratos a futuro.
 
-Los contratos de compra o venta a futuro de moneda extranjera comprenden además
-
-de la moneda que se "adquiere" o se "vende" en esa forma, aquélla mediante la
-
-cual se pagará el precio del contrato de compra o de venta. En consecuencia,
-
-cada transacción comprenderá dos monedas: la que se adquiere o se vende por
-
-medio del contrato correspondiente y la moneda o divisa en la que se ha fijado
-
-el precio de la transacción a futuro. Para los fines de reflejar adecuadamente
-
-en la contabilidad del banco, tanto el derecho como la obligación emanada de
-
-estos contratos a futuro, habrá que registrar tales derechos y deberes en las
-
-monedas que corresponda.
+Los contratos de compra o venta a futuro de moneda extranjera comprenden además de la moneda que se "adquiere" o se "vende" en esa forma, aquélla mediante la cual se pagará el precio del contrato de compra o de venta. En consecuencia, cada transacción comprenderá dos monedas: la que se adquiere o se vende por medio del contrato correspondiente y la moneda o divisa en la que se ha fijado el precio de la transacción a futuro. Para los fines de reflejar adecuadamente en la contabilidad del banco, tanto el derecho como la obligación emanada de estos contratos a futuro, habrá que registrar tales derechos y deberes en las monedas que corresponda.
 
 5.2.1. Compra de contratos a futuro.
 
 a) por los contratos de compra en la moneda adquirida.
 
-Debe: "Contratos a futuro moneda extranjera adquiridos", cuenta cuyo saldo se
+Debe: "Contratos a futuro moneda extranjera adquiridos", cuenta cuyo saldo se demostrará en la partida 9540 que, con el mismo nombre, se crea con ese objeto.
 
-demostrará en la partida 9540 que, con el mismo nombre, se crea con ese objeto.
-
-Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes". Esta
-
-cuenta se incluirá en la partida 9900 del formulario MB1.
+Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes". Esta cuenta se incluirá en la partida 9900 del formulario MB1.
 
 b) por el contravalor del contrato en la moneda del precio pactado.
 
-Debe: "Contravalor de contratos a futuro moneda extranjera comprados". El saldo
+Debe: "Contravalor de contratos a futuro moneda extranjera comprados". El saldo de esta cuenta se demostrará en la partida 9545 que con el nombre de "Contravalor de contratos a futuro moneda extranjera vigentes", se crea en el formulario MB1.
 
-de esta cuenta se demostrará en la partida 9545 que con el nombre de
-
-"Contravalor de contratos a futuro moneda extranjera vigentes", se crea en el
-
-formulario MB1.
-
-Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera
-
-vigentes", de la partida 9900, del formulario MB1.
+Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera vigentes", de la partida 9900, del formulario MB1.
 
 5.2.2. Venta de contratos a futuro.
 
 a) por los contratos de venta, en la moneda vendida.
 
-Debe: "Contratos a futuro moneda extranjera vendidos", cuenta que se demostrará
+Debe: "Contratos a futuro moneda extranjera vendidos", cuenta que se demostrará en la partida 9550 que se crea con igual nombre en el formulario MB1.
 
-en la partida 9550 que se crea con igual nombre en el formulario MB1.
-
-Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes", de
-
-la partida 9900 del formulario MB1.
+Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes", de la partida 9900 del formulario MB1.
 
 b) Por el contravalor del contrato en la moneda del precio pactado.
 
-Debe: "Contravalor contratos a futuro moneda extranjera vendidos", cuyo saldo se
+Debe: "Contravalor contratos a futuro moneda extranjera vendidos", cuyo saldo se demostrará en la partida 9545 del formulario MB1.
 
-demostrará en la partida 9545 del formulario MB1.
+Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera vigentes", de la partida 9900 del formulario MB1.
 
-Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera
+5.3. Remesas durante la vigencia de los contratos.
 
-vigentes", de la partida 9900 del formulario MB1.
+Los importes que los bancos reciban de sus corredores y los que remitan a éstos por concepto de garantía, fluctuaciones de precio u otros similares, serán registrados de la siguiente forma:
 
-5.3. Liquidación de los contratos.
-
-La liquidación de los contratos a futuro en sus fechas de vencimiento dará lugar
-
-a la reversión de los asientos contables señalados en los numerales 5.2.1 y
-
-5.2.2 precedentes, según corresponda. Además, se procederá a revertir, cada vez
-
-que sea pertinente, los asientos relativos a las garantías que se mantuvieren
-
-registradas por los contratos que se liquidan.
-
-Simultáneamente, los bancos liquidarán, en los casos en que proceda, las
-
-diferencias que resulten a su favor o sean de su cargo, las que serán
-
-registradas de la siguiente forma:
-
-5.3.1. Diferencias a favor del banco.
+5.3.1. Importes recibidos del corredor.
 
 a) Moneda extranjera.
 
-Debe: La cuenta que corresponda por la recepción de la diferencia.
+Debe: - La cuenta que corresponda por la recepción del importe respectivo y, en caso que el monto recibido se encuentre registrado como garantía constituida,
 
-Haber: "Conversión Mercado Bancario".
+- "Conversión-Divisas para garantía contratos a futuro".
+
+Haber: - "Conversión Mercado Bancario" y, cuando corresponda,
+
+- "Garantías en efectivo por contratos a futuro de monedas extranjeras".
 
 b) Moneda chilena.
 
-Debe: "Cambio Mercado Bancario".
+Debe: - "Cambio Mercado Bancario".
 
-Haber: "Utilidades por liquidación de contratos a futuro", que se habilita con
+Haber: - "Utilidades por contratos a futuro", de la partida 7710 del MR1, o bien, en caso que el importe recibido se encontrare registrado como garantía constituida,
 
-ese objeto, la que será demostrada en la partida 7710 del formulario MR1.
+- "Cambio-Divisas para garantía contratos a futuro".
 
-5.3.2. Diferencias de cargo del banco.
+5.3.2. Importes remesados al corredor.
 
 a) Moneda extranjera.
 
-Debe: "Conversión Mercado Bancario".
+Debe: - "Conversión Mercado Bancario" y, cuando corresponda,
 
-Haber: La cuenta que corresponda por el giro para pagar la respectiva diferencia.
+- "Garantías en efectivo por contratos a futuro de monedas extranjeras".
+
+Haber: - La cuenta que corresponda por el giro para efectuar la remesa al corredor y, cuando proceda,
+
+- "Conversión-Divisas para garantía contratos a futuro".
 
 b) Moneda chilena.
 
-Debe: "Pérdidas por liquidación de contratos a futuro", que se crea con ese
+Debe: - "Pérdidas por contratos a futuro", cuenta que se incluye en la partida 5710 del MR1, o bien en el caso que el importe remesado pase a incrementar la garantía constituida,
 
-objeto, la que será demostrada en la partida 5710 del formulario MR1.
+- "Cambio-Divisas para garantía contratos a futuro".
 
-Haber: "Cambio Mercado Bancario".
+Haber: - "Cambio Mercado Bancario".
 
-5.4. Pago de comisiones a los corredores.
+5.4. Liquidación de los contratos.
+
+La liquidación de los contratos a futuro en sus fechas de vencimiento dará lugar a la reversión de los asientos contables señalados en los numerales 5.2.1 y 5.2.2 de este título, según corresponda. Además, se procederá a revertir, cada vez que sea pertinente, los asientos relativos a las garantías que se mantuvieren registradas por los contratos que se liquidan.
+
+Simultáneamente, los bancos liquidarán, en los casos en que proceda, las diferencias que resulten a su favor o sean de su cargo, las que serán registradas de la siguiente forma:
+
+5.4.1. Diferencias a favor del banco.
 
 a) Moneda extranjera.
 
-Por la venta con cargo a la Posición de Cambios de la moneda extranjera
+Debe: - La cuenta que corresponda por la recepción de la diferencia, o bien si ésta se abona a la garantía constuida,
 
-destinada al pago de las comisiones adeudadas:
+- "Garantías en efectivo por contratos a futuro de monedas extranjeras".
+
+Haber: - "Conversión Mercado Bancario", en caso de recibirse y procederse a su liquidación o bien,
+
+- "Conversión-Divisas para garantía contratos a futuro", si se destinaren a incrementar la garantía constituida.
+
+b) Moneda chilena.
+
+Debe: - "Cambio Mercado Bancario", o bien,
+
+- "Cambio-Divisas para garantía contratos a futuro".
+
+Haber: - "Utilidades por contratos a futuro", cuenta que se demostrará en la partida 7710 del MR1.
+
+5.4.2. Diferencias de cargo del banco.
+
+a) Moneda extranjera.
+
+Debe: - "Conversión Mercado Bancario", o bien,
+
+- "Conversión-Divisas para garantía contratos a futuro", en caso que la diferencia se impute a la garantía constituida.
+
+Haber: - La cuenta que corresponda por el giro para pagar la respectiva diferencia, o bien,
+
+- "Garantías en efectivo por contratos a futuro de monedas extranjeras".
+
+b) Moneda chilena.
+
+Debe: "Pérdidas por contratos a futuro", de la partida 5710 del MR1.
+
+Haber: - "Cambio Mercado Bancario", o bien,
+
+- "Cambio-Divisas para garantía contratos a futuro".
+
+En consecuencia, se remplazan las hojas N°s 6, 7 y 8 del Capítulo 13-23 de la Recopilación ya mencionada, por las que se adjuntan a esta Circular. Además, se agregan al mismo Capítulo las hojas 6a y 6b.
+
+5.5. Pago de comisiones a los corredores.
+
+a) Moneda extranjera.
+
+Por la venta con cargo a la Posición de Cambios de la moneda extranjera destinada al pago de las comisiones adeudadas:
 
 Debe: "Conversión Mercado Bancario".
 
@@ -30212,23 +30168,17 @@ Haber: La cuenta que corresponda por el giro para efectuar dicho pago.
 
 b) Moneda chilena.
 
-Por el equivalente en pesos, moneda chilena, de la moneda extranjera adquirida
+Por el equivalente en pesos, moneda chilena, de la moneda extranjera adquirida para el pago de las comisiones adeudadas:
 
-para el pago de las comisiones adeudadas:
-
-Debe: "Comisiones pagadas por contratos a futuro", que se habilita con esa
-
-finalidad, cuyo saldo será demostrado en la partida 5530 del formulario MR1.
+Debe: "Comisiones pagadas por contratos a futuro", que se habilita con esa finalidad, cuyo saldo será demostrado en la partida 5530 del formulario MR1.
 
 Haber: "Cambio Mercado Bancario".
 
-5.5. Gastos de correo y de comunicaciones en general.
+5.6. Gastos de correo y de comunicaciones en general.
 
 a) Moneda extranjera.
 
-Por la venta de la moneda extranjera para pagar los gastos generados por estas
-
-operaciones y cobrados por los corredores que han intervenido en ellas:
+Por la venta de la moneda extranjera para pagar los gastos generados por estas operaciones y cobrados por los corredores que han intervenido en ellas:
 
 Debe: "Conversión Mercado Bancario".
 
@@ -30236,81 +30186,25 @@ Haber: La cuenta que corresponda por el giro para pagar el respectivo gasto.
 
 b) Moneda chilena.
 
-Por el equivalente de la moneda extranjera pagado para la cobertura de los
-
-gastos cobrados por los corredores de Bolsas Oficiales Extranjeras:
+Por el equivalente de la moneda extranjera pagado para la cobertura de los gastos cobrados por los corredores de Bolsas Oficiales Extranjeras:
 
 Debe: La cuenta de resultado que proceda según el gasto de que se trate.
 
 Haber: "Cambio Mercado Bancario".
 
-5.6. Ajustes mensuales.
+5.7. Ajustes mensuales.
 
-El último día de cada mes los bancos procederán a calcular y registrar
+El último día de cada mes los bancos procederán a calcular y registrar provisionalmente la variación de paridad neta que a esa fecha hayan experimentado los contratos que mantengan vendidos y comprados a futuro.
 
-provisionalmente la variación de paridad neta que a esa fecha hayan
+Al mes siguiente, antes de registrar el nuevo ajuste o al efectuar la liquidación de los respectivos contratos, procederán a revertir el que hayan efectuado en el mes precedente.
 
-experimentado los contratos que mantengan vendidos y comprados a futuro.
+Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación provisional de contratos a futuro" que se crea con ese objeto, cuyo saldo se demostrará en la partida 2120 ó 4120 del formulario MB1, y con abono a la cuenta "Utilidades por variación de paridad de contratos a futuro" o con cargo "Pérdidas por variación de paridad de contratos a futuro", según corresponda,que se incluirán en las partidas 7710 y 5710 del formulario MR1, respectivamente.
 
-Al mes siguiente, antes de registrar el nuevo ajuste o al efectuar la
+El ajuste se realizará sobre la base de las paridades que tengan entre sí las monedas involucradas, según las equivalencias que publica diariamente el Banco Central de Chile y que correspondan, en este caso, a la publicada en la fecha en que se realice el ajuste.
 
-liquidación de los respectivos contratos, procederán a revertir el que hayan
+Para los efectos de calcular dicha variación en términos de pesos moneda chilena, se considerará el efecto de la variación de paridad, sobre la moneda extranjera de contrapartida, esto es, la que debe recibirse en pago de la moneda que se vende o la que debe entregarse en pago de la moneda que se compra. El tipo de cambio que se aplicará para la conversión a moneda nacional, será el que haya dado a conocer esta Superintendencia para fines de representación contable,vigente a la fecha del ajuste.
 
-efectuado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en
-
-pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación
-
-provisional de contratos a futuro" que se crea con ese objeto, cuyo saldo se
-
-demostrará en la partida 2120 ó 4120 del formulario MB1, y con abono a la cuenta
-
-"Utilidades por variación de paridad de contratos a futuro" o con cargo
-
-"Pérdidas por variación de paridad de contratos a futuro", según corresponda,que
-
-se incluirán en las partidas 7710 y 5710 del formulario MR1, respectivamente.
-
-El ajuste se realizará sobre la base de las paridades que tengan entre sí las
-
-monedas involucradas, según las equivalencias que publica diariamente el Banco
-
-Central de Chile y que correspondan, en este caso, a la publicada en la fecha en
-
-que se realice el ajuste.
-
-Para los efectos de calcular dicha variación en términos de pesos moneda
-
-chilena, se considerará el efecto de la variación de paridad, sobre la moneda
-
-extranjera de contrapartida, esto es, la que debe recibirse en pago de la moneda
-
-que se vende o la que debe entregarse en pago de la moneda que se compra. El
-
-tipo de cambio que se aplicará para la conversión a moneda nacional, será el que
-
-haya dado a conocer esta Superintendencia para fines de representación
-
-contable,vigente a la fecha del ajuste.
-
-Por otra parte, los bancos ajustarán el saldo de la cuenta "Cambio-Divisas para
-
-Garantía contratos a futuro", el último día de cada mes, de tal manera que éste
-
-refleje el equivalente en pesos del saldo de la cuenta "Conversión-Divisas para
-
-Garantía contratos a futuro", al tipo de cambio fijado por esta Superintendencia
-
-para tal efecto. Dicho ajuste se realizará con abono a la cuenta "Utilidades por
-
-variación de tipo de cambio de recursos en moneda extranjera liquidadas" de la
-
-partida 7715 del formulario MR1, o bien, con cargo a "Pérdidas por variación de
-
-tipo de cambio de recursos en moneda extranjera liquidados" de la partida 5715
-
-de dicho formulario.
+Por otra parte, los bancos ajustarán el saldo de la cuenta "Cambio-Divisas para Garantía contratos a futuro", el último día de cada mes, de tal manera que éste refleje el equivalente en pesos del saldo de la cuenta "Conversión-Divisas para Garantía contratos a futuro", al tipo de cambio fijado por esta Superintendencia para tal efecto. Dicho ajuste se realizará con abono a la cuenta "Utilidades por variación de tipo de cambio de recursos en moneda extranjera liquidadas" de la partida 7715 del formulario MR1, o bien, con cargo a "Pérdidas por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 5715 de dicho formulario.
 
 ### 6. Antecedentes de las operaciones a futuro
 
