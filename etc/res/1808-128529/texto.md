@@ -1,0 +1,3 @@
+Por resolución Nº 1.808, de 11 de diciembre de 1998, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96103018, presentada por MARCELO JAVIER VILLARROEL HUICHIPANI, para operar un centro de cultivo en Sector Aucar, frente a la Isla Caucahue, comuna de Quemchi, provincia de Chiloé, X Región.
+
+Valparaíso, 11 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
