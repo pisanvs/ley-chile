@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.483, de fecha 28 de septiembre de 2001, se expropiaron los lotes de terreno Nº 1 y 1-A, superficies 2.004,0 m2 y 1.017,0 m2., respectivamente, rol de avalúo 65-30, comuna de Lonquimay, para la obra ''Camino Malalcahuello-Paso Pino Hachado, Rutas R-891, R-955 y R-89, Sector Acceso Pedregoso-Liucura, km. 141,00000 al 158,54000'', y se acordó el valor de indemnización con su propietaria doña Nora del Carmen Ortega Aguilera, ascendente a la cantidad de $2.345.325.
+
+- Fiscal del Ministerio de Obras Públicas.
