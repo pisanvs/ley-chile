@@ -1,0 +1,1 @@
+Dispone que el personal civil subalterno de la Justicia Militar tendrá la calidad de empleado del Ejército; y le fija planta y sueldos.
