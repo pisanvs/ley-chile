@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 131, de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 40-A, superficie 160.00 m2, rol de avalúo 613-48, comuna de Molina, VII Región, para la obra "Camino Ruta K-175 Molina - Siete Tazas, Sector Molina - Bif. Ruta K-179, Tramo Km. 0,000.00 al 8,400.00" y se acordó el valor de indemnización con su propietario Sydney Ojeda Fuensalida y Otros, ascendente a la cantidad de $2.045.472.
+
+- Fiscal del Ministerio de Obras Públicas.
