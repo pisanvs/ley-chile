@@ -14,7 +14,9 @@ Decreto:
 
 #### Artículo 1°
 
-Para los efectos de la aplicación de este reglamento, se entenderá por persona lisiada, a toda aquélla que por causa congénita o adquirida, presenta una incapacidad permanente que limita la función de sus miembros inferiores y a aquéllas que además de la incapacidad permanente de uno o dos de sus miembros inferiores, presentan también incapacidad permanente de uno de sus miembros superiores; siempre que cualquiera de estas incapacidades permanentes no sean susceptibles de mejorar con tratamiento médico quirúrgico. Esta incapacidad debe ser de grado tal, que le impida hacer uso de los medios de locomoción colectiva pública o particular para ejercer su trabajo, completar sus estudios o enseñanzas que propenden a su integral rehabilitación en forma adecuada, o como para que el uso de estos medios habituales de locomoción signifique un agravamiento de su incapacidad.
+Para los efectos de la aplicación de este reglamento, se entenderá por persona lisiada, a toda aquella que presenta una incapacidad permanente para la marcha normal por causa congénita o adquirida que limita la función de uno o los dos miembros inferiores, y aquellas que, además, presentan una incapacidad absoluta de uno de sus miembros superiores; siempre que cualquiera de estas incapacidades no sean susceptibles de mejorar con tratamiento médico quirúrgico.
+
+La incapacidad debe ser de grado tal, que impida a la persona lisiada hacer uso de los medios de locomoción colectiva o particular para ejercer su trabajo, completar sus estudios o enseñanzas que propenden a su integral rehabilitación en forma adecuada, o como para que el uso de estos medios habituales de locomoción signifique un agravamiento de su incapacidad.
 
 #### Artículo 2°
 
@@ -28,21 +30,17 @@ En cada ocasión en que las personas lisiadas deseen importar un nuevo vehículo
 
 La Comisión en los certificados que otorgue deberá dejar expresa mención de las siguientes circunstancias:
 
-a.- Que se trata de una incapacidad permanente que limita la función de los miembros inferiores.
+a.- Que se trata de una incapacidad permanente que limita la función de uno o los dos miembros inferiores.
 
 b.- Que la incapacidad no es susceptible de mejorar con tratamiento médico quirúrgico.
 
 c.- Que la incapacidad es de tal grado que impide a la persona lisiada hacer uso de los medios de locomoción colectiva pública o particular para ejercer su trabajo, complementar sus estudios o enseñanzas que propendan a su integral rehabilitación en forma adecuada o que el uso de los medios habituales de locomoción significa un agravamiento de la incapacidad.
 
-La Comisión enviará una copia del certificado a la unidad encargada de la función de tránsito y transporte públicos de la Municipalidad que otorgó la licencia para conducir vehículos a la persona a que se refiere el certificado, a fin de que en dicha licencia se deje constancia con arreglo a las disposiciones de la ley N° 18.290, de la exigencia especial que afecta a su titular.
-
-En caso que la persona a que se refiere el certificado no posea la licencia mencionada en el inciso anterior, la copia del certificado se le entregará a ella para los efectos de obtener su licencia de conductor de acuerdo a lo establecido en la mencionada ley.
+INCISO DEROGADO.
 
 #### Artículo 4°
 
-El Ministerio de Hacienda, previa presentación del Certificado y cumplimiento, por parte de los interesados, de los demás requisitos señalados en el presente reglamento, dictará una resolución concediendo la franquicia.
-
-Las personas lisiadas deberán acompañar a su solicitud un certificado otorgado por la unidad encargada de la función de tránsito y transporte públicos de la Municipalidad correspondiente a su domicilio, en el cual se exprese que la persona a que se refiere dicho certificado presenta aptitudes para conducir un vehículo especialmente adaptado a su incapacidad.
+Las personas lisiadas que importen estos vehículos deberán ser trabajadores habituales o tratarse de personas que están completando sus estudios en establecimientos educacionales del Estado o reconocidos por éste o de personas que se encuentran en proceso de rehabilitación en organismos estatales o reconocidos por el Estado.
 
 #### Artículo 5°
 
@@ -66,13 +64,31 @@ c) En casos calificados por la Comisión podrá importarse una silla de ruedas a
 
 #### Artículo 8°
 
-Las personas lisiadas que importen estos vehículos deberán ser trabajadores habituales o haberlo sido antes de su invalidez, considerándose suficiente para acreditar esa calidad un certificado de imponente del Instituto de Normalización Previsional o de la Administradora de Fondos de Pensiones respectiva o una declaración del empleador otorgada ante la Inspección del Trabajo.
+El Ministerio de Hacienda concederá la franquicia mediante resolución firmada por el Subsecretario de Hacienda por orden del Presidente de la República, autorizando la importación del vehículo, previa presentación de la respectiva solicitud por el interesado, conjuntamente con los documentos que se indican a continuación:
 
-Cuando se trate de lisiados que tienen profesión u oficio libre, deberán acreditarlo mediante copia del Rol Unico Tributario y del comprobante de pago del Impuesto Global Complementario o su exención, según procesa.
+a.- Certificado de la Comisión de Medicina Preventiva e Invalidez del Servicio de Salud a que se refiere el artículo 6° de la Ley N° 17.238.
 
-También podrán importar vehículos los estudiantes lisiados de establecimientos educacionales del Estado o reconocidos por éste y aquellas personas que siguen un proceso de rehabilitación en organismos estatales o reconocidos por el Estado, previa comprobación de los medios económicos utilizados para su adquisición y cumplan con lo dispuesto en el artículo 4° de este decreto.
+b.- Certificado de Inscripción vigente en el Registro Nacional de la Discapacidad.
 
-En caso que alguna persona no cumpla con las condiciones anteriores, para obtener el certificado a que se refiere el artículo 3° deberá presentar a la Comisión pruebas o contratos de trabajos condicionados al uso de un vehículo de los calificados en la letra b) del artículo 7°.
+c.- Copia de la Cédula Nacional de Identidad.
+
+d.- Copia de la Licencia para conducir vehículos motorizados.
+
+En la mencionada licencia debe constar, con arreglo a las disposiciones de la Ley N° 18.290, la exigencia especial que afecta a su titular.
+
+e.- Declaración jurada otorgada ante Notario, en que se deje constancia el número de veces anteriores en que se ha hecho uso de la franquicia a que se refiere este reglamento.
+
+f.- Las personas que anteriormente se hubieren acogido a la franquicia, deberán acompañar documentos que acrediten en forma fehaciente la fecha de la última importación de su vehículo.
+
+g.- Las personas lisiadas que trabajen como empleados deberán acreditar dicha calidad mediante certificado otorgado por el Instituto de Normalización Previsional o por la Administradora de Fondos de Pensiones, según donde se encuentren afiliadas.
+
+h.- Las personas lisiadas que trabajen en forma independiente deberán acreditar su actividad acompañando copia de la última declaración anual del Impuesto a la Renta.
+
+i.- Las personas lisiadas que se encuentren en proceso de rehabilitación en algún organismo del Estado o reconocido por éste, deberán acreditar dicha situación mediante certificado otorgado por el organismo en que se encuentren en rehabilitación.
+
+j.- Las personas lisiadas que estén estudiando en establecimientos educacionales del Estado o reconocidos por éste, deberán acreditar la condición de estudiantes mediante certificado otorgado por el establecimiento en que se encuentren estudiando.
+
+k.- Las personas lisiadas como consecuencia de un accidente del trabajo o de una enfermedad profesional, deberán acompañar copia de la resolución de la Comisión Médica que declaró la ocurrencia del accidente del trabajo o de la enfermedad profesional.
 
 #### Artículo 9°
 
