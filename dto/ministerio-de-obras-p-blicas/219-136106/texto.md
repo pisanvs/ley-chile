@@ -1,0 +1,5 @@
+Por decreto MOP No. 219, de 26 de febrero de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP No. 850 de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. MOP No. 206 de 1960, se expropió el lote de terreno No.
+
+11-2; para la obra: Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli. Sector: Km. 483.400,00 al Km. 498.800,00, ubicado en la Octava Región, provincia del Bío Bío, que figura a nombre de Soc. Constructora Mandarín Ltda, rol de avalúo No. 1510-30, comuna de Los Angeles, superficie de 229 m2. La comisión de peritos integrada por los señores Jaime García Molina, Juan Pablo Cuevas Castillo y Omar Andrés Aspé Neira, fijó con fecha 24 de agosto de 1998, el valor provisional de la indemnización en la cantidad de $ 83.585.- para el lote No. 11-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
