@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION N° 421, DE 1986, QUE AUTORIZO A COMERCIAL GARDEWEG, ORTUZAR Y PALMA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS Y DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución N° 127, de 06.02.87, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución N° 421, de 1986, de esta Subsecretaria, que auto rizó a Comercial Gardeweg, Ortúzar y Palma Limitada, domiciliada en Santiago, para instalar y operar una planta elaboradora de recursos hidrobiológicos en las líneas de congelado, deshidratado y conserva en Chulchui, Isla Lemuy, Comuna de Puqueldón, Chiloé, X Región, en orden a incluir, en el numeral 3° de dicha resolución, el recurso centolla entre los que podrá utilizar como materia prima. Además, se deniega autorización a la peticionaria para realizar actividades de cultivo en Isla Lemuy, Comuna de Puqueldón, X Región.
+
+Valparaíso, 06.02.87.- Roberto Cabezas Bello, Subsecretario de Pesca.
