@@ -1,0 +1,3 @@
+Por decreto MOP. No. 916, de 30 de junio de 1998, se expropiaron los lotes de terreno No. 5 y 6, superficies 1.049 m2. y 9.919 m2., Rol de Avalúo 186-19, Comuna de Colina, para la obra Camino Santiago - Colina - Los Andes, Sector "C" Peldehue - Casas de Chacabuco, km. 26.000,00 a km. 36.510,80, y se acordó precio de la indemnización con su propietario Beiza Muñoz Hernán Eduardo, ascendente a la cantidad de $ 28.426.092.- para los lotes No. 5 y 6.
+
+Fiscal del Ministerio de Obras Públicas.
