@@ -1,0 +1,3 @@
+Por resolución Nº 2.128, de 29 de septiembre de 2000, de esta Subsecretaría, autorízase a PESQUERA ISLA DEL REY S.A., para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 1.930, de 1995, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Los Condestables Nº 390, Niebla, Valdivia, X Región, la línea de proceso de ahumado, respecto de los recursos autorizados en resolución Nº 1.930, de 1995.
+
+Valparaíso, 29 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
