@@ -23606,11 +23606,9 @@ COBERTURA DE IMPORTACIONES.
 
 De conformidad con lo dispuesto en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales, las instituciones bancadas están autorizadas para vender divisas destinadas a pagar el valor de las mercaderías que se importan al país, así como los gastos en moneda extranjera inherentes a la importación, previos la presentación de los documentos y el cumplimiento de los requisitos establecidos en las normas del Banco Central de Chile para tal objeto. Las personas que adquieran divisas para tal efecto estarán exentas de la obligación de liquidarlas, de conformidad con lo señalado en el numeral 2.1 de este Capítulo.
 
-Para efectuar una venta de divisas cuya finalidad es la cobertura de una importación, deberá contarse con el correspondiente Informe de Importación o con el documento que lo remplace y con los documentos de embarque respectivos. En general, la cobertura sólo puede efectuarse después que se haya realizado el embarque, salvo en los casos en que el Banco Central e Chile autorice expresamente hacerlo con antelación a esa fecha. Se entiende para estos efectos como "fecha de embarque", la que en el respectivo conocimiento de embarque, Guía aérea, Carta de Porte o en el documento que cumpla la función de éstos, señale la oportunidad en que la mercadería fue puesta a bordo, como por ejemplo, cuando se trate de un embarque por vía marítima, o la del día de vuelo cuando se utilice el transporte aéreo. A falta de tal fecha, se considerará la de emisión del respectivo documento.
+Para efectuar una venta de divisas cuya finalidad es la cobertura de una importación, deberá contarse con el correspondiente Informe de Importación o con el documento que lo remplace y con la Declaración de Importación. En general, la cobertura sólo puede efectuarse después que se haya realizado el embarque, salvo en los casos en que el Banco Central de Chile autorice expresamente hacerlo con antelación a esa fecha.
 
-Cada vez que un banco proceda a realizar la cobertura de una importación, deberá verificar que el embarque se hubiere realizado dentro del plazo permitido por el Informe de Importación, cuando corresponda, que os valores consignados en los documentos de embarque no excedan de los declarados en el respectivo Informe de Importación y en la Declaración de Importación o documentos que hagan sus veces, o que, en caso contrario, se encuadren dentro de las tolerancias que ha establecido el Banco Central de Chile o cuenten con la correspondiente autorización del Instituto Emisor.
-
-Igualmente, deberá cuidarse de que los demás datos anotados en los distintos documentos inherentes a una misma importación, sean concordantes entre sí.
+Cada vez que un banco proceda a realizar la cobertura de una importación, deberá verificar que el embarque se hubiere realizado dentro del plazo permitido por el Informe de Importación, cuando corresponda, que os valores no excedan de los declarados en el respectivo Informe de Importación y en la Declaración de Importación o documentos que hagan sus veces, o que, en caso contrario, se encuadren dentro de las tolerancias que ha establecido el Banco Central de Chile o cuenten con la correspondiente autorización del Instituto Emisor.
 
 La venta de divisas para la cobertura de importaciones se hace normalmente a los importadores respectivos. Sin embargo, los acreedores de los importadores podrán solicitar la cobertura de una importación cuando el contravalor correspondiente provenga de repartos por quiebras o convenios, de enajenación de bienes adjudicados o recibidos en pago o de liquidación forzosa de bienes del deudor o de terceros garantes, efectuada en procedimiento de cobranza judicial. Los acreedores que se acojan a esta posibilidad, deberán cumplir con los requisitos especiales establecidos por el Banco Central de Chile para estos casos.
 
@@ -23620,7 +23618,7 @@ La venta de divisas para la cobertura de importaciones se hace normalmente a los
 
 Las personas que adquieran divisas en el mercado cambiario formal de conformidad con las normas del Banco Central de Chile, con el objeto de efectuar los pagos de las mercaderías que se importen y los gastos correspondientes, estarán exentas de la obligación de liquidarlas, siempre que se de fiel cumplimiento a las normas contenidas en el Capítulo III antes mencionado.
 
-En todo caso, para que las importaciones tengan acceso a dicho mercado y gocen de la exención señalada en el párrafo precedente, la cobertura deberá efectuarse a más tardar dentro de los 30 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación sea exigible.
+En todo caso, para que las importaciones tengan acceso a dicho mercado y gocen de la exención señalada en el párrafo precedente, la cobertura deberá efectuarse a más tardar dentro de los 90 días hábiles bancarios siguientes a la fecha en que el pago de la respectiva operación sea exigible.
 
 2.2. Venta de divisas para el pago anticipado de mercaderías.
 
@@ -23676,7 +23674,7 @@ Las empresas bancarias convendrán libremente con los importadores, la entrega d
 
 Ante la sola solicitud del importador, los bancos podrán traspasar a la entidad bancaria que aquél designe, el Informe de Importación debidamente endosado y los documentos de embarque respectivos. De los actos de entrega y recepción de la citada documentación, deberán dejar debida constancia tanto el banco cedente como el cesionario.
 
-En caso que se hayan efectuado coberturas parciales al amparo del Informe de Importación que se solicita traspasar, la institución que realizó alguna venta de divisas para esa importación, deberá mantener en sus archivos los documentos señalados en el N° 10 de este capítulo, inherentes a tales coberturas.
+En caso que se hayan efectuado coberturas parciales al amparo del Informe de Importación que se solicita traspasar, la institución que realizó alguna venta de divisas para esa importación, deberá mantener en sus archivos los documentos señalados en el N° 9 de este capítulo, inherentes a tales coberturas.
 
 Del mismo modo, ante el solo requerimiento del importador, las empresas bancarias podrán traspasar la Planilla de Cobertura Egreso Comercio Visible debidamente endosada, a la entidad bancaria que éste designe, a fin de que la entidad designada efectúe la venta de divisas de conformidad con lo dispuesto en el Capítulo III del Título III del Compendio de Normas de Cambios Internacionales.
 
@@ -23684,35 +23682,17 @@ Los endosos, sea del Informe de Importación o de la Planilla de Cobertura, debe
 
 ### 9. Archivo de la documentación
 
-Las empresas bancarias formarán un legajo con cada uno de los Informes de Importación por los cuales hayan endosado la respectiva Planilla de Cobertura o por los cuales hubieran vendido divisas, según corresponda. Estos legajos los mantendrán en sus archivos bajo su exclusiva responsabilidad, ordenados correlativamente por el número de emisión del Informe de Importación e incluirán, obligadamente, los siguientes documentos:
+Las empresas bancarias formarán un legajo con cada uno de los Informes de Importación por los cuales hayan endosado la respectiva Planilla de Cobertura o por los cuales hubieran vendido divisas, según corresponda. Estos legajos los mantendrán en sus archivos durante cinco años, bajo su exclusiva responsabilidad, ordenados correlativamente por el número de emisión del Informe de Importación e incluirán, obligadamente, los siguientes documentos:
 
 a) Original del Informe de Importación y de sus Informes Complementarios, si los hubiere, con las correspondientes anotaciones de control al dorso, de la o de las coberturas efectuadas. Estas anotaciones deben estar refrendadas por cada una de las entidades bancarias que hayan efectuado las ventas de divisas o que hubiesen endosado las respectivas Planillas de Cobertura Egreso Comercio Visible, cuando así corresponda;
 
 b) Copia de la o de las Planillas de Cobertura ingresadas a la Posición de Cambios;
 
-c) Factura comercial extendida por el proveedor extranjero o copia de la misma;
+c) Original o copia de la Carta de Crédito, Nota de Débito o Carta del Cedente, sea que se trate de acreditivo o cobranza;
 
-d) Original o copia de la Póliza o Certificado de Seguro valorado por la institución emisora;
+d) Declaración de Importación o el documento que haga sus veces. Para las coberturas efectuadas con Informe de Importación que amparen mercaderías ingresadas a Depósito Franco (Art. 2°Ley N° 17.170) destinadas a atender las necesidades de las bases antárticas bastará, en remplazo de la Declaración de Importación o del documento que haga sus veces, la presentación de una copia autorizada del ejemplar de las hojas de entrega, con las cuales se efectúa la salida de la mercadería del depósito franco. (Decreto de Hacienda N° 1731/70); y,
 
-e) Original o copia del Conocimiento de embarque, Guía Aérea, Carta de Porte o del documento que haga sus veces, en el que se indique el monto del flete pagado;
-
-f) Cuando las mercaderías provengan de Zonas Francas, se podrá aceptar la factura emitida por el respectivo usuario con el desglose del valor CIF de la mercadería, en remplazo de los documentos señalados en las letras c),
-
-- **d)** y
-
-- **e)** precedentes. Además, se agregará el documento señalado en la letra
-
-- **i)** siguiente cuando se incluya seguro de crédito o de financiamiento;
-
-g) Original o copia de la Carta de Crédito, Nota de Débito o Carta del Cedente, sea que se trate de acreditivo o cobranza;
-
-h) Declaración de Importación o Acta de Correo cumplida, según corresponda, o bien, Certificado de Aduana que indique extravío o abandono a beneficio fiscal o remate de la mercadería. Para las coberturas efectuadas con Informe de Importación que amparen mercaderías ingresadas a Depósito Franco (Art. 2° Ley N° 17.170) destinadas a atender las necesidades de las bases antárticas bastará, en remplazo de la Declaración de Importación o del documento que haga sus veces, la presentación de una copia autorizada del ejemplar de las hojas de entrega, con las cuales se efectúa la salida de la mercadería del depósito franco. (Decreto de Hacienda N° 1731/70);
-
-i) Original o copia de la Factura de Seguro de Crédito o financiamiento, cuando proceda;
-
-j) Copia del Cuadro de Pagos, si se trata de una importación pagadera en cuotas, a más de un año; y,
-
-k) Carta Instrucciones de Cobertura debidamente firmada por el importador o por la respectiva empresa bancaria en casos debidamente calificados, con indicación del numero y fecha de emisión del Informe de Importación correspondiente y monto en moneda extranjera a cubrir.
+e) Carta Instrucciones de Cobertura debidamente firmada por el importador o por la respectiva empresa bancaria en casos debidamente calificados, con indicación del número y fecha de emisión del Informe de Importación correspondiente y monto en moneda extranjera a cubrir.
 
 Los legajos de los documentos a que se refiere este número deberán ingresarse al archivo de la empresa bancaria, debidamente ordenados y claramente identificados por el número del respectivo Informe de Importación, tan pronto se haya efectuado la cobertura total del monto de la importación.
 
