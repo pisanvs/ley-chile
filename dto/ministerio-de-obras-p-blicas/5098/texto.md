@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5098, de 24 de noviembre de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 9 para la obra: Autopista Santiago - San Antonio, Tramo: Malloco Talagante, Segmento 3, Sector 1-4, Lado Derecho. Km.
+
+29,30000 a Km. 30,20000, Región Metropolitana, que figura a nombre de Theiler Bergfeld Rodolfo, rol de avalúo 339-273, comuna de Peñaflor, superficie 1.359 m². La Comisión de Peritos integrada por los señores Marlene Teresa Ríos Marcuello, María Cristina Camus Palacios y María Pilar Quiroga González, fijó con fecha 22 de noviembre de 1999, el valor provisional de la indemnización en la cantidad de $8.408.305.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
