@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 673 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 49, superficie 1.176,00 m2, rol de avalúo 524.376, comuna de La Unión, para la obra "Camino Ruta T-80, Sector La Unión-Las Trancas, Km. 0,900 al 10,99034" y se acordó el valor de indemnización con su propietario Renán Gaspar Alvarez Muñoz, ascendente a la cantidad de $763.370.-
+
+Fiscal del Ministerio de Obras Públicas.
