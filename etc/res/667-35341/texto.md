@@ -1,0 +1,3 @@
+Por Resolución N° 667, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase las Resoluciones N° 393, de 1989, N° 734, de 1990, N° 1001, de 1991, N° 833 y N° 834, ambas de 1992, todas de esta Subsecretaría, que autorizaron a PESQUERA IBER CHILE S.A., para realizar actividades de transformación y faenas de pesca, en lo que respecta a las naves "Iber II" e "Iber III" y en relación a la planta de procesamiento ubicada en la IX Región; y se denegó su petición para modificar las características náuticas de dichas naves.
+
+Valparaíso, 3 de Septiembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
