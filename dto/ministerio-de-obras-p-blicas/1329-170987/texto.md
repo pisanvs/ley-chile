@@ -1,0 +1,3 @@
+Por decreto MOP Nº1329, de 17 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1987, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº5, para la obra Proyecto Laja Diguillín, Canal Matriz Pemuco Diguillín Variante Camino Pemuco Cartago, que figura a nombre de Cristina Elvira Vallejos Guíñez, rol de avalúo 148-28, comuna Pemuco, VIII Región, superficie 5.449 m2. La Comisión de Peritos, fijó con fecha 23 de agosto de 1999, el valor provisional de la indemnización en la cantidad de $1.982.730 el lote Nº5. La indemnización se paga al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
