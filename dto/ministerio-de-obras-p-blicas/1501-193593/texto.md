@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.501 de fecha 28 de septiembre del 2001, se expropió el lote de terreno Nº24, superficie 536,26, Rol de Avalúo Nº136-48, comuna de Chonchi, para la obra "Camino Acceso Sur a Chonchi, Sector Ruta 5 - Chonchi, Km. 0,000 a Km. 3,25253" y se acordó el valor de indemnización con su propietario Carlos Andrade Quinchen, ascendente a la cantidad de $16.264.245.
+
+- Fiscal del Ministerio de Obras Públicas.
