@@ -1,0 +1,7 @@
+Por Resolución Nº 351, de 6 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD DE INVERSIONES CHAUMONT LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Américo Vespucio Sur 1.500, Santiago, donde podrá procesar, en las líneas de elaboración que se señalan a continuación, los siguientes recursos hidrobiológicos: Congelado y fresco-refrigerado: Albacora o pez espada, Anguila, Bacalao de profundidad, Bacalao de J. Fernández, Besugo, Blanquillo, Bonito, Brótula, Cabinza, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Lenguado de ojos chicos, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del Atlántico, Merluza del sur, Palometa, Róbalo, Rollizo, Salmón del Atlántico, Salmón plateado, Salmón rey, Trucha arcoiris, Sierra, Vieja o mulata y Vidriola o palometa.
+
+Los recursos Salmón del Atlántico, Salmón plateado, Salmón rey y Trucha arcoiris deberán provenir de centros autorizados para realizar actividades de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 6 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
