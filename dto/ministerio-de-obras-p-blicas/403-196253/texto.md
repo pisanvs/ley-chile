@@ -1,0 +1,3 @@
+Por decreto MO. Nº 403 de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 1, superficie 23.780 m2, rol de avalúo Nº 155-12, comuna de Pemuco, para la obra "Area de Riego Dollinco, Canal Loma Hijuela Km. 0,000 al Km. 2,151, del Proyecto Laja Diguillín", VIII Región y se acordó el valor de la indemnización con su propietaria Rosa Herminia Guiñez Herrera, ascendente a la cantidad de $13.795.231.
+
+- Fiscal del Ministerio de Obras Públicas.
