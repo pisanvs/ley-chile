@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.109, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº26-A, superficie 200 m², rol de avalúo 136-18, comuna de San Nicolás, para la obra "Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Km. 6.900.00 a Km. 28.833.35", y se acordó el valor de indemnización con su propietario Eliano de la Torre Fernández, ascendente a la cantidad de $82.560.-
+
+Fiscal del Ministerio de Obras Públicas.
