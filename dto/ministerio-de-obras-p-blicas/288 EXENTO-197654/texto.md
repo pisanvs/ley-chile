@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº288, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº90-A, superficie 904 M2, rol de avalúo 611-457, comuna de Nueva Imperial, IX Región, para la obra "Camino Ruta S-16, Sector Galvarino - Chol Chol, tramo Km. 0,00000 al 24,33510" y se acordó el valor de indemnización con su propietario don Luis Bonifacio Zurita Figueroa, ascendente a la cantidad de $1.063.381.-
+
+Fiscal del Ministerio de Obras Públicas.
