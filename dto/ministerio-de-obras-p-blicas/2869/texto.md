@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.869, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 106-B y 107, superficies 180 y 3.270 M2., roles de avalúo s/r y 274-2, comuna de Vicuña, IV Región, para la obra Embalse Puclaro sector Gualliguaica IV Etapa y se acordó precio de indemnización con su propietaria Enriqueta Adriana Ortiz, ascendente a la cantidad de $6.848.596.-
+
+Fiscal del Ministerio de Obras Públicas.
