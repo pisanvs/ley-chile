@@ -1,0 +1,9 @@
+Por decreto exento MOP Nº1.306, de 20 de septiembre
+
+de 2001, y en base a la facultad otorgada por los
+
+artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº129-2, para la obra: "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector: Km. 68.400,00 al Km.
+
+95.600,00 By Pass Rancagua", Sexta Región, que figura a nombre de Fonseca Prieto Mónica, rol de avalúo 1420-78, comuna de Rancagua, superficie 17 m2. La comisión de peritos integrada por los señores René Octavio Corvalán Correa, Orlando Antonio Fariña Vásquez y Manuel Hernán Díaz Farfán, fijó con fecha 15 de junio de 2001, el valor provisional de la indemnización en la cantidad de $271.151.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
