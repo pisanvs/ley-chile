@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 377 de 27 de febrero de 2004, se expropiaron los lotes de terrenos Nº s. 106-B Y 106-C, superficies 98 y 98 m2 respectivamente, rol de Avalúo en trámite, comuna de Santa Cruz, para la obra "Camino Santa Cruz - Yánquil, Rol I-730, Km. 0.00000 al Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietario Wiliams Heriberto Núñez Vilches, ascendente a la cantidad de $867.800.
+
+- Fiscal del Ministerio de Obras Públicas.
