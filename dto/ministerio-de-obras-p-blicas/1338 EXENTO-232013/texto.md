@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.338, de fecha 30 de septiembre de 2Q04, se expropió el lote de terreno Nº 1-C, superficie 19,00, Rol Nº 2114-3, comuna de Viña del Mar, V Región, para la obra "Mejoramiento Ruta 60-CH, Sector Villa Dulce - Torquemada, Tramo Km. 0,00000 al Km. 10,47641", y se acordó el valor de indemnización con su propietaria Norma Nelly Pivet Poblete., ascendente a la cantidad de $1.362.720.
+
+Fiscal del Ministerio de Obras Públicas.
