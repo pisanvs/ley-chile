@@ -1,0 +1,5 @@
+Por resolución No. 163 de 31 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se deroga parcialmente la resolución No.
+
+1.300, de 1988, de esta Subsecretaría, que autorizó a TROUW DE CHILE HOLDING S.A., RUT No. 96.535.640-1, domiciliada en Santiago, para instalar y operar un establecimiento de cultivo de especies salmonídeas, en lo relativo al sector ubicado en Canal Quicaví, frente al sector Isla Mechuque, entre Punta Chillidque y Caleta Mechuque, Comuna de Quemchi, Provincia de Chiloé, X Región, en un área de 162.438 m2 y al sector ubicado en Canal Chauques, frente a Isla Buta Chauques, Comuna de Quemchi, Provincia de Chiloé, X Región, en un área de 133.581 m2, por renuncia de su titular.
+
+Valparaíso, 31 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
