@@ -1,0 +1,3 @@
+Por Resolución N° 1.223, de 7 de septiembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las autorizaciones otorgadas a SOCIEDAD INDUSTRIAL PESQUERA MAC LEAN Y CIA. LTDA., R.U.T. N° 81.730.600-4, por los Decretos N° 243, de 1964, N° 85, de 1977 y N° 239, de 1978, todos del Ministerio de Agricultura, para operar las plantas conserveras ubicadas en Punta Arenas; Puerto Porvenir; Caleta Róbalo y Bahía Virginia en Isla Navarino, por la causal contemplada en el artículo 7°, del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de septiembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
