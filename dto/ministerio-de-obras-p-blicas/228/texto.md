@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 228, de 30 de julio de 1993, se expropió el lote de terreno N° 3, superficie 150 m2., rol de Avalúo 500-34, Comuna de San José de Maipo, para la obra Abastecimiento de Emergencia de la localidad de San Gabriel, Proyecto Pozo Profundo en Cuenca del Río Yeso y se acordó el valor de indemnización con su propietario don Manuel Zúñiga Armijo, ascendente a la cantidad de $ 300.000.-
+
+Fiscal del Ministerio de Obras Públicas.
