@@ -1,0 +1,3 @@
+Por Resolución N° 53 de 13 de Enero de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA MIRAMAR S.A., R.U.T. N° 88.642.800-6, para continuar desarrollando las actividades pesqueras autorizadas por resoluciones N° 283, de 1982, N° 198, de 1986 y N° 1004, de 1988, todas de esta Subsecretaría, a Torres y Rivera Limitada, de mismo R.U.T. y domicilio, en virtud de la Escritura Pública de fecha 18 de mayo de 1993, otorgada ante el Notario Público de Concepción, don Mario Patricio Aburto Contardo, que modificó y transformó la sociedad "Torres y Rivera Limitada" en "Pesquera Miramar S.A."
+
+Valparaíso, 13 de Enero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
