@@ -1,0 +1,3 @@
+Por resolución Nº1.757, de 9 de agosto de 2000, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº1.682, de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesquería Artesanal del Jurel en la VIII Región'', en el sentido de incorporar la nave ''Víctor Guillermo'' a la nómina de naves participantes en la señalada investigación.
+
+Valparaíso, 9 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
