@@ -752,6 +752,12 @@ Tan pronto se hayan terminado los trabajos en referencia, se harán las pruebas 
 
 Las naves nacionales, como también las extranjeras que hagan el cabotaje en las costas de la República, estarán obligadas o pertrechase en la forma que dispone el Reglamento General de Equipo de Naves y a observar las demás disposiciones que existan al respecto.
 
+#### Artículo 135 bis
+
+Los trabajos que deban efectuarse a las naves que se encuentren en los puertos del litoral, en condiciones de "para", "reparación" o "en conservación", deberán ser ejecutados por los obreros marítimos matriculados en sus respectivas profesiones, o por el personal propio de las maestranzas que los ejecuten.
+
+Sin perjuicio de lo anterior, los armadores podrán ocupar en dichos trabajos al personal de la dotación con que normalmente navega la nave, y fijado en el reglamento respectivo.
+
 ## Capítulo XIV
 
 Comunicaciones con embarcaciones menores
@@ -1122,7 +1128,7 @@ La lista de los pasajeros que lleva una nave a su bordo la entregará al capitá
 
 #### Artículo 199
 
-Si la nave zarpa al extranjero, la boleta de sanidad y la lista de pasajeros deben ser visadas por todos los Cónsules de los países a donde se dirige.
+Si la nave zarpa a extranjero, la visación consular de la boleta de sanidad y lista de pasajeros se efectuará únicamente por los cónsules de los países donde se exija dicho trámite.
 
 #### Artículo 200
 
@@ -1312,7 +1318,7 @@ Apertura y clausura de los puertos
 
 #### Artículo 241
 
-Los puertos de la República se abrirán a las 6 horas desde el 15 de Abril hasta el 14 de Octubre y a las 5 horas desde el 15 de Octubre hasta el 14 de Abril inclusive; se cerrarán en todo tiempo a las 21 horas, a menos que ocurra el caso de urgencia o socorro o bien con la correspondiente licencia de la Dirección del Litoral y de Marina Mercante. En la provincia de Magallanes, durante los meses de Noviembre, Diciembre y Enero se cerrarán a las 22 horas.
+Los puertos de la República se "abrirán a las 07.00 horas, desde el 15 de Abril "hasta el 14 de Octubre, y a las 06.00 horas, desde "el 15 de Octubre hasta el 14 de Abril inclusive; se "cerrarán en todo tiempo a las 21.00 horas, a menos "que ocurra el caso de urgencia o socorro, o bien con "la correspondiente licencia de la Dirección del "Litoral y de Marina Mercante. En la provincia de "Magallanes, durante los meses de Noviembre, "Diciembre y Enero se cerrarán a las 22.00 horas.
 
 #### Artículo 242
 
@@ -1322,19 +1328,21 @@ Esta disposición no rige para las naves que tienen permiso para hacer el cabota
 
 #### Artículo 243
 
-Los armadores gratificarán al personal de las Capitanías de Puerto, cuando deban recibir o despachar sus naves en horas extraordinarias. en la forma siguiente:
+Los Armadores gratificarán al personal de las Capitanías de Puerto Cuando deban recibir o despachar sus naves entre la hora del cierre del puerto y su apertura en la forma siguiente:
 
-Días de trabajo:
+Días ordinarios:
 
-Desde la hora de clausura del puerto, $ 10 a cada persona y $ 3 por cada hora o fracción de espera de la nave.
+a) Treinta pesos ($ 30.00), por hora o fracción "desde la hora del cierre del puerto hasta las 24.00 horas.
 
-Desde las 24 horas hasta las 4 horas, $ 20 a cada persona y $ 5 por cada hora o fracción de espera de la nave.
+b) Cuarenta pesos ($ 40.00), por hora desde las "00.00 horas o fracción hasta la hora de apertura del puerto.
 
-Desde las 4 horas hasta la hora de apertura del puerto, $ 15 a cada persona y $ 5 por cada hora o fracción de espera de la nave.
+Días domingos o festivos:
 
-Días festivos:
+a) Cuarenta pesos ($ 40.00), por hora o "fracción desde la hora de cierre del puerto hasta las 24.00 horas.
 
-La gratificación será el doble de las indicadas.
+b). Cincuenta pesos ($ 50.00), por hora o "fracción desde las 00.00 horas hasta la hora de apertura.
+
+Gozará también de esta gratificación y, dentro "de las mismas horas el personal que a petición de los Armadores sea apostado a bordo de guardia o vigilancia.
 
 Los pagos de las gratificaciones indicadas los harán los armadores o agentes mensualmente, con intervención del capitán de puerto, enviando copia de la planilla a la Dirección del Litoral y de Marina Mercante.
 
