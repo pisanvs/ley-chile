@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.881, de 31 de diciembre de 1998, se expropió el lote de terreno Nº20-A, superficie 100 M2, sin rol de avalúo, comuna de Alhué, para la obra Camino Cruce - Ruta H-66-G Alhué, Sector Cruce Ruta H-66-G Alhué y se acordó precio de indemnización con sus propietarios Marta Rosa del Carmen Soto Fuentes y otros, ascendente a la cantidad de $843.140.-
+
+Fiscal del Ministerio de Obras Públicas.
