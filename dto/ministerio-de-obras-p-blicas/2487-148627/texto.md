@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.487, de 31 de agosto de 1999, se expropió el lote de terreno Nº 469, superficie 5.342,0 m2., rol de avalúo 554-350, comuna de Paillaco, para la obra ''Concesión Internacional Ruta 5. Tramo: Temuco - Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietaria I. Municipalidad de Paillaco, ascendente a la cantidad de $2.729.160.
+
+- Fiscal del Ministerio de Obras Públicas.
