@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.154 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº386, superficie 350 m², rol de avalúo Nº33-82, comuna de Pichidegua, para la obra ''Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 a Km. 16,48000'', VI Región y se acordó el valor de la indemnización con su propietario Eugenio Hernán Sura Rivera, ascendente a la cantidad de $3.013.724.-
+
+Fiscal del Ministerio de Obras Públicas.
