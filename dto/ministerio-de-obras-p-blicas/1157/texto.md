@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.157, de 7 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP. No. 850, de 1997, que fijó el texto actualizado de la Ley No. 15.840, de 1964 y del DFL MOP. No. 206, de 1960, se expropió el lote de terreno No. 1, para la obra Ruta 5, Tramo Talca - Chillán, Solución Acceso Sector Campamento 4, que figura a nombre de San Martín Moraga Castora, rol de avalúo 837-16, comuna de Parral, VII Región, superficie 30 m². La Comisión de Peritos compuesta por los señores Arnoldo Sánchez Muñoz, Patricio Durán Marcos y Fernando Pinochet de la Barra, fijó con fecha 7 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 57.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(15)
