@@ -1,0 +1,3 @@
+Por Resolución N° 885 de 21 de Septiembre de 1994 de esta Subsecretaría del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 90 días desde el tercer día siguiente hábil en que le sea transcrita la presente resolución, el plazo otorgado a SALMONES TIERRA DEL FUEGO LIMITADA, para publicar en el Diario Oficial la Resolución N° 976, de 1993, de esta Subsecretaría, que le otorgó una autorización de acuicultura, con el objeto de operar una piscicultura en Parcela A-1, Barrio Hortícola, Río Tres Puentes, Punta Arenas, XII Región, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 21 de Septiembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
