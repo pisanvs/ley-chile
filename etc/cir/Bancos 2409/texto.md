@@ -7342,13 +7342,13 @@ Este mismo procedimiento se seguirá en el caso de los días que sean declarados
 
 4.- Pagos anticipados.
 
-El artículo 10 de la Ley N° 18.010, modificado por la Ley N° 19.528, establece que los pagos anticipados de operaciones de crédito de dinero, serán convenidos libremente entre el acreedor y el deudor.
+El artículo 10 de la Ley N° 18.010, modificado por la las Leyes N°s. 19.528 y 19.951, establece que los pagos anticipados de operaciones de crédito de dinero, serán convenidos libremente entre el acreedor y el deudor.
 
 No obstante, para las operaciones de crédito de dinero cuyo capital inicial no supere el equivalente de 5.000 unidades de fomento, esa ley le otorga a los deudores el derecho irrenunciable de anticipar su pago aun contra la voluntad del acreedor, siempre que se cumplan las siguientes condiciones:
 
-a) Tratándose de operaciones no reajustables, que el deudor pague el capital que se anticipa y los intereses calculados hasta la fecha de pago efectivo, más la comisión de prepago. Dicha comisión, a falta de acuerdo entre las partes, no podrá exceder el valor de un mes de intereses calculados sobre el capital que se prepaga. En los casos en que se convenga una comisión de prepago, ésta no podrá exceder el valor de dos meses de intereses calculados sobre dicho capital, a la tasa pactada en el respectivo crédito.
+a) Tratándose de operaciones no reajustables, que el deudor pague el capital que se anticipa y los intereses pactados calculados hasta la fecha de pago efectivo, más la comisión de prepago. Dicha comisión no podrá exceder el valor de un mes de intereses calculados sobre el capital que se prepaga.
 
-b) Tratándose de operaciones reajustables, que el deudor pague el capital actualizado que se anticipa y los intereses calculados hasta la fecha de pago efectivo, más la comisión de prepago. Dicha comisión, a falta de acuerdo entre las partes, no podrá exceder el valor de un mes y medio de intereses calculados sobre el capital que se prepaga. En cambio, cuando se convenga una comisión de prepago, ésta no podrá exceder el valor de tres meses de intereses calculados sobre dicho capital, a la tasa pactada en el respectivo crédito.
+b) Tratándose de operaciones reajustables, que el deudor pague el capital actualizado que se anticipa y los intereses pactados calculados hasta la fecha de pago efectivo, más la comisión de prepago. Dicha comisión no podrá exceder el valor de un mes y medio de intereses calculados sobre el capital que se prepaga.
 
 Con todo, en los casos en que el importe del pago anticipado sea inferior al 25% del saldo de la obligación, se requerirá siempre el consentimiento del acreedor para efectuarlo.
 
@@ -7356,7 +7356,7 @@ Estas disposiciones que permiten a los deudores pagar anticipadamente prescindie
 
 En todo caso, las normas del artículo 10 de la Ley N° 18.010 no se aplican al tratarse de obligaciones contratadas en letras de crédito, puesto que los pagos anticipados, en este caso, se rigen por lo establecido en el artículo 100 de la Ley General de Bancos, que contempla un sistema especial cuyas características se tratan en el N" 8, título II, del Capítulo 9-1 de esta Recopilación Actualizada de Normas.
 
-Por otra parte, debe tenerse en cuenta que, conforme a lo dispuesto en el artículo 3° transitorio de la Ley N° 19.528, las obligaciones contraídas con anterioridad a la fecha de publicación de esa ley, esto es, antes del 4 de noviembre de 1997, se rigen por las normas en vigor en el momento en que ellas se contrajeron y hasta su extinción.
+Por otra parte, debe tenerse en cuenta que el artículo transitorio de la Ley N° 19.951 permite aplicar las comisiones de prepago que se hubieren pactado antes del 26 de junio de 2004 (fecha publicación de esa ley), como asimismo que el artículo 3° transitorio de la Ley 19.528 estableció que el pago anticipado de créditos que se hubieren otorgado antes del 4 de noviembre de 1997(fecha en que esa ley entró en vigor) se rige por las disposiciones vigentes en la fecha de su otorgamiento.
 
 5.- Normas para la aplicación de tasas de interés variables.
 
@@ -7388,29 +7388,13 @@ Cuando la amortización efectiva de capital sea inferior a la prevista en las cu
 
 En cumplimiento de las disposiciones contenidas en el artículo 6° de la Ley N° 18.010, esta Superintendencia publica mensualmente, en el Diario Oficial, las tasas de interés corriente y las tasas de interés máximo convencional que rigen a partir de su fecha de publicación, para los efectos establecidos en la ley.
 
-Dichas tasas de interés corresponden a los siguientes tipos de operaciones:
-
-a) Créditos no reajustables en moneda chilena pactados a plazos no superiores a 89 días, que exceden el equivalente de 5.000 unidades de fomento.
-
-b) Créditos no reajustables en moneda chilena pactados a plazos no superiores a 89 días, inferiores o iguales al equivalente de 5.000 unidades de fomento.
-
-c) Créditos no reajustables en moneda chilena pactados a 90 días o más, superiores al equivalente de 5.000 unidades de fomento.
-
-d) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 5.000 y superiores al equivalente de 200 unidades de fomento.
-
-e) Créditos no reajustables en moneda chilena pactados a 90 días o más, inferiores o iguales al equivalente de 200 unidades de fomento.
-
-f) Créditos reajustables en moneda chilena.
-
-g) Créditos en dólares de EE.UU. de América o expresados en moneda extranjera.
-
-Los montos en unidades de fomento señalados en estos literales, se refieren al importe inicial del crédito, calculado de acuerdo con el valor de la unidad de fomento a la fecha de la convención.
+Esas publicaciones consideran distintos tipos de tasas según las características de los créditos en cuanto a plazos, montos, moneda y reajustabilidad.
 
 6.2.- Tasa máxima que se puede pactar en las operaciones.
 
 De acuerdo con la ley, no puede estipularse un interés que exceda el interés máximo convencional, esto es, el interés corriente que corresponda, aumentado en un 50%, salvo que se trate de las siguientes operaciones que quedaron con libertad de intereses por la Ley N° 19.528: i) las que se pacten con instituciones o empresas bancarias o financieras extranjeras o internacionales; ii) las que se pacten o expresen en moneda extranjera para operaciones de comercio exterior; iii) las pactadas entre el Banco Central de Chile y las instituciones financieras; y, iv) todas aquellas en que el deudor sea un banco o sociedad financiera.
 
-La tasa de interés máxima convencional aplicable será aquella que corresponda a la operación de que se trate, según la desagregación señalada en el numeral 6.1 precedente.
+La tasa de interés máxima convencional aplicable será aquella que corresponda a la operación de que se trate, según lo indicado en la respectiva publicación de esta Superintendencia.
 
 Para determinar si el interés pactado supera o no el máximo convencional, la ley se remite al momento de la convención, sea que se trate de tasas fijas o variables
 
@@ -7424,8 +7408,6 @@ En el caso de intereses pactados sobre la base de tasa variable, entendida por t
 
 El limite equivalente a la tasa de interés máxima convencional rige también para las tasas que se pacten para el caso de mora.
 
-Cualquiera sea la duración del retardo en el cumplimiento de la obligación, la tasa de interés máxima convencional aplicable será también aquella que corresponda a la operación de que se trate, según lo indicado en el numeral 6.1 anterior.
-
 Asimismo, en concordancia con lo señalado en el numeral 6.2.1 precedente y con lo dispuesto en el artículo 16 de la Ley 18.010, para el período de mora es posible pactar la tasa de interés máxima convencional vigente en la fecha de la convención (tasa fija que, ademas, es conocida numéricamente al momento del pacto) o la que rija durante la mora (tasa variable)
 
 Si para el período de mora no se hubiere pactado en forma precisa la aplicación de la tasa de interés, en el sentido de referirse a la "máxima convencional" sin especificar si se trata de una tasa fija o de una variable (esto es, la que se encuentre vigente durante la convención o la que rija durante el período de mora), deberán cobrarse estos intereses de acuerdo con la tasa máxima convencional que rija durante el período de mora, siguiendo la norma que para un caso similar da el antes citado artículo 16. Se entiende, en este caso, que la tasa variable que rige durante el período de mora puede representar, según la duración de éste, más de una tasa numérica, debiendo utilizarse cada una de ellas para su respectivo lapso de vigencia dentro del período de mora.
@@ -7434,7 +7416,7 @@ Por último, viene al caso recordar que si no se pacta tasa alguna para el perí
 
 6.2.3.- Aplicación de las tasas para operaciones en moneda chilena no reajustable.
 
-Para establecer cuál es la tasa de interés máximo convencional que rige para las operaciones en moneda chilena no reajustable, de acuerdo con su plazo y monto según lo indicado en el numeral 6.1, deberán seguirse las siguientes reglas:
+Para establecer cuál es la tasa de interés máximo convencional que rige para las operaciones en moneda chilena no reajustable, de acuerdo con su plazo y monto, deberán seguirse las siguientes reglas:
 
 a) Operaciones sin plazo de vencimiento.
 
@@ -7528,9 +7510,9 @@ Para el cálculo de intereses de documentos descontados, es improcedente el carg
 
 A fin de prever eventuales confusiones por la similitud financiera entre las operaciones en moneda nacional reajustables por el valor del dólar de los Estados Unidos de América y las operaciones expresadas en dólares y pagaderas en pesos que las instituciones financieras pueden realizar, conviene mencionar las diferencias que existen entre ambas, de acuerdo con las normas vigentes;
 
-Las obligaciones en moneda nacional reajustables por el valor del dólar deben pagarse reajustadas utilizando como unidad referencial de reajuste el tipo de cambio informado por el Banco Central de Chile. El interés máximo convencional aplicable a estas operaciones es el que corresponde a los créditos reajustables en general, señalado en la letra f) del numeral 6.1 de este titulo.
+Las obligaciones en moneda nacional reajustables por el valor del dólar deben pagarse reajustadas utilizando como unidad referencial de reajuste el tipo de cambio informado por el Banco Central de Chile. El interés máximo convencional aplicable a estas operaciones es el que corresponde a los créditos reajustables en general.
 
-En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera, señalado en la letra g) del numeral 5.1 de este título.
+En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera.
 
 Cabe agregar también que el artículo 24 de la Ley 18.010 deja expresamente establecido que en esas obligaciones expresadas en moneda extranjera, pagaderas en pesos, no puede pactarse otra forma de reajuste que la que llevan implícita.
 
@@ -13603,6 +13585,8 @@ ANEXO N° 10
 .
 
 ANEXO N° 11
+
+INDICE DE CODIGOS DE TABLAS DE DESARROLLO DE LETRAS DE CREDITO
 
 .
 
