@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 1244 de 11 de Octubre de 1994, se incrementó en Una Frecuencia Semanal, las otorgadas a la Sucesión Domingo Ghisoni Draghi, integrada por Sara Serafina Cvitanic Sapunar, Liliana Emilia Ghisoni Hutt, Carlo Alberto Ghisoni Hutt y Aldo Domingo Ghisoni Hutt, para efectuar transporte internacional terrestre de pasajeros entre Punta Arenas (Chile) y Río Gallegos (Argentina), por el paso fronterizo Monte Aymond (Integración Austral).-
+
+Claudio Hohmann Barrientos, Subsecretario de Transportes.
