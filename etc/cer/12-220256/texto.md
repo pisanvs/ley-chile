@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A COMERCIAL FERRIMAT S.A.
+
+Núm. 12.- Certifico que Comercial Ferrimat S.A., RUT 99.517.680-7, domiciliada en Avda. 11 de Septiembre Nº 442, comuna de Hualañé, cuyo representante legal es Miranda Abarca Flavio José, RUT 11.559.544-K, cumple todos los requisitos y exigencias establecidos en resolución Nº Ex. 3.722 de 28.07.2000 publicada en el Diario Oficial el 01.08.2000, y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado, por las ventas de carne y servicios de faenamiento de ganado que efectúe durante el período comprendido entre el día 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial, y tendrá vigencia indefinida.
+
+Talca, 8 de octubre de 2003.- Luis Encina Barros, Director Regional (S).
