@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 294, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 186-A y 209-A, superficies 1.598 m2. y 237 m2., roles de avalúo 1093-530 y 610-28, comuna de Quillón, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Jacinto Uribe Villouta, e Israel Cid Jara, ascendente a las cantidades de $448.012.- y $67.956.-
+
+Fiscal del Ministerio de Obras Públicas.
