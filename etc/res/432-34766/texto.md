@@ -1,0 +1,3 @@
+Por Resolución N° 432, de 13 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a MARINE HARVEST CHILE S.A., para continuar desarrollando las actividades de cultivo con fines de investigación autorizadas por Resolución N° 341, de 1992, de esta Subsecretaría, a Lever Chile S.A., en virtud de lo dispuesto en la Resolución N° 768, de 1992, de esta Subsecretaría.
+
+Valparaíso, 13 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
