@@ -1,0 +1,9 @@
+Por resolución Nº 524, de 29 de marzo de 2001, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA LA SIRENA S.A., para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Armando Sanhueza Nº2158, Punta Arenas, XII Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-Enfriado, Congelado, Cocido (Desgranado), Deshidratado-(Alcohol), Deshidratado-(Sal) y Cocido-(Vapor): Carola, Cochayuyo, Cotoni, Chasca, Chascón, Chicorea de mar, Huiro, Luche, Luga Luga, Pelillo, Acha, Agujilla, Albacora o pez espada, Alfonsino, Anchoveta, Anguila, Atún ojos grandes, Ayanque, Azulejo, Bacalao de profundidad, Besugo, Blanquillo, Bonito, Brótula, Caballa, Cabinza, Cabrilla, Carpa, Cochinilla, Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Chancharro, Dorado, Jerguilla, Jurel, Lenguado de ojos chicos, Lisa, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Palometa, Pejegallo, Pejerrey de mar, Pejesapo, Raya, Reineta, Remoremo, Róbalo, Rollizo, Roncacho, Salmón del Atlántico, Salmón plateado, Salmón rey, Sardina española, Sardina común, Sierra, Almeja, Calamar, Caracol piquilhue, Caracol trophon, Cholga, Chorito, Navaja de mar o Huepo, Lapa, Loco, Macha, Navajuela, Ostión del sur, Pulpo, Centolla, Centollón, Jaiba, Picoroco, Erizo y Piure.
+
+La materia prima deberá provenir de pescadores artesanales e industriales, debidamente autorizados.
+
+Los recursos hidrobiológicos Salmón del Atlántico, Salmón plateado, Salmón rey, deberán provenir de centros de cultivos autorizados.
+
+Déjase sin efecto la resolución Nº1.218 de 1996, de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 29 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
