@@ -20,15 +20,15 @@ La instalación, alhajamiento, equipamiento y mantención del casino, será de e
 
 #### Artículo 4°
 
-La utilidad líquida se distribuirá en la siguiente forma:
+La utilidad líquida se distribuirá como sigue:
 
-a) El 85% de la utilidad líquida, a lo menos, constituirá la renta de la concesión e ingresará al Fondo Nacional de Desarrollo Regional.
+a) El 50% de la utilidad líquida, a los menos, constituirá la renta de la concesión, ingresará al Presupuesto de la IV Región y se destinará a financiar los proyectos de desarrollo en la misma región.
 
-b) La participación o renta de la concesión no podrá ser superior a un 15% de la utilidad líquida.
+b) La participación y retribución del concesionario no podrá ser superior a un 50% de la utilidad líquida, debiendo la Municipalidad de Coquimbo prefijar porcentaje, en las bases de la propuesta, de acuerdo a niveles de especificaciones, determinando éstas y aquéllos, referidos al adjudicatario, en el contrato mismo de concesión.
 
 #### Artículo 5°
 
-Para los fines que en el decreto ley N° 1.544, de 1976, y en este Reglamento se indican, se crea una Junta de Vigilancia integrada por el Alcalde de Coquimbo, quien la presidirá, y dos miembros elegidos y designados por el Intendente Regional, de una lista de seis nombres propuesta por el Consejo Regional de Desarrollo. En la misma resolución se designará un alterno.
+Para los fines señalados en el decreto ley N° 1.544, de 1976, y en este reglamento, se crea una Junta de Vigilancia integrada por un representante de la Municipalidad de Coquimbo, que la presidirá, y dos miembros elegidos y designados por el Intendente Regional. Se deberá nominar asimismo, respecto de cada uno de ellos, un miembro alterno.
 
 Los deberes y atribuciones de sus miembros serán determinados mediante resolución dictada por la I. Municipalidad y aprobada por el Intendente Regional.
 
@@ -72,9 +72,9 @@ b) Los ebrios y los que por cualquier motivo estén privados del uso de la razó
 
 c) Las personas a quienes la Junta de Vigilancia niegue la entrada por motivos calificados, tales como mal comportamiento en las salas de juego y otros;
 
-d) Los funcionarios de las entidades señaladas en los artículos primero y segundo del D. L. 249, de 1973, que tengan a su cargo la custodia o manejo de fondos de sus respectivos servicios;
+d) Los funcionarios de las entidades señaladas en los artículos 1° y 2° del decreto ley N° 249, de 1973, y de la Administración de Empresas Públicas, que tengan a su cargo la custodia o manejo de fondos de sus respectivos servicios o empresas;
 
-e) Los empleados que administren Bancos e Instituciones particulares financieras, y los que en estas Instituciones tengan el manejo de fondos, tales como cajeros, contadores y otros que desempeñen funciones análogas.
+e) SUPRIMIDA.
 
 Los extranjeros que concurran a las salas de juego del Casino, deberán exhibir sus respectivos pasaportes o la cédula de identidad otorgada en su país y acreditar su residencia legal en la forma que establece el artículo 157 del decreto supremo N.o 1.306, de 1975, del Ministerio del Interior, reglamentario del decreto ley de Extranjería N.o 1.094, del mismo año, y demás disposiciones legales.
 
@@ -90,7 +90,7 @@ o- Las normas contenidas en los artículos que preceden, relativas al acceso a l
 
 #### Artículo 14
 
-o- Queda estrictamente prohibido el consumo de bebidas alcohólicas y alimentos en el interior de las salas de juego.
+o- Queda estrictamente prohibido el consumo de bebidas y alimentos en el interior de las salas de juego.
 
 #### Artículo 15
 
