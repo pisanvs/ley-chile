@@ -1,0 +1,3 @@
+Por Decreto MOP No. 263, de 24 de septiembre de 1992, se expropiaron los lotes de terreno No. s. 4, 4-A y 8, superficies 22.383 m2, 23.926 m2. y 7.579 m2., roles de avalúo 9050-30 para los lotes 4 y 4-A y s/rol, Comuna de Melipilla, para la obra Autopista Santiago - San Antonio, sector Puangue - Leyda y se acordó el valor de indemnización con sus propietarios Gabriel Lira Larraín y Graciela Fernández Orellana, ascendente a las cantidades de $ 7.987.500.-, $ 9.454.857.- y $ 5.910.750.-, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
