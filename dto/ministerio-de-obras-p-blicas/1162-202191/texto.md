@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.162 de 28 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+M.O.P. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 2 y 8, para la obra: Camino Costero Sur, sector Tranapuente-Puerto Saavedra-Porma, tramo Tranapuente-Puerto Saavedra-Chelle, Km. 53,250.00 - km. 56,315,00, km. 65,260.00 - km. 100,240.00 Subtramo IV km. 70,500 al km. 72,593, que figuran a nombre de Cheuqueloy Hueche Juan Segundo y Llancaleo Marileo Manuel, roles de avalúo 502-54 y 502-58, Comuna de Saavedra, IX Región, superficies 2.162,6 m2. y 13.571,3 m2. La Comisión de Peritos fijó con fecha 11 de marzo de 2002, en la cantidad de $3.846.690.- para el lote Nº2 y $8.821.345.- para el lote Nº8. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
