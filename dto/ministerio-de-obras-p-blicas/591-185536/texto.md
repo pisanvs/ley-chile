@@ -1,0 +1,3 @@
+Por decreto MOP Nº591, de 30 de marzo de 2001, se expropió el lote de terreno Nº2, superficie 847 m², rol de avalúo 113-5, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A, Región Metropolitana y se acordó el valor de indemnización con su propietaria Agromin Abastecimientos - Exportaciones S.A., ascendente a la cantidad de $10.527.452.
+
+Fiscal del Ministerio de Obras Públicas.
