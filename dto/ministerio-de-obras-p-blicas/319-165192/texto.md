@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 319, de 29 de Octubre de 1985, se expropiaron los lotes N°s. 1, 2 y 3, superficies 990 m2., 840 m2. y 485 m2., roles de avalúo 2.217381, 2.217-117 y 2.215-1, Comunal de Osorno, para Puente Forrahue, camino Bahía Mansa Osorno y se acordó precio de indemnización con sus propietarios doña María Gloria Palacios Burgos, Alfonso Delgado Soto y Carlos Senn Kusch, ascendente a $ 53.545, $ 47.705 y $ 31.185, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas. (2)
