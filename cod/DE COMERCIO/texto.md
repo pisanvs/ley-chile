@@ -58,6 +58,12 @@ Son comerciantes los que, teniendo capacidad para contratar, hacen del comercio 
 
 No es comerciante el que ejecuta accidentalmente un acto de comercio; pero queda sujeto a las leyes de comercio en cuanto a los efectos del acto.
 
+#### Artículo 9°
+
+<!-- parte:8725868 -->
+
+Derogado.
+
 #### Artículo 10
 
 <!-- parte:8725260 -->
@@ -125,6 +131,12 @@ Las reglas y formalidades relativas a la organización del registro del comercio
 DE LAS OBLIGACIONES DE LOS COMERCIANTES
 
 ### 1. De la inscripción de documentos
+
+#### Artículo 23
+
+<!-- parte:8725869 -->
+
+La toma de razón de los documentos especificados en el artículo anterior deberá todo comerciante hacerla efectuar dentro del término de quince días, contados, según el caso, desde el día del otorgamiento del documento sujeto a inscripción, o desde la fecha en que el marido, padre, madre o guardador principie a ejercer el comercio.
 
 #### Artículo 24
 
@@ -359,6 +371,20 @@ El Presidente de la República designará la cantidad de la fianza, según la im
 <!-- parte:8725299 -->
 
 Si de cualquier modo llegare a noticia del juzgado de comercio que la fianza del corredor se halla disminuida o agotada, le ordenará que la reponga dentro de treinta días; y si el corredor no lo hiciere, se declarará vacante el destino.
+
+#### Artículo 55
+
+<!-- parte:8725870 -->
+
+No pueden ser corredores:
+
+1°. Los que tienen prohibición de comerciar;
+
+2°. Los menores de veintiún años;
+
+3°. Los que han sido destituidos de este cargo;
+
+4°. Los que hubieren sido condenados a pena aflictiva o infamante.
 
 #### Artículo 56
 
