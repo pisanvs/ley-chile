@@ -1,0 +1,5 @@
+Por resolución Nº1.904, de 6 de septiembre de 2002, de esta Subsecretaría, autorízase a ALIMENTOS MARINOS S.A. Alimar, para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº209 de 1984, y Nº1.026 y Nº1.076, ambas de 1987, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida La Marina Nº1250, Talcahuano, VIII Región, en las líneas de proceso que se indican, los siguiente recursos hidrobiológicos: Harina y Aceite: Merluza de cola, Merluza de tres aletas, Agujilla, Krill, Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoa blanca, Sardina redonda, Vinciguerria.
+
+El solicitante podrá utilizar todos los desechos de recursos provenientes de otras líneas de elaboración, en las líneas de elaboración de Harina y Aceite.
+
+Valparaíso, 6 de septiembre de 2002.- Edith Saa Collantes, Subsecretario de Pesca (S).
