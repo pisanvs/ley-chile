@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N° 60, de 30 de enero de 1998, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la ley N° 15.840, se expropió el lote de terreno N°1, para la obra Mejoramiento Alcantarillado y Disposición Final de Aguas Servidas de Puerto Montt Sector Pelluco, Planta Elevadora de Aguas Servidas, que figura a nombre de Suc. Oscar Mardones Ortiz, Rol de Avalúo 2193-6, comuna de Puerto Montt, X Región superficie 148,77 M2. La Comisión de Peritos compuesta por los señores Carlos Mera Santibañez, Jaime Sanz Bahamonde y Leopoldo Schumacher Guarda, fijó con fecha 12 de septiembre de 1997, el valor provisional de la indemnización en la cantidad de $9.223.740.- para el lote 1.
+
+La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978
+
+Fiscal del Ministerio de Obras Públicas.
