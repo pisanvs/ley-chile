@@ -1,0 +1,3 @@
+Por Resolución N° 1.161, de 01 septiembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a la Sucesión de don Marcelino González Hernández, R.U.T. N° 53.190.820-1, representada por don PEDRO GONZALEZ RIVERA, R.U.T. N° 5.580.427-3, para continuar desarrollando las actividades autorizadas a don Marcelino González Hernández, R.U.T. N° 3.235.203-0, en virtud de la Resolución Judicial de Posesión Efectiva, dictada por el Primer Juzgado de Letras de Talcahuano.
+
+Valparaíso, 1 de Septiembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
