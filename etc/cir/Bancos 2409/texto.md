@@ -4372,7 +4372,7 @@ Para el cumplimiento de la exigencia señalada, las instituciones financieras de
 
 El encaje de que trata el presente Capítulo será calculado por "períodos mensuales", que corresponderán al lapso comprendido entre el día 9 de un mes y el día 8 del mes siguiente, sobre la base de los saldos promedios que registren en el respectivo "período mensual" las distintas cuentas, tanto de activo como de pasivo, que se consideran para determinar la posición de encaje."
 
-Los promedios señalados precedentemente, se determinarán considerando sólo los saldos vigentes en los días hábiles bancarios del respectivo "período mensual".
+Los promedios señalados precedentemente, se determinarán considerando sólo los saldos vigentes en los días hábiles bancarios del respectivo "período mensual", para el caso del encaje que debe cumplirse en moneda nacional, y en los días corridos, para el caso de aquél que afecta a las monedas extranjeras.
 
 ### 2. Equivalencia en moneda chilena de los saldos en monedas extranjeras
 
@@ -4388,9 +4388,11 @@ Los plazos de vencimiento de los depósitos o documentos de captación, que dete
 
 En el caso de la obtención de recursos mediante venta de documentos con pacto de retrocompra, el plazo de que se trata será el que medie entre la fecha de venta del documento y la fecha fijada para su retrocompra
 
-### 5. Excedentes de encaje
+5.- Excedentes de encaje.
 
-Los excedentes de encaje en moneda nacional pueden utilizarse para cubrir los déficit en el encaje en monedas extranjeras de que trata el título III de este Capítulo. Los excedentes de encaje en monedas extranjeras, cualesquiera que ellas sean, no se pueden emplear para cumplir con la obligación de encaje correspondiente a depósitos, captaciones y otras obligaciones en otras monedas extranjeras ni para los depósitos, captaciones y otras obligaciones en moneda chilena.
+Los excedentes de encaje en moneda nacional no pueden utilizarse para cubrir déficit de encabe en monedas extranjeras
+
+Los excedentes de encaje en monedas extranjeras no se pueden emplear para cumplir con la obligación de encaje correspondiente a depósitos, captaciones y otras obligaciones en otras monedas extranjeras ni para cubrir déficit de encaje en moneda chilena.
 
 6. Obligaciones afectas a reserva técnica, art. 80 bis Ley General de Bancos.
 
@@ -4538,11 +4540,11 @@ Los depósitos, captaciones y otras obligaciones en monedas extranjeras estarán
 
 1.1. Depósitos, captaciones y obligaciones a la vista
 
-Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 20%.
+Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 30%.
 
 1.2. Depósitos, captaciones y obligaciones a plazo.
 
-Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza, estarán afectos a una tasa de encaje de 20%.
+Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza, estarán afectos a una tasa de encaje de 30%.
 
 2. Cuentas de depósitos, captaciones y obligaciones en monedas extranjeras afectas a encaje.
 
@@ -4588,9 +4590,7 @@ a) Billetes y monedas de curso legal en el respectivo país, ya sea que estén d
 
 b) Depósitos mantenidos en cuenta corriente en el Banco Central de Chile.
 
-El encaje exigido en moneda extranjera puede cubrirse, además, con excedentes del encaje mantenido en moneda chilena de que trata el título II de este Capítulo
-
-Con todo, los fondos en moneda extranjera que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación, al igual que los fondos en moneda chilena que se encuentran en esa situación, no pueden, a su vez, ser empleados para constituir el encaje mantenido.
+Con todo, los fondos en moneda extranjera que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación no pueden, a su vez, ser empleados para constituir el encaje mantenido.
 
 4.3.- Depósitos "overnight" en el Banco Central de Chile.
 
@@ -4602,7 +4602,7 @@ Las instituciones financieras darán cumplimiento a la exigencia de encaje sobre
 
 ### 1. Tasa de encaje
 
-Los depósitos de terceros enterados para cumplir con la obligación de que trata el Punto I de la letra C) del Capítulo XIV, Título I, del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, así como las obligaciones contraídas con el exterior por las entidades financieras, estarán afectas a una tasa de encaje del 20%.
+Los depósitos de terceros enterados para cumplir con la obligación de que trata el Punto I de la letra C) del Capítulo XIV, Título I, del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, así como las obligaciones contraídas con el exterior por las entidades financieras, estarán afectas a una tasa de encaje del 30%.
 
 ### 2. Registro contable
 
@@ -4644,7 +4644,7 @@ N° 3570 "Otros préstamos y obligaciones".
 
 4.1. Encaje exigido.
 
-El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo y su cumplimiento se hará en relación con el promedio de las obligaciones antes mencionadas en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando solamente los días hábiles bancarios del período.
+El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo y su cumplimiento se hará en relación con el promedio de las obligaciones antes mencionadas en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando los días corridos del período.
 
 4.2. Encaje mantenido.
 
@@ -4656,23 +4656,27 @@ Las instituciones financieras deberán enviar a esta Superintendencia la informa
 
 VI.- DISPOSICION TRANSITORIA.
 
-Las instituciones financieras dispondrán de un plazo de seis períodos mensuales de encaje consecutivos, a partir de aquel que se inicia el 9 de febrero de 1992, para enterar el encaje que debe ser mantenido de conformidad con lo dispuesto en el título III de estas normas. Para ese efecto, los porcentajes de encaje exigido que deberán mantenerse en cada período mensual serán los siguientes:
+Las instituciones financieras dispondrán de un plazo de cuatro períodos mensuales de encaje consecutivos, a partir de aquél que se inicia el 9 de junio de 1992, para enterar el encaje que debe ser mantenido de conformidad con lo dispuesto en los títulos III y IV de estas normas. Para ese efecto, los porcentajes de encaje exigido que deberán mantenerse en cada período mensual, serán los siguientes:
 
-Período mensual Encaje exigido
+Período mensual Encaje exigido por obligaciones
 
-vista plazo
+vista plazo exterior
 
-09 02.92 al 08 03.92 11,67 6,67
+09.06 92 al 08 07 92 18% 17% 20%
 
-09.03 92 al 08 04 92 13,34 9,33
+09 07.92 al 08 08 92 22% 22% 22%
 
-09.04 92 al 08 05 92 15,01 12,00
+09.08.92 al 08 09.92 26% 26% 26%
 
-09 05 92 al 08 06 92 16,68 14,67
+09.09 92 al 08.10 92 30% 30% 30%.
 
-09 06.92 al 08 07 92 18,35 17,33
+ANEXO N° 1
 
-09 07 92 al 08 08.92 20,00 20,00"
+PARTIDAS Y CUENTAS DEL SISTEMA CONTABLE QUE PARTICIPAN EN LA DETERMINACION Y MANTENCION DE ENCAJE Y RESERVA TECNICA
+
+A continuación se señalan los principales indicadores que guardan relación con el control del cumplimiento de las normas del presente Capítulo 4-1 y del Capítulo 4-2 de esta Recopilación Actualizada de Normas y que esta Superintendencia obtiene del computo de los saldos de las partidas, cuentas y subcuentas informadas en el archivo C03 del Sistema Contable que en cada caso se indican.
+
+.
 
 CAPITULO 4-2 (Bancos y Financieras)
 
