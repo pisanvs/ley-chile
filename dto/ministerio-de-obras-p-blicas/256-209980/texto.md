@@ -1,0 +1,3 @@
+Por decreto MOP Nº256 de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº78, superficie 249 m², rol de avalúo Nº205-88, comuna de Coelemu, para la obra "Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000", VIII Región y se acordó el valor de la indemnización con su propietario Luis Eliecer Fuentealba Venegas y otro, ascendente a la cantidad de $13.176.393.-
+
+Fiscal del Ministerio de Obras Públicas.
