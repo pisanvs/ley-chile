@@ -1,0 +1,45 @@
+CREA EL MINISTERIO DE TRANSPORTES
+
+NUM. 557.- Santiago, 8 de julio de 1974.- Visto lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y
+
+Considerando; 1° La necesidad de establecer una autoridad dotada de los elementos orgánicos e institucionales que le confieran una efectiva capacidad para materializar los planes y programas de la Junta de Gobierno sobre transporte en el país;
+
+2° Que la estructura funcional de este organismo debe estar adecuada a los objetivos que se persiguen;
+
+3° Que en la actualidad se estudia una reforma ministerial que propendería a la implementación y estructuración definitiva de un Ministerio de Transportes, orientada en principios técnicos que le permitan una acción integral en la esfera de su competencia, y
+
+4° Que, mientras se materializa la reforma ministerial aludida, resulta preciso asignar esta misión a la Subsecretaría de Transportes, independizándola del Ministerio de Obras Públicas, a fin de que, sobre la base de las estructuras institucionales existentes, cumpla funciones ministeriales que no irroguen nuevos gastos al presupuesto de la Nación.
+
+La Junta de Gobierno acuerda dictar el siguiente
+
+DECRETO LEY:
+
+> **Nota.** NOTA: 1 El artículo 1° del Decreto Ley N° 1.762, de 1977, dispuso que el Ministerio de Transportes se denominará en lo sucesivo "Ministerio de Transportes y Telecomunicaciones".
+
+#### Artículo 1°
+
+Créase el Ministerio de Transportes, encargado de cumplir las funciones y ejercer las atribuciones que correspondían a la Subsecretaría de Transportes del Ministerio de Obras Públicas.
+
+> **Nota.** NOTA: 2. Ver ley N° 18.059, publicada en el Diario Oficial de 7 de noviembre de 1981, que asignó al Ministerio de Transportes y Telecomunicaciones, el carácter de organismo rector nacional de tránsito.
+
+#### Artículo 2°
+
+La estructura orgánica del Ministerio de Transportes será la siguiente:
+
+Ministro y Subsecretario;
+
+Demás dependencias existentes en la Subsecretaría de Transportes del Ministerio de Obras Públicas.
+
+#### Artículo 3°
+
+La dotación de personal del Ministerio estará constituida por aquella que pertenecía a la Subsecretaría mencionada en el inciso final del artículo precedente.
+
+#### Artículo 4°
+
+A contar desde la fecha de vigencia del presente decreto ley se entenderá modificada la Ley General de Presupuesto de la Nación, asignándose al Ministerio de Transportes los recursos que en ella se destinaban al Ministerio de Obras Públicas y Transportes para el financiamiento de la Subsecretaría de Transportes.
+
+#### Artículo 5°
+
+El Ministerio de Obras Públicas y Transportes se denominará, en lo sucesivo, Ministerio de Obras Públicas.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.-
