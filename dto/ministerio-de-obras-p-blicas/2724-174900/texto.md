@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.724, de 30 de junio de 2000, se expropiaron los lotes de terreno Nºs. 51 y 52, superficies 2.713,74 y 1.970,81 m². respectivamente, rol de avalúo 1128-24, comuna de Castro, para la obra Camino Ruta W-65 y W-55, sector Cruce Longitudinal (Pid Pid) - Putemun - Dalcahue, Kms. 0,000 al 11,991647 y se acordó precio de la indemnización con su propietaria Graciela Fridolina Cárcamo Barrientos, ascendente a la cantidad de $9.178.830, para los lotes Nºs. 51 y 52.
+
+Fiscal del Ministerio de Obras Públicas.
