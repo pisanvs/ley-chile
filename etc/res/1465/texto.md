@@ -1,0 +1,7 @@
+Por Resolución N° 1.465, de 6 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA CHILESUR S.A., para ampliar actividades pesqueras extractivas, en orden a operar la nave en construcción que se individualiza, en el litoral que a continuación se indica, donde podrá extraer con cerco, los siguientes recursos hidrobiológicos: a) Litoral de la III y IV Región, por fuera del área de reserva artesanal, con cerco: Agujilla, Anchoveta, Bonito, Caballa, Cojinoba del norte, Jurel, Sardina española y Sardina común; b) Litoral de la X Región, por fuera del área de reserva artesanal, con cerco: Agujilla, Anchoveta, Caballa, Cojinoba del norte, Jurel, Sardina española y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria respecto de las áreas de pesca y recursos hidrobiológicos no contemplados en la presente Resolución, en virtud de los informes técnicos y normas legales y reglamentarias.
+
+Valparaíso, 6 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
