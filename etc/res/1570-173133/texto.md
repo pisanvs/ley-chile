@@ -1,0 +1,3 @@
+Por resolución Nº1.570, de 17 de julio de 2000, deniégase la solicitud de autorización de acuicultura Nº96106026, presentada por JOSE FERMIN CARDENAS GUTIERREZ, para operar un centro de cultivo en lago Oscuro, comuna de Quellón, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
