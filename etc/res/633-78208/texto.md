@@ -1,0 +1,3 @@
+Por Resolución Nº633, de 13 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, derógase la Resolución Nº146, de 1979, de esta Subsecretaría, en cuanto autoriza a Empresa Pesquera Nichiro Chile Ltda., R.U.T. Nº85.645.000-7, domiciliada en calle La Pastora Nº138, Piso 3º, Las Condes, Santiago, para operar la nave "Akebonu Maru 75", por renuncia de su titular.
+
+Valparaíso, 13 de julio de 1992.- Andrés Couve Rioseco Subsecretario de Pesca.
