@@ -1,0 +1,3 @@
+Por Resolución Nº 219, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94103010, presentada por SOCIEDAD CULTIVOS MARINOS TEN - TEN LTDA., para un centro de cultivo que comprende dos sectores ubicados en Putemún, Estero Castro, Comuna de Castro, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
