@@ -1,0 +1,5 @@
+AUTORIZA A EMPRESA PESQUERA TARAPACA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 295 de 02 de Abril de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Empresa Pesquera Tarapac S.A., para incorporar como materia prima en la planta de conservas, congelado y deshidratado que opera en Calbuco, X Región, los siguientes recursos hidrobiológicos: merluza española, merluza común, raya, mero, cojinova, reineta, trucha y salmón del Pacífico. Las dos últimas sólo deber n provenir de establecimientos de cultivo autorizados. La interesada deber efectuar el transporte de las especies desde su centro de abastecimiento hasta la planta elaboradora en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 02 de Abril de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
