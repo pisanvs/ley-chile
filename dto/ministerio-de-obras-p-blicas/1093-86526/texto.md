@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 1093 de 31 de octubre de 1997, se expropiaron los lotes de terreno N°s. 26, 28, 30, 33, 36-B, 38-D, 41, 43, 44, 47, 48, 49-A, 49-B y 52, superficies 930, 6.080, 12.760, 1.200, 2.128, 96, 6.060, 4.270, 1.630, 2.800, 1.860, 10.053, 16.923 y 3.210 m2, respectivamente, rol de avalúo 171-3, comuna de Casablanca, obra Obra Ruta F-800, sector Las Tablas Bifurcación Tunquén y se acordó precio de indemnización con su propietaria Sociedad Agrícola y Ganadera Requínoa Ltda., ascendente a las cantidades de $ 34.025.689.-
+
+Fiscal del Ministerio de Obras Públicas
