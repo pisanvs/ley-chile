@@ -1,0 +1,3 @@
+Por Resolución N° 783 de 6 de octubre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 1.304, de 1989, de esta Subsecretaría, que autorizó a don WILLY BERG MORENO, para ampliar actividades pesqueras de transformación, en orden a procesar en la planta industrial autorizada por Resolución N° 1.286, de 1987, de esta Subsecretaría, en la línea de elaboración de ahumado, conforme a lo dispuesto en el artículo 6° del Decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, de la siguiente Resolución.
+
+Valparaíso, 6 de octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
