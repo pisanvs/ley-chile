@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº550 de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº51, superficie 1.371 m2, rol de Avalúo Nº302-386, comuna de Cunco, para la obra "Camino Ruta S-16, Sector Cunco - Melipeuco, tramo Km. 55,000 al Km. 87,46783, correspondiente al sub-tramo II Km. 62,784 al Km. 76,043, Provincia de Cautín, Comuna de Cunco Melipeuco", IX Región, y se acordó el valor de la indemnización con su propietario Heriberto Antimán Quidel, ascendente a la cantidad de $1.153.502.
+
+Fiscal del Ministerio de Obras Públicas.
