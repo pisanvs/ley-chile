@@ -1,0 +1,7 @@
+AUTORIZA A DON CHRISTIAN ELIAS JACOB NEDER PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 779, de 01 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Christian Elías Jacob Neder, R.U.T. No. 8.210.145-4, domiciliado en calle Hernando de Aguirre No. 572 - 14B, Providencia, Santiago, para iniciar actividades pesqueras,en orden a operar una planta industrial en la Región Metropolitana, ubicada en calle Santa Margarita No. 0241, Lo Espejo, Santiago, donde procesará en las líneas de elaboración de congelado y conserva los siguientes recursos hidrobiológicos: Albacora o pez espada, Bacalao o Mero, Congrio colorado, Congrio dorado, Congrio negro, Merluza del Sur, Palometa, Pejegallo, Raya, Sardina común, Sardina española, Tiburón, Tollo, Almeja o taca, Almeja, Caracol locate, Caracol tegula, Caracol trumulco, Chiton o apretador Lapa, Loca, Macha, Pulpo, Jaiba y Erizo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 01 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
