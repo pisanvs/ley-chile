@@ -1,0 +1,5 @@
+Por decreto MOP Nº164, de 10 de marzo de 2003, se modificó el decreto exento MOP N° 46, de 31 de enero de 2002, que había ordenado la expropiación del lote de terreno Nº43 para la obra: "Concesión Internacional Sistema Oriente - Poniente. Zona Poniente: Walker Martínez - Petersen. Tramo 7: de Km. 21.496,40 a Km.
+
+23.360,00", Región Metropolitana, que figura a nombre de Yáñez Farías Sergio, rol de avalúo 243-5, comuna de Renca, superficie 26 m2, en el sentido que la Comisión de Peritos, integrada por los señores Miguel Juan Fernández Cádiz, Pastor Correa Prats y Ricardo Antonio Strickler Arellano, mediante Informe de Tasación Rectificatorio de fecha 16 de diciembre de 2002, fijó el valor provisional de la indemnización en la cantidad de $2.717.476.- dando así fiel cumplimiento al objeto para el cual fue designada. La indemnización se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
