@@ -1,0 +1,1 @@
+"Prorroga la ley de gratificación general a los empleados públicos durante el año 1910 y concede otra especial a los empleados del Congreso".
