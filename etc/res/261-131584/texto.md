@@ -1,0 +1,3 @@
+Por resolución Nº 261, de 3 de febrero de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.521, de 1990, de esta Subsecretaría, que autorizó a PESQUERA MARBELLA S.A., para operar la nave ''Costa Grande 4'', sólo en lo relativo a la especie Jurel, en el litoral de la III y IV Regiones.
+
+Valparaíso, 3 de febrero de 1999.- Edith Saa Collantes, Subsecretario de Pesca (S).
