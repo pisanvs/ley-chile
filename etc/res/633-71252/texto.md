@@ -1,0 +1,3 @@
+Por Resolución Nº 633, de 5 de mayo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94106010, presentada por MARINE FARMS CHILE S.A., para un sector ubicado al Surweste Isla Cailín, Comuna de Quellón, Provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78 y 87, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 5 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
