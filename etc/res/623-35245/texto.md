@@ -1,0 +1,3 @@
+Por Resolución N° 623, de 28 de Junio de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la letra a) de la Resolución N° 304, de 1992, que caducó la Resolución N° 7, de 1987, ambas de esta Subsecretaría que autorizó a SOCIEDAD DE INVERSIONES SALMONES DEL PACIFICO AUSTRAL LTDA., R.U.T. N° 79.675.640-3, sólo en lo que respecta a los centros de cultivo ubicados en dos áreas de Bahía de Chacabuco por haberse acogido la reclamación interpuesta en contra de la Resolución caducatoria por Resolución (R.M. Ex.) N° 73, de 1992, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de Junio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
