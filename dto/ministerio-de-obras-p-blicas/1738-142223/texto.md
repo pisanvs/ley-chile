@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.738, de 25 de junio de 1999, se expropió el lote de terreno Nº 56, superficie 212 m², rol de avalúo en trámite, comuna de Empedrado, para la obra Camino Ruta M-40 Santa Olga-Empedrado, sector Santa Olga-Los Pellines, Km. 0.000 a Km. 10.847,92 y se acordó precio de indemnización con su propietaria Floricela Garrido, ascendente a la cantidad de $158.176.
+
+- Fiscal del Ministerio de Obras Públicas.
