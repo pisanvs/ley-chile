@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.486, de 31 de julio del 2000, se expropió el lote de terreno Nº 79, superficie 444,105 m², rol de avalúo 322-58, comuna de Constitución, para la obra Camino M-24-K Quivolgo-Puente Lautaro, Sector C, Putú-Quivolgo, Km. 30,000 a Km. 49,815.494 y se acordó precio de la indemnización con su propietaria Trinidad de las Mercedes Barrera Palacios, ascendente a la cantidad de $6.604.313.
+
+Fiscal del Ministerio de Obras Públicas.
