@@ -1,0 +1,3 @@
+Por Resolución N° 1.337, de 18 de julio de 1996, de esta Subsecretaría de Pesca; del Ministerio de Economía, Fomento y Reconstrucción, rectifícase el numeral 3 de la Resolución N° 1195 de 1996, de esta Subsecretaría, en el sentido de señalar que las resoluciones que se dejan sin efecto son la N° 1831 de 1995, N° 685, N° 916, N° 1002, N° 1148, N° 1149, N° 1151 y N° 1152 todas de 1996, de esta Subsecretaría, y no las que en dicha disposición se indican.
+
+Valparaíso, 18 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
