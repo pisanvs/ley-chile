@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.156, de 11 de agosto de 2004, de esta Subsecretaría, autorízase a PESQUERA MARISHELL LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Costanera s/n, Carelmapu, comuna de Maullín, X Región, donde podrá procesar, en las líneas de elaboración de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Seco Salado, Ahumado, Conserva y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Déjase sin efecto las resoluciones Nº 943 de 1996, Nº125 y Nº 1.573, ambas de 1997, Nº 1.921 de 2001, todas de esta Subsecretaría, en virtud de la carta renuncia C.I. Subpesca Nº 6393 de 2004 y del contenido de la presente resolución.
+
+Valparaíso, 11 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
