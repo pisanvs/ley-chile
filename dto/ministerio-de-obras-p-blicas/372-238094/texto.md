@@ -1,0 +1,3 @@
+Por Decreto MOP N° 372, de 30 de mayo de 1996, se dejó sin efecto el Decreto M.O.P. N° 698, de 22 de noviembre de 1995, en lo que se refiere a la expropiación del lote de terreno N° 3, para la obra Programa de Tratamiento Aguas Servidas del Gran Santiago - Planta de Tratamiento de Aguas Servidas Santiago Sur, Rol de avalúo 311-32, de la comuna de Padre Hurtado, Región Metropolitana, superficie 20.000 m2.
+
+- Fiscal del Ministerio de Obras Públicas.
