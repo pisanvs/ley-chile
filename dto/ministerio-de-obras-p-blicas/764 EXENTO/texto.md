@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº764 de fecha 31 de julio del 2003, se expropiaron los lotes de terreno Nºs 35 y 36, superficies 569 y 1.655 m2, Rol Nº269-111, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, sector 2 Carrizal-Puente Belco, tramo Km. 17,34000 a 23,51000 y se acordó el valor de indemnización con su propietario Renato Antonio Muñoz Rojas, ascendente a la cantidad de $1.350.931.- para los lotes Nºs 35 y 36.
+
+Fiscal del Ministerio de Obras Públicas.
