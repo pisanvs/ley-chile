@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resoluciones exentas N°s 1778 de 29 de Noviembre de 1984 y 873 de 15 de Julio de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a reserva y sector expropiado predio "San Gabriel de la comuna de Renaico, IX Región; y derechos aprovechamiento de aguas que corresponden a las parcelas N° 11, 14, 16 a la 26 del Proyecto de Parcelación "Hermandad Campesina" formado por el predio señalado. Los derechos de agua se extraen del. Canal Santa Ana y Canal Molino El Globo.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
