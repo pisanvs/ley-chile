@@ -1,0 +1,3 @@
+Por resolución No. 602 de 20 de Junio de 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, parte inmueble ubicado en Avda. Santa Isabel No. 335, presunto rol avalúos No. 584-42, comuna de Santiago, aparentemente dominio de doña María Eterovic Eterovic. Comisión integrada por peritos Italo Núñez Núñez y Hernán Monckeberg Barros, arquitectos y Jorge Cavagnaro Michelis, ingeniero civil, según informe de 26 de diciembre de 1988, fijó monto provisional indemnización en $ 2.128.920.- pagadera al contado.
+
+Director SERVIU Metropolitano.
