@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.101 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 73-D, superficie 5.673 m², rol de avalúo Nº 277-214, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, Sector Chovellen - Límite Regional, Tramo 18,260.00 a Km. 35,158.60", VII Región y se acordó el valor de la indemnización con su propietaria Margarita Leal Suazo, ascendente a la cantidad de $16.678.428.
+
+Fiscal del Ministerio de Obras Públicas.
