@@ -1,0 +1,3 @@
+Por resolución exenta Nº 709, de 16 de marzo de 2005, de esta Subsecretaría, autorízase a AGRICOLA Y PESQUERA ALTAMIRA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en camino a Pargua, kilómetro 1.038, Ruta 5 Sur, sector Panitao, Puerto Montt, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Congelado, Sopas, Marinado, Paté, Pastas, Fresco Enfriado, Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 16 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
