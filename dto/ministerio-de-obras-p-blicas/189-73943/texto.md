@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 189, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs. 9, 11, 12 y 16, superficies 910, 697, 880 y 202 m2., roles de avalúo Nºs. 205-1, 205-5 y 203-8, Comuna de Alhué, para la obra Camino Cruce Ruta H-66-G Alhué, Sector Cruce Ruta H-66-G Alhué, Km. 0,000 a Km. 30,092.60 y se acordó precio de indemnización con sus propietarios Agrícola Polulo Ltda. y Juan Luis Manzor Ureta y Otros, ascendente a la cantidad de $5.185.264.- lotes 9, 11 y 12 y $766.051.- lote 16.-
+
+Fiscal del Ministerio de Obras Públicas.
