@@ -1,0 +1,3 @@
+Por decreto MOP Nº 287 de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 7, superficie 59 M2, rol de avalúo Nº 1551-3, comuna de Antofagasta, para la obra "Mejoramiento Costanera Norte, Antofagasta", II Región y se acordó el valor de la indemnización con su propietario Inversiones Santa Adela Limitada, ascendente a la cantidad de $3.580.496.
+
+- Fiscal del Ministerio de Obras Públicas.
