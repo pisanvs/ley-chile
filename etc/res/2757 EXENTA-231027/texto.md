@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.757, de 24 de septiembre 2004 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202105004 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS "BAHIA PULELO", para un centro de cultivo ubicado en bahía Manao, al norte de punta Putique, X Región.
+
+Valparaíso, 24 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
