@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.412, de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 246, superficie 539 m², rol Nº 61-365, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región, y se acordó el valor de la indemnización con su propietario Manuel Segundo Reyes Carvacho, ascendente a la cantidad de $1.372.223.-
+
+Fiscal del Ministerio de Obras Públicas.
