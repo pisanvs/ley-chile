@@ -22,7 +22,7 @@ Apruébase el Cálculo de Entradas y la Estimación de los Gastos del Presupuest
 
 MONEDA NACIONAL
 
-Entradas__________________ E° 8.472.683.138
+Entradas__________________ E° 8.473.169.638
 
 Ingresos tributarios_____ E° 10.108.328.000
 
@@ -36,15 +36,15 @@ a financiar el
 
 Presupuesto de
 
-Capital__________________ 2.132.525.862
+Capital__________________ 2.132.039.362
 
-Gastos____________________ E° 8.022.907.138
+Gastos____________________ E° 8.023.393.638
 
 Presidencia de la
 
-República________________ E° 17.854.000
+República________________ E° 7.854.000
 
-Congreso Nacional________ 58.115.000
+Congreso Nacional________ 58.350.500
 
 Poder Judicial___________ 56.015.000
 
@@ -74,7 +74,7 @@ Reconstrucción___________ 100.472.000
 
 Ministerio de
 
-Hacienda_________________ 3.055.476.138
+Hacienda_________________ 3.055.727.138
 
 Ministerio de
 
@@ -190,17 +190,17 @@ Apruébase el Cálculo de Entradas y la Estimación de los Gastos del Presupuest
 
 MONEDA NACIONAL
 
-Entradas__________________ E° 2.277.725.862
+Entradas__________________ E° 2.277.239.362
 
-Ingresos de Capital______ E° 2.277.725.862
+Ingresos de Capital______ E° 2.277.239.362
 
-Gastos____________________ E° 3.313.907.000
+Gastos____________________ E° 3.313.920.500
 
 Presidencia de la
 
 República________________ E° 3.520.000
 
-Congreso Nacional________ 584.000
+Congreso Nacional________ 597.500
 
 Ministerio del
 
