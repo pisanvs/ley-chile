@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.734 de fecha 30 de junio de 2000, se expropió los lotes de terreno Nºs. 23 y 28, superficie 2.003,35 y 658,05 m², respectivamente, rol de avalúo 1127-27, comuna de Castro, para la obra ''Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647'' y se acordó el valor de indemnización con su propietario Juan Segundo Cárcamo Pérez, ascendente a la cantidad de $2.913.924.
+
+- Fiscal del Ministerio de Obras Públicas.
