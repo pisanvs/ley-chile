@@ -1,0 +1,25 @@
+DECRETO LEY N° 1.032, DE 1975 Reajusta en la forma que indica los derechos, impuestos y demás gravámenes cuya recaudación corresponda al Servicio de Aduanas; que no sean pagados dentro de los plazos legales reglamentarios
+
+(Publicado en el "Diario Oficial" N° 29.165, de 30 de mayo de 1975)
+
+NUM. 1.032.- Santiago, 27 de mayo de 1975.- Vistos: lo dispuesto en los decretos leyes 1 y 128, ambos de 1973, y 527, de 1974, la Junta de Gobierno de la República de Chile ha dado su aprobación al siguiente DECRETO LEY:
+
+#### Artículo 1°
+
+Los derechos, impuestos y demás gravámenes, cuya recaudación corresponda al Servicio de Aduanas, que no sean pagados dentro de los plazos legales o reglamentarios, se pagarán reajustados con la variación experimentada por el Indice de Precios al Consumidor en el período comprendido entre el último día del segundo mes que precede al de su vencimiento y el último día del segundo mes que precede al de su pago.
+
+Lo mismo se aplicará a las multas que imponga el Servicio de Aduanas.
+
+El consignatario estará afecto, además, a un interés penal del uno y medio por ciento mensual por cada mes o fracción de mes, en caso de retardo en el pago de lo que adeudare. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso 1°.
+
+#### Artículo 2°
+
+Las cantidades enteradas en arcas fiscales por conceptos de derechos, impuestos, tasas, tarifas, multas y otros cargos correspondientes a operaciones aduaneras cuya devolución se disponga por el Servicio de Aduanas, se restituirán reajustadas en el mismo porcentaje de variación que haya experimentado el Indice de Precios al Consumidor durante el período comprendido entre el último día del segundo mes que precede al de su ingreso en arcas fiscales y el último día del segundo mes anterior a la fecha en que deba efectuarse el pago.
+
+#### Artículo TRANSITORIO
+
+Las liquidaciones de los derechos, impuestos, demás gravámenes y multas, cuyo pago estuviese pendiente a la fecha en que entre en vigencia este decreto ley, y cuyo plazo para cubrirlas se encontrare vencido, podrán pagarse con intereses y sin reajuste dentro del plazo de 30 días, contados desde la misma fecha.
+
+Vencido este plazo, esas liquidaciones deberán pagarse con reajuste e intereses, calculados desde que debieron ser cancelados, en la misma forma y términos que los señalados en el artículo único de este decreto ley.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Jorge Cauas.
