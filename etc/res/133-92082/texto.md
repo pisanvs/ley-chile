@@ -1,0 +1,3 @@
+Por Resolución No. 133, de fecha 24 de Agosto de 1989, del Ministerio de Economía, Fomento y Reconstrucción se canceló la personalidad jurídica de la "Asociación Gremial Minera de San Felipe" el número 781, del Registro que lleva este Ministerio, por haberse configurado respecto de ella la causal de cancelación contemplada en Artículo 18 No. 2 letra c), del DL 2.757 de 1979.
+
+Ximena del Pozo Parada, Subsecretario de Economía, Fomento y Reconstrucción subrogante.
