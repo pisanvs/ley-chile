@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.034, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº15, superficie 245 m², rol de avalúo 33-31, comuna de Pichidegua, para la obra ''Camino Pichidegua-Marchigue, Sector Marchigue-La Esperanza, Km. 43.600 a Km. 69.237,91'' y se acordó el valor de indemnización con su propietario Ismael Correa Ossa, ascendente a la cantidad de $352.580.-
+
+Fiscal del Ministerio de Obras Públicas.
