@@ -1,0 +1,5 @@
+Por Resolución No. 257, de 13 de Marzo de 1992, de esta Subscretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA LOA SUR S.A., R.U.T. No. 95.059.000-9, domiciliada en la ciudad de Santiago, calle Presidente Errázuriz No. 2631, Piso 6°, para ampliar actividades pesqueras, autorizadas por Resoluciones No. 204, de 1986 y No. 360, de 1991, ambas de esta Subsecretaría, donde podrá operar las embarcaciones "Loa 12" y "Loa 14", en el litoral de la VIII Región, donde podrá extraer el siguiente recurso hidrobiológico: Merluza de cola.
+
+La presente autorización es sin perjucio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 13 de Marzo de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
