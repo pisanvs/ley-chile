@@ -1,0 +1,3 @@
+Por decreto MOP Nº 835 de 31 de julio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 2 para la obra: Camino Llico - Agua Pie, Sector Km. 0,00000 al Km. 2,64577, que figura a nombre de Universidad de Concepción, Rol de Avalúo 191-22, Comuna de Arauco, VIII Región, superficie 21.724 m². La Comisión de Peritos, fijó con fecha 21 de junio de 2001, el monto de la indemnización provisional en la cantidad de $13.347.047.- para el lote 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
