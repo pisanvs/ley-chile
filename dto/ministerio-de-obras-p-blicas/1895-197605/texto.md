@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.895, de 21 de noviembre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nos 93-1 y 105-1, superficies 882 y 746 m², rol de avalúo 276-132, comuna de Algarrobo, Quinta Región, para la obra Red Litoral Central Enlace Algarrobo Kms. 28.700,00 al 29.740,00. Posteriormente,por decreto exento MOP Nº586, de 28 de marzo de 2002, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietaria Alicia del Carmen Valdebenito Farfán, ascendente a la cantidad de $6.149.846.-.
+
+Fiscal del Ministerio de Obras Públicas.
