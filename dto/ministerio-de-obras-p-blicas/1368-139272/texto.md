@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.368, de 9 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2 para la Obra:
+
+''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco''; Km. 703,85000 a Km. 713,60000, Novena Región, que figura a nombre de Hintz Ramírez Manuel, Sin Rol, comuna de Pitrufquén, superficie 2.434 m2. La comisión de peritos integrada por los señores, Pablo Alex Mansilla Aravena, Fernando Luis Contreras Hennings y Claudio Hernán Angulo Sotomayor, fijó con fecha 10 de febrero de 1999, el valor provisional de la indemnización en la cantidad de $ 1.299.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
