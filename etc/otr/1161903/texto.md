@@ -1,0 +1,5 @@
+Excmo. Señor Supremo Director:
+
+La Corte de Representantes ha tomado en consideracion la consulta que hace el Tribunal de Minería para proceder al nombramiento de conjueces en la convocatoria provincial a que le obliga el artículo 11 de la lei de 7 de Setiembre: conoce que es imposible que ésta tenga caso hasta la junta jeneral i ha resuelto que V. E. S. nombre interinamente a los doce conjueces, elijiendo de entre los mineros de la lista los mas próvidos, de mejores conocimientos i conocidas facultades, a fin de que ellos i vecinos de cualidades mas aparentes llenen el número designado, i quede allanada la dificultad en tanto que la junta jeneral facilita el íntegro cumplimiento de lo lejislado en esta parte.
+
+Protesto a V. E. S. mis mas afectuosos respeto. – Sala de la Corte, i Noviembre 25 de 1822. – Francisco Ruiz Tagle. – José Tadeo Mancheño, secretario. – Excmo. Señor Director del Supremo Estado de Chile.
