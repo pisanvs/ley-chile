@@ -1,0 +1,3 @@
+Por resolución N° 1.070 de 13 de Noviembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, otórgase un plazo de 30 días, contados desde la fecha de la presente Resolución, a Pesquera Mar del Norte Ltda., R.U.T. N° 78.144.800-1, domiciliada en calle Copayapu N° 3000, Copiapó, para publicar el extracto de la Resolución N° 743, de 1992, conjuntamente con el correspondiente a esta Resolución, en virtud de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 13 de Noviembre de 1992.- Alvaro Briones Ramiréz, Subsecretario de Pesca Subrogante.
