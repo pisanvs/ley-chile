@@ -1,0 +1,3 @@
+Por Decreto MOP. N°1.216, de 30 de diciembre de 1997, se expropiaron los lotes de terreno N°s. 57 y 57-A, superficies 334 y 6.325 m2, roles de avalúo 481-5 y 481-17, comuna de Yungay, para la obra Proyecto Laja Diguillín, Faja de Expropiación Canal Matriz, Sector Trilaleo Pemuco y se acordó precio de indemnización con sus propietarios Mario Figueroa Muñoz y Berta Ernestina Guíñez Valeria, ascendente a la cantidad de $64.148, para el lote N° 57 y $1.498.485, para el lote N° 57-A.-
+
+Fiscal del Ministerio de Obras Públicas.
