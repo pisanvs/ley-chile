@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD EXPLOTADORA DE RECURSOS MARITIMOS, OCEAN RESOURCES GROUP INTERNATIONAL LIMITADA, PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA
+
+Por resolución N° 472, de 05 de Agosto de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Exploradora de Recursos Marítimos, Ocean Resources Group International Limitada, domiciliada en Santiago, para elaborar recursos hidrobiológicos en la línea de salado, congelado, fresco y ahumado, en las instalaciones de Frigorífico La Granja, ubicadas en la calle Santa Rosa 9233, Santiago. Los recursos que podrá utilizar como materia prima en la elaboración de dichos productos son: albacora, bonito, dorado, jurel, ostión del Norte, pulpo, jaiba, tiburón, bacalao, calamar y chorito. Asimismo, se deja sin efecto la resolución 88, de 1985, de la Subsecretaría de Pesca.
+
+Valparaíso. 05 de Agosto de 1985.- Roberto Verdugo Gormaz. Subsecretario de Pesca.
