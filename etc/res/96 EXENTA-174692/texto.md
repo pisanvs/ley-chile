@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 96 de 25 de Enero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reservas y Sector Expropiado Predios "Las Peñas" e "Hijuela número tres del Fundo La Higuera que en lo sucesivo se denominará La Higuera", de la Comuna de San Clemente, VII Región; y Derechos de Aprovechamiento de Aguas que corresponden a parcelas Nºs. parte parcelas 23 a la 30, parcelas 31 a la 36 y parte parcela 39 que son parte del Proyecto de Parcelación "Santa Isabel" formado por predios señalados y predios "Santa Isabel" y "Santa Regina" de la misma Comuna y Región. Los derechos de Aguas se extraen del Canal Higuera Lircay. Publicación hecha conforme Art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
