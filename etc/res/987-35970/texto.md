@@ -1,0 +1,3 @@
+Por Resolución N° 987, de 20 de mayo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por JORGE IGNACIO JIMENEZ PERALES, para un centro de cultivo ubicado en Puerto Queilén, Comuna de Queilén, Provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78° y 88°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
