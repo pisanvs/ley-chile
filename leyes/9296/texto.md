@@ -1,0 +1,1 @@
+Establece que las pensiones de jubilación y montepío de los empleados municipales de Santiago y Valparaíso, de los jornaleros municipales de Santiago y de los empleados de las Cajas de Previsión y Ahorro de los Empleados Municipales de Santiago y Valparaíso se reajustarán en la forma y condiciones que indica.
