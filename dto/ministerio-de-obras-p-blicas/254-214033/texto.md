@@ -1,0 +1,3 @@
+Por Decreto M.O.P No. 254 de 10 de octubre de 1991, se expropiaron los lotes Nºs. 1,2,3,4, 5-A, 5-B y 6, superficies 1.003 m2., 1.657 m2. 688 m2., 918 m2., 919 m2., 225 m2. y 242 m2., roles de avalúo 166-155, 166-165, 166-166, 166-169, 166-170 y 166-171, respectivamente, Comuna de Lanco, para la obra Camino Lanco Panguipulli, sector Lanco Puente Salto de Agua, y se acordó precio de indemnización con sus propietarios Enrique Nahuelpán Caniulaf, Julio López Nahuelpán, Egidia Pononcura Nahuelpán, Juana Nahuelpán Huichalaf y Silvia Z. Nahuelpán Rivas, ascendente a $ 174.898.- $ 195.662.-, $ 145.766.-, $ 139.039.-, $ 139.071.-, $ 124.822.- y $ 125.916.
+
+- Fiscal del Ministerio de Obras Públicas.
