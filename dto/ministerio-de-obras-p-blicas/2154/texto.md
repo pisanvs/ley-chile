@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.154, de 30 de octubre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL. MOP Nº206, de 1960, se expropió el lote de terreno Nº1, para la Obra: Camino Autopista Santiago-San Antonio, Sector Segmento 3, Calles de Servicio, Km. 19.965,30 a Km.
+
+20.595,40, Sector 9 Lado Izquierdo, Región Metropolitana, que figura a nombre de Champion S.A., rol de avalúo 510-33, comuna de Talagante, superficie 842 m2. La Comisión de Peritos integrada por los señores Marcela Alejandra Redard Ayala, Ramón Undurraga Montes y Carlos del Pedregal Sánchez, fijó con fecha 9 de octubre de 1997, el valor provisional de la indemnización en la cantidad de $5.296.600.-. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
