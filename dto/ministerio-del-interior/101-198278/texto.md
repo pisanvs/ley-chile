@@ -20,7 +20,7 @@ Por la índole de las necesidades que satisfacen o por el grave perjuicio públi
 
 3º Las empresas de bicicletas, automóviles, coches, carretelas y carruajes de alquiler;
 
-4º Los servicios y empresas de navegacion marítima e interior;
+4º Los servicios y empresas de navegacion marítima, aérea e interior;
 
 5º En los puertos: el embarco y desembarco de pasajeros, correspondencia, equipajes y carga de fácil deterioro; la carga y descarga de mercancías, pero solo en caso de aglomeracion; en las empresas de vapores, lanchas y botes de recreo;
 
