@@ -1,0 +1,3 @@
+Por decreto MOP Nº 542, de 30 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 81-2, superficie 6.592 m2., rol de avalúo 1228-25, comuna de Hijuelas, Quinta Región, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos. Sector Km. 99.300,00 a Km. 99.945,00. Posteriormente, por decreto MOP Nº 847, de 31 de mayo de 2001, se autorizó el Convenio Directo de Precio Ad-Referendum y se acordó el valor de indemnización con su propietario Daniel Aris Lucero, ascendente a la cantidad de $11.446.502.-.
+
+Fiscal del Ministerio de Obras Públicas.
