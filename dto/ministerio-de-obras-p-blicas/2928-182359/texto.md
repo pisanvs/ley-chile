@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.928, de 30 de junio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206 de 1960, se expropió el lote de terreno Nº 9, superficie 2.490,5 m2., rol de avalúo 166-34, comuna de Colina, Región Metropolitana, para la obra Camino Santiago-Colina-Los Andes. Sector: San José-Lo Pinto, Kms. 4.760,00 al 5.712,50. Posteriormente, por decreto MOP Nº 5.550, de 29 de diciembre de 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietario Ricardo Vásquez López, ascendente a la cantidad de $47.979.867.-
+
+Fiscal del Ministerio de Obras Públicas.
