@@ -1,0 +1,3 @@
+Por resolución Nº 955, de 16 de mayo de 2002 de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 82 de 1990 y Nº 2.126 de 2000, de esta Subsecretaría, que autorizaron a PESQUERA FRAPOLI LTDA. para operar la nave "Frapoli", ello de conformidad con lo establecido en el artículo 143 letras b) y d) de la Ley General de Pesca y Acuicultura, y lo solicitado por la peticionaria mediante carta C.I. Subpesca Nº 2069 de 2002.
+
+Valparaíso, 16 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca
