@@ -1,0 +1,3 @@
+Por resolución No. 541 de 29 de mayo 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, - parte inmueble-, ubicado en Santa Isabel No. 325-327, presunto rol avalúos. No. 584-38, comuna Santiago, aparentemente dominio de Arrigo Botto Flores. Comisión integrada por peritos Italo Núñez Núñez y Hernán Monckeberg, arquitectos y Jorge Cavagnaro Michelis, ingeniero civil, según informe de 26 de diciembre 1988, fijó monto provisional indemnización en $ 3.350.320.-, pagadera al contado.
+
+- Director SERVIU Metropolitano.
