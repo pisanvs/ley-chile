@@ -1,0 +1,3 @@
+Por resolución Nº 2.823, de 11 de diciembre de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chan Chan, X Región, individualizada en el artículo 1º letra c) del DS Nº 38 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION INDIGENA DE PESCADORES RAYEN LAFQUEN DE CHAN CHAN.
+
+Valparaíso, 11 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
