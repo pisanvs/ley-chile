@@ -1,0 +1,3 @@
+Por resolución exenta Nº65 del 26.11.02 del Ministerio de Economía, Fomento y Reconstrucción, recházase el recurso de reclamación interpuesto por SOCIEDAD PESQUERA IRINA LTDA. y por Pesquera Isladamas S.A., en contra de la resolución Nº1.126 de 2001 de la Subsecretaría de Pesca, por no haberse acreditado fehacientemente la improcedencia de la aplicación de la sanción establecida por dicha resolución en relación con la nave "Lonquimay", de conformidad con lo dispuesto en el artículo 12 inciso 4º de la ley Nº19.713.
+
+Santiago, Felipe Sandoval Precht, Subsecretario de Pesca.
