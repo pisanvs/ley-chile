@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.155 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº 49-A, superficie 814 m2, rol de avalúo Nº 2209-29, comuna de Chillán, para la obra ''Mejoramiento Ruta N-45, sector Variante Cato, Km. 0,00000 al 4,15551'', VIII Región y se acordó el valor de la indemnización con su propietaria María Teresa Brahm Klein, ascendente a la cantidad de $2.901.380.-
+
+Fiscal del Ministerio de Obras Públicas.
