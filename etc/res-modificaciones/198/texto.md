@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION QUE INDICA
+
+Por Resolución No. 198, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 11 de la Resolución No. 1.882, de 1989, de esta Subsecretaría, que autorizó a Pesquera Marbella Limitada, R.U.T. No. 86.946.900-9, domiciliada en Iquique, para sustituir en el litoral de las Regiones I y II, las embarcaciones "Costa Grande 1", "Costa Grande 6" y una en construcción por las naves "Marchigue" y "Costa Grande 1°", por el que a continuación se indica: 11.- "A partir de la fecha de inicio de la operación de la nave "Marchigue" quedarán sin efecto las Resoluciones No. 172 de 1982, en lo relativo a la embarcación "Costa Grande 1", No. 778 de 1985 y No. 1.154 de 1988, en la que dice relación, a una nave en construcción, todas de esta Subsecretaría".
+
+Valparaíso, 06 de Febrero de 1990.- Roberto Cabezas Bello Subsecretario de Pesca.
