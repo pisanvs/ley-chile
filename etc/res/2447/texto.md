@@ -1,0 +1,3 @@
+Por resolución número 2.447, de 21 de diciembre de 1999, de esta Subsecretaría autorízase a la FUNDACION OTWAY para continuar desarrollando las actividades de investigación autorizadas por resolución Nº 4 de 1998 y prorrogadas por resolución Nº 1.905 de 1998, ambas de esta Subsecretaría, hasta el 16 de enero del año 2000, en los mismos términos en que fueron autorizadas por la resolución Nº 4 citada.
+
+Valparaíso, 21 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
