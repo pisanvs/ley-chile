@@ -1,0 +1,7 @@
+Por Resolución Nº 1.381, de 24 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a la UNIVERSIDAD DE MAGALLANES, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto de investigación dirigida a los recursos Centolla y Centollón, con el objeto de cumplir con fines de docencia de las asignaturas de Desarrollo Larvario y Cultivo de Crustáceos impartidas por la carrera de Tecnología en Recursos Acuáticos de la Universidad de Magallanes, elaborado por la señalada Universidad y aprobado por esta Subsecretaría.
+
+La Universidad de Magallanes podrá extraer en el litoral de Seno Año Nuevo, Isla Navarino, Isla Maldonado, y canales Smith, Parker y Castillo, todos ubicados en la XII Región, 10 ejemplares vivos de hembras maduras (ovadas) de Centolla, e igual cantidad de hembras maduras de Centollón, captura que se efectuará con embarcaciones artesanales que operan habitualmente en las zonas mencionadas.
+
+La Universidad designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Rector don Víctor Manuel Fajardo Morales R.U.T. Nº 4.465.600-0, domiciliado en Avenida Bulnes Nº 1890, Punta Arenas.
+
+Valparaíso, 24 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
