@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 168 de 14 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las parcelas N°s. 1 a la 8 y sitios N°s. 1 al 8 de Proyecto de Parcelación "Los Cruceros" formado por el predio "Hijuela El Maitén de Pucal n" de la comuna de Nogales, Quinta Región. Los derechos de aguas se extraen del Canal Purutún y Derrames de exclusión de este mismo predio.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
