@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.322 de 03 de Agosto de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 10, 12, 13 y parte de las N°s. 11, 14 y 15 y sitios N°s. 1, 2, 4, 8 y 10 al 14 del Proyecto de Parcelación "San Ramón", de la comuna de Petorca, Quinta Región, formado por predios "Artificio de Pedegua" y "San Ramón de Pedegua, antes Santa Flora". Los Derechos de Agua se extraen de los Pozos Llano Bajo, Hinojal o Vinagral y El Francés y de la Vertiente Marín. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
