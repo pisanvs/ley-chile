@@ -1,0 +1,3 @@
+Por decreto MOP Nº 797 de fecha 31 de julio del 2003, se expropiaron los lotes de terreno Nºs. 25 y 26, superficie 531.51 y 515,00 m² respectivamente, Rol Nº 1127-37, comuna de Castro, X Región para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647" y se acordó el valor de indemnización con su propietario Alitec S.A., ascendente a la cantidad de $4.228.417.
+
+Fiscal del Ministerio de Obras Públicas.
