@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 472 de fecha 26 de marzo de 2004, se expropiaron los lotes de terreno Nº s. 13 y 16, superficies 118,00 y 780,00 m2, Rol Nº 395-146, comuna de Pitrufquén, IX Región para la obra "Camino Ruta S-65, sector Pitrufquén - Ñancul, Km. 0,000 al 12,250" y se acordó el valor de indemnización con su propietaria Elena del Carmen Marín Marín, ascendente a la cantidad de $1.083.659.- para los lotes Nº s. 13 y 16.
+
+Fiscal del Ministerio de Obras Públicas.
