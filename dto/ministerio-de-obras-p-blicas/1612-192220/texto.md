@@ -1,0 +1,3 @@
+Por decreto MOP Nº1612, de 26 de octubre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº19EN2. Obra: Extensión Norte Línea 2, sector: Cal y Canto - Santos Dumont, que figura a nombre de Kattan y Cía., Rol de Avalúo 467-7, Comuna Recoleta, superficie 1.051 m². La comisión de peritos, fijó con fecha 18 de febrero de 2001, en la cantidad de $287.195.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
