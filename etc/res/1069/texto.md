@@ -1,0 +1,3 @@
+Por Resolución N° 1.069, de 13 de Noviembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 1.582, de 1989, de esta Subsecretaría, que autorizó a don JOSE IGNACIO PROSCHLE GALLARDO, R.U.T. N° 4.568.880-1, domiciliado en Puerto Montt, Población San Luis, calle Santa Inés N° 990, para operar un establecimiento de cultivo del recursos alga del género Gracilaria, en Estero Quildaco, en Sector Contao, Comuna Hualaihué, Provincia de Palena, X Región, por renuncia de su titular, ya individualizado.
+
+Valparaíso, 13 de noviembre de 1992.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
