@@ -1,0 +1,5 @@
+Por decreto MOP Nº 594, de 9 de julio de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 32, 34, 35 y 37 para la obra: "Mejoramiento Ruta 150, Tramo III, Sector By-Pass Penco (Eje Principal)", que figuran a nombre de Forestal Cementos Bío Bío Ltda y Forestal Bío Bío SA, roles de avalúo Nº 1281-1 y 1281-55, Comuna de Penco, VIII Región, superficies:
+
+2.244, 39.866, 23.476 y 15.543 m2. La Comisión de Peritos, fijó con fecha 1 de abril de 2002 en las cantidades de $3.815.280, para lote 32; $93.091.344, para lote Nº 34; $33.445.838, para lote Nº 35 y $16.204.780, para lote Nº 37, complementada por acta de fecha 26 de abril de 2004 sólo en lo que se refiere a los lotes 34, 35 y 37. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
