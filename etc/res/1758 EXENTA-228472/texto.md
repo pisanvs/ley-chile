@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.758, de fecha 1 de julio de 2004, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES DE MARISCADORES DE ORILLA Y ALGUEROS ARTESANALES DE CHAÑARAL, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Pedro de Valdivia s/n (ex Matadero Municipal), Chañaral, III Región, donde podrá procesar en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Déjase sin efecto la resolución Nº 930, de 2003, de esta Subsecretaría, en virtud de lo solicitado por el peticionario mediante C.I. Subpesca Nº 4.570, de 2004, y del contenido de la presente resolución.
+
+Valparaíso, 1 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
