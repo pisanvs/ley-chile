@@ -1,0 +1,3 @@
+Por resolución No. 177 de 26 de Febrero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución No. 178, de 1989, de esta Subsecretaría, que autorizó a Empresa Pesquera San Miguel Ltda., RUT. No. 81.740.200-3, domiciliada en Talcahuano, para operar una nave en construcción de 650 m3 de capacidad de bodega, entre las Regiones III a VII y IX en virtud de lo dispuesto en el Artículo 143 letra b) de la Ley No. 18.892, Ley General de Pesca y Agricultura.
+
+Valparaíso, 26 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
