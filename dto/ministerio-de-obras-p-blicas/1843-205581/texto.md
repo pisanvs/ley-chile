@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.843, de 29 de octubre de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 7 para la obra: Camino Ruta T-55, sector Futrono - Llifén, tramo Km. 55,30000 a Km. 75,76384, que figura a nombre de Agrícola e Inversiones Quiman, rol de avalúo 72-17, comuna de Futrono, X Región, superficie 1.251,00 m2. La Comisión de Peritos fijó, con fecha 20 de abril de 2000, en la cantidad de $3.577.500.-, para el lote 7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
