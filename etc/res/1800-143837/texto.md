@@ -1,0 +1,3 @@
+Por resolución número 1.800, de 9 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97110045, presentada por CARLOS MARCELO BARRIA GUNCKEL, para operar un centro de cultivo ubicado en Canal Puyuguapi, Entrada Sur del Canal - 1, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 9 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
