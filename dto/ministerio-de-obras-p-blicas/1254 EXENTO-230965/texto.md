@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 1.254, de 31 de agosto de 2004, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 3, para la ejecución de la obra "Mejoramiento Ruta S-46, Sector Carahue - Puerto Domínguez, Km.
+
+0,00000 a Km. 7,34893", que figura a nombre de Mariqueo Godomar Juan F.; Rol de Avalúo 266-402, comuna de Carahue, IX Región, superficie 522 m2. La Comisión de Peritos con fecha 6 de agosto de 2002, fijó el monto de la indemnización provisional en la cantidad de $327.800, para el lote Nº 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
