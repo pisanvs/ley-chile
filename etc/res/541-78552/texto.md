@@ -1,0 +1,3 @@
+Por resolución No. 541, de 05 de Junio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 06 de enero de 1992, el plazo otorgado a PESQUERA YELCHO S.A., R.U.T. No. 96.531.750-3, domiciliada en calle Salvador Donoso No. 1487, Valparaíso, para operar la nave "Lleuque", autorizada por la resolución No. 822, de 1988 y No. 2066, de 1989, ambas de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 05 de Junio de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
