@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 296,de 14 de septiembre de 1989, se expropiaron los lotes N°s. 4, 11, 27, 35 y 47, superficies 313,5 m2., 648 m2., 460 m2., 442 m2. y 178,75 m2., roles de avalúo 1737-11, 1737-18, 2636-4, 2838-30 y 3238-1, respectivamente, Comuna de La Cisterna, para Avenida Américo Vespucio, sector Gran Avenida - Ochagavía y se acordó precio de indemnización con sus propietarios, don Jorge Nelson Hernández Vergara, don Serafín Caddeo Galarce, doña Norma del Carmen Serrano Rodríguez, don Juan Cunill Solís y don Eduardo Ramírez Rodríguez, ascendente a $ 3.767.760 para el lote 4; $ 8.529.790 para el lote 11; $ 4.195.872 para el lote 27; $ 5.562.070 para el lote 35 y $ 3.988.593 para el lote 47.
+
+Fiscal del Ministerio de Obras Públicas.
