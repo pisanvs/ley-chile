@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.103, de 28 de diciembre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs. 74 y 76, para la obra: "Concesión Internacional Interconexión Vial Santiago - Valparaíso -
+
+Viña del Mar. Tramo 6A3: Km. 33.800,00 a Km. 34.720,00", Región Metropolitana, que figuran a nombre de Pinto Villa Nueva Gonzalo, rol de avalúo 103-152, comuna de Curacaví, superficies 1.553 m2 y 474 m2, respectivamente. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Jorge Antonio Catalán Cordero y Gustavo Domínguez Errázuriz, fijó con fecha 8 de junio de 2001, el valor provisional de la indemnización en las cantidades de $8.804.400.- para el lote Nº 74 y de $1.271.000.- para el lote Nº 76. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
