@@ -1,0 +1,9 @@
+AUTORIZA A PESQUERA SUR EXPORTACIONES LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 1.122 de 23 de Agosto de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Sur Exportaciones Limitada, R.U.T. No. 85.843.600-1, domiciliada en la ciudad de Penco, para ampliar actividades pesqueras, autorizadas por Resoluciones No. 406, de 1984 y No. 853, de 1986, ambas de esta Subsecretaría, en orden a operar una planta industrial en la VIII Región, ubicada en la ex - granja Cosmito en el camino de Concepción a Penco, donde procesará en las líneas de elaboración de conserva y congelado, los siguientes recursos hidrobiológicos: Bacalao de profundidad o Mero, Blanquillo, Caballa, Cojinoba del Norte, Cojinoba del Sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lisa, Merluza común, Merluza del Sur, Merluza de cola Merluza de tres aletas, Pejegallo, Pejerrey de mar, Raya, Róbalo, Salmón, Sardina común, Sierra, Tollo, Almeja, Calamar, Caracol locate, Caracol trumulco, Cholga, Chorito, Choro, Culengue, Lapa, Loco, Macha, Navajuela, Ostión del Norte, Ostión del Sur, Ostra chilena, Cangrejo panchote, Centolla, Centollón, Jaiba, Erizo y Piure.
+
+El recurso Salmón deberá ser adquirido de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
