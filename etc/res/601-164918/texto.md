@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD PESQUERA CATALINA LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 601, de 26 de Septiembre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera Catalina Ltda., domiciliado en San Antonio, para instalar y operar una planta elaboradora de recursos hidrobiológicos frescos, congelados, seco salado y ahumado, en el Km. 104, ruta 78, Santiago San Antonio, sector Colengua, en la que podrá utilizar como materia prima los siguientes recursos: Merluza común, congrio, tollo, ostión, almeja, macha, sardina española, corvina, albacora, bacalao de profundidad, jurel, caballa, palometa, atunes, bonito, cojinova del Norte, róbalo, lenguado de ojos chicos, lenguado de ojos grandes, tiburón o marrajo, agujilla, sierra, jaiba, picoroco, chorito, cholga, calamar y pulpo.
+
+Valparaíso, 26 de Septiembre de 1985. Roberto Verdugo Gormaz, Subsecretario de Pesca.
