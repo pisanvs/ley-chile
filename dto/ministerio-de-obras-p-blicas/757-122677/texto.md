@@ -1,0 +1,3 @@
+Por Decreto MOP. No. 757, de 29 de mayo de 1998, se expropió el lote de terreno No. 18, superficie 2.964 m2, rol de avalúo 4505-45, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte-Sur, sector Ruta 5 Sur-Departamental y sector Eje General Velásquez y se acordó precio de indemnización con el propietario Inversiones Valladolid S.A., ascendente a la cantidad de $ 96.382.700.
+
+- Fiscal del Ministerio de Obras Públicas.
