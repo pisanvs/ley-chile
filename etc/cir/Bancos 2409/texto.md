@@ -1992,7 +1992,9 @@ b) Los siguientes documentos emitidos por el Banco Central de Chile:
 
 - Bonos del Banco Central de Chile en Pesos (BCP), en Unidades de Fomento (BCU) y expresados en Dólares de los Estados Unidos de América (BCD).
 
-c) Pagarés emitidos por la Tesorería General de la República, correspondientes a emisiones seriadas de instrumentos de oferta pública.
+- Bonos del Banco Central de Chile en dólares de los Estados Unidos de América (B.C.X), Pagarés del Banco Central de Chile en dólares de los Estados Unidos de América (P.C.X) y Cupones de Emisión del Banco Central de Chile en dólares de los Estados Unidos de América (X.E.R.O).
+
+c) Bonos y pagarés emitidos por la Tesorería General de la República, correspondientes a emisiones seriadas de instrumentos de oferta pública.
 
 d) Bonos de la deuda interna y cualquiera otra clase de documentos representativos de obligaciones del Estado o de sus instituciones o garantizados por aquél o éstas.
 
@@ -2250,7 +2252,7 @@ La Superintendencia de Bancos e Instituciones Financieras, en su calidad de caut
 
 Por las razones anteriores, se dará a esta Circular Conjunta una difusión amplia hacia el público en general, ya que pueden incurrir en las sanciones expuestas no sólo las entidades fiscalizadas sino también personas naturales o jurídicas que no se encuentran sujetas directamente a la Fiscalización de estos organismos de control.
 
-### 3. Conclusiones
+3.- Conclusiones.
 
 Además de lo precedentemente expuesto, cabe concluir:
 
@@ -2258,25 +2260,21 @@ a) Que ninguna persona, natural o jurídica, que no tenga autorización por ley 
 
 b) Que tampoco pueden las personas naturales o jurídicas, que no sean bancos, sociedades financieras, agentes de valores o corredores de bolsa, realizar habitualmente operaciones de compraventa de títulos valores, con pactos que permitan readquirirlos, ya que esa habitualidad refleja una captación de dinero del público, salvo que dichas operaciones se realicen con la intervención de corredores de bolsa o agentes de valores o que se concierten directamente entre entidades inscritas en el Registro de Valores.
 
-c) Que tampoco las personas naturales o jurídicas pueden recurrir al dinero del público a través de una emisión de valores de oferta pública para destinar su producido a otorgar créditos de cualquiera naturaleza, ya que ello implica una clara infracción al artículo 34(*) de la Ley General de Bancos. Con mayor razón se produce esta infracción si se realiza la operación descrita mediante títulos valores no inscritos.
+c) Suprimida (**).
 
 d) Que las instituciones autorizadas, esto es, los bancos, sociedades financieras, agentes de valores y corredores de bolsa no pueden ejercer a través de otras personas o entidades no autorizadas, el giro que les está reservado, ni menos a través de entidades que no hayan cumplido con las formalidades previstas en la ley.
 
 Saludamos atentamente a Ud.,
 
-HUGO LAVADOS MONTES
+HUGO LAVADOS MONTES JOSE FLORENCIO GUZMAN CORREA
 
-Superintendente de Valores
+Superintendente de Valores Superintendente de Bancos
 
-y Seguros
-
-JOSE FLORENCIO GUZMAN CORREA
-
-Superintendente de Bancos
-
-e Instituciones Financieras
+y Seguros e Instituciones Financieras
 
 (*) Las alusiones a los artículos 34 y 62 deben entenderse referidas, en la actualidad, a los artículos 39 y 40 del texto refundido en la nueva Ley General de Bancos (Decreto con Fuerza de Ley N° 3 de 1997).
+
+(**) La letra c) se dejó sin efecto mediante la Circular N° 3.163 de 16 de enero de 2002.
 
 CAPITULO 2-2 (Bancos)
 
