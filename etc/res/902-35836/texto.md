@@ -1,0 +1,3 @@
+Por Resolución N° 902, de 21 de julio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por PESQUERA LOS FIORDOS LTDA., R.U.T. N° 79.872.420-7, para un sector ubicado en Estero Moros, ribera norte del seno Magdalena, a 2 km. al weste de Punta Krauss, Comuna de Cisnes, Provincia de Aysén, XI Región, conforme a lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 21 de julio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
