@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.210, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº16-A, superficie 100 m², rol de avalúo 2202-64, comuna de Puerto Montt, X Región, para la obra "Camino Ruta 7, Sector Chamiza - Quillaipe, Km. 4,83687 al 15,84700" y se acordó el valor de indemnización con su propietario don Osvaldo Venegas Ríos, ascendente a la cantidad de $526.977.-
+
+Fiscal del Ministerio de Obras Públicas.
