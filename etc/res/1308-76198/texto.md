@@ -1,0 +1,3 @@
+Por Resolución Nº 1.308, de 3 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura, solicitud Nº 95104012, presentada por INGRID ISABEL BAHAMONDES ROJAS, para el centro de cultivo ubicado en Estero Huito, comuna de Calbuco, provincia de Llanquihue, X Región, conforme lo dispuesto en el artículo 78, inciso 2º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 3 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
