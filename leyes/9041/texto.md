@@ -1,0 +1,1 @@
+Libera de todo dereho de internación y de los impuestos que se perciben por las Aduanas los envases de hojalata, cartón o similares que se aforan por las partidas que indica, del Arancel Aduanero, y que cumplan con los requisitos que indica.
