@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución, como asimismo, de la obligación de depósito establecida en el decreto 6.973, de 1° de septiembre de 1956, de Hacienda, que fijó el texto refundido de la Ley Orgánica de la Comisión de Cambios Internacionales, la internación de los vehículos que indica, destinados al Instituto Pascual Baburizza de Educación e Investigación Agrícola.
