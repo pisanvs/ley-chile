@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.110, de 30 de julio de 1999, se expropió el lote de terreno Nº197-A, superficie 660,0 m2., rol de avalúo 386-2, comuna de Loncoche, para la obra "Concesión Internacional Ruta 5; Tramo Temuco-Río Bueno", Novena Región y se acordó el valor de indemnización con su propietaria Norma del Carmen Lagos Lagos, ascendente a la cantidad de $15.626.762.-
+
+Fiscal del Ministerio de Obras Públicas.
