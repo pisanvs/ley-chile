@@ -1,0 +1,7 @@
+AUTORIZA A DOÑA CARLINA DEL CARMEN PEÑAFIEL LIZAMA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 1.394, de 06 de Octubre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a doña Carlina del Carmen Peñafiel Lizama, RUT No. 5.745.409-1, domiciliada en la ciudad de Temuco, calle Yulton No. 1450, para iniciar actividades pesqueras, en orden a operar una planta industrial en la IX Región, ubicada en calle Ercilla No. 02098, Pueblo Nuevo, Temuco, IX Región, donde procesará en la línea de elaboración de ahumado y conserva, los siguientes recursos hidrobiológicos: Ahumado y conserva. Bacalao de Profundidad o Mero, Carpa, Corvina, Jurel, Lisa, Pejegallo, Pejerrey de mar, Róbalo, Salmón del Pacífico, Sardina común, Sardina, Tollo, Trucha arco iris, Trucha café, Almeja o taca, Almeja, Caracol trumulco, Cholga, Chorito, Choro, Loco Macha Navajuela, Jaiba, Erizo y Piure Conserva: Cochayuyo. Los recursos Trucha arco iris Trucha café y Salmón del Pacífico, deberán ser adquiridos de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 06 de Octubre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
