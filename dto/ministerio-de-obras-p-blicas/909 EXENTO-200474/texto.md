@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº909, de 14 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 se expropió el lote de terreno Nº1 para la obra: Camino Ruta Rol I-550, Sector Paredones - San Pedro de Alcántara, Tramo km. 16,84000 a km. 17,04804; que figura a nombre de Díaz Escandón Adriano Bernabé, rol de avalúo 56-94, Comuna de Paredones, VI Región, superficie 757 m2. La Comisión de Peritos, fijó con fecha 15 de junio de 2000, en la cantidad de $1.526.568.- para el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
