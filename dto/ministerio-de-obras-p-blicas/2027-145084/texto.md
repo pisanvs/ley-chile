@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.027, de 30 de julio de 1999, se expropiaron los lotes de terreno Nºs. 1 y 3, superficies 282 m², y 75 m², rol de avalúo 460-15, comuna de Retiro, para la obra ''Ruta 5 Tramo Talca - Chillán: Solución Acceso Camino Vecinal'', Séptima Región y se acordó el valor de indemnización con su propietario Misael Fernández Guajardo, ascendente a la cantidad total de $1.526.709.-
+
+Fiscal del Ministerio de Obras Públicas.
