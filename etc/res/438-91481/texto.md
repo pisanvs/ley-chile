@@ -1,0 +1,3 @@
+Por Resolución No. 438, de 9 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado en calle Santa Isabel 329, presunto rol avalúos 584-39, comuna Santiago, aparentemente dominio de Sergio Aguilera Díaz. Comisión integrada por peritos Italo Núñez Núñez, Hernán Monckeberg Barros, arquitectos, y Jorge Cavagnaro Michelis, ingeniero civil, según informe de 26.12.88, fijó monto provisional indemnización en $ 1.439.350.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
