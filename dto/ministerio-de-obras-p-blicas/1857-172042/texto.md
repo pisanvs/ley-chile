@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.857, de 28 de abril del 2000, se expropió el lote de terreno Nº 44, superficie 2.097 m2., rol de avalúo 212-293, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector J, Sexta Región y se acordó el valor de indemnización con su propietario Miguel Raúl Cereceda Duartes, ascendente a la cantidad de $7.047.646.
+
+Fiscal del Ministerio de Obras Públicas.
