@@ -1,0 +1,3 @@
+Por resolución Nº 1.692, de 3 de agosto de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a La Cebada, IV Región, individualizada en el artículo 1º) Nº 4 del DS Nº 10 de 1998, del Ministerio de Economía, Fomento y Reconstrucción presentado por la ASOCIACION GREMIAL ALGUEROS Y MARISCADORES MAR AZUL.
+
+Valparaíso, 3 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
