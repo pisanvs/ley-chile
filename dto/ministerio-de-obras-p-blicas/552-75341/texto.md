@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 552, de 30 de junio de 1997, se expropio el lote de terreno N° 7, superficie 1.356 M2., rol de avalúo 9317-1, comuna de Valparaíso, para la obra Habilitación Nuevo Camino La Pólvora Etapa I, sector Ruta 68, Acceso Sur a Valparaíso y se acordó precio de indemnización con su propietario Ildelfonso Pérez Zújovic, ascendente a la cantidad de $3.858.600.-
+
+Fiscal del Ministerio de Obras Públicas
