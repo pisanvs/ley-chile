@@ -1,0 +1,3 @@
+Por decreto MOP Nº 339, de fecha 20 de febrero del 2002, se expropió el lote de terreno Nº 19, superficie 510 m2., rol de avalúo 342-1, comuna de Tomé, para la obra "Camino Lirquén-Tomé, Sector Variante Cuesta Caracoles, Km. 20,40000 a Km. 23,48400" y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Tomé, ascendente a la cantidad de $12.079.632.
+
+- Fiscal del Ministerio de Obras Públicas.
