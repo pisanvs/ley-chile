@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.040, de 21 de noviembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111632 presentada por CULTIVOS YADRAN S.A., para instalar y operar un centro de cultivo ubicado en Canal Moraleda, Islas Los Quincheles, al sur de Isla Sin Nombre, XI Región.
+
+Valparaíso, 21 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
