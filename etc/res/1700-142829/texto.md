@@ -1,0 +1,3 @@
+Por resolución Nº1.700, de 1 de septiembre de 1999, de esta Subsecretaría, deniégase la solicitud presentada por SOCIEDAD PESQUERA BIO BIO S.A., para ampliar actividades pesqueras extractivas con la nave ''Biomar IV'', respecto de las áreas y especies hidrobiológicas solicitadas, en virtud del artículo 19 letra e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 1 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
