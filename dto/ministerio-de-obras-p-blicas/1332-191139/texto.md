@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.332, de 31 de agosto del 2001, se expropiaron los lotes de terreno Nºs 15 y 16, superficies 10 y 112 m², rol de avalúo 524-30, comuna de Estación Central, para la obra Sistema Norte - Sur. Tramo G: Nudo Alameda, Región Metropolitana y se acordó el valor de indemnización con su propietario Arturo Segundo Fernández Valenzuela, ascendente a la cantidad de $21.277.810.-
+
+Fiscal del Ministerio de Obras Públicas.
