@@ -1,0 +1,153 @@
+Núm. 606.- Santiago, 14 de octubre de 1925.- Vistas las observaciones presentadas al decreto-lei monetario por la mision de Consejeros Financieros, presidida por el señor Edwin Walter Kemmerer;
+
+Teniendo presente los nuevos estudios practicados por el Consejo de Ministros y el Ministerio de Hacienda, y lo informado por la Superintendencia de la Casa de Moneda; y
+
+De acuerdo con el Consejo de Ministros de Estado, dicto el siguiente DECRETO-LEI:
+
+## Título I
+
+De las monedas de oro
+
+#### Artículo 1
+
+o La unidad monetaria de Chile será el "peso" y tendrá ciento ochenta y tres mil cincuenta y siete millonésimos (183057) de gramo de oro fino.
+
+Diez de estas unidades, que deben contener en total un gramo y ochenta y tres mil cincuenta y siete cien milésimos de gramo (1,83057) de oro fino, constituirán en el "cóndor".
+
+> **Nota.** El Art. 16 de la LEY 8403, publicada el 29.12.1945, dispuso que las obligaciones que se hayan contraído en la moneda legal fijada por presente artículo, seguirán siendo solucionadas con la misma cantidad numérica de pesos chilenos expresada en la obligación respectiva, cualquiera que sea la relación que se fije entre el peso chileno y el oro.
+
+#### Artículo 2
+
+o En todo billete o moneda de diez pesos o mas, se estampará en letras y en cifras su valor en pesos, y en letras de menor dimension, su equivalencia en cóndores.
+
+En las estipulaciones contractuales, en la designacion de precios y salarios, en la imposicion de contribuciones y en cualesquiera otras obligaciones, públicas o privadas, que impliquen empleo de dinero, podrán usarse indistintamente las espresiones "cóndor" o "peso".
+
+#### Artículo 3
+
+o La Casa de Moneda acuñará monedas de oro de las denominaciones y pesos autorizados por esta lei con las pastas o barras de oro que se le presenten, sin limitacion en cuanto a cantidad, siempre que el peso de la pasta o barra no sea inferior a quinientos gramos y la lei de fino no menor de quinientos milésimos. Los costos de amonedacion del oro serán de cargo del Estado; pero la Casa de Moneda podrá cobrar los gastos que provengan del ensaye y refinacion de las pastas que le sean entregadas para la acuñacion. Con este fin, el Superintendente de la Casa de Moneda publicará oportunamente una tarifa de gastos, la que será aprobada préviamente por el Presidente de la República.
+
+#### Artículo 4
+
+o El oro se acuñará en monedas del tipo de veinte pesos o dos cóndores, de cincuenta pesos o cinco cóndores y de cien pesos o diez cóndores.
+
+La moneda de veinte pesos o dos cóndores, pesará cuatro gramos sesenta y siete mil novecientos treinta y dos millonésimos de gramo (4.067932), con novecientos milésimos (900) de fino y contendrá tres gramos sesenta y seis mil ciento trece cien milésimos de oro fino (3.06113).
+
+La moneda de cincuenta pesos o cinco cóndores, pesará diez gramos y dieciseis mil novecientos ochenta y tres cien milésimos de gramo (10.16983), con novecientos (900) milésimos de fino, y contendrá nueve gramos y quince mil doscientos ochenta y cinco cien milésimos (9.15285) de oro fino.
+
+La moneda de cien pesos o diez cóndores, pesará veinte gramos y treinta y tres mil novecientos sesenta y seis cien milésimos de gramo (20.33966), con novecientos (900) milésimos de fino y contendrá dieciocho gramos y treinta mil quinientos setenta cien milésimos (18.30570) de oro fino.
+
+#### Artículo 5
+
+o El Presidente de la República fijará por una sola vez, el diámetro, el espesor y el modelo de las monedas de oro, y asímismo el cordoncillo que deberán llevar. Toda modificacion posterior deberá ser autorizada por lei.
+
+#### Artículo 6
+
+o La tolerancia en las monedas de oro en partidas o conjunto de monedas será de un milésimo en la lei, y de un milésimo en el peso.
+
+La tolerancia en el peso en piezas separadas o individuales, será de treinta y dos milígramos en las monedas de cincuenta y cien pesos, y de dieciseis milígramos en las de veinte pesos.
+
+#### Artículo 7
+
+o Toda moneda de oro acuñada en conformidad con la lei, y que este dentro de la tolerancia de peso por pieza fijada en la disposicion que autoriza su acuñacion, tendra curso legal ilimitado, y servirá para solventar toda clase de obligaciones, públicas o privadas, salvo convenio especial en contrario. Las monedas de oro acuñadas segun lo dispuesto en la lei número 277, de 11 de febrero de 1895, serán recibidas en pago de cualquiera deuda contraida en moneda de curso legal, en la proporcion de un peso de ellas por cada tres de los pesos establecidos por la presente lei.
+
+Las monedas de oro acuñadas con arreglo a la presente lei y a la citada lei número 277, y cuyo peso esté por debajo del límite de tolerancia legal, serán recibidas solamente por el valor proporcional a su peso efectivo.
+
+Tanto las monedas de que trata la presente lei, como las que determina la lei número 277, de 11 de febrero de 1895, servirán para el pago de toda obligacion contraida en moneda nacional de oro, computándose cada peso acuñado en conformidad con la lei número 277, por tres de los pesos establecidos por la presente.
+
+#### Artículo 8
+
+o La Casa de Moneda y el Banco Central de Chile que para este efecto obrará como ajente de ella, recibirán por su valor nominal las monedas de oro chilenas que, despues de veinte años de la fecha indicada en el cuño, no demuestren una pérdida o desgaste natural superior a medio por ciento (1/2 %) de su peso legal. Si el uso hubiere sido menor de veinte años, solo se aceptará como desgaste natural y admisible una pérdida proporcional al tiempo trascurrido. El Presidente de la República dictará los reglamentos del caso para evitar los abusos de que pueda ser víctima el Fisco por cercenamiento fraudulento u otras prácticas ilícitas. Toda moneda de oro que se reciba en la Casa de Moneda y que a consecuencia de su desgaste natural haya perdido en peso mas cantidad de la que permite la tolerancia legal, será fundida y reacuñada.
+
+#### Artículo 9
+
+o Las monedas de oro acuñadas en conformidad con la lei número 277, que reciban el Gobierno nacional, sus reparticiones u otras instituciones públicas, los Ferrocarriles del Estado u otras empresas fiscales o el Banco Central de Chile, no serán puestas nuevamente en circulacion sino serán entregadas a la Casa de Moneda para su reacuñacion.
+
+## Título II
+
+De las monedas de plata y níquel
+
+#### Artículo 10
+
+Habrá una moneda de plata de un peso ($1.00) con seis gramos (6 gr.) de peso y dos gramos cuatro décimos (2.4 gr.) de fino. La ley de esta moneda será de cuatro décimos (0.4) de fino.
+
+> **Nota.** La LEY 5146, publicada el 25.03.1933, fijó las características de las nuevas monedas de cinco, diez, veinte centavos, y de un peso, fabricadas en una aleación de níquel y cobre. En consecuencia, a contar de su fecha de vigencia dejó de fabricarse la moneda de un peso de plata.
+
+#### Artículo 11
+
+Desde la promulgacion de esta lei, se suspenderá la acuñacion de monedas de plata del peso de nueve (9) gramos, ordenada por la lei número 4,014, de 22 de mayo de 1924.
+
+El Presidente de la República, prévio informe del Directorio del Banco Central de Chile, dictará los reglamentos necesarios para retirar de la circulacion dichas monedas y para acuñar otras nuevas en conformidad a la presente lei.
+
+#### Artículo 12
+
+El Presidente de la República fijará, por una sola vez, el modelo de las monedas de plata, así como el cordoncillo que deberán llevar.
+
+Toda modificacion posterior deberá ser autorizada por la lei.
+
+#### Artículo 13
+
+La tolerancia en las monedas de plata será de cuatro (4) milésimos en la lei, y de tres (3) milésimos en el peso. Para cada pieza de plata la tolerancia será de ciento treinta (130) milésimos de gramo en las monedas de cinco pesos o medio cóndor, en las de dos pesos y en las de un peso, y de cien (100) milésimos de gramo en las monedas de medio peso.
+
+#### Artículo 14
+
+Nadie estará obligado a recibir en pago de obligaciones y en una sola vez mas de cincuenta (50) pesos en moneda de plata acuñada en conformidad con esta lei.
+
+Las monedas cortadas, perforadas, corroidas o deterioradas en cualquiera forma, perderán su carácter de moneda legal.
+
+#### Artículo 15
+
+La Casa de Moneda y el Banco Central de Chile, que para este efecto obrará como ajente de ella, recibirán monedas de plata y níquel cuyo cuño esté desgastado, pero sujetándose a los reglamentos que dictará el Presidente de la República para protejer al Fisco contra los cercenamientos fraudulentos y otros abusos.
+
+Al recibir dichas monedas, la Casa de Moneda y el Banco Central de Chile las cambiarán por monedas nuevas sin costo alguno para el portador.
+
+Las monedas gastadas por el uso serán fundidas y reacuñadas.
+
+#### Artículo 16
+
+La Superintendencia de la Casa de Moneda y Especies Valoradas, entregará al Banco Central de Chile, las monedas de plata o níquel que solicite. El Banco pagará estas monedas por su valor legal, previa deducción de las sumas que hubiere anticipado para la adquisición de metales y gastos de acuñación.
+
+#### Artículo 17
+
+El Fisco, sus dependencias y demas instituciones públicas, los Ferrocarriles y otras empresas fiscales, y el Banco Central de Chile, recibirán en pago de cualesquiera obligaciones, sin limitacion de cantidad, las monedas de plata y níquel de peso legal.
+
+#### Artículo 18
+
+Las monedas de plata y níquel acuñadas en conformidad con las leyes anteriores conservarán curso legal por su valor nominal, pero con sujecion a las mismas condiciones que rijen para las acuñadas en virtud de la presente lei.
+
+#### Artículo 19
+
+Habrá tres tipos de monedas de níquel: una de veinte centavos ($ 0.20), una de diez centavos ($ 0.10) y otra de cinco centavos ($ 0.05). La ley de estas monedas será de setenta y cinco por ciento (75%) de cobre y veinticinco por ciento (25%) de níquel.
+
+La moneda de veinte centavos tendrá el peso de cuatro y medio gramos (4.5 gr.); la de diez centavos, de tres (3) gramos y la de cinco centavos, de dos (2) gramos.
+
+La tolerancia de las monedas de níquel será de tres (3) centésimos en la ley y de cinco (5) milésimos en el peso.
+
+Nadie está obligado a recibir, en pago de obligaciones, y en una sola vez, más de cinco (5) pesos en moneda de níquel.
+
+## Título III
+
+Disposiciones varias
+
+#### Artículo 20
+
+Desde la promulgacion de la presente lei, cesará de ser obligatoria la recepcion de cualquiera moneda estranjera en pago de deudas u otras obligaciones, salvo el caso de contrato celebrado de acuerdo con la lei de 10 de setiembre de 1892 y en que se hubiere estipulado moneda especial.
+
+#### Artículo 21
+
+Todas las obligaciones contraidas en moneda corriente, con anterioridad a la promulgacion de esta lei, serán cumplidas, peso por peso, en cualquiera de las monedas a que da curso legal la presente lei y de acuerdo con sus disposiciones.
+
+#### Artículo 22
+
+Quedan derogadas, desde la promulgacion de ésta, las leyes número 277, de 11 de febrero de 1895;
+
+número 3,527, de 8 de agosto de 1919; y número 4,014, de 22 de mayo de 1924, y las demas disposiciones legales incompatibles con la presente lei. Desde el dia en que el Banco Central de Chile abra oficialmente su oficina, queda derogada la disposicion contenida en la lei número 3,460, de 30 de diciembre de 1918, que prohibe la esportacion de oro.
+
+#### Artículo 23
+
+Derógase el decreto-lei número 528, de 16 de setiembre del presente año.
+
+#### Artículo 24
+
+Esta lei rejirá desde su publicacion en el Diario Oficial.
+
+Tómese razon, comuníquese, publíquese e insértese en el Boletin de las Leyes y Decretos del Gobierno.- Luis Barros Borgoño.- Guillermo Edwards Matte.
