@@ -310,9 +310,9 @@ DE LA PLANIFICACION URBANA Y SUS INSTRUMENTOS
 
 1.3. El Plan Regulador Intercomunal, para efectos de su aprobación y aplicación, estará conformado por los siguientes documentos:
 
-1. Memoria Explicativa, que contenga el análisis y diagnóstico del área en estudio, los objetivos, las metas, fundamentos y demás estudios técnicos necesarios para la formulación de las proposiciones de estructuración y los programas o líneas de acción para orientar, gestionar y regular el desarrollo físico de comunas que conforman el sistema intercomunal.
+1. Memoria Explicativa, que contenga el diagnóstico del área en estudio, debiendo considerar, entre otros aspectos, la capacidad de la infraestructura sanitaria, vial y energética para el crecimiento urbano por extensión y densificación, la suficiencia del sistema de equipamiento urbano y los impactos de localización de actividades productivas. Debe establecer, además, los objetivos, las metas, fundamentos y estudios técnicos necesarios para la formulación de las proposiciones alternativas de estructuración y los programas o líneas de acción para orientar, gestionar y regular el desarrollo físico de las comunas que conforman el sistema intercomunal.
 
-2.Ordenanza, que contenga las disposiciones reglamentarias y específicas del plan, referidas entre otros a las distintas áreas que se determinan y sus respectivos sectores urbanos, de extensión urbana, de desarrollo prioritario, de restricción, de riesgo, con sus usos de suelo, densidades, red vial estructurante, u otras características.
+2. Ordenanza, que contenga las disposiciones reglamentarias del Plan Regulador Intercomunal, referidas entre otras, a las distintas áreas que se determinan, a sus respectivos sectores urbanos, de extensión urbana, de desarrollo prioritario, de restricción, de riesgo, con sus usos de suelo, red vial estructurante, zonificación general, equipamiento, infraestructura, límites de extensión urbana, densidades y otras características.
 
 3. Planos, que expresen gráficamente, entre otros, límites de extensión urbana, zonificación general, áreas de riesgo y de restricción, áreas de desarrollo prioritario, densidades, red vial, infraestructura, áreas verdes y equipamiento.
 
@@ -320,7 +320,17 @@ Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualiz
 
 #### Artículo 2
 
-1.4. El Plan Regulador Intercomunal se aprobará por decreto supremo dictado por «Orden del Presidente de la República». Su estudio, confección, aprobación y modificaciones se efectuarán conforme al procedimiento establecido en los artículos 36 y 37 de la Ley General de Urbanismo y Construcciones y tendrá vigencia a partir de la correspondiente publicación del decreto supremo en el Diario Oficial.
+1.4. El Plan Regulador Intercomunal será confeccionado por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, quienes deberán consultar a las municipalidades correspondientes y a las instituciones fiscales que se estime pertinentes.
+
+Cumplido el trámite de consulta a que se refiere el inciso precedente, y previamente a su envío al Gobierno Regional, la Secretaría Regional Ministerial de Vivienda y Urbanismo remitirá el expediente completo del Plan Regulador Intercomunal a la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo para su revisión e informe técnico favorable, para luego de recibido este informe, enviarlo al Gobierno Regional con todos sus antecedentes.
+
+El Plan Regulador Intercomunal, elaborado en conformidad a la Ley General de Urbanismo y Construcciones, una vez aprobado por acuerdo del Consejo Regional se promulgará mediante resolución del Intendente y entrará en vigencia a partir de la publicación en el Diario Oficial, de la resolución aprobatoria y del texto íntegro de la Ordenanza respectiva.
+
+El plano original del Plan Regulador Intercomunal deberá llevar las firmas del Jefe del Departamento de Desarrollo Urbano e Infraestructura de la Secretaría Regional Ministerial de Vivienda y Urbanismo, del Secretario Regional Ministerial y del Ministro de Fe de dicha Secretaría Regional; del Jefe de la División de Desarrollo Urbano y del Ministro de Fe del Ministerio de Vivienda y Urbanismo.
+
+El plano original del Plan Regulador Intercomunal junto con un ejemplar de la Memoria Explicativa, de la Ordenanza y del Diario Oficial en que se hubiere publicado la Resolución Aprobatoria del Gobierno Regional, será archivado en el Gobierno Regional; una copia oficial de dichos documentos será archivada en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo; otra en la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva y otra en el Conservador de Bienes Raíces correspondiente.
+
+Sólo se considerarán copias auténticas de los planos y de los documentos mencionados en el inciso anterior, las transcripciones debidamente certificadas por el Ministro de Fe del Gobierno Regional.
 
 #### Artículo 2
 
@@ -342,27 +352,25 @@ Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualiz
 
 1.6. El Plan Regulador Comunal, para efectos de su aprobación y aplicación estará conformado por los siguientes documentos:
 
-1. Memoria Explicativa, que contenga el análisis y diagnóstico del territorio comunal, estudio de riesgos, objetivos, metas, fundamentos y todos los antecedentes gráficos, planimétricos y descriptivos, sobre aspectos demográficos, sociales, económicos y demás estudios técnicos que sirvan de base para las proposiciones y las alternativas de estructuración y gestión.
+1. Memoria Explicativa, que contenga el diagnóstico del territorio comunal, estudios de riesgos, objetivos, metas, fundamentos y todos los antecedentes gráficos, planimétricos y descriptivos, sobre aspectos demográficos, sociales, económicos y demás estudios técnicos, tales como, capacidad de la red vial, sistemas de transporte y suficiencia de equipamiento, que sirvan de base para las proposiciones y las alternativas de estructuración y gestión.
 
-2. Estudios de Factibilidad, para ampliar o dotar de agua potable y alcantarillado, en relación con el crecimiento urbano por extensión y/o densificación proyectado, estudios que requerirán consulta previa a las entidades regionales o locales competentes.
+2. Estudios de Factibilidad, para ampliar o dotar de agua potable y alcantarillado de aguas servidas y aguas lluvias cuando corresponda, en relación con el crecimiento urbano por extensión y/o densificación proyectado, estudios que requerirán consulta previa a las entidades regionales o locales competentes.
 
-3. Ordenanza Local, que fijará con precisión, entre otras normas, el límite urbano, vialidad, usos de suelo permitidos, restringidos y prohibidos, densidades máximas y mínimas, coeficientes de constructibilidad, coeficientes de ocupación del suelo, rasantes y distanciamientos, alturas de edificación máximas y minimas, tamaños prediales, normas sobre equipamiento, para todo el área territorial sometida a planificación.
+3. Ordenanza Local, que fijará con precisión, entre otras normas, los límites urbanos de sus centros poblados, vialidad, usos de suelo permitidos, restringidos y prohibidos, densidades máximas y mínimas, coeficientes de constructibilidad, coeficiente de ocupación del suelo, rasantes y distanciamientos, alturas de edificación máximas y mínimas cuando corresponda, tamaños prediales, tipos de agrupamiento, disposiciones para los conjuntos armónicos, normas sobre equipamiento, para todas las áreas urbanas o sistema urbano comunal sometido a planificación.
 
 4. Planos, que expresen gráficamente, entre otros, límite urbano, áreas de extensión urbana con sus prioridades, áreas de riesgo y de restricción, zonificación, usos de suelo, densidades, red vial estructurante, áreas verdes y equipamiento. Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualizada, a escala 1:50.000, 1:20.000, 1:10.000 ó a escalas adecuadas a las respectivas temáticas, según lo determine la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
 
 #### Artículo 2
 
-1.7. El Plan Regulador Comunal será confeccionado, modificado y actualizado por la Municipalidad respectiva conforme al procedimiento previsto en el artículo 43 de la Ley General de Urbanismo y Construcciones.
+1.7. El Plan Regulador Comunal será confeccionado, modificado y actualizado por la Municipalidad respectiva, de acuerdo con la Ley General de Urbanismo y Construcciones, debiendo comunicarse, a través de dos publicaciones efectuadas en algún diario de los de mayor circulación en la comuna, en semanas distintas, el lugar y el plazo en que será expuesto para conocimiento del público, el proyecto del Plan Regulador Comunal. Esta exposición deberá mantenerse a lo menos durante los 30 días siguientes a la fecha de la segunda publicación.
 
-La Municipalidad deberá comunicar, a través de dos publicaciones efectuadas en algún diario de los de mayor circulación en la comuna, en semanas distintas, el lugar y el plazo en que se expondrá para, conocimiento del público, el proyecto del Plan Regulador Comunal. Esta exposición se mantendrá a lo menos durante los 30 días siguientes a la fecha de la segunda publicación.
+Los interesados podrán formular observaciones al proyecto del Plan Regulador Comunal, dentro del plazo previsto en la Ley General de Urbanismo y Construcciones, las que deberán ser fundadas y presentarse por escrito al Municipio. Estas observaciones deberán ser oportunamente puestas en conocimiento del Concejo respectivo, al someterse a su aprobación el citado proyecto. Lo resuelto por el Concejo respecto de las observaciones formuladas por los interesados, será informado a éstos por el Director de Obras Municipales.
 
-Los interesados podrán formular observaciones al proyecto del Plan Regulador Comunal, dentro del plazo previsto en la Ley General de Urbanismo y Construcciones, las que deberán ser fundadas y presentarse por escrito. Estas observaciones deberán ser oportunamente puestas en conocimiento del Consejo de Desarrollo Comunal respectivo, al someterse a su aprobación el citado proyecto.
+El documento en que conste la aprobación municipal, con todos los antecedentes técnicos que componen el Plan Regulador Comunal, suscritos por el Director de Obras Municipales, con las publicaciones de prensa correspondientes, con las reclamaciones que hubiesen formulado los interesados y lo resuelto al respecto por el Concejo, serán remitidos a la Secretaría Regional Ministerial de Vivienda y Urbanismo para su revisión e informe técnico.
 
-El documento en que conste la aprobación municipal, con todos los antecedentes técnicos que componen el Plan Regulador Comunal, suscritos por el Director de Obras Municipales, con las publicaciones de prensa correspondientes, con las reclamaciones que hubiesen formulado los interesados y lo resuelto al respecto por el Concejo, serán remitidos a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, para su aprobación. Lo resuelto por el Concejo respecto de las observaciones formuladas por los interesados, será informado a éstos por el Director de Obras Municipales.
+Emitido el informe a que alude el inciso anterior, el Plan Regulador Comunal con todos los antecedentes que lo componen y conforman el expediente, será remitido por la Secretaría Regional Ministerial de Vivienda y Urbanismo al Gobierno Regional. El Plan Regulador Comunal será aprobado por acuerdo del Consejo Regional y promulgado por el Intendente respectivo. Si el informe técnico de la Secretaría Regional Ministerial de Vivienda y Urbanismo fuere desfavorable, el acuerdo del Consejo Regional deberá ser fundado.
 
-Corresponderá a las Unidades de Desarrollo Urbano e Infraestructura de las Secretarias Regionales Ministeriales de Vivienda y Urbanismo, pronunciarse técnicamente sobre el proyecto del Plan Regulador Comunal sometido a la aprobación de la Secretaría Regional Ministerial respectiva.
-
-La Municipalidad deberá publicar en el Diario Oficial el texto íntegro de la resolución que dicte la Secretaría Regional Ministerial correspondiente y de la Ordenanza Local pertinente, además de un extracto de ambos documentos en algún diario de mayor circulación de la comuna.
+La Municipalidad deberá publicar en el Diario Oficial el texto íntegro de la resolución que dicte el Intendente y de la Ordenanza Local pertinente, además de un extracto de ambos documentos en algún diario de mayor circulación de la comuna.
 
 #### Artículo 2
 
@@ -398,7 +406,7 @@ Las modificaciones que alteren los márgenes en cada condición de edificación 
 
 1. Memoria Explicativa, que contenga los elementos técnicos necesarios para fundamentar su proposición.
 
-2. Estudio de Factibilidad, de dotación de agua potable y alcantarillado, en función de la población actual y futura del área en estudio, que requerirá consulta previa a las entidades regionales o locales competentes en cargadas del servicio.
+2. Estudio de Factibilidad, de dotación de agua potable y alcantarillado de aguas servidas y aguas lluvias cuando corresponda, en función de la población actual y futura del área en estudio, que requerirá consulta previa a las entidades regionales o locales competentes en cargadas del servicio.
 
 3. Ordenanza, que contenga las disposiciones reglamentarias pertinentes.
 
@@ -426,13 +434,13 @@ Los planos que conformen el Plan Seccional se elaborarán sobre base áerofotogr
 
 #### Artículo 2
 
-1.13. Los Límites Urbanos, los Planes Seccionales y los Planes Reguladores Comunales y sus modificaciones sólo tendrán vigencia a partir de la publicación en el Diario Oficial de la resolución aprobatoria del Secretario Regional Ministerial de Vivienda y Urbanismo y de la Ordenanza Local correspondiente.
+1.13. Los Planes Reguladores Comunales, los Planes Seccionales, los Límites Urbanos, y sus modificaciones, sólo tendrán vigencia a partir de la publicación en el Diario Oficial de la resolución aprobatoria y de la Ordenanza Local correspondiente.
 
-Los planos de estos instrumentos de planificación se extenderán en cuatro ejemplares oficiales, los que deberán llevar la firma del Jefe del Departamento de Desarrollo Urbano e Infraestructura y la del Ministro de Fe de la Secretaría Regional Ministerial de Vivienda y Urbanismo correspondiente, además de la firma del Director de Obras Municipales.
+Los planos originales de cada uno de estos instrumentos de planificación territorial deberán llevar la firma del Director de Obras Municipales, del Alcalde, y del Secretario Municipal respectivo; del Jefe del Departamento de Desarrollo Urbano e Infraestructura de la Secretaría Regional Ministerial de Vivienda y Urbanismo, del Secretario Regional Ministerial y del Ministro de Fe de dicha Secretaría Regional.
 
-Sólo tendrán carácter oficial aquellos ejemplares en los cuales consten las firmas originales de los funcionarios antes mencionados.
+Los planos originales, junto con un ejemplar de la Memoria Explicativa, del Estudio de Factibilidad y de la Ordenanza, cuando corresponda, y del Diario Oficial en que se hubiere publicado la resolución aprobatoria del Gobierno Regional, serán archivados en el Gobierno Regional; una copia oficial de dichos documentos será archivada en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, otra en la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, otra en la Dirección de Obras Municipales correspondiente y otra en el Conservador de Bienes Raíces respectivo.
 
-Uno de los cuatro ejemplares oficiales a que se refiere el inciso anterior se archivará en el Conservador de Bienes Raíces respectivo. Los otros tres ejemplares del plano oficial, junto con un ejemplar de la Memoria Explicativa, del Estudio de Factibilidad y del Diario Oficial en que se hubieren publicado la resolución aprobatoria del Secretario Regional Ministerial y el texto de la Ordenanza Local, se archivarán, uno en la correspondiente Secretaría Regional Ministerial de Vivienda y Urbanismo, uno en la Dirección de Obras Municipales respectiva y uno en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo. Sin perjuicio de lo anterior, estos Servicios deberán disponer de ejemplares transparentes de los planos para su posterior reproducción. Sólo se considerarán copias auténticas de los planos y demás documentos antes mencionados, las transcripciones debidamente certificadas por el Ministro de Fe de la respectiva Institución.
+Sólo se considerarán copias auténticas de los planos y demás documentos mencionados en el inciso anterior, las transcripciones debidamente certificadas por el Ministro de Fe del Gobierno Regional.
 
 #### Artículo 2
 
@@ -1248,7 +1256,7 @@ Las modificaciones que se introduzcan a los Planes Reguladores Comunales o Secci
 
 9. Plano general del loteo, plano de ubicación y plano de perfiles geométricos de las vías propuestas, conforme a las mismas exigencias establecidas para el anteproyecto.
 
-10. Planos con los proyectos de la urbanización, debidamente firmados por los profesionales competentes, correspondientes a redes de agua potable y alcantarillado; redes de electrificación, alumbrado público, de gas, de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda. Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
+10. Planos con los proyectos de la urbanización, debidamente firmados por los profesionales competentes, correspondientes a redes de agua potable y alcantarillado de aguas servidas y aguas lluvias cuando corresponda; redes de electrificación, alumbrado público, de gas, de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda. Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
 Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
@@ -1270,7 +1278,7 @@ El Director de Obras Municipales al exigir el informe mencionado en el número 7
 
 6. plano de anteproyecto de la edificación o ampliación, cuando corresponda, debidamente aprobado por el Director de Obras Municipales.
 
-7. Planos con los proyectos de reforzamiento de la urbanización existente, debidamente firmados por los profesionales competentes, correspondientes a redes de agua potable y alcantarillado, redes de electrificación, alumbrado público, y de gas; redes de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda.
+7. Planos con los proyectos de reforzamiento de la urbanización existente, debidamente firmados por los profesionales competentes, correspondientes a redes de agua potable y alcantarillado de aguas servidas y aguas lluvias cuando corresponda, redes de electrificación, alumbrado público, y de gas; redes de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda.
 
 Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
@@ -1292,7 +1300,7 @@ Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
 7. Plano general a escala no menor de 1:1.000 con trazado de la nueva vía y sus dimensiones, con curvas de nivel cada 1 m; longitudes máximas con respecto a las vías públicas más próximas; perfiles geométricos debidamente acotados; cuadro con superficies afectadas de cada predio.
 
-8. Planos con los proyectos definitivos de urbanización, debidamente firmados por los profesionales competentes, correspondientes a las redes de agua potable y alcantarillado; redes de electrificación, alumbrado público y de gas; redes de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda.
+8. Planos con los proyectos definitivos de urbanización, debidamente firmados por los profesionales competentes, correspondientes a las redes de agua potable y alcantarillado de aguas servidas y aguas lluvias cuando corresponda; redes de electrificación, alumbrado público y de gas; redes de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda.
 
 Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
@@ -1326,11 +1334,11 @@ DE LA EJECUCION DE LAS OBRAS
 
 2.1. Las obras de urbanización, deberán ajustarse estrictamente a los planos, especificaciones técnicas y demás antecedentes aprobados tanto por los servicios, empresas u organismos técnicos competentes como por la Dirección de Obras Municipales respectiva.
 
-De las obras de agua potable y aguas servidas.
+De las obras de agua potable, aguas servidas y aguas lluvias.
 
 #### Artículo 3
 
-2.2. Todo proyecto relacionado con la construcción, reparación, modificación y ampliación de cualquier obra pública o particular, destinada a la provisión o purificación de agua potable para el consumo humano, quedará sometido a lo dispuesto en el Código Sanitario y sus reglamentos. Así también, la explotación de los servicios públicos sanitarios que se vinculan con la producción y distribución de agua potable o con la recolección y disposición de aguas servidas, quedarán sometidas a lo dispuesto en la Ley General de Servicios Sanitarios y normas sobre la materia que dicte la Superintendencia de Servicios Sanitarios.
+2.2. Todo proyecto relacionado con la construcción, reparación, modificación y ampliación de cualquier obra pública o particular, destinada a la provisión o purificación de agua potable para el consumo humano, quedará sometido a lo dispuesto en el Código Sanitario y sus reglamentos. Así también, la explotación de los servicios públicos sanitarios que se vinculan con la producción y distribución de agua potable o con la recolección y disposición de aguas servidas y aguas lluvias, quedarán sometidas a lo dispuesto en la Ley General de Servicios Sanitarios y normas sobre la materia que dicte la Superintendencia de Servicios Sanitarios.
 
 Todas las redes y sus correspondientes obras complementarias vinculadas a cualquier proyecto de urbanización de un terreno, serán de cargo del urbanizador y se ejecutarán en conformidad a las normas y especificaciones técnicas sobre diseño y construcción de este tipo de obras, aprobadas por el Ministerio de Obras Públicas a proposición de la Superintendencia de Servicios Sanitarios, en virtud de lo previsto en la Ley General de Servicios Sanitarios, sin perjuicio del cumplimiento de las normas que sobre la misma materia, se deriven de la aplicación del Código de Aguas y del Código Sanitario.
 
@@ -1498,7 +1506,7 @@ DE LA RECEPCION DE LAS OBRAS, Y SUS TRANSFERENCIAS E INSCRIPCIONES
 
 2. Certificado de ejecución de la pavimentación y sus obras complementarias, emitido por el Servicio Regional de Vivienda y Urbanización (SERVIU) o por el Departamento de Pavimentación de la Municipalidad de Santiago, según corresponda.
 
-3. Certificado de ejecución de las redes y obras complementarias de agua potable y alcantarillado, emitido por la Empresa de Servicios Sanitarios regional que corresponda.
+3. Certificado de ejecución de las redes y obras complementarias de agua potable y alcantarillado de aguas servidas y aguas lluvias cuando corresponda, emitido por la respectiva Empresa de Servicios Sanitarios.
 
 4. Certificado de ejecución de las redes y obras complementarias de electrificación y alumbrado público, emitido por la empresa concesionaria de servicio público de distribución de energía eléctrica que corresponda.
 
@@ -3526,19 +3534,25 @@ No se autorizarán construcciones de ningún tipo debajo de las líneas de alta 
 
 #### Artículo 5
 
-1.11. la aplicación del coeficiente de constructibilidad determina la superficie máxima posible de construir, incluidos en ella todos los recintos de cualquier edificio, vivienda, oficina, local, entre otros, y será el resultado de sumar las siguientes superficies parciales:
+1.11. La aplicación del coeficiente de constructibilidad determina la superficie máxima posible de construir, considerando en ella todos los recintos, incluso los estacionamientos, bodegas y otros de instalaciones, interiores, ubicados en los pisos subterráneo, zócalo, entrepisos, pisos, altillos, azotea, entre otros, dentro de cualquier edificio y será el resultado de sumar las siguientes superficies parciales:
 
 1. El 100% de la superficie interior cubierta y lateralmente cerrada en forma total, medida en obra gruesa por el perímetro exterior de la edificación.
 
-En el caso de edificaciones pareadas o continuas, acogidas o no a la Ley de Propiedad Horizontal, se medirá por el eje de los muros medianeros, inclusive los que deslindan con los espacios comunes.
+En el caso de edificaciones pareadas o continuas, acogidas o no a la Ley de Propiedad Horizontal, se medirá la superficie por el eje de los muros medianeros, inclusive los que deslindan con los espacios comunes.
 
-En el caso de muros inclinados, la superficie será el área cerrada por una altura de 1,60 m, medida en forma perpendicular al respectivo piso terminado. En el caso de escaleras, se descontará la superficie correspondiente a la escotilla por una sola vez.
+En el caso de muros inclinados, la superficie será el área cerrada por una altura de 1,60 m., medida en forma perpendicular al respectivo piso terminado.
 
-2. El 50% de la superficie cubierta y lateralmente abierta por 1 lado; o abierta por 2 lados convergentes a un pilar; o lateralmente abierta por 2 o más lados con uno o más pilares.
+En el caso de las ventanas salientes, se computará la superficie horizontal de ellas, si la altura libre interior es igual o superior a 1,60 m.
+
+En el caso de escaleras, cajas de ascensores, ductos, se contará la superficie correspondiente a la escotilla por una sola vez en todo el edificio.
+
+2. El 50% de la superficie cubierta y lateralmente abierta por 1 lado; o abierta por 2 lados convergentes a un pilar; o lateralmente abierta por 2 o más lados con uno o más pilares; o abierta por 2 lados que se enfrentan.
 
 3. El 100% de la parte que proporcionalmente corresponde al respectivo departamento, oficina o local de un edificio, en el prorrateo de la superficie edificada que es bien común, según el artículo 111 de la Ley General de Urbanismo y Construcciones.
 
-No se computará la superficie cubierta y lateralmente abierta por 2 o más lados contiguos y sin ningún pilar en esta superficie ni en el perímetro de los lados abiertos; o descubierta en más de un 50% de la superficie y lateralmente abierta por uno o más lados.
+No se computará la superficie cubierta y lateralmente abierta por 2 o más lados contiguos y sin ningún pilar en esta superficie ni el perímetro de los lados abiertos; o descubierta en más de un 50% de la superficie y lateralmente abierta por uno o más lados.
+
+El coeficiente de constructibilidad fijado en el instrumento de planificación territorial podrá aumentarse hasta en un 70% o hasta un porcentaje inferior que determine expresamente el instrumento de planificación territorial, para ser destinado exclusivamente a la superficie a construir bajo el nivel del suelo natural.
 
 #### Artículo 5
 
