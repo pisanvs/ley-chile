@@ -1,0 +1,5 @@
+Por Resolución N° 480, de 17 de Mayo de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, téngase por cumplida la condición establecida en el numeral 6° de las Resoluciones N° 167, N° 192, N° 193, N° 194 y N° 195, todas de 1992, de esta Subsecretaría, atendido el hecho de haberse verificado por el Servicio Nacional de Pesca, que la empresa TRIPESCA S.A., R.U.T. N° 96.653.590-3, ha dado cumplimiento dentro del plazo legal a lo dispuesto en el artículo 3° transitorio, incisos 3° y 4° del D.S.
+
+N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por cuanto ha completado la instalación de la capacidad de reducción, en la planta ubicada en San Antonio, autorizada por Resoluciones N° 238, de 1988 y N° 704, de 1989, ambas de esta Subsecretaría, ascendente a 75 toneladas de materia prima por hora.
+
+Valparaíso, 17 de Mayo de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
