@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución 474, 9 diciembre 1996, SERVIU Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Los Carrera Nº 1236, Rol de Avalúo Nº 342-36 al 49, comuna Concepción, superficie 100 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-11029-342-36 al 49; de aparente dominio de Juan Albornoz Castillo y otros, para ejecución programa "Mejoramiento Eje Vial Los Carrera de Concepción", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 6 de agosto de 1996, fijó monto provisional indemnización en $11.440.500.-, pagadera de contado.-
+
+Director SERVIU Región del Bío Bío.
