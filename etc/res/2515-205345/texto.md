@@ -1,0 +1,3 @@
+Por resolución Nº2.515, de 7 de noviembre de 2002, de esta Subsecretaría, autorízase a EXPORTADORA DE ALGAS SUDAMERICANA LIMITADA para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Sitio N, Sector La Chimba, Antofagasta, II Región, donde podrá procesar en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Alga Seca: Chascón, Huiro Lessonia trabeculata, Huiro Macrocystis spp.
+
+Valparaíso, 7 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
