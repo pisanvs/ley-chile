@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 257, de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nºs 610, 611, 612 y 617, superficie 122, 172, 99 y 375 m2, respectivamente, Rol Nº 32-405, comuna de Pichidegua, VI Región, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, Tramo 1, Km. 0,00000 a Km. 12,70000" y se acordó el valor de indemnización con su propietaria Cecilia del Carmen Peña Castro, ascendente a la cantidad de $5.432.606.-
+
+Fiscal del Ministerio de Obras Públicas.
