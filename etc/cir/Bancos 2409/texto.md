@@ -6438,7 +6438,7 @@ CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 
 010 BANCO OSORNO Y LA UNION
 
-011 BANCO CREDIT LYONNAIS-CHILE
+011 DRESDNER BANQUE NATIONALE DE PARIS
 
 012 BANCO DEL ESTADO DE CHILE
 
@@ -6470,7 +6470,7 @@ CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 
 037 BANCO SANTANDER-CHILE
 
-038 BANCO EXTERIOR S.A.
+038 BANCO EXTERIOR (CHILE)
 
 039 THE FIRST NATIONAL BANK OF BOSTON
 
@@ -12174,31 +12174,9 @@ En los préstamos destinados a la adquisición o construcción de viviendas cuyo
 
 3.- Garantía hipotecaria.
 
-La hipoteca a favor de la entidad financiera, que garantice estos créditos,
+La hipoteca a favor de la entidad financiera, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda del 75% del valor de tasación del inmueble o del 75% del precio de venta del inmueble, según corresponda.
 
-deberá ser de primer grado y exclusivamente para caucionar una obligación
-
-determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en
-
-segundo grado, siempre que la obligación caucionada por la primera hipoteca
-
-sumada al crédito amparado por la segunda hipoteca, no exceda del 75% del valor
-
-de tasación del inmueble o del 75% del precio de venta del inmueble, según
-
-corresponda.
-
-Además, la segunda hipoteca será admisible solamente cuando la primera se
-
-hubiere constituido e inscrito con anterioridad a la fecha de otorgamiento del
-
-préstamo hipotecario no pudiendo hacerlo en forma coetánea. Sin embargo, si dos
-
-instituciones financieras participan simultáneamente en el otorgamiento de un
-
-crédito de esta especie podrán, de común acuerdo, fijar el orden de precedencia
-
-en cuanto a la garantía hipotecaria de primer y segundo grado.
+Si dos instituciones financieras participan simultáneamente en el otorgamiento de un crédito de esta especie podrán, de común acuerdo, fijar el orden de precedencia en cuanto a la garantía hipotecaria de primer y segundo grado.
 
 4.- Tasación de la garantía.
 
