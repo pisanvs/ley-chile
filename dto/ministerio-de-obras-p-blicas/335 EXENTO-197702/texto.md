@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº335 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº13, superficie 3.783 m², Rol de Avalúo Nº213-83, comuna de Teodoro Schmidt, para la obra "Camino S-60 Sector: Teodoro Schmidt - Hualpín, Km. 43,94000 al Km. 59,10294, Tramo I Km. 44,84000 al Km. 53,08000", IX Región y se acordó el valor de indemnización con su propietario Jorge Sergio Bulnes Caniu, ascendente a la cantidad de $1.931.231.-
+
+Fiscal del Ministerio de Obras Públicas.
