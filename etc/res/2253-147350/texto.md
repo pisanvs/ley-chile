@@ -1,0 +1,3 @@
+Por resolución Nº 2.253, de 29 de octubre de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 254 de 1990, de esta Subsecretaría, que autorizó a la SOCIEDAD MAGUILLINES LIMITADA, para operar la nave ''Heracles'', matrícula 560 de Constitución, en virtud de lo señalado en el artículo 143 letra b), del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por no haber operado la mencionada nave, por más de doce meses en las pesquerías autorizadas.
+
+Valparaíso, 29 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
