@@ -1,0 +1,5 @@
+SUBSECRETARIA DE PESCA AUTORIZA A PESQUERA SOPESA ALIMAR S.A. PARA SUSTITUIR EMBARCACIONES Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 740 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Sopesa Alimar S.A., domiciliada en Santiago, para sustituir las embarcaciones "Llo Lleo" y "Arteta", autorizadas por resolución No. 671, de 1986, por la nave "Vichuquén", que operará en el litoral de las regiones V a VIII, en la extracción de los recursos jurel, sardina común, sardina española, caballa y anchoveta. Se deroga la resolución No. 671, de 1986, de esta Subsecretaría, que autorizó a la solicitante para operar las naves sustituidas por la embarcación que se autoriza en esta resolución.
+
+Valparaíso, 17 de Julio de 1987.- Roberto Cabezas Bello Subsecretario de Pesca.
