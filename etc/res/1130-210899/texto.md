@@ -1,0 +1,3 @@
+Por resolución Nº1.130 de 30 de mayo de 2003, de esta Subsecretaría, declárase la caducidad de la resolución Nº257 de 1989, de esta Subsecretaría, que autorizó a PESQUERA AMANECER DE IQUIQUE S.A. para operar la nave en construcción "Spica", en virtud de lo dispuesto en los artículos 7º del D.S. Nº175 de 1980, del Ministerio de Economía, Fomento y Reconstrucción y 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 30 de mayo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
