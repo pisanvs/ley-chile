@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.565 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 11, superficie 5.274 m²., rol de avalúo 513-102, comuna de Talagante, para la obra ''Camino Autopista Santiago-San Antonio, Tramo: Talagante-El Paico, Segmento 3, Sector 5-0, Lado Derecho Km. 38,64000 a Km. 43,56000'' y se acordó el valor de indemnización con su propietario Aurelio Olegario Montes Baseden y Juan Achurra Larraín, ascendente a la cantidad de $38.887.833.-
+
+Fiscal del Ministerio de Obras Públicas.
