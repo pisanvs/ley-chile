@@ -340,11 +340,17 @@ Los prácticos en general deberán ajustar sus procedimientos a lo que dispone e
 
 #### Artículo 68
 
-Se prohibe estrictamente pilotear buques a toda persona que no sea práctico oficial. El infractor, al igual que el capitán de la nave conducida serán sancionados con multas y se les responsabilizará por los daños que causaren, sin perjuicio de lo dispuesto en el artículo 64 del Reglamento antes citado.
+a.- Se prohibe pilotear naves a aquellas personas que no sean Prácticos Oficiales o Autorizados. El infractor, al igual que el Capitán de la nave conducida, serán sancionados con multas de $ 1.000 a $ 100.000 y se les responsabilizará por los daños que causaren, sin perjuicio de aplicarles lo dispuesto en el Reglamento de Practicaje y Pilotaje para la República.
+
+b.- La nave que navegue sin hacer uso de Práctico en aquellas aguas en que este servicio es obligatorio, no podrá ser recibida por las autoridades competentes, en ningún puerto de la República. Esta prohibición se hará extensiva a todas las naves del mismo Armador que el de la nave infractora.
+
+c.- Esta prohibición se aplicará con el solo mérito de la comunicación hecha por cualquier Autoridad Naval o Marítima de haberse cometido la infracción.
+
+d.- El Director del Litoral y de Marina Mercante podrá con conocimiento de causa, alzar la prohibición. Sin embargo, no podrá el Director ejercer esta facultad respecto de los reincidentes o de los que no hayan pagado las multas o tarifas.
 
 #### Artículo 69
 
-Cuando por razón de excesivo movimiento de naves por falta momentánea de prácticos oficiales, las circunstancias lo aconsejaren, la Dirección del Litoral y de Marina Mercante podrá otorgar permisos de prácticos particulares, los que, ajustándose en todo el Reglamento respectivo, se desempeñarán en reemplazo de los primeros.
+Cuando por razón de excesivo movimiento de naves por falta momentánea de prácticos oficiales, las circunstancias lo aconsejaren, la Dirección del Litoral y de Marina Mercante podrá otorgar permisos de prácticos Autorizados, los que, ajustándose en todo el Reglamento respectivo, se desempeñarán en reemplazo de los primeros.
 
 ## Capítulo VI
 
