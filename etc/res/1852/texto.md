@@ -1,0 +1,3 @@
+Por Resolución N° 1.852, de 30 de octubre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; cadúcase la Resolución N° 439, de 1994, de esta Subsecretaría, que autorizó a ARTE AMERICA S.A., para realizar faenas de captura con fines de exhibición e intercambio, de 10 ejemplares de la especie Lobo marino común, conforme lo dispuesto en el numeral 9° de la Resolución señalada precedentemente.
+
+Valparaíso, 30 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
