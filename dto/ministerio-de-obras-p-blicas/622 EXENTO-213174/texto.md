@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 622 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 6, superficie 1.263 m², rol de avalúo Nº 242-113, comuna de Chanco, VII Región, para la obra "Camino Ruta M-500, Sector Cauquenes - Chanco por Molco, Tramo Km. 41,460 a Km. 51,560" y se acordó el valor de indemnización con su propietario Marcelo Eugenio Hurtado Reszczynski, ascendente a la cantidad de $1.528.155.-
+
+Fiscal del Ministerio de Obras Públicas.
