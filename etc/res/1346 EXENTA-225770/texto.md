@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.346, de 11 de mayo de 2004 de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A., para ampliar actividades pesqueras extractivas con la nave "Bucanero I", en las áreas marítimas que en cada caso se indican, donde podrá capturar el recurso hidrobiológico que a continuación se señala: a) en el área marítima comprendida entre la VII a X Regiones, por fuera del área de reserva artesanal, con cerco: Jibia; b) En el área marítima comprendida entre la VII a X Regiones, con arrastre de media agua, por fuera de las 60 millas náuticas: Jibia.
+
+Valparaíso, 11 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
