@@ -1,0 +1,3 @@
+Por Resolución N° 1.978, de 28 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1 y 2 de la Resolución N° 1.382 de 1996, de esta Subsecretaría, que autorizó a ALIMENTOS MARINOS S.A., para sustituir varias embarcaciones, en el sentido de señalar que la nave reemplazante autorizada se denomina "Alcones" y no como allí se indica.
+
+Valparaíso, 28 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
