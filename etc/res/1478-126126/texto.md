@@ -1,0 +1,3 @@
+Por resolución Nº1.478, de 9 de octubre de 1998, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura, solicitud Nº95103228, presentada por CHARLES EDWARD BARTER ORAMS, para la concesión de acuicultura ubicada en Paso Imelev, sector oeste de Isla Alao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 9 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
