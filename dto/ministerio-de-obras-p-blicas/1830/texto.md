@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.830, de 30 de septiembre de 1998, se expropió el lote de terreno No. 75, superficie 61.353 m², rol de avalúo 506-35, comuna de Los Andes, para la obra Camino Santiago - Colina - Los Andes, Sector "G" By Pass Los Andes, y se acordó el valor de indemnización con su propietaria Cía. Minera Disputada de Las Condes, ascendente a la cantidad de $71.827.727.-
+
+Fiscal del Ministerio de Obras Públicas.
