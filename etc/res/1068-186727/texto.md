@@ -1,0 +1,11 @@
+Por resolución Nº 1.068 de 31 de mayo de 2001 de esta Subsecretaría, autorízase a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la pesca del pez espada (Xiphias gladius) realizada por la flota artesanal de la III y IV Región", elaborados por dicha Universidad y aprobados por esta Subsecretaría de Pesca, los cuales se consideran parte integrante de la presente resolución.
+
+El objetivo general de la pesca de investigación que por la presente resolución se autoriza consiste en caracterizar la operación pesquera sobre el pez espada realizada por la flota artesanal de la III y IV Región.
+
+La pesca de investigación se efectuará en el área marítima establecida mediante resolución Nº 134 de 1992, de esta Subsecretaría y las aguas adyacentes, por el término de seis meses contados desde la fecha de la presente resolución.
+
+La pesca de investigación se realizará con las embarcaciones artesanales que a continuación se indican: Carla Andrea, Orca II, Rocío II, Santa Clara, Pipo, Elena Isabel, Conconina, Jacqueline, Claudia Victoria, Centurión, Cinthia y Verónica, Mamita Delia, Bárbara Salomé, Chan Chan, Maranatha, Santa Carmen, Chitarra II, Brenda Soledad, Don Ernesto, Víctor Henry, Bahía II, Milenko, El Aguila, Juan III, Abuelita Fresia, Santa María, Javiera Carolina, Kassandra, Corvina I, Celia Rosa, Yofrani, Eben Ezer I, Juan Antonio, Marisol II, Juan Carlos, Metula, Mavialig Andacollo, De Huasco Soy, María Soledad.
+
+La Universidad Católica del Norte designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Vicerrector de la Sede Coquimbo de dicha Casa de Estudios, don Mario Edding Villablanca, RUT Nº 4.764.907-2, domiciliado en Larrondo Nº 1281, Coquimbo.
+
+Valparaíso, 31 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
