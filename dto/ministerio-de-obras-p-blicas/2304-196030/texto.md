@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.304, de 31 de diciembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº107-C, para la obra Camino Fresia Parga- Llico-Las Cañitas, Rol V-46, Kms. 14.835 al 48.580, que figura a nombre de Wittwer Niklitschek Malys Efigenia, rol de avalúo 260-15, superficie 1620 m², comuna de Fresia. La Comisión de Peritos, con fecha 28 de abril de 2000, fijó la indemnización provisional en la cantidad de $6.856.400, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
