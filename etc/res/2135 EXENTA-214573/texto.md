@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.135 de 1 de septiembre de 2003 de esta Subsecretaría, autorízase a la PESQUERA YELCHO S.A., para realizar operaciones pesqueras a contar del 1 de enero y hasta el 31 de diciembre del año 2003, ambas fechas inclusive, con los barcos fábrica denominados "Gualas" y "Saint Pierre", en aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 44°30'L.S., respecto de las áreas y recursos y con las obligaciones establecidas en sus respectivas autorizaciones.
+
+Déjase sin efecto parcialmente la resolución Nº 3.077 de 2002, de esta Subsecretaría, sólo en cuanto autorizó a Pesquera Yelcho S.A. a operar la nave "Saint Pierre" en aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 44°30'L.S., respecto de las áreas y recursos y con las obligaciones establecidas en sus respectivas autorizaciones, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 1 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
