@@ -1,0 +1,3 @@
+Por resolución Nº 1.030, de 20 de mayo de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111244, presentada por INVERSIONES CONCOTO LIMITADA, para instalar y operar un centro de cultivo ubicado en Sector sureste Isla Concoto, Canal Pérez Norte, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 20 de mayo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
