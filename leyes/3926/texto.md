@@ -1,0 +1,1 @@
+Lei núm. 3,926, que crea una Caja de Ausilios para contribuir a la reedificacion de las propiedades privadas destruidas por el terremoto de Noviembre de 1922, en las provincias de Atacama i Coquimbo.
