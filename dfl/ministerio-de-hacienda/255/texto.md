@@ -1,0 +1,1 @@
+Concede franquicias tributarias y aduaneras a las empresas productoras de carbón mineral que tengan en ejecución o ejecuten en el futuro planes de mecanización, desarrollo y modernización de la explotación carbonífera, en las condiciones que expresa.
