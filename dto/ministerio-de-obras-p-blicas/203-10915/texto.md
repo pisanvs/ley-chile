@@ -1,0 +1,3 @@
+Por Decretro M.O.P. N° 203, de 28 de abril de 1995, se expropiaron los lotes de terrenos N°s. 7, 15 y 38, superficies 6.749 m2., 5.200 m2. y 1.212 m2., roles de avalúo 9049-13, 9049-29 y 11100-7, comuna de San Antonio, para la obra Camino Autopista Santiago-San Antonio, sector Leyda-Agua Buena, y se acordó el valor de indemnización con sus propietarios Juan Ignacio Ponce Bravo y Germán Augusto Bañados Carrascos, ascendente a las cantidades de $2.490.524.-; $17.063.640.- y $11.166.815.-, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
