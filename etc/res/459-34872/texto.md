@@ -1,0 +1,3 @@
+Por Resolución N° 459, de 27 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase hasta el día 30 de Abril de 1996, el plazo de vigencia de la Resolución N° 904, de 1992, de esta Subsecretaría, que autorizó a PESQUERA IQUIQUE-GUANAYE S.A., R.U.T. N° 91.123.000-3, para desarrollar actividades pesqueras extractivas con la nave "Eperva 53", por haberse acreditado la existencia de una fuerza mayor.
+
+Valparaíso, 27 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
