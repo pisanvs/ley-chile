@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 177 de 18 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Reserva y Sector expropiado predio "Resto de la Hijuela Uno del Fundo Santa Amelia de Almahue" de la comuna de Pichidegua, Sexta Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s 5, parte de la 6, 7 a la 17 y parte de la 45 y sitios N°s 2 al 13 y parte del 30, del proyecto de parcelación "Almahue" formado entre otros por predio señalado. Los derechos de agua se extraen del Canal Almahue. Publicación hecha conforme Art. 13, Ley N° 18.377.-
+
+Director Ejecutivo.
