@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº826 de 18 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº10-A, para la ejecución de la obra "Camino Ruta S-20, Sector Temuco - Cholchol, Tramo Km. 3,500.00 a Km. 25,016.09", que figura a nombre de Rosario Epul Colillan, Rol de Avalúo Nº3252-483, comuna de Temuco, IX Región, superficie 476 m². La Comisión de Peritos fijó con fecha 10 de agosto de 1999, el valor provisional de la indemnización en la cantidad de $428.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
