@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 372 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 34, superficie 3.292 m2, rol de avalúo Nº 214-371, comuna de Teodoro Schmidt, para la obra "Camino S-60 sector: Teodoro Schmidt - Hualpín, Km. 43,94000 al Km. 59,10294, tramo I Km. 44,84000 al Km. 53,08000", IX Región y se acordó el valor de la indemnización con su propietaria Marcelina Quiñilef Llanca, ascendente a la cantidad de $2.313.553.-
+
+Fiscal del Ministerio de Obras Públicas.
