@@ -1,0 +1,3 @@
+Por resolución Nº 524, de 5 de marzo de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Perone, VIII Región, individualizada en el artículo 1º Nº 22 del D.S. Nº 729 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES Y ACTIVIDADES CONEXAS DE LA CALETA PERONE.
+
+Valparaíso, 5 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
