@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.812, de 12 de noviembre de 2003, de esta Subsecretaría, prorrógase el plazo otorgado a PESQUERA DEL ESTRECHO S.A. para reanudar actividades pesqueras extractivas con la nave "Curaco", por el término de un año contado desde el término de la vigencia de su autorización, por haberse acreditado la ocurrencia de una causal de fuerza mayor. La peticionaria deberá reanudar operaciones extractivas antes de 29 de agosto de 2005.
+
+Valparaíso, 12 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
