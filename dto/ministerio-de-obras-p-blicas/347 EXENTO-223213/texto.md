@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 347 de 27 de febrero de 2004, se expropió el lote de terreno Nº 55-A, superficie 42 m2, rol de Avalúo Nº 192-91, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Longitudinal - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12", VII Región y se acordó el valor de la indemnización con su propietario Zenón del Carmen Silva Yáñez, ascendente a la cantidad de $308.660.-
+
+Fiscal del Ministerio de Obras Públicas.
