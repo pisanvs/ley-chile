@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº307, de fecha 28 de marzo de 2002, se expropiaron los lotes de terreno Nºs 1 y 2, superficie 751 m2 y 562,50 m2, respectivamente, rol de avalúo 1154-6, comuna de Puerto Varas, X Región, para la obra "Construcción Puente Las Vertientes y El Ladrillo", y se acordó el valor de indemnización con su propietaria doña Ana Oyarzo Ruiz, ascendente a la cantidad de $1.427.136.-
+
+Fiscal del Ministerio de Obras Públicas.
