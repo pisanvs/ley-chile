@@ -1,0 +1,3 @@
+Por decreto M.O. P. Nº257,de 16 de marzo de 1998, se expropiaron los lotes de terreno Nºs 30 y 31, superficies 727 y 39.576 m2., Rol de Avalúo 602-6, Comuna de Tomé, para la obra Camino Acceso Norte a Concepción, Ramal Colector, Sector Rafael - Agua Amarilla, y se acordó precio de la indemnización con su propietario Leonel Fierro Escalona y Otros, ascendente a la cantidad de $7.964.630.-
+
+Fiscal del Ministerio de Obras Públicas.
