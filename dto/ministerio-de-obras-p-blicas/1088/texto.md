@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 1.088 de 31 de octubre de 1997, se expropiaron los lotes de terreno N°s. 4-A, 34, 36, 40-A y 64, superficies 352, 465, 495, 464 y 147 m2., respectivamente, roles de avalúo en trámite, 219-37, 219-75 y 213-20, comuna de Chimbarongo, obra Ruta I-85-J, sector Cruce Longitudinal Chimbarongo-Codegua y se acordó precio de indemnización con sus propietarios Andrés Piraino Sepúlveda, Jorge Pesce Gennaro, Luis Duarte Cancino y José Toledo Martínez, ascendente a las cantidades de $1.363.700, $2.348.711, $1.586.088 y $852.837.
+
+Fiscal del Ministerio de Obras Públicas
