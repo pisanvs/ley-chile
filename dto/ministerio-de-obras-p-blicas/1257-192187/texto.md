@@ -1,0 +1,3 @@
+Por decreto MOP Nº1257, de 27 de agosto de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº13, para la obra Camino Ruta F-800, sector Cruce Ruta 68-Las Tablas-Bif Tunquén, Kms 0,000 al 16,266, que figura a nombre de Soc. Agrícola Los Coiles Ltda., rol de avalúo 9318-22, superficie 800 m², comuna de Valparaíso. La Comisión de Peritos, con fecha 2 de septiembre de 1999, fijó la indemnización provisional en la cantidad de $9.975.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
