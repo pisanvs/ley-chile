@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.613, de 22 de diciembre de 2004, de esta Subsecretaría, autorízase a ALIMENTOS MULTIEXPORT S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en kilómetro 20, camino Concepción a Coronel, Concepción, VIII Región, en las líneas de elaboración de fresco-enfriado, congelado, ahumado, conserva, alga seca, deshidratado y alga picado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 22 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
