@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 305, de 31 de marzo de 1997, se expropió el lote de terreno Nº 3, superficie 195 m², rol de avalúo 75-19, comuna de Futrono, para la obra Programa Integral de Conservación y Mejoramiento Vial Ruta T-55 Santa Laura-Futrono y se acordó precio de la indemnización con su propietaria Elba Quijada Avilés, ascendente a la cantidad de $72.552.-
+
+Fiscal del Ministerio de Obras Públicas.
