@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.532, de 3 de julio de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Pihuio, X Región, individualizada en el artículo 1º, Nº 4 del D. exento Nº 525 del 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES AYUDANTES Y RAMOS SIMILARES ''LA MESANA DE PUGUENUN''.
+
+Valparaíso, 3 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
