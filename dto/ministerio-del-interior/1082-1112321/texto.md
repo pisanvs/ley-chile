@@ -102,7 +102,7 @@ Sin perjuicio de lo expresado en el artículo precedente, el Director Nacional d
 
 Las estampillas o sellos postales, se clasifican en estampillas de emisiones ordinarias y extraordinarias. Son emisiones de carácter ordinario, acuellas que tienen por finalidad normal cubrir el franqueo de las diferentes clases de correspondencia. Son extraordinarias, aquellas estampillas que se emiten con finalidades conmemorativas, recordatorias o para otros fines determinados.
 
-En vida, ninguna persona podrá ser honrada para figurar en estampillas chilenas.
+En vida, ninguna persona podrán ser honrada para que su efigie figure en estampillas chilenas.
 
 Las estampillas no deben ser emitidas para recordar organizaciones políticas o religiosas, empresas comerciales o productos determinados.
 
