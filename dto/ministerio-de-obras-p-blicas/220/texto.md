@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 220, de 30 de Julio de 1993, se expropió el lote de terreno N° 39, superficie 2.758 M2., rol de avalúo 5017-17, Comuna de Coronel, para la obra Camino By Pass Coronel Lota Ruta 160, sector Segunda Calzada Tramo Interurbano y se acordó precio de indemnización con su propietario Club Deportivo Huachipato, ascendente a la cantidad de $ 9.359.566.
+
+Fiscal del Ministerio de Obras Públicas.
