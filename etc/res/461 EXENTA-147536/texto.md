@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 461 de 23 de Abril de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas que corresponden a parcelas N°s. 22 a, la 27 y 56 a la 61; sitios N°s. 22 al 32 y 64 al 76 y Reserva CORA No. 3 de la parte del Proyecto de Parcelación "El Luchador", formado por, predios Hijuelas A, B y E del plano de Hijuelación de la Hijuela Tercera o Fundo El Bosque y Fundo El Almendro y Chaitén de la comuna de María Pinto, Región Metropolitana. Los derechos de aguas se extraen del Canal Las Mercedes. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
