@@ -1,0 +1,35 @@
+AUTORIZA AL ESTABLECIMIENTO EDUCACIONAL DENOMINADO UNIVERSIDAD POPULAR "FERMIN VIVACETA" PARA INVERTIR LOS FONDOS EXCEDENTES DE LAS SUBVENCIONES FISCALES EN LA EJECUCION DE TRABAJOS ESPECIALES
+
+Núm. 402.- Santiago, 1° de Abril de 1974.- Visto: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y
+
+Considerando:
+
+1°- Que tanto el artículo 39° de la ley N° 17.365 como el decreto de Educación N° 2.364, de 6 de Diciembre de 1972, que reglamenta la citada disposición legal, no cumplen con el objetivo para el que fueron dictados, cual es el de autorizar a la Universidad Popular "Fermín Vivaceta" para invertir los fondos excedentes de subvenciones fiscales, y
+
+2°.- Que la Universidad Popular "Fermín Vivaceta" debe invertir los fondos provenientes de subvenciones fiscales oportunamente, para su mejor aprovechamiento.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Derógase el artículo 39° de la ley N° 17.365 y el decreto de Educación N° 2.364, de 6 de Diciembre de 1972, reglamentario de la citada disposición legal.
+
+#### Artículo 2°
+
+Autorízase a la Sociedad de Artesanos "La Unión", entidad sostenedora del establecimiento denominado Universidad Popular "Fermín Vivaceta", para que, una vez deducidos los fondos necesarios para la oportuna cancelación de sueldos, salarios e imposiciones previsionales del personal, y todos los gastos que demanda el normal funcionamiento del establecimiento durante el año escolar, pueda invertir los excedentes de las subvenciones fiscales en la ejecución de trabajos de ampliaciones del plantel, reforma de talleres, adquisición de maquinarias y equipos que requiere el Plan de Enseñanza que imparte.
+
+Asimismo, autorízase a dicha Sociedad para utilizar los fondos excedentes referidos, en el pago de sueldos, salarios e imposiciones previsionales del personal de la Universidad Popular "Fermín Vivaceta" y en gastos generales de funcionamiento del establecimiento en periodos correspondientes a años escolares cuyas subvenciones no hayan sido pagadas.
+
+#### Artículo 3°
+
+Declárase bien invertidos los fondos excedentes de subvenciones fiscales utilizados con anterioridad a la fecha del presente decreto ley en el pago de sueldos, salarios e imposiciones previsionales y gastos generales del funcionamiento de la Universidad Popular "Fermín Vivaceta".
+
+#### Artículo 4°
+
+Una Comisión encabezada por el Presidente de la Sociedad de Artesanos "La Unión" e integrada por el segundo Vicepresidente, el Tesorero, un miembro de la Sociedad, designado por el Directorio, y el Director de la Universidad Popular "Fermín Vivaceta" supervigilará la inversión de los fondos excedentes a que se refiere el artículo 2° del presente decreto ley y elaborará un presupuesto anual de gastos e inversiones de dichos fondos, debiendo rendir cuenta documentada anualmente a la Contraloría General de la República.
+
+Anótese, refréndese y regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones y en los Boletines Oficiales de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Hugo Castro Jiménez, Contraalmirante, Ministro de Educación Pública.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
+
+Saluda muy atentamente a Ud.- Miguel Retamal Salas, Subsecretario de Educación Pública.
