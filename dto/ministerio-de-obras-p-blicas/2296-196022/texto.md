@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.296, de 31 de diciembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº9, para la obra Camino Longitudinal Costero Sur, sector El Morro-Chaihuin II, Kms 15,755 al 27,017 (primera parte), que figura a nombre de Martínez Recabarren Suc, rol de avalúo 112-5, superficie 9.916 m2., comuna de Corral. La Comisión de Peritos, con fecha 6 de diciembre de 1999, fijó la indemnización provisional en la cantidad de $3.470.600, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
