@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD MAR FRIO LTDA. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 456, de 12 de Mayo de 1987, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Mar Frío Ltda., domiciliada en Puerto Natales, para iniciar actividades pesqueras con la embarcación "Simone", en la XII Región, donde extraerá los siguientes recursos hidrobiológicos: congrio dorado, merluza española, merluza de cola, merluza de tres aletas, cojinova del sur, bacalao de profundidad, chorito, cholga, ostión del sur, loco, choro zapato, almeja, lapa, caracol locate, caracol trumulco, calamar, pulpo, centolla, centollón, jaiba, piure, pepino de mar y erizo. Deniégase autorización para extraer con dicha embarcación los siguientes recursos: langostino de los canales, sierra, róbalo, pejerrey de mar, chancharro, lenguado ojos chicos y raya, por no contar con los artes de pesca adecuados.
+
+Valparaíso, 12 de Mayo de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
