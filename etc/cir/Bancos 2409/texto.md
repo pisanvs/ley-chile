@@ -20284,115 +20284,65 @@ En ningún caso las instituciones financieras proporcionarán información acerc
 
 La información sobre las tasaciones de bienes raíces debe ser enviada directamente a la respectiva Dirección Regional del Servicio de Impuestos Internos, División Evaluaciones, dentro de los cinco primeros días hábiles del mes siguiente a aquel en que se realicen.
 
-CAPITULO 18-8 (Bancos y Financieras)
+CAPITULO 18-8 (Bancos)
 
 MATERIA:
 
-INFORMACION AL PUBLICO SOBRE PREFERENCIAS Y GARANTIA ESTATAL POR DEPOSITOS Y
+INFORMACIÓN AL PUBLICO SOBRE PREFERENCIAS Y GARANTÍA ESTATAL POR DEPÓSITOS Y CAPTACIONES.- PUBLICIDAD RELATIVA A SUCURSALES O FILIALES DE BANCOS CHILENOS EN EL EXTERIOR Y A BANCOS U OFICINAS BANCARIAS SITUADOS EN OTROS PAÍSES.
 
-CAPTACIONES.
+I.- INFORMACIÓN SOBRE LA GARANTIA ESTATAL POR LOS DEPOSITOS.
 
-### 1. Información que debe incluirse en formularios y boletas
+1.- Información que debe incluirse en formularios y boletas.
 
-A fin de informar a los depositantes acerca de los alcances de las disposiciones
+A fin de informar a los depositantes acerca de los alcances de las disposiciones del Título XV de la Ley General de Bancos, en especial del párrafo sexto de ese Título, los bancos deberán incluir en forma impresa la leyenda "Infórmese sobre la garantía estatal de los depósitos en su banco o en www sbif cl" en los siguientes formularios que se entreguen, certificados de depósito a plazo, pagarés de captación, libretas de ahorro, vales a la vista, estados de cuentas de ahorro, de cuentas corrientes, de cuentas a la vista, boletas de depósito y de giro en cuentas de ahorro. La leyenda señalada deberá estar en el anverso de los documentos con letras destacadas. Además cada institución deberá insertarla en su sitio web, de preferencia en el mismo lugar en que se informe acerca de los depósitos y captaciones que ofrece el banco, pudiendo acompañarla, optativamente, del texto del Anexo de este Capítulo.
 
-del título XV de la Ley General de Bancos, en especial del párrafo sexto de ese
+2.- Aviso en oficinas de la institución.
 
-título, los bancos y sociedades financieras deberán incluir en forma impresa la
+Con el mismo objeto señalado precedentemente, los bancos deberán mantener a la vista del público, en un lugar destacado y dentro de los espacios donde se atiendan operaciones de captación, en la casa matriz, en las sucursales y cajas auxiliares, el aviso referente a las limitaciones de la garantía estatal por depósitos y captaciones, de acuerdo al texto y formato que se indican en el Anexo de este Capítulo.
 
-leyenda "Infórmese sobre el límite de garantía estatal a los depósitos" en los
+3.- Avisos en medios de comunicación escritos, audiovisuales y de transmisión electrónica.
 
-siguientes formularios que se entreguen: certificados de depósito a
+Todo aviso que los bancos difundan con fines de publicidad o propaganda, por medios escritos, audiovisuales o de transmisión electrónica, a través de diarios, revistas, carteles u otros medios, deberá incluir de manera destacada la misma leyenda señalada en el número 1 precedente, aunque no trate materias referidas a depósitos o captaciones.
 
-plazo,pagarés de captación, libretas de ahorro, vales a la vista, estados de
+Esta frase, "Infórmese sobre la garantía estatal de los depósitos en su banco o en www sbif el", debe colocarse inmediatamente bajo el logotipo o nombre del respectivo banco y en caracteres que sean de fácil lectura en condiciones normales. Cuando el nombre de la institución o su logotipo aparezcan más de una vez, esa leyenda se incluirá solamente bajo aquél que cierra el aviso.
 
-cuentas de ahorro y de cuentas corrientes, boletas de depósito en cuentas
+Asimismo, en los avisos y propaganda que las instituciones bancarias difundan por cine y televisión, deben incluir la mencionada leyenda como un último cuadro que cierre el respectivo "spot" o aviso. En él debe aparecer en su parte central y en caracteres fácilmente legibles y de dimensiones que guarden adecuada armonía con el espacio en que se inserta, sobre fondo que permita un adecuado contraste, la frase " Infórmese sobre la garantía estatal de los depósitos en su banco o en www sbif cl". El nombre o logotipo de la institución financiera debe aparecer en la parte superior de la pantalla, de preferencia sobre el extremo izquierdo de la misma La permanencia de este cuadro en pantalla no podrá ser inferior a cuatro segundos.
 
-corrientes y boletas de depósito y de giro en cuentas de ahorro. La leyenda
+II.- PUBLICIDAD SOBRE OFICINAS BANCARIAS Y BANCOS SITUADOS EN EL EXTERIOR.
 
-señalada deberá estar en el anverso de los documentos con letras destacadas.
+La publicidad o propaganda que se realice en el país, en los medios de comunicación escrita, como audiovisuales o electrónicos, relativa a sucursales o filiales de bancos chilenos en el extranjero o a casas matrices, oficinas o filiales en otros países de sucursales o representaciones de bancos extranjeros en Chile, deberá incluir la leyenda que en cada caso se indica. Esa leyenda deberá insertarse en caracteres fácilmente legibles y su ubicación en el respectivo anuncio deberá ser similar a la que se señala en el título precedente para la frase sobre la garantía estatal a los depósitos.
 
-### 2. Aviso en oficinas de la institución
+1.- Bancos chilenos.
 
-Con el mismo objeto señalado precedentemente, los bancos y sociedades financieras deberán mantener a la vista del público, en un lugar destacado y dentro de los espacios donde se atiendan operaciones de captación, en la casa matriz, en las sucursales y cajas auxiliares, el aviso referente a las limitaciones de la garantía estatal por depósitos y captaciones que les corresponda, de acuerdo al texto y formato que se indican en el Anexo N° 1 de este capitulo.
+Los avisos de propaganda en que bancos establecidos en Chile, hagan anuncios sobre sus sucursales en otros países, o sociedades filiales o subsidiarias, situadas en el extranjero, deberán incluir en cada aviso la siguiente frase:
 
-### 3. Volante informativo
+"LA. . . (SUCURSAL - SUBSIDIARIA - FILIAL) DEL BANCO (NOMBRE DEL BANCO) . . . , ESTABLECIDA EN (CIUDAD Y PAÍS) ESTÁ SUJETA A LAS LEYES DEL ESTADO EN QUE FUNCIONA Y LOS DEPÓSITOS QUE RECIBA NO ESTÁN AMPARADOS POR GARANTÍA DEL ESTADO CHILENO."
 
-Las instituciones financieras deberán mantener a disposición del público, en un
+2.- Sucursales o filiales de bancos extranjeros que funcionan en Chile.
 
-lugar visible en cada una de sus oficinas, volantes que contengan la misma
+La publicidad que hagan las sucursales o filiales de bancos extranjeros establecidos en Chile y en que se promuevan los servicios de su casa matriz, filiales u otras oficinas en el exterior, deberá llevar inserta la siguiente leyenda:
 
-información de los avisos mencionados en el N° 2 precedente. Los referidos
+"LAS OPERACIONES DE LA CASA MATRIZ O DE OTRAS OFICINAS DE ESTE BANCO EN EL EXTRANJERO NO ESTAN SUJETAS A LA FISCALIZACIÓN Y NORMAS CHILENAS NI ESTAN AMPARADAS POR GARANTIA DEL ESTADO CHILENO."
 
-volantes podrán contener, además de la información ya señalada, otro tipo de
+3.- Representaciones de bancos extranjeros en Chile.
 
-mensaje que la entidad desee entregar a sus clientes. En todo caso, esta
+Los anuncios publicitarios que se hagan en el país acerca de la casa matriz, sucursales o filiales de bancos extranjeros que no operan en Chile pero que tengan representación en el país, deberán incluir la leyenda que se indica a continuación:
 
-información adicional deberá ocupar un lugar secundario dentro del contexto dela
+"ESTE BANCO TIENE SU CASA MATRIZ EN (PAIS O CIUDAD Y PAIS) Y SUS OPERACIONES ESTAN SUJETAS A LAS LEYES, NORMAS Y TRIBUNALES DE ESE PAIS. ESTE BANCO NO ESTA SUJETO A LAS AUTORIDADES CHILENAS NI SUS OPERACIONES SE ENCUENTRAN AMPARADAS POR LA GARANTIA DEL ESTADO CHILENO."
 
-información entregada en el volante y no podrá cubrir más de un 50% del espacio
+ANEXO
 
-físico del mismo.
+I.- TEXTO DEL ANUNCIO SOBRE GARANTIA ESTATAL.
 
-### 4. Avisos en medios de prensa y audiovisuales
-
-Todo aviso que los bancos y sociedades financieras difundan con fines de
-
-publicidad o propaganda, por medios impresos, a través de diarios,
-
-revistas,carteles u otros medios, deberá incluir de manera destacada la misma
-
-leyenda señalada en el número 1 precedente, aunque no trate materias referidas a
-
-depósitos o captaciones.
-
-Esta frase, "Infórmese sobre el límite de garantía estatal a los depósitos",debe
-
-colocarse inmediatamente bajo el logotipo o nombre de la respectiva institución
-
-financiera y en caracteres cuyo tamaño sea a lo menos un quinto de aquellos que
-
-componen el nombre de la empresa o su logotipo, cuidando en cualquier caso que
-
-sea de fácil lectura en condiciones normales. Cuando el nombre de la institución
-
-o su logotipo aparezcan más de una vez, esa leyenda se incluirá solamente bajo
-
-aquel que cierra el aviso.
-
-Asimismo, en los avisos y propaganda que las instituciones financieras difundan
-
-por cine y televisión, deben incluir la mencionada leyenda como un último cuadro
-
-que cierre el respectivo "spot" o aviso. En él debe aparecer en su parte central
-
-y en caracteres fácilmente legibles y de dimensiones que guarden adecuada
-
-armonía con el espacio en que se inserta, sobre fondo que permita un adecuado
-
-contraste, la frase "Infórmese sobre el límite de garantía estatal a los
-
-depósitos". El nombre o logotipo de la institución financiera debe aparecer en
-
-la parte superior de la pantalla, de preferencia sobre el extremo izquierdo dela
-
-misma. La permanencia de este cuadro en pantalla no podrá ser inferior a cuatro
-
-segundos.
-
-ANEXO N°1
-
-I.- TEXTO DEL ANUNCIO SOBRE GARANTIA ESTATAL
-
-GARANTIA ESTATAL Y PREFERENCIAS PARA LOS DEPOSITOS Y CAPTACIONES
+GARANTIA ESTATAL Y PREFERENCIAS PARA LOS DEPOSITOS Y CAPTACIONES.
 
 Las normas de la Ley General de Bancos aseguran a los depósitos en moneda nacional o extranjera de un banco o sociedad financiera los siguientes pagos:
 
-PRIMERO:
+PRIMERO.
 
 En el 100% de su monto:
 
-1) Los depósitos en cuenta corriente.
+1) Los depósitos en cuenta comente.
 
 2) Los depósitos mediante libreta de ahorro a la vista.
 
@@ -20402,25 +20352,25 @@ En el 100% de su monto:
 
 5) Los depósitos mediante libretas de ahorro a plazo y para la vivienda, con giros inmediatos.
 
-SEGUNDO:
+SEGUNDO.
 
-En un 90% de su monto total, con tope máximo a pagar de 108 U.F., en todo el sistema financiero por cada año calendario, los depósitos a plazo que cumplan con los siguientes requisitos:
+En un 90% de su monto total, con tope máximo a pagar de 108 U.F, en todo el sistema financiero por cada año calendario, los depósitos a plazo que cumplan con los siguientes requisitos:
 
 1) Que el titular sea una persona natural.
 
 2) Que se trate de depósitos a plazo mediante documentos nominativos o a la orden, incluso con libretas de ahorro con giros diferidos.
 
-NOTA: Los preceptos legales que establecen estas preferencias y garantías se encuentran en el artículo 65 y los artículos 144 al 153 de la Ley General de Bancos.
+NOTA. Los preceptos legales que establecen estas preferencias y garantías se encuentran en el artículo 65 y los artículos 144 al 153 de la Ley General de Bancos.
 
-SUPERINTENDENCIA DE BANCOS E INSTITUCIONES FINANCIERAS
+SUPERINTENDENCIA DE BANCOS E INSTITUCIONES FINANCIERAS.
 
-II.- DIMENSIONES DEL ANUNCIO
+II.- DIMENSIONES DEL ANUNCIO.
 
-Ancho : 50 centímetros
+Ancho 50 centímetros
 
-Largo : 70 centímetros
+Largo 70 centímetros
 
-Márgenes : 7 centímetros
+Márgenes 7 centímetros
 
 Las medidas de ancho y largo descritas representan el tamaño mínimo que podrá tener el aviso.
 
