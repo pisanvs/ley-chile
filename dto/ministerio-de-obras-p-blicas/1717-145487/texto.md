@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.717, de 25 de junio de 1999, se expropió el lote de terreno Nº153-B, superficie 10.067 m2., rol de avalúo 316-4, comuna de Río Negro, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt Sector Río Negro - Purranque, Décima Región y se acordó el valor de indemnización con su propietario Oscar Patricio Gebauer Teuber, ascendente a la cantidad de $5.875.748.-
+
+Fiscal del Ministerio de Obras Públicas.
