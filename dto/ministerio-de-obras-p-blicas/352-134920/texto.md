@@ -1,0 +1,3 @@
+Por decreto MOP Nº 352, de 26 de febrero de 1999, se expropió el lote de terreno Nº 42-A, superficie 2.886 m², rol de avalúo 105-31, comuna de San Pablo, para la obra Concesión Internacional Ruta 5, Tramo Río Bueno-Puerto Montt, Sector San Pablo-Osorno, Décima Región y se acordó el valor de indemnización con su propietaria Verónica Aída Cáceres Guajardo, ascendente a la cantidad de $3.638.114.-
+
+Fiscal del Ministerio de Obras Públicas.
