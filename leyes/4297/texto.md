@@ -1,0 +1,1 @@
+Establece diversas disposiciones relativas al fomento de la industria hotelera y del turismo.
