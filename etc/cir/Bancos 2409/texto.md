@@ -6192,7 +6192,9 @@ Código Plaza Jurisdicción
 
 0984 Río Negro "
 
-0988 Purranque "
+0988 Purranque Puerto Montt
+
+0990 Puerto Octay
 
 0992 Frutillar "
 
