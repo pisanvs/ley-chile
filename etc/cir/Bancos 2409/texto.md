@@ -16332,63 +16332,19 @@ las presentes normas.
 
 ### 2. Créditos para exportación
 
-Los límites mencionados en el número anterior, del 5% para créditos no
+Los límites mencionados en el número anterior, del 5% para créditos no caucionados con alguna de las garantías que la ley exige, o del 25% del capital pagado y reservas cuando existen esas cauciones, podrán elevarse al 10% y al 30% respectivamente, si el exceso corresponde a créditos concedidos en moneda extranjera para exportaciones de cualquier naturaleza.
 
-caucionados con alguna de las garantías que la ley exige, o del 25% del capital
+Se entenderá para estos efectos como créditos para exportaciones en moneda extranjera, los siguientes:
 
-pagado y reservas cuando existen esas cauciones, podrán elevarse al 10% y al 30%
+a) Préstamos que se otorguen en conformidad a las disposiciones del Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y a las instrucciones impartidas al respecto por esta Superintendencia;
 
-respectivamente, si el exceso corresponde a créditos concedidos en moneda
+b) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de cambio o pagarés, aceptadas o suscritos por el importador extranjero y, en los casos que proceda, avalados por un banco extranjero, originados en exportaciones enviadas en cobranza;
 
-extranjera para exportaciones de cualquier naturaleza.
+c) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de cambio o pagarés, aceptadas o suscritos a favor de exportadores por bancos nacionales o extranjeros, con motivo de la negociación de cartas de crédito;
 
-Se entenderá para estos efectos como créditos para exportaciones en moneda
+d) La negociación de cartas de crédito a plazo por exportaciones chilenas, con aceptación de letra o sin ella, cuando en este último caso se trate de cartas de crédito confirmadas, y los créditos y avances que otorguen las instituciones bancarias establecidas en Chile a bancos del exterior por el financiamiento del pago de tales cartas de crédito.
 
-extranjera, los siguientes:
-
-a) Préstamos que se otorguen en conformidad a las disposiciones del Capítulo X
-
-del Compendio de Normas de Exportación del Banco Central de Chile y a las
-
-instrucciones impartidas al respecto por esta Superintendencia;
-
-b) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de
-
-cambio o pagarés, aceptadas o suscritos por el importador extranjero y, en los
-
-casos que proceda, avalados por un banco extranjero, originados en exportaciones
-
-enviadas en cobranza;
-
-c) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de
-
-cambio o pagarés, aceptadas o suscritos a favor de exportadores por bancos
-
-nacionales o extranjeros, con motivo de la negociación de cartas de crédito;
-
-d) Los créditos que otorguen las instituciones bancarias establecidas en Chile a
-
-bancos del exterior por el financiamiento del pago a exportadores establecido
-
-sen Chile, cuando dichos pagos se hagan por cartas de crédito negociadas
-
-relativas a exportaciones con destino a un país integrante de la Asociación
-
-Latinoamericana de Integración (ALADI), siempre que el exportador no hubiere
-
-obtenido un financiamiento para la misma exportación, o si lo hubiere
-
-recibido,dicho pago se destine a solucionar el referido financiamiento.
-
-Los créditos a que se refiere la letra d) anterior pueden acogerse al límite del
-
-30%, al igual que las obligaciones que se originan de las letras o pagarés
-
-señalados en la letra b), cuando dichos documentos provengan de operaciones con
-
-países miembros de la ALADI y sean reembolsables a través del Banco Central de
-
-Chile por intermedio del respectivo convenio de crédito recíproco.
+Los créditos a que se refiere la letra d) anterior pueden acogerse al límite del 30%, al igual que las obligaciones que se originan de las letras o pagarés señalados en la letra b), cuando dichos documentos provengan de operaciones con países miembros de la ALADI y sean reembolsables a través del Banco Central de Chile por intermedio del respectivo convenio de crédito recíproco.
 
 3. Créditos a otra institución financiera regida por la Ley General de Bancos.
 
@@ -16506,235 +16462,65 @@ del artículo 85.
 
 3.1. Disposición general.
 
-Las inversiones en valores mobiliarios de renta fija están afectas a los límites
-
-que señalan los artículos 84 y 85 de la Ley General de Bancos y se aplicarán
-
-alas personas naturales y jurídicas emisoras de los documentos representativos
-
-dela inversión de que se trate y a los cedentes o endosantes cuando los
-
-documentos sean transferidos con responsabilidad.
+Las inversiones en valores mobiliarios de renta fija están afectas a los límites que señalan los artículos 84 y 85 de la Ley General de Bancos y se aplicarán alas personas naturales y jurídicas emisoras de los documentos representativos dela inversión de que se trate y a los cedentes o endosantes cuando los documentos sean transferidos con responsabilidad.
 
 3.2. Excepciones.
 
 Quedan excluidos de los márgenes individuales de crédito del artículo 84, con
 
-respecto a los emisores, las inversiones en los instrumentos que se indican a
+respecto a los emisores, las inversiones en los instrumentos que se indican a continuación:
 
-continuación:
+a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos que representen obligaciones del Estado o de sus instituciones, incluido el Banco Central de Chile y excluidas las empresas del Estado.
 
-a) Documentos representativos de obligaciones del Banco Central de Chile,
-
-exentos de límites de acuerdo con la Ley Orgánica del Instituto Emisor;
-
-b) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra
-
-clase de documentos que representen obligaciones del Estado o de sus
-
-instituciones, excluidas las empresas del Estado; y,
-
-c) Bonos u obligaciones de renta de instituciones internacionales a las que se
-
-encuentre adherido el Estado de Chile.
+b) Bonos u obligaciones de renta de instituciones internacionales a las que se encuentre adherido el Estado de Chile.
 
 3.3. Cuotas de fondos mutuos.
 
-Las cuotas de fondos mutuos constituyen valores mobiliarios, conforme a la ley
+Las cuotas de fondos mutuos constituyen valores mobiliarios, conforme a la ley y, por lo tanto, son susceptibles de ser adquiridas por las instituciones financieras, siempre que se trate de un fondo que opere exclusivamente valores de renta
 
-y, por lo tanto, son susceptibles de ser adquiridas por las instituciones
+fija.Debido a que un fondo mutuo está constituido por documentos emitidos por diversas sociedades, éstas pasan a ser deudoras del banco o de la sociedad financiera que sea dueña de la cuota parte del fondo, quedando afecta la inversión a los límites de crédito del artículo 84.
 
-financieras, siempre que dicho fondo opere exclusivamente valores de renta
+En consecuencia, si una institución financiera fuera partícipe de un fondo mutuo, debe computar, para los efectos de los límites individuales de crédito del artículo 84, la proporción que corresponda de los valores de los documentos que forman parte de la cartera de éste, según su participación en el fondo,considerando los montos resultantes como deudas directas sin garantía de los emisores de tales instrumentos financieros.
 
-fija.Debido a que un fondo mutuo está constituido por documentos emitidos por
-
-diversas sociedades, éstas pasan a ser deudoras del banco o de la sociedad
-
-financiera que sea dueña de la cuota parte del fondo, quedando afecta la
-
-inversión a los límites de crédito del artículo 84.
-
-En consecuencia, si una institución financiera fuera partícipe de un fondo
-
-mutuo, debe computar, para los efectos de los límites individuales de crédito
-
-del artículo 84, la proporción que corresponda de los valores de los documentos
-
-que forman parte de la cartera de éste, según su participación en el
-
-fondo,considerando los montos resultantes como deudas directas sin garantía de
-
-los emisores de tales instrumentos financieros.
-
-La institución financiera que invierta en fondos mutuos, asume el riesgo de
-
-infringir las disposiciones de la Ley General de Bancos, desde el momento en que
-
-los instrumentos que se incorporan al patrimonio del fondo deben ser
-
-considerados como nuevos créditos, hecho que depende de las decisiones de
-
-inversión de la administradora del respectivo fondo mutuo y no de la institución
-
-financiera. Por lo tanto, cuando exista dicho riesgo debido al monto
-
-invertido,es obligación del banco o de la sociedad financiera, obtener
-
-información permanente acerca de las inversiones del fondo mutuo, como requisito
-
-indispensable para ser partícipe.
+La institución financiera que invierta en fondos mutuos, asume el riesgo de infringir las disposiciones de la Ley General de Bancos, desde el momento en que los instrumentos que se incorporan al patrimonio del fondo deben ser considerados como nuevos créditos, hecho que depende de las decisiones de inversión de la administradora del respectivo fondo mutuo y no de la institución financiera. Por lo tanto, cuando exista dicho riesgo debido al monto invertido,es obligación del banco o de la sociedad financiera, obtener información permanente acerca de las inversiones del fondo mutuo, como requisito indispensable para ser partícipe.
 
 ### 4. Deudas directas e indirectas
 
 4.1. Disposiciones generales.
 
-Por deudas directas deben entenderse todas las obligaciones que el deudor
+Por deudas directas deben entenderse todas las obligaciones que el deudor principal reconozca a favor de la institución financiera, como beneficiario del crédito, en el carácter, según corresponda, de deudor en cuenta corriente; aceptante de una letra de cambio o suscriptor de un pagaré con el que se documente un préstamo otorgado por la institución o adquirido sin responsabilidad del vendedor o cedente; endosante con responsabilidad de una letra de cambio o pagaré; vendedor con pacto de retrocompra de un instrumento financiero; deudor por cartas de crédito para importación, deudor de créditos avalados o afianzados por la institución financiera, etc.
 
-principal reconozca a favor de la institución financiera, como beneficiario del
+Por deuda indirecta deben entenderse las obligaciones que afectan a las personas que, sin ser los beneficiarios del crédito, responden con su patrimonio del cumplimiento de la obligación, como lo son, entre otros, los fiadores, codeudores solidarios, aceptantes, giradores y avalistas de letras de cambio o suscriptores de pagarés endosados con responsabilidad.
 
-crédito, en el carácter, según corresponda, de deudor en cuenta
+No son deudores directos ni indirectos las personas que participan en una obligación sin contraer una responsabilidad personal en ella, pero que afectan bienes de su propiedad al cumplimiento de esa obligación o bien mantienen un compromiso de pago por documentos constituidos en garantía por terceros. Así ocurre, por ejemplo, con el que constituye una hipoteca para caucionar una
 
-corriente;aceptante de una letra de cambio o suscriptor de un pagaré con el que
+obligación ajena, con cláusula de garantía general o sin ella; el que da bienes en prenda para garantizar obligaciones de terceros; el aceptante o cualquiera delos obligados al pago de un documento en cobranza endosado en garantía a la institución financiera en resguardo de una obligación contraída por otra persona, etc.
 
-se documente un préstamo; descontante de una letra de cambio o pagaré; vendedor
-
-con pacto de retrocompra de un instrumento financiero; deudor por cartas de
-
-crédito para importación, deudor de créditos avalados o afianzados por la
-
-institución financiera, etc.
-
-Por deuda indirecta deben entenderse las obligaciones que afectan a las personas
-
-que, sin ser los beneficiarios del crédito, responden con su patrimonio del
-
-cumplimiento de la obligación, como lo son, entre otros, los fiadores,
-
-codeudores solidarios, aceptantes de letras de cambio descontadas,
-
-giradores,avalistas y endosantes con responsabilidad.
-
-No son deudores directos ni indirectos las personas que participan en una
-
-obligación sin contraer una responsabilidad personal en ella, pero que afectan
-
-bienes de su propiedad al cumplimiento de esa obligación o bien mantienen un
-
-compromiso de pago por documentos constituidos en garantía por terceros. Así
-
-ocurre, por ejemplo, con el que constituye una hipoteca para caucionar una
-
-obligación ajena, con cláusula de garantía general o sin ella; el que da bienes
-
-en prenda para garantizar obligaciones de terceros; el aceptante o cualquiera
-
-delos obligados al pago de un documento en cobranza endosado en garantía a la
-
-institución financiera en resguardo de una obligación contraída por otra
-
-persona, etc.
-
-Tampoco se considera deudor directo o indirecto, al banco emisor de una carta de
-
-crédito de exportación por el solo hecho de que el banco situado en Chile
-
-confirme dicho documento. Tales confirmaciones, entre la fecha en que se
-
-otorguen y la fecha de negociación de las respectivas cartas de crédito, no
-
-están afectas, por lo tanto, a los límites de crédito de que trata el artículo
-
-84 de la Ley General de Bancos.
+Tampoco se considera deudor directo o indirecto, al banco emisor de una carta de crédito de exportación por el solo hecho de que el banco situado en Chile confirme dicho documento. Tales confirmaciones, entre la fecha en que se otorguen y la fecha de negociación de las respectivas cartas de crédito, no están afectas, por lo tanto, a los límites de crédito de que trata el artículo 84 de la Ley General de Bancos.
 
 4.2. Documentos adquiridos o descontados.
 
-Los emisores de valores mobiliarios de renta fija y los suscriptores o
+Los emisores de valores mobiliarios de renta fija y los suscriptores o aceptantes de efectos de comercio adquiridos o descontados por la institución, son siempre deudores de ella por tales instrumentos y tienen la calidad de deudores directos cuando dichos documentos son cedidos sin responsabilidad del vendedor.
 
-aceptantes de efectos de comercio adquiridos o descontados por la institución,
+En el caso de documentos nominativos o a la orden que hayan sido cedidos o endosados a la institución financiera con la responsabilidad de un tercero, se considerará deudor directo al cedente o endosante, mientras que los demás obligados al pago pasarán a tener la calidad de deudores indirectos.
 
-son siempre deudores de ella por tales instrumentos y tienen la calidad de
-
-deudores directos cuando dichos documentos son cedidos sin responsabilidad del
-
-vendedor.
-
-En el caso de documentos nominativos o a la orden que hayan sido cedidos o
-
-endosados a la institución financiera con la responsabilidad de un tercero, se
-
-considerará deudor directo al cedente o endosante, mientras que los demás
-
-obligados al pago pasarán a tener la calidad de deudores indirectos.
-
-En cualquier caso, como es natural, el propio documento adquirido o descontado
-
-por la institución financiera no sirve de garantía de los créditos directos o
-
-indirectos de los obligados a su pago.
+En cualquier caso, como es natural, el propio documento adquirido o descontado por la institución financiera no sirve de garantía de los créditos directos o indirectos de los obligados a su pago.
 
 4.3. Venta de documentos con responsabilidad de la institución financiera.
 
-Los documentos que una institución financiera venda con responsabilidad, siguen
+Los documentos que una institución financiera venda con responsabilidad, siguen afectando los límites individuales de crédito en ella y su venta no cambia la calidad de deudores directos o indirectos de los obligados al pago de los documentos cedidos, ni la forma de valorización de los créditos, hasta tanto no sean pagados.
 
-afectando los límites individuales de crédito en ella y su venta no cambia la
-
-calidad de deudores directos o indirectos de los obligados al pago de los
-
-documentos cedidos, ni la forma de valorización de los créditos, hasta tanto no
-
-sean pagados.
-
-Conforme a lo indicado anteriormente, la institución financiera que adquiera
-
-documentos con la responsabilidad del vendedor, considerará a este último como
-
-deudor directo y los demás obligados tendrán la calidad de deudores indirectos.
+Conforme a lo indicado anteriormente, la institución financiera que adquiera documentos con la responsabilidad del vendedor, considerará a este último como deudor directo y los demás obligados tendrán la calidad de deudores indirectos.
 
 4.4. Operaciones con pacto de retrocompra o retroventa.
 
-Las instituciones financieras que adquieran documentos con pacto de
+Las instituciones financieras que adquieran documentos con pacto de retroventa,deberán considerar al vendedor como deudor directo, pero el emisor de los instrumentos transados o los demás obligados a su pago no tendrán la calidad de deudores indirectos para los efectos de límites de crédito, a diferencia de las compras con responsabilidad a que se refiere el numeral anterior.
 
-retroventa,deberán considerar al vendedor como deudor directo, pero el emisor de
+La institución financiera que venda instrumentos con pacto de retrocompra, por su parte, deberá seguir computando el crédito que representa el documento transado, para los efectos del límite de crédito del obligado a su pago. Si a su vez hubiera comprado dicho instrumento con pacto de retroventa, deberá mantener el cómputo de la obligación de retrocompra del vendedor por la respectiva retrocompra.
 
-los instrumentos transados o los demás obligados a su pago no tendrán la calidad
+En todo caso, si la institución compradora, por cualquier causa, adquiere en forma definitiva los documentos, deberá computar en el acto los créditos que representan los documentos adquiridos, de acuerdo con lo indicado en el N° 3 y en el numeral 4.2 de este título; cualquier exceso, en tal caso, representa una infracción a lo dispuesto en el artículo 84 N° 1 de la Ley General de Bancos.
 
-de deudores indirectos para los efectos de límites de crédito, a diferencia de
-
-las compras con responsabilidad a que se refiere el numeral anterior.
-
-La institución financiera que venda instrumentos con pacto de retrocompra, por
-
-su parte, deberá seguir computando el crédito que representa el documento
-
-transado, para los efectos del límite de crédito del obligado a su pago. Si a su
-
-vez hubiera comprado dicho instrumento con pacto de retroventa, deberá mantener
-
-el cómputo de la obligación de retrocompra del vendedor por la respectiva
-
-retrocompra.
-
-En todo caso, si la institución compradora, por cualquier causa, adquiere en
-
-forma definitiva los documentos, deberá computar en el acto los créditos que
-
-representan los documentos adquiridos, de acuerdo con lo indicado en el N° 3 y
-
-en el numeral 4.2 de este título; cualquier exceso, en tal caso, representa una
-
-infracción a lo dispuesto en el artículo 84 N° 1 de la Ley General de Bancos.
-
-Cuando, en las operaciones de compra de documentos con pacto de retroventa, los
-
-documentos transados reúnan los requisitos para servir de garantía para los
-
-efectos de la ampliación del margen de crédito, la tenencia transitoria de los
-
-títulos permitirá cursar la operación como crédito con garantía para ese
-
-propósito, sin perjuicio de que la valorización de los respectivos documentos
-
-deba ajustarse a lo dispuesto en el título IV de este capítulo.
+Cuando, en las operaciones de compra de documentos con pacto de retroventa, los documentos transados reúnan los requisitos para servir de garantía para los efectos de la ampliación del margen de crédito, la tenencia transitoria de los títulos permitirá cursar la operación como crédito con garantía para ese propósito, sin perjuicio de que la valorización de los respectivos documentos deba ajustarse a lo dispuesto en el título IV de este capítulo.
 
 ### 5. Deudas complementarias
 
@@ -17918,221 +17704,93 @@ c) presunciones fundadas de que diversas personas mantienen relaciones de tal na
 
 Adicionalmente, cuando en una institución financiera participen como accionistas, con un porcentaje superior al uno por ciento, corredores de bolsa u otros agentes institucionales, nacionales o extranjeros, que en el ejercicio de su giro mantengan a nombre propio por cuenta de terceros títulos accionarios, se entenderá que ellos representan a los accionistas mayoritarios de la institución financiera y serán considerados para todos los efectos como parte del grupo mayoritario de ella, a menos que demuestren que sus representados son personas independientes de los demás accionistas de la institución financiera.
 
-Con respecto a las personas para las cuales se presume relación, la Superintendencia establecerá a cuál de los grupos relacionados a la institución deberá ser agregada cada una de ellas, lo que será informado a la institución oportunamente.
+Con respecto a las personas para las cuales se presume relación, la Superintendencia establecerá a cuál o cuáles de los grupos relacionados a la institución deberá ser agregada cada una de ellas, lo que será informado a la institución oportunamente.
 
-### 3. Empresas filiales y de apoyo de una institución financiera
+3. Relaciones que se originan por la participación o la adquisición de acciones o derechos en otras sociedades.
 
-Las sociedades filiales que constituya o adquiera una institución financiera al
+3.1. Empresas filiales y de apoyo de una institución financiera.
 
-amparo del 11 bis del artículo 83 de la Ley General de Bancos, así como también
+Las sociedades filiales que constituya o adquiera una institución financiera al amparo del N° 11 bis del artículo 83 de la Ley General de Bancos, así como también las sociedades constituidas de acuerdo a las normas del N° 15 bis del mismo artículo, serán consideradas como empresas relacionadas con la respectiva entidad y conformarán un solo grupo para todos los efectos de las limitaciones que se establecen en el artículo 84 N° 2 de la misma ley.
 
-las sociedades constituidas de acuerdo a las normas del 15 bis del mismo
+3.2. Acciones o derechos recibidos o adjudicados en pago.
 
-artículo, serán consideradas como empresas relacionadas con la respectiva
+Las sociedades cuyas acciones o derechos sobre aquellas han sido adquiridos por la institución, ya sea en pago o por adjudicación en subasta pública, no se incluirán, por ese solo hecho, en la nómina de deudores relacionados, en tanto no haya vencido el plazo para enajenar las respectivas acciones o derechos.
 
-entidad y conformarán un solo grupo para todos los efectos de las limitaciones
+3.3. Otras acciones registradas a nombre de una institución financiera.
 
-que se establecen en el artículo 84 N° 2 de la misma Ley.
+No se incluirán en la nómina de empresas relacionadas a los emisores de las siguientes acciones, por el solo hecho de mantenerlas o estar registradas a nombre de la institución:
 
-### 4. Sociedades cuyas acciones se han recibido en pago o adjudicado
+a) Acciones de empresas de suministro de energía eléctrica correspondientes al rembolso de aportes por instalaciones o ampliaciones, según lo señalado en la letra e) del numeral 1.1 del Capítulo 11-4 de esta Recopilación.
 
-Las sociedades cuyas acciones han sido adquiridas por la institución, ya sea en
+b) Acciones que un banco mantenga registradas a su nombre por cuenta de terceros que así lo soliciten, en tanto cuente con el mandato correspondiente en el que conste que deben quedar a su nombre y siempre que él mandante no sea una persona relacionada con el banco.
 
-pago o por adjudicación en subasta pública, como aquellas empresas capitalizadas
+4. Nómina de las personas relacionadas y constitución de los grupos de personas relacionadas vinculadas entre sí.
 
-de acuerdo con lo establecido por la Ley N° 18.439, no se incluirán en la nómina
+Esta Superintendencia dispone, para efectos de control, de la nómina de las personas relacionadas con cada institución financiera y de la composición de los grupos de personas vinculadas entre sí.
 
-de deudores relacionados por ese solo hecho, incluso en los casos en que la
+Es responsabilidad de cada institución financiera la actualización periódica de la respectiva nómina en la forma establecida en el Manual del Sistema de Información, incluyendo, en cada oportunidad, a aquellas personas que pasaron a ser consideradas relacionadas de acuerdo con los antecedentes de que dispone la institución y las comunicaciones que esta Superintendencia le haya enviado para la inclusión en el o los grupos de personas vinculadas entre sí.
 
-institución financiera pase a controlar la administración de tales
+Las instituciones financieras que no dispongan de toda la información necesaria en relación con la conformación de algún grupo, como es el caso de la identificación mediante la asignación de un código numérico para éste, deberán efectuar oportunamente las consultas del caso a esta Superintendencia, a fin de enviar la nómina actualizada con todos los datos exigidos.
 
-sociedades.Sin embargo, las sociedades así adquiridas a partir de esta fecha,
+Cuando, a juicio de una institución financiera, una persona natural o jurídica relacionada haya perdido las características que llevaron a considerarla como tal, la entidad correspondiente deberá comunicarlo a esta Superintendencia mediante una carta y hacer llegar los antecedentes que justifiquen su eliminación de la respectiva nómina. Sólo una vez que este Organismo haya manifestado su conformidad por escrito, se podrá considerar que la persona de que se trata ha dejado de ser relacionada.
 
-quedarán comprendidas entre las relacionadas a la institución que recibió las
+### 5. Información a esta Superintendencia
 
-acciones si antes eran consideradas como tales o si existe cualquiera otra
-
-relación adicional, como las mencionadas en el N° 1 precedente.
-
-### 5. Personas que pierden su calidad de relacionadas
-
-Cuando, a juicio de una institución financiera, una persona natural o jurídica
-
-relacionada ha perdido las características que han hecho considerarla como tal,
-
-la entidad correspondiente deberá comunicarlo a esta Superintendencia y hacer
-
-llegar los antecedentes que justifiquen su eliminación de la respectiva nómina.
-
-Sólo una vez que este Organismo haya manifestado su conformidad por escrito, se
-
-podrá considerar que la persona de que se trata ha dejado de ser relacionada.
+Las instituciones financieras deberán entregar a este Organismo la información relativa a las personas relacionadas de que trata el N° 4 precedente y, cuando corresponda, los antecedentes sobre las operaciones que esas personas realicen con la institución, en la forma y dentro de los plazos establecidos en el Manual del Sistema de Información.
 
 ### II. MEDICION DE LA CONCENTRACION DE CREDITOS
 
-Para determinar el monto total de los créditos otorgados a deudores
+### 1. Cómputo de los créditos
 
-relacionados, deberán sumarse todos los montos adeudados por las personas y
+Para computar los créditos otorgados a personas relacionadas con el objeto de determinar el grado de concentración crediticia y el cumplimiento de los límites de que trata el título III de este Capítulo, se considerarán todos los montos adeudados por las personas y sociedades clasificadas en la categoría de relacionadas de acuerdo a los criterios establecidos en el título I, que tengan la calidad de deudores directos según lo indicado en el N° 4 del título II del Capítulo 12-3 de esta Recopilación.
 
-sociedades clasificadas en la categoría de relacionadas de acuerdo a los
+La medición incluye, en consecuencia, los créditos correspondientes a:
 
-criterios establecidos en el título I de este capítulo. Cuando se trate de
+a) Colocaciones efectivas o contingentes registradas en el activo;
 
-créditos expresados en monedas extranjeras, éstos deben convertirse a moneda
+b) Cartera registrada en cuentas de orden, como es el caso de aquella que se encuentre vendida al Banco Central de Chile con obligación de recompra en virtud del Acuerdo N° 1.555 y sus modificaciones, así como la rescatada del Instituto Emisor con motivo de la novación de que trata el acuerdo 1953-11-890816.
 
-local de acuerdo con el tipo de cambio de representación contable establecido
+c) Operaciones de compra de valores mobiliarios o efectos de comercio, cuando hayan sido vendidos con pacto de retrocompra por una persona relacionada.
 
-por esta Superintendencia.
+d) Instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras.
 
-### 1. Créditos en poder de la institución
+Cuando se trate de créditos expresados en monedas extranjeras, éstos deben convertirse a moneda local de acuerdo con el tipo de cambio de representación contable establecido por esta Superintendencia.
 
-Deberán incluirse, para la medición de la concentración de colocaciones, todos
+Los montos incluirán, además del capital adeudado, los reajustes e intereses por cobrar que se encuentren registrados en la contabilidad de acuerdo con las instrucciones de esta Superintendencia. Por consiguiente, incluirán los reajustes e intereses registrados tanto en el activo como aquellos que estuvieren anotados en cuentas de orden.
 
-los créditos vigentes y vencidos registrados en la cartera de colocaciones de la
+En el caso de los instrumentos que se mantengan en la cartera de inversiones financieras, se considerará el valor par de los respectivos documentos con prescindencia del importe en que éstos se encuentren registrados en la contabilidad.
 
-institución incluyendo, además del capital adeudado, todos los reajustes e
+En todo lo anterior, deben considerarse los créditos vigentes y vencidos y además, cuando corresponda según lo dispuesto en el N° 2 siguiente, los créditos que hayan sido castigados.
 
-intereses por cobrar que se encuentren registrados en la contabilidad.
+### 2. Castigos, remisiones y ventas de créditos
 
-### 2. Créditos vendidos al Banco Central de Chile
+2.1. Cómputo de créditos castigados.
 
-Los créditos a personas relacionadas que se encuentren vendidos al Banco Central
+Los créditos a personas relacionadas con la institución financiera que se castiguen, se incluirán durante un período de cuatro años en el monto de la deuda relacionada, de acuerdo a su valor al momento del castigo.
 
-de Chile con obligación de recompra en virtud del Acuerdo N° 1.555 y sus
+En el caso de la cartera cedida y recomprada al Banco Central de Chile, se tendrá como fecha del castigo la correspondiente a la recompra y se computará por el valor que aquella tenía al readquirirse.
 
-modificaciones, se incluirán en el cómputo de los créditos a personas
+Cuando se trate de créditos rescatados con motivo de la novación de que trata el acuerdo 1953-11-890816 antes señalado, el plazo de cuatro años se contará desde la fecha en que la institución financiera registre el castigo de los respectivos créditos y se considerará el valor registrado en cuentas de orden.
 
-relacionadas. En el caso de los créditos que se encontraban vigentes al momento
+2.2. Remisiones o ventas de créditos.
 
-de ser cedidos, se deben agregar los intereses y reajustes correspondientes, ya
+Las instituciones financieras no podrán remitir o vender bajo la par obligaciones de personas relacionadas.
 
-sea que se hayan generado antes o después de la cesión.
+2.3. Excepciones en casos calificados.
 
-3. Créditos a personas relacionadas declaradas en quiebra o sujetas a convenio.
+Atendido lo estipulado en la primera parte del N° 2 del artículo 84 de la Ley General de Bancos, las instituciones financieras quedarán eximidas de las disposiciones de los numerales 2.1 y 2.2 precedentes, en la medida en que obtengan una aprobación expresa de esta Superintendencia. Esta se otorgará siempre que la institución demuestre que se cumplen los siguientes requisitos:
 
-Los créditos otorgados a personas relacionadas con la institución financiera
+i) que los porcentajes de castigo y remisión, según el caso, para deudores relacionados son, sobre bases comparables, iguales o inferiores a los correspondientes porcentajes para el resto de la cartera en poder de la institución.
 
-que, a partir de esta fecha, sean declaradas en quiebra o que acuerden un
+ii) que la institución ha realizado todos los esfuerzos de cobranza de esos créditos incluyendo las instancias judiciales correspondientes, con un celo similar al aplicado en la cobranza del resto de la cartera de créditos. Asimismo, se deberá acreditar, mediante certificado visado por la fiscalía de la institución, que el deudor no tiene capacidad económica para servir sus obligaciones y que carece de bienes en los cuales hacer efectivas las mismas.
 
-convenio con sus acreedores, deben incluirse en el cálculo del monto total de
+3. Créditos de menos de 3.000 U.F. otorgados a personas naturales relacionadas.
 
-créditos relacionados.
-
-4. Créditos castigados o remitidos. Intereses y reajustes registrados en cuentas
-
-de orden.
-
-Los créditos a personas relacionadas con la institución financiera que se
-
-castiguen a partir de esta fecha, ya sea que pertenezcan a la institución o sean
-
-recomprados al Banco Central de Chile, se incluirán durante un período de cuatro
-
-años en el monto de la deuda relacionada, de acuerdo a su valor al momento del
-
-castigo. Para el caso de esta última cartera, se considerará el valor que ella
-
-tenía al readquirirse.
-
-Las instituciones financieras no podrán remitir o vender bajo la par
-
-obligaciones de personas relacionadas.
-
-Los intereses y reajustes registrados en cuentas de orden, provenientes de
-
-créditos vigentes otorgados a deudores relacionados clasificados en categoría D,
-
-como asimismo de aquellos clasificados en categoría C por más de un año y de
-
-créditos relacionados vendidos, se incluirán en el cálculo del total de
-
-colocaciones relacionadas.
-
-No obstante lo dispuesto en este número y considerando lo estipulado en la
-
-primera parte del N° 2 del artículo 84 de la Ley General de Bancos, las
-
-instituciones financieras quedarán eximidas de las disposiciones de los incisos
-
-1° y 2° anteriores, en la medida en que obtengan una aprobación expresa de esta
-
-Superintendencia. Esta se otorgará siempre que la institución demuestre que se
-
-cumplen los siguientes requisitos:
-
-i) que los porcentajes de castigo y remisión, según el caso, para deudores
-
-relacionados son, sobre bases comparables, iguales o inferiores a los
-
-correspondientes porcentajes para el resto de la cartera en poder de la
-
-institución.
-
-ii) que la institución ha realizado todos los esfuerzos de cobranza de esos
-
-créditos incluyendo las instancias judiciales correspondientes, con un celo
-
-similar al aplicado en la cobranza del resto de la cartera de créditos.Asimismo,
-
-se deberá acreditar, mediante certificado visado por la fiscalía de la
-
-institución, que el deudor no tiene capacidad económica para servir sus
-
-obligaciones y que carece de bienes en los cuales hacer efectivas las mismas.
-
-### 5. Inversiones financieras
-
-La adquisición de valores mobiliarios de renta fija por parte de una institución financiera, corresponde a un crédito al emisor de esos valores. En consecuencia,los instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras, deberán agregarse al total de créditos concedidos apersonas o empresas relacionadas, incluyendo para tal efecto el
-
-capital más los reajustes e intereses devengados, independientemente del valor al cual estos instrumentos estén registrados en la contabilidad.
-
-Asimismo, en el caso de los instrumentos emitidos por empresas relacionadas que se declaren en quiebra o que acuerden convenio con sus acreedores, deberán aplicarse los mismos criterios enunciados anteriormente para las colocaciones.
-
-De igual manera, a las inversiones financieras castigadas se les dará un tratamiento .similar al señalado para colocaciones castigadas.
-
-También deberán incluirse, en la medición de los créditos relacionados, los montos involucrados en compras de efectos de comercio y valores mobiliarios con pacto de retroventa que la institución haya realizado a personas naturales o jurídicas relacionadas a ella y que estuvieren contabilizados en el rubro inversiones.
-
-6. Créditos de menos de 3.000 U.F. otorgados a personas naturales relacionadas.
-
-Las deudas de personas naturales relacionadas a la institución cuyo valor total
-
-respecto de un mismo deudor, incluyendo capital, intereses y reajustes, no
-
-supere el equivalente a 3.000 unidades de fomento, no se incluirán en el cómputo
-
-de la cartera relacionada.
-
-7.- Cumplimiento del plan de desconcentración. Condonación de créditos anteriores al 27 de noviembre de 1986.
-
-No obstante lo señalado en el N°4 de este título, para los solos efectos del cumplimiento de los planes de desconcentración a que se refiere el artículo 3° transitorio de la Ley N° 18.576, las entidades financieras podrán remitir créditos adeudados por personas relacionadas con la institución, que hubieran sido cursados con anterioridad al 27 de noviembre de 1986, siempre que se cumplan las siguientes condiciones, además de la relativa a la fecha de otorgamiento:
-
-a) que la institución financiera acredite que el acuerdo global alcanzado con el deudor, resulta la mejor alternativa para proteger los intereses de la institución; y,
-
-b) que se cuente con un informe de la fiscalía de la institución y de una empresa de auditores externos o de una firma evaluadora de instituciones financieras registradas en esta Superintendencia, en los que se certifique la carencia de recursos del deudor para pagar una suma superior a la convenida.
-
-Las instituciones financieras que cursen remisiones al amparo de las disposiciones del presente número deberán comunicarlas a esta Superintendencia dentro del segundo día hábil de efectuadas, acompañando en cada caso los antecedentes a que se refieren las letras
-
-- **a)** y
-
-- **b)** anteriores. Esas mismas instituciones, no podrán condonar otros créditos de deudores relacionados mientras no se compense el exceso de remisiones que resulte de comparar las efectuadas por aplicación de lo dispuesto en este número, con los porcentajes de remisión registrados para el resto de la cartera no relacionada, a que alude la letra
-
-- **i)** del N°4 de este título. Esa compensación podrá producirse por pagos adicionales de los deudores relacionados cuyas deudas hayan sido remitidas o bien por condonaciones a deudores no vinculados a la institución financiera.
+No obstante lo señalado en los numerales precedentes, no se incluirán en el cómputo de los créditos otorgados a personas relacionadas las deudas de personas naturales vinculadas a la institución cuyo valor total respecto de un mismo deudor, incluyendo capital, intereses y reajustes, no supere el equivalente a 3.000 unidades de fomento.".
 
 ### III. LIMITES DE CREDITO A DEUDORES RELACIONADOS
 
-El artículo 84 N° 2 de la Ley General de Bancos determina los márgenes a que
-
-están afectos los créditos que se otorguen a deudores relacionados con la
-
-propiedad o gestión de la empresa. A la vez, se refiere a condiciones bajo las
-
-cuales pueden concederse préstamos a estos deudores. Quedan comprendidos en esos
-
-límites tanto los créditos efectivos como los créditos contingentes y los
-
-instrumentos que la institución mantenga como inversiones financieras, emitidos
-
-por las personas a que se refiere el título I de este capítulo.
+El artículo 84 N° 2 de la Ley General de Bancos determina los márgenes a que están afectos los créditos que se otorguen a deudores relacionados con la propiedad o gestión de la empresa. A la vez, se refiere a condiciones bajo las cuales pueden concederse préstamos a estos deudores. Quedan comprendidos en esos límites los créditos que se señalan en el título II de este Capítulo, otorgados a las personas a que se refiere el título I.
 
 ### 1. Condiciones en que pueden pactarse los créditos a personas relacionadas
 
@@ -18185,90 +17843,6 @@ que se refieren los N°s. 2 y 3 de este título.
 Cualquiera infracción a estas disposiciones será castigada con una multa del 20%
 
 sobre el monto del crédito concedido.
-
-### IV. PLANES DE DESCONCENTRACION
-
-Las instituciones financieras que al 27 de noviembre de 1986 se encontraban
-
-excedidas en los márgenes para créditos a personas relacionadas que establece la
-
-Ley, están afectas a planes generales de desconcentración. El resto de las
-
-instituciones han quedado sujetas, desde esa fecha, a los límites para créditos
-
-relacionados, descritas en el título III de este capítulo.
-
-De acuerdo con lo que establece el artículo tercero transitorio de la Ley N°
-
-18.576, los planes de desconcentración señalados precedentemente tendrán un
-
-plazo que vence el 31 de diciembre de 1990.
-
-Cabe señalar que estos planes se refieren, según el caso, al límite crediticio
-
-para cada grupo relacionado por separado, al límite para el total de créditos
-
-apersonas relacionadas o a ambos.
-
-Mientras la institución se encuentre excedida en el límite global de una vez el
-
-capital y reservas, no podrá en ningún caso otorgar nuevos créditos a grupos o
-
-personas relacionados. Esta limitación es aplicable incluso cuando se trate de
-
-créditos a un grupo o persona que no se encuentre excedido en sus márgenes
-
-individuales.
-
-Tanto los planes de desconcentración para cada grupo de personas relacionadas
-
-ala institución financiera, como los referidos al total de ellos, contemplarán
-
-un ajuste lineal que se aplicará bimestralmente a partir del límite
-
-correspondiente al 1° de julio de 1987, de tal manera de alcanzar los márgenes
-
-legales el 31 de diciembre de 1990.
-
-### V. OTRAS DISPOSICIONES
-
-### 1. Información a esta Superintendencia
-
-Corresponderá a las instituciones financieras comunicar oportunamente a esta
-
-Superintendencia el nombre o razón social de todo nuevo deudor relacionado a la
-
-propiedad o gestión de la institución.
-
-Las instituciones financieras deberán entregar a este Organismo la información
-
-de que tratan los formularios M-45 "Colocaciones y captaciones relacionadas" y
-
-M-46 "Inversiones financieras relacionadas", de conformidad con las
-
-instrucciones y plazos establecidos en el "Manual del Sistema de Información".
-
-### 2. Confección de las nóminas de los grupos de personas relacionadas
-
-Esta Superintendencia dispone de una nómina de personas relacionadas con cada
-
-institución financiera, que está en conocimiento de estas últimas. En aquellas
-
-instituciones en que haya más de un grupo de personas relacionadas, la Ley
-
-requiere que se identifique a cuál de los grupos relacionados pertenece cada una
-
-de las personas relacionadas. Para controlar el cumplimiento de las normas que
-
-rigen la materia y la confección de los planes de desconcentración que
-
-correspondan, este Organismo establecerá provisoriamente la composición de estos
-
-grupos. Una vez que éstos se hayan dado a conocer, las entidades podrán pedir
-
-reconsideración ante esta Superintendencia dentro de los 30 días siguientes,para
-
-lo cual deberán aportar antecedentes respecto de el o los deudores en cuestión.
 
 CAPITULO 12-5 (Bancos y Financieras)
 
@@ -31128,7 +30702,9 @@ En caso de que la institución no mantenga obligaciones que provengan de contrat
 
 4.3. Nota sobre operaciones con partes relacionadas.
 
-Esta nota se presentará con información separada bajo los siguientes títulos: "a) Créditos otorgados a personas relacionadas"; "b) Cumplimiento de planes de desconcentración de créditos con partes relacionadas"; y, "c) Otras operaciones con partes relacionadas", debiendo utilizarse la redacción incluida en el Anexo N° 5 de este Capítulo, cuando corresponda.
+Esta nota se presentará con información separada bajo los siguientes títulos: "a) Créditos otorgados a personas relacionadas"; y,
+
+"c) Otras operaciones con partes relacionadas", debiendo utilizarse la redacción incluida en el Anexo N° 5 de este Capítulo, cuando corresponda.
 
 Para los efectos de esta nota, se entienden como partes relacionadas a las personas naturales o jurídicas vinculadas con la institución financiera según lo instruido en el Capítulo 12-4 de esta Recopilación Actualizada de Normas.
 
@@ -31144,13 +30720,9 @@ En concordancia con las disposiciones del Capítulo 12-4 de esta Recopilación, 
 
 Junto con las cifras correspondientes a los créditos otorgados, se incluirán los montos a que ascienden sus respectivas garantías, considerando sólo aquellas que cumplan con las características especificadas en el artículo 84 de la Ley General de Bancos. Para este efecto las instituciones deberán atenerse a las disposiciones del Capítulo 12-3 de esta Recopilación Actualizada de Normas, incluidas las instrucciones sobre su valorización.
 
-4.3.2. Información sobre cumplimiento de planes de desconcentración.
+4.3.2. Información sobre otras operaciones con partes relacionadas.
 
-La segunda parte de esta nota (letra b), tiene como propósito informar, en términos generales, acerca del cumplimiento del plan de desconcentración crediticia a que está sujeta la institución financiera de acuerdo con lo dispuesto en el artículo 3° transitorio de la Ley N° 18.576 y de los planes individuales de desconcentración según lo precisado en el N° 2 del artículo 84 de la Ley General de Bancos y de acuerdo con lo señalado en el Capítulo 12-4 antes mencionado.
-
-4.3.3. Información sobre otras operaciones con partes relacionadas.
-
-En la tercera parte de la nota (letra c) se revelarán los antecedentes relativos a contratos, prestaciones de servicios y otras operaciones celebrados o realizados con personas naturales o jurídicas relacionados, con excepción de aquellas transacciones que normalmente originan resultados que deben presentarse en las siguientes partidas del formulario MR1: 5105 a 5620, 5705 a 5720, 7105 a 7620, 7705 a 7725 y 7905.
+En la segunda parte de esta nota letra b) se revelarán los antecedentes relativos a contratos, prestaciones de servicios y otras operaciones celebrados o realizados con personas naturales o jurídicas relacionados, con excepción de aquellas transacciones que normalmente originan resultados que deben presentarse en las siguientes partidas del formulario MR1: 5105 a 5620, 5705 a 5720, 7105 a 7620, 7705 a 7725 y 7905.
 
 La información acerca de las transacciones con partes relacionadas debe referirse, al menos, a lo siguiente:
 
@@ -31574,6 +31146,8 @@ En este caso deben tenerse presente también las instrucciones signadas con los 
 
 El total de créditos relacionados que se considerará para indicar el porcentaje de los mismos deberá incluir la cartera vendida al Banco Central de Chile. El porcentaje se calculará con respecto al total obtenido de la misma forma.
 
+> **Nota.** La letra D, del N° 3 de la Circular 2623, SBIF, promulgada el 11.06.1991, modifica el presente anexo. Sin embargo las modificaciones introducidas no se han incorporado al presente texto actualizado por no indicar la norma donde ella se deben introducir.
+
 ANEXO N° 6
 
 Modelo de nota sobre inversiones en sociedades.
@@ -31941,6 +31515,8 @@ Por otra parte, las operaciones de esta especie, realizadas con terceros fueron 
 > **Nota.** La letra F) de la Circular 2574, SFIF, promulgada el 10.10.1990, modifica el presente Anexo, estableciendo un nuevo texto para el modelo de la Nota 3, en la sección relativa a los créditos otorgados a partes relacionadas con la institución.
 
 > **Nota.** NOTA 1 Circular 2580, SFIF, promulgada el 06.12.1990, modifica el presente Anexo, en la sección relativa a los créditos otorgados a partes relacionadas con la institución.
+
+> **Nota.** NOTA 2 El N° 4 de la Circular 2623, SBIF, promulgada el 11.06.1991, sustituye las instrucciones para la preparación de la Nota N° 3, contenidas en el presente Anexo.
 
 CAPITULO 18-3 (Bancos y Financieras)
 
