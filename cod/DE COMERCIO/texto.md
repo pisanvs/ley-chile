@@ -6,6 +6,12 @@ CODIGO DE COMERCIO
 
 DISPOSICIONES GENERALES
 
+#### Artículo 1°
+
+<!-- parte:8726585 -->
+
+El Código de Comercio rige las obligaciones de los comerciantes que se refieran a operaciones mercantiles, las que contraigan personas no comerciantes para asegurar el cumplimiento de obligaciones comerciales, y las que resulten de contratos exclusivamente mercantiles.
+
 #### Artículo 2°
 
 <!-- parte:8725250 -->
