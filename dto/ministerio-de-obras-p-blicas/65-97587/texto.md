@@ -1,0 +1,3 @@
+Por decreto MOP. N° 65, de 30 de enero de 1998, se expropiaron los lotes de terreno N°s 3, 31-A y 37-B, superficie 48, 154 y 1.003 m2., respectivamente, roles de avalúos 4464-2, 2589-17 y 2589-10, comuna de San Bernardo.para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte-Sur, Las Acacias-Río Maipo y se acordó precio de la indemnización con sus propietarios don Oscar Augusto Morales Orellana y Guiverth Alonso Morales Orellana, Inversiones Gazcón S.A. y Jacqueline Henriette Wiickens Recart, ascendente a las cantidades de $3.081.968, para el lote N°3, $4.915.160, para el lote N° 31 -A y $31.038.568, para el lote N° 37-B.
+
+Fiscal del Ministerio de Obras Públicas.
