@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 1703 de 05 de Diciembre de 1986, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme decreto Supremo No. 458 Vivienda y Urbanismo, Decretos Leyes N°s. 1289 y 2186 de inmueble calle Pantaleón Vélez Silva No. 1461 rol 3548-26 de Santiago dominio aparente Julia Olivares Arancibia. Deslindes según plano confeccionado Municipalidad Norte 7,85 mts. 0,20 mts. con otros propietarios; Sur, 8,05 tots. calle Pantaleón Vélez Silva, Oriente, 19,50 mts. resto propiedad; Poniente, 19,50 mts. otro propietario. Superficie aproximada 157 m2. Indemnización provisional $ 621,610.- pagadera contado.
+
+- Carlos Bombal Otaegui, Alcalde de Santiago.
