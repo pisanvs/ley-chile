@@ -1,0 +1,3 @@
+Por resolución Nº 1.429, de 23 de julio de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96110119, presentada por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para operar un centro de cultivo ubicado en Isla Chaculay, Canal Rodríguez, Islote Sur, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 23 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
