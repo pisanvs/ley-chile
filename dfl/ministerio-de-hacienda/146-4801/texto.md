@@ -1,0 +1,1 @@
+Fija las plantas y remuneraciones de los funcionarios del Servicio Médico Nacional de Empleados.
