@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.980, de 30 de noviembre del 2001, se expropiaron los lotes de terreno Nºs. 24-K y 24-L, superficie 751 y 8.924 m2, rol de avalúo en trámite, comuna de Casablanca, para la obra Red Litoral Central Sector 3: Eje Costero interior Subtramo Rosario - Orrego Abajo Kms. 16.840,00 al 20.673,30, Quinta Región y se acordó el valor de indemnización con su propietario Agrícola Teutsch Limitada, ascendente a la cantidad de $8.552.291.
+
+- Fiscal del Ministerio de Obras Públicas.
