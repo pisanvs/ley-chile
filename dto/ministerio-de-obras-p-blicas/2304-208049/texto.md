@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.304, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº15-A, superficie 76 m2, Rol Nº146-63, comuna de San Vicente, VI Región, para la obra "Mejoramiento Camino Ruta H- 724, Sector La Gruta-Pueblo de Indios, Km. 0,000 a Km. 1,187, y Sector Ruta H-730. Km. 1,600 al Km. 3,292" y se acordó el valor de indemnización con su propietaria María Luisa Sandoval Zamorano, ascendente a la cantidad de $17.079.252.-
+
+Fiscal del Ministerio de Obras Públicas.
