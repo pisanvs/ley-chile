@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.799, de 30 de junio de 2000, se expropió el lote de terreno Nº6, superficie 233 m2, Rol de avalúo 136-269, comuna de Paine, para la obra Concesión Internacional Ruta 5, Tramo Santiago-Talca, Sector B, Región Metropolitana y se acordó el valor de indemnización con su propietaria María Lucila Silva Berríos, ascendente a la cantidad de $2.018.551.
+
+Fiscal del Ministerio de Obras Públicas.
