@@ -1,0 +1,3 @@
+Por Resolución Nº 39, de 13 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones Nº 997 de 1986 y Nº 706 de 1994, ambas de esta Subsecretaría que autorizaron a PESQUERA CHRIS LTDA., para operar la nave "Carlos Darwin", matrícula 1843, en virtud de lo señalado en el artículo 143 letra b), del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al paralizar sus actividades pesqueras por más de 12 meses consecutivos.
+
+Valparaíso, 13 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
