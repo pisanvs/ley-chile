@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.468, de 30 de agosto de 2002, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP Nº774, de fecha 31 de marzo de 1999, en la parte que se refiere al Convenio Directo de Precio Ad Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno Nº38. Consígnese judicialmente el monto de la indemnización provisional fijada por la comisión de peritos con fecha 3 de febrero de 1998, ascendente a la cantidad de $304.800.-
+
+Fiscal del Ministerio de Obras Públicas.
