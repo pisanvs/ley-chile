@@ -1,0 +1,3 @@
+Por Resolución N° 1.072 de 24 de Diciembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones N° 452, de 1987 y N° 674, de 1988, ambas de esta Subsecretaría, que autorizaron a don DAGOBERTO VERA ALVARADO, R.U.T. N° 1.395.990-0, para operar un establecimiento de cultivo del recurso alga del género, Gracilaria spp., ubicado en la localidad de Quinched, Comuna de Chonchi, Provincia de Chiloé, X Región, por renuncia de su titular.
+
+Valparaíso, 24 de Diciembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
