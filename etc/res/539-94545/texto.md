@@ -1,0 +1,3 @@
+Por resolución No. 539 de 29 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, -parte inmueble-, ubicado en Ricardo Santa Cruz No. 718, presunto rol avalúos No. 630-16 comuna de Santiago, aparentemente dominio de don Alejandro Pozo Arriaza. Comisión integrada por peritos Ricardo Carvallo Rodríguez y Luis del Pozo Concha, arquitectos y Raúl Varela Hernández, ingeniero civil, según informe de 2 de diciembre 1988, fijó monto provisional indemnización en $ 1.521.300.-, pagadera al contado.
+
+- Director SERVIU Metropolitano.
