@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.238, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs 6, 7, 11, 12, 17, 18, 19, 21, 26, 8 y 18-A, superficies 221,50, 114,00, 875,00 307,00, 656,00, 301,00, 319,00, 295,00, 1.188,50, 1.445,00, y 540.00, m2., rol de avalúo 2029-7, comuna de Melipilla, para la obra Camino Ruta G-380, Sector Santa Teresa Puente Pelvín, Rol 2029-7, y se acordó precio de la indemnización con su propietario Comercial e Inversiones Marquen Limitada, ascendente a la cantidad de $17.656.072.-
+
+Fiscal del Ministerio de Obras Públicas.
