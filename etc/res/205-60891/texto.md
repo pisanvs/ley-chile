@@ -1,0 +1,3 @@
+Por Resolución Nº 205, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase parcialmente sin efecto la Resolución Nº 282, de 1985, de esta Subsecretaría, que autorizó a EMPRESA PESQUERA APIAO LIMITADA, para realizar actividades de acuicultura, sólo en cuanto se refiere a la autorización contenida en el numeral 2º, inciso 2º, de la Resolución señalada precedentemente, para operar un centro de cultivo en Estero Pindo, Isla Quehui, Comuna de Castro, X Región, en virtud de la renuncia formulada por su titular.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
