@@ -1,0 +1,9 @@
+Por decreto exento MOP Nº1.551, de 22 de octubre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para la Empresa de Servicios Sanitarios del Bío-Bío S.A., los lotes de terreno Nºs. 1, 2, 3, 4, 5, 5-A, 6, 7, 8, 9, 10, 11, 12 y 13, para la obra Aducción Nonguén, que figuran a nombre de Sáez Araneda Carlos, Maturana Muñoz Hernán, Agrícola y Forestal La Aguada, González Vergara Hilda D Ramonh, Castillo Sandoval María Aydee, Seguel Sepúlveda Ignacio Suc., Corp. Iglesia de Jesucristo Sud, Campano Solar Raquel Elena y Cament Carle René Manuel, roles de avalúos 04003-00076, 04002-00010, 04002-00009, 04002-00025, 04003-00054, 04020-00054, 04000-00004, 04002-00067, 04001-00004 y 04001-00003, comuna de Concepción, VIII Región, superficies 928,24; 2.409,14;
+
+5.739,82; 678,22; 1.462,08; 1.080,79; 2.362,88; 188,91;
+
+1.989,50; 2.595,05; 1.909,25; 256,23; 551 y 1.792,57 M2., respectivamente. La Comisión de Peritos, fijó con fecha 9 de agosto de 2001, el monto de la indeminización provisional en la cantidad de $278.472, para el lote Nº1; $722.742, para el lote Nº2; $2.008.937, para el lote Nº3; $271.288, para el lote Nº4, $584.832, para el lote Nº5; $324.237, para el lote Nº5-A; $1.181.440, para el lote Nº6; $132.237, para el lote Nº7; $1.193.700, para el lote Nº8; $1.038.020, para el lote Nº9;
+
+$859.163, para el lote Nº10; $115.304, para el lote Nº11; $275.500, para el lote Nº12 y $1.434.056, para el lote Nº13, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal de Ministerio de Obras Públicas.
