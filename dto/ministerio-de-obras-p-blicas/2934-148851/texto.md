@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.934, de 30 de septiembre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 3, 4, 7, 18, 19 y 20, para la obra Camino Costero Sur Sector Tranapuente Puerto Saavedra Porma Tramo Chelle Hualpín Puente Peule, que figuran a nombre de José A. Alarcón Villalobos, Alamiro Durán Durán y Juan Blanco Calfún, roles de avalúo 212-56, 212-53 y 215-198, Comuna Teodoro Schmidt, IX Región, superficies 86,6; 1.732,1; 87,2; 715,5; 33,8 y 816 M2. La Comisión de Peritos compuesta por los señores Lautaro Soto Rodríguez, Enrique Smith Mason y Pablo Mansilla Aravena, fijó con fecha 15 de abril de 1998 los valores provisionales de las indemnizaciones en las cantidades de $17.320 el lote Nº 3, $346.420 el lote Nº 4, $17.440 el lote Nº 7, $135.945 el lote Nº 18, $8.450 el lote Nº 19 y $272.000 el lote Nº 20. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
+
+(1º)
