@@ -1,0 +1,11 @@
+AUTORIZA A DON EMILIO ZAPATA SAN MARTIN PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 332 de 22 de Febrero de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Emilio Zapata San Martín, RUT No. 3.131.576-K, domiciliado en la ciudad de Coronel, Callejón No. 1, casa No. 398, Población Villa Alegre, para operar con la nave "Don Emilio", en el litoral de las Regiones que a continuación se indica, donde podrá extraer los siguientes recursos hidrobiológicos: a) Litoral de la I Región al paralelo 43° L.S., excluidas las aguas interiores de la X Región: Albacora o pez espada, Congrio colorado, Congrio dorado, Congrio negro, Merluza común, Pejegallo, Tollo, Raya, Cojinoba del Norte, Cojinoba del Sur, Corvina, Lisa, Machuelo o tritre, Merluza de cola y Pejerrey de mar.
+
+b) Litoral de la III a VII Región y de la IX a la X Región: Anchoa o anchoveta, Caballa, Jurel, Sardina común y Sardina. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoriades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por el peticionario para extraer peces demersales en el litoral comprendido al Sur del paralelo 43° L.S.. incluidas las aguas interiores de la X Región, atendido el estado de plena explotación de esta pesquería.
+
+Deniégase, además, la autorización para extraer con la nave "Don Emilio", el recurso bacalao de profundidad o Mero, de conformidad con lo dispuesto en el Decreto No. 439, de 1985. del Ministerio de Economía, Fomento y Reconstrucción. Deniégase, finalmente, la autorización solicitada por el peticionario para extraer de las Regiones I II y VIII los recursos Anchoa, Caballa, Jurel, Sardina común y Sardina, de conformidad con lo establecido en el Decreto No. 436, vigente a la fecha de esta solicitud.
+
+Valparaíso, 22 de febrero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
