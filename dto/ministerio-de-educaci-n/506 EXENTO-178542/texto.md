@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO Nº 506 EXENTO, DE 2000
+
+Por decreto exento Nº 506, de fecha 10 de noviembre de 2000, del Ministerio de Educación, se revoca el reconocimiento oficial del Centro de Formación Técnica Iquique English College de la ciudad de Iquique, organizado por la Sociedad Manantiales Educacional Limitada o Manantiales Limitada y elimínase a dicho centro del registro correspondiente en que se encuentra inscrito en el Nº 150.
+
+Por este mismo documento, se derogan los decretos exentos Nº 35 del 2 de febrero de 1987, ampliado por decreto exento Nº 81 del 1º de marzo de 1990, modificado por decreto exento Nº 117 del 16 de marzo de 1993, que autorizaron el funcionamiento del Centro de Formación Técnica Iquique English College de la ciudad de Iquique y las resoluciones exentas Nº 677 del 6 de abril de 1987; Nº 587 del 21 de marzo de 1988, Nº 3.436 del 21 de diciembre de 1988; Nº 1.175 del 17 de abril de 1989; Nº 3.319 del 28 de diciembre de 1989; decreto exento Nº 392 del 28 de diciembre de 1990; Nº 143 del 25 de junio de 1991; Nº 271 del 1º de octubre de 1991; Nº 86 del 10 de abril de 1992 y Nº 348 del 21 de junio de 1996, que aprobaron planes y programas de estudios de las carreras técnicas para el centro de formación técnica mencionado.
+
+Santiago, 30 de noviembre de 2000.- José Weinstein Cayuela, Subsecretario de Educación.
