@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.701, de 30 de junio de 2000, se expropiaron los lotes de terreno Nºs. 1 y 2, superficies 78 m² y 352 m², rol de avalúo 3983-61, comuna de Talca, para la obra Concesión Internacional Ruta 5, tramo: Talca - Chillán, Séptima Región, y se acordó el valor de indemnización con sus propietarios Arnoldo Ramiro Villaseca Varela y Otros, ascendente a la cantidad total de $1.585.129.
+
+Fiscal del Ministerio de Obras Públicas.
