@@ -28006,10 +28006,6 @@ b) se indicarán los efectos de esas transacciones en cuanto al aumento o libera
 
 Para el efecto deberán seguirse las pautas generales establecidas para la preparación y publicación de estados financieros, en orden a informar las transacciones en las notas sólo si su importe es igual o superior a un millón de pesos, considerando, en este caso, el valor de los créditos de cada operación en su conjunto.
 
-3.4.3.- NOTA sobre provisiones para colocaciones.
-
-Las instituciones que mantengan provisiones para la cartera de colocaciones que excedan de las provisiones mínimas exigidas por esta Superintendencia, podrán incluir una nota explicativa con la redacción que se indica en el Anexo N° 2 este Capítulo.
-
 ANEXO N°1
 
 MODELO DEL ESTADO DE SITUACION.
@@ -28023,6 +28019,8 @@ Los modelos señalados precedentemente se utilizarán siguiendo las mismas instr
 El modelo del estado de resultados que debe utilizarse contiene, sin embargo, menos líneas que aquel correspondiente al ejercicio anual. La diferencia está sólo en la presentación resumida de las líneas signadas con las letras O, P y Q, de tal manera que los importes que corresponde consignar en cada una de estas líneas corresponderán a la suma de aquellos que se identifican con las mismas letras en el estado de resultados no resumido indicado en el Anexo N° 1 del Capítulo 18-1 (por ejemplo: línea Q = Q1+Q2+Q3).
 
 En lo que respecta a las instrucciones para adaptar los modelos cuando no existan saldos en alguna línea, debe entenderse que en el caso del estado de situación, la inexistencia de saldos está referida tanto a la fecha del estado como al cierre del ejercicio anterior, debiendo coincidir en ambas fechas dicha inexistencia.
+
+> **Nota.** La letra B de la Circular 2797, SBIF, promulgada 17.11.1994, modifica el presente Anexo, a fin de incorporar la línea "PROVISIONES VOLUNTARIAS".
 
 ANEXO N° 2
 
@@ -28044,21 +28042,21 @@ Los resultados de las Instituciones financieras, en el curso del resto del ejerc
 
 (1): Deberá indicarse la fecha correspondiente al último día del mes anterior al que se refiere el estado de situación, por tratarse del IPC desfasado.
 
-MODELOS.. DE NOTA N° 2
+MODELOS DE NOTA N° 2.
 
 Instituciones que mantienen obligación subordinada:
 
-NOTA N°2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
+NOTA N° 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
 
-Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N° 18 401. Este compromiso, denominado "obligación subordinada" se expresa en Unidades de Fomento y está afecto a un incremento de 5% anual ..../por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/... De acuerdo con la ley esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual. ./deducida la parte de ellos que corresponda a las acciones con preferencia/ . y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras
+Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N° 18401 Este compromiso, denominado "obligación subordinada" se expresa en Unidades de Fomento y está afecto a un incremento de 5% anual /por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/.. De acuerdo con la ley esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual ./deducida la parte de ellos que corresponda a las acciones con preferencia/ y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
 
-Al .... de ................. de 199..., la obligación subordinada asciende a U.F............ (UF ............ al 31.12 9...) . Para su amortización se ha constituido una provisión ascendente a $ ...........millones (U.F ........ ) que corresponde a aquella parte de los excedentes provisionales del periodo destinados a ese fin y que se muestra en el balance general como "Provisiones para pago de obligación subordinada al Banco Central de Chile"
+Al de de 199 , la obligación subordinada asciende a U.F. (UD ... al 31 12 9) Para su amortización se ha constituido una provisión ascendente a $ ... millones (UF ) que corresponde a aquella parte de los excedentes provisionales del período destinados a ese fin y que se muestra en el balance general como "Provisiones para pago de obligación subordinada al Banco Central de Chile".
 
-Instituciones que no mantienen obligación subordinada:
+Instituciones que no mantienen obligación subordinada.
 
 NOTA 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
 
-Esta institución no tiene la obligación subordinada con el Banco Central de Chile a que se refiere la Ley N° 18 401.
+Esta institución no tiene la obligación subordinada con el Banco Central de Chile a que se refiere la Ley N° 18401.
 
 MODELO DE NOTA N° 3.
 
