@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 319 de 23 de Marzo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predios "El Salitre", "Hijuela Primera del Fundo Ucúquer con exclusión de los Lotes Números Dos, Tres y Cuatro del Plano de Loteo de dicha Hijuela" de la comuna de Llay Llay, V Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 13, sitios N°s. 1, 2A, 2B, 2C, 3A, 3B, 4, 5A, 5B y 6 al 21, y Reserva CORA No. 1 del Proyecto de Parcelación "El Salitre" formado por predios señalados. Los Derechos de Agua se extraen del Canal Valdesano o Llay Llay y Comunero Ucúquer y Derrames del Fundo Santa Teresa.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
