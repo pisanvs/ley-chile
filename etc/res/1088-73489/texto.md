@@ -1,0 +1,11 @@
+Por resolución Nº 1.088 de 2 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a SOCIEDAD BAQUEDANO LTDA., R.U.T. Nº 79.700.600-9, domiciliada en calle Baquedano Nº 230, Coquimbo, para iniciar actividades pesqueras de transformación, en orden a instalar y operar la planta industrial ubicada en Camino del Fuerte Nº 42, Coquimbo, IV Región, donde procesará en las líneas de elaboración de conserva, los siguientes recursos hidrobiológicos: Albacora o pez espada, Agujilla, Anchoa o anchoveta, Anguila, Atún aleta amarilla, Atún aleta larga, Bacalao de profundidad, Bonito, Caballa, Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado ojos chicos, Lenguado ojos grandes, Machuelo o tritre, Merluza común, Palometa, Pejegallo, Pejerrey de mar, Róbalo, Rollizo, Sardina común, Sardina, Tiburón o marrajo, Tollo, Almeja o taca, Almeja, Calamar, Caracol trumulco, Caracol locate, Chocha, Cholga, Choro zapato, Culengue, Lapa, Macha, Navajuela, Ostión del Norte, Ostra del Pacífico, Pulpo, Camarón de roca, Camarón nailon, Jaiba, Langosta de J. Fernández, Langostino amarillo, Picoroco y Erizo.
+
+Asimismo, deberá acreditar mediante Guía de Libre Tránsito, que los recursos Ostión del Norte y Langostino amarillo, no proceden de áreas sujetas a veda, de conformidad a los D.S. Nº 208, de 1991 y Nº 421, de 1989, prorrogado con el D.S. Nº 442, de 1990, respectivamente, todos del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para procesar el recurso loco, de conformidad a lo dispuesto en el D.S. Nº 126, de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Déjase sin efecto las resoluciones Nº 258, de 1983, Nº 174, de 1984, Nº 993, de 1986 y Nº 601, de 1987, todas de esta Subsecretaría, que autorizaban a Pesquera del Pacífico Limitada, para desarrollar actividades de transformación, por renuncia de su titular.
+
+Valparaíso, 2 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
