@@ -1,0 +1,5 @@
+Por Resolución número 61, de 28 de Enero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don HECTOR PIZARRO GUERRERO, R.U.T. N° 6.576.023-1, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta industrial en la III Región, ubicada en Avda. Marambio N° 388, Domeyco, Provincia de Huasco, donde procesará en la línea de elaboración de molienda de algas, los siguientes recursos hidrobiológicos: Cochayuyo, Chasca, Chascón, Chicorea de mar, Huiro, Luche, Luga Luga y Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 28 de Enero de 1993. Andrés Couve Rioseco, Subsecretario de Pesca.
