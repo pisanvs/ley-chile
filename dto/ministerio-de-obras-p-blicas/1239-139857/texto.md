@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.239, de 24 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs.9, 10 y 11, para la obra Camino Tirúa Trovolhue-Carahue, sector Tirúa-La Suerte Kms. 1.590 al 4.400, que figuran a nombre de Edmundo Castillo Castillo, rol de avalúo 525-1, comuna de Tirúa, superficies 13.770 m2., 7.300 m2. y 5.633 m2. La comisión de peritos compuesta por los señores Ramón Jofré Soto, José Manuel Gálvez Alegría y Manuel Concha Rojas, fijó con fecha junio de 1994, el valor provisional de las indemnizaciones en las cantidades de $3.042.713, lote 9;
+
+$1.469.125, lote 10 y $1.133.641, lote 11. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
