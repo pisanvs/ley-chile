@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.778, de 31 de octubre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Estanque Cerro La Virgen, que figura a nombre de Isaías Pérez Rodríguez y Magaly del Carmen Pérez Herrera, S/R, superficie 625 m², comuna de Nogales. La Comisión de Peritos fijó con fecha 15 de junio de 2000, el valor provisional de la indemnización en la cantidad de $625.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
