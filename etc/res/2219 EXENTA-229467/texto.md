@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.219, de 18 de agosto de 2004, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.904, de 2004, de esta Subsecretaría, que declaró la caducidad de la resolución Nº 2.665, de 1999, que otorgó a PESQUERA GRIMAR S.A. un permiso extraordinario de pesca para la unidad de pesquería de Bacalao de profundidad, por haber sido dictado en virtud de error de hecho.
+
+Valparaíso, 18 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
