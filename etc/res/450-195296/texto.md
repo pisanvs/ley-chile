@@ -1,0 +1,3 @@
+Por resolución Nº 450, de 22 de febrero de 2002, de esta Subsecretaría, autorízase a CONSERVAS CASTILLO LIMITADA para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en "Quinta Lo Mery" s/n, Los Angeles, VIII Región, donde podrá procesar en la línea de elaboración de Conservas, los siguientes recursos hidrobiológicos: Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Salmón del Atlántico, Salmón plateado, Salmón rey, Jurel, Almeja o taca, Almeja, Culengue, Chocha, Cholga, Chorito, Choro, Macha, Navajuela, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba patuda, Jaiba peluda o pachona, Jaiba reina, Jaiba remadora y Piure.
+
+Valparaíso, 22 de febrero de 2002.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
