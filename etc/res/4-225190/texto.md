@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION Nº 4, DE 7 DE ABRIL DE 2004, QUE DESIGNA SECRETARIO TITULAR, EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAICES DE LA PRIMERA Y SEGUNDA SERIE DE COPIAPO
+
+Designa a don Juan Carlos Pesce García, Fiscalizador, grado 11º, como Secretario Titular en los Tribunales Especiales de Alzada de los Bienes Raíces de la Primera y Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Copiapó, dejando sin efecto la designación en igual función y calidad de doña Carmen Luz Latorre Leyton, efectuada por resolución Nº 278, de 24 de agosto de 2001.
