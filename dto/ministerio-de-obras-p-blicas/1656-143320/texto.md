@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.656, de 24 de junio de 1999, se expropió el lote de terreno No. 73-B, superficie 744 m2., rol de avalúo 2229-20, comuna de Osorno, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt. Sector San Pablo - Osorno, D.cima Región y se acordó el valor de indemnización con su propietaria María Amalia Hernández Hernández, ascendente a la cantidad de $ 6.312.530.-
+
+Fiscal del Ministerio de Obras Públicas.
