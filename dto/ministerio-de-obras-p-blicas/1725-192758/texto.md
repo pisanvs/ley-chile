@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.725, de 31 de octubre de 2001, se expropió el lote de terreno Nº 8-A, superficie 1.690 m2., rol de avalúo 1544-20, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli. Sector: Km. 518.780,00 a Km. 519.500,00, Octava Región y se acordó el valor de indemnización con su propietario Miguel Roa Roa, ascendente a la cantidad de $1.309.764.-
+
+Fiscal del Ministerio de Obras Públicas.
