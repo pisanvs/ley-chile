@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.672, de 28 de abril del 2000, se expropió el lote de terreno Nº259-1, superficie 123 m2., rol de avalúo 99-43, comuna de La Ligua, para la obra Ampliación Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Quinta Región, y se acordó el valor de indemnización con su propietario Benedicto Eloy Cárcamo Pérez, ascendente a la cantidad de $1.204.356.-
+
+Fiscal del Ministerio de Obras Públicas.
