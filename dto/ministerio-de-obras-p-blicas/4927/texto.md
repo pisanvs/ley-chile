@@ -1,0 +1,3 @@
+Por decreto MOP 4.927, de 31 de octubre del 2000, se expropió el lote de terreno Nº279-1, superficie 3.061 m2., sin rol de avalúo, comuna de La Pintana, para la obra Concesión Internacional Ruta S. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Servicio de Vivienda y Urbanización Metropolitano, ascendente a la cantidad de $85.914.325.-
+
+Fiscal del Ministerio de Obras Públicas.
