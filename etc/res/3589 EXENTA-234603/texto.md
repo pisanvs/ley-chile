@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.589, de 20 de diciembre de 2004, de esta Subsecretaría, autorízase a COLD S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Huerto Nº 275, camino a Puerto Bories, Puerto Natales, XII Región, en las líneas de elaboración de Fresco-Enfriado y Congelado, el recurso hidrobiológico Reineta.
+
+Valparaíso, 20 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
