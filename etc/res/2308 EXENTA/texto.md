@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNAS DE SANTA BARBARA Y LOS ANGELES
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2.308 de 30 de Diciembre de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó derechos aprovechamiento aguas proporcionales que corresponden a sectores excluidos, reservas y sectores expropiados predios "Fundo La Posada, ex Hijuela 4a del Fundo Santa Amalia", "Hijuela N° 3. de Santa Amalia o Vista Alegre", "Santa Amalia", "Las Taguas e Hijuela de terreno de veinte hectáreas de extensión del potrero El Aguila, que es la parte Oriente del Fundo Las Garzas", "una parte del Fundo Las Garzas e Hijuela número dos de la Hijuela Huingán número cuatro", de las comunas de Santa Bárbara y Los Angeles, VIII Región; y derechos aprovechamiento aguas que corresponden a parcelas N°s. 48 a la 99, sitios N°s. 21 al 41 del Proyecto de Parcelación "Tierras para Chile Mañil", formado por predios señalados entre otros. Los derechos de agua se extraen de los canales Bío Bío Norte, Huingán Las Garzas derivados del río Bío Bío. Derrames del predio Las Taguas. Publicación hecha conforme Art. 13 ley N° 18.377.
+
+Director Ejecutivo.
