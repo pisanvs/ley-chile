@@ -1,0 +1,9 @@
+Por Resolución Nº 758, de 2 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción; autorízase a la UNIVERSIDAD CATOLICA DE TEMUCO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto "Manejo y Repoblamiento con Truchas de Importancia Deportiva, IX Región" elaborados por la Universidad Católica de Temuco y aprobados por el Servicio Nacional de Pesca y por esta Subsecretaría. El objetivo general de la investigación consiste en establecer un programa de repoblamiento con recursos ícticos continentales de interés turístico-deportivo en la IX Región, tendiente a mantener o acrecentar sus poblaciones.
+
+La pesca de investigación que se autoriza se efectuará en el período comprendido entre la fecha de la presente Resolución y el 30 de noviembre de 1997.
+
+En cumplimiento del objetivo de la presente pesca de investigación la Universidad podrá capturar con devolución, mediante red de enmalle y equipos de pesca eléctrica, ejemplares de las especies de Trucha arcoiris, Trucha café y Perca Trucha, pudiendo retener un máximo total de 200 individuos (adultos reproductores) de la especie Trucha arcoiris para todo el período de muestreo que se realizará en los ríos Toltén y Cautín.
+
+La Universidad Católica de Temuco designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Rector de dicha Casa de Estudios, Monseñor Jorge Hourton Poisson, R.U.T. Nº 2.124.964-5, domiciliado en Manuel Montt 056, Temuco.
+
+Valparaíso, 2 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
