@@ -1,0 +1,5 @@
+Por Resolución N° 747, de 5 de Agosto de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones que a continuación se indican, por los motivos que se expresan: a) Resolución Nº 1.324, de 1987, de esta Subsecretaría, que autorizó a LEVER CHILE S.A., hoy Marine Harvest Chile S.A., R.U.T.
+
+Nº 96.633.780-K, para realizar actividades de cultivo, en un sector de Caleta Chulchuy, Isla Lemuy, Comuna de Puqueldón, Provincia de Chiloé, X Región, en virtud de lo dispuesto en la Resolución Nº 929, de 1990, de esta Subsecretaría; b) Resolución Nº 877, de 1991, de esta Subsecretaría, que autorizó a Lever Chile S.A., hoy Marine Harvest Chile S.A., ya individualizada, para realizar actividades de cultivo, en un sector de Canal Quicaví, Comuna de Quemchi, Provincia de Chiloé, X Región, por renuncia de su titular.
+
+Valparaíso, 5 de Agosto de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
