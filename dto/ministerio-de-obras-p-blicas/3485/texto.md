@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.485, de 31 de julio de 2000, se expropió el lote de terreno Nº 24, superficie 49 m2, rol de avalúo 200-23, comuna de San Javier, para la obra Concesión Internacional Ruta 5. Tramo: Talca-Chillán, Séptima Región y se acordó el valor de indemnización con su propietaria Marcela Alejandra de las Mercedes Vega Soto, ascendente a la cantidad de $612.885.
+
+Fiscal del Ministerio de Obras Públicas.
