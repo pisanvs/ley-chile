@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.023 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 3, superficie 154 m2., rol de avalúo 1509-516, comuna de Los Angeles, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector Km. 483.400,00 al Km. 498.800,00'' y se acordó el valor de indemnización con su propietario Iris de las Mercedes Piña Ruz, ascendente a la cantidad de $80.485.-
+
+Fiscal del Ministerio de Obras Públicas.
