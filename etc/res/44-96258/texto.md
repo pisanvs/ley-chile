@@ -1,0 +1,5 @@
+Por Resolución Nº 44 de 14 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por EMPRESA NACIONAL DE PESCA S.A., para ampliar actividades pesqueras extractivas con la nave "Toyita" en el litoral de la X Región, sobre el recurso Jurel Trachurus murphyi, en virtud de encontrarse suspendida la recepción de solicitudes y el otorgamiento de autorizaciones de pesca respecto de dicha pesquería, en conformidad a lo dispuesto en el artículo 20 de la Ley Nº 18.892 de 1989 y sus modificaciones, en relación con el D.S. Nº 548, de 1997 del Ministerio de Economía, Fomento y Reconstrucción señalado en Vistos.
+
+Déjase sin efecto la Reosolución Nº 1.848, de 1997, de esta Subsecretaría.
+
+Valparaíso, 14 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
