@@ -1,0 +1,3 @@
+Por decreto MOP Nº 78, de 31 de enero de 2001, se expropió el lote de terreno Nº 6, superficie 187 m2, rol de avalúo 113-17, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector A, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan José Rebolledo Díaz, ascendente a la cantidad de $3.796.756.-
+
+Fiscal del Ministerio de Obras Públicas.
