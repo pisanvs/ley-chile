@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.990, de 20 de octubre de 2004 de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A., para ampliar las actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Pedro Aguirre Cerda Nº 719, Coronel, VIII Región, en las líneas de proceso de Harina, Aceite, Fresco-Enfriado, Fresco-Refrigerado, Congelado, Conserva y Surimi, los recursos hidrobiológicos indicados en la resolución extactada.
+
+Valparaíso, 20 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
