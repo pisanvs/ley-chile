@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.516, de 29 de septiembre de 2000, se expropió el lote de terreno Nº290, superficie 269 m², rol de avalúo 2535-9, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Germán Fautino Cancino Ferrari, ascendente a la cantidad de $25.616.244.-
+
+Fiscal del Ministerio de Obras Públicas.
