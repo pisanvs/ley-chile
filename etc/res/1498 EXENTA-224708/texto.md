@@ -1,0 +1,9 @@
+REVOCA EXCLUSIONES DE PERSONAS QUE INDICA DE NOMINAS DE POSTULANTES SELECCIONADOS PARA EL GOCE DEL SUBSIDIO HABITACIONAL
+
+Resolución Nº 1.498 exenta, de 28 de abril de 2004, revoca exclusiones de las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado 2001 Título I y Título II, del Sistema de Subsidio Habitacional Rural, de las personas que a continuación se indican, según Titulo, Región, Provincia y Tipo de Postulación que en cada caso se menciona, y dispone la reemisión de los respectivos Certificados de Subsidio Habitacional:
+
+NOTA: VER D.O. 04.05.2004, PAGINA 32
+
+Como consecuencia de lo anterior, el número de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado 2001 del Sistema de Subsidio Habitacional para la Atención del Sector Rural queda en 4.730 para el Título I y el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados queda en 636.280 Unidades de Fomento (U.F.) y en 3.430 el número de postulantes seleccionados y en 629.920 Unidades de Fomento (U.F.), el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados para el Título II.
+
+Impútese el equivalente a 700 Unidades de Fomento a los recursos autorizados para el Sistema de Subsidio Habitacional Rural por el número 1º de la resolución exenta Nº 36, de los Ministerios de Vivienda y Urbanismo y de Hacienda, de 2004, monto que corresponde a los nuevos Certificados de Subsidio Habitacional Rural que se emitirán de conformidad a lo dispuesto en el D.S. Nº 6 (V. y U.), de 2003.
