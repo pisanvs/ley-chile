@@ -1,0 +1,3 @@
+Por resolución Nº1.227, de 24 de junio de 1999, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº1.157 de 1990, Nº315 de 1991 y Nº508 de 1997, de esta Subsecretaría, que autorizaron a la SOCIEDAD VENTURA HERMANOS LIMITADA para realizar actividades pesqueras extractivas con la nave ''Ventura I'', de conformidad con lo establecido en las letras b) y d) del artículo 143 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 24 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
