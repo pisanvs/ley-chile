@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES QUE SEÑALA
+
+Por Decreto Alcaldicio Nro. 652 de fecha 10 de Abril de 1996, de la I. Municipalidad de Punta Arenas, se dispuso, conforme al artículo 58 letra f) de la Ley 18.695, Ley Orgánica de Municipalidades y Decreto Ley 2.186 de 1978, la expropiación parcial del inmueble ubicado entre calle Cirujano Videla y Límite Urbano Poniente, denominado Lote B-C1, Comuna de Punta Arenas, Roles de Avalúo Nº 5026-19, 5026-37 y 5026-326, de aparente dominio de doña María Elena Godoy Caro, don Julio Barría Arriado y don Jaime Cárdenas Oyarzo. El área a expropiarse de 4.616 m2. Comisión tasadora integrada por los Arquitectos: Sra. Jeannette Moris Torres, Sr. José Luis Subiabre Aguilar y Sr. Adolfo Cascardo Williams, según informe de 2 de febrero de 1996, fijó monto provisional indemnización en $ 3.840.512.- pagadero al contado.
+
+Carlos González Yaksic, Alcalde I. Municipalidad de Punta Arenas.
