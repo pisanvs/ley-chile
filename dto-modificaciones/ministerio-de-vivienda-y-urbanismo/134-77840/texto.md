@@ -1,0 +1,59 @@
+MODIFICA DECRETO Nº 62, DE 1984
+
+Santiago, 13 de octubre de 1997.- Hoy se decretó lo que sigue:
+
+Núm. 134.- Visto: El D.S. Nº 62 (V. y U.), de 1984 y sus modificaciones, que reglamenta el Sistema de Postulación, Asignación y Venta de Viviendas Destinadas a Atender Situaciones de Marginalidad Habitacional; la Ley Nº 16.391; el artículo 25 del D.F.L. Nº 458 (V. y U.), de 1975, y las facultades que me confiere el número 8º del artículo 32 de la Constitución Política de la República de Chile,
+
+D e c r e t o:
+
+#### Artículo único
+
+Modifícase el D.S. Nº 62 (V. y U), de 1984, en el sentido de sustituir el artículo 49 por el siguiente:
+
+#### Artículo 49
+
+Para los efectos del subsidio a que se refiere la letra c) del artículo 46, el SERVIU otorgará a los postulantes seleccionados un "Certificado de Subsidio Habitacional para la Vivienda Social", que tendrá vigencia de 21 meses contados desde el 1º del mes siguiente al de su emisión. Se aplicarán supletoriamente a estos Certificados de Subsidio, en lo que fuere procedente las normas de los artículos 14, 22, 23, 24, 26, 27, 29, 30 y 31 del D.S. Nº 44, (V. y U.), de 1988.
+
+En el caso de postulación colectiva, los postulantes beneficiados sólo podrán aplicar el subsidio para el cual fueron seleccionados, al pago del precio de adquisición o de construcción de una vivienda social obtenida a través del grupo organizado, corporación, fundación o cooperativa, a través del cual optaron por esta modalidad de operación.
+
+El respectivo beneficiario podrá contratar los servicios profesionales de un prestador de asistencia técnica, siempre que éste se encuentre inscrito en el Registro de Consultores del Ministerio de Vivienda y Urbanismo, en el rubro y especialidades correspondientes. En este caso, el SERVIU podrá girar anticipadamente a cuenta del Certificado de Subsidio, hasta la cantidad de 5 Unidades de Fomento, para el pago de esos servicios profesionales. Este anticipo deberá ser caucionado mediante boleta bancaria de garantía extendida en los términos señalados en el inciso quinto de este artículo. La contratación de servicios de asistencia técnica en las condiciones antes mencionadas será obligatoria en los casos en que se solicite el giro anticipado del subsidio en los términos de la letra A) del inciso séptimo de este artículo.
+
+Para proceder al pago del Certificado de Subsidio Habitacional para la Vivienda Social el SERVIU exigirá la presentación de los documentos que señala el artículo 22 del D.S. Nº 44 (V. y U.), de 1988, con excepción del señalado en el número 5 de la letra A) de dicho artículo. En los casos en que se hubieren efectuado giros anticipados a cuenta de dicho certificado, el SERVIU exigirá, además de los documentos antes indicados, un informe emitido por el prestador de asistencia técnica a que se refiere el inciso anterior, en que se exprese que la vivienda social correspondiente ha sido terminada por lo que procede el pago o liquidación final del Certificado de Subsidio Habitacional respectivo.
+
+Si las disponibilidades de caja lo permitieren, el SERVIU podrá efectuar anticipos a cuenta del pago del subsidio a partir desde la fecha de vigencia para el cobro del respectivo certificado, contra presentación de los documentos que más adelante se indican y contra entrega de boleta bancaria de garantía por un monto igual al del anticipo que cauciona, extendida a favor del SERVIU respectivo, pagadera a la vista a su sola presentación o con 30 días de aviso, de plazo indefinido o en su defecto por un plazo que exceda a lo menos en 90 días al de la vigencia del respectivo certificado de subsidio, expresada en Unidades de Fomento, o en pesos, moneda nacional. En este último caso deberá incluir, además, un monto adicional correspondiente a una proyección de reajuste calculado de acuerdo al coeficiente que se fija mediante resoluciones del Ministro de Vivienda y Urbanismo para los efectos de lo dispuesto en el artículo 23 del D.S. Nº 44 (V. y U.), de 1988. Sea que esté expresada en Unidades de Fomento o en pesos, moneda nacional, la boleta de garantía deberá incluir, además, una cantidad adicional correspondiente a una proyección de intereses, calculada de acuerdo a una tasa porcentual que se fijará por resoluciones del Ministro de Vivienda y Urbanismo en base al promedio de los intereses pagados por los Bancos e Instituciones Financieras para los depósitos en Cuenta de Ahorro a Plazo para la Vivienda. Estas boletas de garantía se devolverán una vez que se acredite el cumplimiento de todos los requisitos exigidos para el pago efectivo del certificado de subsidio, a que alude el inciso anterior. Si a la fecha de expiración de la vigencia del respectivo certificado de subsidio no se hubiere dado cumplimiento a los requisitos antes mencionados, el SERVIU hará efectivas dichas boletas de garantía unilateralmente. El SERVIU podrá también hacer efectivas dichas boletas bancarias de garantía unilateralmente, aun encontrándose vigente el certificado de subsidio, en caso que el constructor a cuyo favor se hubieren autorizado anticipos a cuenta del pago del subsidio, incurra en alguna de las causales previstas en el artículo 11 del D.S. Nº 63 (V. y U.), de 1997, o se constituya en quiebra o se encuentre en estado de notoria insolvencia. Para estos efectos se entenderá que se encuentra en notoria insolvencia, por ejemplo, cuando registre documentos protestados o impagos del sistema financiero, que no hubieren sido debidamente aclarados, o mantenga deudas en mora con establecimientos comerciales o instituciones financieras, o no esté dando cumplimiento a sus compromisos financieros, tales como, obligaciones previsionales y tributarias. Una vez que el SERVIU haya obtenido el pago de la boleta bancaria de garantía, procederá a devolver el certificado de subsidio al beneficiario.
+
+Si se efectuaren anticipos a cuenta del pago de dos o más certificados de subsidio a un mismo endosatario, para los efectos señalados en el inciso anterior éste podrá entregar una sola boleta bancaria de garantía por el total de los anticipos recibidos. Esta boleta de garantía le será devuelta una vez que acredite el cumplimiento de los requisitos exigidos para el pago efectivo de todos los certificados de subsidio cuyo pago se le hubiere anticipado, sin perjuicio de lo cual el SERVIU podrá aceptar que sea reemplazada, en la medida que se acredite el cumplimiento de los requisitos exigidos para el pago del certificado de subsidio con respecto a uno o más beneficiarios, reduciéndose su valor en la parte correspondiente.
+
+Para los anticipos a cuenta del pago del certificado de subsidio se estará a las siguientes normas:
+
+A) Tratándose de postulaciones en que se hubiere acreditado la disponibilidad de sitio propio en los términos que señala el artículo 40 de este reglamento, en el que se construye la vivienda a cuyo precio se aplicará el subsidio, para recibir anticipos a cuenta del pago de dicho certificado de subsidio, además de entregar la boleta bancaria de garantía a que se refieren los incisos precedentes, el solicitante deberá cumplir los siguientes requisitos:
+
+1.- El primer anticipo será por un monto no inferior al 10% ni superior al 25% del valor del certificado de subsidio, sin que sea exigible para este primer giro que se demuestre avance de obras.
+
+2.- Para los siguientes anticipos se requerirá que exista un avance de obras no inferior a los montos ya anticipados, debiendo en todo caso caucionarse con boleta bancaria de garantía por un monto igual al del respectivo anticipo. Para estos efectos, si el nuevo anticipo fuere por igual monto que el anterior, se caucionará con la misma boleta bancaria de garantía que caucionaba el anticipo ya invertido en la obra. Si el nuevo anticipo fuere por un monto mayor que aquél, por la diferencia deberá entregarse una boleta bancaria de garantía complementaria.
+
+3.- Deberá presentar al SERVIU los siguientes documentos:
+
+a) Copia del respectivo contrato de construcción firmado entre el beneficiario y el constructor, visado por el prestador de servicios de asistencia técnica a que se refiere el inciso terceros precedente, que incluya, a lo menos, las estipulaciones contempladas en el contrato tipo que para tal efecto proporcionará el SERVIU respectivo y que no contenga cláusulas que sean incompatibles o contradictorias con aquéllas. Se acompañará, además, un certificado emitido por dicho prestador de servicios de asistencia técnica que acredite el cumplimiento de estas exigencias;
+
+b) Permiso de edificación otorgado por la Dirección de Obras Municipales correspondiente;
+
+c) Informe emitido por el prestador de servicios de asistencia técnica a que se refiere el inciso tercero precedente, de que el proyecto de arquitectura es técnica y económicamente factible;
+
+d) Acreditar que el constructor se encuentra inscrito en el Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada, del Ministerio de Vivienda y Urbanismo, y que su inscripción se mantiene vigente para la región respectiva;
+
+e) Tratándose de beneficiarios que hubieren postulado colectivamente y/o contratado las obras en forma colectiva, declaración jurada de los dirigentes del grupo en que se indique el grado de parentesco y/o de relación laboral que vincula a cada uno de los dirigentes con el constructor y con el prestador de servicios de asistencia técnica;
+
+f) Certificado de subsidio habitacional debidamente endosado; y,
+
+g) Informe emitido por el prestador de servicios de asistencia técnica a que se refiere el inciso tercero precedente, en que se señale el valor del avance de las obras ejecutado conforme, expresado en su equivalente en Unidades de Fomento (UF), excepto cuando se trate del primer anticipo.
+
+B) Tratándose de postulaciones en que no se hubieren acreditado derechos sobre un terreno en la forma que establece el artículo 40, el SERVIU no podrá efectuar anticipos a cuenta del pago del certificado de subsidio.".
+
+#### Artículo transitorio
+
+Las modificaciones al D.S. Nº 62 (V. y U.), de 1984, que se contienen en el presente decreto, regirán a partir de la fecha de su publicación en el Diario Oficial y no se aplicarán a los "Certificados de Subsidio para la Vivienda Social" emitidos con anterioridad a esa fecha. En todo caso, a los anticipos a cuenta de los certificados de subsidio a que se refiere el inciso anterior, que se autoricen a partir de la fecha de publicación del presente decreto, se aplicarán las normas del artículo 49 del D.S. Nº 62 (V. y U.), de 1984, en su texto sustituido por el presente decreto, y el SERVIU no podrá autorizar el giro de dichos anticipos en tanto el beneficiario no acredite la contratación del correspondiente prestador de servicios de asistencia técnica, a que se refiere el inciso tercero del mismo precepto. No obstante lo dispuesto en el inciso anterior, tratándose de contratos de construcción celebrados entre el beneficiario y el constructor con anterioridad al 13 de agosto de 1997, fecha de publicación del D.S. Nº 63 (V. y U.), de 1997, que creó el Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada, del Ministerio de Vivienda y Urbanismo, los Serviu podrán otorgar los anticipos a cuenta de los certificados de subsidio a que se refiere el artículo 49 del D.S. Nº 62 (V. y U.), de 1984, sin exigir el cumplimiento del requisito de inscripción en el mencionado Registro.
+
+Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Sergio Henríquez Díaz, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Berta A. Belmar Ruiz, Subsecretaria de Vivienda y Urbanismo.
