@@ -1,0 +1,3 @@
+Por resolución Nº 1.974, de 7 de septiembre de 2000, de esta Subsecretaría, autorízase a JOHN EDGAR GATT BRAVO, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Maipú Nº 1.020, interior, comuna de Tomé, provincia de Concepción, VIII Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Congelado, Fresco-Refrigerado, Seco-Salado y Ahumado: Congrio colorado, Congrio negro, Merluza común, Reineta y Macha.
+
+Valparaíso, 7 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
