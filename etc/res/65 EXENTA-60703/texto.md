@@ -1,0 +1,3 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A PESQUERA TRAVESIA S.A.
+
+La Dirección Regional Metropolitana Santiago Oriente del Servicio de Impuestos Internos, por Resolución Nº Ex. 65 de 24.01.97, certifica que a contar del 1º del mes siguiente al de esta publicación y hasta el 30 de junio de 1997 Pesquera Travesía S.A., Rut Nº 96.759.290-0, tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado, por las compras de especies hidrobiológicas por cuanto cumple los requisitos establecidos en la Resolución Nº Ex. 3.069, publicada en el Diario Oficial del día 02 de julio de 1996.
