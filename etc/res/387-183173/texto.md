@@ -1,0 +1,9 @@
+Por resolución Nº387, de 8 de marzo de 2001, de esta Subsecretaría, autorízase a SARPESCA S.A., para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Camino al Fuerte s/nº, Península de Coquimbo, comuna de Coquimbo provincia de Elqui, IV Región, donde podrá procesar, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Conserva, Congelado, Salado y Fresco-Refrigerado: Atún aleta amarilla, Atún aleta larga, Azulejo, Atún ojos grandes, Bonito, Caballa, Lisa, Palometa, Pejerrey de mar, Pejesapo, Salmón del Atlántico, Salmón plateado, Sierra, Trucha arcoiris, Calamar, Caracol trumulco, Cholga, Choro, Culengue, Navaja de mar o Huepo, Navajuela, Ostra chilena, Ostra del Pacífico, Centolla, Centollón, Gamba, Jaiba, Picoroco, Erizo, Piure, Jibia, Langosta enana, Cangrejo dorado, Sardina española, Sardina común, Anchoveta, Albacora o pez espada, Anguila, Bacalao de profundidad, Chancharro, Cojinoba del norte, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Marrajo o Tiburón, Merluza común, Merluza del sur, Merluza de cola, Camarón nailon, Langostino amarillo, Langostino colorado, Loco, Almeja, Macha, Lapa, Chocha, Ostión del norte, Pulpo, Merluza de tres aletas, Pejegallo, Raya, Tollo, Vidriola, Caracol locate y Caracol tegula.
+
+La materia prima será adquirida a pescadores artesanales e industriales debidamente autorizados.
+
+Los recursos hidrobiológicos Ostra del Pacífico, Ostión del norte, Salmón del Atlántico, Salmón plateado y Trucha arcoiris, deberán provenir de centros de cultivos autorizados.
+
+Déjase sin efecto las resoluciones Nº 1.175 de 1988, Nº1.085 de 1990, Nº609 y Nº805 de 1992 y Nº 415 de 1994, todas de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 8 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
