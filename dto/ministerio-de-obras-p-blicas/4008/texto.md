@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.008, de 30 de diciembre de 1999, se expropió el lote de terreno Nº109, superficie 14.914 m², rol de avalúo 1403-124, comuna de Llanquihue, para la obra Concesión Internacional Ruta 5, Tramo: Río Bueno - Puerto Montt. Sector: Enlace Llanquihue Sur, Décima Región y se acordó el valor de indemnización con su propietario Ricardo Enrique Werner Redlich y otro, ascendente a la cantidad de $37.778.713.-
+
+Fiscal del Ministerio de Obras Públicas.
