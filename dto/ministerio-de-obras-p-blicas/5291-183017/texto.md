@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.291, de 13 de diciembre del 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1, superficie 1.812 m2., rol de avalúo 107-121, comuna de Curacaví, Región Metropolitana, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Tramo 8: Km. 53.440,00 a Km. 55.130,00. Posteriormente, Por decreto MOP Nº68, de 31 de enero de 2001, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietaria Gladys del Carmen Natali Espinoza, ascendente a la cantidad de $18.486.840.
+
+Fiscal del Ministerio de Obras Públicas.
