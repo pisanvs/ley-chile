@@ -1,0 +1,6383 @@
+DECRETO LEY N° 682, DE 1974
+
+Fija la ubicación en la Escala Unica de los trabajadores de las Municipalidades que indica.
+
+(Publicado en el Diario Oficial N° 28.972, de 8 de octubre de 1974)
+
+NUM. 682.- Santiago, 1° de octubre de 1974.- Vistos: lo dispuesto en los decretos leyes 1 y 128, de 1973, y 527, de 1974, y en el artículo 13° del decreto ley 249, de 1974,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+DECRETO LEY:
+
+> **Nota.** NOTA: 1 El artículo 5° del DL 2.100, de 1978 modificó a contar del 1° de enero de 1978, la ubicación de los cargos de Jueces de Policía Local en los grados de la Escala Unica de Sueldos, en la siguiente forma: Los de las comunas de las Cabras, Malloa, Mariquina, Negrete, Paillaco, Pinto, Quinta de Tilcoco, Retiro, Romeral, San Ignacio, San Nicolás y San Pablo, subirán en dos grados en su actual ubicación. Los de las demás comunas del país subirán en un grado la ubicación que tienen actualmente.
+
+#### Artículo 1°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Concepción, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Designación Actual Escala Unica
+
+-------------------------------------------------------
+
+Planta de Empleados
+
+1a Cat Alcalde de la Comuna_ __ __ __ __ __ __ 4
+
+1a Cat Abogado Jefe __ __ __ __ __ __ __ __ __ 6
+
+1a Cat Asesor Urbanista__ __ __ __ __ __ __ __ 6
+
+1a Cat Director Obras Municipales_ __ __ __ __ 6
+
+1a Cat Director de Subsistencias (Veterinario) 7
+
+1a Cat Director de Control Contador Contralor_ 7
+
+4a Cat Director de Tránsito __ __ __ __ __ __ 7
+
+1a Cat Juez 1.er Juzgado de Policía Local_ __ 5
+
+1a Cat Juez 2° Juzgado de Policía Local __ __ 5
+
+4a Cat Director de Aseo y Ornato__ __ __ __ __ 7
+
+4a Cat Jefe Obras Comunales y Aprovisionamiento 8
+
+4a Cat Director Patentes y Policía Local__ __ 8
+
+4a Cat Jefe de Control y Rentas __ __ __ __ __ 8
+
+5a Cat Secretario Municipal y de la Alcaldía_ 6
+
+Gr 4° Jefe del Personal y de Escalafones__ __ 8
+
+Subdirectivos, Jefaturas de Sección y Profesionales
+
+2a Cat Arquitectos D.O.M. __ __ __ __ __ __ __ 8
+
+3a Cat Abogado Primero Defensa Municipal __ __ 8
+
+Gr 3° Prosecretario Municipal y de la Alcaldía 9
+
+Gr 3° Subdirector Patentes y Policía Local__ 9
+
+Gr 6° Inspector Contador_ __ __ __ __ __ __ _ 9
+
+3a Cat Secretario Abogado 1.er Juzgado Policía
+
+Local__ __ __ __ __ __ __ __ __ __ __ __ 8
+
+3a Cat Secretario Abogado 2° Juzgado Policía
+
+Local__ __ __ __ __ __ __ __ __ __ __ __ 8
+
+4a Cat Arquitecto D.O.M. __ __ __ __ __ __ __ 10
+
+Gr 2° Abogado Segundo Defensa Municipal_ __ __ 10
+
+Gr 3° Asistente Social Jefe_ __ __ __ __ __ __ 11
+
+Gr 4° Jefe de Sección __ __ __ __ __ __ __ __ 13
+
+Gr 4° Técnico Gabinete Psicotécnico __ __ __ 14
+
+Gr 5° Administrador Estadio Municipal __ __ __ 14
+
+Gr 5° Asistente Social __ __ __ __ __ __ __ __ 14
+
+Gr 5° Administrador Mercados __ __ __ __ __ __ 14
+
+Gr 6° Jefe Sección Aseo_ __ __ __ __ __ __ __ 14
+
+Gr 6° Inspector Jefe de Patentes__ __ __ __ __ 14
+
+Gr 6° Inspector de Control__ __ __ __ __ __ __ 14
+
+Gr 7° Topógrafo Técnico Universitario_ __ __ 14
+
+Gr 7° Dibujante Técnico Universitario__ __ __ 14
+
+Gr 8° Relacionador Público Periodista__ __ __ 14
+
+Gr 4° Bibliotecaria Jefe_ __ __ __ __ __ __ __ 16
+
+Gr 8° Dibujante_ __ __ __ __ __ __ __ __ __ __ 19
+
+Gr 10° Médico Gabinete Psicotécnico_ __ Ley 15.076
+
+Administrativos
+
+Gr 3° Oficiales_ __ __ __ __ __ __ __ __ __ __ 19
+
+Gr 5° Oficial __ __ __ __ __ __ __ __ __ __ __ 20
+
+Gr 6° Oficiales_ __ __ __ __ __ __ __ __ __ __ 21
+
+Gr 7° Oficiales_ __ __ __ __ __ __ __ __ __ __ 22
+
+Gr 8° Oficiales_ __ __ __ __ __ __ __ __ __ __ 23
+
+Gr 9° Oficiales_ __ __ __ __ __ __ __ __ __ __ 24
+
+Gr 10° Oficiales_ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr 11° Oficiales_ __ __ __ __ __ __ __ __ __ __ 26
+
+Gr 12° Oficiales_ __ __ __ __ __ __ __ __ __ __ 29
+
+Gr 11° Auxiliar _ __ __ __ __ __ __ __ __ __ __ 27
+
+Servicio de Mantención
+
+Gr 6° Jefe Taller Mecánico Especializado__ __ 16
+
+Gr 11° Subjefe Taller Mecánico Especializado__ 19
+
+Gr 10° Oficiales Mecánicos__ __ __ __ __ __ __ 24
+
+Gr 10° Chofer_ __ __ __ __ __ __ __ __ __ __ _ 25
+
+Gr 11° Oficial Electricista__ __ __ __ __ __ _ 25
+
+Gr 11° Oficial Mecánico__ __ __ __ __ __ __ __ 25
+
+Gr 11° Oficial Tornero_ __ __ __ __ __ __ __ _ 25
+
+Gr 12° Oficiales Electricistas__ __ __ __ __ _ 25
+
+Gr 12° Oficial Mecánico__ __ __ __ __ __ __ __ 25
+
+Obreros Especializados Clase "A".
+
+Gr 1° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr 2° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr 3° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr 4° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 26
+
+Gr 5° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 26
+
+Gr 6° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 26
+
+Obreros Especializados Clase "B"
+
+Gr 1° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 26
+
+Gr 2° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 26
+
+Gr 3° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+Gr 4° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+Gr 5° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 28
+
+Gr 6° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 29
+
+Gr 7° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 30
+
+Obreros No Especializados.
+
+Gr 1° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+Gr 2° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+Gr 3° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 28
+
+Gr 4° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 29
+
+Gr 5° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 30
+
+Gr 6° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 31
+
+Gr 7° _ __ __ __ __ __ __ __ __ __ __ __ __ __ 32
+
+El o los cargos de Director de Subsistencias (Veterinario) grado 7° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Inspector Contador grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Arquitecto D.O.M. grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Abogado Segundo Defensa Municipal grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Asistente Social Jefe grado 11° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Jefe de Sección grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Asistente Social grado 14° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Oficiales grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Auxiliar grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Oficial Mecánico grado 11° grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Oficiales Electricistas grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficial Mecánico grado 12° grado 25° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros Especializados Clase "A" grado 3° grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Obreros Especializados Clase "A" grado 4° grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Obreros Especializados Clase "A" grado 5° grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros Especializados Clase "A" grado 6° grado 26° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros Especializados Clase "B" grado 4° grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Obreros Especializados Clase "B" grado 5° grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Obreros Especializados Clase "B" grado 6° grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Obreros Especializados Clase "B" grado 7° grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Obreros No Especializados grado 32° se convertirán en grado 35° al quedar vacantes.
+
+> **Nota.** NOTA: 2 El art.1° de la ley 18.025 creó en la Municipalidad de Concepción un "Tercer Juzgado de Policía Local", creando en la Planta de Cargos de dicha Municipalidad los siguientes nuevos cargos que tendrán los grados de la Escala Unica de Sueldos que en cada caso se indican: Un cargo de Juez Grado E.U.S. 8. Un cargo de secretario Abogado, grado E.U.S.8. El art. 2° de la ley 18.025, modificó el art. 1° del presente decreto ley de la siguiente forma: a) Agrégase en la Primera Categoría la expresión "Juez 3er. Juzgado de Policía Local", y b) En la Tercera Categoría, agrégase la expresión "Secretario Abogado 3er. Juzgado Policía Local".
+
+#### Artículo 2°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de La Reina, de acuerdo con lo dispuesto en el artículo 13 del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Designación Actual Escala Unica
+
+-------------------------------------------------------
+
+Superintendente de los Servicios
+
+1a Cat Alcalde__ __ __ __ __ __ __ __ __ __ __ 4
+
+Direcciones de Servicios clase "A"
+
+Secretaría de la Alcaldía
+
+2a Cat Secretario de la Alcaldía y Coordinador
+
+General de los Servicios_ __ __ __ __ __ 7
+
+Dirección de Obras Municipales
+
+1a Cat Director-Arquitecto, Ingeniero o
+
+Constructor Civil__ __ __ __ __ __ __ __ 7
+
+Juzgado de Policía Local
+
+1a Cat Juez__ __ __ __ __ __ __ __ __ __ __ __ 6
+
+Dirección de Finanzas, Adquisiciones y Control
+
+2a Cat Director_ __ __ __ __ __ __ __ __ __ __ 8
+
+Defensa Municipal
+
+1a Cat Abogado Jefe __ __ __ __ __ __ __ __ __ 8
+
+Dirección de Tránsito y Patentes
+
+2a Cat Director __ __ __ __ __ __ __ __ __ __ 8
+
+Departamento de Cultura e Integración Vecinal
+
+2a Cat Director __ __ __ __ __ __ __ __ __ __ 8
+
+Direcciones de Servicios Clase "B"
+
+Dirección del Personal y Administración
+
+Casa Consistorial
+
+2a Cat Director-Administrador __ __ __ __ __ 8
+
+Dirección de Aseo y Jardines
+
+2a Cat Director __ __ __ __ __ __ __ __ __ __ 8
+
+Subdirecciones Clase "A"
+
+Juzgado de Policía Local
+
+3a Cat Secretario Juzgado de Policía Local__ 10
+
+Dirección de Obras Municipales
+
+2a Cat Subdirector de Obras Municipales,
+
+Arquitecto, Ingeniero, Constructor
+
+Civil __ __ __ __ __ __ __ __ __ __ __ 9
+
+2a Cat Arquitecto Jefe-Asesor Urbanista __ __ 9
+
+Dirección de Control y Adquisición.
+
+6a Cat Subdirector Contador __ __ __ __ __ __ 12
+
+Dirección de Tránsito y Patentes
+
+5a Cat Oficial Administrativo __ __ __ __ __ 19
+
+Dirección de Desarrollo Social
+
+6a Cat Oficial Administrativo __ __ __ __ __ 19
+
+Subdirecciones Clase "B"
+
+Dirección de Aseo y Jardines
+
+Gr 1° Oficial Administrativo __ __ __ __ __ __ 20
+
+Dirección del Personal y Administración
+
+Casa Consistorial
+
+Gr 2° Habilitado del Personal __ __ __ __ __ __ 20
+
+Profesionales sin Jefaturas.
+
+Secretaría Municipal
+
+1a Cat Secretario Abogado Municipal __ __ __ 7
+
+Dirección de Obras Municipales
+
+4a Cat Arquitecto Revisor __ __ __ __ __ __ 11
+
+Dirección de Desarrollo Social
+
+Gr 5° Asistente Social __ __ __ __ __ __ __ __ 16
+
+Personal Administrativo
+
+Gr 3° Secretaria del Alcalde__ __ __ __ __ __ 19
+
+Gr 4° Secretaria de la Secretaría de
+
+Alcaldía __ __ __ __ __ __ __ __ __ __ 19
+
+5a Cat Arquitecto, Ingeniero, Constructor
+
+Civil __ __ __ __ __ __ __ __ __ __ __ 13
+
+Gr 2° Oficial Primero Juzgado Policía Local. 19
+
+Gr 3° Operador Máquinas National (NCR) __ __ 19
+
+Gr 3° Liquidadores Sueldos y Jornales__ __ __ 20
+
+Gr 3° Oficial de Informaciones __ __ __ __ __ 20
+
+Gr 6° Jefe de Patentes Comercial- __ __ __ __ 20
+
+Gr 6° Jefe de Licencias __ __ __ __ __ __ __ 20
+
+Gr 5° Jefe de Bodega y Control Existencias __ 23
+
+Gr 4° Jefe Mecánica - Dirección Aseo __ __ 24
+
+Gr 5° Oficial Dactilógrafo - Dirección Aseo 24
+
+Gr 5° Secretaria Departamento Jurídico __ __ 24
+
+Gr 6° Oficial Deportes y Recreación -
+
+Dirección Desarrollo Social __ __ __ _ 25
+
+Gr 6° Dactilógrafo - Secretaría Alcaldía__ 25
+
+Gr 6° Secretaria dirección Obras __ __ __ __ 25
+
+Gr 5° Electricista - Dirección Aseo __ __ __ 25
+
+Gr 6° Inspector - Dirección Aseo __ __ __ __ 25
+
+Gr 7° Ayudantes Mecánicos __ __ __ __ __ __ 25
+
+Gr 6° Actuario Juzgado__ __ __ __ __ __ __ __ 25
+
+Gr 8° Jefe Adquisiciones __ __ __ __ __ __ __ 25
+
+Gr 6° Liquidador Patentes Vehículos __ __ __ 25
+
+Gr 7° Liquidador Patentes Vehículos __ __ __ 25
+
+Gr 8° Dactilógrafo - Dirección del Personal. 26
+
+Gr 7° Dactilógrafo - Secretaría Alcaldía__ 26
+
+Gr 7° Oficial de Contabilidad __ __ __ __ __ 26
+
+Gr 8° Oficial Administrativo - Departamento
+
+Jurídico __ __ __ __ __ __ __ __ __ __ 26
+
+Gr 7° Actuario Juzgado Policía Local__ __ __ 26
+
+Gr 8° Oficial Administrativo - Dirección
+
+Desarrollo Social __ __ __ __ __ __ __ 27
+
+Gr 8° Dactilógrafo - Dirección Desarrollo
+
+Social __ __ __ __ __ __ __ __ __ __ __ 27
+
+Gr 8° Oficial de Partes __ __ __ __ __ __ __ 27
+
+Gr 8° Oficial de Inventarios__ __ __ __ __ __ 27
+
+Gr 8° Liquidadores Patentes Comerciales __ __ 27
+
+Médico Psicotécnico - Dirección
+
+Tránsito __ __ __ __ __ __ __ __ Ley 15.076
+
+Planta Administrativa
+
+Gr 4° Inspector de Obras __ __ __ __ __ __ __ 23
+
+Choferes
+
+Gr 6° Choferes __ __ __ __ __ __ __ __ __ __ 25
+
+Gr 7° Choferes __ __ __ __ __ __ __ __ __ __ 27
+
+Gr 8° Choferes __ __ __ __ __ __ __ __ __ __ 27
+
+Planta de Obreros y Servicios Menores
+
+Mayordomo __ __ __ __ __ __ __ __ __ __ __ __ 25
+
+Revisor Técnico __ __ __ __ __ __ __ __ __ __ 25
+
+Auxiliar Juzgado Policía Local __ __ __ __ __ 25
+
+Maestros de Construcción __ __ __ __ __ __ __ 26
+
+Choferes __ __ __ __ __ __ __ __ __ __ __ __ __ 27
+
+Oficial de Sala__ __ __ __ __ __ __ __ __ __ __ 27
+
+Mecánicos Ayudantes __ __ __ __ __ __ __ __ __ 27
+
+Auxiliar Oficina __ __ __ __ __ __ __ __ __ __ 27
+
+Choferes __ __ __ __ __ __ __ __ __ __ __ __ __ 28
+
+Jardinero Estadio __ __ __ __ __ __ __ __ __ __ 28
+
+Auxiliar Oficina __ __ __ __ __ __ __ __ __ __ 29
+
+Jardineros, Engrasadores, Rondines,
+
+Desabolladores y Estafetas __ __ __ __ __ __ __ 30
+
+Jardinero 2°._ __ __ __ __ __ __ __ __ __ __ __ 31
+
+Sifoneros__ __ __ __ __ __ __ __ __ __ __ __ __ 31
+
+Estafeta __ __ __ __ __ __ __ __ __ __ __ __ __ 32
+
+Ayudantes de Maestros__ __ __ __ __ __ __ __ __ 32
+
+Jardinero 3°__ __ __ __ __ __ __ __ __ __ __ __ 32
+
+Barredores y Peonetas__ __ __ __ __ __ __ __ __ 32
+
+Peonetas __ __ __ __ __ __ __ __ __ __ __ __ __ 32
+
+El o los cargos de Alcalde grado 4° se convertirán en grado 5° al quedar vacantes.
+
+El o los cargos de Secretario de la Alcaldía y Coordinador General de los Servicios grado 7° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Director-Arquitecto, Ingeniero o Constructor Civil grado 7° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Director-Dirección de Finanzas, Adquisiciones y Control grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Abogado Jefe Defensa Municipal grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Director Dirección de Tránsito y Patentes grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Director Departamento de Cultura e Integración grado 8° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Director-Administrador Casa Consistorial grado 8° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Director Dirección de Aseo y Jardines grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Subdirector de Obras Municipales Arquitecto, Ingeniero, Constructor Civil grado 9° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Subdirector Contador grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Arquitecto Revisor grado 11° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Arquitecto, Ingeniero, Constructor Civil grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Operador Máquinas National (NCR) grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Liquidadores Sueldo y Jornales grado 20° se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Oficial de Informaciones grado 20° se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Ayudantes Mecánicos grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Jefe Adquisiciones grado 25° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Liquidador Patentes Vehículos grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Dactilógrafo - Dirección del Personal grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Dactilógrafo - Secretaría Alcaldía grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficial de Contabilidad grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficial Administrativo - Departamento Jurídico grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Actuario Juzgado Policía Local grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficial Administrativo - Dirección Desarrollo Social grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Dactilógrafo - Dirección Desarrollo Social grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Oficial de Partes grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Oficial de Inventarios grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Liquidadores Patentes Comerciales grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Inspector de Obras grado 23° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Choferes grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Auxiliar Juzgado Policía Local grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Auxiliar Oficina grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Auxiliares Oficina grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Jardinero 3° grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Barredores y Peonetas grado 32° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Peonetas grado 32° se convertirán en grado 35° al quedar vacantes.
+
+#### Artículo 3°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Las Condes, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+N° del Grado
+
+Cargo Designación Actual Escala Unica
+
+-------------------------------------------------------
+
+Letra "A", Planta General de Empleados
+
+I.-Superintendencia de los Servicios
+
+Alcalde__ __ __ __ __ __ __ __ __ 4
+
+II.-Direcciones Superiores de Servicios
+
+1 1a Cat Secretario Abogado Municipal __ 6
+
+12 1a Cat Secretario Abogado Alcaldía __ 6
+
+22 1a Cat Director de Personal y Bienestar,
+
+Abogado__ __ __ __ __ __ __ __ __ 7
+
+35 1a Cat Director Cultural y Administrador
+
+del Teatro Municipal__ __ __ __ __ 8
+
+40 1a Cat Director Jurídico__ __ __ __ __ 6
+
+59 1a Cat Director de Tránsito - Ingeniero
+
+Civil__ __ __ __ __ __ __ __ __ __ 7
+
+79 1a Cat Director de Control y Contabilidad
+
+- Contador__ __ __ __ __ __ __ __ 7
+
+105 1a Cat Director de Abastecimiento -
+
+Ingeniero Comercial__ __ __ __ __ 8
+
+115 1a Cat Director de Aseo y Jardines__ __ 7
+
+142 1a Cat Director de Subsistencias y
+
+Patentes Comerciales- Contador __ 8
+
+149 1a Cat Director de Obras Municipales -
+
+Ingeniero Civil__ __ __ __ __ __ __ 6
+
+185 1a Cat Director de Asesoría Urbana -
+
+Arquitecto __ __ __ __ __ __ __ __ 6
+
+198 1a Cat Director de Inspección de Policía
+
+Local - Constructor Civil __ __ __ 8
+
+45 1a Cat Juez de Primer Juzgado de Policía
+
+Local __ __ __ __ __ __ __ __ __ __ 4
+
+45a)1a Cat Juez del Segundo Juzgado de Policía
+
+Local __ __ __ __ __ __ __ __ __ __ 4
+
+III.-Jefes de Departamentos y Subdirecciones
+
+de Servicios
+
+41 2a Cat Abogado, con rango de Jefe de
+
+Departamento__ __ __ __ __ __ __ __ 8
+
+60 5a Cat Subdirector de Tránsito - Contador 9
+
+80 2a Cat Subdirector de Control y
+
+Contabilidad - Contador __ __ __ __ 9
+
+150 2a Cat Subdirector de Obras de Labor
+
+Directa, con rango de jefe de
+
+Departamento - Arquitecto __ __ __ 9
+
+151 2a Cat Subdirector de Obras de Labor
+
+Indirecta, con rango de jefe de
+
+Departamento Constructor Civil__ __ 9
+
+187 2a Cat Subdirector de Asesoría Urbana __ 9
+
+199 2a Cat Subdirector de Inspección de
+
+Policía Local - Constructor
+
+Civil __ __ __ __ __ __ __ __ __ __ 9
+
+23 1a Cat Subdirector de Personal y Bienestar 10
+
+122 3a Cat Subdirector de Aseo __ __ __ __ __ 9
+
+128 1a Cat Subdirector de Jardines__ __ __ __ 9
+
+143 3a Cat Subdirector de Subsistencias y
+
+Patentes Comerciales __ __ __ __ __ 9
+
+46 2a Cat Secretario-Abogado del Primer
+
+Juzgado de Policía Local __ __ __ 8
+
+46a)2a Cat Secretario-Abogado del Segundo
+
+Juzgado de Policía Local __ __ __ 8
+
+IV.-Jefaturas de Secciones Nivel "A"
+
+6 5a Cat Jefes de Sección Junta de
+
+Desarrollo Comunal - Constructor
+
+Civil __ __ __ __ __ __ __ __ __ __ 13
+
+16 4a Cat Jefe de Sección Relaciones
+
+Públicas y Turismo - Periodista __ 13
+
+28 5a Cat Jefe de Sección Bienestar -
+
+Asistente Social __ __ __ __ __ __ 13
+
+36 6a Cat Jefe de Sección Biblioteca
+
+Municipal - Bibliotecónoma__ __ __ 13
+
+87 Gr 1° Jefe de Sección Inspección de
+
+Control - Contador__ __ __ __ __ __ 13
+
+93 6a Cat Jefe de Sección Sueldos, Salarios
+
+y Habilitación - Contador __ __ __ 13
+
+112 5a Cat Jefe de Sección Bienes e
+
+Inventarios - Contador __ __ __ __ 13
+
+193 5a Cat Jefe de Sección Planificación
+
+Social - Asistente Social __ __ __ 13
+
+V.-Jefaturas de Secciones Nivel "B"
+
+2 3a Cat Jefe de Sección Comisiones __ __ 14
+
+13 3a Cat Jefe de Sección Decretos __ __ __ 14
+
+18 3a Cat Jefe de Sección Partes y Archivo 14
+
+48 3a Cat Jefe de Sección Accidentes
+
+Tránsito__ __ __ __ __ __ __ __ __ 14
+
+49 5a Cat Jefe de Sección Infracciones__ __ 14
+
+70 5a Cat Jefe de Sección Patentes
+
+Vehículos__ __ __ __ __ __ __ __ _ 14
+
+98 4a Cat Jefe de Sección Procesamiento
+
+(Programador IBM)__ __ __ __ __ __ 14
+
+108 6a Cat Jefe de Sección Adquisiciones__ _ 14
+
+136 6a Cat Jefe de Sección Mantenimiento de
+
+Vehículos__ __ __ __ __ __ __ __ _ 14
+
+195 6a Cat Jefe de Sección Organizaciones
+
+Comunitarias__ __ __ __ __ __ __ __ 14
+
+201 5a Cat Jefe de Sección Inspección
+
+Técnica__ __ __ __ __ __ __ __ __ 14
+
+VI.-Jefaturas de Sección Nivel "C"
+
+33 Gr 3° Jefe de Sección Registro y Archivo
+
+de Personal__ __ __ __ __ __ __ __ 16
+
+37 Gr 4° Jefe de Sección Desarrollo
+
+Cultural__ __ __ __ __ __ __ __ __ 16
+
+76 Gr 1° Jefe de Sección Circulación e
+
+Inspección Tránsito__ __ __ __ __ 16
+
+83 Gr 4° Jefe de Sección Contabilidad__ __ 16
+
+145 Gr 3° Jefe de Sección Clasificación de
+
+Patentes__ __ __ __ __ __ __ __ __ 16
+
+VII.-Profesionales y Técnicos sin
+
+Mando de Unidad
+
+155 3a Cat Ingeniero Civil__ __ __ __ __ __ _ 8
+
+167 2a Cat Arquitecto Jefe__ __ __ __ __ __ _ 8
+
+172 2a Cat Arquitecto Jefe__ __ __ __ __ __ _ 8
+
+42 3a Cat Abogado__ __ __ __ __ __ __ __ __ 8
+
+174 2a Cat Ingeniero Civil__ __ __ __ __ __ _ 9
+
+65 4a Cat Médico Gabinete Psicotécnico_ Ley 15.076
+
+154 2a Cat Constructor Civil - Jefe__ __ __ 10
+
+173 2a Cat Arquitecto__ __ __ __ __ __ __ __ 10
+
+175 2a Cat Arquitecto__ __ __ __ __ __ __ __ 10
+
+47 3a Cat Abogado__ __ __ __ __ __ __ __ __ 11
+
+156 5a Cat Constructor Civil__ __ __ __ __ __ 11
+
+168 3a Cat Constructor Civil__ __ __ __ __ __ 11
+
+169 5a Cat Arquitecto__ __ __ __ __ __ __ __ 11
+
+188 4a Cat Arquitecto__ __ __ __ __ __ __ __ 11
+
+129 5a Cat Ingeniero Agrónomo__ __ __ __ __ 12
+
+157 4a Cat Constructor Civil__ __ __ __ __ __ 12
+
+158 6a Cat Arquitecto__ __ __ __ __ __ __ __ 12
+
+200 4a Cat Constructor Civil__ __ __ __ __ __ 12
+
+53 Gr 1° Abogado__ __ __ __ __ __ __ __ __ 15
+
+190 Gr 1° Arquitecto__ __ __ __ __ __ __ __ 13
+
+29 5a Cat Asistente Social__ __ __ __ __ __ 14
+
+67 6a Cat Médico Gabinete Psicotécnico_ Ley 15.076
+
+30 6a Cat Asistente Social__ __ __ __ __ __ 15
+
+31 6a Cat Asistente Social__ __ __ __ __ __ 15
+
+159 Gr 1° Arquitecto__ __ __ __ __ __ __ __ 15
+
+162 Gr 2° Arquitecto__ __ __ __ __ __ __ __ 15
+
+191 Gr 2° Arquitecto__ __ __ __ __ __ __ __ 15
+
+208 Gr 6° Arquitecto__ __ __ __ __ __ __ __ 15
+
+209 Gr 6° Arquitecto__ __ __ __ __ __ __ __ 15
+
+101 6a Cat Programador I.B.M__ __ __ __ __ __ 17
+
+102 Gr 1° Programador I.B.M. __ __ __ __ __ 17
+
+196 Gr 3° Asistente Social__ __ __ __ __ __ 17
+
+88 Gr 2° Contador__ __ __ __ __ __ __ __ __ 18
+
+104 Gr 3° Operador I.B.M. __ __ __ __ __ __ 19
+
+132 Gr 5° Ingeniero Agrónomo__ __ __ __ __ 17
+
+10 Gr 1° Profesor Educación Física__ __ _ 19
+
+77 Gr 4° Topógrafo-Fotogrametrista__ __ __ 19
+
+95 Gr 4° Operador Máquina N.C.R. __ __ __ 19
+
+99 5a Cat Perfoverificador I.B.M__ __ __ __ 19
+
+100 5a Cat Perfoverificador I.B.M__ __ __ __ 19
+
+107 Gr 3° Técnico Estadístico__ __ __ __ _ 19
+
+137 Gr 3° Técnico Mecánico__ __ __ __ __ _ 19
+
+160 Gr 1° Dibujante Técnico__ __ __ __ __ _ 19
+
+161 Gr 2° Constructor Civil__ __ __ __ __ __ 19
+
+181 Gr 5° Dibujante Técnico__ __ __ __ __ _ 21
+
+184 Gr 9° Dibujante Técnico__ __ __ __ __ _ 24
+
+189 Gr 5° Dibujante Técnico__ __ __ __ __ _ 21
+
+192 Gr 5° Dibujante Técnico__ __ __ __ __ _ 21
+
+194 4a Cat Profesor Normalista__ __ __ __ __ 19
+
+103 Gr 2° Perfoverificador I.B.M__ __ __ __ 20
+
+86 Gr 10° Operador Máquina N.C.R. __ __ __ 21
+
+90 Gr 1° Contador__ __ __ __ __ __ __ __ __ 21
+
+94 Gr 2° Contador__ __ __ __ __ __ __ __ __ 22
+
+146 Gr 4° Contador__ __ __ __ __ __ __ __ __ 24
+
+165 Gr 9° Técnico Electricista__ __ __ __ _ 22
+
+166 Gr 9° Técnico Electricista__ __ __ __ _ 22
+
+VIII.-Secretarios Ejecutivos de Direcciones
+
+de Servicios Nivel "A"
+
+14 Gr 3° Secretario Ejecutivo__ __ __ __ __ 19
+
+44 Gr 8° Secretario Ejecutivo__ __ __ __ __ 19
+
+62 Gr 4° Secretario Ejecutivo__ __ __ __ __ 19
+
+81 4a Cat Secretario Ejecutivo__ __ __ __ __ 19
+
+152 Gr 4° Secretario Ejecutivo__ __ __ __ __ 19
+
+186 Gr 2° Secretario Ejecutivo__ __ __ __ __ 19
+
+IX.-Secretarios Ejecutivos de Direcciones
+
+de Servicios Nivel "B"
+
+24 4a Cat Secretario Ejecutivo__ __ __ __ __ 19
+
+25 Gr 4° Secretario Ejecutivo__ __ __ __ __ 19
+
+106 3a Cat Secretario Ejecutivo__ __ __ __ __ 19
+
+116 4a Cat Secretario Ejecutivo__ __ __ __ __ 19
+
+144 Gr 1° Secretario Ejecutivo__ __ __ __ __ 19
+
+204 Gr 4° Secretario Ejecutivo__ __ __ __ __ 19
+
+X.-Administrativos
+
+17 3a Cat Secretaria Sección Relaciones
+
+Públicas y Turismo__ __ __ __ __ 19
+
+50 5a Cat Receptor Juzgado de Policía Local 19
+
+176 3a Cat Dactilógrafo__ __ __ __ __ __ __ 19
+
+66 5a Cat Oficial__ __ __ __ __ __ __ __ __ 19
+
+91 5a Cat Oficial__ __ __ __ __ __ __ __ __ 19
+
+117 4a Cat Oficial__ __ __ __ __ __ __ __ __ 19
+
+130 5a Cat Oficial__ __ __ __ __ __ __ __ __ 19
+
+177 4a Cat Dactilógrafo__ __ __ __ __ __ __ 19
+
+7 5a Cat Taquígrafo__ __ __ __ __ __ __ __ 20
+
+19 6a Cat Oficial__ __ __ __ __ __ __ __ __ 20
+
+51 6a Cat Oficial__ __ __ __ __ __ __ __ __ 20
+
+92 6a Cat Oficial__ __ __ __ __ __ __ __ __ 20
+
+123 6a Cat Oficial__ __ __ __ __ __ __ __ __ 20
+
+124 6a Cat Oficial__ __ __ __ __ __ __ __ __ 20
+
+170 6a Cat Dactilógrafo__ __ __ __ __ __ ___ 20
+
+178 6a Cat Dactilógrafo__ __ __ __ __ __ ___ 20
+
+179 6a Cat Dactilógrafo__ __ __ __ __ __ ___ 20
+
+180 6a Cat Dactilógrafo__ __ __ __ __ __ ___ 20
+
+202 6a Cat Inspector__ __ __ __ __ __ __ ___ 19
+
+20 Gr 1° Oficial__ __ __ __ __ __ __ __ __ 21
+
+52 Gr 1° Oficial__ __ __ __ __ __ __ __ __ 21
+
+61 Gr 1° Oficial__ __ __ __ __ __ __ __ __ 21
+
+54 Gr 2° Oficial__ __ __ __ __ __ __ __ __ 21
+
+118 Gr 2° Inspector__ __ __ __ __ __ __ ___ 21
+
+203 Gr 2° Inspector__ __ __ __ __ __ __ ___ 21
+
+71 Gr 3° Dactilógrafo__ __ __ __ __ __ ___ 22
+
+89 Gr 3° Inspector__ __ __ __ __ __ __ ___ 22
+
+125 Gr 3° Oficial__ __ __ __ __ __ __ __ __ 22
+
+131 Gr 3° Oficial__ __ __ __ __ __ __ __ __ 22
+
+26 Gr 4° Oficial__ __ __ __ __ __ __ __ __ 23
+
+32 Gr 4° Dactilógrafo__ __ __ __ __ __ ___ 23
+
+34 Gr 4° Oficial__ __ __ __ __ __ __ __ __ 23
+
+63 Gr 4° Dactilógrafo__ __ __ __ __ __ ___ 23
+
+72 Gr 4° Oficial Codificador__ __ __ __ __ 23
+
+109 Gr 4° Oficial__ __ __ __ __ __ __ __ __ 23
+
+110 Gr 4° Oficial__ __ __ __ __ __ __ __ __ 23
+
+126 Gr 4° Oficial__ __ __ __ __ __ __ __ __ 23
+
+171 Gr 4° Dactilógrafo__ __ __ __ __ __ ___ 23
+
+197 Gr 4° Dactilógrafo__ __ __ __ __ __ ___ 23
+
+205 Gr 4° Inspector__ __ __ __ __ __ __ ___ 23
+
+8 Gr 5° Dactilógrafo__ __ __ __ __ __ ___ 24
+
+11 Gr 5° Secretario Escuela de Deportes __ 24
+
+27 Gr 5° Oficial__ __ __ __ __ __ __ __ __ 24
+
+43 Gr 7° Oficial__ __ __ __ __ __ __ __ __ 24
+
+55 Gr 6° Oficial__ __ __ __ __ __ __ __ __ 24
+
+73 Gr 5° Oficial__ __ __ __ __ __ __ __ __ 24
+
+74 Gr 5° Inspector__ __ __ __ __ __ __ ___ 24
+
+78 Gr 6° Oficial__ __ __ __ __ __ __ __ __ 24
+
+84 Gr 5° Oficial__ __ __ __ __ __ __ __ __ 24
+
+96 Gr 6° Oficial__ __ __ __ __ __ __ __ __ 24
+
+111 Gr 6° Oficial__ __ __ __ __ __ __ __ __ 24
+
+119 Gr 5° Oficial__ __ __ __ __ __ __ __ __ 24
+
+127 Gr 5° Oficial__ __ __ __ __ __ __ __ __ 24
+
+140 Gr 6° Oficial__ __ __ __ __ __ __ __ __ 24
+
+147 Gr 5° Dactilógrafo__ __ __ __ __ __ ___ 24
+
+153 Gr 6° Dactilógrafo__ __ __ __ __ __ ___ 24
+
+163 Gr 5° Dactilógrafo__ __ __ __ __ __ ___ 24
+
+182 Gr 6° Dactilógrafo__ __ __ __ __ __ ___ 24
+
+183 Gr 6° Oficial__ __ __ __ __ __ __ __ __ 24
+
+206 Gr 5° Dactilógrafo. __ __ __ __ __ ___ 24
+
+207 Gr 5° Inspector__ __ __ __ __ __ __ ___ 24
+
+3 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+4 Gr 10° Oficial__ __ __ __ __ __ __ __ __ 25
+
+5 Gr 10° Telefonista__ __ __ __ __ __ __ _ 25
+
+9 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+15 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+21 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+38 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+64 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+75 Gr 8° Dactilógrafo__ __ __ __ __ __ ___ 25
+
+82 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+85 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+113 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+120 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+121 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+133 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+134 Gr 8° Oficial__ __ __ __ __ __ __ __ __ 25
+
+164 Gr 8° Dactilógrafo__ __ __ __ __ __ ___ 25
+
+210 Gr 8° Inspector__ __ __ __ __ __ __ ___ 25
+
+211 Gr 8° Inspector__ __ __ __ __ __ __ ___ 25
+
+212 Gr 8° Inspector__ __ __ __ __ __ __ ___ 25
+
+213 Gr 9° Inspector__ __ __ __ __ __ __ ___ 26
+
+39 Gr 10° Oficial__ __ __ __ __ __ __ __ __ 26
+
+57 Gr 9° Oficial__ __ __ __ __ __ __ __ __ 26
+
+97 Gr 9° Oficial__ __ __ __ __ __ __ __ __ 26
+
+135 Gr 10° Oficial__ __ __ __ __ __ __ __ __ 26
+
+56 Gr 9° Oficial__ __ __ __ __ __ __ __ __ 26
+
+68 Gr 10° Oficial__ __ __ __ __ __ __ __ __ 27
+
+58 Gr 10° Oficial__ __ __ __ __ __ __ __ __ 28
+
+148 Gr 10° Oficial__ __ __ __ __ __ __ __ __ 28
+
+69 Gr 10° Oficial__ __ __ __ __ __ __ __ __ 30
+
+114 Gr 10° Oficial__ __ __ __ __ __ __ __ __ 30
+
+Letra "B" Planta Administrativa.
+
+1 5a Cat Administrador de Edificios
+
+Municipales__ __ __ __ __ __ __ __ 23
+
+2 6a Cat Sub-Administrador de Edificios
+
+Municipales__ __ __ __ __ __ __ __ 24
+
+3 6a Cat Sub-Administrador de Edificios
+
+Municipales__ __ __ __ __ __ __ __ 24
+
+6 Gr 1° Jefe Zona de Aseo__ __ __ __ __ __ 24
+
+7 Gr 2° Jefe Zona de Aseo__ __ __ __ __ __ 24
+
+10 Gr 4° Jefe Zonas de Jardines__ __ __ ___ 24
+
+17 Gr 5° Jefe Zona de Aseo__ __ __ __ __ __ 24
+
+23 Gr 7° Electricista Jefe Cuadrilla. __ _ 24
+
+138 Gr 4° Mecánico Jefe Maestranza__ __ __ _ 24
+
+12 Gr 5° Operador Máquina Xerox Jefe__ __ _ 25
+
+139 Gr 5° Mecánico Jefe de Taller__ __ __ __ 25
+
+141 Gr 7° Mecánico Jefe de Taller__ __ __ __ 25
+
+4 Gr 1° Conductor Máquina Pesada__ __ __ _ 25
+
+9 Gr 4° Conductor Máquina Pesada__ __ __ _ 25
+
+34 Gr 9° Conductor Máquina Pesada__ __ __ _ 25
+
+5 Gr 1° Mayordomo__ __ __ __ __ __ __ __ _ 25
+
+8 Gr 2° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+11 Gr 5° Mayordomo__ __ __ __ __ __ __ __ __ 25
+
+13 Gr 5° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+14 Gr 5° Telefonista__ __ __ __ __ __ __ ___ 25
+
+16 Gr 5° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+18 Gr 5° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+35 Gr 9° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+15 Gr 5° Mayordomo__ __ __ __ __ __ __ __ __ 26
+
+19 Gr 6° Mayordomo__ __ __ __ __ __ __ __ __ 26
+
+24 Gr 8° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+25 Gr 8° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+27 Gr 8° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+30 Gr 8° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+37 Gr 9° Telefonista. __ __ __ __ __ __ ___ 26
+
+20 Gr 7° Celador de Poblaciones__ __ __ __ _ 27
+
+21 Gr 7° Celador de Poblaciones__ __ __ __ _ 27
+
+22 Gr 7° Celador de Poblaciones__ __ __ __ _ 27
+
+33 Gr 9° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+36 Gr 9° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+26 Gr 8° Celador de Poblaciones__ __ __ __ _ 28
+
+28 Gr 8° Ordenanza__ __ __ __ __ __ __ __ __ 29
+
+29 Gr 8° Ordenanza__ __ __ __ __ __ __ __ __ 29
+
+31 Gr 8° Ordenanza__ __ __ __ __ __ __ __ __ 29
+
+32 Gr 9° Ordenanza__ __ __ __ __ __ __ __ __ 30
+
+38 Gr 9° Ordenanza__ __ __ __ __ __ __ __ __ 30
+
+Letra "C" Planta de Obreros.
+
+1 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+2 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+3 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+4 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+5 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+6 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+7 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+8 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+9 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+10 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+11 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+12 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+13 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+14 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+15 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+16 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+17 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+18 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+19 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+20 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+21 Gr 1° Chofer __ __ __ __ __ __ __ __ __ 25
+
+22 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+23 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+24 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+25 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+26 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+27 Gr 1° Chofer __ __ __ __ __ __ __ __ __ _ 25
+
+28 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+29 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+30 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+31 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+32 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+33 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+34 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+35 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+36 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+37 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+38 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+39 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+40 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+41 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+42 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+43 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+44 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+45 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+46 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+47 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+48 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+49 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+50 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+51 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+52 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+53 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+54 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+55 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+56 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+57 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+58 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+59 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+60 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+61 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+62 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+63 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+64 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+65 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+66 Gr 1° Chofer Máquina Pesada. __ __ __ _ 25
+
+67 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+68 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+69 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+70 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 26
+
+71 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+72 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+73 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+74 Gr 1° Chofer__ __ __ __ __ __ __ __ __ _ 26
+
+75 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+76 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+77 Gr 1° Chofer__ __ __ __ __ __ __ __ __ _ 26
+
+78 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+79 Gr 1° Chofer__ __ __ __ __ __ __ __ __ _ 26
+
+80 Gr 1° Chofer Máquina Pesada__ __ __ __ _ 25
+
+81 Gr 1° Chofer__ __ __ __ __ __ __ __ __ _ 26
+
+82 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+83 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+84 Gr 1° Gásfiter__ __ __ __ __ __ __ __ __ 25
+
+85 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+86 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+87 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+88 Gr 1° Gásfiter__ __ __ __ __ __ __ __ __ 25
+
+89 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+90 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+91 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+92 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+93 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+94 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+95 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+96 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+97 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+98 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+99 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+100 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+101 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+102 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+103 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+104 Gr 1° Mayordomo__ __ __ __ __ __ __ __ _ 25
+
+105 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+106 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+107 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+108 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+109 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+110 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+111 Gr 1° Celador__ __ __ __ __ __ __ __ ___ 27
+
+112 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+113 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+114 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+115 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+116 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+117 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+118 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+119 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+120 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+121 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+122 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+123 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+124 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+125 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+126 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+127 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+128 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+129 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+130 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+131 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+132 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+133 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+134 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+135 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 27
+
+136 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+137 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+138 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+139 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+140 Gr 1° Mayordomo__ __ __ __ __ __ __ __ _ 25
+
+141 Gr 1° Jardinero. __ __ __ __ __ __ __ _ 25
+
+142 Gr 1° Mayordomo__ __ __ __ __ __ __ __ _ 25
+
+143 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+144 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+145 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 25
+
+146 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+147 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+148 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+149 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+150 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+151 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+152 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+153 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+154 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+155 Gr 1° Ordenanza__ __ __ __ __ __ __ __ _ 27
+
+156 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+157 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+158 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+159 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+160 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+161 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+162 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+163 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+164 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+165 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+166 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+167 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+168 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+169 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+170 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+171 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+172 Gr 1° Ayudante Mecánico__ __ __ __ __ __ 27
+
+173 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+174 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+175 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+176 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+177 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+178 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+179 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+180 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+181 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+182 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+183 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+184 Gr 1° Carpintero__ __ __ __ __ __ __ ___ 25
+
+185 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+186 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+187 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+188 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+189 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+190 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+191 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+192 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+193 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+194 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+195 Gr 1° Rondín__ __ __ __ __ __ __ __ __ _ 27
+
+196 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+197 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+198 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+199 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+200 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+201 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+202 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+203 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+204 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+205 Gr 1° Ordenanza__ __ __ __ __ __ __ __ _ 27
+
+206 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+207 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+208 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+209 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+210 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+211 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+212 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+213 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+214 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+215 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+216 Gr 1° Ordenanza__ __ __ __ __ __ __ __ _ 27
+
+217 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+218 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+219 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+220 Gr 1° Ordenanza__ __ __ __ __ __ __ __ _ 27
+
+221 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+222 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+223 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+224 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 26
+
+225 Gr 1° Ordenanza__ __ __ __ __ __ __ __ _ 27
+
+226 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+227 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+228 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+229 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+230 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+231 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+232 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+233 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+234 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+235 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+236 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+237 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+238 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+239 Gr 1° Ordenanza__ __ __ __ __ __ __ __ _ 28
+
+240 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+241 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+242 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+243 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+244 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+245 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+246 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+247 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+248 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+249 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+250 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+251 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+252 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+253 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+254 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+255 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+256 Gr 1° Ordenanza__ __ __ __ __ __ __ __ _ 28
+
+257 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+258 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+259 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+260 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+261 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+262 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+263 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+264 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+265 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+266 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+267 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+268 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+269 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+270 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+271 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 28
+
+272 Gr 1° Gásfiter__ __ __ __ __ __ __ __ __ 25
+
+273 Gr 1° Carpintero__ __ __ __ __ __ __ ___ 25
+
+274 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+275 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+276 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+277 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+278 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+279 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+280 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+281 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+282 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+283 Gr 1° Ordenanza__ __ __ __ __ __ __ __ _ 28
+
+284 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+285 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 27
+
+286 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+287 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+288 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+289 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+290 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+291 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+292 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+293 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+294 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+295 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+296 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+297 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+298 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 29
+
+299 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+300 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+301 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+302 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+303 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+304 Gr 1° Barredor__ __ __ __ __ __ __ __ __ 29
+
+305 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 29
+
+306 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+307 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+308 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+309 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 29
+
+310 Gr 1° Jardinero__ __ __ __ __ __ __ __ _ 28
+
+311 Gr 1° Peluquero__ __ __ __ __ __ __ __ _ 25
+
+312 Gr 1° Mayordomo__ __ __ __ __ __ __ __ _ 25
+
+313 Gr 1° Peoneta__ __ __ __ __ __ __ __ ___ 28
+
+314 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+315 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+316 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+317 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+318 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+319 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+320 Gr 1° Ordenanza__ __ __ __ __ __ __ __ __ 28
+
+321 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+322 Gr 1° Ordenanza__ __ __ __ __ __ __ __ __ 28
+
+323 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+324 Gr 1° Peoneta. __ __ __ __ __ __ __ __ _ 28
+
+325 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+326 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+327 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+328 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+329 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+330 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+331 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+332 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+333 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+334 Gr 1° Auxiliar Ambulancia__ __ __ __ __ _ 27
+
+335 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+336 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+337 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+338 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+339 Gr 1° Electricista__ __ __ __ __ __ __ __ 25
+
+340 Gr 1° Aseadora__ __ __ __ __ __ __ __ ___ 27
+
+341 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+342 Gr 1° Aseadora__ __ __ __ __ __ __ __ ___ 27
+
+343 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+344 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+345 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+346 Gr 1° Barredor__ __ __ __ __ __ __ __ ___ 29
+
+347 Gr 1° Barredor__ __ __ __ __ __ __ __ ___ 29
+
+348 Gr 1° Barredor__ __ __ __ __ __ __ __ ___ 29
+
+349 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+350 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+351 Gr 1° Barredor__ __ __ __ __ __ __ __ ___ 29
+
+352 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+353 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+354 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+355 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+356 Gr 1° Demarcador Tránsito__ __ __ __ __ _ 26
+
+357 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+358 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+359 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+360 Gr 1° Bodeguero__ __ __ __ __ __ __ __ __ 25
+
+361 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+362 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+363 Gr 1° Peluquero__ __ __ __ __ __ __ __ __ 25
+
+364 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+365 Gr 1° Barredor__ __ __ __ __ __ __ __ ___ 29
+
+366 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+367 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+368 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+369 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+370 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+371 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+372 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+373 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+374 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+375 Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 28
+
+376 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+377 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+378 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+379 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+380 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 28
+
+381 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+382 Gr 1° Aseadora__ __ __ __ __ __ __ __ ___ 27
+
+383 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+384 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+385 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+386 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+387 Gr 1° Barredor__ __ __ __ __ __ __ __ ___ 29
+
+388 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+389 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+390 Gr 1° Ayudante Mecánico__ __ __ __ __ ___ 27
+
+391 Gr 1° Barredor__ __ __ __ __ __ __ __ ___ 29
+
+392 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+393 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+394 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+395 Gr 1° Peluquero__ __ __ __ __ __ __ __ __ 25
+
+396 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+397 Gr 1° Ayudante mecánico__ __ __ __ __ ___ 27
+
+398 Gr 1° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+399 Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+400 Gr 1° Mayordomo__ __ __ __ __ __ __ __ __ 25
+
+401 Gr 1° Ordenanza__ __ __ __ __ __ __ __ __ 30
+
+402 Gr Chofer Máquina Pesada__ __ __ __ __ 25
+
+403 Gr 2° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+404 Gr 2° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+405 Gr 2° Chofer Máquina Pesada__ __ __ __ __ 25
+
+406 Gr 2° Chofer Máquina Pesada__ __ __ __ __ 25
+
+407 Gr 2° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+408 Gr 2° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+409 Gr 2° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+410 Gr 2° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+411 Gr 2° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+412 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+413 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+414 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+415 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+416 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+417 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+418 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+419 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+420 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+421 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+422 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+423 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+424 Gr 2° Ordenanza__ __ __ __ __ __ __ __ __ 30
+
+425 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+426 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+427 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+428 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+429 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+430 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+431 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+432 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+433 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+434 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+435 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+436 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+437 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+438 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+439 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+440 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+441 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+442 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+443 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+444 Gr 2° Peoneta_ __ __ __ __ __ __ __ __ _ 29
+
+445 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+446 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+447 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+448 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+449 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+450 Gr 2° Ordenanza__ __ __ __ __ __ __ __ __ 30
+
+451 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+452 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+453 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+454 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+455 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+456 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+457 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+458 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+459 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+460 Gr 2° Ayudante Mecánico__ __ __ __ __ ___ 28
+
+461 Gr 2° Aseadora__ __ __ __ __ __ __ __ ___ 28
+
+462 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+463 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+464 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+465 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+466 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+467 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+468 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+469 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+470 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+471 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+472 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+473 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+474 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+475 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+476 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+477 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+478 Gr 2° Carpintero__ __ __ __ __ __ __ __ _ 26
+
+479 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+480 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+481 Gr 2° Aseador__ __ __ __ __ __ __ __ __ _ 28
+
+482 Gr 2° Ordenanza__ __ __ __ __ __ __ __ __ 30
+
+483 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+484 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+485 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+486 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+487 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+488 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+489 Gr 2° Ayudante Mecánico_ __ __ __ __ ___ 28
+
+490 Gr 2° Ayudante Mecánico__ __ __ __ __ ___ 28
+
+491 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 29
+
+492 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+493 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+494 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+495 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+496 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 29
+
+497 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+498 Gr 2° Electricista_ __ __ __ __ __ __ __ 26
+
+499 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+500 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+501 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 28
+
+502 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+503 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+504 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+505 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+506 Gr 2° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+507 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+508 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+509 Gr 2° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+510 Gr 2° Gásfiter__ __ __ __ __ __ __ __ ___ 26
+
+511 Gr 2° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+512 Gr 2° Aseadora__ __ __ __ __ __ __ __ ___ 28
+
+513 Gr 3° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+514 Gr 3° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+515 Gr 3° Barredor__ __ __ __ __ __ __ __ ___ 31
+
+516 Gr 3° Barredor__ __ __ __ __ __ __ __ ___ 31
+
+517 Gr 3° Barredor__ __ __ __ __ __ __ __ ___ 31
+
+518 Gr 3° Barredor__ __ __ __ __ __ __ __ ___ 31
+
+519 Gr 3° Jardinero__ __ __ __ __ __ __ __ __ 30
+
+520 Gr 3° Barredor__ __ __ __ __ __ __ __ ___ 31
+
+521 Gr 3° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+522 Gr 3° Barredor__ __ __ __ __ __ __ __ ___ 31
+
+523 Gr 3° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+524 Gr 3° Ayudante Mecánico_ __ __ __ __ ___ 28
+
+525 Gr 3° Jardinero__ __ __ __ __ __ __ __ __ 30
+
+526 Gr 3° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+527 Gr 3° Barredor__ __ __ __ __ __ __ __ ___ 31
+
+528 Gr 3° Barredor__ __ __ __ __ __ __ __ ___ 31
+
+529 Gr 3° Jardinero__ __ __ __ __ __ __ __ __ 30
+
+530 Gr 3° Jardinero__ __ __ __ __ __ __ __ __ 30
+
+531 Gr 3° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+532 Gr 3° Aseadora__ __ __ __ __ __ __ __ ___ 29
+
+533 Gr 3° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+534 Gr 3° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+535 Gr 3° Ayudante Electricista__ __ __ __ __ 29
+
+536 Gr 3° Rondín__ __ __ __ __ __ __ __ __ __ 29
+
+537 Gr 3° Ayudante Mecánico__ __ __ __ __ ___ 28
+
+538 Gr 3° Jardinero__ __ __ __ __ __ __ __ __ 29
+
+539 Gr 3° Ayudante Mecánico__ __ __ __ __ ___ 28
+
+540 Gr 3° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+541 Gr 3° Ayudante Mecánico__ __ __ __ __ ___ 28
+
+542 Gr 4° Ayudante Mecánico__ __ __ __ __ ___ 29
+
+543 Gr 4° Jardinero__ __ __ __ __ __ __ __ __ 31
+
+544 Gr 4° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+545 Gr 4° Ordenanza__ __ __ __ __ __ __ __ __ 30
+
+546 Gr 4° Jardinero__ __ __ __ __ __ __ __ __ 31
+
+547 Gr 4° Gásfiter__ __ __ __ __ __ __ __ ___ 28
+
+548 Gr 4° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+549 Gr 4° Chofer__ __ __ __ __ __ __ __ __ __ 28
+
+550 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+551 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+552 Gr 5° Jardinero__ __ __ __ __ __ __ __ __ 31
+
+553 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+554 Gr 5° Jardinero__ __ __ __ __ __ __ __ __ 31
+
+555 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+556 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+557 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+558 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+559 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+560 Gr 5° Jardinero__ __ __ __ __ __ __ __ __ 31
+
+561 Gr 5° Jardinero__ __ __ __ __ __ __ __ __ 31
+
+562 Gr 5° Celador__ __ __ __ __ __ __ __ __ _ 31
+
+563 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+564 Gr 5° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+565 Gr 5° Jardinero__ __ __ __ __ __ __ __ __ 31
+
+566 Gr 5° Jardinero__ __ __ __ __ __ __ __ __ 31
+
+567 Gr 5° Jardinero__ __ __ __ __ __ __ __ __ 31
+
+568 Gr 6° Peoneta__ __ __ __ __ __ __ __ __ _ 30
+
+al
+
+620
+
+El o los cargos de Director de Personal y bienestar Abogado N° 22 grado 7° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Subdirector de Transito - Contador N° 60 grado 9° se convertirán en grado 10° al quedar vacantes.
+
+El o los cargos de Subdirector de Inspecc. de Policía Local Constructor Civil N° 199 grado 9° se convertirán en grado 10° al quedar vacantes.
+
+El o los cargos de Subdirector de Subsistencias y Pattes. Comerciales N° 143 grado 9° se convertirán en grado 10° al quedar vacantes.
+
+El o los cargos de Ingeniero Civil N° 155 grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Ingeniero Civil N° 174 grado 9° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Abogado N° 47 grado 11° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Constructor Civil N.os 156 y 168 grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Arquitecto N° 169 grado 11° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Barredor N° 271 grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jardinero N.os 298, 305, 309, 314, 323, 325, 326, 327, 328, 329, 330, 331, 332, 345 y 354 grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Constructor Civil N° 157 grado 12° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Arquitecto N° 158 grado 12° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Constructor Civil N° 200 grado 12° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Abogado N° 53 grado 15° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Arquitecto N° 190 grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Asistente Social N.os 30 y 31 grado 15° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Arquitecto N.os 162 y 191 grado 15° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Arquitecto N.os 208 y 209 grado 15° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Asistente Social N° 196 grado 17° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Perfoverificador I.B.M. N° 103 grado 20° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Contador N° 146 grado 24° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Secretario Ejecutivo N° 14 grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Secretario Ejecutivo N° 44 grado 19° se convertirán en grado 23° al quedar vacantes.
+
+El o los cargos de Secretario Ejecutivo N.os 62, 152, 25 y 204 grado 19° se convertirán en grado 22° al quedar vacantes.
+
+El o los cargos de Secretario Ejecutivo N.os 186 y 144 grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Receptor Juzgado de Policía Local N° 50 grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Oficial N.os 66, 91 y 130 grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Oficial N° 43, grado 24° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Oficial N.os 55, 78, 96, 111, 140 y 183 grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Dactilógrafo N.os 153 y 182 grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Oficial N.os 3, 9, 15, 21, 38, 64, 82, 85, 113, 120, 121, 133 y 134 grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficial N° 4 grado 25° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Telefonista grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Dactilógrafo N.os 75 y 164 grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Inspector N° 213 grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficial N° 39 grado 26° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Oficial N.os 57, 97 y 56 grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Oficial N° 135 grado 26° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Oficial N° 68 grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Oficial N.os 58 y 148 grado 28° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Oficial N.os 69 y 114 grado 30° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Jefe Zona de Jardines N° 10 grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Jefe Zona de Aseo N° 17 grado 24° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Electricista Jefe de Cuadrilla N° 23 grado 24° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Mecánico Jefe de Taller N° 141 grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Conductor Máquina Pesada N° 9 grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Conductor Máquina Pesada N° 34 grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Mayordomo N° 11 grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Chofer N.os 13, 16 y 18 grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Chofer N° 35 grado 25° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Mayordomo N° 19 grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Chofer N.os 24, 25, 27 y 30 grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Telefonista N° 37 grado 26° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Chofer N.os 33, 36, 403, 404, 407, 408, 409, 410, 411 y 523 grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Ordenanza N.os 32 y 38 grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Chofer Máquina Pesada N.os 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 26, 28 y 30 grado 25° se convertirán en grado 26° al quedar vacantes.
+
+El o los cargos de Chofer Máquina Pesada N.os 31, 32, 33, 34, 37, 38, 39, 40, 41, 42, 45, 47, 49, 50 y 51 grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Chofer Máquina Pesada N.os 53, 55, 56, 57, 58, 66, 71, 72, 73, 75, 76, 78, 80, 402, 405 y 406 grado 25° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Chofer N.os 64, 65, 67, 68, 69, 70, 74, 77, 79 y 81 grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Barredor N.os 209, 211, 217, 221, 228, 232, 235, 238, 240, 242, 244, 245, 259, 278, 281, 290, 297, 299, 301, 302, 304, 346, 347 y 348 grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jardinero N.os 306, 310, 315, 316, 317, 318, 321, 343, 344, 349, 350, 352, 353, 355 y 362 grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Barredor N.os 351, 365, 387 y 391 grado 29° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Demarcador de Tránsito N° 356 grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Jardinero N.os 364, 367, 368, 369, 370, 371, 373, 376, 378, 379, 385, 386, 433 y 436 grado 28° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Chofer N.os 375 y 549 grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Jardinero N.os 383, 389, 399, 412, 415, 418, 419, 426, 427, 428, 435, 441, 451, 453, 457 y 464 grado 29° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Barredor N.os 414, 416, 417, 420, 421, 431, 439, 440, 442, 443, 446, 447, 449, 454, 455 y 459 grado 30° se convertirán en grado 32° al quedar vacantes.
+
+El o los cargos de Barredor N.os 462, 467, 477, 479, 486, 487, 494, 495, 505, 508 y 509 grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Jardinero N.os 465, 470, 474 y 501 grado 28° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Jardinero N.os 469, 471, 472, 473, 475, 476, 506 y 538 grado 29° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Barredor N° 491 grado 29° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Barredor N.os 515, 516, 517, 518, 520, 522, 527 y 528 grado 31° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Jardinero N.os 519, 525, 529 y 530 grado 30° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Jardinero N.os 543, 546, 552, 554, 560, 561, 565, 566 y 567 grado 31° se convertirán en grado 35° al quedar vacantes.
+
+Los cargos de Peonetas N° 569 al 571, se ubicarán en el grado 30°.
+
+Los cargos de Peonetas N° 572 al N° 599, se ubicarán en el grado 32°.
+
+Los cargos de Peonetas N° 600 al N° 620, se ubicarán en el grado 32° con conversión al grado 35° al quedar vacantes.
+
+#### Artículo 4°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de ñuñoa, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Designación Actual Escala Unica
+
+-------------------------------------------------------
+
+Alcalde__ __ __ __ __ __ __ __ __ __ __ __ __ 4
+
+Directores de Departamento
+
+1a Cat Secretaria Municipal__ __ __ __ __ _ 6
+
+1a Cat Obras Municipales__ __ __ __ __ __ _ 6
+
+1a Cat Asesoría Urbana__ __ __ __ __ __ ___ 6
+
+1a Cat Defensa__ __ __ __ __ __ __ __ __ __ 6
+
+1a Cat Secretaria de la Alcaldía. __ __ __ 7
+
+1a Cat Control__ __ __ __ __ __ __ __ __ __ 7
+
+1a Cat Tránsito__ __ __ __ __ __ __ __ __ _ 7
+
+1a Cat Subsistencia y Abastecimiento__ __ _ 7
+
+1a Cat Aseo y Jardines__ __ __ __ __ __ ___ 7
+
+1a Cat Personal y Servicios Administrativos 7
+
+1a Cat Planificación y Rentas__ __ __ __ __ 7
+
+1a Cat Desarrollo Social__ __ __ __ __ __ _ 7
+
+1a Cat Jueces del Primer y Segundo Juzgado
+
+de Policía Local__ __ __ __ __ __ __ 5
+
+2a Cat Subdirectores__ __ __ __ __ __ __ __ 9
+
+3a Cat Subdirectores__ __ __ __ __ __ __ __ 9
+
+4a Cat Subdirectores__ __ __ __ __ __ __ __ 9
+
+2a Cat Secretario-Abogado del Primer y
+
+Segundo Juzgado de Policía Local__ _ 8
+
+Subdepartamento Casa de la Cultura.
+
+5a Cat Director__ __ __ __ __ __ __ __ __ _ 9
+
+Gr 1° Subdirector__ __ __ __ __ __ __ __ _ 13
+
+Planta Profesional
+
+5a Cat Abogados__ __ __ __ __ __ __ __ __ _ 8
+
+6a Cat Abogado__ __ __ __ __ __ __ __ __ __ 12
+
+3a Cat Jefes Sección - Arquitecto__ __ __ _ 9
+
+3a Cat Arquitecto__ __ __ __ __ __ __ __ __ 12
+
+4a Cat Arquitecto__ __ __ __ __ __ __ __ __ 13
+
+5a Cat Arquitecto__ __ __ __ __ __ __ __ __ 15
+
+Gr 1° Arquitecto__ __ __ __ __ __ __ __ __ 17
+
+2a Cat Médico Psicotécnico__ __ __ __ __Ley 15.076
+
+2a Cat Jefe Sección - Constructor Civil__ _ 10
+
+4a Cat Constructor Civil__ __ __ __ __ __ _ 13
+
+5a Cat Jefe Sección - Constructor Civil__ _ 14
+
+Gr 3° Ingeniero Ejecución Mecánica__ __ _ 17
+
+Gr 1° Constructor Civil__ __ __ __ __ __ 17
+
+Gr 3° Constructor Civil__ __ __ __ __ __ 19
+
+Gr 4° Ingeniero Calculista__ __ __ __ __ 15
+
+3a Cat Asistentes Sociales __ __ __ __ __ 13
+
+Gr 3° Asistente Social__ __ __ __ __ ___ 17
+
+Gr 5° Asistente Social__ __ __ __ __ ___ 21
+
+5a Cat Jefe Sección - Contador__ __ __ __ 13
+
+Gr 1° Contadores__ __ __ __ __ __ __ ___ 18
+
+Gr 5° Contador__ __ __ __ __ __ __ __ __ 20
+
+3a Cat Jefe Sección - Bibliotecaria__ ___ 14
+
+5a Cat Bibliotecaria__ __ __ __ __ __ ___ 19
+
+Gr 1° Bibliotecaria__ __ __ __ __ __ ___ 21
+
+Planta Administrativa.
+
+4a Cat Jefe Sección__ __ __ __ __ __ __ _ 13
+
+5a Cat Jefe Sección__ __ __ __ __ __ __ _ 15
+
+6a Cat Jefe Sección__ __ __ __ __ __ __ _ 16
+
+Gr 1° Jefe Sección__ __ __ __ __ __ __ _ 17
+
+Gr 3° Jefe Sección__ __ __ __ __ __ __ _ 18
+
+Gr 2° Jefe Sección__ __ __ __ __ __ __ _ 18
+
+4a Cat Jefe Sección__ __ __ __ __ __ __ _ 14
+
+3a Cat Prosecretario Municipal__ __ __ __ 14
+
+5a Cat Subjefe Sección__ __ __ __ __ __ _ 19
+
+Gr 4° Subjefe Sección__ __ __ __ __ __ _ 20
+
+5a Cat Secretarios Ejecutivos__ __ __ ___ 19
+
+6a Cat Secretario Ejecutivo__ __ __ __ __ 20
+
+Gr 1° Secretario Ejecutivo__ __ __ __ __ 21
+
+Gr 2° Secretario Ejecutivo__ __ __ __ __ 22
+
+Gr 3° Secretario Ejecutivo__ __ __ __ __ 23
+
+6a Cat Taquígrafa__ __ __ __ __ __ __ ___ 19
+
+Gr 2° Taquígrafa__ __ __ __ __ __ __ ___ 21
+
+Gr 1° Dibujante__ __ __ __ __ __ __ __ _ 20
+
+Gr 5° Dibujante__ __ __ __ __ __ __ __ _ 21
+
+5a Cat Administrador Casa Consistorial___ 19
+
+Gr 2° Inspector Licencias Vehículos__ __ 19
+
+5a Cat Inspectores__ __ __ __ __ __ __ __ 19
+
+Gr 1° Inspector__ __ __ __ __ __ __ __ _ 19
+
+Gr 2° Inspector__ __ __ __ __ __ __ __ _ 20
+
+Gr 3° Inspector__ __ __ __ __ __ __ __ _ 21
+
+Gr 4° Inspector__ __ __ __ __ __ __ __ _ 21
+
+Gr 5° Inspector__ __ __ __ __ __ __ __ _ 22
+
+Gr 8° Inspectores__ __ __ __ __ __ __ __ 23
+
+Gr 2° Relacionador Público__ __ __ __ __ 19
+
+Gr 6° Relacionador Público__ __ __ __ __ 21
+
+5a Cat Oficial Revisor Contabilidad__ ___ 20
+
+Gr 3° Oficial Revisor Contabilidad__ ___ 24
+
+Gr 1° Ayudante Jefe de Zona__ __ __ __ _ 20
+
+Gr 2° Ayudante Jefe de Zona__ __ __ __ _ 21
+
+4a Cat Actuario__ __ __ __ __ __ __ __ __ 19
+
+6a Cat Oficial Revisión Técnica Vehículos 24
+
+4a Cat Secretaria Jefatura__ __ __ __ ___ 19
+
+6a Cat Secretaria Jefatura__ __ __ __ ___ 21
+
+Gr 1° Secretaria Jefatura__ __ __ __ ___ 22
+
+Gr 2° Secretaria Jefatura__ __ __ __ ___ 23
+
+Gr 3° Secretarias Jefaturas__ __ __ __ _ 24
+
+Gr 4° Secretaria Jefatura__ __ __ __ ___ 25
+
+Gr 5° Secretarias Jefaturas__ __ __ __ _ 27
+
+Gr 2° Oficial de Partes__ __ __ __ __ __ 24
+
+Gr 3° Pañolero__ __ __ __ __ __ __ __ __ 25
+
+Gr 3° Actuario__ __ __ __ __ __ __ __ __ 22
+
+Gr 5° Oficial Registro Documentos__ __ _ 27
+
+Gr 2° Oficiales Planilla__ __ __ __ __ _ 24
+
+Gr 5° Oficiales Planilla__ __ __ __ __ _ 27
+
+Gr 2° Jefe Bodega Casa Consistorial__ __ 23
+
+Gr 4° Jefe Taller Eléctrico__ __ __ __ _ 24
+
+5a Cat Oficiales__ __ __ __ __ __ __ __ _ 20
+
+6a Cat Oficiales__ __ __ __ __ __ __ __ _ 21
+
+Gr 1° Receptor__ __ __ __ __ __ __ __ __ 23
+
+Gr 2° Secretaria Dactilógrafa__ __ __ __ 23
+
+Gr 3° Secretaria Dactilógrafa__ __ __ __ 24
+
+Gr 4° Secretaria Dactilógrafa__ __ __ __ 25
+
+Gr 5° Secretarias Dactilógrafas__ __ ___ 27
+
+Gr 1° Oficiales__ __ __ __ __ __ __ __ _ 22
+
+Gr 2° Oficiales__ __ __ __ __ __ __ __ _ 23
+
+Gr 3° Oficiales__ __ __ __ __ __ __ __ _ 24
+
+Gr 4° Oficiales__ __ __ __ __ __ __ __ _ 25
+
+Gr 5° Oficiales__ __ __ __ __ __ __ __ _ 27
+
+Gr 6° Oficiales__ __ __ __ __ __ __ __ _ 28
+
+Gr 8° Oficiales__ __ __ __ __ __ __ __ _ 29
+
+Gr 1° Administrador Mercado__ __ __ __ _ 22
+
+Gr 5° Administrador Gimnasio__ __ __ __ _ 23
+
+5a Cat Oficial__ __ __ __ __ __ __ __ __ _ 20
+
+Gr 2° Oficial__ __ __ __ __ __ __ __ __ _ 23
+
+6a Cat Practicante__ __ __ __ __ __ __ ___ 24
+
+Gr 3° Inspector de Ferias__ __ __ __ __ _ 23
+
+Gr 2° Oficial__ __ __ __ __ __ __ __ __ _ 23
+
+Gr 3° Oficial__ __ __ __ __ __ __ __ __ _ 24
+
+Gr 8° Oficial__ __ __ __ __ __ __ __ __ _ 29
+
+Gr 3° Electricista__ __ __ __ __ __ __ __ 25
+
+Gr 1° Mayordomo Mercado__ __ __ __ __ ___ 25
+
+Gr 3° Maestro Baterías__ __ __ __ __ __ _ 25
+
+Gr 3° Tornero__ __ __ __ __ __ __ __ __ _ 25
+
+Gr 3° Electricista Vehículos__ __ __ __ _ 25
+
+Gr 4° Electricista Vehículos__ __ __ __ _ 25
+
+Gr 1° Mecánico__ __ __ __ __ __ __ __ ___ 25
+
+Gr 2° Mecánicos__ __ __ __ __ __ __ __ __ 25
+
+Gr 3° Mecánico__ __ __ __ __ __ __ __ ___ 25
+
+Gr 4° Mecánicos__ __ __ __ __ __ __ __ __ 25
+
+6a Cat Chofer__ __ __ __ __ __ __ __ __ __ 25
+
+Gr 6° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+Planta Servicios Menores.
+
+5a Cat Choferes__ __ __ __ __ __ __ __ ___ 25
+
+6a Cat Choferes__ __ __ __ __ __ __ __ ___ 25
+
+Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+Gr 2° Chofer__ __ __ __ __ __ __ __ __ __ 29
+
+5a Cat Gásfiter__ __ __ __ __ __ __ __ ___ 26
+
+6a Cat Carpintero__ __ __ __ __ __ __ __ _ 27
+
+Gr 3° Pintor Yesero__ __ __ __ __ __ __ _ 28
+
+Gr 3° Rondín__ __ __ __ __ __ __ __ __ __ 28
+
+Gr 1° Bodegueros__ __ __ __ __ __ __ __ _ 24
+
+Gr 3° Bodegueros__ __ __ __ __ __ __ __ _ 27
+
+Gr 1° Maestro de Cocina__ __ __ __ __ ___ 27
+
+Gr 1° Tractorista__ __ __ __ __ __ __ ___ 25
+
+Gr 1° Auxiliares de Enfermería__ __ __ __ 24
+
+Gr 1° Chofer Barredora__ __ __ __ __ __ _ 27
+
+Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ 27
+
+Gr 1° Engrasador__ __ __ __ __ __ __ __ _ 27
+
+Gr 1° Soldador__ __ __ __ __ __ __ __ ___ 25
+
+Gr 1° Electricista__ __ __ __ __ __ __ __ 25
+
+Gr 1° Mecánico__ __ __ __ __ __ __ __ ___ 25
+
+Gr 1° Auxiliar__ __ __ __ __ __ __ __ ___ 27
+
+Gr 1° Desabollador__ __ __ __ __ __ __ __ 27
+
+Gr 1° Herrero__ __ __ __ __ __ __ __ __ _ 27
+
+Gr 1° Peluquero__ __ __ __ __ __ __ __ __ 27
+
+Gr 1° Gásfiter__ __ __ __ __ __ __ __ ___ 27
+
+Gr 1° Albañil__ __ __ __ __ __ __ __ __ _ 27
+
+Gr 1° Ayudante Tornero__ __ __ __ __ __ _ 27
+
+Gr 1° Varillero__ __ __ __ __ __ __ __ __ 27
+
+Gr 1° Pintor__ __ __ __ __ __ __ __ __ __ 28
+
+Gr 1° Carpinteros__ __ __ __ __ __ __ ___ 28
+
+Gr 2° Carpintero__ __ __ __ __ __ __ __ _ 29
+
+Gr 3° Carpintero__ __ __ __ __ __ __ __ _ 30
+
+Gr 1° Ayudante Cocina__ __ __ __ __ __ __ 28
+
+Gr 1° Podador__ __ __ __ __ __ __ __ __ _ 28
+
+Gr 1° Ayudante Carpintero__ __ __ __ __ _ 29
+
+Gr 1° Ordenanza__ __ __ __ __ __ __ __ __ 30
+
+Gr 1° Control Vehículos __ __ __ __ __ __ 30
+
+Gr 1° Obreros__ __ __ __ __ __ __ __ __ _ 28
+
+Gr 2° Obreros__ __ __ __ __ __ __ __ __ _ 29
+
+Gr 3° Obreros__ __ __ __ __ __ __ __ __ _ 30
+
+Gr 4° Obreros__ __ __ __ __ __ __ __ __ _ 31
+
+Gr 5° Obreros__ __ __ __ __ __ __ __ __ _ 32
+
+Gr 1° Cargador__ __ __ __ __ __ __ __ ___ 30
+
+Gr 1° Barredor__ __ __ __ __ __ __ __ ___ 30
+
+Gr 1° Jardinero__ __ __ __ __ __ __ __ __ 30
+
+Gr 1° Rondín__ __ __ __ __ __ __ __ __ __ 28
+
+Gr 1° Ayudante Jardinero__ __ __ __ __ __ 31
+
+Gr 2° Ayudante Jardinero__ __ __ __ __ __ 31
+
+=======================================================
+
+El o los cargos de Director de Subsistencia y Abastecimiento grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Director de Personal y Servicios Administrativos grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Director Desarrollo Social grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Asistentes Sociales grado 13 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Jefe Sección - Contador grado 13 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Jefe Sección grado 13 se convertirán en grado 14 al quedar vacantes.
+
+El o los cargos de Actuario grado 22 se convertirán en grado 25 al quedar vacantes.
+
+El o los cargos de Oficiales grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Mayordomo Mercado grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Maestro Baterías grado 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Tornero Gr. 3° Planta Administrativa grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Electricista Vehículos Gr. 4° Planta Administrativa grado 25 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Mecánicos Gr. 2° Planta Administrativa grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Mecánico Gr. 3° Planta Administrativa grado 25 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Mecánicos Gr. 4° Planta Administrativa grado 25 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Chofer Gr. 6° Planta Administrativa grado 27 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Choferes 6a. Cat. Planta Servicios Menores grado 25 se convertirán en grado 26 al quedar vacantes.
+
+El o los cargos de Choferes Gr. 1° Planta Servicios Menores grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Rondín grado 28 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Bodegueros grado 24 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Bodegueros grado 27 se convertirán en grado 29 al quedar vacantes.
+
+El o los cargos de Maestro de Cocina grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Tractorista grado 25 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Electricista Gr. 1° Planta Servicios Menores grado 25 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Mecánico Gr. 1° Planta Servicios Menores, Gr. 25 Soldador Gr. 25 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Herrero Gr. 27, Ayudante Tornero Gr. 27 y Varillero grado 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Peluquero Gr. 27 y Gásfiter Gr. 27 se convertirán en grado 28 al quedar vacantes.
+
+El o los cargos de Ayudante Cocina grado 28 se convertirán en grado 30 al quedar vacantes.
+
+El o los cargos de Ayudante Carpintero grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros grado 32 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Cargador grado 30 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Barredor grado 30 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Ayudante Jardinero Gr. 1° grado 31 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Ayudante Jardinero Gr. 2° grado 31 se convertirán en grado 35 al quedar vacantes.
+
+#### Artículo 5°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Providencia, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Designación Actual Escala Unica
+
+-------------------------------------------------------
+
+Alcalde__ __ __ __ __ __ __ __ __ __ _ 4
+
+1a Cat Secretario Municipal Abogado y
+
+Jefe del Personal__ __ __ __ __ __ __ 6
+
+1a Cat Secretario Abogado de la Alcaldía__ _ 6
+
+1a Cat Director de Obras Municipales__ __ __ 6
+
+1a Cat Asesor Urbanista__ __ __ __ __ __ ___ 6
+
+1a Cat Abogado Jefe de la Defensa Municipal 6
+
+1a Cat Director del Tránsito (Ingeniero)__ _ 7
+
+1a Cat Director de Contabilidad y Control
+
+(Contador)__ __ __ __ __ __ __ __ ___ 7
+
+1a Cat Director de Aseo y Jardines__ __ __ _ 7
+
+1a Cat Juez de Policía Local__ __ __ __ __ _ 5
+
+1a Cat Director de Control Administrativo y
+
+Bienestar del Personal (Asistente
+
+Social)__ __ __ __ __ __ __ __ __ ___ 8
+
+1a Cat Director del Instituto Cultural y
+
+Administrador del Teatro Municipal___ 8
+
+1a Cat Director de Adquisiciones__ __ __ ___ 8
+
+1a Cat Director de Subsistencias__ __ __ ___ 8
+
+1a Cat Director de Policía e Inspección
+
+Local (Patentes)__ __ __ __ __ __ ___ 8
+
+2a Cat Arquitecto Revisor de la Dirección de
+
+Obras Municipales__ __ __ __ __ __ __ 8
+
+3a Cat Abogado Defensa Municipal__ __ __ ___ 8
+
+2a Cat Subdirector de Contabilidad y Control
+
+(Contador). __ __ __ __ __ __ __ ___ 9
+
+2a Cat Arquitecto Edificios Municipales y
+
+Planes Habitacionales__ __ __ __ __ _ 9
+
+2a Cat Arquitecto Paisajista de Urbanismo__ _ 9
+
+2a Cat Arquitectos Plano Regulador Urbanismo_ 9
+
+3a Cat Arquitecto Plano Regulador Urbanismo__ 10
+
+2a Cat Secretario Abogado Juzgado de Policía
+
+Local__ __ __ __ __ __ __ __ __ __ ___ 8
+
+4a Cat Arquitecto Obras Municipales__ __ __ _ 11
+
+4a Cat Inspector Constructor Civil Obras__ __ 11
+
+Gr 4° Ingeniero Calculista Obras__ __ __ ___ 10
+
+3a Cat Subdirector Instituto Cultural__ __ __ 11
+
+3a Cat Bibliotecaria Jefe Instituto Cultural_ 11
+
+3a Cat Subdirector Policía e Inspección
+
+Local__ __ __ __ __ __ __ __ __ __ ___ 9
+
+3a Cat Subdirector del Tránsito__ __ __ __ __ 10
+
+3a Cat Subdirector de Adquisiciones__ __ __ _ 9
+
+3a Cat Subdirector de Aseo y Jardines__ __ __ 9
+
+5a Cat Arquitecto Plano Regulador Urbanismo__ 12
+
+5a Cat Inspector Constructor Civil Obras__ __ 12
+
+6a Cat Abogado Defensa Municipal__ __ __ __ _ 12
+
+Gr 1° Ingeniero Agrónomo__ __ __ __ __ __ __ 12
+
+5a Cat Oficial Secretaría Municipal -
+
+Prosecretaria - Jefe Sección__ __ ___ 13
+
+5a Cat Jefe de Balance Contabilidad y Control
+
+- Jefe Sección__ __ __ __ __ __ __ __ 13
+
+6a Cat Jefe Coordinación Servicios y
+
+Relaciones Públicas - Jefe Sección__ _ 13
+
+6a Cat Jefe de Pagos Contabilidad y Control
+
+Jefe Sección__ __ __ __ __ __ __ __ __ 13
+
+Gr 1° Abogado Defensa Municipal__ __ __ ___ 15
+
+6a Cat Asistente Social Control Administrativo
+
+y Bienestar del Personal__ __ __ __ __ 13
+
+Gr 1° Jefes de Zona Aseo y Jardines__ __ __ 14
+
+Gr 1° Jefe Sección Planillas Contabilidad y
+
+Control__ __ __ __ __ __ __ __ __ __ _ 14
+
+Gr 5° Actuario Juzgado Policía Local
+
+(Abogado)_ __ __ __ __ __ __ __ __ __ 14
+
+Gr 6° Actuario Juzgado Policía Local
+
+(Abogado)_ __ __ __ __ __ __ __ __ __ 14
+
+Gr 3° Jefe Inspectores Policía e Inspección
+
+Local - Jefe Sección__ __ __ __ __ __ 16
+
+Gr 1° Bibliotecaria Instituto Cultural__ __ 17
+
+Gr 1° Contador Policía e Inspección Local__ 18
+
+Gr 4° Contador Contabilidad y Control__ ___ 18
+
+Gr 2° Bibliotecarias Instituto Cultural__ __ 19
+
+Gr 3° Asistente Social Control Administrativo
+
+y Bienestar del Personal__ __ __ __ __ 19
+
+Gr 4° Técnico Agrícola__ __ __ __ __ __ __ _ 19
+
+6a Cat Oficial Secretaría Juzgado Policía
+
+Local__ __ __ __ __ __ __ __ __ __ ___ 19
+
+6a Cat Actuario Juzgado Policía Local_ __ ___ 19
+
+6a Cat Secretaria del Alcalde__ __ __ __ __ _ 19
+
+Gr 1° Inspectores Generales__ __ __ __ __ __ 19
+
+Gr 1° Oficial Secretaría Alcaldía__ __ __ __ 19
+
+Gr 1° Oficial Secretaría Municipal_ __ __ __ 19
+
+Gr 1° Inspector General__ __ __ __ __ __ ___ 19
+
+Gr 1° Oficial Adquisiciones__ __ __ __ __ __ 19
+
+Gr 2° Actuario Juzgado Policía Local__ __ __ 20
+
+Gr 2° Oficial de Adquisiciones__ __ __ __ __ 20
+
+Gr 2° Secretaria Consejo Instituto Cultural_ 20
+
+Gr 2° Oficial de Tránsito__ __ __ __ __ __ _ 20
+
+Gr 2° Oficiales de Policía e Inspección
+
+Local__ __ __ __ __ __ __ __ __ __ __ 20
+
+Gr 2° Oficial Secretaría Juzgado de Policía
+
+Local__ __ __ __ __ __ __ __ __ __ __ 20
+
+Gr 2° Oficial Tránsito__ __ __ __ __ __ ___ 20
+
+Gr 2° Oficial Contabilidad y Control Sección
+
+Planillas__ __ __ __ __ __ __ __ __ _ 20
+
+Gr 2° Oficial Secretaría Municipal__ __ __ 20
+
+Gr 2° Oficial Urbanismo__ __ __ __ __ __ __ 20
+
+Gr 2° Secretaria Instituto Cultural__ __ __ 20
+
+Gr 2° Secretaria Director de Obras__ __ ___ 20
+
+Gr 2° Coordinador Instituto Cultural__ __ _ 20
+
+Gr 3° Jefe Taller Aseo__ __ __ __ __ __ ___ 21
+
+Gr 3° Oficial Secretaría Municipal__ __ ___ 21
+
+Gr 3° Oficial__ __ __ __ __ __ __ __ __ ___ 21
+
+Gr 3° Oficial Defensa Municipal__ __ __ ___ 21
+
+Gr 3° Oficiales Secretaría Alcaldía__ __ __ 21
+
+Gr 3° Oficiales Tránsito__ __ __ __ __ __ _ 21
+
+Gr 3° Inspectores Generales__ __ __ __ __ _ 21
+
+Gr 3° Oficiales Instituto Cultural__ __ ___ 21
+
+Gr 3° Oficial Secretaría Municipal__ __ ___ 21
+
+Gr 3° Oficial Balance Contabilidad y Control 21
+
+Gr 3° Oficial Contabilidad y Control__ __ _ 21
+
+Gr 3° Oficial Biblioteca Municipal__ __ ___ 21
+
+Gr 3° Oficial Sección Propaganda Policía e
+
+Inspección Local__ __ __ __ __ __ ___ 21
+
+Gr 3° Actuario Juzgado de Policía Local__ _ 21
+
+Gr 3° Oficial Policía e Inspección Local___ 21
+
+Gr 3° Oficial Adquisiciones__ __ __ __ __ _ 21
+
+Gr 3° Oficial Planillas Contabilidad y
+
+Control__ __ __ __ __ __ __ __ __ ___ 21
+
+Gr 3° Coordinador Ferias y Mercados
+
+Subsistencias__ __ __ __ __ __ __ ___ 21
+
+Gr 4° Oficiales Policía e Inspección Local 22
+
+Gr 4° Inspectores Generales__ __ __ __ __ _ 22
+
+Gr 4° Oficiales__ __ __ __ __ __ __ __ __ __ 22
+
+Gr 4° Oficiales Secretaría de la Alcaldía __ 22
+
+Gr 4° Oficiales Departamento del Tránsito___ 22
+
+Gr 4° Oficial Instituto Cultural__ __ __ ___ 22
+
+Gr 4° Oficial Pagos Contabilidad y Control__ 22
+
+Gr 4° Secretaria Biblioteca Instituto
+
+Cultural__ __ __ __ __ __ __ __ __ ___ 22
+
+Gr 4° Oficial de Obras__ __ __ __ __ __ __ _ 22
+
+Gr 4° Oficiales Coordinación Servicios y
+
+Relaciones Públicas__ __ __ __ __ __ _ 22
+
+Gr 4° Oficial Instituto Cultural__ __ __ ___ 22
+
+Gr 4° Oficiales Secretaría Municipal__ __ __ 22
+
+Gr 4° Oficial Juzgado de Policía Local__ ___ 22
+
+Gr 4° Oficial de Subsistencias__ __ __ __ __ 22
+
+Gr 4° Oficial Planillas Contabilidad y
+
+Control__ __ __ __ __ __ __ __ __ __ _ 22
+
+Gr 5° Oficiales Tránsito__ __ __ __ __ __ __ 23
+
+Gr 5° Oficial Secretaría Alcaldía__ __ __ __ 23
+
+Gr 5° Oficial Dirección de Obras__ __ __ ___ 23
+
+Gr 5° Inspectores Generales__ __ __ __ __ __ 23
+
+Gr 5° Oficial Contabilidad y Control__ __ __ 23
+
+Gr 5° Oficial__ __ __ __ __ __ __ __ __ __ _ 23
+
+Gr 5° Oficial Instituto Cultural__ __ __ ___ 23
+
+Gr 5° Oficial Policía e Inspección Local__ _ 23
+
+Gr 5° Oficial Planillas Contabilidad y
+
+Control__ __ __ __ __ __ __ __ __ __ _ 23
+
+Gr 6° Actuario Juzgado Policía Local__ __ __ 24
+
+Gr 5° Oficial Secretaría Alcaldía__ __ __ __ 23
+
+Gr 5° Oficial Dirección de Obras__ __ __ ___ 23
+
+Gr 5° Oficial Control Administrativo y
+
+Bienestar del Personal__ __ __ __ __ _ 23
+
+Gr 5° Oficial Secretaría Municipal__ __ __ _ 23
+
+Gr 6° Oficial Secretaría de la Alcaldía__ __ 24
+
+Gr 6° Inspector General__ __ __ __ __ __ ___ 24
+
+Gr 6° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 6° Oficiales Policía e Inspección Local__ 24
+
+Gr 6° Oficial Dirección de Obras__ __ __ ___ 24
+
+Gr 6° Oficial Contabilidad y Control__ __ __ 24
+
+Gr 6° Oficial Tránsito__ __ __ __ __ __ __ _ 24
+
+Gr 7° Oficiales de Tránsito__ __ __ __ __ __ 26
+
+Gr 6° Oficial Control Administrativo y
+
+Bienestar del Personal__ __ __ __ __ _ 24
+
+Gr 7° Oficial Juzgado de Policía Local__ ___ 26
+
+Gr 7° Oficiales Juzgado Policía Local__ __ _ 26
+
+Gr 7° Oficial__ __ __ __ __ __ __ __ __ __ _ 26
+
+Gr 7° Oficial de Adquisiciones__ __ __ __ __ 26
+
+Gr 8° Oficial Secretaría de la Alcaldía __ _ 28
+
+Gr 8° Oficial Departamento de Aseo__ __ __ _ 28
+
+Gr 2° Choferes__ __ __ __ __ __ __ __ __ ___ 25
+
+Gr 3° Mayordomo Instituto Cultural__ __ __ _ 25
+
+Gr 3° Choferes__ __ __ __ __ __ __ __ __ ___ 26
+
+Gr 4° Cuidador Estadio Municipal__ __ __ ___ 26
+
+Gr 7° Mayordomo Dependencias Edificio
+
+Consistorial__ __ __ __ __ __ __ __ __ 26
+
+Gr 4° Choferes__ __ __ __ __ __ __ __ __ ___ 27
+
+Gr 6° Mensajero Municipal__ __ __ __ __ __ _ 27
+
+Gr 5° Choferes__ __ __ __ __ __ __ __ __ ___ 28
+
+Gr 5° Bodeguero Aseo y Jardines__ __ __ __ _ 28
+
+Gr 6° Choferes__ __ __ __ __ __ __ __ __ ___ 28
+
+Gr 7° Choferes__ __ __ __ __ __ __ __ __ ___ 29
+
+Gr 9° Electricista Aseo y Jardines__ __ __ _ 28
+
+Gr 9° Auxiliar Policía e Inspección Local_ _ 30
+
+Gr 9° Choferes__ __ __ __ __ __ __ __ __ ___ 31
+
+Gr 9° Auxiliar Aseo y Jardines__ __ __ __ __ 31
+
+Gr 9° Auxiliar Contabilidad y Control__ __ _ 31
+
+Gr 9° Auxiliar Juzgado de Policía Local__ __ 31
+
+Planta de Obreros
+
+Gr 1° Jefe de Taller Mecánico__ __ __ __ ___ 24
+
+Gr 1° Mecánicos__ __ __ __ __ __ __ __ __ __ 25
+
+Gr 1° Electricista__ __ __ __ __ __ __ __ __ 25
+
+Gr 1° Gasfiteres__ __ __ __ __ __ __ __ __ _ 25
+
+Gr 1° Mayordomos__ __ __ __ __ __ __ __ __ _ 25
+
+Gr 1° Gasfiteres__ __ __ __ __ __ __ __ __ _ 26
+
+Gr 1° Ayudante Mecánico__ __ __ __ __ __ ___ 26
+
+Gr 1° Albañiles__ __ __ __ __ __ __ __ __ __ 27
+
+Gr 1° Sifoneros__ __ __ __ __ __ __ __ __ __ 27
+
+Gr 1° Chofer__ __ __ __ __ __ __ __ __ __ __ 27
+
+Gr 1° Soldador__ __ __ __ __ __ __ __ __ ___ 27
+
+Gr 1° Pañolero__ __ __ __ __ __ __ __ __ ___ 27
+
+Gr 3° Gásfiter_ __ __ __ __ __ __ __ __ ___ 27
+
+Gr 1° Tolveros__ __ __ __ __ __ __ __ __ ___ 28
+
+Gr 1° Diseñadores__ __ __ __ __ __ __ __ ___ 28
+
+Gr 1° Fumigadores__ __ __ __ __ __ __ __ ___ 28
+
+Gr 1° Carpinteros__ __ __ __ __ __ __ __ ___ 28
+
+Gr 1° Pintores__ __ __ __ __ __ __ __ __ ___ 28
+
+Gr 1° Vulcanizador__ __ __ __ __ __ __ __ __ 28
+
+Gr 1° Desinfectador__ __ __ __ __ __ __ __ _ 28
+
+Gr 3° Albañiles__ __ __ __ __ __ __ __ __ __ 28
+
+Gr 1° Tolveros__ __ __ __ __ __ __ __ __ ___ 29
+
+Gr 1° Podadores__ __ __ __ __ __ __ __ __ __ 29
+
+Gr 1° Diseñadores__ __ __ __ __ __ __ __ ___ 29
+
+Gr 1° Fumigadores__ __ __ __ __ __ __ __ ___ 29
+
+Gr 1° Carpinteros__ __ __ __ __ __ __ __ ___ 29
+
+Gr 1° Desinfectador__ __ __ __ __ __ __ __ _ 29
+
+Gr 1° Aseadores__ __ __ __ __ __ __ __ __ __ 30
+
+Gr 1° Barbechadores__ __ __ __ __ __ __ __ _ 30
+
+Gr 1° Jardineros__ __ __ __ __ __ __ __ __ _ 30
+
+Gr 1° Podadores__ __ __ __ __ __ __ __ __ __ 30
+
+Gr 3° Carpinteros_ __ __ __ __ __ __ __ ___ 30
+
+Gr 3° Tolvero__ __ __ __ __ __ __ __ __ __ _ 30
+
+Gr 1° Aseadores__ __ __ __ __ __ __ __ __ __ 31
+
+Gr 1° Jardineros__ __ __ __ __ __ __ __ __ _ 31
+
+Gr 1° Barbechadores__ __ __ __ __ __ __ __ _ 31
+
+Gr 2° Obreros__ __ __ __ __ __ __ __ __ __ _ 31
+
+Gr 3° Obreros__ __ __ __ __ __ __ __ __ __ _ 32
+
+El o los cargos de Arquitectos Edificios Municipales y Planes Habitacionales grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Arquitecto Paisajista de Urbanismo grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Arquitectos Plano Regulador Urbanismo grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Arquitectos Plano Regulador Urbanismo grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Arquitecto Obras Municipales grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Inspector Constructor Civil Obras grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Ingeniero Calculista Obras grado 10° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Bibliotecaria Jefe Instituto Cultural grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Arquitecto Plano Regulador Urbanismo grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Inspector Constructor Civil Obras grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Oficial de Secretaría Municipal, Pro-Secretaría, Jefe de Sección grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Jefe Balance Contabilidad y Control, Jefe de Sección grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Jefe Coordinación Servicios, Relaciones Públicas, Jefe de Sección grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Jefe de Pagos Contabilidad y Control, Jefe Sección grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos Abogado Defensa Municipal grado 15° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Asistente Social Control Administrativo y Bienestar del Personal grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Actuario Juzgado Policía Local (Abogado) grados 5°, 6° y 14° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Bibliotecaria Instituto Cultural grado 17° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Bibliotecaria Instituto Cultural grado 19° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Inspector General grado 24° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Cuidador Estadio Municipal grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Mensajero Municipal grado 27° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Choferes grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Choferes grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Auxiliar de Policía e Inspección Local grado 30° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Auxiliar Aseo y Jardines grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Auxiliar Contabilidad y Control grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Auxiliar Juzgado Policía Local grado 31° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Electricistas grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Mayordomo grado 25° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Gasfiteres grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Ayudante Mecánico grado 26° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Sifoneros grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Chofer grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Soldador grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Pañolero grado 27° se convertirán en grado 28° al quedar vacantes.
+
+El o los cargos de Gásfiter grado 27° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Albañiles grado 28° se convertirán en grado 29° al quedar vacantes.
+
+El o los cargos de Diseñadores grado 29° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Fumigadores grado 29° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Carpinteros grado 29° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Desinfectador grado 29° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Podadores grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Carpinteros grado 30° y Tolvero grado 30° se convertirán en grado 33° al quedar vacantes.
+
+El o los cargos de Aseadores grado 31°, Jardineros Grado 31° y Barbechadores grado 31° se convertirán en grado 35° al quedar vacantes.
+
+El o los cargos de Obreros grado 32° se convertirán en grado 35° al quedar vacantes.
+
+#### Artículo 6°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Santiago, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+N° Grado
+
+Designación Actual Cargos Escala Unica
+
+-------------------------------------------------------
+
+Alcalde__ __ __ __ __ __ __ __ __ __ 1 3
+
+Secretario Municipal Abogado,
+
+Coordinador e Inspector General de
+
+los Servicios, Alcalde Subrogante __ 1 4
+
+Secretario Municipal__ __ __ __ __ _ 1 6
+
+Secretario Abogado__ __ __ __ __ __ 1 6
+
+Director Administrador Teatro
+
+Municipal__ __ __ __ __ __ __ __ __ 1 6
+
+Tesorero Municipal__ __ __ __ __ __ 1 6
+
+Director de Rentas Municipales__ __ 1 6
+
+Director de Control Sanitario e
+
+Higiene de los Alimentos_ __ __ __ 1 6
+
+Director Abogado, Contraloría
+
+Municipal__ __ __ __ __ __ __ __ __ 1 6
+
+Director Asesor, Urbanista, Ingeniero
+
+Civil o Arquitecto de Obras
+
+Municipales __ __ __ __ __ __ __ __ 1 5
+
+Director del Tránsito__ __ __ __ __ 1 6
+
+Director de Aseo, Ingeniero Civil__ 1 6
+
+Director de Jardines y Policía Local 1 6
+
+Director de Subsistencias__ __ __ __ 1 6
+
+Director de Pavimentación, Ingeniero
+
+Civil_ __ __ __ __ __ __ __ __ __ __ 1 5
+
+Abogado Jefe de la Dirección
+
+Jurídica y Defensa Legal__ __ __ __ 1 5
+
+Director del Personal__ __ __ __ __ 1 7
+
+Director de Bienestar Social_ __ __ 1 7
+
+Director de Aprovisionamiento __ __ 1 7
+
+Director de Desarrollo Social y
+
+Comunal_ __ __ __ __ __ __ __ __ __ 1 7
+
+Director de Inspección Gral__ __ __ 1 7
+
+Director de Mantenimiento_ __ __ __ 1 7
+
+Director de Ejecución de Obras y
+
+Emergencia_ __ __ __ __ __ __ __ __ 1 7
+
+Director de Propiedades __ __ __ __ 1 7
+
+Ingenieros Civiles Jefes__ __ __ __ 9 7
+
+Ingenieros Civil o Arquitecto
+
+Subdirector __ __ __ __ __ __ __ __ 1 7
+
+Administrador Público - Jefe
+
+Departamento__ __ __ __ __ __ __ __ 1 7
+
+Subdirectores Profesionales__ __ __ 6 8
+
+Arquitectos Jefes __ __ __ __ __ __ 6 8
+
+Jefe Departamento Profesional __ __ 1 8
+
+Subcoordinador e Inspector General
+
+de los Servicios Abogado__ __ __ __ 1 8
+
+Jueces de Policía Local __ __ __ __ 4 5
+
+Jefes Departamento_ __ __ __ __ __ 7 9
+
+Subjefes Departamento - Profesionales 2 9
+
+Subdirectores_ __ __ __ __ __ __ __ 9 9
+
+Abogados __ __ __ __ __ __ __ __ __ 3 9
+
+Constructores Civiles Jefes__ __ __ 3 9
+
+Ingeniero Agrónomo Jefe __ __ __ __ 1 9
+
+Subtesorero __ __ __ __ __ __ __ __ 1 9
+
+Médico Veterinario__ __ __ __ __ __ 1 9
+
+Abogados Procuradores__ __ __ __ __ 2 9
+
+Fiscal Abogado __ __ __ __ __ __ __ 1 9
+
+Arquitectos o Ingenieros Civiles __ 7 9
+
+Asistentes Sociales Jefes __ __ __ 5 10
+
+Jefes de Subdepartamentos __ __ __ 2 10
+
+Administradores Públicos__ __ __ __ 2 10
+
+Contadores Jefes __ __ __ __ __ __ 8 10
+
+Constructores Civiles__ __ __ __ __ 8 10
+
+Ingenieros Jefes __ __ __ __ __ __ 2 10
+
+Jefe Profesional __ __ __ __ __ __ 1 10
+
+Administrador Jefe de Departamento_ 1 10
+
+Arquitectos __ __ __ __ __ __ __ __ 9 10
+
+Secretarios Abogados __ __ __ __ __ 4 10
+
+Médico Veterinario__ __ __ __ __ __ 1 10
+
+Arquitectos __ __ __ __ __ __ __ __ 6 11
+
+Jefe de Subdepartamento __ __ __ __ 1 11
+
+Constructores Civiles__ __ __ __ __ 3 11
+
+Contador Jefe_ __ __ __ __ __ __ __ 1 11
+
+Químico Industrial__ __ __ __ __ __ 1 11
+
+Prácticos Agrícolas Jefes_ __ __ __ 3 12
+
+Jefes de Subdepartamentos_ __ __ __ 5 12
+
+Abogados __ __ __ __ __ __ __ __ __ 2 12
+
+Subjefes Ejecución, Ingenieros
+
+Mecánicos__ __ __ __ __ __ __ __ __ 2 12
+
+Arquitectos, Ingeniero o Constructor
+
+Civil __ __ __ __ __ __ __ __ __ __ 6 12
+
+Contadores Jefes_ __ __ __ __ __ __ 3 12
+
+Administrador Público__ __ __ __ __ 1 12
+
+Prácticos Agrícolas Jefes_ __ __ __ 3 13
+
+Jefes de Sección_ __ __ __ __ __ __ 9 13
+
+Asistentes Sociales_ __ __ __ __ __ 2 13
+
+Contador Jefe_ __ __ __ __ __ __ __ 1 13
+
+Administradores Jefes__ __ __ __ __ 2 13
+
+Inspector General __ __ __ __ __ __ 1 13
+
+Médicos Veterinarios __ __ __ __ __ 3 13
+
+Constructor Civil __ __ __ __ __ __ 1 13
+
+Jefes de Sección_ __ __ __ __ __ __ 17 14
+
+Secretario Abogado__ __ __ __ __ __ 1 14
+
+Contadores Jefes_ __ __ __ __ __ __ 5 14
+
+Abogado_ __ __ __ __ __ __ __ __ __ 1 14
+
+Médicos Veterinarios __ __ __ __ __ 10 14
+
+Procurador_ __ __ __ __ __ __ __ __ 1 14
+
+Constructores Civiles o Arquitectos 2 14
+
+Subjefe Contador_ __ __ __ __ __ __ 1 14
+
+Prácticos Agrícolas_ __ __ __ __ __ 5 14
+
+Jefes de Sección_ __ __ __ __ __ __ 17 15
+
+Jefe de Caja__ __ __ __ __ __ __ __ 1 15
+
+Contador Jefe_ __ __ __ __ __ __ __ 1 15
+
+Subjefes de Sección __ __ __ __ __ 2 15
+
+Asistentes Sociales_ __ __ __ __ __ 2 15
+
+Inspector Técnico __ __ __ __ __ __ 1 15
+
+Subinspector Contador__ __ __ __ __ 1 16
+
+Constructor Civil __ __ __ __ __ __ 1 16
+
+Contador Subjefe_ __ __ __ __ __ __ 1 16
+
+Jefes de Sección_ __ __ __ __ __ __ 29 16
+
+Bibliotecónomo __ __ __ __ __ __ __ 1 16
+
+Asistentes Sociales_ __ __ __ __ __ 2 16
+
+Subjefes de Sección_ __ __ __ __ __ 9 16
+
+Jefes de Sección_ __ __ __ __ __ __ 21 17
+
+Subjefes de Sección_ __ __ __ __ __ 2 17
+
+Actuarios__ __ __ __ __ __ __ __ __ 4 17
+
+Administrador de Sección__ __ __ __ 1 17
+
+Jefes de Sección_ __ __ __ __ __ __ 10 18
+
+Secretarias Ejecutivas_ __ __ __ __ 13 18
+
+Subjefes de Sección_ __ __ __ __ __ 4 18
+
+Contadores_ __ __ __ __ __ __ __ __ 12 18
+
+Dibujantes_ __ __ __ __ __ __ __ __ 16 19
+
+Entrenadores de Foot-ball y Tennis_ 3 19
+
+Subjefes de Sub-Sección __ __ __ __ 12 19
+
+Bibliotecónomo __ __ __ __ __ __ __ 1 19
+
+Secretarias __ __ __ __ __ __ __ __ 38 19
+
+Taquígrafos __ __ __ __ __ __ __ __ 6 19
+
+Oficiales__ __ __ __ __ __ __ __ __ 7 19
+
+Inspectores __ __ __ __ __ __ __ __ 32 19
+
+Cajero__ __ __ __ __ __ __ __ __ __ 1 19
+
+Martillero_ __ __ __ __ __ __ __ __ 1 19
+
+Jefes de Sub-Sección __ __ __ __ __ 5 19
+
+Topógrafo__ __ __ __ __ __ __ __ __ 1 19
+
+Contador __ __ __ __ __ __ __ __ __ 1 19
+
+Constructor Civil __ __ __ __ __ __ 1 19
+
+Prácticos Agrícolas_ __ __ __ __ __ 2 19
+
+Recaudador_ __ __ __ __ __ __ __ __ 1 19
+
+Cajeros_ __ __ __ __ __ __ __ __ __ 19 20
+
+Contadores_ __ __ __ __ __ __ __ __ 5 20
+
+Jefes de Sub-Sección __ __ __ __ __ 13 20
+
+Inspectores __ __ __ __ __ __ __ __ 34 20
+
+Taquígrafo_ __ __ __ __ __ __ __ __ 1 20
+
+Ayudantes Técnicos_ __ __ __ __ __ 3 20
+
+Oficiales__ __ __ __ __ __ __ __ __ 4 20
+
+Actuarios__ __ __ __ __ __ __ __ __ 14 20
+
+Administradores__ __ __ __ __ __ __ 2 20
+
+Secretarios __ __ __ __ __ __ __ __ 6 20
+
+Despachadores_ __ __ __ __ __ __ __ 2 20
+
+Martilleros __ __ __ __ __ __ __ __ 5 20
+
+Encargado del Personal_ __ __ __ __ 1 20
+
+Asistente Social_ __ __ __ __ __ __ 1 20
+
+Tramitador Despacho_ __ __ __ __ __ 1 20
+
+Cajeros_ __ __ __ __ __ __ __ __ __ 17 21
+
+Contador __ __ __ __ __ __ __ __ __ 1 21
+
+Actuarios__ __ __ __ __ __ __ __ __ 7 21
+
+Subjefe de Sub-Sección_ __ __ __ __ 1 21
+
+Martilleros __ __ __ __ __ __ __ __ 2 21
+
+Jefes de Sub-Sección __ __ __ __ __ 2 21
+
+Control de Personal_ __ __ __ __ __ 1 21
+
+Secretario_ __ __ __ __ __ __ __ __ 1 21
+
+Boleteros__ __ __ __ __ __ __ __ __ 3 21
+
+Cotizadores __ __ __ __ __ __ __ __ 6 21
+
+Tramitadores Despacho__ __ __ __ __ 2 21
+
+Dibujante__ __ __ __ __ __ __ __ __ 1 21
+
+Inspector__ __ __ __ __ __ __ __ __ 1 21
+
+Oficial Calculista__ __ __ __ __ __ 1 21
+
+Recaudadores de Multas __ __ __ __ 5 22
+
+Secretarios __ __ __ __ __ __ __ __ 22 22
+
+Contador __ __ __ __ __ __ __ __ __ 1 22
+
+Perfoverificadores__ __ __ __ __ __ 8 22
+
+Operador __ __ __ __ __ __ __ __ __ 1 22
+
+Bodegueros_ __ __ __ __ __ __ __ __ 8 22
+
+Revisores__ __ __ __ __ __ __ __ __ 2 22
+
+Jefes de Cuadrilla__ __ __ __ __ __ 6 22
+
+Subjefes de Sub-Sección __ __ __ __ 2 22
+
+Oficiales__ __ __ __ __ __ __ __ __ 2 22
+
+Cotizador__ __ __ __ __ __ __ __ __ 1 22
+
+Inspectores__ __ __ __ __ __ __ __ 2 22
+
+Técnico Laboratorista__ __ __ __ __ 1 22
+
+Tramitadores Despacho__ __ __ __ __ 2 22
+
+Chofer Alcalde __ __ __ __ __ __ __ 1 22
+
+Contadores_ __ __ __ __ __ __ __ __ 2 23
+
+Oficiales__ __ __ __ __ __ __ __ __ 100 23
+
+Secretarias __ __ __ __ __ __ __ __ 16 23
+
+Inspectores __ __ __ __ __ __ __ __ 3 23
+
+Receptor __ __ __ __ __ __ __ __ __ 1 23
+
+Electricistas Jefes __ __ __ __ __ 4 23
+
+Pintor Jefe __ __ __ __ __ __ __ __ 1 23
+
+Maestros Subjefes __ __ __ __ __ __ 2 23
+
+Recaudadores__ __ __ __ __ __ __ __ 2 23
+
+Maestros Jefes __ __ __ __ __ __ __ 19 23
+
+Despachadores_ __ __ __ __ __ __ __ 12 23
+
+Bodegueros_ __ __ __ __ __ __ __ __ 4 23
+
+Cajero__ __ __ __ __ __ __ __ __ __ 1 23
+
+Encargados de Sueldos y Jornales __ 4 23
+
+Contadores_ __ __ __ __ __ __ __ __ 2 24
+
+Oficiales__ __ __ __ __ __ __ __ __ 83 24
+
+Recaudadores__ __ __ __ __ __ __ __ 7 24
+
+Secretarios __ __ __ __ __ __ __ __ 66 24
+
+Inspectores __ __ __ __ __ __ __ __ 55 24
+
+Practicantes__ __ __ __ __ __ __ __ 2 24
+
+Maquinistas __ __ __ __ __ __ __ __ 39 24
+
+Despachadores_ __ __ __ __ __ __ __ 8 24
+
+Mecánico Jefe __ __ __ __ __ __ __ 1 24
+
+Electricistas_ __ __ __ __ __ __ __ 4 24
+
+Maestro Subjefe__ __ __ __ __ __ __ 1 24
+
+Desabolladores __ __ __ __ __ __ __ 2 24
+
+Torneros __ __ __ __ __ __ __ __ __ 4 24
+
+Mayordomo__ __ __ __ __ __ __ __ __ 1 24
+
+Pañoleros__ __ __ __ __ __ __ __ __ 5 24
+
+Soldadores_ __ __ __ __ __ __ __ __ 4 24
+
+Gásfiter __ __ __ __ __ __ __ __ __ 1 24
+
+Oficiales__ __ __ __ __ __ __ __ __ 144 25
+
+Secretarias __ __ __ __ __ __ __ __ 3 25
+
+Choferes __ __ __ __ __ __ __ __ __ 48 25
+
+Electricistas_ __ __ __ __ __ __ __ 21 25
+
+Inspectores __ __ __ __ __ __ __ __ 44 25
+
+Mayordomos_ __ __ __ __ __ __ __ __ 11 25
+
+Bodeguero__ __ __ __ __ __ __ __ __ 1 25
+
+Mecánicos__ __ __ __ __ __ __ __ __ 61 25
+
+Cajero__ __ __ __ __ __ __ __ __ __ 1 25
+
+Recaudadores__ __ __ __ __ __ __ __ 5 25
+
+Operadoras de Teléfono __ __ __ __ 2 25
+
+Despachador __ __ __ __ __ __ __ __ 1 25
+
+Maestro Jefe__ __ __ __ __ __ __ __ 1 25
+
+Choferes __ __ __ __ __ __ __ __ __ 151 26
+
+Inspectores __ __ __ __ __ __ __ __ 72 26
+
+Oficiales__ __ __ __ __ __ __ __ __ 8 26
+
+Mecánicos__ __ __ __ __ __ __ __ __ 61 26
+
+Soldadores_ __ __ __ __ __ __ __ __ 2 26
+
+Pañoleros__ __ __ __ __ __ __ __ __ 11 26
+
+Subinspectores __ __ __ __ __ __ __ 8 26
+
+Mayordomos_ __ __ __ __ __ __ __ __ 2 26
+
+Oficiales__ __ __ __ __ __ __ __ __ 98 26
+
+Alarife_ __ __ __ __ __ __ __ __ __ 1 26
+
+Gasfíteres_ __ __ __ __ __ __ __ __ 20 26
+
+Albañiles__ __ __ __ __ __ __ __ __ 32 26
+
+Estucadores __ __ __ __ __ __ __ __ 4 26
+
+Inspectores __ __ __ __ __ __ __ __ 25 26
+
+Peluqueros_ __ __ __ __ __ __ __ __ 23 26
+
+Choferes __ __ __ __ __ __ __ __ __ 137 26
+
+Pañoleros__ __ __ __ __ __ __ __ __ 50 26
+
+Mecánicos__ __ __ __ __ __ __ __ __ 87 26
+
+Tramoyista_ __ __ __ __ __ __ __ __ 1 26
+
+Rondín__ __ __ __ __ __ __ __ __ __ 1 26
+
+Electricistas_ __ __ __ __ __ __ __ 2 26
+
+Despachador __ __ __ __ __ __ __ __ 1 26
+
+Maestros Jefes __ __ __ __ __ __ __ 4 26
+
+Cortadores de Baldosas __ __ __ __ 12 27
+
+Oficiales__ __ __ __ __ __ __ __ __ 72 27
+
+Pintores __ __ __ __ __ __ __ __ __ 16 27
+
+Subinspectores __ __ __ __ __ __ __ 10 27
+
+Carpinteros __ __ __ __ __ __ __ __ 27 27
+
+Gasfíteres_ __ __ __ __ __ __ __ __ 4 27
+
+Albañiles__ __ __ __ __ __ __ __ __ 16 27
+
+Maquinista_ __ __ __ __ __ __ __ __ 1 27
+
+Mayordomo__ __ __ __ __ __ __ __ __ 1 27
+
+Utilero_ __ __ __ __ __ __ __ __ __ 1 27
+
+Tramoyistas __ __ __ __ __ __ __ __ 8 27
+
+Operadores Telescópica_ __ __ __ __ 5 27
+
+Fumigadores __ __ __ __ __ __ __ __ 3 27
+
+Boleteros__ __ __ __ __ __ __ __ __ 6 27
+
+Ayudantes__ __ __ __ __ __ __ __ __ 9 28
+
+Carpinteros __ __ __ __ __ __ __ __ 10 28
+
+Utileros __ __ __ __ __ __ __ __ __ 3 28
+
+Cargadores_ __ __ __ __ __ __ __ __ 947 28
+
+Sastres_ __ __ __ __ __ __ __ __ __ 2 28
+
+Jardinero__ __ __ __ __ __ __ __ __ 1 28
+
+Albañiles__ __ __ __ __ __ __ __ __ 3 28
+
+Cortadores de Baldosas __ __ __ __ 23 28
+
+Porteros __ __ __ __ __ __ __ __ __ 76 29
+
+Rondines __ __ __ __ __ __ __ __ __ 147 29
+
+Aseadores__ __ __ __ __ __ __ __ __ 74 29
+
+Jardineros_ __ __ __ __ __ __ __ __ 147 29
+
+Tapiceros__ __ __ __ __ __ __ __ __ 2 29
+
+Sastres_ __ __ __ __ __ __ __ __ __ 3 29
+
+Cargadores_ __ __ __ __ __ __ __ __ 10 29
+
+Porteros Estafetas__ __ __ __ __ __ 179 30
+
+Rondines __ __ __ __ __ __ __ __ __ 10 30
+
+Aseadores__ __ __ __ __ __ __ __ __ 16 30
+
+Jardineros_ __ __ __ __ __ __ __ __ 329 30
+
+Ayudantes__ __ __ __ __ __ __ __ __ 8 31
+
+Peonetas __ __ __ __ __ __ __ __ __ 17 31
+
+Inspector__ __ __ __ __ __ __ __ __ 1 31
+
+Carpintero_ __ __ __ __ __ __ __ __ 1 31
+
+Albañil_ __ __ __ __ __ __ __ __ __ 1 31
+
+Electricista__ __ __ __ __ __ __ __ 1 32
+
+Ayudantes__ __ __ __ __ __ __ __ __ 8 32
+
+Cargadores_ __ __ __ __ __ __ __ __ 53 32
+
+Rondines_ __ __ __ __ __ __ __ __ _ 3 32
+
+Aseadores__ __ __ __ __ __ __ __ __ 4 32
+
+Ayudantes__ __ __ __ __ __ __ __ __ 13 32
+
+Ayudantes Jardineros __ __ __ __ __ 26 32
+
+Ayudante Pañolero __ __ __ __ __ __ 1 32
+
+=======================================================
+
+El cargo de Secretario Municipal Abogado Coordinador e Inspector General de los Servicios, Alcalde Subrogante grado 4° se convertirá en grado 5° al quedar vacantes.
+
+El o los cargos de Director de Bienestar Social grado 7° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Director de Mantenimiento grado 7° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Director de Aprovisionamiento grado 7° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Director de Ejecución de Obras y Emergencia grado 7° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Director de Propiedades grado 7° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Administrador Público - Jefe Departamento grado 7° se convertirán en grado 8° al quedar vacantes.
+
+El o los cargos de Jefe Departamento Profesional grado 8° se convertirán en grado 9° al quedar vacantes.
+
+El o los cargos de Subjefes Departamentos Profesionales grado 9° se convertirán en grado 10° al quedar vacantes.
+
+El o los cargos de Abogados Procuradores grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Fiscal Abogado grado 9° se convertirán en grado 10° al quedar vacantes.
+
+El o los cargos de Asistentes Sociales Jefes grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Jefe de Subdepartamentos grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Contadores Jefes grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Constructores Civiles grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Ingenieros Jefes grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Jefe Profesional grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Administrador Jefe Depto. grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Arquitectos grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Secretarios Abogados grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Médico Veterinario grado 10° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Arquitectos grado 11° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Jefe de Subdepartamento grado 11° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Constructores Civiles grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Contador Jefe grado 11° se convertirán en grado 13° al quedar vacantes.
+
+El o los cargos de Químico Industrial grado 11° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Prácticos Agrícolas Jefes grado 12° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Constructor Civil grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Contadores Jefes grado 12° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Prácticos Agrícolas Jefes grado 13° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Jefe de Sección grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Asistentes Sociales grado 13° se convertirán en grado 14° al quedar vacantes.
+
+El o los cargos de Contador Jefe grado 13° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Constructor Civil grado 13° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Jefes de Sección grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Secretario Abogado grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Contadores Jefes grado 14° se convertirán en grado 16° al quedar vacantes.
+
+El o los cargos de Abogado grado 14° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Procurador grado 14° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Constructores Civiles o Arquitectos grado 14° se convertirán en grado 16° al quedar vacantes.
+
+Para desempeñar este cargo el Constructor Civil debe acreditar experiencia de a lo menos 2 años.
+
+El o los cargos de Subjefes Contador grado 14° se convertirán en grado 15° al quedar vacantes.
+
+El o los cargos de Prácticos Agrícolas grado 14° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Contador Jefe grado 15° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Subjefes de Sección grado 15° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Constructor Civil grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Contador Subjefe grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Subjefes de Sección grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Subjefes de Sub-Sección grado 19° se convertirán en grado 20° al quedar vacantes.
+
+El o los cargos de Asistente Social grado 20° se convertirán en grado 21° al quedar vacantes.
+
+El o los cargos de Chofer Alcalde grado 22° se convertirán en grado 25° al quedar vacantes.
+
+El o los cargos de Contadores grado 24° se convertirán en grado 27° al quedar vacantes.
+
+El o los cargos de Oficiales grado 27° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Ayudantes grado 32°, Cargadores grado 32°, Rondines grado 32°, Aseadores grado 32°, Ayudantes Jardineros grado 32° y Ayudantes Pañolero grado 32° se convertirán en grado 35° al quedar vacantes.
+
+Para desempeñar los cargos de Arquitectos, Ingeniero o Constructor Civil grado 12°, en el caso del Ingeniero y Arquitecto deberán acreditar experiencia de 3 años a lo menos. El Constructor Civil deberá acreditar experiencia mínima de 5 años.
+
+El cargo de Secretario Municipal grado 6° se suprimirá al quedar vacante.
+
+El cargo de Subjefe de Sección grado 16° se suprimirá al quedar vacante.
+
+> **Nota.** NOTA: 3 El art. 17 del DL 2.341, de 1978, creó en la planta de la Municipalidad de Santiago, las siguientes plazas: "Médicos ley N° 15.076__ __ __ __ _352 horas semanales.
+
+> **Nota.** NOTA: 4 El art. 2° del DL 1.245, de 1975, sustituyó, a contar del 1° de enero de 1974, el grado 10° fijado a los 4 Secretarios Abogados de los Juzgados de Policía Local de la Municipalidad de Santiago, por el grado 8° de la Escala Unica y eliminó la conversión establecida.
+
+#### Artículo 7°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Valparaíso, N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Designación Actual Escala Unica
+
+-------------------------------------------------------
+
+Alcalde__ __ __ __ __ __ __ __ __ __ __ __ __ _ 3
+
+Secretario Coordinador y Director de Relaciones
+
+Públicas__ __ __ __ __ __ __ __ __ __ __ __ __ 6
+
+Director de Control__ __ __ __ __ __ __ __ ___ 6
+
+Director de Presupuesto y Tesorero Municipal__ 6
+
+Director Jefe de Defensa Municipal__ __ __ ___ 6
+
+Director de Planificación y Desarrollo Urbano_
+
+Comunal__ __ __ __ __ __ __ __ __ __ __ __ ___ 6
+
+Director de Obras__ __ __ __ __ __ __ __ __ __ 6
+
+Director de Higiene y Aseo y del Tránsito__ __ 7
+
+Director de Parque, Jardines y Recreación, y
+
+Director de Turismo, Extensión Cultural y
+
+Deportes__ __ __ __ __ __ __ __ __ __ __ __ __ 7
+
+Director de Abastecimiento y Subsistencias__ _ 7
+
+Director de Personal y Bienestar__ __ __ __ __ 7
+
+Director del Material y Director de
+
+Adquisiciones __ __ __ __ __ __ __ __ __ __ __ 7
+
+Juez del Primer, Segundo y Tercer Juzgado de
+
+Policía Local__ __ __ __ __ __ __ __ __ __ ___ 5
+
+Abogado Defensa Municipal__ __ __ __ __ __ ___ 8
+
+Arquitecto Subdirector de Obras__ __ __ __ ___ 8
+
+Abogado Dir. Control__ __ __ __ __ __ __ __ __ 8
+
+Abogado Dir. Tránsito__ __ __ __ __ __ __ __ _ 8
+
+Arquitecto Planif. y DUC__ __ __ __ __ __ __ _ 8
+
+Subdirectores de: Aseo; Parques; Tránsito;
+
+Abastecimiento; Turismo; Personal y Bienestar;
+
+Material; Adquisiciones y Presupuestos__ __ __ 8
+
+Jefe Contabilidad Tesorería__ __ __ __ __ __ _ 9
+
+Jefe Departamento Estudios Dir. Obras__ __ ___ 9
+
+Jefe Mantención Dir. Obras__ __ __ __ __ __ __ 9
+
+Jefe Catastro Dir. P. y DUC. __ __ __ __ __ __ 9
+
+Arquitecto Dir. de Obras__ __ __ __ __ __ __ _ 9
+
+Constructores Civiles Dir. de Obras__ __ __ __ 10
+
+Abogado Secretario del Primer, Segundo y Tercer
+
+Juzgado de Policía Local__ __ __ __ __ __ __ _ 8
+
+Contador Sub Jefe Tesorería__ __ __ __ __ __ _ 10
+
+Jefe Inspec. Dir. Control__ __ __ __ __ __ ___ 10
+
+Jefe Inspec. Dir. Obras__ __ __ __ __ __ __ __ 10
+
+Jefe Inspec. Dir. Aseo__ __ __ __ __ __ __ ___ 10
+
+Jefe Inspec. Dir. Tránsito__ __ __ __ __ __ __ 10
+
+Jefe Inspec. Dir. Abast. __ __ __ __ __ __ ___ 10
+
+Ingeniero Ejecutivo Maestranza__ __ __ __ __ _ 10
+
+Jefe Inspectores Dir. Planific. __ __ __ __ __ 10
+
+Jefe Extensión Cultural__ __ __ __ __ __ __ __ 10
+
+Jefe Depto. Mercados y Ferias__ __ __ __ __ __ 10
+
+Inspector Jefe Patentes Tesorerías__ __ __ ___ 10
+
+Asistente Social Jefe Servicio Social__ __ ___ 11
+
+Asistentes Sociales Dirección Personal__ __ __ 15
+
+Jefe Secretaría Municipal__ __ __ __ __ __ ___ 14
+
+Jefe Secretaría Alcaldía__ __ __ __ __ __ __ _ 14
+
+Jefe Secretaría Privada__ __ __ __ __ __ __ __ 15
+
+Oficial Jefe Matadero__ __ __ __ __ __ __ __ _ 15
+
+Sub-Jefe Ferias__ __ __ __ __ __ __ __ __ __ _ 16
+
+Jefe Sección Planillas__ __ __ __ __ __ __ ___ 16
+
+Jefe de Patentes Dir. Rentas__ __ __ __ __ ___ 16
+
+Jefes Zonas Parques y Jardines__ __ __ __ __ _ 16
+
+Cajera Jefe Tesorería__ __ __ __ __ __ __ __ _ 16
+
+Jefe Rentas Tesorería__ __ __ __ __ __ __ __ _ 16
+
+Subjefe Ingresos Tesorería__ __ __ __ __ __ __ 16
+
+Subjefe Tránsito__ __ __ __ __ __ __ __ __ ___ 16
+
+Subjefe Cotizaciones Dir. Abastec. __ __ __ __ 16
+
+Subjefe Aseo__ __ __ __ __ __ __ __ __ __ __ _ 16
+
+Subjefe Matanza Dir. Abastec. __ __ __ __ __ _ 16
+
+Subjefe Transferencias Dir. Rentas__ __ __ ___ 16
+
+Actuarios Jefe Notificaciones Juzgados Policía
+
+Local__ __ __ __ __ __ __ __ __ __ __ __ __ __ 16
+
+Subjefe Ingresos y Egresos Tesorería__ __ __ _ 16
+
+Subjefe Dir. Control__ __ __ __ __ __ __ __ __ 16
+
+Jefes Sección Oficios Juzgados Policía Local__ 17
+
+Jefe Sección Previsión Dir. Pers. __ __ __ ___ 17
+
+Subjefe Planillas Tesorería__ __ __ __ __ __ _ 17
+
+Jefes Cuartel Dir. Aseo__ __ __ __ __ __ __ __ 17
+
+Jefe Almacenes Dir. Adquisic. __ __ __ __ __ _ 17
+
+Subjefe Secret. Municipal__ __ __ __ __ __ ___ 17
+
+Subjefes Inspección__ __ __ __ __ __ __ __ ___ 17
+
+Jefe Sección Partes__ __ __ __ __ __ __ __ ___ 17
+
+Subjefe Sección Sueldos__ __ __ __ __ __ __ __ 17
+
+Subjefe Dir. Tránsito__ __ __ __ __ __ __ __ _ 17
+
+Jefe Habilitado Tesorería__ __ __ __ __ __ ___ 17
+
+Jefe Giros Globales Dir. Adquisic. __ __ __ __ 18
+
+Subjefe Almacenes Dir. Adquisic. __ __ __ __ _ 18
+
+Jefe Registro Conductores__ __ __ __ __ __ ___ 18
+
+Secretario Ejecución Dir. Obras__ __ __ __ ___ 18
+
+Secretario Gral. Dir. Control__ __ __ __ __ __ 18
+
+Secretario Gral. Inspec. Dir. Tránsito__ __ __ 18
+
+Secretario Gral. Inspec. Dir. Obras__ __ __ __ 18
+
+Secretario Gral. Inspec. Aseo__ __ __ __ __ __ 18
+
+Secretario Gral. Inspec. Dir. Abastec. __ __ _ 18
+
+Secretario Gral. Inspec. Dir. Planif. __ __ __ 18
+
+Inspectores Dir. Control__ __ __ __ __ __ __ _ 18
+
+Inspectores Dir. Obras__ __ __ __ __ __ __ ___ 18
+
+Inspectores Dir. Aseo__ __ __ __ __ __ __ __ _ 18
+
+Inspectores Dir. Tránsito__ __ __ __ __ __ ___ 18
+
+Inspectores Dir. Abastec. __ __ __ __ __ __ __ 18
+
+Inspectores Dir. Planif. __ __ __ __ __ __ ___ 18
+
+Jefe Secretaría Dir. Planific. __ __ __ __ ___ 18
+
+Jefe Cobranzas Ascensores__ __ __ __ __ __ ___ 18
+
+Jefe Secc. Dir. Obras__ __ __ __ __ __ __ __ _ 18
+
+Subjefe Oficina Partes Secret. Alcaldía__ __ _ 18
+
+Secretaria Jefe Direc. Obras__ __ __ __ __ ___ 18
+
+Secret. Jefe Tesorería__ __ __ __ __ __ __ ___ 18
+
+Actuarios Juzgados Policía Local__ __ __ __ __ 19
+
+Dactilógrafa Dir. Obras__ __ __ __ __ __ __ __ 19
+
+Dactilógrafa Dir. Control__ __ __ __ __ __ ___ 19
+
+Dactilógrafa Dir. Aseo__ __ __ __ __ __ __ ___ 19
+
+Dactilógrafa Dir. Parques__ __ __ __ __ __ ___ 19
+
+Dactilógrafa Dir. Abastec. __ __ __ __ __ __ _ 19
+
+Dactilógrafa Dir. Turismo__ __ __ __ __ __ ___ 19
+
+Dactilógrafa Dir. Planif. __ __ __ __ __ __ __ 19
+
+Dactilógrafa Dir. Pers. __ __ __ __ __ __ __ _ 19
+
+Dactilógrafa Dir. Material__ __ __ __ __ __ __ 19
+
+Dactilógrafa Dir. Adquisic. __ __ __ __ __ ___ 19
+
+Dactilógrafa Dir. Presup. __ __ __ __ __ __ __ 19
+
+Dactilógrafa Tesorería Municipal__ __ __ __ __ 19
+
+Dactilógrafa Defensa Municipal__ __ __ __ __ _ 19
+
+Dactilógrafas Secretarías y RR.PP. __ __ __ __ 19
+
+Oficial Secretaría Alcaldía__ __ __ __ __ __ _ 19
+
+Oficial Dir. Control__ __ __ __ __ __ __ __ __ 19
+
+Oficial Inspectoría Dir. Tránsito__ __ __ __ _ 19
+
+Oficial Inspectoría Dir. Obras__ __ __ __ __ _ 19
+
+Oficial Inspectoría Dir. Aseo__ __ __ __ __ __ 19
+
+Oficial Inspectoría Dir. Abast. __ __ __ __ __ 19
+
+Oficial Inspectoría Dir. Planif. __ __ __ __ _ 19
+
+Oficial Inspectoría Tesorería__ __ __ __ __ __ 19
+
+Oficial Dir. Tesorería__ __ __ __ __ __ __ ___ 19
+
+Oficiales Dir. Obras__ __ __ __ __ __ __ __ __ 19
+
+Oficial Dir. Rentas__ __ __ __ __ __ __ __ ___ 19
+
+Oficial Dir. Planific. __ __ __ __ __ __ __ __ 19
+
+Oficial Biblioteca Dir. Pers. __ __ __ __ __ _ 19
+
+Secretaria Dir. Rentas__ __ __ __ __ __ __ ___ 19
+
+Oficial Sección Estadística Dir. Obras__ __ __ 19
+
+Subjefe Salarios__ __ __ __ __ __ __ __ __ ___ 19
+
+Oficial Serv. Social__ __ __ __ __ __ __ __ __ 19
+
+Oficiales Dir. Pers. __ __ __ __ __ __ __ __ _ 19
+
+Oficiales Dir. Adquisic. __ __ __ __ __ __ ___ 19
+
+Oficial Dir. Abastec. __ __ __ __ __ __ __ ___ 19
+
+Oficial Dir. Aseo__ __ __ __ __ __ __ __ __ __ 19
+
+Oficial Dir. Tráns. __ __ __ __ __ __ __ __ __ 19
+
+Oficial Dir. Parques__ __ __ __ __ __ __ __ __ 19
+
+Oficial Secretario Matadero__ __ __ __ __ __ _ 19
+
+Oficial Depto. Bienestar Dir. Personal__ __ __ 19
+
+Oficial Previsión Dir. Pers. __ __ __ __ __ __ 19
+
+Oficiales Dir. Pers. __ __ __ __ __ __ __ __ _ 20
+
+Oficiales Tesorería__ __ __ __ __ __ __ __ ___ 20
+
+Oficiales Dir. Control__ __ __ __ __ __ __ ___ 20
+
+Oficiales Dir. Tránsito__ __ __ __ __ __ __ __ 20
+
+Oficiales Dir. Aseo__ __ __ __ __ __ __ __ ___ 20
+
+Oficiales Dir. Parques y Jardines__ __ __ __ _ 20
+
+Oficiales Dir. Rentas__ __ __ __ __ __ __ __ _ 20
+
+Actuarios Juzgados Policía Local__ __ __ __ __ 20
+
+Oficial de Partes Dir. Control__ __ __ __ __ _ 20
+
+Oficial de Partes Dir. Obras__ __ __ __ __ ___ 20
+
+Oficial de Partes Dir. Tránsito__ __ __ __ ___ 20
+
+Oficial de Partes Dir. Abastec. __ __ __ __ __ 20
+
+Oficial de Partes Dir. Turismo__ __ __ __ __ _ 20
+
+Oficial de Partes Dir. Planif. __ __ __ __ ___ 20
+
+Oficiales de Partes Dir. Pers. __ __ __ __ ___ 20
+
+Oficial de Partes Dir. Material__ __ __ __ ___ 20
+
+Oficial de Partes Dir. Adquisic. __ __ __ __ _ 20
+
+Oficial de Partes Dir. Presup. y Tesorería__ _ 20
+
+Secretaria Dactilógrafa Dir. Control__ __ __ _ 20
+
+Secretaria Dactilógrafa Inspec. Tránsito__ ___ 20
+
+Secretaria Dactilógrafa Inspec. Obras__ __ ___ 20
+
+Secretaria Dactilógrafa Inspec. Aseo__ __ __ _ 20
+
+Secretaria Dactilógrafa Inspec. Abastec. __ __ 20
+
+Secretaria Dactilógrafa Inspec. Planif. __ ___ 20
+
+Secretaria Dactilógrafa Inspec. Patentes__ ___ 20
+
+Oficial Tesorería__ __ __ __ __ __ __ __ __ __ 20
+
+Oficial Alcaldía__ __ __ __ __ __ __ __ __ ___ 20
+
+Oficial Secret. Municipal__ __ __ __ __ __ ___ 20
+
+Oficial Secret. Alcaldía__ __ __ __ __ __ __ _ 20
+
+Oficial Administrativo Dir. Pers. __ __ __ ___ 20
+
+Dactilógrafa Dir. Aseo__ __ __ __ __ __ __ ___ 20
+
+Oficial RR. PP._ __ __ __ __ __ __ __ __ __ __ 20
+
+Oficiales Dir. Adquisic. __ __ __ __ __ __ ___ 20
+
+Oficiales Dir. Abastec. __ __ __ __ __ __ __ _ 20
+
+Oficial Dir. Tesorería__ __ __ __ __ __ __ ___ 20
+
+Oficial Cajero Tesorería__ __ __ __ __ __ __ _ 20
+
+Oficiales Juzgados Policía Local__ __ __ __ __ 20
+
+Oficial Dir. Planif. __ __ __ __ __ __ __ __ _ 20
+
+Oficial Dir. Mat. __ __ __ __ __ __ __ __ __ _ 20
+
+Oficial Dir. Presup. __ __ __ __ __ __ __ __ _ 20
+
+Oficial Dir. Tesorería__ __ __ __ __ __ __ ___ 20
+
+Oficial Defensa Municipal__ __ __ __ __ __ ___ 20
+
+Oficial Museo Dir. Pers. __ __ __ __ __ __ ___ 20
+
+Oficial Central Movilización__ __ __ __ __ ___ 20
+
+Oficial Policlínico__ __ __ __ __ __ __ __ ___ 20
+
+Oficial Contabilidad__ __ __ __ __ __ __ __ __ 20
+
+Oficial Maestranza__ __ __ __ __ __ __ __ __ _ 20
+
+Oficiales Diferentes Direcciones__ __ __ __ __ 23
+
+Actuarios Juzgados Policia Local__ __ __ __ __ 23
+
+Oficial Administrativo Alcaldía__ __ __ __ ___ 23
+
+Jefe Taller Dir. Tránsito__ __ __ __ __ __ ___ 23
+
+Jefe Taller Dir. Aseo__ __ __ __ __ __ __ __ _ 23
+
+Jefe Taller Dir. Obras__ __ __ __ __ __ __ ___ 23
+
+Jefe Taller Dir. Parques__ __ __ __ __ __ __ _ 23
+
+Jefe Taller Dir. Abast. __ __ __ __ __ __ __ _ 23
+
+Jefe Taller Dir. Turismo__ __ __ __ __ __ __ _ 23
+
+Jefe Taller Dir. Planif. __ __ __ __ __ __ ___ 23
+
+Jefe Taller Dir. Bienest. __ __ __ __ __ __ __ 23
+
+Jefes de Taller Dir. Adquisic. __ __ __ __ ___ 23
+
+Oficial Alcaldía__ __ __ __ __ __ __ __ __ ___ 24
+
+Oficiales Dir. Obras__ __ __ __ __ __ __ __ __ 24
+
+Oficial Dir. Adquisic. __ __ __ __ __ __ __ __ 24
+
+Oficial Tesorería__ __ __ __ __ __ __ __ __ __ 24
+
+Oficiales Dir. Pers. __ __ __ __ __ __ __ __ _ 24
+
+Oficial Decretos Dir. Pers. __ __ __ __ __ ___ 24
+
+Oficiales Administrativos Dir. Parq. y Jard. _ 24
+
+Oficiales Administrativos Dir. Aseo__ __ __ __ 24
+
+Oficiales Administrativos Dir. Abastec. __ ___ 24
+
+Oficiales Administrativos Dir. Adquisic. __ __ 24
+
+Oficial Administrativo Dir. Tránsito__ __ __ _ 24
+
+Oficiales Administrativos Dir. Obras__ __ __ _ 24
+
+Oficiales Juzgado Policía Local__ __ __ __ ___ 24
+
+Oficial Planillas Dir. Pers. __ __ __ __ __ __ 24
+
+Encuadernador Dir. Pers. __ __ __ __ __ __ ___ 24
+
+Oficiales Administrativos Dif. Direc. __ __ __ 24
+
+Oficial Administrativo Secret. Alcaldía__ __ _ 24
+
+Oficiales Diferentes Direcciones__ __ __ __ __ 26
+
+Oficiales Direcciones: Aseo, Obras y Parques__ 28
+
+Oficiales Diferentes Direcciones__ __ __ __ __ 29
+
+Planta de Obreros
+
+Obreros Especializados Clase "A"__ __ __ __ __ 25
+
+Obreros Especializados Clase "B"__ __ __ __ __ 26
+
+Obreros Especializados Clase "C"__ __ __ __ __ 27
+
+Obreros No Especializados Clase "A"__ __ __ __ 27
+
+Obreros Especializados Clase "D"__ __ __ __ __ 29
+
+Obreros No Especializados Clase "B"__ __ __ __ 28
+
+Obreros No Especializados Clase "C"__ __ __ __ 31
+
+Obreros No Especializados Clase "D"__ __ __ __ 32
+
+=======================================================
+
+El o los cargos de Director de Abastecimiento y subsistencias grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Director de Personal y Bienestar grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Director del Material y Director de Adquisiciones grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Abogado Dir. Control grado 8 se convertirán en grado 9 al quedar vacantes.
+
+El o los cargos de Abogado Dir. Tránsito grado 8 se convertirán en grado 9 al quedar vacantes.
+
+El o los cargos de Arquitecto Planif. y DUC grado 8 se convertirán en grado 9 al quedar vacantes.
+
+El o los cargos de Subdirectores de: Aseo, Parques, Tránsito, Abastecimiento, Turismo, Personal y Bienestar, Material, Adquisiciones y Presupuestos grado 8 se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Jefe Departamento Estudios Dir. Obras grado 9 se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Jefe Mantención Dir. Obras grado 9 se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Jefe Catastro Dir. P. y DUC grado 9 se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Arquitecto Dir. de Obras grado 9 se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Contador Subjefe Tesorería grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Jefe Inspec. Dir. Control grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Jefe Inspec. Dir. Obras grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Jefe Inspec. Dir. Aseo grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Jefe Inspec. Dir. Tránsito grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Jefe Inspec. Dir. Abastec. grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Jefe Inspectores Dir. Planif. grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Jefe Extensión Cultural grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Jefe Depto. Mercados y Ferias grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Inspector Jefe Patentes Tesorerías grado 10 se convertirán en grado 11 al quedar vacantes.
+
+El o los cargos de Inspectores Dir. Control grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspectores Dir. Obras grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspectores Dir. Aseo grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspectores Dir. Tránsito grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspectores Dir. Abastec. grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Inspectores Dir. Planif. grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Subjefe Oficina Partes Secret. Alcaldía grado 18 se convertirán en grado 19 al quedar vacantes.
+
+El o los cargos de Oficiales Diferentes Direcciones grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Obreros Especializados Clase "D" grado 29 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Obreros No Especializados Clase "D" grado 32 se convertirán en grado 35 al quedar vacantes.
+
+#### Artículo 8°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de Viña del Mar, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Designación Actual Escala Unica
+
+-------------------------------------------------------
+
+Servicio I
+
+Alcalde__ __ __ __ __ __ __ __ __ __ _ 3
+
+Departamento de Secretarías.
+
+1a Cat Director Secretario Municipal y Jefe
+
+del Personal__ __ __ __ __ __ __ __ __ 6
+
+Sección Secretaría Municipal y de la Alcaldía
+
+1a Cat Jefe Abogado, Pro-Secretario Municipal
+
+y Secretario de la Alcaldía__ __ __ __ 6
+
+1a Cat Jefe de Control de Compromisos
+
+Presupuestarios __ __ __ __ __ __ ___ 6
+
+Gr 5° Oficiales__ __ __ __ __ __ __ __ __ _ 22
+
+Gr 7° Oficiales__ __ __ __ __ __ __ __ __ _ 23
+
+Gr 8° Oficial__ __ __ __ __ __ __ __ __ ___ 23
+
+Gr 9° Redactor de Sesiones__ __ __ __ __ __ 24
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ _ 24
+
+Gr 14° Oficiales__ __ __ __ __ __ __ __ __ _ 27
+
+Orfeón Municipal
+
+Gr 2° Director y Profesor de la Banda__ ___ 18
+
+Gr 5° Subdirector__ __ __ __ __ __ __ __ __ 20
+
+Gr 6° Músicos__ __ __ __ __ __ __ __ __ ___ 22
+
+Gr 7° Músicos__ __ __ __ __ __ __ __ __ ___ 23
+
+Gr 8° Músicos__ __ __ __ __ __ __ __ __ ___ 23
+
+Gr 9° Músicos__ __ __ __ __ __ __ __ __ ___ 24
+
+Gr 11° Músico__ __ __ __ __ __ __ __ __ __ _ 25
+
+Oficina de Comisiones.
+
+1a Cat Jefe de la Oficina de Comisiones,
+
+Secretario de Comisiones y Jefe de
+
+Control de Informaciones de la
+
+Corporación, y Jefe de Oficina__ __ __ 8
+
+Gr 9° Oficial__ __ __ __ __ __ __ __ __ __ _ 24
+
+Oficina de Partes, Tramitaciones e Informaciones
+
+Gr 2° Oficiales__ __ __ __ __ __ __ __ __ __ 20
+
+Gr 4° Oficial__ __ __ __ __ __ __ __ __ __ _ 21
+
+Gr 6° Oficiales__ __ __ __ __ __ __ __ __ __ 22
+
+Gr 8° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 9° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 11° Oficial__ __ __ __ __ __ __ __ __ __ _ 25
+
+Biblioteca Municipal.
+
+Gr 4° Oficial__ __ __ __ __ __ __ __ __ __ _ 21
+
+Gr 5° Oficial__ __ __ __ __ __ __ __ __ __ _ 22
+
+Gr 8° Oficial__ __ __ __ __ __ __ __ __ __ _ 23
+
+Gr 9° Oficial__ __ __ __ __ __ __ __ __ __ _ 24
+
+Gr 21° Oficial__ __ __ __ __ __ __ __ __ __ _ 29
+
+Gr 22° Oficial__ __ __ __ __ __ __ __ __ __ _ 31
+
+Servicio II
+
+Departamento de Relaciones Públicas, Informaciones,
+
+Fomento y Control del Turismo
+
+1a Cat Director, Coordinador de los Servicios
+
+Municipales y Jefe de Fomento y Control
+
+del Turismo__ __ __ __ __ __ __ __ __ 6
+
+Gr 3° Oficial Secretaría__ __ __ __ __ __ _ 21
+
+Gr 7° Oficial__ __ __ __ __ __ __ __ __ ___ 23
+
+Gr 8° Oficial__ __ __ __ __ __ __ __ __ ___ 23
+
+Servicio III
+
+Departamento de Contabilidad y Finanzas y Control
+
+de Finanzas
+
+1a Cat Director, Contador y Jefe de Control
+
+de Finanzas__ __ __ __ __ __ __ __ __ 6
+
+Gr 10° Oficial__ __ __ __ __ __ __ __ __ ___ 24
+
+Sección Contabilidad.
+
+2a Cat Subdirector, Contador y Jefe de la
+
+Sección__ __ __ __ __ __ __ __ __ __ 11
+
+Gr 9° Oficiales __ __ __ __ __ __ __ __ __ 24
+
+Sección Finanzas
+
+2a Cat Contador Segundo, Jefe de la Sección y
+
+Secretario del Departamento__ __ ___ 16
+
+3a Cat Contador Ayudante__ __ __ __ __ __ _ 18
+
+Gr 3° Contador Ayudante__ __ __ __ __ __ _ 19
+
+Gr 5° Oficial__ __ __ __ __ __ __ __ __ __ 22
+
+Gr 9° Oficial__ __ __ __ __ __ __ __ __ __ 24
+
+Oficina de Planillas.
+
+Gr 4° Oficiales__ __ __ __ __ __ __ __ ___ 21
+
+Gr 5° Oficiales__ __ __ __ __ __ __ __ ___ 22
+
+Gr 8° Oficiales__ __ __ __ __ __ __ __ ___ 23
+
+Gr 9° Oficiales__ __ __ __ __ __ __ __ ___ 24
+
+Servicio IV
+
+Departamento de Economía, Control e Inspección
+
+1a Cat Director, Contador o Abogado__ __ __ _ 6
+
+Gr 6° Oficial__ __ __ __ __ __ __ __ __ __ _ 22
+
+Gr 9° Oficial__ __ __ __ __ __ __ __ __ __ _ 24
+
+Gr 11° Oficial__ __ __ __ __ __ __ __ __ __ _ 25
+
+Sección Jurídica y Toma de Razón
+
+Gr 7° Oficial__ __ __ __ __ __ __ __ __ __ _ 23
+
+Gr 8° Oficial__ __ __ __ __ __ __ __ __ __ _ 23
+
+Gr 11° Oficial__ __ __ __ __ __ __ __ __ __ _ 25
+
+Inspección Casino
+
+6a Cat Jefe de Inspección __ __ __ __ __ __ _ 15
+
+Gr 1° Subjefe__ __ __ __ __ __ __ __ __ __ _ 18
+
+Gr 2° Inspector__ __ __ __ __ __ __ __ __ __ 19
+
+Sección Inventario.
+
+3a Cat Contador Jefe de la Sección __ __ __ _ 17
+
+Sección Inspección de Servicio de la Comuna
+
+Gr 5° Jefe de la Sección__ __ __ __ __ __ __ 21
+
+Gr 8° Inspector__ __ __ __ __ __ __ __ __ __ 23
+
+Servicio V
+
+Departamento de Obras, Urbanismo y Catastro
+
+1a Cat Director, Ingeniero o Arquitecto__ ___ 6
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 11° Oficiales__ __ __ __ __ __ __ __ __ __ 25
+
+Sección Arquitectura, Urbanismo y Catastro
+
+2a Cat Arquitecto, Subdirector del Depto_ ___ 8
+
+2a Cat Jefe de la Sección Arquitectura__ __ _ 8
+
+Gr 6° Secretario__ __ __ __ __ __ __ __ __ _ 22
+
+5a Cat Constructor Civil, Inspector Técnico__ 12
+
+6a Cat Constructor Civil, Inspector Técnico__ 13
+
+Gr 8° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 9° Oficial__ __ __ __ __ __ __ __ __ __ _ 24
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 11° Oficiales__ __ __ __ __ __ __ __ __ __ 25
+
+Sección Obras
+
+2a Cat Subdirector del Depto., a cargo de las
+
+poblaciones, Ingeniero__ __ __ __ __ _ 8
+
+3a Cat Constructor Civil, Inspector__ __ __ _ 10
+
+Gr 4° Oficial__ __ __ __ __ __ __ __ __ __ _ 21
+
+Gr 7° Electricista__ __ __ __ __ __ __ __ __ 25
+
+Gr 2° Topógrafo__ __ __ __ __ __ __ __ __ __ 17
+
+Gr 3° Oficiales__ __ __ __ __ __ __ __ __ __ 21
+
+Gr 7° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 8° Oficial__ __ __ __ __ __ __ __ __ __ _ 23
+
+Gr 9° Oficial__ __ __ __ __ __ __ __ __ __ _ 24
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 14° Oficiales__ __ __ __ __ __ __ __ __ __ 27
+
+Servicio VI
+
+Departamento de Aseo.
+
+1a Cat Director__ __ __ __ __ __ __ __ __ __ 7
+
+Gr 4° Oficiales__ __ __ __ __ __ __ __ __ __ 21
+
+Gr 5° Oficiales__ __ __ __ __ __ __ __ __ __ 22
+
+Gr 7° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 8° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 9° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Sección Talleres y Maestranza.
+
+Gr 4° Oficial__ __ __ __ __ __ __ __ __ __ __ 21
+
+Gr 5° Oficial__ __ __ __ __ __ __ __ __ __ __ 22
+
+Gr 7° Oficiales__ __ __ __ __ __ __ __ __ ___ 23
+
+Gr 8° Oficial__ __ __ __ __ __ __ __ __ __ __ 23
+
+Gr 5° Mecánico__ __ __ __ __ __ __ __ __ __ _ 25
+
+Gr 7° Mecánicos__ __ __ __ __ __ __ __ __ ___ 25
+
+Gr 8° Mecánicos__ __ __ __ __ __ __ __ __ ___ 26
+
+Gr 9° Mecánicos__ __ __ __ __ __ __ __ __ ___ 27
+
+Gr 10° Mecánicos__ __ __ __ __ __ __ __ __ ___ 28
+
+Gr 11° Mecánicos__ __ __ __ __ __ __ __ __ ___ 29
+
+Gr 12° Mecánico__ __ __ __ __ __ __ __ __ __ _ 30
+
+Gr 13° Mecánico__ __ __ __ __ __ __ __ __ __ _ 31
+
+Gr 14° Mecánico__ __ __ __ __ __ __ __ __ __ _ 32
+
+Gr 11° Electricista__ __ __ __ __ __ __ __ ___ 29
+
+Servicio VII
+
+Departamento de Pro-Secretaría de la Alcaldía
+
+y Control de Rentas
+
+1a Cat Director del Depto. y Pro-Secretario
+
+de la Alcaldía__ __ __ __ __ __ __ __ _ 7
+
+6a Cat Subdirector__ __ __ __ __ __ __ __ ___ 11
+
+Gr 4° Oficiales__ __ __ __ __ __ __ __ __ __ 21
+
+Gr 5° Oficiales__ __ __ __ __ __ __ __ __ __ 22
+
+Gr 7° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 9° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 11° Oficiales__ __ __ __ __ __ __ __ __ __ 25
+
+Gr 13° Oficiales__ __ __ __ __ __ __ __ __ __ 26
+
+Gr 14° Oficial__ __ __ __ __ __ __ __ __ __ _ 27
+
+Servicio VIII
+
+Departamento de Parques y Jardines y Policía
+
+Local
+
+1a Cat Director, Ingeniero Agrónomo__ __ __ __ 7
+
+5a Cat Subdirector__ __ __ __ __ __ __ __ __ _ 11
+
+Gr 1° Oficial__ __ __ __ __ __ __ __ __ __ __ 20
+
+Gr 4° Oficial__ __ __ __ __ __ __ __ __ __ __ 21
+
+Gr 6° Oficiales__ __ __ __ __ __ __ __ __ ___ 22
+
+Gr 6° Administrador del Criadero de Plantas e
+
+Inspector Especializado__ __ __ __ __ _ 21
+
+Gr 7° Inspector Especializado__ __ __ __ __ _ 22
+
+Gr 8° Oficiales__ __ __ __ __ __ __ __ __ ___ 23
+
+Gr 9° Oficiales__ __ __ __ __ __ __ __ __ ___ 24
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ ___ 24
+
+Gr 11° Oficiales__ __ __ __ __ __ __ __ __ ___ 25
+
+Servicio IX
+
+Departamento de Defensa Municipal.
+
+1a Cat Director__ __ __ __ __ __ __ __ __ __ _ 6
+
+2a Cat Abogado__ __ __ __ __ __ __ __ __ __ __ 8
+
+Gr 6° Secretario-Procurador__ __ __ __ __ ___ 22
+
+Gr 6° Oficial__ __ __ __ __ __ __ __ __ __ __ 22
+
+Servicio X
+
+Departamento del Tránsito
+
+1a Cat Director__ __ __ __ __ __ __ __ __ __ _ 7
+
+4a Cat Subdirector__ __ __ __ __ __ __ __ __ _ 11
+
+Gr 2° Oficiales__ __ __ __ __ __ __ __ __ ___ 20
+
+Gr 6° Oficiales__ __ __ __ __ __ __ __ __ ___ 22
+
+Gr 7° Oficiales__ __ __ __ __ __ __ __ __ ___ 23
+
+Gr 9° Oficiales__ __ __ __ __ __ __ __ __ ___ 24
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ ___ 24
+
+Gr 6° Inspector Especializado de Vehículos
+
+Motorizados__ __ __ __ __ __ __ __ __ _ 22
+
+Gr 10° Electricista__ __ __ __ __ __ __ __ ___ 28
+
+Servicio XI
+
+Departamento de Abastecimiento y Aprovisionamiento.
+
+1a Cat Director__ __ __ __ __ __ __ __ __ __ _ 7
+
+6a Cat Subdirector__ __ __ __ __ __ __ __ __ _ 12
+
+Gr 3° Veterinario y Administrador del Matadero,
+
+Jefe de Oficina__ __ __ __ __ __ __ __ 13
+
+Gr 6° Oficiales__ __ __ __ __ __ __ __ __ __ 22
+
+Gr 7° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 8° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 9° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 13° Oficiales__ __ __ __ __ __ __ __ __ __ 26
+
+Servicio XII
+
+1a Cat Director del Depto. y Jefe de la Oficina
+
+del Personal__ __ __ __ __ __ __ __ __ 7
+
+5a Cat Subdirectora__ __ __ __ __ __ __ __ __ 12
+
+Gr 3° Visitadora Social__ __ __ __ __ __ ___ 15
+
+Gr 5° Oficiales__ __ __ __ __ __ __ __ __ __ 22
+
+Gr 6° Oficiales__ __ __ __ __ __ __ __ __ __ 22
+
+Gr 7° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 8° Oficiales__ __ __ __ __ __ __ __ __ __ 23
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ __ 24
+
+Gr 14° Oficiales__ __ __ __ __ __ __ __ __ __ 27
+
+Oficina del Personal
+
+Gr 2° Sub-Jefe__ __ __ __ __ __ __ __ __ __ _ 20
+
+Gr 7° Oficial__ __ __ __ __ __ __ __ __ __ __ 23
+
+Gr 11° Oficial__ __ __ __ __ __ __ __ __ __ __ 25
+
+Oficina de Planillas.
+
+Gr 7° Jefe de la Sección Planillas__ __ __ __ 23
+
+Servicio XIII
+
+Departamento de Juzgados de Policía Local
+
+1a Cat Jueces del Primer y Segundo Juzgado__ _ 5
+
+3a Cat Secretarios Abogados del Primer y
+
+Segundo Juzgado__ __ __ __ __ __ __ ___ 8
+
+Gr 7° Oficial, Tercero__ __ __ __ __ __ __ __ 23
+
+Gr 6° Oficial, Tercero__ __ __ __ __ __ __ __ 22
+
+Gr 5° Oficial, Cuarta__ __ __ __ __ __ __ ___ 22
+
+Gr 8° Oficiales, Quinta__ __ __ __ __ __ __ _ 23
+
+Gr 11° Oficial__ __ __ __ __ __ __ __ __ __ __ 25
+
+Servicio XIV
+
+Departamento de Cultura, Bellas Artes y
+
+Adquisiciones para el Museo de Bellas Artes
+
+Gr 8° Oficiales__ __ __ __ __ __ __ __ __ ___ 23
+
+Escuela de Artes Plásticas
+
+1a Cat Director del Depto. Conservador del Museo,
+
+Jefe de Adquisiciones y Profesor de
+
+Escultura__ __ __ __ __ __ __ __ __ ___ 7
+
+Gr 9° Profesor de Croquis__ __ __ __ __ __ __ 20
+
+Gr 4° Profesor de Grabado y Croquis__ __ __ _ 18
+
+Gr 10° Profesor Ayudante de Escultura__ __ ___ 20
+
+Gr 9° Profesor de Dibujo y Pintura__ __ __ __ 20
+
+Gr 4° Profesor de Cerámica__ __ __ __ __ __ _ 18
+
+Gr 8° Oficial__ __ __ __ __ __ __ __ __ __ __ 23
+
+Gr 10° Oficiales__ __ __ __ __ __ __ __ __ ___ 24
+
+Gr 11° Oficial__ __ __ __ __ __ __ __ __ __ __ 25
+
+Conservatorio de Música
+
+Gr 2° Director, Profesor__ __ __ __ __ __ ___ 17
+
+Gr 5° Profesor__ __ __ __ __ __ __ __ __ __ _ 19
+
+Gr 7° Profesor de Piano y Solfeo__ __ __ __ _ 19
+
+Gr 7° Profesor de Piano__ __ __ __ __ __ __ _ 19
+
+Gr 11° Oficial__ __ __ __ __ __ __ __ __ __ __ 25
+
+Gr 9° Profesor__ __ __ __ __ __ __ __ __ __ _ 24
+
+Gr 13° Oficial__ __ __ __ __ __ __ __ __ __ __ 26
+
+Gr 9° Oficial__ __ __ __ __ __ __ __ __ __ __ 24
+
+Gr 7° Mecánico__ __ __ __ __ __ __ __ __ __ _ 25
+
+Gr 9° Mecánico__ __ __ __ __ __ __ __ __ __ _ 27
+
+Gr 10° Mecánico__ __ __ __ __ __ __ __ __ __ _ 28
+
+Gr 13° Mecánico__ __ __ __ __ __ __ __ __ __ _ 31
+
+Servicio XV
+
+Departamento de Planificación y Desarrollo Urbano
+
+Comunal.
+
+1a Cat Director Asesor Urbanista, Jefe de
+
+Servicio__ __ __ __ __ __ __ __ __ __ _ 6
+
+2a Cat Arquitecto__ __ __ __ __ __ __ __ __ __ 8
+
+Gr 8° Músico__ __ __ __ __ __ __ __ __ __ ___ 23
+
+Gr 10° Mecánico__ __ __ __ __ __ __ __ __ __ _ 28
+
+Planta de Servicios Menores (Escalafón N° 1).
+
+Gr 12° Oficiales__ __ __ __ __ __ __ __ __ __ 26
+
+Gr 13° Oficiales__ __ __ __ __ __ __ __ __ __ 26
+
+Planta de Servicios Menores y Oficios (Escalafón N° 2)
+
+Gr 2° Obreros con Oficios__ __ __ __ __ __ __ 25
+
+Gr 3° Obreros con Oficios__ __ __ __ __ __ __ 26
+
+Gr 4° Obreros con Oficios__ __ __ __ __ __ __ 27
+
+Gr 5° Obreros con Oficios__ __ __ __ __ __ __ 28
+
+Gr 5° Obreros sin Oficios__ __ __ __ __ __ __ 29
+
+Gr 6° Obreros con Oficios__ __ __ __ __ __ __ 29
+
+Gr 6° Obreros sin Oficios__ __ __ __ __ __ __ 30
+
+Gr 7° Obreros con Oficios__ __ __ __ __ __ __ 30
+
+=======================================================
+
+El o los cargos de Oficial grado 22° (Biblioteca Municipal) grado 29 se convertirán en grado 31 al quedar vacantes.
+
+El o los cargos de Contador Ayudante Gr. 3° (Sección Finanzas) grado 19 se convertirán en grado 27 al quedar vacantes.
+
+El o los cargos de Director, Contador o Abogado (Servicio IV Departamento Economía, Control e Inspección) grado 6 se convertirán en grado 7 al quedar vacantes.
+
+El o los cargos de Jefe de la Sección Arquitectura 2a. Cat. (Servicio V Sección Arquitectura, Urbanismo y Catastro) grado 8 se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Abogado 2a. Cat. (Servicio IX Departamento Defensa Municipal) grado 8 se convertirán en grado 10 al quedar vacantes.
+
+El o los cargos de Director 1a. Cat. (Servicio XI Departamento de Abastecimiento y Aprovisionamiento) grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Director del Departamento y Jefe de la Oficina del Personal (Servicio XII) grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Director del Departamento Conservador del Museo, Jefe de Adquisiciones y Profesor de Escultura (Servicio XIV) grado 7 se convertirán en grado 8 al quedar vacantes.
+
+El o los cargos de Obreros sin Oficios (Planta de Servicios Menores Escalafón N° 2) grado 30 se convertirán en grado 35 al quedar vacantes.
+
+El o los cargos de Obreros con Oficios (Planta de Servicios Menores Escalafón N° 2) grado 30 se convertirán en grado 33 al quedar vacantes.
+
+El o los cargos de Oficiales grado 20 de la Sección Secretaría Municipal y de la Alcaldía se convertirán en grado 22 al quedar vacantes.
+
+> **Nota.** NOTA: 5 El artículo 1° del DL 1.884, de 1977, creó en la Planta de empleados de la Municipalidad de Viña del Mar los cargos de Juez, primera categoría, y de Secretario Abogado, tercera categoría, grados 5 y 8 de la Escala Unica de Remuneraciones, respectivamente, del Segundo Juzgado de Policía Local creado por decreto alcaldicio N° 88, de 17 de enero de 1975.-
+
+#### Artículo 9°
+
+No obstante lo dispuesto en los artículos 1°, 2°, 3°, 4°, 5°, 6°, 7° y 8°, los cargos que se indican, de las Municipalidades que se señalan, se convertirán a medida que queden vacantes, en la forma que a continuación se expresa:
+
+MUNICIPALIDAD DE CONCEPCION.
+
+El cargo de Abogado Segundo Defensa Municipal grado 10°, se convierte en grado 17°.
+
+El cargo de Asistente Social grado 14°, se convierte en grado 21°.
+
+El cargo de Inspector de Control grado 14°, se convierte en grado 25°.
+
+Los cargos de Topógrafo Técnico Universitario y de Dibujante Técnico Universitario grados 14°, se convierten en grado 23°. El cargo de Relacionador Público Periodista grado 14°, se convierte en grado 20°.
+
+El cargo de Dibujante grado 19°, se convierte en grado 27°.
+
+Los cargos de Oficiales Administrativos grado 29°, se convierten en grado 31°.
+
+Los cargos de Obreros Especializados clase "B" grado 30°, se convierten en grado 33°.
+
+El cargo de Chofer grado 25° y Oficial Tornero grado 25°, se convierten en grado 33°.
+
+Los cargos de Oficiales Electricistas grado 12° y Oficial Mecánico grado 25°, se convierten en grado 33°.
+
+El cargo de Auxiliar grado 27°, se convierte en grado 35°.
+
+Los cargos de Obreros No Especializados grado 33°, se convierten en grado 35°.
+
+MUNICIPALIDAD DE LA REINA.
+
+El cargo de Arquitecto Revisor grado 11°, se convierte en grado 17°.
+
+El cargo de Asistente Social grado 16°, se convierte en grado 21°.
+
+El o los cargos de Arquitecto e Ingeniero grado 13°, se convierte en grado 17°.
+
+El o los cargos de Constructor Civil grado 13°, se convierte en grado 19°.
+
+Los cargos del personal Administrativo de grado 8°, ubicados en el grado 27° de la escala única se convierten en grado 31°.
+
+Los cargos de Choferes grado 27° y grado 28°, se convierten en grado 33°.
+
+Los cargos de Auxiliares de Oficina grado 29°, Estafeta grado 32°, Barredores grado 33° y Peonetas grado 34°, se convierten en grado 35°.
+
+MUNICIPALIDAD DE LAS CONDES.
+
+Los cargos de Jefes de Secciones: Registro y Archivo de Personal; Desarrollo Cultural; Circulación e Inspección Tránsito; Contabilidad y Clasificación de Patentes, se convierten en grado 18°.
+
+Para desempeñar los cargos de Secretarios Ejecutivos grado 19° se requiere acreditar experiencia de a lo menos 5 años en cargos de la Administración del Estado.
+
+El cargo de Arquitecto grado 15°, se convierte en grado 17°.
+
+El cargo de Asistente Social grado 17° se convierte en grado 21°.
+
+El cargo de Profesor de Educación Física grado 19° se convierte en grado 23°.
+
+El cargo de Topógrafo Fotogrametrista grado 19° se convierte en grado 23°.
+
+El cargo de Dibujante Técnico grado 24° se convierte en grado 27°.
+
+El cargo de Profesor Normalista grado 19° se convierte en grado 26°.
+
+El cargo de Operador Máquina N. C. R. grado 21° se convierte en grado 27°.
+
+El cargo de Contador grado 24° se convierte en grado 27°.
+
+Los cargos de Técnico Mecánico grado 19° y Técnico Electricista grado 23° se convierten en grado 30°.
+
+Los cargos de Oficiales grado 30° se convierten en grado 31°.
+
+Los cargos de Chofer grado 27° de la planta Administrativa se convierten en grado 33°.
+
+El cargo de Telefonista grado 26° se convierte en grado 31°.
+
+Los cargos de la Planta de Obreros que a continuación se indican se convertirán en grado 33°.
+
+Chofer grado 28°.
+
+Chofer Máquina Pesada grado 25°.
+
+Jardinero grado 31°.
+
+Gásfiter grado 29°.
+
+Ayudante Mecánico grado 29°.
+
+Carpintero grado 28°.
+
+Demarcador Tránsito grado 26°.
+
+Bodeguero grado 28°.
+
+Electricista grado 26°.
+
+Ayudante Electricista grado 29°.
+
+Los cargos de la planta de Obreros que a continuación se indican se convertirán en grado 35°.
+
+Barredor grado 31°.
+
+Ordenanza grado 31°.
+
+Peoneta grado 32°.
+
+Auxiliar Ambulancia grado 29°.
+
+Aseador y Aseadora grado 30°.
+
+Rondín grado 30°.
+
+Celador grado 31°.
+
+MUNICIPALIDAD DE ÑUÑOA.
+
+El cargo de Abogado grado 13° se convierte en grado 17°.
+
+El cargo de Contador grado 20° se convierte en grado 27°.
+
+El cargo de Secretario Ejecutivo grado 23° se convierte en grado 27°.
+
+El cargo de Taquígrafo grado 21° se convierte en grado 27°.
+
+El cargo de Dibujante grado 23° se convierte en grado 27°.
+
+El cargo de Inspector grado 23° se convierte en grado 25°.
+
+El cargo de Secretaria de Jefaturas grado 29° se convierte en grado 31°.
+
+El cargo de Oficiales Planilla grado 27° se convierte en grado 31°.
+
+El cargo de Secretarias Dactilógrafas grado 29° se convierte en grado 31°.
+
+El cargo de Oficial grado 30° se convierte en grado 31°.
+
+Los cargos de Electricistas grado 3° grado 25° se convierte en grado 33°.
+
+Los cargos de Maestro Baterías y Tornero grado 25° se convierten en grado 33°.
+
+Los cargos de Electricista Vehículos grado 4° grado 25° se convierten en grado 33°.
+
+Los cargos de Mecánicos grado 4° grado 25° se convierten en grado 33°.
+
+El cargo de Chofer grado 27° se convierte en grado 33°.
+
+Los cargos de la planta Servicios Menores que se indican se convertirán en grado 33°.
+
+Chofer grado 29°.
+
+Gásfiter, Bodeguero, Desabollador, Herrero, Albañil, Varillero y Engrasador grado 27°.
+
+Tractorista, Soldador, Electricista, Mecánico grado 25°.
+
+Carpintero grado 30°, Pintor Yesero grado 28° y Podador grado 29°.
+
+Maestro de Cocina, Auxiliar grado 27°, Ayudante Cocina grado 28°, Ayudante Carpintero, Ordenanza, Control Vehículos, Cargador y Barredor grado 31°, se convierten en grado 35°.
+
+Auxiliar de Enfermería grado 24°, se convierte en grado 32°.
+
+Ayudante Jardinero grado 31°, se convierte en grado 35°.
+
+Los cargos de Obrero grado 33° se convierten en grado 35°.
+
+MUNICIPALIDAD DE PROVIDENCIA.
+
+El cargo de Inspector Constructor Civil de Obras grado 12° se convierte en grado 19°.
+
+El cargo de Abogado Defensa Municipal grado 15° e Ingeniero Agrónomo grado 12° se convierten en grado 17°.
+
+El cargo de Actuario Juzgado Policía Local (Abogado) grado 6° grado 14°, se convierte en grado 17°.
+
+El cargo de Asistente Social Control Administrativo y Bienestar del Personal grado 19° se convierte en grado 21°.
+
+El cargo de Técnico Agrícola grado 19° se convierte en grado 23°.
+
+El cargo de Bibliotecaria grado 19° se convierte en grado 23°.
+
+El cargo de Arquitecto Plano Regulador Urbanismo grado 12°, se convierte en grado 17°.
+
+El cargo de Contador Contabilidad y Control grado 4° grado 18°, se convierte en grado 27°.
+
+El cargo de Oficial Departamento de Aseo grado 30°, se convierte en grado 31°.
+
+El cargo de Choferes grado 31° se convierte en grado 33°.
+
+Los cargos de Auxiliar de Aseo y Jardines, Contabilidad y Control y Juzgado de Policía Local grado 31° se convierten en grado 35°.
+
+El cargo de Electricista Aseo y Jardines grado 30° se convierte en grado 33°.
+
+El cargo de Bodeguero Aseo y Jardines grado 28° se convierte en grado 33°.
+
+Los cargos de la planta de Obreros que a continuación se indican se convertirán en grado 33°.
+
+Mecánicos y Electricistás grado 25°.
+
+Chofer, Gásfiter y Soldador grado 27°.
+
+Pintores, Albañiles, grado 28°.
+
+Carpintero grado 30°.
+
+Diseñadores, Fumigadores y Desinfectadores grado 29°.
+
+Jardinero grado 31°.
+
+Podadores grado 30°.
+
+Los cargos de la planta de Obreros que a continuación se indican, se convertirán en grado 35°.
+
+Tolveros grado 30°.
+
+Barbechadores, Aseadores grado 31°.
+
+Obreros grado 33°.
+
+Aseadores grado 31°.
+
+MUNICIPALIDAD DE SANTIAGO.
+
+Los cargos de Administradores Públicos grado 12° se convierten en grado 17°.
+
+Los cargos de Bibliotecónomos grado 19° se convierten en grado 23°.
+
+Los cargos de Dibujantes grado 19° se convierten en grado 30°.
+
+Los cargos de Contadores grado 24° se convierten en grado 27°.
+
+Los cargos de Arquitecto o Constructor Civil grado 14° se convierten en grado 17° ó 19° según corresponda.
+
+El cargo de Médico Veterinario grado 14 se convierte en grado 17°.
+
+El cargo de Asistente Social grado 20° se convierte en grado 21°.
+
+El cargo de Constructor Civil o Arquitecto grado 14° se convierte en grado 17°. Para desempeñar este cargo el Constructor Civil debe acreditar experiencia de a lo menos 2 años.
+
+El cargo de Abogado grado 14° se convierte en grado 17°.
+
+Para desempeñar los cargos de Arquitecto, Ingeniero o Constructor Civil grado 12°, en el caso del Ingeniero y Arquitecto deberán acreditar experiencia de 3 años a lo menos. El Constructor Civil deberá acreditar experiencia mínima de 5 años.
+
+Los cargos de Peonetas y Ayudantes grado 32° se convierten en grado 35°.
+
+Los cargos de Porteros Estafetas grado 31° se convierten en grado 35°.
+
+Los cargos de Jardinero grado 31° se convierten en grado 33°.
+
+Los cargos de Sastres, Tapiceros grado 30° y Cortadores de Baldosas, Utileros grado 29°, se convierten en grado 33°.
+
+Los cargos de Fumigadores, Boleteros, Operadores Telescópica, Tramoyista, Maquinista, Gasfíteres grado 28°, se convierten en grado 33°.
+
+Los cargos de Despachador, Pañolero, Mecánico, Choferes, Peluqueros, Estucadores, Alarife grado 27°, se convierten en grado 33°.
+
+Los cargos de Oficiales grado 28° se convierten en grado 31°.
+
+Los cargos de Operadoras de Teléfonos grado 25° se convierten en grado 31°.
+
+El cargo de Secretario Municipal grado 6° se suprimirá al quedar vacante.
+
+El cargo de Subjefe de Sección grado 16° se suprimirá al quedar vacante.
+
+MUNICIPALIDAD DE VALPARAISO.
+
+Para desempeñar los cargos de Abogado Defensa Municipal, Abogado Dir. Control, Abogado Dir. Tránsito grado 8°, se requerirá, además del título profesional universitario, acreditar experiencia de 6 años a lo menos.
+
+Para desempeñar el cargo de Arquitecto Planif. y Duc. grado 8°, se requerirá, además del título profesional universitario, acreditar experiencia de 6 años a lo menos.
+
+Para desempeñar el cargo de Arquitecto Dir. de Obras grado 9° se requerirá, además del título profesional universitario, acreditar 5 años de experiencia a lo menos.
+
+Los cargos de Constructores Civiles grado 10° se convierten en grado 19°.
+
+Los cargos de Asistentes Sociales Dirección Personal grado 15° se convierten en grado 21°.
+
+Los cargos de Obreros Especializados clase "D", grado 31°, se convierten en grado 33°.
+
+Los cargos de Obreros no Especializados clase "D", grado 33°, se convierten en grado 35°.
+
+MUNICIPALIDAD DE VIÑA DEL MAR.
+
+Los cargos de Arquitectos grado 12° se convierten en grado 17°.
+
+Los cargos de Abogados grado 10° se convierten en grado 17°.
+
+Los cargos de Médico Veterinario grado 14° se convierten en grado 17°.
+
+Los cargos de Constructores Civiles grado 17° se convierten en grado 19°.
+
+Los cargos de Asistentes Sociales grado 20° se convierten en grado 21°.
+
+Los cargos de Contadores grado 22° se convierten en grado 27°.
+
+Los cargos de Oficiales grado 13°, grado 26° de la planta de Servicios Menores (Escalafón N° 1) se convierten en grado 35°.
+
+Los cargos de Obreros con Oficio grado 30° de la planta de Servicios Menores y Oficios (Escalafón N° 2) se convierten en grado 33°.
+
+Los cargos de Obreros sin Oficios grado 30° de la planta de Servicios Menores y Oficios (Escalafón N° 2), se convierten en grado 35°.
+
+Para desempeñar el cargo de Ingeniero grado 8°, se requerirá, además del título profesional universitario, acreditar 8 años de experiencia a lo menos.
+
+#### Artículo 10°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Municipalidad de San Miguel, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Designación Actual Escala Unica
+
+-------------------------------------------------------
+
+1a Cat Alcalde__ __ __ __ __ __ __ __ __ __ __ 4
+
+1a Cat Secretario Abogado de Alcaldía__ __ ___ 6
+
+1a Cat Abogado Jefe de la Defensa Municipal___ 6
+
+1a Cat Director de Obras Municipales Arquitecto 6
+
+1a Cat Director de Planeamento (Arquitecto
+
+Asesor Urbanista)__ __ __ __ __ __ __ _ 6
+
+1a Cat Director Departamento de Tránsito
+
+(Abogado)_ __ __ __ __ __ __ __ __ __ _ 7
+
+1a Cat Secretario Abogado Municipal__ __ __ __ 6
+
+1a Cat Director-Contador Departamento de
+
+Control__ __ __ __ __ __ __ __ __ __ __ 7
+
+1a Cat Director Departamento Rentas Municipales 7
+
+1a Cat Juez Policía Local Abogado__ __ __ __ _ 5
+
+1a Cat Director Departamento de Aseo y Jardines 7
+
+1a Cat Director Departamento de Policía Local_ 8
+
+1a Cat Director Departamento Subsistencias y
+
+Ferias Libres__ __ __ __ __ __ __ __ __ 8
+
+1a Cat Director Departamento de
+
+Aprovisionamiento__ __ __ __ __ __ __ __ 8
+
+1a Cat Director Departamento de Personal__ __ _ 8
+
+1a Cat Administrador Casa de la Cultura__ __ __ 9
+
+1a Cat Abogado Defensa Municipal__ __ __ __ ___ 10
+
+2a Cat Arquitectos Inspector de Construcciones_ 10
+
+1a Cat Secretario Abogado Juzgado de Policía
+
+Local__ __ __ __ __ __ __ __ __ __ __ __ 8
+
+2a Cat Técnico Agrícola Jefe de Jardines__ __ _ 10
+
+3a Cat Subdirector Departamento de Rentas
+
+Contador __ __ __ __ __ __ __ __ __ __ _ 10
+
+4a Cat Subdirector Departamento de Control
+
+Contador__ __ __ __ __ __ __ __ __ __ __ 9
+
+4a Cat Prosecretario de Alcaldía__ __ __ __ ___ 16
+
+2a Cat Subdirector Departamento de Subsistencias
+
+y Ferias Libres__ __ __ __ __ __ __ __ _ 10
+
+3a Cat Prosecretario Municipal__ __ __ __ __ __ 12
+
+3a Cat Subdirector Departamento de
+
+Aprovisionamiento __ __ __ __ __ __ __ _ 12
+
+5a Cat Subdirector Departamento de Tránsito__ _ 10
+
+6a Cat Constructor Civil Dirección de Obras__ _ 14
+
+6a Cat Subdirector Departamento de Personal__ _ 12
+
+6a Cat Secretario Obras - Subdirector de Obras_ 12
+
+6a Cat Secretario Secretaría Municipal, Jefe
+
+Oficina de Partes__ __ __ __ __ __ __ __ 14
+
+Gr 1° Nutricionista - Dietista__ __ __ __ __ _ 16
+
+Gr 4° Relacionador Público__ __ __ __ __ __ __ 16
+
+5a Cat Jefe de Escuelas Municipales__ __ __ ___ 15
+
+2a Cat Contador Juntas de Vecinos__ __ __ __ __ 16
+
+Gr 1° Contador Rentas - Jefe Rol Industrial y
+
+Profesional__ __ __ __ __ __ __ __ __ __ 18
+
+Gr 3° Contador Rentas - Jefe Rol Comercial y de
+
+Alcoholes__ __ __ __ __ __ __ __ __ __ _ 18
+
+Gr 9° Educadora de Párvulos__ __ __ __ __ __ _ 18
+
+6a Cat Secretario Ejecutivo Departamento de
+
+Control__ __ __ __ __ __ __ __ __ __ ___ 19
+
+6a Cat Secretario Ejecutivo Departamento
+
+Subsistencias y Ferias Libres_ __ __ ___ 19
+
+6a Cat Secretario Ejecutivo Departamento de
+
+Aprovisionamiento__ __ __ __ __ __ __ __ 19
+
+6a Cat Jefe Sección Planillas__ __ __ __ __ __ 19
+
+6a Cat Taquígrafo Alcaldía__ __ __ __ __ __ ___ 19
+
+6a Cat Actuario - Oficial 1° Juzgado Policía
+
+Local__ __ __ __ __ __ __ __ __ __ __ __ 19
+
+1a Cat Médico Gabinete Psicotécnico__ __ Ley 15.076
+
+Planta Administrativa
+
+Gr 1° Jefe Inspectores de Policía Local__ __ _ 19
+
+Gr 2° Inspector Obras__ __ __ __ __ __ __ __ _ 19
+
+Gr 2° Secretario Departamento de Aseo__ __ ___ 19
+
+Gr 2° Oficiales Planeamiento__ __ __ __ __ ___ 19
+
+Gr 3° Oficial Control__ __ __ __ __ __ __ __ _ 20
+
+Gr 3° Oficiales Tránsito__ __ __ __ __ __ __ _ 20
+
+Gr 3° Oficiales Juzgado__ __ __ __ __ __ __ __ 20
+
+Gr 3° Inspector Policía Local__ __ __ __ __ __ 20
+
+Gr 4° Oficiales Secretaría Alcaldía__ __ __ __ 21
+
+Gr 4° Inspector Policía Local__ __ __ __ __ __ 21
+
+Gr 4° Oficial Juzgado__ __ __ __ __ __ __ __ _ 21
+
+Gr 4° Actuarios Juzgado__ __ __ __ __ __ __ __ 21
+
+Gr 4° Jefe Oficina Pobladores__ __ __ __ __ __ 21
+
+Gr 4° Secretario Jardines__ __ __ __ __ __ ___ 21
+
+Gr 5° Oficial Control__ __ __ __ __ __ __ __ _ 22
+
+Gr 5° Oficial Secretaría Municipal__ __ __ ___ 22
+
+Gr 5° Oficiales Planeamiento__ __ __ __ __ ___ 22
+
+Gr 5° Cajero Juzgado__ __ __ __ __ __ __ __ __ 22
+
+Gr 5° Oficial Juzgado__ __ __ __ __ __ __ __ _ 22
+
+Gr 5° Oficial Tránsito__ __ __ __ __ __ __ ___ 22
+
+Gr 5° Inspectores Policía Local. __ __ __ ___ 22
+
+Gr 5° Inspector Subsistencias__ __ __ __ __ __ 22
+
+Gr 5° Inspector Jardines__ __ __ __ __ __ __ _ 22
+
+Gr 6° Oficiales Rentas__ __ __ __ __ __ __ ___ 23
+
+Gr 6° Oficiales Tránsito__ __ __ __ __ __ __ _ 23
+
+Gr 6° Administrador Edificio Municipal__ __ __ 23
+
+Gr 6° Inspector Obras__ __ __ __ __ __ __ __ _ 23
+
+Gr 6° Oficial Obras__ __ __ __ __ __ __ __ ___ 23
+
+Gr 6° Oficial Planeamiento__ __ __ __ __ __ __ 23
+
+Gr 6° Secretario Teatro Municipal__ __ __ __ _ 23
+
+Gr 6° Oficial Oficina Pobladores__ __ __ __ __ 23
+
+Gr 6° Oficial Control__ __ __ __ __ __ __ __ _ 23
+
+Gr 7° Oficial Proyectista__ __ __ __ __ __ ___ 24
+
+Gr 7° Oficial Juntas Vecinales__ __ __ __ __ _ 24
+
+Gr 7° Oficial Control__ __ __ __ __ __ __ __ _ 24
+
+Gr 7° Profesores Escuelas Municipales__ __ ___ 24
+
+Gr 7° Oficial Rentas__ __ __ __ __ __ __ __ __ 24
+
+Gr 7° Inspectores Obras__ __ __ __ __ __ __ __ 24
+
+Gr 7° Inspector Policía Local__ __ __ __ __ __ 24
+
+Gr 7° Actuario Juzgado__ __ __ __ __ __ __ ___ 24
+
+Gr 7° Ayudante Personal__ __ __ __ __ __ __ __ 24
+
+Gr 7° Inspectores Subsistencias__ __ __ __ ___ 24
+
+Gr 7° Ayudante Tránsito__ __ __ __ __ __ __ __ 24
+
+Gr 7° Ayudante Control__ __ __ __ __ __ __ ___ 24
+
+Gr 7° Oficial Relacionadora Poblaciones__ __ _ 24
+
+Gr 8° Ayudante Subsistencias__ __ __ __ __ ___ 25
+
+Gr 8° Ayudante Obras__ __ __ __ __ __ __ __ __ 25
+
+Gr 8° Ayudante Secretaría Municipal__ __ __ __ 25
+
+Gr 8° Ayudante Teatro Municipal__ __ __ __ ___ 25
+
+Gr 8° Profesor Escuelas Municipales__ __ __ __ 25
+
+Gr 8° Profesor Casa Cultura__ __ __ __ __ __ _ 25
+
+Gr 8° Ayudante Casa Cultura__ __ __ __ __ __ _ 25
+
+Gr 8° Ayudante Alcaldía__ __ __ __ __ __ __ __ 25
+
+Gr 8° Ayudante Personal__ __ __ __ __ __ __ __ 25
+
+Gr 8° Inspectores Policía Local__ __ __ __ ___ 25
+
+Gr 8° Ayudante Control__ __ __ __ __ __ __ ___ 25
+
+Gr 8° Ayudante Aseo__ __ __ __ __ __ __ __ ___ 25
+
+Gr 8° Secretario Juntas de Vecinos__ __ __ ___ 25
+
+Gr 8° Director Teatro Municipal__ __ __ __ ___ 25
+
+Gr 8° Ayudante Rentas__ __ __ __ __ __ __ __ _ 25
+
+Gr 9° Profesores Escuelas Municipales__ __ ___ 26
+
+Gr 9° Ayudante Personal__ __ __ __ __ __ __ __ 26
+
+Gr 9° Inspectores Policía Local__ __ __ __ ___ 26
+
+Gr 9° Ayudantes Tránsito__ __ __ __ __ __ __ _ 26
+
+Gr 9° Oficial Juzgado__ __ __ __ __ __ __ __ _ 26
+
+Gr 9° Relacionador Centros de Madres__ __ __ _ 26
+
+Gr 9° Profesor Casa de la Cultura__ __ __ __ _ 26
+
+Gr 9° Ayudante Oficina Pobladores__ __ __ __ _ 26
+
+Gr 9° Ayudante Policía Local__ __ __ __ __ ___ 26
+
+Gr 10° Actuario Juzgado__ __ __ __ __ __ __ ___ 27
+
+Gr 10° Inspectores Policía Local__ __ __ __ ___ 27
+
+Gr 10° Ayudante Tránsito__ __ __ __ __ __ __ __ 27
+
+Gr 10° Ayudante Control__ __ __ __ __ __ __ ___ 27
+
+Gr 10° Inspectores Subsistencias__ __ __ __ ___ 27
+
+Gr 10° Oficiales Juzgado__ __ __ __ __ __ __ __ 27
+
+Gr 10° Ayudante Personal__ __ __ __ __ __ __ __ 27
+
+Gr 10° Profesores Casa Cultura__ __ __ __ __ __ 27
+
+Gr 10° Ayudantes Obras__ __ __ __ __ __ __ __ _ 27
+
+Gr 10° Ayudantes Planeamiento_ __ __ __ __ ___ 27
+
+Gr 10° Ayudante Defensa Municipal__ __ __ __ __ 27
+
+Gr 11° Ayudantes Rentas__ __ __ __ __ __ __ ___ 29
+
+Gr 11° Ayudante Subsistencias__ __ __ __ __ ___ 29
+
+Gr 11° Ayudante Tránsito__ __ __ __ __ __ __ __ 29
+
+Gr 11° Ayudantes Personal__ __ __ __ __ __ __ _ 29
+
+Gr 11° Ayudante Casa Cultura__ __ __ __ __ __ _ 29
+
+Gr 11° Ayudante Alcaldía__ __ __ __ __ __ __ __ 29
+
+Gr 11° Inspector Policía Local__ __ __ __ __ __ 27
+
+Gr 11° Ayudantes Secretaría Municipal__ __ __ _ 29
+
+Gr 11° Ayudante Defensa Municipal__ __ __ __ __ 29
+
+Gr 11° Ayudante Departamento Aseo__ __ __ __ __ 29
+
+Gr 11° Ayudante Control__ __ __ __ __ __ __ ___ 29
+
+Escalafón de Choferes, Electricistas, Mecánicos,
+
+otros especializados
+
+Gr 4° Chofer de Alcaldía__ __ __ __ __ __ ___ 25
+
+Gr 5° Mecánico Departamento de Aseo__ __ __ _ 25
+
+Gr 6° Mecánicos Departamento de Aseo__ __ ___ 26
+
+Gr 7° Mecánicos Departamento de Aseo__ __ ___ 27
+
+Gr 8° Mecánicos Departamento de Aseo__ __ ___ 28
+
+Gr 1° Choferes__ __ __ __ __ __ __ __ __ __ _ 25
+
+Planta de Obreros.
+
+Gr 1° 20% Especialización__ __ __ __ __ __ __ 25
+
+Gr 1° 10% Especialización__ __ __ __ __ __ __ 26
+
+Gr 1° sin Especialización__ __ __ __ __ __ __ 27
+
+Gr 2° sin Especialización__ __ __ __ __ __ __ 28
+
+Gr 3° sin Especialización__ __ __ __ __ __ __ 29
+
+Gr 4° sin Especialización__ __ __ __ __ __ __ 31
+
+Gr 5° sin Especialización__ __ __ __ __ __ __ 32
+
+=======================================================
+
+El o los cargos de Administrador Casa de la Cultura grado 9° se convertirán en grado 11° al quedar vacantes.
+
+El o los cargos de Técnico Agrícola Jefe de Jardines grado 10° se convertirán en grado 12° al quedar vacantes.
+
+El o los cargos de Secretario Secretaría Municipal Jefe de Oficina de Partes grado 14° se convertirán en grado 19° al quedar vacantes.
+
+El o los cargos de Relacionador Público grado 16° se convertirán en grado 17° al quedar vacantes.
+
+El o los cargos de Contador Juntas de Vecinos grado 16° se convertirán en grado 18° al quedar vacantes.
+
+El o los cargos de Ayudante Control grado 29° se convertirán en grado 31° al quedar vacantes.
+
+El o los cargos de Mecánicos Departamento de Aseo grado 28° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Choferes grado 25° se convertirán en grado 30° al quedar vacantes.
+
+El o los cargos de Obreros sin especialización grado 32° se convertirán en grado 35° al quedar vacantes.
+
+#### Artículo 11°
+
+Los Jueces de Policía Local, los Directores de Obras y demás Jefes o Directores, los profesionales universitarios y en general todo el personal que preste servicios en las Municipalidades, sólo tendrán derecho al total de la remuneración asignada al grado respectivo cuando sirvan a jornada completa, entendiéndose por tal la fijada en el inciso 1° del artículo 21° del decreto ley 249, de 1973.
+
+El personal referido podrá contratar, en diversas Municipalidades, jornadas parciales de trabajo, de acuerdo con lo establecido en los incisos 2° y 3° del mismo artículo 21°, según el texto fijado en el artículo 2° del decreto ley 479 de 1974, pero la suma de las jornadas parciales no podrá exceder de 44 horas semanales y en cada una de ellas ganará la remuneración proporcional a la establecida para la jornada completa correspondiente.
+
+#### Artículo 12°
+
+Reitérase que, por aplicación del artículo 30° del decreto ley 249/74, han quedado derogadas todas las disposiciones de cualquier índole que concedían en beneficio de los trabajadores de las Municipalidades del país, cualquier clase de remuneraciones distintas de las establecidas o mantenidas en aquel cuerpo legal y en el decreto ley 479, de 1974.
+
+Entiéndese, asimismo, expresamente derogada toda disposición orgánica o estatutaria aplicable a las Municipalidades, que sea contraria o incompatible con las contenidas en el presente decreto ley y en el decreto ley 249/74.
+
+#### Artículo 13°
+
+Los trabajadores a que se refiere este decreto ley, a quienes corresponda ascender dentro de su respectivo escalafón, sólo tendrán derecho a obtener como consecuencia de la promoción un aumento de hasta dos grados en la Escala Unica del artículo 1° del decreto ley 249, de 1974. Si no existiere en la planta respectiva el grado correspondiente, el grado del cargo vacante se transformará automáticamente en aquel que permita la aplicación de esta norma.
+
+#### Artículo 14°
+
+Descuéntese del pago que proceda efectuar por aplicación del presente decreto ley las cantidades percibidas por concepto de anticipo de remuneraciones concedidos por los artículos 35° del decreto ley 233/73 y 16° del decreto ley 272/74, complementados por los artículos 14° del decreto ley 361/74, 7° del decreto ley 472/74, 14° del decreto ley 479/74 y 12° del decreto ley 550/74, como asimismo las cantidades correspondientes a cuotas y servicio de deudas de previsión y otros descuentos permitidos por las leyes que se encuentren pendientes.
+
+Condónanse las cantidades percibidas en exceso por concepto de anticipos, que no alcancen a ser descontadas en virtud de lo dispuesto en el inciso anterior, las que en consecuencia no serán reintegradas por los interesados.
+
+#### Artículo 15°
+
+Declárase que los trabajos extraordinarios realizados a partir del 1° de enero de 1974 y los que se realicen en lo sucesivo, por el personal de la Universidad de Chile, no han estado ni estarán sujetos a las condiciones de la asignación de la letra i) del artículo 5° del decreto ley 249, de 1974.
+
+#### Artículo 16°
+
+Fíjase, a contar del 1° de enero de 1974, para los trabajadores de la Gerencia de Farmacia de la Caja Nacional de Empleados Públicos y Periodistas, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente planta y ubicación en la Escala Unica:
+
+=======================================================
+
+N° Func. Grado
+
+Designación Actual por Cargo Escala Unica
+
+-------------------------------------------------------
+
+Gerente__ __ __ __ __ __ __ __ __ 1 6
+
+Directores Técnicos__ __ __ __ __ 5 Ley 15.076
+
+Auxiliar Recetario__ __ __ __ ___ 1 21
+
+Jefe Departamento de Contabilidad 1 10
+
+Subjefe de Contabilidad__ __ __ _ 1 14
+
+Jefe Subdepartamento Cuentas
+
+Corrientes__ __ __ __ __ __ __ __ 1 15
+
+Jefe Sección Control Crédito__ __ 1 18
+
+Oficiales Control Créditos_ __ __ 5 22
+
+Jefe Sección Descuento__ __ __ __ 1 18
+
+Oficiales Planilleros de
+
+Descuentos__ __ __ __ __ __ __ __ 3 22
+
+Registro Cuentas Corrientes __ __ 1 20
+
+Registro Cuentas Corrientes __ __ 9 21
+
+Registro Cuentas Corrientes __ __ 1 22
+
+Inspectores Primeros_ __ __ __ __ 2 17
+
+Inspectores Segundos_ __ __ __ __ 2 19
+
+Habilitados_ __ __ __ __ __ __ __ 1 19
+
+Jefe Sección Presupuesto __ __ __ 1 17
+
+Jefe Sección Recaudación __ __ __ 1 18
+
+Recaudador__ __ __ __ __ __ __ __ 1 22
+
+Jefe Sección Contabilidad__ __ __ 1 18
+
+Jefe Compras__ __ __ __ __ __ ___ 1 16
+
+Jefe Vendedores__ __ __ __ __ ___ 1 14
+
+Subjefe de Vendedor__ __ __ __ __ 1 17
+
+Vendedores__ __ __ __ __ __ __ __ 4 19
+
+Vendedores__ __ __ __ __ __ __ __ 3 20
+
+Vendedores__ __ __ __ __ __ __ __ 5 21
+
+Vendedores__ __ __ __ __ __ __ __ 2 22
+
+Vendedores__ __ __ __ __ __ __ __ 1 23
+
+Vendedores__ __ __ __ __ __ __ __ 3 24
+
+Vendedores__ __ __ __ __ __ __ __ 4 25
+
+Vendedores__ __ __ __ __ __ __ __ 1 26
+
+Vendedores__ __ __ __ __ __ __ __ 1 27
+
+Supervisor Empaque__ __ __ __ ___ 1 23
+
+Oficiales de Empaque__ __ __ __ _ 1 27
+
+Oficiales de Empaque__ __ __ __ _ 1 31
+
+Jefe Fijación de Precios y
+
+Mantención Stock__ __ __ __ __ __ 1 17
+
+Oficiales de Precios y Movimiento
+
+de Mercaderías_ __ __ __ __ __ __ 4 20
+
+Auxiliar de Bodegas__ __ __ __ __ 7 30
+
+Jefe Secretaría__ __ __ __ __ __ 1 19
+
+Secretario__ __ __ __ __ __ __ __ 1 21
+
+Cajero Jefe__ __ __ __ __ __ __ _ 1 19
+
+Cajeros__ __ __ __ __ __ __ __ __ 3 21
+
+Cajeros__ __ __ __ __ __ __ __ __ 3 22
+
+Vendedor Auxiliar de Recetario __ 3 20
+
+Oficial Empaque__ __ __ __ __ ___ 1 29
+
+Jefe Contabilidad Agencia__ __ __ 1 15
+
+Jefe Contabilidad Agencia__ __ __ 3 17
+
+Jefe Registros Cuentas Corrientes
+
+y Movimientos contables__ __ __ _ 4 18
+
+Oficial Fijación de Precios,
+
+Provincias__ __ __ __ __ __ __ __ 4 20
+
+Registro Movimiento Contable__ __ 5 20
+
+-------------------------------------------------------
+
+#### Artículo 17°
+
+Fíjase para los trabajadores de la Gerencia Forestal de la Caja Nacional de Empleados Públicos y Periodistas, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1973, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Nombre del cargo Escala Unica
+
+-------------------------------------------------------
+
+Gerente Forestal__ __ __ __ __ __ __ __ __ _ 5
+
+Asesor Forestal__ __ __ __ __ __ __ __ __ __ 7
+
+Asesor Agrícola__ __ __ __ __ __ __ __ __ __ 7
+
+Jefe Finanzas y Contable__ __ __ __ __ __ __ 10
+
+Subjefe Finanzas__ __ __ __ __ __ __ __ __ _ 14
+
+Subjefe Contabilidad de Costos__ __ __ __ __ 16
+
+Jefe Sección Administrativa__ __ __ __ __ __ 14
+
+Inspector__ __ __ __ __ __ __ __ __ __ __ __ 17
+
+Jefe de Presupuesto__ __ __ __ __ __ __ __ _ 17
+
+Tesorero__ __ __ __ __ __ __ __ __ __ __ ___ 19
+
+Experto en Contabilidad de Costos. __ __ __ 20
+
+Secretario__ __ __ __ __ __ __ __ __ __ __ _ 21
+
+Administradores de Fundos__ __ __ __ __ __ _ 13
+
+Jefes Administrativos de Fundos__ __ __ __ _ 17
+
+Jefes de Sección Técnica__ __ __ __ __ __ __ 18
+
+Para desempeñar los cargos de Asesor Forestal
+
+grado 7° y Asesor Agrícola grado 7° se requerirá
+
+en lo sucesivo estar en posesión de los títulos
+
+de Ingeniero Forestal e Ingeniero Agrónomo, res-
+
+pectivamente y una experiencia profesional de a lo
+
+menos 2 años.
+
+=======================================================
+
+> **Nota.** NOTA: 6 La modificación introducida por el art. 7 del DL 1015, de 1975, regirá a contar del 1° de enero de 1974.-
+
+#### Artículo 18°
+
+Sustitúyese, a contar del 1° de enero de 1974 el artículo 25° del decreto ley 316, de 1974, por el siguiente:
+
+#### Artículo 25°
+
+Fíjase para los trabajadores del Instituto de Investigación de Recursos Naturales, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente planta y ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Designación actual Escala Unica
+
+-------------------------------------------------------
+
+Planta Directiva y Jefaturas.
+
+Director Ejecutivo__ __ __ __ __ __ __ __ _ 5
+
+Jefe Técnico__ __ __ __ __ __ __ __ __ __ _ 6
+
+Investigador Jefe__ __ __ __ __ __ __ __ __ 6
+
+Jefe Administración y Finanzas__ __ __ __ _ 7
+
+Subjefe Técnico__ __ __ __ __ __ __ __ __ _ 7
+
+Planta Profesional, Técnica y de Expertos
+
+Profesionales y Técnicos_ __ __ __ __ __ __ 7
+
+Profesionales y Técnicos_ __ __ __ __ __ __ 8
+
+Profesionales y Técnicos_ __ __ __ __ __ __ 9
+
+Profesionales, Técnicos y Exp__ __ __ __ __ 10
+
+Profesionales, Técnicos y Exp__ __ __ __ __ 11
+
+Profesionales, Técnicos y Exp__ __ __ __ __ 13
+
+Profesionales, Técnicos y Exp__ __ __ __ __ 15
+
+Profesionales, Técnicos y Exp__ __ __ __ __ 16
+
+Profesionales, Técnicos y Exp__ __ __ __ __ 17
+
+Profesional, Técnico y Exp__ __ __ __ __ __ 23
+
+Planta de Jefaturas Administrativas
+
+Jefes de Sección__ __ __ __ __ __ __ __ __ _ 15
+
+Jefes Administrativos__ __ __ __ __ __ __ __ 16
+
+Jefes Administrativos__ __ __ __ __ __ __ __ 17
+
+Planta Administrativa
+
+Oficiales__ __ __ __ __ __ __ __ __ __ __ __ 19
+
+Oficiales__ __ __ __ __ __ __ __ __ __ __ __ 21
+
+Secretarias__ __ __ __ __ __ __ __ __ __ ___ 27
+
+El o los cargos de Secretarias grado 27° se
+
+transformarán en grado 31° a medida que
+
+vayan quedando vacantes.
+
+Jefatura Planta de Servicios
+
+Jefe de Taller__ __ __ __ __ __ __ __ __ __ 22
+
+Mayordomo Jefe__ __ __ __ __ __ __ __ __ __ 25
+
+Choferes__ __ __ __ __ __ __ __ __ __ __ __ 26
+
+Mayordomo Edificio__ __ __ __ __ __ __ __ _ 26
+
+Mayordomo Taller__ __ __ __ __ __ __ __ ___ 26
+
+Porteros__ __ __ __ __ __ __ __ __ __ __ __ 27
+
+Portero__ __ __ __ __ __ __ __ __ __ __ ___ 33
+
+El o los cargos de Portero grado 33° se
+
+transformarán en grado 35° a medida que
+
+vayan quedando vacantes.
+
+=====================================================
+
+Los contratos del personal del Instituto, que sean de duración indefinida y que se encuentren vigentes a la fecha de la publicación del presente decreto ley, serán modificados a contar desde el 1° de enero de 1974, con el fin de consignar en ellos el cargo o función y el grado que corresponda de conformidad a lo dispuesto en el artículo anterior.
+
+#### Artículo 19°
+
+Para ingresar a la Planta Profesional, Técnica o de Expertos del Instituto de Investigación de Recursos Naturales, se requerirá el cumplimiento de las exigencias establecidas en el artículo 24° del decreto ley 316 de 1974, cuyo texto fue fijado por el artículo 1° del decreto ley 518, también de 1974.
+
+#### Artículo 20°
+
+Fíjase para el personal que se indica, de la Planta Directiva, Profesional y Técnica asimilada, al régimen de remuneraciones del personal de colaboración médica del Servico Nacional de Salud (Escala Directiva, Profesional y Técnica de la ley 16.617 y sus modificaciones posteriores), contemplada en el artículo 222° letra C. II del decreto con fuerza de ley 1, de 1968, dependiente del Ministerio de Defensa, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+=======================================================
+
+Designación actual Grado
+
+Escala Unica
+
+-------------------------------------------------------
+
+1 Técnico en Higiene Industrial__ __ __ 19
+
+(V Cat. del S. N. S.)
+
+1 Bioestadístico__ __ __ __ __ __ __ __ 19
+
+(III Cat. del S. N. S.)
+
+1 Bioestadístico__ __ __ __ __ __ __ __ 21
+
+(V Cat. del S. N. S.)
+
+=======================================================
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Jorge Cauas.
