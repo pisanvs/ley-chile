@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 188, de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 25, superficie 367 m2., Rol de Avalúo Nº 324-19, comuna de Río Negro, para la obra "Camino Ruta U-72, Sector Huilma-Riachuelo, tramo Km. 18,14000 a Km. 33,91000, Comuna de Río Negro, Provincia de Osorno", X Región y se acordó el valor de indemnización con su propietario Erwin Guillermo Hidalgo Loaiza, ascendente a la cantidad de $675.130.
+
+- Fiscal del Ministerio de Obras Públicas.
