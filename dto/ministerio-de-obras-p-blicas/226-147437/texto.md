@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 226 de 25 de septiembre de 1987, se expropiaron los lotes 1 y 2, cuyas superficies son 4.500 M2. y 2.200 M2., roles de avalúo 149126 y 149-27, Comuna de Codegua, para la obra Mejoramiento Integral del Servicio de Agua Potable de Codegua y se acordó el precio de indemnización con sus propietarias doña Malvina Teresa Guevara Dinamarca y doña María Mercedes Santander Chacón ascendente a $ 472.757 y $ 213.840.-
+
+Fiscal del Ministerio de Obras Públicas.
