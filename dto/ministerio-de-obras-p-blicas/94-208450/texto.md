@@ -1,0 +1,5 @@
+Por decreto MOP Nº 94, de 19 de febrero de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2-3, para la obra:
+
+"Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 18C. Lámina Especial 1. Km. 105.989,95 a Km. 108.650,51", Quinta Región, que figura a nombre de Delgado Villalobos María Violeta, rol de avalúo 9299-248, comuna de Valparaíso, superficie 843 m2. La comisión de peritos integrada por los señores José Cristián Larraín Barros, Mauricio Rodrigo Rojo Vega y Joaquín Prieto Ochagavía, fijó con fecha 2 de diciembre de 2002, el valor provisional de la indemnización en la cantidad de $22.902.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
