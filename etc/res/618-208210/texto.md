@@ -1,0 +1,3 @@
+Por resolución Nº 618, de 28 de febrero de 2003, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.538, de 2002, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº 200111268, presentada por INVERSIONES CONCOTO LIMITADA para instalar y operar el centro de cultivo ubicado en estero sin nombre, Isla Jechica, XI Región.
+
+Valparaíso, 28 de febrero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
