@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.112 de fecha 30 de septiembre de 2003, se expropiaron los lotes de terreno Nº 1 y 2, superficies 2.701,79 m2 y 2.412,26 m2, rol de Avalúo Nº 3280-19, comuna de Temuco, para la obra "Conservación Global IV Etapa Zona Sur, sector Camino Temuco- Cajón, tramo Km. 2,808 a Km. 3,110", IX Región y se acordó el valor de la indemnización con su propietario Carlos Rodolfo Bugmann Spielmann, ascendente a la cantidad de $29.195.208.
+
+Fiscal del Ministerio de Obras Públicas.
