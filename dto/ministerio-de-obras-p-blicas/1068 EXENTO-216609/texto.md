@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.068, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº47, superficie 1.006,0 m², rol de Avalúo Nº214-390, comuna de Teodoro Schmidt, para la obra "Camino S-60 sector: Teodoro Schmidt-Hualpín, Km. 43,94000 al Km. 59,10294, tramo II Km. 53,075 al Km. 58,093", IX Región y se acordó el valor de la indemnización con su propietaria Rosa Marilaf Lefiman, ascendente a la cantidad de $627.921.-
+
+Fiscal del Ministerio de Obras Públicas.
