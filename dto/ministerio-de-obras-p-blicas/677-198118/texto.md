@@ -1,0 +1,5 @@
+Por decreto MOP Nº677, de 5 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 2-A, 2-B, para la obra: "Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Enlace Casablanca Lámina Especial 1. Km. 71.600,00 a Km.
+
+72.200,00", Quinta Región, que figuran a nombre de Cía. Petróleos Chile, rol de avalúo 179-11, comuna de Casablanca, superficies de 1.192 m2 y 2.272 m2, respectivamente. La comisión de peritos integrada por los señores Luis Pablo Padilla Vergara, Marlene Teresa Ríos Marcuello y Joaquín Prieto Ochagavía, fijó con fecha 15 de septiembre de 2000, el valor provisional de la indemnización en las cantidades de $11.697.300.- para el lote Nº2-A y $19.132.800.- para el lote Nº2-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
