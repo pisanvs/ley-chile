@@ -1,0 +1,3 @@
+Por Resolución No. 352 de 19 de Abril de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble calle Lord Cochrane, presunto rol avalúos No. 646-46 comuna Santiago, aparentemente dominio de don Arturo Valle Clere o su Sucesión. Comisión integrada por peritos señores Roberto Correa Bezanilla y Eduardo Suárez Suárez, arquitectos y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20 de Octubre de 1988, fijó monto provisional indemnización en $ 6.306.600, pagadera al contado.-
+
+Director SERVIU Metropolitano.
