@@ -1,0 +1,5 @@
+Por Resolución N°844, de 29 de Octubre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EXTRACTOS NATURALES GELYMAR S.A., R.U.T. N° 96.609.040-5, para iniciar actividades pesqueras de transformación en orden a instalar y operar una planta industrial en la X Región, ubicada en camino a Pargua Km. 26, Puerto Montt, donde podrá procesar en las líneas de elaboración de secado de algas y carragenina, los siguientes recursos hidrobiológicos: Secado de algas: Luga roja y Luga negra; Carragenina: Luga roja, Luga negra, Luga cuchara y Cottonii filipina.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
