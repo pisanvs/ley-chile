@@ -1,0 +1,3 @@
+Por resolución No. 24 de 3 de Mayo de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a "Servicios Técnicos Mival Limitada", para efectuar las revisiones técnicas de los vehículos de transporte de personas de más de nueve (9) asientos, incluido el del conductor; de vehículos motorizados de carga con capacidad para transportar más de 1.750 kilos, sus remolques y semirremolques y los taxis, en el establecimiento ubicado en Panamericana Sur Km. 18, Parcela 37-B, de la comuna de San Bernardo.
+
+Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
