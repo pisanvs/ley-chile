@@ -1,0 +1,5 @@
+DISPONE EXCLUSION DE DOÑA ALICIA DE LAS MERCEDES BRIONES ARAYA DE NOMINAS QUE SEÑALA
+
+Res. Ex. No. 1.856, de fecha 04 de Junio de 1990, dispone exclusión de doña Alicia de las Mercedes Briones Araya, de las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al tercer llamado 1988 del Sistema General Unificado de Subsidio Habitacional, y deja sin efecto Certificado de Subsidio Habitacional Serie A-88 No. 03-2073, extendido a su favor, quedando en 4.317 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al tercer llamado 1988 del Sistema General Unificado de Subsidio Habitacional, y en 599.940 Unidades de Fomento, el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.-
+
+Joan Mac Donald M. Subsecretaria de Vivienda y Urbanismo.
