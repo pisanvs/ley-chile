@@ -1,0 +1,3 @@
+Por resolución Nº 1.907, de 30 de diciembre de 1998, de esta Subsecretaría, autorízase a PRODUCTOS ALIMENTICIOS CORBAC LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Altamirano Nº 2376, Independencia, Santiago, Región Metropolitana, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Deshidratados: Almeja y Chorito.
+
+Valparaíso, 30 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
