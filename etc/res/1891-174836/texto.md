@@ -1,0 +1,3 @@
+Por resolución Nº 1.891, de 29 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110483 presentada por PRODUCTOS MARINOS MARDIM LTDA., para instalar y operar el centro de cultivo ubicado en canal Jacaf, isla Magdalena, punta Trigueña, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 29 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
