@@ -1,0 +1,3 @@
+Por resolución Nº 2.090, de 2 de octubre de 2002, de esta Subsecretaría, déjase sin efecto la resolución Nº 371 de 2001, de esta Subsecretaría que autorizó, mediante la rectificación del numeral 3º de la resolución Nº 291 de 1989, a EMPRESA DE CONSTRUCCION Y CARPINTERIA NAVAL CONCAR S.A., para iniciar actividades pesqueras extractivas con la nave "María Tamara" en aguas exteriores situadas al sur del paralelo 47° L.S.
+
+Valparaíso, 2 de octubre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
