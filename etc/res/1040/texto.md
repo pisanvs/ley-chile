@@ -1,0 +1,9 @@
+Por Resolución N°1.040, de 15 de Diciembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA HUALPEN S.A., R.U.T. N°95.504.000- 7, para continuar desarrollando actividades pesqueras con la nave que se individualiza, en el litoral y respecto de las especies que más adelante se señalan, en el área de pesca comprendida en el litoral de la V y IX Región, el que constituye la unidad de pesquería de la especie Jurel, Trachurus murphyi, definida y declarada en estado de plena explotación en el artículo 1°, letra d) del D.S. N°354, de 1993, del Ministerio de Economía, Fomento y Reconstrucción y asimilada a dicho régimen en el mismo artículo, fue transferida por el titular de las Resoluciones N°82, de 1979, N°141, de 1983, N°143, de 1990 y N°887, de 1993, todas de esta Subsecretaría, Pesquera Bío-Bío Limitada a Sociedad Pesquera Hualpén S.A., según consta de la escritura pública de compraventa además podrá extraer en el litoral de la V a la IX Región, con cerco, el recurso Jurel.
+
+La presente autorización será indivisible y transferible con la nave de conformidad al artículo 23 de la Ley General de Pesca y Acuicultura.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Déjase sin efecto las Resoluciones N°82, de 1979, N°141, de 1983 y N°143, de 1990, todas de esta Subsecretaría, en cuanto autorizan a Pesquera Bío-Bío Limitada, R.U.T. N°84.902.900-2, para realizar faenas de pesca extractiva con la nave "Oceanic II".
+
+Valparaíso, 15 de Diciembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
