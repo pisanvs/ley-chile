@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 46, de 28 de febrero de 1994, se expropiaron los lotes de terreno N°s. 2, 12, 13, 17 y 19, superficies 964 m2., 15 m2., 638 m2., y 1.215 m2., roles de avalúos 335-5, 611-3, 612-81, 612-55 y 611-19, Comuna de Bulnes y San Ignacio, para la obra Camino Ruta N-69, sector Bulnes-Cruce Ruta N-59 y se acordó el precio de indemnización con sus propietarios Rafael S. de la Sotta Mizón, María Teresa del C. Inostroza Solís, Luisa del C. Vilches Parra, José D. Sandoval Gutiérrez y Robustiano S. Aedo García, ascendente a las cantidades de $932.457.-, $105.690.-, $2.125.724.-, $873.054.- y $573.707.-
+
+Fiscal del Ministerio de Obras Públicas.
