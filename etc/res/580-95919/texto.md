@@ -1,0 +1,3 @@
+Por Resolución No. 580 de 12 de Junio de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado en calle San Isidro No. 491 presunto rol avalúos 593-11, comuna Santiago, aparentemente dominio de doña Amalia Bustamante vda. de Walsh. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil, según informe de 31 de Enero de 1989, fijó monto provisional indemnización en $ 4.311.430.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
