@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 466 de 26 de marzo de 2004, se expropiaron los lotes de terrenos Nº s. 19 y 21, superficies 3.553,0 y 362 m2. respectivamente, Rol de Avalúo Nº 63-71, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Liucura - Paso Pini Hachado, Km. 158,54000 al 179,59862, Tramo II Km. 164,75450 al Km. 179,59862", IX Región y se acordó el valor de indemnización con su propietario Elisardo García Fonseca o Elizardo García Fonseca, ascendente a la cantidad de $1.014.736.
+
+Fiscal del Ministerio de Obras Públicas.
