@@ -1,0 +1,3 @@
+Por Resolución No. 426 de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, inmueble ubicado en Lord Cochrane No. 525 - 533, presunto rol avalúos No. 648-8, comuna Santiago, aparentemente dominio de doña Laura Molina Benítez. Comisión integrada por peritos Sres. Roberto Correa Bezanilla, Eduardo Suárez Suárez, arquitectos, y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20.10.88, fijó monto provisional indemnización en $ 9.408.000-, pagadera al contado.
+
+- Director SERVIU Metropolitano.
