@@ -1,0 +1,3 @@
+Por Resolución N° 1.622, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se deniega la solicitud de concesión de acuicultura presentada por CARLOS GILBERTO ESPICEL ESPICEL, para un centro de cultivo ubicado en sector Nal, estero El Dique, comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
