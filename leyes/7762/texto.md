@@ -1,0 +1,1 @@
+Autoriza emitir debentures o bonos por la suma de $ 25.000,000 para terminar, habilitar y dotar los pabellones de la Maestranza de los Ferrocarriles del Estado, en San Bernardo, a fin de construir población para obreros de dicha Maestranza.
