@@ -1,0 +1,3 @@
+Por Resolución N° 762, de 22 de Junio de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la Resolución N° 480, de 1995, de esta Subsecretaría, que autorizó a PROCEMAR S.A., R.U.T. N° 88.969.300-2, para operar la nave "Pablo", en el sentido de agregar entre los recursos que puede capturar al Jurel.
+
+Valparaíso, 22 de Junio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
