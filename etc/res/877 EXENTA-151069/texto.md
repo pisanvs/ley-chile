@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 877 de 25 de Junio de 1087, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Resto del Socorro" de la Comuna de Rengo, VII Región, y Derechos Aprovechamiento Aguas que corresponden a 6 parcelas N°s. 1 a la 6, sitios N°s. 1 al 5 del Proyecto de Parcelación "El Socorro" formado por predio señalado. Los Derechos de Agua se extraen de los canales Jorge Errázuriz y Chapetón.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
