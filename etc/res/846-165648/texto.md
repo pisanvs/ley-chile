@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD PESQUERA DEL SUR S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por Resolución No. 846, de 19 de Diciembre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera del Sur Sociedad Anónima, domiciliada en la ciudad de Santiago, para extraer con las embarcaciones "Coray I" y "Coray H", individualizadas en la resolución 433, de 1984, de la Subsecretaria de Pesca, además, de los recursos que tiene autorizados, los siguientes; bonito y cojinova del norte los que deberá destinar a su industrialización para consumo humano directo. Las embarcaciones señaladas deberán contar a bordo, con sistemas adecuados de preservación de la materia prima, tales como contenedores con hielo, cámaras isotérmicas o refrigeradas.
+
+Valparaíso, 19 de Diciembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
