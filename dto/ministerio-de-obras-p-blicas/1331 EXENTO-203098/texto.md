@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.331 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº43, superficie 1.289 m², rol de avalúo Nº178-68, comuna de Chonchi, para la obra ''Camino Ruta W - 80, Sector Cruce Longitudinal Huillinco Km. 0,000 a Km. 9,556'', X Región y se acordó el valor de la indemnización con su propietario Samuel Antonio Cuyul Leuquen, ascendente a la cantidad de $847.282.-
+
+Fiscal del Ministerio de Obras Públicas.
