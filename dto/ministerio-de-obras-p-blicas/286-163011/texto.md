@@ -1,0 +1,3 @@
+Por Decreto No. 286, de 30 de septiembre de 1985, se expropiaron los lotes No.s. 4 y 4-B, cuyas superficies son 220 m2 y 64 m2., rol de avalúo 44-67, Comuna de Peumo, para Ruta H66-G Pelequén Cruce Las Arañas, sector Codao-Las Cabras y se acordó el precio de indemnización con sus propietarios don Juan Lobos Ulloa y don Juan Arriaza Maldonado, ascendente a $ 96.968 y $ 631.504, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
