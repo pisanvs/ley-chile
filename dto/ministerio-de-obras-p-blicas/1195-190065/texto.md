@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.195, de 31 de julio de 2001, se expropió el lote de terreno Nº 82-2, superficie 613 m², rol de avalúo 205-97, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector I, Sexta Región y se acordó el valor de indemnización con sus propietarios Blas Francisco Sandoval Sandoval y otros, ascendente a la cantidad de $19.579.270.
+
+- Fiscal del Ministerio de Obras Públicas.
