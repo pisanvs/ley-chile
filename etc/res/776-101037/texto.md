@@ -1,0 +1,5 @@
+Por resolución Nº776, de 28 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA IQUIQUE GUANAYE S.A., para ampliar actividades pesqueras extractivas, con la nave "Squa", matrícula 2387, autorizadas por resoluciones Nº352 de 1984 y Nº1.373 de 1992, ambas de esta Subsecretaría, en orden a operar la nave "Squa" en el litoral de la I, II, III y IV Regiones, por fuera del área de reserva artesanal, con red de cerco, en la captura del recurso Bacaladillo o mote.
+
+Modifícase el numeral 2 de la resolución Nº1.373, de 1992, de esta Subsecretaría, que fijó las características náuticas de la nave "Squa", en el sentido de señalar que la capacidad de bodega de dicha nave es de 350 m3.
+
+Valparaíso, 28 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
