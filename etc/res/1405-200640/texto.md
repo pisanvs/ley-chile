@@ -1,0 +1,3 @@
+Por resolución Nº 1.405 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado El Manzano de Pucatrihue, X Región, individualizada en el artículo 1, letra c) del D.S. Nº 443 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, BUZOS Y ALGUEROS DE PUCATRIHUE.
+
+Valparaíso, 11 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
