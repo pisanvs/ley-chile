@@ -1,0 +1,3 @@
+Por resolución Nº 1.244, de 25 de agosto de 1998, de esta Subsecretaría, autorízase a PESQUERA QUINTERO S.A., para ampliar actividades pesqueras autorizadas por resoluciones Nº 128, de 1983, Nº 132, de 1986, Nº 431, de 1987 y Nº 636, de 1991, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida 21 de Mayo Nº 1057, Quintero, V Región, en la línea de elaboración de Congelado el recurso Gamba.
+
+Valparaíso, 25 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
