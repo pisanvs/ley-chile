@@ -1,0 +1,1 @@
+Modifica el N° 11 de la letra c) del artículo 13 de la ley 6,827, de 14 de febrero de 1941, sobre Juzgados de Policía Local.
