@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.242 de 30 de agosto de 2002, y en base a la facultada otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 392 y 393 para la obra Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 a Km.
+
+16,48000, que figuran a nombre de Correa Troncoso Marieta y otros, Rol de Avalúo 33-87, comuna de Pichidegua, VI Región, superficies 614 m2 y 615 m2. La Comisión de Peritos, fijó con fecha 28 de marzo de 2001, el monto de la indemnización provisional en la cantidad de $2.110.000.-, para el lote 392 y $2.722.500.-, para el lote 393. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
