@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.409, de 17 de abril de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº23, para la obra Camino: Santiago-Colina-Los Andes. Sector: Calle de Servicio Caupolicán Km. 4.618,89 a Km.
+
+6.634,47, Región Metropolitana, que figura a nombre de Vorwerk Mattewsohn Rolando Bernardo, rol de avalúo 166-143, comuna de Colina, superficie 5.981,1 m². La comisión de peritos integrada por los señores María Cristina Camus Palacios, Gustavo Domínguez Errázuriz y Carmen Pilar Ríos Marcuello, fijó con fecha 10 de febrero de 2000, el valor provisional de la indemnización en la cantidad de $165.070.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
