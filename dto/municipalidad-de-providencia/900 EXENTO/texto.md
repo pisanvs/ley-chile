@@ -1,0 +1,3 @@
+Alcaldesa de la I. Municipalidad de Providencia, mediante Decreto No. Ex. 900, de 12 de Agosto de 1986, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976, y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en Los Leones No. 2002, Rol de Avalúos No. 3237-13, aparentemente de propiedad de don Mario Díaz Oyarzún, para el ensanche de Avda. Bilbao. Deslindes parte expropiada: al Norte, 24,50 mts. Avda. Bilbao; al Sur, 24,50 mts. resto de la propiedad que se expropia; al Oriente, 5 mts. Rol No. 3237-1, y al Poniente, 5 mts. Avda Los Leones. Indemnización provisional: $ 1.541.000.
+
+- Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal. Asociación Gremial
