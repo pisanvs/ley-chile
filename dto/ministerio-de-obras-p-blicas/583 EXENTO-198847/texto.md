@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº583, de 30 de abril del 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº 3, para la
+
+ejecución de la obra: ''Camino Melipeuco-Icalma, Sector Variante Nº1, Km. 25.027 al Km. 28,683'', que figura a nombre de Gutiérrez D. Oscar Raúl, rol de avalúo 308-105, comuna de Melipeuco, IX Región superficie 13.318 m2. La comisión de peritos fijó con fecha 8 de octubre de 1997, complementada por acta de fecha 11 de agosto de 1999, el valor provisional de la indemnización en la cantidad de $532.720.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
