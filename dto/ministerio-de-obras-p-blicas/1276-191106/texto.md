@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.276, de 27 de agosto de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº85-A, para la obra Camino Rutas W-65 y W-55, sector Cruce Longitudinal (Pid-Pid)-Putemún-Dalcahue, que figura a nombre de Haro Vásquez José Ramón, rol de avalúo 139-73, superficie 6.752,25 m², comuna de Dalcahue. La comisión de peritos, con fecha 28 de junio de 2000, fijó la indemnización provisional en la cantidad de $3.038.513, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
