@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA No. 2.804 DE 1989
+
+Por Resolución exenta No. 2.804 de fecha 31 de octubre de 1989 de la Subsecretaría de Educación Pública, se aprobó a contar del segundo semestre 1989, el siguiente plan y programas de estudio al término de la cual se otorgará el título técnico que se señala, al Centro de Formación Técnica Pascual Baburizza de Los Andes, cuyo funcionamiento fue autorizado por Decreto Exento de Educación No. 136, inscrito en el registro correspondiente bajo el No. 190: Carrera: Administración de Empresa Agrícola mención Hortofruticultura. Título: Técnico en administración de Empresa Agrícola mención Hortofruticultura. Para optar al título correspondiente, los alumnos deberán aprobar todas las asignaturas del plan de estudio y cumplir con las normas de evaluación, promoción y titulación aprobadas por la citada resolución para el centro mencionado.
+
+Santiago, 28 de Diciembre de 1989.- María Sixtina Barriga Guzmán, Subsecretaría de Educación Pública.
