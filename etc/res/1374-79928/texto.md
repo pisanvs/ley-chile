@@ -1,0 +1,5 @@
+Por resolución No. 1.374 de 04 de Noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESCA CISNE S.A., R.U.T. No.
+
+96.531.980-8 domiciliada en la ciudad de Santiago, calle Juana de Arco No. 2087, para ampliar actividades pesqueras, que tiene autorizada por resolución No. 947, de 1988, de esta Subsecretaría, en orden a incorporar en la planta industrial autorizada por la resolución citada en el numeral precedente, en la línea de elaboración de conserva y congelado, el recurso hidrobiológico Congrio dorado. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
