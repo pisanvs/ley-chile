@@ -1,0 +1,3 @@
+Por Resolución No. 223, de 26 de Febrero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 31 de Enero de 1991, el plazo otorgado a don SANTIAGO SEGUNDO EUGENIO DELGADO, R.U.T. No. 4.030.766-4, domiciliado en el Sector denominado Agua del Obispo, Km. 7 camino público a Niebla S/N° , Correo Postal de Niebla, en el numeral 5° de la Resolución No. 1.622, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 26 de Febrero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
