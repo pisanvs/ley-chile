@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 442, de fecha 29 de septiembre de 1994, se expropió el lote de terreno N° 6, superficie 101.460 M2., sin rol, comuna de Cerrillos, para la obra Avenida Américo Vespucio, sector Ochagavía Pedro Aguirre Cerda y se acordó precio de indeminización con sus pripietarios María Eliana Soza Donoso y otros ascendente a la cantidad de $363.505.536.-
+
+Fiscal del Ministerio de Obras Públicas.
