@@ -1,0 +1,3 @@
+Por resolución Nº 2.213 de 11 de octubre de 2002 de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 722 de 1993, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA QUINTERO S.A. a operar la nave "Crusoe I", sobre el recurso Raya en el área marítima correspondiente a la VIII Región, ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y del memorándum de la División de Desarrollo Pesquero de esta Subsecretaría, citado en Visto.
+
+Valparaíso, 11 de octubre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
