@@ -1,0 +1,3 @@
+Por Decreto M.O.P., No. 179, de 26 de junio de 1992, se expropiaron los lotes de terreno No. s 4 y 6, superficies 1.317. M2. y 10.145 M2, respectivamente, roles de avalúo 3707-34 y 3709-108, Comuna de Talca, para la obra Camino Longitudinal Sur Ruta 5, Segunda Calzada, sector Puente Lircay-Paso Superior Lircay, Tramo Km. 251.300 al Km. 253.200, y se acordó precio de indemnización con sus propietarios María Eulalia Concha Fuenzalida y otros, ascendente en total a la cantidad de $ 24.477.671.-
+
+Fiscal Ministerio de Obras Públicas.
