@@ -1,0 +1,3 @@
+Por decreto MOP Nº143, de 31 de enero de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº 305, superficie 139 m², rol de avalúo 7849-6, comuna de La Pintana, Región Metropolitana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago. Km. -0150,00 al Km. 10.986,00. Posteriormente, por decreto MOP Nº 1.059, de 30 de marzo de 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con su propietaria Yolanda San Martín Orellana, ascendente a la cantidad de $9.687.188.-
+
+Fiscal del Ministerio de Obras Públicas.
