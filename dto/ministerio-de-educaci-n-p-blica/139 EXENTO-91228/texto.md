@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO EXENTO Nº 139, DE 1989
+
+Por decreto supremo exento de Educación Nº 139 de 14 de septiembre de 1989 se ha aprobado al Colegio Latinoamericano de Integración, de Santiago, un plan de estudio especial que se aplicará con carácter experimental por un período de 8 años, en los cuatro cursos de la Educación Media Humanístico - Científica simultáneamente, desde el año escolar 1989. Además, el establecimiento aplicará los programas de estudio aprobados por decreto supremo exento de Educación No. 300, de 1981, adecuados a las exigencias que este nuevo plan de estudio requiere, con excepción de las asignaturas de Física y Química del Plan Común de 3° y 4° año, cuyos programas se aprueban en el presente decreto. Asimismo, se aprueban programas de las asignaturas del Plan Electivo que no están contemplados en el decreto supremo exento de Educación Nº 300, de 1981.
+
+Santiago, 03 de Octubre de 1989.- María Sixtina Barriga Guzmán, Subsecretaria de Educación Pública.
