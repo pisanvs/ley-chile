@@ -1,0 +1,5 @@
+Por Decreto MOP No. 155, de 02 de julio de 1991 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P.
+
+No. 294, de 1984, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno 19, para la obra Avenida Américo Vespucio, sector Gran Avenida Ochagavía, que figura a nombre de don Hermógenes Sarmiento Ortega, rol de avalúo 2036-5, Comuna de La Cisterna, superficie 514 m2., deslinde: Norte: Con resto del predio; Sur: Avenida Américo Vespucio; Este: Con lote 18 del cuadro y plano de expropiación respectivo, y Oeste: Con lote 20, del mismo cuadro y plano de expropiación. La Comisión de Peritos compuesta por los señores Jorge Navarro Navarrete y René Ureta Koster y señora Nancy Sánchez Sepúlveda, fijó con fecha 29 de marzo de 1989, el valor provisional de la indemnización en la cantidad de $ 4.838.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
