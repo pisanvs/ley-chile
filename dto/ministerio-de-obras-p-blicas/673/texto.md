@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 673, se expropiaron los lotes de terreno N°s. A y B, superficie 5.700, 53.080 M2 respectivamente, roles de avalúo en Trámite comuna de Rancagua, para la obra Camino Chancón Rol H-188, sector La Ramirana, Mina El Inglés y se acordó precio de indemnización con su propietario Sociedad Agrícola La Ramirana Limitada, ascendente a la cantidad de $ 23.436.500.
+
+Fiscal del Ministerio de Obras Públicas
