@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.430, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 83, para la obra Camino Ruta D-595; Ovalle - Hurtado, sector Tranque Recoleta - Samo Alto, tramo Kms. 9.780,00 al 31.840,00, que figura a nombre de Comunidad Agrícola Huampulla, rol de avalúo 11-8, superficie 4.475 m2., comuna de Río Hurtado. La comisión de peritos, con fecha 10 de octubre de 1999, fijó la indemnización provisional en la cantidad de $895.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
