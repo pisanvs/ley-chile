@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 580, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 15, superficie 255 m², rol de avalúo 527-24, comuna de Linares, para la obra "Camino Ruta L-32, Sector Cruce Ruta 5-Puente Sifón, Tramo Km. 2.320 al 17.666,44" y se acordó el valor de indemnización con su propietaria Alicia Vergara Torres, ascendente a la cantidad de $455.415.-
+
+Fiscal del Ministerio de Obras Públicas.
