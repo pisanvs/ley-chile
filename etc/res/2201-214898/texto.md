@@ -1,0 +1,3 @@
+Por resolución Nº 2.201, de 10 de septiembre de 2003, de esta Subsecretaría, déjase sin efecto la resolución Nº 849 de 1988, modificada por resoluciones Nº 178 de 1994 y Nº 496 de 2000, todas de esta Subsecretaría, que autorizaron a SALMONES CHONCHI S.A. para operar un centro de cultivo ubicado en Vilupulli, Canal Yal, comuna de Chonchi, X Región.
+
+Valparaíso, 10 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
