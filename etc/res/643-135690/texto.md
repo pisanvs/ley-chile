@@ -1,0 +1,3 @@
+Por resolución Nº 643, de 22 de abril de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 698 de 1991, Nº 699 de 1992, Nº 113 y Nº 119, ambas de 1994 y Nº 1.063 de 1995, todas de esta Subsecretaría, que autorizaron a MANUEL ENRIQUE PEDREIRA, para instalar y operar centro de cultivo, uno ubicado en Isla Butachauques, sector Nayahué y otro ubicado en sector Metahué, comuna de Quemchi, X Región.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
