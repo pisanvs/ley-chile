@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO Nº 532 EXENTO, DE 1998
+
+Por decreto exento Nº 532, de fecha 22 de abril de 1998, del Ministerio de Educación, se revocó el reconocimiento oficial del Centro de Formación Técnica Instituto Superior de Educación, Ciencia y Cultura Gabriela Mistral, organizado por la Sociedad Centro de Formación Técnica Instituto Superior de Educación, Ciencia y Cultura Gabriela Mistral Limitada o C.F.T. Gabriela Mistral Ltda. y se eliminó a dicha entidad del Registro de Centros de Formación Técnica en que se encontraba inscrito con el Nº 176.
+
+Por este mismo cuerpo legal, se derogaron el decreto exento de Educación Nº 37, de fecha 16 de marzo de 1989, modificado por decreto exento Nº 18 del 13 de enero de 1993, que autorizó el funcionamiento del Centro de Formación Técnica Instituto Superior de Educación, Ciencia y Cultura Gabriela Mistral y las resoluciones exentas de Educación Nº 1.971, del 13 de julio de 1989, Nº 2.091, del 9 de noviembre de 1989, los decretos exentos Nº 253 del 1º de octubre de 1990 y decreto exento Nº 314 del 26 de noviembre de 1991, que aprobaron planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado.
+
+Santiago, 7 de mayo de 1998.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
