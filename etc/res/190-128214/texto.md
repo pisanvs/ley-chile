@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION DE INMUEBLE
+
+Por resolución Nº 190 de 26 de noviembre de 1998, conforme artículo 51 ley 16.391, D.L. Nº 2.186 de 1978 y D.S. Nº 68 de 1991 de Vivienda y Urbanismo, y para destinarlo al desarrollo de programa de viviendas del sector para años 1999 y siguientes, Serviu IX Región ordenó expropiación inmueble de 62.739 m2 de superficie aproximada, ubicado en la ciudad y comuna de Carahue, sector bajo, estación de Ferrocarriles del Estado, entre Avenida Ercilla y David Alvarez, parte Rol de Avalúos Nº 90.277-1, comuna Carahue, de aparente dominio de Empresa de Ferrocarriles del Estado. Comisión peritos integrada señores Roberto Gesche Robert, ingeniero civil, Mario Tillería Torres, arquitecto, y Marie Jeannette Gassiot Troncoso, constructor civil, fijó monto indemnización provisional en $154.396.129.-, según informe de 24 noviembre 1998, pagadera contado.-
+
+Director (S) Serviu IX Región.
