@@ -18988,7 +18988,7 @@ Para los fines de que trata este titulo, los bancos y sociedades financieras con
 
 IV.- MARGEN DE OPERACIONES EN MONEDA EXTRANJERA.
 
-La suma de los fondos disponibles, las colocaciones, inversiones y otros activos en moneda extranjera, en moneda nacional documentados en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, deducido el saldo de la Posición de Cambios Internacionales, cuando éste resulte acreedor, no podrá ser superior ni inferior a la suma de las obligaciones en moneda extranjera, en moneda nacional documentadas en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, en más de un 20% del capital pagado y reservas de la respectiva institución financiera.
+La suma de los fondos disponibles, las colocaciones, inversiones y otros activos en moneda extranjera, en moneda nacional documentados en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, no podrá ser superior ni inferior a la suma de las obligaciones en moneda extranjera, en moneda nacional documentadas en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, en más de un 20% del capital pagado y reservas de la respectiva institución financiera.
 
 Las sucursales de bancos extranjeros que ingresen o hayan ingresado capitales al país al amparo del Decreto Ley N° 600 de 1974 y sus modificaciones, o de los artículos 14, 15 ó 16 del Decreto Supremo N° 471 de 1977, del Ministerio de Economía, Fomento y Reconstrucción, así como los bancos o sociedades financieras nacionales que reciban o hayan recibido capital de la misma naturaleza, podrán exceder el referido límite del 20%, en una suma igual al monto de los aportes recibidos más las utilidades retenidas, susceptibles de ser remesadas al exterior, sólo en los casos en que los activos superen a los pasivos. Se entenderá para estos efectos como utilidades susceptibles de ser remesadas al exterior, aquellas que hayan sido reconocidas como tales, mediante el correspondiente certificado emitido por esta Superintendencia, sea que ellas se mantengan en moneda chilena o extranjera.
 
@@ -19099,6 +19099,8 @@ Sin perjuicio de la información que puede solicitarse para verificar el cumplim
 > **Nota.** La letra G, de la Circular 2701, SBIF, promulgada el 27.08.1992, modifica el presente Anexo, a fin de actualizar sus referencias a partidas; se elimina la mención a las partidas 1625 y 3625, actualmente no vigentes, se agregan las partidas 2126 y 4126 y se remplaza una cuenta.
 
 > **Nota.** NOTA 1 El N° 2.1 del Numeral 2 de la Circular 2752, SBIF, promulgada el 10.08.1993, de acuerdo a las con las instrucciones de los Capítulos 13-2 y 13-23 adjuntos, se crean las partidas 2127 y 4127 con el nombre "Operaciones a futuro" y se eliminan las partidas 2125, 2126, 4125 y 4126. Además, se modifican los nombres de las partidas 9550 y 9551, las que pasan a denominarse "Contratos a futuro" y "Contratos de protección de tasas de interés", respectivamente.
+
+> **Nota.** NOTA 2 La letra B) de la Circular 2789, SBIF, promulgada el 02.09.1994, modifica el presente Anexo, en lo que concierne a la definición de los indicadores que contemplan el cómputo del saldo de la Posición de Cambios.
 
 CAPITULO 12-10 (Bancos y Financieras)
 
