@@ -16,7 +16,7 @@ Día 18: Servicios dependientes del Ministerio de Educación Pública.
 
 Día 19: Presidencia de la República, Poder Legislativo, Poder Judicial, Contraloría General de la República y Servicios dependientes de los Ministerios del Interior y de Hacienda y Secretaría General de Gobierno.
 
-Incluye, además al Ministerio de Planificación y Cooperación y al Ministerio Secretaría General de la Presidencia de la República.
+Incluye, además, al Ministerio de Planificación y Cooperación, al Ministerio Secretaría General de la Presidencia de la República y al Ministerio Público.
 
 Día 21: Servicios dependientes del Ministerio de Defensa Nacional.
 
