@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 117, de 29 de abril de 1992, se expropiaron los lotes de terreno N°s 1, 2 y 3, superficies 780, 6.310 y 14.620 m2., roles de avalúo 139-18 y 140-113, comuna de Graneros y Codegua, para la obra Mejoramiento Camino Rancagua La Compañía Rol H-15, y se acordó precio de indemnización con su propietario don Zaki Salomónd Pichara Ananía, ascendente a la cantidadd de $ 17.991.093.-
+
+Fiscal del Ministerio de Obras Públicas.
