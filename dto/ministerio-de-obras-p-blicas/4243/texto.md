@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.243, de 27 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 se expropió el lote de terreno Nº 19, para la ejecución de la obra ''Camino Malloa Tunca por Corcolén Km. 3.500 a Km. 5.670'', que figura a nombre de Guillermo Ogaz González, Rol de Avalúo 139-30, de la comuna de Malloa, VI Región, superficie 1.800 M2. La comisión de peritos fijó con fecha 5 de mayo de 1998, la indemnización provisional en la cantidad de $1.896.000, la indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
