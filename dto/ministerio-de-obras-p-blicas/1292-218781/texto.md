@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.292 de fecha 31 de octubre del 2003, se expropiaron los lotes de terrenos Nº s. 76, 77 y 78 superficies 908, 8.174,0 y 337,0 m2, Rol Nº 512-22, comuna de Carahue, IX Región para la obra "Camino Ruta S-36, sector Tranapuente-Nehuentúe, tramo km. 0,000 a km. 9,997062 y se acordó el valor de indemnización con su propietaria Diana María Sabra Kauak, ascendente a la cantidad de $4.792.776.
+
+Fiscal del Ministerio de Obras Públicas.
