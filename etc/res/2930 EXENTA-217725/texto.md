@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.930, de 19 de noviembre de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 661 de 1993, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA LANDES S.A. para realizar actividades pesqueras extractivas con la nave "Araucanía I", entre la VII y X Regiones, sobre el recurso hidrobiológico Merluza de tres aletas.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
