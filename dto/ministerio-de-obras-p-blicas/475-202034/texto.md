@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 475, de fecha 28 de junio de 1996, se expropió el lote de terreno N° 33A, superficie 11.081 M2., rol de avalúo en trámite, comuna de Rancagua, para la obra Mejoramiento Rut 5 Sur, sector Pasada por Rancagua y se acordó precio de indemnización con sus propietarios Sucesión Benito Lizana Marchant, ascendente a la cantidad de $96.220.049.-
+
+Fiscal del Ministerio de Obras Públicas.
