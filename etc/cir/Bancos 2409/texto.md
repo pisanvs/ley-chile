@@ -5762,7 +5762,13 @@ Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaci
 
 3.2.- Inversiones y colocaciones en el exterior.
 
-Los bancos podrán deducir de sus obligaciones a plazo afectas a encaje señaladas en, este título; los saldos que mantengan correspondientes a las inversiones financieras y a las colocaciones en el exterior, de que trata la letra B) y la letra C) , respectivamente, del Capítulo III.B.5 del Compendio de Normas Financieras, como asimismo las inversiones en bonos, adquiridos en el exterior, de que trata el último párrafo del N° 1 de la letra C del Capítulo XII del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
+Los bancos podrán deducir de sus obligaciones a plazo afectas a encaje señaladas en, este título; los saldos que mantengan correspondientes a las inversiones financieras y a las colocaciones en el exterior, de que trata la letra
+
+- **B)** y la letra
+
+- **C)** , respectivamente, del Capítulo III.B.5 del Compendio de Normas Financieras, como asimismo las inversiones en bonos, adquiridos en el exterior, de que trata la letra
+
+- **b)** del numeral 2.2 del Capítulo XIII del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
 
 Los bancos podrán deducir de las obligaciones a la vista mencionadas en este título, el excedente de deducible que se origine cuando las obligaciones a plazo mencionadas en este título sean inferiores al total del importe deducible por las inversiones y colocaciones en el exterior antes señaladas.
 
@@ -9486,7 +9492,7 @@ AVALES Y FIANZAS.
 
 En general, con excepción de las limitaciones y prohibiciones que se señalan en este mismo Capítulo, las instituciones financieras pueden avalar o afianzar, en forma simple o solidaria, obligaciones expresadas en moneda chilena.
 
-Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda extranjera en conformidad con lo establecido en el Capítulo VIII del Compendio de Normas de Cambios Internacionales y en el Capítulo III.1.1 del Compendio de Normas Financieras, del Banco Central de Chile. Las sociedades financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda extranjera cuando sean expresamente autorizadas para ello.
+Las empresas bancarias podrán, además, avalar o afianzar obligaciones en moneda extranjera en conformidad con lo establecido en el Capítulo XIII del Compendio de Normas de Cambios Internacionales y en el Capítulo III.1.1 del Compendio de Normas Financieras, del Banco Central de Chile. Las sociedades financieras solamente podrán avalar o afianzar obligaciones expresadas en moneda extranjera cuando sean expresamente autorizadas para ello.
 
 Las instituciones financieras podrán avalar o afianzar solamente aquellas obligaciones que correspondan a operaciones efectivas y conocidas, cuyo monto y plazo estén de antemano perfectamente determinados, y su nesgo haya sido previamente calificado.
 
@@ -9516,7 +9522,7 @@ Las instituciones financieras no podrán avalar o afianzar obligaciones a cargo 
 
 6.- Avales y fianzas en moneda extranjera.
 
-Las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera a favor de personas naturales o jurídicas residentes en Chile o en el extranjero, de conformidad con lo dispuesto en el Capítulo VIII del Compendio de Normas de Cambios Internacionales y en el Capítulo III I 1 del Compendio de Normas Financieras, del Banco Central de Chile.
+Las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera a favor de personas naturales o jurídicas residentes en Chile o en el extranjero, de conformidad con lo dispuesto en el Capítulo XIII del Compendio de Normas de Cambios Internacionales y en el Capítulo III I 1 del Compendio de Normas Financieras, del Banco Central de Chile.
 
 7.- Límites.
 
@@ -9666,7 +9672,7 @@ favor de terceros, susceptibles de caucionarse mediante este instrumento.
 
 ### 5. Boletas de garantía en moneda extranjera
 
-Para la emisión de boletas de garantía en moneda extranjera a favor de personas residentes en Chile o en el extranjero, las empresas bancarias deben atenerse a las disposiciones contenidas en el Capítulo III I 1 del Compendio de Normas Financieras y en el Capítulo VIII del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
+Para la emisión de boletas de garantía en moneda extranjera a favor de personas residentes en Chile o en el extranjero, las empresas bancarias deben atenerse a las disposiciones contenidas en el Capítulo III I 1 del Compendio de Normas Financieras y en el Capítulo XIII del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
 
 6. Boletas de garantía expresadas en moneda extranjera, pagaderas en moneda chilena.
 
@@ -16620,7 +16626,7 @@ c) Letras de cambio o pagarés, originados en exportaciones de mercaderías chil
 
 respectivos Bancos Centrales, siempre que el banco avalista haya otorgado su autorización para que el importe de esos documentos sea reembolsado a través del correspondiente convenio de crédito recíproco.
 
-Para considerar estos documentos como garantías válidas para los efectos de límites de crédito, los bancos deben estar en posesión material de la letra de cambio o del pagaré, debiendo constar que el documento es reembolsable por intermedio de un convenio de crédito recíproco conforme a lo dispuesto en el Capítulo X del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+Para considerar estos documentos como garantías válidas para los efectos de límites de crédito, los bancos deben estar en posesión material de la letra de cambio o del pagaré, debiendo constar que el documento es reembolsable por intermedio de un convenio de crédito recíproco conforme a lo dispuesto en el Capítulo VI del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
 ### 2. Documentos emitidos por el Banco Central de Chile o por el Estado y sus
 
@@ -18074,7 +18080,7 @@ Los antecedentes o documentos comprobatorios exigidos en las normas de cambio pa
 
 3.1.- Disposición general.
 
-De acuerdo con lo establecido en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las compras y ventas de divisas dan origen a la Posición de Cambios Internacionales, la cual se encuentra definida en esas normas en términos de las cuentas de conversión que utilizan los bancos para el efecto y que corresponden a las indicadas en el numeral 3.2 siguiente. El conjunto de esas cuentas constituye la Posición de Cambios Internacionales, cuyo saldo global neto expresado en dólares, determinado en la forma establecida por el Banco Central de Chile, debe ser igual o superior a cero, pudiendo en consecuencia existir posiciones "sobrevendidas" para algunas monedas siempre que se compense con las posiciones "sobrecompradas" de las otras.
+De acuerdo con lo establecido en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las compras y ventas de divisas dan origen a la Posición de Cambios Internacionales, la cual se encuentra definida en esas normas en términos de las cuentas de conversión que utilizan los bancos para el efecto y que corresponden a las indicadas en el numeral 3.2 siguiente. El conjunto de esas cuentas constituye la Posición de Cambios Internacionales, cuyo saldo global neto expresado en dólares, debe ser determinado en la forma establecida por el Banco Central de Chile.
 
 3.2.- Contabilización de las operaciones de compra y venta de monedas extranjeras.
 
@@ -18138,15 +18144,11 @@ COMPRAVENTA DE DIVISAS A FUTURO Y SWAPS EN EL MERCADO LOCAL.
 
 ### 1. Operaciones a futuro (Forward) y Swaps de monedas
 
-Las operaciones a futuro que los bancos establecidos en Chile pueden realizar en el mercado local, al amparo de las disposiciones del Capítulo VII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y de este Capítulo, son compras y ventas de divisas a futuro (forwards) con bancos y otras personas situadas en el país. Las mencionadas operaciones también podrán contratarse en la modalidad de un "SWAP".
+Las operaciones a futuro que los bancos establecidos en Chile pueden realizar en el mercado local, al amparo de las disposiciones del Capítulo IX del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y de este Capítulo, son compras y ventas de divisas a futuro (forwards) con bancos y otras personas situadas en el país. Las mencionadas operaciones también podrán contratarse en la modalidad de un "SWAP".
 
 ### 2. Contratos
 
 Las operaciones señaladas en el N° 1 precedente, deben constar en un contrato celebrado entre el banco y la otra parte contratante.
-
-### 3. Monedas en que se pueden pactar estas operaciones
-
-Las operaciones a futuro (Forward) y los Swaps de que trata este Capítulo, con entrega física de la moneda extranjera, sólo podrán convenirse en las monedas señaladas en el Anexo N° 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
 ### II. COMPRAVENTAS A FUTURO (FORWARDS)
 
@@ -18172,7 +18174,7 @@ Durante la vigencia del contrató las partes podrán, de común acuerdo, modific
 
 ### 6. Excepción a la obligación de liquidar la moneda extranjera
 
-Las personas naturales o jurídicas residentes en el país distintas de los bancos, que compren moneda extranjera a futuro de conformidad con las normas de este Capítulo, efectuando el pago de su importe en pesos moneda chilena, no estarán obligadas a liquidar dicha moneda en el mercado cambiario formal, siempre que den cumplimiento a las normas y condiciones contenidas en el Capítulo VII del Título I antes mencionado.
+Las personas naturales o jurídicas residentes en el país distintas de los bancos, que compren moneda extranjera a futuro de conformidad con las normas de este Capítulo, efectuando el pago de su importe en pesos moneda chilena, no estarán obligadas a liquidar dicha moneda en el mercado cambiario formal, siempre que den cumplimiento a las normas y condiciones contenidas en el Capítulo IX antes mencionado.
 
 ### 7. Instrucciones contables
 
@@ -18408,7 +18410,7 @@ En todo caso, las operaciones antes mencionadas que realicen los bancos, registr
 
 2.- Información al Banco Central de Chile.
 
-Los bancos que realicen compras o ventas a futuro de monedas, deberán presentar al Banco Central de Chile, dentro de los plazos que señala, la información que se establece en el Capítulo VII del Título I del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
+Los bancos que realicen compras o ventas a futuro de monedas, deberán presentar al Banco Central de Chile, dentro de los plazos que señala, la información que se establece en el Capítulo IX del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
 
 CAPITULO 13-3 (Bancos)
 
@@ -18728,9 +18730,9 @@ I.- OPERACIONES CON INSTRUMENTOS DERIVADOS.
 
 1.- Generalidades.
 
-Los bancos están facultados para realizar, por cuenta propia, las operaciones a futuro referidas a monedas extranjeras de que trata el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+Los bancos están facultados para realizar, por cuenta propia, las operaciones a futuro referidas a monedas extranjeras de que trata el Capítulo IX del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
-Asimismo, los bancos pueden realizar las operaciones a futuro sobre tasas de interés de que trata el Capítulo VI antes mencionado, con el único objeto de cubrir el riesgo derivado de las fluctuaciones de las tasas de interés en el mercado internacional, que les afecten por los descalces que registren al mantener activos a tasas fijas y pasivos a tasas variables o viceversa, como también, en los casos en que las tasas de interés de sus activos y pasivos sean variables, pero estén pactadas a plazos distintos.
+Asimismo, los bancos pueden realizar las operaciones a futuro sobre tasas de interés de que trata el Capítulo IX antes mencionado, con el único objeto de cubrir el riesgo derivado de las fluctuaciones de las tasas de interés en el mercado internacional, que les afecten por los descalces que registren al mantener activos a tasas fijas y pasivos a tasas variables o viceversa, como también, en los casos en que las tasas de interés de sus activos y pasivos sean variables, pero estén pactadas a plazos distintos.
 
 2.- Operaciones a futuro que se pueden realizar.
 
@@ -18758,11 +18760,11 @@ Además, podrán utilizar divisas que no hayan sido adquiridas en el mercado cam
 
 Las normas del Banco Central de Chile establecen que los usuarios de las operaciones de que se trata, que decidan retornar las divisas que obtengan por estas operaciones, deberán efectuar dicho retorno por intermedio del mercado cambiario formal y liquidar esos importes en este mismo mercado.
 
-Por otra parte, los contratos que se celebren al amparo de las normas del Capítulo VI del Título I antes mencionado, deberán ajustarse en sus términos, paridades, tasas de interés, precios y demás condiciones, a aquellas estipulaciones normalmente utilizadas y prevalecientes en los mercados internacionales a la fecha de su celebración.
+Por otra parte, los contratos que se celebren al amparo de las normas del Capítulo IX antes mencionado, deberán ajustarse en sus términos, paridades, tasas de interés, precios y demás condiciones, a aquellas estipulaciones normalmente utilizadas y prevalecientes en los mercados internacionales a la fecha de su celebración.
 
 6.- Aplicación de la moneda extranjera correspondiente a estas operaciones.
 
-De conformidad con las disposiciones contenidas en el Capítulo VI, aludidas precedentemente, los bancos pueden utilizar la facultad de adquirir divisas en el mercado cambiario formal para efectuar las operaciones de que trata este Capítulo, o bien, aplicar directamente la moneda extranjera de que dispongan, incluso cuando se trate de gastos en tales monedas.
+De conformidad con las disposiciones contenidas en el Capítulo IX, aludidas precedentemente, los bancos pueden utilizar la facultad de adquirir divisas en el mercado cambiario formal para efectuar las operaciones de que trata este Capítulo, o bien, aplicar directamente la moneda extranjera de que dispongan, incluso cuando se trate de gastos en tales monedas.
 
 Por otra parte, de acuerdo con las mismas normas citadas en el párrafo precedente, los bancos tienen la opción de liquidar a pesos chilenos la moneda extranjera que reciban por sus operaciones con instrumentos derivados, o bien, pueden aplicar directamente la misma moneda extranjera recibida, según se establece en el título siguiente.
 
@@ -19026,7 +19028,7 @@ Las operaciones antes mencionadas que realicen los bancos, registradas en las pa
 
 3.- Información al Banco Central de Chile.
 
-Los bancos que realicen compras o ventas de contratos a futuro de monedas extranjeras o de tasas de interés y opciones sobre dichos contratos, deberán presentar al Banco Central de Chile, dentro de los plazos que en cada caso se indican, la información que se establece en el Capítulo VI del Título I del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
+Los bancos que realicen compras o ventas de contratos a futuro de monedas extranjeras o de tasas de interés y opciones sobre dichos contratos, deberán presentar al Banco Central de Chile, dentro de los plazos que en cada caso se indican, la información que se establece en el Capítulo IX del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
 
 CAPITULO 14-8 (Bancos)
 
