@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.849 de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº7, superficie 967 m2, rol de Avalúo Nº126-206, comuna de El Carmen, para la obra ''Area de Riego Rinconada Canal San Fernando Mogotillo Ramal 5, Km. 0,004 al Km. 1,724, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietario Luis Dagoberto Rubilar Garrido, ascendente a la cantidad de $487.706.
+
+- Fiscal del Ministerio de Obras Públicas.
