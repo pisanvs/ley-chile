@@ -1,0 +1,3 @@
+Por Resolución Nº 280, de 21 de febrero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 91001133, presentada por PESQUERA DALCAHUE LIMITADA, para un sector ubicado en Sector Quilquico, Canal Dalcahue, Comuna de Castro, Provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 10º y 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 21 de febrero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
