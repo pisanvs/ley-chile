@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 762, de 31 de marzo de 2004, se expropió el lote de terreno Nº 5, superficie 385 m2, rol de avalúo Nº 136-523, comuna de Paine, para la obra "Mejoramiento Camino entre Hospital y Puente Aguila Sur Km. 0,00000 al Km. 6,73682", Región Metropolitana, y se acordó el valor de la indemnización con su propietaria Gimena Mauricia Jiménez Piera, ascendente a la cantidad de $1.026.932.-
+
+Fiscal del Ministerio de Obras Públicas.
