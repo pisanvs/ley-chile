@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.285, de 18 de junio de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Maiquillahue, X Región, individualizada en el artículo 1º del decreto exento Nº158 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION INDIGENA DE PESCADORES DE MAIQUILLAHUE.
+
+Valparaíso, 18 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
