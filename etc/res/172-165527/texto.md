@@ -1,0 +1,3 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F. N° 172, de 23 de Noviembre de 1984, se ha ordenado pagar a la persona que a continuación se indica o a quien acredite derecho, como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos más su reajuste para el lote expropiado para la ejecución de la obra Agua Potable de Nacimiento, cuya superficie y rol de avalúo de la comuna de Nacimiento se indica: Lote 3: Industrial Forestales S.A., 1.186 m2 rol 67-17, $ 423.402. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a. publicación que se hará en un periódico de la VIII Región.-
+
+Fiscal del Ministerio de Obras Públicas.
