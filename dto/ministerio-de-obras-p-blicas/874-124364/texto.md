@@ -1,0 +1,3 @@
+Por decreto MOP. No. 874, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s.9, 12, 14, 18 y 21, superficies 668, 1.225, 621, 1.843 y 397 m²., respectivamente, rol de avalúo 16-357, comuna de María Pinto, obra Camino Ruta G-74-F, sector Chorombo-Cuesta Ibacache y se acordó precio de indemnización con su propietario Gumercindo Vilches Quintanilla, ascendente a la cantidad de $ 2.879.380.-
+
+Fiscal del Ministerio de Obras Públicas.
