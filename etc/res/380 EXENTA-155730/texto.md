@@ -1,0 +1,31 @@
+APRUEBA NOMINAS DE POSTULANTES SELECCIONADOS PARA EL LLAMADO EXTRAORDINARIO TITULO I DE 1999 A POSTULACION A SUBSIDIO HABITACIONAL PARA LA ATENCION DEL SECTOR RURAL, PARA ATENDER A POSTULANTES DE LA ETNIA MAPUCHE DE LAS COMUNAS DE LUMACO Y PUREN, PROVINCIA DE MALLECO, IX REGION DE LA ARAUCANIA Y DEJA SIN EFECTO SOLICITUD DE INSCRIPCION RESOLUCIÓN Nº 3.265, DE 1999
+
+Santiago, 1 de febrero de 2000.- Hoy se resolvió lo que sigue:
+
+Núm. 380 exenta.- Visto: El D.S. Nº 167 (V. y U.), de 1986, y sus modificaciones, que regula el Sistema de Subsidio Habitacional para la Atención del Sector Rural; el D.S. Nº 205 (V. y U.), de 1999; las resoluciones exentas Nº 3.265 y Nº 3.266, de fecha 3 de diciembre de 1999, publicadas en el Diario Oficial del 10 de diciembre de 1999, y,
+
+Considerando:
+
+a) Que en el número 1º de la resolución exenta Nº 3.265, de este Ministerio, de 1999, se dispuso el llamado a inscripción extraordinaria de postulantes para el llamado Título I de 1999 del Sistema de Subsidio Habitacional para la Atención del Sector Rural, para atender a postulantes de la etnia Mapuche de las comunas de Lumaco y Purén, provincia de Malleco, IX Región de la Araucanía, fijándose en esa misma resolución el monto de los recursos que se destinarían para el financiamiento del subsidio directo correspondiente a ese Título para ese llamado extraordinario, así como su forma de distribución por tipo de postulación;
+
+b) Que mediante resolución exenta Nº 3.266, de este Ministerio, de 1999, se fijaron las menciones y datos que deberán contener las solicitudes de inscripción para postular al llamado extraordinario Título I de 1999 del Sistema de Subsidio Habitacional para la Atención del Sector Rural, para atender a postulantes de la etnia Mapuche de las comunas de Lumaco y Purén, provincia de Malleco, IX Región de la Araucanía, indicando los documentos que deberán acompañarse a ellas o exhibirse y su forma de presentación;
+
+c) Que el D.S. Nº 167 (V. y U.), de 1986 y sus modificaciones, establece algunas inhabilidades para postular al Sistema de Subsidio Habitacional para la Atención del Sector Rural, así como las causales por las cuales este Ministerio podrá dejar sin efecto, mediante resoluciones, las solicitudes para postular a dicho beneficio, dicto la siguiente
+
+R e s o l u c i ó n:
+
+1º.- Apruébase la nómina de 339 postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado extraordinario Título I de 1999 a postulación al Sistema de Subsidio Habitacional para la Atención del Sector Rural, para atender a postulantes de la etnia Mapuche de las comunas de Lumaco y Purén, provincia de Malleco, IX Región de la Araucanía, dispuesto por el número 1º de la resolución exenta Nº 3.265, de este Ministerio, de 1999, nómina que se entenderá formar parte integrante de la presente resolución.
+
+2º.- Déjase constancia que la nómina de 339 postulantes que se aprueba en el número anterior compromete un total equivalente a 50.810 Unidades de Fomento (U.F.) para el financiamiento del subsidio directo destinado a la atención de los postulantes seleccionados en el llamado extraordinario Título I 1999 del Sistema de Subsidio Habitacional para la Atención del Sector Rural, para atender a postulantes de la etnia Mapuche de las comunas de Lumaco y Purén, provincia de Malleco, IX Región de la Araucanía, monto que se destina a la atención de postulantes individuales, por no haberse presentado postulantes en la alternativa de postulación colectiva, en este llamado.
+
+3º.- En conformidad a lo dispuesto en el número 8º de la resolución exenta Nº 3.266, de este Ministerio, de 1999, aquellos postulantes seleccionados que hubieren acreditado disponibilidad de derechos sobre un terreno ubicado en alguna de las áreas en que puede aplicarse este subsidio, para recibir sus respectivos Certificados de Subsidio Habitacional deberán presentar los documentos que acrediten la inscripción de dominio, extendidos con una anticipación no superior a 30 días a la fecha de la postulación, en el caso en que el documento que hubieren acompañado a su postulación excediere el plazo indicado, o, en su caso, acreditar que se ha determinado en terreno mediante mensura la superficie de las hijuelas sobre las cuales se autoriza constituir el correspondiente derecho de uso, en caso que esta formalidad no se hubiere cumplido al postular.
+
+4º.- Publíquese la nómina completa que se aprueba en el número 1º de esta resolución en un periódico de circulación nacional, indicándose en dicha publicación el nombre completo del beneficiario, su Cédula Nacional de Identidad o RUT y el puntaje total obtenido, sin perjuicio de las nóminas completas de que dispondrá el Serviu IX Región de la Araucanía, las que señalarán, a lo menos, el puntaje total y el obtenido en cada uno de los rubros considerados, por cada postulante seleccionado; el Rol Unico Tributario; el monto del subsidio directo de cada postulante seleccionado; el monto total del ahorro acreditado por cada postulante y el puntaje de corte correspondiente al último postulante seleccionado.
+
+5º.- Déjase sin efecto la solicitud de inscripción para el llamado extraordinario Título I de 1999 a postulación al Sistema de Subsidio Habitacional para la Atención del Sector Rural, para atender a postulantes de la etnia Mapuche de las comunas de Lumaco y Purén, provincia de Malleco, IX Región de la Araucanía, efectuado por el número 1º de la resolución exenta Nº 3.265, de este Ministerio, de 1999, presentada por la persona individualizada en nómina que se acompaña, por la causal que ahí se expresa, la cual se entenderá formar parte integrante de la presente resolución.
+
+6º.- Publíquese la nómina a que se refiere el número 5º de la presente resolución, en un periódico de circulación nacional y exhíbase la misma en las Oficinas del Serviu IX Región de la Araucanía.
+
+Anótese, publíquese esta resolución en el Diario Oficial y Archívese.- Berta Belmar Ruiz, Ministra de Vivienda y Urbanismo Subrogante.
+
+Lo que transcribo para su conocimiento.- Sergio González Tapia, Subsecretario de Vivienda y Urbanismo Subrogante.
