@@ -1,0 +1,5 @@
+Por resolución Nº 1.836 de 28 de agosto de 2002 de esta Subsecretaría, autorízase a HERMANN ALEJANDRO EBERHARD VOLKART, RUT Nº 8.822.781-6, con domicilio en Baquedano Nº 855, Puerto Natales, XII Región, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Yungay Nº 1051, Puerto Natales, XII Región, en donde podrá elaborar, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Fresco-Refrigerado y Congelado: Merluza del sur, Congrio dorado, Centolla Lithodes santolla, Chorito, Cholga, Ostión del sur Chlamys vitrea, Ostión del sur Chlamys patagonica, Loco, Róbalo, Pejerrey de mar, Jaiba marmola;
+
+Fresco-Refrigerado, Congelado y Ahumado: Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado.
+
+Valparaíso, 28 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
