@@ -4892,15 +4892,13 @@ El encaje exigido se calculará por "períodos mensuales", según lo señalado e
 
 El encaje mantenido deberá estar compuesto solo por los siguientes fondos en moneda chilena:
 
-a) Billetes y monedas de curso legal del país, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en tránsito al Banco Central de Chile o en custodia en empresas transportadoras de valores;
+a) Billetes y monedas de curso legal del país, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en tránsito al Banco Central de Chile o en custodia en empresas transportadoras de valores.
 
-b) Depósitos en cuenta corriente en el Banco Central de Chile;
+b) Depósitos en cuenta corriente en el Banco Central de Chile.
 
-c) Otros depósitos a la vista en el Instituto Emisor, con excepción de aquellos efectuados con el solo objeto de constituir la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación Actualizada de Normas y de los depósitos de liquidez señalados en el numeral 4.4 de este título; y
+c) Otros depósitos a la vista en el Instituto Emisor, con excepción de aquellos efectuados con el solo objeto de constituir la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación Actualizada de Normas y de los depósitos de liquidez señalados en el numeral 4.4 de este título.
 
-d) Depósito en garantía a que se refiere el artículo 36 de la Ley General de Bancos.
-
-Por consiguiente, son computables como encaje mantenido todos los saldos en moneda chilena que se incluyan, conforme a las normas vigentes, en las partidas 1005 y 1010, con excepción de la cuenta "Depósitos de liquidez" a que se refiere el numeral 4.4 de este título, y de las cuentas "Caja en custodia en otras entidades financieras" y "Depósitos de reserva técnica en el Banco Central de Chile", que se tratan, respectivamente, en los Capítulos 16-3 y 4-2 de esta Recopilación
+Por consiguiente, son computables como encaje mantenido todos los saldos en moneda chilena que se incluyan, conforme a las normas vigentes, en las siguientes cuentas: i) las de la partida 1005, con excepción de la cuenta "Depósitos en custodia en otras instituciones financieras", y, ii) las cuentas "Depósitos en cuenta corriente en el Banco Central de Chile" y "Remesa de efectivo en tránsito al Banco Central", ambas de la partida 1010.
 
 Con todo, no pueden ser empleados para constituir encaje aquellos fondos que se hayan utilizado, a la vez, para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación.
 
@@ -9970,7 +9968,7 @@ Para ese efecto, deben considerarse todos los instrumentos susceptibles de ajust
 
 Previa reversión de las contabilizaciones efectuadas con este mismo propósito el mes anterior, se procederá a reconocer contablemente aquellas diferencias en la forma que se describe a continuación:
 
-a) Las diferencias, en moneda chilena o extranjera, se acreditarán o debitarán en las cuentas "Ajuste a valor de mercado de inversiones no reajustables", "Ajuste a valor de mercado de inversiones reajustables" o "Ajuste a valor de mercado de inversiones registradas en moneda extranjera", según sea el caso, las que formarán parte de la Partida 1750 "Ajuste a valor de mercado de inversiones transables", del rubro de Inversiones Financieras del Activo.
+a) Las diferencias, en moneda chilena o extranjera, se acreditarán o debitarán en las cuentas "Ajuste a valor de mercado de inversiones no reajustables", "Ajuste a valor de mercado de inversiones reajustables" o "Ajuste a valor de mercado de inversiones registradas en moneda extranjera", según sea el caso, las que formarán parte de la Partida 1750 "Ajuste a valor de mercado de inversiones transables", del rubro de Inversiones Financieras del Activo. No obstante, cuando se trate de letras de crédito de propia emisión, se utilizará la cuenta "Ajuste a valor de mercado de letras de crédito de propia emisión", de la misma partida 1750.
 
 b) Al tratarse de ajustes registrados en moneda chilena, la contrapartida del abono o cargo a las cuentas del activo a que se refiere la letra a) precedente, se hará directamente en la cuenta de resultados "Pérdida neta por ajuste a valor de mercado de inversiones transables", de la Partida 5650 "Ajuste a valor de mercado de inversiones transables", o a la cuenta "Utilidad neta por ajuste a valor de mercado de inversiones transables", de la Partida 7650 "Ajuste a valor de mercado de inversiones transables".
 
@@ -18848,7 +18846,7 @@ Para las monedas de libre disposición deben utilizarse las cuentas "Cambio Merc
 
 c) Transferencia diferida de monedas.
 
-En el caso de operaciones en las que, de acuerdo con lo pactado entre el vendedor y el comprador, se difiera por un máximo de un día hábil bancario la transferencia de la moneda chilena y de dos días hábiles bancarios la transferencia de la moneda extranjera objeto de la compraventa, los respectivos importes en moneda extranjera se registrarán en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115, o bien, "Divisas vendidas pendientes de transferencia", de la partida 4115, según corresponda, en tanto que la moneda chilena se registrará en la cuenta "Contravalor por entregar de divisas pendientes de transferencia", de la partida 4115 o "Contravalor por recibir de divisas pendientes de transferencia", de la partida 2115, según sea el caso.
+En el caso de operaciones en las que, de acuerdo con lo pactado entre el vendedor y el comprador, se difiera por un máximo de un día hábil bancario la transferencia de la moneda chilena y de dos días hábiles bancarios la transferencia de la moneda extranjera objeto de la compraventa, los respectivos importes en moneda extranjera se registrarán en la cuenta "Divisas adquiridas pendientes de transferencia", o bien, "Divisas vendidas pendientes de transferencia", según corresponda, en tanto que la moneda chilena se registrará en la cuenta "Contravalor por entregar de divisas pendientes de transferencia o "Contravalor por recibir de divisas pendientes de transferencia", según sea el caso. Las mencionadas cuentas son complementarias de las respectivas cuentas principales que se incluyen en las partidas 1010 y 1025.
 
 Al efectuarse la transferencia efectiva mediante los respectivos traspasos a las cuentas corrientes mantenidas en el exterior o en el Banco Central de Chile, como también al recibirse o entregarse efectivamente el contravalor en pesos moneda chilena, se revertirán los importes anotados en las cuentas señaladas en el párrafo precedente y se registrarán en las cuentas definitivas que correspondan.
 
