@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.363 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 553, superficie 159 m2, rol de Avalúo Nº 32-67, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietario Ramón o Ramón Nonato Carreño Cerón, ascendente a la cantidad de $2.182.871.-
+
+Fiscal del Ministerio de Obras Públicas.
