@@ -1,0 +1,5 @@
+AUTORIZA AL CENTRO DE INVESTIGACIONES MARINAS PESQUERAS DE JAPON PARA REALIZAR ACTIVIDADES DE PESCA EXPLORATORIA QUE INDICA
+
+Por resolución No. 590, de 07 de Agosto de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza al Centro de Investigaciones Marinas Pesqueras de Japón "JAMARC", para realizar faenas de pesca exploratoria de jurel, por el período de 6 meses a contar de la fecha de publicación del presente extracto, con el barco Echizen Maru, en la zona comprendida entre los 30°00'LS y los 45°00'LS entre las 100 y 200 millas de la zona económica exclusiva, y, en la vecindad de los grupos de islas oce nicas pertenecientes a nuestro país, en el área de 12 millas náuticas medidas desde la línea de más alta marea. La presente autorización se otorga con el fin de ejecutar el programa de investigación conjunta acordado entre JAMARC y Subsecretaria de Pesca, para desarrollar el recurso jurel oceánico en el área del Pacífico Suroriental.
+
+Valparaíso, 07 de Agosto de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
