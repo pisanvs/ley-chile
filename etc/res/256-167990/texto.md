@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA NEPTUNO S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución Nº 256, de 10 de Mayo de 1985, de la Subsecretaría de Pesca el Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Neptuno S.A., domiciliada en Iquique, para instalar y operar una planta elaboradora de recursos hidrobiológicos en Iquique, sitio 64-A del Barrio Industrial, en la que podrá utilizar como materia prima los siguientes recursos: Albacora, acha, agujilla, anchoa, atún aleta amarilla, atún aleta larga, ayanque, bonito, caballa, cabinza, cachurreta, cojinova del Norte, congrio colorado, congrio dorado, congrio negro, corvina, dorado, jurel, lenguado ojos chicos, lenguado ojos grandes, lisa, marrajo, machuelo, palometa, pampanito común, pejeperro, pejerrey de mar, sardina común, sardina española, almeja o taca; almeja, caracol azul, caracol locate, cholga, lapa, loco, macha, navajuela, ostión del Norte, pulpo, jaiba, picoroco y piure.
+
+Santiago, 10 de Mayo de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
