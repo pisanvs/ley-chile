@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.049, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº58, superficie 76 m², rol de avalúo en trámite, comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietaria Rosa del Carmen Basoalto Castillo, ascendente a la cantidad de $351.913.-
+
+Fiscal del Ministerio de Obras Públicas.
