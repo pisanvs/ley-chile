@@ -1,0 +1,3 @@
+Por resolución Nº352, de 16 de marzo de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las resoluciones Nº28 y Nº30 de 1998, de esta Subsecretaría, que declararon la caducidad parcial de las resoluciones Nº356 y Nº891 de 1993, Nº1.214 de 1988 y Nº659 de 1993, todas de esta Subsecretaría, que autorizaron a PESQUERA COLOSO S.A., para desarrollar actividades pesqueras extractivas, entre otras, con las naves "Roble" e "Intrépido".
+
+Valparaíso, 16 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
