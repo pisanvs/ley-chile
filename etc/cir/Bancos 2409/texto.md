@@ -20500,241 +20500,133 @@ MATERIA:
 
 RELACION DE OPERACIONES ACTIVAS Y PASIVAS.
 
-### I. OPERACIONES A MAS DE UN AÑO
+### I. DISPOSICIONES GENERALES
 
-### 1. Margen de colocaciones a más de un año
+Conforme a lo dispuesto por el Banco Central de Chile en el Capítulo III.B.2 de su Compendio de Normas Financieras, los bancos y sociedades financieras deben observar las relaciones entre operaciones activas y pasivas que se tratan en los títulos II, III y IV del presente Capítulo.
 
-Los bancos y sociedades financieras podrán efectuar colocaciones a plazos
+Para el cumplimiento de dichos límites y la medición de los mismos, se disponen los criterios generales que se indican a continuación:
 
-superiores a un año, hasta por un monto global que no exceda a la suma de los
+### 1. Medición mensual
 
-siguientes rubros:
-
-a) Depósitos, captaciones y obligaciones a más de un año plazo (incluidas las
-
-cuentas de ahorro a plazo).
-
-b) Capital Pagado y Reservas de la empresa deducidos de éste las inversiones en
-
-acciones, debentures y activo fijo.
-
-No obstante lo señalado, se podrá exceder el mencionado monto global en una suma
-
-igual a los créditos a más de un año plazo destinados a financiar saldos
-
-deprecio por ventas de bienes del activo recibidos o adjudicados en pago, como
-
-asimismo los créditos renegociados a más de un año plazo con el producto de los
-
-bonos o pagarés bancarios a que se refieren los Acuerdos N°s. 1.475 y 1.543 del
-
-Comité Ejecutivo del Banco Central de Chile.
-
-En los párrafos siguientes se da a conocer el tratamiento que, para estos
-
-efectos, debe darse a cada uno de dichos rubros.
+Las relaciones activas y pasivas de que se trata serán medidas mensualmente sobre la base de los saldos promedios mensuales que presenten los distintos componentes que concurren a su determinación, con excepción del capital pagado y reservas que siempre estará referido al último día del mes que se está informando.
 
 ### 2. Capital Pagado y Reservas
 
-El Capital Pagado y Reservas que se considerará para los efectos de que tratan estas instrucciones, será el que se definió en el Capítulo 12-1 de esta Recopilación de Normas.
+El Capital Pagado y Reservas que se considerará para los efectos de que trata este Capítulo, será el definido en el Capítulo 12-1 de esta Recopilación Actualizada de Normas, correspondiente al cierre de cada mes.
 
-### 3. Inversiones en acciones, debentures y en Activo Fijo
+### 3. Determinación de los saldos promedios
 
-Las cifras relativas a inversiones en acciones, debentures y los importes
+Los promedios se calcularán considerando sólo los saldos vigentes en los días hábiles bancarios de cada mes.
 
-correspondientes al activo fijo, que deben rebajarse del Capital Pagado y
+4. Equivalencia en moneda chilena de las operaciones en monedas extranjeras.
 
-Reservas para calcular el margen de colocaciones a más de un año, según lo
+Para determinar la equivalencia en moneda chilena de las operaciones en monedas extranjeras, se convertirán los respectivos saldos diarios a moneda chilena, al tipo de cambio de representación contable fijado por esta Superintendencia, vigente en las fechas correspondientes.
 
-dispuesto en las normas del Banco Central de Chile, han de corresponder a los
+### 5. Cómputo de la reajustabilidad
 
-saldos promedios del mes registrados en las cuentas que se demuestran en las
+Tanto las operaciones activas como pasivas se computarán con sus respectivos reajustes devengados, de manera que deben considerarse los reajustes registrados en las respectivas cuentas complementarias, en la fecha que corresponda.
 
-Partidas N°s. 1725 a 1745, 1775, exceptuado el saldo de la cuenta "Sucursales en
+El mismo procedimiento se seguirá en el caso de saldos sujetos a corrección monetaria.
 
-el Exterior", 2305 y 2310 del formulario MB1, incluidos sus reajustes o la
+Todo ello es sin perjuicio de lo indicado anteriormente, en orden a considerar los saldos promedios mantenidos sólo en los días hábiles bancarios.
 
-corrección monetaria provisional, según corresponda.
+### II. RELACION ENTRE OPERACIONES A MAS DE UN AÑO
 
-Para los fines de la deducción de las inversiones financieras, debe tenerse
+### 1. Margen de colocaciones a más de un año
 
-presente que las siguientes inversiones incluidas en las Partidas 1725, 1735 y
+Los bancos y sociedades financieras podrán mantener colocaciones pactadas a plazos superiores a un año, hasta por un monto global que no exceda a la suma de los siguientes rubros:
 
-1740 del formulario MB1 deben exceptuarse de la mencionada rebaja:
+a) Depósitos, captaciones y obligaciones a más de un año plazo (incluidas las cuentas de ahorro a plazo).
 
-a) Bonos de la deuda interna o cualquiera otra clase de documentos
+b) Capital Pagado y Reservas de la empresa, deducidos de éste las inversiones en acciones, debentures y activo fijo, según lo indicado en el N° 3 de este título.
 
-intermediados, representativos de obligaciones del Estado o de sus
+No obstante lo señalado, se podrá exceder el mencionado monto global en una suma igual a los créditos a más de un año plazo destinados a financiar saldos de precio por ventas de bienes del activo recibidos o adjudicados en pago, más el monto equivalente a los créditos renegociados a plazos individuales no inferiores a 2 años, originados en colocaciones existentes al 31 de agosto de 1982, siempre que no se trate de renegociaciones con personas vinculadas a la institución.
 
-instituciones.
+### 2. Componentes de las operaciones activas y pasivas a más de un año plazo
 
-b) Inversiones en letras de crédito de su propia emisión.
-
-c) Depósitos a Plazo constituidos en otras instituciones financieras.
-
-### 4. Componentes de las operario es activas y pasivas a más de un año plazo
-
-Para los efectos de la relación de operaciones a más de un año plazo, se considerarán como operaciones "activas" o "pasivas" las que se registran en las cuentas que se demuestran en las Partidas del MB1 que más adelante se indican,tanto en moneda chilena como extranjera. Esta relación incluirá los saldos promedios de las respectivas cuentas en cada mes, más los reajustes registrados en cuentas complementarias, en el caso de las operaciones reajustables.
-
-Respecto de las operaciones a más de un año, será necesario informar separadamente:
-
-- **a)** las reajustables por la variación de la Unidad de Fomento;
-
-- **b)** las no reajustables en moneda chilena, y
-
-- **c)** las en moneda extranjera,incluidas en estas últimas las expresadas en moneda chilena reajustables por la variación del tipo de cambio, como también las expresadas en moneda extranjera y pagaderas en moneda chilena.
+Para los efectos de la relación de operaciones a más de un año plazo, se considerarán como operaciones "activas" o "pasivas" las que se registran, tanto en moneda chilena como extranjera, en las cuentas de las partidas del MB1 que se indican a continuación:
 
 Operaciones Activas.
 
-Partidas N°s. 1205 a 1248.
-
-Partida N° 2136
+Partidas N°s 1205 a 1248
 
 Operaciones Pasivas.
 
 Partida N° 3035
 
-Partida N° 3065
+Partida N° 3005
 
-Partidas N°s. 3075 y 3080
+Partidas N°s 3075 y 3080
 
-Partidas N°s. 3105 a 3115
+Partidas N°s 3455 a 3485
 
-Partidas N°s. 455 a 3485
+Partidas N°s 3555 a 3570
 
-Partidas N°s. 3555 a 3570
+Partidas N°s 3819 y 4190, menos el saldo de la cuenta "Bonos subordinados computados como capital" de la partida 9700.
 
-Partidas N° 3819 y 4190, menos el saldo de la cuenta "Bonos subordinados computados como capital" de la partida 9700.
+3. Inversiones en acciones, debentures y en Activo Fijo que se deducen del capital pagado y reservas.
 
-### 5. Préstamos y otras operaciones pagaderos en cuotas
+Las cifras relativas a inversiones en acciones, debentures y los importes correspondientes al activo fijo, que deben rebajarse del Capital Pagado y Reservas para calcular el margen de colocaciones a más de un año, según lo dispuesto en las normas del Banco Central de Chile, han de corresponder a los saldos promedios del mes, incluidos sus reajustes o corrección monetaria, según corresponda, registrados en las siguientes cuentas:
 
-En el caso de préstamos pagaderos en cuotas en que una o más de ellas venza
+- Cuenta "Bonos emitidos por otras instituciones financieras" de la partida 1725;
 
-después de un año contado desde su fecha de otorgamiento, se computará como
+- Cuenta "Acciones de bancos constituidos en el exterior" de la partida 1730;
 
-plazo total de las mismas, el plazo promedio resultante de considerar cada una
+- Cuenta "Bonos o debentures emitidos en el exterior" de la partida 1730;
 
-de dichas cuotas de pago por sus montos de capital y plazos respectivos.
+- Cuenta "Inversiones en bonos o debentures" de la partida 1735;
 
-De este modo, para determinar dicho plazo promedio, se multiplicará el importe
+- Cuenta "Bonos o debentures vencidos" de la partida 1745.
 
-de cada cuota de amortización de capital por su plazo, expresado en días o en
+- Cuentas de la partida 1746 (Acciones Ley N° 18.439).
 
-meses, según las condiciones que se hubieren pactado. Luego se sumarán los
+- Cuentas de la partida 2305 (Activo fijo físico).
 
-productos obtenidos de esas multiplicaciones.
+- Cuentas de la partida 2310 (Otros activos fijos).
 
-El resultado de esa suma se dividirá por el importe total del préstamo. El
+- Cuentas de la partida 2320 (Inversiones en sociedades).
 
-cuociente que se obtenga indicará el plazo promedio ponderado del crédito,
-
-expresado en días o en meses, según cual haya sido el factor utilizado.
-
-De acuerdo con lo expresado, los referidas préstamos deberán clasificarse
-
-mediante este criterio, según corresponda, en "Colocaciones hasta 1 año plazo" o
-
-"a más de un año plazo", para su registro en el MB1.
-
-El mismo procedimiento se aplicará para determinar el plazo de otras operaciones
-
-activas como pasivas que contemplen un servicio en cuotas.
-
-6. Equivalencia en moneda chilena de las operaciones en monedas extranjeras.
-
-Para determinar los montos de los depósitos, captaciones, obligaciones,
-
-colocaciones e inversiones en monedas extranjeras, se convertirán los
-
-respectivos saldos diarios a moneda chilena, al tipo de cambio de representación
-
-contable fijado por esta Superintendencia, vigente en las fechas
-
-correspondientes.
-
-### II. OPERACIONES EN MONEDA CHILENA REAJUSTARLES
+### III. RELACION ENTRE OPERACIONES EN MONEDA CHILENA REAJUSTARLES
 
 ### 1. Margen de colocaciones e inversiones reajustables en moneda chilena
 
-Las instituciones financieras podrán efectuar colocaciones reajustables e
+Las instituciones financieras podrán mantener colocaciones e inversiones financieras reajustables, en Unidades de Fomento o en otros sistemas de reajustabilidad autorizados por el Banco Central de Chile, por un monto igual a la suma de los depósitos, captaciones y obligaciones reajustables, en Unidades de Fomento o en otros sistemas de reajustabilidad autorizados por el Banco Central de Chile, más los recursos obtenidos por la venta de divisas al Banco Central de Chile con pacto de recompra a que se refiere el Capítulo IV.E.l del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 13-6 de esta Recopilación Actualizada de Normas. En todo caso, se excluyen de esta relación las operaciones activas y pasivas en moneda chilena reajustables por la variación del tipo de cambio, las que se encuentran afectas a los límites de que trata el título IV de este Capítulo.
 
-inversiones financieras de este mismo tipo por un monto igual a la suma de los
+Sin embargo, las instituciones podrán mantener un exceso o un déficit de estas colocaciones e inversiones, con respecto al monto antes indicado, hasta por una suma igual al 50% de su capital pagado y reservas.
 
-depósitos, captaciones y obligaciones reajustables en pesos.
+Adicionalmente, las instituciones financieras podrán mantener colocaciones e inversiones reajustables que superen el margen del 50% del capital pagado y reservas hasta por un monto igual a los créditos reajustables otorgados para financiar saldos de precio por ventas a plazo de activos recibidos o adjudicados en pago, más el monto equivalente a los créditos renegociados a plazos individuales no inferiores a 2 años, originados en colocaciones existentes al 31 de agosto de 1982, siempre que no se trate de renegociaciones con personas vinculadas a la institución.
 
-Sin embargo, podrán mantener un exceso o un déficit de estas colocaciones e
+### 2. Componentes de operaciones reajustables en moneda chilena
 
-inversiones, con respecto al monto antes indicado, hasta por una suma igual a
-
-l50% de su capital pagado y reservas.
-
-En todo caso, las entidades financieras deben mantener permanentemente
-
-colocaciones reajustables en moneda chilena, por un monto mínimo igual al saldo
-
-que mantengan en cuentas de ahorro a plazo. Para este efecto podrán imputarse a
-
-dichas colocaciones las inversiones en letras de crédito de propia emisión como
-
-también las emitidas por otras instituciones financieras. No podrán considerarse
-
-para este límite mínimo de colocaciones, aquéllas refinanciadas por el Banco
-
-Central de Chile, como tampoco los préstamos en letras de crédito.
-
-Adicionalmente, las instituciones financieras podrán mantener colocaciones e
-
-inversiones reajustables que superen el margen del 50% del capital pagado y
-
-reservas en una suma igual a los créditos reajustables otorgados para financiar
-
-saldos de precio por ventas a plazo de activas recibidos o adjudicados en pago.
-
-### 2. Cómputo de la reajustabilidad
-
-Las operaciones a que se refiere este título deben informarse con sus
-
-respectivos reajustes devengados, de manera que las entidades financieras
-
-deberán considerar en cada caso, los reajustes que correspondan, registrados en
-
-cuentas complementarias.
-
-### 3. Componentes de operaciones reajustables en moneda chilena
-
-Para los fines de que trata este título, los bancos y sociedades financieras considerarán las operaciones reajustables en moneda chilena, contabilizadas en las cuentas que se reflejan en las siguientes Partidas del formulario MB1.
+Para los fines de que trata este título, los bancos y sociedades financieras considerarán los saldos promedios de las operaciones reajustables en moneda chilena, contabilizadas en las cuentas de las siguientes partidas:
 
 Operaciones Activas.
 
-Partidas N°s. 1110 a 1120
+Partidas N°s 1110 a 1120
 
 Partida N° 1135
 
-Partidas N°s. 1205 a 1215
+Partidas N°s 1205 a 1215
 
-Partidas N°s. 1230 a 1315
+Partidas N°s 1230 a 1315
 
-Partidas N°s. 1605 a 1615
+Partidas N°s 1605 a 1615
 
-Partidas N°s. 1655 a 1725
+Partidas N°s 1655 a 1725
 
-Partidas N°s. 1735 y 1740
+Partidas N°s 1735 y 1740
 
-Partidas N°s. 1765 y 1775.
+Partidas N°s 1765 y 1775
 
-Partida N° 2136
+Del total así obtenido se deducirá el saldo promedio que se haya mantenido en la cuenta "Pactos de estabilización de dividendos" de la partida 2525 del MB1, de conformidad con lo dispuesto en la Circular N° 2.302-715 de 16 de noviembre de 1987, de esta Superintendencia.
 
-De conformidad con lo dispuesto en la Circular N° 2302-715 de 16 de noviembre de 1987, las instituciones financieras deberán deducir de las partidas de activo que corresponda el saldo de la cuenta "Pactos de estabilización de dividendos".
-
-Operaciones Pasivas.
-
-"Partidas N°s 3020 y 3025
+Partidas N°s 3020 y 3025
 
 Partida N° 3035
 
 Partida N° 3065
 
-Partidas N°S 3075 a 3485
+Partidas N°s 3075 a 3485
 
 Partida N° 3525
 
@@ -20746,171 +20638,99 @@ Partidas N°s 3655 y 3660
 
 Partidas N°s 3819 y 4190, menos el saldo de la cuenta "Bonos subordinados computados como capital" de la partida 9700
 
-Partida N° 4515, menos el saldo de la cuenta "Equivalente de divisas de Posición vendidas por recomprar D.L. 600" de la partida 2515.
+Partida N° 4515
 
-Las obligaciones representadas por pactos de recompra establecidas en pesos nominales de instrumentos reajustables, emitidos por el Banco Central de Chile o por la Tesorería General de la República, deben ser consideradas como saldos no reajustables, por la forma de su pacto, convenido en términos de pesos nominales y, por lo tanto, no se computan dentro de los pasivos afectos a la relación de operaciones reajustables de que trata este título.
+Las operaciones interbancarias, sean préstamos otorgados o recibidos, que se pacten en unidades de fomento o con otras cláusulas de reajustabilidad autorizadas por el Banco Central de Chile y por períodos en que el valor de dicha unidad o el factor de reajustabilidad que se aplicará sea conocido, no podrán computarse como operaciones reajustables para los efectos de que se trata.
 
-Asimismo, las operaciones interbancarias, sean préstamos otorgados o recibidos, que se pacten en unidades de fomento y por períodos en que el valor de dicha unidad sea conocido, no podrán computarse como operaciones reajustables para los efectos de que se trata.
+Debe tenerse presente, además, que las obligaciones provenientes de pactos de recompra de instrumentos financieros deben registrarse según la forma de su pacto, como reajustables o no reajustables, independientemente de la reajustabilidad de los instrumentos transados.
 
-### III. OPERACIONES EN MONEDA EXTRANJERA
+### IV. OPERACIONES EN MONEDA EXTRANJERA
 
 ### 1. Margen de operaciones en moneda extranjera
 
-La suma de los fondos disponibles, las colocaciones, inversiones y otros activos
+La suma de los fondos disponibles, las colocaciones, inversiones y otros activos en moneda extranjera, en moneda nacional documentados en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, deducido el saldo de la Posición de Cambios Internacionales, cuando éste resulte acreedor, no podrá ser superior ni inferior a la suma de las obligaciones en moneda extranjera, en moneda nacional documentadas en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio, en más de un 20% del capital pagado y reservas de la respectiva institución financiera. No se consideran como activos o pasivos en moneda extranjera los saldos registrados en cuentas de ajuste y control, con excepción de la partida 2515.
 
-en moneda extranjera y en moneda nacional reajustables por la variación del tipo
+Las sucursales de bancos extranjeros que ingresen o hayan ingresado capitales al país al amparo del Decreto Ley N° 600 de 1974 y sus modificaciones, o de los
 
-de cambio, deducido el saldo de la Posición de Cambios Internacionales, no podrá
+artículos 14, 15 ó 16 del Decreto Supremo N° 471 de 1977, del Ministerio de Economía, Fomento y Reconstrucción, así como los bancos o sociedades financieras nacionales que reciban o hayan recibido capital de la misma naturaleza, podrán exceder el referido límite del 20%, en una suma igual al monto de los aportes recibidos más las utilidades retenidas, susceptibles de ser remesadas al exterior, sólo en los casos en que los activos superen a los pasivos. Se entenderá para estos efectos como utilidades susceptibles de ser remesadas al exterior, aquellas que hayan sido reconocidas como tales, mediante el correspondiente certificado emitido por esta Superintendencia, sea que ellas se mantengan en moneda chilena o extranjera.
 
-ser superior ni inferior a la suma de las obligaciones en moneda extranjera, en
+Asimismo, los bancos podrán exceder el mencionado límite del 20%, en un monto igual a sus provisiones y reservas en moneda Extranjera, excluidas las provenientes de utilidades pendientes de remesarse al exterior, únicamente en los casos en que los activos sean superiores a los pasivos.
 
-moneda nacional documentadas en moneda extranjera y en moneda nacional
+Sin perjuicio de lo dispuesto precedentemente, los recursos que las instituciones financieras capten, mediante depósitos a plazo en moneda nacional reajustables por la variación del tipo de cambio del dólar estadounidense, sólo podrán ser utilizados en colocaciones y en inversiones en depósitos a plazo de la misma naturaleza.
 
-reajustables por la variación del tipo de cambio, excluidas las reservas en
+### 2. Componentes de las operaciones en monedas extranjeras
 
-moneda extranjera, en más de un 20% del capital pagado y reservas de la
-
-respectiva institución financiera.
-
-Las sucursales de bancos extranjeros que ingresen o hayan ingresado capitales al
-
-país al amparo del Decreto Ley N° 600, de 1974 y sus modificaciones o de los
-
-artículos 14, 15 ó 16 del Decreto Supremo N° 471, de 1977, del Ministerio de
-
-Economía, Fomento y Reconstrucción, así como los bancos o sociedades financieras
-
-nacionales que reciban o hayan recibido capitales de la misma naturaleza, podrán
-
-exceder el referido límite del 20%, en una suma igual al monto de los aportes
-
-recibidos más las utilidades retenidas, susceptibles de ser remesadas al
-
-exterior, sólo en los casos en que los activos superen a los pasivos. Se
-
-entenderá para estos efectos como utilidades susceptibles de ser remesadas al
-
-exterior, aquellas que hayan sido reconocidas como tales, mediante el
-
-correspondiente certificado emitido por esta Superintendencia, sea que ellas se
-
-mantengan en moneda chilena o extranjera.
-
-Asimismo, los bancos podrán exceder el mencionado límite del 20%, en un monto
-
-igual a sus provisiones y reservas en moneda extranjera, excluidas las
-
-provenientes de utilidades pendientes de remesarse al exterior, únicamente en
-
-los casos en que los activos sean superiores a los pasivos.
-
-Sin perjuicio de lo dispuesto precedentemente, los recursos que las
-
-instituciones financieras capten mediante depósitos a plazo en moneda nacional
-
-reajustables por la variación del tipo de cambio del dólar estadounidense, sólo
-
-podrán ser utilizados en colocaciones y en inversiones en depósitos a plazo de
-
-la misma naturaleza.
-
-### 2. Activos y Pasivos computables
-
-Para los efectos de establecer la relación a que se refiere el número
-
-precedente, las entidades financieras considerarán los saldos de las cuentas
-
-incluidas en las siguientes partidas del formulario MB1, que correspondan a
-
-operaciones pactadas o expresadas en moneda extranjera o en moneda chilena
-
-reajustables según el tipo de cambio:
+Para los efectos de establecer la relación a que se refiere el número precedente, las entidades financieras considerarán los saldos promedios de las cuentas incluidas en las partidas que se indican a continuación, cuando correspondan a operaciones pactadas o expresadas en moneda extranjera o en moneda chilena reajustables según el tipo de cambio:
 
 Partidas del Activo.
 
-Partidas N°s. 1005 a 1025
+1005 a 1025
 
-Partidas N°s. 1110 a 1240
+1110 a 1240
 
-Partida N° 1405
+1605 a 1660
 
-Partidas N°s. 1415 a 1660
+1705 a 1715
 
-Partidas N°s. 1705 a 1715
+1725 a 1745
 
-Partidas N°s. 1725 a 1745
+1770 a 1780
 
-Partidas N°s. 1770 a 1780
+2105 a 2125
 
-Partidas N°s. 1810 a 2120
+2305 a 2310
 
-Partida N° 2125
-
-Partidas N°s. 2305 a 2310
-
-Partida N° 2515.
+2515
 
 Partidas del Pasivo.
 
-Partidas N°s. 3005 y 3010
+3005 y 3010
 
-Partidas N° 3020 a 3030
+3020 a 3030
 
-Partidas N°s. 3040 a 3070
+3040 a 3070
 
-Partidas N°s. 3105 a 3115
+3105 a 3115
 
-Partidas N°s. 3405 a 4125.
+3405 a 3660
 
-Del saldo de las partidas N°s. 2120 ó 4120 señaladas, deberá deducirse el saldo
+4105 a 4125
 
-de la cuenta "Diferencia por canje Certificados de depósito en dólares USA por
+### V. OTRAS DISPOSICIONES
 
-efectuar".
+### 1. Instrucciones contables
 
-Las colocaciones como las obligaciones documentadas en moneda chilena
+1.1. Registro de operaciones a corto y largo plazo en el caso de operaciones pagaderas en cuotas.
 
-reajustables por la variación del tipo de cambio, se considerarán con los
+En el caso de préstamos pagaderos en cuotas en que una o más de ellas venza después de un año contado desde su fecha de otorgamiento, se computará como plazo total de las mismas, el plazo promedio resultante de considerar cada una de dichas cuotas de pago por sus montos de capital y plazos respectivos.
 
-reajustes correspondientes registrados en cuentas complementarias, según el
+De este modo, para determinar dicho plazo promedio, se multiplicará el importe de cada cuota de amortización de capital por su plazo, expresado en días o en meses, según las condiciones que se hubieren pactado. Luego se sumarán los productos obtenidos de esas multiplicaciones. El resultado de esa suma se dividirá por el importe total del préstamo. El cuociente que se obtenga indicará el plazo promedio ponderado del crédito, expresado en días o en meses, según cual haya sido el factor utilizado.
 
-procedimiento señalado en el número 2 del título II precedente.
+De acuerdo con lo expresado, los referidos préstamos deberán registrarse mediante este criterio, según corresponda, en cuentas de "colocaciones hasta 1 año plazo" o "a más de un año plazo".
 
-### IV. OTRAS INSTRUCCIONES
+El mismo procedimiento se aplicará para determinar el plazo de otras operaciones activas o pasivas que contemplen servicio en cuotas y, en consecuencia, registrar las operaciones según la estructura de las partidas y cuentas del MB1.
 
-### 1. Información a esta Superintendencia
+1.2. Información de saldos promedios en el Sistema Contable.
 
-Las instituciones financieras entregarán mensualmente a esta Superintendencia,
+Si bien el Sistema Contable definido en el Manual del Sistema de Información contempla la entrega de los saldos promedios de las cuentas que se informan en el archivo COI, para efectos de obtener directamente de ese archivo todos los datos necesarios para establecer las relaciones entre las operaciones activas y pasivas de que trata este Capítulo, las instituciones financieras deberán complementar, al cierre de cada mes, el registro contable de las operaciones señaladas en las letras a) y b) siguientes, imputando en las cuentas que allí se indican, el saldo promedio mantenido durante el mes informado, previa reversión de los saldos provenientes del mes anterior.
 
-el formulario M-50 "Informe mensual sobre la relación de operaciones activas y
+a) Préstamos interbancarios reajustables otorgados o recibidos con reajuste conocido.
 
-pasivas" de conformidad con las instrucciones contenidas en el "Manual del
+En el evento de que la institución financiera otorgue o reciba créditos interbancarios que se encuentren en la situación señalada en el penúltimo párrafo del N° 2 del título III de este Capítulo, deberá registrar, al cierre del mes el saldo promedio mantenido por estas operaciones, en las cuentas "Préstamos interbancarios reajustables otorgados con reajuste conocido" o "Préstamos interbancarios reajustables recibidas con reajuste conocido", según corresponda. Estas cuentas formarán parte de la partida 9705 "Control de operaciones activas y pasivas", del MB1, y se cargarán contra la cuenta "Responsabilidad por control de operaciones activas y pasivas" de la partida 9900.
 
-Sistema de Información".
+b) Operaciones reajustables por la variación del tipo de cambio.
 
-2. Medidas en caso de incumplimiento en las relaciones que deben mantenerse
+Las instituciones financieras que mantuvieren activos o pasivos reajustables por la variación del tipo de cambio, deberán registrar al cierre de cada mes el promedio de los saldos mantenidos en estas operaciones durante el mes, en las siguientes cuentas, según corresponda: "Colocaciones en moneda nacional reajustables por la variación del tipo de cambio", "Inversiones en moneda nacional reajustables por la variación del tipo de cambio", "Otros activos en moneda nacional reajustables por la variación del tipo de cambio", "Depósitos y captaciones en moneda nacional reajustables por la variación del tipo de cambio", "Obligaciones en moneda nacional reajustables por la variación del tipo de cambio" y "Otros pasivos en moneda nacional reajustables por la variación del tipo de cambio". Estas cuentas integrarán también la partida 9705 antes señalada, y se cargarán con abono a la cuenta "Responsabilidad por control de operaciones activas y pasivas", de la partida 9900.
 
-entre las operaciones activas y pasivas.
+### 2. Información a esta Superintendencia
 
-Las entidades financieras que no se encuadren dentro de los límites a que se
+Las instituciones financieras entregarán mensualmente a esta Superintendencia, la información relativa a las operaciones de que se trata, conforme las instrucciones contenidas en el Manual del Sistema de Información.
 
-refiere el presente capítulo, deberán presentar a esta Superintendencia, junto
+3. Medidas en caso de incumplimiento en las relaciones que deben mantenerse entre las operaciones activas y pasivas.
 
-con la entrega del respectivo formulario M-50, la explicación de las causas que
+Las entidades financieras que no se encuadren dentro de los límites a que se refiere el presente capítulo, deberán presentar a esta Superintendencia, junto con la información para el control de su cumplimiento y de la forma establecida en el Manual del Sistema de Información, la explicación de las causas que ocasionaron el exceso o déficit correspondiente, como igualmente informar sobre las medidas que se adoptarán para encuadrarse dentro de los límites. El plazo máximo para lograr este calce no puede ser superior a tres meses contados desde la fecha de cierre del mes en que se produjo el descalce.
 
-ocasionaron el exceso o déficit correspondiente, como igualmente informar sobre
-
-las medidas que se adoptarán para encuadrarse dentro de los límites. El plazo
-
-máximo para lograr este equilibrio no puede ser superior a tres meses contados
-
-desde la fecha de cierre del mes del respectivo informe en que se produjo el
-
-descalce.
-
-La inobservancia de estas instrucciones podrá ser sancionada por esta
-
-Superintendencia, según lo previsto en el artículo 19 del D.L. N° 1.097, de 1975.
+La inobservancia de estas instrucciones podrá ser sancionada por esta Superintendencia, según lo previsto en el artículo 19 del D.L. N° 1.097, de 1975.
 
 CAPITULO 13-1 (Bancos y Financieras)
 
