@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.308 de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº30, superficie 174 m², rol de avalúo Nº5050-044, comuna de Punta Arenas, para la obra "Reposición Ruta 9 y Acc. Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819", XII Región y se acordó el valor de la indemnización con su propietario Sociedad Comercial Vera e Hija y Compañía Limitada, ascendente a la cantidad de $10.820.207.-
+
+Fiscal del Ministerio de Obras Públicas.
