@@ -2,7 +2,7 @@ CÓDIGO PENAL
 
 Santiago, noviembre 12 de 1874.
 
-Núm. 2561.-Para los efectos de la lei de esta fecha, en que se aprueba el Código Penal, nombro una comision compuesta del Oficial Mayor del Ministerio de Justicia, Culto e Instruccion Pública, don Cárlos Riesgo, i de los jefes de seccion del mismo Ministerio don Manuel Ejidio Ballesteros i don Ramon C. Briseño.
+Núm. 2561.-Para los efectos de la ley de esta fecha, en que se aprueba el Código Penal, nombro una comisión compuesta del Oficial Mayor del Ministerio de Justicia, Culto e Instrucción Pública, don Carlos Riesco, y de los jefes de sección del mismo Ministerio don Manuel Egidio Ballesteros y don Ramón C. Briseño.
 
 Anótese.
 
@@ -10,7 +10,7 @@ ERRÁZURIZ.
 
 JOSE MARIA BARCELÓ
 
-Certificamos que la presente edicion del Código Penal está conforme con el proyecto aprobado por el Congreso Nacional.-Santiago, diciembre 15 de 1874.
+Certificamos que la presente edición del Código Penal está conforme con el proyecto aprobado por el Congreso Nacional.-Santiago, diciembre 15 de 1874.
 
 CARLOS RIESCO.-M. E. BALLESTEROS.-RAMON C. BRISEÑO.
 
@@ -26,59 +26,59 @@ CÓDIGO PENAL.
 
 ## Título Primero
 
-DE LOS DELITOS I DE LAS CIRCUNSTANCIAS QUE EXIMEN DE RESPONSABILIDAD CRIMINAL, LA ATENÚAN 0 LA AGRAVAN.
+DE LOS DELITOS Y DE LAS CIRCUNSTANCIAS QUE EXIMEN DE RESPONSABILIDAD CRIMINAL, LA ATENÚAN O LA AGRAVAN.
 
 ### I. De los delitos
 
 #### Artículo 1
 
-Es delito toda accion u omision voluntaria penada por la lei.
+Es delito toda acción u omisión voluntaria penada por la ley.
 
-Las acciones u omisiones penadas por la lei se reputan siempre voluntarias, a no ser que conste lo contrario.
+Las acciones u omisiones penadas por la ley se reputan siempre voluntarias, a no ser que conste lo contrario.
 
-El que cometiere delito será responsable de él e incurrirá en la pena que la lei señale, aunque el mal recaiga sobre persona distinta de aquella a quien se proponia ofender. En tal caso no se tomarán en consideracion las circunstancias, no conocidas por el delincuente, que agravarían su responsabilidad; pero sí aquellas que la atenúen.
+El que cometiere delito será responsable de él e incurrirá en la pena que la ley señale, aunque el mal recaiga sobre persona distinta de aquella a quien se proponía ofender. En tal caso no se tomarán en consideración las circunstancias, no conocidas por el delincuente, que agravarían su responsabilidad; pero sí aquellas que la atenúen.
 
 #### Artículo 2
 
-Las acciones u omisiones que cometidas con dolo o malicia importarian un delito, constituyen cuasidelito si solo hai culpa en el que las comete.
+Las acciones u omisiones que cometidas con dolo o malicia importarían un delito, constituyen cuasidelito si sólo hay culpa en el que las comete.
 
 #### Artículo 3
 
-Los delitos, atendida su gravedad, se dividen en crímenes, simples delitos i faltas i se califican de tales segun la pena que les está asignada en la escala jeneral del art. 21.
+Los delitos, atendida su gravedad, se dividen en crímenes, simples delitos y faltas y se califican de tales según la pena que les está asignada en la escala general del art. 21.
 
 #### Artículo 4
 
-La division de los delitos es aplicable a los cuasidelitos, que se califican i penan en los casos especiales que determina este Código.
+La división de los delitos es aplicable a los cuasidelitos, que se califican y penan en los casos especiales que determina este Código.
 
 #### Artículo 5
 
-La lei penal chilena es obligatoria para todos los habitantes de la República, inclusos los estranjeros. Los delitos cometidos dentro del mar territorial o adyacente quedan sometidos a las prescripciones de este Código.
+La ley penal chilena es obligatoria para todos los habitantes de la República, inclusos los extranjeros. Los delitos cometidos dentro del mar territorial o adyacente quedan sometidos a las prescripciones de este Código.
 
 #### Artículo 6
 
-Los crímenes o simples delitos perpetrados fuera del territorio de la República por chilenos o por estranjeros, no serán castigados en Chile sino en los casos determinados por la lei.
+Los crímenes o simples delitos perpetrados fuera del territorio de la República por chilenos o por extranjeros, no serán castigados en Chile sino en los casos determinados por la ley.
 
 #### Artículo 7
 
-Son punibles, no solo el crímen o simple delito consumado, sino el frustrado i la tentativa.
+Son punibles, no sólo el crimen o simple delito consumado, sino el frustrado y la tentativa.
 
-Hai crímen o simple delito frustrado cuando el delincuente pone de su parte todo lo necesario para que el crímen o simple delito se consume i esto no se verifica por causas independientes de su voluntad.
+Hay crimen o simple delito frustrado cuando el delincuente pone de su parte todo lo necesario para que el crimen o simple delito se consume y esto no se verifica por causas independientes de su voluntad.
 
-Hai tentativa cuando el culpable da principio a la ejecucion del crímen o simple delito por hechos directos, pero faltan uno o mas para su complemento.
+Hay tentativa cuando el culpable da principio a la ejecución del crimen o simple delito por hechos directos, pero faltan uno o más para su complemento.
 
 #### Artículo 8
 
-La conspiracion i proposicion para cometer un crímen o un simple delito, solo son punibles en los casos en que la lei las pena especialmente.
+La conspiración y proposición para cometer un crimen o un simple delito, sólo son punibles en los casos en que la ley las pena especialmente.
 
-La conspiracion existe cuando dos o mas personas se conciertan para la ejecucion del crímen o simple delito.
+La conspiración existe cuando dos o más personas se conciertan para la ejecución del crimen o simple delito.
 
-La proposicion se verifica cuando el que ha resuelto cometer un crímen o un simple delito, propone su ejecucion a otra u otras personas.
+La proposición se verifica cuando el que ha resuelto cometer un crimen o un simple delito, propone su ejecución a otra u otras personas.
 
-Exime de toda pena por la conspiracion o proposicion para cometer un crímen o un simple delito, el desistimiento de la ejecucion de éstos ántes de principiar a ponerlos por obra i de iniciarse procedimiento judicial contra el culpable, con tal que denuncie a la autoridad pública el plan i sus circunstancias.
+Exime de toda pena por la conspiración o proposición para cometer un crimen o un simple delito, el desistimiento de la ejecución de éstos antes de principiar a ponerlos por obra y de iniciarse procedimiento judicial contra el culpable, con tal que denuncie a la autoridad pública el plan y sus circunstancias.
 
 #### Artículo 9
 
-Las faltas solo se castigan cuando han sido consumadas.
+Las faltas sólo se castigan cuando han sido consumadas.
 
 ### II. De las circunstancias que eximen de responsabilidad criminal
 
@@ -86,31 +86,31 @@ Las faltas solo se castigan cuando han sido consumadas.
 
 Están exentos de responsabilidad criminal:
 
-1.° El loco o demente, a no ser que haya obrado en un intervalo lúcido, i el que, por cualquier causa independiente de su voluntad, se halla privado totalmente de razon.
+1.° El loco o demente, a no ser que haya obrado en un intervalo lúcido, y el que, por cualquier causa independiente de su voluntad, se halla privado totalmente de razón.
 
-Cuando un loco o demente hubiere ejecutado un hecho que la lei califica de crímen o incurriere en reiteracion de otros que importen simples delitos, el tribunal decretará su reclusion en uno de los establecimientos destinados a los enfermos de aquella clase, del cual no podrá salir sin previa autorizacion del mismo tribunal.
+Cuando un loco o demente hubiere ejecutado un hecho que la ley califica de crimen o incurriere en reiteración de otros que importen simples delitos, el tribunal decretará su reclusión en uno de los establecimientos destinados a los enfermos de aquella clase, del cual no podrá salir sin previa autorización del mismo tribunal.
 
-En otro caso será entregado a su familia bajo fianza de custodia, i miéntras no se preste dicha fianza se observará lo dispuesto en el acápite anterior.
+En otro caso será entregado a su familia bajo fianza de custodia, y mientras no se preste dicha fianza se observará lo dispuesto en el acápite anterior.
 
-2.° El menor de diez años.
+2.° El menor de dieciséis años.
 
-3.° El mayor de diez años i menor de diez i seis, a no ser que conste que ha obrado con discernimiento.
+3.° El mayor de dieciséis años y menor de veinte, a no ser que conste que ha obrado con discernimiento.
 
-El tribunal hará declaracion espresa sobre este punto, para imponerle pena o declararle irresponsable.
+El Tribunal de Menores respectivo hará declaración previa sobre este punto para que pueda procesársele.
 
 4.° El que obra en defensa de su persona o derechos, siempre que concurran las circunstancias siguientes:
 
-Primera.-Agresion Ilejítima.
+Primera.-Agresión Ilegítima.
 
 Segunda.- Necesidad racional del medio empleado para impedirla o repelerla.
 
-Tercera.-Falta de provocacion suficiente por parte del que se defiende.
+Tercera.-Falta de provocación suficiente por parte del que se defiende.
 
 Se entenderá que concurren estas tres circunstancias respecto de aquel que durante la noche rechaza el escalamiento o fractura de los cercados, paredes o entradas de una casa o de un departamento habitado o de sus dependencias, cualquiera que sea el daño que ocasione al agresor.
 
-5.° El que obra en defensa de la persona o derechos de su cónyuje, de sus parientes consanguíneos lejítimos en toda la línea recta i en la colateral hasta el cuarto grado inclusive, de sus afines lejítimos en toda la línea recta i en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilejítimos reconocidos, siempre que concurran la primera i segunda circunstancias prescritas en el número anterior, i la de que, en caso de haber precedido provocacion de parte del acometido, no tuviere participacion en ella el defensor.
+5.° El que obra en defensa de la persona o derechos de su cónyuge, de sus parientes consanguíneos legítimos en toda la línea recta y en la colateral hasta el cuarto grado inclusive, de sus afines legítimos en toda la línea recta y en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilegítimos reconocidos, siempre que concurran la primera y segunda circunstancias prescritas en el número anterior, y la de que, en caso de haber precedido provocación de parte del acometido, no tuviere participación en ella el defensor.
 
-6.° El que obra en defensa de la persona i derechos de un estraño, siempre que concurran las circunstancias espresadas en el número anterior i la de que el defensor no sea impulsado por venganza, resentimiento u otro motivo ilejítimo.
+6.° El que obra en defensa de la persona y derechos de un extraño, siempre que concurran las circunstancias expresadas en el número anterior y la de que el defensor no sea impulsado por venganza, resentimiento u otro motivo ilegítimo.
 
 7.° El que para evitar un mal ejecuta un hecho, que produzca daño en la propiedad ajena, siempre que concurran las circunstancias siguientes:
 
@@ -118,45 +118,45 @@ Primera.-Realidad o peligro inminente del mal que se trata de evitar.
 
 Segunda.-Que sea mayor que el causado para evitarlo.
 
-Tercera.-Que no haya otro medio practicable i ménos perjudicial para impedirlo.
+Tercera.-Que no haya otro medio practicable y menos perjudicial para impedirlo.
 
-8.° El que con ocasion de ejecutar un acto lícito, con la debida dilijencia, causa un mal por mero accidente.
+8.° El que con ocasión de ejecutar un acto lícito, con la debida diligencia, causa un mal por mero accidente.
 
 9.° El que obra violentado por una fuerza irresistible o impulsado por un miedo insuperable.
 
-10.° El que obra en cumplimiento de un deber o en el ejercicio lejítimo de un derecho, autoridad, oficio o cargo.
+10.° El que obra en cumplimiento de un deber o en el ejercicio legítimo de un derecho, autoridad, oficio o cargo.
 
-11.° El marido que en el acto de sorprender a su mujer infraganti en delito de adulterio, da muerte, hiere o maltrata a ella i a su cómplice; con tal que la mala conducta de aquél no haga escusable la falta de ésta.
+11.° El marido que en el acto de sorprender a su mujer infraganti en delito de adulterio, da muerte, hiere o maltrata a ella y a su cómplice; con tal que la mala conducta de aquél no haga excusable la falta de ésta.
 
-Si solo diere muerte, hiriere o maltratare a uno de ellos, sin causar daño al otro u ocasionándole uno menor, subsistirá no obstante la exencion de responsabilidad criminal respecto del marido, a menos de constar que intencionalmente obró así o que las circunstancias del hecho lo revelen.
+Si solo diere muerte, hiriere o maltratare a uno de ellos, sin causar daño al otro u ocasionándole uno menor, subsistirá no obstante la exención de responsabilidad criminal respecto del marido, a menos de constar que intencionalmente obró así o que las circunstancias del hecho lo revelen.
 
-12.° El que incurre en alguna omision, hallándose impedido por causa lejítima o insuperable.
+12.° El que incurre en alguna omisión, hallándose impedido por causa legítima o insuperable.
 
-13.° El que cometiere un cuasidelito, salvo en los casos espresamente penados por la lei.
+13.° El que cometiere un cuasidelito, salvo en los casos expresamente penados por la ley.
 
 ### III. De las circunstancias que atenúan la responsabilidad criminal
 
 #### Artículo 11
 
-Son circuntancias atenuantes:
+Son circunstancias atenuantes:
 
-1.° Las espresadas en el artículo anterior, cuando no concurren todos los requisitos necesarios para eximir de responsabilidad en sus respectivos casos.
+1.° Las expresadas en el artículo anterior, cuando no concurren todos los requisitos necesarios para eximir de responsabilidad en sus respectivos casos.
 
-2.° La de ser el culpable menor de diez i ocho años.
+2.° La de ser el culpable menor de veinte años.
 
-3.° La de haber precedido inmediatamente de parte del ofendido, provocacion o amenaza proporcionada al delito.
+3.° La de haber precedido inmediatamente de parte del ofendido, provocación o amenaza proporcionada al delito.
 
-4.° La de haberse ejecutado el hecho en vindicacion próxima de una ofensa grave causada al autor, a su cónyuje, a sus parientes lejítimos por consanguinidad o afinidad en toda la línea recta i en la colateral hasta el segundo grado inclusive, a sus padres o hijos naturales o ílejítimos reconocidos.
+4.° La de haberse ejecutado el hecho en vindicación próxima de una ofensa grave causada al autor, a su cónyuge, a sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, a sus padres o hijos naturales o ilegítimos reconocidos.
 
-5.° La de obrar por estímulos tan poderosos que naturalmente hayan producido arrebato i obsecacion.
+5.° La de obrar por estímulos tan poderosos que naturalmente hayan producido arrebato y obcecación.
 
 6.° Si la conducta anterior del delincuente ha sido irreprochable.
 
 7.° Si ha procurado con celo reparar el mal causado o impedir sus ulteriores perniciosas consecuencias.
 
-8.° Si pudiendo eludir la accion de la justicia por medio de la fuga u ocultándose, se ha denunciado i confesado el delito.
+8.° Si pudiendo eludir la acción de la justicia por medio de la fuga u ocultándose, se ha denunciado y confesado el delito.
 
-9.° Si del proceso no resulta contra el reo otro antecedente que su espontánea confesion.
+9.° Si del proceso no resulta contra el reo otro antecedente que su espontánea confesión.
 
 10.° El haber obrado por celo de la justicia.
 
@@ -166,15 +166,15 @@ Son circuntancias atenuantes:
 
 Son circunstancias agravantes:
 
-1.° Cometer el delito contra las personas con alevosía, entendiéndose que la hai cuando se obra a traicion o sobre seguro.
+1.° Cometer el delito contra las personas con alevosía, entendiéndose que la hay cuando se obra a traición o sobre seguro.
 
 2.° Cometerlo mediante precio, recompensa o promesa.
 
-3.° Ejecutar el delito por medio de inundacion, incendio, veneno u otro artificio que pueda ocasionar grandes estragos o dañar a otras personas.
+3.° Ejecutar el delito por medio de inundación, incendio, veneno u otro artificio que pueda ocasionar grandes estragos o dañar a otras personas.
 
-4.° Aumentar deliberadamente el mal del delito causando otros males innecesarios para su ejecucion.
+4.° Aumentar deliberadamente el mal del delito causando otros males innecesarios para su ejecución.
 
-5.° En los delitos contra las personas, obrar con premeditacion conocida o emplear astucia, fraude o disfraz.
+5.° En los delitos contra las personas, obrar con premeditación conocida o emplear astucia, fraude o disfraz.
 
 6.° Abusar el delincuente de la superioridad de su sexo, de sus fuerzas o de las armas, en términos que el ofendido no pudiera defenderse con probabilidades de repeler la ofensa.
 
@@ -184,19 +184,19 @@ Son circunstancias agravantes:
 
 9.° Emplear medios o hacer que concurran circunstancias que añadan la ignominia a los efectos propios del hecho.
 
-10.° Cometer el delito con ocasion de incendio, naufrajio, sedicion, tumulto o conmocion popular u otra calamidad o desgracia.
+10.° Cometer el delito con ocasión de incendio, naufragio, sedición, tumulto o conmoción popular u otra calamidad o desgracia.
 
-11.° Ejecutarlo con ausilio de jente armada o de personas que aseguren o proporcionen la impunidad.
+11.° Ejecutarlo con auxilio de gente armada o de personas que aseguren o proporcionen la impunidad.
 
 12.° Ejecutarlo de noche o en despoblado.
 
-El tribunal tomará o no en consideracion esta circunstancia, segun la naturaleza i accidentes del delito.
+El tribunal tomará o no en consideración esta circunstancia, según la naturaleza y accidentes del delito.
 
 13.° Ejecutarlo en desprecio o con ofensa de la autoridad pública o en el lugar en que se halle ejerciendo sus funciones.
 
-14.° Cometer el delito miéntras cumple una condena o despues de haberla quebrantado i dentro del plazo en que puede ser castigado por el quebrantamiento.
+14.° Cometer el delito mientras cumple una condena o después de haberla quebrantado y dentro del plazo en que puede ser castigado por el quebrantamiento.
 
-15.° Haber sido castigado el culpable anteriormente por delitos a que la lei señale igual o mayor pena.
+15.° Haber sido castigado el culpable anteriormente por delitos a que la ley señale igual o mayor pena.
 
 16.° Ser reincidente en delito de la misma especie.
 
@@ -206,13 +206,13 @@ El tribunal tomará o no en consideracion esta circunstancia, segun la naturalez
 
 19.° Ejecutarlo por medio de fractura o escalamiento de lugar cerrado.
 
-### V. De las circunstancias que atenúan o agravan la responsabilidad criminal, segun la naturaleza i accidentes del delito
+### V. De las circunstancias que atenúan o agravan la responsabilidad criminal, según la naturaleza y accidentes del delito
 
 #### Artículo 13
 
-Es circunstancia atenuante o agravante, segun la naturaleza i accidentes del delito.
+Es circunstancia atenuante o agravante, según la naturaleza y accidentes del delito.
 
-Ser el agraviado cónyuje, pariente lejítimo por consanguinidad o afinidad en toda la línea recta i en la colateral hasta el segundo grado inclusive, padre o hijo natural o ilejítimo reconocido del ofensor.
+Ser el agraviado cónyuge, pariente legítimo por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, padre o hijo natural o ilegítimo reconocido del ofensor.
 
 ## Título Segundo
 
@@ -232,61 +232,61 @@ Son responsables criminalmente de los delitos:
 
 Se consideran autores:
 
-1.° Los que toman parte en la ejecucion del hecho, sea de una manera inmediata i directa; sea impidiendo o procurando impedir que se evite.
+1.° Los que toman parte en la ejecución del hecho, sea de una manera inmediata y directa; sea impidiendo o procurando impedir que se evite.
 
 2.° Los que fuerzan o inducen directamente a otro a ejecutarlo.
 
-3.° Los que, concertados para su ejecucion, facilitan los medios con que se lleva a efecto el hecho o lo presencian sin tomar parte inmediata en él.
+3.° Los que, concertados para su ejecución, facilitan los medios con que se lleva a efecto el hecho o lo presencian sin tomar parte inmediata en él.
 
 #### Artículo 16
 
-Son cómplices los que, no hallándose comprendidos en el artículo anterior, cooperan a la ejecucion del hecho por actos anteriores o simultáneos.
+Son cómplices los que, no hallándose comprendidos en el artículo anterior, cooperan a la ejecución del hecho por actos anteriores o simultáneos.
 
 #### Artículo 17
 
-Son encubridores los que con conocimiento de la perpetracion de un crímen o de un simple delito o de los actos ejecutados para llevarlo a cabo, sin haber tenido participacion en él como autores ni como cómplices, intervienen, con posterioridad a su ejecucion, de alguno de los modos siguientes:
+Son encubridores los que con conocimiento de la perpetración de un crimen o de un simple delito o de los actos ejecutados para llevarlo a cabo, sin haber tenido participación en él como autores ni como cómplices, intervienen, con posterioridad a su ejecución, de alguno de los modos siguientes:
 
-1.° Aprovechándose por sí mismos o facilitando a los delincuentes medios para que se aprovechen de los efectos del crímen o simple delito.
+1.° Aprovechándose por sí mismos o facilitando a los delincuentes medios para que se aprovechen de los efectos del crimen o simple delito.
 
-2.° Ocultando o inutilizando el cuerpo, los efectos o instrumentos del crímen o simple delito para impedir su descubrimiento.
+2.° Ocultando o inutilizando el cuerpo, los efectos o instrumentos del crimen o simple delito para impedir su descubrimiento.
 
 3.° Albergando, ocultando o proporcionando la fuga al culpable, siempre que concurra alguna de las circunstancias siguientes:
 
 Primera.-La de intervenir abuso de funciones públicas de parte del encubridor.
 
-Segunda.-La de ser el delincuente reo de traicion, parricidio u homicidio cometido con alguna de las circunstancias agravantes que espresan los números 1.°, 2.°, 3.°, 4.°, 5.°, 6.°, 9.° i 11.° del art. 12, si estuvieren en noticia del encubridor, o cuando el delincuente fuere conocido como reo habitual de otros crímenes o simples delitos.
+Segunda.-La de ser el delincuente reo de traición, parricidio u homicidio cometido con alguna de las circunstancias agravantes que expresan los números 1.°, 2.°, 3.°, 4.°, 5.°, 6.°, 9.° y 11.° del art. 12, si estuvieren en noticia del encubridor, o cuando el delincuente fuere conocido como reo habitual de otros crímenes o simples delitos.
 
-4.° Acojiendo, receptando o protejiendo habitualmente a los malhechores, sabiendo que lo son, aun sin conocimiento de los crímenes o simples delitos determinados que hayan cometido, o facilitándoles los medios de reunirse u ocultar sus armas o efectos, o suministrándoles ausilios o noticias para que se guarden, precavan o salven.
+4.° Acogiendo, receptando o protegiendo habitualmente a los malhechores, sabiendo que lo son, aun sin conocimiento de los crímenes o simples delitos determinados que hayan cometido, o facilitándoles los medios de reunirse u ocultar sus armas o efectos, o suministrándoles auxilios o noticias para que se guarden, precavan o salven.
 
-Están exentos de las penas impuestas a los encubridores los que lo sean de su cónyuje o de sus parientes lejítimos por consanguinidad o afinidad en toda la línea recta i en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilejítimos reconocidos, con solo la escepcion de los que se hallaren comprendidos en el número 1.° de este artículo.
+Están exentos de las penas impuestas a los encubridores los que lo sean de su cónyuge o de sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, de sus padres o hijos naturales o ilegítimos reconocidos, con sólo la excepción de los que se hallaren comprendidos en el número 1.° de este artículo.
 
 ## Título Tercero
 
 DE LAS PENAS.
 
-### I. De las penas en jeneral
+### I. De las penas en general
 
 #### Artículo 18
 
-Ningun delito se castigará con otra pena que la que le señale una lei promulgada con anterioridad a su perpetracion.
+Ningún delito se castigará con otra pena que la que le señale una ley promulgada con anterioridad a su perpetración.
 
-Si despues de cometido el delito i ántes de que se pronuncie sentencia de término, se promulgare otra lei que exima tal hecho de toda pena o le aplique una ménos rigorosa, deberá arreglarse a ella su juzgamiento.
+Si después de cometido el delito y antes de que se pronuncie sentencia de término, se promulgare otra ley que exima tal hecho de toda pena o le aplique una menos rigorosa, deberá arreglarse a ella su juzgamiento.
 
 #### Artículo 19
 
-El perdon de la parte ofendida no estingue la accion penal, salvo respecto de los delitos que no pueden ser perseguidos sin previa denuncia o consentimiento del agraviado.
+El perdón de la parte ofendida no extingue la acción penal, salvo respecto de los delitos que no pueden ser perseguidos sin previa denuncia o consentimiento del agraviado.
 
 #### Artículo 20
 
-No se reputan penas, la restriccion de la libertad de los procesados, la separacion de los empleos públicos acordada por las autoridades en uso de sus atribuciones o por el tribunal durante el proceso o para instruirlo, ni las multas i demas correcciones que los superiores impongan a sus subordinados i administrados en uso de su jurisdiccion disciplinal o atribuciones gubernativas.
+No se reputan penas, la restricción de la libertad de los procesados, la separación de los empleos públicos acordada por las autoridades en uso de sus atribuciones o por el tribunal durante el proceso o para instruirlo, ni las multas y demás correcciones que los superiores impongan a sus subordinados y administrados en uso de su jurisdicción disciplinal o atribuciones gubernativas.
 
-### II. De la clasificacion de las penas
+### II. De la clasificación de las penas
 
 #### Artículo 21
 
-Las penas que pueden imponerse con arreglo a este Código i sus diferentes clases, son las que comprende la siguiente:
+Las penas que pueden imponerse con arreglo a este Código y sus diferentes clases, son las que comprende la siguiente:
 
-ESCALA JENERAL.
+ESCALA GENERAL.
 
 PENAS DE CRÍMENES.
 
@@ -294,47 +294,47 @@ Muerte.
 
 Presidio perpetuo.
 
-Reclusion perpetua.
+Reclusión perpetua.
 
 Presidio mayor.
 
-Reclusion mayor.
+Reclusión mayor.
 
-Relegacion perpetua.
+Relegación perpetua.
 
 Confinamiento mayor.
 
-Estrañamiento mayor.
+Extrañamiento mayor.
 
-Relegacion mayor.
+Relegación mayor.
 
-Inhabilitacion absoluta perpetua para cargos i oficios públicos, derechos políticos i profesiones titulares.
+Inhabilitación absoluta perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares.
 
-Inhabilitacion especial perpetua para algun cargo u oficio público o profesion titular.
+Inhabilitación especial perpetua para algún cargo u oficio público o profesión titular.
 
-Inhabilitacion absoluta temporal para cargos i oficios públicos i profesiones titulares.
+Inhabilitación absoluta temporal para cargos y oficios públicos y profesiones titulares.
 
-Inhabilitacion especial temporal para algun cargo u oficio público o profesion titular.
+Inhabilitación especial temporal para algún cargo u oficio público o profesión titular.
 
 PENAS DE SIMPLES DELITOS.
 
 Presidio menor.
 
-Reclusion menor.
+Reclusión menor.
 
 Confinamiento menor.
 
-Estrañamiento menor.
+Extrañamiento menor.
 
-Relegacion menor.
+Relegación menor.
 
 Destierro.
 
-Suspension de cargo u oficio público o profesion titular.
+Suspensión de cargo u oficio público o profesión titular.
 
 PENAS DE LAS FALTAS.
 
-Prision.
+Prisión.
 
 PENAS COMUNES A LAS TRES CLASES ANTERIORES.
 
@@ -342,179 +342,181 @@ Multa.
 
 Pérdida o comiso de los instrumentos o efectos del delito.
 
-PENAS ACCESORIAS DE LOS CRÍMENES I SIMPLES DELITOS.
+PENAS ACCESORIAS DE LOS CRÍMENES Y SIMPLES DELITOS.
 
 Cadena o grillete.
 
 Celda solitaria.
 
-Incomunicacion con personas estrañas al establecimiento penal.
+Incomunicación con personas extrañas al establecimiento penal.
 
 #### Artículo 22
 
-Son tambien penas accesorias las de suspension e inhabilitacion para cargos i oficios públicos, derechos políticos i profesiones titulares en los casos en que, no imponiéndolas especialmente la lei, ordena que otras penas las lleven consigo.
+Son también penas accesorias las de suspensión e inhabilitación para cargos y oficios públicos, derechos políticos y profesiones titulares en los casos en que, no imponiéndolas especialmente la ley, ordena que otras penas las lleven consigo.
 
 #### Artículo 23
 
-La caucion i la sujecion a la vijilancia de la autoridad podrán imponerse como penas accesorias o como medidas preventivas, en los casos especiales que determinen este Código i el de Procedimientos.
+La caución y la sujeción a la vigilancia de la autoridad podrán imponerse como penas accesorias o como medidas preventivas, en los casos especiales que determinen este Código y el de Procedimientos.
 
 #### Artículo 24
 
-Toda sentencia condenatoria en materia criminal lleva envuelta la obligacion de pagar las costas, daños i perjuicios por parte de los autores, cómplices, encubridores i demas personas legalmente responsables.
+Toda sentencia condenatoria en materia criminal lleva envuelta la obligación de pagar las costas, daños y perjuicios por parte de los autores, cómplices, encubridores y demás personas legalmente responsables.
 
-### III. De los limites, naturaleza i efectos de las penas
+### III. De los límites, naturaleza y efectos de las penas
 
 #### Artículo 25
 
-Las penas temporales mayores duran de cinco años i un dia a veinte años, i las temporales menores de sesenta i un dias a cinco años.
+Las penas temporales mayores duran de cinco años y un día a veinte años, y las temporales menores de sesenta y un días a cinco años.
 
-Las de inhabilitacion absoluta i especial temporales para cargos i oficios públicos i profesiones titulares duran de tres años i un dia a diez años.
+Las de inhabilitación absoluta y especial temporales para cargos y oficios públicos y profesiones titulares duran de tres años y un día a diez años.
 
-La suspension de cargo u oficio público o profesion titular, dura de sesenta i un dias a tres años.
+La suspensión de cargo u oficio público o profesión titular, dura de sesenta y un días a tres años.
 
-Las penas de destierro i de sujecion a la vijilancia de la autoridad, de sesenta i un dias a cinco años.
+Las penas de destierro y de sujeción a la vigilancia de la autoridad, de sesenta y un días a cinco años.
 
-La prision dura de uno a sesenta dias.
+La prisión dura de uno a sesenta días.
 
-La cuantía de la multa, tratándose de crímenes, no podrá exceder de cinco mil pesos; en los simples delitos, de mil pesos, i en las faltas, de cien pesos.
+La cuantía de la multa, tratándose de crímenes, no podrá exceder de cinco mil pesos; en los simples delitos, de mil pesos, y en las faltas, de cien pesos.
 
-Cuando la lei impone multas cuyo cómputo debe hacerse con relacion a cantidades indeterminadas, nunca podrán aquéllas exceder de cinco mil pesos.
+Cuando la ley impone multas cuyo cómputo debe hacerse con relación a cantidades indeterminadas, nunca podrán aquéllas exceder de cinco mil pesos.
 
-En cuanto a la cuantía de la caucion, se observarán las reglas establecidas para la multa, doblando las cantidades respectivamente, i su duracion no podrá exceder del tiempo de la pena u obligacion cuyo cumplimiento asegura, o de cinco años en los demas casos.
+En cuanto a la cuantía de la caución, se observarán las reglas establecidas para la multa, doblando las cantidades respectivamente, y su duración no podrá exceder del tiempo de la pena u obligación cuyo cumplimiento asegura, o de cinco años en los demás casos.
 
-La duracion de las penas accesorias de cadena o grillete, encierro en celda solitaria e incomunicacion con personas estrañas al establecimiento penal, es de sesenta i un dias a cinco años; no pudiendo, dentro de estos límites, imponerse por mas de la mitad del tiempo señalado a la pena principal.
+La duración de las penas accesorias de cadena o grillete, encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal, es de sesenta y un días a cinco años; no pudiendo, dentro de estos límites, imponerse por más de la mitad del tiempo señalado a la pena principal.
 
 #### Artículo 26
 
-La duracion de las penas temporales empezará a contarse desde el dia de la aprehension del reo.
+La duración de las penas temporales empezará a contarse desde el día de la aprehensión del reo.
 
 PENAS QUE LLEVAN CONSIGO OTRAS ACCESORIAS.
 
 #### Artículo 27
 
-La pena de muerte, siempre que no se ejecute al reo, i las de presidio, reclusion i relegacion perpetuos, llevan consigo la de inhabilitacion absoluta perpetua para cargos i oficios públicos i derechos políticos por el tiempo de la vida de los penados i la de sujecion a la vijilancia de la autoridad por el máximum que establece este Código.
+La pena de muerte, siempre que no se ejecute al reo, y las de presidio, reclusión y relegación perpetuos, llevan consigo la de inhabilitación absoluta perpetua para cargos y oficios públicos y derechos políticos por el tiempo de la vida de los penados y la de sujeción a la vigilancia de la autoridad por el máximum que establece este Código.
 
 #### Artículo 28
 
-Las penas de presidio, reclusion, confinamiento, estrañamiento i relegacion mayores, llevan consigo la de inhabilitacion absoluta perpetua para cargos i oficios públicos i derechos políticos i la de inhabilitacion absoluta para profesiones titulares miéntras dure la condena.
+Las penas de presidio, reclusión, confinamiento, extrañamiento y relegación mayores, llevan consigo la de inhabilitación absoluta perpetua para cargos y oficios públicos y derechos políticos y la de inhabilitación absoluta para profesiones titulares mientras dure la condena.
 
 #### Artículo 29
 
-Las penas de presidio, reclusion, confinamiento, estrañamiento i relegacion menores en sus grados máximos, llevan consigo la de inhabilitacion absoluta perpetua para derechos políticos i la de inhabilitacion absoluta para cargos i oficios públicos durante el tiempo de la condena.
+Las penas de presidio, reclusión, confinamiento, extrañamiento y relegación menores en sus grados máximos, llevan consigo la de inhabilitación absoluta perpetua para derechos políticos y la de inhabilitación absoluta para cargos y oficios públicos durante el tiempo de la condena.
 
 #### Artículo 30
 
-Las penas de presidio, reclusion, confinamiento, estrañamiento i relegacion menores en sus grados medios i mínimos, i las de destierro i prision, llevan consigo la de suspension de cargo u oficio público durante el tiempo de la condena.
+Las penas de presidio, reclusión, confinamiento, extrañamiento y relegación menores en sus grados medios y mínimos, y las de destierro y prisión, llevan consigo la de suspensión de cargo u oficio público durante el tiempo de la condena.
 
 #### Artículo 31
 
-Toda pena que se imponga por un crímen o un simple delito, lleva consigo la pérdida de los efectos que de él provengan i de los instrumentos con que se ejecutó, a ménos que pertenezcan a un tercero no responsable del crímen o simple delito.
+Toda pena que se imponga por un crimen o un simple delito, lleva consigo la pérdida de los efectos que de él provengan y de los instrumentos con que se ejecutó, a menos que pertenezcan a un tercero no responsable del crimen o simple delito.
 
-NATURALEZA I EFECTOS DE ALGUNAS PENAS.
+NATURALEZA Y EFECTOS DE ALGUNAS PENAS.
 
 #### Artículo 32
 
-La pena de presidio sujeta al reo a los trabajos prescritos por los reglamentos del respectivo establecimiento penal. Las de reclusion i prision no le imponen trabajo alguno.
+La pena de presidio sujeta al reo a los trabajos prescritos por los reglamentos del respectivo establecimiento penal. Las de reclusión y prisión no le imponen trabajo alguno.
 
 #### Artículo 33
 
-Confinamiento es la espulsion del reo del territorio de la República con residencia forzosa en un lugar determinado.
+Confinamiento es la expulsión del reo del territorio de la República con residencia forzosa en un lugar determinado.
 
 #### Artículo 34
 
-Estrañamiento es la espulsion del reo del territorio de la República al lugar de su eleccion.
+Extrañamiento es la expulsión del reo del territorio de la República al lugar de su elección.
 
 #### Artículo 35
 
-Relegacion es la traslacion del reo a un punto habitado del territorio de la República con prohibicion de salir de él, pero permaneciendo en libertad.
+Relegación es la traslación del reo a un punto habitado del territorio de la República con prohibición de salir de él, pero permaneciendo en libertad.
 
 #### Artículo 36
 
-Destierro es la espulsion del reo de algun punto de la República.
+Destierro es la expulsión del reo de algún punto de la República.
 
 #### Artículo 37
 
-Para los efectos legales se reputan aflictivas todas las penas de crímenes i, respecto de las de simples delitos, las de presidio, reclusion, confinamiento, estrañamiento i relegacion menores en sus grados máximos.
+Para los efectos legales se reputan aflictivas todas las penas de crímenes y, respecto de las de simples delitos, las de presidio, reclusión, confinamiento, extrañamiento y relegación menores en sus grados máximos.
 
 #### Artículo 38
 
-La pena de inhabilitacion absoluta perpetua para cargos i oficios públicos, derechos políticos i profesiones titulares, i la de inhabilitacion absoluta temporal para cargos i oficios públicos i profesiones titulares, producen:
+La pena de inhabilitación absoluta perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares, y la de inhabilitación absoluta temporal para cargos y oficios públicos Y profesiones titulares, producen:
 
-1.° La privacion de todos los honores, cargos, empleos i oficios públicos i profesiones titulares de que estuviere en posesion el penado, aun cuando sean de eleccion popular.
+1.° La privación de todos los honores, cargos, empleos y oficios públicos y profesiones titulares de que estuviere en posesión el penado, aun cuando sean de elección popular.
 
-2.° La privacion de todos los derechos políticos activos i pasivos i la incapacidad perpetua para obtenerlos.
+2.° La privación de todos los derechos políticos activos y pasivos y la incapacidad perpetua para obtenerlos.
 
-3.° La incapacidad para obtener los honores, cargos, empleos, oficios i profesiones mencionados, perpetuamente si la inhabilitacion es perpetua i durante el tiempo de la condena si es temporal.
+3.° La incapacidad para obtener los honores, cargos, empleos, oficios y profesiones mencionados, perpetuamente si la inhabilitación es perpetua y durante el tiempo de la condena si es temporal.
 
-4.° La pérdida de todo derecho para obtener jubilacion u otra pension por los empleos servidos con anterioridad.
+4.° La pérdida de todo derecho para obtener jubilación u otra pensión por los empleos servidos con anterioridad.
 
 #### Artículo 39
 
-Las penas de inhabilitacion especial perpetua i temporal para algun cargo u oficio público o profesion titular, producen:
+Las penas de inhabilitación especial perpetua y temporal para algún cargo u oficio público o profesión titular, producen:
 
-1.° La privacion del cargo, empleo, oficio o profesion sobre que recaen, i la de los honores anexos a él, perpetuamente si la inhabilitacion es perpetua, i por el tiempo de la condena si es temporal.
+1.° La privación del cargo, empleo, oficio o profesión sobre que recaen, y la de los honores anexos a él, perpetuamente si la inhabilitación es perpetua, y por el tiempo de la condena si es temporal.
 
-2.° La incapacidad para obtener dicho cargo, empleo, oficio o profesion u otros en la misma carrera, perpetuamente cuando la inhabilitacion es perpetua, i por el tiempo de la condena cuando es temporal.
+2.° La incapacidad para obtener dicho cargo, empleo, oficio o profesión u otros en la misma carrera, perpetuamente cuando la inhabilitación es perpetua, y por el tiempo de la condena cuando es temporal.
 
 #### Artículo 40
 
-La suspension de cargo i oficio público i profesion titular, inhabilita para su ejercicio durante el tiempo de la condena.
+La suspensión de cargo y oficio público y profesión titular, inhabilita para su ejercicio durante el tiempo de la condena.
 
-La suspension decretada durante el juicio, trae como consecuencia inmediata la privacion de la mitad del sueldo al presunto reo, la cual solo se le devolverá en el caso de pronunciarse sentencia absolutoria.
+La suspensión decretada durante el juicio, trae como consecuencia inmediata la privación de la mitad del sueldo al presunto reo, la cual sólo se le devolverá en el caso de pronunciarse sentencia absolutoria.
 
-La suspension decretada por via de pena, priva de todo sueldo al suspenso miéntras ella dure.
+La suspensión decretada por vía de pena, priva de todo sueldo al suspenso mientras ella dure.
 
 #### Artículo 41
 
-Cuando las penas de inhabilitacion i suspension recaigan en persona eclesiástica, sus efectos no se estenderán a los cargos, derechos i honores que tenga por la Iglesia. A los eclesiásticos incursos en tales penas i por todo el tiempo de su duracion, no se les reconocerá en la República la jurisdiccion eclesiástica i la cura de almas, ni podrán percibir rentas del tesoro nacional, salvo la congrua que fijará el tribunal.
+Cuando las penas de inhabilitación y suspensión recaigan en persona eclesiástica, sus efectos no se extenderán a los cargos, derechos y honores que tenga por la Iglesia. A los eclesiásticos incursos en tales penas y por todo el tiempo de su duración, no se les reconocerá en la República la jurisdicción eclesiástica y la cura de almas, ni podrán percibir rentas del tesoro nacional, salvo la congrua que fijará el tribunal.
 
-Esta disposicion no comprende a los obispos en lo concerniente al ejercicio de la jurisdiccion ordinaria que les corresponde.
+Esta disposición no comprende a los obispos en lo concerniente al ejercicio de la jurisdicción ordinaria que les corresponde.
 
 #### Artículo 42
 
-Los derechos políticos activos i pasivos a que se refieren los artículos anteriores, son: la capacidad para ser ciudadano elector, la capacidad para obtener cargos de eleccion popular i la capacidad para ser jurado. El que ha sido privado de ellos solo puede sor rehabilitado en su ejercicio en la forma prescrita por la Constitucion.
+Los derechos políticos activos y pasivos a que se refieren los artículos anteriores, son: la capacidad para ser ciudadano elector, la capacidad para obtener cargos de elección popular y la capacidad para ser jurado.
+
+El que ha sido privado de ellos sólo puede ser rehabilitado en su ejercicio en la forma prescrita por la Constitución.
 
 #### Artículo 43
 
-Cuando la inhabilitacion para cargos i oficios públicos i profesiones titulares es pena accesoria, no la comprende el indulto de la pena principal, a menos que espresamente se haga estensivo a ella.
+Cuando la inhabilitación para cargos y oficios públicos y profesiones titulares es pena accesoria, no la comprende el indulto de la pena principal, a menos que expresamente se haga extensivo a ella.
 
 #### Artículo 44
 
-El indulto de la pena de inhabilitacion perpetua o temporal para cargos i oficios públicos i profesiones titulares, repone al penado en el ejercicio de estas últimas, pero no en los honores, cargos, empleos u oficios de que se le hubiere privado. El mismo efecto produce el cumplimiento de la condena a inhabilitacion temporal.
+El indulto de la pena de inhabilitación perpetua o temporal para cargos y oficios públicos y profesiones titulares, repone al penado en el ejercicio de estas últimas, pero no en los honores, cargos, empleos u oficios de que se le hubiere privado. El mismo efecto produce el cumplimiento de la condena a inhabilitación temporal.
 
 #### Artículo 45
 
-La sujecion a la vijilancia de la autoridad da al juez de la causa el derecho de determinar ciertos lugares en los cuales le será prohibido al penado presentarse despues de haber cumplido su condena i de imponer a éste todas o algunas de las siguientes obligaciones:
+La sujeción a la vigilancia de la autoridad da al juez de la causa el derecho de determinar ciertos lugares en los cuales le será prohibido al penado presentarse después de haber cumplido su condena y de imponer a éste todas o algunas de las siguientes obligaciones:
 
-1.° La de declarar ántes de ser puesto en libertad, el lugar en que se propone fijar su residencia.
+1.° La de declarar antes de ser puesto en libertad, el lugar en que se propone fijar su residencia.
 
-2.° La de recibir una boleta de viaje en que se le determine el itinerario que debe seguir, del cual no podrá apartarse, i la duracion de su permanencia en cada lugar del tránsito.
+2.° La de recibir una boleta de viaje en que se le determine el itinerario que debe seguir, del cual no podrá apartarse, y la duración de su permanencia en cada lugar del tránsito.
 
 3.° La de presentarse dentro de las veinticuatro horas siguientes a su llegada, ante el funcionario designado en la boleta de viaje.
 
-4.° La de no poder cambiar de residencia sin haber dado aviso de ello, con tres dias de anticipacion, al mismo funcionario, quien le entregará la boleta de viaje primitiva visada para que se traslade a su nueva residencia.
+4.° La de no poder cambiar de residencia sin haber dado aviso de ello, con tres días de anticipación, al mismo funcionario, quien le entregará la boleta de viaje primitiva visada para que se traslade a su nueva residencia.
 
-5.a La de adoptar oficio, arte, industria o profesion, si no tuviere medios propios i conocidos de subsistencia.
+5.a La de adoptar oficio, arte, industria o profesión, si no tuviere medios propios y conocidos de subsistencia.
 
 #### Artículo 46
 
-La pena de caucion produce en el penado la obligacion de presentar un fiador abonado que responda o bien de que aquél no ejecutará el mal que se trata de precaver, o de que cumplirá su condena; obligándose a satisfacer, si causare el mal o quebrantare la condena, la cantidad que haya fijado el tribunal.
+La pena de caución produce en el penado la obligación de presentar un fiador abonado que responda o bien de que aquél no ejecutará el mal que se trata de precaver, o de que cumplirá su condena; obligándose a satisfacer, si causare el mal o quebrantare la condena, la cantidad que haya fijado el tribunal.
 
-Si el penado no presentare fiador, sufrirá una reclusion equivalente a la cuantía de la fianza, computándose un dia por cada dos pesos; pero sin poder en ningun caso exceder de dos años.
+Si el penado no presentare fiador, sufrirá una reclusión equivalente a la cuantía de la fianza, computándose un día por cada dos pesos; pero sin poder en ningún caso exceder de dos años.
 
 #### Artículo 47
 
-En todos los casos en que se imponga el pago de costas se entenderá comprender tanto las procesales como las personales i ademas los gastos ocasionados por el juicio i que no se incluyen en las costas. Estos gastos se fijarán por el tribunal, previa audiencia de las partes.
+En todos los casos en que se imponga el pago de costas se entenderá comprender tanto las procesales como las personales y además los gastos ocasionados por el juicio y que no se incluyen en las costas. Estos gastos se fijarán por el tribunal, previa audiencia de las partes.
 
 #### Artículo 48
 
-Si los bienes del culpable no fueren bastantes para cubrir las responsabilidades pecuniarias, se satisfarán éstas en el órden siguiente:
+Si los bienes del culpable no fueren bastantes para cubrir las responsabilidades pecuniarias, se satisfarán éstas en el orden siguiente:
 
-1.° Las costas procesales i personales.
+1.° Las costas procesales y personales.
 
 2.° El resarcimiento de los gastos ocasionados por el juicio.
 
-3.° La reparacion del daño causado e indemnizacion de perjuicios.
+3.° La reparación del daño causado e indemnización de perjuicios.
 
 4.° La multa.
 
@@ -522,45 +524,47 @@ En caso de concurso o quiebra, estos créditos se graduarán, considerándose co
 
 #### Artículo 49
 
-Si el sentenciado no tuviere bienes para satisfacer la multa, sufrirá por via de sustitucion i apremio, la pena de reclusion, regulándose un dia por cada peso; pero sin que ella pueda exceder nunca de dos años.
+Si el sentenciado no tuviere bienes para satisfacer la multa, sufrirá por vía de sustitución y apremio, la pena de reclusión, regulándose un día por cada peso; pero sin que ella pueda exceder nunca de dos años.
 
-Queda exento de este apremio el condenado a reclusion menor en su grado máximo o a otra pena mas grave.
+Queda exento de este apremio el condenado a reclusión menor en su grado máximo o a otra pena más grave.
 
-### IV. De la aplicacion de las penas
+### IV. De la aplicación de las penas
 
 #### Artículo 50
 
-A los autores de delito se impondrá la pena que para éste se hallare señalada por la lei.
+A los autores de delito se impondrá la pena que para éste se hallare señalada por la ley.
 
-Siempre que la lei designe la pena de un delito, se entiende que la impone al delito consumado.
+Siempre que la ley designe la pena de un delito, se entiende que la impone al delito consumado.
 
 #### Artículo 51
 
-A los autores de crímen o simple delito frustrado i a los cómplices de crímen o simple delito consumado, se impondrá la pena inmediatamente inferior en grado a la señalada por la lei para el crímen o simple delito.
+A los autores de crimen o simple delito frustrado y a los cómplices de crimen o simple delito consumado, se impondrá la pena inmediatamente inferior en grado a la señalada por la ley para el crimen o simple delito.
 
 #### Artículo 52
 
-A los autores de tentativa de crímen o simple delito, a los cómplices de crímen o simple delito frustrado i a los encubridores de crímen o simple delito consumado, se impondrá la pena inferior en dos grados a la que señala la lei para el crímen o simple delito.
+A los autores de tentativa de crimen o simple delito, a los cómplices de crimen o simple delito frustrado y a los encubridores de crimen o simple delito consumado, se impondrá la pena inferior en dos grados a la que señala la ley para el crimen o simple delito.
 
-Esceptúanse de esta regla los encubridores comprendidos en el núm. 3.° del art. 17, en quienes concurra la circunstancia primera del mismo número, a los cuales se impondrá la pena de inhabilitacion especial perpetua, si el delincuente encubierto fuere reo de crímen i la de inhabilitacion especial temporal en cualquiera de sus grados, si lo fuere de simple delito.
+Exceptúanse de esta regla los encubridores comprendidos en el núm. 3.° del art. 17, en quienes concurra la circunstancia primera del mismo número, a los cuales se impondrá la pena de inhabilitación especial perpetua, si el delincuente encubierto fuere reo de crimen y la de inhabilitación especial temporal en cualquiera de sus grados, si lo fuere de simple delito.
 
-Tambien se esceptúan los encubridores comprendidos en el núm. 4.° del mismo art. 17, a quienes se aplicará la pena de presidio menor en cualquiera de sus grados.
+También se exceptúan los encubridores comprendidos en el núm. 4.° del mismo art. 17, a quienes se aplicará la pena de presidio menor en cualquiera de sus grados.
 
 #### Artículo 53
 
-A los cómplices de tentativa de crímen o simple delito i a los encubridores de crímen o simple delito frustrado, se impondrá la pena inferior en tres grados a la que señala la lei para el crímen o simple delito.
+A los cómplices de tentativa de crimen o simple delito y a los encubridores de crimen o simple delito frustrado, se impondrá la pena inferior en tres grados a la que señala la ley para el crimen o simple delito.
 
 #### Artículo 54
 
-A los encubridores de tentativa de crímen o simple delito, se impondrá la pena inferior en cuatro grados a la señalada para el crímen o simple delito.
+A los encubridores de tentativa de crimen o simple delito, se impondrá la pena inferior en cuatro grados a la señalada para el crimen o simple delito.
 
 #### Artículo 55
 
-Las disposiciones jenerales contenidas en los cuatro artículos precedentes no tienen lugar en los casos en que el delito frustrado, la tentativa, la complicidad o el encubrimiento se hallan especialmente penados por la lei.
+Las disposiciones generales contenidas en los cuatro artículos precedentes no tienen lugar en los casos en que el delito frustrado, la tentativa, la complicidad o el encubrimiento se hallan especialmente penados por la ley.
 
 #### Artículo 56
 
-Las penas divisibles constan de tres grados, mínimo, medio i máximo, cuya estension se determina en la siguiente:
+Las penas divisibles constan de tres grados, mínimo, medio y máximo, cuya extensión se determina en la siguiente:
+
+TABLA DEMOSTRATIVA
 
 #### Artículo 57
 
@@ -568,11 +572,11 @@ Cada grado de una pena divisible constituye pena distinta.
 
 #### Artículo 58
 
-En los casos en que la lei señala una pena compuesta de dos o mas distintas, cada una de éstas forma un grado de penalidad, la mas leve de ellas el mínimo i la mas grave el máximo.
+En los casos en que la ley señala una pena compuesta de dos o más distintas, cada una de éstas forma un grado de penalidad, la más leve de ellas el mínimo y la más grave el máximo.
 
 #### Artículo 59
 
-Para determinar las penas que deben imponerse segun los arts. 51, 52, 53 i 54: 1.° a los autores de crímen o simple delito frustrado; 2.° a los autores de tentativa de crímen o simple delito, cómplices de crímen o simple delito frustrado i encubridores de crímen o simple delito consumado; 3.° a los cómplices de tentativa de crímen o simple delito i encubridores de crímen o simple delito frustrado, i 4.° a los encubridores de tentativa de crímen o simple delito, el tribunal tomará por base las siguientes escalas graduales:
+Para determinar las penas que deben imponerse según los arts. 51, 52, 53 y 54: 1.° a los autores de crimen o simple delito frustrado; 2.° a los autores de tentativa de crimen o simple delito, cómplices de crimen o simple delito frustrado y encubridores de crimen o simple delito consumado; 3.° a los cómplices de tentativa de crimen o simple delito y encubridores de crimen o simple delito frustrado, y 4.° a los encubridores de tentativa de crimen o simple delito, el tribunal tomará por base las siguientes escalas graduales:
 
 .
 
@@ -580,139 +584,141 @@ Para determinar las penas que deben imponerse segun los arts. 51, 52, 53 i 54: 1
 
 La multa se considera como la pena inmediatamente inferior a la última en todas las escalas graduales.
 
-Para fijar su cuantía respectiva se adoptará la base establecida en el art. 25, i en cuanto a su aplicacion a cada caso especial se observará lo que prescribe el art. 70.
+Para fijar su cuantía respectiva se adoptará la base establecida en el art. 25, y en cuanto a su aplicación a cada caso especial se observará lo que prescribe el art. 70.
 
-El producto de las multas se aplicará a fondos municipales del departamento o territorio municipal donde se cometió el delito que se castiga. Si un reo es condenado por dos o mas delitos cometidos en diversos territorios municipales, la multa se dividirá por iguales partes entre las municipalidades respectivas.
+El producto de las multas se aplicará a fondos municipales del departamento o territorio municipal donde se cometió el delito que se castiga. Si un reo es condenado por dos o más delitos cometidos en diversos territorios municipales, la multa se dividirá por iguales partes entre las municipalidades respectivas.
 
 #### Artículo 61
 
-La designacion de las penas que correspondo aplicar en los diversos casos a que se refiere el art. 59, se hará con sujecion a las siguientes reglas:
+La designación de las penas que corresponde aplicar en los diversos casos a que se refiere el art. 59, se hará con sujeción a las siguientes reglas:
 
-1.° Si la pena señalada al delito es una indivisible o un solo grado de otra divisible, corresponde a los autores de crímen o simple delito frustrado i a los cómplices de crímen o simple delito consumado la inmediatamente inferior en grado.
+1.° Si la pena señalada al delito es una indivisible o un solo grado de otra divisible, corresponde a los autores de crimen o simple delito frustrado y a los cómplices de crimen o simple delito consumado la inmediatamente inferior en grado.
 
-Para determinar las que deben aplicarse a los demas responsables relacionados en el art. 59, se bajará sucesivamente un grado en la escala correspondiente respecto de los comprendidos en cada uno de sus números, siguiendo el órden que en ese artículo se establece.
+Para determinar las que deben aplicarse a los demás responsables relacionados en el art. 59, se bajará sucesivamente un grado en la escala correspondiente respecto de los comprendidos en cada uno de sus números, siguiendo el orden que en ese artículo se establece.
 
-2.° Cuando la pena que se señala al delito consta de dos o mas grados, sea que los compongan dos penas indivisibles, diversos grados de penas divisibles o bien una o dos indivisibles i uno o mas grados de otra divisible, a los autores de crímen o simple delito frustrado i a los cómplices de crímen o simple delito consumado corresponde la inmediatamente inferior en grado al mínimo de los designados por la lei.
+2.° Cuando la pena que se señala al delito consta de dos o más grados, sea que los compongan dos penas indivisibles, diversos grados de penas divisibles o bien una o dos indivisibles y uno o más grados de otra divisible, a los autores de crimen o simple delito frustrado y a los cómplices de crimen o simple delito consumado corresponde la inmediatamente inferior en grado al mínimo de los designados por la ley.
 
-Para determinar las que deben aplicarse a los demas responsables se observará lo prescrito en la regla anterior.
+Para determinar las que deben aplicarse a los demás responsables se observará lo prescrito en la regla anterior.
 
-3.° Si se designan para un delito penas alternativas, sea que se hallen comprendidas en la misma escala o en dos o mas distintas, no estará obligado el tribunal a imponer a todos los responsables las de la misma naturaleza.
+3.° Si se designan para un delito penas alternativas, sea que se hallen comprendidas en la misma escala o en dos o más distintas, no estará obligado el tribunal a imponer a todos los responsables las de la misma naturaleza.
 
-4.° Cuando se señalan al delito copulativamente penas comprendidas en distintas escalas o se agrega la multa a las de la misma escala, se aplicarán unas i otras, con sujecion a las reglas 1.° i 2.°, a todos los responsables; pero cuando una de dichas penas se impone al autor de crímen o simple delito por circunstancias peculiares a él que no concurren en los demas, no se hará estensiva a éstos.
+4.° Cuando se señalan al delito copulativamente penas comprendidas en distintas escalas o se agrega la multa a las de la misma escala, se aplicarán unas y otras, con sujeción a las reglas 1.° y 2.°, a todos los responsables; pero cuando una de dichas penas se impone al autor de crimen o simple delito por circunstancias peculiares a él que no concurren en los demás, no se hará extensiva a éstos.
 
-5.° Si al poner en práctica las reglas precedentes no resultare pena que imponer por falta de grados inferiores o por no ser aplicables las de inhabilitacion o suspension, se impondrá siempre la multa.
+5.° Si al poner en práctica las reglas precedentes no resultare pena que imponer por falta de grados inferiores o por no ser aplicables las de inhabilitación o suspensión, se impondrá siempre la multa.
+
+APLICACION PRACTICA DE LAS REGLAS ANTERIORES
 
 #### Artículo 62
 
-Las circunstancias atenuantes o agravantes se tomarán en consideracion para disminuir o aumentar la pena en los casos i conforme a las reglas que se prescriben en los artículos siguientes.
+Las circunstancias atenuantes o agravantes se tomarán en consideración para disminuir o aumentar la pena en los casos y conforme a las reglas que se prescriben en los artículos siguientes.
 
 #### Artículo 63
 
-No producen el efecto de aumentar la pena las circunstancias agravantes que por sí mismas constituyen un delito especialmente penado por la lei, o que ésta haya espresado al describirlo i penarlo.
+No producen el efecto de aumentar la pena las circunstancias agravantes que por sí mismas constituyen un delito especialmente penado por la ley, o que ésta haya expresado al describirlo y penarlo.
 
 Tampoco lo producen aquellas circunstancias agravantes de tal manera inherentes al delito que sin la concurrencia de ellas no puede cometerse.
 
 #### Artículo 64
 
-Las circunstancias atenuantes o agravantes que consistan en la disposicion moral del delincuente, en sus relaciones particulares con el ofendido o en otra causa personal, servirán para atenuar o agravar la responsabilidad de solo aquellos autores, cómplices o encubridores en quienes concurran.
+Las circunstancias atenuantes o agravantes que consistan en la disposición moral del delincuente, en sus relaciones particulares con el ofendido o en otra causa personal, servirán para atenuar o agravar la responsabilidad de sólo aquellos autores, cómplices o encubridores en quienes concurran.
 
-Las que consistan en la ejecucion material del hecho o en los medios empleados para realizarlo, servirán para atenuar o agravar la responsabilidad únicamente de los que tuvieren conocimiento de ellas ántes o en el momento de la accion o de su cooperacion para el delito.
+Las que consistan en la ejecución material del hecho o en los medios empleados para realizarlo, servirán para atenuar o agravar la responsabilidad únicamente de los que tuvieren conocimiento de ellas antes o en el momento de la acción o de su cooperación para el delito.
 
 #### Artículo 65
 
-Cuando la lei señala una sola pena indivisible, la aplicará el tribunal sin consideracion a las circunstancias agravantes que concurran en el hecho. Pero si hai dos o mas circunstancias atenuantes o una mui calificada i no concurre ninguna agravante, podrá aplicar la pena inmediatamente inferior en grado.
+Cuando la ley señala una sola pena indivisible, la aplicará el tribunal sin consideración a las circunstancias agravantes que concurran en el hecho. Pero si hay dos o más circunstancias atenuantes o una muy calificada y no concurre ninguna agravante, podrá aplicar la pena inmediatamente inferior en grado.
 
 #### Artículo 66
 
-Si la lei señala una pena compuesta de dos indivisibles i no acompañan al hecho circunstancias atenuantes ni agravantes, puede el tribunal imponerla en cualquiera de sus grados.
+Si la ley señala una pena compuesta de dos indivisibles y no acompañan al hecho circunstancias atenuantes ni agravantes, puede el tribunal imponerla en cualquiera de sus grados.
 
-Cuando solo concurre alguna circunstancia atenuante, debe aplicarla en su grado mínimo, i si habiendo una circunstancia agravante, no concurre ninguna atenuante, la impondrá en su grado máximo.
+Cuando solo concurre alguna circunstancia atenuante, debe aplicarla en su grado mínimo, y si habiendo una circunstancia agravante, no concurre ninguna atenuante, la impondrá en su grado máximo.
 
-Siendo dos o mas las circunstancias atenuantes sin que concurra ninguna agravante, podrá imponer la pena inferior, en uno o dos grados al mínimo de los señalados por la lei, segun sea el número i entidad de dichas circunstancias.
+Siendo dos o más las circunstancias atenuantes sin que concurra ninguna agravante, podrá imponer la pena inferior, en uno o dos grados al mínimo de los señalados por la ley, según sea el número y entidad de dichas circunstancias.
 
-Si concurrieren circunstancias atenuantes i agravantes, las compensará racionalmente el tribunal para la aplicacion de la pena, graduando el valor de unas i otras.
+Si concurrieren circunstancias atenuantes y agravantes, las compensará racionalmente el tribunal para la aplicación de la pena, graduando el valor de unas y otras.
 
 #### Artículo 67
 
-Cuando la pena señalada al delito es un grado de una divisible i no concurren circunstancias atenuantes ni agravantes en el hecho, el tribunal puede recorrer toda su estension al aplicarla.
+Cuando la pena señalada al delito es un grado de una divisible y no concurren circunstancias atenuantes ni agravantes en el hecho, el tribunal puede recorrer toda su extensión al aplicarla.
 
-Si concurre solo una circunstancia atenuante o solo una agravante, la aplicará en el primer caso en su mínimum i en el segundo en su máximum.
+Si concurre sólo una circunstancia atenuante o sólo una agravante, la aplicará en el primer caso en su mínimum y en el segundo en su máximum.
 
-Para determinar en tales casos el mínimum i el máximum de la pena, se divide por mitad el período de su duracion: la mas alta de estas partes formará el máximum i la mas baja el mínimum.
+Para determinar en tales casos el mínimum y el máximum de la pena, se divide por mitad el período de su duración: la más alta de estas partes formará el máximum y la más baja el mínimum.
 
-Siendo dos o mas las circunstancias atenuantes i no habiendo ninguna agravante, podrá el tribunal imponer la inferior en uno o dos grados, segun sea el número i entidad de dichas circunstancias.
+Siendo dos o más las circunstancias atenuantes y no habiendo ninguna agravante, podrá el tribunal imponer la inferior en uno o dos grados, según sea el número y entidad de dichas circunstancias.
 
-Si hai dos o mas circunstancias agravantes i ninguna atenuante, puede aplicar la pena superior en un grado.
+Si hay dos o más circunstancias agravantes y ninguna atenuante, puede aplicar la pena superior en un grado.
 
-En el caso de concurrir circunstancias atenuantes i agravantes, se hará su compensacion racional para la aplicacion de la pena, graduando el valor de unas i otras.
+En el caso de concurrir circunstancias atenuantes y agravantes, se hará su compensación racional para la aplicación de la pena, graduando el valor de unas y otras.
 
 #### Artículo 68
 
-Cuando la pena señalada por la lei consta de dos o mas grados, bien sea que los formen una o dos penas indivisibles i uno o mas grados de otra divisible, o diversos grados de penas divisibles, el tribunal al aplicarla podrá recorrer toda su estension, si no concurren en el hecho circunstancias atenuantes ni agravantes.
+Cuando la pena señalada por la ley consta de dos o más grados, bien sea que los formen una o dos penas indivisibles y uno o más grados de otra divisible, o diversos grados de penas divisibles, el tribunal al aplicarla podrá recorrer toda su extensión, si no concurren en el hecho circunstancias atenuantes ni agravantes.
 
-Habiendo una sola circunstancia atenuante o una sola circunstancia agravante, no aplicará en el primer caso el grado máximo ni en el segundo el mínimo.
+Habiendo una sola circunstancia atenuante o una sola circunstancia agravante, no aplicará en el
 
-Si son dos o mas las circunstancias atenuantes i no hai ninguna agravante, el tribunal podrá imponer la pena inferior en uno, dos o tres grados al mínimo de los señalados por la lei, segun sea el número i entidad de dichas circunstancias.
+primer caso el grado máximo ni en el segundo el mínimo.
 
-Cuando, no concurriendo circunstancias atenuantes, hai dos o mas agravantes, podrá imponer la inmediatamente superior en grado al máximo de los designados por la lei. Si el grado máximo de los designados lo formare en tal caso la pena de muerte, se aplicará ésta precisamente.
+Si son dos o más las circunstancias atenuantes y no hay ninguna agravante, el tribunal podrá imponer la pena inferior en uno, dos o tres grados al mínimo de los señalados por la ley, según sea el número y entidad de dichas circunstancias.
 
-Concurriendo circunstancias atenuantes i agravantes, se observará lo prescrito en los artículos anteriores para casos análogos.
+Cuando, no concurriendo circunstancias atenuantes, hay dos o más agravantes, podrá imponer la inmediatamente superior en grado al máximo de los designados por la ley. Si el grado máximo de los designados lo formare en tal caso la pena de muerte, se aplicará ésta precisamente.
+
+Concurriendo circunstancias atenuantes y agravantes, se observará lo prescrito en los artículos anteriores para casos análogos.
 
 #### Artículo 69
 
-Dentro de los límites de cada grado el tribunal determinará la cuantía de la pena en atencion al número i entidad de las circunstancias atenuantes i agravantes i a la mayor o menor estension del mal producido por el delito.
+Dentro de los límites de cada grado el tribunal determinará la cuantía de la pena en atención al número y entidad de las circunstancias atenuantes y agravantes y a la mayor o menor extensión del mal producido por el delito.
 
 #### Artículo 70
 
-En la aplicacion de las multas el tribunal podrá recorrer toda la estension en que la lei le permite imponerlas, consultando para determinar en cada caso su cuantía, no solo las circunstancias atenuantes i agravantes del hecho, sino principalmente el caudal o facultades del culpable.
+En la aplicación de las multas el tribunal podrá recorrer toda la extensión en que la ley le permite imponerlas, consultando para determinar en cada caso su cuantía, no sólo las circunstancias atenuantes y agravantes del hecho, sino principalmente el caudal o facultades del culpable.
 
 #### Artículo 71
 
-Cuando no concurran todos los requisitos que se exijen en el caso del núm. 8.° del art. 10 para eximir de responsabilidad, se observará lo dispuesto en el art. 490.
+Cuando no concurran todos los requisitos que se exigen en el caso del núm. 8.° del art. 10 para eximir de responsabilidad, se observará lo dispuesto en el art. 490.
 
 #### Artículo 72
 
-Al menor de diez i seis años i mayor de diez, que no esté exento de responsabilidad por haber declarado el tribunal que obró con discernimiento, se le impondrá una pena discrecional; pero siempre inferior en dos grados, por lo ménos, al mínimo de los señalados por la lei para el delito de que fuere responsable.
-
-Al mayor de diez i seis años i menor de diez i ocho se aplicará siempre una pena inferior en uno, dos o tres grados al mínimo de los designados por la lei para el delito.
+Al menor de veinte años y mayor de dieciséis, que no esté exento de responsabilidad, por haber declarado el tribunal respectivo que obró con discernimiento, se le impondrá una pena discrecional, pero siempre inferior en dos grados, por lo menos, al mínimo de los señalados por la ley para el delito de que fuere responsable.
 
 #### Artículo 73
 
-Se aplicará asimismo la pena inferior en uno, dos o tres grados al mínimo de los señalados por la lei, cuando el hecho no fuere del todo escusable por falta de alguno de los requisitos que se exijen para eximir de responsabilidad criminal en los respectivos casos de que trata el art. 10, siempre que concurra el mayor número de ellos, imponiéndola en el grado que el tribunal estime correspondiente, atendido el número entidad de los requisitos que falten o concurran.
+Se aplicará asimismo la pena inferior en uno, dos o tres grados al mínimo de los señalados por la ley, cuando el hecho no fuere del todo excusable por falta de alguno de los requisitos que se exigen para eximir de responsabilidad criminal en los respectivos casos de que trata el art. 10, siempre que concurra el mayor número de ellos, imponiéndola en el grado que el tribunal estime correspondiente, atendido el número entidad de los requisitos que falten o concurran.
 
-Esta disposicion se entiende sin perjuicio de la contenida en el art. 71.
+Esta disposición se entiende sin perjuicio de la contenida en el art. 71.
 
 #### Artículo 74
 
-Al culpable de dos o mas delitos se le impondrán todas las penas correspondientes a las diversas infracciones.
+Al culpable de dos o más delitos se le impondrán todas las penas correspondientes a las diversas infracciones.
 
-El sentenciado cumplirá todas sus condenas simultáneamente, siendo posible. Cuando no lo fuere, o si de ello hubiere de resultar ilusoria alguna de las penas, las sufrirá en órden sucesivo, principiando por las mas graves o sea las mas altas en la escala respectiva, escepto las de confinamiento, estrañamiento, relegacion i destierro, las cuales se ejecutarán despues de haber cumplido cualquiera otra pena de las comprendidas en la escala gradual núm. 1.
+El sentenciado cumplirá todas sus condenas simultáneamente, siendo posible. Cuando no lo fuere, o si de ello hubiere de resultar ilusoria alguna de las penas, las sufrirá en orden sucesivo, principiando por las más graves o sea las más altas en la escala respectiva, excepto las de confinamiento, extrañamiento, relegación y destierro, las cuales se ejecutarán después de haber cumplido cualquiera otra pena de las comprendidas en la escala gradual núm. 1.
 
 #### Artículo 75
 
-La disposicion del artículo anterior no es aplicable en el caso de que un solo hecho constituya dos o mas delitos, o cuando uno de ellos sea el medio necesario para cometer el otro.
+La disposición del artículo anterior no es aplicable en el caso de que un solo hecho constituya dos o más delitos, o cuando uno de ellos sea el medio necesario para cometer el otro.
 
-En estos casos solo se impondrá la pena mayor asignada al delito mas grave.
+En estos casos sólo se impondrá la pena mayor asignada al delito más grave.
 
 #### Artículo 76
 
-Siempre que el tribunal imponga una pena que lleve consigo otras por disposicion de la lei, segun lo prescrito en el § III de este título, condenará tambien al reo espresamente en estas últimas.
+Siempre que el tribunal imponga una pena que lleve consigo otras por disposición de la ley, según lo prescrito en el § III de este título, condenará también al reo expresamente en estas últimas.
 
 #### Artículo 77
 
-En los casos en que la lei señala una pena inferior o superior en uno o mas grados a otra determinada, la pena inferior o superior se tomará de la escala gradual en que se halle comprendida la pena determinada.
+En los casos en que la ley señala una pena inferior o superior en uno o más grados a otra determinada, la pena inferior o superior se tomará de la escala gradual en que se halle comprendida la pena determinada.
 
 Si no hubiere pena superior en la escala gradual respectiva o la pena superior fuere la de muerte, se impondrá el presidio perpetuo.
 
 Faltando pena inferior se aplicará siempre la multa.
 
-Cuando sea preciso elevar las inhabilitaciones absolutas o especiales perpetuas a grados superiores, se agravarán con la reclusion menor en su grado medio.
+Cuando sea preciso elevar las inhabilitaciones absolutas o especiales perpetuas a grados superiores, se agravarán con la reclusión menor en su grado medio.
 
 #### Artículo 78
 
-Siempre que sea necesario determinar la correspondencia entre las penas de este Código i las impuestas con anterioridad a su vijencia, se hará tomando en cuenta la naturaleza de éstas i el período de su duracion. Así por ejemplo, cuatro años de presidio o de penitenciaria equivalen a presidio menor en su grado máximo.
+Siempre que sea necesario determinar la correspondencia entre las penas de este Código y las impuestas con anterioridad a su vigencia, se hará tomando en cuenta la naturaleza de éstas y el período de su duración. Así por ejemplo, cuatro años de presidio o de penitenciaria equivalen a presidio menor en su grado máximo.
 
-### V. De la ejecucion de las penas i de su cumplimiento
+### V. De la ejecución de las penas y de su cumplimiento
 
 #### Artículo 79
 
@@ -720,33 +726,33 @@ No podrá ejecutarse pena alguna sino en virtud de sentencia ejecutoriada.
 
 #### Artículo 80
 
-Tampoco puede ser ejecutada pena alguna en otra forma que la prescrita por la lei, ni con otras circunstancias o accidentes que los espresados en su testo.
+Tampoco puede ser ejecutada pena alguna en otra forma que la prescrita por la ley, ni con otras circunstancias o accidentes que los expresados en su texto.
 
-Se observará tambien ademas de lo que dispone la lei, lo que se determine en los reglamentos especiales para el gobierno de los establecimientos en que deben cumplirse las penas, acerca de los castigos disciplinarios, de la naturaleza, tiempo i demas circunstancias de los trabajos, de las relaciones de los penados con otras personas, de los socorros que pueden recibir i del réjimen alimenticio.
+Se observará también además de lo que dispone la ley, lo que se determine en los reglamentos especiales para el gobierno de los establecimientos en que deben cumplirse las penas, acerca de los castigos disciplinarios, de la naturaleza, tiempo y demás circunstancias de los trabajos, de las relaciones de los penados con otras personas, de los socorros que pueden recibir y del régimen alimenticio.
 
-En los reglamentos solo podrán imponerse como castigos disciplinarios, los de cadena o grillete, encierro en celda solitaria e incomunicacion con personas estrañas al establecimiento penal por un tiempo que no exceda de un mes, u otros de menor gravedad.
+En los reglamentos sólo podrán imponerse como castigos disciplinarios, los de cadena o grillete, encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal por un tiempo que no exceda de un mes, u otros de menor gravedad.
 
 #### Artículo 81
 
-Si despues de cometido el delito cayere el delincuente en estado de locura o demencia, se observarán las reglas siguientes:
+Si después de cometido el delito cayere el delincuente en estado de locura o demencia, se observarán las reglas siguientes:
 
-1.° Cuando la locura o demencia sobrevenga ántes de pronunciarse la sentencia de término, se suspenderán los efectos de ésta sin aplicarse al reo pena alguna corporal hasta que recobre la razon, observándose lo que para tales casos se determine en el Código de procedimientos.
+1.° Cuando la locura o demencia sobrevenga antes de pronunciarse la sentencia de término, se suspenderán los efectos de ésta sin aplicarse al reo pena alguna corporal hasta que recobre la razón, observándose lo que para tales casos se determine en el Código de procedimientos.
 
-2.° Cuando tenga lugar despues de pronunciarse dicha sentencia, si ella le impone pena de crímen, el tribunal dispondrá su traslacion a uno de los hospitales destinados a los enfermos de aquella clase, i si la pena fuere menor podrá acordar, segun las circunstancias, o bien que sea entregado a su familia bajo fianza de custodia i de tenerle a disposicion del mismo tribunal o que se le recluya en un hospital de insanos.
+2.° Cuando tenga lugar después de pronunciarse dicha sentencia, si ella le impone pena de crimen, el tribunal dispondrá su traslación a uno de los hospitales destinados a los enfermos de aquella clase, y si la pena fuere menor podrá acordar, según las circunstancias, o bien que sea entregado a su familia bajo fianza de custodia y de tenerle a disposición del mismo tribunal o que se le recluya en un hospital de insanos.
 
-En cualquier tiempo que el loco o demente recobre el juicio se hará efectiva la sentencia; pero si ella le impusiere privacion o restriccion temporal de libertad, se imputará a su duracion el tiempo de la locura o demencia.
+En cualquier tiempo que el loco o demente recobre el juicio se hará efectiva la sentencia; pero si ella le impusiere privación o restricción temporal de libertad, se imputará a su duración el tiempo de la locura o demencia.
 
 #### Artículo 82
 
 Todo condenado a muerte será fusilado.
 
-La ejecucion se verificará de dia i con publicidad en el lugar jeneralmente designado para este efecto o en el que el tribunal determine cuando haya causa especial para ello.
+La ejecución se verificará de día y con publicidad en el lugar generalmente designado para este efecto o en el que el tribunal determine cuando haya causa especial para ello.
 
-Esta pena se ejecutará tres dias despues de notificado al reo el cúmplase de la sentencia ejecutoria; pero si el vencimiento de este plazo correspondiere a uno o mas dias de fiesta relijiosa o nacional, se postergará para el siguiente.
+Esta pena se ejecutará tres días después de notificado al reo el cúmplase de la sentencia ejecutoria; pero si el vencimiento de este plazo correspondiere a uno o más días de fiesta religiosa o nacional, se postergará para el siguiente.
 
 #### Artículo 83
 
-El reo acompañado del sacerdote o ministro del culto cuyo ausilio hubiere pedido o aceptado, será conducido al lugar del suplicio en un carruaje celular. Llegado allí será sacado del carruaje e inmediatamente ejecutado.
+El reo acompañado del sacerdote o ministro del culto cuyo auxilio hubiere pedido o aceptado, será conducido al lugar del suplicio en un carruaje celular. Llegado allí será sacado del carruaje e inmediatamente ejecutado.
 
 #### Artículo 84
 
@@ -754,15 +760,15 @@ El cadáver del ajusticiado será entregado a su familia, si ésta lo pidiere, q
 
 #### Artículo 85
 
-No se ejecutará la pena de muerte en la mujer que se halle en cinta, ni se le notificará la sentencia en que se le imponga hasta que hayan pasado cuarenta dias despues del alumbramiento.
+No se ejecutará la pena de muerte en la mujer que se halle en cinta, ni se le notificará la sentencia en que se le imponga hasta que hayan pasado cuarenta días después del alumbramiento.
 
 #### Artículo 86
 
-Los condenados a presidio perpetuo, reclusion perpetua, presidio mayor i reclusion mayor, cumplirán sus condenas en las cárceles penitenciarias. De esta regla se esceptúa a las mujeres, quienes, mientras no se construyan en dichas cárceles departamentos especiales para ellas, las cumplirán en las casas de correccion, lo mismo que las de presidio menor, reclusion menor i prision.
+Los condenados a presidio perpetuo, reclusión perpetua, presidio mayor y reclusión mayor, cumplirán sus condenas en las cárceles penitenciarias. De esta regla se exceptúa a las mujeres, quienes, mientras no se construyan en dichas cárceles departamentos especiales para ellas, las cumplirán en las casas de corrección, lo mismo que las de presidio menor, reclusión menor y prisión.
 
 #### Artículo 87
 
-Los condenados a presidio menor i reclusion menor cumplirán sus condenas en los presidios; los condenados a prision las cumplirán en las cárceles. En unos i otros establecimientos deberá mantenerse con la correspondiente separacion a los reos menores de diez i seis años, miéntras no se construyan otros especiales para ellos.
+Los condenados a presidio menor y reclusión menor, cumplirán sus condenas en los presidios; los condenados a prisión, las cumplirán en las cárceles. En unos y otros establecimientos deberán mantenerse con la correspondiente separación a los reos menores de veinte años, mientras no se construyan otros especiales para que cumplan sus condenas.
 
 #### Artículo 88
 
@@ -770,7 +776,7 @@ El producto del trabajo de los condenados a presidio será destinado:
 
 1.° A indemnizar al establecimiento de los gastos que ocasionen.
 
-2.° A proporcionarles alguna ventaja o alivio durante su detencion, si lo merecieren.
+2.° A proporcionarles alguna ventaja o alivio durante su detención, si lo merecieren.
 
 3.° A hacer efectiva la responsabilidad civil de aquellos proveniente del delito.
 
@@ -778,11 +784,11 @@ El producto del trabajo de los condenados a presidio será destinado:
 
 #### Artículo 89
 
-Los condenados a reclusion i prision son libres para ocuparse, en beneficio propio, en trabajos de su eleccion, siempre que sean compatibles con la disciplina reglamentaria del establecimiento penal; pero si afectándoles las responsabilidades de las reglas 1.° i 3.° del artículo anterior, carecieren de los medios necesarios para llenar los compromisos que ellas les imponen o no tuvieren oficio o modo de vivir conocido i honesto, estarán sujetos forzosamente a los trabajos del establecimiento hasta hacer efectivas con su producto aquellas responsabilidades i procurarse la subsistencia.
+Los condenados a reclusión y prisión son libres para ocuparse, en beneficio propio, en trabajos de su elección, siempre que sean compatibles con la disciplina reglamentaria del establecimiento penal; pero si afectándoles las responsabilidades de las reglas 1.° y 3.° del artículo anterior, carecieren de los medios necesarios para llenar los compromisos que ellas les imponen o no tuvieren oficio o modo de vivir conocido y honesto, estarán sujetos forzosamente a los trabajos del establecimiento hasta hacer efectivas con su producto aquellas responsabilidades y procurarse la subsistencia.
 
 ## Título CUART0
 
-DE LAS PENAS EN QUE INCURREN LOS QUE QUEBRANTAN LAS SENTENCIAS I LOS QUE DURANTE UNA CONDENA DELINQUEN DE NUEVO.
+DE LAS PENAS EN QUE INCURREN LOS QUE QUEBRANTAN LAS SENTENCIAS Y LOS QUE DURANTE UNA CONDENA DELINQUEN DE NUEVO.
 
 ### I. De las penas en que Incurren los que quebrantan las sentencias
 
@@ -790,111 +796,111 @@ DE LAS PENAS EN QUE INCURREN LOS QUE QUEBRANTAN LAS SENTENCIAS I LOS QUE DURANTE
 
 Los sentenciados que quebrantaren su condena serán castigados con las penas que respectivamente se designan en los números siguientes:
 
-1.° Los condenados a presidio, reclusion o prision sufrirán la pena de incomunicacion con personas estrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá estenderse hasta un año, quedando durante el mismo tiempo sujetos al réjimen mas estricto del establecimiento.
+1.° Los condenados a presidio, reclusión o prisión sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un tiempo que, atendidas las circunstancias, podrá extenderse hasta un año, quedando durante el mismo tiempo sujetos al régimen más estricto del establecimiento.
 
-2.° En caso de reincidencia en el quebrantamiento de dichas condenas sufrirán, a mas de las penas de la regla anterior, la de cadena o grillete por un tiempo que, atendidas las circunstancias, podrá estenderse hasta un año.
+2.° En caso de reincidencia en el quebrantamiento de dichas condenas sufrirán, a más de las penas de la regla anterior, la de cadena o grillete por un tiempo que, atendidas las circunstancias, podrá extenderse hasta un año.
 
-3.° Los consuetudinarios en el quebrantamiento de tales condenas, entendiéndose por tales los que lo hubieren verificado mas de dos veces, serán encerrados en celda solitaria por un término prudencial, atendidas las circunstancias, que no podrá exceder de la mitad del que les falte por cumplir de la pena principal, conforme a lo prescrito en el art. 25.
+3.° Los consuetudinarios en el quebrantamiento de tales condenas, entendiéndose por tales los que lo hubieren verificado más de dos veces, serán encerrados en celda solitaria por un término prudencial, atendidas las circunstancias, que no podrá exceder de la mitad del que les falte por cumplir de la pena principal, conforme a lo prescrito en el art. 25.
 
-4.° Los condenados a confinamiento, estrañamiento, relegacion o destierro, sufrirán las penas de presidio, reclusion o prision, segun las reglas siguientes:
+4.° Los condenados a confinamiento, extrañamiento, relegación o destierro, sufrirán las penas de presidio, reclusión o prisión, según las reglas siguientes:
 
-Primera.-El condenado a relegacion perpetua sufrirá la de presidio mayor en su grado medio.
+Primera.-El condenado a relegación perpetua sufrirá la de presidio mayor en su grado medio.
 
-Segunda.-El condenado a confinamiento o estrañamiento sufrirá la de presidio, por la mitad del tiempo que le falte por cumplir de la pena primitiva.
+Segunda.-El condenado a confinamiento o extrañamiento sufrirá la de presidio, por la mitad del tiempo que le falte por cumplir de la pena primitiva.
 
-Tercera.-El condenado a relegacion temporal o a destierro sufrirá la de reclusion o prision por la mitad del tiempo que le falte por cumplir de la pena primitiva.
+Tercera.-El condenado a relegación temporal o a destierro sufrirá la de reclusión o prisión por la mitad del tiempo que le falte por cumplir de la pena primitiva.
 
-5.° El inhabilitado para cargos i oficios públicos, derechos políticos i profesiones titulares que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusion menor en su grado mínimo o multa de ciento a mil pesos.
+5.° El inhabilitado para cargos y oficios públicos, derechos políticos y profesiones titulares que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a mil pesos.
 
 En caso de reincidencia se doblará esta pena.
 
-6.° El suspenso de cargo u oficio público o profesion titular que los ejerciere, sufrirá un recargo por igual tiempo al de su primitiva condena.
+6.° El suspenso de cargo u oficio público o profesión titular que los ejerciere, sufrirá un recargo por igual tiempo al de su primitiva condena.
 
-En caso de reincidencia sufrirá la pena de reclusion menor en su grado mínimo o multa de ciento a mil pesos.
+En caso de reincidencia sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a mil pesos.
 
-7.° El sometido a la vijilancia de la autoridad, que faltare a las reglas que debe observar, sufrirá la pena de reclusion menor en sus grados mínimo a medio.
+7.° El sometido a la vigilancia de la autoridad, que faltare a las reglas que debe observar, sufrirá la pena de reclusión menor en sus grados mínimo a medio.
 
 ### II. De las penas en que incurren los que durante una condena delinquen de nuevo
 
 #### Artículo 91
 
-Los que despues de haber sido condenados por sentencia ejecutoria cometieren algun crímen o simple delito durante el tiempo de su condena, bien sea miéntras la cumplen o despues de haberla quebrantado, sufrirán la pena que la lei señala al nuevo crímen o simple delito que cometieren, debiendo cumplir esta condena i la primitiva por el órden que el tribunal prefije en la sentencia, de conformidad con las reglas prescritas en el art. 74 para el caso de imponerse varias penas al mismo delincuente.
+Los que después de haber sido condenados por sentencia ejecutoria cometieren algún crimen o simple delito durante el tiempo de su condena, bien sea mientras la cumplen o después de haberla quebrantado, sufrirán la pena que la ley señala al nuevo crimen o simple delito que cometieren, debiendo cumplir esta condena y la primitiva por el orden que el tribunal prefije en la sentencia, de conformidad con las reglas prescritas en el art. 74 para el caso de imponerse varias penas al mismo delincuente.
 
-Cuando en el caso de este artículo el nuevo crímen debiere penarse con presidio o reclusion perpetuos i el delincuente se hallare cumpliendo alguna de estas penas, sufrirá la de muerte.
+Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, sufrirá la de muerte.
 
-Si el nuevo crímen o simple delito tuviere señalada otra pena menor, se agravará la de presidio perpetuo o de reclusion perpetua con las de cadena o grillete, encierro en celda solitaria e incomunicacion con personas estrañas al establecimiento penal, que podrán aplicarse, a arbitrio del tribunal, separada o conjuntamente i hasta por el máximum del tiempo que permite el art. 25.
+Si el nuevo crimen o simple delito tuviere señalada otra pena menor, se agravará la de presidio perpetuo o de reclusión perpetua con las de cadena o grillete, encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal, que podrán aplicarse, a arbitrio del tribunal, separada o conjuntamente y hasta por el máximum del tiempo que permite el art. 25.
 
-En el caso de que el nuevo crímen deba penarse con relegacion perpetua i el delincuente se halle cumpliendo la misma pena, se le impondrá la de presidio mayor en su grado medio, dándose por terminada la de relegacion.
+En el caso de que el nuevo crimen deba penarse con relegación perpetua y el delincuente se halle cumpliendo la misma pena, se le impondrá la de presidio mayor en su grado medio, dándose por terminada la de relegación.
 
-Cuando la pena que mereciere el nuevo crímen o simple delito fuere otra menor, se observará lo prescrito en el acápite primero del presente artículo.
+Cuando la pena que mereciere el nuevo crimen o simple delito fuere otra menor, se observará lo prescrito en el acápite primero del presente artículo.
 
 #### Artículo 92
 
-Si el nuevo delito se cometiere despues de haber cumplido una condena, habrá que distinguir tres casos:
+Si el nuevo delito se cometiere después de haber cumplido una condena, habrá que distinguir tres casos:
 
 1.° Cuando es de la misma especie que el anterior.
 
-2.° Cuando es de distinta especie i el culpable ha sido castigado ya por dos o mas delitos a que la lei señala igual o mayor pena.
+2.° Cuando es de distinta especie y el culpable ha sido castigado ya por dos o más delitos a que la ley señala igual o mayor pena.
 
-3.° Cuando siendo de distinta especie, el delincuente solo ha sido castigado una vez por delito a que la lei señala igual o mayor pena, o mas de una vez por delito cuya pena sea menor.
+3.° Cuando siendo de distinta especie, el delincuente sólo ha sido castigado una vez por delito a que la ley señala igual o mayor pena, o más de una vez por delito cuya pena sea menor.
 
-En los dos primeros casos el hecho se considera revestido de circunstancia agravante, atendido a lo que disponen los núms. 14 i 15 del art. 12, i en el último no se tomarán en cuenta para aumentar la pena los delitos anteriores.
+En los dos primeros casos el hecho se considera revestido de circunstancia agravante, atendido a lo que disponen los núms. 14 y 15 del art. 12, y en el último no se tomarán en cuenta para aumentar la pena los delitos anteriores.
 
 ## Título Quinto
 
-DE LA ESTINCION DE LA RESPONSABILIDAD PENAL.
+DE LA EXTINCIÓN DE LA RESPONSABILIDAD PENAL.
 
 #### Artículo 93
 
-La responsabilidad penal se estingue:
+La responsabilidad penal se extingue:
 
-1.° Por la muerte del reo, siempre en cuanto a las penas personales, i respecto de las pecuniarias solo cuando a su fallecimiento no hubiere recaido sentencia ejecutoria.
+1.° Por la muerte del reo, siempre en cuanto a las penas personales, y respecto de las pecuniarias sólo cuando a su fallecimiento no hubiere recaído sentencia ejecutoria.
 
 2.° Por el cumplimiento de la condena.
 
-3.° Por amnistía, la cual estingue por completo la pena i todos sus efectos.
+3.° Por amnistía, la cual extingue por completo la pena y todos sus efectos.
 
 4.° Por indulto.
 
-La gracia de indulto solo remite o conmuta la pena; pero no quita al favorecido el carácter de condenado para los efectos de la reincidencia o nuevo delinquimiento i demas que determinan las leyes.
+La gracia de indulto sólo remite o conmuta la pena; pero no quita al favorecido el carácter de condenado para los efectos de la reincidencia o nuevo delinquimiento y demás que determinan las leyes.
 
-5.° Por el perdon del ofendido cuando la pena se haya impuesto por delitos respecto de los cuales la lei solo concede accion privada.
+5.° Por el perdón del ofendido cuando la pena se haya impuesto por delitos respecto de los cuales la ley sólo concede acción privada.
 
-6.° Por la prescripcion de la accion penal.
+6.° Por la prescripción de la acción penal.
 
-7.° Por la prescripcion de la pena.
+7.° Por la prescripción de la pena.
 
 #### Artículo 94
 
-La accion penal prescribe:
+La acción penal prescribe:
 
-Respecto de los crímenes a que la lei impone pena de muerte o de presidio, reclusion o relegacion perpetuos, en veinte años.
+Respecto de los crímenes a que la ley impone pena de muerte o de presidio, reclusión o relegación perpetuos, en veinte años.
 
-Respecto de los demas crímenes, en quince años.
+Respecto de los demás crímenes, en quince años.
 
-Respecto do los simples delitos, en diez años.
+Respecto de los simples delitos, en diez años.
 
 Respecto de las faltas, en seis meses.
 
-Cuando la pena señalada al delito sea compuesta, se estará a la mayor para la aplicacion de las reglas comprendidas en los tres primeros acápites de este artículo.
+Cuando la pena señalada al delito sea compuesta, se estará a la mayor para la aplicación de las reglas comprendidas en los tres primeros acápites de este artículo.
 
 Las reglas precedentes se entienden sin perjuicio de las prescripciones de corto tiempo que establece este Código para delitos determinados.
 
 #### Artículo 95
 
-El término de la prescripcion empieza a correr desde el dia en que se hubiere cometido el delito.
+El término de la prescripción empieza a correr desde el día en que se hubiere cometido el delito.
 
 #### Artículo 96
 
-Esta prescripcion se interrumpe, perdiéndose el tiempo trascurrido, siempre que el delincuente comete nuevamente crímen o simple delito, i se suspende desde que el procedimiento se dirije contra él; pero si se paraliza su prosecucion por tres años o se termina sin condenarle, continúa la prescripcion como si no se hubiere interrumpido.
+Esta prescripción se interrumpe, perdiéndose el tiempo trascurrido, siempre que el delincuente comete nuevamente crimen o simple delito, y se suspende desde que el procedimiento se dirige contra él; pero si se paraliza su prosecución por tres años o se termina sin condenarle, continúa la prescripción como si no se hubiere interrumpido.
 
 #### Artículo 97
 
 Las penas impuestas por sentencia ejecutoria prescriben:
 
-La de muerte i la de presidio, reclusion i relegacion perpetuos, en veinte años.
+La de muerte y la de presidio, reclusión y relegación perpetuos, en veinte años.
 
-Las demas penas de crímenes, en quince años.
+Las demás penas de crímenes, en quince años.
 
 Las penas de simples delitos, en diez años.
 
@@ -902,51 +908,51 @@ Las de faltas, en seis meses.
 
 #### Artículo 98
 
-El tiempo de la prescripcion comenzará a correr desde la fecha de la sentencia de término o desde el quebrantamiento de la condena, si hubiere ésta principiado a cumplirse.
+El tiempo de la prescripción comenzará a correr desde la fecha de la sentencia de término o desde el quebrantamiento de la condena, si hubiere ésta principiado a cumplirse.
 
 #### Artículo 99
 
-Esta prescripcion se interrumpe quedando sin efecto el tiempo trascurrido, cuando el reo, durante ella, cometiere nuevamente crímen o simple delito, sin perjuicio de que comience a correr otra vez.
+Esta prescripción se interrumpe quedando sin efecto el tiempo trascurrido, cuando el reo, durante ella, cometiere nuevamente crimen o simple delito, sin perjuicio de que comience a correr otra vez.
 
 #### Artículo 100
 
-Cuando el reo se ausentare del territorio de la República solo podrá prescribir la accion penal o la pena contando por uno cada dos dias de ausencia, para el cómputo de los años.
+Cuando el reo se ausentare del territorio de la República sólo podrá prescribir la acción penal o la pena contando por uno cada dos días de ausencia, para el cómputo de los años.
 
 #### Artículo 101
 
-Tanto la prescripcion de la accion penal como la de la pena corren a favor i en contra de toda clase de personas.
+Tanto la prescripción de la acción penal como la de la pena corren a favor y en contra de toda clase de personas.
 
 #### Artículo 102
 
-La prescripcion será declarada de oficio por el tribunal aun cuando el reo no la alegue, con tal que se halle presente en el juicio.
+La prescripción será declarada de oficio por el tribunal aún cuando el reo no la alegue, con tal que se halle presente en el juicio.
 
 #### Artículo 103
 
-Si el reo se presentare o fuere habido ántes de completar el tiempo de la prescripcion de la accion penal o de la pena, pero habiendo ya trascurrido la mitad del que se exije, en sus respectivos casos, para tales prescripciones, deberá el tribunal considerar el hecho como revestido de dos o mas circunstancias atenuantes mui calificadas i de ninguna agravante i aplicar las reglas de los arts. 65, 66, 67 i 68, sea en la imposicion de la pena, sea para disminuir la ya impuesta.
+Si el reo se presentare o fuere habido antes de completar el tiempo de la prescripción de la acción penal o de la pena, pero habiendo ya trascurrido la mitad del que se exige, en sus respectivos casos, para tales prescripciones, deberá el tribunal considerar el hecho como revestido de dos o más circunstancias atenuantes muy calificadas y de ninguna agravante y aplicar las reglas de los arts. 65, 66, 67 y 68, sea en la imposición de la pena, sea para disminuir la ya impuesta.
 
-Esta regla no se aplica a las prescripciones de las faltas i especiales de corto tiempo.
+Esta regla no se aplica a las prescripciones de las faltas y especiales de corto tiempo.
 
 #### Artículo 104
 
-Las circunstancias agravantes comprendidas en los núms. 15 i 16 del art. 12, no se tomarán en cuenta tratándose de crímenes, despues de diez años, a contar desde la fecha en que tuvo lugar el hecho, ni despues de cinco, en los casos de simples delitos.
+Las circunstancias agravantes comprendidas en los núms. 15 y 16 del art. 12, no se tomarán en cuenta tratándose de crímenes, después de diez años, a contar desde la fecha en que tuvo lugar el hecho, ni después de cinco, en los casos de simples delitos.
 
 #### Artículo 105
 
-Las inhabilidades legales provenientes de crímen o simple delito solo durarán el tiempo requerido para prescribir la pena, computado de la manera que se dispone en los arts. 98, 99 i 100. Esta regla no es aplicable a las inhabilidades para el ejercicio de los derechos políticos.
+Las inhabilidades legales provenientes de crimen o simple delito sólo durarán el tiempo requerido para prescribir la pena, computado de la manera que se dispone en los arts. 98, 99 y 100. Esta regla no es aplicable a las inhabilidades para el ejercicio de los derechos políticos.
 
-La prescripcion de la responsabilidad civil proveniente de delito, se rije por el Código civil.
+La prescripción de la responsabilidad civil proveniente de delito, se rige por el Código civil.
 
 # Libro Segundo
 
-CRÍMENES I SIMPLES DELITOS I SUS PENAS.
+CRÍMENES Y SIMPLES DELITOS Y SUS PENAS.
 
 ## Título Primero
 
-CRÍMENES I SIMPLES DELITOS CONTRA LA SEGURIDAD ESTERIOR I SOBERANÍA DEL ESTADO.
+CRÍMENES Y SIMPLES DELITOS CONTRA LA SEGURIDAD EXTERIOR Y SOBERANÍA DEL ESTADO.
 
 #### Artículo 106
 
-Todo el que dentro del territorio de la República conspirare contra su seguridad esterior, induciendo a una potencia estranjera a declarar la guerra a Chile, será castigado con presidio mayor en su grado máximo a muerte. Si se han seguido hostilidades sufrirá la pena de muerte.
+Todo el que dentro del territorio de la República conspirare contra su seguridad exterior, induciendo a una potencia extranjera a declarar la guerra a Chile, será castigado con presidio mayor en su grado máximo a muerte. Si se han seguido hostilidades sufrirá la pena de muerte.
 
 Las prescripciones de este artículo se aplican a los chilenos, aun cuando las maquinaciones para inducir a declarar la guerra a la República hayan tenido lugar fuera de su territorio.
 
@@ -956,7 +962,7 @@ El chileno que militare contra su patria bajo banderas enemigas, será castigado
 
 #### Artículo 108
 
-Todo individuo que, sin proceder a nombre i con autorizacion de una potencia estranjera, hiciere armas contra Chile amenazando la independencia o integridad de su territorio, sufrirá la pena de presidio perpetuo a muerte.
+Todo individuo que, sin proceder a nombre y con autorización de una potencia extranjera, hiciere armas contra Chile amenazando la independencia o integridad de su territorio, sufrirá la pena de presidio perpetuo a muerte.
 
 #### Artículo 109
 
@@ -966,175 +972,179 @@ El que facilitare al enemigo la entrada en el territorio de la República.
 
 El que le entregare ciudades, puertos, plazas, fortalezas, puestos, almacenes, buques, dineros u otros objetos pertenecientes al Estado, de reconocida utilidad para el progreso de la guerra.
 
-El que le suministrare ausilio de hombres, dinero, víveres, armas, municiones, vestuarios, carros, caballerías, embarcaciones u otros objetos conocidamente útiles al enemigo.
+El que le suministrare auxilio de hombres, dinero, víveres, armas, municiones, vestuarios, carros, caballerías, embarcaciones u otros objetos conocidamente útiles al enemigo.
 
-El que favoreciere el progreso de las armas enemigas en el territorio de la República o contra las fuerzas chilenas de mar i tierra, corrompiendo la fidelidad de los oficiales, soldados, marineros u otros ciudadanos hacia el Estado.
+El que favoreciere el progreso de las armas enemigas en el territorio de la República o contra las fuerzas chilenas de mar y tierra, corrompiendo la fidelidad de los oficiales, soldados, marineros u otros ciudadanos hacia el Estado.
 
 El que suministrare al enemigo planos de fortificaciones, arsenales, puertos o radas.
 
-El que le revelare el secreto do una negociacion o de una espedicion.
+El que le revelare el secreto de una negociación o de una expedición.
 
 El que ocultare o hiciere ocultar a los espías o soldados del enemigo enviados a la descubierta.
 
-El que como práctico dirijiere el ejército o armada enemigos.
+El que como práctico dirigiere el ejército o armada enemigos.
 
 El que diere maliciosamente falso rumbo o falsas noticias al ejército o armada de la República.
 
 El proveedor que maliciosamente faltare a su deber con grave daño del ejército o armada.
 
-El que impidiere que las tropas de la República, en tiempo de guerra estranjera, reciban ausilios de caudales, armas, municiones de boca o de guerra, equipos o embarcaciones, o los planos, instrucciones o noticias convenientes para el mejor progreso de la guerra.
+El que impidiere que las tropas de la República, en tiempo de guerra extranjera, reciban auxilios de caudales, armas, municiones de boca o de guerra, equipos o embarcaciones, o los planos, instrucciones o noticias convenientes para el mejor progreso de la guerra.
 
-El que por cualquier medio hubiere incendiado algunos objetos con intencion de favorecer al enemigo.
+El que por cualquier medio hubiere incendiado algunos objetos con intención de favorecer al enemigo.
 
-En los casos de este artículo si el delincuente fuero funcionario público, ajente o comisionado del Gobierno de la República, que hubiere abusado de la autoridad, documentos o noticias que tuviere por razon de su cargo, sufrirá la pena de muerte.
+En los casos de este artículo si el delincuente fuero funcionario público, agente o comisionado del Gobierno de la República, que hubiere abusado de la autoridad, documentos o noticias que tuviere por razón de su cargo, sufrirá la pena de muerte.
 
 #### Artículo 110
 
-Con la pena de presidio mayor en su grado medio a presidio perpetuo, se castigarán los crímenes enumerados en el artículo anterior cuando ellos se cometieren respecto de los aliados de la República que obran contra el enemigo comun.
+Con la pena de presidio mayor en su grado medio a presidio perpetuo, se castigarán los crímenes enumerados en el artículo anterior cuando ellos se cometieren respecto de los aliados de la República que obran contra el enemigo común.
 
 #### Artículo 111
 
-En los casos de los cinco artículos precedentes el delito frustrado se castiga como si fuera consumado, la tentativa con la pena inferior en un grado a la señalada para el delito, la conspiracion con la inferior en dos grados i la proposicion con la de presidio menor en cualquiera de sus grados.
+En los casos de los cinco artículos precedentes el delito frustrado se castiga como si fuera consumado, la tentativa con la pena inferior en un grado a la señalada para el delito, la conspiración con la inferior en dos grados y la proposición con la de presidio menor en cualquiera de sus grados.
 
 #### Artículo 112
 
-Todo individuo que hubiere mantenido con los ciudadanos o súbditos de una potencia enemiga correspondencia que, sin tener en mira alguno de los crímenes enumerados en el art. 109, ha dado por resultado suministrar al enemigo noticias perjudiciales a la situacion militar de Chile o de sus aliados, que obran contra el enemigo común, sufrirá la pena de presidio menor en cualquiera de sus grados.
+Todo individuo que hubiere mantenido con los ciudadanos o súbditos de una potencia enemiga correspondencia que, sin tener en mira alguno de los crímenes enumerados en el art. 109, ha dado por resultado suministrar al enemigo noticias perjudiciales a la situación militar de Chile o de sus aliados, que obran contra el enemigo común, sufrirá la pena de presidio menor en cualquiera de sus grados.
 
 La misma pena se aplicará cuando la correspondencia fuere en cifras que no permitan apreciar su contenido.
 
-Si las noticias son comunicadas por un empleado público, que tiene conocimiento de ellas en razon de su empleo, la pena será presidio mayor en su grado medio.
+Si las noticias son comunicadas por un empleado público, que tiene conocimiento de ellas en razón de su empleo, la pena será presidio mayor en su grado medio.
 
 #### Artículo 113
 
-El que violare tregua o armisticio acordado entre la República i otra nacion enemiga o entre sus fuerzas belijerantes de mar o tierra, sufrirá la pena de presidio menor en su grado medio.
+El que violare tregua o armisticio acordado entre la República y otra nación enemiga o entre sus fuerzas beligerantes de mar o tierra, sufrirá la pena de presidio menor en su grado medio.
 
 #### Artículo 114
 
-El que sin autorizacion lejítima levantare tropas en el territorio de la República o destinare buques al corso, cualquiera que sea el objeto que se proponga o la nacion a que intente hostilizar, será castigado con presidio mayor en su grado mínimo i multa de mil a cinco mil pesos.
+El que sin autorización legítima levantare tropas en el territorio de la República o destinare buques al corso, cualquiera que sea el objeto que se proponga o la nación a que intente hostilizar, será castigado con presidio mayor en su grado mínimo y multa de mil a cinco mil pesos.
 
 #### Artículo 115
 
-El que violare la neutralidad de la República, comerciando con los belijerantes en artículos declarados de contrabando de guerra en los respectivos decretos o proclamas de neutralidad, será penado con presidio menor en su grado medio.
+El que violare la neutralidad de la República, comerciando con los beligerantes en artículos declarados de contrabando de guerra en los respectivos decretos o proclamas de neutralidad, será penado con presidio menor en su grado medio.
 
 Si un empleado público fuere autor o cómplice en este delito, se le castigará con presidio menor en su grado máximo.
 
 #### Artículo 116
 
-El ciudadano o súbdito de una nacion con quien Chile está en guerra, que violare los decretos de internacion o espulsion del territorio de la República, espedidos por el Gobierno respecto de los ciudadanos o súbditos de dicha nacion, sufrirá la pena de reclusion menor en su grado medio; no pudiendo ésta en ningun caso, estenderse mas allá de la duracion de la guerra que motivó aquellas medidas.
+El ciudadano o súbdito de una nación con quien Chile está en guerra, que violare los decretos de internación o expulsión del territorio de la República, expedidos por el Gobierno respecto de los ciudadanos o súbditos de dicha nación, sufrirá la pena de reclusión menor en su grado medio; no pudiendo ésta en ningún caso, extenderse más allá de la duración de la guerra que motivó aquellas medidas.
 
 #### Artículo 117
 
-El chileno culpable de tentativa para pasar a pais enemigo cuando lo hubiere prohibido el Gobierno, será castigado con la pena de reclusion menor en su grado mínimo.
+El chileno culpable de tentativa para pasar a país enemigo cuando lo hubiere prohibido el Gobierno, será castigado con la pena de reclusión menor en su grado mínimo.
 
 #### Artículo 118
 
-El que ejecutare en la República cualesquiera órdenes o disposiciones de un Gobierno estranjero, que ofendan la independencia o seguridad del Estado, incurrirá en la pena de estrañamiento menor en sus grados mínimo a medio.
+El que ejecutare en la República cualesquiera órdenes o disposiciones de un Gobierno extranjero, que ofendan la independencia o seguridad del Estado, incurrirá en la pena de extrañamiento menor en sus grados mínimo a medio.
 
 #### Artículo 119
 
-Si un empleado público, abusando de su oficio, cometiere cualquiera de los simples delitos de que se trata en el artículo anterior, se le impondrá ademas de la pena señalada en él, la de inhabilitacion absoluta temporal para cargos i oficios públicos en su grado mínimo.
+Si un empleado público, abusando de su oficio, cometiere cualquiera de los simples delitos de que se trata en el artículo anterior, se le impondrá además de la pena señalada en él, la de inhabilitación absoluta temporal para cargos y oficios públicos en su grado mínimo.
 
 #### Artículo 120
 
-El que violare la inmunidad personal o el domicilio del representante de una potencia estranjera, será castigado con reclusion menor en su grado mínimo, a ménos que tal violacion importe un delito que tenga señalada pena mayor, debiendo en tal caso ser considerada aquélla como circunstancia agravante.
+El que violare la inmunidad personal o el domicilio del representante de una potencia extranjera, será castigado con reclusión menor en su grado mínimo, a menos que tal violación importe un delito que tenga señalada pena mayor, debiendo en tal caso ser considerada aquélla como circunstancia agravante.
 
 ## Título Segundo
 
-CRÍMENES I SIMPLES DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO.
+CRÍMENES Y SIMPLES DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO.
 
 #### Artículo 121
 
-Los que se alzaren a mano armada contra el Gobierno legalmente constituido con el objeto de promover la guerra civil, de cambiar la Constitucion del Estado o su forma de gobierno, de privar de sus funciones o impedir que entren en el ejercicio de ellas al Presidente de la República o al que haga sus veces, a los miembros del Congreso Nacional o de los Tribunales Superiores de Justicia, sufrirán la pena de reclusion mayor, o bien la de confinamiento mayor o la de estrañamiento mayor, en cualesquiera de sus grados.
+Los que se alzaren a mano armada contra el Gobierno legalmente constituido con el objeto de promover la guerra civil, de cambiar la Constitución del Estado o su forma de gobierno, de privar de sus funciones o impedir que entren en el ejercicio de ellas al Presidente de la República o al que haga sus veces, a los miembros del Congreso Nacional o de los Tribunales Superiores de Justicia, sufrirán la pena de reclusión mayor, o bien la de confinamiento mayor o la de extrañamiento mayor, en cualesquiera de sus grados.
 
 #### Artículo 122
 
-Los que induciendo a los alzados, hubieren promovido o sostuvieren la sublevacion i los caudillos principales de ésta, serán castigados con las mismas penas del artículo anterior, aplicadas en sus grados máximos.
+Los que induciendo a los alzados, hubieren promovido o sostuvieren la sublevación y los caudillos principales de ésta, serán castigados con las mismas penas del artículo anterior, aplicadas en sus grados máximos.
 
 #### Artículo 123
 
-Los que tocaren o mandaren tocar campanas u otro instrumento cualquiera para excitar al pueblo al alzamiento i los que, con igual fin, dirijieren discursos a la muchedumbre o le repartieren impresos, si la sublevacion llega a consumarse, serán castigados con la pena de reclusion menor o de estrañamiento menor en sus grados medios, a no ser que merezcan la calificacion de promovedores.
+Los que tocaren o mandaren tocar campanas u otro instrumento cualquiera para excitar al pueblo al alzamiento y los que, con igual fin, dirigieren discursos a la muchedumbre o le repartieren impresos, si la sublevación llega a consumarse, serán castigados con la pena de reclusión menor o de extrañamiento menor en sus grados medios, a no ser que merezcan la calificación de promovedores.
 
 #### Artículo 124
 
 Los que sin cometer los crímenes enumerados en el art. 121, pero con el propósito de ejecutarlos, sedujeren tropas, usurparen el mando de ellas, de un buque de guerra, de una plaza fuerte, de un puesto de guardia, de un puerto o de una ciudad, o retuvieren contra la orden del Gobierno un mando político o militar cualquiera, sufrirán la pena de reclusion mayor o de confinamiento mayor en sus grados medios.
 
+> **Nota.** El artículo 25 de la Ley N° 6.026, sobre Seguridad Interior el Estado, M. Interior, publicada el 12.02.1937, derogó el Decreto Ley N° 672 de 1925, norma que en su artículo 1° había incorporado los incisos segundo, tercero y cuarto al presente artículo. El texto oficial de la Editorial Jurídica no contempla tales incisos, razón por la cual se han eliminado en este texto actualizado.
+
 #### Artículo 125
 
-En los crímenes de que tratan los arts. 121, 122 i 124, la conspiracion se pena con estrañamiento mayor en su grado medio i la proposicion con estrañamiento menor en su grado medio.
+En los crímenes de que tratan los arts. 121, 122 y 124, la conspiración se pena con extrañamiento mayor en su grado medio y la proposición con extrañamiento menor en su grado medio.
 
 #### Artículo 126
 
-Los que se alzaren públicamente con el propósito de impedir la promulgacion o la ejecucion de las leyes, la libre celebracion de una eleccion popular, de coartar el ejercicio de sus atribuciones o la ejecucion de sus providencias a cualquiera de los Poderes Constitucionales, de arrancarles resoluciones por medio de la fuerza o de ejercer actos de odio o de venganza en la persona o bienes de alguna autoridad o de sus ajentes o en las pertenencias del Estado o de alguna corporacion pública, sufrirán la pena de reclusion menor o bien la de confinamiento menor o de estrañamiento menor en cualesquiera de sus grados.
+Los que se alzaren públicamente con el propósito de impedir la promulgación o la ejecución de las leyes, la libre celebración de una elección popular, de coartar el ejercicio de sus atribuciones o la ejecución de sus providencias a cualquiera de los Poderes Constitucionales, de arrancarles resoluciones por medio de la fuerza o de ejercer actos de odio o de venganza en la persona o bienes de alguna autoridad o de sus agentes o en las pertenencias del Estado o de alguna corporación pública, sufrirán la pena de reclusión menor o bien la de confinamiento menor o de extrañamiento menor en cualesquiera de sus grados.
 
 #### Artículo 127
 
-Las prescripciones de los arts. 122, 123, 124 i 125 tienen aplicacion respecto de los simples delitos de que trata el artículo precedente, siendo las penas respectivamente inferiores en un grado a las que en dichos artículos se establecen.
+Las prescripciones de los arts. 122, 123, 124 y 125 tienen aplicación respecto de los simples delitos de que trata el artículo precedente, siendo las penas respectivamente inferiores en un grado a las que en dichos artículos se establecen.
 
 #### Artículo 128
 
-Luego que se manifieste la sublevacion, la autoridad intimará hasta dos veces a los sublevados que inmediatamente se disuelvan i retiren, dejando pasar entre una i otra intimacion el tiempo necesario para ello.
+Luego que se manifieste la sublevación, la autoridad intimará hasta dos veces a los sublevados que inmediatamente se disuelvan y retiren, dejando pasar entre una y otra intimación el tiempo necesario para ello.
 
-Si los sublevados no se retiraren inmediatamente despues de la segunda intimacion, la autoridad hará uso de la fuerza pública para disolverlos.
+Si los sublevados no se retiraren inmediatamente después de la segunda intimación, la autoridad hará uso de la fuerza pública para disolverlos.
 
-No serán necesarias respectivamente, la primera o la segunda intimacion, desde el momento en que los sublevados ejecuten actos de violencia.
+No serán necesarias respectivamente, la primera o la segunda intimación, desde el momento en que los sublevados ejecuten actos de violencia.
 
 #### Artículo 129
 
-Cuando los sublevados se disolvieren o sometieren a la autoridad lejítima ántes de las intimaciones o a consecuencia de ellas sin haber ejecutado actos de violencia, quedarán exentos de toda pena.
+Cuando los sublevados se disolvieren o sometieren a la autoridad legítima antes de las intimaciones o a consecuencia de ellas sin haber ejecutado actos de violencia, quedarán exentos de toda pena.
 
-Los instigadores, promovedores i sostenedores de la sublevacion, en el caso del presente artículo, serán castigados con una pena inferior en uno o dos grados a la que les hubiera correspondido consumado el delito.
+Los instigadores, promovedores y sostenedores de la sublevación, en el caso del presente artículo, serán castigados con una pena inferior en uno o dos grados a la que les hubiera correspondido consumado el delito.
 
 #### Artículo 130
 
-En el caso de que la sublevacion no llegare a agravarse hasta el punto de embarazar de una manera sensible el ejercicio de la autoridad pública, serán juzgados los sublevados con arreglo a lo que se previene en el inciso final del artículo anterior.
+En el caso de que la sublevación no llegare a agravarse hasta el punto de embarazar de una manera sensible el ejercicio de la autoridad pública, serán juzgados los sublevados con arreglo a lo que se previene en el inciso final del artículo anterior.
 
 #### Artículo 131
 
-Los delitos particulares cometidos en una sublevacion o con motivo de ella, serán castigados respectivamente, con las penas designadas para ellos, no obstante lo dispuesto en el art. 129.
+Los delitos particulares cometidos en una sublevación o con motivo de ella, serán castigados respectivamente, con las penas designadas para ellos, no obstante lo dispuesto en el art. 129.
 
-Si no pueden descubrirse los autores, serán considerados i penados como cómplices de tales delitos los jefes principales o subalternos de los sublevados, que hallándose en la posibilidad de impedirlos, no lo hubieren hecho.
+Si no pueden descubrirse los autores, serán considerados y penados como cómplices de tales delitos los jefes principales o subalternos de los sublevados, que hallándose en la posibilidad de impedirlos, no lo hubieren hecho.
 
 #### Artículo 132
 
-Cuando en las sublevaciones de que trata este título se supone uso de armas, se comprenderá bajo esta palabra toda máquina, instrumento, utensilio u objeto cortante, punzante o contundente que se haya tomado para matar, herir o golpear, aun cuando no se haya hecho uso de él.
+Cuando en las sublevaciones de que trata este título se supone uso de armas, se comprenderá bajo esta palabra toda máquina, instrumento, utensilio u objeto cortante, punzante o contundente que se haya tomado para matar, herir o golpear, aún cuando no se haya hecho uso de él.
 
 #### Artículo 133
 
-Los que por astucia o por cualquier otro medio, pero sin alzarse contra el Gobierno, cometieren alguno de los crímenes o simples delitos de que tratan los arts. 121 i 126, serán penados con reclusion o relegacion menores en cualesquiera de sus grados, salvo lo dispuesto en el art. 137 respecto de los delitos que conciernen al ejercicio de los derechos políticos.
+Los que por astucia o por cualquier otro medio, pero sin alzarse contra el Gobierno, cometieren alguno de los crímenes o simples delitos de que tratan los arts. 121 y 126, serán penados con reclusión o relegación menores en cualquiera de sus grados, salvo lo dispuesto en el art. 137 respecto de los delitos que conciernen al ejercicio de los derechos políticos.
 
 #### Artículo 134
 
-Los empleados públicos que debiendo resistir la sublevacion por razon de su oficio, no lo hubieren hecho por todos los medios que estuvieren a sus alcances, sufrirán la pena de inhabilitacion absoluta temporal para cargos i oficios públicos en cualquiera de sus grados.
+Los empleados públicos que debiendo resistir la sublevación por razón de su oficio, no lo hubieren hecho por todos los medios que estuvieren a sus alcances, sufrirán la pena de inhabilitación absoluta temporal para cargos y oficios públicos en cualquiera de sus grados.
 
 #### Artículo 135
 
-Los empleados que continuaren funcionando bajo las órdenes de los sublevados o que sin haberles admitido la renuncia de su empleo, lo abandonaren cuando haya peligro de alzamiento, incurrirán en la pena de inhabilitacion absoluta temporal para cargos i oficios públicos en sus grados medio a máximo.
+Los empleados que continuaren funcionando bajo las órdenes de los sublevados o que sin haberles admitido la renuncia de su empleo, lo abandonaren cuando haya peligro de alzamiento, incurrirán en la pena de inhabilitación absoluta temporal para cargos y oficios públicos en sus grados medio a máximo.
 
 #### Artículo 136
 
-Los que aceptaren cargos o empleos de los sublevados, serán castigados con inhabilitacion absoluta temporal para cargos i oficios públicos en su grado mínimo i multa de ciento a mil pesos.
+Los que aceptaren cargos o empleos de los sublevados, serán castigados con inhabilitación absoluta temporal para cargos y oficios públicos en su grado mínimo y multa de ciento a mil pesos.
+
+> **Nota.** El artículo 25 de la Ley N° 6.026, sobre Seguridad Interior el Estado, M. Interior, publicada el 12.02.1937, derogó el Decreto Ley N° 672 de 1925, norma que en su artículo 2° agregaba, a continuación del presente artículo, lo siguiente: "El que de hecho o palabra hiciere objeto de mofa o de desprecio a la bandera o himno nacional de la República, será castigado con pena de prisión, en cualquiera de sus grados, y multas de veinte a mil pesos.". Sin embargo, no lo contempla el texto oficial de la Editorial Jurídica, razón por la cual se ha eliminado en este texto actualizado.
 
 ## Título Tercero
 
-DE LOS CRÍMENES I SIMPLES DELITOS QUE AFECTAN LOS DERECHOS GARANTIDOS POR LA CONSTITUCION.
+DE LOS CRÍMENES Y SIMPLES DELITOS QUE AFECTAN LOS DERECHOS GARANTIDOS POR LA CONSTITUCIÓN.
 
-### I. De los delitos relativos al ejercicio de los derechos políticos i a la libertad de imprenta
+### I. De los delitos relativos al ejercicio de los derechos políticos y a la libertad de imprenta
 
 #### Artículo 137
 
-Los delitos relativos al libre ejercicio del sufrajio i a la libertad de emitir opiniones por la prensa, se clasifican i penan respectivamente por las leyes de elecciones i de imprenta.
+Los delitos relativos al libre ejercicio del sufragio y a la libertad de emitir opiniones por la prensa, se clasifican y penan respectivamente por las leyes de elecciones y de imprenta.
 
-### II. De los crímenes i simples delitos relativos al ejercicio de los cultos permitidos en la República
+### II. De los crímenes y simples delitos relativos al ejercicio de los cultos permitidos en la República
 
 #### Artículo 138
 
-Todo el que por medio de violencia o amenazas hubiere impedido a uno o mas individuos el ejercicio de un culto permitido en la República, será castigado con reclusion menor en su grado mínimo.
+Todo el que por medio de violencia o amenazas hubiere impedido a uno o más individuos el ejercicio de un culto permitido en la República, será castigado con reclusión menor en su grado mínimo.
 
 #### Artículo 139
 
-Sufrirán la pena de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos:
+Sufrirán la pena de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos:
 
-1° Los que con tumulto o desórden hubieren impedido, retardado o interrumpido el ejercicio de un culto que se practicaba en lugar destinado a él o que sirve habitualmente para celebrarlo, o en las ceremonias públicas de ese mismo culto.
+1° Los que con tumulto o desorden hubieren impedido, retardado o interrumpido el ejercicio de un culto que se practicaba en lugar destinado a él o que sirve habitualmente para celebrarlo, o en las ceremonias públicas de ese mismo culto.
 
 2° Los que con acciones, palabras o amenazas ultrajaren los objetos de un culto, sea en los lugares destinados a él o que sirven habitualmente para su ejercicio, sea en las ceremonias públicas de ese mismo culto.
 
@@ -1142,201 +1152,201 @@ Sufrirán la pena de reclusion menor en su grado mínimo i multa de ciento a tre
 
 #### Artículo 140
 
-Cuando en el caso del núm. 3.° del artículo precedente, la injuria fuere de hecho, poniendo manos violentas sobre la persona del ministro, el delincuente sufrirá las penas de reclusion menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+Cuando en el caso del núm. 3.° del artículo precedente, la injuria fuere de hecho, poniendo manos violentas sobre la persona del ministro, el delincuente sufrirá las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
-Si los golpes causaren al ofendido algunas de las lesiones a que se refiere el art. 399, la pena será presidio menor en su grado medio; cuando las lesiones fueren de las comprendidas en el núm. 2.° del art. 397, se castigarán con presidio menor en su grado máximo; si fueren de las que relaciona el núm. 1.° de dicho artículo, con presidio mayor en su grado medio, i cuando de las lesiones resultare la muerte del paciente, se impondrá al ofensor la pena de presidio mayor en su grado máximo a muerte.
+Si los golpes causaren al ofendido algunas de las lesiones a que se refiere el art. 399, la pena será presidio menor en su grado medio; cuando las lesiones fueren de las comprendidas en el núm. 2.° del art. 397, se castigarán con presidio menor en su grado máximo; si fueren de las que relaciona el núm. 1.° de dicho artículo, con presidio mayor en su grado medio, y cuando de las lesiones resultare la muerte del paciente, se impondrá al ofensor la pena de presidio mayor en su grado máximo a muerte.
 
-### III. Crímenes i simples delitos contra la libertad i seguridad, cometidos por particulares
+### III. Crímenes y simples delitos contra la libertad y seguridad, cometidos por particulares
 
 #### Artículo 141
 
-El que sin derecho encerrare o detuviere a otro privándole de su libertad, será castigado con la pena de presidio o reclusion menores en cualesquiera de sus grados.
+El que sin derecho encerrare o detuviere a otro privándole de su libertad, será castigado con la pena de presidio o reclusión menores en cualquiera de sus grados.
 
-En la misma pena incurrirá el que proporcionare lugar para la ejecucion del delito.
+En la misma pena incurrirá el que proporcionare lugar para la ejecución del delito.
 
-Si el encierro o la detencion se prolongare por mas de noventa dias, o si de ellos resultare un daño grave en la persona o intereses del encerrado o detenido, la pena será presidio mayor en cualquiera de sus grados.
+Si el encierro o la detención se prolongare por más de noventa días, o si de ellos resultare un daño grave en la persona o intereses del encerrado o detenido, la pena será presidio mayor en cualquiera de sus grados.
 
 #### Artículo 142
 
-La sustraccion de un menor de diez años será castigada con presidio mayor en cualquiera de sus grados.
+La sustracción de un menor de diez años será castigada con presidio mayor en cualquiera de sus grados.
 
-Si el sustraído fuere mayor de diez i menor de veinte años, la pena será presidio menor en cualquiera de sus grados.
+Si el sustraído fuere mayor de diez y menor de veinte años, la pena será presidio menor en cualquiera de sus grados.
 
 #### Artículo 143
 
-El que fuera de los casos permitidos por la lei, aprehendiere a una persona para presentarla a la autoridad, sufrirá la pena de reclusion menor en su grado mínimo o multa de ciento a trescientos pesos.
+El que fuera de los casos permitidos por la ley, aprehendiere a una persona para presentarla a la autoridad, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
 
 #### Artículo 144
 
-El que entrare en morada ajena contra la voluntad de su morador, será castigado con reclusion menor en su grado mínimo o multa de ciento a trescientos pesos.
+El que entrare en morada ajena contra la voluntad de su morador, será castigado con reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
 
-Si el hecho se ejecutare con violencia o intimidacion, el tribunal podrá aplicar la reclusion menor hasta en su grado medio i elevar la multa hasta quinientos pesos.
+Si el hecho se ejecutare con violencia o intimidación, el tribunal podrá aplicar la reclusión menor hasta en su grado medio y elevar la multa hasta quinientos pesos.
 
 #### Artículo 145
 
-La disposicion del artículo anterior no es aplicable al que entra en la morada ajena para evitar un mal grave a sí mismo, a los moradores o aun tercero, ni al que lo hace para prestar algun ausilio a la humanidad o a la justicia.
+La disposición del artículo anterior no es aplicable al que entra en la morada ajena para evitar un mal grave a sí mismo, a los moradores o a un tercero, ni al que lo hace para prestar algún auxilio a la humanidad o a la justicia.
 
-Tampoco tiene aplicacion respecto de los cafées, tabernas, posadas i demas casas públicas, mientras estuvieren abiertos i no se usare de violencia inmotivada.
+Tampoco tiene aplicación respecto de los cafés, tabernas, posadas y demás casas públicas, mientras estuvieren abiertos y no se usare de violencia inmotivada.
 
 #### Artículo 146
 
-El que abriere o rejistrare la correspondencia o los papeles de otro sin su voluntad, sufrirá la pena de reclusion menor en su grado medio si divulgare o se aprovechare de los secretos que ellos contienen, i en el caso contrario la de reclusion menor en su grado mínimo.
+El que abriere o registrare la correspondencia o los papeles de otro sin su voluntad, sufrirá la pena de reclusión menor en su grado medio si divulgare o se aprovechare de los secretos que ellos contienen, y en el caso contrario la de reclusión menor en su grado mínimo.
 
-Esta disposicion no es aplicable a los maridos, padres, guardadores o quienes hagan sus veces, en cuanto a los papeles o cartas de sus mujeres, hijos o menores que se hallen bajo su dependencia.
+Esta disposición no es aplicable a los maridos, padres, guardadores o quienes hagan sus veces, en cuanto a los papeles o cartas de sus mujeres, hijos o menores que se hallen bajo su dependencia.
 
 Tampoco es aplicable a aquellas personas a quienes por leyes o reglamentos especiales, les es lícito instruirse de correspondencia ajena.
 
 #### Artículo 147
 
-El que bajo cualquier pretesto, impusiere a otros contribuciones o les exijiere, sin título para ello, servicios personales, incurrirá en las penas de reclusion menor en sus grados mínimo a medio i multa de ciento a mil pesos.
+El que bajo cualquier pretexto, impusiere a otros contribuciones o les exigiere, sin título para ello, servicios personales, incurrirá en las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a mil pesos.
 
-### IV. De los agravios inferidos por funcionarios públicos a los derechos garantidos por la Constitucion
+### IV. De los agravios inferidos por funcionarios públicos a los derechos garantidos por la Constitución
 
 #### Artículo 148
 
-Todo empleado público que ilegal i arbitrariamente desterrare, arrestare o detuviere a una persona, sufrirá la pena de reclusion menor i suspension del empleo en sus grados mínimos a medios.
+Todo empleado público que ilegal y arbitrariamente desterrare, arrestare o detuviere a una persona, sufrirá la pena de reclusión menor y suspensión del empleo en sus grados mínimos a medios.
 
-Si el arresto o detencion excediere de treinta dias, las penas serán reclusion menor i suspension en sus grados máximos.
+Si el arresto o detención excediere de treinta días, las penas serán reclusión menor y suspensión en sus grados máximos.
 
 #### Artículo 149
 
-Serán castigados con las penas de reclusion menor i suspension en sus grados mínimos a medios:
+Serán castigados con las penas de reclusión menor y suspensión en sus grados mínimos a medios:
 
-1.° Los que encargados de un establecimiento penal, recibieren en él a un individuo en calidad de preso o detenido sin haberse llenado los requisitos prevenidos por la lei.
+1.° Los que encargados de un establecimiento penal, recibieren en él a un individuo en calidad de preso o detenido sin haberse llenado los requisitos prevenidos por la ley.
 
-2.° Los que habiendo recibido a una persona en clase de detenida, no dieren parte al tribunal competente dentro de las veinte i cuatro horas siguientes.
+2.° Los que habiendo recibido a una persona en clase de detenida, no dieren parte al tribunal competente dentro de las veinte y cuatro horas siguientes.
 
-3.° Los que impidieren comunicarse a los detenidos con el juez que conoce de su causa i a los rematados con los majistrados encargados de visitar los respectivos establecimientos penales.
+3.° Los que impidieren comunicarse a los detenidos con el juez que conoce de su causa y a los rematados con los magistrados encargados de visitar los respectivos establecimientos penales.
 
-4.° Los encargados de los lugares de detencion que se negaren a trasmitir al tribunal, a requisicion del preso, copia del decreto de prision, o a reclamar para que se dé dicha copia, o a dar ellos mismos un certificado de hallarse preso aquel individuo.
+4.° Los encargados de los lugares de detención que se negaren a trasmitir al tribunal, a requisición del preso, copia del decreto de prisión, o a reclamar para que se dé dicha copia, o a dar ellos mismos un certificado de hallarse preso aquel individuo.
 
-5.° Los que teniendo a su cargo la policía administrativa o judicial i sabedores de cualquiera detencion arbitraria, no la hicieren cesar, teniendo facultad para ello, o en caso contrario dejaren de dar parte a la autoridad superior competente.
+5.° Los que teniendo a su cargo la policía administrativa o judicial y sabedores de cualquiera detención arbitraria, no la hicieren cesar, teniendo facultad para ello, o en caso contrario dejaren de dar parte a la autoridad superior competente.
 
-6.° Los que habiendo hecho arrestar a un individuo no dieren parte al tribunal competente dentro de las cuarenta i ocho horas, poniendo al arrestado a su disposicion.
+6.° Los que habiendo hecho arrestar a un individuo no dieren parte al tribunal competente dentro de las cuarenta y ocho horas, poniendo al arrestado a su disposición.
 
-En los casos a que se refieren los núms. 2.°, 5.° i 6.° de este artículo, los culpables incurrirán respectivamente en las penas del artículo anterior, si pasaren mas de tres dias sin cumplir con las obligaciones cuya ejecucion se castiga en tales números.
+En los casos a que se refieren los núms. 2.°, 5.° y 6.° de este artículo, los culpables incurrirán respectivamente en las penas del artículo anterior, si pasaren más de tres días sin cumplir con las obligaciones cuya ejecución se castiga en tales números.
 
 #### Artículo 150
 
-Sufrirán las penas de presidio o reclusion menores i suspension en cualesquiera de sus grados:
+Sufrirán las penas de presidio o reclusión menores y suspensión en cualesquiera de sus grados:
 
-1.° Los que decretaren o prolongaren indebidamente la incomunicacion de un reo, le aplicaren tormentos o usaren con él de un rigor innecesario.
+1.° Los que decretaren o prolongaren indebidamente la incomunicación de un reo, le aplicaren tormentos o usaren con él de un rigor innecesario.
 
-Si de la aplicacion de los tormentos o del rigor innecesariamente empleado resultaren lesiones o la muerte del paciente, se aplicarán al responsable las penas señaladas a estos delitos en sus grados máximos.
+Si de la aplicación de los tormentos o del rigor innecesariamente empleado resultaren lesiones o la muerte del paciente, se aplicarán al responsable las penas señaladas a estos delitos en sus grados máximos.
 
-2.° Los que arbitrariamente hicieren arrestar o detener en otros lugares que los designados por la lei.
+2.° Los que arbitrariamente hicieren arrestar o detener en otros lugares que los designados por la ley.
 
 #### Artículo 151
 
-El empleado público que en el arresto o formacion de causa contra un senador, un diputado u otro funcionario, violare las prerrogativas que la lei les acuerda, incurrirá en la pena de reclusion menor o suspension en cualesquiera de sus grados.
+El empleado público que en el arresto o formación de causa contra un senador, un diputado u otro funcionario, violare las prerrogativas que la ley les acuerda, incurrirá en la pena de reclusión menor o suspensión en cualesquiera de sus grados.
 
 #### Artículo 152
 
-Los empleados públicos que arrogándose facultades judiciales, impusieren algun castigo equivalente a pena corporal, incurrirán:
+Los empleados públicos que arrogándose facultades judiciales, impusieren algún castigo equivalente a pena corporal, incurrirán:
 
-1.° En inhabilitacion absoluta temporal para cargos i oficios públicos en cualquiera de sus grados, si el castigo impuesto fuere equivalente a pena de crímen.
+1.° En inhabilitación absoluta temporal para cargos y oficios públicos en cualquiera de sus grados, si el castigo impuesto fuere equivalente a pena de crimen.
 
-2.° En la misma inhabilitacion en sus grados mínimo a medio, cuando fuere equivalente a pena de simple delito.
+2.° En la misma inhabilitación en sus grados mínimo a medio, cuando fuere equivalente a pena de simple delito.
 
-3.° En suspension de cargo u oficio en cualquiera de sus grados, si fuere equivalente a pena de falta.
+3.° En suspensión de cargo u oficio en cualquiera de sus grados, si fuere equivalente a pena de falta.
 
 #### Artículo 153
 
-Si el castigo arbitrariamente impuesto se hubiere ejecutado en todo o en parte, ademas de las penas del artículo anterior se aplicará al empleado culpable la de presidio o reclusion menores o mayores en cualesquiera de sus grados, atendidas las circunstancias i naturaleza del castigo ejecutado.
+Si el castigo arbitrariamente impuesto se hubiere ejecutado en todo o en parte, además de las penas del artículo anterior se aplicará al empleado culpable la de presidio o reclusión menores o mayores en cualquiera de sus grados, atendidas las circunstancias y naturaleza del castigo ejecutado.
 
-Cuando no hubiere tenido efecto por revocacion espontánea del mismo empleado ántes de ser intimado al penado, no incurrirá aquél en responsabilidad.
+Cuando no hubiere tenido efecto por revocación espontánea del mismo empleado antes de ser intimado al penado, no incurrirá aquél en responsabilidad.
 
 #### Artículo 154
 
 Si la pena arbitrariamente impuesta fuere pecuniaria, el empleado culpable será castigado:
 
-1.° Con inhabilitacion absoluta temporal para cargos i oficios públicos en sus grados mínimo a medio i multa del tanto al triple de la pena impuesta, cuando ésta se hubiere ejecutado.
+1.° Con inhabilitación absoluta temporal para cargos y oficios públicos en sus grados mínimo a medio y multa del tanto al triple de la pena impuesta, cuando ésta se hubiere ejecutado.
 
-2° Con suspension de cargo u oficio en su grado mínimo i multa de la mitad al tanto, si la pena no se hubiere ejecutado.
+2° Con suspensión de cargo u oficio en su grado mínimo y multa de la mitad al tanto, si la pena no se hubiere ejecutado.
 
-Cuando no hubiere tenido efecto por revocacion voluntaria del empleado ántes de intimarse al penado, no incurrirá aquél en responsabilidad.
+Cuando no hubiere tenido efecto por revocación voluntaria del empleado antes de intimarse al penado, no incurrirá aquél en responsabilidad.
 
 #### Artículo 155
 
-El empleado público que abusando de su oficio, allanare un templo o la casa de cualquiera persona o hiciere rejistro en sus papeles, a no ser en los casos i forma que prescriben las leyes, será castigado con la pena de reclusion menor en sus grados mínimo a medio o con la de suspension en cualquiera de sus grados.
+El empleado público que abusando de su oficio, allanare un templo o la casa de cualquiera persona o hiciere registro en sus papeles, a no ser en los casos y forma que prescriben las leyes, será castigado con la pena de reclusión menor en sus grados mínimo a medio o con la de suspensión en cualquiera de sus grados.
 
 #### Artículo 156
 
-Los empleados en el servicio de correos i telégrafos u otros que prevaliéndose de su autoridad interceptaren o abrieren la correspondencia o facilitaren a tercero su apertura o supresion, sufrirán la pena de reclusion menor en su grado mínimo i, si se aprovecharen de los secretos que contiene o los divulgaren, las penas serán reclusion menor en cualquiera de sus grados i multa de ciento a mil pesos.
+Los empleados en el servicio de correos y telégrafos u otros que prevaliéndose de su autoridad interceptaren o abrieren la correspondencia o facilitaren a tercero su apertura o supresión, sufrirán la pena de reclusión menor en su grado mínimo y, si se aprovecharen de los secretos que contiene o los divulgaren, las penas serán reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
 
-En los casos de retardo doloso en el envío o entrega de la correspondencia epistolar o de partes telegráficos, la pena será reclusion menor en su grado mínimo.
+En los casos de retardo doloso en el envío o entrega de la correspondencia epistolar o de partes telegráficos, la pena será reclusión menor en su grado mínimo.
 
 #### Artículo 157
 
-Todo empleado público que sin un decreto de autoridad competente, deducido de la lei que autoriza la exaccion de una contribucion o de un servicio personal, los exijiere bajo cualquier pretesto, será penado con inhabilitacion especial temporal para el empleo en cualquiera de sus grados i multa de ciento a mil pesos.
+Todo empleado público que sin un decreto de autoridad competente, deducido de la ley que autoriza la exacción de una contribución o de un servicio personal, los exigiere bajo cualquier pretexto, será penado con inhabilitación especial temporal para el empleo en cualquiera de sus grados y multa de ciento a mil pesos.
 
-Si la exaccion de la contribucion se hiciere con ánimo de lucrarse, el empleado culpable será considerado penado como reo de estafa.
+Si la exacción de la contribución se hiciere con ánimo de lucrarse, el empleado culpable será considerado penado como reo de estafa.
 
 #### Artículo 158
 
-Sufrirá la pena de suspension en sus grados mínimo a medio, si gozare de renta, i la de reclusion menor en su grado mínimo o multa de ciento a mil pesos, cuando prestare servicios gratuitos, el empleado público que arbitrariamente:
+Sufrirá la pena de suspensión en sus grados mínimo a medio, si gozare de renta, y la de reclusión menor en su grado mínimo o multa de ciento a mil pesos, cuando prestare servicios gratuitos, el empleado público que arbitrariamente:
 
-1.° Impidiere la libre publicacion de opiniones por la imprenta en la forma prescrita por la lei.
+1.° Impidiere la libre publicación de opiniones por la imprenta en la forma prescrita por la ley.
 
-2.° Prohibiere un trabajo o industria que no se oponga a la lei, a las buenas costumbres, seguridad i salubridad públicas.
+2.° Prohibiere un trabajo o industria que no se oponga a la ley, a las buenas costumbres, seguridad y salubridad públicas.
 
-3.° Prohibiere o impidiere una reunión o manifestacion pacífica i legal o la mandare disolver o suspender.
+3.° Prohibiere o impidiere una reunión o manifestación pacífica y legal o la mandare disolver o suspender.
 
-4.° Impidiere a un habitante de la República permanecer en cualquier punto de ella, trasladarse de uno a otro o salir de su territorio, en los casos que la lei no lo prohiba; concurrir a una reunion o manifestacion pacífica i legal; formar parte de cualquier asociacion lícita, o hacer uso del derecho de peticion que le garantiza la lei.
+4.° Impidiere a un habitante de la República permanecer en cualquier punto de ella, trasladarse de uno a otro o salir de su territorio, en los casos que la ley no lo prohíba; concurrir a una reunión o manifestación pacífica y legal; formar parte de cualquier asociación lícita, o hacer uso del derecho de petición que le garantiza la ley.
 
-5.° Privare a otro de la propiedad esclusiva de su descubrimiento o produccion, o divulgare los secretos del invento, que hubiere conocido por razon de su empleo.
+5.° Privare a otro de la propiedad exclusiva de su descubrimiento o producción, o divulgare los secretos del invento, que hubiere conocido por razón de su empleo.
 
-6.° Espropiare a otro de sus bienes o le perturbare en su posesion, a no ser en los casos que permite la lei.
+6.° Expropiare a otro de sus bienes o le perturbare en su posesión, a no ser en los casos que permite la ley.
 
 #### Artículo 159
 
-Si en los casos de los artículos anteriores de este párrafo, el inculpado justificare que ha obrado por órden de sus superiores a quienes debe obediencia disciplinaria, las penas señaladas en dichos artículos se aplicarán solo a los superiores que hayan dado la órden.
+Si en los casos de los artículos anteriores de este párrafo, el inculpado justificare que ha obrado por orden de sus superiores a quienes debe obediencia disciplinaria, las penas señaladas en dichos artículos se aplicarán sólo a los superiores que hayan dado la orden.
 
 #### Artículo 160
 
-Si un empleado público acusado de haber ordenado, autorizado o facilitado alguno de los actos de que se trata en el presente párrafo, pretende que la órden lo ha sido arrancada por sorpresa, será obligado, revocando desde luego tal órden para hacer cesar el acto, a denunciar al culpable; en caso de no denunciarlo, responderá personalmente.
+Si un empleado público acusado de haber ordenado, autorizado o facilitado alguno de los actos de que se trata en el presente párrafo, pretende que la orden lo ha sido arrancada por sorpresa, será obligado, revocando desde luego tal orden para hacer cesar el acto, a denunciar al culpable; en caso de no denunciarlo, responderá personalmente.
 
 #### Artículo 161
 
-Cuando para llevar a efecto alguno de los delitos enunciados, se hubiere falsificado o supuesto la firma de un funcionario público, los autores i los que maliciosa o fraudulentamente hubieren usado de la falsificacion o suposicion, serán castigados con presidio menor en su grado máximo.
+Cuando para llevar a efecto alguno de los delitos enunciados, se hubiere falsificado o supuesto la firma de un funcionario público, los autores y los que maliciosa o fraudulentamente hubieren usado de la falsificación o suposición, serán castigados con presidio menor en su grado máximo.
 
 ## Título Cuarto
 
-DE LOS CRÍMENES I SIMPLES DELITOS CONTRA LA FÉ PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO I DEL PERJURIO.
+DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA LA FE PÚBLICA, DE LAS FALSIFICACIONES, DEL FALSO TESTIMONIO Y DEL PERJURIO.
 
 ### I. De la moneda falsa
 
 #### Artículo 162
 
-El que sin autorizacion fabricare moneda que tenga curso legal en la República, aunque sea de la misma materia, peso i lei que la lejítima, sufrirá las penas de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos.
+El que sin autorización fabricare moneda que tenga curso legal en la República, aunque sea de la misma materia, peso y ley que la legítima, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
 
-Cuando el peso o la lei fueren inferiores a los legales, las penas serán presidio menor en su grado medio i multa de ciento a quinientos pesos.
+Cuando el peso o la ley fueren inferiores a los legales, las penas serán presidio menor en su grado medio y multa de ciento a quinientos pesos.
 
 #### Artículo 163
 
-El que falsificare moneda de oro o plata que tenga curso legal, empleando otras sustancias diversas, será castigado con presidio menor en sus grados medio a máximo i multa de quinientos a mil pesos.
+El que falsificare moneda de oro o plata que tenga curso legal, empleando otras sustancias diversas, será castigado con presidio menor en sus grados medio a máximo y multa de quinientos a mil pesos.
 
-Si la moneda falsificada fuere de vellon, las penas serán presidio menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+Si la moneda falsificada fuere de vellón, las penas serán presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
 #### Artículo 164
 
-El que cercenare moneda de oro o plata de curso legal, sufrirá las penas de presidio menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+El que cercenare moneda de oro o plata de curso legal, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
 #### Artículo 165
 
-El que falsificare moneda que no tenga curso legal en la República, será castigado con presidio menor en su grado medio i multa de ciento a quinientos pesos, si la moneda falsificada fuere de oro o plata, i con presidio menor en su grado mínimo i multa de ciento a trescientos pesos, cuando fuere de vellón.
+El que falsificare moneda que no tenga curso legal en la República, será castigado con presidio menor en su grado medio y multa de ciento a quinientos pesos, si la moneda falsificada fuere de oro o plata, y con presidio menor en su grado mínimo y multa de ciento a trescientos pesos, cuando fuere de vellón.
 
 #### Artículo 166
 
-El que cercenare moneda de oro o plata que no tenga curso legal en la República, sufrirá las penas de presidio menor en su grado mínimo i multa de ciento a trescientos pesos.
+El que cercenare moneda de oro o plata que no tenga curso legal en la República, sufrirá las penas de presidio menor en su grado mínimo y multa de ciento a trescientos pesos.
 
 #### Artículo 167
 
-El que de concierto con los falsificadores o cercenadores, tomare parte en la emision o introduccion a la República de la moneda falsificada o cercenada, será castigado con las mismas penas que por la falsificacion o cercenamiento corresponderian a aquéllos segun los artículos anteriores.
+El que de concierto con los falsificadores o cercenadores, tomare parte en la emisión o introducción a la República de la moneda falsificada o cercenada, será castigado con las mismas penas que por la falsificación o cercenamiento corresponderían a aquéllos según los artículos anteriores.
 
 #### Artículo 168
 
-El que, sin ser culpable de la participacion a que se refiere el artículo precedente, se hubiere procurado a sabiendas moneda falsificada o cercenada i la pusiere en circulacion, sufrirá las penas de presidio menor en sus grados mínimo a medio i multa de cien a mil pesos.
+El que, sin ser culpable de la participación a que se refiere el artículo precedente, se hubiere procurado a sabiendas moneda falsificada o cercenada y la pusiere en circulación, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de cien a mil pesos.
 
 #### Artículo 169
 
@@ -1344,51 +1354,51 @@ La tentativa respecto de cualquiera de los delitos de que tratan los artículos 
 
 #### Artículo 170
 
-El que habiendo recibido de buena fé moneda falsa o cercenada, la circulare despues de constarle su falsedad o cercenamiento, sufrirá la pena de reclusion menor en su grado mínimo o multa de ciento a trescientos pesos, si el valor de la moneda circulada subiere de diez pesos.
+El que habiendo recibido de buena fe moneda falsa o cercenada, la circulare después de constarle su falsedad o cercenamiento, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a trescientos pesos, si el valor de la moneda circulada subiere de diez pesos.
 
 Cuando no exceda de esta suma, estimándose el hecho mera falta, se penará como tal.
 
 #### Artículo 171
 
-Si la falsificacion o cercenamiento fueren tan ostensibles que cualquiera pueda notarlos i conocerlos a la simple vista, los que fabricaren, cercenaren, espendieren, introdujeren o circularen la moneda asi falsificada o cercenada, se reputarán reos de engaño i serán castigados por este delito con las penas que se establecen en el título respectivo.
+Si la falsificación o cercenamiento fueren tan ostensibles que cualquiera pueda notarlos y conocerlos a la simple vista, los que fabricaren, cercenaren, expendieren, introdujeren o circularen la moneda así falsificada o cercenada, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
-II. De la falsificacion de documentos de crédito del Estado, de las Municipalidades, de los establecimientos públicos, sociedades anónimas o bancos de emision legalmente autorizados
+II. De la falsificación de documentos de crédito del Estado, de las Municipalidades, de los establecimientos públicos, sociedades anónimas o bancos de emisión legalmente autorizados
 
 #### Artículo 172
 
-El que falsificare bonos emitidos por el Estado, cupones de intereses correspondientes a estos bonos, billetes de banco al portador, cuya emision estuviere autorizada por una lei de la República, será castigado con las penas de presidio menor en su grado máximo a presidio mayor en su grado mínimo i multa de mil a tres mil pesos.
+El que falsificare bonos emitidos por el Estado, cupones de intereses correspondientes a estos bonos, billetes de banco al portador, cuya emisión estuviere autorizada por una ley de la República, será castigado con las penas de presidio menor en su grado máximo a presidio mayor en su grado mínimo y multa de mil a tres mil pesos.
 
 #### Artículo 173
 
-El que falsificare obligaciones al portador de la deuda pública de un país estranjero, cupones de intereses correspondientes a estos títulos o billetes de banco al portador, cuya emision estuviere autorizada por una lei de ese país estranjero, sufrirá las penas de presidio menor en su grado medio i multa de ciento a quinientos pesos.
+El que falsificare obligaciones al portador de la deuda pública de un país extranjero, cupones de intereses correspondientes a estos títulos o billetes de banco al portador, cuya emisión estuviere autorizada por una ley de ese país extranjero, sufrirá las penas de presidio menor en su grado medio y multa de ciento a quinientos pesos.
 
 #### Artículo 174
 
-El que falsificare acciones o promesas de acciones de sociedades anónimas, obligaciones u otros títulos legalmente emitidos por las municipalidades o establecimientos públicos de cualquiera denominacion, o cupones de intereses o de dividendos correspondientes a estos diversos títulos, será castigado con presidio menor en sus grados medio a máximo i multa de quinientos a mil pesos, si la emision hubiere tenido lugar en Chile, i con presidio menor en su grado medio i multa de ciento a quinientos pesos, cuando hubiere tenido lugar en el estranjero.
+El que falsificare acciones o promesas de acciones de sociedades anónimas, obligaciones u otros títulos legalmente emitidos por las municipalidades o establecimientos públicos de cualquiera denominación, o cupones de intereses o de dividendos correspondientes a estos diversos títulos, será castigado con presidio menor en sus grados medio a máximo y multa de quinientos a mil pesos, si la emisión hubiere tenido lugar en Chile, y con presidio menor en su grado medio y multa de ciento a quinientos pesos, cuando hubiere tenido lugar en el extranjero.
 
 #### Artículo 175
 
-La misma pena que corresponderia al falsificador se impondrá al que de concierto con él tomare parte en la emision o introduccion a la República de los bonos, acciones, obligaciones, billetes o cupones falsificados.
+La misma pena que correspondería al falsificador se impondrá al que de concierto con él tomare parte en la emisión o introducción a la República de los bonos, acciones, obligaciones, billetes o cupones falsificados.
 
 #### Artículo 176
 
-El que sin ser culpable de la participacion a que se refiere el artículo anterior, se hubiere procurado a sabiendas i emitido esos bonos, acciones, obligaciones, billetes o cupones falsificados, sufrirá las penas de presidio menor en sus grados mínimo a medio i multa de ciento a mil pesos.
+El que sin ser culpable de la participación a que se refiere el artículo anterior, se hubiere procurado a sabiendas y emitido esos bonos, acciones, obligaciones, billetes o cupones falsificados, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a mil pesos.
 
 #### Artículo 177
 
-La tentativa para la falsificacion, emision o introduccion de tales títulos, se castigará con el mínimum, de las penas señaladas al delito consumado.
+La tentativa para la falsificación, emisión o introducción de tales títulos, se castigará con el mínimum, de las penas señaladas al delito consumado.
 
 #### Artículo 178
 
-El que habiendo adquirido de buena fé los títulos falsos de que trata este párrafo, los circulare despues, constándole su falsedad, sufrirá la pena de reclusion menor en su grado mínimo o multa de ciento a trescientos pesos, si subiere de diez pesos el valor del título circulado.
+El que habiendo adquirido de buena fe los títulos falsos de que trata este párrafo, los circulare después, constándole su falsedad, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a trescientos pesos, si subiere de diez pesos el valor del título circulado.
 
 Cuando no exceda de esta suma, estimándose el acto mera falta, se penará como tal.
 
 #### Artículo 179
 
-Si la falsificacion fuere tan grosera i ostensible que cualquiera pueda notarla i conocerla a la simple vista, los que falsificaren, espendieren, introdujeren o circularen los títulos así falsificados, se reputarán reos de engaño i serán castigados por este delito con las penas que se establecen en el título respectivo.
+Si la falsificación fuere tan grosera y ostensible que cualquiera pueda notarla y conocerla a la simple vista, los que falsificaren, expendieren, introdujeren o circularen los títulos así falsificados, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
-### III. De la falsificacion de sellos, punzones, matrices, marcas, papel sellado, timbres, estampillas, etc
+### III. De la falsificación de sellos, punzones, matrices, marcas, papel sellado, timbres, estampillas, etc
 
 #### Artículo 180
 
@@ -1396,47 +1406,47 @@ El que falsificare el sello del Estado o hiciere uso del sello falso, sufrirá l
 
 #### Artículo 181
 
-El que falsificare punzones, cuños o cuadrados destinados a la fabricacion de moneda; punzones, matrices, clisées, planchas o cualesquiera otros objetos que sirvan para la fabricacion de bonos, acciones, obligaciones, cupones de intereses o de dividendos, o billetes de banco cuya emision haya sido autorizada por la lei; timbres, planchas o cualesquiera otros objetos destinados a la fabricacion de papel sellado o estampillas, o el que hiciere uso de estos sellos o planchas falsos, será castigado con presidio mayor en sus grados mínimo a medio i multa de mil a cuatro mil pesos.
+El que falsificare punzones, cuños o cuadrados destinados a la fabricación de moneda; punzones, matrices, clisés, planchas o cualesquiera otros objetos que sirvan para la fabricación de bonos, acciones, obligaciones, cupones de intereses o de dividendos, o billetes de banco cuya emisión haya sido autorizada por la ley; timbres, planchas o cualesquiera otros objetos destinados a la fabricación de papel sellado o estampillas, o el que hiciere uso de estos sellos o planchas falsos, será castigado con presidio mayor en sus grados mínimo a medio y multa de mil a cuatro mil pesos.
 
 #### Artículo 182
 
-El que de concierto con los falsificadores tomare parte en la emision del papel sellado o estampillas falsificados, sufrirá las penas de presidio mayor en su grado mínimo i multa de mil a tres mil pesos.
+El que de concierto con los falsificadores tomare parte en la emisión del papel sellado o estampillas falsificados, sufrirá las penas de presidio mayor en su grado mínimo y multa de mil a tres mil pesos.
 
 #### Artículo 183
 
-El que sin ser culpable de la participacion a que se refiere el artículo anterior, se hubiere procurado a sabiendas papel sellado o estampillas falsos i los emitiere introdujere en la República, será castigado con presidio menor en sus grados mínimo a medio i multa de ciento a mil pesos.
+El que sin ser culpable de la participación a que se refiere el artículo anterior, se hubiere procurado a sabiendas papel sellado o estampillas falsos y los emitiere introdujere en la República, será castigado con presidio menor en sus grados mínimo a medio y multa de ciento a mil pesos.
 
 Las penas serán presidio menor en su grado mínimo multa de ciento a trescientos pesos, si habiéndose procurado a sabiendas papel sellado o estampillas falsos, se hubiere hecho uso de ellos.
 
 #### Artículo 184
 
-Cuando la falsificacion fuere tan mal ejecutada que cualquiera pueda notarla i conocerla a la simple vista, los que la hubieren efectuado i los que espendieren o introdujeren el papel sellado o las estampillas asi falsificados, se reputarán reos de engaño i serán castigados por este delito con las penas que se establecen en el título respectivo.
+Cuando la falsificación fuere tan mal ejecutada que cualquiera pueda notarla y conocerla a la simple vista, los que la hubieren efectuado y los que expendieren o introdujeren el papel sellado o las estampillas así falsificados, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
 #### Artículo 185
 
-El que falsificare boletas para el trasporte de personas o cosas, o para reuniones o espectáculos públicos, con el propósito de usarlas o de circularlas fraudulentamente, i el que a sabiendas de que son falsificadas las usare o circulare; el que falsificare el sello, timbre o marca de una autoridad cualquiera, de un establecimiento privado de banco, de industria o de comercio, o de un particular, o hiciere uso de los sellos, timbres o marcas falsos, sufrirá la pena de presidio menor en cualquiera de sus grados i multa de ciento a mil pesos.
+El que falsificare boletas para el trasporte de personas o cosas, o para reuniones o espectáculos públicos, con el propósito de usarlas o de circularlas fraudulentamente, y el que a sabiendas de que son falsificadas las usare o circulare; el que falsificare el sello, timbre o marca de una autoridad cualquiera, de un establecimiento privado de banco, de industria o de comercio, o de un particular, o hiciere uso de los sellos, timbres o marcas falsos, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de ciento a mil pesos.
 
 #### Artículo 186
 
-El que habiéndose procurado indebidamente los verdaderos sellos, timbres, punzones, matrices o marcas que tengan alguno de los destinos espresados en los arts. 180 i 181, hiciere de ellos una aplicacion o uso perjudicial a los derechos e intereses del Estado, de una autoridad cualquiera o de un particular, será castigado con presidio menor en cualquiera de sus grados i multa de ciento a mil pesos.
+El que habiéndose procurado indebidamente los verdaderos sellos, timbres, punzones, matrices o marcas que tengan alguno de los destinos expresados en los arts. 180 y 181, hiciere de ellos una aplicación o uso perjudicial a los derechos e intereses del Estado, de una autoridad cualquiera o de un particular, será castigado con presidio menor en cualquiera de sus grados y multa de ciento a mil pesos.
 
 #### Artículo 187
 
-El que falsificare los sellos, timbres, punzones, matrices o marcas, que tengan alguno de los destinos espresados en los arts. 180 i 181 i que pertenezcan a paises estranjeros, o el que hiciere uso de dichos sellos, timbres, punzones, matrices o marcas falsos, sufrirá las penas de presidio menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+El que falsificare los sellos, timbres, punzones, matrices o marcas, que tengan alguno de los destinos expresados en los arts. 180 y 181 y que pertenezcan a países extranjeros, o el que hiciere uso de dichos sellos, timbres, punzones, matrices o marcas falsos, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
 #### Artículo 188
 
-Las penas serán presidio menor en sus grados mínimo a medio i multa de ciento a mil pesos, cuando habiéndose procurado indebidamente los verdaderos sellos, timbres, punzones, matrices o marcas, se hubiere hecho de ellos en Chile una aplicacion o uso perjudicial a los derechos e intereses de esos paises, de una autoridad cualquiera o de un particular.
+Las penas serán presidio menor en sus grados mínimo a medio y multa de ciento a mil pesos, cuando habiéndose procurado indebidamente los verdaderos sellos, timbres, punzones, matrices o marcas, se hubiere hecho de ellos en Chile una aplicación o uso perjudicial a los derechos e intereses de esos países, de una autoridad cualquiera o de un particular.
 
 #### Artículo 189
 
-El que hiciere desaparecer de estampillas de correos u otras adhesivas, o de boletas para el transporte de personas o cosas, la marca que indica que ya han servido, con el fin de utilizarlas, y el que, a sabiendas espendiere o usare estampillas o boletas de las cuales se ha hecho desaparecer dicha marca, siempre que en uno y otro caso el valor de tales estampillas o boletas exceda de treinta pesos, será castigado con reclusion menor en su grado mínimo o multa de ciento a trescientos pesos.
+El que hiciere desaparecer de estampillas de correos u otras adhesivas, o de boletas para el transporte de personas o cosas, la marca que indica que ya han servido, con el fin de utilizarlas, y el que, a sabiendas expendiere o usare estampillas o boletas de las cuales se ha hecho desaparecer dicha marca, siempre que en uno y otro caso el valor de tales estampillas o boletas exceda de treinta pesos, será castigado con reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
 
 #### Artículo 190
 
-El que hiciere poner sobre objetos fabricados el nombre de un fabricante que no sea autor de tales objetos, o la razon comercial de una fábrica que no sea la de la verdadera fabricacion, sufrirá las penas de presidio menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+El que hiciere poner sobre objetos fabricados el nombre de un fabricante que no sea autor de tales objetos, o la razón comercial de una fábrica que no sea la de la verdadera fabricación, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
-Las mismas penas se aplicarán a todo mercader, comisionista o vendedor que a sabiendas hubiere puesto en venta o circulacion objetos marcados con nombres supuestos o alterados.
+Las mismas penas se aplicarán a todo mercader, comisionista o vendedor que a sabiendas hubiere puesto en venta o circulación objetos marcados con nombres supuestos o alterados.
 
 #### Artículo 191
 
@@ -1444,27 +1454,27 @@ La tentativa para cualquiera de los delitos enumerados en los artículos precede
 
 #### Artículo 192
 
-Quedan exentos de pena los culpables de los delitos castigados por los arts. 162, 163, 165, 167, 172, 173, 174, 175, 180, 181 i 182 siempre que, ántes de haberse hecho uso de los objetos falsificados, sin ser descubiertos i no habiéndose iniciado procedimiento, alguno en su contra, se delataren a la autoridad, revelándole las circunstancias del delito.
+Quedan exentos de pena los culpables de los delitos castigados por los arts. 162, 163, 165, 167, 172, 173, 174, 175, 180, 181 y 182 siempre que, antes de haberse hecho uso de los objetos falsificados, sin ser descubiertos y no habiéndose iniciado procedimiento, alguno en su contra, se delataren a la autoridad, revelándole las circunstancias del delito.
 
-### IV. De la falsificacion de documentos públicos o auténticos
+### IV. De la falsificación de documentos públicos o auténticos
 
 #### Artículo 193
 
 Será castigado con presidio menor en su grado máximo a presidio mayor en su grado mínimo el empleado público que, abusando de su oficio, cometiere falsedad:
 
-1.° Contrahaciendo o finjiendo letra, firma o rúbrica.
+1.° Contrahaciendo o fingiendo letra, firma o rúbrica.
 
-2.° Suponiendo en un acto la intervencion de personas que no la han tenido.
+2.° Suponiendo en un acto la intervención de personas que no la han tenido.
 
 3.° Atribuyendo a los que han intervenido en él declaraciones o manifestaciones diferentes de las que hubieren hecho.
 
-4.° Faltando a la verdad en la narracion de hechos sustanciales.
+4.° Faltando a la verdad en la narración de hechos sustanciales.
 
 5.° Alterando las fechas verdaderas.
 
-6.° Haciendo en documento verdadero cualquiera alteracion o intercalacion que varíe su sentido.
+6.° Haciendo en documento verdadero cualquiera alteración o intercalación que varíe su sentido.
 
-7.° Dando copia en forma fehaciente de un documento supuesto, o manifestando en ella cosa contraria o diferente de la que contenga el verdadero orijinal.
+7.° Dando copia en forma fehaciente de un documento supuesto, o manifestando en ella cosa contraria o diferente de la que contenga el verdadero original.
 
 8.° Ocultando en perjuicio del Estado o de un particular cualquier documento oficial.
 
@@ -1480,65 +1490,65 @@ El encargado o empleado de una oficina telegráfica que cometiere falsedad en el
 
 El que maliciosamente hiciere uso del instrumento o parte falso, será castigado como si fuere autor de la falsedad.
 
-### V. De la falsificacion de instrumentos privados
+### V. De la falsificación de instrumentos privados
 
 #### Artículo 197
 
-El que, con perjuicio de tercero, cometiere en instrumento privado alguna de las falsedades designadas en el art. 193, sufrirá las penas de presidio menor en cualquiera de sus grados i multa de ciento a mil pesos, o solo la primera de ellas segun las circunstancias.
+El que, con perjuicio de tercero, cometiere en instrumento privado alguna de las falsedades designadas en el art. 193, sufrirá las penas de presidio menor en cualquiera de sus grados y multa de ciento a mil pesos, o sólo la primera de ellas según las circunstancias.
 
-Si tales falsedades se hubieren cometido en letras de cambio u otra clase de documentos mercantiles, se castigará a los culpables con presidio menor en su grado máximo i multa de quinientos a mil pesos, o solo con la primera de estas penas atendidas las circunstancias.
+Si tales falsedades se hubieren cometido en letras de cambio u otra clase de documentos mercantiles, se castigará a los culpables con presidio menor en su grado máximo y multa de quinientos a mil pesos, o sólo con la primera de estas penas atendidas las circunstancias.
 
 #### Artículo 198
 
 El que maliciosamente hiciere uso de los instrumentos falsos a que se refiere el artículo anterior, será castigado como si fuera autor de la falsedad.
 
-### VI. De la falsificacion de pasaportes, portes de armas i certificados
+### VI. De la falsificación de pasaportes, portes de armas y certificados
 
 #### Artículo 199
 
-El empleado público que espidiere un pasaporte o porte de armas bajo nombre supuesto o lo diere en blanco, sufrirá las penas de reclusion menor en sus grados mínimo a medio e inhabilitacion absoluta temporal para cargos i oficios públicos en los mismos grados.
+El empleado público que expidiere un pasaporte o porte de armas bajo nombre supuesto o lo diere en blanco, sufrirá las penas de reclusión menor en sus grados mínimo a medio e inhabilitación absoluta temporal para cargos y oficios públicos en los mismos grados.
 
 #### Artículo 200
 
-El que hiciere un pasaporte o porte de armas falso, será castigado con reclusion menor en su grado medio i multa de ciento a quinientos pesos.
+El que hiciere un pasaporte o porte de armas falso, será castigado con reclusión menor en su grado medio y multa de ciento a quinientos pesos.
 
-Las mismas penas se impondrán al que en un pasaporte o porte de armas verdadero mudare el nombre de la persona a cuyo favor se halle espedido, o el de la autoridad que lo espidió, o que altere en él alguna otra circunstancia esencial.
+Las mismas penas se impondrán al que en un pasaporte o porte de armas verdadero mudare el nombre de la persona a cuyo favor se halle expedido, o el de la autoridad que lo expidió, o que altere en él alguna otra circunstancia esencial.
 
 #### Artículo 201
 
 El que hiciere uso del pasaporte o porte de armas falso a que se refiere el artículo anterior, incurrirá en una multa de ciento a trescientos pesos.
 
-La misma pena se impondrá al que hiciere uso de un pasaporte o porte de armas verdadero espedido a favor de otra persona.
+La misma pena se impondrá al que hiciere uso de un pasaporte o porte de armas verdadero expedido a favor de otra persona.
 
 #### Artículo 202
 
-El facultativo que librare certificacion falsa de enfermedad o lesion con el fin de eximir a una persona de algun servicio público, será castigado con reclusion menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+El facultativo que librare certificación falsa de enfermedad o lesión con el fin de eximir a una persona de algún servicio público, será castigado con reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
 #### Artículo 203
 
-El empleado público que librare certificacion falsa de méritos o servicios, de buena conducta, de pobreza, o de otras circunstancias semejantes de recomendacion, incurrirá en una multa de ciento a quinientos pesos.
+El empleado público que librare certificación falsa de méritos o servicios, de buena conducta, de pobreza, o de otras circunstancias semejantes de recomendación, incurrirá en una multa de ciento a quinientos pesos.
 
 #### Artículo 204
 
-El que falsificare un documento de la clase designada en los dos artículos anteriores, será castigado con reclusion menor en su grado mínimo i multa de ciento a trescientos pesos.
+El que falsificare un documento de la clase designada en los dos artículos anteriores, será castigado con reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
 
-Esta disposicion es aplicable al que maliciosamente usare, con el mismo fin, de los documentos falsos.
+Esta disposición es aplicable al que maliciosamente usare, con el mismo fin, de los documentos falsos.
 
 #### Artículo 205
 
-El que falsificare certificados de funcionarios públicos que puedan comprometer intereses públicos o privados, sufrirá la pena de reclusion menor en su grado medio.
+El que falsificare certificados de funcionarios públicos que puedan comprometer intereses públicos o privados, sufrirá la pena de reclusión menor en su grado medio.
 
-Si el certificado ha sido falsificado bajo el nombre de un particular, la pena será reclusion menor en su grado mínimo.
+Si el certificado ha sido falsificado bajo el nombre de un particular, la pena será reclusión menor en su grado mínimo.
 
-### VII. Del falso testimonio i del perjurio
+### VII. Del falso testimonio y del perjurio
 
 #### Artículo 206
 
-El que en causa criminal diere falso testimonio a favor del reo, será castigado con la pena de presidio menor en su grado máximo i multa de quinientos a mil pesos, si la causa fuere por crímen; con presidio menor en su grado medio i multa de ciento a quinientos pesos, si fuere por simple delito, i con presidio menor en su grado mínimo i multa de ciento a trescientos pesos, cuando fuere por falta.
+El que en causa criminal diere falso testimonio a favor del reo, será castigado con la pena de presidio menor en su grado máximo y multa de quinientos a mil pesos, si la causa fuere por crimen; con presidio menor en su grado medio y multa de ciento a quinientos pesos, si fuere por simple delito, y con presidio menor en su grado mínimo y multa de ciento a trescientos pesos, cuando fuere por falta.
 
 #### Artículo 207
 
-El que diere falso testimonio en contra del reo, sufrirá las penas de presidio mayor en su grado mínimo i multa de mil a tres mil pesos, si la causa fuere por crímen; de presidio menor en su grado máximo i multa de quinientos a mil pesos, si fuere por simple delito, i de presidio menor en su grado medio i multa de ciento a quinientos pesos e inhabilitacion absoluta perpetua para derechos políticos i por el tiempo de la condena para cargos i oficios públicos, cuando fuere por falta.
+El que diere falso testimonio en contra del reo, sufrirá las penas de presidio mayor en su grado mínimo y multa de mil a tres mil pesos, si la causa fuere por crimen; de presidio menor en su grado máximo y multa de quinientos a mil pesos, si fuere por simple delito, y de presidio menor en su grado medio y multa de ciento a quinientos pesos e inhabilitación absoluta perpetua para derechos políticos y por el tiempo de la condena para cargos y oficios públicos, cuando fuere por falta.
 
 #### Artículo 208
 
@@ -1546,245 +1556,245 @@ Si en virtud del falso testimonio se hubiere impuesto al acusado una pena respec
 
 #### Artículo 209
 
-El falso testimonio en causa civil, será castigado con presidio menor en su grado medio i multa de ciento a mil pesos.
+El falso testimonio en causa civil, será castigado con presidio menor en su grado medio y multa de ciento a mil pesos.
 
-Si el valor de la demanda no excediere de ciento cincuenta pesos, las penas serán presidio menor en su grado mínimo i multa de ciento a trescientos pesos.
+Si el valor de la demanda no excediere de ciento cincuenta pesos, las penas serán presidio menor en su grado mínimo y multa de ciento a trescientos pesos.
 
 #### Artículo 210
 
-El que ante la autoridad o sus ajentes perjurare o diere falso testimonio en materia que no sea contenciosa, sufrirá las penas de presidio menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+El que ante la autoridad o sus agentes perjurare o diere falso testimonio en materia que no sea contenciosa, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
 #### Artículo 211
 
-La acusacion o denuncia que hubiere sido declarada calumniosa por sentencia ejecutoriada, será castigada con presidio menor en su grado máximo i multa de quinientos a mil pesos, cuando versare sobre un crímen; con presidio menor en su grado medio i multa de ciento a quinientos pesos, si fuere sobre simple delito, i con presidio menor en su grado mínimo i multa de ciento a trescientos pesos, si se tratare de una falta.
+La acusación o denuncia que hubiere sido declarada calumniosa por sentencia ejecutoriada, será castigada con presidio menor en su grado máximo y multa de quinientos a mil pesos, cuando versare sobre un crimen; con presidio menor en su grado medio y multa de ciento a quinientos pesos, si fuere sobre simple delito, y con presidio menor en su grado mínimo y multa de ciento a trescientos pesos, si se tratare de una falta.
 
 #### Artículo 212
 
 El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado como reo de falso testimonio.
 
-### VIII. De la usurpacion de funciones o nombres
+### VIII. De la usurpación de funciones o nombres
 
 #### Artículo 213
 
-El que se finjiere autoridad, empleado público o profesor de una facultad que requiera título i ejerciere actos propios de dichos cargos o profesiones, sufrirá las penas de reclusion menor en cualquiera de sus grados i multa de ciento a mil pesos.
+El que se fingiere autoridad, empleado público o profesor de una facultad que requiera título y ejerciere actos propios de dichos cargos o profesiones, sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
 
 #### Artículo 214
 
-En las mismas penas del artículo anterior incurrirá el lego que sin derecho ejerciere funciones sacerdotales, como tambien el eclesiástico que las ejerciere, hallándose suspenso por autoridad competente, sin perjuicio de las penas espirituales que esta pueda imponer.
+En las mismas penas del artículo anterior incurrirá el lego que sin derecho ejerciere funciones sacerdotales, como también el eclesiástico que las ejerciere, hallándose suspenso por autoridad competente, sin perjuicio de las penas espirituales que esta pueda imponer.
 
 #### Artículo 215
 
-El que usurpare el nombre de otro será castigado con reclusion menor en su grado mínimo, sin perjuicio de la pena que pudiera corresponderle a consecuencia del daño que en su fama o intereses ocasionare a la persona cuyo nombre ha usurpado.
+El que usurpare el nombre de otro será castigado con reclusión menor en su grado mínimo, sin perjuicio de la pena que pudiera corresponderle a consecuencia del daño que en su fama o intereses ocasionare a la persona cuyo nombre ha usurpado.
 
 ## Título Quinto
 
-DE LOS CRÍMENES I SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS.
+DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS.
 
-### I. Anticipacion i prolongacion indebida de funciones públicas
+### I. Anticipación y prolongación indebida de funciones públicas
 
 #### Artículo 216
 
-El que hubiere entrado a desempeñar un empleo o cargo público sin haber prestado en debida forma el juramento o fianza, o llenado las demas formalidades exijidas por la lei, quedará suspenso del empleo o cargo hasta que cumpla con aquellos requisitos, incurriendo ademas en una multa de ciento a quinientos pesos.
+El que hubiere entrado a desempeñar un empleo o cargo público sin haber prestado en debida forma el juramento o fianza, o llenado las demás formalidades exigidas por la ley, quedará suspenso del empleo o cargo hasta que cumpla con aquellos requisitos, incurriendo además en una multa de ciento a quinientos pesos.
 
 #### Artículo 217
 
-El empleado público que continuare desempeñando su empleo, cargo o comision despues de que debiere cesar conforme a las leyes, reglamentos o disposiciones especiales de su ramo respectivo, será castigado con las penas de inhabilitacion especial temporal para el cargo u oficio en su grado mínimo i multa de ciento a trescientos pesos.
+El empleado público que continuare desempeñando su empleo, cargo o comisión después de que debiere cesar conforme a las leyes, reglamentos o disposiciones especiales de su ramo respectivo, será castigado con las penas de inhabilitación especial temporal para el cargo u oficio en su grado mínimo y multa de ciento a trescientos pesos.
 
 #### Artículo 218
 
-El empleado culpable de cualquiera de los delitos penados en los dos artículos anteriores, que hubiere percibido emolumentos por razon de su cargo o comision, será ademas obligado a restituirlos con la multa de diez al quince por ciento de su importe.
+El empleado culpable de cualquiera de los delitos penados en los dos artículos anteriores, que hubiere percibido emolumentos por razón de su cargo o comisión, será además obligado a restituirlos con la multa de diez al quince por ciento de su importe.
 
 #### Artículo 219
 
-El empleado público que legalmente requerido de inhibicion, continuare procediendo antes que se decida la contienda, será castigado con multa de ciento a quinientos pesos.
+El empleado público que legalmente requerido de inhibición, continuare procediendo antes que se decida la contienda, será castigado con multa de ciento a quinientos pesos.
 
 ### II. Nombramientos ilegales
 
 #### Artículo 220
 
-El empleado público que a sabiendas nombrare o propusiere para cargo público a persona en quien no concurran los requisitos legales, sufrirá las penas de suspension del empleo en su grado mínimo i multa de ciento a quinientos pesos.
+El empleado público que a sabiendas nombrare o propusiere para cargo público a persona en quien no concurran los requisitos legales, sufrirá las penas de suspensión del empleo en su grado mínimo y multa de ciento a quinientos pesos.
 
-### III. Usurpacion de atribuciones
+### III. Usurpación de atribuciones
 
 #### Artículo 221
 
-El empleado público que dictare reglamentos o disposiciones jenerales excediendo maliciosamente sus atribuciones, será castigado con suspension del empleo en su grado medio.
+El empleado público que dictare reglamentos o disposiciones generales excediendo maliciosamente sus atribuciones, será castigado con suspensión del empleo en su grado medio.
 
 #### Artículo 222
 
-El empleado del orden judicial que se arrogare atribuciones propias de las autoridades administrativas o impidiere a éstas el ejercicio lejítimo de las suyas, sufrirá la pena de suspension del empleo en su grado medio.
+El empleado del orden judicial que se arrogare atribuciones propias de las autoridades administrativas o impidiere a éstas el ejercicio legítimo de las suyas, sufrirá la pena de suspensión del empleo en su grado medio.
 
-En la misma pena incurrirá todo empleado del órden administrativo que se arrogare atribuciones judiciales o impidiere la ejecucion de una providencia dictada por tribunal competente.
+En la misma pena incurrirá todo empleado del orden administrativo que se arrogare atribuciones judiciales o impidiere la ejecución de una providencia dictada por tribunal competente.
 
-Las disposiciones de este artículo solo se harán efectivas cuando entablada la competencia i resuelta por la autoridad correspondiente, los empleados administrativos o judiciales continuaren procediendo indebidamente.
+Las disposiciones de este artículo sólo se harán efectivas cuando entablada la competencia y resuelta por la autoridad correspondiente, los empleados administrativos o judiciales continuaren procediendo indebidamente.
 
-### IV. Prevaricacion
+### IV. Prevaricación
 
 #### Artículo 223
 
-Los miembros de los tribunales de justicia colejiados o unipersonales i los funcionarios que desempeñan el ministerio público, sufrirán las penas de inhabilitacion absoluta perpetua para cargos i oficios públicos, derechos políticos i profesiones titulares i la de presidio o reclusion menores en cualesquiera de sus grados:
+Los miembros de los tribunales de justicia colegiados o unipersonales y los funcionarios que desempeñan el ministerio público, sufrirán las penas de inhabilitación absoluta perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares y la de presidio o reclusión menores en cualesquiera de sus grados:
 
-1° Cuando a sabiendas fallaren contra lei espresa i vijente en causa criminal o civil.
+1° Cuando a sabiendas fallaren contra ley expresa y vigente en causa criminal o civil.
 
-2° Cuando por sí o por interpuesta persona admitan o convengan en admitir dádiva o regalo por hacer o dejar de hacer algun acto de su cargo.
+2° Cuando por sí o por interpuesta persona admitan o convengan en admitir dádiva o regalo por hacer o dejar de hacer algún acto de su cargo.
 
 3° Cuando ejerciendo las funciones de su empleo o valiéndose del poder que éste les da, seduzcan o soliciten a mujer procesada o que litigue ante ellos.
 
 #### Artículo 224
 
-Sufrirán las penas de inhabilitacion absoluta temporal para cargos i oficios públicos en cualquiera de sus grados i la de presidio o reclusion menores en sus grados mínimos a medios:
+Sufrirán las penas de inhabilitación absoluta temporal para cargos y oficios públicos en cualquiera de sus grados y la de presidio o reclusión menores en sus grados mínimos a medios:
 
-1° Cuando por neglijencia o ignorancia inescusables dictaren sentencia manifiestamente injusta en causa criminal.
+1° Cuando por negligencia o ignorancia inexcusables dictaren sentencia manifiestamente injusta en causa criminal.
 
-2° Cuando a sabiendas contravinieren a las leyes que reglan la sustanciacion de los juicios, en términos de producir nulidad en todo o en parte sustancial.
+2° Cuando a sabiendas contravinieren a las leyes que reglan la sustanciación de los juicios, en términos de producir nulidad en todo o en parte sustancial.
 
-3° Cuando maliciosamente nieguen o retarden la administracion de justicia i el ausilio o proteccion que legalmente se les pida.
+3° Cuando maliciosamente nieguen o retarden la administración de justicia y el auxilio o protección que legalmente se les pida.
 
-4° Cuando maliciosamente omitan decretar la prision de alguna persona, habiendo motivo legal para ello, o no lleven a efecto la decretada, pudiendo hacerlo.
+4° Cuando maliciosamente omitan decretar la prisión de alguna persona, habiendo motivo legal para ello, o no lleven a efecto la decretada, pudiendo hacerlo.
 
-5° Cuando maliciosamente retuvieren en calidad de preso a un individuo que debiera ser puesto en libertad con arreglo a la lei.
+5° Cuando maliciosamente retuvieren en calidad de preso a un individuo que debiera ser puesto en libertad con arreglo a la ley.
 
-6° Cuando revelen los secretos del juicio o den ausilio o consejo a cualquiera de las partes interesadas en él, en perjuicio de la contraria.
+6° Cuando revelen los secretos del juicio o den auxilio o consejo a cualquiera de las partes interesadas en él, en perjuicio de la contraria.
 
-7° Cuando con manifiesta implicancia, que les sea conocida i sin haberla hecho saber previamente a las partes, fallaren en causa criminal o civil.
+7° Cuando con manifiesta implicancia, que les sea conocida y sin haberla hecho saber previamente a las partes, fallaren en causa criminal o civil.
 
 #### Artículo 225
 
-Incurrirán en las penas de suspension de cargo o empleo en cualquiera de sus grados i multa de ciento a mil pesos o solo en esta última, cuando por neglijencia o ignorancia inescusables:
+Incurrirán en las penas de suspensión de cargo o empleo en cualquiera de sus grados y multa de ciento a mil pesos o sólo en esta última, cuando por negligencia o ignorancia inexcusables:
 
 1.° Dictaren sentencia manifiestamente injusta en causa civil.
 
-2° Contravinieren a las leyes que reglan la sustanciacion de los juicios en términos de producir nulidad en todo o en parte sustancial.
+2° Contravinieren a las leyes que reglan la sustanciación de los juicios en términos de producir nulidad en todo o en parte sustancial.
 
-3º Negaren o retardaren la administracion de justicia i el ausilio o proteccion que legalmente se les pida.
+3º Negaren o retardaren la administración de justicia y el auxilio o protección que legalmente se les pida.
 
-4° Omitieren decretar la prision de alguna persona, habiendo motivo legal para ello, o no llevaren a efecto la decretada, pudiendo hacerlo.
+4° Omitieren decretar la prisión de alguna persona, habiendo motivo legal para ello, o no llevaren a efecto la decretada, pudiendo hacerlo.
 
-5º Retuvieren preso por mas de cuarenta i ocho horas a un individuo que debiera ser puesto en libertad con arreglo a la lei.
+5º Retuvieren preso por más de cuarenta y ocho horas a un individuo que debiera ser puesto en libertad con arreglo a la ley.
 
 #### Artículo 226
 
-En las mismas penas incurrirán cuando no cumplan las órdenes que legalmente se les comuniquen por las autoridades superiores competentes, a ménos de ser evidentemente contrarias a las leyes, o que haya motivo fundado para dudar de su autenticidad, o que aparezca que se han obtenido por engaño o se tema con razon que de su ejecucion resulten graves males que el superior no pudo prever.
+En las mismas penas incurrirán cuando no cumplan las órdenes que legalmente se les comuniquen por las autoridades superiores competentes, a menos de ser evidentemente contrarias a las leyes, o que haya motivo fundado para dudar de su autenticidad, o que aparezca que se han obtenido por engaño o se tema con razón que de su ejecución resulten graves males que el superior no pudo prever.
 
-En estos casos el tribunal, suspendiendo el cumplimiento de la orden, representará inmediatamente a la autoridad superior las razones de la suspension, i si ésta insistiere, le dará cumplimiento, libertándose así de responsabilidad, que recaerá sobre el que la mandó cumplir.
+En estos casos el tribunal, suspendiendo el cumplimiento de la orden, representará inmediatamente a la autoridad superior las razones de la suspensión, y si ésta insistiere, le dará cumplimiento, libertándose así de responsabilidad, que recaerá sobre el que la mandó cumplir.
 
 #### Artículo 227
 
 Se aplicarán respectivamente las penas determinadas en los artículos precedentes:
 
-1.° A las personas que, desempeñando por ministerio de la lei los cargos de miembros de los tribunales de justicia colejiados o unipersonales, se hicieren reos de alguno de los crímenes o simples delitos enumerados en dichos artículos.
+1.° A las personas que, desempeñando por ministerio de la ley los cargos de miembros de los tribunales de justicia colegiados o unipersonales, se hicieren reos de alguno de los crímenes o simples delitos enumerados en dichos artículos.
 
 2.º A los subdelegados e inspectores que incurrieren en iguales infracciones.
 
-3.° A los compromisarios, peritos i otras personas que, ejerciendo atribuciones análogas, derivadas de la lei, del tribunal o del nombramiento de las partes, se hallaren en idénticos casos.
+3.° A los compromisarios, peritos y otras personas que, ejerciendo atribuciones análogas, derivadas de la ley, del tribunal o del nombramiento de las partes, se hallaren en idénticos casos.
 
 #### Artículo 228
 
-El que, desempeñando un empleo público no perteneciente al órden judicial, dictare a sabiendas providencia o resolucion manifiestamente injusta en negocio contencioso-administrativo o meramente administrativo, incurrirá en las penas de suspension del empleo en su grado medio i multa de ciento a quinientos pesos.
+El que, desempeñando un empleo público no perteneciente al orden judicial, dictare a sabiendas providencia o resolución manifiestamente injusta en negocio contencioso-administrativo o meramente administrativo, incurrirá en las penas de suspensión del empleo en su grado medio y multa de ciento a quinientos pesos.
 
-Si la resolucion o providencia manifiestamente injusta la diere por neglijencia o ignorancia inescusables, las penas serán suspension en su grado mínimo i multa de ciento a trescientos pesos.
+Si la resolución o providencia manifiestamente injusta la diere por negligencia o ignorancia inexcusables, las penas serán suspensión en su grado mínimo y multa de ciento a trescientos pesos.
 
 #### Artículo 229
 
-Sufrirán las penas de suspension de empleo en su grado medio i multa de ciento a quinientos pesos los funcionarios a que se refiere el artículo anterior, que, por malicia o neglijencia inescusables i faltando a las obligaciones de su oficio, no procedieren a la persecucion o aprehension de los delincuentes despues de requerimiento o denuncia formal hecha por escrito.
+Sufrirán las penas de suspensión de empleo en su grado medio y multa de ciento a quinientos pesos los funcionarios a que se refiere el artículo anterior, que, por malicia o negligencia inexcusables y faltando a las obligaciones de su oficio, no procedieren a la persecución o aprehensión de los delincuentes después de requerimiento o denuncia formal hecha por escrito.
 
 #### Artículo 230
 
-Si no tuviere renta el funcionario que debe ser penado con suspension o inhabilitacion para cargos o empleos públicos, se le aplicará ademas de estas penas la de reclusion menor en cualquiera de sus grados o multa de ciento a mil pesos, segun los casos.
+Si no tuviere renta el funcionario que debe ser penado con suspensión o inhabilitación para cargos o empleos públicos, se le aplicará además de estas penas la de reclusión menor en cualquiera de sus grados o multa de ciento a mil pesos, según los casos.
 
 #### Artículo 231
 
-El abogado o procurador que con abuso malicioso de su oficio, perjudicare a su cliente o descubriere sus secretos, será castigado segun la gravedad del perjuicio que causare, con la pena de suspension en su grado mínimo a inhabilitacion especial perpetua para el cargo o profesion i multa de ciento a mil pesos.
+El abogado o procurador que con abuso malicioso de su oficio, perjudicare a su cliente o descubriere sus secretos, será castigado según la gravedad del perjuicio que causare, con la pena de suspensión en su grado mínimo a inhabilitación especial perpetua para el cargo o profesión y multa de ciento a mil pesos.
 
 #### Artículo 232
 
-El abogado que, teniendo la defensa actual de un pleito, patrocinare a la vez a la parte contraria en el mismo negocio, sufrirá las penas de inhabilitacion especial perpetua para el ejercicio de la profesion i multa de ciento a mil pesos.
+El abogado que, teniendo la defensa actual de un pleito, patrocinare a la vez a la parte contraria en el mismo negocio, sufrirá las penas de inhabilitación especial perpetua para el ejercicio de la profesión y multa de ciento a mil pesos.
 
-### V. Malversacion de caudales públicos
+### V. Malversación de caudales públicos
 
 #### Artículo 233
 
-El empleado público que, teniendo a su cargo caudales o efectos públicos o de particulares en depósito, consignacion o secuestro, los sustrajere o consintiere que otro los sustraiga, será castigado:
+El empleado público que, teniendo a su cargo caudales o efectos públicos o de particulares en depósito, consignación o secuestro, los sustrajere o consintiere que otro los sustraiga, será castigado:
 
-1.° Con la pena de presidio menor en su grado medio, si la sustraccion no excediere de cincuenta pesos.
+1.° Con la pena de presidio menor en su grado medio, si la sustracción no excediere de cincuenta pesos.
 
-2° Con la de presidio menor en su grado máximo, si excediere de cincuenta i no pasare de quinientos pesos.
+2° Con la de presidio menor en su grado máximo, si excediere de cincuenta y no pasare de quinientos pesos.
 
 3.° Con la de presidio mayor en sus grados mínimo a medio, si excediere de quinientos pesos.
 
-En todos los casos con la pena de inhabilitacion absoluta temporal en su grado mínimo a inhabilitacion absoluta perpetua para cargos i oficios públicos.
+En todos los casos con la pena de inhabilitación absoluta temporal en su grado mínimo a inhabilitación absoluta perpetua para cargos y oficios públicos.
 
 #### Artículo 234
 
-El empleado público que, por abandono o neglijencia inescusables, diere ocasion a que se efectúe por otra persona la sustraccion de caudales o efectos públicos o de particulares de que se trata en los tres números del artículo anterior, incurrirá en la pena de suspension en cualquiera de sus grados, quedando ademas obligado a la devolucion de la cantidad o efectos sustraidos.
+El empleado público que, por abandono o negligencia inexcusables, diere ocasión a que se efectúe por otra persona la sustracción de caudales o efectos públicos o de particulares de que se trata en los tres números del artículo anterior, incurrirá en la pena de suspensión en cualquiera de sus grados, quedando además obligado a la devolución de la cantidad o efectos sustraídos.
 
 #### Artículo 235
 
-El empleado que, con daño o entorpecimiento del servicio público, aplicare a usos propios o ajenos los caudales o efectos puestos a su cargo, sufrirá las penas de inhabilitacion especial temporal para el cargo u oficio en su grado medio i multa de diez al cincuenta por ciento de la cantidad que hubiere sustraido.
+El empleado que, con daño o entorpecimiento del servicio público, aplicare a usos propios o ajenos los caudales o efectos puestos a su cargo, sufrirá las penas de inhabilitación especial temporal para el cargo u oficio en su grado medio y multa de diez al cincuenta por ciento de la cantidad que hubiere sustraído.
 
 No verificado el reintegro, se le aplicarán las penas señaladas en el art. 233.
 
-Si el uso indebido de los fondos fuere sin daño ni entorpecimiento del servicio público, las penas serán suspension del empleo en su grado medio i multa del cinco al veinte i cinco por ciento de la cantidad sustraida, sin perjuicio del reintegro.
+Si el uso indebido de los fondos fuere sin daño ni entorpecimiento del servicio público, las penas serán suspensión del empleo en su grado medio y multa del cinco al veinticinco por ciento de la cantidad sustraída, sin perjuicio del reintegro.
 
 #### Artículo 236
 
-El empleado público que arbitrariamente diere a los caudales o efectos que administre una aplicacion pública diferente de aquella a que estuvieren destinados, será castigado con la pena de suspension del empleo en su grado medio, si de ello resultare daño o entorpecimiento para el servicio u objeto en que debían emplearse, i con la misma en su grado mínimo, si no resultare daño o entorpecimiento.
+El empleado público que arbitrariamente diere a los caudales o efectos que administre una aplicación pública diferente de aquella a que estuvieren destinados, será castigado con la pena de suspensión del empleo en su grado medio, si de ello resultare daño o entorpecimiento para el servicio u objeto en que debían emplearse, y con la misma en su grado mínimo, si no resultare daño o entorpecimiento.
 
 #### Artículo 237
 
-El empleado público que, debiendo hacer un pago como tenedor de fondos del Estado, rehusare hacerlo sin causa bastante, sufrirá la pena de suspension del empleo en sus grados mínimo a medio.
+El empleado público que, debiendo hacer un pago como tenedor de fondos del Estado, rehusare hacerlo sin causa bastante, sufrirá la pena de suspensión del empleo en sus grados mínimo a medio.
 
-Esta disposicion es aplicable al empleado público que, requerido por órden de autoridad competente, rehusare hacer entrega de una cosa puesta bajo su custodia o administracion.
+Esta disposición es aplicable al empleado público que, requerido por orden de autoridad competente, rehusare hacer entrega de una cosa puesta bajo su custodia o administración.
 
 #### Artículo 238
 
-Las disposiciones de este párrafo son estensivas al que se halle encargado por cualquier concepto de fondos, rentas o efectos municipales o pertenecientes a un establecimiento público de instruccion o beneficencia.
+Las disposiciones de este párrafo son extensivas al que se halle encargado por cualquier concepto de fondos, rentas o efectos municipales o pertenecientes a un establecimiento público de instrucción o beneficencia.
 
-### VI. Fraudes i exacciones ilegales
+### VI. Fraudes y exacciones ilegales
 
 #### Artículo 239
 
-El empleado publico que en las operaciones en que interviniere por razon de su cargo, defraudare o consintiere que se defraude al Estado, a las municipalidades o a los establecimientos públicos de instruccion o de beneficencia, sea orijinándoles pérdida o privándoles de un lucro lejítimo, incurrirá en las penas de presidio menor en sus grados medio a máximo, inhabilitacion especial perpetua para el cargo u oficio i multa de diez al cincuenta por ciento del perjuicio causado.
+El empleado público que en las operaciones en que interviniere por razón de su cargo, defraudare o consintiere que se defraude al Estado, a las municipalidades o a los establecimientos públicos de instrucción o de beneficencia, sea originándoles pérdida o privándoles de un lucro legítimo, incurrirá en las penas de presidio menor en sus grados medio a máximo, inhabilitación especial perpetua para el cargo u oficio y multa de diez al cincuenta por ciento del perjuicio causado.
 
 #### Artículo 240
 
-El empleado público que directa o indirectamente se interesare en cualquiera clase de contrato u operacion en que deba intervenir por razon de su cargo, será castigado con las penas de reclusion menor en su grado medio, inhabilitacion especial perpetua para el cargo u oficio i multa de diez al cincuenta por ciento del valor del interes que hubiere tomado en el negocio.
+El empleado público que directa o indirectamente se interesare en cualquiera clase de contrato u operación en que deba intervenir por razón de su cargo, será castigado con las penas de reclusión menor en su grado medio, inhabilitación especial perpetua para el cargo u oficio y multa de diez al cincuenta por ciento del valor del interés que hubiere tomado en el negocio.
 
-Esta disposicion es aplicable a los peritos, árbitros i liquidadores comerciales respecto de los bienes o cosas en cuya tasacion, adjudicacion, particion o administracion intervinieren, i a los guardadores i albaceas tenedores de bienes respecto de los pertenecientes a sus pupilos i testamentarías.
+Esta disposición es aplicable a los peritos, árbitros y liquidadores comerciales respecto de los bienes o cosas en cuya tasación, adjudicación, partición o administración intervinieren, y a los guardadores y albaceas tenedores de bienes respecto de los pertenecientes a sus pupilos y testamentarias.
 
-Las mismas penas se impondrán a las personas relacionadas en este artículo, si en el negocio u operacion confiados a su cargo dieren interes a su cónyuje, a alguno de sus ascendientes o descendientes lejítimos por consaguinidad o afinidad, a sus colaterales lejítimos, por consaguinidad hasta el tercer grado inclusive i por afinidad hasta el segundo tambien inclusive, a sus padres o hijos naturales o ilejítimos reconocidos.
+Las mismas penas se impondrán a las personas relacionadas en este artículo, si en el negocio u operación confiados a su cargo dieren interés a su cónyuge, a alguno de sus ascendientes o descendientes legítimos por consanguinidad o afinidad, a sus colaterales legítimos, por consanguinidad hasta el tercer grado inclusive y por afinidad hasta el segundo también inclusive, a sus padres o hijos naturales o ilegítimos reconocidos.
 
 #### Artículo 241
 
-El empleado público que exijiere directa o indirectamente mayores derechos de los que le estén señalados por razon de su cargo, será castigado con una multa del duplo al cuádruplo de la cantidad exijida.
+El empleado público que exigiere directa o indirectamente mayores derechos de los que le estén señalados por razón de su cargo, será castigado con una multa del duplo al cuádruplo de la cantidad exigida.
 
-El culpable habitual de este delito incurrirá ademas en la pena de inhabilitacion especial temporal para el cargo u oficio en su grado medio.
+El culpable habitual de este delito incurrirá además en la pena de inhabilitación especial temporal para el cargo u oficio en su grado medio.
 
 ### VII. Infidelidad en la custodia de documentos
 
 #### Artículo 242
 
-El eclesiástico o empleado público que sustraiga o destruya documentos o papeles que le estuvieren confiados por razon de su cargo, será castigado:
+El eclesiástico o empleado público que sustraiga o destruya documentos o papeles que le estuvieren confiados por razón de su cargo, será castigado:
 
-1.° Con las penas de reclusion menor en su grado máximo i multa de mil a tres mil pesos, siempre que del hecho resulte grave daño de la causa pública o de tercero.
+1.° Con las penas de reclusión menor en su grado máximo y multa de mil a tres mil pesos, siempre que del hecho resulte grave daño de la causa pública o de tercero.
 
-2.° Con reclusion menor en sus grados mínimo a medio i multa de ciento a mil pesos, cuando no concurrieren las circunstancias espresadas en el número anterior.
+2.° Con reclusión menor en sus grados mínimo a medio y multa de ciento a mil pesos, cuando no concurrieren las circunstancias expresadas en el número anterior.
 
 #### Artículo 243
 
-El empleado público que, teniendo a su cargo la custodia de papeles o efectos sellados por la autoridad, quebrantare los sellos o consintiere en su quebrantamiento, sufrirá las penas de reclusion menor en su grados mínimo a medio i multa de ciento a quinientos pesos.
+El empleado público que, teniendo a su cargo la custodia de papeles o efectos sellados por la autoridad, quebrantare los sellos o consintiere en su quebrantamiento, sufrirá las penas de reclusión menor en su grados mínimo a medio y multa de ciento a quinientos pesos.
 
-El guardian que por su neglijencia diere lugar al delito, será castigado con reclusion menor en su grado mínimo o multa de ciento a trescientos pesos.
+El guardián que por su negligencia diere lugar al delito, será castigado con reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
 
 #### Artículo 244
 
-El empleado público que abriere o consintiere que se abran, sin la autorizacion competente, papeles o documentos cerrados cuya custodia le estuviere confiada, incurrirá en las penas de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos.
+El empleado público que abriere o consintiere que se abran, sin la autorización competente, papeles o documentos cerrados cuya custodia le estuviere confiada, incurrirá en las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
 
 #### Artículo 245
 
-Las penas designadas en los tres artículos anteriores son aplicables a los particulares encargados accidentalmente del despacho o custodia de documentos o papeles, por comision del Gobierno o de los funcionarios a quienes hubieren sido confiados aquéllos en razon de su oficio, i que dieren el encargo ejerciendo sus atribuciones.
+Las penas designadas en los tres artículos anteriores son aplicables a los particulares encargados accidentalmente del despacho o custodia de documentos o papeles, por comisión del Gobierno o de los funcionarios a quienes hubieren sido confiados aquéllos en razón de su oficio, y que dieren el encargo ejerciendo sus atribuciones.
 
-### VIII. Violacion de secretos
+### VIII. Violación de secretos
 
 #### Artículo 246
 
@@ -1794,57 +1804,57 @@ Si de la revelación o entrega resultare grave daño para la causa pública, las
 
 #### Artículo 247
 
-El empleado público que, sabiendo por razon de su cargo los secretos de un particular, los descubriere con perjuicio de éste, incurrirá en las penas de reclusion menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+El empleado público que, sabiendo por razón de su cargo los secretos de un particular, los descubriere con perjuicio de éste, incurrirá en las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
-Las mismas penas se aplicarán a los que, ejerciendo alguna de las profesiones que requieren título, revelen los secretos que por razon de ella se les hubieren confiado.
+Las mismas penas se aplicarán a los que, ejerciendo alguna de las profesiones que requieren título, revelen los secretos que por razón de ella se les hubieren confiado.
 
 ### IX. Cohecho
 
 #### Artículo 248
 
-El empleado público que por dádiva o promesa cometiere alguno de los crímenes o simples delitos espresados en este título, ademas de las penas señaladas para ellos, incurrirá en las de inhabilitacion especial perpetua para el cargo u oficio i multa de la mitad al tanto de la dádiva o promesa aceptada.
+El empleado público que por dádiva o promesa cometiere alguno de los crímenes o simples delitos expresados en este título, además de las penas señaladas para ellos, incurrirá en las de inhabilitación especial perpetua para el cargo u oficio y multa de la mitad al tanto de la dádiva o promesa aceptada.
 
 #### Artículo 249
 
-El empleado público que por dádiva o promesa ejecutare un acto obligatorio propio de su cargo, no sujeto a remuneracion, será penado con una multa de la mitad al tanto de la dádiva o promesa aceptada.
+El empleado público que por dádiva o promesa ejecutare un acto obligatorio propio de su cargo, no sujeto a remuneración, será penado con una multa de la mitad al tanto de la dádiva o promesa aceptada.
 
-En la misma multa sola o acompañada de la inhabilitacion especial perpetua para el cargo u oficio, incurrirá el empleado que omitiere por dádiva o promesa un acto debido propio de su cargo.
+En la misma multa sola o acompañada de la inhabilitación especial perpetua para el cargo u oficio, incurrirá el empleado que omitiere por dádiva o promesa un acto debido propio de su cargo.
 
 #### Artículo 250
 
-El sobornante será castigado con las penas correspondientes a los cómplices en los casos respectivos, escepto las de inhabilitacion i suspension.
+El sobornante será castigado con las penas correspondientes a los cómplices en los casos respectivos, excepto las de inhabilitación y suspensión.
 
-Cuando el soborno mediare en causa criminal a favor del reo por parte de su cónyuje, de algun ascendiente o descendiente lejítimo por consaguinidad o afinidad, de un colateral lejítimo consanguíneo o a fin hasta el segundo grado inclusive o de un padre o hijo natural o ilejítimo reconocido, solo se impondrá al sobornante una multa igual a la dádiva o promesa.
+Cuando el soborno mediare en causa criminal a favor del reo por parte de su cónyuge, de algún ascendiente o descendiente legítimo por consanguinidad o afinidad, de un colateral legítimo consanguíneo o a fin hasta el segundo grado inclusive o de un padre o hijo natural o ilegítimo reconocido, sólo se impondrá al sobornante una multa igual a la dádiva o promesa.
 
 #### Artículo 251
 
 En todo caso caerán las dádivas en comiso.
 
-### X. Resistencia i desobediencia
+### X. Resistencia y desobediencia
 
 #### Artículo 252
 
-El empleado público que se negare abiertamente a obedecer las órdenes de sus superiores en asuntos del servicio, será penado con inhabilitacion especial perpetua para el cargo u oficio.
+El empleado público que se negare abiertamente a obedecer las órdenes de sus superiores en asuntos del servicio, será penado con inhabilitación especial perpetua para el cargo u oficio.
 
-En la misma pena incurrirá cuando habiendo suspendido con cualquier motivo la ejecucion de órdenes de sus superiores, las desobedeciere despues que éstos hubieren desaprobado la suspension.
+En la misma pena incurrirá cuando habiendo suspendido con cualquier motivo la ejecución de órdenes de sus superiores, las desobedeciere después que éstos hubieren desaprobado la suspensión.
 
-En uno i otro caso, si el empleado no fuere retribuido, la pena será reclusion menor en cualquiera de sus grados o multa de ciento a mil pesos.
+En uno y otro caso, si el empleado no fuere retribuido, la pena será reclusión menor en cualquiera de sus grados o multa de ciento a mil pesos.
 
-### XI. Denegacion de ausilio i abandono de destino
+### XI. Denegación de auxilio y abandono de destino
 
 #### Artículo 253
 
-El empleado público del órden civil o militar que requerido por autoridad competente, no prestare, en el ejercicio de su ministerio, la debida cooperacion para la administracion de justicia u otro servicio público, será penado con suspension del empleo en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+El empleado público del orden civil o militar que requerido por autoridad competente, no prestare, en el ejercicio de su ministerio, la debida cooperación para la administración de justicia u otro servicio público, será penado con suspensión del empleo en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
-Si de su omision resultare grave daño a la causa pública o a un tercero, las penas serán inhabilitacion especial perpetua para el cargo u oficio i multa de ciento a mil pesos.
+Si de su omisión resultare grave daño a la causa pública o a un tercero, las penas serán inhabilitación especial perpetua para el cargo u oficio y multa de ciento a mil pesos.
 
 #### Artículo 254
 
-El empleado que sin renunciar su destino lo abandonare, sufrirá la pena de suspension en su grado mínimo a inhabilitacion especial temporal para el cargo u oficio en su grado medio i multa de ciento a quinientos pesos.
+El empleado que sin renunciar su destino lo abandonare, sufrirá la pena de suspensión en su grado mínimo a inhabilitación especial temporal para el cargo u oficio en su grado medio y multa de ciento a quinientos pesos.
 
-Si renunciado el destino i ántes de trascurrir un plazo prudencial en que haya podido ser reemplazado por el superior respectivo, lo abandonare con daño de la causa pública, las penas serán multa de ciento a quinientos pesos e inhabilitacion especial temporal para el cargo u oficio en su grado medio.
+Si renunciado el destino y antes de trascurrir un plazo prudencial en que haya podido ser reemplazado por el superior respectivo, lo abandonare con daño de la causa pública, las penas serán multa de ciento a quinientos pesos e inhabilitación especial temporal para el cargo u oficio en su grado medio.
 
-Las penas establecidas en los dos incisos anteriores se aplicarán respectivamente al que abandonare un cargo concejil sin alegar escusa lejítima, i al que despues de haber alegado tal escusa, pero ántes de trascurrir un plazo prudencial en que haya podido ser reemplazado, hace el abandono ocasionando daño a la causa pública.
+Las penas establecidas en los dos incisos anteriores se aplicarán respectivamente al que abandonare un cargo concejil sin alegar excusa legítima, y al que después de haber alegado tal excusa, pero antes de trascurrir un plazo prudencial en que haya podido ser reemplazado, hace el abandono ocasionando daño a la causa pública.
 
 Las disposiciones de este artículo han de entenderse sin perjuicio de lo establecido en el 135.
 
@@ -1852,67 +1862,67 @@ Las disposiciones de este artículo han de entenderse sin perjuicio de lo establ
 
 #### Artículo 255
 
-El empleado público que, desempeñando un acto del servicio, cometiere cualquier vejacion injusta contra las personas o usare de apremios ilejítimos o innecesarios para el desempeño del servicio respectivo, será castigado con las penas de suspension del empleo en cualquiera de sus grados i multa de ciento a mil pesos.
+El empleado público que, desempeñando un acto del servicio, cometiere cualquier vejación injusta contra las personas o usare de apremios ilegítimos o innecesarios para el desempeño del servicio respectivo, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de ciento a mil pesos.
 
 #### Artículo 256
 
-En iguales penas incurrirá todo empleado público del órden administrativo que maliciosamente retardare o negare a los particulares la proteccion o servicio que deba dispensarles en conformidad a las leyes i reglamentos.
+En iguales penas incurrirá todo empleado público del orden administrativo que maliciosamente retardare o negare a los particulares la protección o servicio que deba dispensarles en conformidad a las leyes y reglamentos.
 
 #### Artículo 257
 
-El empleado público que arbitrariamente rehusare dar certificacion o testimonio, o impidiere la presentacion o el curso de una solicitud, será penado con multa de ciento a quinientos pesos.
+El empleado público que arbitrariamente rehusare dar certificación o testimonio, o impidiere la presentación o el curso de una solicitud, será penado con multa de ciento a quinientos pesos.
 
-Si el testimonio, certificacion o solicitud versaren sobre un abuso cometido por el mismo empleado, la multa será de ciento a mil pesos.
+Si el testimonio, certificación o solicitud versaren sobre un abuso cometido por el mismo empleado, la multa será de ciento a mil pesos.
 
 #### Artículo 258
 
-El empleado público que solicitare a mujer que tenga pretensiones pendientes de su resolucion, será castigado con la pena de inhabilitacion especial temporal para el cargo u oficio en su grado medio.
+El empleado público que solicitare a mujer que tenga pretensiones pendientes de su resolución, será castigado con la pena de inhabilitación especial temporal para el cargo u oficio en su grado medio.
 
 #### Artículo 259
 
-El empleado que solicitare a mujer sujeta a su guarda por razon de su cargo, sufrirá la pena de reclusion menor en cualquiera de sus grados e inhabilitacion especial temporal para el cargo u oficio en su grado medio.
+El empleado que solicitare a mujer sujeta a su guarda por razón de su cargo, sufrirá la pena de reclusión menor en cualquiera de sus grados e inhabilitación especial temporal para el cargo u oficio en su grado medio.
 
-Si la solicitada fuere mujer, hija, madre, hermana, o a fin lejítima en los mismos grados de persona a quien tuviere bajo su guarda el solicitante, las penas serán reclusion menor en sus grados medio a máximo e inhabilitacion especial perpetua para el cargo u oficio.
+Si la solicitada fuere mujer, hija, madre, hermana, o a fin legítima en los mismos grados de persona a quien tuviere bajo su guarda el solicitante, las penas serán reclusión menor en sus grados medio a máximo e inhabilitación especial perpetua para el cargo u oficio.
 
-### XIII. Disposicion jeneral
+### XIII. Disposición general
 
 #### Artículo 260
 
-Para los efectos de este título i del párrafo IV del título tercero, se reputa empleado todo el que desempeña un cargo público, aunque no sea de nombramiento del Jefe de la República, ni reciba sueldo del Estado.
+Para los efectos de este título y del párrafo IV del título tercero, se reputa empleado todo el que desempeña un cargo público, aunque no sea de nombramiento del Jefe de la República, ni reciba sueldo del Estado.
 
-TÍTULO SESTO.
+## Título Sexto
 
-DE LOS CRÍMENES I SIMPLES DELITOS CONTRA EL ORDEN I LA SEGURIDAD PÚBLICOS COMETIDOS POR PARTICULARES.
+DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICOS COMETIDOS POR PARTICULARES.
 
-### I. Atentados i desacatos contra la autoridad
+### I. Atentados Y desacatos contra la autoridad
 
 #### Artículo 261
 
 Cometen atentado contra la autoridad:
 
-1.° Los que sin alzarse públicamente emplean fuerza o intimidacion para alguno de los objetos señalados en los arts. 121 i 126.
+1.° Los que sin alzarse públicamente emplean fuerza o intimidación para alguno de los objetos señalados en los arts. 121 y 126.
 
-2.° Los que acometen o resisten con violencia, emplean fuerza o intimidacion contra la autoridad pública o sus ajentes, cuando aquélla o éstos ejercieron funciones de su cargo.
+2.° Los que acometen o resisten con violencia, emplean fuerza o intimidación contra la autoridad pública o sus agentes, cuando aquélla o éstos ejercieron funciones de su cargo.
 
 #### Artículo 262
 
-Los atentados a que se refiere el artículo anterior serán castigados con la pena de reclusion menor en su grado medio o multa de ciento a quinientos pesos, siempre que concurra alguna de las circunstancias siguientes:
+Los atentados a que se refiere el artículo anterior serán castigados con la pena de reclusión menor en su grado medio o multa de ciento a quinientos pesos, siempre que concurra alguna de las circunstancias siguientes:
 
-1° Si la agresion se verifica a mano armada.
+1° Si la agresión se verifica a mano armada.
 
-2° Si los delincuentes pusieren manos en la autoridad o en las personas que acudieren a su ausilio.
+2° Si los delincuentes pusieren manos en la autoridad o en las personas que acudieren a su auxilio.
 
-3° Si por consecuencia de la coaccion la autoridad hubiere accedido a las exijencias de los delincuentes.
+3° Si por consecuencia de la coacción la autoridad hubiere accedido a las exigencias de los delincuentes.
 
-Sin estas circunstancias la pena será reclusion menor en su grado mínimo o multa de ciento a trescientos pesos.
+Sin estas circunstancias la pena será reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
 
-Para determinar si la agresion se verifica a mano armada se estará a lo dispuesto en el art. 132.
+Para determinar si la agresión se verifica a mano armada se estará a lo dispuesto en el art. 132.
 
 #### Artículo 263
 
-El que de hecho o de palabra injuriare gravemente al Presidente de la República, o a alguno de los cuerpos colejisladores o a las comisiones de éstos, sea en los actos públicos en que los representan, sea en el desempeño de sus atribuciones particulares, o a los tribunales superiores de justicia, será castigado con reclusion menor en sus grados medio a máximo i multa de ciento a mil pesos.
+El que de hecho o de palabra injuriare gravemente al Presidente de la República, o a alguno de los cuerpos colegisladores o a las comisiones de éstos, sea en los actos públicos en que los representan, sea en el desempeño de sus atribuciones particulares, o a los tribunales superiores de justicia, será castigado con reclusión menor en sus grados medio a máximo y multa de ciento a mil pesos.
 
-Cuando las injurias fueren leves, las penas serán reclusion menor en su grado mínimo i multa de ciento a quinientos pesos, o simplemente esta última.
+Cuando las injurias fueren leves, las penas serán reclusión menor en su grado mínimo y multa de ciento a quinientos pesos, o simplemente esta última.
 
 #### Artículo 264
 
@@ -1936,307 +1946,307 @@ En todos estos casos la provocación a duelo, aunque sea privada o embozada, se 
 
 #### Artículo 265
 
-Si el desacato consiste en perturbar el órden, o la injuria o amenaza, de que habla el artículo precedente, fuere grave, el delincuente sufrirá las penas de reclusion menor en cualquiera de sus grados i multa de ciento a mil pesos. Cuando fuere leve, las penas serán reclusion menor en su grado mínimo i multa de ciento a trescientos pesos, o simplemente esta última.
+Si el desacato consiste en perturbar el orden, o la injuria o amenaza, de que habla el artículo precedente, fuere grave, el delincuente sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos. Cuando fuere leve, las penas serán reclusión menor en su grado mínimo y multa de ciento a trescientos pesos, o simplemente esta última.
 
 #### Artículo 266
 
-Para todos los efectos de las disposiciones penales respecto de los que cometen atentado o desacato contra la autoridad o funcionarios públicos, se entiende que ejercen aquélla constantemente los ministros de Estado i las autoridades de funciones permanentes o llamadas a ejercerlas en todo caso i circunstancias.
+Para todos los efectos de las disposiciones penales respecto de los que cometen atentado o desacato contra la autoridad o funcionarios públicos, se entiende que ejercen aquélla constantemente los ministros de Estado y las autoridades de funciones permanentes o llamadas a ejercerlas en todo caso y circunstancias.
 
-Entiéndese tambien ofendida la autoridad en ejercicio de sus funciones cuando tuviere lugar el atentado o desacato con ocasion de ellas o por razon de su cargo.
+Entiéndese también ofendida la autoridad en ejercicio de sus funciones cuando tuviere lugar el atentado o desacato con ocasión de ellas o por razón de su cargo.
 
 #### Artículo 267
 
-El que con violencia o fraude impidiere ejercer sus funciones a un miembro del Congreso, de los tribunales superiores de justicia o del Consejo de Estado, sufrirá las penas de reclusion menor en su grado mínimo i multa de ciento a mil pesos.
+El que con violencia o fraude impidiere ejercer sus funciones a un miembro del Congreso, de los tribunales superiores de justicia o del Consejo de Estado, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a mil pesos.
 
 #### Artículo 268
 
-El que ocasionare, tumulto o exitare al desórden en el despacho de una autoridad o corporacion pública hasta el punto de impedir o interrumpir sus actos, será castigado con reclusion menor en cualquiera de sus grados i multa de ciento a mil pesos.
+El que ocasionare, tumulto o excitare al desorden en el despacho de una autoridad o corporación pública hasta el punto de impedir o interrumpir sus actos, será castigado con reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
 
 ### II. Desórdenes públicos
 
 #### Artículo 269
 
-Los que turbaren gravemente la tranquilidad pública para causar injuria u otro mal a alguna persona particular o con cualquier otro fin reprobado, incurrirán en la pena de reclusion menor en su grado mínimo, sin perjuicio de las que les correspondan por el daño u ofensa causados.
+Los que turbaren gravemente la tranquilidad pública para causar injuria u otro mal a alguna persona particular o con cualquier otro fin reprobado, incurrirán en la pena de reclusión menor en su grado mínimo, sin perjuicio de las que les correspondan por el daño u ofensa causados.
 
 ### III. De la rotura de sellos
 
 #### Artículo 270
 
-Los que hubieren roto intencionalmente los sellos puestos por órden de la autoridad pública, serán castigados con reclusion menor en su grado mínimo i multa de ciento a trescientos pesos.
+Los que hubieren roto intencionalmente los sellos puestos por orden de la autoridad pública, serán castigados con reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
 
-Las penas serán reclusion menor en su grado medio i multa de ciento a quinientos pesos cuando los sellos rotos estaban colocados sobre papeles o efectos de un individuo acusado o condenado por crímen.
+Las penas serán reclusión menor en su grado medio y multa de ciento a quinientos pesos cuando los sellos rotos estaban colocados sobre papeles o efectos de un individuo acusado o condenado por crimen.
 
 #### Artículo 271
 
-Si la rotura de los sellos ha sido ejecutada con violencia contra las personas, el culpable sufrirá las penas de reclusion menor en su grado máximo i multa de quinientos a mil pesos.
+Si la rotura de los sellos ha sido ejecutada con violencia contra las personas, el culpable sufrirá las penas de reclusión menor en su grado máximo y multa de quinientos a mil pesos.
 
-### IV. De los embarazos puestos a la ejecucion de los trabajos públicos
+### IV. De los embarazos puestos a la ejecución de los trabajos públicos
 
 #### Artículo 272
 
-El que por vias de hecho se hubiere opuesto, sin motivo justificado, a la ejecucion de trabajos públicos ordenados o permitidos por autoridad competente, será castigado con reclusion menor en su grado mínimo o multa de ciento a mil pesos.
+El que por vías de hecho se hubiere opuesto, sin motivo justificado, a la ejecución de trabajos públicos ordenados o permitidos por autoridad competente, será castigado con reclusión menor en su grado mínimo o multa de ciento a mil pesos.
 
-### V. Crímenes i simples delitos de los proveedores
+### V. Crímenes y simples delitos de los proveedores
 
 #### Artículo 273
 
-Las personas encargadas de provisiones, empresas o administraciones por cuenta del ejército o de la armada, o sus ajentes que voluntariamente hubieren faltado a sus compromisos embarazando el servicio que tuvieren a su cargo con daño grave e inevitable de la causa pública, sufrirán las penas de reclusion mayor en su grado mínimo i multa de mil a cinco mil pesos.
+Las personas encargadas de provisiones, empresas o administraciones por cuenta del ejército o de la armada, o sus agentes que voluntariamente hubieren faltado a sus compromisos embarazando el servicio que tuvieren a su cargo con daño grave e inevitable de la causa pública, sufrirán las penas de reclusión mayor en su grado mínimo y multa de mil a cinco mil pesos.
 
 #### Artículo 274
 
-Si ha habido fraude en la naturaleza, calidad o cantidad de los objetos o mano de obra, o de las cosas suministradas, con daño grave e inevitable de la causa pública, los culpables sufrirán las penas de presidio mayor en cualquiera de sus grados i multa de mil a cinco mil pesos.
+Si ha habido fraude en la naturaleza, calidad o cantidad de los objetos o mano de obra, o de las cosas suministradas, con daño grave e inevitable de la causa pública, los culpables sufrirán las penas de presidio mayor en cualquiera de sus grados y multa de mil a cinco mil pesos.
 
-### VI. De las infracciones de las leyes i reglamentos referentes a loterías, casas de juego i de préstamo sobre prendas
+### VI. De las infracciones de las leyes y reglamentos referentes a loterías, casas de juego y de préstamo sobre prendas
 
 #### Artículo 275
 
-Es lotería toda operacion ofrecida al público i destinada a procurar ganancia por medio de la suerte.
+Es lotería toda operación ofrecida al público y destinada a procurar ganancia por medio de la suerte.
 
 #### Artículo 276
 
-Los autores, empresarios, administradores, comisionados o ajentes de loterías no autorizadas legalmente, incurrirán en la multa de ciento a mil pesos i perderán los objetos muebles puestos en lotería.
+Los autores, empresarios, administradores, comisionados o agentes de loterías no autorizadas legalmente, incurrirán en la multa de ciento a mil pesos y perderán los objetos muebles puestos en lotería.
 
 Si los objetos puestos en lotería fueren inmuebles, la pena será multa de mil a cinco mil pesos.
 
-En caso de reincidencia se les aplicará ademas la reclusion menor en su grado mínimo.
+En caso de reincidencia se les aplicará además la reclusión menor en su grado mínimo.
 
 #### Artículo 277
 
-Los banqueros, dueños, administradores o ajentes de casas de juego de suerte, envite o azar, serán castigados con reclusion menor en cualquiera de sus grados i multa de ciento a mil pesos.
+Los banqueros, dueños, administradores o agentes de casas de juego de suerte, envite o azar, serán castigados con reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
 
 #### Artículo 278
 
-Los que concurrieren a jugar a las casas referidas, sufrirán la pena de reclusion menor en su grado mínimo o multa de ciento a mil pesos.
+Los que concurrieren a jugar a las casas referidas, sufrirán la pena de reclusión menor en su grado mínimo o multa de ciento a mil pesos.
 
 #### Artículo 279
 
-El dinero o efectos puestos en juego i los instrumentos, objetos i útiles destinados a él caerán siempre en comiso.
+El dinero o efectos puestos en juego y los instrumentos, objetos y útiles destinados a él caerán siempre en comiso.
 
 #### Artículo 280
 
-El que sin autorizacion legal estableciere casas de préstamo sobre prendas, sueldos o salarios, sufrirá las penas de reclusion menor en su grado mínimo, multa de ciento a mil pesos, i comiso de las cantidades prestadas, hasta la suma de cinco mil pesos.
+El que sin autorización legal estableciere casas de préstamo sobre prendas, sueldos o salarios, sufrirá las penas de reclusión menor en su grado mínimo, multa de ciento a mil pesos, y comiso de las cantidades prestadas, hasta la suma de cinco mil pesos.
 
 #### Artículo 281
 
-Los que habiendo obtenido autorizacion no llevaren libros con la debida formalidad, asentando en ellos, sin claros ni entre renglones, las cantidades prestadas, los plazos e intereses, los nombres i domicilio de los que las reciban, la naturaleza, calidad i valor de los objetos dados en prenda i las demas circunstancias que exijan los reglamentos que deberá dictar el Presidente de la República, incurrirán en las penas de multa de ciento a quinientos pesos i comiso de las cantidades prestadas, hasta quinientos pesos.
+Los que habiendo obtenido autorización no llevaren libros con la debida formalidad, asentando en ellos, sin claros ni entre renglones, las cantidades prestadas, los plazos e intereses, los nombres y domicilio de los que las reciban, la naturaleza, calidad y valor de los objetos dados en prenda y las demás circunstancias que exijan los reglamentos que deberá dictar el Presidente de la República, incurrirán en las penas de multa de ciento a quinientos pesos y comiso de las cantidades prestadas, hasta quinientos pesos.
 
-Las mismas penas se impondrán a los que no hagan la enajenacion de las prendas con arreglo a las leyes i reglamentos.
+Las mismas penas se impondrán a los que no hagan la enajenación de las prendas con arreglo a las leyes y reglamentos.
 
 #### Artículo 282
 
-El prestamista que no diere resguardo de la prenda o seguridad recibida, será castigado con una multa del duplo al quíntuplo de su valor i la cantidad que hubiere prestado caerá en comiso.
+El prestamista que no diere resguardo de la prenda o seguridad recibida, será castigado con una multa del duplo al quíntuplo de su valor y la cantidad que hubiere prestado caerá en comiso.
 
 #### Artículo 283
 
 El prestamista que hiciere préstamos de la clase indicada en los artículos precedentes a una persona manifiestamente incapaz para contratar por su edad o falta de discernimiento, será castigado con las mismas penas del artículo anterior.
 
-### VII. Crímenes i simples delitos relativos a la industria, al comercio i a las subastas públicas
+### VII. Crímenes y simples delitos relativos a la industria, al comercio y a las subastas públicas
 
 #### Artículo 284
 
-El que fraudulentamente hubiere comunicado secretos de la fábrica en que ha estado o está empleado, sufrirá la pena de reclusion menor en sus grados mínimo a medio o multa de ciento a mil pesos.
+El que fraudulentamente hubiere comunicado secretos de la fábrica en que ha estado o está empleado, sufrirá la pena de reclusión menor en sus grados mínimo a medio o multa de ciento a mil pesos.
 
 #### Artículo 285
 
-Los que por medios fraudulentos consiguieren alterar el precio natural del trabajo, de los jéneros o mercaderías, acciones, rentas públicas o privadas o de cualesquiera otras cosas que fueren objetos de contratacion, sufrirán las penas de reclusion menor en sus grados mínimo a medio i multa de ciento a quinientos pesos.
+Los que por medios fraudulentos consiguieren alterar el precio natural del trabajo, de los géneros o mercaderías, acciones, rentas públicas o privadas o de cualesquiera otras cosas que fueren objetos de contratación, sufrirán las penas de reclusión menor en sus grados mínimo a medio y multa de ciento a quinientos pesos.
 
 #### Artículo 286
 
-Cuando el fraude espresado en el artículo anterior recayere sobre mantenimientos u otros objetos de primera necesidad, ademas de las penas que en él se señalan, se impondrá la de comiso de los jéneros que fueren objeto del fraude.
+Cuando el fraude expresado en el artículo anterior recayere sobre mantenimientos u otros objetos de primera necesidad, además de las penas que en él se señalan, se impondrá la de comiso de los géneros que fueren objeto del fraude.
 
 #### Artículo 287
 
 Los que emplearen amenaza o cualquier otro medio fraudulento para alejar a los postores en una subasta pública con el fin de alterar el precio del remate, serán castigados con una multa de diez al cincuenta por ciento del valor de la cosa subastada; a no merecer mayor pena por la amenaza u otro medio ilícito que emplearen.
 
-### VIII. De las infracciones de las leyes i reglamentos relativos a las armas prohibidas
+### VIII. De las infracciones de las leyes y reglamentos relativos a las armas prohibidas
 
 #### Artículo 288
 
-El que fabricare, vendiere o distribuyere armas absolutamente prohibidas por la lei o por los reglamentos jenerales que dicte el Presidente de la República, sufrirá la pena de reclusion menor en su grado mínimo o multa de ciento a quinientos pesos.
+El que fabricare, vendiere o distribuyere armas absolutamente prohibidas por la ley o por los reglamentos generales que dicte el Presidente de la República, sufrirá la pena de reclusión menor en su grado mínimo o multa de ciento a quinientos pesos.
 
 ### IX. Simples delitos relativos a las epizootias
 
 #### Artículo 289
 
-Todo tenedor o guardian de animales afectados de enfermedades contajiosas determinadas por la autoridad local, que no hubiere dado aviso inmediatamente a dicha autoridad o a sus ajentes, o que antes de que se haya respondido a su aviso no los tuviere encerrados, será castigado con reclusion menor en su grado mínimo o multa de ciento a trescientos pesos.
+Todo tenedor o guardián de animales afectados de enfermedades contagiosas determinadas por la autoridad local, que no hubiere dado aviso inmediatamente a dicha autoridad o a sus agentes, o que antes de que se haya respondido a su aviso no los tuviere encerrados, será castigado con reclusión menor en su grado mínimo o multa de ciento a trescientos pesos.
 
 #### Artículo 290
 
-A los que, con desprecio de las prohibiciones de la autoridad administrativa competente, hubieren dejado los animales infestados en comunicacion con otros o no hubieren cumplido las prescripciones de dicha autoridad para impedir la propagacion del contajio, se impondrá la pena de reclusion menor en su grado mínimo o multa de ciento a quinientos pesos.
+A los que, con desprecio de las prohibiciones de la autoridad administrativa competente, hubieren dejado los animales infestados en comunicación con otros o no hubieren cumplido las prescripciones de dicha autoridad para impedir la propagación del contagio, se impondrá la pena de reclusión menor en su grado mínimo o multa de ciento a quinientos pesos.
 
 #### Artículo 291
 
-Si con motivo de la infraccion de lo dispuesto en el precedente artículo, ha resultado la propagacion del contajio, se impondrá a los culpables la pena de reclusion menor en su grado mínimo o multa de quinientos a mil pesos.
+Si con motivo de la infracción de lo dispuesto en el precedente artículo, ha resultado la propagación del contagio, se impondrá a los culpables la pena de reclusión menor en su grado mínimo o multa de quinientos a mil pesos.
 
 ### X. De las asociaciones ilícitas
 
 #### Artículo 292
 
-Toda asociacion formada con el objeto de atentar contra el órden social, contra las buenas costumbres, contra las personas o las propiedades, importa un delito que existe por el solo hecho de organizarse.
+Toda asociación formada con el objeto de atentar contra el orden social, contra las buenas costumbres, contra las personas o las propiedades, importa un delito que existe por el solo hecho de organizarse.
 
 #### Artículo 293
 
-Si la asociacion ha tenido por objeto la perpetracion de crímenes, los jefes, los que hubieren ejercido mando en ella i sus provocadores, sufrirán la pena de presidio mayor en cualquiera de sus grados.
+Si la asociación ha tenido por objeto la perpetración de crímenes, los jefes, los que hubieren ejercido mando en ella y sus provocadores, sufrirán la pena de presidio mayor en cualquiera de sus grados.
 
-Cuando la asociacion ha tenido por objeto la perpetracion de simples delitos, la pena será presidio menor en cualquiera de sus grados para los individuos comprendidos en el acápite anterior.
+Cuando la asociación ha tenido por objeto la perpetración de simples delitos, la pena será presidio menor en cualquiera de sus grados para los individuos comprendidos en el acápite anterior.
 
 #### Artículo 294
 
-Cualesquiera otros individuos que hubieren tomado parte en la asociacion i los que a sabiendas i voluntariamente le hubieren suministrado caballerías, armas, municiones, instrumentos para cometer los crímenes o simples delitos, alojamiento, escondite o lugar de reunión, serán castigados, en el primer caso previsto por el artículo precedente, con presidio menor en su grado medio, i en el segundo, con presidio menor en su grado mínimo.
+Cualesquiera otros individuos que hubieren tomado parte en la asociación y los que a sabiendas y voluntariamente le hubieren suministrado caballerías, armas, municiones, instrumentos para cometer los crímenes o simples delitos, alojamiento, escondite o lugar de reunión, serán castigados, en el primer caso previsto por el artículo precedente, con presidio menor en su grado medio, y en el segundo, con presidio menor en su grado mínimo.
 
 #### Artículo 295
 
-Quedarán exentos de las penas señaladas en el presente párrafo aquellos de los culpables que, ántes de ejecutarse alguno de los crímenes o simples delitos que constituyen el objeto de la asociacion i ántes de ser perseguidos, hubieren revelado a la autoridad la existencia de dichas asociaciones, sus planes i propósitos.
+Quedarán exentos de las penas señaladas en el presente párrafo aquellos de los culpables que, antes de ejecutarse alguno de los crímenes o simples delitos que constituyen el objeto de la asociación y antes de ser perseguidos, hubieren revelado a la autoridad la existencia de dichas asociaciones, sus planes y propósitos.
 
-Podrán sin embargo ser puestos bajo la vijilancia de la autoridad.
+Podrán sin embargo ser puestos bajo la vigilancia de la autoridad.
 
-### XI. De las amenazas de atentado contra las personas i propiedades
+### XI. De las amenazas de atentado contra las personas y propiedades
 
 #### Artículo 296
 
-El que amenazare seriamente a otro con causar a él mismo o a su familia, en su persona, honra o propiedad, un mal que constituya delito, siempre que por los antecedentes aparezca verosímil la consumacion del hecho, será castigado:
+El que amenazare seriamente a otro con causar a él mismo o a su familia, en su persona, honra o propiedad, un mal que constituya delito, siempre que por los antecedentes aparezca verosímil la consumación del hecho, será castigado:
 
-1°. Con presidio menor en sus grados medio a máximo, si hubiere hecho la amenaza exijiendo una cantidad o imponiendo cualquiera otra condicion ilícita i el culpable hubiere conseguido su propósito; a no ser que merezca mayor pena el hecho consumado, en el cual caso se impondrá ésta.
+1°. Con presidio menor en sus grados medio a máximo, si hubiere hecho la amenaza exigiendo una cantidad o imponiendo cualquiera otra condición ilícita y el culpable hubiere conseguido su propósito; a no ser que merezca mayor pena el hecho consumado, en el cual caso se impondrá ésta.
 
-2° Con presidio menor en sus grados mínimo a medio, si hecha la amenaza bajo condicion el culpable no hubiere conseguido su propósito,
+2° Con presidio menor en sus grados mínimo a medio, si hecha la amenaza bajo condición el culpable no hubiere conseguido su propósito,
 
 3.° Con presidio menor en su grado mínimo, si la amenaza no fuere condicional.
 
 Cuando las amenazas se hicieren por escrito o por medio de emisario, éstas se estimarán como circunstancias agravantes.
 
-Para los efectos de este artículo se entiende por familia el cónyuje, los parientes en la línea recta de consanguinidad o afinidad lejítima, los padres e hijos naturales i la descendencia lejítima de éstos, los hijos ilejítimos reconocidos i los colaterales hasta el tercer grado de consanguinidad o afinidad lejítimas.
+Para los efectos de este artículo se entiende por familia el cónyuge, los parientes en la línea recta de consanguinidad o afinidad legítima, los padres e hijos naturales y la descendencia legítima de éstos, los hijos ilegítimos reconocidos y los colaterales hasta el tercer grado de consanguinidad o afinidad legítimas.
 
 #### Artículo 297
 
-Las amenazas de un mal que no constituya delito hechas en la forma espresada en el núm. 1.° del artículo anterior, serán castigadas con la pena de reclusion menor en cualquiera de sus grados.
+Las amenazas de un mal que no constituya delito hechas en la forma expresada en el núm. 1.° del artículo anterior, serán castigadas con la pena de reclusión menor en cualquiera de sus grados.
 
 #### Artículo 298
 
-En los casos de los dos artículos precedentes se podrá condenar ademas al amenazador a dar caucion de no ofender al amenazado, i en su defecto a la pena de sujecion a la vijilancia de la autoridad.
+En los casos de los dos artículos precedentes se podrá condenar además al amenazador a dar caución de no ofender al amenazado, y en su defecto a la pena de sujeción a la vigilancia de la autoridad.
 
-### XII. De la evasion de los detenidos
+### XII. De la evasión de los detenidos
 
 #### Artículo 299
 
-El empleado público culpable de connivencia en la evasion de un preso o detenido cuya conduccion o custodia le estuviere confiada, será castigado:
+El empleado público culpable de connivencia en la evasión de un preso o detenido cuya conducción o custodia le estuviere confiada, será castigado:
 
-1.° En el caso de que el fujitivo se halle condenado por ejecutoria a alguna pena, con la inferior en dos grados i la de inhabilitacion especial perpetua para el cargo u oficio.
+1.° En el caso de que el fugitivo se halle condenado por ejecutoria a alguna pena, con la inferior en dos grados y la de inhabilitación especial perpetua para el cargo u oficio.
 
-2.° Con la pena inferior en tres grados a la señalada por la lei al delito por que se halle procesado el fujitivo, si no se le hubiere condenado por ejecutoria, i con la de inhabilitacion especial temporal para el cargo u oficio en su grado medio.
+2.° Con la pena inferior en tres grados a la señalada por la ley al delito por que se halle procesado el fugitivo, si no se le hubiere condenado por ejecutoria, y con la de inhabilitación especial temporal para el cargo u oficio en su grado medio.
 
 #### Artículo 300
 
-El particular que, encargado de la conduccion o custodia de un preso o detenido, se hallare en alguno de los casos del artículo precedente, será castigado con las penas inmediatamente inferiores en grado a las señaladas para el empleado público.
+El particular que, encargado de la conducción o custodia de un preso o detenido, se hallare en alguno de los casos del artículo precedente, será castigado con las penas inmediatamente inferiores en grado a las señaladas para el empleado público.
 
 #### Artículo 301
 
-Los que estrajeron de las cárceles o de establecimientos penales a alguna persona presa o detenida en ellos o le proporcionare la evasion, serán castigados con las penas señaladas en el art. 299, segun el caso respectivo, si emplearen la violencia o el soborno, i con las inferiores en un grado cuando se valieren de otros medios.
+Los que extrajeron de las cárceles o de establecimientos penales a alguna persona presa o detenida en ellos o le proporcionare la evasión, serán castigados con las penas señaladas en el art. 299, según el caso respectivo, si emplearen la violencia o el soborno, y con las inferiores en un grado cuando se valieren de otros medios.
 
-Si fuera de dichos establecimientos se verificare la sustraccion o se facilitare la fuga de los presos o detenidos violentando o sorprendiendo a los encargados de conducirlos o custodiarlos, se aplicarán respectivamente las penas inferiores en un grado a las señaladas en el inciso precedente.
+Si fuera de dichos establecimientos se verificare la sustracción o se facilitare la fuga de los presos o detenidos violentando o sorprendiendo a los encargados de conducirlos o custodiarlos, se aplicarán respectivamente las penas inferiores en un grado a las señaladas en el inciso precedente.
 
 #### Artículo 302
 
-Cuando la evasion o fuga de los presos o detenidos se efectuare por descuido culpable de los guardianes, se aplicará a éstos una pena inferior en un grado a la que les correspondería en caso de connivencia segun los artículos anteriores.
+Cuando la evasión o fuga de los presos o detenidos se efectuare por descuido culpable de los guardianes, se aplicará a éstos una pena inferior en un grado a la que les correspondería en caso de connivencia según los artículos anteriores.
 
 #### Artículo 303
 
-Si los fugados fueron dos o mas, se tomará como base para fijar la pena de los reos a quienes se refiere este párrafo, la mayor de las que estuvieren sufriendo o merecieren aquéllos.
+Si los fugados fueron dos o más, se tomará como base para fijar la pena de los reos a quienes se refiere este párrafo, la mayor de las que estuvieren sufriendo o merecieren aquéllos.
 
 #### Artículo 304
 
-Cuando empleando las reglas anteriores para aplicar la pena, no pudiera ésta determinarse por falta de grados inferiores o por no ser aplicables las de inhabilitacion i suspension, se impondrá la última que contenga la respectiva escala gradual.
+Cuando empleando las reglas anteriores para aplicar la pena, no pudiera ésta determinarse por falta de grados inferiores o por no ser aplicables las de inhabilitación y suspensión, se impondrá la última que contenga la respectiva escala gradual.
 
-### XIII. De la vagancia i mendicidad
+### XIII. De la vagancia y mendicidad
 
 #### Artículo 305
 
-Son vagos los que no tienen hogar fijo ni medios de subsistencia, ni ejercen habitualmente alguna profesion, oficio u ocupacion lícita, teniendo aptitudes para el trabajo.
+Son vagos los que no tienen hogar fijo ni medios de subsistencia, ni ejercen habitualmente alguna profesión, oficio u ocupación lícita, teniendo aptitudes para el trabajo.
 
 #### Artículo 306
 
-El vago será castigado con las penas de reclusion menor en su grado mínimo i sujecion a la vijilancia de la autoridad.
+El vago será castigado con las penas de reclusión menor en su grado mínimo y sujeción a la vigilancia de la autoridad.
 
 #### Artículo 307
 
-El vago a quien se aprehendiere disfrazado o en traje que no le fuere habitual o provisto de ganzúas u otros instrumentos o armas que inspiren fundada sospecha, sufrirá las penas de presidio menor en sus grados mínimo a medio i de sujecion a la vijilancia de la autoridad.
+El vago a quien se aprehendiere disfrazado o en traje que no le fuere habitual o provisto de ganzúas u otros instrumentos o armas que inspiren fundada sospecha, sufrirá las penas de presidio menor en sus grados mínimo a medio y de sujeción a la vigilancia de la autoridad.
 
-Iguales penas se impondrán al vago que intentare penetrar en casa, habitacion o lugar cerrado, sin motivo que lo escuse.
+Iguales penas se impondrán al vago que intentare penetrar en casa, habitación o lugar cerrado, sin motivo que lo excuse.
 
 #### Artículo 308
 
-En cualquier tiempo que el vago a quien se hubieren impuesto las penas de reclusion menor en su grado mínimo i de sujecion a la vijilancia de la autoridad, diere fianza de buena conducta i aplicacion al trabajo, será relevado del cumplimiento de su condena.
+En cualquier tiempo que el vago a quien se hubieren impuesto las penas de reclusión menor en su grado mínimo y de sujeción a la vigilancia de la autoridad, diere fianza de buena conducta y aplicación al trabajo, será relevado del cumplimiento de su condena.
 
 La cuantía de la fianza la fijará el tribunal en la sentencia, no pudiendo bajar de cien pesos ni exceder de quinientos.
 
-Esta fianza durará dos años. El fiador tendrá derecho a pedir en cualquier tiempo su liberacion, con tal que presente la persona del vago para que cumpla o estinga su condena.
+Esta fianza durará dos años. El fiador tendrá derecho a pedir en cualquier tiempo su liberación, con tal que presente la persona del vago para que cumpla o extinga su condena.
 
 #### Artículo 309
 
-El que sin la debida licencia pidiere habitualmente limosna en lugares públicos, será castigado con reclusion menor en su grado mínimo i sujecion a la vijilancia de la autoridad.
+El que sin la debida licencia pidiere habitualmente limosna en lugares públicos, será castigado con reclusión menor en su grado mínimo y sujeción a la vigilancia de la autoridad.
 
 Cuando el mendigo no pudiere proporcionarse el sustento con su trabajo o fuere menor de catorce años, la autoridad adoptará las medidas que prescriban los reglamentos.
 
 #### Artículo 310
 
-La disposicion del inciso primero del artículo anterior es aplicable al que bajo un motivo falso obtuviere licencia para pedir limosna, o continuare pidiéndola despues de haber cesado la causa por que la obtuvo.
+La disposición del inciso primero del artículo anterior es aplicable al que bajo un motivo falso obtuviere licencia para pedir limosna, o continuare pidiéndola después de haber cesado la causa por que la obtuvo.
 
 #### Artículo 311
 
-El mendigo en quien concurra cualquiera de las circunstancias espresadas en el art. 307, será castigado con las penas señaladas en él.
+El mendigo en quien concurra cualquiera de las circunstancias expresadas en el art. 307, será castigado con las penas señaladas en él.
 
 #### Artículo 312
 
-Lo dispuesto en el art. 308 es aplicable a los mendigos comprendidos en los arts. 309 i 310.
+Lo dispuesto en el art. 308 es aplicable a los mendigos comprendidos en los arts. 309 y 310.
 
 ### XIV. Crímenes y simples delitos contra la salud pública
 
 #### Artículo 313
 
-El que, sin hallarse competentemente autorizado, elaborare sustancias o productos nocivos a la salud o traficare en ellos, estando prohibidos su fabricacion o tráfico, será castigado con reclusion menor en su grado medio i multa de ciento a quinientos pesos.
+El que, sin hallarse competentemente autorizado, elaborare sustancias o productos nocivos a la salud o traficare en ellos, estando prohibidos su fabricación o tráfico, será castigado con reclusión menor en su grado medio y multa de ciento a quinientos pesos.
 
 #### Artículo 314
 
-El que hallándose autorizado para la fabricacion o tráfico de las sustancias o productos espresados en el artículo anterior, los fabricare o espendiere sin cumplir con las formalidades prescritas en los reglamentos respectivos, sufrirá las penas de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos.
+El que hallándose autorizado para la fabricación o tráfico de las sustancias o productos expresados en el artículo anterior, los fabricare o expendiere sin cumplir con las formalidades prescritas en los reglamentos respectivos, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
 
 #### Artículo 315
 
-Los droguistas que despacharen medicamentos deteriorados o instituyeren unos por otros, haciéndolo de una manera nociva a la salud, serán castigados con reclusion menor en su grado medio i multa de ciento a quinientos pesos, a mas de la destruccion de los objetos deteriorados.
+Los droguistas que despacharen medicamentos deteriorados o instituyeren unos por otros, haciéndolo de una manera nociva a la salud, serán castigados con reclusión menor en su grado medio y multa de ciento a quinientos pesos, a más de la destrucción de los objetos deteriorados.
 
-Las disposiciones de este artículo i del anterior son aplicables a los que trafiquen con las sustancias o productos espresados en ellos, i a los dependientes de los droguistas, cuando fueron los culpables.
+Las disposiciones de este artículo y del anterior son aplicables a los que trafiquen con las sustancias o productos expresados en ellos, y a los dependientes de los droguistas, cuando fueron los culpables.
 
 #### Artículo 316
 
-El que con cualquiera mezcla nociva a la salud alterare las bebidas o comestibles destinados al consumo público, sufrirá las penas de reclusion menor en su grado medio i multa de ciento a quinientos pesos, a mas de la destruccion de los objetos adulterados.
+El que con cualquiera mezcla nociva a la salud alterare las bebidas o comestibles destinados al consumo público, sufrirá las penas de reclusión menor en su grado medio y multa de ciento a quinientos pesos, a más de la destrucción de los objetos adulterados.
 
 #### Artículo 317
 
-Se impondrán tambien las penas señaladas en el artículo anterior:
+Se impondrán también las penas señaladas en el artículo anterior:
 
 1.° Al que escondiere o sustrajere para vender o comprar objetos destinados a ser inutilizados o desinfeccionados.
 
-2.° Al que arrojare en fuente, cisterna o curso de agua destinada a la bebida, algun objeto que la haga nociva para la salud.
+2.° Al que arrojare en fuente, cisterna o curso de agua destinada a la bebida, algún objeto que la haga nociva para la salud.
 
 #### Artículo 318
 
-El que infrinjiere las reglas hijiénicas o de salubridad acordadas por la autoridad en tiempo de epidemia o contajio, será castigado con reclusion menor en sus grados mínimo a medio o multa de ciento a mil pesos.
+El que infringiere las reglas higiénicas o de salubridad acordadas por la autoridad en tiempo de epidemia o contagio, será castigado con reclusión menor en sus grados mínimo a medio o multa de ciento a mil pesos.
 
 #### Artículo 319
 
 Las penas designadas en este párrafo se entenderán sin perjuicio de las que correspondan al hecho o hechos que sean consecuencia de tales delitos.
 
-### XV. De la infraccion de las leyes o reglamentos sobre inhumaciones i exhumaciones
+### XV. De la infracción de las leyes o reglamentos sobre inhumaciones y exhumaciones
 
 #### Artículo 320
 
-El que practicare o hiciere practicar una inhumacion contraviniendo a lo dispuesto por las leyes o reglamentos respecto al tiempo, sitio i demas formalidades prescritas para las inhumaciones, incurrirá en las penas de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos.
+El que practicare o hiciere practicar una inhumación contraviniendo a lo dispuesto por las leyes o reglamentos respecto al tiempo, sitio y demás formalidades prescritas para las inhumaciones, incurrirá en las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
 
 #### Artículo 321
 
-El que violare los sepulcros o sepulturas practicando cualquier acto que tienda directamente a faltar al respeto debido a la memoria de los muertos, será condenado a reclusion menor en su grado medio i multa de ciento a quinientos pesos.
+El que violare los sepulcros o sepulturas practicando cualquier acto que tienda directamente a faltar al respeto debido a la memoria de los muertos, será condenado a reclusión menor en su grado medio y multa de ciento a quinientos pesos.
 
 #### Artículo 322
 
-El que exhumare o trasladare los restos humanos con infraccion de los reglamentos i demas disposiciones de sanidad, sufrirá las penas de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos.
+El que exhumare o trasladare los restos humanos con infracción de los reglamentos y demás disposiciones de sanidad, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
 
 ### XVI. Crímenes y simples delitos relativos a los ferrocarriles, telégrafos y conductores de correspondencia
 
@@ -2246,7 +2256,7 @@ El que destruyere o descompusiere una vía férrea o colocare en ella obstáculo
 
 #### Artículo 324
 
-Si a virtud de la destruccion, descompostura u obstáculos puestos o por cualquier otro acto ejecutado se verificare el descarrilamiento, la pena será presidio menor en sus grados medio a máximo.
+Si a virtud de la destrucción, descompostura u obstáculos puestos o por cualquier otro acto ejecutado se verificare el descarrilamiento, la pena será presidio menor en sus grados medio a máximo.
 
 #### Artículo 325
 
@@ -2258,31 +2268,31 @@ Si el accidente ocasionare la muerte de alguna persona, el culpable sufrirá la 
 
 #### Artículo 327
 
-El autor de los hechos que hubieren producido el accidente no solo es obligado a reparar los daños que la empresa del ferrocarril esperimentare, sino tambien los que sufran los particulares que se encontraban en el tren o que trasportaban por él objetos muebles o semovientes.
+El autor de los hechos que hubieren producido el accidente no sólo es obligado a reparar los daños que la empresa del ferrocarril experimentare, sino también los que sufran los particulares que se encontraban en el tren o que trasportaban por él objetos muebles o semovientes.
 
 #### Artículo 328
 
-La amenaza hecha de palabra o por escrito, de cometer alguno de los delitos previstos en el art. 323, será castigada con reclusion menor en su grado mínimo o con multa de ciento a mil pesos.
+La amenaza hecha de palabra o por escrito, de cometer alguno de los delitos previstos en el art. 323, será castigada con reclusión menor en su grado mínimo o con multa de ciento a mil pesos.
 
 #### Artículo 329
 
-El que por ignorancia culpable, imprudencia o descuido, o por inobservancia de los reglamentos del camino, que deba conocer, causare involuntariamente accidentes que ocasionen lesion o daño a alguna persona, sufrirá las penas de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos.
+El que por ignorancia culpable, imprudencia o descuido, o por inobservancia de los reglamentos del camino, que deba conocer, causare involuntariamente accidentes que ocasionen lesión o daño a alguna persona, sufrirá las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
 
-Cuando el accidente ocasionare la muerte a una persona, la pena será reclusion menor en cualquiera de sus grados.
+Cuando el accidente ocasionare la muerte a una persona, la pena será reclusión menor en cualquiera de sus grados.
 
-Las disposiciones de este artículo son tambien aplicables a los empresarios, directores o empleados de la línea.
+Las disposiciones de este artículo son también aplicables a los empresarios, directores o empleados de la línea.
 
 #### Artículo 330
 
-El maquinista, conductor o guarda-frenos que abandonare su puesto o se embriagare durante su servicio, será castigado con presidio menor en su grado mínimo i multa de ciento a trescientos pesos.
+El maquinista, conductor o guarda-frenos que abandonare su puesto o se embriagare durante su servicio, será castigado con presidio menor en su grado mínimo y multa de ciento a trescientos pesos.
 
-Si a consecuencia del abandono del puesto o de la embriaguez ocurrieren accidentes que causaren lesiones a alguna persona, las penas serán presidio menor en su grado medio i multa de ciento a quinientos pesos.
+Si a consecuencia del abandono del puesto o de la embriaguez ocurrieren accidentes que causaren lesiones a alguna persona, las penas serán presidio menor en su grado medio y multa de ciento a quinientos pesos.
 
-Cuando de tales accidentes resultare la muerte de algun individuo, se impondrán al culpable las penas de presidio menor en su grado máximo i multa de quinientos a mil pesos.
+Cuando de tales accidentes resultare la muerte de algún individuo, se impondrán al culpable las penas de presidio menor en su grado máximo y multa de quinientos a mil pesos.
 
 #### Artículo 331
 
-En el caso de abandono intencional por causar daño a alguna de las personas que iban en los trenes, se aplicarán al maquinista, conductor o guarda-frenos, segun los casos i aumentadas en un grado, las penas que señalan los arts. 323, 324, 325 i 326.
+En el caso de abandono intencional por causar daño a alguna de las personas que iban en los trenes, se aplicarán al maquinista, conductor o guarda-frenos, según los casos y aumentadas en un grado, las penas que señalan los arts. 323, 324, 325 y 326.
 
 #### Artículo 332
 
@@ -2290,15 +2300,15 @@ Las penas que establecen los tres artículos precedentes se aplicarán respectiv
 
 #### Artículo 333
 
-El que por imprudencia rompiere los postes o alambres de una línea telegráfica establecida o en construccion, o ejecutare actos que interrumpan el servicio de los telégrafos, será penado con multa de ciento a trescientos pesos.
+El que por imprudencia rompiere los postes o alambres de una línea telegráfica establecida o en construcción, o ejecutare actos que interrumpan el servicio de los telégrafos, será penado con multa de ciento a trescientos pesos.
 
 #### Artículo 334
 
-El que intencionalmente interrumpiere la comunicacion telegráfica o causare daño a una línea en construccion rompiendo los alambres o postes, inutilizando los aparatos de trasmision o por cualquier otro medio, sufrirá las penas de presidio menor en su grado mínimo i multa de ciento a quinientos pesos.
+El que intencionalmente interrumpiere la comunicación telegráfica o causare daño a una línea en construcción rompiendo los alambres o postes, inutilizando los aparatos de trasmisión o por cualquier otro medio, sufrirá las penas de presidio menor en su grado mínimo y multa de ciento a quinientos pesos.
 
 #### Artículo 335
 
-Los que en casos de motin, insurreccion, guerra esterior u otra calamidad pública, rompieren los alambres o postes, destruyeren las máquinas o aparatos telegráficos, se apoderaren con violencia o amenazas de las oficinas, o empleando los mismos medios impidieren de cualquier modo la correspondencia telegráfica entre los depositarios de la autoridad pública, o se opusieren con fuerza o violencia al restablecimiento de una línea telegráfica, serán castigados con presidio menor en cualquiera de sus grados i multa de ciento a mil pesos.
+Los que en casos de motín, insurrección, guerra exterior u otra calamidad pública, rompieren los alambres o postes, destruyeren las máquinas o aparatos telegráficos, se apoderaren con violencia o amenazas de las oficinas, o empleando los mismos medios impidieren de cualquier modo la correspondencia telegráfica entre los depositarios de la autoridad pública, o se opusieren con fuerza o violencia al restablecimiento de una línea telegráfica, serán castigados con presidio menor en cualquiera de sus grados y multa de ciento a mil pesos.
 
 #### Artículo 336
 
@@ -2306,43 +2316,43 @@ Los autores del daño estarán siempre obligados a indemnizar los costos que dem
 
 #### Artículo 337
 
-El empleado de una oficina telegráfica que divulgare el contenido de un mensaje sin autorizacion espresa de la persona que lo dirije o a quien es dirijido, incurrirá en una multa de ciento a trescientos pesos i deberá indemnizar los perjuicios provenientes de la divulgacion.
+El empleado de una oficina telegráfica que divulgare el contenido de un mensaje sin autorización expresa de la persona que lo dirige o a quien es dirigido, incurrirá en una multa de ciento a trescientos pesos y deberá indemnizar los perjuicios provenientes de la divulgación.
 
-Las mismas penas se impondrán al empleado que, por descuido culpable, no trasmitiere fielmente un mensaje telegráfico i, si en la trasmision infiel hubiere mala fé, se estará a lo dispuesto en el art. 195.
+Las mismas penas se impondrán al empleado que, por descuido culpable, no trasmitiere fielmente un mensaje telegráfico y, si en la trasmisión infiel hubiere mala fe, se estará a lo dispuesto en el art. 195.
 
 #### Artículo 338
 
-El empleado que habiendo trasmitido órdenes encaminadas a la persecucion o aprehension de delincuentes o para que se practiquen dilijencias dirijidas a una averiguacion judicial o gubernativa, trasmitiere avisos o prevenciones que hagan ilusorias dichas órdenes, incurrirá en la pena de reclusion menor en su grado medio.
+El empleado que habiendo trasmitido órdenes encaminadas a la persecución o aprehensión de delincuentes o para que se practiquen diligencias dirigidas a una averiguación judicial o gubernativa, trasmitiere avisos o prevenciones que hagan ilusorias dichas órdenes, incurrirá en la pena de reclusión menor en su grado medio.
 
-Igual pena se aplicará cuando maliciosamente frustrare las medidas de la autoridad en tales casos, con una trasmision o traduccion infiel.
+Igual pena se aplicará cuando maliciosamente frustrare las medidas de la autoridad en tales casos, con una trasmisión o traducción infiel.
 
 #### Artículo 339
 
-En el momento de motin o asonada es prohibido a toda oficina telegráfica:
+En el momento de motín o asonada es prohibido a toda oficina telegráfica:
 
-1°. Trasmitir o tolerar que se trasmitan mensajes dirijidos a fomentar o favorecer el desórden.
+1°. Trasmitir o tolerar que se trasmitan mensajes dirigidos a fomentar o favorecer el desorden.
 
-2° Dar aviso de la marcha que siguen los sucesos i tumultos, si no es a la autoridad o con asentimiento de ésta.
+2° Dar aviso de la marcha que siguen los sucesos y tumultos, si no es a la autoridad o con asentimiento de ésta.
 
-3.° Instruir del movimiento de tropas o de las medidas tomadas para combatir la insurreccion o desórden.
+3.° Instruir del movimiento de tropas o de las medidas tomadas para combatir la insurrección o desorden.
 
 4.º Comunicar toda noticia cuyo objeto sea frustrar las providencias tomadas para restablecer la tranquilidad interior.
 
-La infraccion de cualquiera de estas prohibiciones sujeta al infractor a las penas de reclusion menor en su grado medio i multa de ciento a quinientos pesos; sin perjuicio de ser castigado como instigador o como cómplice del motin o asonada, siempre que los hechos dieren mérito para considerarlo tal.
+La infracción de cualquiera de estas prohibiciones sujeta al infractor a las penas de reclusión menor en su grado medio y multa de ciento a quinientos pesos; sin perjuicio de ser castigado como instigador o como cómplice del motín o asonada, siempre que los hechos dieren mérito para considerarlo tal.
 
 #### Artículo 340
 
-Cuando en una oficina telegráfica so reincidiere en las infracciones de que habla el artículo precedente, podrá la autoridad superior inmediata prohibir el uso del telégrafo o someterlo a su direccion o inspeccion miéntras duren las circunstancias estraordinarias de motin, sedicion, etc.
+Cuando en una oficina telegráfica so reincidiere en las infracciones de que habla el artículo precedente, podrá la autoridad superior inmediata prohibir el uso del telégrafo o someterlo a su dirección o inspección mientras duren las circunstancias extraordinarias de motín, sedición, etc.
 
 #### Artículo 341
 
 El que acometiere a un conductor de correspondencia pública para interceptarla o detenerla o para apoderarse de ella o de cualquier modo inutilizarla, será castigado con presidio menor en sus grados medio a máximo, si interviniere violencia. Si no interviniere violencia, con presidio menor en sus grados mínimo a medio.
 
-Lo cual no obsta para que so aplique la pena correspondiente al delito cometido en la persona del conductor o en la sustraccion de la correspondencia, siempre que fuere mayor.
+Lo cual no obsta para que se aplique la pena correspondiente al delito cometido en la persona del conductor o en la sustracción de la correspondencia, siempre que fuere mayor.
 
 ## Título Séptimo
 
-CRÍMENES I SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS I CONTRA LA MORALIDAD PUBLICA.
+CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN DE LAS FAMILIAS Y CONTRA LA MORALIDAD PÚBLICA.
 
 ### I. Aborto
 
@@ -2362,7 +2372,7 @@ Será castigado con presidio menor en sus grados mínimo a medio, el que con vio
 
 #### Artículo 344
 
-La mujer que causare su aborto o consintiere que otra persona se lo canse, será castigada con presidio menor en su grado máximo.
+La mujer que causare su aborto o consintiere que otra persona se lo cause, será castigada con presidio menor en su grado máximo.
 
 Si lo hiciere por ocultar su deshonra, incurrirá en la pena de presidio menor en su grado medio.
 
@@ -2370,7 +2380,7 @@ Si lo hiciere por ocultar su deshonra, incurrirá en la pena de presidio menor e
 
 El facultativo que, abusando de su oficio, causare el aborto o cooperare a él, incurrirá respectivamente en las penas señaladas en el art. 342, aumentadas en un grado.
 
-### II. Abandono de niños i personas desvalidas
+### II. Abandono de niños y personas desvalidas
 
 #### Artículo 346
 
@@ -2378,13 +2388,13 @@ El que abandonare en un lugar no solitario a un niño menor de siete años, ser�
 
 #### Artículo 347
 
-Si el abandono se hiciere por los padres lejítimos o ilejítimos o por personas que tuvieren al niño bajo su cuidado, la pena será presidio menor en su grado máximo, cuando el que lo abandona reside a ménos de cinco quilómetros de un pueblo o lugar en que hubiere casa de espósitos, i presidio menor en su grado medio en los demas casos.
+Si el abandono se hiciere por los padres legítimos o ilegítimos o por personas que tuvieren al niño bajo su cuidado, la pena será presidio menor en su grado máximo, cuando el que lo abandona reside a menos de cinco quilómetros de un pueblo o lugar en que hubiere casa de expósitos, y presidio menor en su grado medio en los demás casos.
 
 #### Artículo 348
 
-Si a consecuencia del abandono resultaron lesiones graves o la muerte del niño, se impondrá al que lo efectuare la pena de presidio mayor en su grado mínimo, cuando fuere alguna de las personas comprendidas en el artículo anterior, i la de presidio menor en su grado máximo en el caso contrario.
+Si a consecuencia del abandono resultaron lesiones graves o la muerte del niño, se impondrá al que lo efectuare la pena de presidio mayor en su grado mínimo, cuando fuere alguna de las personas comprendidas en el artículo anterior, y la de presidio menor en su grado máximo en el caso contrario.
 
-Lo dispuesto en este artículo i en los dos precedentes no se aplica al abandono hecho en casas de espósitos.
+Lo dispuesto en este artículo y en los dos precedentes no se aplica al abandono hecho en casas de expósitos.
 
 #### Artículo 349
 
@@ -2396,71 +2406,71 @@ La pena será presidio mayor en su grado mínimo cuando el que abandona es algun
 
 #### Artículo 351
 
-Si del abandono en un lugar solitario resultaren lesiones graves o la muerte del niño, se impondrá al que lo ejecuta la pena de presidio mayor en su grado medio, cuando fuere alguna de las personas a que se refiere el artículo precedente, i la de presidio mayor en su grado mínimo en el caso contrario.
+Si del abandono en un lugar solitario resultaren lesiones graves o la muerte del niño, se impondrá al que lo ejecuta la pena de presidio mayor en su grado medio, cuando fuere alguna de las personas a que se refiere el artículo precedente, y la de presidio mayor en su grado mínimo en el caso contrario.
 
 #### Artículo 352
 
-El que abandonare a su cónyuje o a un ascendiente o descendiente, lejítimo o ilejítimo, enfermo o imposibilitado, si el abandonado sufriere lesiones graves o muriere a consecuencia del abandono, será castigado con presidio mayor en su grado mínimo.
+El que abandonare a su cónyuge o a un ascendiente o descendiente, legítimo o ilegítimo, enfermo o imposibilitado, si el abandonado sufriere lesiones graves o muriere a consecuencia del abandono, será castigado con presidio mayor en su grado mínimo.
 
-### III. Crímenes i simples delitos contra el estado civil de las personas
+### III. Crímenes y simples delitos contra el estado civil de las personas
 
 #### Artículo 353
 
-La suposicion de parto i la sustitucion de un niño por otro, serán castigadas con las penas de presidio mayor en su grado mínimo i multa de mil a dos mil pesos.
+La suposición de parto y la sustitución de un niño por otro, serán castigadas con las penas de presidio mayor en su grado mínimo y multa de mil a dos mil pesos.
 
 #### Artículo 354
 
-El que usurpare el estado civil de otro, sufrirá la pena de presidio menor en sus grados medio a máximo i multa de ciento a mil pesos.
+El que usurpare el estado civil de otro, sufrirá la pena de presidio menor en sus grados medio a máximo y multa de ciento a mil pesos.
 
-Las mismas penas se impondrán al que sustrajere, ocultare o espusiere a un hijo lejítimo o ilejítimo con ánimo verdadero o presunto de hacerle perder su estado civil.
+Las mismas penas se impondrán al que sustrajere, ocultare o expusiere a un hijo legítimo o ilegítimo con ánimo verdadero o presunto de hacerle perder su estado civil.
 
 #### Artículo 355
 
-El que hallándose encargado de la persona de un menor no lo presentare, reclamándolo sus padres, guardadores o la autoridad, a peticion de sus demas parientes o de oficio, ni diere esplicaciones satisfactorias acerca de su desaparicion, sufrirá la pena de presidio menor en su grado medio.
+El que hallándose encargado de la persona de un menor no lo presentare, reclamándolo sus padres, guardadores o la autoridad, a petición de sus demás parientes o de oficio, ni diere explicaciones satisfactorias acerca de su desaparición, sufrirá la pena de presidio menor en su grado medio.
 
 #### Artículo 356
 
-El que teniendo a su cargo la crianza o educacion de un menor de diez años, lo entregare a un establecimiento público o a otra persona, sin la anuencia de la que se lo hubiere confiado o de la autoridad en su defecto, i de ello resultare perjuicio gravo, será castigado con reclusion menor en su grado medio i multa de ciento a quinientos pesos.
+El que teniendo a su cargo la crianza o educación de un menor de diez años, lo entregare a un establecimiento público o a otra persona, sin la anuencia de la que se lo hubiere confiado o de la autoridad en su defecto, y de ello resultare perjuicio gravo, será castigado con reclusión menor en su grado medio y multa de ciento a quinientos pesos.
 
 #### Artículo 357
 
-El que indujere a un menor de edad, pero mayor de diez años, a que abandone la casa de sus padres, guardadores o encargados de su persona, sufrirá las penas de reclusion menor en cualquiera de sus grados i multa de ciento a mil pesos.
+El que indujere a un menor de edad, pero mayor de diez años, a que abandone la casa de sus padres, guardadores o encargados de su persona, sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de ciento a mil pesos.
 
 ### IV. Del rapto
 
 #### Artículo 358
 
-El rapto de una mujer de buena fama ejecutado contra su voluntad i con miras deshonestas, será penado con presidio menor en su grado máximo a mayor en su grado mínimo. Cuando no gozare de buena fama, la pena será presidio menor en cualquiera de sus grados.
+El rapto de una mujer de buena fama ejecutado contra su voluntad y con miras deshonestas, será penado con presidio menor en su grado máximo a mayor en su grado mínimo. Cuando no gozare de buena fama, la pena será presidio menor en cualquiera de sus grados.
 
 En todo caso se impondrá la pena de presidio mayor en sus grados mínimo a medio si la robada fuere menor de doce años.
 
 #### Artículo 359
 
-El rapto de una doncella menor de veinte i mayor de doce años, ejecutado con su anuencia, será castigado con presidio menor en cualquiera de sus grados.
+El rapto de una doncella menor de veinte y mayor de doce años, ejecutado con su anuencia, será castigado con presidio menor en cualquiera de sus grados.
 
 #### Artículo 360
 
-Los reos de delito de rapto que no dieren razon del paradero de la persona robada, o esplicaciones satisfactorias sobre su muerte o desaparicion, incurrirán en la pena de presidio mayor en cualquiera de sus grados.
+Los reos de delito de rapto que no dieren razón del paradero de la persona robada, o explicaciones satisfactorias sobre su muerte o desaparición, incurrirán en la pena de presidio mayor en cualquiera de sus grados.
 
 ### V. De la violación
 
 #### Artículo 361
 
-La violacion de una mujer será castigada con la pena de presidio menor en su grado máximo a presidio mayor en su grado medio.
+La violación de una mujer será castigada con la pena de presidio menor en su grado máximo a presidio mayor en su grado medio.
 
-Se comete violacion yaciendo con la mujer en alguno de los casos siguientes:
+Se comete violación yaciendo con la mujer en alguno de los casos siguientes:
 
-1.º Cuando se usa de fuerza o intimidacion.
+1.º Cuando se usa de fuerza o intimidación.
 
-2.° Cuando la mujer se halla privada de razon o de sentido por cualquier causa.
+2.° Cuando la mujer se halla privada de razón o de sentido por cualquier causa.
 
-3.° Cuando sea menor de doce años cumplidos aun cuando no concurra ninguna de las circunstancias espresadas en los dos números anteriores.
+3.° Cuando sea menor de doce años cumplidos aun cuando no concurra ninguna de las circunstancias expresadas en los dos números anteriores.
 
 #### Artículo 362
 
-Los delitos de que trata este párrafo se consideran consumados desde que hai principio de ejecucion.
+Los delitos de que trata este párrafo se consideran consumados desde que hay principio de ejecución.
 
-### VI. Del estupro, incesto, corrupcion de menores i otros actos deshonestos
+### VI. Del estupro, incesto, corrupción de menores y otros actos deshonestos
 
 #### Artículo 363
 
@@ -2468,7 +2478,7 @@ El estupro de una doncella, mayor de doce años y menor de veinte, interviniendo
 
 #### Artículo 364
 
-En igual pena incurrirá el que, conociendo las relaciones que lo ligan, cometiere incesto con un ascendiente o descendiente por consanguinidad, lejítima o ilejítima o afinidad lejítima o con un hermano consanguíneo lejítimo o ilejítimo, aunque sea mayor de veinte años.
+En igual pena incurrirá el que, conociendo las relaciones que lo ligan, cometiere incesto con un ascendiente o descendiente por consanguinidad, legítima o ilegítima o afinidad legítima o con un hermano consanguíneo legítimo o ilegítimo, aunque sea mayor de veinte años.
 
 #### Artículo 365
 
@@ -2476,55 +2486,55 @@ El que se hiciere reo del delito de sodomía sufrirá la pena de presidio menor 
 
 #### Artículo 366
 
-El que abusare deshonestamente de persona de uno u otro sexo mayor de doce años i menor de veinte, será castigado con presidio menor en cualquiera de sus grados. Si concurriere alguna de las circunstancias espresadas en el art. 361, se estimará como agravante del delito, aun cuando sea mayor de veinte años la persona de quien se abusa.
+El que abusare deshonestamente de persona de uno u otro sexo mayor de doce años y menor de veinte, será castigado con presidio menor en cualquiera de sus grados. Si concurriere alguna de las circunstancias expresadas en el art. 361, se estimará como agravante del delito, aun cuando sea mayor de veinte años la persona de quien se abusa.
 
 #### Artículo 367
 
-El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitucion o corrupcion de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados i multa de ciento a cinco mil pesos.
+El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución o corrupción de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de ciento a cinco mil pesos.
 
 ### VII. Disposiciones comunes a los tres párrafos anteriores
 
 #### Artículo 368
 
-Si el rapto, la violacion, el estupro, la sodomía, los abusos deshonestos o la corrupcion de menores han sido cometidos por autoridad pública, sacerdote, guardador, maestro, criado o encargado por cualquier título de la educacion, guarda o curacion de la persona ofendida o prostituida, se impondrá al reo la pena señalada al delito en su grado máximo.
+Si el rapto, la violación, el estupro, la sodomía, los abusos deshonestos o la corrupción de menores han sido cometidos por autoridad pública, sacerdote, guardador, maestro, criado o encargado por cualquier título de la educación, guarda o curación de la persona ofendida o prostituida, se impondrá al reo la pena señalada al delito en su grado máximo.
 
 #### Artículo 369
 
 No puede procederse por causa de estupro sino a instancia de la agraviada o de sus padres, abuelos o guardadores.
 
-Para proceder en las causas de violacion i de rapto se necesita, a lo ménos, la denuncia hecha a la justicia por la persona interesada, por sus padres, abuelos o guardadores, aunque no formalicen instancia. Si la persona agraviada, a causa de su edad o estado moral, no pudiere hacer por sí misma la acusacion o denuncia, ni tuviere padres, abuelos o guardadores, o teniéndolos se hallaren imposibilitados o complicados en el delito, podrá el ministerio público entablar la acusacion.
+Para proceder en las causas de violación y de rapto se necesita, a lo menos, la denuncia hecha a la justicia por la persona interesada, por sus padres, abuelos o guardadores, aunque no formalicen instancia. Si la persona agraviada, a causa de su edad o estado moral, no pudiere hacer por sí misma la acusación o denuncia, ni tuviere padres, abuelos o guardadores, o teniéndolos se hallaren imposibilitados o complicados en el delito, podrá el ministerio público entablar la acusación.
 
 En todo caso se suspende el procedimiento o se remite la pena casándose el ofensor con la ofendida.
 
-No produce estos efectos la proposicion de matrimonio desechada por la ofendida, por la persona que debe prestar su consentimiento para el acto o por el juez en su caso, o cuando no pueda verificarse el matrimonio por impedimento legal.
+No produce estos efectos la proposición de matrimonio desechada por la ofendida, por la persona que debe prestar su consentimiento para el acto o por el juez en su caso, o cuando no pueda verificarse el matrimonio por impedimento legal.
 
 #### Artículo 370
 
-Los reos de violacion, estupro o rapto serán tambien condenados por vía de indemnizacion:
+Los reos de violación, estupro o rapto serán también condenados por vía de indemnización:
 
 1.° A dotar a la ofendida si fuere soltera o viuda.
 
-2.° A dar alimentos congruos a la prole que, segun las reglas legales, fuere suya.
+2.° A dar alimentos congruos a la prole que, según las reglas legales, fuere suya.
 
 #### Artículo 371
 
-Los ascendientes, guardadores, maestros i cualesquiera personas que con abuso de autoridad o encargo, cooperaren como cómplices a la perpetracion de los delitos comprendidos en los tres párrafos precedentes, serán penados como autores.
+Los ascendientes, guardadores, maestros y cualesquiera personas que con abuso de autoridad o encargo, cooperaren como cómplices a la perpetración de los delitos comprendidos en los tres párrafos precedentes, serán penados como autores.
 
-Los maestros o encargados en cualquier manera de la educacion o direccion de la juventud, serán ademas condenados a inhabilitacion especial perpetua para el cargo u oficio.
+Los maestros o encargados en cualquier manera de la educación o dirección de la juventud, serán además condenados a inhabilitación especial perpetua para el cargo u oficio.
 
 #### Artículo 372
 
-Los comprendidos en el artículo precedente i cualesquiera otros reos de corrupcion de menores con interes de terceros, serán tambien condenados a las penas de interdiccion del derecho de ejercer la guarda i ser oídos como parientes en los casos que la lei designa, i de sujecion a la vijilancia de la autoridad por el tiempo que el tribunal determine.
+Los comprendidos en el artículo precedente y cualesquiera otros reos de corrupción de menores con interés de terceros, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
 
 ### VIII. De los ultrajes públicos a las buenas costumbres
 
 #### Artículo 373
 
-Los que de cualquier modo ofendieren el pudor o las buenas costumbres con hechos de grave escándalo o trascendencia, no comprendidos espresamente en otros artículos de este Código, sufrirán la pena de reclusion menor en sus grados mínimo a medio.
+Los que de cualquier modo ofendieren el pudor o las buenas costumbres con hechos de grave escándalo o trascendencia, no comprendidos expresamente en otros artículos de este Código, sufrirán la pena de reclusión menor en sus grados mínimo a medio.
 
 #### Artículo 374
 
-El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, impresos o no, figuras o estampas contrarios a las buenas costumbres, será condenado a las penas de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos.
+El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, impresos o no, figuras o estampas contrarios a las buenas costumbres, será condenado a las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos.
 
 En las mismas penas incurrirá el autor del manuscrito, de la figura o de la estampa o el que los hubiere reproducido por un procedimiento cualquiera que no sea la imprenta.
 
@@ -2532,101 +2542,101 @@ En las mismas penas incurrirá el autor del manuscrito, de la figura o de la est
 
 #### Artículo 375
 
-El adulterio será castigado con la pena de reclusion menor en cualquiera de sus grados. Cometen adulterio la mujer casada que yace con varon que no sea su marido i el que yace con ella sabiendo que es casada, aunque después se declare nulo el matrimonio.
+El adulterio será castigado con la pena de reclusión menor en cualquiera de sus grados. Cometen adulterio la mujer casada que yace con varón que no sea su marido y el que yace con ella sabiendo que es casada, aunque después se declare nulo el matrimonio.
 
 #### Artículo 376
 
 No se impondrá, pena por delito de adulterio sino en virtud de querella del marido.
 
-La querella deberá, precisamente iniciarse contra ambos culpables, si uno i otro vivieren; pero en el caso de haber fallecido alguno de ellos o de fallecer despues de iniciado el juicio, podrá el ofendido entablarla o continuarla contra el sobreviviente.
+La querella deberá, precisamente iniciarse contra ambos culpables, si uno y otro vivieren; pero en el caso de haber fallecido alguno de ellos o de fallecer después de iniciado el juicio, podrá el ofendido entablarla o continuarla contra el sobreviviente.
 
 #### Artículo 377
 
-La accion de adulterio prescribe en un año, que principiará a correr desde el dia en que el ofendido tuvo noticia del delito; pero en caso de muerte de uno de los culpables, deberá iniciarse en los cuatro meses siguientes a ésta, siempre que este plazo se halle comprendido dentro del año en que, por regla jeneral, prescribe la accion.
+La acción de adulterio prescribe en un año, que principiará a correr desde el día en que el ofendido tuvo noticia del delito; pero en caso de muerte de uno de los culpables, deberá iniciarse en los cuatro meses siguientes a ésta, siempre que este plazo se halle comprendido dentro del año en que, por regla general, prescribe la acción.
 
-En ningun caso podrá entablarse accion de adulterio despues de cinco años, contados desde que se cometió el delito.
+En ningún caso podrá entablarse acción de adulterio después de cinco años, contados desde que se cometió el delito.
 
 #### Artículo 378
 
-Tampoco podrá entablarse accion de adulterio en caso de divorcio perpetuo, por los actos ejecutados miéntras éste subsista.
+Tampoco podrá entablarse acción de adulterio en caso de divorcio perpetuo, por los actos ejecutados mientras éste subsista.
 
 #### Artículo 379
 
-El marido podrá en cualquier tiempo suspender el procedimiento o remitir la pena impuesta a su consorte volviendo a unirse con ella, estendiéndose al cómplice los efectos de la suspension o remision.
+El marido podrá en cualquier tiempo suspender el procedimiento o remitir la pena impuesta a su consorte volviendo a unirse con ella, extendiéndose al cómplice los efectos de la suspensión o remisión.
 
 #### Artículo 380
 
-La ejecutoria en causa de divorcio por adulterio surtirá sus efectos plenamente en lo penal, cuando fuere absolutoria. Si fuere condenatoria, será necesario, nuevo juicio para la imposicion de las penas.
+La ejecutoria en causa de divorcio por adulterio surtirá sus efectos plenamente en lo penal, cuando fuere absolutoria. Si fuere condenatoria, será necesario, nuevo juicio para la imposición de las penas.
 
 #### Artículo 381
 
-El marido que tuviere manceba dentro de la casa conyugal, o fuera de ella con escándalo, será castigado con reclusion menor en su grado mínimo, i perderá el derecho de acusar a su mujer por los adulterios cometidos durante su amancebamiento.
+El marido que tuviere manceba dentro de la casa conyugal, o fuera de ella con escándalo, será castigado con reclusión menor en su grado mínimo, y perderá el derecho de acusar a su mujer por los adulterios cometidos durante su amancebamiento.
 
 La manceba sufrirá la pena de destierro en cualquiera de sus grados.
 
-Lo dispuesto en los artículos 376, 377, 378 i 379 es aplicable al presente.
+Lo dispuesto en los artículos 376, 377, 378 y 379 es aplicable al presente.
 
-### X. Celebracion de matrimonios ilegales
+### X. Celebración de matrimonios ilegales
 
 #### Artículo 382
 
-El que contrajere matrimonio estando casado válidamente, será castigado con reclusion menor en su grado máximo.
+El que contrajere matrimonio estando casado válidamente, será castigado con reclusión menor en su grado máximo.
 
 En igual pena incurrirá el que contrajere matrimonio estando ordenado in sacris o ligado con voto solemne de castidad.
 
 #### Artículo 383
 
-El que engañare a una persona simulando la celebracion de matrimonio con ella i el que lo contrajere a sabiendas de que tiene un impedimento dirimente no dispensable segun la lei, sufrirá la pena de reclusion menor en sus grados medio a máximo.
+El que engañare a una persona simulando la celebración de matrimonio con ella y el que lo contrajere a sabiendas de que tiene un impedimento dirimente no dispensable según la ley, sufrirá la pena de reclusión menor en sus grados medio a máximo.
 
 Si el impedimento fuere dispensable, incurrirá en una multa de ciento a mil pesos.
 
-Cuando por culpa suya no se revalidare el matrimonio, previa dispensa, en el término que el tribunal designe, será castigado con reclusion menor en su grado medio, de la cual quedará relevado cuando se revalide el matrimonio.
+Cuando por culpa suya no se revalidare el matrimonio, previa dispensa, en el término que el tribunal designe, será castigado con reclusión menor en su grado medio, de la cual quedará relevado cuando se revalide el matrimonio.
 
 #### Artículo 384
 
-El que por sorpresa o engaño hiciere intervenir al funcionario que debe autorizar su matrimonio sin haber observado las prescripciones que la lei exije para su celebracion, aun cuando el matrimonio sea válido, sufrirá la pena de reclusion menor en su grado mínimo.
+El que por sorpresa o engaño hiciere intervenir al funcionario que debe autorizar su matrimonio sin haber observado las prescripciones que la ley exige para su celebración, aun cuando el matrimonio sea válido, sufrirá la pena de reclusión menor en su grado mínimo.
 
-Si lo hiciere intervenir con violencia o intimidacion, la pena será reclusion menor en sus grados medio a máximo.
+Si lo hiciere intervenir con violencia o intimidación, la pena será reclusión menor en sus grados medio a máximo.
 
 #### Artículo 385
 
-El menor que de acuerdo con el funcionario llamado a legalizar su matrimonio, lo contrajere sin el consentimiento de sus padres o de las personas que para el efecto hagan sus veces, será castigado con reclusion menor en su grado mínimo.
+El menor que de acuerdo con el funcionario llamado a legalizar su matrimonio, lo contrajere sin el consentimiento de sus padres o de las personas que para el efecto hagan sus veces, será castigado con reclusión menor en su grado mínimo.
 
-Esta pena solo podrá imponerse a requisicion de las personas llamadas a prestar el consentimiento, quienes podrán remitirla en todo caso. Deberá entenderse esto último si no entablaren la acusacion dentro de dos meses, despues de haber tenido conocimiento del matrimonio.
+Esta pena sólo podrá imponerse a requisición de las personas llamadas a prestar el consentimiento, quienes podrán remitirla en todo caso. Deberá entenderse esto último si no entablaren la acusación dentro de dos meses, después de haber tenido conocimiento del matrimonio.
 
 #### Artículo 386
 
-La viuda que se case ántes de los doscientos setenta dias desde la muerte de su marido, o ántes de su alumbramiento, si hubiere quedado en cinta, incurrirá en las penas de reclusion menor en su grado mínimo i multa de ciento a mil pesos.
+La viuda que se case antes de los doscientos setenta días desde la muerte de su marido, o antes de su alumbramiento, si hubiere quedado en cinta, incurrirá en las penas de reclusión menor en su grado mínimo y multa de ciento a mil pesos.
 
-En las mismas penas incurrirá la mujer cuyo matrimonio se hubiere declarado nulo, si se casare ántes de su alumbramiento habiendo quedado en cinta, o ántes de los doscientos setenta dias, contados desde la fecha de su separacion legal.
+En las mismas penas incurrirá la mujer cuyo matrimonio se hubiere declarado nulo, si se casare antes de su alumbramiento habiendo quedado en cinta, o antes de los doscientos setenta días, contados desde la fecha de su separación legal.
 
 En los casos de este artículo deberá aplicarse lo que dispone el 128 del Código Civil en su inc. 2.°
 
 #### Artículo 387
 
-El guardador que, en contravencion a lo que dispone el Código Civil, ántes de la aprobacion legal de sus cuentas, contrajere matrimonio o prestare su consentimiento para que lo contraigan sus hijos o descendientes con la persona que tuviere o hubiere tenido en guarda, será castigado con reclusion menor en su grado medio i multa de ciento a mil pesos.
+El guardador que, en contravención a lo que dispone el Código Civil, antes de la aprobación legal de sus cuentas, contrajere matrimonio o prestare su consentimiento para que lo contraigan sus hijos o descendientes con la persona que tuviere o hubiere tenido en guarda, será castigado con reclusión menor en su grado medio y multa de ciento a mil pesos.
 
 #### Artículo 388
 
-El funcionario eclesiástico o civil que autorice matrimonio prohibido por la lei o en que no se hayan llenado las formalidades que ella exije para su celebracion, sufrirá las penas de relegacion menor en su grado medio i multa de ciento a quinientos pesos.
+El funcionario eclesiástico o civil que autorice matrimonio prohibido por la ley o en que no se hayan llenado las formalidades que ella exige para su celebración, sufrirá las penas de relegación menor en su grado medio y multa de ciento a quinientos pesos.
 
 #### Artículo 389
 
-En los casos de este párrafo será obligado el contrayente doloso a dotar, segun su posibilidad, a la mujer que hubiere procedido de buena fé, si el matrimonio no llegare a celebrarse válidamente.
+En los casos de este párrafo será obligado el contrayente doloso a dotar, según su posibilidad, a la mujer que hubiere procedido de buena fe, si el matrimonio no llegare a celebrarse válidamente.
 
 ## Título Octavo
 
-CRIMENES I SIMPLES DELITOS CONTRA LAS PERSONAS.
+CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 
 ### I. Del homicidio
 
 #### Artículo 390
 
-El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean lejítimos o ilejítimos, a cualquier otro de sus ascendientes o descendientes lejítimos o a su cónyuje, será castigado, como parricida, con la pena de muerte.
+El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean legítimos o ilegítimos, a cualquier otro de sus ascendientes o descendientes legítimos o a su cónyuge, será castigado, como parricida, con la pena de muerte.
 
 ART.391.
 
-El que mate a otro i no esté comprendido en el artículo anterior, será penado:
+El que mate a otro Y no esté comprendido en el artículo anterior, será penado:
 
 1.° Con presidio mayor en su grado medio a muerte, si ejecutare el homicidio con alguna de las circunstancias siguientes:
 
@@ -2638,25 +2648,25 @@ Tercera.- Por medio de veneno.
 
 Cuarta.- Con ensañamiento, aumentando deliberada e inhumanamente el dolor al ofendido.
 
-Quinta.- Con premeditacion conocida.
+Quinta.- Con premeditación conocida.
 
 2.º Con presidio mayor en sus grados mínimo a medio en cualquier otro caso.
 
 #### Artículo 392
 
-Cometiéndose un homicidio en riña o pelea i no constando el autor de la muerte, pero sí los que causaron lesiones graves al occiso, se impondrá a todos éstos la pena de presidio menor en su grado máximo.
+Cometiéndose un homicidio en riña o pelea y no constando el autor de la muerte, pero sí los que causaron lesiones graves al occiso, se impondrá a todos éstos la pena de presidio menor en su grado máximo.
 
 Si no constare tampoco quienes causaron lesiones graves al ofendido, se impondrá a todos los que hubieren ejercido violencia en su persona la de presidio menor en su grado medio.
 
 #### Artículo 393
 
-El que con conocimiento de causa prestare ausilio a otro para que se suicide, sufrirá la pena de presidio menor en sus grados medio a máximo, si se efectúa la muerte.
+El que con conocimiento de causa prestare auxilio a otro para que se suicide, sufrirá la pena de presidio menor en sus grados medio a máximo, si se efectúa la muerte.
 
 ### II. Del infanticidio
 
 #### Artículo 394
 
-Cometen infanticidio el padre, la madre o los demas ascendientes lejítimos o ilejítimos que dentro de las cuarenta i ocho horas despues del parto, matan al hijo o descendiente, i serán penados con presidio mayor en sus grados mínimo a medio.
+Cometen infanticidio el padre, la madre o los demás ascendientes legítimos o ilegítimos que dentro de las cuarenta y ocho horas después del parto, matan al hijo o descendiente, y serán penados con presidio mayor en sus grados mínimo a medio.
 
 ### III. Lesiones corporales
 
@@ -2666,7 +2676,7 @@ El que maliciosamente castrare a otro será castigado con presidio mayor en sus 
 
 #### Artículo 396
 
-Cualquiera otra mutilacion de un miembro importante que deje al paciente en la imposibilidad de valerse por sí mismo o de ejecutar las funciones naturales que ántes ejecutaba, hecha tambien con malicia, será penada con presidio menor en su grado máximo a presidio mayor en su grado mínimo.
+Cualquiera otra mutilación de un miembro importante que deje al paciente en la imposibilidad de valerse por sí mismo o de ejecutar las funciones naturales que antes ejecutaba, hecha también con malicia, será penada con presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
 En los casos de mutilaciones de miembros menos importantes, como un dedo o una oreja, la pena será presidio menor en sus grados mínimo a medio.
 
@@ -2674,43 +2684,43 @@ En los casos de mutilaciones de miembros menos importantes, como un dedo o una o
 
 El que hiriere, golpeare o maltratare de obra a otro, será castigado como reo de lesiones graves:
 
-1.° Con la pena de presidio mayor en su grado mínimo, si de resultas de las lesiones queda el ofendido demente, inútil para el trabajo, impotente, impedido de algun miembro importante o notablemente deforme.
+1.° Con la pena de presidio mayor en su grado mínimo, si de resultas de las lesiones queda el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 
-2.° Con la de presidio menor en su grado medio, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por mas de treinta días.
+2.° Con la de presidio menor en su grado medio, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
 
 #### Artículo 398
 
-Las penas del artículo anterior son aplicables respectivamente al que causare a otro alguna lesion grave, ya sea administrándole a sabiendas sustancias o bebidas nocivas o abusando de su credulidad o flaqueza de espíritu.
+Las penas del artículo anterior son aplicables respectivamente al que causare a otro alguna lesión grave, ya sea administrándole a sabiendas sustancias o bebidas nocivas o abusando de su credulidad o flaqueza de espíritu.
 
 #### Artículo 399
 
-Las lesiones no comprendidas en los artículos precedentes se reputan menos graves, i serán penadas con relegacion o presidio menores en sus grados mínimos o con multa de ciento a mil pesos.
+Las lesiones no comprendidas en los artículos precedentes se reputan menos graves, y serán penadas con relegación o presidio menores en sus grados mínimos o con multa de ciento a mil pesos.
 
 #### Artículo 400
 
-Si los hechos a que se refieren los anteriores artículos de este párrafo se ejecutaren contra alguna de las personas que menciona el 390, o con cualquiera de las circunstancias segunda, tercera i cuarta del núm. 1.º del 391 las penas se aumentarán en un grado.
+Si los hechos a que se refieren los anteriores artículos de este párrafo se ejecutaren contra alguna de las personas que menciona el 390, o con cualquiera de las circunstancias segunda, tercera y cuarta del núm. 1.º del 391 las penas se aumentarán en un grado.
 
 #### Artículo 401
 
-Las lesiones menos graves inferidas a guardadores, sacerdotes, maestros o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegacion menores en sus grados mínimos a medios.
+Las lesiones menos graves inferidas a guardadores, sacerdotes, maestros o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegación menores en sus grados mínimos a medios.
 
 #### Artículo 402
 
-Si resultaren lesiones graves de una riña o pelea i no constare su autor, pero sí los que causaron lesiones ménos graves, se impondrán a todos éstos las penas inmediatamente inferiores en grado a las que les hubieran correspondido por aquellas lesiones.
+Si resultaren lesiones graves de una riña o pelea y no constare su autor, pero sí los que causaron lesiones menos graves, se impondrán a todos éstos las penas inmediatamente inferiores en grado a las que les hubieran correspondido por aquellas lesiones.
 
-No constando tampoco los que causaron lesiones ménos graves, se impondrán las penas inferiores en dos grados a los que aparezca que hicieron uso en la riña o pelea de armas que pudieron causar esas lesiones graves.
+No constando tampoco los que causaron lesiones menos graves, se impondrán las penas inferiores en dos grados a los que aparezca que hicieron uso en la riña o pelea de armas que pudieron causar esas lesiones graves.
 
 #### Artículo 403
 
-Cuando solo hubieren resultado lesiones ménos graves sin conocerse a los autores de ellas, pero sí a los que hicieron uso de armas capaces de producirlas, se impondrá a todos éstos las penas inmediatamente inferiores en grado a las que les hubieran correspondido por tales lesiones.
+Cuando sólo hubieren resultado lesiones menos graves sin conocerse a los autores de ellas, pero sí a los que hicieron uso de armas capaces de producirlas, se impondrá a todos éstos las penas inmediatamente inferiores en grado a las que les hubieran correspondido por tales lesiones.
 
-En los casos de este artículo i del anterior, se estará a lo dispuesto en el 304 para la aplicacion de la pena.
+En los casos de este artículo y del anterior, se estará a lo dispuesto en el 304 para la aplicación de la pena.
 
 ### IV. Del duelo
 
 #### Artículo 404
 
-La provocacion a duelo será castigada con reclusion menor en su grado mínimo.
+La provocación a duelo será castigada con reclusión menor en su grado mínimo.
 
 #### Artículo 405
 
@@ -2718,13 +2728,13 @@ En igual pena incurrirá el que denostare o públicamente desacreditare a otro p
 
 #### Artículo 406
 
-El que matare en duelo a su adversario sufrirá la pena de reclusion mayor en su grado mínimo.
+El que matare en duelo a su adversario sufrirá la pena de reclusión mayor en su grado mínimo.
 
-Si le causare las lesiones señaladas en el núm. 1.° del art. 397, será castigado con reclusion menor en su grado máximo.
+Si le causare las lesiones señaladas en el núm. 1.° del art. 397, será castigado con reclusión menor en su grado máximo.
 
-Cuando las lesiones fueren de las relacionadas en el núm. 2.° de dicho art. 397, la pena será reclusion menor en sus grados mínimo a medio.
+Cuando las lesiones fueren de las relacionadas en el núm. 2.° de dicho art. 397, la pena será reclusión menor en sus grados mínimo a medio.
 
-En los demas casos se impondrá a los combatientes reclusion menor en su grado mínimo o multa de quinientos a mil pesos.
+En los demás casos se impondrá a los combatientes reclusión menor en su grado mínimo o multa de quinientos a mil pesos.
 
 #### Artículo 407
 
@@ -2732,31 +2742,31 @@ El que incitare a otro a provocar o aceptar un duelo, será castigado respectiva
 
 #### Artículo 408
 
-Los padrinos de un duelo que se lleve a efecto incurrirán en la pena de reclusion menor en su grado mínimo; pero si ellos lo hubieron concertado a muerte o con ventaja conocida de alguno de los combatientes, la pena será reclusion menor en su grado máximo.
+Los padrinos de un duelo que se lleve a efecto incurrirán en la pena de reclusión menor en su grado mínimo; pero si ellos lo hubieron concertado a muerte o con ventaja conocida de alguno de los combatientes, la pena será reclusión menor en su grado máximo.
 
 #### Artículo 409
 
-Se impondrán las penas jenerales de este Código para los casos de homicidio i lesiones:
+Se impondrán las penas generales de este Código para los casos de homicidio y lesiones:
 
 1.° Si el duelo se hubiere verificado sin la asistencia de padrinos.
 
-2º ° Cuando se provocare o diere causa a un desafío proponiéndose un interes pecuniario o un objeto inmoral.
+2º ° Cuando se provocare o diere causa a un desafío proponiéndose un interés pecuniario o un objeto inmoral.
 
 3.° Al combatiente que faltare a las condiciones esenciales concertadas por los padrinos.
 
-### V. Disposiciones comunes a los párrafos I, III i IV de este título
+### V. Disposiciones comunes a los párrafos I, III y IV de este título
 
 #### Artículo 410
 
-En los casos de homicidio o lesiones a que se refieren los párrafos I, III i IV del presente título, el ofensor, a mas de las penas que en ellos se establecen, quedará obligado:
+En los casos de homicidio o lesiones a que se refieren los párrafos I, III y IV del presente título, el ofensor, a más de las penas que en ellos se establecen, quedará obligado:
 
 1.° A suministrar alimentos a la familia del occiso.
 
-2.° A pagar la curacion del demente o imposibilitado para el trabajo i a dar alimentos a él i a su familia.
+2.° A pagar la curación del demente o imposibilitado para el trabajo y a dar alimentos a él y a su familia.
 
-3.° A pagar la curacion del ofendido en los demas casos de lesiones i a dar alimentos a él i a su familia miéntras dure la imposibilidad para el trabajo ocasionada por tales lesiones.
+3.° A pagar la curación del ofendido en los demás casos de lesiones y a dar alimentos a él y a su familia mientras dure la imposibilidad para el trabajo ocasionada por tales lesiones.
 
-Los alimentos serán siempre congruos tratándose del ofendido, i la obligacion de darlos cesa si éste tiene bienes suficientes con que atender a su cómoda subsistencia i para suministrarlos a su familia en los casos i en la forma que determina el Código Civil.
+Los alimentos serán siempre congruos tratándose del ofendido, y la obligación de darlos cesa si éste tiene bienes suficientes con que atender a su cómoda subsistencia y para suministrarlos a su familia en los casos y en la forma que determina el Código Civil.
 
 #### Artículo 411
 
@@ -2766,23 +2776,23 @@ Para los efectos del artículo anterior se entiende por familia todas las person
 
 #### Artículo 412
 
-Es calumnia la imputacion de un delito determinado pero falso i que pueda actualmente perseguirse de oficio.
+Es calumnia la imputación de un delito determinado pero falso y que pueda actualmente perseguirse de oficio.
 
 #### Artículo 413
 
-La calumnia propagada por escrito i con publicidad será castigada:
+La calumnia propagada por escrito y con publicidad será castigada:
 
-1.° Con las penas de reclusion menor en su grado medio i multa de quinientos a mil pesos, cuando se imputare un crímen.
+1.° Con las penas de reclusión menor en su grado medio y multa de quinientos a mil pesos, cuando se imputare un crimen.
 
-2.° Con las de reclusion menor en su grado mínimo i multa de ciento a quinientos pesos, si se imputare un simple delito.
+2.° Con las de reclusión menor en su grado mínimo y multa de ciento a quinientos pesos, si se imputare un simple delito.
 
 #### Artículo 414
 
-No propagándose la calumnia con publicidad i por escrito, será castigada:
+No propagándose la calumnia con publicidad y por escrito, será castigada:
 
-1° Con las penas de reclusion menor en su grado mínimo i multa de ciento a quinientos pesos, cuando se imputare un crímen.
+1° Con las penas de reclusión menor en su grado mínimo y multa de ciento a quinientos pesos, cuando se imputare un crimen.
 
-2.° Con las de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos, si se imputare un simple delito.
+2.° Con las de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos, si se imputare un simple delito.
 
 #### Artículo 415
 
@@ -2800,29 +2810,29 @@ Es injuria toda expresión proferida o acción ejecutada en deshonra, descrédit
 
 Son injurias graves:
 
-1.° La imputacion de un crímen o simple delito de los que no dan lugar a procedimiento de oficio.
+1.° La imputación de un crimen o simple delito de los que no dan lugar a procedimiento de oficio.
 
-2° La imputacion de un crímen o simple delito penado o prescrito.
+2° La imputación de un crimen o simple delito penado o prescrito.
 
 3.° La de un vicio o falta de moralidad cuyas consecuencias puedan perjudicar considerablemente la fama, crédito o intereses del agraviado.
 
-4.° Las injurias que por su naturaleza, ocasion o circunstancias fueren tenidas en el concepto público por afrentosas.
+4.° Las injurias que por su naturaleza, ocasión o circunstancias fueren tenidas en el concepto público por afrentosas.
 
-5.° Las que racionalmente merezcan la calificacion de graves atendido el estado, dignidad i circunstancias del ofendido i del ofensor.
+5.° Las que racionalmente merezcan la calificación de graves atendido el estado, dignidad y circunstancias del ofendido y del ofensor.
 
 #### Artículo 418
 
-Las injurias graves hechas por escrito i con publicidad, serán castigadas con las penas de reclusion menor en sus grados mínimo a medio i multa de quinientos a mil pesos.
+Las injurias graves hechas por escrito y con publicidad, serán castigadas con las penas de reclusión menor en sus grados mínimo a medio y multa de quinientos a mil pesos.
 
-No concurriendo aquellas circunstancias, las penas serán reclusion menor en su grado mínimo i multa de ciento a quinientos pesos.
+No concurriendo aquellas circunstancias, las penas serán reclusión menor en su grado mínimo y multa de ciento a quinientos pesos.
 
 #### Artículo 419
 
-Las injurias leves se castigarán con las penas de reclusion menor en su grado mínimo i multa de ciento a trescientos pesos, cuando fueren hechas por escrito i con publicidad. No concurriendo estas circunstancias se penarán como faltas.
+Las injurias leves se castigarán con las penas de reclusión menor en su grado mínimo y multa de ciento a trescientos pesos, cuando fueren hechas por escrito y con publicidad. No concurriendo estas circunstancias se penarán como faltas.
 
 #### Artículo 420
 
-Al acusado de injuria no se admitirá prueba sobre la verdad de las imputaciones, sino cuando éstas fueren dirijidas contra empleados públicos sobre hechos concernientes al ejercicio de su cargo.
+Al acusado de injuria no se admitirá prueba sobre la verdad de las imputaciones, sino cuando éstas fueren dirigidas contra empleados públicos sobre hechos concernientes al ejercicio de su cargo.
 
 En este caso será absuelto el acusado si probare la verdad de las imputaciones.
 
@@ -2830,87 +2840,87 @@ En este caso será absuelto el acusado si probare la verdad de las imputaciones.
 
 #### Artículo 421
 
-Se comete el delito de calumnia o injuria no solo manifiestamente, sino por medio de alegorías, caricaturas, emblemas o alusiones.
+Se comete el delito de calumnia o injuria no sólo manifiestamente, sino por medio de alegorías, caricaturas, emblemas o alusiones.
 
 #### Artículo 422
 
-La calumnia i la injuria se reputan hechas por escrito i con publicidad cuando se propagaren por medio de carteles o pasquines fijados en los sitios públicos; por papeles impresos, no sujetos a la lei de imprenta, litografías, grabados o manuscritos comunicados a mas de cinco personas, o por alegorías, caricaturas, emblemas o alusiones reproducidos por medio de la litografía, el grabado, la fotografía u otro procedimiento cualquiera.
+La calumnia y la injuria se reputan hechas por escrito y con publicidad cuando se propagaren por medio de carteles o pasquines fijados en los sitios públicos; por papeles impresos, no sujetos a la ley de imprenta, litografías, grabados o manuscritos comunicados a más de cinco personas, o por alegorías, caricaturas, emblemas o alusiones reproducidos por medio de la litografía, el grabado, la fotografía u otro procedimiento cualquiera.
 
 #### Artículo 423
 
-El acusado de calumnia o injuria encubierta o equívoca que rehusare dar en juicio esplicaciones satisfactorias acerca de ella, será castigado como reo de calumnia o injuria manifiesta.
+El acusado de calumnia o injuria encubierta o equívoca que rehusare dar en juicio explicaciones satisfactorias acerca de ella, será castigado como reo de calumnia o injuria manifiesta.
 
 #### Artículo 424
 
-Podrán ejercitar la accion de calumnia o injuria el cónyuje, los hijos, nietos, padres, abuelos i hermanos lejítimos, los hijos i padres naturales i el heredero del difunto agraviado.
+Podrán ejercitar la acción de calumnia o injuria el cónyuge, los hijos, nietos, padres, abuelos y hermanos legítimos, los hijos y padres naturales y el heredero del difunto agraviado
 
 #### Artículo 425
 
-Respecto de las calumnias o injurias publicadas por medio de periódicos estranjeros, podrán ser procesados los que, desde el territorio de la República, hubieren enviado los artículos o dado órden para su insercion, o contribuido a la introduccion o espendicion de esos periódicos en Chile con ánimo manifiesto de propagar la calumnia o injuria.
+Respecto de las calumnias o injurias publicadas por medio de periódicos extranjeros, podrán ser procesados los que, desde el territorio de la República, hubieren enviado los artículos o dado orden para su inserción, o contribuido a la introducción o expendición de esos periódicos en Chile con ánimo manifiesto de propagar la calumnia o injuria.
 
 #### Artículo 426
 
 La calumnia o injuria causada en juicio se juzgará disciplinariamente, conforme al Código de Procedimientos, por el tribunal que conoce de la causa; salvo el caso en que su gravedad, en concepto del mismo tribunal, diere mérito para proceder criminalmente.
 
-En este último caso, no podrá entablarse la accion sino despues de terminado el litijio en que se causó la calumnia o injuria.
+En este último caso, no podrá entablarse la acción sino después de terminado el litigio en que se causó la calumnia o injuria.
 
 #### Artículo 427
 
-Las espresiones que puedan estimarse calumniosas o injuriosas, consignadas en un documento oficial, no destinado a la publicidad, sobre asuntos del servicio público, no dan derecho para acusar criminalmente al que las consignó.
+Las expresiones que puedan estimarse calumniosas o injuriosas, consignadas en un documento oficial, no destinado a la publicidad, sobre asuntos del servicio público, no dan derecho para acusar criminalmente al que las consignó.
 
 #### Artículo 428
 
-Nadie será perseguido por calumnia o injuria sino a instancia de la parte agraviada o de las personas enumeradas en el art. 424, si el ofendido hubiere muerto o estuviere física o moralmente imposibilitado. El culpable puede ser relevado de la pena impuesta mediante perdón del acusador; pero la remision no producirá efecto respecto de la multa una vez que ésta haya sido satisfecha.
+Nadie será perseguido por calumnia o injuria sino a instancia de la parte agraviada o de las personas enumeradas en el art. 424, si el ofendido hubiere muerto o estuviere física o moralmente imposibilitado. El culpable puede ser relevado de la pena impuesta mediante perdón del acusador; pero la remisión no producirá efecto respecto de la multa una vez que ésta haya sido satisfecha.
 
-La calumnia o injuria se entenderá tácitamente remitida cuando hubieren mediado actos positivos que, en concepto del tribunal, importen reconciliacion o abandono de la accion.
+La calumnia o injuria se entenderá tácitamente remitida cuando hubieren mediado actos positivos que, en concepto del tribunal, importen reconciliación o abandono de la acción.
 
 #### Artículo 429
 
-Si la calumnia o injuria fuere dirijida contra las autoridades en su carácter de tales, podrán éstas requerir al ministerio público para que entable a su nombre la correspondiente accion.
+Si la calumnia o injuria fuere dirigida contra las autoridades en su carácter de tales, podrán éstas requerir al ministerio público para que entable a su nombre la correspondiente acción.
 
-Igual derecho corresponde al Presidente de la República, a los ministros de las naciones estranjeras acreditados en Chile u otros funcionarios que gocen de inmunidades diplomáticas, aun respecto de las calumnias o injurias hechas en su carácter privado.
+Igual derecho corresponde al Presidente de la República, a los ministros de las naciones extranjeras acreditados en Chile u otros funcionarios que gocen de inmunidades diplomáticas, aun respecto de las calumnias o injurias hechas en su carácter privado.
 
 #### Artículo 430
 
 En el caso de calumnias o injurias recíprocas, se observarán las reglas siguientes:
 
-1.° Si las mas graves de las calumnias o injurias recíprocamente inferidas merecieren igual pena, el tribunal las dará todas por compensadas.
+1.° Si las más graves de las calumnias o injurias recíprocamente inferidas merecieren igual pena, el tribunal las dará todas por compensadas.
 
-2.° Cuando la mas grave de las calumnias o injurias imputadas por una de las partes, tuviere señalado mayor castigo que la mas grave de las imputadas por la otra, al imponer la pena correspondiente a aquélla se rebajará la asignada para ésta.
+2.° Cuando la más grave de las calumnias o injurias imputadas por una de las partes, tuviere señalado mayor castigo que la más grave de las imputadas por la otra, al imponer la pena correspondiente a aquélla se rebajará la asignada para ésta.
 
 #### Artículo 431
 
-La accion de calumnia o injuria prescribe en un año, contado desde que el ofendido tuvo o pudo racionalmente tener conocimiento de la ofensa.
+La acción de calumnia o injuria prescribe en un año, contado desde que el ofendido tuvo o pudo racionalmente tener conocimiento de la ofensa.
 
-La misma regla se observará en el caso del art. 423; pero el tiempo trascurrido desde que el ofendido tuvo o pudo tener conocimiento de la ofensa hasta su muerte, se tomará en cuenta al computarse el año durante el cual pueden ejercitar esta accion las personas comprendidas en dicho artículo.
+La misma regla se observará en el caso del art. 423; pero el tiempo trascurrido desde que el ofendido tuvo o pudo tener conocimiento de la ofensa hasta su muerte, se tomará en cuenta al computarse el año durante el cual pueden ejercitar esta acción las personas comprendidas en dicho artículo.
 
-En ningun caso podrá entablarse accion de calumnia o injuria despues de cinco años, contando desde que se cometió el delito.
+En ningún caso podrá entablarse acción de calumnia o injuria después de cinco años, contando desde que se cometió el delito.
 
 ## Título Noveno
 
-CRIMENES I SIMPLES DELITOS CONTRA LA PROPIEDAD.
+CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD.
 
-### I. De la apropiacion de las cosas muebles ajenas contra la voluntad de su dueño
+### I. De la apropiación de las cosas muebles ajenas contra la voluntad de su dueño
 
 #### Artículo 432
 
-El que sin la voluntad de su dueño i con ánimo de lucrarse se apropia cosa mueble ajena usando de violencia o intimidacion en las personas o de fuerza en las cosas, comete robo; si faltan la violencia, la intimidacion i la fuerza, el delito se califica de hurto.
+El que sin la voluntad de su dueño y con ánimo de lucrarse se apropia cosa mueble ajena usando de violencia o intimidación en las personas o de fuerza en las cosas, comete robo; si faltan la violencia, la intimidación y la fuerza, el delito se califica de hurto.
 
-### II. Del robo con violencia o intimidacion en las personas
+### II. Del robo con violencia o intimidación en las personas
 
 #### Artículo 433
 
-El culpable de robo con violencia o intimidacion en las personas, sea que la violencia o la intimidacion tenga lugar ántes del robo para facilitar su ejecucion, en el acto de cometerlo o despues de cometido para favorecer su impunidad, será castigado con presidio mayor en su grado mínimo a muerte:
+El culpable de robo con violencia o intimidación en las personas, sea que la violencia o la intimidación tenga lugar antes del robo para facilitar su ejecución, en el acto de cometerlo o después de cometido para favorecer su impunidad, será castigado con presidio mayor en su grado mínimo a muerte:
 
-1.° Cuando con motivo u ocasion del robo resultare homicidio.
+1.° Cuando con motivo u ocasión del robo resultare homicidio.
 
-2.° Cuando fuere acompañado de violacion o mutilacion de un miembro importante.
+2.° Cuando fuere acompañado de violación o mutilación de un miembro importante.
 
-3.° Cuando se cometiere en despoblado i en cuadrilla, si con motivo u ocasion de este delito se causare alguna de las lesiones penadas en el núm. 1.° del art. 397, o el robado fuere retenido bajo rescate o por mas de un dia.
+3.° Cuando se cometiere en despoblado y en cuadrilla, si con motivo u ocasión de este delito se causare alguna de las lesiones penadas en el núm. 1.° del art. 397, o el robado fuere retenido bajo rescate o por más de un día.
 
 4.° En todo caso el jefe de la cuadrilla armada total o parcialmente.
 
-Hai cuadrilla cuando concurren a un robo mas de tres malhechores.
+Hay cuadrilla cuando concurren a un robo más de tres malhechores.
 
 #### Artículo 434
 
@@ -2918,21 +2928,21 @@ La pena del artículo anterior se aplicará en todo caso a los piratas.
 
 #### Artículo 435
 
-Cuando en el robo concurriere alguna de las circunstancias señaladas en el núm. 3.° del art. 433 i no se hubiere cometido en despoblado i en cuadrilla, el culpable sufrirá la pena de presidio mayor en su grado mínimo a medio.
+Cuando en el robo concurriere alguna de las circunstancias señaladas en el núm. 3.° del art. 433 y no se hubiere cometido en despoblado y en cuadrilla, el culpable sufrirá la pena de presidio mayor en su grado mínimo a medio.
 
 Causándose las lesiones de que trata el núm. 2° del art. 397, la pena será presidio menor en su grado máximo a presidio mayor en su grado mínimo.
 
 #### Artículo 436
 
-Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidacion en las personas, serán penados:
+Fuera de los casos previstos en los artículos precedentes, los robos ejecutados con violencia o intimidación en las personas, serán penados:
 
-1.° Con presidio menor en su grado máximo, a presidio mayor en su grado mínimo, si el importe de las cosas robadas excediere de mil pesos;
+1.o Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si el importe de las cosas robadas excediere de $ 1.000;
 
-2.° Con presidio menor en sus grados medio a máximo, cuando excediere de cien pesos y no pasare de mil pesos;
+2.o Con presidio menor en sus grados medio a máximo, cuando excediere de $ 100 y no pasare de $ 1.000;
 
-3.° Con presidio menor en sus grados mínimo a medio, si no excediere de cien pesos.
+3.o Con presidio menor en sus grados mínimo a medio, si no excediere de $ 100.
 
-Para la aplicacion de estas penas, se estimará como circunstancia agravante, haberse cometido el delito arrebatando por sorpresa, ropa, alhajas otros objetos a la persona que los lleva consigo, aparentando riñas en lugar de concurrencia o haciendo otras maniobras dirijidas a causar agolpamiento y confusion, a fin de robar por este medio o proporcionar ocasion para que roben los compañeros.
+Para la aplicación de estas penas, se estimará como circunstancia agravante haberse cometido el delito arrebatando por sorpresa, ropa, alhajas u otros objetos a la persona que los lleva consigo, o aparentando riñas en lugar de concurrencia o haciendo otras maniobras dirigidas a causar agolpamiento y confusión, a fin de robar por este medio o proporcionar ocasión para que otros perpetren el mismo delito.
 
 #### Artículo 437
 
@@ -2940,25 +2950,25 @@ La tentativa de robo acompañada de alguno de los delitos expresados en el art. 
 
 #### Artículo 438
 
-El que para defraudar a otro lo obligare con violencia o intimidacion a suscribir, otorgar o entregar un instrumento público o privado que importe una obligacion estimable en dinero, será castigado, como culpable do robo, con las penas respectivamente señaladas en este párrafo.
+El que para defraudar a otro lo obligare con violencia o intimidación a suscribir, otorgar o entregar un instrumento público o privado que importe una obligación estimable en dinero, será castigado, como culpable de robo, con las penas respectivamente señaladas en este párrafo.
 
 #### Artículo 439
 
-Para los efectos del presente párrafo se estimarán por violencia o intimidacion en las personas los malos tratamientos de obra, las amenazas ya para hacer que se entreguen o manifiesten las cosas, ya para impedir la resistencia u oposicion a que se quiten, o cualquier otro acto que pueda intimidar o forzar a la manifestacion o entrega. Hará tambien violencia el que para obtener la entrega o manifestacion alegare órden falsa de alguna autoridad, o la diere por sí finjiéndose ministro de justicia o funcionario público.
+Para los efectos del presente párrafo se estimarán por violencia o intimidación en las personas los malos tratamientos de obra, las amenazas ya para hacer que se entreguen o manifiesten las cosas, ya para impedir la resistencia u oposición a que se quiten, o cualquier otro acto que pueda intimidar o forzar a la manifestación o entrega. Hará también violencia el que para obtener la entrega o manifestación alegare orden falsa de alguna autoridad, o la diere por sí fingiéndose ministro de justicia o funcionario público.
 
 ### III. Del robo con fuerza en las cosas
 
 #### Artículo 440
 
-El culpable de robo con fuerza en las cosas efectuado en lugar habitado o destinado a la habitacion o en sus dependencias i llevando armas, sufrirá la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo si cometiere el delito:
+El culpable de robo con fuerza en las cosas efectuado en lugar habitado o destinado a la habitación o en sus dependencias y llevando armas, sufrirá la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo si cometiere el delito:
 
-1.º Con escalamiento, entendiéndose que lo hai cuando se entra por vía no destinada al efecto, por forado o con rompimiento de pared o techos, o fractura de puertas o ventanas.
+1.º Con escalamiento, entendiéndose que lo hay cuando se entra por vía no destinada al efecto, por forado o con rompimiento de pared o techos, o fractura de puertas o ventanas.
 
 2.º Haciendo uso de llaves falsas, o verdadera que hubiere sido sustraída, de ganzúas u otros instrumentos semejantes para entrar en el lugar del robo.
 
-3.º A Introduciéndose en el lugar del robo mediante la seduccion de algun doméstico, o a favor de nombres supuestos o simulacion de autoridad.
+3.º A Introduciéndose en el lugar del robo mediante la seducción de algún doméstico, o a favor de nombres supuestos o simulación de autoridad.
 
-4.° En despoblado i en cuadrilla.
+4.° En despoblado y en cuadrilla.
 
 #### Artículo 441
 
@@ -2976,15 +2986,15 @@ El robo cometido con armas o sin ellas en lugar no habitado, se castigará con p
 
 #### Artículo 443
 
-En los casos de los tres artículos precedentes, la pena será presidio menor en su grado medio, si el importe del robo no excediere de cien pesos.
+Derogado.
 
 #### Artículo 444
 
-Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa o de llave verdadera sustraída o de ganzúa en algun aposento, casa, edificio habitado o destinado a la habitacion o en sus dependencias.
+Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa o de llave verdadera sustraída o de ganzúa en algún aposento, casa, edificio habitado o destinado a la habitación o en sus dependencias.
 
 #### Artículo 445
 
-El que fabricare, espendiere o tuviere en su poder llaves falsas, ganzúas u otros instrumentos destinados conocidamente para efectuar el delito de robo i no diere descargo suficiente sobre su fabricacion, espendicion, adquisicion o conservacion, será castigado con presidio menor en su grado mínimo.
+El que fabricare, expendiere o tuviere en su poder llaves falsas, ganzúas u otros instrumentos destinados conocidamente para efectuar el delito de robo y no diere descargo suficiente sobre su fabricación, expendición, adquisición o conservación, será castigado con presidio menor en su grado mínimo.
 
 ### IV. Del hurto
 
@@ -2992,11 +3002,11 @@ El que fabricare, espendiere o tuviere en su poder llaves falsas, ganzúas u otr
 
 Los reos de hurto serán castigados:
 
-1.° Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de mil pesos;
+1.o Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de $ 1.000;
 
-2.° Con presidio menor en su grado medio, cuando su valor excediere de ciento y no pasare de mil pesos;
+2.o Con presidio menor en su grado medio, cuando su valor excediere de 100 y no pasare de $ 1,000;
 
-3.° Con presidio menor en su grado mínimo, si el importe de la cosa hurtada no subiere de cien pesos ni bajare de treinta pesos.
+3.o Con presidio menor en su grado mínimo si el importe de la cosa hurtada no subiere de $ 100 ni bajare de $ 30.
 
 #### Artículo 447
 
@@ -3008,7 +3018,7 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 
 3.º Cuando se cometiere por obrero, oficial o aprendiz en la casa, taller o almacén de su maestro o de la persona para quien trabaja, o por individuo que trabaja habitualmente en la casa donde hubiere hurtado.
 
-4.° Si se cometiere por el posadero, fondista u otra persona que hospede jentes en cosas que hubieren llevado a la posada o fonda.
+4.° Si se cometiere por el posadero, fondista u otra persona que hospede gentes en cosas que hubieren llevado a la posada o fonda.
 
 5.° Cuando se cometiere por patrón o comandante de buque, lanchero, conductor o bodeguero de tren, guarda almacenes, carruajero, carretero o arriero en cosas que se hayan puesto en su buque, carro, bodega, etc.
 
@@ -3016,13 +3026,11 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 
 El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de treinta pesos, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será considerado reo de hurto y castigado con presidio menor en su grado mínimo.
 
-También será considerado reo de hurto y castigado con presidio menor en su grado mínimo, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufrajio, inundacion, incendio, terremoto, accidente en ferrocarril u otra causa análoga, y no las entregare a los dueños o a la autoridad en su defecto.
+También será considerado reo de hurto y castigado con presidio menor en su grado mínimo, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufragio, inundación, incendio, terremoto, accidente en ferrocarril u otra causa análoga, y no las entregare a los dueños o a la autoridad en su defecto.
 
 ### V. Disposiciones comunes a los tres párrafos anteriores
 
 #### Artículo 449
-
-Si el robo o el hurto fuere cometido en lugar destinado al ejercicio de un culto permitido en la República i los objetos sustraídos estuvieren tambien destinados a dicho culto, se aplicarán respectivamente a los malhechores las penas superiores en un grado a las que les hubieran correspondido sin estas circunstancias.
 
 La misma regla so observará, en cuanto a la imposicion de las penas, en los casos de robos o hurtos de caballos o bestias de silla o carga, de ganado mayor o menor.
 
@@ -3032,39 +3040,39 @@ Para determinar cuando el robo o hurto se comete con armas, se estará a lo disp
 
 #### Artículo 451
 
-En los casos de reiteracion de hurtos a una misma persona o en una misma casa a distintas personas, el tribunal hará la regulacion de la pena tomando por base el importe total de los objetos sustraídos, i la impondrá al delincuente en su grado superior.
+En los casos de reiteración de hurtos a una misma persona o en una misma casa a distintas personas, el tribunal hará la regulación de la pena tomando por base el importe total de los objetos sustraídos, y la impondrá al delincuente en su grado superior.
 
 Esta regla es sin perjuicio de lo dispuesto en el art. 447.
 
 #### Artículo 452
 
-El que después de haber sido condenado por robo o hurto cometiere cualquiera de estos delitos, ademas de las penas que le correspondan por el hecho o hechos en que hubiere reincidido, el tribunal podrá imponerle la de sujeción a la vigilancia de la autoridad dentro de los límites fijados en el art. 25.
+El que después de haber sido condenado por robo o hurto cometiere cualquiera de estos delitos, además de las penas que le correspondan por el hecho o hechos en que hubiere reincidido, el tribunal podrá imponerle la de sujeción a la vigilancia de la autoridad dentro de los límites fijados en el art. 25.
 
 #### Artículo 453
 
-Cuando se reunieren en un hecho varias de las circunstancias a que se señala pena diversa segun los párrafos precedentes, se aplicará la de las circunstancias que en aquel caso particular la merezcan mas grave, pudiendo el tribunal aumentarla en un grado.
+Cuando se reunieren en un hecho varias de las circunstancias a que se señala pena diversa según los párrafos precedentes, se aplicará la de las circunstancias que en aquel caso particular la merezcan más grave, pudiendo el tribunal aumentarla en un grado.
 
 #### Artículo 454
 
-Se presumirá autor del robo o hurto de una cosa aquel en cuyo poder se encuentre, salvo que justifique su lejítima adquisicion o que la prueba de su buena conducta anterior establezca una presuncion en contrario.
+Se presumirá autor del robo o hurto de una cosa aquel en cuyo poder se encuentre, salvo que justifique su legítima adquisición o que la prueba de su buena conducta anterior establezca una presunción en contrario.
 
-Se castigará como encubridor del robo o hurto de una cosa al que la compre o reciba a cualquier título, sabiendo su oríjen o no pudiendo ménos de conocerlo.
+Se castigará como encubridor del robo o hurto de una cosa al que la compre o reciba a cualquier título, sabiendo su origen o no pudiendo menos de conocerlo.
 
 #### Artículo 455
 
-Cuando del proceso no resulte probado el valor de la cosa sustraída ni pudiere estimarse por peritos u otro arbitrio legal, el tribunal hará su regulacion prudencialmente.
+Cuando del proceso no resulte probado el valor de la cosa sustraída ni pudiere estimarse por peritos u otro arbitrio legal, el tribunal hará su regulación prudencialmente.
 
 #### Artículo 456
 
-Si ántes de perseguir al reo o ántes de decretar su prision devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433, 434 i 435, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
+Si antes de perseguir al reo o antes de decretar su prisión devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433, 434 y 435, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
 
-### VI. De la usurpacion
+### VI. De la usurpación
 
 #### Artículo 457
 
-Al que con violencia en las personas ocupare una cosa inmueble o usurpare un derecho real que otro poseyere o tuviere lejítimamente, i al que, hecha la ocupacion en ausencia del lejítimo poseedor o tenedor, vuelto éste le repeliere, ademas de las penas en que incurra por la violencia que causare, se le aplicará una multa de ciento a mil pesos.
+Al que con violencia en las personas ocupare una cosa inmueble o usurpare un derecho real que otro poseyere o tuviere legítimamente, y al que, hecha la ocupación en ausencia del legítimo poseedor o tenedor, vuelto éste le repeliere, además de las penas en que incurra por la violencia que causare, se le aplicará una multa de ciento a mil pesos.
 
-Si tales actos se ejecutaren por el dueño o poseedor regular contra el que posee o tiene ilejítimamente la cosa, aunque con derecho aparente, la pena será multa de ciento a quinientos pesos, sin perjuicio de las que correspondieren por la violencia causada.
+Si tales actos se ejecutaren por el dueño o poseedor regular contra el que posee o tiene ilegítimamente la cosa, aunque con derecho aparente, la pena será multa de ciento a quinientos pesos, sin perjuicio de las que correspondieren por la violencia causada.
 
 #### Artículo 458
 
@@ -3072,37 +3080,37 @@ Cuando, en los casos del inciso primero del artículo anterior, el hecho se llev
 
 #### Artículo 459
 
-Sufrirán las penas de presidio menor en su grado mínimo i multa de ciento a mil pesos, los que sin título lejítimo e invadiendo derechos ajenos:
+Sufrirán las penas de presidio menor en su grado mínimo y multa de ciento a mil pesos, los que sin título legítimo e invadiendo derechos ajenos:
 
-1.° Sacaren aguas de represas, estanques u otros depósitos; de rios, arroyos o fuentes; de canales o acueductos, i se las apropiaren para hacer de ellas un uso cualquiera.
+1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes; de canales o acueductos, y se las apropiaren para hacer de ellas un uso cualquiera.
 
-2.° Rompieren o alteraren con igual fin diques, esclusas, compuertas, marcos u otras obras semejantes existentes en los rios, arroyos, fuentes, depósitos, canales o acueductos.
+2.° Rompieren o alteraren con igual fin diques, esclusas, compuertas, marcos u otras obras semejantes existentes en los ríos, arroyos, fuentes, depósitos, canales o acueductos.
 
 3.° Pusieren embarazo al ejercicio de los derechos que un tercero tuviere sobre dichas aguas.
 
-4.° Usurparen un derecho cualquiera referente al curso de ellas o turbaren a alguno en su lejítima posesion.
+4.° Usurparen un derecho cualquiera referente al curso de ellas o turbaren a alguno en su legítima posesión.
 
 #### Artículo 460
 
-Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren con violencia en las personas, si el culpable no mereciere mayor pena por la violencia que causare, sufrirá la de presidio menor en sus grados mínimo a medio i multa de ciento a mil pesos.
+Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren con violencia en las personas, si el culpable no mereciere mayor pena por la violencia que causare, sufrirá la de presidio menor en sus grados mínimo a medio y multa de ciento a mil pesos.
 
 #### Artículo 461
 
-Serán castigados como reos de usurpacion de aguas con las penas del art. 459, los que teniendo derecho para sacarlas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.
+Serán castigados como reos de usurpación de aguas con las penas del art. 459, los que teniendo derecho para sacarlas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.
 
 #### Artículo 462
 
-El que destruyere o alterare términos o límites de propiedades públicas o particulares con ánimo de lucrarse, será penado con presidio menor en su grado mínimo i multa de ciento a mil pesos.
+El que destruyere o alterare términos o límites de propiedades públicas o particulares con ánimo de lucrarse, será penado con presidio menor en su grado mínimo y multa de ciento a mil pesos.
 
 ### VII. De las defraudaciones
 
 #### Artículo 463
 
-El quebrado que fuere declarado en el caso de insolvencia fraudulenta, con arreglo al Código de Comercio, sufrirá la pena de presidio o estrañamiento menores en cualesquiera de sus grados.
+El quebrado que fuere declarado en el caso de insolvencia fraudulenta, con arreglo al Código de Comercio, sufrirá la pena de presidio o extrañamiento menores en cualesquiera de sus grados.
 
 #### Artículo 464
 
-El quebrado que fuese declarado en el caso de insolvencia culpable, segun el mismo Código, será castigado con presidio o estrañamiento menores en sus grados mínimos a medios.
+El quebrado que fuese declarado en el caso de insolvencia culpable, según el mismo Código, será castigado con presidio o extrañamiento menores en sus grados mínimos a medios.
 
 #### Artículo 465
 
@@ -3110,61 +3118,61 @@ En los casos de los dos artículos precedentes, si la pérdida ocasionada a los 
 
 Cuando la pérdida exceda del cincuenta por ciento, las penas se aplicarán en su grado superior.
 
-Si ántes de pronunciarse la sentencia no se hubiere liquidado el concurso, el tribunal regulará prudencialmente la pérdida tomando por base los antecedentes del caso.
+Si antes de pronunciarse la sentencia no se hubiere liquidado el concurso, el tribunal regulará prudencialmente la pérdida tomando por base los antecedentes del caso.
 
 #### Artículo 466
 
-El deudor no dedicado al comercio que se alzare con sus bienes en perjuicio de sus acreedores o que se constituya en insolvencia por ocultacion, dilapidacion o enajenacion maliciosa de esos bienes, será castigado con presidio menor en cualquiera de sus grados.
+El deudor no dedicado al comercio que se alzare con sus bienes en perjuicio de sus acreedores o que se constituya en insolvencia por ocultación, dilapidación o enajenación maliciosa de esos bienes, será castigado con presidio menor en cualquiera de sus grados.
 
 En la misma pena incurrirá si otorgare, en perjuicio de dichos acreedores, contratos simulados.
 
-### VIII. Estafas i otros engaños
+### VIII. Estafas y otros engaños
 
 #### Artículo 467
 
-El que defraudare a otro en la sustancia, cantidad o calidad de las cosas que le entregare en virtud de un título obligatorio, será penado:
+El que defraude a otro en la substancia, cantidad o calidad de las cosas que le entregare en virtud de un título obligatorio, será penado:
 
-1.° Con presidio o relegacion menores en sus grados medio a máximo, si la defraudación excediere de mil pesos:
+1.o Con presidio o relegación menores en sus grados medio a máximo, si la defraudación excediere de $ 1,000;
 
-2.° Con presidio o relegacion menores en sus grados medios, cuando excediere de cien pesos y no pasare de mil pesos;
+2.o Con presidio o relegación menores en su grados medios, cuando exediere de $ 100 y no pasare de $ 1,000;
 
-3.° Con presidio o relegacion menores en sus grados mínimos, si el valor de la defraudacion no excediere de cien pesos ni bajare de treinta pesos.
+3.o Con presidio o relegación menores en sus grados mínimos, si el valor de la defraudación no excediere de $ 100 ni bajare de $ 30.
 
 #### Artículo 468
 
-Incurrirá en las penas del artículo anterior el que defraudare a otro usando de nombre finjido, atribuyéndose poder, influencia o crédito supuestos, aparentando bienes, crédito, comision, empresa o negociacion imajinarios, o valiéndose de cualquier otro engaño semejante.
+Incurrirá en las penas del artículo anterior el que defraudare a otro usando de nombre fingido, atribuyéndose poder, influencia o crédito supuestos, aparentando bienes, crédito, comisión, empresa o negociación imaginarios, o valiéndose de cualquier otro engaño semejante.
 
 #### Artículo 469
 
 Se impondrá respectivamente el máximum de las penas señaladas en el art. 467:
 
-1.° A los plateros i joyeros que cometieren defraudaciones alterando en su calidad, lei o peso los objetos relativos a su arte o comercio.
+1.° A los plateros y joyeros que cometieren defraudaciones alterando en su calidad, ley o peso los objetos relativos a su arte o comercio.
 
 2.° A los traficantes que defraudaren usando de pesos o medidas falsos en el despacho de los objetos de su tráfico.
 
-3.° A los comisionistas que cometieren defraudacion alterando en sus cuentas los precios o las condiciones de los contratos, suponiendo gastos o exajerando los que hubieren hecho.
+3.° A los comisionistas que cometieren defraudación alterando en sus cuentas los precios o las condiciones de los contratos, suponiendo gastos o exagerando los que hubieren hecho.
 
-4.° A los capitanes de buques que defrauden suponiendo gastos o exajerando los que hubieren hecho, o cometiendo cualquiera otro fraude en sus cuentas.
+4.° A los capitanes de buques que defrauden suponiendo gastos o exagerando los que hubieren hecho, o cometiendo cualquiera otro fraude en sus cuentas.
 
-5.° A los que cometieren defraudacion con pretesto de supuestas remuneraciones a empleados públicos, sin perjuicio de la accion de calumnia que a éstos corresponda.
+5.° A los que cometieren defraudación con pretexto de supuestas remuneraciones a empleados públicos, sin perjuicio de la acción de calumnia que a éstos corresponda.
 
 6.° Al dueño de la cosa embargada, o a cualquier otro que, teniendo noticia del embargo, hubiere destruido fraudulentamente los objetos en que se ha hecho la traba.
 
 #### Artículo 470
 
-Las penas del art. 467 se aplicarán tambien:
+Las penas del art. 467 se aplicarán también:
 
-1.° A los que en perjuicio de otro se apropiaren o distrajeren dinero, efectos o cualquiera otra cosa mueble que hubieren recibido en depósito, comision o administracion, o por otro título que produzca obligacion de entregarla o devolverla.
+1.° A los que en perjuicio de otro se apropiaren o distrajeren dinero, efectos o cualquiera otra cosa mueble que hubieren recibido en depósito, comisión o administración, o por otro título que produzca obligación de entregarla o devolverla.
 
 En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 del Código Civil, se observará lo que en dicho artículo se dispone.
 
-2.° A los capitanes de buques que, fuera de los casos i sin las solemnidades prevenidas por la lei, vendieren dichos buques, tomaren dinero a la gruesa sobre su casco i quilla, jiraren letras a cargo del naviero, enajenaren mercaderías o vituallas o tomaren provisiones pertenecientes a los pasajeros.
+2.° A los capitanes de buques que, fuera de los casos y sin las solemnidades prevenidas por la ley, vendieren dichos buques, tomaren dinero a la gruesa sobre su casco y quilla, giraren letras a cargo del naviero, enajenaren mercaderías o vituallas o tomaren provisiones pertenecientes a los pasajeros.
 
-3.° A los que cometieren alguna defraudacion abusando de firma de otro en blanco i estendiendo con ella algun documento en perjuicio del mismo o de un tercero.
+3.° A los que cometieren alguna defraudación abusando de firma de otro en blanco y extendiendo con ella algún documento en perjuicio del mismo o de un tercero.
 
-4.° A los que defraudaren haciendo suscribir a otro con engaño algun documento.
+4.° A los que defraudaren haciendo suscribir a otro con engaño algún documento.
 
-5.° A los que cometieren defraudaciones sustrayendo, ocultando, destruyendo o inutilizando en todo o en parte algun proceso, espediente, documento u otro papel de cualquiera clase.
+5.° A los que cometieren defraudaciones sustrayendo, ocultando, destruyendo o inutilizando en todo o en parte algún proceso, expediente, documento u otro papel de cualquiera clase.
 
 6.° A los que con datos falsos u ocultando antecedentes que les son conocidos, celebraren dolosamente contratos aleatorios basados en dichos datos o antecedentes.
 
@@ -3172,41 +3180,41 @@ En cuanto a la prueba del depósito en el caso a que se refiere el art. 2.217 de
 
 #### Artículo 471
 
-Será castigado con presidio o relegacion menores en sus grados mínimos o multa de ciento a mil pesos:
+Será castigado con presidio o relegación menores en sus grados mínimos o multa de ciento a mil pesos:
 
-1.º El dueño de una cosa mueble que la sustrajere de quien la tenga lejítimamente en su poder, con perjuicio de éste o de un tercero.
+1.º El dueño de una cosa mueble que la sustrajere de quien la tenga legítimamente en su poder, con perjuicio de éste o de un tercero.
 
 2.° El que otorgare en perjuicio de otro un contrato simulado.
 
 3.° DEROGADO.
 
-Los ejemplares, máquinas u objetos contrahechos, introducidos o espendidos fraudulentamente, se aplicarán al perjudicado i tambien las láminas o utensilios empleados en la ejecucion del fraude, cuando solo pudieren usarse para cometerlo.
+Los ejemplares, máquinas u objetos contrahechos, introducidos o expendidos fraudulentamente, se aplicarán al perjudicado y también las láminas o utensilios empleados en la ejecución del fraude, cuando sólo pudieren usarse para cometerlo.
 
 #### Artículo 472
 
-El que habitualmente hubiere suministrado valores, de cualquier manera que sea, a un interes que exceda del máximum que la lei permita estipular, abusando de la debilidad o pasiones del que lo toma, será castigado con relegacion menor en sus grados mínimo a medio i multa de ciento a mil pesos.
+El que habitualmente hubiere suministrado valores, de cualquier manera que sea, a un interés que exceda del máximum que la ley permita estipular, abusando de la debilidad o pasiones del que lo toma, será castigado con relegación menor en sus grados mínimo a medio y multa de ciento a mil pesos.
 
 #### Artículo 473
 
-El que defraudare o perjudicare a otro usando de cualquier engaño que no se halle espresado en los artículos anteriores de este párrafo, será castigado con presidio o relegacion menores en sus grados mínimos i multa de ciento a mil pesos.
+El que defraudare o perjudicare a otro usando de cualquier engaño que no se halle expresado en los artículos anteriores de este párrafo, será castigado con presidio o relegación menores en sus grados mínimos y multa de ciento a mil pesos.
 
-### IX. Del incendio i otros estragos
+### IX. Del incendio y otros estragos
 
 #### Artículo 474
 
-El que incendiare edificio, tren de ferrocarril, buque u otro lugar cualquiera, causando la muerte de una o mas personas cuya presencia allí pudo prever, será castigado con presidio mayor en su grado máximo a muerte.
+El que incendiare edificio, tren de ferrocarril, buque u otro lugar cualquiera, causando la muerte de una o más personas cuya presencia allí pudo prever, será castigado con presidio mayor en su grado máximo a muerte.
 
-La pena será presidio mayor en su grado máximo a presidio perpetuo, cuando del incendio no resultare muerte sino mutilacion de miembro importante o lesion grave de las comprendidas en el núm. 1.° del art. 397.
+La pena será presidio mayor en su grado máximo a presidio perpetuo, cuando del incendio no resultare muerte sino mutilación de miembro importante o lesión grave de las comprendidas en el núm. 1.° del art. 397.
 
-Las penas de este artículo se aplicarán respectivamente en el grado inferior de ellas si a consecuencia de esplosiones ocasionadas por incendios, resultare la muerte o lesiones graves de personas que se hallaren a cualquier distancia del lugar del siniestro.
+Las penas de este artículo se aplicarán respectivamente en el grado inferior de ellas si a consecuencia de explosiones ocasionadas por incendios, resultare la muerte o lesiones graves de personas que se hallaren a cualquier distancia del lugar del siniestro.
 
 #### Artículo 475
 
 Se castigará al incendiario con presidio mayor en su grado medio a presidio perpetuo:
 
-1.° Cuando ejecutare el incendio en edificios, tren de ferrocarril, buque o lugar habitados o en que actualmente hubiere una o mas personas, siempre que el culpable haya podido prever tal circunstancia.
+1.° Cuando ejecutare el incendio en edificios, tren de ferrocarril, buque o lugar habitados o en que actualmente hubiere una o más personas, siempre que el culpable haya podido prever tal circunstancia.
 
-2° Si lo ejecutare en buques mercantes cargados con objetos esplosivos o inflamables, en buques de guerra, arsenales, astilleros, almacenes, fábricas o depósitos de pólvora o de otras sustancias esplosivas o inflamables, parques de artillería, maestranzas, museos, bibliotecas, archivos, oficinas o monumentos públicos u otros lugares análogos a los enumerados.
+2° Si lo ejecutare en buques mercantes cargados con objetos explosivos o inflamables, en buques de guerra, arsenales, astilleros, almacenes, fábricas o depósitos de pólvora o de otras sustancias explosivas o inflamables, parques de artillería, maestranzas, museos, bibliotecas, archivos, oficinas o monumentos públicos u otros lugares análogos a los enumerados.
 
 #### Artículo 476
 
@@ -3214,7 +3222,7 @@ Se castigará con presidio mayor en cualquiera de sus grados:
 
 1.° Al que incendiare un edificio destinado a servir de morada, que no estuviere actualmente habitado.
 
-2.º Al que dentro de poblado incendiare cualquier edificio o lugar, aun cuando no estuviere destinado ordinariamente a la habitacion.
+2.º Al que dentro de poblado incendiare cualquier edificio o lugar, aun cuando no estuviere destinado ordinariamente a la habitación.
 
 3.º Al que incendiare mieses, pastos, montes, cierros o plantíos.
 
@@ -3230,43 +3238,43 @@ El incendiario de objetos no comprendidos en los artículos anteriores, será pe
 
 #### Artículo 478
 
-En caso de aplicarse el incendio a chozas, pajar o cobertizo deshabitado o a cualquier otro objeto cuyo valor no excediere de cien pesos, en tiempo y con circunstancias que manifiestamente escluyan todo peligro de propagacion, el culpable no incurrirá en las penas señaladas en este párrafo; pero sí en las que mereciera por el daño que causare con arreglo a las disposiciones del párrafo siguiente.
+En caso de aplicarse el incendio a chozas, pajar o cobertizo deshabitado o a cualquier otro objeto cuyo valor no excediere de cien pesos, en tiempo y con circunstancias que manifiestamente excluyan todo peligro de propagación, el culpable no incurrirá en las penas señaladas en este párrafo; pero sí en las que mereciera por el daño que causare con arreglo a las disposiciones del párrafo siguiente.
 
 #### Artículo 479
 
-Cuando el fuego se comunicare del objeto que el culpable se propuso quemar, a otro u otros cuya destruccion, por su naturaleza o consecuencias, debe penarse con mayor severidad, se aplicará la pena mas grave, siempre que los objetos incendiados estuvieren colocados de tal modo que el fuego haya debido comunicarse de unos a otros, atendidas las circunstancias del caso.
+Cuando el fuego se comunicare del objeto que el culpable se propuso quemar, a otro u otros cuya destrucción, por su naturaleza o consecuencias, debe penarse con mayor severidad, se aplicará la pena más grave, siempre que los objetos incendiados estuvieren colocados de tal modo que el fuego haya debido comunicarse de unos a otros, atendidas las circunstancias del caso.
 
 #### Artículo 480
 
-Incurrirán respectivamente en las penas de este párrafo los que causen estragos por medio de sumersion o varamiento de nave, inundacion, destruccion de puentes, esplosion de minas o máquinas de vapor, i en jeneral por la aplicacion de cualquier otro ajente o medio de destruccion tan poderoso como los espresados.
+Incurrirán respectivamente en las penas de este párrafo los que causen estragos por medio de sumersión o varamiento de nave, inundación, destrucción de puentes, explosión de minas o máquinas de vapor, y en general por la aplicación de cualquier otro agente o medio de destrucción tan poderoso como los expresados.
 
 #### Artículo 481
 
-El que fuere aprehendido con bombas esplosivas o preparativos conocidamente dispuestos para incendiar o causar alguno de los estragos espresados en este párrafo, será castigado con presidio menor en sus grados mínimo a medio; salvo que pudiendo considerarse el hecho como tentativa de un delito determinado debiera castigarse con mayor pena.
+El que fuere aprehendido con bombas explosivas o preparativos conocidamente dispuestos para incendiar o causar alguno de los estragos expresados en este párrafo, será castigado con presidio menor en sus grados mínimo a medio; salvo que pudiendo considerarse el hecho como tentativa de un delito determinado debiera castigarse con mayor pena.
 
 #### Artículo 482
 
 El culpable de incendio o estragos no se eximirá de las penas de los artículos anteriores, aunque para cometer el delito hubiere incendiado o destruido bienes de su pertenencia.
 
-Pero no incurrirá en tales penas el que rozare a fuego, incendiare rastrojos u otros objetos en tiempos i con circunstancias que manifiestamente escluyan todo propósito de propagacion, i observando los reglamentos que se dicten sobre esta materia.
+Pero no incurrirá en tales penas el que rozare a fuego, incendiare rastrojos u otros objetos en tiempos y con circunstancias que manifiestamente excluyan todo propósito de propagación, y observando los reglamentos que se dicten sobre esta materia.
 
 #### Artículo 483
 
-Se presume responsable de un incendio al comerciante en cuya casa o establecimiento tiene oríjen aquél, si no justificare con sus libros, documentos u otra clase de prueba, que no reportaba provecho alguno del siniestro.
+Se presume responsable de un incendio al comerciante en cuya casa o establecimiento tiene origen aquél, si no justificare con sus libros, documentos u otra clase de prueba, que no reportaba provecho alguno del siniestro.
 
 ### X. De los daños
 
 #### Artículo 484
 
-Son reos de daño i están sujetos a las penas de este párrafo, los que en la propiedad ajena causaren alguno que no se halle comprendido en el párrafo anterior.
+Son reos de daño y están sujetos a las penas de este párrafo, los que en la propiedad ajena causaren alguno que no se halle comprendido en el párrafo anterior.
 
 #### Artículo 485
 
-Serán castigados con la pena de reclusion menor en sus grados medio a máximo, los que causaren daño cuyo importe exceda de mil pesos:
+Serán castigados con la pena de reclusión menor en sus grados medio a máximo, los que causaren daño cuyo importe exceda de mil pesos:
 
-1.° Con la mira de impedir el libre ejercicio de la autoridad o en venganza de sus determinaciones, bien se cometiere el delito contra empleados públicos, bien contra particulares que, como testigos o de cualquiera otra manera, hayan contribuido o puedan contribuir a la ejecucion o aplicacion de las leyes;
+1.° Con la mira de impedir el libre ejercicio de la autoridad o en venganza de sus determinaciones, bien se cometiere el delito contra empleados públicos, bien contra particulares que, como testigos o de cualquiera otra manera, hayan contribuido o puedan contribuir a la ejecución o aplicación de las leyes;
 
-2.° Produciendo, por cualquier medio, infeccion o contajio en animales o aves domésticas;
+2.° Produciendo, por cualquier medio, infección o contagio en animales o aves domésticas;
 
 3.° Empleando sustancias venenosas o corrosivas;
 
@@ -3282,37 +3290,37 @@ Serán castigados con la pena de reclusion menor en sus grados medio a máximo, 
 
 #### Artículo 486
 
-El que, con alguna de las circunstancias espresadas en el artículo anterior, causare daño cuyo importe exceda de ciento y no pase de mil pesos, sufrirá la pena de reclusion menor en sus grados mínimo a medio.
+El que, con alguna de las circunstancias expresadas en el artículo anterior, causare daño cuyo importe exceda de ciento y no pase de mil pesos, sufrirá la pena de reclusión menor en sus grados mínimo a medio.
 
-Cuando dicho importe no excediere de cien pesos ni bajare de treinta, la pena será reclusion menor en su grado mínimo.
+Cuando dicho importe no excediere de cien pesos ni bajare de treinta, la pena será reclusión menor en su grado mínimo.
 
 #### Artículo 487
 
-Los daños no comprendidos en los artículos anteriores, serán penados con reclusion menor en su grado mínimo o multa de ciento a mil pesos.
+Los daños no comprendidos en los artículos anteriores, serán penados con reclusión menor en su grado mínimo o multa de ciento a mil pesos.
 
-Esta disposicion no es aplicable a los daños causados por el ganado i a los demas que deben calificarse de faltas, con arreglo a lo que se establece en el Libro tercero.
+Esta disposición no es aplicable a los daños causados por el ganado y a los demás que deben calificarse de faltas, con arreglo a lo que se establece en el Libro tercero.
 
 #### Artículo 488
 
-Las disposiciones del presente párrafo solo tendrán lugar cuando el hecho no pueda considerarse como otro delito que merezca mayor pena.
+Las disposiciones del presente párrafo sólo tendrán lugar cuando el hecho no pueda considerarse como otro delito que merezca mayor pena.
 
-### XI. Disposiciones jenerales
+### XI. Disposiciones generales
 
 #### Artículo 489
 
-Están exentos de responsabilidad criminal i sujetos únicamente a la civil por los hurtos, defraudaciones o daños que recíprocamente se causaren:
+Están exentos de responsabilidad criminal y sujetos únicamente a la civil por los hurtos, defraudaciones o daños que recíprocamente se causaren:
 
-1.º Los parientes consanguíneos lejítimos en toda la línea recta.
+1.º Los parientes consanguíneos legítimos en toda la línea recta.
 
-2.º Los parientes consanguíneos lejítimos hasta el segundo grado inclusive de la línea colateral.
+2.º Los parientes consanguíneos legítimos hasta el segundo grado inclusive de la línea colateral.
 
-3.° Los parientes afines lejítimos en toda la línea recta.
+3.° Los parientes afines legítimos en toda la línea recta.
 
-4.° Los padres i los hijos naturales.
+4.° Los padres y los hijos naturales.
 
-5.° Los cónyujes.
+5.° Los cónyuges.
 
-La escepcion de este artículo no es aplicable a los estraños que participaren del delito.
+La excepción de este artículo no es aplicable a los extraños que participaren del delito.
 
 ## Título Décimo
 
@@ -3320,21 +3328,27 @@ DE LOS CUASIDELITOS.
 
 #### Artículo 490
 
-El que por imprudencia temeraria ejecutare un hecho que, si mediara malicia, constituiría un crímen o un simple delito contra las personas, será penado:
+El que por imprudencia temeraria ejecutare un hecho que, si mediara malicia, constituiría un crimen o un simple delito contra las personas, será penado:
 
-1.º Con reclusion o relegacion menores en sus grados mínimos a medios, cuando el hecho importare crímen.
+1.º Con reclusión o relegación menores en sus grados mínimos a medios, cuando el hecho importare crimen.
 
-2.° Con reclusion o relegacion menores en sus grados mínimos o multa de ciento a mil pesos, cuando importare simple delito.
+2.° Con reclusión o relegación menores en sus grados mínimos o multa de ciento a mil pesos, cuando importare simple delito.
 
 #### Artículo 491
 
-El médico, cirujano, farmacéutico, flebotomiano o matrona que causare mal a las personas por neglijencia culpable en el desempeño de su profesion, incurrirá respectivamente en las penas del artículo anterior.
+El médico, cirujano, farmacéutico, flebotomiano o matrona que causare mal a las personas por negligencia culpable en el desempeño de su profesión, incurrirá respectivamente en las penas del artículo anterior.
 
 Iguales penas se aplicarán al dueño de animales feroces que, por descuido culpable de su parte, causaren daño a las personas.
 
 #### Artículo 492
 
-Las penas del art. 490 se impondrán tambien respectivamente al que, con infraccion de los reglamentos i por mera imprudencia o neglijencia, ejecutare un hecho o incurriere en una omision que, a mediar malicia, constituiría un crímen o un simple delito contra las personas.
+Las penas del art. 490 se impondrán también respectivamente al que, con infracción de los reglamentos y por mera imprudencia o negligencia, ejecutare un hecho o incurriere en una omisión que, a mediar malicia, constituiría un crimen o un simple delito contra las personas.
+
+En los accidentes ocasionados por vehículos de tracción mecánica o animal de que resultaren lesiones o muerte de un peatón, se presumirá, salvo prueba en contrario, la culpabilidad del conductor del vehículo, dentro del radio urbano de una ciudad, cuando el accidente hubiere ocurrido en el cruce de las calzadas o en la extensión de diez metros anterior a cada esquina; y, en todo caso, cuando el conductor del vehículo contravenga las ordenanzas municipales con respecto a la velocidad, o al lado de la calzada que debe tomar.
+
+Se entiende por cruce, el área comprendida por la intersección de dos calzadas.
+
+Se presumirá la culpabilidad del peatón, si el accidente se produjere en otro sitio de las calzadas.
 
 #### Artículo 493
 
@@ -3348,113 +3362,113 @@ DE LAS FALTAS.
 
 #### Artículo 494
 
-Sufrirán la pena de prision en sus grados medio a máximo o multa de diez a cien pesos:
+Sufrirán la pena de prisión en sus grados medio a máximo o multa de diez a cien pesos:
 
-1.° El que asistiendo a un espectáculo público provocare algun desórden o tomare parte en él.
+1.° El que asistiendo a un espectáculo público provocare algún desorden o tomare parte en él.
 
-2.° El que excitare o dirijiere cencerradas u otras reuniones tumultuosas en ofensa de alguna persona o del sosiego de las poblaciones.
+2.° El que excitare o dirigiere cencerradas u otras reuniones tumultuosas en ofensa de alguna persona o del sosiego de las poblaciones.
 
-3.° El que sin licencia de la autoridad competente cargare armas prohibidas por la lei o por los reglamentos jenerales.
+3.° El que sin licencia de la autoridad competente cargare armas prohibidas por la ley o por los reglamentos generales.
 
-4.° El que amenazare a otro con armas blancas o de fuego i el que riñendo con otro las sacare, como no sea con motivo justo.
+4.° El que amenazare a otro con armas blancas o de fuego y el que riñendo con otro las sacare, como no sea con motivo justo.
 
-5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas i circunstancias del hecho.
+5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho.
 
-6.° El que corriere carruajes o caballerías con peligro de las personas, haciéndolo en poblado, ya sea de noche o de dia cuando haya aglomeracion de jente.
+6.° El que corriere carruajes o caballerías con peligro de las personas, haciéndolo en poblado, ya sea de noche o de día cuando haya aglomeración de gente.
 
 7.° El farmacéutico que despachare medicamentos en virtud de receta que no se halle debidamente autorizada.
 
-8.° El que habitualmente i despues de apercibimiento ejerciere, sin título legal ni permiso de autoridad competente, las profesiones de médico, cirujano, farmacéutico o Dentista.
+8.° El que habitualmente y después de apercibimiento ejerciere, sin título legal ni permiso de autoridad competente, las profesiones de médico, cirujano, farmacéutico o Dentista.
 
 9.° El facultativo que, notando en una persona o en un cadáver señales de envenenamiento o de otro delito grave, no diere parte a la autoridad oportunamente.
 
-10.° El médico, cirujano, farmacéutico, Dentista o matrona que incurriere en descuido culpable en el desempeño de su profesion, sin causar daño a las personas.
+10.° El médico, cirujano, farmacéutico, Dentista o matrona que incurriere en descuido culpable en el desempeño de su profesión, sin causar daño a las personas.
 
-11.° Los mismos individuos espresados en el numero anterior, que no prestaren los servicios de su profesion durante el turno que les señale la autoridad administrativa.
+11.° Los mismos individuos expresados en el número anterior, que no prestaren los servicios de su profesión durante el turno que les señale la autoridad administrativa.
 
-12.° El médico, cirujano, farmacéutico, matrona o cualquiera otro que, llamado en clase de perito o testigo, se negare a practicar una operacion propia de su profesion u oficio o a prestar una declaracion requerida por la autoridad judicial, en los casos i en la forma que determine el Código de Procedimientos i sin perjuicio de los apremios legales.
+12.° El médico, cirujano, farmacéutico, matrona o cualquiera otro que, llamado en clase de perito o testigo, se negare a practicar una operación propia de su profesión u oficio o a prestar una declaración requerida por la autoridad judicial, en los casos y en la forma que determine el Código de Procedimientos y sin perjuicio de los apremios legales.
 
-13.° El que encontrando perdido o abandonado a un menor de siete años no lo entregare a su familia o no lo recojiere o depositare en lugar seguro, dando cuenta a la autoridad en los dos últimos casos.
+13.° El que encontrando perdido o abandonado a un menor de siete años no lo entregare a su familia o no lo recogiere o depositare en lugar seguro, dando cuenta a la autoridad en los dos últimos casos.
 
-14.° El que no socorriere o ausiliare a una persona que encontrare en despoblado herida, maltratada o en peligro de perecer, cuando pudiere hacerlo sin detrimento propio.
+14.° El que no socorriere o auxiliare a una persona que encontrare en despoblado herida, maltratada o en peligro de perecer, cuando pudiere hacerlo sin detrimento propio.
 
-15.° Los padres de familia o los que legalmente hagan sus veces que abandonen a sus hijos, no procurándoles la educacion que permiten i requieren su clase i facultades.
+15.° Los padres de familia o los que legalmente hagan sus veces que abandonen a sus hijos, no procurándoles la educación que permiten y requieren su clase y facultades.
 
-16.° El que sin estar lejítimamente autorizado impidiere a otro con violencia hacer lo que la lei no prohibe, o le compeliere a ejecutar lo que no quiera.
+16.° El que sin estar legítimamente autorizado impidiere a otro con violencia hacer lo que la ley no prohíbe, o le compeliere a ejecutar lo que no quiera.
 
-17.° El que quebrantare los reglamentos o disposiciones de la autoridad sobre la custodia, conservacion i trasporte de materias inflamables o corrosivas o productos químicos que puedan causar estragos.
+17.° El que quebrantare los reglamentos o disposiciones de la autoridad sobre la custodia, conservación y trasporte de materias inflamables o corrosivas o productos químicos que puedan causar estragos.
 
-18.° El dueño de animales feroces que en lugar accesible al público los dejare sueltos o en disposicion de causar mal.
+18.° El dueño de animales feroces que en lugar accesible al público los dejare sueltos o en disposición de causar mal.
 
-19.° El que ejecutare alguno de los hechos penados en los artículo 189, 446, inciso 1.° del 448, 467, 469 y 470, siempre que el delito se refiera a valores que no excedan de treinta pesos.
+19.° El que ejecutare alguno de los hechos penados en los artículos 189; 446; inciso 1° del 448; 467; 469 y 470, siempre que el delito se refiera a valores que no excedan de $ 30.
 
 20.° El que con violencia se apoderare de una cosa perteneciente a su deudor para hacerse pago con ella.
 
-21.° El que con violencia en las cosas entrare a cazar o pescar en lugar cerrado, o en lugar abierto contra espresa prohibicion intimada personalmente.
+21.° El que con violencia en las cosas entrare a cazar o pescar en lugar cerrado, o en lugar abierto contra expresa prohibición intimada personalmente.
 
 #### Artículo 495
 
-Serán castigados con prision en sus grados mínimo a medio conmutable en multa de uno a sesenta pesos:
+Serán castigados con prisión en sus grados mínimo a medio conmutable en multa de uno a sesenta pesos:
 
-1.° El que contraviniere a las reglas que la autoridad dictare para conservar el órden público o evitar que se altere, salvo que el hecho constituya crímen o simple delito.
+1.° El que contraviniere a las reglas que la autoridad dictare para conservar el orden público o evitar que se altere, salvo que el hecho constituya crimen o simple delito.
 
-2.° El que por quebrantar los reglamentos sobre espectáculos públicos ocasionare algun desórden.
+2.° El que por quebrantar los reglamentos sobre espectáculos públicos ocasionare algún desorden.
 
-3.° El subordinado del órden civil que faltare al respeto i sumision debidos a sus jefes o superiores.
+3.° El subordinado del orden civil que faltare al respeto y sumisión debidos a sus jefes o superiores.
 
-4.° El particular que cometiere igual falta respecto de cualquier funcionario revestido de autoridad pública, mientras ejerce sus funciones, i respecto de toda persona constituida en dignidad, aun cuando no sea en el ejercicio de sus funciones, siempre que fuere conocida o se anunciare como tal; sin perjuicio de imponer, tanto en este caso como en el anterior, la pena correspondiente al crímen o simple delito, si lo hubiere.
+4.° El particular que cometiere igual falta respecto de cualquier funcionario revestido de autoridad pública, mientras ejerce sus funciones, y respecto de toda persona constituida en dignidad, aun cuando no sea en el ejercicio de sus funciones, siempre que fuere conocida o se anunciare como tal; sin perjuicio de imponer, tanto en este caso como en el anterior, la pena correspondiente al crimen o simple delito, si lo hubiere.
 
 5.° El que públicamente ofendiere el pudor con acciones o dichos deshonestos.
 
-6.° El cónyuje que escandalizare con sus discensiones domésticas despues de haber sido amonestado por la autoridad.
+6.° El cónyuge que escandalizare con sus discensiones domésticas después de haber sido amonestado por la autoridad.
 
-7.° El que infrinjiere los reglamentos de policía en lo concerniente a mujeres públicas.
+7.° El que infringiere los reglamentos de policía en lo concerniente a mujeres públicas.
 
 8.° El que diere espectáculos públicos sin licencia de la autoridad, o traspasando la que se le hubiere concedido.
 
 9.° El que abriere establecimientos sin licencia de la autoridad, cuando sea necesaria.
 
-10.° El que en la esposicion de niños quebrantare los reglamentos.
+10.° El que en la exposición de niños quebrantare los reglamentos.
 
-11.° El que infrinjiere las reglas establecidas para la quema de bosques, rastrojos u otros productos de la tierra, o para evitar la propagacion de fuego en máquinas de vapor, caleras, hornos u otros lugares semejantes.
+11.° El que infringiere las reglas establecidas para la quema de bosques, rastrojos u otros productos de la tierra, o para evitar la propagación de fuego en máquinas de vapor, caleras, hornos u otros lugares semejantes.
 
-12.° El que infrinjiere los reglamentos sobre corta de bosques o arbolados.
+12.° El que infringiere los reglamentos sobre corta de bosques o arbolados.
 
-13.° El que infrinjiere las leyes o reglamentos sobre apertura, conservacion i reparacion de vias públicas.
+13.° El que infringiere las leyes o reglamentos sobre apertura, conservación y reparación de vías públicas.
 
 14.° El que en caminos públicos, calles, plazas, ferias u otros sitios semejantes de reunión estableciere rifas u otros juegos de envite o azar.
 
-15.° El que defraudare al público en la venta de mantenimientos, ya sea en calidad, ya en cantidad, por valor que no exceda de diez pesos, i el que vendiere bebidas o mantenimientos deteriorados o nocivos.
+15.° El que defraudare al público en la venta de mantenimientos, ya sea en calidad, ya en cantidad, por valor que no exceda de diez pesos, y el que vendiere bebidas o mantenimientos deteriorados o nocivos.
 
 16.° El traficante que tuviere medidas o pesos falsos, aunque con ellos no hubiere defraudado.
 
 17.° El que usare en su tráfico medidas o pesos no contrastados.
 
-18.° El dueño o encargado de fondas, cafés, confiterías u otros establecimientos destinados al despacho de comestibles o bebidas que faltare a los reglamentos de policía relativos a la conservacion o uso de vasijas o útiles destinados para el servicio.
+18.° El dueño o encargado de fondas, cafés, confiterías u otros establecimientos destinados al despacho de comestibles o bebidas que faltare a los reglamentos de policía relativos a la conservación o uso de vasijas o útiles destinados para el servicio.
 
 19.° El que faltando a las órdenes de la autoridad, descuidare reparar o demoler edificios ruinosos.
 
-20.° El que infrinjiere las reglas de seguridad concernientes a la apertura de pozos o escavaciones i al depósito de materiales o escombros, o a la colocacion de cualesquiera otros objetos en las calles, plazas, paseos públicos o en la parte esterior de los edificios que embaracen el tráfico o puedan causar daño a los transeuntes.
+20.° El que infringiere las reglas de seguridad concernientes a la apertura de pozos o excavaciones y al depósito de materiales o escombros, o a la colocación de cualesquiera otros objetos en las calles, plazas, paseos públicos o en la parte exterior de los edificios que embaracen el tráfico o puedan causar daño a los transeúntes.
 
-21.° El que intencionalmente o con negligencia culpable, causare daño que no exceda de treinta pesos en bienes públicos o de propiedad particular.
+21.° El que intencionalmente o con negligencia culpable causare daño que no exceda de $ 30 en bienes públicos o de propiedad particular.
 
-22.° El que, aprovechando aguas de otro o distrayéndolas de su curso, causare daño que no exceda de treinta pesos.
+22.°El que aprovechando aguas de otro o distrayéndolas de su curso, causare daño que no exceda de $ 30.
 
 #### Artículo 496
 
-Sufrirán la pena de prision en su grado mínimo conmutable en multa de uno a treinta pesos:
+Sufrirán la pena de prisión en su grado mínimo conmutable en multa de uno a treinta pesos:
 
 1.° El que faltare a la obediencia debida a la autoridad dejando de cumplir las órdenes particulares que ésta le diere, en todos aquellos casos en que la desobediencia no tenga señalada mayor pena por este Código o por leyes especiales.
 
-2.° El que pudiendo, sin grave detrimento propio, prestar a la autoridad el ausilio que reclamare en casos de incendio, inundacion, naufrajio u otra calamidad, se negare a ello.
+2.° El que pudiendo, sin grave detrimento propio, prestar a la autoridad el auxilio que reclamare en casos de incendio, inundación, naufragio u otra calamidad, se negare a ello.
 
-3.° El que teniendo obligacion de presentar un recien nacido al funcionario encargado del rejistro civil, no lo hiciere dentro del término legal.
+3.° El que teniendo obligación de presentar un recién nacido al funcionario encargado del registro civil, no lo hiciere dentro del término legal.
 
-4.° El que no diere los partes de defuncion, contraviniendo a la lei o reglamentos.
+4.° El que no diere los partes de defunción, contraviniendo a la ley o reglamentos.
 
-5.° El que ocultare su verdadero nombre i apellido a la autoridad o a persona que tenga derecho para exijir que los manifieste.
+5.° El que ocultare su verdadero nombre y apellido a la autoridad o a persona que tenga derecho para exigir que los manifieste o se negare a manifestarlos o diere domicilio falso.
 
-6.° El que infrinjiere las reglas de policía dirijidas a asegurar el abastecimiento de los pueblos.
+6.° El que infringiere las reglas de policía dirigidas a asegurar el abastecimiento de los pueblos.
 
 7.° El que con rondas u otros esparcimientos nocturnos altere el sosiego público, desobedeciendo a la autoridad.
 
@@ -3464,75 +3478,75 @@ Sufrirán la pena de prision en su grado mínimo conmutable en multa de uno a tr
 
 10.° El que riñere en público sin armas, salvo el caso de justa defensa propia o de un tercero.
 
-11.° El que injuriare a otro livianamente de obra o de palabra, no siendo por escrito i con publicidad.
+11.° El que injuriare a otro livianamente de obra o de palabra, no siendo por escrito y con publicidad.
 
-12.° El que dentro de las poblaciones i en contravencion a los reglamentos disparare armas de fuego, cohetes, petardos u otros proyectiles.
+12.° El que dentro de las poblaciones y en contravención a los reglamentos disparare armas de fuego, cohetes, petardos u otros proyectiles.
 
-13.° El que corriere carruajes o caballerías dentro de una poblacion, no siendo en los casos previstos por el núm. 6.° del art. 494.
+13.° El que corriere carruajes o caballerías dentro de una población, no siendo en los casos previstos por el núm. 6.° del art. 494.
 
-14.° El que infrinjiere los reglamentos relativos a carruajes públicos o de particulares.
+14.° El que infringiere los reglamentos relativos a carruajes públicos o de particulares.
 
-15.° El que infrinjiere las reglas de policía relativas a posadas, fondas, tabernas i otros establecimientos públicos.
+15.° El que infringiere las reglas de policía relativas a posadas, fondas, tabernas y otros establecimientos públicos.
 
 16.° El encargado de la guarda de un loco o demente que le dejare vagar por sitios públicos sin la debida seguridad.
 
-17.° El dueño de animales dañinos que los dejare sueltos o en disposicion de causar mal en las poblaciones.
+17.° El dueño de animales dañinos que los dejare sueltos o en disposición de causar mal en las poblaciones.
 
 18.° El que con su embriaguez molestare a tercero en público.
 
 19.° El que arrojare animales muertos en sitios vedados o quebrantando las reglas de policía.
 
-20.° El que infrinjiere las reglas de policía en la elaboracion de objetos fétidos o insalubres, o los arrojare a las calles, plazas o paseos públicos.
+20.° El que infringiere las reglas de policía en la elaboración de objetos fétidos o insalubres, o los arrojare a las calles, plazas o paseos públicos.
 
 21.° El que arrojare escombros u objetos punzantes o cortantes en lugares públicos, contraviniendo a las reglas de policía.
 
-22.° El que no entregare a la policía de aseo las basuras o desperdicios que hubiere en el interior de su habitacion.
+22.° El que no entregare a la policía de aseo las basuras o desperdicios que hubiere en el interior de su habitación.
 
-23.° El que echare en las acequias de las poblaciones objetos que, impidiendo el libre i fácil curso de las aguas, puedan ocasionar anegacion.
+23.° El que echare en las acequias de las poblaciones objetos que, impidiendo el libre y fácil curso de las aguas, puedan ocasionar anegación.
 
-24.° El que tuviere en balcones, ventanas, azoteas u otros puntos esteriores de sus casas tiestos u otros objetos, con infraccion de las reglas de policía.
+24.° El que tuviere en balcones, ventanas, azoteas u otros puntos exteriores de sus casas tiestos u otros objetos, con infracción de las reglas de policía.
 
 25.° El que arrojare a la calle por balcones, ventanas o por cualquiera otra parte agua u objetos que puedan causar daño.
 
-26.° El que tirare piedras u otros objetos arrojadizos en parajes públicos, con riesgo de los transeuntes, o lo hiciere a las casas o edificios, en perjuicio de los mismos o con peligro de las personas.
+26.° El que tirare piedras u otros objetos arrojadizos en parajes públicos, con riesgo de los transeúntes, o lo hiciere a las casas o edificios, en perjuicio de los mismos o con peligro de las personas.
 
-27.° El que infrinjiere los reglamentos en materia de juegos o diversiones dentro de las poblaciones.
+27.° El que infringiere los reglamentos en materia de juegos o diversiones dentro de las poblaciones.
 
 28.° El que entrare con carruajes, caballerías o animales dañinos en heredades plantadas o sembradas.
 
-29.° El que en contravencion a los reglamentos construyere chimeneas, estufas u hornos, o dejare de limpiarlos o cuidarlos.
+29.° El que en contravención a los reglamentos construyere chimeneas, estufas u hornos, o dejare de limpiarlos o cuidarlos.
 
 30.° El que, empleando el fuego, elevare globos sin permiso de la autoridad.
 
-31.° El que, habiendo recibido de buena fé moneda falsa o cercenada o títulos de crédito falsos, los circulare despues de constarle su falsedad o cercenamiento, siempre que su valor no exceda de diez pesos.
+31.° El que, habiendo recibido de buena fe moneda falsa o cercenada o títulos de crédito falsos, los circulare después de constarle su falsedad o cercenamiento, siempre que su valor no exceda de diez pesos.
 
 32.° El que con objeto de lucro interpretare sueños, hiciere pronósticos o adivinaciones, o abusare de la credulidad de otra manera semejante.
 
-33.° El que entrare en heredad ajena para cojer frutas i comerlas en el acto.
+33.° El que entrare en heredad ajena para coger frutas y comerlas en el acto.
 
 34.° El que entrare sin violencia a cazar o pescar en sitio vedado o cerrado.
 
 35.° El que se hiciere culpable de actos de crueldad o mal trato excesivo para con los animales.
 
-36.° El que infrinjiere los reglamentos de caza o pesca en el modo i tiempo de ejecutar una u otra o de vender sus productos.
+36.° El que infringiere los reglamentos de caza o pesca en el modo y tiempo de ejecutar una u otra o de vender sus productos.
 
-37.° Los empresarios del alumbrado público que faltaren a las reglas establecidas para su servicio, i los particulares que infrinjieren dichas reglas.
+37.° Los empresarios del alumbrado público que faltaren a las reglas establecidas para su servicio, y los particulares que infringieren dichas reglas.
 
-38.° El que indebidamente apagare el alumbrado público o del esterior de los edificios, o de los portales, teatros, u otros lugares de espectáculo o reunión, o el de las escaleras de los mismos.
+38.° El que indebidamente apagare el alumbrado público o del exterior de los edificios, o de los portales, teatros, u otros lugares de espectáculo o reunión, o el de las escaleras de los mismos.
 
 #### Artículo 497
 
-El dueño de ganados que entraren en heredad ajena cerrada i causaren daño, será castigado con multa, por cada cabeza de ganado:
+El dueño de ganados que entraren en heredad ajena cerrada y causaren daño, será castigado con multa, por cada cabeza de ganado:
 
-1.° De veinte i cinco centavos a un peso, si fuere vacuno.
+1.° De veinte y cinco centavos a un peso, si fuere vacuno.
 
 2.° De diez a cincuenta centavos, si fuere caballar, mular o asnal.
 
-3.° De cinco a veinte i cinco centavos, si fuere lanar o cabrío i la heredad tuviere arbolado.
+3.° De cinco a veinte y cinco centavos, si fuere lanar o cabrío y la heredad tuviere arbolado.
 
-4.° Del tanto del daño causado a un tercio mas, si fuere de otra especie no comprendida en los números anteriores.
+4.° Del tanto del daño causado a un tercio más, si fuere de otra especie no comprendida en los números anteriores.
 
-Esto mismo se observará si el ganado fuere lanar o cabrío i la heredad no tuviere arbolado.
+Esto mismo se observará si el ganado fuere lanar o cabrío y la heredad no tuviere arbolado.
 
 ## Título Segundo
 
@@ -3548,9 +3562,9 @@ Caerán en comiso:
 
 1.° Las armas que llevare el ofensor al hacer un daño o inferir injuria, si las hubiere mostrado.
 
-2.° Las bebidas i comestibles deteriorados i nocivos.
+2.° Las bebidas y comestibles deteriorados y nocivos.
 
-3.° Los efectos falsificados, adulterados o averiados que se espendieren como lejítimos o buenos.
+3.° Los efectos falsificados, adulterados o averiados que se expendieren como legítimos o buenos.
 
 4.º Los comestibles en que se defraudare al público en cantidad o calidad.
 
@@ -3562,21 +3576,21 @@ Caerán en comiso:
 
 #### Artículo 500
 
-El comiso de los instrumentos i efectos de las faltas, espresados en el artículo anterior, lo decretará el tribunal a su prudente arbitrio segun los casos i circunstancias.
+El comiso de los instrumentos y efectos de las faltas, expresados en el artículo anterior, lo decretará el tribunal a su prudente arbitrio según los casos y circunstancias.
 
 #### Artículo 501
 
-En las ordenanzas municipales i en los reglamentos jenerales o particulares que dictare en lo sucesivo la autoridad administrativa no se establecerán mayores penas que las señaladas en este libro, aun cuando hayan de imponerse en virtud de atribuciones gubernativas, a no ser que se determine otra cosa por leyes especiales.
+En las ordenanzas municipales y en los reglamentos generales o particulares que dictare en lo sucesivo la autoridad administrativa no se establecerán mayores penas que las señaladas en este libro, aun cuando hayan de imponerse en virtud de atribuciones gubernativas, a no ser que se determine otra cosa por leyes especiales.
 
 TÍTULO FINAL.
 
-DE LA OBSERVANCIA DE ESTE CODIGO.
+DE LA OBSERVANCIA DE ESTE CÓDIGO.
 
 #### Artículo FINAL
 
-El presente Código comenzará a rejir el primero de marzo de mil ochocientos setenta i cinco, i en esa fecha quedarán derogadas las leyes i demas disposiciones preexistentes sobre todas las materias que en él se tratan.
+El presente Código comenzará a regir el primero de marzo de mil ochocientos setenta y cinco, y en esa fecha quedarán derogadas las leyes y demás disposiciones preexistentes sobre todas las materias que en él se tratan.
 
-I por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto promúlguese i llévese a efecto en todas sus partes como lei de la República.
+Y por cuanto, oído el Consejo de Estado, he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto en todas sus partes como ley de la República.
 
 FEDERICO ERRÁZURIZ.
 
