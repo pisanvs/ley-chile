@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.016, de 30 de julio de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado El Sauce IV Región, individualizada en el artículo 1º Nº 5 del decreto exento Nº 639 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS MARISCADORES, ALGUEROS Y RAMOS SIMILARES DE CALETA EL SAUCE.
+
+Valparaíso, 30 de julio de 2004.- Edith Saa Collantes, Subsecretario de Pesca(S).
