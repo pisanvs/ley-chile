@@ -1,0 +1,3 @@
+Por resolución Nº308, de 5 de marzo de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la reconsideración solicitada por PESQUERA MARFISH LIMITADA, respecto de la resolución Nº1.676 de 1997, de esta Subsecretaría, que negó lugar a la iniciación de actividades pesqueras con la nave "Doña Elsa", en la captura de recursos pelágicos en el litoral de la X Región, por encontrarse suspendida en dicha área la recepción de solicitudes y el otorgamiento de autorizaciones, por D.S. Nº548 de 1997, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
