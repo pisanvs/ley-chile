@@ -1,0 +1,3 @@
+Por decreto MOP Nº 682 de fecha 30 de junio del 2003, se expropió el lote de terreno Nº 7-B, superficie 28.350,00 m2, Rol Nº 152-96, comuna de Cochamó, X Región para la obra "Camino Puelo Paso El Bolsón, sector Lago Taguatagua - Llanada Grande, Km. 0,346 al 12,530 y se acordó el valor de indemnización con su propietario Federico Augusto Heriberto Suther, ascendente a la cantidad de $5.321.176.
+
+- Fiscal del Ministerio de Obras Públicas.
