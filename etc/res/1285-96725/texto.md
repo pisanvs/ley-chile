@@ -1,0 +1,3 @@
+Por Resolución No. 1.285 de 26 de Octubre de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 30 días a contar de la fecha de la presente Resolución, el plazo otorgado a don MARZZARELLO BUSTOS BARRALES, R.U.T. No. 9.314.712-K, domiciliado en calle Duarte No. 13, ciudad de Lota, en el numeral 4° de la Resolución No. 1682, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de fuerza mayor.
+
+Valparaíso, 26 de Octubre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
