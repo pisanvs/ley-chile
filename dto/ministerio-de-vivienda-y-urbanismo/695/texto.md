@@ -4,8 +4,6 @@ NUM. 695.- Santiago, 8 de noviembre de 1971.- Vistos: lo dispuesto en el artícu
 
 Decreto:
 
-> **Nota.** La Resolución 306, Economía, publicada el 29 de octubre de 1976, dispuso la delegación, en el Jefe del Departamento de Arriendos, en los Directores Regionales, en los Jefes Regionales y en los Jefes Provinciales, de las facultades que por el presente decreto se confieren al Director Nacional de la Dirección de Industria y Comercio.
-
 1° Fíjase como nuevo texto del Reglamento sobre Comunidades de Copropietarios de Edificios, que fue aprobado por el decreto supremo 748, de Vivienda y Urbanismo, de 27 de octubre de 1969, publicado en el Diario Oficial de 25 de septiembre de 1970, el siguiente:
 
 "REGLAMENTOS SOBRE COMUNIDADES DE COPROPIETARIOS DE EDIFICIOS"
