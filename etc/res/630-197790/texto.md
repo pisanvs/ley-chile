@@ -1,0 +1,3 @@
+Por resolución Nº630, de 26 de marzo de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Papudo, V Región, individualizada en el artículo 1º Nº10 del DS Nº652 de 1997, modificado por el artículo 4º del DS Nº164 de 1999, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES CALETA DE PAPUDO.
+
+Valparaíso, 26 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
