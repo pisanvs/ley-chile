@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.008, de 28 de junio de 2002, se dejó sin efecto el decreto MOP Nº166 de 30 de noviembre de 2000, que ordenó la expropiación del lote 50-3, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Variante Casma Kms. 967,760 al 969,680, por no ser necesario para la ejecución de ésta. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
