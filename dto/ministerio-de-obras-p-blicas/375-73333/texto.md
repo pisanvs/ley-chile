@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 375, de 21 de abril de 1997, se expropiaron los lotes de terreno Nºs. 1 y 3, superficies 105.758 m2. y 1.370 m2, roles de avalúos 191-21 y 191-25, comuna de Arauco, obra Camino Arauco Llico, sector Curaquilla-Llico y se acordó precio de indemnización con sus propietarios Rodolfo Gaete Jenicek y otra y Rodolfo Gaete Jenicek, ascendente a las cantidades de $13.449.187 y $392.326.
+
+Fiscal del Ministerio de Obras Públicas.
