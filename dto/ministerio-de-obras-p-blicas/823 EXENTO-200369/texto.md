@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº823 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº63-A, superficie 4.761,09 m2, Rol Nº214-291, comuna de Teodoro Schmidt, IX Región para la obra ''Camino S-60 sector: Teodoro Schmidt - Hualpín, Km. 43,94000 al Km. 59,10294, tramo II Km. 53,075 al Km. 58,093'', y se acordó el valor de indemnización con su propietario Marcelina Ranquimán Curín, ascendente a la cantidad de $2.049.382.-
+
+Fiscal del Ministerio de Obras Públicas.
