@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 309, de 31 de marzo de 1997, se expropió el lote de terreno Nº 7, superficie 98 m2., Rol de avalúo 30-22, comuna de Buin, obra Proyecto Estudio de Ingeniería Mejoramiento Ruta 5, sector Pasada por Buin, Camino Ruta 5 Sur, Rol R-5 y se acordó precio de indemnización con su propietaria Inmobiliaria Flora S.A., ascendente a la cantidad de $2.609.859.-
+
+Fiscal del Ministerio de Obras Públicas.
