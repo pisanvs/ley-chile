@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE "FCMI ADMINISTRADORA DE FONDOS DE INVERSION S.A."
+
+Certifico que por resolución N° 184, de 31 de Julio de 1996, esta Superintendencia de Valores y Seguros aprobó una reforma de estatutos de la sociedad "FCMI Administradora de Fondos de Inversión S.A.", acordada en junta extraordinaria de accionistas celebrada el 18 de abril de 1996 y reducida a escritura pública el 9 de mayo del mismo año en la Notaría de Santiago de don Iván Torrealba Acevedo.
+
+Reforma consiste en: 1) Aumentar capital social de $345.437.040 dividido en 265.100 acciones sin valor nominal, totalmente suscritas y pagadas, a la suma de $477.677.040 dividido en 360.100 acciones sin valor nominal, mediante la emisión de 95.000 acciones de pago que deberán ser suscritas y pagadas dentro del plazo de 3 años contados desde la fecha de la citada junta. 2) Modificar el objeto social incluyendo dentro de él la administración de Fondos de Inversión de Capital Extranjero de Riesgo en los términos dispuestos en la Ley N° 18.657 y en la Ley N° 18.815 y su Reglamento y demás normas que se establezcan en el futuro sobre el particular. Con motivo de dichas modificaciones se reformó el texto de los artículos 4° y 5° permanente y 1° transitorio de los estatutos sociales.
+
+Santiago, 31 de julio de 1996.- Rodrigo O. Costa Aranda, Secretario General.
