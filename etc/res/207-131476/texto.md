@@ -1,0 +1,3 @@
+Por resolución Nº 207, de 29 de enero de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 800 de 1996, de esta Subsecretaría, en cuanto autorizó a PESQUERA CORONEL S.A., para operar la nave ''Marnin'', sobre los recursos anchoveta y sardina española en el litoral de la III y IV Regiones.
+
+Valparaíso, 29 de enero de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
