@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 254, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 2, 38 y 48, superficies 3.933 m2., 198 m2, y 6.278 m2., roles de avalúo 213-84, 219-114 y 220-28, comuna de Santa Juana, para la obra Camino de la Madera, sector Bifurcación Diuquín - Santa Juana, y se acordó el valor de indemnización con sus propietarios María Neira Neira y otro; Manuel Cuevas Hidalgo, y Gricelda Carrasco Jofré, ascendente a las cantidades de $724.900.-; $797.489.-, y $2.812.074.-
+
+Fiscal del Ministerio de Obras Públicas.
