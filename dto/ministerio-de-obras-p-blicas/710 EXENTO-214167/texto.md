@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 710 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 43-A, superficie 382,00 m², rol Nº 225-17, comuna de Olmué, V Región para la obra "Ruta F-10-G, Cuesta la Dormida, Etapa 2, Km. 10,98400 al 34,50000, y se acordó el valor de indemnización con su propietaria Celinda Inés Zamora Negrete, ascendente a la cantidad de $1.749.908.
+
+Fiscal del Ministerio de Obras Públicas.
