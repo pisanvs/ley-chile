@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.306 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº23 superficie 1.808 m2 rol de avalúo Nº26-34, comuna de San Javier, para la obra ''Camino Mejoramiento Ruta 126, Los Conquistadores, sector 2 Carrizal-Puente Belco, tramo Km. 17,34000 a Km. 23,51000'', VII Región y se acordó el valor de la indemnización con su propietario Juan Galdames Salgado, ascendente a la cantidad de $1.166.040.-
+
+Fiscal del Ministerio de Obras Públicas.
