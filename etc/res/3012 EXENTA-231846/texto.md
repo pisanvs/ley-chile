@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.012, de 21 de octubre de 2004, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 200091023 presentada por MIGUEL REINALDO HENRIQUEZ ESPARZA, para instalar y operar una piscicultura en un terreno privado localizado en Fundo Las Mercedes, Km. 7 del Camino Villarrica a Licanray, IX Región.
+
+Valparaíso, 21 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
