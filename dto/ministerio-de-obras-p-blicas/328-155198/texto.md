@@ -1,0 +1,7 @@
+Por Decreto M.O.P. N° 328, de 31 de octubre de 1985, en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fija el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terrenos N°s. 1,2 y 3, para Agua Potable de Lonquimay, recinto captación, que figuran a nombre de doña Mirsiades Espinoza Díaz, rol de avalúo 49-8, superficies 4.690 m2., 8.400 m2. y 966 m2.
+
+respectivamente, Comuna de Lonquimay. Deslindes: Lote 1: Norte: En 670 mts, con terrenos del mismo propietario; Sur: En 670 mts. con terrenos del mismo propietario; Este: En 7 mts. con lote N° 2; Oeste: En 7 mts. con camino a Sierra Nevada; Lote 2: Norte: En 46,6 y 18 mts. con terrenos del mismo propietario y lote 3; Sur; En 80 mts. con terrenos del mismo propietario; Este: En 116 mts. con terrenos del mismo propietario; Oeste: En 120 mts. con terrenos del mismo propietario; Lote 3: Norte: En 6 mts. con camino público; Sur: En 6 mts. con lote N° 2; Este: En 160 mts. con terrenos del mismo propietario; Oeste: En 162 mts. con terrenos del mismo propietario. La Comisión de Peritos compuesta por los señores Mario Molina Ramwell, Mario Gutiérrez Truán y Alejandro Burucker Valenzuela, fijó con fecha 21 de marzo de 1983, el valor provisional de las indemnizaciones en las cantidades de $ 18.760; $42.000 y $ 3.864, respectivamente. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(1°)
