@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 703, de 29 de mayo de 1998, se expropiaron los lotes de terreno Nº s. 3 y 6, superficies 565 y 807 m2, rol de avalúo 1601-266, comuna de Santo Domingo, obra Camino Reposición Ruta 66, Sector Límite Regional San Antonio, y se acordó precio de indemnización con su propietario Ladislao Errázuriz Talavera, ascendente a la cantidad de $ 2.757.764.- lotes 3 y 6.-
+
+Fiscal del Ministerio de Obras Públicas.
