@@ -1,0 +1,7 @@
+DENIEGA AUTORIZACIONES QUE INDICA. CADUCA RESOLUCION QUE SEÑALA.
+
+Por resolución No. 1.214, de 9 de Octubre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la autorización solicitada por don Gabriel del Tránsito Beltrán Prado, R.U.T. No.
+
+5.305.833-7 domiciliado en La Chile, dirección postal Correo de Maullín, para prorrogar el plazo de publicación del extracto de la Resolución No. 2.053, de 1989, de esta Subsecretaría, por no haberse configurado a su respecto la causal establecida en el artículo 7°, del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción. Deniégase asimismo, la autorización solicitada por el peticionario para que se dicte en su favor una Resolución en los mismos términos que la No. 2.053, de 1989, atendido que sobre dicho sector fue autorizada por resolución No. 644 de 1990, de esta Subsecretaría, doña María Liliana Muñoz Mansilla. Declárase la caducidad de la Resolución No. 2053 ,de 1989, de esta Subsecretaría conforme a lo dispuesto en el artículo 6° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 9 de Octubre de 1990.- Andrés Couve Rioseco. Subsecretario de Pesca.
