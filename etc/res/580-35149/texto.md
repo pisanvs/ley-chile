@@ -1,0 +1,3 @@
+Por Resolución N° 580, de 14 de Junio de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía Fomento y Reconstrucción, autorízase a PESQUERA ALBA S.A., R.U.T. N° 78.211.020-9, para continuar desarrollando las actividades pesqueras autorizadas por Resolución N° 1382, de 1992, de esta Subsecretaría, a Pesquera Alba Limitada, de mismos R.U.T. y domicilio, en virtud de la Escritura Pública de fecha 28 de julio de 1992, otorgada ante el Notario Público de Santiago, don Francisco Camus Riquelme, que modificó y transformó la sociedad "Pesquera Alba Limitada" en "Pesquera Alba S.A."
+
+Valparaíso, 14 de Junio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
