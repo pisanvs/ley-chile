@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.729, de 30 de junio de 2004, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA PORTALES VALPARAISO S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida España s/n, Caleta Diego Portales, Valparaíso, V Región, donde podrá procesar, en las líneas de elaboración de Congelado, Fresco-Enfriado, Fresco-Refrigerado, Ahumado, Seco Salado, Cocido, Deshidratado y Seco-Salado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
