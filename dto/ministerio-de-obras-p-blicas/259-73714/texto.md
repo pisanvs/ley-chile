@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 259 de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 17-B, 25, 26, 30, 35 y 36-A, superficies 349, 2.474, 2.762, 10.106, 701 y 893, roles de avalúo S/R, 602-138, 602-139, 602-32, 603-38 y 602-39, comuna de San Ignacio, para la obra Proyecto Laja Diguillín, Canal Matriz, Sector Bulnes y se acordó precio de indemnización con sus propietarios Hernán Henríquez Jiménez, Segundo Leocadio Salazar Jiménez y otros, José Reginio Uribe Vásquez, Susana Filomena Contreras Villablanca, Miguel Antonio Veloso Figueroa y Florencio Aquiles Valdebenito Sánchez, ascendente a las cantidades de $245.162, $1.093.531, $1.208.946, $3.399.953, $210.995, $343.514, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
