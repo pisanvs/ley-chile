@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.414 de fecha 28 de septiembre del 2001, se expropió el lote de terreno Nº 41, superficie 1.432,00 m2., rol de avalúo 537-248, comuna de Río Bueno, para la obra ''Camino Río Bueno-Crucero, Rol T-90-U y T-933, km. 0.000 al 20.900 (II Parte)'', y se acordó el valor de indemnización con su propietario Olga Adolfina Daniel Obando, ascendente a la cantidad de $1.010.237.
+
+- Fiscal del Ministerio de Obras Públicas.
