@@ -1,0 +1,5 @@
+Por resolución Nº2.242, de 29 de octubre de 1999, de esta Subsecretaría, autorízase a PESCA SURIBERICA S.A., para continuar operando el permiso extraordinario de pesca, para la unidad de pesquería del recurso Bacalao de profundidad, fijada por el artículo 1º del D.S. Nº328, de 1992, del Ministerio de Economía, Fomento y Reconstrucción, otorgado a Pesquera Omega Limitada, por resolución Nº58 de 1997, de esta Subsecretaría. Este permiso extraordinario de pesca tendrá vigencia para las temporadas de pesca de la especie Bacalao de profundidad que se fijen para 1999 al 2005 y otorga el derecho a capturar anualmente el 1,08% de la cuota global anual de captura disponibles para dichos permisos que rija para cada año.
+
+Déjase sin efecto la resolución Nº58 de 1997, de esta Subsecretaría, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 29 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
