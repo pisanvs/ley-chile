@@ -1,0 +1,3 @@
+Por decreto MOP Nº 433 de fecha 31 de mayo de 2004, se expropió el lote de terreno Nº 3, superficie 1.325 m2, Rol Nº 412-003, comuna de Buin, Región Metropolitana, para la obra "Construcción Puente Valdivia de Paine, sector accesos al Puente Valdivia de Paine" y se acordó el valor de indemnización con su propietario Héctor Eliseo Quintanilla Jorquera, ascendente a la cantidad de $4.544.428.
+
+Fiscal del Ministerio de Obras Públicas.
