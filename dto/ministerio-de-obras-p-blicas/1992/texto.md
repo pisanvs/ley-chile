@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.992, de 30 de julio de 1999, se expropiaron los lotes 5 y 7, superficies 742 y 39 m² respectivamente, roles de avalúo 153-29 y 153-168, comuna de Nancagua, para la obra Camino Ruta I-50, Sector Nancagua-Santa Cruz y se acordó precio de indemnización con sus propietarios Agrícola Ana Luisa de Cunaco Limitada y Manuel Valdés Valdés, ascendente a las cantidades de $7.205.175 y $1.943.073.-
+
+Fiscal del Ministerio de Obras Públicas.
