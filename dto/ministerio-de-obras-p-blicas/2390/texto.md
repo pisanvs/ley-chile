@@ -1,0 +1,5 @@
+Por decreto MOP No. 2.390, de 17 de noviembre de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No. s.
+
+1, 2, 3 y 4, para la obra Camino Ruta 5 Sur, sector Ancud-Bif Quemchi Kms. 0.000 al 36,91 que figuran a nombre de Ema E. Muñoz Bustamante y Enrique Francisco Varnet Seitz, roles de avalúos 1120-13 y 1191-93, comuna de Ancud, superficies 402; 466; 1.111 y 1.404 m2., respectivamente. La comisión de peritos compuesta por los señores Carlos Eugenio Mera Santibáñez, Jaime Sanz Bahamonde y Leopoldo Ramón Schumacher Guarda, fijó con fecha 28 de septiembre de 1997, el valor provisional de las indemnizaciones en las cantidades de $ 201.000, lote 1; $ 233.000, lote 2; $ 555.500, lote 3 y $ 702.000, lote 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
