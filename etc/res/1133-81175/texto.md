@@ -1,0 +1,3 @@
+Por resolución Nº1.133, de 3 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 1 año a contar de la fecha de la presente resolución, el plazo concedido a don ARNALDO MELLADO CONTRERAS, R.U.T. Nº4.210.068-4, domiciliado en Talcahuano, Casa Nº13, Cerro Verde, en el numeral 5º de la resolución Nº189, de 1990, por haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 3 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
