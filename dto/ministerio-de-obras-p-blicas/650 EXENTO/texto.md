@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 650, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 72-B, superficie 6.142,25 M2, rol de avalúo 2023-75, comuna de Melipilla, Región Metropolitana, para la obra ''Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Km. 0,00000 al 14,23039'' y se acordó el valor de indemnización con su propietario don Leonel Enrique Lacerna Guzmán, ascendente a la cantidad de $1.090.410.-
+
+Fiscal del Ministerio de Obras Públicas.
