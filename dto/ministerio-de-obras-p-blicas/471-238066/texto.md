@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 471, de 28 de junio dé 1996, se expropió el lote de terreno Nº 4 superficie 98 m2, rol de avalúo 9317-98, comuna de Valparaíso, para la obra Habilitación Nuevo Camino La Pólvora, Etapa I, sector Ruta 68-Acceso Sur a Valparaíso; sector Placilla-Puertas Negras, y se acordó precio de indemnización con su propietaria Fresia de las Mercedes Acevedo Ahumada, ascendente a la cantidad de $356.730.
+
+Fiscal del Ministerio de Obras Públicas.
