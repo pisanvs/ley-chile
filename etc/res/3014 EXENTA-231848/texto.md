@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.014, de 21 de octubre de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202111124 presentada por SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Plaza, lado oeste de Península Videau, XI Región.
+
+Valparaíso, 21 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
