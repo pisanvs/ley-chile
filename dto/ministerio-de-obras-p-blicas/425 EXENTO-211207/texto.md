@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº425 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº22, superficie 71 m2, Rol Nº208-92, comuna de Cabildo, V Región para la obra "Cabildo-Putaendo, Ruta E-41, Sector La Vega Guayacán, Km. 12,46900 al Km. 22,40000" y se acordó el valor de indemnización con su propietaria Elba Rosa Ramírez Lazcano, ascendente a la cantidad de $314.685.
+
+Fiscal del Ministerio de Obras Públicas.
