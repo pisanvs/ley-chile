@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.480, de 6 de diciembre de 2004, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 3.382, de 2004, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Control y monitoreo de la pesquería de Merluza del sur (Merluccius australis) en aguas interiores de la XII Región", en el sentido de incrementar en 35,926 toneladas la cuota autorizada para el mes de diciembre.
+
+Valparaíso, 6 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
