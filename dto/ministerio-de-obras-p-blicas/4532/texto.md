@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.532, de fecha 29 de septiembre de 2000, se expropió el lote de terreno Nº 10, superficie 699 m², rol de avalúo 5026-150, comuna de Punta Arenas, para la obra ''Actualización Proyecto Canal de Trasvase Estero Llau-Llau a Estero Bitsch de Punta Arenas Fase II Tramo Kms. 0,012 al 1,384'', y se acordó el valor de indemnización con su propietaria Margarita Alfredina Vargas Strahl y otros, ascendente a la cantidad de $2.151.941.-
+
+Fiscal del Ministerio de Obras Públicas.
