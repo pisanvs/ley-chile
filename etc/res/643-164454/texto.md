@@ -1,0 +1,3 @@
+Por resolución Nº 643, de 30 de marzo de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.243, de 1996, de esta Subsecretaría, que autorizó a PESQUERA BIO BIO S.A., para operar la nave ''Oceanic II'' sobre los recursos Anchoveta y Sardina española en el litoral de la III y IV Regiones, de conformidad con el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 30 de marzo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
