@@ -1,0 +1,3 @@
+Por decreto MOP Nº238, de 31 de enero del 2000, se expropió el lote de terreno Nº36-A, superficie 2.514 m2., rol de avalúo 3070-24, comuna de Ovalle, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos-La Serena, Sector B, Hornillos-La Herradura, Cuarta Región y se acordó el valor de indemnización con su propietaria Alba Luisa Galleguillos, ascendente a la cantidad de $2.183.315.
+
+- Fiscal del Ministerio de Obras Públicas.
