@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Decreto Secc. 2da. N° 469, 13/09/1996, Alcalde Municipalidad Santiago dispone expropiación parcial, conforme art. 85 Decreto 458 Ministerio Vivienda y Urbanismo inmueble San Francisco 1890-1898 y General Gana 793 Rol N° 3707-102, comuna Santiago, dominio aparente María Inés Muñoz Gutiérrez, Propiedad está afecta en dos sectores: a) San Francisco 1890-1898, superficie aproximada 67 metros cuadrados. Deslindes: Norte, 5 mts. con otro propietario; Sur, 5 metros calle General Gana; Oriente, 13,40 mts. resto propiedad y Poniente, 13,40 mts. calle San Francisco. b) General Gana 793. Superficie 24 mts. cuadrados. Deslindes: Norte, 9,60 mts. resto propiedad; Sur, 9,60 mts. General Gana; Oriente, 2,50 mts. otros propietarios; Poniente, 2,50 mts. resto propiedad. Indemnización $14.550.000.- pagadera contado.-
+
+Jaime Ravinet de la Fuente, Alcalde Santiago.
