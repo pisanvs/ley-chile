@@ -1,0 +1,3 @@
+Por resolución N° 598, de 10 de Agosto de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por 90 días a contar del 12 de agosto de 1993, el plazo otorgado al INSTITUTO DE FOMENTO PESQUERO, R.U.T. N° 61.310.000-8, domiciliado en José Domingo Cañas N° 2277, Santiago, por resolución N° 138, y modificado por la resolución N° 281, ambas de 1993, de esta Subsecretaría, en virtud de haberse dado cumplimiento a lo dispuesto en el numeral 5° de la resolución N° 138, precitada.
+
+Valparaíso, 10 de Agosto de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
