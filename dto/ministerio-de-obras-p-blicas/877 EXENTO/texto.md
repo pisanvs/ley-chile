@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 877 de fecha 31 de mayo del 2001, se expropiaron los lotes de terreno Nºs. 44, 45, 46, 47, 48, 49, superficie 8.811,0, 3.153,0, 3.343,0, 185,0, 245,0, 3.558,0 m2., respectivamente, Rol de Avalúo Nº 74-1, comuna de Galvarino, para la obra ''Camino Ruta S-16, Sector Galvarino - Chol Chol, Tramo Km. 0,00000 al Km. 24,30269'' correspondiente al sub tramo II Km. 8,339 al Km. 15,574" y se acordó el valor de indemnización con su propietario Sociedad Agropecuaria Santa Alicia Limitada, ascendente a la cantidad de $4.975.353.-
+
+Fiscal del Ministerio de Obras Públicas.
