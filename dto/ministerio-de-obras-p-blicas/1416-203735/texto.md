@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.416, de 22 de agosto de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº82-2 para la obra: ''RED VIAL LITORAL CENTRAL. SECTOR 1: NUEVO CAMINO COSTERO ACCESO A EL TABO. KM. 1.400,00 AL KM.
+
+3.822,00'', Quinta Región, que figura inscrito a FS. 1234 N° 1162; año 1989; Reg. Propiedades del C.B.R. de San Antonio a nombre de EMPRESA DE OBRAS SANITARIAS DE VALPARAISO S.A., rol de avalúo 680-765, comuna de El Tabo, superficie 341 m2. La comisión de peritos integrada por los señores María Isabel Ríos Marcuello, Claudia Paola Arellano Gómez y María Elena García Monteverde, fijó con fecha 21 de junio de 2002, el valor provisional de la indemnización en la cantidad de $4.610.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
