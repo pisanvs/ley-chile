@@ -1,0 +1,1 @@
+Fija sueldos al personal de Carabineros de Chile, gratificación, jubilación, reincorporación; pensión de retiro personal ex Policías Fiscales.
