@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 64 de fecha 25 de Enero de 1988, modificó resolución exenta Nº 2.738 del 21 de Diciembre de 1987 publicada en el Diario oficial de fecha 02 de Enero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden a Sector Excluido y a Sector Expropiado predio "Hijuela Dos de la División del Fundo La Estancilla", de la Comuna de Llay - Llay, V Región y Derechos de Aprovechamiento de Aguas que corresponden a los sitios 11 al 21 del Proyecto de Parcelación "La Estancilla" formado por predio señalado. Los derechos de aguas se extraen por el Canal Comunero, derivado de la Segunda Sección del Río Aconcagua. Publicación hecha conforme Art. 13 Ley 18.377.-
+
+Director Ejecutivo.
