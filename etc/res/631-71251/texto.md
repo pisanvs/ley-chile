@@ -1,0 +1,3 @@
+Por Resolución Nº 631, de 2 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 4º de la Resolución Nº 296, de 1997, de esta Subsecretaría, que otorgó a SALMONES UNIMARC S.A., una autorización de acuicultura, en orden a sustituir la expresión "miles" por "millones".
+
+Valparaíso, 2 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
