@@ -1,0 +1,1 @@
+Modifica el inciso final del artículo 5.° de la ley 9.995, de 17 de octubre de 1951, que autorizó a la Municipalidad de Buin para contratar un empréstito hasta por la cantidad de $ 5.000.000.
