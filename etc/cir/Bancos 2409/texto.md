@@ -3802,9 +3802,11 @@ De conformidad con las disposiciones contenidas en el Capítulo III.A.1 del Comp
 
 Para el cumplimiento de la exigencia señalada, las instituciones financieras deberán atenerse a los siguientes criterios generales;
 
-El encaje de que trata el presente Capítulo, sera calculado por períodos que corresponderán a un mes calendario completo, sobre la base de los saldos promedios que registren en el respectivo período mensual, las distintas cuentas, tanto de pasivo como de activo, que se consideran para determinar la posición de encaje.
+### 1. Períodos de encaje
 
-Los promedios señalados precedentemente, se determinarán considerando sólo los saldos vigentes en los días hábiles bancarios del respectivo mes.
+El encaje de que trata el presente Capítulo será calculado por "períodos mensuales", que corresponderán al lapso comprendido entre el día 9 de un mes y el día 8 del mes siguiente, sobre la base de los saldos promedios que registren en el respectivo "período mensual" las distintas cuentas, tanto de activo como de pasivo, que se consideran para determinar la posición de encaje."
+
+Los promedios señalados precedentemente, se determinarán considerando sólo los saldos vigentes en los días hábiles bancarios del respectivo "período mensual".
 
 ### 2. Equivalencia en moneda chilena de los saldos en monedas extranjeras
 
@@ -3916,7 +3918,7 @@ Los importes deducibles de que tratan los numerales precedentes podrán detraers
 
 4.1. Encaje exigido.
 
-El encaje exigido se calculará por períodos mensuales y su cumplimiento se hará en relación con el promedio de depósitos, captaciones y obligaciones, previa deducción de los importes que correspondan, según lo dispuesto en el N° 3 precedente.
+El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo, y su cumplimiento se hará en relación con el promedio de depósitos, captaciones y obligaciones, previa deducción de los importes que correspondan, según lo dispuesto en el N° 3 precedente.
 
 4.2 .Encaje mantenido.
 
@@ -3933,6 +3935,12 @@ Del mismo modo, el monto depositado en el Banco Central de Chile, especialmente 
 Los depósitos en el Banco Central de Chile sólo podrán efectuarse en dinero efectivo o en cheques girados contra las cuentas corrientes que se mantengan en el Banco Central de Chile. El valor de estos cheques se excluirá del canje y será cargado en la cuenta corriente del girador el mismo día en que se efectúe el depósito.
 
 En el caso que una institución financiera le solicite a otra el giro de cheques sobre el Banco Central de Chile, no se considerarán fondos disponibles los que provengan de depósitos en cuenta corriente efectuados con vales vista u otros documentos de otras empresas bancarias o sociedades financieras, aun cuando sean de la misma plaza. Por lo tanto, cuando esta situación se presente, la institución financiera requerida no estará obligada a entregar el cheque sobre el Banco Central de Chile hasta tanto no haya recibido efectivamente el pago de tales documentos.
+
+### 5. Pago de intereses por encaje
+
+El Banco Central de Chile pagará intereses sobre el encaje exigido por los depósitos a plazo en moneda chilena, en las condiciones y plazos dispuestos en el Capitulo III.A.2 del Compendio de Normas Financieras del Instituto Emisor.
+
+Los bancos y sociedades financieras abonarán los intereses devengados por el concepto anteriormente indicado en la cuenta "Intereses ganados sobre encaje exigido", de la partida 7200 del MB1.
 
 III.- ENCAJE SOBRE DEPOSITOS, CAPTACIONES Y OTRAS OBLIGACIONES EN MONEDAS EXTRANJERAS.
 
