@@ -1,0 +1,1 @@
+Autoriza al Club Hípico de Santiago y al Hipódromo Chile para que celebren en el curso de los años 1959 y 1960, una reunión hípica extraordinaria a beneficio de las instituciones que señala.
