@@ -126,7 +126,7 @@ Para los fines del presente Código y demás leyes tributarias, salvo que de sus
 
 Para todos los efectos tributarios, los sueldos vitales mensuales o anuales, o sus porcentajes se expresarán en pesos, despreciándose las cifras inferiores a cincuenta centavos, y elevando las iguales o mayores a esta cifra al entero superior.
 
-10°.- Por "unidad tributaria", la cantidad de dinero cuyo monto, determinado por ley y permanentemente actualizado, sirve como medida o como punto de referencia tributario; y por "unidad tributaria anual", aquélla vigente en el último mes del año comercial respectivo, multiplicada por doce o por el número de meses que comprenda el citado año comercial. Para los efectos de la aplicación de las sanciones expresadas en unidades tributarias, se entenderá por "unidad tributaria anual" aquella que resulte de multiplicar por doce la unidad tributaria mensual vigente al momento de cometerse la infracción.
+10°.- Por "unidad tributaria", la cantidad de dinero cuyo monto, determinado por ley y permanentemente actualizado, sirve como medida o como punto de referencia tributario; y por "unidad tributaria anual", aquélla vigente en el último mes del año comercial respectivo, multiplicada por doce o por el número de meses que comprenda el citado año comercial. Para los efectos de la aplicación de las sanciones expresadas en unidades tributarias, se entenderá por "unidad tributaria anual" aquella que resulte de multiplicar por doce la unidad tributaria mensual vigente al momento de aplicarse la sanción.
 
 La unidad tributaria mensual o anual se expresará siempre en pesos, despreciándose las cifras inferiores a cincuenta centavos, y elevándose las iguales o mayores a esta suma al entero superior.
 
@@ -170,21 +170,29 @@ Toda notificación que el Servicio deba practicar se hará personalmente, por c�
 
 La carta certificada mencionada en el inciso precedente podrá ser entregada por el funcionario de correos que corresponda, en el domicilio del notificado, a cualquiera persona adulta que se encuentre en él, debiendo ésta firmar el recibo respectivo.
 
+No obstante, si existe domicilio postal, la carta certificada deberá ser remitida a la casilla o apartado postal o a la oficina de correos que el contribuyente haya fijado como tal. En este caso, el funcionario de correos deberá entregar la carta al interesado o a la persona a la cual éste haya conferido poder para retirar su correspondencia, debiendo estas personas firmar el recibo correspondiente.
+
+Si el funcionario de correos no encontrare en el domicilio al notificado o a otra persona adulta o éstos se negaren a recibir la carta certificada o a firmar el recibo, o no retiraren la remitida en la forma señalada en el inciso anterior dentro del plazo de 15 días, contados desde su envío, se dejará constancia de este hecho en la carta, bajo la firma del funcionario y la del Jefe de la Oficina de Correos que corresponda y se devolverá al Servicio, aumentándose o renovándose por este hecho los plazos del artículo 200 en tres meses, contados desde la recepción de la carta devuelta.
+
 En las notificaciones por carta certificada, los plazos empezarán a correr tres días después de su envío.
 
-Las resoluciones que modifiquen los avalúos de bienes raíces podrán ser notificadas mediante el envío de un aviso postal simple dirigido a la propiedad afectada. Estos avisos podrán ser confeccionados por medios mecánicos y carecer de timbres y firmas.
+Las resoluciones que modifiquen los avalúos y/o contribuciones de bienes raíces podrán ser notificadas mediante el envío de un aviso postal simple dirigido a la propiedad afectada o al domicilio que para estos efectos el propietario haya registrado en el Servicio y, a falta de éste, al domicilio del propietario que figure registrado en el Servicio. Estos avisos podrán ser confeccionados por medios mecánicos y carecer de timbres y firmas.
 
 #### Artículo 12
 
 En los casos en que una notificación deba hacerse por cédula, ésta deberá contener copia íntegra de la resolución o actuación de que se trata, con los datos necesarios para su acertada inteligencia. Será entregada por el funcionario del Servicio que corresponda, en el domicilio del notificado, a cualquiera persona adulta que se encuentre en él, y si no hubiere persona adulta que la reciba, se dejará la cédula en ese domicilio.
 
-La notificación personal se hará en la misma forma, entregando personalmente al notificado copia íntegra de la resolución o del documento que debe ser puesto en su conocimiento.
+La notificación personal se hará entregando personalmente al notificado copia íntegra de la resolución o del documento que debe ser puesto en su conocimiento, en cualquier lugar donde éste se encuentre o fuere habido.
 
 La notificación se hará constar por escrito por el funcionario encargado de la diligencia, con indicación del día, hora y lugar en que se haya practicado, y de la persona a quien se hubiere entregado la cédula, copia o documento correspondiente, o de la circunstancia de no haber encontrado a persona adulta que la recibiere. En este último caso, se enviará aviso al notificado el mismo día, mediante carta certificada, pero la omisión o extravío de dicha carta no anulará la notificación.
 
 #### Artículo 13
 
-Para los efectos de las notificaciones, se tendrá por domicilio el que indique el interesado en la presentación o actuación de que se trate o el que conste en la última declaración del impuesto respectivo.
+Para los efectos de las notificaciones, se tendrá como domicilio el que indique el contribuyente en su declaración de iniciación de actividades o el que indique el interesado en su presentación o actuación de que se trate o el que conste en la última declaración de impuesto respectiva.
+
+El contribuyente podrá fijar también un domicilio postal para ser notificado por carta certificada, señalando la casilla o apartado postal u oficina de correos donde debe remitírsele la carta certificada.
+
+A falta de los domicilios señalados en los incisos anteriores, las notificaciones por cédula o por carta certificada podrán practicarse en la habitación del contribuyente o de su representante o en los lugares en que éstos ejerzan su actividad.
 
 #### Artículo 14
 
@@ -290,6 +298,8 @@ A petición del contribuyente podrán también girarse los impuestos con anterio
 
 En los casos de impuestos de recargo, retención o traslación, que no hayan sido declarados oportunamente, el Servicio podrá girar de inmediato y sin otro trámite previo, los impuestos correspondientes sobre las sumas contabilizadas, como también por las cantidades que hubieren sido devueltas o imputadas y en relación con las cuales se haya interpuesto acción penal por delito tributario. En el caso de quiebra del contribuyente, el Servicio podrá, asimismo, girar de inmediato y sin otro trámite previo, todos los impuestos adeudados por el fallido, sin perjuicio de la verificación que deberá efectuar el Fisco en conformidad con las normas generales.
 
+Las sumas que un contribuyente deba legalmente reintegrar, correspondientes a cantidades respecto de las cuales haya obtenido devolución o imputación, serán consideradas como impuestos sujetos a retención para los efectos de su determinación, reajustes, intereses y sanciones que procedan, y para la aplicación de lo dispuesto en la primera parte del inciso anterior.
+
 #### Artículo 25
 
 Toda liquidación de impuestos practicada por el Servicio tendrá el carácter de provisional mientras no se cumplan los plazos de prescripción, salvo en aquellos puntos o materias comprendidos expresa y determinadamente en una revisión sobre la cual se haya pronunciado el Director Regional, sea con ocasión de un reclamo, o a petición del contribuyente tratándose de términos de giro. En tales casos, la liquidación se estimará como definitiva para todos los efectos legales, sin perjuicio del derecho de reclamación del contribuyente, si procediera.
@@ -322,6 +332,18 @@ La presentación de declaraciones con el objeto de determinar la procedencia o l
 
 Las declaraciones se presentarán por escrito, bajo juramento, en las oficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exigencias que ésta determine. Asimismo, podrán ser remitidas por carta certificada a dichas oficinas.
 
+La Dirección podrá autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos.
+
+El Director podrá convenir con la Tesorería General de la República y con entidades privadas la recepción de las declaraciones, incluidas aquellas con pago simultáneo. Estas declaraciones deberán ser remitidas al Servicio de Impuestos Internos. Este procederá a entregar las informaciones procedentes que el Servicio de Tesorerías requiera para el cumplimiento de sus atribuciones legales, como también las que procedan legalmente respecto de otras instituciones, organismos y tribunales.
+
+Asimismo, en uso de sus facultades, podrá encomendar el procesamiento de las declaraciones a entidades privadas, previo convenio.
+
+Las personas que, a cualquier título, reciban o procesen las declaraciones quedan sujetas a obligación de reserva absoluta de todos aquellos antecedentes individuales de que conozcan en virtud del trabajo que realizan. La infracción a esta obligación será sancionada con reclusión menor en su grado medio y multa de 5 a 100 UTM.
+
+Asimismo, el Director podrá disponer de acuerdo con el Tesorero General de la República, que el pago de determinados impuestos se efectúe simultáneamente, con la presentación de la declaración, omitiéndose el giro de órdenes de ingreso. Con todo, el pago deberá hacerse sólo en la Tesorería General de la República o en las entidades en que ésta delegue la función recaudadora.
+
+La impresión en papel que efectúe el Servicio de los informes o declaraciones presentadas en los referidos medios, tendrá el valor probatorio de un instrumento privado emanado de la persona bajo cuya firma electrónica se presente.
+
 #### Artículo 31
 
 El Director Regional podrá ampliar el plazo para la presentación de las declaraciones siempre que a su juicio exclusivo existan razones fundadas para ello, y dejará constancia escrita de la prórroga y de su fundamento. Las prórrogas no serán concedidas por más de cuatro meses, salvo que el contribuyente se encuentre en el extranjero y las declaraciones se refieran al impuesto a la renta.
@@ -348,7 +370,7 @@ El Director y demás funcionarios del Servicio no podrán divulgar, en forma alg
 
 El precepto anterior no obsta al examen de las declaraciones por los jueces o al otorgamiento de la información que éstos soliciten sobre datos contenidos en ellas, cuando dicho examen o información sea necesario para la prosecución de los juicios sobre impuesto, sobre alimentos y en procesos por delitos comunes, ni a la publicación de datos estadísticos en forma que no puedan identificarse los informes, declaraciones o partidas respecto de cada contribuyente en particular.
 
-No obstante, lo dispuesto en los incisos anteriores, en cada una de las Unidades del Servicio que determine el Director se mantendrá a disposición del público una lista en que aparezcan, por orden alfabético, los nombres de todos los contribuyentes afectos a impuestos de acuerdo con las declaraciones anuales que deban presentar. En estas listas se indicará, además, la renta imponible de los impuestos de categoría, global complementario y adicional, como asimismo el impuesto anual que por los referidos tributos le ha correspondido a cada contribuyente. Podrá indicarse también en estas listas el monto de las rentas exentas del impuesto global complementario; pero, si así no se hiciere, la información respectiva se proporcionará a cualquiera persona que lo solicite.
+Para los efectos de lo dispuesto en este artículo y para el debido resguardo del eficaz cumplimiento de los procedimientos y recursos que contempla este Código, sólo el Servicio podrá revisar o examinar las declaraciones que presenten los contribuyentes, sin perjuicio de las atribuciones de los Tribunales de Justicia.
 
 #### Artículo 36
 
@@ -372,17 +394,17 @@ De los giros y pagos
 
 Los impuestos deberán ser girados por el Servicio mediante roles u órdenes de ingreso, salvo los que deban pagarse por medio de timbres, estampillas o papel sellado. El Director dictará las normas administrativas que estime más convenientes para el correcto y expedito giro de los impuestos. Si estas normas alteraren el método de trabajo de las tesorerías o impusieren a éstas una nueva obligación, deberán ser aprobadas por el Ministro de Hacienda.
 
-El Presidente de la República por decreto expedido a través del Ministerio de Hacienda podrá disponer que se omita el giro de órdenes de ingreso por el Servicio, respecto de determinados impuestos. En tales casos, la declaración que proceda deberá formularse directamente en las Tesorerías en que corresponda efectuar el pago de los tributos, adjuntando los antecedentes necesarios para su determinación, y simultáneamente con éste.
+Facúltase al Servicio de Impuestos Internos para aproximar a diez centavos la determinación y/o giro de los impuestos, reajustes, derechos, intereses, multas y recargos, despreciándose las fracciones inferiores a cinco centavos y elevándose a diez centavos las iguales o mayores a dicha cantidad.
 
-Facúltase al Servicio de Impuestos Internos para aproximar a cien escudos la determinación y/o giro de los impuestos, reajustes, derechos, intereses, multas y recargos, despreciándose las fracciones inferiores a cincuenta escudos y elevándose a cien escudos las iguales o mayores a dicha cantidad.
-
-Asimismo, facúltase al Servicio para omitir el giro de órdenes de ingreso y/o roles de cobro por sumas inferiores a un 10% de una unidad tributaria mensual, en total. En estos casos se podrá proceder a la acumulación hasta por un semestre calendario de los giros inferiores al porcentaje señalado, respecto de un mismo tipo de impuesto, considerándose para los efectos de la aplicación de intereses, multas y recargos, como impuestos correspondientes al último período que se reclame y/o gire.
+Asimismo, facúltase al Servicio para omitir el giro de órdenes de ingresos y/o roles de cobro por sumas inferiores a un 10% de una unidad tributaria mensual, en total. En estos casos se podrá proceder a la acumulación hasta por un semestre calendario de los giros inferiores al porcentaje señalado, respecto de un mismo tipo de impuesto, considerándose para los efectos de la aplicación de intereses, multas y recargos, como impuestos correspondientes al último período que se reclame y/o gire.
 
 Del mismo modo y con los mismos efectos señalados en el inciso anterior, en los casos en que rija el sistema de declaración y pago simultáneo, los contribuyentes podrán acumular hasta por un semestre calendario los impuestos cuyo monto sea inferior a un 10% de una unidad tributaria mensual, respecto del total de impuestos que deban pagarse simultáneamente en una misma oportunidad.
 
-#### Artículo 38°
+#### Artículo 38
 
 El pago de los impuestos se hará en Tesorería, por medio de dinero efectivo, vale vista, letra bancaria o cheque; el pago se acreditará con el correspondiente recibo, a menos que se trate de impuestos que deban solucionarse por medio de estampillas, papel sellado u otras especies valoradas.
+
+El Tesorero General de la República podrá autorizar el pago de los impuestos mediante tarjetas de débito, tarjetas de crédito u otros medios, siempre que no signifique un costo financiero adicional para el Fisco. Para estos efectos, el Tesorero deberá impartir las instrucciones administrativas necesarias que, a su vez, resguarden el interés fiscal.
 
 #### Artículo 39°
 
@@ -414,7 +436,7 @@ La Dirección Regional estará obligada a comunicar con un mes de anticipación,
 
 En la misma época señalada en el artículo 43, el Servicio remitirá a los contribuyentes un aviso que contenga el nombre del propietario, la ubicación o nombre del bien raíz, el número del rol que corresponda, y el monto del avalúo imponible y del impuesto.
 
-Estos avisos se remitirán a la dirección correspondiente al inmueble que motiva el impuesto.
+Estos avisos se remitirán a la dirección correspondiente al inmueble que motiva el impuesto o al domicilio que para estos efectos el propietario haya registrado en el Servicio y, a falta de éste, al domicilio del propietario que figure registrado en el Servicio.
 
 #### Artículo 45
 
@@ -426,7 +448,7 @@ La falta de publicación de los avisos indicados en los artículos anteriores o 
 
 #### Artículo 47
 
-El Ministro de Hacienda podrá facultar al Banco del Estado de Chile, a los bancos comerciales y a otras instituciones, para recibir de los contribuyentes el pago de cualquier impuesto, contribución o gravamen en general, con sus correspondientes recargos legales, aun cuando se efectúe fuera de los plazos legales de vencimiento. Los pagos deberán comprender la totalidad de las cantidades incluidas en los respectivos boletines, giros, órdenes o declaraciones de impuesto presentadas por los contribuyentes. Si el impuesto debe legalmente enterarse por cuotas, el pago abarcará la totalidad de la cuota correspondiente.
+El Tesorero General de la República podrá facultar al Banco del Estado de Chile, a los bancos comerciales y a otras instituciones, para recibir de los contribuyentes el pago de cualquier impuesto, contribución o gravamen en general, con sus correspondientes recargos legales, aun cuando se efectúe fuera de los plazos legales de vencimiento. Los pagos deberán comprender la totalidad de las cantidades incluidas en los respectivos boletines, giros y órdenes. Si el impuesto debe legalmente enterarse por cuotas, el pago abarcará la totalidad de la cuota correspondiente.
 
 #### Artículo 48
 
@@ -436,7 +458,7 @@ Los recargos legales por concepto de reajustes, intereses y multas serán determ
 
 No obstante, los contribuyentes podrán determinar dichos recargos para el efecto de enterarlos en arcas fiscales conjuntamente con el impuesto. El pago efectuado en esta forma cuando no extinga totalmente la obligación será considerado como un abono a la deuda, aplicándose lo establecido en el artículo 50.
 
-Las diferencias que por concepto de impuestos y recargos se determinen entre lo pagado y lo efectivamente adeudado, se pondrán en conocimiento del contribuyente mediante un giro especial que podrá ser emitido por Tesorerías. No regirá respecto de estos giros especiales la limitación contemplada en el inciso cuarto del artículo 37. Las fechas indicadas para el pago de dichos giros no constituirán en caso alguno un nuevo plazo o prórroga del etablecido para el pago de las deudas respectivas, ni suspenderán los procedimientos de apremio iniciados o los que corresponda iniciar.
+Para los efectos de lo dispuesto en los incisos anteriores, las diferencias que por concepto de impuestos y recargos se determinen entre lo pagado y lo efectivamente adeudado, se pondrán en conocimiento del contribuyente mediante un giro especial que también podrá ser emitido por Tesorerías. No regirá respecto de estos giros especiales la limitación contemplada en el inciso tercero del artículo 37. Las fechas indicadas para el pago de dichos giros no constituirán en caso alguno un nuevo plazo o prórroga del establecido para el pago de las deudas respectivas, ni suspenderán los procedimientos de apremio iniciados o los que corresponda iniciar.
 
 El Tesorero Regional o Provincial, en su caso, podrá de oficio o a petición del contribuyente, enmendar administrativamente cualquier error manifiesto de cálculo en que pudiera haberse incurrido en la emisión del giro especial referido en el inciso anterior.
 
@@ -576,9 +598,9 @@ El Servicio podrá tasar la base imponible, con los antecedentes que tenga en su
 
 Asimismo, el Servicio podrá proceder a la tasación de la base imponible de los impuestos, en los casos del inciso 2° del artículo 21 y del artículo 22.
 
-Cuando el precio o valor asignado al objeto de la enajenación de una especie mueble sirva de base o sea uno de los elementos para determinar un impuesto, el Servicio, sin necesidad de citación previa, podrá tasar dicho precio o valor en los casos en que éste sea notoriamente inferior a los corrientes en plaza, considerando las circunstancias en que se realiza la operación.
+Cuando el precio o valor asignado al objeto de la enajenación de una especie mueble, corporal o incorporal, o al servicio prestado, sirva de base o sea uno de los elementos para determinar un impuesto, el Servicio, sin necesidad de citación previa, podrá tasar dicho precio o valor en los casos en que éste sea notoriamente inferior a los corrientes en plaza o de los que normalmente se cobren en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación.
 
-En igual forma, en todos aquellos casos en que proceda aplicar impuestos cuya determinación se basa en el precio o valor de bienes raíces, el Servicio de Impuestos Internos podrá tasar dicho precio o valor, si el fijado en el respectivo acto o contrato fuere notoriamente inferior al valor comercial de los inmuebles de características y ubicación similares, en la localidad respectiva, y girar de inmediato y sin otro trámite previo el impuesto correspondiente. De la tasación y giro sólo podrá reclamarse simultáneamente dentro del plazo de 30 días contado desde la fecha de la notificación de este último.
+En igual forma, en todos aquellos casos en que proceda aplicar impuestos cuya determinación se basa en el precio o valor de bienes raíces, el Servicio de Impuestos Internos podrá tasar dicho precio o valor, si el fijado en el respectivo acto o contrato fuere notoriamente inferior al valor comercial de los inmuebles de características y ubicación similares, en la localidad respectiva, y girar de inmediato y sin otro trámite previo el impuesto correspondiente. De la tasación y giro sólo podrá reclamarse simultáneamente dentro del plazo de 60 días contado desde la fecha de la notificación de este último.
 
 La reclamación que se deduzca se sujetará al procedimiento general establecido en el Título II del Libro III de este Código.
 
@@ -604,11 +626,13 @@ Lo dispuesto en el inciso anterior es sin perjuicio de las inscripciones obligat
 
 #### Artículo 68
 
-Las personas que inicien negocios o labores susceptibles de producir rentas gravadas en la primera y segunda categorías a que se refieren los números 3°, 4° y 5° de los artículos 20 y 42 N° 2° de la Ley sobre Impuesto a la Renta, deberán presentar al Servicio, dentro de los dos meses siguientes a aquél en que comiencen sus actividades, una declaración jurada sobre dicha iniciación.
+Las personas que inicien negocios o labores susceptibles de producir rentas gravadas en la primera y segunda categorías a que se refieren los números 1º, letras a) y b), 3°, 4° y 5° de los artículos 20, 42 N° 2° y 48 de la Ley sobre Impuesto a la Renta, deberán presentar al Servicio, dentro de los dos meses siguientes a aquél en que comiencen sus actividades, una declaración jurada sobre dicha iniciación. El Director podrá, mediante normas de carácter general, eximir de presentar esta declaración a contribuyentes o grupos de contribuyentes de escasos recursos económicos o que no tengan la preparación necesaria para confeccionarla, o bien, para sustituir esta exigencia por otros procedimientos que constituyan un trámite simplificado. Los contribuyentes favorecidos con esta facultad podrán acogerse a la exención o al régimen simplificado dentro de los noventa días siguientes a la publicación de la resolución respectiva, aun cuando no hayan cumplido oportunamente con la obligación establecida en este artículo, no siéndoles aplicable sanción alguna en ese caso. Sin embargo, el contribuyente beneficiado con esta eximición o sustitución podrá, optativamente, efectuar la declaración común de iniciación de actividades a que se refiere la primera parte de este inciso.
+
+Para los efectos de este artículo, se entenderá que se inician actividades cuando se efectúe cualquier acto u operación que constituya elemento necesario para la determinación de los impuestos periódicos que afecten a la actividad que se desarrollará, o que generen los referidos impuestos.
 
 La declaración inicial se hará en un formulario único proporcionado por el Servicio, que contendrá todas las enunciaciones requeridas para el enrolamiento del contribuyente en cada uno de los registros en que deba inscribirse. Mediante esta declaración inicial, el contribuyente cumplirá con todas las obligaciones de inscripción que le correspondan, sin necesidad de otros trámites. Para estos efectos, el Servicio procederá a inscribir al contribuyente inicial en todos los registros que procedan.
 
-Las sociedades deberán poner en conocimiento de la oficina del Servicio que corresponda, toda modificación de su contrato social, dentro de los dos meses siguientes a la fecha en que ella se efectúe.
+Los contribuyentes deberán poner en conocimiento de la Oficina del Servicio que corresponda las modificaciones importantes de los datos y antecedentes contenidos en el formulario a que se refiere el inciso anterior.
 
 #### Artículo 69
 
@@ -860,9 +884,9 @@ Si, como medio para cometer los delitos previstos en los incisos anteriores, se 
 
 5°.- La omisión maliciosa de declaraciones exigidas por las leyes tributarias para la determinación o liquidación de un impuesto, en que incurran el contribuyente o su representante, y los gerentes y administradores de personas jurídicas o los socios que tengan el uso de la razón social, con multa del cincuenta por ciento al trescientos por ciento del impuesto que se trata de eludir y con presidio menor en sus grados medio a máximo.
 
-6°.- La no exhibición de libros de contabilidad o de libros auxiliares y otros documentos exigidos por la Dirección Regional de acuerdo con las disposiciones legales, la oposición al examen de los mismos o a la inspección de establecimientos de comercio, agrícolas, industriales o minerales, o el acto de entrabar en cualquier forma la fiscalización ejercida en conformidad a la ley, con multa de una unidad tributaria mensual a una unidad tributaria anual.
+6°.- La no exhibición de libros de contabilidad o de libros auxiliares y otros documentos exigidos por el Director o el Director Regional de acuerdo con las disposiciones legales, la oposición al examen de los mismos o a la inspección de establecimientos de comercio, agrícolas, industriales o minerales, o el acto de entrabar en cualquier forma la fiscalización ejercida en conformidad a la ley, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
-7°.- El hecho de no llevar la contabilidad o los libros auxiliares exigidos por la Dirección Regional de acuerdo con las disposiciones legales, o de mantenerlos atrasados, o de llevarlos en forma distinta a la ordenada o autorizada por la ley, y siempre que no se dé cumplimiento a las obligaciones respectivas dentro del plazo que señale el Servicio, que no podrá ser inferior a diez días, con multa de una unidad tributaria mensual a una unidad tributaria anual.
+7°.- El hecho de no llevar la contabilidad o los libros auxiliares exigidos por el Director o el Director Regional de acuerdo con las disposiciones legales, o de mantenerlos atrasados, o de llevarlos en forma distinta a la ordenada o autorizada por la ley, y siempre que no se dé cumplimiento a las obligaciones respectivas dentro del plazo que señale el Servicio, que no podrá ser inferior a diez días, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
 8°.- El comercio ejercido a sabiendas sobre mercaderías, valores o especies de cualquiera naturaleza sin que se hayan cumplido las exigencias legales relativas a la declaración y pago de los impuestos que graven su producción o comercio, con multa del cincuenta por ciento al trescientos por ciento de los impuestos eludidos y con presidio o relegación menores en su grado medio. La reincidencia será sancionada con pena de presidio o relegación menores en su grado máximo.
 
@@ -872,7 +896,7 @@ Si, como medio para cometer los delitos previstos en los incisos anteriores, se 
 
 En el caso de las infracciones señaladas en el inciso primero, éstas deberán ser, además, sancionadas con clausura de hasta 20 días de la oficina, estudio, establecimiento o sucursal en que hubiere cometido la infracción.
 
-La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menor en su grado máximo. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a tres años.
+La reiteración de las infracciones señaladas en el inciso primero se sancionar� además con presidio o relegación menor en su grado máximo. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a tres años.
 
 Para los efectos de aplicar la clausura, el Servicio podrá requerir el auxilio de la fuerza pública, la que será concedida sin ningún trámite previo por el Cuerpo de Carabineros, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario. En todo caso, se pondrán sellos oficiales y carteles en los establecimientos clausurados.
 
@@ -894,19 +918,23 @@ La misma sanción se aplicará al que impidiere en forma ilegítima el cumplimie
 
 15°.- El incumplimiento de cualquiera de las obligaciones establecidas en los artículos 34° y 60° inciso penúltimo, con una multa del veinte por ciento al cien por ciento de una unidad tributaria anual.
 
-16°.- La pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, con multa del 1% al 30% del capital efectivo, con un mínimo de 2 unidades tributarias mensuales y un máximo de 40 unidades tributarias anuales, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional y, además el contribuyente cumpla con los siguientes requisitos:
+16°.- La pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, con multa de hasta el 20% del capital efectivo con un tope de 30 unidades tributarias anuales, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional.
 
-a) Dar aviso al Servicio dentro de los 5 días siguientes, y
+Los contribuyentes deberán en todos los casos de pérdida o inutilización:
+
+a) Dar aviso al Servicio dentro de los 10 días siguientes, y
 
 b) Reconstituir la contabilidad dentro del plazo y conforme a las normas que fije el Servicio, plazo que no podrá ser inferior a treinta días.
 
-Sin embargo, no se considerará fortuita, salvo prueba en contrario, la pérdida o inutilización de los libros de contabilidad o documentos mencionados en el inciso primero, cuando se dé aviso de este hecho o se detecte con posterioridad a una citación, notificación o cualquier otro requerimiento del Servicio que diga relación con dichos libros y documentación.
+El incumplimiento de lo dispuesto en el inciso anterior se sancionará con una multa de hasta diez unidades tributarias mensuales.
 
-En todo caso, la pérdida o inutilización de los libros de contabilidad suspenderá la prescripción establecida en el artículo 200°, hasta la fecha en que los libros legalmente reconstituidos queden a disposición del Servicio.
+Sin embargo no se considerará fortuita, salvo prueba en contrario, la pérdida o inutilización de los libros de contabilidad o documentos mencionados en el inciso primero, cuando se dé aviso de este hecho o se detecte con posterioridad a una citación, notificación o cualquier otro requerimiento del Servicio que diga relación con dichos libros y documentación.
 
-Para los efectos previstos en el inciso primero de este número se entenderá por capital efectivo el definido en el artículo 2°, N° 5 de la Ley de Impuesto a la Renta.
+En todo caso, la pérdida o inutilización de los libros de contabilidad suspenderá la prescripción establecida en el artículo 200, hasta la fecha en que los libros legalmente reconstituidos queden a disposición del Servicio.
 
-En aquellos casos en que, debido a la imposibilidad de determinar el capital efectivo, no sea posible aplicar la sanción señalada en el inciso primero, se sancionará dicha pérdida o inutilización con una multa de hasta 40 unidades tributarias anuales.
+Para los efectos previstos en el inciso primero de este número se entenderá por capital efectivo el definido en el artículo 2º, Nº 5, de la Ley de Impuesto a la Renta.
+
+En aquellos casos en que, debido a la imposibilidad de determinar el capital efectivo, no sea posible aplicar la sanción señalada en el inciso primero, se sancionará dicha pérdida o inutilización con una multa de hasta 30 unidades tributarias anuales.
 
 17°.- La movilización o traslado de bienes corporales muebles realizado en vehículos destinados al transporte de carga sin la correspondiente guía de despacho o factura, otorgadas en la forma exigida por las leyes, será sancionado con una multa del 10% al 200% de una unidad tributaria anual.
 
@@ -1102,7 +1130,7 @@ El Tribunal Especial de Alzada encargado de conocer de los reclamos de avalúos 
 
 El Tribunal Especial de Alzada que deba conocer de los reclamos de avalúos de los bienes de la Segunda Serie estará compuesto por un Ministro de la Corte de Apelaciones correspondiente, quien lo presidirá, con voto dirimente; dos representantes del Presidente de la República y por un arquitecto que resida en la ciudad asiento de Corte de Apelaciones en que ejerza su función el Tribunal designado por el Presidente de la República de una terna que le propondrá el Intendente Regional, previa consulta de éste al Consejo Regional de Desarrollo respectivo.
 
-Salvo el caso del Ministro de Corte que presidirá cada Tribunal, los nombramientos de los demás miembros de ellos deberán recaer en personas que estén en posesión del título de Ingeniero Agrónomo o Técnico Agrícola, tratándose del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Primera Serie, o del Título de Ingeniero Civil, Arquitecto o Constructor Civil, en el caso del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Segunda Serie.
+Salvo el caso del Ministro de Corte que presidirá cada Tribunal, los nombramientos de los demás miembros de ellos deberán recaer en personas que estén en posesión del título de Ingeniero Agrónomo, Técnico Agrícola o de alguna profesión universitaria relacionada con la agricultura, cuyo título haya sido otorgado por una Universidad o por un Instituto Profesional, tratándose del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Primera Serie, o del Título de Ingeniero Civil, Arquitecto o Constructor Civil, en el caso del Tribunal de Alzada que conozca de las reclamaciones de avalúos de bienes de la Segunda Serie.
 
 En ambos Tribunales actuará de Secretario el funcionario que designe el Director, para cada uno de ellos.
 
@@ -1146,17 +1174,19 @@ Si no se cumpliere con los requisitos antes enumerados, el Director Regional dic
 
 No constituirán reclamo las peticiones de devolución de impuestos cuyo fundamento sea:
 
-1°.- Corregir errores propios del contribuyente.
+1° Corregir errores propios del contribuyente.
 
-2°.- Obtener la restitución de sumas pagadas doblemente en exceso o indebidamente a título de impuestos, reajustes, intereses y multas.
+2° Obtener la restitución de sumas pagadas doblemente, en exceso o indebidamente a título de impuestos, reajustes, intereses y multas.
 
-Con todo, en los casos de pagos provenientes de una liquidación o giro, de los cuales se haya reclamado oportunamente, sólo procederá devolver las cantidades que se determinen en el fallo respectivo. Si no se hubiere reclamado no se procederá devolución alguna, salvo que el pago se hubiere originado por un error manifiesto de la liquidación o giro.
+Con todo, en los casos de pagos provenientes de una liquidación o giro, de los cuales se haya reclamado oportunamente, sólo procederá devolver las cantidades que se determinen en el fallo respectivo. Si no se hubiere reclamado no procederá devolución alguna, salvo que el pago se hubiere originado por un error manifiesto de la liquidación o giro.
 
-3°.- La restitución de tributos que ordenen leyes de fomento o que establecen franquicias tributarias.
+3° La restitución de tributos que ordenen leyes de fomento o que establecen franquicias tributarias.
 
-Las peticiones a que se refieren los números precedentes deberán presentarse dentro del plazo de un año, contado desde el acto o hecho que le sirva de fundamento.
+A lo dispuesto en este número se sujetarán también las peticiones de devolución de tributos o de cantidades que se asimilen a éstos, que, encontrándose dentro del plazo legal que establece este artículo, sean consideradas fuera de plazo de acuerdo a las normas especiales que las regulen.
 
-En ningún caso serán reclamables las circunstancias o instrucciones impartidas por el Director o los Directores Regionales al personal, ni las respuestas dadas por los mismos o por otros funcionarios del Servicio a las consultas generales o particulares que se les formulen sobre aplicación o interpretación de las leyes tributarias.
+Las peticiones a que se refieren los números precedentes deberán presentarse dentro del plazo de un año contado desde el acto o hecho que le sirva de fundamento.
+
+En ningún caso serán reclamables las circulares o instrucciones impartidas por el Director o por las Direcciones Regionales al personal, ni las respuestas dadas por los mismos o por otros funcionarios del Servicio a las consultas generales o particulares que se les formulen sobre aplicación o interpretación de las leyes tributarias.
 
 Tampoco serán reclamables las resoluciones dictadas por el Director Regional o por la Dirección Regional sobre materias cuya decisión este Código u otros textos legales entreguen a su juicio exclusivo.
 
@@ -1282,7 +1312,7 @@ El Director Regional podrá disponer la suspensión total o parcial del cobro ju
 
 La facultad mencionada en el inciso anterior podrá ser ejercida por el Director Regional aunque no medie reclamación.
 
-Si se dedujere apelación en contra de la sentencia definitiva que rechaza parcial o totalmente una reclamación, en los casos a que se refieren los incisos anteriores, la Corte de Apelaciones respectiva podrá, a petición de parte, ordenar la suspensión total o parcial del cobro del impuesto por un plazo determinado que podrá ser renovado. Igualmente y también por un plazo determinado renovable, podrá hacerlo la Corte Suprema conociendo de los recursos de casación.
+Si se dedujere apelación en contra de la sentencia definitiva que rechaza parcial o totalmente una reclamación, en los casos a que se refieren los incisos anteriores, la Corte de Apelaciones respectiva podrá, a petición de parte, previo informe del Servicio de Tesorerías, ordenar la suspensión total o parcial del cobro del impuesto por un plazo determinado que podrá ser renovado. Igualmente y también por un plazo determinado renovable, podrá hacerlo la Corte Suprema conociendo de los recursos de casación. El informe del Servicio de Tesorerías deberá entregarse dentro de los quince días siguientes de recibida la petición del tribunal, el cual podrá proceder sin él si no se entrega en el plazo señalado.
 
 Las normas del inciso anterior no serán aplicables a los impuestos sujetos a retención ni a aquellos que por la ley deban ser materia de recargo en los cobros o ingresos de un contribuyente, en la parte que efectivamente se hubiere retenido o recargado.
 
@@ -1456,7 +1486,7 @@ La competencia de los jueces que conozcan de estos procesos no se alterará por 
 
 La circunstancia de haberse iniciado el procedimiento señalado en el artículo anterior, no será impedimento para que, en los casos de infracciones sancionadas con multa y pena corporal, se interponga querella o denuncia. En tal caso, el Director Regional se declarará incompetente para seguir conociendo el asunto en cuanto se haga constar en el proceso respectivo el hecho de haberse acogido a tramitación la querella o denuncia.
 
-La interposición de una querella o denuncia no inhibirá al Director Regional para continuar conociendo del procedimiento de reclamación correspondiente y demás trámites inherentes a la determinación de los impuestos adeudados, pero no se procederá a la dictación del fallo que recaiga en el proceso de reclamación hasta que quede ejecutoriada la sentencia en el proceso criminal respectivo, suspendiéndose la prescripción a que se refiere el Título VI del Libro Tercero.
+La interposición de la acción penal o denuncia administrativa no impedirá al Servicio proseguir los trámites inherentes a la determinación de los impuestos adeudados; igualmente no inhibirá al Director Regional para conocer o continuar conociendo y fallar la reclamación correspondiente.
 
 #### Artículo 163
 
@@ -1480,9 +1510,11 @@ e) Los informes contables emitidos por los funcionarios del Servicio de Impuesto
 
 Las partes podrán designar, a su costa, peritos adjuntos en materias contables o de otra índole, los que deberán evacuar sus informes en el plazo de veinte días, pudiendo éste ser ampliado a veinte días más por una sola vez, a petición de los peritos y por resolución fundada del Juez de la causa. Transcurridos los plazos sin que se hayan evacuado los informes, quedará ipso facto sin efecto la designación del perito sin necesidad de requerimiento previo o resolución del Tribunal. Iguales normas se aplicarán respecto de los peritos que el Tribunal de oficio designe.
 
-f) Cuando proceda la excarcelación, el Juez fijará el monto de la fianza en una suma no inferior al 30% de los impuestos evadidos, reajustados en la forma prevista en el artículo 53, y de acuerdo a la estimación que de ellos se haga por el Servicio de Impuestos Internos. La excarcelación se otorgará y la fianza se rendirá de acuerdo a los incisos segundo y tercero del artículo 361 del Código de Procedimiento Penal, cualquiera que sea la pena asignada al delito.
+f) Cuando proceda la excarcelación, el Juez fijará el monto de la fianza. En los casos a que se refiere el inciso segundo del número 4° del artículo 97, la fijará en una suma no inferior al 30% de los impuestos evadidos, reajustados en la forma prevista en el artículo 53, y de acuerdo a la estimación que de ellos se haga por el Servicio de Impuestos Internos. La excarcelación se otorgará y la fianza se rendirá de acuerdo a los incisos segundo y tercero del artículo 361 del Código de Procedimiento Penal, cualquiera que sea la pena asignada al delito.
 
 Sin embargo, en los casos a que se refiere el inciso tercero del N° 4 del artículo 97, la excarcelación procederá de acuerdo con las reglas generales, pero se exigirá, además, caución y no se admitirá otra que no sea un depósito de dinero de un monto no inferior al de la devolución indebidamente obtenida, según los antecedentes que presente el Servicio de Impuestos Internos. Sobre este monto, el Tribunal fijará los reajustes e intereses que procedan;
+
+Al conceder el beneficio de la libertad provisional, el tribunal decretará simultáneamente el arraigo del procesado, hasta el término por sentencia firme del proceso incoado.
 
 g) Para los efectos previstos en los artículos 380 y siguientes del Código de Procedimiento Penal, corresponderá en primer término al querellante el señalamiento de los bienes sobre los cuales ha de recaer el embargo;
 
@@ -1516,11 +1548,11 @@ Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7�
 
 2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
-3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
+3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar por escrito, dentro del plazo de quince días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
 
 4°- Una vez formulado el reclamo, el contribuyente podrá dentro de los ocho días siguientes, acompañar y producir todas las pruebas que estime necesario rendir. El Director Regional determinará la oportunidad en que la prueba testimonial deba rendirse. Sólo podrán declarar los testigos que el contribuyente señale en el reclamo, con expresión de su nombre y apellido, domicilio, profesión u oficio. No podrán declarar más de cuatro testigos en total. En todo caso, el Director Regional podrá citar a declarar a personas que no figuren en la lista de testigos o decretar otras diligencias probatorias que estime pertinentes. La prueba se apreciará de acuerdo a las reglas de la sana crítica.
 
-Las resoluciones dictadas en primera instancia, con excepción de la sentencia, se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse y fijarse diariamente en la Dirección Regional, con las formalidades que disponga el Director. Además se remitirá en la misma fecha aviso por correo al notificado. La falta de este aviso no anulará la notificación.
+Las resoluciones dictadas en primera instancia, con excepción de la sentencia, se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse y fijarse diariamente en la Dirección Regional, con las formalidades que disponga el Director. Además se remitirá en la misma fecha aviso por correo al notificado. La falta de este aviso anulará la notificación.
 
 5°- El Director Regional resolverá el reclamo dentro del quinto día desde que los autos queden en estado de sentencia y, en contra de ésta, sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que se concederá en ambos efectos. Dicho recurso deberá entablarse dentro de tercero día, contado desde la notificación personal o por cédula de dicha resolución. Sólo podrá concederse la apelación previa consignación por el recurrente en un Banco a la orden del Tesorero General de la República, de una cantidad igual al veinte por ciento de la multa aplicada, con un máximo de 10 Unidades Tributarias Mensuales. La consignación aludida se devolverá a la parte recurrente si el recurso fuere acogido. Si fuere desechado o el recurrente se desistiere de él, se aplicará a beneficio fiscal. Si el recurso fuere desechado por la unanimidad de los miembros del tribunal de segunda instancia, éste ordenará que el recurrente pague a beneficio fiscal una cantidad adicional igual al monto de la consignación indicada y se condenará en las costas del recursos al recurrente cuando el Servicio hubiere comparecido en segunda instancia.
 
@@ -1752,17 +1784,17 @@ En lo que fuere compatible con el carácter administrativo de este procedimiento
 
 Se tendrá como parte en segunda instancia al respectivo Abogado Provincial, aunque no comparezca personalmente a seguir el recurso.
 
-#### Artículo 192°
+#### Artículo 192
 
 El Servicio de Tesorerías podrá otorgar facilidades hasta de un año, en cuotas periódicas, para el pago de los impuestos adeudados, a aquellos contribuyentes que acrediten su imposibilidad de cancelarlos al contado.
 
-No podrán celebrarse convenios para el pago de sumas adeudadas por concepto de impuestos que, según las disposiciones tributarias, están sujetos a retención o recargo.
+Facúltase al Tesorero General de la República para condonar total o parcialmente los intereses y sanciones por la mora en el pago de los impuestos sujetos a su cobranza, mediante normas o criterios de general aplicación. Esta facultad no podrá ser ejercida en el caso de los contribuyentes que el Director haya informado que se encuentran investigados o procesados por delitos tributarios.
 
-No obstante lo dispuesto en los incisos anteriores, el Presidente de la República podrá ampliar el mencionado plazo para el pago de los impuestos atrasados de cualquiera naturaleza, en regiones o zonas determinadas, cuando a consecuencia de sismos, inundaciones, sequías prolongadas u otras circunstancias, se haya producido en dicha zona o región, una paralización o disminución notoria de la actividad económica. Se entenderán cumplidos estos requisitos, sin necesidad de declaración previa, en todas aquellas regiones o zonas en que el Presidente de la República disponga que se le apliquen las disposiciones del Título I de la ley N° 16.282.
+No obstante lo dispuesto en los incisos anteriores, el Presidente de la República podrá ampliar el mencionado plazo para el pago de los impuestos atrasados de cualquiera naturaleza, en regiones o zonas determinadas, cuando a consecuencia de sismos, inundaciones, sequías prolongadas u otras circunstancias, se haya producido en dicha zona o región, una paralización o disminución notoria de la actividad económica. Se entenderán cumplidos estos requisitos, sin necesidad de declaración previa, en todas aquellas regiones o zonas en que el Presidente de la República disponga que se le apliquen las disposiciones del Título I de la Ley N° 16.282.
 
 La celebración de un convenio para el pago de los impuestos atrasados, implicará la inmediata suspensión de los procedimientos de apremio respecto del contribuyente que lo haya suscrito. Esta suspensión operará mientras el deudor se encuentre cumpliendo y mantenga vigente su convenio de pago.
 
-En todo caso, el contribuyente acogido a facilidades de pago, no podrá invocar contra el Fisco el abandono de la instancia, respecto de los tributos o créditos incluídos en los respectivos convenios.
+En todo caso, el contribuyente acogido a facilidades de pago, no podrá invocar contra el Fisco el abandono de la instancia, respecto de los tributos o créditos incluidos en los respectivos convenios.
 
 Las formalidades a que deberán someterse los mencionados convenios, serán establecidas mediante instrucciones internas dictadas por el Tesorero General, el que estará facultado para decidir las circunstancias y condiciones en que se exigirá de los deudores la aceptación de letras de cambio a fin de facilitar el pago de las cuotas convenidas, como igualmente, para remitirlas en cobranza al Banco del Estado de Chile. Dicha Institución podrá percibir por la cobranza de estas letras la comisión mínima establecida para esta clase de operaciones.
 
@@ -1802,7 +1834,25 @@ c) Que no se conozcan bienes sobre los cuales puedan hacerse efectivas.
 
 5°.- Las de los contribuyentes que se encuentren ausentes del país tres o más años, siempre que no se conozcan bienes sobre los cuales puedan hacerse efectivas.
 
-6°. Las deudas por impuestos territoriales, que no alcanzaren a ser pagados con el precio obtenido en subasta pública del predio correspondiente.
+6°.- Las deudas por impuestos territoriales, que no alcanzaren a ser pagados con el precio obtenido en subasta pública del predio correspondiente.
+
+7º.- Las que correspondan a contribuyentes que hayan deducido querella por haber sido estafados o defraudados en dineros entregados para el pago de impuestos determinados, y siempre que se haya condenado a los culpables por sentencia que se encuentre ejecutoriada.
+
+La declaración de incobrabilidad sólo podrá efectuarse por aquella parte que no exceda, en los impuestos mensuales o esporádicos, de 50 unidades tributarias mensuales por cada período o impuesto; y en los impuestos anuales, en aquella parte que no exceda a 120 unidades tributarias mensuales por cada período.
+
+Los contribuyentes que hayan deducido la querella a que se refiere el inciso primero de este número, podrán solicitar al tribunal que la esté conociendo la suspensión del cobro judicial de los impuestos respectivos.
+
+El tribunal podrá ordenar la suspensión total o parcial del cobro de los impuestos, por un plazo determinado que podrá ser renovado, previo informe del Servicio de Tesorerías y siempre que se haya dictado auto de procesamiento.
+
+La suspensión cesará de pleno derecho, cuando se deje sin efecto el auto de procesamiento o se dicte sobreseimiento temporal o definitivo o sentencia absolutoria. El tribunal deberá comunicar de inmediato la ocurrencia de cualquiera de estas circunstancias, al Servicio de Tesorerías, mediante oficio.
+
+Decretada la suspensión del cobro judicial no procederá el abandono del procedimiento en el juicio ejecutivo correspondiente, mientras subsista aquélla.
+
+Las sumas que en razón de los impuestos adeudados se hayan ingresado en arcas fiscales no darán derecho a devolución alguna.
+
+En el caso que los contribuyentes obtengan de cualquier modo la restitución de todo o parte de lo estafado o defraudado, deberán enterarlo en arcas fiscales dentro del mes siguiente al de su percepción. Para todos los efectos legales las sumas a enterar en arcas fiscales se considerarán impuestos sujetos a retención.
+
+No será aplicable el inciso segundo del artículo 197, a lo dispuesto en este número.
 
 #### Artículo 197°
 
@@ -1832,7 +1882,11 @@ El Servicio podrá liquidar un impuesto, revisar cualquiera deficiencia en su li
 
 El plazo señalado en el inciso anterior será de seis años para la revisión de impuestos sujetos a declaración, cuando ésta no se hubiere presentado o la presentada fuere maliciosamente falsa. Para estos efectos, constituyen impuestos sujetos a declaración aquellos que deban ser pagados previa declaración del contribuyente o del responsable del impuesto.
 
+En los plazos señalados en los incisos anteriores y computados en la misma forma prescribirá la acción del Servicio para perseguir las sanciones pecuniarias que accedan a los impuestos adeudados.
+
 Los plazos anteriores se entenderán aumentados por el término de tres meses desde que se cite al contribuyente, de conformidad al artículo 63 o a otras disposiciones que establezcan el trámite de la citación para determinar o reliquidar un impuesto, respecto de los impuestos derivados de las operaciones que se indiquen determinadamente en la citación. Si se prorroga el plazo conferido al contribuyente en la citación respectiva, se entenderán igualmente aumentados, en los mismos términos, los plazos señalados en este artículo.
+
+Las acciones para perseguir las sanciones de carácter pecuniario y otras que no accedan al pago de un impuesto prescribirán en tres años contados desde la fecha en que se cometió la infracción.
 
 #### Artículo 201
 
