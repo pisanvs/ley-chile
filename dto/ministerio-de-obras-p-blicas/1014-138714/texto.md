@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.014, de 29 de abril de 1999, se expropió el lote de terreno No. 103, superficie 303 mý, rol de avalúo 851-77, comuna de Bulnes, para la obra "Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli". Sector 1, Octava Región y se acordó el valor de indemnización con su propietaria Sociedad Agrícola y Forestal Santa Lucía y Compañía Limitada, ascendente a la cantidad de $ 412.084.-
+
+Fiscal del Ministerio de Obras Públicas.
