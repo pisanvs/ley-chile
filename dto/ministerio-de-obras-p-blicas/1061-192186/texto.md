@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.061, de 29 de junio de 2001, se expropió el lote de terreno Nº12, superficie 1.959 m2., rol de avalúo 107-66, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar Tramo: 7 A2: Kms. 48.140,00 al 50.300,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Roberto Osvaldo Trincado Allembech, ascendente a la cantidad de $12.750.161.-
+
+Fiscal del Ministerio de Obras Públicas.
