@@ -1,0 +1,5 @@
+EXTRACTO REVOCACIONES DE RESOLUCIONES AGENTE RETENEDOR DE IVA
+
+La VIII Dirección Regional Concepción, del Servicio de Impuestos Internos, por resoluciones Nºs. Ex. 1.149, 1.150, 1.151, 1.152, 1.153, 1.154 y 1.155, todas de 30.09.99, revocó la calidad de agente retenedor de IVA por las adquisiciones de Especies Hidrobiológicas a las siguientes empresas, respectivamente: Pesquera Humboldt, RUT Nº 79.501.100-5; Vásquez y Cía. Ltda., RUT Nº 81.352.200-4; Marítima San Bernardo S.A., RUT Nº 96.651.710-7; Pesquera Andalién Ltda., RUT Nº 79.759.500-4; Pesquera Marfish Ltda., RUT Nº78.152.400-K; Pesquera Riquelme Cartes y Cía. Ltda., RUT Nº 85.673.200-2, y Pesquera Araucanía S.A., RUT Nº 96.772.830-6. Estas resoluciones revocatorias rigen a partir de la presente publicación.-
+
+Sergio Flores Gutiérrez, Director Regional.
