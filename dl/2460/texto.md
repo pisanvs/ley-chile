@@ -1,0 +1,295 @@
+DICTA LEY ORGANICA DE INVESTIGACIONES DE CHILE Núm. 2.460.- Santiago, 9 de Enero de 1979.- Visto: Lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527, de 1974, y 991, de 1976,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+## Título Primero
+
+Organización, misión y funciones específicas
+
+#### Artículo 1°
+
+La Policía de Investigaciones de Chile es una Institución Policial de carácter profesional, técnico y científico, integrante de las Fuerzas de Orden, dependiente del Ministerio del Interior y Seguridad Pública, cuyo personal estará sometido a un régimen jerárquico y disciplinario estricto. Se vinculará administrativamente con el referido Ministerio a través de la Subsecretaría del Interior.
+
+En el cumplimiento de sus funciones, la Institución se relacionará con las Secretarías de Estado, por intermedio de la Dirección General.
+
+En lo que respecta a las relaciones con las Delegaciones Presidenciales Regionales, Delegaciones Presidenciales Provinciales, Alcaldías, y otros organismos regionales, provinciales o locales, Investigaciones de Chile se vinculará con ellos mediante las Jefaturas de Zona, Prefecturas, Comisarías y Unidades Menores, según proceda.
+
+#### Artículo 2°
+
+Policía de Investigaciones de Chile estará organizada sobre la base de una Dirección General, una Subdirección Operativa, una Subdirección Administrativa, una Inspectoría General, Jefaturas, Prefecturas, Oficina Central Nacional INTERPOL, Comisarías y las Unidades Menores que sean necesarias. Dispondrá, además, de los servicios que se requieran para el mejor desempeño de sus funciones.
+
+Para la formación y perfeccionamiento profesional de su personal, la Institución contará con una Escuela de Investigaciones, un Centro de Capacitación Profesional y un Instituto Superior, planteles que otorgarán los títulos correspondientes de acuerdo con sus reglamentos.
+
+#### Artículo 3°
+
+La Escuela de Investigaciones es el plantel destinado a la formación profesional básica de los funcionarios policiales.
+
+En el Centro de Capacitación Profesional se efectuarán los cursos de especialización que disponga la Dirección General.
+
+En el Instituto Superior de Investigaciones se realizarán los cursos de perfeccionamiento de los Oficiales, y los de formación de los jefes de la Institución.
+
+#### Artículo 3º bis
+
+La dotación máxima de ingreso de los alumnos al primer año de formación en la Escuela de Investigaciones se determinará, a más tardar, el mes de junio de cada año, con vigencia al año siguiente, por decreto supremo del Ministerio del Interior y Seguridad Pública, expedido por medio de la Subsecretaría del Interior, el que deberá contar con la firma del Ministro de Hacienda.
+
+#### Artículo 4°
+
+La misión fundamental de la Policía de Investigaciones de Chile es investigar los delitos de conformidad a las instrucciones que al efecto dicte el Ministerio Público, sin perjuicio de las actuaciones que en virtud de la ley le corresponde realizar sin mediar instrucciones particulares de los fiscales.
+
+#### Artículo 5°
+
+Corresponde en especial a Policía de Investigaciones de Chile contribuir al mantenimiento de la tranquilidad pública; prevenir la perpetración de hechos delictuosos y de actos atentatorios contra la estabilidad de los organismos fundamentales del Estado; dar cumplimiento a las órdenes emanadas del Ministerio Público para los efectos de la investigación, así como a las órdenes emanadas de las autoridades judiciales, y de las autoridades administrativas en los actos en que intervengan como tribunales especiales; prestar su cooperación a los tribunales con competencia en lo criminal; prestar la cooperación necesaria en cumplimiento de tratados internacionales ratificados y vigentes en Chile, incluyendo el intercambio de datos personales. Esta cooperación se ajustará a la legislación nacional en la materia y en ningún caso implicará la entrega de bases de datos nacionales ni el acceso directo a ellas por parte de los órganos de un Estado extranjero o de los órganos de una organización internacional, observando siempre lo dispuesto en la ley Nº 19.628, sobre Protección de la Vida Privada, particularmente en lo relativo a la protección de los titulares de datos; controlar el ingreso y la salida de personas del territorio nacional; adoptar todas las medidas conducentes para asegurar la correcta identificación de las personas que salen e ingresan al país, la validez y autenticidad de sus documentos de viaje y la libre voluntad de las personas de ingresar o salir de él; fiscalizar la permanencia de extranjeros en el país, representar a Chile como miembro de la Organización Internacional de Policía Criminal (INTERPOL), y dar cumplimiento a otras funciones que le encomienden las leyes.
+
+#### Artículo 6°
+
+La Policía de Investigaciones de Chile podrá establecer servicios policiales urbanos, rurales, fronterizos y cualquier otro que diga relación con sus funciones específicas, de acuerdo con la Constitución Política y la ley.
+
+Los servicios policiales en todo el territorio de la República estarán a cargo de Investigaciones y de Carabineros de Chile, salvo en lo que se refiere a las Policías Marítima y Militares y otras excepciones que prescriba la ley.
+
+## Título Segundo
+
+Normas especiales de procedimiento
+
+#### Artículo 7°
+
+La Institución dará al Ministerio Público y a las autoridades judiciales con competencia en lo criminal, el auxilio que le soliciten en el ejercicio de sus atribuciones. Deberá cumplir sin más trámite sus órdenes y no podrá calificar su fundamento, oportunidad, justicia o legalidad, salvo requerir la exhibición de la autorización judicial previa, en su caso.
+
+Los funcionarios de la Institución no podrán ser empleados para el cumplimiento de resoluciones judiciales de carácter civil, salvo que una ley expresamente así lo disponga.
+
+Policía de Investigaciones de Chile, asimismo, prestará a las autoridades administrativas el auxilio que estás soliciten en el ejercicio de sus atribuciones y siempre que la acción que se trata de ejecutar no tienda notoriamente a la perpetración de un delito. En caso contrario, deberá representar la orden recibida y cumplirla si la autoridad insistiere, en cuyo caso, de incurrir en delito, será ésta la única responsable.
+
+En situaciones calificadas, Policía de Investigaciones de Chile, podrá requerir de la autoridad administrativa la orden por escrito, cuando por la naturaleza de la medida lo estime conveniente para su cabal cumplimiento.
+
+La autoridad administrativa no podrá requerir directamente el auxilio de la Institución, ni ésta podrá concederlo, respecto de asuntos que esté investigando el Ministerio Público o que estén sometidos al conocimiento de los tribunales de justicia y que hayan sido objeto de medidas ordenadas o decretadas por ellos y comunicadas o notificadas, en su caso, a la Policía de Investigaciones de Chile.
+
+#### Artículo 8°
+
+DEROGADO
+
+## Título Tercero
+
+De la Dirección General
+
+#### Artículo 9º
+
+La Jefatura Superior de la Policía de Investigaciones de Chile corresponderá a un funcionario que, con el título de Director General, ejerce la dirección y administración de esa institución. Dicho cargo será de la exclusiva confianza del Presidente de la República para todos los efectos legales y será designado por éste de entre los ocho Oficiales Policiales de mayor antigüedad, con grado de Prefecto General o Prefecto Inspector.
+
+La persona que sea designada en el cargo de Director General deberá presentar una declaración jurada de patrimonio ante un notario de su domicilio, dentro del plazo de treinta días desde que hubiera asumido el cargo y dentro de los treinta días siguientes a la fecha de cesación en el mismo.
+
+El Director General sólo podrá desempeñar el cargo por un plazo máximo de seis años consecutivos.
+
+En caso de ausencia, impedimento o inhabilidad temporal, el Director será subrogado por el Oficial General más antiguo.
+
+#### Artículo 10
+
+Corresponde al Director General de Investigaciones resolver sobre las siguientes materias:
+
+1.- Nombramiento y baja del personal de la planta de los Servicios Generales y de los Aspirantes de la Escuela de Investigaciones.
+
+2.- Entrega de la información que sea requerida por el Ministerio del Interior y Seguridad Pública, por medio de la Subsecretaría del Interior, en ejercicio de las facultades conferidas en el artículo 3º de la ley Nº 20.502.
+
+3.- Destinación y traslado del personal de la Institución.
+
+4.- Concesión de anticipos de remuneraciones, en conformidad a las disposiciones estatuarias, al personal que deba cambiar de residencia con motivo de nueva destinación.
+
+5.- Otorgamiento de pasajes y fletes al personal que tenga derecho a estos beneficios, de acuerdo con el reglamento.
+
+6.- Ejercicio de las atribuciones disciplinarias que le otorguen los reglamentos.
+
+7.- Autorización al personal para contraer matrimonio, de acuerdo con la reglamentación correspondiente.
+
+8.- Comisiones de servicio, en conformidad a las disposiciones reglamentarias.
+
+9.- Otorgamiento de feriados, licencias y permisos, con o sin goce de remuneraciones.
+
+10.- En general, todas aquellas resoluciones, conducentes al buen funcionamiento de la Institución que determine el reglamento.
+
+#### Artículo 11
+
+El Director General podrá delegar en los Subdirectores, Jefes zonales y otros jefes de la institución que señale, las facultades indicadas en el artículo anterior, salvo la contemplada en el número 1, con el objeto de que puedan adoptar decisiones y dictar resoluciones en materias relativas al personal, manejos de fondos, bienes y presupuesto, dentro de su jurisdicción territorial o administrativa.
+
+Los delegados serán civil, penal y administrativamente responsables de los actos que ejecuten y de las resoluciones que dicten con motivo de dicha delegación, sin perjuicio de la responsabilidad que corresponda al delegante.
+
+La delegación señalada deberá ser informada al Ministerio del Interior y Seguridad Pública por medio de la Subsecretaría del Interior.
+
+#### Artículo 12
+
+Facúltase al Director General para encomendar trabajos de índole profesional y técnica, remunerados sobre la base de honorarios, a profesionales, técnicos y peritos, ajenos a la institución, previa autorización dada por decreto supremo.
+
+Los fondos necesarios para este objeto deberán consultarse en el Presupuesto de la Nación.
+
+#### Artículo 13
+
+La Dirección General podrá contratar trabajadores en calidad de jornal por los períodos que se requieran, de acuerdo con las necesidades de la institución, en conformidad al reglamento correspondiente e informando de ellas, semestralmente, al Ministerio del Interior y Seguridad Pública, por medio de la Subsecretaría del Interior.
+
+El pago de las remuneraciones de este personal, y de los demás beneficios legales se hará con cargo a los fondos que anualmente consulte, para tal objeto, la Ley de Presupuesto.
+
+#### Artículo 14
+
+Con cargo a los fondos que consulte la Ley de Presupuesto de la Nación, podrán concederse anticipos de sueldos, viáticos, e indemnizaciones por cambio de residencia.
+
+## Título Cuarto
+
+Disposiciones Generales
+
+#### Artículo 15
+
+El nombramiento y selección del personal de Policía de Investigaciones de chile se regirán por el Estatuto del Personal y los reglamentos institucionales respectivos. Los ascensos se efectuarán únicamente en conformidad al Escalafón de Antiguedad o a la fecha del nombramiento según proceda.
+
+Los ascensos de los Oficiales se otorgarán por decreto ministerial, firmado "Por orden del Presidente de la República" en los grados de Inspector a Sub-Prefecto, por decreto supremo en los de Prefecto, Prefecto Inspector y Subdirector; y por resolución de la Jefatura del Personal para los empleados civiles y Servicios Generales.
+
+#### Artículo 16
+
+Los funcionarios de la Planta de Oficiales Policiales, con excepción de los Aspirantes, usarán como distintivo una "Placa de Servicio" y una "Tarjeta de Identidad Policial", que acreditarán su cargo, función e identidad.
+
+Los Aspirantes y el personal de las otras plantas, tendrán para tales efectos, sólo la Tarjeta de Identidad Policial.
+
+La forma y características de la Placa de Servicio y la Tarjeta de Identidad Policial como la de los timbres y sellos que debe usar la institución en sus documentos oficiales, se determinarán en los reglamentos correspondientes.
+
+Se prohíbe la reproducción y uso de las placas, tarjetas, timbres y sellos de Policía de Investigaciones de Chile por cualquier otro organismo o persona. La infracción de esta prohibición será sancionada con presidio menor en sus grados medio a máximo y multa de 11 a 20 sueldos vitales mensuales de la Región Metropolitana de Santiago, sin perjuicio del comiso de las especies.
+
+#### Artículo 17
+
+El que matare a un miembro de la Policía de Investigaciones de Chile que se encontrare en el ejercicio de sus funciones será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+
+#### Artículo 17 bis
+
+El que hiriere, golpeare o maltratare de obra a un miembro de la Policía de Investigaciones de Chile que se encontrare en el ejercicio de sus funciones, será castigado:
+
+1º.- Con la pena de presidio mayor en su grado medio a máximo, si de resultas de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
+
+2º. Con presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
+
+3º. Con presidio menor en grado medio a máximo, si le causare lesiones menos graves.
+
+4º. Con presidio menor en su grado mínimo, si le ocasionare lesiones leves.
+
+#### Artículo 17 ter
+
+Cuando la víctima de los delitos establecidos en los artículos 395 y 396 del Código Penal sea un funcionario de la Policía de Investigaciones en el ejercicio de sus funciones, se aplicarán las penas que siguen:
+
+1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
+
+2° Con presidio mayor en su grado medio, cuando fuere víctima del delito consignado en el inciso primero del artículo 396.
+
+3° Con presidio menor en su grado máximo, cuando lo fuere del delito establecido en el inciso segundo del artículo 396.
+
+#### Artículo 17 quáter
+
+El que amenazare en los términos de los artículos 296 y 297 del Código Penal a uno de los integrantes de la Policía de Investigaciones de Chile con conocimiento de su calidad de miembro de esa Institución, unidades o reparticiones, sufrirá la pena de presidio menor en su grado mínimo a medio.
+
+#### Artículo 18
+
+La denominación "Detective" sólo podrá ser usada por el personal en servicio activo de Policía de Investigaciones de Chile que tenga nombramiento de tal.
+
+La infracción de esta disposición será sancionada con presidio menor en sus grados medio a máximo y multa de 11 a 20 sueldo vitales mensuales de la Región Metropolitana de Santiago.
+
+#### Artículo 19
+
+Se Prohíbe a los funcionarios de Policía de Investigaciones de Chile, ejecutar cualquier acto de violencia, destinado a obtener declaraciones de parte del detenido.
+
+El que infrinja esta disposición será castigado con arreglo a lo dispuesto en el Código Penal.
+
+#### Artículo 20
+
+La Policía de Investigaciones, inmediatamente que detenga a una persona, la pondrá a disposición del juez competente, informando al Ministerio Público si hubiere sido sorprendida en delito flagrante. Si en razón de la hora en que se practicó la detención no pudiere darse inmediato cumplimiento a esta regla, todo detenido que lo solicitare por sí o por otra persona, antes de ingresar en calidad de tal en las oficinas o cuarteles de Policía de Investigaciones de Chile, será examinado por un médico legista, quien tendrá la obligación de expedir un certificado de salud a su respecto, en el que dejará, especialmente constancia de las lesiones, erosiones, equimosis u otras manifestaciones de carácter interno o externo que denuncien que el detenido ha sido objeto de golpes, maltratos, heridas o cualquiera otra especie de violencia.
+
+INCISO ELIMINADO
+
+Una copia del informe médico se enviará al juez de garantía correspondiente y otra al fiscal del Ministerio Público que tenga a su cargo la investigación.
+
+#### Artículo 21
+
+Se hacen extensivas a los funcionarios de Investigaciones las prohibiciones que el artículo 323 del Código Orgánico de Tribunales establece en los Nos 1°, 2°, y 3°, con respecto a los funcionarios judiciales.
+
+#### Artículo 22
+
+Todo funcionario de Policía de Investigaciones de Chile que faltare maliciosamente a la verdad en los informes a sus superiores y particularmente en los partes enviados a los tribunales o a las autoridades administrativas, será castigado con arreglo a los artículos 206 y 207 del Código Penal.
+
+#### Artículo 23
+
+Los funcionarios de Investigaciones que sean privados de libertad en virtud de resolución judicial, motivada por hechos derivados de actos propios del Servicio, permanecerán detenidos, mientras no se decrete su libertad, en los cuarteles de la Institución, que se considerarán habilitados como cárceles para este efecto, hasta la dictación de sentencia definitiva.
+
+A petición del Director General, los funcionarios privados de libertad por resolución judicial, por hechos que no sean propios del Servicio, permanecerán detenidos en los mismos recintos.
+
+Los detenidos o presos en todo caso, quedarán bajo la responsabilidad inmediata del Jefe del cuartel, a quien será aplicable, específicamente, lo dispuesto en los artículos 299 y 304 del Código Penal, en caso de que se fuguen, sin perjuicio de otras responsabilidades que puedan coexistir.
+
+Ningún funcionario o ex funcionario policial podrá cumplir condena junto con otros reos que no sean ex miembros de las Fuerzas Armadas o Policiales.
+
+#### Artículo 23 bis
+
+Estará exento de responsabilidad criminal, el funcionario de la Policía de Investigaciones de Chile, que con el objeto de cumplir un deber que establezca este decreto ley, se viere obligado a hacer uso de armas, para rechazar alguna violencia o vencer alguna resistencia contra la autoridad.
+
+#### Artículo 24
+
+El personal de Policía de Investigaciones de Chile está autorizado para portar armas de fuego en la forma y condiciones que determine el Reglamento.
+
+Los Oficiales Policiales de los grados de Director General, Subdirectores, Prefectos Inspectores, Prefectos y Subprefectos, de la Policía de Investigaciones de Chile en retiro, estarán facultados para portar armas de fuego que tengan debidamente inscritas a su nombre, previa autorización otorgada por el Director General, sin perjuicio de aplicárseles lo que disponga la reglamentación respectiva, para el personal en servicio activo.
+
+#### Artículo 25
+
+La administración del vestuario, equipo, vehículos, armamento, material policial y demás especies del inventario de Policía de Investigaciones de Chile, será regulada por los reglamentos correspondientes.
+
+Los colores y distintivos de los vehículos de Investigaciones serán los que fije la Dirección General.
+
+#### Artículo 26
+
+Las adquisiciones y enajenaciones que deba efectuar Policía de Investigaciones de chile, se harán por intermedio del Consejo Coordinador de Adquisiciones y Enajenaciones de las Fuerzas Armadas, que para el solo efecto de resolver esas adquisiciones y enajenaciones, se integrará además, con el funcionario de Investigaciones que se determine por decreto supremo expedido a propuesta del Director General de Policía de Investigaciones de Chile.
+
+Las facultades que la ley N°15.593 confiere al Director General de Logística del Ejército, al Director General de los Servicios de la Armada y al Comandante del Comando Logístico de la Fuerza Aérea, se entenderán conferidas al Jefe de Logística de Policía de Investigaciones de Chile.
+
+Policía de Investigaciones de Chile podrá acordar adquisiciones por intermedio de la Dirección de Aprovisionamiento del Estado, las que no requerirán de la intervención del Consejo de esta última Institución.
+
+#### Artículo 27
+
+Los galardones y otros beneficios legales análogos de carácter pecuniario que pudieran concederse a los funcionarios con motivo u ocasión del desempeño del cargo o a la institución, serán percibidos directamente por la Dirección General para ser destinados a fines de bienestar social de su personal.
+
+#### Artículo 28
+
+Los Departamentos del Tránsito de las Municipalidades o los organismos que ejerzan esas funciones estarán obligados a enviar, dentro del quinto día, a la Oficina de Informaciones de la Dirección General de Policía de Investigaciones de Chile, una copia o duplicado del documento mediante el cual otorguen patentes a cualquier tipo de vehículos y de las licencias para manejar.
+
+Los Directores de los Departamentos del Tránsito de cada Municipalidad o de los organismos que ejerzan esas funciones que no dieren cumplimiento a esta obligación, incurrirán en falta administrativa, que será sancionada disciplinariamente por la autoridad de la cual dependan.
+
+#### Artículo 29
+
+Derogado
+
+#### Artículo 30
+
+La Comisión Médica de Policía de Investigaciones de Chile debe actuar o informar respecto del personal de la Institución, en todos aquellos casos en que las leyes o reglamentos requieran la intervención de una comisión médica. Para estos efectos, en tales casos, o en otros en que se mencione "Comisión Médica de Carabineros", la referencia debe entenderse hecha a la "Comisión Médica de Investigaciones".
+
+La composición y normas de funcionamiento de esta Comisión serán por decreto supremo.
+
+Las licencias médicas que se otorguen al personal de Policía de Investigaciones de Chile no estarán al trámite de su autorización por el Servicio Médico Nacional de Empleados, sino a la visación del Médico Jefe del Departamento de Sanidad de Investigaciones.
+
+#### Artículo 31
+
+Los peritos del Laboratorio de Criminalística cumplirán los cometidos que le encomienden los tribunales, con absoluta independencia respecto de los funcionarios superiores de Policía de Investigaciones de Chile y darán cuenta de ello directamente al juez que le haya encomendado la diligencia.
+
+#### Artículo 32
+
+Deróganse el artículo 6°de la ley N° 6.180; los artículos 1°, 2°, 3°, y 13 del D.F.L.
+
+N°311, de 1953; el inciso final del artículo 5°y los artículos 12 y 13 de la ley N°11.743; las letras C) y D) del artículo 1°de la ley N°14.711; los artículos 2°, 10, 11, 16, 17 y 19 de la ley N°15.143; el artículo 1°del D.L. N° 384, de 1974; el artículo 5° del decreto supremo (I) N°3.738, de 1944, y, en general, toda disposición legal o reglamentaria que sea contraria o incompatible con el presente decreto ley.
+
+ARTICULOS TRANSITORIOS
+
+#### Artículo 1°
+
+Mientras no funcionen el Instituto Superior y el Centro de Capacitación Profesional, los cursos correspondientes a estos planteles se realizarán en la Escuela de Investigaciones.
+
+#### Artículo 2°
+
+Facúltase al Presidente de la República para que dentro del plazo de un año a contar de la publicación del presente decreto ley, dicte las normas necesarias para la adecuada organización de la Institución, fije las funciones y atribuciones de sus diversos órganos de nivel jerárquico superior señalados en el artículo 2° y establezca el estatuto de su personal.
+
+> **Nota.** NOTA: 2.- El artículo único del DL 3.160, de 1980, renovó, por el término de 90 días, la facultad otorgada al Presidente de la República por el artículo 2° transitorio del presente decreto ley.
+
+#### Artículo 3°
+
+Mientras se dicta el Estatuto del Personal, los funcionarios de Policía de Investigaciones de Chile se regirán por sus normas propias y, supletoriamente, por las contenidas en el D.F.L. N° 338, de 1960, sobre Estatuto Administrativo.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los boletines oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones, y en la recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional.
+
+Lo que transcribo a US. para su conocimiento.- Federico Chaigneau Cabezón, Coronel de Ejército, Subsecretario de Investigaciones.
