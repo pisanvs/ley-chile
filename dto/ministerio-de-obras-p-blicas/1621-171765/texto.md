@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.621, de 28 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº27, para la obra: Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector E: Km. 84.300,00 al Km.
+
+92.000,00, Sexta Región, que figura a nombre de Codelco Chile Div Talleres Rgua, rol de avalúo 12-2, comuna de Olivar, superficie 60 m2. La comisión de peritos integrada por los señores Gustavo Antonio Domínguez Errázuriz, Carmen Pilar Ríos Marcuello y Jaime Rolando Jürgens Bittner, fijó con fecha 20 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $984.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
