@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.373, de 31 de julio de 2002, se dejó sin efecto el decreto MOP Nº 2.808 de 30 de diciembre de 1998, que ordenó la expropiación del lote 88, para la obra Concesión Internacional Ruta 5, Tramo Temuco Río Bueno Kms. 726.006,67 al 746.803,70, por cambio de trazado en lo que respecta a dicho lote. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
