@@ -1,0 +1,3 @@
+Por Resolución Nº 1.210 de 29 de agosto de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por SARPESCA S.A., para ampliar actividades pesqueras extractivas con las naves "Puyuguapi" y "Tuamapu", en las aguas interiores de la X, XI y XII Regiones, por verificarse la causal denegatoria prevista en el artículo 19 letra e) en relación a los artículos 23 y 47 de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 29 de agosto de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
