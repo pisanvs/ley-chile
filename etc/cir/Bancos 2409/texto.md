@@ -1938,11 +1938,7 @@ Con todo, el estado de saldos deberá ser entregado a cada uno de los clientes p
 
 ### 8. Sobregiros en cuentas corrientes
 
-Conforme a las disposiciones contenidas en el Capítulo III.G.3 del Compendio de Normas Financieras del Banco Central de Chile, los bancos no pueden conceder créditos ni otorgar sobregiros que no hayan sido pactados previamente por escrito, por cantidades superiores a 30 Unidades de Fomento.
-
-En todo caso el otorgamiento de sobregiros de hasta 30 U.F. sin pacto previo,corresponde a una facultad del banco, de modo que podrá conceder o denegar esa facilidad crediticia a sus clientes.
-
-Los sobregiros o créditos que los bancos concedan en las cuentas corrientes ordinarias de acuerdo con dichas normas y los intereses que se apliquen, deben ceñirse a las instrucciones del Capitulo 8-1 de esta Recopilación Actualizada de Normas.
+Los sobregiros o créditos que los bancos concedan en las cuentas corrientes ordinarias y los intereses que se apliquen, deben ceñirse a las instrucciones del Capítulo 8-1 de esta Recopilación Actualizada de Normas.
 
 9. Reserva sobre el movimiento de las cuentas corrientes. Facultad de los Tribunales de Justicia.
 
@@ -4470,19 +4466,21 @@ Los sistemas que las instituciones financieras utilicen, deben permitir verifica
 
 Cualquiera sea la forma en que los referidos créditos se otorguen, esto es, aunque fuere por el mero acto de efectuarse el giro o el desembolso, o de entregar títulos de crédito en que consta una obligación de la institución financiera, ellos están sujetos a los límites y prohibiciones establecidos en el artículo 84 de la Ley General de Bancos, en el instante en que se cursen, ansié su pago se realice el mismo día.
 
-Por otra parte, los créditos que la institución depositaría o mandataria conceda de acuerdo a lo expresado en este Capítulo, deben quedar debidamente documentados como requisito para su otorgamiento, sea que se trate de sobregiros en cuentas corrientes bancarias u otras operaciones específicas.
+Por otra parte, los créditos que la institución depositaría o mandataria conceda de acuerdo a lo expresado en este Capítulo, deben quedar debidamente documentados como requisito para su otorgamiento.
 
-Todo lo anterior es sin perjuicio de las excepciones que se indican en el numeral 3.3 siguiente y de la facultad de permitir sobregiros en cuentas corrientes bancarias sin pacto previo hasta por el equivalente a 30 Unidades de Fomento, tratada en el numeral 8-1 de esta Recopilación.
+Todo lo anterior es sin perjuicio de las excepciones que se indican en el numeral 3-3 siguiente y de la posibilidad de permitir sobregiros en cuentas corrientes bancarias sin pacto previo, tratada en el Capítulo 8-1 de esta Recopilación.
 
 3.3. Excepciones a las retenciones sobre valores en cobro.
 
-La institución depositaría podrá optar por prescindir de las retenciones, sin considerar necesariamente tales pagos como créditos, cuando los valores en cobro correspondan a:
+La institución depositaría podrá optar por prescindir de las retenciones, cuando los valores en cobro correspondan a:
 
-a) Vales vista emitidos por otras entidades financieras de la misma plaza o cheques viajeros.
+a) Vales vista emitidos por otras entidades financieras o cheques viajeros.
 
 b) Cheques girados contra cuentas subsidiarias de la Cuenta Unica Fiscal.
 
 c) Pagarés o certificados de depósito a plazo no reajustables emitidos por otras instituciones financieras.
+
+Los giros contra los valores en cobro señalados en las letras precedentes no serán considerados como créditos para los efectos de los límites y prohibiciones del artículo 84 de la Ley General de Bancos, ni para el límite obligatorio de sobregiro sin pacto previo de que trata el N° 2 del Capítulo 8-1 de esta Recopilación.
 
 3.4. Giros contra valores en cobro depositados en cuentas. Registro contable.
 
@@ -7138,23 +7136,23 @@ SOBREGIRO EN CUENTA CORRIENTE BANCARIA.
 
 Los sobregiros en una cuenta corriente bancaria corresponden a todos aquellos giros efectuados en la cuenta sin que existan fondos disponibles, constituyendo, por lo tanto, créditos que el banco librado concede al comitente.
 
-De acuerdo con las disposiciones contenidas en el Capítulo III.G.3. del Compendio de Normas Financieras del Banco Central de Chile, los bancos no pueden otorgar sobregiros en cuentas corrientes bancarias, que no hayan sido pactados previamente por escrito.
+Estos sobregiros pueden obedecer a una modalidad de crédito previamente acordada con el titular de la cuenta corriente, o bien, pueden originarse por una contingencia o una operación especial, sin que al comitente le asista un derecho contractual para sobregirar la cuenta.
 
-Se excluyen de esa obligación de pacto previo por escrito, los sobregiros que no excedan el equivalente de 30 Unidades de Fomento.
+En el primer caso, los bancos que otorguen a sus clientes la facultad de sobregirar sus cuentas hasta ciertos límites, deben documentar las condiciones pactadas de acuerdo con lo señalado en el N° 3 de este Capítulo.
 
-### 2. Sobregiros sin pacto previo
+Al tratarse, en cambio, de sobregiros que no se originen por el uso de una modalidad de crédito contratada, sea porque supera el monto de sobregiro previamente pactado o porque no existe tal pacto, los bancos deben decidir, cuando se presenta la situación, si lo aceptan o lo deniegan. En estos casos el banco librado, junto con los demás aspectos inherentes a esas decisiones crediticias, debe tener presente lo indicado en el N° 2 siguiente.
 
-De acuerdo con lo anteriormente expresado, las entidades bancarias pueden otorgar créditos sin pacto previo por escrito, hasta por una suma que no sobrepase las 30 Unidades de Fomento.
+### 2. Limite de sobregiro sin pacto previo
 
-Para los efectos del cumplimiento de ese límite, se considerarán como un solo sobregiro la suma de los sobregiros de diferentes cuentas corrientes ordinarias en moneda chilena que una persona, natural o jurídica, mantenga con un banco.
+De acuerdo con lo dispuesto por el Banco Central de Chile en el Capítulo III.G.3. del Compendio de Normas Financieras, los bancos podrán otorgar sobregiros en cuentas corrientes sin pacto previo por escrito, hasta por un monto equivalente a 30 Unidades de Fomento.
 
-Excepcionalmente, el límite de 30 Unidades de Fomento podrá sobrepasarse, cuando el exceso provenga de gastos por servicios prestados o pagados por el banco por cuenta del cliente, conforme a lo señalado en el numeral 4.1, título II, del Capítulo 2-2 de esta Recopilación.
+Sin embargo, a aquellos bancos que estén calificados por segunda vez consecutiva en categoría I según sus procedimientos de clasificación de cartera y mientras se mantengan en esa calificación, no se les aplicará dicha limitación, estando en consecuencia facultados para aceptar sobregiros sin pacto previo por montos superiores al indicado. En el caso que una institución así calificada deje de estar en esa calificación, deberá sujetarse al límite del equivalente de 30 Unidades de Fomento de que trata este número para la concesión de sobregiros en cuenta corriente, a contar del día hábil bancario siguiente a aquel en que esta Superintendencia le haya comunicado la nueva calificación.
 
-Naturalmente que el consentimiento de sobregiro sin pacto previo hasta por el límite de que se trata, no es un derecho del comitente y, por lo tanto, tampoco es una obligación del banco, sino un acto voluntario de éste.
+Para los efectos del cumplimiento de ese límite de hasta 30 Unidades de Fomento, se considerarán como un solo sobregiro la suma de los sobregiros no pactados de diferentes cuentas corrientes ordinarias en moneda chilena que una persona, natural o jurídica, mantenga con un banco.
 
-### 3. Sobregiros con pacto previo
+Excepcionalmente, el límite podrá sobrepasarse cuando el exceso provenga de gastos por servicios prestados o pagados por el banco por cuenta del cliente, conforme a lo señalado en el numeral 4.1, título II, del Capítulo 2-2 de esta Recopilación.
 
-Para permitir sobregiros cuya suma supere el equivalente de 30 Unidades de Fomento, los bancos deberán pactar previamente la concesión de tales créditos.
+3. Sobregiros pactados. Condiciones que debe cumplir el pacto.
 
 En el pacto que se lleve a efecto, deberán establecerse, a lo menos, las siguientes condiciones:
 
@@ -7169,8 +7167,6 @@ d) garantías que respaldan la operación; y,
 e) interés pactado y períodos en que se cobrará.
 
 Además el beneficiario de un crédito de esta naturaleza deberá suscribir un pagaré en favor de la entidad bancaria.
-
-La existencia de un sobregiro máximo pactado, no excluye la facultad de la entidad bancaria para otorgar a su comitente, adicionalmente, el sobregiro eventual de hasta 30 Unidades de Fomento, a que se refiere el N° 2 de estas normas.
 
 ### 4. Intereses
 
