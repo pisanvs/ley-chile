@@ -1,0 +1,3 @@
+Por resolución Nº 1.269, de 9 de julio de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 1.090 de 1991 y Nº 33 de 1994, ambas de esta Subsecretaría, que autorizaron a ALFREDO PEREZ OJEDA, para instalar y operar el centro de cultivo ubicado en río Quenuir, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 9 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
