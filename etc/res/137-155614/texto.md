@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD "ESPECIALIDADES MARINAS LTDA." PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 137 de 17 de Febrero de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad "Especialidades Marinas Ltda.", domiciliada en Santiago, para elaborar recursos hidrobiológicos en las líneas de fresco, precocido, congelado y ahumado en las instalaciones de la Sociedad Pescaysen Ltda., ubicada en Avenida José María Caro esquina de Cirujano Allende, Padín, Puerto Chacabuco, Provincia de Aysén, XI Región. Los recursos que emplear como materia prima son: Bonito, Cojinova del Sur, congrio colorado, congrio dorado, congrio negro, corvina, merluza común, merluza española, merluza de cola, mero, pejerrey de mar, raya, salmón del Pacifico, sierra, rollo, trucha arco iris, taca, almeja, chorito, choro zapato, macha, navajuela, ostión del Sur, centolla, centollón, jaiba y langostino de los canales, que deberá transportar en medios dotados de sistemas adecuados de mantención.
+
+Valparaíso, 17 de Febrero de 1986.- Subsecretario de Pesca.
