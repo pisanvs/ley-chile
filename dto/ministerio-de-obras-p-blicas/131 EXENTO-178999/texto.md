@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº131, de 21 de noviembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 19 y 23. Obra: Camino Ruta G-10-F, sector Cuesta La Dormida Kms. 0,00000 al 11,00000, que figuran a nombre de Danilo Vecetich Serey, rol de avalúo 65-29, Comuna de Til Til, superficies 1.021,90 M2 y 1.445,80 M2. La comisión de peritos, fijó con fecha 31 de julio de 2000, en la cantidad de $715.330, lote 19 y $1.012.060, lote 23. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
