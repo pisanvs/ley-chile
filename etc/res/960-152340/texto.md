@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA SALMAR LTDA. PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución No. 960 de 20 de Agosto de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Salmar Ltda., domiciliada en Santiago, Región Metropolitana, para instalar y operar una planta industrial ubicada en Patricio Lynch s/n., de Puerto Chacabuco, XI Región, en las líneas de elaboración de congelado, deshidratado y conservas, donde procesará los siguientes recursos hidrobiológicos: Congrio colorado, congrio dorado, congrio negro, mero, merluza común, merluza del Sur, merluza 3 aletas, merluza de cola, raya, tollo, pejerrey de mar, puye, marrajo o tiburón, ostión del Norte, ostión del Sur, cholga, lapa, almeja, caracol tegula, caracol locate, caracol trumulco, loco ostra, chorito, jaiba, centolla, centollón y erizo. La planta será abastecida por pescadores artesanales de la Región y por dos embarcaciones menores de su propiedad "Santa Cecilia" y "Santa Paola". Deróganse resoluciones No.
+
+96, de 05 de Febrero de 1986 y No. 902, de 24 de Noviembre de 1986, de esta Subsecretaría de Pesca, que autorizaron a operar a Sociedad Pesquera Salazar Limitada.
+
+Valparaíso, 20 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
