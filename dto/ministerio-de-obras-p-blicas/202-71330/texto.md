@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 202, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs 5, 10, 21, 21-A, 62, 65, 66 y 80, superficies 5.283, 7.503, 237, 786, 1.288, 541, 1.168 y 460 m2., respectivamente, roles de avalúos 9317-265, 9317-1, 9317-61, 9317-288, 9309-5, 4009-3 y 9260-5, comuna de Valparaíso, obra Proyecto Habilitación Nuevo Camino La Pólvora, Etapa I, sector Ruta 68, Acceso Sur a Valparaíso y se acordó precio de indemnización con sus propietarios Eugenia Barrales Donoso y otro, Santiago Marín Muñoz, Enrique Riquelme Fuentes, Félix Guerrero Figueroa, Juan Granados Astorga y Carlos González Ramírez, ascendente a las cantidades de $17.534.704, $31.485.176, $3.815.248, $5.244.760, $3.366.080 y $1.512.630.-
+
+Fiscal del Ministerio de Obras Públicas.
