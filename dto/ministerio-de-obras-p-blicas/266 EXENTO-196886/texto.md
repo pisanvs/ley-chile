@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 266 de fecha 22 de marzo del 2002, se expropió el lote de terreno Nº 390, superficie 147 m2, rol de avalúo Nº 33-230, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua-Las Cabras, Sector San Roberto-El Toco-Ruta 66, Km. 12,70000 a Km. 16,48000", VI Región y se acordó el valor de la indemnización con su propietaria María Yolanda Sánchez, ascendente a la cantidad de $1.781.450.-
+
+Fiscal del Ministerio de Obras Públicas.
