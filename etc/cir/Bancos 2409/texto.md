@@ -1646,17 +1646,23 @@ Las personas jurídicas que endosen cheques deben completar el endoso con la exp
 
 Los cheques que no cumplan con este requisito deberán protestarse por endoso incompleto, debido a que no se trata ya de un problema relacionado con la cláusula de endoso, comentada en el numeral 7.3. anterior, sino con la firma de este. En efecto, todo endoso debe ser firmado por quien lo extiende. La firma hecha por mandato de otro debe indicar esta circunstancia y por ello debe expresar que es "por poder de ... x.x. ...".
 
-7.6. Cancelación de los cheques cobrados por intermedio de la Cámara de Compensación.
+7.6. Firma de los endosos mediante facsímil.
+
+En concordancia con lo dispuesto en el D.S. N° 276, de 1991, del Ministerio de Justicia, las personas que endosen cheques a alguna institución financiera, pueden estampar su firma mediante timbres de goma o metálicos o mediante otros procedimientos mecánicos que impriman el facsímil de la firma. Para ese efecto, se entiende que son instituciones financieras todas aquellas entidades autorizadas por la ley para otorgar créditos.
+
+Lo anterior se refiere sólo a la posibilidad de prescindir de la firma manuscrita, debiéndose, en todo caso, cumplir con las demás menciones relativas al endoso.
+
+7.7. Cancelación de los cheques cobrados por intermedio de la Cámara de Compensación.
 
 De acuerdo con lo establecido en el párrafo a3) del número 9 del Reglamento de Cámara de Compensación, la institución que presenta a cobro los cheques debe estampar en el reverso el timbre de Cámara y en el anverso el timbre de caja. Estos requisitos son suficientes para proceder a su pago a través del canje y responsabiliza a la institución que presenta el documento, del último endoso que contiene.
 
-7.7. Endoso y cancelación de cheques depositados.
+7.8. Endoso y cancelación de cheques depositados.
 
 No existe inconveniente en que un banco reciba cheques girados en su contra, endosados en comisión de cobranza. Al respecto, esta Superintendencia ha sustentado siempre que una empresa bancaria puede asumir la doble calidad: la de comisionista para el cobro, con respecto al portador del documento y la de banco librado con respecto al girador del cheque. Ello tiene especial importancia cuando se trata de un cheque cruzado.
 
 El hecho de que un cheque que sea depositado en la misma oficina contra la cual está girado, se endose en vez de cancelarse, no faculta al banco para retenerlos fondos o postergar el cargo en la cuenta corriente del girador. En otros términos, no hay razón para que el banco trate de una manera diferente los cheques endosados en comisión de cobranza que se depositen, con respecto a aquéllos que son cancelados al depositarse.
 
-7.8. Cancelación por parte de personas que no saben firmar.
+7.9. Cancelación por parte de personas que no saben firmar.
 
 Si la persona que cobra un cheque exhibe su cédula de identidad, ello es suficiente prueba para identificarla. Ahora bien, para que efectúe la cancelación quien no sabe firmar, basta con que estampe su impresión digital en el anverso del documento, sin que sea procedente exigirle la testificación de personas o la firma a ruego, medidas que la ley exige cuando no se acredita identidad o para determinados actos solemnes.
 
@@ -5462,127 +5468,55 @@ magnéticos.
 
 4.1.1. Timbres de cancelación mecánica.
 
-Las instituciones financieras podrán utilizar timbres de cancelación mecánica de
-
-cheques siempre que la impresión no entorpezca la lectura de información
-
-esencial del documento cancelado o la lectura de la propia impresión del timbre
-
-en documentos microfilmados, cuando corresponda.
+Las instituciones financieras podrán utilizar timbres de cancelación mecánica de cheques siempre que la impresión no entorpezca la lectura de información esencial del documento cancelado o la lectura de la propia impresión del timbre en documentos microfilmados, cuando corresponda.
 
 4.1.2. Timbres manuales.
 
 Los timbres de cajero manuales deben tener las siguientes características:
 
-a) La placa de impresión debe ser de hasta 3,5 cm de diámetro o de largo,
+a) La placa de impresión debe ser de hasta 3,5 cm de diámetro o de largo, respectivamente, según sean de forma circular o rectangular, y los rasgos de tipos finos;
 
-respectivamente, según sean de forma circular o rectangular, y los rasgos de
+b) Deben ser metálicos, de goma o de otros materiales que cumplan con las especificaciones técnicas requeridas y con pañete interior para tinta. En todo caso deben asegurar una impresión nítida y durable mediante tintas de seguridad con secado instantáneo;
 
-tipos finos;
+d) Las tintas deben ser de buena calidad y de colores claros, excluyéndose el uso de azules oscuros, negros, rojos fuertes, etc.; y,
 
-b) Deben ser metálicos, de goma o de otros materiales que cumplan con las
-
-especificaciones técnicas requeridas y con pañete interior para tinta. En todo
-
-caso deben asegurar una impresión nítida y durable mediante tintas de seguridad
-
-con secado instantáneo;
-
-d) Las tintas deben ser de buena calidad y de colores claros, excluyéndose el
-
-uso de azules oscuros, negros, rojos fuertes, etc.; y,
-
-d) La aplicación del timbre de cajero debe hacerse al centro del cheque,
-
-recomendándose, en todo caso, no cubrir información esencial del documento.
+d) La aplicación del timbre de cajero debe hacerse al centro del cheque, recomendándose, en todo caso, no cubrir información esencial del documento.
 
 4.2. Timbres de Cámara Compensadora.
 
-Para la utilización del timbre de Cámara Compensadora a que se refiere el
-
-párrafo a3) del número 9 del título II del Reglamento de Cámara, incluido como
-
-anexo N° 1 del Capítulo 5-1 de esta Recopilación, las instituciones deben
-
-ceñirse a las siguientes instrucciones:
+Para la utilización del timbre de Cámara Compensadora a que se refiere el párrafo a3) del número 9 del título II del Reglamento de Cámara, incluido como anexo N° 1 del Capítulo 5-1 de esta Recopilación, las instituciones deben ceñirse a las siguientes instrucciones:
 
 4.2.1. Características del timbre.
 
-Los timbres de cámara, tanto de aplicación manual como mecánica, tendrán las
-
-siguientes dimensiones máximas:
+Los timbres de cámara, tanto de aplicación manual como mecánica, tendrán las siguientes dimensiones máximas:
 
 largo : 50 mm
 
 ancho : 50 mm
 
-Los rasgos de los timbres deben ser finos y de números vaciados y la calidad de
+Los rasgos de los timbres deben ser finos y de números vaciados y la calidad de la tinta y su color deben tener las mismas características indicadas para los timbres de los cajeros.
 
-la tinta y su color deben tener las mismas características indicadas para los
+La ubicación de la fecha, nombre de la institución y número de identificación que le ha sido asignado para la cámara, será como se señala en la figura N° 1 del Anexo N° 5 de este capítulo.
 
-timbres de los cajeros.
+Las entidades financieras pueden incorporar equipos de procesamiento automático de documentos, con máquinas que les impriman en su reverso los datos indispensables para la identificación de la entidad que presenta a canje el documento de que se trate, en remplazo del timbre de uso manual y mecánico descrito precedentemente.
 
-La ubicación de la fecha, nombre de la institución y número de identificación
-
-que le ha sido asignado para la cámara, será como se señala en la figura N° 1
-
-del Anexo N° 5 de este capítulo.
-
-Las entidades financieras pueden incorporar equipos de procesamiento automático
-
-de documentos, con máquinas que les impriman en su reverso los datos
-
-indispensables para la identificación de la entidad que presenta a canje el
-
-documento de que se trate, en remplazo del timbre de uso manual y mecánico
-
-descrito precedentemente.
-
-Las instituciones financieras deben incluir en los timbres de cámara el código
-
-de identificación que les corresponda, según lo señalado en el Anexo N° 6 del
-
-presente capítulo.
+Las instituciones financieras deben incluir en los timbres de cámara el código de identificación que les corresponda, según lo señalado en el Anexo N° 6 del presente capítulo.
 
 4.2.2. Fecha que debe consignarse en el timbre.
 
-La fecha que debe consignar el timbre de cámara estampado en los documentos que
-
-se presenten a cobro por intermedio de la Cámara Compensadora debe corresponder
-
-a aquella en que el documento es recibido en sus cajas por la entidad que lo
-
-presenta a cobro, salvo que se trate de documentas recibidos en horario
-
-especial, los cuales llevarán el timbre de cámara con la fecha del día hábil
-
-bancario siguiente.
+La fecha que debe consignar el timbre de cámara estampado en los documentos que se presenten a cobro por intermedio de la Cámara Compensadora debe corresponder a aquella en que el documento es recibido en sus cajas por la entidad que lo presenta a cobro, salvo que se trate de documentas recibidos en horario especial, los cuales llevarán el timbre de cámara con la fecha del día hábil bancario siguiente.
 
 4.3. Timbres protectores.
 
-Las instituciones que utilicen timbres protectores para imprimir y resguardar el
+Las instituciones que utilicen timbres protectores para imprimir y resguardar el valor del documento, procurarán colocarlos de manera que no interfieran con los demás datos del documento.
 
-valor del documento, procurarán colocarlos de manera que no interfieran con los
-
-demás datos del documento.
-
-Los timbres de protección de firmas (timbres secos o de presión) se colocarán
-
-sobre las firmas de manera que no ocupen ninguna parte de la franja inferior de
-
-16 mm que debe quedar totalmente libre para la impresión de los caracteres
-
-magnéticos.
+Los timbres de protección de firmas (timbres secos o de presión) se colocarán sobre las firmas de manera que no ocupen ninguna parte de la franja inferior de 16 mm que debe quedar totalmente libre para la impresión de los caracteres magnéticos.
 
 4.4. Timbres de endoso de entidades financieras.
 
-El endoso de cheques de otras plazas que las empresas financieras entreguen en
+El endoso de cheques de otras plazas que las empresas financieras entreguen en depósito, debe hacerse de acuerdo a las siguientes normas:
 
-depósito, debe hacerse de acuerdo a las siguientes normas:
-
-a) Aplicación en el reverso del cheque de un timbre rectangular de 50 mm por 30
-
-mm que contendrá la siguiente leyenda:
+a) Aplicación en el reverso del cheque de un timbre rectangular de 50 mm por 30 mm que contendrá la siguiente leyenda:
 
 PARA DEPOSITAR EN CUENTA CORRIENTE
 
@@ -5592,23 +5526,9 @@ NOMBRE DE LA INSTITUCION
 
 PLAZA
 
-b) Este timbre debe ser siempre estampado por la entidad financiera en los
+b) Este timbre debe ser siempre estampado por la entidad financiera en los cheques de otras plazas que deposite en una cuenta corriente bancaria, ya que será la única forma de distinguirlos de los documentos que provienen de la Cámara de Compensación; y,
 
-cheques de otras plazas que deposite en una cuenta corriente bancaria, ya que
-
-será la única forma de distinguirlos de los documentos que provienen de la
-
-Cámara de Compensación; y,
-
-c) Los cheques depositados con este timbre no necesitan de endoso de la empresa
-
-depositante de acuerdo a lo dispuesto en el artículo 655, inciso 20 del Código
-
-de Comercio. El documento timbrado se entiende endosado para todos los efectos
-
-legales y la empresa que lo haya presentado a cobro queda responsable del último
-
-endoso que contenga el documento.
+c) El timbre de que se trata deberá contener además el facsímil de la firma del o de los apoderados de la entidad depositante, según lo previsto en el D.S. N° 276, de 1991, del Ministerio de Justicia, salvo que se opte por estamparla en forma manuscrita.
 
 ANEXO N° 1
 
