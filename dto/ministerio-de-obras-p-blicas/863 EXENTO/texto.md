@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº863, de 26 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 53, 57, 69 y 68-C, para la obra Camino Ruta D-597, Montepatria-Carén, sector Juntas- Carén, Tramo Km. 8.260,00 al 30.065,19, que figuran a nombre de Alucema Alucema Domingo, Rojas Rojas José, Cortés Cortés Isain I. y Vergara Vergara Segundino, roles de avalúos 230-18, 235-10, 235-1 y 235-2, comuna de Montepatria, IV Región, superficies 130, 1.161, 318 y 630 M2. La Comisión de Peritos, fijó con fecha 10 de marzo de 1999, en la cantidad de $248.000, lote 53;
+
+$940.400, lote 57 y $828.500, lote 69 y con fecha 2 de enero de 2000, en la cantidad de $966.400, lote 68-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
