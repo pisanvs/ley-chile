@@ -1,0 +1,3 @@
+Por decreto MOP Nº323 de fecha 28 de febrero del 2001, se expropió el lote de terreno Nº1-A, superficie 7.225,0, Rol de avalúo 625-8 comuna de Tomé, para la obra "Camino Lirquén-Tomé, Sector Variante Cuesta Caracoles, Kms 20,40000 al 23,48400" y se acordó el valor de indemnización con su propietario Forestal Castor S.A., ascendente a la cantidad de $6.653.121.
+
+Fiscal del Ministerio de Obras Públicas.
