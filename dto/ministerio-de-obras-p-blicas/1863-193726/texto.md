@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.863 de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº33, superficie 1.500 m2, rol de avalúo 518-58, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo I, Km. 0,00000 al 3,95000" y se acordó el valor de indemnización con su propietario Jorge Uarac Kuncar, ascendente a la cantidad de $318.300.
+
+- Fiscal del Ministerio de Obras Públicas.
