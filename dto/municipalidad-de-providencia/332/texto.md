@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION DE TERRENO QUE INDICA
+
+Alcalde Subrogante de la I. Municipalidad de Providencia, mediante Decreto Alcaldicio No. 332, de 12 de Febrero de 1987, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976 y Decretos Leyes 1.289, 2.186 y 3.464; de inmueble ubicado en calle Montecarlo No. 82, Rol de Avalúos No. 1988, de propiedad del Servicio de Vivienda y Urbanización Metropolitano, para la prolongación de calle Monitor Araucano. Deslindes parte expropiada: al Norte, 132,90 mts. resto de la propiedad que se expropia; al Sur, 130,50 mts. Rol No. 198-7; al Oriente, 18 mts. calle Montecarlo, y al Poniente, 30,50 mts. propiedad de la Congregación Salesiana. Indemnización provisional: $ 7.828.500.- fijada por la Comisión integrada por señores Ramón Undurraga Montes, René Ureta Köster y Luis Rojas Quezada, según informe de fecha 23 de Diciembre de 1986, pagadera contado.
+
+Jorge O. Herrera Ramírez.- Alcalde Subrogante. Priscilla Doerr Pairoa, Secretario Abogado Municipal Subrogante.
