@@ -1,0 +1,3 @@
+Por resolución Nº 985, de 13 de julio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la resolución Nº168 de 1997, de esta Subsecretaría, que autorizó a ALIMENTOS MARINOS S.A. para realizar actividades pesqueras extractivas con la nave ''Santa Irene'', sólo en cuanto a las unidades de pesquería señaladas en su numeral 2 letra a), Anchoveta y Sardina española en el litoral de la III y IV Regiones, por no haber operado sobre dichas unidades de pesquería, de conformidad a lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 13 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
