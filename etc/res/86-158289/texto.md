@@ -1,0 +1,3 @@
+Por resolución No. 86, de 9 de Julio de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones IX Región, se autoriza a don Salvador Córdova Córdova y don Dagoberto Vidal Lagos, para efectuar servicio urbano de taxi colectivo en la ciudad de Temuco, Línea No. 14. "Amanecer Centro - Estación", creada por resolución No. 31, del 21 de Junio de 1984, de esta Secretaría Regional.
+
+Temuco, 9 de Julio de 1985.- Oscar Córdova Jiménez, Secretario Regional Ministerial de Transportes y Telecomunicaciones IX Región.
