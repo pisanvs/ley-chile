@@ -9910,7 +9910,43 @@ d) La cartera adquirida a instituciones financieras en liquidación debe registr
 
 e) Para el tratamiento contable de la cartera adquirida de la ANAP, las instituciones deben ceñirse a las normas de la Circular N° 2.472-849 de 11 de agosto de 1989, modificada por Circular N° 2.496-867 de 13 de noviembre de 1989, o bien, cuando sea el caso, a las instrucciones específicas que hubiere impartido esta Superintendencia.
 
-f) Por último, en caso de que se adquieran créditos de la cartera de la Corporación de Fomento de la Producción deben aplicarse también las instrucciones del Capítulo 8-7 antes señalado.
+f) SUPRIMIDA.
+
+### 6. Créditos adquiridos de CORFO
+
+Los créditos adquiridos a la Corporación de Fomento de la Producción (CORFO), se registrarán aplicando las instrucciones del Capítulo 8-7. Sin embargo, en el caso de créditos que se adquieran mediante adjudicación en licitación de lotes que comprendan un número importante de operaciones y el precio de adjudicación resulte considerablemente inferior a la suma del valor par de los créditos que conforman el lote adjudicado, podrá aplicarse el siguiente procedimiento:
+
+6.1. Contabilización del valor pagado.
+
+El precio que se pague por el conjunto de los créditos que se adquieran en las licitaciones que realice la Corporación de Fomento de la Producción, se registrará, como un solo importe, en la cuenta "Pagos créditos adquiridos de CORFO", de la partida 1230, en tanto que los valores de cada uno de los créditos que conforman la cartera adquirida, se registrarán en cuentas de orden, como se indica en el numeral 6.3.
+
+6.2. Reajustes e intereses.
+
+Sobre ese importe registrado en el activo se podrán aplicar reajustes de acuerdo con la variación del valor de la Unidad de Fomento y un interés máximo equivalente a la tasa TIP de captación para operaciones reajustables entre 90 y 365 días, informada por el Banco Central de Chile, más dos puntos porcentuales.
+
+Dichos intereses y reajustes serán registrados en las respectivas cuentas complementarias con abono a las cuentas de resultados "Intereses ganados pagos créditos adquiridos de CORFO" y "Reajustes ganados pagos créditos adquiridos de CORFO", de la partida 7105 y 7305, respectivamente.
+
+El devengo de intereses y reajustes que las instituciones financieras efectúen sobre el valor registrado en el activo, será con prescindencia de las tasas de interés y de los reajustes que pudieran estar pactados en los respectivos préstamos registrados en cuentas de orden.
+
+6.3. Registro de los créditos adquiridos.
+
+El valor de los créditos adquiridos se registrará en la cuenta de orden "Créditos adquiridos de CORFO", de la partida 9153. Dicha cuenta se ajustará como consecuencia de los pagos recibidos y por el devengo de reajustes e intereses, de acuerdo con las condiciones de cada crédito, independiente de los registros que deban hacerse, cuando corresponda, en las cuentas de activo anteriormente señaladas.
+
+6.4. Pagos efectuados por los deudores.
+
+Los montos recibidos por el pago de los deudores se imputarán, en primer lugar, a los intereses registrados en la respectiva cuenta complementaria y el saldo, cuando corresponda, se aplicará sobre el capital registrado en la cuenta "Pagos créditos adquiridos a CORFO" y su respectivo reajuste. Una vez extinguido el importe registrado en el activo, dichos pagos serán abonados a la cuenta de ingresos que corresponda de la partida 7910.
+
+6.5. Importes vencidos y renegociaciones.
+
+Los importes vencidos de estos créditos, como asimismo las renegociaciones o condonaciones de todo o parte de estas operaciones, no producirán efecto alguno en los saldos del activo, en tanto no afecten su recuperación total, pero sí deberán modificarse en la forma que corresponda, los importes registrados en cuentas de orden.
+
+6.6. Clasificación del activo.
+
+Para efectos de clasificación de la cartera, se considerará el monto registrado en el activo, junto con sus respectivos reajustes e intereses por cobrar, como si fuese un solo deudor o crédito. Este monto podrá ser clasificado en categoría "A", salvo que posteriormente se observe un deterioro ostensible en la cobranza que haga presumir que dicho saldo, con sus intereses y reajustes devengados, no alcanzará a ser cubierto con las recuperaciones de los créditos adquiridos, dentro de los plazos de pago de éstos.
+
+6.7. límites de crédito.
+
+Los créditos de que se trata, deben ser considerados individualmente, por el importe registrado en cuentas de orden para los efectos del cumplimiento de los límites de crédito a que se refiere el artículo 84 de la Ley General de Bancos.
 
 ### VI. DISPOSICIONES TRANSITORIAS
 
