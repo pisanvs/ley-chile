@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.891, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 115-1A y 115-1B, superficies 395,0 m2. y 150,0 m2., rol de avalúo 251-7, comuna de Lautaro, para la obra ''Concesión Internacional Ruta 5. Tramo: Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietaria Sociedad Maestranza Alemana Limitada, ascendente a la cantidad de $3.258.030.
+
+- Fiscal del Ministerio de Obras Públicas.
