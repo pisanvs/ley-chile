@@ -1,0 +1,3 @@
+Por decreto MOP Nº551, de 28 de febrero del 2000, se expropió el lote de terreno Nº1, superficie 3.402 m2., rol de avalúo 504-19, comuna de Linares, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietaria Congregación de las Hermanas de la Providencia de Chile, ascendente a la cantidad de $43.937.096.-
+
+Fiscal del Ministerio de Obras Públicas.
