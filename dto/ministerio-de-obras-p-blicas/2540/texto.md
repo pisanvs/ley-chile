@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.540, de 30 de noviembre de 1998, se expropió el lote terreno Nº26, superficie 203 m², rol de avalúo 12047-8, comuna de San Pedro de la Paz, para la obra Reposición Puente Bío Bío Antiguo, Ruta 160 Concepción San Pedro, Sector San Pedro y se acordó precio de la indemnización con su propietario Juvenal Arias Gómez, ascendente a la cantidad de $28.909.242.-
+
+Fiscal del Ministerio de Obras Públicas.
