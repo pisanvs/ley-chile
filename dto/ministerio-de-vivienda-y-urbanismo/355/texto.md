@@ -134,7 +134,7 @@ De la Organización
 
 #### Artículo 12°
 
-El Serviu estará constituido por un Director, que será el Jefe Superior del Servicio; un Consejo Asesor y los Departamentos Técnicos de Construcciones y Urbanización, de Proyectos de Ciudad, de Operaciones Habitacionales, de Finanzas, Jurídica, de Administración, de Programación Física, Control y Gestión de Suelo, y de Contraloría Interna Regional.
+El SERVIU estará constituido por un Director, que será el Jefe Superior del Servicio, un Consejo Asesor y las Unidades Técnicas de Construcciones y Urbanización, de Operaciones Habitacionales, de Finanzas, Jurídica, de Administración, de Programación Física y Control, y de Contraloría Interna Regional.
 
 #### Artículo 13°
 
@@ -150,11 +150,11 @@ La superior conducción y administración del SERVIU corresponderá a su Directo
 
 #### Artículo 15°
 
-El cargo de Director del SERVIU será de la confianza exclusiva del Presidente de la República. Se relacionará con el Ministerio de Vivienda y Urbanismo y con el Intendente a través de la Secretaría Ministerial respectiva. El Director será el representante legal, judicial y extrajudicial del Servicio, sin perjuicio de lo cual, en las situaciones previstas por el artículo 11° de la ley 16.741, sobre poblaciones en situación irregular, la representación legal del Servicio corresponderá al Jefe del Departamento Jurídico.
+El cargo de Director del SERVIU será de la confianza exclusiva del Presidente de la República. Se relacionará con el Ministerio de Vivienda y Urbanismo y con el Intendente a través de la Secretaría Ministerial respectiva. El Director será el representante legal, judicial y extrajudicial del Servicio, sin perjuicio de lo cual, en las situaciones previstas por el artículo 11° de la ley 16.741, sobre poblaciones en situación irregular, la representación legal del Servicio corresponderá al Jefe de la Unidad Jurídica.
 
 #### Artículo 16°
 
-El Director será subrogado, en caso de ausencia o impedimento temporal, por el Jefe del Departamento de Programación Física, Control y Gestión de Suelo, por el Jefe del Departamento Técnico de Construcciones y Urbanización y por el Jefe del Departamento Técnico de Proyectos de Ciudad, en ese orden, salvo que el Director establezca un orden de subrogación distinto mediante resolución.
+El Director será subrogado, en caso de ausencia o impedimento temporal, por el Jefe de la, Unidad de Programación Física y Control, y por el Jefe de la Unidad Técnica de Construcciones y Urbanización, en ese orden.
 
 En la Región Metropolitana el Director del Serviu Metropolitano, será subrogado en primer lugar por el Subdirector de Operaciones Habitacionales y en segundo lugar por el Subdirector de Pavimentación y Obras Viales.
 
@@ -196,13 +196,11 @@ n) Delegar la representación del Servicio y sus facultades en los Subdirectores
 
 Corresponderán al Director, en materia de personal, las siguientes facultades:
 
-a) Proveer cargos en la calidad jurídica de contrata y disponer la prórroga de estos contratos, debiendo ajustarse para ello al marco presupuestario y a la dotación máxima establecidos en la Ley de Presupuestos del Sector Público; aceptar renuncias a cargos de contrata y poner término a estos contratos cuando en ellos se hubiere incorporado una cláusula en que se establezca que el vínculo perdurará sólo en tanto sean necesarios sus servicios u otra de similar tenor.
+a) Contratar, previa autorización del Ministerio de Vivienda y Urbanismo y aprobación del Ministerio de Hacienda, obreros a jornal y funcionarios a contrata, de acuerdo al cupo que le corresponda dentro del Programa Complementario de la Planta Nacional;
 
-Asimismo, podrá designar suplentes siempre que se trate de casos de licencia médica, no pudiendo hacerlo si el nombramiento de suplente se refiere a un cargo directivo.
+b) Emitir los informes que el Ministerio requiera con el fin de proceder a la provisión de vacantes, ascensos, permutas o destinaciones;
 
-b) Evacuar los informes que el Ministerio de Vivienda y Urbanismo requiera con el fin de disponer ascensos, destinaciones o permutas.
-
-c) Ordenar cometidos funcionarios y comisiones de servicios;
+e) Ordenar cometidos funcionarios y comisiones de servicios;
 
 d) Cursar planillas, otorgar anticipos y liquidar los viáticos que originen los cometidos y comisiones señalados en la letra anterior;
 
@@ -210,17 +208,15 @@ e) Reconocer cargas familiares;
 
 f) Dar curso a licencias médicas y otorgar los permisos con goce de remuneraciones que autoriza la legislación vigente;
 
-g) Otorgar permisos, con o sin goce de remuneraciones, en los términos establecidos por el Estatuto Administrativo.
+g) Otorgar permisos sin goce de remuneraciones hasta por 30 días;
 
 h) Otorgar, anticipar y postergar feriados legales;
 
-i) Ordenar la instrucción de investigaciones sumarias o sumarios cuando corresponda y sobreseer o sancionar en ellos con las medidas administrativas del caso, con excepción de la "Destitución" cuya aplicación es privativa de la autoridad facultada para hacer el nombramiento.
+i) Ordenar la instrucción de las investigaciones y sumarios administrativos que procedan y sobreseer o aplicar las sanciones disciplinarias que correspondan, con excepción de las contenidas en las letras e), f) y g) del artículo 177° del decreto con fuerza de ley 338, de 1960, cuyo ejercicio y aplicación sólo corresponderá al Ministerio;
 
 j) Calificar al personal, sin perjuicio de las instancias que determine el reglamento que se dicte al efecto, y
 
-k) En general, realizar todas las actuaciones que sean necesarias en materia de personal, limitadas a la dotación máxima de funcionarios y al presupuesto que para cada Servicio Regional de Vivienda y Urbanización determine la Ley de Presupuestos del Sector Público y siempre que con ello no invada el campo de las facultades privativas del Ministerio de Vivienda y Urbanismo en su calidad de administrador de la Planta Nacional de Cargos de dicho Ministerio, de sus Secretarías Ministeriales y de los Servicios Regionales de Vivienda y Urbanización, como son, sin que la enunciación sea taxativa, los nombramientos no incluidos en la letra a) de este artículo, los ascensos del personal, su destinación desde un Servicio a otro y las permutas.
-
-> **Nota.** El Art. transitorio del DTO 158, Vivienda, publicado el 08.02.2003, dispuso que la modificación del presente artículo rige a contar del 1º de noviembre de 2002.
+k) En general, realizar todas las actuaciones en materia de personal que no impliquen el ejercicio de facultades privativas del Ministerio, como ser los nombramientos, la aceptación de renuncias, la declaración de vacancia, los traslados, las destituciones, las permutas, las destinaciones u otras, sin que la enumeración sea taxativa.
 
 #### Artículo 19°
 
@@ -240,19 +236,19 @@ El Director, por resolución, organizará el funcionamiento del Consejo, debiend
 
 ### Párrafo 4°
 
-Del Departamento Técnico de Construcciones
+De la Unidad Técnica de Construcciones y
 
-y Urbanización
+Urbanización
 
 #### Artículo 22°
 
-El Departamento Técnico de Construcciones y Urbanización es el encargado de efectuar los estudios para la adquisición de terrenos para programas habitacionales, de su urbanización o remodelación, y de proyectar y construir, efectuando para ello los estudios catastrales, de arquitectura, de ingeniería y de costos inherentes a las obras, fiscalizando su ejecución. Todas las obras deberán estar incluidas en los planes y programas aprobados por el Ministerio y contar con financiamiento específico para su ejecución.
+La Unidad Técnica de Construcciones y Urbanización es la encargada de efectuar los estudios para la adquisición de terrenos, de su urbanización o remodelación, y de proyectar y construir, efectuando para ello los estudios catastrales, de arquitectura, de ingeniería y de costos inherentes a las obras, fiscalizando su ejecución. Todas las obras deberán estar incluidas en los planes y programas aprobados por el Ministerio y contar con financiamiento específico para su ejecución.
 
 #### Artículo 23°
 
-Serán funciones y atribuciones de este Departamento:
+Serán funciones y atribuciones de esta Unidad:
 
-a) Efectuar los estudios técnicos para la adquisición de los terrenos necesarios para los programas habitacionales que deba ejecutar el Servicio;
+a) Efectuar los estudios para la adquisición de los terrenos necesarios para los programas que deba ejecutar el Servicio;
 
 b) Proyectar y contruir, por cuenta propia o de terceros, "viviendas económicas", campesinas, villorios agrícolas, áreas verdes y parques industriales, locales comerciales, equipamiento comunitario y edificios escolares o destinados a servicios públicos;
 
@@ -260,79 +256,49 @@ c) Ejecutar en las poblaciones que construya o en las ya construidas por sus ant
 
 d) Estudiar, proyectar, reparar y construir edificios públicos con fondos fiscales, destinados a servir a poblaciones, barrios o vecindarios;
 
-e) Confeccionar planos, tipos o modelos de "viviendas económicas", mínimas, progresivas, sociales, etc., y planos tipos del equipamiento comunitario que corresponda, con sus respectivas especificaciones y cálculos, con el fin de que se proporcionen en forma permanente a los interesados que lo soliciten, fijándoles precios accesibles a los grupos de más bajos ingresos;
+e) Estudiar, proyectar, reparar, construir y conservar edificios fiscales, semifiscales y de administración autónoma que se les encomiende por mandato remunerado, especialmente para los fines señalados en la letra precedente;
 
-f) Ejecutar los proyectos de urbanización y equipamiento comunitario en proyectos habitacionales;
+f) Confeccionar planos, tipos o modelos de "viviendas económicas", mínimas, progresivas, sociales, etc., y planos tipos del equipamiento comunitario que corresponda, con sus respectivas especificaciones y cálculos, con el fin de que se proporcionen en forma permanente a los interesados que lo soliciten, fijándoles precios accesibles a los grupos de más bajos ingresos;
 
-g) Remodelar y subdividir, por cuenta del Servicio o de terceros, terrenos urbanos para la ejecución de planes habitacionales;
+g) Ejecutar los proyectos de urbanización, mejoramiento urbano y equipamiento comunitario;
 
-h) Proponer a la Secretaría Ministerial de Vivienda y Urbanismo respectiva las modificaciones a la normativa urbanística a que hace referencia el artículo 50 de la Ley General de Urbanismo y Construcciones y que se estimen necesarias para los programas habitacionales que le corresponda ejecutar;
+h) Remodelar y subdividir, por cuenta del Servicio o de terceros, terrenos urbanos para la ejecución de planes habitacionales, de equipamiento comunitario y de desarrollo urbano;
 
-i) Supervigilar y autorizar el giro de los préstamos que conceda el Servicio, conforme al avance de obras, cuando proceda;
+i) Proponer a la Secretaría Ministerial de Vivienda y Urbanismo respectiva las modificaciones a los Planes Reguladores que se estimen necesarias para los programas que le corresponda ejecutar;
 
-j) Autorizar el pago de honorarios correspondientes a estudios o trabajos técnicos encomendados a terceros, tales como levantamiento topográfico, pozos de reconocimiento, mecánica de suelos, etc.;
+j) Supervigilar y autorizar el giro de los préstamos que conceda el Servicio, conforme al avance de obras, cuando proceda;
 
-k) Mantener la Biblioteca Técnica del Servicio, y
+k) Efectuar los estudios técnicos y tasaciones, indispensables para fijar valores de transferencia de terrenos que se hayan urbanizado o de inmuebles que se construyan o hayan construido, confeccionado, cuando procediere, las tablas de valores correspondientes;
 
-l) Obtener, cuando proceda, las autorizaciones y recepciones municipales y de los servicios públicos que sean necesarias a las obras que se ejecuten.
+l) Proponer a quienes deban integrar las comisiones de hombres buenos de entre los tasadores nominados por decreto, informando sobre la conveniencia o inconveniencia de reclamar de las tasaciones practicadas por dichas comisiones en los juicios de regulación de la indemnización que corresponda a una expropiación;
 
-### Párrafo 4° — b
+m) Autorizar el pago de honorarios correspondientes a estudios o trabajos técnicos encomendados a terceros, tales como levantamiento topográfico, pozos de reconocimiento, mecánica de suelos, etc.;
 
-Del Departamento Técnico de Proyectos de Ciudad
+n) Mantener la Biblioteca Técnica del Servicio, y ñ) Obtener, cuando proceda, las autorizaciones y recepciones municipales y de los servicios públicos que sean necesarias a las obras que se ejecuten.
 
 #### Artículo 24°
 
-El Departamento Técnico de Proyectos de Ciudad es el encargado de efectuar los estudios para la adquisición de terrenos necesarios para la realización de proyectos de obras de infraestructura urbana, de su urbanización o remodelación, de proyectar y construir dichas obras, efectuando para ello los estudios de arquitectura, de ingeniería y de costos inherentes a las mismas y fiscalizando su ejecución. Todas las obras deberán estar incluidas en los planes y programas de desarrollo y mejoramiento urbano aprobados por el Ministerio y contar con financiamiento específico para su ejecución.
+Corresponderá también a esta Unidad estudiar y proponer la asociación con municipalidades y con entidades públicas y privadas, para la realización de proyectos de desarrollo y mejoramiento urbano, fijando plazos de duración de las mismas, condiciones, aportes y demás requisitos necesarios para el normal funcionamiento de estas sociedades.
 
-Serán funciones y atribuciones de este Departamento:
+Las sociedades mixtas constituidas de acuerdo al inciso anterior sólo podrán vender en pública subasta terrenos adquiridos al sector cuando éste, a su vez, los hubiere adquirido por expropiación, sin perjuicio de lo dispuesto en los incisos 3° y 4° del artículo 51° de la ley 13.391, sustituido por el artículo único del decreto ley 1.523, de 1976.
 
-a) Asesorar, informar, intervenir y consultar, a solicitud del Director, en todo lo relativo a la gestión de la inversión en obras de infraestructura urbana en la región;
+Las sociedades así constituidas ni podrán integrar nuevas sociedades mixtas no asociarse con particulares. Esta prohibición deberá incorporarse siempre a sus estatutos sociales.
 
-b) En materias de inversión en obras de infraestructura urbana, asesorar y proveer información a la Secretaría Ministerial para la elaboración del presupuesto anual de inversión, los programas financieros asociados y sus prioridades;
-
-c) Mantener una permanente relación con otros departamentos del Servicio, con la Secretaría Ministerial, con el Minvu y con otros organismos o entidades del Estado en la realización de las gestiones necesarias para la concepción, formulación y ejecución de los programas de obras y proyectos de infraestructura urbana;
-
-d) Designar un profesional encargado de coordinar las acciones entre organismos regionales y del nivel central para el desarrollo de los proyectos urbanos en la región;
-
-e) Proveer a la Secretaría Ministerial la información requerida para la formulación y recomendación de iniciativas de obras de infraestructura urbana;
-
-f) Gestionar la identificación de recursos en el presupuesto del Servicio que permitan la ejecución de la inversión asociada a los programas de infraestructura urbana;
-
-g) Redactar y preparar bases de licitación y términos de referencia para la contratación de servicios asociados a la implementación de planes y programas de infraestructura urbana, integrando a sus miembros en las comisiones de evaluación y técnicas correspondientes;
-
-h) Evaluar e inspeccionar obras de vialidad, mejoramiento urbano y equipamiento urbano de entidades públicas y privadas;
-
-i) Realizar reportes de avance físico y financiero de la cartera de proyectos de inversión en programas de obras y proyectos de infraestructura urbana;
-
-j) Llevar a cabo la formulación de presupuestos y cronogramas asociados al avance físico y financiero de los programas de obras y proyectos de infraestructura urbana y la supervisión de su cumplimiento;
-
-k) Obtener todas aquellas autorizaciones y realizar gestiones administrativas necesarias para la correcta ejecución de los estudios, diseños y obras asociados a programas de obras de infraestructura urbana;
-
-l) Efectuar los estudios técnicos y tasaciones indispensables para fijar valores de transferencia de terrenos cuya adquisición o expropiación sea necesaria para emplazamiento de proyectos de obras de infraestructura urbana, así como subdividir estos terrenos, por cuenta del Servicio o de terceros;
-
-m) Proponer a la Secretaría Ministerial de Vivienda y Urbanismo las modificaciones a la normativa urbanística a que hace referencia el artículo 50 de la Ley General de Urbanismo y Construcciones y que se estimen necesarias para los programas de obras urbanas que le corresponda ejecutar;
-
-n) Estudiar y proponer la asociación con municipalidades y otras entidades públicas y privadas para la realización de proyectos de desarrollo y mejoramiento urbano, fijando plazos de duración de las mismas, condiciones, aportes y demás requisitos necesarios para el normal funcionamiento de estas sociedades. Las sociedades mixtas así constituidas sólo podrán vender en pública subasta terrenos adquiridos al Sector cuando éste, a su vez, los hubiera adquirido por expropiación, sin perjuicio de lo dispuesto en los incisos tercero y cuarto del artículo 51º de la ley Nº16.391. Estas sociedades no podrán integrar nuevas sociedades mixtas, ni asociarse con particulares, prohibición que deberá incorporarse siempre a sus estatutos sociales.
-
-ñ) Proyectar, construir o reparar edificios fiscales, semifiscales y de administración autónoma que se le encomiende por mandato;
-
-o) Informar a reparticiones públicas respecto al estado o situación de sus iniciativas dentro del servicio;
-
-p) Colaborar en las funciones de supervigilancia que le corresponden a la Secretaría Ministerial de Vivienda y Urbanismo.
+.
 
 ### Párrafo 5°
 
-Del Departamento de Operaciones Habitacionales
+De la Unidad de Operaciones Habitacionales
 
 #### Artículo 25°
 
-Al Departamento de Operaciones Habitacionales le corresponde esencialmente efectuar todas las gestiones referentes a postulación y asignación de viviendas o sitios, con estricta sujeción a la prioridad obtenida por los interesados, radicar y erradicar pobladores, vender, arrendar o ceder en comodato los inmuebles construidos o urbanizados por el Servicio o confiados a su administración; conceder préstamos y fijar los dividendos o rentas que se adeuden como consecuencia de lo anterior.
+A la Unidad de Operaciones Habitacionales le corresponde esencialmente efectuar todas las gestiones referentes a postulación y asignación de viviendas o sitios, con estricta sujeción a la prioridad obtenida por los interesados, radicar y erradicar pobladores, vender, arrendar o ceder en comodato los inmuebles construidos o urbanizados por el Servicio o confiados a su administración; conceder préstamos y fijar los dividendos o rentas que se adeuden como consecuencia de lo anterior.
 
 Le corresponderá, asimismo, atender el sistema de postulación a créditos para Cooperativas de Vivienda.
 
 #### Artículo 26°
 
-Para cumplir los objetivos señalados en el artículo precedente, este Departamento tendrá las siguientes funciones y atribuciones en materia de inmuebles:
+Para cumplir los objetivos señalados en el artículo precedente, esta Unidad tendrá las siguientes funciones y atribuciones en materia de inmuebles:
 
 a) Distribuir, antes del término de las obras y de acuerdo al programa entregado por la Secretaría Ministerial respectiva, los inmuebles de todo tipo que forman cada conjunto habitacional que se construya, singularizando los inmuebles que habrán de asignarse a postulantes, las reservas, ventas, comodatos, arriendos y, en general, cualquier otro tipo de compromisos contraídos por el SERVIU con entes públicos o privados;
 
@@ -360,7 +326,7 @@ l) Asignar los sitios y otorgar los títulos de dominio en aquellos loteos o sub
 
 #### Artículo 27°
 
-Este Departamento deberá intervenir en el otorgamiento, conforme a las políticas habitacionales y financieras ministeriales, de los siguientes tipos de préstamos que podrán operar cuando se cuente con financiamiento suficiente:
+Esta Unidad deberá intervenir en el otorgamiento, conforme a las políticas habitacionales y financieras ministeriales, de los siguientes tipos de préstamos que podrán operar cuando se cuente con financiamiento suficiente:
 
 a) Para la construcción o adquisición de "viviendas económicas";
 
@@ -390,17 +356,17 @@ El Departamento de Operaciones Habitacionales será competente para realizar tod
 
 El Departamento de Operaciones Habitacionales deberá calificar, previo los informes técnicos y jurídicos pertinentes, las garantías que se ofrezcan al Servicio, en relación a los préstamos que otorgue, recomendando, una vez constituidos, los anticipos en dinero a los mutuarios y el giro a aplicación de las "cuotas de ahorro para la vivienda" que ellos hubiesen depositado.
 
-### Párrafo 6°
+### Párrafo 3°
 
-Del Departamento de Finanzas
+De la Unidad de Finanzas
 
 #### Artículo 31°
 
-El Departamento de Finanzas es el llamado a velar por el cumplimiento de la planificación y gestión financiera del Servicio, llevando un registro contable ordenado y comprobado de todas y cada una de las operaciones que realice, cualquiera sea su origen, dentro de una clasificación adecuada, capaz de adaptarse a las necesidades de verificación e información expedita.
+La Unidad de Finanzas es la llamada a velar por el cumplimiento de la planificación y gestión financiera del Servicio, llevando un registro contable ordenado y comprobado de todas y cada una de las operaciones que realice, cualquiera sea su origen, dentro de una clasificación adecuada, capaz de adaptarse a las necesidades de verificación e información expedita.
 
 #### Artículo 32°
 
-Serán funciones y atribuciones de este Departamento las que a continuación se señalan:
+Serán funciones y atribuciones de este Unidad las que a continuación se señalan:
 
 a) Participar, proporcionando los antecedentes y estudios pertinentes, en la confección del anteproyecto anual de presupuesto corriente y de capital;
 
@@ -428,7 +394,7 @@ l) Conciliar las cuentas corrientes bancarias y mantener un control permanente d
 
 m) Elaborar el Balance General, el Balance Presupuestario y preparar el análisis de cuentas;
 
-n) Pagar las remuneraciones a los funcionarios del Servicio conforme a las planillas confeccionadas por el Departamento de Administración, sin perjuicio que se implanten sistemas generales computacionales de pago de remuneraciones;
+n) Pagar las remuneraciones a los funcionarios del Servicio conforme a las planillas confeccionadas por la Unidad Administrativa, sin perjuicio que se implanten sistemas generales computacionales de pago de remuneraciones;
 
 ñ) Organizar y mantener un sistema de seguros mixtos de vivienda, incendio y desgravamen para los arrendatarios, asignatarios, comodatarios y adquirentes de viviendas, equipamientos, sitios u otros bienes;
 
@@ -438,19 +404,19 @@ p) Informar sobre la procedencia de modificar los contratos de mutuo suscritos c
 
 q) Otorgar escrituras de cancelación, alzamientos y proposiciones de hipotecas, gravámenes y prohibiciones en los casos reglamentariamente procedentes; calificar cartas de resguardo que se ofrezcan en garantía a la Institución y preparar, a su vez, estos documentos para la firma del Director cuando sea el SERVIU quien los extienda.
 
-El Departamento de Finanzas contará con una asesoría jurídica para la extensión de los documentos de esta índole que emanen del cumplimiento de las funciones que en virtud de este artículo le corresponden. La asesoría referida dependerá técnicamente del Departamento Jurídico del Servicio.
+La Unidad de Finanzas contará con una asesoría jurídica para la extensión de los documentos de esta índole que emanen del cumplimiento de las funciones que en virtud de este artículo le corresponden. La asesoría referida dependerá técnicamente de la Unidad Jurídica del Servicio.
 
 ### Párrafo 7°
 
-Del Departamento Jurídico
+De la Unidad Jurídica
 
 #### Artículo 33°
 
-Al Departamento Jurídico le corresponderá velar por el fiel cumplimiento de las leyes y reglamentos vigentes que atañen al SERVIU.
+A la Unidad Jurídica le corresponderá velar por el fiel cumplimiento de las leyes y reglamentos vigentes que atañen al SERVIU.
 
 #### Artículo 34°
 
-Al Jefe del Departamento Jurídico le corresponderán especialmente las siguientes funciones y atribuciones:
+Al Jefe de la Unidad Jurídica le corresponderán especialmente las siguientes funciones y atribuciones:
 
 a) Integrar el Consejo Asesor del Director;
 
@@ -458,13 +424,11 @@ b) Representar u observar los actos y resoluciones del Director y de los Jefes d
 
 c) Informar, pronunciarse y determinar sobre las consultas de orden jurídico que le formulen el Director, los Subdirectores, Jefes de Departamentos o Subdepartamentos;
 
-d) Dirigir el Departamento Jurídico de la Institución y destinar a su personal, fijándoles sus deberes, y
-
-e) En general, adoptar todas las medidas destinadas al buen funcionamiento del Departamento Jurídico de la Institución.
+d) Dirigir la Unidad Jurídica de la Institución y destinar a su personal, fijándoles sus deberes, y e) En general, adoptar todas las medidas destinadas al buen funcionamiento de la Unidad Jurídica de la Institución.
 
 #### Artículo 35°
 
-Corresponderá, además, al Jefe del Departamento Jurídico la representación legal del SERVIU respectivo, en los casos señalados en el artículo 11° de la ley 16.741.
+Corresponderá, además, al Jefe de la Unidad Jurídica la representación legal del SERVIU respectivo, en los casos señalados en el artículo 11° de la ley 16.741.
 
 #### Artículo 36°
 
@@ -480,25 +444,25 @@ d) Informar los títulos de dominio de los inmuebles que adquiera el Servicio o 
 
 e) Dirigir la biblioteca jurídica del Servicio, y f) En general, realizar y dar cumplimiento a las demás labores de carácter jurídico que le encomiende el Director.
 
-Excepcionalmente, en casos calificados, el Jefe del Departamento Jurídico podrá proponer al Director que se encomiende alguna de las funciones a que se refiere este artículo a abogados ajenos a la Institución.
+Excepcionalmente, en casos calificados, el Jefe de la Unidad Jurídica podrá proponer al Director que se encomiende alguna de las funciones a que se refiere este artículo a abogados ajenos a la Institución.
 
 #### Artículo 37°
 
-La subrogación del Jefe del Departamento Jurídico operará de acuerdo a la letra k) del artículo 17° de este Reglamento Orgánico, con la única limitación que el subrogante deberán también ser abogado. INCISO DEROGADO
+La subrogación del Jefe de la Unidad Jurídica operará de acuerdo a la letra k) del artículo 17° de este Reglamento Orgánico, con la única limitación que el subrogante deberán también ser abogado. INCISO DEROGADO
 
 ### Párrafo 8°
 
-Del Departamento de Administración
+De la Unidad de Administración
 
 #### Artículo 38°
 
-Este Departamento será el encargado de velar por las relaciones del Servicio con su personal, cautelando que cumpla correctamente sus deberes y preservando, al mismo tiempo, sus derechos, su bienestar, recreación y capacitación. Deberá, además, mantener un servicio de adquisiciones y aprovisionamiento que asegure el oportuno abastecimiento de bienes muebles necesarios al funcionamiento del Servicio, atender el ingreso y egreso de correspondencia, archivo general e inventarios.
+Esta Unidad será la encargada de velar por las relaciones del Servicio con su personal, cautelando que cumpla correctamente sus deberes y preservando, al mismo tiempo, sus derechos, su bienestar, recreación y capacitación. Deberá, además, mantener un servicio de adquisiciones y aprovisionamiento que asegure el oportuno abastecimiento de bienes muebles necesarios al funcionamiento del Servicio, atender el ingreso y egreso de correspondencia, archivo general e inventarios.
 
 Le corresponderá, además, proponer al Director las normas y procedimientos encaminados a la racionalización y modernización administrativa.
 
 #### Artículo 39°
 
-Para el cumplimiento de las funciones enunciadas en el artículo precedente, el Departamento de Administración cumplirá y ejercerá las siguientes funciones y atribuciones:
+Para el cumplimiento de las funciones enunciadas en el artículo precedente, la Unidad de Administración cumplirá y ejercerá las siguientes funciones y atribuciones:
 
 a) Proporcionar oportunamente toda la información que se requiera para la confección de las planillas de sueldos y jornales del personal del SERVIU, velando por que ellas reflejen efectivamente la situación del funcionario en cuanto a remuneraciones y descuentos previsionales o de otra naturaleza;
 
@@ -534,7 +498,7 @@ o) Mantener una oficina de informaciones que permita ofrecer al público indicac
 
 #### Artículo 40°
 
-La subrogación del Jefe del Departamento de Administración del SERVIU operará de acuerdo a lo expresado en la letra k) del artículo 17° de este Reglamento Orgánico.
+La subrogación del Jefe de la Unidad de Administración del SERVIU operará de acuerdo a lo expresado en la letra k) del artículo 17° de este Reglamento Orgánico.
 
 Sin perjuicio de lo expresado en el inciso anterior, el Jefe de la Subdirección de Administración del SERVIU Metropolitano será subrogado por el Jefe del Departamento de Personal y por el Jefe del Departamento de Servicios Generales, en ese orden.
 
@@ -542,35 +506,39 @@ Sin perjuicio de lo expresado en el inciso anterior, el Jefe de la Subdirección
 
 Corresponderá a la Subdirección de Administración del SERVIU Metropolitano administrar los campamentos de veraneo y los parques de recreación del sector, destinados al personal, mientras se reorganiza el Servicio de Bienestar.
 
-Corresponde al Departamento de Administración de cada SERVIU procurar que el personal disponga de salas cunas, parvularios y jardines infantiles, de acuerdo a la legislación que rija esta materia.
+Corresponde a la Unidad de Administración de cada SERVIU procurar que el personal disponga de salas cunas, parvularios y jardines infantiles, de acuerdo a la legislación que rija esta materia.
 
 ### Párrafo 9°
 
-Del Departamento de Programación Física, Control y Gestión de Suelo
+De la Unidad de Programación Física y Control
 
 #### Artículo 42°
 
-El Departamento de Programación Física, Control y Gestión de Suelo del Serviu tendrá las siguientes funciones y atribuciones:
+La Unidad de Programación Física y Control del SERVIU tendrá las siguientes funciones y atribuciones:
 
-a) Aportar los antecedentes que le sean solicitados por las Unidades Técnicas del Servicio para la formulación del preprograma y el anteproyecto de presupuesto regionales;
+a) Aportar los antecedentes que le sean solicitados por la Secretaría Ministerial, para la formulación del preprograma y el anteproyecto de presupuesto regionales;
 
-b) Controlar el avance de las etapas asociadas a los proyectos y programas en las fases previas a su ejecución y su correspondencia con la programación aprobada por el Ministerio;
+b) Controlar el desarrollo de la programación aprobada por el Ministerio, en las siguientes etapas previas a la ejecución:
 
-c) Evaluar la ejecución de las obras conforme a los plazos y condiciones establecidos en los programas, así como el desarrollo de la labor indirecta asociada a ellas;
+1.- Estudio de terrenos,
+
+2.- Proyecto de trazada y loteo,
+
+3.- Diseño de las obras,
+
+4.- Aprobaciones de las Municipalidades y los servicios pertinentes,
+
+5.- Preparación de antecedentes para la propuesta;
+
+6.- Evaluar la ejecución de las obras y el desarrollo de la labor indirecta, verificando si se ejecutan dentro de los plazos y condiciones establecidos en el programa;
 
 d) Realizar un balance físico de la labor cumplida por el Servicio durante el año;
 
-e) Mantener a través de los sistemas que se dispongan para tal efecto un catastro de los bienes inmuebles de los cuales el Servicio es propietario;
+e) Evaluar la labor del Servicio en materia de asignación de las viviendas;
 
-f) Realizar los informes relativos a la disponibilidad de bienes inmuebles para los requerimientos que le realicen las Unidades Técnicas y, en general, poner a disposición de éstas los inmuebles de propiedad del Servicio, sin perjuicio de los estudios técnicos que realicen dichas Unidades y la asesoría que preste el Departamento Jurídico en materias de su competencia;
+f) Mantener información actualizada de toda la labor realizada por el Servicio;
 
-g) Efectuar los estudios y tasaciones indispensables para fijar valores de transferencia de terrenos que se hayan urbanizado o de inmuebles que se construyan o hayan construido, confeccionado, cuando procediere, las tablas de valores correspondientes;
-
-h) Proponer los integrantes de las comisiones de hombres buenos de entre los tasadores nominados por decreto, informando sobre la conveniencia o inconveniencia de reclamar de las tasaciones practicadas por dichas comisiones en los juicios de expropiación;
-
-i) Evaluar la labor del Servicio en materia de asignación de viviendas;
-
-j) Mantener información actualizada de toda la labor realizada por el Servicio y, en general, llevar a cabo cualquier otro trabajo que le encomiende el Director en el marco de sus competencias.
+g) En general, llevar a cabo cualquier otro trabajo que le encomiende el Director.
 
 ### Párrafo 10°
 
@@ -590,7 +558,7 @@ d) Estudiar en forma crítica y sistemática el funcionamiento administrativo de
 
 e) Elaborar indicadores tales como manuales de operación y de funciones, que de una manera ágil y expedita tiendan a la eficiencia del Servicio.
 
-f) Proponer a la respectiva autoridad iniciativas que mejoren la capacitación específica del personal en materia de actos y procedimientos administrativos y de correcta aplicación de la legislación y reglamentación que los rijan, en coordinación con el Departamento Jurídico del Serviu.
+f) Proponer a la respectiva autoridad iniciativas que mejoren la capacitación específica del personal en materia de actos y procedimientos administrativos y de correcta aplicación de la legislación y reglamentación que los rijan, en coordinación con la Unidad Jurídica del Serviu.
 
 g) Constituir una instancia de consulta y de permanente interlocución con la Contraloría General de la República o con la respectiva Contraloría Regional y mantener una nómina y control de los reparos formulados por éstas, con exclusión de los relativos a materias presupuestarias, informáticas, contables y financieras, informando al Director del Serviu acerca de las acciones que adopten las unidades competentes para subsanarlos.
 
@@ -618,7 +586,7 @@ El SERVIU podrá utilizar el sistema de ejecución directa para obras de conserv
 
 Los contratos para la ejecución de obras del SERVIU, como también sus modificaciones y liquidaciones, se celebrará suscribiendo el contratista, ante notario, tres transcripciones de las resoluciones pertinentes, debidamente tramitadas, por la Contraloría General de la República, debiendo protocolizarse ante el mismo notario, uno de dichos ejemplares.
 
-Dentro del plazo de 30 días, contados desde el ingreso a la Oficina de Partes del Servicio respectivo, de las transcripciones, suscritas en la forma señalada, una de ellas será archivada y las restantes se harán llegar, para el mismo efecto, al Departamento Jurídico del Servicio. Estas transcripciones harán fe respecto de toda persona y tendrán mérito ejecutivo, sin necesidad de reconocimiento previo.
+Dentro del plazo de 30 días, contados desde el ingreso a la Oficina de Partes del Servicio respectivo, de las transcripciones, suscritas en la forma señalada, una de ellas será archivada y las restantes se harán llegar, para el mismo efecto, a la Unidad Jurídica del Servicio. Estas transcripciones harán fe respecto de toda persona y tendrán mérito ejecutivo, sin necesidad de reconocimiento previo.
 
 No obstante lo expresado, las resoluciones a que se refiere el inciso 1° podrán también reducirse a escritura pública.
 
@@ -734,7 +702,7 @@ El Director del SERVIU prestará declaración como testigo, en cualquier juicio 
 
 Cuando haya de prestar confesión en juicio civil, lo hará en su domicilio o en las oficinas del Servicio y el juez se trasladará a aquél o a ésta, con el objeto de recibirla, o comisionará con este fin al secretario. En los tribunales colegiados se comisionará para esta diligencia a uno de los ministros o al secretario.
 
-El Director podrá delegar la representación legal que le compete en los juicios del Servicio en el Jefe del Departamento Jurídico, sin perjuicio de la facultad de éste para delegar, a su vez, esta representación en cada gestión judicial que se produzca.
+El Director podrá delegar la representación legal que le compete en los juicios del Servicio en el Jefe de la Unidad Jurídica, sin perjuicio de la facultad de éste para delegar, a su vez, esta representación en cada gestión judicial que se produzca.
 
 #### Artículo 69°
 
