@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE PRINCIPAL TANNER ADMINISTRADORA GENERAL DE FONDOS S.A.
+
+Certifico: Que por resolución exenta Nº 039, de 26 de enero de2005, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Principal Tanner Administradora General de Fondos S.A.", acordada en la Junta Extraordinaria de Accionistas celebrada el 27 de diciembre de 2004, y reducida a escritura pública el 29 de diciembre del mismo año, en la 45ª Notaría de Santiago de don René Benavente Cash, domiciliado en Huérfanos Nº 979, piso 7, Santiago, consistente en el cambio del nombre de la sociedad administradora, la que en adelante se denominará "Principal Administradora General de Fondos S.A.".
+
+Santiago, 26 de enero de 2005.- Carmen Undurraga Martínez, Secretaria General.
