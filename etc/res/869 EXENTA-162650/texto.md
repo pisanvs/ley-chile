@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 869 de 15 de Julio de 1985, conforme Art. 5° transitorio Código de Aguas, determino derechos de aprovechamiento de aguas proporcionales que corresponden al sector excluido y sector expropiado predio "Hijuela Sur de la Hacienda La Vinilla", conocido como "Mundo Nuevo" de la comuna de Casablanca, V Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 17 y Reserva Cora N° 3 del proyecto de parcelación "Mundo Nuevo" formado por el predio señalado. Los derechos de agua se extraen del Embalse Perales de Tapihue, de la Quebrada o Estero Centinela y de un Pozo Profundo.- Población hecha conforme Art. 13° Ley N° 18.377.
+
+- Director Ejecutivo.
