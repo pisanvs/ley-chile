@@ -1,0 +1,3 @@
+Por Resolución No. 399, de fecha 22.11.90 SERVIU Región del Bío Bío dispuso expropiación conforme art. 51 Ley No.
+
+16.391, sustituido por Decreto Ley No. 1.523 y DS No. 151 de 12 de Septiembre de 1990, de inmueble ubicado en Camino a Chiguayante No. 4179, presunto rol de avalúo No. 1530-013, de la comuna de Concepción, de aparente dominio de Rafael Esteban Domínguez.- Comisión de Peritos formada por señores Teodoro Medina Reyes, ingeniero civil; Luis Soto Abarca, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 08.11.90 fijó monto provisional de indemnización en la suma de $ 2.693.005,00, pagaderos de contado.
