@@ -1,0 +1,7 @@
+Penas impuestas a los que deterioren las paredes de las calles
+
+Don Francisco de Borja Fontecilla, gobernador intendente de la provincia, etc.
+
+Con la previa aprobacion del Exmo. supremo Gobierno, se ordena que ninguna persona raye las paredes de la calles, quitando el lucimiento de los blanqueados que con tanto empeño tratan los buenos vecinos de realizar a la mayor brevedad en cumplimiento del bando publicado: no es justo que cuando consultándose el aseo público, no se pierde arbitrio para alcanzarlo, se frustre esta determinacion especialmente por los muchos que se divierten en inferir con perjuicio a los propietarios i en eludir las determinaciones del Gobierno, al que se encontrare comprendido en las transgresion de esta determinacion, se le aplicarán irremediablemente veinticinco azotes en la reja de la cárcel pública, encargándose el mayor celo a los alcaldes de barrio para que cuiden del cumplimiento de tan interesante disposicion autorizándoles para que poniendo espías en sus respectivos departamentos aprehendan a los contraventores, i haciéndoles reos den cuenta. A fin de que llegue a noticia de todos, publíquese por bando, fíjese e imprímase.-
+
+Dado en la Sala de la Intendencia de Santiago, a 3 de Diciembre de 1817.- Francisco de Borja Fontecilla.
