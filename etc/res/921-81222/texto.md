@@ -1,0 +1,3 @@
+Por resolución No. 921, de 14 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 30 de Marzo de 1991, el plazo otorgado a don FREDY ALMONACID BARRIENTOS, RUT No. 9.048.747-7, domiciliado en la ciudad de Ancud, Avenida La Paz No. 1429, en el numeral 5° de la Resolución No. 406, de 1990, de esta Subsecretaría, por haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 14 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
