@@ -1,0 +1,3 @@
+Por resolución Nº 881, de 12 de junio de 1998 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se rechaza la solicitud de la EMPRESA MAR DEL SUR S.A., respecto del certificado de transferencia de la nave ''Mar del Sur III''. Se rechazan asimismo las solicitudes de la peticionaria para incluir la nave ''Mar del Sur III'' en nóminas establecidas en el artículo 22 del D.S. Nº 430 de 1991, de especies declaradas en plena explotación, correspondientes al área del artículo 12 Transitorio del mismo cuerpo legal.
+
+Valparaíso, 12 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
