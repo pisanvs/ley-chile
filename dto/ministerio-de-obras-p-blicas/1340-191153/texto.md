@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.340, de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº 78, superficie 1.245 m², rol de avalúo 5047-9, comuna de Punta Arenas, para la obra "Reposición Ruta-9 y Acc. Aeropuerto, Sector (Ruta 9) Km. 5,31490-Km. 19,342349 (Acceso Aeropuerto) Km. 0,000-Km.-1,295819" y se acordó el valor de indemnización con su propietaria Francisca Fernández Díaz, ascendente a la cantidad de $6.153.449.-
+
+Fiscal del Ministerio de Obras Públicas.
