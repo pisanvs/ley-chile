@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 245 de fecha 18 de marzo del 2002, se expropió el lote de terreno Nº 23, superficie 55 m², Rol de avaluó Nº 31-478, comuna de Requínoa, para la obra "Camino Ruta H-455, Sector Santa Amalia - Pimpinela, Km. 0.000,00 a Km. 12.282,94", VI Región y se acordó el valor de indemnización con su propietaria Rosa Hortensia Venegas Escobar y Otros, ascendente a la cantidad de $704.899.-
+
+Fiscal del Ministerio de Obras Públicas.
