@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA YADRAN SOCIEDAD LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 395, de 29 de Abril de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Yadrán Sociedad Limitada, con domicilio en Santiago, para ampliar actividades pesqueras autorizadas por el Decreto No. 304, de 1967, del Ministerio de Agricultura, en orden a incluir entre las embarcaciones que opera, las denominadas Yadrán V y Galvarino, las que podrán capturar en el litoral de las Regiones X y XI, los siguientes recursos hidrobiológicos: con espineles, congrio colorado, dorado y negro, corvina, rollo, pejegallo, raya, brótula y róbalo, y con sistema de buceo Hookah, erizo, almeja, chorito, cholga, loco, caracol, navajuela y lapa. El recurso mero o bacalao sólo podrá extraerse con la embarcación Yadrán V y mediante el uso de espinel de acuerdo a lo dispuesto en el Decreto de Economía No. 439, de 1985, y sus modificaciones.
+
+Valparaíso, 29 de Abril de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
