@@ -1,0 +1,3 @@
+Por resolución Nº 1.786 de 14 de agosto de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110545, presentada por PRODUCTOS MARINOS MARDIM LIMITADA, para instalar y operar el centro de cultivo ubicado en Canal Pérez Norte, Isla Elena, Comuna de Cisnes, Provincia de Aysén, XI Región.
+
+Valparaíso, 14 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
