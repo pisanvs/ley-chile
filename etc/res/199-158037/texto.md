@@ -1,0 +1,5 @@
+AUTORIZA A DON RAUL MONSALVE PINO PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 199, de 05 de Marzo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, pronunci ndose sobre solicitud de 09 de Septiembre de 1985, se autoriza a don Raúl Monsalve Pino, Cédula de Identidad No. 4.906.794-1, de Arica, domiciliado en Antofagasta, calle Calafquén No. 1447, para operar la embarcación "Santa Margarita II" en el litoral de la VIII Región, en faenas extractivas de jurel, sardina española, caballa y anchoa, con destino a industrias de harina y aceite, y cojinova, dorado y bonito con destino a industria de conserva y congelado, para lo cual deber contar a bordo de la embarcación y en los medios de transporte en que efectúe el traslado de la materia prima hasta la planta respectiva, con sistemas adecuados de preservación de las especies, tales como contenedores con hielo, c maras isotérmicas o refrigeradas.
+
+Valparaíso, 05 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
