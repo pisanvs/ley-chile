@@ -1,0 +1,15 @@
+MODIFICA Y PRORROGA VIGENCIA DE LA RESOLUCION Nº 813 EXENTA, DE 1997, QUE DISPONE CAMBIO DE SUJETO DEL IVA EN LAS VENTAS DE ARROZ
+
+Por resolución Nº Ex. 1.249 de 26.02.98, el suscrito ha modificado y prorrogado la vigencia de la Resolución Nº Ex. 813/97 publicada en extracto en el D.O. de 05.03.97, que dispone cambio de sujeto de derecho del IVA en las ventas de arroz, por el período comprendido entre el 1º de marzo de 1998 hasta el 28 de febrero de 1999, ambas fechas inclusive. Las modificaciones realizadas son las siguientes:
+
+Se reemplazan los incisos primero y segundo del dispositivo 1º de la resolución Nº Ex. 813, de 1997, por los siguientes:
+
+"1.- Dispónese el cambio parcial del sujeto de derecho del Impuesto al Valor Agregado al Adquirente, en las ventas de arroz que realicen vendedores a molinos de arroz; a otros adquirentes que durante los años 1995 o 1996 o 1997 hubieren comprado 100 toneladas métricas anuales o más de arroz; a los adquirentes que en el transcurso del período comprendido entre el 1 de marzo de 1998 y el 28 de febrero de 1999 completen compras por 100 toneladas métricas o más de arroz y a los adquirentes excepcionados, en su calidad de vendedores, del cambio de sujeto, de conformidad a lo previsto en el Nº10 de esta resolución. También deberán retener el IVA, por las compras de arroz que efectúen, las empresas que tengan como dueño, socio, comunero o accionista de sociedad anónima cerrada a Molinos de arroz u otros adquirentes obligados a retener el tributo."
+
+"Para los efectos del cómputo de las 100 toneladas métricas exigidas al adquirente de arroz, en los años 1995, 1996, 1997 o durante la vigencia de esta resolución, se considerarán también las adquisiciones efectuadas por empresas vinculadas a aquellas dedicadas preferentemente a la compra de arroz. En tal circunstancia las adquisiciones efectuadas se sumarán recíprocamente; esta sumatoria determinará el cumplimiento del requisito para la procedencia de la obligación legal, pudiendo en consecuencia, quedar obligados al cambio de sujeto parcial previsto en este número, también las empresas vinculadas aunque éstas no se dediquen preferentemente a la compra de arroz. El concepto de empresas vinculadas debe entenderse en los términos de los artículos 96º al 100º de la Ley 18.045 sobre Mercado de Valores."
+
+Se sustituye el inciso primero del dispositivo Nº14 de la mencionada resolución Nº Ex 813, por el siguiente:
+
+"Los contribuyentes señalados en el dispositivo Nº1, deberán presentar hasta el día quince de cada mes, en la Unidad del Servicio que corresponda a su domicilio, un informe -Formulario 3254 y anexo- en original y dos copias. Cuando el plazo para informar venza en día sábado o feriado, éste se prorrogará hasta el primer día hábil siguiente.".
+
+Anótese y publíquese.- Gianni Lambertini Maldonado, Director (S).
