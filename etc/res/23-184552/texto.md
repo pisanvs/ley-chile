@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 23, del 20 de marzo del año 2001, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Servicios de Eventos y Veraneo Las Cruces Veracoop Limitada, de nombres de fantasía Centro de Eventos y Veraneo Las Cruces Veracoop Limitada, y Veracoop Ltda., de la ciudad de Santiago; en los términos que da testimonio el acta constitutiva reducida a escritura pública con fecha 5 de enero de 2001, ante la Notario de Santiago doña Elba Sanhueza Muñoz.
+
+Por orden del señor Subsecretario.- Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
