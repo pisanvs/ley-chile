@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº862, de 31 de mayo de 2002, se expropió el lote de terreno Nº72-D, superficie 415 m2., rol de avalúo Nº502-425, comuna de Retiro, para la obra Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00, VII Región, y se acordó el valor de indemnización con su propietario Juan Bautista Guzmán Medel, ascendente a la cantidad de $689.310.
+
+Fiscal del Ministerio de Obras Públicas.
