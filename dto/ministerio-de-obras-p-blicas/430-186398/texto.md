@@ -1,0 +1,5 @@
+Por decreto MOP Nº 430, de 30 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 37-3, para la obra: "Sistema Norte-Sur. Tramo A: Río Maipo-Las Acacias Sector: Km. 10.780,00 al Km.
+
+11.300,00", Región Metropolitana, que figura a nombre de Agrícola González S.A., rol de avalúo 2587-19, comuna San Bernardo, superficie 248 m2. La Comisión de Peritos integrada por los señores María Angélica Hurtado Arranz, María Cecilia Peña Martínez y Andrés Echeverría Campo, fijó con fecha 6 de noviembre de 2000, el valor provisional de la indemnización en la cantidad de $3.636.484.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
