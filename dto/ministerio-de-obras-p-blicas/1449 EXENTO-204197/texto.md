@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.449, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº15C-1, superficie 2.490 m2, rol de avalúo Nº590-55 comuna de Yungay, para la obra: ''Area de Riego Yungay, Canal Trilaleo Prolongación y Faja Adicional Km. 3,921 al 4,606 del proyecto Laja Diguillín'', VIII Región, y se acordó el valor de indemnización con su propietario José Raúl Guiñez Valeria, ascendente a la cantidad de $1.228.641.-
+
+Fiscal del Ministerio de Obras Públicas.
