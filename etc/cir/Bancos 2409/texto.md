@@ -9904,6 +9904,76 @@ de terceros", podrá abrirse una cuenta específica en la partida 9260, que
 
 registre dichos saldos.
 
+CAPITULO 8-24 (Bancos y Financieras)
+
+MATERIA
+
+PAGARES DEL BANCO CENTRAL DE CHILE EXPRESADOS EN DOLARES CAPITULO IV.B.10 COMPENDIO DE NORMAS FINANCIERAS
+
+1.- Características principales de los pagarés.
+
+Los pagarés de que trata este Capítulo, denominados "Pagarés expresados en dólares Serie A", tienen las siguientes características principales:
+
+a) Son expresados en dólares de los Estados Unidos de América;
+
+b) Su adquisición se efectúa en pesos moneda corriente, al tipo de cambio establecido para el efecto por el Banco Central de Chile;
+
+c) Se emiten a plazos fijos entre 30 y 180 días a elección de la institución adquirente;
+
+d) Devengan un interés cuya tasa anual se determina en la forma dispuesta en el Capítulo IV B 10 ya mencionado Estos intereses son pagaderos al vencimiento del respectivo pagaré;
+
+e) Son nominativos e intransferibles; y,
+
+f) Su pago lo efectúa el Banco Central de Chile, en pesos moneda corriente, al vencimiento, al tipo de cambio determinado por el Instituto Emisor.
+
+2.- Recursos para la adquisición de estos pagarés.
+
+Las instituciones financieras podrán adquirir estos pagarés con recursos equivalentes a los montos recuperados o castigados, provenientes de las siguientes operaciones:
+
+a) Créditos otorgados al amparo de los Capítulos y B 1 y y B 2 del Compendio de Normas Financieras, excluidos los pagos de estos créditos originados por su conversión a moneda nacional, efectuada bajo las normas de que tratan las letras a) y b) del N° 3 del Acuerdo N° 157801-840622 del Comité Ejecutivo del Banco Central de Chile Asimismo se excluye el equivalente de los importes de recuperaciones o castigos de créditos otorgados con recursos provenientes de la liquidación a moneda chilena de depósitos a plazo, que hayan sido girados desde las cuentas especiales de que tratan los Capítulos IV D 2 y IV D 2 1 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 13-12 de esta Recopilación;
+
+b) Créditos para financiar exportaciones otorgados según las disposiciones del Capítulo X del ex-Compendio de Normas de Exportación y del Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales; y,
+
+c) Pagos recibidos del Banco Central de Chile correspondientes al servicio de capital e intereses de los pagarés de que tratan las letras f) y g) del N° 6 del Acuerdo N° 1578-01-840622 ya mencionado, adquiridos con cargo a la línea de refinanciamiento del Instituto Emisor para la reprogramación de deudas, de que trata la Circular de esta Superintendencia N° 2.015-462 y sus modificaciones En estos casos, las instituciones financieras deberán renunciar al derecho de adquirir los pagarés expresados en dólares norteamericanos a que se refieren estas instrucciones, por el monto de las colocaciones cursadas al amparo de los acuerdos "1196" y "1418", reprogramadas y refinanciadas conforme a las normas contenidas en el Acuerdo 1578-01-840622.
+
+3.- Monto máximo de inversiones en pagarés.
+
+Cada institución financiera podrá mantener pagarés de esta especie adquiridos con los recursos señalados en el N° 2 anterior, por un monto que no exceda de la cantidad que resulte de la diferencia entre el total de sus recursos en moneda extranjera incluidos sus intereses adeudados, exceptuadas las provisiones que mantengan en esa moneda, y las colocaciones financiadas con esos recursos más los intereses que hubieran devengado.
+
+Se considerarán para estos efectos, como recursos de la empresa, aquellos en moneda extranjera reflejados en las siguientes partidas del MB1 3005 a 3570, 3805 al 4135 y 4520, excluidos los saldos correspondientes a provisiones en moneda extranjera. En lo relativo a las colocaciones, se incluirán los créditos e inversiones en moneda extranjera demostrados en las siguientes partidas 1110 a 1245, 1305 a 1415, 1705 excepto el saldo de "Pagarés del Banco Central de Chile expresados en dólares", 1710 a 2310, 2515 y 9130 De esta última sólo se debe considerar la diferencia entre el saldo de los créditos y el monto del "Certificado de Depósito expresado en Dólares de los Estados Unidos de América-Acuerdo 1649".
+
+Para estos efectos no se considerarán las obligaciones con el Banco Central de Chile por los refinanciamientos con recursos de Organismos Internacionales ni las colocaciones efectuadas con dichos recursos, como tampoco los importes correspondientes a las inversiones que se rebajan de acuerdo con lo dispuesto en el numeral 3.2 siguiente.
+
+Al importe que resulte de la diferencia entre la suma de los recursos y la suma de las colocaciones e inversiones indicadas precedentemente, se le agregarán y deducirán los montos que a continuación se indican:
+
+3.1.- Montos que se agregan:
+
+a) El saldo de las colocaciones, expresadas en moneda extranjera, reprogramadas conforme al Acuerdo N° 1507-01-830412, de que trata la Circular de esta Superintendencia N° 1903-352, y sus modificaciones.
+
+b) La diferencia que resulte entre el saldo de las colocaciones expresadas en moneda extranjera, reprogramadas de conformidad con las normas del Acuerdo N° 1578-01-840622 y de la Circular de esta Superintendencia N° 2.015-462 y sus modificaciones, y el saldo de los pagarés expresados en dólares emitidos por el Banco Central de Chile y adquiridos por las instituciones financieras, de conformidad con lo dispuesto en la letra f) del N° 6 del Acuerdo antes mencionado.
+
+c) Una suma igual al importe de las colocaciones pactadas en moneda extranjera, reprogramadas al amparo de los Acuerdos 1507-01-830412 y 1571-01-840622, con cuyas recuperaciones o castigos se hubiera tenido acceso a los pagarés de que trata esta Circular, que se encuentren vendidas al Banco Central de Chile y por las cuales se hubieran adquirido "Certificados de depósito expresados en dólares de Estados Unidos de América-Acuerdo 1649", según lo establecido en la Circular N° 2.088-527 de este Organismo.
+
+3.2.- Montos que se deducen.
+
+a) El saldo de "Certificados de depósitos expresados en dólares de Estados Unidos de América-Acuerdo 1649", correspondientes a colocaciones vendidas al Banco Central de Chile;
+
+b) El saldo de la cuenta corriente en pesos expresada en dólares de que trata el Capitulo IV D 1 del Compendio de Normas Financieras;
+
+c) Las divisas recompradas que se mantengan en las cuentas especiales a que se refiere el literal ii) de la letra b) del Punto I de la letra G del Capítulo XIV del ex-Compendio de Normas de Cambios Internacionales y la letra b) del N° 2 del Punto I de la letra G del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales;
+
+d) El saldo de los pagarés adquiridos de conformidad a la letra g) del N° 6 del Acuerdo N° 1578-01-840622, según lo dispuesto en la Circular N° 2.015-462 ya mencionada, y;
+
+e) Además, de acuerdo con las normas del Banco Central de Chile, se deducirán los saldos de las restantes partidas del activo en moneda extranjera, excluidos los que se encuentren financiados con las provisiones en moneda extranjera.
+
+4.- Instrucciones contables.
+
+Las entidades financieras utilizarán las cuentas "Cambio-Pagarés Banco Central" y "Conversión-Pagarés Banco Central", en pesos y dólares, respectivamente, de las partidas 2510 y 4510, para registrar la adquisición de estos instrumentos, que se hará en moneda chilena.
+
+La inversión se contabilizará en dólares en la cuenta "Pagarés del Banco Central de Chile expresados en dólares", de la partida 1705.
+
+Los intereses devengados se acreditarán por su equivalente en pesos en la cuenta "Intereses sobre pagarés del Banco Central", de la partida 7150.
+
 CAPITULO 8-26 (Bancos y Financieras)
 
 MATERIA:
