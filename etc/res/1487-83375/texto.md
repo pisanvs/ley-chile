@@ -1,0 +1,3 @@
+Por Resolución Nº1.487, de 5 de Diciembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad de la Resolución Nº1.102, de 1989, de esta Subsecretaría, en virtud de lo referido en el numeral anterior y de conformidad con lo dispuesto en el artículo 6º del D.S. Nº175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de Diciembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
