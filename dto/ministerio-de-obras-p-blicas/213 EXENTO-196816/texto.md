@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 213, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 37, superficie 905 m2, rol de avalúo 75-911, comuna de Galvarino, IX Región, para la obra "Camino Ruta S-16, Sector Galvarino - Chol-Chol, Tramo Km. 0,0000 al 24,30269" y se acordó el valor de indemnización con su propietaria doña Flora del Carmen Huenchual Marín, ascendente a la cantidad de $891.313.-
+
+Fiscal del Ministerio de Obras Públicas.
