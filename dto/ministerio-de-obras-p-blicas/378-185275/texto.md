@@ -1,0 +1,3 @@
+Por decreto MOP Nº378 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº74, superficie 282 m2., rol de avalúo 502-305, comuna de Retiro, para la obra "Camino Ruta L-75, Sector El Ajial-Las Camelias Tramo: Kms. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario Guillermina Fuentes Romero, ascendente a la cantidad de $495.541.
+
+Fiscal del Ministerio de Obras Públicas.
