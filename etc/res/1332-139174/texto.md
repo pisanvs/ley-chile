@@ -1,0 +1,3 @@
+Por resolución Nº 1.332, de 12 de julio de 1999, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, recházase la solicitud de concesión de acuicultura Nº 97012017, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES, DE BUZOS MARISCADORES Y ASISTENTES DE BUZOS CALETA CHIPANA, para operar un centro de cultivo de Caleta Chipana, comuna de Iquique, provincia de Iquique, I Región.
+
+Valparaíso, 12 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
