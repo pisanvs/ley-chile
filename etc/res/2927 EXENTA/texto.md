@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.927, de 19 de noviembre de 2003, de esta Subsecretaría, declárase la caducidad de la resolución Nº 935 de 1989, modificada por las resoluciones Nº1.866 de 1989, Nº 382 de 1990 y Nº 1.006 de 1995, todas de esta Subsecretaría, que autorizaron a EXOSUR S.A. para operar la nave "Le Crabe Tambour", en virtud de lo dispuesto en el artículo 143 letra d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
