@@ -1,0 +1,3 @@
+Por resolución Nº 690, de 22 de abril de 1999, de esta Subsecretaría, autorízase a SOCIEDAD PROCESADORA DE ALIMENTOS SOCOVEL LIMITADA, para ampliar las actividades pesqueras extractivas con la nave ''Oficina California'', matrícula 1891, en el litoral de la I a IV Regiones, por fuera del área de reserva artesanal, donde podrá capturar con red de arrastre el recurso hidrobiológico Langostino colorado.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
