@@ -4484,7 +4484,7 @@ Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a
 
 3.2 Compensación por pago de Ordenes de Pago.
 
-Los bancos distintos al banco librado, podrán deducir del monto de sus depósitos diarios, una compensación por la salida de caja que representa para ellos el pago de Ordenes de Pago emitidas por las instituciones de previsión al amparo del artículo 15 de la Ley 17.671. Esa compensación es equivalente, según la tasa de encaje vigente, al 900% de los importes pagados. El monto de esta compensación debe registrarse en la cuenta "Compensación Ordenes de Pago Ley 17.671", de la partida 9160 del mismo nombre, del MB1.
+Los bancos distintos al banco librado, podrán deducir del monto de sus depósitos diarios, una compensación por la salida de caja que representa para ellos el pago de Ordenes de Pago emitidas por las instituciones de previsión al amparo del artículo 15 de la Ley 17.671, tratadas en el Capítulo 5-2 de esta Recopilación. Esa compensación es equivalente, según la tasa de encaje vigente, al 900% de los importes pagados. El monto de esta compensación debe registrarse en la cuenta "Compensación Ordenes de Pago Ley 17.671", de la partida 9160 del mismo nombre, del MB1.
 
 3.3 Obligaciones por las cuales deben constituir reserva técnica.
 
@@ -5783,6 +5783,42 @@ No obstante lo señalado en el presente Título II, podrá fijarse en forma perm
 ### 1. Responsabilidad de la Institución de Turno
 
 Cada Institución de Tumo mantendrá en sus propios archivos las planillas o mensajes correspondientes a todas las reuniones de la Cámara Compensadora, efectuadas durante el lapso que haya ejercido el turno. La información que se origine por la utilización de un sistema de transmisión y procesamiento electrónico de datos, podrá conservarse en medios magnéticos. El plazo de mantención de estos archivos, será el que se establece en el Art. 19 de la Ley General de Bancos.
+
+CAPITULO 5-2 (Bancos)
+
+MATERIA:
+
+ORDENES DE PAGO DE PENSIONES LEY 17.671.
+
+1.- Obligación de pagar órdenes de pago de pensiones.
+
+El artículo 15 de la Ley 17.671 dispone que las instituciones de previsión podrán emitir y entregar a los beneficiarios, órdenes de pago intransferibles, las que deberán ser pagadas a partir de sus respectivas fechas de vencimiento en cualquiera institución bancaria, libres de comisiones o derechos, lo que actualmente sólo tiene aplicación respecto del Instituto de Normalización Previsional.
+
+Las empresas bancarias deberán, en consecuencia, pagar esos documentos al beneficiario que compruebe su identidad, salvo que no cuenten con los medios suficientes para verificar la autenticidad de la orden de pago, caso en el cual deberán explicar al interesado el motivo por el cual rechazan su pago.
+
+2.- Antecedentes que deben suministrar los bancos girados.
+
+Las instituciones bancarias que tienen la calidad de banco librado de las referidas órdenes de pago, deben suministrar oportunamente al resto del sistema bancario, los facsímiles de las firmas autorizadas que suscriban tales documentos, como también las nóminas con las órdenes de no pago que puedan recaer sobre esos documentos, sea por extravió u otras causas.
+
+Cualquier cambio que se produzca en las firmas autorizadas, así como en las órdenes de no pago, debe ser informado por la vía más rápida posible a la red bancaria del país. Serán de responsabilidad de los bancos librados las consecuencias que se deriven de los atrasos u omisiones en la entrega de esa información.
+
+3.- Pagos a apoderados de los beneficiarios.
+
+Los bancos distintos al banco librado podrán pagar estas órdenes de pago a los apoderados de los beneficiarios si en el respectivo documento aparece tanto el nombre del beneficiario como el del apoderado. No será necesario, en estos casos, que los bancos exijan del apoderado antecedente alguno, salvo el necesario para comprobar su identidad, siendo de responsabilidad del banco girado cualquier problema que pueda surgir en torno a los pagos que se realicen, por no haber individualizado debidamente al apoderado.
+
+Si el documento es presentado por un apoderado cuyo nombre no aparece en la respectiva orden de pago, corresponderá al banco que efectúe el pago exigir y calificar el poder que presente el interesado, responsabilizándose del pago que realice.
+
+4.- Rembolso de los importes pagados.
+
+Los bancos que paguen estos documentos, obtendrán el rembolso de los importes pagados ya sea a través de la respectiva Cámara de Compensación o mediante la presentación directa de los documentos pagados al banco girado, el que, si así le es solicitado, está obligado a atender su pago mediante la emisión de un Vale de Cámara.
+
+5.- Compensación por egreso de caja.
+
+Las instituciones bancarias que efectúen el pago de los documentos a los beneficiarios podrán hacer efectiva la compensación por egreso de caja de que trata el numeral 3 2 del título II del Capítulo 4-1 de esta Recopilación, siempre que no hayan obtenido el pago de tales documentos mediante la emisión de Vales de Cámara del banco librado.
+
+6.- Formato de las órdenes de pago.
+
+El formato de las órdenes de pago de pensiones deberá ajustarse a las instrucciones generales establecidas en el Capítulo 6-1 de esta Recopilación.
 
 CAPITULO 6-1 (Bancos y Financieras)
 
