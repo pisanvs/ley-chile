@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.925, de 19 de noviembre de 2003, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 536 de 1994 y Nº 1.239 de 1997, ambas de esta Subsecretaría, que autorizaron a PESQUERA SUR LIMITADA para operar la nave "Kum Ho 33" en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
