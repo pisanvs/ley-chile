@@ -1,0 +1,3 @@
+Por Resolución N° 664, de 11 de Abril de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por MANUEL ENRIQUE PEDREIRA, para un centro de cultivo ubicado en Sector Quetalco, comuna de Dalcahue, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de Abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
