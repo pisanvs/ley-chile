@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICA
+
+Por Resolución N° 109 de 05 de Agosto de 1996, SERVIU II Región, dispuso, conforme D.L. 2186 de 1978, expropiación parcial del inmueble ubicado en Avda. Argentina N° 2308, rol de avalúo N° 795-001, comuna de Antofagasta, superficie 1,48 m2., de aparente dominio de doña Myrtza Aurora Pinochet Tapia, don José Segundo Pinochet Tapia y doña Maglen del C. Tapia Riveros, según inscripción fs. 2059, N° 3107, año 1992, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Srs. Iván Vladilo Vargas, Ingeniero Civil, Alejandro Bargsted Balcells y Eleonora Román Latorre, arquitectos, según informe de 11 de Julio de 1996, fijó monto provisional indemnización en $357.056.-, pagadera al contado.
+
+Antofagasta, 13 de Agosto de 1996.- Director Serviu II Región.
