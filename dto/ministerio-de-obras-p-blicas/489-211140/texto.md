@@ -1,0 +1,5 @@
+Por decreto MOP Nº489, de 26 de mayo de 2003 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió para la obra Proyecto Línea 4, Sector:
+
+Av. Tobalaba-Rotonda Grecia, Región Metropolitana, el lote de terreno Nº145L4, que figura a nombre de Inmobiliaria e Inversiones San J, rol de avalúo 5469-212, comuna de Ñuñoa, superficie 79 m². La comisión de peritos integrada por la señora María Cristina Camus Palacios y señores Ramón Enrique Domingo Labarca y Armando Antonio Pinochet Landero, fijó con fecha 28 de febrero de 2003, el valor provisional de la indemnización en la cantidad de $19.028.000.- para el lote Nº145L4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
