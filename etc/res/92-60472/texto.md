@@ -1,0 +1,3 @@
+Por Resolución Nº 92, de 20 de enero de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución Nº 371 de 1982, de esta Subsecretaría, que autorizó a PESQUERA COLOSO S.A., para ampliar actividades pesqueras extractivas con la nave "Colo Colo" en lo relativo a las especies Sardina española, Jurel, Caballa, Roncacho y Machuelo, en el litoral de la V Región, en virtud de no haber operado sobre esta Unidad de Pesquería conforme lo dispuesto en el artículo 143 letra b) de la Ley Nº 18.892 de 1989.
+
+Valparaíso, 20 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
