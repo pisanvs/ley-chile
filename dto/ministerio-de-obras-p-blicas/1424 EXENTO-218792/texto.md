@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.424 de fecha 31 de octubre del 2003, se expropiaron los lotes de terreno Nº s 8-B, 9-B, y 10-B, superficie 207, 320 y 252 m2, Rol Nº 172-68, 171-28 y 171-30, respectivamente comuna de Curepto, VII Región para la obra "Camino Ruta M-24-K, Quivolgo Puente Lautaro Km. 0,000 a km 2,560" y se acordó el valor de indemnización con su propietario José Erasmo Fuenzalida Vilos y Otros, ascendentes a la cantidad de $1.259.439.-
+
+Fiscal del Ministerio de Obras Públicas.
