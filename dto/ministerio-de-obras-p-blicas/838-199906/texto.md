@@ -1,0 +1,3 @@
+Por decreto MOP Nº838 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº3, superficie 1.596 m², Rol en Trámite, comuna de Illapel, para la obra ''Camino Ruta D-705, Illapel - Combarbalá, Sector Illapel - Auco'' y se acordó el valor de indemnización con su propietario Luis Raúl Hernández Salinas y Otros, ascendente a la cantidad de $6.660.143.-
+
+Fiscal del Ministerio de Obras Públicas.
