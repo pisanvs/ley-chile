@@ -1,0 +1,5 @@
+Por Resolución Nº942 de 24 de Septiembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución Nº792, de 1992, de esta Subsecretaría, en orden a sustituir su artículo 4º por el siguiente "Las cartas naúticas del Servicio Hidrográfico y Oceanográfico de la Armada y las coordenadas geográficas contenidas en el Informe Técnico Nº310, de septiembre de 1992, del Departamento de Recursos de esta Subsecretaría de Pesca, que se refieren a los puntos y vértices que delimitan las áreas apropiadas para el ejercicio de la acuicultura, en cada uno de los sectores marítimos y cursos fluviales de la Xª Región se encuentran disponibles para consulta de las personas interesadas en las oficinas de la Subsecretaría de Pesca en Valparaíso y en las oficinas del Servicio Regional de Pesca en Puerto Montt y Castro".
+
+Las cartas naúticas y el Informe Técnico Nº310, que contienen las coordenadas geográficas, citadas precedentemente, forman parte integrante de esta Resolución.
+
+Valparaíso, 24 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
