@@ -1,0 +1,5 @@
+AUTORIZA A DON CARLOS GOMEZ CERDA, PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 552, 03 de septiembre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Carlos Gómez Cerda, RUT. 6.428.6617, domiciliado en Arica, calle Renato Rocca N° 1351, Parque Industrial Menor, local cuatro, para instalar y operar en dicho domicilio, una planta elaboradora de congelado, seco-salado, conservas y ahumado de los siguientes recursos: agujilla, anchoa, avanque, bonito, cabrilla común, cojinova del Norte, congrio colorado, congrio dorado, congrio negro, corvina, dorado, jurel, lisa, tiburón, mero, palometa, pejeperro, pejerrey de mar, pejezorro, raya, roncacho, sardina española, sierra, tollo, almeja o taca, calamar, caracol azul o regula, caracol locate, lapa, macha, navajuela o berberecho, ostión del Norte, pulpo y piure.
+
+Valparaíso, 03 de septiembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
