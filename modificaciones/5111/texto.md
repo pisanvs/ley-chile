@@ -1,0 +1,1 @@
+Modifica ley 5044, de 29 de enero de 1932, sobre facilidades deudores Caja de Crédito Hipotecario.
