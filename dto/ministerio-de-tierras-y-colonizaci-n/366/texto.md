@@ -66,7 +66,7 @@ chañares que vegeten en terrenos fiscales.
 
 #### Artículo 3
 
-o En conformidad con el artículo 19 de la Ley de Bosques en vigencia, prohíbese la corta del quillay y la explotación de este producto, tales como leña, carbón y corteza, entre el 1.o de Diciembre y el 30 de Abril de cada año. Fuera de esta época los interesados en explotar este árbol deberán solicitar permiso en la Dirección General de Tierras y Colonización.
+o En conformidad con el artículo 19 de la Ley de Bosques en vigencia, prohíbese la corta del quillay y la explotación de este producto, tales como leña, carbón y corteza, entre el 1.o de Enero y el 30 de Abril de cada año. Fuera de esta época los interesados en explotar este árbol deberán solicitar permiso en la Dirección General de Tierras y Colonización.
 
 #### Artículo 4
 
