@@ -20120,337 +20120,137 @@ En dicha cuenta se registrará el importe correspondiente al capital, sea que se
 
 CAPITULO 14-5 (Bancos y Financieras)
 
-FONDO DE GARANTIA PARA EXPORTADORES NO TRADICIONALES.
+MATERIA:
 
-### 1. Generalidades
+FONDO DE GARANTÍA PARA EXPORTADORES NO TRADICIONALES.
 
-La Ley 18.645, del 25 de agosto de 1987, publicada en el Diario Oficial del 9 de
+1.- Generalidades.
 
-septiembre de 1987, creó el Fondo de Garantía para Exportadores no
+La Ley N° 18.645, del 25 de agosto de 1987, publicada en el Diario Oficial del 9 de septiembre de 1987, creó el Fondo de Garantía para Exportadores no Tradicionales, cuyas disposiciones se encuentran reglamentadas en el Decreto N° 204 del 22 de junio de 1999 del Ministerio de Hacienda, publicado en el Diario Oficial del 3 de julio de 1999.
 
-Tradicionales, cuyas disposiciones fueron reglamentadas mediante el Decreto N°
+El mencionado Fondo, que tiene el carácter de persona jurídica de derecho público con domicilio en Santiago y cuya duración es indefinida, es administrado por el Banco del Estado de Chile quién, además, tiene su representación legal.
 
-119 del 27 de noviembre de 1987 del Ministerio de Hacienda, publicado en el
+Su objeto es garantizar los créditos que las instituciones financieras, públicas o privadas, y el Servicio de Cooperación Técnica, otorguen a los exportadores no tradicionales, en la forma y condiciones que se señalan en el referido cuerpo legal y en la reglamentación sobre administración del Fondo y utilización de la garantía, aprobada por el Ministerio de Hacienda.
 
-Diario Oficial del 23 de diciembre de 1987.
+2.- Instituciones que pueden otorgar préstamos con garantía del Fondo.
 
-El mencionado Fondo, que tiene el carácter de persona jurídica de derecho
+Pueden otorgar créditos con la garantía del Fondo, los bancos y las sociedades financieras, la Corporación de Fomento de la Producción y el Servicio de Cooperación Técnica, que se hubieren adjudicado el derecho a esa garantía en las licitaciones que hará el Fondo.
 
-público con domicilio en Santiago y cuya duración es indefinida, es administrado
+En todo caso, las sociedades financieras fiscalizadas por esta Superintendencia sólo podrán otorgar créditos en moneda chilena amparados por la garantía de que se trata, toda vez que no les está permitido otorgar préstamos en moneda extranjera para financiar exportaciones ni realizar operaciones de comercio exterior.
 
-por el Banco del Estado de Chile quién, además, tiene su representación legal.
+3.- Licitaciones o asignaciones de las garantías otorgadas por el Fondo.
 
-Su objeto es garantizar los créditos que las instituciones financieras, públicas
+Las instituciones que deseen operar con la garantía del Fondo deberán adjudicarse el derecho sobre esa garantía en las licitaciones que, con tal objeto, realizará periódicamente el Administrador del Fondo, el que también podrá asignarlas directamente a cada una de las instituciones facultadas para operar en ese sistema.
 
-o privadas, y el servicio de Cooperación Técnica, otorguen a los exportadores no
+Las entidades que participen en dichas licitaciones deberán sujetarse a las disposiciones contenidas en las normas legales ya citadas. Además, las instituciones favorecidas con las adjudicaciones o asignaciones, deberán suscribir con el Administrador del Fondo, un contrato para la utilización de la mencionada garantía.
 
-tradicionales, en la forma y condiciones que se señalan en el referido cuerpo
+4.- Condiciones para otorgar los préstamos.
 
-yen la reglamentación sobre administración del Fondo y utilización de la
+Los préstamos garantizados por el Fondo podrán otorgarse únicamente a los exportadores no tradicionales, entendiéndose por tales, los que cumplan con los requisitos señalados en el artículo 1° de la Ley N° 18.645 y en el N° 2 del Título I del Decreto N° 204 ya mencionados.
 
-garantía, aprobada por el Ministerio de Hacienda.
+Ninguna persona podrá mantener créditos cursados al amparo de esta garantía, por sumas que individualmente o en conjunto, excedan del monto máximo que se señala en el numeral 5.1 de este Capítulo. Para los efectos de este límite se sumarán los créditos de esta especie obtenidos de todas las instituciones facultadas para operar con la garantía de que se trata.
 
-### 2. Instituciones que pueden otorgar préstamos con garantía del Fondo
+Para resguardarse del cumplimiento de las condiciones expuestas en los párrafos anteriores, las instituciones financieras deberán exigir a los solicitantes de estos créditos, una declaración jurada en la que dejen constancia de que los bienes y servicios que adquieran o paguen con el producto de ellos, serán destinados exclusivamente a la realización de las correspondientes exportaciones no tradicionales. Del mismo modo deberán declarar bajo juramento que se obligan a retornar al país, por intermedio de la institución que otorga el crédito, las divisas provenientes de la exportación. Por último, deberá dejarse establecido en dicha declaración si se está postulando a otro crédito garantizado por el Fondo, en la misma o en otra institución, con indicación del monto y del nombre de la respectiva entidad.
 
-Pueden otorgar créditos con la garantía del Fondo, los bancos y las sociedades
+5.- Monto y plazo de los créditos.
 
-financieras, la Corporación de Fomento de la Producción y el Servicio de
-
-Cooperación Técnica, que se hubieren adjudicado el derecho a esa garantía en las
-
-licitaciones que hará el Fondo.
-
-En todo caso, las sociedades financieras fiscalizadas por esta Superintendencia
-
-sólo podrán otorgar créditos en moneda chilena amparados por la garantía de que
-
-se trata, toda vez que no les está permitido otorgar préstamos en moneda
-
-extranjera para financiar exportaciones ni realizar operaciones de comercio
-
-exterior.
-
-### 3. Licitaciones y asignaciones de las garantías otorgadas por el Fondo
-
-Las instituciones que deseen operar con la garantía del Fondo deberán
-
-adjudicarse el derecho sobre esa garantía en las licitaciones que, con tal
-
-objeto, realizará periódicamente el Administrador del Fondo, el que también
-
-podrá asignarlas directamente a cada una de las instituciones facultadas para
-
-operar en ese sistema.
-
-Las entidades que participen en dichas licitaciones deberán sujetarse a las
-
-disposiciones contenidas en las normas legales ya citadas. Además, las
-
-instituciones favorecidas con las adjudicaciones o asignaciones, deberán
-
-suscribir con el Administrador del Fondo, un contrato para la utilización de la
-
-mencionada garantía.
-
-### 4. Condiciones para otorgar los préstamo
-
-Los préstamos garantizados por el Fondo podrán otorgarse únicamente a los
-
-exportadores no tradicionales, entendiéndose por tales, los que cumplan con los
-
-requisitos señalados en el artículo 1° de la Ley 18.645 y en el N° 2 del Título
-
-I del Decreto 119 ya mencionados.
-
-Ninguna persona podrá mantener créditos cursados al amparo de esta garantía, por
-
-sumas que individualmente o en conjunto, excedan del monto máximo que se señala
-
-en el numeral 5.1 de este capítulo. Para los efectos de este límite se sumarán
-
-los créditos de esta especie obtenidos de todas las instituciones facultadas
-
-para operar con la garantía de que se trata.
-
-Para resguardarse del cumplimiento de las condiciones expuestas en los párrafos
-
-anteriores, las instituciones financieras deberán exigir a los solicitantes de
-
-estos créditos, una declaración jurada en la que dejen constancia de que los
-
-bienes y servicios que adquieran o paguen con el producto de ellos, serán
-
-destinados exclusivamente a la realización de las correspondientes exportaciones
-
-no tradicionales. Además deberán declarar no tener préstamos vigentes con la
-
-garantía del Fondo o, en caso contrario, deberán indicar el monto de los
-
-créditos de esta especie que mantengan vigentes y el nombre de las respectivas
-
-instituciones acreedoras. Asimismo, deberá dejarse establecido en dicha
-
-declaración si se está postulando a otro crédito garantizado por el Fondo, en la
-
-misma o en otra institución, con indicación del monto y del nombre de la
-
-respectiva entidad.
-
-### 5. Monto y plazo de los créditos
-
-5.1. Monto de los préstamos.
+5.1.- Monto de los préstamos.
 
 Los créditos afectos a la garantía serán en Pesos moneda chilena o en moneda extranjera y no podrán exceder en total de US$ 150.000 o su equivalente en moneda nacional para cada exportador no tradicional, cantidad que se reajustará anualmente de conformidad con el índice de precios promedio relevante para el comercio exterior chileno que determine el Banco Central de Chile.
 
-El Fondo no garantizará más del 50% del saldo del capital adeudado por cada prestatario.
+El Fondo no garantizará más del 50% del saldo deudor de cada préstamo.
 
-Para los efectos del límite señalado precedentemente, los préstamos en moneda corriente serán convertidos a dólares de los Estados Unidos de América, al tipo de cambio a que se refiere el N° 6 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Cuando los créditos sean
+Para los efectos del límite señalado precedentemente, los préstamos en moneda corriente serán convertidos a dólares de los Estados Unidos de América, al tipo de cambio a que se refiere el artículo 20 de la Ley N° 18.010. Cuando los créditos sean cursados en monedas extranjeras distintas del dólar estadounidense, se aplicarán las equivalencias que publica el Banco Central de Chile para convertir dichas monedas a dólares.
 
-cursados en monedas extranjeras distintas del dólar estadounidense, se aplicarán las equivalencias que publica el Banco Central de Chile para convertir dichas monedas a dólares.
+5.2.- Plazo de los préstamos.
 
-5.2. Plazo de los préstamos.
+El plazo de los créditos garantizados por el Fondo no podrá exceder de un año. Las instituciones que operen con estos créditos podrán renovarlos previa consulta al Administrador, siempre que el plazo original y el de la renovación, no excedan, en total, de un año. Esta consulta deberá acompañarse de: a) copia de la carta del prestatario en que solicita la ampliación de plazo; b) informe de la entidad financiera, según modelo establecido por el Administrador, sobre el comportamiento del deudor en el servicio del crédito y la conveniencia de la ampliación de plazo; y
 
-El plazo de los créditos garantizados por el Fondo no podrá exceder de un año. Las instituciones que operen con estos créditos podrán renovarlos previa consulta al Administrador, siempre que el plazo original y el de la renovación,no excedan, en total, de un año. Esta consulta deberá acompañarse de:
+c) calendario de pago propuesto.
 
-a) copia de la carta del prestatario en que solicita la ampliación de plazo;
+6.- Documentación de los créditos otorgados con la garantía del Fondo.
 
-b) informe de la entidad financiera sobre el comportamiento en el servicio del crédito y la conveniencia de la ampliación de plazo; y c) calendario de pago propuesto.
+En el documento que suscriba el deudor, que dé cuenta del crédito recibido, deberá dejarse constancia de su finalidad, monto, plazo, porcentaje cubierto por la garantía del Fondo, comisión que se establece a favor de éste y retención de los retornos de conformidad con lo dispuesto en el artículo 4° de la Ley N° 18.645, además de otras cláusulas que la empresa acreedora estime
 
-### 6. Documentación de los créditos otorgados con la garantía del Fondo
+necesario agregar.
 
-En el documento que suscriba el deudor, que dé cuenta del crédito recibido,
+7.- Destino de los créditos.
 
-deberá dejarse constancia de su finalidad, monto, plazo, porcentaje cubierto por
+Los préstamos otorgados con la garantía del Fondo deben destinarse exclusivamente a financiar la adquisición de bienes o el pago de servicios para realizar las operaciones de exportación no tradicionales.
 
-la garantía del Fondo, comisión que se establece a favor de éste y retención de
+Según se establece en el artículo 4° de la Ley N° 18.645 antes mencionada, la falsedad de la declaración jurada, en cuanto al destino del crédito o de los bienes adquiridos con él, así como la utilización del retorno de exportación en otros fines que no sea el pago del crédito caucionado por el Fondo, tienen la sanción de presidio menor en sus grados mínimo a medio.
 
-los retornos de conformidad con lo dispuesto en el artículo 4° de la Ley 18.645,
+Las instituciones otorgantes de los préstamos requerirán de los beneficiarios de los créditos amparados por el Fondo, los documentos que, a su juicio, demuestren su utilización para los fines para los cuales se cursaron.
 
-además de otras cláusulas que la empresa acreedora estime necesario agregar.
+8.- Comisión a favor del Fondo.
 
-### 7. Destino y control de los créditos
+De conformidad con lo dispuesto por el Decreto N° 204 antes mencionado, los usuarios de estos créditos pagarán al Fondo una comisión que será determinada por el Administrador del Fondo, la que no podrá exceder del 2% anual sobre el saldo del capital garantizado.
 
-Los préstamos otorgados con la garantía del Fondo deben destinarse
+9.- Retornos de divisas.
 
-exclusivamente a financiar la adquisición de bienes o el pago de servicios para
+De acuerdo con lo establecido en el N° 4 anterior, los beneficiarios de los préstamos garantizados por el Fondo deben comprometerse a efectuar los retornos de las exportaciones financiadas con estos créditos, por intermedio de la institución que los otorgó.
 
-realizar las operaciones de exportación no tradicionales señaladas
+En todo caso, los retornos de estas exportaciones, según lo señalado en el artículo 4° de la Ley N° 18.645, quedarán retenidos por el solo ministerio de la Ley a favor de la institución financiera que otorgó el crédito, hasta la concurrencia de éste y de los intereses y gastos que procedan, a fin de que se pague de los mismos.
 
-precedentemente.
+10.- Extinción de la garantía.
 
-Según se establece en el articulo 4° de la Ley N° 18.645 antes mencionada, la
+La garantía se extinguirá por el pago del crédito caucionado por el Fondo, por el pago de la garantía o por el rechazo definitivo del pago de la garantía en los casos en que la institución otorgante del crédito no haya cumplido las disposiciones que rigen estas operaciones.
 
-falsedad de la declaración en cuanto al destino del crédito, el cambio de
+Se entiende para estos fines como rechazo definitivo, el que emane de esta Superintendencia, en el caso contemplado en el artículo 10 de la Ley N° 18.645 y los provenientes de resoluciones del Administrador que no sean reclamados dentro del plazo de treinta días de notificada la respectiva entidad financiera.
 
-destino de los bienes adquiridos con el préstamo o la utilización del retorno de
+11.- Pago de la garantía.
 
-exportación en otro fin que no sea el pago del crédito caucionado por el Fondo,
+El pago de la garantía por parte del Fondo, estará sujeto a la condición de que se cumplan todos los requisitos señalados en la Ley N° 18.645, en el Decreto N° 204 y en el contrato suscrito entre la institución otorgante del crédito y el Administrador del Fondo.
 
-tienen la sanción de presidio menor en sus grados mínimo a medio.
+Para solicitar el pago de la garantía, la institución otorgante del crédito deberá acompañar los siguientes documentos:
 
-Corresponde a las propias instituciones otorgantes de los préstamos velar porque
+a) Copia del título ejecutivo con el cual se documentó el crédito
 
-ellos se destinen a los fines para los cuales se concedieron, debiendo
+b) Copia de la demanda ejecutiva presentada contra el deudor dentro del plazo de 180 días contados desde la fecha de vencimiento del crédito o de una cuota de éste, debiendo incluir en forma explícita el cobro de la comisión que se establece en favor del Fondo.
 
-establecer al efecto los controles adecuados, ya sea para verificar en el
+c) Copia de la notificación al deudor de la demanda o certificación de encontrarse el deudor válidamente emplazado, emanada de un Ministro de Fe. Esta notificación deberá hacerse dentro de los 180 días de vencido el crédito o la cuota correspondiente.
 
-terreno mismo la aplicación que se ha hecho de esos recursos, o bien, mediante
+d) Declaración de la entidad asignataria de la garantía en la que conste la individualización del tribunal y el número del rol del juicio contra el deudor.
 
-la presentación por parte del deudor, de la documentación comprobatoria sobre su
+e) Declaración sobre el monto del retorno que retuvo a su favor y aplicó al crédito, de conformidad con lo dispuesto en el artículo 4° de la Ley N° 18.645, o bien la evidencia de que se presentó una querella criminal contra el deudor, cuando proceda.
 
-empleo.
+f) Liquidación detallada y actualizada del crédito garantizado, debiendo especificar los abonos efectuados a la deuda y los montos recaudados por concepto de comisión a favor del Fondo, en caso que los hubiere.
 
-De esas comprobaciones y pruebas documentales sobre el uso de los créditos
+12.- Recuperación del crédito.
 
-garantizados por el Fondo, debe quedar constancia en la carpeta de la respectiva
+El importe que se recupere de los créditos con posterioridad a haberse hecho efectiva la garantía, será destinado a efectuar los pagos que se indican en el siguiente orden de preferencias:
 
-operación.
+a) Capital del préstamo no garantizado por el Fondo y los gastos de la cobranza judicial y extrajudicial en que la institución otorgante incurra en relación con la totalidad del crédito;
 
-### 8. Comisión a favor del Fondo
+b) La suma desembolsada por el Fondo en pago de su garantía;
 
-De conformidad con lo dispuesto por el Decreto N° 119 antes mencionado, los
+c) Intereses a los que tenga derecho la institución otorgante del crédito, ya sea que corresponda a la parte garantizada por el Fondo como a la no garantizada, devengados hasta la fecha en que pagó el Fondo.
 
-usuarios de estos créditos pagarán al Fondo una comisión que será determinada
+d) Comisiones y cualquiera otra suma a la que tenga derecho el Fondo.
 
-por el Administrador del Fondo, la que no podrá exceder del 2% anual sobre el
+3.- Plazo para utilizar las garantías adjudicadas.
 
-saldo del capital garantizado.
+Las entidades financieras adjudicatarias o asignatarias de las garantías del Fondo, deberán cursar los préstamos amparados por esas garantías, dentro de un plazo de seis meses contados desde la fecha de la adjudicación o asignación.
 
-### 9. Retención de los retornos de divisas
+En caso que no se hayan cursado créditos amparados por esa caución dentro del plazo señalado en el párrafo precedente, el Fondo entenderá liberados los derechos de garantía adjudicados y no utilizados, pudiendo además, en tal circunstancia, cobrar comisión por esos derechos.
 
-Según lo señalado en el articulo 4° de la Ley N° 18.645, los retornos de divisas
+El Administrador del Fondo podrá marginar de futuras licitaciones a las entidades que no hubieren otorgado o desembolsado dentro del plazo antes señalado, injustificadamente, los créditos amparados por las garantías adjudicadas, como también podrá hacerlo con aquéllas que no cumplan con las disposiciones que regulan este Fondo.
 
-provenientes de exportaciones financiadas con créditos garantizados por el
+14.- Instrucciones contables.
 
-Fondo, quedarán retenidos por el solo ministerio de la Ley a favor de la
-
-institución financiera que otorgó el crédito, hasta la concurrencia de éste y de
-
-los intereses y gastos que procedan, a fin de que se pague de los mismos.
-
-### 10. Extinción de la garantía
-
-La garantía se extinguirá por el pago del crédito caucionado por el Fondo; por
-
-el pago de la garantía o por el rechazo definitivo del pago de la garantía en
-
-los casos en que la institución otorgante del crédito no haya cumplido las
-
-disposiciones que rigen estas operaciones.
-
-Se entiende para estos fines como rechazo definitivo, el que emane de esta
-
-Superintendencia, en el caso contemplado en el artículo 10 de la Ley N° 18.645 y
-
-los provenientes de resoluciones del Administrador que no sean reclamados dentro
-
-del plazo de treinta días de notificada la respectiva entidad financiera.
-
-### 11. Pago de la garantía
-
-El pago de la garantía por parte del Fondo, estará sujeto a la condición de que
-
-se cumplan todos los requisitos señalados en la Ley 18.645, en el Decreto N° 119
-
-y en el contrato suscrito entre la institución otorgante del crédito y el
-
-Administrador del Fondo.
-
-Para solicitar el pago de la garantía, la institución otorgante del crédito
-
-deberá acompañar los siguientes documentos:
-
-a) Copia del título ejecutivo con el cual se documentó el crédito;
-
-b) Copia dela demanda ejecutiva presentada contra el deudor dentro del plazo de
-
-120 días contados desde la fecha de vencimiento del crédito o de una cuota de
-
-éste, debiendo incluir en forma explícita el cobro de la comisión que se
-
-establece en favor del Fondo;
-
-c) Copia de la notificación al deudor de la demanda o certificación de
-
-encontrarse el deudor válidamente emplazado, emanada de un Ministro de Fe;
-
-d) Declaración de la entidad asignataria de la garantía en la que conste la
-
-individualización del tribunal y el número del rol del juicio contra el deudor;
-
-e) Certificado en que conste que el producto de la exportación está prendado a
-
-la entidad otorgante del crédito; y,
-
-f) Liquidación detallada y actualizada del crédito garantizado, debiendo
-
-especificar los abonos efectuados a la deuda y los montos recaudados por
-
-concepto de comisión a favor del Fondo, en caso que los hubiere.
-
-### 12. Recuperación del crédito
-
-El importe que se recupere de los créditos con posterioridad a haberse hecho
-
-efectiva la garantía, será destinado a efectuar los pagos que se indican en el
-
-siguiente orden de preferencias:
-
-a) Capital del préstamo correspondiente a la institución otorgante del crédito;
-
-b) Capital del préstamo correspondiente al Fondo de Garantía para Exportadores
-
-no Tradicionales;
-
-c) Intereses a que tenga derecho la institución otorgante del crédito, ya sea
-
-que correspondan a la parte garantizada por el Fondo como a la no garantizada;
-
-d) Gastos judiciales y extrajudiciales en que incurra la institución otorgante
-
-del crédito; y.
-
-e) Comisiones y cualquiera otra suma que tenga derecho el Fondo.
-
-### 13. Plazo para utilizar las garantías adjudicadas
-
-Las entidades financieras adjudicatarias o asignatarias de las garantías del
-
-Fondo, deberán cursar los préstamos amparados por esas garantías, dentro de un
-
-plazo de tres meses contados desde la fecha de la adjudicación o asignación.
-
-En caso que no se hayan cursado créditos amparados por esa caución dentro del
-
-plazo señalado en el párrafo precedente, el Fondo entenderá liberados los
-
-derechos de garantía adjudicados y no utilizados.
-
-El Administrador del Fondo podrá marginar de futuras licitaciones a las
-
-entidades que no hubieren otorgado o desembolsado dentro del plazo antes
-
-señalado, injustificadamente, los créditos amparados por las garantías
-
-adjudicadas, como también podrá hacerlo con aquéllas que no cumplan con las
-
-disposiciones que regulan este Fondo.
-
-### 14. Instrucciones contables
-
-14.1. Monto de las garantías adjudicadas.
+14.1.- Monto de las garantías adjudicadas.
 
 La institución financiera que se adjudique una garantía del Fondo, registrará el importe total adjudicado en la cuenta de orden "Garantías adjudicadas por cursar del Fondo para Exportadores no Tradicionales" de la partida 9235.
 
-14.2. Utilización de la garantía.
+14.2.- Utilización de la garantía.
 
 Cada vez que la institución financiera curse un crédito amparado con la garantía de que se trata, registrará el monto comprometido de ésta en la cuenta de orden "Garantías cursadas con cargo al Fondo para Exportadores no Tradicionales", de la partida 9235, a la vez que deberá revertirse el respectivo importe de la cuenta "Garantías adjudicadas por cursar del Fondo para Exportadores no Tradicionales" señalada en el numeral 14.1 precedente.
 
-14.3. Liberación de la garantía.
+14.3.- Liberación de la garantía.
 
-En caso que la garantía no sea utilizada en el plazo de tres meses señalado precedentemente, se deberá revertir el asiento contable a que se refiere el numeral 14.1 precedente.
+En caso que la garantía no sea utilizada en el plazo de seis meses señalado anteriormente, se deberá revertir el asiento contable a que se refiere el numeral 14.1.
 
-Cuando la garantía sea liberada por la recuperación del préstamo caucionado, se revertirá el asiento contable de que trata el numeral 14.2 de este capitulo.
+Cuando la garantía sea liberada por la recuperación del préstamo caucionado, se revertirá el asiento contable de que trata el numeral 14.2.
 
 14.4.- Préstamos garantizados por el Fondo.
 
@@ -20458,33 +20258,21 @@ Los préstamos amparados por el Fondo de Garantía que cursen las instituciones 
 
 En todo caso, las instituciones financieras deberán mantener identificados todos los créditos que se otorguen caucionados por el Fondo de Garantía de que trata este Capítulo.
 
-14.5. Recaudación de la comisión a favor del Fondo.
+14.5.- Recaudación de la comisión a favor del Fondo.
 
 La comisión a favor del Fondo que las instituciones adjudicatarias de las respectivas garantías tienen que recaudar de los usuarios de los créditos, será acreditada, por el período que medie entre su percepción y la fecha en que se ponga a disposición del Banco del Estado de Chile, en la cuenta "Comisiones a favor del Fondo de Garantía para Exportadores no Tradicionales", de la partida 3010.
 
-14.6. Recuperación de créditos vencidos a favor del Fondo.
+14.6.- Recuperación de créditos vencidos a favor del Fondo.
 
-Los importes provenientes de recuperaciones de créditos vencidos que corresponda entregar al Fondo, en rembolso parcial o total de la garantía pagada por éste,se acreditarán en la cuenta "Recuperaciones de garantías por entregar al Fondo para exportadores no tradicionales", de la partida 3010, hasta la fecha en que sean remitidos al Banco del Estado de Chile.
+Los importes provenientes de recuperaciones de créditos vencidos que corresponda entregar al Fondo, en reembolso parcial o total de la garantía pagada por éste, se acreditarán en la cuenta "Recuperaciones de garantías por entregar al Fondo para exportadores no tradicionales", de la partida 3010, hasta la fecha en que sean remitidos al Banco del Estado de Chile.
 
 Los referidos montos serán entregados al Administrador del Fondo a lo menos semanalmente.
 
-### 15. Información al Banco del Estado de Chile
+15.- Información al Banco del Estado de Chile.
 
-Las instituciones financieras que se adjudiquen garantías del Fondo, están
+Las instituciones financieras que se adjudiquen garantías del Fondo, están obligadas a informar al Banco del Estado de Chile, en su calidad de Administrador de aquél, los créditos que otorguen al amparo de dicha garantía, dentro de los diez días contados desde la fecha en que cursen los referidos préstamos.
 
-obligadas a informar al Banco del Estado de Chile, en su calidad de
-
-Administrador de aquél, los créditos que otorguen al amparo de dicha garantía,
-
-dentro de los diez días contados desde la fecha en que cursen los referidos
-
-préstamos.
-
-Asimismo, deberán informar al Administrador del Fondo la recuperación de los
-
-mencionados préstamos y cualquier otro antecedente que éste les solicite en la
-
-oportunidad que lo requiera.
+Asimismo, deberán informar al Administrador del Fondo la recuperación de los mencionados préstamos y cualquier otro antecedente que éste les solicite en la oportunidad que lo requiera.
 
 CAPITULO 14-8 (Bancos)
 
