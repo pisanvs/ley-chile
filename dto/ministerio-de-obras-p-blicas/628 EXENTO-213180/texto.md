@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 628 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 1, superficie 1.674 m², rol de avalúo Nº 600-49, comuna de San Ignacio, para la obra: "Proyecto Laja Diguillín, Canal Matriz Diguillín - Larqui Km. 6,416 al Km. 11,893", VIII Región, y se acordó el valor de indemnización con su propietaria María Mercedes Arriagada Lavado y Otros, ascendente a la cantidad de $1.641.906.-
+
+Fiscal del Ministerio de Obras Públicas.
