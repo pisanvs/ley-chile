@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.257, de 23 de septiembre de 2003, de esta Subsecretaría, autorízase a PESQUERA PALACIOS S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Ladrilleros S/N, Quellón, Chiloé, X Región, en las líneas de elaboración de Fresco-Enfriado y Congelado, el recurso hidrobiológico Erizo rojo Loxechinus albus.
+
+Valparaíso, 23 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
