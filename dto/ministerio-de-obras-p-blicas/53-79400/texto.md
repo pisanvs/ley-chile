@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 53, de 26 de febrero de 1992, se expropió el lote No. 9, rol de avalúo 56-37, comuna de Curicó, superficie 452,40 M2, para la obra Camino Longitudinal Sur, sector Romeral - Molina, Paso Superior Avenida España y se acordó el precio de indemnización con su propietaria Sociedad Vicente Sánchez Gato S.A.I., ascendente a la cantidad de $ 1.198.854.-
+
+Fiscal del Ministerio de Obras Públicas.
