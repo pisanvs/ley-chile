@@ -1,0 +1,13 @@
+OTORGA A LA EMPRESA ELECTRICA PUENTE ALTO LTDA.
+
+CONCESION DEFINITIVA DE SERVICIO PUBLICO DE DISTRIBUCION
+
+EN LA REGION METROPOLITANA
+
+_____________________________________________________
+
+| NOTA: VER DIARIO OFICIAL N° 34751 DEL 29 DE |
+
+| DICIEMBRE DE 1993 PAGINAS 6 Y 7. |
+
+|_____________________________________________________|
