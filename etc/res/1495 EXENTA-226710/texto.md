@@ -1,0 +1,13 @@
+Por resolución exenta Nº 1.495, de 28 de mayo de 2004, de esta Subsecretaría de Pesca, autorízase al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto, denominado "Monitoreo biológico-pesquero de las capturas de sardina común y anchoveta realizadas en la VIII Región, 2004" elaborado por el solicitante y aprobado por esta Subsecretaría, el cual se considera como parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en monitorear la operación de la flota cerquera artesanal y caracterizar el proceso reproductivo de sardina común y anchoveta durante el período de estudio, en la VIII Región.
+
+La pesca de investigación se efectuará en el área marítima correspondiente a la VIII Región, entre la fecha de la presente resolución y el 31 de agosto de 2004, ambas fechas inclusive.
+
+Participarán en la presente pesca de investigación, las embarcaciones artesanales que se indican, las que se encuentran inscritas en el Registro Artesanal de la VIII Región, en la sección pesquería de las especies sardina común o anchoveta, con red de cerco: Aarón, Abraham, Achernar, Aguila Real II, Aldebarán II, Andrea C, Antares V, Canopus III, Celenia I, Celenia II, Cóndor IV, Daniel, Don Alfonso II, Don Alfonso III, Don Boris, Don Bosco, Don Chelo II, Don Cristian, Don Feña, Don Hernán M, Don Hugo, Don Humberto M, Don Igel, Don Jean II, Don Jorge Luis M, Don José III, Don Juan M, Don Leonel, Don Manolo, Don Miguel, Don Miguel II, Don Nene, Don Pascual, Don Patricio, Don Pedro M, Don Pepe, Don Raúl M, Don Rubén, Don Tito R, Don Valentín, Doña Laura Rosa II, Doña Leticia, Doña Margarita C, Elías, Elizabeth IV, Emelinda, Galleguita II, Galleguita III, Glaciar I, Graciela Nicole, Huracán I, Jefte, Josué, Kimy II, La Victoria, Lidia C, Marco Polo, Margot María IV, María Eugenia M, María Isabel, Master, Matías, Mesana, Miyasaki, Nagasaki, Nebraska, Paula Estefany, Poseidón II, Punta Verde, Quenos, Rainier Alejandro, Ramiro M, Río Bío Bío, Río Loa, Río Maipo II, Riveira, Rodrigo I, Sotileza, Sta. Ester II, Sta. Margarita I, Tío Chito, Tsunami, Víctor Guillermo, Yen y Yurimagua.
+
+En cumplimiento del objetivo de la presente pesca de investigación, las naves participantes podrán extraer un límite máximo ascendente a 1.837 toneladas de anchoveta y 1.943 toneladas de sardina común.
+
+El Instituto de Fomento Pesquero designa como persona responsable de esta pesca de investigación al Director Ejecutivo del Instituto de Fomento Pesquero don Guillermo Moreno Paredes.
+
+Valparaíso, 28 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
