@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 160, de fecha 25 de febrero de 2002, se expropiaron los lotes de terreno Nºs 27 y 28, superficie 3.265 y 4.114 m2, rol de avalúo 204-7, comuna de Los Alamos, para la obra "Camino Ruta P-46, Sector Los Alamos - Sara de Lebu, Km. 0,00000 a Km. 16,84000" y se acordó el valor de indemnización con su propietario Luis Heriberto Fierro Vega, ascendente a la cantidad de $2.566.871.
+
+- Fiscal del Ministerio de Obras Públicas.
