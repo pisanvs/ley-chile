@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.034, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s.28, 30, 37 y 41, superficies 380, 490, 400 y 1.000 m2., respectivamente, roles de avalúos 1234-25, 1235-2 y 1239-17, comuna de Ancud, obra Camino Ancud-Quetalmahue y se acordó precio de indemnizacion con sus propietarios Mariano Guaiquil González, Antonio Barría Vargas y Purísimo Maldonado González, ascendente a las cantidades de $ 664.968, lotes 28 y 30; $ 203.520, lote 37 y $ 746.400, lote 41.-
+
+Fiscal del Ministerio de Obras Públicas.
