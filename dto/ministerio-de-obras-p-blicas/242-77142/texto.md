@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 242, de fecha 31 de agosto de 1992, se expropiaron los lotes de terrenos No. s. 3 y 3-A, superficies 11.737 m2 y 1.774 m2., rol de avalúo 5004-59, Comuna de Coronel, para la obra Camino By Pass Coronel Lota Ruta 160, sector By Pass Coronel Lota y se acordó el valor de indemnización con sus propietarios Juan Crisosto Maldonado Maldonado y otros y Luis Ramírez Sanhueza, ascendente a las cantidades de $ 5.855.989 y $ 4.042.875.
+
+Fiscal del Ministerio de Obras Públicas.
