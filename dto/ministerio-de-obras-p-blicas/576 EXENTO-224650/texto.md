@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 576 de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 5, superficie 1.080 m², rol de avalúo Nº 428-42, comuna de Cauquenes, para la obra "Mejoramiento Ruta M-830, sector Cauquenes - Sta. Sofía Km. 1,200 a Km. 5,100", VII Región y se acordó el valor de la indemnización con su propietario José Gastón Veloso Bustos y Otros, ascendente a la cantidad de $413.280.
+
+Fiscal del Ministerio de Obras Públicas.
