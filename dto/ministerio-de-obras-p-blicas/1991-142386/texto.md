@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.991, de 30 de julio de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 1, para la obra: Ruta 5 Tramo Talca - Chillán:
+
+''Solución Acceso Norte Aldea Campesina'', Séptima Región, que figura a nombre de Guajardo García Rafael, rol de avalúo 3979-18, comuna de Talca, superficie 106 m2. La comisión de peritos integrada por los señores Sergio Ley Gómez, Jorge Brito Obreque y Luis Hugo Villarroel Urbina, fijó con fecha 24 de abril de 1998, el valor provisional de la indemnización en la cantidad de $1.336.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
