@@ -1,0 +1,3 @@
+Por Resolución Nº 968, de 4 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95103079, presentada por LUIS FERNANDO BARRERA VASQUEZ, para el centro de cultivo ubicado en Bahía Yal, comuna de Chonchi, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo Nº 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
