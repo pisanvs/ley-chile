@@ -1,0 +1,1 @@
+Libera, por el plazo que señala, de todo impuesto fiscal o municipal el recargo que al precio de las entradas a los espectáculos públicos establezca la Municipalidad de San Felipe, el que será destinado a la construcción del Estadio Municipal.
