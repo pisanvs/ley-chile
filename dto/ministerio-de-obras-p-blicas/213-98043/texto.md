@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº213, de 27 de febrero de 1998, se expropió el lote de terreno Nº1, superficie 265 M2., rol de avalúo 357-4, comuna de Concepción, obra Mejoramiento Autopista Concepción - Talcahuano, sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con su propietaria Marisol Soledad Alvarez González, ascendente a la cantidad de $60.594.960.-
+
+Fiscal del Ministerio de Obras Públicas.
