@@ -1,0 +1,3 @@
+Por Decreto MOP No. 33, de 28 de febrero de 1991, se expropiaron los lotes No. s. 2, 3 y 8, superficies 1.170 m2., 905 m2. y 175 m2., roles de avalúo 126-8 y 234-266, Comunas Malloa y Rengo, para la obra Mejoramiento Camino Rengo-Quinta de Tilcoco, Rol H-60 y se acordó el precio de indemnización con sus propietarios don José Antonio Iriondo Arruti y Juan Bautista Reyes Thompson, ascendente a las cantidades de $ 951.003 y $ 128.156.-
+
+Fiscal del Ministerio de Obras Públicas.
