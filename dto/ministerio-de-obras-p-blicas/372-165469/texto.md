@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 372, de 29 de noviembre de 1985, se expropió el lote No. 1 y se constituyó servidumbre de tránsito y acueducto sobre el lote No. 2, cuyas superficies son 1.716,06 m2. y 577,50 m2., respectivamente, rol de avalúo 3207-31, Comuna de Temuco, IX Región para Alcantarillado de Temuco, Recinto Planta Elevadora de aguas servidas, sector amanecer y se acordó el precio de indemnización con su propietario Juan Carlos Ruiz Rodríguez, ascendente $ 463.271.
+
+- Fiscal del Ministerio de Obras Públicas. (16)
