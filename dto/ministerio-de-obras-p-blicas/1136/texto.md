@@ -1,0 +1,3 @@
+Por Decreto MOP N°1.136, de 28 de noviembre de 1997, se expropió el lote de terreno N° 1-A, superficie 404 m2, rol de avalúo 597-82, comuna de San Ignacio para la obra Proyecto Laja-Diguillín, Canal de Empalme a Canal Matríz, Sector Bulnes y se acordó precio de indemnización con su propietarios, Rosa Amelia Cárdenas Mondaca y otros, ascendente a la cantidad de $204.224.-
+
+Fiscal del Ministerio de Obras Públicas.
