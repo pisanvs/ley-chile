@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.604 de fecha 28 de abril de 2000, se expropió los lotes de terreno Nºs. 4 y 5-A, superficie 12.281 y 26 m² respectivamente, roles de avalúo 95000-2 y 12006-11, comunas de Concepción y San Pedro de la Paz, para la obra ''Reposición Puente Bío Bío Antiguo, Ruta 160 Concepción - San Pedro'' y se acordó el valor de indemnización con sus propietarios Empresa de los Ferrocarriles del Estado y Emelina Antonieta Castillo Maurelia, ascendente a las cantidades de $429.509.072.- para el lote 4 y $1.470.040.- para el lote 5-A.
+
+Fiscal del Ministerio de Obras Públicas.
