@@ -872,9 +872,7 @@ En la computación de los plazos de días, meses y años, se observarán las reg
 
 <!-- parte:8725220 -->
 
-La obligación que vence en día domingo o en otro día festivo, es pagadera al siguiente.
-
-La misma regla se aplicará a las obligaciones que venzan los días Sábado de cada semana y 31 de Diciembre de cada año.
+La obligación que vence en día domingo o en otro día festivo, es pagadera al siguiente. La misma regla se aplicará a las obligaciones que venzan los días Sábado de cada semana.
 
 #### Artículo 112
 
