@@ -17820,9 +17820,7 @@ Para ese efecto, se tendrá como una infracción a las presentes instrucciones e
 
 VII.- DISPOSICION TRANSITORIA.
 
-No obstante lo dispuesto en las letras a) y b) del N°1 del título II de este Capítulo, transitoriamente las instituciones financieras podrán exceder los límites señalados en dichos literales, hasta en un 50% y un 25% respectivamente, debiendo encuadrarse en los límites permanentes a partir del 31 de marzo de 2.000.
-
-Las disposiciones del título V de este Capítulo rigen a contar del 30 de junio de 2000.
+No obstante lo señalado en el N° 1 del título II de este Capítulo, las instituciones financieras podrán acogerse a los márgenes especiales de que trata la disposición transitoria del Capítulo III.B.2 del Compendio de Normas Financieras.
 
 CAPITULO 12-10 (Bancos y Financieras)
 
