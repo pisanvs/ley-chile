@@ -1,0 +1,3 @@
+Por decreto MOP Nº 513, de 30 de marzo de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 8. Obra: Camino Ruta G-25, sector San José de Maipo-San Gabriel Tramo Km. 34.500,00 al 55.557,30 que figura a nombre de Comunidad Flores Flores, rol de avalúo 105-9, comuna de San José de Maipo, superficie 72,10 m². La Comisión de Peritos, fijó con fecha 7 de julio de 1998, en la cantidad de $10.846.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
