@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 809, de fecha 05 de Agosto de 1986, de la Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a los señores Yolanda Eduvijes Pardo Alvarez, Luis Guillermo Gómez González, Juan José Gómez González, María de las Nieves Araya Tapia, Manuel Antonio Carvajal Palacios, Osvaldo Alfonso Pinto Castillo, Luis Arturo Estay Riquelme, Pcdro Zenón Bernales Chaca, Nelson Lagos Durán, Ramón Humberto Núñez Correa, Vicente Leonardo Sigl Herrera y Carlos Antonio Barraza Muñoz para efectuar el servicio de taxi colectivo urbano de la Línea No. 158 "Local Puente Alto - Rotonda Vicuña Mackenna, cuyo trazado se encuentra autorizado por resolución exenta No. 498, de 10 de Julio de 1985, de esta Secretaría Regional.
+
+Santiago, 07 de Agosto de 1986. Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
