@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.805, de 29 de septiembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº64-1, para la obra:
+
+"Concesión Internacional Ruta 5; Tramo Río Bueno - Puerto Montt". Sector San Pablo - Osorno. Km. 911,034 al 915,843, Décima Región, que figura a nombre de Scholz Buschmann María E., rol de avalúo 2225-49, comuna de Osorno, superficie de 1.470 m2. La comisión de peritos integrada por los señores Sergio Adrián Sánchez García, Carlos Eugenio Mera Santibáñez y Roberto Pedro Martínez Kraushaaar, fijó con fecha 10 de mayo de 1999, el valor provisional de la indemnización en la cantidad de $902.580.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
