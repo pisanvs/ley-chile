@@ -288,7 +288,7 @@ ESCALA GENERAL.
 
 PENAS DE CRÍMENES.
 
-Muerte.
+Presidio perpetuo calificado.
 
 Presidio perpetuo.
 
@@ -398,7 +398,7 @@ PENAS QUE LLEVAN CONSIGO OTRAS ACCESORIAS.
 
 #### Artículo 27
 
-La pena de muerte, siempre que no se ejecute al condenado, y las de presidio, reclusión y relegación perpetuos, llevan consigo la de inhabilitación absoluta perpetua para cargos y oficios públicos y derechos políticos por el tiempo de la vida de los penados y la de sujeción a la vigilancia de la autoridad por el máximum que establece este Código.
+Las penas de presidio, reclusión y relegación perpetuos, llevan consigo la de inhabilitación absoluta perpetua para cargos y oficios públicos y derechos políticos por el tiempo de la vida de los penados y la de sujeción a la vigilancia de la autoridad por el máximum que establece este Código.
 
 #### Artículo 28
 
@@ -421,6 +421,18 @@ NATURALEZA Y EFECTOS DE ALGUNAS PENAS.
 #### Artículo 32
 
 La pena de presidio sujeta al condenado a los trabajos prescritos por los reglamentos del respectivo establecimiento penal. Las de reclusión y prisión no le imponen trabajo alguno.
+
+#### Artículo 32
+
+BIS
+
+La imposición del presidio perpetuo calificado importa la privación de libertad del condenado de por vida, bajo un régimen especial de cumplimiento que se rige por las siguientes reglas:
+
+1.ª No se podrá conceder la libertad condicional sino una vez transcurridos cuarenta años de privación de libertad efectiva, debiendo en todo caso darse cumplimiento a las demás normas y requisitos que regulen su otorgamiento y revocación;
+
+2.ª El condenado no podrá ser favorecido con ninguno de los beneficios que contemple el reglamento de establecimientos penitenciarios, o cualquier otro cuerpo legal o reglamentario, que importe su puesta en libertad, aun en forma transitoria. Sin perjuicio de ello, podrá autorizarse su salida, con las medidas de seguridad que se requieran, cuando su cónyuge o alguno de sus padres o hijos se encontrare en inminente riesgo de muerte o hubiere fallecido;
+
+3.ª No se favorecerá al condenado por las leyes que concedan amnistía ni indultos generales, salvo que se le hagan expresamente aplicables. Asimismo, sólo procederá a su respecto el indulto particular por razones de Estado o por el padecimiento de un estado de salud grave e irrecuperable, debidamente acreditado, que importe inminente riesgo de muerte o inutilidad física de tal magnitud que le impida valerse por sí mismo. En todo caso el beneficio del indulto deberá ser concedido de conformidad a las normas legales que lo regulen.
 
 #### Artículo 33
 
@@ -584,7 +596,113 @@ En los casos en que la ley señala una pena compuesta de dos o más distintas, c
 
 Para determinar las penas que deben imponerse según los arts. 51, 52, 53 y 54: 1.° a los autores de crimen o simple delito frustrado; 2.° a los autores de tentativa de crimen o simple delito, cómplices de crimen o simple delito frustrado y encubridores de crimen o simple delito consumado; 3.° a los cómplices de tentativa de crimen o simple delito y encubridores de crimen o simple delito frustrado, y 4.° a los encubridores de tentativa de crimen o simple delito, el tribunal tomará por base las siguientes escalas graduales:
 
-.
+ESCALA NUMERO 1
+
+Grados.
+
+1° Presidio perpetuo calificado.
+
+2° Presidio o reclusión perpetuos.
+
+3° Presidio o reclusión mayores en sus grados máximos.
+
+4° Presidio o reclusión mayores en sus grados medios.
+
+5° Presidio o reclusión mayores en sus grados mínimos.
+
+6° Presidio o reclusión menores en sus grados máximos.
+
+7° Presidio o reclusión menores en sus grados medios.
+
+8° Presidio o reclusión menores en sus grados mínimos.
+
+9° Prisión en su grado máximo.
+
+10. Prisión en su grado medio.
+
+11. Prisión en su grado mínimo.
+
+ESCALA NUMERO 2
+
+Grados.
+
+1° Relegación perpetua.
+
+2° Relegación mayor en su grado máximo.
+
+3° Relegación en su grado medio.
+
+4° Relegación mayor en su grado mínimo.
+
+5° Relegación menor en su grado máximo.
+
+6° Relegación menor en su grado medio.
+
+7° Relegación menor en su grado mínimo.
+
+8° Destierro en su grado máximo.
+
+9° Destierro en su grado medio.
+
+10. Destierro en su grado mínimo.
+
+ESCALA NUMERO 3
+
+Grados.
+
+1° Confinamiento o extrañamiento mayores en sus grados máximos.
+
+2° Confinamiento o extrañamiento mayores en sus grados medios.
+
+3° Confinamiento o extrañamiento mayores en sus grados mínimos.
+
+4° Confinamiento o extrañamiento menores en sus grados máximos.
+
+5° Confinamiento o extrañamiento menores en sus grados medios.
+
+6° Confinamiento o extrañamiento menores en sus grados mínimos.
+
+7° Destierro en su grado máximo.
+
+8° Destierro en su grado medio.
+
+9° Destierro en su grado mínimo.
+
+ESCALA NUMERO 4
+
+Grados.
+
+1° Inhabilitación absoluta perpetua.
+
+2° Inhabilitación absoluta temporal en su grado máximo.
+
+3° Inhabilitación absoluta temporal en su grado medio.
+
+4° Inhabilitación absoluta temporal en su grado mínimo.
+
+5° Suspensión en su grado máximo.
+
+6° Suspensión en su grado medio.
+
+7° Suspensión en su grado mínimo.
+
+ESCALA NUMERO 5
+
+Grados.
+
+1° Inhabilitación especial perpetua.
+
+2° Inhabilitación especial temporal en su grado máximo.
+
+3° Inhabilitación especial temporal en su grado medio.
+
+4° Inhabilitación especial temporal en su grado mínimo.
+
+5° Suspensión en su grado máximo.
+
+6° Suspensión en su grado medio.
+
+7° Suspensión en su grado mínimo.
 
 #### Artículo 60
 
@@ -652,7 +770,7 @@ Cuando la ley señala una sola pena indivisible, la aplicará el tribunal sin co
 
 Si la ley señala una pena compuesta de dos indivisibles y no acompañan al hecho circunstancias atenuantes ni agravantes, puede el tribunal imponerla en cualquiera de sus grados.
 
-Cuando solo concurre alguna circunstancia atenuante, debe aplicarla en su grado mínimo, y si habiendo una circunstancia agravante, no concurre ninguna atenuante, la impondrá en su grado máximo. Si en este último caso el grado máximo de los designados estuviere constituido por la pena de muerte, el Tribunal no estará obligado a imponerla necesariamente.
+Cuando solo concurre alguna circunstancia atenuante, debe aplicarla en su grado mínimo, y si habiendo una circunstancia agravante, no concurre ninguna atenuante, la impondrá en su grado máximo.
 
 Siendo dos o más las circunstancias atenuantes sin que concurra ninguna agravante, podrá imponer la pena inferior, en uno o dos grados al mínimo de los señalados por la ley, según sea el número y entidad de dichas circunstancias.
 
@@ -680,7 +798,7 @@ Habiendo una sola circunstancia atenuante o una sola circunstancia agravante, no
 
 Si son dos o más las circunstancias atenuantes y no hay ninguna agravante, el tribunal podrá imponer la pena inferior en uno, dos o tres grados al mínimo de los señalados por la ley, según sea el número y entidad de dichas circunstancias.
 
-Cuando, no concurriendo circunstancias atenuantes, hay dos o más agravantes, podrá imponer la inmediatamente superior en grado al máximo de los designados por la ley, a menos que dicha pena fuere la de muerte, en cuyo caso el Tribunal no estará obligado a imponerla necesariamente.
+Cuando, no concurriendo circunstancias atenuantes, hay dos o más agravantes, podrá imponer la inmediatamente superior en grado al máximo de los designados por la ley.
 
 Concurriendo circunstancias atenuantes y agravantes, se observará lo prescrito en los artículos anteriores para casos análogos.
 
@@ -724,7 +842,7 @@ El sentenciado cumplirá todas sus condenas simultáneamente, siendo posible. Cu
 
 La disposición del artículo anterior no es aplicable en el caso de que un solo hecho constituya dos o más delitos, o cuando uno de ellos sea el medio necesario para cometer el otro.
 
-En estos casos solo se impondrá la pena mayor asignada al delito más grave. Si dicha pena fuere la de muerte, podrá imponerse, en vez de ella, la de presidio perpetuo.
+En estos casos solo se impondrá la pena mayor asignada al delito más grave.
 
 #### Artículo 76
 
@@ -734,7 +852,7 @@ Siempre que el tribunal imponga una pena que lleve consigo otras por disposició
 
 En los casos en que la ley señala una pena inferior o superior en uno o más grados a otra determinada, la pena inferior o superior se tomará de la escala gradual en que se halle comprendida la pena determinada.
 
-Si no hubiere pena superior en la escala gradual respectiva o la pena superior fuere la de muerte, se impondrá el presidio perpetuo.
+Si no hubiere pena superior en la escala gradual respectiva, se impondrá el presidio perpetuo. Sin embargo, cuando se tratare de la escala número 1 prevista en el artículo 59, se impondrá el presidio perpetuo calificado.
 
 Faltando pena inferior se aplicará siempre la multa.
 
@@ -766,23 +884,19 @@ Si después de cometido el delito cayere el delincuente en estado de locura o de
 
 #### Artículo 82
 
-Todo condenado a muerte será fusilado.
-
-La ejecución se verificará de día y con publicidad en el lugar generalmente designado para este efecto o en el que el tribunal determine cuando haya causa especial para ello.
-
-Esta pena se ejecutará tres días después de notificado al condenado el cúmplase de la sentencia ejecutoria; pero si el vencimiento de este plazo correspondiere a uno o más días de fiesta religiosa o nacional, se postergará para el siguiente.
+Derogado.-
 
 #### Artículo 83
 
-El condenado acompañado del sacerdote o ministro del culto cuyo auxilio hubiere pedido o aceptado, será conducido al lugar del suplicio en un carruaje celular. Llegado allí será sacado del carruaje e inmediatamente ejecutado.
+Derogado.-
 
 #### Artículo 84
 
-El cadáver del ajusticiado será entregado a su familia, si ésta lo pidiere, quedando obligada a hacerlo enterrar sin aparato alguno.
+Derogado.-
 
 #### Artículo 85
 
-No se ejecutará la pena de muerte en la mujer que se halle en cinta, ni se le notificará la sentencia en que se le imponga hasta que hayan pasado cuarenta días después del alumbramiento.
+Derogado.-
 
 #### Artículo 86
 
@@ -850,7 +964,7 @@ En caso de reincidencia sufrirá la pena de reclusión menor en su grado mínimo
 
 Los que después de haber sido condenados por sentencia ejecutoria cometieren algún crimen o simple delito durante el tiempo de su condena, bien sea mientras la cumplen o después de haberla quebrantado, sufrirán la pena que la ley señala al nuevo crimen o simple delito que cometieren, debiendo cumplir esta condena y la primitiva por el orden que el tribunal prefije en la sentencia, de conformidad con las reglas prescritas en el art. 74 para el caso de imponerse varias penas al mismo delincuente.
 
-Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, podrá imponerse al procesado la pena de muerte, o bien agravarse la pena perpetua con las de encierro en celda solitaria hasta por un año e incomunicación con personas extrañas al establecimiento penal hasta por seis años, que podrán aplicarse separada o conjuntamente. Si el nuevo crimen o simple delito tuviere señalada una pena menor, se agravará la pena perpetua con una o más de las penas accesorias indicadas, a arbitrio del Tribunal, que podrán imponerse hasta por el máximo del tiempo que permite el artículo 25.
+Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, podrá imponérsele la de presidio perpetuo calificado. Si el nuevo crimen o simple delito tuviere señalada una pena menor, se agravará la pena perpetua con una o más de las penas accesorias indicadas, a arbitrio del Tribunal, que podrán imponerse hasta por el máximo del tiempo que permite el artículo 25.
 
 En el caso de que el nuevo crimen deba penarse con relegación perpetua y el delincuente se halle cumpliendo la misma pena, se le impondrá la de presidio mayor en su grado medio, dándose por terminada la de relegación.
 
@@ -896,7 +1010,7 @@ La gracia de indulto sólo remite o conmuta la pena; pero no quita al favorecido
 
 La acción penal prescribe:
 
-Respecto de los crímenes a que la ley impone pena de muerte o de presidio, reclusión o relegación perpetuos, en quince años.
+Respecto de los crímenes a que la ley impone pena de presidio, reclusión o relegación perpetuos, en quince años.
 
 Respecto de los demás crímenes, en diez años.
 
@@ -920,7 +1034,7 @@ Esta prescripción se interrumpe, perdiéndose el tiempo trascurrido, siempre qu
 
 Las penas impuestas por sentencia ejecutoria prescriben:
 
-La de muerte y la de presidio, reclusión y relegación perpetuos, en quince años.
+La de presidio, reclusión y relegación perpetuos, en quince años.
 
 Las demás penas de crímenes, en diez años.
 
@@ -976,7 +1090,7 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LA SEGURIDAD EXTERIOR Y SOBERANÍA DEL ESTADO
 
 #### Artículo 106
 
-Todo el que dentro del territorio de la República conspirare contra su seguridad exterior para inducir a una potencia extranjera a hacer la guerra a Chile, será castigado por presidio mayor en su grado máximo a presidio perpetuo. Si se han seguido hostilidades bélicas, la pena podrá elevarse hasta la de muerte.
+Todo el que dentro del territorio de la República conspirare contra su seguridad exterior para inducir a una potencia extranjera a hacer la guerra a Chile, será castigado por presidio mayor en su grado máximo a presidio perpetuo. Si se han seguido hostilidades bélicas, la pena podrá elevarse hasta el presidio perpetuo calificado.
 
 Las prescripciones de este artículo se aplican a los chilenos, aún cuando la conspiración haya tenido lugar fuera del territorio de la República.
 
@@ -1192,7 +1306,7 @@ Si se ejecutare para obtener un rescate o imponer exigencias o arrancar decision
 
 Si en cualesquiera de los casos anteriores, el encierro o la detención se prolongare por más de quince días o si de ello resultare un daño grave en la persona o intereses del secuestrado, la pena será presidio mayor en su grado medio a máximo.
 
-El que con motivo u ocasión del secuestro cometiere además homicidio, violación, violación sodomítica, o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio mayor en su grado máximo a muerte.
+El que con motivo u ocasión del secuestro cometiere además homicidio, violación, violación sodomítica, o algunas de las lesiones comprendidas en los artículos 395, 396 y 397 N° 1, en la persona del ofendido, será castigado con presidio mayor en su grado máximo a presidio perpetuo calificado.
 
 #### Artículo 142
 
@@ -2784,7 +2898,7 @@ Los comprendidos en el artículo precedente y cualesquiera otros condenados por 
 
 El que con ocasión de violación cometiere además homicidio en la persona de la víctima, será castigado con presidio mayor en su grado máximo a presidio perpetuo.
 
-El que con ocasión de violación por vía vaginal si la víctima fuere mujer o por vía anal si fuere hombre, cometiere además el homicidio del ofendido será castigado con la pena de presidio perpetuo a muerte.
+El que con ocasión de violación por vía vaginal si la víctima fuere mujer o por vía anal si fuere hombre, cometiere además el homicidio del ofendido será castigado con la pena de presidio perpetuo a presidio perpetuo calificado.
 
 #### Artículo 372 ter
 
@@ -2888,7 +3002,7 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 
 #### Artículo 390
 
-El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean legítimos o ilegítimos, a cualquier otro de sus ascendientes o descendientes legítimos o a su cónyuge, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a muerte.
+El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean legítimos o ilegítimos, a cualquier otro de sus ascendientes o descendientes legítimos o a su cónyuge, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
 
 ART.391.
 
@@ -3176,7 +3290,7 @@ El que sin la voluntad de su dueño y con ánimo de lucrarse se apropia cosa mue
 
 El culpable de robo con violencia o intimidación en las personas, sea que la violencia o la intimidación tenga lugar antes del robo para facilitar su ejecución, en el acto de cometerlo o después de cometido para favorecer su impunidad, será castigado:
 
-1.o) Con presidio mayor en su grado medio a muerte cuando, con motivo u ocasión del robo, se cometiere, además, homicidio, violación o alguna de las lesiones comprendidas en los artículos 395, 396 y 397 N.o 1.
+1.o) Con presidio mayor en su grado medio a presidio perpetuo calificado cuando, con motivo u ocasión del robo, se cometiere, además, homicidio, violación o alguna de las lesiones comprendidas en los artículos 395, 396 y 397 N.o 1.
 
 2.o) Con presidio mayor en su grado medio a máximo, cuando las víctimas fueren retenidas bajo rescate o por más de un día, o se cometieren lesiones de las que trata el N.o 2 del artículo 397.
 

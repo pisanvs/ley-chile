@@ -428,11 +428,7 @@ Si se produjere desacuerdo acerca de cuál es la opinión que favorece más al i
 
 #### Artículo 20
 
-El tribunal de juicio oral en lo penal podrá imponer la pena de muerte sólo si existe acuerdo unánime de todos los miembros de la sala. Cuando resulte simple mayoría, se aplicará la pena inmediatamente inferior en grado.
-
-Si el tribunal pronuncia una condena a muerte procederá, a continuación, a deliberar sobre si el condenado parece digno de indulgencia y sobre qué pena proporcionada a su culpabilidad podría sustituir a la de muerte. El resultado de esta deliberación será consignado en un oficio que el tribunal remitirá oportunamente al Ministerio de Justicia, junto con una copia de la sentencia definitiva.
-
-El Ministerio hará llegar los antecedentes al Presidente de la República a fin de que resuelva si ha o no lugar a la conmutación de pena o al indulto.
+Derogado.
 
 #### Artículo 21
 
@@ -1556,7 +1552,11 @@ Corresponde a la Corte Suprema en pleno:
 
 6° Informar las modificaciones que se propongan a la ley orgánica constitucional relativa a la Organización y Atribuciones de los Tribunales, de acuerdo a lo dispuesto en el artículo 74 de la Constitución Política;
 
-7° Conocer de todos los asuntos que leyes especiales le encomiendan expresamente.
+7° Conocer y resolver la concesión o revocación de la libertad condicional, en los casos en que se hubiere impuesto el presidio perpetuo calificado.
+
+La resolución, en este caso, deberá ser acordada por la mayoría de los miembros en ejercicio.
+
+8° Conocer de todos los asuntos que leyes especiales le encomiendan expresamente.
 
 Todos los autos acordados de carácter y aplicación general que dicte la Corte Suprema deberán ser publicados en el Diario Oficial.
 
@@ -1627,6 +1627,8 @@ Esta exposición será publicada en el Diario Oficial y en la Gaceta de los Trib
 #### Artículo 103
 
 Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de los tribunales de juicio oral en lo penal en los artículos 19 y 20, y de las Cortes de Apelaciones en los artículos 72, 74 y siguientes, hasta el 89 inclusive.
+
+> **Nota.** El N° 4 del Art. 4° de la ley 19734, publicada el 05.06.2001, modificó el presente artículo en el sentido de suprimir la expresión "73 inciso segundo" y la coma (,) que le sigue. Sin embargo la frase referida no se encuentra en el texto vigente desde que fuera sustituido por el Art. 11 de la ley 19665, razón por la que la modificación indicada no se pudo efectuar.
 
 #### Artículo 104
 
