@@ -1,0 +1,5 @@
+Por Resolución Nº 581 de 22 de abril de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de las Resoluciones Nº 66, de 1982 y Nº 1257, de 1991, ambas de esta Subsecretaría, que autorizaron a SOCIEDAD PESQUERA SAN ANTONIO S.A., para ampliar actividades pesqueras extractivas con la nave "Arequipa IV", en lo relativo a las especies: Anchoveta, Agujilla, Bonito, Cabinza, Cojinoba del norte, Jurel, Sardina común, Sardina española, Caballa, Machuelo o tritre.
+
+En el litoral comprendido entre la I a la IV Regiones, en virtud de no haber operado sobre estas unidades de pesquerías y de conformidad a lo dispuesto en el artículo 143 letra b) de la Ley Nº 18.892 de 1989.
+
+Valparaíso, 22 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
