@@ -1,0 +1,1 @@
+Señala normas para la contratación de los préstamos a que se refieren la letra b) del número 1° del artículo 2° y el artículo 4° del Convenio sobre Compras de Excedentes de Productos Agropecuarios, concertado entre la República de Chile y los Estados Unidos de Norteamérica, el 13 de marzo de 1956.
