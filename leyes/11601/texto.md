@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para transferir gratuitamente a la Fundación de Beneficencia "Obra de Don Bosco" el predio fiscal que indica y cuyos deslindes señala, ubicado en la comuna de Porvenir, provincia de Magallanes, con el fin de que ésta lo destine para el establecimiento y funcionamiento de una Escuela Agropecuaria gratuita.
