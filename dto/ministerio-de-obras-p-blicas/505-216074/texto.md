@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 505, de 31 de octubre de 1994, y en base a la facultad otorgada por el artículo 105 del Decreto MOP Nº 294, de 1984, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 30-a, para la obra Camino By Pass Coronel-Lota (Ruta 160), sector By Pass Coronel, Km.
+
+19.500 al 29.590,12, que figuran a nombre de Cooperativa Vivienda Cecilio Arancibia, rol de avalúo 5015-21, comuna de Coronel, VIII Región, superficie 2.597 m2. La comisión de peritos integrada por los señores Ramón Jofré Soto, José Manuel Gálvez Alegría y Manuel Concha Rojas, fijó con fecha 12 de marzo de 1993, el valor provisional de la indemnización en la cantidad de $3.895.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
