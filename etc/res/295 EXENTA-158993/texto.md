@@ -1,0 +1,3 @@
+Por resolución exenta No. 295, de 15 de Julio de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región, se autoriza a Carlos Flores Ortiz, para efectuar el servicio público urbano de locomoción colectiva de pasajeros: Línea No. 1 "Los Canales" de Puerto Varas, cuyo trazado fue autorizado por resolución No. 318, de 21 de Diciembre de 1982, de esta Secretaría Regional.-
+
+Luis Boldt Quezada, Secretario Regional Ministerial de Transportes y Telecomunicaciones X Región.
