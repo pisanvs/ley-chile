@@ -1,0 +1,3 @@
+Por decreto MOP Nº 943 de 21 de octubre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 40-A, para la obra: Camino Ruta K-16, Sector Santa Emilia-Villa Prat, Tramo km. 26,200 a km. 37,786.72, que figura a nombre de Elías Valenzuela Rojas, rol de avalúo en trámite, comuna de Sagrada Familia, VII Región, superficie 720 m². La comisión de peritos fijó con fecha 25 de octubre de 2001, en la cantidad de $6.192.000.- lote Nº 40-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
