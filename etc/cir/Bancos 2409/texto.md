@@ -2788,6 +2788,8 @@ Las instituciones depositarías deben tener a disposición de los ahorrantes el 
 
 La solicitud debe ser firmada por el titular y deberá indicar el nombre de éste, el número de la cuenta contra la cual se solicita el giro y el monto que se girará. Tanto en el original como en la copia o duplicado de la solicitud, debe quedar constancia de la fecha en que ella fue recibida por la entidad financiera y del día en que se hará el pago, el cual podrá llevarse a efecto, como ya se indicó, no antes de treinta días corridos a contar desde la fecha de recepción de la solicitud por parte de la institución financiera.
 
+Los avisos antes mencionados también se podrán transmitir a la respectiva institución financiera mediante alguno de los dispositivos electrónicos señalados en el Capítulo 1-7 de esta Recopilación, debiendo el sistema utilizado originar las constancias escritas de la solicitud de giro efectuada, tanto para el cliente como para la propia institución financiera.
+
 Si el solicitante no se presenta a cobrar el giro dentro del tercer día hábil bancario siguiente de cumplido el plazo fijado, la solicitud quedará anulada.
 
 7.3. Limitación al número de giros.
