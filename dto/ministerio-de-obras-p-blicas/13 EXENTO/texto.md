@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 13, de 30 de enero de 2003, se rectificó el decreto exento MOP Nº 1.683 de 29 de noviembre de 2002, perteneciente a la obra: "Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Acceso a El Tabo. Km. 1.560,00 al Km. 2.400,00"; en el sentido que donde dice: "Paula Carolina Salas Calderón", debe decir: "Paula Carolina Salas Sepúlveda".-
+
+Fiscal del Ministerio de Obras Públicas.
