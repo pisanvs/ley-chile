@@ -1,0 +1,5 @@
+Por resolución Nº 1.779, de 24 de agosto de 2001, de esta Subsecretaría, modifícanse las resoluciones Nº 954 y Nº 955, ambas de 2001, de esta Subsecretaría, que reconocen participación conjunta de armadores en las unidades de pesquería de Merluza del sur Merluccius australis y Congrio dorado Genypterus blacodes, individualizadas en el artículo 2º, letras h) y j) de la ley 19.713, respectivamente, en el sentido de agregar a su número 6º el siguiente inciso 2º:
+
+"El grupo de armadores podrá optar por efectuar operaciones de pesca extractiva con una o más de sus naves autorizadas, sean éstas hieleros o fábricas. Para estos efectos deberá inscribir en el Servicio Nacional de Pesca la o las naves con que hará efectivo su límite máximo de captura. No obstante, los buques fábricas deberán operar al sur del paralelo 44º30' L.S., de acuerdo a lo establecido en el artículo 12 transitorio de la Ley General de Pesca y Acuicultura."
+
+Valparaíso, 24 de agosto de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
