@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Exenta Nº 1.989, de 9 de septiembre del 2004, Dirección Regional Serviu X Región expropió franja de terreno ubicada en callejón Boetcher, Villa Molina a la altura de calle San Francisco de Aguirre Nº78 interior, La Unión, Provincia Valdivia, Región de Los Lagos, Rol Avalúo 201-17, aparente dominio de Benedicto Castro Castro, de superficie aproximada de 43,72 metros cuadrados, polígono A-1-2-F-A según plano DSV T328, indemnización provisional: $502.176. Las indemnizaciones provisionales se pagarán al contado, fijado por Comisión Peritos Luis Collarte Concha, María José Freire Allende, Gustavo Lacrampé Holtheuer, designados resolución exenta Nº 9, de 9 enero de 2004. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº 2.186.-
+
+Director Regional Serviu Xa Región.
