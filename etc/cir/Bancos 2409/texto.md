@@ -16868,7 +16868,7 @@ Por otra parte, según lo dispuesto en la letra a) del artículo 83 bis de la Le
 
 El banco accionista de un banco constituido en el exterior debe tener presente, además, los límites operacionales establecidos en la letra b) del artículo 83 bis antes señalado.
 
-Por último, las empresas bancarias que participen en un banco extranjero detraerán de su Capital pagado y reservas, para los solos efectos del cumplimiento de los límites y márgenes legales y reglamentarios, el importe de la correspondiente inversión registrada en el activo.
+Por último, las empresas bancarias que participen en un banco extranjero detraerán de su capital pagado y reservas el importe de la correspondiente inversión registrada en el activo, para los solos efectos del cumplimiento de los límites y márgenes legales y reglamentarios, con excepción del límite de que trata el inciso segundo del artículo 83 y la letra a) del artículo 83 bis de la Ley General de Bancos.
 
 CAPITULO 11-5 (Bancos y Financieras)
 
@@ -17019,6 +17019,10 @@ Para dar cumplimiento a lo anterior, el monto a deducir del capital y reservas d
 Si las obligaciones con terceros a que se refieren los párrafos anteriores exceden del capital pagado y reservas de la filial, la institución deberá deducir el importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo de su margen de endeudamiento, excluido el resultado que se haya reconocido por la respectiva inversión, que se mantenga registrado a la misma fecha en alguna de las cuentas de utilidad o pérdida que se mencionan en el numeral 13.2 del Capítulo 11-2 o en el numeral 12.1.2 del Capítulo 11-3 de esta Recopilación Actualizada de Normas, según corresponda.
 
 El monto que corresponde rebajar del capital pagado y reservas para establecer, al término de cada mes, aquel que debe considerarse para efectos del artículo 81 ó 115 de la Ley General de Bancos, según las instrucciones de este numeral, se registrará en la cuenta de orden "Deducción del capital por participación en filiales", de la partida 9700.
+
+1.4.- Capital y reservas para los efectos del inciso 2° del Art. 83 y de la letra a) del Art. 83 bis de la Ley General de Bancos.
+
+Para calcular el capital pagado y reservas para los efectos del límite de inversiones de que trata el inciso segundo del artículo 83 y la letra a) del artículo 83 bis de la Ley General de Bancos, no se efectuará la deducción del monto de las inversiones en acciones de bancos extranjeros señalada en el segundo párrafo del numeral 1.1 de este Capítulo.
 
 ### 2. Reparto de dividendos o remesas de utilidades
 
@@ -19276,7 +19280,7 @@ c) Inversiones en oro sellado chileno o en otra forma de que trata el Capítulo 
 
 Las instituciones financieras no podrán efectuar nuevas inversiones en los bienes señalados en el número precedente, cuando el valor de los bienes que se deseen adquirir, sumado al valor contable de aquellos que se mantengan en su activo, exceda una vez su capital pagado y reservas.
 
-Para este efecto se considerará el monto del capital pagado y reservas a la fecha de la inversión, calculado de la forma señalada en el numeral 1.1 del Capítulo 12-1 de esta Recopilación Actualizada de Normas, y el valor contable a la misma fecha, incluida su corrección monetaria, de los bienes que deben registrarse en las partidas 2305 y 2320 y en la cuenta "Inversiones en Oro" de la partida 1735.
+Para este efecto se considerará el monto del capital pagado y reservas a la fecha de la inversión, calculado de la forma señalada en el numeral 1.4 del Capítulo 12-1 de esta Recopilación Actualizada de Normas, y el valor contable a la misma fecha, incluida su corrección monetaria, de los bienes que deben registrarse en las partidas 2305 y 2320 y en la cuenta "Inversiones en Oro" de la partida 1735.
 
 Los saldos en moneda extranjera se computarán por su equivalente en moneda chilena calculado al tipo de cambio de representación contable vigente.
 
@@ -29204,7 +29208,7 @@ Las instituciones financieras que opten por enviar estas nóminas quedan obligad
 
 Las nóminas que envíe cada oficina bancaria deben numerarse correlativamente y entregarse con la información ordenada de la forma que requiera el Boletín para su mejor procesamiento.
 
-Si bien las nóminas pueden ser remitidas solamente en forma impresa, a fin de hacer más eficiente el sistema y eliminar la posibilidad de errores en las transcripciones de datos, resulta recomendable que las instituciones financieras, en la medida que sus posibilidades se lo permitan, envíen la información en medios magnéticos cuando se informen más de 20 datos, sin perjuicio de enviar, como medio de prueba, el respectivo listado impreso con dicha información.
+Las instituciones financieras deberán enviar las nóminas antes mencionadas en medios magnéticos, sin perjuicio de adjuntar, como instrumento de prueba, el respectivo listado impreso con dicha información.
 
 En todo caso, las instituciones financieras deberán mantener en su poder una copia de las nóminas enviadas, sea en forma impresa o en medios magnéticos.
 
