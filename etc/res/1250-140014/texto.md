@@ -1,0 +1,3 @@
+Por resolución Nº 1.250, de 5 de julio de 1999, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al Sector denominado Totoralillo Sur, IV Región, individualizada en el artículo 1º) Nº 21 del D.S. Nº509 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES CALETA TOTORALILLO SUR DE LOS VILOS, comuna de Los Vilos, IV Región.
+
+Valparaíso, 5 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
