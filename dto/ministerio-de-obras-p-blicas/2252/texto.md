@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.252, de 30 de octubre de 1998, se expropió el lote de terreno Nº 1, superficie 1.040 m², rol de avalúo 9049-3, comuna de San Antonio, para la obra Camino Autopista Santiago - San Antonio, Segmento 5: Puangue - Leyda, Tramo Puangue - Leyda, Calle de Servicio y se acordó el valor de indemnización con sus propietarios Suc. Eduardo Larraín Marín, ascendente a la cantidad de $ 3.406.320.-.
+
+- Fiscal del Ministerio de Obras Públicas.
