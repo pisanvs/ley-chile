@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.432, de 17 de abril del 2000, se expropió el lote de terreno Nº51, superficie 356 m2., rol de avalúo 230-21, comuna de Monte Patria, para la obra Camino Ruta D-597, Monte Patria - Carén, Sector Juntas - Carén, Tramo Km. 8.260,00 a Km. 30.065,19, y se acordó precio de la indemnización con su propietario Iván Alejandro Delgado Cortés, ascendente a la cantidad de $506.342.-
+
+Fiscal del Ministerio de Obras Públicas.
