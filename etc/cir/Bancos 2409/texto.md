@@ -22974,7 +22974,9 @@ Los estados financieros anuales destinados a la publicación o a la circulación
 
 ### 2. Entrega de los estados financieros a esta Superintendencia
 
-Las instituciones fiscalizadas deberán enviar a esta Superintendencia, debidamente firmados, sus estados financieros y el correspondiente informe de los auditores externos, a más tardar el duodécimo día hábil bancario del mes de enero.
+Las instituciones fiscalizadas deberán enviar a esta Superintendencia, debidamente firmados, sus estados financieros y el correspondiente informe de los auditores externos, a más tardar el duodécimo día hábil bancario del mes de enero.Las instituciones fiscalizadas deberán enviar a esta Superintendencia, debidamente firmados, sus estados financieros individuales y el correspondiente informe de los auditores externos, a más tardar el duodécimo día hábil bancario del mes de enero.
+
+Los estados financieros consolidados a que se refiere el título VI de este Capítulo, podrán enviarse posteriormente en los casos que corresponda, debiendo mediar, en todo caso, un lapso de 15 días corridos entre la fecha de envío y la fecha de publicación de dichos estados en el periódico.
 
 En caso de que este Organismo Fiscalizador ordene cambios en el contenido de los estados financieros como consecuencia de la revisión señalada en el N° 3 siguiente, se deberán remitir nuevamente éstos, con las rectificaciones o información complementaria requeridas. Para ese efecto las instituciones dispondrán de un plazo de cuatro días hábiles a contar de la comunicación de esta Superintendencia.
 
@@ -23002,15 +23004,21 @@ En todo caso, cualquier publicación, circulación o entrega a terceros, de esta
 
 Si los estados financieros publicados no corresponden a la versión autorizada por este Organismo, contienen errores o no cumplen con las normas impartidas, esta Superintendencia podrá exigir, entre otras medidas, una publicación con información rectificada, en la forma que disponga.
 
-4.2. Plazo para efectuar la publicación en el periódico.
+4.2. Publicación en el periódico.
 
-La publicación en el periódico deberá efectuarse a más tardar el duodécimo día hábil bancario del mes de febrero. Al respecto, cabe hacer presente que, de conformidad con lo dispuesto en el inciso segundo del N° 4 del artículo 65 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación de los estados financieros auditados en el plazo que señala la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que lo publicaron.
+Las instituciones financieras deberán publicar sus estados financieros individuales a más tardar el duodécimo día hábil bancario del mes de febrero.
+
+Sin perjuicio de lo anterior, las instituciones que deban preparar estados financieros consolidados, deberán publicar también dichos estados, lo cual se hará en una publicación conjunta con los estados financieros de sus subsidiarias, a más tardar el último día del mes de febrero.
+
+Lo anterior no es óbice para publicar conjuntamente el balance consolidado, el individual y el de las filiales, dentro del plazo señalado en el primer párrafo de este número.
+
+Al respecto, cabe hacer presente que, de conformidad con lo dispuesto en el inciso segundo del N° 4 del artículo 65 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación de los estados financieros auditados en el plazo que señala la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que lo publicaron.
 
 4.3. Nombres y firmas.
 
 Los estados financieros deberán incluir, a continuación de la última nota, los nombres y la indicación del cargo, del Gerente General y del Contador General, o de quienes hagan sus veces y, a conveniencia de la institución, podrá agregarse la de otros ejecutivos. Los estados financieros que se envíen a esta Superintendencia deberán ser firmados por dichas personas. En la publicación que se haga en un periódico o en otros medios destinados a la circulación no será obligación incluir las firmas correspondientes.
 
-### II. BALANCE GENERAL Y ESTADO DE RESULTADOS
+### II. BALANCE GENERAL Y ESTADO DE RESULTADOS NO CONSOLIDADOS
 
 ### 1. Criterios contables
 
@@ -23278,35 +23286,69 @@ b) Fuentes de información utilizadas para la preparación de los antecedentes q
 
 c) Antecedentes y recopilación de datos que no se obtuvieron directamente de la información que maneja el área de contabilidad y responsabilidad de los funcionarios o ejecutivos que participaron en la entrega o confirmación de dichos antecedentes para la preparación de los estados financieros.
 
+Además de esa información,las instituciones que deban presentar estados financieros consolidados según lo dispuesto en el título VI de este Capítulo, deberán mantener a disposición de esta Superintendencia, las hojas de trabajo y documentación que sustenta la preparación de esos estados.
+
 ### V. INFORMACION QUE SE DEBE ENVIAR A ESTA SUPERINTENDENCIA Y PLAZOS
 
 ### 1. Información que debe entregarse
 
 Las instituciones financieras deberán enviar la siguiente información, de la forma que se indica:
 
-a) Tres ejemplares de los estados financieros con el correspondiente informe de los auditores externos, para dar cumplimiento a lo señalado en N° 2 del título I de este Capítulo. Las hojas deben entregarse foliadas o encuadernadas junto con el informe de los auditores. Este último podrá contener un timbre que asegure el uso restringido de la opinión.
+a) Tres ejemplares de los estados financieros individuales, con el correspondiente informe de los auditores externos, para dar cumplimiento a lo señalado en N° 2 del título I de este Capítulo. Las hojas deben entregarse foliadas o encuadernadas junto con el informe de los auditores. Este último podrá contener un timbre que asegure el uso restringido de la opinión.
 
-b) Dos ejemplares de la publicación o fotocopias de la misma, efectuada en el periódico, con la firma del Gerente General, o quien haga sus veces, en cada una de las hojas que sean parte de ella, como constancia de conformidad con lo publicado. Estos antecedentes deberán enviarse, también, en el evento de que se vuelvan a publicar los estados financieros con posterioridad.
+b) Del mismo modo, deberán remitirse tres ejemplares de los estados financieros consolidados, cuando corresponda.
 
-c) Tres ejemplares de la memoria de la sociedad.
+c) Dos ejemplares de la publicación o fotocopias de la misma, efectuada en el periódico, con la firma del Gerente General, o quien haga sus veces, en cada una de las hojas que sean parte de ella, como constancia de conformidad con lo publicado. Estos antecedentes deberán enviarse, también, en el evento de que se vuelvan a publicar los estados financieros con posterioridad.
 
-d) En el caso de prepararse estados financieros con cifras expresadas en moneda extranjera, para su circulación en el exterior, deberá enviarse sólo un ejemplar, el que excepcionalmente podrá presentarse en calidad de borrador.
+d) Tres ejemplares de la memoria de la sociedad.
+
+e) En el caso de prepararse estados financieros con cifras expresadas en moneda extranjera, para su circulación en el exterior, deberá enviarse sólo un ejemplar, el que excepcionalmente podrá presentarse en calidad de borrador.
 
 Se enviará además cuando sea requerida y con la debida oportunidad, para los efectos señalados en el N° 3 del título I de este Capítulo, la información específica que sea solicitada, la que puede incluir, si fuere necesario, los antecedentes de respaldo de que trata el título IV de este Capítulo.
 
-### 2. Plazos
+2.- Plazos.
 
 Las obligaciones que emanan de las presentes normas deberán cumplirse dentro de los plazos que se instruyen a continuación:
 
-Hasta el:
-
 .
 
-> **Nota.** La letra I, del N° I de la Circular 2684, SBIF, promulgada el 29.04.1992, suprime la expresión "15° día previo al" en la letra e) del presente numeral.
+VI.- ESTADOS FINANCIEROS CONSOLIDADOS.
 
-### VI. ESTADOS FINANCIEROS CONSOLIDADOS
+Las instituciones que tengan participación en sociedades filiales, como asimismo los bancos que mantengan sucursales en el exterior, deberán preparar y publicar estados financieros consolidados con sus filiales y sucursales, de acuerdo con las instrucciones de este título.
 
-Las instituciones bancarias que tengan participación en sociedades filiales, podrán, además si así lo desean, publicar estados financieros consolidados informados por auditores externos, siguiendo para ello las instrucciones contenidas en los N°s 2, 3 y 4 del título I de este Capítulo.
+Constituyen sociedades filiales para estos efectos, todas aquellas en las cuales la institución financiera posee directa o indirectamente más de la mitad del derecho a voto, sea que se trate de una filial bancaria o de una empresa de apoyo al giro.
+
+1.- Bases de preparación.
+
+Los balances consolidados se prepararán de acuerdo con criterios contables generalmente aceptados, cuyos procedimientos se describen en el Boletín Técnico N° 42 del Colegio de Contadores de Chile A.G.
+
+De acuerdo con lo establecido en los Capítulos 11-2 y 11-3 de esta Recopilación, las instituciones financieras deben efectuar una consolidación a una sola línea de sus subsidiarias, reconociendo en el método de contabilización del Valor Patrimonial Proporcional (VPP) tanto los efectos de los resultados no realizados como de la aplicación de los criterios seguidos por la matriz, cuando corresponda, conforme a criterios contables generalmente aceptados.
+
+El mismo criterio de importancia relativa o procedencia de aquellos ajustes conforme a principios contables de aceptación general, debe seguirse tanto para la consolidación global (línea a línea) con las filiales, como para consolidar una sucursal en el exterior. En todo caso, las diferencias de cambio que pudieren originarse en la consolidación de una sucursal en el exterior, deberá reconocerse en los resultados de la matriz.
+
+Todo lo anterior es sin perjuicio de que la integración de los saldos línea a línea en el balance y estado de resultados consolidados, debe hacerse de acuerdo con los criterios de exposición de la matriz, considerando además lo indicado en el N° 2 siguiente.
+
+2.- Formato de los estados consolidados.
+
+Los estados financieros consolidados se prepararán de acuerdo con el modelo incluido en el Anexo N° 2 de este Capítulo, el cual comprende algunas instrucciones conducentes a uniformar la presentación de ciertas operaciones específicas de filiales.
+
+3.- Notas a los estados financieros consolidados.
+
+3.1.- Nota de criterio de consolidación.
+
+Los estados financieros consolidados se presentarán con una primera nota, dentro de la Nota 1, referida a los criterios de consolidación, en la cual se indicará, a lo menos, lo siguiente:
+
+a) Las entidades que participan en la consolidación y el respectivo porcentaje de participación de la matriz.
+
+b) El porcentaje que representan los activos y los ingresos operacionales de las filiales en su conjunto, en los estados consolidados.
+
+c) El hecho de que se han anulado las transacciones entre compañías y sus efectos.
+
+d) El criterio de presentar el interés minoritario en rubros separados en el balance y en el estado de resultados.
+
+3.2.- Demás notas a los estados financieros consolidados.
+
+Las demás notas a los estados financieros consolidados se incluirán de acuerdo con lo establecido en el título III de este Capítulo, debiendo efectuarse las adecuaciones del caso para incorporar los saldos u operaciones de las filiales y eliminar los saldos entre las compañías que se consolidan, cuando corresponda.
 
 ANEXO N°1
 
@@ -23396,17 +23438,31 @@ OBSERVACIONES:
 
 > **Nota.** NOTA 4 La letra K, N° 4, I, de la Circular 2871, SBIF, promulgada el 28.10.1996, modifica el presente Anexo, a fin de eliminar las instrucciones relativas a la demostración en los estados financieros de los activos y pasivos netos de intereses no devengados.
 
+> **Nota.** NOTA 5 La letra H), N° I, Circular 2872, SBIF, promulgada el 30.12.1996, modifica el presente Anexo, a fin de actualizarlo y traspasar instrucciones actualmente contenidas en el Anexo N° 2.
+
 ANEXO N° 2
 
-EXPLICACIONES GENERALES PARA LA PREPARACION DE LAS NOTAS ESTRUCTURADAS DE QUE TRATAN LOS ANEXOS SIGUIENTES
+MODELO DE ESTADOS FINANCIEROS CONSOLIDADOS.
 
-a) Los modelos relativos a las notas que se incluyen en el Anexo N° 3 y siguientes de este Capítulo, contienen números señalados en paréntesis. Estos números hacen referencia a las instrucciones acerca de la forma en que debe prepararse la nota o a la posibilidad de adaptar su redacción ante situaciones diferentes a las contempladas para el modelo.
+.
 
-b) En algunos casos las redacciones estándares incluyen frases o palabras alternativas entre puntos suspensivos y barras (".../ /..."). En estos casos, cuando proceda, deberá elegirse la que corresponda.
+INSTRUCCIONES ESPECIFICAS
 
-c) Al igual que en el balance general, en la presentación de saldos de operaciones sujetas a reajustes o intereses no se efectuará una distinción entre capital, reajustes e intereses.
+A continuación se incluyen instrucciones específicas para la preparación de los estados financieros consolidados, siguiendo las notas al margen de los modelos. Dichas instrucciones se refieren sólo a aspectos en los cuales podría optarse por diferentes criterios de exposición y persiguen, por consiguiente, uniformar la presentación:
 
-En aquellos cuadros en que los saldos deben distribuirse según su vencimiento, deberán demostrarse los saldos de intereses devengados según el plazo pactado para su pago, el que puede ser diferente a aquél establecido para la amortización del capital.
+A) El criterio de presentación en el balance de activos y pasivos contingentes, se seguirá sólo para las colocaciones y obligaciones de la matriz y sucursales bancarias en el exterior.
+
+B) Se incluirán como "Contratos de leasing", tanto los saldos de contratos vigentes como los correspondientes a bienes adquiridos para leasing mantenidos por la filial.
+
+C) Los activos y pasivos por intermediación de documentos reflejarán sólo las operaciones de compra y venta con pacto Para integrar los saldos de corredoras o agentes de valores, deben anularse los saldos de derechos y obligaciones sobre operaciones a futuro, a fin de incluir los saldos de esas operaciones en concordancia con los criterios contables de la matriz.
+
+D) Incluirá también las inversiones en instrumentos de renta variable que mantengan las filiales.
+
+E) En esta línea se integrarán los saldos por bienes recuperados de la compañía de leasing.
+
+F) Incluye todos los activos y pasivos de las filiales que no tienen una integración natural en los demás activos y pasivos.
+
+Los activos y pasivos por intermediación, como asimismo otros saldos que sólo reflejen derechos y compromisos por operaciones a futuro, o de recibir o entregar títulos, contenidos en los balances de las filiales corredores de bolsa o agencias de valores, deberán anularse o ajustarse para seguir los criterios de la matriz, sin perjuicio de la exposición en nota de los respectivos compromisos.
 
 ANEXO N°3
 
