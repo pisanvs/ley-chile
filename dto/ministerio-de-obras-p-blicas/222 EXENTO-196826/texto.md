@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº222 de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nos 20, 21 y 22, superficie 2.337, 1.610 y 1.105 m², rol de avalúo 64-11, comuna de Lonquimay, para la obra "Camino Malalcahuello Paso Pino Hachado Rutas R-891, R-955 y R-89, sector Acceso Pedregoso-Liucura, Km. 141,00000 al Km. 158,54000" y se acordó el valor de indemnización con su propietario José Ramón Escobar Riquelme, ascendente a la cantidad de $1.306.747.-
+
+Fiscal del Ministerio de Obras Públicas.
