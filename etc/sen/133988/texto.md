@@ -1,0 +1,329 @@
+SENTENCIA RECAIDA EN EL PROYECTO DE LEY ORGANICA CONSTITUCIONAL SOBRE VOTACIONES POPULARES Y ESCRUTINIOS
+
+Santiago, 05.04.88.
+
+Vistos:
+
+Mediante oficio No. 6583/24 de 22 de Enero del presente año, la Honorable Junta de Gobierno ha enviado a este Tribunal, para los efectos previstos en el No. 1 del artículo 82 de la Constitución Política de la República, el proyecto de "Ley Orgánica Constitucional sobre votaciones populares y escrutinios" aprobado en sesión legislativa celebrada el 14 de Enero de 1988, según consta del certificado correspondiente y, por S.E. el Presidente de la República, de acuerdo con lo expuesto en el oficio No. 13.220/21 de 21 de Enero de 1988, documentos que también se adjuntan.
+
+Se han acompañado, además, los siguientes antecedentes:
+
+a) copia del acta de la Sesión Legislativa de 14 de Enero de 1988
+
+- **b)** copias de las actas de las Sesiones de la Comisión Conjunta de fechas 21, 23, 26, 28 y 30 de Octubre, 2, 4, 6, 9, 11, 18, 27 y 30 de Noviembre, y 23 de Diciembre de 1987;
+
+- **c)** copias del Mensaje, del Informe Técnico, del texto propuesto e indicación del Ejecutivo de copia del Informe de la Secretaría de Legislación;
+
+- **e)** copias de los Informes en que constan las observaciones de la Primera Segunda y Tercera Comisiones Legislativas; copia del oficio en que consta la opinión del Ministro de Justicia respecto de las observaciones formuladas al proyecto y copia del Informe evacuado por la Comisión Conjunta sobre la materia.
+
+Se acompaña, asimismo, el oficio en que consta la opinión de la Corte Suprema sobre diversas disposiciones del proyecto.
+
+Por resolución de 16 de Marzo de este año se trajeron los autos en relación.
+
+Por presentación de 11 de Marzo de 1988, seis señores profesores universitarios de Derecho Público, en ejercicio del derecho de petición que establece el artículo 19, No. 14, de la Carta Fundamental, solicitaron considerar la inconstitucionalidad de los artículos 31, 32, 36, 101 y siguientes, 120 y 162 y quinto transitorio del proyecto de Ley Orgánica Constitucional sobre votaciones populares y escrutinios por las razones que señalan, e hicieron presente al Tribunal la necesidad de instar al Poder Legislativo "a dar completo cumplimiento al mandato constitucional al regular los artículos 27, 28 y 29 transitorios" de la Carta Fundamental.
+
+Con fecha 25 de Marzo de 1988 el Partido Humanista, representado por su Presidente, invocando el mismo derecho de petición, hizo presente al Tribunal, respecto de la Ley Orgánica Constitucional sobre votaciones populares y escrutinios, la falta de penalización de ciertas conductas, así como de plazo suficiente para tramitar las reclamaciones electorales y el
+
+"cercenamiento de facultades a los apoderados de los Partidos Políticos" en relación con el plebiscito a que se refiere la disposición vigesimaséptima transitoria de la Constitución Política de la República.
+
+El Tribunal tomando en consideración el derecho invocado por los peticionarios, ordenó tener presente ambas solicitudes con fechas 16 y 28 de Marzo de 1988, respectivamente.
+
+Con fecha 30 de Marzo del año en curso se adoptó el acuerdo.
+
+Y Considerando:
+
+1°.- Que el artículo 82, No. 1, de la Carta Fundamental establecer que es atribución de este Tribunal "Ejercer el control de la constitucionalidad de las leyes orgánicas constitucionales antes de su promulgación y de las leyes que interpreten algún precepto de la Constitución de
+
+2°.- Que para una adecuada resolución sobre la constitucionalidad del proyecto remitido, se hace indispensable precisar el ámbito de la Ley Orgánica Constitucional que debe regular el "sistema electoral público", ya que resulta de vital importancia tanto para determinar las materias que por mandato de la Carta Fundamental deben contenerse en esta ley como, asimismo, los actos electorales y plebiscitarios que quedan regidos por sus normas.
+
+3°.- Que el artículo 18, inciso 1°, de la Constitución establecer: "Habrá un sistema electoral público. Una ley orgánica constitucional determinará su organización y funcionamiento, regulará la forma en que se realizarán los procesos electorales y plebiscitarios, en todo lo no previsto por esta Constitución y, garantizará siempre la plena igualdad entre los independientes y los miembros de partidos políticos tanto en la presentación de candidaturas como en su participación en los señalados procesos".
+
+Como puede apreciarse el Constituyente, en términos amplios, ha entregado a la regulación de esta ley todo lo concerniente a la organización y funcionamiento del "sistema electoral público" y a la forma en que se realizarán los procesos electorales y plebiscitarios, en todo lo no previsto por la propia Constitución. En consecuencia, para dar fiel cumplimiento al mandato constitucional, el legislador no sólo está facultado sino, más aún, obligado a legislar sobre todas estas materias, en uno o más textos legales, pero todos ellos con el carácter de leyes orgánicas constitucionales.
+
+4°.- Que la amplitud de las materias que la Constitución entrega a esta ley sobre "sistema electoral público", a diferencia de lo que ocurre con otras leyes del mismo rango en las cuales la Constitución ha sido definitivamente más restrictiva, se justifica, sin duda, por su especial importancia y trascendencia, pues, como bien se ha dicho, una de las bases de la institucionalidad consagrada en la Constitución Política reside en la organización republicana y democrática de gobierno, en el cual el ejercicio de la soberanía, además del que corresponde a las autoridades que establece la Constitución, se realiza por el pueblo mediante elecciones periódicas y plebiscitos. De esta base fundamental derivan la ciudadanía y los principales derechos que ella otorga, el de sufragio y el de optar a cargos de elección popular, los cuales, por antonomasia, constituyen los derechos políticos". (Informe de la Comisión de Estudio de Leyes Orgánicas Constitucionales relativo al Anteproyecto de Ley Orgánica Constitucional sobre Sistema Electoral Público enviado a S.E. el Presidente de la República el 29 de Noviembre de 1985).
+
+5°.- Que así también lo ha resuelto con anterioridad este Tribunal, en sentencia de fecha 08 de Septiembre de 1986, al ejercer el control de la constitucionalidad del proyecto de ley sobre "Sistema de inscripciones electorales y Servicio Electoral". En efecto, fundamentando su decisión de que todas las normas de ese proyecto eran propias de ley orgánica constitucional, con excepción de tres artículos, expresó que para concluir de esa manera se "ha considerado el carácter especial del artículo 18 de la Constitución en cuanto dispone que será materia de ley orgánica constitucional la organización y funcionamiento del sistema electoral público y la forma en que se realizarán los procesos electorales y plebiscitarios, en todo lo no previsto por la Constitución, precepto que denota que la voluntad del Constituyente es que la citada ley tenga el rango de orgánica constitucional no sólo en su núcleo esencial sino también en aquellas materias que sean su complemento indispensable, no obstante que éstas, consideradas aisladamente, sean propias de ley común.".
+
+6°.- Que por otra parte, es también importante precisar que por mandato de la Constitución la ley orgánica constitucional sobre "sistema electoral" comprende tanto los procesos electorales y plebiscitarios establecidos en las disposiciones permanentes de la Carta Fundamental, como así también aquellos a que se refieren sus disposiciones transitorias, conforme lo expresara este Tribunal en sentencia de fecha 24 de Septiembre de 1985. De la misma manera lo han entendido también los Poderes Ejecutivo y Legislativo como lo demuestran, con nitidez, las disposiciones transitorias del proyecto en estudio.
+
+7°.- Que un análisis del proyecto en general, a la luz de lo expuesto en los considerandos precedentes, nos lleva a las siguientes conclusiones: 1) que todas sus normas son propias de ley orgánica constitucional, por que versan sobre las materias señaladas en el artículo 18 de la Carta Fundamental; 2) que el proyecto contiene todas las materias que, en relación con las votaciones populares y escrutinios, debe contemplar, conforme a la disposición constitucional antes citada y 3) que algunos puntos específicos de ellas no aparecen suficientemente regulados lo que si bien no permite, razonablemente, sostener la inconstitucionalidad general del proyecto, si aconseja hacerlos presente, con el objeto de prevenir sobre la necesidad de legislar sobre ellos, a fin de evitar que por su falta de regulación se produzcan vacíos que dificulten el cabal cumplimiento de la voluntad legislativa en conformidad a las prescripciones de la Carta Fundamental.
+
+8°.- Que los aspectos específicos sobre los cuales se previene la necesidad de legislar son los que se señalan en los considerandos siguientes, por las razones que en cada caso se expresan.
+
+9°.- Que el párrafo 6° del Título I del proyecto remitido trata sobre "propaganda y publicidad". El artículo 31 establece: "Se entenderá por propaganda electoral la dirigida a inducir a los electores a emitir su voto por candidatos determinados o a apoyar algunas de las proposiciones sometidas a plebiscito. Dicha propaganda sólo podrá efectuarse en las oportunidades y en la forma prescrita en esta ley".
+
+Como puede apreciarse, el legislador dando una correcta aplicación al ámbito de la ley orgánica constitucional relativa al "sistema electoral público" dispone que será esta ley la que determine las oportunidades en que podrá efectuarse propaganda electoral, como así también la forma en que ella deberá realizarse. De esta manera los artículos 32 a 36, entre otros, del proyecto remitido, regulan estos aspectos.
+
+10.- Que, sin embargo, tal regulación no es completa, porque el proyecto establece en su artículo 32 la oportunidad en que podrá hacerse propaganda electoral por medio de la prensa, radioemisoras y canales de televisión, pero no regula el complemento indispensable de esta norma, cual es, todo lo concerniente a evitar discriminaciones en dicha propaganda política y a asegurar una efectiva igualdad entre las diferentes candidaturas, tratándose de procesos electorales o de las distintas proposiciones que se formulen al país, en el caso de los actos plebiscitarios, lo cual, además, resulta necesario que la ley lo efectúe, para dar fiel cumplimiento al mandato constitucional contenido en el artículo 18 de la Carta Fundamental.
+
+11.- Que, en consecuencia, siendo materia de esta ley regular la propaganda electoral por medio de la prensa, radioemisoras y canales de televisión y no conteniéndose en ella las normas correspondientes para asegurar una efectiva igualdad entre las diferentes candidaturas, en el caso de los actos electorales o de las distintas proposiciones, tratándose de procesos plebiscitarios, el Tribunal estima que es su deber prevenir sobre la necesidad de que se dicten, oportunamente, las normas legales complementarias pertinentes destinadas a cumplir tal objetivo.
+
+12.- Que, siguiendo en este mismo orden de materias, cabe señalar, ahora, que el artículo 1° de la Carta Fundamental constituye uno de los preceptos más fundamentales en que se basa la institucionalidad, ya que por su profundo y rico contenido doctrinario refleja la filosofía que inspira nuestra Constitución y orienta al intérprete en su misión de declarar y explicar el verdadero sentido y alcance del resto de la preceptiva constitucional.
+
+El inciso final de este artículo señala como uno de los deberes fundamentales del Estado, "asegurar el derecho de las personas a participar con igualdad de oportunidades en la vida nacional". Esta norma es de vastas proyecciones, pero sin duda adquiere especial relevancia en los procesos electorales y plebiscitarios, ya que, a través de ellos, el pueblo ejerce la soberanía nacional manifestando su parecer sobre las personas que estarán a cargo de llevar adelante las funciones básicas del Estado en procura de obtener su finalidad primordial: "contribuir a crear las condiciones sociales que permitan a todos y a cada uno de los integrantes de la comunidad nacional su mayor realización espiritual y material posible, con pleno respeto a los derechos y garantías que esta Constitución establece".
+
+13.- Que la Carta Fundamental después de establecer esta norma rectora y vital va encarnándola en preceptos concretos: enumera los derechos que se les aseguran a las personas, fija los distintos Poderes y Organos que constituyen la estructura del Estado, el régimen de gobierno, sus atribuciones, sus limitaciones y, en fin, las normas conforme a las cuales podrá enmendarse o modificarse la Constitución misma.
+
+Entre este conjunto de normas básicas es necesario destacar, ahora, por su directa vinculación con el tema en estudio, la contenida en el artículo 19, No. 2, que expresa que la Constitución asegura a todas las personas "La igualdad ante la ley", "En Chile no hay persona, ni grupo privilegiados." "Ni la ley ni autoridad alguna podrán establecer diferencias arbitrarias".
+
+14.- Que, por último, es tal la importancia que la Constitución de 1980 le atribuye al ejercicio de la soberanía nacional por el pueblo, que no le bastó con lo dicho sino que estimó necesario dar un encargo especial al legislador sobre este aspecto, disponiendo en su artículo 18 que la ley orgánica constitucional que regule el "sistema electoral público", deberá garantizar siempre la plena igualdad entre los independientes y los miembros de los partidos políticos, tanto en la presentación de las candidaturas como en su participación en los procesos electorales y plebiscitarios.
+
+Esta es la voluntad de la Constitución y todo esfuerzo que se haga con el objeto de hacer realidad esta voluntad suprema debe ser considerado como su fiel expresión.
+
+15.- Que, sin embargo, estos conceptos que aparentemente son sencillos se toman complejos y difíciles cuando se asume la tarea de traducirlos en normas concretas, tanto porque su expresión a través de fórmulas simplemente aritméticas no logra el propósito de igualdad perseguido, como, porque naturalmente es distinta la situación en que un ciudadano independiente y un miembro de un partido político enfrentan una ejecución. El primero está libre de todo compromiso político y estatutario, pero, a su vez, no dispone del apoyo de una organización jurídica que lo respalde; el miembro de un partido político, en cambio, está subordinado a una estructura política y a normas que se ha obligado a respetar, pero, al propio tiempo, cuenta con la ventaja que entraña pertenecer a una colectividad política, una de cuyas finalidades es, precisamente, la participación organizada en los actos electorales y plebiscitarios. y
+
+16.- Que, por otra parte, tampoco pueden ser las mismas las normas que rijan los procesos electorales que aquellas que regulen los actos plebiscitarios, ya que mientras los primeros dan opción a los independientes a hacerse representar por candidatos; en los actos plebiscitarios, en cambio. tal opción no se presenta, pues se trata de aprobar o rechazar una reforma constitucional o una determinada proposición de los gobernantes en los casos previstos en la Constitución.
+
+17.- Que de lo expuesto en los considerandos anteriores se infieren algunas reglas concretas que el legislador deberá tener presente en la regulación de los procesos electorales y plebiscitarios, para dar cumplimiento a lo dispuesto en los artículos 1°, inciso final, 18 y 19 No. 2, de la Carta Fundamental. Ellas son: 1) que los independientes y los miembros de partidos políticos deberán tener en los procesos electorales igualdad de oportunidades para elegir y ser elegidos y para gozar de las facultades inherentes a esos derechos en sus aspectos básicos, sin que obste a ello las diferencias que puedan producirse en lo accidental, como consecuencia de la natural situación de unos y otros, según ha quedado demostrado; 2) que las reglas que se den en materia de elecciones no pueden ser exactamente iguales a las que rijan en los plebiscitos, por la diferencia jurídica sustantiva que existe entre ellos, y 3) que la ley no puede crear privilegios en favor de unos y en perjuicio de otros que rompa el necesario equilibrio que debe existir entre los participantes de los actos electores y plebiscitarios.
+
+18.- Que así enfrentado el problema, dando a las normas constitucionales una interpretación razonable y no mecánica y aplicándolas con realismo a las distintas situaciones que se presentan, puede concluirse que el proyecto establece un trato igualitario en la participación de los independientes y de los miembros de los partidos políticos en los procesos electorales y plebiscitarios previstos en la Constitución, salvo en cuanto no regula respecto del plebiscito a que se refiere la disposición vigesimaséptima transitoria de la Constitución, el derecho de los independientes a tener sedes oficiales y oficinas de propaganda y a designar apoderados para que asistan a las actuaciones que deben realizar, conforme a la ley, las respectivas Juntas Electorales, Mesas Receptoras de Sufragios, Colegios Escrutadores y Oficinas Electorales, como si, en cambio, se establece respecto de la persona propuesta en el plebiscito y de los partidos políticos. No se trata, por cierto, de que cada independiente, considerado aisladamente, tenga estos derechos, ya que obviamente ello tornaría el plebiscito en un acto irrealizable ni tampoco que ello sea habitual, sino simplemente que, en este plebiscito, un conjunto de ellos y sometiéndose al procedimiento que le señale la ley, puedan disponer de estos derechos.
+
+19.- Que, por lo expuesto, este Tribunal hace presente la necesidad de complementar las normas del proyecto con disposiciones tendientes a otorgar a los independientes los derechos mencionados.
+
+20.- Que para terminar con este tema vale la pena hacer una reflexión final: es cierto que el Tribunal Constitucional pudo restablecer la igualdad reparando los preceptos del proyecto que confieren estos derechos a los partidos políticos y a la persona propuesta por los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros, titulares, o por el Consejo de Seguridad Nacional, en su caso; pero es cierto también que si así hubiere procedido habría generado una inconstitucionalidad de vastas proyecciones como seria infringir el derecho de asociación política consagrado en el artículo 19, No. 15, de la Carta Fundamental, ya que siendo una finalidad propia de los partidos políticos participar en los procesos electorales y plebiscitarios, también lo es que ellos puedan velar, a través de los apoderados, por la objetividad del acto plebiscitario. Por su parte, negar este derecho a la persona propuesta al país para desempeñar el cargo de Presidente de la República importaría crear una situación inequitativa, pues carecería de toda justificación razonable.
+
+21.- Que la disposición vigesimanovena transitoria de la Constitución trata sobre las elecciones presidenciales y parlamentarias que deben realizarse en caso de que la ciudadana, a través del plebiscito a que se refiere la disposición vigesimaséptima, manifestare su voluntad de no aprobar la proposición efectuada por los Comandantes en Jefe de las Fuerzas Armadas y el Director General de Carabineros, titulares, o por el Consejo de Seguridad Nacional, en su caso. En esta hipótesis la norma señalada sólo dispone que noventa días antes de la expiración de la prórroga del período presidencial el Presidente en ejercicio convocará a elección de Presidente de la República y parlamentarios, en conformidad a los preceptos permanentes de la Constitución y de la ley. En este caso la Carta Fundamental determina directamente en su texto el día en que debe efectuarse la convocatoria a esas elecciones, más no, la oportunidad en que éstas deben realizarse.
+
+El problema consiste entonces en saber la fecha en que deben celebrarse esas elecciones o a quién corresponde determinarla.
+
+22.- Que para resolver tal problema, debe descartarse la alternativa de recurrir a lo dispuesto en el artículo 26, inciso 1°, de las normas permanentes de la Constitución, porque ello conduce a un absurdo que no es posible atribuir al Constituyente. En efecto, la citada disposición permanente de la Carta Fundamental prescribe que la elección de Presidente de la República debe realizarse "noventa días antes de aquel en que deba cesar en el cargo el que esté en funciones", fecha que, en la especie, coincidiría exactamente con aquella en la cual debe efectuarse la convocatoria a esas elecciones, de conformidad con la disposición vigesimanovena en estudio. Por su parte, respecto de las elecciones parlamentarias la Constitución no ha fijado la fecha en que deben celebrarse.
+
+23.- Que de lo anterior se deduce que la Carta Fundamental no ha señalado en su texto la fecha en que deben realizarse las elecciones presidenciales y parlamentarias, en la hipótesis de que la ciudadanía no apruebe la proposición sometida a plebiscito. Esto nos conduce, claramente, a la conclusión que la determinación de esa fecha le corresponde a esta ley, por cuanto la norma en estudio expresamente dispone que este llamado a elecciones se hará, en conformidad a las disposiciones permanentes de la Constitución y a la ley y como se ha demostrado que en este punto la norma no ha podido referirse a la primera, fuerza es concluir que corresponde a esta ley, que rige el "sistema electoral público", precisar, dentro del marco constitucional, específicamente los artículos 26, inciso 2° y 3°, y 27, inciso 1°, permanentes, la fecha en que deben realizarse esas elecciones presidenciales y parlamentarias.
+
+24.- Que la circunstancia que, en la especie, deba mediar un breve plazo entre la convocatoria y la realización de los procesos electorales en nada obsta a que opere el sistema, ya que conociéndose a ciencia cierta la fecha de la realización de estos últimos sólo corresponderá efectuar las adecuaciones legales necesarias como ya lo hacen, respecto de las declaraciones de candidaturas, determinación del número de mesas receptoras de sufragios o, en fin, suspensión de las inscripciones en los Registros Electorales, los artículos 7°, 9° y 10 transitorios del proyecto de ley en estudio.
+
+25.- Que, por tanto siendo materia de esta ley determinar la fecha de la realización de las elecciones presidenciales y parlamentarias, en el evento previsto en la disposición vigesimanovena transitoria y no habiéndose incorporado en el proyecto remitido una norma al efecto, ya que los artículos 177 y 178 no resultan aplicables en la especie, es menester prevenir sobre la necesidad de completar, oportunamente, la normativa legal sobre la materia, incluyendo la determinación de la fecha en que deberían realizarse dichos procesos electorales.
+
+26.- Que en este mismo orden de materias el Tribunal considera que el artículo 4° transitorio del proyecto remitido regula suficientemente, en lo que concierne a esta ley, la forma en que se realizará el plebiscito a que se refiere la disposición vigesimaséptima transitoria de la Constitución, conforme a una interpretación armónica, sistemática y razonable de ella y de las otras normas legales que concurren en la especie, según se demostrará en los considerandos siguientes.
+
+27.- Que el señalado precepto prescribe: "Para el cumplimiento del plebiscito dispuesto en la disposición vigesimaséptima transitoria de la Constitución Política, el Presidente de la República convocará a plebiscito dentro de las cuarenta y ocho horas siguientes a aquel en que los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros o el Consejo de Seguridad Nacional, en su caso, le comuniquen la designación de la persona que propondrán al país para que ocupe el cargo de Presidente de la República".
+
+"La convocatoria indicada se ordenará mediante decreto supremo que contendrá el nombre de la persona propuesta para ocupar el cargo de Presidente de la República y fijará la fecha de la votación plebiscitaria la que deberá efectuarse no antes de treinta ni después de sesenta días de la fecha de la proposición correspondiente".
+
+Para la debida comprensión de esta norma debe tenerse presente que, de conformidad con lo dispuesto en el artículo 81 del proyecto en estudio, el Director del Servicio Electoral determinará los Colegios Escrutadores "dentro del décimo quinto día siguiente a la publicación del decreto supremo que convoca a un plebiscito" y que de acuerdo con lo prescrito en el artículo 22, inciso 4°, de la ley 18.556, Ley Orgánica Constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral, la suspensión del funcionamiento de las Juntas Inscriptoras, "en caso de ... plebiscito... Operará desde el día en que se publique en el Diario Oficial el decreto supremo de convocatoria".
+
+28.- Que desde luego debe descartarse un posible vicio de inconstitucionalidad que pudiera afectar a este precepto por el hecho de haber omitido las palabras "titulares" y la expresión ò por la unanimidad de ellos" para referirse a los Comandantes en Jefe de las Fuerzas Armadas y al General Director de Carabineros y a la forma en que deben adoptar su acuerdo, porque resulta evidente que esta norma no legisla sobre estos aspectos como lo prueba su contenido sustantivo. Se trata sólo de una referencia para determinar el objeto de la norma, cual es precisar la oportunidad en que el Presidente de la República deberá convocar a plebiscito. La disposición vigesimaséptima transitoria no resulta afectada por el artículo 4° transitorio en estudio y mal puede, entonces, configurarse un vicio de inconstitucionalidad .
+
+29.- Que, en seguida, al artículo 4° transitorio del proyecto no puede reprochársele que omita señalar la publicidad que se dará al decreto de convocatoria a plebiscito, porque tal publicidad está implícitamente señalada en los artículos 81, inciso 1°, del proyecto y 22, inciso 4°, de la ley 18.556, antes transcrito, que, como se ha visto, suponen necesariamente que este Decreto Supremo de convocatoria a plebiscito se publique en el Diario Oficial. En consecuencia, una interpretación armónica del artículo 4°, transitorio del proyecto con los artículos 81 y 22, inciso 4°, referidos, no deja lugar a dudas sobre tal publicación.
+
+máxime cuando ambas normas, aunque en diferentes textos, forman parte de la preceptiva que regula el "sistema electoral público".
+
+30.- Que tampoco merece reparo constitucional el artículo en estudio, en cuanto dispone que el decreto supremo de convocatoria fijará la fecha de la votación plebiscitaria la que deberá efectuarse no antes de treinta ni después de sesenta días de la fecha de la "proposición correspondiente ", ya que esta parte del precepto no hace sino reproducir lo que expresamente establece la disposición vigesimaséptima transitoria inciso final, de la Carta Fundamental.
+
+31.- Que, en efecto, la mencionada disposición transitoria prescribe: - El plebiscito deberá efectuarse no antes de treinta ni después de sesenta días de la proposición correspondiente y se llevará a efecto en la forma que disponga la ley ".
+
+32.- Que es cierto, sin embargo, que esta norma aparentemente, puede dar lugar a dos posiciones distintas: 1) la primera consiste en afirmar que ese plazo de 30 a 60 días debe contarse desde la fecha en que los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros, titulares, o el Consejo de Seguridad Nacional, en su caso, determinen la persona que se propondrá al país para ocupar el cargo de Presidente de la República en el próximo período presidencial y 2) la segunda consiste en sostener que ese plazo de treinta a sesenta días se cuenta desde la fecha en que se comunica oficialmente al país la persona que se propone, mediante la publicación del decreto de convocatoria en el Diario Oficial, porque, obviamente, esa es la oportunidad en que el país toma conocimiento de la proposición que se le formula.
+
+33.- Que ante esta alternativa, no cabe lugar a dudas, que la segunda interpretación es la correcta, porque así lo demuestra la letra, el sentido y el espíritu de la normativa constitucional. En efecto, "la proposición de la persona se hace al país y no al Presidente de la República y, en consecuencia, el momento en que el país toma conocimiento oficial de ella es la oportunidad en que debe entenderse hecha esa proposición y comenzar a correr los plazos de 30 a 60 días. La designación de la persona que se propondrá se le comunica al Presidente de la República sólo para el efecto de que él convoque a plebiscito.
+
+Sostener lo contrario implica permitir que un plazo no rija desde la fecha en que los interesados tomen conocimiento de la resolución respectiva, sino desde una fecha anterior lo cual jurídicamente es inaceptable.
+
+34.- Que, por otra parte, esta interpretación es la que mejor se aviene con el espíritu de la Constitución, pues ella da certeza jurídica, ya que conduce a determinar con precisión y pleno conocimiento del país la fecha en que se realizará el acto plebiscitario dentro del marco establecido por la Carta Fundamental. Esta fecha, además, resulta de capital importancia por que ella es el punto de referencia para diversas actuaciones relacionadas con este proceso plebiscitario como son, por ejemplo, la constitución de las mesas receptoras de sufragios, la propaganda electoral y la designación por el Presidente de la República de los oficiales de las Fuerzas Armadas y Carabineros que tendrán el mando de la fuerza encargada de la mantención del orden público en las localidades pertinentes (artículo 50, 32, inciso 1°, 33, inciso 2°, y 114, respectivamente, del proyecto de ley remitido).
+
+35.- Que, finalmente, de concluirse que el plazo mínimo de treinta y máximo de sesenta días se cuenta desde la fecha de la designación de la persona que se propondrá al país, podrían verse seriamente afectados diversos derechos que este mismo proyecto contempla, como por ejemplo, el de realizar propaganda electoral que, según su artículo 32, sólo podrá efectuarse desde treinta días antes y hasta el tercer día anterior a un plebiscito.
+
+No es ésta la intención de la Constitución ni del proyecto y, por ende, la interpretación de los textos que conllevan a ella contraria la voluntad del Constituyente y del Legislador.
+
+36.- Que de lo expuesto en los considerandos anteriores, y en el entendido que en ellos se señala, debe concluirse que el artículo 4° transitorio del proyecto regula, conforme a la Constitución, la disposición vigesimaséptima transitoria de la Carta Fundamental, porque establece los plazos, publicidad y trámites necesarios para ello. En efecto, recapitulando puede expresarse que dicho artículo establece:
+
+1) que el Presidente de la República convocará a plebiscito dentro de las cuarenta y ocho horas siguientes a aquel en que los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros, titulares, por la unanimidad de ellos o el Consejo de Seguridad Nacional, en su caso, le comuniquen la designación de la persona que propondrán al país para que ocupe el cargo de Presidente de la República;
+
+2) que la convocatoria indicada se hará mediante decreto supremo que se publicará en el Diario Oficial;
+
+3) que dicho decreto supremo contendrá el nombre de la persona propuesta y fijará la fecha de la votación plebiscitaria; y
+
+4) que la votación plebiscitaria deberá efectuarse no antes de treinta ni después de sesenta días contados desde la fecha de la publicación del decreto supremo de convocatoria en el Diario Oficial.
+
+37.- Que el artículo 162 del proyecto remitido legisla sobre el funcionamiento de las sedes oficiales de los partidos políticos y de los candidatos independientes en el día de la elección.
+
+Para determinar el verdadero sentido y alcance de este precepto, debe tenerse presente que el artículo 163 del mismo proyecto dispone que cada uno de los partidos que participen en una elección y los candidatos independientes, podrán designar un apoderado con derecho a voz, pero sin voto, para que asista a las actuaciones que se realicen, entre otras, en las Mesas Receptoras de Sufragios el día de la elección. Del mismo derecho gozarán los partidos políticos y los parlamentarios independientes en los plebiscitos. Entre los derechos que el proyecto confiere a estos apoderados está el de exigir que se les certifique por el Presidente y el Secretario de las Mesas Receptoras copia del resultado de la respectiva Mesa, lo que se hará una vez concluida el acta de escrutinio, esto es, finalizada la votación y terminada la labor complementaria de levantamiento de actas que debe hacer la respectiva Mesa Receptora de Sufragios. Este derecho que se confiere a los apoderados, obviamente, está concebido para que ellos informen a sus mandantes a fin de que éstos puedan tener, oportunamente, un cuadro sobre los resultados de la elección o plebiscito. Por tanto debe entenderse que el día en que se realicen estos procesos y para los efectos de recibir esta información, deberán estar abiertas las sedes oficiales de los partidos políticos y de los candidatos independientes que confirieron esos poderes. De no entenderse así, esta labor de los apoderados no tendría sentido alguno.
+
+38.- Que, de esta manera y del contexto de los artículos señalados surge con claridad el verdadero sentido y alcance del artículo 162 del proyecto, cual es, que las sedes oficiales de los partidos políticos y de los candidatos independientes podrán funcionar el día de una elección o plebiscito para dos efectos:1) hasta las diez horas para la atención y distribución de los apoderados en las distintas Mesas Receptoras de Sufragios y demás Organismos que señala esta ley; y 2) para recibir y procesar la información que le proporcionen los respectivos apoderados.
+
+39.- Que sobre esta materia el proyecto toma los resguardos necesarios para evitar que se desvirtúe el propósito de la ley expresado en el considerando anterior, ya que, como, tradicionalmente lo ha hecho nuestra normativa electoral, el artículo 120 establece que el Juez del Crimen competente y el jefe de las fuerzas deberán inspeccionar las sedes de los partidos políticos y de los candidatos independientes, declaradas en conformidad a esta ley, a fin de establecer si en días se practicare el cohecho de electores, si existieren armas o explosivos, o se realizaren actividades de propaganda electoral, ya que si ello ocurriere, previo el levantamiento del acta correspondiente, dispondrán la clausura del local.
+
+40.- Que, en consecuencia, el Tribunal no formula reparos al artículo 162 del proyecto remitido, en el entendido que las sedes oficiales de los partidos políticos y de los candidatos independientes podrán funcionar el día en que se realicen los procesos electorales y plebiscitarios a fin de distribuir los apoderados en las distintas Mesas Receptoras de Sufragios y demás organismos electorales previstos en esta ley y de recibir y procesar la información que ellos le proporcionen. La distribución de apoderados sólo podrá efectuarse hasta las diez horas. En ningún caso podrán realizar propaganda electoral o política ni atender electores.
+
+41.- Que el artículo 8° del proyecto de ley remitido establece que "En el caso de candidaturas independientes la determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral mediante resolución que se publicará en el Diario Oficial con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse una elección. En caso de disolución de la Cámara de Diputados, se hará dentro de los tres días siguientes a la publicación del decreto de convocatoria.".
+
+42.- Que esta norma debe entenderse en relación con lo dispuesto en los artículos 10 y 13 del proyecto que, para la presentación de candidaturas de independientes a Diputados o Senadores y de Presidente de la República, señalan, respectivamente, los porcentajes mínimos en relación a la última elección correspondiente. Para los primeros, se exige un mínimo de ciudadanos igual al 0,5% de los que hubieren sufragado en el distrito o en la región, según se trate de Diputados o Senadores. Para el caso de candidaturas independientes a Presidente de la República dicho mínimo es de un número de ciudadanos equivalente al 0,5% de los que hubieren sufragado en la anterior elección periódica de Diputados.
+
+43.- Que, en consecuencia, los mínimos necesarios para la presentación de las candidaturas independientes a los cargos mencionados están fijados en los artículos 10 y 13 del proyecto de ley. Esta es la norma sustantiva. La facultad que el artículo 8° le confiere al Director del Servicio Electoral es meramente administrativa y consiste en efectuar una operación aritmética de traducir esos porcentajes a números de ciudadanos, con el objeto de facilitar la labor de los patrocinantes de esas candidaturas independientes y dar certeza jurídica, pues en caso que así no fuere, tal cometido tendría que ser realizado por cada persona que desee presentar una candidatura independiente.
+
+44.- Que, en consecuencia, el artículo 8° del proyecto no merece reparo constitucional.
+
+45.- Que el artículo 101, inciso 1°, del proyecto remitido establece: "El Tribunal Calificador de Elecciones se entenderá citado por el solo ministerio de la ley, para reunirse a las diez de la mañana del décimo día siguiente a la fecha en que se verifique una elección o plebiscito, a fin de conocer del escrutinio general y de la calificación de dichos procesos, y de resolver las reclamaciones y efectuar las rectificaciones a que hubiere lugar".
+
+46.- Que este plazo de diez días señalado por la ley, según algunos, podría estimarse exiguo por el hecho de que las solicitudes de rectificaciones de escrutinios y las reclamaciones de nulidad de elecciones o plebiscitos deban presentarse dentro del plazo de diez días contados desde la realización del acto respectivo. Sobre todo, agregan, que existe un término adicional de cinco días para rendir las informaciones y contra informaciones pertinentes ante el Juez del Crimen respectivo, antes de que el Tribunal Calificador de Elecciones conozca de ellas.
+
+47.- Que tal aprensión resulta injustificada, habida consideración de las siguientes razones:
+
+- **a)** que para determinar si la solicitud de rectificación de escrutinios o de reclamación de nulidad se ha presentado o no oportunamente, debe estarse exclusivamente al plazo en que día se presente, y la ley, en manera alguna, subordina su procedencia a la fecha en que se reúna el Tribunal llamado a resolverla;
+
+- **b)** que el Tribunal Calificador de Elecciones no sólo tiene como misión resolver solicitudes de rectificación o reclamación sino también de conocer del escrutinio general y de la calificación de los procesos electorales y plebiscitarios. Y es perfectamente 16gico, y más aún necesario, que el Tribunal comience a conocer de los actos señalados tan pronto sea posible, porque ello no significa de ningún modo perjudicar el derecho a reclamar o hacer imposible su resolución; y
+
+- **c)** que el proyecto ha sido especialmente cauteloso a fin de evitar que queden reclamaciones sin resolver, como lo demuestran, inequívocamente, sus artículos: 101, inciso final, que expresa que "reunido el Tribunal seguirá sesionando diariamente hasta que cumpla integralmente su cometido"; 110 que dispone "luego de haber fallado todas las reclamaciones en contra de una elección o plebiscito, el Tribunal procederá a realizar su escrutinio general..." y, en fin, 111 que a la letra prescribe "Una vez distada la sentencia sobre todos los reclamos y practicado el escrutinio general, el Tribunal proclamará a los candidatos que hubieren resultado elegidos o el resultado del plebiscito, en su caso".
+
+48.- Que, en consecuencia, las disposiciones citadas demuestran que el proyecto ha tomado todos los resguardos necesarios para las reclamaciones presentadas, en tiempo, sean resueltas por el Tribunal Calificador de Elecciones.
+
+49.- Que las demás disposiciones del proyecto remitido tampoco son contrarias a la Constitución Política de la República, con excepción de las que se indican en los considerandos siguientes.
+
+50.- Que el artículo 21 del proyecto remitido legisla sobre las diversas situaciones que pueden presentarse como consecuencia del fallecimiento del candidato a Presidente de la República entre el octavo y el día anterior a la elección como así también si ello ocurre durante el día de la elección y antes de terminados los escrutinios.
+
+51.- Que, en efecto, refiriéndose a la primera situación, el inciso 1° del artículo señalado, establece: "Si en el caso de una elección de Presidente de la República cualquier candidato falleciere entre el octavo y el día anterior a la elección, la Directiva Central del partido político correspondiente o las personas que hubieren declarado la candidatura independiente del fallecido podrán reemplazarlo por otro, dentro de tercero día de la fecha del deceso".
+
+52.- Que la norma antes transcrita, en caso de ocurrir el fallecimiento entre el segundo día y el día anterior a la elección, situación que queda comprendida dentro de la hipótesis en que el precepto legisla, está permitiendo que el candidato fallecido sea reemplazado por otro, con posterioridad al acto electoral desde el momento en que se expresa que el reemplazante puede ser designado "dentro de tercero día de la fecha del deceso".
+
+53.- Que este precepto, con el propósito de cubrir todas las eventualidades, lleva a la norma a un extremo imposible de cumplir lo que hace que él sea inconstitucional, pues el artículo 18 de la Carta Fundamental encarga a la ley regular el "sistema electoral público", con el objeto de que las elecciones y plebiscitos puedan verificarse en procesos jurídicos que permitan su realización natural lo que no ocurriría, obviamente, de aceptarse la situación anómala que se ha descrito.
+
+54.- Que, por su parte, el inciso 2° del precepto en estudio dispone que si un candidato falleciere durante el día de la elección y antes de terminados los escrutinios y su nombre "obtuviere un número de votos suficientes para resultar elegido o participar en la nueva elección el Presidente en ejercicio convocará a elecciones, las que deberán celebrarse dentro de los cuarenta y cinco días siguientes a la declaración del Tribunal Calificador de Elecciones".
+
+55.- Que para el debido análisis de la constitucionalidad de esta norma, deben tenerse presente los siguientes preceptos de la Carta Fundamental: el artículo 26, que en su parte pertinente, dispone que la elección de Presidente de la República se realizará en la forma que determine la ley "noventa días antes de aquel en que deba cesar en el cargo el que esté en funciones.". "Si a la elección de Presidente se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una nueva elección que se verificará, en la forma que determine la ley, quince días después de que el Tribunal Calificador, dentro del plazo señalado en el artículo siguiente, haga la correspondiente declaración. Esta elección se circunscribirá a los dos candidatos que hubieren obtenido las más altas mayorías relativas".
+
+Por su parte, el artículo 27, complementando la norma anterior, agrega: "El proceso de calificación de la elección presidencial deberá quedar concluido dentro de los cuarenta días siguientes a la primera elección o de los veinticinco días siguientes a la segunda.
+
+El Tribunal Calificador de Elecciones comunicará de inmediato al Presidente del Senado la proclamación de Presidente Electo que haya efectuado".
+
+Por último, el artículo 30 prescribe: "El Presidente cesará en su cargo el mismo día en que se complete su período y le sucederá el recientemente elegido".
+
+56.- Que como puede apreciarse de l lectura de las normas antes transcritas, la Constitución ha establecido un sistema de elección de Presidente de la República que para su plena realización puede requerir hasta ochenta días entre la fecha en que se realice el acto electoral y aquella en que el Tribunal Calificador de Elecciones proclame al nuevo Presidente de la República.
+
+57.- Que un análisis de la norma del proyecto, a la luz de lo expuesto en el considerando precedente, lleva a la conclusión que ello vulnera los artículos 26 y 30 de la Carta Fundamental, porque el procedimiento establecido para la nueva elección exigiría extender el mandato del Presidente de la República que esté en el cargo más allá del señalado en la Constitución, habida consideración que la primera elección debe hacerse noventa días antes de que éste cese en su cargo y que el procedimiento expresado en el artículo 21, inciso 2°, del proyecto, para su plena realización, tomaría, un lapso de tiempo superior a dichos noventa días, lo que provoca la situación de inconstitucionalidad que se señala.
+
+En otras palabras, a Constitución ha establecido un sistema de sucesión presidencial que fija plazos y actuaciones que pueden cumplirse perfectamente y con armonía. El artículo 21, inciso 2°, del proyecto, al legislar sobre una situación contingente, establece un sistema para solucionar la eventualidad que no es constitucionalmente aceptable.
+
+58.- Que, en consecuencia, siendo inconstitucionales los incisos 1° y la oración final del inciso 2° del artículo 21 y atendida la indivisibilidad de la norma, se declara que el artículo 21 del proyecto remitido es inconstitucional y debe ser eliminado.
+
+59.- Que el artículo 39 del proyecto remitido dispone que el Director del Servicio Electoral determinará el número de Mesas Receptoras de Sufragios y el o los Registro Electorales que corresponderá a cada una de ellas, el quinto día siguiente a la convocatoria en caso de plebiscito.
+
+60.- Que, por su parte, el artículo 42 del mismo proyecto establece que para proceder a la designación de vocales de las Mesas Receptores de Sufragios, cada uno de los miembros de la Junta Electoral escogerá cinco nombres de entre los ciudadanos inscritos en el respectivo Registro o Registros agrupados debiendo preferirse a aquellas personas que puedan presumirse más aptas para desempeñar dichas funciones.
+
+Posteriormente, en sesión pública, las Juntas Electorales deberán efectuar un sorteo para determinar de entre los quince nombres escogidos, las cinco personas que se desempeñarán como vocales de cada Mesa Receptora de Sufragios. Tratándose de un plebiscito, dicha sesión pública deberá efectuarse el sexto día siguiente a la convocatoria, esto es, un día después de la determinación del número de mesas que hará el Director del Servicio Electoral.
+
+61.- Que, además, el artículo 43 del proyecto dispone que dentro de los tres días siguientes de finalizada la selección de quince miembros, la Junta Electoral deberá publicar en un periódico de la localidad respectiva, el día, la hora y el lugar en que deberá realizarse la reunión pública en que se efectuará el sorteo correspondiente.
+
+62.- Que este procedimiento de designación de vocales es imposible de cumplir. En efecto, si la determinación del número de Mesas Receptoras de Sufragios debe hacerse el quinto día siguiente a la convocatoria a. plebiscito y la sesión pública en que se deben sortear los cinco vocales de cada una de dichas Mesas debe realizarse el sexto día siguiente a dicha convocatoria, no hay tiempo para cumplir con la etapa intermedia, esto es, la selección de cinco nombres por parte de cada uno de los miembros de la Junta Electoral y la publicación en un periódico de la localidad respectiva comunicando la fecha, hora y lugar en que se celebrará la sesión pública para proceder al sorteo.
+
+63.- Que, en consecuencia, el procedimiento establecido para la designación definitiva de los vocales de las Mesas Receptoras de Sufragios no puede cumplirse válidamente en el caso de los actos plebiscitarios. Lo anterior vulnera el artículo 18 de la Carta Fundamental, porque este mero error de procedimiento que se infiere de la expresión objetiva de los artículos 39, 42 y 43 imposibilitaría la realización de los plebiscitos ordenados por la Constitución.
+
+64.- Que, en consecuencia, se declaran inconstitucionales y deben ser eliminadas: 1) la oración " o el quinto siguiente a la convocatoria, en caso de plebiscito o elecciones no periódicas" del artículo 39, inciso 1°, y 2) la frase "Tratándose de un plebiscito, dicha sesión deberá realizarse el sexto día siguiente a la convocatoria" contenida en el artículo 42, inciso final, ambos del proyecto de ley remitido.
+
+65.- Que el artículo 83 del proyecto remitido legisla sobre la forma de integrar los Colegios Escrutadores para cuyo efecto dispone que al día siguiente de la elección deberán reunirse los Presidentes de las Mesas Receptoras de Sufragios para designar de entre ellos seis miembros titulares y seis suplentes.
+
+Luego el inciso 3° agrega: "La reunión no podrá celebrarse sin la concurrencia de la mayoría absoluta de los Presidentes de las diversas Mesas Receptoras que hubieren funcionado, ya sea personalmente o representados mediante poder especial otorgado ante Notario u oficial civil, en su caso".
+
+66.- Que del inciso antes transcrito debe eliminarse la expresión: "ya sea personalmente o representados mediante poder especial otorgado ante Notario u oficial civil, en su caso", por no estar conforme con la Constitución, en razón que las cargas personales, carácter que sin duda tienen estas funciones, son indelegables según se infiere de una interpretación razonable del artículo 22 de la Carta Fundamental.
+
+67.- Que el artículo 108 del proyecto de ley remitido establece que si la nulidad de una votación declarada por el Tribunal Calificador de Elecciones, obedeciere a irregularidades en los procedimientos de las Mesas Receptoras de Sufragios, a cohecho o a presión de las autoridades, "se procederá a una nueva votación, en la fecha que indique el Presidente de la República, dentro de treinta días contados desde que el Tribunal le comunique su acuerdo". Dada la ubicación de este precepto dentro del proyecto y la amplitud de sus términos, debe entenderse que la norma también rige para las elecciones de Presidente de la República.
+
+68.- Que, en cuanto el precepto comprende la elección de Jefe del Estado, por el mismo orden de consideraciones señaladas en los acápites 55 a 57 de esta sentencia, el artículo 108 del proyecto vulnera la Constitución, por cuanto establece un procedimiento de repetición de votaciones que no se concilia con el sistema y plazos establecidos para la elección de Presidente de la República, por los artículos 26 y 27, incisos 1° y 2° de la Carta Fundamental.
+
+69.- Que atendido el hecho de que el artículo 109 del proyecto supone necesariamente la existencia del artículo 108, formando con él un todo indivisible, se declaran inconstitucionales los artículos 108 y 109 del proyecto remitido.
+
+70.- Que el artículo 146 del proyecto dispone que "Si el sentenciado a pena de multa no tuviere bienes para satisfacerla o se negare a ello, sufrirá por vía de sustitución y apremio la pena de prisión, regulándose un día por cada un treintavo de la multa impuesta".
+
+71.- Que lo anterior implica que todas aquellas personas condenadas a pena de multa, cualquiera que sea su monto, en el evento de que no pudieren o no quisieren pagarla sufrirán por vía de sustitución y apremio la misma pena, esto es la de prisión por treinta días.
+
+En efecto si la pena se regula a razón de un día de prisión por cada treintavo de la multa impuesta, cualquiera que sea el monto de ésta, siempre el resultado será el mismo: el sentenciado deberá cumplir treinta días de prisión en el evento propuesto.
+
+72.- Que el artículo 19, No. 2, de la Constitución, consagra el principio general de la igualdad ante la ley, disponiendo: "La Constitución asegura a todas las personas: "La igualdad ante la ley. En Chile no hay persona ni grupo privilegiados.
+
+Ni la ley ni autoridad alguna podrán establecer diferencias arbitrarias.".
+
+De esta manera la igualdad ante la ley consiste en que las normas jurídicas deben ser iguales para todas las personas que se encuentren en las mismas circunstancias y, consecuencialmente, diversas para aquellas que se encuentren en situaciones diferentes.
+
+"No se trata, por consiguiente, de una igualdad absoluta sino que ha de aplicarse la ley en cada caso conforme a las diferencias constitutivas del mismo. La igualdad supone, por lo tanto, la distinción razonable entre quiénes no se encuentren en la misma condición..." (Linares Quintana, Segundo, Tratado de la Ciencia del Derecho Constitucional Argentino y Comparado, tomo 4°, pág. 263).
+
+73.- Que el artículo 146 del proyecto, teniendo presente las consideraciones antes expuestas, vulnera el artículo 19, No. 2, de la Carta Fundamental, por cuanto da un trato igual a situaciones desiguales, como lo demuestra el hecho de que una persona que sea condenada a cien unidades tributarias mensuales puede sufrir, por la vía de sustitución de la pena, treinta días de prisión y, en cambio, la persona que sea condenada a una unidad tributaria mensual sufre, por la vía sustitutiva, la misma pena de treinta días de prisión. Este trato igual para situaciones disímiles no resulta razonable, y como bien se ha dicho "la razonabilidad es el cartabón o standard de acuerdo con el cual debe apreciarse la medida de la igualdad o la desigualdad". (Ob. cit., pág. 263).
+
+74.- Que, en consecuencia el artículo 146 del proyecto remitido es inconstitucional.
+
+Y, visto, lo prescrito en los artículos 1°, 18, 19, N°s. 2, 3, 12, 15 y 26; 22, 26, 27, 30, 73, 82, No. 1 e inciso 3°, y 84 de la Constitución Política de la República, en relación con sus disposiciones transitorias vigesimasegunda y vigesimaséptima a vigesimanovena y lo dispuesto en los artículos 34 al 37 de la Ley 17.997, de 19 de mayo de 1981,
+
+Se Declara:
+
+1°.- Los artículos 4° transitorio y 162 del proyecto son constitucionales, en el entendido que se expresa en los considerandos 36 y 40, respectivamente;
+
+2°.- Los demás preceptos del proyecto son constitucionales, con excepción de los que se indican a continuación
+
+3°.- Las siguientes disposiciones son inconstitucionales y, en consecuencia, deben ser eliminadas del proyecto remitido:
+
+a) el artículo 21;
+
+b) la oración "o el quinto siguiente a la convocatoria, en caso de plebiscito o elecciones no periódicas" del artículo 39, inciso 1°
+
+c) la siguiente frase del artículo 42, inciso final:
+
+"Tratándose de un plebiscito, dicha sesión deberá realizarse el sexto día siguiente a la convocatoria";.
+
+d) La frase "ya sea personalmente o representados mediante poder especial otorgado ante notario u oficial civil, en su caso" contenida en el artículo 83, inciso 3°;
+
+e) los artículos 108 y 109; y
+
+f) el artículo 146; y
+
+4°.- Se hace presente a la H. Junta de Gobierno la necesidad de complementar, oportunamente, esta ley con las materias indicadas en los considerandos 11, 18, 19 y 25 de esta sentencia.
+
+Acordado, con el voto en contra de los Ministros señores Ortúzar y Jiménez, respecto de los considerandos 32 a 36, inclusive, de la sentencia, en cuanto sostienen que la fecha de la proposición para el cargo de Presidente de la República que deberán hacer los Comandantes en Jefe y el Director General de Carabineros, o el Consejo de Seguridad Nacional, en su caso, es la de la publicación del decreto de convocatoria a plebiscito en el Diario Oficial.
+
+Los Ministros señores Ortúzar y Jiménez estiman que la referida interpretación es contraria a lo prescrito en la disposición vigesimaséptima transitoria de la Constitución y fundamentan su disidencia en las siguientes consideraciones:
+
+El citado precepto constitucional, en su inciso primero, establece que corresponderá a los Comandantes en Jefe de las Fuerzas Armadas y al General Director de Carabineros, titulares, proponer al país, por la unanimidad de ellos, sujeto a la ratificación de la ciudadanía, la persona que ocupará el cargo de Presidente de la República en el siguiente período presidencial.
+
+De acuerdo al inciso segundo, si transcurridas cuarenta y ocho horas de reunidos los Comandantes en Jefe y el General Director señalados, no hubiere unanimidad, la proposición se hará por el Consejo de Seguridad Nacional.
+
+Y el inciso final de dicha disposición prescribe a las letra: "El plebiscito deberá efectuarse no antes de treinta ni después de sesenta días de la proposición correspondiente y se llevará a efecto en la forma que disponga la ley."
+
+Por su parte el artículo 4° transitorio del proyecto de que se trata dispone textualmente:
+
+#### Artículo 4°
+
+Para el cumplimiento del plebiscito dispuesto en la disposición vigesimaséptima transitoria de la Constitución Política, el Presidente de la República convocará a plebiscito dentro de las cuarenta y ocho horas siguientes a aquel en que los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros o el Consejo de Seguridad Nacional, en su caso, le comuniquen la designación de la persona que propondrán al país para que ocupe el cargo de Presidente de la República".
+
+"La convocatoria indicada se ordenará mediante decreto supremo que contendrá el nombre de la persona propuesta para ocupar el cargo de Presidente de la República y fijará la fecha de la votación plebiscitaria la que deberá efectuarse no antes de treinta ni después de sesenta días de la fecha de la proposición correspondiente.".
+
+Tanto el precepto constitucional como el legal citados, establecen, pues, con claridad meridiana que el plebiscito deberá efectuarse no antes de treinta ni después de sesenta días de la proposición correspondiente y que, para este efecto el Presidente de la República debe convocar a plebiscito dentro de las cuarenta y ocho horas siguientes a la fecha en que se le comunique dicha proposición.
+
+Surge ahora el problema de determinar cuál es la fecha de la proposición correspondiente.
+
+¿Es la fecha en que los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros o el Consejo de Seguridad Nacional, en su caso, acuerdan y comunican al Presidente de la República su proposición? ¿Es la fecha del Decreto Supremo de convocatoria a plebiscito que deberá dictarse dentro de las cuarenta y ocho horas siguientes a la proposición correspondiente? ¿O es, como lo sostiene la sentencia, la fecha de la publicación de dicho Decreto en el Diario Oficial? A los Ministros disidentes no les merece duda alguna que, de acuerdo a los términos claros y precisos del inciso final de la disposición vigesimaséptima transitoria referida, la fecha de la proposición es aquella en que realmente los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros o el Consejo de Seguridad Nacional, en su caso, la acuerdan y comunican al Presidente de la República y que el plebiscito, conforme al texto explícito del precepto constitucional citado, deberá efectuarse no antes de treinta ni después de sesenta días contados desde dicha proposición.
+
+Si se admitiera la interpretación de la sentencia, esto es que la fecha de la proposición es la de la publicación del Decreto de convocatoria en el Diario Oficial, resultaría el contrasentido de que la proposición tendría fecha posterior a la convocatoria.
+
+O, dicho en otros términos, la convocatoria a plebiscito se estaría efectuando antes de la fecha de la proposición correspondiente .
+
+La disposición vigesimaséptima transitoria constituye, pues, un precepto especial, de jerarquía constitucional que prevalece sobre cualquier otra norma y que responde al propósito del Constituyente de que el país, dada la inmensa trascendencia del acto, tenga el derecho de conocer la proposición tan pronto se acuerde y comunique al Presidente de la República.
+
+La proposición a que se refiere la disposición vigesimaséptima transitoria y que corresponde hacer a los Comandantes en Jefe de las Fuerzas Armadas y al Director General de Carabineros, o al Consejo de Seguridad Nacional, en su caso, es de naturaleza absolutamente diferente a la consulta a la ciudadanía que el Presidente de la República puede efectuar para que se pronuncie mediante plebiscito en los casos de discrepancia entre el Congreso y aquel, con respecto a un proyecto de reforma a la Constitución y a que se refieren los artículos 117, 118 y 118 permanentes de la Carta Fundamental.
+
+En efecto, los incisos 1° y 2° del último de los artículos indicados dicen textualmente:
+
+"La convocatoria a plebiscito deberá efectuarse dentro de los treinta días siguientes a aquel en que ambas Cámaras insistan en el proyecto aprobado por ellas, y se ordenará mediante Decreto Supremo que fijará la fecha de la votación plebiscitaria, la que no podrá tener lugar antes de treinta días ni después de sesenta, contado desde la publicación de dicho decreto. Transcurrido este plazo sin que el Presidente convoque a plebiscito, se promulgará el proyecto que hubiere aprobado el Congreso."
+
+"El decreto de convocatoria contendrá, según corresponda, el proyecto aprobado por el Congreso Pleno y vetado totalmente por el Presidente de la República, o las cuestiones del proyecto en las cuales el Congreso haya insistido. En este último caso, cada una de las cuestiones en desacuerdo deberá ser votada separadamente en el plebiscito."
+
+Es decir, en estas situaciones el Constituyente dijo expresamente que la convocatoria a plebiscito deberá efectuarse mediante Decreto Supremo que fijará la fecha de la votación plebiscitaria, la que no podrá tener lugar antes de 30 días ni después de sesenta, contados desde la publicación de dicho decreto.
+
+Igual concepto contiene el artículo 175 del proyecto, complementario del artículo 119 permanente de la Carta, que se refiere al plebiscito en caso de discrepancia entre el Presidente y el Congreso con motivo de un proyecto de reforma constitucional de los contemplados en el artículo 118 de la Constitución.
+
+El Decreto de convocatoria del plebiscito se efectuará, en tal caso, mediante decreto supremo en el cual (el Presidente) "deberá fijar la fecha de la votación plebiscitaria, la que no podrá tener lugar antes de 30 días ni después de 60 contados desde la publicación de dicho decreto."
+
+Por último, igual mandato establece el artículo 3° transitorio del proyecto que trata de la aprobación plebiscitaria que se requiere en el caso de que la Junta de Gobierno apruebe un proyecto de ley de reforma de la Constitución durante el período de transición. En tal evento "la convocatoria a plebiscito se ordenará mediante decreto supremo que fijará la fecha de la votación plebiscitaria, la que no podrá tener lugar antes de 60 ni después de 90 días contados desde la publicación de dicho decreto."
+
+Como se advierte tratándose de un proyecto de reforma de la Constitución, el Constituyente de las disposiciones permanentes y el legislador de los artículos 175 y 3° transitorio del proyecto, dada la naturaleza de la consulta plebiscitaria, estableció expresamente que la votación se efectuará dentro de los plazos referidos, contados de la publicación del decreto de convoratoria.
+
+La disposición vigesimaséptima de la Constitución estatuye, en cambio, que el plebiscito referente a la persona que debe ocupar el cargo de Presidente de la República en el período presidencial siguiente, deberá efectuarse no antes de treinta ni después de sesenta días de la proposición correspondiente.
+
+Si fuere necesario esperar la publicación de Decreto de convocatoria para determinar la fecha en que debe llevarse a efecto el plebiscito, no sólo se crearla upa incertidumbre jurídica, sino que una justificada inquietud en la opinión pública que desea conocer lo antes posible el nombre de la persona que se propondrá y la fecha exacta del acto plebiscitario.
+
+Por el contrario, la interpretación que los Ministros disidentes damos al precepto constitucional de la disposición vigesimaséptima transitoria y del artículo 4° transitorio del proyecto sobre votaciones populares y escrutinios que será próximamente ley de la República no sólo se ajusta a la letra de la Constitución y de la ley, sino que permite que el Decreto de convocatoria fije el día preciso de la elección, lo que no podría hacer si la fecha de la proposición correspondiente fuere la de la publicación de dicho Decreto en el Diario Oficial.
+
+En concepto de los Ministros disidentes su interpretación se ajusta estrictamente a la Constitución, crea certeza jurídica, pues permite al país conocer de inmediato el nombre de la persona propuesta para el cargo de Presidente de la República y a más tardar, dentro de las 48 horas siguientes, la fecha exacta del plebiscito, el que deberá efectuarse no antes de treinta ni después de sesenta días de la proposición correspondiente.
+
+Como consecuencia de las consideraciones anteriores los ministros señores Ortúzar y Jiménez no aceptan la referencia al considerando 36 que hace el número 1° de la declaración final de la sentencia.
+
+Redactó la sentencia el Ministro señor Eugenio Valenzuela Somarriva y el voto disidente el Ministro señor Enrique Ortúzar Escobar.
+
+Devuélvase el proyecto a la H. Junta de Gobierno rubricado en cada una de sus hojas por el Secretario del Tribunal, oficiándose. Registrese y publíquese en el Diario Oficial. Déjese fotocopia del proyecto y archívese. Rol No. 53.
+
+Pronunciada por el Excmo. Tribunal Constitucional integrado por su Presidente don José María Eyzaguirre Echeverría y por sus Ministros señores Enrique Ortúzar Escobar, Eugenio Valenzuela Somarriva, Luis Maldonado Boggiano y Manuel Jiménez Bulnes. Autoriza el Secretario del Tribunal, don Rafael Larraín Cruz.
