@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 528, de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº 103, superficie 215 m2, Rol Nº 192-52, comuna de Longaví, VII Región, para la obra "Camino Ruta L-49, Cruce Long. - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12" y se acordó el valor de la indemnización con su propietario Héctor Gabriel Ibáñez Aravena, ascendente a la cantidad de $1.536.996.
+
+- Fiscal del Ministerio de Obras Públicas.
