@@ -1,0 +1,5 @@
+Por decreto MOP Nº 930, de 18 de octubre de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 184-2 para la obra: "Concesión Internacional Ruta 5. Tramo Temuco -
+
+Río Bueno. Km. 762.200,00 A Km. 762.850,00"; Novena Región, que figura a nombre de Espejo Zúñiga Carlos Fernando, rol de avalúo 397-7, comuna de Loncoche, superficie 15.786 m2. La comisión de peritos integrada por los señores Yaschala Maribel Yáñez Riffo, Patricio Fernando Casagrande Ulloa y María Soledad Núñez Arroyo, fijó con fecha 26 de agosto de 2004, el valor provisional de la indemnización en la cantidad de $37.547.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
