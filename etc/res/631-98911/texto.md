@@ -1,0 +1,3 @@
+Por resolución Nº 631, de 4 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución Nº 742 de 1989, de esta Subsecretaría, que autorizó a ESTEBAN HAUWAY TORRES para instalar y operar un centro de cultivo ubicado en Punta Arroyo, Bahía Inglesa, comuna de Caldera, III Región, por haberse puesto término al respectivo decreto de concesión de acuicultura.
+
+Valparaíso, 4 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
