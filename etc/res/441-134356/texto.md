@@ -1,0 +1,3 @@
+Por resolución Nº 441, de 25 de marzo de 1999, de esta Subsecretaría, declárase la caducidad de la resolución 541 de 1995, de esta Subsecretaría, que autorizó a PESQUERA DEL ESTRECHO S.A., para ampliar actividades pesqueras extractivas con la nave ''Curaco'', respecto de los recursos Atún aleta azul, Atún aleta larga, Atún ojos grandes, Atún mariposa, Azulejo, Cachurreta, Merlines, Marrajo o tiburón, Tiburón sardinero y Pejezorro, en las áreas de pesca autorizadas en dicha resolución.
+
+Valparaíso, 25 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
