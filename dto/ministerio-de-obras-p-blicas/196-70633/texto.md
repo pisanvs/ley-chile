@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 196, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs. 27, 28, 29, 31, 33, 34 y 35, superficies 235; 232,65; 230,30; 225,60; 220,60; 218,55 y 235 M2., respectivamente, roles de avalúos 402-31, 402-32, 402-33, 402-35, 402-37, 402-38 y 402-39, comuna de Vicuña, obra Proyecto Embalse Puclaro, sector Variante a Ruta 41-CH y se acordó precio de indemnización con sus propietarios Manuel González Esquivel, Aurelio Villalobos Urrutia, Baldomero Flores Cáceres, Rita Espejo Rojas, María Espejo Rojas, Luis Vilches Roco y Marta Roco Cortés y otra, ascendente a las cantidades de $7.063.275, $7.034.831, $8.301.475, $7.385.125, $6.870.575, $6.287.094 y $6.953.600.
+
+Fiscal del Ministerio de Obras Públicas.
