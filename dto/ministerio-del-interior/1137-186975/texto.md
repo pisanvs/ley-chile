@@ -1,0 +1,15 @@
+ACEPTA RENUNCIA AL CARGO DE ALCALDE DE LA I.
+
+MUNICIPALIDAD DE BUIN
+
+Santiago, 12 de Septiembre de 1985.- Hoy se decretó lo que sigue:
+
+No. 1.137.- Vistos: Lo dispuesto en el No. 2, de la letra A), de la Décimoquinta. Disposición Transitoria y el artículo 32, No. 8, de la Constitución Política de la República, el artículo 10°, del Decreto Ley No. 1.289, de 1976; y el artículo 233, inciso 2°, del DFL No. 338, de 1960,
+
+Decreto:
+
+Acéptase, a contar de esta fecha la renuncia voluntaria, presentada por don Manuel Ortiz Iriondo, a su cargo de Alcalde de la Municipalidad de Buin.
+
+Tómese razón, regístrese, comuníquese y publíquese. AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Ricardo García Rodríguez, Ministro del Interior.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Alberto Cardemil Herrera, Subsecretario del Interior.
