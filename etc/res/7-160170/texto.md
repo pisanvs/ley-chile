@@ -1,0 +1,5 @@
+Por Resolución No. 7, de 08 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a PESCA SURIBERICA S.A., R.U.T. No. 96.536.930-9, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras que tiene autorizadas por Resolución No. 298, de 1989, de esta Subsecretaría, en orden a instalar y operar una planta industrial ubicada en Kilómetro 6,5 Norte S/N°, Punta Arenas, en la línea de elaboración de congelado, donde podrá procesar los siguientes recursos hidrobiológicos: Besugo, Brótula, Cabrilla española, Chancharro, Cojinoba del Sur, Congrio dorado, Merluza del Sur, Merluza de tres aletas, Raya, Reineta, Róbalo, Rollizo, Sierra, Tollo y Tollo de cachos.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 08 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
