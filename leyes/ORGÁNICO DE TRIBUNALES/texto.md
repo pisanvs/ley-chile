@@ -1606,7 +1606,9 @@ En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de
 
 #### Artículo 100
 
-Derogado.
+La Corte Suprema, mediante auto acordado, dictará normas para prevenir el consumo indebido de sustancias o drogas estupefacientes o sicotrópicas por parte de los funcionarios judiciales.
+
+Ese auto acordado contendrá, además, un procedimiento de control de consumo aplicable a los miembros del escalafón primario. Dicho procedimiento de control comprenderá a todos los integrantes de un grupo o sector de funcionarios que se determinará en forma aleatoria, se aplicará en forma reservada y resguardará la dignidad e intimidad de ellos, observando las prescripciones de la ley Nº 19.628, sobre protección de los datos de carácter personal. Sólo será admisible como prueba de la dependencia una certificación médica, basada en los exámenes que correspondan.
 
 #### Artículo 101
 
@@ -2662,7 +2664,7 @@ Para ser Juez de Letras, o Ministro de la Corte Suprema y de las Cortes de Apela
 
 #### Artículo 251
 
-Derogado.
+No puede ser juez la persona que tuviere dependencia de sustancias o drogas estupefacientes o sicotrópicas ilegales, a menos que justifique su consumo por un tratamiento médico.
 
 #### Artículo 252
 
@@ -3447,6 +3449,12 @@ El original de la declaración será protocolizado en la misma notaría donde fu
 La declaración deberá ser actualizada cuando el funcionario fuere nombrado en un nuevo cargo o dentro de los treinta días siguientes al cumplimiento del próximo cuatrienio, si no se hubiere efectuado un nuevo nombramiento.
 
 La omisión de la declaración será sancionada por el superior jerárquico que corresponda, en la forma y con las sanciones que establece el Título XVI.
+
+#### Artículo 323 ter
+
+Asimismo, antes de asumir sus cargos, los miembros del escalafón primario deberán prestar una declaración jurada que acredite que no se encuentran afectos a la causal de inhabilidad contemplada en el artículo 251.
+
+En caso de inhabilidad sobreviniente, el funcionario deberá admitirla ante su superior jerárquico y someterse a un programa de tratamiento y rehabilitación en alguna de las instituciones que autorice el auto acordado de la Corte Suprema. Si concluye ese programa satisfactoriamente, deberá aprobar un control de consumo toxicológico y clínico que se le aplicará, con los mecanismos de resguardo a que alude el inciso segundo del artículo 100. El incumplimiento de esta norma dará lugar al correspondiente juicio de amovilidad, salvo que la Corte Suprema acuerde su remoción. Lo anterior es sin perjuicio de la aplicación de las reglas sobre salud irrecuperable o incompatible con el desempeño del cargo, si procedieren.
 
 ### 8. De la responsabilidad de los jueces
 

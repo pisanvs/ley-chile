@@ -1450,7 +1450,7 @@ Si estuviere inhabilitado por suspensión, el tribunal podrá, además, decretar
 
 #### Artículo 193
 
-El personal aeronáutico que desempeñe sus funciones bajo la influencia del alcohol o de drogas estupefacientes o sicotrópicas, será castigado con presidio o reclusión menores en sus grados medio a máximo y multa de diez a cien unidades tributarias mensuales.
+El personal aeronáutico que desempeñe sus funciones bajo la influencia del alcohol será castigado con presidio o reclusión menores en sus grados medio a máximo y multa de diez a cien unidades tributarias mensuales.
 
 En caso de reincidencia, el tribunal decretará la cancelación definitiva de su licencia.
 
