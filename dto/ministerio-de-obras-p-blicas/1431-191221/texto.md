@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.431, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 1 y 3, obra Sistema Maule Norte, Canal Villalobos Bajo Km. 0,100 al Km. 5,878, que figuran a nombre de Serviu y Arturo del C. Cortés Garrido, roles de avalúos 81-2 y 165-10, comuna de San Clemente, superficies 15.720 m² y 12.900 m². La Comisión de Peritos fijó con fecha 29 de junio de 1999, en las cantidades de $3.622.500, lote 1, y $3.708.750, lote 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
