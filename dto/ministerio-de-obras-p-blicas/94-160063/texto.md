@@ -1,0 +1,3 @@
+Por Decreto MOP No. 94, de fecha 27 de marzo de 1992, se expropiaron los lotes de terreno No. s. 5 y 25, superficies 255 m2. y 524 M2., respectivamente, roles de avalúos 318-015 y 569-007, Comuna de Copiapó, para la obra Ruta 31 Ch, sector Copiapó-Paipote, Doble Calzada y se acordó precio de indemnización con sus propietarios Sociedad Grallert y Cía. Ltda. y Elena Carrasco Carvajal, ascendente a las cantidades $ 1.463.269 y $ 12.251.930.-
+
+Fiscal del Ministerio de Obras Públicas.
