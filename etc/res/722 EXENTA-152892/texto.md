@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 722 de fecha 16 de Julio de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a los señores Joel Leonardo Muñoz Gutiérrez; Moisés Alberto Vallejos Vallejos; José Baldomero Jiménez Merino; Yessica Raquel Herrera Díaz; Juan Francisco Cabello Castillo; Galvarino Reginaldo Ponce Aguilera: Luis Hernán Salazar Soto; Sergio Roberto Hernández Quijada; Víctor Hugo Senn Leiva; Edmundo Robinson Urbina Donoso; Raúl Alfonso de Calisto Aguilera y Carlos Segismundo Videla Zamora, para efectua servicio de taxi colectivo no urbano dentro del territorio nacional.
+
+Santiago, 18 de Julio de 1986.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
