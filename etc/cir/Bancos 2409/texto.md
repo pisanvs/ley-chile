@@ -10518,9 +10518,9 @@ iii) Categoría "B-": préstamos cuyos deudores presentan atrasos superiores a u
 
 iv) Categoría "C": préstamos cuyos deudores presentan atrasos de más de dos meses y hasta cuatro meses; Y,
 
-v) Categoría "D": préstamos cuyos deudores mantienen atrasos por más de cuatro meses.
+v) Categoría "D": préstamos cuyos deudores mantienen atrasos por más de cuatro meses, o que registren el castigo de una o varias cuotas de préstamos en los últimos doce meses.
 
-El atraso a que se refieren los literales precedentes debe determinarse considerando la obligación que por más tiempo mantiene impaga el deudor, sea ésta una cuota o un pago mínimo exigido, como ocurre en el caso de tarjetas de crédito. En todo caso, si un deudor mantiene más de un crédito de consumo, todos ellos quedarán clasificados según el máximo atraso de su deudor.
+El atraso a que se refieren los literales precedentes debe determinarse considerando la obligación que por más tiempo mantiene impaga el deudor, sea ésta una cuota o un pago mínimo exigido, como ocurre en el caso de tarjetas de crédito. En todo caso, si un deudor mantiene más de un crédito de consumo, todos ellos quedarán clasificados según el máximo atraso de su deudor, incluidas las cuotas impagas que hayan sido castigadas en los últimos doce meses.
 
 ### 4. Clasificación de la cartera de préstamos hipotecarios para la vivienda
 
