@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.741, de 28 de abril de 2000, se expropiaron los lotes de terreno Nºs. 34, 35, 37, 53, 55 y 57, superficies 2.022,75; 1.175,41; 670; 558,41; 86,87 y 546,22 m2 respectivamente, roles de avalúo 1127-25, 1130-11 y 1131-19, comuna de Castro, para la obra Ruta W-65 y W-55, sector Cruce Longitudinal (Pid Pid) - Putemun - Dalcahue, Kms. 0,12720 al 11,99165 y se acordó precio de las indemnizaciones con sus propietarios María Orlanda Navarro Mansilla y otros, Ramón Raúl Torres Torres y Wenceslao Torres Barría, ascendentes a las cantidades de $2.432.772, para los lotes Nºs. 34 y 35, $643.092, para el lote Nº37 y $925.641, para los lotes Nºs. 53, 55 y 57.
+
+Fiscal del Ministerio de Obras Públicas.
