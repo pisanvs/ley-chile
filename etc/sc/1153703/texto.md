@@ -1,0 +1,5 @@
+Carta de naturalizacion otorgada a don Mateo Arnaldo Hoevel
+
+El Congreso de los representantes del Reeino oyó con gusto la solicitud de Ud. para que se le naturalice en él. El conocimiento anticipado que se tiene de sus virtudes bastará para hacer una declaracion que le lisonjea. Si el acaso, que designa ordinariamente el nacimiento, fija en los hombres aquel instinto indeleble que los obliga a amar i a procurar el bien posible a sus conciudadanos, debe esperarse con mas razon del que elije para su patria el pais que le merecio preferencia despues de comparado con el nativo i aun con otros en que adquirió la fortuna i conocimiento, que desea implear en la prosperidad de éste. Puede Ud. contarse como hijo suyo, estar seguro de la proteccion de las leyes i de todas las prerrogativas de que es digno por su mérito i en fuerza de esta solemne adopcion.- Dios guarde a Ud. muchos años.-
+
+Sala del Congreso i Octubre 28 de 1811.- El Congreso a don Mateo Arnaldo Hoevel.
