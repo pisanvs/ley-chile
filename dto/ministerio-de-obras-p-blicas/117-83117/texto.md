@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 117, de 25 de Abril de 1990, se expropió el lote No. 3, superficie 555 m2., rol de avalúo 4505-69, Comuna de San Bernardo, para la obra Interconexión Vial Panamericana Sur por Avenida General Velásquez, sector Nudo General Velásquez J.J. Prieto (Ex-Ochagavía) y sector Intersección Lo Espejo Avenida General Velásquez, ascendente a $ 533.954.
+
+Fiscal del Ministerio de Obras Públicas.
