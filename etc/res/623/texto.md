@@ -1,0 +1,3 @@
+Por Resolución N° 623, de 16 de Agosto de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 202, de 1986, de esta Subsecretaría, que autorizó a don PABLO BERNARDINO SUBIABRE SOTO, R.U.T. N° 3.179.173-1, para operar un establecimiento de cultivo en sector La Pasada, Río Maullín, Comuna de Maullín, Provincia de Llanquihue, X Región, por renuncia de su titular.
+
+Valparaíso, 16 de Agosto de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
