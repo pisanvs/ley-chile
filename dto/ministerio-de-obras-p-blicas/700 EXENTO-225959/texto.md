@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 700, de 7 de mayo de 2004 y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 1, 2, 3, 4, 5, 6, 7, 8, 10, 13, 16, 17, 26, 27 y 28, para la ejecución de la obra "Reposición, Construcción y Habilitación de Caminos para Vialidad complementaria Concesión Internacional Ruta 5 Sur, Sector Temuco-Río Bueno-Puerto Montt, Camino Las Violetas", que figuran a nombre de Pedro Antilef Antillanca, Valladares Arriagada Héctor R. y Olga María Colimilla Antilef, Rol de Avalúo Nº 361-11, para lotes 2, 3, 5, 7, 8, 10, 13, 16 y 17, y sin rol de avalúo los lotes 1, 4, 6, 26, 27 y 28, comuna de Loncoche, IX Región, superficies 76, 21, 34, 449, 473, 64, 323, 158, 383, 277, 104, 4, 70, 641 y 181 m². La Comisión de Peritos con fecha 25 de junio de 2003, fijó el monto de la indemnización provisional en la cantidad de $130.400, para el lote Nº 1; $8.400, para el lote Nº 2; $53.600, para lote Nº 3; $259.600, para lote Nº 4; $189.200, para lote Nº 5; $105.600, para lote Nº 6; $179.200, para lote Nº 7; $163.200, para lote Nº 8;
+
+$263.200 para lote Nº 10; $170.800, para lote Nº 13;
+
+$96.600, para lote 16; $26.600, para lote 17; $88.000, para lote 26; $356.400, para lote 27 y $72.400, para lote Nº 28. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
