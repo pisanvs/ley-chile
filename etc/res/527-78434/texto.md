@@ -1,0 +1,5 @@
+Por Resolución No. 527, de 04 de Junio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a contar de esta fecha a PESQUERA MONTEMAR NORTE S.A., R.U.T. No. 96.591.490-5, domiciliada en la ciudad de Viña del Mar, para continuar desarrollando las actividades pesqueras autorizadas a Pesquera Montemar S.A. mediante Resolución No. 1159, de 1991, de esta Subsecretaría, en virtud de la división social contenida en la Escritura pública de 02 de noviembre de 1990, en orden a continuar operando en la forma y condiciones señaladas en la Resolución antes mencionada, la embarcación "Kuky", en el mismo litoral que tenía autorizado en la Resolución indicada precedentemente, donde podrá extraer los recursos hidrobiológicos que en ella se señalan.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 04 de Junio de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
