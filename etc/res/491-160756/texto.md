@@ -1,0 +1,5 @@
+Por resolución Nº 491, de 3 de marzo de 2000, de esta Subsecretaría, autorízase a PESQUERA ISLADAMAS S.A., para ampliar las actividades pesqueras extractivas autorizadas por resoluciones Nº 162 y Nº 958, de 1994 y Nº 260 y Nº 919, de 1999, de esta Subsecretaría, en orden a operar la nave ''Foche'', matrícula 2111, autorizada por las resoluciones señaladas precedentemente, en el litoral y respecto de los recursos hidrobiológicos, que se señalan a continuación:
+
+a) Litoral de la I y II Regiones, por fuera del área de reserva artesanal, con trampas: Centolla del norte Lithodes wiracocha, Centolla del norte Lithodes panamensis, Centollón del norte Paralomis papillata, Centollón del norte Paralomis longipes y Camarón rojo de profundidad; b) Litoral de la III a la VIII Regiones, por fuera del área de reserva artesanal, con trampas: Centolla del norte Lithodes wiracocha, Centolla del norte Lithodes panamensis, Centollón del norte Paralomis papillata y Centollón del norte Paralomis Iongipes. c) Camarón verde de profundidad y Langosta enana Projasus bahamondei.
+
+Valparaíso, 3 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
