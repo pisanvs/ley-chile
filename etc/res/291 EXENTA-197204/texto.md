@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 291, DE 2002
+
+Por resolución exenta número 291, de 12 de abril de 2002, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se sustituye el procedimiento establecido en el oficio circular Nº 37/2002, aprobado por resolución exenta Nº 184/2002, de esta Secretaría Regional, sobre sistema de control de emisión de contaminantes a que deberán someterse los buses año de fabricación 1991 y 1992, para la extensión de antigüedad, concesionados en los Procesos de Licitación de Vías 1998 y 1998 II de la Región Metropolitana, por el contenido en oficio circular Nº 92/2002, el que forma parte y se aprueba por la presente resolución y que regirá a contar de la fecha de publicación del presente extracto en el Diario Oficial.-
+
+Fernando Orellana Astorga, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
