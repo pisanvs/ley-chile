@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.385, de 29 de octubre de 1999, se expropió el lote de terreno Nº 12, superficie 6.328 m², rol de avalúo 60-118, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietario Manuel Jesús Torres Silva, ascendente a la cantidad de $45.273.642.
+
+- Fiscal del Ministerio de Obras Públicas.
