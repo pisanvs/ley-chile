@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 453, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs. 19, 55, 55-A, 55-B y 55-C, superficies 544, 350, 350, 350 y 175 m2., respectivamente, roles de avalúos 9317-240 y en trámite, comuna de Valparaíso, obra Habilitación Nuevo Camino La Pólvora, Etapa I, sector Ruta 68, Acceso Sur a Valparaíso, Camino La Pólvora Rol F-724, F-730, sector Placilla-Puertas Negras y se acordó precio de indemnización con sus propietarios Jorge González Guzmán y Eduardo Abello Urbina, ascendente a las cantidades de $2.798.888 y $3.747.930.-
+
+Fiscal del Ministerio de Obras Públicas.
