@@ -1,0 +1,3 @@
+Por decreto MOP Nº 805, de 31 de marzo de 1999, se expropió el lote de terreno Nº 486-B, superficie 1.611,3 m², rol de avalúo 554-132, comuna de Paillaco, para la obra ''Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietario Juan Enrique Riquelme Burgos, ascendente a la cantidad de $969.886.-.
+
+Fiscal del Ministerio de Obras Públicas.
