@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICA
+
+Resolución 262, 5 septiembre 1997, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Los Carrera Nº 435, Rol de Avalúo Nº 374-2, comuna Concepción, superficie 149 m² de terreno, dentro polígono y linderos señalados plano expropiación S8R-11029-374-2 de aparente dominio de Gladys del Carmen Tapia Vásquez, para ejecución programa "Mejoramiento Eje Vial Los Carrera de Concepción", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 11 de agosto de 1997, fijó monto provisional indemnización en $23.632.000.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
