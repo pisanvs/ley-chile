@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.989, de fecha 31 de octubre de 2000, se expropiaron los lotes de terreno Nºs. 59 y 70, superficies 1.265 m2 y 224 m2, rol de avalúo 231-1 y 235-1, respectivamente, comuna de Monte Patria, para la obra ''Camino Ruta D-597, Monte Patria - Carén Sector Juntas - Carén, Km. 8,260,00 al 30.065,19 Etapa II'' y se acordó el valor de indemnización con su propietaria doña Matilde Eliana Cortés Cofré, ascendente a la cantidad de $2.079.030.-
+
+Fiscal del Ministerio de Obras Públicas.
