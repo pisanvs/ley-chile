@@ -1,0 +1,3 @@
+Por decreto MOP Nº961, de fecha 29 de agosto del 2003, se expropió el lote de terreno Nº9, superficie 1.243,00 m², Rol Nº2905-5, comuna de Pudahuel, Región Metropolitana para la obra "Camino Ruta G-184-182, Sector El Noviciado-Cruce Ruta G-16 (Lipangue), Tramo de Km. 4,450 a 15,04419" y se acordó el valor de indemnización con su propietario Rosendo Segundo Saavedra Orellana, ascendente a la cantidad de $4.383.703.
+
+Fiscal del Ministerio de Obras Públicas.
