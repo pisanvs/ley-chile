@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 872 de 29 de agosto de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco los lotes de terreno Nºs. 75 y 77 para la obra: Camino Ruta S-10, Sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 a Km. 34,50853, Etapa Km.
+
+0,000 al Km. 18,000, que figuran a nombre de Huaiquilao Quinteleo Rosa Anto y Huaiquilao Quintrileo Rosa Ant, roles de avalúo 679-163 y 679-166, comuna de Lautaro, IX Región, superficies 3.865 m2 y 1.134 m2. La Comisión de Peritos, fijó con fecha 2 de octubre de 2002, el monto de la indemnización provisional en la cantidad de $2.105.450.- para el lote 75 y $658.380.- para el lote 77. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
