@@ -1,0 +1,3 @@
+Por decreto (exento) Nº754, de fecha 31 de julio del 2003, se expropió el lote de terreno Nº124, superficie 140 m2, Rol Nº68-84, comuna de Teno, VII Región para la obra "Camino Ruta J-25, Sector: Cruce Longitudinal-La Montaña, Km. 0,22000 a 25,0000" y se acordó el valor de indemnización con su propietario Christian Marcelo López Becerra, ascendente a la cantidad de $447.978.
+
+- Fiscal del Ministerio de Obras Públicas.
