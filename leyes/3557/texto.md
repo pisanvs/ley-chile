@@ -1,0 +1,29 @@
+JUAN LUIS SANFUENTES
+
+Presidente de la República de Chile
+
+Lei número 3,557.- Por cuanto entre la República de Chile y el Reino Unido de Gran Bretaña e Irlanda se concluyó y firmó, en Santiago, el 28 de marzo de 1919, por medio de Plenipotenciarios autorizados al efecto, un Tratado sobre establecimiento de una Comision de Paz cuyo testo es el siguiente:
+
+"Su Excelencia el Presidente de la República de Chile y Su Majestad el Rei del Reino Unido de Gran Bretaña e Irlanda y de los Dominios Británicos de Ultramar, Emperador de la India, deseando estrechar los lazos de amistad que los unen y afianzar una paz jeneral, han resuelto celebrar un Tratado con este objeto y, para tal fin, han nombrado en calidad de Plenipotenciarios suyos: Su Excelencia el Presidente de la República de Chile, al Excelentísimo señor don Luis Barros Borgoño, Ministro de Estado en el Departamento de Relaciones Esteriores; y Su Majestad Británica, al Excelentísimo Sir Francis Stronge, Su Enviado Estraordinario y Ministro Plenipotenciario en Santiago; quienes, despues de haberse comunicado sus respectivos plenos poderes, que han sido hallados en debida forma se han puesto de acuerdo y han convenido en los siguientes artículos:
+
+#### Artículo 1
+
+° Las Altas Partes Contratantes convienen en que todas las dificultades de cualquier naturaleza que sean, que se produzcan entreellas, escepto aquellas cuya solucion se ha buscado y, de hecho obtenido, mediante los convenios ya existentes entre ámbas Partes Contratantes, una vez que estén agotadas las jestiones diplomáticas directas, serán sometidas para su investigacion e informe a una Comision Internacional Permanente, organizada en la forma prescrita por el artículo siguiente; y convienen en no declararse la guerra o empezar las hostilidades durante la referida investigacion y ántes de que se espida el respectivo informe.
+
+#### Artículo 2
+
+o La Comision Internacional se compondrá de cinco miembros, que se nombrarán como sigue: Cada Gobierno elejirá un miembro en el propio pais y otro miembro en un pais tercero. El quinto miembro será elejido de comun acuerdo entre ámbos gobiernos, entendiéndose que él no será ciudadano de ninguno de los dos paises. Los gastos de la Comision serán pagados por ámbos gobiernos en iguales proporciones. La Comision Internacional será nombrada dentro de seis meses despues del canje de las ratificaciones de este Tratado, y las vacantes se llenarán conforme al procedimiento del nombramiento primitivo.
+
+#### Artículo 3
+
+o En caso de que las Altas Partes Contratantes no hayan podido solucionar por la via diplomática algunas de las dificultades mencionadas, deberán someterla inmediatamente a la Alta Comision Internacional para su investigacion e informe. La Comision Internacional puede, sin embargo, espontáneamente y por acuerdo unánime ofrecer sus servicios con el mismo objeto y, en tal caso, deberá notificar a ámbos Gobiernos y solicitar su cooperacion para la investigacion. En caso de que el Gobierno de Su Majestad crea que los intereses británicos afectados por el conflicto que se va a estudiar no son propiamente del Reino Unido, sino mas principalmente de uno o varios de los dominios autónomos, a saber el dominio del Canadá, la República de Australia, el dominio de Nueva Zelandia, la Union Sud Africana y Newfoundland, el Gobierno de Su Majestad tendrá libertad para sustituir en calidad de miembro escojido por ellos para servir en la Alta Comision internacional para la mencionada investigacion e informe, otra persona elejida de una lista formada a razon de un miembro por cada uno de los dominios autónomos, pero solo uno de ellos actuará, es decir, el que represente al dominio directamente interesado. Las Altas Partes Contratantes convienen en proporcionar a la Alta Comision Internacional todos los medios y facilidades que necesite para su investigacion e informe. El informe de la Comision Internacional será espedido dentro de un año contado desde la fecha en que declare haber principiado su estudio, a ménos que las Altas Partes Contratantes limiten o amplíen el plazo de comun acuerdo. El informe se estenderá por triplicado; una copia será presentada a cada Gobierno y la tercera conservada por la Comision para su archivo. Las Altas Partes Contratantes se reservan el derecho de obrar independientemente con referencia a la materia del conflicto una vez que haya sido presentado el informe de la Comision.
+
+#### Artículo 4
+
+o El presente Tratado será ratificado y las ratificaciones serán canjeadas en Santiago tan pronto como sea posible. Surtirá efecto inmediatamente despues del canje de las ratificaciones y estará en vigor durante cinco años y, ademas, hasta doce meses despues de que una de las Altas Partes Contratantes haya notificado a la otra su intencion de ponerle término. En fe de lo cual los Plenipotenciarios respectivos han firmado el presente Tratado y lo han sellado con sus respectivos sellos.
+
+Hecho en duplicado, en Santiago, el dia veintiocho de marzo, en el año de Nuestro Señor de mil novecientos diecinueve.-(Firmado).-Luis Barros Borgoño (L. S.)-(Firmado).-Francis Stronge (L. S.)".
+
+Y por cuanto el tratado preinserto ha sido ratificado por mí, previa la aprobacion del Congreso Nacional, y las respectivas ratificaciones se han canjeado en la ciudad de Santiago el dia veintitres de octubre del año mil novecientos diecinueve. Por tanto, haciendo uso de la facultad que me confiere la parte 19 del artículo 73 de la Constitucion Política del Estado, dispongo y mando que Tratado precedente se cumpla y lleve a efecto en todas sus partes como lei de la República.
+
+Dado en la Sala de mi despacho en Santiago, a 31 del mes de octubre de 1919.- Juan Luis Sanfuentes.- Luis Barros Borgoño.
