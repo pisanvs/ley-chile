@@ -1,0 +1,1 @@
+Por decreto MOP. Nº 1.213, de 28 de diciembre de 2004, se rectificaron numerales 2º y 5º, del decreto MOP. Nº 901, de 5 de octubre de 2004, en lo que respecta al monto a consignar y a imputar es la suma de $3.401.580. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 21.
