@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 581 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 10, superficie 2.410,23, Rol de Avalúo 215-448, comuna de Teodoro Schmidt, para la obra ''Camino Costero Sur, Tramo Chelle - Hualpín - Puente Peule, Subtramo III By-Pass Hualpín Km. 58,600 al Km. 62,790'' y se acordó el valor de indemnización con su propietario José Miguel Palma Lillo, ascendente a la cantidad de $2.109.633.-.
+
+Fiscal del Ministerio de Obras Públicas.
