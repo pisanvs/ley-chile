@@ -1,0 +1,3 @@
+Por decreto MOP Nº 804, de fecha 31 de julio de 2003, se expropiaron los lotes de terreno Nºs. 10-D, 10-G, 10-I y 10-J, superficie 309, 620, 5.170 y 706 m², respectivamente, Rol Nº 28-2, comuna de Paredones, VI Región, para la obra "Camino Ruta I-72, sector Paredones - Bucalemu, tramo Km. 27,400 a Km. 43,100" y se acordó el valor de indemnización con su propietario José Antonio Silva Román y Otros, ascendente a la cantidad de $7.868.888.
+
+Fiscal del Ministerio de Obras Públicas.
