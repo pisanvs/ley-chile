@@ -1,0 +1,3 @@
+Por decreto MOP No. 214, de 25 de febrero de 1999, se dejó sin efecto la expropiación del lote No. 2, aprobada por decreto MOP. No. 1.116, de 20 de noviembre de 1997, que figura a nombre de José Carvajal Carvajal, rol de avalúo 3117-12, comuna de Chiguayante, superficie 309 m2., para la obra Alcantarillado de Chiguayante, Unidad Vecinal No. 10 - Maquimávida.
+
+Fiscal del Ministerio de Obras Públicas.
