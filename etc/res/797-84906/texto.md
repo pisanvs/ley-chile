@@ -1,0 +1,3 @@
+Por resolución No. 797 de 25 de Agosto de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° de la resolución No. 52, de 1983, de esta Subsecretaría, que autorizó a MAR JORDAN LTDA., RUT No. 86.583.600-7, domiciliada en Arica, para desarrollar actividades pesqueras, en el sentido de señalar las actuales características naúticas de la nave "Ike II".
+
+Valparaíso, 25 de Agosto de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
