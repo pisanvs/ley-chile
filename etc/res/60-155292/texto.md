@@ -1,0 +1,5 @@
+AUTORIZA A PETROPESCA S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 60 de 16 de Enero de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Petropesca S.A., domiciliada en Santiago, para procesar en las líneas de precocido y congelado los siguientes recursos hidrobiológicos en las instalaciones ubicadas en calle Santa Rosa N° 9233 de Santiago: Albacora, agujilla, bacalao de Juan Fernández, bonito, caballa, cojinova del Sur, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado de ojos chicos, lisa, besugo, puye, machuelo, merluza común, mero, palometa, pejegallo, pejerrey de mar, róbalo, sardina española, sierra, rollo, taca, almeja, caracol azul, caracol locate, caracol trumulco, cholga, chorito, señorita, lapa, macha, navajuela, camarón de roca, camarón nailon, gamba, jaiba, picoroco, piure, y cojinova del Norte.
+
+Valparaíso, 16 de Enero de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
