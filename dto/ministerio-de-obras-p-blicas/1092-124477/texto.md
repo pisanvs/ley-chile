@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.092, de 30 de julio de 1998, se expropiaron los lotes de terreno C y D, superficies 450 y 197 m², respectivamente, roles de avalúos 533-64 y 539-9, comuna de Linares, para la obra Camino Ruta 5 Longitudinal Sur, sector Curvas de Putagan-Ampliación, Km. 297.257,30 al 297.861,80 y se acordó precio de las indemnizaciones con sus propietarios José Antonio Roa Bravo y Hugo Manuel Villarroel, ascendentes a las cantidades de $ 1.676.570, para el lote C y $ 852.210, para el lote D.
+
+- Fiscal del Ministerio de Obras Públicas.
