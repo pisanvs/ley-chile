@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 465, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 7 y 9, para la obra Camino Autopista Santiago - San Antonio, Sector Segmento 3, Calles de Servicio, Km. 16.896,70 al 17.932,40, Sector 6, Lado Derecho, que figuran a nombre de Agric. Inmob. Doña Javiera Ltda., roles de avalúo 511-81 y 511-85, comuna de Talagante, superficies 243 m2. y 544 m2. La comisión de peritos integrada por la señora Marcela Alejandra Redard Ayala y señores Ramón Undurraga Montes y Carlos del Pedregal Sánchez, fijó con fecha 9 de octubre de 1997, los valores provisionales de las indemnizaciones en las cantidades de $2.103.060.- para el lote Nº7 y $3.617.880.- para el lote Nº9. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
