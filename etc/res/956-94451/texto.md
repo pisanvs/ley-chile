@@ -1,0 +1,9 @@
+AUTORIZA A PESQUERA DEL ESTRECHO S.A. PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACI N QUE INDICA
+
+Por resolución No. 956, de 02 de Agosto de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera del Estrecho S.A., R.U.T. No. 96.514.230-4, domiciliada en Santiago, para ampliar actividades pesqueras autorizadas por resolución No.
+
+1.073, de 1987, de esta Subsecretaría, en orden a operar la embarcación "Nordsse", en el litoral de aguas interiores de la XII Región, donde podrá extraer los siguientes recursos hidrobiológicos: Agujilla, anchoa, anguila, atún aleta amarilla, atún aleta larga, azulejo, bacalao de Juan Fernández bacalao de profundidad o mero, bonito, caballa, brótula, cabrilla española, cojinoba del sur, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado de ojos grandes, lisa, merluza común, merluza del sur, merluza de cola, merluza austral, marrajo o tiburón, pejegallo, pejerrey de mar, raya, róbalo, sardina común, sardina,sierra, tollo, tiburón tintorera, trucha arcoiris y calamar.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan, Se deniega la autorización solicitada por la peticionaria para extraer peces demersales en el litoral de las Regiones X y XI y en la zona de mar exterior de la XII Región, atendiendo el estado de plena explotación en que se encuentra esta pesquería.
+
+Valparaíso, 02 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
