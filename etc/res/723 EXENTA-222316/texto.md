@@ -1,0 +1,3 @@
+Por resolución exenta N° 723, de 27 de febrero de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 200121017 presentada por SALMONES GLACIAR DE LOS ANDES S.A., para instalar y operar un centro de cultivo ubicado en Estrecho de Magallanes, Isla Tierra del Fuego, Bahía Inútil, río Concordia, XII Región.
+
+Valparaíso, 27 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
