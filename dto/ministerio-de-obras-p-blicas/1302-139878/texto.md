@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.302, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.7-A, 22, 22-A y 22-B, superficies 158, 168, 128 y 214 m2. respectivamente, roles de avalúo 143-23 y 137-287, comuna de San Francisco de Mostazal para la obra Camino Ruta H-15, sector La Punta - Puente Negro y se acordó precio de indemnización con sus propietarios Paulino González Bruna y Belisario Muñoz Acosta ascendente a las cantidades de $705.840 y $2.227.472.-
+
+Fiscal del Ministerio de Obras Públicas.
