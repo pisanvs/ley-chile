@@ -1,0 +1,3 @@
+Por resolución Nº110, de 21 de enero de 1999, de esta Subsecretaría, modifícase el numeral 5 de la resolución Nº1.241, de 1998, de esta Subsecretaría, que autorizó a PESQUERA IQUIQUE GUANAYE S.A., para realizar actividades pesqueras extractivas con una nave en construcción, en el sentido de señalar que el plazo para comenzar a operar debe ser ''antes del 30 de junio de 1999'', y no como allí se señala.
+
+Valparaíso, 21 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
