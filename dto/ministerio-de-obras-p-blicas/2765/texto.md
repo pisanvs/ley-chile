@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 2.765, de 30 de diciembre de 1998, se expropió el lote de terreno No. 2, superficie 2.844,72 m2. rol de avalúo 59-1, comuna de Sagrada Familia, obra Camino Cruce Longitudinal Lontué-Villa Prat-Puente Lautaro Licantén y se acordó precio de indemnización con su propietario Adolfo Inostroza Muñoz y otros, ascendente a la cantidad de $ 10.764.683.
+
+Fiscal del Ministerio de Obras Públicas.
