@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero, mediante Resolución Exenta N° 670 de 20 de Mayo de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "Hijuela Segunda de la Hijuela Norte del Fundo El Molino de Angostura" de la Comuna de San Francisco de Mostazal, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 4, sitios N°s. 1 al 5 y Reserva CORA N° 1 del Proyecto de Parcelación "Angostura" formado por predio señalado. Los Derechos de Agua se extraen del canal Lucano y de Vertiente que aflora en el punto "a" del plano de parcelación.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
