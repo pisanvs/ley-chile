@@ -1,0 +1,3 @@
+Por decreto MOP. No. 683, de 29 de mayo de 1998, complementado por decreto MOP. No. 1.223, de 24 de agosto de 1998, se expropiaron los lotes de terreno No. s.41-B, 41-M y 41-N, superficies 5.340, 5.476 y 6.500 m², roles de avalúos 402-10, comuna de Vicuña, para la obra Proyecto Embalse Puclaro, Sector Punta Azul, III Etapa y se acordó precio de la indemnización con sus propietarios, Ruperto Benjamín Castro Oddershede y Luis Hernán Cortés Cortés, ascendentes a las cantidades de $ 2.226.745.- para el lote No. 41-B y $ 4.993.914.- para los lotes No. s.41-M y 41-N.-
+
+Fiscal del Ministerio de Obras Públicas.
