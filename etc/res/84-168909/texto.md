@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD "PRODUCTOS MARINOS DE EXPORTACION LIMITADA", PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO AUTORIZACION QUE INDICA
+
+Por resolución N° 84 de 05 de Febrero de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad "Productos Marinos de Exportación Limitada", domicliada en Queilén, para operar una planta elaboradora de congelado y de conservas, ubicada en Avenida Presidente Alessandri s/n, Queilén, Chiloé, Xa. Región, en la que podrá utilizar como materia prima las siguientes especies: congrio, mero, pejerrey, sardina, tollo, corvina erizo almeja, chorito, cholga, centolla, jaiba y loco. Asimismo, se deja sin efecto la autorización con que cuenta la Empresa Pesquera Barlovento Ltda., por la Res. 124, de 1979, de la Subsecretaría de Pesca, para operar el establecimiento industrial destinado a la elaboración de congelado y conservas de pescado y mariscos ubicado en Queilén, Chiloé, X Región.
+
+Santiago, 5 de Febrero de 1985.- Jorge Valenzuela Durán, Coronel de, Ejército, Subsecretario de Pesca subrogante.
