@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.663, de 28 de abril de 2000, se expropiaron los lotes de terreno Nºs. 1-A, 1-B, 1-C, 1-D, 3-D, 9, 12 y 13, superficies 72, 184, 112, 90, 556, 1.370, 273 y 231 m2., respectivamente, roles de avalúos 184-31, 184-241, 187-9 y 187-175, comuna de San Vicente, para la obra Mejoramiento Ruta H-830, sector San Vicente-El Cardal-Millahue, Km. 0.000 a Km. 8.622,631 y se acordó precio de las indemnizaciones con sus propietarios Pedro Segundo Zamora Cornejo, Luis Arturo Zamora Cornejo, Adriana del Carmen Zamora Cornejo, Ana Lidia Ayala Zamorano y otros, Aquiles Omar Piña Piña y Gabriel Román Riveros, ascendentes a las cantidades de $821.628, lote Nº 1-A; $1.293.516, lote Nº 1-B;
+
+$555.408, lote Nº 1-C; 428.562, lote Nº 1-D; 1.200.600, lote Nº 3-D; $5.810.206, lotes Nºs. 9 y 12 y $554.364, lote Nº 13.
+
+Fiscal del Ministerio de Obras Públicas.
