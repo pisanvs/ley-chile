@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.812, de 30 de septiembre de 1998, se expropió el lote de terreno No. 3, superficie 47.670 m², rol de avalúo 518-15, comuna de Carahue, para la obra Camino Carahue - Tirúa, Sector Bajo Yupehue - Tirúa, Km. 0.000 a Km. 3.060 y se acordó precio de indemnización con su propietario Eutalio Jiménez Quintana, ascendente a la cantidad de $11.873.778.-
+
+Fiscal del Ministerio de Obras Públicas.
