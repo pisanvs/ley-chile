@@ -1,0 +1,1 @@
+Refunde y fija texto definitivo a decreto 3,640, de 9 de noviembre de 1932, y ley 5,154, de 10 de abril de 1933, sobre impuesto a los tabacos manufacturados.
