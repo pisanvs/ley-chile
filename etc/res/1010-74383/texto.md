@@ -1,0 +1,3 @@
+Por Resolución Nº 1.010 de 11 de julio de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95106013, presentada por Jose Braulio Vidal Runiahue, para el centro de cultivo ubicado en Estero Huildad, comuna de Quellón provincia de Chiloé, X Región, conforme lo dispuesto en el artículo Nº 78º, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
