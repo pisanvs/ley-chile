@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.969, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº3, superficie 248 m², rol de avalúo 603-164, comuna de Mulchén, para la obra ''Camino Rapelco-Manzanache Km. 7.7, Sector Puente Micauquén, Km. 0,00000 a Km. 0,40000'' y se acordó el valor de indemnización con su propietario Luis Bernardo Leyton Mora, ascendente a la cantidad de $232.288.-
+
+Fiscal del Ministerio de Obras Públicas.
