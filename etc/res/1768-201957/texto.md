@@ -1,0 +1,3 @@
+Por resolución Nº 1.768, de 20 de agosto de 2002, de esta Subsecretaría, rectifícase el literal h) del numeral 2º de la resolución Nº 981 de 2002, que autorizó a PESQUERA SAN JOSE S.A., para ampliar actividades pesqueras extractivas con la nave "Don Nordlund", en el sentido de señalar que la interesada podrá realizar actividades pesqueras con la nave individualizada precedentemente, en el área marítima comprendida entre la I a X Regiones, por fuera de las 60 millas náuticas, con arrastre de media agua, sobre el recurso Calamar o Pota del Atlántico Ilex Atlánticus.
+
+Valparaíso, 20 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
