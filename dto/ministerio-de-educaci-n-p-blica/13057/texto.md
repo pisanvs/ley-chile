@@ -86,6 +86,34 @@ MATERIA
 
 21.- Rectificación de los decretos de firma del Presidente de la República y de la sola firma del Ministro, para corregir errores de escrituración o numéricos manifiestos.
 
+SUPERINTENDENTE DE EDUCACION
+
+MATERIA:
+
+1.- Nombramiento en cualquier calidad, reincorporaciones o contrataciones de funcionarios en empleos que tengan asignados o se encuentren asimilados a los grados de la Planta Directiva, Profesional y Técnica y de todo el personal de la Planta Administrativa, de la Superintendencia de Educación Pública.
+
+2.- Autorización para proveer vacantes (artículo 74.º ley N.º 15.575), respecto del personal señalado en el N.º 1 y de la Planta de Servicios de la Superintendencia de Educación Pública.
+
+3.- Contrataciones sobre la base de honorarios, para la Superintendencia de Educación Publica, cuyo monto total sea inferior a 48 sueldos vitales mensuales, Escala A) del departamento de Santiago, que corresponden a una suma mensual inferior a cuatro sueldos vitales mensuales.
+
+4.- Petición y aceptación de renuncia, destitución, término anticipado de contrato, caducidad del nombramiento, declaración de vacancia de cargos, y, en general, expiración de funciones del personal a que se refieren los N.ºs 1 y 3, cuando proceda.
+
+5.- Permutas que comprenden al personal antes señalado siempre que los permutantes sean funcionarios del Ministerio de Educación. En caso contrario se aplicarán las normas contenidas en el artículo 34.º del DFL. N.º 338, de 1960.
+
+6.- Ascensos del personal de la Superintendencia de Educación Pública.
+
+7.- Comisiones de Servicio, fuera de la Superintendencia y dentro del país de todo el personal de las Plantas Directiva, Profesional y Técnica, Administrativa y de Servicios de la Superintendencia de Educación Pública.
+
+8.- Permisos sin goce de remuneraciones para trasladarse al extranjero del personal de los grados de la Planta Directiva, Profesional y Técnica y de todo el personal de la Planta Administrativa y de Servicios de la Superintendencia de Educación Pública (Art. 91, inciso 3.º, letra b), del DFL. 338, de 1960).
+
+9.- Permisos sin goce de remuneraciones por motivos particulares dentro del país, del personal de la Superintendencia de Educación Publica (art. 91, inciso 3.º, letra a), del DFL. N.º 338, de 1960).
+
+10.- Rectificación de los decretos de firmas del Presidente de la República y de sola firma del Ministro, para corregir errores de estructuración o numéricos manifiestos.
+
+11.- Reconocimiento y pago de asignación por cambio de residencia del personal dependiente de la Superintendencia de Educación Pública.
+
+12.- Designación de funcionarios alumnos de su dependencia para hacer cursos de perfeccionamiento y asistir a Seminarios.
+
 DIRECTORES DE EDUCACION
 
 MATERIA
