@@ -1768,179 +1768,55 @@ El portador del cheque puede ser el propio girador que lo pudo haber extraviado 
 
 13.1. Generalidades.
 
-El protesto de un cheque es un acto solemne cuyo objeto consiste en dejar
+El protesto de un cheque es un acto solemne cuyo objeto consiste en dejar testimonio de que el documento presentado a cobro no ha sido pagado por el librado.
 
-testimonio de que el documento presentado a cobro no ha sido pagado por el
+Según el artículo 33 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, el protesto por falta de fondos debe efectuarlo el banco sin que medie un
 
-librado.
+requerimiento o la intervención del portador. De ello se desprende que el protesto es siempre obligatorio para el banco, cualquiera sea el motivo que origine la falta de pago, con la sola diferencia de que, si la causa es la falta de fondos, debe hacerlo de oficio y, en los demás casos, a petición del portador.
 
-Según el artículo 33 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, el
-
-protesto por falta de fondos debe efectuarlo el banco sin que medie un
-
-requerimiento o la intervención del portador. De ello se desprende que el
-
-protesto es siempre obligatorio para el banco, cualquiera sea el motivo que
-
-origine la falta de pago, con la sola diferencia de que, si la causa es la falta
-
-de fondos, debe hacerlo de oficio y, en los demás casos, a petición del
-
-portador.
-
-Cuando se trate de cheques presentados a cobro por intermedio de otro banco,
-
-deberá subentenderse el requerimiento del portador, pues de esta manera se
-
-evitan posibles perjuicios al interesado, derivados primeramente, de la
-
-circunstancia de tener que requerir nuevamente el protesto, muchas veces en una
-
-plaza distinta de la de su domicilio; en seguida, de la inconveniencia de que el
-
-protesto lleve una fecha distinta de aquella en que el librado rehusó su pago y,
-
-finalmente, del evento de que el protesto aparezca extendido fuera de plazo.
+Cuando se trate de cheques presentados a cobro por intermedio de otro banco, deberá subentenderse el requerimiento del portador, pues de esta manera se evitan posibles perjuicios al interesado, derivados primeramente, de la circunstancia de tener que requerir nuevamente el protesto, muchas veces en una plaza distinta de la de su domicilio; en seguida, de la inconveniencia de que el protesto lleve una fecha distinta de aquella en que el librado rehusó su pago y, finalmente, del evento de que el protesto aparezca extendido fuera de plazo.
 
 13.2. Causales de protesto de cheques.
 
-La Ley sobre Cuentas Corrientes Bancarias y Cheques señala que los cheques se
+La Ley sobre Cuentas Corrientes Bancarias y Cheques señala que los cheques se protestan por falta de pago, pero no indica las situaciones que deben originar la negativa del banco librado a pagarlos. Por lo tanto, al no estar enumeradas en la ley dichas situaciones, corresponde al banco indicar la causal que impide el pago.
 
-protestan por falta de pago, pero no indica las situaciones que deben originar
-
-la negativa del banco librado a pagarlos. Por lo tanto, al no estar enumeradas
-
-en la ley dichas situaciones, corresponde al banco indicar la causal que impide
-
-el pago.
-
-Debido a que es frecuente que en el cobro de un cheque concurran varias causales
-
-para su protesto y por la importancia que ello tiene, tanto para el librador
-
-como para el portador, porque sólo determinadas causales de protesto originan
-
-responsabilidad penal para el primero, esta Superintendencia ha establecido las
-
-siguientes prioridades que los bancos deben respetar en lo relativo a causales
-
-de protesto de un cheque:
+Debido a que es frecuente que en el cobro de un cheque concurran varias causales para su protesto y por la importancia que ello tiene, tanto para el librador como para el portador, porque sólo determinadas causales de protesto originan responsabilidad penal para el primero, esta Superintendencia ha establecido las siguientes prioridades que los bancos deben respetar en lo relativo a causales de protesto de un cheque:
 
 a) Causales de forma.
 
-Si en un mismo cheque concurren diversas circunstancias por las cuales deba
-
-rechazarse su pago, deberá atenderse, en primer lugar, a si alguna de esas
-
-causales dice relación con la forma del cheque. Si así ocurre, se le rechazará
-
-dejando constancia de que no se paga por firma disconforme, fecha
-
-inexistente,diferencia entre la indicación de la cantidad en letras y números,
-
-etc.; el cheque se protestará por estos motivos, si lo exige el portador o si se
-
-cobra por intermedio de otro banco, pero sin entrar a discriminar si se presenta
-
-a cobro dentro del plazo de vigencia, si hay orden de no pago del documento, si
-
-en la cuenta existen fondos suficientes o si ella está cerrada.
+Si en un mismo cheque concurren diversas circunstancias por las cuales deba rechazarse su pago, deberá atenderse, en primer lugar, a si alguna de esas causales dice relación con la forma del cheque. Si así ocurre, se le rechazará dejando constancia de que no se paga por firma disconforme, fecha inexistente,diferencia entre la indicación de la cantidad en letras y números, etc.; el cheque se protestará por estos motivos, si lo exige el portador o si se cobra por intermedio de otro banco, pero sin entrar a discriminar si se presenta a cobro dentro del plazo de vigencia, si hay orden de no pago del documento, si en la cuenta existen fondos suficientes o si ella está cerrada.
 
 b) Caducidad del cheque.
 
-En segundo lugar, deberá tenerse presente la vigencia del cheque. Si el cheque
-
-no contiene vicios formales, pero se cobra fuera del plazo establecido por la
-
-ley, el librado procederá a protestarlo por esa causa si el portador lo exige o
-
-si se presenta a cobro par intermedio de otro banco.
+En segundo lugar, deberá tenerse presente la vigencia del cheque. Si el cheque no contiene vicios formales, pero se cobra fuera del plazo establecido por la ley, el librado procederá a protestarlo por esa causa si el portador lo exige o si se presenta a cobro par intermedio de otro banco.
 
 c) Orden de no pago.
 
-En tercer lugar, deberá considerarse si existe orden de no pago. Si el cheque no
-
-presenta problemas formales y está vigente, pero ha sido revocado, el banco debe
-
-limitarse a protestarlo, dejando constancia en el documento de la instrucción
-
-recibida de su mandante, sin atender a la causal en que ella se funde ni
-
-discriminar si la cuenta dispone o no de los fondos necesarios para su pago.
+En tercer lugar, deberá considerarse si existe orden de no pago. Si el cheque no presenta problemas formales y está vigente, pero ha sido revocado, el banco debe limitarse a protestarlo, dejando constancia en el documento de la instrucción recibida de su mandante, sin atender a la causal en que ella se funde ni discriminar si la cuenta dispone o no de los fondos necesarios para su pago.
 
 d) Falta de fondos o cuenta corriente cerrada.
 
-Por último, si no existe ninguna de las causales indicadas en los literales
+Por último, si no existe ninguna de las causales indicadas en los literales precedentes, el cheque deberá ser protestado, si es el caso, por falta de fondos o, cuando corresponda, por la causal "cuenta cerrada" de acuerdo con lo indicado en el numeral 13.3 siguiente.
 
-precedentes, el cheque deberá ser protestado, si es el caso, por falta de fondos
+La existencia de fondos en canje o valores en cobro no dará lugar a la suspensión del protesto y a su publicación en el Boletín de Informaciones Comerciales, ni atenuará las consecuencias que tal protesto origina al librador. Las expresiones "fondos en canje" o, "valores en cobro", agregadas al protesto, no son necesarias ya que carecen de efecto y sólo tienen la ventaja de hacer
 
-o, cuando corresponda, por la causal "cuenta cerrada" de acuerdo con lo indicado
+saber al tenedor del cheque que la cuenta podría tener, en una fecha próxima, fondos para el pago del documento.
 
-en el numeral 13.3 siguiente.
+Lo anterior es sin perjuicio de la posibilidad de otorgar un sobregiro de hasta 30 U.F., caso en que, naturalmente, no procede el protesto si ello proporciona fondos suficientes, al igual que cuando existe un sobregiro previamente pactado que alcance para cubrir el cheque.
 
-La existencia de fondos en canje o valores en cobro no dará lugar a la
+13.3. Protesto de cheques presentados a cobro con posterioridad al cierre de la cuenta.
 
-suspensión del protesto y a su publicación en el Boletín de Informaciones
+El hecho de estar cerrada una cuenta corriente, ya sea por iniciativa del banco, por voluntad del titular o por el fallecimiento de este último, no libera a la entidad de la obligación de pagar los cheques que se le presenten a cobro hasta concurrencia de las sumas depositadas en dicha cuenta, siempre que en el cheque no concurran otras causas por las cuales deba rechazarse su pago.
 
-Comerciales, ni atenuará las consecuencias que tal protesto origina al librador.
+Si la cuenta cerrada no tiene fondos, los cheques que se presenten a cobro y que hayan sido girados con anterioridad al cierre de la cuenta, deberán protestarse de oficio por la causal "falta de fondos", sin perjuicio de dejar constancia que la cuenta corriente respectiva se encuentra cerrada, a fin de evitar que el cheque se vuelva a cobrar y deba repetirse el protesto.
 
-Las expresiones "fondos en canje" o, "valores en cobro", agregadas al protesto,
-
-no son necesarias ya que carecen de efecto y sólo tienen la ventaja de hacer
-
-saber al tenedor del cheque que la cuenta podría tener, en una fecha próxima,
-
-fondos para el pago del documento.
-
-Lo anterior es sin perjuicio de la posibilidad de otorgar un sobregiro de hasta
-
-30 U.F., caso en que, naturalmente, no procede el protesto si ello proporciona
-
-fondos suficientes, al igual que cuando existe un sobregiro previamente pactado
-
-que alcance para cubrir el cheque.
-
-13.3. Protesto de cheques presentados a cobro con posterioridad al cierre de la
-
-cuenta.
-
-El hecho de estar cerrada una cuenta corriente, ya sea por iniciativa del banco,
-
-por voluntad del titular o por el fallecimiento de este último, no libera a la
-
-entidad de la obligación de pagar los cheques que se le presenten a cobro hasta
-
-concurrencia de las sumas depositadas en dicha cuenta, siempre que en el cheque
-
-no concurran otras causas por las cuales deba rechazarse su pago.
-
-Si la cuenta cerrada no tiene fondos y no concurre otra causal de protesto, los
-
-cheques que se presenten a cobro, sea que ellos hayan sido girados antes o
-
-después del cierre de la cuenta deberán protestarse por la causal "cuenta
-
-cerrada".
+Los cheques girados con posterioridad al cierre de la cuenta se protestarán, cuando no existan fondos para pagarlos, por la causal "cuenta cerrada".
 
 13.4. Datos y formalidades del protesto.
 
 13.4.1. Forma de extender el protesto.
 
-El protesto debe extenderse en el reverso mismo del cheque, con caracteres
-
-claramente legibles. Sin embargo, cuando no exista espacio suficiente para
-
-estampar todos los datos que debe contener el protesto, y sólo en ese caso, debe
-
-adherirse una hoja especial para ello. Cuando se agregue dicha hoja, es
-
-conveniente que se la timbre conjuntamente con la parte del cheque contigua a
-
-aquella en que va pegada, con alguna leyenda tal como "Protestado", "Protesto",
-
-u otra análoga, que evite que pueda ser despegada sin que quede evidencia de
-
-ello.
+El protesto debe extenderse en el reverso mismo del cheque, con caracteres claramente legibles. Sin embargo, cuando no exista espacio suficiente para estampar todos los datos que debe contener el protesto, y sólo en ese caso, debe adherirse una hoja especial para ello. Cuando se agregue dicha hoja, es conveniente que se la timbre conjuntamente con la parte del cheque contigua a aquella en que va pegada, con alguna leyenda tal como "Protestado", "Protesto", u otra análoga, que evite que pueda ser despegada sin que quede evidencia de ello.
 
 13.4.2. Datos que debe contener el protesto.
 
@@ -1948,29 +1824,13 @@ El acta de protesto debe contener los siguientes datos:
 
 a) Identificación del titular y firmantes.
 
-Cuando se proteste un cheque firmado por el propio titular de la cuenta
+Cuando se proteste un cheque firmado por el propio titular de la cuenta corriente, el banco librado deberá consignar en el acta de protesto, los nombres y apellidos completos y el número de la Cédula Nacional de Identidad o del Rol Unico Tributario de aquél.
 
-corriente, el banco librado deberá consignar en el acta de protesto, los nombres
-
-y apellidos completos y el número de la Cédula Nacional de Identidad o del Rol
-
-Unico Tributario de aquél.
-
-Sin perjuicio de lo anterior, cuando el banco proteste un cheque en que los
-
-firmantes actúen como mandatarios o representantes legales de una persona
-
-natural o jurídica, deberá dejar constancia, en el acta de protesto, de la misma
-
-información señalada para el titular, pero correspondiente a los mandatarios o
-
-representantes cuyas firmas aparezcan en el cheque.
+Sin perjuicio de lo anterior, cuando el banco proteste un cheque en que los firmantes actúen como mandatarios o representantes legales de una persona natural o jurídica, deberá dejar constancia, en el acta de protesto, de la misma información señalada para el titular, pero correspondiente a los mandatarios o representantes cuyas firmas aparezcan en el cheque.
 
 b) Domicilio del titular.
 
-Debe indicarse el domicilio del titular de la cuenta, registrado en el banco
-
-para los efectos de apertura y manejo de la respectiva cuenta corriente.
+Debe indicarse el domicilio del titular de la cuenta, registrado en el banco para los efectos de apertura y manejo de la respectiva cuenta corriente.
 
 c) Causa del protesto.
 
@@ -1978,159 +1838,61 @@ Debe dejarse constancia precisa de la razón por la cual no se paga el cheque.
 
 d) Fecha y hora del protesto.
 
-Los protestos de los cheques presentados a cobro por ventanilla deben efectuarse
+Los protestos de los cheques presentados a cobro por ventanilla deben efectuarse en horas en que los bancos atienden al público.
 
-en horas en que los bancos atienden al público.
-
-Los cheques recibidos en canje que deban protestarse, consignarán como hora de
-
-protesto las 9 A.M. (ó 9.01 A.M.) del día hábil bancario siguiente a aquel
-
-correspondiente a la reunión de cámara en que se recibió.
+Los cheques recibidos en canje que deban protestarse, consignarán como hora de protesto las 9 A.M. (ó 9.01 A.M.) del día hábil bancario siguiente a aquel correspondiente a la reunión de cámara en que se recibió.
 
 e) Valor del impuesto.
 
-En el acta de protesto se dejará constancia también, cuando corresponda, del
-
-valor del impuesto a que se refiere el numeral 13.7 de este título.
+En el acta de protesto se dejará constancia también, cuando corresponda, del valor del impuesto a que se refiere el numeral 13.7 de este título.
 
 f) Firmas.
 
-El acta de protesto debe firmarla el portador y el librado, salvo cuando la
-
-negativa del pago fuere por falta de fondos, caso en que basta la firma del
-
-banco, ya que no es necesario el requerimiento ni la intervención del portador.
+El acta de protesto debe firmarla el portador y el librado, salvo cuando la negativa del pago fuere por falta de fondos, caso en que basta la firma del banco, ya que no es necesario el requerimiento ni la intervención del portador.
 
 Para este efecto debe tenerse presente lo indicado en el numeral siguiente.
 
 13.4.3. Firma del acta de protesto por parte de los bancos.
 
-Como ya se ha expresado, la Ley sobre Cuentas Corrientes Bancarias y Cheques, en
+Como ya se ha expresado, la Ley sobre Cuentas Corrientes Bancarias y heques, en su artículo 33, establece que el acta de protesto debe contener, entre otros requisitos, la firma del librado, lo cual implica que tal acta debe ser firmada por la persona que tenga poder suficiente para representar al banco, pues encaso contrario, tales actas adolecerán de vicio de nulidad.
 
-su artículo 33, establece que el acta de protesto debe contener, entre otros
+Si a un banco le ha sido endosado un cheque en comisión de cobranza y el mismo tiene también la calidad de librado, basta con la firma del representante de ese banco para la validez del protesto, aunque el cheque se proteste por una causal diferente de la falta de fondos.
 
-requisitos, la firma del librado, lo cual implica que tal acta debe ser firmada
+En los casos en que se proteste un cheque por causales distintas de la falta de fondos, el banco que lo haya presentado a cobro esta obligado a firmar el protesto en su calidad de portador. Cuando es más de una la institución u oficina que interviene en la gestión de cobro, dicha obligación corresponde al banco o sucursal de este que haya presentado el documento para su pago al banco
 
-por la persona que tenga poder suficiente para representar al banco, pues encaso
+librado. De esta manera, cuando intervenga más de una oficina bancaria en la comisión de cobranza, de acuerdo con lo que establece el artículo 33 de la Ley
 
-contrario, tales actas adolecerán de vicio de nulidad.
+sobre Cuentas Corrientes Bancarias y Cheques, el acta de protesto la firmará en calidad de portadora, la oficina que intervino en último término en el trámite de cobro, esto es, aquella que directamente o por intermedio de la Cámara de
 
-Si a un banco le ha sido endosado un cheque en comisión de cobranza y el mismo
-
-tiene también la calidad de librado, basta con la firma del representante de ese
-
-banco para la validez del protesto, aunque el cheque se proteste por una causal
-
-diferente de la falta de fondos.
-
-En los casos en que se proteste un cheque por causales distintas de la falta de
-
-fondos, el banco que lo haya presentado a cobro esta obligado a firmar el
-
-protesto en su calidad de portador. Cuando es más de una la institución u
-
-oficina que interviene en la gestión de cobro, dicha obligación corresponde al
-
-banco o sucursal de este que haya presentado el documento para su pago al banco
-
-librado. De esta manera, cuando intervenga más de una oficina bancaria en la
-
-comisión de cobranza, de acuerdo con lo que establece el artículo 33 de la Ley
-
-sobre Cuentas Corrientes Bancarias y Cheques, el acta de protesto la firmará en
-
-calidad de portadora, la oficina que intervino en último término en el trámite
-
-de cobro, esto es, aquella que directamente o por intermedio de la Cámara de
-
-Compensación respectiva, presentó el cheque al banco librado y lo recibió de
-
-vuelto de este. En todo caso, como el banco es una sola y misma persona
-
-jurídica, si la oficina respectiva omitiere la firma del protesto como
-
-portadora, podrá hacerlo cualquier otra oficina de la misma institución.
+Compensación respectiva, presentó el cheque al banco librado y lo recibió de vuelto de este. En todo caso, como el banco es una sola y misma persona jurídica, si la oficina respectiva omitiere la firma del protesto como portadora, podrá hacerlo cualquier otra oficina de la misma institución.
 
 13.5. Devolución de endoso de cheques protestados.
 
-Los bancos que reciban cheques en cobro que resulten protestados por cualquier
-
-causa, deberán devolver el endoso al comitente con el objeto de habilitarlo para
-
-ejercitar las acciones correspondientes en contra del girador del cheque y demás
-
-responsables de su pago. El banco es tenedor del cheque en virtud de un mandato
-
-de cobranza de su comitente y tiene la obligación de devolver a este el
-
-documento protestado. En este endoso, el banco puede agregar la frase usual "Sin
-
-responsabilidad para el Banco".
+Los bancos que reciban cheques en cobro que resulten protestados por cualquier causa, deberán devolver el endoso al comitente con el objeto de habilitarlo para ejercitar las acciones correspondientes en contra del girador del cheque y demás responsables de su pago. El banco es tenedor del cheque en virtud de un mandato de cobranza de su comitente y tiene la obligación de devolver a este el documento protestado. En este endoso, el banco puede agregar la frase usual "Sin responsabilidad para el Banco".
 
 13.6. Pago o redepósito de cheques protestados.
 
-El cheque protestado por falta de fondos no pierde su valor ni tampoco cambia su
+El cheque protestado por falta de fondos no pierde su valor ni tampoco cambia su naturaleza jurídica; por lo tanto, puede ser presentado de nuevo a cobro o redepositado mientras no haya transcurrido el plazo de caducidad que señala la ley.
 
-naturaleza jurídica; por lo tanto, puede ser presentado de nuevo a cobro o
+Del mismo modo, pueden ser nuevamente depositados aquellos documentos en que las causas del protesto hayan sido subsanadas, como ocurre, por ejemplo, cuando el protesto se debió a la falta de endoso o en el caso de cheques caducados que fueron revalidados por el librador.
 
-redepositado mientras no haya transcurrido el plazo de caducidad que señala la
-
-ley.
-
-Del mismo modo, pueden ser nuevamente depositados aquellos documentos en que las
-
-causas del protesto hayan sido subsanadas, como ocurre, por ejemplo, cuando el
-
-protesto se debió a la falta de endoso o en el caso de cheques caducados que
-
-fueron revalidados por el librador.
-
-Conviene tener presente que el protesto no altera, en modo alguno, la forma en
-
-que corresponde pagar el cheque ni su forma de cesión. Por lo tanto, si un
-
-cheque estuviere cruzado, no puede ser pagado por caja y si fuere a la orden o
-
-nominativo deben tenerse en consideración las formalidades y requisitos de
-
-endoso.
+Conviene tener presente que el protesto no altera, en modo alguno, la forma en que corresponde pagar el cheque ni su forma de cesión. Por lo tanto, si un cheque estuviere cruzado, no puede ser pagado por caja y si fuere a la orden o nominativo deben tenerse en consideración las formalidades y requisitos de endoso.
 
 13.7. Impuesto a los cheques protestados por falta de fondos.
 
-De conformidad con lo dispuesto en el artículo 1° N° 1 del D.L. N° 3.475 y sus
+De conformidad con lo dispuesto en el artículo 1° N° 1 del D.L. N° 3.475 y sus modificaciones, todos los cheques que resulten protestados por falta de fondos quedan gravados con un impuesto. Este tributo debe pagarse una sola vez, aunque el mismo cheque sea protestado varias veces.
 
-modificaciones, todos los cheques que resulten protestados por falta de fondos
+Dicho valor debe ser cobrado unicamente al girador del cheque protestado y puede ser cargado a su cuenta corriente, aun cuando esta estuviere sobregirada o bien,podrá cobrarse en la forma que el banco estime conveniente. De cualquier modo,el responsable del pago del impuesto es el banco librado.
 
-quedan gravados con un impuesto. Este tributo debe pagarse una sola vez, aunque
-
-el mismo cheque sea protestado varias veces.
-
-Dicho valor debe ser cobrado unicamente al girador del cheque protestado y puede
-
-ser cargado a su cuenta corriente, aun cuando esta estuviere sobregirada o
-
-bien,podrá cobrarse en la forma que el banco estime conveniente. De cualquier
-
-modo,el responsable del pago del impuesto es el banco librado.
-
-El valor del impuesto debe acreditarse en una cuenta de la partida 3010 "Otros
-
-saldos acreedores a la vista", establecida para el efecto.
+El valor del impuesto debe acreditarse en una cuenta de la partida 3010 "Otros saldos acreedores a la vista", establecida para el efecto.
 
 13.8. Libro de cheques protestados.
 
-Los bancos deberán llevar, en cada oficina, un libro en que anoten todos los
-
-cheques que protesten a cualquier título. En este libro se dejará constancia, a
-
-lo menos, de lo siguiente:
+Los bancos deberán llevar, en cada oficina, un libro en que anoten todos los cheques que protesten a cualquier título. En este libro se dejará constancia, a lo menos, de lo siguiente:
 
 a) Fecha y hora del protesto;
 
-b) Nombres y apellidos completos del girador y de los representantes o
-
-mandatarios de personas jurídicas o naturales, según sea el caso;
+b) Nombres y apellidos completos del girador y de los representantes o mandatarios de personas jurídicas o naturales, según sea el caso;
 
 c) Número de la Cédula de Identidad o del Rol Unico Tributario;
 
@@ -2140,99 +1902,29 @@ e) Monto del documento;
 
 f) Monto del impuesto, cuando corresponda;
 
-g) Nombre y apellido del último tenedor. Al tratarse de un cheque cobrado por
-
-intermedio de otro banco, se dejará constancia del nombre de ese banco como
-
-último tenedor; y,
+g) Nombre y apellido del último tenedor. Al tratarse de un cheque cobrado por intermedio de otro banco, se dejará constancia del nombre de ese banco como último tenedor; y,
 
 h) Causa del protesto.
 
-Las anotaciones en el libro de cheques protestados se harán al momento mismo del
-
-protesto. Los cheques que se protesten por falta de fondos o cuenta cerrada
-
-registrados en este libro deben ser siempre incluidos en las listas que se
-
-envíen al Boletín de Informaciones Comerciales, según lo indicado en el numeral
-
-siguiente. Por lo mismo, deberán indicarse en este libro, también, las
+Las anotaciones en el libro de cheques protestados se harán al momento mismo del protesto. Los cheques que se protesten por falta de fondos o cuenta cerrada registrados en este libro deben ser siempre incluidos en las listas que se envíen al Boletín de Informaciones Comerciales, según lo indicado en el numeral siguiente. Por lo mismo, deberán indicarse en este libro, también, las
 
 observaciones relativas a los cheques pagados con posterioridad a su protesto.
 
-El libro de cheques protestados deberá ser encuadernado y foliado. No
+El libro de cheques protestados deberá ser encuadernado y foliado. No obstante,con la autorización previa de esta Superintendencia, los bancos podrán llevar este libro utilizando medios computacionales, siempre que el sistema que se use permita registrar el protesto al momento de hacerse efectivo y cuente con los controles suficientes para asegurar, a juicio de este Organismo, la integridad de la información que el libro de cheques protestados debe contener.
 
-obstante,con la autorización previa de esta Superintendencia, los bancos podrán
+13.9. Envío de nóminas de cheques protestados al Boletín de Informaciones Comerciales.
 
-llevar este libro utilizando medios computacionales, siempre que el sistema que
+El D.S. N° 1.971 del Ministerio de Hacienda, de 9 de abril de 1945, modificado por el D.S. N° 414, de 24 de junio de 1978, ordena publicar en el Boletín de Informaciones Comerciales, los cheques protestados por falta de fondos o por haber sido girados contra cuenta corriente cerrada. El D.S. N° 4.368 del Ministerio de Hacienda, de 25 de octubre de 1946, autoriza el Boletín de Informaciones Comerciales para publicar, a costa de los interesados y a requerimiento de estos, los cheques que han sido pagados con posterioridad a su protesto.
 
-se use permita registrar el protesto al momento de hacerse efectivo y cuente con
+Los bancos que protesten cheques por falta de fondos o por cuenta cerrada, deben enviar semanalmente a la Cámara de Comercio de Santiago, o a las instituciones en que la Cámara de Comercio de Chile delegue sus funciones, una nómina de tales cheques, con la siguiente información: Nombre completo del girador y número del Rol Unico Tributario de éste; suma por la cual se emitió el cheque; Oficina del banco que hizo el protesto y, cuando corresponda, observaciones acerca de algún cheque.
 
-los controles suficientes para asegurar, a juicio de este Organismo, la
+Las nóminas que envíe cada oficina bancaria deben ir numeradas correlativamente y los nombres de los giradores de los cheques, anotados por orden alfabético.
 
-integridad de la información que el libro de cheques protestados debe contener.
+Todos los cheques que figuren en la nómina, se entenderán protestados por falta de fondos, sin necesidad de que dicha circunstancia se anote expresamente. En el caso de que el protesto se deba al motivo de haberse girado contra cuenta corriente cerrada, sera preciso indicar este hecho como una observación.
 
-13.9. Envío de nóminas de cheques protestados al Boletín de Informaciones
+Con el fin de favorecer el pago del cheque con posterioridad a su protesto e informar acerca de aquellos que aparecen como definitivamente impagos, la oficinas bancarias que envíen las nóminas en referencia deben registrar en ellas la correspondiente observación, para dejar constancia del hecho de haberse pagado un cheque incluido en la nómina, antes del despacho de la misma.
 
-Comerciales.
-
-El D.S. N° 1.971 del Ministerio de Hacienda, de 9 de abril de 1945, modificado
-
-por el D.S. N° 414, de 24 de junio de 1978, ordena publicar en el Boletín de
-
-Informaciones Comerciales, los cheques protestados por falta de fondos o por
-
-haber sido girados contra cuenta corriente cerrada. El D.S. N° 4.368 del
-
-Ministerio de Hacienda, de 25 de octubre de 1946, autoriza el Boletín de
-
-Informaciones Comerciales para publicar, a costa de los interesados y a
-
-requerimiento de estos, los cheques que han sido pagados con posterioridad a su
-
-protesto.
-
-Los bancos que protesten cheques por falta de fondos o por cuenta cerrada, deben
-
-enviar semanalmente a la Cámara de Comercio de Santiago, o a las instituciones
-
-en que la Cámara de Comercio de Chile delegue sus funciones, una nómina de tales
-
-cheques, con la siguiente información: Nombre completo del girador y número del
-
-Rol Unico Tributario de éste; suma por la cual se emitió el cheque; Oficina del
-
-banco que hizo el protesto y, cuando corresponda, observaciones acerca de algún
-
-cheque.
-
-Las nóminas que envíe cada oficina bancaria deben ir numeradas correlativamente
-
-y los nombres de los giradores de los cheques, anotados por orden alfabético.
-
-Todos los cheques que figuren en la nómina, se entenderán protestados por falta
-
-de fondos, sin necesidad de que dicha circunstancia se anote expresamente. En el
-
-caso de que el protesto se deba al motivo de haberse girado contra cuenta
-
-corriente cerrada, sera preciso indicar este hecho como una observación.
-
-Con el fin de favorecer el pago del cheque con posterioridad a su protesto e
-
-informar acerca de aquellos que aparecen como definitivamente impagos, la
-
-oficinas bancarias que envíen las nóminas en referencia deben registrar en ellas
-
-la correspondiente observación, para dejar constancia del hecho de haberse
-
-pagado un cheque incluido en la nómina, antes del despacho de la misma.
-
-Los cheques en moneda extranjera que sean protestados por falta de fondos o
-
-cuenta cerrada, también deben ser informados, de la misma manera, al Boletín de
-
-Informaciones Comerciales.
+Los cheques en moneda extranjera que sean protestados por falta de fondos o cuenta cerrada, también deben ser informados, de la misma manera, al Boletín de Informaciones Comerciales.
 
 ### 14. Formularios de cheques
 
