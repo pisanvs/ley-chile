@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.955, de 30 de septiembre de 1999, se expropió el lote de terreno Nº115-B, superficie 1.917,0 m2., rol de avalúo 251-8, comuna de Lautaro, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli - Temuco", Novena Región y se acordó el valor de la indemnización con su propietaria Sociedad Agrícola y Ganadera Pehuén Limitada, ascendente a la cantidad de $3.422.786.-
+
+Fiscal del Ministerio de Obras Públicas.
