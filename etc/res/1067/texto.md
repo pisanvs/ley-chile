@@ -1,0 +1,3 @@
+Por Resolución N° 1.067, de 13 de Noviembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la resolución N° 592, de 1990, de esta Subsecretaría, que autorizó a PESQUERA LOS FIORDOS LIMITADA, R.U.T. N° 79.872.420-7, para realizar actividades de cultivo, en el sentido de reemplazar en su numeral 2° la expresión "en Ensenada Amparo" por "en Ensenada Amparo Chico".
+
+Valparaíso, 13 de noviembre de 1992.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
