@@ -1,0 +1,3 @@
+Por resolución Nº 1.412, de 16 de julio de 1999, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Pichidangui, IV Región, individualizada en el artículo 1º) Nº 22 del D.S. Nº509 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES DE CALETA PICHIDANGUI, comuna de Los Vilos, IV Región.
+
+Valparaíso, 16 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
