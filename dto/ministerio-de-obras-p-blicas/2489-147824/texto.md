@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.489, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 65 y 65-A, superficies 1.336 m² y 295 m², rol de avalúo 464-12, comuna de Retiro, para la obra Camino Ruta 5 Longitudinal Sur, Sector San Javier - Parral, II Tramo C, Sector Los Copihues, Séptima Región y se acordó el valor de indemnización con su propietaria María Luisa San Martín Domínguez, ascendente a la cantidad total de $2.790.462.-
+
+Fiscal del Ministerio de Obras Públicas.
