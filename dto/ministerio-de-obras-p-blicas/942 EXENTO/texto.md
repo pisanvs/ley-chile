@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 942 de fecha 29 de junio del 2001, se expropiaron los lotes de terreno Nºs. 30 y 31, superficie 211 y 271 m², respectivamente, rol de avalúo 1109-10, comuna de Pichilemu, para la obra "Camino Lolol Paredones - Bucalemu - Sector Alto Nilahue - Acceso Paredones, Tramo Km. 12,700 a Km. 27,800" y se acordó el valor de indemnización con su propietario José de la Cruz González Vallejos, ascendente a la cantidad de $2.667.060.-
+
+Fiscal del Ministerio de Obras Públicas.
