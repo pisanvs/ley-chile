@@ -1,0 +1,887 @@
+NORMAS SOBRE ADQUISICION, ADMINISTRACION Y DISPOSICION DE BIENES DEL ESTADO
+
+Núm. 1.939.- Santiago, 5 de Octubre de 1977.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; 527, de 1974; 991, de 1976, y
+
+Considerando:
+
+Que los bienes del Estado, por su importancia en el desarrollo económico y social del país, deben ser manejados en forma tal que su control no entrabe la aplicación oportuna de ellos a los fines del Gobierno;
+
+Que si bien en esta Administración se logró refundir y armonizar la variada legislación que existía sobre la materia mediante la dictación del D.S. 461, de 10 de Julio de 1974, del Ministerio de Tierras y Colonización, al que se dio numeración de D.L., el N° 574, de 1974, no es menos cierto que esta primera etapa debe complementarse con la abrogación de instituciones jurídicas caducas y la creación de un sistema racional, unitario y coherente de disposiciones, que se adapten a las actuales orientaciones del rol del Estado y que puedan aplicarse armónicamente junto a las normas sobre regionalización del país, y
+
+Que, como consecuencia de lo anterior, una eficiente administración de los bienes del Estado, hace imperiosa la necesidad de contar con un instrumento legal que permita obtener de ellos un óptimo aprovechamiento;
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+## Título I
+
+Disposiciones Generales
+
+#### Artículo 1°
+
+Las facultades de adquisición, administración y disposición sobre los bienes del Estado o fiscales que corresponden al Presidente de la República, las ejercerá por intermedio del Ministerio de Tierras y Colonización, sin perjuicio de las excepciones legales.
+
+Asimismo, el Ministerio ejercerá las atribuciones que esta ley le confiere respecto de los bienes nacionales de uso público, sobre los cuales tendrá, además, un control superior, sin perjuicio de la competencia que en la materia le asignan leyes especiales a otras entidades.
+
+Las dudas que se originen respecto de la competencia en la administración de un bien nacional, serán resueltas por el Ministerio de Tierras y Colonización, sin perjuicio de las facultades que correspondan a la Contraloría General de la República.
+
+#### Artículo 2°
+
+Para los efectos del presente decreto ley, se entenderá, sin necesidad de mención expresa, por "Ministerio", al Ministerio de Tierras y Colonización; por "Dirección" o "Servicio", a la Dirección de Tierras y Bienes Nacionales; por "Director", al Director de Tierras y Bienes Nacionales.
+
+#### Artículo 3°
+
+Corresponderá al Ministerio formar y conservar el catastro de los bienes raíces de propiedad fiscal y de todas las entidades del Estado.
+
+Las reparticiones de la Administración Pública centralizadas y descentralizadas deberán poner a disposición del Ministerio los antecedentes e instrumentos relacionados con estos bienes, en la forma, plazos y condiciones que señale el reglamento.
+
+El Ministerio mantendrá la información de los bienes a que se refieren los incisos precedentes en un sistema informático georreferencial, disponible en su sitio electrónico institucional, con el fin de permitir conocer su ubicación, avalúo, titularidad, destino y demás antecedentes que señale el reglamento a que hace referencia el inciso anterior. Dicha información deberá publicarse en el sitio web en forma completa y actualizada, y de un modo que permita su fácil identificación y un acceso expedito.
+
+#### Artículo 4°
+
+Los Notarios, Conservadores, Archiveros, los empleados públicos y en general, todos aquellos funcionarios que puedan contribuir, en razón de sus cargos, al cumplimiento de las funciones que correspondan al Ministerio y a sus servicios dependientes, estarán obligados a proporcionar gratuitamente los documentos y copias de instrumentos públicos que les sean requeridos, como asimismo, a efectuar también gratuitamente, las inscripciones, cancelaciones y demás anotaciones que se les soliciten a favor del Fisco.
+
+Los Conservadores remitirán a la Dirección, en duplicado, copias de las inscripciones que afecten a bienes fiscales y de las anotaciones y cancelaciones de las mismas.
+
+Los Notarios, Conservadores, Archiveros, empleados y funcionarios a que se refiere el inciso primero, deberán cumplir las obligaciones en él señaladas dentro del término de 30 días, contado desde que les sean requeridos los documentos, informes y antecedentes. El incumplimiento de esta obligación será sancionado por la Corte de Apelaciones respectiva conforme a lo dispuesto en el artículo 539 del Código Orgánico de Tribunales, cuando así procediere, y, en los demás casos, por los Jefes Superiores de los Servicios, de acuerdo a las leyes vigentes.
+
+El Fisco estará exento de toda clase de impuestos, derechos, tasas, aranceles y gravámenes, de cualquier naturaleza que sean, en las actuaciones derivadas de los actos y contratos que se efectúen o celebren a través de este Ministerio y sus Servicios dependientes. De igual exención gozará respecto de todos los documentos que solicite en conformidad a este artículo.
+
+#### Artículo 5°
+
+La Dirección deberá registrar los decretos y resoluciones en los cuales se autorice adquirir bienes raíces para el Estado, se ordene el pago de la adquisición o se disponga la enajenación, destinación, concesión o arrendamiento de esos bienes. Estos decretos y resoluciones deberán contener la frase "Regístrese en la Dirección de Tierras y Bienes Nacionales".
+
+Si la Contraloría General de la República reparare por cualquier motivo alguno de estos decretos o resoluciones ya registrados, los devolverá a dicha Dirección para los efectos de anular su registro.
+
+En relación con los inmuebles que adquiera el Estado, la Dirección intervendrá en su recepción material y confeccionará el informe del caso para su destinación o uso posterior y su incorporación al catastro.
+
+Sin perjuicio de lo anterior, la Dirección deberá tomar posesión en representación del Fisco, de todos los bienes que deban ingresar al patrimonio del Estado de acuerdo con los artículos 590 y 995 del Código Civil; de los que sean rescatados en conformidad a denuncias, o de los que el Fisco adquiera o recupere en cumplimiento de sentencias ejecutoriadas.
+
+#### Artículo 6°
+
+Las tierras fiscales situadas hasta una distancia de 10 kilómetros, medidos desde la frontera, sólo podrán ser obtenidas en propiedad, arrendamiento o a cualquier otro título, por personas naturales o jurídicas chilenas.
+
+Igual norma se aplicará respecto de las tierras fiscales situadas hasta 5 kilómetros de la costa, medidos desde la línea de más alta marea. En este último caso, podrán sin embargo concederse estos beneficios a extranjeros domiciliados en Chile, previo informe favorable de la Subsecretaría de Marina del Ministerio de Defensa Nacional. Con todo no podrán enajenarse a ningún título los terrenos de playa fiscales, dentro de una faja de 80 metros de ancho medidos desde la línea de más alta marea de la costa del litoral, los cuales sólo serán susceptibles de actos de administración por parte de la citada Subsecretaría del Ministerio de Defensa Nacional y sujetos a las restricciones establecidas en este artículo.
+
+No obstante, los terrenos de playa fiscales que están situados en la X Región, de Los Lagos, en la XI Región, Aysén del General Carlos Ibáñez del Campo, y en la XII Región de Magallanes y Antártica Chilena podrán ser transferidos en dominio a personas naturales o personas jurídicas sin fines de lucro chilenas. Las enajenaciones se dispondrán de acuerdo con las normas de este decreto ley, previo informe favorable de la Comandancia en Jefe de la Armada, y el adquirente deberá radicarse en la respectiva región en la forma y condiciones que determine el Decreto Reglamentario correspondiente. Dichos terrenos, durante el plazo de 10 años, contados desde la inscripción del dominio respectivo, sólo podrán transferirse por acto entre vivos en casos calificados, previo informe favorable del Ministerio de Bienes Nacionales y autorización de la Comandancia en Jefe de la Armada. Dentro del plazo señalado, el Conservador de Bienes Raíces competente no podrá inscribir ninguna transferencia en la que no consten el informe y la autorización referidos.
+
+Asimismo, dentro de este período no podrá el adquirente del terreno fiscal celebrar contrato alguno que lo prive de la tenencia, uso y goce del inmueble, salvo autorización del Ministerio de Bienes Nacionales otorgada por razones fundadas.
+
+Toda transferencia de estos terrenos por sucesión por causa de muerte, y las realizadas con posterioridad al plazo indicado en el inciso anterior, sean a título gratuito u oneroso, deberán ser comunicadas por el Conservador de Bienes Raíces correspondiente a la Comandancia en Jefe de la Armada, dentro del plazo de 30 días, contado desde la fecha de la inscripción. Lo dispuesto en el inciso tercero del artículo 4° de este decreto ley será aplicable en caso de incumplimiento por parte del Conservador de Bienes Raíces, de la obligación referida.
+
+Excepcionalmente, mediante decreto supremo fundado y previo informe de la Comandancia en Jefe de la Armada, podrán transferirse terrenos de playas fiscales, situados dentro de la faja de 80 metros de ancho, a que se refiere el inciso segundo de este artículo, a personas jurídicas chilenas sin fines de lucro, cuyo objeto sea el cultivo y propagación de las letras o de las artes, quedándoles prohibido, en todo caso, gravarlos o enajenarlos en todo o en parte.
+
+Lo dispuesto en este artículo es sin perjuicio de las normas que rigen en las zonas fronterizas y de otras disposiciones especiales sobre la materia.
+
+> **Nota.** El Art. 16 de la LEY 20062, publicada el 29.10.2005, dispuso que la modificación introducida al presente artículo regirá a contar de 60 días después de su publicación.
+
+#### Artículo 7°
+
+Por razones de interés nacional se prohíbe adquirir el dominio y otros derechos reales o ejercer la posesión o tenencia de bienes raíces situados total o parcialmente en las zonas del territorio nacional, actualmente declaradas fronterizas en virtud del decreto con fuerza de ley N° 4, de 1967, del Ministerio de Relaciones Exteriores, a los nacionales de países limítrofes salvo que medie la autorización prevista en el inciso tercero del presente artículo.
+
+La prohibición a que se refiere el inciso anterior se extenderá a las sociedades o personas jurídicas con sede principal en el país limítrofe, o cuyo capital pertenezca en un 40% o más a nacionales del mismo país o cuyo control efectivo se encuentre en manos de nacionales de esos países. Esta disposición no regirá respecto de los bienes raíces a que se refiere el artículo 19 de la ley N° 19.420.
+
+El Presidente de la República, mediante decreto supremo fundado en razones de interés nacional, podrá eximir, nominativa y expresamente, a nacionales de países limítrofes, de la prohibición precedente y autorizarlos para adquirir o transferir el dominio u otros derechos reales o la posesión o tenencia de uno o más inmuebles determinados, situados en zonas fronterizas.
+
+El decreto respectivo será expedido por intermedio del Ministerio del Interior y deberá ser suscrito también por los Ministros de Relaciones Exteriores y de Defensa Nacional, debiendo consultar dentro de sus fundamentos, informes del Estado Mayor de la Defensa Nacional y de la Dirección de Fronteras y Límites del Estado.
+
+Las autorizaciones referidas no conferirán privilegio de ninguna especie, no pudiendo invocarse, bajo pretexto alguno, para sustraerse de las leyes chilenas y de la jurisdicción de los tribunales nacionales.
+
+> **Nota.** Ver el Decreto 232, Relaciones, publicado 15.04.1994, que Reglamenta la Aplicación del Artículo 7° del presente decreto ley.
+
+> **Nota.** NOTA 1 Ver el Decreto 1628, Interior, publicado 18.10.1994, que otorga autorización establecida por el presente artículo, modificado por la Ley 19256, a la empresa que indica, para arrendar a la Zona Franca de Iquique S.A. el sitio que señala.
+
+> **Nota.** NOTA 2 El Artículo 21 de la Ley 19420, publicada el 23.10.1995, ordenó sustituir, en el artículo 8° del presente decreto ley, el guarismo "veinte" por "cuarenta", en circunstancias que éste debió haberse sustituido en el inciso segundo del artículo 7° del Decreto Ley 1939, de 1977.
+
+#### Artículo 8°
+
+Los Notarios y los respectivos Conservadores de Bienes Raíces serán responsables del fiel cumplimiento de las disposiciones del artículo anterior, en los actos que ellos autoricen o ejecuten, debiendo los primeros exigir una declaración escrita bajo fe de juramento de la nacionalidad y lugar de nacimiento de los comparecientes.
+
+En caso de incumplimiento por parte de los Notarios y Conservadores de Bienes Raíces de las exigencias a que se refiere el inciso anterior, serán sancionados en la forma establecida en el artículo 441 del Código Orgánico de Tribunales y, con la pérdida de su empleo, en caso de reincidencia.
+
+El que valiéndose de documentos falsos, simulación de contrato o cualquier otro engaño semejante, transgrediera la prohibición establecida en el artículo 7°, será castigado con la pena de extrañamiento menor en su grado mínimo a medio.
+
+#### Artículo 9°
+
+Cuando fuere aplicable la prohibición a que se refiere el artículo 7°, los extranjeros podrán adquirir por sucesión por causa de muerte para el solo efecto de enajenar el respectivo inmueble, dentro del plazo de un año contado desde la muerte del causante. Vencido este plazo sin que la enajenación se hubiere efectuado, el inmueble se entenderá declarado de utilidad pública y autorizado el Presidente de la República para expropiarlo a beneficio fiscal, de acuerdo con las normas correspondientes.
+
+#### Artículo 10
+
+No se podrá inscribir el dominio de bienes raíces en conformidad con lo dispuesto en el artículo 58 del Reglamento del Registro Conservatorio de Bienes Raíces, sin informe favorable de la Dirección. El Conservador de Bienes Raíces remitirá oportunamente las respectivas solicitudes para este trámite. Este informe deberá emitirse dentro del plazo de 30 días, contado desde la recepción de oficio del Conservador. Si no se evacuare la diligencia en dicho plazo, podrá prescindirse de ella.
+
+Cuando no se solicitare informe a la Dirección o éste fuere desfavorable y se procediere a practicar la inscripción, ésta adolecerá de nulidad y deberá ser cancelada por el Conservador respectivo, sin mas trámite, bastando para ello el solo requerimiento de la Dirección.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, los Conservadores de Bienes Raíces que contravengan esta disposición serán sancionados por la Corte de Apelaciones respectiva en la forma establecida en el artículo 539 del Código Orgánico de Tribunales.
+
+Del informe negativo de la Dirección podrá reclamarse dentro del quinto día ante la Corte de Apelaciones respectiva, la cual fallará en única instancia.
+
+La Dirección podrá exigir a los ocupantes de bienes raíces que a su juicio pudieren ser fiscales, que exhiban los títulos que justifiquen su posesión o tenencia. La negativa sin fundamento a ello será considerada como una presunción de que el inmueble efectivamente es de dominio fiscal y, además, el infractor será sancionado por el Servicio con multa de hasta cinco sueldos vitales mensuales de la Región Metropolitana de Santiago. El Reglamento señalará la forma y procedimiento para la aplicación de la mencionada sanción.
+
+#### Artículo 11
+
+Los bienes raíces que pertenezcan al Estado conforme a lo dispuesto en el artículo 590 del Código Civil, podrán ser administrados y transferidos en conformidad a la ley. Estos bienes serán inscritos en el respectivo registro de propiedad del Conservador de Bienes Raíces, de acuerdo al procedimiento establecido en el artículo 58 del Reglamento del Registro Conservatorio de Bienes Raíces.
+
+#### Artículo 12
+
+En las causas civiles y criminales, que tengan por objeto la reivindicación, fijación de cabidas o deslindes, recuperación de la posesión material de inmuebles rústicos o cualquier otro objeto que pueda significar la ampliación de la cabida o la fijación de nuevos deslindes de terrenos de particulares, será requisito previo al pronunciamiento de la sentencia, el informe de la Dirección, siempre que los terrenos materia del litigio se encuentren ocupados a cualquier título por personas que en el juicio, tengan la calidad de demandados o querellados y que, por vía de alegación o defensa, con o sin patrocinio de abogado, hayan manifestado que los terrenos que ocupan son fiscales. Asimismo, deberá solicitarse este informe si apareciere algún antecedente en el juicio que permita al Juez presumir que existe interés fiscal comprometido.
+
+Si las causas a que se refiere el inciso anterior se siguieren en rebeldía del demandado y los terrenos materia del litigio no se encontraren inscritos en el Registro de Propiedad del competente Conservador de Bienes Raíces, el Juez solicitará de la Dirección el mencionado informe.
+
+Cuando la Dirección estableciere de una manera categórica que los terrenos materia del litigio son fiscales o nacionales de uso público o que hubiere un interés fiscal comprometido, conjuntamente con enviar el respectivo informe al Juez que conociere del negocio oficiará de inmediato al Consejo de Defensa del Estado con el objeto de que éste tome las medidas que el caso aconseja en resguardo de los derechos del Estado.
+
+El Consejo podrá hacerse parte en estos procedimientos en cualquier estado del juicio.
+
+El informe a que se refiere el presente artículo será solicitado por el Juez, de oficio o a petición de parte; deberá ser evacuado dentro de los 30 días siguientes a la recepción del oficio respectivo por la Dirección, y su petición tendrá el carácter de trámite o diligencia esencial para los efectos contemplados en la causal 9a. del artículo 768 del Código de Procedimiento Civil, y 12a. del artículo 541 del Código de Procedimiento Penal.
+
+Si el informe no se emitiere dentro del plazo señalado en el inciso precedente, podrá el Juez prescindir de él.
+
+#### Artículo 13
+
+Los propietarios de terrenos colindantes con playas de mar, ríos o lagos, deberán facilitar gratuitamente el acceso a éstos, para fines turísticos y de pesca, cuando no existan otras vías o caminos públicos al efecto.
+
+La fijación de las correspondientes vías de acceso la efectuará el Intendente Regional, a través de la Dirección, previa audiencia de los propietarios, arrendatarios o tenedores de los terrenos y, si no se produjere acuerdo o aquéllos no asistieren a la audiencia, el Intendente Regional las determinará prudencialmente, evitando causar daños innecesarios a los afectados. De esta determinación podrá reclamarse a los Tribunales Ordinarios de Justicia dentro del plazo de 10 días contados desde la notificación de la resolución de la Dirección, los que resolverán con la sola audiencia del Intendente y de los afectados.
+
+> **Nota.** El DTO 1, Bienes Nacionales, publicado el 06.08.1996, reglamenta la aplicación del presente artículo. Por sentencia del 10.12.1996 el Tribunal Constitucional dispuso la inconstitucionalidad del citado DTO 1, declarándolo sin efecto de pleno derecho en su integridad.
+
+#### Artículo 14
+
+Las transferencias de dominio de terrenos fiscales situados en las zonas urbanas o suburbanas, deberán referirse a un plano de loteamiento aprobado previamente por la Municipalidad respectiva.
+
+No se aplicará este artículo a las enajenaciones de sitios fiscales que no provengan de un loteo o división de otro inmueble fiscal.
+
+#### Artículo 15
+
+Las reservas forestales, Parques Nacionales y los terrenos fiscales cuya ocupación y trabajo en cualquier forma comprometan el equilibrio ecológico, sólo podrán destinarse o concederse en uso a organismos del Estado o a personas jurídicas regidas por el Título XXXIII del Libro I del Código Civil, para finalidades de conservación y protección del medio ambiente.
+
+> **Nota.** NOTA: 1.3 De acuerdo con lo dispuesto en el artículo 39 de la ley 18.362, dicha ley regirá a partir de la fecha en que entre en plena vigencia la ley 18.348, la que a su vez, según lo dispone su artículo 19, entrará en vigencia el día en que se publique en el Diario Oficial el Decreto por el cual el Presidente de la República disuelva la Corporación Nacional Forestal o apruebe su disolución.
+
+#### Artículo 16
+
+En los contratos de compraventa de terrenos fiscales rústicos y en los decretos o resoluciones que concedan arrendamientos, actas de radicación o títulos gratuitos de dominio, deberán contemplarse, previo informe del Ministerio de Agricultura, las prohibiciones y obligaciones tanto de índole forestal como de protección o recuperación de terrenos a que se someterá el beneficiario. Cuando procediere, podrán imponerse obligaciones para la protección del medio ambiente, en cuyo caso procederá informe previo del Ministerio del Medio Ambiente.
+
+Los Ministerios de Agricultura o del Medio Ambiente, según corresponda, evacuarán los informes en relación a cada caso particular, o por zonas o regiones, dentro de sesenta días contados desde que fuera requerido al efecto. Si no lo hicieran, será la Dirección la que fijará las cláusulas forestales y de protección del medio ambiente que estime convenientes.
+
+#### Artículo 17
+
+Cada vez que la presente ley exija que un requisito se acredite mediante declaración jurada, ésta podrá prestarse, exenta de impuesto, ante notario o ante funcionario de la Dirección expresamente facultado por el Jefe Superior del Servicio o el Director Regional respectivo, el que para estos efectos tendrá la calidad de ministro de fe.
+
+La falsedad en la declaración será penada con la caducidad del beneficio, sin perjuicio de la sanción prevista en el artículo 210 del Código Penal.
+
+#### Artículo 18
+
+En conformidad a las normas señaladas en la Ley Orgánica de la Dirección, los Inspectores de Bienes Nacionales deberán fiscalizar los bienes del Estado y el debido cumplimiento de las obligaciones y deberes que les imponen las leyes, decretos, reglamentos y contratos, a los concesionarios, adquirentes y tenedores a cualquier título de estos bienes, sean personas naturales o jurídicas. En sus actuaciones, dichos Inspectores tendrán la calidad de ministros de fe.
+
+Respecto de herencias que se denuncien como pertenecientes al Fisco, estos funcionarios podrán adoptar las medidas que correspondan en resguardo del interés fiscal y requerir en representación del Fisco para este solo efecto, ante el Tribunal a que se refiere el artículo 44, a fin de que éste, con conocimiento de causa, ordene la confección de inventario o la práctica de otras medidas destinadas a la conservación del acervo hereditario, con el auxilio de la fuerza pública, si ello fuere necesario. Estas gestiones se sujetarán a las reglas del artículo 817 y siguientes del Código de Procedimiento Civil.
+
+Los arrendatarios y beneficiarios de permisos de ocupación de terrenos fiscales que impidan reiteradamente la fiscalización de los Inspectores de Bienes Nacionales, incurrirán de pleno derecho en la caducidad de sus contratos o permisos, según corresponda.
+
+#### Artículo 19
+
+La Dirección, sin perjuicio de las facultades que le competen a los Intendentes Regionales y Gobernadores Provinciales, cuidará que los bienes fiscales y nacionales de uso público se respeten y conserven para el fin a que estén destinados. Impedirá que se ocupe todo o parte de ellos y que se realicen obras que hagan imposible o dificulten el uso común, en su caso.
+
+Los bienes raíces del Estado no podrán ser ocupados si no mediare una autorización, concesión o contrato originado en conformidad a esta ley o de otras disposiciones legales especiales.
+
+Todo ocupante de bienes raíces fiscales que no acreditare, a requerimiento de la Dirección, poseer alguna de las calidades indicadas en el inciso anterior, será reputado ocupante ilegal, contra el cual se podrán ejercer las acciones posesorias establecidas en el Título IV del Libro III del Código de Procedimiento Civil, sin que rija para el Fisco lo establecido en el número 1 del artículo 551, del citado Código.
+
+Sin perjuicio de lo anterior, se podrán ejercer las acciones penales que correspondieren y perseguir el pago de una indemnización por el tiempo de la ocupación ilegal.
+
+#### Artículo 20
+
+La demolición de edificios o construcciones fiscales será autorizada, a solicitud del Jefe Superior del Servicio respectivo, por la Dirección, y se realizará por el propio Servicio interesado o por el Ministerio de Obras Públicas, todo ello de acuerdo con la Ley de Ordenanza General de Construcción y Urbanismo vigente.
+
+La Dirección podrá autorizar la utilización de determinados materiales provenientes de estas demoliciones, en la construcción o reparación de otros edificios fiscales ubicados en la respectiva Región.
+
+El Reglamento señalará las demás modalidades de las demoliciones.
+
+#### Artículo 21
+
+El Ministerio, con consulta o a requerimiento de los Servicios y entidades que tengan a su cargo el cuidado y protección de bosques y del medio ambiente, la preservación de especies animales y vegetales y en general, la defensa del equilibrio ecológico, podrá declarar Reservas Forestales o Parques Nacionales a aquellos terrenos fiscales que sean necesarios para estos fines. Estos terrenos quedarán bajo el cuidado y tuición de los organismos competentes.
+
+Los predios que hubieren sido comprendidos en esta declaración no podrán ser destinados a otro objeto ni perderán esta calidad, sino en virtud de decreto del Ministerio, previo informe favorable del Ministerio de Agricultura o el Ministerio del Medio Ambiente, según corresponda.
+
+> **Nota.** De acuerdo con lo dispuesto en el artículo 39 de la Ley 18.362, dicha Ley regirá a partir de la fecha en que entre en plena vigencia la Ley 18.348, la que a su vez, según lo dispone su artículo 19, entrará en vigencia el día en que se publique en el Diario Oficial el Decreto por el cual el Presidente de la República disuelva la Corporación Nacional Forestal o apruebe su disolución.
+
+#### Artículo 22
+
+El Director, en representación del Fisco, podrá solicitar de acuerdo a las normas legales pertinentes, el saneamiento de los títulos de dominio de bienes raíces que el Estado, a través de cualquiera de sus organismos esté poseyendo, concurriendo los demás requisitos legales.
+
+#### Artículo 23
+
+Todas las facultades que la presente ley le confiere al Ministro y al Director, se podrán delegar en las autoridades regionales del Ministerio o del Servicio, según correspondiere.
+
+#### Artículo 24
+
+Los bienes muebles destinados para la administración del Estado, se podrán adquirir, sin perjuicio de las excepciones legales, a través de la Dirección de Aprovisionamiento del Estado y mediante las donaciones y herencias de que trata el Título II de esta ley.
+
+La administración y control directo sobre estos bienes serán ejercidos por los Jefes de los Servicios y Oficinas en que se encuentren inventariados o a los cuales se hayan adscrito, sin perjuicio de las facultades inspectivas que le corresponden a la Dirección y a la Contraloría General de la República.
+
+Los traslados de muebles dentro de una misma institución, o a otro servicio distinto centralizado o descentralizado, se efectuarán por resoluciones de la entidad a cuyo cargo se encuentre el bien, anotándose este acto en los inventarios correspondientes.
+
+Los bienes muebles utilizables que se deseen excluir de los servicios fiscales o de los servicios de la Administración descentralizada, deberán ponerse a disposición de la Dirección pudiendo sugerir la entidad u organismo que necesitare tales bienes. Si no hubiere interés por ellos, podrán ser dados de baja, mediante enajenación a través de la Dirección de Aprovisionamiento del Estado, de acuerdo con las disposiciones legales y reglamentarias vigentes.
+
+Los bienes muebles deteriorados o destruidos que no se puedan reparar y los que, ofrecidos en remate, no se hubieren enajenado por no existir interés en adquirirlos, podrán ser dados de baja sin enajenación.
+
+Las especies a que se refiere el inciso anterior, o los residuos de ellas, podrán ser donados a otras instituciones del Estado, entidades gremiales, Juntas de Vecinos, Centros de Madres, y a cualesquiera otras entidades similares que, sin ánimo de lucro, persigan fines de interés social, incluso a pobladores y campesinos, en casos calificados.
+
+Se excluyen de las disposiciones de los incisos cuarto, quinto y sexto del presente artículo, los vehículos motorizados, a los cuales se les continuará aplicando las disposiciones legales vigentes.
+
+El Reglamento señalará las demás modalidades y procedimientos en la adquisición y administración de bienes muebles, y fijará las normas conforme a las cuales se deberá enajenar dichos bienes, de acuerdo a lo dispuesto en los incisos precedentes.
+
+#### Artículo 25
+
+La adquisición y disposición de los bienes de las Municipalidades se sujetarán a las normas del régimen de bienes contenidas en el decreto ley N° 1.289, de 1975, y a las disposiciones de esta ley que señale el Presidente de la República mediante decreto con fuerza de ley que adecuará los preceptos pertinentes a la naturaleza propia de dichas instituciones de derecho público, y que deberá dictarse dentro del plazo de un año contado desde la publicación del presente decreto ley.
+
+## Título II
+
+Adquisición de Bienes por el Estado
+
+#### Artículo 26
+
+La adquisición del dominio de bienes por el Estado se someterá a las normas del derecho común, a las especiales de éste título y a las demás que contemplen normas especiales.
+
+#### Artículo 27
+
+Los terrenos que dejaren de estar permanentemente y en forma definitiva cubiertos por las aguas del mar, de un río o lago, como consecuencia de obras ejecutadas con fondos del Estado, se incorporarán a su dominio.
+
+#### Artículo 28
+
+El Director tendrá la representación del Fisco para pedir la restitución judicial de los inmuebles que se adquieran en conformidad con el presente Título, con excepción de los que se expropien, que estuvieren ocupados o arrendados.
+
+El Juez que deba conocer del correspondiente juicio quedará facultado para reducir prudencialmente los plazos que en virtud de la ley pudieren favorecer al ocupante o arrendatario, siempre que la restitución del inmueble fuere necesaria para la satisfacción de una necesidad pública.
+
+### Párrafo I
+
+De las compras y permutas
+
+#### Artículo 29
+
+Sin perjuicio de las excepciones legales, la compra de bienes raíces que efectúe el Fisco se realizará a través del Ministerio, previo estudio de los títulos de dominio del inmueble y del cumplimiento de los requisitos que se señalan en los artículos siguientes.
+
+Las instituciones interesadas en la adquisición de un inmueble acompañarán a su solicitud un preinforme acerca de los títulos de dominio de la propiedad y un proyecto de la escritura pública que corresponda. Sin perjuicio de lo anterior, adjuntarán los documentos y certificados que comprueben la idoneidad de los respectivos títulos a fin de que el Ministerio se pronuncie en definitiva.
+
+#### Artículo 30
+
+El Servicio interesado en la compra de un bien raíz, deberá ser autorizado previamente por el Ministerio del cual depende, y el gasto que se origine se imputará al ítem respectivo del Presupuesto del Servicio correspondiente.
+
+#### Artículo 31
+
+Tratándose de compras a plazo, no podrá pactarse una reajustabilidad que exceda a la variación que experimente el Indice de Precios al Consumidor desde la fecha del respectivo contrato hasta la del pago, sin perjuicio de los intereses que se acuerden.
+
+> **Nota.** NOTA: 2 Las modificaciones introducidas por el DL 3474, de 1980, rigen a contar del día 1° del mes siguiente al de la fecha de publicación en el Diario Oficial, efectuada el 5 de septiembre de 1980.
+
+#### Artículo 32
+
+La escritura de compra será redactada por la Dirección y suscrita, en representación del Fisco, por el funcionario que señale el decreto respectivo.
+
+#### Artículo 33
+
+La Dirección, en representación del Fisco, intervendrá en la recepción material del inmueble que en virtud de las disposiciones de este Párrafo se incorpore al Patrimonio del Estado. Procederá a registrarlo en el Catastro y confeccionará el informe del caso para su destinación.
+
+#### Artículo 34
+
+El Presidente de la República, a través del Ministerio podrá, en casos calificados y cumpliéndose las exigencias del artículo 30 de este decreto ley, permutar un bien raíz fiscal por un inmueble de otro dueño.
+
+INCISO DEROGADO.-
+
+#### Artículo 35
+
+Tanto la permuta como la compraventa se regirán, en todo lo no previsto en las disposiciones anteriores, por las normas contenidas en el Código Civil.
+
+### Párrafo II
+
+De las donaciones
+
+#### Artículo 36
+
+Autorízase a las Municipalidades, a las Instituciones y Empresas del Estado y, en general, a todas las personas jurídicas en que el Estado tenga aporte de capital, participación o representación, para donar toda clase de bienes al Fisco.
+
+#### Artículo 37
+
+La donación de bienes que se haga al Fisco por cualquier institución o persona será aceptada mediante una resolución de la Dirección, sin perjuicio de lo dispuesto en leyes especiales. Estas donaciones estarán exentas de toda clase de impuestos y tendrán la calidad de gasto necesario para producir la renta para los efectos de lo establecido en la Ley sobre Impuesto a la Renta, contenida en el artículo 1 del decreto ley N° 824, de 1974. Por su parte, estas donaciones no estarán sujetas al límite global absoluto establecido en el artículo 10 de la ley N° 19.885, y no requerirán del trámite de la insinuación.
+
+Tratándose de bienes raíces, corresponderá a la Dirección estudiar y calificar los títulos de dominio del donante y redactar la escritura pública de donación que será suscrita, en representación del Fisco, por el Director o por el funcionario que éste designe.
+
+#### Artículo 38
+
+Las donaciones que se hagan al Fisco deberán ser puras y simples.
+
+Podrán, sin embargo, aceptarse en determinados casos donaciones modales, siempre que la modalidad consista en aplicar el bien a la satisfacción de una necesidad pública determinada.
+
+#### Artículo 39
+
+Las personas que ofrezcan donar bienes raíces al Fisco, sólo deberán acompañar los títulos que obren en su poder o, en su defecto, indicarán la inscripción de dominio del inmueble. Corresponderá a la Dirección solicitar copias de las inscripciones y demás documentos que se requieran para el estudio de los títulos.
+
+Si el donante se desistiere o no diere curso a la oferta formulada, deberá pagar los gastos en que se hubiere incurrido, los que serán determinados privativamente por la Dirección. Esta liquidación se entenderá aprobada si no se objetare dentro del plazo de cinco días de su notificación, y constituirá título ejecutivo de aquellos a que se refiere el N° 7 del artículo 434 del Código de Procedimiento Civil.
+
+Sólo una vez que se hubieren cancelado los gastos a que se refiere el inciso anterior, la Dirección devolverá la documentación acompañada.
+
+#### Artículo 40
+
+Cuando a juicio de la Dirección, los títulos de dominio de un inmueble que se ofrece donar al Fisco no estuvieren lo suficientemente completos, la regularización o el saneamiento de ellos se efectuará en conformidad al procedimiento establecido en el DFL. N° 6, de 1968, y se llevará a cabo por el Departamento de Títulos, a petición de la propia Dirección.
+
+El titular del derecho de dominio o de otros derechos sobre el inmueble donado sólo podrá accionar en contra del donante, con el objeto de que éste le indemnice en la parte correspondiente a su derecho. En ningún caso podrá el donante ejercer acción en contra del Fisco como consecuencia de las prestaciones a que se pueda ver obligado.
+
+### Párrafo III
+
+De las expropiaciones
+
+#### Artículo 41
+
+Decláranse de utilidad pública y autorízase al Presidente de la República para expropiar, a través del Ministerio, los inmuebles situados dentro del radio urbano de las ciudades o pueblos que, por su ubicación, cabida y deslindes, sean indispensables para la instalación y funcionamiento de organismos estatales, y de la administración civil.
+
+La facultad que confiere el inciso anterior sólo podrá ejercerse en casos de imprescindible necesidad, y mediante decreto supremo fundado, el que expresará con exactitud las razones que justifiquen la expropiación. Esta se someterá a las disposiciones constitucionales y legales pertinentes.
+
+### Párrafo IV
+
+De las herencias. Denuncias de éstas y otros bienes.
+
+#### Artículo 42
+
+Los derechos sucesorios del Fisco se regularán por las normas de la legislación común y por las especiales de este párrafo.
+
+Cualquier persona puede poner en conocimiento del Servicio la existencia de derechos hereditarios que le correspondan al Fisco, así como de cualquier clase de bienes que, perteneciendole, no tuviere de ellos conocimiento, o que se encontraren indebidamente en poder de terceros.
+
+El denunciante que cumpliere los requisitos que más adelante se señalan, tendrá derecho a un galardón equivalente al 30% del valor líquido de los bienes respectivos.
+
+#### Artículo 43
+
+La posesión efectiva de las herencias deferidas al Fisco se solicitará por la Dirección a través de abogados del Servicio o por el Consejo de Defensa del Estado a requerimiento de aquélla. En la tramitación de esta gestión no será necesario informe del Servicio de Impuestos Internos y bastará el inventario de los bienes de la sucesión efectuado por la Dirección.
+
+#### Artículo 44
+
+Toda resolución judicial que declare yacente una herencia deberá ser comunicada de oficio por el Tribunal respectivo a la Dirección, la que realizará todas las diligencias e investigaciones necesarias para establecer si conviene o no a los intereses del Fisco solicitar la posesión efectiva de dicha herencia.
+
+La propia resolución que declare yacente una herencia contendrá la frase "OFICIESE A LA DIRECCION DE TIERRAS Y BIENES NACIONALES TRANSCRIBIENDOSE INTEGRAMENTE ESTA RESOLUCION.".
+
+#### Artículo 45
+
+Los créditos hereditarios o testamentarios que digan relación con las herencias deferidas al Fisco, podrán hacerse valer administrativamente mediante presentaciones que irán acompañadas de todos los documentos que los justifiquen. Lo anterior es sin perjuicio de las acciones judiciales que estime procedente el interesado.
+
+#### Artículo 46
+
+Corresponderá a la Dirección la liquidación de todas las herencias cuya posesión efectiva haya sido concedida al Fisco en la forma que determine el Reglamento.
+
+Hasta la liquidación de la masa hereditaria, la Dirección adoptará todas las medidas necesarias para resguardarla, pudiendo incluso designar un depositario provisional cuyos honorarios se cancelarán con cargo al haber hereditario.
+
+Si entre los bienes hereditarios hubiere especies que por su naturaleza fueren corruptibles, o que pudieren sufrir deterioro o menoscabo, la Dirección podrá enajenarlos en la forma más conveniente, sin más trámite, aun antes de haberse concedido la posesión efectiva.
+
+La Dirección deberá liquidar los bienes inmuebles hereditarios, sin que pueda reservar parte alguna de ellos, a más tardar en el plazo de dos años a contar de la fecha en que se conceda al Fisco la posesión efectiva de la herencia.
+
+#### Artículo 47
+
+El depositario a que se refiere el artículo anterior quedará sujeto, en el ejercicio de su gestión y en cuanto a su responsabilidad, a las normas contempladas en los artículos 2215 y siguiente del Código Civil.
+
+#### Artículo 48
+
+Las denuncias a que se refiere el artículo 42 se presentarán en la Oficina de Partes del Ministerio, que para estos efectos, atenderá durante toda la jornada de trabajo. Se pondrá cargo de día y hora y se registrará en un libro de denuncias por estricto orden de recepción.
+
+Las Direcciones Regionales y las Oficinas Provinciales de la Dirección recibirán esta clase de denuncias en la forma indicada en el inciso anterior. En las localidades donde ellas no existan podrán formularse telegráficamente a la que fuere más próxima.
+
+#### Artículo 49
+
+Se tendrá como primer denunciante a quien primero presente la denuncia en los lugares señalados en el artículo anterior acompañando todos los datos y antecedentes en que se funden los derechos del Fisco sobre los bienes denunciados, y cumpliéndose con los demás requisitos legales y reglamentarios.
+
+Si el denunciante no pudiere en ese momento acompañar los mencionados datos, dejará expresa constancia de ello y de las razones que lo justifican y se comprometerá además a adjuntarlos dentro del plazo que le fije la Dirección. Transcurrido dicho término sin que se hubieren acompañado los antecedentes solicitados, se tramitará la denuncia de oficio, y el denunciante perderá el derecho de recompensa establecido en el artículo 42. No obstante, los datos y antecedentes conformes presentados dentro del plazo fijado, se tendrán como acompañados simultáneamente con la denuncia.
+
+#### Artículo 50
+
+Si la misma denuncia es formulada por más de una persona, se podrá otorgar al o los denunciantes un galardón proporcional al monto de los bienes denunciados por éstas, siempre que dichos bienes no hubieren sido manifestados en las denuncias anteriores.
+
+#### Artículo 51
+
+La recompensa será decretada una vez que los bienes hayan sido ingresados legal y materialmente, en forma definitiva, al patrimonio fiscal, y se otorgará previa calificación hecha por la Dirección acerca de la diligencia y eficacia atinente a la cooperación prestada por el denunciante.
+
+No obstante, será condición indispensable para tener derecho a recompensa que los bienes manifestados en la denuncia, sean desconocidos para el Fisco y que a no mediar ésta, no se hubieren recuperado esos bienes.
+
+#### Artículo 52
+
+Para establecer el monto de la recompensa, los bienes raíces se considerarán por el avalúo vigente.
+
+En cuanto a los demás bienes, la recompensa se determinará atendiendo el valor producido por la enajenación del respectivo bien o por la tasación comercial que al efecto practique la Dirección, la que será, en lo posible, coetánea con el pago.
+
+#### Artículo 53
+
+Cuando se trate de herencias deferidas al Fisco, la recompensa se pagará una vez practicada la liquidación a que se refiere el artículo 46, haciéndose previamente la deducción de las deudas y demás costas producidas.
+
+#### Artículo 54
+
+Si se acordare pagar la recompensa por denuncia de herencia deferida al Fisco, antes de expirar los plazos de prescripción de derechos de terceros a ella, el denunciante deberá comprometerse a devolver la suma percibida a título de galardón, aumentada en la misma proporción en que hubiere variado el Indice de Precios al Consumidor, entre el mes anterior al del pago y el mes anterior al de la devolución, si el Fisco se viera obligado a restituir la herencia, obligación que deberá garantizarse suficientemente en relación al interés del Estado y la capacidad económica del denunciante.
+
+## Título III
+
+Administración de Bienes del Estado
+
+#### Artículo 55
+
+En relación con su administración, los bienes del Estado podrán ser objeto de destinaciones, concesiones de uso, afectaciones y arrendamientos.
+
+### Párrafo I
+
+De las Destinaciones y Concesiones
+
+#### Artículo 56
+
+Mediante la destinación se asigna, a través del Ministerio, uno o más bienes del Estado a la institución que los solicita, con el objeto de que los emplee en el cumplimiento de sus fines propios.
+
+Las destinaciones sólo se dispondrán en favor de los servicios y entidades que conforman la Administración del Estado, el Poder Judicial, los servicios dependientes del Congreso Nacional y la Contraloría General de la República.
+
+Todos los gastos que provengan de reparaciones, conservación, ejecución de obras y pagos de servicios tales como agua potable, alcantarillado, electricidad, teléfono, gas, contribuciones y otros a que estén afectos los bienes destinados, serán de cargo exclusivo de los destinatarios.
+
+El Ministerio de Bienes Nacionales estará facultado para cobrar por el uso y goce de los bienes destinados a que se refiere este artículo, con excepción de aquellos destinados a los servicios dependientes del Congreso Nacional. Mediante decreto supremo expedido por este Ministerio, el que deberá ser suscrito además por el Ministerio de Hacienda, se establecerán las condiciones, el procedimiento, la forma de cobro y demás normas necesarias para la aplicación de esta disposición. El producto obtenido por el cobro señalado ingresará a rentas generales de la Nación.
+
+Los bienes destinados deberán ser empleados exclusivamente en el objeto para el cual se solicitaron. Si por cualquier motivo dejaren de utilizarse en dicho objeto, deberán ser puestos de inmediato a disposición del Ministerio de Bienes Nacionales para su debida administración. El Ministerio fiscalizará el empleo debido que se dé a estos bienes, pudiendo poner término a la destinación cada vez que las circunstancias así lo aconsejen.
+
+> **Nota.** NOTA: 3 El artículo 19 de la LEY 19259, publicada el 10.11.1993, dispuso que el producto de las ventas de bienes inmuebles fiscales que no estén destinados por aplicación de lo dispuesto en el presente artículo, que efectúe durante el año 1994 el Ministerio de Bienes Nacionales, y las cuotas que se reciban en dicho año por ventas efectuadas desde 1986 a 1993 se incorporarán transitoriamente como ingreso presupuestario de dicho Ministerio. Esos recursos se destinarán a los siguientes objetivos: 65% al Fondo Nacional de Desarrollo Regional de la Región en la cual está ubicado el inmueble enajenado; 10% al Ministerio de Bienes Nacionales, y 25% a beneficio fiscal, que ingresará a rentas generales de la Nación. La norma establecida en este artículo no regirá respecto de las ventas que efectúe dicho Ministerio a órganos y servicios públicos, o a empresas en que el Estado, sus instituciones o empresas tengan aporte de capital igual o superior al 50%, destinadas a satisfacer necesidades propias del adquirente, ni respecto de las enajenaciones que se efectúen de acuerdo con lo dispuesto en el artículo 1° de la ley N° 17.174, en el decreto ley N° 2.569, de 1979 y en la ley N° 19.229.
+
+> **Nota.** NOTA: 4 El artículo 25 de la LEY 19259, publicada el 10.11.1993, ordenó que sus disposiciones regirán a contar del 1° de enero de 1994, sin perjuicio de que puedan dictarse a contar de la fecha de su publicación los decretos a que se refieren los artículos 3° y 5° y las resoluciones indicadas en dicho artículo 5°.
+
+#### Artículo 57
+
+Conforme a las disposiciones de este párrafo, el Ministerio podrá otorgar concesiones sobre bienes fiscales, con un fin preestablecido y en las condiciones que para cada caso se determine a personas jurídicas de nacionalidad chilena.
+
+En ningún caso el Ministerio podrá adjudicar en concesión bienes cuya administración esté entregada a la competencia de otro Ministerio, servicio público, municipio o empresa pública u otro organismo integrante de la administración del Estado.
+
+#### Artículo 58
+
+Las concesiones podrán adjudicarse a través de licitación pública o privada, nacional o internacional, o directamente, en casos debidamente fundados.
+
+En este último caso, el procedimiento administrativo respectivo se podrá iniciar con la solicitud de concesión que cualquier persona, natural o jurídica, chilena o extranjera, efectúe al Ministerio.
+
+Dicha solicitud deberá indicar, a lo menos, la actividad específica que se propone desarrollar en el bien que se solicita, el plazo, las obras que se ejecurarán en él y el derecho o renta que ofrece.
+
+La solicitud será resuelta fundadamente por el Ministerio, en el plazo máximo de tres meses, contado desde su presentación. El Ministerio deberá oír al Gobierno Regional que corresponda, quien deberá emitir su opinión dentro del plazo de 30 días, transcurrido el cual, se tendrá por evacuado dicho trámite. El Ministerio, además, considerará para resolver, entre otros factores, el mérito del proyecto, el tipo de bien solicitado, las obras que se ejecutarán en él, la participación de los habitantes locales, si procediere, la renta ofrecida y el plazo de duración que se propone para la concesión.
+
+El Ministerio podrá solicitar al proponente las modificaciones a su proyecto que considere pertinentes.
+
+Si la solicitud fuere acogida, el Ministerio procederá a adjudicar la concesión directamente al proponente.
+
+#### Artículo 59
+
+La adjudicación de la concesión se resolverá por decreto supremo del Ministerio de Bienes Nacionales, cuyo extracto deberá publicarse en el Diario Oficial dentro de los treinta días siguientes a su dictación. Dicho extracto deberá contener las siguientes menciones:
+
+1. Acto administrativo y su fecha;
+
+2. Nombre o razón social y número del rol único tributario del o los beneficiarios;
+
+3. Localización del inmueble fiscal;
+
+4. Superficie;
+
+5. Datos de la inscripción del Conservador de Bienes Raíces;
+
+6. Plazo de la concesión;
+
+7. Renta concesional;
+
+8. Naturaleza del proyecto, y
+
+9. Plazo para la suscripción del contrato.
+
+A contar de la fecha de publicación del decreto, el adjudicatario quedará obligado, cuando corresponda, en el plazo y con los requisitos que se indiquen en el respectivo decreto, a constituir una persona jurídica de nacionalidad chilena, con quien se celebrará el respectivo contrato de concesión.
+
+Para que la adjudicación de la concesión se entienda perfeccionada, el adjudicatario, dentro del plazo de 30 días contado desde la publicación en el Diario Oficial, deberá suscribir con el Ministerio el correspondiente contrato de concesión, el cual deberá constar en escritura pública.
+
+La escritura pública deberá inscribirse en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces del lugar en que se hallare ubicado el inmueble, como también anotarse al margen de la inscripción de dominio del respectivo predio. Copia de la escritura deberá entregarse para su archivo en el Ministerio.
+
+El incumplimiento de las obligaciones indicadas en los incisos anteriores, será declarado por el Ministerio mediante decreto y permitirá que deje sin efecto la adjudicación respectiva.
+
+#### Artículo 60
+
+La adjudicación de la concesión no liberará al concesionario de la obligación de obtener todos los permisos o autorizaciones que, conforme a la legislación vigente, sean necesarios para el desarrollo del proyecto.
+
+Cuando las leyes o reglamentos exijan como requisito ser propietario del terreno en que recae la concesión, los concesionarios podrán solicitar los permisos, la aprobación de los planes de manejo y la asistencia técnica y crediticia que se requieran para construir o realizar en el bien concesionado las inversiones necesarias para el cumplimiento del proyecto aprobado.
+
+#### Artículo 61
+
+Las concesiones se otorgarán a título oneroso.
+
+La Comisión Especial de Enajenaciones a que se refiere el artículo 85 de esta ley, previa tasación del inmueble, propondrá al Ministro el derecho o renta que deberá pagar el concesionario y su forma de pago. Sólo en casos calificados y por decreto fundado, se podrá fijar una renta inferior a la propuesta por la referida Comisión.
+
+Cuando se trate de concesiones otorgadas mediante licitación, para efectos de la elaboración de las bases correspondientes, la Comisión de Enajenaciones propondrá la renta mínima que deberá pagar el concesionario.
+
+El destino de los derechos o rentas por concesiones de inmuebles fiscales será el mismo que la ley establezca para el producto de su venta.
+
+Sólo en casos excepcionales y por razones fundadas, se podrán otorgar concesiones a título gratuito en favor de las municipalidades, servicios municipales, u organismos estatales que tengan patrimonio distinto del Fisco o en que el Estado tenga aportes de capital, participación o representación, y personas jurídicas de derecho público o privado, siempre que estas últimas no persigan fines de lucro. En este caso, no les serán aplicables los artículos 62 A y 62 B, y esta concesión podrá extinguirse por la sola voluntad del Ministerio de Bienes Nacionales cuando, a su juicio, existan fundadas razones para ello.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, a las concesiones gratuitas que se otorguen por períodos iguales o inferiores a cinco años, no les serán aplicables los artículos 59 y 63, y se entenderán perfeccionadas una vez que se notifique al adjudicatario la resolución respectiva, la que deberá ser fundada.
+
+La solicitud para otorgar la concesión gratuita de corto plazo de que trata el inciso anterior, deberá ser puesta en conocimiento del correspondiente Gobierno Regional. El Intendente y el Consejo Regional deberán emitir su opinión dentro del plazo de quince días. Una vez transcurrido dicho plazo sin que el Gobierno Regional competente se hubiese pronunciado, se entenderá que su opinión es favorable a la petición de concesión respectiva.
+
+El Ministerio tendrá a disposición de las personas e instituciones que lo requieran la nómina de las concesiones otorgadas y vigentes en la región respectiva, y velará por la debida publicidad de esta información, debiendo, además, incorporar estos datos en su sitio en la red.
+
+#### Artículo 62
+
+La concesión durará el plazo convenido o aquel que se establezca en las bases de licitación, los que no podrán exceder de 50 años.
+
+#### Artículo 62
+
+A.- El concesionario podrá transferir la concesión. La transferencia voluntaria o forzada de la concesión deberá ser total, comprendiendo todos los derechos y obligaciones que emanen del contrato de concesión y sólo podrá hacerse a una persona jurídica de nacionalidad chilena. El adquirente de la concesión deberá cumplir todos los requisitos y condiciones exigidos al primer concesionario. El Ministerio deberá autorizar la transferencia, para lo cual se limitará a certificar el cumplimiento de todos los requisitos anteriores por parte del adquirente, dentro de los 45 días siguientes a la recepción de la solicitud respectiva. Transcurrido este plazo sin que el Ministerio se pronuncie, la transferencia se entenderá autorizada.
+
+Cualquier acto en contravención a lo dispuesto en el inciso anterior, será nulo.
+
+#### Artículo 62
+
+B.- DEROGADO.
+
+#### Artículo 62
+
+C.- La concesión se extinguirá por las siguientes causales:
+
+1.- Cumplimiento del plazo;
+
+2.- Mutuo acuerdo entre el Ministerio y el concesionario. El Ministerio sólo podrá concurrir al acuerdo si los acreedores que tengan constituida a su favor la prenda establecida en el artículo 62 B consintieren en alzarla o aceptaren previamente, y por escrito, dicha extinción anticipada;
+
+3.- Incumplimiento grave de las obligaciones del concesionario;
+
+4.- Ocurrencia de algún hecho o circunstancia que haga imposible usar o gozar del bien para el objeto de la concesión, y
+
+5.- Las demás causales que se estipulen en las bases de licitación o en el contrato de concesión respectivo.
+
+La declaración de incumplimiento grave de las obligaciones del concesionario deberá solicitarse por el Ministerio al Tribunal Arbitral establecido en el artículo 63, fundándose en algunas de las causales establecidas en el respectivo contrato de concesión o en las respectivas bases de licitación.
+
+Declarado el incumplimiento grave de las obligaciones del concesionario por el Tribunal Arbitral, se extingue el derecho del primitivo concesionario para explotar la concesión y el Ministerio procederá a designar un interventor, que sólo tendrá las facultades necesarias para velar por el cumplimiento del contrato de concesión, siéndole aplicables las normas del veedor cuando actúa como interventor conforme a lo dispuesto en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas. Este interventor responderá de culpa leve.
+
+El Ministerio deberá proceder, además, a licitar públicamente y en el plazo de 180 días corridos, contado desde la declaración, el contrato de concesión por el plazo que le reste. Las bases de la licitación deberán establecer los requisitos que habrá de cumplir el nuevo concesionario. Al asumir el nuevo concesionario, cesará en sus funciones el interventor que se haya designado en virtud de lo dispuesto en el inciso anterior.
+
+La declaración de incumplimiento grave de las obligaciones del concesionario hará exigibles los créditos que se encuentren garantizados con la prenda establecida en el artículo 62 B de esta ley. Ellos se harán efectivos en el producto de la licitación con preferencia a cualquier otro crédito, siendo el remanente, si lo hubiere, de propiedad del primitivo concesionario.
+
+A falta de estipulación en contrario, todo lo edificado y plantado por el concesionario en el inmueble fiscal y todas las mejoras que le hubiere efectuado, pasarán a dominio fiscal, sin indemnización alguna, una vez extinguida la concesión.
+
+En caso de inicio de un procedimiento concursal de liquidación del concesionario, el liquidador deberá proceder a subastar la concesión dentro del más breve plazo posible. Para estos efectos, las bases de la subasta de la concesión deberán respetar los términos, beneficios y condiciones del contrato de concesión primitivo. El Ministerio nombrará un representante para que, actuando coordinadamente con el Síndico y la Junta de Acreedores, vele por el cumplimiento de esta disposición.
+
+#### Artículo 62
+
+D.- El Fisco no responderá de los daños, de cualquier naturaleza, que con motivo de la ejecución de la obra o de la explotación de la misma, se ocasionaren a terceros después de haber sido celebrado el contrato de concesión, los que serán de cargo del concesionario.
+
+Todos los gastos que provengan de reparaciones, conservación, ejecución de obras y pagos de servicios, tales como agua potable, alcantarillado, electricidad, teléfono, gas y otros a que estén afectos los bienes entregados en concesión, serán de cargo exclusivo del concesionario.
+
+#### Artículo 63
+
+Las controversias o reclamaciones que se produzcan con motivo de la interpretación o aplicación del contrato de concesión o a que dé lugar su ejecución, serán resueltas por un Tribunal Arbitral que estará integrado por un representante designado por el Ministro, un representante designado por el concesionario y un representante nombrado de común acuerdo entre las partes, quien lo presidirá. A falta de acuerdo, el Presidente del tribunal será designado por el Presidente de la Corte de Apelaciones de Santiago.
+
+Los integrantes del Tribunal deberán ser designados al inicio de la respectiva concesión, sin perjuicio de que puedan ser reemplazados cuando sea procedente, por quien o quienes los hayan designado. Dicho Tribunal Arbitral actuará siempre en calidad de árbitro arbitrador, de acuerdo a las normas establecidas en los artículos 636 y siguientes del Código de Procedimiento Civil, y sus integrantes deben tener título profesional universitario y los requisitos establecidos en el artículo 225 del Código Orgánico de Tribunales para tales árbitros.
+
+Los acreedores que hayan constituido a su favor la prenda establecida en el artículo 62 B de esta ley, serán admitidos en los procedimientos a que diere lugar el funcionamiento de este Tribunal, siempre que tuvieren interés y en calidad de terceros independientes.
+
+Solicitada la intervención del Tribunal, éste buscará la conciliación entre las partes. Si ésta no se produce en el plazo de 30 días, las partes podrán solicitar que se inicie el procedimiento correspondiente, disponiendo, en este caso, dicho órgano de un plazo de 30 días para fallar, contado desde la fecha de la solicitud. El fallo del Tribunal será apelable, conforme a las normas generales, ante la Corte de Apelaciones de Santiago.
+
+### Párrafo II
+
+De las afectaciones y desafectaciones de bienes nacionales
+
+#### Artículo 64
+
+Por decreto dictado a través del Ministerio podrán afectarse bienes inmuebles fiscales al uso público.
+
+Asimismo, por razones fundadas podrán desafectarse de su calidad de uso público determinados inmuebles. En estos casos, el decreto deberá ser firmado, además, por el Ministro de la Vivienda y Urbanismo o por el Ministro de Obras Públicas, según corresponda.
+
+#### Artículo 65
+
+Los terrenos desafectados en conformidad a lo dispuesto en el artículo precedente, así como los que perdieren su calidad de bienes nacionales de uso público con motivo de la aprobación o modificación de un plano regulador, se sujetarán, en cuanto a su administración y disposición, a las normas de la presente ley.
+
+### Párrafo III
+
+Del arrendamiento
+
+#### Artículo 66
+
+El uso y goce de bienes del Estado sólo se concederá a particulares mediante los respectivos contratos de arrendamiento, salvo las excepciones legales. Estos contratos se regirán especialmente por lo dispuesto en esta ley.
+
+#### Artículo 67
+
+La resolución o decreto que disponga el arrendamiento contendrá las cláusulas del contrato, el que se perfeccionará por el solo hecho de transcurrir quince días de su notificación al arrendatario sin que éste haya formulado reparos.
+
+En casos calificados y siempre que las circunstancias lo aconsejen, el decreto o resolución dispondrá la suscripción de un instrumento separado que contendrá las cláusulas del contrato.
+
+#### Artículo 68
+
+En todo contrato de arrendamiento se entenderán incorporados, sin necesidad de mención expresa, todos los derechos, obligaciones y prohibiciones establecidos en este párrafo y sus Reglamentos. En estos contratos se entenderá implícitamente reconocida por el arrendatario la facultad del arrendador de poner término anticipado al contrato en la forma, en los casos y demás circunstancias a que se refieren los artículos siguientes.
+
+En todo contrato de arrendamiento se podrá insertar cualquiera otra cláusula que se estime conveniente al interés fiscal.
+
+#### Artículo 69
+
+La renta anual mínima que podrá fijarse en el arrendamiento de bienes raíces fiscales no podrá ser inferior al 8% del avalúo vigente para el pago del impuesto territorial. Respecto de los bienes muebles, se determinará la renta anual a base del valor comercial fijado por la Dirección, no pudiendo ser inferior a un 10% de éste. En casos calificados o para regiones, áreas o zonas determinadas y por decreto fundado, podrán fijarse rentas inferiores.
+
+Establecida en la forma anterior, la renta de los bienes raíces se reajustará automáticamente desde el momento en que empiecen a regir los reavalúos que afecten a la propiedad, aplicándose siempre el porcentaje prefijado sobre el nuevo avalúo.
+
+El pago de las rentas de arrendamiento se estipulará por períodos anticipados y se efectuará dentro de los cinco primeros días de cada uno de ellos en el lugar que fije el decreto, resolución o contrato.
+
+#### Artículo 70
+
+Si el arrendatario no pagare puntualmente la renta fijada, se considerará en mora, para todos los efectos legales, sin necesidad de requerimiento judicial.
+
+Por todo el tiempo que dure el retardo, el arrendatario pagará las rentas insolutas reajustadas en la misma proporción en que haya variado el Indice de Precios al Consumidor entre el mes calendario anterior a aquel en que debió realizarse el pago, y el mes calendario anterior en que éste efectivamente se efectúe, y abonará el interés penal que fije el contrato.
+
+#### Artículo 71
+
+Toda mejora introducida por el arrendatario en la propiedad y que no deba quedar a beneficio del Fisco según las estipulaciones del contrato, responderá preferentemente al pago de las rentas de arrendamiento insolutas y demás prestaciones a que pueda estar obligado el arrendatario.
+
+#### Artículo 72
+
+Siempre que según el Servicio ello fuere conveniente para los intereses fiscales, la Dirección podrá convenir con los arrendatarios morosos fórmulas especiales de pago.
+
+#### Artículo 73
+
+La resolución de la Dirección, o copia autorizada de ésta, que declare terminado el arrendamiento, servirá de título ejecutivo para obtener el pago de deudas insolutas, contribuciones, intereses penales e indemnizaciones que se deban al Fisco por el ex arrendatario.
+
+#### Artículo 74
+
+Las rentas de arrendamiento de inmuebles fiscales a que se refiere la presente ley, serán calculadas y recaudadas por el Ministerio de Bienes Nacionales, en uso de sus facultades de administración, ingresando dichas rentas, así como sus respectivos reajustes e intereses, al presupuesto de ese Ministerio.
+
+#### Artículo 75
+
+El plazo de arrendamiento de los bienes raíces fiscales no podrá estipularse por períodos superiores a cinco años, tratándose de inmuebles urbanos, ni por períodos mayores de 10 años, si fueren rurales.
+
+No obstante, el Presidente de la República podrá arrendar los bienes raíces del Estado por un plazo de hasta 20 años, cuando se den en arrendamiento a instituciones educacionales, de beneficencia u otras personas y entidades públicas o jurídicas que las destinen a objetivos de interés nacional o regional.
+
+#### Artículo 76
+
+En todo caso, el Fisco deberá reservarse el derecho de poner término anticipado, en forma administrativa y sin responsabilidad para él, a todo contrato de arrendamiento, previo aviso de un período completo de pago.
+
+El arrendatario no podrá oponerse al desahucio ni alegar plazo alguno a su favor.
+
+La restitución se efectuará en la forma establecida en el inciso final del artículo 80.
+
+#### Artículo 77
+
+Antes del vencimiento del plazo por el que se hubiere concedido en arrendamiento un inmueble fiscal, podrá la Dirección acordar la prórroga del respectivo contrato por el término necesario para perfeccionar la compra de la propiedad. Lo anterior representa una facultad del Servicio que éste ejercerá cuando proceda y por un plazo que no podrá exceder de seis meses.
+
+#### Artículo 78
+
+No podrán cederse o transferirse a título alguno los contratos de arrendamiento de bienes fiscales ni introducirse mejoras, ni transferirse las mismas sin autorización previa de la Dirección.
+
+#### Artículo 79
+
+Ningún arrendatario podrá destinar la propiedad fiscal arrendada al negocio de bebidas alcohólicas, a casas de juego o cualquier otro objeto inmoral o ilícito.
+
+#### Artículo 80
+
+El incumplimiento de cualesquiera de las obligaciones o la infracción a las prohibiciones establecidas en el presente párrafo, en sus reglamentos o en el decreto, resolución o contrato respectivo, será causal suficiente para poner término anticipado e inmediato al arrendamiento, en forma administrativa y sin responsabilidad alguna para el Fisco.
+
+Corresponderá exclusivamente a la Dirección determinar, en cada caso, la concurrencia de los hechos o circunstancias constitutivas del incumplimiento o infracción a que se refiere el inciso anterior.
+
+La resolución respectiva será notificada al arrendatario en forma administrativa y le fijará un plazo prudencial, no inferior a treintas días, para la restitución del inmueble.
+
+El afectado podrá reclamar ante la Dirección la ilegalidad de la referida resolución, dentro de los diez días siguientes a la notificación. Si el reclamo fuere rechazado por la Dirección, notificado el rechazo, el afectado, dentro de los diez días siguientes, podrá recurrir de apelación para ante la Corte de Apelaciones de la jurisdicción en cuyo territorio se encontrare ubicado el inmueble. Este recurso no suspenderá el cumplimiento de la resolución impugnada, a menos que la Corte estime que hay motivos plausibles y fundados para disponer que no se innove mientras se resuelve definitivamente el asunto. Este recurso se verá y resolverá en cuenta, con el sólo mérito de los antecedentes que ésta estime necesarios tener a la vista.
+
+En estas gestiones el Fisco podrá actuar representado por abogados de la Dirección, sin perjuicio de las facultades que corresponden al Consejo de Defensa del Estado.
+
+Si vencido el plazo a que se refiere el inciso 3° o los que resulten de la interposición de la apelación a que alude el inciso 4°, el arrendatario no hubiere desalojado el inmueble arrendado, la Dirección solicitará su lanzamiento de acuerdo a lo dispuesto en el artículo 595 del Código de Procedimiento Civil.
+
+#### Artículo 81
+
+Sin perjuicio de lo dispuesto en los artículos 71 y 73, terminado el arrendamiento y no existiendo prestaciones a cargo del arrendatario, éste podrá llevarse los materiales concernientes a las mejoras que realizó, siempre que pueda separarlos sin detrimento del bien raíz materia del arrendamiento y que lo haga dentro del plazo que se le fije.
+
+#### Artículo 82
+
+Con excepción de las propiedades a que se refiere el artículo 41 de esta ley, se podrán dar en arrendamiento los demás inmuebles que el Fisco adquiera por expropiación, hasta que se destinen al fin para el que fueron expropiados.
+
+Estos arrendamientos se estipularán por períodos de un mes y en lo demás se regirán por este texto legal.
+
+## Título IV
+
+Disposición de Bienes del Estado.
+
+### Párrafo I — .
+
+De las ventas
+
+#### Artículo 83
+
+Los bienes del Estado sólo podrán enajenarse a título oneroso. Excepcionalmente podrán transferirse a título gratuito, siempre que se cumplan los requisitos establecidos en el Párrafo II de este Título.
+
+#### Artículo 84
+
+El Presidente de la República, a través del Ministerio, podrá vender directamente, como asimismo mediante subasta o propuesta pública o privada, los bienes fiscales que no sean imprescindibles para el cumplimiento de los fines del Estado, a personas naturales o jurídicas de derecho público o privado.
+
+#### Artículo 85
+
+El precio de venta de los bienes físcales no podrá ser inferior a su valor comercial, que será fijado por una Comisión Especial de Enajenaciones, previa tasación que deberá practicar la Dirección de Tierras y Bienes Nacionales. El precio se pagará al contado o en el plazo que se estipule.
+
+En este último caso, el saldo se reajustará de acuerdo a la variación que experimente el Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas entre el mes anterior a aquel en que se celebre el contrato respectivo y el mes anterior al de su pago efectivo, y devengará los intereses que se pacten. No obstante, el comprador podrá pagar anticipadamente el saldo con los reajustes e intereses devengados hasta entonces.
+
+Se podrán, además, fijar las condiciones y modalidades que se estimen adecuadas para cautelar el interés fiscal. Las respectivas escrituras de venta serán redactadas por la Dirección, sin perjuicio de lo dispuesto en el D.L. N° 965, de 1975.
+
+La composición de la Comisión a que se refiere este artículo será fijada por el Presidente de la República, a proposición del Ministerio.
+
+#### Artículo 86
+
+Los adquirentes de bienes raíces fiscales destinados a la habitación, que se vendan en conformidad a esta ley, podrá comprarlos mediante préstamos otorgados por las Asociaciones de Ahorro y Préstamo, de acuerdo con lo dispuesto en la ley N° 16.807. No regirá para estos efectos la condición impuesta al vendedor en el sentido de que el total de los préstamos hipotecarios le sean depositados en una cuenta especial, los cuales, en cambio, ingresarán a rentas generales de la Nación.
+
+### Párrafo II
+
+De las transferencias gratuitas.
+
+#### Artículo 87
+
+El Presidente de la República, por intermedio del Ministerio de Tierras y Colonización, podrá transferir inmuebles fiscales en forma gratuita a las entidades señaladas en el artículo 61 de este decreto ley.
+
+Estas transferencias se efectuarán por motivos fundados. El inmueble no podrá enajenarse antes de cinco años contados desde la respectiva inscripción de dominio en favor de la beneficiaria, salvo autorización del Ministerio.
+
+Estas transferencias estarán exentas de toda clase de impuesto.
+
+Si dentro del plazo señalado en este artículo, la adquirente no utilizare el inmueble para sus fines propios, acreditada administrativamente la infracción, el Fisco recuperará el dominio, mediante el procedimiento contemplado en el artículo 80, bastando el decreto que así lo declare para practicar las inscripciones que correspondiere en el Conservador de Bienes Raíces respectivo, cancelándose asimismo la inscripción de dominio de la entidad beneficiaria.
+
+#### Artículo 88
+
+Autorízase al Presidente de la República para que a través del Ministerio transfiera gratuitamente inmuebles fiscales rústicos o urbanos, a personas naturales chilenas, siempre que por sus antecedentes socio-económicos se justifique o se trate de casos contemplados en planes nacionales o regionales de este Ministerio.
+
+Podrán concederse también títulos gratuitos a personas jurídicas que no persigan fines de lucro, a fin de satisfacer en esta forma una necesidad de bien público.
+
+Los gastos que demande la aplicación del procedimiento señalado en el inciso anterior, determinados mediante resolución fundada, serán de costo del beneficiario, quien deberá enterarlos oportunamente en el Ministerio de Bienes Nacionales.
+
+Con todo, las personas que acrediten debidamente no contar con recursos suficientes, conforme lo establezca el reglamento de la presente ley, podrán optar a su financiamiento total o parcial, con cargo a los recursos públicos que se destinen al efecto.
+
+El Ministerio de Bienes Nacionales podrá recibir, de parte de las municipalidades y de entidades de derecho público o privado, los aportes suficientes para el financiamiento, total o parcial, de las acciones de apoyo y complementarias que implique el otorgamiento del título gratuito, y los consecuentes gastos de inscripción que el título ya otorgado requiera. Estos recursos serán empleados para el financiamiento de los casos señalados en el inciso anterior. La transferencia de estos aportes deberá realizarse mediante un convenio celebrado entre el aportante y el Secretario Regional Ministerial de Bienes Nacionales competente, en el marco de lo dispuesto en la legislación vigente.
+
+#### Artículo 89
+
+Sólo podrá otorgarse título gratuito de dominio a las personas en cuyo favor se hubiere extendido previamente una Acta de Radicación. En esta acta, junto con su vigencia, se señalarán las obligaciones a las cuales deberá someterse el postulante para obtener su título y el plazo dentro del cual deberá darles cumplimiento.
+
+El Acta de Radicación faculta al interesado para ocupar inmediatamente el inmueble y efectuar los trabajos e inversiones que correspondiere de acuerdo con la naturaleza del terreno.
+
+Una vez que el postulante haya dado oportuno y fiel cumplimiento a las obligaciones impuestas, podrá solicitar el otorgamiento del título gratuito de dominio.
+
+#### Artículo 90
+
+No podrán ser radicados ni optar a un título gratuito de dominio, las personas que sean dueñas, ellas o sus cónyuges, de otro bien raíz. Esta circunstancia se acreditará mediante la correspondiente declaración jurada.
+
+#### Artículo 91
+
+Las personas a quienes se les hubiere otorgado Acta de Radicación de terrenos fiscales, tendrán derecho a solicitar asistencia técnica y crediticia para construir o explotar el suelo, según corresponda. Las instituciones públicas o privadas podrán concederlas, siempre que los interesados reúnan las demás condiciones, aun en los casos en que las leyes o reglamentos exijan como requisito para estas operaciones que el interesado acredite ser dueño de dichos terrenos.
+
+#### Artículo 92
+
+Si el beneficiario de un Acta de Radicación no diere cumplimiento a las obligaciones impuestas, infringiere las prohibiciones que se le fijaren o destinare el inmueble a fines ilícitos o inmorales, la Dirección podrá declarar caducada la radicación con el solo mérito del informe de un funcionario competente, previa audiencia del afectado.
+
+Declarada la caducidad, el ocupante será considerado para todos los efectos legales como tenedor ilegal, y se procederá a la restitución del inmueble, de acuerdo con el procedimiento establecido en el artículo 19.
+
+Las mejoras introducidas en el inmueble quedarán a beneficio fiscal, salvo aquellas que puedan separarse sin detrimento y que sean retiradas en el plazo fijado.
+
+En ningún caso la caducidad del Acta dará derecho a solicitar del Fisco indemnización de perjuicios.
+
+#### Artículo 93
+
+El decreto que otorgue el título gratuito de dominio se notificará personalmente al beneficiario por la Oficina de Tierras y Bienes Nacionales que corresponda. Si éste no fuere habido, circunstancia que acreditará el funcionario a cargo de la diligencia, se entenderá hecha la notificación con la entrega de copia del decreto a una persona adulta que resida en el predio.
+
+En el plazo de 90 días contados desde la notificación, el interesado deberá aceptar el título gratuito de dominio y las obligaciones y prohibiciones contenidas en el decreto. La aceptación deberá efectuarse por instrumento otorgado ante funcionario competente de la Dirección.
+
+El interesado o el funcionario competente, con el mérito de la copia autorizada del decreto que conceda el título y de la aceptación, requerirá del Conservador de Bienes Raíces respectivo la inscripción de dominio a favor del beneficiario. Junto con practicar la inscripción, el Conservador de Bienes Raíces deberá archivar copia del decreto y de la aceptación.
+
+Si en el plazo señalado en el inciso segundo, el interesado no manifestare su voluntad de aceptar el título de dominio, el Ministerio podrá derogar, sin más trámite, el decreto que lo otorga.
+
+#### Artículo 94
+
+El decreto que confiera el título gratuito de dominio establecerá expresamente que si el beneficiario no cumpliere con las obligaciones que se le han impuesto bajo condición de caducidad, o infringiere las prohibiciones legales y reglamentarias, se podrá declarar la caducidad del título, conforme al procedimiento consignado en el artículo 80. Tal declaración sólo podrá efectuarse dentro de los cinco años contados desde la inscripción de dominio del beneficiario.
+
+Con el solo mérito de la copia autorizada del decreto, el Conservador de Bienes Raíces procederá a cancelar la inscripción existente en favor del beneficiario.
+
+La caducidad no afectará la validez de los derechos reales constituidos en favor de terceros.
+
+Lo establecido anteriormente es sin perjuicio de la aplicación de otras sanciones o el ejercicio por parte del Fisco de acciones o derechos que las leyes o reglamentos establezcan, o que se contemplen en el título.
+
+En los casos de caducidad o en que se deje sin efecto el título, el particular no tendrá derecho a indemnización de ninguna especie, y las mejoras que hubiere introducido en el inmueble quedarán a beneficio fiscal, salvo aquellas que se puedan retirar sin detrimento.
+
+La restitución del inmueble se solicitará de conformidad al procedimiento señalado en el artículo 19 de la presente ley.
+
+#### Artículo 95
+
+Los particulares que adquieran a título gratuito inmuebles fiscales, quedarán obligados a ceder gratuitamente al Fisco los terrenos necesarios para caminos, ferrocarriles, telégrafos y obras públicas en general, que la autoridad competente determine. Esta obligación subsistirá durante el lapso de 5 años, contados desde la inscripción de dominio.
+
+Los Conservadores de Bienes Raíces estarán obligados a inscribir de oficio este gravamen en el Registro correspondiente.
+
+#### Artículo 96
+
+Los terrenos adquiridos gratuitamente no podrán ser enajenados ni gravados mientras no haya transcurrido el plazo de 5 años contado desde la inscripción del dominio en el Conservador de Bienes Raíces.
+
+Con todo, por razones fundadas, el Director podrá autorizar la enajenación, en cuyo caso el particular que solicita la autorización deberá enterar en arcas fiscales los siguientes porcentajes calculados sobre el avalúo vigente del inmueble: el 80%, el 60%, el 40% y el 20%, si la petición la efectúa dentro del primero, segundo, tercero y cuarto año respectivamente, desde que inscribió el título de dominio del predio a su nombre.
+
+La resolución que concede la autorización, señalará la oportunidad en que deberá integrarse el dinero en arcas fiscales.
+
+Sin perjuicio de lo dispuesto en el inciso primero, podrán gravarse estos inmuebles por razones fundadas y previa autorización de la Dirección. No será necesaria esta autorización respecto de los que se constituyan en favor del Banco del Estado de Chile, de los bancos particulares, de la Corporación de la Reforma Agraria, del Instituto de Desarrollo Agropecuario, de la Corporación de Fomento de la Producción, de las Asociaciones de Ahorro y Préstamo y de otras instituciones fiscales o semifiscales, o creadas por ley y en las cuales el Estado tenga aporte de capital o representación.
+
+Mientras estén vigentes las prohibiciones mencionadas en el inciso primero, los inmuebles no serán embargables ni susceptibles de medidas precautorias sino por causa que provenga de obligaciones u operaciones autorizadas en conformidad a lo dispuesto en los incisos segundo y cuarto, por obligaciones que el adquirente o cesionario tenga para con el Fisco o que provengan de pensiones alimenticias decretadas judicialmente. La prohibición a que se refiere el inciso primero de este artículo deberá inscribirse de oficio por el Conservador al momento de requerirse la inscripción de la propiedad.
+
+#### Artículo 97
+
+Tratándose de transferencias gratuitas de predios rústicos fiscales, se requerirá un informe previo del Servicio Agrícola y Ganadero, el que deberá ser emitido dentro del plazo de 60 días contado desde que se le solicite y con anterioridad al otorgamiento del acta de radicación a que se refieren los artículos 89, 91 y 92 de esta ley. Si dentro de este lapso no se emitiere dicho informe, el Ministerio prescindirá de él. El referido dictamen tiene por objeto propender a que las hijuelas concedidas constituyan a lo menos unidades de producción mínimas con la superficie necesaria para que, dada su calidad, ubicación, clima y otras características, racionalmente trabajadas, permitan a un grupo familiar producir lo suficiente para subvenir a sus necesidades y asegurar un adecuado desarrollo del área rural.
+
+En zonas urbanas, deberá estipularse que el adquirente a título gratuito del inmueble fiscal se someterá a las normas legales y reglamentarias sobre construcción y urbanización. La superficie máxima no podrá ser superior a mil metros cuadrados, salvo que se trate de alguna de las entidades o personas jurídicas que señala el artículo 57. Deberá procurarse que estas transferencias constituyan un efectivo aporte al desarrollo habitacional y no podrá otorgarse más de un sitio a la misma persona, su cónyuge e hijos menores.
+
+#### Artículo 98
+
+La mujer casada se considerará separada de bienes en los términos del artículo 150 del Código Civil, para la adquisición, a título gratuito, de bienes raíces fiscales, rústicos o urbanos, y para su administración y disposición posterior.
+
+## Título V
+
+De las Derogaciones
+
+#### Artículo 99
+
+Deróganse todas las disposiciones actualmente vigentes sobre las materias a que se refiere el presente decreto ley, aplicables a través del Ministerio de Tierras y Colonización.
+
+La derogación anterior no afecta al decreto ley N° 1.113, de 1975, ni a las demás disposiciones legales vigentes que rijan la adquisición, administración y disposición de bienes para las Fuerzas Armadas, Carabineros de Chile e Investigaciones de Chile.
+
+## Título VI
+
+Del Registro de Contratistas y contratación de
+
+acciones de apoyo
+
+#### Artículo 100
+
+El Ministerio de Bienes Nacionales deberá establecer un Registro Nacional en el que se inscribirán las personas naturales o jurídicas que se interesen en realizar los trabajos de mensura, minuta de deslindes, confección de planos y demás trabajos topográficos que esa Secretaría de Estado requiera encomendar a ejecutores externos como acciones de apoyo para el ejercicio de sus potestades públicas contenidas en el presente decreto ley.
+
+Cualquier persona natural o jurídica podrá incorporarse a este Registro, siempre que cumpla con los requisitos técnicos, profesionales, de infraestructura, capacidad e idoneidad establecidos por el Ministerio de Bienes Nacionales para realizar los trabajos referidos en el inciso anterior. El Ministerio de Bienes Nacionales autorizará la incorporación al Registro mencionado por resolución fundada, una vez que haya verificado el cumplimiento de los requisitos exigidos. Dictada la referida resolución, el contratista deberá pagar, por única vez, el derecho de incorporación al Registro, el que deberá enterarse a favor del Ministerio de Bienes Nacionales. El monto del derecho deberá ser fijado por resolución fundada del mismo Ministerio, sobre la base de las acciones que éste deba ejercer para la incorporación del contratista al Registro y regular el funcionamiento del mismo, así como de las personas naturales y jurídicas inscritas en él.
+
+El Registro y su funcionamiento estarán bajo la superintendencia y fiscalización del Ministerio de Bienes Nacionales el cual, por medio del Secretario Regional Ministerial respectivo, podrá, en caso de incumplimiento, hacer efectivas las garantías que deberán constituir a su nombre los contratistas para garantizar el fiel y oportuno cumplimiento de sus obligaciones y eventuales daños materiales a terceros, como asimismo, aplicar alguna de las siguientes sanciones:
+
+- **a)** amonestación escrita;
+
+- **b)** multa de hasta 50 unidades tributarias mensuales;
+
+- **c)** suspensión hasta por un año, y
+
+- **d)** eliminación del Registro.
+
+El Ministerio de Bienes Nacionales deberá mantener un repertorio en el que deje constancia de la individualización de los contratistas, su comportamiento, actividades, y sanciones, así como de su incorporación y retiro del Registro, el que tendrá carácter público.
+
+> **Nota.** El artículo 16 de la LEY 20062, publicada el 29.10.2005, dispone que la modificación a la presente norma, comenzará a regir sesenta días después de su publicación.
+
+#### Artículo 101
+
+El Ministerio de Bienes Nacionales sólo podrá contratar con las personas naturales o jurídicas que se encuentren incorporadas en el Registro Nacional de Contratistas, los trabajos de mensura aludidos, y demás acciones de apoyo necesarias para el ejercicio de las potestades públicas que establece este cuerpo legal, conforme a las reglas generales de licitación pública, o licitación privada y trato directo, en su caso.
+
+En caso que no existieren oferentes inscritos para la ejecución de los trabajos o acciones de apoyo referidos en el presente decreto ley, el Ministerio de Bienes Nacionales podrá acudir a terceros para la ejecución de éstos, a través de las modalidades que indica la parte final del inciso anterior.
+
+> **Nota.** El artículo 16 de la LEY 20062, publicada el 29.10.2005, dispone que la modificación a la presente norma, comenzará a regir sesenta días después de su publicación.
+
+#### Artículo 102
+
+En todo aquéllo que fuere compatible, el Ministerio de Bienes Nacionales, en virtud de los principios de unidad de acción y coordinación de su gestión administrativa, deberá unificar el Registro Nacional que se establece y reglamenta en virtud de este decreto ley, con aquél que contempla el artículo 42, letra d), del decreto ley N° 2.695, de 1979.
+
+> **Nota.** El artículo 16 de la LEY 20062, publicada el 29.10.2005, dispone que la modificación a la presente norma, comenzará a regir sesenta días después de su publicación.
+
+Disposiciones Transitorias
+
+#### Artículo 1°
+
+Dentro del plazo de seis meses, contado desde la publicación de este decreto ley, podrán arrendarse los terrenos rústicos ubicados en la XII Región, conforme a las disposiciones del decreto ley N° 574, de 1974, a los guardadores y beneficiarios de permisos de ocupación, designados por la Dirección Regional de Tierras y Bienes Nacionales de la XII Región. Las ventas de estos terrenos a sus arrendatarios se someterán a las disposiciones de la ley N° 13.908 y su Reglamento.
+
+#### Artículo 2°
+
+Lo dispuesto en el inciso segundo del artículo 28 no regirá respecto de los ocupantes o arrendatarios cuya tenencia sea anterior a la vigencia del presente decreto ley.
+
+#### Artículo 3°
+
+Las enajenaciones de sitios fiscales comprendidos en poblaciones cuyos planos de loteamiento se hubieren aprobado en conformidad al decreto ley N° 574, de 1974, antes de la publicación del presente decreto ley, no se someterán a lo dispuesto en el inciso primero del artículo 14.
+
+#### Artículo 4°
+
+Otórgase el plazo fatal de 90 días a contar de la fecha de publicación de este decreto ley, para que las personas que pretendan derechos de dominio sobre los terrenos a que se refieren los artículos 211 y siguientes, y 351 y siguientes del decreto ley N° 574, de 1974, soliciten el reconocimiento de validez de sus títulos respecto del Fisco.
+
+El Ministerio otorgará un plazo no superior al señalado en este artículo, para que las personas que hubieren solicitado este reconocimiento con anterioridad, o sus sucesores, completen los antecedentes que les sean requeridos, para la decisión de su solicitud. Vencido este plazo se resolverán estas peticiones con los antecedentes que existan.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- José Berdichewsky Scher, General de Aviación, Comandante en Jefe de la Fuerza Aérea subrogante.- Lautaro Recabarren Hidalgo, General de Carabineros, Ministro de Tierras y Colonización.
