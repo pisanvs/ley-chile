@@ -1,0 +1,3 @@
+Por decreto MOP Nº355, de 26 de febrero de 1999, se expropió el lote de terreno Nº59 superficie 448 m2., rol de avalúo 2227-58 comuna de Osorno, para la obra Concesión Internacional Ruta 5, Tramo Río Bueno - Puerto Montt, Sector San Pablo - Osorno, Décima Región y se acordó el valor de indemnización con su propietaria Mila O. Figueroa Bartsch, ascendente a la cantidad de $365.149.-
+
+Fiscal del Ministerio de Obras Públicas.
