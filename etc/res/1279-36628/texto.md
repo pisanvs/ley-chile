@@ -1,0 +1,3 @@
+Por Resolución N° 1.279, de 29 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a FUNDACION CHINQUIHUE, R.U.T. N° 71.554.600-0, para iniciar actividades pesqueras, en orden a operar la planta ubicada en Camino a Chinquihue, Km. 12, Puerto Montt, donde podrá procesar, en la línea de elaboración de Congelado, los siguientes recursos hidrobiológicos: Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón rey, Trucha arcoiris.
+
+Valparaíso, 29 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
