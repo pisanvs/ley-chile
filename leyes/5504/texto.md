@@ -1,0 +1,1 @@
+Autoriza invertir, anualmente, la suma de $ 300,000, y durante el año 1934 la de $ 500,000 a fin de combatir las plagas que afecten a la fruticultura nacional y a la construcción de insectarios; y establece impuesto a las frutas secas y en conservas, y a las frescas que se exporten.
