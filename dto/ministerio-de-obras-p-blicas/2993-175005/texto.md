@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.993, de 28 de julio de 2000, se modificó el decreto MOP Nº2.913, de 30 de septiembre de 1999, que autorizó la expropiación entre otros del lote Nº20, para la obra Camino Ruta D-597, Monte Patria-Carén, Sector Juntas - Carén, Tramo Km. 8.260,00 a Km. 30.065,19 en la parte que se refiere al Nºde rol de avalúo del lote Nº20, por cuanto debe decir 252-26 y no 252-18, como allí se expresa. La publicación se efectúa en cumplimiento a lo dispuesto por el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
