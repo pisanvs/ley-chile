@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.263, de 31 de marzo de 2000, se expropió el lote de terreno Nº60, superficie 880 m2., rol de avalúo 214-8, comuna de Canela, para la obra Concesión Internacional Ruta 5, Tramo: Los Vilos - La Serena, Sector A: Bif. Illapel - Hornillos, Cuarta Región y se acordó el valor de indemnización con sus propietarios Exequiel Segundo Barraza Rojo y Otros, ascendente a la cantidad de $960.871.-
+
+Fiscal del Ministerio de Obras Públicas.
