@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.396, de 31 de mayo de 1999, se expropió el lote de terreno Nº 6, superficie 1.894 m2., rol de avalúo 2202-124, comuna de Chillán Viejo, para la obra ''Ruta 5 Tramo Talca - Chillán, sector Calle de Servicio Los Colihues'', Octava Región y se acordó el valor de indemnización con su propietario Ricardo Letelier Pardo, ascendente a la cantidad de $4.034.056.-
+
+Fiscal del Ministerio de Obras Públicas.
