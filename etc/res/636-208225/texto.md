@@ -1,0 +1,3 @@
+Por resolución Nº 636, de 3 de marzo de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 2.125 de 1999, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA EL GOLFO S.A. para operar la nave "Cobra", entre el paralelo 41°28,6' L.S. y el límite sur de la X Región, sobre el recurso Merluza de tres aletas, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 3 de marzo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
