@@ -1,0 +1,9 @@
+Excelentísimo Señor:
+
+Inmediatamente que recibí los oficios i providencias de V. E. relativas al nombramiento de Jenerales i demas disposiciones militares, hice convocar todos los Cuerpos de autoridad i representacion pública, civil, i Eclesiástica, i manifestándoles desde el primero sabio i prudentísimo oficio en que V. E. previene los perjuicios i disgusto jeneral por hallarse reunida la fuerza militar en una familia, hasta todas las posteriores providencias que se han dado a consecuencia de estos principios: ha sido tan jeneral, tan unánime, tan tierna, i tan enerjica la expresión de la voluntad de todos los Cuerpos, la tierna efusión de sus corazones, i la viveza i sentimiento con que ha derramado sus elojios i gracias hácia V. E., que siendo difícil explicarlas, solo hubiera deseado el que V. E. las presenciase. En consecuencia de ellas, esperan todos los cuerpos, por el honor i patriotismo que suponen en los Jefes que se han apartado del mando, que se consagran gustosísimos este heroico sacrificio a su Patria en que le hacen el mayor, i mas sólido servicio recibiendo en recompensa el aprecio de sus conciudadanos, i la segunda garantía de su indemnidad.
+
+Del mismo modo, convencidas las corporaciones de que la eleccion de los nuevos Jefes no puede ser, ni mas a gusto de la voluntad pública, ni mas conforme al distinguido mérito i patriotismo que han manifestado en la brillante carrera de sus gloriosas hazañas, desean, i piden a V. E. que en nombre de todos los Cuerpos públicos se digne felicitarles i asegurarles de la segura confianza con que todos esperan que bajo de sus auspicios correrán nuestras armas en las aras de la victoria al templo de la fama consiguiendo la felicidad interior i esterior del Estado.
+
+Dios guarde a V. E. muchos años;
+
+Santiago 4 de Diciembre de 1813.-Joaquin de Echeverría.-Excelentísimo Supremo Poder Ejecutivo del Estado.
