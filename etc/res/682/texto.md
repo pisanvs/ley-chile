@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución N° 682 de 11 de Junio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las siguientes autorizaciones, de conformidad a lo dispuesto en el artículo 7° del decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción: a) Resolución N° 40, de 1985, de esta Subsecretaría, que autorizó a don JOSE CORNELIO VALLEJOS AYALA, R.U.T. N° 5.504.978-5, domiciliado en calle Barros Luco N° 726, Antofagasta, para desarrollar actividades pesqueras en orden a operar la embarcación denominada "Galeón", en el litoral de la I y II Región. b) Resolución N° 767, de 1985, de esta Subsecretaría, que autorizó a don JOSE CORNELIO VALLEJOS AYALA, R.U.T. N° 5.504.978-5, domiciliado en calle Barros Luco N° 726, Antofagasta, para ampliar actividades pesqueras de extracción.
+
+Valparaíso, 11 de Junio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
