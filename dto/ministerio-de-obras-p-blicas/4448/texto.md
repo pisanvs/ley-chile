@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.448, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº21, para la obra Camino Long. Los Lagartos-El Molino, sector Cruce Long. Purísima, Kms. 0.00 al 4.390, que figura a nombre de Adriana Céspedes Muñoz, rol de avalúo en trámite, comuna de Teno, VII Región, superficie 14,40 M2. La comisión de peritos, fijó con fecha 7 de enero de 1997, en la cantidad de $43.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
