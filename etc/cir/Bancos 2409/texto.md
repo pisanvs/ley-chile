@@ -9706,9 +9706,11 @@ en lo posible, su plazo de vigencia no exceda mucho más de aquél en que deba
 
 cumplirse la finalidad para la cual fue otorgada.
 
-### 10. Boletas de garantía extendidas en términos reajustables
+10.- Boletas de garantía extendidas en términos reajustables.
 
-Los bancos pueden emitir boletas de garantía contra pagarés, en pesos moneda nacional sin reajustabilidad o reajustables por alguno de los sistemas de que trata el Capítulo II.B.3 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 7-1 de esta Recopilación. Tanto la boleta como el pagaré, cuando la emisión de aquélla se haga con financiamiento bancario, se extenderán con el mismo sistema de reajustabilidad. Si la emisión se realiza contra un depósito del tomador, este último, en caso que devuelva la boleta, podrá reclamar la reajustabilidad del depósito, solamente si éste ha cumplido a lo menos 30 ó 90 días desde la fecha de su entero, según se trate de una operación reajustable por la variación del tipo de cambio del dólar de los Estados Unidos de América o de otro sistema de reajuste, respectivamente, de conformidad con las normas del Banco Central de Chile sobre depósitos y captaciones reajustables. No obstante, el pago al beneficiario se hará siempre en términos reajustables, cuando sea esa la cláusula de pago, aún en el caso que no hubieran transcurrido 30 ó 90 días desde la emisión del documento, según corresponda.
+Los bancos pueden emitir boletas de garantía en moneda chilena sin reajustabilidad o reajustables por alguno de los sistemas de que trata el Capítulo II.B.3 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 7-1 de esta Recopilación.
+
+Si la emisión se realiza contra un depósito del tomador, este último, en caso que devuelva la boleta, podrá reclamar la reajustabilidad del depósito, solamente si éste ha cumplido a lo menos 30 ó 90 días desde la fecha de su entero, según se trate de una operación reajustable por la variación del tipo de cambio del dólar de los Estados Unidos de América o de otro sistema de reajuste, respectivamente, de conformidad con las normas del Banco Central de Chile sobre depósitos y captaciones reajustables. No obstante, el pago al beneficiario se hará siempre en términos reajustables, cuando sea esa la cláusula de pago, aún en el caso que no hubieran transcurrido 30 ó 90 días desde la emisión del documento, según corresponda.
 
 11.- Extinción de la boleta de garantía.
 
