@@ -1,0 +1,13 @@
+Por resolución Nº 1.599, de 24 de julio de 2000, de esta Subsecretaría, autorízase a la UNIVERSIDAD CATOLICA DEL NORTE, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Langostino colorado Pleuroncodes monodon (H. Milne Edwards, 1837) y Langostino amarillo Cervimunida johni Porter, 1903, por la flota artesanal en el área de reserva de la III Región'', elaborado por la señalada Universidad y aprobado por esta Subsecretaría.
+
+Los objetivos generales del proyecto son: a) evaluar la biomasa y abundancia de Langostino colorado y amarillo en el área de reserva artesanal de la III Región, ubicada entre las localidades de Caleta Pajonal (27°44' L.S.) y Pan de Azúcar (26°08' L.S.); y b) caracterizar la pesquería de ambos recursos, realizada por la flota artesanal arrastrera y trampera, en el área de reserva artesanal antes señalada.
+
+La pesca de investigación que se autoriza se efectuará a contar de las siguientes fechas: a) Para el Langostino colorado, desde la dictación de la presente resolución al 31 de diciembre de 2000, y b) Langostino amarillo, a partir de septiembre de 2000 al 31 de diciembre de 2000.
+
+En cumplimiento del objetivo de la pesca de investigación, la peticionaria podrá capturar un máximo de 200 toneladas, que se distribuirán de la siguiente forma: 120 toneladas de Langostino colorado y 80 toneladas de Langostino amarillo, capturas que quedarán a disposición de la solicitante luego de realizados los muestreos y registros biológicos correspondientes, imputándose éstas a la cuota anual de cada recurso.
+
+En la pesca de investigación participarán las siguientes embarcaciones artesanales que utilizarán red de arrastre de fondo y que deberán operar a partir de las 2 millas náuticas: Don Simón, Don José Miguel, Don Eleuterio, Chubasco, La Corbeta, Llauca I y María I, además de las siguientes embarcaciones artesanales con trampas: Mamita Delia, Carla Andrea, Maribel II, María Orcila, Diosa II, Cinthia y Verónica, Juan Antonio, María Fernanda, Pipo, Chelita, Teresita, María I, Nueva Alborada, Concanmar I, Vientos del Sur, Don Pedro III, Jacqueline, Doña Edelmira, Conconina, Fortuna, Santa Clara, Tom y Jerry, Angélica Z., Mamita Ofelia, Oso Yogui, Centurión y Sea Warrior.
+
+La Universidad designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Vicerrector de esa casa de estudios don Renzo Follegati Ghio.
+
+Valparaíso, 24 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
