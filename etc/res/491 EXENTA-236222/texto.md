@@ -1,0 +1,3 @@
+Por resolución exenta Nº 491, de 23 de febrero de 2005, de esta Subsecretaría, autorízase a PROCESADORA Y EXPORTADORA DE PESCADOS SOUTH TIDE LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Phillippi Nº 311, sector Caleta Portales, Valparaíso, V Región, en las líneas de elaboración Fresco enfriado, Fresco refrigerado y Congelado, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 23 de febrero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
