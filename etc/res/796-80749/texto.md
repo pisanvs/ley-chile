@@ -1,0 +1,5 @@
+Por Resolución No. 796, de 4 de Julio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA GRAN HORIZONTE S.A., R.U.T. No. 96.516.880-K, domiciliada en la ciudad de Santiago, calle Hendaya No. 312, Las Condes, para trasladar la planta industrial autorizada por Resoluciones No. 618, de 1988 y No. 1.240, de 1989, de esta Subsecretaría, desde su actual ubicación en localidad de Huito, Comuna de Calbuco, X Región, a la Comuna de Coronel, Barrio Industrial Escuadrón, en la VIII Región, donde continuará las actividades pesqueras autorizadas por las Resoluciones antes mencionadas.
+
+Deniégase la autorización solicitada por la peticionaria para ampliar las actividades extractivas de la nave Maracaibo, autorizada por las Resoluciones No. 1.456, de 1987, No. 1.240, de 1989 y No. 1.391, de 1990, de esta Subsecretaría, conforme a lo dispuesto en el Informe Técnico y en las normas legales y reglamentarias citadas en Vistos.
+
+Valparaíso, 4 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
