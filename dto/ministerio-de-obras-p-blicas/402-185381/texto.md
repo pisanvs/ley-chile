@@ -1,0 +1,3 @@
+Por decreto MOP Nº402, de 30 de marzo de 2001, se expropió el lote de terreno Nº42-A5, superficie 160 m², rol de avalúo 88-4, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K: Séptima Región y se acordó el valor de indemnización con su propietario Osvaldo Luis Valenzuela Bahamondes, ascendente a la cantidad de $1.164.513.
+
+Fiscal del Ministerio de Obras Públicas.
