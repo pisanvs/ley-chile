@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 212, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nº 89, 90 y 92, superficies 5.019 m2, 3.724 m2 y 1.021 m2, respectivamente, rol de avalúo 260-1, comuna de Fresia, X Región, para la obra "Camino Fresia-Parga-Llico-Las Cañitas, Rol V-46, Km. 14.835 al 48.580" y se acordó el valor de indemnización con su propietaria doña Ellimar Wittwer Niklittschek, ascendente a la cantidad de $2.646.206.-
+
+Fiscal del Ministerio de Obras Públicas.
