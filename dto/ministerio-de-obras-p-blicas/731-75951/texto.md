@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 731, de 31 de julio de 1997, se expropiaron los lotes de terreno Nºs. 33 y 56, superficies 863 y 720 M2., roles de avalúo 2589-32 y 2590-124, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, sector Las Acacias - Río Maipo y se acordó precio de indemnización con los propietarios Alicia del C. Arias Fuentes y Yuet Wong Chan, ascendente a las cantidades de $63.629.395, para el lote Nº 33 y $21.816.780, para el lote Nº 56.-
+
+Fiscal del Ministerio de Obras Públicas.
