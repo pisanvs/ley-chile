@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.590 de fecha 31 de octubre del 2002, se expropiaron los lotes de terreno Nºs 7-A, 7-B y 7-C, superficie 52, 167 y 246 m2, respectivamente, Rol Nº 2210-16, comuna de Chillán, VIII Región para la obra ''Camino Ruta N-45, Sector Cruce N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 0,00000 a Km. 5,88000'' y se acordó el valor de indemnización con su propietario Nelly Catalina Colvin Trucco y otros, ascendente a la cantidad de $2.244.090.-
+
+Fiscal del Ministerio de Obras Públicas.
