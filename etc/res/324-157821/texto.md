@@ -1,0 +1,5 @@
+AUTORIZA A DON RODRIGO ROBERTO CONTRERAS BELTRAN PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 324, de 10 de Junio de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Rodrigo Roberto Contreras Beltrán, RUT. 7.379.690-3, domiciliado en Diagonal Oriente No. 24, Concepción, para elaborar en la línea de congelado, en las instalaciones de Comercial Mesa S.A., Frigorífico Concepción, ubicadas en Las Heras 2241, Concepción, los siguientes recursos hidrobiológicos: albacora, atún aleta larga, cojinova del Norte, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado de ojos chicos, merluza común, merluza española, mero, pejegallo, pejerrey de mar, róbalo, sardina común, almejas, calamar, caracol trumulco, cholga, chorito, choro zapato, lapa, loco, macha, navajuela, jaiba, erizo, piure.
+
+Santiago, 10 de Junio de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
