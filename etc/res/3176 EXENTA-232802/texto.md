@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.176, de 4 de noviembre de 2004, de esta Subsecretaría, autorízase a CHILOEFISH S.A., para continuar desarrollando las actividades pesqueras de transformación autorizada mediante resolución Nº 2.036 de 2002, de esta Subsecretaría, a Dremers S.A., del mismo RUT y domicilio, en virtud de la escritura públicada citada en Visto y del contenido de la presente resolución.
+
+Valparaíso, 4 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
