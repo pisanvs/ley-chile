@@ -1,0 +1,3 @@
+Por resolución Nº 1.843, de 15 de septiembre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº97110093, presentada por HUMBERTO JOSE FISCHER LLOP, para operar un centro de cultivo ubicado en Isla Teresa, sector Puerto Lampazo, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 15 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
