@@ -1,0 +1,3 @@
+Por decreto MOP Nº 836, de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 12-A, superficie 612 m², rol de avalúo 5050-125, comuna de Punta Arenas, para la obra "Reposición Ruta 9 y Acc. Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819" y se acordó el valor de indemnización con su propietario don Miguel Angel Angelo Herrera, ascendente a la cantidad de $4.823.966.-
+
+Fiscal del Ministerio de Obras Públicas.
