@@ -1,0 +1,3 @@
+Por Resolución N° 748, de 26 de abril de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SAN JOSE S.A., R.U.T. N° 96.535.470-0, para continuar desarrollando las actividades pesqueras extractivas autorizadas a Pesquera Pacífico S.A., R.U.T. N° 96.512.240-0, por Resoluciones N° 904, de 1987, N° 348 y N° 719, ambas de 1993 y N° 918 de 1995, todas de esta Subsecretaría, en virtud de las Escrituras Públicas de Fusión y Disolución Social, de fechas 30 de noviembre y 15 de diciembre, ambas de 1995, otorgadas ante don Mario Farren Cornejo, Notario Público de Santiago.
+
+Valparaíso, 26 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
