@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 400, 22 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Pedro de Valdivia Nº 76, Rol de avalúo Nº 1102-00008, comuna Concepción, superficie 35,14 m2 de terreno, dentro polígono y linderos señalados plano expropiación S8R-1102-0008; de aparente dominio de Inmobiliaria General S.A., para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por Guillermo Orlando Villafañe Feres, arquitecto, Orlando Paredes Vásquez, ingeniero civil, y Omar Andrés Aspe Neira, constructor civil, según informe de fecha 5 de septiembre de 2003, fijó monto provisional indemnización en $2.165.350.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
