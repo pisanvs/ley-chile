@@ -1,0 +1,3 @@
+Por resolución Nº 375, de 11 de marzo de 1999, de esta Subsecretaría, rectifícanse las resoluciones Nº 1.946, Nº 1.947, Nº 1.948, Nº 1.949, Nº 1.950 y Nº 1.951, todas de 1998, de esta Subsecretaría, que otorgaron permisos extraordinarios de pesca para la unidad de pesquería del recurso Orange roughy en el sentido de señalar que la razón social de la titular de los citados permisos corresponde a PESQUERA FRIOSUR S.A.
+
+Valparaíso, 11 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
