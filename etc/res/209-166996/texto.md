@@ -1,0 +1,7 @@
+Por resolución No. 209 de 8 de Febrero de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, R.U.T. No. 81.518.400-9 domiciliada en Larrondo No. 1281, Coquimbo, para vender a Fundación Chile, R.U.T. No. 70.300.000-2, la cantidad de 8.000 semillas de abalón rojo, Haliotis rufescens, de su laboratorio de ambiente controlado autorizado en el numeral 3 de la resolución No. 157, de. 1984, de esta Subsecretaría.
+
+La Universidad Católica del Norte deberá velar por el cumplimiento, por parte de la Fundación Chile, de las obligaciones contenidas en el No. 5, de la resolución No. 157, de 1984, sin perjuicio de la obligación de esta última de cumplir con las exigencias técnicas que determine el Servicio Nacional de Pesca conforme al reglamento de control de enfermedades de peces de la familia salmonedae y otras especies hidrobiológicas.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 8 de Febrero de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
