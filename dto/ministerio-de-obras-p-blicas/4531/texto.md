@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.531, de 29 de septiembre de 2000, se expropió el lote de terreno Nº11, superficie 7911, superficie 803,90 M2., rol de avalúo 7911-11, comuna de Macul, para la obra Mejoramiento Zanjón de La Aguada III Tramo Kms. 4,408,86 al 10,167,10 y se acordó precio de la indemnización con su propietaria Empresa Metropolitana de Obras Sanitarias S.A. (Emos S.A.), ascendente a la cantidad de $25.471.072.-
+
+Fiscal del Ministerio de Obras Públicas.
