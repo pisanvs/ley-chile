@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.920, de 31 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 21-8 para la obra:
+
+"Sistema Norte - Sur. Tramo A: Río Maipo - Las Acacias. Sector: Km. 8.000,00 al Km. 8.900,00", Región Metropolitana, que figura a nombre de Milic Queirolo Duhav, rol de avalúo 1015-1 Provisional, comuna de San Bernardo, superficie 463 m². La comisión de peritos integrada por los señores Marlene Teresa Ríos Marcuello, Miguel Juan Fernández Cádiz y María Cristina Camus Palacios, fijó con fecha 31 de julio de 2002, el valor provisional de la indemnización en la cantidad de $15.144.000.- La indemnización se pagará al contado. La se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
