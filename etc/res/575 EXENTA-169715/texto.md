@@ -1,0 +1,5 @@
+DEJA SIN EFECTO CAMBIO DE SUJETO DEL IVA A SOC. FERIA AGRICOLA LINARES LTDA.
+
+La VII Dirección Regional Talca del SII, por resolución Nº Ex. 575 de 17.04.2000, deja sin efecto a contar del día siguiente al de la publicación de la presente resolución, a Soc. Feria Agrícola Linares Limitada, RUT Nº 82.304.700-2, la obligación establecida en la resolución Nº Ex. 860 del 25.06.1998 de la VII Dirección Regional, Talca, en conformidad a la resolución Nº Ex. 2.379 de 1998 y sus modificaciones posteriores, de la Dirección Nacional, que le dispuso el cambio de sujeto del IVA en las operaciones de ganado vivo, dejando de ocurrir las circunstancias que ameritaban la obligación. El peticionario deja de tener la calidad de retenedor del Impuesto al Valor Agregado en las operaciones de ganado vivo.-
+
+José A. Moretti Soto, Director Regional.
