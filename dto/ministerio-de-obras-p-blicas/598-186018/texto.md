@@ -1,0 +1,3 @@
+Por decreto MOP Nº 598 de fecha 30 de marzo del 2001, se expropió el lote de terreno único, superficie 117.706,71 m², rol de avalúo 250-3, comuna de Salamanca, para la obra "Proyecto Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias" y se acordó el valor de indemnización con su propietario Sociedad Agrícola y Ganadera Eduardo Suárez, Gerardo Flores y Compañía o Sociedad Agrícola y Ganadera Camisas y Compañía, ascendente a la cantidad de $36.369.455.-
+
+Fiscal del Ministerio de Obras Públicas.
