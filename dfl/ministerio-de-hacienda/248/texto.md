@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución, la internación de los elementos que indica y demás que sean indispensables para los servicios de aseo, agua potable, alumbrado público, mataderos y señalización de vías de tránsito, destinados a las Municipalidades del país.
