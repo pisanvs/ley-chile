@@ -1,0 +1,3 @@
+Por resolución Nº 1.266, de 31 de agosto de 1998, de esta Subsecretaría, autorízase a INTERCOMERCIAL SAMA S.A., para ampliar actividades pesqueras autorizadas por resoluciones Nº 554, de 1991, Nº 103 y Nº1.023, ambas de 1992 y Nº 322, de 1994, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Los Peumos Nº 535, Cerro Esperanza, Valparaíso, V Región, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Conserva, congelado y fresco-refrigerado: Loco y Pota del Atlántico.
+
+Valparaíso, 31 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
