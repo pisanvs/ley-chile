@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.707, de 30 de junio de 2000, se expropió el lote de terreno Nº1-D, superficie 201 m²., rol de avalúo 71-6, comuna de Quillón, para la obra Camino Ruta N-860, Sector Quillón - Cerro Negro, tramo Km. 0.000.00 a Km. 11.800.00 y se acordó precio de la indemnización con su propietario Víctor Manuel Hoffer Hoffer, ascendente a la cantidad de $373.841.
+
+Fiscal del Ministerio de Obras Públicas.
