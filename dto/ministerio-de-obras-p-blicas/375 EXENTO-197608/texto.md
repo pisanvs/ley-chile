@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº375, de 28 de marzo del 2002, se expropiaron los lotes de terreno Nºs. 150-1 y 150-2, superficies 1.289 y 1.012 m2, rol de avalúo 160-52, comuna de Ránquil, para la obra Camino Acceso Norte a Concepción, Kms. 25.480,00 al 25.760,00, Octava Región y se acordó el valor de indemnización con su propietaria Juana o Juana de Dios Soto Navarrete, ascendente a la cantidad de $1.595.614.- para los lotes Nºs. 150-1 y 150-2.-
+
+Fiscal del Ministerio de Obras Públicas.
