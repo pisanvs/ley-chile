@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.073, de 29 de abril de 1999, se expropiaron los lotes de terreno No. s.9-A, 19-E1, 19-E2, 26, 37 y 41, superficies 81, 63, 63, 330, 99,5 y 130 mý, respectivamente, roles de avalúo 2020-469 S/R y 2020-437, comuna de Melipilla, para la obra Camino Ruta G-668, sector El Molino-Codigua y se acordó precio de indemnización con sus propietarios Floridor Armijo Armijo, Nelson Catalán Larenas, Luis Catalán Larenas, José Farías Araos, Juan Maturana Lagos y Luis Cortés Campos, ascendentes a las cantidades de $ 478.048, $ 493.294, $ 493.294, $ 1.676.620, $ 532.381 y $ 776.705.-
+
+Fiscal del Ministerio de Obras Públicas.
