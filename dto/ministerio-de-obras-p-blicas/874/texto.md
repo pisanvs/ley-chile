@@ -1,0 +1,3 @@
+Por Decreto MOP Nº874 DE 28 de noviembre de 1996 se expropiaron los lotes de terrenos Nº4-B, Canal Matriz y Nº16 Variante El litre, superficies 6.229 y 7.555 m2,rol de avalúo 261-2 comuna de Tucapel, para la obra Proyecto Laja Diguillín Sectores Laja Huépil, Canal Matriz t Variante el Litre y se acordó precio de indemnización con su propietario Diego Hernán Cerda Molina ascendente a la cantidad de $2.846.748.-
+
+Fiscal del Ministerio de Obras Públicas.
