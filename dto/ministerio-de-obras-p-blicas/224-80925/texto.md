@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 224, de 24 de septiembre de 1991, se expropió el lote No. 1, superficie 11.516 M2, rol de avalúo 16462, Comuna de Santiago, para la obra Interconexión Vial Panamericana Sur por General Velásquez, sector Pedro Aguirre Cerda - Ochagavía y se acordó precio de indemnización con su propietaria Inmobiliaria San Jorge S.A. y Jorge Manzur Hasbún ascendente a la suma de $ 308.989.978.-
+
+Fiscal del Ministerio de Obras Públicas.
