@@ -1,0 +1,3 @@
+Por resolución Nº1.093, de 2 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 2º de la resolución Nº611, de 1991, de esta Subsecretaría, que autorizó a don RAUL LUIS REYES FIGUEROA, R.U.T. Nº8.323.387-7, domiciliado en Quintero, calle Baquedano Nº1288, para iniciar actividades pesqueras extractivas, en el sentido de señalar las actuales características náuticas de la embarcación "Reina Elena".
+
+Valparaíso, 2 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
