@@ -4708,190 +4708,6 @@ c) Avisos de convocatoria a junta de tenedores y copia del acta de la reunión.
 
 Toda entidad emisora de bonos deberá llevar un registro en el cual anotará todos los títulos de bonos que haya emitido, con indicación de su número, serie, valor y el nombre de la persona a quien pertenezca, en caso de tratarse de emisiones a la orden.
 
-CAPITULO 2-11 (Bancos y Financieras)
-
-MATERIA:
-
-ENTIDADES PUBLICAS AUTORIZADAS PARA INVERTIR EN INSTRUMENTOS DEL MERCADO DE CAPITALES.
-
-Las entidades públicas regidas por el D.L. N° 1.263, de Administración Financiera del Estado, tienen prohibición de efectuar inversiones en el mercado de capitales, a no ser que el Ministerio de Hacienda las autorice expresamente para ello.
-
-De conformidad con las autorizaciones que el referido Ministerio ha puesto en conocimiento de esta Superintendencia, las entidades públicas incluidas en el Anexo N° 1 adjunto quedan autorizadas, hasta la fecha que en cada caso se indica, para invertir sus excedentes estacionales de caja en depósitos o en otros instrumentos del mercado de capitales, sin necesidad de requerir en cada oportunidad la conformidad expresa del Ministerio correspondiente.
-
-ANEXO N°1
-
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
-
-INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
-
-- Agencia de Cooperación Internacional (AGCI)
-
-- Astilleros y Maestranzas de la Armada (ASMAR)
-
-- Carbonífera Victoria-Lebu S A (CARVILE)
-
-- Casa de Moneda de Chile
-
-- Centrales odontológicas de la Armada de Chile de Valparaíso, Viña del Mar y Talcahuano
-
-- Centro de Información de Recursos Naturales (CIREN)
-
-- Comando de Apoyo Administrativo del Ejército
-
-- Comando de Industria Militar e Ingeniería
-
-- ComercializadoradeTrigoSA (COTRISASA)
-
-- Comisión Nacional Investigaciones Científicas y Tecnológicas (CONICYT)
-
-- Corporación de Fomento de la Producción (CORFO)
-
-- Corporación de Investigación Tecnológica (INTEC-CHILE)
-
-- Corporación Nacional Forestal (CONAF)
-
-- Cuerpo Militar del Trabajo
-
-- Departamento Bienestar Dirección General de Aeronáutica Civil
-
-- Dirección de Aprovisionamiento del Estado (DAE)
-
-- Dirección de Bibliotecas, Archivos y Museos (DIBAM)
-
-- Dirección de Bienestar de Carabineros de Chile
-
-- Dirección de Previsión de Carabineros de Chile
-
-- Dirección de Sanidad de la Armada
-
-- Dirección General de Aeronáutica Civil
-
-- Dirección General de Crédito Prendario
-
-- Dirección General de Deportes y Recreación (DIGEDER)
-
-- Dirección General de Movilización Nacional
-
-- Dirección General de Territorio Marítimo
-
-- Empresa de Correos de Chile
-
-- Empresa Abastecimiento de Zonas Aisladas (EMAZA)
-
-- Empresa de Ferrocarriles del Estado
-
-- Empresa de Obras Sanitarias de Valparaíso S A (ESVAL S A)
-
-- Empresa de Servicios Sanitarios de Antofagasta S A (ESSAN S A)
-
-- Empresa de Servicios Sanitarios de Atacama S A (EMSSAT S A)
-
-- Empresa de Servicios Sanitarios de Aysén S A (EMSSA S A)
-
-- Empresa de Servicios Sanitarios de Coquimbo S A (ESSCO S A)
-
-- Empresa de Servicios Sanitarios de La Araucanía S A (ESSAR S A)
-
-- Empresa de Servicios Sanitarios de Los Lagos S A (ESSAL S A)
-
-- Empresa de Servicios Sanitarios de Magallanes S A (ESMAG S A)
-
-- Empresa de Servicios Sanitarios de Tarapacá S A (ESSAT S A)
-
-- Empresa de Servicios Sanitarios del Bio-Bio S A (ESSBIO S A)
-
-- Empresa de Servicios Sanitarios del Libertador S A (ESSEL S A)
-
-- Empresa de Servicios Sanitarios del Maulé S A (ESSAM S A)
-
-- Empresa de Transporte de Pasajeros Metro S A (METRO S A)
-
-- Empresa Eléctrica de Aysén S A (EDELAYSEN S A)
-
-- Empresa Metropolitana de Obras Sanitarias S A (EMOS S A)
-
-- Empresa Nacional de Aeronáutica (ENAER)
-
-- Empresa Nacional de Minería (ENAMI)
-
-- Empresa Nacional del Carbón S A (ENACAR)
-
-- Empresa Nacional del Petróleo (ENAP)
-
-- Empresa Periodística La Nación S A
-
-- Empresa Portuaria Antofagasta
-
-- Empresa Portuaria Arica
-
-- Empresa Portuaria Chacabuco
-
-- Empresa Portuaria Coquimbo
-
-- Empresa Portuaria de Chile (EMPORCHI)
-
-- Empresa ortuaria Iquique
-
-- Empresa Portuaria Puerto Montt
-
-- Empresa Portuaria San Antonio
-
-- Empresa Portuaria Talcahuano/San Vicente
-
-- Empresa Portuaria Valparaíso
-
-- Estado Mayor Fuerza Aérea de Chile
-
-- Fábrica y Maestranza del Ejército (FAMAE)
-
-- Fondo Nacional de Desarrollo Tecnológico y Productivo (FONTEC)
-
-- Imprenta de Carabineros de Chile
-
-- Instituto de Fomento Pesquero (IFOP)
-
-- Instituto Forestal (INFOR)
-
-- Instituto Nacional de Normalización (I N N)
-
-- Parque Metropolitano de Santiago Ministerio de Vivienda y Urbanismo
-
-- Polla Chilena de Beneficencia S A
-
-- Servicio Aerofotogramétnco de la Fuerza Aérea de Chile
-
-- Servicio de Bienestar Fuerza Aérea de Chile
-
-- Servicio de Bienestar Subsecretaría de Hacienda
-
-- Servicio de Bienestar de la Superintendencia de Bancos e Instituciones Financieras
-
-- Servicio de Bienestar de la Superintendencia de Valores y Seguros
-
-- Servicio de Bienestar del Magisterio
-
-- Servicio de Bienestar Social de la Armada
-
-- Servicio d Cooperación Técnica (SERCOTEC)
-
-- Servicio de Obras y Construcciones de la Armada
-
-- Sociedad Agrícola SACOR Ltda (SACOR LTDA)
-
-- Sociedad Agrícola y Servicios Isla de Pascua Ltda (SASIPA)
-
-- Subsecretaría de Telecomunicaciones
-
-- Subsecretaría de Vivienda Ministerio de Vivienda y Urbanismo
-
-- Superintendencia de Bancos e Instituciones Financieras
-
-- Transporte Marítimo Chiloé - Aysén S A (TRANSMARCHILAY S A)
-
-- Zona Franca Iquique S A (ZOFRIS A)
-
-- MUNICIPALIDADES (todas las Municipalidades del país).
-
 CAPITULO 2-12 (Bancos y Financieras)
 
 MATERIA:
@@ -9322,123 +9138,15 @@ b) Para registrar los créditos en cuentas de orden según lo indicado en el num
 
 CAPITULO 8-8 (Bancos y Financieras)
 
-MATERIA
+MATERIA:
 
-CREDITO A INSTITUCIONES PUBLICAS. AUTORIZACION DE LOS MINISTROS DE HACIENDA Y DE ECONOMIA, FOMENTO Y RECONSTRUCCION.
+CREDITO A EMPRESAS DEL ESTADO.
 
-Las empresas en que el Estado, directa o indirectamente, tiene una participación igual o superior al 50% del capital social, requieren, según las disposiciones del artículo 44° del D.L. N° 1.263, de 1975, complementado por el artículo 15° de la Ley N° 18.382, de la autorización previa de los Ministros de Hacienda y de Economía, Fomento y Reconstrucción para iniciar actos
+Las empresas en que el Estado, directa o indirectamente, tiene una participación igual o superior al 50% del capital social, requieren, según las disposiciones del artículo 44 del D.L. N° 1.263, de 1975, complementado por el artículo 15 de la Ley N° 18.382, de la autorización previa de los Ministros de Hacienda y de Economía, Fomento y Reconstrucción para iniciar actos administrativos que puedan comprometer el crédito público.
 
-administrativos que puedan comprometer el crédito público.
+No obstante lo anterior, en virtud de lo dispuesto en el último inciso del artículo 11 de la Ley N° 18.196, las empresas que dependen o se relacionan con el Ejecutivo a través del Ministerio de Defensa Nacional, caso en el cual se encuentran las empresas Astilleros y Maestranzas de la Armada (ASMAR), Empresa Nacional de Aeronáutica (ENAER) y Fábrica y Maestranzas del Ejército (FAMAE), sólo requerirán autorización previa del Ministro de Hacienda para aquel efecto. Asimismo, en el caso de la Corporación Nacional del Cobre de Chile (CODELCO), la referida autorización debe ser otorgada por el Ministro de Hacienda, de acuerdo con lo prescrito en el D.L. N°1.350, de 1976, orgánico de esa Corporación.
 
-No obstante lo anterior, en virtud de lo dispuesto en el último inciso del artículo 11 de la Ley N° 18.196, las empresas que dependen o se relacionan con el Ejecutivo a través del Ministerio de Defensa Nacional, caso en el cual se encuentran las empresas Astilleros y Maestranzas de la Armada (ASMAR), Empresa Nacional de Aeronáutica (ENAER) y Fábrica y Maestranzas del Ejército (FAMAE), sólo requerirán autorización previa del Ministro de Hacienda para aquel efecto Asimismo, en el caso de la Corporación Nacional del Cobre de Chile (CODELCO), la referida autorización debe ser otorgada por el Ministro de Hacienda, de acuerdo con lo prescrito en el DL N° 1.350, de 1976, orgánico de esa Corporación.
-
-A fin de dar cumplimiento a las disposiciones indicadas, las instituciones financieras sólo podrán otorgar créditos a las empresas individualizadas en el Anexo N° 1 adjunto, cuando éstas demuestren contar con la autorización de que se trata, la que deberá quedar en poder del banco o sociedad financiera junto con los demás antecedentes del crédito, para las comprobaciones a que haya lugar.
-
-ANEXO N° 1
-
-1.- Empresas que requieren autorización del Ministro de Hacienda y de Economía, Fomento y Reconstrucción para solicitar créditos.
-
-- Carbonífera Victoria de Lebu S.A. (CARVILE S.A.)
-
-- Comercializadora de Trigo S.A. (COTRISA S.A.)
-
-- Empresa Almacenadora de Combustible Ltda. (EMALCO LTDA.)
-
-- Empresa de Abastecimiento de Zonas Aisladas (EMAZA)
-
-- Empresa de Correos de Chile,
-
-- Empresa de los Ferrocarriles del Estado.
-
-- Empresa de Obras Sanitarias de Valparaíso S.A.(ESVAL S.A.)
-
-- Empresa de Servicios Sanitarios de Antofagasta S.A. (ESSAN S.A.)
-
-- Empresa de Servicios Sanitarios de Atacama S.A. (EMSSAT S.A.)
-
-- Empresa de Servicios Sanitarios de Aysén S.A. (EMSSA S.A.)
-
-- Empresa de Servicios Sanitarios de Coquimbo S.A. (ESSCO S.A.)
-
-- Empresa de Servicios Sanitarios de La Araucanía S.A. (ESSAR S.A.)
-
-- Empresa de Servicios Sanitarios de Los Lagos S.A. (ESSAL S.A.)
-
-- Empresa de Servicios Sanitarios de Magallanes S.A. (ESMAG S.A.)
-
-- Empresa de Servicios Sanitarios de Tarapacá S.A. (ESSAT S.A.)
-
-- Empresa de Servicios Sanitarios del Bío-Bío S.A. (ESSBIO S.A.)
-
-- Empresa del Libertador S.A. (ESSEL S.A.)
-
-- Empresa de Servicios Sanitarios del Maulé S.A. (ESSAM S.A.)
-
-- Empresa de Transporte de Pasajeros Metro S.A. (METRO S.A.)
-
-- Empresa de Transporte Ferroviario S.A. (FERRONORS.A.)
-
-- Empresa Eléctrica Colbún Machicura S.A. (COLBUN S.A.)
-
-- Empresa Eléctrica de Aysén S.A. (EDELAYSEN S.A.)
-
-- Empresa Metropolitana de Obras Sanitarias S.A. (EMOS S.A.)
-
-- Empresa Nacional de Minería (ENAMI)
-
-- Empresa Nacional del Carbón S.A. (ENACAR S.A.)
-
-- Empresa Nacional del Petróleo (ENAP)
-
-- Empresa Periodística La Nación S.A.
-
-- Empresa Portuaria de Chile (EMPORCHI)
-
-- Ferrocarril de Arica a la Paz S.A. (FCALP S.A.)
-
-- Ferrocarril de Pasajeros S.A. (FERROPAS S.A.)
-
-- Ferrocarril del Sur S.A. (FERROSUR S.A.)
-
-- Ferrocarriles Suburbanos S.A. (FESUB S.A.)
-
-- Metro Regional de Valparaíso S.A. (MERVAL S.A.)
-
-- Isapre del Carbón S.A. (ISCAR S.A.)
-
-- Isapre Ferrosalud SA. (FERROSALUD S.A.)
-
-- Infraestructura y Tráfico Ferroviario S.A. (I.T.F. S.A.)
-
-- Inmobiliaria Nueva Vía S.A. (INVIA S.A.)
-
-- Petro Servicio Corp. S.A.
-
-- Polla Chilena de Beneficencia S.A.
-
-- Refinería de Petróleo Concón S.A. (R.P.C. S.A.)
-
-- Refinería de Petróleo S.A. (PETROX S.A.)
-
-- Sociedad Agrícola y Servicios Isla de Pascua Ltda. (SASIPA LTDA.)
-
-- Sociedad Agrícola Sacor Ltda. (SACOR LTDA.)
-
-- Sociedad Internacional Petrolera S.A. (SIPETROL S.A.)
-
-- Transporte Marítimo Chiloé-Aysén S.A.(TRANSMARCHILAY S.A.)
-
-- Zona Franca de Iquique S.A. (ZOFRI S.A.)
-
-2.- Empresas que sólo requieren autorización del Ministro de Hacienda para solicitar créditos.
-
-- Astilleros y Maestranzas de la Armada (ASMAR)
-
-- Empresa Nacional de Aeronáutica (ENAER)
-
-- Fábrica y Maestranzas del Ejército (FAMAE)
-
-- Corporación Nacional del Cobre de Chile (CODELCO CHILE).
+Atendido lo anterior, para celebrar contratos de crédito con alguna empresa en que participe el Estado, las instituciones financieras deberán obtener de su cliente una declaración escrita en el sentido de que la empresa cuenta con la autorización de que se trata o bien, de que no se encuentra dentro de aquellas sociedades a que se refieren las disposiciones legales antes mencionadas.
 
 CAPITULO 8-9 (Bancos y Financieras)
 
@@ -23308,11 +23016,7 @@ cubiertas por provisiones.
 
 - Alteración del valor de cotización bursátil de las acciones en un 20% o más sobre el promedio simple de las cotizaciones de los últimos 90 días calendario. De igual forma, deberán comunicarse, en el caso que lleguen a conocimiento de la administración, las transferencias de acciones efectuadas fuera de Bolsa a precios significativamente distintos de su valor libro.
 
-Conviene reiterar que los hechos mencionados precedentemente sólo se indican a vía de ejemplo, de manera que debe tenerse presente que cualquier otro que revista características similares a las indicadas debe considerarse igualmente como información esencial. Por otra parte, no se incluyen entre estos hechos, aquellos otros que derivan en publicaciones de conformidad con otras
-
-disposiciones legales, como es el caso, por ejemplo, de las situaciones previstas en los artículos 16, 118 ó 122 de la Ley General de Bancos.
-
-La calificación de la información ha sido entregada por la ley al criterio de la propia dirección o administración de la entidad, ya que a ella le corresponde determinar si un hecho o antecedente reúne las características fijadas por el legislador y actuar en consecuencia. Los hechos que constituyen información esencial deberán ser calificados por la gerencia general y comunicados a esta Superintendencia para su conocimiento, dentro del plazo señalado en el N° 5 de este Capítulo.
+La calificación de la información ha sido entregada por la ley al criterio del propio directorio o administración de la entidad, según corresponda, debiendo ellos determinar si un hecho o antecedente reúne las características fijadas por el legislador y actuar en consecuencia. Los hechos calificados como información esencial por el directorio o, a falta de éste, por la gerencia general, serán divulgados de acuerdo con lo indicado en el N° 4 de este Capítulo.
 
 ### 3. Excepción a la obligación de informar
 
@@ -23320,19 +23024,27 @@ La ley contempla como norma de excepción que, con la aprobación de las tres cu
 
 Sin perjuicio de lo expuesto, la norma legal dispone que las decisiones y acuerdos de esta naturaleza deben ser comunicadas a la Superintendencia al día siguiente hábil a su adopción.
 
-Además, es preciso señalar que una vez que se haya concretado la negociación pertinente, la institución deberá poner en conocimiento del público la información correspondiente.
+Además, es preciso señalar que una vez que se haya concretado la negociación pertinente, la institución deberá divulgar la información correspondiente.
 
 En todo caso, la ley contempla una responsabilidad específica para los directores que, dolosa o culpablemente, califiquen o concurran con su voto favorable a declarar como reservado un hecho o antecedente de los señalados, en los términos fijados en el artículo 55 de la Ley 18.045 ya citada.
 
-### 4. Cumplimiento de la obligación de informar
+4.- Cumplimiento de la obligación de informar.
 
-Los hechos o antecedentes que constituyan información esencial, deberán ponerse en conocimiento del público en forma sucinta, mediante un aviso que se publicará en el periódico en que se insertan las citaciones a Juntas de Accionistas o en el periódico en que se publique el balance tratándose de instituciones financieras que no se encuentren constituidas como sociedades anónimas. El aviso deberá tener una dimensión adecuada y escribirse con letra normalmente legible y en el contenido de la comunicación se indicará que se hace en virtud de lo establecido en los artículos 9° y 10 de la ley N° 18.045, y de que se trata de un hecho esencial respecto del emisor o de sus negocios.
+4.1.- Información a las Bolsas de Valores y a esta Superintendencia.
 
-Los hechos o antecedentes de que se trata, deberán ser también comunicados a las Bolsas de Valores y a los accionistas. A estos últimas se les informará de todos los hechos ocurridos en el ejercicio anterior con ocasión de la Junta Ordinaria que corresponda o de la Extraordinaria que haga sus veces.
+Los hechos o antecedentes que constituyan información esencial, serán comunicados a las Bolsas de Valores y a esta Superintendencia. Cuando se trate de un hecho esencial que tenga su origen en decisiones adoptadas por este mismo Organismo, sólo se enviará a esta Superintendencia una copia del texto de la comunicación entregada a las Bolsas de Valores.
 
-### 5. Información para esta Superintendencia
+4.2.- Información a los accionistas.
 
-Las instituciones financieras deberán enviar a este Organismo dos ejemplares o copias fotostáticas de la publicación que hubieren hecho de las informaciones esenciales a que se refieren estas normas. El plazo para cumplir dicho envío será de dos días hábiles bancarios, contados desde la fecha de la respectiva publicación. Por su parte, tal como se indica en el N° 3 precedente, cualquier decisión o acuerdo del directorio que otorgue el carácter de reservado a ciertos hechos o antecedentes, debe ser comunicado por escrito a este Organismo a más tardar al día hábil siguiente de su adopción.
+La información esencial deberá ser comunicada a los accionistas con ocasión de la Junta Ordinaria de Accionistas o de la Extraordinaria que haga sus veces, debiendo informarse todos los hechos ocurridos en el ejercicio.
+
+4.3.- Divulgación al público a través de los medios de comunicación.
+
+El Directorio de la institución financiera deberá decidir sobre la divulgación al público de la información de que se trata, a través de los medios de comunicación. No obstante, al tratarse de multas iguales o superiores al equivalente de UF 250 aplicadas por este Organismo, las instituciones financieras estarán obligadas a efectuar su publicación en el mismo periódico en que hacen las publicaciones a que se refiere el párrafo siguiente.
+
+Cualquier divulgación de información esencial en la prensa, se efectuará en el periódico en que se insertan las citaciones a Juntas de Accionistas o en el que se publique el balance tratándose de instituciones financieras que no se encuentren constituidas como sociedades anónimas. El aviso deberá tener una dimensión adecuada y escribirse con letra normalmente legible y en el contenido de la comunicación se indicará que se hace en virtud de lo establecido en los artículos 9° y 10 de la Ley N° 18.045, y de que se trata de un hecho esencial respecto del emisor o de sus negocios.
+
+Las instituciones financieras enviarán a esta Superintendencia un ejemplar o fotocopia de las publicaciones efectuadas en el periódico, dentro de los cuatro días hábiles bancarios siguientes a la fecha de la respectiva publicación.
 
 CAPITULO 18-11 (Bancos y Financieras)
 
