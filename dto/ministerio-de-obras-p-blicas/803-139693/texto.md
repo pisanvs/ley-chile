@@ -1,0 +1,3 @@
+Por decreto MOP Nº 803, de 31 de marzo de 1999, se expropiaron los lotes de terreno Nºs. 33 y 34, superficies 1.121 y 8.735 m2 respectivamente, roles de avalúo 602-85 y 602-86, comuna de San Ignacio, para la obra proyecto Laja Diguillín, Canal Matriz Sector Bulnes y se acordó precio de indemnización con su propietario Luis Pereira Sandoval, ascendente a la cantidad de $4.100.512.
+
+Fiscal del Ministerio de Obras Públicas.
