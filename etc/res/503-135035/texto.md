@@ -1,0 +1,13 @@
+Por resolución Nº 503, de 29 de marzo de 1999, de esta Subsecretaría, autorízase a INVERSIONES MULTISERVICE LIMITADA, para iniciar actividades pesqueras de transformación, en la forma y bajo las condiciones que a continuación se expresan.
+
+La peticionaria podrá instalar y operar una planta ubicada en Ruta 5 Sur, Km. Nº 1190, Nercón, comuna Castro, provincia de Chiloé, X Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Conservas, Semi-Conservas, Deshidratado: Cochayuyo; Congelado, Conservas, Semi-Conservas, Fresco-Refrigerado, Deshidratado, Salado, Seco-Salado, Ahumado: Acha, Cabrilla, Cabrilla común, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Chancharro, Dorado, Huaiquil o Corvinilla, Jurel, Lenguado de ojos chicos, Lisa, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Pejegallo, Pejerrey de mar, Puye, Raya, Reineta, Róbalo, Salmón del Atlántico, Salmón del Pacífico, Salmón plateado, Salmón rey, Sardina española, Sardina común, Sierra, Tollo, Trucha arcoiris o Cabeza de acero, Vieja o mulata, Abalón, Almeja o taca, Almeja, Calamar, Caracol caramujo, Caracol locate, Caracol palo palo, Caracol picuyo, Caracol piquilhue, Caracol real, Caracol rubio, Caracol tegula, Caracol trophon, Caracol trumulco, Culengue, Chocha, Cholga, Choro, Chorito, Navaja de mar o Huepo, Jibia, Lapa, Loco, Macha, Navajuela, Ostión del norte, Ostión del sur, Ostra chilena, Ostra del Pacífico, Pulpo, Camarón nailon, Camarón de río, Camarón ecuatoriano, Centolla, Centollón, Centollón del norte, Gamba, Jaiba, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba peluda o pachona, Jaiba reina, Jaiba remadora, Picoroco, Erizo, Pepino de mar, Piure, Piure del norte.
+
+La materia prima deberá provenir de pescadores artesanales e industriales debidamente autorizados.
+
+El recurso Camarón ecuatoriano deberá cumplir con las normas de importación aduanera y de sanidad que correspondan.
+
+Los recursos Salmón del Atlántico, Salmón del Pacífico, Salmón plateado, Salmón rey, Ostra chilena y Trucha arcoiris o Cabeza de acero, deberán provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
