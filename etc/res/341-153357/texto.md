@@ -1,0 +1,3 @@
+Por Resolución N° 341 de 23 de abril de 1986 de SERVIU Metropolitano, ordenóse expropiación, conforme DL N° 2.186 de 1978, inmueble ubicado en calle San Francisco N° 5509, presunto rol avalúos N° 5343-1, comuna San Miguel, aparentemente dominio Sucesión José Fernández Saldez. Comisión integrada por peritos Juan Pañella Casares, René Ureta Koster y Jorge Navarro Navarrete, arquitectos, según informe de noviembre de 1985, fijó monto provisional indemnización en $ 1.780.000.-, pagadera al contado.-
+
+Director SERVIU Metropolitano.
