@@ -1,0 +1,5 @@
+Por decreto MOP Nº80, de 19 de febrero de 2003 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº8-1 para la obra:
+
+"Concesión Internacional Sistema Oriente - Poniente. Zona Poniente: Petersen - Américo Vespucio. Tramo 8: de Km. 26.687,41 a Km. 30.345,94", Región Metropolitana, que figura a nombre de Guzmán Riesco Carlota y Otros, rol de avalúo 2899-75 en trámite, comuna de Renca, superficie 710 m2. La Comisión de Peritos, integrada por los señores Leonardo Arturo Bueno Ramos, Itsang Lu Chen y Ramón Enrique Domingo Labarca fijó, con fecha 26 de diciembre de 2002, el valor provisional de la indemnización en la cantidad de $5.024.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
