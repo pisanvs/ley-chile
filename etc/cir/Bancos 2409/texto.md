@@ -23378,213 +23378,37 @@ CAPITULO 13-15 (Bancos)
 
 MATERIA:
 
-UTILIZACION DE CREDITOS Y LINEAS DE CREDITO DEL EXTERIOR.
+UTILIZACION DE LINEAS DE CREDITO DEL EXTERIOR.
 
-### 1. Contratación de créditos y líneas de crédito
+### 1. Contratación de lineas de crédito
 
-Los bancos están facultados para contratar, sin autorización previa del Banco
+Los bancos están facultados para contratar, sin autorización previa del Banco Central de Chile, líneas de crédito en moneda extranjera con bancos del exterior.
 
-Central de Chile, líneas de crédito y créditos en moneda extranjera con bancos
+Los importes que los bancos giren con cargo a las referidas líneas de crédito deberán ser liquidados en el mercado cambiario formal, con excepción de aquellos recursos que se destinen a los usos que se indican en el N° 2 de este Capítulo.
 
-del exterior, los que deberán ser destinados a los fines que se indican en el N°
+2. Uso que se debe dar a las lineas de crédito del exterior para exceptuarlas de liquidación.
 
-2 de este capítulo.
+Los recursos provenientes de las líneas de crédito a que se refiere este capítulo, quedan exceptuados de la obligación de ser liquidados a moneda chilena, solamente cuando se destinen a los siguientes fines:
 
-### 2. Uso que se puede dar a los créditos y líneas de crédito del exterior
+a) Financiar importaciones de acuerdo con lo dispuesto en el número 3 de este Capítulo.
 
-Los recursos provenientes de los créditos y líneas de crédito a que se refiere
+b) Financiar exportaciones de conformidad con lo dispuesto en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en el Capítulo 14-3 de esta Recopilación Actualizada de Normas.
 
-este capítulo, deberán ser utilizados en las operaciones que a continuación se
+c) Financiar gastos locales correspondientes a importaciones de bienes de capital, de conformidad con lo dispuesto en el N° 4 de este capítulo.
 
-indican:
+d) Depositar en la cuenta especial a que se refieren la letra A) del Capítulo IV.E.2 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 13-8 de esta Recopilación de Normas, cuando se trate de recursos provenientes de obligaciones contraídas con anterioridad al 1° de febrero de 1983, incluidas las pactadas a partir de esa fecha con el objeto de efectuar el pago anticipado de aquéllas antes indicadas y excluidas las obligaciones con el exterior a que se refiere el N° 2 de la Circular Conjunta del 27 de junio de 1985 del Ministro de Hacienda, Ministro de Economía, Fomento y Reconstrucción y Presidente del Banco Central de Chile.
 
-2.1. Créditos y líneas de crédito contratados hasta un año plazo.
+e) Depositar en las cuentas especiales a que se refieren el Capítulo IV.D.2 del Compendio de Normas Financieras y el Capítulo 13-12 de esta Recopilación de Normas, cuando se trate de recursos provenientes de obligaciones contraídas con posterioridad al 31 de enero de 1983.
 
-2.1.1. Contratados antes del 1° de febrero de 1983.
+### 3. Financiamiento de Importaciones
 
-Los créditos y líneas de crédito hasta un año plazo, contratados antes del 1° de
+Los créditos que otorguen los bancos a las personas situadas en Chile, para financiar importaciones, serán pactados libremente con los respectivos usuarios pero, en todo caso, los términos que se acuerden deberán ser concordantes, en los casos que corresponda con las condiciones que haya autorizado el Banco Central de Chile en el respectivo Informe de Importación emitido, así como con los términos de las líneas de crédito utilizadas para su refinanciamiento.
 
-febrero de 1883, incluidos los contratados a partir de esa fecha con el objeto
+### 4. Financiamiento de gastos locales
 
-de efectuar el pago anticipado de aquéllos, excepto los señalados en el N° 3 de
+Los bancos pueden otorgar créditos en moneda extranjera para financiar los gastos locales que originen las importaciones de los siguientes bienes:
 
-este capítulo, sólo podrán destinarse a los siguientes fines:
-
-a) Otorgar préstamos de conformidad con las disposiciones contenidas en el
-
-Capítulo V.B.2 del Compendio de Normas Financieras y en el Capítulo 13-14 de
-
-esta Recopilación de Normas.
-
-b) Depositar en la cuenta especial a que se refieren la letra A) del Capítulo
-
-IV.E.2 del Compendio de Normas Financieras y el Capítulo 13-8 de esta
-
-Recopilación de Normas.
-
-c) Financiar exportaciones de conformidad con lo dispuesto en el Capítulo X del
-
-Compendio de Normas de Exportación y en el Capítulo 14-3 de esta Recopilación de
-
-Normas.
-
-d) Financiar importaciones de acuerdo con lo dispuesto en el numeral 5.1 de este
-
-capítulo.
-
-e) Financiar gastos locales correspondientes a importaciones de bienes de
-
-capital, de conformidad con lo dispuesto en el numeral 5.2 de este capítulo.
-
-2.1.2. Contratados desde el 1° de febrero de 1983 y no incluidos en el numeral
-
-2.1.1 precedente.
-
-Los créditos y líneas de crédito hasta un año plazo, contratados a contar del 1°
-
-de febrero de 1983 y que no hayan tenido por finalidad pagar anticipadamente
-
-otros créditos de esta especie contratados antes de esa fecha, sólo podrán
-
-destinarse a los siguientes fines:
-
-a) Otorgar préstamos de conformidad con las disposiciones contenidas en el
-
-Capítulo V.B.2 del Compendio de Normas Financieras y en el Capítulo 13-14 de
-
-esta Recopilación de Normas.
-
-b) Depositar a la vista o a plazo en bancos situados en Chile.
-
-c) Adquirir pagarés en dólares de la Tesorería General de la República, de
-
-acuerdo con lo dispuesto en el Capítulo III.B.1 del Compendio de Normas
-
-Financieras y en la Circular de esta Superintendencia N° 1.698-184 del 27 de
-
-agosto de 1980 y sus modificaciones.
-
-d) Adquirir pagarés en dólares del Banco Central de Chile, según las
-
-disposiciones contenidas en la Circular de esta Superintendencia N° 1.899-349
-
-del 28 de marzo de 1983.
-
-e) Vender las divisas al Banco Central de Chile con pacto de recompra, de
-
-conformidad con lo dispuesto en el Capítulo IV.E.1 del Compendio de Normas
-
-Financieras y en el Capítulo 13-6 de esta Recopilación de Normas.
-
-f) Depositar en las cuentas especiales a que se refieren el Capítulo IV.D.2 del
-
-Compendio de Normas Financieras y el Capítulo 13-12 de esta Recopilación de
-
-Normas.
-
-g) Financiar exportaciones según lo dispuesto en el Capítulo X del Compendio de
-
-Normas de Exportación y en el Capítulo 14-3 ya citado.
-
-h) Financiar importaciones de conformidad con las instrucciones contenidas en el
-
-numeral 4.1 de este capítulo.
-
-i) Financiar gastos locales correspondientes a importaciones de bienes de
-
-capital, según lo dispuesto en el numeral 4.2 de este capítulo.
-
-j) Otorgar créditos y líneas de crédito en moneda extranjera a empresas
-
-bancarias situadas en Chile, de acuerdo con lo señalado en el número 3 de este
-
-capítulo.
-
-k) Otorgar créditos y líneas de crédito a personas jurídicas situadas en Chile,
-
-pero únicamente como parte de un crédito mayor otorgado a dichas personas por
-
-grupos o consorcios de bancos extranjeros y siempre que tales recursos se
-
-ingresen al país de conformidad con las disposiciones vigentes, según lo
-
-dispuesto en el numeral 4.4 de este capítulo.
-
-2.2. Otros créditos y lineas de crédito del exterior.
-
-Los recursos provenientes de créditos y líneas de crédito contratados en el
-
-exterior, distintos de los señalados en el numeral 2.1 precedente, deberán ser
-
-utilizados en las siguientes operaciones:
-
-a) Financiar importaciones, de conformidad con lo dispuesto en el numeral 4.1 de
-
-este capítulo.
-
-b) Financiar exportaciones según lo dispuesto en el Capítulo X del Compendio de
-
-Normas de Exportación y en el Capítulo 14-3 de esta Recopilación de Normas.
-
-c) Financiar gastos locales correspondientes a importaciones de bienes de
-
-capital, según las instrucciones contenidas en el numeral 4.2 de este capítulo.
-
-d) Depositar en la cuenta especial a que se refiere la letra a) del Capítulo
-
-IV.E.2 del Compendio de Normas Financieras y el Capítulo 13-8 de esta
-
-Recopilación de Normas, siempre que se trate de obligaciones contraídas antes
-
-del 1° de febrero de 1983, incluidas las contratadas a partir de esa fecha con
-
-el objeto de efectuar el pago anticipado de aquéllas.
-
-### 3. Créditos y líneas de crédito a bancos situados en el país
-
-Los bancos pueden otorgar créditos y líneas de crédito en moneda extranjera a
-
-otros bancos situados en Chile, con cargo a los financiamientos externos de que
-
-trata este capítulo, para los fines que convengan las entidades otorgantes con
-
-los respectivos usuarios, pudiendo destinarse por lo tanto, a financiar en esas
-
-monedas determinado tipo de operaciones autorizadas por el Banco Central de
-
-Chile.
-
-### 4. Créditos a personas situadas en Chile distintas de los bancos
-
-Con cargo a los recursos externos de que se trata, los bancos pueden conceder
-
-créditos a personas situadas en Chile, para los siguientes fines:
-
-4.1. Financiamiento de importaciones:
-
-Los créditos que otorguen los bancos a las personas situadas en Chile, para
-
-financiar importaciones, serán pactados libremente con los respectivos
-
-usuarios,pero, en todo caso, los términos que se acuerden deberán ser
-
-concordantes con las condiciones que haya autorizado el Banco Central de Chile
-
-en el respectivo Informe de Importación emitido, así como con los términos de
-
-las líneas de crédito o créditos externos utilizados para su refinanciamiento.
-
-4.2. Financiamiento de gastos locales.
-
-Los bancos pueden otorgar créditos en moneda extranjera para financiar los
-
-gastos locales que originen las importaciones de los siguientes bienes:
-
-a) Bienes de capital (maquinaria, equipos) y sus repuestos, siempre que el valor
-
-de estos últimas no exceda al 10% de cada operación y que la compra haya sido
-
-contratada junto con la del bien a que se destinen.
+a) Bienes de capital (maquinaria, equipos) y sus repuestos, siempre que el valor de estos últimos no exceda al 10% de cada operación y que la compra haya sido contratada junto con la del bien a que se destinen.
 
 b) Embarcaciones.
 
@@ -23594,525 +23418,105 @@ d) Libros y Revistas.
 
 e) Animales reproductores, de pedigree y/o puros por cruza.
 
-4.2.1. Requisitos para cursar el crédito.
+4.1. Requisitos para cursar el crédito.
 
-Para cursar estos financiamientos, será necesario que se cumplan los siguientes
+Para cursar estos financiamientos de gastos locales, será necesario que se cumplan los siguientes requisitos:
 
-requisitos:
+a) Que el solicitante cuente previamente con el correspondiente Informe de Importación emitido por el Banco Central de Chile, en el que se contemple un plazo de pago para las mercaderías superior a un año.
 
-a) Que el solicitante cuente previamente con el correspondiente Informe de
+b) Que tanto el préstamo para financiar los gastos locales como la importación correspondiente, sean cursados por el mismo banco.
 
-Importación emitido por el Banco Central de Chile, en el que se contemple un
+c) Que el monto del crédito se destine exclusivamente al financiamiento de los gastos que demande en Chile el bien importado para el que fue solicitado.
 
-plazo de pago para las mercaderías superior a un año.
+Por otra parte, se procurará que el plazo convenido para la amortización de estos créditos, mantenga una adecuada relación con los vencimientos estipulados para la cobertura de la importación cuyos gastos se financien.
 
-b) Que tanto el préstamo para financiar los gastos locales como la importación
+4.2. Liquidación del crédito.
 
-correspondiente, sean cursados por el mismo banco.
+El importe en moneda extranjera de estos préstamos deberá ser liquidado en el mercado cambiario formal por la misma institución que los curse, al tipo de cambio vigente en la fecha de su liquidación.
 
-c) Que el monto del crédito se destine exclusivamente al financiamiento de los
+La compra resultante de la liquidación de las divisas correspondientes, será declarada al Banco Central de Chile en una Planilla de Operación de Cambios-Comercio Invisible-Ingresos, con el código que para ese rubro tenga establecido el Instituto Emisor.
 
-gastos que demande en Chile el bien importado para el que fue solicitado.
+4.3. Pago del préstamo.
 
-Por otra parte, se procurará que el plazo convenido para la amortización de
+Los deudores pueden adquirir en el mercado cambiario formal, sin necesidad de liquidarlas, las divisas necesarias destinadas a rembolsar al banco, en las fechas que corresponda, el importe parcial o total del préstamo obtenido.
 
-estos créditos, mantenga una adecuada relación con los vencimientos estipulados
+Para realizar esas ventas la empresa bancaria que intervenga en la operación deberá requerir del deudor una copia de la Planilla de Ingreso que acredite la liquidación en el mercado de cambios formal de las divisas del crédito para cuyo rembolso solicita la venta de la moneda extranjera. Esa copia deberá remitirse al Banco Central de Chile conjuntamente con la respectiva Planilla de Operación de Cambios emitida por el egreso causado por esta venta.
 
-para la cobertura de la importación cuyos gastos se financien.
+### 5. Financiamiento de exportaciones
 
-4.2.2. Liquidación del crédito.
+Los bancos podrán otorgar créditos con cargo a estos recursos del exterior, a personas situadas en Chile, para financiar exportaciones en las condiciones que acuerden con los respectivos exportadores, de conformidad con las normas contenidas en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales y en el Capítulo 14-3 de esta Recopilación de Normas.
 
-El importe en moneda extranjera de estos préstamos deberá ser liquidado en el
+### 6. Documentación de los créditos
 
-Mercado Bancario por la misma institución que los curse, al tipo de cambio
+Los créditos que los bancos otorguen de conformidad con las disposiciones de este capítulo, se documentarán mediante la aceptación de letras de cambio o suscripción de pagarés por parte del deudor.
 
-vigente en la fecha de su liquidación.
+### 7. Plazo de los créditos
 
-La compra resultante de la liquidación de las divisas correspondientes, será
+El plazo al que se otorguen los créditos antes mencionados, se pactará libremente entre los bancos y los respectivos usuarios, acorde en todo caso, cuando corresponda, con las condiciones autorizadas por el Banco Central de Chile.
 
-declarada al Banco Central de Chile en una Planilla de Operación de Cambios-
+### 8. Tasa de interés
 
-Comercio Invisible-Ingresos, con el código que para ese rubro tenga establecido
+La tasa de interés de los créditos de que se trata, se pactará libremente entre el banco acreedor y los usuarios, con sujeción, en todo caso, a la tasa máxima convencional para operaciones en moneda extranjera y a lo aprobado por el Banco Central de Chile, en los casos que así corresponda.
 
-el Instituto Emisor.
+### 9. Normas contables
 
-4.2.3. Pago del préstamo.
+La contabilización de las operaciones de que se trata, se realizará de la siguiente forma:
 
-Los deudores tienen acceso autorizado al mercado de cambios para adquirir las
+9.1. Obtención de las lineas de crédito del exterior.
 
-divisas necesarias destinadas a rembolsar al banco, en las fechas que
+Por el monto de la línea de crédito obtenida:
 
-corresponda, el importe parcial o total del préstamo obtenido.
+Debe: "Líneas de crédito del exterior", de la partida 9380.
 
-Para realizar esas ventas la empresa bancaria que intervenga en la operación
+Haber: "Responsabilidad por líneas de crédito del exterior" de la partida 9900.
 
-deberá requerir del deudor una copia de la Planilla de Ingreso que acredite la
+9.2. Utilización de lineas de crédito.
 
-liquidación en el mercado de cambios de las divisas del crédito para cuyo
+Las obligaciones derivadas de la utilización de créditos externos o de las líneas de crédito, serán registradas en la cuenta "Adeudado a bancos y corresponsales del exterior", cuyo saldo se demostrará en la partida 3505, 3510 ó 3555, según corresponda. En caso de que la obligación sea contraída con una oficina del mismo banco en el exterior, se registrará en la cuenta "Adeudado al exterior a oficinas del mismo banco", la que se demostrará en la partida 3515 ó 3560.
 
-rembolso solicita la venta de la moneda extranjera. Esa copia deberá remitirse
+Si las obligaciones son pagaderas por intermedio del Convenio de Créditos Recíprocos ALADI, serán registradas en la cuenta "Adeudado a bancos y corresponsales con rembolso a través de convenios ALADI", cuyo saldo se demostrará en la partida 3520 ó 3565, según proceda.
 
-al Banco Central de Chile conjuntamente con la respectiva Planilla de Operación
+9.3. Créditos para financiar importaciones.
 
-de Cambios emitida por el egreso causado por esta venta.
+Los créditos que se otorguen para financiar importaciones con cargo a los recursos de que se trata, serán registrados de conformidad con lo previsto en el Capítulo 15-1 de esta Recopilación.
 
-4.3. Financiamiento de exportaciones.
+9.4. Créditos para financiar exportaciones.
 
-Los bancos podrán otorgar créditos con cargo a estos recursos, a personas
+Los créditos que los bancos otorguen para financiar exportaciones, a personas situadas en Chile, serán registrados en la forma prevista en el Capítulo 14-3 de esta Recopilación de Normas.
 
-situadas en Chile para financiar exportaciones en las condiciones que acuerden
+9.5. Créditos para financiar gastos locales.
 
-con los respectivos exportadores, de conformidad con las normas contenidas en el
+Los préstamos para financiar gastos locales de las importaciones señaladas en el número 4 de este capítulo, se registrarán en la cuenta "Préstamos para gastos locales" de la partida 1110 ó 1205, según proceda.
 
-Capítulo X del Compendio de Normas de Exportación y en el Capítulo 14-3 de esta
+9.6. Intereses.
 
-Recopilación de Normas.
+Los intereses que se cobren por los créditos para importación otorgados a personas situadas en Chile, serán registrados en la forma señalada en el Capítulo 15-1 de esta Recopilación.
 
-4.4. Créditos sindicados.
+Los intereses que se cobren sobre los créditos que se otorguen para financiar gastos locales, serán registrados en la cuenta "Intereses ganados por préstamos para gastos locales" de la partida 7115.
 
-Los bancos pueden otorgar créditos o líneas de crédito, con cargo a los recursos
+Los intereses que se cobren sobre los financiamientos que se cursen para exportaciones, serán registrados de conformidad con lo previsto en el Capítulo 14-3 ya citado.
 
-de que se trata, a personas jurídicas establecidas en Chile, siempre que dichos
+Por otra parte, los intereses que los bancos paguen por las líneas de crédito del exterior a que se refiere este Capítulo, serán registrados en la cuenta "Intereses pagados por financiamientos externos", de la partida 5180 6 5185, según proceda.
 
-créditos formen parte de un financiamiento mayor, otorgado conjuntamente con dos
+9.7. Comisiones.
 
-o más bancos situados en el extranjero que constituyan para este fin un grupo o
+Las comisiones que se cobren a personas situadas en Chile por los financiamientos para importación que cursen, serán registradas en la forma prevista en el Capítulo 15-1 de esta Recopilación.
 
-consorcio de bancos.
+Las comisiones que los bancos deban pagar por las líneas de crédito del exterior, serán registradas en la cuenta "Comisiones pagadas por financiamientos del exterior", de la partida 5510.
 
-4.4.1. Ingreso y antecedentes de estos créditos.
+9.8. Créditos no pagados a su vencimiento.
 
-En atención a que las disposiciones contenidas en el Capítulo XXVI del Compendio
+Los créditos otorgados por los bancos con cargo a los recursos de que trata este Capítulo que no sean pagados a su vencimiento, serán traspasados a Cartera Vencida de conformidad con las normas generales vigentes sobre la materia.
 
-de Normas de Cambios Internacionales establecen, entre las condiciones que se
+### 10. Limites legales
 
-deben cumplir para el otorgamiento de esos créditos, que ellos se ingresen al
+Los préstamos que otorguen los bancos con los recursos del exterior a que se refiere este Capítulo, están afectos a los límites de crédito establecidos en el artículo 84 de la Ley General de Bancos.
 
-país de acuerdo con las normas vigentes, las instituciones bancarias deberán
+A su vez, las obligaciones que contraigan las empresas bancarias por la utilización de las líneas de crédito de que se trata, están afectas al límite establecido en el artículo 81 de la Ley General de Bancos.
 
-exigir de los usuarios, en los casos que corresponda, la pertinente autorización
+### 11. Información al Banco Central de Chile
 
-de ingreso otorgada por el Banco Central de Chile, para cursar estos créditos.
-
-Por otra parte, estos créditos se documentarán por los importes que la
-
-respectiva institución aportó al financiamiento total o en la forma, monto y
-
-plazos que estipulen las condiciones del contrato o convenio firmado entre el
-
-deudor y los bancos integrantes del grupo.
-
-De cualquier modo, el banco establecido en Chile, participante del
-
-financiamiento, deberá mantener en su poder los documentos en los que conste
-
-claramente el monto de su participación y condiciones, como plazo y tasa de
-
-interés del crédito otorgado y la finalidad del mismo.
-
-4.4.2. Recuperación de los créditos.
-
-Los bancos que participen junto a empresas bancarias del exterior en créditos
-
-sindicados a favor de personas jurídicas establecidas en Chile, distintas de
-
-bancos y sociedades financieras, tendrán acceso al mercado de divisas para
-
-recuperar la moneda extranjera correspondiente a los financiamientos cursados
-
-con cargo a su participación en esos créditos, solamente cuando dichos
-
-financiamientos correspondan a operaciones que, por su naturaleza, otorguen
-
-derecho para adquirir la moneda extranjera necesaria en el mercado de cambios.
-
-### 5. Documentación de los créditos
-
-Los créditos que los bancos otorguen de conformidad con las disposiciones de
-
-este capítulo, se documentarán mediante la aceptación de letras o suscripción de
-
-pagarés por parte del deudor.
-
-### 6. Plazo de los créditos
-
-El plazo al que se otorguen los créditos antes mencionados, se pactará
-
-libremente entre los bancos y los respectivos usuarios, acorde en todo caso,
-
-cuando corresponda, con las condiciones autorizadas por el Banco Central de
-
-Chile.
-
-### 7. Tasa de interés
-
-La tasa de interés de los créditos y líneas de crédito de que se trata, se
-
-pactará libremente entre el banco acreedor y los usuarios, con sujeción, en todo
-
-caso, a la tasa máxima convencional para operaciones en moneda extranjera y a lo
-
-aprobado por el Banco Central de Chile, en los casos que así corresponda.
-
-### 8. Normas contables
-
-La contabilización de las operaciones de que se trata, se realizará de la
-
-siguiente forma:
-
-8.1. Obtención de los créditos y lineas de crédito del exterior.
-
-8.1.1. Líneas de crédito.
-
-Debe: "Líneas de crédito del exterior", de la partida 9380 del formulario MB1.
-
-Haber: "Responsabilidad por líneas de crédito del exterior" de la partida 9900
-
-del mencionado formulario.
-
-8.1.2. Créditos externos y utilización de lineas de crédito.
-
-Las obligaciones derivadas de créditos externos o de la utilización de líneas de
-
-crédito, serán registradas en la cuenta "Adeudado a bancos y corresponsales del
-
-exterior", cuyo saldo se demostrará en la partida 3505, 3510 ó 3555 del
-
-formulario MB1, según corresponda. En caso que la obligación sea contraída con
-
-una oficina del mismo banco en el exterior, se registrará en la cuenta "Adeudado
-
-al exterior a oficinas del mismo banco", la que se demostrará en la partida 3515
-
-ó 3560 del formulario MB1.
-
-Si las obligaciones son pagaderas por intermedio del Convenio de Créditos
-
-Recíprocos ALADI, serán registradas en la cuenta "Adeudado a bancos y
-
-corresponsales con rembolso a través de convenios ALADI", cuyo saldo se
-
-demostrará en la partida 3520 ó 3565 del formulario MB1, según proceda.
-
-8.2. Créditos y líneas de crédito a bancos establecidos en el país.
-
-8.2.1. Líneas de crédito.
-
-Las líneas de crédito concedidas a bancos situados en Chile, serán registradas
-
-en las siguientes cuentas:
-
-Debe: "Líneas de crédito en moneda extranjera otorgadas a bancos del país", de
-
-la partida 9310 del formulario MB1.
-
-Haber: "Beneficiarios de líneas de crédito en moneda extranjera otorgadas a
-
-bancos del país", de la partida 9900 del formulario MB1.
-
-8.2.2. Por los créditos otorgados y la utilización de líneas de crédito.
-
-Los créditos otorgados a bancos situados en Chile, así como la utilización de
-
-líneas de crédito, serán registrados en la cuenta "Préstamos a bancos del
-
-país",cuyo saldo se demostrará en la partida 1120 ó 1215 del formulario MB1.
-
-8.3. Créditos a personas situadas en Chile distintas de bancos y sociedades
-
-financieras.
-
-Los créditos que los bancos otorguen a las personas situadas en Chile, se
-
-contabilizarán en la forma que a continuación se indica, según sea la finalidad
-
-para la cual hayan sido otorgados.
-
-8.3.1. Créditos para financiar importaciones.
-
-a) Apertura de la carta de crédito.
-
-Debe: "Deudores por cartas de crédito financiadas por el Banco", de la partida
-
-1615 del formulario MB1.
-
-Haber: "Cartas de crédito con financiamiento del Banco", de la partida 3615 del
-
-formulario MB1.
-
-b) Negociación de la carta de crédito.
-
-Debe: - "Anticipos para importación", de la partida 1125 del formulario MB1, en
-
-caso que el crédito otorgado sea hasta un año plazo, o bien,
-
-- "Créditos para importación", de la partida 1220 del formulario MB1, en caso
-
-que el crédito sea a un plazo superior a un año.
-
-- "Cartas de crédito con financiamiento del banco".
-
-Haber: - "Deudores por cartas de crédito financiadas por el Banco".
-
-- La cuenta que corresponda para registrar la obligación por el crédito externo
-
-o la utilización de la línea de crédito del exterior, de conformidad con lo
-
-indicado en el numeral 8.1.2 precedente. En caso que el banco hubiere obtenido
-
-previamente el desembolso de los créditos y líneas de crédito de que se trata y
-
-lo mantuviere en su poder, se acreditará la cuenta que corresponda por el giro
-
-de esos recursos.
-
-8.3.2. Créditos para financiar exportaciones.
-
-Los créditos que los bancos otorguen a personas situadas en Chile para financiar
-
-exportaciones, serán registrados en la forma prevista en el Capítulo 14-3 ya
-
-mencionado, de esta Recopilación de Normas.
-
-8.3.3. Créditos para financiar gastos locales.
-
-Los préstamos para financiar gastos locales de las importaciones señaladas en el
-
-numeral 4.2 de este capítulo, se registrarán en la cuenta "Préstamos para gastos
-
-locales" de la partida 1110 ó 1205 del formulario MB1, según proceda.
-
-8.3.4. Créditos sindicados.
-
-Los créditos que los bancos otorguen a personas situadas en Chile, como parte de
-
-un crédito mayor, en el que participen conjuntamente con un grupo o consorcio de
-
-bancos extranjeros, se registrarán de la siguiente forma:
-
-a) Por el compromiso o participación en el crédito sindicado.
-
-Una vez que el banco haya acordado su participación junto a un grupo o consorcio
-
-de bancos del exterior en un crédito a favor de personas jurídicas establecidas
-
-en Chile, registrará el compromiso contraído, hasta que se produzca su
-
-desembolso en las cuentas "Participación en créditos sindicados del exterior" y
-
-"Beneficiarios de participaciones en créditos sindicados del exterior", de las
-
-partidas 9310 y 9900 del formulario MB1, respectivamente.
-
-b) Por la utilización del crédito.
-
-Cuando se cursen estos créditos, el banco participante registrará la operación
-
-en la respectiva moneda extranjera, por el monto que a él le corresponde, en la
-
-cuenta "Préstamos sindicados del exterior" de la partida 1110 ó 1205 del
-
-formulario MB1, según corresponda.
-
-En caso que estos créditos se utilicen directamente en el financiamiento de
-
-importaciones o exportaciones, se contabilizarán en la forma prevista en los
-
-numerales 8.3.1 y 8.3.2 precedentes.
-
-8.4. Créditos y líneas de crédito recibidos de otros bancos del país.
-
-Los bancos situados en Chile receptores de los créditos y líneas de crédito a
-
-que se refiere el numeral 8.2 precedente, registrarán estas operaciones en la
-
-forma que a continuación se indica:
-
-8.4.1. Obtención de la línea de crédito.
-
-Debe: "Líneas de crédito obtenidas de otros bancos del país" de la partida 9380
-
-del formulario MB1.
-
-Haber: "Responsabilidad por líneas de crédito obtenidas de otros bancos del
-
-país", de la partida 9900 del mencionado formulario.
-
-8.4.2. Por la utilización de los créditos y líneas de crédito.
-
-Las obligaciones derivadas de los créditos o de la utilización de líneas de
-
-crédito obtenidas de otros bancos del país, se registrarán en la cuenta
-
-"Adeudado a bancos del país", cuyo saldo se demostrará en la partida 3410, 3415,
-
-3460 ó 3465 del formulario MB1, según corresponda.
-
-8.5. Intereses.
-
-Los intereses que los bancos cobren a otros bancos del país por créditos y
-
-líneas de crédito que les otorguen, serán registrados en la cuenta "Intereses
-
-ganados por créditos en moneda extranjera a bancos del país", la que se
-
-reflejará en la partida 7000 del formulario MB1 y 7115 del formulario MR1.
-
-Los intereses que cobren en moneda chilena por los créditos para importación
-
-otorgados a personas situadas en Chile, correspondientes al período comprendido
-
-entre la apertura y la negociación de la carta de crédito, se registrarán en la
-
-cuenta "Intereses ganados sobre cartas de crédito por negociar", de la partida
-
-7000 del formulario MB1 y 7125 del formulario MR1.
-
-Los intereses que se cobren en moneda extranjera, a partir de la fecha de
-
-negociación y por el plazo previsto en el Capítulo 15-4 de esta Recopilación de
-
-Normas, serán registrados en la cuenta "Intereses ganados por financiamientos
-
-para importación", la que se demostrará en la partida 7000 del formulario MB1 y
-
-7115 del formulario MR1.
-
-Los intereses que cobren sobre los créditos que otorguen para financiar gastos
-
-locales, serán registrados en la cuenta "Intereses ganados por financiamiento de
-
-gastos locales" de la partida 7000 del formulario MB1 y 7115 del formulario MR1.
-
-Los intereses que cobren sobre los financiamientos que cursen para
-
-exportaciones, serán registrados de conformidad con lo previsto en el Capítulo
-
-14-3 ya citado.
-
-Los intereses que cobren por los créditos sindicados, deberán registrarlos en la
-
-cuenta "Intereses ganados sobre créditos sindicados", de la partida 7000 del
-
-formulario MB1 y 7115 del formulario MR1.
-
-En caso que estos créditos se destinen directamente a financiar importaciones o
-
-exportaciones, los intereses se registrarán de acuerdo a lo señalado
-
-precedentemente para ese tipo de operaciones.
-
-Por otra parte, los intereses que los bancos paguen por los créditos y líneas de
-
-crédito del exterior a que se refiere este capítulo, serán registrados en la
-
-cuenta "Intereses pagados por financiamientos externos", cuyo saldo se
-
-demostrará en la partida 5000 del formulario MB1 y 5180 ó 5185 del formulario
-
-MR1, según proceda.
-
-A su vez, los intereses que los bancos deban pagar a otros bancos del país por
-
-el uso de créditos o líneas de crédito, serán registrados en la cuenta
-
-"Intereses pagados por financiamientos obtenidos en el país", la que será
-
-demostrada en la partida 5000 del formulario MB1 y 5165 del formulario MR1.
-
-8.6. Comisiones.
-
-Las comisiones que cobren por los financiamientos cursados a bancos del país, se
-
-registrarán en la cuenta "Comisiones ganadas por financiamientos en moneda
-
-extranjera a bancos del país", cuyo saldo se demostrará en la partida 7000 del
-
-formulario MB1 y 7530 del formulario MR1.
-
-Las comisiones que cobren a personas situadas en Chile por los financiamientos
-
-para importación que cursen, las registrarán en la cuenta "Comisiones ganadas-
-
-Cartas de Crédito", la que se demostrará en la partida 7000 del formulario MB1 y
-
-7515 del formulario MR1.
-
-Las comisiones que los bancos deban pagar por los créditos y líneas de crédito
-
-del exterior, serán registradas en la cuenta "Comisiones pagadas por
-
-financiamientos del exterior", cuyo saldo se demostrará en la partida 5000 del
-
-formulario MB1 y 5510 del formulario MR1.
-
-Las comisiones que deban pagar a otros bancas del país por créditos y líneas de
-
-crédito, se registrarán en la cuenta "Comisiones pagadas por financiamientos
-
-obtenidos en el país", la que será demostrada en la partida 5000 del formulario
-
-MB1 y 5505 del formulario MR1.
-
-8.7. Créditos no pagados a su vencimiento.
-
-Los créditos otorgados por los bancos que no sean pagados a su vencimiento,
-
-serán traspasados a Cartera Vencida de conformidad con las normas generales
-
-vigentes sobre la materia.
-
-8.8. Apertura de subcuentas.
-
-Los bancos podrán abrir las subcuentas que estimen necesarias para una mejor
-
-individualización de los distintos tipos de financiamientos.
-
-### 9. Límites legales
-
-Los préstamos que otorguen los bancos a otras empresas bancarias o a otras
-
-personas jurídicas situadas en Chile, están afectos a los límites de crédito a
-
-que se refiere el artículo 84 de la Ley General de Bancos.
-
-A su vez, las obligaciones que contraigan por los créditos y la utilización de
-
-las líneas de crédito de que se trata, están afectas al límite establecido en el
-
-#### Artículo 81
-
-de la Ley General de Bancos.
-
-### 10. Relación de operaciones activas y pasivas
-
-Las obligaciones y los créditos a que se refiere este capítulo, estarán sujetos
-
-a las normas sobre relación entre operaciones activas y pasivas a que se refiere
-
-el Capítulo 12-9 de esta Recopilación de Normas.
-
-### 11. Información a los usuarios de líneas de crédito
-
-Los bancos que otorguen líneas de crédito a instituciones bancarias del país y a
-
-otras personas jurídicas situadas en Chile, deberán informar periódicamente a
-
-los respectivos deudores acerca del movimiento registrado en la correspondiente
-
-cuenta y de los financiamientos vigentes. Esa información deberá entregarse por
-
-lo menos una vez al año y junto con enviarla, se requerirá la conformidad
-
-escrita del usuario, por los saldos vigentes.
-
-### 12. Información al Banco Central de Chile
-
-Los bancos deben enviar al Banco Central de Chile la información relativa a
-
-créditos y líneas de crédito externas, en los términos indicados en el Capítulo
-
-XXVI del Compendio de Normas de Cambios Internacionales.
+Los bancos deben enviar al Banco Central de Chile la información relativa a las líneas de crédito externas, en los términos indicados en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales.
 
 CAPITULO 13-16 (Bancos)
 
@@ -24556,179 +23960,39 @@ DEL COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES.
 
 ### 1. Personas que pueden operar
 
-Previa autorización del Instituto Emisor y de conformidad con las normas del
+Previa autorización del Instituto Emisor y de conformidad con las normas del Capítulo XIX del Título I del Compendio de Normas de Cambios Internacionales, las personas naturales o jurídicas, chilenas o extranjeras, con residencia y domicilio en el exterior, pueden realizar inversiones en Chile, con el producto en pesos moneda nacional de títulos de la deuda externa chilena que reúnan lo requisitos señalados en el N° 2 de este Capítulo.
 
-Capítulo XIX del Compendio de Normas de Cambios Internacionales, pueden realizar
-
-inversiones en Chile, con el producto en pesos moneda nacional de títulos de la
-
-deuda externa chilena que reúnan los requisitos señalados en el N° 2 de este
-
-capitulo, las personas naturales o jurídicas, chilenas o extranjeras, con
-
-residencia y domicilio en el exterior.
-
-No obstante lo señalado precedentemente, sólo podrán acogerse a las
-
-disposiciones del Anexo N° 2 "Aplicación de Títulos de Deuda Externa a la
-
-Capitalización de Sociedades de Inversiones Chilenas" del Capítulo XIX ya
-
-mencionado, las personas jurídicas con residencia y domicilio en el
-
-extranjero,constituidas y organizadas al amparo de la legislación de su país de
-
-origen, u organismos, entidades o agencias internacionales o gubernamentales o
-
-paragubernamentales que posean un patrimonio igual superior a US$ 5.000.000 o su
-
-equivalente en otras monedas extranjeras y que no estén, directa o
-
-indirectamente, controladas por personas de nacionalidad chilena o con
-
-residencia en Chile.
+No obstante lo señalado precedentemente, sólo podrán acogerse a las disposiciones del Anexo N° 2 "Aplicación de Títulos de Deuda Externa a la Capitalización de Sociedades de Inversiones Chilenas" del Capítulo XIX ya mencionado, las personas jurídicas con residencia y domicilio en el extranjero,constituidas y organizadas al amparo de la legislación de su país de origen, u organismos, entidades o agencias internacionales o gubernamentales o paragubernamentales que posean un patrimonio igual superior a US$ 5.000.000 o su equivalente en otras monedas extranjeras y que no estén, directa o indirectamente, controladas por personas de nacionalidad chilena o con residencia en Chile.
 
 ### 2. Requisitos que deben reunir los títulos
 
-Los títulos de deuda externa que originen la moneda chilena con la cual se
+Los títulos de deuda externa que originen la moneda chilena con la cual se realicen las inversiones de que se trata, deberán reunir los siguientes requisitos copulativos:
 
-realicen las inversiones de que se trata, deberán reunir los siguientes
+a) Debe tratarse de documentos en los que conste la existencia de una obligación expresada y pagadera en moneda extranjera en el exterior, cuyo plazo de vencimiento original o prorrogado, sea superior a 365 días.
 
-requisitos copulativos:
+b) Que hayan sido suscritos, en calidad de deudor directo, por el Fisco, Banco Central de Chile, entidades del sector público, Corporación de Fomento de la Producción (CORFO), empresas bancarias o sociedades financieras. Asimismo, puede tratarse de documentos suscritos, en calidad de deudor directo, por personas distintas a las señaladas precedentemente, siempre que hayan sido caucionados con anterioridad al 1° de julio de 1985, sin limitaciones de tiempo, caso,cantidad o persona determinada, por CORFO, empresas bancarias o sociedades financieras autorizadas para operar en el país.
 
-a) Debe tratarse de documentos en los que conste la existencia de una obligación
+Para estos efectos, se entenderán por entidades del sector público los servicios, instituciones y empresas a que se refiere la letra a) del artículo 2° de la Ley N° 18.233, incluida la Corporación Nacional del Cobre de Chile (Codelco), y las entidades indicadas en el artículo 11 de la Ley 18.196, excluido el Banco del Estado de Chile.
 
-expresada y pagadera en moneda extranjera en el exterior, cuyo plazo de
-
-vencimiento original o prorrogado, sea superior a 365 días.
-
-b) Que hayan sido suscritos, en calidad de deudor directo, por el Fisco, Banco
-
-Central de Chile, entidades del sector público, Corporación de Fomento de la
-
-Producción (CORFO), empresas bancarias o sociedades financieras. Asimismo, puede
-
-tratarse de documentos suscritos, en calidad de deudor directo, por personas
-
-distintas a las señaladas precedentemente, siempre que hayan sido caucionados
-
-con anterioridad al 1° de julio de 1985, sin limitaciones de tiempo,
-
-caso,cantidad o persona determinada, por CORFO, empresas bancarias o sociedades
-
-financieras autorizadas para operar en el país.
-
-Para estos efectos, se entenderán por entidades del sector público los
-
-servicios, instituciones y empresas a que se refiere la letra a) del artículo 2°
-
-de la Ley N° 18.233, incluida la Corporación Nacional del Cobre de Chile
-
-(Codelco), y las entidades indicadas en el artículo 11 de la Ley 18.196,
-
-excluido el Banco del Estado de Chile.
-
-Por otra parte, la calidad de garante de los títulos señalados precedentemente
-
-se acreditará, cuando proceda, con el respectivo título y, en el caso de
-
-créditos externos internados al amparo de los artículos 14, 15 ó 16 de la Ley de
-
-Cambios Internacionales o créditos asociados al D.L. N° 600, de 1974, y sus
-
-modificaciones,con la correspondiente inscripción en el Banco Central de Chile.
+Por otra parte, la calidad de garante de los títulos señalados precedentemente se acreditará, cuando proceda, con el respectivo título y, en el caso de créditos externos internados al amparo del Capítulo XIV del Compendio de Normas de Cambios Internacionales vigente antes del 19 de abril de 1990 o creditos asociados al D.L. N° 600 de 1974, y sus modificaciones, con la correspondiente inscripción en el Banco Central de Chile.
 
 ### 3. Firma de un convenio
 
-Las personas que deseen efectuar inversiones de conformidad con las
+Las personas que deseen efectuar inversiones de conformidad con las disposiciones del Capítulo XIX ya mencionado y con las instrucciones de este capítulo, antes de solicitar la autorización del Banco Central de Chile deberán suscribir un convenio ante Notario Público o ante quien haga sus veces, en calidad de acreedores actuales o potenciales del respectivo crédito, con el o
 
-disposiciones del Capítulo XIX ya mencionado y con las instrucciones de este
+los deudores del mismo, registrados como tales en el Instituto Emisor y, en su caso, con el o los garantes de la obligación que accedan a ello. En dicho convenio, sujeto a la condición de que la solicitud a que se refiere el N° 5 de este capítulo sea aprobada por el Banco Central de Chile, se deberá estipular lo siguiente:
 
-capítulo, antes de solicitar la autorización del Banco Central de Chile deberán
+a) Que el documento en el que conste el crédito será pagado en Chile, de inmediato y contra la entrega del mismo, al contado, con descuento o sin él, en pesos moneda corriente nacional; o,
 
-suscribir un convenio ante Notario Público o ante quien haga sus veces, en
+b) Que el título será sustituido por uno o más instrumentos ya sean escritura pública, letras de cambio, pagarés u otros efectos de comercio, los que podrán expresarse en pesos moneda corriente nacional o en Unidades de Fomento. Además se podrá pactar, optativamente, la modificación del monto de la deuda, de la tasa de interés, del plazo de vencimiento o de otras condiciones de la obligación.
 
-calidad de acreedores actuales o potenciales del respectivo crédito, con el o
+En el mismo convenio las partes deberán renunciar al acceso al mercado de divisas que les corresponda por el respectivo crédito y, cuando proceda, el deudor deberá comprometerse a devolver al Banco Central de Chile, con ocasión del pago o canje del título de deuda externa, el Certificado a que alude el Capítulo XIV del Compendio de Normas de Cambios Internacionales vigente antes del 19 de abril de 1990, para su inutilización o modificación según sea el caso. Dicha devolución se efectuará por intermedio del banco que actúe en calidad de mandatario, según se indica en el N° 4 de este capítulo.
 
-los deudores del mismo, registrados como tales en el Instituto Emisor y, en su
+Cuando el crédito que se conviene adquirir para el fin señalado corresponda aparte del monto de un título de deuda externa o bien, éste no sea transferible por simple entrega o endoso, deberá concurrir también a la celebración del convenio el o los acreedores registrados en el Banco Central de Chile. En caso de cesión parcial de un título, se deberá dejar constancia en el convenio que la parte no adquirida del crédito conservará, para todos los efectos, la fecha de contratación de la deuda, su perfil de vencimiento, la tasa de interés y demás condiciones estipuladas en el título.
 
-caso, con el o los garantes de la obligación que accedan a ello. En dicho
+Al celebrar el convenio de que se trata,las partes deberán tener presente, cuando proceda, que la subrogación o cambio de acreedor de los créditos externos internados de conformidad con las disposiciones del Capítulo XIV del Título 1 del Compendio de Normas de Cambios Internacionales, deben contar con la autorización previa de la Gerencia de Financiamiento Externo del Banco Central de Chile.
 
-convenio, sujeto a la condición de que la solicitud a que se refiere el N° 5 de
-
-este capítulo sea aprobada por el Banco Central de Chile, se deberá estipular lo
-
-siguiente:
-
-a) Que el documento en el que conste el crédito será pagado en Chile, de
-
-inmediato y contra la entrega del mismo, al contado, con descuento o sin él, en
-
-pesos moneda corriente nacional; o,
-
-b) Que el título será sustituido por uno o más instrumentos ya sean escritura
-
-pública, letras de cambio, pagarés u otros efectos de comercio, los que podrán
-
-expresarse en pesos moneda corriente nacional o en Unidades de Fomento. Además
-
-se podrá pactar, optativamente, la modificación del monto de la deuda, de la
-
-tasa de interés, del plazo de vencimiento o de otras condiciones de la
-
-obligación.
-
-En el mismo convenio las partes deberán renunciar al acceso al mercado de
-
-divisas que les corresponda por el respectivo crédito y, cuando proceda, el
-
-deudor deberá comprometerse a devolver al Banco Central de Chile, con ocasión
-
-del pago o canje del título de deuda externa, el Certificado a que alude el
-
-Capítulo XIV del Compendio de Normas de Cambios Internacionales, para su
-
-inutilización o modificación según sea el caso. Dicha devolución se efectuará
-
-por intermedio del banco que actúe en calidad de mandatario, según se indica en
-
-el N° 4 de este capítulo.
-
-Cuando el crédito que se conviene adquirir para el fin señalado corresponda
-
-aparte del monto de un título de deuda externa o bien, éste no sea transferible
-
-por simple entrega o endoso, deberá concurrir también a la celebración del
-
-convenio el o los acreedores registrados en el Banco Central de Chile. En caso
-
-de cesión parcial de un título, se deberá dejar constancia en el convenio que la
-
-parte no adquirida del crédito conservará, para todos los efectos, la fecha de
-
-contratación de la deuda, su perfil de vencimiento, la tasa de interés y demás
-
-condiciones estipuladas en el título.
-
-Al celebrar el convenio de que se trata,las partes deberán tener presente,
-
-cuando proceda, que la subrogación o cambio de acreedor de los créditos externos
-
-internados de conformidad con las disposiciones del Capítulo XIV del Compendio
-
-de Normas de Cambios Internacionales, deben contar con la autorización previa de
-
-la Gerencia de Financiamiento Externo del Banco Central de Chile.
-
-No se requerirá el convenio de que se trata, cuando el respectivo título de
-
-deuda externa haya sido suscrito por el Banco Central de Chile en calidad de
-
-deudor directo. En este caso el título será sustituido por uno o más pagarés o
-
-efectos de comercio según lo establecido en el Anexo N° 1 del Capítulo XIX ya
-
-mencionado.
+No se requerirá el convenio de que se trata, cuando el respectivo título de deuda externa haya sido suscrito por el Banco Central de Chile en calidad de deudor directo. En este caso el título será sustituido por uno o más pagarés o efectos de comercio según lo establecido en el Anexo N° 1 del Capítulo XIX ya mencionado.
 
 ### 4. Mandato irrevocable
 
@@ -24750,229 +24014,73 @@ solicitud de inversión.
 
 ### 5. Solicitud de inversión
 
-Las personas que deseen efectuar una inversión en Chile de conformidad con las
-
-disposiciones del Capítulo XIX ya mencionado y con las de este capítulo, deberán
-
-presentar una solicitud en tal sentido a la Dirección Internacional del Banco
-
-Central de Chile, debiendo indicar o acompañar los antecedentes que se señalan a
-
-continuación:
+Las personas que deseen efectuar una inversión en Chile de conformidad con las disposiciones del Capítulo XIX ya mencionado y con las de este capítulo, deberán presentar una solicitud en tal sentido a la Dirección Internacional del Banco Central de Chile, debiendo indicar o acompañar los antecedentes que se señalan a continuación:
 
 5.1. Para inversiones distintas a la capitalización de sociedades de inversión.
 
-a) Individualización del solicitante y, cuando corresponda, de el o los
+a) Individualización del solicitante y, cuando corresponda, de el o los mandatarios que actúen por cuenta del primero debiendo acompañar la documentación que acredite su representación;
 
-mandatarios que actúen por cuenta del primero debiendo acompañar la
+b) Actividad, objeto o giro, capital, volumen de operaciones, negocios que desarrolla en Chile o con alguna persona del país el solicitante, inversiones mantenidas en el país acogidas al D.L. 600, de 1974 y sus modificaciones, a los artículos 14, 15 ó 16 del D.S. N° 471, de 1977, del Ministerio de Economía, Fomento y Reconstrucción, al artículo 47 de la Ley Orgánica Constitucional del Banco Central de Chile o de conformidad con las disposiciones del Capítulo XIX de que se trata;
 
-documentación que acredite su representación;
+c) Individualización del título de deuda externa y del crédito al que corresponde, debiendo señalar si incluye el total, parte o el saldo del capital y, en caso que proceda, el monto de los intereses devengados, cuyo producto se destinará a la correspondiente inversión;
 
-b) Actividad, objeto o giro, capital, volumen de operaciones, negocios que
+d) Antecedentes que acrediten, cuando corresponda, que el título de deuda externa, cuenta con la garantía de CORFO o de una institución financiera que opere en el país;
 
-desarrolla en Chile o con alguna persona del país el solicitante, inversiones
+e) Solicitud al Banco Central de Chile para que cambie el acreedor del crédito,cuando corresponda;
 
-mantenidas en el país acogidas al D.L. 600, de 1974 y sus modificaciones, a los
+f) Detalle del destino que, directa o indirectamente, se dará a los recursos que serán invertidos en el país de conformidad con estas disposiciones, debiendo señalarse el plazo que se requiere para efectuar las operaciones que sea necesario realizar;
 
-artículos 14, 15 ó 16 de la Ley de Cambios Internacionales o de conformidad con
+g) Compromiso del solicitante en el sentido de que se obliga a obtener del Banco Central de Chile la autorización previa para cualquiera modificación que,directa o indirectamente pueda experimentar el destino de los recursos correspondientes a la inversión, durante el primer año contado desde la fecha en que ésta se materialice:
 
-las disposiciones del Capítulo XIX de que se trata;
+h) Individualización, objeto de giro, capital y volumen de operaciones de la entidad receptora de la inversión que se solicita realizar. Además se deberá indicar si la entidad receptora ya está constituida o si se constituirá especialmente con ese objeto. Asimismo, se deberá indicar si la referida entidades receptora de otros aportes de capital efectuados bajo el régimen de
 
-c) Individualización del título de deuda externa y del crédito al que
+inversión extranjera. Todo lo anterior, rige en caso que la correspondiente inversión se pretenda llevar a efecto por intermedio de una entidad residente en Chile;
 
-corresponde, debiendo señalar si incluye el total, parte o el saldo del capital
+i) Copias autorizadas ante Notario Público o ante quien haga sus veces, del convenio a que se refiere el N° 3 de este capítulo, en caso que proceda, y del mandato de que trata el N° 4 precedente; y,
 
-y, en caso que proceda, el monto de los intereses devengados, cuyo producto se
-
-destinará a la correspondiente inversión;
-
-d) Antecedentes que acrediten, cuando corresponda, que el título de deuda
-
-externa, cuenta con la garantía de CORFO o de una institución financiera que
-
-opere en el país;
-
-e) Solicitud al Banco Central de Chile para que cambie el acreedor del
-
-crédito,cuando corresponda;
-
-f) Detalle del destino que, directa o indirectamente, se dará a los recursos que
-
-serán invertidos en el país de conformidad con estas disposiciones, debiendo
-
-señalarse el plazo que se requiere para efectuar las operaciones que sea
-
-necesario realizar;
-
-g) Compromiso del solicitante en el sentido de que se obliga a obtener del Banco
-
-Central de Chile la autorización previa para cualquiera modificación que,directa
-
-o indirectamente pueda experimentar el destino de los recursos correspondientes
-
-a la inversión, durante el primer año contado desde la fecha en que ésta se
-
-materialice:
-
-h) Individualización, objeto de giro, capital y volumen de operaciones de la
-
-entidad receptora de la inversión que se solicita realizar. Además se deberá
-
-indicar si la entidad receptora ya está constituida o si se constituirá
-
-especialmente con ese objeto. Asimismo, se deberá indicar si la referida
-
-entidades receptora de otros aportes de capital efectuados bajo el régimen de
-
-inversión extranjera. Todo lo anterior, rige en caso que la correspondiente
-
-inversión se pretenda llevar a efecto por intermedio de una entidad residente en
-
-Chile;
-
-i) Copias autorizadas ante Notario Público o ante quien haga sus veces, del
-
-convenio a que se refiere el N° 3 de este capítulo, en caso que proceda, y del
-
-mandato de que trata el N° 4 precedente; y,
-
-j) Aceptación expresa, por parte del solicitante, de las disposiciones del
-
-Capítulo XIX ya mencionado y de las que establezca el Banco Central de Chile en
-
-la respectiva autorización, lo que deberá constar en la misma solicitud que se
-
-presente. Las referidas solicitudes podrán ser aprobadas por el Banco Central de
-
-Chile o rechazadas sin expresión de causa. En caso de aprobación, la inversión
-
-quedará sujeta a las condiciones que fije el Instituto Emisor en uso de sus
-
-atribuciones, pudiendo éstas ser coincidentes o no con las que hubiera
-
-solicitado el inversionista. Cuando sean diferentes, el solicitante deberá dar
-
-su aceptación expresa a las nuevas condiciones establecidas por el Banco Central
-
-de Chile.
+j) Aceptación expresa, por parte del solicitante, de las disposiciones del Capítulo XIX ya mencionado y de las que establezca el Banco Central de Chile en la respectiva autorización, lo que deberá constar en la misma solicitud que se presente. Las referidas solicitudes podrán ser aprobadas por el Banco Central de Chile o rechazadas sin expresión de causa. En caso de aprobación, la inversión quedará sujeta a las condiciones que fije el Instituto Emisor en uso de sus atribuciones, pudiendo éstas ser coincidentes o no con las que hubiera solicitado el inversionista. Cuando sean diferentes, el solicitante deberá dar su aceptación expresa a las nuevas condiciones establecidas por el Banco Central de Chile.
 
 5.2. Para capitalización de sociedades de inversión.
 
-Cuando los inversionistas se propongan capitalizar una sociedad de inversión
-
-sujeta a las normas contenidas en el Anexo N° 2 del Capítulo XIX ya
-
-mencionado,deberán presentar los antecedentes que a continuación se indican,
-
-según se trate de obtener una autorización provisoria o definitiva del Instituto
-
-Emisor, de conformidad con lo dispuesto en los N°s. 3 y 4 del referido Anexo:
+Cuando los inversionistas se propongan capitalizar una sociedad de inversión sujeta a las normas contenidas en el Anexo N° 2 del Capítulo XIX ya mencionado,deberán presentar los antecedentes que a continuación se indican, según se trate de obtener una autorización provisoria o definitiva del Instituto Emisor, de conformidad con lo dispuesto en los N°s. 3 y 4 del referido Anexo:
 
 5.2.1. Autorización provisional.
 
-a) Individualización de los inversionistas que suscribirán y pagarán el capital
-
-de la sociedad de inversiones y, cuando corresponda, del o de los mandatarios
-
-que actúen por cuenta de los primeros, debiendo acompañar la documentación que
+a) Individualización de los inversionistas que suscribirán y pagarán el capital de la sociedad de inversiones y, cuando corresponda, del o de los mandatarios que actúen por cuenta de los primeros, debiendo acompañar la documentación que
 
 acredite su representación;
 
-b) Información relativa a la actividad, objeto o giro, capital y patrimonio
-
-delos inversionistas. El capital y patrimonio deberán acreditarse mediante
-
-balanceo estado de situación, debidamente auditado, con una antigüedad no
-
-superior a noventa días a la fecha de la respectiva solicitud;
+b) Información relativa a la actividad, objeto o giro, capital y patrimonio delos inversionistas. El capital y patrimonio deberán acreditarse mediante balanceo estado de situación, debidamente auditado, con una antigüedad no superior a noventa días a la fecha de la respectiva solicitud;
 
 c) Proyecto de Estatutos de la sociedad de inversiones;
 
-d) La aceptación expresa, por parte de los solicitantes, de las disposiciones
+d) La aceptación expresa, por parte de los solicitantes, de las disposiciones del Capítulo XIX del Título I del Compendio de Normas de Cambios Internacionales y de su Anexo N° 2, como asimismo, de aquéllas que establezca la correspondiente autorización del Banco Central de Chile;
 
-del Capítulo XIX del Compendio de Normas de Cambios Internacionales y de su
+e) El prospecto que se proponen utilizar para promover la colocación de las acciones de la sociedad de inversiones; y
 
-Anexo N° 2, como asimismo, de aquéllas que establezca la correspondiente
-
-autorización del Banco Central de Chile; y,
-
-e) El prospecto que se proponen utilizar para promover la colocación de las
-
-acciones de la sociedad de inversiones.
+f) Información respecto a las inversiones que los solicitantes tengan en el país al amparo de las disposiciones del D.L. N° 600, de 1974 y sus modificaciones, o de los artículos 14, 15 ó 16 del D.S. N° 471, de 1977, del Ministerio de Economía, Fomento y Reconstrucción, al artículo 47 de la Ley Orgánica Constitucional del Banco Central de Chile o bajo las normas del Capítulo XIX de que trata este capítulo;
 
 5.2.2. Autorización definitiva.
 
-a) Individualización de los inversionistas que suscribirán y pagarán el capital
-
-de la sociedad de inversiones y, cuando corresponda, del o de los mandatarios
-
-que actúen por cuenta de los primeros, debiendo acompañar la documentación que
+a) Individualización de los inversionistas que suscribirán y pagarán el capital de la sociedad de inversiones y, cuando corresponda, del o de los mandatarios que actúen por cuenta de los primeros, debiendo acompañar la documentación que
 
 acredite su representación;
 
-b) Información relativa a la actividad, objeto o giro, capital y patrimonio
+b) Información relativa a la actividad, objeto o giro, capital y patrimonio delos inversionistas. El capital y patrimonio deberán acreditarse mediante el último balance o estado de situación, debidamente auditado, el que no deberá tener una antigüedad superior a noventa días a la fecha de la correspondiente solicitud;
 
-delos inversionistas. El capital y patrimonio deberán acreditarse mediante el
+c) Proyecto de los estatutos de la sociedad de inversión, el que deberá contener,a lo menos, las menciones señaladas en el Anexo N° 2 ya mencionado. Copia legalizada de los estatutos deberá enviarse al Banco Central de Chile, a más tardar dentro de 60 días contados desde la fecha de la autorización otorgada por el Instituto Emisor;
 
-último balance o estado de situación, debidamente auditado, el que no deberá
+d) La individualización de las personas que tendrán el carácter de representantes legales de la sociedad de inversiones;
 
-tener una antigüedad superior a noventa días a la fecha de la correspondiente
+e) Información respecto a las inversiones que los solicitantes tengan en el país al amparo de las disposiciones del D.L. N° 600, de 1974 y sus modificaciones, o de los artículos 14, 15 ó 16 del D.S. N° 471, de 1977, del Ministerio de Economía, Fomento y Reconstrucción o bajo las normas del Capítulo XIX de que trata este capítulo;
 
-solicitud;
+f) La individualización del o de los títulos de deuda externa que se aplicarán a la realización de las operaciones de que se trata, como asimismo, la indicación del capital e intereses de esos instrumentos que se destinarán a la inversión. También deberá incluirse, cuando proceda, la comprobación de la calidad de garante de la deuda y la solicitud para que se autorice el cambio de acreedor del crédito;
 
-c) Proyecto de los estatutos de la sociedad de inversión, el que deberá
-
-contener,a lo menos, las menciones señaladas en el Anexo N° 2 ya mencionado.
-
-Copia legalizada de los estatutos deberá enviarse al Banco Central de Chile, a
-
-más tardar dentro de 60 días contados desde la fecha de la autorización otorgada
-
-por el Instituto Emisor;
-
-d) La individualización de las personas que tendrán el carácter de
-
-representantes legales de la sociedad de inversiones;
-
-e) Información respecto a las inversiones que los solicitantes tengan en el país
-
-al amparo de las disposiciones del D.L. N° 600, de 1974 y sus modificaciones, o
-
-de los artículos 14, 15 ó 16 de la Ley de Cambios Internacionales o bajo las
-
-normas del Capítulo XIX de que trata este capítulo;
-
-f) La individualización del o de los títulos de deuda externa que se aplicarán a
-
-la realización de las operaciones de que se trata, como asimismo, la indicación
-
-del capital e intereses de esos instrumentos que se destinarán a la inversión.
-
-También deberá incluirse, cuando proceda, la comprobación de la calidad de
-
-garante de la deuda y la solicitud para que se autorice el cambio de acreedor
-
-del crédito;
-
-g) Copia autorizada ante Notario Público o ante quien haga sus veces, del
-
-convenio a que se refiere el N° 3 de este capítulo, en caso que proceda, el que
-
-estará sujeto a la aprobación del Instituto Emisor, y copia del mandato de que
-
-trata el N° 4 precedente, en el que se indicará que la inversión deberá
-
-efectuarse dentro del plazo de 60 días contados desde la respectiva autorización
+g) Copia autorizada ante Notario Público o ante quien haga sus veces, del convenio a que se refiere el N° 3 de este capítulo, en caso que proceda, el que estará sujeto a la aprobación del Instituto Emisor, y copia del mandato de que trata el N° 4 precedente, en el que se indicará que la inversión deberá efectuarse dentro del plazo de 60 días contados desde la respectiva autorización
 
 del Banco Central de Chile; y,
 
-h) La aceptación expresa de los solicitantes en el sentido de que se someten a
-
-las disposiciones del Capítulo XIX ya mencionado y de su Anexo N° 2, como
-
-asimismo, a las que establezca la correspondiente autorización del Banco Central
-
-de Chile.
+h) La aceptación expresa de los solicitantes en el sentido de que se someten a las disposiciones del Capítulo XIX ya mencionado y de su Anexo N° 2, como asimismo, a las que establezca la correspondiente autorización del Banco Central de Chile.
 
 ### 6. Cobro, canje o sustitución de títulos de deuda externa
 
@@ -25104,59 +24212,15 @@ respectiva autorización del Banco Central de Chile.
 
 ### 8. Devolución del Certificado al Instituto Emisor
 
-Tan pronto como se realice el pago en moneda chilena de un título de deuda
+Tan pronto como se realice el pago en moneda chilena de un título de deuda externa o éste sea canjeado por otros documentos pagaderos en dicha moneda, el deudor deberá cumplir el compromiso asumido en el convenio de que trata el número 3 de este capítulo, en el sentido de devolver al Banco Central de Chile,el Certificado a que se refiere el Capítulo XIV del Compendio de Normas de Cambios Internacionales vigente antes del 19 de abril de 1990. Esta devolución debe realizarse por intermedio de la institución que actúe en calidad de mandataria del inversionista.
 
-externa o éste sea canjeado por otros documentos pagaderos en dicha moneda, el
+9. Monto máximo del pago que se puede pactar con el deudor o en que se pueden ceder los nuevos instrumentos.
 
-deudor deberá cumplir el compromiso asumido en el convenio de que trata el
+El monto del pago que se convenga y reciba del deudor de un título de deuda externa o el que se obtenga de algún obligado al pago del crédito, no podrá ser,en ningún caso, superior al valor par de dicho documento a la fecha en que se efectúe su pago. A la misma cantidad máxima, queda sujeto el importe de los nuevos documentos que suscriba el deudor en caso que el título de deuda externa sea canjeado o sustituido por otros instrumentos. Asimismo, el precio al que los nuevos documentos sean cedidos a terceros o recibidos en pago o adquiridos, no podrá exceder de dicho precio máximo.
 
-número 3 de este capítulo, en el sentido de devolver al Banco Central de
+Para determinar el equivalente en pesos moneda nacional de los títulos de deuda externa, se considerará el saldo del capital más los intereses devengados hasta la fecha de la transacción en la respectiva moneda extranjera, multiplicado por el tipo de cambio a que se refiere el N° 6 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales.
 
-Chile,el Certificado a que se refiere el Capítulo XIV del Compendio de Normas de
-
-Cambios Internacionales. Esta devolución debe realizarse por intermedio de la
-
-institución que actúe en calidad de mandataria del inversionista.
-
-9. Monto máximo del pago que se puede pactar con el deudor o en que se pueden
-
-ceder los nuevos instrumentos.
-
-El monto del pago que se convenga y reciba del deudor de un título de deuda
-
-externa o el que se obtenga de algún obligado al pago del crédito, no podrá
-
-ser,en ningún caso, superior al valor par de dicho documento a la fecha en que
-
-se efectúe su pago. A la misma cantidad máxima, queda sujeto el importe de los
-
-nuevos documentos que suscriba el deudor en caso que el título de deuda externa
-
-sea canjeado o sustituido por otros instrumentos. Asimismo, el precio al que los
-
-nuevos documentos sean cedidos a terceros o recibidos en pago o adquiridos, no
-
-podrá exceder de dicho precio máximo.
-
-Para determinar el equivalente en pesos moneda nacional de los títulos de deuda
-
-externa, se considerará el saldo del capital más los intereses devengados hasta
-
-la fecha de la transacción en la respectiva moneda extranjera, multiplicado por
-
-el tipo de cambio a que se refiere el N° 6 del Capítulo I del Compendio de
-
-Normas de Cambios Internacionales.
-
-En todo caso, el adquirente de los nuevos documentos emitidos con motivo del
-
-canje o sustitución del título de deuda externa, podrá, a su vez, enajenarlos de
-
-conformidad con las normas generales de captación e intermediación financiera
-
-contenidas en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco
-
-Central de Chile.
+En todo caso, el adquirente de los nuevos documentos emitidos con motivo del canje o sustitución del título de deuda externa, podrá, a su vez, enajenarlos de conformidad con las normas generales de captación e intermediación financiera contenidas en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 ### 10. Obligación de la institución deudora de los títulos de deuda externa en
 
@@ -25184,33 +24248,11 @@ recursos de la deuda externa que se paga.
 
 ### 11. Acceso al diferencial cambiario
 
-Las obligaciones cuyos títulos sean objeto de las operaciones de que trata este
+Las obligaciones cuyos títulos sean objeto de las operaciones de que trata este capítulo, no tendrán acceso al beneficio del diferencial cambiario de que tratan el Capítulo XIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile vigente antes del 19 de abril de 1990 y el Capítulo 13-25 de esta Recopilación de Normas.
 
-capítulo, no tendrán acceso al beneficio del diferencial cambiario de que tratan
+### 12. Acceso al mercado de cambios formal para las inversiones realizadas
 
-el Capítulo XIII del Compendio de Normas de Cambios Internacionales del Banco
-
-Central de Chile y el Capítulo 13-25 de esta Recopilación de Normas.
-
-### 12. Acceso al mercado de cambios para las inversiones realizadas
-
-El Banco Central de Chile podrá autorizar el acceso al mercado de cambios de
-
-conformidad con las disposiciones del artículo 15 de la Ley de Cambios
-
-Internacionales, por las solicitudes de inversión que apruebe, siempre que así
-
-lo hubiere solicitado en forma expresa el inversionista. Este acceso será en
-
-esos casos, para transferir al exterior los capitales invertidos y las
-
-utilidades líquidas que ellos generen, siempre que se cumplan las condiciones de
-
-plazo de permanencia y demás requisitos que para el efecto se estipulan en el
-
-Capítulo XIX del Compendio de Normas de Cambios Internacionales del Banco
-
-Central de Chile.
+El Banco Central de Chile podrá autorizar el acceso al mercado cambiario formal de conformidad con las disposiciones del artículo 47 de la Ley Orgánica Constitucional antes mencionada, por las solicitudes de inversión que apruebe, siempre que así lo hubiere solicitado en forma expresa el inversionista. Este acceso será en esos casos, para transferir al exterior los capitales invertidos y las utilidades líquidas que ellos generen, siempre que se cumplan las condiciones de plazo de permanencia y demás requisitos que para el efecto se estipulan en el Capítulo XIX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
 13. Incumplimiento de las normas y condiciones a que está sujeta la inversión.
 
@@ -25260,35 +24302,15 @@ en el presente capítulo.
 
 ### 15. Instrucciones contables
 
-Las operaciones de que trata este capítulo serán registradas de la forma que se
-
-indica en este número. En todo caso estas instrucciones no son de aplicación
-
-para las sociedades financieras, salvo las del numeral 15.3, por cuanto ellas no
-
-están autorizadas para realizar las operaciones a que se refiere el presente
-
-capítulo, pudiendo intervenir solamente para dar cumplimiento a los pagos o
-
-canjes de títulos de deuda externa a su propio cargo.
+Las operaciones de que trata este capítulo serán registradas de la forma que se indica en este número. En todo caso estas instrucciones no son de aplicación para las sociedades financieras, salvo las del numeral 15.3, por cuanto ellas no están autorizadas para realizar las operaciones a que se refiere el presente capítulo, pudiendo intervenir solamente para dar cumplimiento a los pagos o canjes de títulos de deuda externa a su propio cargo.
 
 15.1. Operaciones por cuenta del inversionista.
 
-Los bancos que reciban mandatos de inversionistas para cobrar, canjear o
-
-sustituir títulos de deuda externa, registrarán esas operaciones de la siguiente
-
-forma:
+Los bancos que reciban mandatos de inversionistas para cobrar, canjear o sustituir títulos de deuda externa, registrarán esas operaciones de la siguiente forma:
 
 15.1.1. Recepción en cobro de títulos de deuda externa.
 
-Estos títulos serán registrados en la moneda en que estén expresados, en la
-
-cuenta "Títulos deuda externa recibidos en cobranza" con abono a la cuenta
-
-"Depositantes de títulos deuda externa en cobranza", de las partidas 9280 y 9900
-
-del formulario MB1, respectivamente.
+Estos títulos serán registrados en la moneda en que estén expresados, en la cuenta "Títulos deuda externa recibidos en cobranza" con abono a la cuenta "Depositantes de títulos deuda externa en cobranza", de las partidas 9280 y 9900 del formulario MB1, respectivamente.
 
 15.1.2. Cobro del título al respectivo deudor.
 
@@ -25296,333 +24318,105 @@ Por el importe recibido en pago:
 
 Debe: "Caja" o la cuenta que corresponda por la recepción del importe en moneda chilena.
 
-Haber: "Pagos por títulos deuda externa por cuenta de terceros por aplicar", de
-
-la partida 3010 del formulario MB1.
+Haber: "Pagos por títulos deuda externa por cuenta de terceros por aplicar", de la partida 3010 del formulario MB1.
 
 Simultáneamente se deberá revertir el asiento contable señalado en el numeral 15.1.1 precedente.
 
 15.1.3. Canje o sustitución del título por el deudor.
 
-En estos casos, el banco mandatario, junto con revertir el asiento contable
+En estos casos, el banco mandatario, junto con revertir el asiento contable señalado en el numeral 15.1.1 precedente, registrará estos documentos con cargo a la cuenta "Documentos canjeados por títulos de deuda externa" y con abono a "Responsabilidad por documentos canjeados por títulos de deuda externa", de la partida 9260 y 9900 del formulario MB1, respectivamente.
 
-señalado en el numeral 15.1.1 precedente, registrará estos documentos con cargo
-
-a la cuenta "Documentos canjeados por títulos de deuda externa" y con abono a
-
-"Responsabilidad por documentos canjeados por títulos de deuda externa", de la
-
-partida 9260 y 9900 del formulario MB1, respectivamente.
-
-El asiento contable señalado en el párrafo precedente, será revertido cuando los
-
-respectivos documentos sean aportados a la entidad que corresponda, en
-
-cumplimiento del mandato o bien cedidos a terceros, recibidos en pago o
-
-adquiridas por el banco mandatario.
+El asiento contable señalado en el párrafo precedente, será revertido cuando los respectivos documentos sean aportados a la entidad que corresponda, en cumplimiento del mandato o bien cedidos a terceros, recibidos en pago o adquiridas por el banco mandatario.
 
 15.1.4. Depósitos a la vista o a plazo por cuenta del inversionista.
 
-Los documentos en que consten los depósitos a la vista o a plazo constituidos
-
-por el Banco mandatario por cuenta del inversionista, mientras se formaliza la
-
-inversión, serán registrados en las cuentas de orden "Documentos por depósitos
-
-de inversionistas títulos deuda externa" y "Responsabilidad por documentos por
-
-depósitos de inversionistas títulos deuda externa", cuyos saldos se demostrarán
-
-en las partidas 9260 y 9900 del formulario MB1, respectivamente.
+Los documentos en que consten los depósitos a la vista o a plazo constituidos por el Banco mandatario por cuenta del inversionista, mientras se formaliza la inversión, serán registrados en las cuentas de orden "Documentos por depósitos de inversionistas títulos deuda externa" y "Responsabilidad por documentos por depósitos de inversionistas títulos deuda externa", cuyos saldos se demostrarán en las partidas 9260 y 9900 del formulario MB1, respectivamente.
 
 Este asiento contable será revertido cuando se rescaten los depósitos.
 
 15.2. Operaciones por cuenta de la entidad receptora de la inversión.
 
-Los bancos que reciban mandatos de las entidades receptoras de las inversiones a
-
-que se refiere este capítulo, para el manejo del dinero o de los documentos
-
-relativos a tales aportes, deberán registrar dichas operaciones de la siguiente
-
-forma:
+Los bancos que reciban mandatos de las entidades receptoras de las inversiones a que se refiere este capítulo, para el manejo del dinero o de los documentos relativos a tales aportes, deberán registrar dichas operaciones de la siguiente forma:
 
 15.2.1. Recepción de dinero.
 
 Debe: "Caja" o la cuenta que corresponda por la recepción del dinero.
 
-Haber: "Inversiones títulos deuda externa por aplicar por cuenta de terceros" de
+Haber: "Inversiones títulos deuda externa por aplicar por cuenta de terceros" de la partida 3010 del formulario MB1.
 
-la partida 3010 del formulario MB1.
+Este asiento será revertido cuando se utilice el dinero en realizar la inversión autorizada o cuando se constituya un depósito a la vista o a plazo con tales recursos. En este último caso, cuando se rescate el correspondiente importe, se acreditará de nuevo en la referida cuenta, en tanto no se aplique a la inversión a la que esté destinado.
 
-Este asiento será revertido cuando se utilice el dinero en realizar la inversión
+15.2.2. Recepción de documentos emitidos por canje o sustitución de títulos de deuda externa.
 
-autorizada o cuando se constituya un depósito a la vista o a plazo con tales
+Estos documentos serán registrados en la cuenta "Documentos por cuenta inversionistas de títulos deuda externa" con abono a "Responsabilidad por documentos por cuenta inversionistas títulos deuda externa", de las partidas 9260 y 9900 del formulario MB1, respectivamente.
 
-recursos. En este último caso, cuando se rescate el correspondiente importe, se
-
-acreditará de nuevo en la referida cuenta, en tanto no se aplique a la inversión
-
-a la que esté destinado.
-
-15.2.2. Recepción de documentos emitidos por canje o sustitución de títulos de
-
-deuda externa.
-
-Estos documentos serán registrados en la cuenta "Documentos por cuenta
-
-inversionistas de títulos deuda externa" con abono a "Responsabilidad por
-
-documentos por cuenta inversionistas títulos deuda externa", de las partidas
-
-9260 y 9900 del formulario MB1, respectivamente.
-
-Este asiento contable será revertido cuando los documentos respectivos, sean
-
-cobrados, cedidos a terceros o bien, recibidos en pago o adquiridos por el banco
-
-mandatario.
+Este asiento contable será revertido cuando los documentos respectivos, sean cobrados, cedidos a terceros o bien, recibidos en pago o adquiridos por el banco mandatario.
 
 15.2.3. Depósitos a la vista o a plazo.
 
-Los documentos relativos a los depósitos a la vista o a plazo que constituya el
+Los documentos relativos a los depósitos a la vista o a plazo que constituya el banco mandatario por cuenta de la entidad receptora de la inversión, deberán registrarse en la cuenta "Documentos por depósitos de receptores de inversiones títulos deuda externa" con abono a "Responsabilidad por documentos por depósitos de receptores inversiones títulos deuda externa", de las partidas 9260 y 9900 del formulario MB1, respectivamente.
 
-banco mandatario por cuenta de la entidad receptora de la inversión, deberán
+El asiento contable a que se refiere el párrafo anterior, deberá revertirse cuando los referidos depósitos sean cobrados.
 
-registrarse en la cuenta "Documentos por depósitos de receptores de inversiones
+15.3. Pago, canje o sustitución de títulos de deuda externa por parte de la institución deudora.
 
-títulos deuda externa" con abono a "Responsabilidad por documentos por depósitos
-
-de receptores inversiones títulos deuda externa", de las partidas 9260 y 9900
-
-del formulario MB1, respectivamente.
-
-El asiento contable a que se refiere el párrafo anterior, deberá revertirse
-
-cuando los referidos depósitos sean cobrados.
-
-15.3. Pago, canje o sustitución de títulos de deuda externa por parte de la
-
-institución deudora.
-
-El banco o la sociedad financiera deudora de los títulos de deuda externa que se
-
-paguen anticipadamente, se canjeen o sustituyan por otros documentos de
-
-conformidad con las disposiciones contenidas en el Capítulo XIX ya mencionado y
-
-en este capítulo, registrarán dichas operaciones de la siguiente forma:
+El banco o la sociedad financiera deudora de los títulos de deuda externa que se paguen anticipadamente, se canjeen o sustituyan por otros documentos de conformidad con las disposiciones contenidas en el Capítulo XIX ya mencionado y en este capítulo, registrarán dichas operaciones de la siguiente forma:
 
 15.3.1. Pago del título.
 
 a) En moneda extranjera.
 
-Debe: - La cuenta de pasivo en que mantengan registrada la obligación
+Debe: - La cuenta de pasivo en que mantengan registrada la obligación pertinente.
 
-pertinente.
+- "Intereses por pagar", de la partida 3815 del formulario MB1, por aquellos intereses que se mantienen adeudados, cuando se encuentren registrados en moneda extranjera.
 
-- "Intereses por pagar", de la partida 3815 del formulario MB1, por aquellos
+- "Intereses pagados" de la partida 5180, 5185 ó 5190 del formulario MR1, por los intereses en moneda extranjera correspondientes al período comprendido entre el último devengo y la fecha de pago del título.
 
-intereses que se mantienen adeudados, cuando se encuentren registrados en moneda
-
-extranjera.
-
-- "Intereses pagados" de la partida 5180, 5185 ó 5190 del formulario MR1, por
-
-los intereses en moneda extranjera correspondientes al período comprendido entre
-
-el último devengo y la fecha de pago del título.
-
-Haber: "Conversión títulos deuda externa-Acuerdo 1725", de la partida 2510 ó
-
-4510 del formulario MB1, por el importe del respectivo título, incluidos sus
-
-intereses en moneda extranjera.
+Haber: "Conversión títulos deuda externa-Acuerdo 1725", de la partida 2510 ó 4510 del formulario MB1, por el importe del respectivo título, incluidos sus intereses en moneda extranjera.
 
 b) En moneda chilena.
 
-Debe: - "Cambio títulos deuda externa-Acuerdo 1725", de la partida 2510 ó 4510
+Debe: - "Cambio títulos deuda externa-Acuerdo 1725", de la partida 2510 ó 4510 del formulario MB1.
 
-del formulario MB1.
+- "Intereses por pagar" por aquellos intereses adeudados en moneda chilena, en los casos que corresponda.
 
-- "Intereses por pagar" por aquellos intereses adeudados en moneda chilena, en
+- "Intereses pagados", por los intereses en moneda chilena, cuando así corresponda, por el período comprendido entre el último devengo y la fecha de pago del título.
 
-los casos que corresponda.
+Haber: - "Caja" o la cuenta que corresponda, por el desembolso efectuado en pago del título presentado a cobro.
 
-- "Intereses pagados", por los intereses en moneda chilena, cuando así
-
-corresponda, por el período comprendido entre el último devengo y la fecha de
-
-pago del título.
-
-Haber: - "Caja" o la cuenta que corresponda, por el desembolso efectuado en pago
-
-del título presentado a cobro.
-
-- "Beneficios obtenidos por rescate anticipado de obligaciones externas", de la
-
-partida 7910 del formulario MR1 por la diferencia entre el valor par del título
-
-a la fecha de su pago y el importe pagado por él.
+- "Beneficios obtenidos por rescate anticipado de obligaciones externas", de la partida 7910 del formulario MR1 por la diferencia entre el valor par del título a la fecha de su pago y el importe pagado por él.
 
 15.3.2. Canje o sustitución de títulos presentados en cobro.
 
-En este caso se procederá de acuerdo con las instrucciones del numeral 15.3.1
+En este caso se procederá de acuerdo con las instrucciones del numeral 15.3.1 precedente, con excepción del asiento en la cuenta "Caja" o la que corresponda,que será remplazada en estas operaciones de canje o sustitución del título por la cuenta "Obligaciones por rescate anticipado de títulos deuda externa", de la partida 3410, 3415, 3425, 3460, 3465 ó 3480 del formulario MB1, según corresponda.
 
-precedente, con excepción del asiento en la cuenta "Caja" o la que
+15.4. Adquisición de los efectos de comercio emitidos por los deudores de títulos de deuda externa, por canje o sustitución.
 
-corresponda,que será remplazada en estas operaciones de canje o sustitución del
+Los documentos emitidos en canje o sustitución de títulos de deuda externa que adquieran las instituciones financieras serán registrados por su valor par a la fecha de adquisición, en cuentas que se denominarán "Documentos provenientes de prepagos de deuda externa". Estas cuentas se reflejarán, según sea el deudor o emisor del instrumento de que se trate, en las partidas del formulario MB1, 1705, cuando se trate de documentos emitidos por el Banco Central de Chile; 1710, cuando los documentos registrados estén emitidos por organismos fiscales; 1725, si el registro corresponde a instrumentos emitidos por otras instituciones financieras del país y 1735 si se trata de documentos que hayan sido emitidos en paso cíe créditos externos ingresados al país por personas o entidades distintas a las señaladas precedentemente, caucionadas por CORFO, empresas bancarias o sociedades financieras autorizadas para operar en el país.
 
-título por la cuenta "Obligaciones por rescate anticipado de títulos deuda
+La diferencia entre el valor par antes mencionado y el precio de adquisición, se contabilizará en la cuenta "Beneficios obtenidos y no devengados por compra pagarés redenominados deuda externa". El saldo de esta cuenta se demostrará en la partida 4120, del formulario MB1. En el caso que el valor pagado por el documento fuere superior a su valor par, la diferencia correspondiente al mayor precio pagado se contabilizará en la cuenta "Diferencias de precio por reconocer en compra de pagarés redenominados deuda externa". El saldo de esta cuenta se incluirá en la partida 2120, del formulario MB1.
 
-externa", de la partida 3410, 3415, 3425, 3460, 3465 ó 3480 del formulario MB1,
+Las diferencias así contabilizadas, se traspasarán a las cuentas de resultado"Beneficios por compra pagarés redenominados deuda externa" y "Pérdidas por diferencias de precio pagarés redenominados deuda externa" de las partidas 7610,7615, 7620, 5610, 5615 ó 5620. del formulario MR1, dependiendo de si se trata de utilidad o pérdida y de quien sea el emisor del documento que haya
 
-según corresponda.
+originado la diferencia. Ese traspaso se efectuará mensualmente, en forma lineal a razón de 1/n avo del número de meses que falten para el vencimiento o pago de la última amortización de capital.
 
-15.4. Adquisición de los efectos de comercio emitidos por los deudores de
+Si se procede a enajenar un documento por el cual se mantiene una diferencia deprecio registrada en las cuentas de Activo Transitorio o de Pasivo Transitorio,dicha diferencia deberá ser traspasada íntegramente en ese mismo acto a la correspondiente cuenta de resultados.
 
-títulos de deuda externa, por canje o sustitución.
-
-Los documentos emitidos en canje o sustitución de títulos de deuda externa que
-
-adquieran las instituciones financieras serán registrados por su valor par a la
-
-fecha de adquisición, en cuentas que se denominarán "Documentos provenientes de
-
-prepagos de deuda externa". Estas cuentas se reflejarán, según sea el deudor o
-
-emisor del instrumento de que se trate, en las partidas del formulario MB1,
-
-1705, cuando se trate de documentos emitidos por el Banco Central de Chile;
-
-1710, cuando los documentos registrados estén emitidos por organismos fiscales;
-
-1725, si el registro corresponde a instrumentos emitidos por otras instituciones
-
-financieras del país y 1735 si se trata de documentos que hayan sido emitidos en
-
-paso cíe créditos externos ingresados al país por personas o entidades distintas
-
-a las señaladas precedentemente, caucionadas por CORFO, empresas bancarias o
-
-sociedades financieras autorizadas para operar en el país.
-
-La diferencia entre el valor par antes mencionado y el precio de adquisición, se
-
-contabilizará en la cuenta "Beneficios obtenidos y no devengados por compra
-
-pagarés redenominados deuda externa". El saldo de esta cuenta se demostrará en
-
-la partida 4120, del formulario MB1. En el caso que el valor pagado por el
-
-documento fuere superior a su valor par, la diferencia correspondiente al mayor
-
-precio pagado se contabilizará en la cuenta "Diferencias de precio por reconocer
-
-en compra de pagarés redenominados deuda externa". El saldo de esta cuenta se
-
-incluirá en la partida 2120, del formulario MB1.
-
-Las diferencias así contabilizadas, se traspasarán a las cuentas de
-
-resultado"Beneficios por compra pagarés redenominados deuda externa" y "Pérdidas
-
-por diferencias de precio pagarés redenominados deuda externa" de las partidas
-
-7610,7615, 7620, 5610, 5615 ó 5620. del formulario MR1, dependiendo de si se
-
-trata de utilidad o pérdida y de quien sea el emisor del documento que haya
-
-originado la diferencia. Ese traspaso se efectuará mensualmente, en forma lineal
-
-a razón de 1/n avo del número de meses que falten para el vencimiento o pago de
-
-la última amortización de capital.
-
-Si se procede a enajenar un documento por el cual se mantiene una diferencia
-
-deprecio registrada en las cuentas de Activo Transitorio o de Pasivo
-
-Transitorio,dicha diferencia deberá ser traspasada íntegramente en ese mismo
-
-acto a la correspondiente cuenta de resultados.
-
-Las diferencias que se produzcan entre el precio de venta de los documentos que
-
-las entidades financieras enajenen y el valor a que esos documentos se
-
-encontraban registrados en la respectiva cuenta de inversión, se registrarán
-
-directamente en las cuentas anteriormente mencionadas, "Beneficios por compra de
-
-pagarés redenominados deuda externa" o "Pérdidas por diferencias de precio
+Las diferencias que se produzcan entre el precio de venta de los documentos que las entidades financieras enajenen y el valor a que esos documentos se encontraban registrados en la respectiva cuenta de inversión, se registrarán directamente en las cuentas anteriormente mencionadas, "Beneficios por compra de pagarés redenominados deuda externa" o "Pérdidas por diferencias de precio
 
 pagarés redenominados deuda externa", según corresponda.
 
-Las obligaciones derivadas de las ventas con pacto de retrocompra de estos
+Las obligaciones derivadas de las ventas con pacto de retrocompra de estos documentos, se registrarán en la cuenta "Ventas a instituciones financieras con pacto de retrocompra de pagarés redenominados deuda externa", o bien, "Ventas a terceros con pacto de retrocompra de pagarés redenominados deuda externa, por el valor en el cual se haya realizado la venta. Los saldos de estas cuentas se representarán en las partidas 3110 ó 3115 del formulario MB1. Las diferencias entre el precio de venta y el precio de retrocompra se acreditarán a la cuenta "Intereses por pagar sobre ventas con pacto de retrocompra pagarés deuda externa", de la partida 3820 del formulario MB1, con cargo a la cuenta "Intereses pagados sobre ventas con pacto de retrocompra pagarés redenominados deuda externa" de la partida 5140 del formulario MR1, si la operación se encuentra pactada a no más de treinta días o, en caso contrario,dicho asiento se efectuará al término de cada mes calendario.
 
-documentos, se registrarán en la cuenta "Ventas a terceros con pacto de
+La realización de estas transacciones no afectarán las diferencias de precio registradas en el Activo o Pasivo Transitorio, las que seguirán llevándose a la respectiva cuenta de resultados de acuerdo con lo señalado en los párrafos precedentes.
 
-retrocompra de pagarés redenominados deuda externa" o bien, "Ventas a
+15.5. Saldo de cuentas "Conversión títulos deuda externa-Acuerdo 1.725" y "Cambio títulos deuda externa-Acuerdo 1.725".
 
-instituciones financieras con pacto de retrocompra de pagarés redenominados
+Las instituciones financieras solucionarán el saldo acreedor de de la cuenta"Conversión títulos deuda externa-Acuerdo 1.725", mediante la liquidación de divisas recompradas o la conversión a moneda chilena de activos en moneda extranjera o expresados en dicha moneda, de acuerdo con lo instruido en el número 10 de este capítulo. Esta liquidación de activos en moneda extranjera
 
-deuda externa", por el valor en el cual se haya realizado la venta. Los saldos
+debe hacerse, en lo pasible, en forma simultánea con el pago o sustitución de títulos en moneda extranjera.
 
-de estas cuentas se representarán en las partidas 3110 ó 3115 del formulario
-
-MB1. Las diferencias entre el precio de venta y el precio de retrocompra se
-
-acreditarán a la cuenta "Intereses por pagar sobre ventas con pacto de
-
-retrocompra pagarés deuda externa", de la partida 3820 del formulario MB1, con
-
-cargo a la cuenta "Intereses pagados sobre ventas con pacto de retrocompra
-
-pagarés redenominados deuda externa" de la partida 5140 del formulario MR1, si
-
-la operación se encuentra pactada a no más de treinta días o, en caso
-
-contrario,dicho asiento se efectuará al término de cada mes calendario.
-
-La realización de estas transacciones no afectarán las diferencias de precio
-
-registradas en el Activo o Pasivo Transitorio, las que seguirán llevándose a la
-
-respectiva cuenta de resultados de acuerdo con lo señalado en los párrafos
-
-precedentes.
-
-15.5. Saldo de cuentas "Conversión títulos deuda externa-Acuerdo 1.725" y
-
-"Cambio títulos deuda externa-Acuerdo 1.725".
-
-Las instituciones financieras solucionarán el saldo acreedor de de la
-
-cuenta"Conversión títulos deuda externa-Acuerdo 1.725", mediante la liquidación
-
-de divisas recompradas o la conversión a moneda chilena de activos en moneda
-
-extranjera o expresados en dicha moneda, de acuerdo con lo instruido en el
-
-número 10 de este capítulo. Esta liquidación de activos en moneda extranjera
-
-debe hacerse, en lo pasible, en forma simultánea con el pago o sustitución de
-
-títulos en moneda extranjera.
-
-Si al término de mes subsiste un saldo en la cuenta "Cambio títulos deuda
-
-externa-Acuerdo 1.725", éste será ajustado sobre la base del tipo de cambio que
-
-esta Superintendencia haya fijado para la liquidación de las cuentas "Cambio" o
-
-bien será traspasado a la correspondiente cuenta de resultados, en el caso que
-
-no se registrare saldo en la cuenta "Conversión títulos deuda externa-Acuerdo
-
-1.725."
+Si al término de mes subsiste un saldo en la cuenta "Cambio títulos deuda externa-Acuerdo 1.725", éste será ajustado sobre la base del tipo de cambio que esta Superintendencia haya fijado para la liquidación de las cuentas "Cambio" o bien será traspasado a la correspondiente cuenta de resultados, en el caso que no se registrare saldo en la cuenta "Conversión títulos deuda externa-Acuerdo 1.725."
 
 ### 16. Márgenes individuales de crédito
 
