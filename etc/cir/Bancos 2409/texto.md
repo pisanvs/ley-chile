@@ -5100,7 +5100,7 @@ TARJETAS DE DEBITO.
 
 De conformidad con lo dispuesto en el Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile, las tarjetas de débito sólo pueden ser emitidas por bancos y sociedades financieras establecidos en el país.
 
-Según esas normas, se entiende por "tarjeta de débito", cualquiera tarjeta u otro documento que identifica a su titular con su emisor y que "sea utilizada como instrumento de pago en la red de establecimientos afiliados al sistema que cuenten con dispositivos electrónicos que operen con captura en línea de las transacciones y que los montos correspondientes sean debitados inmediatamente en la cuenta del Titular y acreditados en la cuenta del beneficiario, sólo si dichas transacciones son autorizadas y existen fondos suficientes". Podrán girarse con tarjetas de débito las cuentas corrientes bancarias, las cuentas de ahorro a la vista que se operen sin libreta y las demás cuentas a la vista tratadas, respectivamente, en los Capítulos 2-2, 2-4 y 2-6 de esta Recopilación Actualizada de Normas.
+Según esas normas, se entiende por "tarjeta de débito", cualquiera tarjeta u otro documento que identifica a su titular con su emisor y que "sea utilizada como instrumento de pago en la red de establecimientos afiliados al sistema que cuenten con dispositivos electrónicos que operen con captura en línea de las transacciones y que los montos correspondientes sean debitados inmediatamente en la cuenta del Titular y acreditados en la cuenta del beneficiario, sólo si dichas transacciones son autorizadas y existen fondos suficientes". Podrán girarse con tarjetas de débito las cuentas corrientes bancarias, las cuentas de ahorro a la vista y las demás cuentas a la vista tratadas, respectivamente, en los Capítulos 2-2, 2-4 y 2-6 de esta Recopilación Actualizada de Normas.
 
 Los emisores de tarjetas de débito podrán operar por sí mismos las tarjetas que emitan, o bien, contratar su operación con uno o más operadores autorizados para el efecto por el Banco Central de Chile. En todo caso, para emitir tarjetas de débito y para operar sus propias tarjetas, las instituciones financieras no requieren de una autorización previa por parte del Banco Central de Chile.
 
@@ -5533,6 +5533,8 @@ El encaje, para cada una de las monedas extranjeras, deberá estar compuesto só
 a) Billetes y monedas correspondientes a dólares de los Estados Unidos de América, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa o en tránsito al Banco Central de Chile; y,
 
 b) Depósitos en dólares de los Estados Unidos de América mantenidos en cuenta corriente en el Banco Central de Chile.
+
+c)Depósitos en dólares de los Estados Unidos de América mantenidos en la cuenta" "Cuenta especial de encaje en moneda extranjera" en el Banco Central de Chile.
 
 Con todo, los fondos en dólares de los Estados Unidos de América que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación no pueden, a su vez, ser empleados para constituir el encaje mantenido.
 
