@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.844, de 31 de octubre del 2000, se expropió el lote de terreno Nº5-B, superficie 116 m2., rol de avalúo 205-68, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector J, Sexta Región y se acordó el valor de indemnización con su propietaria Yolanda del Carmen Arce, ascendente a la cantidad de $1.359.431.-
+
+Fiscal del Ministerio de Obras Públicas.
