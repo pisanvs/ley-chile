@@ -1,0 +1,69 @@
+DECRETO LEY N° 2.345
+
+(Publicado en el Diario Oficial N° 30.194, de 20 de Octubre de 1978)
+
+MINISTERIO DEL INTERIOR OTORGA FACULTADES AL MINISTRO DEL INTERIOR RESPECTO DE MATERIAS QUE INDICA
+
+Núm. 2.345.- Santiago, 17 de Octubre de 1978.- Visto: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973; 527 y 788, de 1974, y 991, de 1976, y Considerando:
+
+1°.- Que, en el documento denominado "Objetivo Nacional del Gobierno de Chile", aprobado con el carácter de obligatorio en su cumplimiento, se señala, dentro de la Política General del Supremo Gobierno, la necesidad de contar con una Administración Pública racionalizada, moderna y funcional;
+
+2°.- Que, a través de múltiples medidas adoptadas, se ha logrado ir concretando los postulados de la aludida política, cuya filosofía tiende a recuperar el noble y honroso ideal portaliano de "servicio público", que debe ilustrar el funcionamiento de nuestra Administración Pública y que, otrora, fuera orgullo y prestigio del Estado;
+
+3°.- Que, no obstante los logros obtenidos hasta la fecha, se hace necesario extremar los esfuerzos destinados a obtener la eficiencia en el funcionamiento de los Servicios de la Administración del Estado, en todos sus aspectos, vale decir expedito cumplimiento de las normas que regulan su actividad, consideración e interés por los usuarios y efectividad en su gestión;
+
+4°.- Que, con tales motivos, se ha estimado oportuno radicar la implementación de las políticas de desburocratización y agilización de la Administración Civil del Estado en un solo Ministerio, sin perjuicio de aquellas funciones que el Supremo Gobierno ha encomendado a otros organismos.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar, en ejercicio de su Potestad Constituyente, el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Corresponderá al Ministerio del Interior materializar, en forma unitaria, la política de desburocratización y agilización de la Administración del Estado, impulsada por el Supremo Gobierno.
+
+#### Artículo 2°
+
+Por "Administración del Estado" se entenderán todos los organismos a través de los cuales el Estado ejerce directa o indirectamente la función pública administrativa, y especialmente todos los Ministerios y reparticiones o entidades que de ellos dependan; todos los servicios públicos fiscales o semifiscales, sean de la administración central o descentralizada; todas las empresas del Estado y las Municipalidades.
+
+Se excluyen de la expresión "Administración del Estado", para los fines del presente decreto ley, exclusivamente a las Fuerzas Armadas y de Orden, al Poder Judicial y a la Contraloría General de la República.
+
+#### Artículo 3°
+
+En el ejercicio de tales facultades, el Ministro del Interior podrá:
+
+a) Impartir las instrucciones y dictar las normas reglamentarias que sean necesarias para la materialización de las políticas de desburocratización y agilización de la Administración del Estado;
+
+b) Suprimir o modificar trámites administrativos, reducir plazos, modificar horarios, eliminar o modificar NOTA 1 exigencias documentarias o de otra naturaleza y en general adoptar cualquier tipo de medidas para el cumplimiento de esas políticas.
+
+Las resoluciones que a este fin se dicten llevarán la firma del Ministro del Interior y la del Ministro de la cartera correspondiente y se entenderán modificatorias de toda norma que las contradiga.
+
+c) Definir y exigir la ejecución de los programas y medidas administrativas relativas a dichas políticas.
+
+d) Velar por el fiel cumplimiento de las instrucciones que imparta, sancionando a los responsables de interferencias o ineficiencias en su ejecución, y
+
+e) Disponer de todos los medios humanos y materiales que se entregan a su tuición para el cumplimiento fiel, expedito y oportuno de su cometido.
+
+> **Nota.** NOTA: 1 El D. S. N° 1.173, de Interior, publicado en el D. Of. de 9 de enero de 1979, establece horario de atención de público en los servicios de la Administración Civil del Estado.
+
+#### Artículo 4°
+
+En materias estrictamente relacionadas con la política de desburocratización y agilización de la Administración del Estado, el Ministro del Interior podrá disponer y controlar el cumplimiento de dichas políticas por parte de todos los Ministerios, organismos dependientes de éstos o que se relacionen con el Gobierno por su intermedio, a excepción de aquellos señalados en el artículo 2° del presente decreto ley.
+
+#### Artículo 5°
+
+DEROGADO.-
+
+> **Nota.** NOTA: 2 Esta derogación regirá en el plazo de 6 meses, contado desde la fecha de publicación de la ley 18575, efectuada el 5 de diciembre de 1986. (Ley 18575, artículo final).
+
+#### Artículo 6°
+
+Las directivas que imparta el Ministro del interior a las Secretarías de Estado y demás organismos sujetos a su esfera de acción, serán obligatorias y los Ministros y Jefes de Servicios serán personalmente responsables de su cumplimiento.
+
+Los Jefes de Servicios y demás funcionarios a los cuales el Ministro del Interior pida informes para los efectos de dar cumplimiento a este decreto ley, deberán evacuarlos dentro del plazo de 48 horas, salvo que la petición misma les señale otro mayor. La infracción a esta norma será considerada falta grave.
+
+#### Artículo 7°
+
+Autorízase al Presidente de la República para que, en el plazo de un año, contado desde la publicación del presente decreto ley en el Diario Oficial, dicte las disposiciones con fuerza de ley que sean necesarias para alcanzar las finalidades previstas en las letras a) y b) del artículo 3° de este texto, en cuanto para ello se afecten normas de rango legal.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Arturo Troncoso Daroch, Vicealmirante en Jefe de la Armada subrogante.- Sergio Fernández Fernández, Ministro del Interior.
