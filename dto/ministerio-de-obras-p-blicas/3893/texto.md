@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.893, de 29 de diciembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 4-A y 4-B, para la obra: Camino La Madera, Sector Bifurcación Diuquín-Santa Juana, Km. 10.000.00 al Km.
+
+22.500.00, Octava Región, que figuran a nombre de Juan Antonio Riffo Riffo, rol de avalúo 213-26, comuna de Santa Juana, superficies 2.035 m2 y 369 m2, respectivamente. La comisión de peritos integrada por los señores Luis Soto Abarca, Ramón Jofré Soto y José Manuel Gálvez Alegría fijó con fecha 24 de septiembre de 1998, el valor provisional de las indemnizaciones en las cantidades de $1.661.000.- para el lote Nº4-A y de $530.400.- para el lote Nº4-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
