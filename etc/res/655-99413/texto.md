@@ -1,0 +1,11 @@
+Por resolución Nº 655, de 7 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase al INSTITUTO DE FOMENTO PESQUERO (IFOP), para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Estudio Biológico Pesquero de los recursos Tawera (Tawera gayi) y Culengue (Gari solida) en la X Región'', elaborado por el citado Instituto y aprobado por esta Subsecretaría, el cual se considera como parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza, consiste en recopilar información básica de crecimiento y edad, reproducción, reclutamiento y mortalidad natural de los recursos Tawera y Culengue y formular una metodología para un plan de rotación de áreas de extracción de los mismos.
+
+La pesca de investigación que se autoriza comprenderá un período de 13 meses contados desde la fecha de la presente resolución. Y estará dirigida a los recursos, Tawera gayi (Juliana) y Gari solida (Culengue). El tamaño de los ejemplares de Tawera gayi que se autoriza a extraer estará constituido por tallas entre 5 mm y 50 mm de altura valvar y de 10 mm a 110 mm de altura valvar en el caso del Gari solida.
+
+Las operaciones de pesca respecto del recurso Tawera gayi se realizará en el banco localizado en Isla Cochinos, Bahía de Ancud, en la comuna del mismo nombre, X Región y respecto de la especie Gari solida en el banco localizado en Punta Chocoi, Bahía de Ancud, comuna de Maullín, X Región. En cada banco se autoriza la extracción de 2.000 ejemplares mensuales.
+
+El Instituto designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Director Ejecutivo del Instituto de Fomento Pesquero don Pablo Andrés Alvarez Tuza, R.U.T. Nº 6.419.642-1, domiciliado en calle Huito 374, Valparaíso.
+
+Valparaíso, 7 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
