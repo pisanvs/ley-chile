@@ -1,0 +1,3 @@
+Por decreto MOP Nº 729, de 30 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 7, para la obra Camino Reposición Ruta M-30-L, sector Cruce Ruta L-26-M, Puente Purapel Tramo Kms. 4,100.00 al 51,563.99, que figura a nombre de Francisco Cavallo Torello, superficie 1.324 M2., rol de avalúo 219-2, comuna de Villa Alegre, VII Región. La Comisión de Peritos, fijó con fecha 10 de junio de 1999, en la cantidad de $19.408.400, para el lote Nº 7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
