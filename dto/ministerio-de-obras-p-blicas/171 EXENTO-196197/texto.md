@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 171, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs. 19-D y 20, superficies 89 m2 y 637,2 m2, respectivamente, rol de avalúo 2202-109, comuna de Puerto Montt, para la obra "Camino Ruta 7 Chamiza-Quillaipe, Km. 4,83687 al 15,84700" y se acordó el valor de indemnización con su propietario Ramón Héctor Miranda Muñoz, ascendente a la cantidad de $1.090.338.
+
+- Fiscal del Ministerio de Obras Públicas.
