@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.103 de 22 de noviembre de 2004, se dejó sin efecto el decreto MOP Nº 221 de 30 de marzo de 2003 y se modificó el decreto MOP Nº 1.342 de 30 de julio de 2003 y se autorizó el convenio directo de precio de fecha 20 de septiembre de 2004, suscrito con la Empresa de Transporte de Pasajeros S.A. y doña Lidia Erika del Rosario Parra Schramm, en virtud del cual se fijó el monto definitivo de la indemnización por la expropiación del lote Nº 36L4 en la suma de $17.988.100.
+
+Fiscal del Ministerio de Obras Públicas.
