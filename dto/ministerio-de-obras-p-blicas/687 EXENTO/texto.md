@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº687, de 31 de mayo de 2001, se expropió el lote de terreno Nº213-A, superficie 650 m², rol de avalúo 3121-6, comuna de Ovalle, para la obra Concesión Internacional Ruta 5. Tramo: Los Vilos-La Serena, Sector A, Bifurcación Illapel-Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietaria Fresia Otilia Astudillo, ascendente a la cantidad de $674.989.-
+
+Fiscal del Ministerio de Obras Públicas.
