@@ -1,0 +1,3 @@
+Por resolución Nº 1.884 de 20 de septiembre de 1999 de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97103137, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES DE ALGUEROS, PESCADORES ARTESANALES, MARISCADORES Y RAMOS SIMILARES DEL SECTOR CAILIHUE de Isla Llingua de la comuna de Quinchao, para operar un centro de cultivo ubicado en el sector de Punta Redonda, Isla Llingua, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 20 de septiembre de 1999.- Edith Saa Collantes, Subsecretaria de Pesca Subrogante.
