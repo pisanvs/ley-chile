@@ -1,0 +1,3 @@
+Por decreto MOP Nº233, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº4, superficie 649 m², rol de avalúo 155-34, comuna de Curarrehue, para la obra "Camino Catripulli - Curarrehue, Sector Km. 108,20 al Km. 114,80" y se acordó el valor de indemnización con su propietario Miguel Celedonio González Mellado, ascendente a la cantidad de $1.620.618.-
+
+Fiscal del Ministerio de Obras Públicas.
