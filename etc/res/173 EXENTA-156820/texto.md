@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 173 de 14 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado predio "resto de la Hacienda La Candelaria y parte de la Hacienda La Punta" de la comuna de San Francisco de Mostazal, Sexta Región; y derechos aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 14, sitios N°s. 1 al 13 y reserva CORA N° 1 del proyecto de parcelación "La Candelaria" formado por predio señalado. Los derechos de Aguas se extraen del Estero Codegua. Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
