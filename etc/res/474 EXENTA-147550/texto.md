@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 474 de 28 de Abril de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Resto del predio denominado Fundo Santa Elena de los Niches de la comuna de Curicó, VII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 12, sitios N°s. I al 14 y Reserva CORA No. 1 del Proyecto de Parcelación "ZINC A" formado por predio señalado. Los Derechos de Agua se extraen de los canales Nuevo Los Niches y Viejo Los Niches derivados del Río Lontué. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
