@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 593, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 37, superficie 449 M2, rol de avalúo 2209-17, comuna de Chillán, VIII Región, para la obra ''Mejoramiento Ruta N-45, Sector Variante Cato, Km. 0,00000 al 4,15551'' y se acordó el valor de indemnización con su propietaria doña Sonia Edita Fonseca Muñoz y Otra, ascendente a la cantidad de $1.451.843.-
+
+Fiscal del Ministerio de Obras Públicas.
