@@ -1,0 +1,5 @@
+Por Resolución N° 812, de 5 de Septiembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA CALETA PORTALES S.A., R.U.T. N° 96.692.680-5, para iniciar actividades pesqueras, en orden a operar una planta ubicada en Caleta Portales, Avenida España S/N°, Valparaíso, donde podrá procesar en las líneas de elaboración que se indica, los siguientes recursos hidrobiológicos: Fresco-refrigerado: Congrio colorado, Congrio negro, Corvina, Lenguado de ojos chicos, Merluza común, Pejegallo, Reineta, Tollo y Jibia; Congelado: Congrio colorado, Congrio negro, Corvina, Lenguado de ojos grandes, Merluza común y Tollo; Precocido: Almeja o taca, Chorito, Macha, Lapa, Camarón nailon, Jaiba y Langostino colorado.
+
+En el ejercicio de las actividades de procesamiento autorizadas, la solicitante deberá dar estricto cumplimiento a las normas legales y reglamentarias que regulen la conservación de recursos hidrobiológicos.
+
+Valparaíso, 5 de Septiembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
