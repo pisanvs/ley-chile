@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº863, de 31 de mayo de 2002, se expropiaron los lotes de terreno Nºs. 61-A y 62-A, superficie 365,07 y 4.256,9 m2. respectivamente, rol de avalúo Nº214-294, comuna de Teodoro Schmidt, para la obra Camino S-60, Sector Teodoro Schmidt - Hualpín, Km. 43,94000 al 59,10294, Tramo II Km. 53,075 al 59,093, IX Región y se acordó el valor de indemnización con su propietaria Graciela del Carmen Marivil Lleubul o Graciela del Carmen Marivil Llebul, ascendente a la cantidad de $2.462.066.
+
+Fiscal del Ministerio de Obras Públicas.
