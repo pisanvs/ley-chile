@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.059, de 30 de julio de 1999, se expropió el lote de terreno No. 75-B, superficie 1.989,0 m2., rol de avalúo 202-61, comuna de Perquenco, para la obra "Concesión Internacional Ruta 5; Tramo Collipulli - Temuco", Novena Región y se acordó el valor de indemnización con su propietario Germán Eduardo Méndez Zurita, ascendente a la cantidad de $ 998.584.-
+
+Fiscal del Ministerio de Obras Públicas.
