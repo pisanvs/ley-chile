@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 535, de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 83, superficie 514,00 m2, rol de avalúo Nº 62-38, comuna de Lampa, para la obra Camino Ruta G-16 sector Lampa - Polpaico, tramo Km. 19,72359 a Km. 34,51667", Región Metropolitana y se acordó el valor de la indemnización con su propietaria Eliana Elvira Quiroz Peña, ascendente a la cantidad de $1.919.725.
+
+Fiscal del Ministerio de Obras Públicas.
