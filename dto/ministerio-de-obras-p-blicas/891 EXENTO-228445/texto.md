@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 891 de 30 de junio de 2004, se expropió el lote de terreno Nº 42-A, superficie 134 m2., rol de Avalúo Nº 520-6, comuna de Santa Cruz, para la obra "Camino Santa Cruz - Yánquil, Rol I-730, Km. 0.00000 al Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietaria María Mirella Sánchez Vargas, ascendente a la cantidad de $827.621.
+
+- Fiscal del Ministerio de Obras Públicas.
