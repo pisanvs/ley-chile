@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 534 de fecha 31 de marzo del 2004, se expropiaron los lotes de terreno Nº s. 38 y 39, superficies 488 y 1.160 m2, Rol Nº 253-24, comuna de Lautaro, IX Región, para la obra "Camino Ruta S - 65, sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 al Km. 34,50853, Etapa Km. 0,000 a Km. 18,000" y se acordó el valor de indemnización con su propietaria Celinda Nahuelcura Savaria, ascendente a la cantidad de $1.292.427.- para los lotes Nº s 38 y 39.-
+
+Fiscal del Ministerio de Obras Públicas.
