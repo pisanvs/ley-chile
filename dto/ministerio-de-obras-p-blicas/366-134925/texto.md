@@ -1,0 +1,3 @@
+Por decreto MOP Nº 366, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs 388 y 389, superficies 1.408,2 m² y 1.554,7 m², rol de avalúo 254-64, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Orlando Fuentes Andrade, ascendente a la cantidad total de $907.705.-
+
+Fiscal del Ministerio de Obras Públicas.
