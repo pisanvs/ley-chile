@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.133 de 30 de Agosto de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado predio "una parte de una cabida de cuatrocientas veinte hectáreas, mil ochocientos metros cuadrados que corresponden a la Hijuela número cuatrocientos nueve del plano del fundo la Bastilla e Hijuelas números doscientos diez y doscientos once de trescientas veinte hectáreas y cuatro mil metros cuadrados que forman parte del fundo la Bastilla" de las comunas de Freire y Cunco, IX Región; y derechos aprovechamiento de aguas que corresponden a las parcelas Nos. 1 a la 7 del proyecto de parcelación "La Bastilla" formado por predio señalado. Los derechos de agua se extraen del canal Allipén derivado del río Allipén, del estero Pichi Huahuanco y del estero Huahuanco, estero Trompulo.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
