@@ -1,0 +1,3 @@
+Por resolución exenta Nº 225, de 21 de enero de 2004, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 3.079 de 2003, de esta Subsecretaría, que autorizó a la PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Situación de la Pesquería de Alfonsino", en el sentido de sustituir la nave "Friosur IX" por la nave "Friosur X".
+
+Valparaíso, 21 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
