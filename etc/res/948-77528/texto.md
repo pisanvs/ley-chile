@@ -1,0 +1,3 @@
+Por resolución No. 948 de 30 de Septiembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase la resolución No. 334, de 1992, de esta Subsecretaría, por la cual se autorizó a PESQUERA HUALPEN LTDA., R.U.T. No. 79.731.580-K, domiciliada en Santiago, calle Agustinas No. 972, Depto. 510, pala realizar actividades pesqueras de transformación, en el sentido de señalar que la autorización es para inicio de actividades y no ampliación de ellas como allí se indica, debiendo además eliminarse la referencia que se hace a las resoluciones No. 269, de 1985 y No. 1.062, de 1988, de esta Subsecretaría, por no corresponder al titular.
+
+Valparaíso, 30 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
