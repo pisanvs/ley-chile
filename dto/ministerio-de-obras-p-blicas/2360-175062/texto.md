@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.360, de 30 de mayo de 2000, se expropió el lote de terreno Nº106, superficie 180 m², rol de avalúo 5354-24, comuna de La Granja, para la obra Concesión Internacional Ruta 5, tramo: Santiago - Talca, Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con sus propietarios María Jeannette Navarrete Turra y otros, ascendente a la cantidad de $23.510.600.
+
+Fiscal del Ministerio de Obras Públicas.
