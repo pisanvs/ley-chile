@@ -1,0 +1,3 @@
+Por Resolución No. 79, de 22 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 30 días a contar de la fecha de la presente Resolución, el plazo otorgado a don JOSE ROJAS STUBING, R.U.T. No. 5.388.507-1, domiciliado en Quisco, calle Victoria No. 154, en el numeral 4° de la Resolución No. 270, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de fuerza mayor. Se declara la caducidad de la Resolución No. 1.228, de 1990, de esta Subsecretaría de Pesca. en virtud de lo dispuesto en el artículo 6° del DS No. 175, de 1990, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 22 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
