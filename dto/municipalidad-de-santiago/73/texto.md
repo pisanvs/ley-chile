@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 73, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2378, Rol 375-43 Santiago, aparente dominio Patricio Bilbao Guzmán, superficie aproximada a expropiar 60 m2. Deslindes: Norte, 17,35 mts. con calle Agustinas; Sur, 16,95 mts. resto predio; Oriente, 4,00 mts. con otro propietario y Poniente, 3,00 mts. con otro propietario. Indemnización provisional $ 3.744.000.- pagadera contado.
+
+Máximo Honorato Alamos Alcalde Santiago.
