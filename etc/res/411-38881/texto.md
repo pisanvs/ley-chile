@@ -1,0 +1,11 @@
+Por resolución N° 411, de 28 de abril de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA CANDELARIA LIMITADA, R.U.T. N° 78.051.620-8, para ampliar actividades pesqueras autorizadas por las resoluciones N° 466 y N° 673, ambas de 1992, de esta Subsecretaría, en orden a incorporar en su planta autorizada mediante resoluciones citadas en el numeral precedente, ubicada en calle Jotabeche, cuya numeración actual es 1335, Comuna de Estación Central, Santiago, en las líneas de proceso de fresco, fresco-refrigerado y congelado, el recursos Calamar, Loligo gahi y los siguientes recurso hidrobiológicos en la línea que a continuación se indica: Conserva: Agujilla, Albacora o pez espada, Bacalao de profundidad, Bonito, Breca, Brótula, Cabrilla, Cazón, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Chancharro, Jurel, Lenguado de ojos chicos, lenguado de ojos grandes, Marrajo o tiburón, Merluza común, Merluza de cola, Merluza de tres aletas, Marluza del sur, Pejegallo, Pejeperro, Pejerrey de mar, Sardina, Sardina común, Sierra, Tollo, Almeja o taca, Almeja, Calamar, Caracol locate, Cholga, Chorito, Choro, Jibia, Lapa, Macha, Navajuela, Ostión del norte, Ostra chilena, Pulpo, Centolla, Centollón, Jaiba, Picoroco, Erizo y Piure.
+
+El recurso Ostión del norte deberá provenir de centros autorizados para realizar actividades de cultivo.
+
+En el ejercicio de las actividades de procesamiento autorizadas, la solicitante deberá dar estricto cumplimiento a las normas legales y reglamentarias que regulen la conservación de recursos hidrobiológicos.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria respecto de los recursos no mencionados en el texto de la presente resolución, en virtud de lo dispuesto en las normas legales y reglamentarias citadas en Visto.
+
+Valparaíso, 28 de abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
