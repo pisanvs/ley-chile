@@ -1,0 +1,3 @@
+Por decreto MOP Nº749 de fecha 30 de abril de 2001, se expropió el lote de terreno Nº53, superficie 18.955,88 m², rol de avalúo 248-76, comuna de Salamanca, para la obra "Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias Canal Alimentador" y se acordó el valor de indemnización con su propietario Erasmo Segundo Bugueño Moreno, ascendente a la cantidad de $12.518.726.
+
+Fiscal del Ministerio de Obras Públicas.
