@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 198 ,200 y 202 de fechas 29 y 30 de de julio respectivamente de 1992, se expropiaron los lotes del terreno Nº 24, 30 y 7 superficies 560 m2. 150m2 Y 260 m2.,rol de avalúo 25-7, 33-1 y 23-95 Comunas de Coinco y Olivar, para la obra Camino Olivar Coinco y se acordó precio de indemnización con sus propietarios José Anselmo Bustamante López María Adriana Ramírez González y Daniel Acevedo Miranda, ascendente a las cantidades de $330.670, $226.855 y $299.910
+
+Fiscal del Ministerio de Obras Públicas.
