@@ -1,0 +1,3 @@
+Por decreto MOP Nº892, de 31 de mayo de 2002, se expropió el lote de terreno Nº75-B, superficie 47 m², Rol de Avalúo Nº284-96, comuna de San Fernando, para la obra Camino San Fernando Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264, VI Región y se acordó el valor de indemnización con su propietario Absalón Fernando Jara Fuentes, ascendente a la cantidad de $291.398.-
+
+Fiscal del Ministerio de Obras Públicas.
