@@ -1,0 +1,3 @@
+Por resolución Nº 1.818, de 27 de agosto de 2002, de esta Subsecretaría, autorízase a PESQUERA BAHIA CORONEL S.A., para ampliar las actividades pesqueras de transformación, autorizadas por resolución Nº 744 de 2002, de esta Subsecretaría, en orden a poder incorporar a la planta ubicada en Pedro Aguirre Cerda Nº 639, Lo Rojas, Coronel, VIII Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Harina y Aceite: Bacaladillo o mote, Machuelo o tritre, Anchoa blanca, Sardina redonda, Jurel fino, Vinciguerria.
+
+Valparaíso, 27 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
