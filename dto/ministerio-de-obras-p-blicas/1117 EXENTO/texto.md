@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.117, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº35-A, superficie 1.440,00 m², rol de Avalúo Nº326-36, comuna de Constitución, para la obra "Camino M-24-K, Quivolgo Puente Lautaro, Sector C: Putú Quivolgo, tramo Km. 30,000.00 a Km. 49,815.494", VII Región y se acordó el valor de la indemnización con su propietaria Fresia Leiva Aldana, ascendente a la cantidad de $1.042.360.-
+
+Fiscal del Ministerio de Obras Públicas.
