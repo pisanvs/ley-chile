@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.131, de 30 de noviembre de 2000, se expropió el lote de terreno Nº152-35, superficie 175 m², rol de avalúo 1282-101, comuna de La Calera, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región, y se acordó el valor de indemnización con su propietario Luis Hernán Honores Lobos, ascendente a la cantidad de $14.941.471.-
+
+Fiscal del Ministerio de Obras Públicas.
