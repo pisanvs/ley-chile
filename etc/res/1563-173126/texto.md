@@ -1,0 +1,3 @@
+Por resolución Nº1.563, de 17 de julio de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº97104063 presentada por ALEJANDRO MAXIMILIANO CANNOBBIO VIDAL, para instalar y operar el centro de cultivo ubicado en Estero Puluqui Isla Puluqui, Comuna de Calbuco, Provincia de Llanquihue, X Región.
+
+Valparaíso, 17 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
