@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.437, de fecha 30 de septiembre de 2002, se expropiaron los lotes de terreno Nºs. 30, 31, 32, 33 y 34, superficies 1.381 m², 1.726 m², 181 m², 150 m² y 556 m², respectivamente, rol de avalúo Nº202-13, comuna de Lumaco, IX Región, para la obra ''Camino Lumaco - Capitán Pastene, Sector Lumaco - Capitán Pastene, Km. 0.000 al 10.525,168'' y se acordó el valor de indemnización con su propietario don José Angel Callupe Rain, ascendente a la cantidad de $1.419.176.-
+
+Fiscal del Ministerio de Obras Públicas.
