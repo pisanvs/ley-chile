@@ -1,0 +1,3 @@
+Por resolución Nº 1.206, de 23 de junio de 1999, de esta Subsecretaría, se rectifica las letras b) y c) del numeral 2º de la resolución Nº 274 de 1999, de esta Subsecretaría de Pesca, que autorizó a PESQUERA FRIOSUR S.A., para ampliar actividades pesqueras extractivas con la nave ''Friosur VI'', en el sentido de reemplazar la expresión ''al Oeste'' por la expresión ''hasta el límite Oeste''.
+
+Valparaíso, 23 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
