@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.262, de 31 de marzo del 2000, se expropió el lote de terreno Nº501, superficie 128 m², rol de avalúo 1465-1, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Jeannette del Carmen Vargas Orrego, ascendente a la cantidad de $14.163.800.-
+
+Fiscal del Ministerio de Obras Públicas.
