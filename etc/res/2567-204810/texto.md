@@ -1,0 +1,5 @@
+Por resolución Nº2.567, de 8 de noviembre de 2002, de esta Subsecretaría, autorízase a CORPESCA S.A. para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº172, Nº252 y Nº999, todas del año 2000, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida Desiderio García s/n, Barrio Industrial, Iquique, I Región, en las líneas de elaboración de Harina y Aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Samasa o Anchoa blanca, Sardina redonda, Vinciguerria.
+
+Además, la peticionaria podrá utilizar los desechos provenientes de recursos hidrobiológicos que provengan de otras líneas de elaboración.
+
+Valparaíso, 8 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
