@@ -1,0 +1,1 @@
+Modifica el inciso 1° del artículo 3° de la ley 6,427, de 28 de septiembre de 1939, que autoriza a la Municipalidad de Rengo contratar empréstito por $ 800,000 a fin de efectuar diversas expropiaciones y obras de adelanto local.
