@@ -1,0 +1,3 @@
+Por resolución exenta Nº 371, de 11 de febrero de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204111030 presentada por SOCIEDAD DE INVERSIONES CAIQUENES LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Abandonados, isla Prieto, sector costa sur, XI Región.
+
+Valparaíso, 11 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
