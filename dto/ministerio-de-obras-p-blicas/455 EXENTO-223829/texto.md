@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 455 de fecha 26 de marzo de 2004, se expropió el lote de terreno Nº 2, superficie 1.990 m2, rol de avalúo Nº 786-00018, comuna de Ovalle, para la obra "Construcción Calle de Servicio Cerrillos Poniente-Enlace Fray Jorge, Sector Cerrillo Km. 0,00000 a 1,56414", IV Región y se acordó el valor de la indemnización con su propietario José Adán Iriarte Araya, ascendente a la cantidad de $1.443.694.
+
+Fiscal del Ministerio de Obras Públicas.
