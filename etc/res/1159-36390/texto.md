@@ -1,0 +1,7 @@
+Por Resolución N° 1.159, de 20 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CONSTRUCCIONES Y CARPINTERIA NAVAL CONCAR S.A., de esa ciudad, para desarrollar actividades pesqueras de transformación, autorizadas, en orden a operar una planta ubicada en Lote 5 D5 de Río Guanaco, Comuna de Navarino, Puerto Williams, XII Región, en las líneas de elaboración y recursos que a continuación se indican: Congelado: Anguila, Bacalao de profundidad, Brótula y Cabrilla; Fresco-enfriado: Cojinoba del sur, Congrio dorado, Merluza de cola y Merluza del sur; Conservas: Merluza de tres aletas, Palometa y Puye; Ahumado: Raya, Róbalo, Salmón del Atlántico, Salmón plateado, Sardina común, Tiburón o marrajo, Trucha arcoiris, Tollo, Lenguado de ojos chicos, Almeja, Calamar, Caracol picuyo, Caracol piquilhue, Caracol trophon, Caracol trumulco, Cholga, Choro, Chorito, Navaja de mar o Huepo, Jibia o calamar rojo, Lapa, Loco, Navajuela, Ostión del sur, Pota del Atlántico, Pota del Pacífico, Pulpo, Centolla, Centollón, Jaiba limón, Jaiba marmola, Jaiba peluda o pachona, Jaiba reina, Krill, Erizo, Pepino de mar y Piure.
+
+Los recursos Salmón del Atlántico, Salmón plateado y Trucha arcoiris, deberán provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 20 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
