@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION DE INMUEBLE QUE INDICA
+
+Por resolución 212, de 22 de octubre de 2002, Serviu Región del Bío-Bío ordenó expropiación parcial inmueble ubicado en calle Línea Férrea Hijuela 1, Rol de avalúo Nº 2720-4, comuna Chiguayante, superficie 807,60 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-16.980M; de aparente dominio de Constructora Estoril Ltda., para ejecución programa de viviendas en comuna de Chiguayante, conforme artículo 51 ley 16.391 y DL Nº 2.186. Comisión peritos integrada por Leonardo Eugenio Fasce Casanueva, arquitecto; Oscar Aurelio Chávez Alcaíno, ingeniero agrónomo, y Gonzalo Melo Sáez, constructor civil, según informe de fecha 20 de mayo de 2002, fijó monto provisional indemnización en $15.798.271.-, pagadera de contado.
+
+Director Serviu Región del Bío-Bío.
