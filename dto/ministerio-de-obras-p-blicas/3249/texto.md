@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.249, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 2, 3, 5, 9, 10, 11, 13, 15, 21, 25, 27, 28, 29 y 30, superficies 242, 42, 2.508, 1.085, 1.667, 1.433, 1.468, 7.342, 11.273, 2.075, 3.330, 6.591, 5.085 y 4.267 M2., respectivamente, roles de avalúos 612-1, 614-21, 612-36 y 613-1, comuna de Mulchén, obra Camino Mejoramiento Ruta Q-85, sector Mulchén Caledonia y se acordó precio de indemnización con sus propietarios Augusto Kuncar Zagmutt, Renato Castillo Poo, Samuel Kuncar Uhlmann y Jorge Rojas Lagos, ascendente a las cantidades de $2.136.739, lotes 2, 3, 5, 10 y 11; $593.064, lote 9; $19.426.532, lotes 13, 15, 21, 25 y 27, y $6.561.100, lotes 28, 29 y 30.-
+
+Fiscal del Ministerio de Obras Públicas.
