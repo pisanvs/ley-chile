@@ -1,0 +1,3 @@
+Mediante resolución Nº 25, de 22 de marzo del año 2001, se aprobó reforma parcial al estatuto de la Cooperativa de Ahorro y Crédito Antártica Ltda., o Coop-Antártica Ltda., de Valparaíso, en los términos que dan testimonio las escrituras públicas de fechas 26 de julio de 2000 suscrita ante el Notario de Valparaíso, don Ricardo Maure Gallardo, y de 15 de febrero de 2001, suscrita ante don Eduardo Gertosio Ramírez, notario suplente del titular precedentemente individualizado.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
