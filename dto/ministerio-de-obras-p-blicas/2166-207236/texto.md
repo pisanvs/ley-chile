@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.166, de fecha 29 de noviembre de 2002, se expropió el lote de terreno Nº1, superficie 18.909 M2, rol de avalúo 201-13, comuna de Río Ibáñez, XI Región, para la obra "Regularización de Terrenos que ocupa El Aeródromo de Puerto Ingeniero Ibáñez" y se acordó el valor de indemnización con su propietario don Leonor Morales Dinamarca, ascendente a la cantidad de $6.583.988.-
+
+Fiscal del Ministerio de Obras Públicas.
