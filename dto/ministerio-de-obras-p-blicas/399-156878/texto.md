@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N° 399, de 29 de noviembre de 1985, se expropiaron lotes 4-a, 5-a, 5-b, 7-a, 7-b, 7-c, 7-d, 12-a, 12-b, 13-a, 13-c, 13-d, 15-a, 15-b y 24-a, roles de avalúo de los terrenos 431-4, 431-5, 431-7, 432-4, 432-5, 432-7 y 432-16, Comuna de Santiago, para Avda. Norte- Sur- Balmaceda, sector oreja nororiente y se acordó precio de indemnización con los afectados don Roberto Orellana Tapia, Enrique Farías Yáñez, Rosamel Inostroza Retamal, Mauricio Segundo Bustos Acuña, Maria Elba Vega Gómez, Natalia Alvarado Améstica, Héctor Fernández Jiménez, Eduardo Hurtado Vergara, Marcos Brodsky Berstein, Bernardo Sandoval Espinoza, Erika Nevares V squez, Daniel Miretti Rissios, Héctor Luciano Ibacache Tello, Raúl Olave Cater y Viente Villavicencio Zavala, ascendente a $ 492.205, $ 50.000, $ 70.000, $ 50.000, $ 50.000, $ 50.000, $ 50.000, $ 50.000, $ 50.000, $ 75.000, $ 70.000, $ 70.000, $ 60.000, $ 50.000 y $ 143.000, respectivamente.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(2)
