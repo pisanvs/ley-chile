@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero, mediante Resolución Exenta No. 588, de 13 de Mayo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden a Reserva y sector expropiado del predio "Resto del Fundo San Ignacio", de la Comuna de Rancagua, Sexta Región, y Derechos de Aprovechamiento de Aguas que corresponden a las parcelas N°s. 1 a la 5 y sitio No. 1 del Proyecto de Parcelación "San Ignacio", formado por sector expropiado del predio señalado. Los derechos de agua se extraen del Rio Cachapoal 1ra. Sección Ribera Norte, por el Canal Lucano.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
