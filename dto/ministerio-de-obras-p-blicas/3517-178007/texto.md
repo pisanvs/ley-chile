@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.517, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 559-C y 559-D, para la obra: ''Concesión Internacional Ruta 5 Tramo: Santiago-Talca. Sector C: Acceso Sur a Santiago Km.
+
+17.700,00 al Km. 46.600,00'', Región Metropolitana, que figuran a nombre de Sociedad Agrícola Los Morros Ltda., rol de avalúo 321-94, comuna de Buin, superficies de 5.004 m2 y 5.044 m2., respectivamente. La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Jorge Eduardo Lackington Vergara y Mario Bochetti Ojeda, fijó con fecha 11 de mayo de 2000, el valor provisionl de la indemnización en las cantidades de $18.316.558.- para el lote Nº 559-C y $19.076.832.- para el lote Nº 559-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
