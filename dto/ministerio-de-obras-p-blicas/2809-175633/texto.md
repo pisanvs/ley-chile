@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.809, de 30 de junio del 2000, se expropió el lote de terreno Nº21-B, superficie 833 m2., rol de avalúo 30-215, comuna de Malloa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector F, Sexta Región, y se acordó el valor de indemnización con su propietario Jaime del Carmen Ríos Zamorano, ascendente a la cantidad de $7.871.978.
+
+- Fiscal del Ministerio de Obras Públicas.
