@@ -1,0 +1,3 @@
+Por decreto (exento) Nº881 de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº267, superficie 477 m², rol Nº61-471, comuna de Palmilla, VI Región para la obra "Camino Colchagua - Pichidegua, sector San Roberto Cruceros, tramo Km. 12,30000 a Km. 26,00400", y se acordó el valor de indemnización con su propietaria Rosa Enedina Escobar González, ascendente a la cantidad de $1.811.462.
+
+- Fiscal del Ministerio de Obras Públicas.
