@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.428, de 28 de septiembre del 2001, se expropió el lote de terreno Nº 48-1, superficie 559 m2., rol de avalúo 747-31, comuna de Bulnes, para la obra Concesión Internacional Ruta 5. Tramo Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Hosterías Las Brisas Limitada, ascendente a la cantidad de $1.953.155.-
+
+Fiscal del Ministerio de Obras Públicas.
