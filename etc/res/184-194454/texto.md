@@ -1,0 +1,3 @@
+Resolución Nº 184 del 6 de febrero del año 2002, dictada por el Secretario Regional Metropolitano de Transportes y Telecomunicaciones, aprueba procedimiento que establece el sistema de control de emisión de contaminantes, a que deben someterse los buses año de fabricación 1991 y 1992, durante los años 11 y 12 de antigüedad, concesionados en los Procesos de Licitación de Vías 1998 y 1998-II de la Región Metropolitana, en Plantas de Revisión Técnica. Procedimiento se contiene en oficio circular Nº 37/2002 dispuesto por dicho Secretario Regional Metropolitano y rige a contar de su publicación en el Diario Oficial del presente extracto.
+
+- Fernando Orellana Astorga, Secretario Regional Metropolitano de Transportes y Telecomunicaciones.
