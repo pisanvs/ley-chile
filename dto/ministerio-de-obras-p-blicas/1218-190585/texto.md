@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.218, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº42, superficie 686 m2., rol de avalúo Nº543-92, comuna de Linares, para la obra "Camino Ruta L-31, sector Polvorines - La Floresta, tramo Km. 0,00000 al Km. 15,48000", y se acordó el valor de indemnización con su propietaria Elena Emperatriz Soto Cerda, ascendente a la cantidad de $1.067.676.-
+
+Fiscal del Ministerio de Obras Públicas.
