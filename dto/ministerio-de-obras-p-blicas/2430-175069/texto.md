@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.430, de 30 de mayo de 2000, se expropió el lote de terreno Nº111, superficie 1.995 m², rol de avalúo 3140-29, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca, Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietaria Constructora e Inmobiliaria Jouannet Limitada, ascendente a la cantidad de $296.802.614.
+
+Fiscal del Ministerio de Obras Públicas.
