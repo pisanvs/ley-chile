@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.161 de fecha 31 de julio de 2001, se expropió el lote de terreno Nº 26, superficie 315 m², rol de avalúo en trámite, comuna de Codegua, para la obra ''Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 a Km. 9,317'' y se acordó el valor de indemnización con su propietario Reinaldo Eleodoro Moris Plaza y otros, ascendente a la cantidad de $15.270.349.
+
+Fiscal del Ministerio de Obras Públicas.
