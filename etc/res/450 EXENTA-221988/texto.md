@@ -1,0 +1,3 @@
+Por resolución exenta Nº 450, de 18 de febrero de 2004, de esta Subsecretaría, apruébase la solicitud presentada por SOCIEDAD AGRICOLA SALMONES CAICAEN LIMITADA para transferir la autorización de acuicultura otorgada por la resolución Nº 754 de 1988, de esta Subsecretaría, a Marine Harvest Chile S.A., ubicada en río Coihueco o sector Pescadero Grande, X Región. Apruébase el proyecto técnico presentado por Marine Harvest Chile S.A. individualizado en la resolución extractada.
+
+Valparaíso, 18 de febrero de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
