@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.370, de 16 de diciembre de 2003, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA EMAR LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Isla Chaulinec, Capilla Vieja, Achao, Quinchao, Chiloé, X Región, en las líneas de elaboración Fresco-Enfriado, Congelado, Seco Salado, Ahumado, Conserva y Deshidratado los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 16 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
