@@ -18,7 +18,7 @@ o Para los efectos de determinar el porcentaje de la jubilación del personal de
 
 #### Artículo 3
 
-o Ningún empleado podrá jubilar con la renta de su último empleo si no lo hubiere servido por tres años continuos, salvo que hubiere ascendido a él desde el empleo inmediatamente inferior en categoría o renta y desempeñado este cargo inferior por un año.
+o Ningún empleado podrá jubilar con la renta de su último empleo si no lo hubiere servido por tres años continuos, salvo que hubiere ascendido a él desde el empleo inmediatamente inferior en categoría o renta y desempeñado este cargo inferior por un año o hubiere servido más de 15 años en el Congreso Nacional.
 
 Si no se llenan estos requisitos la jubilación se calculará sobre el promedio de los tres últimos años.
 
@@ -31,6 +31,8 @@ o A contar desde el 1.o de Enero de 1938 y para los efectos de la ley N.o 5,489,
 #### Artículo 5
 
 o La pensión de jubilación de cargo de la Caja Nacional de Empleados Públicos y Periodistas se determinará en conformidad a las disposiciones de su Ley Orgánica.
+
+> **Nota.** El Art. 1° de la LEY 8045, publicada el 05.01.1945, dispuso que lo señalado en este artículo se entiende sin perjuicio de la obligación que corresponde al Fisco de hacerse cargo de las diferencias que resultaren con motivo de la aplicación del artículo 3.o de la presente ley. El Art. 2° de la LEY 8045 dispone que aquella regirá desde el 13 de Octubre de 1938, fecha de vigencia de la ley N.o 6,270, y que se entenderá incorporada a su texto.
 
 #### Artículo 6
 
