@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.634, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº29-B, superficie 208 M2, rol de avalúo 559-40, comuna de Linares, VII Región, para la obra ''Camino Ruta L-45, Sector Linares-Llepo, Tramo Km. 2,750.2 al 13,147'' y se acordó el valor de indemnización con su propietario doña Bernarda Idilia Villa Campos, ascendente a la cantidad de $1.829.165.-
+
+Fiscal del Ministerio de Obras Públicas.
