@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 709, de fecha 30 de Noviembre de 1995, se expropiaron los lotes de terreno N°s. 84, 88 y 89, superficies 2.849, 156, 228 M2., respectivamente, roles de avalúos 316-152 y 315-140, comuna de Quirihue, para la obra Camino Cauquenes-Límite Regional Quirihue, sector Cuesta y se acordó precio de indemnización con su propietaria Eulalia Hernández Bustos, ascendente a la cantidad de $681.200.
+
+Fiscal del Ministerio de Obras Públicas.
