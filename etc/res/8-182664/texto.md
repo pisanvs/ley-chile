@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 8, de fecha 31 de enero del año 2001, se autorizó la existencia y se aprobaron los estatutos de la Cooperativa de Trabajo San Juan, de nombre de fantasía Cooperativa San Juan, de la comuna de Corral, Décima Región, en los términos que da testimonio la escritura pública suscrita con fecha 14 de diciembre del año 2000, ante el Notario de Valdivia don Conrado Zülch Herrmann, suplente de la titular, doña Carmen Podlech Michaud, bajo el repertorio 5570-2000.
+
+Por orden del Sr. Subsecretario, Cecilia González Martínez, Jefe Departamento de Cooperativas (S).
