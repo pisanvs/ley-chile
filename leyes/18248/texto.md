@@ -1224,9 +1224,15 @@ Del amparo
 
 La concesión minera debe ser amparada mediante el pago de una patente anual cuyo monto será equivalente a un décimo de unidad tributaria mensual por cada hectárea completa, si es de explotación; y a un quincuagésimo de dicha unidad por la misma extensión, si es de exploración. Con todo, los titulares de pertenencias cuyo interés económico principal resida en las sustancias no metálicas o en los placeres metalíferos que existen en ellas y los titulares de pertenencias constituidas sobre sustancias existentes en salares, pagarán una patente anual cuyo monto será equivalente a un trigésimo de unidad tributaria mensual por cada hectárea completa; un reglamento determinará la forma en que esos titulares acreditarán los hechos, ya referidos, que los hagan acreedores a este beneficio, y señalará cuáles son las sustancias que se consideran no metálicas para estos efectos y cuáles constituyen para los mismos efectos, placeres metalíferos.
 
-> **Nota.** El artículo único de la Ley N° 19.143, publicada en el "Diario Oficial" de 17 de Junio de 1992, dispuso lo siguiente: "Una cantidad igual al producto de las patentes de amparo de las concesiones mineras, a que se refieren los Párrafos 1° y 2° del Título X del Código de Minería, que no constituyan tributos, se distribuirá entre las regiones y comunas del país en la forma que a continuación se indica: a) 70% de dicha cantidad se incorporará a la cuota del Fondo Nacional de Desarrollo Regional que anualmente le corresponda, en el Presupuesto Nacional, a la Región donde tenga su oficio el Conservador de Minas en cuyos Registros estén inscritas el acta de mensura o la sentencia constitutiva de las concesiones mineras que den origen a las patentes respectivas, y b) El 30% restante corresponderá a las Municipalidades de las Comunas en que estén ubicadas las concesiones mineras, para ser invertido en obras de desarrollo de la Comuna correspondiente. En el caso de que una concesión de exploración o una concesión de explotación se encuentre ubicada en territorio de dos o más Comunas, las respectivas Municipalidades deberán determinar, entre ellas, la proporción en que habrán de percibir la suma igual a la patente correspondiente a la concesión de exploración o a la concesión de explotación de que se trate, dividiendo su monto a prorrata de la superficie que sea abarcada por una u otra concesión, en cada Comuna. Si no hubiere acuerdo entre las aludidas Municipalidades respecto de la citada proporción, el Servicio Nacional de Geología 9y Minería determinará qué superficie de las correspondientes concesiones queda comprendida en en cada Comuna. La Ley de Presupuestos de cada año incluirá en los presupuestos de los Gobiernos Regionales que corresponda, las cantidades a que se refiere la letra a) de este artículo. El Servicio de Tesorerías pondrá a disposición de las Municipalidades los recursos a que se refiere la letra b), dentro del mes subsiguiente al de su recaudación.".
+Por la o las pertenencias en explotación, sean propias o arrendadas, que trabajen los pequeños mineros y los mineros artesanales se pagará una patente anual de un diezmilésimo de unidad tributaria mensual por hectárea completa. Para ello, se entiende por pequeños mineros y mineros artesanales a las personas naturales que exploten una o más pertenencias personalmente y con un máximo de 12 o de 6 dependientes, respectivamente, como asimismo a las sociedades legales mineras y a las cooperativas mineras, siempre que no cuenten con más de 12 o de 6 dependientes, respectivamente y que cada socio o cooperado trabaje personalmente en la explotación. Los requisitos señalados, más las circunstancias de que el minero cuenta con todos los permisos y servidumbres que fueren necesarios para explotar, lo habilitarán para solicitar al Servicio que se le reconozca el derecho a pagar esta patente especial; el reglamento determinará el procedimiento, los antecedentes, declaraciones juradas y plazos que se aplicarán para impetrar el beneficio. Tal reconocimiento durará dos períodos anuales de pago, vencidos los cuales, podrá solicitarse nuevamente, cumpliendo los requisitos indicados.
 
-> **Nota.** NOTA 1 El artículo transitorio de la Ley N° 19.143, publicada en el "Diario Oficial" de 17 de Junio de 1992, ordenó que lo dispuesto en su artículo único se aplicará a contar del 1° de enero de 1993.
+Para los efectos del inciso anterior, bastará con que una sola pertenencia se encuentre en explotación por un pequeño minero o minero artesanal, para que se presuma que todas las pertenencias, provenientes de una misma acta de mensura, de que es dueño o arrendatario, también lo están. No obstante, en el caso de sociedades legales mineras y de las cooperativas mineras la presunción se aplicará solamente a las pertenencias de que sean dueñas.
+
+En ningún caso los pequeños mineros o mineros artesanales que sean personas naturales podrán obtener este beneficio por una superficie mayor de 100 hectáreas o de 50, respectivamente, computándose para ello las pertenencias de que sean dueños o arrendatarios sus parientes por consanguinidad hasta el segundo grado o por afinidad hasta el tercero, salvo que estos últimos sean concesionarios de pertenencias localizadas en comunas distintas de aquélla en que se ubican las de quien impetre el beneficio. A las sociedades legales mineras y a las cooperativas mineras se les aplicará el límite de 100 hectáreas a las pertenencias de que sean dueñas.
+
+En el caso que se pretenda impetrar el beneficio de la patente especial a que se refiere el inciso segundo para una o más pertenencias arrendadas, tal beneficio sólo podrá concederse respecto de la o las pertenencias en que se ubique la faena que constituye la explotación. Para estos efectos el contrato deberá identificar inequívocamente dichas pertenencias.
+
+El Servicio publicará anualmente la nómina de las pertenencias y personas beneficiadas.
 
 #### Artículo 143
 
@@ -1282,13 +1288,15 @@ El mínimo para la subasta de cada lote de concesiones será el valor de las pat
 
 El dueño de la concesión no será admitido a hacer posturas por ella, pero podrá eliminarla de la subasta hasta el momento del remate, pagando el doble del valor adeudado.
 
-> **Nota.** NOTA: 5 El artículo único de la LEY 19201, publicada el 03.02.1993, prorrogó por única vez, hasta el 28 de febrero de 1993, el pago de la patente minera anual que debió efectuarse en el curso del mes de marzo de 1992, en la forma y condiciones que dicha norma indica.
+> **Nota.** NOTA 5: El artículo único de la LEY 19201, publicada el 03.02.1993, prorrogó por única vez, hasta el 28 de febrero de 1993, el pago de la patente minera anual que debió efectuarse en el curso del mes de marzo de 1992, en la forma y condiciones que dicha norma indica.
 
-> **Nota.** NOTA: 6 El Artículo único de la LEY 19294, publicada el 03.03.1994, prorrogó, hasta el 30 de Junio de 1994, a los titulares de concesiones mineras, el plazo para el pago de la patente anual que debió efectuarse en el curso del mes de marzo de 1993. Dicho pago se hará en la forma que la norma indica.
+> **Nota.** NOTA 6: El Artículo único de la LEY 19294, publicada el 03.03.1994, prorrogó, hasta el 30 de Junio de 1994, a los titulares de concesiones mineras, el plazo para el pago de la patente anual que debió efectuarse en el curso del mes de marzo de 1993. Dicho pago se hará en la forma que la norma indica.
 
-> **Nota.** NOTA: 7 Ver LEY 19349, publicada el 11.11.1994, que establece nuevo plazo para pago de patentes mineras que indica.
+> **Nota.** NOTA 7: Ver LEY 19349, publicada el 11.11.1994, que establece nuevo plazo para pago de patentes mineras que indica.
 
-> **Nota.** NOTA: 8 Ver LEY 19639, publicada el 07.10.1999, que suspende por una vez la aplicación del recargo establecido en este inciso, a los pequeños mineros y mineros artesanales en la forma que indica.
+> **Nota.** NOTA 8: Ver LEY 19639, publicada el 07.11.1999, que suspende por una vez la aplicación del recargo establecido en este inciso, a los pequeños mineros y mineros artesanales en la forma que indica.
+
+> **Nota.** NOTA 9: El Art. 2º transitorio de la LEY 19719, publicada el 30.03.2001, dispuso la condonación de las deudas por concepto del recargo establecido en este inciso.
 
 #### Artículo 150
 
@@ -1374,15 +1382,17 @@ El valor de las patentes mineras será de exclusivo beneficio fiscal y no será 
 
 #### Artículo 164
 
-A contar del año en que la pertenencia comience a ser explotada por su propietario o terceros, las cantidades pagadas en el mes de marzo a título de patente minera tendrán el carácter de un pago provisional voluntario de aquellos a que se refiere el artículo 88 de la Ley de la Renta. Tales pagos provisionales voluntarios, debidamente reajustados en la forma prevista en la norma indicada, deberán ser imputados exclusivamente a las siguientes obligaciones tributarias, según el caso:
+A contar del año en que la pertenencia comience a ser explotada por su propietario o terceros, las cantidades pagadas antes de que el Tesorero General de la República cumpla con lo dispuesto en el inciso primero del artículo 156 a título de patente minera tendrán el carácter de un pago provisional voluntario de aquellos a que se refiere el artículo 88 de la Ley de la Renta. Tales pagos provisionales voluntarios, debidamente reajustados en la forma prevista en la norma indicada, deberán ser imputados exclusivamente a las siguientes obligaciones tributarias, según el caso:
 
-1°.- A las retenciones que afectan a los mineros y empresas mineras según lo dispuesto por el artículo 74, N° 6, de la Ley de la Renta;
+1°. A las retenciones que afectan a los mineros y empresas mineras según lo dispuesto por el artículo 74, N° 6, de la Ley de la Renta;
 
-2°.- A los pagos provisionales obligatorios que deban efectuar las empresas mineras, según lo dispuesto por la letra d) del artículo 84 de la Ley de la Renta, o
+2°. A los pagos provisionales obligatorios que deban efectuar las empresas mineras, según lo dispuesto por la letra d) del artículo 84 de la Ley de la Renta, o
 
-3°.- Al impuesto de Primera Categoría que afecte la regalía, renta de arrendamiento o prestación de similar naturaleza, percibida por el titular de una pertenencia entregada a terceros para su explotación.
+3°. Al impuesto de Primera Categoría que afecte la regalía, renta de arrendamiento o prestación de similar naturaleza, percibida por el titular de una pertenencia entregada a terceros para su explotación.
 
-Las imputaciones a que se refieren los números 1° y 2° sólo podrán hacerse valer respecto de las retenciones y pagos provisionales obligatorios que afecten a las ventas que se realicen en los doce meses inmediatamente siguientes a aquel en que deba efectuarse el pago de la patente minera, no habiendo lugar a devolución o imputación de los saldos que no hubieren podido imputarse en dicho plazo y forma.
+Las imputaciones a que se refieren los números 1° y 2° sólo podrán hacerse valer respecto de las retenciones y pagos provisionales obligatorios que afecten a las ventas que se realicen en el período anual amparado, no habiendo lugar a devolución o imputación de los saldos que no hubieren podido imputarse en dicho plazo y forma.
+
+Las imputaciones a que se refiere el inciso anterior podrán también hacerse valer por los vendedores que exploten pertenencias ajenas a cualquier título, cuando el respectivo contrato les imponga el pago de la patente minera, en cuyo caso no habrá lugar a la imputación referida en el número tercero del inciso primero, en favor del titular de la pertenencia entregada a terceros para su explotación.
 
 #### Artículo 165
 
