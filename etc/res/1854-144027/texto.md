@@ -1,0 +1,3 @@
+Por resolución Nº 1.854, de 16 de septiembre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96122013, presentada por Inversiones Morrillos S.A., para operar un centro de cultivo ubicado en Canal Santa María, comuna de Natales, provincia de Ultima Esperanza, XII Región.
+
+Valparaíso , 16 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
