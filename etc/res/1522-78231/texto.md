@@ -1,0 +1,5 @@
+Por Resolución Nº 1.522, de 13 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ANDRES NOLBERTO BRICEÑO OLIVARES, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Latorre Nº 8, parte alta Población Vicuña Mackenna, Sector Quebrada Agua Salada, Freirina, III Región, donde podrá procesar, en la línea de elaboración de Picado y Molienda de Algas, los siguientes recursos hidrobiológicos: Chascón, Huiro palo y Huiro flotador.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 13 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
