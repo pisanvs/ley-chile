@@ -5602,11 +5602,11 @@ Por consiguiente, cualquier sistema que habiliten las instituciones financieras 
 
 6.1.- Procesamiento de cheques de la plaza.
 
-Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, deducidos los giros efectuados mediante dispositivos electrónicos auto-suficientes hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos desde otras cuentas en el mismo banco, que se realicen hasta antes de las 9 horas del día hábil bancario siguiente al de la recepción de los documentos procesados en la primera cámara, oportunidad en que debe quedar finalizado el proceso.
+Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos, que se encuentren disponibles, desde otras cuentas en el mismo banco o correspondientes a créditos que este haya otorgado, acreditadas en la cuenta corriente antes de cargar los cheques recibidos en canje.
 
 6.2.- Procesamiento de cheques de otras plazas.
 
-Los cheques recibidos en canje en la primera reunión de que trata la letra e) del numeral 9.2 del Título II del Reglamento, deberán ser protestados, cuando proceda, sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario inmediatamente anterior a la fecha en que se realice la tercera reunión de que trata la letra g) del numeral 9.2 antes mencionado, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes después del cierre del día hábil bancario antes señalado, hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos desde otras cuentas en el mismo banco, que se realicen después del cierre del. día hábil bancario mencionado y hasta antes de las 9 horas del día hábil bancario en el que se realice la tercera reunión ya indicada.
+Para los efectos del protesto de los cheques recibidos en canje en la primera reunión de que trata la letra e) del numeral 9.2 del Título II del Reglamento, deberán considerarse los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario inmediatamente anterior a la fecha en que se realice la tercera reunión de que trata la letra g) del numeral 9.2 antes mencionado, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes y sumadas las transferencias de fondos que se encuentren disponibles, desde otras cuentas en el mismo banco o correspondientes a créditos otorgados por este, efectuadas después del cierre del día hábil bancario antes mencionado.
 
 Lo anterior es sin perjuicio de que contablemente los cheques recibidos en la primera cámara deben registrarse globalmente según lo señalado en el N° 2 de este título.
 
@@ -8130,7 +8130,9 @@ Además el beneficiario de un crédito de esta naturaleza deberá suscribir un p
 
 ### 4. Intereses
 
-Los intereses de los sobregiros otorgados en cuentas corrientes ordinarias o especiales, se cobrarán en la forma en que expresamente se convenga, pero siempre por períodos vencidos no inferiores a 30 días, salvo que se trate de operaciones pactadas a plazos menores. En todo caso, se recomienda que en lo posible, esos cargos se efectúen al término de cada mes calendario.
+Los intereses de los sobregiros otorgados en cuentas corrientes ordinarias o especiales, se cobrarán en la forma en que expresamente se convenga, pero siempre por períodos vencidos no inferiores a 30 días, salvo que se trate de operaciones pactadas a plazos menores. Debe tenerse presente que esos intereses sólo pueden cobrarse a partir del momento en que el sobregiro efectivamente se produce, esto es, cuando se paga y carga a la cuenta corriente el correspondiente cheque, o bien, a partir de la fecha en que se efectúa a la cuenta corriente un débito autorizado. De ninguna manera podrán devengarse intereses que comprendan un período anterior a la fecha del cargo a la cuenta corriente.
+
+Se recomienda que, en lo posible, los cargos en cuenta corriente por concepto de intereses por sobregiro, se efectúen al término de cada mes calendario.
 
 Conjuntamente con realizar el cargo a la cuenta corriente bancaria del deudor, el banco deberá remitirle un aviso en que se comunique el importe de los intereses adeudados y debitados a su cuenta.
 
@@ -15814,10 +15816,6 @@ Los antecedentes mencionados en este anexo deberán permitir una evaluación efi
 
 ANEXO N°2
 
-ANEXO N° 2
-
-Pág 1
-
 ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO
 
 A continuación se describen los tipos de servicios que esta Superintendencia ha autorizado para la constitución de empresas de apoyo al giro:
@@ -15834,9 +15832,11 @@ A continuación se describen los tipos de servicios que esta Superintendencia ha
 
 - Pagos previsionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc.
 
-- Participación en sociedad de depósito de valores creada de conformidad con la Ley N° 18876.
+- Participación en sociedad de depósito de valores creada de conformidad con la Ley N° 18.876.
 
 - Recopilación y preevaluación de antecedentes de potenciales clientes de una institución financiera.
+
+- Prestación de servíaos de personal a sus asociados y a las filiales de estos.
 
 ANEXO N° 3
 
