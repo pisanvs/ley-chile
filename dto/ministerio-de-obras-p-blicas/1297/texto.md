@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.297, de 31 de agosto de 1998, se dejó sin efecto el decreto MOP Nº1.116, de 20 de noviembre de 1997, en la parte que se refiere a la expropiación de los lotes Nºs. 3 y 5, roles de avalúos Nºs.3.118-5 y 3.119-11 de la comuna de Chiguayante, que figuran a nombre de Dr. Gustav Von Plessing y Comp. Ltda. y Osvaldo Aqueveque Oliva, respectivamente, necesarios para la ejecución de la obra Alcantarillado de Chiguayante, Unidad Vecinal Nº10 - Manquimávida.-
+
+Fiscal del Ministerio de Obras Públicas.
