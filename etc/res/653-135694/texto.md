@@ -1,0 +1,5 @@
+Por resolución Nº653, de 22 de abril de 1999, de esta Subsecretaría, se rechaza la solicitud presentada por PESQUERA EPERVA S.A., para incluir las naves ''Angamos 3'' y ''Eperva 61'' en la nómina de armadores y naves habilitadas para operar en la pesquería del Jurel de la III y IV Regiones. Declárase la caducidad parcial de la resolución Nº1.618 de 1989, de esta Subsecretaría, en cuanto autorizó a Pesquera Eperva S.A. a operar con su nave ''Angamos 3'' en el litoral de la III Región sobre los siguientes recursos: Anchoveta, Caballa, Jurel y Sardina española.
+
+Declárase la caducidad parcial de la resolución Nº575 de 1993, de esta Subsecretaría, en cuanto autorizó a Pesquera Eperva S.A. a operar con su nave ''Eperva 61'' en el litoral de la III y IV regiones sobre los siguientes recursos: Agujilla, Bacaladillo, Bonito, Caballa, Jurel, Machuelo o tritre, Palometa, Pejerrey de mar, Roncacho y Sardina española.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
