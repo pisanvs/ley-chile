@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.147, de fecha 29 de mayo del 2000, se expropió los lotes de terreno Nºs. 16, 18 y 25, superficie 4.500, 350 y 4.109 m², respectivamente, roles de avalúo 1404-6 y 1441-007, comuna de Puerto Varas, para la obra "Camino V-505, sector Pto. Varas-Los Alerces Pto. Montt, Km. 0,000 a Km. 16,340" y se acordó el valor de indemnización con sus propietarios Guido Alfonso Bohle Puschmann y Ewaldo Mödinger Leichtle, ascendente a las cantidades de $15.416.580.- para los lotes 16 y 18 y $6.982.161.- para el lote 25.-
+
+Fiscal del Ministerio de Obras Públicas.
