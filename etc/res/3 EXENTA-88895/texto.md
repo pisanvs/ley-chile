@@ -1,0 +1,5 @@
+DELEGA EN FUNCIONARIOS QUE INDICA FACULTADES PARA CONOCER Y RESOLVER DENUNCIAS POR INFRACCIONES TRIBUTARIAS
+
+Mediante Resolución Ex. Nº 3, de 10 de diciembre de 1997, el Suscrito delegó en el Jefe del Departamento Jurídico Regional y en los Jefes de las Unidades de Coquimbo, Ovalle e Illapel, la facultad de conocer y resolver denuncias por infracciones tributarias contempladas en los artículos 97º, Nº 16, inciso tercero y 109º del Código Tributario, y para conceder las condonaciones que soliciten respecto de las sanciones aplicadas, todo lo anterior conforme lo previsto en la Resolución Nº Ex. 5.277, de 23 de octubre de 1997, de la Dirección Nacional del Servicio, publicada en el Diario Oficial del 31.10.97, que autorizó esta delegación y que fue modificada por Resolución Nº Ex. 5.458, de 31 de octubre de 1997, de la Dirección Nacional, publicada en el Diario Oficial del 08.11.97.-
+
+Luis Muñoz Arratia, Director Regional.
