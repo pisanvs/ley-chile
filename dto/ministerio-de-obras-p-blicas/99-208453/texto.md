@@ -1,0 +1,5 @@
+Por decreto MOP Nº 99, de 19 de febrero de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 102 para la obra:
+
+"Sistema Norte - Sur. Tramo F: Carlos Valdovinos - Río Mapocho. Sector: Km. 2.900,00 al Km. 3.240,00", Región Metropolitana, que figura a nombre de Esso Industrial Ltda., rol de avalúo 1614-1, comuna de Quinta Normal, superficie 1.443 m2. La comisión de peritos integrada por los señores Mufida Viola Abuawad Elias, Ricardo Antonio Strickler Arellano y Roberto Carlos Muñoz Ordenes, fijó con fecha 6 de diciembre de 2002, el valor provisional de la indemnización en la cantidad de $254.249.300.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
