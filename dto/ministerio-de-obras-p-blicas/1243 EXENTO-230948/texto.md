@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.243 de fecha 31 de agosto de 2004, se expropió el lote de terreno Nº 33-A, superficie 538,60 m², rol de Avalúo Nº 2210-10, comuna de Osorno, para la obra "Camino Ruta U-72, Sector Osorno - Huilma, Km. 0,000 al Km. 18,100", X Región y se acordó el valor de la indemnización con su propietario Felizardo Uribe Rosas, ascendente a la cantidad de $682.118.-
+
+Fiscal del Ministerio de Obras Públicas.
