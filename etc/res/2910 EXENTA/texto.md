@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.910, de 18 de octubre de 2004, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 99101059 presentada por MIGUEL NENADOVICH DEL RIO, para el centro de cultivo otorgado mediante resolución Nº 752 de 1995, modificado mediante resolución Nº 378 de 1998, ambas de la Subsecretaría de Marina, ubicado en estero Reloncaví, sector Pocoihuén Alto, seno Reloncaví, X Región.
+
+Valparaíso, 18 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
