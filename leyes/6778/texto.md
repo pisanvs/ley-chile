@@ -1,0 +1,1 @@
+Concede a don Néstor García Kowoll el derecho a gozar de las remuneraciones correspondientes al empleo de Coronel de Ejército.
