@@ -1,0 +1,3 @@
+Por decreto MOP Nº 524 de fecha 30 de junio de 2004, se expropió el lote de terreno Nº 27, superficie 9.054 M2, Rol Nº 327-16, comuna de Laja, VIII Región para la obra "Camino Ruta Q-34, Candelaria-La Laja Sector Millantú-La Laja, Km. 20,00000 al 35,88380" y se acordó el valor de indemnización con su propietario Nivaldo Rodolfo Chávez Valdebenito y otros, ascendente a la cantidad de $7.729.046.- para el lote Nº 27.
+
+- Fiscal del Ministerio de Obras Públicas.
