@@ -1,0 +1,3 @@
+Por resolución Nº2.392, de 27 de octubre de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Playa Changa Sector A, IV Región, individualizada en el artículo 1º) Nº3 del DS Nº398 de 1998, modificado mediante DS Nº110 de 1999, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentado por la COOPERATIVA PESQUERA PESCALMAR LIMITADA.
+
+Valparaíso, 27 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
