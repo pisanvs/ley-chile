@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.560, de 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 213-A y 213-B, superficies 130 m² y 542 m², rol de avalúo 610-1, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, Octava Región y se acordó el valor de indemnización con su propietaria Inés del Rosario Torres Castillo, ascendente a la cantidad total de $283.039.-
+
+Fiscal del Ministerio de Obras Públicas.
