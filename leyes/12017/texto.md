@@ -8,9 +8,7 @@ Por cuanto el Congreso Nacional ha dado su aprobación al siguiente Proyecto de 
 
 <!-- parte:10294194 -->
 
-Establécese un impuesto de un 5 % sobre el precio de venta de la gasolina y petróleo que se expenda en las. provincias de Santiago, Valparaíso y Aconcagua.
-
-Autorizase al Presidente de la República para contratar uno o más empréstitos, internos o externos, para la ejecución de las obras que ordena esta ley, cuyo servicio de amortizaciones e intereses deberá hacerse con cargo a los recursos que ella provee.
+DEROGADO.
 
 #### Artículo 2º
 
