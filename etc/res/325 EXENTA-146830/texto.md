@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 325 de 23 de Marzo de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Reserva Sector Expropiado Predio "Hijuela Número Tres del Fundo Denominado Hijuela Oriente de Pahuilmo o de La Carrera", de la Comuna de Melipilla, Región Metropolitana: y Derechos de Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a 43, y Sitios N°s. A, Aa, Ab 1, Ab2, Ac, Ad, Ac 1, Ac 2, Al, Ag, Al, Aj, Al, Am, An, Ap, As, At, B, C, D, E, F, G, H, I, J, K, L, M, Ñ, O, P, Q, S, T, U, V, W, X, Y y Z, del Proyecto de Parcelación "Hermanos Carrera y Unión La Carrera", formado, entre otros, por predio señalado. Los Derechos de Agua se extraen de los canales Higuerillas, Italiano Manzano y Sur, todos de la Asociación Canales de Mallarauco.- Publicación hecha conforme Art. 13 Ley No.
+
+18.377.
+
+Director Ejecutivo.
