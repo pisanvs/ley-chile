@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE RESOLUCION QUE INDICA
+
+Por resolución No. 242 de 04 de Marzo de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad de la resolución No. 142, de 1979, de esta Subsecretaría, que autorizó a don Stig Blomstrom Persson, R.U.T. No. 6.393.162-4, domiciliado en Boca Sur s/n, Casilla 357, Concepción, para desarrollar actividades de cultivo e industrialización de las especies Salmonídeos denominadas: Trucha arcoiris (de origen nacional e importada) y Salmones (de origen importada) en el Río Laja, VIII Región, por haber incurrido en la causal establecida en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 04 de Marzo de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
