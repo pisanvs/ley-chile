@@ -1,0 +1,3 @@
+Por resolución Nº 1.993, de 7 de octubre de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 757 de 1996, de esta Subsecretaría, que autorizó a ROBERTO CHRISTIAN HAYDEN NAVARRETE, para instalar y operar el centro de cultivo ubicado al sur de Punta Huequi, Caleta Ayacara, Comuna de Chaitén, X Región.
+
+Valparaíso, 7 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
