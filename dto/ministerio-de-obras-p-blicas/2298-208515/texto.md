@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.298, de 31 de diciembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 30-1, para la obra:
+
+"Concesión Variante Melipilla. Km. 0.000,00 a Km. 8.444,07", Región Metropolitana, que figura a nombre de Lara López Julio Andrés, rol de avalúo 2004-53, comuna de Melipilla, superficie 16.707 m2. La comisión de peritos integrada por los señores Itsang Lu Chen, Paz Alexandra Harbin Fernández y José Cristián Larraín Barros, fijó con fecha 25 de noviembre de 2002, el valor provisional de la indemnización en la cantidad de $18.783.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
