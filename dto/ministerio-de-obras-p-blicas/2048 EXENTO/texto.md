@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 2.048, de 31 de diciembre de 2001, se expropió el lote de terreno Nº 240-2A, superficie 253 m2., rol de avalúo 99-447, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos Sector Kms. 146.860,00 al 147.200,00, Quinta Región y se acordó el valor de indemnización con su propietaria Leontina Silvia Ramírez Gutiérrez, ascendente a la cantidad de $795.887.-
+
+Fiscal del Ministerio de Obras Públicas.
