@@ -1,0 +1,3 @@
+Por decreto MOP exento P Nº323, de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs. 17 y 18, superficies 780,3 m² y 638,7 m², rol de avalúo 138-52, comuna de Chonchi, para la obra "Camino Ruta 5, Sector Chonchi-Tara, Km. 1.205,160 a Km. 1.215,004" y se acordó el valor de indemnización con su propietario René Galvarino Quelin Quelin, ascendente a la cantidad de $1.765.474.
+
+Fiscal del Ministerio de Obras Públicas.
