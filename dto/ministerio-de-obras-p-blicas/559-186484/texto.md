@@ -1,0 +1,3 @@
+Por decreto MOP Nº 559 de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 91-A, superficie 367,50 m2, rol de avalúo 612-14, comuna de Nueva Imperial, para la obra "Camino Ruta S-16, Sector Galvarino - Chol-Chol Tramo Kms. 0,00000 al 24,33510" y se acordó el valor de indemnización con su propietario René Arturo Trombert de la Harpe, ascendente a la cantidad de $206.286.-
+
+Fiscal del Ministerio de Obras Públicas.
