@@ -1,0 +1,3 @@
+Por decreto MOP Nº4579, de fecha 29 de Septiembre de 2000, se expropió el lote de terreno Nº89, superficie 1.137 M2., rol de avalúo 37-187, comuna de Requinoa, para la obra ''Camino Caletones - Termas de Cauquenes, Conexión Ruta 5 Sur, Roles H-255; H-35 y H-405, Sector Coya - Gultro, Km. 0,0000 a 28,38019'' y se acordó el valor de indemnización con su propietario Orlando Agustín Torres Valenzuela, ascendente a la cantidad de $2.971.825.-
+
+Fiscal del Ministerio de Obras Públicas.
