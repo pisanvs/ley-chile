@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.546, de 17 de octubre de 2003, de esta Subsecretaría, declárase la caducidad de la resolución Nº 2.496 de 2000, de esta Subsecretaría, que autorizó a PESQUERA PACIFICO SUR S.A. para realizar actividades con la nave "Don Enrique", sobre el recurso Alfonsino, en el área marítima de la I Región, en el área comprendida entre el límite norte de la III Región y el paralelo 41°28,6' L.S., y en el Archipiélago de Juan Fernández, Islas Desventuradas e Isla de Pascua.
+
+Valparaíso, 17 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
