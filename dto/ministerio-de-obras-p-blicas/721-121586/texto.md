@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº 721, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 105 de DFL. MOP.
+
+Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, de 1964 y del DFL. MOP. Nº 206, de 1960, se expropiaron los lotes de terreno Nº s. 120, 123, 125 y 126, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos - La Serena, Sector B Hornillos - La Herradura, que figuran a nombre de Peretta Cervieri Angelina Leticia, rol de avalúo 876-1, comuna de Coquimbo, IV Región, superficies 8.961, 9.844, 41.049 y 15.070 m2, respectivamente. La Comisión de Peritos compuesta por los señores Alfredo Alvaro Prieto Parra, Luis Jeffery Mercado y Augusto Sepúlveda Paul, fijó con fecha 7 de marzo de 1998, el valor provisional de las indemnizaciones en las cantidades de $ 2.688.300, para el lote Nº 120; $ 4.429.800, para el lote Nº 123; $ 17.650.600, para el lote Nº 125 y $ 6.781.500, para el lote Nº 126. Las indemnizaciones se pagar n al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
