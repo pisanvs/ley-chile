@@ -1,0 +1,3 @@
+Por Resolución N° 639, de 10 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a MARTA CECILIA TADEA BAHAMONDE BARRIA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Bulutauco, kilómetro 2, Camino Dalcahue-Mocopulli (rural) Dalcahue, X Región, donde podrá procesar en las líneas de elaboración de Fresco-enfriado los siguientes recursos hidrobiológicos: Congrio dorado, Corvina, Jurel, Merluza del sur, Pejegallo, Puye, Raya, Salmón del Atlántico, Salmón plateado, Sardina española, Tollo, Almeja, Chorito, Macha, Ostra del Pacífico, Pulpo, Erizo.
+
+Valparaíso, 10 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
