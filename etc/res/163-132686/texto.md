@@ -1,0 +1,3 @@
+Por resolución Nº163 de 31 de agosto de 1998, de Serviu Región de Coquimbo, se ordenó expropiación, conforme art. 51 Ley 16.391 y D.L. 2.186 de 1978, de parte del inmueble ubicado en calle Amunátegui Nº625 presunto rol avalúo 204-3 comuna La Serena, aparentemente dominio de don Hernán Toro R., de una superficie aproximada de 54,00 metros cuadrados. Comisión Peritos integrada por don Patricio Mena López, Alfredo Prieto Parra y doña Iris Marcich Moller, arquitectos, según informe de 30 de junio de 1998, fijó monto provisional indemnización en $10.951.956 pagadera al contado.-
+
+Director Serviu Región Coquimbo.
