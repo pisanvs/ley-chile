@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.486, de 31 de mayo de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.88 y 89 para la obra:
+
+''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco''; Km. 641,70000 a Km. 644,95000, Novena Región, que figuran a nombre de Faure Fernández María Cristina, rol de avalúo 250-17, comuna de Lautaro, superficies 937 y 892 m2. respectivamente. La comisión de peritos integrada por los señores Lautaro Francisco Soto Rodríguez, Claudio Benjamín Rojas García y Claudio Ricardo González Valenzuela, fijó con fecha 31 de marzo de 1999, el valor provisional de las indemnizaciones en las cantidades de $2.841.000.- para el lote 88 y $2.706.000.- para el lote 89. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
