@@ -1,0 +1,5 @@
+Por resolución Nº 970, de 8 de abril de 2004, de esta Subsecretaría, modifícase la resolución Nº 871 de 2004, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de Referencia del Proyecto denominado "Caracterización de la captura de pez espada (Xiphias gladius) realizada por la flota artesanal de las Regiones I a X", en el sentido de reemplazar su numeral 4º inciso 1º por el siguiente:
+
+"4.- Podrán participar en la presente pesca de investigación las embarcaciones artesanales que cumplan los siguientes requisitos: a) tener puerto base entre la I y la X Regiones; b) inscribirse previamente en las oficinas del Instituto de Fomento Pesquero antes del 30 de abril de 2004".
+
+Valparaíso, 8 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
