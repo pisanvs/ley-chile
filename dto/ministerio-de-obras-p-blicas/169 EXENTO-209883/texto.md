@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 169 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 33-A, superficie 637,00 m2, Rol Nº 225-83, comuna de Olmué, V Región para la obra "Ruta F-10-G, Cuesta La Dormida, Etapa 2, Km. 10,98400 a Km. 34,50000" y se acordó el valor de indemnización con su propietario Lorenzo Vitalicio Hidalgo Zamora, ascendente a la cantidad de $1.372.785.
+
+Fiscal del Ministerio de Obras Públicas.
