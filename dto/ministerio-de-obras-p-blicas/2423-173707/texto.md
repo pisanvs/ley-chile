@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.423 de fecha 30 de mayo de 2000, se expropió los lotes de terreno Nºs. 5 y 6, superficie 443,44 y 440,00 m² respectivamente, rol de avalúo 163-19, comuna de Los Andes, para la obra ''Av. Argentina-Los Andes, Camino Cruce Longitudinal (Llay-Llay), Túnel Cristo Redentor Rol 60 CH, Sector Avenida Argentina, Km. 0.000,00 a Km. 2.306,30'' y se acordó el valor de indemnización con su propietaria Zaira Berta Cruciani López, ascendente a la cantidad de $247.413.717.
+
+Fiscal del Ministerio de Obras Públicas.
