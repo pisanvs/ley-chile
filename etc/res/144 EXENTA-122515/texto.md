@@ -1,0 +1,7 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A LEONARDO PIÑONES GONZALEZ
+
+La II Dirección Regional Antofagasta del SII, por resolución Nº Ex. 144 de 15 julio 1998, otorga, a contar del 1º del mes siguiente al de esta publicación y hasta el 31 de julio de 1999 a Leonardo Piñones González Rut 6.438.863-0, la calidad de agente retenedor del Impuesto al Valor Agregado en las operaciones de ganado vivo, establecido en la Res. Nº Ex.
+
+2.379/98 de la Dirección Nacional, publicada en el Diario Oficial del día 24.04.98, modificada por Res. Nº Ex. 3.785/98 publicada en el Diario Oficial del 30.06.98.
+
+Antofagasta, 15 de Julio de 1998.- Raúl Fierro Pérez, Director Regional (S).
