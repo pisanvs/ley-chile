@@ -1,0 +1,7 @@
+AUTORIZA A DON RENE MARTIN SOTO BARRIUSO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 23 de 09 de Enero de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción. se autoriza a don René Martín Soto Barriuso, R.U.T. No. 6.215.345-8, domiciliado en Avenida Barros Borgoño No. 14439, Viña del Mar, para iniciar las actividades pesqueras, en orden a operar la embarcación en construcción, en el litoral de las Regiones III a VII, donde podrá extraer los siguientes recursos hidrobiológicos: Almeja o taca, caracol locate, cholga, lapa, calamar, jaiba, macha, anchoa, jurel, sardina, atún, corvina, marrajo o tiburón, tollo, bacalao de profundidad o mero, pejegallo, choro, sardina común y chorito. Además, el interesado podrá extraer en el litoral de la I a la X Región el recurso albacora o pez espada (Xiphias gladius).
+
+Deniégase la autorización solicitada por el peticionario para operar la nave indicada precedentemente en el litoral de la I, II y VIII a XII Región, sin perjuicio de lo expresado en relación al recurso albacora o pez espada en el inciso 2 del numeral 3° de la presente resolución. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Enero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
