@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº879 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº10-B, superficie 200 m2., rol de avalúo Nº65-290, comuna de Teno, para la obra ''Camino Ruta J-25, sector Cruce Longitudinal-La Montaña, Km. 0,22000 al 25,00000'', VII Región y se acordó el valor de indemnización con su propietario Oscar Antonio Chávez Salvatierra, ascendente a la cantidad de $961.230.-
+
+Fiscal del Ministerio de Obras Públicas.
