@@ -1,0 +1,3 @@
+Por Resolución Nº 343 de 18 de abril de 1997 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. Nº 2.186 de 1978, de parte del inmueble ubicado en Avda. Domingo Santa María Nº 4087, presunto rol de avalúos Nº 498-15 comuna de Renca, de aparente dominio de don Luis Dámaso García Montero. Comisión integrada por peritos Sra. Patricia Zavala Contreras, constructor civil, Jorge Navarro Navarrete, arquitecto y Raúl Undurraga Montes, ingeniero civil según informe de 5 de febrero de 1997 fijó monto provisional de indemnización en $1.865.900.- pagadera al contado.
+
+Director SERVIU Metropolitano.
