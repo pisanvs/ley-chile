@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 1.433 de fecha 28 de septiembre del 2001, se expropió el lote de terreno Nº 55, superficie 257 m2., rol de avalúo 187-139, comuna de San Vicente, para la obra ''Proyecto Mejoramiento Ruta H-830, Sector San Vicente - El Cardal - Millahue, Tramo Km. 0,000 al Km. 8,622'' y se acordó el valor de indemnización con su propietario Patricio Vicente Umaña Mora, ascendente a la cantidad de $1.184.554.
+
+- Fiscal del Ministerio de Obras Públicas.
