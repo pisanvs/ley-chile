@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.439 de fecha 30 de septiembre del 2002, se expropió el lote de terreno Nº56-A, superficie 2.939 m2, rol Nº192-214, comuna de San Clemente, VII Región, para la obra ''Camino Los Robles - Huencuecho - Bajo Perquín, Sector Huencuecho - Bajo Perquín, Tramo Km. 46.140,00 a Km. 76.107,70'' y se acordó el valor de indemnización con su propietaria Teresa del Pilar Mestre Fuster, ascendente a la cantidad de $537.942.-
+
+Fiscal del Ministerio de Obras Públicas.
