@@ -1,0 +1,9 @@
+EXTRACTO DE DECRETO Nº 320 EXENTO, DE 2003
+
+Por decreto exento Nº320 de fecha 9 de mayo de 2003 del Ministerio de Educación, se modifica el artículo 1º del decreto exento de Educación Nº271 del 20 de julio de 2000 del Centro de Formación Técnica Juan Bohon en el sentido de impartir la carrera de Asistente de Educador de Párvulos conducente al título de Técnico de Nivel Superior de Asistente de Educador de Párvulos, con una modalidad de Educación a Distancia, por única vez, para los alumnos funcionarios que se desempeñan como Asistentes en la Atención del Párvulo en establecimientos dependientes de la Junta Nacional de Jardines Infantiles -Junji o en establecimientos que se relacionen con Junji, que cumplen los requisitos de ingreso a este nivel de educación y con las exigencias establecidas por la institución.
+
+El programa especial de titulación a nivel nacional, modalidad a distancia, se desarrollará de acuerdo al número de horas del plan de estudios aprobado por el Ministerio de Educación, más un proceso de titulación, con un régimen semestral de un año académico y con ocho módulos de autoaprendizaje, en una primera etapa a partir del 14 de enero de 2002 al 26 de mayo de 2003, según nómina que se anexa y que forma parte del decreto.
+
+Asimismo, se mantiene para todos los efectos legales lo dispuesto en el artículo 1º del decreto exento de Educación Nº271 del 20 de julio de 2000 del Centro de Formación Técnica Juan Bohon, de aprobación del plan y programas de la carrera de Asistente de Educador de Párvulos, para los alumnos regulares del centro antes mencionado.
+
+Santiago, 28 de mayo de 2003.- María Ariadna Hornkohl Venegas, Subsecretaria de Educación.
