@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.000, de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nºs. 143, 144, 145, 146, 146-A, 147, 148, 149 y 150, superficies 372 m2, 550 m2, 354 m2, 373 m2, 132 m2, 329 m2, 338 m2, 360 m2 y 373 m2, respectivamente, rol de avalúo 61-206, comuna de Lampa, Región Metropolitana, para la obra ''Camino Ruta G-184-182, Sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 al 15,04419'' y se acordó el valor de indemnización con su propietario don Carlos Alfredo Urrutia Belmar, ascendente a la cantidad de $12.775.360.
+
+Fiscal del Ministerio de Obras Publicas
