@@ -1,0 +1,3 @@
+Por resolución Nº 1.972 de 7 de septiembre de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura 97103029, presentada por SOCIEDAD AGRICOLA Y PESQUERA CHILLEHUE LIMITADA, para instalar y operar el centro de cultivo ubicado en caleta Alqui, isla Tranqui, comuna de Queilén, provincia de Chiloé, X Región.
+
+Valparaíso, 7 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
