@@ -160,7 +160,7 @@ De los Jueces de Distrito y de los Jueces de Subdelegación
 
 #### Artículo 14
 
-En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de seis mil pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de doce mil pesos.
+En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo los distritos del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de cuarenta escudos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de noventa escudos.
 
 Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 
@@ -169,6 +169,8 @@ Lo dispuesto en los incisos precedentes regirá también en toda sección de dis
 Los jueces de distrito no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
 Los Jueces de Distrito no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
+
+No obstante lo dispuesto en el inciso primero, el Presidente de la República, previo informe de la Corte de Apelaciones respectiva, podrá crear o mantener Juzgados de distrito, fijando en el decreto correspondiente el territorio sobre el cual ejercerán jurisdicción, pudiendo, además, restringir la competencia asignada a dichos tribunales a una o más de las materias de que ordinariamente deban conocer.
 
 #### Artículo 15
 
@@ -240,9 +242,9 @@ A los jueces de distrito corresponden las atribuciones propias de ministro de fe
 
 #### Artículo 25
 
-En cada subdelegación de la República que no esté comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
+En cada subdelegación de la República que no esté comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía, salvo las subdelegaciones del Departamento Presidente Aguirre Cerda, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
 
-1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de doce mil pesos y no pase de treinta mil;
+1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de noventa escudos y no pase de ciento ochenta escudos;
 
 2°) En segunda instancia, de las causas de que conocieren en primera los respectivos jueces de distrito; y
 
@@ -252,11 +254,13 @@ Les corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 
 Lo dispuesto en este artículo regirá también en toda sección de subdelegación no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
 
-No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de quince mil pesos.
+No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de cuarenta escudos.
 
 Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
 Los Jueces de Subdelegación no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
+
+No obstante lo dispuesto en el inciso primero, el Presidente de la República, previo informe de la Corte de Apelaciones respectiva, podrá crear o mantener Juzgados de subdelegación, fijando en el decreto correspondiente el territorio sobre el cual ejercerán jurisdicción, pudiendo, además, restringir la competencia asignada a dichos tribunales a una o más de las materias de que ordinariamente deban conocer.
 
 #### Artículo 26
 
@@ -286,11 +290,9 @@ Podrá también el Presidente de la República, a instancia de las mismas Cortes
 
 #### Artículo 29
 
-Habrá, además, un juzgado de letras de menor cuantía en Alto de San Antonio (Iquique), Pampa Unión (Antofagasta), Andacollo, Viña del Mar, Sewell (Rancagua), Curanilahue, Santa Juana, Temuco, Valdivia y San José de la Mariquina.
+Habrá además, un Juzgado de Letras de Menor Cuantía en Pica (Iquique), Pedro de Valdivia (Antofagasta), El Salvador (Chañaral), Andacollo (Coquimbo), Viña del Mar (Valparaíso), Sewell (Rancagua), Linares, Coelemu (Tomé), Talcahuano, Santa Juana (Coronel), Laja, Temuco, Valdivia, Panguipulli (Valdivia), San José de la Mariquina (Valdivia) y Los Lagos (Valdivia).
 
-Los Juzgados de Viña del Mar y de San José de la Mariquina ejercerán jurisdicción sobre las subdelegaciones de sus respectivos nombres.
-
-Inciso suprimido.
+Inciso derogado.
 
 Respecto del territorio jurisdiccional de los demás juzgados a que se refiere este artículo, regirá lo dispuesto en el artículo anterior.
 
@@ -304,7 +306,7 @@ Creado un juzgado de letras de menor cuantía, no podrá ser suprimido sino por 
 
 Regirá, también, respecto de estos juzgados lo dispuesto en el inciso final del art. 28.
 
-Asimismo el Presidente de la República podrá, previo informe de la Corte de Apelaciones respectiva, disponer en el decreto de creación que estos Tribunales tengan la competencia especial establecida en el artículo 39.o.
+Asimismo el Presidente de la República podrá, previo informe de la Corte de Apelaciones respectiva, disponer que estos Tribunales tengan la competencia especial establecida en el artículo 39.o.
 
 #### Artículo 31
 
@@ -316,17 +318,15 @@ Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcio
 
 Los jueces de letras de menor cuantía conocerán:
 
-1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de treinta mil pesos;
+1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de ciento ochenta escudos;
 
-2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de treinta mil pesos y no sea superior a trescientos mil pesos, y
+2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de ciento ochenta escudos y no sea superior a tres mil seiscientos cincuenta escudos, y
 
 3.o) De los asuntos que otras leyes entreguen a su conocimiento.
 
-En los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de nueve mil pesos, y en primera instancia hasta la suma de noventa mil pesos.
+Incisos derogados.
 
-Sin embargo, tratándose de los juicios de reconvenciones de pago, conocerán hasta la suma de treinta mil pesos en única instancia y hasta ochenta mil pesos en primera instancia.
-
-Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de veinticinco mil pesos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
+Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de doscientos setenta escudos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
 
 Los Jueces de Letras de Menor Cuantía no tendrán la competencia indicada en este artículo cuando ella corresponda a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
@@ -368,7 +368,7 @@ Si en la capital del departamento hubiere dos o más jueces letrados de menor cu
 
 Los jueces de letras de menor cuantía conocerán, además, de las siguientes materias:
 
-1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de trescientos mil pesos.
+1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de tres mil seiscientos cincuenta escudos.
 
 Pero si se promoviere contienda sobre el dominio del predio dominante o sirviente, o sobre la adquisición por prescripción u otro título de una manera especial de ejercer la servidumbre, se inhibirán de todo conocimiento.
 
@@ -380,9 +380,9 @@ Será competente para conocer de estos juicios el juez del lugar donde hubiere o
 
 3°) De las notificaciones de las actas de protestos de cheques a las personas domiciliadas en la respectiva jurisdicción.
 
-Si el valor del cheque excediere de trescientos mil pesos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
+Si el valor del cheque excediere de tres mil seiscientos cincuenta escudos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
 
-4°) De las cuestiones civiles valorizables hasta trescientos mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
+4°) De las cuestiones civiles valorizables hasta tres mil seiscientos cincuenta escudos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
 #### Artículo 39
 
@@ -426,25 +426,25 @@ Suprimido.
 
 En cada departamento habrá un Juzgado de Letras de Mayor Cuantía, que deberá funcionar en la respectiva capital.
 
-Existirán dos juzgados de mayor cuantía en los departamentos de Iquique, Antofagasta, Ovalle, Rancagua, Talca, Chillán, La Laja, Temuco, Valdivia y Osorno, y tres en Concepción.
+Existirán dos Juzgados de Mayor Cuantía en los Departamentos de Iquique, Antofagasta, Copiapó, La Serena, Ovalle, Rancagua, Curicó, Talca, La Laja, Temuco, Valdivia, Osorno, Llanquihue y Magallanes; tres en los de Arica y Chillán y cuatro en Concepción.
 
-En el departamento de Santiago habrá cinco Juzgados de Mayor Cuantía, que ejercerán jurisdicción exclusivamente en materia civil y siete en materia criminal; en el de Valparaíso dos en lo civil y tres en lo criminal y en el departamento Presidente Aguirre Cerda, uno que conocerá exclusivamente de asuntos civiles y del trabajo, y otro en materia criminal.
+En el Departamento de Santiago habrá siete Juzgados de Mayor Cuantía, que ejercerán jurisdicción exclusivamente en materia civil y nueve en materia criminal; en Valparaíso, dos en lo civil y cuatro en lo criminal, uno de estos últimos con asiento en la ciudad de Viña del Mar, y en el Departamento Presidente Aguirre Cerda, dos que conocerán exclusivamente de asuntos civiles y cuatro en materia criminal.
 
 #### Artículo 43
 
-Para todos los efectos del servicio judicial se considerarán como parte integrante del departamento de San Bernardo las comunas-subdelegaciones de San José de Maipo y Puente Alto del departamento de Santiago; y del departamento de Maipo, la comuna-subdelegación de Pirque del mismo departamento de Santiago.
+Los Jueces del Crimen del departamento de Santiago ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago, pero podrán practicar actuaciones en todo el departamento, en los asuntos sometidos a su conocimiento.
 
-Los jueces del crimen del departamento de Santiago ejercerán su jurisdicción dentro del territorio que les asigne el Presidente de la República, previo informe de la Corte de Apelaciones de Santiago; pero podrán practicar actuaciones en todo el departamento, en los asuntos sometidos a su conocimiento.
+El Presidente de la República podrá modificar los límites de la jurisdicción territorial de los Juzgados a que se refiere el inciso anterior, previo acuerdo de la misma Corte. No podrá hacer uso de esta facultad más de una vez al año.
 
-El Presidente de la República podrá modificar los límites de la jurisdicción territorial de los juzgados a que se refiere el inciso anterior, previo acuerdo de la misma Corte. No podrá hacer uso de esta facultad más de una vez al año.
+No obstante lo dispuesto en el inciso primero del artículo anterior, el Juzgado de Letras de Mayor Cuantía de Pisagua tendrá su asiento en la localidad de Huara, que será considerada capital del departamento para todos los efectos del Servicio Judicial, y su territorio jurisdiccional estará formado por las comunas subdelegaciones de Huara y Pozo Almonte y el departamento de Pisagua, con excepción del distrito 5) Tana, que corresponderá a la jurisdicción de los Juzgados de Arica.
 
 #### Artículo 44
 
-Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Casablanca, Limache, Quilpué, Florida (Concepción), Villarica, que tendrán su asiento en la ciudades cabeceras de esas comunas subdelegaciones, las cuales serán consideradas como departamentos para todos los efectos del Servicio de Judicial.
+Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Casablanca, Limache, Quilpué, La Calera, Florida (Concepción), Lota, Curanilahue, Carahue y Villarica, que tendrán su asiento en la ciudades cabeceras de esas comunas subdelegaciones, las cuales serán consideradas como departamentos para todos los efectos del Servicio Judicial, con excepción de La Calera y Curanilahue.
 
 Los territorios jurisdiccionales de los Tribunales a que se refiere este artículo serán los de las comunas-subdelegaciones de sus respectivos nombres.
 
-El Juzgado de Limache comprenderá, además, la comuna de Villa Alemana; el de Casablanca, la comuna de Algarrobo; el de Carahue, la comuna de Saavedra, con excepción de los distritos 8) Molco, 9) Pucolón y 10) Chelle, los cuales continuarán perteneciendo a la jurisdicción del Juzgado de Letras de Mayor Cuantía de Imperial; y el de Villarrica, comprenderá también la comuna de Pucón.
+El Juzgado de Limache comprenderá, además, la comuna de Villa Alemana; el de La Calera, las comunas de La Calera, Hijuelas, Nogales y Llay-Llay; el de Casablanca, las comunas de Algarrobo y Curacaví; el de Carahue, la comuna de Saavedra, con excepción de los distritos 8) Molco, 9) Pucolón y 10) Chelle, los cuales continuarán perteneciendo a la jurisdicción del Juzgado de Letras de Mayor Cuantía de Imperial; y el de Villarrica, comprenderá también la comuna de Pucón.
 
 #### Artículo 45
 
@@ -452,11 +452,11 @@ Los jueces de letras de mayor cuantía conocerán:
 
 1°) En única o en primera instancia, conforme al inciso final de este número:
 
-a) De las causas civiles sobre cosas cuyo valor exceda de treinta mil pesos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de quince mil pesos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
+a) De las causas civiles sobre cosas cuyo valor exceda de ciento ochenta escudos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de cuarenta escudos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía y a los Jueces de Policía Local que sean abogados, de acuerdo con la Ley sobre Organización y Atribuciones de los Juzgados de Policía Local.
 
 b) De las causas de comercio, con la misma salvedad de la letra precedente.
 
-Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de quince mil pesos y las causas de comercio que no excedan de treinta mil pesos y en primera todas las demás.
+Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de cuarenta escudos y las causas de comercio que no excedan de ciento ochenta escudos y en primera todas las demás.
 
 2°) En primera instancia:
 
@@ -564,45 +564,49 @@ Las Cortes de Apelaciones
 
 #### Artículo 54
 
-Habrá en la República diez Cortes de Apelaciones, que tendrán su asiento en las ciudades de Iquique, La Serena, Valparaíso, Santiago, Talca, Chillán, Concepción, Temuco, Valdivia y Punta Arenas.
+Habrá en la República doce Cortes de Apelaciones que tendrán su asiento en las ciudades de Iquique, Antofagasta, La Serena, Valparaíso, Santiago, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia y Punta Arenas.
 
 #### Artículo 55
 
 El territorio jurisdiccional de las Cortes de Apelaciones será el siguiente:
 
-a) El de la Corte de Iquique comprenderá las provincias de Tarapacá y Antofagasta, exceptuado de esta última el departamento de Taltal;
+a) El de la Corte de Iquique comprenderá la provincia de Tarapacá;
 
-b) El de la Corte de La Serena comprenderá las provincias de Atacama y Coquimbo y el departamento de Taltal;
+b) El de la Corte de Antofagasta comprenderá la provincia de Antofagasta;
 
-c) El de la Corte de Valparaíso comprenderá las provincias de Aconcagua y Valparaíso;
+c) El de la Corte de La Serena comprenderá las provincias de Atacama y Coquimbo;
 
-d) El de la Corte de Santiago comprenderá las provincias de Santiago, O'Higgins y Colchagua;
+d) El de la Corte de Valparaíso comprenderá las provincias de Aconcagua y Valparaíso;
 
-e) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuado de esta última el departamento de Parral;
+c) El de la Corte de Santiago comprenderá la provincia de Santiago, exceptuando el departamento de Maipo;
 
-f) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuado de esta última el departamento de Constitución;
+f) En la Corte de Rancagua comprenderá las provincias de O'Higgins y Colchagua y el departamento de Maipo de la provincia de Santiago;
 
-g) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
+g) El de la Corte de Talca comprenderá el departamento de Constitución de la provincia de Maule y las provincias de Curicó, Talca y Linares, exceptuando de esta última el departamento de Parral;
 
-h) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín; e
+h) El de la Corte de Chillán comprenderá el departamento de Parral de la provincia de Linares y las provincias de Ñuble y Maule, exceptuando de esta última el departamento de Constitución;
 
-i) El de la Corte de Valdivia comprenderá las provincias de Valdivia, Osorno, Llanquihue y Chiloé; y
+i) El de la Corte de Concepción comprenderá las provincias de Concepción, Bío-Bío y Arauco;
 
-j) El de la Corte de Punta Arenas comprenderá las provincias de Aysen y Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
+j) El de la Corte de Temuco comprenderá las provincias de Malleco y Cautín;
+
+k) El de la Corte de Valdivia comprenderá las provincias de Valdivia, Osorno, Llanquihue y Chiloé, y
+
+l) El de la Corte de Punta Arenas comprenderá las provincias de Aysén y Magallanes y la Antártida Chilena o Territorio Chileno Antártico.
 
 #### Artículo 56
 
 Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
 
-1°) Las Cortes de Iquique, La Serena, Talca, Chillán y Temuco tendrán cuatro miembros;
+1° La Corte de Punta Arenas tendrá tres miembros;
 
-1°) La Corte de Punta Arenas, tendrá tres miembros.
+2° Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca, Chillán y Valdivia tendrán cuatro miembros;
 
-2°) La Corte de Valdivia tendrá cinco miembros;
+3° La Corte de Temuco tendrá cinco miembros;
 
-3°) Las Cortes de Valparaíso y Concepción tendrán siete miembros; y
+4° Las Cortes de Valparaíso y Concepción tendrán siete miembros, y
 
-4°) La Corte de Santiago tendrá veintiuno miembros.
+5° La Corte de Santiago tendrá veintiún miembros.
 
 #### Artículo 57
 
@@ -618,7 +622,15 @@ La Corte de Apelaciones de Santiago tendrá cuatro fiscales. El ejercicio de sus
 
 #### Artículo 59
 
-Cada Corte de Apelaciones tendrá un relator; las de Chillán y Temuco tendrán dos; las de Valparaíso, Concepción y Valdivia, tres; y la de Santiago, diez.
+Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
+
+1°.- Las Cortes de Iquique, Antofagasta, La Serena, Rancagua, Talca y Punta Arenas tendrán un Relator;
+
+2°.- Las Cortes de Chillán y Valdivia tendrán dos Relatores.
+
+3°.- Las Cortes de Valparaíso, Concepción y Temuco tendrán tres Relatores, y
+
+4°.- La Corte de Santiago tendrá diez Relatores.
 
 #### Artículo 60
 
@@ -674,9 +686,9 @@ La Corte de Santiago conocerá de los recursos de apelación y de casación en l
 
 La Corte de Apelaciones de Temuco conocerá de las apelaciones y consultas que procedan en los asuntos que hayan sido fallados en primera instancia por los Juzgados de Indios.
 
-La Corte de Apelaciones de Punta Arenas será considerada, dentro del territorio de su jurisdicción, como Tribunal de Alzada del Trabajo para todos los efectos legales.
+Las Cortes de Apelaciones de Antofagasta, La Serena y Punta Arenas serán consideradas, dentro del territorio de su jurisdicción, como Tribunales de Alzada del Trabajo para todos los efectos legales.
 
-Con este objeto, funcionará integrada en la forma establecida en los artículos 499.o, inciso primero y segundo, 500 y 501 del Código del Trabajo y regirán a su respecto las facultades establecidas en el artículo 503.o del mismo Código.
+Con este objeto, funcionarán integradas en la forma establecida en los artículos 499, incisos primero y segundo, 500 y 501 del Código del Trabajo y regirán a su respecto las facultades establecidas en el artículo 503 del mismo Código.
 
 #### Artículo 66
 
@@ -1024,11 +1036,11 @@ Si en alguna ocasión y por motivos graves y urgentes, acordare el tribunal reta
 
 7°) Oír y resolver las reclamaciones que se interpongan contra los subalternos de la Corte Suprema; y
 
-8°) Designar a uno de los miembros del tribunal para que quede de turno durante el feriado de vacaciones.
+8°) Designar a uno de los miembros del Tribunal para que quede de turno durante el feriado de vacaciones.
 
-El ministro que ejerciere este cargo tendrá la facultad de convocar extraordinariamente al Tribunal siempre que algún asunto urgente y grave así lo exija.
+El Ministro que ejerciere este cargo tendrá la facultad de convocar extraordinariamente al Tribunal siempre que algún asunto urgente y grave así lo exija.
 
-En caso de licencia, imposibilidad u otra causa accidental, será reemplazado por el ministro más antiguo del mismo tribunal que se halle presente.
+En caso de licencia, imposibilidad u otra causa accidental, será reemplazado por el Ministro más antiguo del mismo Tribunal que se halle presente.
 
 #### Artículo 106
 
@@ -1128,7 +1140,7 @@ Si el demandado al contestar la demanda entablare reconvención contra el demand
 
 No podrá deducirse reconvención sino cuando el tribunal tenga competencia para conocer de ella, estimada como demanda, o cuando sea admisible la prórroga de jurisdicción. Podrá también deducirse aún cuando por su cuantía la reconvención debiera ventilarse ante un juez inferior.
 
-En los juicios cuya cuantía no exceda de quinientos pesos y de que conozcan los jueces de letras de menor cuantía, no podrá el demandado deducir reconvención que exceda de dicha cantidad, a menos que acepte discutir su derecho en conformidad al procedimiento de la demanda primitiva. En caso contrario pedirá la reserva de acciones para un juicio separado, El tribunal acogerá la reserva en definitiva, y la sentencia no producirá la excepción de cosa juzgada si el nuevo juicio se iniciare dentro de los diez días siguientes al de su notificación.
+Inciso derogado.
 
 #### Artículo 125
 
@@ -1322,7 +1334,7 @@ Si los delitos se cometen en un departamento en que existan dos o más Juzgados 
 
 El culpable de diversos delitos será juzgado por todos ellos en un solo proceso, para lo cual se acumularán las causas iniciadas o por iniciarse en su contra; y las personas que en ellas figuren como reos quedarán sometidas a la jurisdicción del tribunal a quien corresponda conocer en los procesos acumulados.
 
-Sin perjuicio de la regla anterior, el juez podrá dictar por medio de un auto motivado, la desacumulación de los procesos o su substanciación por cuerda separada, cuanto éstos tengan una tramitación diferente o plazos especiales para su tramitación. Los procesos separados seguirán tramitándose ante el mismo juez que conocía de ellos acumulados y al fallarlos deberá considerar las sentencias que hayan sido dictadas con anterioridad en estos procesos.
+Sin perjuicio de la regla anterior, el Juez podrá ordenar por medio de un auto motivado la desacumulación de los procesos o su substanciación por cuerda separada, cuando éstos tengan una tramitación diferente o plazos especiales para su tramitación, o la acumulación determine un grave retardo en la substanciación de las causas. En este último caso, la resolución deberá consultarse. Los procesos separados seguirán tramitándose ante el mismo Juez a quien correspondía conocer de ellos acumulados y al fallarlos deberá considerar las sentencias que hayan sido dictadas con anterioridad en estos procesos. Si procediere unificar las penas, el Tribunal lo hará al dictar la última sentencia. Con todo, este último fallo no tomará en consideración las sentencias anteriores para apreciar las circunstancias modificatorias de responsabilidad penal.
 
 #### Artículo 161
 
@@ -1373,6 +1385,10 @@ Si siendo muchos los responsables de un delito o de varios delitos conexos, hubi
 #### Artículo 170
 
 Si un mismo individuo fuere responsable de delitos sometidos a la jurisdicción militar y a la jurisdicción ordinaria, será competente para juzgarlo por todos los delitos la jurisdicción militar; pero respecto a la decisión de los delitos comunes el tribunal militar se ajustará a las leyes del fuero común.
+
+#### Artículo 170 bis
+
+El juez que conozca de un proceso por delitos cometidos en diversos departamentos o delitos cuyos actos de ejecución se realizaron también en varios departamentos, podrá practicar directamente actuaciones judiciales en cualquiera de ellos.
 
 ### 6. Reglas sobre competencia civil de los tribunales en lo criminal
 
@@ -1600,7 +1616,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema, deberá pagarse en estampillas un impuesto de $ 500, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 300.
+Para recusar a un abogado integrante de la Corte Suprema, deberá pagarse en estampillas un impuesto de diez escudos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de diez escudos.
 
 #### Artículo 199
 
@@ -1724,21 +1740,13 @@ La integración de las salas de la Corte de Santiago se hará preferentemente co
 
 #### Artículo 216
 
-Si en una sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las salas de que se componga el tribunal; y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
+Si en una Sala de las Cortes de Apelaciones no queda ningún miembro hábil se deferirá el conocimiento del negocio a otra de las Salas de que se componga el Tribunal y si la inhabilidad o impedimento afecta a la totalidad de sus miembros, pasará el asunto a la Corte de Apelaciones que deba subrogar según las reglas siguientes:
 
-La Corte de Apelaciones de Iquique se subrogará por la de La Serena;
+Se subrogarán recíprocamente las Cortes de Apelaciones de Iquique con la de Antofagasta; la de Santiago con la de Valparaíso; la de Rancagua con la de Talca; la de Chillán con la de Concepción y la de Temuco con la de Valdivia.
 
-Las Cortes de La Serena y de Valparaíso, por la de Santiago;
+Las Cortes de La Serena y Punta Arenas se subrogarán por las de Santiago y Valdivia, respectivamente.
 
-La Corte de Santiago, por la de Valparaíso;
-
-Las Cortes de Talca y de Concepción, por la de Chillán, y ésta por la de Concepción;
-
-La Corte de Temuco, por la de Valdivia, y ésta por aquélla;
-
-La Corte de Punta Arenas, por la de Valdivia.
-
-En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe subrogarse.
+En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Corte de Apelaciones cuya sede esté más próxima a la de la que debe ser subrogada.
 
 #### Artículo 217
 
@@ -1754,7 +1762,9 @@ Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados inte
 
 #### Artículo 219
 
-Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará, en el mes de Enero de cada año, doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, y tres para cada una de las demás Cortes de Apelaciones, previa formación, por la Corte Suprema, de ternas.
+Para los efectos de lo dispuesto en los artículos 215 y 217 de este Código, el Presidente de la República designará doce abogados para la Corte Suprema, diez para la Corte de Apelaciones de Santiago, y tres para cada una de las demás Cortes de Apelaciones, previa formación, por la Corte Suprema, de ternas.
+
+La designación de abogados integrados de las Cortes de Apelaciones se hará en el mes de Enero de cada año. Los abogados designados para la Corte Suprema lo serán por un período de tres años, efectuándose el nombramiento en el mes de Enero en que comienza el trienio respectivo.
 
 Las ternas serán formadas tomando los nombres de una lista que, en el mes de Diciembre de cada año, enviarán a la Corte Suprema los Consejos de los Colegios de Abogados residentes en los asientos de las diversas Cortes de Apelaciones. En esta lista deberán figurar abogados que tengan su residencia en la ciudad que sirve de asiento al tribunal respectivo y que reúnan las condiciones requeridas para ejercer los cargos de ministros.
 
@@ -1762,7 +1772,9 @@ Si no hubiere Colegio de Abogados, las listas serán formadas por las Cortes de 
 
 Estas listas se compondrán, para Santiago, de 40 nombres, y de 15 para las demás Cortes.
 
-Para la formación de las ternas de los abogados integrantes de la Corte Suprema, este tribunal tomará sus nombres de una lista de 45 abogados, que reúnan las condiciones exigidas en el inciso segundo, y que le será enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre de cada año.
+Para la formación de las ternas de los abogados integrantes de la Corte Suprema, este tribunal tomará sus nombres de una lista de 45 abogados, que reúnan las condiciones exigidas en el inciso segundo, y que le será enviada por el Consejo General de la Orden de los Abogados, en el mes de Diciembre en que termina el trienio respectivo.
+
+Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los otros dos componentes de la terna que formó la Corte Suprema en la oportunidad respectiva.
 
 En las ternas, no se podrán repetir nombres.
 
@@ -2076,9 +2088,7 @@ No podrá existir el parentesco de consanguinidad hasta el cuarto grado o de afi
 
 #### Artículo 261
 
-Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las escuelas dependientes de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de diez horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
-
-> **Nota.** El artículo único de la ley 9585, publicada el 04.04.1950, declaró que el sentido de la incompatibilidad establecida en el presente artículo es que aquella no rige para los abogados integrantes de los Tribunales Superiores ni para los abogados subrogantes de los jueces.
+Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor en las escuelas dependientes de la Universidad de Chile, de la enseñanza secundaria y especial hasta un límite de diez horas semanales y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas y del Consejo Nacional de Menores.
 
 ### 3. De los nombramientos y del escalafón de los funcionarios judiciales
 
@@ -2494,19 +2504,31 @@ Están igualmente obligados a asistir todos los días a la sala de su despacho, 
 
 #### Artículo 313
 
-Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el quince de Enero y durará hasta el primero de Marzo.
+Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el primero de Febrero y durará hasta el primero de Marzo.
 
 Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal.
 
 #### Artículo 314
 
-Durante el feriado de vacaciones funcionarán diariamente los jueces de letras de mayor cuantía y de Menor Cuantía que ejerzan jurisdicción en lo civil, para conocer de los asuntos en que se conceda habilitación de feriado; y en los departamentos en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva.
+Durante el feriado de vacaciones funcionarán de lunes a viernes de cada semana los jueces de letras de mayor y menor cuantía que ejerzan jurisdicción en lo civil para conocer de aquellos asuntos a que se refiere el inciso segundo de este artículo. En los departamentos en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva. En Santiago funcionarán dos juzgados de letras de mayor cuantía y dos de menor en lo civil, de acuerdo con el turno que señale la Corte de Apelaciones de Santiago para tal efecto. La distribución de las causas entre estos juzgados se hará por el Presidente de este Tribunal.
+
+Los jueces durante el feriado de vacaciones deberán conocer de todas las cuestiones de jurisdicción voluntaria, de los juicios posesorios, de los asuntos a que se refiere el N° 1 del artículo 680 del Código de Procedimiento Civil, de los juicios de alimentos, de los juicios del trabajo y de los asuntos relativos a menores cuando les corresponda, de las medidas prejudiciales y precautorias, de las gestiones a que dé lugar la notificación de protestos de cheques, de los juicios ejecutivos hasta la traba de embargo inclusive, y de todas aquellas cuestiones respecto de las cuales se conceda especialmente habilitación de feriado. En todo caso, deberán admitirse a tramitación las demandas, de cualquiera naturaleza que ellas sean, para el solo efecto de su notificación.
+
+La habilitación a que se refiere el inciso anterior deberá ser solicitada ante el tribunal que ha de quedar de turno, y en aquellos lugares en que haya más de un Juzgado de turno, la solicitud quedará sujeta a la distribución de causas a que se refiere el inciso primero. Sin embargo, en este último caso, y siempre que se trate de un asunto que con anterioridad al feriado esté conociendo uno de los Juzgados que quede de turno, la solicitud de habilitación se presentará ante él.
+
+El Tribunal deberá pronunciarse sobre la concesión de habilitación dentro del plazo de 48 horas contado desde la presentación de la solicitud respectiva. La resolución que la rechace será fundada. En caso de ser acogida, deberá notificarse por cédula a las partes.
+
+En Santiago, los Tribunales deberán remitir, salvo lo dispuesto en el inciso tercero de este artículo, las causas habilitadas a la Corte de Apelaciones para su distribución.
+
+En todo caso, las partes, de común acuerdo, podrán suspender la tramitación de cualquier asunto durante el feriado judicial.
 
 #### Artículo 315
 
-Durante el mismo período deberá quedar actuando una sala en cada Corte de Apelaciones, en conformidad al turno que ella establezca.
+Durante el mismo período deberá quedar actuando una Sala en cada Corte de Apelaciones, en conformidad al turno que ella establezca. Dicha Sala tendrá las facultades y atribuciones que corresponden al tribunal pleno, con excepción de los desafueros de diputados y senadores.
 
-Dicha sala deberá funcionar cinco días hábiles de cada semana, a lo menos, y tendrá las facultades y atribuciones que correspondan al tribunal pleno.
+En Santiago permanecerán en funciones durante el feriado de vacaciones dos salas, de acuerdo con el turno que al efecto determine la Corte de Apelaciones, las que reunidas y con un quórum mínimo de cinco miembros tendrán las facultades y atribuciones que se indican en el inciso precedente.
+
+El Ministro más antiguo de cada Corte de Apelaciones, que forme parte de la Sala a que se refiere este artículo, tendrá las facultades y atribuciones del Presidente del Tribunal.
 
 #### Artículo 316
 
@@ -2708,19 +2730,17 @@ No tendrán derecho a licencia los funcionarios suplentes que entren a subrogar 
 
 #### Artículo 343
 
-Los funcionarios judiciales a quienes la ley no les acuerda feriado durante el período de vacaciones por estar comprendidos en los casos de los artículos 313, inciso segundo y 314 de este Código, podrán obtener en cada año, el feriado a que se refieren los incisos primeros, segundo, y tercero del artículo 88 del decreto con fuerza de ley N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, siempre que no hayan usado de licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiera obtenido licencia de este tipo, por un lapso inferior a su feriado, tendrá derecho a él, por el tiempo necesario para enterar los días de descanso que le corresponderían por su antigüedad.
+Los funcionarios judiciales a quienes la ley no les acuerde el feriado establecido en el artículo 313, podrán obtenerlo, cada año por el término de un mes, siempre que no hayan usado licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiere obtenido esta clase de licencia, por un lapso inferior a su feriado, tendrá derecho a él por el tiempo necesario para enterarlo.
 
-Un decreto expedido por el Presidente de la República determinará el tiempo y forma como pueden los funcionarios hacer uso de este feriado.
+No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni dos o más jueces de letras de un mismo departamento.
 
 #### Artículo 344
 
-El feriado a que se refiere el artículo anterior será de veinticinco días hábiles dentro de cada año para los funcionarios que residan en las provincias de Tarapacá, Antofagasta, Atacama y Magallanes.
+Derogado.
 
 #### Artículo 345
 
-Los miembros que compongan la sala de turno de las Cortes de Apelaciones y los jueces que ejercen exclusivamente jurisdicción en lo criminal tendrán derecho a un mes de feriado cada año.
-
-No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de una misma Corte de Apelaciones, ni dos o más jueces del crimen de un mismo departamento.
+Derogado
 
 #### Artículo 346
 
@@ -3002,25 +3022,27 @@ En las Cortes de Apelaciones que consten de una sala, los secretarios estarán o
 
 #### Artículo 384
 
-Los secretarios deben llevar los siguientes libros:
+Los Secretarios deberán llevar los siguientes registros:
 
-1°) El copiador de sentencias civiles, en el cual se copiarán las sentencias definitivas que se dicten en asuntos contenciosos o de jurisdicción voluntaria.
+1°.- Un registro foliado compuesto por copias escritas a máquina, autorizadas por el Secretario, de las sentencias definitivas que se dicten en los asuntos civiles, contenciosos o de jurisdicción voluntaria.
 
-En los tribunales colegiados deberán copiarse, además, en este libro las sentencias interlocutorias;
+En igual forma se procederá con las sentencias definitivas en materia criminal.
 
-2°) El copiador de sentencias criminales, en el cual se copiarán, autorizadas por el secretario, las sentencias definitivas que se dicten en los juicios criminales.
+También se copiarán en dicho libro las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación.
 
-Regirá también, en este caso, lo dispuesto en el inciso segundo del número anterior;
+En los Tribunales Colegiados se formará el mismo registro señalado en los incisos precedentes.
 
-3°) El registro de depósitos a que se refiere el artículo 507; y
+Cada registro con no más de quinientas páginas se empastará anualmente;
 
-4°) Los demás que ordenen las leyes o el tribunal.
+2°.- El registro de depósitos a que se refiere el artículo 507, y
 
-Los secretarios de los juzgados de letras de menor cuantía llevarán, también, un libro en donde se estamparán, con la firma del juez, las resoluciones que miren al régimen económico y disciplinario del juzgado.
+3°.- Los demás que ordenen las leyes o el Tribunal.
+
+Los Secretarios de los Juzgados de Letras de Menor Cuantía llevarán también un libro donde se estamparán, con la firma del Juez, las resoluciones que miren al régimen económico y disciplinario del Juzgado.
 
 #### Artículo 385
 
-Los secretarios de los juzgados del crimen llevarán, además, un registro en que insertarán copia a máquina, debidamente autorizada, de las sentencias que se dicten en los procesos en que haya reo preso, sin perjuicio del copiador manuscrito a que se refiere el artículo anterior.
+Derogado
 
 #### Artículo 386
 
@@ -3378,7 +3400,7 @@ El notario que ejerciere funciones de tal, fuera del departamento para que hubie
 
 #### Artículo 441
 
-El notario que faltare a las obligaciones que le señalan los números 8° y 9° del art. 401, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de ciento a mil pesos.
+El notario que faltare a las obligaciones que le señalan los números 8° y 9° del art. 401, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de veinte escudos a ciento ochenta escudos.
 
 #### Artículo 442
 
@@ -3423,6 +3445,8 @@ El notario que deba llevar el registro de bienes raíces llevará, además, los 
 #### Artículo 449
 
 No obstante lo dispuesto en el artículo precedente, los registros de bienes raíces, de comercio, de asociaciones de canalistas, de prenda agraria, de prenda industrial y especial de prenda se encargarán a un funcionario especial que con el título de conservador habrá en el departamento de Valparaíso y en los demás en que el Presidente de la República lo determine con previo informe de la respectiva Corte de Apelaciones.
+
+En los casos de los dos artículos anteriores, las funciones desempeñadas por una misma persona constituirán un solo cargo u oficio judicial para todos los efectos legales.
 
 #### Artículo 450
 
@@ -3638,7 +3662,7 @@ Los procuradores deberán asistir a la secretaría de los tribunales a instruirs
 
 Las obligaciones de residencia y asistencia cesan durante los días feriados.
 
-Esta disposición no regirá en el feriado de vacaciones con los notarios, Conservadores y Archiveros, con los Juzgados que queden de turno, ni con los que determinen las Cortes de Apelaciones para el funcionamiento de sus respectivas salas de verano.
+Esta disposición no regirá en el feriado de vacaciones con los notarios, conservadores y archivos, con los juzgados que queden de turno, ni con los auxiliares que determinen los tribunales colegiados para el funcionamiento de sus respectivas salas de verano.
 
 #### Artículo 478
 
@@ -3778,7 +3802,7 @@ Las funciones de los secretarios, receptores, procuradores, notarios, conservado
 
 Son igualmente aplicables a los auxiliares de la Administración de Justicia las disposiciones relativas a las licencias feriados de los jueces contenidas en el párrafo 9 del Título X del presente Código.
 
-La disposición del artículo 344 regirá con los secretarios de las Cortes de Apelaciones y con los secretarios de los juzgados que ejerzan exclusivamente jurisdicción en lo criminal.
+La disposición del artículo 343 regirá con los Secretarios de los tribunales que no tienen derecho al feriado indicado en el artículo 313.
 
 Los presidentes de la Cortes de Apelaciones fijarán un turno entre sus secretarios en forma que el feriado a que dicho artículo se refiere, no perjudique las labores del tribunal.
 
@@ -3840,9 +3864,9 @@ En todo lo demás, los oficiales subalternos estarán sujetos a las instruccione
 
 Las licencias feriados de los empleados indicados en los artículos 498 y 500 se regirán por las disposiciones del párrafo 9 del Título X de este Código.
 
-La disposición del artículo 344 regirá con el personal de secretaría de las Cortes de Apelaciones y con los demás empleados de los juzgados que ejerzan exclusivamente jurisdicción en lo criminal.
+La disposición del artículo 343 regirá con el personal de secretaría de los tribunales colegiados y con los demás empleados de los juzgados que no hayan hecho uso del feriado de vacaciones a que se refiere el artícuo 313.
 
-El presidente de la Corte de Apelaciones y los jueces respectivos fijarán los turnos del personal de secretaría en forma que el feriado no perjudique las labores del tribunal.
+El Presidente de cada tribunal colegiado y los jueces respectivos fijarán los turnos del personal de secretaría de manera que el feriado no perjudique las labores del tribunal.
 
 Los oficiales a que se refieren los incisos anteriores y los contemplados en el artículo precedente estarán sometidos al régimen de jubilación y de previsión social que determinen las leyes.
 
@@ -4026,7 +4050,7 @@ Los jueces de distrito y de subdelegación y los jueces de letras de mayor y de 
 
 1°) Amonestación verbal e inmediata;
 
-2°) Multa que no exceda de doscientos, cuatrocientos, dos mil o cinco mil pesos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
+2°) Multa que no exceda de dos escudos, cuatro escudos, veinte escudos o cincuenta escudos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
 
 3°) Arresto que no exceda de veinticuatro o cuarenta y ocho horas, según se trate de un juez de distrito en el primer caso, o de un juez de subdelegación o de letras de menor cuantía en el segundo, y de cuatro días, si se trata de un juez de letras de mayor cuantía.
 
@@ -4042,7 +4066,7 @@ Podrán también los jueces de letras de mayor cuantía, para la represión o ca
 
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
 
-4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de diez mil pesos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
+4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de cuarenta escudos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
 
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 
@@ -4094,7 +4118,7 @@ Las faltas o abusos de que habla el artículo anterior podrán corregirlos las C
 
 3°) Pago de costas;
 
-4°) Multa que no sea inferior a mil pesos ni exceda de veinte mil;
+4°) Multa que no sea inferior a veinte escudos ni exceda de noventa escudos;
 
 5°) Suspensión de funciones hasta por cuatro meses. Durante este tiempo el funcionario gozará de medio sueldo.
 
@@ -4134,11 +4158,11 @@ Para la represión y castigo de las faltas que se cometieren ante la Corte Supre
 
 2°) Censura por escrito;
 
-3°) Multa que no exceda de diez mil pesos;
+3°) Multa que no exceda de noventa escudos;
 
 4°) Arresto que no exceda de ocho días.
 
-Este arresto será siempre conmutable en multa, en proporción de dos mil quinientos pesos por cada día.
+Este arresto será siempre conmutable en multa, en proporción de veinte escudos por cada día.
 
 Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras de mayor cuantía, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
 
@@ -4214,23 +4238,15 @@ Cuantía del Juicio Monto de la
 
 consignación
 
-Hasta $ 10.000_____________________ $ 100
+Hasta E° 100, ..... E° 1,00 De E° 100,01 a
 
-De 10.001 a $ 50.000_______ 250
+E° 1.000 ........ E° 3,00 De E° 1.000,01 a
 
-De 50.001 a 100.000_______ 500
+E° 5.000 ........ E° 10,00
 
-De 100.001 a 250.000_______ 750
+Si la cuantía del negocio fuere superior a E° 5.000 se aumentará la consignación indicada en el último lugar de la escala anterior en dos escudos por cada mil escudos o fracción, con un máximo de quinientos cincuenta escudos.
 
-De 250.001 a 500.000_______ 1.000
-
-De 500.001 a 1.000.000_______ 1.250
-
-De 1.000.001 a 2.000.000_______ 2.500
-
-Si la cuantía del negocio fuere superior a $ 2.000.000 se aumentará la consignación indicada en el último lugar de la escala anterior en $ 1.000 por cada millón o fracción de millón de pesos.
-
-Tratándose de un asunto criminal o de un negocio de cuantía indeterminada, el monto de la consignación será de $ 1.000, si el recurso se interpone ante la Corte Suprema; de $ 500, si se interpone ante la Corte de Apelaciones; de $ 250, si se interpone ante un Juez de Letras de Mayor Cuantía, y de $ 100, si se interpone ante un Juez de Letras de Menor Cuantía.
+Tratándose de un asunto criminal o de un negocio no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será de diez escudos si el recurso se interpone ante la Corte Suprema; de diez escudos, si se interpone ante una Corte de Apelaciones; de tres escudos, si se interpone ante un Juez de Letras de Mayor Cuantía, y de un escudo, si se interpone ante un Juez de Letras de Menor Cuantía.
 
 No regirá la exigencia de la consignación previa tratándose de los recursos de queja que incidan en negocios en que se litiga en papel común, ni respecto de los que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco y los que gozan de privilegio de pobreza.
 
@@ -4282,7 +4298,7 @@ Podrán, además, fallar en una sola instancia las causas que estuvieren pendien
 
 #### Artículo 555
 
-Las Cortes de Apelaciones deberán hacer cada cinco años, por medio de uno de sus miembros, comisionado al efecto por el mismo tribunal, una visita en todos los juzgados de letras del distrito de su jurisdicción, con el objeto de inspeccionar y vigilar de cerca la marcha de la administración de justicia en cada uno de ellos.
+Las Cortes de Apelaciones deberán hacer cada tres años, por medio de uno de sus miembros, comisionado al efecto por el mismo tribunal, una visita en todos los juzgados de letras del distrito de su jurisdicción, con el objeto de inspeccionar y vigilar de cerca la marcha de la administración de justicia en cada uno de ellos.
 
 El ministro visitador procurará informarse por cuantos medios conceptúe prudentes de la conducta ministerial de los jueces de letras, notarios, secretarios y demás personas que ejercen funciones concernientes a la administración de justicia en cada departamento visitado, examinando los archivos y recogiendo cuantos datos crea conducentes al objeto de su visita.
 
@@ -4534,7 +4550,7 @@ Si el litigante pobre obtuviere en el juicio, será obligado a destinar una déc
 
 #### Artículo 595
 
-Incumbe a los jueces de letras de mayor y menor cuantía designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles, y otro que defienda las criminales de las personas que hubieren obtenido o debieren gozar el mencionado privilegio.
+Incumbe a los jueces de letras de mayor y menor cuantía designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles, y otro que defienda las criminales de las personas que hubieren obtenido o debieren gozar el mencionado privilegio. Con todo, a requerimiento del Consejo Provincial del Colegio de Abogados, cuando las necesidades lo requieran y el número de los abogados en ejercicio lo permitan, la Corte de Apelaciones respectiva podrá disponer que los Jueces de Letras designen dos o más abogados de turno para la defensa de las causas civiles o criminales y la forma como éstas se distribuirán entre los abogados designados.
 
 En la misma forma y para los mismos fines harán los jueces de letras a quienes se refiere el inciso precedente, las correspondientes designaciones de procuradores y receptores.
 
@@ -4556,7 +4572,9 @@ En las ciudades donde rijan las obligaciones de estar representado y patrocinado
 
 #### Artículo 598
 
-Es obligación de los abogados defender gratuitamente las causas de pobres que se les encomienden en conformidad a los preceptos de este título.
+Es obligación de los abogados defender gratuitamente hasta su término las causas de pobres que se les encomienden en conformidad a los preceptos de este título.
+
+Los abogados podrán excepcionarse de esta obligación por motivos justificados que serán calificados por el respectivo Consejo Provincial del Colegio de Abogados, el que resolverá esta materia de preferencia y proveerá simultáneamente la designación del reemplazante.
 
 No se extiende esta obligación a las causas seguidas ante los jueces de distrito o de subdelegación.
 
