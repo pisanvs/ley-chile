@@ -742,7 +742,7 @@ Contiene disposiciones complementarias del artículo 48 de la Ley General de Ban
 
 Es plenamente aplicable, como también lo son los artículos 63, 64, 65, 66 y 67 del Reglamento.
 
-Las normas sobre calificación de poderes en sociedades abiertas que contienen los artículos 66 a 70 del Reglamento se aplican a esa actuación en las juntas de bancos o sociedades financieras, cuando la Superintendencia no ejercite la facultad que a ese respecto le confiere el artículo 48 de la Ley General de Bancos.
+Las normas sobre calificación de poderes en sociedades abiertas que contienen los artículos 66 a 70 del Reglamento se aplican a esa actuación en las juntas de bancos o sociedades financieras, cuando la Superintendencia no ejercite la facultad que a ese respecto le confiere el artículo 48 de la Ley General de Bancos. Para ello podrá recurrirse a la Superintendencia de Valores y Seguros, a fin de que designe un abogado calificador con ese objeto.
 
 #### Artículo 65
 
@@ -5976,11 +5976,15 @@ Código Plaza Jurisdicción
 
 0376 Melipilla "
 
+0378 Isla de Maipo "
+
 0384 Buin "
 
 0386 Paine "
 
 0392 Graneros "
+
+0394 Litueche "
 
 0400 Rancagua "
 
