@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 118, de 29 de febrero de 1996, se expropió el lote de terreno N° 218, superficie 157 m2, rol de avalúo 257-13, comuna de San Vicente de Tagua Tagua, para la obra camino Quinta de Tilcoco-Cruce Ruta 66, sector Tunca El Medio, empalme Ruta H 56, Ruta 66, y se acordó precio de indemnización con su propietario Sergio Antonio Leiva Flores, ascendente a la cantidad de $820.533.
+
+Fiscal del Ministerio de Obras Públicas.
