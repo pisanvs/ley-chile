@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 758 de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 111-D, superficie 113 m2, rol Nº 764-083, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-184-182, Sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo de Km. 4,450 a 15,04419", y se acordó el valor de indemnización con su propietario Juan Emiliano Flores Miranda, ascendente a la cantidad de $486.303.
+
+- Fiscal del Ministerio de Obras Públicas.
