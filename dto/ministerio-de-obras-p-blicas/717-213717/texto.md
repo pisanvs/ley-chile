@@ -1,0 +1,3 @@
+Por decreto MOP Nº 717 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 1, superficie 7.442 m2., Rol de Avalúo Nº 597-72, comuna de San Ignacio, para la obra "Canal Matriz Diguillín - Larqui, Fajas Adicionales Km. 0,000 al Km. 23,420, Comuna de San Ignacio, Provincia de Ñuble", VIII Región y se acordó el valor de indemnización con su propietario Celso Arturo Aedo Urrutia, ascendente a la cantidad de $5.399.712.
+
+- Fiscal del Ministerio de Obras Públicas.
