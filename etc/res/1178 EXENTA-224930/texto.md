@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.178, de 30 de abril de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111952 presentada por BRENDA ETTI PAREDES PAREDES, para instalar y operar un centro de cultivo ubicado en estero Walker, al suroeste de punta Francisco, península de Taitao, sector 2, XI Región.
+
+Valparaíso, 30 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
