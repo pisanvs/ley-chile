@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 1.216, de 15 de octubre de 2003, se dejaron sin efecto los numerales 3°, 4°, 5° y 6° del decreto MOP exento N° 1.447, de 30 de septiembre de 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote N° 67. Consígnese judicialmente el monto provisional de la indemnización del lote N° 67, fijada por la comisión de peritos, con fecha 10 de mayo de 2000, ascendente a la cantidad de $ 1.720.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
