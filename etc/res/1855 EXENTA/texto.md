@@ -1,0 +1,5 @@
+DISPONE EXCLUSION DE DON JOSE LEONARDO ARAOS MIRANDA DE NOMINAS QUE INDICA
+
+Res. Ex. No. 1.855, de fecha 04 de Junio de 1990, dispone exclusión de don José Leonardo Araos Miranda, de las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al primer llamado 1989 del Sistema General Unificado de Subsidio Habitacional, y deja sin efecto Certificado de Subsidio Habitacional Serie A-89 No. 01-04249, extendido a su favor, quedando en 9.280 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al primer llamado 1989 del Sistema General Unificado de Subsidio Habitacional, y en 1.280.550 Unidades de Fomento, el monto de los recursos comprometidos para el financiamiento del subsidio directo para la sitención de dichos postulantes seleccionados.-
+
+Joan Mac Donald M. Subsecretaría de Vivienda y Urbanismo.
