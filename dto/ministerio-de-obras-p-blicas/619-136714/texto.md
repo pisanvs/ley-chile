@@ -1,0 +1,3 @@
+Por decreto MOP Nº619, de 29 de marzo de 1999, se expropiaron los lotes de terreno Nºs 214-B, 214-C y 214-D, superficies 511,0 m2., 198,5 m2 y 571,1 m2, rol de avalúo 161-17, comuna de Lanco, para la Obra ''Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietario Nemorino Raúl Pineda Becerra, ascendente a la cantidad total de $17.273.072.-
+
+Fiscal del Ministerio de Obras Públicas.
