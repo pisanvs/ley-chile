@@ -1,0 +1,3 @@
+Por decreto MOP No. 267, de 24 de septiembre de 1992, se expropió el lote de terreno No. 4-A, superficie 378 m2., rol de avalúo 500461, Comuna de Coronel, para la obra Camino By Pass Coronel-Lota (Ruta 160), sector By Pass Coronel-Lota y se acordó el valor de indemnización con su propietaria Forestal Tierra Chilena Limitada, ascendente a la cantidad de $ 253.880.
+
+Fiscal del Ministerio de Obras Públicas.
