@@ -15388,11 +15388,13 @@ Los servicios destinados a facilitar el cumplimiento de los fines de las entidad
 
 El giro específico de estas sociedades es materia de autorización por parte de la Superintendencia y en todo caso, de acuerdo con la ley, ese giro no puede incluir la captación de dinero del público. Las actividades que ha autorizado este Organismo para empresas de apoyo al giro se describen en el Anexo N° 2 de este Capítulo.
 
+De acuerdo a sus funciones, las sociedades de apoyo al giro pueden dividirse entre aquellas que tienen relación o se encuentran vinculadas al sistema de pagos y aquellas cuyo giro no se relaciona con dicho sistema.
+
 2.- Constitución y participación en sociedades de apoyo al giro.
 
 Para constituir una sociedad de apoyo al giro, las que podrán ser sociedades anónimas o de responsabilidad limitada, los bancos y sociedades financieras requerirán de la autorización expresa de este Organismo, el que dará su aprobación a los estatutos de dicha sociedad. Igualmente, cada modificación de los estatutos de la sociedad requerirá de la aprobación de esta Superintendencia.
 
-Para solicitar la autorización correspondiente, las instituciones financieras interesadas deberán entregar a esta Superintendencia los antecedentes que se detallan en el Anexo N° 3 de este Capítulo.
+Para solicitar la autorización correspondiente, las instituciones financieras interesadas deberán entregar a esta Superintendencia los antecedentes que se detallan en los Anexos N° 3 ó 4 de este Capítulo, según corresponda de este Capítulo.
 
 Las sociedades de apoyo al giro podrán ser constituidas con la participación de una o más instituciones financieras. En cualquier caso, excepcionalmente podrá autorizarse la participación como socios a entidades que no sean bancos, sociedades financieras ni filiales de los mismos, si se demuestra a este Organismo que ello resultará ventajoso para las instituciones financieras que participan.
 
@@ -15554,37 +15556,101 @@ Los antecedentes mencionados en este anexo deberán permitir una evaluación efi
 
 ANEXO N°2
 
-ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO
+ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO.
 
 A continuación se describen los tipos de servicios que esta Superintendencia ha autorizado para la constitución de empresas de apoyo al giro:
 
-- Operación de terminales de caja y puntos de venta.
-
-- Transferencia electrónica de información.
+A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS:
 
 - Transferencia electrónica de fondos.
 
+- Operación de terminales de caja y puntos de venta.
+
+- Participación en sociedad de depósito de valores creada de conformidad con la Ley N° 18.876.
+
+- Servicios de interacción electrónica orientados a la realización de operaciones comerciales y financieras entre empresas.
+
 - Administración de tarjetas de crédito de acuerdo con las normas del Banco Central de Chile y de la Superintendencia.
+
+- Emisión y operación de tarjetas de pago con provisión de fondos.
+
+- Otros servicios vinculados a los sistemas de pagos.
+
+B) OTROS SERVICIOS:
+
+- Transferencia electrónica de información.
 
 - Recaudación de pagos de servicios (agua, gas, electricidad, teléfono), impuestos, contribuciones, cuotas de créditos, cuotas de patentes u otros derechos, imposiciones previsionales, matrículas, cuotas de establecimientos educacionales, cuotas de socios de instituciones, etc.
 
 - Pagos previsionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc.
 
-- Participación en sociedad de depósito de valores creada de conformidad con la Ley N° 18.876.
+- Recopilación y preevaluación de antecedentes de potenciales clientes de una institución financiera.
 
-- Recopilación y preevaluadón de antecedentes de potenciales clientes de una institución financiera.
-
-- Prestación de servidos de personal a sus asodados y a las filiales de estos.
-
-- Servidos de interacción electrónica orientados a la realización de operaciones comerciales y financieras entre empresas.
+- Prestación de servicios de personal a sus asociados y a las filiales de éstos.
 
 ANEXO N° 3
 
-ANTECEDENTES PARA AUTORIZACION DE SOCIEDADES DE APOYO AL GIRO.
+ANTECEDENTES PARA AUTORIZACION DE SOCIEDADES DE APOYO AL GIRO RELACIONADAS CON SISTEMAS DE PAGOS.
+
+Para constituir una sociedad de apoyo al giro relacionada con el sistema de pagos, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
+
+1.- Antecedentes Generales.
+
+a) Participación que tendrán los socios en la propiedad y gestión.
+
+b) Estatutos de la sociedad.
+
+c) Estudio técnico económico de la rentabilidad de la inversión.
+
+d) Estructura organizacional prevista.
+
+e) Análisis de los principales riesgos del negocio y de las operaciones.
+
+f) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones, su seguridad y confiabilidad.
+
+g) Equipamiento y servicios contemplados para desarrollar el giro.
+
+h) Acceso de los usuarios a los servicios ofrecidos.
+
+i) Constitución y funcionamiento del Directorio y de otras instancias de decisión.
+
+2.- Socios Incorporación a la sociedad y participación en la misma y en otras sociedades similares.
+
+a) Condiciones para la incorporación de nuevos socios.
+
+b) Factores que inciden para determinar la participación accionaria de los socios fundadores.
+
+c) Limitación a los socios de participar en otras sociedades que ofrecen servicios similares.
+
+3.- Seguridad y confiabilidad de las actividades de la sociedad.
+
+Deberán definirse las políticas relativas a los estándares de seguridad y confiabilidad de los procedimientos y de los servicios que prestará la sociedad, sea directamente o externalizados y los procedimientos para la verificación de su cumplimiento.
+
+4.- Tarificación de los servicios.
+
+Exponer a) los principios en los que se basa la fijación de las tarifas aplicadas a los servicios que prestará la sociedad y esquemas o modelos de determinación de precios que se desprenden de esos principios.
+
+b) la política de diferenciación de tarifas entre socios y no socios, en caso de existir y los factores que la avalan.
+
+c) la política de difusión de tarifas al público, si éste tuviera acceso a los servicios.
+
+d) tarifas por conexión o acceso, cargos fijos por período y cobros en función del volumen de transacciones por períodos determinados.
+
+5.- Interconexión con otras redes.
+
+Explicar las definiciones y políticas respecto de la compatibilidad y cumplimiento de las normas de estandarización en los aspectos tecnológicos que posibiliten la interconexión con otras redes o infraestructuras del sistema de pagos.
+
+6.- Evaluaciones adicionales.
+
+Esta Superintendencia podrá recurrir a empresas y consultores externos calificados con el objeto de disponer de evaluaciones adicionales, como asimismo, solicitar el punto de vista de la Asolación de Bancos e Instituciones Financieras de Chile AG., cuando tenga dudas acerca del proyecto que se presenta. Además, si se estimara que aquél puede afectar la competencia, podrá también solicitar la opinión del organismo que regula dicha materia.
+
+ANEXO N°4
+
+ANTECEDENTES PARA AUTORIZACION DE SOCIEDADES DE APOYO AL GIRO NO VINCULADAS A SISTEMAS DE PAGOS.
 
 Para constituir una sociedad de apoyo al giro, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
 
-a) Participación que tendrán los socios en la propiedad y gestión
+a) Participación que tendrán los socios en la propiedad y gestión.
 
 b) Estatutos de la sociedad.
 
@@ -15592,11 +15658,11 @@ c) Estudio técnico-económico de la rentabilidad de la inversión.
 
 d) Estructura organizacional prevista para la empresa.
 
-e) Análisis de los principales riesgos del negocio y de las operaciones.
+b) Análisis de los principales riesgos del negocio y de las operaciones.
 
-f) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones.
+c) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones, su seguridad y confiabilidad.
 
-g) Equipamientos y servicios contemplados para desarrollar el giro.
+d) Equipamientos y servicios contemplados para desarrollar el giro.
 
 Esta Superintendencia podrá requerir información adicional relativa al giro específico que se solicita, como asimismo antecedentes que muestren la incidencia del proyecto para cada institución financiera participante, cuando sea el caso.
 
