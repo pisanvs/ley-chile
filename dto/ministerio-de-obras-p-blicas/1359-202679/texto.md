@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.359 de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 50, superficie 150 m2, rol de avalúo Nº 135-131, comuna de San Francisco de Mostazal, para la obra ''Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 al Km. 9,317'', VI Región y se acordó el valor de la indemnización con su propietario Jorge Juan Eduardo Ovalle Barroilhet, ascendente a la cantidad de $7.829.773.-
+
+Fiscal del Ministerio de Obras Públicas.
