@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.466, de 29 de diciembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+20-A y 20-B; para la obra: "Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K: Km. 161.650,00 al Km. 179.500,00", Sexta Región, que figuran a nombre de Emp. FF.CC del Estado, rol de avalúo 90246-2, comuna de Chimbarongo, superficies 15.947 m² y 469 m², respectivamente. La Comisión de Peritos integrada por los señores María Angélica Hurtado Arranz, José Cristián Larraín Barros y María Isabel de Jesús Ríos Marcuello, fijó con fecha 17 de octubre de 2000, el valor provisional de la indemnización en las cantidades de $49.669.400.- para el lote Nº 20-A y de $22.285.600.- para el lote Nº 20-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
