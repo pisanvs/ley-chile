@@ -1,0 +1,5 @@
+Por decreto MOP Nº742, de 19 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 210 y 215 para la obra: ''Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector: Km. 68.400,00 al Km.
+
+95.600,00. By Pass Rancagua'', Sexta Región, que figuran a nombre de Pena Lobos Roberto, rol de avalúo 1420-111, comuna de Rancagua, superficies de 6.904 m2 y 3.575 m2, respectivamente. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Manuel Hernán Díaz Farfán y René Octavio Corvalán Correa, fijó con fecha 22 de febrero de 2002, el valor provisional de la indemnización en las cantidades de $8.119.600.- para el lote N° 210 y $4.303.250.- para el lote N° 215. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas .
