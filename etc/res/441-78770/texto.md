@@ -1,0 +1,3 @@
+Por Resolución Nº441, de 22 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deja sin efecto la Resolución Nº1.244, de 1988, de esta Subsecretaría, por la cual se autorizó a SOCIEDAD DE PRODUCTOS DEL MAR "QUIHUAMAR S.A.", RUT Nº96.537.340-3, domiciliada en Santiago, para desarrollar actividades de cultivo, por renuncia de su titular.
+
+Valparaíso, 22 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca, Subrogante.
