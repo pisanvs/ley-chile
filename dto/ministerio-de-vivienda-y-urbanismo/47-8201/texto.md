@@ -132,6 +132,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Densificación»: DEROGADO.
 
+«Depósito de vehículos»: inmueble destinado a guardar los vehículos de locomoción colectiva urbana una vez que han concluido sus servicios.
+
 «Desmonte»:rebaje de terrenos no rocosos en la ladera de un cerro, que no requiere refuerzo estructural.
 
 «Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.
@@ -178,6 +180,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Establecimiento de bodegaje»: lugar destinado al acopio de insumos o productos.
 
+«Estación de intercambio modal»: inmueble destinado al intercambio de pasajeros entre distintos modos de transporte, tipos de servicios y/o vehículos de transporte público.
+
 «Estación de servicio automotor»: lugar destinado a servicios de lavado y lubricación de automóviles, con o sin venta minorista de combustibles líquidos.
 
 «Estudio de ascensores»: evaluación de cargas, flujos y demás aspectos técnicos que determinan las características de diseño de la instalación de ascensores, para satisfacer las necesidades de un proyecto de edificación, suscrito por un profesional especialista o por el fabricante.
@@ -200,7 +204,9 @@ Informe de riesgos»: DEROGADO.
 
 «Inmueble de conservación histórica»: el individualizado como tal en un Instrumento de Planificación Territorial dadas sus características arquitectónicas, históricas o de valor cultural, que no cuenta con declaratoria de Monumento Nacional.
 
-«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente. Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
+«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente.
+
+Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
 
 «Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regional de Desarrollo Urbano, al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional y al Límite Urbano.
 
@@ -216,7 +222,7 @@ Informe de riesgos»: DEROGADO.
 
 «Lote»: superficie de terreno continua resultante del proceso de división y urbanización del suelo, o de modificaciones, anexiones o sustracciones de la misma.
 
-«Loteo de terrenos»: proceso de división del suelo, cualquiera sea el número de predios resultantes, cuyo proyecto contempla la apertura de nuevas vías públicas, y su correspondiente urbanización.
+«Loteo de terrenos»: proceso de división del suelo, cualquiera sea el número de sitios resultantes, que requiere la ejecución de obras de urbanización.
 
 «Maestranza»: local industrial destinado a mantener, transformar, rehacer o construir cualquier clase de maquinaria, sea móvil, semifija o estacionaria, para transporte u otro fin.
 
@@ -256,7 +262,7 @@ Informe de riesgos»: DEROGADO.
 
 «Obra gruesa habitable»: construcción techada y lateralmente cerrada, con piso o radier afinado, dotada de, a lo menos, un recinto de baño habilitado, con puerta, y en el caso de viviendas, dotada, además, con un recinto de cocina habilitado.
 
-«Obra menor»: modificaciones de edificios existentes que no alteran la estructura o las fachadas y ampliaciones de edificaciones cuando la superficie a ampliar no represente más de un 20% de la existente, no supere los 100 m2 y no comprometa construcciones vecinas .
+«Obra menor»: modificaciones de edificios existentes que no alteran la estructura o las fachadas y ampliaciones de edificaciones cuando la superficie a ampliar no represente más de un 20% de la existente, no supere los 100 m2 y no comprometa construcciones vecinas.
 
 «Obra nueva»: la que se construye sin utilizar partes o elementos de alguna construcción preexistente en el predio.
 
@@ -366,9 +372,7 @@ Informe de riesgos»: DEROGADO.
 
 «Superficie servida»: superficie útil que se sirve de los sistemas de evacuación.
 
-«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común.
-
-«Supermercado»: edificación cerrada destinada a la venta al público de productos diversos, mediante el sistema de autoservicio generalmente en una misma sala de venta.
+«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común. «Supermercado»: edificación cerrada destinada a la venta al público de productos diversos, mediante el sistema de autoservicio generalmente en una misma sala de venta.
 
 «Supervisor»: autor del proyecto de arquitectura de una obra o el profesional competente que lo reemplace, cuya misión es velar por que el proyecto de arquitectura se materialice en la forma concebida y de acuerdo con el correspondiente permiso de edificación.
 
@@ -384,9 +388,15 @@ Informe de riesgos»: DEROGADO.
 
 «Techumbre»: parte de una edificación que comprende desde el cielo del recinto más elevado hasta la cubierta.
 
-«Terminal de locomoción colectiva»: recinto habilitado para la llegada y salida controlada de vehículos de locomoción colectiva.
+«Terminal de locomoción colectiva»: SUPRIMIDO.
 
-«Terminal de locomoción colectiva urbana»: recinto habilitado para la llegada y salida controlada de vehículos de locomoción colectiva que prestan servicios urbanos de transporte público de pasajeros.
+«Terminal de locomoción colectiva urbana»: SUPRIMIDO.
+
+«Terminal de servicios de locomoción colectiva urbana»: inmueble destinado para la llegada y salida controlada de vehículos de locomoción colectiva urbana y que puede ser de distinto tipo según las funciones que cumpla, de conformidad con las normas que dicte el Ministerio de Transportes y Telecomunicaciones.
+
+«Terminal de vehículos»: inmueble destinado al estacionamiento temporal de vehículos de locomoción colectiva urbana una vez que han concluido una vuelta o recorrido y que se disponen a salir nuevamente.
+
+«Terminal externo»: área ubicada en el recorrido de el o los servicios de locomoción colectiva urbana destinada a la detención temporal de vehículos con el objetivo de controlar y regular las frecuencias y cambio de personal.
 
 «Terreno de playa»: la faja de terreno de propiedad del Fisco de hasta 80 metros de ancho, medida desde la línea de la playa de la costa del litoral y desde la ribera en los ríos y lagos.
 
@@ -426,7 +436,7 @@ Informe de riesgos»: DEROGADO.
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
 
-> **Nota.** NOTA 2 El artículo primero transitorio del decreto-115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
+> **Nota.** NOTA 2 El artículo primero transitorio del decreto 115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
 
 #### Artículo 1
 
@@ -5496,157 +5506,329 @@ Estos establecimientos deberán estar provistos de un baño de patas para los an
 
 12.10. Las disposiciones anteriores no rigen para las construcciones destinadas a contener uno o dos animales para el uso del ocupante de la respectiva vivienda; pero, en todo caso, deberán cumplir con las disposiciones que consulte el Código Sanitario y demás que rijan sobre el particular.
 
-CAPITULO 13 TERMINALES DE LOCOMOCIÓN COLECTIVA
+## Capítulo 13
+
+TERMINALES DE SERVICIOS DE LOCOMOCIÓN COLECTIVA URBANA
 
 #### Artículo 4
 
-13.1. Los edificios construidos o que se construyan al interior de terminales de locomoción colectiva, deberán satisfacer, en cuanto les sean aplicables, las condiciones relativas a edificios de uso público y las normas generales y especiales de la presente Ordenanza referidas a habitabilidad, higiene y seguridad.
+13.1. Para los efectos de la aplicación de este capítulo se entenderá por terminales de servicios de locomoción colectiva urbana a los Terminales de Vehículos, Depósitos de Vehículos, Estaciones de Intercambio Modal y Terminales Externos.
+
+Las edificaciones construidas o que se construyan al interior de terminales de servicios de locomoción colectiva urbana, deberán satisfacer, en cuanto les sean aplicables, las condiciones relativas a edificios de uso público y las normas generales y especiales de la presente Ordenanza referidas a habitabilidad y seguridad. Lo anterior, sin perjuicio de las exigencias de higiene contempladas en el Reglamento sobre Condiciones Sanitarias y Ambientales Básicas en los Lugares de Trabajo.
 
 #### Artículo 4
 
-13.2. Los proyectos de terminales de locomoción colectiva, de dominio público o privado, destinados al transporte público de pasajeros, deberán tomar en cuenta el impacto que genere su localización, la tipología de los mismos y las normas técnicas propias para su adecuación y funcionamiento.
+13.2. Para solicitar el permiso de edificación, los proyectos de terminales de servicios de locomoción colectiva urbana deberán tomar en cuenta el impacto que genere su localización, la tipología de los mismos y las normas técnicas propias para su adecuación y funcionamiento. Asimismo, deberán:
+
+1. Obtener el certificado de informaciones previas del predio en que se emplazará el proyecto, documento que acreditará la compatibilidad del uso de suelo establecido en el Plan Regulador con los requisitos establecidos en el presente Capítulo.
+
+2. Obtener el informe previo favorable del Ministerio de Transportes y Telecomunicaciones respecto de las características operacionales del terminal.
 
 #### Artículo 4
 
-13.3. Los accesos directos de los terminales de locomoción colectiva a vías que integren la red vial básica y/o la red vial estructurante de una ciudad, deberán diseñarse y construirse de acuerdo con los criterios técnicos contenidos en el Volumen 3 del Manual de Vialidad Urbana "Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana", aprobado por D.S. N° 12 (V. y U.), de 1984.
+13.3. Los accesos a los terminales de servicios de locomoción colectiva urbana, así como los espacios interiores, deberán diseñarse y construirse de acuerdo con los criterios técnicos contenidos en el Manual de Vialidad Urbana "Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana" (Redevu), aprobado por el Ministerio de Vivienda y Urbanismo, mediante DS Nº 12 (V. y U.) de 1984.
 
 #### Artículo 4
 
-13.4. Las características operacionales de los terminales de locomoción colectiva y de los servicios de transporte público de pasajeros que hacen uso de ellos, tales como número de vehículos que pueden hacer uso del terminal, control de los horarios de salida y llegada de los mismos, serán definidas por el Ministerio de Transportes y Telecomunicaciones, en virtud de las disposiciones de la ley N° 18.059.
-
-Terminales de locomoción colectiva urbana
+13.4. Los terminales de servicios de locomoción colectiva urbana, con excepción de los terminales externos, terminales de vehículos y depósitos de vehículos de las categorías A1, A2 y B1, requerirán de un Estudio de Impacto sobre el Sistema de Transporte Urbano, el que se deberá acompañar a la solicitud de permiso de edificación del proyecto que se origine con motivo del emplazamiento del terminal, suscrito por un profesional especialista y aprobado por el Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo 4
 
-13.5. Los terminales de locomoción colectiva urbana sólo podrán localizarse en las zonas en que el instrumento de planificación territorial contemple, implícita o explícitamente, como uso de suelo del equipamiento de locomoción colectiva urbana.
+13.5. Las características operacionales de los terminales de servicios de locomoción colectiva urbana y de los servicios de transporte público de pasajeros que hacen uso de ellos, serán definidas por el Ministerio de Transportes y Telecomunicaciones.
+
+Terminales de Vehículos y Depósitos de Vehículos
 
 #### Artículo 4
 
-13.6. Los proyectos de terminales de locomoción colectiva urbana, de acuerdo al número de vehículos que hacen uso de él, se clasifican en las siguientes categorías:
+13.6. Para los fines del presente capítulo los terminales de vehículos y depósitos de vehículos de servicios de locomoción colectiva urbana se clasificarán en categorías, de acuerdo a la superficie del terreno neto y al tipo de vehículos que hagan uso de él, de conformidad con las siguientes tablas:
 
-Categoría A : hasta 10 vehículos usuarios.
+Automóviles
 
-Categoría B : desde 11 hasta 50 vehículos usuarios.
+Categoría Superficie Terreno Neto
 
-Categoría C . más de 50 vehículos usuarios.
+(m2)
 
-Tratándose de proyectos de terminales de locomoción colectiva urbana de categorías B y C, deberá acompañarse a los antecedentes un estudio fundado de evaluación de impacto del proyecto.
+A1 150 a 200
 
-#### Artículo 4
+A2 más de 200 hasta 400
 
-13.7. El estudio de evaluación de impacto de los proyectos de terminales de locomoción colectiva urbana de categoría C, contendrá, a lo menos, los componentes que se señalan en este artículo. Los de categoría B deberán contener, como mínimo, los componentes señalados en los números 1., 2., 6., 7. y 9.a).
+A3 más de 400 hasta 600
 
-1. Resumen del estudio: debe exponer en forma clara las características principales del proyecto, los resultados y las medidas recomendadas.
+A4 más de 600 hasta 800
 
-2. Descripción del proyecto: debe describir y analizar como mínimo, los objetivos del proyecto, poniendo énfasis en los componentes que puedan ocasionar impactos sobre el medioambiente, considerando, entre otras, las actividades relacionadas con la preparación del sitio, construcción y montaje de equipos, operación y mantenimiento del terminal.
+A5 más de 800 hasta 1.000
 
-3. Marco de referencia legal: debe indicar los requisitos medioambientales establecidos por la normativa legal y reglamentaria vigente en el que se enmarca el proyecto.
+A6 más de 1.000
 
-4. Análisis de alternativas: examen de cada una de las posibles alternativas de localización del proyecto, que considere la dimensión del terminal, su proceso tecnológico, entre otros aspectos, y que justifique la alternativa elegida y las razones para desestimar las otras. De ser posible sólo una alternativa de localización, se examinará ésta.
+Buses
 
-5. Caracterización del medioambiente del área de influencia del proyecto: debe definir las características del área de influencia del proyecto propuesto, entendido como el sistema que finalmente recibe y transmite las alteraciones relevantes positivas o negativas originadas por éste.
+Categoría Superficie Terreno Neto
 
-6. Estudio de tránsito: debe analizar el impacto previsible para las vías que conforman la red vial estructurante y/o básica en el área de influencia del proyecto.
+(m2)
 
-7. Identificación de los impactos: debe identificar los posibles efectos positivos y/o negativos que pueden presentarse durante las fases de ejecución y operación del proyecto. Los impactos según su tipo, entre otros, benéfico o adverso, reversible o no, planificado o accidental, directo o indirecto, en el corto o largo plazo, a nivel de barrio o de la ciudad, remediable o no, se podrán agrupar en relación a la clasificación de actividades que generan impacto, el tiempo que éstos duran, el espacio que cubren y el potencial de mitigación.
+B1 Hasta 600
 
-8. Evaluación de los impactos: luego de identificados los posibles impactos generados por el proyecto, se deben evaluar con el fin de definir si son o no tolerables, si se requieren cambios en el proyecto, o la introducción de medidas de mitigación. La evaluación deberá considerar como mínimo la naturaleza del impacto, su significado y la severidad. El significado se debe analizar en diferentes contextos, incluyendo la sociedad como un todo, el área alterada, los intereses afectados y la localidad. La severidad debe considerar, entre otros, el grado en que la localización afecta la salud y/o seguridad públicas; los efectos sobre la calidad del medioambiente que resultan polémicos o que establecen precedentes para acciones futuras con efectos significativos; las características únicas del área, y el nivel en que la localización se relaciona con otras actuaciones urbanas que, aunque insignificantes, involucren un impacto acumulativo significativo.
+B2 más de 600 hasta 1.000
 
-9. Proposición de medidas de mitigación:
+B3 más de 1.000 hasta 2.500
 
-a) Una vez previstos los impactos causados por
+B4 más de 2.500 hasta 5.000
 
-el proyecto, se debe realizar una revisión
+B5 más de 5.000 hasta 10.000
 
-de aquellos de carácter negativo y de mayor
+B6 más de 10.000 hasta 20.000
 
-magnitud, con el fin de considerar las
+B7 más de 20.000
 
-posibles medidas correctoras para paliar sus
+La superficie del terreno neto, se determinará descontando a la superficie total del predio, la que está afecta a utilidad pública, antejardines y las franjas destinadas a áreas verdes exigidas en el siguiente artículo.
 
-efectos.
-
-b) Además, se debe identificar los impactos
-
-residuales sobre el medio no factibles de
-
-eliminar, como consecuencia de la
-
-construcción y puesta en marcha del proyecto
-
-en cuestión. Estimándose los costos y las
-
-necesidades que estas medidas conllevan,
-
-pueden incluir una o varias de las siguientes
-
-acciones:
-
-- Evitar el impacto total, al no desarrollar
-
-todo o parte del proyecto.
-
-- Minimizar los impactos, a través de limitar
-
-la magnitud del proyecto.
-
-- Rectificar el impacto, a través de reparar,
-
-rehabilitar o restaurar el ambiente
-
-afectado.
-
-- Reducir o eliminar el impacto a través del
-
-tiempo, por la implementación de
-
-operaciones de preservación y mantenimiento
-
-durante la vida útil del proyecto.
-
-- Compensar el impacto producido por el
-
-reemplazo o sustitución de los recursos
-
-afectados.
+La parte de la superficie de terreno neto que se destine a maniobra y circulación de los vehículos deberá ser segregada del resto del área mediante soleras y pavimentarse de acuerdo con las exigencias contempladas en la presente Ordenanza.
 
 #### Artículo 4
 
-13.8. Sin perjuicio del cumplimiento de las normas que establezca el instrumento de planificación territorial respectivo para la zona en que se emplace un terminal de locomoción colectiva urbana, de acuerdo al tipo o a la cantidad máxima de vehículos que durante un día ingresen o salgan de él, dichos terminales deberán satisfacer los requisitos mínimos de infraestructura física que se señalan en las tablas 1 y 2 siguientes:
+13.7. Los terminales de vehículos y depósito de vehículos de locomoción colectiva se podrán localizar en las zonas en que el Instrumento de Planificación Territorial admita como usos de suelo los correspondientes a infraestructura y actividades productivas.
 
-_____________________________________________________
+Asimismo, los terminales de vehículos y depósitos de vehículos de locomoción colectiva urbana de categorías A1, A2, A3, A4, B1, B2 y B3 que cumplan con las condiciones establecidas en el presente capítulo se podrán localizar en las zonas en que el Instrumento de Planificación Territorial admita como usos de suelo los correspondientes a equipamiento de clase comercio y servicios. En estos casos, cuando adicionalmente se admita en la zona el uso de suelo residencial, los terminales deberán estar distanciados entre sí a un mínimo de 1.000 metros medidos desde el deslinde más cercano por el eje de la vía pública y cumplir con las condiciones y mitigaciones establecidas en el presente capítulo referidas a áreas verdes, vía de acceso, tipo de cierros, entre otras.
 
-| NOTA: VER DIARIO OFICIAL N° 34.614, FECHA 14 DE |
+En los terminales de vehículos sólo podrá realizarse movimiento de pasajeros, previa autorización del Ministerio de Transportes y Telecomunicaciones que conste en el respectivo informe favorable y siempre que éstos contemplen la debida separación entre áreas de circulación peatonal y vehicular, diseño de cruces peatonales, condiciones de estacionamiento de los buses, habilitación de paraderos y su correspondiente demarcación, de acuerdo a lo estipulado por el Manual de Vialidad Urbana (Redevu) y el Manual de Señalización de Tránsito.
 
-| JULIO DE 1993, PAG. 3. |
+Adicionalmente los terminales de vehículos y depósito de vehículos de locomoción colectiva urbana deberán cumplir con las condiciones que se señalan a continuación:
 
-|_____________________________________________________|
+1. Vía de acceso:
+
+Los terminales de vehículos y depósitos de vehículos de servicios de locomoción colectiva urbana, dependiendo del uso de suelo admitido en la zona en que se emplacen, deberán enfrentar una vía existente o proyectado su ensanche en el Instrumento de Planificación Territorial, que permita la entrada y salida al predio desde esa vía, de acuerdo con la siguiente tabla:
+
+Automóviles
+
+Categoría Tipo uso de suelo Vía de acceso
+
+A1 Infraestructura, Actividades Local o mayor
+
+productivas
+
+Equipamiento de clase Servicio o
+
+comercio o servicios mayor
+
+A2 Infraestructura, Actividades Servicio o
+
+productivas mayor
+
+Equipamiento de clase Colectora o
+
+comercio o servicios mayor
+
+A3 y A4 Infraestructura, Actividades Servicio o
+
+productivas mayor
+
+Equipamiento de clase Troncal o
+
+comercio o servicios mayor
+
+A5 y A6 Infraestructura, Actividades Colectora
+
+productivas o mayor
+
+Buses
+
+Categoría Tipo uso de suelo Vía de acceso
+
+B1 Infraestructura, actividades Local o
+
+productivas mayor
+
+Equipamiento de clase Servicio o
+
+comercio o servicios mayor
+
+B2 y B3 Infraestructura, actividades Servicio o
+
+productivas mayor
+
+Equipamiento de clase Colectora
+
+comercio o servicios o mayor
+
+B4, B5, Infraestructura, actividades Colectora
+
+B6 y B7 productivas o mayor
+
+2. Area verde y cierro:
+
+Los terminales de vehículos y depósitos de vehículos de servicios de locomoción colectiva urbana, que se emplacen en una zona en que se admite adicionalmente el uso de suelo residencial, deberán materializar, al interior del predio, en todo el perímetro con dichas propiedades que no esté ocupado con edificaciones y en los antejardines, una franja de área verde arborizada a razón de un árbol de hoja perenne por cada 16 m2.
+
+El ancho de la franja será el que se indica en la siguiente tabla según la categoría del terminal:
+
+Categoría Ancho mínimo
+
+A1, A2, A3, A4 y B1, B2 2 metros
+
+A5, A6 y B3 4 metros
+
+B4, B5, B6 y B7 6 metros
+
+A falta de disposiciones establecidas en el Plan Regulador Comunal, los terminales de vehículos y depósito de vehículos, deberán contemplar un cierro opaco hacia las propiedades vecinas y considerar un cierro transparente hacia el espacio público de hasta 2,2 metros de altura.
+
+3. Actividades complementarias:
+
+Los terminales de vehículos y depósitos de vehículos de servicios de locomoción colectiva urbana según su categoría y dependiendo del número y tipo de vehículos, podrán contemplar al interior del predio edificaciones e instalaciones destinadas exclusivamente al mantenimiento de éstos. Cuando el terminal esté emplazado en zonas en que el Instrumento de Planificación Territorial admita adicionalmente el uso de suelo residencial, las actividades de mantenimiento deberán ser en un recinto cerrado.
+
+La superficie máxima destinada a actividades complementarias según la categoría del terminal será la que se señala en la siguiente tabla:
+
+Automóviles
+
+% máximo de la superficie
+
+de terreno neto destinada
+
+Categoría a actividades
+
+complementarias
+
+A1 30%
+
+A2 25%
+
+A3 18%
+
+A4, A5 y A6 15%
+
+Buses
+
+% máximo de la superficie
+
+de terreno neto destinada
+
+Categoría a actividades
+
+complementarias
+
+B1 15%
+
+B2 y B3 15%
+
+B4 25%
+
+B5, B6 y B7 25%
+
+En caso de que la superficie de terreno neta de un terminal de vehículos o de un depósito de vehículos sea superior a 600 metros cuadrados deberán destinar un mínimo de 4% de su superficie al mantenimiento de vehículos, que incluya a lo menos en dicha superficie un área de lavado. Se entenderá por mantenimiento actividades tales como aseo, lavado, pintado, revisión y reparación de los vehículos. En todo caso, la realización de tales actividades deberá efectuarse de acuerdo a la normativa específica que resulte aplicable.
+
+El área de lavado, deberá ser independiente de las demás áreas, estar nivelada, contar con pavimento con tratamiento superficial simple a lo menos, y tener canaletas que permitan el encauzamiento de las aguas hacia una cámara desgrasadora. En ningún caso las aguas provenientes del lavado de vehículos podrán descargar directamente en canales de regadío o alcantarillado de aguas servidas.
+
+Los terminales de vehículos y depósito de vehículos podrán contar, además, con estanques para almacenamiento de combustibles y áreas para el expendio de los mismos, para servir exclusivamente a los vehículos que usan el terminal, que deberán cumplir con la normativa específica que sea aplicable, lo que deberá ser verificado y certificado por los servicios correspondientes.
+
+4. Infraestructura física:
+
+Los terminales de vehículos deberán contar con distintos tipos de equipamiento para la atención a conductores y personal de servicio, dependiendo del número de vehículos que hagan uso de él y del tipo de vehículos de que se trate. Deberán contar con un área de servicios edificada para efectos tales como administración, servicios higiénicos, descanso y alimentación de conductores. La superficie mínima de esta área, estará en función de la flota de diseño del terminal indicados en el informe previo favorable emitido por el Ministerio de Transportes y Telecomunicaciones a que alude el artículo 4.13.2. de esta ordenanza. Del total de esta área sólo se podrá destinar un máximo de un 35% para administración de los servicios.
+
+La superficie mínima destinada a satisfacer los requisitos de infraestructura física para los terminales de vehículos, como asimismo la mínima de servicios, será la que se señala en la siguiente tabla:
+
+Automóviles
+
+Cantidad de Superficie mínima
+
+Automóviles destinada a Dotación Mínima de
+
+(A) servicios (m2) Servicios
+
+Hasta 25 20 Sala multiuso, servicios
+
+26 a 50 2 + A x 0,72 higiénicos
+
+51 a 80 18 + A x 0,40 Sala multiuso, oficina,
+
+servicios higiénicos.
+
+81 a 120 30 + A x 0,25
+
+121 a 180 36 + A x 0,2 Sala alimentación, sala
+
+Sobre 180 45 + A x 0,15 multiuso, oficinas,
+
+servicios higiénicos
+
+Buses
+
+Cantidad de Superficie mínima
+
+Automóviles destinada a Dotación Mínima de
+
+(B) servicios (m2) Servicios
+
+Hasta 10 25
+
+11 a 25 17 + B x 0,8 Sala multiuso, oficina,
+
+26 a 50 24 + B x 0,52 servicios higiénicos
+
+51 a 100 30 + B x 0,4
+
+101 a 200 35 + B x 0,35 Sala alimentación, sala
+
+201 a 400 50 + B x 0,275 descanso, sala
+
+Sobre 400 80 + B x 0,2 multiuso, oficinas,
+
+servicios higiénicos.
+
+Los terminales de vehículos deberán contar con una cantidad mínima de servicios higiénicos, conforme lo establece el decreto supremo Nº 594 de 1999 del Ministerio de Salud, Reglamento sobre Condiciones Sanitarias y Ambientales Básicas en los Lugares de Trabajo.
+
+Los depósitos de vehículos deberán contar con una cantidad mínima de servicios higiénicos, de acuerdo a la siguiente tabla:
+
+Buses Taxis Colectivos
+
+Servicios Menos de
+
+Menos de 100 Incremento 100 Incremento
+
+vehículos vehículos
+
+Lavamanos 2 1 cada 100 1 1 cada 100
+
+vehículos vehículos
+
+Inodoro 2 1 cada 100 1 1 cada 100
+
+vehículos vehículos
 
 #### Artículo 4
 
-13.9. Para el cumplimiento de las exigencias establecidas en las tablas del artículo 4.13.8., se estará a las siguientes normas:
+13.8. Los depósitos de vehículos podrán contener en su interior Terminales de Vehículos dando cumplimiento a la normativa general o específica que resulte aplicable.
 
-1. Cuando el terminal de locomoción colectiva urbana se destine para el uso de diferentes tipos de vehículos, se debe sumar previamente el número total de vehículos usuarios del terminal y a dicha cantidad se aplicarán las exigencias establecidas en las tablas 1 y 2. Tratándose de la tabla 1 para la determinación de la superficie de terreno mínima y del área de lavado, se debe cumplir con el estándar correspondiente al de los vehículos de mayor tamaño para el cual se destine dicho terminal.
+Terminales Externos
 
-2. Las dimensiones mínimas del lugar de
+#### Artículo 4
 
-estacionamiento a considerar por tipo de vehículos serán las siguientes:
+13.9. Los terminales externos podrán localizarse en un recinto privado o en el espacio público, en este último caso previa autorización municipal correspondiente.
 
-- De 3,50 m de ancho por 13,50 m de largo, para buses sobre 8 m de largo.
+El área de detención tendrá una capacidad limitada destinada al estacionamiento de vehículos. El tipo de vehículo y la superficie requerida deberá constar en el informe favorable emitido por el Ministerio de Transportes y Telecomunicaciones, En este tipo de terminal no podrán efectuarse servicios de aseo, mantención o reparación de vehículos. Los terminales externos podrán contemplar equipamiento para la atención de conductores y personal de servicio, tales como caseta, sala de descanso y/o servicios higiénicos, asimismo cuando se ubiquen en el espacio público la localización del equipamiento deberá constar en la respectiva autorización municipal.
 
-- De 3,50 m de ancho por 8,00 m de largo, para minibuses y buses hasta 8 m de largo.
+#### Artículo 4
 
-- De 3,00 de ancho por 5,00 m de largo, para taxis colectivos.
+13.10. Los terminales externos se podrán localizar en las zonas en que el Instrumento de Planificación Territorial admita como usos de suelo los correspondientes a infraestructura, actividades productivas y equipamiento.
 
-3. La superficie de terreno mínima será la superficie operativa neta del predio y se determinará descontando a la superficie total del predio, la superficie de antejardines y la que pudiere estar afecta a expropiación, servidumbre u otras limitantes similares.
+Sólo podrá realizarse movimiento de pasajeros en los terminales externos, cuando haya sido autorizado en el informe emitido por el Ministerio de Transportes y Telecomunicaciones y siempre que éstos contemplen la debida separación entre áreas de circulación peatonal y vehicular, diseño de cruces peatonales, condiciones de estacionamiento de los buses y a la habilitación de paraderos y su correspondiente demarcación. Todo ello de acuerdo a lo estipulado por el Manual de Vialidad Urbana (Redevu) y el Manual de Señalización de Tránsito.
 
-4. La parte de la superficie operativa neta que se destine a maniobra y circulación deberá ser segregada del resto del área mediante soleras y pavimentarse de acuerdo con lo que determine la Secretaría Regional Ministerial de Transporte y Telecomunicaciones, respectiva.
+Cuando el terminal externo se emplace en el espacio público, si éste corresponde a un bien nacional de uso público destinado a vialidad, la superficie de operación no podrá superar los 300 metros cuadrados para buses y los 150 metros cuadrados para automóviles.
 
-5. El área de lavado, destinada al aseo y limpieza de los vehículos, deberá ser independiente de las demás áreas, estar nivelada, contar con pavimento con tratamiento superficial simple, a lo menos, y tener canaletas que permitan el encauzamiento de las aguas hacia una cámara desgrasadora. En ningún caso las aguas provenientes del lavado de vehículo podrán descargar directamente en canales de regadío o alcantarillado de aguas servidas.
+Cuando el terminal externo se emplace en un bien nacional de uso público destinado a plazas y áreas verdes públicas, como asimismo, cuando se emplace en predios de dominio privado, la superficie de operación no podrá ser superior a los 450 metros cuadrados para buses y los 250 metros cuadrados para automóviles.
 
-6. El área total de recintos y sala de baño identificada en la tabla 2, corresponde a la mínima superficie construida que en suma debe destinarse a sala de alimentación, sala de descanso, sala multiuso, oficinas y sala de baños, debiendo a su vez las de alimentación, descanso, multiuso y oficinas cumplir con las superficies mínimas indicadas para cada una de ellas en la misma tabla 2.
+Con todo, los terminales externos sólo podrán localizarse en predios de dominio privado cuando se realice en ellos movimiento de pasajeros y siempre que en el mismo predio se emplace un edificio de uso público.
 
-Artculo 4.13.10. Los terminales de locomoción colectiva urbana podrán contar con estanques para almacenamiento de combustibles, áreas para el expendio de los mismos y con un lugar destinado a la reparación y/o mantención de vehículos, para servir exclusivamente a los vehículos que usan el terminal, que deberán cumplir con la normativa específica que sea aplicable, lo que deberá ser verificado y certificado por los Servicios correspondientes. Las superficies destinadas a los fines señalados en el presente artículo no se computarán para determinar la superficie operativa neta del predio.
+#### Artículo 4
+
+13.11. Los proyectos de edificación, tanto de obra nueva como de ampliación, cuya actividad comercial o de equipamiento incluya la localización de un terminal externo con movimiento de pasajeros al interior del predio, podrán descontar hasta un 30% la cantidad de estacionamientos exigidos por el Instrumento de Planificación Territorial.
+
+Para hacer efectivo este beneficio, se deberá presentar al momento de la solicitud del respectivo permiso de edificación ante la Dirección de Obras Municipales, la autorización del Ministerio de Transportes y Telecomunicaciones que apruebe la localización del terminal externo en el predio. Este beneficio tendrá vigencia mientras se mantenga el terminal autorizado. En caso contrario, se deberá construir el porcentaje de estacionamientos faltantes.
+
+Estaciones de Intercambio Modal
+
+#### Artículo 4
+
+13.12. Las estaciones de intercambio modal podrán emplazarse en las zonas en que el Instrumento de Planificación Territorial admita el uso de suelo equipamiento de las clases comercio o servicios. Estas estaciones deberán resolver al interior del predio la totalidad de las circulaciones, estacionamientos y demás componentes que se requieren para su funcionamiento de acuerdo a lo estipulado por el Manual de Vialidad Urbana (Redevu) y el Manual de Señalización de Tránsito.
+
+En este tipo de terminales no podrán efectuarse servicios de aseo, carga de combustible, mantención o reparación de vehículos, ni podrán contener terminales de vehículos ni depósito de vehículos.
 
 ## Capítulo 14
 
