@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.029, de 29 de abril de 1999, se expropiaron los lotes No. s 35, 37, 56 y 57, superficies 1.410, 1.245, 1.206 y 2.322 M2., roles de avalúo 426-18 y 427-35, comuna de Cauquenes, para la obra Camino Cauquenes-Límite Regional-Quirihue, Sector Cauquenes Límite Regional y se acordó precio de indemnización con sus propietarios Humberto Arturo Vergara del Río y otros y Olga Ximena Lazo Fritz, ascendente a la cantidad de $ 508.406, para el lote No. 35, $ 675.903, para el lote No. 37 y $ 1.477.057, para los lotes No. s 56 y 57.-
+
+Fiscal del Ministerio de Obras Públicas.
