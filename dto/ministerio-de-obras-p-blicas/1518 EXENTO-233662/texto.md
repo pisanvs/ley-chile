@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.518 de fecha 29 de octubre del 2004, se expropió el lote de terreno Nº 111-A, superficie 26 m², rol Nº609-62, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz - Yaquil, rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietario Luis Humberto González Miranda, ascendente a la cantidad de $245.555.
+
+Fiscal del Ministerio de Obras Públicas.
