@@ -1,0 +1,3 @@
+Por resolución No. 981, de 21 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar de la fecha de la presente resolución, el plazo otorgado en el numeral 1° de la resolución No. 589, de 1989, de esta Subsecretaría, que autorizó a PESQUERA SAN MIGUEL LIMITADA, RUT No. 81.740.200-3, domiciliada en calle Comercio No. 55, Talcahuano, para prorrogar el inicio de operación de la planta elaboradora autorizada por la resolución No. 238 de 1988, de esta Subsecretaría en razón de haberse acreditado la ocurrencia de fuerza mayor.
+
+Valparaíso, 21 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
