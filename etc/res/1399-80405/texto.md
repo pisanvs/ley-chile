@@ -1,0 +1,3 @@
+Por resolución No. 1.399 de 08 de Noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de la fecha de la presente resolución, el plazo otorgado a don JOSE GUMERCINDO NAHUELHUEN MALDONADO, R.U.T. No. 4.696.610-4, domiciliado en Avda. Pedro Montt No. 241, Quemchi, X Región, en el numeral 3° de la resolución No. 1.047, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 08 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
