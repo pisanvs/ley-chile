@@ -1,0 +1,1 @@
+Declara que el plazo fijado en la ley 4,861, de 23 de julio de 1930, que fija plazo y fecha inicial para pago de las deudas contraídas por particulares beneficiados por construcción canales Laja y otros, empezará a correr desde el 1.° de enero de 1935, para la Asociación de Canalistas del Canal del Laja.
