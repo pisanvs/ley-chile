@@ -1,0 +1,5 @@
+Por decreto MOP Nº836, de 30 de abril de 2002, modificado por decreto MOP N° 183 de 10 de marzo de 2003, se expropió el lote de terreno Nº2, para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Sector Km. 325.760,00 al Km. 326.140,00", Séptima Región, que figura a nombre de Marcelino Noranbuena Acuña, rol de avalúo 460-86, comuna de Retiro, superficie 7.740 m2. La comisión de peritos integrada por los señores Paula Soledad González Ortega, María Isabel de Jesús Ríos Marcuello y Arturo Alejandro Briso Inostroza, fijó con fecha 17 de diciembre de 2001, el valor provisional de la indemnización en la cantidad de $22.240.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
