@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.312 de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 28-B, superficie 340 m2, rol de Avalúo Nº 559-27, comuna de Linares, para la obra "Camino: Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147", VII Región y se acordó el valor de la indemnización con su propietaria María Olodia Vásquez Ibáñez, ascendente a la cantidad de $25.363.826.-
+
+Fiscal del Ministerio de Obras Públicas.
