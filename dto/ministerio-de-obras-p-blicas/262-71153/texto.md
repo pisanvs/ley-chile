@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 262 de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 8 y 16, superficies 480 y 645 m², Roles de avalúo 159-34 y 160-41 comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Canal Relbún y se acordó precio de indemnización con sus propietarios Amador Segundo Mardones Saldías y Ema Alicia Mardones Melo ascendentes a las cantidades de $155.571 y $205.315.-
+
+Fiscal del Ministerio de Obras Públicas.
