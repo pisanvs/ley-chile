@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 628, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s 2-A, 9, 17, 18 y 21, superficies 749, 1.387, 274, 283 y 1.604 M2. respectivamente, roles de avalúo 4465-2, 4590-96, 3330-13, 3330-14 y 1060-61, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, sector Las Acacias - Río Maipo y se acordó precio de indemnización con los propietarios Marietta Alvarez Schneider, Mario Ricci Labarca e Inés Cortés Carabelli, Enzo Aguayo Fuentes y Miguel Bustos Muñoz , ascendente a las cantidades de $21.283.035, para el lote 2-A; $335.804.634, para los lotes 9 y 21; $ 17.253.954, para el lote 17 y $30.933.530, para el lote 18.-
+
+Fiscal del Ministerio de Obras Públicas
