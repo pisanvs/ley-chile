@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.831, de 28 de abril del 2000, se expropió el lote de terreno Nº 64, superficie 557 m2., rol de avalúo 564-35, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Sexta Región y se acordó el valor de indemnización con su propietaria Isolina Villavicencio Espinoza, ascendente a la cantidad de $1.790.566.
+
+Fiscal del Ministerio de Obras Públicas.
