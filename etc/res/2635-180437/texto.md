@@ -1,0 +1,7 @@
+Por resolución Nº 2.635, de 18 de diciembre de 2000, de esta Subsecretaría, autorízase a PESQUERA IQUIQUE GUANAYE S.A. para ampliar las actividades pesqueras extractivas con la nave ''Timor'', autorizadas por resoluciones Nº 480 de 1983, Nº 1.417 de 1991, Nº 53 de 1993, y Nº 1.333 de 1996, todas de esta Subsecretaría, en la forma y condiciones que a continuación se indican.
+
+La interesada podrá ampliar actividades pesqueras con la nave señalada precedentemente en el área marítima que a continuación se indica, donde podrá capturar, con red de cerco, por fuera del área de reserva artesanal, los siguientes recursos hidrobiológicos: a) En el área marítima comprendida entre la VI a la IX Regiones: Bacaladillo o mote, Cojinoba del norte, Cojinoba del sur, Dorado, Machuelo o tritre, Palometa. b) En el área marítima correspondiente a la X Región: Bacaladillo o mote, Cojinoba del norte, Cojinoba del sur, Dorado, Machuelo o tritre, Palometa.
+
+Deniégase la autorización solicitada para ampliar actividades pesqueras extractivas respecto de las áreas y especies no mencionadas en la presente resolución, por configurarse las causales denegatorias previstas en el artículo 19 letras a), c) y e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
