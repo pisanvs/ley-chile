@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº939, de 25 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 se expropiaron los lotes de terreno Nºs. 337 y 357 para la obra: Camino Colchagua - Pichidegua, Sector San Roberto - Cruceros, km.
+
+12,30000 a km. 26,00400, que figuran a nombre de Izquierdo Diego y Vicuña Hernán, roles de avalúo en trámite, Comuna de Palmilla, VI Región, superficies 1.239 y 949 m2, respectivamente. La Comisión de Peritos fijó con fecha 15 de marzo de 2001, en las cantidades de $1.665.100.- para el lote 337 y $2.179.100.- para el lote 357. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
