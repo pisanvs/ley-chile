@@ -1,0 +1,853 @@
+DICTA NORMAS SOBRE RECLUTAMIENTO Y MOVILIZACION DE LAS FUERZAS ARMADAS
+
+Santiago, 2 de Agosto de 1978.- Con esta fecha se ha dictado lo siguiente:
+
+Núm. 2.306.- Visto: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973; 527, de 1974, y 991, de 1976,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+
+## Título Primero
+
+Generalidades
+
+#### Artículo 1°
+
+El reclutamiento y la movilización del personal que requieran las Fuerzas Armadas en sus misiones de paz y de guerra, se regirán por el presente decreto ley y sus reglamento complementario.
+
+#### Artículo 2°
+
+Para los efectos de este decreto ley, las personas se agrupan en clases. Cada clase se forma con los chilenos nacidos en un mismo año.
+
+#### Artículo 3º
+
+El Servicio de Registro Civil e Identificación deberá remitir anualmente a la Dirección General de Movilización Nacional, dentro de los diez primeros días del mes de enero, la nómina de las personas que cumplan dieciocho años de edad en el respectivo año, con indicación del rol único nacional, la fecha de nacimiento y el lugar de residencia de las mismas, con objeto de materializar su inscripción automática en el Registro Militar. Asimismo, deberá remitir mensualmente la nómina de las personas de dieciocho a cuarenta y cinco años de edad que hubieren fallecido en el respectivo mes.
+
+#### Artículo 4°
+
+En tiempo de paz, toda persona, natural o jurídica estará obligada a proporcionar los antecedentes, datos e informes sobre potencial humano que solicite la Dirección General de Movilización Nacional, en el plazo de treinta días. En tiempo de guerra, deberá proporcionarlos en el plazo en que le sean requeridos.
+
+#### Artículo 5°
+
+La Dirección General del Registro Civil e Identificación, deberá remitir anualmente a la Dirección General de Movilización Nacional, en el mes de marzo, una nómina de las personas incorporadas en el año anterior al "Registro de Profesionales", que lleva el Servicio de Registro Civil e Identificación. Dicha nómina deberá contener a lo menos los nombres, apellidos, título profesional o técnico respectivo, domicilio particular y cédula de identidad.
+
+## Título Segundo
+
+De la Dirección General de Movilización Nacional
+
+#### Artículo 6°
+
+La Dirección General de Movilizacion Nacional, que en el texto de esta ley se denominará Dirección General, es un organismo del Estado, dependiente del Ministerio de Defensa Nacional que se relacionará, además, para los efectos de su buen servicio, con los Comandantes en Jefes Institucionales.
+
+La Dirección General estará a cargo de un Oficial General del Ejército, Armada o Fuerza Aérea que, con el título de Director General de Movilización Nacional, será el jefe superior del servicio y dependerá directamente del Ministro de Defensa Nacional.
+
+#### Artículo 7°
+
+La Dirección General será la encargada de la aplicación de las normas del presente decreto ley y su reglamento.
+
+Le corresponde especialmente:
+
+a) La elaboración del Registro Militar y de la Base de Conscripción, la distribución y la convocatoria de las personas y la realización de los sorteos en conformidad con este decreto ley.
+
+b) La participación en la selección de las personas convocadas, en conjunto con las restantes autoridades que señala este decreto ley, en lo relativo al cumplimiento de las obligaciones del servicio militar.
+
+c) La integración en la Comisión Nacional de Reclutamiento, por medio de su Director General, y en las Comisiones Especiales de Acreditación, a través de representantes, quienes se desempeñarán como secretarios de las mismas y nombrarán a los correspondientes oficiales de reclutamiento que participarán en ellas.
+
+d) La organización, estadística, convocatoria y selección de la reserva.
+
+e) El nombramiento y ascenso del personal de la reserva que no se encuentre llamado al servicio activo.
+
+f) El llamado al servicio activo del personal de la reserva, a proposición de las Instituciones Armadas.
+
+g) La proposición de las inhabilidades del personal de la reserva, a requerimiento de los Comandantes en Jefe.
+
+h)La preparación de la movilización de la reserva nacional.
+
+i) La proposición de nombramiento y ascensos de los oficiales de Reclutamiento y demás empleados civiles que se desempeñan en el servicio , y la resolución de sus destinaciones.
+
+j) El requerimiento de informes relativos al potencial humano, de cualquier industria, empresa u organismo, sea público o privado.
+
+k) La resolución de cualquiera situación no prevista en el presente decreto ley, deriva del cumplimiento del deber militar, salvo aquellas que por su naturaleza sean materia de ley o corresponda decidirlas a una autoridad superior.
+
+l) El ejercicio de las demás atribuciones que le encomiende la ley.
+
+#### Artículo 8º
+
+En todos aquellos casos en que no exista un procedimiento especialmente previsto, las resoluciones que dicte la Dirección General, respecto de las solicitudes que presenten las personas afectas a este decreto ley, serán reclamables administrativamente ante el Subsecretario de Guerra y de su resolución podrá recurrirse ante el Ministro de Defensa Nacional, quien resolverá oyendo al Comité de Auditores Generales.
+
+#### Artículo 9°
+
+La Dirección General proporcionará el contingente y personal de la reserva necesario para cubrir las exigencias del Ejército, Armada y Fuerza Aérea, y será el organismo encargado de satisfacer los requerimientos de potencial humano que le formulen el frente bélico y los otros frentes, en conformidad a sus atribuciones legales.
+
+#### Artículo 10
+
+El territorio nacional se dividirá en Zonas y Cantones de Reclutamiento, en la forma que señale el reglamento.
+
+#### Artículo 11
+
+En los lugares donde no existieren oficinas cantonales, las unidades y reparticiones de las Fuerzas Armadas y de Carabineros podrán constituir Cantones de Reclutamiento, en la forma que determine el reglamento.
+
+#### Artículo 12
+
+Fuerá del país, los Consulados chilenos desempeñarán funciones de reclutamiento en calidad de Cantones auxiliares.
+
+## Título Tercero
+
+De las obligaciones militares
+
+## Capítulo I
+
+Del deber militar
+
+#### Artículo 13
+
+El deber militar se extiende a todas las personas sin distinción de sexo, desde los dieciocho a los cuarenta y cinco anos de edad.
+
+Las formas de cumplir el deber militar son:
+
+-Servicio Militar Obligatorio;
+
+-Participación en la Reserva, y
+
+-Participación en la Movilización.
+
+El servicio militar obligatorio podrá cumplirse mediante la conscripción ordinaria, los cursos especiales o la prestación de servicios.
+
+#### Artículo 13
+
+A.- El cumplimiento de las obligaciones que impone este decreto ley se acreditará con el documento de situación militar expedido por el Cantón de Reclutamiento correspondiente, en la forma que determine el reglamento.
+
+#### Artículo 14
+
+Para los efectos de este decreto ley, las personas serán clasificadas en la siguiente forma:
+
+a) Base de Conscripción;
+
+b) Servicio Activo, y
+
+c) Reserva.
+
+#### Artículo 15
+
+El deber militar sólo puede cumplirse en el Ejercito, Armada o Fuerza Aérea.
+
+Los institutos, escuelas u organismos que impartan instrucción premilitar sólo pueden existir y funcionar bajo la dependencia directa del Ministerio de Defensa Nacional.
+
+La instrucción premilitar no libera a ninguna persona del cumplimiento de su deber militar.
+
+#### Artículo 16
+
+Toda persona acuartelada para hacer el servicio militar obligatorio o que sea llamada al servicio activo o movilizada de acuerdo con las disposiciones de este decreto ley, retendrá los derechos inherentes a su función, empleo o trabajo, incluida la antiguedad para el ascenso, como si continuara en su desempeño.
+
+Con todo, sus remuneraciones serán únicamente las fijadas en el Estatuto del Personal de las Fuerzas Armadas, salvo lo dispuesto en el artículo 51, respecto del personal de reserva.
+
+Los que hubieren sido aceptados o seleccionados como alumnos de cualquier establecimiento de educación y que no pudieren matricularse en ellos, o que debieren interrumpir sus estudios por haber sido convocados y seleccionados para cumplir con su servicio militar obligatorio, por haber sido llamados al servicio activo para instrucción y preparación de la movilización o por haber sido movilizados, conservarán su derecho a matrícula y a continuar sus estudios. Les serán válidas para este efecto todas las exigencias que en su oportunidad hubieren cumplido, sin que pueda demandárseles el cumplimiento de nuevos requisitos.
+
+El derecho establecido en el inciso anterior, sólo podrá impetrarse durante el período lectivo inmediatamente posterior a la fecha de término de los deberes militares correspondientes, y en la misma institución que el alumno hubiere sido seleccionado o se encontrare matriculado.
+
+Toda persona acuartelada para hacer el Servicio Militar Obligatorio o que sea llamada al servicio activo o movilizada, que sufriere una inutilidad proveniente de un acto determinado del servicio, tendrá derecho a los beneficios que establece a este respecto el citado Estatuto.
+
+## Capítulo II
+
+De las exenciones
+
+#### Artículo 17
+
+Estarán exentos del deber militar, mientras permanezcan en sus cargos:
+
+1.- El Presidente de la República; los Ministros de Estado y aquellos que tengan dicho rango; los Subsecretarios; el Contralor General de la República; los Consejeros del Banco Central; el Presidente del Consejo de Defensa del Estado, y los jefes superiores de los servicios de la Administración del Estado.
+
+2.- Los Senadores y los Diputados.
+
+3.- Los jueces de garantía, los jueces de los tribunales de juicio oral, los fiscales del Ministerio Público, el Defensor Nacional y los defensores regionales y locales.
+
+4.- Los ministros de la Corte Suprema y de las Cortes de Apelaciones; los secretarios, relatores y los fiscales de estos tribunales; los jueces y los secretarios de juzgados de letras; los funcionarios que ejercen el Ministerio Público Militar, y los miembros del Tribunal Constitucional y del Tribunal Calificador de Elecciones.
+
+5.- Los embajadores; los ministros plenipotenciarios; los encargados de negocios; los consejeros; los secretarios de embajadas y legaciones; los cónsules, y los agentes consulares.
+
+6.- Los intendentes, los gobernadores y los alcaldes.
+
+7.- Los ministros de culto pertenecientes a iglesias, confesiones o instituciones religiosas que gocen de personalidad jurídica de derecho público, siempre que acrediten su calidad de tales mediante certificación expedida por sus respectivas entidades religiosas.
+
+8.- Los que ejerzan cargos que no puedan ser abandonados por razones de interés nacional, previa calificación del Presidente de la República. Estarán igualmente exentas del deber militar las madres de menores de dieciocho años.
+
+## Título Cuarto
+
+Del Servicio Militar Obligatorio
+
+## Capítulo I
+
+Del Registro Militar y de la Base de Conscripción
+
+#### Artículo 18
+
+Todos los chilenos que cumplan dieciocho años de edad integrarán el Registro Militar, el que será actualizado por la Dirección General con la información que le proporcione anualmente el Servicio de Registro Civil e Identificación, conforme a lo dispuesto en el artículo 3º.
+
+#### Artículo 18
+
+A.- Para los efectos del Registro Militar, las personas que cumplan diecisiete años de edad deberán actualizar su residencia o domicilio en el Servicio de Registro Civil e Identificación.
+
+Se considerarán válidas todas las notificaciones o actuaciones que se efectuaren a las personas a que se refiere el artículo anterior en la residencia o domicilio registrado en el mencionado Servicio.
+
+#### Artículo 18
+
+B.- El Presidente de la República podrá ordenar a la Dirección General la actualización parcial o total de los datos contenidos en el Registro Militar respecto de las personas que hubiesen cumplido entre 20 y 45 años de edad.
+
+#### Artículo 19
+
+DEROGADO
+
+#### Artículo 20
+
+La cantidad de contingente que debe acuartelarse cada año será determinada por el Presidente de la República a proposición del Ministro de Defensa Nacional, conforme a los requerimientos efectuados por las Fuerzas Armadas.
+
+#### Artículo 21
+
+La Base de Conscripción es el conjunto de personas que están sujetas a la obligación de cumplir el servicio militar. Será elaborada anualmente por la Dirección General y publicada en la forma que determine el reglamento.
+
+Pertenecerán a la Base de Conscripción los varones que integren el Registro Militar del año en curso, los disponibles del año anterior y los que por enfermedad o por haber estado procesados por delitos que no merezcan pena aflictiva o por haber sido condenados a una pena inferior, se hallaban imposibilitados para realizar el servicio militar en el año en que les correspondía hacerlo.
+
+Los varones que no hayan sido sorteados en la primera convocatoria integrarán, además, la Base de Conscripción del año siguiente, por segunda y última vez, siempre que la clase correspondiente de ese año no alcance a completar las necesidades de las Fuerzas Armadas.
+
+#### Artículo 22
+
+Los varones pertenecientes a la Base de Conscripción deberán concurrir a las citaciones que les hicieren las autoridades de reclutamiento para integrar el contingente que será convocado al servicio militar. En caso de privación de libertad, el jefe del respectivo establecimiento penal informará al Cantón de Reclutamiento correspondiente las circunstancias de la misma.
+
+#### Artículo 23
+
+Toda persona natural y todo representante legal de personas naturales o jurídicas sean públicas oprivadas, institutos, empresas, organizaciones, o establecimientos comerciales, industriales, agrícolas, educacionales o de cualquier otra índole, que tengan a su cargo, bajo guarda o a su servicio a otras obligadas por este decreto ley, deberán tomar las medidas para facilitar el cumplimiento oportuno de las obligaciones militares de éstas.
+
+INCISO ELIMINADO
+
+#### Artículo 24
+
+Los varones declarados aptos para el servicio militar que no fueron acuartelados formarán durante un año más la categoría de disponibles, y quedarán sujetos a las obligaciones que señalan este decreto ley y su reglamento.
+
+Asimismo, quedarán en calidad de disponibles los varones que en el momento de resultar sorteados residan en el extranjero y mientras permanezcan fuera de Chile, circunstancia que deberán acreditar en el consulado correspondiente, en la forma que determine el reglamento.
+
+Los varones de esta categoría podrán ser destinados a servir en la Defensa Civil de Chile hasta por un tiempo equivalente al de la conscripción, o ser incluidos en la lista de llamados en las condiciones que señala el artículo 30 A.
+
+#### Artículo 25
+
+DEROGADO
+
+#### Artículo 26
+
+Las personas que no cumplieren con las disposiciones de este decreto ley no podrán ocupar cargos ni empleos en la Administración del Estado.
+
+## Capítulo II
+
+De la Selección
+
+### Párrafo I
+
+#### Artículo 27
+
+Créase la Comisión Nacional de Reclutamiento, que estará encargada de la supervisión y control del proceso de reclutamiento y selección del contingente. Será convocada anualmente por el Ministro de Defensa Nacional y estará integrada por el Subsecretario de Guerra, quien la presidirá, por los Subsecretarios de Justicia, de Educación, de Salud y de Planificación y Cooperación, por el Director General, y por un Oficial Superior de las Fuerzas Armadas, designado por el Subsecretario de Guerra a proposición del Director General, quien se desempeñará como secretario de la Comisión.
+
+Corresponderá a la Comisión Nacional de Reclutamiento, especialmente:
+
+1) Supervisar las actividades del proceso de reclutamiento y selección del contingente y velar por el cumplimiento de este decreto ley y su reglamento. En particular, deberá ejercer la supervisión y control de las siguientes actividades específicas:
+
+a) El uso de la información y de las nóminas proporcionadas por el Servicio de Registro Civil e Identificación; la elaboración, actualización, difusión y utilización del Registro Militar, de la Base de Conscripción, de las bases para los sorteos general y final, de las nóminas de voluntarios y de la lista de llamados, y la publicación oportuna y eficaz de las convocatorias y resultados del proceso de selección y reclutamiento;
+
+b) La realización de los sorteos que contempla este decreto ley, y
+
+c) La evaluación de la aptitud para realizar el servicio militar en el proceso de selección del contingente a que se refiere el artículo 30 D.
+
+2) Constituir, bajo su dependencia, las Comisiones Especiales de Acreditación y ejercer la dirección de las actividades que éstas lleven a cabo.
+
+3) Informar al Ministro de Defensa Nacional respecto del proceso de reclutamiento y selección del contingente.
+
+4) Solicitar informes a los diferentes organismos que intervengan en el proceso de reclutamiento y selección sobre cualquier materia que sea de su competencia.
+
+5) Solicitar, a las autoridades que corresponda, la destinación en comisión de servicio de representantes y peritos de entre los funcionarios de la Administración del Estado, para el cumplimiento de las funciones de la Comisión Nacional de Reclutamiento a que se refiere este Capítulo.
+
+#### Artículo 28
+
+La Comisión Nacional de Reclutamiento constituirá Comisiones Especiales de Acreditación en aquellas provincias o comunas del país que determine el reglamento, en función de la extensión territorial de la jurisdicción de los Cantones de Reclutamiento respectivos y del tamaño de su población.
+
+Corresponderá a las Comisiones Especiales de Acreditación conocer las reclamaciones que tengan por objeto hacer valer alguna de las causales de exclusión del servicio militar obligatorio a que se refiere el artículo 42 y resolverlas sobre la base de los antecedentes que acrediten dichas causales, en conformidad con el procedimiento establecido en el artículo 30 C, y ejercer las demás facultades previstas en este decreto ley.
+
+Las Comisiones Especiales de Acreditación serán presididas por un delegado del Presidente de la Comisión Nacional de Reclutamiento y estarán integradas por profesionales de la Administración del Estado en representación de los Ministerios de Justicia, Educación, Salud y del Instituto Nacional de la Juventud, designados por el respectivo Intendente, por un Oficial representante de las Fuerzas Armadas nombrado por el Comandante de Guarnición de mayor antigüedad, y por un representante del Director General, designado por este último, quien se desempeñará como secretario de la Comisión.
+
+Las Comisiones Especiales de Acreditación se constituirán en el momento de efectuarse el sorteo general y funcionarán en conformidad con las normas de organización y procedimiento que establezca el reglamento, bajo la dirección y dependencia directa de la Comisión Nacional de Reclutamiento.
+
+### Párrafo II
+
+Del Proceso de Selección del Contingente
+
+#### Artículo 29
+
+Para la realización del servicio militar se seleccionará preferentemente a las personas que hayan manifestado su decisión de presentarse voluntariamente a su cumplimiento o de efectuarlo voluntariamente, y que cumplan con los requisitos legales, reglamentarios y de salud. En el caso de que los voluntarios varones no sean suficientes para enterar el contingente a que alude el artículo 20, se completará la cantidad faltante mediante los sorteos que contempla esta ley.
+
+#### Artículo 29
+
+A.- Los varones que integren la Base de Conscripción podrán concurrir al Cantón de Reclutamiento respectivo para manifestar su decisión de presentarse voluntariamente a cumplir con la obligación de realizar el servicio militar.
+
+Las mujeres que pertenezcan a las clases comprendidas en el correspondiente llamado podrán concurrir al Cantón de Reclutamiento respectivo para manifestar su decisión de efectuar voluntariamente el servicio militar.
+
+Dichas personas serán incluidas en la lista de llamados en calidad de voluntarios, una vez que el Cantón de Reclutamiento verifique el cumplimiento de los requisitos a que se refiere el artículo anterior.
+
+Asimismo, las personas sin instrucción militar de entre veinte y veinticuatro años de edad podrán, igualmente, manifestar su decisión de efectuar voluntariamente el servicio militar en los términos de este artículo.
+
+#### Artículo 30
+
+Para completar la cantidad del contingente que debe acuartelarse anualmente, y que no se entere con los varones incluidos como voluntarios, la Dirección General realizará un primer sorteo público, denominado sorteo general, entre quienes conformen la Base de Conscripción, con exclusión de dichos voluntarios.
+
+Corresponderá a la Dirección General determinar el número de varones que deberán ser sorteados y velar por que dicho sorteo se efectúe en forma proporcional a la Base de Conscripción de cada comuna.
+
+#### Artículo 30
+
+A.- La lista de llamados para el cumplimiento del servicio militar estará conformada por los varones que determine el sorteo general y por aquellas personas que tengan la calidad de voluntarias según lo dispone el artículo 29 A.
+
+#### Artículo 30
+
+B.- Los varones convocados en virtud del sorteo general podrán recurrir a la correspondiente Comisión Especial de Acreditación con objeto de hacer valer las causales de exclusión que correspondan, en conformidad con el artículo 42.
+
+La reclamación se interpondrá por escrito ante cualquier Cantón de Reclutamiento, dentro de los treinta días siguientes a la publicación de los resultados del sorteo general, acompañando los documentos o antecedentes que le sirvan de fundamento.
+
+#### Artículo 30
+
+C.- Los Cantones de Reclutamiento remitirán a la Comisión Especial de Acreditación competente las reclamaciones y sus antecedentes, dentro de tercero día hábil a partir de la interposición de la reclamación.
+
+Dicha Comisión podrá solicitar, a toda persona natural o jurídica, antecedentes, datos e informes relativos a las reclamaciones de que conozca, la que estará obligada a proporcionárselos en el plazo que se le señale.
+
+Cada reclamación será resuelta en el plazo de treinta días, contado desde la recepción de la misma por la Comisión, y la resolución se notificará al Cantón de Reclutamiento respectivo, el que la pondrá en conocimiento del reclamante dentro de quinto día hábil.
+
+#### Artículo 30
+
+D.- Corresponderá a las Fuerzas Armadas evaluar la aptitud para realizar el servicio militar de las personas convocadas en calidad de voluntarias y de los varones seleccionados por el sorteo general cuyas reclamaciones fueren rechazadas conforme al procedimiento establecido en el artículo 30 C, o que no presentaren reclamaciones.
+
+Para cumplir con esta función, las instituciones de las Fuerzas Armadas comisionarán a personal especializado de su dependencia, el que procederá a examinar a las personas a que se refiere el inciso anterior, en conformidad con los criterios técnicos y procedimientos que fije un reglamento de selección de soldados conscriptos para las Fuerzas Armadas.
+
+Se dejará constancia, en el acta reservada de selección del contingente, del hecho de que una persona haya sido declarada no apta para el cumplimiento del servicio militar. La violación de esta reserva será sancionada conforme a las normas legales vigentes.
+
+#### Artículo 30
+
+E.- Cuando el número de varones declarados aptos exceda la cantidad de contingente a que se refiere el artículo 20, se realizará un segundo sorteo público, denominado sorteo final, el que, con exclusión de los voluntarios aptos, determinará quiénes de entre ellos cumplirán con el servicio militar.
+
+#### Artículo 30
+
+F.- Los varones que se encontraren cursando el último año de enseñanza media, estudios tendientes a la obtención de un título profesional o técnico de nivel superior en establecimientos de educación superior del Estado o reconocidos por éste o realizando su práctica profesional, y que resultaren convocados en virtud del sorteo general tendrán derecho a optar, por una sola vez, entre las siguientes modalidades alternativas de cumplimiento del servicio militar:
+
+1.- Conscripción ordinaria, en forma inmediata o al término de los estudios correspondientes. En ambos casos, podrán optar por la institución de las Fuerzas Armadas y la unidad que sean de su preferencia.
+
+2.- Prestación, hasta por ciento ochenta días, de servicios vinculados a sus estudios en aquellas profesiones que interesen a las Fuerzas Armadas.
+
+3.- Participación, hasta por ciento cincuenta días, en cursos especiales de instrucción militar para estudiantes del último año de enseñanza media o de establecimientos de educación superior del Estado o reconocidos por éste.
+
+El reglamento regulará las modalidades alternativas de cumplimiento del servicio militar a que se refieren los números anteriores, definirá las profesiones y cursos especiales que interesen a las Fuerzas Armadas y establecerá los procedimientos mediante los cuales éstas informarán a la Dirección General de sus requerimientos y disponibilidades.
+
+Las solicitudes para optar a las modalidades alternativas de cumplimiento del servicio militar se presentarán por escrito ante cualquier Cantón de Reclutamiento, dentro de los treinta días siguientes a la publicación de los resultados del sorteo general.
+
+## Capítulo III
+
+Del Servicio Activo
+
+#### Artículo 31
+
+El Servicio Activo es la condición en que se encuentran las personas que han sido convocadas y están cumpliendo cualquier forma del deber militar.
+
+El personal de planta de las Fuerzas Armadas y los subalféreces, cadetes, grumetes, aprendices y alumnos de las escuelas institucionales que no formen parte del personal de planta, pertenecen al Servicio Activo.
+
+#### Artículo 32
+
+La Dirección General, a petición del interesado, podrá autorizar la anticipación del servicio militar, en calidad de voluntario, en la modalidad de conscripción ordinaria hasta en un año. Con todo, estas personas no podrán ser movilizadas antes de cumplir dieciocho años de edad.
+
+#### Artículo 33
+
+La Dirección General deberá considerar, en calidad de disponibles, a los deportistas que sean designados seleccionados nacionales por las correspondientes federaciones deportivas. Para tal efecto, en los meses de enero y julio de cada año, el Instituto Nacional de Deportes de Chile remitirá a la Dirección General una nómina que individualice a los deportistas que reúnan tal calidad, con indicación de los nombres completos, el rol único nacional, el domicilio y la fecha de nacimiento.
+
+#### Artículo 34
+
+El Presidente de la República, a requerimiento de alguna Institución de las Fuerzas Armadas podrá disponer el funcionamiento de cursos especiales para que personas de determinado nivel educacional cumplan en ellos el Servicio Militar Obligatorio.
+
+En la misma forma, podrá decretarse que determinadas personas que tengan profesiones, ocupaciones, oficios o conocimiento que interesen a las Fuerzas Armadas cumplan con el servicio militar obligatorio mediante la modalidad de "Prestación de Servicios", en la que recibirán instrucción militar y podrán aportar sus especialidades a las Instituciones de la Defensa Nacional.
+
+Esta Prestación de Servicios tendrá una duración máxima de ciento ochenta días y deberá cumplirse en dos etapas que no excedan de noventa días cada una, debiendo mediar entre dichos períodos, a lo menos un año. Los primeros cuarenta y cinco días de la primera etapa se cumplirán con jornada completa; los segundos cuarenta y cinco días, y la segunda etapa completa, se cumplirán con media jornada.
+
+Las características y modalidades de esta forma de cumplir el servicio militar obligatorio serán determinadas por el reglamento.
+
+#### Artículo 35
+
+El servicio militar será de hasta dos años en el Ejército, Armada o Fuerza Aérea.
+
+La convocatoria de las personas que cumplirán el servicio militar se hará por decreto supremo en el que deberá indicarse el tiempo de su duración.
+
+Durante las situaciones de excepción, derivadas de guerra externa o interna, conmoción interior, emergencia y calamidad pública, el contingente en servicio activo permanecerá en las filas mientras lo requiera la seguridad de la Nación, circunstancia que será determinada por el Presidente de la República.
+
+En casos especiales, podrá establecerse, por decreto supremo, una reducción del tiempo del servicio militar fijado en la convocatoria, o su cumplimiento fraccionado en períodos determinados.
+
+#### Artículo 36
+
+DEROGADO
+
+#### Artículo 37
+
+DEROGADO
+
+#### Artículo 38
+
+El Servicio Militar Obligatorio, en cualquiera de sus modalidades, se iniciará en la calidad de soldado o marinero conscriptos.
+
+Una vez terminado el período de instrucción individual o básica, los soldados o marineros conscriptos podrán optar a la calidad de aspirantes a Oficiales de reserva.
+
+Los aspirantes podrán ser nombrados hasta en el grado de Subtenientes de reserva, de acuerdo con las necesidades institucionales y con lo que disponga el reglamento.
+
+#### Artículo 39
+
+DEROGADO
+
+#### Artículo 40
+
+Los alumnos de las Escuelas Militar, Naval o de Aviación que sean dados de baja con valer militar, pasarán a la reserva instruida de su clase y se les dará por cumplido el Servicio Militar Obligatorio, con la calidad de aspirantes a oficiales.
+
+A los alumnos de los otros establecimientos de enseñanza de las Fuerzas Armadas que sean dados de baja con valer militar, se les dará por cumplido el Servicio Militar Obligatorio y pasarán a la reserva instruida de su clase, hasta con el grado de Sargento 1° de reserva.
+
+Los dados de baja sin valer militar harán el servicio militar si aún se encuentran en la base de conscripción.
+
+#### Artículo 41
+
+Las personas llamadas a los cursos especiales a que se refiere el artículo 34 que no se presentaren a completar su período de instrucción, serán llamados a hacer su servicio militar con el contingente ordinario.
+
+## Capítulo IV
+
+De las exclusiones
+
+#### Artículo 42
+
+Quedan excluidos del cumplimiento del servicio militar:
+
+1.- Las personas que fueren declaradas no aptas por imposibilidad física o psíquica, según lo disponga el reglamento.
+
+2.- Los miembros de las Fuerzas de Orden y Seguridad Pública y el personal de Gendarmería de Chile.
+
+3.- Las personas a quienes el cumplimiento del servicio militar ocasione un grave deterioro en la situación socio-económica de su grupo familiar del cual constituyan su principal fuente de ingreso.
+
+4.- Las personas que hubieren contraído matrimonio, que estén en vías de ser padres o lo sean con anterioridad al primer sorteo de selección del contingente.
+
+5.- Las personas que hubieren sido condenadas a pena aflictiva, salvo que la Dirección General las considere moralmente aptas. En todo caso, la amnistía extingue la causal de exclusión señalada en este numeral.
+
+6.- Los descendientes por consanguinidad en línea recta y en línea colateral, ambos hasta el segundo grado inclusive, de las personas a que se refiere el artículo 18 de la ley Nº 19.123, que beneficia a familiares de víctimas de violaciones de los derechos humanos o de violencia política.
+
+Las personas que se encuentren en las condiciones que se describen en los números 3, 4 y 6 podrán, no obstante, manifestar su decisión de presentarse voluntariamente al cumplimiento de la obligación de realizar el servicio militar, o de efectuarlo voluntariamente, en conformidad con lo dispuesto en el artículo 29 A.
+
+La exclusión del servicio militar no constituirá impedimento para el ejercicio del derecho a postular a las escuelas matrices de las Fuerzas Armadas o a ingresar a las plantas civiles de las mismas, acreditando el cumplimiento de los requisitos legales, reglamentarios y de salud.
+
+El reglamento determinará el procedimiento que deberá observar la Dirección General para dar cumplimiento a lo establecido en este artículo.
+
+## Capítulo V
+
+De los Deberes y Derechos de los Soldados
+
+Conscriptos
+
+#### Artículo 42
+
+A.- Durante la realización del servicio militar obligatorio, los soldados conscriptos estarán obligados a dar cumplimiento a las órdenes que impartan los superiores y a las prescripciones y mandatos que constituyen la base fundamental del servicio, y deberán observar un comportamiento honorable compatible con esa carga pública.
+
+#### Artículo 42
+
+B.- Se asegura a las personas que se encuentren cumpliendo el servicio militar obligatorio el efectivo ejercicio del conducto regular, teniendo siempre derecho a ser oídas por la autoridad militar a cargo de la unidad o dependencia en que se desempeñen, con objeto de hacer presente cualquier situación de su interés.
+
+#### Artículo 42
+
+C.- En cada una de las ramas de las Fuerzas Armadas existirá una Oficina de Asistencia al Soldado Conscripto, dependiente del Oficial General que tenga a cargo el Servicio de Bienestar Social de la respectiva Institución.
+
+Además de la Oficina Central, existirán Oficinas Locales conforme la situación de cada Institución, las que deberán cumplir, en sus respectivos radios jurisdiccionales, las tareas y misiones establecidas para este organismo.
+
+#### Artículo 42
+
+D.- La Oficina tendrá por misión recibir, atender y canalizar las solicitudes, peticiones o inquietudes, verbales o escritas, que los padres o apoderados, pudieran formular respecto de las actividades que conlleva la realización del servicio militar de sus hijos o pupilos.
+
+Sin perjuicio de las atribuciones de los Comandantes de las respectivas Unidades, la Oficina podrá recibir denuncias formuladas por los padres o apoderados de un Soldado Conscripto, referidas a tratamientos reñidos con la dignidad y honor de las personas, o que no se ajusten a la reglamentación vigente.
+
+Con todo, el Soldado Conscripto deberá siempre formular sus solicitudes, peticiones o inquietudes, verbales o escritas, y reclamar, conforme a las normas establecidas en el decreto supremo Nº 1.445, de 14 de diciembre de 1951, del Ministerio de Defensa Nacional, "Reglamento de Disciplina para las Fuerzas Armadas".
+
+En el cumplimiento de su cometido, la Oficina se desempeñará como organismo asesor y coordinador de las autoridades militares respectivas, sin que ello implique interferencias con la labor de otros entes civiles o militares que tengan competencia sobre la materia, pudiendo proponer las medidas conducentes a dar pronta solución a las solicitudes, peticiones o inquietudes que se le hayan presentado, así como aquellas que digan relación con denuncias de actos reñidos con la dignidad y honor de las personas o que no se ajusten a la reglamentación vigente, de acuerdo con el ordenamiento jurídico.
+
+Un Reglamento dictado por el Ministerio de Defensa Nacional, a proposición de los Comandantes en Jefe de las Fuerzas Armadas, establecerá los procedimientos comunes y específicos conforme a los cuales la Oficina Central y las Oficinas Locales cumplirán sus funciones.
+
+## Título Quinto
+
+De la Reserva
+
+#### Artículo 43
+
+La reserva es el conjunto de personas, con instrucción militar o sin ella, integrantes del potencial humano del país, que no se encuentran comprendidas en la Base de Conscripción ni en Servicio Activo.
+
+Para los efectos de este decreto ley se entiende por:
+
+-a) Potencial humano: El conjunto de personas que se encuentran en el territorio nacional o están en condiciones de ingresar a él y que por su nacionalidad chilena, constituyen el total de la disponibilidad de recursos humanos con que cuenta el país.
+
+-b) Reserva nacional: El conjunto de personas, sin distinción de sexo, que se encuentran en condiciones síquicas, físicas y morales de ser movilizadas o de cumplir otras funciones en beneficio del país.
+
+-c) Reserva militar o de las Fuerzas Armadas: El conjunto de personas, sin distinción de sexo, que encontrándose en edad militar de acuerdo con lo establecido en el artículo 13, con instrucción militar o sin ella, están en condiciones de ser movilizadas por las Fuerzas Armadas. La reserva militar o de las Fuerzas Armadas está constituida sobre la base del siguiente personal:
+
+1- Personal en retiro proveniente de la planta de las instituciones de la Defensa Nacional;
+
+2- Personal proveniente de las Escuelas Matrices de las Fuerzas Armadas, dado de baja con valer militar;
+
+3- Personal con instrucción militar proveniente del Servicio Militar Obligatorio, curso militar profesional u otro especial, y
+
+4- Personal sin instrucción militar.
+
+El personal de la reserva Militar o de las Fuerzas Armadas se denominará reservista y se clasificará en reserva con instrucción y reserva sin instrucción.
+
+Corresponderá al Ministerio de Defensa Nacional, por intermedio de la Dirección General de Movilización Nacional, la supervigilancia y control del tiro ciudadano, entendiendo por tal, las actividades deportivas de aplicación militar que benefician directamente a los fines de la seguridad y de la defensa nacional.
+
+Para tal efecto, se desempeñarán como autoridades ejecutoras y contraloras, las Comandancias de Guarnición de las Fuerzas Armadas y Autoridades de Carabineros de Chile.
+
+## Capítulo I
+
+Deberes y derechos de los reservistas
+
+#### Artículo 44
+
+El personal de reserva se agrupará en las mismas calidades, formará escalafones similares e investirá los mismos grados que el personal de planta de las Fuerzas Armadas, según lo prescrito en el reglamento.
+
+Podrán también organizarse, en conformidad con el reglamento, escalafones especiales con el personal de determinados servicios, aún cuando ellos no existan en la planta de las Instituciones de las Fuerzas Armadas.
+
+#### Artículo 45
+
+Los cambios de Institución del personal de la reserva se realizarán por decreto supremo a solicitud escrita del interesado o de alguna de las Instituciones de la Defensa Nacional, debiendo contar en todo caso, con la autorización de la Institución a la que pertenece el reservista.
+
+La Dirección General elaborará el decreto respectivo sólo después de haber recibido la solicitud y la aprobación para el cambio de la Institución a la que pertenece el reservista.
+
+El decreto indicará el escalafón y el lugar que en él ocupará el reservista manteniendo, para estos efectos, su antiguedad y grado.
+
+#### Artículo 46
+
+Los reservistas deberán efectuar periódicamente una declaración militar en el Cantón más cercano a su residencia, actualizando los datos de su individualización y su actividad laboral, todo ello según lo disponga el reglamento. Esta declaración estará exenta de impuestos y su envío por correo será de libre franqueo.
+
+#### Artículo 47
+
+En tiempo de paz, todo reservista tiene la obligación de pertenecer a un Centro de Reservistas, conforme lo establezca el reglamento. Las instituciones de las Fuerzas Armadas deberán considerar los recursos necesarios para el buen funcionamiento de estos centros.
+
+Los reservistas deberán comunicar al Centro de Reservistas a que se hallen adscritos, sus cambios de domicilio dentro de los treinta días siguientes de producido el cambio. Esta obligación deberá cumplirse hasta los 55 años de edad.
+
+Los Centros de Reservistas serán unidades de entrenamiento o instrucción militar de reservistas, y su funcionamiento y atribuciones se regirán por un reglamento.
+
+Los reservistas aptos para el servicio, con instrucción militar o sin ella, quedan sujetos a la obligación de concurrir al Centro de Reservistas de su adscripción o a los puntos de reunión que se les asignen, cuando sean citados por el jefe del Centro de Reservistas respectivo, para efectuar sesiones o períodos de instrucción, sin remuneración alguna, por lapsos no superiores a treinta días, continuos o fraccionados, cada año.
+
+#### Artículo 48
+
+Todo reservista está obligado a guardar secreto de los conocimientos o informaciones recibidos en el cumplimiento del deber militar, cuya difusión pueda afectar a la seguridad nacional.
+
+## Capítulo II
+
+Del llamado al servicio activo del personal de la
+
+Reserva.
+
+#### Artículo 49
+
+En tiempo de paz, el Presidente de la República, a proposición de la Dirección General, podrá llamar al servicio activo a determinado personal de la reserva, con instrucción o sin ella, para alguna de las siguientes finalidades:
+
+-a) Para instrucción y preparación de la movilización, y
+
+-b) Para desempeño en las Fuerzas Armadas.
+
+Los llamados al servicio activo de reservistas para desempeño en las Fuerzas Armadas, sólo se podrán efectuar previa solicitud presentada por el reservista.
+
+#### Artículo 50
+
+El personal de reserva llamado al servicio activo, por períodos superiores a 30 días, tendrán derecho a las remuneraciones y beneficios que se otorguen al personal de planta de igual grado.
+
+#### Artículo 51
+
+En caso de ser llamado al servicio por períodos inferiores a los indicados en el artículo anterior, el personal de reserva tendrá derecho a que su empleador le pague, por ese período, el total de las remuneraciones que estuviese percibiendo a la fecha de ser llamado, las que serán de su cargo, a menos que, por decreto supremo, se disponga expresamente que sean de cargo fiscal.
+
+#### Artículo 52
+
+Sin perjuicio de lo dispuesto en los artículos anteriores, el reservista llamado al servicio activo conservará, para todos los efectos legales, la propiedad del empleo público o privado que ocupare a la fecha del llamado.
+
+#### Artículo 53
+
+Los reservistas serán llamados con el último grado alcanzado en la reserva y, mientras permanezcan en servicio activo, tendrán los mismos deberes, rango y prerrogativas que las leyes y reglamentos establecen para el personal de planta de cada Institución.
+
+Si el reservista sufre un accidente o contrae una enfermedad en acto de servicio, cuyas secuelas aparecen durante el período para el que fue llamado, tendrá derecho a que éste le sea prorrogado por un lapso que permita su total recuperación o la respectiva declaración de inutilidad en su caso.
+
+Si las secuelas aparecen dentro de los ciento ochenta días siguientes de terminado el período para el cual fue llamado, el reservista será nuevamente convocado, por un lapso que permita su total recuperación o la declaración de inutilidad que proceda, si se acredita en la forma establecida en el reglamento que la secuela es consecuencia necesaria de un accidente sufrido en acto de servicio o de una enfermedad contraída en él.
+
+Si el reservista muere dentro de los ciento ochenta días siguientes de terminado el período para el cual fue llamado, su muerte producirá los mismos efectos que si hubiere ocurrido encontrándose en servicio activo si se acredita, en la forma establecida en el reglamento, que el deceso fue consecuencia necesaria de un accidente sufrido en acto de servicio o de una enfermedad contraída en él.
+
+#### Artículo 54
+
+El personal de reserva llamado al servicio activo será considerado menos antiguo que el personal de carrera regular de su mismo grado.
+
+#### Artículo 55
+
+El personal de reserva proveniente de la planta de las Instituciones, llamado al servicio activo, será considerado más antiguo en su grado que aquél llamado de otras proveniencias.
+
+#### Artículo 56
+
+Los llamados obligatorios de reservistas al servicio activo podrán hacerse hasta por el plazo de un año. Si el llamado se hubiere originado a petición del interesado, podrá hacerse por tiempo indefinido o por el lapso que determinen las necesidades institucionales.
+
+#### Artículo 57
+
+Los llamados de reservistas podrán hacerse por contingentes completos o fraccionados, por clases, por especialidades o individualmente, en conformidad con las necesidades institucionales.
+
+Los llamados por clases se harán en orden inverso a la fecha de su licenciamiento.
+
+Durante los casos de emergencia contemplados en el inciso tercero del artículo 35, el personal de reserva podrá ser llamado al servicio activo por tiempo indefindo y permanecerá en las filas mientras así lo determine el Presidente de la República.
+
+#### Artículo 58
+
+El personal de reserva llamado al servicio activo tendrá derecho, durante su permanencia en él, a ser provisto gratuitamente por el Estado de equipo militar, alojamiento, vestuario, transporte y alimentación, de acuerdo con la reglamentación institucional correspondiente.
+
+#### Artículo 59
+
+El personal de la reserva que desee ser llamado al servicio activo con fines de instrucción o a fin de cumplir requisitos para el ascenso, deberá solicitarlo a la Dirección General, por intermedio de la respectiva Dirección del Personal institucional. En tal caso, el reservista no tendrá derecho a remuneración, aun cuando sus servicios se prolonguen por períodos superiores a treinta días.
+
+El personal de la reserva que desee ser llamado al servicio activo para desempeño en las Fuerzas Armadas, deberá solicitarlo a la respectiva Direccion del Personal institucional, la que, si aprueba dicha solicitud, pondrá en conocimiento de ello a la Dirección General.
+
+## Capítulo III
+
+Ascensos en la reserva
+
+#### Artículo 60
+
+Los nombramientos y ascensos de los oficiales de reserva se efectuarán por decreto supremo, a proposición de la Dirección General y previa aprobación a que pertenece el reservista.
+
+Los ascensos del personal del cuadro permanente y gente de mar de reserva serán resueltos por la Dirección General, previa aprobación de la Institución a que pertenece el reservista.
+
+#### Artículo 61
+
+Los Oficiales subalternos de reserva podrán ascender, hasta el grado de Mayor de Ejército o grados equivalentes en la Armada y Fuerza Aérea.
+
+No obstante, los Oficiales de reserva del grado de Mayor de Ejército o grados equivalentes en la Armada y Fuerza Aérea, podrán ascender al grado inmediatamente superior, siempre que se encuentren llamados al servicio activo y cumplan los siguientes requisitos:
+
+a) Un tiempo mínimo de permanencia efectiva en el grado igual al que se exige para el ascenso a los Oficiales de Planta de su misma graduación y similar escalafón, o siete años efectivos en el grado si pertenecieren a escalafones especiales;
+
+b) Veinte años de servicios efectivos en la Institución;
+
+c) Que el ascenso sea propuesto por el Comandante en Jefe Institucional respectivo, y
+
+d) Cumplir con las demás exigencias que establezca la legislación correspondiente.
+
+#### Artículo 62
+
+Los Oficiales de las Fuerzas Armadas que hayan obtenidos su retiro con el grado de Mayor o grados equivalentes, podrán ser ascendidos , al grado superior.
+
+Los Oficiales de las Fuerzas Armadas que hayan obtenido su retiro con el grado de Tieniente Coronel o grados equivalentes, podrán, excepcionalmente, ser ascendidos al grado superior.
+
+#### Artículo 63
+
+El personal del cuadro permanente y gente de mar de reserva, de cualquier procedencia, podrá ascender hasta el grado de Suboficial.
+
+El personal indicado en el inciso anterior que haya obtenido su retiro con el grado de Suboficial, podrá, excepcionalmente, ser ascendido al grado de Suboficial Mayor.
+
+#### Artículo 64
+
+Los requisitos para los ascensos a que se refieren los artículo anteriores, serán determinados por el reglamento.
+
+Los requisitos de ascenso para los Oficiales, personal del cuadro permanente y gente de mar de la reserva llamdos al servicio activo serán determinados po la respectiva institución en el reglamento, considerando las limitaciones de grado establecidas en el presente capítulo.
+
+Estos ascensos se cursarán por la Dirección del Personal respectiva, siguiéndose el mismo procedimiento qu para el personal de planta de las Fuerzas Armadas, e informando de ello a la Dirección General.
+
+## Título Sexto
+
+De la movilización del potencial humano
+
+#### Artículo 65
+
+Para los efectos de este decreto ley, la movilización del potencial humano es el conjunto de actividades y medidas decretadas por el Presidente de la República, destinadas a poner parte o la totalidad de dicho potencial en situación de afrontar adecuadamente cualquier caso de emergencia de aquellos mencionados en el inciso tercero del artículo 35.
+
+#### Artículo 66
+
+Las personas movilizadas podrán ser llamadas por sexo, clases, profesiones o actividades afines y por el período que señale el decreto supremo de movilización.
+
+#### Artículo 67
+
+Las clases llamadas en caso de movilización integrarán las unidades y organismos que determinen las disposiciones respectivas.
+
+#### Artículo 68
+
+Las personas movilizadas para las Fuerzas Armadas pertenecerán al servicio activo.
+
+En caso de guerra externa o interna, determinadas personas que integran la reserva podrán ser movilizadas hasta con el grado de Teniente Coronel de Ejército, o al grado equivalente en la Armada y la Fuerza Aérea. Excepcionalmente, podrá otorgárseles a aquéllas el grado de Coronel de Ejército o grados equivalente, según calificación que hará, en ambos casos, el Comandante en Jefe institucional correspondiente, en la proposición de llamada.
+
+#### Artículo 69
+
+En tiempo de guerra, el Presidente de la República podrá llamar a todas las personas, sin distinción de sexo ni límite de edad, para ser empleadas en los diversos servicios que requierá el país.
+
+## Título Septimo
+
+De la penalidad y procedimiento judicial
+
+## Capítulo I
+
+De la responsabilidad penal
+
+#### Artículo 70
+
+DEROGADO
+
+#### Artículo 71
+
+DEROGADO
+
+#### Artículo 72
+
+Los que no concurrieren a las citaciones que las autoridades de reclutamiento les hicieren para los efectos de su selección, serán infractores y sufrirán la pena de inhabilitación absoluta temporal para el ejercicio de cargos y oficios públicos en su grado mínimo.
+
+#### Artículo 73
+
+Los que fueren seleccionados y no se presentaren a reconocer cuartel para cumplir con el servicio militar, se considerarán remisos y sufrirán la pena de inhabilitación absoluta temporal para el ejercicio de cargos y oficios públicos en su grado medio.
+
+Las personas de la categoría de disponibles que fueren convocadas y no se presentaren a reconocer cuartel para cumplir con el servicio militar, serán consideradas remisas y sufrirán la pena a que se refiere el inciso anterior.
+
+Las personas de la categoría de disponibles destinadas a la Defensa Civil de Chile que no se presentaren, serán sancionadas con multas de cuatro a ocho unidades tributarias mensuales.
+
+#### Artículo 73
+
+A.- El cumplimiento de las penas que se establecen en los artículos 72 y 73 no exime o excluye del cumplimiento del servicio militar obligatorio, el que para estos efectos sólo podrá efectuarse en la modalidad de conscripción ordinaria.
+
+Sin perjuicio de lo anterior, los infractores y los remisos a que se refieren el artículo 72 y los incisos primero y segundo del artículo 73, respectivamente, podrán solicitar la conmutación de la pena por la realización del servicio militar obligatorio en la modalidad de conscripción ordinaria por un período de dos años.
+
+#### Artículo 73
+
+B.- El que, con el propósito de ser eximido o excluido del servicio militar obligatorio, hiciere uso de documento o certificado falso, será sancionado en conformidad con lo dispuesto en los párrafos 4, 5 y 6 del Título IV del Libro II del Código Penal.
+
+El que emitiere el mencionado documento o certificado falso será sancionado de acuerdo con las normas penales señaladas, y si fuere militar, en conformidad con lo dispuesto en el Título X del Libro III del Código de Justicia Militar.
+
+#### Artículo 74
+
+Los reservistas que no asistieren a los períodos de instrucción o a los llamados para ejercicios de movilización, serán sancionados con el cumplimiento de las obligaciones impuestas por dichos llamados por un tiempo que fijará prudencialmente el juez de la causa, atendidas las circunstancias del caso, el que no podrá ser inferior al tiempo por el cual se hizo el llamado, sin exceder del doble. Con todo, si por las características de los llamados no pudiere aplicarse esta pena, los reservistas serán sancionados con la pena de prisión en cualquiera de sus grados.
+
+Si lo hicieren con retraso, quedarán sujetos a la acción disciplinaria correspondiente, debiendo graduarse la sanción proporcionalmente al número de días que ha durado el retraso.
+
+> **Nota.** El Art. 1° de la LEY 18742, Defensa, publicada el 11.10.1988, concedió amnistía en favor de las personas que a la fecha de su publicación, hayan cometido infracción a las disposiciones de reclutamiento de las Fuerzas Armadas.
+
+> **Nota.** NOTA 1: El Art. 1° de la LEY 19292, Interior, publicada el 11.02.1994, concedió amnistía en favor de las personas que a la fecha de su publicación, hayan cometido infracción a las disposiciones de reclutamiento de las Fuerzas Armadas.
+
+> **Nota.** NOTA 2: El Art. único de la LEY 19706, Defensa, publicada el 25.01.2001, concedió amnistía en favor de las personas que al 31 de julio de 2000, hayan cometido infracción a las disposiciones de reclutamiento de las Fuerzas Armadas.
+
+#### Artículo 75
+
+Los reservistas que, sin motivo justificado, no concurrieren al llamado cuando fueren movilizados, sufrirán la pena de presidio militar menor en cualquiera de sus grados. Este delito será considerado flagrante para el solo efecto de poner a los reservistas a disposición de la autoridad correspondiente.
+
+Si sus servicios, por sus condiciones y aptitudes, fueren considerados útiles o necesarios para el logro de la finalidad que motivó la movilización, podrán ser destinados a prestarlos sirviéndoles de abono al entero de su pena el tiempo durante el cual los hubieren cumplido.
+
+Si los servicios prestados se consideraren distinguidos, la autoridad que corresponde podrá, de oficio o a petición de parte, recomendar el indulto, según lo disponga el reglamento.
+
+#### Artículo 76
+
+Los reservistas que fingieren o se atribuyeren algun grado, título o jerarquía militar del que no están en posesión legal, serán sancionados con la pena de reclusión menor en sus grados mínimos a medio.
+
+#### Artículo 77
+
+Todo el que divulgue, propale o publique indebidamente informaciones o conocimientos recibidos durante el cumplimiento de su deber militar, que puedan perjudicar a la seguridad nacional, será sancionado con la pena de reclusión menor en cualquiera de sus grados.
+
+#### Artículo 78
+
+Las personas naturales o los representantes legales de personas jurídicas que no respetaren los derechos a que se refiere el artículo 16, sufrirán la pena de prisión en cualquiera de sus grados, sin perjuicio del derecho del afectado para recurrir al tribunal del trabajo que corresponda.
+
+Igual pena sufrirá la persona natural o el representante legal de personas naturales o jurídicas, que maliciosamente infringiere las obligaciones impuestas en el artículo 23.
+
+#### Artículo 79
+
+Los que no cumplieren cualquiera de las obligaciones establecidas en el artículo 47 serán sancionados con las siguientes penas:
+
+1.- Multa de hasta cuatro unidades tributarias mensuales para los soldados reservistas con instrucción militar, y
+
+2.- Multa de hasta seis unidades tributarias mensuales para los Oficiales y Suboficiales de Reserva.
+
+#### Artículo 80
+
+DEROGADO
+
+#### Artículo 81
+
+Los que, requeridos por segunda vez, negaren, retardaren, falsearen o impidieren la entrega, dentro del plazo, de los informes que se les solicitaren con arreglo a lo dispuesto en los artículos 4º y 30 C, serán sancionados con multa de cuatro a treinta unidades tributarias mensuales.
+
+#### Artículo 82
+
+DEROGADO
+
+#### Artículo 83
+
+Los delitos contemplados en este decreto ley, que por su naturaleza, pudieren perpetrarse en cualquier tiempo, se agravarán si se cometieren durante el estado de asamblea, pudiendo doblarse las penas pecuniarias, aumentarse en un grado las penas de inhabilitación, y hasta en dos grados las penas privativas de libertad.
+
+#### Artículo 84
+
+DEROGADO
+
+#### Artículo 85
+
+En los procesos criminales generados por infracción a lo dispuesto en el artículo 77 de este decreto ley, podrá constituir, a juicio del tribunal, causal de exencion o circunstancia atenuante de responsabilidad penal, el hecho de que el infractor pos su insuficiente ilustración o por alguna otra causa debidamente acreditada, permita presumir que ha tenido conocimiento imperfecto del alcance de las normas ingringidas.
+
+Tratándose de procesos criminales por infracción a otras disposiciones de este decreto ley, las circunstancias antes señaladas serán constitutivas de la atenuante de responsabilidad penal.
+
+El tribunal apreciará en conciencia los hechos constitutivos de la causal eximente o atenuante, en su caso.
+
+#### Artículo 86
+
+DEROGADO
+
+## Capítulo II
+
+De la Competencia
+
+#### Artículo 87
+
+Todas las causas por delitos contemplados en este decreto ley serán de competencia de la justicia ordinaria, con excepción de los procesos que se instruyan con ocasión del delito previsto en el artículo 75, cuyo conocimiento corresponderá a la justicia militar.
+
+#### Artículo 88
+
+DEROGADO
+
+#### Artículo 89
+
+DEROGADO
+
+## Título Octavo
+
+De los derechos de reclutamiento
+
+#### Artículo 90
+
+Las solicitudes relacionadas con este decreto ley estarán afectas a derechos de reclutamiento, cuyas tasas no podrán exceder de un treinta por ciento de una unidad tributaria mensual.
+
+En los meses de Enero y Julio de cada año se establecerán, dentro del límite señalado, las tasas de dichos derechos, las que serán fijadas por decreto supremo y regirán desde su publicación en el Diario Oficial.
+
+El total del rendimiento de los derechos y multas establecidos en el presente decreto ley constituirá ingresos propios de la Dirección General de Movilización Nacional, los cuales percibirán directamente y adminstrará sin intervención del Servicio de Tesorería.
+
+#### Artículo 91
+
+La Dirección General podrá eximir del pago de todo o parte de los derechos que establece el artículo 90, en casos calificados.
+
+#### Artículo 92
+
+El pago de las multas que establece el presente decreto ley se hará con derechos de reclutamiento.
+
+#### Artículo 93
+
+La Ley de Presupuesto contemplará anualmente los fondos necesarios para el cumplimiento del inciso 1° del artículo 47.
+
+#### Artículo 94
+
+Derógase la ley N° 11.170 y toda otra disposición legal o reglamentaria contraria al presente decreto ley.
+
+Derógase, asimismo, el artículo 29 de la ley N° 16.466, exclusivamente en lo referente a materias de la Ley de Reclutamiento.
+
+Artículos transitorios (Arts. 1 - 3)
+
+## Artículos transitorios
+
+#### Artículo 1°
+
+Mientras no se dicte el reglamento del presente decreto ley, será aplicable el actual reglamento complementario de la ley N° 11.170 en todo lo que sea compatible con este cuerpo legal.
+
+#### Artículo 2°
+
+Lo dispuesto en el artículo 47 sólo entrará a regir después de que se dicte el reglamento.
+
+#### Artículo 3°
+
+DEROGADO.-
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército Armada, Fuerza Aérea, Carabineros e Investigaciones y en la recopilación oficial de dicha contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente-T. MERINO CASTRO Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aerea.- César Benavides Escobar, General de División, Ministro de Defensa Nacional.
+
+Lo que se transcribe para su conocimiento.- Julio Bravo Valdés, Coronel, Subsecretario de Guerra.
