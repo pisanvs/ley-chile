@@ -1,0 +1,5 @@
+Por decreto MOP Nº664, de 5 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº24, para la obra "Proyecto Sistema Américo Vespucio Sur. Ruta 78 - Av. Grecia. Sector 4: Acceso Sur a Santiago -
+
+Av. Vicuña Mackenna", Región Metropolitana, que figura a nombre de Castillo Olivares Mario Orlando, rol de avalúo 441-3, comuna de La Florida, superficie 352 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Itsang Lu Chen y Joaquín Guillermo Enrique Eyzaguirre Edwards, fijó con fecha 3 de diciembre de 2001, el valor provisional de las indemnización en la cantidad de $53.356.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
