@@ -1,0 +1,37 @@
+Reglamentos de comercio, aduanas, resguardos i arancel de derechos
+
+Santiago, Agosto 3 de 1822.
+
+Debiendo revisarse i reformarse lo más pronto posible los nuevos reglamentos de comercio, aduanas, resguardos i arancel de derechos, que han de regir en el Estado, desde el momento de su publicacion; i requiriéndose, para ponerlos en planta, allanar primero los caminos por donde han de conducirse, el Gobierno Supremo, de acuerdo con la Honorable Convencion, ha acordado i decreta lo siguiente:
+
+#### Artículo 1
+
+° Los nuevos reglamentos de comercio, aduanas, resguardos i arancel de derechos se sancionarán i publicarán para el 1.° de Octubre del presente año, i desde el mismo dia tendrán fuerza i efecto en todo el Estado.
+
+2.° Siendo Valparaiso el puerto principal del comercio extranjero, su organizacion recibirá una nueva forma, lo mismo la administracion de su Aduana, la que abrirá los libros i cuentas nuevas desde el mismo dia 1.° de Octubre próximo.
+
+3.° Los almacenes francos, que por decreto de 30 de Setiembre de 1820, publicado en la estraordinaria número 10, se erijieron en Valparaiso, se considerarán desde ahora, trasplantados a la misma bahía, i derogados de consiguiente todos los efectos i declaraciones de aquel decreto.
+
+4.° Los comerciantes, que desde esta fecha quieran desembarcar frutos o efectos estranjeros, lo harán en intelijencia que en el acto mismo de ponerlos en playa, se considerarán como internados ya en el pais, i debiendo todos sus respectivos derechos. De consiguiente no se permitirá en lo sucesivo desembarcar un solo bulto, sin correr primero la correspondiente póliza para despacharlo; i en la misma playa, a medida que se vayan desembarcando las especies, las reconocerá el vista i hará el correspondiente avalúo, llevándoselas desde allí mismo el comerciante a donde guste, sin depositarlas en almacenes.
+
+5.° Tocándose la imperiosa necesidad de tomar las medidas de los dos anteriores artículos, i queriendo por otra parte no gravar de modo alguno al comercio, se permite que hasta la promulgacion de los nuevos reglamentos, todos los buques nacionales o estrajeros conserven a su bordo el todo o la parte de la carga que les acomede, i que puedan hacer unos a otros todos los trasbordos que gusten, como, cuando i cuantas veces quieran, sin pagar por una misma especie, mas que por una vez el derecho de tránsito del dos por ciento, i corriendo siempre las correspondientes pólizas en la Aduana.
+
+6.° Los frutos, jéneros o efectos que actualmente están depositados en tránsito en los almacenes de la Aduana de Valparaiso o en los de particulares; deben para el mismo 1.° de Octubre próximo estar internados, esportados o reembarcados en cualquiera buque. La misma providencia obrará respecto a los que no están manifestados en tránsito, que dentro del mismo término deberán haberse despachado en aquella Aduana o remitirse a esta jeneral. De modo que para dicho dia primero 1.° de Octubre deben la Aduana i Alcaldía de Valparaiso estar canceladas con todos i limpios completamente sus almacenes. Los jefes de la Aduana i el alcaide prevendrán a los interesados principien a hacer los despachos sin demora.
+
+7.° El Gobierno se encarga de tomar las mas enérjicas providencias para que se lleve a debido efecto la interesante medida del artículo anterior, sin oir reclamo ni escusa alguna.
+
+8.° Dos visitadores de parte del Gobierno marcharán inmediatamente a Valparaiso. Su importante objeto será la inspeccion de todos los departamentos de aquella administracion, visitarán, examinarán i reconocerán las especies que haya en los almacenes de la Aduana, o en los de particulares, como depositados en tránsito. En consorcio con el vista presenciarán todos los despachos que se hagan desde la publicacion de este decreto hasta el 1.° de Octubre. Intervendrán en los avalúos i en el mas prolijo reconocimiento de las especies que se internen, i aun mucho mas de las que se reembarquen, i tanto los visitadores como el vista, deben estar presentes en los pesos o medidas que de los frutos tome la Alcaidía. Todo despacho que se haga en aquella administracion, i toda póliza debe estar firmada por uno, a lo ménos, de los visitadores con la nota Intervine.
+
+9.° Todos los frutos que, estando en tránsito, puedan reembarcarse en cumplimiento del artículo 6.° deben a mas de ser reconocidos, hacerse la correspondiente regularizacion de su peso o medida en el órden que previene el artículo anterior.
+
+10. Los comerciantes que teniendo efectos en la Aduana de Valparaiso, quieran remitirlos a la de esta capital para despacharlos i pagar aquí sus derechos, podrán hacerlo dentro del mismo término (con arreglo al artículo 6.°). En intelijencia que desde el 1.° de Octubre próximo todos los despachos deberán hacerse en la Aduana principal de Valparaiso, pagando allí todos sus derechos de internacion, conforme al orden i arancel que establezcan los nuevos reglamentos, i que desde el mismo dia no se permitirá ni se dará guia para que camine un solo bulto al interior, sin que acredite haberse despachado después del 1.° de Octubre, i pagando todos sus derechos.
+
+11. Los jeneros o frutos que, conforme al artículo anterior, puedan remitirse a esta Aduana jeneral, deben ser prolijamente reconocidos por el vista i visitadores, anotando en la póliza el Intervine. Examinarán si el contenido de cada cajon, su clase i calidad corresponden con lo que recen las pólizas que cuidarán los jefes de aduanas, se presenten circunstanciadas, sin borrones, guarismos ni abreviaturas; si lo que se remita fuesen frutos, tomará i anunciará i anotará la Alcaidía en las pólizas su peso o medida, a presencia del vista i visitadores como previene el artículo nueve.
+
+12. Para evitar reclamos i tropiezos, se concede al comercio el que pueda remitir libremente hasta el 1.° de Octubre próximo desde Valparaiso a esta capital, todos los efectos o frutos que estén allí internados, i considerare invendibles, sin pagar derecho alguno, i sin mas requisito que la correspondiente guia; pero no gozarán de esta franquicias sino hasta dicho dia 1.° de Octubre. Los comerciantes deben arreglar sus despachos de modo, i en la suposicion, de que ni los mismos efectos que puedan internar el 30 de Setiembre, sino son despachados a esta capital en el mismo dia, no podrán ya serlo en lo sucesivo.
+
+13. En vista de lo que se dispone en el artículo 7.°, se prevendrá al señor Gobernador de Valparaiso, que para el dia 20 de Setiembre próximo tenga prontos i listos uno o mas pontones de cuenta del Gobierno, en los que en el mismo dia se principiará a reembarcar toda carga sin distincion que pueda aun haber en los almacenes de aquella Aduana, o depositada en los de particulares sin despachar. Todas las lanchas i cargadores del puerto se ocuparán en este objeto, sin intermision hasta que se concluya; i mientras dure, los resguardos no permitirán embarcar ni desembarcar carga alguna de particulares.
+
+A los dueños del efecto se les cargarán los costos i ademas cuatro reales diarios de almacenaje por cada bulto, que correrán desde el mismo dia 1.° de Octubre hasta que los interesados los internen o trasborden a otros buques.
+
+Tómese razon, publíquese, imprímase i circúlese.- O'Higgins.- Dr. Rodríguez.
