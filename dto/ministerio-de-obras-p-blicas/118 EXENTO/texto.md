@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 118 de fecha 25 de febrero del 2002, se expropió el lote de terreno Nº 102, superficie 278 m2, Rol de Avalúo Nº 206-164, comuna de Coelemu, para la obra "Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000" y se acordó el valor de indemnización con su propietario Enrique Montecinos González, ascendente a la cantidad de $553.910.
+
+- Fiscal del Ministerio de Obras Públicas.
