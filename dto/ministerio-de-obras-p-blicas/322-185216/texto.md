@@ -1,0 +1,3 @@
+Por decreto MOP Nº322, de fecha 28 de febrero del 2001, se expropiaron los lotes de terreno Nºs. 13, 14, 15, 16, 17, 18, superficies 3.585, 4.073, 12.027, 13.747, 5.647 y 2.515 m², respectivamente, rol de avalúo 206-11, comuna de Lebu, para la obra "Camino Ruta P-30, Sector Lebu - Millonhue, Km. 0,00000 al Km. 9,47777", y se acordó el valor de indemnización con su propietario Ema Neira Villouta, ascendente a la cantidad de $6.265.575.-.
+
+Fiscal del Ministerio de Obras Públicas.
