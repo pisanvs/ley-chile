@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.567, de 22 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Servicios Sanitarios del Bío Bío S.A., el lote de terreno Nº1, para la obra Impulsión Estanque Alto Lebu, que figura a nombre de Bosques Arauco S.A., rol de avalúo 00228-00003, comuna de Lebu, VIII Región, superficie 2.731,64 M2. La Comisión de Peritos, fijó con fecha 28 de julio de 2001, el valor provisional de la indemnización en la cantidad de $1.365.820, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal de Ministerio de Obras Públicas.
