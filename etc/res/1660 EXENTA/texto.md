@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1660 de 12 de Diciembre de 1985 que modificó la Resolución Exenta No. 339 de 27 de Marzo de 1985, publicada en el DO de fecha 01 de Abril de 1985. Conforme Art. 5° Transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios: "Hijuela Primera o San Pedro", "Hijuela Segunda o María Luisa compuesta de los Retazos Sur y Norte y Parte de la Hacienda Cerrillos Pobres", "Parte de la Estancia del Fundo Cerrillos Pobres" de la comuna de Ovalle, IV Región; y derechos de aprovechamiento de Aguas que corresponden a las parcelas No. 1 a la 26 Sitios No. 1 al 7 y Reserva Cora No. 2 y 3 del Proyecto de Parcelación "El Progreso" formado por predios señalados. Los derechos de agua se extraen del Embalse de Recoleta.- Publicación hecha conforme Art. 13 Ley No.
+
+18.377.-
+
+Director Ejecutivo.
