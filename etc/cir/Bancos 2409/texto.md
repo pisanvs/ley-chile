@@ -2012,13 +2012,7 @@ El artículo 13 de la Ley sobre Cuentas Corrientes Bancarias y Cheques manifiest
 
 Por estar establecido expresamente dicho requisito en el mencionado artículo 13,resulta inaplicable, a juicio de esta Superintendencia, lo dispuesto en el artículo 69 de la Ley N° 18.092, para las letras de cambio. Vale decir, si en el cheque se mencionan dos cantidades diferentes, el librado no puede presumir que la cantidad escrita con letras es la que corresponde pagar, ya que el documento adolece de un vicio formal que impide su pago.
 
-1.4. Firma del librador.
-
-1.4.1. Firma por mandato o por representación legal.
-
-Cuando el girador actúe por mandato o por representación legal del titular de la cuenta respectiva, deberá colocar la expresión "por poder de .. XX .." o "p.p... XX ..". En caso de personas jurídicas sera suficiente estampar la razón social o el nombre del establecimiento en su caso.
-
-1.4.2- Giro de cheques mediante facsímiles.
+1.4. 1.4. Giro de cheques mediante facsímiles.
 
 Los dos últimos incisos del artículo 13 de la Ley sobre Cuentas Corrientes Bancarias y Cheques expresan lo siguiente.
 
