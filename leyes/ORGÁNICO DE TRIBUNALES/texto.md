@@ -2252,7 +2252,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.198 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.136 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.488 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.352 pesos.
 
 #### Artículo 199
 
@@ -5056,7 +5056,7 @@ Para poder ser abogado se requiere:
 
 La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante, y
 
-5°) Haber cumplido satisfactoriamente una práctica profesional por seis meses en las Corporaciones de Asistencia Judicial a que se refiere la ley N° 17.995, circunstancia que deberá acreditarse por el Director General de la respectiva Corporación.
+5°) Haber cumplido satisfactoriamente una práctica profesional por seis meses en las Corporaciones de Asistencia Judicial a que se refiere la ley N° 17.995, circunstancia que deberá acreditarse por el Director General de la respectiva Corporación. Las Corporaciones de Asistencia Judicial, para este efecto, podrán celebrar convenios con el Ministerio Público y con la Defensoría Penal Pública.
 
 Un reglamento determinará los requisitos, forma y condiciones que deban cumplirse para que dicha práctica sea aprobada.
 
@@ -5584,7 +5584,7 @@ Si el litigante pobre obtuviere en el juicio, será obligado a destinar una déc
 
 #### Artículo 595
 
-Corresponde a los jueces de letras designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles, otro que defienda las causas del trabajo y un tercero que defienda las causas criminales de las personas que hubieren obtenido o debieran gozar del mencionado privilegio. Con todo, cuando las necesidades lo requieran, y el número de abogados en ejercicio lo permita, la Corte de Apelaciones respectiva podrá disponer que los jueces de letras designen dos o más abogados en cada turno, estableciendo la forma en que se deban distribuir las causas entre los abogados designados.
+Corresponde a los jueces de letras designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles y otro que defienda las causas del trabajo de las personas que hubieren obtenido o debieran gozar del mencionado privilegio. Con todo, cuando las necesidades lo requieran, y el número de abogados en ejercicio lo permita, la Corte de Apelaciones respectiva podrá disponer que los jueces de letras designen dos o más abogados en cada turno, estableciendo la forma en que se deban distribuir las causas entre los abogados designados.
 
 En la misma forma y para los mismos fines harán los jueces de letras a quienes se refiere el inciso precedente, las correspondientes designaciones de procuradores y receptores.
 
@@ -5596,9 +5596,7 @@ Las designaciones generales de abogados, procuradores y receptores de turno debe
 
 #### Artículo 596
 
-Los procesados que no designaren procurador y abogado en el acto de notificárseles el auto de procesamiento, serán representados y defendidos por los procuradores del número y abogados que estuvieren de tumo. Si las defensas de dos o más procesados de un mismo proceso fueren incompatibles entre sí, el que el juez designare será representado y defendido por el procurador y abogado de turno y los demás lo serán por los procuradores y abogados que el juez respectivamente les señalare, salvo que ellos hubieren nombrado otro abogado o procurador.
-
-Los procuradores y abogados referidos serán remunerados por los procesados si no gozaren del privilegio de pobreza.
+Derogado.
 
 #### Artículo 597
 
