@@ -40,7 +40,7 @@ De los socios o miembros.
 
 #### Artículo 4°
 
-Podrán ser miembros de la Federación solamente las Asociaciones Regionales ......... con personalidad jurídica, formadas por las Asociaciones ......... que teniendo personalidad jurídica existen en cada Región.
+Sólo podrán ser miembros de la Federación, las asociaciones o ligas de clubes deportivos, cuyo objeto sea la práctica del deporte federado y que cuenten con personalidad jurídica vigente.
 
 #### Artículo 5°
 
@@ -120,9 +120,9 @@ Del Consejo Superior
 
 #### Artículo 14°
 
-El Consejo Superior es la autoridad máxima de la Federación, representa el Conjunto de sus miembros y estará constituido por los Presidentes de cada una de las Asociaciones Regionales que forman la Federación ........ o por delegados titulares de éstos o delegados suplentes, en caso de ausencia o impedimento de aquéllos.
+El Consejo Superior es la autoridad máxima de la Federación, representa el Conjunto de sus miembros y estará constituido por los Presidentes de cada una de las Asociaciones que forman la Federación ........ o por delegados titulares de éstos o delegados suplentes, en caso de ausencia o impedimento de aquéllos.
 
-La asistencia de un Presidente de Asociación Regional a reuniones del Consejo Superior significa de pleno derecho la asunción de la representación de ésta, sin perjuicio de la asistencia de los respectivos delegados, los que en tal caso sólo tendrán derecho a voz. El Delegado correspondiente tendrá derecho a voz y voto en caso de ausencia del Presidente o del miembro que representa, pero el delegado suplente sólo tendrá derecho a voz cuando asista conjuntamente con el delegado titular.
+La asistencia de un Presidente de Asociación a reuniones del Consejo Superior significa de pleno derecho la asunción de la representación de ésta, sin perjuicio de la asistencia de los respectivos delegados, los que en tal caso sólo tendrán derecho a voz. El Delegado correspondiente tendrá derecho a voz y voto en caso de ausencia del Presidente o del miembro que representa, pero el delegado suplente sólo tendrá derecho a voz cuando asista conjuntamente con el delegado titular.
 
 #### Artículo 15°
 
@@ -182,7 +182,7 @@ El Directorio es el organismo ejecutivo y administrativo de la Federación y eje
 
 #### Artículo 24°
 
-El Directorio se compondrá de un Presidente, un Vice-Presidente, un Secretario, un Tesorero y ...... Directores. Durarán dos años en sus cargos, pudiendo ser reelegidos y se designarán por el Consejo Superior en la reunión ordinaria correspondiente al periodo en que deban desempeñar sus funciones. La elección se efectuará sufragando cada asociación miembro por una sola persona, proclamándose elegidos a los que en una misma y única votación resulten con el mayor número de votos, hasta completar el número de Directores que deban elegirse. Si no se alcanzare la mayoría absoluta de votos o en caso de empate, deberá repetirse la votación entre los que obtuvieren las dos más altas mayorías relativas o estuvieren empatados, hasta obtenerse por un candidato la mayoría absoluta. Si repetida la votación por segunda vez se produjere empate, se resolverá por sorteo entre los que obtuvieren igual número de votos. La elección, total o parcial, del Directorio, deberá realizarse en sesión a la que concurran por lo menos dos tercios de las Asociaciones Regionales. Si no se obtuviere ese quórum, deberá citarse para dentro del quinto día, bastando para su realización la concurrencia de la mitad más uno de los miembros de la Federación. Sólo podrán postular a la elección para integrar total o parcialmente el Directorio las personas que, a la fecha de la elección, tengan la calidad de integrantes del Directorio de una Asociación Regional de...... y que no hayan sido condenados por crimen o simple delito en los quince años anteriores a la fecha en que se pretenda designarlos.
+El Directorio se compondrá de un Presidente, un Vice-Presidente, un Secretario, un Tesorero y ...... Directores. Durarán dos años en sus cargos, pudiendo ser reelegidos y se designarán por el Consejo Superior en la reunión ordinaria correspondiente al periodo en que deban desempeñar sus funciones. La elección se efectuará sufragando cada asociación miembro por una sola persona, proclamándose elegidos a los que en una misma y única votación resulten con el mayor número de votos, hasta completar el número de Directores que deban elegirse. Si no se alcanzare la mayoría absoluta de votos o en caso de empate, deberá repetirse la votación entre los que obtuvieren las dos más altas mayorías relativas o estuvieren empatados, hasta obtenerse por un candidato la mayoría absoluta. Si repetida la votación por segunda vez se produjere empate, se resolverá por sorteo entre los que obtuvieren igual número de votos. La elección, total o parcial, del Directorio, deberá realizarse en sesión a la que concurran por lo menos dos tercios de las Asociaciones miembros. Si no se obtuviere ese quórum, deberá citarse para dentro del quinto día, bastando para su realización la concurrencia de la mitad más uno de los miembros de la Federación. Sólo podrán postular a la elección para integrar total o parcialmente el Directorio las personas que, a la fecha de la elección, tengan la calidad de integrantes del Directorio de una Asociación miembro y que no hayan sido condenados por crimen o simple delito en los quince años anteriores a la fecha en que se pretenda designarlos.
 
 #### Artículo 25°
 
