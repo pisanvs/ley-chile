@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.274 de 24 de agosto de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del DFL. MOP. No. 850 de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No. 5, para la obra Camino Santiago-Colina-Los Andes Sector Enlace Chacabuco, Km.
+
+41.042,20 al km. 43.000,00, que figura a nombre de Soc. Agrícola La Curena Ltda., rol de avalúo 186-9, comuna de Colina, superficie 843,3 m2. La Comisión de Peritos integrada por los señores María Angélica Fernández Osses, Eduardo Andrés Cárdenas Pérez y Luis Herman González, fijó con fecha 6 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 1.950.724.- para el lote No. 5.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
