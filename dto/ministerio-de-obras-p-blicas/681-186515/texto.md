@@ -1,0 +1,3 @@
+Por decreto MOP Nº 681, de 30 de abril de 2001, se expropió el lote de terreno Nº 674, superficie 451 m², rol de avalúo en trámite, comuna de Paine, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Alberto Lizana Pardo, ascendente a la cantidad de $4.531.400.-
+
+Fiscal del Ministerio de Obras Públicas.
