@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.326, de 31 de julio del 2000, se expropió el lote de terreno Nº3, superficie 516 m2., rol de avalúo 154-75, comuna de Casablanca, para la obra ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar'', Quinta Región y se acordó el valor de indemnización con su propietario Alberto Santibáñez Vera, ascendente a la cantidad de $1.633.473.-
+
+Fiscal del Ministerio de Obras Públicas.
