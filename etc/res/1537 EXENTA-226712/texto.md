@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.537, de 4 de junio de 2004 de esta Subsecretaría, autorízase a MARIA ISABEL CORTES CORTES para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Las Industrias s/n, Barrio Industrial Norte, Caldera, III Región, donde podrá procesar, en las líneas de elaboración de Cocido, Fresco-Enfriado, Fresco-Refrigerado, Congelado, Seco Salado, Ahumado, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 4 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
