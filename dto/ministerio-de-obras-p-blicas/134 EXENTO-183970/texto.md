@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 134, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 4, superficie 600 m2, rol de avalúo 206-4, comuna de Cobquecura, para la obra "Camino Cobquecura - Colmuyao - Mela, Sector Puente Nogueche, Km. 0,00000 a Km. 0,20800" y se acordó el valor de indemnización con su propietario Carlos Mercedes Placencia Placencia, ascendente a la cantidad de $522.240.-
+
+Fiscal del Ministerio de Obras Públicas.
