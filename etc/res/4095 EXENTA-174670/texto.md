@@ -1,0 +1,25 @@
+DISPONE CAMBIO DE SUJETO DE DERECHO DEL IVA EN VENTAS DE PRODUCTOS SILVESTRES
+
+Resolución Nº 4.095 Ex. de fecha 25.08.2000, que dispone cambio de sujeto de derecho del IVA en las ventas de productos silvestres, a contar del 1º de septiembre del año 2000, con vigencia indefinida.
+
+Para efectos de la presente resolución se entenderán por productos silvestres la rosa mosqueta, la mora, los hongos, frutos de espino, hojas de boldo, tilo, manzanilla, llantén, toronjil, cedrón, hierbas pectorales, romero, hojas y corteza de quillay, hierbas de hipérico y cera de abeja.
+
+Se ha dispuesto el cambio total del sujeto de derecho del IVA al adquirente, en las ventas de productos silvestres, ya sean deshidratados, congelados o en estado natural, que realicen vendedores a exportadores. El mismo cambio de sujeto de derecho del IVA indicado, afectará a aquellos compradores de productos silvestres, cuya gestión de acopio y/o elaboración y/o venta final del producto se realice dentro del territorio nacional, que declaren en Primera Categoría la renta efectiva en base a contabilidad completa y que hayan efectuado o efectúen compras anuales de productos silvestres durante el año 1997 o posteriores por $50.000.000.- o más o posean un capital propio inicial en el año 1997 o posteriores igual o superior a $50.000.000. Asimismo, este cambio de sujeto afectará a los contribuyentes señalados, que hayan iniciado o inicien actividades a contar del 01.01.99 con un capital propio inicial igual o superior a
+
+$50.000.000.- o que durante un año comercial hubieren completado o completen compras de productos silvestres por $50.000.000.- o más. También afectará este cambio de sujeto al adquirente que se haya excepcionado de acuerdo a lo dispuesto en el Nº 9 de esta resolución. De igual modo, deberán retener el IVA, por las compras de productos silvestres que efectúen, las empresas que tengan como dueño, socio, comunero o accionista de sociedad anónima cerrada a un adquirente obligado a retener el tributo. Sin perjuicio de lo anterior procederá también la retención total del tributo cuando opere lo dispuesto en la Res. Nº Ex. 1.496 del 31.12.76.
+
+Las ventas de productos silvestres que se efectúen entre los adquirentes indicados en los párrafos anteriores, no quedan afectas al cambio de sujeto de derecho del Impuesto al Valor Agregado.
+
+Como consecuencia del cambio total del sujeto del impuesto, los compradores de productos silvestres señalados anteriormente deberán emitir ''facturas de compra'' y recargar en ellas un 18% de IVA a retener, que deberá declarar y pagar el comprador como impuesto de retención, no teniendo el vendedor obligación de emitir factura por dicha venta. En la factura que emita el comprador, deberá dejar constancia expresa que ha retenido el 18% del IVA sobre el total de la compra.
+
+Los vendedores de productos silvestres a quienes se les retenga totalmente el IVA en virtud de esta resolución, tendrán derecho a recuperar el respectivo crédito fiscal, al igual que el remanente que se origine, imputándolo directamente a otros débitos fiscales que genere en el período sin perjuicio de lo dispuesto en el Art. 27 bis del D.L. 825, de 1974. Si efectuadas las imputaciones contempladas en el párrafo anterior, subsistieren créditos fiscales o remanentes que no hayan podido ser imputados por efectos de no poseer débitos fiscales suficientes, el contribuyente podrá solicitar su devolución, presentando una solicitud ante el Servicio de Impuestos Internos.
+
+Los adquirentes de productos silvestres que a la fecha de la publicación cumplan los requisitos exigidos para ser agente retenedor, deberán presentar por escrito la solicitud de agente retenedor dentro del plazo de 30 días hábiles a contar de la fecha de publicación de esta resolución en el Diario Oficial o desde la fecha en que cumplan requisitos para tener la calidad de agentes retenedores de los productos silvestres.
+
+En todo caso, el Director Regional podrá otorgar la calidad de agente retenedor, a aquellos contribuyentes que cumpliendo con los requisitos y parámetros, no informen de este hecho al Servicio dentro de los plazos establecidos para este efecto. El certificado que otorga la calidad de agente retenedor, será publicado en el Diario Oficial, por cuenta del Servicio de Impuestos Internos y regirá a contar de la fecha de su publicación.
+
+El extracto de la resolución que conceda la excepción o el certificado que otorga la calidad de retenedor, deberán publicarse en el Diario Oficial por cuenta del peticionario, dentro de los quince días corridos siguientes de ser emitidos, y entrarán en vigencia a contar del día 1º del mes siguiente al de dicha publicación. Si el contribuyente no publicare en el plazo establecido, el Servicio lo hará a través de un listado, adquiriendo la calidad de agente retenedor a partir de la fecha de su publicación.
+
+El texto íntegro de esta resolución se encuentra incluido en la página Web del Servicio en Internet, cuya dirección es http://www.sii.cl y, además se publicará en la edición del Boletín del Servicio del mes de agosto de 2000.
+
+Javier Etcheberry Celhay, Director.
