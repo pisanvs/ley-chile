@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 316 de 29 de noviembre de 1991 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. No. 294, de 1984, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote No. 3, para la obra Camino Rengo-Malloa, Ruta H-66-G, sector Bifurcación Acceso Malloa y sector Panquehue Malloa, Comuna de Malloa, que figura a nombre de don Enrique Lewitt Mysior, rol de avalúo 119-011, superficie 443 m2. deslindes: Norte y Oriente, con resto del predio afectado con la expropiación y Sur y Poniente, con camino público. La Comisión de Peritos compuesta por los señores Eduardo Schonhaut Guendelman, Florencio Carter Bertolotto y Patricio Estrada Uribe, fijó con fecha 25 de abril de 1991, el valor provisional de la indemnización en la suma de $ 225.050.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto Ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
+
+(1°)
