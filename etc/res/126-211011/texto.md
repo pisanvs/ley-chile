@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD ANCORA LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 126, de 14 de Abril de 1981, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza bajo las condiciones que en ella se establecen a la Sociedad Ancora Ltda., domiciliada en Antofagasta para instalar y opera un cultivo de algas Gracilarias sp. , en el sector denominado Playa Blanca, Bahía de Mejillones. Las actividades que el interesado podrá realizar en dicho establecimiento se refieren sólo a alga Gracilaria y consistirán exclusivamente en labores de reconocimiento y limpieza de fondo de mar, plantación de algas, control y cosecha de la pradera artificial y secado y limpieza de la especie señalada. Asimismo se autoriza a la interesada para extraer 20 toneladas de alga desde la pradera natural ubicada en Bahía Mejillones, por el plazo de 30 días, contados desde la fecha de publicación en el Diario Oficial de este instrumento.
+
+Roberto Verdugo Gormaz, Subsecretario de Pesca.
