@@ -1,0 +1,5 @@
+Por resolución Nº 956, de 16 de mayo de 2002 de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 11 de 1980, Nº 228 de 1981, Nº 403 de 1983 y Nº 709 de 1985, todas de esta Subsecretaría, sólo en cuanto autorizan a COMPAÑIA PESQUERA CAMANCHACA S.A., para operar la nave "Barlovento", ello en virtud de la dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y del memorándum de la División de Desarrollo Pesquero de esta Subsecretaría, citado en Visto.
+
+Asimimo, declárase la caducidad de la resolución Nº 1.360, de 1992, de esta Subsecretaría, que autorizó a Compañía Pesquera Camanchaca S.A., antes individualizada, para operar la nave "Barlovento", ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y del memorándum de la División de Desarrollo Pesquero de esta Subsecretaría, citado en Visto.
+
+Valparaíso, 16 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
