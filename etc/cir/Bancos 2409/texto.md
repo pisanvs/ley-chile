@@ -2444,7 +2444,7 @@ Si, por negligencia o descuido de alguno de sus funcionarios, el banco paga un c
 
 4.4. Aviso de cargo.
 
-Cada vez que se realiza un cargo a una cuenta corriente por cualquier causa distinta del pago de cheques, transferencia electrónica de fondos, incluido retiro a través de cajeros automáticos y su respectivo impuesto, o del pago de servicios previamente pactados con el titular, el banco deberá despachar al cliente, en el mismo día en que se debite la cuenta, un aviso dándole a conocer el origen y monto del cargo efectuado.
+Cada vez que se realiza un cargo a una cuenta corriente por cualquier causa distinta del pago de cheques, transferencia electrónica de fondos, incluido retiro a través de cajeros automáticos y su respectivo impuesto, o del pago de servicios previamente pactados con el titular, el banco deberá despachar al cliente, en el mismo día en que se debite la cuenta, un aviso dándole a conocer el origen y monto del cargo efectuado. Dicho aviso se enviará en papel o por correo electrónico, a elección del cuentacorrentista.
 
 ### 5. Cobro de comisiones a titulares de cuentas corrientes
 
@@ -2458,7 +2458,7 @@ b) El plan de cobro de comisiones que los bancos establezcan, no podrá hacer di
 
 5.2.- Aviso a los cuentacorrentistas.
 
-El sistema de cobro y cálculo de comisiones que los bancos establezcan, así como las modificaciones que se hagan a dicho sistema, deberá ser comunicado por escrito a cada uno de los titulares de cuentas corrientes que puedan resultar afectados, por lo menos quince días antes de que comience a operar. Sin embargo, se podrá prescindir de ese aviso previo, cuando se trate de modificaciones que signifiquen la disminución o eliminación de las comisiones vigentes.
+El sistema de cobro y cálculo de comisiones que los bancos establezcan, así como las modificaciones que se hagan a dicho sistema, deberá ser comunicado por escrito a cada uno de los titulares de cuentas corrientes que puedan resultar afectados, por lo menos quince días antes de que comience a operar. La comunicación podrá enviarse en papel o por correo electrónico, según lo prefiera el cuentacorrentista. Sin embargo, se podrá prescindir de ese aviso previo, cuando se trate de modificaciones que signifiquen la disminución o eliminación de las comisiones vigentes.
 
 6.- Pago de intereses en cuenta corriente.
 
@@ -2474,7 +2474,7 @@ La estipulación del pago de intereses deberá constar en el contrato de cuentas
 
 La tasa de interés que se ofrezca pagar deberá expresarse en términos anuales (base 360 días) y se aplicará sobre los saldos disponibles en cada período mensual, debiendo abonarse los intereses correspondientes al inicio del mes siguiente a aquel en que fueron devengados, con valor al día 1° de ese mes.
 
-Las modificaciones a la tasa de interés y su aplicación, se regirán por lo dispuesto en el Capítulo III.G.1 del Compendio de Normas Financieras del Banco Central de Chile. En todo caso, los bancos deberán avisar a los respectivos cuentacorrentistas por carta o mediante anuncios destacados que colocarán en sus oficinas, dentro de los lugares en que habitualmente se atiende a esos clientes, los cambios de la tasa vigente. Ese aviso deberá darse con a lo menos cinco días de anticipación a la fecha en que comience la aplicación de la nueva tasa, salvo que se trate de un aumento de la tasa de interés pagada, caso en que podrá omitirse ese plazo.
+Las modificaciones a la tasa de interés y su aplicación, se regirán por lo dispuesto en el Capítulo III.G.1 del Compendio de Normas Financieras del Banco Central de Chile. En todo caso, cuando los bancos disminuyan la tasa de interés, deberán avisarla a los respectivos cuentacorrentistas a lo menos con cinco días de anticipación a la fecha en que comience la aplicación de la nueva tasa. Ese aviso se dará por carta o por correo electrónico, o bien mediante anuncios destacados que colocarán dentro de los lugares en que habitualmente se atiende a esos clientes.
 
 6.3.- Identificación de las cuentas que percibirán intereses.
 
@@ -2482,7 +2482,7 @@ Las instituciones bancarias que resuelvan pagar intereses a sus clientes sobre l
 
 ### 7. Entrega de estados de movimiento y saldos de cuentas corrientes
 
-Los bancos pueden convenir libremente con sus comitentes la entrega periódica de estados de cuenta corriente con el movimiento de ellas.
+Los bancos pueden convenir libremente con sus comitentes la entrega periódica de estados de cuenta corriente con el movimiento de ellas, por los medios y en la forma que las partes acuerden.
 
 No obstante, las empresas bancarias deberán atender el requerimiento de estados que el cuentacorrentista efectúe en cualquier oportunidad distinta de la que se hubiera previsto según lo señalado en el párrafo precedente.
 
@@ -4218,7 +4218,7 @@ a) En caso de que no se pacte con el titular su frecuencia de entrega, los estad
 
 b) El estado deberá contener al menos la siguiente información: i) número del estado; ii) nombre completo del titular, dirección y número de cuenta; iii) fecha de cada débito y crédito; iv) importe de cada partida, identificando el concepto por el cual se acreditó o debitó; y, v) saldo inicial y final de la cuenta en el período informado.
 
-c) El estado se enviará por carta al domicilio registrado del titular, salvo que se acuerde con el cliente otra dirección o bien su entrega en un documento magnético.
+c) El estado se enviará por carta al domicilio registrado del titular, salvo que se acuerde con el cliente otra dirección o bien su entrega en un documento magnético por correo electrónico.
 
 2.9.- Normas contables.
 
@@ -4282,7 +4282,7 @@ Estos depósitos a plazo con renovación automática, se seguirán considerando 
 
 Las renovaciones automáticas se tratarán como nuevas operaciones originadas en la fecha de vencimiento de la respectiva captación, para los efectos de los plazos mínimos de que trata el N° 1 del título II del Capítulo 2-1 de esta Recopilación para la aplicación del encaje que corresponda sobre la base del período de renovación, como también, para los retiros anticipados de que trata el N° 3 precedente.
 
-Cada vez que las instituciones financieras efectúen la renovación automática de un depósito, deberán enviar un aviso al depositante informándole, a lo menos, el monto a la fecha de renovación, la tasa de interés y el vencimiento para el nuevo período.
+Cada vez que las instituciones financieras efectúen la renovación automática de un depósito, deberán enviar un aviso por carta o por correo electrónico, según lo prefiera el depositante, informándole, a lo menos, el monto a la fecha de renovación, la tasa de interés y el vencimiento para el nuevo período.
 
 5. Retención de depósitos a plazo por orden judicial o por fallecimiento del titular.
 
@@ -8707,6 +8707,8 @@ h) Pagos efectuados por el titular (fecha y monto).
 i) Saldo adeudado a la fecha y monto disponible.
 
 j) Tasa de interés que rige para el período siguiente.
+
+El estado de cuenta será enviado en papel o por correo electrónico, según lo prefiera el titular de la tarjeta.
 
 3.7.- Precauciones en el manejo de tarjetas de crédito.
 
@@ -16344,27 +16346,23 @@ No obstante lo anterior, cuando la deuda de estas personas corresponda a un cré
 
 Debe tenerse presente, sin embargo, que la facultad de otorgar créditos para la vivienda, exentos de los límites, puede ejercitarse por una sola vez para cada deudor; por lo tanto, cuando una persona que haya obtenido créditos en esas condiciones deje de tener la calidad de trabajador de la institución financiera acreedora, y posteriormente se reintegre a ella, recuperando esa calidad, estará impedida de obtener un nuevo crédito acogido a la exención de los márgenes del artículo 84 N° 4 ya citado.
 
-CAPITULO 12-7 (Bancos y Financieras)
+CAPITULO 12-7 (Bancos)
 
 MATERIA:
 
 LIMITE DE OBLIGACIONES CON OTRAS INSTITUCIONES FINANCIERAS DEL PAIS.
 
-Los bancos y sociedades financieras que mantengan obligaciones con otras instituciones financieras del país, deben atenerse a los límites señalados en el N° 3 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
-
-Para dar cumplimiento a dichas normas, las entidades deudoras deberán ceñirse a las instrucciones complementarias contenidas en el presente Capítulo.
-
 1.- Límites.
 
-Las obligaciones de una institución financiera con otras instituciones financieras del país, deben mantenerse permanentemente encuadradas dentro de los límites que se indican a continuación. Para estos efectos, la medición se efectuará sobre la base del "activo circulante depurado" y de las "obligaciones computables" que se indican en los N°s. 2 y 3, respectivamente.
+Para dar cumplimiento a lo dispuesto en el N° 3 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, las obligaciones de un banco con otros bancos del país deben mantenerse permanentemente encuadradas dentro de los límites que se indican a continuación, considerando el "activo circulante" y las "obligaciones computables" que se indican en los N°s. 2 y 3 siguientes:
 
-a) Límite individual. La suma de las obligaciones computables que una institución financiera registre con otra establecida en Chile, no podrá exceder del 3% del activo circulante depurado de la institución deudora o del 3% del activo circulante depurado de la institución acreedora, si este activo fuera mayor que el de la entidad sujeta al límite.
+a) Límite individual. La suma de las obligaciones computables que un banco registre con otro establecido en Chile, no podrá exceder del 5% del activo circulante de la institución deudora.
 
-b) Límite global. La suma de las obligaciones computables que una institución financiera registre con las demás instituciones financieras establecidas en Chile, no podrá exceder del 10% de su activo circulante depurado.
+b) Límite global. La suma de las obligaciones computables que un banco registre con los demás bancos establecidos en Chile, no podrá exceder del 40% de su activo circulante.
 
-2.- Activo circulante depurado.
+2.- Activo circulante.
 
-El activo circulante depurado se conforma por la suma de los saldos, tanto en moneda chilena como extranjera, de los siguientes rubros o partidas, con las excepciones que se indican:
+Para los efectos de límites de que se trata, se entenderá por activo circulante la suma de los saldos, tanto en moneda chilena como extranjera, de los siguientes rubros o partidas, con las excepciones que se indican:
 
 a) Fondos disponibles, excepto las partidas 1015 y 1020.
 
@@ -16376,15 +16374,15 @@ d) Inversiones financieras (partidas 1705 a 1750).
 
 3.- Obligaciones computables.
 
-Se considerarán dentro de estos límites todas las obligaciones a plazo registradas en el pasivo a favor de otras instituciones financieras del país, cuyo plazo residual de vencimiento sea igual o inferior a un año a contar de la fecha del cómputo. No se consideran, por consiguiente, las obligaciones a la vista (partidas 3005 a 3015) y aquella parte de las obligaciones a plazo que será exigible a más de un año.
+Quedan sujetos a los límites todas las obligaciones a plazo registradas en el pasivo a favor de otros bancos del país, cuyo plazo residual de vencimiento sea igual o inferior a un año a contar de la fecha del cómputo. No se consideran, por consiguiente, las obligaciones a la vista (partidas 3005 a 3015) y aquella parte de las obligaciones a plazo que será exigible a más de un año.
 
-Además, de acuerdo con lo establecido en el Capítulo III.D.1 del Compendio de Normas Financieras del Banco Central de Chile, deben computarse las obligaciones correspondientes a operaciones con derivados efectuadas con las demás instituciones financieras del país. Para este efecto se entenderá por obligación de un contrato derivado, el monto correspondiente a su equivalente de crédito calculado bajo las mismas reglas que las instituciones acreedoras deben aplicar para determinar sus activos ponderados por nesgo según lo previsto en el N° 3 del título II del Capítulo 12-1 de esta Recopilación.
+Además, de acuerdo con lo establecido en el Capitulo III.D.1 del Compendio de Normas Financieras del Banco Central de Chile, deben computarse las obligaciones correspondientes a operaciones con derivados efectuadas con las demás instituciones financieras del país. Para este efecto se entenderá por obligación de un contrato derivado, el monto correspondiente a su equivalente de crédito calculado bajo las mismas reglas que las instituciones acreedoras deben aplicar para determinar sus activos ponderados por riesgo según lo previsto en el N° 3 del título II del Capítulo 12-1 de esta Recopilación.
 
-No obstante lo indicado en los párrafos precedentes, no se considerarán como obligaciones computables, quedando en consecuencia exentas de los límites de que trata este Capítulo, los montos adeudados que se encuentren cubiertos con garantías constituidas con documentos de la cartera de inversiones financieras del deudor, cuando dichos documentos correspondan a alguno de los señalados en las letras a), b) o c) del N° 1 del Capítulo 8-21 de esta Recopilación.
+No obstante lo indicado en los párrafos precedentes, no se considerarán como obligaciones computables, quedando en consecuencia exentas de los límites de que trata este Capítulo, los montos adeudados que se encuentren cubiertos con garantías constituidas con documentos emitidos por el Banco Central de Chile o por el Estado y sus organismos, con exclusión de sus empresas.
 
 4.- Valor de los pasivos, activos y garantías.
 
-Las obligaciones en moneda extranjera, como asimismo los activos en moneda extranjera que conforman el activo circulante depurado, se computarán por su equivalente en moneda chilena calculado al tipo de cambio de representación contable que se encuentre vigente al momento del cómputo.
+Las obligaciones en moneda extranjera, como asimismo los activos en moneda extranjera que conforman el activo circulante, se computarán por su equivalente en moneda chilena calculado al tipo de cambio de representación contable que se encuentre vigente al momento del cómputo.
 
 Los pasivos y activos reajustables se sumarán con sus respectivos reajustes que se encuentren contabilizados al momento del cómputo.
 
@@ -16393,6 +16391,12 @@ Las operaciones sujetas a intereses, incluirán los intereses devengados que se 
 En el curso de un mes y antes de su último día, los importes correspondientes a los equivalentes de crédito de las operaciones con instrumentos derivados podrán corresponder a los calculados para los mismos al último día del mes anterior, o bien a los calculados a la fecha de las operaciones, si éstas se realizaron en el mes en curso.
 
 Las garantías sobre las operaciones deben computarse según el valor contable de los instrumentos a la fecha del cómputo, incluyendo, cuando corresponda, el ajuste a valor de mercado que se encuentre registrado para esos documentos según lo previsto en el Capítulo 8-21 de esta Recopilación.
+
+5.- Disposición transitoria.
+
+Los límites mencionados en las letras a) y b) del N° 1 este Capítulo rigen a partir del 1° de enero de 2004, según Acuerdo N° 1086-04-031002 del Consejo del Banco Central de Chile.
+
+Antes de aquella fecha, el límite individual alcanza a un 3% y el global a un 10% del activo circulante del banco deudor, debiendo cumplirse además un límite de un 3% del activo circulante de la entidad acreedora.
 
 CAPITULO 12-9 (Bancos y Financieras)
 
