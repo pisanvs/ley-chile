@@ -1,0 +1,3 @@
+Por Resolución Nº 570, de 21 de abril de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA PESQUERA EPERVA S.A., para ampliar actividades pesqueras extractivas autorizadas mediante Resoluciones Nº 1.150, de 1991 y Nº 321, de 1993, ambas de esta Subsecretaría de Pesca, en orden a operar la nave "Angamos 9", matrícula Nº 2.716, en el litoral de la X Región, por fuera del área de reserva artesanal, donde podrá extraer con red de Cerco, los siguientes recursos hidrobiológicos: Anchoveta, Jurel, Merluza de cola, Sardina común.
+
+Valparaíso, 21 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
