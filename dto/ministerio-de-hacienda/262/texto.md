@@ -1,0 +1,111 @@
+APRUEBA EL REGLAMENTO DE VIÁTICOS PARA EL PERSONAL
+
+DE LA ADMINISTRACIÓN PÚBLICA
+
+NUM. 262.- Santiago, 4 de abril de 1977.- Visto: lo dispuesto en el artículo 11° del decreto ley 1.608, de 1976,
+
+DECRETO:
+
+> **Nota.** El artículo 21 del DL 1.819, de 1977, dispuso que el personal del Poder Judicial, Congreso Nacional y de la Contraloría General de la República, se regirá, en cuanto al beneficio del viático, por el sistema fijado en el presente decreto.
+
+> **Nota.** NOTA: 1 El artículo 1º de la LEY 19701, excluye al Instituto de Fomento Pesquero, al Instituto Forestal, al Instituto Nacional de Normalización, al Centro de Información de Recursos Naturales y a la Corporación de Investigación Tecnológica de la aplicación de esta norma.
+
+#### Artículo 1°
+
+Los trabajadores del sector público que en su carácter de tales y por razones de servicio deban ausentarse del lugar de su desempeño habitual, dentro del territorio de la República, tendrán derecho a percibir un subsidio, que se denominará viático, para los gastos de alojamiento y alimentación en que incurrieren, el que no será considerado sueldo para ningún efecto legal.
+
+#### Artículo 2°
+
+El sistema de viáticos contenido en este reglamento se aplicará a todos los trabajadores de los servicios de la Administración Pública; organismos o instituciones fiscales, semifiscales o autónomas; empresas, sociedades e instituciones del Estado, centralizadas o descentralizadas; municipalidades, sociedades o instituciones municipales y, en general, de la administración del Estado, tanto central como descentralizada, y de aquellas empresas, sociedades y entidades públicas y privadas en que el Estado o sus empresas, sociedades o instituciones, centralizadas o descentralizadas, tengan aporte de capital mayoritario o en igual proporción, participación o representación.
+
+No obstante, seguirán regidas por las normas especiales establecidas o que se establezcan para ellos, los trabajadores de la Empresa de los Ferrocarriles del Estado y el personal que se desempeñe en los trabajos de terreno en zona declarada fronteriza o en territorio extranjero aledaño al límite internacional, de acuerdo a lo dispuesto en el inciso final del artículo 10° del decreto ley N° 249, de 1974, y en el artículo 5° del decreto ley N° 786, de 1974.
+
+#### Artículo 3°
+
+Se entenderá, para los efectos del pago de viáticos, por lugar de desempeño habitual del trabajador, la localidad en que se encuentren ubicadas las oficinas de la entidad en que preste su servicio, atendida su destinación.
+
+Constituirán una misma localidad, para estos efectos, en el caso de conglomerados urbanos y suburbanos inmediatamente adyacentes que cuenten con sistemas de movilización colectiva que los intercomuniquen o sirvan en conjunto, las distintas comunas que los integren.
+
+Por decretos del Ministerio de Hacienda, suscritos también por el Ministro del Interior, dictados con la fórmula "Por orden del Presidente de la República", se establecerán las localidades en que corresponda aplicar lo dispuesto en el inciso anterior.
+
+#### Artículo 4°
+
+El monto diario del viático para la autoridad del grado A, creado por el artículo 3° de la ley N° 18.675, corresponderá al 16% del sueldo base mensual del grado A de la Escala Unica de Sueldos; para las autoridades de los grados B y C, creados por el mismo artículo 3°, corresponderá el 15% del sueldo base mensual del grado A de la Escala Unica de Sueldos; para los funcionarios de los grados 1A a 4° de dicha escala, corresponderá el 12% del sueldo base mensual del grado 1A; para los grados 5° a 10° corresponderá el 10% del sueldo base mensual del grado 5°; para los de grado 11° a 21°, corresponderá el 16% del sueldo base mensual del grado 14°, y para los de grado 22° a 31°, corresponderá al 26% del sueldo base mensual del grado 25°.
+
+El monto del viático que corresponda a los personales de entidades cuyos trabajadores no estén encasillados en la Escala Unica del artículo 1° del decreto ley N° 249, de 1974, se fijará de acuerdo a la siguiente pauta:
+
+a) Los funcionarios que ocupen alguno de los 5 primeros niveles jerárquicos de la entidad respectiva, tendrán derecho, a la misma cantidad que corresponda a los trabajadores de los grados 1A a 4° de la Escala Unica antes aludida. No obstante los funcionarios F/G y grado 1B de la escala del artículo 5° del decreto ley N° 3.551, de 1981, tendrán derecho al viático que corresponda a las autoridades de grado B, a que se refiere el artículo 3° de la ley N° 18.675.
+
+b) Los funcionarios que ocupen algunos de los 6 niveles jurárquicos siguientes, tendrán derecho a la misma cantidad que corresponda a los trabajadores de los grados 5° a 10° de la Escala Unica.
+
+c) Los funcionarios que ocupen algunos de los 11 niveles jerárquicos siguientes al undécimo tendrán derecho a la misma cantidad que corresponda a los trabajadores de los grados 11° a 21° de la Escala Unica.
+
+d) Los funcionarios que ocupen algunos de los demás niveles jerárquicos tendrán derecho a la misma cantidad que corresponda a los trabajadores de los grados 22° al 31° de la Escala Unica.
+
+Para los efectos del cálculo del viático que corresponda al personal municipal, conforme al inciso anterior, deberá estarse a los niveles jerárquicos que ocupen de acuerdo a la escala esquemática del artículo 23 del decreto ley N° 3.551 antes mencionado.
+
+En lo que se refiere al personal regido por el decreto ley N° 3.058, de 1979, les corresponderá, según su grado, el viático de los funcionarios afectos a la Escala Unica de Sueldos del grado que en cada caso se señalan: grado I, el del grado A; grado II, el del grado B; grados III a V, el del grado 1A; grados VI a IX el del grado 5°; grados X a XXI, el del grado 11° y grados XXII al XXV, el del grado 22°.
+
+Respecto del personal regido por los decretos con fuerza de ley N° 1, de Guerra y N° 2, de Interior, ambos de 1968, les corresponderá, según el grado jerárquico de la escala respectiva que invista el funcionario, el viático del afecto a la escala Unica de Sueldos que en cada caso se señala: grados 1° y 2°, el del grado B; grados 3° a 6°, el del grado 1A; grados 7° y 8°, el del grado 5°; grados 9° a 13° el del grado 11° y grados 14° al 20°, el grado 22°.
+
+No obstante lo dispuesto en el inciso segundo, a los profesionales regidos por la ley N° 15.076 les corresponderá, aun cuando su remuneración mensual permanente sea inferior a la del grado 21°, el viático fijado en función de dicho grado.
+
+Corresponderá el viático en función del grado 31° al personal que se refiere la ley N° 8.059, sea remunerado o adhonorem.
+
+#### Artículo 5°
+
+Si el trabajador no tuviere que pernoctar fuera del lugar de su desempeño habitual, si recibiese alojamiento por cuenta del servicio, institución o empresa empleadora o pernoctar en trenes, buques o aeronaves, sólo tendrá derecho a percibir el 40% del viático que le corresponda.
+
+#### Artículo 6°
+
+Si el trabajador, por la naturaleza de sus funciones, debe vivir en campamentos fijos, alejados de las ciudades, debidamente calificados por el Jefe Superior del servicio, institución o empresa empleadora, tendrá derecho a percibir por este concepto, un "viático de campamento", equivalente a un 30% del viático completo que le habría correspondido si se le aplicara el que establece el artículo 4° de este texto.
+
+El personal a que se refiere el inciso anterior que debe cumplir un cometido adicional, percibirá el viático que le correspondiere de acuerdo a las normas generales de este cuerpo reglamentario y dejará de percibir el viático de campamento.
+
+#### Artículo 7°
+
+Los trabajadores que para realizar sus labores habituales deben trasladarse diariamente a lugares alejados de centros urbanos, como faenas camineras o garitas de peaje, según calificación del Jefe superior del servicio, institución o empresa empleadora, gozarán de un "viático de faena", equivalente a un 20% del viático que le corresponda.
+
+Este beneficio será incompatible con los establecidos en los artículos 4°, 5° y 6° anteriores.
+
+> **Nota.** El artículo QUINTO de la LEY 19882, publicada el 23.06.2003, establece que el viático de faena a que se refiere el presente artículo, será, para los trabajadores del Ministerio de Obras Públicas, Servicio de Tesorerías, Servicio de Impuestos Internos y Servicio Agrícola y Ganadero de un 40% del viático completo que en cada caso les corresponda.
+
+#### Artículo 8°
+
+Los trabajadores tendrán derecho al 100% del viático completo que corresponda de acuerdo al artículo 4° de este reglamento, por los primeros 10 días, seguidos o alternados en cada mes calendario, en que deban ausentarse del lugar de su desempeño habitual en cumplimiento de cometidos o comisiones de servicio. Por los días de exceso sobre 10 en cada mes calendario, sólo tendrán derecho al 50% del viático correspondiente.
+
+En todo caso, los trabajadores no podrán tener derecho, en cada año presupuestario, a más de 90 días, seguidos o alternados, con 100% del viático completo que les corresponda. Los días de exceso sobre 90 darán derecho al 50% del viático respectivo.
+
+No obstante lo establecido en los incisos anteriores, podrá disponerse, una vez en cada año calendario respecto de un mismo funcionario, el cumplimiento de comisiones de hasta 30 días continuados, prorrogables hasta por otros 15 días con goce de viático completo. En todo caso, seguirá rigiendo, respecto de los demás meses calendario, el límite del inciso primero y, respecto del año calendario, el límite del inciso segundo.
+
+#### Artículo 9°
+
+El viático se calculará sobre la base del sueldo asignado al grado que corresponda, aun cuando el interesado no cumpla jornada completa.
+
+#### Artículo 10°
+
+La autoridad que ordena la comisión o cometido calificará las circunstancias señaladas en este texto. Ordenados éstos, el viático se devengará por el solo ministerio de la ley.
+
+Esta misma autoridad podrá ordenar anticipos de viáticos. Concedidos estos anticipos, si la comisión o cometido no se cumple dentro del plazo de 10 días, deberá reintegrarse la cantidad recibida dentro de los 5 días siguientes al término de dicho plazo.
+
+#### Artículo 11°
+
+No obstante las funciones fiscalizadoras de la Contraloría General de la República, las autoridades que dispusieren comisiones con derecho a viáticos estarán obligadas a velar por el fiel cumplimiento de las normas contenidas en el presente decreto y, en general, de la adecuada justificación de dichas comisiones o cometidos.
+
+Igual obligación corresponderá a los funcionarios que se desempeñen en calidad de visitadores, inspectores o que, en general, ejerzan fiscalización sobre el desempeño de los servicios y organismos del Estado.
+
+#### Artículo 12°
+
+El trabajador que percibiere viáticos indebidamente, estará obligado a reintegrar de inmediato las sumas así percibidas. Será solidariamente responsable del reintegro la autoridad que dispusiere la comisión.
+
+Lo establecido en el inciso anterior es sin perjuicio de la responsabilidad administrativa del trabajador y de la autoridad respectiva.
+
+#### Artículo 13°
+
+DEROGADO
+
+#### Artículo 14°
+
+Por decreto supremo del Ministerio de Hacienda podrán modificarse los tramos, grados y porcentajes que determinan los montos de los viáticos fijados en este reglamento.
+
+Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE.- Sergio de Castro.
