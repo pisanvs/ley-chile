@@ -1,0 +1,5 @@
+Por resolución Nº 1.637, de 3 de agosto de 2001, de esta Subsecretaría, autorízase a PESQUERA QUINTERO S.A., para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones Nº 128 de 1983, Nº 431 de 1987, Nº 636 de 1991 y Nº 1.244 de 1998, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida 21 de Mayo Nº 1057, Quintero, V Región, donde podrá procesar en la línea de elaboración de Congelado, los siguientes recursos hidrobiológicos: Merluza común, Congrio colorado, Congrio dorado, Congrio negro, Lenguado de ojos chicos, Raya, Reineta, Besugo, Sierra, Corvina, Albacora o pez espada, Bacalao de J. Fernández, Bacalao de profundidad, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Centolla, Centollón y Langosta enana.
+
+La materia prima deberá provenir de pescadores artesanales e industriales, debidamente autorizados.
+
+Valparaíso, 3 de agosto de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
