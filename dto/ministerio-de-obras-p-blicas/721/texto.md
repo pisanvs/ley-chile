@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 721, de 31 de julio de 1997, se expropiaron los lotes de terreno Nºs. 12-A, 96-A y 96-B, superficies 540, 200 y 112 m², respectivamente, roles de avalúos 12095-2, 655-24 y 655-29, comuna de Rancagua, obra Mejoramiento Ruta 5 Sur, sector Pasada por Rancagua, Camino Ruta 5 Sur y se acordó precio de indemnización con sus propietarios Domingo Sepúlveda Lagos, José Monje Venegas y Alberto Rodríguez Estévez, ascendente a las cantidades de: $15.567.700, $8.005.250 y $4.550.590.
+
+Fiscal del Ministerio de Obras Públicas.
