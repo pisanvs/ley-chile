@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 594, de 30 de abril de 2002, se expropiaron los lotes de terreno Nºs 12, 14, 16, 17, 22, 23 y 25, superficies 155 M2, 126 M2, 136 M2, 130 M2, 146 M2, 126 M2 y 28 M2, respectivamente, rol de avalúo 2209-12, comuna de Chillán, VIII Región, para la obra ''Mejoramiento Ruta N-45, Sector Variante Cato, Km. 0,00000 al 4,15551'' y se acordó el valor de indemnización con su propietaria doña Elia Rosa Aguirre Lafuente, ascendente a la cantidad de $2.875.100.-
+
+Fiscal del Ministerio de Obras Públicas.
