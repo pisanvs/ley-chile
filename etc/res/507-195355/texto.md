@@ -1,0 +1,3 @@
+Por resolución Nº 507, de 4 de marzo de 2002, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 90000917, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES ALGUEROS MAR AZUL, para un centro de cultivo ubicado en sector conformado por las Parcelas Nº 2, Nº 3, Nº 4, Nº 5, Nº 6, Nº 7, Nº 8 y Nº 9, del lote W, Ribera Norte del Río Maullín, X Región.
+
+Valparaíso, 4 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
