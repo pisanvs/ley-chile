@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Río Negro para contratar uno o más empréstitos que produzcan hasta la cantidad de $ 40.000.000 con el fin de destinarlos a diversas obras de adelanto local; para su servicio establece una contribución adicional de un dos por mil anual sobre el avalúo de los bienes raíces de la comuna.
