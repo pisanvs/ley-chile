@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.538, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs. 1-B y 1-C, superficies 405,0 m2. y 467,0 m2., rol de avalúo 32-1, comuna de Collipulli, para la obra ''Concesión Internacional Ruta 5. Tramo: Collipulli - Temuco'', Novena Región y se acordó el valor de indemnización con su propietario El Club de Pesca y Caza Collipulli, ascendente a la cantidad total de $26.860.239.
+
+- Fiscal del Ministerio de Obras Públicas.
