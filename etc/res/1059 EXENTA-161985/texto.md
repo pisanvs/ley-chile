@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.059 de 12 de Agosto de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido, reserva y sector expro- piado predios: "Hijuela Quinta o los Aromos de los Fundos Las Casas de la Esperanza y Los Aromos", "Los Corrales" de la comuna de Peñaflor, Región Metropolitana; y derechos de aprovechamiento de aguas que corresponden a las parcelas Nos. 1 a la 26, sitios Nos.. 1 al 8 y Reserva CORA No. C del Proyecto de Parcelación "Porvenir" formado por predios señalados. Los derechos de agua se extraen del Canal de Arriba o Canal Alto de la Esperanza, Canal de Abajo o Canal Bajo de la Esperanza, Aguas del Estero Frío. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
