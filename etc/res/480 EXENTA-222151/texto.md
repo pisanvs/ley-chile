@@ -1,0 +1,3 @@
+Por resolución exenta Nº 480, de 20 de febrero de 2004, de esta Subsecretaría, apruébase el proyecto técnico y el cronograma de actividades presentado por PRODUCTOS DEL MAR VENTISQUEROS S.A., para una piscicultura ubicada en Pichicolo, X Región, autorizada por resolución Nº 684 de 1985, de esta Subsecretaría, cuyo actual titular Lefersa Alimentos S.A. solicita transferirla.
+
+Valparaíso, 20 de febrero de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
