@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resoluciones exentas N°s 1441 de 10 de Octubre de 1984 y N° 875 de 15 de Julio de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector enajenado y sector expropiado predio: "La Hiedra" de la comuna de Renaico, IX Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N° 1 a la 11, sitios N° I al II, bienes comunes generales N° 1 y 2 del proyecto de parcelación "Campesinos Unidos" formado por predio señalado. Los derechos de agua se extraen del Canal Santa Ana proveniente del Derivado Roblería Norte. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
