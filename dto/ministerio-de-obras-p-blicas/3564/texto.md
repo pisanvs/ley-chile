@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.564, de 30 de noviembre de 1999, se expropió el lote de terreno Nº13, superficie 1.523 m2, rol de avalúo 511-49, comuna de Carahue, IX Región, para la obra camino Costero Tirúa-Carahue, sector Puyanhue - Tranapuente y se acordó precio de indemnización con su propietaria Sociedad Agrícola, Forestal y Transportes Makaly Limitada, ascendente a la cantidad de $285.408.
+
+Fiscal del Ministerio de Obras Públicas.
