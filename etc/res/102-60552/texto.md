@@ -1,0 +1,23 @@
+Por Resolución Nº 102, de 22 de enero de 1997, de esta
+
+Subsecretaría de Pesca del Ministerio de Economía, Fomento y
+
+Reconstrucción, deniégase la solicitud de reconsideración
+
+presentada por PESQUERA DE LOS ANDES LIMITADA, respecto de las
+
+Resoluciones Nº 1.192 y Nº 1.193 de 1996, ambas de esta
+
+Subsecretaría, que señaló la nómina de armadores y naves
+
+autorizados para operar en la pesquería de Merluza del Sur y
+
+Congrio dorado, en aguas interiores de la XI y XII Regiones, y
+
+al Sur del paralelo 44°30' L.S., en virtud de lo dispuesto en el
+
+#### Artículo 11
+
+y 12 transitorios en relación con el artículo 143 permanente letra b) del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción y con el mérito de lo resuelto por la I. Corte de Apelaciones de Valparaíso, en recurso de protección Rol Nº 379-96.
+
+Valparaíso, 22 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
