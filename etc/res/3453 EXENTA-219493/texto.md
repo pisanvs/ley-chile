@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.453, de 22 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de modificación de acuicultura Nº 201103048 presentada por SALMONES ANDES S.A., para el centro de cultivo ubicado en Bahía Puerto Huite, X Región, otorgado por D.S. Nº 362 de 1993, del Ministerio de Defensa Nacional.
+
+Valparaíso, 22 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
