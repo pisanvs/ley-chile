@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 386, de fecha 27 de febrero del 2004, se expropió el lote de terreno Nº 59, superficie 10.715 m², Rol Nº 271-30, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, sector 2 Carrizal - Puente Belco, tramo Km. 17,34000 a Km. 23,51000, comuna de San Javier, Provincia de Linares" y se acordó el valor de indemnización con su propietaria Daria Victoria Soto Valdés y Otros, ascendente a la cantidad de $2.122.628.
+
+- Fiscal del Ministerio de Obras Públicas.
