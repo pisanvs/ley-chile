@@ -1,0 +1,3 @@
+Por resolución No. 483 de 16 de Junio de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Mates Australes Ltda. para capturar mediante redes de enmalle o cerco, hasta 200 hembras y 100 machos de ejemplares adultos de salmón plateado, desde el sector Domeyko, Lago Llanquihue, X Región, los que deber destinar a los establecimientos de cultivo que tiene autorizados. Asimismo, la interesada podrá liberar 10.000 ejemplares de salmón plateado de 30 gr. de peso individual promedio, en el sector de Codihué, X Región, con fines de repoblación.
+
+Valparaíso, 16 de Junio de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
