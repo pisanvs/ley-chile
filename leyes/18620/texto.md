@@ -1,0 +1,1 @@
+Texto disponible solamente en formato PDF
