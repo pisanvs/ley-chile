@@ -1,0 +1,3 @@
+Por resolución Nº 2.257, de 24 de octubre de 2001, de esta Subsecretaría, autorízase a PESQUERA LOS FIORDOS LIMITADA para iniciar actividades pesqueras de transformación, con una planta ubicada en Camino San Antonio s/n, Quellón, X Región, donde podrá procesar en las líneas de elaboración: Cocido, Fresco-Enfriado, Fresco-Refrigerado, Congelado, Seco-Salado, Ahumado, los siguientes recursos hidrobiológicos: Salmón del Atlántico, Salmón plateado y Trucha arcoiris.
+
+Valparaíso, 24 de octubre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
