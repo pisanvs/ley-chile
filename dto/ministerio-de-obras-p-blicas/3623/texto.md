@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.623 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 7, superficie 287 m², rol de avalúo 117-3, comuna de Paine, para la obra ''Concesión Internacional Ruta 5 Tramo Santiago - Talca, Sector B: Km. 42.950,00 a km. 55.200,00'' y se acordó el valor de indemnización con su propietario Ester del Rosario Gárate Gárate, ascendente a la cantidad de $3.531.144.-
+
+Fiscal del Ministerio de Obras Públicas.
