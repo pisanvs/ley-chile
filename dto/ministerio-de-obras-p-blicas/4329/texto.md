@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.329, de 27 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 43-P y 90, para la ejecución de la obra Camino Caletones-Termas de Cauquenes, Conexión Ruta 5 Sur Roles H-255; H-35 y H-405, Sector Coya-Gultro Km.
+
+0,00000 a Km. 28,38019, Sector Coya-Gultro Km. 13,60500 a Km. 28,38000, que figuran a nombre de Soc. Agrícola Los Cardos Ltda. y Oscar Bueno Valdivia, Roles de Avalúo 38-10 y 37-166, de la comuna de Requínoa, VI Región, superficies 78 y 6.871 m². La Comisión de Peritos fijó con fecha 2 de marzo de 2000, la indemnización provisional en la cantidad de $13.900, lote 43-P y $8.417.900, lote 90, las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
