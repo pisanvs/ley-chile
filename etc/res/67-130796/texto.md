@@ -1,0 +1,3 @@
+Por resolución Nº 67, de 21 de enero de 1999, de esta Subsecretaría, deniégase la autorización solicitada por PESQUERA BIO BIO S.A., para ampliar actividades pesqueras, con la nave ''Pehuenco'', Matrícula 2871, al litoral de la XI y XII Regiones, de conformidad con lo dispuesto en las letras c) y e) del artículo 19, del D.S. Nº430 de 1991 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 21 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
