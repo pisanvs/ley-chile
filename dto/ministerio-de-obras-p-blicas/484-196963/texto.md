@@ -1,0 +1,3 @@
+Por decreto MOP Nº 484 de 28 de febrero del 2002, se expropiaron los lotes de terreno Nºs. 114 y 114-B, superficie 464 y 168 m2 respectivamente, rol de avalúo Nº 9-1, comuna de Río Hurtado, para la obra "Camino Ruta D-595 Ovalle - Hurtado. Sector Tranque Recoleta - Samo Alto, Km. 9.78000 a Km. 31.84000, Etapa III" y se acordó el valor de indemnización con su propietario Fernando Javier Barraza Azócar, ascendente a la cantidad de $5.759.094.-
+
+Fiscal del Ministerio de Obras Públicas.
