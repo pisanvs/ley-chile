@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.165 de fecha 31 de julio del 2001, se expropiaron los lotes de terreno Nº 57, 58, 59 y 61, superficies 796,6, 13.579,8, 4.207,4 y 12.396,3 m², respectivamente, Rol de Avalúo Nº 142-25, comuna de Chonchi, para la obra ''Camino Ruta 5, Sector Chonchi - Tara, Km. 1.205,160 a Km. 1.215,004'' y se acordó el valor de indemnización con su propietario Pedro Segundo Pérez Pinto, ascendente a la cantidad de $10.754.668.
+
+Fiscal del Ministerio de Obras Públicas.
