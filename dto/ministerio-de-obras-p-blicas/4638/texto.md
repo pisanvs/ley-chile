@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.638, de 27 de octubre de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1-A, para la obra Camino Ruta W-59, sector Dalcahue-Achao, Kms 0,0 al 19,71856, que figura a nombre de José Ruperto Cárdenas Bustamante, rol de avalúo 122-10, superficie 3.041,12 m2., comuna de Curaco de Vélez. La Comisión de Peritos, fijó con fecha 21 de octubre de 1999, la indemnización provisional en la cantidad de $456.168, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
