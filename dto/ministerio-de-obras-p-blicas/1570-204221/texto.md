@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.570 de 16 de septiembre de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 21 y 22 para la obra: Camino Ruta O-170, O-176, Sector Acceso a Guarilihue, Km. 0,00000 a Km.
+
+8,28000, que figuran a nombre de Retamal Parra Benedicta Eliana, rol de avalúo 221-37, Comuna de Coelemu, VIII Región, superficies 4.236 m2. y 2.423 m2. La Comisión de Peritos, fijó con fecha 30 de diciembre de 2000, el monto de la indemnización provisional en la cantidad de $3.279.000. para el lote 21 y $2.631.500.- para el lote 22. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
