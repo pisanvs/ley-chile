@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 804 de fecha 31 de mayo del 2004, se expropió el lote de terreno Nº 67-B, superficie 36 m2, rol Nº 1124-13, comuna de Pichilemu, VI Región, para la obra "Camino Pichilemu-Cáhuil, Ruta I-500, Km. 0,980 a Km. 12,76217", y se acordó el valor de indemnización con su propietario Luis Fernando Enberg Castro, ascendente a la cantidad de $488.071.
+
+- Fiscal del Ministerio de Obras Públicas.
