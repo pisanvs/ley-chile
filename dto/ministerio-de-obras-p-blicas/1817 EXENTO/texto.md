@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.817, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº 29-A, superficie 56 m2., rol de avalúo Nº 604-31, comuna de Molina, VII Región, para la obra "Camino Ruta K-175, Molina - Siete Tazas, Sector Molina - Bif. Ruta K-179, Tramo Km. 0.000.00 al 8,400.00" y se acordó el valor de indemnización con su propietario don Jorge Enrique Briones Oyarzún, ascendente a la cantidad de $339.520.
+
+Fiscal del Ministerio de Obras Públicas.
