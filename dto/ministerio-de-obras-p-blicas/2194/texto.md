@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.194, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 6 y 7, superficies 539 m2. y 749 m2., rol de avalúo 9035-170, comuna de San Antonio, para la obra Camino Santiago - San Antonio, sector Segmento 6, Calles de Servicio y se acordó el valor de indemnización con su propietaria María Patricia Astorga Barahona, ascendente a la cantidad total de $2.909.248.-
+
+Fiscal del Ministerio de Obras Públicas.
