@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.112 de 30 de julio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 6, 7 y 8 para la obra: Camino Ruta U-72, Sector Osorno - Huilma, tramo Km. 0,00000 a Km.
+
+18,10000, que figuran a nombre de Suc. Escobar Willer Julio Baldo, rol de avalúo 2209-7, Comuna de Osorno, X Región, superficies 487 m2; 80 m2 y 332 m2. La Comisión de Peritos, fijó con fecha 28 de julio de 2000, en la cantidad de $344.200.- para el lote 6; $95.000, para el lote 7 y $259.200, para el lote 8. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
