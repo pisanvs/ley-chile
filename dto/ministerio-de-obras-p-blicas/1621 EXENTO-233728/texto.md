@@ -1,0 +1,9 @@
+Por decreto exento MOP Nº 1.621, de 25 de noviembre
+
+de 2004, y en base a la facultad otorgada por el
+
+#### Artículo 105
+
+del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs 5A, 5B, 5C, 10A, 11A, 12A, 12B, 16B, 16D, 19A, 19B, 19C, 19D, 23A y 25A para la obra Camino Ruta 5 Sur, sector Compu - Colonia Yungay, Tramo Km. 1.240,00 a Km. 1.257,445 y sector Curva La Herradura, Tramo Km. 1.263,50 a Km. 1.264,309, que figuran a nombre de Nauto Millalonco María de los, Millán Millán Santiago, Lincoman Inaicheo José Santos, Barría Latorre Orlando, Antipani Panichine José A, Millalonco Millatureo José y Millalonco Millatureo José Mig, roles de avalúo 232-16, 232-14, 232-20, 132-19, 232-72, 233-24 y 233-53, Comuna de Quellón, X Región, superficies 39,8 m², 173,3 m², 27,3 m², 965,1 m², 3.162,1 m², 2.453,5 m², 2.420 m², 320 m², 280 m², 260,6 m², 4.023 m², 319,5 m², 182,8 m², 1.165,1 m² y 11.470,4 m². La Comisión de Peritos fijó, con fecha 18 de diciembre de 2002, en las cantidades de $9.154 para el lote Nº5A, $39.859 para el lote Nº5B, $6.279 para el lote Nº5C, $304.473 para el lote Nº10A, $853.783 para el lote Nº11A, $686.905 para el lote Nº12A, $677.600 para el lote Nº12B, $73.600 para el lote Nº16B, $64.400 para el lote Nº16D, $59.938 para el lote Nº19A, $1.076.790 para el lote Nº19B, $73.485 para el lote Nº19C, $42.044 para el lote Nº19D, $287.973 para el lote Nº23A y $2.781.692 para el lote Nº25A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
