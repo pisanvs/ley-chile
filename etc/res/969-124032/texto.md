@@ -1,0 +1,7 @@
+AUTORIZA A. DON JOSE FERNANDEZ SAEZ PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 969, de 14 de Septiembre de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don José Fernández Sáez, R.U.T. No. 1.038.401-K, domiciliado en calle Juan Glasinovic No. 660, Antofagasta, para ampliar las actividades pesqueras autorizadas por resolución No. 39, de 1985, de esta Subsecretaría, en orden a operar la embarcación Doña Catalina, en el litoral de las Regiones I a IV y VIII, donde podrá extraer los siguientes recursos hidrobiológicos: Dorado y Bonito. Asimismo, el interesado podrá extraer con la nave antes referida, en el litoral de las Regiones III y IV, los siguientes recursos hidrobiológicos: Anchoveta, Caballa, Cojinoba del Norte, Jurel, Sardina común y Sardina española. Deniégase la autorización solicitada por el peticionario para extraer en el litoral de las Regiones I, II y VIII, los recursos hidrobiológicos, Anchoveta, Caballa, Jurel, Sardina común y Sardina española, de conformidad a lo dispuesto en el Decreto No. 436, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de Septiembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
