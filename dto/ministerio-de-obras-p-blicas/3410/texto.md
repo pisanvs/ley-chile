@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.410, de 29 de octubre de 1999, se expropió el lote de terreno Nº 15, superficie 1.070 m2., rol de avalúo 654-30, comuna de Buin, para la obra Concesión Internacional Ruta 5; Tramo: Santiago - Talca. Sector A, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan López Núñez, ascendente a la cantidad de $13.760.882.
+
+- Fiscal del Ministerio de Obras Públicas.
