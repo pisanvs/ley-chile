@@ -1,0 +1,3 @@
+Por Resolución de la Fiscalía del Ministerio de Obras Públicas F. No. 86, de 12 de agosto de 1986, se ha ordenado pagar la suma de $ 71.276.- a don Padre González Pinochet o a quien acredite derecho, como valor de la indemnización correspondiente al 100% del avalúo fijado por la Comisión de Hombres Buenos, m s su reajuste, con motivo de la expropiación del lote No. 6, de una superficie de 4.697 m2 necesario para la construcción de la obra Canal Unificado Lara, Sistema Maule Sur, VII Región. Se deja constancia que el plazo para reclamar judicialmente del avalúo es el determinado por el artículo 12 del Decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras públicas.
