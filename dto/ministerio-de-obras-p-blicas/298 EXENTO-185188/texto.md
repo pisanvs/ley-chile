@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº298, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº66, superficie 744 m², rol de avalúo 179-94, comuna de Yerbas Buenas, para la obra "Camino Ruta L-31, Sector Polvorines - La Floresta, tramo Km. 0,00000 a Km. 15,48000" y se acordó el valor de indemnización con su propietario Heriberto Antonio Retamal Vásquez, ascendente a la cantidad de $860.256.-.
+
+Fiscal del Ministerio de Obras Públicas.
