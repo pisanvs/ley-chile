@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.242, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº105, superficie 260 m², rol de avalúo 71-12, comuna de Teno, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, Km. 0,22000 al 25,00000" y se acordó el valor de indemnización con su propietario don José Benedicto Díaz Campos, ascendente a la cantidad de $424.080.
+
+Fiscal del Ministerio de Obras Públicas.
