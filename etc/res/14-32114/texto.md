@@ -1,0 +1,3 @@
+Por resolución N° 14, de 14 Septiembre de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se adjudicó a Don Carlos A. Filippi Barra, la concesión para operar, por un plazo de cinco años a contar de la publicación del presente extracto, un establecimiento ubicado en calle Cinco Parque Industrial N° 520 de la comuna de Rancagua, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Luis Díaz Solís, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
