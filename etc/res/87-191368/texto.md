@@ -1,0 +1,3 @@
+Mediante resolución Ministerial Nº 87, del 5 de octubre del año 2001, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Ahorro y Crédito Unión Familiar Limitada, de la ciudad de Santiago, en los términos que da testimonio el acta constitutiva protocolizada con fecha 4 de septiembre del 2001, al final de los Registros del bimestre septiembre/octubre del mismo año, del Notario de Santiago, don Elías Jarufe Rojas, bajo el Nº 1.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
