@@ -1,0 +1,3 @@
+Por decreto MOP Nº862, de fecha 30 de abril de 2002, se expropió el lote del terreno Nº39-A, superficie 2.303 m², rol de avalúo 3800-129, comuna de Puente Alto, Región Metropolitana, para la obra ''Mejoramiento Eje La Florida, Sector El Peñón - Las Vizcachas, Ruta G-25, Camino Puente Alto, Km. 6.980 al 10.340'', y se acordó el valor de indemnización con su propietario Fondo de Inversión Inmobiliaria Cimenta - Expansión, ascendente a la cantidad de $56.194.221.-
+
+Fiscal del Ministerio de Obras Públicas.
