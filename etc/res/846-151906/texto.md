@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA BAHIA SAN JORGE S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 846 de 30 de Julio de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Bahía San Jorge S.A., domiciliada en Antofagasta, para ampliar actividades pesqueras autorizadas por Resolución No. 652, de 01 de Septiembre de 1986, de esta Subsecretaría de Pesca, en orden a operar la embarcación "Pacific Raider" en las Regiones I a VIII, donde extraerá los siguientes recursos hidrobiológicos: albacora o pez espada, tiburón o marrajo, bonito, cojinova, dorado, congrios colorado, dorado y negro; cabrilla. En las regiones I, II y VIII sólo podrá operar con red albacorera y espineles. Previo al inicio de faenas se deberá acreditar documentadamente ante el Servicio Nacional de Pesca la obtención de matrícula chilena.
+
+Valparaíso, 30 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
