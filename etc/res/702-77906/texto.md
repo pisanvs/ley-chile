@@ -1,0 +1,3 @@
+Por Resolución Nº702 de 31 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº659, de 1989, de esta Subsecretaría, que autorizó a don JUAN TOMISLAV CORTES BOGDNIC, R.U.T. Nº8.840.758-K, domiciliado calle Doctor Olivares, Casa 8, Población Algama, Taltal, para operar una planta industrial en la comuna de Taltal, III Región, por renuncia de su titular ya individualizado.
+
+Valparaíso 31 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
