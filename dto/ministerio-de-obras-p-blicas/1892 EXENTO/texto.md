@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.892, de fecha 30 de noviembre del 2001, se expropiaron los lotes de terreno Nº1 y 2, superficies 991,02 y 321,16 m², rol de avalúo Nº301-5, comuna de Vilcún, para la obra "Estudio de Ingeniería Varios Puentes en la IX Región, Sector Puente Lan Lan 2, Camino Cajón - Refugio Llaima, Km. 57,50000 a Km. 57,81999", IX Región y se acordó el valor de indemnización con su propietario Víctor Constantino Chahin Ananías, ascendente a la cantidad de $1.545.335.
+
+- Fiscal del Ministerio de Obras Públicas.
