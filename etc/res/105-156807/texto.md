@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 105, de fecha 30 de diciembre de 1999, se aprobó la disolución voluntaria de la Cooperativa Agrícola Vitivinícola de Talca Limitada, que consta en la escritura pública suscrita con fecha 29 de julio de 1999, ante el Notario Público de Talca, don Juan Bianchi Astaburuaga.
+
+Por orden del Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
