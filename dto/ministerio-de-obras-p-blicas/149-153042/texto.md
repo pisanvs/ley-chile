@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 149, de 24 de Junio de 1986, se expropiaron lotes 7, 8, 15, 56, 72, 81, 85, 86 y 106, superficies 286,9 m2., 130,5 m2., 179,8 mi., 229,5 m2., 80,0 m2, 492,8 m2., 62,4 m2 y 1.948,6 m2., roles de avalúos 44-203, 44-123, 44-124, 4,6-184, 46-111, 46-116, 50-1, 46.88 y 26-207, Comuna de Peumo, para Ruta H-66-G Pelequén Cruce Las Arañas, sector Codao - Las Cabras, y se acordó predio de indemnización con sus propietarios don Justiniano Orellana López, Ramón Pulgar Zúñiga,, Norma Edelmira Romero Flores, Luis Quintana Sánchez, Raúl Abraham Tobar Sánchez, Eliseo Segundo Castro Osorio, Ruperto del Carmen Soto, Francisco Javier Segundo Toro Olguín y Jorge Valenzuela Celis, ascendente a $ 168.307, $ 99.470, $ 128.814, $163.636, $ 75.173, $ 57.856, $ 443.736, $ 70.448 y $ 684.235.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(1°)
