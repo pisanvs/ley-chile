@@ -3238,7 +3238,7 @@ Cuando, en los casos del inciso primero del artículo anterior, el hecho se llev
 
 Sufrirán las penas de presidio menor en su grado mínimo y multa de once a veinte sueldos vitales, los que sin título legítimo e invadiendo derechos ajenos:
 
-1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes; de canales o acueductos, y se las apropiaren para hacer de ellas un uso cualquiera.
+1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes; de canales o acueductos, redes de agua potable e instalaciones domiciliarias de éstas, y se las apropiaren para hacer de ellas un uso cualquiera.
 
 2.° Rompieren o alteraren con igual fin diques, esclusas, compuertas, marcos u otras obras semejantes existentes en los ríos, arroyos, fuentes, depósitos, canales o acueductos.
 
