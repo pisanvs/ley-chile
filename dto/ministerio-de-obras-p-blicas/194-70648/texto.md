@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 194, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs. 196 y 222, superficies 22.486 m2. y 3.769 m2, rol de avalúo 611-28 y 614-30, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Ana Luisa Cuevas Neira y José Orlando Chávez Muñoz, ascendente a la cantidad de $8.655.888.- y $1.258.320.-, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
