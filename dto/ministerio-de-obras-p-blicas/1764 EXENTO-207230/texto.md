@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.764 de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº21, superficie 98,5 m2, rol de Avalúo Nº164-28, comuna de Maule, para la obra "Camino Ruta K 620, Sector Culenar - Maule Km. 0,000.00 al 10,520.00", VII Región y se acordó el valor de la indemnización con su propietaria Marta Inés González Díaz, ascendente a la cantidad de $792.324.-
+
+Fiscal del Ministerio de Obras Públicas.
