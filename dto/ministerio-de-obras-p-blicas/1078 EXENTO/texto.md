@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.078, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº26, superficie 1.250,00 m², rol de avalúo 524-153, comuna de La Unión, para la obra " Camino Ruta T-80, Sector La Unión - Las Trancas, Km. 0,900 al 10,99034", y se acordó el valor de indemnización con su propietario Rolando Martínez Arias, ascendente a la cantidad de $886.998.-
+
+Fiscal del Ministerio de Obras Públicas.
