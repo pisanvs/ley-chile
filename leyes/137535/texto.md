@@ -54,13 +54,13 @@ Son chilenos:
 
 2º Los hijos de padre o madre chilenos, nacidos en territorio estranjero, por el sólo hecho de avecindarse en Chile. Los hijos de chilenos nacidos en territorio estranjero, hallándose el padre en actual servicio de la República, son chilenos aun para los efectos en que las leies fundamentales, o cualesquiera otras, requieran nacimiento en el territorio chileno;
 
-3º Los estranjeros que profesando alguna ciencia, arte o industria, o poseiendo alguna propiedad raíz, o capital en jiro, declaren ante la Municipalidad del territorio en que residan, su intención de avecindarse en Chile, i hayan cumplido diez años de residencia en el territorio de la República. Bastarán seis años de residencia, si son casados i tienen familia en Chile; i tres años si son casados con chilena;
+3º Los estranjeros que, habiendo residido un año en la República, declaren ante la Municipalidad del territorio en que residen su deseo de avecindarse en Chile i soliciten carta de ciudadanía;
 
 4º Los que obtengan especial gracia de naturalización por el Congreso.
 
 #### Artículo 7º
 
-Al Senado corresponde declarar respecto de los que no haian nacido en el territorio chileno, si están o no, en el caso de obtener naturalización con arreglo al artículo anterior, i el Presidente de la República espedirá a consecuencia la correspondiente carta de naturaleza.
+A la Municipalidad del departamento de la residencia de los individuos que no hayan nacido en Chile, corresponde declarar si están o nó en el caso de obtener naturalizacion con arreglo al inciso 3.º del artículo anterior. En vista de la declaración favorable de la Municipalidad respectiva, el Presidente de la República espedirá la correspondiente carta de naturaleza.
 
 #### Artículo 8º
 
@@ -82,7 +82,7 @@ Se suspende la calidad de ciudadano activo con derecho de sufrajio:
 
 2º Por la condición de sirviente doméstico.
 
-3º Por la calidad de deudor al Fisco constituido en mora.
+3º SUPRIMIDO.
 
 4º Por hallarse procesado como reo de delito que merezca pena aflictiva o infamante.
 
@@ -98,7 +98,7 @@ Se pierde la ciudadanía:
 
 4º Por admitir empleos, funciones, distinciones o pensiones de un Gobierno estranjero sin especial permiso del Congreso.
 
-5º Por haber residido en país estranjero más de diez años sin permiso del Presidente de la República.
+5º SUPRIMIDO.
 
 Los que por una de las causas mencionadas en este artículo hubieren perdido la calidad de ciudadanos, podrán impetrar rehabilitación del Senado.
 
@@ -120,7 +120,15 @@ La Constitución asegura a todos los habitantes de la República:
 
 5º La inviolabilidad de todas las propiedades, sin distinción de las que pertenezcan a particulares o comunidades, i sin que nadie pueda ser privado de la de su dominio, ni de una parte de ella por pequeña que sea, o del derecho que a ella tuviere, sino en virtud de sentencia judicial; salvo el caso en que la utilidad del Estado, calificada por una lei, exija el uso o enajenación de alguna; lo que tendrá lugar dándose previamente al dueño la indemnización que se ajustare con él, o se avaluare a juicio de hombres buenos;
 
-6º El derecho de presentar peticiones a todas las autoridades constituidas, ya sea por motivos de interés jeneral del Estado, o de interés individual, procediendo legal i respetuosamente;
+6º El derecho de reunirse sin permiso previo i sin armas.
+
+Las reuniones que se tengan en las plazas, calles i otros lugares de uso público serán siempre rejidas por las disposiciones de policía.
+
+El derecho de asociarse sin permiso previo.
+
+El derecho de presentar peticiones a la autoridad constituida sobre cualquier asunto de interes público o privado, no tiene otra limitación que la de proceder en su ejercicio en términos respetuosos i convenientes.
+
+La libertad de enseñanza;
 
 7º La libertad de publicar sus opiniones por la imprenta, sin censura previa, i el derecho de no poder ser condenado por el abuso de esta libertad, sino en virtud de un juicio en que se califique previamente el abuso por jurados, i se siga i sentencie la causa con arreglo a la lei.
 
@@ -156,7 +164,9 @@ La Cámara de Diputados se compone de miembros elejidos por los departamentos en
 
 #### Artículo 19
 
-Se elejirá un Diputado por cada veinte mil almas, i por una fracción que no baje de diez mil.
+Se elejirá un Diputado por cada veinte mil almas, i por una fraccion que no baje de doce mil.
+
+Tambien se elejirán Diputados suplentes en el número que fije la lei.
 
 #### Artículo 20
 
@@ -176,25 +186,51 @@ Los Diputados son reelejibles indefinidamente.
 
 #### Artículo 23
 
-No pueden ser Diputados los eclesiásticos regulares; ni los eclesiásticos seculares que tengan cura de almas; ni los jueces letrados de primera instancia; ni los Intendentes i Gobernadores por la provincia o departamento que manden; ni los individuos que no hayan nacido en Chile, si no han estado en posesión de su carta de naturaleza, a lo menos seis años antes de su elección.
+No pueden ser elejidos Diputados los siguientes individuos:
+
+Los eclesiásticos regulares;
+
+Los párrocos i vice-párrocos;
+
+Los jueces letrados de primera instancia;
+
+Los intendentes de provincia i gobernadores de departamento;
+
+Los chilenos a que se refiere el inciso 3.° del artículo 6.°, si no hubieren estado en posesion de su carta de naturalizacion a lo menos cinco años antes de su eleccion.
+
+Pueden ser elejidos, pero deben optar entre el cargo de Diputado i sus respectivos empleos:
+
+Los empleados con residencia fuera del lugar de las sesiones del Congreso;
+
+Todo Diputado que, desde el momento de su eleccion acepte empleo retribuido de nombramiento esclusivo del Presidente de la República, cesará en su representacion, salvo la escepcion consignada en el artículo 90 de esta Constitucion.
 
 De la Cámara de Senadores
 
 #### Artículo 24
 
-El Senado se compone de veinte Senadores.
+El Senado se compone de miembros elejidos en votacion directa por provincias, correspondiendo o cada una elejir un Senador por cada tres Diputados i por una fraccion de dos Diputados.
+
+Se elejirá, en la misma forma, un Senador suplente por cada provincia para que reemplace a los propietarios que a ella correspondan.
 
 #### Artículo 25
 
-Los Senadores son elejidos por electores especiales, que se nombran por departamentos en número triple del de Diputados al Congreso que corresponde a cada uno i en la forma que prevendrá la lei de elecciones.
+Tanto los Senadores propietarios como los suplentes, permanecerán en el ejercicio de sus funciones por seis años, pudiendo ser reelejidos indefinidamente.
 
 #### Artículo 26
 
-Los electores deberán tener las calidades que se requieren para ser Diputados al Congreso.
+Los Senadores propietarios se renovarán cada tres años en la forma siguiente:
+
+Las provincias que elijan un número par de Senadores harán la renovacion por mitad en la eleccion de cada trienio.
+
+Las que elijan un número impar, la harán en el primer trienio, dejando para el trienio siguiente la del Senador impar que no se renovó en el anterior.
+
+Las que elijan un solo Senador, lo renovarán cada seis años, aplicándose esta misma regla a los Senadores suplentes.
 
 #### Artículo 27
 
-El día señalado por la lei se reunirán los electores en la capital de su respectiva provincia, i sufragará cada uno por tantos individuos cuantos Senadores corresponda nombrar en aquel período.
+Cuando falleciere algún Senador o se imposibilitare, por cualquier motivo, para desempeñar sus funciones, la provincia respectiva elijirá en la primera renovacion otro que lo subrogue por el tiempo que le faltase para llenar su periodo constitucional.
+
+Igual procedimiento se adoptará siempre que un Senador se encuentre en alguno de los casos del artículo 23.
 
 #### Artículo 28
 
