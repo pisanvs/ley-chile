@@ -1,0 +1,3 @@
+Por decreto MOP. No.1.406, de 31 de agosto de 1998, se expropió el lote de terreno No.33-A, superficie 2.389 M2., rol de avalúo 220-81, comuna de San Javier, para la obra Camino Ruta 5, Longitudinal Sur, Sector San Javier - Parral I, Tramo A, se acordó precio de la indemnización con su propietaria Sociedad Liliana Venturelli e Hijos Ltda., ascendente a la cantidad de $ 15.147.792.-
+
+Fiscal del Ministerio de Obras Públicas.
