@@ -1,0 +1,5 @@
+Por Resolución N° 1.240, de 11 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EXPORTACIONES PRODUCTOS B & D S.A., R.U.T. N° 96.513.150-7, domiciliada en la ciudad de Santiago, Avenida 11 de Septiembre N° 1480, piso 14, para ampliar actividades pesqueras que tiene autorizadas por Resoluciones N° 27, de 1989, N° 185, de 1991 y N° 710, de 1992, todas de esta Subsecretaría, en orden a extraer con la embarcación individualizada en el numeral 1° de la Resolución N° 710, de 1992, denominada "Antartic", matrícula 2709, los siguientes recursos hidrobiológicos, sin perjuicio de los que tiene autorizados: área de Pesca de las Regiones III a VII y IX, con cerco: Aguijilla, Merluza de cola, Merluza de tres aletas.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.-
+
+Valparaíso, 11 de diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
