@@ -1,0 +1,277 @@
+DESIGNA JEFES DE PLAZA, TITULARES Y REEMPLAZANTES EN LAS REGIONES Y PROVINCIAS DEL TERRITORIO NACIONAL
+
+Santiago, 12 de octubre de 2001.- Hoy se decretó lo siguiente:
+
+MDN.SSG.Depto. II/1 Núm. 55.- Visto:
+
+a) Lo dispuesto en el decreto supremo del Ministerio de Defensa Nacional (G) Nº 1085, de 12 de Julio de 1940, publicado en el Diario Oficial del 20 de Agosto de 1940, y modificado por los decretos supremos MDN. (G) Nºs. 1308, del 28 de Mayo de 1954 y 245, del 08 de Junio de 1972;
+
+b) Lo establecido en los artículos 18 y 32 Nº 19, de la Constitución Política de la República de Chile,
+
+c) Lo estipulado en la Ley Nº 19.745 artículo único, que Establece nueva fecha para elección de Diputados y Senadores, publicada en Diario Oficial Nº 37.015 de 19 de Julio del 2001, y
+
+Teniendo presente: La obligación que tiene el Supremo Gobierno de resguardar el orden público, con motivo de las próximas elecciones parlamentarias, a realizarse el 16 de Diciembre del 2001, en todo el territorio nacional,
+
+D e c r e t o
+
+1.- Desígnase Jefes de Plaza, titulares y reemplazantes, a partir del 03 de Diciembre del 2001, en las regiones, provincias y comunas del país que se indican, a los siguientes Oficiales de las Fuerzas Armadas, con las facultades determinadas en el decreto supremo del Ministerio de Defensa Nacional (G) Nº 1085, del 12 de Julio de 1940, modificado por los decretos supremos MDN (G) Nºs. 1308, del 28 de Mayo de 1954 y 245 del 08 de Junio de 1972:
+
+PROVINCIA ARICA Y PARINACOTA
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : PEPPI ONETTO MARIANO
+
+Nº DE RUN : 5.797.033-2
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : ROJAS SAENZ MARCELO QUINTIN
+
+Nº DE RUN : 6.461.090-2
+
+Iª REGION (Excepto Provincia Arica y Parinacota)
+
+TITULAR : MAYOR GENERAL (EJERCITO)
+
+NOMBRE : LAZO POZZI JORGE
+
+Nº DE RUN : 5.372.043-9
+
+REEMPLAZANTE : GENERAL DE BRIGADA AEREA (FUERZA AEREA)
+
+NOMBRE : VILLALOBOS MILIC MARIO MANUEL
+
+Nº DE RUN : 6.036.155-K
+
+IIª REGION
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : SEPULVEDA DEL PINO GILBERTO UBALDO
+
+Nº DE RUN : 5.461.046-7
+
+REEMPLAZANTE : GENERAL DE BRIGADA AEREA (FUERZA AEREA)
+
+NOMBRE : GAETE YANTEN, LUIS PATRICIO
+
+Nº DE RUN : 6.415.872-4
+
+IIIª REGION
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : GALLARDO SALDIVIA INDALICIO
+
+Nº DE RUN : 6.037.665-4
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : IGOR MORA RODRIGO
+
+Nº DE RUN : 6.166.962-0
+
+IVª REGION
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : IZURIETA ARCEU ANGEL EDUARDO
+
+Nº DE RUN : 6.523.081-K
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : LYON LANFRANCO RICARDO IGNACIO
+
+Nº DE RUN : 6.443.643-0
+
+PROVINCIAS PETORCA, LOS ANDES, SAN FELIPE Y QUILLOTA
+
+TITULAR : CORONEL (EJERCITO)
+
+NOMBRE : CODDOU MOLINA OSCAR HERNAN
+
+Nº DE RUN : 6.069.864-3
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : PEREZ ZUÑIGA JOSE VICENTE
+
+Nº DE RUN : 6.569.356-9
+
+PROVINCIAS VALPARAISO E ISLA DE PASCUA
+
+TITULAR : VICEALMIRANTE (ARMADA)
+
+NOMBRE : GARCIA DOMINGUEZ EDUARDO DE FATIMA
+
+Nº DE RUN : 5.139.024-5
+
+REEMPLAZANTE : CONTRAALMIRANTE (ARMADA)
+
+NOMBRE : CODINA DIAZ RODOLFO ENRIQUE
+
+Nº DE RUN : 5.567.946-0
+
+REGION METROPOLITANA Y PROVINCIA SAN ANTONIO
+
+TITULAR : MAYOR GENERAL (EJERCITO)
+
+NOMBRE : REYES SANTELICES HERNAN NORBERTO
+
+Nº DE RUN : 5.185.657-0
+
+REEMPLAZANTE : MAYOR GENERAL (EJERCITO)
+
+NOMBRE : VASQUEZ MORENO ADOLFO EGIDIO
+
+Nº DE RUN : 5.098.246-7
+
+VIª REGION
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : SLATER ESCANILLA ENRIQUE JORGE
+
+Nº DE RUN : 5.999.390-9
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : RIQUELME VERGARA JUAN JULIO
+
+Nº DE RUN : 6.565.348-6
+
+VIIª REGION
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : CARTONI VIALE PATRICIO VIRGILIO
+
+Nº DE RUN : 6.038.349-9
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : GUZMAN MARTINEZ VICTOR DANIEL
+
+Nº DE RUN : 6.541.960-2
+
+VIIIª REGION
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : IZURIETA FERRER OSCAR RODRIGO
+
+Nº DE RUN : 5.714.654-0
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : SOTO MOSQUEIRA JAIME ANTONIO
+
+Nº DE RUN : 6.804.268-2
+
+COMUNAS TALCAHUANO, PENCO, TOME Y CIRCUNSCRIPCIONES DE ISLA MOCHA E ISLA SANTA MARIA
+
+TITULAR : CONTRAALMIRANTE (ARMADA)
+
+NOMBRE : PATTILLO BARRIENTOS JUAN ALEJANDRO
+
+Nº DE RUN : 5.391.198-6
+
+REEMPLAZANTE : CAPITAN DE NAVIO (ARMADA)
+
+NOMBRE : TERNICIER LABARCA VICTOR ALFREDO
+
+Nº DE RUN : 6.217.897-3
+
+IXª REGION
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : MERINO FERNANDEZ ARTURO DANIEL
+
+Nº DE RUN : 6.694.891-9
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : GARCIA BRAHM GABRIEL ROBERTO
+
+Nº DE RUN : 6.787.027-1
+
+PROVINCIAS VALDIVIA Y OSORNO
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : CADENASSO CASTRO ENZO SANTIAGO
+
+Nº DE RUN : 5.787.861-4
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : CARTONI PRUZZO ALESSANDRO ERNESTO
+
+Nº DE RUN : 6.219.064-7
+
+PROVINCIAS LLANQUIHUE Y CHILOE
+
+TITULAR : GENERAL DE BRIGADA AEREA (FUERZA AEREA)
+
+NOMBRE : CAMPOS MONTECINOS, PATRICIO HERNAN
+
+Nº DE RUN : 5.066.777-4
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : ORTEGA PRADO, RODOLFO ANTONIO
+
+Nº DE RUN : 6.251.385-3
+
+PROVINCIA PALENA
+
+TITULAR : CORONEL (EJERCITO)
+
+NOMBRE : VIAL OCHAGAVIA CARLOS JOSE
+
+Nº DE RUN : 7.405.815-9
+
+REEMPLAZANTE : MAYOR (EJERCITO)
+
+NOMBRE : ELISSALDE VILLALOBOS ALBERTO ANTONIO
+
+Nº DE RUN : 8.211.292-8
+
+XIª REGION
+
+TITULAR : BRIGADIER GENERAL (EJERCITO)
+
+NOMBRE : MARTINEZ ROA ANTONIO EULOGIO
+
+Nº DE RUN : 5.891.227-1
+
+REEMPLAZANTE : CORONEL (EJERCITO)
+
+NOMBRE : MARTINIC MARUSIC RODOLFO PEDRO
+
+Nº DE RUN : 6.543.352-4
+
+XIIª REGION
+
+TITULAR : MAYOR GENERAL (EJERCITO)
+
+NOMBRE : MARTIN JUNEMANN ALEJANDRO JOSE
+
+Nº DE RUN : 5.054.443-5
+
+REEMPLAZANTE : VICEALMIRANTE (ARMADA)
+
+NOMBRE : MANZANO SOKO OSCAR LUIS
+
+Nº DE RUN : 5.178.140-6
+
+2.- Quedarán bajo el mando de los Oficiales designados como Jefes de Plaza, los efectivos de las Fuerzas Armadas y Fuerzas de Orden y Seguridad Pública acantonados en las zonas jurisdiccionales de las Jefaturas de Plaza, y de otros efectivos de las fuerzas mencionadas precedentemente, que lleguen a la zona jurisdiccional, o especialmente se le subordinen, para la mantención del orden público.
+
+3.- Los Jefes de Plaza desempeñarán sus funciones hasta el 18 de Diciembre del 2001.
+
+Anótese, tómese razón, regístrese, comuníquese y publíquese en el Diario Oficial y en los Boletines del Ejército, Armada, Fuerza Aérea, Carabineros y de la Policía de Investigaciones de Chile.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Mario Fernández Baeza, Ministro de Defensa Nacional.- José Miguel Insulza Salinas, Ministro del Interior.
+
+Lo que transcribo para su conocimiento.- Gabriel Gaspar Tapia, Subsecretario de Guerra
