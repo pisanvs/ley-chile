@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 696, de 7 de mayo de 2004 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 20, 20-B y 20-C para la obra: Camino Ruta L-45, Sector Linares-Llepo, Tramo Km. 2,750.2 a Km. 13,147, que figuran a nombre de Vásquez Villalobos Juan A., Vásquez Labra María A. y Bravo Luis, roles de avalúo 559-21 y en trámite, comuna de Linares, VII Región, superficies 99; 693,5 y 513,5 m²., respectivamente. La Comisión de Peritos, fijó con fecha 30 de octubre de 2001 en las cantidades de $198.000.- lote 20;
+
+$2.133.530.- lote Nº 20-B y $1.075.000.- lote Nº 20-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
