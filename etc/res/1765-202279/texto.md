@@ -1,0 +1,3 @@
+Por resolución Nº 1.765, de 20 de agosto de 2002, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A., con domicilio en Colón Nº 1038, Talcahuano, para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 41 de 1983, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Isla Rocuant S/N, Talcahuano, VIII Región, en la línea de proceso Harina, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoa blanca o samasa, Sardina redonda y Vinciguerria.
+
+Valparaíso, 20 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
