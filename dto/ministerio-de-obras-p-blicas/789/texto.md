@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 789, de 29 de agosto de 1997, se expropiaron los lotes de terreno Nºs. 14, 15 y 18, superficies 33, 177,50 y 701,80 M2. respectivamente, roles de avalúo 231-33 y 229-121, comuna de Rengo, para la obra Camino Ruta H-521, Sector Ruta 5 Fundo El Rincón, por Lo de Lobos y se acordó precio de indemnización con sus propietarios Viviana Ibáñez Escobar y otros, ascendente a la cantidad de $1.395.714.
+
+Fiscal del Ministerio de Obras Públicas.
