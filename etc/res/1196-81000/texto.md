@@ -1,0 +1,3 @@
+Por resolución No. 1.196 de 03 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de esta fecha, el plazo otorgado a PESCA Y SERVICIOS MARITIMOS LIMITADA "PESERMA LTDA.", RUT No. 84.600.500-5, domiciliada en Antofagasta, en el numeral 5° de la resolución No. 1.883, de 1989, de esta Subsecretaría, para operar la embarcación "Sirius Star", en razón de haberse acreditado la existencia de una fuerza mayor.
+
+Valparaíso, 03 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
