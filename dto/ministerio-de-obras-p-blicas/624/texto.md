@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 624, de 30 de junio de 1997, se expropiaron los lotes de terreno Nºs. 228 y 233, superficies 53.511 m2. y 8.448 m2., roles de avalúo 614-28 y 614-26, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Sante Herrera Giovannetti, y Jorge Chávez Sánchez, ascendente a las cantidades de $24.861.417.- y $6.308.127.-
+
+Fiscal del Ministerio de Obras Públicas.
