@@ -152,7 +152,7 @@ Son circunstancias atenuantes:
 
 8.° Si pudiendo eludir la acción de la justicia por medio de la fuga u ocultándose, se ha denunciado y confesado el delito.
 
-9.° Si del proceso no resulta contra el reo otro antecedente que su espontánea confesión.
+9.° Si del proceso no resulta contra el procesado otro antecedente que su espontánea confesión.
 
 10.° El haber obrado por celo de la justicia.
 
@@ -246,11 +246,7 @@ Son encubridores los que con conocimiento de la perpetración de un crimen o de 
 
 2.° Ocultando o inutilizando el cuerpo, los efectos o instrumentos del crimen o simple delito para impedir su descubrimiento.
 
-3.° Albergando, ocultando o proporcionando la fuga al culpable, siempre que concurra alguna de las circunstancias siguientes:
-
-Primera.-La de intervenir abuso de funciones públicas de parte del encubridor.
-
-Segunda.-La de ser el delincuente reo de traición, parricidio u homicidio cometido con alguna de las circunstancias agravantes que expresan los números 1.°, 2.°, 3.°, 4.°, 5.°, 6.°, 9.° y 11.° del art. 12, si estuvieren en noticia del encubridor, o cuando el delincuente fuere conocido como reo habitual de otros crímenes o simples delitos.
+3.° Albergando, ocultando o proporcionando la fuga del culpable.
 
 4.° Acogiendo, receptando o protegiendo habitualmente a los malhechores, sabiendo que lo son, aun sin conocimiento de los crímenes o simples delitos determinados que hayan cometido, o facilitándoles los medios de reunirse u ocultar sus armas o efectos, o suministrándoles auxilios o noticias para que se guarden, precavan o salven.
 
@@ -394,13 +390,13 @@ La duración de las penas accesorias de encierro en celda solitaria e incomunica
 
 #### Artículo 26
 
-La duración de las penas temporales empezará a contarse desde el día de la aprehensión del reo.
+La duración de las penas temporales empezará a contarse desde el día de la aprehensión del procesado.
 
 PENAS QUE LLEVAN CONSIGO OTRAS ACCESORIAS.
 
 #### Artículo 27
 
-La pena de muerte, siempre que no se ejecute al reo, y las de presidio, reclusión y relegación perpetuos, llevan consigo la de inhabilitación absoluta perpetua para cargos y oficios públicos y derechos políticos por el tiempo de la vida de los penados y la de sujeción a la vigilancia de la autoridad por el máximum que establece este Código.
+La pena de muerte, siempre que no se ejecute al condenado, y las de presidio, reclusión y relegación perpetuos, llevan consigo la de inhabilitación absoluta perpetua para cargos y oficios públicos y derechos políticos por el tiempo de la vida de los penados y la de sujeción a la vigilancia de la autoridad por el máximum que establece este Código.
 
 #### Artículo 28
 
@@ -422,23 +418,23 @@ NATURALEZA Y EFECTOS DE ALGUNAS PENAS.
 
 #### Artículo 32
 
-La pena de presidio sujeta al reo a los trabajos prescritos por los reglamentos del respectivo establecimiento penal. Las de reclusión y prisión no le imponen trabajo alguno.
+La pena de presidio sujeta al condenado a los trabajos prescritos por los reglamentos del respectivo establecimiento penal. Las de reclusión y prisión no le imponen trabajo alguno.
 
 #### Artículo 33
 
-Confinamiento es la expulsión del reo del territorio de la República con residencia forzosa en un lugar determinado.
+Confinamiento es la expulsión del condenado del territorio de la República con residencia forzosa en un lugar determinado.
 
 #### Artículo 34
 
-Extrañamiento es la expulsión del reo del territorio de la República al lugar de su elección.
+Extrañamiento es la expulsión del condenado del territorio de la República al lugar de su elección.
 
 #### Artículo 35
 
-Relegación es la traslación del reo a un punto habitado del territorio de la República con prohibición de salir de él, pero permaneciendo en libertad.
+Relegación es la traslación del condenado a un punto habitado del territorio de la República con prohibición de salir de él, pero permaneciendo en libertad.
 
 #### Artículo 36
 
-Destierro es la expulsión del reo de algún punto de la República.
+Destierro es la expulsión del condenado de algún punto de la República.
 
 #### Artículo 37
 
@@ -468,7 +464,7 @@ Las penas de inhabilitación especial perpetua y temporal para algún cargo u of
 
 La suspensión de cargo y oficio público y profesión titular, inhabilita para su ejercicio durante el tiempo de la condena.
 
-La suspensión decretada durante el juicio, trae como consecuencia inmediata la privación de la mitad del sueldo al presunto reo, la cual sólo se le devolverá en el caso de pronunciarse sentencia absolutoria.
+La suspensión decretada durante el juicio, trae como consecuencia inmediata la privación de la mitad del sueldo al presunto procesado, la cual sólo se le devolverá en el caso de pronunciarse sentencia absolutoria.
 
 La suspensión decretada por vía de pena, priva de todo sueldo al suspenso mientras ella dure.
 
@@ -552,7 +548,7 @@ A los autores de crimen o simple delito frustrado y a los cómplices de crimen o
 
 A los autores de tentativa de crimen o simple delito, a los cómplices de crimen o simple delito frustrado y a los encubridores de crimen o simple delito consumado, se impondrá la pena inferior en dos grados a la que señala la ley para el crimen o simple delito.
 
-Exceptúanse de esta regla los encubridores comprendidos en el núm. 3.° del art. 17, en quienes concurra la circunstancia primera del mismo número, a los cuales se impondrá la pena de inhabilitación especial perpetua, si el delincuente encubierto fuere reo de crimen y la de inhabilitación especial temporal en cualquiera de sus grados, si lo fuere de simple delito.
+Exceptúanse de esta regla los encubridores comprendidos en el núm. 3.° del art. 17, en quienes concurra la circunstancia primera del mismo número, a los cuales se impondrá la pena de inhabilitación especial perpetua, si el delincuente encubierto fuere procesado de crimen y la de inhabilitación especial temporal en cualquiera de sus grados, si lo fuere de simple delito.
 
 También se exceptúan los encubridores comprendidos en el núm. 4.° del mismo art. 17, a quienes se aplicará la pena de presidio menor en cualquiera de sus grados.
 
@@ -728,7 +724,7 @@ En estos casos solo se impondrá la pena mayor asignada al delito más grave. Si
 
 #### Artículo 76
 
-Siempre que el tribunal imponga una pena que lleve consigo otras por disposición de la ley, según lo prescrito en el § III de este título, condenará también al reo expresamente en estas últimas.
+Siempre que el tribunal imponga una pena que lleve consigo otras por disposición de la ley, según lo prescrito en el § III de este título, condenará también al procesado expresamente en estas últimas.
 
 #### Artículo 77
 
@@ -768,11 +764,11 @@ Todo condenado a muerte será fusilado.
 
 La ejecución se verificará de día y con publicidad en el lugar generalmente designado para este efecto o en el que el tribunal determine cuando haya causa especial para ello.
 
-Esta pena se ejecutará tres días después de notificado al reo el cúmplase de la sentencia ejecutoria; pero si el vencimiento de este plazo correspondiere a uno o más días de fiesta religiosa o nacional, se postergará para el siguiente.
+Esta pena se ejecutará tres días después de notificado al condenado el cúmplase de la sentencia ejecutoria; pero si el vencimiento de este plazo correspondiere a uno o más días de fiesta religiosa o nacional, se postergará para el siguiente.
 
 #### Artículo 83
 
-El reo acompañado del sacerdote o ministro del culto cuyo auxilio hubiere pedido o aceptado, será conducido al lugar del suplicio en un carruaje celular. Llegado allí será sacado del carruaje e inmediatamente ejecutado.
+El condenado acompañado del sacerdote o ministro del culto cuyo auxilio hubiere pedido o aceptado, será conducido al lugar del suplicio en un carruaje celular. Llegado allí será sacado del carruaje e inmediatamente ejecutado.
 
 #### Artículo 84
 
@@ -788,7 +784,7 @@ Los condenados a penas privativas de libertad cumplirán sus condenas en la clas
 
 #### Artículo 87
 
-Los menores de veintiún años y las mujeres cumplirán sus condenas en establecimientos especiales. En los lugares donde éstos no existan, permanecerán en los establecimientos carcelarios comunes, convenientemente separados de los reos adultos y varones, respectivamente.
+Los menores de veintiún años y las mujeres cumplirán sus condenas en establecimientos especiales. En los lugares donde éstos no existan, permanecerán en los establecimientos carcelarios comunes, convenientemente separados de los condenado adultos y varones, respectivamente.
 
 #### Artículo 88
 
@@ -848,7 +844,7 @@ En caso de reincidencia sufrirá la pena de reclusión menor en su grado mínimo
 
 Los que después de haber sido condenados por sentencia ejecutoria cometieren algún crimen o simple delito durante el tiempo de su condena, bien sea mientras la cumplen o después de haberla quebrantado, sufrirán la pena que la ley señala al nuevo crimen o simple delito que cometieren, debiendo cumplir esta condena y la primitiva por el orden que el tribunal prefije en la sentencia, de conformidad con las reglas prescritas en el art. 74 para el caso de imponerse varias penas al mismo delincuente.
 
-Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, podrá imponerse al reo la pena de muerte, o bien agravarse la pena perpetua con las de encierro en celda solitaria hasta por un año e incomunicación con personas extrañas al establecimiento penal hasta por seis años, que podrán aplicarse separada o conjuntamente. Si el nuevo crimen o simple delito tuviere señalada una pena menor, se agravará la pena perpetua con una o más de las penas accesorias indicadas, a arbitrio del Tribunal, que podrán imponerse hasta por el máximo del tiempo que permite el artículo 25.
+Cuando en el caso de este artículo el nuevo crimen debiere penarse con presidio o reclusión perpetuos y el delincuente se hallare cumpliendo alguna de estas penas, podrá imponerse al procesado la pena de muerte, o bien agravarse la pena perpetua con las de encierro en celda solitaria hasta por un año e incomunicación con personas extrañas al establecimiento penal hasta por seis años, que podrán aplicarse separada o conjuntamente. Si el nuevo crimen o simple delito tuviere señalada una pena menor, se agravará la pena perpetua con una o más de las penas accesorias indicadas, a arbitrio del Tribunal, que podrán imponerse hasta por el máximo del tiempo que permite el artículo 25.
 
 En el caso de que el nuevo crimen deba penarse con relegación perpetua y el delincuente se halle cumpliendo la misma pena, se le impondrá la de presidio mayor en su grado medio, dándose por terminada la de relegación.
 
@@ -874,7 +870,7 @@ DE LA EXTINCIÓN DE LA RESPONSABILIDAD PENAL.
 
 La responsabilidad penal se extingue:
 
-1.° Por la muerte del reo, siempre en cuanto a las penas personales, y respecto de las pecuniarias sólo cuando a su fallecimiento no hubiere recaído sentencia ejecutoria.
+1.° Por la muerte del procesado, siempre en cuanto a las penas personales, y respecto de las pecuniarias sólo cuando a su fallecimiento no hubiere recaído sentencia ejecutoria.
 
 2.° Por el cumplimiento de la condena.
 
@@ -932,7 +928,7 @@ El tiempo de la prescripción comenzará a correr desde la fecha de la sentencia
 
 #### Artículo 99
 
-Esta prescripción se interrumpe quedando sin efecto el tiempo trascurrido, cuando el reo, durante ella, cometiere nuevamente crimen o simple delito, sin perjuicio de que comience a correr otra vez.
+Esta prescripción se interrumpe quedando sin efecto el tiempo trascurrido, cuando el condenado, durante ella, cometiere nuevamente crimen o simple delito, sin perjuicio de que comience a correr otra vez.
 
 #### Artículo 100
 
@@ -944,11 +940,11 @@ Tanto la prescripción de la acción penal como la de la pena corren a favor y e
 
 #### Artículo 102
 
-La prescripción será declarada de oficio por el tribunal aún cuando el reo no la alegue, con tal que se halle presente en el juicio.
+La prescripción será declarada de oficio por el tribunal aún cuando el procesado no la alegue, con tal que se halle presente en el juicio.
 
 #### Artículo 103
 
-Si el reo se presentare o fuere habido antes de completar el tiempo de la prescripción de la acción penal o de la pena, pero habiendo ya trascurrido la mitad del que se exige, en sus respectivos casos, para tales prescripciones, deberá el tribunal considerar el hecho como revestido de dos o más circunstancias atenuantes muy calificadas y de ninguna agravante y aplicar las reglas de los arts. 65, 66, 67 y 68, sea en la imposición de la pena, sea para disminuir la ya impuesta.
+Si el inculpado se presentare o fuere habido antes de completar el tiempo de la prescripción de la acción penal o de la pena, pero habiendo ya trascurrido la mitad del que se exige, en sus respectivos casos, para tales prescripciones, deberá el tribunal considerar el hecho como revestido de dos o más circunstancias atenuantes muy calificadas y de ninguna agravante y aplicar las reglas de los arts. 65, 66, 67 y 68, sea en la imposición de la pena, sea para disminuir la ya impuesta.
 
 Esta regla no se aplica a las prescripciones de las faltas y especiales de corto tiempo.
 
@@ -1430,7 +1426,7 @@ Cuando no exceda de esta suma, estimándose el acto mera falta, se penará como 
 
 #### Artículo 179
 
-Si la falsificación fuere tan grosera y ostensible que cualquiera pueda notarla y conocerla a la simple vista, los que falsificaren, expendieren, introdujeren o circularen los títulos así falsificados, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
+Si la falsificación fuere tan grosera y ostensible que cualquiera pueda notarla y conocerla a la simple vista, los que falsificaren, expendieren, introdujeren o circularen los títulos así falsificados, se reputarán procesados de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
 ### III. De la falsificación de sellos, punzones, matrices, marcas, papel sellado, timbres, estampillas, etc
 
@@ -1597,6 +1593,8 @@ Si el valor de la demanda no excediere de cuatro sueldos vitales, las penas ser�
 #### Artículo 210
 
 El que ante la autoridad o sus agentes perjurare o diere falso testimonio en materia que no sea contenciosa, sufrirá las penas de presidio menor en sus grados mínimo a medio y multa de seis a diez sueldos vitales.
+
+En igual pena incurrirá el denunciante que perjurare sobre la preexistencia de la especie hurtada o robada, en la declaración que preste con arreglo a lo establecido en el artículo 83 del Código de Procedimiento Penal.
 
 #### Artículo 211
 
@@ -1862,7 +1860,7 @@ En la misma multa sola o acompañada de la inhabilitación especial perpetua par
 
 El sobornante será castigado con las penas correspondientes a los cómplices en los casos respectivos, excepto las de inhabilitación y suspensión.
 
-Cuando el soborno mediare en causa criminal a favor del reo por parte de su cónyuge, de algún ascendiente o descendiente legítimo por consanguinidad o afinidad, de un colateral legítimo consanguíneo o a fin hasta el segundo grado inclusive o de un padre o hijo natural o ilegítimo reconocido, sólo se impondrá al sobornante una multa igual a la dádiva o promesa.
+Cuando el soborno mediare en causa criminal a favor del procesado por parte de su cónyuge, de algún ascendiente o descendiente legítimo por consanguinidad o afinidad, de un colateral legítimo consanguíneo o a fin hasta el segundo grado inclusive o de un padre o hijo natural o ilegítimo reconocido, sólo se impondrá al sobornante una multa igual a la dádiva o promesa.
 
 #### Artículo 251
 
@@ -2006,6 +2004,14 @@ El que ocasionare, tumulto o excitare al desorden en el despacho de una autorida
 
 Los que turbaren gravemente la tranquilidad pública para causar injuria u otro mal a alguna persona particular o con cualquier otro fin reprobado, incurrirán en la pena de reclusión menor en su grado mínimo, sin perjuicio de las que les correspondan por el daño u ofensa causados.
 
+§ II bis. De la obstrucción a la justicia.
+
+#### Artículo 269 bis
+
+El que se rehusare a proporcionar a los tribunales de justicia antecedentes que conozca o que obren en su poder y que permitan establecer la existencia de un delito o la participación punible en él, o que, con posterioridad a su descubrimiento, destruya, oculte o inutilice el cuerpo, los efectos o instrumentos de un crimen o simple delito, será sancionado con la pena señalada para el respectivo crimen o simple delito, rebajada en dos grados.
+
+Estarán exentas de las penas que establece este artículo las personas a que se refieren el inciso final del artículo 17 de este Código y el artículo 210 del Código y el artículo 201 del Código de Procedimiento Penal.
+
 ### III. De la rotura de sellos
 
 #### Artículo 270
@@ -2134,6 +2140,8 @@ El que cometiere actos de maltrato o crueldad con animales, será castigado con 
 
 Toda asociación formada con el objeto de atentar contra el orden social, contra las buenas costumbres, contra las personas o las propiedades, importa un delito que existe por el solo hecho de organizarse.
 
+Se presumirá que la asociación ha tenido alguno de los objetos que se indican en el inciso anterior, cuando uno o más de sus miembros ha ejecutado algún acto que constituya un atentado contra el orden social, las buenas costumbres, las personas o las propiedades.
+
 #### Artículo 293
 
 Si la asociación ha tenido por objeto la perpetración de crímenes, los jefes, los que hubieren ejercido mando en ella y sus provocadores, sufrirán la pena de presidio mayor en cualquiera de sus grados.
@@ -2142,13 +2150,23 @@ Cuando la asociación ha tenido por objeto la perpetración de simples delitos, 
 
 #### Artículo 294
 
-Cualesquiera otros individuos que hubieren tomado parte en la asociación y los que a sabiendas y voluntariamente le hubieren suministrado caballerías, armas, municiones, instrumentos para cometer los crímenes o simples delitos, alojamiento, escondite o lugar de reunión, serán castigados, en el primer caso previsto por el artículo precedente, con presidio menor en su grado medio, y en el segundo, con presidio menor en su grado mínimo.
+Cualesquiera otros individuos que hubieren tomado parte en la asociación y los que a sabiendas y voluntariamente le hubieren suministrado medios e instrumentos para cometer los crímenes o simples delitos, alojamiento, escondite o lugar de reunión, serán castigados, en el primer caso previsto por el artículo precedente, con presidio menor en su grado medio, y en el segundo, con presidio menor en su grado mínimo.
+
+#### Artículo 294 bis
+
+Las penas de los artículos 293 y 294 se impondrán sin perjuicio de las que correspondan, por los crímenes o simples delitos cometidos con motivo u ocasión de tales actividades.
 
 #### Artículo 295
 
-Quedarán exentos de las penas señaladas en el presente párrafo aquellos de los culpables que, antes de ejecutarse alguno de los crímenes o simples delitos que constituyen el objeto de la asociación y antes de ser perseguidos, hubieren revelado a la autoridad la existencia de dichas asociaciones, sus planes y propósitos.
+Quedarán exentos de las penas señaladas en los artículos anteriores aquellos de los culpables que, antes de ejecutarse alguno de los crímenes o simples delitos que constituyen el objeto de la asociación y antes de ser perseguidos, hubieren revelado a la autoridad la existencia de dichas asociaciones, sus planes y propósitos.
 
 Podrán sin embargo ser puestos bajo la vigilancia de la autoridad.
+
+#### Artículo 295 bis
+
+Se aplicarán las penas de prisión en su grado máximo a presidio menor en su grado mínimo al que, habiendo tenido noticias verosímiles de los planes o de las actividades desarrolladas por uno o más miembros de una asociación ilícita, omite ponerlas oportunamente en conocimiento de la autoridad.
+
+Quedará exento de las penas a que se refiere este artículo el cónyuge, los parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, y el padre, hijo natural o ilegítimo de alguno de los miembros de la asociación. Esta exención no se aplicará si se hubiere incurrido en la omisión, para facilitar a los integrantes de la asociación el aprovechamiento de los efectos del crimen o simple delito.
 
 ### XI. De las amenazas de atentado contra las personas y propiedades
 
@@ -2200,7 +2218,7 @@ Cuando la evasión o fuga de los presos o detenidos se efectuare por descuido cu
 
 #### Artículo 303
 
-Si los fugados fueron dos o más, se tomará como base para fijar la pena de los reos a quienes se refiere este párrafo, la mayor de las que estuvieren sufriendo o merecieren aquéllos.
+Si los fugados fueron dos o más, se tomará como base para fijar la pena de los procesados a quienes se refiere este párrafo, la mayor de las que estuvieren sufriendo o merecieren aquéllos.
 
 #### Artículo 304
 
@@ -2978,7 +2996,7 @@ La calumnia y la injuria se reputan hechas por escrito y con publicidad cuando s
 
 #### Artículo 423
 
-El acusado de calumnia o injuria encubierta o equívoca que rehusare dar en juicio explicaciones satisfactorias acerca de ella, será castigado como reo de calumnia o injuria manifiesta.
+El acusado de calumnia o injuria encubierta o equívoca que rehusare dar en juicio explicaciones satisfactorias acerca de ella, será castigado como procesado de calumnia o injuria manifiesta.
 
 #### Artículo 424
 
@@ -3154,7 +3172,7 @@ También será considerado reo de hurto y castigado con presidio menor en su gra
 
 En los casos de robos o hurtos de vehículos, de caballos o bestias de silla o carga, de ganado mayor o menor o porcino, podrán ser aplicadas respectivamente a los autores, cómplices y encubridores las penas superiores en un grado a las que les hayan correspondido sin la circunstancia de tratarse de la sustracción de animales.
 
-Cuando la pena conste de dos o más grados el aumento establecido en el inciso primero se hará después de determinarse la pena que habría correspondido al reo con prescindencia de la expresada circunstancia.
+Cuando la pena conste de dos o más grados el aumento establecido en el inciso primero se hará después de determinarse la pena que habría correspondido al procesado con prescindencia de la expresada circunstancia.
 
 La regla del inciso primero de este artículo se observará también en los casos previstos en el artículo 448, si se trata de animales o aves comprendidos en los incisos anteriores.
 
@@ -3204,7 +3222,7 @@ Cuando del proceso no resulte probado el valor de la cosa sustraída ni pudiere 
 
 #### Artículo 456
 
-Si ántes de perseguir al reo o ántes de decretar su prision devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433 y 434, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
+Si ántes de perseguir al procesado o ántes de decretar su prision devolviere voluntariamente la cosa robada o hurtada, no hallándose comprendido en los casos de los arts. 433 y 434, se le aplicará la pena inmediatamente inferior en grado a la señalada para el delito.
 
 #### Artículo 456 bis
 
