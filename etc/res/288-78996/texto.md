@@ -1,0 +1,3 @@
+Por Resolución No. 288, de 30 de Marzo de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 26 de Marzo de 1992, el plazo otorgado a don REINHARD H. ZIMMERMANN ZEH, RUT No. 14.463.059-9, domiciliado en Predio Santa Anita, Sector Santa Elvita, Valdivia, Dirección Postal Casilla 567, Valdivia, para empezar a operar un establecimiento de cultivo, autorizado por Resolución No. 1221, de 1988, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 30 de Marzo de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
