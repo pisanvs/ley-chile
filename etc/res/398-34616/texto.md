@@ -1,0 +1,5 @@
+Por Resolución N° 398, de 26 de Abril de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA PESQUERA ROSA NAUTICA S.A., R.U.T. N° 95.316.000-5, para ampliar actividades pesqueras extractivas, autorizadas por la Resolución N° 338, de 1985, de esta Subsecretaría, en orden a operar la nave "Barcarola", autorizada por la Resolución señalada precedentemente, en el área de pesca correspondiente al litoral de la III y IV Región, donde podrá extraer con cerco, los siguientes recursos hidrobiológicos: Anchoveta, Caballa, Cojinoba del norte y Jurel.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de Abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
