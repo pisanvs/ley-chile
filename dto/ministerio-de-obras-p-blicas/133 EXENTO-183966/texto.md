@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 133, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 2, superficie 90 m2, rol de avalúo 208-81, comuna de Cobquecura, para la obra "Camino Cobquecura - Colmuyao - Mela, Sector Puente Nogueche, Km. 0,00000 a Km. 0,20800" y se acordó el valor de indemnización con su propietario Adolfo Pradenas Bahamondes, ascendente a la cantidad de $106.496.-
+
+Fiscal del Ministerio de Obras Públicas.
