@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.719, de 30 de junio de 2000, se expropió el lote de terreno Nº7, superficie 125 m²., rol de avalúo 63-205, comuna de Lago Ranco, para la obra Camino Ruta T-665, Tramos Accesos al Puente Calcurrupe, Km. 4.500,00 al Km. 6.400,00 y se acordó precio de la indemnización con su propietario Obispado de Valdivia, ascendente a la cantidad de $464.040.
+
+Fiscal del Ministerio de Obras Públicas.
