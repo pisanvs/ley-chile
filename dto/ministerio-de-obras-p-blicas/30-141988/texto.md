@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 30, de 26 de febrero de 1987, se expropiaron los lotes N°s. 3 y 6, cuyas superficies son 3.098 y 4.046 m2. respectivamente, roles de avalúos 102-152 y 102-24, Comuna de Machalí, para la obra Agua Potable de Rancagua, Captación, Aducción y, Planta de Filtros y se acordó el precio de indemnización con sus propietarios Héctor Fuentes Vallejos y Sociedad Agrícola San Juan Limitada, ascendentes a las cantidades de $ 658.325 y $ 786.125.-
+
+Fiscal del Ministerio de Obras Públicas. (16)
