@@ -1,0 +1,5 @@
+Por resolución Nº885, de 16 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 4º de la resolución Nº807 de 1998, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar la cuarta etapa de la pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº9801 denominado ''Monitoreo de las Capturas de Jurel en la Zona Centro Sur'', en el sentido de incluir a la nave ''Libas'', de propiedad de Pesquera Cojinova S.A., en la nónima de embarcaciones autorizadas para participar en la señalada pesca de investigación.
+
+La nave ''Libas'' tendrá derecho a capturar un límite máximo ascendente a 1020 toneladas, a contar de la fecha de la presente resolución, quedando sometida al cumplimiento de las obligaciones establecidas en la resolución Nº807 de 1998, antes individualizada.
+
+Valparaíso, 16 de junio de 1998.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
