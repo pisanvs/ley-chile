@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.838, de 28 de abril del 2000, se expropiaron los lotes de terreno Nºs. 66 y 68, superficies 1.252 m2. y 62 m2., rol de avalúo 172-13, comuna de Puchuncaví, para la obra ampliación Camino Nogales-Puchuncaví, Ruta F-20, Quinta Región y se acordó el valor de indemnización con su propietario Rigoberto Ahumada Díaz, ascendente a la cantidad total de $1.754.739.
+
+Fiscal del Ministerio de Obras Públicas.
