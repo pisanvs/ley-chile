@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCION EXENTA N° 727 DE 27.06.96 QUE DECLARA DESIERTO CONCURSO PUBLICO DE RADIODIFUSION SONORA DE MINIMA COBERTURA, CORRESPONDIENTE AL 3er. CUATRIMESTRE DE 1994.
+
+Por Resolución Exenta del Ministerio de Transportes y Telecomunicaciones N° 727, de 27.06.96, que se extracta, se declara desierto el concurso público correspondiente al 3er. Cuatrimestre de 1994, para las comunas que a continuación se extractan.
+
+Radiodifusión Sonora de Mínima Cobertura Arica, Antofagasta, Tocopilla, Vallenar, Los Vilos, Monte Patria, Ovalle, Salamanca, San Antonio, San Felipe, Marchihue, Linares, Cañete, Cobquecura, Contulmo, Curanilahue, El Carmen, Lebu, Los Alamos, Pemuco, Quilleco, San Fabián de Alico, Santa Bárbara, Tirúa, Tucapel, Angol, Ancud, Calbuco, Cochamó, Panguipulli, Puqueldón, Aysén, Cochrane, Coyhaique, Chile Chico, Ibáñez, Lago Verde, O'Higgins, Puerto Cisnes, Tortel, Puerto Natales, Punta Arenas, Buin, Cerrillos, Cerro Navia, Colina, Conchalí, La Florida, La Pintana, Lo Espejo, Pudahuel, Quilicura, San Bernardo, San Joaquín, San Miguel y Til-Til, no se presentaron solicitudes de concesión de Radiodifusión Sonora de Mínima Cobertura.
+
+Vicuña, Canela, La Estrella, Yungay, Calera de Tango, El Bosque, Estación Central, Independencia, La Granja, Lampa, Lo Barnechea, Lo Prado, Paine, Peñalolén, Puente Alto, Recoleta, San Ramón y Santiago no cumplen con los requisitos mínimos exigidos por las Bases Generales y Técnicas aprobadas por Resolución Exenta N° 1107 de 16.09.94.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13A inciso 6° de la Ley N° 18.168 (Ley General de Telecomunicaciones) a objeto de que el que tenga interés en ello pueda oponerse dentro del plazo de 10 días hábiles, contados desde la presente publicación. La oposición deberá presentarse por escrito ante el Ministro de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.-
+
+Subsecretario de Telecomunicaciones
