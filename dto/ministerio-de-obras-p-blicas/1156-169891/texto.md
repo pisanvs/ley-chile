@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.156, de 30 de marzo de 2000, se modificó el decreto MOP Nº351, de 26 de febrero de 1999, que autorizó la expropiación, entre otros, del lote Nº4-F, sin rol de avalúo, comuna San Carlos, para la obra Camino Ruta N-31, sector Tres Esquinas, Bifurcación El Palo, ordenándose la consignación judicial del valor provisional de la indemnización por haber quedado sin efecto el convenio directo de precio suscrito con el expropiado señor Juan Francisco Candia Parada. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
