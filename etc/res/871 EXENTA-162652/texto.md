@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 871 de 15 de Julio de 1985, conforme Art. 15° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden al sector expropiado predios "Primera y Segunda Porción ambas del Fundo Hijuela Norte o Número Dos de los Cerrillos" de la comuna de Curacaví, Región Metropolitana; y derechos aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 30, sitios N°s. 1 al 15, 17 al 28 y 30 al 38, del proyecto de parcelación "Unión Chilena" formado por los predios señalados. Los derechos de agua se extraen del canal Las Mercedes y del. Estero Cuesta Vieja.- Publicación hecha conforme Art. 13 Ley N° 18,877.
+
+- Director Ejecutivo.
