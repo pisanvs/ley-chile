@@ -1,0 +1,7 @@
+Por Resolución No. 1.313, de 30 de Octubre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don IDILIO RECABAL RIVAS, R.U.T. No. 4.749.640-3, domiciliado en calle Condell No. 940, Pelluhue, para ampliar actividades pesqueras que tiene autorizadas por Resolución No. 1.095, de 1988, de esta Subsecretaría, en orden a operar la nave en construcción denominada "Río Pelluhue I", en el litoral de las Regiones que a continuación se indica, donde podrá extraer los siguientes recursos hidrobiológicos: a) Entre la II Región y el paralelo 41° 28,6' L.S., con espinel: Congrio colorado, Congrio dorado y Congrio negro. b) Entre Punta Liles y el paralelo 41° 28,6' L.S., con espinel: Bacalao de profundidad o Mero.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por el peticionario, para extraer con la nave antes referida, los recursos hidrobiológicos y en las áreas de pesca no autorizadas, en el texto del presente Extracto, conforme a lo dispuesto en las normas legales, reglamentarias e Informes Técnicos citados en Vistos.
+
+Valparaíso, 30 de Octubre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
