@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA UNICHILE S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 1.204, de 03 de Noviembre de 1988, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Unichile S.A., RUT No. 96.527.420-0, domiciliada en la ciudad de Castro, Provincia de Chiloé, para iniciar actividades pesqueras, en orden a operar una planta industrial en el sector rural de Huicha, Km. 1,6 a Queilén, Chonchi, Provincia de Chiloé, X Región, donde procesará en las líneas de elaboración de Alcohol y sal el recurso Erizo. Seco-salado: Erizo, Calamar. Fresco-enfriado: Erizo Salmón del Pacífico Congrio dorado. Merluza del Sur, Mero. Conserva: Erizo, Calamar, Salmón del Pacífico, Merluza del Sur, Congrio dorado, Mero, Centolla, Jaiba, Pulpo, Navajuela, Caracol, Almeja, Macha, Ostión del Norte, Loco. Congelado: Erizo, Calamar, Centolla, Jaiba, Pulpo, Navajuela, Caracol, Almeja, Macha, Loco, Salmón del Pacífico, Merluza del Sur, Congrio dorado y Mero. Deberá adquirir el recurso Salmón del Pacífico de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 03 de Noviembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
