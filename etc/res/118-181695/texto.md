@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 118, de fecha 6 de diciembre del año 2000, se aprobó la reforma integral al estatuto de la Cooperativa de Ahorro y Crédito Libercoop Limitada, de sigla Libercoop Ltda., en adelante, Cooperativa de Ahorro y Crédito Libercoop, de sigla Libercoop, en los términos que da testimonio la escritura pública suscrita con fecha 6 de octubre del año 2000, ante el Notario Público de Santiago, don Fernando Opazo Larraín.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
