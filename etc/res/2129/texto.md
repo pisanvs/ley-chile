@@ -1,0 +1,3 @@
+Por resolución Nº 2.129, de 14 de octubre de 1999, de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 169 de 1997, de esta Subsecretaría, que autorizó a ALIMENTOS MARINOS S.A., para desarrollar actividades pesqueras extractivas, en el sentido de modificar el plazo de inicio de actividades en la unidad de pesquería Jurel, X Región, indicando que éste es de dos años contados desde la fecha de publicación del extracto de dicha resolución en el Diario Oficial, esto es, el 11 de febrero de 1997.
+
+Valparaíso, 14 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
