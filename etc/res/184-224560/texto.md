@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 184, 6 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 2010, Rol de Avalúo Nº 843-7, comuna Concepción, superficie 28,83 m². de terreno y 87,50 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-18338; de aparente dominio de José C. Opazo Flores, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Víctor Felipe Toledo Quijada, arquitecto, Alvaro Hernán Berríos San Martín, arquitecto, y Roxana Cecilia Abarzúa Gajardo, ingeniero constructor, según informe de fecha 5 de marzo de 2004, fijó monto provisional indemnización en $19.532.193.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
