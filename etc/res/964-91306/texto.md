@@ -1,0 +1,3 @@
+Por resolución No. 964 de 24.10.89 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado en calle San Ignacio No. 2544, presunto rol avalúos No. 861-18, comuna San Miguel, aparentemente dominio de don Ricardo Cabezón Narejo. Comisión integrada por peritos Srs. Jorge Cavagnaro Michelis, ingeniero civil, Luis del Pozo Concha, arquitecto y Luis Rojas Quezada, constructor civil, según informe de 20 de julio de 1989, fijó monto provisional indemnización en $ 1.868.000.- pagadera al contado.
+
+Director SERVIU Metropolitano.
