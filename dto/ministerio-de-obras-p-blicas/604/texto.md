@@ -1,0 +1,3 @@
+Por decreto MOP Nº 604, de 30 de abril de 1998, se expropió el lote de terreno Nº 70, superficie 138 m2, rol de avalúo 24-52, comuna de Calle Larga, para la obra Camino Ruta 57 Ch, Santiago Los Andes, sector Túnel Chacabuco Bifurcación Auco y se acordó precio de indemnización con su propietario Arturo Manzur Manzur, ascendente a la cantidad de $ 3.857.618.-
+
+Fiscal del Ministerio de Obras Públicas.
