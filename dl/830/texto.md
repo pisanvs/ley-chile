@@ -330,7 +330,7 @@ La presentación de declaraciones con el objeto de determinar la procedencia o l
 
 #### Artículo 30
 
-Las declaraciones se presentarán por escrito, bajo juramento, en las oficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exigencias que ésta determine. Asimismo, podrán ser remitidas por carta certificada a dichas oficinas.
+Las declaraciones se presentarán por escrito, bajo juramento, en las oficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exigencias que ésta determine.
 
 La Dirección podrá autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos.
 
@@ -808,6 +808,10 @@ En todo caso, no se exigirá la exhibición del certificado de inscripción en e
 
 Asimismo, no regirá lo dispuesto en los artículos 66° y 89° respecto de aquellas personas a quienes la ley les haya eximido de las obligaciones contempladas en dichos artículos.
 
+#### Artículo 92° bis
+
+La Dirección podrá disponer que los documentos que mantenga bajo su esfera de resguardo, se archiven en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos. El Director también podrá autorizar a los contribuyentes a mantener su documentación en medios distintos al papel. La impresión en papel de los documentos contenidos en los referidos medios, tendrá el valor probatorio de instrumento público o privado, según la naturaleza del original. En caso de disconformidad de la impresión de un documento archivado tecnológicamente con el original o una copia auténtica del mismo, prevalecerán estos últimos sin necesidad de otro cotejo.
+
 # Libro Segundo
 
 De los apremios y de las infracciones y sanciones
@@ -864,11 +868,11 @@ De los contribuyentes y otros obligados
 
 Las siguientes infracciones a las disposiciones tributarias serán sancionadas en la forma que a continuación se indica:
 
-1°.- El retardo u omisión en la presentación de declaraciones, informes o solicitudes de inscripciones en roles o registros obligatorios, que no constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de una unidad tributaria mensual a una unidad tributaria anual.
+1°.- El retardo u omisión en la presentación de declaraciones, informes o solicitudes de inscripciones en roles o registros obligatorios, que no constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de una unidad tributaria mensual a una unidad tributaria anual. En caso de retardo u omisión en la presentación de informes referidos a operaciones realizadas o antecedentes relacionados con terceras personas, se aplicarán las multas contempladas en el inciso anterior. Sin embargo, si requerido posteriormente bajo apercibimiento por el Servicio, el contribuyente no da cumplimiento a estas obligaciones legales en el plazo de 30 días, se le aplicará además, una multa que será de hasta 0,2 Unidades Tributarias Mensuales por cada mes o fracción de mes de atraso y por cada persona que se haya omitido, o respecto de la cual se haya retardado la presentación respectiva. Con todo, la multa máxima que corresponda aplicar no podrá exceder a 30 Unidades Tributarias Anuales, ya sea que el infractor se trate de un contribuyente o de un Organismo de la Administración del Estado.
 
 2°.- El retardo u omisión en la presentación de declaraciones o informes, que constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de diez por ciento de los impuestos que resulten de la liquidación, siempre que dicho retardo u omisión no sea superior a 5 meses. Pasado este plazo, la multa indicada se aumentará en un dos por ciento por cada mes o fracción de mes de retardo, no pudiendo exceder el total de ella del treinta por ciento de los impuestos adeudados.
 
-Esta multa no se impondrá en aquellas situaciones en que proceda también la aplicación de la multa por atraso en el pago, establecida en el N° 11 de este artículo y la declaración no haya podido efectuarse por tratarse de un caso en que no se acepta la declaración sin el pago.
+Esta multa no se impondrá en aquellas situaciones en que proceda también la aplicación de la multa por atraso en el pago, establecida en el N° 11 de este artículo y la declaración no haya podido efectuarse por tratarse de un caso en que no se acepta la declaraci�n sin el pago.
 
 El retardo u omisión en la presentación de declaraciones que no impliquen la obligación de efectuar un pago inmediato, por estar cubierto el impuesto a juicio del contribuyente, pero que puedan constituir la base para determinar o liquidar un impuesto, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
@@ -896,7 +900,7 @@ Si, como medio para cometer los delitos previstos en los incisos anteriores, se 
 
 En el caso de las infracciones señaladas en el inciso primero, éstas deberán ser, además, sancionadas con clausura de hasta 20 días de la oficina, estudio, establecimiento o sucursal en que hubiere cometido la infracción.
 
-La reiteración de las infracciones señaladas en el inciso primero se sancionar� además con presidio o relegación menor en su grado máximo. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a tres años.
+La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menor en su grado máximo. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a tres años.
 
 Para los efectos de aplicar la clausura, el Servicio podrá requerir el auxilio de la fuerza pública, la que será concedida sin ningún trámite previo por el Cuerpo de Carabineros, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario. En todo caso, se pondrán sellos oficiales y carteles en los establecimientos clausurados.
 
@@ -947,6 +951,8 @@ Para llevar a efecto la medida de que trata el inciso anterior, el funcionario e
 La sanción pecuniaria establecida en el inciso precedente podrá hacerse efectiva indistintamente en contra del que compre, venda o mantenga fajas de control y entradas a espectáculos públicos en forma ilícita.
 
 19°.- El incumplimiento de la obligación de exigir el otorgamiento de la factura o boleta, en su caso, y de retirarla del local o establecimiento del emisor, será sancionado con multa de hasta una unidad tributaria mensual en el caso de las boletas, y de hasta veinte unidades tributarias mensuales en el caso de facturas, previos los trámites del procedimiento contemplado en el artículo 165 de este Código, y sin perjuicio de que al sorprenderse la infracción, el funcionario del Servicio pueda solicitar el auxilio de la fuerza pública para obtener la debida identificación del infractor, dejándose constancia en la unidad policial respectiva.
+
+20°.- La deducción como gasto o uso del crédito fiscal que efectúen, en forma reiterada, los contribuyentes del impuesto de Primera Categoría de la Ley de la Renta, que no sean sociedades anónimas abiertas, de desembolsos que sean rechazados o que no den derecho a dicho crédito, de acuerdo a la Ley de la Renta o al decreto ley Nº 825, de 1974, por el hecho de ceder en beneficio personal y gratuito del propietario o socio de la empresa, su cónyuge o hijos, o de una tercera persona que no tenga relación laboral o de servicios con la empresa que justifique el desembolso o el uso del crédito fiscal, con multa de hasta el 200% de todos los impuestos que deberían haberse enterado en arcas fiscales, de no mediar la deducción indebida.
 
 #### Artículo 98
 
@@ -1542,11 +1548,11 @@ Procedimientos especiales para la aplicación de ciertas multas
 
 #### Artículo 165
 
-Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7°, 10°, 11° y 17, 19°, del artículo 97, se someterán al procedimiento que a continuación se señala:
+Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7°, 10°, 11°, 17, 19° y 20 del artículo 97, se someterán al procedimiento que a continuación se señala:
 
-1°- Las multas establecidas en los números 1, 2 y 11 del artículo 97 serán determinadas por el Servicio, por Tesorerías o por los propios contribuyentes, y aplicadas sin otro trámite que el de ser giradas por el Servicio o Tesorerías o solucionadas por el contribuyente al momento de presentar la declaración o de efectuar el pago.
+1°- Las multas establecidas en los números 1, inciso primero, 2 y 11 del artículo 97 serán determinadas por el Servicio, por Tesorerías o por los propios contribuyentes, y aplicadas sin otro trámite que el de ser giradas por el Servicio o Tesorerías o solucionadas por el contribuyente al momento de presentar la declaración o de efectuar el pago.
 
-2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
+2°- En los casos a que se refieren los números 1, incisos segundo y final, 6°, 7°, 10°, 17, 19 y 20 del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
 3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar por escrito, dentro del plazo de quince días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
 
@@ -1566,7 +1572,7 @@ En contra de la sentencia de segunda instancia no procerán los recursos de casa
 
 8°- Los Directores Regionales podrán delegar las funciones y la facultad que se señala en los números 3°, 4° y 5° de este artículo en los funcionarios de su jurisdicción que designe, conforme a las instrucciones que al respecto imparta el Director.
 
-> **Nota.** Las letras c) y d) del Art. 8° del DL 2869, Hacienda, publicado el 29.09.1979, reemplazaron en el inciso primero y en el N° 2 la conjunción "y" por una coma, y agregaron a continuación de los números 11 y 10, respectivamente, lo siguiente: "y 17".
+9°.- La interposición de reclamo en contra de la liquidación de los impuestos originados en los hechos infraccionales sancionados en el Nº20 del artículo 97º, suspenderá la resolución de la reclamación que se hubiere deducido en contra de la notificación de la citada infracción, hasta que la sentencia definitiva que falle el reclamo en contra de la liquidación quede ejecutoriada.
 
 ### Párrafo 3° — .
 
@@ -1746,11 +1752,11 @@ El recaudador fiscal procederá al retiro de las cosas muebles embargadas, debie
 
 Con todo si el traslado resultare difícil u oneroso el Juez autorizará que las especies embargadas permanezcan en su lugar de origen y la subasta la efectúe el Tesorero Comunal, sin derecho a comisión por ello.
 
-#### Artículo 185°
+#### Artículo 185
 
-La subasta de los bienes raíces será decretada por el Juez de la causa, a solicitud del respectivo Abogado Provincial, cualesquiera que sean los embargos o prohibiciones que les afecten, decretados por otros juzgados.
+La subasta de los bienes raíces será decretada por el Juez de la causa, a solicitud del respectivo Abogado Provincial, cualesquiera que sean los embargos o prohibiciones que les afecten, decretados por otros juzgados, teniendo como única tasación la que resulte de multiplicar por 1,3 veces el avalúo fiscal que esté vigente para los efectos de la contribución de bienes raíces.
 
-Los avisos a que se refiere el artículo 489 del Código de Procedimiento Civil, se reducirán en estos juicios a dos publicaciones en un diario de los de mayor circulación del departamento o de la cabecera de la provincia, si en aquél no lo hay. En dichos avisos deberán indicarse a lo menos los siguientes antecedentes: nombre del dueño del inmueble, su ubicación, tipo de impuesto y período, número del rol, si lo hubiere, y el Tribunal que conoce del juicio. El Servicio de Tesorerías deberá emplear todos los medios a su alcance para dar la mayor publicidad posible a la subasta.
+Los avisos a que se refiere el artículo 489 del Código de Procedimiento Civil, se reducirán en estos juicios a dos publicaciones en un diario de los de mayor circulación del departamento o de la cabecera de la provincia, si en aquél no lo hay. En dichos avisos deberán indicarse a lo menos los siguientes antecedentes: nombre del dueño del inmueble, su ubicación, tipo de impuesto y período, número de rol, si lo hubiere, y el Tribunal que conoce del juicio. El Servicio de Tesorerías deberá emplear todos los medios a su alcance para dar la mayor publicidad posible a la subasta.
 
 #### Artículo 186°
 
