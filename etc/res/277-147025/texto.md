@@ -1,0 +1,5 @@
+AUTORIZA A DITZEL CABRERA Y CIA. LTDA. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 277 de 06 de Abril de 1987, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Ditzel Cabrera y Cia. Ltda., para iniciar actividades pesqueras de transformación en su planta industrial ubicada en Avenida Brasil No. 65, Calbuco, X Región; en la línea de congelado y conserva, donde procesará los siguientes recursos hidrobiológicos: Línea conservería: almeja, navajuela, culengues, cholga, chorito, caracol, loco, macha, pulpo, calamar, erizo, centolla, centollón, jaiba, pejerrey, sardina común, sardina española, jurel, sierra, picoroco, piure, lapa. Línea congelado: almeja, navajuela, caracol, loco, macha, calamar, erizo, centolla, centollón, jaiba, pejerrey, congrio, mero o bacalao, merluza, jurel, corvina, lisa, chorito, cholga.
+
+Valparaíso, 06 de Abril de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
