@@ -1,0 +1,3 @@
+Por decreto MOP. No 363, de 31 de marzo de 1998, se expropió el lote de terreno No 3, superficie 37,3 M2., rol de avalúo No 134-55, comuna de Sagrada Familia, para la obra Camino Cruce Long. (Lontué) - Villa Prat Pte. Lautaro (Licantén) Pasada por Villa Prat, se acordó precio de la indemnización con su propietaria Hermosina Herrera Saavedra y otros, ascendente a la cantidad de $187.332.
+
+Fiscal del Ministerio de Obras Públicas.
