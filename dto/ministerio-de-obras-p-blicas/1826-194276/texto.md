@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.826, de 31 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2-A, para la obra Camino Fresia-Parga-Llico- Las Cañitas, Rol V-46, Kms 14.835 al 48.580, que figura a nombre de Schwerter Ojeda Luis Nolberto, Rol de avalúo 164-85, superficie 136 m2, comuna de Fresia. La comisión de peritos, con fecha 26 de agosto de 1999, fijó la indemnización provisional en la cantidad de $3.302.200, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
