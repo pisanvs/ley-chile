@@ -1,0 +1,3 @@
+Por decreto MOP Nº 286, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 3, superficie 20.715 m2, rol de avalúo 5028-210, comuna de Punta Arenas, para la obra "Actualización Proyecto Canal de Trasvase Estero Llau-Llau a Estero Bitsch de Punta Arenas Fase I. Tramo Km. 1,384 a Km. 2,409" y se acordó el valor de indemnización con su propietaria Julieta Hermosilla Torres, ascendente a la cantidad de $43.818.864.-
+
+Fiscal del Ministerio de Obras Públicas.
