@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.000, de 26 de junio de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº55-3, para la obra: "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector C: Km. 56.300,00 al Km.
+
+68.450,00", Sexta Región, que figura a nombre de Soc. Agrícola Challay Ltda., rol de avalúo 136-197, comuna de San Fco. Mostazal, superficie 2.959 m2. La comisión de peritos integrada por los señores Paola Andrea Domingo Porcella, Marlene Teresa Rios Marcuello y Jaime Rolando Jürgens Bittner, fijó con fecha 17 de octubre de 2000, el valor provisional de la indemnización en la cantidad de $29.268.350.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
