@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.653, de 27 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 6 y 9, para la obra Camino Fresia - Parga - Llico - Las Cañitas, Rol V-46, Kms 14.835 al 34.000, que figuran a nombre de Silverio Arnoldo Diez Carrasco, rol de avalúo 164-23, superficies 715 m2. y 85 m2., comuna de Fresia. La Comisión de Peritos, con fecha 10 de julio de 1998, la indemnización provisional en las cantidades de $143.000, lote Nº6 y $50.200, lote Nº9, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
