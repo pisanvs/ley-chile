@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.687, de 24 de junio de 1999, se expropió el lote de terreno No. 68-A, superficie 437 m2., rol de avalúo 607-56, comuna de Mulchén, para la obra "Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli", Octava Región y se acordó el valor de indemnización con sus propietarios Segundo Bernardino Friz Beltrán y otro, ascendente a la cantidad de $ 176.898.-
+
+Fiscal del Ministerio de Obras Públicas.
