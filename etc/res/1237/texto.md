@@ -1,0 +1,7 @@
+Por resolución N° 1.237, de 11 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a TRUSAL S.A., R.U.T. N° 96.566.740-7, domiciliada en Avenida Condell N° 272, Santiago, para desarrollar actividades pesqueras de acuicultura, en orden a instalar y operar un establecimiento de cultivo denominado La Tablilla, ubicado en Ralún, Estuario de Reloncaví, Comuna de Cochamó, Provincia de Llanquihue, X Región, en donde realizará las etapas de incubación, alevinaje de los recursos trucha arcoiris, Oncorhynchus mykiss, salmón plateado, Oncorhynchus kisutch, salmón rey Oncorhynchus tshawytscha, salmón del atlántico, Salmo salar y salmón cereza, Oncorhynchus massou, de conformidad al proyecto técnico presentado y aprobado por esta Resolución.
+
+La piscicultura en tierra tiene las siguientes coordenadas en U.T.M. de acuerdo a Carta del Instituto Geográfico Militar N° 4115-7215:
+
+Punto Medio Lat. 413.490 N Long. 723.200 E Punto Bocatoma Lat. 413.450 N Long. 723.035 E Punto Descarga Lat. 413.547 N Long. 723.365 E Previo al ejercicio de las actividades autorizadas la interesada deberá inscribirse oportunamente en el Registro Nacional de Acuicultura, que llevará el Servicio Nacional de Pesca.
+
+Valparaíso, 11 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
