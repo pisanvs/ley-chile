@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.026 de fecha 28 de junio del 2002, se expropió el lote de terreno Nº31, superficie 516,20 m2, rol Nº137-209, comuna de Paine, Región Metropolitana, para la obra ''Camino Sin Rol, Sector Peralillo - Abrantes, Tramo Km. 0,0000 al 6,03921'' y se acordó el valor de indemnización con su propietario Juan Carlos Vargas Gómez, ascendente a la cantidad de $2.198.644.-
+
+Fiscal del Ministerio de Obras Públicas.
