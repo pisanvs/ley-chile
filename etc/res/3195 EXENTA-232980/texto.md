@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.195 de 8 de noviembre de 2004, de esta Subsecretaría, autorízase a las organizaciones de pescadores artesanales que a continuación se indican para operar en períodos distintos a los establecidos para sus respectivas flotas, de conformidad con lo establecido en el inciso final del numeral 8º de la resolución Nº 3.619 de 2004, de esta Subsecretaría: SIND. GALA-ANTONIO RONCHI, SIND. PUYUHUAPI-B.M. PESC. ARTES., SIND. ANDRADE-ISLAS HUICHAS, SIND. ANDRADE-FRANCISCO ANDRADE, SIND. AYSEN-LOS CHONOS.
+
+Para los efectos de la operación antes indicada, las organizaciones de pescadores artesanales deberán informar, con 48 horas de anticipación a la Subsecretaría de Pesca, las fechas de las actividades extractivas, las que sólo podrán ser efectuadas por una misma organización durante un máximo de 4 días en una semana calendario, por sólo una vez al mes. Sin perjuicio de lo anterior, no se permitirá la operación de más de una organización de pescadores artesanales en una misma semana calendario.
+
+Valparaíso, 8 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
