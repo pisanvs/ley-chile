@@ -1,0 +1,3 @@
+Por decreto MOP Nº 425 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 5, superficie 1.276 m², Rol de Avalúo Nº 202-82, comuna de Los Alamos, para la obra "Camino Ruta P-46, Sector Los Alamos - Sara de Lebu, Km. 0,00000 a Km. 16,84000" y se acordó el valor de indemnización con su propietario Francisco Humberto Peña Troncoso, ascendente a la cantidad de $18.526.666.
+
+Fiscal del Ministerio de Obras Públicas.
