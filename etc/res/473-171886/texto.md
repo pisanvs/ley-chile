@@ -1,0 +1,5 @@
+En cumplimiento de lo dispuesto por los decretos del Ministerio de Economía Nº 291, de 11 de junio de 1999, y Nº 668 de 16 de noviembre de 1999, certifico que por resolución (E) Nº 473, de 30 de junio de 2000, del Sr. Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción, se definieron las áreas industriales y localidades de la provincia de Valparaíso donde se aplicarán los Subsidios Contingentes y Cauciones Solidarias para el financiamiento de proyectos de inversión en Zonas de Reconversión Productiva, dejando sin efecto la resolución Nº 433 (E), de 15 de junio de 2000, relativa al mismo tema.
+
+El texto completo de la resolución Nº 473 (E), de 30-06-2000, estará a disposición de los usuarios en la Secretaría General de la Corporación y en las Direcciones Regionales.
+
+Santiago, 30 de junio de 2000.- Yerko Koscina Peralta, Secretario General, Corporación de Fomento de la Producción.
