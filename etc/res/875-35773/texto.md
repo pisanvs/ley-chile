@@ -1,0 +1,7 @@
+#### Artículo 1
+
+<!-- parte:8294674 -->
+
+Por Resolución N° 875, de 20 de Julio de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SANTA LUCIA S.A., R.U.T. N° 96.527.920-2, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Camino Público a Quintero s/n, Quintero, en las líneas de elaboración de Fresco-enfriado, Congelado y Ahumado, los recursos hidrobiológicos Reineta Lepidotus australis y Loco Concholepas concholepas.
+
+Valparaíso, 20 de Julio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
