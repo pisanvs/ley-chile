@@ -1,0 +1,7 @@
+Por resolución exenta Nº 439, de 17 de febrero de 2005, de esta Subsecretaría, autorízase al INSTITUTO DE CIENCIA Y TECNOLOGIA DE LA UNIVERSIDAD ARTURO PRAT para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto "Caracterización de las especies principales y secundarias de la pesca recreativa del río Petrohué y sus afluentes".
+
+El objetivo de la pesca de investigación consiste en realizar una caracterización biológica - pesquera de las especies principales y secundarias de la pesca recreativa del río Petrohué y sus afluentes, y determinar la abundancia de las especies nativas existentes.
+
+La pesca de investigación se efectuará por el término de seis meses, en la subcuenca del río Petrohué, X Región. El peticionario podrá realizar 6 campañas en 20 estaciones de muestreo, donde podrá capturar mediante pesca con mosca, pesca de orilla, red de enmalle y pesca eléctrica, sin devolución, en cada estación y en cada campaña, 10 ejemplares de Salmón plateado, Trucha arcoiris, Salmón rey, Salmón del Atlántico y Trucha café; y 5 ejemplares de Trucha de arroyo, Perca, Puye grande, Pejerrey y Peladilla.
+
+Valparaíso, 17 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
