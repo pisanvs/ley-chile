@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.131 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 86, superficie 1.336,00 m², rol Nº 62-35, comuna de Lampa, para la obra "Camino Ruta G-16, sector Lampa - Polpaico, tramo Km. 19,72359 a Km. 34,51667", Región Metropolitana y se acordó el valor de la indemnización con su propietario Víctor Manuel Morales Amador, ascendente a la cantidad de $4.214.210.
+
+Fiscal del Ministerio de Obras Públicas.
