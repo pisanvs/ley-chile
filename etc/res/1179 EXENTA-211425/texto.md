@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.179 de 6 de junio de 2003 de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.125 de 2003 de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Evaluación hidroacústica del recurso jurel entre la V y X Regiones, año 2003", en el sentido de señalar que el área de operación de la investigación se extenderá hasta las 400 millas náuticas.
+
+Valparaíso, 6 de junio de 2003.- Edith Saa Collantes, Subsecretario de Pesca (S).
