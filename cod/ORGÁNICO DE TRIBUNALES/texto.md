@@ -214,7 +214,7 @@ Primera Región de Tarapacá:
 
 Arica, con cinco jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
 
-Iquique, con cinco jueces, con competencia sobre la misma comuna.
+Iquique, con cinco jueces, con competencia sobre las comunas de Iquique y Alto Hospicio.
 
 Segunda Región de Antofagasta:
 
@@ -312,7 +312,7 @@ Yungay, con un juez, con competencia sobre las comunas de El Carmen, Pemuco, Yun
 
 Tomé, con un juez, con competencia sobre la misma comuna.
 
-Talcahuano, con cuatro jueces, con competencia sobre la misma comuna.
+Talcahuano, con cuatro jueces, con competencia sobre las comunas de Talcahuano y Hualpén.
 
 Concepción, con siete jueces, con competencia sobre las comunas de Penco y Concepción.
 
@@ -334,7 +334,7 @@ Angol, con un juez, con competencia sobre las comunas de Angol y Renaico.
 
 Victoria, con un juez, con competencia sobre la misma comuna.
 
-Nueva Imperial, con un juez, con competencia sobre las comunas de Nueva Imperial y Teodoro Schmidt.
+Nueva Imperial, con un juez, con competencia sobre las comunas de Nueva Imperial, Cholchol y Teodoro Schmidt.
 
 Temuco, con seis jueces, con competencia sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco y Padre Las Casas.
 
@@ -480,7 +480,7 @@ Primera Región de Tarapacá:
 
 Arica, con seis jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
 
-Iquique, con nueve jueces, con competencia sobre las comunas de Huara, Camiña, Colchane, Iquique, Pozo Almonte y Pica.
+Iquique, con nueve jueces, con competencia sobre las comunas de Huara, Camiña, Colchane, Iquique, Pozo Almonte, Alto Hospicio y Pica.
 
 Segunda Región de Antofagasta:
 
@@ -534,9 +534,9 @@ Octava Región del Bío Bío:
 
 Chillán, con seis jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Niquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ranquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo.
 
-Concepción, con dieciocho jueces, con competencia sobre las comunas de Tomé, Penco, Florida, Concepción, Coronel, Hualqui, Lota, Santa Juana, Talcahuano, San Pedro de la Paz y Chiguayante.
+Concepción, con dieciocho jueces, con competencia sobre las comunas de Tomé, Penco, Florida, Concepción, Coronel, Hualqui, Lota, Santa Juana, Talcahuano, San Pedro de la Paz, Hualpén y Chiguayante.
 
-Los Angeles, con seis jueces, con competencia sobre las comunas de San Rosendo, Yumbel, Cabrero, Laja, Los Angeles, Antuco, Quilleco, Nacimiento, Negrete, Mulchén, Santa Bárbara y Quilaco.
+Los Angeles, con seis jueces, con competencia sobre las comunas de San Rosendo, Yumbel, Cabrero, Laja, Los Angeles, Antuco, Quilleco, Nacimiento, Negrete, Mulchén, Santa Bárbara, Alto Biobío y Quilaco.
 
 Cañete, con seis jueces, con competencia sobre las comunas de Arauco, Curanilahue, Lebu, Los Alamos, Cañete, Contulmo y Tirúa.
 
@@ -544,7 +544,7 @@ Novena Región de La Araucanía:
 
 Angol, con tres jueces, con competencia sobre las comunas de Angol, Renaico, Collipulli, Purén, Los Sauces, Ercilla, Lumaco, Traiguén y Victoria.
 
-Temuco, con nueve jueces, con competencia sobre las comunas de Lonquimay, Curacautín, Galvarino, Perquenco, Carahue, Nueva Imperial, Temuco, Lautaro, Vilcún, Melipeuco, Saavedra, Teodoro Schmidt, Freire, Cunco, Toltén, Pitrufquén, Gorbea y Padre Las Casas.
+Temuco, con nueve jueces, con competencia sobre las comunas de Lonquimay, Curacautín, Galvarino, Perquenco, Carahue, Nueva Imperial, Temuco, Lautaro, Vilcún, Melipeuco, Saavedra, Teodoro Schmidt, Freire, Cunco, Toltén, Pitrufquén, Gorbea, Cholchol y Padre Las Casas.
 
 Villarrica, con tres jueces, con competencia sobre las comunas de Loncoche, Villarrica, Pucón y Curarrehue.
 
@@ -746,7 +746,7 @@ Cuatro juzgados con asiento en la comuna de Arica, con competencia sobre las com
 
 Un juzgado con asiento en la comuna de Pozo Almonte, con competencia sobre las comunas de Pica, Pozo Almonte, Huara, Colchane y Camiña, y
 
-Tres juzgados con asiento en la comuna de Iquique, con competencia sobre la misma comuna.
+Tres juzgados con asiento en la comuna de Iquique, con competencia sobre las comunas de Iquique y Alto Hospicio.
 
 #### Artículo 29
 
@@ -914,7 +914,7 @@ Dos juzgados de letras en lo civil, con asiento en la comuna de Chillán, con co
 
 Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante, y
 
-Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con competencia sobre la misma comuna, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con competencia sobre las comunas de Talcahuano y Hualpén, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 B.- JUZGADOS CON COMPETENCIA COMUN:
 
@@ -930,7 +930,7 @@ Un juzgado con asiento en la comuna de Quirihue, con competencia sobre las comun
 
 Tres juzgados con asiento en la comuna de Los Angeles, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco;
 
-Un juzgado con asiento en la comuna de Santa Bárbara, con competencia sobre la misma comuna y la comuna de Quilaco;
+Un juzgado con asiento en la comuna de Santa Bárbara, con competencia sobre las comunas de Santa Bárbara, Quilaco y Alto Biobío;
 
 Un juzgado con asiento en la comuna de Mulchén, con competencia sobre la comuna de Mulchén;
 
@@ -992,7 +992,7 @@ Un juzgado con asiento en la comuna de Pitrufquén, con competencia sobre las co
 
 Un juzgado con asiento en la comuna de Villarrica, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Nueva Imperial, con competencia sobre las comunas de Nueva Imperial y Teodoro Schmidt;
+Un juzgado con asiento en la comuna de Nueva Imperial, con competencia sobre las comunas de Nueva Imperial, Cholchol y Teodoro Schmidt;
 
 Un juzgado con asiento en la comuna de Pucón, con competencia sobre las comunas de Pucón y Curarrehue;
 
@@ -2064,7 +2064,7 @@ Para el efecto de determinar la competencia se reputarán de mayor cuantía los 
 
 1°) Las cuestiones relativas al estado civil de las personas;
 
-2°) Las relativas a la separación de bienes entre marido y mujer, o a la crianza y cuidado de los hijos;
+2°) Las relacionadas con la separación judicial o de bienes entre marido y mujer, o con la crianza y cuidado de los hijos;
 
 3°) Las que versen sobre validez o nulidad de disposiciones testamentarias, sobre petición de herencia, o sobre apertura y protocolización de un testamento y demás relacionadas con la apertura de la sucesión; y
 
@@ -2973,6 +2973,8 @@ Deben resolverse por árbitros los asuntos siguientes:
 5°) Los demás que determinen las leyes.
 
 Pueden, sin embargo, los interesados resolver por sí mismos estos negocios, si todos ellos tienen la libre disposición de sus bienes y concurren al acto, sin perjuicio de lo dispuesto en el artículo 802 del Código de Procedimiento Civil.
+
+Los interesados, de común acuerdo, pueden también solicitar al juez que conoce el procedimiento sobre la separación judicial, la declaración de nulidad del matrimonio o el divorcio, que liquide la sociedad conyugal o el régimen de participación en los gananciales que hubo entre los cónyuges.
 
 #### Artículo 228
 
@@ -4019,6 +4021,8 @@ En todo caso, las partes, de común acuerdo, podrán suspender la tramitación d
 Durante el mismo período deberá quedar actuando una Sala en cada Corte de Apelaciones, en conformidad al turno que ella establezca. Dicha Sala tendrá las facultades y atribuciones que corresponden al tribunal pleno, con excepción de los desafueros de diputados y senadores.
 
 En Santiago permanecerán en funciones durante el feriado de vacaciones dos salas, de acuerdo con el turno que al efecto determine la Corte de Apelaciones, las que reunidas y con un quórum mínimo de cinco miembros tendrán las facultades y atribuciones que se indican en el inciso precedente.
+
+Con todo, el pleno de cada Corte de Apelaciones podrá acordar el funcionamiento de más salas durante el feriado de vacaciones, por razones de buen servicio.
 
 El Ministro más antiguo de cada Corte de Apelaciones, que forme parte de la Sala a que se refiere este artículo, tendrá las facultades y atribuciones del Presidente del Tribunal.
 
