@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 316, de 29 de diciembre de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 9-A, 103-A, 104, 133-A y 133-B, para la obra Camino Ruta W-59, sector Dalcahue-Achao, Kms. 0,0 al 19,71856, que figuran a nombre de José Julio Obando Obando, José A. Oyarzún Gallardo, Juan B-Suc. Ruiz Barría, María Uribe Ruiz y ot. y José A. Oyarzún G., roles de avalúo 121-7, 145-65, 145-24, 146-16 y 41-1, superficies 1,239 m²; 116,33 m²; 1.216,24 m²;
+
+91,65 m²; y 303,98 m², comunas de Curaco de Velez y Quinchao. La Comisión de Peritos, con fecha 21 de octubre de 1999, fijó la indemnización provisional en las cantidades de $185.850, lote 9-A, $23.266, lote 103-A, $54.990, lote 133-A, y $136.791, lote 133-B y con fecha 27 de octubre de 1997, en la cantidad de $145.949, lote 104, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
