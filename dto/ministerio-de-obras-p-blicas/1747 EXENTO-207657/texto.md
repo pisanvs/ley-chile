@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.747, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº 48, superficie 261 m2, rol de avalúo Nº 187-234, comuna de San Vicente, VI Región, para la obra ''Proyecto Mejoramiento Ruta H-830, Sector San Vicente - El Cardal - Millahue, Tramo Km. 0,000 al 8,622'', y se acordó el valor de indemnización con su propietario don Juan Antonio Ruperto Chacón Irribarra ascendente a la cantidad de $1.539.087.
+
+Fiscal del Ministerio de Obras Públicas.
