@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1064 de 12 de Agosto de 1986, conforme Art.
+
+5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "San Adriano", "Santa Agueda", "Santa Elena", "Hijuela Cuarta denominada Los Montes de San Sebasti n" y "Los Montes de San Pancracio" de la Comuna de Río Claro, VII Región; y Derechos Aprovechamiento Aguas que corresponden a 35 parcelas N°s. 1 a la 35, sitios 1 al 15, y Reserva Cora No. 1 del Proyecto de Parcelación "Santa Agueda" formado por predios señalados. Los Derechos de Agua se extraen de los canales Galpón (derivado del Río Claro, Purísima Concepción derivado Río Lontué), Canal Derecho (derivado Estero Huape) y canales Huape Alto y Huape Bajo (ambos derivados del Estero Huape). Derrames del Fundo Odessa y de las Hijuelas II y V del Fundo El Galpón.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+- Director Ejecutivo.
