@@ -1,0 +1,5 @@
+Por resolución Nº1.132, de 3 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la resolución Nº1543, de 1990 de esta Subsecretaría, que autorizó a PESQUERA INDO S.A., R.U.T. Nº92.484.000-5, domiciliada en Arica, para sustituir las embarcaciones que se individualizan en el numeral 1º de dicha resolución, por 4 naves en construcción, en el sentido de precisar que las naves reemplazadas son las siguientes;
+
+"Chuzmiza", "Ticnamar", "Tiliviche", autorizadas por la resolución Nº260, de 1978; "Codpa", "Belén", autorizadas por la resolución Nº175, de 1980 y "Zapiga", autorizada por la resolución Nº397, de 1980; "Poconchile" y "Putre", autorizada por resolución Nº397 de 1980, modificada por la resolución Nº340, de 1983; "Puchuldiza", autorizada por resolución Nº477, de 1980 y "Socoroma", autorizada por resolución Nº95, de 1984, toda de esta Subsecretaría.
+
+Valparaíso, 3 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
