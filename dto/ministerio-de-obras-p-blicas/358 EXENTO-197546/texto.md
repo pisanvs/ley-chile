@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº358 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº5-A, superficie 351,37 m2., Rol de Avalúo Nº1252-164, comuna de Parral, para la obra "Camino Ruta L-70, sector Cruce Ruta 128 - Cuatro Esquinas, Km. 0,000 a Km. 15,800, comuna de Parral y Retiro, Provincia de Linares", VII Región y se acordó el valor de indemnización con su propietario Juan Esteban González Badilla, ascendente a la cantidad de $755.225.-
+
+Fiscal del Ministerio de Obras Públicas.
