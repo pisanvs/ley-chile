@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 722, de 31 de julio de 1997, se expropió el lote de terreno Nº 41-A, superficie 371,40 m², rol de avalúo en trámite, comuna de Marchigüe, para la obra Camino San Fernando - Pichilemu, Sector La Rosa - Alto Colorado (1-174) y se acordó precio de indemnización con su propietario Ramón González Cabello, ascendente a la cantidad de $635.500.
+
+Fiscal del Ministerio de Obras Públicas.
