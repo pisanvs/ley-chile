@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.360 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 34, superficie 75 m2, rol de avalúo Nº 518-348, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo II Km. 3,95000 a Km. 12,40150", VIII Región y se acordó el valor de la indemnización con su propietaria Emilse Nora Rivera Cifuentes, ascendente a la cantidad de $271.530.-
+
+Fiscal del Ministerio de Obras Públicas.
