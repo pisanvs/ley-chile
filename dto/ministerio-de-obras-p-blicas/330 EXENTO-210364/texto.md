@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº330, de 17 de abril de
+
+2003 , y en base a la facultad otorgada por los
+
+artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº9 para la obra: "Proyecto Sistema Américo Vespucio Norte. Ruta 78 - AV. El Salto. Sector 4: Costanera Norte - Avenida Condell", Región Metropolitana, que figura a nombre de Guzmán Riesco Elvira, rol de avalúo 2898-5, comuna de Cerro Navia, superficie 118 m2. La comisión de peritos integrada por los señores Andrés Rainer Schulz Villanueva, Itsang Lu Chen y Jaime Rolando Jurgens Bittner, fijó con fecha 7 de marzo de 2003 , el valor provisional de la indemnización en la cantidad de $1.014.720.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
