@@ -3056,6 +3056,38 @@ Por otra parte, las instituciones emisoras deberán abstenerse de entregar certi
 
 Para los efectos de las postulaciones del período transitorio, las instituciones financieras utilizarán este mismo formulario, efectuando las modificaciones necesarias, para entregar la información requerida en cada una de esas postulaciones.
 
+CAPITULO 2-6 (Bancos y Financieras)
+
+MATERIA:
+
+VALES A LA VISTA.
+
+### 1. Emisión de vales a la vista
+
+La emisión de vales a la vista o vales vista que hagan las Instituciones financieras por cuenta de terceros, debe efectuarse solamente contra fondos que estén disponibles en el mismo momento de su extensión, no siendo en consecuencia procedente emitir tales instrumentos contra valores que se encuentren en trámite de cobro.
+
+Las instituciones financieras podrán cobrar comisiones por la emisión de vales a la vista. Cuando establezcan este cobro, deberán anunciarlo mediante avisos que colocarán en un lugar visible de sus oficinas, señalando el importe de la comisión que cobrarán por ese servicio.
+
+2. Devolución al tomador del importe de un Vale Vista emitido a favor de un tercero.
+
+Los vales a la vista pueden extenderse, fundamentalmente, en dos formas distintas: a) a favor de un beneficiario que es el mismo tomador o un representante legal o mandatario de él; o, b) a favor de un beneficiario que es un tercero, caso en el cual opera la estipulación a favor de otro, tratada en el artículo 1449 del Código Civil.
+
+Esta coincidencia o falta de coincidencia entre tomador y beneficiario reviste gran importancia para la devolución que deba hacer el banco emisor al tomador, de la suma que representa el documento, en caso de que no haya sido cobrado por el beneficiario.
+
+Si la persona del tomador se confunde con la del beneficiario o si éste es un mandatario o representante legal de aquél y así se justifica ante el banco emisor, éste podrá devolver el dinero representado por el documento, sea al tomador, al beneficiario o a su representante.
+
+En cambio, si se trata de personas diferentes que no son mandatarios o representantes legales del beneficiario o tomador, la existencia de una estipulación en favor de otro que no se sabe si ha sido objeto de una aceptación expresa o tácita de la persona a cuyo nombre se extendió el documento, obliga a tener un cuidado adicional antes de efectuar la devolución del dinero al tomador. Este normalmente deberá acreditar que el beneficiario no ha efectuado tal aceptación, mediante una declaración escrita en el documento que el mismo beneficiario deberá hacer bajo su firma, expresando: "Devuélvase al tomador". Esto puede también suplirse por un endoso del documento suscrito por el beneficiario.
+
+### 3. Pérdida o extravío y caducidad de vales a la vista
+
+Para los vales a la vista son plenamente aplicables las normas sobre pérdida o deterioro de títulos de crédito de que trata el Capítulo 2-12 de esta Recopilación Actualizada de Normas.
+
+Por otra parte, estos documentos están sujetos a caducidad según las normas del D.L. N° 2.099, materia de que trata el Capítulo 2-13 de esta Recopilación.
+
+### 4. Instrucciones contables
+
+Los vales vista que emitan las instituciones financieras se registrarán en la cuenta "Vales Vista", de la partida 3010 del formulario MB1.
+
 CAPITULO 2-10 (Bancos y Financieras)
 
 MATERIA:
@@ -3723,6 +3755,62 @@ Transcurridos dos años desde que la cuenta respectiva no haya tenido movimiento
 El artículo 14 del D.L. N° 2.099, dispone que transcurrido el plazo de caducidad, esto es, tres años computados desde el mes de enero en que corresponda formar la lista, la acreencia correspondiente caducará y se extinguirán a su respecto todos los derechos del titular, por lo que la institución financiera deberá enterar las cantidades correspondientes deducidos los gastos de publicación, en su caso, en la Tesorería Comunal que corresponda a su domicilio principal.
 
 Los desembolsos a que se refiere esta norma son aquellos que deriven de los gastos que origine la publicación en el Diario Oficial de las acreencias sujetas a esa obligación.
+
+CAPITULO 2-14 (Bancos y Financieras)
+
+MATERIA:
+
+CERTIFICADO SOBRE INTERESES DE DEPOSITOS Y CAPTACIONES.
+
+### 1. Emisión de certificados
+
+Las instituciones financieras deberán extender, en el mes de marzo de cada año, un certificado a cada uno de los depositantes a quienes les hayan pagado intereses en el año precedente, por sumas iguales o superiores al equivalente de U.F. 15 sobre depósitos y captaciones mantenidos en la respectiva entidad, determinadas en la forma que se indica en el primer párrafo de la letra c) de este número. Sin perjuicio de lo anterior, las entidades financieras deberán emitir también el referido certificado a aquellos depositantes que lo soliciten, aun cuando se les haya pagado menos de U.F. 15 en el año precedente, por concepto de intereses.
+
+El certificado de que se trata deberá contener por lo menos la siguiente información: a) Nombre completo, dirección y número del Rol Unico Tributario del depositante; y,
+
+b) Número de los depósitos o documentos de captación que originaron los intereses y monto y fecha en que se pagaron estos últimos, ya sean positivos o negativos, por cada operación. En el caso de depósitos o captaciones renovables, se deberá indicar el importe y la fecha de pago de los intereses de cada período.
+
+La información relativa a los intereses se proporcionará separada en la forma que se indica a continuación:
+
+i) Intereses correspondientes a depósitos en moneda chilena no reajustables. En este caso se deberán indicar los intereses nominales pagados y su respectivo equivalente en términos reales. Para determinar este último importe, el capital inicial se reajustará por la variación del valor de la unidad de fomento entre la fecha en que se efectuó el depósito y la del vencimiento de éste. El monto así obtenido se deducirá del importe del capital inicial más los intereses pagados por el depósito. La diferencia obtenida, sea ésta positiva o negativa, constituirá los intereses reales del respectivo depósito.
+
+A continuación se muestran las fórmulas para realizar estos cálculos:
+
+ii) Intereses correspondientes a depósitos en moneda chilena reajustables.
+
+iii) Intereses correspondientes a depósitos en moneda extranjera. En este caso, deberá informarse en moneda chilena el valor de los intereses reales, es decir, el valor que resulte de deducir, a los intereses nominales ganados, el efecto de la variación de la unidad de fomento sobre el capital inicial. Para determinar los intereses reales se procederá de la siguiente manera:
+
+El valor inicial del depósito en moneda extranjera y su monto final, incluidos los intereses, en la misma moneda, se convertirán a moneda chilena utilizando para ello el tipo de cambio observado promedio mensual, determinado sobre la base del que informe el Banco Central de Chile de conformidad con lo dispuesto en el N° 6 del capítulo I del Compendio de Normas de Cambios Internacionales, correspondiente al mes en que se constituyó el depósito y al mes de su vencimiento, respectivamente.
+
+El capital inicial en moneda chilena, determinado en la forma indicada precedentemente se reajustará por la variación del valor de la unidad de fomento entre la fecha en que se efectuó el depósito y la de su vencimiento. El valor así obtenido se deducirá del equivalente en moneda chilena del monto final del depósito. La diferencia resultante, sea ésta positiva o negativa, corresponderá a los intereses reales del respectivo depósito.
+
+Las fórmulas para efectuar estos cálculos son las siguientes:
+
+Conversión del depósito de moneda extranjera a pesos chilenos:
+
+.
+
+c) Total de intereses reales pagados al depositante en el año precedente a aquél en el que se emita el certificado, incluidos aquellos que en virtud de los ajustes antes señalados resultaren negativos. Para determinar este total se sumarán en forma algebraica los intereses reales informados en el literal i), más los del literal ii) y más los informados en el literal iii) de la letra b) precedente.
+
+Para los efectos de las disposiciones contenidas en este capítulo, se entenderá por intereses pagados aquéllos que hayan sido cobrados por el depositante, que hayan sido abonados en su cuenta, que se hayan capitalizado o que hayan sido puestos a su disposición.
+
+d) Constancia de que el certificado se emite a fin de que el inversionista pueda dar cumplimiento a lo dispuesto en el artículo 33 del Código Tributario y en la Resolución N° 200 del Servicio de Impuestos Internos, publicada en el Diario Oficial del 9 de febrero de 1982.
+
+### 2. Entrega del certificado al depositante
+
+En los casos en que el total de los intereses reales a que se refiere la letra c) del N° 1 precedente supere el equivalente de 15 unidades de fomento, las instituciones financieras deberán emitir el correspondiente certificado en duplicado y enviar el original, en el mismo mes de su emisión, al domicilio que el depositante haya registrado en la respectiva entidad, debiendo conservar la copia en sus archivos.
+
+No obstante, las entidades financieras podrán mantener, como alternativa a la copia de estos certificados, nóminas que contengan la misma información que se entrega en el certificado, el que, en estos casos, se emitirá únicamente en original.
+
+### 3. Certificados devueltos
+
+Los certificados despachados de conformidad con lo dispuesto en el número precedente, que sean devueltos por no corresponder el domicilio registrado a la dirección del depositante, deberán archivarse junto con la respectiva copia o nómina y mantenerse a disposición del inversionista.
+
+### 4. Información a esta Superintendencia
+
+Las instituciones financieras informarán a esta Superintendencia, el 30 de abril de cada año, el número de certificados despachados al domicilio de los respectivos depositantes y el monto total de los intereses reales a que se refiere la letra c) del N° 1 precedente, señalado en dichos certificados.
+
+Además deberán incluir en la referida información, el número de certificados que les hayan sido devueltos por no corresponder el domicilio registrado a la dirección del depositante y, en caso que proceda, el número de certificados que no hubieren podido despachar por no contar con el domicilio del depositante. Para cada una de estas situaciones deberán indicar el monto de intereses reales informados en los respectivos certificados.
 
 CAPITULO 3-1 (Bancos y Financieras)
 
@@ -17462,111 +17550,39 @@ del mismo cuerpo legal.
 
 3.1. Absorción de pérdidas de un ejercicio.
 
-La pérdida que pueda resultar de un ejercicio deberá ser absorbida al tiempo de
+La pérdida que pueda resultar de un ejercicio deberá ser absorbida al tiempo de la apertura del ejercicio siguiente, con cargo a las cuentas de capital y reservas, en el siguiente orden de prioridades: a) Reservas provenientes de utilidades, excluida la reserva legal; b) Reservas de capitalización, excluidas las reservas expresamente constituidas para futuros aumentos de capital;
 
-la apertura del ejercicio siguiente, con cargo a las cuentas de capital y
+c)Reservas destinadas a aumentos de capital; d) Reserva legal; y, e) Capital pagado.
 
-reservas, en el siguiente orden de prioridades: a) Reservas provenientes de
+Se deberá dar cuenta a la Junta de Accionistas de la absorción de la pérdida del ejercicio, haciéndole presente, cuando corresponda, las disposiciones de la Ley General de Bancos relativas a capitalizaciones preventivas o al capital y reservas mínimo.
 
-utilidades, excluida la reserva legal; b) Reservas de capitalización, excluidas
-
-las reservas expresamente constituidas para futuros aumentos de capital;
-
-c)Reservas destinadas a aumentos de capital; d) Reserva legal; y, e) Capital
-
-pagado.
-
-Se deberá dar cuenta a la Junta de Accionistas de la absorción de la pérdida del
-
-ejercicio, haciéndole presente, cuando corresponda, las disposiciones de la Ley
-
-General de Bancos relativas a capitalizaciones preventivas o al capital y
-
-reservas mínimo.
-
-De acuerdo con lo dispuesto en el segundo inciso del artículo 75 de la Ley
-
-General de Bancos, si la pérdida afectare la reserva legal o parte del capital,
-
-la institución no podrá repartir dividendos mientra no haya reparado la pérdida.
+De acuerdo con lo dispuesto en el segundo inciso del artículo 75 de la Ley General de Bancos, si la pérdida afectare la reserva legal o parte del capital, la institución no podrá repartir dividendos mientra no haya reparado la pérdida.
 
 3.2. Utilidad del ejercicio anterior.
 
-La utilidad neta que se obtenga de u ejercicio deberá ser acreditada, al momento
+La utilidad neta que se obtenga de u ejercicio deberá ser acreditada, al momento de la apertura del ejercicio siguiente, en la cuenta "Utilidad del ejercicio anterior por asignar", que se abrirá para este efecto en la partida 4320 "Otras reservas" del formulario MB1. Sin embargo, la parte correspondiente a la exigencia mínima de reserva legal, equivalente al 10% de la utilidad o al monto menor que faltare para completarla, se registrará directamente en la cuenta "Reserva legal" de la partida 4315 del referido formulario.
 
-de la apertura del ejercicio siguiente, en la cuenta "Utilidad del ejercicio
+La cuenta "Utilidad del ejercicio anterior por asignar" se saldará con abono a una cuenta de utilidades retenidas por repartir de la misma partida o contra reservas no distribuibles, incluida la reserva legal si se decidiere incrementar esta última más allá del mínimo exigido, una vez que la Junta de Accionistas olas autoridades de la Casa Matriz, en el caso de una agencia de un banco
 
-anterior por asignar", que se abrirá para este efecto en la partida 4320 "Otras
+extranjero, decidan sobre el destino de dichas utilidades, teniendo presente las disposiciones del artículo 75 de la Ley General de Bancos.
 
-reservas" del formulario MB1. Sin embargo, la parte correspondiente a la
-
-exigencia mínima de reserva legal, equivalente al 10% de la utilidad o al monto
-
-menor que faltare para completarla, se registrará directamente en la cuenta
-
-"Reserva legal" de la partida 4315 del referido formulario.
-
-La cuenta "Utilidad del ejercicio anterior por asignar" se saldará con abono a
-
-una cuenta de utilidades retenidas por repartir de la misma partida o contra
-
-reservas no distribuibles, incluida la reserva legal si se decidiere incrementar
-
-esta última más allá del mínimo exigido, una vez que la Junta de Accionistas
-
-olas autoridades de la Casa Matriz, en el caso de una agencia de un banco
-
-extranjero, decidan sobre el destino de dichas utilidades, teniendo presente las
-
-disposiciones del artículo 75 de la Ley General de Bancos.
+Con todo, las instituciones financieras que mantengan obligación subordinada con el Banco Central de Chile u obligación de recompra de cartera con el Instituto Emisor, deberán registrar la utilidad del ejercicio anterior en la cuenta "Utilidad distribuible acciones preferidas" de la partida 4320, en la que permanecerá hasta que la Junta de Accionistas acuerde su distribución.
 
 3.3. Aumentos de capital.
 
-Los aumentos de capital por la suscripción y pago de acciones incrementarán el
+Los aumentos de capital por la suscripción y pago de acciones incrementarán el capital pagado sólo una vez que se paguen las respectivas acciones. Mientras no se perciba el pago total o parcial, las acciones suscritas no tendrán efecto en la contabilidad.
 
-capital pagado sólo una vez que se paguen las respectivas acciones. Mientras no
+Del mismo modo, los aportes de capital en bancos extranjeros se registrarán al momento de ingresar el capital y liquidarse las divisas.
 
-se perciba el pago total o parcial, las acciones suscritas no tendrán efecto en
+Cuando el aumento de capital provenga de un acuerdo de capitalización de excedentes destinados al pago de dividendos sobre acciones preferentes, de conformidad con la Ley N° 18.401, se abonará el capital pagado en la oportunidad en que se emitan las respectivas acciones liberadas, con cargo a la cuenta "Provisión para cubrir el pago de dividendos de acciones preferentes", de la partida 4230 del formulario MB1.
 
-la contabilidad.
-
-Del mismo modo, los aportes de capital en bancos extranjeros se registrarán al
-
-momento de ingresar el capital y liquidarse las divisas.
-
-Cuando el aumento de capital provenga de un acuerdo de capitalización de
-
-excedentes destinados al pago de dividendos sobre acciones preferentes, de
-
-conformidad con la Ley N° 18.401, se abonará el capital pagado en la oportunidad
-
-en que se emitan las respectivas acciones liberadas, con cargo a la cuenta
-
-"Provisión para cubrir el pago de dividendos de acciones preferentes", de la
-
-partida 4230 del formulario MB1.
-
-Los aumentos de capital provenientes de capitalización de pasivos que hayan sido
-
-autorizados por esta Superintendencia, se abonarán al capital pagado al
-
-perfeccionarse la operación.
+Los aumentos de capital provenientes de capitalización de pasivos que hayan sido autorizados por esta Superintendencia, se abonarán al capital pagado al perfeccionarse la operación.
 
 3.4. Reparto de dividendos y remesas de utilidades.
 
-El pago de dividendos se registrará en la oportunidad en que ellos se pongan a
+El pago de dividendos se registrará en la oportunidad en que ellos se pongan a disposición de los accionistas, cargando la cuenta que corresponda de la partida 4320, con abono a la cuenta "Dividendos por pagar a accionistas" que se abrirá para ese efecto y que se informará en la partida 3040 del formulario MB1.
 
-disposición de los accionistas, cargando la cuenta que corresponda de la partida
-
-4320, con abono a la cuenta "Dividendos por pagar" que se abrirá para ese efecto
-
-y que se informará en la partida 3040 del formulario MB1.
-
-En el caso de remesas de utilidades de agencias de bancos extranjeros, se
-
-cargarán las respectivas cuentas de utilidades retenidas de la partida 4320,
-
-sólo al momento de efectuarse la remesa.
+En el caso de remesas de utilidades de agencias de bancos extranjeros, se cargarán las respectivas cuentas de utilidades retenidas de la partida 4320, sólo al momento de efectuarse la remesa.
 
 CAPITULO 12-2 (Bancos y Financieras)
 
@@ -33651,6 +33667,36 @@ No obstante, al tratarse del ajuste de la cuenta " Cambio Mercado de Divisas de 
 Por otra parte, los ajustes correspondientes a las ventas de divisas realizadas al Banco Central de Chile con pacto de recompra, deben efectuarse conforme a lasdisposiciones del Capítulo 13-6.
 
 Debe tenerse presente, además, que para calcular y registrar los reajustes de operaciones en moneda chilena reajustables por la variación del dólar estadounidense, las instituciones financieras deben considerar el tipo de cambio que se haya pactado, ateniéndose a las instrucciones del Capítulo 7-1 de esta Recopilación.
+
+CAPITULO 13-31 (Bancos)
+
+MATERIA:
+
+LIQUIDACION DE LAS CUENTAS DE RESULTADO EN MONEDAS EXTRANJERAS AL CIERRE DEL EJERCICIO.
+
+### 1. Liquidación de saldos de cuentas de resultado en moneda extranjera
+
+Los saldos en moneda extranjera que las entidades bancarias registren en cada una de sus diferentes cuentas de resultado al cierre de cada ejercicio, deberán convertirse a moneda chilena, a las equivalencias informadas por este Organismo que se encuentren vigentes a esa fecha, de acuerdo con lo dispuesto en el Capítulo 13-30 de esta Recopilación.
+
+### 2. Monedas sujetas a posición de cambio
+
+La liquidación de las cuentas de resultado en monedas extranjeras, con la sola excepción de aquellas en monedas denominadas de "libre disposición", se registrará mediante cargos o abonos en la cuenta "Conversión mercado bancario", según se trate de saldos deudores o acreedores. El correspondiente contravalor en moneda chilena, se debitará o acreditará en la cuenta de resultado del mismo nombre, en Pesos, con abono o cargo en la respectiva cuenta "Cambio mercado bancario".
+
+Habida consideración que estos ingresos y egresos afectan la Posición de Cambios, los bancos comunicarán al Banco Central de Chile los movimientos generados por esas compras y ventas de moneda extranjera, mediante la emisión de las correspondientes "Planillas de operación de cambios" las que integrarán el "Informe Diario de Posición y Operaciones de Cambios Internacionales", del día en que esas liquidaciones se cursen.
+
+### 3. Monedas de libre disposición
+
+Los saldos que se registren en cuentas de ingresos y gastos y que estén expresados en cualquiera de las monedas de libre disposición de que trata el Capítulo XXX del Compendio de Normas de Cambios Internacionales del Banco Central de Chile se liquidarán mediante abonos o cargos en la respectiva cuenta "Conversión mercado de divisas de libre disposición". El contravalor resultante en moneda chilena, determinado según las equivalencias informadas por este Organismo, se acreditará o debitará en la cuenta del mismo nombre de ingresos o gastos en moneda chilena, según corresponda, mediante el débito o crédito pertinente en la cuenta "Cambio mercado de divisas de libre disposición". A continuación, el saldo de esta última cuenta se ajustará utilizando el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera, conforme a las instrucciones del N° 2 del Capítulo 13-30 de esta Recopilación.
+
+4. Información que debe enviarse al Banco Central de Chile y a esta Superintendencia.
+
+Al término de las operaciones del día 15 de diciembre de cada año, o del día hábil bancario inmediatamente anterior, en caso de no serlo la fecha establecida, los bancos deberán declarar al Banco Central de Chile los Ingresos y egresos habidos en las diferentes monedas extranjeras de que trata el N° 2 de este Capítulo, registrados en sus cuentas de resultado hasta ese día.
+
+Los mismo antecedentes, referidos a los ingresos y gastos habidos en el ejercicio terminado el 31 de diciembre, deberán ser entregados al Banco Central de Chile y a esta Superintendencia.
+
+La información se proporcionará dentro de los 3 días hábiles siguientes a la fecha de término antes mencionada, mediante el formulario A-8 y de acuerdo con las instrucciones del Manual del Sistema de Información.
+
+Como ya se indicó, esta información comprenderá los resultados en las monedas extranjeras en que ellos se hubieren producido, exceptuadas las de "libre disposición", ya que los ingresos y egresos en estas últimas monedas están excluidos de la Posición de Cambios para los efectos de determinar el excedente o déficit arrojado al cierre del ejercicio por las cuentas de resultado en moneda extranjera.
 
 CAPITULO 13-32 (Bancos)
 
