@@ -1,0 +1,3 @@
+Por decreto MOP Nº396 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº23-B, superficie 1.250 m2, rol de avalúo 75-87, comuna de Teno, para la obra "Camino Ruta J-25, sector Cruce Longitudinal-La Montaña. Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario María Isabel Rojas Fuenzalida, ascendente a la cantidad de $1.220.169.
+
+Fiscal del Ministerio de Obras Públicas.
