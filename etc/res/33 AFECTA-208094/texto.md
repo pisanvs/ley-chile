@@ -1,0 +1,5 @@
+En cumplimiento de lo dispuesto en los decretos del Ministerio de Economía, Fomento y Reconstrucción, Nº 291, de 11 de junio de 1999, publicado en el Diario Oficial de fecha 13 de agosto de 1999 y Nº 668, de 16 de noviembre de 1999, certifico que por resolución (afecta) Nº33 de 21 de enero de 2003, del señor Vicepresidente Ejecutivo, totalmente tramitada, se modificó la resolución (A) Nº 86-2002, que contiene el texto coordinado, actualizado y refundido de la resolución (A) Nº 18, de 1997, que reglamentó el Comité Administrador de Empresas -SAE-, hoy Comité Sistema de Empresas - SEP
+
+El texto completo de la antes referida resolución, estará a disposición de los usuarios en la Secretaría General de la Corporación y en las Direcciones Regionales.
+
+Santiago, 19 de febrero de 2003.- Gerardo Egaña Lyon, Secretario General (S).
