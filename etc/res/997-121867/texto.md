@@ -1,0 +1,3 @@
+Por resolución Nº997, de 16 de julio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase en los vistos, numeral 1 y numeral 12 de la resolución Nº879 de 1998, de esta Subsecretaría, la referencia a la resolución Nº228 de 1996, en el sentido de que la resolución correcta es la Nº288 de 1996, de esta Subsecretaría.
+
+Valparaíso, 16 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
