@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 346 de 27 de febrero de 2004, se expropió el lote de terreno Nº 44-B, superficie 68 m2, rol de Avalúo Nº 266-182, comuna de Carahue, para la obra "Pavimentación Asfáltica Camino Carahue - Puerto Saavedra, Sector I, KM. 59.347,87 al Km. 65.594,05", IX Región y se acordó el valor de la indemnización con su propietaria Rosa Elvira Curibil Paillal, ascendente a la cantidad de $358.110.-
+
+Fiscal del Ministerio de Obras Públicas.
