@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.500, de 26 de noviembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº88, para la obra Camino Acceso Norte a Concepción, Km.
+
+16.705 al 20.158, Octava Región, que figura a nombre de Marianela Prado Lillo y Ot., rol de avalúo 2224-372, comuna de Chillán, superficie 618 m². La Comisión de Peritos integrada por los señores Jaime García Molina, Pablo Carrillo Valenzuela y Luis Abarzúa Ceballos, fijó con fecha 1º de octubre de 1996, el valor provisional de la indemnización en la cantidad de $533.040.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
