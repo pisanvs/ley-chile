@@ -1,0 +1,3 @@
+Por resolución No. 246, de 21 de Marzo de 1985, de Servicio de Vivienda y Urbanización Metropolitano, se derogó resolución No. 1.230, de 19 de Octubre de 1984, del mismo Servicio, que ordenaba expropiación conforme DL No. 2.186, de 1978, de parte de inmueble ubicado en calle Rancagua No. 0237, presunto rol de avalúos No. 877-3, de aparente dominio de doña Matilde González Rojas.
+
+Director SERVIU Metropolitano.
