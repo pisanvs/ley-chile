@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Nuñoa contratar un empréstito por la suma de $ 1.500,000, a fin de construir la Casa Municipal y amortizar la deuda contraída con el Banco de Chile.
