@@ -1,0 +1,3 @@
+Por Resolución Nº 29, de 13 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por SOCIEDAD PESQUERA COLOSO S.A., para prorrogar la vigencia de las Resoluciones de la Subsecretaría de Pesca que autorizaron la realización de actividades pesqueras extractivas para naves de su flota, por no haberse acreditado una causal de fuerza mayor.
+
+Valparaíso, 13 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
