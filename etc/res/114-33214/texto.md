@@ -1,0 +1,11 @@
+Por Resolución N° 114, de 19 de Febrero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD FRIGORIFICO SEMINARIO LIMITADA R.U.T. N° 79.643.040-0, para ampliar actividades que tiene autorizadas por Resolución N° 1010, de 1991, de esta Subsecretaría, en orden a operar su planta industrial autorizada en la Resolución individualizada precedentemente, ubicada en la Región Metropolitana, Juan Griego N° 4590, Comuna de San Joaquín, donde procesará en las líneas de elaboración de congelado, fresco-refrigerado, ahumado y semi-conservas, los siguientes recursos hidrobiológicos: Congelado; Anchoa o anchoveta, Anguila, Atún aleta amarilla, Atún aleta larga, Caballa, Dorado, Jurel, Lisa, Merluza del sur, Merluza de cola, Pejeperro, Puye, Rollizo, Sardina común, Sardina, Sierra, Turbot, Culengue, Jibia, Navajuela, Picoroco, Piure;
+
+Semi-conserva; Anchoa o anchoveta, Anguila, Atún aleta amarilla, atún aleta larga, Caballa, Dorado, Jurel, Lisa, Merluza del sur, Merluza de cola, Pejeperro, Puye, Rollizo, Sardina común, Sardina, Sierra, Turbot, Culengue, Jibia, Navajuela, Picoroco, Piure, Fresco-refrigerado; Anchoa o anchoveta, Anguila, Atún aleta amarilla, Atún aleta larga, Caballa, Dorado, Jurel, Lisa, Merluza del sur, Merluza de cola, Pejeperro, Puye, Rollizo, Sardina común, Sardina, Sierra Turbot, Celengue, Jibia, Navajuela, Picoroco, Piure, Ahumado, Anchoa o anchoveta, Anguila, Atún aleta amarilla, Atún aleta larga, Caballa, Dorado, Jurel, Lisa, Merluza del sur, Merluza de cola, Pejeperro, Puye, Rollizo, Sardina común, Sardina, Sierra, Turbot, Celengue, Jibia, Navajuela, Picoroco y Piure.
+
+La materia prima será adquirida a pescadores artesanales y flota industrial.
+
+Deberá adquirir el recurso Turbot de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 19 de Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
