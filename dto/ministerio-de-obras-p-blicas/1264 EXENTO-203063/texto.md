@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.264 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº54, superficie 58,0 m2, rol de avalúo Nº153-107. comuna de Chonchi, para la obra ''Camino Ruta W-80, sector Cruce Longitudinal Huillinco Km. 0,000 a Km. 9,556, provincia de Chiloé'', X Región y se acordó el valor de la indemnización con su propietaria Fresia Gómez Berndt, ascendente a la cantidad de $284.206.-
+
+Fiscal del Ministerio de Obras Públicas.
