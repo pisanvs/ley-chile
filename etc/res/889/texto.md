@@ -1,0 +1,3 @@
+Por Resolución N° 889, de 12 de Noviembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el númeral 1° de la Resolución N° 1674, de 1989, de esta Subsecretaría, que estableció las características náuticas de las naves "Corsario" y "Bucanero", de PESQUERA GUIMAR S.A. R.U.T. N° 95.269.000-0, en el sentido de señalar que la capacidad de bodega de la nave "Corsario" es de 57,11 m3 y de la nave "Bucanero" 56,79 m3.
+
+Valparaíso, 12 de Noviembre de 1993.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
