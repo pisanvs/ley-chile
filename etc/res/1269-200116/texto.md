@@ -1,0 +1,3 @@
+Por resolución Nº 1.269, de 19 de junio de 2002, modifícase el numeral 6º de la resolución Nº 712 de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo y evaluación hidroacústica del Jurel, I y II Regiones", en el sentido de reemplazar la nave "Oficina Germania" por la nave "Licantén", ambas de propiedad de Compañía Pesquera Camanchaca S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 19 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
