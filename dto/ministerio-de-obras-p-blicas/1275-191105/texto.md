@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.275, de 27 de agosto de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº3, para la obra Camino Acceso Fundina Norte, sector Puente Fundina, que figura a nombre de Vallejos Pizarro Rosa Elena, rol de avalúo 43-2, superficie 2.244.00 m², comuna de Río Hurtado. La comisión de peritos, con fecha 15 de noviembre de 1999, fijó la indemnización provisional en la cantidad de $4.119.500, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
