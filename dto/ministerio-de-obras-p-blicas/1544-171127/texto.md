@@ -1,0 +1,3 @@
+Por decreto MOP Nº1544, de 28 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 2 y 3, para la obra Camino Temuco Chol-Chol, sector Puente Renaco Kms. 0.023 al 0.385, que figuran a nombre de José Amador Matamala Millapán, rol de avalúo 613-12, comuna de Nueva Imperial, IX Región, superficies 820 m2 y 80 m2. La Comisión de Peritos, fijó con fecha 9 de julio de 1998, en las cantidades de $172.400, lote 2 y $16.000, lote 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiendo a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
