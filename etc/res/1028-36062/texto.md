@@ -1,0 +1,7 @@
+Por Resolución N°1.028 de 14 de Diciembre de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SALMONES RALUN S.A., R.U.T. N°96.514.270-3, para ampliar actividades de acuicultura, autorizadas por Resolución N°249, de 1987, de esta Subsecretaría, y apruébase el respectivo proyecto técnico y la modificación del cronograma de actividades, en orden a incorporar en la piscicultura autorizada por la Resolución señalada precedentemente, ubicada en Río del Este, sector Ralún, desembocadura del Río Petrohué, Comuna de Cochamó, Provincia de Llanquihue, X Región, la especie Salmón coho, la que cultivará además con las autorizadas por la Resolución N°249, de 1987, esto es, Salmón del atlántico y Trucha arcoiris.
+
+La solicitante deberá cultivar y tener una producción de las especies e instalar la infraestructura que se autoriza, de conformidad a lo establecido en la presente Resolución y el proyecto técnico aprobado.
+
+Previo al ejercicio de las actividades autorizadas la interesada deberá inscribirse oportunamente en el Registro Nacional de Acuicultura, que llevará el Servicio Nacional de Pesca.
+
+Valparaíso, 14 de Diciembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
