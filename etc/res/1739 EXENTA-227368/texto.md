@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.739 de 30 de junio de 2004 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111030 presentada por SOCIEDAD ACUICULTORA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado en Estero Barros Arana, lado noroeste de Isla Simpson, sector A, XI Región.
+
+Valparaíso, 30 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
