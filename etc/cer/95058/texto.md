@@ -1,0 +1,3 @@
+El Banco Central de Chile, en conformidad a lo dispuesto en el No. 5 del Capítulo IV.B.8. del. Compendio de Normas Financieras, certifica que la Tasa de Interés Promedio (TIP) quincenal de captación para operaciones reajustables entre 90 y 365 días, correspondiente a la primera quincena de enero de 1990, fue de 9,98% anual.
+
+Santiago, 19 de enero de 1990.- María Eliana Torres Contreras, Secretario General Subrogante.
