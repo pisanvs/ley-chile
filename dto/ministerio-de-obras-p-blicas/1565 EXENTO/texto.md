@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.565, de 22 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para la Empresa de Servicios Sanitarios del Bío Bío S.A., los lotes de terreno Nºs 1, 2 y 3, para la obra Aducción Embalse Tapihue-Aducción, Captación Gravitacional Estanque, Cañerías Agua Potable Diámetro 150 mm. (PVC) y Diámetro 100 mm. (Rocalit)-Florida, que figuran a nombre de Sepúlveda Camerón Juan y Forestal Celco S.A., roles de avalúos 00202-00054 y 00202-00029, comuna de Florida, VIII Región, superficies 388,63; 1.964,16 y 2.066,24 M2., respectivamente. La Comisión de Peritos, fijó con fecha 6 de julio de 2001, el monto de la indemnización provisional en la cantidad de $77.726, lote Nº1;
+
+$392.832, lote Nº2 y $826.496, lote Nº3, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal de Ministerio de Obras Públicas.
