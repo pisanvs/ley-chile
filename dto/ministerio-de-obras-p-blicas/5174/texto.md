@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.174, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº 10, superficie 6.222,6 M2, rol de avalúo 138-50, comuna de Chonchi, para la obra "Camino Ruta 5, Sector Chonchi-Tara, Km. 1.205,160 al 1.215,004" y se acordó el valor de indemnización con su propietario Manuel Armando Aguilar Vargas, ascendente a la cantidad de $3.315.276.-
+
+Fiscal del Ministerio de Obras Públicas.
