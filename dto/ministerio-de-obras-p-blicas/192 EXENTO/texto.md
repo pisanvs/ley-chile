@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 192, de 30 de marzo de 2001, se expropió el lote de terreno Nº 175-1, superficie 126 m2., rol de avalúo 297-5, comuna de Los Vilos, para la obra Camino Internacional Ruta 5 Norte Tramo Santiago-Los Vilos, Cuarta Región y se acordó el valor de indemnización con su propietario José Alberto Cariaga Medina, ascendente a la cantidad de $633.997.
+
+- Fiscal del Ministerio de Obras Públicas.
