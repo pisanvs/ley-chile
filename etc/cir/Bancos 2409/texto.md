@@ -19492,523 +19492,135 @@ CAPITULO 13-1 (Bancos y Financieras)
 
 MATERIA:
 
-OPERACIONES DE COMPRA Y VENTA DE MONEDAS EXTRANJERAS QUE PUEDEN REALIZAR LAS
+OPERACIONES DE COMPRA Y VENTA DE MONEDAS EXTRANJERAS QUE PUEDEN REALIZAR LAS INSTITUCIONES FINANCIERAS.
 
-INSTITUCIONES FINANCIERAS
+### I. OPERACIONES DE CAMBIOS INTERNACIONALES
 
-1. Instituciones bancarias autorizadas para operar en cambios internacionales.
+### 1. Disposiciones generales
 
-Están autorizadas para realizar las operaciones de cambios internacionales que
+De conformidad con lo dispuesto en el artículo 39 de la Ley Orgánica Constitucional del Banco Central de Chile, contenida en el ARTICULO PRIMERO de la Ley N° 18.840, publicada en el Diario Oficial del 10 de octubre de 1989, toda persona puede efectuar libremente operaciones de cambios internacionales.
 
-señala el Compendio respectivo del Banco Central de Chile, todas las entidades
+Por otra parte, los artículos 42, 49 y 50 de la Ley antes mencionada, facultan al Banco Central de Chile para establecer las operaciones que pueden ser cursadas exclusivamente en el Mercado Cambiario Formal y fijar restricciones para su realización.
 
-bancarias establecidas en Chile.
+En uso de la facultad mencionada, el Consejo del Instituto Emisor estableció las disposiciones sobre operaciones en moneda extranjera contenidas en el Compendio de Normas de Cambios Internacionales.
 
-El Banco Central de Chile podrá revocar o suspender, en cualquier momento y sin
+Según dichas disposiciones y en concordancia con la Ley Orgánica Constitucional antes mencionada, tal como se expresó anteriormente las operaciones de cambios internacionales pueden realizarse libremente por cualquier persona, con excepción de aquellas que se deban realizar exclusivamente en el Mercado Cambiario Formal por los Bancos y las Casas de Cambio autorizadas para formar parte de dicho mercado, las que se denominan "Casas de Cambio M.C.F.".
 
-necesidad de expresión de causa, esa autorización.
+Las operaciones de cambios internacionales que obligadamente se deben realizar en el Mercado Cambiario Formal, a su vez, están sujetas a las disposiciones contenidas en el referido Compendio y que dicen relación con la obligatoriedad de retomar y liquidar en el Mercado Cambiario Formal las divisas provenientes de determinadas operaciones. Esas mismas disposiciones fijan límites a las tenencias de divisas por parte de las empresas bancarias y Casas de Cambio M.C.F. y establecen las excepciones a la obligación de retomar y liquidar divisas antes mencionada.
 
-### 2. Operaciones de cambios internacionales que pueden realizar los bancos
+Por otra parte, señala el Compendio ya citado, que toda operación de cambios internacionales que realice un banco o una Casa de Cambio M.C.F. o que se efectúe por su intermedio, se entenderá, por ese solo hecho, realizada en el Mercado Cambiario Formal.
 
-Los bancos están autorizados para realizar solamente las operaciones de cambios
+Todo lo anterior es sin perjuicio de la prohibición establecida para las sociedades financieras en la letra a) del artículo 114 de la Ley General de Bancos, que impide a esas sociedades efectuar operaciones en moneda extranjera o expresadas en moneda extranjera que no estuvieren autorizadas por el Banco Central de Chile y toda operación de comercio exterior.
 
-internacionales que se indican en el Capítulo III del Compendio de Normas de
+### 2. Operaciones que pueden efectuar los bancos
 
-Cambios Internacionales del Banco Central de Chile, sea por cuenta propia o de
+Los bancos pueden realizar, además de las operaciones de compra y venta de divisas y de otras operaciones de cambios internacionales que se encuentran reguladas en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile, todas aquellas que son propias de su giro, tales como apertura, negociación y fínanciamiento de cartas de crédito para importación; confirmación, negociación y fínanciamiento de cartas de crédito de exportación y cobranzas del exterior y sobre el exterior.
 
-terceros, según corresponda.
+### 3. Operaciones que pueden efectuar las financieras
 
-### 3. Operaciones que pueden realizar las sociedades financieras
+Las sociedades financieras sólo podrán efectuar aquellas operaciones de cambios que expresamente les faculta realizar el Compendio de Normas Financieras y el Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
-Las sociedades financieras pueden realizar exclusivamente las operaciones en
+Además, en caso que el Instituto Emisor las autorice para actuar como Casa de Cambio M.C.F., sólo podrán cursar como tales, las operaciones de cambios que se indican en el Capítulo IV del Título I del Compendio de Normas de Cambios Internacionales mencionado precedentemente.
 
-moneda extranjera que se señalan en los Capítulos XII y XIV del Compendio de
+### II. COMPRA Y VENTA DE DIVISAS
 
-Normas de Cambios Internacionales. De acuerdo a lo establecido en el primero
+### 1. Disposiciones generales
 
-delos Capítulos indicados, pueden efectuar las operaciones reglamentadas en los
+Las instituciones bancarias y Casas de Cambio M.C.F. de financieras, podrán efectuar compras y ventas de divisas al tipo de cambio que libremente determinen las partes, con observancia, en todo caso, de las normas establecidas en la Ley Orgánica Constitucional antes mencionada, de las disposiciones del Banco Central de Chile y de las instrucciones impartidas por esta Superintendencia.
 
-Capítulos IV.B.9, IV.B.10, IV.E.1 y V.B.1 del Compendio de Normas Financieras
+Estas compras y ventas se harán únicamente al contado, exceptuados los arbitrajes a futuro con corresponsales del exterior y las compras y ventas de divisas a futuro, que realicen los bancos, operaciones que se regirán por las modalidades que les son propias.
 
-del Instituto Emisor. Además, pueden recibir en garantía efectos de Comercio
+Cuando adquieran documentos expresados y pagaderos en moneda extranjera, las instituciones financieras deberán identificar a la persona que se los venda, debiendo dejar constancia de sus datos personales en los antecedentes de la respectiva operación.
 
-expresados en moneda extranjera pagaderos en moneda chilena, efectuar la
+No es necesario que las instituciones exijan identificarse a las personas que les vendan moneda extranjera en billetes, como tampoco lo es que se les informe el origen de las divisas, ya sea que éstas correspondan a billetes o documentos, salvo en los casos que las normas del Banco Central de Chile exijan dicha identificación.
 
-cobranza de dichos documentos y, actuando por cuenta de terceros pueden
+Al tratarse de ventas de divisas que realicen, las instituciones financieras debe prestarse especial cuidado a los requisitos exigidos para el efecto, y a las restricciones que afecten a dichas operaciones.
 
-adquirir, vender y rescatar y servir debentures, en moneda extranjera pagaderos
+Las ventas de cualquiera de las monedas extranjeras incluidas en el Anexo N° 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, que efectúen las entidades bancarias se exceptuarán de su liquidación a moneda chilena, solamente cuando se realicen para los fines establecidos en dicho Compendio. Asimismo, las instituciones autorizadas deben clasificar adecuadamente, ateniéndose a la codificación establecida por el Banco Central de Chile, las operaciones que realicen y extender en cada caso, los documentos correspondientes que informen de la respectiva operación.
 
-por su equivalente en moneda chilena, emitidos por sociedades anónimas
+### 2. Archivo de los antecedentes exigidos para la venta de divisas
 
-establecidas en Chile.
+Los antecedentes, declaraciones o documentos comprobatorios exigidos en las normas de cambio para la venta de divisas destinadas a determinados fines, deben ser conservados por la respectiva entidad vendedora, archivados bajo su exclusiva responsabilidad y mantenidos a disposición del Banco Central de Chile o de esta Superintendencia, para el caso que les sean requeridos.
 
-Sin perjuicio de lo anterior y previa autorización que deberán requerir del
+Se recomienda que estos antecedentes, en lo posible, se mantengan junto a la copia de la planilla en que se declaró al Instituto Emisor la transacción correspondiente.
 
-Banco Central de Chile y de esta Superintendencia, las sociedades financieras
+### 3. Transacciones con monedas de libre disposición
 
-que lo deseen podrán operar en el giro de casa de cambio y realizar, en
+Las entidades bancarias y Casas de Cambio M.C.F. de financieras pueden efectuar compras, ventas, transacciones y transferencias, en cualquiera de las monedas extranjeras distintas de las señaladas en el Anexo N° 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales, las cuales no están sujetas a las disposiciones de ese mismo Compendio como tampoco al límite de tenencias de monedas extranjeras establecido por el Banco Central de Chile y, por lo tanto, no se tomarán en cuenta para los efectos de determinar la Posición de Cambios de la Institución.
 
-consecuencia, las funciones que les ha autorizado a esas entidades el Instituto
+Sin embargo, si se realizan arbitrajes entre monedas de libre disposición y cualquiera de las monedas sujetas a posición, estas últimas deben ingresarse a la Posición de Cambios de la empresa. Por ningún motivo podrán realizarse arbitrajes que consistan en la venta de divisas incluidas en la Posición de Cambios, para adquirir alguna moneda de libre disposición.
 
-Emisor, siempre que cumplan los requisitos establecidos para ello.
+### 4. Posición de Cambios
 
-### 4. Compra y venta de divisas
+4.1. Registro de operaciones y determinación de la Posición.
 
-Las instituciones bancarias y casas de cambio de financieras podrán efectuar
+Las entidades bancarias deben registrar todas las compras y ventas de moneda extranjera sujetas a posición que realicen, por los conceptos autorizados en las respectivas normas, en cuentas de conversión denominadas "Conversión Mercado Bancario".
 
-compras y ventas de divisas al tipo de cambio que libremente determinen las
+Deberá establecerse una cuenta "Conversión Mercado Bancario" por cada una de las monedas en que opere la empresa. El conjunto de estas cuentas conformará la Posición de Cambios de la institución.
 
-partes, con observancia, en todo caso, de las normas establecidas en la Ley de
+Para determinar la Posición neta diaria, se convertirán los saldos de la cuenta "Conversión Mercado Bancario" en cada moneda, a dólares norteamericanos de acuerdo a las equivalencias que ellos tengan con respecto al dólar estadounidense según la publicación del Banco Central Chile del último día hábil bancario del mes calendario inmediatamente anterior. Estas equivalencias se mantendrán para el efecto indicado, sin alteración hasta el último día hábil bancario del mes calendario siguiente.
 
-Cambios Internacionales, de las disposiciones del Banco Central de Chile y de
+La posición global neta de cada institución será igual a la suma algebraica de los saldos de las diferentes cuentas "Conversión Mercado Bancario", expresados en dólares norteamericanos.
 
-las instrucciones impartidas por esta Superintendencia.
+Este saldo global neto podrá ser "sobrecomprado" o igual a cero, pero de ninguna manera podrá registrarse un saldo global neto "sobrevendido", esto es, que la institución autorizada hubiera realizado ventas por una cantidad mayor al saldo del conjunto de monedas que tuviere en existencia, provenientes de compras efectuadas y contabilizadas en sus cuentas "Conversión Mercado Bancario".
 
-Las compras, ventas y transacciones de divisas que realicen los bancos o que se
+No obstante, las entidades podrán registrar saldos deudores en algunas monedas, pero siempre que, como quedó dicho, el saldo global, expresado en dólares norteamericanos no se encuentre sobrevendido.
 
-realicen por su intermedio, con excepción de las monedas latinoamericanas, se
+4.2. Información al Banco Central de Chile.
 
-llevarán a efecto, en el mercado de cambios denominado "Mercado Bancario".
+Diariamente, los bancos y Casas de Cambio M.C.F. de financieras informarán al Banco Central de Chile, mediante el "Informe Diario de Posición y Operaciones de Cambios Internacionales", las operaciones realizadas de compras y ventas de divisas sujetas a Posición. Dicho Informe deberá ser presentado el mismo día en que se cursen las operaciones o el día hábil bancario inmediatamente siguiente, según sea la cantidad de planillas que presente la institución. En todo caso, aquellas transacciones realizadas en "horario especial" por las empresas autorizadas para operar en ese horario, las que se registran al día hábil bancario siguiente al de su realización, se comunicarán al Instituto Emisor en el "Informe" del día hábil siguiente o subsiguiente a la fecha en que hayan sido cursadas, según sea el número de planillas que presente la respectiva institución.
 
-Estas compras y ventas se harán únicamente al contado, exceptuados los
+4.3. Excesos de Posición.
 
-arbitrajes a futuro con corresponsales del exterior y las compras y ventas de
+Las empresas bancarias que, al cierre de sus operaciones de cada día, mantengan un saldo de Posición sobrecomprado que exceda el límite que les haya fijado el Banco Central de Chile, deberán vender dicho exceso en el Mercado Cambiario Formal o al Instituto Emisor, a más tardar el día hábil bancario subsiguiente.
 
-divisas a futuro, que realicen los bancos, operaciones que se regirán por las
+Los importes adquiridos por los bancos para constituir provisiones o reservas en moneda extranjera, previa autorización de esta Superintendencia y, en los casos que proceda, del Banco Central de Chile, no están afectos a la obligación de venta a que se refiere el párrafo precedente.
 
-modalidades que les son propias.
+Por otra parte, las Casas de Cambio MCF de financieras deberán liquidar en el Mercado Cambiario Formal, a más tardar el día hábil bancario siguiente a aquel en que se haya producido, el saldo de Posición sobre comprado que exceda el límite fijado por el Instituto Emisor.
 
-Cuando adquieran documentos expresados y pagaderos en moneda extranjera, las
+### 5. Información al público
 
-instituciones financieras deberán identificar a la persona que se los venda,
+Las instituciones bancarias y Casas de Cambio M.C.F. de financieras deben mantener a la vista del público en caracteres fácilmente legibles, la información relativa a los tipos de cambio comprador y vendedor de cada una de las monedas que la empresa opere e indicar si se incluyen comisiones y otros gastos. En el caso que se cobren, deberán señalarse los montos o tasas que se aplican.
 
-debiendo dejar constancia de sus datos personales en los antecedentes de la
+Además, junto a esa información deberán exhibir la cotización del dólar norteamericano que diariamente publique el Banco Central de Chile, la que se informará bajo el rubro "Valor Dólar observado día anterior Banco Central".
 
-respectiva operación.
+### 6. Normas contables
 
-No es necesario que las instituciones exijan identificarse a las personas que
+6.1. Bancos.
 
-les vendan moneda extranjera en billetes, como tampoco lo es que se les informe
-
-el origen de las divisas, ya sea que éstas correspondan a billetes o documentos.
-
-Al tratarse de ventas de divisas, las instituciones deben prestar especial
-
-cuidado a los requisitos exigidos, así como a los importes máximos que pueden
-
-venderse a una misma persona natural o jurídica por los diferentes conceptos
-
-autorizados por el Banco Central de Chile. A este respecto, los bancos y casas
-
-de cambio de financieras deberán tener presente la obligación de exigir a los
-
-compradores, a fin de dejar la debida constancia en los antecedentes
-
-respectivos, su identificación, incluido su domicilio y RUT, salvo en los casos
-
-expresamente exceptuados, y la correspondiente declaración jurada cuando
-
-procediere, acerca de los montos de divisas adquiridos en el mismo mes
-
-calendario, en esa o en cualquiera institución autorizada para operar en
-
-cambios, los que no podrán exceder de los importes máximos determinados por el
-
-Instituto Emisor.
-
-Las ventas podrán realizarse solamente para los fines expresamente autorizados
-
-en el Compendio de Normas de Cambios Internacionales, o para otros
-
-distintos,siempre que en tales casos se cuente previamente con una autorización
-
-especial del Banco Central de Chile. Asimismo, las instituciones autorizadas
-
-deben clasificar adecuadamente, ateniéndose a la codificación establecida por el
-
-Banco Central de Chile, las operaciones que realicen y extender en cada caso,
-
-los documentos correspondientes que informen de la respectiva operación.
-
-### 5. Archivo de los antecedentes exigidos para la venta de divisas
-
-Los antecedentes, declaraciones o documentos comprobatorios exigidos en las
-
-normas de cambio para la venta de divisas destinadas a determinados fines, deben
-
-ser conservados por la respectiva entidad vendedora, archivados bajo su
-
-exclusiva responsabilidad y mantenidos a disposición del Banco Central de Chile
-
-o de esta Superintendencia, para el caso que les sean requeridos.
-
-Se recomienda que estos antecedentes, en lo posible, se mantengan junto a la
-
-copia de la planilla en que se declaró al Instituto Emisor la transacción
-
-correspondiente.
-
-### 6. Transacciones con moneda de países latinoamericanos
-
-Las entidades bancarias y casas de cambio de financieras pueden efectuar
-
-libremente compras, ventas, transacciones y transferencias, en cualquiera de las
-
-siguientes monedas, sin sujeción a límites o cantidades en cuanto al monto y
-
-finalidad de cada operación:
-
-Australes argentinos;
-
-Bolivianos bolivianos;
-
-Pesos colombianos;
-
-Pesos uruguayos;
-
-Intis peruanos;
-
-Cruzados brasileños;
-
-Guaraníes paraguayos;
-
-Sucres ecuatorianos; y,
-
-Bolívares venezolanos.
-
-Las compras y ventas que se realicen en estas monedas no se tomarán en cuenta
-
-para los efectos de determinar la Posición de Cambios de la Institución.
-
-Sin embargo, si se realizan arbitrajes entre estas monedas latinoamericanas o
-
-"de libre disposición" y cualquiera de las monedas sujetas a posición, estas
-
-últimas deben ingresarse a la Posición de Cambios de la empresa. Por ningún
-
-motivo podrán realizarse arbitrajes que consistan en la venta de divisas
-
-incluidas en la Posición de Cambios, para adquirir alguna moneda
-
-latinoamericana.
-
-Las instituciones bancarias y las sociedades financieras autorizadas para operar
-
-en casas de cambio entregarán al Banco Central de Chile, en las oportunidades
-
-que éste lo requiera, un informe con los ingresos y egresos en esas monedas
-
-realizados en el curso del período a que se refiere la información.
-
-### 7. Billetes en moneda extranjera falsificados
-
-Cuando a los bancos y casas de cambio de las sociedades financieras les
-
-presenten billetes en moneda extranjera falsificados, ya sea para su
-
-adquisición, canje u otra finalidad, deben efectuar la denuncia correspondiente
-
-en la Brigada de Investigación de Delitos Económicos, unidad de Investigaciones
-
-de Chile, acompañando para tal efecto los billetes falsificados y,
-
-posteriormente,ratificarla ante el Tribunal del Crimen correspondiente.
-
-### 8. Posición de Cambios
-
-8.1. Registro de operaciones y determinación de la Posición.
-
-Las entidades bancarias registrarán todas las compras y ventas de moneda
-
-extranjera que realicen en el mercado bancario por los conceptos autorizados en
-
-las respectivas normas, en cuentas de conversión que se denominarán "Conversión
-
-Mercado Bancario".
-
-Deberá establecerse una cuenta "Conversión Mercado Bancario" por cada una de las
-
-monedas en que opere la empresa. El conjunto de estas cuentas "Conversión
-
-Mercado Bancario", conformará la Posición de Cambios del Banco a que se refiere
-
-el Capítulo III del Compendio de Normas de Cambios Internacionales.
-
-Para determinar la Posición neta diaria, se convertirán los saldos de la cuenta
-
-"Conversión Mercado Bancario" en cada moneda, a dólares norteamericanos de
-
-acuerdo a las equivalencias que ellos tengan con respecto al dólar
-
-estadounidense según la publicación del Banco Central de Chile del último día
-
-hábil bancario del mes calendario inmediatamente anterior. Estas equivalencias
-
-se mantendrán para el efecto indicado, sin alteración hasta el último día hábil
-
-bancario del mes calendario siguiente.
-
-La posición global neta de cada institución será igual a la suma algebraica
-
-delos saldos de las diferentes cuentas "Conversión Mercado Bancario", expresados
-
-en dólares norteamericanos.
-
-Este saldo global neto podrá ser "sobrecomprado" o igual a cero, pero de ninguna
-
-manera podrá registrarse un saldo global neto "sobrevendido", esto es, que la
-
-institución autorizada hubiera realizado ventas por una cantidad mayor al saldo
-
-del conjunto de monedas que tuviere en existencia, provenientes de compras
-
-efectuadas y contabilizadas en sus cuentas "Conversión Mercado Bancario" o
-
-"Posición", según se trate de una institución bancaria o casa de cambio de
-
-financiera. No obstante, las entidades autorizadas para operar en cambios,
-
-podrán registrar saldos deudores en algunas monedas, pero siempre que, como
-
-quedó dicho,el saldo global, expresado en dólares norteamericanos no se
-
-encuentre sobrevendido.
-
-8.2. Información al Banco Central de Chile.
-
-Diariamente, los bancos y casas de cambio de financieras informarán al Banco
-
-Central de Chile, mediante el "Informe Diario de Posición y Operaciones de
-
-Cambios Internacionales", las operaciones de compras y ventas de divisas
-
-realizadas en el mercado bancario durante el día hábil bancario inmediatamente
-
-anterior, excepto aquellas transacciones realizadas en "horario especial" por
-
-las empresas autorizadas para operar en ese horario, las que se registran al día
-
-hábil bancario siguiente al de su realización y, en consecuencia, se comunican
-
-al Instituto Emisor en el "Informe" del día subsiguiente.
-
-No se incluirán en este Informe, como tampoco forman parte de la Posición de
-
-Cambios, las monedas extranjeras de los países latinoamericanos, a que se
-
-refiere el N° 6 de este capítulo.
-
-8.3. Excesos de Posición.
-
-Las empresas bancarias que, al cierre de sus operaciones de cada día, mantengan
-
-un saldo de Posición "sobrecomprado" que exceda el límite que les haya fijado el
-
-Banco Central de Chile, indicado en el Anexo N° 3 del Capítulo III del Compendio
-
-de Normas de Cambios Internacionales, deberán vender dicho exceso al Instituto
-
-Emisor a más tardar el día hábil bancario subsiguiente, o bien, depositarlo en
-
-la cuenta especial de que trata el numeral 8.4 siguiente.
-
-Con todo, las empresas bancarias deberán vender obligadamente todo exceso por
-
-sobre cinco veces el límite de "sobrecompra" que el Banco Central de Chile les
-
-haya fijado para su respectiva Posición de Cambios.
-
-El Banco Central de Chile podrá exigir en cualquier momento de las empresas
-
-autorizadas para operar en cambios, la venta parcial o total de su Posición de
-
-Cambios.
-
-8.4. Cuenta especial de depósito.
-
-Las normas contenidas en el N° 4 del Capítulo III del Compendio de Normas de
-
-Cambios Internacionales, permiten a las entidades bancarias mantener depositado
-
-en una cuenta especial a la vista abierta en el Banco Central de Chile, en
-
-dólares norteamericanos, el exceso de posición que registren respecto del margen
-
-de sobrecompra autorizado.
-
-Esta cuenta especial, para cuya apertura se requiere la firma previa de un
-
-contrato entre la institución bancaria y el Banco Central de Chile, puede
-
-devengar intereses en la forma que determine el Instituto Emisor y su saldo se
-
-considera "encaje mantenido" por las obligaciones en dólares
-
-norteamericanos,afectas a encaje. El saldo que se mantenga en esta cuenta no
-
-debe ser en ningún momento superior a cinco veces el margen de sobrecompra
-
-autorizado en el Anexo N° 3 del Capítulo III del Compendio de Normas de Cambios
-
-Internacionales del Banco Central de Chile.
-
-### 9. Información al público
-
-Las instituciones bancarias y casas de cambio de financieras deben mantener a la
-
-vista del público en caracteres fácilmente legibles, la información relativa a
-
-los tipos de cambio comprador y vendedor de cada una de las monedas que la
-
-empresa opere e indicar si se incluyen comisiones y otros gastos. En el caso que
-
-se cobren, deberán señalarse los montos o tasas que se aplican.
-
-Además, junto a esa información deberán exhibir la cotización del dólar
-
-norteamericano que diariamente publica el Banco Central de Chile, la que se
-
-informará bajo el rubro "Valor Dólar observado día anterior Banco Central".
-
-### 10. Normas contables
-
-10.1. Bancos.
-
-Las compras y ventas de monedas extranjeras que realicen los bancos se
-
-contabilizarán de acuerdo a las siguientes pautas:
+Las compras y ventas de monedas extranjeras que realicen los bancos se contabilizarán de acuerdo a las siguientes pautas:
 
 a) Moneda extranjera.
 
-Las compras y ventas de monedas extranjeras que se incluyen en la Posición de
+Las compras y ventas de monedas extranjeras sujetas a Posición, deben contabilizarse en la respectiva cuenta "Conversión Mercado Bancario" asignada a la partida 2505 ó 4505, según sea su saldo deudor o acreedor.
 
-Cambios se contabilizarán en la cuenta "Conversión Mercado Bancario".
-
-Esta cuenta, de las que se abrirá una para cada moneda extranjera que se opere,
-
-se demostrará en las partidas 2505 ó 4505 del formulario MB1, según sea su saldo
-
-deudor o acreedor.
-
-Las operaciones relativas a monedas latinoamericanas o de libre disposición se
-
-contabilizarán en la cuenta "Conversión Mercado de Divisas de Libre Disposición"
-
-de las partidas 2510 ó 4510 del formulario MB1.
+Las operaciones relativas a monedas de libre disposición, deben contabilizarse en la cuenta "Conversión Mercado de Divisas de Libre Disposición" de las partidas 2510 ó 4510.
 
 b) Moneda chilena.
 
-El equivalente en moneda chilena por la compra de moneda extranjera, se debitará
+El equivalente en moneda chilena por la compra de moneda extranjera, se debitará en la cuenta "Cambio Mercado Bancario". A esta misma cuenta se acreditará el importe recibido en pesos por la venta de moneda extranjera. Se debe mantener una cuenta "Cambio Mercado Bancario" por cada una de las cuentas "Conversión Mercado Bancario" abiertas, de acuerdo a las monedas operadas. Los saldos de las cuentas "Cambio Mercado Bancario" se asignan a las partidas 2505 ó 4505, según sea su saldo, deudor o acreedor.
 
-en la cuenta "Cambio Mercado Bancario". A esta misma cuenta se acreditará el
+Para las monedas de libre disposición deben utilizarse las cuentas "Cambio Mercado de Divisas de Libre Disposición", de las partidas 2510 ó 4510.
 
-importe recibido en pesos por la venta de moneda extranjera. Se establecerá una
+c) Ajuste de las cuentas "Cambio".
 
-cuenta "Cambio Mercado Bancario" por cada una de las cuentas "Conversión Mercado
+El último día de cada mes, los bancos ajustarán el saldo de las cuentas "Cambio Mercado Bancario" con cargo a la cuenta "Pérdidas de cambio" de la partida 5705 o con abono a "Utilidades de cambio" de la partida 7705, según corresponda.
 
-Bancario" que se mantenga, de acuerdo a las monedas operadas. Para las monedas
+Para realizar los referidos ajustes, deberán utilizar el tipo de cambio y el procedimiento que, para tal efecto, les señale esta Superintendencia, de conformidad con lo dispuesto en el Capítulo 13-30 de esta Recopilación.
 
-de libre disposición utilizará la cuenta "Cambio Mercado de Divisas de Libre
+En la misma fecha antes señalada, ajustarán el saldo de las cuentas "Cambio Mercado de Divisas de Libre Disposición" con cargo a la cuenta "Pérdidas varias de cambio" de la partida 5710 o con abono a "Utilidades varias de cambio" de la partida 7710, según proceda, debiendo aplicar para tal efecto el tipo de cambio comprador que la empresa mantenga para la respectiva moneda extranjera el día que realice el ajuste.
 
-Disposición". Los saldos de las cuentas "Cambio Mercado Bancario" se demostrarán
+d) Comisiones.
 
-en las partidas 2505 ó 4505 del formulario MB1 y los de las cuentas "Cambio
+Las comisiones que cobren los bancos por venta de moneda extranjera, serán acreditadas en la cuenta "Comisiones ganadas ventas de divisas" de la partida 7530.
 
-Mercado de Divisas de Libre Disposición" se reflejarán en las partidas 2510 ó
+6.2. Sociedades financieras que operen casas de cambio.
 
-4510 de dicho formulario, según sean deudores o acreedores.
+Las sociedades financieras autorizadas para operar en Casas de Cambio M.C.F., registrarán las compras y ventas de monedas extranjeras en conformidad con lo dispuesto en el Capítulo 13-29 de esta Recopilación de Normas.
 
-c) Cuenta especial con el Banco Central de Chile.
+### 7. Sanciones
 
-La cuenta especial que los bancos mantengan con el Banco Central de Chile, a que
-
-se refiere el numeral 8.4 precedente, será demostrada en la partida 1010 del
-
-formulario MB1 y su saldo, como se señaló en dicho numeral, se computará como
-
-encaje mantenido por obligaciones en dólares norteamericanos, de conformidad con
-
-las disposiciones generales sobre la materia, sin perjuicio de que opcionalmente
-
-puedan adjudicarse para los efectos de cumplir la exigencia de reserva técnica.
-
-Los intereses que devenguen los recursos depositados en esta cuenta, serán
-
-registrados en la cuenta "Intereses ganados", cuyo saldo se demostrará en la
-
-partida 7200 del formulario MR1.
-
-d) Ajuste de las cuentas "Cambio".
-
-El último día de cada mes, los bancos ajustarán el saldo de las cuentas "Cambio
-
-Mercado Bancario" con cargo a la cuenta "Pérdidas de cambio" de la partida 5705
-
-del formulario MR1 o con abono a "Utilidades de cambio" de la partida 7705 del
-
-referido formulario, según corresponda, debiendo utilizar para tal efecto, el
-
-tipo de cambio fijado por esta Superintendencia para el ajuste de las
-
-cuentas"Cambio".
-
-En la misma fecha antes señalada, ajustarán el saldo de las cuentas "Cambio
-
-Mercado de Divisas de Libre Disposición" con cargo a la cuenta "Pérdidas varias
-
-de cambio" de la partida 5710 del formulario MR1 o con abono a "Utilidades
-
-varias de cambio" de la partida 7710 del referido formulario, según
-
-proceda,debiendo aplicar para tal efecto, el tipo de cambio comprador que la
-
-empresa mantenga para la respectiva moneda extranjera el día en que efectúe el
-
-ajuste.
-
-e) Comisiones.
-
-Las comisiones que cobren los bancos por venta de moneda extranjera, serán
-
-acreditadas en la cuenta "Comisiones ganadas ventas de divisas" la que será
-
-demostrada en la partida 7530 del formulario MR1.
-
-10.2. Sociedades financieras que operen casas de cambio.
-
-Las sociedades financieras autorizadas para operar en casas de cambio,
-
-registrarán las compras y ventas de monedas extranjeras en las mismas cuentas
-
-señaladas en el Capítulo de esta Recopilación de Normas, pero en sus registros
-
-auxiliares establecerán una cuenta "Posición".
-
-En esta cuenta, de las que se debe mantener una por cada moneda extranjera que
-
-se opere, se abonarán todas las compras efectuadas y se debitarán las ventas que
-
-se realicen, expresadas en la respectiva moneda extranjera.
-
-Para registrar las operaciones en monedas latinoamericanas, continuarán
-
-utilizando cuentas auxiliares para cada moneda, con la denominación "Posición
-
-mercado divisas de libre disposición", las que no formarán parte de la Posición
-
-de Cambios.
-
-### 11. Sanciones
-
-El incumplimiento de las normas del Banco Central de Chile que rigen las
-
-operaciones de cambios internacionales o de estas instrucciones, podrá ser
-
-sancionado de acuerdo con las disposiciones de la Ley de Cambios Internacionales
-
-o del D.L. N° 1.097, de 1975, no obstante las sanciones que, en uso de sus
-
-facultades, puede aplicar el Comité Ejecutivo del Banco Central de Chile.
+El incumplimiento de las normas del Banco Central de Chile que rigen las operaciones de cambios internacionales del Mercado Cambiario Formal o de estas instrucciones, podrá ser sancionado de acuerdo con las disposiciones del D.L. N° 1.097, de 1975, no obstante las sanciones que, en uso de sus facultades, puede aplicar el Consejo del Banco Central de Chile.
 
 CAPITULO 13-2 (Bancos)
 
