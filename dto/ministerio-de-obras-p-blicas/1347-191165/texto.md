@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.347, de 31 de agosto de 2001, se expropió el lote de terreno Nº 26, superficie 267 m², rol de avalúo 237-7, comuna de Independencia, para la obra Concesión Internacional Sistema Oriente Poniente Zona Centro Independencia-Vivaceta, Región Metropolitana y se acordó el valor de indemnización con su propietaria Juana Angélica Anguita Godoy, ascendente a la cantidad de $28.502.251.-
+
+Fiscal del Ministerio de Obras Públicas.
