@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.454, de 19 de noviembre de 1999, se expropió el lote de terreno Nº 195-B, superficie 703,0 m², rol de avalúo 386-4, comuna de Loncoche, para la obra Concesión Internacional Ruta 5; Tramo Temuco-Río Bueno, Novena Región y se acordó el valor de indemnización con su propietaria Silvia de las Marías Cabrera Gallardo y otros, ascendente a la cantidad de $11.639.126.
+
+- Fiscal del Ministerio de Obras Públicas.
