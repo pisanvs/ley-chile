@@ -16038,6 +16038,10 @@ Lo dispuesto en los numerales precedentes rige también para las relaciones que 
 
 El incumplimiento de los resguardos y restricciones previstos en los numerales anteriores podrá dar lugar a la medida de suspensión de la actividad específica sobre la que recae la infracción, sin perjuicio de las sanciones establecidas en el artículo 19 del D.L. 1.097 de 1975, Ley Orgánica de esta Superintendencia.
 
+5.3.- Inversiones que pueden efectuar las sociedades filiales a que se refiere la letra b) del N° 11 bis del articulo 83 de la Ley General de Bancos.
+
+Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en documentos emitidos por el Banco Central de Chile, por el Estado y sus Organismos, o en instrumentos financieros de renta fija emitidos por bancos o sociedades financieras.
+
 ### 6. Inversión en sociedades filiales
 
 La inversión en capital que una entidad bancaria realice en empresas filiales queda sujeta al límite establecido en el inciso penúltimo del artículo 83 de la Ley General de Bancos. La inversión en cuestión se valorizará de acuerdo con lo dispuesto en el numeral 13.1 de este capítulo.
@@ -16294,21 +16298,15 @@ porcentaje de participación de una institución financiera en una empresa de
 
 apoyo.
 
-### 4. Administración de las sociedades
+4.- Administración y funcionamiento de las sociedades de apoyo al giro.
 
-Las sociedades a que se refiere este capítulo deberán tener gerente, personal,
+4.1.- Administración de las sociedades.
 
-local, equipamiento y servicios independientes de sus entidades financieras
+Las sociedades a que se refiere este capítulo deberán tener gerente, personal, local, equipamiento y servicios independientes de sus entidades financieras propietarias. Sin embargo, como estas sociedades forman parte del patrimonio delas instituciones financieras, podrán tener directores comunes con éstas. Por este mismo motivo, tampoco cabe aplicar lo dispuesto en el número 16 del artículo 65 de la Ley General de Bancos.
 
-propietarias. Sin embargo, como estas sociedades forman parte del patrimonio
+4.2.- Inversiones que pueden efectuar las sociedades de apoyo al giro.
 
-delas instituciones financieras, podrán tener directores comunes con éstas. Por
-
-este mismo motivo, tampoco cabe aplicar lo dispuesto en el número 16 del
-
-#### Artículo 65
-
-de la Ley General de Bancos.
+Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en documentos emitidos por el Banco Central de Chile, por el Estado y sus Organismos, o en instrumentos financieros de renta fija emitidos por bancos o sociedades financieras.
 
 ### 5. Inversión en sociedades de apoyo
 
