@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 669 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 98, superficie 681 m2, rol de avalúo 172-369, comuna de San Clemente, para la obra "Camino Los Robles-Huencuecho-Bajo Perquín, Tramo Km. 46,140.00 al 76,107.70" y se acordó el valor de indemnización con su propietario Iván Cruces Valdebenito, ascendente a la cantidad de $1.560.611.-
+
+Fiscal del Ministerio de Obras Públicas.
