@@ -1,0 +1,3 @@
+Por Resolución Nº 56, de 20 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, téngase por cumplido lo ordenado por la sentencia de la Excma. Corte Suprema de 2 de septiembre de 1997, rol Nº 1573 Nº 97; en el sentido de haberse acreditado por PESQUERA MAR DEL SUR S.A., que el valor técnico actualizado de sus activos fijos en tierra es superior al valor técnico actualizado de su flota pesquera de barcos fábrica según las exigencias del inciso 5 del art. 12 transitorio de la Ley de Pesca y Acuicultura.
+
+Valparaíso, 20 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
