@@ -1,0 +1,5 @@
+DELEGA FACULTADES QUE INDICA
+
+Mediante Resolución N° Exenta 2.473 de fecha 9 de junio de 1994, el suscrito autorizó al Jefe del Departamento Regional Jurídico para que conozca y resuelva todas las reclamaciones en contra de las liquidaciones, giros, pagos y resoluciones con arreglo a los procedimientos establecidos en el Título II y en el párrafo 1° del Título III del Libro Tercero del Código Tributario, y para que conozca y resuelva las denuncias por infracciones de acuerdo a los procedimientos de los párrafos 1° y 2° del Título IV del Libro Tercero del citado Código Tributario, sin perjuicio de la autorización concedida en la Resolución N° Ex. 3.180 de 28.08.92, Diario Oficial de 05.09.92.- Angel Mena Zapata, Director Regional.
+
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes.- Lilian Tapia Concha, Secretaria Regional.
