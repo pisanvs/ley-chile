@@ -1,0 +1,7 @@
+Por Resolución N°872, de 11 de Noviembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALIMENTOS MARINOS S.A., R.U.T. N°91.584.000-0, para ampliar las actividades que tiene autorizadas por Resoluciones N° 1.595, de 1990 y N°113, de 1992, ambas de esta Subsecretaría, en orden a operar la nave "Quilpolemu", en el litoral de las Regiones que a continuación se indican, donde podrá extraer los siguientes recursos hidrobiológicos: a) Litoral de la III y IV Región, con cerco: Anchoa, Agujilla, Caballa, Cabinza, Jurel, Sardina y Sardina común; b) Litoral de la VIII Región, con cerco: Agujilla, Cabinza, Merluza de cola y Sardina.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para realizar faenas de pesca extractiva respecto de los recursos hidrobiológicos y áreas de pesca no contemplados en la presente Resolución, en virtud de los informes técnicos y normas legales y reglamentarias citadas en visto.
+
+Valparaíso, 11 de Noviembre de 1993.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
