@@ -1,0 +1,3 @@
+Por resolución Nº 1.027, de 28 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por seis meses a contar de esta fecha, el plazo otorgado a PESQUERA TORRES DEL PAINE S.A., R.U.T. Nº 96.524.510-3, domiciliada en la ciudad de Santiago, para empezar a operar la nave "María Belén", autorizada mediante Resolución Nº 968, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 28 de Agosto de 1991.- Andrés Couve Rioseco., Subsecretario de Pesca.
