@@ -1,0 +1,3 @@
+Por Resolución No. 431, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado en calle Santa Isabel No. 0350, presunto rol avalúos No. 917-12, comuna Providencia, aparentemente dominio de doña Graciela Reyes Leiva y otros. Comisión integrada por peritos Jorge Navarro Navarrete arquitecto, Luis Rojas Quezada, constructor civil, y Emilio Recabarren Solar, ingeniero civil, según informe de 21.12.88, fijó monto provisional indemnización en $ 3.714.000.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
