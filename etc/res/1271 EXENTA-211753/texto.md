@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.271 de 11 de junio de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 905, de 2003, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2003-03 denominado "Evaluación directa de Langostino colorado entre la III y IV Regiones, año 2003", en el sentido de señalar que la investigación extenderá hasta el 15 de julio de 2003.
+
+Asimismo, modifícase el numeral 4º de la resolución Nº905 de 2003, antes individualizada, en el sentido de señalar que la nave industrial "Foche" podrá además realizar labores de investigación en el área marítima comprendida entre el paralelo 25°30' L.S. (II Región) y Caleta Pajonales, III Región, por fuera del área de reserva artesanal.
+
+Valparaíso, 11 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
