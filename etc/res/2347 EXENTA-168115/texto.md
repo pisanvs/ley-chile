@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA No. 2.347, DE 1987
+
+Por resolución exenta No. 2.347 de fecha 16 de Octubre de 1987, del Subsecretario de Educación Pública, se aprobó el plan y programas de estudio de la carrera que se indica, al término de la cual se otorgará el título que se señala para el Centro de Formación Téenica Instituto Lautaro, cuyo funcionamiento fue autorizado por decreto exento de Educación No. 183 de 1987, inscrito en el registro correspondiente bajo el No. 157: Area: Servicios Carrera: Contabilidad General Título: Contador General Para obtener el título correspondiente, los alumnos deberán aprobar todas las asignaturas del plan de estudio y cumplir con las normas de evaluación, promoción y titulación aprobadas por la citada resolución, para el Centro mencionado.
+
+René Salamé Martin, Subsecretario de Educación Pública.
