@@ -744,7 +744,7 @@ El derecho a continuar como imponente voluntario se extinguirá:
 
 a) Por el retiro de los fondos a que se refieren los artículos 50.°, 51.° y 54.°.
 
-b) Por haber transcurrido más de un año, contado desde la fecha de la cesantía.
+b) Por haber transcurrido más de un año, contado desde la fecha de la cesantía. Sin embargo, en el caso de los ex imponentes que impetren jubilación, el plazo para ejercer este derecho se contará desde la fecha en que la Caja notifique oficialmente al interesado los años de servicios que considera efectivamente acreditados.
 
 #### Artículo 74°
 
