@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.421, de 31 de agosto de 1998, se expropió el lote de terreno No. 78, superficie 8.917 m2., Rol de Avalúo 505-107, comuna de Los Andes, para la obra Camino Santiago-Colina-Los andes, Sector "G" By Pass Los Andes, Km. 14.602,15 al 21.928,00, V Región, y se acordó precio de la indemnización con Nenadovich del Río Miguel, ascendente a la cantidad de $ 98.375.338.
+
+- Fiscal del Ministerio de Obras Públicas.
