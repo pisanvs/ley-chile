@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 259, de 30 de octubre de 1987, se expropiaron los lotes N°s. 1, 1-A, 1-B y 2, superficies 105 M2., 68 M2., 145 M2. y 660 M2., roles de avalúos 231-38 y 231-66, Comuna de Rengo, obra: Camino Tipaume Fundo El Sauce, sector Puente El Sauce y se acordó el precio de indemnización con sus propietarios doña María Lucrecia Abarca Henríquez y don Jaime Mauricio Cuevas Gil, ascendente a las sumas de $ 85.881 y $ 159.592.
+
+Fiscal del Ministerio de Obras Públicas.
