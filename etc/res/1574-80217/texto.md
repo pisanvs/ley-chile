@@ -1,0 +1,3 @@
+Por Resolución Nº 1.574, de 18 de noviembre de 1997, de esta Subsecretaría de Pesca, autorízase a CULTIVOS MARINOS CHILOE LIMITADA, para continuar desarrollando las actividades de acuicultura autorizadas a Cultivos Marinos Chiloé S.A., de mismos R.U.T. y domicilio, en virtud de la Escritura Pública de fecha 11 de diciembre de 1995, otorgada ante la Notario Público de Santiago Nancy de la Fuente Hernández, que transformó la Sociedad "Cultivos Marinos Chiloé S.A." en "Cultivos Marinos Chiloé Limitada".
+
+Valparaíso, 18 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
