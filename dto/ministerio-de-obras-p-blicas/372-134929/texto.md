@@ -1,0 +1,3 @@
+Por decreto MOP Nº 372, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs. 102 y 103, superficie 4.271,8 m² y 5.155,1 m², rol de avalúo 364-16, comuna de Loncoche, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, IX Región y se acordó el valor de indemnización con su propietario Felipe Venus Aburto Colihueque, ascendente a la cantidad total de $5.167.367.-
+
+Fiscal del Ministerio de Obras Públicas.
