@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº408 de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº91, superficie 113 m2, rol de avalúo Nº179-87, comuna de Yerbas Buenas, para la obra "Camino Ruta L-31, Sector Polvorines-La Floresta, Tramo Km. 0,00000 a Km. 15,48000", VII Región y se acordó el valor de la indemnización con su propietario Pablo Andrés Acuña Cancino, ascendente a la cantidad de $405.209.-
+
+Fiscal del Ministerio de Obras Públicas.
