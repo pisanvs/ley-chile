@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.532, de 30 de diciembre de 2003, de esta Subsecretaría, autorízase a CORPESCA S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Arturo Prat s/n, sitio 55, manzana A, Iquique, I Región, en las líneas de elaboración Harina y Aceite, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 30 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
