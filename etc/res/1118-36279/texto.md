@@ -1,0 +1,5 @@
+Por Resolución N° 1.118, de 18 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a RENE LUCIANO VELIZ CARVAJAL, para ampliar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en la localidad de Puerto Aldea, Coquimbo, IV Región, en las líneas de elaboración de Secado y Molienda de algas, los siguientes recursos hidrobiológicos: Anfeltia, Cochayuyo, Cotoni, Chasca, Chascón, Chicorea de mar, Huiro, Liquen gomoso, Luga-Luga, Luga roja, Luche, Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
