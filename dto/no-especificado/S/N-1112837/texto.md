@@ -1,0 +1,5 @@
+Se prohibe la recluta de mineros para el servicio del Ejército
+
+Se ha representado a S. E. el gravoso perjuicio que sufre el interesante ramo de la minería, con la recluta que se ha hecho hasta aquí para el ejército, de individuos empleados en los trabajos de minas, el cual refluye en notable atraso del Erario, por que se minoran los derechos a proporcion de cesar la estraccion de metales. Atendidas estas justas razones, ha tenido a bien decretar con esta fecha, se prevenga a V.S. prohiba absolutamente se recluten mineros en los minerales del norte, ni para el servicio del ejército, ni para el de la marina.- Tengo el honor de avisarlo a V.S. para su puntual cumplimiento. Dios guarde a V.S. muchos años. Ministerio de Estado, Mayo 26 de 1818.-
+
+José Antonio de Irisarri.- Señor Gobernador Intendente de Coquimbo.
