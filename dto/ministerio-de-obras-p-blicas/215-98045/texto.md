@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº215, de 27 de febrero de 1998, se expropio el lote de terreno Nº5- A, superficie 425 m2. rol de avalúo 357-8, comuna de Concepción, obra Mejoramiento Autopista Concepción - Talcahuano, sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con su propietario Raúl Eduardo Arroyo Ramírez y otros, ascendente a la cantidad de $51.183.055.-
+
+Fiscal del Ministerio de Obras Públicas.
