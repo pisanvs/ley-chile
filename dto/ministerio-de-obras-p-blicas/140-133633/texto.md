@@ -1,0 +1,3 @@
+Por decreto MOP Nº140, de 28 de enero de 1999, se modificó el decreto MOP Nº2.085, de 30 de octubre de 1998, que autorizó la expropiación del lote Nº69 para la ejecución de la obra Camino Ruta 57 CH, Santiago - Los Andes, Sector Túnel Chacabuco - Bifurcación Auco, en el sentido que el expropiado es Inversiones La Clava Limitada y el Convenio Directo de Precio fue suscrito por los representantes de esta sociedad.-
+
+Fiscal del Ministerio de Obras Públicas.
