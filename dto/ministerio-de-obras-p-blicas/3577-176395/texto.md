@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.577, de 31 de julio de 2000, se expropió el lote de terreno Nº 66-C, superficie 1.220 m², rol de avalúo 118-142, comuna de Malloa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector G: Sexta Región y se acordó el valor de indemnización con su propietario Gabriel Gustavo Olivos Lobos, ascendente a la cantidad de $13.900.308.
+
+Fiscal del Ministerio de Obras Públicas.
