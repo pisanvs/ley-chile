@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.418, de 30 de agosto de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111027 presentada por SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado en estero Elefantes, lado norte de bahía Eugenia, sector Puerto Bonito, XI Región.
+
+Valparaíso, 30 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
