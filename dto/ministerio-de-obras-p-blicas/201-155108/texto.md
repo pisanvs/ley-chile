@@ -1,0 +1,3 @@
+Por Decreto del Ministerio de Obras Públicas No. 201, de 11 de agosto de 1986, se dejó sin efecto el Decreto de dicho Ministerio No. 1.870, de 12 de septiembre de 1960, modificado por Decretos N°s 2.255, de 26 de octubre de 1960 y 1424, de 30 de junio de 1961, en la parte que se refiere a los lotes de terrenos N°s. 22, 28 y 30, expropiados para Canal Duqueco Cuel, Derivado Mesamávida, VIII Región.-
+
+Fiscal del Ministerio de Obras Públicas.
