@@ -1,0 +1,3 @@
+Por Resolución No. 428, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado Lord Cochrane 499, presunto rol avalúos 648-6, comuna Santiago, aparentemente dominio de Laura López Toledo. Comisión integrada por peritos Roberto Correa Bezanilla, Eduardo Suárez Suárez, arquitectos, y Pablo Risopatrón Garmendia; ingeniero civil, según informe de 20.10.88. fijó monto provisional indemnización en $ 2.635.480. pagadera al contado.
+
+Director SERVIU Metropolitano.
