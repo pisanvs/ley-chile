@@ -1,0 +1,3 @@
+Por decreto MOP Nº 532, de 30 de junio de 2004, se modificó el numeral 2º , del decreto MOP Nº 140, de 27 de febrero de 2004, en lo que respecta a los propietarios, roles de avalúo de la comuna de Penco y superficies de los lotes de terreno Nº 33, 33-A y 36, son los que señala el decreto MOP Nº 532, de 30 de junio de 2004 y no los señalados en decreto MOP Nº 140, de 27 de febrero de 2004. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
