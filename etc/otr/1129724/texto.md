@@ -1,0 +1,9 @@
+﻿ Declaracion a favor de don Juan Manuel Parracia
+
+Don Juan Manuel Parracia, natural de Valparaiso i teniente que fué del ejército español, se ha presensado al Supremo Gobierno esponiendo: que la escasez i miseria en que se vió despues de la accion de Rancagua, le obligó a alistarse bajo las banderas españolas a fin de poder subvenir a la subsistencia de su numerosa familia. Pero observando despues mas de cerca la conducta tiránica i execrable de los españoles, respecto de los americanos, cediendo enteramente al amor que siempre había profesado a su Patria, resolvió sacrificarlo todo antes que volver a tomar armas contra ella. Por los informes que presenta, aparece: que el esponente es uno de los sujetos que se anunciaron en Valdivia como mas adicto a la causa de la América, que quiso mendigar sus alimentos, perder su empleo de teniente de infantería, en el batallon Concepcion, i sufrir una prision de dos meses en un castillo por no verse precisado a tomar armas contra la Patria: que cuando el pérfido Benavides entró la última vez en Talcahuano en circunstancia de hallarse anclada en aquel puerto la fragata Minerva, inmediatamente Parracía tomó las armas en su defensa.
+
+El señor Auditor, a quien se pasó esta representacion, ha puesto la siguiente vista:
+
+El oríjen de don Juan Manuel Parracía i la conducta que ha aprobado no dejan inconveniente a su solicitud de ser tenido i reputado entre los buenos hijos de la América i mui ajeno del déspota Fernando, lo cual para mayor satisfaccion del interesado convendrá se publique en la Ministerial con una breve idea del espediente.- Santiago, Setiembre 25 de 1820.- Correa de Saa.
+
+Santiago, Setiembre 27 de 1820.- Conformado.- O'Higgins.- Zenteno.
