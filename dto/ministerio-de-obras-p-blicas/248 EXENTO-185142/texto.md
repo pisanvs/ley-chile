@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº248, de 30 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº77-a para la obra: ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco; Sector II:
+
+Pillanlelbun-Gorbea''; Km. 657,000 a Km. 718,336 Novena Región, que figura a nombre de Flores Vallejos Daniel I., rol de avalúo 3366-336, comuna de Padre Las Casas, superficie 576 m2. La comisión de peritos integrada por los señores Yaschala Maribel Yáñez Riffo, Pablo Alex Mansilla Aravena y Patricio Fernando Casagrande Ulloa, fijó con fecha 17 de julio de 2000, el valor provisional de la indemnización en la cantidad de $1.233.600.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
