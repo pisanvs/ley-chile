@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.440, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº24-A, superficie 198 m², rol de avalúo 559-118, comuna de Linares, VII Región, para la obra ''Camino Ruta L-45, Sector Linares - Llepo, Tramo Km. 2,750.2 al 13,147'', y se acordó el valor de indemnización con su propietario don Juan Abutista Rosales Gatica, ascendente a la cantidad de $634.764.-
+
+Fiscal del Ministerio de Obras Públicas.
