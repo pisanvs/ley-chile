@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 44 de 17 de Enero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a los sectores excluidos y expropiados de los predios "Resto de la Hijuela Primera o Las Casas" y "El Nogal" de la comuna de Buin, Región Metropolitana y derechos de aprovechamiento de aguas que corresponden a las parcelas N° 1 a la 16, sitios N° 1 al 15 del Proyecto de Parcelación "Casas Nuevas" formado por los predios señalados. Los derechos de agua se extraen del canal Fernandino por el Canal Mirador.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
