@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.691, de 24 de junio de 1999, se expropió el lote de terreno No. 2, superficie 216 m2, rol de avalúo 56-216, comuna de San Gregorio Ñiquén, para la obra "Ruta 5 Tramo Talca - Chillán: Sector Bifurcación Camino Vecinal", Octava Región y se acordó el valor de indemnización con su propietaria Sylvia Sims Méndez, ascendente a la cantidad de $ 496.248.-
+
+Fiscal del Ministerio de Obras Públicas.
