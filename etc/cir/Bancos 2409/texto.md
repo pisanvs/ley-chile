@@ -29624,143 +29624,77 @@ Fomento dela Producción (CORFO) y el Banco del Estado de Chile.
 
 ### 4. Solicitud al Banco Central de Chile
 
-Las personas que decidan contratar las operaciones a futuro de que trata este
-
-capítulo, deberán presentar una solicitud en tal sentido a la Gerencia de
-
-Cambios Internacionales del Banco Central de Chile, según el formato contenido
-
-en el Anexo N° 2 del Capítulo VI ya mencionado, acompañada de la información a
+Las personas que decidan contratar las operaciones a futuro de que se trata, deberán presentar una solicitud en tal sentido al Banco Central de Chile, según el formato contenido en el Anexo N° 2 del Capítulo VI ya mencionado, acompañada de la información a
 
 que se refiere el Anexo N° 1 de dicho Capítulo.
 
-Cuando la Gerencia de Operaciones de Cambios Internacionales autorice a una
+Cuando el Banco Central de Chile autorice a una persona para realizar estas operaciones, le indicará:
 
-persona para realizar estas operaciones, le indicará:
+a) El tipo y monto de los contratos que podrá transar en cada Bolsa o Bolsas Oficiales Extranjeras.
 
-a) El tipo, monto y número de contratos que podrá transar en las Bolsas
+b) El nombre de los corredores en el exterior cuyos servicios deberá utilizar.
 
-Oficiales Extranjeras;
+c) Las Bolsas Oficiales Extranjeras en las que realizará las transacciones.
 
-b) El nombre de los corredores en el exterior cuyos servicios deberá utilizar;
-
-c) Las Bolsas Oficiales Extranjeras en las que realizará las transacciones;
-
-d) La empresa bancaria situada en Chile, por intermedio de la que efectuará las
-
-operaciones de compra y venta de divisas originadas en estas operaciones y que
-
-centralizará la información pertinente, de conformidad con las instrucciones que
-
-para el efecto le entregue; y,
-
-e) El número máximo de contratos que podrá mantener vigentes durante el período
-
-que le autorice, el cual no excederá de doce meses.
+d) La empresa bancaria situada en Chile designada por las personas autorizadas, por intermedio de la cual se efectuarán las transacciones relativas a estas operaciones.
 
 ### 5. Operaciones de cambio que podrán realizar las personas autorizadas
 
 Las personas autorizadas para estos fines por el Banco Central de Chile podrán efectuar las siguientes operaciones de cambio:
 
-a) Comprar y vender contratos a futuro de cobertura de tasa de interés, en dólares de los Estados Unidos de América, en Bolsas Oficiales Extranjeras, por intermedio de un corredor en el exterior autorizado para operar en dichas Bolsas, de conformidad con lo indidicado en el Capítulo VI ya señalado.
+a) Comprar y vender contratos a futuro de cobertura de tasa de interés, en dólares de los Estados Unidos de América, en Bolsas Oficiales Extranjeras, como asimismo comprar opciones put (de venta) sobre dichos contratos, por intermedio de un corredor en el exterior autorizado para operar en dichas Bolsas, de conformidad con lo indicado en el Capítulo VI ya señalado, debiendo suscribirse los correspondientes contratos dentro del plazo de vigencia de la respectiva autorización.
 
-b) Comprar dólares estadounidenses para remesar a los corredores en el exterior por los conceptos señalados en el N° 5 del Capítulo VI ya mencionado.
+b) Comprar dólares estadounidenses para remesar a los corredores en el exterior por los conceptos y sujetos a los requisitos que correspondan, según lo señalado en el 5 del Capítulo VI ya mencionado.
+
+c) Contratar créditos externos, sujetos a las condiciones indicadas en el N° 5 del Capítulo VI, mencionado precedentemente.
+
+d) Comprar moneda extranjera para pagar el capital e intereses de los créditos externos utilizados.
 
 Las personas autorizadas que realicen las operaciones de que se trata, están obligadas a retornar al país y a liquidar en el mercado bancario las divisas que provengan de transacciones en Bolsas Oficiales Extranjeras.
 
-Los retornos correspondientes a utilidades y a otros ingresas derivados de las referidas operaciones, deberán efectuarse a lo menos cada vez que se produzca un exceso de fondos en la cuenta de la respectiva persona con su corredor que supere el 25% del margen de garantía exigido.
+Los retornos correspondientes a utilidades y a otros ingresos derivados de las referidas operaciones, deberán efectuarse a lo menos cada vez que se produzca un exceso de fondos en la cuenta de la respectiva persona con su corredor que supere el 25% del margen de garantía exigido.
 
-Las devoluciones de márgenes de garantía deberán retornarse dentro del plazo máximo de veinte días hábiles bancarios contados desde la fecha de vencimiento de los contratos suscritos y deberán liquidarse dentro de los diez días siguientes a la fecha en que sean puestos a disposición de la persona autorizada que realizó las correspondientes operaciones a futuro.
+El retomo de las divisas correspondientes a los demás conceptos se deberá efectuar dentro del plazo máximo de veinte días hábiles bancarios, contados desde la fecha en que sean puestas a disposición de las personas autorizadas para operar en Bolsas Ofificiales Extranjeras, y deberán liquidarse dentro de los diez días hábiles bancarios siguientes al plazo de retorno.
 
-En todo caso, se eximirá del cumplimiento de la obligación de retornar y liquidar las divisas por los conceptos antes señalados cuando éstas sean destinadas a la constitución de márgenes de garantía exigidos por la suscripción de nuevos contratos a futuro.
+En todo caso, se eximirá del cumplimiento de la obligación de retomar y liquidar las divisas por los conceptos antes señalados, cuando éstas sean destinadas a la constitución de márgenes de garantía exigidos por la suscripción de nuevos contratos a futuro u opciones.
 
-6. Obligaciones de las personas autorizadas para realizar estas operaciones a
+En caso que las personas autorizadas para operar en Bolsas Oficiales Extranjeras no mantengan contratos de compra o Venta a futuro vigentes, deberán retornar los saldos en moneda extranjera que mantengan en el exterior, en un plazo que no podrá exceder de 20 días hábiles bancarios contado desde la fecha en que dejaren de operar, y liquidar los respectivos importes dentro del plazo máximo de 10 días hábiles bancarios siguientes al plazo de retorno.
 
-futuro en relación con los bancos mandatarios.
+6. Obligaciones de las personas autorizadas para realizar estas operaciones a futuro en relación con los bancos designados y con el Banco Central de Chile.
 
-Las personas autorizadas para realizar estas operaciones de cobertura de tasa de
+Las personas autorizadas para realizar estas operaciones de cobertura de tasas de interés están obligadas a:
 
-interés están obligadas a cumplir lo que a continuación se indica, con respecto
+a) Efectuar las compras y ventas de divisas señaladas en el N° 5 precedente, exclusivamente por intermedio de los bancos designados.
 
-a los bancos que actúen en calidad de mandatarios suyos:
-
-a) Las compras y ventas de divisas señaladas en el N° 5 precedente, deberán
-
-efectuarlas exclusivamente por su intermedio.
-
-b) Deberán entregarles, dentro de los cinco primeros días hábiles bancarios de
-
-cada mes, copia del "Estado de Movimiento Mensual y Posición Vigente" recibido
-
-de su respectivo corredor, referido al mes inmediatamente anterior.
+b) Entregar al Banco Central de Chile, dentro de los veinte primeros días hábiles bancarios de cada mes, la información sobre las operaciones realizadas en Bolsas Oficiales Extranjeras y las transferencias de divisas originadas por esas operaciones, en la forma dispuesta para el efecto por el Instituto Emisor.
 
 ### 7. Obligaciones de los bancos
 
-Los bancos que hayan aceptado actuar en calidad de mandatarios de los
+Los bancos que hayan aceptado actuar en calidad de bancos designados de los participantes en las operaciones de que se trata, se obligan a:
 
-participantes en las operaciones a futuro de que se trata, se obligan a:
+a) Entregar al Departamento de Cambios del Banco Central de Chile, dentro de los veinte primeros días hábiles bancarios de cada mes, el resumen de las compras y ventas de divisas relativas a las operaciones a futuro de que se trata, efectuadas por las personas autorizadas para operar en Bolsas Oficiales Extranjeras, correspondiente al mes inmediatamente anterior.
 
-a) Entregar al Departamento de Cambios del Banco Central de Chile, dentro delos
+b) Abrir una carpeta para cada uno de sus clientes, en la que deben mantener todos los documentos relativos a las operaciones realizadas por su intermedio.
 
-seis primeros días hábiles bancarios de cada mes, copia del "Estado de
+c) Verificar que los montos de las remesas de divisas correspondientes a estas operaciones guarden relación con los montos expresados en los contratos y éstos, a su vez, estén en concordancia con los términos de la autorización otorgada por el Banco Central de Chile.
 
-Movimiento Mensual y Posición Vigente" que hayan recibido de sus mandantes, al
+d) Controlar que las operaciones que realicen las personas autorizadas se cumplan dentro del plazo de vigencia de la respectiva autorización y se ajusten a las disposiciones contenidas en el Capítulo VI antes mencionado.
 
-que deberán adjuntar copia del documento que exija el Instituto Emisor
+e) Controlar que las personas autorizadas entreguen al Banco Central de Chile, por su intermedio, la información correspondiente a los montos cargados y abonados a las líneas de crédito en moneda extranjera y que éstas se encuentren
 
-correspondiente a las compras o ventas de divisas relativas a las operaciones a
+inscritas en el Instituto Emisor.
 
-futuro de que se trata.
+Asimismo, los bancos deberán mantener una carpeta con los antecedentes relativos a las operaciones de que se trata, realizadas por cuenta propia en las Bolsas Oficiales Extranjeras.
 
-b) Abrir una carpeta para cada uno de sus mandantes, en la que deben mantener
+8. Facultad de los bancos para vender divisas a los participantes en estas operaciones.
 
-todos los documentos relativos a las operaciones realizadas por su intermedio.
+Las empresas bancarias que actúen en calidad de bancos designados en las operaciones a que se refiere este capítulo, están facultadas para vender divisas a las personas autorizadas por el Banco Central de Chile para realizarlas, por los conceptos señalados en el N° 5 precedente.
 
-c) Verificar que los montos de las remesas de divisas correspondientes a estas
-
-operaciones guarden relación con el número de contratos vigentes y éstos, a su
-
-vez, estén en concordancia con los términos de la autorización otorgada por el
-
-Banco Central de Chile.
-
-d) Controlar que las operaciones que realicen sus mandantes se cumplan dentro
-
-del plazo de vigencia de la respectiva autorización y se ajusten a las
-
-disposiciones contenidas en el Capítulo VI antes mencionado.
-
-Asimismo, los bancos deberán mantener una carpeta con los antecedentes relativas
-
-a las operaciones de que se trata, realizadas por cuenta propia en las Bolsas
-
-Oficiales Extranjeras.
-
-### 8. Facultad de los bancos para vender divisas a los participantes en estas
-
-operaciones.
-
-Las empresas bancarias que actúen en calidad de mandatarias en las operaciones a
-
-que se refiere este capítulo, están facultadas para vender divisas a las
-
-personas autorizadas por el Banco Central de Chile para realizarlas, por los
-
-conceptos señalados en el N° 5 precedente.
-
-Del mismo modo, podrán efectuar las ventas de divisas que correspondan a las
-
-operaciones cursadas por su propia cuenta en las Bolsas Oficiales Extranjeras.
+Del mismo modo, podrán efectuar las ventas de divisas que correspondan a las operaciones cursadas por su propia cuenta en las Bolsas Oficiales Extranjeras.
 
 ### 9. Instrucciones contables
 
-Los bancos y sociedades financieras que cuenten con autorización del Banco
-
-Central de Chile para transar por su propia cuenta contratos a futuro de
-
-cobertura de tasas de interés en Bolsas Oficiales Extranjeras, registrarán
-
-dichas operaciones en la forma que a continuación se indica:
+Los bancos y sociedades financieras que cuenten con autorización del Banco Central de Chile para transar por su propia cuenta contratos a futuro de cobertura de tasas de interés en Bolsas Oficiales Extranjeras, registrarán dichas operaciones en la forma que a continuación se indica:
 
 9.1. Garantías otorgadas a Corredores.
 
@@ -29768,107 +29702,49 @@ dichas operaciones en la forma que a continuación se indica:
 
 a) Moneda extranjera.
 
-Debe: "Conversión mercado bancario" de la partida 2505 ó 4505 del formulario
+Debe: "Conversión mercado bancario" de la partida 2505 ó 4505 del formulario MB1.
 
-MB1.
+Las sociedades financieras debitarán la cuenta en que mantengan disponible la moneda extranjera adquirida.
 
-Las sociedades financieras debitarán la cuenta en que mantengan disponible la
+Haber: "Conversión garantía por contratos a futuro de tasas de interés", que se crea con ese objeto, la que será demostrada en la partida 4525 del formulario MB1.
 
-moneda extranjera adquirida.
-
-Haber: "Conversión garantía por contratos a futuro de tasas de interés", que se
-
-crea con ese objeto, la que será demostrada en la partida 4525 del formulario
-
-MB1.
-
-En estas cuentas se registrará el importe de la moneda extranjera adquirida para
-
-enterar el depósito destinado a cumplir los márgenes de garantía exigidos para
-
-las Bolsas Oficiales Extranjeras, sobre contratos de cobertura a futuro de tasas
-
-de interés.
+En estas cuentas se registrará el importe de la moneda extranjera adquirida para enterar el depósito destinado a cumplir los márgenes de garantía exigidos para las Bolsas Oficiales Extranjeras, sobre contratos de cobertura a futuro de tasas de interés.
 
 b) Moneda chilena.
 
-Debe: "Cambio garantía por contratos a futuro de tasas de interés", que
-
-habilitarán con ese objeto, cuyo saldo se demostrará en la partida 2525 del
-
-formulario MB1.
+Debe: "Cambio garantía por contratos a futuro de tasas de interés", que habilitarán con ese objeto, cuyo saldo se demostrará en la partida 2525 del formulario MB1.
 
 Haber: "Cambio mercado bancario" de la partida 2505 ó 4505 del formulario MB1.
 
-Las sociedades financieras acreditarán la cuenta que proceda por el giro para
-
-pagar la moneda extranjera adquirida.
+Las sociedades financieras acreditarán la cuenta que proceda por el giro para pagar la moneda extranjera adquirida.
 
 9.1.2. Constitución de la garantía.
 
 a) En efectivo.
 
-Debe: "Garantías por contratos a futuro de tasas de interés". El saldo de esta
+Debe: "Garantías por contratos a futuro de tasas de interés". El saldo de esta nueva cuenta será demostrado en la partida 1775 del formulario MB1.
 
-nueva cuenta será demostrado en la partida 1775 del formulario MB1.
-
-Haber: La cuenta que corresponda por el giro de la moneda extranjera para
-
-entregar el importe que se constituirá para cumplir con el margen de garantía
-
-exigido.
+Haber: La cuenta que corresponda por el giro de la moneda extranjera para entregar el importe que se constituirá para cumplir con el margen de garantía exigido.
 
 b) Carta de crédito stand by.
 
-Debe: "Cauciones otorgadas por contratos a futuro de tasas de interés", cuenta
+Debe: "Cauciones otorgadas por contratos a futuro de tasas de interés", cuenta que se crea con ese objeto, cuyo saldo será demostrado en la partida 9290 del formulario MB1.
 
-que se crea con ese objeto, cuyo saldo será demostrado en la partida 9290 del
+Haber: "Responsabilidad por cauciones otorgadas por contratos a futuro de tasas de interés". Esta cuenta se demostrará en la partida 9900 del formulario MB1.
 
-formulario MB1.
-
-Haber: "Responsabilidad por cauciones otorgadas por contratos a futuro de tasas
-
-de interés". Esta cuenta se demostrará en la partida 9900 del formulario MB1.
-
-Los bancos registrarán en estas cuentas el importe en moneda extranjera de las
-
-cartas de crédito u otros documentos emitidos por cuenta propia, a favor del
-
-respectivo corredor de Bolsa Oficial Extranjera, para cumplir el margen de
-
-garantía de los contratos vigentes.
+Los bancos registrarán en estas cuentas el importe en moneda extranjera de las cartas de crédito u otros documentos emitidos por cuenta propia, a favor del respectivo corredor de Bolsa Oficial Extranjera, para cumplir el margen de garantía de los contratos vigentes.
 
 9.2. Venta de contratos a futuro.
 
-Debe: "Contratas a futuro de cobertura de tasas de interés vendidos", cuenta que
+Debe: "Contratas a futuro de cobertura de tasas de interés vendidos", cuenta que habilitarán para tal efecto, y que será demostrada en la partida 9550 del formulario MB1.
 
-habilitarán para tal efecto, y que será demostrada en la partida 9550 del
+Haber: "Responsabilidad por contratos a futuro de cobertura de tasas de interés vendidos". El saldo de esta cuenta, que se crea con ese objeto, será demostrado en la partida 9900 del formulario MB1.
 
-formulario MB1.
-
-Haber: "Responsabilidad por contratos a futuro de cobertura de tasas de interés
-
-vendidos". El saldo de esta cuenta, que se crea con ese objeto, será demostrado
-
-en la partida 9900 del formulario MB1.
-
-Al efectuar la liquidación de los referidos contratos, mediante la respectiva
-
-compra de contratos, las instituciones financieras revertirán los asientos
-
-contables señalados en este numeral. Asimismo, procederán a revertir, cuando
-
-corresponda, los asientos contables relativos a las garantías que se mantuvieren
-
-por los contratos que se liquiden.
+Al efectuar la liquidación de los referidos contratos, mediante la respectiva compra de contratos, las instituciones financieras revertirán los asientos contables señalados en este numeral. Asimismo, procederán a revertir, cuando corresponda, los asientos contables relativos a las garantías que se mantuvieren por los contratos que se liquiden.
 
 9.3. Liquidación de las diferencias derivadas de los contratos a futuro.
 
-Las diferencias que resulten a favor de las instituciones financieras o que sean
-
-de su cargo, ya sea durante la vigencia de los contratos o al proceder a su
-
-liquidación, serán registradas como se señala en los siguientes numerales:
+Las diferencias que resulten a favor de las instituciones financieras o que sean de su cargo, ya sea durante la vigencia de los contratos o al proceder a su liquidación, serán registradas como se señala en los siguientes numerales:
 
 9.3.1. Diferencias a favor.
 
@@ -29876,75 +29752,47 @@ a) Moneda extranjera.
 
 Debe: La cuenta que corresponda por la recepción de la diferencia.
 
-Haber: "Conversión mercado bancario". Las sociedades financieras acreditarán la
-
-cuenta en que hayan registrado la recepción de las divisas.
+Haber: "Conversión mercado bancario". Las sociedades financieras acreditarán la cuenta en que hayan registrado la recepción de las divisas.
 
 b) Moneda chilena.
 
-Debe: "Cambio mercado bancario". Las sociedades financieras debitarán la cuenta
+Debe: "Cambio mercado bancario". Las sociedades financieras debitarán la cuenta que corresponda por la recepción del producto de la venta de las divisas.
 
-que corresponda por la recepción del producto de la venta de las divisas.
-
-Haber: "Utilidades contratos a futuro de cobertura de tasas de interés", cuenta
-
-que se crea con ese objeto, cuyo saldo será demostrado en la partida 7710 del
-
-formulario MR1.
+Haber: "Utilidades contratos a futuro de cobertura de tasas de interés", cuenta que se crea con ese objeto, cuyo saldo será demostrado en la partida 7710 del formulario MR1.
 
 9.3.2. Diferencias de su cargo.
 
 a) Moneda extranjera.
 
-Debe: "Conversión mercado bancario". Las sociedades financieras debitarán la
-
-cuenta en que mantengan disponibles las divisas adquiridas.
+Debe: "Conversión mercado bancario". Las sociedades financieras debitarán la cuenta en que mantengan disponibles las divisas adquiridas.
 
 Haber: La cuenta que corresponda por el giro para pagar la diferencia.
 
 b) Moneda chilena.
 
-Debe: "Pérdidas contratos a futuro de cobertura de tasas de interés", cuenta que
+Debe: "Pérdidas contratos a futuro de cobertura de tasas de interés", cuenta que habilitarán para tal efecto. El saldo de esta cuenta se demostrará en la partida 5710 del formulario MR1.
 
-habilitarán para tal efecto. El saldo de esta cuenta se demostrará en la partida
-
-5710 del formulario MR1.
-
-Haber: "Cambio mercado bancario". Las sociedades financieras acreditarán la
-
-cuenta que proceda por el giro para pagar las divisas adquiridas.
+Haber: "Cambio mercado bancario". Las sociedades financieras acreditarán la cuenta que proceda por el giro para pagar las divisas adquiridas.
 
 9.4. Pago de comisiones a los Corredores.
 
 a) Moneda extranjera.
 
-Debe: "Conversión mercado bancario". Las sociedades financieras debitarán la
+Debe: "Conversión mercado bancario". Las sociedades financieras debitarán la cuenta en que mantengan disponibles las divisas adquiridas.
 
-cuenta en que mantengan disponibles las divisas adquiridas.
-
-Haber: La cuenta que corresponda por el giro para efectuar el pago por este
-
-concepto.
+Haber: La cuenta que corresponda por el giro para efectuar el pago por este concepto.
 
 b) Moneda chilena.
 
-Debe: "Comisiones pagadas por contratos a futuro de tasas de interés", cuenta
+Debe: "Comisiones pagadas por contratos a futuro de tasas de interés", cuenta que abrirán con ese objeto, la que será demostrada en la partida 5530 del formulario MR1.
 
-que abrirán con ese objeto, la que será demostrada en la partida 5530 del
-
-formulario MR1.
-
-Haber: "Cambio mercado bancario". Las sociedades financieras acreditarán la
-
-cuenta que proceda por el giro para pagar las divisas adquiridas.
+Haber: "Cambio mercado bancario". Las sociedades financieras acreditarán la cuenta que proceda por el giro para pagar las divisas adquiridas.
 
 9.5. Gastos de correo y de comunicaciones.
 
 a) Moneda extranjera.
 
-Debe: "Conversión mercado bancario". Las sociedades financieras debitarán la
-
-cuenta en que mantengan disponibles las divisas adquiridas.
+Debe: "Conversión mercado bancario". Las sociedades financieras debitarán la cuenta en que mantengan disponibles las divisas adquiridas.
 
 Haber: La cuenta que corresponda por el giro para pagar el respectivo gasto.
 
@@ -29952,139 +29800,109 @@ b) Moneda chilena.
 
 Debe: La cuenta de resultado que proceda según el gasto de que se trate.
 
-Haber: "Cambio mercado bancario". Las sociedades financieras acreditarán la
+Haber: "Cambio mercado bancario". Las sociedades financieras acreditarán la cuenta que corresponda por el giro efectuado para pagar las divisas adquiridas.
 
-cuenta que corresponda por el giro efectuado para pagar las divisas adquiridas.
+9.6. Opciones.
 
-9.6. Ajustes mensuales.
+9.6.1. Compra de opciones put (de venta).
 
-El último día de cada mes, las instituciones financieras procederán a calcular y
+Debe: "Opciones put compradas sobre contratos de cobertura de tasas de interés", de la partida 9550 del formulario MB1.
 
-registrar provisionalmente la variación de precio que a esa fecha hayan
+Haber: "Responsabilidad por opciones put compradas sobre contratos de cobertura de tasas de interés", de la partida 9900 del formulario MB1.
 
-experimentado los contratos que mantengan vendidos a futuro por cobertura
+Los importes registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
 
-detasas de interés.
+9.6.2. Compra de opciones cali (de compra).
 
-Al mes siguiente, antes de registrar el nuevo ajuste o al efectuar la
+Debe: "Opciones cali compradas sobre contratos de cobertura de tasas de interés", de la partida 9550 del formulario MB1.
 
-liquidación de los respectivos contratos, procederán a revertir el que hayan
+Haber: "Responsabilidad por opciones cali compradas sobre contratos de cobertura de tasas de interés", de la partida 9900 del MB1.
 
-contabilizado en el mes precedente.
+Los importes registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
 
-Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en
+9.6.3. Prima por la compra de opciones.
 
-pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación
+Los importes que los bancos paguen por la adquisición de las opciones, se registrarán como sigue:
 
-provisional de contratos a futuro por cobertura de tasas de interés", que se
+a) Moneda extranjera.
 
-crea con ese objeto, cuyo saldo será demostrado en la partida 2120 ó 4120 del
+Debe: "Conversión mercado bancario".
 
-formulario MB1 y con abono a la cuenta "Utilidades contratos a futuro de
+Haber: La cuenta que corresponda por el giro para pagar la prima.
 
-cobertura de tasas de interés" o con cargo a "Pérdidas contratos a futuro de
+b) Moneda chilena.
 
-cobertura de tasas de interés", según corresponda.
+Debe: "Primas por compra de opciones sobre contratos de cobertura de tasas de interés", de la partida 5530 del formulario MR1.
 
-El ajuste se realizará sobre la base de las variaciones de precio que, con
+Haber: "Cambio mercado bancario".
 
-respecto al precio pactado a futuro, hayan experimentado al último día del
+9.6.4. Liquidación de opciones.
 
-respectivo mes, los contratos que se mantengan vendidos, debiendo considerar, en
+Las diferencias que resulten a favor de los bancos al liquidar las opciones, se registrarán de la siguiente forma:
 
-todo caso, los ajustes parciales que pudieran haberse efectuado durante su
+a) Moneda extranjera.
 
-vigencia, ya sea mediante la liquidación de diferencias a su favor o la remesa
+Debe: La cuenta que corresponda por la recepción del importe en moneda extranjera.
 
-de las diferencias que sean de su cargo.
+Haber: "Conversión mercado bancario".
 
-El importe resultante se convertirá a moneda chilena al tipo de cambio que haya
+b) Moneda chilena.
 
-dado a conocer esta Superintendencia para fines de representación contable,
+Debe: "Cambio mercado bancario".
 
-vigente en la fecha del ajuste.
+Haber: "Utilidades de opciones sobre contratos de cobertura de tasas de interés", de la partida 7710 del formulario MR1.
 
-Por otra parte, las instituciones financieras ajustarán el saldo de la cuenta
+9.7. Ajustes mensuales.
 
-"Cambio garantía por contratos a futuro de tasas de interés", el último día de
+9.7.1. Contratos de cobertura de tasas de interés.
 
-cada mes, de tal manera que refleje el equivalente en pesos moneda nacional del
+El último día de cada mes, las instituciones financieras procederán a calcular y registrar provisionalmente la variación de precio que a esa fecha hayan experimentado los contratos que mantengan vendidos a futuro por cobertura detasas de interés.
 
-saldo de la cuenta "Conversión garantía por contratos a futuro de tasas de
+Al mes siguiente, antes de registrar el nuevo ajuste o al efectuar la liquidación de los respectivos contratos, procederán a revertir el que hayan contabilizado en el mes precedente.
 
-interés", al tipo de cambio fijado por esta Superintendencia para el ajuste
+Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación provisional de contratos a futuro por cobertura de tasas de interés", que se crea con ese objeto, cuyo saldo será demostrado en la partida 2120 ó 4120 del formulario MB1 y con abono a la cuenta "Utilidades contratos a futuro de
 
-delas cuentas "Cambio'. Dicho ajuste se realizará con abono a la cuenta
+cobertura de tasas de interés" o con cargo a "Pérdidas contratos a futuro de cobertura de tasas de interés", según corresponda.
 
-"Utilidades por variación de tipo de cambio de recursos en moneda extranjera
+El ajuste se realizará sobre la base de las variaciones de precio que, con respecto al precio pactado a futuro, hayan experimentado al último día del respectivo mes, los contratos que se mantengan vendidos, debiendo considerar, en todo caso, los ajustes parciales que pudieran haberse efectuado durante su vigencia, ya sea mediante la liquidación de diferencias a su favor o la remesa de las diferencias que sean de su cargo.
 
-liquidados" de la partida 7715 del formulario MR1, o bien, con cargo a "Pérdida
+El importe resultante se convertirá a moneda chilena al tipo de cambio que haya dado a conocer esta Superintendencia para fines de representación contable, vigente en la fecha del ajuste.
 
-por variación de tipo de cambio de recursos en moneda extranjera liquidados",
+Por otra parte, las instituciones financieras ajustarán el saldo de la cuenta "Cambio garantía por contratos a futuro de tasas de interés", el último día de cada mes, de tal manera que refleje el equivalente en pesos moneda nacional del saldo de la cuenta "Conversión garantía por contratos a futuro de tasas de interés", al tipo de cambio fijado por esta Superintendencia para el ajuste delas cuentas "Cambio'. Dicho ajuste se realizará con abono a la cuenta "Utilidades por variación de tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7715 del formulario MR1, o bien, con cargo a "Pérdida por variación de tipo de cambio de recursos en moneda extranjera liquidados", dela partida 5715 de ese formulario. Al mes siguiente, antes de registrar el nuevo ajuste, revertirán el asiento efectuado en el mes precedente.
 
-dela partida 5715 de ese formulario. Al mes siguiente, antes de registrar el
+9.7.2. Opciones.
 
-nuevo ajuste, revertirán el asiento efectuado en el mes precedente.
+El último día de cada mes, las instituciones financieras procederán a calcular y registrar provisionalmente la variación de precio a su favor que hayan experimentado las opciones compradas.
 
-### 10. Límites que afectan a estas operaciones
+Al mes siguiente, antes de registrar el nuevo ajuste o al efectuar la liquidación de las respectivas opciones procederán a revertir el que hayan contabilizado en el mes precedente. Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo a la cuenta "Variación provisional de opciones sobre contratos de cobertura de tasas
 
-Los bancos y sociedades financieras situados en Chile que sean autorizados por
+de interés", de la partida 2120 del formulario MB1 y con abono a la cuenta "Utilidades de opciones sobre contratos de cobertura de tasas de interés".
 
-el Instituto Emisor para realizar por su propia cuenta las operaciones a futuro
+El ajuste corresponderá exclusivamente al valor de la prima de la respectiva opción, antes de que ésta expire o se ejerza. El importe de dicho valor se convertirá a moneda chilena, en forma extracontable, al tipo de cambio que haya dado a conocer esta Superintendencia para fines de representación contable, vigente a la fecha del ajuste.
 
-de que trata este capítulo, sólo podrán mantener contratos a futuro vigentes por
+### 10. Límites que afectan estas operaciones
 
-un monto que no supere el 10% de la suma de los saldos de sus colocaciones e
+10.1. Límites para operaciones realizadas por las instituciones por cuenta propia.
 
-inversiones en moneda extranjera, en moneda nacional documentadas en moneda
+Los bancos y sociedades financieras situados en Chile que sean autorizados por el Instituto Emisor para realizar por su cuenta las operaciones a futuro de que trata este Capítulo, sólo podrán mantener contratos a futuro vigentes por un monto que no supere el 10% de la suma de los saldos de sus colocaciones e inversiones en moneda extranjera, en moneda nacional documentadas en moneda
 
-extranjera o en moneda nacional reajustables por la variación del tipo de
+extranjera o en moneda nacional reajustables por la variación del tipo de cambio, pactadas originalmente a tasa de interés flotante y para las cuales posteriorménte se haya convenido o se convenga, remplazarías por una tasa de interés fija.
 
-cambio, pactadas originalmente a tasa de interés flotante y para las cuales
+10.2. Margen adicional para operaciones realizadas por los bancos por cuenta propia.
 
-posteriormente se haya convenido o se convenga, remplazaría por una tasa de
+No obstante lo señalado en el numeral 10.1 precedente, el Banco Central de Chile puede autorizar a las empresas bancarias para que realicen las operaciones de que se trata, con el objeto de proteger los descalces financieros producidos por la fijación, en fechas diferidas, de las tasas de interés de los pasivos coligados a los contratos de reestructuración de la deuda externa y de los activos orrespondientes a depósitos en cuentas en el Banco Central de Chile o inversiones en instrumentos emitidos por el Instituto Emisor, ya sean en moneda extranjera, en moneda nacional documentados en moneda extranjera o en moneda nacional reajustable por la variación del tipo de cambio, efectuados con recursos asociados a dichas obligaciones. Para los efectos de cubrir los riesgos derivados de los descalces señalados en el párrafo precedente, las empresas bancarias podrán suscribir contratos de venta a futuro o compra de opciones put (de venta) sobre dichos contratos o, en su defecto, suscribir contratos de
 
-interés fija.
+compra a futuro o compra de opciones cali (de compra) sobre los referidos contratos.
 
-Las cauciones que emitan las entidades financieras, como las cartas de crédito
+10.3. Límites de la Ley General de Bancos.
 
-"stand-by" en el caso de los bancos, a que se refiere la letra b) del numeral
+Las cauciones que emitan las entidades financieras, como las cartas de crédito "Stand-by" en el caso de los bancos, a que se refiere la letra b) del numeral 9.1.2 anterior y que se registran en la partida 9290 del formulario MB1, se considerarán en la determinación del monto de obligaciones afectas al artículo 81 de la Ley General de Bancos.
 
-9.1.2 anterior y que se registran en la partida 9290 del formulario MB1, se
+Por otra parte y sin perjuicio de lo anterior, los contratos que las instituciones financieras mantengan vendidos por coberturas de tasas de interés a futuro, no se incluirán para los efectos de los límites de que tratan los artículos 81, 84 y 115 de la Ley General de Bancos.
 
-considerarán en la determinación del monto de obligaciones afectas al artículo
+No obstante que las operaciones mencionadas en el párrafo precedente se exceptúan de aquellos márgenes legales, quedando sujetas solamente a la limitación fijada por el Banco Central de Chile a que se refieren los numerales 10.1 y 10.2 precedentes, esta Superintendencia hace presente a las entidades fiscalizadas que el uso de este mecanismo de cobertura debe limitarse a los
 
-81 de la Ley General de Bancos.
-
-Por otra parte y sin perjuicio de lo anterior, los contratos que las
-
-instituciones financieras mantengan vendidos por cobertura de tasas de interés a
-
-futuro, no se incluirán para los efectos de los límites de que tratan los
-
-artículos 81, 84 y 115 de la Ley General de Bancos.
-
-No obstante que las operaciones mencionadas en el párrafo precedente se han
-
-exceptuado de los márgenes legales de la Ley General de Bancos, quedando sujetas
-
-solamente a la limitación que les fijó el Banco Central de Chile, en relación
-
-con el monto de las colocaciones e inversiones que inicialmente se hubieran
-
-pactado a tasas variables, y posteriormente se hubieran cambiado a tasas fijas,
-
-esta Superintendencia hace presente a las entidades fiscalizadas que el uso de
-
-este mecanismo de cobertura debe limitarse a los casos en que exista una
-
-efectiva necesidad de protegerse de las alteraciones que puedan sufrir las tasas
-
-variables PRIME o LIBO, como ocurre cuando se mantienen obligaciones pactadas
-
-sobre esa base, sin la correspondiente contrapartida en sus activos que traslade
-
-esas variaciones a las colocaciones o inversiones de la empresa.
+casos en que exista una efectiva necesidad de protegerse de las alteraciones que puedan sufrir las tasas variables PRIME o LIBO, como ocurre cuando se mantienen obligaciones pactadas sobre esa base, sin la correspondiente contrapartida en sus activos que traslade esas variaciones a las colocaciones o inversiones de la empresa.
 
 CAPITULO 13-23 (Bancos)
 
