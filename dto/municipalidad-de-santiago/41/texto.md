@@ -1,0 +1,3 @@
+Por decreto Secc. 2a No. 41 de 10 de Enero de 1990 Alcalde I. Municipalidad de Santiago dispone expropiación total conforme DS No. 458 Vivienda y Urbanismo Ley No. 18.695 y decreto Ley No. 2.186 de inmueble Lord Cochrane 395-99 rol 542-8 aparentemente dominio Maquinaria China Limitada. Superficie aproximada 1165,30 m2. Deslindes Norte 86,10 mts. otro propietario Sur 85,90 mts. otro propietario Oriente 13,60 mts. calle Lord Cochrane Poniente 13,50 mts. otro propietario Indemnización provisional $ 7.799.845. pagadera contado .
+
+Máximo Honorato Alamos.- Alcalde Santiago.
