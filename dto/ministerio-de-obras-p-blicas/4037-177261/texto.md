@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.037, de fecha 31 de agosto de 2000, se expropió el lote de terreno Nº6, superficie 2.035 M2, rol de avalúo 1004-16, comuna de Puerto Natales, para la obra ''Habilitación y Construcción Regadío Huertos Familiares Puerto Natales. Aducción II Etapa'' y se acordó el valor de indemnización con su propietario Servio Eladio Saldivia Kroeger, ascendente a la cantidad de $240.329.
+
+Fiscal del Ministerio de Obras Públicas.
