@@ -1,0 +1,5 @@
+Por decreto MOP Nº928, de 15 de junio de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº16-B para la obra:
+
+"Concesión Internacional Ruta 5. Tramo Collipulli - Temuco. Sector II: Pillanlelbún - Gorbea Km. 657,000 a Km. 718,336", Novena Región, que figura a nombre de Escala Gazmuri Gastón, rol de avalúo 3282-1, comuna de Padre Las Casas, superficie 19.904 m2. La comisión de peritos integrada por los señores Patricio Fernando Casagrande Ulloa, Yaschala Maribel Yáñez Riffo y Pablo Alex Mansilla Aravena, fijó con fecha 26 de enero de 2001, el valor provisional de la indemnización en la cantidad de $41.283.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
