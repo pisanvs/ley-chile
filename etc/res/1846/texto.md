@@ -1,0 +1,3 @@
+Por Resolución N° 1.846, de 28 de octubre de 1996, de esta Subsecretaría de Pesca de Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2°, de la Resolución N° 888, de 1996, de esta Subsecretaría, que autorizó a JORGE DALMIRO GARCIA GIL, para ampliar actividades pesqueras de transformación, en orden a sustituir la expresión "... ubicada en Waldo Seguel N° 368, Puerto Toro, Isla Navarino, Punta Arenas, XII Región..." por "... ubicada en Puerto Toro, Isla Navarino, XII Región...".
+
+Valparaíso, 28 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
