@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 74, del 2 de agosto del año 2000, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo en Servicios Industriales Coopservin Limitada, de nombre de fantasía Coopservin Ltda., en los términos que dan testimonio el acta constitutiva protocolizada con fecha 21 de marzo del 2000, al final de los registros del Notario de Viña de Mar, don Raúl Tavolari Vásquez, bajo el Nº 1.393, y el acta rectificatoria protocolizada con fecha 5 de julio del 2000, al final de los registros del mismo Notario, bajo el Nº 2.979.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
