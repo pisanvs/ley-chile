@@ -1,0 +1,3 @@
+Por Decreto MOP N° 774, de 30 de septiembre de 1996, se expropiaron los lotes de terrenos N°s. 39 y 40, superficies 23.318 y 31.710, roles de avalúo N°s. 2228-9 y 2228-28, comuna de Chillán para la obra Camino Acceso Norte a Concepción, sector Km. 5.071 al 14.928, y se acordó el valor de indemnización con su propietario Robert Dempster Contreras, ascendente a la cantidad de $129.794.056.-
+
+Fiscal del Ministerio de Obras Públicas.
