@@ -14,6 +14,14 @@ Lo que transcribo a US. para su conocimiento.- Humberto Alvarez Johannssen, Dire
 
 Montevideo, 12 de Agosto de 1980.
 
+Al Excelentísimo señor
+
+Embajador Roberto Martínez Le Clainche
+
+Representante Permanente de México ante la ALALC
+
+Presente.
+
 Señor Embajador:
 
 Tengo el honor de dirigirme a Vuestra Excelencia con relación a lo dispuesto en la resolución N° 1 del Consejo de Ministros de la Asociación Latinoamericana de Libre Comercio, de fecha 12 de Agosto de 1980, por la cual se establece el criterio para la revisión de los compromisos derivados del programa de liberación del Tratado de Montevideo.
