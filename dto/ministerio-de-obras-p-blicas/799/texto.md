@@ -1,0 +1,5 @@
+Por Decreto MOP N° 799, de 30 de septiembre de 1996, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P.
+
+N°294, de 1984, que fijó el texto actualizado de Ley N°15.840, se expropió el lote de terreno N°1, para la obra Recinto Captación y Estanque Villa Illinois, que figura a nombre de Diego Ramírez Moyano, Rol de Avalúo 3984-5, Comuna de talca, VII Región, superficie 25,56 m2. La Comisión de Peritos compuesta por los señores Luis Hugo Villarroel Urbina, René Ramírez Valenzuela e Iván Correa Opazo, Fijó con fecha 26 de marzo de 1996, el valor provisional de la indemnización en la cantidad de $76.680.-para el lote N°1. L indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio Obras Públicas.
