@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.530, de 21 de septiembre de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 140, para la obra Camino Santiago-Colina-Los Andes, Sector "A" A. Vespucio - By Pass Colina, Km.
+
+7.953,70 al 13.502,60, que figura a nombre de Giralt Armijo Jaime Agustín, rol de avalúo 164-320, comuna de Colina, superficie 1.510,7 m2. La Comisión de Peritos integrada por las señoras Paola Andrea Domingo Porcella, Inés Elena Otárola Castillo y señor Andrés Echeverría Campo, fijó con fecha 15 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 13.353.461.- para el lote 140. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
