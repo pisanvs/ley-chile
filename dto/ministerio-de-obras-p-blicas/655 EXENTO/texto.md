@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº655, de 31 de mayo de 2001, se expropió el lote de terreno Nº27-1, superficie 65 m², rol de avalúo 619-34, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector N, Séptima Región y se acordó el valor de indemnización con sus propietarios Jorge Segundo Espina Valenzuela y otros, ascendente a la cantidad de $366.329.-
+
+Fiscal del Ministerio de Obras Públicas.
