@@ -1,0 +1,7 @@
+Por Resolución N° 224, de 06 de Febrero de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a Luis Rolando Vergara Rojas, para iniciar actividades pesqueras de transformación, en la forma y bajo las condiciones que a continuación se expresan.
+
+El peticionario podrá instalar y operar la planta ubicada en La Ribera Sur N° 400 Pudeto Bajo, Ancud, X Región, donde podrá procesar en la línea de elaboración de Pre-cocido, los siguientes recursos hidrobiológicos: Almeja o taca Protothaca thaca, Almeja Ameghinomya antiqua, Almeja Eurhomalea venus, Almeja Eurhomalea lenticularis, Almeja Eurhomalea rufa, Calamar, Caracol palo palo, Caracol, picuyo, Caracol piquilhue, Caracol tegula, Caracol, trumulco, Culengue, Chitón o apretador, Cholga, Chorito, Choro, Lapa, Macha, Navajuela, Navaja de mar o Huepo, Ostión del norte, Ostión del sur, Ostra chilena, Pulpo, Centolla, Centollón, Jaiba panchote, Jaiba limón, Jaiba marmola, Jaiba peluda o pachona, Jaiba reina, Picoroco, Erizo, Pepino de mar, Piure.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 6 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
