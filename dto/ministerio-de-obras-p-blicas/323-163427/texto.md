@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 323, de 30 de octubre de 1985, se expropiaron los lotes No.s. 19 y 22, roles de avalúo 320-16 y 21286-3, superficies 3.000 m2., y 10.870 m2., Comuna de Concepción, para Camino Autopista General Bonilla y se acordó precio de indemnización con sus propietarios don Nicolás Enrique Bustos Almirall y otras y Sociedad Comercial Flores Hermanos Limitada, ascendente a $ 829.140 para el lote 19 y $ 1.201.700 para el lote No. 9.2, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
