@@ -19190,39 +19190,19 @@ los adquirentes no hayan demostrado un patrimonio que guarde relación con la
 
 magnitud de la operación antes de efectuarla.
 
-2. Entidades relacionadas a una institución y que conforman un grupo de personas
+2. Entidades relacionadas a una institución y que conforman un grupo de personas vinculadas entre sí.
 
-vinculadas entre sí.
+Se entenderá que conforman un mismo grupo de personas relacionadas a una institución financiera todas aquellas personas naturales y jurídicas entre las cuales se dé una o más de las siguientes circunstancias de vinculación entre ellas:
 
-Se entenderá que conforman un mismo grupo de personas relacionadas a una
+a) vinculaciones de negocios, de capitales o de administración que permitan a una o más personas naturales o jurídicas ejercer una influencia significativa y permanente en las decisiones de las demás;
 
-institución financiera todas aquellas personas naturales y jurídicas entre las
+b) presunciones fundadas de que los créditos otorgados a una persona serán usados en beneficio de otra;
 
-cuales se dé una o más de las siguientes circunstancias de vinculación entre
+c) presunciones fundadas de que diversas personas mantienen relaciones de tal naturaleza que conforman de hecho una unidad de intereses económicos.
 
-ellas:
+Adicionalmente, cuando en una institución financiera participen como accionistas, con un porcentaje superior al uno por ciento, corredores de bolsa u otros agentes institucionales, nacionales o extranjeros, que en el ejercicio de su giro mantengan a nombre propio por cuenta de terceros títulos accionarios, se entenderá que ellos representan a los accionistas mayoritarios de la institución financiera y serán considerados para todos los efectos como parte del grupo mayoritario de ella, a menos que demuestren que sus representados son personas independientes de los demás accionistas de la institución financiera.
 
-a) vinculaciones de negocios, de capitales o de administración que permitan a
-
-una o más personas naturales o jurídicas ejercer una influencia significativa y
-
-permanente en las decisiones de las demás;
-
-b) presunciones fundadas de que los créditos otorgados a una persona serán
-
-usados en beneficio de otra;
-
-c) presunciones fundadas de que diversas personas mantienen relaciones de tal
-
-naturaleza que conforman de hecho una unidad de intereses económicos.
-
-Con respecto a las personas para las cuales se presume relación, la
-
-Superintendencia establecerá a cuál de los grupos relacionados a la institución
-
-deberá ser agregada cada una de ellas, lo que será informado a la institución
-
-oportunamente.
+Con respecto a las personas para las cuales se presume relación, la Superintendencia establecerá a cuál de los grupos relacionados a la institución deberá ser agregada cada una de ellas, lo que será informado a la institución oportunamente.
 
 ### 3. Empresas filiales y de apoyo de una institución financiera
 
@@ -38342,11 +38322,7 @@ cubierto, firmado por a lo menos un apoderado de la empresa bancaria.
 
 3.- Depósito en el Banco Central de Chile de divisas vendidas por coberturas efectuadas antes de cumplirse el plazo para su remesa o rembolso.
 
-Las divisas provenientes de coberturas que se efectúen antes de cumplirse el plazo de 120 días desde la fecha de embarque de la respectiva importación, con excepción de las ventas señaladas en el numeral 2.2 precedente, deberán mantenerse depositadas en el Banco Central de Chile hasta la fecha en que se cumpla ese plazo. Este depósito se mantendrá en una cuenta a nombre del banco
-
-que haya efectuado la venta de divisas o endosado la planilla con los datos necesarios para efectuar la cobertura, según corresponda. En el caso de operaciones cuyo pago se hubiere convenido para una fecha posterior a aquélla en que se cumplan los citados 120 días, dicho depósito deberá mantenerse por lo menos hasta cinco días antes de la fecha de vencimiento pactada.
-
-No obstante lo señalado en el párrafo precedente, cuando se trate de la cobertura de embarques de mercaderías pagaderas a plazo, amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, el referido depósito deberá mantenerse en el Banco Central de Chile hasta el vencimiento pactado.
+Las divisas provenientes de coberturas que se efectúen antes del vencimiento pactado en la respectiva operación, deberán mantenerse depositadas en el Banco Central de Chile hasta la fecha en que se cumpla ese plazo. Este depósito se mantendrá en una cuenta a nombre del banco que haya efectuado la venta de divisas o endosado la planilla con los datos necesarios para efectuar la cobertura, según corresponda.
 
 Las colocaciones originadas en cartas de crédito financiadas por el propio banco o con moneda extranjera vendida condicionalmente, serán canceladas al momento de efectuarse la cobertura.
 
@@ -38396,21 +38372,15 @@ Internacionales de la fecha correspondiente.
 
 6.1.- Sobre cartas de crédito a la vista.
 
-Las instituciones bancarias están facultadas para cobrar intereses en moneda extranjera sobre las cartas de crédito a la vista, que hubieren financiado, por el período comprendido entre la fecha de negociación y la de vencimiento del plazo de 120 días contados desde la fecha de embarque, hasta más dos días adicionales. En los casos en que la cobertura se realice después de los
-
-referidos 120 días o cuando se trate de embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, podrán cobrar intereses hasta la fecha de cobertura más dos días, cuando fuere procedente.
+Las instituciones bancarias están facultadas para cobrar intereses en moneda extranjera sobre las cartas de crédito a la vista, que hubieren financiado, por el período comprendido entre la fecha de negociación y la de vencimiento del plazo que hubieren pactado con el importador para el pago de la operación. En los casos en que la cobertura se realice después de vencido dicho plazo, podrán cobrar intereses hasta la fecha de la cobertura.
 
 La tasa de interés que se cobre por estos financiamientos no podrá exceder de la que autorice para estas operaciones el Banco Central de Chile.
 
-Cuando se trate de acreditivos abiertos con una "Venta condicional de moneda extranjera", esto es, que el importador depositó el equivalente en moneda nacional, esos intereses podrán cobrarse, conforme a las normas vigentes, desde la fecha de cobertura o sea desde el instante en que la moneda chilena depositada por el importador es efectivamente utilizada en la compra de divisas,hasta el vencimiento de los 120 días desde la fecha de embarque, más dos días adicionales, si fuera necesario. En el caso de los embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, no podrán cobrar intereses.
+Cuando se trate de acreditivos abiertos con una "Venta condicional de moneda extranjera", esto es, que el importador depositó el equivalente en moneda nacional, las empresas bancarias no podrán cobrar intereses.
 
 6.2.- Sobre cartas de crédito a plazo.
 
-En las coberturas correspondientes a cartas de crédito pagaderas a plazo, podrán incluirse intereses del proveedor por el período comprendido entre la fecha de embarque y el vencimiento de la carta de crédito. Cuando este vencimiento ocurra en una fecha anterior a aquélla en que se cumplan los 120 días desde la fecha de embarque, los bancos que otorguen su financiamiento por la diferencia de plazo podrán agregar intereses a su favor, por el tiempo que medie entre ambas fechas, hasta más dos días. En caso que la cobertura se realice después de los 120 días contados desde la fecha de embarque y con posterioridad a la fecha de
-
-vencimiento de la carta de crédito, los bancos podrán agregar intereses por el período comprendido entre esta última fecha y la fecha de cobertura hasta más dos días adicionales, cuando corresponda.
-
-No obstante lo señalado en el párrafo precedente, cuando se trate de embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, los bancos sólo podrán cobrar intereses, además de los del proveedor, por el período comprendido entre la fecha de vencimiento de la carta de crédito y la fecha de la cobertura, hasta más dos días adicionales, cuando proceda.
+En las coberturas correspondientes a cartas de crédito pagaderas a plazo, podrán incluirse intereses del proveedor por el periodo comprendido entre la fecha de embarque y el vencimiento de la carta de crédito. En caso que la cobertura se realice con posterioridad a la fecha de vencimiento de la carta de crédito, los bancos podrán agregar intereses a su favor por el periodo comprendido entre esta última fecha y la fecha de cobertura.
 
 La tasa de interés que se pacte con el proveedor no podrá ser superior a la autorizada por el Banco Central de Chile, para estos efectos.
 
@@ -38418,23 +38388,17 @@ Los intereses que cobren los bancos por el período en que hubieran financiado l
 
 6.3.- Sobre cobranzas
 
-En las coberturas de importaciones en cobranza, podrán adicionarse intereses a favor del proveedor o cedente extranjero, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la cobertura de la cobranza, hasta más dos días adicionales. En todo caso, si la cobertura se efectuare antes de los 120 días de la fecha de embarque o del vencimiento pactado, los intereses podrán cubrirse hasta la fecha en que se cumpla el mayor de dichos plazos, pudiendo adicionarlo en hasta dos días, encaso necesario.
-
-No obstante lo señalado en el párrafo precedente, cuando se trate de embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, los bancos podrán adicionar intereses del proveedor o del cedente, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la fecha de la cobertura o del vencimiento pactado, según cual sea posterior, hasta más dos días adicionales, en caso necesario.
+En las coberturas de importaciones en cobranza, podrán adicionarse intereses a favor del proveedor o cedente extranjero, siempre que así se establezca en las respectivas instrucciones, por el período comprendido entre la fecha de embarque y la cobertura de la cobranza. En todo caso, si la cobertura se efectuare antes del vencimiento del plazo pactado, los intereses podrán cubrirse hasta la fecha en que se cumpla dicho plazo.
 
 La tasa de interés no podrá ser superior a la autorizada por el Banco Central de Chile, para estos efectos.
 
 7.- Remesa o rembolso del importe de las coberturas.
 
-La remesa de las divisas al exterior para el pago de la respectiva importación o su rembolso a la institución bancaria, cuando se trate de importaciones efectuadas con financiamiento bancario, no podrá realizarse antes de cumplido el plazo de 120 días contado desde la fecha de embarque, salvo cuando se trate de embarques de mercaderías amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, caso en el cual la remesa o rembolso se hará en la oportunidad que corresponda, de acuerdo con las condiciones de pago que se hubieren pactado.
+La remesa de las divisas al exterior para el pago de la respectiva importación o su rembolso a la institución bancaria, cuando se trate de importaciones efectuadas con financiamiento bancario, no podrá realizarse antes de cumplido el plazo pactado.
 
-En los casos en que el importe de la cobertura haya sido depositado en el Banco Central de Chile, éste será devuelto en la fecha en que se cumplan los 120 días desde la fecha de embarque o en la fecha de vencimiento de la obligación, si ella fuere posterior. En todo caso, cuando se trate de embarques amparados por un Informe de Importación cuyo valor CIF no exceda de US$ 50.000, el referido depósito podrá ser girado cuando corresponda hacer el pago de la importación. La devolución de dicho depósito, se efectuará mediante abono en la cuenta corriente del respectivo banco, sin que sea necesaria solicitud alguna para tal efecto.
+En los casos en que el importe de la cobertura haya sido depositado en el Banco Central de Chile, éste será devuelto en la fecha de vencimiento de la obligación. La devolución de dicho depósito se efectuará mediante abono en la cuenta corriente del respectivo banco, sin que sea necesaria solicitud alguna para tal efecto.
 
 Cuando el importe de la cobertura deba ser enviado al extranjero o entregado a otro banco situado en el país, su remesa deberá efectuarse a más tardar el día siguiente hábil bancario después de la fecha en que se realizó la venta de las divisas o de la recuperación del depósito constituido en el Banco Central de Chile, según corresponda.
-
-Si el plazo de pago pactado excede de los 120 días de la fecha de embarque, la remesa podrá efectuarse con una anticipación de hasta cinco días a la fecha del respectivo vencimiento, siempre que con ello no se reduzca el plazo de 120 días fijado por el Banco Central de Chile, en los casos que corresponda.
-
-En todo caso, se recomienda a los bancos hacer uso de esta facultad solamente cuando sea necesario y considerar especialmente los casos en que, además, se han cubierto dos días adicionales de intereses, habida consideración que ambas disposiciones tienen el mismo fin, de procurar que el acreedor extranjero reciba las divisas en la fecha de vencimiento prevista o con los intereses incluidos hasta la fecha de recepción de la remesa, si ello ocurriera con posterioridad al vencimiento acordado.
 
 8.- Anotación de las ventas de divisas.
 
