@@ -1,0 +1,5 @@
+Distintivo de los alumnos del Colejio Seminario
+
+Teniendo en consideracion el Gobierno que el Colejio Seminario de esta capital no ha sido establecido ni costeado por el Rei: que su destino es la enseñanza de los jóvenes que se dedican a la carrera eclesiástica, i que sus fondos, su administracion, etc., han sido siempre atenciones del Obispo i Clero, viene en condescender con la súplica de los alumnos de dicho Colejio que han solicitado vivamente no se les permita llevar el distintivo de una corona en la Veca. i en disponer que por ahora subroguen esta señal con una escarapela tricolor colocada en el mismo sitio en que antes trahiyan la corona, sobre una C. i una S. que indiquen ser individuos del Colejio Seminario. Transcríbase así con oficio al Rector.
+
+Dado en el Palacio de Gobierno de Santiago, a 20 de Mayo de 1813.-Francisco Antonio Pérez.-José Miguel Infante.-Agustin de Eyzaguirre.-Mariano de Egaña, secretario.
