@@ -1,0 +1,10301 @@
+FIJA UBICACION EN LA ESCALA UNICA PARA LOS TRABAJADORES DEPENDIENTES DEL ESTADO QUE SEÑALA
+
+Núm. 316.- Santiago, 11 de Febrero de 1974.- Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y en el decreto ley N° 249, de 31 de Diciembre de 1973, publicado en el Diario Oficial el 5 de Enero de 1974,
+
+la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Fíjase para los trabajadores del Servicio de Minas del Estado, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+--------------------------------------------------------
+
+Ubicación en la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+Director Ingeniero 1ª. Cat. 4
+
+Jefes de Departamentos Ingenieros 2ª. Cat. 5
+
+Abogado 2ª. Cat. 6
+
+Jefes Zona Ingenieros 2ª. Cat. 6
+
+Técnicos 1° (Ingeniero de
+
+Ejecución) 2ª. Cat. 11
+
+Ingenieros 3ª. Cat. 7
+
+Técnicos 2° (Ingenieros de
+
+Ejecución) 3ª. Cat. 13
+
+Contadores 1° 3ª. Cat. 14
+
+Jefe Administrativo 4ª. Cat. 10
+
+Técnicos 3° 4ª. Cat. 15
+
+Contadores 2° 4ª. Cat. 15
+
+Jefe Catastro Minero 5ª. Cat. 12
+
+Jefe Relaciones 5ª. Cat. 18
+
+Jefe Estadística 5ª. Cat. 14
+
+Para desempeñar los cargos de Técnico 1° grado 11° y Técnico 2° grado 13° se requerirá estar en posesión del título de Ingeniero de Ejecución, en la respectiva especialidad.
+
+El o los cargos de Técnicos 3° grado 15 y de Contadores 2° grado 15, se transformarán en grados 19 y 27, respectivamente, a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª Cat. 19
+
+Oficiales 6ª Cat. 20
+
+Oficiales 7ª Cat. 21
+
+Oficiales Gr. 1° 23
+
+Oficiales Gr. 2° 24
+
+Oficiales Gr. 3° 25
+
+Oficiales Gr. 4° 27
+
+Oficiales Gr. 5° 29
+
+El o los cargos de Oficial de grado 29 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIO
+
+Mayordomo 7ª Cat. 25
+
+Auxiliares Gr. 1° 26
+
+Auxiliares Gr. 2° 27
+
+Auxiliares Gr. 3° 28
+
+Auxiliares Gr. 4° 30
+
+Auxiliares Gr. 5° 31
+
+Auxiliares Gr. 6° 32
+
+Auxiliares Gr. 7° 33
+
+El o los cargos de Auxiliar de grado 33 se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 2°
+
+Fíjase para los trabajadores de la Dirección General de Deportes y Recreación, de conformidad con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado en la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Director General I Cat. 4
+
+Subdirectores III Cat. 5
+
+SUPRIMIDO Jefes de Departamentos IV Cat. 7 Secretarios Técnicos IV Cat. 7 Abogado Jefe IV Cat. 7
+
+Jefe de Planificación y Presup. IV Cat. 7
+
+Jefes de Departamentos V Cat. 9
+
+Médico Jefe Depto. Medicina
+
+Deportiva V Cat. 9
+
+Jefe Relaciones Públicas V Cat. 16
+
+Administrador Estadio Nacional V Cat. 11
+
+Secretario Abogado Corporación
+
+Construcciones Deportivas VI Cat. 12
+
+Profesores Educación Física VI Cat. 13
+
+Supervisores de Deportes
+
+o Recreación VI Cat. 15
+
+Visitadores VI Cat. 15
+
+Arquitecto VI Cat. 11
+
+Contador VI Cat. 16
+
+Coordinador de Estudios VI Cat. 16
+
+Psicólogo o sociólogo VI Cat. 16
+
+Médico VI Cat. 11
+
+Dentista VI Cat. 11
+
+Subadministrador Estadio Nacional VI Cat. 16
+
+Profesores Educación Física VII Cat. 16
+
+Abogados VII Cat. 13
+
+Constructor Civil VII Cat. 17
+
+Contador VII Cat. 20
+
+Supervisores de Deportes
+
+o Recreación VII Cat. 19
+
+Visitadores VII Cat. 19
+
+Coordinador de Estudios VII Cat. 19
+
+Programdor Audiovisual VII Cat. 20
+
+Administrador Estadio Chile VII Cat. 16
+
+Contadores Gr. 1° 21
+
+Estadístico Gr. 1° 21
+
+Jefe de Personal Gr. 1° 16
+
+Profesores de Educación Física Gr. 1° 18
+
+Supervisores de Deportes
+
+o Recreación Gr. 1° 20
+
+Visitadores Gr. 1° 20
+
+Conductor de Obras Gr. 2° 21
+
+Dibujante Gr. 2° 24
+
+Contador Gr. 2° 23
+
+Supervisores de Deportes
+
+o Recreación Gr. 2° 22
+
+Conductores de Obras Gr. 3° 22
+
+Dibujante Gr. 3° 25
+
+Supervisores de Deportes
+
+o Recreación Gr. 3° 24
+
+El o los cargos de Arquitecto, Psicólogo o sociólogo, Médico, Dentista, Abogados, Constructor Civil, Profesores de Educación Física, Contador, Dibujante de grados 11°, 16°, 11°, 11°, 13°, 17°, 18°, 23° y 25°, respectivamente, se transformarán en grados 17°, 20°, 17°, 17°, 17°, 19°, 23°, 27° y 30°, a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª Cat. 19
+
+Oficiales 6ª Cat. 20
+
+Oficiales 7ª Cat. 21
+
+Oficiales Gr. 1° 22
+
+Oficiales Gr. 2° 23
+
+Oficiales Gr. 3° 25
+
+Oficiales Gr. 4° 26
+
+Oficiales Gr. 5° 27
+
+Oficiales Gr. 6° 29
+
+El o los cargos de Oficiales grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA SERVICIOS
+
+Auxiliares 7ª Cat. 25
+
+Auxiliares Gr. 1° 26
+
+Auxiliares Gr. 2° 27
+
+Auxiliares Gr. 3° 28
+
+Auxiliares Gr. 4° 30
+
+Auxiliares Gr. 5° 31
+
+Auxiliares Gr. 6° 32
+
+Auxiliares Gr. 7° 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 3°
+
+Fíjase para los trabajadores de la Dirección del Trabajo, a contar del 1° de Enero de 1974, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Director 1ª Cat. 2
+
+Subdirector 2ª Cat. 4
+
+Jefes Departamentos 3ª Cat. 5
+
+Contralor Jefe 3ª Cat. 5
+
+Abogado Comisión Mixta Sueldos 4ª Cat. 7
+
+Jefes Unidad Depto. Jurídico 4ª Cat. 7
+
+Jefe de Oficina: Estudios
+
+Económicos, Estadísticas
+
+e Informaciones 4ª Cat. 8
+
+Jefe de Oficina: Estudios,
+
+Organización y Métodos 4ª Cat. 8
+
+Jefe Depto. Administrativo 4ª Cat. 6
+
+Inspectores Provinciales 1ª Cat. 4ª Cat. 8
+
+Para desempeñar los cargos de Inspectores Provinciales, grado 8 Escala Unica de Sueldos, se requerirá estar en posesión de un título profesional universitario o tener la calidad de Inspector del Trabajo durante ocho años, a lo menos.
+
+Presidente Junta de
+
+Conciliación de Santiago 4ª Cat. 8
+
+Contralores 4ª Cat. 8
+
+Inspectores 5ª Cat. 9
+
+Abogados 5ª Cat. 11
+
+Inspectores 6ª Cat. 11
+
+Jefe de Relaciones Públicas 6ª Cat. 14
+
+Especialista Organización
+
+y Métodos 6ª Cat. 12
+
+Abogados 6ª Cat. 13
+
+Contador 6ª Cat. 15
+
+Economista 6ª Cat. 12
+
+Inspectores 7ª Cat. 13
+
+Especialista Organización
+
+y Métodos 7ª Cat. 14
+
+Abogados 7ª Cat. 17
+
+Contadores 7ª Cat. 18
+
+Oficial de Presupuesto 7ª Cat. 14
+
+Estadístico 7ª Cat. 16
+
+Contadores Gr. 1° 21
+
+Inspectores Gr. 1° 14
+
+Inspectores Gr. 2° 15
+
+Inspectores Gr. 3° 16
+
+Inspectores Gr. 4° 17
+
+Inspectores Gr. 5° 18
+
+Inspectores Gr. 6° 19
+
+Inspectores Gr. 7° 20
+
+Inspectores Gr. 8° 21
+
+Inspectores Gr. 9° 22
+
+Inspectores Gr. 10° 22
+
+Para desempeñar la función inspectiva se requerirá haber aprobado los exámenes de los cursos a que se refiere el artículo 58º del D.F.L. 2 de 1967, orgánico de la Dirección del Trabajo, los cuales no podrán tener una duración inferior a dos meses.
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª Cat. 19
+
+Oficiales 6ª Cat. 19
+
+Oficiales 7ª Cat. 20
+
+Oficiales Gr. 1° 20
+
+Oficiales Gr. 2° 21
+
+Oficiales Gr. 3° 21
+
+Oficiales Gr. 4° 22
+
+Oficiales Gr. 5° 22
+
+Oficiales Gr. 6° 23
+
+Oficiales Gr. 7° 24
+
+Oficiales Gr. 8° 24
+
+Oficiales Gr. 9° 25
+
+Oficiales Gr. 10° 25
+
+Oficiales Gr. 11° 26
+
+Oficiales Gr. 12° 26
+
+Oficiales Gr. 13° 27
+
+Oficiales Gr. 14° 28
+
+Oficiales Gr. 15° 28
+
+Oficiales Gr. 16° 29
+
+Oficiales Gr. 17° 29
+
+El o los cargos de Oficiales grado 29 del último nivel se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Auxiliares 7ª Cat. 25
+
+Auxiliares Gr. 1° 26
+
+Auxiliares Gr. 2° 27
+
+Auxiliares Gr. 3° 28
+
+Auxiliares Gr. 4° 30
+
+Auxiliares Gr. 5° 31
+
+Auxiliares Gr. 6° 32
+
+Auxiliares Gr. 7° 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: La modificación introducida a este artículo rige a contar del 1º de enero de 1975.
+
+#### Artículo 4°
+
+Fíjase para los trabajadores del Servicio de Registro Civil e Identificación, de acuerdo con lo dispuesto en el artículo 13, del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Director General Abogado 1ª Cat. 3
+
+Subdirector General Abogado 2ª Cat. 4
+
+Jefe del Depto. Jurídico 2ª Cat. 5
+
+Jefe del Depto. de Reg. Civil
+
+e Identific. 2ª Cat. 5
+
+Inspector Jefe 2ª Cat. 5
+
+Jefe del Personal 3ª Cat. 6
+
+Jefe del Arch. Gral. del
+
+Reg. Civil 3ª Cat. 6
+
+Jefe Oficina Central de
+
+Identificación 3ª Cat. 6
+
+Abogados 3ª Cat. 7
+
+Inspectores 3ª Cat. 9
+
+Abogados 4ª Cat. 11
+
+Subjefe del Archivo Gral.
+
+del Reg. Civil 4ª Cat. 11
+
+Subjefe Oficina Central de
+
+Identific. 4ª Cat. 11
+
+Jefes Provinciales del Reg.
+
+Civil e Identificación 4ª Cat. 12
+
+Oficiales Jefes del Depto.
+
+de Santiago 4ª Cat. 12
+
+Oficial Jefe de la Oficina
+
+de San Miguel del Depto.
+
+Pedro A. Cerda 4ª Cat. 12
+
+Oficiales Jefes de Oficina
+
+de Provincia de Valaparaíso
+
+y Santiago 4ª Cat. 12
+
+Jefes Departamentales de Reg.
+
+Civil e Identificación 4ª Cat. 12
+
+Jefes de Subdeptos. de la Of.
+
+Central de Identificación 4ª Cat. 12
+
+Jefes de Subdeptos. de Arch.
+
+Gral. del Registro Civil 4ª Cat. 12
+
+Jefe de Subdeptos. de Máq.
+
+Operadoras Automática 4ª Cat. 12
+
+Jefe de Subdeptos. Fotografía 4ª Cat. 12
+
+Jefes Departamentales del
+
+Reg. Civil e Identificación 5ª Cat. 14
+
+Subjefes de Of. Prov.
+
+y Deptales. de Registro Civil
+
+e Identificación 5ª Cat. 14
+
+Subjefes de Subdeptos.
+
+del Arch. Gral. y de Of.
+
+Central de Identificación 5ª Cat. 14
+
+Jefes de Secc. del Depto.
+
+del Reg. Civil e Identificación;
+
+Sección Registro Civil 5ª Cat. 14
+
+Sección Identificación 5ª Cat. 14
+
+Subjefe Depto. Máq.
+
+Operadoras Automát. 5ª Cat. 14
+
+Jefe de la Oficina de
+
+Racionalización 5ª Cat. 14
+
+Jefes Deptales. de Reg. Civil
+
+e Identificación 6ª Cat. 17
+
+Oficiales Comunales de Reg.
+
+Civil e Identificación y
+
+Jefes de Gabinetes de
+
+Identificación 6ª Cat. 17
+
+Jefes de Sección del Arch. Gral.
+
+de la Oficina Central de
+
+Identificación 6ª Cat. 17
+
+Examinadores de Registro 6ª Cat. 17
+
+Subjefes de Of. Provin. y Deptales
+
+de Registro Civil e Identificación 6ª Cat. 17
+
+Subjefes de Of. de Reg. Civil
+
+e Identificación del Depto. de
+
+Santiago 6ª Cat. 17
+
+Oficiales de la Oficina de
+
+Racionalización 6ª Cat. 17
+
+Oficial de Partes de la
+
+Direcc. Gral. de Reg. Civil
+
+e Identificación 6ª Cat. 17
+
+Subjefe de la Sección
+
+Personal 6ª Cat. 17
+
+Jefe de Almacenes 6ª Cat. 17
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª Cat. 19
+
+Oficiales 6ª Cat. 20
+
+Oficiales 7ª Cat. 21
+
+Oficiales Gr. 1° 22
+
+Oficiales Gr. 2° 23
+
+Oficiales Gr. 3° 24
+
+Oficiales Gr. 4° 25
+
+Oficiales Gr. 5° 26
+
+Oficiales Gr. 6° 27
+
+Oficiales Gr. 7° 28
+
+Oficiales Gr. 8° 29
+
+El o los cargos de Oficiales grado 29° se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Mayordomo 7ª Cat. 25
+
+Auxiliares 7ª Cat. 25
+
+Auxiliares Gr. 1° 26
+
+Auxiliares Gr. 2° 27
+
+Auxiliares Gr. 3° 28
+
+Auxiliares Gr. 4° 30
+
+Auxiliares Gr. 5° 31
+
+Auxiliares Gr. 6° 32
+
+Auxiliares Gr. 7° 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El artículo 7º del DL 1682, Justicia, publicado el 25.01.1977, suprimió los cargos de Jefes de las Oficinas de Identificación de Cauquenes, Talcahuano y Puerto Montt, grado 17 de la Escala Unica de Sueldos, y creó en su reemplazo los cargos de Subjefe en las Oficinas del Registro Civil de "Recoleta", "Portales" y "Moneda", 1°, 2° y 3° circunscripciones del departamento de Santiago, respectivamente, conservando el mismo grado.
+
+#### Artículo 5°
+
+Fíjase para los trabajadores de la Dirección de Industria y Comercio, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Director Nacional 1ª Cat. 3
+
+Jefe de División de Comercio
+
+Interno 2ª Cat. 5
+
+Fiscal 2ª Cat. 4
+
+Secretario General 2ª Cat. 6
+
+Jefe de División de Cooperativas 2ª Cat. 5
+
+Jefe de División de Industria 2ª Cat. 5
+
+Jefe de División de Oficinas
+
+Regionales y Provinciales 2ª Cat. 5
+
+Jefe de Depto. Costos y Precios 2ª Cat. 5
+
+Jefe de Depto. Arriendos 2ª Cat. 5
+
+Jefe de Control 2ª Cat. 6
+
+Jefe de División de Relaciones 2ª Cat. 7
+
+Jefe de Abastecimiento 2ª Cat. 6
+
+Visitadores 2ª Cat. 7
+
+Jefe de Inspectores 2ª Cat. 7
+
+Abogado Conservador de Marcas 3ª Cat. 6
+
+Abogados 3ª Cat. 6
+
+Ingeniero Conservador de
+
+Patentes 3ª Cat. 6
+
+Ingenieros 3ª Cat. 6
+
+Jefe de Departamento
+
+Administrativo 3ª Cat. 8
+
+Contadores 3ª Cat. 13
+
+Inspectores Generales 3ª Cat. 10
+
+Jefes Regionales 3ª Cat. 8
+
+Jefe de Relaciones Públicas 3ª Cat. 13
+
+Visitadores 3ª Cat. 10
+
+Supervisor 3ª Cat. 8
+
+Inspectores 3ª Cat. 11
+
+Abogados 4ª Cat. 9
+
+Ingenieros 4ª Cat. 9
+
+Contadores 4ª Cat. 14
+
+Contador Oficial de
+
+Presupuesto Jefe 4ª Cat. 11
+
+Químicos Farmacéuticos 4ª Cat. 9
+
+Visitadores 4ª Cat. 12
+
+Jefes de Control 4ª Cat. 11
+
+Subinspector General 4ª Cat. 12
+
+Jefe Control Expedientes 4ª Cat. 14
+
+Subjefe Departamento Administrativo 4ª Cat. 12
+
+Supervisores 4ª Cat. 10
+
+Arquitectos 4ª Cat. 9
+
+Inspectores 4ª Cat. 12
+
+Abogados 5ª Cat. 10
+
+Contadores 5ª Cat. 15
+
+Quimico Farmacéutico 5ª Cat. 10
+
+Jefe de Control 5ª Cat. 13
+
+Subinspectores Generales 5ª Cat. 14
+
+Supervisores 5ª Cat. 11
+
+Relacionadores 5ª Cat. 15
+
+Estadistico 5ª Cat. 17
+
+Visitadores 5ª Cat. 14
+
+Inspectores 5ª Cat. 13
+
+Abogados 6ª Cat. 12
+
+Contadores 6ª Cat. 16
+
+Jefes de Control 6ª Cat. 15
+
+Supervisores 6ª Cat. 13
+
+Técnico Químico 6ª Cat. 16
+
+Estadístico 6ª Cat. 18
+
+Visitador 6ª Cat. 16
+
+Inspectores 6ª Cat. 14
+
+Abogados 7ª Cat. 14
+
+Contadores 7ª Cat. 18
+
+Arquitecto 7ª Cat. 14
+
+Asistente Social 7ª Cat. 15
+
+Jefes de Control 7ª Cat. 17
+
+Supervisores 7ª Cat. 15
+
+Relacionadores 7ª Cat. 17
+
+Estadísticos 7ª Cat. 19
+
+Subinspectores Generales 7ª Cat. 16
+
+Inspectores 7ª Cat. 15
+
+Abogados Gr. 1° 15
+
+Contadores Gr. 1° 20
+
+Supervisores Gr. 1° 16
+
+Estadisticos Gr. 1° 21
+
+Visitador Gr. 1° 18
+
+Inspectores Gr. 1° 16
+
+Abogado Gr. 2° 17
+
+Contadores Gr. 2° 32
+
+Supervisores Gr. 2° 17
+
+Estadísticos Gr. 2° 22
+
+Inspectores Gr. 2 17
+
+Supervisores Gr. 3° 17
+
+Contadores Gr. 3° 24
+
+El o los cargos de Contador grado 24° se transformarán en grado 27° a medida que vayan quedando vacantes.
+
+Estadísticos Gr. 3° 23
+
+Inspectores Gr. 3° 18
+
+Supervisores Gr. 4° 18
+
+Estadísticos Gr. 4° 24
+
+Inspectores Gr. 4° 19
+
+Inspectores Gr. 5° 20
+
+Inspectores Gr. 6° 22
+
+Inspectores Gr. 7° 24
+
+PLANTA ADMINISTRATIVA
+
+Procuradores Judiciales 5ª Cat. 19
+
+Secretarios Administrativos 5ª Cat. 19
+
+Oficiales 5ª Cat. 19
+
+Procuradores Judiciales 6ª Cat. 20
+
+Secretarios Administrativos 6ª Cat. 20
+
+Oficiales 6ª Cat. 20
+
+Secretarios Administrativos 7ª Cat. 21
+
+Oficiales 7ª Cat. 21
+
+Oficiales Gr. 1° 22
+
+Oficiales Gr. 2° 22
+
+Oficiales Gr. 3° 23
+
+Oficiales Gr. 4° 24
+
+Oficiales Gr. 5° 25
+
+Oficiales Gr. 6° 25
+
+Oficiales Gr. 7° 26
+
+Oficiales Gr. 8° 27
+
+Oficiales Gr. 9° 28
+
+Oficiales Gr. 10° 28
+
+Oficiales Gr. 17° 29
+
+El o los cargos de Oficiales grado 29° se transformarán en grado 31° a medida que vayan quedando vacantes.
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DE SERVICIOS MENORES
+
+Mayordomos 7ª Cat. 25
+
+Choferes 7ª Cat. 25
+
+Porteros 7ª Cat. 25
+
+Porteros Gr. 1° 26
+
+Chofer Gr. 1° 26
+
+Porteros Gr. 2° 27
+
+Porteros Gr. 3° 28
+
+Choferes Gr. 3 30
+
+Porteros Gr. 4° 30
+
+Porteros Gr. 4° 28
+
+Porteros Gr. 5° 31
+
+Porteros Gr. 6° 32
+
+Porteros Gr. 7° 33
+
+El o los cargos de Porteros grado 33° se transformarán en grado 35° a medida que vayan quedando vacantes.
+
+PLANTA DE PERSONAL DE LOS ALMACENES REGULADORES Y MERCADOS PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Gerente General de Almacenes 3ª Cat. 6
+
+Subgerente de Almacenes 4ª Cat. 9
+
+Administrador de Mercado P. Ríos 4ª Cat. 9
+
+Jefe de Control de Mercados 4ª Cat. 9
+
+Contador de Almacenes 5ª Cat. 13
+
+Administrador Mercado San Gregorio 6ª Cat. 14
+
+Promotor de Ventas de Almacenes Gr. 4° 21
+
+PLANTA ADMINISTRATIVA
+
+Jefe de Compras de Almacenes 5ª Cat. 19
+
+Oficial de Contabilidad
+
+de Almacenes 5ª Cat. 19
+
+Guarda Almacén 5ª Cat. 19
+
+Supervisor de Vendedores 5ª Cat. 19
+
+Cajero Pagador Mercado Pres. Ríos 5ª Cat. 19
+
+Supervisor de Almacenes 6ª Cat. 20
+
+Supervisor de Vendedores 6ª Cat. 20
+
+Jefe de Almacén 6ª Cat. 20
+
+Oficiales de Contabilidad 6ª Cat. 20
+
+Auxiliares 6ª Cat. 20
+
+Oficial de Control del Merc.
+
+Pres. Ríos 6ª Cat. 20
+
+Supervisor de Vendedores 7ª Cat. 21
+
+Jefe de Almacén 7ª Cat. 21
+
+Oficial de Contabilidad 7ª Cat. 21
+
+Jefe de Mantenimiento y
+
+Transporte de Almacenes Gr. 1° 22
+
+Jefes de Almacén Gr. 1° 22
+
+Auxiliares Gr. 1° 22
+
+Jefes de Almacén Gr. 2° 23
+
+Oficial de Contabilidad Gr. 2° 23
+
+Cajero Gr. 2° 23
+
+Auxiliares Gr. 2° 23
+
+Supervisor de Vendedores Gr. 3° 24
+
+Jefes de Almacén Gr. 3° 24
+
+Guarda Almacén Gr. 3° 24
+
+Cajeros Gr. 3° 24
+
+Auxiliares Administrativos Gr. 3° 24
+
+Auxiliares Gr. 3° 24
+
+Jefes de Almacén Gr. 4° 25
+
+Oficial de Contabilidad Gr. 4° 25
+
+Cajero Gr. 4° 25
+
+Auxiliares Gr. 4° 25
+
+Auxiliares de Contabilidad Gr. 5° 27
+
+Cajero Gr. 5° 27
+
+Auxiliares Gr. 5° 27
+
+Jefes de Almacén Gr. 6° 28
+
+Cajeros Gr. 6° 28
+
+Secretario Mercado Gr. 6° 28
+
+Secretario Administrativo
+
+Mercado San Gregorio Gr. 6° 28
+
+Cajeros Gr. 7° 29
+
+Oficiales de Contabilidad Gr. 7° 29
+
+Auxiliares Gr. 7° 29
+
+Cajero Gr. 17° 31
+
+El o los cargos de Auxiliares Grado 29º se transformarán en grado 33º a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Rondín Mercado 7ª Cat. 25
+
+Choferes 7ª Cat. 25
+
+Auxiliares Secundarios 7ª Cat. 25
+
+Auxiliares Secundarios Gr. 1° 26
+
+Auxiliares Secundarios Gr. 2° 27
+
+Auxiliares Secundarios Gr. 3° 28
+
+Auxiliares Secundarios Gr. 4° 30
+
+Auxiliares Secundarios Gr. 5° 31
+
+Auxiliares Secundarios Gr. 6° 32
+
+Auxiliares Secundarios Gr. 7° 33
+
+El o los cargos de Auxiliares Secundarios de grado 33° se transformarán en grado 35°, a medida que vayan quedando vacantes
+
+Choferes Gr. 1° 26
+
+Choferes Gr. 2° 27
+
+Choferes Gr. 3° 28
+
+El o los cargos de Choferes grado 28° se transformarán en grado 33, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El Art. 1º del DL 1974, Hacienda, publicado el 29.10.1977, creó el siguiente escalafón de fiscalizadores, con las funciones y atribuciones que la ley confiere a los inspectores:"- Escalafón de fiscalizadores de la Dirección de Industria y Comercio Fiscalizadores______________ 3 Grado 4°. E.U. Fiscalizadores_____________ 9 Grado 5°. E.U. Fiscalizadores______________ 19 Grado 6°. E.U. Fiscalizadores______________ 30 Grado 7°. E.U. Fiscalizadores______________ 39 Grado 8°. E.U. ____ Total cargos________________ 100". Asimismo, el Art. 2º del mismo decreto ley, declaró la extinción de los cargos que indica.
+
+#### Artículo 6°
+
+Fíjase para los trabajadores del Servicio de Correos y Telégrafos, de conformidad con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Carg Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Director Nacional 1ª Cat. 3
+
+Escalafón Correos
+
+Subdirector de Correos 2ª Cat. 4
+
+Subdirector de Personal 2ª Cat. 5
+
+Jefe de Inspección 2ª Cat. 5
+
+Escalafón Telégrafos
+
+S. Director de Telecom 2ª Cat. 4
+
+S. Director de Ctas. y Val 2ª Cat. 5
+
+Jefe de Planificación 2ª Cat. 5
+
+Escalafón Correos
+
+Jefes Zonales 3ª Cat. 7
+
+Jefes de Departamento 3ª Cat. 7
+
+Secretario General 3ª Cat. 9
+
+Jefe de O. y M. 3ª Cat. 8
+
+Jefe del S. de Santiago 3ª Cat. 9
+
+Insp. Nacionales 3ª Cat. 8
+
+Jefe de Bienestar 3ª Cat. 10
+
+Escalafón de Telégrafos
+
+Jefes Zonales 3ª Cat. 7
+
+Jefes de Departamentos 3ª Cat. 7
+
+Jefe de Capacitación 3ª Cat. 9
+
+Jefe de Adms. y Bienestar 3ª Cat. 10
+
+Jefe del S. de Santiago 3ª Cat. 9
+
+Insp. Nacionales 3ª Cat. 8
+
+Jefe de Abast. 3ª Cat. 10
+
+Escalafón Prof. y T.
+
+Asesor Jurídico 3ª Cat. 6
+
+Jefe de Depto. de C 3ª Cat. 9
+
+Jefe de Depto. de Cont. 3ª Cat. 9
+
+Escalafón de Presup.
+
+Jefe del Depto. de P. 3ª Cat. 9
+
+Escalafón de Correos
+
+Insp. Zonales 4ª Cat. 11
+
+Subinsp. Nacionales 4ª Cat. 11
+
+Jefe de S. del Depto. de C. 4ª Cat. 11
+
+Subjefes de Zona 4ª Cat. 11
+
+Jefe Progn de Cap. 4ª Cat. 11
+
+Subjefe S. Postal de Santiago 4ª Cat. 11
+
+Jefes de S. Cabecera de Z. 4ª Cat. 11
+
+Director del Museo 4ª Cat. 11
+
+Escalafón de Teleg.
+
+Insp. Zonales 4ª Cat. 11
+
+Subinsp. Nacionales 4ª Cat. 11
+
+Jefes de S. del Depto. Teleg. 4ª Cat. 11
+
+Sujefe de Zona 4ª Cat. 11
+
+Subjefe del S. Teleg. de S. 4ª Cat. 11
+
+Jefe de S. Cab. de Zona 4ª Cat. 11
+
+Director Esc. Postal Teleg. 4ª Cat. 11
+
+Jefe de Control 4ª Cat. 12
+
+Escalafón Profesional y Técnico
+
+Abogado 4ª Cat. 8
+
+Jefe S. Arquitectura 4ª Cat. 12
+
+Jefe S. Construcción 4ª Cat. 12
+
+Escalafón de Correos
+
+Jefes de Sectores 5ª Cat. 14
+
+Insp. S. Postal de Santiago 5ª Cat. 14
+
+Jefe de Edif. y Loc 5ª Cat. 15
+
+Jefe S. Zonales 5ª Cat. 15
+
+Subjefe Sector Cab. Zona 5ª Cat. 15
+
+Insp. Sect. Post. Valparaíso 5ª Cat. 15
+
+Subjefe de Control 5ª Cat. 16
+
+Escalafón de Telégrafos
+
+Jefes de Sectores 5ª Cat. 14
+
+Insp. Sec. Telég. Santiago 5ª Cat. 14
+
+Jefe de Estadistica 5ª Cat. 15
+
+Jefe de Sec. Zonales 5ª Cat. 15
+
+Jefe de Sec. Escalafón 5ª Cat. 15
+
+Subjefe Sect. Cab. Zona 5ª Cat. 15
+
+Insp. Telég. Valparaíso 5ª Cat. 15
+
+Escalafón Prof. y Técnico
+
+Abogado 5ª Cat. 12
+
+Relacionador Público 5ª Cat. 16
+
+Constructor Civil 5ª Cat. 14
+
+Jefe Sec. Contabilidad 5ª Cat. 16
+
+Contadores Zonales 5ª Cat. 18
+
+Asist. Social Jefe 5ª Cat. 13
+
+Escalafón de Presupuestos
+
+Jefes de Sec. Presupuesto 5ª Cat. 16
+
+Escalafón de Correos
+
+Jefe de Serv. Generales 6ª Cat. 16
+
+Subjefe de Sectores 6ª Cat. 16
+
+Jefe Sec. Sector Santiago 6ª Cat. 16
+
+Jefe de Oficina 6ª Cat. 16
+
+J. Sec. Zonales 6ª Cat. 16
+
+J. Sec. Sect. Cab. Zona 6ª Cat. 16
+
+Escalafón de Telégrafos
+
+Subjefe de Sectores 6ª Cat. 16
+
+J. Sec. del Sect. Santiago 6ª Cat. 16
+
+Jefe de Oficina 6ª Cat. 16
+
+Jefe de Sec. Zonales 6ª Cat. 16
+
+J. Sec. Sect. Cab. Zona 6ª Cat. 16
+
+J. Serv. Generales 6ª Cat. 16
+
+Escalafón de Ambulantes
+
+Supv. de Ambulancia 6ª Cat. 15
+
+Escalafón de Prof. Técnico
+
+Abogado 6ª Cat. 15
+
+Constructor Civil 6ª Cat. 17
+
+Asistente Social 6ª Cat. 15
+
+Contadores Zonales 6ª Cat. 19
+
+Escalafón de Correos
+
+Jefes de Sec. De Sect. 7ª Cat. 17
+
+Jefes de Oficina 7ª Cat. 17
+
+J. de Turno Sect. Principal 7ª Cat. 17
+
+Escalafón de Telégrafos
+
+J. de Sec. de Sect. 7ª Cat. 17
+
+Jefes de Oficina 7ª Cat. 17
+
+J. Turno Sect. Princp. C. Z. 7ª Cat. 17
+
+Esc. de Ambulantes
+
+Ambulantes J. Lineas 7ª Cat. 17
+
+Esc. Mecánicos Telég.
+
+Jefes de Talleres 7ª Cat. 18
+
+Esc. Prof. y Técnico
+
+Asistentes Sociales 7ª Cat. 16
+
+Contadores Sect. Cab. Z. 7ª Cat. 19
+
+Contador Direc. Nac. 7ª Cat. 19
+
+Asistentes Sociales Gdo. 1 17
+
+Contadores Sect. Cab. Z. Gdo. 1 20
+
+Asistentes Sociales Gdo. 2 18
+
+Contadores Sect. Princp. Gdo. 2 20
+
+Asistente Sociales Gdo. 3 19
+
+Asistente Sociales Gdo. 4 20
+
+Asistente Sociales Gdo. 5 21
+
+El o los cargos de Contadores Sect. Princp. Grado 20 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+Esc. Técnicos Telecom.
+
+Técnicos 4ª Cat. 14
+
+Técnicos 5ª Cat. 15
+
+Técnicos 6ª Cat. 17
+
+Técnicos 7ª Cat. 19
+
+Técnicos Gdo. 1 20
+
+Técnicos Gdo. 2 21
+
+Técnicos Gdo. 9 23
+
+PLANTA ADMINISTRATIVA "A"
+
+Oficiales 5ª Cat. 19
+
+Oficial de Presupuesto 5ª Cat. 19
+
+Ambulantes 5ª Cat. 19
+
+Telegrafistas 5ª Cat. 19
+
+Oficiales 6ª Cat. 20
+
+Telegrafistas 6ª Cat. 20
+
+Oficial de Presupuesto 6ª Cat. 20
+
+Procurador 6ª Cat. 22
+
+Ambulantes 6ª Cat. 20
+
+Oficiales 7ª Cat. 21
+
+Telegrafistas 7ª Cat. 21
+
+Oficiales de Presupuesto 7ª Cat. 21
+
+Ambulantes 7ª Cat. 21
+
+Practicante 7ª Cat. 21
+
+Oficiales Gdo. 1 22
+
+Telegrafistas Gdo. 1 22
+
+Ambulantes Gdo. 1 22
+
+Practicantes Gdo. 1 24
+
+Oficiales Gdo. 2 23
+
+Telegrafistas Gdo. 2 23
+
+Ambulantes Gdo. 2 23
+
+Practicante Gdo. 2 25
+
+Oficiales Gdo. 3 24
+
+Telegrafistas Gdo. 3 24
+
+Ambulantes Gdo. 3 24
+
+Practicantes Gdo. 3 26
+
+Oficiales Gdo. 4 25
+
+Telegrafistas Gdo. 4 25
+
+Ambulantes Gdo. 4 25
+
+Practicantes Gdo. 4 30
+
+Oficiales Gdo. 5 26
+
+Telegrafistas Gdo. 5 26
+
+Ambulantes Gdo. 5 26
+
+Oficial de Presupuesto Gdo. 5 26
+
+Oficiales Gdo. 6 27
+
+Telegrafistas Gdo. 6 27
+
+Ambulantes Gdo. 6 27
+
+Oficiales Gdo. 7 28
+
+Telegrafistas Gdo. 7 28
+
+Oficial de Presupuestos Gdo. 7 28
+
+Ambulantes Gdo. 7 28
+
+Oficiales Gdo. 8 29
+
+Telegrafistas Gdo. 8 29
+
+Ambulantes Gdo. 8 29
+
+Aspirantes Gdo. 19 31
+
+PLANTA ADMINISTRATIVA "A" (LEY 17.864)
+
+Oficiales 5ª Cat. 19
+
+Oficiales 6ª Cat. 20
+
+Oficiales 7ª Cat. 21
+
+Oficiales Gdo. 1 22
+
+Oficiales Gdo. 2 23
+
+Oficiales Gdo. 3 24
+
+Oficiales Gdo. 4 25
+
+Oficiales Gdo. 5 26
+
+Oficiales Gdo. 6 27
+
+Oficiales Gdo. 7 28
+
+Oficiales Gdo. 8 29
+
+Oficiales Gdo. 9 29
+
+El o los cargos de Oficiales grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA "B"
+
+Mecánico de Telég 5ª Cat. 19
+
+Mecánico de Choferes 5ª Cat. 19
+
+J. de Guardahilos 5ª Cat. 19
+
+Mecánico de Telég 6ª Cat. 21
+
+Mecánico de Choferes 6ª Cat. 21
+
+Guardahilos 6ª Cat. 21
+
+Mecánicos de Telég 7ª Cat. 23
+
+Mecánicos de Choferes 7ª Cat. 23
+
+Guardahilos 7ª Cat. 23
+
+Mecánico de Telég Gdo. 1 24
+
+Mecánico de Choferes Gdo. 1 24
+
+Guardahilos Gdo. 1 24
+
+Mecánico de Telég Gdo. 2 26
+
+Mecánico de Choferes Gdo. 2 26
+
+Guardahilos Gdo. 2 26
+
+Mecánico de Telég Gdo. 3 27
+
+Mecánico de Choferes Gdo. 3 27
+
+Guardahilos Gdo. 3 27
+
+Mensajero Gdo. 3 27
+
+Carteros Gdo. 3 27
+
+Mecánico de Telég Gdo. 4 28
+
+Mecánico de Choferes Gdo. 4 28
+
+Guardahilos Gdo. 4 28
+
+Mensajero Gdo. 4 28
+
+Carteros Gdo. 4 28
+
+Mecánicos de Telég Gdo. 5 29
+
+Mecánicos de Choferes Gdo. 5 29
+
+Guardahilos Gdo. 5 29
+
+Mensajeros Gdo. 5 29
+
+Carteros Gdo. 5 29
+
+Mecánicos de Telég Gdo. 6 30
+
+Mecánicos de Choferes Gdo. 6 30
+
+Guardahilos Gdo. 6 30
+
+Mensajeros Gdo. 6 30
+
+Carteros Gdo. 6 30
+
+Mecánicos de Telég Gdo. 7 30
+
+Mecánicos de Choferes Gdo. 7 30
+
+Guardahilos Gdo. 7 30
+
+Mensajeros Gdo. 7 30
+
+Carteros Gdo. 7 30
+
+Mecánicos de Telég Gdo. 8 30
+
+Mecánicos de Choferes Gdo. 8 30
+
+Guardahilos Gdo. 8 30
+
+Mensajeros Gdo. 8 31
+
+Carteros Gdo. 8 31
+
+Mecánicos de Choferes Gdo. 9 30
+
+Guardahilos Gdo. 9 30
+
+Mensajeros Gdo. 9 31
+
+Carteros Gdo. 9 31
+
+Para ingresar a la Planta Administrativa "B" se requerirá acreditar haber aprobado segundo año de enseñanza media o su equivalente.
+
+PLANTA DE SERVICIOS MENORES
+
+Mayordomo 7ª Cat. 25
+
+Aux. Telefonistas 7ª Cat. 25
+
+Aux. de Imprenta 7ª Cat. 25
+
+Aux. Parvularias 7ª Cat. 25
+
+Auxiliar Gdo. 1 26
+
+Aux. Telefonista Gdo. 1 26
+
+Aux. Imprenta Gdo. 1 26
+
+Aux. Parvularias Gdo. 1 26
+
+Auxiliares Gdo. 2 27
+
+Aux. Telefonista Gdo. 2 27
+
+Aux. de Imprenta Gdo. 2 27
+
+Aux. de Parvularias Gdo. 2 27
+
+Auxiliares Gdo. 3 28
+
+Aux. Telefonista Gdo. 3 28
+
+Aux. Imprenta Gdo. 3 28
+
+Aux. Parvularias Gdo. 3 28
+
+Aux. Movilizadores Gdo. 3 28
+
+Auxiliares Gdo. 4 30
+
+Aux. Telefonistas Gdo. 4 30
+
+Aux. imprenta Gdo. 4 30
+
+Aux. Parvularias Gdo. 4 30
+
+Aux. Movilizadores Gdo. 4 30
+
+Auxiliares Gdo. 5 31
+
+Aux. Telefonistas Gdo. 5 31
+
+Aux. Imprenta Gdo. 5 31
+
+Aux. Parvularias Gdo. 5 31
+
+Aux. Moviliazadores Gdo. 5 31
+
+Auxiliares Gdo. 6 32
+
+Aux. Movilizadores Gdo. 6 32
+
+Auxiliares Gdo. 7 33
+
+Aux. Movilizadores Gdo. 8 33
+
+Auxiliares Gdo. 9 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El DTO 313, Interior, publicado el 19.05.1977, creó y suprimió los cargos que indica.
+
+#### Artículo 7°
+
+Fíjase para los trabajadores del Consejo Nacional de Menores, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Vicepresidente Ejecutivo 1ª Cat. 5
+
+Secretario General Abogado 2ª Cat. 6
+
+Contador Jefe 3ª Cat. 9
+
+Psicólogo Jefe 3ª Cat. 9
+
+Asistente Social Jefe 3ª Cat. 9
+
+Sociólogo Jefe 3ª Cat. 9
+
+Profesores Jefes 3ª Cat. 9
+
+Administrador Público Gr. 1° 9
+
+Administrador Público Gr. 4° 13
+
+PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos 7ª Cat. 19
+
+Auxiliares Administrativos Gr. 6° 23
+
+El o los cargos de Administrador Público de grado 13° se transformarán en grado 17 a medida que vayan quedando vacantes.
+
+El los cargos de Auxiliares Administrativos de grado 23 se transformarán en grado 31° a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 8°
+
+Fíjase para los trabajdores del Fondo de Educación y Extensión Sindical, de conformidad con lo dispuesto en el artículo 13 del decreto ley N.o 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Jefe de la Oficina 3ª 6
+
+Abogado Asesor 4ª 10
+
+Contador 4ª 13
+
+PLANTA ADMINISTRATIVA
+
+Oficial 7ª 21
+
+Oficial Gr. 1° 27
+
+El o los cargos de Oficial grado 27 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 9°
+
+Fíjase para los trabajadores de la Junta Nacional de Auxilio Escolar y Becas, a contar del 1° de Enero de 1974, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+PLANTA
+
+PROGRAMA ADMINISTRACION
+
+--------------------------------------------------------
+
+Nombre del cargo Grado de la
+
+Escala Unica
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA Secretario General 1ª Cat. 4 Jefe Sección 2ª Cat. 7
+
+Jefe del Personal 2ª Cat. 7
+
+Asesor Jurídico F/C 6
+
+Tesorero F/C 8
+
+Abogado 3ª Cat. 10
+
+Contador General 3ª Cat. 12
+
+Contador Adm. Presupuesto 3ª Cat. 12
+
+Relacionador Público 3ª Cat. 14
+
+Subjefe Sección 3ª Cat. 10
+
+Subjefe del Personal 3ª Cat. 10
+
+Inspector Zonal 4ª Cat. 11
+
+Jefe Bienestar 5ª Cat. 15
+
+Subcontador General 5ª Cat. 16
+
+Subcontador Adm. Presupuesto 5ª Cat. 16
+
+Inspector Zonal 5ª Cat. 12
+
+Jefe Unidad 7ª Cat. 17
+
+Secretaria Administrativa 7ª Cat. 18
+
+Secretario Provincial 6ª Cat. 13
+
+Procurador Gr. 3° 19
+
+Secretario Provincial 7ª Cat. 13
+
+Contador Gr. 1° 18
+
+Inspector Provincial Gr. 2° 15
+
+Secretario Provincial 7ª Cat. 13
+
+Secretario Provincial Gr. 1° 14
+
+Inspector Provincial Gr. 3° 15
+
+Secretario Provincial Gr. 1° 14
+
+Inspector Provincial Gr. 3° 15
+
+Secretario Provincial Gr. 1° 14
+
+Inspector Provincial Gr. 4° 16
+
+Secretario Local Gr. 3° 17
+
+Secretario Local Gr. 6° 17
+
+Secretario Local Gr. 7° 18
+
+Secretario Local Gr. 8° 18
+
+Secretario Local Gr. 9° 18
+
+PLANTA ADMINISTRATIVA Secretaria 5ª Cat. 19 Oficial Contabilidad 5ª Cat. 19
+
+Oficial Inventario 5ª Cat. 19
+
+Oficial Presupuesto 5ª Cat. 19
+
+Archivero 5ª Cat. 19
+
+Jefe de Unidad 5ª Cat. 17
+
+Oficial Administrativo 5ª Cat. 19
+
+Jefe de Unidad 6ª Cat. 17
+
+Archivero 6ª Cat. 20
+
+Oficial de Contabilidad 6ª Cat. 20
+
+Encargado Partes 6ª Cat. 20
+
+Dibujante Técnico 6ª Cat. 20
+
+Oficial Administrativo 6ª Cat. 20
+
+Oficial Inventario 6ª Cat. 20
+
+Oficial Contabilidad 7ª Cat. 21
+
+Oficial Presupuesto 7ª Cat. 21
+
+Oficial Administrativo 7ª Cat. 21
+
+Jefe Unidad 7ª Cat. 18
+
+Oficial Administrativo 7ª Cat. 21
+
+Secretario Gr. 1° 22
+
+Oficial Administrativo Gr. 1° 22
+
+Ayudante de Contabilidad Gr. 1° 22
+
+Ayudante de Presupuesto Gr. 1° 22
+
+Oficial Administrativo Gr. 1° 22
+
+Secretario Gr. 2° 23
+
+Oficial Administrativo Gr. 2° 23
+
+Ayudante de Presupuesto Gr. 2° 23
+
+Oficial Administrativo Gr. 3° 24
+
+Oficial Administrativo Gr. 4° 25
+
+Oficial Administrativo Gr. 5° 26
+
+Oficial Administrativo Gr. 6° 26
+
+Telefonista Gr. 7° 27
+
+Oficial Administrativo Gr. 7° 27
+
+Oficial Administrativo Gr. 8° 28
+
+Oficial Administrativo Gr. 9° 29
+
+El o los cargos de Oficial Administrativo de grado 29° se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Chofer Gr. 3° 25
+
+Chofer Gr. 5° 27
+
+Chofer Gr. 6° 28
+
+Auxiliares Servicios Menores Gr. 9° 31
+
+El o los cargos de Auxiliar Servicios Menores de grado 31 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+PLANTA PROGRAMA DE ALIMENTACION
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Jefe de Sección 2ª Cat. 7
+
+Subjefe de Sección 3ª Cat. 10
+
+Coordinador 5ª Cat. 13
+
+Enc. Subprograma Leche 6ª Cat. 15
+
+Nutricionista Jefe 6ª Cat. 14
+
+Nutricionista Gr. 1° 17
+
+Supervisor Gr. 3° 16
+
+PLANTA ADMINISTRATIVA
+
+Oficial de Presupuesto 5ª Cat. 19
+
+Secretario 5ª Cat. 19
+
+Secretario Gr. 1° 22
+
+Oficial Administrativo Gr. 2° 23
+
+Oficial Administrativo Gr. 3° 24
+
+Oficial Administrativo Gr. 4° 25
+
+Oficial Administrativo Gr. 6° 26
+
+Oficial Administrativo Gr. 7° 27
+
+Oficial Administrativo Gr. 8° 28
+
+El o los cargos de Oficial Administrativo de grado 28 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA SERVICIOS MENORES
+
+Chofer Gr. 5° 27
+
+Chofer Gr. 6° 28
+
+Auxiliar de Servicios Menores Gr. 9° 31
+
+Auxiliar Alimentación Gr. 9° 31
+
+Aux. Alimentación Hogares
+
+y Colonias Gr. 12° 32
+
+Auxiliar Alimentación Gr. 14° 33
+
+El o los cargos de Auxiliar Alimentación de grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+PLANTA PROGRAMA BECAS Y EQUIPO ESCOLAR
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Encargado Programa 6ª Cat. 13
+
+Planta Administrativa
+
+Secretario 5ª Cat. 19
+
+Encarg. Subrog. Vest. y Utiles 6ª Cat. 20
+
+Encarg. Subrog. Pagos 6ª Cat. 20
+
+Oficial de Estadística 5ª Cat. 19
+
+Oficial Administrativo Gr. 1° 22
+
+Archivero Gr. 1° 22
+
+Oficial Administrativo Gr. 4° 25
+
+Oficial Administrativo Gr. 5° 26
+
+Oficial Administrativo Gr. 6° 26
+
+Oficial Administrativo Gr. 8° 28
+
+El o los cargos de Oficial Administrativo de grado 28 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Planta de Servicios Menores
+
+Chofer Gr. 5° 27
+
+Auxiliar Servicios Menores Gr. 9° 31
+
+El o los cargos de Auxiliar Servicios Menores de grado 31 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+PLANTA PROGRAMA DENTAL Y OFTALMOLOGICO
+
+Planta Directiva, Profesional y Técnica
+
+Encargado Nac. Programa Dental 7
+
+Planta Administrativa
+
+Auxiliares Dentales Gr. 11° 31
+
+PLANTA PROGRAMA DE HOGARES Y COLONIAS
+
+Planta Directiva, Profesional y Técnica
+
+Encargado Subprogramas Colonias 6ª Cat. 16
+
+Encargado Subprogramas Hogares 6ª Cat. 16
+
+Técnico en Educación Recreativa Gr. 2° 18
+
+Planta Administrativa
+
+Secretario 5ª Cat. 19
+
+Secretario 7ª Cat. 21
+
+Oficial Administrativo 7ª Cat. 21
+
+Oficial Administrativo Gr. 2° 23
+
+Oficial Administrativo Gr. 3° 24
+
+Director de Hogar Gr. 5° 24
+
+Inspector de Hogar Gr. 6° 26
+
+Director de Hogar Gr. 5° 24
+
+Inspector de Hogar y Colonias Gr. 6° 26
+
+El o los cargos de Inspector de Hogar y Colonias de grado 26 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Planta de Servicios Menores
+
+Chofer Gr. 5° 27
+
+Auxiliar de Hogar Gr. 9° 31
+
+Auxiliar de Servicios Menores Gr. 9° 31
+
+Cuidador de Refugios Gr. 9° 31
+
+El o los cargos de Cuidador de Refugios de grado 31 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+PLANTA DEL PROGRAMA DE INVESTIGACION Y PROGRAMACION
+
+Planta Directiva, Profesional y Técnica
+
+Jefe de Sección 2ª Cat. 7
+
+Subjefe de Sección 3ª Cat. 10
+
+Administrador Público 3ª Cat. 13 Ingeniero Comercial 3ª Cat. 13 Administrador Público 3ª Cat. 13 Analista Sistema de Computación 3ª Cat. 13
+
+Sicólogo 3ª Cat. 13
+
+Programador de Computación 4ª Cat. 14 Investigador 4ª Cat. 16 Asistente Social 4ª Cat. 16 Asistente Social 5ª Cat. 18
+
+Asistente Social 5ª Cat. 18
+
+Jefe Oficina Estadística 5ª Cat. 15
+
+Investigador 5ª Cat. 17
+
+Estadístico 7ª Cat. 16
+
+Estadístico Gr. 1° 17
+
+Estadístico Gr. 2° 18
+
+Auxiliar de Investigaciones Gr. 2° 18
+
+Secretario Administrativo Gr. 3° 18
+
+Planta Administrativa Oficial de Estadística 5ª Cat. 19 Secretario 6ª Cat. 20
+
+Secretaria Dactilógrafa Gr. 1° 22
+
+Secretaria Dactilógrafa Gr. 2° 23
+
+Oficial Administrativo Gr. 1° 22
+
+Secretaria Dactilógrafa Gr. 1° 22
+
+Dactilógrafa Gr. 4° 25
+
+Oficial Administrativo Gr. 1° 22
+
+El o los cargos de Oficial Administrativo de grado 28 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Planta de Servicios Menores
+
+Chofer Gr. 5° 27
+
+Auxiliar de Servicios Menores Gr. 9° 31
+
+El o los cargos de Auxiliares de Servicios Menores de grado 31 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+PLANTA PROGRAMA OPERACIONES
+
+Planta Directiva, Profesional y Técnica
+
+Jefe de Sección 2ª Cat. 7
+
+Subjefe de Sección 3ª Cat. 10
+
+Jefe Adquisiciones 7ª Cat. 15
+
+Jefe Transportes 7ª Cat. 15
+
+Jefe Bodega 7ª Cat. 15
+
+Jefe Mantención 7ª Cat. 15
+
+Planta Administrativa
+
+Encargado Control de Calidad 5ª Cat 19
+
+Encargado Mantención Vehículos 6ª Cat. 20
+
+Inspectores Control de Calidad 6ª Cat. 20
+
+Bodeguero 6ª Cat. 20
+
+Mecánico 6ª Cat. 20
+
+Bodeguero 7ª Cat. 21
+
+Mecánico 7ª Cat. 21
+
+Mecánico Equipo Dental 7ª Cat. 21
+
+Secretario Gr. 1° 22
+
+Secretario Gr. 2° 23
+
+Oficial Administrativo Gr. 3° 24
+
+Oficial Administrativo Gr. 4° 25
+
+Oficial Administrativo Gr. 5° 26
+
+Bodeguero Gr. 5° 26
+
+Ayudante Mecánico Gr. 5° 26
+
+Despachador Vestuario Gr. 6° 26
+
+Oficial Administrativo Gr. 7° 27
+
+El o los cargos de Oficial Administrativo de grado 27 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Chofer Gr. 3° 25
+
+Chofer Gr. 5° 27
+
+Chofer Gr. 6° 28
+
+Auxiliar Camiones Gr. 9° 31
+
+Auxiliar Bodegas Gr. 9° 31
+
+Auxiliar Mantención Cocina Gr. 9° 31
+
+Auxiliar Servicios Menores Gr. 9° 31
+
+El o los cargos de Auxiliar Servicios Menores de grado 31 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+PLANTA DEL PROGRAMA PRESTAMOS UNIVERSITARIOS
+
+Planta Directiva, Profesional y Técnica
+
+Encargado de Programa 6ª Cat. 13
+
+Jefe Control Préstamos Gr. 2° 15
+
+Planta Administrativa
+
+Kardista 6ª Cat. 20
+
+Oficial Administrativo 7ª Cat. 21
+
+Secretario Gr. 1° 22
+
+Oficial Administrativo Gr. 5° 26
+
+Oficial Administrativo Gr. 6° 26
+
+El o los cargos de Oficial Administrativo de grado 26 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El Art. 2º del DL 1031, dispone que las modificaciones introducidas a este artículo rigen a contar del 1º de enero de 1975.
+
+#### Artículo 10°
+
+Fíjase para los trabajadores de la Junta Nacional de Jardines Infantiles, de acuerdo a lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+Cat. o Grado
+
+Nombre del Cargo Gdo. Escala Unica
+
+PLANTA DIRECTIVA
+
+Vicepresidente 1.a Cat. 4°
+
+Fiscal 2.a Cat. 6°
+
+Jefe Depto. Administrativo 2.a Cat. 6°
+
+Jefe Depto. Técnico Pedagógico 2.a Cat. 6°
+
+Jefe Depto. Proyec. y Programas 2.a Cat. 6°
+
+Jefe Oficinas Regionales 2.a Cat. 7°
+
+Jefe Contraloría Interna 2.a Cat. 6°
+
+Jefe Presupuesto General 3.a Cat. 7°
+
+Delegado Regional 3.a Cat. 9°
+
+Jefe Sección Personal 3.a Cat. 11°
+
+Jefe Sección Curriculum 3.a Cat. 11°
+
+Jefe Sección E. y Prog. Presup. 3.a Cat. 11°
+
+Jefe Sección Arquitectura 3.a Cat. 11°
+
+Jefe Sección Salud y Nutrición 3.a Cat. 11°
+
+Jefe Sección Desarrollo Social 3.a Cat. 11°
+
+Jefe Sección Adquisiciones 4.a Cat. 11°
+
+Jefe Sección Bienestar 4.a Cat. 11°
+
+Jefe de Contabilidad 4.a Cat. 13°
+
+Jefe Mantención 5.a Cat. 14°
+
+Jefe U. Mat. Didáctico 5.a Cat. 14°
+
+Jefe U. Coord. y Prácticas 5.a Cat. 14°
+
+Sub-Delegado de Santiago 6.a Cat. 15°
+
+Jefe Tesorería 7.a Cat. 17°
+
+Jefe Estadística 7.a Cat. 17°
+
+Jefe de Remuneraciones Gdo. 2° 18°
+
+Jefe de Compras Gdo. 2° 18°
+
+Jefe de Bodega Gdo. 2° 18°
+
+PLANTA PROFESIONAL Y TECNICA
+
+Administrador Público 3.a Cat. 11°
+
+Const. Civil 4.a Cat. 15°
+
+Nutricionista 6.a Cat. 14°
+
+Psicólogos 4.a Cat. 13°
+
+Abogado 4.a Cat. 10°
+
+Asistente Social 4.a Cat. 13°
+
+Contador 7.a Cat. 18°
+
+Asistente Social 5.a Cat. 15°
+
+Nutrióloga 7.a Cat. 17°
+
+Abogado 5.a Cat. 16°
+
+Periodista 6.a Cat. 15°
+
+Psicólogo 5.a Cat. 16°
+
+Asistente Social 7.a Cat. 17°
+
+Nutricionista 7.a Cat. 16°
+
+Diseñador 7.a Cat. 16°
+
+Contador Gdo. 1° 19°
+
+El o los cargos de Asistente Social grado 17° se transformarán en grado 21°, a medida que vayan quedando vacantes, y el o los cargos de Contador grado 19° se transformarán en grado 27°, a medida que vayan quedando vacantes.
+
+Educadora de Párvulos 5.a Cat. 16°
+
+Educadora de Párvulos 6.a Cat. 16°
+
+Educadora de Párvulos 7.a Cat. 17°
+
+Educadora de Párvulos Gdo. 1° 18°
+
+Educadora de Párvulos Gdo. 2° 19°
+
+Educadora de Párvulos Gdo. 3° 20°
+
+Educadora de Párvulos Gdo. 4° 21°
+
+Educadora de Párvulos Gdo. 5° 23°
+
+PLANTA ADMINISTRATIVA
+
+Subjefe Personal 5.a Cat. 19°
+
+Subjefe Adquisiciones 5.a Cat. 19°
+
+Jefe Personal de Deleg. Santiago 5.a Cat. 19°
+
+Secretarias Vicepresidencia
+
+Ejecutiva 5.a Cat. 19°
+
+Jefe Oficina de Partes 5.a Cat. 19°
+
+Jefe Servicios Menores 5.a Cat. 19°
+
+Secretarias de Departamentos 5.a Cat. 19°
+
+Encargado Inventario 5.a Cat. 19°
+
+Encargado Conciliac. Bancaria 5.a Cat. 19°
+
+Ayudante Contabilidad 5.a Cat. 19°
+
+Oficiales Estadísticos 5.a Cat. 19°
+
+Encargado Convenios 6.a Cat. 20°
+
+Encargado Personal Delegado 6.a Cat. 20°
+
+Secretarias Deleg. Regional
+
+Santiago 6.a Cat. 20°
+
+Oficial de Presupuesto 6.a Cat. 20°
+
+Oficial Admin. de Remuneraciones 6.a Cat. 20°
+
+Oficial Conciliac. Bancaria 6.a Cat. 20°
+
+Cotizadores 6.a Cat. 20°
+
+Encargado Distribución Bodega 6.a Cat. 20°
+
+Encargado Adquisición Delegado 6.a Cat. 20°
+
+Secretaria Dactilógrafa 7.a Cat. 21°
+
+Secretaria Delegados Regionales 7.a Cat. 21°
+
+Secretaria Secciones 7.a Cat. 21°
+
+Kardista Bodega 7.a Cat. 21°
+
+Control Calidad Bodega 7.a Cat. 21°
+
+Ayudante Contab. Delegado Santiago 7.a Cat. 21°
+
+Ayudante Distrib. Bodega 7.a Cat. 21°
+
+Oficiales Administrativos 7.a Cat. 21°
+
+Secretarias Oficina de Partes Gdo. 1° 22°
+
+Secretaria Remuneraciones Gdo. 1° 22°
+
+Encargado Bodega Despacho Gdo. 1° 22°
+
+Encargado Bodega Mat. C. Central Gdo. 1° 22°
+
+Oficiales Admtvos. de Remuneraciones Gdo. 2° 23°
+
+Oficiales Admtvos. de Delegaciones Gdo. 2° 23°
+
+Oficiales Administrativos Gdo. 2° 23°
+
+Oficiales Adquisiciones Gdo. 3° 24°
+
+Oficiales Administrativos Partes Gdo. 3° 24°
+
+Oficiales Administrativos Personal Gdo. 3° 24°
+
+Oficiales Admntvos. Partes Gdo. 4° 25°
+
+Oficiales Administrativos Serv.
+
+Menores Gdo. 4° 25°
+
+Oficiales Administrativos Tesorería Gdo. 4° 25°
+
+Oficiales Administrativos Bienestar Gdo. 5° 26°
+
+Oficiales Administrativos Bodegas Gdo. 6° 27°
+
+El o los cargos de Oficiales de la Planta Administrativa, grado 27° que queden vacantes, se transformarán en grado 31°.
+
+Cat. o Grado
+
+Nombre del Cargo Gdo. Escala Unica
+
+Auxiliares de Educadoras de Párvulos
+
+Auxiliar Educadoras Gdo. 4° 25°
+
+Auxiliar Educadoras Gdo. 5° 26°
+
+Auxiliar Educadoras Gdo. 6° 27°
+
+Auxiliar Educadoras Gdo. 7° 28°
+
+Planta de Servicios Menores
+
+Chofer Gdo. 1° 25°
+
+Auxiliar Serv. Menores
+
+Especializados Gdo. 2° 25°
+
+Portero C. Central Gdo. 3° 26°
+
+Manipuladoras Gdo. 5° 26°
+
+Estafetas Oficina de Partes Gdo. 5° 27°
+
+Manipuladoras Gdo. 6° 27°
+
+Aseador C. Central Gdo. 7° 28°
+
+Cuidadores Gdo. 7° 28°
+
+Cuidadores Gdo. 8° 30°
+
+Aseador Jardines Gdo. 8° 30°
+
+Aseador Jardines Gdo. 9° 31°
+
+El o los cargos de grado 31° se transformarán en grado 35°, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1975.
+
+#### Artículo 11°
+
+Fíjase para los trabajadores del Consejo de Rectores, de conformidad con lo dispuesto en el artículo 13 del decreto ley N° 24, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Secretario del Consejo F/C 10
+
+Secretaría del Consejo F/C 20
+
+SECRETARIA GRAL. EJECUTIVA
+
+Secretario General Ejecutivo F/C 4
+
+Secretaria Secretario General F/C 19
+
+SERVICIOS CENTRALES
+
+Jefe de Finanzas F/C 9
+
+Contador F/C 18
+
+Jefe Administrativo F/C 12
+
+Oficial de Partes F/C 21
+
+Dactilógrafas F/C 27
+
+Jefe de Taller F/C 18
+
+Repografista F/C 23
+
+Telefonista F/C 26
+
+Secretaria Comisiones F/C 19
+
+DEPTO. PROMOCION Y DIFUSION
+
+Director F/C 6
+
+Coordinador de Programa F/C 10 Especialistas F/C 17 Secretaria Departamento F/C 21
+
+DEPTO. PLANIFICACION Y ESTUDIOS
+
+Director F/C 6
+
+Coordinador de Programa F/C 10
+
+Especialistas F/C 17
+
+Secretaria Departamento F/C 21
+
+DEPTO. RELACIONES
+
+Director F/C 6
+
+Coordinador de Programa F/C 10
+
+Especialistas F/C 17
+
+Secretaria Departamento F/C 21
+
+DEPTO. JURIDICO
+
+Asesor Jurídico F/C 6
+
+Procurador F/C 10
+
+Secretaria Depto. F/C 21
+
+SERVICIOS MENORES
+
+Auxiliar 25
+
+Auxiliar 27
+
+Auxiliar 31
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 12°
+
+Fíjase para los trabajadores del Instituto Laboral y de Desarrollo Social, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Director 1a. Cat. 4
+
+Subdirector 2a. Cat. 6
+
+Jefe Depto. Capacitación 3a. Cat. 8
+
+Asesor Juridico 3a. Cat. 8
+
+Secretario General 3a. Cat. 10
+
+Jefe Depto. Administrativo 3a. Cat. 10
+
+Sociologo Jefe Depto.
+
+Investigación y Estudios 3a. Cat. 8
+
+Jefe Dpto. Difusión 3a. Cat. 10
+
+Jefe de Presupuestos 4a. Cat. 14
+
+Programador 4a. Cat. 15
+
+Jefe de Cursos por Corresp. 4a. Cat. 15
+
+Investigador Social 4a. Cat. 15
+
+Jefe de Documentación Técnica 5a. Cat. 17
+
+Periodista 5a. Cat. 17
+
+Contador 5a. Cat. 18
+
+PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos 5a. Cat. 10
+
+Oficiales de Partes 6a. Cat. 21
+
+Oficiales de Contabilidad 6a. Cat. 22
+
+Oficiales de Administración 6a. Cat. 22
+
+Oficiales Administrativos 7a. Cat. 25
+
+Oficiales Administrativos Gr. 3° 29
+
+El o los cargos de Oficiales Administrativos grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS
+
+Auxiliar Gr. 2° 25
+
+Auxiliar Gr. 3° 27
+
+Auxiliar Gr. 4° 29
+
+Auxiliar Gr. 5° 31
+
+Auxiliar Gr. 6° 33
+
+El o los cargos de Auxiliar grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 13°
+
+Fíjase para los trabajadores del Servicio Nacional del Empleo, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Director 1a. Cat. 4
+
+Jefes Departamentos:
+
+- Colocaciones 3a. Cat. 6
+
+- Estudio y Programación 3a. Cat. 6
+
+- Secretaria General 3a. Cat. 9
+
+Jefe Oficinas Regionales 4a. Cat. 9
+
+Coordinador de Estudio y Programac. 4a. Cat. 9
+
+Investigadores de Estudio y Program. 4a. Cat. 9
+
+Abogado 4a. Cat. 8
+
+Jefe de Presupuesto 4a. Cat. 10
+
+Coordinador de Informaciones 4a. Cat. 12
+
+Coordinadores:
+
+- de Clasificación 5a. Cat. 12
+
+- de Inscripción 5a. Cat. 12
+
+- de Colocación de Rehabilitados 5a. Cat. 12
+
+- de Estadisticas 5a. Cat. 13
+
+- de Empleo Internacional 5a. Cat. 13
+
+Jefes Oficinas Regionales 5a. Cat. 12
+
+Orientador Ocupacional Inscriptor 6a. Cat. 15
+
+Coordinador de Colocaciones 6a. Cat. 15
+
+Jefe de Personal 6a. Cat. 15
+
+Jefe Oficinas Regionales 6a. Cat. 13
+
+Orientadores Ocupacionales Inscrip 7a. Cat. 17
+
+Estadistico 7a. Cat. 17
+
+Analista Ocupacional 7a. Cat. 17
+
+Investigadores 7a. Cat. 15
+
+Codificador Gr. 1° 17
+
+Subjefe Presupuesto Gr. 1° 18
+
+Investigador Gr. 1° 18
+
+Educadora de Párvulos Gr. 1° 19
+
+Investigadores Gr. 3° 19
+
+PLANTA ADMINISTRATIVA
+
+Oficiales:
+
+- Inscriptores 5a. Cat. 19
+
+- Colocadores 5a. Cat. 19
+
+Secretaria Dirección 5a. Cat. 19
+
+Oficiales:
+
+- Inscriptores 6a. Cat. 20
+
+- Colocadores 6a. Cat. 20
+
+Oficial de Presupuestos 7a. Cat. 21
+
+Investigadores Ayudantes 7a. Cat. 21
+
+Oficiales 7a. Cat. 21
+
+Oficiales Gr. 1° 22
+
+Oficiales Gr. 2° 23
+
+Oficiales Gr. 3° 25
+
+Oficiales Gr. 4° 26
+
+Oficiales Gr. 5° 27
+
+Oficiales Gr. 6° 28
+
+Oficiales Gr. 7° 29
+
+El o los cargos de Oficiales grado 29, se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS
+
+Mayordomo 7a. Cat. 25
+
+Auxiliar Gr. 1° 26
+
+Auxiliar Gr. 2° 27
+
+Auxiliar Gr. 3° 28
+
+Auxiliar Gr. 4° 30
+
+Auxiliar Gr. 5° 31
+
+Auxiliar Gr. 6° 32
+
+Auxiliar Gr. 7° 33
+
+El o los cargos de Auxiliar grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 14
+
+Fíjase para los trabajadores de la Caja Autónoma de Amortización de la Deuda Pública, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA
+
+Presidente F/C 3
+
+Gerente General F/C 4
+
+Jefes de Departamento 1ª. Cat. 6
+
+Jefes de Departamento 2ª. Cat. A 8
+
+Jefes de Departamento 2ª. Cat. B 9
+
+PLANTA PROFESIONAL Y TECNICA
+
+Profesionales Universitarios 3ª. Cat. 9
+
+Jefes Subdepto. 3ª. Cat. 12
+
+Profesionales 4ª. Cat. 15
+
+Procurador 5ª. Cat. 22
+
+Técnicos 5ª. Cat. 19
+
+Técnicos 7ª. Cat. 22
+
+PLANTA ADMINISTRATIVA
+
+Jefes de Sección Gdo. 1° 17
+
+Oficiales Administrativos Gdo. 2° 19
+
+Oficiales Administrativos Gdo. 3° 19
+
+Oficiales Administrativos Gdo. 4° 20
+
+Oficiales Administrativos Gdo. 5° 21
+
+Oficiales Administrativos Gdo. 6° 23
+
+Oficiales Administrativos Gdo. 7° 25
+
+Oficiales Administrativos Gdo. 8° 27
+
+Oficiales Administrativos Gdo. 9° 29
+
+El o los cargos de Oficiales Administrativos grado 29 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Mayordomo Gdo. 1° 25
+
+Mayordomo Gdo. 2° 26
+
+Auxiliares Gdo. 3° 27
+
+Auxiliares Gdo. 4° 28
+
+Auxiliares Gdo. 5° 29
+
+Auxiliares Gdo. 6° 30
+
+Auxiliares Gdo. 7° 31
+
+Auxiliares Gdo. 8° 32
+
+Auxiliares Gdo. 9° 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 15
+
+Fíjase para los trabajadores de la Corporación de Magallanes, de conformidad con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+ADMINISTRACION GENERAL
+
+PLANTA DIRECTIVA PROFESIONAL Y TECNICA
+
+Vicepresidente Ejecutivo 3
+
+Secretario Abogado 6
+
+Ingeniero Comercial 6
+
+Contador 10
+
+Contador 14
+
+Para desempeñar los cargos de Contadores grados 10 y 14 se requerirá estar en posesión del título de Auditor, convirtiendose los cargos del grado 14 en grado 17, a medida que vayan quedando vacantes.
+
+Contador 16
+
+El o los cargos de Contador grado 16 se transformarán en grado 18 a medida que vayan quedando vacantes.
+
+Contador 18
+
+El o los cargos de Contador grado 18 se transformarán en grado 19 a medida que vayan quedando vacantes.
+
+Contador 19
+
+El o los cargos de Contador grado 19 se transformarán en grado 20 a medida que vayan quedando vacantes.
+
+Periodista 18
+
+Asistente Social 20
+
+Periodista 20
+
+Contador 20
+
+El o los cargos de Contador grado 20 se transformarán en grado 22 a medida que vayan quedando vacantes.
+
+Contador 21
+
+El o los cargos de Contador grado 21 se transformarán en grado 23 a medida que vayan quedando vacantes.
+
+Contador 22
+
+El o los cargos de Contador grado 22 se transformarán en grado 24 a medida que vayan quedando vacantes.
+
+Contador 25
+
+El o los cargos de Contador grado 25 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA
+
+Oficial de Actas 19
+
+Oficial Administrativo 20
+
+Oficial Administrativo 21
+
+Oficial Administrativo en Stgo. 22
+
+Oficial Administrativo 22
+
+Encargado Taller Mecánico 22
+
+Encargado Vehículos 23
+
+Fotógrafo 23
+
+Bodeguero 23
+
+Oficiales Administrativos 24
+
+Secretarias 24
+
+Oficiales Administrativos 25
+
+Secretarias 25
+
+Chofer 26
+
+Oficial Administrativo 26
+
+Chofer 27
+
+Secretarias 27
+
+Chofer 29
+
+El o los cargos de Chofer grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+Telefonista 28
+
+Secretaria 27
+
+Oficial Administrativo 29
+
+El o los cargos de Oficial Administrativo grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS
+
+Encargado de Máquinas 25
+
+Ayudante de Bodega 27
+
+Ayudante de Taller 29
+
+DEPARTAMENTO TECNICO
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Ingeniero Jefe 6
+
+Constructor Civil 10
+
+Topógrafo 14
+
+Oficial Técnico 20
+
+PLANTA ADMINISTRATIVA
+
+Chofer 28
+
+SECCION CONTROL DE CONSTRUCCION
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Constructor Civil 14
+
+Oficial Técnico 21
+
+Oficial Técnico 23
+
+Dibujante Técnico 20
+
+Departamento de Prevención Riesgos
+
+Jefe de Departamento 16
+
+Secretaria 25
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El Art. único del DL 1187, Economía, publicado el 29.09.1975, aprobó a contar del 1º de enero de 1975, la nueva planta del personal.
+
+#### Artículo 16°
+
+Fíjase para los trabajadores del Instituto Nacional de Estadísticas, de conformidad con lo dispuesto en el artículo 13 del decreto ley N° 249, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA y PROFESIONAL
+
+Director A 3
+
+Subdirectores B 4
+
+Fiscal B 5
+
+Contralor Ing. Comercial C 7
+
+Experto Estadísticas Agropecuarias C 7
+
+Ingeniero Analista de Sistema C 7
+
+Ingenieros 1ª 6
+
+Abogados 1ª 6
+
+Profesor de Matemáticas 1ª 7
+
+Contador Auditor 1ª 8
+
+Ingeniero Agrónomo 1ª 6
+
+Abogado 2ª 8
+
+Administrador Público 2ª 8
+
+Ingeniero Comercial 2ª 7
+
+Ingeniero Agrónomo 2ª 7
+
+Profesor de Hist. y Geografía 2ª 9
+
+Contador Auditor 2ª 9
+
+Abogado 3ª 10
+
+Adm. Público 3ª 10
+
+Profesor Hist. y Geografía 3ª 11
+
+Asistente Social 3ª 13
+
+Ingeniero Agrónomo 3ª 9
+
+Abogado 4ª 12
+
+Administrador Público 4ª 12
+
+Profesor de Hist. y Geografía 4ª 12
+
+Médico Veterinario 4ª 13
+
+Sociólogo 4ª 13
+
+Asistente Social 4ª 15
+
+Constructor Civil 4ª 13
+
+Educadora de Párvulos 4ª 15
+
+El o los cargos de Educadoras de Párvulos grado 15 se transformarán en grado 16 a medida que vayan quedando vacantes.
+
+Profesor de Química 4ª 12
+
+Profesor de Matemáticas 4ª 12
+
+Abogado 5ª 15
+
+Administrador Público 5ª 14
+
+Bibliotecario 5ª 15
+
+Administrador Público 6ª 16
+
+Periodista 6ª 16
+
+Constructor Civil 6ª 16
+
+Bibliotecario 6ª 17
+
+Administrador Público 7ª 17
+
+Profesor de Matemáticas 7ª 16
+
+Profesor Química 7ª 16
+
+Bibliotecario 7ª 18
+
+Técnico Estadístico 7ª 16
+
+Profesor de Hist. y Geografía 8ª 18
+
+Asistente Social 8ª 18
+
+PLANTA TECNICA
+
+Técnico Estadístico 2ª 14
+
+Contador 2ª 14
+
+Experto 2ª 14
+
+Técnico Estadístico 3ª 15
+
+Contador 3ª 15
+
+Experto 3ª 15
+
+Técnico Estadístico 4ª 16
+
+Contador 4ª 16
+
+Experto 4ª 16
+
+Técnico Estadístico 5ª 17
+
+Técnico en Programación
+
+(Programador U.R.) 5ª 17
+
+Contador 5ª 17
+
+Técnico Estadístico 6ª 17
+
+Técnico en Programación
+
+(Programador U.R.) 6ª 17
+
+Contador 6ª 17
+
+Técnico Estadístico 7ª 18
+
+Contador 7ª 18
+
+Técnico Estadístico 8ª 19
+
+Contador 8ª 19
+
+Técnico Estadístico 9ª 20
+
+Contador 9ª 20
+
+Técnico Estadístico 10ª 21
+
+Contador 10ª 21
+
+Técnico Estadístico 11ª 22
+
+Contador 11ª 22
+
+Técnico Estadístico 12ª 23
+
+Para el desempeño de los cargos de Estadísticos, Contadores y Expertos ubicados en grado 16 o superiores se requerirá estar en posesión del título de técnico universitario, o título de Contador y estudios adicionales de estadística de a lo menos 2 años, o acreditar 10 años de experiencia en el Servicio.
+
+En el caso de Técnicos de Programación se requerirá acreditar haber aprobado cursos de programación en equipos de registro unitario.
+
+El ingreso en esta Planta será en el futuro en el grado 27.
+
+PLANTA ADMINISTRATIVA
+
+Oficial Administrativo 3ª 19
+
+Oficial Subtécnico 3ª 19
+
+Artes Gráficas 3ª 19
+
+Oficial Administrativo 4ª 19
+
+Oficial Subtécnico 4ª 19
+
+Artes Gráficas 4ª 19
+
+Oficial Administrativo 5ª 20
+
+Oficial Subtécnico 5ª 20
+
+Artes Gráficas 5ª 20
+
+Oficial Administrativo 6ª 21
+
+Oficial Subtécnico 6ª 21
+
+Artes Gráficas 6ª 21
+
+Oficial Administrativo 7ª 22
+
+Oficial Subtécnico 7ª 22
+
+Artes Gráficas 7ª 22
+
+Oficial Administrativo 1° 23
+
+Oficial Subtécnico 1° 23
+
+Artes Gráficas 1° 23
+
+Oficial Administrativo 2° 25
+
+Oficial Subtécnico 2° 25
+
+Artes Gráficas 2° 25
+
+Oficial Administrativo 3° 26
+
+Oficial Subtécnico 3° 26
+
+Artes Gráficas 3° 26
+
+Oficial Administrativo 4° 28
+
+Artes Gráficas 4° 28
+
+Of. Artes Gráficas 5° 29
+
+El o los cargos de Of. Artes Gráficas grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes
+
+PLANTA DE SERVICIOS MENORES
+
+Mayordomo 1° 25
+
+Chofer 1° 25
+
+Auxiliar 1° 25
+
+Chofer 2° 26
+
+Auxiliar 2° 26
+
+Electricista 2° 26
+
+Auxiliar 3° 28
+
+Chofer 3° 28
+
+Carpintero 3° 28
+
+Auxiliar 4° 30
+
+Electricista 4° 30
+
+Carpintero 4° 30
+
+Chofer 4° 30
+
+Gásfiter 4° 30
+
+Auxiliar 5° 31
+
+Gásfiter 5° 31
+
+Chofer 5° 31
+
+Chofer 6° 33
+
+Auxiliar 6° 33
+
+El o los cargos de Auxiliar de grado 33° se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El DTO 33, Economía, publicado el 26.03.1977, creó y suprimió los cargos que indica.
+
+> **Nota.** NOTA 2: El DL 1888, Hacienda, publicado el 30.09.1977, creó y suprimió los cargos que indica.
+
+#### Artículo 17°
+
+Fíjase para los trabajadores del Departamento de Indemnizaciones a Obreros Molineros y Panificadores, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+ESCALAFON DIRECTIVO
+
+Director Ejecutivo 2ª Cat. 5
+
+Secretario General 3ª Cat. 8
+
+Jefe Depto. Agencias Zonales 5ª Cat. 10
+
+Jefe Depto. Beneficios 5ª Cat. 10
+
+Agentes Zonales 6ª Cat. 13
+
+Agentes Zonales 7ª Cat. 15
+
+ESCALAFON PROFESIONAL
+
+Fiscal 3ª Cat. 6
+
+Contador Jefe 5ª Cat. 10
+
+Abogado 6ª Cat. 12
+
+Contador 6ª Cat. 16
+
+Asistente Social 6ª Cat. 15
+
+ESCALAFON ADMINISTRATIVO
+
+Oficiales 7ª Cat. 19
+
+Oficiales Gdo. 1 21
+
+Oficiales Gdo. 2 22
+
+Oficiales Gdo. 3 24
+
+Oficiales Gdo. 4 25
+
+Oficiales Gdo. 5 26
+
+Oficiales Gdo. 7 28
+
+El o los cargos de Oficiales grado 28 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+ESCALAFON PERSONAL SECUNDARIO
+
+Auxiliar Jefe Gdo. 1 25
+
+Auxiliar Gdo. 2 27
+
+Auxiliar Gdo. 3 29
+
+Auxiliares Gdo. 4 30
+
+Auxiliar Mantención Edificios Gdo. 4 30
+
+Auxiliar Gásfiter Gdo. 4 30
+
+Auxiliar Atención Casino Gdo. 4 30
+
+Los cargos de grado 30 se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 18°
+
+DEROGADO
+
+#### Artículo 19°
+
+Fíjase para los trabajadores de la Superintendencia de Servicios Eléctricos, Gas y Telecomunciaciones, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA
+
+Ingeniero Superintendente 1° 2
+
+Jefe de División 2° 4
+
+Jefe de División Servicios
+
+Generales 3° 6
+
+Ingeniero Jefe de Depto. 3° 5
+
+Ingeniero Jefe de Planificación 3° 5
+
+Jefe Delegaciones Regionales 3° 6
+
+Asesor Jurídico 3° 6
+
+Secretario Relacionador 3° 9
+
+Técnico Jefe Depto. Inspección
+
+y Control 4° 7
+
+Ingenieros Visitadores 3° 5
+
+Delegados Regionales 4° 8
+
+Jefe Depto. Contabilidad
+
+y Auditoría 4° 9
+
+Jefe Depto. Administración 4° 9
+
+Ingenieros:
+
+Ingenieros 3° 6
+
+Ingenieros 4° 7
+
+Ingenieros 5° 10
+
+Ingenieros 6° 15
+
+El o los cargos de Ingenieros grado 15 se transformarán en grado 17 a medida que vayan quedando vacantes.
+
+Ingenieros Comerciales 4° 7
+
+Egresados de Ingeniería 7° 19
+
+Técnicos Universitarios:
+
+Técnicos Universitarios 4° 14
+
+Técnicos Universitarios 5° 15
+
+Técnicos Universitarios 6° 16
+
+Técnicos Universitarios 7° 17
+
+Técnicos Universitarios 8° 18
+
+Técnicos Universitarios 9° 21
+
+El o los cargos de Técnicos Universitarios grado 21° se transformarán en grado 23° a medida que vayan quedando vacantes.
+
+Egresados de Técnicos
+
+Universitarios 10° 23
+
+Abogados:
+
+Abogados 5° 7
+
+Abogados 6° 9
+
+Abogados 7° 15
+
+Auditores y Contadores
+
+Auditores y Contadores 5° 8
+
+Auditores y Contadores 6° 10
+
+Auditores y Contadores 7° 12
+
+Auditores y Contadores 8° 14
+
+Auditores y Contadores 9° 17
+
+Contadores:
+
+Contadores 5° 18
+
+Contadores 6° 19
+
+Contadores 7° 20
+
+Contadores 8° 21
+
+Contadores 9° 22
+
+El o los cargos de Contadores grado 22° se transformarán en grado 27° a medida que vayan quedando vacantes.
+
+Traductores Técnicos:
+
+Traductores Técnicos 9 15
+
+Traductores Técnicos 10 17
+
+Para ingresar a este escalafón se requerirá acreditar estar en posesión de título profesional universitario.
+
+Administradores Públicos 8 12
+
+Profesionales y Técnicos:
+
+Profesionales y Técnicos 4 8
+
+Profesionales y Técnicos 5 10
+
+Profesionales y Técnicos 10 19
+
+Técnicos 4 14
+
+Técnicos 5 16
+
+Estadísticos:
+
+Estadísticos 9 18
+
+Estadísticos 10 19
+
+Subtécnicos:
+
+Subtécnicos 10 19
+
+Subtécnicos 11 22
+
+Subtécnicos 12 25
+
+El o los cargos de Subtécnicos grado 25° se transformarán en grado 30° a medida que vayan quedando vacantes.
+
+Procuradores 12 23
+
+Oficiales Especializados
+
+Oficiales Especializados 10 19
+
+Oficiales Especializados 11 22
+
+Oficiales Especializados 12 25
+
+Oficiales Especializados 13 26
+
+El o los cargos de Oficiales Especializados grado 26 se transformarán en grado 30° a medida que vayan quedando vacantes.
+
+Oficiales Administrativos
+
+Oficiales 11 19
+
+Oficiales 12 20
+
+Oficiales 13 21
+
+Oficiales 14 22
+
+Oficiales 15 23
+
+Oficiales 16 24 Oficiales 17 25 Oficiales 18 26
+
+Oficiales 19 27
+
+Oficiales 20 28
+
+Oficiales 21 29
+
+Oficiales 22 29
+
+El o los cargos de Oficiales de grado 29° se transformarán en grado 31° a medida que vayan quedando vacantes.
+
+Oficiales Telefonista 20 28
+
+Servicios Menores
+
+A) Mayordomo y Auxiliares de Servicios
+
+Mayordomo 17 25
+
+Auxiliares de Servicio 17 26
+
+Mayordomo 18 27
+
+B) Auxiliares Especializados
+
+Mecánico 21 25
+
+Gásfiter 22 27
+
+Operador 22 27
+
+Mecánico Electricista 23 28
+
+C) Choferes
+
+Choferes 21 25
+
+Choferes 22 27
+
+Choferes 23 28
+
+Choferes 24 29
+
+Choferes 25 30
+
+Choferes 26 31
+
+D) Porteros 21 27
+
+E) Auxiliares
+
+Auxiliares 22 28
+
+Auxiliares 23 29
+
+Auxiliares 24 30
+
+Auxiliares 25 31
+
+Auxiliares 26 32
+
+Auxiliares 27 33
+
+El o los cargos de Auxiliares grado 33° se transformarán en grado 35° a medida que vayan quedando vacantes.
+
+F) Auxiliares de Casino
+
+Auxiliares de Casino 25 31
+
+Auxiliares de Casino 26 32
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 20°
+
+Fíjase para los trabajadores de la Superintendencia de Bancos, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Superintendente 2
+
+Intendente 3
+
+Segundo Intedente 4
+
+Secretario General 7
+
+Asesor Jurídico 4
+
+Jefe Depto. Técnico 6
+
+Jefe Depto. Inspección y Auditoría 6
+
+Jefe Depto. Planificación y Estudios 6
+
+Jefe Subdepartamento Inspección Bancos 7
+
+Jefe Subdepartamento Inspección Obras Instituc. 7
+
+Jefe Subdepartamento Auditoría 7
+
+Jefe Subdepartamento Banco del Estado 7
+
+Jefe Subdepartamento Computación 7
+
+Jefe Subdepartamento Finanzas y Servicios 7
+
+Abogados 7
+
+Ingenieros Comerciales 9
+
+Inspectores 1° 10
+
+Contadores 1° de Auditoría 12
+
+Prosecretario 14
+
+Encargado de Administración 15
+
+Inspectores 2° 14
+
+Contadores 2° de Auditoría 16
+
+Jefe Sección Encaje 18
+
+Jefe Sección Estadistica 18
+
+Jefe Sección Informes 18
+
+Oficial de Partes 18
+
+Sub-Tesorero 15
+
+Inspectores 3° 18
+
+Operadores 21
+
+PLANTA ADMINISTRATIVA
+
+Oficial Secretario 19
+
+Oficial 1° 21
+
+Oficial 2° 25
+
+Oficial 3° 29
+
+El o los cargos de Oficial 3° se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Mayordomo 25
+
+Portero 1° 26
+
+Chofer 26
+
+Porteros 28
+
+Porteros 30
+
+Porteros 33
+
+El o los cargos de Porteros grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 21°
+
+Fíjase para los trabajadores de la Superintendencia de Seguridad Social, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Ubicación en la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+Superintendente 1° 2
+
+Fiscal 1° 3
+
+Jefes de Departamento 2° 5
+
+Abogados 1° 2° 5
+
+Actuario 1° 3° 7
+
+Auditor 1° 3° 7
+
+Abogado 2° 3° 7
+
+Arquitecto 3° 3° 9
+
+Experto en Racionalización 3° 7
+
+Secretario General 3° 7
+
+Actuario 2° 4° 9
+
+Auditor 2° 4° 9
+
+Abogado 3° 4° 9
+
+Actuario 3° 5° 12
+
+Auditor 3° 5° 12
+
+Abogado 4° 5° 12
+
+Auditor 4° 6° 14
+
+Abogado 5° 6° 15
+
+Auditor 5° 7° 16
+
+Ayudante de Racionalización 7° 15
+
+Ayudantes 1° de Racionalización 7° 13
+
+Bibliotecaria 7° 19
+
+Experto en Prevención de Riesgos 7° 12
+
+Para desempeñar el cargo de Experto en Prevención de Riesgos grado 12° se requerirá estar en posesión del título profesional correspondiente.
+
+Calculista 1° 7° 14
+
+Ayudante Auditor 8° 19
+
+Calculista 2° 8° 14
+
+Oficial Jurídico 9° 19
+
+Oficial 1° Administrativo 10° 19
+
+Oficial 2° 10° 20
+
+2° Jurídicos 10° 21
+
+Oficial 3° 11° 23
+
+Oficial 4° 12° 25
+
+Oficial 5° 13° 27
+
+El o los cargos de Oficial 5° de grado 27° se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+Mayordomo 14° 25
+
+Auxiliares 1° 15° 27
+
+Auxiliares 2° 16° 29
+
+Auxiliares 3° -- 32
+
+El o los cargos de Auxiliares 3° de grado 32 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 22°
+
+Fíjase para los trabajadores de la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Superintendente 2
+
+Intendente 4
+
+Fiscal 4
+
+Jefes de Deptos 6
+
+Secretario General 8
+
+Contralor 7
+
+Abogado 1° 7
+
+Contador 1° (Auditor) 11
+
+Actuarios 8
+
+Abogados 10
+
+Contadores (Auditores) 13
+
+Inspectores 1° 14
+
+Contadores Ayudantes 18
+
+Procurador 22
+
+Relacionador 16
+
+Inspectores 18
+
+Of. de Partes 19
+
+Archivero 19
+
+Of. Secretaría 21
+
+Of. de Informaciones 21
+
+Oficial de Secretaría Ayudante 24
+
+Oficial 24
+
+Mayordomo 25
+
+Portero 29
+
+El o los cargos de Portero grado 29 se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Jefe Of. Valparaíso 6
+
+Para desempeñar los cargos de Contador 1° grado 11 y Contadores grado 13 se requerirá estar en posición del título profesional universitario, de Contador Auditor.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 23°
+
+Fíjase para los trabajadores de la Secretaría Ejecutiva para los Asuntos de la Asociación Latinoamericana de Libre Comercio de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Secretario Ejecutivo A 3 Prosecretario B 5 Abogados - Ingenieros - Arquitectos
+
+Abogados C 6
+
+Abogados D 8
+
+Abogados E 10
+
+Abogados F 12
+
+Abogados G 13
+
+Abogados H 15
+
+Abogados I 17
+
+Ingenieros C 6
+
+Ingenieros D 8
+
+Ingenieros E 10
+
+Ingenieros F 12
+
+Ingenieros G 13
+
+Ingenieros H 15
+
+Ingenieros I 17
+
+Arquitectos C 6
+
+Arquitectos D 8
+
+Arquitectos E 10
+
+Arquitectos F 12
+
+Arquitectos G 13
+
+Arquitectos H 15
+
+Arquitectos I 17
+
+Administradores Públicos - Vista de Aduanas
+
+Administrador Público C 6
+
+Administrador Público D 8
+
+Administrador Público E 10
+
+Administrador Público F 12
+
+Administrador Público G 13
+
+Administrador Público H 15
+
+Administrador Público I 17
+
+Vista de Aduana C 6
+
+Vista de Aduana D 9
+
+Vista de Aduana E 12
+
+Vista de Aduana F 14
+
+Vista de Aduana G 16
+
+Vista de Aduana H 18
+
+Vista de Aduana I 19
+
+Expertos (Personal Especializado)
+
+Expertos F 16
+
+Expertos G 18
+
+Expertos H 20
+
+El o los cargos de Expertos grado 20° se transformarán en grado 27° a medida que vayan quedando vacantes.
+
+Contador
+
+Contador F 13
+
+Contador G 18
+
+Contador H 23
+
+El o los cargos de Contador grado 23° se transformarán en grado 27° a medida que vayan quedando vacantes.
+
+Periodistas
+
+Periodista C 12
+
+Periodista D 14
+
+Periodista E 15
+
+Periodista F 16
+
+Periodista G 18
+
+Periodista H 19
+
+Periodista I 20
+
+Técnicos Universitarios y Egresados
+
+Técnicos F 14
+
+Técnicos G 16
+
+Técnicos H 18
+
+El o los cargos de Técnicos de grado 18 se transformarán en grado 23° a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª. Cat. 19
+
+Taquígrafos 5ª. Cat. 19
+
+Oficiales 6ª. Cat. 21
+
+Oficiales 7ª. Cat. 23
+
+Oficiales Gr. 1° 25
+
+Oficiales Gr. 2° 26
+
+Oficiales Gr. 3° 27
+
+Oficiales Gr. 4° 29
+
+El o los cargos de Oficiales grado 29° se transformarán en grado 31° a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 24°
+
+Apruébase la Planta que regirá para la Corporación de Fomento de la Producción a contar desde el 1º de Enero de 1974 y fíjase, a contar desde la misma fecha, la siguiente designación de cargos, su número y ubicación en la Escala Unica:
+
+PLANTA DIRECTIVA
+
+---------------------------------------------------------
+
+Nº Grado de la Escala
+
+cargos Cargo Unica
+
+---------------------------------------------------------
+
+1 Vicepresidente Ejecutivo 2
+
+1 Vicepresidente Ejecutivo Adjunto 3
+
+1 Fiscal 3
+
+1 Gerente General 3
+
+1 Abogado Jefe (Gerente) 4
+
+7 Gerentes 4
+
+22 Subgerentes "A" 4
+
+1 Subgerente "B" 4
+
+1 Subgerente Oficina Nueva
+
+York 4
+
+43 Jefes de Departamento 5
+
+1 Jefe de Departamento
+
+Oficina Nueva York 5
+
+127 Jefes de División 5
+
+1 Jefe de División Oficina
+
+Nueva York 5
+
+Suprímense los dos cargos de Gerentes que quedaron vacantes el 7 de Enero y el 28 de Febrero de 1974, a contar de dichas fechas, respectivamente.
+
+El Subgerente "B" tendrá, entre otras funciones y obligaciones, las indicadas en el Art. 22 del decreto supremo Nº 360, de 1945, del ex Ministerio de Economía y Comercio.
+
+PLANTA PROFESIONAL, TECNICA Y DE EXPERTOS
+
+---------------------------------------------------------
+
+Nº Grado de la Escala
+
+cargos Cargo Unica
+
+---------------------------------------------------------
+
+134 Profesionales y Técnicos 6
+
+35 Profesionales y Técnicos 7
+
+164 Profesionales y Técnicos 8
+
+145 Profesionales y Técnicos 9
+
+161 Profesionales, Técnicos
+
+y Expertos 10
+
+25 Profesionales, Técnicos
+
+y Expertos 11
+
+15 Profesionales, Técnicos
+
+y Expertos 12
+
+43 Profesionales, Técnicos
+
+y Expertos 13
+
+27 Profesionales, Técnicos
+
+y Expertos 14
+
+56 Profesionales, Técnicos
+
+y Expertos 15
+
+49 Profesionales, Técnicos
+
+y Expertos 16
+
+19 Profesionales, Técnicos
+
+y Expertos 17
+
+20 Profesionales, Técnicos
+
+y Expertos 18
+
+16 Profesionales, Técnicos
+
+y Expertos 19
+
+6 Profesionales, Técnicos
+
+y Expertos 20
+
+3 Profesionales, Técnicos
+
+y Expertos 21
+
+2 Profesionales, Técnicos
+
+y Expertos 22
+
+1 Profesionales, Técnicos
+
+y Expertos 23
+
+2 Profesionales, Técnicos
+
+y Expertos 24
+
+1 Profesionales, Técnicos
+
+y Expertos 26
+
+1 Profesionales, Técnicos
+
+y Expertos 27
+
+Podrá ingresar a esta Planta Profesional, Técnica y de Expertos el personal que se encuentra en alguna de las siguientes situaciones:
+
+a) Los funcionarios que al 31 de Diciembre de 1973, pertenecían a la Planta Profesional y Técnica de la Corporación;
+
+b) Aquellas personas que desempeñen algún cargo para cuyo ejercicio se requiere tener la calidad de técnico o profesional, entendiéndose para estos efectos que tienen dicha calidad con relación al cargo que desempeñan aquellos funcionarios a que se refiere el inciso 2º del Nº 2 del Art. 16 del DFL. Nº 211, de 1960, y
+
+c) Aquellas personas con prácticas, habilidades o experiencias en cualquiera técnica o ciencia que, a juicio del Vicepresidente Ejecutivo, sean de utilidad para el cumplimiento de los fines de la Corporación, los que, en todo caso, sólo podrán llegar al grado 10 de la Escala Unica como tope de carrera.
+
+No obstante, a contar de la fecha de la publicación de este decreto ley, para proveer cualquier cargo de profesional o técnico con arreglo a las letras b) y c) precedentes, se requerirá, además, estar en posesión del respectivo título y/o, en su caso, estar inscrito en el Colegio correspondiente, a los menos, un año, y, tratándose de expertos, tener una experiencia mínima de 3 años en la especialidad requerida.
+
+JEFATURAS ADMINISTRATIVAS
+
+---------------------------------------------------------
+
+Nº Grado de la Escala
+
+cargos Cargo Unica
+
+---------------------------------------------------------
+
+26 Jefes de Sección 13
+
+43 Jefes de Oficina 15
+
+3 Jefes de Sección 15
+
+1 Cajero Jefe 16
+
+25 Jefes Administrativos 16
+
+2 Jefes de Sección 16
+
+59 Jefes Administrativos 17
+
+45 Jefes Administrativos 18
+
+PLANTA ADMINISTRATIVA
+
+1 Jefe Administrativo 19
+
+41 Oficiales 19
+
+33 Secretarias 19
+
+61 Oficiales 20
+
+1 Operador Máquinas National 20
+
+57 Secretarias 20
+
+54 Oficiales 21
+
+63 Secretarias 21
+
+69 Oficiales 22
+
+99 Secretarias 22
+
+30 Oficiales 23
+
+1 Operador Máquinas National 23
+
+73 Secretarias 23
+
+2 Oficiales 24
+
+2 Oficiales 25
+
+1 Secretaria 25
+
+1 Programador IBM 25
+
+2 Oficiales 26
+
+1 Secretaria 26
+
+1 Operador Máquinas National 26
+
+1 Operador IBM 27
+
+2 Oficiales 27
+
+1 Perforista IBM 27
+
+1 Secretaria 27
+
+1 Operador Máquinas National 28
+
+1 Oficial 28
+
+2 Secretarias 28
+
+1 Inspector de Inventarios 28
+
+1 Oficial 29
+
+1 Secretaria 29
+
+1 Oficial 30
+
+3 Secretarias 30
+
+1 Oficial 31
+
+1 Secretaria 31
+
+1 Perforista IBM 31
+
+1 Telefonista 31
+
+PLANTA DE SERVICIOS
+
+ESCALAFON DE ESPECIALIDADES
+
+1 Jefe de Perforación 22
+
+20 Jefes de Talleres 22
+
+10 Bodegueros Jefes 23
+
+5 Inspectores Jefes
+
+de Perforación 23
+
+1 Jefe Planta Eléctrica 23
+
+20 Jefes de Talleres 23
+
+9 Maestros Jefes de
+
+Perforación 23
+
+32 Jefes de Talleres 24
+
+2 Inspectores Jefes
+
+de Perforación 24
+
+10 Maestros Jefes de
+
+Perforación 24
+
+7 Bodegueros 25
+
+8 Carpinteros 25
+
+11 Choferes 25
+
+5 Hidromensores 25
+
+4 Jefes de Talleres 25
+
+21 Maestros de Perforación 25
+
+24 Mecánicos 25
+
+1 Maestro de Perforación 26
+
+1 Ayudante Operadores Multilith 26
+
+1 Bodeguero 26
+
+37 Choferes 26
+
+2 Electricistas 26
+
+3 Gásfiter 26
+
+3 Mecánicos 26
+
+4 Operadores Multilith 26
+
+1 Operador Roneo 26
+
+12 Pañoleros 26
+
+28 Perforistas 26
+
+6 Soldadores 26
+
+1 Jefe de Taller 27
+
+1 Bodeguero 27
+
+1 Carpintero 27
+
+12 Choferes 27
+
+1 Gruero 27
+
+4 Mecánicos 27
+
+4 Pañoleros 27
+
+7 Perforistas 27
+
+4 Soldadores 27
+
+1 Perforista 28
+
+1 Hidromensor 28
+
+1 Bodeguero 28
+
+7 Choferes 28
+
+1 Electricista 28
+
+2 Pañoleros 28
+
+2 Soldadores 28
+
+2 Torneros 28
+
+1 Mayordomo 29
+
+PLANTA DE SERVICIOS
+
+ESCALAFON DE ESPECIALIDADES
+
+---------------------------------------------------------
+
+Nº Grado de la Escala
+
+cargos Cargo Unica
+
+---------------------------------------------------------
+
+1 Auxiliar Dental 29
+
+2 Ayudantes de Perforación 29
+
+1 Carpintero 29
+
+1 Chofer 29
+
+1 Enfermero 29
+
+2 Ayudantes de Bodeguero 30
+
+1 Ayudante de Perforación 30
+
+1 Soldador 30
+
+1 Mecánico 30
+
+1 Electricista 30
+
+1 Pañolero 30
+
+2 Alarifes 32
+
+1 Pintor 32
+
+1 Carpintero 33
+
+1 Pintor 33
+
+1 Gásfiter 33
+
+1 Calderero 33
+
+1 Albañil 33
+
+1 Chofer 33
+
+El o los cargos de Choferes y Enfermero grado 29° se transformarán en grado 33° y 32°, respectivamente, a medida que vayan quedando vacantes.
+
+El o los cargos de Alarifes y Pintor grado 32° se transformarán en grado 33°, a medida que vayan quedando vacantes.
+
+---------------------------------------------------------
+
+Nº Grado de la Escala
+
+cargos Cargo Unica
+
+---------------------------------------------------------
+
+PLANTA DE SERVICIOS
+
+ESCALAFON DE SERVICIOS GENERALES
+
+1 Mayordomo Jefe 25
+
+1 Conserje 26
+
+1 Ecónoma 26
+
+6 Mayordomos 26
+
+2 Mayordomos 27
+
+28 Porteros 27
+
+24 Porteros 28
+
+1 Telefonista 28
+
+1 Encargado Oficina Materiales 29
+
+1 Mayordomo Casino 29
+
+23 Porteros 29
+
+2 Telefonistas 29
+
+6 Maestras de Cocina 30
+
+32 Porteros 30
+
+1 Maestra de Cocina 31
+
+33 Auxiliares de Casino 31
+
+7 Jefes de Comedor 31
+
+2 Porteros 31
+
+1 Ayudante de Patio 32
+
+3 Porteros 32
+
+1 Auxiliar de Casino 32
+
+1 Lavandera 33
+
+4 Porteros 33
+
+PLANTA DE SERVICIOS
+
+ESCALAFON DE SERVICIOS GENERALES
+
+1 Telefonista 33
+
+1 Portero 35
+
+1 Auxiliar Casino 35
+
+El o los cargos de Telefonistas grado 29° se transformarán en grado 31° a medida que vayan quedando vacantes.
+
+El o los cargos de Auxiliares de Casino, Lavandera y Porteros grados 33°, se transformarán en grado 35° a medida que vayan quedando vacantes.
+
+PLANTA MEDICO FUNCIONARIO LEY 15076
+
+1 Médico Jefe (Pediatra) 6 horas
+
+1 Odontólogos (Radiólogos) 6 horas
+
+1 Odontólogo 6 horas
+
+El personal de la Planta Médico Funcionario tendrá derecho a percibir cuando corresponda, el beneficio contemplado en el Art. 8º de la ley 15.076.
+
+Fíjase en un 30%, para los profesionales que sirvan los cargos de Médico Jefe (Pediatra) y Odontólogos (Radiólogos), la asignación contemplada en el Art. 9º letra b) de la ley 15.076.
+
+Fíjase, asimismo, en un 60% para los profesionales que sirvan los cargos de Médico Jefe (Pediatra), y Odontólogos (Radiólogos), la asignación contemplada en la letra a) del Art. 9º, de la ley 15.076.
+
+> **Nota.** El Art. 1º del DL 1598, Economía, publicado el 27.11.1976, aprobó a contar del 01.06.1976, la nueva planta del personal.
+
+#### Artículo 25°
+
+Fíjase para los trabajadores del Instituto de Investigación de Recursos Naturales, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente planta y ubicación en la Escala Unica:
+
+=======================================================
+
+Grado
+
+Designación actual Escala Unica
+
+-------------------------------------------------------
+
+Planta Directiva y Jefaturas.
+
+Director Ejecutivo 5
+
+Jefe Técnico 6
+
+Investigador Jefe 6
+
+Jefe Administración y Finanzas 7
+
+Subjefe Técnico 7
+
+Planta Profesional, Técnica y de Expertos
+
+Profesionales y Técnicos 7
+
+Profesionales y Técnicos 8
+
+Profesionales y Técnicos 9
+
+Profesionales, Técnicos y Exp 10
+
+Profesionales, Técnicos y Exp 11
+
+Profesionales, Técnicos y Exp 13
+
+Profesionales, Técnicos y Exp 15
+
+Profesionales, Técnicos y Exp 16
+
+Profesionales, Técnicos y Exp 17
+
+Profesional, Técnico y Exp 23
+
+Planta de Jefaturas Administrativas
+
+Jefes de Sección 15
+
+Jefes Administrativos 16
+
+Jefes Administrativos 17
+
+Planta Administrativa
+
+Oficiales 19
+
+Oficiales 21
+
+Secretarias 27
+
+El o los cargos de Secretarias grado 27° se transformarán en grado 31° a medida que vayan quedando vacantes.
+
+Jefatura Planta de Servicios
+
+Jefe de Taller 22
+
+Mayordomo Jefe 25
+
+Choferes 26
+
+Mayordomo Edificio 26
+
+Mayordomo Taller 26
+
+Porteros 27
+
+Portero 33
+
+El o los cargos de Portero grado 33° se transformarán en grado 35° a medida que vayan quedando vacantes.
+
+Los contratos del personal del Instituto, que sean de duración indefinida y que se encuentren vigentes a la fecha de la publicación del presente decreto ley, serán modificados a contar desde el 1° de enero de 1974, con el fin de consignar en ellos el cargo o función y el grado que corresponda de conformidad a lo dispuesto en el artículo anterior.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 26°
+
+DEROGADO
+
+#### Artículo 27°
+
+Fíjase para los trabajadores de la Sindicatura General de Quiebras, de conformidad con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+ESCALA PERSONAL SUPERIOR
+
+Síndico General F/C 3
+
+Fiscal F/C 4
+
+Contador General F/C 6
+
+Sindicos 1° F/C 6
+
+Contadores Inspectores Grales. F/C 9
+
+Abogados 1° F/C 7
+
+Síndicos 2° 1ª Cat. 8
+
+Contadores 1° 1ª Cat. 11
+
+Abogados 2° 1ª Cat. 9
+
+Jefe Administrativo 1ª Cat. 7
+
+Contadores 2° 2ª Cat. 13
+
+Subjefe Administrativo 2ª Cat. 10
+
+Asesor Comercial 2ª Cat. 10
+
+Contadores 3° 3ª Cat. 15
+
+Procuradores 1° (Abogado) 3ª Cat. 12
+
+Contadores 4° 4ª Cat. 17
+
+Procuradores 2° (abogado) 4ª Cat. 15
+
+Procurador 3° (abogado) 5ª Cat. 17
+
+Secretario Sindicatura Stgo. 5ª Cat. 16
+
+Secretario Sindicatura Gral. 5ª Cat. 16
+
+Jefe de Bienestar 5ª Cat. 17
+
+Procurador 4° 6ª Cat. 23
+
+Contador 5° 6ª Cat. 20
+
+Secretarios de Asesorías 7ª Cat. 18
+
+ESCALA PERSONAL SUBALTERNO
+
+Oficiales 1° 5ª Cat. 19
+
+Oficiales 2° 6ª Cat. 20
+
+Oficiales 3° 7ª Cat. 21
+
+Oficiales 4° Gr. 1° 22
+
+Oficiales 5° Gr. 2° 23
+
+Oficial 6° Gr. 3° 24
+
+Oficial 7° Gr. 4° 25
+
+Oficial 8° Gr. 5° 26
+
+Oficial 9° Gr. 6° 27
+
+Oficial 10° Gr. 7° 28
+
+Oficial 11° Gr. 8° 29
+
+El o los cargos de Oficiales 11° de grado 29 se transformarán en grado 31 a medida que vayan quedando
+
+vacantes.
+
+Auxiliares Gr. 3° 25
+
+Auxiliares Gr. 8° 31
+
+El a los cargos de Auxiliares grado 31, se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El Art. 1º del DTO 1108, Justicia, publicado el 07.11.1977, creó los cargos de Síndico 2º que indica.
+
+#### Artículo 28°
+
+Fíjase para los trabajadores del Poder Judicial, de conformidad con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+Personal Superior
+
+Presidente de la Corte Suprema F/C 1A
+
+Ministros Corte Suprema F/C 1B
+
+Fiscal de la Corte Suprema F/C 1B
+
+Ministros Cortes de Apelaciones 1a. Cat. 2
+
+Fiscales de las Cortes de
+
+Apelaciones 1a. Cat. 2
+
+Relatores Corte Suprema 1a. Cat. 2
+
+Secretario de la Corte Suprema 1a. Cat. 2
+
+Ministros Cortes Trabajo 1a. Cat. 2
+
+Jueces Letrados de Mayor Cuantía
+
+de Asiento de Corte de Apelaciones 2a. Cat. 4
+
+Relatores Cortes de Apelaciones 2a. Cat. 4
+
+Secretarios de las Cortes
+
+de Apelaciones 2a. Cat. 4
+
+Jueces de Letras de Menores de:
+
+Santiago 2a. Cat. 4
+
+Valparaíso 2a. Cat. 4
+
+Concepción 2a. Cat. 4
+
+Iquique 2a. Cat. 4
+
+Antofagasta 2a. Cat. 4
+
+La Serena 2a. Cat. 4
+
+Rancagua 2a. Cat. 4
+
+Talca 2a. Cat. 4
+
+Chillán 2a. Cat. 4
+
+Temuco 2a. Cat. 4
+
+Valdivia 2a. Cat. 4
+
+Puerto Montt 2a. Cat. 4
+
+Punta Arenas 2a. Cat. 4
+
+Defensores Públicos de Santiago 2a. Cat. 4
+
+Jueces del Trabajo de 1a Cat. 2a. Cat. 4
+
+Secretarios Cortes del Trabajo 2a. Cat. 4
+
+Relator Corte del Trabajo
+
+de Santiago 2a. Cat. 4
+
+Jueces Letrados de Mayor
+
+Cuantía de Capital de provincia 3a. Cat. 5
+
+Jueces del Trabajo de 2a. Cat 3a. Cat. 5
+
+Jueces de Letras de Menores
+
+del Departamento de:
+
+Arica 3a. Cat. 5
+
+P. Aguirre Cerda 3a. Cat. 5
+
+San Fernando 3a. Cat. 5
+
+Linares 3a. Cat. 5
+
+Los Angeles 3a. Cat. 5
+
+Defensor Público de Valparaíso 3a. Cat. 5
+
+Jueces Letrados de Mayor
+
+Cuantía de Departamento 4a. Cat. 6
+
+Jueces Letrados de Menor
+
+Cuantía de:
+
+Santiago 4a. Cat. 6
+
+Valparaíso 4a. Cat. 6
+
+Viña del Mar 4a. Cat. 6
+
+Secretarios de Juzgados de Letras
+
+de Mayor Cuantía de Asiento
+
+de Corte de Apelaciones 4a. Cat. 6
+
+Jueces del Trabajo de 3a. Cat. 4a. Cat. 6
+
+Secretarios de Juzgados del
+
+Trabajo de 1a. Cat. 4a. Cat. 6
+
+Secretarios de los Juzgados de Letras de Menores de :
+
+Santiago 4a. Cat. 6
+
+Valparaíso 4a. Cat. 6
+
+Concepción 4a. Cat. 6
+
+Iquique 4a. Cat. 6
+
+Antofagasta 4a. Cat. 6
+
+La Serena 4a. Cat. 6
+
+Rancagua 4a. Cat. 6
+
+Talca 4a. Cat. 6
+
+Chillán 4a. Cat. 6
+
+Temuco 4a. Cat. 6
+
+Valdivia 4a. Cat. 6
+
+Puerto Montt 4a. Cat. 6
+
+Punta Arenas 4a. Cat. 6
+
+Jueces de Letras de Indios 4a. Cat. 6
+
+Jueces Letrados de Menor Cuantía de:
+
+Linares 5a. Cat. 7
+
+Temuco 5a. Cat. 7
+
+Valdivia 5a. Cat. 7
+
+Demás Jueces Letrados de Mayor Cuantía de Departamento 5a. Cat. 6 Secretarios de los Juzgados de Letras de Mayor Cuantía de
+
+Capital de Provincia 6a. Cat. 7
+
+Secretarios de Juzgados
+
+del Trabajo de 2.a Cat. 6a. Cat. 7
+
+Secretario del Juzgado de Letras de Menores de los Departamentos de:
+
+Arica 6a. Cat. 7
+
+P. Aguirre Cerda 6a. Cat. 7
+
+San Fernando 6a. Cat. 7
+
+Linares 6a. Cat. 7
+
+Los Angeles 6a. Cat. 7
+
+Secretarios de Juzgados de Letras
+
+de Menor Cuantía de Santiago 6a. Cat. 7
+
+Secretario de Juzgados de Letras
+
+de Mayor Cuantía de Departamentos 7a. Cat. 9
+
+Secretarios de Juzgados de Letras de Menor Cuantía de:
+
+Valparaíso 7a. Cat. 9
+
+Viña del Mar 7a. Cat. 9
+
+Secretarios de los Juzgados
+
+de Letras de Indios 7a. Cat. 9
+
+Secretarios de Juzgados
+
+del Trabajo de 3a. Cat. 7a. Cat. 9
+
+Secretarios de los démas Juzgados
+
+de Letras de Menor Cuantía 8a. Cat. 10
+
+PERSONAL SUBALTERNO
+
+Oficial 1° de la Corte Suprema 2a. Cat. 9
+
+Contador Jefe de la Oficna de
+
+Presupuesto del Poder Judicial 2a. Cat. 9
+
+Oficiales 2°s. de la Corte Suprema 3a. Cat. 13
+
+Secretario Abogado del Fiscal
+
+de la Corte Suprema 3a. Cat. 10
+
+Secretario del Presidente de
+
+la Corte Suprema 3a. Cat. 13
+
+Bibliotecario Estadístico de
+
+la Corte Suprema 3a. Cat. 10
+
+Oficial del Personal de la
+
+Corte Suprema 3a. Cat. 13
+
+Oficiales 1°s. de las Cortes
+
+de Apelaciones 3a. Cat. 10
+
+Oficiales de las Cortes del Trabajo 3a. Cat. 13
+
+Subjefe de la Oficina de
+
+Presupuesto del Poder Judicial 3a. Cat. 13
+
+Oficiales 3°s. de la Corte Suprema 4a. Cat. 15
+
+Oficial 3° de la Biblioteca de
+
+la Corte Suprema 4a. Cat. 15
+
+Oficial Ayudante de la Biblioteca
+
+de la Corte Suprema 4a. Cat. 15
+
+Oficiales 2°s. de las Cortes
+
+de Apelaciones 4a. Cat. 15
+
+Bibliotecario-Estadístico de la
+
+Corte de Apelaciones de Santiago 4a. Cat. 15
+
+Oficiales 1°s. de los Juzgados
+
+de Letras de Mayor Cuantía Asiento
+
+de Corte de Apelaciones 4a. Cat. 15
+
+Oficiales 1°s. y Receptores-
+
+Visitadores de los Juzgados de
+
+Letras de Menores Asiento de
+
+Corte de Apelaciones 4a. Cat. 15
+
+Oficiales 1°s. y Receptores de
+
+los Juzgados del Trabajo de 1a. Cat. 4a. Cat. 15
+
+Oficiales Ayudantes de las
+
+Cortes del Trabajo 4a. Cat. 15
+
+Oficiales de los Defensores
+
+Públicos de Santiago 4a. Cat. 15 Oficial de los Defensores Publicos de Valparaíso 4a. Cat. 15 Oficiales Ayudantes de la Oficina de Presupuesto del Poder Judicial 4a. Cat. 16
+
+Oficiales 4°s. de la Corte Suprema 5a. Cat. 16
+
+Oficial 4° de la Biblioteca
+
+de la Corte Suprema 5a. Cat. 16
+
+Oficial de Archivo de la
+
+Biblioteca de la Corte Suprema 5a. Cat. 16
+
+Oficiales 3°s. de las Cortes de
+
+Apelaciones 5a. Cat. 16
+
+Oficiales 2°s. de los Juzgados
+
+de Letras de Mayor Cuantía de
+
+Asiento de Corte de Apelaciones 5a. Cat. 16
+
+Oficiales 2°s. de los Juzgados de
+
+Letras de Menores de Asiento de
+
+Corte de Apelaciones 5a. Cat. 16
+
+Oficiales 2°s. de los Juzgados
+
+del Trabajo de 1a. Cat. 5a. Cat. 16
+
+Oficiales Ayudantes de la Oficina
+
+de Presupuesto del Poder Judicial 5a. Cat. 17
+
+Estadístico de la Corte de
+
+Apelaciones de Concepción 6a. Cat. 17
+
+Oficiales 4°s. de las Cortes
+
+de Apelaciones 6a. Cat. 17
+
+Oficiales 3°s. de los Juzgados de
+
+Letras de Mayor Cuantía de Asiento
+
+de Corte de Apelaciones 6a. Cat. 17
+
+Oficiales 3°s. de los Juzgados
+
+de Letras de Menores de Asiento de
+
+Corte de Apelac. 6a. Cat. 17
+
+Oficiales 1°s. de los Juzgados de
+
+Letras de Mayor Cuantía de Capital
+
+de Provincia 6a. Cat. 16
+
+Oficiales 1°s. y Receptores de los
+
+Juzgados de Letras de Menores de
+
+Capital de Provincia 6a. Cat. 16
+
+Oficiales de los Fiscales de
+
+las Cortes de Apelaciones 6a. Cat. 17
+
+Oficiales 1°s. y Receptores de
+
+los Juzgados del Trabajo
+
+de 2a. Cat. 6a. Cat. 16
+
+Oficial 1° del Juzgado de Letras
+
+de Mayor Cuantía del Departamento
+
+de Baker 6a. Cat. 17
+
+Inspectores de Niñas de los
+
+Juzgados de Letras de Menores
+
+de Asiento de Corte de Apelaciones 6a. Cat. 17
+
+Oficiales Ayudantes de la Oficina de Presupuestos del Poder Judicial 6a. Cat. 17 Oficial para la Presidencia de la Corte Suprema 6a. Cat. 19
+
+Oficiales 4°s. de los Juzgados de Letras de Mayor Cuantía de Asiento de Cortes de Apelaciones 7a. Cat. 18 Oficiales 2°s. de los Juzgados de
+
+Letras de Mayor Cuantía de Capital
+
+de Provincia 7a. Cat. 17
+
+Oficiales 2°s. de los Juzgados de
+
+Letras de Menores de Capital
+
+de Provincia 7a. Cat. 17
+
+Oficiales 1°s. de los Juzgados de
+
+Letras de Mayor Cuantía
+
+de Departamentos 7a. Cat. 17
+
+Oficiales 1°s. de los Juzgados
+
+de Letras de Menor Cuantía de:
+
+Valparaíso 7a. Cat. 17
+
+Viña del Mar 7a. Cat. 17
+
+Santiago 7a. Cat. 17
+
+Linares 7a. Cat. 17
+
+Temuco 7a. Cat. 17
+
+Valdivia 7a. Cat. 17
+
+Oficiales 2°s. de los Juzgados
+
+del Trabajo de 2ª. Cat. 7a. Cat. 17
+
+Oficiales 1°s. y Receptores de
+
+los Juzgados del Trabajo del
+
+Depto. P. Aguirre Cerda 7a. Cat. 17
+
+Oficiales 1°s. de los Juzgados
+
+de Letras de Indios 7a. Cat. 17
+
+Oficiales de Sala de la Corte
+
+Suprema 7a. Cat. 19
+
+Oficial de Sala Biblioteca
+
+de la Corte Suprema 7a. Cat. 19
+
+Oficial de Sala de la Oficina de
+
+Presupuesto del Poder Judicial 7a. Cat. 19
+
+Oficiales de Salas de las Cortes
+
+de Apelaciones 7a. Cat. 20
+
+Oficial Chofer para Presidencia de la Corte de Apelaciones de Santiago 6a. Cat. 20 Oficiales de Sala de las Cortes del Trabajo 7a. Cat. 20
+
+Oficiales Auxiliares de las Corte
+
+Suprema Gr. 1° 18
+
+Oficiales 3°s. de los Juzgados de
+
+Letras de Mayor Cuantía de Capital
+
+de Provincia Gr. 1° 18
+
+Oficiales 3°s. de los Juzgados de
+
+Letras de Menores de Capital de
+
+Provincia Gr. 1° 18
+
+Oficiales 2°s. de los Juzgados
+
+de Letras de Menor Cuantía de:
+
+Valparaíso Gr. 1° 18
+
+Viña del Mar Gr. 1° 18
+
+Santiago Gr. 1° 18
+
+Linares Gr. 1° 18
+
+Temuco Gr. 1° 18
+
+Valdivia Gr. 1° 18
+
+Oficiales 2°s de los Juzgados
+
+del Trabajo 3ª Cat. Gr. 1° 18
+
+Oficiales 2°s de los Juzgados de
+
+Let. de Indios 18
+
+Oficiales 3°s de los Juzgados
+
+de Letras de Indios Gr. 1° 19
+
+Oficiales 2°s de los Juzgados de
+
+Letras de Mayor Cuantía de Deptos. Gr. 1° 18
+
+Oficiales 3°s de los Juzgados de
+
+Letras de Mayor Cuantía de Depto. Gr. 1° 19
+
+Oficiales Intérpretes del Juzgado
+
+de Letras de Indios de Temuco Gr. 1° 19
+
+Oficiales 4°s de los Juzgados de
+
+Letras de Mayor Cuantía de Capital
+
+de Provincia Gr. 1° 19
+
+Oficiales 3°s de los Juzgados de
+
+Letras de Menor Cuantía Gr. 1° 19
+
+Inspectores de Niñas de los
+
+Juzgados de Letras de Menores de
+
+Capital de Provincia Gr. 1° 19
+
+Mayordomos de los Tribunales
+
+del país Gr. 1° 22
+
+Oficiales de Sala de los Juzgados
+
+de Letras de Mayor Cuantía de
+
+Asiento de Cortes de Apelaciones Gr. 1° 24
+
+Oficiales de Sala de los Juzgados
+
+de Letras de Menores de Asiento
+
+de Corte de Apelaciones Gr. 1° 24
+
+Oficial de Sala del Archivo
+
+Judicial de Santiago Gr. 1° 24
+
+Chofer para los Juzgados del
+
+Crimen de Santiago Gr. 1° 25
+
+Oficiales de Sala de los Juzgados
+
+del Trabajo de 1ª Cat. Gr. 1° 24
+
+Demás Oficiales de Sala de los
+
+Juzgados de Letras de Mayor y
+
+Menor Cuantía y de los Juzgados
+
+de Letras de Menores de los Juzgados
+
+de Letras de Indios y de los
+
+Oficiales de Sala de los Juzgados
+
+del Trabajo de 2a. y 3a. Cat. Gr. 2° 27
+
+Oficial de Sala del Juzgado de Letras de Menores del Departamento de Coronel Gr. 2° 27 Ascensoristas para los Palacios de
+
+los Tribunales de Santiago,
+
+Valparaíso y Concepción Gr. 3° 28
+
+Fogoneros de los Palacios de los
+
+Tribunales de Santiago, Valparaíso
+
+y Concepción Gr. 3° 28
+
+Auxiliares de Aseo Gr. 3° 28
+
+Porteros Encargados del Aseo y
+
+Conservación de los Juzgados de Letras de Menor Cuantía de Santiago Gr. 3° 28 Auxiliares de Aseo Gr. 4° 29
+
+Auxiliares de Aseo Gr. 5° 30
+
+Auxiliares de Aseo Gr. 6° 31
+
+Auxiliares de Aseo Gr. 7° 32
+
+Auxiliares de Aseo Gr. 8° 33
+
+El o los cargos de Auxiliares de Aseo grado 33, se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+Electricista de la Corte de
+
+Apelaciones de Concepción Gr. 7° 25
+
+ASISTENTES SOCIALES PERSONAL SUPERIOR
+
+De los Juzgados de Letras de Menores de:
+
+Valparaíso 6ª Cat. 13
+
+Santiago 6ª Cat. 13
+
+Concepción 6ª Cat. 13
+
+Iquique 6ª Cat. 13
+
+Antofagasta 6ª Cat. 13
+
+La Serena 6ª Cat. 13
+
+Rancagua 6ª Cat. 13
+
+Talca 6ª Cat. 13
+
+Chillán 6ª Cat. 13
+
+Temuco 6ª Cat. 13
+
+Valdivia 6ª Cat. 13
+
+Puerto Montt 6ª Cat. 13
+
+Punta Arenas 6ª Cat. 13
+
+De los Juzgados de Letras de Menores de:
+
+Arica 7ª Cat. 15
+
+Copiapó 7ª Cat. 15
+
+San Felipe 7ª Cat. 15
+
+San Fernando 7ª Cat. 15
+
+Curico 7ª Cat. 15
+
+Linares 7ª Cat. 15
+
+Cauquenes 7ª Cat. 15
+
+Lebu 7ª Cat. 15
+
+Los Angeles 7ª Cat. 15
+
+Angol 7ª Cat. 15
+
+Osorno 7ª Cat. 15
+
+Ancud 7ª Cat. 15
+
+Aysen 7ª Cat. 15
+
+P. Aguirre Cerda 7ª Cat. 15
+
+TOPOGRAFOS:
+
+PLANTA PROFESIONAL Y TECNICA DE LA DIRECCION DE TIERRAS Y BIENES NACIONALES
+
+Topógrafo del Juzgado de Letras
+
+de Indios Nueva Imperial 6ª Cat. 14
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El numeral XVII del Art. 1º del DL 900, Hacienda, publicado el 26.02.1975, intercaló en los escalafones respectivos, los cargos que indica.
+
+> **Nota.** NOTA 2: El DTO 219, Justicia, publicado el 03.05.1977, fijó los grados en la escala única de sueldos, a los cargos de las plantas de los Juzgados de Letras de Menores de Talcahuano y Sexto de Santiago.
+
+> **Nota.** NOTA 3: El Art. 9º del DL 1819, Hacienda, publicado el 11.06.1977, dispuso la creación en el Poder Judicial y en su Oficina de Presupuesto de 107 plazas, con las mismas categorías del Escalafón e igual ubicación en la Escala Unica de Sueldos asignados actualmente a los referidos funcionarios a contrata. Dichos empleados continuarán desempeñando sus actuales funciones, quedando incorporados a la Planta sin necesidad de nuevo nombramiento.
+
+> **Nota.** NOTA 4: El Art. 1º del DL 2100, Hacienda, publicado el 16.01.1978, fijó a contar del 1º de enero de 1978 la nueva planta del Personal Superior del Poder Judicial.
+
+> **Nota.** NOTA 5: El Art. 1º del DL 2466, Justicia, publicado el 20.01.1979, incorporó a contar del 1° de enero de 1979 a la Planta Permanente del Personal Subalterno del Poder Judicial, 26 cargos de choferes, en la forma que indica.
+
+#### Artículo 29°
+
+DEROGADO
+
+#### Artículo 30°
+
+Fíjase para los trabajdores del Servicio de Seguro Social, de conformidad con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Director General 1ª Cat. 3
+
+Jefe Depto. Accidentes del
+
+Trabajo y Enfermedades
+
+Profesionales 1ª Cat. 5
+
+Fiscal 2ª Cat. 4
+
+Gerente General 2ª Cat. 4
+
+Jefe Depto. Prestaciones 2ª Cat. 5
+
+Jefe Depto. Contabilidad 2ª Cat. 5
+
+Jefe Depto. Sucursales 2ª Cat. 5
+
+Jefe Depto. Personal y Bienestar 2ª Cat. 6
+
+Abogado Fiscalía 2ª Cat. 6
+
+Abogados 3ª Cat. 7
+
+Jefe Depto. Asistente Social 3ª Cat. 7
+
+Secretario General 3ª Cat. 6
+
+Jefe Depto. Actuariado y Estadística 3ª Cat. 6
+
+Jefe Depto. Inspección 3ª Cat. 6
+
+Jefe Depto. Administración
+
+de Propied. 3ª Cat. 6
+
+Jefe Subdepto. Contab. Centralizada 3ª Cat. 7
+
+Jefe Subdepto. Registro y
+
+Perfecc. del Personal 3ª Cat. 7
+
+Jefe Subdepto. Serv.
+
+Mecanizados Hollerith 3ª Cat. 7
+
+Jefe Subdepto. Pensiones 3ª Cat. 6
+
+Jefe Subdepto. Asignación
+
+Familiar 3ª Cat. 8
+
+Jefe Subdepto. Indemnizaciones 3ª Cat. 8
+
+Agentes Zonales 3ª Cat. 8
+
+Inspectores 3ª Cat. 8
+
+El o los cargos de Inspectores grado 8° se transformarán en grado 9 a medida que vayan quedando vacantes.
+
+Abogados 4ª Cat. 8
+
+Asistentes Sociales 4ª Cat. 13
+
+Contadores 4ª Cat. 14
+
+El o los cargos de Contadores grado 14° se transformarán en grado 16 a medida que vayan quedando vacantes.
+
+Jefe Subdepto. Custodia de Valores 4ª Cat. 10
+
+Jefe Oficina Racionalización 4ª Cat. 10
+
+Jefe Subdepto. Bienestar 4ª Cat. 10
+
+Coordinador Depto. Prestaciones 4ª Cat. 13
+
+Jefe Subdepto. Adquisiciones 4ª Cat. 10
+
+Jefe Subdepto. Actuariado 4ª Cat. 8
+
+Jefe Subdepto. Estadistica 4ª Cat. 9
+
+Inspectores 4ª Cat. 11
+
+Agentes Zonales 4ª Cat. 9
+
+Operadores Serv. Mecan. Hollerith 4ª Cat. 9
+
+Abogados 5ª Cat. 11
+
+Asistentes Sociales 5ª Cat. 14
+
+Contadores 5ª Cat. 18
+
+Experto Rehabilitación Vocacional 5ª Cat. 18
+
+Jefe Subdepto. Deudores
+
+Hipotecarios 5ª Cat. 12
+
+Jefe Subdepto. Presupuesto 5ª Cat. 11
+
+Jefe Subdepto. Remuneraciones 5ª Cat. 12
+
+Jefe Subdepto. Propiedades Urbanas 5ª Cat. 12
+
+Jefe Subdepto. Propiedades
+
+Forestales 5ª Cat. 12
+
+Racionalizador 5ª Cat. 12
+
+Agentes Locales 5ª Cat. 11
+
+Inspectores 5ª Cat. 13
+
+Operadores Serv. Mec. Hollerith 5ª Cat. 13
+
+Operador Máquina Contabilidad 5ª Cat. 13
+
+Estadísticos 5ª Cat. 15
+
+Abogados 6ª Cat. 15
+
+Asistentes Sociales 6ª Cat. 17
+
+Contadores 6ª Cat. 20
+
+Racionalizadores 6ª Cat. 17
+
+Agentes Locales 6ª Cat. 14
+
+Estadísticos 6ª Cat. 17
+
+Inspectores 6ª Cat. 15
+
+Operadores Serv. Mec. Hollerith 6ª Cat. 16
+
+Operadores Máq. Contabilidad 6ª Cat. 16
+
+Relacionador Público 6ª Cat. 15
+
+Abogados 7ª Cat. 17
+
+Asistentes Sociales 7ª Cat. 19
+
+Racionalizador 7ª Cat. 19
+
+Calculista Actuarial 7ª Cat. 19
+
+Estadísticos 7ª Cat. 19
+
+Agentes Locales 7ª Cat. 16
+
+Inspectores 7ª Cat. 17
+
+Contadores 7ª Cat. 22
+
+Operadores Serv. Mec.
+
+Hollerih (Supervisores) 7ª Cat. 18
+
+Perforadores Serv. Mec. Hollerith 7ª Cat. 18
+
+Operadores Máq. Contabilidad 7ª Cat. 18
+
+Racionalizador 7ª Cat. 19
+
+Asistentes Sociales Gr. 1° 21
+
+Educadores Familiares Gr. 1° 21
+
+Procuradores Gr. 1° 22
+
+Estadísticos Gr. 1° 21
+
+Inspectores Gr. 1° 18
+
+Operadores Serv. Mec. Hollerith Gr. 1° 19
+
+Perforadores Serv. Mec. Hollerith Gr. 1° 19
+
+Operadores Máq. de Contabilidad Gr. 1° 19
+
+Estadísticos Gr. 2° 23
+
+Procuradores Gr. 2° 23
+
+Inspectores Gr. 2° 20
+
+Operadores Serv. Mec. Hollerith Gr. 2° 21
+
+Perforadores Serv. Mec. Hollerith Gr. 2° 21
+
+Operadores Máq. de Contabilidad Gr. 2° 21
+
+Estadísticos Gr. 3° 25
+
+El o los cargos de Estadísticos grado 25° se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+Procuradores Gr. 3° 24
+
+Inspectores Gr. 3° 21
+
+Operadores Serv. Mec. Hollerith Gr. 3° 23
+
+Perforadores Serv. Mec. Hollerith Gr. 3° 23
+
+Operador Máq. Contabilidad Gr. 3° 23
+
+Procuradores Gr. 4° 25
+
+Inspectores Gr. 4° 22
+
+Perforadores Serv. Mec. Hollerith Gr. 4° 27
+
+Coordinador Gr. 4° 27
+
+Para desempeñar los cargos de operadores Servicio Mecanizado Hollerith grado 9º, 13º y 16º se requerirá:
+
+Grado 9: Experiencia como programador A no inferior a 3 años y curso de especialización.
+
+Grado 13: Experiencia como programador A no inferior a 1 año y curso de especialización.
+
+Grado 16: Curso de a lo menos 6 meses de duración y experiencia de 1 año en la línea de procesamiento de datos.
+
+PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos 5ª Cat. 19
+
+Oficiales Administrativos 6ª Cat. 20
+
+Oficiales Administrativos 7ª Cat. 21
+
+Oficiales Administrativos Gr. 1° 21
+
+Oficiales Administrativos Gr. 2° 22
+
+Oficiales Administrativos Gr. 3° 23
+
+Oficiales Administrativos Gr. 4° 24
+
+Oficiales Administrativos Gr. 5° 24
+
+Oficiales Administrativos Gr. 6° 25
+
+Oficiales Administrativos Gr. 7° 26
+
+Oficiales Administrativos Gr. 8° 27
+
+Oficiales Administrativos Gr. 9° 27
+
+Oficiales Administrativos Gr. 10° 28
+
+Oficiales Administrativos Gr. 11° 29
+
+El o los cargos de Oficiales Administrativos grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Auxiliares Gr. 1° 25
+
+Auxiliares Gr. 2° 26
+
+Auxiliares Gr. 3° 27
+
+Auxiliares Gr. 4° 27
+
+Auxiliares Gr. 5° 28
+
+Auxiliares Gr. 6° 29
+
+Auxiliares Gr. 7° 30
+
+Auxiliares Gr. 8° 31
+
+Auxiliares Gr. 9° 31
+
+Auxiliares Gr. 10° 32
+
+Auxiliares Gr. 11° 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El Art. 1º del DL 1974, Hacienda, publicado el 29.10.1977, creó el siguiente escalafón de fiscalizadores, con las funciones y atribuciones que la ley confiere a los inspectores:"- Escalafón de fiscalizadores del Servicio de Seguro Social. Fiscalizadores______________ 3 Grado 4°. E.U. Fiscalizadores______________ 24 Grado 5°. E.U. Fiscalizadores______________ 49 Grado 6°. E.U. Fiscalizadores______________ 74 Grado 7°. E.U. Fiscalizadores______________ 100 Grado 8°. E.U. ____ Total cargos________________ 250" Asimismo, el Art. 2º del mismo decreto ley, declaró la extinción de los cargos que indica.
+
+#### Artículo 31°
+
+Fíjase para los trabajadores de la Caja de Previsión de Empleados Particulares, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+Vicepresidente Ejecutivo 1ª Cat. 3
+
+Fiscal 2ª Cat. 4
+
+Gerente General 2ª Cat. 4
+
+Jefe Departamento Beneficios 3ª Cat. 5
+
+Jefe Departamento Contabilidad 3ª Cat. 5
+
+Jefe Departamento Presupuestos 3ª Cat. 5
+
+Jefe Departamento Actuariado
+
+y Estadisticas 3ª Cat. 5
+
+Jefe Departamento Sucursales 3ª Cat. 5
+
+Jefe Departamento Personal
+
+y Bienestar 3ª Cat. 5
+
+Jefe Departamento Inspección 3ª Cat. 5
+
+Secretario General 3ª Cat. 6
+
+Abogado Jefe 3ª Cat. 6
+
+Abogado Visitador 3ª Cat. 6
+
+Jefe Departamento de Pensiones 4ª Cat. 6
+
+Jefe Subdepartamento Asistente Social 4ª Cat. 8 Jefe Subdepartamento Actuariado 4ª Cat. 8
+
+Jefe Subdepartamento Estadística 4ª Cat. 8
+
+Jefe Subdepartamento Servicio
+
+Hollerith 4ª Cat. 8
+
+Jefe Subdepartamento Tesorería 4ª Cat. 8
+
+Jefe Subdepartamento Administ.
+
+de Propiedades 4ª Cat. 8
+
+Jefe Subdepartamento
+
+Contabilidad Central 4ª Cat. 8
+
+Jefe Subdepartamento
+
+Coordinador de Beneficios 4ª Cat. 8
+
+Agentes 4ª Cat. 9
+
+Abogados 4ª Cat. 8
+
+Inspectores 4ª Cat. 10
+
+Jefe Oficina Racionalización 4ª Cat. 9
+
+Jefe Subdepartamento
+
+Asignación Familiar 5ª Cat. 10
+
+Jefe Subdepartamento
+
+Préstamos Hipotecarios 5ª Cat. 8
+
+Jefe Subdepartamento Fondo
+
+de Retiro 5ª Cat. 10
+
+Jefe Subdepartamento Archivo
+
+General 5ª Cat. 11
+
+Jefe Subdepartamento
+
+Liquidación de Pensiones 5ª Cat. 10
+
+Jefe Subdepartamento
+
+Tramitación de Pensiones 5ª Cat. 10
+
+Jefe Subdepartamento
+
+Reconocimiento Tiempo Servicio 5ª Cat. 11
+
+Jefe Subdepartamento Registro
+
+y Perfeccionamiento del Personal 5ª Cat. 11
+
+Agentes 5ª Cat. 11
+
+Abogados 5ª Cat. 10
+
+Estadístico 5ª Cat. 12
+
+El o los cargos de Estadístico grado 12 se transformarán en grado 15 a medida que vayan quedando vacantes.
+
+Racionalizador 5ª Cat. 12
+
+Asistentes Sociales 5ª Cat. 13
+
+Operador Máquina Hollerith 5ª Cat. 13
+
+Inspectores 5ª Cat. 12
+
+Contadores 5ª Cat. 16
+
+Calculistas 5ª Cat. 15
+
+Arquitecto 5ª Cat. 8
+
+Ingeniero 5ª Cat. 8
+
+Jefe Oficina Relaciones Públicas 6ª Cat. 15
+
+Jefe Subdepartamento
+
+Bienestar del Personal 6ª Cat. 14
+
+Jefe Subdepartamento Deudas
+
+Hipotecarias 6ª Cat. 14
+
+Jefe Subdepartamento
+
+Adquisición, Materiales y Utiles 6ª Cat. 14
+
+Jefe Subdepartamento
+
+Remuneraciones de Personal 6ª Cat. 14
+
+Jefe Subdepartamento Subsidios
+
+y Reembolsos por Cesantía 6ª Cat. 14
+
+Jefe Subdepartamento
+
+Préstamos Auxilio 6ª Cat. 14
+
+Jefe Subdepartamento
+
+Integros Obligados 6ª Cat. 14
+
+Agentes 6ª Cat. 14
+
+Abogados 6ª Cat. 13
+
+Estadísticos 6ª Cat. 17
+
+Asistentes Sociales 6ª Cat. 15
+
+Operadores Máquina Hollerith 6ª Cat. 16
+
+Inspectores 6ª Cat. 14
+
+Contadores 6ª Cat. 17
+
+Racionalizador 6ª Cat. 15
+
+Calculistas 6ª Cat. 17
+
+Agentes 7ª Cat. 16
+
+Abogados 7ª Cat. 15
+
+Estadísticos 7ª Cat. 19
+
+Asistentes Sociales 7ª Cat. 17
+
+Inspectores 7ª Cat. 15
+
+Contadores 7ª Cat. 18
+
+Racionalizadores 7ª Cat. 17
+
+Relacionador Público 7ª Cat. 17
+
+Calculista 7ª Cat. 19
+
+Operadores Máquina Hollerith
+
+(Supervisores) 7ª Cat. 18
+
+Procuradores Gr. 1° 22
+
+Estadisticos Gr. 1° 21
+
+Asistentes Sociales Gr. 1° 19
+
+Inspectores Gr. 1° 16
+
+Contadores Gr. 1° 19
+
+Calculistas Gr. 1° 20
+
+Operadores Máquina Hollerith Gr. 1° 19
+
+Programdores C Gr. 1° 17
+
+Racionalizadores Gr. 1° 20
+
+Abogados Gr. 1° 17
+
+Procuradores Gr. 2° 23
+
+Estadisticos Gr. 2° 22
+
+Operadores Máquina Hollerith Gr. 2° 21
+
+Perforadoras Máquina Hollerith Gr. 2° 21
+
+Inspectores Gr. 2° 17
+
+Contadores Gr. 2° 20
+
+Calculistas Gr. 2° 21
+
+Programador Gr. 2° 18
+
+Asistente Social Gr. 2° 21
+
+Procuradores Gr. 3° 24
+
+Perforadores Máquina Hollerith Gr. 3° 23
+
+Estadísticos Gr. 3° 23
+
+Contadores Gr. 3° 21
+
+Inspectores Gr. 3° 18
+
+Calculistas Gr. 3° 22
+
+Estadísticos Gr. 4° 24
+
+Perforadores Máquina Hollerith Gr. 4° 24
+
+Inspectores Gr. 4° 20
+
+Calculistas Gr. 4° 24
+
+Procuradores Gr. 4° 24
+
+Contadores Gr. 4° 23
+
+Estadísticos Gr. 5° 25
+
+Inspectores Gr. 5° 22
+
+Procuradores Gr. 5° 25
+
+Contador Gr. 5° 25
+
+El o los cargos de Contador grado 25, se transformarán en grado 27, a medida que vayan quedando vacantes.
+
+Experto en Presupuestos Gr. 5° 20
+
+Perforadores Máquina Hollerith Gr. 5° 26
+
+Sub-Agentes Gr. 5° 18
+
+Operador Máquina Hollerith Gr. 6° 27
+
+Calculista Gr. 6° 25
+
+El o los cargos de Calculista grado 25, se transformarán en grado 27, a medida que vayan quedando vacantes.
+
+Procuradores Gr. 6° 25
+
+El o los cargos de Procuradores grado 25, se transformarán en grado 27 a medida que vayan quedando vacantes
+
+Estadístico Gr. 7° 26
+
+El o los cargos de Estadístico de grado 26, se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+Taquígrafo Gr. 9° 26
+
+- Para desempeñar los cargos de operadores máquinas Hollerith grados 13 y 16 se requerirá:
+
+Grado 13°: Experiencia no inferior a 1 año como Programador A y curso de especialización.
+
+Grado 16°: Curso de, a lo menos, 6 meses y experiencia de 1 año en la línea de procesamiento de datos.
+
+- Para desempeñar los cargos de Programadores grado 17, se requerirá haber realizado cursos de, a lo menos, 6 meses de duración y experiencia de un año en la línea de procesamiento de datos.
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos 5ª Cat. 19
+
+Oficiales Administrativos 6ª Cat. 20
+
+Oficiales Administrativos 7ª Cat. 21
+
+Oficiales Administrativos Gr. 1° 22
+
+Oficiales Administrativos Gr. 2° 23
+
+Oficiales Administrativos Gr. 3° 24
+
+Perforadores Máquina Hollerith Gr. 3° 24
+
+Oficiales Administrativos Gr. 4° 25
+
+Oficiales Administrativos Gr. 5° 25
+
+Oficiales Administrativos Gr. 6° 26
+
+Oficiales Administrativos Gr. 7° 26
+
+Oficiales Administrativos Gr. 8° 27
+
+Oficiales Administrativos Gr. 9° 27
+
+Oficiales Administrativos Gr. 10° 28
+
+Oficiales Administrativos Gr. 11° 29
+
+El o los cargos de Oficiales Administrativos grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA PERSONAL SECUNDARIO
+
+Auxiliares Gr. 1° 25
+
+Auxiliares Gr. 2° 26
+
+Auxiliares Gr. 3° 27
+
+Auxiliares Gr. 4° 27
+
+Auxiliares Gr. 5° 28
+
+Auxiliares Gr. 6° 29
+
+Auxiliares Gr. 7° 29
+
+Auxiliares Gr. 8° 30
+
+Auxiliares Gr. 9° 31
+
+Auxiliares Gr. 10° 32
+
+Auxiliares Gr. 11° 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El Art. 1º del DL 1974, Hacienda, publicado el 29.10.1977, creó el siguiente escalafón de fiscalizadores, con las funciones y atribuciones que la ley confiere a los inspectores:"- Escalafón de fiscalización de la Caja de Previsión de Empleados Particulares. Fiscalizadores______________ 3 Grado 4°. E.U. Fiscalizadores______________ 9 Grado 5°. E.U. Fiscalizadores______________ 19 Grado 6°. E.U. Fiscalizadores______________ 30 Grado 7°. E.U. Fiscalizadores______________ 39 Grado 8°. E.U. ____ Total cargos________________ 100" Asimismo, el Art. 2º del mismo decreto ley, declaró la extinción de los cargos que indica.
+
+#### Artículo 32°
+
+Fíjase para los trabajadores de la Caja de Previsión de la Marina Mercante Nacional, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+SECCION OFICIALES Y EMPLEADOS
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+--------------------------------------------------------
+
+Ubicación en la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+Vicepresidente Ejecutivo 1ª 4
+
+Fiscal 2ª 5
+
+Jefe Depto. Beneficios 3ª 7
+
+Jefe Depto. Contabilidad 3ª 7
+
+Jefe Depto. Estadística
+
+y Actuariado 3ª 7
+
+Secretario General 3ª 6
+
+Jefe Depto. Inspección 3ª 7
+
+Abogados 4ª 9
+
+Jefe Depto. Presupuestos 4ª 9
+
+Jefe Depto. Personal y Bienestar 4ª 9
+
+Jefe Depto. Propiedades 4ª 9
+
+Jefe Depto. Servicios del Litoral 4ª 9
+
+Arquitecto 4ª 10
+
+Jefe sub-Depto. Contabilidad Cen. 4ª 10
+
+Jefe Sub-Depto. Pensiones
+
+e Indemnizaciones 4ª 10
+
+Jefe Sub-Depto. Préstamos 4ª 10
+
+Abogados 5ª 11
+
+Jefe Depto. Agentes Generales
+
+de Aduanas 5ª 10
+
+Jefe Sub-Depto. Contabilidad
+
+Servicios del Litoral 5ª 11
+
+Jefe Sub-Depto. Asignación
+
+Familiar y Cesantía 5ª 11
+
+Jefe Sub-Depto. Fletes y Pasajes 5ª 11
+
+Asistente Social 5ª 13
+
+Contador 5ª 17
+
+Abogados 6ª 15
+
+Jefe Sub-Depto. Adquisiciones
+
+y Bodega 6ª 14
+
+Contadores 6ª 13
+
+Inspector 6ª 15
+
+Contadores 7ª 20
+
+Inspectores 7ª 17
+
+Estadístico 1° 20
+
+Calculista Actuarial 1° 20
+
+Inspectores 1° 18
+
+Contador 1° 22
+
+Inspectores 2° 19
+
+Actuario 3° 21
+
+Calculista 3° 22
+
+Asistentes Sociales 4° 19
+
+Contadores Inspectores 4° 21
+
+Operadores Máquinas
+
+Hollerith (Supervisores) 4° 17 Contador Inspector 5° 22 Operadores Máquinas Hollerith 5° 19 Operador Máquina Hollerith 8° 20
+
+PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos 5ª 19
+
+Oficiales Administrativos 6ª 20
+
+Oficiales Administrativos 7ª 20
+
+Oficiales Administrativos 1° 21
+
+Oficiales Administrativos 2° 22
+
+Oficiales Administrativos 3° 23
+
+Oficiales Administrativos 4° 24
+
+Oficiales Administrativos 5° 24
+
+Oficiales Administrativos 6° 25
+
+Oficiales Administrativos 7° 26
+
+Oficiales Administrativos 8° 27
+
+Oficiales Administrativos 9° 28
+
+Oficiales Administrativos 10° 28
+
+Oficiales Administrativos 11° 29
+
+El o los cargos de Oficiales Administrativos de grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Auxiliares 1° 25
+
+Auxiliares 2° 26
+
+Auxiliares 3° 27
+
+Auxiliares 4° 27
+
+Auxiliares 5° 28
+
+Auxiliares 6° 29
+
+Auxiliares 7° 30
+
+Auxiliares 8° 31
+
+Auxiliares 9° 31
+
+Auxiliares 10° 32
+
+Auxiliares 11° 33
+
+El o los cargos de Auxiliar de grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+SECCION TRIPULANTES DE NAVES Y O.O. MARITIMOS
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Fiscal 2ª Cat. 5
+
+Secretario General 3ª Cat. 6
+
+Jefe Depto. Beneficios 3ª Cat. 7
+
+Jefe Depto. Contabilidad 3ª Cat. 7
+
+Jefe Depto. Inspección 3ª Cat. 7
+
+Jefe Depto. Estadística,
+
+y Actuariado 3ª Cat. 7
+
+Jefe Depto. Personal 4ª Cat. 9
+
+Jefe Depto. Presupuesto 4ª Cat. 9
+
+Jefe Depto. Litoral 4ª Cat. 9
+
+Jefe Sub-Depto. Contabilidad 4ª Cat. 10
+
+Jefe Sub-Depto. Pensiones
+
+e Indemnizaciones 4ª Cat. 10
+
+Jefe Sub-Depto. Préstamos
+
+y Propiedades 4ª Cat. 10
+
+Abogado Jefe 4ª Cat. 9
+
+Abogado 5ª Cat. 11
+
+Asistente Social 5ª Cat. 13
+
+Jefe Sub-Depto. Contab. del Litoral 5ª Cat. 11
+
+Jefe Sub-Depto. Asignación Familiar 5ª Cat. 11
+
+Contador 5ª Cat. 17
+
+Asistente Social 6ª Cat. 15
+
+Jefe Sub-Depto. Adquisiciones y Bod. 6ª Cat. 14
+
+Contadores 6ª Cat. 18
+
+Inspector 6ª Cat. 15
+
+Abogados 6ª Cat. 15
+
+Arquitecto 6ª Cat. 10
+
+Contadores 7ª Cat. 20
+
+Inspector 7ª Cat. 17
+
+Estadístico Gr. 1° 20
+
+Calculista Actuarial Gr. 1° 20
+
+Inspectores Gr. 1° 18
+
+Asistente Social Gr. 1° 17
+
+Inspector Gr. 2° 19
+
+Asistente Social Gr. 3° 18
+
+Operador (Supervisores) Gr. 4° 17
+
+Inspector Gr. 4° 21
+
+Asistente Social Gr. 4° 19
+
+Contador Inspector Gr. 5° 22
+
+Contador Gr. 5° 23
+
+Operador IBM Gr. 5° 19
+
+Contador Gr. 6° 25
+
+El o los cargos de Contador de grado 25 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+Asistente Social Gr. 6° 20
+
+Asistente Social Gr. 8° 21
+
+Calculista Gr. 10° 24
+
+Auxiliar Gr. 10° 27
+
+PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos 5ª. Cat. 19
+
+Oficiales Administrativos 6ª. Cat. 20
+
+Oficiales Administrativos 7ª. Cat. 20
+
+Oficiales Administrativos Gr. 1° 21
+
+Oficiales Administrativos Gr. 2° 22
+
+Oficiales Administrativos Gr. 3° 23
+
+Oficiales Administrativos Gr. 4° 24
+
+Oficiales Administrativos Gr. 5° 24
+
+Oficiales Administrativos Gr. 6° 25
+
+Oficiales Administrativos Gr. 7° 26
+
+Oficiales Administrativos Gr. 8° 27
+
+Oficiales Administrativos Gr. 9° 28
+
+Oficiales Administrativos Gr. 10° 28
+
+Oficiales Administrativos Gr. 11° 29
+
+El o los cargos de Oficial Administrativo grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE AUXILIARES
+
+Auxiliares Gr. 1° 25
+
+Auxiliares Gr. 2° 26
+
+Auxiliares Gr. 3° 27
+
+Auxiliares Gr. 4° 27
+
+Auxiliares Gr. 5° 28
+
+Auxiliares Gr. 6° 29
+
+Auxiliares Gr. 7° 30
+
+Auxiliares Gr. 8° 31
+
+Auxiliares Gr. 9° 31
+
+Auxiliares Gr. 10° 32
+
+Auxiliares Gr. 11° 33
+
+El o los cargos de Auxiliar de grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 33°
+
+Fíjase para los trabajadores de la Caja de Previsión de los Carabineros de Chile, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Vicepresidente 1ª Cat. 4
+
+Fiscal 2ª Cat. 5
+
+Administrador General 2ª Cat. 7
+
+Secretario General 2ª Cat. 7
+
+Contador General 2ª Cat. 7
+
+Jefes de Departamentos 3ª Cat. 8
+
+Actuario 3ª Cat. 8
+
+Abogados 3ª Cat. 7
+
+Contadores 3ª Cat. 13
+
+El o los cargos de Contadores grado 13 se transformarán en grado 16 a medida que vayan quedando vacantes.
+
+Jefes de Subdepartamentos 4ª Cat. 10
+
+Agente 4ª Cat. 13
+
+Inspectores 4ª Cat. 12
+
+Asistente Social 4ª Cat. 13
+
+Arquitecto 4ª Cat. 10
+
+Abogados 4ª Cat. 10
+
+Operadores Máquinas Hollerith 4ª Cat. 15
+
+Jefes de Subdepartamentos 5ª Cat. 12
+
+Inspectores 5ª Cat. 14
+
+Agentes 5ª Cat. 14
+
+Asistentes Sociales 5ª Cat. 14
+
+Operadores Máquinas Hollerith 5ª Cat. 17
+
+Relacionador Público 5ª Cat. 15
+
+Contadores 5ª Cat. 18
+
+Calculista Actuarial 5ª Cat. 17
+
+Direc. Jefes de Secciones 6ª Cat. 17
+
+Contadores 6ª Cat. 19
+
+Direc. Procurador Administrativo 6ª Cat. 22
+
+Direc. Inspectores 6ª Cat. 17
+
+Direc. Asistentes Sociales 6ª Cat. 15
+
+Direc. Operadores Hollerith 6ª Cat. 19
+
+Direc. Perforador Máq. Hollerith 6ª Cat. 19
+
+Direc. Calculistas Actuariales 6ª Cat. 18
+
+Direc. Estadístico 6ª Cat. 18
+
+Direc. Enfermera Universitaria 6ª Cat. 15
+
+Direc. Procurador Administrativo 7ª Cat. 23
+
+Direc. Técnico Laborante 7ª Cat. 16
+
+Direc. Operadores Máq. Hollerith 7ª Cat. 21
+
+Direc. Perforador Máq. Hollerith 7ª Cat. 21
+
+Direc. Operadores Máq. Contabilidad 7ª Cat. 21
+
+Direc. Calculistas Actuariales 7ª Cat. 19
+
+Direc. Taquigrafo 7ª Cat. 20
+
+Técnico Procurador Administrativo Gdo. 1 24
+
+Técnico Laborante Gdo. 1 19
+
+Técnico Perforadores Máq. Hollerith Gdo. 1 22
+
+Técnico Operadores Máq. Contabilidad Gdo. 1 22
+
+Técnico Calculista Actuariales Gdo. 1 22
+
+Técnico Perforadores Máq. Hollerith Gdo. 2 25
+
+El o los cargos de Técnico Perforadores Máquinas Hollerith grado 25 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+Técnico Operadores
+
+Máq. Contabilidad Gdo. 2 25
+
+El o los cargos de Técnico Operadores Máquina Contabilidad grado 25 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+Técnico Practicantes Gdo. 2° 24
+
+Técnico Practicantes Gdo. 3° 25
+
+Direc. Jefes de Subsección Gdo. 10° 18
+
+Para desempeñar los cargos de Operadores Máquinas Hollerith grado 15 se requerirá tener experiencia como Programador C y haber realizado cursos de a lo menos 1 año de duración.
+
+Para desempeñar los cargos de Técnicos Laborantes grados 16 y 19 se requerirá estar en posesión del título de Tecnólogo Médico.
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª Cat. 19
+
+Oficiales 6ª Cat. 20
+
+Oficiales 7ª Cat. 20
+
+Oficiales Gdo. 1° 21
+
+Oficiales Gdo. 2° 22
+
+Oficiales Gdo. 3° 23
+
+Oficiales Gdo. 4° 24
+
+Oficiales Gdo. 5° 24
+
+Oficiales Gdo. 6° 25
+
+Oficiales Gdo. 7° 26
+
+Oficiales Gdo. 8° 27
+
+Oficiales Gdo. 9° 28
+
+Oficiales Gdo. 10° 28 Oficiales Gdo. 11° 29
+
+El o los cargos de Oficiales grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Auxiliar Gdo. 1° 25
+
+Auxiliar Gdo. 2° 26
+
+Auxiliar Gdo. 3° 27
+
+Auxiliar Gdo. 4° 28
+
+Auxiliar Gdo. 5° 28
+
+Auxiliar Gdo. 6° 29
+
+Auxiliar Gdo. 7° 30
+
+Auxiliar Gdo. 8° 31
+
+Auxiliar Gdo. 9° 31
+
+Auxiliar Gdo. 10° 32
+
+Auxiliar Gdo. 11° 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 34°
+
+Fíjase para los trabajadores de la Caja de Previsión de la Defensa Nacional, de acuerdo con lo dispuesto en el Artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+DIRECTIVOS
+
+Vicepresidente Ejecutivo 1ª Cat. 4
+
+Gerente General 2ª Cat. 5
+
+Secretario General 2ª Cat. 6
+
+Jefes de Departamentos 3ª Cat. 7
+
+Jefes Sub-Departamentos 4ª Cat. 10
+
+Jefes Sub-Departamentos 5ª Cat. 12
+
+Jefes Sub-Departamentos 6ª Cat. 14
+
+Jefes Sección 6ª Cat. 17
+
+Jefes Sección 7ª Cat. 18
+
+ABOGADOS
+
+Fiscal 2ª Cat. 5
+
+Abogado Jefe Depto. del Personal 3ª Cat. 7
+
+Abogado Jefe 3ª Cat. 7
+
+Abogados 4ª Cat. 10
+
+Abogados 5ª Cat. 12
+
+Abogados 6ª Cat. 15
+
+El o los cargos de Abogados grado 15 se transformarán en grado 17 a medida que vayan quedando vacantes.
+
+PROCURADORES
+
+Procurador 7ª Cat. 22
+
+Procurador Gr. 1° 24
+
+ASISTENTES SOCIALES
+
+Asistente Social Jefe Sub-Dpto. 4ª Cat. 13
+
+Asistente Social 5ª Cat. 14
+
+Asistente Social 6ª Cat. 15
+
+Asistente Social 7ª Cat. 18
+
+Asistente Social Gr. 1° 21
+
+ARQUITECTOS
+
+Arquitecto 3ª Cat. 7
+
+Arquitecto 5ª Cat. 12
+
+CONSTRUCTOR CIVIL 5ª Cat. 14
+
+EDUCADORA DE PARVULOS 7ª Cat. 18
+
+CONTADORES
+
+Jefe Oficina Planificación 2ª Cat. 6
+
+Contador 3ª Cat. 13
+
+El o los cargos de Contador grado 13 se transformarán en grado 16 a medida que vayan quedando vacantes.
+
+Contador 4ª Cat. 14
+
+El o los cargos de Contador grado 14 se transformarán en grado 17 a medida que vayan quedando vacantes.
+
+Contador 5ª Cat. 18
+
+Contador 7ª Cat. 22
+
+ACTUARIOS
+
+Actuario Jefe Sub-Dpto. 5ª Cat. 14
+
+Calculista Actuarial 7ª Cat. 18
+
+El o los cargos de Procurador grado 24, Arquitecto grado 12, Constructor Civil grado 14, Educadora de Párvulos grado 18, y de Contador grado 22, se transformarán en grados 27, 17, 19, 23 y 27, respectivamente, a medida que vayan quedando vacantes.
+
+RACIONALIZADORAS
+
+Racionalizadora Jefe Sub-Dpto. 5ª Cat. 10
+
+Racionalizadoras 7ª Cat. 15
+
+TECNICOS PRACTICANTES
+
+Practicantes Gr. 1° 23
+
+Practicantes Gr. 2° 24
+
+Practicantes Gr. 3° 25
+
+Practicantes Gr. 4° 26
+
+TECNICOS IBM
+
+PROGRAMADORES
+
+Jefe Servicio Mecanizado 3ª Cat. 7
+
+Programador 3ª Cat. 10
+
+Programador 4ª Cat. 14
+
+OPERADORES COMPUTADOR ELECTRONICO
+
+Operador 6ª Cat. 19
+
+Operador 7ª Cat. 21
+
+Operador Gr. 3° 23
+
+PERFORADORAS
+
+Perforadora 7ª Cat. 21
+
+Perforadora Gr. 2° 23
+
+Perforadora Gr. 4° 25
+
+Perforadora Gr. 5° 27
+
+Jefe Hogar Infantil 4ª Cat. 14
+
+OPERADORES MAQUINAS CONTAB. (NATIONAL)
+
+Operador 7ª Cat. 21
+
+Operador Gr. 1° 22
+
+Operador Gr. 2° 23
+
+Operador Gr. 3° 25
+
+Operador Gr. 4° 26
+
+Operador Gr. 5° 27
+
+El o los cargos de Practicantes grado 26 se transformarán en grado 32, a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA
+
+Oficial Administrativo 5ª Cat. 19
+
+Oficial Administrativo 6ª Cat. 20
+
+Oficial Administrativo 7ª Cat. 21
+
+Oficial Administrativo Gr. 1° 21
+
+Oficial Administrativo Gr. 2° 22
+
+Oficial Administrativo Gr. 3° 23
+
+Oficial Administrativo Gr. 4° 24
+
+Oficial Administrativo Gr. 5° 25
+
+Oficial Administrativo Gr. 6° 26
+
+Oficial Administrativo Gr. 7° 27
+
+Oficial Administrativo Gr. 8° 27
+
+Oficial Administrativo Gr. 9° 28
+
+Oficial Administrativo Gr. 10° 29
+
+El o los cargos de Oficial Administrativo de grado 29 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Auxiliar Gr. 1° 25
+
+Auxiliar Gr. 2° 26
+
+Auxiliar Gr. 3° 27
+
+Auxiliar Gr. 4° 27
+
+Auxiliar Gr. 5° 28
+
+Auxiliar Gr. 6° 29
+
+Auxiliar Gr. 7° 30
+
+Auxiliar Gr. 8° 31
+
+Auxiliar Gr. 9° 31
+
+Auxiliar Gr. 10° 32
+
+Auxiliar Gr. 11° 33
+
+El o los cargos de Auxiliar grado 33° se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 35°
+
+Fíjase para los trabajadores de la Caja de Previsión de los Obreros Municipales de la República, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Vicepresidente Ejecutivo 1a. Cat. 4
+
+Fiscal 2a. Cat. 5
+
+Secretario General 3a. Cat. 6
+
+Actuario Matemático 4a. Cat. 9
+
+Jefe Depto. Beneficios 4a. Cat. 7
+
+Jefe Depto. Contabilidad 4a. Cat. 7
+
+Abogados 5a. Cat. 9
+
+Abogado 5a. Cat. 13
+
+Jefe Sub-Depto. Cont. Mec. 5a. Cat. 10
+
+Jefe Sub-Depto. Presup. y Estadis 6a. Cat. 10
+
+Jefe Sub-Depto. Personal y Bienestar 6a. Cat. 10
+
+Calculista Actuarial 7a. Cat. 19
+
+Operadores Maq. Contab. 7a. Cat. 16
+
+Inspectores 7a. Cat. 15
+
+Agentes Sucursales 7a. Cat. 18
+
+Procurador Gr. 1° 22
+
+Operador Máq. Contabilidad
+
+(Supervisores) Gr. 1° 18
+
+Contadores Gr. 1° 19
+
+Asistente Social Gr. 1° 14
+
+Enfermera Universitaria Gr. 1° 14
+
+Matrona Gr. 1° 14
+
+Estadístico Gr. 1° 22
+
+Operador Máq. Contab. Gr. 2° 19
+
+Enfermera Universitaria Gr. 2° 18
+
+Matrona Gr. 2° 18
+
+Asistente Social Gr. 2° 17
+
+Operador Máqs. Contab. Gr. 3° 21
+
+Operador Máqs. Contab. Gr. 4° 23
+
+Operador Máqs. Contab. Gr. 5° 25
+
+Operador Máqs. Contab. Gr. 6° 27
+
+Para desempeñar los cargos de Operadores Máquinas de Contabilidad grado 16 se requerirá acreditar experiencia de 1 año en la línea de procesamiento de datos y haber efectuado curso de a lo menos 6 meses.
+
+PLANTA ADMINISTRATIVA
+
+Oficial Administrativo 5ª Cat. 19
+
+Oficial Administrativo 6ª Cat. 20
+
+Oficial Administrativo 7ª Cat. 21
+
+Oficial Administrativo Gr. 1° 22
+
+Oficial Administrativo Gr. 2° 23
+
+Oficial Administrativo Gr. 3° 24
+
+Oficial Administrativo Gr. 4° 24
+
+Oficial Administrativo Gr. 5° 25
+
+Oficial Administrativo Gr. 6° 26
+
+Oficial Administrativo Gr. 7° 27
+
+Oficial Administrativo Gr. 8° 28
+
+Oficial Administrativo Gr. 11° 29
+
+El o los cargos de Oficial Administrativo grado 29° se transformarán en grado 31° a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Auxiliares Gr. 1° 25
+
+Auxiliares Gr. 2° 26
+
+Auxiliares Gr. 3° 27
+
+Auxiliares Gr. 4° 27
+
+Auxiliares Gr. 5° 28
+
+Auxiliares Gr. 6° 29
+
+Auxiliares Gr. 7° 30
+
+Auxiliares Gr. 8° 31
+
+Auxiliares Gr. 9° 31
+
+Auxiliares Gr. 10° 32
+
+Auxiliares Gr. 11° 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+Choferes
+
+Choferes Gr. 1° 25
+
+Choferes Gr. 5° 27
+
+Choferes Gr. 6° 29
+
+Choferes Gr. 10° 31
+
+El o los cargos de Choferes grado 31 se transformarán en grado 33 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 36°
+
+Fíjase para los trabajadores de la Caja de Retiro y Previsión de los Empleados Municipales de la República, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Vicepresidente Ejecutivo 1a. Cat. 4
+
+Fiscal 2a. Cat. 5
+
+Secretario General 3a. Cat. 8
+
+Jefe Depto. Contabilidad 4a. Cat. 9
+
+Jefe Depto. Presupuestos 4a. Cat. 9
+
+Jefe Depto. Beneficios 4a. Cat. 9
+
+Abogado 5a. Cat. 9
+
+Jefe Subdepto. Personal y Bienestar 5a. Cat. 12
+
+Jefe subdepto. Beneficios
+
+Facultativos 5a. Cat. 12
+
+Jefe Subdepto. Beneficios
+
+Obligatorios 5a. Cat. 12
+
+Jefe Subdepto. Presupuestos 6a. Cat. 14
+
+Jefe Subdepto. Actuariado 6a. Cat. 14
+
+Jefe subdepto. Estadísticas 6a. Cat. 14
+
+Jefe Subdepto. Contab. Mecaniz. 7a. Cat. 15
+
+Asistente Social 7a. Cat. 16
+
+Calculista Actuarial Gdo. 1° 19
+
+Operador Maq. de Contabilidad Gdo. 1° 19
+
+Procuradores Gdo. 2° 23
+
+Operador Maq. de Contabilidad Gdo. 2° 20
+
+Operador Maq. de Contabilidad Gdo. 3° 21
+
+Operador Maq. de Contabilidad Gdo. 4° 22
+
+Operador Maq. de Contabilidad Gdo. 5° 23
+
+Operador Maq. de Contabilidad Gdo. 6° 24
+
+PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos 5ª. Cat. 19
+
+Oficiales Administrativos 6ª. Cat. 20
+
+Oficiales Administrativos 7ª. Cat. 21
+
+Oficiales Administrativos Gdo. 1° 22
+
+Oficiales Administrativos Gdo. 2° 23
+
+Oficiales Administrativos Gdo. 3° 24
+
+Oficiales Administrativos Gdo. 4° 25
+
+Oficiales Administrativos Gdo. 5° 26
+
+Oficiales Administrativos Gdo. 6° 27
+
+Oficiales Administrativos Gdo. 7° 28
+
+Oficiales Administrativos Gdo. 8° 29
+
+El o los cargos de Oficiales Administrativos grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA PERSONAL DE SERVICIOS MENORES
+
+Auxiliares Gdo. 1° 25
+
+Auxiliares Gdo. 2° 26
+
+Auxiliares Gdo. 3° 27
+
+Auxiliares Gdo. 4° 28
+
+Auxiliares Gdo. 5° 28
+
+Auxiliares Gdo. 6° 29
+
+Auxiliares Gdo. 7° 30
+
+Auxiliares Gdo. 8° 31
+
+Auxiliares Gdo. 9° 31
+
+Auxiliares Gdo. 10° 32
+
+Auxiliares Gdo. 11° 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 37°
+
+Fíjase para los trabajadores de la Caja de Retiros y Previsión Social de los Ferrocarriles del Estado, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Vicepresidente Ejecutivo 1ª. Cat. 4
+
+Fiscal 2ª. Cat. 5
+
+Jefe Depto. Personal y Bienestar 3ª. Cat. 7
+
+Jefe Depto. Beneficios 3ª. Cat. 7
+
+Jefe Depto. Cuentas Corrientes 3ª. Cat. 7
+
+Jefe Depto. Contabilidad 3ª. Cat. 7
+
+Jefe Depto. Presupuestos y Estad. 3ª. Cat. 7
+
+Jefe Depto. Control e Inspección 3ª. Cat. 7
+
+Secretario General 3ª. Cat. 7
+
+Jefe Subdepto. Pensiones 4ª. Cat. 10
+
+Jefe Subdepto. Deudas Hipotecarias 4ª. Cat. 10
+
+Jefe Subdepto. Agencias 4ª. Cat. 10
+
+Tesorero 4ª. Cat. 12
+
+Jefe de la Of. de Racionalización 4ª. Cat. 12
+
+Estadístico 4ª. Cat. 13
+
+Relacionador Público 4ª. Cat. 13
+
+Abogado Jefe 4ª. Cat. 8
+
+Jefe del Subdepto.
+
+Contabilidad Gral. 4ª. Cat. 10
+
+Jefe Subdepto. Fondos de Retiro 5ª. Cat. 11
+
+Jefe Subdepto. Bienestar 5ª. Cat. 11
+
+Jefe Subdepto. Préstamos 5ª. Cat. 11
+
+Jefe Subdepto. Adquisición
+
+Mat. y Utiles 5ª. Cat. 12
+
+Asistente Social 5ª. Cat. 13
+
+Agente Zonal 5ª. Cat. 12
+
+Abogado 5ª. Cat. 11
+
+Contador 5ª. Cat. 15
+
+El o los cargos de Contador grado 15 se transformarán en grado 16 a medida que vayan quedando vacantes.
+
+Inspector 5ª. Cat. 13
+
+Jefe Servicio Mecanizado 5ª. Cat. 12
+
+Agente Zonal 6ª. Cat. 14
+
+Abogado 6ª. Cat. 13
+
+Contador 6ª. Cat. 18
+
+Inspector 6ª. Cat. 16
+
+Agente Zonal 7ª. Cat. 17
+
+Abogado 7ª. Cat. 15
+
+Contador 7ª. Cat. 19
+
+Operador IBM (Supervisores) Gdo. 1 17
+
+Agente Zonal Gdo. 1 18
+
+Abogado Gdo. 1 17
+
+Operador IBM Gdo. 2 19
+
+Operador IBM Gdo. 3 20
+
+Perfoverificadora IBM Gdo. 3 20
+
+Operador IBM Gdo. 4 22
+
+Perfoverificadora IBM Gdo. 5 23
+
+Perfoverificadora IBM Gdo. 6 24
+
+Perfoverificadora IBM Gdo. 7 25
+
+Perfoverificadora IBM Gdo. 8 26
+
+El o los cargos de Perfoverificadora IBM grado 26 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª. Cat. 19
+
+Oficiales 6ª. Cat. 20
+
+Oficiales 7ª. Cat. 21
+
+Oficiales Gdo. 1 22
+
+Oficiales Gdo. 2 22
+
+Oficiales Gdo. 3 23
+
+Oficiales Gdo. 4 24
+
+Oficiales Gdo. 5 25
+
+Oficiales Gdo. 6 26
+
+Oficiales Gdo. 7 26
+
+Oficiales Gdo. 8 27
+
+Oficiales Gdo. 9 28
+
+Oficiales Gdo. 10 29
+
+El o los cargos de Oficiales grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Auxiliares Gdo. 1 25
+
+Auxiliares Gdo. 2 26
+
+Auxiliares Gdo. 3 27
+
+Auxiliares Gdo. 4 28
+
+Auxiliares Gdo. 5 28
+
+Auxiliares Gdo. 6 29
+
+Auxiliares Gdo. 7 30
+
+Auxiliares Gdo. 8 31
+
+Auxiliares Gdo. 9 31
+
+Auxiliares Gdo. 10 32
+
+Auxiliares Gdo. 11 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 38°
+
+Fíjase para los trabajadores del Servicio de Tesorerías, de acuerdo con lo dispuesto en el artículo 13° de decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Tesorero General 1ª Cat. 2
+
+Jefe Depto. Administrativo 2ª Cat. 4
+
+Jefe Depto. Bienestar y Personal 2ª Cat. 4
+
+Jefe Depto. Com. Ingr. y Egresos 2ª Cat. 3
+
+Jefe Depto. Deuda Púb. y S. Ext. 2ª Cat. 3
+
+Jefe Depto. Oper. e Inspección 2ª Cat. 3
+
+Jefe Depto. Cobranza 2ª Cat. 3
+
+Jefe Depto. Estudios 2ª Cat. 3
+
+Abogado Asesor Tesorero General 2ª Cat. 4
+
+Tesorero Provin. Santiago 2ª Cat. 4
+
+Coordinador de Cobranza 2ª Cat. 7
+
+Jefes Zon. de Operación 3ª Cat. 5
+
+Tesoreros Provinciales 3ª Cat. 6
+
+Jefe Sec. Org. y An. Sist. y M. 3ª Cat. 6
+
+Jefes Subdepto. de Inspección 3ª Cat. 6
+
+Jefe Ingr. Tesorería Gral. 3ª Cat. 6
+
+Jefe Control Presupuesto 3ª Cat. 6
+
+Jefe Sección Conv. y Elim. Ctas. 3ª Cat. 6
+
+Jefe Sección Estadística y Planific. 3ª Cat. 6
+
+Director Esc. Capacit. 3ª Cat. 8
+
+Jefe Contr. Prov. Stgo. 3ª Cat. 7
+
+Jefe Egr. Tesorería Gral. 3ª Cat. 7
+
+Tesoreros Provinciales 4ª Cat. 7
+
+Jefe Sección Estadística 4ª Cat. 8
+
+Jefe Examen de Actas 4ª Cat. 9
+
+Jefe de Inspección 4ª Cat. 8
+
+Jefe Deuda Pública 4ª Cat. 8
+
+Jefe Servicio Exterior 4ª Cat. 8
+
+Jefe de Personal y Reg. 4ª Cat. 9
+
+Jefe de Bienestar 4ª Cat. 9
+
+Jefe Sección Prom. (Cobranzas) 4ª Cat. 9
+
+Jefe Sección Progr. y Contr. 4ª Cat. 9
+
+Inspectores 4ª Cat. 9
+
+Jefes Contr. Provinciales 4ª Cat. 8
+
+Jefe Contr. Com. y Sucurs. 4ª Cat. 8
+
+Jefe de Examen de Cuentas 4ª Cat. 9
+
+Jefe de Ingresos 4ª Cat. 9
+
+Jefe de Egreso 4ª Cat. 9
+
+Jefe de Pensiones 4ª Cat. 9
+
+Jefe de Sueldos 4ª Cat. 9
+
+Jefe Secret. Tesorería Gral. 5ª Cat. 11
+
+Jefe de Fondos 5ª Cat. 10
+
+Jefe de Mater. y Locales 5ª Cat. 10
+
+Subjefe Sección Org. An.
+
+Sist. y M. 5ª Cat. 11
+
+Subjefe Sección Estadística
+
+y Planific. 5ª Cat. 11
+
+Inspectores 5ª Cat. 10
+
+Jefe de Examen de Cuentas 5ª Cat. 11
+
+Jefe Con. Enroladas 5ª Cat. 11
+
+Jefe Cuentas Corrientes 5ª Cat. 11
+
+Tesoreros Comunales 5ª Cat. 10
+
+Jefe de Sucursales 5ª Cat. 10
+
+Sub. Direc. Capacitación 5ª Cat. 11
+
+Jefes de Partes y Archivos 6ª Cat. 12
+
+Inspectores 6ª Cat. 12
+
+Jefes de Ingreso 6ª Cat. 13
+
+Jefes de Egresos 6ª Cat. 13
+
+Jefes de Recaudación 6ª Cat. 13
+
+Tesoreros Comunales 6ª Cat. 12
+
+Técnico Estadístico 6ª Cat. 12
+
+Jefes de Ingresos 7ª Cat. 14
+
+Jefes de Egresos 7ª Cat. 14
+
+Jefes de Recaudación 7ª Cat. 14
+
+Jefes de Cuentas Corrientes 7ª Cat. 14
+
+Jefes de Secretaría 7ª Cat. 15
+
+Tesoreros Comunales 7ª Cat. 13
+
+Supervisores 7ª Cat. 14
+
+Asistentes Estadísticos 7ª Cat. 14
+
+Jefes de Recaudación Gr. 1° 16
+
+Jefes de Cuentas Corrientes Gr. 1° 16
+
+Jefes de Secretaría Gr. 1° 16
+
+Tesoreros Comunales Gr. 1° 15
+
+Supervisores Gr. 1° 16
+
+Jefe de Sección Gr. 1° 16
+
+Jefes de Secretaría Gr. 2° 17
+
+Supervisores Gr. 2° 18
+
+Jefes de Sección Gr. 2° 17
+
+Recaudadores Fiscales Gr. 2° 18
+
+Recaudadores Fiscales Gr. 3° 18
+
+Ayudantes de Contabilidad Gr. 3° 18
+
+Recaudadores Fiscales Gr. 4° 18
+
+Ayudantes de Contabilidad Gr. 4° 18
+
+Recaudadores Fiscales Gr. 5° 18
+
+Ayudantes de Contabilidad Gr. 5° 18
+
+DEPTO. JURIDICO
+
+Fiscal 2ª Cat. 3
+
+Abogado Jefe 3ª Cat. 6
+
+Abogado Provincial 3ª Cat. 6
+
+Abogado Inspector 3ª Cat. 7
+
+Abogados Prov. 4ª Cat. 8
+
+Abogados Prov. 5ª Cat. 10
+
+Abogados 5ª Cat. 10
+
+Abogados Provinciales 6ª Cat. 13
+
+Abogados 6ª Cat. 13
+
+Abogados Provinciales 7ª Cat. 16
+
+Abogados Departamentales 7ª Cat. 17
+
+Oficial jurídico Gr. 1° 18
+
+Oficial Jurídico Gr. 2° 19
+
+RELACIONES PUBLICAS
+
+Relacionador Público 5ª Cat. 14
+
+ASISTENTES SOCIALES
+
+Asistentes Sociales 6ª Cat. 14
+
+Asistentes Sociales 7ª Cat. 17
+
+Asistentes Sociales Gr. 1° 19
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 7ª Cat. 19
+
+Oficiales Gr. 1° 20
+
+Oficiales Gr. 2° 21
+
+Oficiales Gr. 3° 23
+
+Oficiales Gr. 4° 24
+
+Oficiales Gr. 5° 25
+
+Oficiales Gr. 6° 27
+
+Oficiales Gr. 7° 28
+
+Oficiales Gr. 8° 29
+
+El o los cargos de Oficiales grado 29 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+PLANTA DEL CENTRO DE PROCESAMIENTO DE DATOS
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Jefe Centro Procesam. de Datos 3ª Cat. 5
+
+Jefe Administrativo 4ª Cat. 12
+
+Jefe General de Prog. 4ª Cat. 9
+
+Jefe de Operaciones 4ª Cat. 10
+
+Jefe de Prog. de Comp. 5ª Cat. 13
+
+Jefe de Computación 5ª Cat. 13
+
+Jefe de Equipos Periféricos 5ª Cat. 13
+
+Jefe de Prog. de Equipos P. 6ª Cat. 13
+
+Programadores A de C. 6ª Cat. 15
+
+Prog. Operador 6ª Cat. 15
+
+Superv. de Equipos P. 6ª Cat. 15
+
+Prog. de Computador 7ª Cat. 16
+
+Prog. A de Equipo P. 7ª Cat. 16
+
+Analista de Costos 7ª Cat. 16
+
+Supervisores de E. Perif. 7ª Cat. 16
+
+Operadores A Comp. 7ª Cat. 16
+
+Prog. de E. Periférico Gr. 1° 17
+
+Operadores B de Comp. Gr. 2° 17
+
+Operadores A de Equipo P. Gr. 2° 17
+
+Operadores C de Comp. Gr. 3° 18
+
+Operadores B de Equipo P. Gr. 3° 18
+
+Operadores C de Equipo P. Gr. 4° 18
+
+Perfoverificadores 5ª Cat. 19
+
+Perfoverificadores 6ª Cat. 21
+
+Perfoverificadores 7ª Cat. 23
+
+El o los cargos Perfoverificadores grado 23 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Mayordomo 7ª Cat. 25
+
+Chofer 7ª Cat. 25
+
+Suboficiales Gr. 1° 26
+
+Choferes Gr. 1° 26
+
+Maestros Cocina Gr. 1° 26
+
+Suboficiales Gr. 2° 26
+
+Choferes Gr. 2° 26
+
+Suboficiales Gr. 3° 27
+
+Choferes Gr. 3° 27
+
+Cocinero Gr. 3° 27
+
+Suboficiales Gr. 4° 27
+
+Suboficiales Gr. 5° 28
+
+Auxiliares Gr. 6° 28
+
+Auxiliares Gr. 7° 28
+
+Auxiliares Gr. 8° 29
+
+Auxiliares Gr. 9° 29
+
+Auxiliares Gr. 10° 30
+
+El o los cargos de Auxiliares grado 30 se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 39°
+
+Fíjase para los trabajadores del Servicio de Impuestos Internos, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Director 1ª. Cat. 2
+
+Subdirector 2ª. Cat. 3
+
+Visitador General 2ª. Cat. 4
+
+Directores Regionales 2ª. Cat. 4
+
+Jefe de Depto. Actos y Contratos 3ª. Cat. 5
+
+Jefe de Depto. Alcoholes 3ª. Cat. 5
+
+Jefe de Depto. Asesoría Jurídica 3ª. Cat. 5
+
+Jefe de Depto Avaluaciones 3ª. Cat. 5
+
+Jefe de Depto. Capacitación 3ª. Cat. 5
+
+Jefe de Depto. Compraventas 3ª. Cat. 5
+
+Jefe de Depto. Contabilidad 3ª. Cat. 5
+
+Jefe de Depto. Estadística 3ª. Cat. 5
+
+Jefe de Depto. Informac. y Difusión 3ª. Cat. 5
+
+Jefe de Depto. Investig. Delit. Trib 3ª. Cat. 5
+
+Jefe de Depto. Máquinas 3ª. Cat. 5
+
+Jefe de Depto. Normativo 3ª. Cat. 5
+
+Jefe de Depto. Org. y Métodos 3ª. Cat. 5
+
+Jefe de Depto. Personal y Bienestar 3ª. Cat. 5
+
+Jefe de Depto. Planificación 3ª. Cat. 5
+
+Jefe de Depto. Rentas 3ª. Cat. 5
+
+Jefe de Depto Resoluciones 3ª. Cat. 5
+
+Jefe de Secretaría General 3ª. Cat. 5
+
+Abogados Visitadores 3ª. Cat. 6
+
+Administradores de Zona 3ª. Cat. 5
+
+Inspectores Visitadores 3ª. Cat. 5
+
+Jefes de División Jurídica Regional 3ª. Cat. 6
+
+Jefes Fiscalización Regional 3ª. Cat. 6
+
+Jefes División Procesam. Regional 3ª. Cat. 6
+
+Jefes División Administrativa Reg. 3ª. Cat. 6
+
+Tasadores Visitadores 3ª. Cat. 5
+
+Abogados Consejo de Abogados 4ª. Cat. 7
+
+Abogados 4ª. Cat. 7
+
+Jefes de Fiscalización Zonal 4ª. Cat. 7
+
+Jefes Secciones Regionales 4ª. Cat. 7
+
+Subadministradores de Zona 4ª. Cat. 7
+
+Subjefes de Departamentos 4ª. Cat. 7
+
+Inspectores 4ª. Cat. 8
+
+Tasadores Secciones Regionales 4ª. Cat. 7
+
+Tasadores Jefes Secciones Técnicas 4ª. Cat. 7
+
+Jefes Operación Equip. Máquinas 4ª. Sat. 9
+
+Abogados Jefes 5ª. Cat. 9
+
+Inspectores Jefes 5ª. Cat. 9
+
+Tasadores Jefes 5ª. Cat. 9
+
+Operadores Jefes 5ª. Cat. 10
+
+Abogados 6ª. Cat. 13
+
+Inspectores 6ª. Cat. 11
+
+Operadores Supervisores 6ª. Cat. 12
+
+Tasadores 6ª. Cat. 11
+
+Asistente Social 6ª. Cat. 13
+
+Abogados 7ª. Cat. 17
+
+Asistente Social 7ª. Cat. 15
+
+Inspectores 7ª. Cat. 13
+
+Operadores 7ª. Cat. 14
+
+Tasadores 7ª. Cat. 13
+
+Técnicos Ayudantes 7ª. Cat. 14
+
+Asistente Social Gr. 1° 19
+
+Inspectores Gr. 1° 14
+
+Operadores Gr. 1° 15
+
+Tasadores Gr. 1° 14
+
+Técnicos Ayudantes Gr. 1° 15
+
+Operadores Gr. 2° 16
+
+Técnicos Ayudantes Gr. 2° 16
+
+Técnicos Ayudantes Gr. 3° 17
+
+Operadores Gr. 3° 17
+
+Técnicos Ayudantes Gr. 4° 18
+
+Operadores Gr. 4° 18
+
+Técnicos Ayudantes Gr. 5° 19
+
+Operadores Gr. 5° 19
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª Cat. 19
+
+Oficiales, Perforadores 6ª Cat. 20
+
+Oficiales, Perforadores 7ª Cat. 21
+
+Oficiales, Perforadores Gr. 1° 22
+
+Oficiales, Perforadores Gr. 2° 23
+
+Oficiales, Perforadores Gr. 3° 24
+
+Oficiales, Perforadores Gr. 4° 25
+
+Oficiales Gr. 5° 26
+
+Oficiales Gr. 6° 27
+
+Oficiales Gr. 7° 28
+
+Oficiales Gr. 8° 29
+
+El o los cargos de Oficiales grado 29° se transformarán en grado 31° a medida que vayan quedando vacantes.
+
+El o los cargos de Oficiales, Perforadores grado 25° se transformarán en grado 27° a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Suboficiales 7ª Cat. 25
+
+Suboficiales Gr. 1° 26
+
+Suboficiales Gr. 2° 26
+
+Suboficiales Gr. 3° 27
+
+Suboficiales Gr. 4° 27
+
+Suboficiales Gr. 5° 28
+
+Suboficiales Gr. 6° 28
+
+Suboficiales Gr. 7° 28
+
+Auxiliares Gr. 8° 29
+
+Auxiliares Gr. 9° 29
+
+Auxiliares Gr. 10° 30
+
+El o los cargos de Auxiliares grado 30 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: El Art. 1º del DL 1974, Hacienda, publicado el 29.10.1977, creó el siguiente escalafón de fiscalizadores, con las funciones y atribuciones que la ley confiere a los inspectores:"- Escalafón de fiscalizadores de Impuestos Internos. Fiscalizadores______________ 14 Grado 4°. E.U. Fiscalizadores______________ 78 Grado 5°. E.U. Fiscalizadores______________ 158 Grado 6°. E.U. Fiscalizadores______________ 235 Grado 7°. E.U. Fiscalizadores______________ 315 Grado 8°. E.U. ____ Total cargos_______________ 800" Asimismo, el Art. 2º del mismo decreto ley, declaró la extinción de los cargos que indica.
+
+#### Artículo 40°
+
+Fíjase para los trabajadores del Instituto Investigaciones Geológicas, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+--------------------------------------------------------
+
+Ubicación en la
+
+Nombre del Cargo Escala Unica
+
+Director Ejecutivo F/C 3
+
+Gerente Administrativo F/C 5
+
+Geólogos, Ingenieros, Abogados
+
+Geólogos, Ingenieros, Abogados Cat. A 5
+
+Geólogos, Ingenieros, Abogados Cat. B 6
+
+Geólogos, Ingenieros, Abogados Cat. C 7
+
+Geólogos, Ingenieros, Abogados Gr. 1° 8
+
+Geólogos, Ingenieros, Abogados Gr. 2° 9
+
+Geólogos, Ingenieros, Abogados Gr. 3° 11
+
+Geólogos, Ingenieros, Abogados Gr. 4° 13
+
+Geólogos, Ingenieros, Abogados Gr. 5° 15
+
+El o los cargos de Geólogos, Ingenieros, Abogados de grado 15 se transformarán en grado 17 a medida que vayan quedando vacantes.
+
+Ingeniero de Ejecución, Quimicos Industriales,
+
+Constructores Civiles, Geofísicos
+
+Ingeniero de Ejecución, Químicos
+
+Industriales, Constructores
+
+Civiles, Geofisicos Gr. 1° 10
+
+Ingeniero de Ejecución, Químicos
+
+Industriales, Constructores
+
+Civiles, Geofisicos Gr. 2° 10
+
+Ingeniero de Ejecución, Químicos
+
+Industriales, Constructores
+
+Civiles, Geofisicos Gr. 3° 11
+
+Ingeniero de Ejecución, Químicos
+
+Industriales, Constructores
+
+Civiles, Geofisicos Gr. 4° 12
+
+Ingeniero de Ejecución, Químicos
+
+Industriales, Constructores
+
+Civiles, Geofisicos Gr. 5° 13
+
+Ingeniero de Ejecución, Químicos
+
+Industriales, Constructores
+
+Civiles, Geofisicos Gr. 6° 14
+
+Ingeniero de Ejecución, Químicos
+
+Industriales, Constructores
+
+Civiles, Geofisicos Gr. 7° 15
+
+Ingeniero de Ejecución, Químicos
+
+Industriales, Constructores
+
+Civiles, Geofisicos Gr. 8° 16
+
+Ingeniero de Ejecución, Químicos
+
+Industriales, Constructores Civiles,
+
+Geofisicos Gr. 9° 17
+
+El o los cargos de Ingenieros de Ejecución, Químicos Industriales, Constructores Civiles, Geofisicos de grado 17 se transformarán en grado 19 a medida que vayan quedando vacantes.
+
+Bibilotecarias, Educadoras de Párvulos
+
+Bibliotecarias, Educadoras
+
+de Párvulos Gr. 6° 16
+
+Bibliotecarias, Educadoras
+
+de Párvulos Gr. 7° 20
+
+Contadores
+
+Contadores Gr. 1° 16
+
+Contadores Gr. 2° 17
+
+Contadores Gr. 3° 18
+
+Contadores Gr. 4° 19
+
+Contadores Gr. 5° 20
+
+Contadores Gr. 6° 21
+
+Contadores Gr. 7° 22
+
+Contadores Gr. 8° 23
+
+Contadores Gr. 9° 25
+
+El o los cargos de Contador de grado 25 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+El o los cargos de Bibliotecarias, Educadoras de Párvulos de grado 20° se transformarán en grado 23° a medida que vayan quedando vacantes.
+
+TECNICOS CON TITULO UNIVERSITARIO
+
+Técnicos con Título Universitario Gr. 4° 14
+
+Técnicos con Título Universitario Gr. 5° 15
+
+Técnicos con Título Universitario Gr. 6° 16
+
+Técnicos con Título Universitario Gr. 7° 17
+
+Técnicos con Título Universitario Gr. 8° 18
+
+Técnicos con Título Universitario Gr. 9° 19
+
+Técnicos con Título Universitario Gr. 10° 21
+
+El o los cargos de Técnicos con Título Universitario de grado 21 se transformarán en grado 23 a medida que vayan quedando vacantes.
+
+TECNICOS CON TITULO NO UNIVERSITARIO
+
+Técnicos con Título no Universitario Gr. 4° 19
+
+Técnicos con Título no Universitario Gr. 5° 20
+
+Técnicos con Título no Universitario Gr. 6° 21
+
+Técnicos con Título no Universitario Gr. 7° 22
+
+Técnicos con Título no Universitario Gr. 8° 23
+
+Técnicos con Título no Universitario Gr. 9° 25
+
+Técnicos con Título no Universitario Gr. 10 27
+
+El o los cargos de Técnicos con Título no Universitario de grado 27 se transformarán en grado 30 a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA, AUXILIARES - TECNICOS
+
+" " Cat. 1 19
+
+" " Cat. 2 19
+
+" " Cat. 3 19
+
+" " Cat. 4 19
+
+" " Cat. 5 20
+
+" " Cat. 6 22
+
+" " Cat. 7 23
+
+" " Cat. 8 24
+
+" " Cat. 9 25
+
+" " Cat. 10 27
+
+" " Cat. 11 29
+
+El o los cargos de Auxiliares Técnicos de grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE MECANICOS, CHOFERES, PORTEROS Y PERSONAL DE
+
+SERVICIOS
+
+" " 6ª Cat. 25
+
+" " 7ª Cat. 25
+
+" " 8ª Cat. 25
+
+" " 9ª Cat. 26
+
+" " 10ª Cat. 26
+
+" " 11ª Cat. 27
+
+" " 12ª Cat. 27
+
+" " 13ª Cat. 27
+
+" " Gr. 1° 28
+
+" " Gr. 2° 29
+
+" " Gr. 3° 30
+
+" " Gr. 4° 31
+
+" " Gr. 5° 33
+
+El o los cargos de Mecánicos, Choferes, Porteros y Personal de servicios de grado 33, se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 41°
+
+Fíjase para los trabajadores de la Sociedad Constructora de Establecimientos Educacionales S. A., de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA
+
+Presidente y Gerente F/P 3
+
+Director de Area A 4
+
+Jefes de Departamentos B 5
+
+Jefes de S/Departamentos C 6
+
+Jefes Zonales C 6
+
+Jefes Sección D 6
+
+Jefes Zonales D 7
+
+Jefes Zonales 1 8
+
+Delegados Zonales 2 9
+
+PLANTA PROFESIONALES
+
+Arquitectos 1 6
+
+Arquitectos 2 7
+
+Arquitectos 3 9
+
+Arquitectos 5 13
+
+Arquitectos 6 15
+
+Arquitectos 7 17
+
+Ingenieros 1 6
+
+Ingenieros 2 7
+
+Ingenieros 3 9
+
+Abogados 1 6
+
+Abogados 2 7
+
+Abogados 3 9
+
+Constructores Civiles 1 10
+
+Constructores Civiles 2 11
+
+Constructores Civiles 3 12
+
+Constructores Civiles 4 13
+
+Constructores Civiles 5 14
+
+Constructores Civiles 6 15
+
+El o los cargos de Constructores Civiles grado 15 se transformarán en grado 19 a medida que vayan quedando vacantes.
+
+Contadores 4 13
+
+Contadores 5 18
+
+Contadores 8 21
+
+Contadores 10 23
+
+El o los cargos de Contadores grado 23 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+PLANTA TECNICOS
+
+Programadores 3 16
+
+Programadores 6 18
+
+Programadores 7 20
+
+Programadores 8 21
+
+Programadores 9 22
+
+Programadores 10 23
+
+Programadores 12 24
+
+El o los cargos de Ingenieros y Abogados de grado 9 se transformarán en grado 17 a medida que vayan quedando vacantes.
+
+PLANTA TECNICOS
+
+Nutricionista 3 14
+
+Estadísticos 3 19
+
+Estadísticos 6 20
+
+Estadísticos 7 21
+
+Estadísticos 8 23
+
+Estadísticos 9 24
+
+Estadísticos 10 25
+
+Estadísticos 12 27
+
+Técnicos con tit. univers. 3 14
+
+Técnicos con tit. univers. 6 16
+
+Técnicos con tit. univers. 7 18
+
+Técnicos con tit. univers. 8 20
+
+Técnicos con tit. univers. 9 21
+
+Técnicos con tit. univers. 10 21
+
+Técnicos con tit. univers. 12 23
+
+Técnicos con tit. no univers. 3 19
+
+Técnicos con tit. no univers. 6 20
+
+Técnicos con tit. no univers. 7 21
+
+Técnicos con tit. no univers. 8 23
+
+Técnicos con tit. no univers. 9 24
+
+Técnicos con tit. no univers. 10 25
+
+Técnicos con tit. no univers. 12 28
+
+El o los cargos de Técnicos con tit. no universitario grado 28° se transformarán en grado 30° a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 7 19
+
+Oficiales 8 20
+
+Oficiales 9 21
+
+Oficiales 10 22
+
+Oficiales 11 23
+
+Oficiales 12 25
+
+Oficiales 13 26
+
+Oficiales 14 27
+
+Oficiales 15 28
+
+Oficiales 16 29
+
+El o los cargos de Oficiales grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA AUXILIARES Y OBREROS
+
+Auxiliares y Obreros 12/13 25
+
+Auxiliares y Obreros 14 26
+
+Auxiliares y Obreros 15 27
+
+Auxiliares y Obreros 16 29
+
+Auxiliares y Obreros 17 31
+
+Auxiliares y Obreros 18 33
+
+El o los cargos de Auxiliares y Obreros grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 42°
+
+Fíjase para los trabajadores de la Dirección de Presupuestos, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+I Presupuestos
+
+Director 1ª. Cat. A 2
+
+Subdirector 1ª. Cat. B 3
+
+Jefes Departamento 2ª. Cat. A 4
+
+Jefes Sectoriales 2ª. Cat. B 5
+
+Profesionales y Técnicos 3ª. Cat. A 6
+
+Profesionales y Técnicos 3ª. Cat. B 7
+
+Profesionales y Técnicos 4ª. Cat. A 8
+
+Profesionales y Técnicos 4ª. Cat. B 9
+
+Profesionales y Técnicos 5ª. Cat. 11
+
+Profesionales y Técnicos 6ª. Cat. 13
+
+Profesionales y Técnicos 7ª. Cat. 15
+
+Bibliotecario Jefe 5ª. Cat. 14
+
+Bibliotecario 7ª. Cat. 17
+
+PLANTA ESPECIALIZADA
+
+Especialista 6ª Cat. 14
+
+Especialista 7ª Cat. 16
+
+Especialista Gr. 1° 18
+
+Especialista Gr. 2° 20
+
+Especialista Gr. 3° 21
+
+PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos 5ª. Cat. 19
+
+Oficiales Administrativos 6ª. Cat. A 20
+
+Oficiales Administrativos 6ª. Cat. B 21
+
+Oficiales Administrativos 7ª. Cat. 21
+
+Oficiales Administrativos Gr. 1° 23
+
+Oficiales Administrativos Gr. 2° 26
+
+Oficiales Administrativos Gr. 3° 29
+
+El o los cargos de Oficiales Administrativos grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Mayordomo 7ª. Cat. 25
+
+Auxiliares Gr. 1° 26
+
+Auxiliares Gr. 2° 26
+
+Auxiliares Gr. 3° 27
+
+Auxiliares Gr. 4° 27
+
+Chofer Gr. 4° 27
+
+Auxiliares Gr. 5° 28
+
+Auxiliares Gr. 6° 29
+
+Auxiliares Gr. 7° 31
+
+El o los cargos de Auxiliares grado 31 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+II Racionalización y Función Pública
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Subdirector de Racionalización 1ª. Cat. B 3
+
+Subdirector de Coordinación 1ª. Cat. B 3
+
+Jefe Depto. OCOM 2ª. Cat. A 4
+
+Jefe Depto. Personal 2ª. Cat. A 4
+
+Director ENA 2ª. Cat. A 4
+
+Jefe Depto. Remuneraciones 2ª. Cat. A 4
+
+Jefe Depto. Coordinación 2ª. Cat. A 4
+
+Jefes Sectoriales 2ª. Cat. B 5
+
+Profesionales y Técnicos 3ª. Cat. A 6
+
+Profesionales y Técnicos 3ª. Cat. B 7
+
+Profesionales y Técnicos 4ª. Cat. A 8
+
+Profesionales y Técnicos 4ª. Cat. B 9
+
+Profesionales y Técnicos 5ª. Cat. 11
+
+Profesionales y Técnicos 6ª. Cat. 13
+
+Profesionales y Técnicos 7ª. Cat. 15
+
+Profesionales y Técnicos Gdo. 1 17
+
+Profesionales y Técnicos Gdo. 2 18
+
+Profesionales y Técnicos Gdo. 3 19
+
+PLANTA ADMINISTRATIVA
+
+Oficiales Administrativos 5ª. Cat. 19
+
+Oficiales Administrativos 6ª. Cat. A 20
+
+Oficiales Administrativos 6ª. Cat. B 21
+
+Oficiales Administrativos 7ª. Cat. 21
+
+Oficiales Administrativos Gdo. 1 23
+
+Oficiales Administrativos Gdo. 2 26
+
+Oficiales Administrativos Gdo. 3 28
+
+El o los cargos de Oficiales Administrativos grado 28 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Mayordomo 7ª. Cat. 25
+
+Auxiliar Gdo. 1 26
+
+Auxiliar Gdo. 2 26
+
+Auxiliar Gdo. 3 27
+
+Auxiliar Gdo. 4 27
+
+Auxiliar Gdo. 5 28
+
+Auxiliar Gdo. 6 29
+
+Auxiliar Gdo. 7 31
+
+El o los cargos de Auxiliar grado 31 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+PLANTA SUPLEMENTARIA
+
+Planta Administrativa
+
+Oficial Auxiliar 7ª. Cat. 21
+
+Oficial Auxiliar Gdo 1 23
+
+Oficiales Auxiliares Gdo 5 26
+
+Oficiales Auxiliares Gdo 6 28
+
+Los Oficiales Auxiliares grados 9 y 13 que figuran en esta Planta continuarán asimilados a Carabineros.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 43°
+
+DEROGADO
+
+> **Nota.** La derogación del presente artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 44°
+
+Fíjase para los trabajadores de la Dirección de Aprovisionamiento del Estado, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Director 1ª Cat. 3
+
+Jefe de División 2ª Cat. 5
+
+Jefe Departamento Compras 3ª Cat. 7
+
+Jefe Departamento Inspección 3ª Cat. 7
+
+Jefe de Auditoría 3ª Cat. 7
+
+Jefe Departamento Estudios 3ª Cat. 7
+
+Jefe de Organización y Métodos 3ª Cat. 7
+
+Asesoría Jurídica 3ª Cat. 6
+
+Ingenieros o Técnicos
+
+Jefes de Depto. 3ª Cat. 7
+
+Secretario Abogado del Consejo 3ª Cat. 7
+
+Ingeniero o Técnico 3ª Cat. 9
+
+Técnicos en Organización y Métodos 3ª Cat. 9
+
+Departamento Almacenes 3ª Cat. 7
+
+Jefe Depto. Contabilidad 3ª Cat. 7
+
+Relacionador Jefe 3ª Cat. 10
+
+Abogado 3ª Cat. 8
+
+Técnico de División Técnica 4ª Cat. 11
+
+Técnico en Costos y Precios 4ª Cat. 11
+
+Técnico en Organización y Métodos 4ª Cat. 12
+
+Auditor 4ª Cat. 10
+
+Inspector 4ª Cat. 12
+
+Jefe Depto. Personal 4ª Cat. 9
+
+Jefe Depto. Operaciones
+
+Complementarias 4ª Cat. 8
+
+Jefe Depto. Pedidos 4ª Cat. 9
+
+Jefe de Importaciones 4ª Cat. 9
+
+Jefe de Compras en el País 4ª Cat. 9
+
+Contador 4ª Cat. 16
+
+Jefe Depto. Administrativo 5ª Cat. 13
+
+Jefe de Selección, Capacit. y
+
+Movimiento del Personal 5ª Cat. 16
+
+Inspector 5ª Cat. 16
+
+Contador 5ª Cat. 18
+
+Técnico de División Técnica 5ª Cat. 18
+
+Asistente Social 5ª Cat. 16
+
+Secretaria Relacionadora 5ª Cat. 16
+
+Jefe de Transporte 6ª Cat. 16
+
+Contador 6ª Cat. 19
+
+El o los cargos de Contador grado 19 se transformarán en grado 20 a medida que vayan quedando vacantes:
+
+Jefe de Mecanizado 6ª Cat. 17
+
+Inspector 6ª Cat. 18
+
+Jefe de Almacén 6ª Cat. 17
+
+Jefe de Enajenaciones 6ª Cat. 18
+
+Contador 7ª Cat. 19
+
+El o los cargos de Contador de 7ª Categoría, grado 19 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+Estadístico 7ª Cat. 16
+
+Jefe de Almacén 7ª Cat. 18
+
+Jefe de Taller de Impresos 7ª Cat. 18
+
+Para desempeñar los cargos de Técnicos grados 9, 11, 12 y 18, se requerirá estar en posesión de título profesional universitario que en cada caso corresponda.
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª Cat. 19
+
+Oficiales 6ª Cat. 20
+
+Oficiales 7ª Cat. 21
+
+Oficiales Gr. 1° 22
+
+Oficiales Gr. 2° 23
+
+Oficiales Gr. 3° 24
+
+Oficiales Gr. 4° 25
+
+Oficiales Gr. 5° 26
+
+Oficiales Gr. 6° 27
+
+Oficiales Gr. 7° 28
+
+Oficiales Gr. 8° 29
+
+El o los cargos de Oficiales grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Escalafón I Taller de Timbrados
+
+7ª Cat. 25
+
+Gr. 1° 25
+
+Gr. 2° 26
+
+Gr. 3° 26
+
+Gr. 4° 27
+
+Gr. 5° 28
+
+Escalafón II Taller de Obras
+
+y Reparaciones
+
+7ª Cat. 25
+
+Gr. 1° 26
+
+Gr. 2° 27
+
+Gr. 3° 28
+
+Gr. 4° 29
+
+Escalafón III Choferes y Ayudantes de Choferes
+
+7ª Cat. 25
+
+Gr. 1° 25
+
+Gr. 2° 26
+
+Gr. 3° 26
+
+Gr. 4° 27
+
+Escalafón IV Porteros y Operarios
+
+7ª Cat. 25
+
+Gr. 1° 26
+
+Gr. 2° 27
+
+Gr. 3° 28
+
+Gr. 4° 30
+
+Gr. 5° 31
+
+Gr. 6° 32
+
+Gr. 7° 33
+
+El o los cargos de grado 33 de este escalafón se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+El o los cargos del último nivel, de los escalafones I, II y III, se transformarán en grado 33 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+> **Nota.** NOTA 1: Los artículos 2 y 3 del DL 2066, Hacienda, publicado el 22.12.1977, suprimieron y crearon, respectivamente, a contar del 1º de enero de 1978, los cargos que indican.
+
+#### Artículo 45
+
+Fíjase para los trabajadores del Servicio de Aduanas, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+Superintendente 1ª Cat. 2
+
+Intendente 2ª Cat. 3
+
+Jefe División Operaciones 2ª Cat. 4
+
+Jefe División Planif. Estudios 2ª Cat. 4
+
+Jefe División jurídica 2ª Cat. 4
+
+Vistas Visitadores Generales 2ª Cat. 4
+
+Jefe División Administrat. 2ª Cat. 4
+
+Jefe División Obras 2ª Cat. 6
+
+Jefe de Auditoría Aduanera 2ª Cat. 4
+
+Abogado Visitador Trib. Aduan. 2ª Cat. 5
+
+Químico Visitador General 2ª Cat. 6
+
+Administrador Aduana Met. 2ª Cat. 4
+
+Administrador Aduana Valparaíso 2ª Cat. 4
+
+Secret. Abogado Trib. Sup. Aduanas 3ª Cat. 8
+
+Jefe de Vistas Aduana Valparaíso 3ª Cat. 8
+
+Jefe de Inspección Administ. 3ª Cat. 8
+
+Visitador de Aduanas de Fron 3ª Cat. 8
+
+Jefe del Lab. Químico Central 3ª Cat. 7
+
+Secretario Abog. Junta Gral. Ad. 3ª Cat. 8
+
+Jefe Depto. Arancel 3ª Cat. 7
+
+Jefe Depto. Análisis Estadist. 3ª Cat. 9
+
+Jefe Depto. Planif. Téc. Aduana 3ª Cat. 9
+
+Jefe Depto. Obras y Mantención 3ª Cat. 10
+
+Jefe Depto. de Aduan. Fronteras 3ª Cat. 8
+
+Jefe Depto. del Personal 3ª Cat. 8
+
+Jefe Depto. Presupuestos y Bien 3ª Cat. 8
+
+Jefe Depto. Invest. Aduana 3ª Cat. 8
+
+Jefe Depto. de Intervención 3ª Cat. 8
+
+Jefe Depto. de Org. Y Métodos 3ª Cat. 8
+
+Vista Jefe Depto. Remates 3ª Cat. 9
+
+Abogado Jefe de Dictámenes 3ª Cat. 8
+
+Jefe Depto. de Bienestar 3ª Cat. 9
+
+Jefe Depto. Arquitec. y Bienes Inm. 3ª Cat. 9
+
+Vista Subjefe Audit. Adua. 3ª Cat. 8
+
+Abogado Subjefe Div. Jurídica 3ª Cat. 7
+
+Administradores Aduanas Mayores 3ª Cat. 8
+
+Vistas Sub. Adm. Aduanas Valparaíso 3ª Cat. 8
+
+Vistas Sub. Adm. Ad. Metropolit. 3ª Cat. 8
+
+Administrador Aduana Sn. Antonio 3ª Cat. 8
+
+Químico Jefe Mant. y Normaliz 3ª Cat. 10
+
+Vista Jefe Consultores Min. Hda. 3ª Cat. 9
+
+Jefe Máquinas y Proc. de Datos 3ª Cat. 9
+
+Se. Abogado Tribunal Ad. Valparaíso 3ª Cat. 10
+
+Sec. Gral. Superint. Aduanas 3ª Cat. 9
+
+Jefe Depto. Precios y Valores 3ª Cat. 7
+
+2° Jefe Depto. Pres. y Bienes 4ª Cat. 10
+
+2° Jefe Depto. del Personal 4ª Cat. 10
+
+Vista 2° Jefe Depto. Intervenc. 4ª Cat. 10
+
+Vista 2° Jefe Depto. Pla.
+
+y Tec. Ad. 4ª Cat. 10
+
+Vista 2° Jefe Depto. Org. y Mét. 4ª Cat. 10
+
+2° Jefe Depto. Invest. Aduaneras 4ª Cat. 11
+
+Vista SubAdminis. Aduan. Mayor 4ª Cat. 10
+
+Vistas Jefes Sección Superint. 4ª Cat. 10
+
+Jefe Vista Aduanas Mayores 4ª Cat. 10
+
+Vista Jefe Aforo Aduan. Valparaiso 4ª Cat. 10
+
+Vista Consul. Div. Operaciones 4ª Cat. 11
+
+Vista Analista Estadística 4ª Cat. 11
+
+Abogado de Auditoría 4ª Cat. 10
+
+Sec. Abogados Trib. Adua. Mayor 4ª Cat. 10
+
+Abogado Div. Administrativa 4ª Cat. 11
+
+Abogado Jefe Medidas Discipl. 4ª Cat. 11
+
+Sec. Depto. Superintendencia 4ª Cat. 11
+
+Químicos Jefes Laboratorio 4ª Cat. 11
+
+Vista Subjefe Depto. Arancel 4ª Cat. 10
+
+Vista Subjefe Depto. Prec. y Val. 4ª Cat. 10
+
+Vista S. Jefe Depto. Anális. Estad. 4ª Cat. 11
+
+Vista S. Jefe Secr. Gral. Sup. 4ª Cat. 11
+
+Vista Jefe Aduan. Mayor Coyhaique 4ª Cat. 9
+
+S. Jefe Depto. Aduanas Fronteras 4ª Cat. 11
+
+Jefe Adm. Aduanas de Valparaíso 4ª Cat. 10
+
+Sec. Aduana de Valparaíso 4ª Cat. 11
+
+Jefe Sec. Capacitación Personal 4ª Cat. 10
+
+Jefe Sec. Aduana de Valparaíso 4ª Cat. 11
+
+Vistas Resolutores 4ª Cat. 11
+
+Vistas Jefes Resguardo Adua. Mayor 4ª Cat. 11
+
+Vistas Jefes Sección Adua.
+
+de Valparaíso 4ª Cat. 11
+
+Vistas Revisores Ad. Mayores 4ª Cat. 11
+
+Sec. Abogado Trib. Aduaneros 4ª Cat. 11
+
+Arquitecto Proyectista 4ª Cat. 11
+
+Secretario Depto. Arancel Sup. 4ª Cat. 13
+
+Contadores Jefes Sec. Pres. y Bienes
+
+- Contabilidad 4ª Cat. 12
+
+- Habilitación 4ª Cat. 12
+
+- Adquisiciones 4ª Cat. 12
+
+Jef. Prog. y Planific. 4ª Cat. 12
+
+Jef Procesos Operativos 4ª Cat. 12
+
+Constructor Civil 4ª Cat. 12
+
+Subjefe Depto. Bienestar 4ª Cat. 13
+
+Vistas Resolutores 5ª Cat. 13
+
+Vistas Aforadores 5ª Cat. 14
+
+Vistas Jefes Resguardo 5ª Cat. 13
+
+Jefes Aduanas Fronteras 5ª Cat. 14
+
+Pro-Secret. Junta Gral. Adua. 5ª Cat. 14
+
+Abogado Depto. Personal 5ª Cat. 14
+
+Químicos Analistas 5ª Cat. 14
+
+Relacionador Público Jefe 5ª Cat. 16
+
+Liquidadores Revisores Gral. 5ª Cat. 14
+
+Jefe Sec. Sup. Aduanas 5ª Cat. 14
+
+Asistente Social de Bienes 5ª Cat. 15
+
+Jefe Subdepto. Inform. y Dif 5ª Cat. 15
+
+Constructor Civil 5ª Cat. 15
+
+Abogados Informantes 5ª Cat. 14
+
+Jefes Administ. Adua. Mayores 5ª Cat. 15
+
+Alcaldes o Inspectores
+
+Jef. Alm. Par. 5ª Cat. 15
+
+Jefe Sec. Aduanas Mayores 5ª Cat. 16
+
+Secret. Abogado Trib. Aduan. 5ª Cat. 14
+
+Contador Sec. Control Adua. V. 5ª Cat. 16
+
+Contador Jefe Cont. Dept. Bien 5ª Cat. 13
+
+Contador Insp. Jef. Remates 5ª Cat. 15
+
+Programadores 5ª Cat. 15
+
+Abogado de Bienestar 5ª Cat. 15
+
+El o los cargos de Abogado de Bienestar grado 15 se transformarán en grado 17 a medida que vayan quedando vacantes.
+
+Químico Analista 6ª Cat. 16
+
+Liquidadores Revisores 6ª Cat. 16
+
+Jefes Aduan. de Fronteras 6ª Cat. 16
+
+Jefes Adm. Aduanas Mayores 6ª Cat. 16
+
+Programadores 6ª Cat. 16
+
+Jefe Sec. Aduanas Mayores 6ª Cat. 17
+
+Liquidadores Revisores 6ª Cat. 17
+
+Jefes Recepción Naves 6ª Cat. 17
+
+Alcaldes o Insp. J. Alm. Par. 6ª Cat. 17
+
+Contador Habilit. Adua. Valparaíso 6ª Cat. 16
+
+Contadores Secc. Control 6ª Cat. 18
+
+Oficiales 1° Trib. Aduaneros 6ª Cat. 18
+
+Asistente Social Bienes 6ª Cat. 18
+
+Relacionador Público 6ª Cat. 18
+
+Vistas Aforadores 6ª Cat. 16
+
+Químicos 6ª Cat. 17
+
+Liq. Revisores Grales 6ª Cat. 17
+
+Jefe Sec. Adua. Mayores 6ª Cat. 17
+
+Contador Rezagos Valparaíso 6ª Cat. 18
+
+Aspirantes a Vistas 7ª Cat. 19
+
+Ofic. Procuradores Trib. 7ª Cat. 19
+
+Asistentes Sociales Bienes 7ª Cat. 19
+
+Contadores Secc. Control 7ª Cat. 18
+
+Dibujante Técnico 7ª Cat. 19
+
+Liquidadores 7ª Cat. 18
+
+Jefes Secc. Aduanas Mayores 7ª Cat. 18
+
+Comprobadores 7ª Cat. 18
+
+Alcaldes o Insp. Alm. Part. 7ª Cat. 18
+
+Secretario Aduanas Mayores 7ª Cat. 19
+
+Jefes Resguardo Aeropuertos 7ª Cat. 18
+
+Operadores de Computador 7ª Cat. 17
+
+Técnicos Contables Sup. Adua. 7ª Cat. 20
+
+Contadores Hab. Aduanas Mayores 7ª Cat. 18
+
+Jefes Aduanas Fronteras 7ª Cat. 18
+
+Liquidadores Gdo. 1 19
+
+Comprobadores Gdo. 1 19
+
+Oficial Procurador Trib. Ad. Gdo. 1 20
+
+Dibujante Técnico Gdo. 1 20
+
+Jefes Aduanas Menores Gdo. 1 18
+
+Educadora Párvulos Bienes Gdo. 1 20
+
+Contadores Sec. Control Adm. M. Gdo. 1 19
+
+Contadores Inspec. Presupuest. Gdo. 1 20
+
+Receptores de Naves Gdo. 1 19
+
+Inspectores de Aduanas Gdo. 1 19
+
+Liquidadores Adua. Mayores Gdo. 2 20
+
+Comprobadores Ad. Mayores Gdo. 2 20
+
+Receptores de Naves Gdo. 2 20
+
+Contadores Gdo. 2 21
+
+Inspectores de Aduanas Gdo. 2 20
+
+Inspectores de Aduanas Gdo. 3 21
+
+Inspectores de Aduanas Gdo. 4 21
+
+Inspectores de Aduanas Gdo. 5 22
+
+PLANTA ADMINISTRATIVA
+
+Oficiales 5ª Cat. 19
+
+Oficiales 6ª Cat. 20
+
+Oficiales Perforadores 7ª Cat. 21
+
+Oficiales Perforadores Gdo. 1 22
+
+Oficiales Perforadores Gdo. 2 23
+
+Oficiales Perforadores Gdo. 3 24
+
+Oficiales Gdo. 4 25
+
+Oficiales Gdo. 5 26
+
+Oficiales Gdo. 6 27
+
+Oficiales Gdo. 7 28
+
+Oficiales Gdo. 8 29
+
+El o los cargos del último nivel Suboficiales grado 28 se transformarán en grado 33, a medida que vayan quedando vacantes.
+
+Planta "B"
+
+Mayordomos Gdo. 4 27
+
+Auxiliares Gdo. 5 28
+
+Auxiliares Gdo. 6 28
+
+Auxiliares Gdo. 7 29
+
+Auxiliares Gdo. 8 30
+
+El o los cargos de Auxiliares grado 30 se transformarán en grado 35, a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 46
+
+Fíjase para los Trabajadores del Servicio de Prisiones, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA
+
+Director 2ª Cat. 3
+
+Subdirector Abogado 3ª Cat. 4
+
+Jefe Depto. Jurídico 4ª Cat. 5
+
+Jefe Depto. Inspección 4ª Cat. 5
+
+Jefe Depto. Personal 4ª Cat. 6
+
+Director Escuela Técnica 4ª Cat. 6
+
+Coronel Jefe Depto. Vigilancia
+
+y Tratamiento Penitenciario 4ª Cat. 5
+
+Jefe Depto. Industrial 4ª Cat. 7
+
+Jefe Depto. Criminología 4ª Cat. 6
+
+Inspector Visitador 4ª Cat. 8
+
+Jefe Depto. Bienestar y
+
+Asist. Social 4ª Cat. 8
+
+Arquitecto Jefe 4ª Cat. 8
+
+Inspectores Zonales 5ª Cat. 9
+
+Jefe del Patronato Nac.
+
+de Reos 5ª Cat. 9
+
+Jefe Depto. Educacional 5ª Cat. 10
+
+Jefe Depto. Menores 5ª Cat. 9
+
+Jefe Depto. Mujeres 5ª Cat. 9
+
+Jefe Depto. Contabilidad y Control 5ª Cat. 10
+
+Subjefe Depto. Contabilidad
+
+y Control 6ª Cat. 11
+
+PLANTA PROFESIONAL Y TECNICA
+
+Abogados 5ª Cat. 8
+
+Psicólogos 5ª Cat. 12
+
+Arquitectos 5ª Cat. 11
+
+Abogados 6ª Cat. 12
+
+Constructores Civiles 6ª Cat. 12
+
+Psicólogos 6ª Cat. 14
+
+Asistentes Sociales 6ª Cat. 13
+
+Abogados 7ª Cat. 15
+
+Asistentes Sociales 7ª Cat. 14
+
+Contadores Visitadores 7ª Cat. 13
+
+Contador Depto. Industrial 7ª Cat. 15
+
+Asistentes Sociales Gdo. 1 15
+
+Dietistas Gdo. 1 16
+
+Contador de la Penitenciaria
+
+de Stgo. Gdo. 1 16
+
+Contador de la Cárcel de Stgo. Gdo. 1 16
+
+Enfermeras Universitarias Gdo. 2 16
+
+Asistentes Sociales Gdo. 2 16
+
+Asistentes Sociales Gdo. 5 20
+
+Dibujante Gdo. 2 19
+
+Asistentes Sociales Gdo. 3 18
+
+Dietista Gdo. 3 18
+
+Dibujante Gdo. 3 20
+
+Asistentes Sociales Gdo. 4 19
+
+Dibujante Gdo. 5 21
+
+Constructor Civil Gdo. 5 19
+
+Asistentes Sociales Gdo. 6 21
+
+Experto en Org. y Métodos Gdo. 7 17
+
+Dibujante Gdo. 8 23
+
+PLANTA DE ALCAIDES Y JEFES DE ESTABLECIMIENTOS ESPECIALES
+
+A) PLANTA DIRECTIVA
+
+Alcaide de la Penitenciaría de Stgo. 4ª Cat. 7
+
+Alcaide de la Cárcel de Stgo. 4ª Cat. 7
+
+Director del Centro de Readap.
+
+de Menores 6ª Cat. 10
+
+Alcaides o Jefes de Establecimientos
+
+Especiales 7ª Cat. 11
+
+Alcaides o Jefes de Establecimientos
+
+Especiales Gdo. 1 13
+
+Alcaides o Jefes de Establecimientos
+
+Especiales Gdo. 2 15
+
+B) PLANTA ADMINISTRATIVA
+
+Alcaides o Jefes Establec.
+
+Especiales 5ª Cat. 17
+
+PLANTA DE OFIC. ADMINISTRATIVOS
+
+Oficiales 5ª Cat. 19
+
+Oficiales 6ª Cat. 20
+
+Oficiales 7ª Cat. 21
+
+Oficiales Gdo. 1 23
+
+Oficiales Gdo. 2 24
+
+Oficiales Gdo. 3 25
+
+Oficiales Gdo. 4 26
+
+Oficiales Gdo. 5 27
+
+Oficiales Gdo. 6 29
+
+El o los cargos de Oficiales grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+--------------------------------------------------------
+
+Nombre del Cargo Grado de la
+
+Escala Unica
+
+--------------------------------------------------------
+
+Aspirantes a Oficiales Administrativos Gdo. 17 30
+
+El o los cargos de Aspirantes a Oficiales Administrativos grado 30 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE OFIC. DE VIGILANCIA Y PENITENCIARIOS
+
+a) PLANTA DIRECTIVA
+
+Tenientes Coroneles 6ª Cat. 8
+
+Mayores Gdo. 1° 10
+
+Capitanes Gdo. 4° 12
+
+b) PLANTA ADMINISTRATIVA
+
+Tenientes Primeros 6ª Cat. 15
+
+Tenientes Segundos Gdo. 2° 17
+
+Subtenientes Gdo. 4° 20
+
+Aspirantes a Oficiales Gdo. 17° 30
+
+El o los cargos de Aspirantes a Oficiales grado 30 se transformarán en grado 31, a medida que vayan quedando vacantes.
+
+Suboficiales, Cabos y Vigilantes de Planta de Vigilancia y Tratamiento Penitenciario
+
+Suboficiales Mayores 5ª Cat. 15
+
+Sargentos 1.os 6ª Cat. 16
+
+Sargentos 2dos. 7ª Cat. 17
+
+Cabos Gdo. 3° 18
+
+Vigilantes Gdo. 5° 20
+
+Vigilantes Gdo. 6° 22
+
+Vigilantes Gdo. 8° 24
+
+Vigilantes Gdo. 11° 26
+
+Vigilantes Gdo. 17° 27
+
+Vigilantes Alumnos Gdo. 19° 30
+
+El o los cargos de Vigilantes Alumnos grado 30 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+PLANTA DE PRACTICANTES Y AUXILIARES DE ENFERMERIA
+
+Practicante Jefe Hosp.
+
+de la Penit. Stgo. 5ª Cat. 19
+
+Practic. o Auxiliares de Enfermería 6ª Cat. 23
+
+Practic. o Auxiliares de Enfermería 7ª Cat. 24
+
+Practic. o Auxiliares de Enfermería Gdo. 1 25
+
+Practic. o Auxiliares de Enfermería Gdo. 3 26
+
+Practic. o Auxiliares de Enfermería Gdo. 5 27
+
+Practic. o Auxiliares de Enfermería Gdo. 6 28
+
+Practic. o Auxiliares de Enfermería Gdo. 7 29
+
+El o los cargos de Practic. o Auxiliares de Enfermería grado 29 se transformarán en grado 32 a medida que vayan quedando vacantes.
+
+PLANTA DE CAPELLANES
+
+Capellán Mayor Gdo. 8 17
+
+Capellanes Gdo. 9 18
+
+PLANTA ADM. DE LOS TALLERES FISCALES DEPENDIENTES DEL DEPTO. INDUSTRIAL Y DE COLONIAS PENALES DE READAPTACIÓN AGROPECUARIAS Y PESQUERAS.
+
+Maestros Instructores 5ª Cat. 17
+
+Maestros Instructores 6ª Cat. 19
+
+Maestros Instructores 7ª Cat. 21
+
+Maestros Instructores Gdo. 1 23
+
+Maestros Instructores Gdo. 2 25
+
+Maestros Instructores Gdo. 4 27
+
+ESCALAFON DE MAESTROS INSTRUCTORES DE CARPINTERIA
+
+Maestros Instructores 5ª Cat. 17
+
+Maestros Instructores 6ª Cat. 19
+
+Maestros Instructores 7ª Cat. 21
+
+Maestros Instructores Gdo. 1 23
+
+Maestros Instructores Gdo. 4 25
+
+Maestros Instructores Gdo. 8 27
+
+c) ESCALAFON DE MAEST. INST. DE MECANICA
+
+Maestros Instructores 5ª Cat. 17
+
+Maestros Instructores 7ª Cat. 21
+
+Maestros Instructores Gdo. 1 23
+
+d) ESCALAFON DE SERVICIOS ESPECIALES
+
+Jefe del Taller de Baldosas 5ª Cat. 17
+
+Inspector de Talleres Fiscales 5ª Cat. 17
+
+Mecánico de Automóviles 6ª Cat. 19
+
+Maest. Inst. de Tejidos del Taller
+
+del Centro Rehab. de Menores 7ª Cat. 21
+
+Mecánico de Automóviles 7ª Cat. 21
+
+Jefe de Adq. Depto. Industrial 7ª Cat. 21
+
+Expertos en Calc. De Costos
+
+Depto. Industrial 7ª Cat. 21
+
+Proyectista de Muebles 7ª Cat. 21
+
+Maestros Instruc. de Panadería Gdo. 1 23
+
+Electricista Depto. Industrial Gdo. 1 23
+
+Patrón de Lancha de la Colonia de Readaptación de la Isla
+
+Santa María Gdo. 1 23
+
+Mecánico de Automóviles Gdo. 1 23
+
+Maestros Instructores de Panadería Gdo. 2 25
+
+El o los cargos de Maestros Instructores de Panadería grado 25 se transformarán en grado 27 a medida que vayan quedando vacantes.
+
+PLANTA DE SERVICIOS MENORES
+
+Auxiliares 7ª Cat. 25
+
+Auxiliares Gdo. 1 26
+
+Auxiliares Gdo. 2 27
+
+Auxiliares Gdo. 3 28
+
+Auxiliares Gdo. 4 30
+
+Auxiliares Gdo. 5 31
+
+Auxiliares Gdo. 6 32
+
+Auxiliares Gdo. 7 33
+
+El o los cargos de Auxiliares grado 33 se transformarán en grado 35 a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 47°
+
+Fíjase para los trabajadores de la Caja Central de Ahorros y Préstamos, a contar del 1° de Enero de 1974, de acuerdo con lo dispuesto en el artículo 13 del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+PLANTA DIRECTIVA
+
+Presidente Ejecutivo 3
+
+Jefe División Jurídica 4
+
+Jefe División Ingeniería Sistema 4
+
+Jefe División Finanzas 4
+
+Secretario General (Abogado) 4
+
+El cargo de Secretario General (Abogado) grado 4 se transformará en grado 5 cuando quede vacante.
+
+Jefe División Asociaciones 4
+
+Jefe División Administrativa 4
+
+Jefe División Viviendas 4
+
+Jefe Depto. Operac. Técnicas 5
+
+Jefe Depto. Contab. y Presupuesto 5
+
+Jefe Depto. Operac. Financieras 5
+
+Jefe Depto. Legal Administrativo 5
+
+Jefe Depto. Estudios y Contratos 5
+
+Jefe Depto. Análisis y Programas 5
+
+Jefe Depto. Estudios y Normas 5
+
+Auditor Interno 5
+
+Jefe Depto. Administ. y Org. 7
+
+Jefe Depto. Insp. y Auditoria Técnica 7
+
+Jefe Depto. Serv. Comput. y Estudios 7
+
+Jefe Depto. Relaciones Públicas 7
+
+Jefe Depto. Publicidad y Promoción 7
+
+Jefe Depto. del Personal 9
+
+Jefe Depto. Auditoría e Inspección 8
+
+Jefe Depto. Normas y Procedimientos 8
+
+Jefe Depto. Seguros 9
+
+Jefe Depto. Program. y Prom. Hab 9
+
+Jefe Depto. Valores 9
+
+Jefe Subdepto. Seg. Desgrav. 10
+
+Jefe Subdepto. Control Administrativo AAP. 10
+
+Jefe Subdepto. Bienes y Servicios 11
+
+Jefe Subdepto. Partes, Archivo y Documentación 11
+
+Jefe Subdepto. Reg. y Custodia 11
+
+Jefe Subdepto. Siniestros y Seguros 11
+
+Jefe Subdepto. Administ. de Seguros 11
+
+Jefe Tesorería de Valores 12
+
+Jefe Subdepto. de Informaciones 12
+
+Jefe Subdepto. Bienestar Social 12
+
+Jefe Subdepto. Reg. Presup. 12
+
+Jefe Subdepto. Pag. Reajustables 13
+
+Jefe Subdepto. Mec. Cart. Hipot. 13
+
+PLANTA DE ABOGADOS
+
+Abogados C 6
+
+Abogados CH 7
+
+El o los cargos de Abogados grado 7 se transformarán en grado 9 a medida que vayan quedando vacantes.
+
+Abogados D 8
+
+El o los cargos de Abogados grado 8 se transformarán en grado 11 a medida que vayan quedando vacantes.
+
+Abogados E 9
+
+El o los cargos de Abogados grado 9 se transformarán en grado 13 a medida que vayan quedando vacantes.
+
+Abogados F 17
+
+PLANTA ARQUITECTOS
+
+Arquitectos C 6
+
+Arquitectos CH 7
+
+El o los cargos de Arquitectos grado 7 se transformarán en grado 9 a medida que vayan quedando vacantes.
+
+Arquitectos D 8
+
+El o los cargos de Arquitectos grado 8 se transformarán en grado 13 a medida que vayan quedando vacantes.
+
+Arquitectos E 15
+
+El o los cargos de Arquitectos grado 15 se transformarán en grado 17, a medida que vayan quedando vacantes.
+
+PLANTA ADMINISTRADORES PUBLICOS
+
+Administradores Públicos CH 8
+
+Administradores Públicos D 12
+
+Administradores Públicos G 15
+
+El o los cargos de Administradores Públicos grado 15 se transformarán en grado 17, a medida que vayan quedando vacantes.
+
+PLANTA DE CONSTRUCTORES
+
+Constructores C 10
+
+Constructores CH 11
+
+Constructores D 13
+
+Constructores E 15
+
+Constructores G 17
+
+Constructores H 19
+
+PLANTA DE INGENIEROS
+
+Ingenieros C 6
+
+Ingenieros CH 7
+
+El o los cargos de Ingenieros grado 7 se transformarán en grado 9 a medida que vayan quedando vacantes.
+
+Ingenieros D 13
+
+El o los cargos de Ingenieros grado 13 se transformarán en grado 15 a medida que vayan quedando vacantes.
+
+PLANTA DE INSPECTORES AUDIT. CONTADORES
+
+Inspectores Audit. Contadores CH 9
+
+Inspectores Audit. Contadores D 11
+
+Inspectores Audit. Contadores E 13
+
+Inspectores Audit. Contadores F 15
+
+Inspectores Audit. Contadores G 17
+
+Inspectores Audit. Contadores H 19
+
+Inspectores Audit. Contadores I 21
+
+Para desempeñarse en la Planta de Inspectores y Auditores Contadores se requerirá estar en posesión de un título profesional universitario o el de Contador con 3 años de experiencia en el Sistema Nacional de Ahorros y Préstamos.
+
+PLANTA DE CONTADORES
+
+Contadores CH 18
+
+Contadores D 19
+
+Contadores E 23
+
+PLANTA DE PROGRAMADORES
+
+Programadores F 14
+
+Programadores G 15
+
+Programadores H 15
+
+Programadores I 16
+
+Para desempeñar los cargos de Programadores grados 14, 15 y 16 se requerirá:
+
+Grado 14: Curso de a lo menos un año y experiencia no
+
+inferior a un año como Programador B.
+
+Grado 15: Curso de a lo menos un año y experiencia
+
+como Programador C.
+
+Grado 16: Curso de a lo menos seis meses y experiencia
+
+de un año en la línea de procesamiento de
+
+datos.
+
+PLANTA OPERADORES DE MAQUINA
+
+Operadores de Máquina F 19
+
+Operadores de Máquina I 21
+
+Operadores de Máquina J 25
+
+El o los cargos de Contadores de grado 23, se transformarán en grado 27° a medida que vayan quedando vacantes.
+
+PLANTA DE OFICIALES TECNICOS
+
+Oficiales Técnicos F 19
+
+Oficiales Técnicos G 20
+
+Oficiales Técnicos H 21
+
+Oficiales Técnicos I 25
+
+PLANTA DE OFICIALES ADMINISTRATIVOS
+
+Oficiales Administrativos F 19
+
+Oficiales Administrativos G 19
+
+Oficiales Administrativos H 20
+
+Oficiales Administrativos I 21
+
+Oficiales Administrativos J 22
+
+Oficiales Administrativos K 23
+
+Oficiales Administrativos L 23
+
+Oficiales Administrativos LL 24
+
+Oficiales Administrativos M 25
+
+Oficiales Administrativos N 26
+
+Oficiales Administrativos Ñ 27
+
+Oficiales Administrativos O 28
+
+Oficiales Administrativos P 29
+
+Oficiales Administrativos Q 29
+
+El o los cargos de Oficiales Administrativos Q grado 29 se transformarán en grado 31 a medida que vayan quedando vacantes.
+
+El o los cargos de Oficiales Técnicos de grado 25°, se transformarán en grado 27° a medida que vayan quedando vacantes.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 48°
+
+Fíjase para los trabajadores del Congreso Nacional, de acuerdo con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+SENADO
+
+-------------------------------------------------------
+
+Designación Actual Grado de la Escala
+
+Unica
+
+-------------------------------------------------------
+
+Escalafón Profesional de Secretaría
+
+Cat. o Gr.
+
+Secretario, Jefe de
+
+Oficina____________________ 3
+
+Prosecretario y Tesorero___ 4
+
+Secretario Jefe de
+
+Comisiones_________________ 5
+
+Secretarios de Comisiones__ 6
+
+Oficial Mayor______________ 9
+
+Oficial Mayor 2° y
+
+Archivero__________________ 14
+
+Oficial de Partes__________ 14
+
+Oficial de Actas___________ 15
+
+Oficial de Oficios_________ 15
+
+Oficiales 1°s._____________ 16
+
+Oficiales 2°s._____________ 18
+
+Oficiales 3°s._____________ 20
+
+Escalafón de la Oficina de
+
+Informaciones
+
+Jefe_______________________ 5
+
+Subjefe____________________ 7
+
+Ayudante 1°________________ 13
+
+Ayudante 2°________________ 14
+
+Ayudantes 3°s._____________ 21
+
+Escalafón Técnico de la Redacción
+
+Jefe de la Redacción_______ 5
+
+Subjefe____________________ 6
+
+Redactores 1°s.____________ 8
+
+Redactores 2°s.____________ 9
+
+Redactores 3°s.____________ 10
+
+Secretario de la
+
+Redacción__________________ 10
+
+Taquígrafos 1°s.___________ 11
+
+Taquígrafos 2°s.___________ 12
+
+Taquígrafos 3°s.___________ 14
+
+Ayudantes de la Redacción__ 16
+
+El o los cargos de Ayudantes de la
+
+Redacción grado 16° se
+
+transformarán en grado 19°, a
+
+medida que vayan quedando vacantes.
+
+Escalafón de Tesorería
+
+Oficial Mayor de
+
+Tesorería__________________ 12
+
+Contador___________________ 16
+
+Auxiliar de Tesorería______ 18
+
+Escalafón de Servicio y Comedores
+
+Edecán, Jefe del Personal__ 9
+
+Escalafón Técnico de Auxiliares
+
+Auxiliares 1as.____________ 19
+
+Auxiliares 2as.____________ 21
+
+Auxiliares 3as.____________ 23
+
+Escalafón de Servicio
+
+Oficial de Sala 1°_________ 21
+
+Mayordomo 1°_______________ 25
+
+Jefe de Almacén____________ 25
+
+Mayordomo 2°_______________ 26
+
+Guardalmacén_______________ 26
+
+Sargento de la Guardia_____ 27
+
+Oficiales de Sala 2°s._____ 27
+
+Oficiales de Sala 3°s._____ 28
+
+Vicesargento_______________ 28
+
+Guardianes 1°s.____________ 29
+
+Guardianes 2°s.____________ 30
+
+Guardianes 3°s.____________ 31
+
+Escalafón de Comedores
+
+Jefe de Mozos______________ 27
+
+Mozos 1°s._________________ 29
+
+Mozos 2°s._________________ 30
+
+Mozos 3°s._________________ 31
+
+Mozos 4°s._________________ 31
+
+Mozos 5°s._________________ 32
+
+Coperos____________________ 32
+
+Auxiliar 1° de Cocina______ 33
+
+Auxiliar 2° de Cocina______ 33
+
+El o los cargos de Auxiliar 2° de
+
+Cocina grado 33° se transformarán
+
+en grado 35°, a medida que vayan
+
+quedando vacantes.
+
+Cargos fuera de Escalafón
+
+Ecónomo Jefe_______________ 25
+
+Electricista_______________ 26
+
+Telefonista 1a.____________ 27
+
+Telefonistas 2as.__________ 28
+
+Telefonistas 3as.__________ 29
+
+Mecánico___________________ 29
+
+Practicante________________ 30
+
+CAMARA DE DIPUTADOS
+
+Escalafón Profesional de Secretaría
+
+Secretario_________________ 3
+
+Prosecretario______________ 4
+
+Tesorero___________________ 5
+
+Sec. Jefe de Comisiones____ 5
+
+Secretario de Comisiones___ 6
+
+Oficial Mayor______________ 9
+
+Oficial Mayor de
+
+Comisiones_________________ 9
+
+Oficial de Partes__________ 14
+
+Archivero__________________ 14
+
+Oficiales de Secretaría____ 15
+
+Of. de Actas_______________ 15
+
+Of. Oficios________________ 15
+
+Oficiales 1°s._____________ 16
+
+Oficiales 2°s._____________ 18
+
+Oficiales 3°s._____________ 20
+
+Oficiales Auxiliares_______ 23
+
+Escalafón Técnico de la Redacción
+
+Jefe de la Redacción_______ 5
+
+Subjefe de la Redacción____ 6
+
+Redactores 1°s_____________ 8
+
+Redactores 2°s.____________ 9
+
+Jefe de Publicaciones______ 10
+
+Taquígrafos 1°s.___________ 11
+
+Taquígrafos 2°s.___________ 12
+
+Taquígrafos 3°s.___________ 14
+
+Oficial 1°_________________ 12
+
+Oficial 2°_________________ 18
+
+Oficial 3°_________________ 20
+
+Oficina de Informaciones
+
+Jefe de la Oficina de
+
+Información________________ 7
+
+Ayudante de Tesorería______ 17
+
+Edecán, Jefe del Personal__ 9
+
+Escalafón de Servicio
+
+Jefe de Oficiales de Sala__ 21
+
+Mayordomo 1°_______________ 25
+
+Ecónomo____________________ 25
+
+Mayordomo 2°_______________ 26
+
+Jefe de Almacenes__________ 25
+
+Guardalmacén_______________ 26
+
+Sargentos 1°s._____________ 27
+
+Porteros 1°s.______________ 27
+
+Porteros 2°s. de
+
+Comisiones_________________ 27
+
+Porteros 2° de Redacción___ 27
+
+Porteros 2°________________ 27
+
+Oficiales de Sala__________ 27
+
+Guardianes_________________ 30
+
+Ayudante Guardalmacén______ 30
+
+Ascensoristas______________ 31
+
+Auxiliares de Lavatorio____ 31
+
+Ordenanzas_________________ 31
+
+Auxiliar 2° de Lavatorio___ 33
+
+Ayudantes__________________ 33
+
+El o los cargos de Ayudantes grado
+
+33° se transformarán en grado 35°,
+
+a medida que vayan quedando vacantes.
+
+Escalafón de Comedores
+
+Auxiliar 1° Jefe___________ 28
+
+Auxiliares 1°s.____________ 29
+
+Auxiliares 2°s.____________ 30
+
+Auxiliares 3°s.____________ 31
+
+Auxiliares Ayudantes_______ 32
+
+Coperos____________________ 32
+
+Escalafón del Jardín
+
+Director de los Jardines___ 30
+
+Auxiliar 1°________________ 30
+
+Auxiliar 2°________________ 31
+
+Auxiliares 3°s.____________ 32
+
+Cargos fuera del Escalafón
+
+Telefonista 1a. Jefe_______ 27
+
+Telefonista 2a.____________ 28
+
+Telefonista 3a.____________ 29
+
+Telefonista Ayudante_______ 31
+
+Electricista_______________ 26
+
+Lavandera__________________ 31
+
+Gásfiter___________________ 31
+
+Carpintero_________________ 31
+
+Relojero___________________ 31
+
+Practicante________________ 30
+
+BIBLIOTECA DEL CONGRESO
+
+Director___________________ 5
+
+Bibliotecario Jefe_________ 7
+
+Jefe Sección Ciencias
+
+Políticas, Sociales y
+
+Económicas_________________ 10
+
+Jefe de la Sección
+
+Procesamiento______________ 10
+
+Jefe de la Sección
+
+Control____________________ 10
+
+Subjefe Sección General___ 12
+
+Subjefe Sección
+
+Adquisiciones, Circulación
+
+y Préstamos________________ 12
+
+Subjefe Catalogación y
+
+Clasificación______________ 12
+
+Subjefe de Información y
+
+Referencias
+
+Bibliográficas_____________ 12
+
+Subjefe de Hemeroteca______ 12
+
+Subjefe de Legislación y
+
+Labor Parlamentaria________ 12
+
+Oficial Mayor______________ 13
+
+Catalogador Especializado__ 13
+
+Oficiales 1°s._____________ 16
+
+Oficiales 2°s._____________ 18
+
+Oficiales Auxiliares_______ 19
+
+Catalogadores Auxiliares___ 19
+
+Oficiales 3°s._____________ 20
+
+Oficiales 4°s._____________ 22
+
+Oficiales 5°s._____________ 24
+
+Secretarios________________ 24
+
+Ayudantes 1°s._____________ 24
+
+Dactilógrafos______________ 26
+
+Ayudantes 2°s._____________ 26
+
+Jefe Sección Canje y del
+
+Personal Subalterno________ 25
+
+Portero 1°_________________ 27
+
+Porteros 2°s.______________ 28
+
+Ascensorista_______________ 31
+
+Porteros 3°s.______________ 31
+
+El o los cargos de Porteros 3°s.
+
+grado 31 se transformarán en grado
+
+35°, a medida que vayan quedando
+
+vacantes.
+
+Cargos fuera del Escalafón
+
+Oficiales Auxiliares_______ 19
+
+Catalogadores Auxiliares___ 19
+
+> **Nota.** El Art. 2º de la LEY 18918, Interior, publicada el 05.02.1990, fijó la nueva planta del personal del Congreso Nacional.
+
+#### Artículo 49°
+
+Declárase expresamente incluída en el artículo 30 del decreto ley N° 249, de 1974, la derogación de los artículos 67 de la ley N° 12.861, 69 de la ley N° 15.575 y 124 de la ley N° 16.617.
+
+#### Artículo 50°
+
+Declárase expresamente incluido en el artículo 30 del decreto ley N° 249, de 1974, el artículo 30 de la ley N° 17.654.
+
+#### Artículo 51°
+
+Declárase que las disposiciones del decreto ley N° 249, de 1974, no han modificado ni derogado las normas del artículo 118 de la ley N° 17.654.
+
+#### Artículo 52°
+
+Los trabajadores a que se refiere este decreto ley, a quienes corresponda ascender dentro de su respectivo escalafón, sólo tendrán derecho a obtener como consecuencia de la promoción un aumento de hasta dos grados en la Escala Unica del artículo 1° del DL. N° 249. Si no existiere en la planta respectiva el grado correspondiente, el grado del cargo vacante se transformará automaticamente en aquel que permita la aplicación de esta norma.
+
+#### Artículo 53°
+
+Los cargos de las reparticiones a que se refiere este decreto ley que al 31 de Diciembre de 1973, eran de libre designación, conservarán dicha calidad, cualquiera que fuere el grado de la Escala Unica en que hayan sido ubicados.
+
+#### Artículo 54°
+
+Reitérase que, por aplicación del artículo 30 del decreto ley N° 249, de 1974, han quedado derogadas todas las disposiciones de cualquier índole que concedían en beneficio de los trabajadores a que se refieren los artículos anteriores de este decreto ley, cualquier clase de remuneraciones distintas de las establecidas o mantenidas en aquel cuerpo legal.
+
+#### Artículo 55°
+
+Sustitúyese a contar del 1° de Enero de 1974 el artículo 11 del decreto ley N° 295, de 1974, por el siguiente:
+
+#### Artículo 11°
+
+Fíjase para los trabajadores de la Secretaría y Administración General de Transportes, de conformidad con lo dispuesto en el artículo 13° del decreto ley N° 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+-------------------------------------------------------
+
+Designación Actual Grado de la Escala
+
+Unica
+
+-------------------------------------------------------
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+1a. Cat. Subsecretario________________ 3
+
+3a. Cat. Asesores Técnicos____________ 10
+
+4a. Cat. Asesor Técnico_______________ 12
+
+4a. Cat. Jefe Administrativo__________ 12
+
+5a. Cat. Ingeniero Comercial__________ 17
+
+El o los cargos de Ingeniero grado 17° se transformarán en grado 19°, a medida que vayan quedando vacantes.
+
+PLANTA DIRECTIVA DE OFICIALES ADMINISTRATIVOS
+
+5a. Cat. Subjefe Administrativo_______ 19
+
+5a. Cat. Jefe Sección Remuneraciones__ 19
+
+PLANTA DE OFICIALES ADMINISTRATIVOS
+
+5a. Cat. Oficiales Administrativos____ 19
+
+6a. Cat. Oficiales Administrativos____ 20
+
+7a. Cat. Oficiales Administrativos____ 21
+
+Gr. 1° Oficiales Administrativos____ 22
+
+Gr. 2° Oficiales Administrativos____ 23
+
+Gr. 3° Oficiales Administrativos____ 24
+
+Gr. 4° Oficiales Administrativos____ 25
+
+Gr. 5° Oficiales Administrativos____ 26
+
+Gr. 6° Oficiales Administrativos____ 27
+
+Gr. 8° Oficiales Administrativos____ 31
+
+PLANTA DE SERVICIOS MENORES
+
+Gr. 6° Mayordomo____________________ 27
+
+Gr. 8° Portero______________________ 33
+
+Gr. 10° Portero______________________ 35
+
+Departamento Dependientes
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+3a. Cat. Jefe Departamento de
+
+Locomoción Colectiva_________ 8
+
+3a. Cat. Jefe Departamento de
+
+Transportes Marítimo,
+
+Fluvial y Lacustre___________ 8
+
+3a. Cat. Jefe Departamento de
+
+Transporte Terrestre_________ 8
+
+3a. Cat. Jefe Departamento Legal de
+
+Transporte___________________ 8
+
+3a. Cat. Ingenieros___________________ 9
+
+4a. Cat. Ingenieros___________________ 12
+
+5a. Cat. Subjefe Departamento Legal de
+
+Transporte__________________ 15
+
+5a. Cat. Abogados_____________________ 15
+
+5a. Cat. Arquitectos__________________ 15
+
+5a. Cat. Ingeniero Comercial__________ 15
+
+5a. Cat. Técnicos_____________________ 15
+
+6a. Cat. Contador_____________________ 18
+
+6a. Cat. Jefe de Presupuestos_________ 18
+
+PLANTA DIRECTIVA DE OFICIALES ADMINISTRATIVOS
+
+5a. Cat. Subjefe Departamento_________ 19
+
+PLANTA DE OFICIALES ADMINISTRATIVOS
+
+5a. Cat. Oficiales Administrativos____ 19
+
+6a. Cat. Oficiales Administrativos____ 20
+
+7a. Cat. Oficiales Administrativos____ 21
+
+Gr. 1° Oficiales Administrativos____ 22
+
+Gr. 2° Oficiales Administrativos____ 23
+
+Gr. 3° Oficiales Administrativos____ 24
+
+Gr. 4° Oficiales Administrativos____ 25
+
+Gr. 5° Oficiales Administrativos____ 26
+
+Gr. 7° Oficiales Administrativos____ 28
+
+Gr. 8° Oficiales Administrativos____ 29
+
+Gr. 10° Oficiales Administrativos____ 31
+
+PLANTA DE SERVICIOS MENORES
+
+Gr. 8° Porteros_____________________ 32
+
+Gr. 9° Porteros_____________________ 33
+
+Gr. 10° Porteros_____________________ 34
+
+Gr. 11° Porteros_____________________ 35
+
+#### Artículo 56°
+
+El Director de la Casa de Moneda de Chile podrá autorizar trabajos extraordinarios sin sujeción a las limitaciones del artículo 79 del DFL N° 338, de 1960.
+
+#### Artículo 57°
+
+Sustitúyese, a contar del 1° de Enero de 1974, en el artículo 8 del decreto ley N° 272, de 1974, la siguiente frase que figura a continuación del escalafón de Bibliotecarios: "Los cargos de Bibliotecarios Jefes de Sección y Bibliotecarios Mayores; de la 4a. y 5a. Categoría se ubican en los grados 12 y 14 de la Escala Unica, respectivamente"., por la que sigue:
+
+"Los cargos de Bibliotecarios Jefes de Sección, Conservador de la Biblioteca Pública N° 1 S. Severín de Valparaíso, Conservador de la Biblioteca N° 4 de Santiago, de la 4a. Categoría D.P.T., se ubicarán en el grado 12 de la Escala Unica, y los cargos de Bibliotecarios Mayores, Bibliotecario Jefe de Referencias Críticas, Bibliotecario Jefe del Servicio de Audiovisual, Bibliotecario Jefe del Servicio Bibliobuses, Bibliotecario Jefe de Mapoteca y Bibliotecario Jefe del Fondo Bibliográfico R. Silva Castro, de la 5a. Categoría D.P.T., se ubicarán en el grado 14 de la Escala Unica".
+
+Sustitúyese, asismismo, en el mismo artículo y a contar de igual fecha, la Planta Directiva, Profesional y Técnica del Escalafón de Archiveros, por la siguiente:
+
+PLANTA DIRECTIVA, PROFESIONAL Y TECNICA
+
+-------------------------------------------------------
+
+Designación Actual Grado de la Escala
+
+Unica
+
+-------------------------------------------------------
+
+Escalafón de Archiveros
+
+4a. Cat. _____________________________ 12
+
+5a. Cat. _____________________________ 16
+
+6a. Cat. _____________________________ 18
+
+7a. Cat. _____________________________ 20
+
+Gr. 1° _____________________________ 23
+
+El o los cargos grado 23° de este escalafón se transformarán en grado 25°, a medida que vayan quedando vacantes.
+
+#### Artículo 58°
+
+Sustitúyese, a contar del 1° de Enero de 1974, en el artículo 8° del decreto ley N° 295, de 1974, las asimilaciones de los cargos de Jefe del Departamento Asesor y de Asesor Legislativo, ambos de 2a. Categoría D.P.T., por los siguientes:
+
+-------------------------------------------------------
+
+Designación Actual Grado de la Escala
+
+Unica
+
+-------------------------------------------------------
+
+"2a. Cat. Jefe del Departamento
+
+Asesor______________________ 6
+
+2a. Cat. Asesor Legislativo__________ 12".
+
+#### Artículo 59°
+
+Autorízase al Director de la Empresa Portuaria de Chile para que, mientras se establece el nuevo sistema de remuneraciones del personal de dicha Empresa, les otorgue anticipos a cuenta de ellas.
+
+Dichos anticipos se pagarán de acuerdo con las modalidades que fijó el Director y no podrán exceder de la remuneración que rigió en Diciembre de 1973.
+
+#### Artículo 60°
+
+Las cantidades percibidas por concepto de anticipos de remuneraciones durante los meses de Enero y Febrero de 1974, que excedan de los montos líquidos de las remuneraciones determinadas por la aplicación del decreto ley N° 249, de 1974, no serán reintegradas mientras no se dicten las normas específicas que regulen dicho reintegro.
+
+#### Artículo 61°
+
+Declárase que la incorporación del personal de la Dirección General de Deportes y Recreación y Corporación de Construcciones Deportivas al régimen establecido por el decreto ley N° 249, de 1974, no ha modificado la situación de los funcionarios que se acogieron en su oportunidad al derecho de opción que otorgó el artículo 16 transitorio de la ley N° 17.276.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General Director General de Carabineros.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
+
+Lo que transcribo a US. para su conocimiento.- Dios guarde a US.- Victoria Arellano S., Subsecretario de Hacienda.
