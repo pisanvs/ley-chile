@@ -1,0 +1,3 @@
+Por decreto MOP Nº 606, de 30 de marzo de 2001, se expropió el lote de terreno Nº 36, superficie 854 m², rol de avalúo 866-117, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Tramo 1, Quinta Región y se acordó el valor de indemnización con su propietario Arnaldo Rybert Fuller, ascendente a la cantidad de $4.146.228.-
+
+Fiscal del Ministerio de Obras Públicas.
