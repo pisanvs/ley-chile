@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.167 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 29-B, superficie 36 m², rol de avalúo Nº 511-38, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Longitudinal - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12, comuna de Longaví, provincia de Linares", VII Región y se acordó el valor de la indemnización con su propietaria Melania del Carmen Soto Solorza, ascendente a la cantidad de $306.342.-
+
+Fiscal del Ministerio de Obras Públicas.
