@@ -1,0 +1,3 @@
+Por resolución exenta Nº 438, de 17 de febrero de 2005, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 1.264 de 2000 y Nº 46 de 2003, ambas de esta Subsecretaría, sólo en cuanto autorizaron a SOCIEDAD PESQUERA GENMAR LIMITADA para realizar actividades pesqueras extractivas con la nave "Don Chelo I", sobre los recursos Besugo, en el área marítima de la VIII Región, y Bacalao de profundidad, en el área marítima comprendida entre Punta Liles y el paralelo 47° L.S., todo ello de conformidad con lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretaria de Pesca (S).
