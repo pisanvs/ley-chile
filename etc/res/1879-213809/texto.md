@@ -1,0 +1,3 @@
+Por resolución Nº 1.879, de 14 de agosto de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 449, rectificada por resolución Nº 1.750, ambas de 1998, de esta Subsecretaría, sólo en cuanto autorizó a IRNALDO FLORENTINO MANRIQUEZ BUSTAMANTE para operar la nave "Tucapel", respecto del recurso Balacao de profundidad, en el área marítima comprendida entre los paralelos 32°45'40" L.S. (Punta Liles) y 47° L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de agosto de 2003.- Edith Saa Collantes, Subsecretario de Pesca (S).
