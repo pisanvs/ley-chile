@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 568, de 29 de abril de 1998, se expropiaron los lotes de terreno Nºs. 40 y 47, superficies 360 m2. y 230 m2., roles de avalúos 497-5 y 497-10, comuna de Concepción, obra Mejoramiento Autopista Concepción-Talcahuano, sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con sus propietarios Rogelio Hernán Abasolo Paut y otros, ascendente a la cantidad de $43.801.552.-
+
+Fiscal del Ministerio de Obras Públicas.
