@@ -16506,9 +16506,9 @@ iii) La suma de los descalces de plazo hasta 90 días, no podrá ser superior a 
 
 Para el cumplimiento de los límites antes señalados se establecen las siguientes precisiones o instrucciones complementarias a lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile:
 
-a) Para la medición deben considerarse todos los flujos previstos de efectivo que el banco entregará o recibirá dentro de los plazos antes indicados, con la sola excepción de aquellos que no sean relevantes para determinar la posición de liquidez del banco, siempre que la exclusión de esos flujos menores se encuentre precisada y fundamentada en la política de administración de liquidez de la institución.
+a) Para la medición deben considerarse todos los flujos previstos de efectivo que el banco entregará o recibirá dentro de los plazos antes indicados, con la sola excepción de aquellos que no sean relevantes para determinar la posición de liquidez del banco, siempre que la exclusión de esos flujos menores se encuentre precisada y fundamentada en la política de administración de liquidez de la institución. Por consiguiente, además de las operaciones que se reflejan como activos y pasivos, deben considerarse los compromisos legales o contractuales que aún no se reflejan en el balance, como es el caso de dividendos por pagar por las utilidades de un ejercicio, compromisos de otorgamiento de créditos o contratos de compraventa de activos.
 
-b) De acuerdo con lo anterior, además de las operaciones que se reflejan como activos y pasivos, deben considerarse todos los compromisos legales o contractuales que involucran ingresos o egresos de dinero que aún no se reflejan en la contabilidad, como es el caso, por ejemplo, de dividendos por pagar por las utilidades de un ejercicio, compromisos de otorgamiento de créditos o contratos de compraventa de activos.
+b) En todo caso, se entiende que no se incluyen para estos efectos los financiamientos futuros (préstamos, depósitos, emisión de títulos o aumentos de capital). Así, por ejemplo, cuando se trate de líneas de crédito obtenidas por el banco, solo deben considerarse los egresos previstos para el pago de los montos ya girados, pero no los ingresos por los giros que pueden realizarse. Del mismo modo, cuando se determinen los flujos sobre base ajustada en las captaciones, sólo pueden considerarse los retiros ajustados considerando las renovaciones de los depósitos a plazo o la permanencia de los saldos en las cuentas de ahorro, pero en ningún caso los nuevos depósitos.
 
 c) Los límites indicados en el N° 1 anterior se refieren a la situación del banco individualmente considerado y no a la situación consolidada con las filiales.
 
@@ -16526,7 +16526,7 @@ i) Los instrumentos financieros que puedan ser vendidos en un plazo no superior 
 
 j) Los instrumentos financieros que no cumplan con la condición indicada en la letra i) precedente, se incluirán en las bandas temporales que correspondan a los pagos del emisor, sea que se trate de plazos contractuales o ajustados.
 
-k) Los flujos de los instrumentos derivados se computarán considerando los precios de mercado, en las bandas temporales que correspondan.
+k) Para los instrumentos derivados que no son negociables en bolsa, se estimará el valor que se pagaría o recibiría en las fechas de intercambios de flujos o de liquidación de cada contrato, según las tasas y precios vigentes en los mercados al momento de la estimación. No obstante, cuando se trate de derivados con liquidación física que involucre moneda chilena y extranjera, se asignarán a las bandas temporales los montos nocionales en cada moneda, debido a la necesidad de medir el descalce de la moneda extranjera.
 
 1) Cuando se determinen los descalces sobre base ajustada, los criterios para efectuar los ajustes de los activos y pasivos y los demás flujos previstos, deberán ser concordantes entre sí, tanto en lo que toca a la distinción entre mayoristas y minoristas, como en lo que se refiere a las bases para establecer el comportamiento.
 
@@ -16686,7 +16686,7 @@ VII.- INFORMACION SOBRE LA POSICION DE LIQUIDEZ.
 
 La información acerca de la posición de liquidez del banco prevista en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, se enviará a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información.
 
-La información consolidada comprenderá los flujos del banco y de sus filiales, como asimismo los de sus sucursales en el exterior, cuando sea el caso.
+La información consolidada comprenderá los flujos del banco y de sus filiales, como asimismo los de sus sucursales en el exterior, cuando sea el caso. Cuando el banco mida sus descalces sobre base ajustada, la información consolidada incluirá tanto los flujos contractuales como los ajustados de la matriz y sus subsidiarias.
 
 En todo caso, para el envío de información consolidada se seguirá el mismo criterio que para la inclusión de los flujos del banco matriz, en el sentido de que se podrán omitir aquellos flujos de las subsidiarias que no sean significativos para la medición de la situación de liquidez consolidada, si su exclusión se encuentra fundamentada en la política de administración de liquidez.
 
