@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 38, de 24 de Febrero de 1994, se expropió el lote de terreno N° 15, superficie 1.677,25, rol de avalúo 38-45, comuna de Romeral, para la obra Camino Longitudinal Sur, Sector Romeral-Molina, Paso Superior Aguas Negras y se acordó el valor de indemnización con su propietario Compañía de Petróleo de Chile S.A. ascendente a la cantidad de $ 5.402.087.-
+
+Fiscal del Ministerio de Obras Públicas.
