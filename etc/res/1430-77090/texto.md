@@ -1,0 +1,5 @@
+Por Resolución Nº 1.430, de 30 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a I PING INDUSTRIAL Y COMPAÑIA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle San Martín Nº 3440, Población San Marcos de Chiguayante, Concepción, VIII Región, donde podrá procesar, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Tallarín: Cochayuyo; Deshidratado: Chasca, Chascón, Chicorea de mar, Cotoni, Huiro, Luga-Luga, Luche, Carola y Ahnfeltia.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 30 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
