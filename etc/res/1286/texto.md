@@ -1,0 +1,3 @@
+Por resolución N° 1.286 de 29 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a NUÑEZ HERMANOS S.C.M., R.U.T. N°85.820.100-4, domiciliado en Chacabuco 696, Copiapó, III Región, para reiniciar las operaciones actualmente suspendidas, de su planta industrial ubicada en el sector Las Animas, provincia de Chañaral, III Región, autorizada por resoluciones N° 596, de 1989 y N° 165, de 1991, ambas de esta Subsecretaría, dentro del plazo de un año, contado desde el 30 de noviembre de 1992, por haberse acreditado fuerza mayor.
+
+Valparaíso, 29 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
