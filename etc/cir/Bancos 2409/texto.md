@@ -21692,7 +21692,7 @@ Las instituciones que opten por divulgar sus estados financieros completos sólo
 
 Al respecto, cabe hacer presente que, de conformidad con el N° 12 del artículo 49 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación en el periódico en el plazo que señala el artículo 76 de la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que se efectuó la publicación.
 
-En la memoria de la sociedad se incluirán todos los estados financieros que deben publicarse, según lo indicado en el primer párrafo de este número.
+En la memoria de la sociedad se incluirán los estados financieros consolidados completos o, si la institución no tiene filiales, los estados financieros individuales completos. Ello no obsta para que las instituciones que así lo deseen, incluyan además los estados financieros individuales y los de sus filiales.
 
 Dentro de los cuatro días hábiles desde la publicación en el periódico, se enviarán a esta Superintendencia dos ejemplares de ella o fotocopias de la misma.
 
