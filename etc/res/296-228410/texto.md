@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 296, DE 2004
+
+Por resolución Nº 296, del 9 de julio de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VII Región del Maule, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº 240/2004, del mismo origen, para la instalación y operación de cuatro Plantas Revisoras Clase AB, en las comunas de Talca, Curicó, Linares y Constitución, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VII Región del Maule y la concesionaria "Middleton y Compañía Limitada", el 1 de julio de 2004. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.
+
+- Alexis Sepúlveda Soto, Secretario Regional Ministerial de Transportes y Telecomunicaciones, VII Región del Maule.
