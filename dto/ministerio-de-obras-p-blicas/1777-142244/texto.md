@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.777, de 30 de junio de 1999, se expropiaron los lotes de terreno Nºs 162 y 183, superficie 319 y 890 m2., roles de avalúo 68-224 y 69-42, comuna de Teno, para la obra Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña y se acordó precio de indemnización con sus propietarios Lorenzo Valenzuela Figueroa y Rosalindo Gómez Oyarce, ascendente a las cantidades de $593.840 y $509.080.
+
+- Fiscal del Ministerio de Obras Públicas.
