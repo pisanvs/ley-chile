@@ -1,0 +1,3 @@
+Por resolución Nº 2.338, de 18 de noviembre de 1999, de esta Subsecretaría, rectifíquese la resolución Nº 2.252 de 1999, que declaró la caducidad de la resolución Nº 688, de 1997, ambas de esta Subsecretaría, en el sentido de señalar que la resolución caducada es la Nº 688 de 1987 de esta Subsecretaría y no la que se señala en esa resolución.
+
+Valparaíso, 18 de noviembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
