@@ -1,0 +1,9 @@
+AUTORIZA PERMUTA DE INMUEBLE FISCAL DE CALLE VALENTIN LETELIER Nº 752, DE LINARES, POR LA PROPIEDAD DE LAUTARO Nº 774, DE LA MISMA CIUDAD Núm. 1.815.- Santiago, 8 de Junio de 1977.- Visto: lo dispuesto en los decretos leyes Nºs. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente Decreto ley:
+
+#### Artículo único
+
+Autorízase al Presidente de la República para que, a través del Ministerio de Tierras y Colonización, permute la propiedad fiscal ubicada en cale Valentín Letelier Nº 752, de Linares, inscrita a Fs. 450 Vta., Nº 445, del Registro de Propiedad del Conservador de Bienes Raíces de dicha ciudad, correspondiente al año 1970, por el inmueble ubicado en calle Lautaro Nº 774, de la misma localidad, inscrito a favor de la Sociedad Arrocera S.A.I.C. a Fs. 320 Vta., Nº 315, del Registro y Conservador precedentemente mencionado correspondiente al año 1975.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General Director de Carabineros.- Patricio Carvajal Prado, Vicealmirante, Comandante en Jefe de la Armada subrogante.- Lautaro Recabarren Hidalgo, General de Carabineros, Ministro de Tierras y Colonización.- Herman Brady Roche, General de División, Ministro de Defensa Nacional.
+
+Lo que transcribo para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío, JT, Secretario de Legislación de la Junta de Gobierno.
