@@ -10,11 +10,13 @@ Decreto:
 
 Apruébase el siguiente Arancel de Honorarios de Enfermeras de Chile:
 
-#### Artículo 1º
+#### Artículo 1°
 
-A falta de estipulación en contrario, el honorario correspondiente a los diversos servicios que se presten en el desempeño de la profesión de "enfermera" será, en cada caso, el que corresponda conforme a las normas contenidas en el presente arancel.
+Las enfermeras serán libres para pactar o convenir honorarios con sus pacientes, sin sujeción a mínimos o máximos.".
 
-Los Tribunales de Justicia no podrán regular el honorario de una "enfermera" en una suma inferior a la mínima establecida por el arancel por cada uno de los servicios prestados.
+"Por consiguiente, el presente Arancel rige sólo a falta de estipulación expresa.".
+
+"En todo caso, los Tribunales de Justicia no podrán regular los honorarios de una enfermera en un valor inferior al mínimo establecido en el Arancel.
 
 #### Artículo 2º
 
