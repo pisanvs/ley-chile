@@ -1,0 +1,5 @@
+Por Resolución Nº 39, de 16 de enero de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PRODUCTOS ALIMENTICIOS MARVAL LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por Resolución Nº 82, de 1995, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida Lo Espejo Nº 2635, Lo Espejo, Santiago, las líneas de elaboración de Deshidratado, Salado y Seco-salado, en las que podrá utilizar como materia prima los siguientes recursos hidrobiológicos: Cochayuyo, Cotoni, Chasca, Chascón, Chicorea de mar, Huiro, Luche, Luga-luga y Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 16 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
