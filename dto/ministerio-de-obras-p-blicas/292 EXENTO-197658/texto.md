@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº292, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº15, superficie 3.336 m2, rol de avalúos 63-322, comuna de Lonquimay, IX Región, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, 8955 y R-89" y se acordó el valor de indemnización con su propietario don Eusebio Segundo Albornoz Meliqueo, ascendente a la cantidad de $1.014.695.-
+
+Fiscal del Ministerio de Obras Públicas.
