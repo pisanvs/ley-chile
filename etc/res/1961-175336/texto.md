@@ -1,0 +1,3 @@
+Por resolución Nº 1.961 de 7 de septiembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96104055, presentada por JUAN LEONIDAS SOTO CAICO, para instalar y operar el centro de cultivo ubicado en Estero Machildad, Isla Puluqui, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 7 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
