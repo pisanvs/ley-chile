@@ -21202,9 +21202,11 @@ Estarán exentas del límite a que se refiere el N° 1 de este capítulo, las si
 
 a) Líneas de crédito o refinanciamiento aludidos en el Capítulo II.B.6 del Compendio de Normas Financieras del Banco Central de Chile;
 
-b) Créditos de que trata la letra e) del N° 9 del Capítulo III.A.4 del Compendio de Normas Financieras y el N° 3 del título III del Capítulo 4-2 de esta Recopilación; y,
+b) Créditos de que trata el Capítulo II.B.2.2 del Compendio de Normas Financieras.
 
-c) Créditos a que se refiere la letra "B" del Capítulo IV.E.2 del Compendio de Normas Financieras y el título III del Capítulo 13-8 de esta Recopilación.
+c) Créditos de que trata la letra e) del N° 9 del Capítulo III.A.4 del Compendio de Normas Financieras y el N° 3 del título III del Capítulo 4-2 de esta Recopilación; y,
+
+d) Créditos a que se refiere la letra "B" del Capítulo IV.E.2 del Compendio de Normas Financieras y el título III del Capítulo 13-8 de esta Recopilación.
 
 4. Oportunidad en que las obligaciones afectas deben imputarse al margen de
 
@@ -25074,7 +25076,7 @@ d) Para convertir a pesos, moneda corriente, con el objeto de remesar al exterio
 
 2.3. Provisiones en moneda extranjera constituidas por empresas bancarias:
 
-Solamente para efectuar castigos de operaciones en moneda extranjera, en los términos previstos en las normas ya citadas.
+Sólo para los fines que en cada caso autorice previamente el Banco Central de Chile y esta Superintendencia.
 
 ### 3. Normas contables
 
