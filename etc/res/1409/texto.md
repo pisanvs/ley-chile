@@ -1,0 +1,7 @@
+Po Resolución N° 1.409 de 31 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ISABEL RUTH VASQUEZ NAVARRO, R.U.T. N° 8.622.036-9, domiciliada en la ciudad de San Antonio, calle el Muelle N° 855, Villa Italia, para sustituir las embarcaciones denominadas "Isabella I" y "Isabella II", autorizadas por las Resoluciones N° 1.684, de 1989 y N° 1.748, de 1989, ambas de esta Subsecretaría, por la embarcación denominada "Chonos 73", en el área de pesca de la III a VII Región, con la nave individualizada en el numeral precedente los siguientes recursos hidrobiológicos, con arrastre: Merluza común, Pejegallo, Cojinoba del norte, Lenguado de ojos chicos, Lenguado de ojos grandes, Congrio dorado, Congrio negro, Blanquillo, Corvina.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Déjase sin efecto las Resoluciones N° 1.684 y N° 1.748, ambas de 1989, de esta Subsecretaría que autorizaron la operación de las naves "Isabella I" e "Isabella II", en virtud de lo dispuesto en la presente Resolución y la renuncia parcial realizada por doña Isabel Ruth Vásquez Navarro.
+
+Valparaíso, 31 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
