@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.162, de fecha 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 105 y 106, superficies 2.232 m2 y 3.182 m2, respectivamente, roles de avalúo 214-18 y 214-7, comuna de Montepatria, para la obra "Camino Ruta D-597 Monte Patria Caren, Sector Juntas Caren, Tramo Km. 8.260,00 a Km. 30.065,19" y se acordó el valor de indemnización con su propietario Sociedad Agrícola Caren Ltda., ascendente a la cantidad de $15.927.511.-
+
+Fiscal del Ministerio de Obras Públicas.
