@@ -24138,7 +24138,7 @@ El balance general y el estado de resultados se presentarán según los modelos 
 
 1.1. Información sobre hechos comunes en el sistema financiero.
 
-El balance general y el estado de resultados deberán acompañarse con las siguientes notas relativas a hechos comunes, propios de la actividad de las entidades financieras, las que se numerarán y presentarán en el mismo orden en que se señalan:
+El balance general y el estado de resultados deberán acompañarse con las siguientes notas, en los casos que corresponda:
 
 - Principales criterios contables utilizados.
 
@@ -24148,7 +24148,7 @@ El balance general y el estado de resultados deberán acompañarse con las sigui
 
 - Operaciones con partes relacionadas.
 
-- Inversiones en sociedades filiales y de apoyo al giro.
+- Inversiones en sociedades.
 
 - Provisiones para cubrir activos riesgosos.
 
@@ -24164,19 +24164,25 @@ El balance general y el estado de resultados deberán acompañarse con las sigui
 
 - Contingencias, compromisos y responsabilidades.
 
-- Comisiones ganadas.
+- Comisiones.
 
-- Otros ingresos y gastos operacionales y resultados no operacionales.
+- Otros ingresos de operación.
 
-- Compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
+- Otros gastos de operación.
+
+- Ingresos no operacionales.
+
+- Gastos no operacionales.
+
+- Compras, ventas, sustituciones o canjes de créditos de la cartera de
+
+colocaciones.
 
 - Gastos y remuneraciones del Directorio.
 
-El contenido de estas notas se señala en los numerales 4.1 a 4.15 de este título y comprende, en general, aquellos aspectos que son comunes a más de una institución financiera.
+Estas notas comprenden, en general, aquellos aspectos que son comunes a más de una institución financiera y se incluirán siguiendo el orden de prelación en que se han mencionado. Cada institución incluirá sólo aquellas que son aplicables en su caso, de acuerdo con las instrucciones específicas sobre su presentación.
 
-El contenido de estas notas se señala en los numerales 4.1 a 4.13 de este título y comprende, en general, aquellos aspectos que son comunes a más de una institución financiera.
-
-A fin de lograr una uniformidad en la presentación de estos antecedentes, las instituciones deberán preparar las notas según las especificaciones incluidas en los Anexos N° 2 y siguientes de este Capítulo, los cuales contienen textos o cuadros demostrativos cuyo uso es obligatorio, salvo que exista una autorización previa de este Organismo para adecuar la redacción a situaciones especiales no previstas en las instrucciones.
+A fin de lograr una uniformidad en la presentación de los antecedentes, las notas se prepararán de acuerdo con las especificaciones incluidas en los Anexos de este Capítulo, los cuales contienen textos o cuadros demostrativos cuyo uso es obligatorio, salvo que existan situaciones especiales no previstas en las instrucciones, que hagan imprescindible adecuar un texto.
 
 1.2. Información sobre hechos poco frecuentes o propios de la entidad reportante.
 
@@ -24224,7 +24230,7 @@ En una segunda nota se indicarán los cambios en los criterios contables que hay
 
 Esta nota incluirá información sobre el monto a que asciende la obligación subordinada con el Banco Central de Chile registrada en cuentas de orden, la provisión constituida para destinar los excedentes del ejercicio al pago de ella y la naturaleza y efectos de esa obligación. Estos antecedentes se presentarán de acuerdo con el modelo que contiene el Anexo N° 4 de este Capítulo.
 
-En caso de que la institución no mantenga obligación subordinada con el Banco Central de Chile, deberán presentar esta nota para señalar expresamente que no tienen tal obligación, en los términos que se indican en el Anexo N° 4.
+En caso de que la institución no mantenga obligación subordinada, no incluirá nota alguna referida a esta materia, salvo que haya extinguido su obligación durante el ejercicio, caso en el cual deberá adecuar la nota para mencionar esa circunstancia.
 
 4.3. Nota sobre operaciones con partes relacionadas.
 
@@ -24258,9 +24264,9 @@ La información acerca de las transacciones con partes relacionadas debe referir
 
 Deben considerarse todos los contratos con vigencia en cualquier momento del ejercicio, aun cuando estén extinguidos al cierre de éste y aquéllos que se hayan suscrito con posterioridad, hasta la fecha de preparación de los estados financieros, informándolos, en este último caso, como hechos posteriores.
 
-A fin de que la nota incluya sólo información de cierta relevancia en relación con el efecto en los estados financieros, se informarán las operaciones con una persona relacionada solamente cuando el importe total involucrado en el o los contratos o el monto total de las transacciones efectuadas con ella, sea superior al equivalente de 1.000 Unidades de Fomento.
+Será obligatorio incluir las operaciones con un detalle que individualice a cada persona relacionada, solamente cuando el importe total involucrado en el o los contratos o el monto total de las transacciones efectuadas con ella, sea igual o superior al equivalente de 5.000 Unidades de Fomento. Las demás operaciones efectuadas con partes relacionadas se incluirán en forma resumida, totalizando los importes según los tipos de operaciones, mencionando éstas en forma genérica (por ejemplo: "Arriendos", "Asesorías", etc.), pudiendo omitirse todas aquellas transacciones que individualmente no superen el equivalente de 1.000 Unidades de Fomento.
 
-4.4. Nota sobre inversiones en sociedades filiales y coligadas.
+4.4. Nota sobre inversiones en sociedades.
 
 En esta nota se identificarán las sociedades en las cuales la institución tenga una participación igual o superior al 10% sobre el capital pagado o las utilidades de la sociedad de que se trate. Se mostrará el importe registrado en el activo por cada inversión, el porcentaje de participación en esas sociedades y los resultados obtenidos por la aplicación del método del Valor Patrimonial Proporcional (VPP).
 
@@ -24268,7 +24274,7 @@ Además de la información antes indicada, se entregarán, cuando corresponda, a
 
 La información se presentará de la forma que se señala en el Anexo N° 6 de este Capítulo.
 
-No se incluirá esta nota cuando sólo se tengan participaciones inferiores al 10% o para señalar que no existen inversiones en sociedades.
+Esta nota deberán presentarla solamente las instituciones financieras que tengan una participación igual o superior al 10% en alguna sociedad, salvo que hayan dejado de tener esa participación en el curso del ejercicio, caso en el cual podrán adecuar la nota para mencionar esa circunstancia si ello constituye un hecho relevante.
 
 4.5. Nota sobre provisiones.
 
@@ -24320,8 +24326,6 @@ El objeto de esta nota es mostrar la distribución de los activos y pasivos, seg
 
 En esta nota deben incluirse los saldos que se mantienen en moneda extranjera, incluyendo tanto los activos y pasivos pagaderos en monedas extranjeras, como aquellos expresados en moneda extranjera y pagaderos en moneda chilena o reajustables por la variación del tipo de cambio.
 
-Junto con lo anterior se indicará, cuando corresponda, el monto a que asciende la posición de cambios, el importe de las reservas o provisiones en moneda extranjera que mantiene el banco y los recursos correspondientes al capital que provengan de aportes externos que se encuentren recomprados.
-
 Toda esta información se presentará en la forma indicada en el Anexo N° 11 de este Capítulo.
 
 4.10. Nota sobre productos derivados.
@@ -24338,25 +24342,33 @@ Atendido que, de acuerdo con las normas de esta Superintendencia, ciertos compro
 
 Las contingencias y compromisos que no se encuentren registrados en las cuentas de orden dispuestas por esta Superintendencia y que se incluyan en la nota, deberán presentarse bajo títulos, que sean concordantes con el contenido. Cada título se identificará con una letra, siguiendo un orden alfabético a partir de la letra "b).
 
-4.12. Nota sobre comisiones ganadas.
+4.12.- Nota sobre comisiones.
 
-En esta nota se detallarán los principales conceptos que componen el saldo de las comisiones ganadas que se muestra en el Estado de Resultados, siguiendo al efecto el modelo que se incluye en el Anexo N° 14 de este Capítulo."
+En esta nota se detallarán los principales conceptos que componen los ingresos y gastos por comisiones que se muestran en el Estado de Resultados, siguiendo al efecto el modelo que se incluye en el Anexo N° 14 de este Capítulo.
 
-4.13. Otros ingresos y gastos operacionales y resultados no operacionales.
+4.13.- Notas referidas a otros ingresos y gastos de operación y resultados no operacionales.
 
-La presentación de esta nota cumplirá el propósito de permitir una mejor comprensión de los resultados del ejercicio.
+Las notas referidas a "Otros ingresos de operación", "Otros gastos de operación", "Ingresos no operacionales" o "Gastos no operacionales", se presentarán sólo si el monto que se refleja en el Estado de Resultados es relativamente importante, debiéndose indicar los principales componentes del rubro.
 
-Se indicarán los principales componentes de los rubros "Otros ingresos de operación" y "Otros gastos de operación", como asimismo se mencionarán los conceptos más significativos que componen el saldo de "Ingresos no operacionales" y "Gastos no operacionales". Las sumas de los conceptos que puedan estimarse innecesarios de desglosar por tratarse de montos poco significativos, no podrán ser superiores al 10% de la cifra que, en cada caso, se muestra en el estado de resultados.
+Para ese efecto, se incluirá una nota cuando:
+
+a) Los "Otros ingresos de operación" o los "Otros gastos de operación", considerando los valores absolutos, sean iguales o mayores del 5% del "Margen bruto" que se muestra en el Estado de Resultados; y,
+
+b) Los "Ingresos no operacionales" o los "Gastos no operacionales", comparados en sus valores absolutos, sean iguales o superiores al 10% del "Resultado operacional" que se indica en el Estado de Resultados.
+
+En estas notas quedarán desglosados todos los conceptos que superen el 10% del rubro que corresponde detallar, debiendo en todo caso la parte no desglosada que se incluya como "otros", ser inferior al monto a partir del cual se exige la presentación de la respectiva nota.
 
 4.14.- Nota sobré compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
 
-De acuerdo con lo señalado en el título IV del Capítulo 8-19 de esta Recopilación Actualizada de Normas, esta nota deberán presentarla las instituciones financieras que hayan efectuado compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones. La información sobre esas operaciones se incluirá de acuerdo con las siguientes pautas:
+Esta nota deberá presentarse cuando la institución haya efectuado compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones, que por cualquier motivo hayan tenido un efecto significativo en el resultado del ejercicio.
 
-a) se informarán los montos totales de los créditos objeto de esas transacciones, según el valor par de ellos, sin indicar nombres de los deudores ni de los demás obligados al pago que pudieren existir;
+La presentación de la nota será obligatoria solamente cuando el resultado de una transacción realizada en el ejercicio o bien el resultado del conjunto de ellas, sea igual o superior al 5% del "Excedente antes de impuestos" que se muestra en el Estado de Resultados.
+
+La información sobre las operaciones se incluirá de acuerdo con las siguientes pautas:
+
+a) se informarán los montos totales de los créditos objeto de esas transacciones, según el valor par de ellos, sin indicar nombres de los deudores ni de los demás obligados al pago que pudieren existir.
 
 b) se indicarán los efectos de esas transacciones en cuanto al aumento o liberación de provisiones que generen, como asimismo se señalarán las consecuencias de tales operaciones en los resultados de la institución.
-
-Para el efecto deberán seguirse las pautas generales establecidas en este Capitulo, en orden a informar las transacciones en las notas sólo si el importe de éstas es igual o superior a un millón de pesos, considerando, en este caso, la suma del valor de los créditos comprendidos en cada operación.
 
 4.15. Nota de gastos y remuneraciones del Directorio.
 
@@ -24485,6 +24497,8 @@ OBSERVACIONES:
 > **Nota.** La letras B y C) de la Circular 2762,SBIF, promulgada el 28.10.1993, modifican el presente anexo, reemplazando la expresión "Resultado del ejercicio" por "Utilidad (Pérdida) del ejercicio", a fin de dejarlo concordante con el modelo de estado de situación vigente". Por otra parte, se actualizan las instrucciones de la letra b) del N° 3 del título III del Anexo N° 1 del CAPITULO 18-1, con el propósito de adecuarlas a la disposiciones sobre operaciones a futuro establecidas mediante la Circular N° 2.752 de 10 de agosto de 1993.
 
 > **Nota.** NOTA 1 La letra F) del N° I, de la Circular 2803, SBIF, promulgada el 29.12.1994, modifica el modelo de Balance General a fin de incluir el rubro "Provisiones Voluntarias" y el formato del Estado de Resultados para que se incluyan separadamente los ingresos correspondientes a comisiones ganadas, actualizándose las instrucciones relativas a las partidas asociadas a los rubros del Balance General y del Estado de Resultados, contenido en el presente Anexo.
+
+> **Nota.** NOTA 2 La letra I) de la Circular 2837, SBIF, promulgada el 27.12.1995, modifica los formatos del Balance General y del Estado de Resultados y las instrucciones pertinentes, contenidas en el presente Anexo.
 
 ANEXO N° 2
 
@@ -24876,175 +24890,71 @@ En el evento que alguna institución financiera desee publicar un informe de sus
 
 ### 2. Preparación del estado de situación
 
-2.1. Presentación de los saldos.
-
-El estado de situación se preparará de acuerdo con el modelo incluido en el Anexo N° 1 de este Capítulo.
-
-Las cifras deberán presentarse en millones de pesos, con un decimal Se incluirán en paréntesis los saldos deudores de resultados y, si fuere el caso, la pérdida neta y las pérdidas de ejercicios anteriores.
-
-La agrupación de los saldos se efectuará con el mismo criterio dispuesto en el Capítulo 18-1 de estas Normas, sobre preparación de estados financieros anuales, salvo en lo siguiente.
-
-a) Junto a los activos y pasivos se demostrarán los saldos correspondientes al cierre del ejercicio anterior Estos últimos se presentarán corregidos monetariamente, sobre la base de la misma variación del IPC que se aplica para fines de la corrección monetaria de saldos provenientes del ejercicio anterior, es decir, con desfase de un mes En caso de cambios en los criterios de exposición con respecto a los utilizados al cierre del ejercicio anual precedente, deben efectuarse las reclasificaciones necesarias para entregar saldos comparables.
-
-b) Las cifras correspondientes a los resultados se presentarán con una mayor agrupación que en el estado de resultados correspondiente al ejercicio anual.
-
-En consecuencia, además de las presentes instrucciones y sin perjuicio de lo señalado en la letra b) precedente, deben seguirse aquellas contenidas en el título II y en el Anexo N° 1 del Capítulo 18-1 antes mencionado.
+El estado de situación se preparará según el modelo e instrucciones incluidos en el Anexo N° 1 de este Capítulo.
 
 ### 3. Notas al Estado de Situación
 
-El Estado de Situación deberá acompañarse con las siguientes notas "Información proporcionada" (Nota N° 1), "Obligación subordinada con el Banco Central de Chile" (Nota N° 2),y, "Operaciones con partes relacionadas" (Nota N° 3).
+3.1.- Notas básicas.
 
-Además, las instituciones que hayan tenido aumentos de capital en el curso del año y aquellas que hayan efectuado compras, ventas, permutas o canjes de créditos de la cartera de colocaciones con otra institución financiera, deberán incluir una nota referida a esas situaciones. Por otra parte, las instituciones que mantengan provisiones por montos que superen las provisiones mínimas exigidas, podrán incluir una nota para señalar ese hecho.
+El Estado de Situación deberá acompañarse con las siguientes notas básicas: "Información proporcionada" y "Operaciones con partes relacionadas". La primera nota deberá contener la redacción indicada en el modelo del Anexo N° 2 de este Capítulo, en tanto que la segunda se preparará según lo establecido en el Capítulo 18-1.
 
-Las cifras que corresponde incluir en las notas se expresarán en millones de pesos, con un decimal Los saldos que se refieran al cierre del ejercicio anterior deben informarse actualizados por la variación del IPC, al igual que las del estado de situación.
+3.2.- Notas complementarias.
 
-3.1. Preparación de la Nota N° 1 sobre la información proporcionada.
+Deberán incluirse además las siguientes notas, en caso de que corresponda:
 
-La primera nota deberá contener exactamente la misma redacción indicada en el modelo del Anexo N° 2.
+a) Nota sobre obligación subordinada.
 
-3.2.- Preparación de la nota N° 2, sobre obligación subordinada.
+Esta nota se presentará como Nota N° 2, cuando la institución mantenga obligación subordinada, debiendo ceñirse al modelo incluido en el Anexo N° 2 de este Capítulo. La nota deberá presentarse también cuando se haya extinguido la obligación durante el período, caso en el cual se adaptará la redacción para mencionar esa circunstancia.
 
-Esta nota incluirá información general sobre la obligación subordinada con el Banco Central de Chile, y se presentará de acuerdo con el modelo del Anexo N° 2 de este Capítulo.
+b) Nota sobre aumento de capital.
 
-3.3. Preparación de la Nota N° 3 sobre operaciones con partes relacionadas.
+Las entidades que en el curso del período hayan aumentado su capital, incluirán esta nota en la que señalarán los principales antecedentes relativos al aumento de capital.
 
-Esta nota debe contener la misma información que la nota de los estados financieros correspondientes al ejercicio anual, pero referida a la fecha del estado de situación. Por consiguiente, para su preparación las instituciones financieras deben ceñirse a lo dispuesto en el numeral 4.3 del título III del Capítulo 18-1 de esta Recopilación Actualizada de Normas y al modelo e instrucciones contenidos en el Anexo N° 5 de ese Capítulo 18-1.
+c) Nota sobre compras, ventas, sustituciones o canjes de la cartera de colocaciones.
 
-3.4. Preparación de las notas especiales.
+La presentación de esta nota se ceñirá a las instrucciones del Capítulo 18-1, tanto en lo que se refiere al contenido como a la circunstancia que obliga a presentarla.
 
-3.4.1.- Nota sobre aumentos de capital.
+ANEXO N° 1
 
-Las entidades financieras que en el curso del año hubieren llevado a cabo aumentos de capital, incluirán esta nota especial (N° 4), en la que señalarán el monto del aumento enterado.
+MODELO DE ESTADO DE SITUACION.
 
-Cuando el aumento de capital se hubiere efectuado al amparo de las disposiciones de los Capítulos XVIII o XIX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile o del DL N° 600, deberá indicarse la modalidad bajo la cual se realizó Asimismo, si un aumento de capital se realizó con el objeto de efectuar pagos extraordinarios de la obligación subordinada con el Banco Central de Chile, se dejará constancia de ello.
+1.- ESTADO DE SITUACION.
 
-3.4.2. Nota sobre compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
+1.1.- Encabezamientos.
 
-De acuerdo con lo señalado en el título IV del Capítulo 8-19 de esta Recopilación Actualizada de Normas, esta nota adicional (N° 4 ó 5, según corresponda) deberán presentarla las instituciones financieras que hayan efectuado compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones. La información sobre esas operaciones se incluirá de acuerdo con las siguientes pautas:
+El estado de situación deberá presentarse en un formato semejante al del Balance General, pero cuyo encabezamiento será el siguiente:
 
-a) se informarán los montos totales de los créditos objeto de esas transacciones, según el valor par de ellos, sin indicar nombres de los deudores ni de los demás obligados al pago que pudieren existir;
+1.2.- Líneas del balance.
 
-b) se indicarán los efectos de esas transacciones en cuanto al aumento o liberación de provisiones que generen, como asimismo se señalarán las consecuencias de tales operaciones en los resultados de la institución.
+En todo lo demás, las instituciones se ceñirán a las instrucciones para el Balance General, según el modelo incluido en el Anexo N° 1 del Capítulo 18-1.
 
-Para el efecto deberán seguirse las pautas generales establecidas para la preparación y publicación de estados financieros, en orden a informar las transacciones en las notas sólo si su importe es igual o superior a un millón de pesos, considerando, en este caso, el valor de los créditos de cada operación en su conjunto.
+2.- ESTADO DE RESULTADOS DEL PERIODO.
 
-ANEXO N°1
+El modelo del estado de resultados que debe utilizarse es el siguiente:
 
-MODELO DEL ESTADO DE SITUACION.
+Este modelo contiene menos líneas que aquel correspondiente al ejercicio anual. La diferencia consiste en la presentación resumida de las líneas signadas con las letras O, P y Q, de tal manera que los importes que corresponde consignar en cada una de ellas corresponderán a la suma de aquellos que se identifican con las mismas letras en el estado de resultados no resumido indicado en el Anexo N° 1 del Capítulo 18-1 (por ejemplo: línea Q = Q1+Q2+Q3).
 
-.
-
-INSTRUCCIONES:
-
-Los modelos señalados precedentemente se utilizarán siguiendo las mismas instrucciones que se indican en el Anexo N° 1 del Capítulo 18-1 de estas Normas, tanto en lo que se refiere al contenido de cada una de las líneas, como en la adaptación de los modelos a la situación particular de la institución financiera.
-
-El modelo del estado de resultados que debe utilizarse contiene, sin embargo, menos líneas que aquel correspondiente al ejercicio anual. La diferencia está sólo en la presentación resumida de las líneas signadas con las letras O, P y Q, de tal manera que los importes que corresponde consignar en cada una de estas líneas corresponderán a la suma de aquellos que se identifican con las mismas letras en el estado de resultados no resumido indicado en el Anexo N° 1 del Capítulo 18-1 (por ejemplo: línea Q = Q1+Q2+Q3).
-
-En lo que respecta a las instrucciones para adaptar los modelos cuando no existan saldos en alguna línea, debe entenderse que en el caso del estado de situación, la inexistencia de saldos está referida tanto a la fecha del estado como al cierre del ejercicio anterior, debiendo coincidir en ambas fechas dicha inexistencia.
-
-> **Nota.** La letra B de la Circular 2797, SBIF, promulgada 17.11.1994, modifica el presente Anexo, a fin de incorporar la línea "PROVISIONES VOLUNTARIAS".
-
-ANEXO N° 2
-
-NOTAS AL ESTADO DE SITUACION
-
-A continuación se muestran los modelos que deberán utilizarse en la preparación de las notas complementarias del estado de situación. La redacción dispuesta en dichos modelos no podrá ser modificada salvo para adecuarla a situaciones no previstas en las instrucciones. Para ceñirse a la redacción dispuesta, deberá elegirse, en los casos que corresponda, la alternativa aplicable a cada caso, utilizando las frases entre puntos suspensivos y barras (".../ /...").
-
-El modelo de la Nota N° 3 que se incluye en este Anexo, sobre operaciones con partes relacionadas, coincide en la mayoría de sus partes con aquel que debe ser utilizado en la preparación de la misma nota para los estados financieros anuales. Por lo tanto, las instituciones se ceñirán en lo pertinente y no previsto en este Anexo, a las instrucciones contenidas en el Anexo N° 5 del Capítulo 18-1 de esta Recopilación Actualizada de Normas.
+ANEXO N°2
 
 MODELO DE NOTA N° 1.
 
-NOTA N°1 - INFORMACION PROPORCIONADA.
+NOTA N° 1 - INFORMACION PROPORCIONADA.
 
-El presente Estado de Situación ha sido preparado de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras
+El presente Estado de Situación ha sido preparado de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras.
 
-Las cifras correspondientes al ejercicio 19.... se incluyen únicamente para efectos comparativos y se presentan actualizadas de acuerdo con la variación del IPC entre el 1° de diciembre de 19...y el.de.............de 19.... (1)
+Las cifras correspondientes al ejercicio 19 se incluyen únicamente para efectos comparativos y se presentan actualizadas de acuerdo con la variación del IPC entre el 19 de diciembre de 19 y el de de 19 (1).
 
-Los resultados de las Instituciones financieras, en el curso del resto del ejercicio, pueden variar en función del riesgo de la cartera, volumen de negocios, incrementos de capital, tasas de interés, tipo de cambio, IPC, etc. Por lo tanto, los resultados correspondientes al período de ... meses del año 19... tienen sólo el carácter de provisionales.
+Los resultados de las instituciones financieras, en el curso del resto del ejercicio, pueden variar en función del riesgo de la cartera, volumen de negocios, incrementos de capital, tasas de interés, tipo de cambio, IPC, etc. Por lo tanto, los resultados correspondientes al período de meses del año 19 tienen sólo el carácter de provisionales.
 
 (1): Deberá indicarse la fecha correspondiente al último día del mes anterior al que se refiere el estado de situación, por tratarse del IPC desfasado.
 
-MODELOS DE NOTA N° 2.
-
-Instituciones que mantienen obligación subordinada:
+MODELOS DE NOTA SOBRE OBLIGACION SUBORDINADA
 
 NOTA N° 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
 
-Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N° 18401 Este compromiso, denominado "obligación subordinada" se expresa en Unidades de Fomento y está afecto a un incremento de 5% anual /por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/.. De acuerdo con la ley esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual ./deducida la parte de ellos que corresponda a las acciones con preferencia/ y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
+Este banco registra con el Banco Central de Chile una obligación derivada de haberse acogido en su oportunidad a las disposiciones del artículo 15 de la Ley N° 18401 Este compromiso, denominado "obligación subordinada" se expresa en Unidades de Fomento y está afecto a un incremento de 5% anual /por la parte que proviene de la venta de cartera que el Banco Central de Chile adquirió en su oportunidad en dinero efectivo/ De acuerdo con la ley esta obligación no se computa como pasivo exigible, es de plazo indeterminado, hasta su entero pago, y se soluciona con los excedentes de cada ejercicio anual /deducida la parte de ellos que corresponda a las acciones con preferencia/ y, en forma extraordinaria, con otros recursos que autorice la Superintendencia de Bancos e Instituciones Financieras.
 
-Al de de 199 , la obligación subordinada asciende a U.F. (UD ... al 31 12 9) Para su amortización se ha constituido una provisión ascendente a $ ... millones (UF ) que corresponde a aquella parte de los excedentes provisionales del período destinados a ese fin y que se muestra en el balance general como "Provisiones para pago de obligación subordinada al Banco Central de Chile".
-
-Instituciones que no mantienen obligación subordinada.
-
-NOTA 2 - OBLIGACION SUBORDINADA CON EL BANCO CENTRAL DE CHILE.
-
-Esta institución no tiene la obligación subordinada con el Banco Central de Chile a que se refiere la Ley N° 18401.
-
-MODELO DE NOTA N° 3.
-
-Instituciones que tienen operaciones con partes relacionadas:
-
-NOTA N° 3. - OPERACIONES CON PARTES RELACIONADAS.
-
-De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
-
-a) Créditos otorgados a personas relacionadas.(1)
-
-Al .... de............de 199..., los créditos otorgados a personas relacionadas se componen como sigue (cifras en millones de pesos):(2)
-
-.
-
-* Considera sólo aquellas garantías válidas para los efectos de límites individuales de crédito de que trata el artículo 84 de la Ley General de Bancos, valorizadas de acuerdo con las instrucciones de la Superintendencia de Bancos e Instituciones Financieras.
-
-** Incluye sólo las obligaciones de personas naturales cuyas deudas son iguales o superiores al equivalente de tres mil Unidades de Fomento.
-
-Del total de créditos antes señalados, un monto ascendente a $...............millones se encuentra registrado en cuentas de orden. Dicho monto corresponde principalmente a los créditos que se habían vendido al Banco Central de Chile y que volvieron a poder de la institución en virtud de la novación de la obligación de recompra de dicha cartera efectuada en el año 1989, oportunidad en que se imputó al activo solamente el valor comercial de la cartera, registrando el valor par en cuentas de orden para efectos de control.(3)
-
-El total de créditos relacionados representa un......% de capital pagado y reservas de la institución.
-
-b) Otras operaciones con partes relacionadas.
-
-En esta parte de la nota se incluirá la información señalada en el numeral 4.3.2 del título III del Capítulo 18-1 de esta Recopilación Actualizada de Normas.
-
-Si no existiere información que incluir en esta parte de la nota se indicará lo siguiente:
-
-b) Otras operaciones con partes relacionadas.
-
-Durante el año 199... la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas. .J por montos superiores a $ 1 millón/...
-
-INSTRUCCIONES:
-
-(1): En el caso en que no hayan créditos con partes relacionadas que deban informarse, se indicará en esta parte de la nota lo siguiente:
-
-a) Créditos otorgados a personas relacionadas.
-
-Al ... de .......... de 199... no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa ..../con excepción de operaciones con personas naturales por montos inferiores a UF 3.000/....
-
-(2): Si la cantidad de créditos es mínima y la agrupación de cifras no justifica la presentación del cuadro porque la mayoría de sus espacios no contendrían saldos, se podrá presentar la información en otra forma, siempre que se indiquen todos los datos pertinentes exigidos en el modelo.
-
-Para incorporar el valor de las garantías, debe tenerse presente que aquellas cauciones que no contemplen una cláusula de garantía general no pueden ser asignadas a otros créditos y, por lo tanto, si su valor supera el monto de la respectiva colocación, deberá considerarse aquel sólo hasta la concurrencia de dicho monto. Del mismo modo, si bien una garantía general puede ser considerada para diferentes deudas, su monto distribuido no puede ser superior al valor de todos los créditos cubiertos por ella.
-
-(3): Párrafo aplicable sólo a instituciones que mantengan obligación subordinada.
-
-Instituciones que no tienen operaciones con partes relacionada
-
-NOTA N° 3. - OPERACIONES CON PARTES RELACIONADAS.
-
-De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
-
-Al.... de..........de 199... no existen créditos otorgados a personas relacionadas
-
-con la propiedad o gestión de la empresa ..../con excepción de operaciones con personas naturales por montos inferiores a UF 3.000/....
-
-Por otra parte, durante el ano 199.... la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas..../ por montos superiores a $ 1 millón/...
-
-MODELO DE NOTA SOBRE PROVISIONES MINIMAS EXIGIDAS
-
-NOTA N°...- PROVISIONES SOBRE COLOCACIONES.
-
-El monto de las provisiones sobre colocaciones que se muestra en el Estado de Situación está constituido por $ ........ millones correspondiente a provisiones mínimas exigidas por la Superintendencia de Bancos e Instituciones Financieras para cubrir los riesgos de la cartera y $ .......... millones correspondientes a provisiones adicionales o voluntarias.
-
-> **Nota.** La letra G de la Circular 2762, SBIF, promulgada el 28.10.1993, suprime el modelo y las instrucciones para la preparación de la nota sobre operaciones con partes relacionadas, contenidas en el presente Anexo.
+Al de de 199 , la obligación subordinada asciende a UF (UF al 31.12.9) Para su amortización se ha constituido una provisión ascendente a $ millones (UF ) que corresponde a aquella parte de los excedentes provisionales del periodo destinados a ese fin y que se muestra en el balance general como "Provisiones para pago de obligación subordinada al Banco Central de Chile.
 
 CAPITULO 18-3 (Bancos y Financieras)
 
