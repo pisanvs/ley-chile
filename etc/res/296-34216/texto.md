@@ -1,0 +1,3 @@
+Por Resolución N° 296, de 12 de febrero de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por SALMAR SOCIEDAD ANONIMA, para un centro de cultivo ubicado en Punta Apabón, Comuna de Puqueldón, Provincia de Chiloé, X Región, por no dar cumplimiento el respectivo proyecto técnico a lo dispuesto en el artículo 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 12 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
