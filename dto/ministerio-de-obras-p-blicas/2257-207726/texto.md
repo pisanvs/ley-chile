@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.257, de 23 de diciembre de 2002, se deja sin efecto el decreto MOP Nº 2.163, de fecha 28 de diciembre de 2001, sólo en la parte que se refiere a los lotes de terreno Nº 95, 97, 98 y 99 y modifica el numeral 6 del citado decreto, por cuanto la imputación presupuestaria asciende a la suma de $75.674.793, cantidad que corresponde a la diferencia de los montos acordados por las partes respecto de los lotes 95, 97, 98 y 99, que por este acto se dejan sin efecto y la suma acordada por los lotes Nº 93, 94 y 96, los cuales figuran a nombre de la Sociedad Forestal Millalemu S.A., VII Región -
+
+Fiscal del Ministerio de Obras Públicas.
