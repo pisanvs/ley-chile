@@ -1,0 +1,3 @@
+Por Resolución Nº 1.147, de 8 de agosto de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 1.340, de 1996, de esta Subsecretaría, que autorizó a PESQUERA ANDALIEN LTDA., para iniciar actividades pesqueras extractivas con la nave "Lonconao", por no haberse incluido esta Resolución en la transferencia que su titular hiciera a Pesquera El Golfo S.A., según contrato.
+
+Valparaíso, 8 de agosto de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
