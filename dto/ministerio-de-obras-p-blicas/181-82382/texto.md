@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 181, de 25 de Julio de 1990, se expropiaron los lotes N°s. 22, 42 y 44, superficies 2.969 m2., 1.182 m2. y 1.217 m2., respectivamente, rol de avalúo de los tres lotes 5004-70, Comuna de Coronel, para la obra Ampliación Ruta 160, Camino Concepción - Coronel y se acordó el precio de indemnización con sus propietarios Omar Vargas Valeria, Hilda Uribe Fuentes y José Lino López Sanzana, ascendente a las cantidades de S 4.870.128, $ 1.571.602 y $ 1.321.987.-
+
+Fiscal del Ministerio de Obras Públicas.
