@@ -1,0 +1,5 @@
+Por decreto MOP. No. 775 de 19 de junio de 1998, rectificado por decreto MOP. No. 1.108 de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850 de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No. 103, para la obra Camino Santiago-Colina-Los Andes Sector "A" A. Vespucio-By Pass Colina, km. 7.953,70 al km.
+
+13.502,60, que figura a nombre de Jiménez González José H., rol de avalúo 166-177, comuna de Colina, superficie 359,2 m2. La Comisión de Peritos integrada por los señores Paola Andrea Domingo Porcella, Inés Elena Otárola Castillo y Andrés Echeverría Campo, fijó con fecha 27 de abril de 1998, el valor provisional de la indemnización en la cantidad de $ 4.336.408.- para el Lote No. 103. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
