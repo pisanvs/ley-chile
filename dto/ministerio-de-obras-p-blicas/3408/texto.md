@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.408, de 29 de octubre de 1999, se modificó el decreto MOP Nº 770, de 31 de marzo de 1999, que expropió el lote de terreno Nº 8; para la obra Mejoramiento Autopista Concepción-Talcahuano, Sector Rotonda Bonilla y Campus San Andrés Km. 0.086,65 al 0.324,15 que figura a nombre de José Osvaldo Gaete Torres, rol de avalúo 436-2, comuna de Concepción, VIII Región, superficie 134 m²., ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $15.363.900; por haber quedado sin efecto el Convenio Directo de Precio suscrito con el expropiado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
