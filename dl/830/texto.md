@@ -192,7 +192,7 @@ El gerente o administrador de sociedades o cooperativas o el presidente o gerent
 
 #### Artículo 15
 
-Las notificaciones por avisos y las resoluciones o los avisos relativos a actuaciones de carácter general que deban publicarse se insertarán una vez, a lo menos, en el Diario Oficial, y además en un diario de Santiago de los de mayor circulación pudiendo disponer el Director o los Directores Regionales la publicación de ellos en extracto. Si la resolución o actuación se refiere especialmente a contribuyentes de una determinada localidad, esta última publicación se hará en un diario de la cabecera del departamento y si allí no lo hubiera, en uno de la cabecera de la provincia respectiva, en sustitución del de Santiago.
+Las notificaciones por avisos y las resoluciones o los avisos, relativos a actuaciones de carácter general que deban publicarse, se insertarán por una vez en el Diario Oficial, pudiendo disponer el Director, Subdirectores o Directores Regionales su publicación en extracto.
 
 ### Párrafo 2° — .
 
@@ -354,6 +354,8 @@ El plazo de declaración y pago de los diversos impuestos se regirá por las dis
 
 No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción.
 
+Cuando el plazo de declaración y pago de un impuesto venza en día feriado o en día Sábado, éste se prorrogará hasta el primer día hábil siguiente.
+
 ## Título III
 
 GIROS, PAGOS, REAJUSTES E INTERESES
@@ -466,7 +468,7 @@ Reajustes e Intereses moratorios
 
 Todo impuesto o contribución que no se pague dentro del plazo legal se reajustará en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el último día del segundo mes que precede al de su vencimiento y el último día del segundo mes que precede al de su pago.
 
-Los impuestos que sean pagados durante el mes calendario en que se incurrió en mora no serán objeto de reajuste.
+Los impuestos pagados fuera de plazo, pero dentro del mismo mes calendario de su vencimiento, no serán objeto de reajuste. Sin embargo, para determinar el mes calendario de vencimiento, no se considerará la prórroga a que se refiere el inciso tercero del artículo 36 si el impuesto no se pagare oportunamente.
 
 El contribuyente estará afecto, además, a un interés penal del uno y medio por ciento mensual por cada mes o fracción de mes, en caso de mora en el pago del todo o de la parte que adeudare de cualquier clase de impuestos y contribuciones. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso primero.
 
@@ -494,19 +496,15 @@ El Director Regional podrá, a su juicio exclusivo, condonar, sin la limitación
 
 ### Párrafo 3°
 
-Intereses en caso de devolución
+Reajustes e intereses en caso de devolución o imputación
 
 #### Artículo 57
 
-Las cantidades pagadas en exceso a consecuencia de error de los Servicios de Impuestos Internos o de Tesorería a título de impuestos, reajustes, intereses o sanciones, que sean ordenadas devolver, se restituirán reajustadas en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el segundo mes que precede al de su entero en arcas fiscales y el segundo mes anterior a la fecha de la respectiva resolución que ordena su devolución y pago. Asimismo, cuando los tributos, intereses y sanciones se hayan debido pagar en virtud de una reliquidación o de una liquidación de oficio practicada por el Servicio y reclamada por el contribuyente, serán devueltas, además, con intereses del medio por ciento mensual por cada mes completo, contado desde su entero en arcas fiscales o desde la fecha de la reclamación si ésta fuere posterior.
-
-Si el pago excesivo de las referidas cantidades que sean ordenadas devolver por el Servicio provienen de errores del contribuyente, se reajustarán sólo si hubieren transcurrido más de sesenta días entre las fechas de la solicitud y de la resolución que ordena la devolución y pago.
-
-Este reajuste se calculará de acuerdo a la variación experimentada por el índice de precios al consumidor desde la fecha de la petición y los dos meses que preceden a la resolución que ordena la devolución y pago.
+Toda suma que se ordene devolver o imputar por los Servicios de Impuestos Internos o de Tesorería por haber sido ingresada en arcas fiscales indebidamente, en exceso, o doblemente, a título de impuestos, reajustes, intereses o sanciones, se restituirá o imputará reajustada en el mismo porcentaje de variación que haya experimentado el índice de precios al consumidor en el período comprendido entre el último día del segundo mes que precede al de su ingreso en arcas fiscales y el último día del segundo mes anterior a la fecha en que la Tesorería efectúe el pago o imputación, según el caso. Asimismo, cuando los tributos, reajustes, intereses y sanciones se hayan debido pagar en virtud de una reliquidación o de una liquidación de oficio practicada por el Servicio y reclamada por el contribuyente, serán devueltos, además, con intereses del medio por ciento mensual por cada mes completo, contado desde su entero en arcas fiscales.
 
 #### Artículo 58
 
-Los intereses que deba pagar el Fisco se liquidarán y pagarán por la tesorería correspondiente al momento de la devolución, de conformidad a la resolución que dicte el Director Regional, según lo dispuesto en el N° 9 del artículo 6°.
+Los reajustes o intereses que deba pagar o imputar el Fisco se liquidarán por la Tesorería correspondiente a la fecha de efectuar su devolución o imputación, según el caso, de conformidad a la resolución respectiva.
 
 ## Título IV
 
@@ -806,31 +804,31 @@ De los contribuyentes y otros obligados
 
 Las siguientes infracciones a las disposiciones tributarias serán sancionadas en la forma que a continuación se indica:
 
-1°.- El retardo u omisión en la presentación de declaraciones, informes o solicitudes de inscripciones en roles o registros obligatorios, que no constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de un uno por ciento al cinco por ciento de una unidad tributaria anual.
+1°.- El retardo u omisión en la presentación de declaraciones, informes o solicitudes de inscripciones en roles o registros obligatorios, que no constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de un cinco por ciento a un treinta y cinco por ciento de una unidad tributaria anual.
 
 2°.- El retardo u omisión en la presentación de declaraciones o informes, que constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de diez por ciento de los impuestos que resulten de la liquidación, siempre que dicho retardo u omisión no sea superior a cinco meses. Pasado este plazo la multa indicada se aumentará en un dos por ciento por cada mes o fracción de mes de retardo, no pudiendo exceder el total de ella del veinte por ciento de los impuestos adeudados.
 
 3°.- La declaración incompleta o errónea, la omisión de balances o documentos anexos a la declaración o la presentación incompleta de éstos que puedan inducir a la liquidación de un impuesto inferior al que corresponda, a menos que el contribuyente pruebe haber empleado la debida diligencia, con multa del cinco por ciento al veinte por ciento de las diferencias de impuesto que resultaren.
 
-4°.- Las declaraciones maliciosamente incompletas o falsas que puedan inducir a la liquidación de un impuesto inferior al que corresponda o la omisión maliciosa en los libros de contabilidad de los asientos relativos a las mercaderías adquiridas, enajenadas o permutadas o a las demás operaciones gravadas, la adulteración de balances o inventarios o la presentación de éstos dolosamente falseados, el uso de boletas o facturas ya utilizadas en operaciones anteriores, o el empleo de otros procedimientos dolosos encaminados a ocultar o desfigurar el verdadero monto de las operaciones realizadas o a burlar el impuesto, con multa del cuarenta por ciento al doscientos por ciento del valor del tributo eludido y con presidio o relegación menores en sus grados medios a máximos.
+4°.- Las declaraciones maliciosamente incompletas o falsas que puedan inducir a la liquidación de un impuesto inferior al que corresponda o la omisión maliciosa en los libros de contabilidad de los asientos relativos a las mercaderías adquiridas, enajenadas o permutadas o a las demás operaciones gravadas, la adulteración de balances o inventarios o la presentación de éstos dolosamente falseados, el uso de boletas o facturas ya utilizadas en operaciones anteriores, o el empleo de otros procedimientos dolosos encaminados a ocultar o desfigurar el verdadero monto de las operaciones realizadas o a burlar el impuesto, con multa del cuarenta por ciento al doscientos por ciento del valor del tributo eludido y con presidio menor en sus grados medio a máximo.
 
 Las mismas penas se aplicarán a los contribuyentes afectos al Impuesto a las Ventas y Servicios que realicen cualquier maniobra tendiente a desfigurar el verdadero monto de los créditos que tenga derecho a hacer valer.
 
-5°.- La omisión maliciosa de declaraciones exigidas por las leyes tributarias para la determinación o liquidación de un impuesto, en que incurran el contribuyente o su representante, y los gerentes y administradores de personas jurídicas o los socios que tengan el uso de la razón social, con multa del cuarenta al doscientos por ciento del impuesto que se trata de eludir y con presidio menor en cualquiera de sus grados.
+5°.- La omisión maliciosa de declaraciones exigidas por las leyes tributarias para la determinación o liquidación de un impuesto, en que incurran el contribuyente o su representante, y los gerentes y administradores de personas jurídicas o los socios que tengan el uso de la razón social, con multa del cuarenta al doscientos por ciento del impuesto que se trata de eludir y con presidio menor en sus grados medio a máximo.
 
-6°.- La no exhibición de libros de contabilidad o de libros auxiliares y otros documentos exigidos por la Dirección Regional de acuerdo con las disposiciones legales, la oposición al examen de los mismos o a la inspección de establecimientos de comercio, agrícolas, industriales o minerales, o el acto de entrabar en cualquier forma la fiscalización ejercida en conformidad a la ley, con multa del uno por ciento al cincuenta por ciento de una unidad tributaria anual.
+6°.- La no exhibición de libros de contabilidad o de libros auxiliares y otros documentos exigidos por la Dirección Regional de acuerdo con las disposiciones legales, la oposición al examen de los mismos o a la inspección de establecimientos de comercio, agrícolas, industriales o minerales, o el acto de entrabar en cualquier forma la fiscalización ejercida en conformidad a la ley, con multa de un cinco por ciento a un cincuenta por ciento de una unidad tributaria anual.
 
-7°.- El hecho de no llevar la contabilidad o los libros auxiliares exigidos por la Dirección Regional de acuerdo con las disposiciones legales, o de mantenerlos atrasados, o de llevarlos en forma distinta a la ordenada o autorizada por la ley, y siempre que no se dé cumplimiento a las obligaciones respectivas dentro del plazo que señale el Servicio, que no podrá ser inferior a diez días, con multa de un uno por ciento al siete por ciento de una unidad tributaria anual.
+7°.- El hecho de no llevar la contabilidad o los libros auxiliares exigidos por la Dirección Regional de acuerdo con las disposiciones legales, o de mantenerlos atrasados, o de llevarlos en forma distinta a la ordenada o autorizada por la ley, y siempre que no se dé cumplimiento a las obligaciones respectivas dentro del plazo que señale el Servicio, que no podrá ser inferior a diez días, con multa de un cinco por ciento al cincuenta por ciento de una unidad tributaria anual.
 
-8°.- El comercio ejercido a sabiendas sobre mercaderías, valores o especies de cualquiera naturaleza sin que se hayan cumplido las exigencias legales relativas a la declaración y pago de los impuestos que graven su producción o comercio, con multa del cuarenta por ciento al doscientos por ciento de los impuestos eludidos y con relegación menor en su grado mínimo. La reincidencia será sancionada con pena de presidio menor en su grado medio.
+8°.- El comercio ejercido a sabiendas sobre mercaderías, valores o especies de cualquiera naturaleza sin que se hayan cumplido las exigencias legales relativas a la declaración y pago de los impuestos que graven su producción o comercio, con multa del cuarenta por ciento al doscientos por ciento de los impuestos eludidos y con presidio o relegación menores en sus grados mínimo o medio. La reincidencia será sancionada con pena de presidio menor en sus grados medio a máximo.
 
-9°.- El ejercicio efectivamente clandestino del comercio o de la industria, con multa del veinte al ciento por ciento de una unidad tributaria anual y con relegación menor en su grado mínimo, y tratándose de la fabricación y comercio efectivamente clandestino de alcoholes y bebidas alcohólicas, además, con el comiso de los productos e instalaciones de fabricación y envases respectivos.
+9°.- El ejercicio efectivamente clandestino del comercio o de la industria con multa del treinta por ciento al doscientos por ciento de una unidad tributaria anual y con presidio o relegación menores en sus grados mínimo a medio y, además, con el comiso de los productos en instalaciones de fabricación y envases respectivos.
 
-10°.- El no otorgamiento de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas sin el timbre fijo correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de un uno por ciento al doscientos por ciento de una unidad tributaria anual.
+10°.- El no otorgamiento de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas sin el timbre fijo correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa del doscientos por ciento del monto de la operación, con mínimo de una unidad tributaria mensual.
 
 En el caso de las infracciones señaladas en el inciso primero éstas podrán ser, además sancionadas a juicio exclusivo del Director Regional, con clausura de hasta veinte días del establecimiento o sucursal en que se hubiere cometido la infracción.
 
-Cuando el contribuyente haya incurrido en forma reiterada en las infracciones correspondientes será sancionado, además, con reclusión o relegación menores en sus grados mínimos a medios. Para estos efectos, se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a un año.
+La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menores en su grado medio. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a un año.
 
 Para los efectos de aplicar la clausura, el Servicio podrá requerir el auxilio de la fuerza pública, la que será concedida sin ningún trámite previo por el Cuerpo de Carabineros, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario. En todo caso, se pondrán sellos oficiales y carteles en los establecimientos clausurados.
 
@@ -840,17 +838,17 @@ En los casos de clausura, el infractor deberá pagar a sus dependientes las corr
 
 11°.- El retardo en el pago de impuestos sujetos a retención o recargo, con multa del diez por ciento de los impuestos adeudados.
 
-12°.- La reapertura de un establecimiento comercial o industrial o de la sección que corresponda, con violación de una clausura impuesta por el Servicio, con multa del dos por ciento al setenta por ciento de una unidad tributaria anual y con reclusión o relegación menores en sus grados mínimos a medios.
+12°.- La reapertura de un establecimiento comercial o industrial o de la sección que corresponda, con violación de una clausura impuesta por el Servicio, con multa del veinte por ciento al cien por ciento de una unidad tributaria anual y con reclusión o relegación menores en sus grados mínimos a medios.
 
-13°.- La destrucción o alteración de los sellos o cerraduras puestos por el Servicio, o la realización de cualquiera otra operación destinada a desvirtuar la oposición de sello o cerraduras, con multa de hasta una unidad tributaria anual y con presidio menor en sus grados mínimos a medio.
+13°.- La destrucción o alteración de los sellos o cerraduras puestos por el Servicio, o la realización de cualquiera otra operación destinada a desvirtuar la oposición de sello o cerraduras, con multa del cincuenta por ciento al doscientos por ciento de una unidad tributaria anual y con presidio menor en sus grados mínimos a medio.
 
 Salvo prueba en contrario, en los casos del inciso precedente se presume la responsabilidad del contribuyente y, tratándose de personas jurídicas, de su representante legal.
 
-14°.- La sustracción, ocultación o enajenación de especies que queden retenidas en poder del presunto infractor, en caso de que se hayan adoptado medidas conservativas, con multa de hasta una unidad tributaria anual y con presidio menor en sus grados mínimo a medio.
+14°.- La sustracción, ocultación o enajenación de especies que queden retenidas en poder del presunto infractor, en caso de que se hayan adoptado medidas conservativas, con multa del cincuenta por ciento al doscientos por ciento de una unidad tributaria anual y con presidio menor en sus grados mínimo a medio.
 
 La misma sanción se aplicará al que impidiere en forma ilegítima el cumplimiento de la sentencia que ordene el comiso.
 
-15°.- El incumplimiento de cualquiera de las obligaciones establecidas en los artículos 34° y 60° inciso penúltimo, con una multa del 5% al 100% de unidad tributaria anual.
+15°.- El incumplimiento de cualquiera de las obligaciones establecidas en los artículos 34° y 60° inciso penúltimo, con una multa del veinte por ciento al cien por ciento de una unidad tributaria anual.
 
 16°.- La pérdida o inutilización de los libros de contabilidad y documentación relacionada con las actividades afectas a cualquier impuesto, con multa del 10% al 20% del capital efectivo, a menos que el contribuyente cumpla con los siguientes requisitos:
 
@@ -872,7 +870,7 @@ c) Los alcoholes y bebidas alcohólicas cuyo origen o procedencia no puedan just
 
 d) Los licores y bebidas alcohólicas que se vendan para el consumo embotellados, que sean encontrados fuera de las fábricas o establecimientos envasadores sin las fajas de control correspondiente o con fajas que hayan sido adulteradas, falsificadas o que no cumplan con los requisitos legales.
 
-Se aplicará al infractor, además, y sin perjuicio del pago del tributo que proceda, una multa de un uno por ciento al doscientos por ciento de una unidad tributaria anual.
+Se aplicará al infractor, además, y sin perjuicio del pago del tributo que proceda, una multa de un diez por ciento al doscientos por ciento de una unidad tributaria anual.
 
 La adulteración y la falsificación a que se refieren las letras b) y d) de este número serán sancionadas, además, con presidio menor en su grado medio.
 
@@ -954,7 +952,7 @@ Las sanciones pecuniarias podrán ser remitidas, rebajadas o suspendidas, a juic
 
 #### Artículo 107
 
-Las sanciones de cualquiera naturaleza y los apremios se aplicarán dentro de los márgenes que correspondan, tomando en consideración:
+Las sanciones que el Servicio imponga se aplicarán dentro de los márgenes que corresponda, tomando en consideración:
 
 1°.- La calidad de reincidente en infracción de la misma especie.
 
@@ -1132,7 +1130,7 @@ La Dirección Regional llevará los autos en la forma ordenada en los artículos
 
 #### Artículo 131
 
-Los plazos de días que se establecen en este Libro comprenderán sólo días hábiles, incluyéndose entre los inhábiles los del feriado judicial, a que se refiere el artículo 313° del Código Orgánico de Tribunales.
+Los plazos de días que se establecen en este Libro comprenderán sólo días hábiles. No se considerarán inhábiles para tales efectos ni para practicar las actuaciones y notificaciones que procedan, ni para emitir pronunciamientos, los días del feriado judicial a que se refiere el artículo 313 del Código Orgánico de Tribunales, en cuanto todos ellos deban cumplirse por o ante el Servicio.
 
 #### Artículo 132
 
@@ -1268,7 +1266,7 @@ Se sujetarán asimismo al procedimiento de este párrafo, los reclamos que deduj
 
 #### Artículo 151
 
-La sentencia se notificará en forma extractada por medio de avisos. Además se remitirá al reclamante carta certificada dándole a conocer la dictación del fallo, dejándose constancia del envío en los autos. Con todo, la falta de dicha constancia o la omisión o extravío de la carta no invalidará la notificación.
+La sentencia se notificará en forma extractada mediante carta certificada dirigida al domicilio señalado por el reclamante en su presentación, dejándose constancia de su envío en el expediente.
 
 #### Artículo 152
 
@@ -1404,7 +1402,13 @@ En todas aquellas materias no sujetas a disposiciones especiales del presente C�
 
 a) Las denuncias o querellas que se presentaren a los Tribunales de Justicia para iniciar acción criminal contra los contribuyentes con el fin de perseguir su responsabilidad penal, no requerirán del trámite de ratificación, sirviendo en estos casos de suficiente confirmación la denuncia o querella formulada por el Servicio o el Consejo de Defensa del Estado;
 
-b) El Juez sumariante dispondrá las medidas de investigación y las llevará a cabo hasta la conclusión del sumario, en el plazo de ciento veinte días. Sólo por resolución fundada, que comunicará a la Corte de Apelaciones respectiva, podrá el Juez prorrogar dicho término por una sola vez;
+b) El Juez sumariante dispondrá las medidas de investigación y las llevará a cabo hasta la conclusión del sumario, en el plazo de ciento veinte días. Sólo por resolución fundada, que comunicará a la Corte de Apelaciones respectiva, podrá el Juez prorrogar dicho término por una sola vez.
+
+En la declaración indagatoria de los querellados el juez deberá interrogarlos sobre el contenido completo de la querella, exhibiendo al interrogado los libros y documentos, para su reconocimiento.
+
+En las diligencias a que se refiere el artículo 52 del Código de Procedimiento Penal, el Juez dispondrá la preferencia con que la autoridad o Servicio que corresponda deba cumplirlas.
+
+La misma regla se aplicará respecto de las órdenes de detención que expida el Tribunal.
 
 c) Las actuaciones del sumario no tendrán el carácter de secretas para el denunciante o querellante. El tribunal correspondiente facilitará al querellante la obtención de copia simple de todas las actuaciones que se practiquen, sin formalidad alguna ni resolución escrita;
 
@@ -1412,9 +1416,9 @@ d) El Director de Impuestos Internos prestará declaración por medio de informe
 
 e) Los informes contables emitidos por los funcionarios del Servicio de Impuestos Internos que realizaron la investigación administrativa del delito tributario, tendrán, para todos los efectos legales, el valor de informe de peritos.
 
-Las partes podrán designar, a su costa, peritos adjuntos en materias contables o de otra índole, los que deberán evacuar sus informes en el plazo de veinte días, pudiendo éste ser ampliado a veinte días más por una sola vez, a petición de los peritos y por resolución fundada del Juez de la causa. Si dentro de los plazos indicados los informes no fueren emitidos, el Tribunal procederá sin ellos. Iguales normas se aplicarán respecto de los peritos que el Tribunal de oficio designe;
+Las partes podrán designar, a su costa, peritos adjuntos en materias contables o de otra índole, los que deberán evacuar sus informes en el plazo de veinte días, pudiendo éste ser ampliado a veinte días más por una sola vez, a petición de los peritos y por resolución fundada del Juez de la causa. Transcurridos los plazos sin que se hayan evacuado los informes, quedará ipso facto sin efecto la designación del perito sin necesidad de requerimiento previo o resolución del Tribunal. Iguales normas se aplicarán respecto de los peritos que el Tribunal de oficio designe.
 
-f) Además de las circunstancias indicadas en el artículo 368 del Código de Procedimiento Penal, el Juez tomará en consideración, para determinar la cuantía de la fianza la estimación provisional que de los tributos evadidos haya hecho el Servicio de Impuestos Internos, no pudiendo ser inferior dicha fianza al 10% del monto de los impuestos estimados;
+f) Cuando proceda la excarcelación, el Juez fijará el monto de la fianza en una suma no inferior al 10% de los impuestos evadidos, reajustados en la forma prevista en el artículo 53, y de acuerdo a la estimación que de ellos se haga por el Servicio de Impuestos Internos. La excarcelación se otorgará y la fianza se rendirá de acuerdo a los incisos segundo y tercero del artículo 361 del Código de Procedimiento Penal, cualquiera que sea la pena asignada al delito;
 
 g) Para los efectos previstos en los artículos 380 y siguientes del Código de Procedimiento Penal, corresponderá en primer término al querellante el señalamiento de los bienes sobre los cuales ha de recaer el embargo;
 
@@ -1426,7 +1430,9 @@ Concedido el recurso de apelación, se elevarán los autos al Tribunal de segund
 
 Cualquiera que sea el número de los querellados, sólo podrán ejercer por dos veces el derecho de suspender la vista de la causa y por una el de recusar.
 
-j) En los casos en que el Tribunal de Primera o de Segunda Instancia conceda el beneficio de la remisión condicional de la pena contemplada en la ley N° 7.821, modificada por la ley N° 17.642, establecerá en la sentencia, entre las condiciones que el reo deberá cumplir, la de satisfacer las costas y multas impuestas en la misma sentencia y los impuestos cuya evasión se haya acreditado en el juicio criminal, sin que en caso alguno pueda el Tribunal liberar de esta exigencia al reo a quien concede el aludido beneficio.
+j) Toda sentencia condenatoria de primera o de segunda instancia deberá establecer el monto de los impuestos cuya evasión se haya acreditado en el respectivo juicio criminal. La sentencia condenatoria podrá conceder el beneficio de la remisión condicional de la pena y el reo acogerse a dicho beneficio si además de dar cumplimiento a las exigencias contenidas en los números 1), 2) y 3) de la ley 7.821 modificada por la ley 17.642, se obligue a pagar dentro de seis meses de ejecutoriada la sentencia, la multa y costas de la causa y los impuestos adeudados. El pago de tales impuestos deberá efectuarse en su valor reajustado hasta la fecha del pago efectivo, con más sus respectivos intereses.
+
+En el evento de transcurrir el plazo indicado en el inciso anterior, sin que se haya acreditado en el proceso respectivo, el pago de la multa, costas, impuestos e intereses adeudados o la suscripción de un convenio conforme a lo dispuesto en el artículo 192, quedará sin efecto ipso facto la concesión del beneficio y el Juez, de oficio y sin más trámite, dispondrá la orden de detención respectiva para el ingreso del reo al establecimiento en que ha de cumplir la pena primitiva de libertad establecida en la sentencia.
 
 #### Artículo 164
 
@@ -1702,9 +1708,9 @@ Los funcionarios que puedan contribuir, en razón de sus cargos, al esclarecimie
 
 El Tesorero General de la República podrá declarar incobrables los impuestos o contribuciones morosos que se hubieren girado, que correspondan a las siguientes deudas:
 
-1°.- Las deudas semestrales de monto no superior a un cinco por mil de una unidad tributaria anual, siempre que hubiere transcurrido más de un semestre desde la fecha en que se hubieren hecho exigibles.
+1°.- Las deudas semestrales de monto no superior al 10% de una unidad tributaria mensual, siempre que hubiere transcurrido más de un semestre desde la fecha en que se hubieren hecho exigibles.
 
-Las de un monto superior a un cinco por mil de una unidad tributaria anual, siempre que reúnan los siguientes requisitos:
+Las de un monto superior al 10% de una unidad tributaria mensual, siempre que reúnan los siguientes requisitos:
 
 a) Que hayan transcurrido dos años desde la fecha en que se hayan hecho exigibles;
 
