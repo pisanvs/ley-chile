@@ -1,0 +1,87 @@
+NORMALIZA OPERACIONES COMERCIALES DE APARATOS DE TELEVISION
+
+Santiago, 17 de Diciembre de 1973.- Hoy se decretó lo que sigue:
+
+Núm. 210.- Considerando:
+
+1°.- Que los sistemas de administración de recursos pecuniarios para la adquisición de televisores por medio de agrupaciones de personas, denominadas Financieras o Administradoras, se han visto superados en su deseo de cumplir el objetivo para el cual fueron creados; esto es, permitir al consumidor mediante el esfuerzo de todos los integrantes del plan, adquirir televisores pagándolos en mayores mensualidades de las que normalmente otorga el comercio, afrontando también en conjunto sus variaciones de precios;
+
+2°.- Que la variación de los precios de los televisores, de acuerdo con sus costos reales, ha significado que numerosas personas incorporadas en estas Financieras o Administradoras hayan visto alejarse sus posibilidades de adquirirlos, dado que en su mayoría son personas de escasos recursos.
+
+3°.- Que siendo la preocupación fundamental de la Junta de Gobierno elevar el nivel de vida de los sectores más necesitados de la población, es necesario y urgente buscar una solución al problema creado por las ventas de televisores que al 12 de Septiembre tuvieren pendiente su entrega o el pago de alguna de sus cuotas, y
+
+Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, la Junta de Gobierno viene en dictar el siguiente:
+
+Decreto ley:
+
+#### Artículo 1°
+
+Para los efectos de este decreto ley se establecen las siguientes definiciones:
+
+a).- Fabricante: Las Industrias dedicadas principal o secundariamente a la producción; fabricación o armaduría de aparatos de televisión:
+
+b).- Distribuidor: las personas naturales o jurídicas que en virtud de contratos, acuerdos, o cualquier otro acto jurídico con el fabricante, se encarga de la colocación o venta de los productos de éste;
+
+c).- Financieras o Administradoras: Todas aquellas organizaciones que en virtud del esfuerzo colectivo de sus miembros tengan por objeto adquirir televisores para sus asociados.
+
+d).- Comprador o beneficiario: Todas las personas naturales o jurídicas que pagaron al fabricante, distribuidor o financiera la cantidad de dinero o cuotas suficientes para adquirir un televisor a los precios que éstos tenían a la fecha del entero del pago, de tal manera que sólo faltaba la entrega de ellos.
+
+#### Artículo 2°
+
+Los fabricantes deberán dentro del plazo contado desde la fecha de la publicación de este decreto ley y que vence el 1° de Marzo de 1974, proceder a entregar a los distribuidores o financieras la cantidad de aparatos de televisión que éstos o aquéllos les hubieren pagado, de acuerdo con los precios oficiales vigentes a la fecha en que se efectuó el pago.
+
+#### Artículo 3°
+
+Dentro del mismo plazo indicado en el artículo anterior los distribuidores o financieras deberán entregar a los compradores o beneficiarios los receptores de televisión que éstos les hubieren pagado.
+
+#### Artículo 4°
+
+El plazo señalado en el artículo 2° y 3° podrá ser prorrogado por el Director de Industria y Comercio.
+
+#### Artículo 5°
+
+Las personas a quienes las financieras les hubieren entregado o adjudicado aparatos de televisión y tuvieren aún cuotas pendientes, deberán pagar la totalidad de ellas dentro del plazo señalado en el artículo 2° de acuerdo con el precio del televisor vigente a la fecha de entrega o adjudicación.
+
+#### Artículo 6°
+
+Las personas a quienes las financieras no les hubieren adjudicado aparatos de televisión y que estén al día en el pago de sus cuotas o cuyo atraso en dicho pago no les fuere imputable, tendrán derecho a optar a un aparato de televisión de las características de aquél de menor precio en el mercado o a la restitución de las cantidades que hubieren entregado.
+
+En caso que opten a un aparato de televisión, deberán pagar en el momento de la opción la suma que determine la Dirección de Industria y Comercio por concepto de saldo de precio.
+
+Si optaren por la restitución, las financieras deberán efectuarla, con el reajuste que fijará el delegado de la Dirección de Industria y Comercio, dentro del plazo señalado en el artículo 2° y de acuerdo con la prioridad de que goce el comprador.
+
+#### Artículo 7°
+
+A la misma norma señalada en el artículo anterior quedarán sujetos los fabricantes y los distribuidores respecto de los compradores o beneficiarios que no hubieren pagado totalmente el valor de los televisores de acuerdo con el precio oficial que ellos tenían a la fecha de la compraventa.
+
+#### Artículo 8
+
+o.- Los contratos de compraventa y cualquier otro acto jurídico que sea necesario realizar, y las facturas, recibos y todo otro documento que se expida para el cumplimiento de las disposiciones del presente decreto ley, estarán exentos de todos los impuestos, tasas o derechos que actualmente les afecten.
+
+#### Artículo 9
+
+o.- Facúltase al Director de Industria y Comercio para designar delegados en los diversos establecimientos industriales, comerciales y financieras que operen en el giro de los aparatos de televisión, con el objeto de dar cumplimiento a las disposiciones del presente decreto ley; pudiendo dichos delegados revisar los contratos, guías, notas de pedido, solicitudes de adquisición, convenios o cualquier otro acto o documentación relativa a los fabricantes, distribuidores, financieras, administradoras, y adquirentes de televisores, respecto de los aparatos cuya entrega estaba pendiente al 12 de Septiembre de 1973.
+
+En uso de la facultad requerida, los delegados podrán modificar y/o dejar sin efecto total o parcialmente dichos convenios, actos o contratos, o establecer la forma en que deban cumplirse, pudiendo al efecto fijar precios, plazos, condiciones o cualquier otra modalidad, entre ellas autorizar a los fabricantes, distribuidores o financieras para entregar a los beneficiarios o compradores, aparatos de televisión diferentes de los inicialmente convenidos; asimismo, tendrán las facultades administrativas, legales, y atribuciones que el Estatuto Social de las Distribuidoras o financieras y la legislación vigente conceden a su gerente general y o a su representante legal.
+
+#### Artículo 10
+
+o.- El Director de Industria y Comercio o sus delegados deberán hacer las denuncias correspondientes para la persecución de los delitos que pudieren haberse cometido con las operaciones comerciales de venta de aparatos de televisión, sin perjuicio de la sanción que proceda por infracción a la legislación económica vigente.
+
+Asimismo el Director quedará facultado para denunciar ante la Justicia del Crimen a los fabricantes, distribuidores o financieras que dolosamente no cumplan con la obligación estipulada en los artículos 2°, 3° y 6° del presente decreto ley. Este incumplimiento doloso será sancionado con la pena de presidio menor en cualquiera de sus grados.
+
+#### Artículo 11°
+
+Las Municipalidades sólo podrán otorgar patente municipal a las personas naturales o jurídicas que la soliciten para las referidas financieras o administradoras, cuando la Dirección de Industria y Comercio en forma previa y mediante Resolución fundada autorice su funcionamiento.
+
+#### Artículo 12
+
+o- El Director de Industria y Comercio queda facultado para establecer que los compradores o beneficiarios paguen una cuota adicional por los televisores adquiridos, cuando las cantidades que éstos hubieren pagado sean inferiores al 50% del precio oficial actual de dichos aparatos.
+
+El Director de Industria y Comercio deberá fijar dicha cuota adicional considerando sólo el monto de lo pagado por el beneficiario en relación con la clase de televisión adquirido, sin ninguna otra discriminación.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Fernando Léniz Cerda, Ministro de Economía, Fomento y Reconstrucción.- Lorenzo Gotuzzo Borlando, Contralmirante, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.-
+
+Héctor Bórquez Rojas, Subsecretario de Economía, Fomento y Reconstrucción.
