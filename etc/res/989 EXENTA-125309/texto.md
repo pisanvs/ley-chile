@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A FELIPE TISSI REYES
+
+La VIII Dirección Regional Concepción del S.I.I., por resolución DRE08/Nº Ex-0989, de fecha 23 de septiembre de 1998, excepciona, a contar del 1º del mes siguiente al de esta publicación y hasta el 31 de julio de 1999, a don Felipe Tissi Reyes, Rut. Nº 3.291.161-7, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de Ganado Vivo, establecido en la resolución Nº Ex-2.379/98, de la Dirección Nacional, publicada en el Diario Oficial del día 24-04-98, modificada y complementada por resolución Nº Ex-3.785/98, publicada en el Diario Oficial del día 30-06-98. Consecuencialmente el(la) peticionario(a) excepcionado pasa a tener la calidad de Agente Retenedor del Impuesto al Valor Agregado en sus operaciones de ganado vivo.-
+
+Julio Salamé Heresi, Director Regional (S).
