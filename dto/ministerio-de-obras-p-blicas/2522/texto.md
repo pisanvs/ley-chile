@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.522, de 31 de agosto de 1999, se expropió el lote de terreno Nº57-C1, superficie 151,60 m², rol de avalúo 166-220, comuna de Colina, para la obra Camino Santiago - Colina - Los Andes, Sector A, A. Vespucio - By Pass Colina, Región Metropolitana y se acordó el valor de indemnización con su propietario Productos Termovinílicos Limitada, ascendente a la cantidad de $2.239.192.-
+
+Fiscal del Ministerio de Obras Públicas.
