@@ -1,0 +1,17 @@
+DECRETO LEY N° 366, DE 1974 Autoriza a las empresas o sociedades que mantengan en sus activos monedas extranjeras, para liquidarlas libremente, en el plazo y forma que indica
+
+(Publicado en el "Diario Oficial" N° 28.803, de 16 de marzo de 1974)
+
+NUM. 366.- Santiago, 13 de marzo de 1974.- Vistos: lo dispuesto en el decreto ley 1, de 11 de septiembre de 1973, la Junta de Gobierno de la República de Chile ha resuelto dictar el siguiente
+
+DECRETO LEY:
+
+#### Artículo UNICO
+
+Autorízase a las empresas o sociedades que mantengan en sus activos monedas extranjeras debidamente contabilizadas, para liquidarlas libremente, antes del 31 de marzo de 1974, a través de las instituciones autorizadas, al tipo de cambio del mercado bancario.
+
+Las diferencias en moneda corriente que se produzcan para la empresa o sociedad entre el valor de la adquisición o contabilización de las divisas y el de liquidación de las mismas, estará exenta del impuesto a la renta, exención que beneficiará exclusivamente a la empresa o sociedad.
+
+Lo establecido en el inciso precedente se aplicará también a aquellas empresas o sociedades que entre el 1° de octubre de 1973 y el 31 de marzo de 1974 hubieren liquidado al tipo de cambio del mercado bancario, divisas contabilizadas que se mantenían con infracción de las normas de liquidación establecidas en la Ley de Cambios Internacionales o en los acuerdos del Banco Central de Chile.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Lorenzo Gotuzzo.
