@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.130, de 30 de octubre de 1998 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nº 136 A y 136 B para la obra Concesión Internacional Ruta 5, Tramo Temuco -
+
+Río Bueno, Km. 748.103,70 al 752.000,00, Novena Región, que figuran a nombre de Saldías Higueras José Miguel, rol de avalúo 367-4, comuna de Loncoche, superficies 39,1 y 3.730,4 m2 respectivamente. La comisión de peritos integrada por los señores, Luis Javier Donoso Moreno, Enrique Guillermo Smith Mason y la señora Carmen Luz Palacios Contreras, fijó con fecha 6 de julio de 1998, el valor provisional de las indemnizaciones en las cantidades de $ 179.550 para el lote Nº 136 A y $ 2.112.200 para el lote Nº 136 B respectivamente.- Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
