@@ -1,0 +1,3 @@
+Por resolución Nº 557, de 9 de marzo de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.461 de 1996 de esta Subsecretaría, en cuanto autorizó a PESQUERA ARAUCANIA S.A., para operar con la nave ''Hakon'' en el litoral de las Regiones III y IV sobre los recursos Anchoveta y Sardina española.
+
+Valparaíso, 9 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
