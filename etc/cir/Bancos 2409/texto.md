@@ -37540,6 +37540,8 @@ Por otra parte, las operaciones de esta especie, realizadas con terceros fueron 
 
 > **Nota.** La letra F) de la Circular 2574, SFIF, promulgada el 10.10.1990, modifica el presente Anexo, estableciendo un nuevo texto para el modelo de la Nota 3, en la sección relativa a los créditos otorgados a partes relacionadas con la institución.
 
+> **Nota.** NOTA 1 Circular 2580, SFIF, promulgada el 06.12.1990, modifica el presente Anexo, en la sección relativa a los créditos otorgados a partes relacionadas con la institución.
+
 CAPITULO 18-3 (Bancos y Financieras)
 
 MATERIA:
