@@ -1,0 +1,155 @@
+OTORGA BENEFICIOS POR ACCIDENTES Y ENFERMEDADES A LOS MIEMBROS DE LOS CUERPOS DE BOMBEROS
+
+Santiago, 31 de Marzo de 1977.-
+
+La H. Junta de Gobierno de la República de Chile ha acordado hoy lo que sigue:
+
+Núm. 1.757.- Visto: lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974, y 991, de 1976, y
+
+Considerando:
+
+Que la ley N° 6.935 y sus modificaciones establecieron normas especiales para regular las indemnizaciones y beneficios que deben otorgarse a los miembros de los Cuerpos de Bomberos por los accidentes que sufran y las enfermedades que contraigan en actos de servicio;
+
+Que es deseo del Supremo Gobierno otorgar seguridad económica a estos beneméritos servidores públicos y a sus familias, en estas contingencias, como un reconocimiento de su espíritu de sacrificio y abnegación para con la comunidad toda,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Los accidentes que sufran y las enfermedades que contraigan los miembros de los Cuerpos de Bomberos, en actos de servicio, con ocasión de concurrir a ellos o en el desarrollo de labores que tengan relación directa con la institución bomberil, darán derecho a las indemnizaciones y beneficios que contempla el presente decreto ley.
+
+Las circunstancias de hecho señaladas en el inciso precedente serán certificadas por Carabineros de Chile. La naturaleza de la incapacidad producida y de la enfermedad contraída, según corresponda, serán comprobadas y certificadas por la Comisión de Medicina Preventiva e Invalidez del Servicio de Salud del territorio administrativo en que ocurriere el siniestro o acto que originare la prestación reclamada. La certificación deberá contener y determinar la naturaleza de la incapacidad producida o de la enfermedad contraída, calificando la incapacidad como temporal o permanente y determinando, en cada caso, el grado o porcentaje de incapacidad física o intelectual que afecte al accidentado o enfermo. Sin perjuicio de lo anterior, y en tanto se produzca la certificación señalada precedentemente, para obtener los beneficios que otorga este decreto ley por incapacidad temporal bastará un certificado otorgado por el médico tratante.
+
+Los accidentes y las enfermedades a que se refieren los incisos anteriores darán derecho a las siguientes indemnizaciones y beneficios:
+
+a) Atención médica integral gratuita, incluidas las atenciones hospitalarias y quirúrgicas del accidentado o enfermo, hasta su alta definitiva.
+
+b) Un subsidio igual al promedio de las tres remuneraciones mensuales del accidentado o enfermo, correspondientes a los tres meses anteriores al accidente o enfermedad, hasta el monto de ocho ingresos mínimos mensuales, mientras dure la incapacidad temporal y hasta por el plazo de dos años. Tratándose de trabajadores o profesionales independientes, el subsidio será equivalente al ingreso promedio de los tres meses anteriores al accidente o enfermedad, acreditado mediante declaración jurada del interesado, no superior, en ningún caso, a ocho ingresos mínimos mensuales ni inferior a uno. En caso que el accidentado o enfermo estuviere cesante o acredite ser estudiante de la enseñanza media, técnica, especializada o superior, este subsidio será igual a un ingreso mínimo mensual.
+
+Para la percepción del subsidio de incapacidad temporal a que se refiere esta letra, los accidentados o enfermos deberán estar efectivamente imposibilitados de desempeñar sus trabajos o actividades laborales, durante el período que dure la incapacidad.
+
+c) A una renta vitalicia de 30 unidades de fomento, en caso de invalidez permanente del voluntario accidentado o enfermo, y que ésta significase una pérdida de su capacidad de trabajo, igual o superior a dos tercios. En caso que el voluntario presentara una invalidez que conlleve una pérdida de su capacidad de trabajo, inferior a los dos tercios, tendrá derecho a una renta vitalicia mensual, cuyo monto se calculará a prorrata del grado o porcentaje de incapacidad determinado, teniendo como base el monto de 30 unidades de fomento señalado precedentemente.
+
+La Superintendencia de Valores y Seguros, por un plazo de tres años, contado desde la fecha en que se dictaminó la invalidez pagará transitoriamente la pensión correspondiente. Transcurrido dicho plazo, el voluntario deberá someterse a un nuevo dictamen de incapacidad ante la respectiva Comisión de Medicina Preventiva e Invalidez, a fin de acreditar el grado y condición de invalidez de su afección. Este dictamen será considerado definitivo para los efectos del pago de la renta vitalicia a que se refiere esta letra.
+
+Luego de esta segunda acreditación de invalidez, y para efectos del pago de la renta vitalicia correspondiente, la Superintendencia de Valores y Seguros cotizará y contratará con alguna de las compañías de seguros de vida, autorizada para operar en el país, un seguro de renta vitalicia. Dicho seguro se contratará conforme al modelo de póliza que para este efecto determine la Superintendencia.
+
+d) En caso de muerte, el cónyuge sobreviviente y los hijos menores de 18 años, tendrán derecho a una renta vitalicia conjunta, equivalente a 25 unidades de fomento, con derecho a acrecer. Con todo, los hijos mayores de 18 años, que estuvieren impedidos de ejercer una profesión u oficio, por encontrarse absoluta o definitivamente incapacitados física o mentalmente, podrán seguir gozando de esta renta. Esta circunstancia de hecho deberá ser comprobada y certificada por la comisión a que se refiere el inciso segundo del artículo primero.
+
+Los hijos que hubieren cumplido 18 años, pero que tuvieren menos de 24 y que sigan cursos regulares en la enseñanza media, técnica, especializada o superior, podrán seguir gozando de esta renta hasta cumplir esta última edad.
+
+Si hubiere hijos menores y el cónyuge sobreviviente falleciere, la pensión establecida corresponderá íntegramente a dichos hijos, por partes iguales y con derecho a acrecer, cancelándose al tutor o curador cuya representación se acredite ante la Superintendencia de Valores y Seguros.
+
+Si hubiere hijos menores y la viuda contrajere nuevas nupcias, ésta tendrá derecho durante un año, a contar desde la fecha del matrimonio, al 40% de la renta que le hubiere correspondido de haber continuado en su estado de viudez, correspondiendo el resto a los hijos menores durante ese período y acreciendo dicho 40% a los mismos menores una vez transcurrido el plazo indicado.
+
+A falta de cónyuge sobreviviente e hijos, la pensión corresponderá íntegramente a los ascendientes y descendientes que hubieren vivido a expensas del fallecido, por partes iguales.
+
+El pago de la renta vitalicia por muerte del voluntario, se efectuará mediante la contratación de un seguro de renta vitalicia en una compañía de seguros de vida nacional. Corresponderá a la Superintendencia de Valores y Seguros cotizar y contratar dicho seguro, el que se contratará según el modelo de póliza que para este efecto dicho Servicio establecerá.
+
+En caso de fallecimiento del voluntario que estuviere percibiendo la indemnización señalada en la letra b) de este artículo, sus beneficiarios indicados en esta letra, tendrán derecho a percibir el monto del subsidio de incapacidad temporal del fallecido, por el tiempo que reste a dicho subsidio.
+
+En caso de fallecimiento del voluntario que se encontrase percibiendo la indemnización señalada en la letra c) del presente artículo, sus beneficiarios tendrán derecho a percibir en conjunto, una pensión equivalente a la renta vitalicia que recibía el causante, con tope del monto señalado en el párrafo primero de esta letra. En este último caso, si el voluntario se encontraba percibiendo su pensión de parte de la Superintendencia, corresponderá a este organismo, cotizar y contratar la renta vitalicia para sus beneficiarios.
+
+No obstante lo anterior, tratándose de voluntarios que se encuentren percibiendo las indemnizaciones de las letras b) o c) del presente artículo, y que, en este último caso, la pensión estuviera siendo pagada por la Superintendencia, si el fallecimiento se produjera a consecuencia de la enfermedad o accidente que originó dicha indemnización, sus beneficiarios tendrán derecho a percibir una renta vitalicia equivalente al monto señalado en el párrafo primero de esta letra.
+
+e) Al pago de los gastos de servicios funerarios y de sepultación, hasta por un monto máximo de por doce ingresos mínimos mensuales, el que se hará por la Superintendencia de Valores y Seguros.
+
+El pago se hará directamente a la empresa que haya realizado el servicio funerario o de sepultación, o a título de reembolso, a la persona o institución que se haya hecho cargo de dicho servicio, en ambos casos, previa presentación de las facturas o boletas correspondientes.
+
+Para los efectos de este decreto ley, se entenderá que son miembros de los Cuerpos de Bomberos los bomberos voluntarios o voluntarias, incluidos quienes tengan la calidad de honorarios, que actúen en siniestros, salvatajes o actos institucionales en el territorio nacional o fuera del país.
+
+> **Nota.** El Art. 2º del DL 2245, de 1978, declara interpretando el inciso primero del artículo 1º del presente decreto ley, que la expresión "miembros de los Cuerpos de Bomberos" debe entenderse referida a los bomberos voluntarios, incluidos los que tengan la calidad de honorarios, que deban actuar en los siniestros, salvatajes y demás obligaciones propias del servicio.
+
+> **Nota.** NOTA 1: El Art. 2º de la LEY 19798, publicada el 25.04.2002, dispuso que las modificaciones introducidas al presente artículo, comenzarán a regir a contar del primer día del mes siguiente al de su publicación.
+
+#### Artículo 2°
+
+Los beneficios que se otorgan no obstan para que sus beneficiarios perciban las bonificaciones o anticipos que se otorguen en general a los sectores público y privado, según corresponda, en cuanto sean compatibles con la calidad de accidentado o pensionado.
+
+Los subsidios y rentas se reajustarán de acuerdo a las modificaciones que experimente el ingreso mínimo mensual o la unidad de fomento, según corresponda.
+
+Para todos los efectos legales, las referencias al ingreso mínimo mensual en este decreto ley, deben entenderse hechas al ingreso mínimo que se emplea para fines remuneracionales.
+
+> **Nota.** El Art. 2º de la LEY 19798, publicada el 25.04.2002, dispuso que las modificaciones introducidas al presente artículo, comenzarán a regir a contar del primer día del mes siguiente al de su publicación.
+
+#### Artículo 3º
+
+Los beneficios que este decreto ley concede, serán de cargo de las entidades aseguradoras y mutualidades que cubran en Chile el riesgo de incendio, a prorrata de las primas directas en ese riesgo, en el semestre inmediatamente anterior a la fecha en que deban efectuarse ]os pagos. En caso de incumplimiento de esta obligación, la Superintendencia de Valores y Seguros podrá aplicar las sanciones establecidas en el artículo 27 del decreto ley Nº 3.538, de 1980, a las entidades aseguradoras y mutualidades infractoras.
+
+> **Nota.** El Art. 2º de la LEY 19798, publicada el 25.04.2002, dispuso que las modificaciones introducidas al presente artículo, comenzarán a regir a contar del primer día del mes siguiente al de su publicación.
+
+#### Artículo 4º
+
+La Superintendencia de Valores y Seguros cobrará a las entidades aseguradoras, en cada oportunidad, las cuotas de prorrateo; pagará los beneficios que concede este decreto ley; cotizará y contratará por cuenta de los voluntarios o sus beneficiarios, según corresponda, rentas vitalicias en compañías de seguros de vida, conforme lo señalado en las letras c) y d) del artículo 1º de este decreto ley, y proveerá a las instituciones que se mencionan en el artículo siguiente, de los fondos necesarios para los efectos contemplados en este decreto ley.
+
+La Superintendencia de Valores y Seguros establecerá la forma y oportunidad en que se deberá acreditar el cumplimiento de los requisitos para acceder a los beneficios contemplados en este decreto ley y podrá suspender el pago de éstos cuando determine, fehacientemente, el incumplimiento de tales requisitos. Para estos efectos, dicha Superintendencia dictará una norma de carácter general previa consulta a la Junta Nacional de Cuerpos de Bomberos de Chile, la que deberá ser publicada en el Diario Oficial.
+
+> **Nota.** El Art. 2º de la LEY 19798, publicada el 25.04.2002, dispuso que las modificaciones introducidas al presente artículo, comenzarán a regir a contar del primer día del mes siguiente al de su publicación.
+
+#### Artículo 5º
+
+La atención médica se hará a través de los establecimientos del sistema de los servicios de salud, de las mutualidades de empleadores de la ley Nº 16.744, de las Fuerzas Armadas y de Orden, en el Hospital Clínico José Joaquín Aguirre y en los hospitales clínicos universitarios, a elección del Superintendente del Cuerpo de Bomberos a que pertenezca el accidentado o enfermo, o de quien haga sus veces. Dicha atención se prestará en pensionados y en las condiciones que señale el médico que tenga a su cargo al accidentado o enfermo. En casos excepcionales, atendida la gravedad del accidentado o enfermo, la atención de urgencia podrá efectuarse en el centro asistencial más cercano.
+
+Si por calificación médica se determinare que las instituciones mencionadas no pueden asistir al enfermo o accidentado por falta de medios o por ser necesaria una atención especial, podrá prestarse ésta en la clínica particular que indique el médico tratante del respectivo establecimiento.
+
+Las facturas del establecimiento hospitalario o clínica podrán incluir para su pago el monto de los honorarios profesionales de los médicos y paramédicos que prestaron sus servicios al accidentado o enfermo. En caso de que así no fuere, la boleta profesional respectiva deberá ser visada por el Médico Jefe del establecimiento correspondiente.
+
+Los gastos de medicamentos, causados durante la hospitalización del accidentado o enfermo, de atención médica, de hospitalización o de intervención quirúrgica y aquellos que sean ocasionados con posterioridad, pero como consecuencia directa del accidente sufrido o enfermedad contraída, serán pagados por la Superintendencia de Valores y Seguros, debiendo enviarse la factura y la receta del médico tratante, visada por el Médico Jefe del establecimiento hospitalario o incluirse dichos gastos en la factura del hospital o clínica que tuvo a su cargo la atención del accidentado o enfermo. Con los mismos requisitos, la Superintendencia pagará los servicios prestados por personal paramédico al accidentado o enfermo, hasta el alta definitiva del mismo.
+
+Los gastos de traslado, hacia y desde el establecimiento médico que preste adecuada atención al voluntario o voluntaria que se encuentre en la situación prevista en el inciso primero del artículo 1° del presente decreto ley, cualquiera que sea el medio que se emplee, serán directamente pagados por la Superintendencia de Valores y Seguros, previa comprobación documentada de dichos gastos, como asimismo de la necesidad de ocupar el medio de movilización empleado. El pago podrá incluir, además, los gastos de traslado de hasta un acompañante del voluntario o voluntaria accidentado, y los de hospedaje y alimentación de dicho acompañante, hasta por un valor máximo diario de medio ingreso mínimo mensual, por un plazo no superior a quince días. En casos calificados, la Superintendencia podrá extenderlo a un período superior.
+
+Los establecimientos médicos que atiendan a los beneficiarios de este decreto ley no pedirán documentos en garantía, bastando la orden de atención emitida por el Cuerpo de Bomberos respectivo.
+
+En caso de lesiones permanentes o definitivas, el director del establecimiento, a petición del médico tratante, autorizará exámenes, recetas de medicamentos, controles, traslados y acciones médicas y procedimientos en general, a realizarse en forma periódica, por lapsos de hasta tres años, delegando en el médico tratante las visaciones respectivas.
+
+> **Nota.** El Art. 2º de la LEY 19798, publicada el 25.04.2002, dispuso que las modificaciones introducidas al presente artículo, comenzarán a regir a contar del primer día del mes siguiente al de su publicación.
+
+#### Artículo 6º
+
+Los beneficios que otorga este decreto ley se harán extensivos a la adquisición o reparación de aparatos ortopédicos o prótesis de cualquier naturaleza, bastones, sillas de ruedas, lentes y cualquier elemento rehabilitador que indique el médico tratante.
+
+> **Nota.** El Art. 2º de la LEY 19798, publicada el 25.04.2002, dispuso que las modificaciones introducidas al presente artículo, comenzarán a regir a contar del primer día del mes siguiente al de su publicación.
+
+#### Artículo 7º
+
+Los derechos otorgados por esta ley serán irrenunciables.
+
+#### Artículo 8º
+
+Los afectados por resoluciones adoptadas por la Superintendencia de Valores y Seguros o por la Comisión de Medicina Preventiva e Invalidez del servicio de salud correspondiente, podrán solicitar su reconsideración, sin perjuicio de apelar de ellas ante el superior jerárquico correspondiente.
+
+> **Nota.** El Art. 2º de la LEY 19798, publicada el 25.04.2002, dispuso que las modificaciones introducidas al presente artículo, comenzarán a regir a contar del primer día del mes siguiente al de su publicación.
+
+#### Artículo 9º
+
+Deróganse la ley 6.935 y todas sus modificaciones posteriores, como asimismo cualquier otra disposición legal o reglamentaria contraria a las normas que consagra el presente decreto ley.
+
+> **Nota.** El Art. 2º de la LEY 19798, publicada el 25.04.2002, dispuso que las modificaciones introducidas al presente artículo, comenzarán a regir a contar del primer día del mes siguiente al de su publicación.
+
+#### Artículo 1°
+
+Para los efectos del pago de la renta vitalicia a que se refiere la letra c) del artículo 1°, los actuales beneficiarios deberán presentar a la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, el certificado a que se refiere su inciso segundo, dentro del plazo de 30 días contado desde la publicación del presente decreto ley. Sin dicho certificado no se dará curso al pago de las pensiones correspondientes, en los nuevos términos establecidos en este decreto ley.
+
+En caso de no subsistir incapacidad alguna, las pensiones se entenderán irrevocablemente extinguidas por el solo ministerio de la ley.
+
+#### Artículo 2°
+
+La aplicación de las disposiciones del presente decreto ley no podrán significar disminución o término de los beneficios de que gozan actualmente las madres viudas o abandonadas por sus cónyuges, de voluntarios fallecidos en actos de servicio, en virtud de lo dispuesto en el artículo 36° de la ley 15.386.
+
+Ellos se calcularán y fiscalizarán de acuerdo al presente decreto ley y su determinación será hecha por la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio en forma inapelable.
+
+En caso de existir pensiones que se paguen paralelamente, parte a la viuda del voluntario fallecido y parte a la madre viuda o abandonada por su cónyuge, la cuota de la que fallezca acrecerá a la beneficiaria sobreviviente. No obstante, en caso de existir hijos menores del voluntario fallecido primará la norma del artículo 1° permanente letra d), inciso cuarto.
+
+#### Artículo 3°
+
+El monto de las pensiones que se establecen en el presente decreto ley se devengará a contar del 1° de enero de 1977, debiendo reliquidarse las pensiones vigentes a esa fecha conforme a lo dispuesto en este cuerpo legal, lo que se efectuará por la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio sin necesidad de solicitud de los interesados que a dicha fecha estén gozando de pensiones concedidas por la ley 6.935 o sus modificaciones posteriores.
+
+#### Artículo 4°
+
+Declárase que continuarán vigentes todas aquellas pensiones que para casos particulares se han concedido en sucesivos cuerpos legales que han modificado la ley 6.935, con la salvedad de que su nuevo monto se calculará a contar del 1° de enero de 1977, conforme a las disposiciones del presente decreto ley.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Patricio Carvajal.-
+
+César Benavides.
