@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.834, de 30 de agosto de 2000, y en base a la facultad otorgada por el artículo 105 del DFL. Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº2, para la ejecución de la obra Camino El Coigue-Purgatorio, Sector Puente San Jorge, Km. 0,00000 a Km. 0,10000, que figura a nombre de Suc. Jorge Neira Sáez, Rol de Avalúo 219-54, comuna de Santa Juana, VIII Región, superficie 761 m2. La Comisión de Peritos fijó con fecha 27 de diciembre de 1999, el valor provisional de la indemnización en la cantidad de $359.350.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
