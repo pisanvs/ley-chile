@@ -1,0 +1,3 @@
+Por decreto MOP Nº224, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº76, superficie 135 m², rol de avalúo 12-42, comuna de Río Hurtado, para la obra "Camino Ruta D-595; Ovalle - Hurtado, Sector Tranque Recoleta - Samo Alto, Tramo Km. 9.780,00 a Km. 31.840,00" y se acordó el valor de indemnización con su propietario Gonzalo Guerrero Jeraldo, ascendente a la cantidad de $288.500.-
+
+Fiscal del Ministerio de Obras Públicas.
