@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 876 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a las parcelas N°s. 1 a la 33, sitios N°s. 1 al 24 del Proyecto de Parcelación "Manantiales", formado por Predio "Santa Matilde" de la Comuna de Melipilla, Región Metropolitana. Los Derechos de Agua se extraen de los canales Culiprán y Cholqui derivados del Río Maipo.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
