@@ -1,0 +1,3 @@
+Por resolución Nº85, de 13 de enero de 2000, de esta Subsecretaría, declárase la caducidad de la resolución Nº1.556 de 1998, de esta Subsecretaría, que autorizó a Pesca y Servicios Maritimos Limitada, para operar una nave en construcción por sustitución de la nave ''Sirius Star'', en el área marítima de la I y II Regiones, respecto de los recursos hidrobiológicos Anchoveta, Sardina española, Jurel, Agujilla, Bacaladillo o mote, Bonito, Caballa y Cojinoba del norte.
+
+Valparaíso, 13 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
