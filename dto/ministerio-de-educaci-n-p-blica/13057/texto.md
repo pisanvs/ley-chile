@@ -10,23 +10,23 @@ MINISTRO DE EDUCACION
 
 MATERIA
 
-1.- Nombramiento en cualquier calidad, reincorporaciones o contrataciones del personal del Ministerio y servicios dependientes, en empleos que tengan asignados o se encuentren asimilados a las categorías de las Plantas Directivas, Profesionales y Técnicas, del Ministerio de Educación, con exclusión de las tres primeras y autorización para proveer las vacantes (artículo 74º, ley 15.575) respecto de este personal.
+1.- DEROGADO.
 
-2.- Contrataciones sobre la base de honorarios cuyo monto total sea igual o superior a 48 sueldos vitales mensuales, escala A) del departamento de Santiago o que correspondan a una suma mensual igual o superior a 4 sueldos vitales mensuales.
+2.- DEROGADO.
 
-3.- Petición y aceptación de renuncia, destitución, término anticipado del contrato, caducidad de nombramiento, declaración de vacancia de cargos y, en general, expiración de funciones del personal a que se refieren los Nos. 1 y 2.
+3.- DEROGADO.
 
-4.- Permutas que comprendan al personal señalado en el Nº 1, siempre que los permutantes sean funcionarios del mismo Ministerio. En caso contrario, se aplicarán las normas contenidas en el artículo 34º del DFL. 338, de 1960.
+4.- DEROGADO.
 
-5.- Determinación de las fianzas que debe rendir, en conformidad a las leyes y reglamentos vigentes, el personal señalado en el Nº 1, sin perjuicio de la intervención de la Contraloría General, en su caso.
+5.- DEROGADO.
 
-6.- Destinaciones contempladas en el artículo 35º inciso 2º del DFL. 338, de 1960, respecto de todo el personal del Ministerio y servicios dependientes, sin perjuicio, en este caso, de la firma del Ministro del Interior.
+6.- DEROGADO.
 
-7.- Comisiones de servicio y de estudio en el extranjero o como beneficiarios de becas (artículos 148º y 149º del DFL. 338 de 1960) del personal del Ministerio y de sus servicios dependientes, salvo las tres primeras categorías de las Plantas Directivas, Profesionales y Técnicas, sin perjuicio de las firmas de los Ministros de Hacienda y de Relaciones Exteriores, cuando proceda.
+7.- DEROGADO.
 
-8.- Comisiones de servicios, fuera del Ministerio y dentro del país, del personal de las categorías de las Plantas Directivas, Profesionales y Técnicas del Ministerio y servicios dependientes, con excepción de las tres primeras categorías.
+8.- DEROGADO.
 
-9.- Permisos sin goce de remuneraciones para trasladarse al extranjero del personal de las categorías de las Plantas Directivas, Profesionales y Técnicas del Ministerio y servicios dependientes (artículo 91º, inciso 3º, letra b), del DFL. 338, de 1960).
+9.- DEROGADO.
 
 10.- Nombramiento de Comisiones Asesoras; fijación y ampliación de los plazos para el cumplimiento de sus cometidos.
 
@@ -48,27 +48,27 @@ SUBSECRETARIO DE EDUCACION
 
 MATERIA
 
-1.- Nombramientos en cualquier calidad, reincorporaciones o contrataciones de funcionarios en empleos que tengan asignados o se encuentren asimilados a los grados de la Planta Directiva, Profesional y Técnica y de todo el personal de la Planta Administrativa, de la Secretaría y Administración General.
+1.- DEROGADO.
 
-2.- Autorización para proveer vacantes (artículo 74º ley 15.575), respecto del personal señalado en el Nº 1 de la Planta de Servicios de la Secretaría y Administración General.
+2.- DEROGADO.
 
-3.- Contrataciones sobre la base de honorarios cuyo monto total sea inferior a 48 sueldos vitales mensuales, escala A) del departamento de Santiago o que correspondan a una suma mensual inferior a 4 sueldos vitales mensuales.
+3.- DEROGADO.
 
-4.- Petición y aceptación de renuncia, destitución, término anticipado del contrato, caducidad del nombramiento, declaración de vacancia de cargos y, en general, expiración de funciones del personal a que se refieren los Nos. 1 y 3, cuando proceda.
+4.- DEROGADO.
 
-5.- Permutas que comprendan al personal antes señalado, siempre que los permutantes sean funcionarios del Ministerio. En caso contrario se aplicarán las normas contenidas en el artículo 34º del DFL. 338, de 1960.
+5.- DEROGADO.
 
-6.- Comisiones de servicio, fuera del Ministerio y dentro del país, del personal de los grados de las Plantas Directivas, Profesionales y Técnicas y de todo el personal de las Plantas Administrativas y de Servicios del Ministerio y Servicios dependientes.
+6.- DEROGADO.
 
-7.- Determinación de las fianzas que el personal dependiente de la Secretaría y Administración General, con excepción del de las categorías de la Planta Directiva, Profesional y Técnica, deberá rendir con arreglo a las leyes y reglamentos vigentes, sin perjuicio de la intervención de la Contraloría General, en su caso.
+7.- DEROGADO.
 
-8.- Permisos sin goce de remuneraciones para trasladarse al extranjero del personal de los grados de la Planta Directiva, Profesional y Técnica y de todo el personal de las Plantas Administrativas y de Servicios de la Secretaría y Administración General, (artículo 91º, inciso 3º, letra b) del DFL. 338, de 1960).
+8.- DEROGADO.
 
-9.- Permisos sin goce de remuneraciones, por motivos particulares, dentro del país, del personal de la Secretaría y Administración General (artículo 91, inciso 3º, letra a) del DFL. 338, de 1960).
+9.- DEROGADO.
 
-10.- Reconocimiento de servicios prestados en el Ejército, ley 11.133, del personal del Ministerio de Educación y Servicios dependientes.
+10.- DEROGADO.
 
-11.- Ratificación de los servicios prestados en la Educación Particular.
+11.- DEROGADO.
 
 12.- Autorización para efectuar trabajos extraordinarios y disponer su pago sin perjuicio de la firma del Subsecretario de Hacienda.
 
@@ -183,6 +183,26 @@ DIRECTOR DE EDUCACION PROFESIONAL
 MATERIA
 
 1.- Permisos sin goce de remuneraciones por motivos particulares, dentro del país, superiores a 30 días (artículo 91º, inciso 3º, letra a) del DFL. 338, de 1960).
+
+DIRECTOR DE BIBLIOTECAS, ARCHIVOS Y MUSEOS
+
+MATERIA
+
+a) Nombramientos en cualquiera calidad, ascensos, reincorporaciones o contrataciones del personal de la Dirección de Bibliotecas, Archivos y Museos, en empleos que tengan asignados o se encuentren asimilados a los grados 9º EUS. y siguientes.
+
+b) Petición y aceptación de renuncia, destitución, término anticipado del contrato, caducidad de nombramiento, declaración de vacancia de cargos, y, en general, expiración de funciones del personal a que se refiere la letra anterior.
+
+c) Permutas que comprendan al personal señalado en la letra a), siempre que los permutantes sean del mismo Servicio.
+
+d) Determinación de las fianzas que debe rendir en conformidad a las leyes y reglamentos vigentes el personal señalado en la letra a), sin perjuicio de la intervención de la Contraloría General de la República, en su caso.
+
+e) Comisiones de servicio que deban cumplirse dentro del país y dentro del Servicio.
+
+f) Permisos sin goce de remuneraciones para trasladarse al extranjero y permisos sin goce de remuneraciones dentro del país, del personal señalado en la letra a).
+
+g) Contrataciones sobre la base de honorarios, cuyo monto mensual no exceda de 12 Unidades Tributarias Mensuales.
+
+h) Todas las demás materias que se relacionan con el personal de la Dirección de Bibliotecas, Archivos y Museos, no contempladas expresamente en la delegación del presente decreto.
 
 DIRECTOR DEL CENTRO DE PERFECCIONAMIENTO, EXPERIMENTACIÓN E INVESTIGACIONES PEDAGÓGICAS.
 
@@ -415,6 +435,8 @@ Disposición Transitoria.
 Hasta el término de la vigencia del Plan de Integración Educacional de Arica, las materias a que se refiere el presente decreto, en lo que respecta a los Directores de Educación; los Jefes de los Departamentos Administrativos de las Direcciones de Educación Secundaria y Profesional; los Jefes de los Departamentos de Educación Agrícola, Comercial, Industrial, y Técnica Femenina, de la Dirección de Educación Profesional; los Jefes de los Departamentos de Personal Secundario, y de Educación Profesional, y el Secretario de la Dirección de Educación Secundaria, serán suscritas por el Superintendente de Educación Pública, en relación con los servicios y colegios medios comunes y diferenciados, dependientes del Plan de Integración Educacional, de Arica.
 
 Durante el mismo período, las materias que el presente decreto entrega a la firma de los Directores o Rectores de Liceos, serán suscritas por los Jefes de los Colegios Medios Comunes y Medios Diferenciados, dependientes de dicho Plan.
+
+> **Nota.** El Artículo 1° del Decreto 632, Educación publicado el 04.01.1984, complementa las materias que pueden ser suscritas por el Ministro de Educación Pública con la fórmula "Por orden del Presidente de la República".
 
 Tómese razón, comuníquese, publíquese y dése cuenta a la H. Cámara de Diputados.- E. FREI M.- Máximo Pacheco Gómez.
 
