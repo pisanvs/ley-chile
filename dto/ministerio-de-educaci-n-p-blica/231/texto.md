@@ -1,0 +1,3 @@
+Por Decreto Exento N° 231 de fecha 24 de mayo de 1993 del Ministerio de Educación, se rechazó la solicitud de reconocimiento oficial al Instituto Profesional "Instituto Tecnológico para la Ciencia de la Informática" (en formación), presentada por la Sociedad Instituto Tecnológico para la Ciencia de la Informática S.A. y se elimina del Registro de Institutos Profesionales el N° 85 de fecha 20 de noviembre de 1990 en el cual se encontraba inscrito.
+
+Santiago, 15 de junio de 1993.- Julio Valladares Muñoz, Subsecretario de Educación.
