@@ -1,0 +1,5 @@
+Por decreto MOP. No. 975, de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No. 196, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector Km. 26.200,00 al Km.
+
+30.510,50, que figura a nombre de Solís Díaz Roberto, Rol de Avalúo No. 150-149, Comuna de Lampa, superficie 2.970 m2. La Comisión de Peritos integrada por Luz Araya Elizalde, René Armando Cruz Momberg y Leonardo Enrique Bastías Tessada, fijó con fecha 28 de febrero de 1998, el valor provisional de la indemnización en la cantidad de $ 13.048.000.- para el lote No. 196. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
