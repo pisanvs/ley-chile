@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.679 de esta Subsecretaría, modifícase el numeral 9º de la resolución Nº969 de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Estudio biológico-pesquero de Cabinza, Machuelo, Cochinilla, y otras especies pelágicas pequeñas en el área marítima de la VIII Región", en el sentido de incorporar la siguiente frase final al inciso 1º:
+
+"Del mismo modo, y para el solo efecto de la presente pesca de investigación, se exime a las embarcaciones participantes del cumplimiento de la veda biológica reproductiva establecida para los recursos hidrobiológicos Anchoveta Engraulis ringens y Sardina común Clupea bentincki, mediante decreto exento Nº115 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, en el período comprendido entre el 21 de julio y el 31 de agosto, ambos de 2003".
+
+Valparaíso, 21 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
