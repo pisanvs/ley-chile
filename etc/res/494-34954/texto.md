@@ -1,0 +1,7 @@
+Por Resolución N° 494, de 2 Mayo de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don DOMINGO PARDO BERNAL, R.U.T. N° 2.962.094-6, para operar un vivero donde podrá mantener los siguientes recursos hidrobiológicos: Macha, Almeja y Erizo, con una superficie de 170 m2, ubicado en Punta Ritoque, Comuna de Quintero, Provincia de Valparaíso, V Región, cuyas coordenadas geográficas de acuerdo con el plano geográfico acompañado a la respectiva solicitud y la Carta del Servicio Hidrográfico y Oceanográfico de la Armada N° 501, son las siguientes:
+
+Vértice A : Lat. 32°49'30,00" S. Long. 71°32'15,00" W Vértice B : Lat. 32°49'30,00" S. Long. 71°32'14,46" W Vértice C : Lat. 32°49'30,32" S. Long. 71°32'14,46" W Vértice D : Lat. 32°49'30,32" S. Long. 71°32'15,00" W La actividad que el interesado podrá realizar en el vivero mencionado, consistirá exclusivamente en la mantención de las especies ya individualizadas en períodos no sujetos a veda y de tamaño reglamentario.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 2 de Mayo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
