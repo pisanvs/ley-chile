@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 341 EXENTO, DE 1997
+
+Por Decreto Exento Nº 341 de fecha 20 de marzo de 1997 del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el Nº 169, correspondiente al Centro de Formación Técnica Integración y Superación de Aysén, organizado por la Sociedad Centro de Formación Técnica Integración y Superación de Aysén Limitada o C.F.T. ISA. Ltda., dejándose sin efecto el Decreto Exento de Educación Nº 91 del 28 de abril de 1988, modificado por Decreto Exento de Educación Nº 649 del 07 de diciembre de 1993 y la Resolución Exenta que aprobó los planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado.
+
+Santiago, 8 de abril de 1997.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
