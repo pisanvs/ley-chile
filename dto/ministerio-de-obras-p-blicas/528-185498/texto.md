@@ -1,0 +1,3 @@
+Por decreto MOP Nº528, de 30 de marzo de 2001, se expropió el lote de terreno Nº12-A, superficie 5.638 m², rol de avalúo 866-50, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Troncal Sur Tramo 1, Quinta Región y se acordó el valor de indemnización con su propietario José Sabino Véliz Morales, ascendente a la cantidad de $38.300.152.
+
+Fiscal del Ministerio de Obras Públicas.
