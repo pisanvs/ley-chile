@@ -1,0 +1,5 @@
+Por resolución N° 1.479, de 09 de Agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a GERMAN ENRIQUE RIBBA ALVAREZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta de procesamiento ubicada en Fundo Loncotraro Km. 15, Camino Villarrica a Pucón, IX Región, donde podrá procesar, en las líneas de elaboración de Ahumado en Frío o Caliente, los siguientes recursos hidrobiológicos: Salmón del Atlántico, Salmón plateado y Trucha arcoiris.
+
+Cadúcase la resolución N° 1119, de 1996, de esta Subsecretaría, conforme lo dispuesto en el artículo 6°, del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 09 de Agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
