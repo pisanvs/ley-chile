@@ -1,0 +1,3 @@
+Por decreto MOP Nº 793 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 76, superficie 8.191,00 M2, Rol Nº 62-41, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-16, sector Lampa - Polpaico, tramo Km. 19,72359 a Km. 34,51667" y se acordó el valor de indemnización con su propietario Sociedad Inversiones Roblería Limitada, ascendente a la cantidad de $22.668.593.
+
+- Fiscal del Ministerio de Obras Públicas.
