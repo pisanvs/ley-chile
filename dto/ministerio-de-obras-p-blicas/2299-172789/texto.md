@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.299, de 30 de mayo de 2000, se dejó sin efecto la expropiación de los lotes de terreno Nºs. 99, 101 y 102, aprobada por decreto MOP Nº859, de 22 de abril de 1999, que figuran a nombre de Víctor Jaime Pezoa Reyes, rol de avalúo 613-20, comuna de Molina, superficies 165, 335 y 1.034 m² respectivamente, para la obra Camino Ruta K-175-Molina Bif. Siete Tazas, sector Molina Bif. Ruta K-179, Kms. 0,000 al 8,400.
+
+- Fiscal del Ministerio de Obras Públicas.
