@@ -1,0 +1,9 @@
+Por resolución N° 525 de 23 de Julio de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA AGROINDUSTRIAL SANTA CRUZ S.A., R.U.T. N° 96.502.370-4, para ampliar actividades pesqueras autorizadas por Resolución N° 620, de 1988, de esta Subsecretaría, en orden a elaborar en las líneas de proceso de fresco, seco-salado, deshidratado, ahumado y conservas, las especies hidrobiológicas autorizadas para las líneas de proceso de congelado y fresco-enfriado por la Resolución N° 620, de 1988, de esta Subsecretaría.
+
+Asimismo, la peticionaria podrá ampliar las líneas de proceso que se indican de la planta industrial autorizada por las resoluciones señaladas en el numeral precedente, ubicada camino Chinquihue Km. 12 s/n°, Puerto Montt, para elaborar los siguientes recursos hidrobiológicos: Fresco, seco-salado, deshidratado, congelado, fresco-enfriado, ahumado y conserva: Albacora o pez espada, Blanquillo, Breca, Brótula, Caballa, Cabrilla española, Cabrilla común, Chancharro, Merluza de tres aletas, Puye, Salmón cereza, Salmón plateado, Sardina, Tiburón o marrajo, Turbot, Calamar pota o jibia, Caracol palo palo, Caracol picuyo, Caracol piquilhue, Caracol rubio, Caracol trophon, Huepo o navaja de mar, Lapa, Ostra chilena, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba peluda o pachona, Jaiba reina, Picoroco y Pepino de mar.
+
+Los recursos Turbot, Salmón cereza y Salmón plateado, deberán provenir de centros autorizados para realizar actividades de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
