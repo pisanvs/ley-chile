@@ -18028,7 +18028,7 @@ En los instrumentos derivados se computarán los activos y pasivos subyacentes. 
 
 Deben incluirse todas las operaciones que cumplan las condiciones antes mencionadas y que, de acuerdo con las instrucciones de esta Superintendencia, se muestran bajo los conceptos que se señalan a continuación:
 
-- Depósitos, captaciones y otras obligaciones (Partidas 3005 a 3075). Las cuentas de ahorro a plazo con giro diferido se computarán sólo para el margen de la letra b) del N° 1.
+- Depósitos, captaciones y otras obligaciones (Partidas 3005 a 3075). No se computarán en estos pasivos las cuentas de ahorro a plazo con giro diferido.
 
 - Operaciones con pacto de retrocompra (Partidas 3110 y 3115).
 
