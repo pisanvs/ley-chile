@@ -1,0 +1,3 @@
+Por decreto MOP Nº 430, de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 73, superficie 2.594 m2, rol de avalúo Nº 62-120, comuna de Lampa, Región Metropolitana, para la obra "Camino Ruta G-16. Sector: Lampa - Polpaico. Tramo: De Km. 19,72359 a Km. 34,51667" y se acordó el valor de la indemnización con su propietario Luis Alberto García Poblete, ascendente a la cantidad de $7.320.530.-
+
+Fiscal del Ministerio de Obras Públicas.
