@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 175, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 33-A, superficie 280 m², Rol Nº2204-49, comuna de Puerto Montt, X Región, para la obra "Camino Ruta 7 Chamiza-Quillaipe, Km. 4,83687 a Km. 15,84700" y se acordó el valor de indemnización con su propietario Alain Reynold Porchet ascendente a la cantidad de $1.024.678.
+
+Fiscal del Ministerio de Obras Públicas.
