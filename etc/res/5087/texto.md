@@ -1,0 +1,7 @@
+EXCEPCIONA DE RETENCION DE IMPUESTO AL VALOR AGREGADO A CENTROS QUE INDICA
+
+La I Dirección Regional Iquique del SII, conforme a la facultad delegada en el dispositivo Nº 16 de la resolución Nº 5087, de 28 de julio de 1999, otorgará a contar del día 1º del mes siguiente al de esta publicación, siempre que se mantenga la condición de consumidor final, la excepción del régimen de retención del Impuesto al Valor Agregado, por resolución Nº 11, del 09.08.99, al Centro de Cumplimiento Penitenciario de Iquique, Rut. Nº 61.004.003-6, con domicilio en calle Estación s/n, Iquique, con vigencia hasta el 31 de julio del año 2000, por resolución Nº 10, 09.08.99, al Centro de Detención Preventiva de Arica, Rut. Nº 61.004.001-2, con domicilio en calle Baquedano Nº 01, Arica, con vigencia hasta el 31 de julio del año 2000, y por resolución Nº 12, de 09.08.99, al Centro de Detención Preventiva de Pozo Almonte, Rut. Nº 61.004.121-3, con domicilio en calle Libertad s/n, con vigencia hasta el 31 de julio del año 2000, en las operaciones de compra de carnes para el cumplimiento de los fines propios de la institución.
+
+El Nº y fecha de estas resoluciones deberá señalarse en las facturas de venta que emitan los vendedores agentes retenedores.
+
+Publíquese en extracto.- Por orden del Director.-
