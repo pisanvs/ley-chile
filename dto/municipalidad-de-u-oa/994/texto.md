@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL QUE INDICA
+
+Por Decreto N°994 de 6 de Octubre de 1993, Alcalde I. Municipalidad de Ñuñoa, dispone expropiación parcial conforme a Decreto Supremo N°458 Vivienda y Urbanismo, Ley N°18.695, DL N°2.186, Ley Orgánica de Procedimientos de Expropiaciones, y Constitución Política de la República de Chile, de inmueble Avda. Irarrázaval N°3256, 3260 y 3264 ex-3.300, Rol N°39-38 Ñuñoa, de propiedad de la Sociedad Constructora e Inversiones Socoin Ltda. Deslindes Norte, 9,30 Mts. con resto propiedad Rol 39-38; Sur, 9,30 Mts. con Avda. Irarrázaval; Oriente, 9,65 Mts. con predio Rol 39-39 otros propietarios; Poniente 9,65 Mts. con predio Rol 39-37 otros propietarios. Indemnización $ 1.349.481 pagadera mediante compensación con parte de derechos municipales de edificación.-
+
+Jaime Castillo Soto, Alcalde de Ñuñoa.
