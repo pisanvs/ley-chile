@@ -16326,6 +16326,8 @@ El límite de crédito de que trata el N° 1 del artículo 84 de la Ley General 
 
 Por consiguiente, por una parte deben computarse también los créditos que otorguen esas filiales y sucursales y, por otra, no quedan afectos a este límite los créditos que se otorguen entre sí las distintas entidades que participan en esa consolidación.
 
+Los títulos de oferta pública representativos de deuda que se encuentren vendidos con pacto de retrocompra por las filiales bancarias Corredoras de Bolsa, como asimismo las operaciones con pacto de retroventa que esas filiales efectúen con ese tipo de títulos, se computarán para los efectos de los límites a que se refiere este número, por el importe que resulte de aplicar al valor de mercado de los respectivos instrumentos, el porcentaje que se menciona en la sección VIII de la Circular N° 632 y sus modificaciones, de la Superintendencia de Valores y Seguros, de acuerdo a las condiciones que en ella se especifican.
+
 ### II. CREDITOS AFECTOS A LOS LIMITES DEL ARTICULO 84 N° 1 DE LA LEY GENERAL DE
 
 BANCOS.
