@@ -1,0 +1,3 @@
+Por resolución Nº 226, de 17 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución Nº 718 de 1987, de esta Subsecretaría, que autorizó a JOSE ANDRES MEDEL RIVAS, para instalar y operar un centro de cultivo ubicado en un sector del río San Pedro Nolasco, comuna de Maullín, provincia de Llanquihue, X Región, por haber vencido el plazo del D.S. (M) Nº 610 de 1988, del Ministerio de Defesa Nacional que otorgó la concesión de acuicultura.
+
+Valparaíso, 17 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
