@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.704, de 21 de septiembre de 2004, de esta Subsecretaría, rectifícase el numeral 4º de la resolución Nº 2.527, de 2004, de esta Subsecretaría, que autorizó a SOCIEDAD DE DESARROLLO DE LA PESCA ARTESANAL S.A. para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Evaluación de la selectividad de las redes de enmalle utilizadas por embarcaciones merluceras del sector de Dichato, VIII Región", en el sentido de reemplazar la frase "Doña Norma" por "Don Norma".
+
+Valparaíso, 21 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
