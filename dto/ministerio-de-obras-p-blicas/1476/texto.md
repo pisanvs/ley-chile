@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.476, del 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.13, 15 y 15-I superficies 4.041 m2., 2.364 m2. y 7.860 m2., rol de avalúo 591-12, comuna de Yungay, para la obra Proyecto Laja-Diguillín, Area de Riego Yuangay, Canal San José, y se acordó el precio de indemnización con su propietario Forestal Cholguán S.A., ascendente a la cantidad de U.F.396,84.-
+
+Fiscal del Ministerio de Obras Públicas.
