@@ -1,0 +1,3 @@
+Por decreto MOP Nº 120, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 2, superficie 1.003 m2, rol de avalúo 155-19, comuna de Pemuco, para la obra "Proyecto Laja Diguillín, Area de Riego Yungay, Canal Matriz Pemuco Diguillín Variante Camino Pemuco - Cartago" y se acordó el valor de indemnización con su propietaria Rosse Marie Rivas Uribe, ascendente a la cantidad de $339.118.-
+
+Fiscal del Ministerio de Obras Públicas.
