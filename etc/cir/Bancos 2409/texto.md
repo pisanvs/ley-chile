@@ -9952,7 +9952,7 @@ Dicha disposición debe entenderse en relación con:
 
 - **c)** consolidación de obligaciones, por solicitud del deudor, en alguna institución de crédito diferente a un banco o sociedad financiera establecida en el país.
 
-Conviene aclarar a este respecto que la subrogación voluntaria de un crédito efectuada por el acreedor a un tercero que lo paga, constituye una cesión de crédito y queda sujeta a las normas precedentes.
+No quedan sujetas a las normas precedentes las cesiones de créditos que correspondan a una subrogación voluntaria efectuada por el acreedor a un tercero que lo paga.
 
 La respectiva autorización se solicitará por escrito a esta Superintendencia, acompañando todos los antecedentes para el efecto. Las instituciones financieras deberán obtener el consentimiento del deudor para concretar la transferencia, salvo que en la respectiva autorización se permita proceder de otra forma por tratarse de casos calificados.
 
@@ -9960,37 +9960,29 @@ No obstante, las instituciones financieras quedan desde ya facultadas para trans
 
 IV.- PROCEDIMIENTOS PARA LA TRANSFERENCIA ENTRE INSTITUCIONES O VENTA A TERCEROS DE DOCUMENTOS DE LA CARTERA DE COLOCACIONES.
 
-### 1. Informe de la Fiscalía y Gerencia General
+1.- Envío a esta Superintendencia de los antecedentes acerca de las transacciones realizadas.
 
-Las compras, ventas, permutas o canjes de documentos de su cartera de colocaciones que realicen entre sí las instituciones financieras, requerirán informes previos de la Fiscalía y Gerencia General de la institución financiera relativos a los aspectos jurídicos y efectos financieros, respectivamente, de las operaciones de que se trate. El informe de la Gerencia General, tanto de la institución que entrega como de la que recibe los documentos objeto de la transacción, deberá considerar a lo menos los antecedentes que a continuación se indican, respecto de cada operación y pronunciarse acerca de ellos:
+Las instituciones financieras que participen en las transacciones de que trata este título, deberán remitir a esta Superintendencia, dentro de los primeros diez días de cada mes, los siguientes antecedentes relativos a las operaciones realizadas en el mes inmediatamente anterior:
 
-a) Valor nominal de los documentos objeto de la transacción y valor económico o comercial de éstos;
+a) Identificación de los deudores de los documentos objeto de la transacción y valor económico o comercial de éstos.
 
-b) Procedimiento e información utilizados para determinar el valor económico o comercial de los instrumentos;
+b) Provisiones que se liberen por los créditos que se enajenen y provisiones que corresponde constituir por los créditos que se reciben, según sea el caso.
 
-c) Provisiones que se liberen por los créditos que se enajenen y provisiones que corresponde constituir por los créditos que se reciben, según sea el caso;
+c) Clasificación de riesgo asignada a los créditos por la institución vendedora y por aquella que los adquiere, según corresponda.
 
-d) Clasificación de acuerdo con las disposiciones del Capítulo 8-28 de esta Recopilación Actualizada de Normas, asignada a los créditos por la institución vendedora y por aquella que los adquiere, según corresponda; y,
-
-e) Cuando corresponda de acuerdo lo previsto en los Capítulos 18-1 y 18-2 de esta Recopilación, se acompañará también el texto de la nota que deberá agregarse al Estado de Situación más próximo que se publique o al Balance General, según sea el caso, dando cuenta de sus efectos en los resultados de la empresa.
-
-2. Envió a esta Superintendencia de los antecedentes acerca de las transacciones realizadas.
-
-Las instituciones financieras que participen en las transacciones de que trata este título, deberán remitir a esta Superintendencia, dentro de los primeros diez días de cada mes, los antecedentes mencionados en el N° 1 precedente, que hayan servido de base para cursar las operaciones realizadas en el mes inmediatamente anterior.
-
-### 3. Aviso a deudores
+### 2. Aviso a deudores
 
 La institución cedente y la cesionaria o ambas en conjunto, enviarán un aviso a los deudores de los créditos que se transfieran, informándoles de la transferencia y el lugar u oficina de la entidad adquirente, en la que el crédito debe ser pagado.
 
-### 4. Cobranza de los créditos traspasados
+### 3. Cobranza de los créditos traspasados
 
 Cuando el crédito sea pagadero en una plaza distinta de la que corresponda a la institución que lo recibió, la institución adquirente deberá procurar que el deudor pueda continuar sirviéndolo en la misma plaza, sea en las oficinas de la propia institución o, en su defecto, en las de alguna institución corresponsal que deberá ser señalada para el efecto.
 
 Queda, en todo caso, a criterio de las entidades involucradas en estos traspasos, determinar los medios y modalidades que estimen más adecuados y eficientes para facilitar a los deudores el normal cumplimiento de sus obligaciones.
 
-5.- Venta a terceros.
+4.- Venta a terceros.
 
-Las normas de los números precedentes se aplicarán también, en lo que toca a las instrucciones que debe cumplir el cedente, cuando se trate de venta de cartera de colocaciones a personas naturales o jurídicas diferentes a una institución financieras establecida en el país. Sin embargo, cuando se vendan créditos vencidos no será necesario el informe de Fiscalía mencionado en el N° 1.
+Las normas de los números precedentes se aplicarán también, en lo que toca a las instrucciones que debe cumplir el cedente, cuando se trate de venta de cartera de colocaciones a personas naturales o jurídicas diferentes a una institución financieras establecida en el país.
 
 V.- INSTRUCCIONES CONTABLES.
 
