@@ -1,0 +1,3 @@
+Por Resolución Nº 211, de 31 de enero de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94110153, presentada por HECTOR LEONARDO BARRIA MONTIEL, para un centro de cultivo ubicado al Este de Punta Ester, Canal Pilcomayo, Comuna de Aysén, Provincia de Aysén, XI Región, en virtud de lo dispuesto en los artículos 78º y 87º de la Ley General de Pesca y Acuicultura y Nº 14 del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
