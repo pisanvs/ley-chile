@@ -1,0 +1,3 @@
+Por resolución Nº 1.889, de 20 de septiembre de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 94103150, presentada por LUCIO ORLANDO CARDENAS CARDENAS, para operar un centro de cultivo en Sector San Javier, Isla Quinchao, comuna de Curaco de Vélez, provincia de Chiloé, X Región.
+
+Valparaíso, 20 de septiembre de 1999.- Edith Saa Collantes, Subsecretario de Pesca Subrogante.
