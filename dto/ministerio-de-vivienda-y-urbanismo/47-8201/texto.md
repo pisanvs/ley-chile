@@ -110,7 +110,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Edificio de oficinas»: el conformado por recintos destinados a la prestación de servicios profesionales, administrativos, financieros, de seguros, intermediación de intangibles y otros análogos.
 
-«Edificio de uso público»: aquel en que se reúne público o en el que se brinda un servicio de utilidad pública.
+«Edificio de uso público»: aquel en donde se reúne o atiende habitualmente un gran número de personas, tales como: oficinas públicas, bancos, estadios, cines, centros comerciales, supermercados y otros análogos.
 
 «Edificio industrial»: aquel en donde se fabrican o elaboran productos industriales.
 
@@ -135,6 +135,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 «Libro de obras»: documento con páginas numeradas que se mantiene en una obra, en el cual se consignan las instrucciones y observaciones sobre el desarrollo de la obra formuladas por los profesionales proyectistas, el constructor, el inspector técnico y el revisor independiente cuando corresponda, y los inspectores municipales.
 
 «Línea de edificación»: la señalada en el instrumento de planificación territorial, a partir de la cual se podrá levantar la edificación en un predio.
+
+«Línea de la playa»: aquella que señala el deslinde superior de la playa hasta donde llegan las olas en las más altas mareas y, que, por lo tanto, sobrepasa tierra adentro a la línea de la pleamar máxima o línea de las más altas mareas.
 
 «Línea oficial»: la indicada en el plano del instrumento de planificación territorial, como deslinde entre propiedades particulares y bienes de uso público o entre bienes de uso público.
 
@@ -177,6 +179,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 «Patio»: superficie desprovista de toda construcción situada dentro de una propiedad y destinada al uso de sus ocupantes.
 
 «Persona con discapacidad»: toda aquella que, como consecuencia de una o más deficiencias físicas, síquicas o sensoriales, congénitas o adquiridas, previsiblemente de carácter permanente y con independencia de la causa que las hubiera originado, vea obstaculizada, en a lo menos un tercio, su capacidad educativa, laboral o de integración social.
+
+«Playa de mar»: la extensión de tierra que las olas bañan y desocupan alternativamente hasta donde llegan en las más altas mareas.
 
 «Plaza»: espacio libre de uso público destinado, entre otros, al esparcimiento y circulación peatonal.
 
@@ -232,6 +236,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Terminal de locomoción colectiva urbana»: recinto habilitado para la llegada y salida controlada de vehículos de locomoción colectiva que prestan servicios urbanos de transporte público de pasajeros.
 
+«Terreno de playa»: la faja de terreno de propiedad del Fisco de hasta 80 metros de ancho, medida desde la línea de la playa de la costa del litoral y desde la ribera en los ríos y lagos.
+
 «Urbanizar»: dotar a una superficie territorial que experimenta crecimiento urbano por extensión o por densificación, de infraestructura vial, sanitaria y energética, con sus obras de alimentación y desagües; de plantaciones y obras de ornato; obras de defensa y servicio del terreno; equipamiento y áreas verdes, proporcionales a las densidades fijadas por el instrumento de planificación territorial.
 
 «Vereda»: parte pavimentada de la acera.
@@ -243,6 +249,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 «Vivienda unifamiliar»: la destinada a residencia de una familia con salida independiente a una vía de uso público.
 
 «Zona central»: regiones V a VII y metropolitana.
+
+«Zona de Protección Costera»: área de tierra firme de ancho variable, de una extensión mínima de 80 metros medidos desde la línea de la playa, en la que se establecen condiciones especiales para el uso del suelo, con el objeto de asegurar el ecosistema de la zona costera y de prevenir y controlar su deterioro.
 
 «Zona norte»: regiones I a IV.
 
@@ -408,7 +416,7 @@ DE LA PLANIFICACION URBANA Y SUS INSTRUMENTOS
 
 1.2. El Plan Regional de Desarrollo Urbano, para efectos de su aprobación y aplicación, estará conformado por los siguientes documentos:
 
-1. Diagnóstico regional, que contenga los objetivos del plan, el análisis de los antecedentes regionales de carácter geográfico, histórico, político - administrativo, legal, social, económico, técnico, u otros, y la proposición y evaluación de las alternativas de desarrollo urbano regional.
+1. Diagnóstico regional, que contenga los objetivos del plan; el análisis sobre el medio físico y sus recursos naturales, en especial los territorios de atributos singulares para el desarrollo y/o vulnerables a los fenómenos naturales; antecedentes de carácter histórico, social, cultural, económico, político-administrativo y otros, y la proposición de alternativas de desarrollo urbano regional.
 
 2. Lineamientos estratégicos, de acuerdo con las políticas de desarrollo socio económico regionales, en relación a la determinación de los grados de habitabilidad del territorio; estructuración y jerarquía de los sistemas y subsistemas de centros poblados; sus áreas de influencia recíproca, sus relaciones gravitacionales, sus metas de crecimiento; prioridades y oportunidades de inversión en infraestructura sanitaria, vial, energética, de comunicaciones, de equipamiento, u otros.
 
@@ -418,13 +426,13 @@ DE LA PLANIFICACION URBANA Y SUS INSTRUMENTOS
 
 1.3. El Plan Regulador Intercomunal, para efectos de su aprobación y aplicación, estará conformado por los siguientes documentos:
 
-1. Memoria Explicativa, que contenga el diagnóstico del área en estudio, debiendo considerar, entre otros aspectos, la capacidad de la infraestructura sanitaria, vial y energética para el crecimiento urbano por extensión y densificación, la suficiencia del sistema de equipamiento urbano y los impactos de localización de actividades productivas. Debe establecer, además, los objetivos, las metas, fundamentos y estudios técnicos necesarios para la formulación de las proposiciones alternativas de estructuración y los programas o líneas de acción para orientar, gestionar y regular el desarrollo físico de las comunas que conforman el sistema intercomunal.
+1. Memoria Explicativa, que contenga el diagnóstico del área en estudio, indicando las áreas que presentan rasgos distintos por su diversidad biológica, por la fragilidad de sus ecosistemas en zonas costeras, marítimas, fluviales o lacustres, zonas de media y alta montaña y cuencas superiores de cursos superficiales de agua, entre otros. Asimismo, los aspectos relacionados con la capacidad de cobertura de la infraestructura sanitaria, energética, vial y de transporte para el desarrollo de la intercomuna y su sistema urbano; dotación de equipamiento y características de la localización de las actividades productivas en el ámbito intercomunal. Debe señalar además, los objetivos, las metas, los fundamentos y estudios que justifican la formulación de las proposiciones alternativas de estructuración y los programas o líneas de acción necesarios para orientar el desarrollo físico del área intercomunal, en función de los objetivos planteados.
 
-2. Ordenanza, que contenga las disposiciones reglamentarias del Plan Regulador Intercomunal, referidas entre otras, a las distintas áreas que se determinan, a sus respectivos sectores urbanos, de extensión urbana, de desarrollo prioritario, de restricción, de riesgo, con sus usos de suelo, red vial estructurante, zonificación general, equipamiento, infraestructura, límites de extensión urbana, densidades y otras características.
+2. Ordenanza, que contenga las disposiciones reglamentarias del Plan Regulador Intercomunal, referidas entre otras, a las distintas áreas que se determinan, a sus respectivos sectores urbanos, de extensión urbana, de desarrollo prioritario, de restricción, de riesgo, zonas de protección de los recursos significativos como agrícola, minero, forestal, paisajes, costa marítima, fluvial o lacustre, entre otros, y de protección ante riesgos de fenómenos naturales. Los correspondientes usos de suelo, red vial estructurante, zonificación general, límites de extensión urbana, y las condiciones relativas a equipamiento, infraestructura y densidades.
 
-3. Planos, que expresen gráficamente, entre otros, límites de extensión urbana, zonificación general, áreas de riesgo y de restricción, áreas de desarrollo prioritario, densidades, red vial, infraestructura, áreas verdes y equipamiento.
+3. Planos, que expresen gráficamente, entre otros, límites de extensión urbana, zonificación general, áreas de riesgo para los asentamientos humanos, zonas de interés silvoagropecuario, áreas de valor natural, zonas de protección costera, marítima, fluvial, o lacustre, áreas de desarrollo prioritario, densidades, red vial, infraestructura, áreas verdes y equipamiento.
 
-Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualizada a escala 1:50.000, 1:20.000, 1:10.000 ó a escalas adecuadas a las respectivas temáticas, según lo determine la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
+Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualizada, a escala 1:50.000, 1:20.000, 1:10.000 o a escalas adecuadas a las respectivas temáticas, según lo determine la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
 
 #### Artículo 2
 
@@ -446,7 +454,7 @@ Sólo se considerarán copias auténticas de los planos y de los documentos menc
 
 1. Zonas de mala calidad del subsuelo, debido entre otros factores a inestabilidad o debilidad estructural del subsuelo o a rellenos artificiales.
 
-2. Zonas inundables o potencialmente inundables, debido entre otras causas a proximidad a lagos, ríos, esteros, quebradas naturales, canales y acequias de regadío, vertientes y napas subterráneas de poca profundidad, pantanos, acción del mar y aguas lluvias.
+2. Zonas inundables o potencialmente inundables, debido entre otras causas a proximidad a lagos, ríos, esteros, quebradas naturales, canales y acequias de regadío, vertientes y napas subterráneas de poca profundidad, pantanos, sectores amagados por aguas lluvias, y terrenos situados en la zona de protección costera.
 
 3. Zonas próximas a pendientes elevadas de terrenos o en pendientes peligrosas, tales como, terrenos propensos a avalanchas, rodados, aluviones, aludes o erosiones acentuadas.
 
@@ -460,13 +468,13 @@ Sólo se considerarán copias auténticas de los planos y de los documentos menc
 
 1.6. El Plan Regulador Comunal, para efectos de su aprobación y aplicación estará conformado por los siguientes documentos:
 
-1. Memoria Explicativa, que contenga el diagnóstico del territorio comunal, estudios de riesgos, objetivos, metas, fundamentos y todos los antecedentes gráficos, planimétricos y descriptivos, sobre aspectos demográficos, sociales, económicos y demás estudios técnicos, tales como, capacidad de la red vial, sistemas de transporte y suficiencia de equipamiento, que sirvan de base para las proposiciones y las alternativas de estructuración y gestión.
+1. Memoria Explicativa, que contenga el diagnóstico del territorio comunal y aquellos sectores o zonas que requieren ser protegidos para resguardo de sus características singulares tales como, zonas de protección costera y bordes costeros, marítimos, fluviales y lacustres, sectores cordilleranos asociados a recursos paisajísticos y ecosistemas, sectores altos de cuencas hidrográficas, aquellos de interés silvoagropecuario, y los de conservación histórica o ligados a Monumentos Nacionales. Asimismo, debe incluir información relacionada con estudios de riesgos, objetivos, metas, fundamentos y todos los antecedentes gráficos, planimétricos y descriptivos, sobre aspectos demográficos, sociales, económicos y demás estudios técnicos, tales como, capacidad de la red vial, sistemas de transporte y suficiencia de equipamiento, que sirvan de base para las proposiciones alternativas de estructuración y gestión.
 
 2. Estudios de Factibilidad, para ampliar o dotar de agua potable y alcantarillado de aguas servidas y aguas lluvias cuando corresponda, en relación con el crecimiento urbano por extensión y/o densificación proyectado, estudios que requerirán consulta previa a las entidades regionales o locales competentes.
 
-3. Ordenanza Local, que fijará con precisión, entre otras normas, los límites urbanos de sus centros poblados, vialidad, usos de suelo permitidos, restringidos y prohibidos, densidades máximas y mínimas, coeficientes de constructibilidad, coeficiente de ocupación del suelo, rasantes y distanciamientos, alturas de edificación máximas y mínimas cuando corresponda, tamaños prediales, tipos de agrupamiento, disposiciones para los conjuntos armónicos, normas sobre equipamiento, para todas las áreas urbanas o sistema urbano comunal sometido a planificación.
+3. Ordenanza Local, que fijará con precisión, entre otras normas, los límites urbanos de sus centros poblados, la estructura vial y los espacios de uso público jerarquizados, zonificación con los usos de suelo, densidades, coeficientes de constructibilidad, coeficiente de ocupación del suelo, rasantes y distanciamientos, alturas de edificación, tamaños prediales, tipos de agrupamiento y las disposiciones que corresponda para cada una de las zonas o áreas del sistema comunal, incluidas las áreas de protección de recursos naturales, las de resguardo de grandes infraestructuras, las amagadas por fenómenos naturales, y las zonas de protección costera marítima, fluvial o, lacustre, cuando proceda. Asimismo las disposiciones sobre conjuntos armónicos, normas sobre equipamiento y estacionamientos de uso público, y demás aspectos urbanísticos para los territorios sujetos a planificación.
 
-4. Planos, que expresen gráficamente, entre otros, límite urbano, áreas de extensión urbana con sus prioridades, áreas de riesgo y de restricción, zonificación, usos de suelo, densidades, red vial estructurante, áreas verdes y equipamiento. Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualizada, a escala 1:50.000, 1:20.000, 1:10.000 ó a escalas adecuadas a las respectivas temáticas, según lo determine la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
+4. Planos, que expresen gráficamente, entre otros, límite urbano, zonificación de áreas planificadas, prioridades en la urbanización de terrenos, áreas de protección cuando corresponda y usos de suelo, densidades, red vial estructurante, áreas verdes, estacionamientos de uso público y equipamiento. Los planos se confeccionarán sobre base aerofotogramétrica o similar, actualizada, a escala 1:50.000, 1:20.000, 1:10.000 o a escalas adecuadas a las respectivas temáticas, según lo determine la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva.
 
 #### Artículo 2
 
@@ -632,9 +640,53 @@ Tratándose de la ejecución de una obra de edificación o ampliación que origi
 
 2.5. Para satisfacer las necesidades de áreas verdes, equipamiento y circulación que se generen por el crecimiento urbano, sea por extensión y/o por densificación, se cederán gratuitamente las superficies de terreno que resulten de la aplicación del presente artículo:
 
-En todos los casos, el porcentaje de cesiones para áreas verdes y equipamiento se calculará sobre la base del terreno total a lotear, descontadas las superficies afectas a utilidad pública establecidas en el instrumento de planificación correspondiente. A su vez, el porcentaje destinado a circulaciones se calculará sobre la superficie total del terreno, sin descontar las superficies afectas a utilidad pública por trazados viales del instrumento de planificación respectivo.
+TABLA 1. CALCULO DEL PORCENTAJE A CEDER
+
+Densidad % a ceder
+
+(hab/há)
+
+Áreas Verdes Equipamiento Circulaciones
+
+hasta 70 0,1 x densi- 0,03 x densi- Hasta 30% en
+
+dad sidad - 0,1 todos los
+
+tramos de
+
+densidad
+
+sobre 70 0,003 x den- 0,002 x den-
+
+sidad + 6,79 sidad + 1,86
+
+con un máxi- con un máxi-
+
+mo de 10% mo de 4%
+
+TABLA 2. SUPRIMIDO.
+
+La densidad a que se refiere el presente artículo corresponde a densidad bruta, en los términos definidos en el artículo 1.1.2. de esta Ordenanza.
+
+Para el cálculo de la densidad de los proyectos de loteo se procederá según se establece a continuación:
+
+- Vivienda con construcción sumultánea: se aplicará la densidad del proyecto, considerando 5 habitantes por vivienda.
+
+- Vivienda sin construcción simultánea: se aplicará la densidad máxima establecida en el instrumento de planificación territorial correspondiente para el área en que se emplaza el proyecto. Si el instrumento de planificación territorial no señala la densidad, se entenderá que ésta corresponde a 0,05 habitante por cada m2 de superficie edificable en el terreno loteado. La superficie edificable se calculará aplicando el coeficiente de constructibilidad contemplado en el instrumento de planificación territorial; en ausencia de dicho coeficiente, o de un instrumento de planificación territorial que lo fije, se aplicará un coeficiente de constructibilidad de 0,5.
+
+- Industria con construcción simultánea: se estimará 0,05 habitante por cada m2 de superficie edificada.
+
+- Industria sin construcción simultánea: se estimará 0,05 habitante por cada m2 de superficie edificable, la que se calculará aplicando el coeficiente de constructibilidad contemplado en el instrumento de planificación territorial para el área en que se emplaza el proyecto; en ausencia de dicho coeficiente o de un instrumento de planificación territorial que lo fije, se aplicará un coeficiente de constructibilidad de 0,5.
+
+- Otros usos con construcción simultánea: se estimará 0,1 habitante por cada m2 de superficie edificada.
+
+- Otros usos sin construcción simultánea: se considerará 0,1 habitante por cada m2 de superficie edificable, la que se calculará aplicando el coeficiente de constructibilidad contemplado en el instrumento de planificación territorial para el área en que se emplaza el proyecto; en ausencia de dicho coeficiente, o de un instrumento de planificación territorial que lo fije, se aplicará un coeficiente de constructibilidad de 0,5.
 
 Cuando la superficie de terreno a ceder para equipamiento resulte inferior a 200 m2 podrá entregarse como área verde.
+
+El porcentaje de cesiones se calculará sobre la superficie total del terreno a lotear, descontadas las áreas declaradas de utilidad pública por el instrumento de planificación territorial correspondiente.
+
+Las cesiones deberán materializarse en las áreas declaradas de utilidad pública por el instrumento de planificación territorial respectivo que existan en dicho terreno y concuerden con el destino de las cesiones, y sólo a falta o insuficiencia de éstas, en el resto del terreno.
 
 #### Artículo 2
 
@@ -883,6 +935,8 @@ Para dicho efecto, la jerarquización de las vías que la componen, se hará con
 Los instrumentos de planificación territorial podrán reconocer, además, una red vial básica que deberá estar constituida por vías existentes de especial importancia para el transporte urbano y estarán sólo destinadas al desplazamiento vehicular y peatonal.
 
 En general, para fijar el dimensionamiento de las vías públicas en los Planes Reguladores Intercomunales o Comunales, se deberá considerar además de las condiciones mínimas, aquellas que se deriven de la intensidad de las actividades urbanas que se emplazan frente al espacio público, de la dotación de infraestructura y de otros componentes que se considere indispensable tener en cuenta.
+
+Los Planes Reguladores Intercomunales y Comunales deberán cautelar que en los territorios definidos como zonas de protección costera, las vías expresas y las vías de servicio se emplacen cuando el terreno lo permita a una distancia mayor de 1.000 metros y de 80 metros respectivamente, medidos a partir de la línea de más alta marea, fijando las vías de penetración hacia la costa de acuerdo a las condiciones geográficas que presente cada sector. Se deberá contemplar en el remate de los accesos vehiculares, un área de estacionamiento dimensionada en relación a la jerarquía de la vía correspondiente y a la capacidad de la playa. Asimismo, los instrumentos de planificación territorial que consulten zonas de protección costera, deberán contemplar a lo largo de toda la zona una faja no edificable de 20 metros de ancho mínimo, medidos tierra adentro a partir de la línea de más alta marea, para ser destinada exclusivamente a la circulación peatonal.
 
 #### Artículo 2
 
@@ -1584,7 +1638,7 @@ DE LAS CONDICIONES DE HABITABILIDAD
 
 #### Artículo 4
 
-1.3. No obstante lo dispuesto en el artículo 4.1.2., las salas de baño, retretes, cocinillas y otras dependencias secundarias podrán ventilarse mediante un conducto de ventilación de sección libre no interrumpida y no inferior a 0,16 m2.
+1.3. No obstante lo dispuesto en el artículo 4.1.2., las salas de baño, retretes, cocinillas y otras dependencias secundarias podrán ventilarse mediante un conducto de ventilación de sección libre no interrumpida y no inferior a 0,16 m2. Este conducto colectivo exclusivo para ventilación ambiental deberá indicarse en los planos de arquitectura y estructura del proyecto.
 
 La sección mínima indicada puede reducirse en el caso de tiraje forzado, debiendo justificarse la sección proyectada.
 
@@ -3588,7 +3642,7 @@ a) Ubicación del terreno dentro de la manzana con indicación de las vías y es
 
 b) Emplazamiento de la edificación dentro del predio, con las indicaciones necesarias que permitan verificar el cumplimiento de las disposiciones sobre distanciamientos, líneas oficiales y adosamientos. Se deberá indicar además los accesos peatonales y vehiculares desde la vía pública, y los accesos especiales para personas con discapacidad.
 
-c) Planta general de todos los pisos, con indicación del destino de los diferentes locales y recintos.
+c) Planta general de todos los pisos, con indicación del destino de los diferentes locales y recintos. En estos planos se indicará la ubicación de los distintos conductos colectivos, tales como de ventilación ambiental, de evacuación de gases de la combustión y de basura, cuando corresponda.
 
 d) Elevaciones.
 
@@ -3596,9 +3650,7 @@ e) Cortes verticales principales; y
 
 f) Planta de cubiertas.
 
-7. Memoria de cálculo de superficies edificadas, en base a lo dispuesto en el artículo 5.1.11. de la presente Ordenanza.
-
-8. Planos de estructura en duplicado y cálculos de estabilidad de la construcción, de acuerdo a lo señalado en el artículo 5.1.7. de la presente Ordenanza.
+7. Memoria de cálculo de superficies edificadas, en base a lo dispuesto en el artículo 5.1.11. de la presente Ordenanza. 8. Planos de estructura en duplicado y cálculos de estabilidad de la construcción, de acuerdo a lo señalado en el artículo 5.1.7. de la presente Ordenanza.
 
 9. Especificaciones técnicas que incluyan todas las partidas contempladas en el proyecto.
 
@@ -3648,7 +3700,7 @@ El pliego de cálculos deberá contener las indicaciones siguientes:
 
 Los planos de estructura que se acompañarán al pliego de cálculos contendrán los siguientes dibujos:
 
-1. Plantas de fundaciones y de cada piso o grupo de pisos iguales, a escala 1:100 ó 1:50.
+1. Plantas de fundaciones y de cada piso o grupo de pisos iguales, a escala 1:100 ó 1:50. En estos planos se indicará la ubicación de los distintos conductos colectivos, tales como de ventilación ambiental, de evacuación de gases de la combustión y de basura, cuando corresponda.
 
 2. Secciones generales indispensables para definir las diversas partes de la estructura a escala 1:100 ó 1:50.
 
@@ -3684,7 +3736,7 @@ No se autorizarán construcciones de ningún tipo debajo de las líneas de alta 
 
 #### Artículo 5
 
-1.11. La superficie edificada total y el coeficiente de constructibilidad aplicables a los proyectos y construcciones se determinarán de acuerdo al cálculo señalado en los números siguientes:
+1.11. La determinación de la superficie edificada total y la aplicación del coeficiente de constructibilidad se sujetarán a las siguientes normas.
 
 1. La superficie edificada total comprenderá la suma de las siguientes superficies parciales:
 
@@ -3698,13 +3750,13 @@ En el caso de muros exteriores inclinados la superficie edificada se determinar�
 
 En el caso de cuerpos salientes, se computará la superficie horizontal de ellos si su altura libre interior es igual o superior a 1,60 m.
 
-2. Para el cálculo del coeficiente de constructibilidad se considerará la superficie edificada de los pisos o niveles construidos sobre el suelo natural o sobre el suelo resultante del proyecto en caso que éste fuera más bajo que el suelo natural. El cómputo no incluirá los pisos subterráneos.
+2. Para determinar las superficies máximas que pueden construirse, resultantes de la aplicación del coeficiente de constructibilidad, no se considerarán los pisos subterráneos.
 
 Se entenderá como subterráneo para estos efectos el o los pisos de un edificio cuyos paramentos que los definen exteriormente se encuentran bajo el terreno circundante con el que están en contacto, correspondiente al suelo natural o al suelo resultante del proyecto en caso que éste fuere más bajo que el suelo natural. Se considerará también como subterráneo aquél que emerge del terreno circundante en un porcentaje inferior al 50% de la superficie total de sus paramentos exteriores.
 
 El instrumento de planificación territorial podrá limitar la superficie edificada en subterráneo fijando
 
-expresamete en su normativa el porcentaje máximo permitido.
+expresamente en su normativa el porcentaje máximo permitido.
 
 #### Artículo 5
 
@@ -3790,7 +3842,7 @@ Si en el tiempo que medie entre el otorgamiento del permiso y la recepción de u
 
 #### Artículo 5
 
-1.19. Concedido el permiso, un ejemplar del proyecto y de su respectivo legajo de antecedentes se archivará en la Dirección de Obras Municipales y otro similar, debidamente timbrado, se entregará al requirente del permiso, junto con la boleta de permiso, sin perjuicio del timbraje de otras copias que se soliciten.
+1.19. Concedido el permiso, un ejemplar del proyecto y de su respectivo legajo de antecedentes se archivará en la Dirección de Obras Municipales y otro similar, debidamente timbrado, se entregará al requirente del permiso, junto con la boleta de permiso, sin perjuicio del timbraje de otras copias que se soliciten. Se agregarán a este legajo, al momento de la recepción de las respectivas obras, los antecedentes y certificaciones a que se refiere el artículo 5.2.6. de esta Ordenanza General.
 
 Será responsabilidad del constructor mantener en el lugar de la obra, durante todo el tiempo de ejecución de ésta a disposición de los profesionales competentes y de los inspectores municipales, un legajo completo de antecedentes, la copia de la boleta de permiso, el Libro de Obras y el documento en que conste la formulación de las medidas de gestión y control de calidad que se adoptarán durante la construcción de la obra.
 
@@ -3864,7 +3916,7 @@ DE LAS INSPECCIONES Y RECEPCIONES DE OBRAS
 
 Si a la solicitud de recepción definitiva se acompaña el informe favorable extendido por el revisor independiente o por el arquitecto proyectista, según corresponda, en que declare que la obra ha sido ejecutada conforme al proyecto aprobado, la Dirección de Obras Municipales sólo verificará el cumplimiento de las disposiciones relativas a obras de urbanización, cesiones de terrenos, uso de suelo, superficie, forma y emplazamiento de las edificaciones y demás exigencias urbanísticas determinadas por la presente Ordenanza y por los instrumentos de planificación territorial respectivos.
 
-El Director de Obras Municipales recepcionará, sin más trámite, las obras en que se hubiere aprobado previamente un anteproyecto y el revisor independiente o el arquitecto proyectista, en su caso, incluya en el informe correspondiente la circunstancia que el proyecto se ajusta íntegramente al anteproyecto aprobado, debiendo en todo caso verificar que se acompañen los certificados de las recepciones de los servicios de instalación y urbanización, en su caso, que corresponda de acuerdo al artículo 5.2.6. de la presente Ordenanza, y que se hayan transferido los terrenos correspondientes a las cesiones a que haya lugar.
+El Director de Obras Municipales recepcionará sin más trámite, las obras en que se hubiere aprobado previamente un anteproyecto y el revisor independiente o el arquitecto proyectista, en su caso, incluya en el informe correspondiente, la declaración de que el proyecto se ajusta íntegramente al anteproyecto aprobado, debiendo en todo caso verificar que se acompañen los certificados y demás documentos que corresponda de acuerdo al artículo 5.2.6. de la presente Ordenanza y, al mismo tiempo, que se hayan adoptado las medidas necesarias para asegurar la transferencia de los terrenos correspondientes a equipamiento, al dominio municipal.
 
 En los casos previstos en los incisos segundo y tercero precedentes, la Dirección de Obras Municipales podrá, dentro del plazo de dos años contados desde dicha recepción, verificar que el proyecto se ejecutó conforme al proyecto aprobado.
 
@@ -3897,6 +3949,8 @@ El Director de Obras Municipales, para cursar la recepción definitiva, deberá 
 Cuando el proyecto aprobado incluya la ejecución de obras de urbanización para satisfacer los requerimientos de la mayor densidad planteada, deberán agregarse a los antecedentes exigidos en el inciso primero de este artículo, los certificados de ejecución de cada una de dichas obras emitidos por los servicios correspondientes.
 
 Tratándose de proyectos de construcción simultánea, se recepcionarán simultáneamente las obras de construcción y la subdivisión del suelo, junto con las obras de urbanización requeridas en su caso.
+
+Los antecedentes y certificaciones a que se refiere este artículo se archivarán conjuntamente con el legajo a que se refiere el inciso primero del artículo 5.1.19. de esta Ordenanza y formarán parte del mismo.
 
 #### Artículo 5
 
@@ -5036,39 +5090,47 @@ FAENAS CONSTRUCTIVAS
 
 8.2. La instalación de cierros, de elevadores de materiales y de andamios en las aceras de las vías públicas requiere permiso especial de la Dirección de Obras Municipales; este permiso está sujeto al pago de los respectivos derechos municipales, se concederá con plazo determinado y podrá ser suspendido en cualquier momento en que se establezca su inconveniencia.
 
-Demoliciones
+#### Artículo 5
+
+8.3. En todo proyecto de construcción, reparación, modificación, alteración, reconstrucción o demolición, el responsable de la ejecución de dichas obras deberá implementar las siguientes medidas:
+
+1. Con el objeto de mitigar el impacto de las emisiones de polvo y material:
+
+a) Regar el terreno en forma oportuna, y suficiente durante el período en que se realicen las faenas de demolición, relleno y excavaciones.
+
+b) Disponer de accesos a las faenas que cuenten con pavimentos estables, pudiendo optar por alguna de las alternativas contempladas en el artículo 3.2.6.
+
+c) Transportar los materiales en camiones con la carga cubierta.
+
+d) Lavado del lodo de las ruedas de los vehículos que abandonen la faena.
+
+e) Mantener la obra aseada y sin desperdicios mediante la colocación de recipientes recolectores, convenientemente identificados y ubicados.
+
+f) Evacuar los escombros desde los pisos altos mediante un sistema que contemple las precauciones necesarias para evitar las emanaciones de polvo y los ruidos molestos.
+
+g) La instalación de tela en la fachada de la obra, total o parcialmente, u otros revestimientos, para minimizar la dispersión del polvo e impedir la caída de material hacia el exterior.
+
+h) Hacer uso de procesos húmedos en caso de requerir faenas de molienda y mezcla.
+
+El Director de Obras Municipales podrá excepcionalmente eximir del cumplimiento de las medidas contempladas en las letras a), d) y h), cuando exista déficit en la disponibilidad de agua en la zona en que se emplace la obra. No obstante, estas medidas serán siempre obligatorias respecto de las obras ubicadas en zonas declaradas latentes o saturadas por polvo o material particulado, en conformidad a la Ley de Bases Generales del Medio Ambiente.
+
+2. Se prohíbe realizar faenas y depositar materiales y elementos de trabajo en el espacio público, excepto en aquellos espacios públicos expresamente autorizados por el Director de Obras Municipales de acuerdo a lo dispuesto en el artículo anterior.
+
+3. Mantener adecuadas condiciones de aseo del espacio público que enfrenta la obra. Cuando en dicho espacio existan árboles y jardines, deberá mantenerlos en buenas condiciones y reponerlos si corresponde.
+
+4. En los casos que la faena contemple la utilización de explosivos, debe obtenerse la autorización correspondiente según lo dispuesto en el D.S. Nº400, de 1977, del Ministerio de Defensa, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley 17.798, sobre Control de Armas y su Reglamento aprobado por D.S. Nº 77 de 1982, del Ministerio de Defensa, publicado en el Diario Oficial de 14 de Agosto de 1982 y sus modificaciones.
+
+Estas exigencias serán registradas en el informe de las medidas de gestión y de control de calidad que debe presentar el constructor a cargo de la obra ante la Dirección de Obras Municipales correspondiente, de acuerdo a lo dispuesto en el Nº 11, del artículo 5.1.6., de esta Ordenanza.
 
 #### Artículo 5
 
-8.3. Las demoliciones se llevarán a cabo de tal modo que no se ocasionen perjuicios a las propiedades vecinas, debiendo ejecutarse oportunamente los cierros provisorios, apuntalamiento, colocación de alzaprimas u otras obras provisionales que sean necesarias de acuerdo con las buenas prácticas, sin perjuicio de las medidas de seguridad adicionales que pueda exigir la Dirección de Obras Municipales.
+8.4. La Dirección de Obras Municipales, atendiendo a las características del entorno y de la obra de construcción, reparación, modificación, alteración, reconstrucción o demolición podrá ordenar, en casos fundados:
 
-Para la demolición de muros, cierros y demás elementos constructivos contiguos a la vías públicas se observarán, además, las precauciones necesarias para evitar cualquier perjuicio o molestias a los transeúntes y deterioro de las vías mismas.
+1. Las horas del día dentro de las cuales podrán efectuarse los trabajos.
 
-En base a la cantidad de metros cúbicos de escombros que se extraerán o depositarán, la Dirección de Obras indicará al solicitante el lugar más apropiado para extraer o depositar los escombros, tomando en consideración el tipo de éstos y la distancia de transporte.
+2. La realización de ciertas faenas ruidosas dentro de un recinto cerrado y la disposición de otras medidas de mitigación del impacto del ruido.
 
-Los Inspectores Municipales y el Cuerpo de Carabineros deberán denunciar al Juzgado de Policía Local las demoliciones, extracción y depósito de escombros, que se ejecuten sin autorización de la Dirección de Obras Municipales o en contravención a ella, a fin de que ésta aplique las sanciones que estime procedentes.
-
-#### Artículo 5
-
-8.4. La Dirección de Obras Municipales podrá ordenar, atendiendo al tránsito de las vías y según la importancia de la demolición:
-
-1. Las horas del día dentro de las cuales deberán efectuarse los trabajos.
-
-2. Los cierros provisionales que sean necesarios construir.
-
-3. Los medios mecánicos que deben emplearse para el descenso de materiales de demolición.
-
-4. La clase y cantidad de materiales y elementos de trabajo que puedan depositarse transitoriamente en las vías públicas y el plazo correspondiente.
-
-5. La colocación total o parcial en las fachadas de telas u otros revestimientos para evitar el polvo y la caída de material hacia el exterior.
-
-6. El riego de los materiales que puedan desprender polvo.
-
-7. Las condiciones de aseo de las vías públicas durante las horas del día, en la parte que enfrenten la demolición y edificios adyacentes.
-
-8. La obligación de mantener, en cada costado de la obra, una persona que advierta a los transeúntes que deben precaverse del riesgo, en los casos de demolición peligrosa.
-
-9. Las precauciones que hayan de tomarse para el empleo de explosivos.
+3. Las horas del día en que podrán realizarse faenas de carga y descarga en el espacio público y la obligatoriedad de señalizar dichas faenas.
 
 #### Artículo 5
 
@@ -5184,11 +5246,69 @@ Instalaciones interiores de gas.
 
 #### Artículo 5
 
-9.3. Los edificios colectivos de habitación de más de un piso deberán consultar instalaciones interiores de gas, además de conductos colectivos y secundarios para evacuar los productos de la combustión de calefones o termos. Dichos conductos deberán quedar ubicados de tal modo que permitan instalar el calefón o termo en un recinto que cumpla con las dimensiones y ventilaciones de aire exigidas por los reglamentos respectivos, como con las normas y resoluciones de la Superintendencia de Electricidad y Combustibles.
+9.3. Los edificios de habitación integrados por unidades superpuestas deberán consultar instalaciones interiores de gas, además de conductos colectivos y secundarios para evacuar los gases de la combustión de calentadores de agua. Dichos conductos deberán quedar ubicados de tal modo que permitan instalar el calefón o termo en un recinto que cumpla con las dimensiones y ventilaciones de aire exigidas por las normas legales, reglamentarias y técnicas correspondientes.
 
-La instalación interior de gas de toda edificación deberá ajustarse a la reglamentación y normativa técnica vigentes, lo cual se acreditará ante la Dirección de Obras Municipales al momento de solicitar la recepción final de la obra correspondiente, acompañando la copia del anexo de inscripción de declaración de la instalación con la constancia de acuso de recibo por la Superintendencia de Electricidad y Combustibles.
+Podrán eximirse de cumplir con la exigencia del inciso anterior, los edificios que consulten una central de agua caliente para uso sanitario, con remarcadores individuales u otra solución colectiva para dotar de agua caliente a las diferentes unidades del edificio. Esta exención no será válida para aquellos edificios que consulten además arranque para calefón.
 
-Para solicitar dicha recepción el instalador autorizado extenderá el certificado correspondiente, una vez realizadas conforme las pruebas relativas a la hermeticidad de las tuberías.
+Se exceptuarán asimismo de lo dispuesto en el inciso primero de este artículo, los edificios en que la totalidad de las unidades habitacionales que lo conforman contemplen soluciones individuales para proveer de agua caliente a través de artefactos tipo B - artefacto conectado a un conducto de evacuación, con circuito abierto de combustión - con tiro forzado, o artefactos de tipo C1, - artefacto conectado a un conducto de evacuación con circuito estanco de combustión - de tiro forzado o natural.
+
+Mientras no se dicten las normas técnicas chilenas sobre el particular por el Instituto Nacional de Normalización los conductos de evacuación de los artefactos señalados anteriormente deberán cumplir con lo siguiente:
+
+1.- En el caso de desembocar en patios de luz, a lo
+
+menos uno de sus lados deberá estar abierto de manera de
+
+permitir una circulación libre de aire.
+
+2.- Las distancias mínimas de seguridad desde el
+
+sombrerete de un conducto de artefactos tipo B o tipo C1
+
+con tiro forzado, deberán ser las siguientes:
+
+a) 0,60 m a cualquiera de los vanos.
+
+b) Con respecto al nivel del suelo:
+
+- 2,5 m para artefactos de potencia útil nominal igual o mayor a 17 kW y menor de 35 kW.
+
+- 1,5 m para artefactos de potencia útil nominal menor que 17 kW.
+
+c) 3,00 m., a cualquier superficie frontal.
+
+3.- Las distancias mínimas de seguridad desde el
+
+sombrerete de un conducto de artefactos tipo C1 con tiro
+
+natural, deberán ser las siguientes:
+
+a) A los vanos:
+
+- 2,5 m. para artefactos de potencia útil nominal
+
+igual o mayor a 17 kW y menor de 35 kW.
+
+- 1,5 m. para artefactos de potencia útil nominal
+
+menor que 17 kW.
+
+b) Con respecto al nivel del suelo:
+
+- 2,5 m. para artefactos de potencia útil nominal
+
+igual o mayor a 17 kW y menor de 35 kW.
+
+- 1,5 m. para artefactos de potencia útil nominal
+
+menor que 17 kW.
+
+c) 2,50 m. a cualquier superficie frontal.
+
+La longitud del conducto de evacuación de gases de la combustión de los artefactos antes señalados y sus condiciones de instalación, deberán cumplir con las disposiciones establecidas en el Reglamento de Instalaciones Interiores de Gas y las recomendaciones del fabricante.
+
+La identificación de los artefactos deberá quedar registrada en los planos de las instalaciones interiores de gas, y deberán estar instalados en el edificio cuando se proceda a su recepción definitiva por el Director de Obras Municipales, cumpliendo con las condiciones establecidas en el Reglamento de Instalaciones Interiores de Gas y en esta Ordenanza.
+
+La instalación interior de gas de toda edificación deberá cumplir con las normas legales, reglamentarias y técnicas, lo cual se acreditará ante la Dirección de Obras Municipales al momento de solicitar la recepción final de la obra correspondiente, acompañando la copia de la declaración de la instalación con la constancia de su recepción por la Superintendencia de Electricidad y Combustibles.
 
 Calefacción central y agua caliente.
 
@@ -5566,7 +5686,9 @@ N° 2, de 1959, las del presente Título referidas a las viviendas sociales, y e
 
 #### Artículo 7
 
-1.5. Para cálculo de la superficie total edificada por unidad de vivienda o departamento, se aplicará el procedimiento indicado en el artículo 5.1.11. de la presente ordenanza, excepto lo dispuesto en el número 3. del inciso primero de dicho artículo, que será aplicable únicamente cuando la superficie que le corresponda en el prorrateo del bien común sea superior al 20% de la superficie de la vivienda o departamento respectivo.
+1.5. Para el cálculo de la superficie edificada por unidad de vivienda o departamento, se aplicará lo dispuesto en el número 1, del artículo 5.1.11. de la presente Ordenanza. Con todo, no se contabilizará como parte de la misma, la superficie edificada que le corresponda en el prorrateo de los bienes comunes, si ésta es inferior al 20% de la superficie de cada vivienda o departamento.
+
+Para la aplicación del coeficiente de constructibilidad se estará a lo dispuesto en el número 2, del artículo 5.1.11., de la presente Ordenanza, pudiendo excederse hasta en un 20% la superficie máxima resultante de la aplicación de dicho precepto, sin perjuicio de lo dispuesto en el artículo 7.2.6. de la presente Ordenanza.
 
 "CAPITULO 2 DE LAS NORMAS DE URBANIZACIÓN
 
@@ -5744,15 +5866,9 @@ Los sistemas o clases de edificación que hayan adoptado o aprobado la ex Corpor
 
 #### Artículo 7
 
-5.3. Los edificios colectivos de habitación de hasta seis pisos desde el nivel del acceso vehicular, con un máximo de 25 viviendas sociales con un acceso común, podrán consultar instalaciones individuales de gas en tuberías de cobre tipo K o L, o de tuberías aprobadas de acero con recubrimiento negro o galvanizado, alimentadas desde cilindros de gas licuado de petróleo tipo 15, siempre que cumplan con lo siguiente:
+5.3. Los edificios colectivos de viviendas sociales de hasta seis pisos desde el nivel de acceso vehicular, con un máximo de 25 unidades por cada acceso común, podrán consultar instalaciones individuales de gas, alimentadas desde cilindros de gas licuado de petróleo de 15 Kg., y tendrán calentador de agua instalado conectado al conducto de evacuación colectiva de gases, para la recepción definitiva. Los cilindros de gas de petróleo se instalarán en recintos ventilados directamente al exterior y deberán protegerse según las normas legales, reglamentarias y técnicas correspondientes.
 
-1.- La tubería deberá ir desde el terminal para conexión del artefacto de cocina, calefactor, calefón o termo de gas, a los cilindros de gas licuado de petróleo, debiendo terminar en una boquilla de conexión estriada para que pueda ser conectado el tubo flexible del regulador de presión, terminal que deberá fabricarse en un material similar a la tubería, y sus dimensiones será equivalentes a las de la boquilla de conexión de los reguladores.
-
-2.- Los cilindros de gas licuado de petróleo se instalarán en espacios ventilados, ubicados a lo más en el quinto piso desde el nivel del acceso vehicular del edificio, protegidos mediante un gabinete construido en material resistente a impactos, con una resistencia al fuego igual o superior a F-60. El gabinete deberá contar con una puerta hermética, si éste se encuentra ubicado en un espacio que comunique con el interior de un recinto habitable, y deberá tener una cara abierta al exterior del edificio, protegida con una rejilla metálica electrosoldada empotrada a la construcción, rejilla que no podrá comunicar con el sector de ingreso de las viviendas.
-
-3.- Los gabinetes deberán considerar el espacio suficiente para la ubicación de una cantidad de cilindros que permita satisfacer la potencia instalada de los artefactos proyectados, debiendo considerarse al menos el espacio para dos cilindros tipo 15.
-
-Las viviendas sociales que contemplen instalaciones de gas, incluidas las señaladas en el inciso primero de este artículo, no requerirán de calefón o termo de gas instalado, pero, en todo caso, las viviendas ubicadas en edificios colectivos de habitación deberán contar con conductos de evacuación para los gases producto de la combustión, de acuerdo con la reglamentación y normativa técnica vigentes.
+Deberá considerarse el espacio suficiente para la ubicación de una cantidad de cilindros que permita satisfacer la potencia instalada de los artefactos proyectados, debiendo considerarse al menos el espacio para dos cilindros de 15 Kg.
 
 #### Artículo SEGUNDO
 
