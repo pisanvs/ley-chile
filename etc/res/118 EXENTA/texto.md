@@ -1,0 +1,3 @@
+Por Resolución exenta Nº 118 de fecha 10 de diciembre de 1997, del Ministerio de Economía, Fomento y Reconstrucción, se ha rechazado el Recurso de Reclamación interpuesto por Compañía Pesquera San Bernardo S.A., Rut: 79.523.690-2 y confirmada la Resolución Nº 2.175 de 1996 de la Subsecretaría de Pesca, que declaró la caducidad de la Resolución Nº 1.129 de 1994 de esa Subsecretaría, que autorizó a dicha empresa para desarrollar actividades pesqueras con la nave "Santa Carmen".-
+
+Oscar Landerretche Gacitúa, Subsecretario de Economía, Fomento y Reconstrucción.
