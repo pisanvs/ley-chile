@@ -1,0 +1,3 @@
+Por resolución No. 112, de 29 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deroga la Resolución No. 744, de 1989, de esta Subsecretaría, que autorizó a KAIKO ENTERPRISE CHILE S.A., R.U.T. No. 96.530.630-7, domiciliada en Santiago, para desarrollar actividades pesqueras de transformación, por renuncia de su titular.
+
+Valparaíso, 29 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
