@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2331 de 09 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Reserva y Sector Expropiado Predio "Fundo Alhué" de la comunal de Curacaví, Región Metropolitana; y Derechos Aprovechamiento Aguas que corresponden a Parcelas N°s. 1 a la 21, sitios N°s. 1, 2, 5 al 10, y Reserva Cora N° 1 del Proyecto de Parcelación "Alhué" formado por predio señalado. Los Derechos de Agua se extraen del Estero Puangue y de Pozo Profundo. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
