@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No.203, de 20 de julio de 1989, se expropió el lote No.1 y se constituyó servidumbre lote No.1, superficie 94,64 m2. y 1.302 m2., respectivamente, rol de avalúo 1068-54, Comuna de Coyhaique, para Sistema de Abastecimiento de Agua Potable, Aeródromo Teniente Vidal - Coyhaique y se acordó precio de indemnización con su propietaria Elsa Bahamóndez Osses, ascendente en total a $ 121.317.
+
+Fiscal del Ministerio de Obras Públicas.
