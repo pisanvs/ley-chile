@@ -1,0 +1,3 @@
+Por decreto MOP Nº579, de 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs. 1 y 2, superficies 354 m² y 1.369 m², rol de avalúo 179-64, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Tramo 13A, Quinta Región y se acordó el valor de indemnización con su propietaria Gabriela Valenzuela Leiter, ascendente a la cantidad total de $5.312.475.
+
+Fiscal del Ministerio de Obras Públicas.
