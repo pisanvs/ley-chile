@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.779, de 30 de junio de 1999, se expropió el lote de terreno Nº 1, superficie 210 m², rol de avalúo 907-9, comuna de Coquimbo, para la obra Alcantarillado de La Serena Construcción Sistema de Alcantarillado y Disposición Final de Aguas Servidas del sector Avda. del Mar 2ª Etapa y se acordó precio de indemnización con su propietaria Sociedad Agrícola del Norte, ascendente a la cantidad de $5.402.166.
+
+- Fiscal del Ministerio de Obras Públicas.
