@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 2.230 de 29 de Octubre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Fundo Santa Clara" de la comuna de Victoria, IX Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas 36, 41, 42, 43, 45 y 46 y sitios N°s. 15 al 18 del Proyecto de Parcelación "Vertientes de Adencul, Adencul de Malleco y Las Lilas" formado por predio señalado entre otros. Los Derechos de Aguas se extraen de canales sin nombre identificados A, B, C, D, E y F en el plano del Estudio y se originan en vertientes y quebradas.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
