@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.962, de 30 de noviembre de 2001, se expropió el lote de terreno Nº19, superficie 851 m2., rol de avalúo 103-530, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Tramo 6B: Km.
+
+34.660,00 al Km. 38.660,00, Región Metropolitana, se acordó el valor de la indemnización con su propietario Laurencio Alvarado Osorio, ascendente a la cantidad de $5.352.570.
+
+- Fiscal del Ministerio de Obras Públicas.
