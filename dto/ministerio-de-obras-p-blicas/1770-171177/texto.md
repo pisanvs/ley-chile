@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.770, de 28 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 5 y 6; para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector D: Km. 68.450,00 al Km.
+
+84.300,00, Sexta Región, que figuran a nombre de Serviu, rol de avalúo 141-154, comuna de Codegua, superficies 838 m2 y 749 m2, respectivamente. La comisión de peritos integrada por los señores Luz Araya Elizalde, Iván Eduardo Guitart Acuña y Carmen Pilar Ríos Marcuello, fijó con fecha 14 de marzo de 2000, el valor provisional de la indemnización en las cantidades de $5.934.500.- para el lote Nº5 y de $8.598.900.- para el lote Nº6.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
