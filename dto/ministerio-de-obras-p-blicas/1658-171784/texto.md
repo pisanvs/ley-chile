@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.658, de 28 de abril del 2000, se expropiaron los lotes de terreno Nºs. 14-A y 20-B, superficies 1.117 y 905 m², respectivamente, rol de avalúo 341-1, comuna de La Ligua, para la obra Camino Ruta E-39, sector Quinquino El Rayado Tramo Kms. 0.300 al 6.600 y se acordó precio de la indemnización con su propietario Agusto Sigifredo González González, ascendente a la cantidad de $7.735.561, para los lotes Nºs. 14-A y 20-B.-
+
+Fiscal del Ministerio de Obras Públicas.
