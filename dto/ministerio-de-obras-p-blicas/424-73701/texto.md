@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 424, de 30 de abril de 1997, se expropió el lote de terreno Nº 3-C, superficie 3.132 m²., rol de avalúo 761-40, comuna de Renca, obra Estudio de Ingeniería Habilitación Segunda Calzada Avda. Américo Vespucio, sector Carretera Panamericana Norte, Ruta 72 y se acordó precio de indemnización con su propietaria Fabisa S.A., ascendente a la cantidad de $172.411.498.
+
+Fiscal del Ministerio de Obras Públicas.
