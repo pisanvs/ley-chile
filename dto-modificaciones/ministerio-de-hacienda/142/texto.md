@@ -1,0 +1,19 @@
+INTRODUCE MODIFICACIONES AL DECRETO N° 214, DE 1985 Núm. 142.- Santiago, 25 de Febrero de 1991.- Visto: Lo dispuesto en el artículo 5° del decreto con fuerza de ley N° 341, de Hacienda, de 1977, que aprueba el texto refundido y coordinado de los decretos leyes N°s. 1.055 y 1.233, de 1975, 1.611, de 1976, y 1.698, de 1977, sobre Zonas Francas; el decreto supremo N° 769, de Hacienda, de 1979; el decreto supremo N° 214, de Hacienda, de 1985, modificado por el decreto supremo N° 378, de Hacienda, de 1987, y lo informado por el Sr. Intendente Regional de la XII Región de Magallanes y de la Antártica Chilena, mediante oficios N°s. 1.175, de 14 de diciembre de 1990 y 118, de 4 de febrero de 1991.
+
+Decreto:
+
+Introdúcense al decreto supremo N° 214, de Hacienda, de 1985, las siguientes modificaciones:
+
+a) Agrégase al N° 1°, a continuación del punto (.) final, que pasa a ser punto (.) seguido, la siguiente nueva oración:
+
+"No obstante, este límite de 500 toneladas métricas podrá ser rebajado a un tonelaje inferior cuando a juicio de las autoridades que supervigilarán estos recintos no existieren dentro de la Región respectiva otros astilleros navales que pudieren prestar sus servicios a estas naves, embarcaciones o artefactos navales, de tonelaje inferior, o existiéndolos, no pudieren, por cualquier causa, prestar dichos servicios.", y
+
+b) Agréganse al N° 2, a continuación del inciso final introducido por el decreto supremo N° 378, de Hacienda, de 1987, que pasa a ser cuarto, los siguientes nuevos incisos:
+
+"Los astilleros navales que se autorizan instalar podrán, como parte integrante de sus servicios acogidos a los beneficios a que se refiere el presente decreto, ejecutar reparaciones y pruebas a flote, entendiéndose para estos efectos como recinto habilitado la nave, embarcación o artefacto naval que sea objeto de la reparación o prueba, siempre que éstos se encuentren en las aguas frente al astillero, en el muelle fiscal de Punta Arenas o en los espacios marítimos frente a dicho puerto que se señalarán, sólo a título referencial de la ubicación marítima exigida y sin que pueda presumirse extraterritorialidad aduanera sobre el área encerrada por sus perímetros, en cada caso particular que se autorice instalar astilleros navales. En el caso de reparaciones, los astilleros navales podrán, cuando así se autorice por las autoridades que los supervigilarán, iniciar los trabajos propios de las naves, embarcaciones y artefactos navales a flote para continuarlos en seco en sus instalaciones, manteniendo la debida relación de continuidad. En igual forma, podrán dar término a trabajos propios de las naves, embarcaciones y artefactos navales una vez que éstos se encuentren nuevamente a flote en los lugares anteriormente indicados, tratándose de trabajos iniciados en el astillero naval, o bien en casos referidos al comienzo del presente inciso, y cuya terminación no fuere posible durante la permanencia de la nave, embarcación o artefacto naval en seco o que técnicamente sea indispensable terminarlos con éstos a flote.
+
+Los astilleros que se autorizan instalar podrán, como parte integrante de sus servicios acogidos a los beneficios que establece el presente decreto, ejecutar pruebas a flote y/o en navegación de las naves, embarcaciones y artefactos navales en las aguas frente al astillero, en el muelle fiscal de Punta Arenas o en los espacios marítimos frente a dicho puerto indicados en el inciso anterior, ya sea en forma previa o posterior, o en ambos casos a la vez, a su estadía en varadero.
+
+Tómese razón, comuníquese y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Alejandro Foxley Rioseco, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud.- Pablo Piñera Echenique, Subsecretario de Hacienda.
