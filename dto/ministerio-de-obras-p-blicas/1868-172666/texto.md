@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.868, de 28 de abril de 2000, se expropió el lote de terreno Nº66, superficie 5.718 m², rol de avalúo 136-402, comuna de San Francisco de Mostazal, para la obra Concesión Internacional Ruta 5; Tramo Santiago - Talca, Región Metropolitana y se acordó el valor de indemnización con su propietaria Ilusca del Pilar Herreros Zúñiga, ascendente a la cantidad de $31.623.871.
+
+Fiscal del Ministerio de Obras Públicas.
