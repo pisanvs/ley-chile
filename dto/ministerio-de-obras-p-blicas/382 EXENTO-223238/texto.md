@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 382 de 27 de febrero de 2004, se expropió el lote de terreno Nº 94, superficie 1.978 m2, rol de Avalúo Nº 486-40, comuna de Cauquenes, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores Sector 2: Carrizal - Puente Belco Tramo Km. 23.38000 al Km. 41,26600", VIII Región y se acordó el valor de la indemnización con su propietaria Enerilda del Carmen Montecinos Valdés, ascendente a la cantidad de $625.380.
+
+- Fiscal del Ministerio de Obras Públicas.
