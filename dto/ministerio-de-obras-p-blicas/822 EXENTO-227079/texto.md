@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 822 de fecha 31 de mayo del 2004, se expropió el lote de terreno N° 9, superficie 963,5 m2, Rol N° 167-99, comuna de Maule, VII Región para la obra "Camino Ruta K-620, Sector: Culenar - Maule, Km. 0,000.00 a Km. 10,520.00" y se acordó el valor de indemnización con su propietaria Amable Antonio Espinoza Tejos, ascendente a la cantidad de $2.387.628.- para el lote N°9.-
+
+Fiscal del Ministerio de Obras Públicas.
