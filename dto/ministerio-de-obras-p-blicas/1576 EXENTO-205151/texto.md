@@ -1,0 +1,7 @@
+Por decreto MOP exento Nº 1.576 de 31 de octubre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 88, 95, 96, 97, 102, 105, 111, 112, 116 y 132, para la obra: Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, Tramo II, Km. 5,57900 a Km.
+
+10,19480, que figuran a nombre de Salgado Muñoz Sabina del Rosar, Muñoz Leonardo Suc., Fuentes Muñoz Belisario, Vargas Osorio José, Muñoz Muñoz Pedro, Vargas Osorio Sara Amalia, Bahamondes Vidal Enrique Sebas y Arriagada Sepúlveda Félix A., roles de avalúo 126-17, 126-16, 126-15, 130-33, 128-73, 126-5, 126-66, 126-59 y 125-42, comuna de Ranquil, VIII Región, superficies 315 m2.; 206 m2.; 389 m2.; 29 m2.; 423 m2.; 170 m2.; 185 m2.; 364 m2.; 1.945 m2. y 912 m2. La Comisión de Peritos fijó con fecha 20 de julio de 2001, el monto de la indemnización provisional en la cantidad de $645.000.-, para el lote 88; $164.800.-, para el lote 95; $636.200.-, para el lote 96; $88.200.-, para el lote 97; $463.000.-, para el lote 102; $740.000.-, para el lote 105; $1.272.500.-, para el lote 111; $486.800.-, para el lote 112;
+
+$1.746.000.-, para el lote 116 y $927.000.-, para el lote 132. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
