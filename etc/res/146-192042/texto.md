@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº146, del 27 de diciembre del año 2000, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo Ancud, de nombre de fantasía Huaihuen, de la comuna de Ancud, en los términos que da testimonio el acta constitutiva protocolizada con fecha 24 de octubre del 2000, bajo el Nº1.358, y el acta rectificatoria protocolizada con fecha 27 de noviembre del mismo año, bajo el Nº1.552, al final de los registros del Notario de Ancud, doña Martita Wörner Tapia.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
