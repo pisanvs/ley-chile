@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA LACKS S.R. LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 365, de 29 de Abril de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Lacks S.R. Limitada, domiciliada en Valparaíso, para instalar y operar en Avenida Los Placeres No. 838, Valparaíso, V Región, una planta procesadora de recursos hidrobiológicos en la línea de ahumado en la que podrán utilizar, agujilla, atún aleta amarilla, atún aleta larga, blanquillo, bonito, caballa, cabinza, cojinova del norte, jurel, vidriola, machuelo, bacalao de profundidad, palometa, sardina común, sardina española. La interesada deberá efectuar el transporte de las especies desde su centro de abastecimiento hasta la planta elaboradora en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 20 de Abril de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
