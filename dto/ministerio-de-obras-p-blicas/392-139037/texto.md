@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 392, de 26 de febrero de 1999, se expropió el lote de terreno Nº 15, superficie 283,10 m2, rol de avalúo 5015-75, comuna de Punta Arenas, para la obra Habilitación Acceso al Puerto Nuevo de Punta Arenas, y se acordó precio de indemnización con su propietario Astilleros y Maestranzas de la Armada Asmar, ascendente a la cantidad de $8.645.642.
+
+Fiscal del Ministerio de Obras Públicas.
