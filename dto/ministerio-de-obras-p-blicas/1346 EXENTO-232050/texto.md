@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.346 de 30 de septiembre de 2004, se expropió el lote de terreno Nº 10-B, superficie 21 m2, Rol de Avalúo Nº 511-72, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Longitudinal - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12", VII Región y se acordó el valor de indemnización con su propietario Juan Luis Castillo Quezada, ascendente a la cantidad de $931.364.-
+
+Fiscal del Ministerio de Obras Públicas.
