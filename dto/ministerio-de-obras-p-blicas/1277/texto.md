@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1277, de 24 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No. 141-C, para la obra Camino Ruta 5 Norte, Tramos Santiago - Los Vilos, Sector Km. 21.900,00 al Km.
+
+26.200,00, que figura a nombre de Negrete Farías Juan Galvarino, Rol de Avalúo No. 150-173, comuna de Lampa, superficie 1.662 m2 ., La Comisión de Peritos integrada por Luz Araya Elizalde, René Armando Cruz Momberg y Leonardo Enrique Bastías Tessada, fijó con fecha 11 de diciembre de 1997, el valor provisional de la indemnización es la cantidad de $ 7.882.866.- para el lote No. 141-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto Ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Publicas.
