@@ -1,0 +1,3 @@
+Por decreto MOP Nº767, de 31 de marzo de 1999, se expropió el lote de terreno Nº107, superficie 695 m2., rol de avalúo 160-186, comuna de Pemuco, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli'' Sector 1, VIII Región y se acordó el valor de indemnización con su propietario José Bernardino Díaz Contreras, ascendente a la cantidad de $1.266.097.
+
+- Fiscal del Ministerio de Obras Públicas.
