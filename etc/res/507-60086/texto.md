@@ -1,0 +1,3 @@
+Resolución 507, 20 diciembre 1996, SERVIU Región del Bío Bío ordenó expropiación parcial inmueble ubicado en prolongación calle M. Reyes, localidad de Dichato, Rol de Avalúo Nº 475-22, comuna Tomé, superficie 793,05 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-12304, de aparente dominio de Municipalidad de Tomé, para ejecución programa construcción viviendas básicas y progresivas, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 10 de diciembre de 1996, fijó monto provisional indemnización en $1.916.015.-, pagadera de contado.-
+
+Director SERVIU Región del Bío Bío.
