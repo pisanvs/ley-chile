@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 537 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 12, superficie 986 m², Rol de Avalúo Nº 512-198, comuna de Carahue, para la obra ''Camino Ruta S-36, Sector Tranapuente - Nehuentúe, tramo Km. 0,000 a Km. 9,997062, correspondiente al sub tramo I, Km. 0,000 a Km. 4,230'', IX Región y se acordó el valor de indemnización con su propietario Luciano Martínez Huentemilla, ascendente a la cantidad de $1.040.559.-
+
+Fiscal del Ministerio de Obras Públicas.
