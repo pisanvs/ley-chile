@@ -1,0 +1,3 @@
+Por Resolución N° 1.934, de 11 de noviembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94110164, presentada por VICTOR ARNOLDO BARRIA BARRIA, para un sector ubicado al Noreste de la Isla Rojas, comuna de Aysén, provincia de Aysén, XI Región, conforme lo dispuesto en los artículos 87° y 78° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
