@@ -1,0 +1,1 @@
+Declara que durante el plazo que indica la Línea Aérea del Pacífico Sur, Limitada Lipa Sur o cualquiera otra línea aérea comercial chilena, gozará de las mismas franquicias tributarias y aduaneras concedidas a la Línea Aérea Nacional.
