@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.725, de 25 de junio de 1999, se expropió el lote de terreno Nº 22, superficie 257 m², rol de avalúo 189-3, comuna de Linares, para la obra Camino Acceso a Linares, Sector Avenida Aníbal León Bustos y se acordó precio de indemnización con su propietaria Clara Rosa Jaque Gutiérrez o Jaques Gutiérrez, ascendente a la cantidad de $36.622.080.
+
+- Fiscal del Ministerio de Obras Públicas.
