@@ -1,0 +1,3 @@
+Por resolución Nº 1.525, de 11 de agosto de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95110029, presentada por BELMAR ELIECER VERA MANCILLA, para operar un centro de cultivo ubicado al sur de Isla Ñancul, comuna de Aysén, provincia de Aysén, XI Región, conforme a lo dispuesto en el artículo 10 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
