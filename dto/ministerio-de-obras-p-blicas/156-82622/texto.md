@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 156, de 27 de junio de 1990, se expropiaron los lotes N°s. 17-C. 40, 42, 42-A y 45, superficies 293,40 M2., 270 M2, 392 M2., 270 M2. y 333,60 M2., respectivamente, roles de avalúos 2036-2, 2938-19, 3138-2, 3138-3 y 3238-4, todas de la Comuna de La Cisterna, para la ejecución de la obra Avenida Américo Vespucio, sector Gran Avenida - Ochagavía y se acordó precio de indemnización con sus propietarios María Cisterna Torres y otros, Víctor Quilaqueo Queopil, Adriana del Carmen Flores Gajardo, Marta de las Mercedes Rojas Figueroa y otros y Celinda del Carmen Salinas y otros, ascendente a las cantidades de $ 3.248.640, $ 2.807.028, $ 5.471.928, $ 6.527.736 y $ 6.286.118.
+
+Fiscal del Ministerio de Obras Públicas.
