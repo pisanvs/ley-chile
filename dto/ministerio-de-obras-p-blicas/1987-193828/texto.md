@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.987, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº16-A, superficie 6.723 m2, rol de avalúo 75-1, comuna de Teno, VII Región, para la obra "Camino ruta J-25, Sector Cruce Longitudinal-La Montaña, Km. 0,22000 al 25,00000" y se acordó el valor de indemnización con su propietario don José del Carmen Aliaga Castro, ascendente a la cantidad de $8.852.705.
+
+- Fiscal del Ministerio de Obras Públicas.
