@@ -1596,6 +1596,8 @@ MATERIA:
 
 PREVENCION DEL LAVADO DE ACTIVOS.
 
+> **Nota.** La Circular 3150, SBIF, promulgada el 30.10.2001, dispone que las recomendaciones del presente Capítulo, si si bien están orientadas principalmente a actividades relacionadas con el narcotráfico, debe entenderse que ellas también se extienden a las operaciones que pueden realizarse utilizando la red bancaria para financiar actividades de carácter terrorista. Por tanto, las entidades financieras del país, deben prestar la debida atención a las transacciones y movimientos de fondos que puedan realizarse por su intermedio y que les parezcan sospechosos, ya sea por las personas que participan en ellos, por el destino de los dineros, por lo inusual de las operaciones o por cualquier detalle.
+
 1.- Consideraciones Generales.
 
 Las instituciones bancarias, por la naturaleza de sus funciones, pueden ser utilizadas para depositar y transferir fondos provenientes de actividades ilícitas, especialmente el narcotráfico, como también para intentar legitimar los activos, producto de tales actividades.
