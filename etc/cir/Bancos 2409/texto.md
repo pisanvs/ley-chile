@@ -19884,9 +19884,9 @@ La obligación de retomar los importes antes mencionados, no será exigible cuan
 
 ### 7. Plazo para efectuar el retorno y liquidación de divisas
 
-El importe de moneda extranjera recibido por los conceptos a que se refiere el N° 6 precedente, deducidos los montos destinados a efectuar pagos en el exterior derivados de las operaciones de que trata este Capítulo, deberá ser retomado dentro del plazo de quince días contados desde la fecha en que el Banco Central de Chile notifique su obligación de retorno y liquidarse, cuando proceda, dentro de los diez días siguientes al término de dicho plazo.
+El importe de moneda extranjera recibido por los conceptos a que se refiere el N° 6 precedente, deducidos los montos destinados a efectuar pagos en el exterior derivados de las operaciones de que trata este Capítulo, deberá ser retornado y liquidado dentro de los plazos que fijan las normas del Banco Central de Chile.
 
-En caso que las instituciones financieras no mantengan posiciones abiertas, deberán retornar los saldos remanentes que subsistan en el exterior, dentro de un plazo de noventa días contados desde la fecha en que hayan dejado de operar, y liquidarlos dentro de los diez días siguientes a la fecha de retorno.
+Por otra parte, los Bancos no están obligados a retornar, y liquidar los ingresos netos que obtengan por concepto de valoración diaria de contratos a futuro, ni los saldos que mantengan en el exterior sin tener posiciones abiertas. En caso que decidan retornar dichos importes, deberán cumplir ese trámite por intermedio del mercado cambiario formal y liquidarlos dentro de los plazos establecidos por el Instituto Emisor.
 
 ### 8. Instrucciones contables
 
@@ -20178,9 +20178,9 @@ La obligación de retomar los importes antes mencionados, no será exigible cuan
 
 ### 6. Plazo para efectuar el retorno y liquidación de divisas
 
-El importe de moneda extranjera recibido por los conceptos a que se refiere el N° 5 anterior, deducidos los montos destinados a efectuar pagos en el exterior derivados de las operaciones de que trata este Capítulo, deberá ser retornado dentro del plazo de quince días contados desde la fecha en que el Banco Central de Chile notifique su obligación de retorno y liquidarse, cuando proceda, dentro de los diez días siguientes al término de dicho plazo.
+El importe de moneda extranjera recibido por los conceptos a que se refiere el N° 5 precedente, deducidos los montos destinados a efectuar pagos en el exterior derivados de las operaciones de que trata este Capítulo, deberá ser retornado y liquidado dentro de los plazos que fijan las normas del Banco Central de Chile.
 
-En caso que los bancos no mantengan posiciones abiertas, deberán retornar los saldos remanentes que existan en el exterior, dentro de un plazo de noventa días contados desde la fecha en que hayan dejado de operar y liquidarlos dentro de los diez días siguientes a la fecha del retorno.
+Por otra parte, los Bancos no están obligados a retornar y liquidar los ingresos netos que obtengan por concepto de valoración diaria de contratos a futuro, ni los saldos que mantengan en el exterior sin tener posiciones abiertas. En caso que decidan retornar dichos importes, deberán cumplir ese trámite por intermedio del mercado cambiario formal y liquidarlos dentro de los plazos establecidos por el Instituto Emisor.
 
 ### 7. Normas contables
 
@@ -20444,29 +20444,9 @@ Haber: - "Contravalor de opciones call adquiridas sobre contratos a futuro de di
 
 - "Contravalor de opciones put adquiridas sobre contratos a futuro de divisas". Ambas de la partida 4127.
 
-Los importes registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
+Los importes registrados en estas cuentas se revertirán al extinguirse, venderse o liquidarse la opción.
 
-7.5.2. Venta de opciones call (de compra) o put (de venta).
-
-a) Por el Importe de los contratos a los que se refieren las opciones en la moneda que ellos representan.
-
-Debe: - "Contratos a futuro."
-
-Haber: - "Opciones call vendidas sobre contratos a futuro de divisas", o bien,
-
-- "Opciones put vendidas sobre contratos a futuro de divisas". Ambas de la partida 4127.
-
-b) Por el contravalor de los contratos a los que se refieren las opciones en la moneda del precio pactado.
-
-Debe: - "Contravalor de opciones call vendidas sobre contratos a futuro de divisas", o bien,
-
-- "Contravalor de opciones put vendidas sobre contratos a futuro de divisas". Ambas de la partida 2127.
-
-Haber: - "Contratos a futuro".
-
-Los montos registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
-
-7.5.3. Primas por compras y ventas de opciones.
+7.5.2. Primas por compras y ventas de opciones.
 
 a) Por compra de opciones.
 
@@ -20496,7 +20476,7 @@ Debe: - "Cambio mercado bancario".
 
 Haber: - "Prima por venta de opciones sobre contratos a futuro de divisas", de la partida 7530.
 
-7.5.4. Liquidación de opciones.
+7.5.3. Liquidación de opciones.
 
 Las diferencias que resulten a favor de los bancos al liquidar las opciones, se registrarán de la siguiente forma:
 
@@ -20528,9 +20508,9 @@ Por otra parte, los bancos deben ajustar el saldo de la cuenta "Cambio-Divisas p
 
 7.6.2. Opciones.
 
-El último día de cada mes, las instituciones financieras procederán a determinar las diferencias entre los aumentos de precio que hayan experimentado las opciones compradas vigentes y los aumentos de precio que hayan tenido las opciones vendidas vigentes, desde las fechas dé compra y venta respectivamente, para registrar los importes netos de ellas en caso de que proceda. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan contabilizado en el mes precedente.
+El último día de cada mes, las instituciones financieras procederán a determinar las diferencias de precio que hayan experimentado las opciones compradas vigentes, desde la fecha de compra, para registrar los importes de ellas en caso de que proceda. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan contabilizado en el mes precedente.
 
-Dichos ajustes netos se registrarán por el equivalente de las respectivas monedas, en pesos moneda chilena, con cargo a la cuenta "Variación opciones sobre contratos a futuro de divisas", de la partida 2127 y abono a "Utilidades de opciones sobre contratos a futuro de divisas".
+Dicho ajuste se registrará por el equivalente de las respectivas monedas, en pesos moneda chilena, con cargo a la cuenta "Variación opciones sobre contratos a futuro de divisas", de la partida 2127 y abono a "Utilidades de opciones sobre contratos a futuro de divisas".
 
 El ajuste corresponderá exclusivamente al valor de las primas de las respectivas opciones y sólo se registrará en caso de que ellas aumenten antes de que expiren o se ejerzan. El importe de dicho valor se convertirá a moneda chilena, al tipo de cambio de representación contable vigente a la fecha del ajuste.
 
