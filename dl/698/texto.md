@@ -1,0 +1,63 @@
+FIJA UBICACION EN LA ESCALA UNICA AL PERSONAL DEL CONSEJO NACIONAL PARA LA ALIMENTACION Y NUTRICION Santiago, 15 de Octubre de 1974.- Con esta fecha se ha dictado lo siguiente:
+
+Núm. 698.- Visto: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973; N.o 527, de 1974; artículos 15.o del decreto ley N.o 249, de 1973, y 4.o, letra i) del decreto ley N.o 354, de 1974, y
+
+Considerando: Que el Consejo Nacional para la Alimentación y Nutrición debe realizar acciones múltiples de carácter técnico y administrativo;
+
+Que para estos efectos requiere contar con el personal mínimo necesario que permita llevar a la práctica sus objetivos y mantener la continuidad de sus acciones;
+
+Que de conformidad a lo establecido en la letra i) del artículo 4.o del decreto ley N.o 354, de 1974, el Consejo aprobó en sesión celebrada el 9 de Julio del mismo año, el proyecto de planta del personal de dicha intitución;
+
+La Honorable Junta de Gobierno Ha resuelto dictar el siguiente
+
+Decreto ley:
+
+#### Artículo único
+
+Fíjase, a contar del 1.o de Junio de 1974, para el personal del Consejo Nacional para la Alimentación y Nutrición, la siguiente planta de personal con su respectiva ubicación en la Escala Unica de Sueldos:
+
+PLANTA DIRECTIVA, PROFESIONAL Y
+
+TECNICA
+
+_______________________________________________________
+
+N° Grado
+
+Designación Actual Funcionarios Escala Unica
+
+_______________________________________________________
+
+Coordinador Ejecutivo______ 1 4°
+
+Secretario Ejecutivo_______ 1 5°
+
+Coordinador Planificación__ 1 6°
+
+Asesor Legal_______________ 1 6°
+
+Jefe Depto. Informática____ 1 7°
+
+Coordinador Operaciones____ 1 8°
+
+Nutricionista______________ 1 16°
+
+Esacala Administrativa
+
+Secretaria Bilingüe
+
+Taquígrafa_________________ 1 19°
+
+Secretaria Dactilógrafa____ 2 27°
+
+Escala Servicios Menores
+
+Estafeta___________________ 1 31°
+
+_______________________________________________________
+
+El personal del Consejo Nacional para la Alimentación y Nutrición sólo podrá percibir, además de los sueldos de la citada escala, las asignaciones que señala el artículo 5.o del decreto ley N.o 249, de 1973, y 3.o del decreto ley N.o 479, de 1974.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría General.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Francisco Herrera Latoja, General de Brigada Aérea (T), Ministro de Salud.- Jorge Cauas Lama, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud- Angel Guzmán Véliz, Comandante de Escuadrilla (S), Subsecretario de Salud Pública.
