@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.765, de 28 de abril del 2000, se expropió el lote de terreno Nº 365, superficie 144 m2., rol de avalúo 7852-10, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietario Eduardo Alberto Morán Tapia, ascendente a la cantidad de $9.197.528.
+
+Fiscal del Ministerio de Obras Públicas.
