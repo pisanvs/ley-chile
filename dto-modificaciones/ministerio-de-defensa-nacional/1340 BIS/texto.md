@@ -1318,7 +1318,7 @@ Apertura y clausura de los puertos
 
 #### Artículo 241
 
-Los puertos de la República se "abrirán a las 07.00 horas, desde el 15 de Abril "hasta el 14 de Octubre, y a las 06.00 horas, desde "el 15 de Octubre hasta el 14 de Abril inclusive; se "cerrarán en todo tiempo a las 21.00 horas, a menos "que ocurra el caso de urgencia o socorro, o bien con "la correspondiente licencia de la Dirección del "Litoral y de Marina Mercante. En la provincia de "Magallanes, durante los meses de Noviembre, "Diciembre y Enero se cerrarán a las 22.00 horas.
+Los puertos de la República se abrirán a las 07,00 horas, desde el 15 de abril hasta el 14 de octubre, y a las 06,00 horas, desde el 15 de octubre hasta el 14 de abril, inclusive. Se cerrarán en todo tiempo a las 21,00 horas, a menos que ocurra el caso de urgencia o socorro, o bien, con la correspondiente licencia de la Dirección del Litoral y de Marina Mercante. En la provincia de Magallanes, durante los meses de noviembre, diciembre y enero, se cerrarán a las 22,00 horas.
 
 #### Artículo 242
 
@@ -1328,29 +1328,29 @@ Esta disposición no rige para las naves que tienen permiso para hacer el cabota
 
 #### Artículo 243
 
-Los Armadores gratificarán al personal de las Capitanías de Puerto Cuando deban recibir o despachar sus naves entre la hora del cierre del puerto y su apertura en la forma siguiente:
+Los armadores o agentes de naves que soliciten recibir o despachar sus naves en días ordinarios, Domingos o festivos, gratificarán al personal que ejecuta esta labor de las Capitanías de Puerto y por intermedio de las planillas reglamentarias en la siguiente forma:
 
-Días ordinarios:
+Días ordinarios.
 
-a) Treinta pesos ($ 30.00), por hora o fracción "desde la hora del cierre del puerto hasta las 24.00 horas.
+a) Ochenta pesos ($ 80), por hora o fracción desde las horas del cierre del puerto hasta las 24.00 horas.
 
-b) Cuarenta pesos ($ 40.00), por hora desde las "00.00 horas o fracción hasta la hora de apertura del puerto.
+b) Cien pesos ($ 100), por hora o fracción, desde las 0 horas hasta las hora de apertura del puerto.
 
-Días domingos o festivos:
+Días Domingos o festivos:
 
-a) Cuarenta pesos ($ 40.00), por hora o "fracción desde la hora de cierre del puerto hasta las 24.00 horas.
+a) Ochenta pesos ($ 80), por hora o fracción desde la apertura del puerto hasta la hora del cierre del puerto.
 
-b). Cincuenta pesos ($ 50.00), por hora o "fracción desde las 00.00 horas hasta la hora de apertura.
+b) Ciento veinte pesos ($ 120), por hora o fracción, desde la hora del cierre del puerto hasta las 24.00 horas.
 
-Gozará también de esta gratificación y, dentro "de las mismas horas el personal que a petición de los Armadores sea apostado a bordo de guardia o vigilancia.
+c) Ciento cincuenta pesos ($ 150), por hora o fracción, desde las 0 horas hasta la hora de apertura del puerto.
 
-Los pagos de las gratificaciones indicadas los harán los armadores o agentes mensualmente, con intervención del capitán de puerto, enviando copia de la planilla a la Dirección del Litoral y de Marina Mercante.
+Gozará, también, de esta gratificación y dentro de las mismas horas, el personal que, a petición de los armadores o agentes, sea apostado a bordo como vigilante y aquel personal de oficinas que por turnos internos de cada Capitanía de Puerto deba atender efectivamente trabajos relacionados con el despacho o recepción de una nave.
 
-Los prácticos que maniobren con la nave, gozarán sólo de la gratificación que les señala la Ley y Reglamento respectivo.
+La gratificación que indica el presente decreto se cobrará desde la hora que un armador o agente de nave solicita la recepción o despacho, hasta la hora que efectivamente ejecuta la labor el personal de la Capitanía de Puerto.
 
-Esta gratificación también la pagarán las naves autorizadas especialmente por la Dirección del Litoral y de Marina Mercante para ser recibida o despachadas en horas extraordinarias.
+En el horario nocturno, cuando un armador o agente no indique en la solicitud la hora de despacho o recepción de una nave, se cobrará la labor desde el cierre del puerto.
 
-Al personal indicado le es prohibido recibir de los armadores cualquier otra gratificación o regalía por este concepto.
+Esta gratificación será reajustada anualmente en el porcentaje que fije el Banco Central de Chile con la información que le proporcione la Dirección General de Estadística, respecto al aumento del costo de la vida en el año inmediatamente anterior.
 
 ## Capítulo XXVII
 
@@ -1475,6 +1475,12 @@ La ronda tendrá facultad de proceder a detener a las personas cogidas en flagra
 #### Artículo 266
 
 La resistencia, los ultrajes, las violencias o vías de hecho contra el personal de la Capitanía de Puerto, en el ejercicio de sus funciones o a causa de ellas, se considerarán como hechos a los agentes de la fuerza pública.
+
+#### Artículo 266
+
+a. - El Personal de la Policía Marítima, sean Oficiales o Suboficiales, cuando deben desempeñar sus funciones vestidos de civil, usarán una placa, según modelo, que los identificará como tales.
+
+El uso de dicha placa será puesto en "conocimiento de la Aduana, Cuerpo de Carabineros e Investigaciones, para los efectos de la colaboración que puedan prestar al personal de la Policía Marítima en el desempeño de sus labores.
 
 ## Capítulo XXXI
 
