@@ -1,0 +1,3 @@
+Por decreto MOP. Nº186, de 27 de febrero de 1998, se expropió el lote de terreno Nº47-B, superficie 6.798 m2., rol de avalúo 220-28, comuna de Santa Juana, para la obra Camino de La Madera, sector Bifurcación Diuquín - Santa Juana, y se acordó el valor de indemnización con su propietario Renato del Tránsito Soto Jofré, ascendente a la cantidad de $1.122.486.
+
+- Fiscal del Ministerio de Obras Publicas.
