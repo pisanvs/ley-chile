@@ -1,0 +1,5 @@
+CERTIFICADO Nº 3
+
+Certifico que Red Sur Ganaderos S.A., RUT Nº99.539.730-7, representantes legales Enrique Alfonso Sabugo Canseco, RUT Nº5.777.999-3 y Andrés Nicanor Reichert Meiners, RUT Nº7.052.158-K cumple los requisitos establecidos en la resolución Ex. Nº3.784 del 25.06.1998 publicada en el Diario Oficial 30.06.98, modificada por la resolución Nº Ex. 3.722 de 28.07.2000 publicada en el Diario Oficial de 01.08.2000, y que en consecuencia, tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado, en las ventas de carne y servicios de faenamiento de ganado que efectúe durante el período comprendido entre el 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial con vigencia indefinida.
+
+Temuco, 28 de mayo de 2004.- René Cornejo Cáceres, Director IX Dirección Regional Temuco.
