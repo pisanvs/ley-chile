@@ -1,0 +1,3 @@
+Por resolución N° 209 de 24 de Marzo de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A. R.U.T. N° 93.711.000-6, domiciliada en calle Miraflores N° 178, piso 16, Santiago, para continuar desarrollando las actividades pesqueras autorizadas mediante todas las resoluciones vigentes otorgadas por esta Subsecretaría a Pesquera Interpolar S.A., R.U.T. N° 89.388.800-4, domiciliada en Talcahuano, por haberse fusionado esta última con la primera, según consta de las Escrituras Públicas citadas en vistos y en virtud de lo dispuesto en la Ley N° 18.046 sobre sociedades anónimas.
+
+Valparaíso, 24 de Marzo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
