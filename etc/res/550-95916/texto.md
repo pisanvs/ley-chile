@@ -1,0 +1,3 @@
+Por resolución No. 550, de 30 de mayo de 1989, del SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado en calle Ricardo Santa Cruz No. 763, presunto rol avalúos No. 596-16 comuna de Santiago aparentemente dominio de don Domingo Martínez Ladrón de Guevara. Comisión integrada por peritos Sres. Ricardo Carvallo Rodríguez y Luis del Pozo Concha, arquitectos y Raúl Varela Hernández, ingeniero civil, según informe de 2 de diciembre de 1988 fijó monto provisional indemnización en $1.767.840, pagadera al contado.
+
+Director SERVIU Metropolitano.
