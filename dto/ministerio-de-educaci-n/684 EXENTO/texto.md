@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 684 EXENTO, DE 1997
+
+Por Decreto exento Nº 684 de fecha 25 de junio de 1997 del Ministerio de Educación, se revocó el reconocimiento oficial y se eliminó del Registro de Centros de Formación Técnica el Nº 156, correspondiente al Centro de Formación Técnica Fundación EPSON, organizado por la Sociedad Centro de Formación Técnica Estudios y Proyectos S.A., dejándose sin efecto el Decreto exento de Educación Nº 182 del 25 de agosto de 1987, modificado por Decreto exento de Educación Nº 166 del 21 de abril de 1993 y las Resoluciones exentas que aprobaron los planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica mencionado. Ello a solicitud de la propia institución.
+
+Santiago, 7 de julio de 1997.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
