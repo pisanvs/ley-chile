@@ -1,0 +1,3 @@
+Por decreto MOP. No. 956, de 30 de julio de 1998, se dejó sin efecto el decreto MOP. No. 552, de 30 de junio de 1997, en la parte que se refiere a la expropiación del lote No. 7, rol de avalúo No. 90317-1, de la comuna de Valparaíso, para la ejecución de la obra Proyecto Habilitación Nuevo Camino La Pólvora, Etapa 1, sector Ruta 68, Acceso Sur a Valparaíso, Camino La Pólvora.-
+
+Fiscal del Ministerio de Obras Públicas.
