@@ -1380,7 +1380,9 @@ Las referidas instrucciones se mantienen vigentes.
 
 Los depósitos en cuentas corrientes serán acreditados en la cuenta "Acreedores en cuentas corrientes", de la partida 3005.
 
-No obstante, las cuentas corrientes sujetas a condiciones especiales establecidas en las Normas de Cambios Internacionales del Banco Central de Chile, aludidas en el numeral 1.6 de este título, se reflejarán en la cuenta "Acreedores en cuentas corrientes especiales - normas de cambio", de la misma partida 3005. Por otra parte, para los depósitos por consignación a que se refieren los artículos 507 y 509 del Código Orgánico de Tribunales, se mantendrá en esa partida la cuenta "Consignaciones judiciales en cuentas corrientes".
+No obstante, las cuentas corrientes sujetas a condiciones especiales establecidas en las Normas de Cambios Internacionales del Banco Central de Chile, aludidas en el numeral 1.6 de este título, se reflejarán en la cuenta "Acreedores en cuentas corrientes especiales - normas de cambio", de la misma partida 3005.
+
+Los depósitos por consignaciones judiciales, a que se refiere el artículo 507 del Código Orgánico de Tribunales, se registrarán en la cuenta "Depósitos por consignaciones judiciales artículo 507", de la partida 3010 "Otros saldos acreedores a la vista".
 
 Con respecto al tratamiento contable de los créditos o sobregiros en cuentas corrientes, los bancos deben atenerse a lo dispuesto en el Capítulo 8-1 de esta Recopilación.
 
@@ -3836,9 +3838,13 @@ Las empresas bancarias y las sociedades financieras conformarán la exigencia de
 
 Los depósitos, captaciones y otras obligaciones en moneda nacional, que mantengan las empresas bancarias y las sociedades financieras, estarán afectos a las siguientes tasas de encaje:
 
-1.1. Depósitos, captaciones y obligaciones a la vista.
+1.1.1. Depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial.
 
-Los depósitos, captaciones y obligaciones a la vista, cualquiera sea su naturaleza, estarán afectos a una tasa de encaje de 10%.
+Los depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial efectuados conforme al artículo 507 del Código Orgánico de Tribunales, estarán afectos a una tasa de encaje de 10%.
+
+1.1.2. Depósitos a la orden judicial.
+
+Los depósitos a la orden judicial estarán afectos al 4% de encaje.
 
 1.2. Depósitos, captaciones y obligaciones a plazo.
 
@@ -3848,23 +3854,31 @@ Las demás captaciones a más de un año no estarán afectas a encaje.
 
 2. Cuentas de depósitos, captaciones y obligaciones en moneda nacional afectas a encaje.
 
-2.1 Cuentas de depósitos, captaciones y obligaciones a la vista.
+2.1. Cuentas de depósitos, captaciones y obligaciones a la vista.
 
-Estarán afectos a encaje a la tasa señalada en el numeral 1.1 anterior, los saldos de las cuentas que se demuestren en las siguientes partidas del MB1:
+2.1.1. Depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial.
+
+Estarán afectos a encaje a la tasa señalada en el numeral 1.1.1 anterior, los saldos de las cuentas que se demuestren en las siguientes partidas del MB1:
 
 a) Bancos.
 
-N° 3005 "Acreedores en cuentas corrientes",
+N° 3005 "Acreedores en cuentas corrientes";
 
-N° 3010 "Otros saldos acreedores a la vista", y,
+N° 3010 "Otros saldos acreedores a la vista" (exceptuados los depósitos por consignaciones judiciales artículo 507); y,
 
-N° 3015 "Depósitos de ahorro a la vista".
+N° 3015 "Depósitos de ahorro a la vista"; y,
 
 b) Sociedades Financieras.
 
 N° 3010 "Otros saldos acreedores a la vista"; y,
 
 N° 3015 "Depósitos de ahorro a la vista".
+
+2.1.2. Depósitos a la orden judicial
+
+Estará afecto a encaje a la tasa señalada en el numeral 1.1.2 anterior, el saldo de la cuenta "Depósitos por consignaciones judiciales artículo 507" que se demuestra en la partida N° 3010 del MB1.".
+
+La nueva tasa de encaje para los depósitos a la orden judicial será aplicable a contar del "período mensual" de encaje que finaliza el 8 de enero en curso.
 
 2.2. Cuentas de depósitos, captaciones y obligaciones a Plazo.
 
