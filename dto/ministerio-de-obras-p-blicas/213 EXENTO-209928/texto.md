@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 213, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 124-B, superficie 2.905 m², Rol Nº78-291, comuna de Galvarino, IX Región, para la obra "Camino Ruta S-10, Sector Cruce Long. (Lautaro)-Galvarino, Tramo Km. 0,000 al 34,50853, correspondiente al Sub-Tramo IV, Km. 18,000 al 25,837" y se acordó el valor de indemnización con su propietario Ramón Angel Gutiérrez Olguín ascendente a la cantidad de $2.739.848.-
+
+Fiscal del Ministerio de Obras Públicas.
