@@ -1,0 +1,3 @@
+Por decreto MOP Nº 138 de fecha 27 de febrero de 2003, se expropió el lote de terreno Nº 576, superficie 3.611 m², rol de avalúo en trámite, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 a Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietaria Sociedad Agrícola Santa Lucía Limitada, ascendente a la cantidad de $5.180.866.
+
+- Fiscal del Ministerio de Obras Públicas.
