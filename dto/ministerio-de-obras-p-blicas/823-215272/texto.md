@@ -1,0 +1,3 @@
+Por decreto MOP Nº 823 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 3, superficie 3.240,62 m², rol de avalúo Nº 179-477, comuna de Nogales, para la obra ''Construcción Camino Conexión Ex Asentamiento El Melón-Atravieso El Melón, Sector El Melón, Km. 0,00000 a Km. 0,74811 y se acordó el valor de la indemnización con su propietario Adán Fredes Godoy, ascendente a la cantidad de $34.140.237.
+
+- Fiscal del Ministerio de Obras Públicas.
