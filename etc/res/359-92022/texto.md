@@ -1,0 +1,3 @@
+Por Resolución No. 359 de 19 de abril de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1987, inmueble ubicado en calle Lord Cochrane No. 528, presunto rol avalúos 646-48 comuna Santiago, aparentemente dominio de María Vargas Gutiérrez. Comisión integrada por peritos Sres. Roberto Correa Bezanilla y Eduardo Suárez Suárez, arquitectos y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20 de octubre de 1988, fijó monto provisional indemnización en $ 5.166.480.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
