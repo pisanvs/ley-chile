@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.201, de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº18, superficie 234 m2., rol de avalúo 323-54, comuna de Río Negro, para la obra "Camino Ruta U-72, Sector Huilma-Riachuelo, Tramo, Km. 18,14000 a Km. 33,91000" y se acordó el valor de indemnización con su propietaria Edith Teolinda Arismendi Arismendi, ascendente a la cantidad de $271.941.-
+
+Fiscal del Ministerio de Obras Públicas.
