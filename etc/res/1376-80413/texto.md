@@ -1,0 +1,3 @@
+Por resolución No. 1.376 de 4 de Noviembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de esta fecha, el plazo otorgado a don BRUNO JOSE INZUNZA DERIO, R.U.T. No. 7.241.921-9, domiciliado en el Sector de La Aguada s/n, Comuna de Corral, en el numeral 2° de la Resolución No. 1003, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 4 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.-
