@@ -1,0 +1,3 @@
+Por resolución No. 546, de 30 de Mayo de 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado en calle Ricardo Santa Cruz No. 271, presunto rol avalúos 596-9 comuna Santiago, aparentemente dominio de Juan Quiroz Henríquez. Comisión integrada por peritos Sres. Ricardo Carvallo Rodríguez y Luis del Pozo Concha, arquitectos y Raúl Varela Hernández, ingeniero civil, según informe de 2 de Diciembre de 1988, fijó monto provisional indemnización en $ 3.911.240, pagadera al contado.
+
+Director SERVIU Metropolitano.
