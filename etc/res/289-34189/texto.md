@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES QUE SEÑALA
+
+Resolución 289, 13 septiembre 1996, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Los Carrera N° 2123, Rol de Avalúo n° 391-5, comuna Concepción, superficie 70 m2. de terreno y 151 m2 de edificación, dentro polígono y linderos señalados plano expropiación S8R-11029-391-5; de aparente dominio de Tomasa del C. Campos Alvarez, para ejecución programa "Mejoramiento Eje Vial Los Carrera de Concepción", conforme artículo 51 Ley 16.391 y D.L. 2.186, Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 30 de julio de 1996, fijó monto provisional indemnización en $5.820.000, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
