@@ -1,0 +1,3 @@
+Por resolución Nº790, de 22 de abril de 2002, de esta Subsecretaría, apruébase la solicitud presentada por MIGUEL LEONARDO SILVA CARRILLO para transferir la autorización de acuicultura otorgada por resolución Nº 1.229 de 2000, modificada por resolución Nº711 de 2002, ambas de esta Subsecretaría, a Sociedad Agrícola y Pesquera Chillehue Limitada.
+
+Valparaíso, 22 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
