@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.546, de 30 de noviembre de 1998, se expropiaron los lotes de terreno Nºs 11 y 12, superficies 473 y 319 m2, roles de avalúo 436-6 y 436-7, comuna de Concepción, Obra Mejoramiento Autopista Concepción - Talcahuano, Sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con sus propietarios Alejandro Paredes y otros y Armando Faustino Tagle Farías, ascendente a las cantidades de $ 48.819.085.- lote 11 y $ 23.768.552.- lote 12.
+
+- Fiscal del Ministerio de Obras Públicas.
