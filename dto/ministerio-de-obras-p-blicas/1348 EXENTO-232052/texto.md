@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.348 de 30 de septiembre de 2004, se expropió el lote de terreno Nº 11, superficie 236 m2, Rol Nº 518-148, comuna de Antuco, VIII Región para la obra "Camino Ruta Q-45, Sector Antuco-Abanico. Tramo I Km. 0,00000 a Km. 3,95000" y se acordó el valor de indemnización con su propietario Guido Alfonso Soto Melo, ascendente a la cantidad de $658.184.-
+
+Fiscal del Ministerio de Obras Públicas.
