@@ -1,0 +1,3 @@
+Por resolución Nº489, de 8 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº96043020, presentada por ANGELO IVAN CUPRA URBINA, para operar un centro de cultivo en Sector Playa Peñuelas, Bahía Coquimbo, comuna de Coquimbo, provincia de Elqui, IV Región, conforme lo dispuesto en el artículo 67 inciso 5º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
