@@ -1,0 +1,5 @@
+1184-17-771116 - MODIFICA ACUERDOS DE SESIONES N.os 1.112 Y 1.145, SOBRE IMPORTACION DE AUTOMOVILES USADOS EN SITUACION ESPECIAL
+
+Certifico que el Comité Ejecutivo de este Banco Central, en su Sesión número 1.184, celebrada el 16 de Noviembre en curso, resolvió modificar el acuerdo de Sesión Nº 1.112, y su modificción posterior en Sesión Nº 1.145, sobre importación de automóviles usados en situación especial (Diario Oficial de 30-11-76, 1-12-76 y 16-5-77), en el sentido de que el plazo concedido para presentar al Banco Central las solicitudes por personas que deseen acogerse a dicho acuerdo, se amplía hasta el 31 de Diciembre de 1977, y el plazo para ingresar los vehículos que originan las aludidas presentaciones se amplía al 16 de Noviembre de 1977. Las demás disposiciones se mantienen sin alteraciones.
+
+Santiago, 18 de Noviembre de 1977.- Gabriel Armas Fernández, Prosecretario.
