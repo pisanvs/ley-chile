@@ -1,0 +1,3 @@
+Por decreto MOP Nº 332, de 28 de febrero de 2001, se expropió el lote de terreno Nº 21, superficie 1.582 m²., rol de avalúo 107-161, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Enlace Zapata Oriente, Región Metropolitana y se acordó el valor de indemnización con su propietario Fernando Corvalán Rosales, ascendente a la cantidad de $10.089.490.
+
+- Fiscal del Ministerio de Obras Públicas.
