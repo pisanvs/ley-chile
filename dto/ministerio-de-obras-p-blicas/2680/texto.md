@@ -1,0 +1,5 @@
+Por decreto MOP No. 2.680, de 28 de diciembre de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP No. 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley No. 15.840, se expropiaron los lotes de terreno No. s 12 y 42, para la obra Proyecto Embalse Puclaro, Sector Variante a Ruta 41-CH, Km.
+
+0.000 a Km. 10.320, que figuran a nombre de Sergio Meléndez Cathalifaud, rol de avalúo 402-6, de la comuna de Vicuña, superficies 5.830 y 5.342 m2, respectivamente. La Comisión de Peritos compuesta por los señores Juan Ibáñez Palma, Alfredo Prieto Parra e Iris Marcich Moller, fijó con fecha 25 de septiembre de 1996, los valores provisionales de las indemnizaciones en las cantidades de $ 270.078, lote No. 12 y $ 3.302.240, lote No. 42. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
