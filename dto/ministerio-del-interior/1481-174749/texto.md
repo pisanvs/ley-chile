@@ -452,6 +452,8 @@ El presidente y el tesorero de la Junta de Vecinos podrán girar sobre los fondo
 
 En el acta correspondiente se dejará constancia de la cantidad autorizada y el objetivo del gasto.
 
+No obstante, por tratarse de actos de administración interna, no será exigible a los terceros interesados conocer los términos de la aprobación del directoria, ni la constancia en el acta correspondiente.
+
 #### Artículo 67º
 
 Los cargos de directores de la Junta de Vecinos y miembros de la Comisión Fiscalizadora de Finanzas son esencialmente gratuitos, prohibiéndose la fijación de cualquier tipo de remuneración. Además, serán incompatibles entre sí.
