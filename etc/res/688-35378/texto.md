@@ -1,0 +1,5 @@
+Por Resolución N° 688 de 18 de Julio de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase parcialmente la Resolución N° 558, de 1994, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, R.U.T. N° 81.518.400-9, para efectuar una pesca de investigación dirigida al recurso Langosta de Juan Fernández (jasus frontalis), en el sentido que el inciso segundo del numeral 2 será reemplazado en los términos que a continuación se indican.
+
+"... Con ese fin, la solicitante podrá capturar, mediante trampas o buceo autónomo a profundidades de hasta 100 metros, 150 individuos de la especie Langosta de J. Fernández, según el siguiente detalle: 50 hembras ovígeras, 50 machos bajo la talla mínima legal y 50 hembras bajo el tamaño mínimo legal...".
+
+Valparaíso, 18 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
