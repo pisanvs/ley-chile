@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 594, de 22 de mayo de 2001, y en base a la facultad otorgada por el artículo 105 del DFL. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 88, para la ejecución de la obra "Camino Caletones-Termas de Cauquenes Conexión Ruta 5 Sur, Roles H-255; H-35 y H-405, Sector Coya-Gultro, Km. 0,0000 a Km. 28,38019; Sector Coya-Gultro Km. 13,60500 a Km.
+
+28,38000", que figura a nombre de Felipe Francisco Martínez Ferrero, Rol de Avalúo 37-198, comuna de Requínoa, VI Región, superficie 153 m². La comisión de peritos fijó con fecha 2 de marzo de 2000, la indemnización provisional en la cantidad de $447.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
