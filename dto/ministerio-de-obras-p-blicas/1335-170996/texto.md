@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.335, de 17 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 5, 7, 10 y 44, para la obra Construcción y Mejoramiento Camino Teno Maitenes, sector La Montaña Maitenes, Kms.
+
+25,00046 al 37,61620, que figura a nombre de Jorge Urzúa Corral, Samuel Quezada Mori y otros y Juan de la Fuente Martínez, roles de avalúo 68-261, 68-209 y 68-207 comuna de Teno, VII Región, superficies 16.107,7, 536,2, 252,2 y 1.478,9 m2, respectivamente. La Comisión de Peritos fijó con fecha 7 de abril de 1999, los valores provisionales de las indemnizaciones en las cantidades de $4.510.156 el lote Nº5, $250.136 el lote Nº7, $70.616 el lote Nº10 y $214.367 el lote Nº44. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
