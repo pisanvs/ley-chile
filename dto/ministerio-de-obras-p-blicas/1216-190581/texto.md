@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.216, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº14 A-1, superficie 272 m2., sin rol de avalúo, comuna de Yungay, para la obra "Area de Riego Rinconada, Canal Rinconada Faja Adicional Km. 0,000.00 al Km. 2,389 del Proyecto Laja Diguillín", y se acordó el valor de indemnización con su propietario Hernán Jesús Vallejos Parra, ascendente a la cantidad de $114.703.-
+
+Fiscal del Ministerio de Obras Públicas.
