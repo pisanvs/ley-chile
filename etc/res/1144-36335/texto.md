@@ -1,0 +1,3 @@
+Por Resolución N° 1.144 de 05 de Diciembre de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 195, de 1994, de esta Subsecretaría que declaró caducidades por no pago de patentes pesqueras de conformidad con lo establecido en el artículo 143, letra d) del Decreto Supremo N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, en el sentido de dejar sin efecto el ordinal 6 del numeral 1°.-
+
+Valparaíso, 5 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
