@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº 260, de 16 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 6-3, para la obra Camino Santiago - Colina -Los Andes, Sector "C" Peldehue - Casas de Chacabuco, Km. 36.220,00 al 41.061,40, que figura a nombre de Cecinas La Preferida SA., Rol de Avalúo 186-164, comuna de Colina, superficie 16.941,4 m2. La comisión de peritos integrada por los señores María Soledad Saffie Duery, Gonzalo Herrera Villamil y René Ureta Koster, fijó con fecha 5 de noviembre de 1997 el valor provisional de la indemnización en la cantidad de $20.367.720.- La indemnización se pagará al contado. La publicación se efectuó en cumplimiento a lo dispuesto en el el artículo 79 del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
