@@ -1,0 +1,7 @@
+Por Resolución No. 593 de 30 de Junio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza al INSTITUTO DE FOMENTO PESQUERO, IFOP, R.U.T. No. 61.310.000-8, domiciliado en Avda. Pedro de Valdivia No. 2633, Santiago, para efectuar una pesca de investigación de los recursos Trucha arcoiris, Trucha fario y Salmón cereza, en el Lago General Carrera ubicado en XI Región Chile Chico.
+
+La investigación contempla el desarrollo de actividades de pesca experimental, pesca demostrativa, procesamiento y comercialización de las capturas con participación de pescadores ribereños de Bahía Murta, Puerto Tranquilo, Puerto Guadal, Puerto Chile Chico (Bahía Jara), Puerto Sánchez y Puerto Ingeniero Ibáñez.
+
+La pesca se efectuará por los pescadores de los sectores indicados anteriormente, con 6 embarcaciones artesanales, seleccionadas por el Instituto de Fomento Pesquero, mediante el uso de redes de enmalle, con una periodicidad de dos salidas semanales, hasta el 31 de marzo de 1993. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarías vigentes o que se establezcan.
+
+Valparaíso, 30 de Junio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
