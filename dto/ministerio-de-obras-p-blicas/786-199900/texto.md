@@ -1,0 +1,3 @@
+Por decreto MOP Nº786 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nºs. 7, 8, superficie 12.045 y 12.045 m² respectivamente, Rol Nº821-5, comuna de Vallenar, para la obra ''Construcción Variante Ruta 5 - El Jilguero, Km. 0,0000 a Km. 6,119703'' y se acordó el valor de indemnización con su propietario Denees Naim Flores, ascendente a la cantidad de $7.216.058.-
+
+Fiscal del Ministerio de Obras Públicas.
