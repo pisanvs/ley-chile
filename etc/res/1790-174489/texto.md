@@ -1,0 +1,3 @@
+Por resolución Nº 1.790, de 14 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110416, presentada por JOSE ALFONSO GOMEZ BUSTAMANTE, para instalar y operar el centro de cultivo ubicado en canal Vicuña, sector sur oeste isla Luz, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 14 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
