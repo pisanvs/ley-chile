@@ -1,0 +1,3 @@
+Por resolución Nº 1.528, de 14 de julio de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a San Vicente, VIII Región, individualizada en el artículo 1º) Nº 25 del D.S. Nº 729 de 1997 del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES, ALGUEROS, ACUICULTORES Y ACTIVIDADES CONEXAS DE CALETA SAN VICENTE.
+
+Valparaíso, 14 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
