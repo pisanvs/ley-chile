@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 156, de 18 de febrero de 1997, se expropiaron los lotes de terreno Nºs 32 y 32-A, superficies 578,10 m2. y 8,90 m2., roles de avalúos 1701-4 y 1701-3, comuna de San Joaquín, obra Línea 5 del Metro de Santiago, Vicuña Mackenna (Camino Agrícola El Pinar) y se acordó precio de indemnización con sus propietarios Leasing Andino S.A. y Otto Kraus S.A.I.C., ascendente a las cantidades de 3.985 UF. y $88 UF.
+
+Fiscal del Ministerio de Obras Públicas.
