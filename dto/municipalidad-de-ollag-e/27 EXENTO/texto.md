@@ -1,0 +1,5 @@
+APRUEBA ORDENANZA DE REGISTRO DE PERSONAS JURIDICAS RECEPTORAS DE TRANSFERENCIAS MUNICIPALES
+
+La Ilustre Municipalidad de Ollagüe pone en conocimiento de la comunidad, que de acuerdo a lo establecido en ley Nº 19.862 y al DS Nº 375 del Ministerio de Hacienda que regula la citada ley, el acuerdo Nº 028/2004 adoptado por unanimidad por el Honorable Concejo Municipal en Sesión Ordinaria Nº 018 de fecha 11.09.04, ha aprobado la Ordenanza que establece y regula el Registro de Personas Jurídicas Receptoras de Transferencias Municipales. El señalado texto contempla los siguientes Títulos I Disposiciones Generales, II De las Subvenciones, III De los Otorgamientos de las Subvenciones, IV De los Convenios y Título V De las Rendiciones de Cuentas; y se encuentra inserto en decreto exento Nº 027 del 14 de septiembre del 2004, a disposición de los interesados en la Secretaría Municipal y Alcaldía, ubicada en Av. Los Héroes s/n de la comuna de Ollagüe.
+
+Anótese, comuníquese y publíquese.- Carlos W. Reygadas Bavestrello, Alcalde.- Carlos D. Araya Jélvez, Secretario Municipal.
