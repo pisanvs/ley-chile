@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 225 de 28 de septiembre de 1990, se expropiaron los lotes N°s. 5, 6, 14, 16 y 17, superficies 491 m2., 470 m2, 8.568 m2., 2.450 m2. y 360 m2., roles de avalúos 14-04, 14-04, 14-51, 12-2 y 12-2, respectivamente, Comuna de San Pedro, para la obra Camino San Fernando San Antonio, sector Bifurcación San Pedro San Pedro y se acordó el precio de indemnización con sus propietarios Corina Rosa Jiménez Carreño, Noemí Jaraquemada Flores, Ismael Enrique Allende, ascendente a las cantidades de $ 231.006, $ 1.206.036 y $ 462.954.
+
+Fiscal del Ministerio de Obras Públicas.
