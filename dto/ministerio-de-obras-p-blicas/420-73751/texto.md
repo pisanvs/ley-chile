@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 420, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs. 109-E y 114, superficies 755 m2 y 14.712 m2, Roles de Avalúo 2236- 128 y 2236-130, comuna de Chillan, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con su propietaria María Puentes Inostroza, ascendente a la cantidad de $3.337.744.-
+
+Fiscal del Ministerio de Obras Públicas.
