@@ -1,0 +1,11 @@
+AUTORIZA A DON OSCAR ROLANDO MOMBERG ALVARADO PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por resolución No. 1.169, de 29 de Agosto de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Oscar Rolando Momberg Alvarado, R.U.T. No. 4.889.271-K, domiciliado en calle Los Copihues No. 280, Tejas Verdes, San Antonio, para iniciar actividades pesqueras, en orden a operar con la embarcación "Júpiter", en el litoral de las Regiones que a continuación se señala, donde podrá extraer los siguientes recursos hidrobiológicos: a) Entre las Regiones III y VII, con Enmalle, Espinel y Arrastre: Anguila, Atún aleta larga, Bacalao de profundidad o Mero, Cabrilla española, Cojinoba del Sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Lenguado de ojos chicos, Lisa, Marrajo o tiburón, Merluza común, Merluza del Sur, Palometa, Pejegallo, Pejezorro, Róbalo, Tollo, Calamar, Jibia, Pulpo, Camarón nailon, Gamba y Jaiba. b) Entre las Regiones III y VII, con Cerco: Anchoa, Agujilla, Bonito, Caballa, Cojinoba del Norte, Sardina común, Sardina, Sierra, Machuelo o tritre y Jurel.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Se deniega la autorización solicitada por el interesado para extraer con la nave antes citada, en el litoral de las Regiones I, II y VIII, los recursos hidrobiológicos, Sardina común, Sardina, Jurel, Caballa y Anchoa, de conformidad a lo dispuesto en el Decreto No. 436, de 1986, prorrogado por el Decreto No. 110, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Deniégase la autorización para extraer recursos demersales en el litoral de la I, II, VIII y IX Región. Asimismo, se deniega autorización para operar en el litoral de las Regiones X y XI, atendido el estado de plena explotación en que se encuentra la pesquería demersal sur austral.
+
+Valparaíso, 29 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
