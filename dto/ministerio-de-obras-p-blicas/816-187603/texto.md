@@ -1,0 +1,3 @@
+Por decreto MOP Nº816, de 31 de mayo de 2001, se expropió el lote de terreno Nº34-1, superficie 10.215 m², rol de avalúo 866-164, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Troncal Sur. Tramo 1. Atravieso Eucaliptus, Quinta Región y se acordó el valor de indemnización con su propietario Héctor Humberto Salinas Guerrero, ascendente a la cantidad de $59.276.895.-
+
+Fiscal del Ministerio de Obras Públicas.
