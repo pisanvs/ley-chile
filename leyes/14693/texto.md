@@ -1,0 +1,1 @@
+Declara Monumento Nacional el mausoleo erigido a Gabriela Mistral y los terrenos destinados a este objeto, ubicados en la localidad de Montegrande, departamento de Elqui, y autoriza la realización de colectas públicas durante los años que expresa, con cuyo producto se procederá a su hermoseamiento.
