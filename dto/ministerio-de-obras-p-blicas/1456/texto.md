@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.456, de 31 de agosto de 1998, se expropió el lote de terreno No. 128, superficie 1.430,0 m²., rol de avalúo 164-724, comuna de Colina, para la obra Camino Santiago-Colina-Los Andes, Sector A, Américo Vespucio-By Pass Colina, y se acordó el valor de indemnización con su propietaria Julia Ruz Arenas, ascendente a la cantidad de $ 10.409.908.-
+
+Fiscal del Ministerio de Obras Públicas.
