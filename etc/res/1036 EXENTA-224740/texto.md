@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.036, de 16 de abril de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Roca Solitaria, X Región, individualizada en el artículo 1º numeral 2 del decreto exento Nº 663, de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION GREMIAL DE DUEÑOS DE EMBARCACIONES PESQUERAS ARTESANALES Y DUEÑOS DE MATERIAL DE BUCEO MAULLIN "A.G. DEMAMAULLIN".
+
+Valparaíso, 16 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
