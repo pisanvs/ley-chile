@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº1.014, de 28 de noviembre de 1996, se expropió el lote de terreno Nº10, SUPERFICIE 1.375 m2., rol de avalúo 1,004-20, comuna de Natales, para la obra Habilitación y Construcción, Regadío Huertos Familiares Puerto Natales, Aducción, II Etapa y se acordó precio de indemnización con su propietario Luis Aureliano Díaz Segovia, ascendente a la cantidad de $ 138.402.
+
+Fiscal del Ministerio de Obras Públicas.
