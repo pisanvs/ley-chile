@@ -1372,9 +1372,11 @@ d) Al tratarse de documentos que contienen cupones que venzan dentro del plazo p
 
 De acuerdo a lo dispuesto por el Banco Central de Chile en el Capítulo M.B.1 de su Compendio de Normas Financieras, los siguientes instrumentos podrán venderse al público con pacto de retrocompra desde cuatro días hábiles bancarios y a otros bancos o sociedades financieras desde un día hábil bancario:
 
-i) Los documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República que se indican en las letras b) y c) del numeral 3.2 del título II de este Capítulo; y,
+i) Los documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República que se indican en las letras b) y c) del numeral 3.2 del título II de este Capítulo.
 
 ii) Pagarés a que se refiere el numeral 2.2 y la letra b) del N° 3 del Acuerdo N° 1555-07-840209 y sus modificaciones del ex-Comité Ejecutivo del Banco Central de Chile.
+
+iii) Certificados de Depósito Expresados en Dólares de los Estados Unidos de América - Acuerdo 163-05-911010.
 
 ### 4. Exención de encaje y reserva técnica
 
@@ -9966,7 +9968,7 @@ INVERSIONES FINANCIERAS.
 
 Deben incluirse en el rubro de "Inversiones Financieras", solamente los siguientes documentos o valores:
 
-a) Instrumentos de oferta pública del Banco Central de Chile, correspondientes a emisiones seriadas de pagarés.
+a) Instrumentos de oferta pública del Banco Central de Chile, correspondientes a emisiones seriadas de pagarés o certificados de depósito transables en el mercado secundario.
 
 b) Títulos de crédito emitidos por el Banco Central de Chile a favor de un banco o sociedad financiera, que tengan la calidad de intransferibles o transferibles sólo entre instituciones financieras.
 
