@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº310, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº30, superficie 618,44 m², rol de avalúo 1252-132, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128 - Cuatro Esquinas, Km. 0,000 a Km. 15,800" y se acordó el valor de indemnización con su propietario Hugo Antonio Maureira Retamal, ascendente a la cantidad de $792.346.
+
+Fiscal del Ministerio de Obras Públicas.
