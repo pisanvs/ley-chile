@@ -1,0 +1,3 @@
+Por decreto MOP Nº 627, de 30 de marzo de 2001, se expropió el lote de terreno Nº 2, superficie 3.378 m², rol de avalúo 1503-2, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli. By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietario José Eugenio Cruz Castillo, ascendente a la cantidad de $8.398.241.-
+
+Fiscal del Ministerio de Obras Públicas.
