@@ -1,0 +1,5 @@
+Por resolución No. 854 de 23 de Julio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza al INSTITUTO DE FOMENTO PESQUERO, R.U.T. No. 61.310.000-8, domiciliado en la ciudad de Santiago, calle José Domingo Cañas No. 2277, para ampliar actividades que tiene autorizadas por resolución No. 151, de 1986, de esta Subsecretaría, en orden a instalar un centro de cultivo en el extremo Norte de la ciudad de Coyhaique, Comuna y Provincia de Coyhdque, XI Región, de los recursos salmón plateado, salmón sakura, y trucha café. Las coordenadas geográficas son las siguientes de acuerdo con el plano que acompaña a la solicitud signado por el Servicio Nacional de Pesca con el ordinal No. 2536 y la Carta del Instituto Geográfico Militar No. 4500-7000: Latitud Punta Central, 45° 33' 38,92" S Longitud 72° 03'; 43,29" W
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
