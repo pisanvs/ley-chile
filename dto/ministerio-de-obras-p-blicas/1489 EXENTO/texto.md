@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.489, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº7, superficie 5.032 m2. rol de avalúo 177-28, comuna de Panguipulli, para la obra ''Camino Ruta 201-203 Ch. Sector Panguipulli - Pullinque, km. 0,00000 al 11,67811'' y se acordó el valor de indemnización con su propietaria doña Cecilia Elena Etchegaray Torres, ascendente a la cantidad de $2.806.230.
+
+- Fiscal del Ministerio de Obras Públicas.
