@@ -1,0 +1,3 @@
+Por resolución exenta No. 1.233 de Z7 de septiembre de 1988, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza a la Sociedad Comercial de Transportes y Turismo Turibús Limitada (Turibús Ltda. ), para efectuar servicio de transporte terrestre de pasajeros entre Osorno y Punta Arenas, en tránsito por territorio argentino, por el Portezuelo de Puyehue y Paso Monte Aymond, el que se atenderá con dos frecuencias semanales (1 diaria) las que se efectuarán en los siguientes días: Osorno - Punta Arenas: lunes - jueves Punta Arenas - Osorno: miércoles - sábado.-
+
+Manuel Gárate Meneses, Coronel. Subsecretario de Transportes.
