@@ -1,0 +1,41 @@
+INTRODUCE MODIFICACIONES A LA LEY N° 10.336, ORGANICA DE LA CONTRALORIA GENERAL DE LA REPUBLICA Decreto ley N° 38.- Santiago, 24 de Septiembre de 1973.- Considerando:
+
+Los propósitos y fines que inspiraron la constitución de la Junta de Gobierno de la República de Chile, expresados en el decreto ley N° 1, de 11 de Septiembre de 1973; teniendo presente:
+
+Que es condición para alcanzar tales objetivos superiores, la acción dinámica, regular y eficiente de la Administración del Estado; lo que implica, a su vez, la necesidad de centralizar y robustecer la fiscalización que debe ejercerse sobre todos los Servicios Públicos, y sobre la forma como se administran e invierten los bienes y recursos de la Nación.
+
+Que, por lo tanto, es conveniente ampliar y reforzar las funciones y facultades de la Contraloría General de la República, y
+
+Vistos: lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y la proposición formulada por el señor Contralor General, a requerimiento de esta Junta;
+
+La Junta de Gobierno de la República de Chile ha acordado y dicta el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Introdúcense las siguientes modificaciones a la ley N° 10.336 de 1964, orgánica de la Contraloría General de la República:
+
+A) Agréganse a continuación del inciso 2° del artículo 9°, las siguientes nuevas disposiciones:
+
+"La falta de observancia oportuna de estos requerimientos podrá ser sancionada directamente por el Contralor General con la medida disciplinaria de multa de hasta quince días de remuneraciones, sin perjuicio de que, si lo estima procedente, pueda disponerse la suspensión, sin goce de remuneraciones, del funcionario responsable de tal omisión, hasta que se le remitan los antecedentes o informes requeridos".
+
+"Las normas que establezcan el secreto o reserva sobre determinados asuntos no obstarán a que se proporcione a la Contraloría General la información o antecedente que ella requiera para el ejercicio de su fiscalización, sin perjuicio de que sobre su personal pese igual obligación de guardar tal reserva o secreto".
+
+B) Reemplázase el artículo 16 por la siguiente disposición: "Los Servicios, Instituciones Fiscales, Semifiscales, Organismos Autónomos, Empresas del Estado y, en general, todos los Servicios Públicos creados por ley, quedarán sometidos a la fiscalización de la Contraloría General de la República, sin perjuicio del control que ejerce la Superintendencia de Bancos sobre el Banco Central y el Banco del Estado de Chile del que cumple la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio sobre el Instituto de Seguros del Estado y la Caja Reaseguradora de Chile y del que desarrolla la Superintendencia de Seguridad Social sobre las instituciones y entidades sometidas actualmente a su fiscalización".
+
+"También quedarán sujetas a la fiscalización de la Contraloría General las empresas, sociedades o entidades públicas o privadas en que el Estado o sus empresas, sociedades o instituciones centralizadas o descentralizadas tengan aportes de capital mayoritario o en igual proporción, o, en las mismas condiciones, representación o participación, para los efectos de cautelar el cumplimiento de los fines de esas empresas, sociedades o entidades, la regularidad de sus operaciones, hacer efectivas las responsabilidades de sus directivos o empleados, y obtener la información o antecedentes necesarios para formular un Balance Nacional".
+
+"La Superintendencia de Seguridad Social, la Superintendencia de Bancos, la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, la Sindicatura General de Quiebras, y los demás Organismos del Estado que cumplan funciones de fiscalización quedarán sujetos al control de la Contraloría General de la República y deberán observar las instrucciones, proporcionar los informes y antecedentes que este Organismo le requiera para hacer efectiva la fiscalización a que se refiere el inciso anterior".
+
+C) Reemplázase el inciso 1° del artículo 18 por la siguiente disposición: "Los servicios sometidos a la fiscalización de la Contraloría General deberán organizar las oficinas especiales de control que determine este Organismo, y en los casos y de acuerdo con la naturaleza y modalidades propias de cada entidad. Los contralores, inspectores, auditores o empleados con otras denominaciones que tengan a su cargo estas labores quedarán sujetos a la dependencia técnica de la Contraloría General, y en caso de que aquellos funcionarios representen actos de sus jefes, éstos no podrán insistir en su tramitación sin que haya previamente un pronunciamiento escrito de ese Organismo favorable al acto.".
+
+D) Reemplázase en el artículo 20 la palabra "fiscales" por la frase del Estado o de los Servicios sometidos a su fiscalización".
+
+#### Artículo 2°
+
+Derógase toda disposición contraria a las contenidas en el presente decreto ley.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET U., General de Ejército, Comandante en Jefe y Presidente de la Junta de Gobierno.- JOSE T MERINO C., Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH G., General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA D., General Director de Carabineros.- Lorenzo Gotuzzo B., Contraalmirante, Ministro de Hacienda.
+
+Lo que transcribo a U. para su conocimiento.- Rafael Pérez Díaz, Cap. Corb., Subsecretario de Hacienda.
