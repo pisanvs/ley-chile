@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA DOÑA YOLANDA Y COMPAÑIA LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución N° 1.493, 29.12.88 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Doña Yolanda y Compañía Limitada, RUT N° 79.771.600-6, domiciliada en la ciudad de Constitución, calle Blanco N° 761, para iniciar actividades pesqueras, en orden a operar las embarcaciones denominadas "Yolanda I" y "Yolanda III" en el litoral de las Regiones I a X, donde podrá extraer los siguientes recursos hidrobiológicos: Albacora, Congrio negro, Congrio colorado, Bacalao y Congrio dorado. Asimismo la peticionaria podrá extraer con las embarcaciones "Yolanda II" y "Yolanda IV", en el litoral de las Regiones I a X, los siguientes recursos: Congrio negro, Congrio colorado y Congrio dorado, y desde Punta Liles al Sur, el recurso Bacalao de profundidad. Deniégase la autorización solicitada por la peticionaria para extraer con las embarcaciones "Yolanda II" y "Yolanda IV" que se autorizan por la presente resolución, el recurso Bacalao de profundidad desde Punta Liles al Norte, de conformidad con lo dispuesto en el Decreto Supremo N° 439, de 1985 y sus modificaciones, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 Diciembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
