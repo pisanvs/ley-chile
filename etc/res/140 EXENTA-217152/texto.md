@@ -1,0 +1,5 @@
+OTORGA LA CALIDAD DE AGENTE RETENEDOR DEL IVA EN COMPRAS DE CHATARRA A MINERA CERRO DOMINADOR S.A.
+
+Por resolución Ex. Nº 140, de fecha 4 de noviembre de 2003, autorízase la calidad de Agente Retenedor del Impuesto al Valor Agregado, en las compras de Chatarra, a la empresa Minera Cerro Dominador S.A., RUT 79.873.300-1, de conformidad a lo dispuesto en la resolución Ex. Nº 7 de 28-01-2003, de la Dirección Nacional del Servicio de Impuestos Internos. Esta resolución regirá en forma retroactiva a contar del día 1º de marzo del presente año y será válida hasta el último día del mes anterior al de entrada en vigencia del Certificado que le otorga la calidad de Agente Retenedor del Impuesto al Valor Agregado por Adquisiciones de Chatarra.
+
+Jorge Trujillo Puentes, Director de Grandes Contribuyentes.
