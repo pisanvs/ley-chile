@@ -1,0 +1,3 @@
+Por Resolución Nº 540, de 17 de abril de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94106037, presentada por LUIS RIGOBERTO PAREDES MUÑOZ, para un centro de cultivo ubicado entre isla Dolores e Isla Leguas, Comuna de Quellón, Provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura y el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 17 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
