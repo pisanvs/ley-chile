@@ -1,0 +1,7 @@
+AUTORIZA A DON DANIEL ENOCH MUÑOZ ALVAREZ PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 1.239, de 21 de Octubre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Daniel Enoch Muñoz Alvarez, R.U.T. N° 6.175.504-7, domiciliado en el sector Tres Espinos camino a Niebla, Correo Central Niebla, para instalar y operar un establecimiento de cultivo de Choro zapato, y chorito, en un sector denominado Tres Espinos, ubicado en el Río Valdivia, Comuna de Valdivia, X Región, en un área de 5.000 m2., cuyas coordenadas geográficas son las siguientes, de acuerdo con el plano que acompaña a la solicitud signado por el Servicio Nacional de Pesca con el N° Ordinal 701 a y b: Vértice A Lat. 39° 51' 35,53" S. Long. 73° 21' 37,50" W. Vértice B Lat. 39° 51' 35,53" S. Long. 73° 21' 31,65" W. Vértice C Lat. 39° 31' 37, 16" S. Long. 73° 21' 31,65" W. Vértice D Lat. 39° 51' 37,16" S. Long. 73° 21' 37,50" W.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 21 de Octubre de 1987.- Roberto Cabezas Bello Subsecretario de Pesca.
