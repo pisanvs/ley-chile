@@ -1,0 +1,17 @@
+PRECISA ALCANCE DE PRONUNCIAMIENTO EMITIDO MEDIANTE OFICIO INDICADO EN EL ANTECEDENTE
+
+Santiago, 28 de abril de 2000
+
+De: Director del Servicio de Impuestos Internos A: Sres. Domingo Irarrázaval y Arturo Garnham, en representación de Cruzat, Ortúzar & Mackenna Ltda., Baker & McKenzie
+
+1.- Por presentación de fecha 25 de noviembre de 1999, los recurrentes solicitaron a este Servicio un pronunciamiento respecto de los efectos impositivos que produciría una inversión efectuada en el exterior en los términos que indicaban en su escrito, requiriendo al respecto se les confirmaran ciertos criterios tributarios que exponían en su presentación.
+
+2.- En relación con dicho pronunciamiento, cabe hacer presente a Uds. que efectuado un nuevo análisis de lo dispuesto en el artículo 41 B de la Ley de la Renta, resulta necesario rectificar la respuesta contenida en la letra a) del número 3 del Oficio Nº180, de fecha 21 de enero del presente año, en la parte en que expresa que, conforme a lo dispuesto por el artículo 17 Nº8 letra a) de la Ley de la Renta, en concordancia con lo dispuesto por los incisos 2º, 3º y 4º de dicho número y el artículo 18 de la Ley del ramo, el mayor valor obtenido en la enajenación de acciones en el exterior a que se refería la consulta, se gravará con el régimen tributario que establecen las normas legales antes mencionadas, el cual puede ser, el Impuesto de Primera Categoría en calidad de tributo único a la renta o el régimen general, esto es, el Impuesto de Primera Categoría y el Impuesto Global Complementario o Adicional. Ello por cuanto por expresa disposición del inciso primero del artículo 41 B de la Ley de la Renta, los contribuyentes que tengan inversiones en el extranjero e ingreso de fuente extranjera no podrán aplicar respecto de estas inversiones e ingresos, entre otras normas, lo dispuesto en el Nº8 del artículo 17 de la Ley de la Renta, dentro del cual se comprende la enajenación de acciones de sociedades anónimas, cuyo mayor valor al excluirse de la tributación que contiene la disposición legal antes mencionada, siempre quedará afecto al régimen general de tributación de la Ley de la Renta, sin la posibilidad de gravarse con el sistema del impuesto único especial de Primera Categoría que establece dicho precepto legal, tal como se indica en la circular Nº52, de 1993, la cual se encuentra plenamente vigente.
+
+3.- Por consiguiente, y de acuerdo a lo señalado precedentemente, este Servicio no puede sino concluir que tratándose de contribuyentes que tengan inversiones en el extranjero e ingresos de fuente extranjera no resulta aplicable lo dispuesto en el artículo 17 Nº8 de la Ley de la Renta, con excepción de lo prescrito en los literales f) y g) de dicha disposición, así como tampoco pueden tales contribuyentes acogerse a lo dispuesto en el artículo 2º transitorio de la ley Nº19.578, de 1998.
+
+Lo anterior se encuentra expresado en la circular Nº21, del año 2000, la cual se publicó en el Diario Oficial el día 11 de abril de dicho año y está incorporada en sitio web de este Servicio (www.sii.cl).
+
+En consecuencia, este criterio corrige en la parte indicada el oficio Nº180 del presente año.
+
+Saluda a Uds., Javier Etcheberry Celhay, Director.
