@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.448, de fecha 30 de agosto de 2002, se expropiaron los lotes de terrenos Nºs. 10-F, 10-G y 10-H, superficies 40 m², 284 m² y 7.582 m², respectivamente, rol de avalúo 1404-154, comuna de Puerto Varas, X Región, para la obra ''Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Puerto Montt, Km. 0,000 al 16,340'' y se acordó el valor de indemnización con su propietario don Carlos Javier Appel de la Cruz, ascendente a la cantidad de $34.242.537.-
+
+Fiscal del Ministerio de Obras Públicas.
