@@ -1,0 +1,1 @@
+Transfiere gratuitamente a la Municipalidad de Limache los terrenos que indica y cuyos deslindes señala, ubicados en el pueblo de San Francisco de Limache, con el fin de que los destine a la construcción de un Teatro o de una Sala Auditorium, de un Hotel de Turismo y de locales para la Gota de Leche y Cruz Roja de la misma localidad.
