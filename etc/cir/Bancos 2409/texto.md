@@ -8122,7 +8122,7 @@ Cualquier operación efectuada con un país no clasificado deberá ser provision
 
 1.2.- Regla de excepción.
 
-Cuando el monto total de los activos sujetos al riesgo de un mismo país que se encuentre clasificado en categorías 3, 4 ó 5, no exceda el 20 % del patrimonio efectivo del banco, podrán aplicarse las tasas que se indican en la siguiente tabla:
+No obstante lo indicado en el numeral precedente, para los activos sujetos al riesgo de un mismo país que se encuentre clasificado en categorías 3, 4 ó 5, los bancos pueden aplicar la tabla que se indica a continuación y que fija esas provisiones en función de la relación entre el total de activos en un mismo país y el patrimonio efectivo del banco:
 
 GRUPO Activos como porcentaje del patrimonio efectivo
 
@@ -8134,6 +8134,8 @@ Hasta el 10% Entre 10% y 20%
 
 5 30,0% 40,0%.
 
+Se entiende que los activos sujetos a la menor tasa corresponden a operaciones en un mismo país que en su conjunto no superan el 10% del patrimonio efectivo. Las tasas de la segunda columna se aplican a aquellas operaciones que sumadas superan ese 10% pero no exceden el 20%.
+
 2.- Imputación de riesgo.
 
 El riesgo-país es imputable a aquel país en que esté domiciliado el prestatario o último obligado al pago y desde el cual se debe obtener el retorno de los recursos invertidos.
@@ -8142,7 +8144,7 @@ No obstante, en los siguientes casos se podrá considerar el riesgo de un país 
 
 a) Cuando el crédito se otorgue a una sucursal en el extranjero de una persona jurídica, pudiendo en ese caso imputarse el riesgo al país de domicilio de la casa matriz de esa sucursal.
 
-b) Cuando el garante del crédito sea un banco calificado en primera categoría de riesgo por una empresa calificadora incluida en la nómina del Capítulo 1-12 de esta Recopilación, la parte del crédito cubierta por el garante podrá imputarse al riesgo del país en que aquél tenga su domicilio.
+b) Cuando el garante del crédito sea una entidad calificada en grado de inversión por alguna de las firmas evaluadoras señaladas en el Capítulo 1-12 de esta Recopilación, el crédito o la parte de éste cubierta por el garante, según sea el caso, podrá imputarse al riesgo del país en que aquél tenga su domicilio. Se consideran como garantes, para estos efectos, los avalistas, fiadores, deudores solidarios y emisores de cartas de crédito stand by. Esta regla podrá aplicarse también para las operaciones protegidas con seguros o derivados de crédito que cubran los efectos del riesgo país, considerando el país de domicilio y la clasificación de la compañía de seguro o del obligado al pago del instrumento derivado.
 
 c) Si el garante de un crédito tiene domicilio en Chile, la parte garantizada no será objeto de provisión por riesgo país. Asimismo, cuando un crédito tenga una garantía real que se encuentre y sea realizable en Chile, quedará exenta aquella parte cubierta por la garantía.
 
@@ -8152,25 +8154,31 @@ Quedan sujetos a la constitución de provisiones los siguientes activos u operac
 
 3.1- Depósitos e inversiones financieras en el exterior.
 
-Incluye depósitos en cuenta corriente y cualquier otro tipo de depósito a la vista o a plazo, como asimismo cualquier otro título emitido en el exterior.
+Incluye los depósitos en cuenta corriente u otros depósitos a la vista mantenidos en el exterior, como asimismo todos los instrumentos que constituyen las inversiones financieras, tales como depósitos a plazo, bonos u otros documentos cuyo deudor directo esté domiciliado en el extranjero.
 
-No obstante, se exceptúan todos los títulos de crédito que se transen en mercados secundarios formales, según lo definido en el Capítulo III.F.3 del Compendio de Normas Financieras del Banco Central de Chile.
+No obstante, quedarán libres de provisión por riesgo-país aquellos títulos que se coticen en bolsas oficiales de países clasificados a lo menos en categoría BB- o su equivalente, por alguna de las firmas evaluadoras mencionadas en el Capítulo 1-12 de esta Recopilación, cuando la institución financiera estime que el valor al que hayan ajustado contablemente esas inversiones según lo previsto en el Capítulo 8-21 de esta Recopilación, recoge el efecto de riesgo-país.
 
 3.2.- Colocaciones.
 
-Comprende los créditos otorgados a personas naturales o jurídicas domiciliadas en el exterior, con excepción de los créditos para cuyo vencimiento, pago o reembolso, según sea el caso, no falte más de un año, y que correspondan a los siguientes:
+Comprende las colocaciones cuyos deudores directos sean personas naturales o jurídicas domiciliadas en el exterior.
 
-a) Emisión, confirmación y negociación de cartas de crédito de comercio exterior, incluida la adquisición o descuento de los documentos mercantiles provenientes de su negociación.
+Con acuerdo del Directorio de la institución en relación con tipos o grupos de operaciones específicas y países con los que se opera, podrán dejarse libres de provisiones por riesgo-país las operaciones pagaderas en moneda extranjera que se encuadren en las definiciones generales que a continuación se indican, siempre que no se trate de operaciones con países clasificados en categorías 5 ó 6 según las reglas de este Capítulo:
 
-b) Financiamiento a los bancos emisores para el pago de cartas de crédito de comercio exterior.
+a) Colocaciones hasta un año, correspondientes a créditos de comercio exterior. Para este efecto se entiende que corresponden a "créditos de comercio exterior", comprendiendo tanto el comercio exterior chileno como el realizado entre terceros países, lo siguiente:
 
-c) Pago anticipado de cartas de crédito de comercio exterior negociadas a plazo.
+i) Las operaciones amparadas por cartas de crédito documentarías irrevocables que se encuentren en su etapa contingente; y,
 
-d) Adquisición o descuento de letras de cambio o pagarés provenientes del pago de exportaciones chilenas efectuadas en la forma de cobranza, avalados por un banco del país importador, siempre que i) el avalista se encuentre clasificado en primera categoría de riesgo de acuerdo con lo señalado en el Capítulo 1-12 de esta Recopilación, o bien, ii) que el documento, en conformidad a las instrucciones de la cobranza respectiva, establezca que su pago será canalizado a través del Convenio de Pagos y Créditos Recíprocos ALADI.
+ii) Los financiamientos de operaciones de comercio exterior realizadas con Chile o entre terceros países, asociados al pago del valor de mercadería que haya sido embarcada. Cumplen esta condición, por ejemplo, la negociación de cartas de crédito o la adquisición o descuento de los documentos provenientes de su negociación; el financiamiento a bancos emisores para pagar cartas de crédito negociadas; el pago anticipado de cartas de crédito negociadas a plazo; la adquisición de letras de cambio o pagarés provenientes del pago de operaciones de comercio exterior efectuadas bajo la forma de cobranza; los préstamos otorgados a importadores o exportadores contra presentación de copias de los documentos de embarque, etc.
 
-e) Créditos contingentes correspondientes a avales y fianzas, emisión de cartas de crédito stand by y boletas de garantía, otorgados a no residentes ni domiciliados en el país, en moneda extranjera.
+b) Créditos contingentes hasta un año. Incluye avales y fianzas, cartas de crédito stand by y boletas de garantía.
 
-3.4.- Otros activos.
+c) Créditos hasta 180 días, de cualquier tipo, otorgados a bancos que cuenten con una clasificación internacional efectuada por alguna de las firmas señaladas en el Capítulo 1-12 de esta Recopilación, cualquiera sea la categoría de riesgo que éstas le hayan asignado.
+
+Los plazos de hasta un año o 180 días a que se refieren los literales precedentes, se refieren al plazo residual para el vencimiento o reembolso de acuerdo con la fecha pactada en el origen de la obligación.
+
+La clasificación internacional indicada en la letra c) , puede referirse a la efectuada a la casa matriz en caso de que el deudor sea una sucursal de un banco situado en otro país.
+
+3.3.- Otros activos.
 
 Asimismo, queda afecta a la provisión de que se trata, cualquier otro activo cuya liquidación esté sujeta a un retorno desde el extranjero, tales como: bienes recibidos en pago que deban ser enajenados en el exterior, utilidades reconocidas contablemente en el activo por operaciones con derivados financieros, etc., con la sola excepción de los activos correspondientes a las inversiones permanentes en sociedades y aportes de capital a sucursales en el exterior, incluido el mayor valor pagado en inversiones en sociedades, cuando corresponda.
 
@@ -8198,13 +8206,7 @@ Debe tenerse en cuenta, además, que las provisiones por riesgo país se constit
 
 Para efectos de la homologación de criterios contables con las sucursales y filiales en el cálculo del VPP, los créditos que esas entidades otorguen a personas con residencia en Chile no quedan sujetos a provisión por riesgo-país.
 
-IV.- DISPOSICION TRANSITORIA.
-
-Las provisiones por riesgo-país se constituirán a contar del 30 de abril de 1998 para todos los activos que de acuerdo a las presentes normas quedan sujetos a esa provisión, con excepción de los créditos que hayan sido otorgados hasta el 31 de diciembre de 1997, los que quedarán exentos de provisión hasta la fecha de su vencimiento original.
-
-No obstante, durante un lapso de dos años será exigible solamente una proporción creciente de los montos que se obtengan por la aplicación de las tasas señaladas en el N° 1 del título III. Para este efecto, las provisiones mínimas al cierre de cada mes serán iguales a tantos 24 avos del monto que resulte de aplicar las respectivas tasas, como meses hayan transcurrido a contar del 31 de marzo de 1998.
-
-Por consiguiente, al 30 de abril de 1998 corresponderá constituir una provisión de 1/24 de lo que resulta de la aplicación de las tasas sobre los saldos afectos mantenidos a esa fecha, al 31 de mayo de 1998 deben mantenerse 2/24 avos, y así sucesivamente hasta su aplicación normal a partir del 31 de marzo del año 2000.
+### IV. Derogado
 
 CAPITULO 7-7 (Bancos y Financieras)
 
@@ -18386,129 +18388,125 @@ MATERIA:
 
 REQUERIMIENTOS PATRIMONIALES Y PROVISIONES PARA CREDITOS HACIA EL EXTERIOR.
 
-De acuerdo con lo dispuesto en el artículo 83 de la Ley General de Bancos, esta Superintendencia está facultada para dictar normas de carácter general, fijando requerimientos patrimoniales y provisiones para operaciones de crédito que realicen las entidades sujetas a su fiscalización desde Chile hacia el exterior. En uso de tales facultades y con el informe favorable del Banco Central de Chile, en el presente Capítulo se imparten las instrucciones pertinentes.
+De acuerdo con lo dispuesto en el artículo 83 de la Ley General de Bancos, esta Superintendencia está facultada para dictar normas de carácter general, fijando requerimientos patrimoniales, provisiones, límites o márgenes y otras medidas, que regulen las operaciones de crédito que realicen las entidades sujetas a su fiscalización desde Chile hacia el exterior. En uso de tales facultades y con el informe favorable del Banco Central de Chile, en el presente Capítulo se imparten las instrucciones pertinentes.
 
-Las provisiones de que trata este Capítulo son independientes de aquellas que esta Superintendencia ha establecido para cubrir los riesgos de pérdida de los activos y que también alcanzan a los créditos en el exterior, como es el caso de las provisiones por riesgo de crédito tratadas en los Capítulos 8-28 y 8-29 de esta Recopilación y las provisiones por riesgo-país a que se refiere el Capítulo 7-6.
+I.- PROVISIONES DEL ARTICULO 83 DE LA LEY GENERAL DE BANCOS.
 
-1.- Definiciones para los efectos de las provisiones exigidas en este Capítulo.
+Las provisiones de que trata este título son independientes de aquellas que esta Superintendencia ha establecido para cubrir los riesgos de pérdida de los activos y que también alcanzan a los créditos en el exterior, como es el caso de las provisiones por riesgo de crédito tratadas en los Capítulos 8-28 y 8-29 de esta Recopilación y las provisiones por riesgo-país a que se refiere el Capítulo 7-6.
 
-Para los efectos de que trata este Capítulo, se entenderá que constituyen "créditos de comercio exterior" todos aquellos financiamientos que correspondan al pago del valor de importaciones o exportaciones de mercadería que haya sido embarcada, incluida la adquisición o descuento de documentos mercantiles que provengan de ellas, como asimismo, aquellas operaciones de comercio exterior amparadas por cartas de crédito documentarías irrevocables que se encuentren en su etapa contingente. Se excluyen, en consecuencia, los créditos de pre-embarque, de capital de trabajo y cualquier otro crédito que no cumpla con lo señalado precedentemente y que para estos efectos se consideran como créditos comerciales.
+1. Definiciones para los efectos de las provisiones exigidas en este Capítulo.
 
-Por otra parte, se entiende como "créditos comerciales" aquellos definidos como tales en el Capítulo 8-28 de esta Recopilación, con excepción de los créditos de comercio exterior ya definidos.
+Para los efectos de que trata este Capítulo, se entenderá que constituyen "créditos de comercio exterior" aquellos definidos en la letra a) del numeral 3.2, título III del Capítulo 7-6 de esta Recopilación.
+
+Por otra parte, se entiende como "créditos comerciales" aquellos definidos como tales en el Capítulo 8-28 de esta Recopilación, con excepción de los créditos de comercio exterior mencionados en el párrafo precedente.
 
 Por último, las "inversiones financieras" que se aluden en este número, son aquellas que deben registrarse como tales de acuerdo con lo establecido en el Capítulo 8-21 de esta Recopilación.
 
 En general, los "créditos hacia el exterior" a que se refiere este Capítulo comprenden todas las colocaciones e inversiones financieras en que el deudor directo es una persona natural o jurídica con residencia y domicilio en el exterior.
 
-Teniendo en cuenta estas definiciones previas, se establecen los siguientes grupos de colocaciones e inversiones financieras en el exterior, cuyas características se señalan en el Anexo N° 1 de este Capítulo:
+Teniendo en cuenta estas definiciones previas, se establecen los siguientes grupos de colocaciones e inversiones financieras en el exterior, los que se circunscriben a operaciones pagaderas en moneda extranjera:
 
 A) Créditos de comercio exterior para financiar exportaciones o importaciones chilenas.
 
 B) Créditos de comercio exterior para financiar operaciones entre terceros países.
 
-C) Créditos comerciales cuyos deudores sean sociedades filiales o agencias de empresas chilenas, o empresas que coticen en bolsas internacionales.
+C) Créditos comerciales cuyos deudores directos sean; i) sociedades filiales o agencias de empresas chilenas establecidas en el exterior; o, ii) empresas que coticen en las bolsas localizadas en países que cuenten con una clasificación de riesgo no inferior a BB- o su equivalente, incluidas las sucursales o agencias cuya matriz cumpla ese requisito.
 
-D) Créditos comerciales cuyos deudores sean otras personas.
+D) Créditos comerciales cuyos deudores sean otras personas distintas a las indicadas en la letra C).
 
-E) Inversiones financieras en instrumentos con clasificación de grado de inversión.
+E) Inversiones financieras en instrumentos que cumplan al menos con las condiciones indicadas en la Tabla N° 1 del Anexo N° 1 de este Capítulo.
 
-F) Inversiones financieras en instrumentos con otra clasificación.
+F) Inversiones financieras en instrumentos que cumplan al menos con las condiciones indicadas en la Tabla N° 2 del Anexo N° 1 de este Capítulo.
 
-Quedan excluidos de estos grupos todos los créditos e inversiones que no cumplan las condiciones señaladas en el Anexo N° 1.
+G) Instrumentos de la cartera de inversiones financieras distintos a los indicados en las letras E) y F) precedentes, cuyos emisores estén situados en países clasificados a lo menos en categoría 4 según lo dispuesto en el Capítulo 7-6 de esta Recopilación.
 
 2.- Exigencia de provisiones.
 
 2.1.- Provisiones individuales.
 
-Quedarán sujetas a una provisión del 100% sobre el importe de los créditos o inversiones que no se encuentre cubierto con otras provisiones individuales, todas las operaciones que no correspondan a las señaladas en los literales del N° 1.
+Las colocaciones o inversiones financieras que no correspondan a las señaladas en los literales del N° 1, quedarán sujetas a una provisión individual del 100% sobre el monto no cubierto por provisiones por riesgo de crédito y riesgo-país, previstas en los Capítulos 8-29 y 7-6 de esta Recopilación.
 
 2.2.- Provisiones globales.
 
-Deberá constituirse una provisión global equivalente al 100% del exceso, cuando la suma de las colocaciones e inversiones señaladas en los literales B), C), D), E) y F) del N° 1, exceda el 70% del patrimonio efectivo de la institución financiera. No obstante, podrá excederse ese límite sin constituir provisiones por ese motivo, cuando el exceso, hasta por un 70% del patrimonio efectivo, corresponda a inversiones financieras que cuenten con una clasificación igual o superior a las indicadas en el Anexo N° 2 de este Capítulo.
+Deberá constituirse una provisión global equivalente al 100% del exceso, cuando la suma de las colocaciones e inversiones señaladas en los literales B), C), D), E), F) y G) del N° 1, exceda el 70% del patrimonio efectivo de la institución financiera. No obstante, podrá excederse ese límite sin constituir provisiones por ese motivo, cuando el exceso, hasta por un 70% del patrimonio efectivo, corresponda a inversiones financieras que cuenten con una clasificación igual o superior a las indicadas en la Tabla N° 3 del Anexo N° 1 de este Capítulo.
 
-Por otra parte, se constituirá una provisión global equivalente al 100% del exceso, cuando la suma de las operaciones señaladas en los literales D) y F) del N° 1, exceda el 20 % del patrimonio efectivo. No obstante, si la institución mantiene un índice de relación entre activos ponderados por riesgo y patrimonio efectivo igual o superior a un 10% según las normas del Capítulo 12-1 de esta Recopilación, esta provisión se constituirá por lo que exceda del 30% del patrimonio efectivo.
+Por otra parte, se constituirá una provisión global equivalente al 100% del exceso, cuando la suma de las operaciones señaladas en los literales D), F) y G) del N° 1, exceda el 20% del patrimonio efectivo. No obstante, si la institución mantiene un índice de relación entre activos ponderados por riesgo y patrimonio efectivo igual o superior a un 10% según las normas del Capítulo 12-1 de esta Recopilación, esta provisión se constituirá por lo que exceda del 30% del patrimonio efectivo.
 
-Los excesos antes mencionados deben determinarse en relación con el valor contable de los créditos, sin deducciones por otras provisiones constituidas sobre los mismos. No obstante, las provisiones globales de que se trata podrán constituirse solamente por la parte no cubierta por provisiones de los créditos que originan esos excesos. Para este efecto, se considerará que esos créditos corresponden a aquellos cuyos otorgamientos son los más recientes.
+Por último, también se constituirá una provisión global por el 100% del exceso, si las inversiones financieras señaladas en la letra G) superan el 10% del patrimonio efectivo. No obstante, ese porcentaje será del 15 % para las instituciones que mantengan un índice de relación entre activos ponderados por riesgo y patrimonio efectivo igual o superior a un 10%.
+
+Para el cómputo de los excesos antes mencionados, se considerara el valor contable de las colocaciones o inversiones financieras, sin deducir las provisiones por riesgo de crédito y riesgo-país que las afectan, ni su ajuste a valor de mercado. En cambio, para la constitución de las provisiones globales de que se trata, las provisiones podrán aplicarse solamente sobre el valor neto de las colocaciones o inversiones que originan los excesos. Para este efecto, se considerará que esos créditos corresponden a las colocaciones e inversiones financieras más recientes.
 
 3.- Imputación contable.
 
 Las provisiones que deban constituirse en cumplimiento de las normas del presente Capítulo se registrarán en la cuenta "Provisiones por exigencias patrimoniales de operaciones en el exterior", de la partida 4120, con cargo a la cuenta del mismo nombre de la partida 5900.
 
-4.- Márgenes individuales.
+II.- MARGENES PARA OPERACIONES QUE NO SE ENCUENTRAN SUJETAS A LOS LIMITES INDIVIDUALES DE CREDITO DEL ARTICULO 84 DE LA LEY GENERAL DE BANCOS.
 
-Sin perjuicio de los cómputos que para efectos de provisiones deben efectuarse en relación con las inversiones financieras en general, según lo previsto en los N°s. 1 y 2 de este Capítulo, las siguientes inversiones quedan sujetas a los márgenes individuales que se indican:
+Sin perjuicio de los cómputos que para efectos de provisiones deben efectuarse en relación con las inversiones financieras en general, según lo previsto en el título I de este Capítulo, las siguientes inversiones quedan sujetas a los márgenes individuales que se indican:
 
-4.1.- Depósitos a plazo en bancos del exterior.
+1.- Depósitos a plazo en bancos del exterior.
 
-Los depósitos a plazo tomados en un mismo banco del exterior, no podrán superar el 5% del patrimonio efectivo del banco depositante. No obstante, al tratarse de bancos depositarios clasificados en una categoría de igual o menor riesgo que las indicadas en el Anexo N° 2 de este Capítulo, los depósitos en un mismo banco podrán alcanzar hasta el 30% del patrimonio efectivo.
+Los depósitos a plazo tomados en un mismo banco del exterior, no podrán superar el 5% del patrimonio efectivo dél banco depositante. No obstante, al tratarse de bancos depositarios clasificados en una categoría de igual o menor riesgo que las indicadas en la Tabla N° 3 del Anexo N° 1 de este Capítulo, los depósitos en un mismo banco podrán alcanzar hasta el 30% del patrimonio efectivo.
 
-4.2.- Títulos emitidos o garantizados por Estados o Bancos Centrales de países extranjeros.
+2.- Títulos emitidos o garantizados por Estados o Bancos Centrales de países extranjeros o por organismos financieros internacionales.
 
-Las inversiones en títulos emitidos o garantizados por un mismo Estado o Banco Central de un país extranjero, no podrán superar el 5% del patrimonio efectivo del banco inversionista. No obstante, al tratarse de títulos clasificados en una categoría de igual o menor riesgo que las indicadas en el Anexo N° 2 de este Capítulo, la inversión en esos instrumentos de un mismo emisor podrá alcanzar hasta el 50% del patrimonio efectivo.
+Las inversiones en títulos emitidos o garantizados por un mismo Estado o Banco Central de un país extranjero, como asimismo los emitidos o garantizados por instituciones internacionales a las que se encuentre adherido el Estado de Chile, no podrán superar el 5% del patrimonio efectivo del banco inversionista. No obstante, al tratarse de títulos clasificados en una categoría de igual o menor riesgo que las indicadas en la Tabla N° 3 del Anexo N° 1 de este Capítulo, la inversión en esos instrumentos a cargo de un mismo deudor directo o indirecto que sea alguna de las entidades antes indicadas, podrá alcanzar hasta el 50% del patrimonio efectivo. Si los títulos de que se trata no estuvieren clasificados, se considerará para este efecto la clasificación internacional del respectivo país.
 
 ANEXO N°1
 
-DEFINICIONES DE LOS GRUPOS DE COLOCACIONES O INVERSIONES FINANCIERAS.
+TABLA N°1
 
-A continuación se mencionan las condiciones que definen el tipo de colocación o inversión financiera señalado en el N° 1 de este Capítulo:
+Agencia clasificadora Categoría de riesgo
 
-A) Créditos de comercio exterior para financiar exportaciones o importaciones chilenas.
+Corto plazo Largo plazo
 
-Condiciones
+Moody's P2 Baa3
 
-- Que tengan por objeto financiar el pago de importaciones procedentes de Chile o exportaciones destinadas a nuestro país.
+Standard & Poor's A3 BBB-
 
-B) Créditos de comercio exterior para financiar operaciones entre terceros países.
+Duff & Phelps D2 BBB-
 
-Condiciones
+Thomson BankWatch TBW2 BBB
 
-- Que los desembolsos del crédito se efectúen contra presentación de los documentos de embarque.
+Fitch IBCA F2 BBB-
 
-- Que se expresen y paguen en moneda extranjera.
+Si un instrumento de corto plazo no tiene clasificación, se considerará que cumple el requisito exigido en las normas si el mismo emisor mantiene vigente instrumentos de largo plazo que cumplan la condición del cuadro precedente y siempre que los referidos títulos de corto y largo plazo tengan similares garantías u otras preferencias, privilegios de cualquier naturaleza u otro tratamiento legal que incidan favorablemente en el pago de la obligación.
 
-C) Créditos comerciales cuyos deudores sean sociedades filiales o agencias de empresas chilenas, o empresas que coticen en bolsas internacionales.
+TABLA N° 2
 
-Condiciones
+Agencia clasificadora Categoría de riesgo
 
-- Que los deudores correspondan a i) sociedades filiales o agencias de empresas chilenas estableadas en el exterior, o, ii) empresas residentes y domiciliadas en el exterior que coticen en las bolsas internacionales de que trata el Capítulo III F 3 del Compendio de Normas Financieras del Banco Central de Chile.
+Corto plazo Largo plazo
 
-- Que se expresen y paguen en moneda extranjera.
+Moody's P2 Ba3
 
-D) Créditos comerciales cuyos deudores sean otras personas.
+Standard & Poor's A3 BB-
 
-Condiciones
+Duff & Phelps D2 BB-
 
-- Que los deudores sean personas naturales o jurídicas diferentes a las señaladas en la letra C).
+Thomson BankWatch TBW2 BB
 
-- Que se expresen y paguen en moneda extranjera.
+Fitch IBCA F2 BB-
 
-E) Inversiones financieras en instrumentos con clasificación de grado de inversión.
+Si un instrumento de corto plazo no se encuentra clasificado, o si su clasificación es P3, B, D3, TBW3 o F3, se considerará que cumple el requisito exigido en las normas si el emisor mantiene vigente instrumentos de largo plazo que cumplan la condición del cuadro precedente y siempre que los referidos títulos de corto y largo plazo tengan similares garantías u otras preferencias, privilegios de cualquier naturaleza u otro tratamiento legal que incidan favorablemente en el pago de la obligación.
 
-Condiciones
+TABLA N° 3
 
-- Que correspondan a i) títulos de crédito emitidos o garantizados por Estados extranjeros, bancos centrales o entidades bancarias o financieras internacionales; o, ii) bonos emitidos por empresas extranjeras
+Agenda clasificadora Categoría de riesgo
 
-- Que se transen en mercados secundarios formales según lo definido en el Capítulo IIIF 3 del Compendio de Normas Financieras del Banco Central de Chile
+Corto plazo Largo plazo
 
-- Que los instrumentos cuenten con una clasificación de riesgo para corto o largo plazo no inferior a las siguientes categorías:
+Moody's P1 Aa3
 
-.
+Standard & Poor's A-1+ AA-
 
-F) Inversiones financieras en instrumentos con otra clasificación.
+Duff & Phelps D1+ AA-
 
-Condiciones
+Thomson BankWatch TBW-1 AA
 
-Las mismas señaladas en la letra E), excepto en la clasificación, la que, pudiendo ser diferente al grado de inversión, no será inferior a las siguientes:
+Fitch IBCA F1+ AA-
 
-.
-
-ANEXO N°2
-
-CLASIFICACION DE LAS INVERSIONES FINANCIERAS QUE PUEDEN SUPERAR EL LIMITE GENERAL PARA COLOCACIONES E INVERSIONES SIN CONSTITUIR PROVISIONES. HASTA UN 70% DEL CAPITAL BASICO.
-
-Para el efecto indicado en el numeral 2 2 de este Capítulo, las inversiones financieras deberán tener una clasificación igual o con riesgo inferior a las siguientes
-
-.
+Si un instrumento de corto plazo no tiene clasificación, se considerará que cumple el requisito exigido en las normas si el mismo emisor mantiene vigente instrumentos de largo plazo que cumplan la condición del cuadro precedente y siempre que los referidos títulos de corto y largo plazo tengan similares garantías u otras preferencias, privilegios de cualquier naturaleza u otro tratamiento legal que incidan favorablemente en el pago de la obligación.
 
 CAPITULO 13-1 (Bancos y Financieras)
 
