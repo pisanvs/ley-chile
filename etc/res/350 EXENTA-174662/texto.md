@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION Nº 350 EXENTA, DE 2000
+
+Con fecha 7 de agosto de 2000 la Secretaría Regional Ministerial de Bienes Nacionales de la II Región Antofagasta dictó resolución exenta Nº 350, por medio de la cual se otorga a Comunidad Atacameña de San Fco. de Chiu Chiu concesión de uso gratuito del inmueble fiscal ubicado en Pukará de Chiu Chiu, localidad de Chiu Chiu, Calama, El Loa, por un plazo de 5 años, renovables años.
