@@ -1,0 +1,3 @@
+Por Resolución No. 657, de 16 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año, a contar del 27 de Diciembre de 1991, el plazo otorgado a PESQUERA ECOMAR LIMITADA, R.U.T. No. 78.006.060-3, domiciliada en Bolívar 445, Iquique, para operar la nave "Mar Báltico" autorizada por Resolución No. 1542, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 16 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
