@@ -1,0 +1,5 @@
+EXTRACTOS DE RESOLUCIONES
+
+Por resolución N° 26, de 19 de Abril de 1995, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se adjudicó a "Kutz y Rodríguez Limitada" la concesión para operar, por un plazo de cuatro meses, a contar de la publicación del presente extracto, un establecimiento ubicado en Avenida Coronel Robles N° 1316, de la comuna de Quinta Normal, destinado a la revisión técnica y verificación de emisión de contaminantes de vehículos a que se refiere el inciso segundo del artículo 7° del Decreto Supremo N° 156/90 del Ministerio de Transportes y Telecomunicaciones, y prestar los servicios de verificación de emisión de contaminantes de vehículos motorizados livianos, en la forma, modo y condiciones que se señalan en el contrato que se aprueba.-
+
+Antonio Dourthe Castrillón, Secretario Regional Ministerial de Transportes y Telecomunicacioes Región Metropolitana.
