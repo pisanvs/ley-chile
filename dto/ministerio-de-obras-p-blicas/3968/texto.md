@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.968 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 80-B, superficie 646 m²., rol de avalúo 241-11, comuna de Frutillar, para la obra ''Concesión Internacional Ruta 5 Tramo: Río Bueno-Puerto Montt, Sector: Frutillar-Fresia Km. 981,700 a Km. 992,120'' y se acordó el valor de indemnización con su propietario Fridolin Niklitschek Werner, ascendente a la cantidad de $409.096.-
+
+Fiscal del Ministerio de Obras Públicas.
