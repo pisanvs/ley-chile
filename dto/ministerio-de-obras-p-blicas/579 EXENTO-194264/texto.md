@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº579 de 30 de abril de 2001, rectificado por decreto MOP Nº1.970 de fecha 28 de diciembre de 2001, se expropió el lote de terreno Nº47, superficie 115 m2, sin Rol, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen-El Corral, tramo Km. 0,000 al Km. 70,000, Etapa II" y se acordó el valor de indemnización con su propietario Rubén Páez Ossandón, ascendente a la cantidad de $244.740.-
+
+Fiscal del Ministerio de Obras Públicas.
