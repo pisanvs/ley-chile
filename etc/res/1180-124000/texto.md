@@ -1,0 +1,3 @@
+Por resolución Nº 1.180, de 12 de agosto de 1998, de esta Subsecretaría, autorízase a ALIMENTOS LEBU S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Bocalebu Sur, Lote 25, comuna de Lebu, VIII Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Congelado y Fresco-Refrigerado: Albacora o pez espada y Bacalao de profundidad.
+
+Valparaíso, 12 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
