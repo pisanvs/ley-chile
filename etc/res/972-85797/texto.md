@@ -1,0 +1,3 @@
+Por resolución No. 972, de 13 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la resolución No. 649, de 1991, de esta Subsecretaría, que autorizó a PESQUERA ESMERALDA S.A., R.U.T. No. 95.621.000-3, domiciliada en Santiago, para operar una planta industrial, ubicada en Manzana No. 13, sitio 78 de la Zona Franca de Punta Arenas, XIIª Región, en virtud de lo prescrito en el artículo 7° del decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 13 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
