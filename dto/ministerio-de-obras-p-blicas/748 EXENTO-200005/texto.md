@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº748, de 30 de mayo de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 2 y 3, para la obra Construcción Puentes Las Vertientes y El Ladrillo, Camino Ralún Cochamó, Rol V-69, que figuran a nombre de Ojeda Vargas Ramón, rol de avalúo 154-24, superficies 630 m² y 714 m², comuna de Cochamó. La Comisión de Peritos, con fecha 7 de diciembre de 2000, fijó la indemnización provisional en las cantidades de $252.000, lote 2 y $285.600, lote 3, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
