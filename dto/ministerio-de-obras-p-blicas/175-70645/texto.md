@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 175, de 28 de febrero de 1997, se expropió el lote de terreno Nº 7, superficie 48 M2., rol de avalúo 118-1, comuna de Quirihue, obra Camino Cauquenes-Límite Regional Quirihue, sector Acceso a Quirihue y se acordó precio de indemnización con su propietario Cooperativa de Financiamiento Construcción y Servicios Habitacionales de Vivienda Habitacoop Limitada, ascendente a la cantidad de $271.434.
+
+Fiscal del Ministerio de Obra Públicas.
