@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 681, de 29 de mayo de 1998, se expropió el lote de terreno Nº 20, superficie 485 m2., rol de avalúo 9317-1, comuna de Valparaíso, para la obra Habilitación Nuevo Camino La Pólvora Etapa I, Sector Ruta 68 - Acceso Sur a Valparaíso Camino La Pólvora Rol F-724 F-730, Sector Placilla - Puertas Negras, se acordó precio de la indemnización con su propietario Aldo Luciano Gandolfo Pinasco y otros, ascedente a la cantidad de $ 2.756.130.-
+
+Fiscal del Ministerio de Obras Públicas.
