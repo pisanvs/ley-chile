@@ -1,0 +1,185 @@
+ESTABLECE NORMAS PARA EL CULTIVO, ELABORACION, COMERCIALIZACION E IMPUESTO QUE AFECTAN AL TABACO Núm. 828.- Santiago, 27 de Diciembre de 1974.
+
+Vistos: lo dispuesto en los decretos leyes Nos. 1 y 128, de 1973, y 527, de 1974,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente,
+
+Decreto ley
+
+## Título I
+
+Del cultivo del tabaco
+
+#### Artículo 1°
+
+El que desee cultivar tabaco deberá declararlo al Servicio de Impuestos Internos y verificar la inscripción que ordena el artículo 14°.
+
+La superficie cultivada por cada producto no podrá ser inferior a un cuarto de hectárea.
+
+El tabaco en hoja no podrá ser trasladado sin una guía de despacho, que será el mismo documento a que se refiere el inciso final del artículo 55, del decreto ley Nº 825, de 1974, sobre Impuesto a las Ventas y Servicios.
+
+Los cultivadores de tabaco deberán enviar al Servicio de Impuestos Internos, antes del 1° de noviembre de cada año, un estado que indique la extensión superficial que hayan plantado y antes del 1° de abril de cada año, otro estado que indique el peso total del tabaco cosechado, y estarán sometidos a todas las reglas de inspección, fiscalización y demás que determinen los respectivos reglamentos.
+
+Las declaraciones que este artículo ordena podrán ser hechas también por el propietario o por el arrendatario.
+
+## Título II
+
+Del impuesto
+
+#### Artículo 2°
+
+La elaboración o fabricación de cigarros, cigarrillos y tabaco picado sólo podrá hacerse en fábricas capaces de elaborar a lo menos cien kilos por día, y que, al tiempo de ser inscritas en un rol, en la forma que determine el reglamento.
+
+#### Artículo 3°
+
+Los cigarros puros pagarán un impuesto de 52,6% sobre su precio de venta al consumidor, incluído impuestos, de cada paquete, caja o envoltorio, considerándose como entero toda fracción del impuesto inferior a un peso.
+
+#### Artículo 4°
+
+Los paquetes, cajas o envoltorios de cigarrillos pagarán un impuesto específico equivalente a 0,0010304240 unidades tributarias mensuales por cada cigarrillo que contengan; y, además, un impuesto de 30%, que se aplicará sobre el precio de venta al consumidor, incluido impuestos, por cada paquete, caja o envoltorio, considerándose como entero toda fracción del impuesto inferior a un peso.
+
+Para estos efectos, el impuesto específico deberá calcularse tomando como base la unidad tributaria mensual vigente al momento de la determinación del impuesto.
+
+#### Artículo 5°
+
+El tabaco elaborado, sea en hebra, tableta, pastas o cuerdas, granulados, picadura o pulverizado, pagará un impuesto de 59,7% sobre el precio de venta al consumidor, incluido impuestos, de cada paquete, caja o envoltorio en que se expende, y se considerará como entero toda fracción del impuesto inferior a un peso.
+
+> **Nota.** El art. 7° de la LEY 18134, publicada el 19.06.1982, estableció a contar del día 1° del mes siguiente al de su publicación, una sobretasa adicional de 10% a la venta de los productos a que refieren los artículo 4° y 5° del presente decreto ley, que se aplicará con sujeción a las mismas normas que rigen para los impuestos contenidos en los citados artículos.
+
+> **Nota.** NOTA: 1 La modificación introducida por la LEY 19589, rige a partir del 1º de enero de 1999
+
+#### Artículo 6°
+
+En los precios de venta de los cigarros, cigarrillos y tabacos deberá incluirse el valor del impuesto.
+
+#### Artículo 7°
+
+Para los efectos del artículo 4°, se entenderá como paquete de cigarrillos, el conjunto de éstos que no exceda de veinte unidades, ni pese, incluso la envoltura, más de cien gramos.
+
+#### Artículo 8°
+
+El impuesto de la presente ley se devengará en la fecha de la venta de los cigarros, cigarrillos y tabaco elaborado, o en el momento de consumarse legalmente su internación cuando se trate de productos importados. Para estos efectos, se entenderá por venta toda convención, independiente de la designación que le den las partes, que sirva para transferir, a cualquier título, el dominio o una cuota del dominio de estos productos o de derechos reales constituidos sobre ellos, y en general, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta.
+
+Lo dispuesto en el inciso sexto del artículo 3° del decreto ley N° 825, de 1974, será aplicable también a los impuestos establecidos en la presente ley.
+
+> **Nota.** NOTA: 2 La modificación introducida por la ley 18.489, rige a contar del 1° de enero de 1986. (ley 18489, art. 13).
+
+#### Artículo 9°
+
+La percepción del impuesto se hará por medio de vale vista u órdenes de pago a la orden de la Tesorería General de la República, en dinero efectivo o mediante otra forma de pago que cautele debidamente el interés fiscal que el Director Regional del Servicio de Impuestos Internos correspondiente autorice en cada caso, sin perjuicio del cumplimiento de las medidas de control que la Dirección Nacional del Servicio de Impuestos Internos estime conveniente adoptar en resguardo del interés fiscal, las cuales se harán efectivas, respecto de las especies importadas, dentro de los quince días siguientes al retiro de ellas del recinto aduanero en los lugares y en la forma que determine la referida Dirección.
+
+#### Artículo 10°
+
+DEROGADO
+
+#### Artículo 11°
+
+DEROGADO
+
+#### Artículo 12°
+
+Queda prohibida la internación y venta de tabaco picado sin empaquetar, y la de cigarrillos y cigarros puros pequeños sueltos, cualquiera que sea su procedencia.
+
+#### Artículo 13
+
+Estarán exentas del impuesto de esta ley las exportaciones de cigarros, cigarrillos y tabacos ART 30° efectuadas por el fabricante nacional. Los exportadores que hayan soportado el tributo incluído en el precio de adquisición del producto o pagado al efectuar la importación, según corresponda, podrán solicitar su devolución en el mes siguiente de aquél en que se efectuó la exportación, acreditando el ingreso del impuesto en arcas fiscales mediante una declaración jurada hecha por el sujeto del impuesto, autorizada por el Servicio de Impuestos Internos, en la cual se detalle la venta, se identifique el producto y se consigne su valor e impuesto pagado, sin perjuicio de las demás exigencias que determine el Servicio de Tesorerías para acreditar la respectiva exportación.
+
+Para los efectos de la devolución del impuesto de esta ley será aplicable la reajustabilidad establecida en el artículo 27 del decreto ley N° 825, de 1974.
+
+#### Artículo 13 bis
+
+Los productores, fabricantes, importadores, elaboradores, envasadores, distribuidores y comerciantes de bienes afectos a los impuestos de esta ley, que el Servicio de Impuestos Internos determine mediante resolución, deberán incorporar o aplicar a tales bienes o productos, sus envases, paquetes o envoltorios, un sistema de marcación consistente en un sello, marca, estampilla, rótulo, faja u otro elemento distintivo, como medida de control y resguardo del interés fiscal. La información electrónica para la trazabilidad originada en el sistema de marcación referido anteriormente será proporcionada al Servicio mediante los sistemas informáticos que éste disponga con arreglo al presente artículo.
+
+Los contribuyentes dispondrán del plazo de seis meses, contado desde la publicación o notificación de la resolución referida, para implementar y aplicar el sistema respectivo. El plazo podrá ser prorrogado a petición fundada del contribuyente respectivo por otros tres meses contados desde el vencimiento del plazo original.
+
+La resolución del Servicio de Impuestos Internos que determine los contribuyentes afectos a esta obligación, así como la prórroga para la aplicación e implementación del sistema, deberá ser notificada al Servicio Nacional de Aduanas, para su debido registro y fiscalización.
+
+Un reglamento expedido por el Ministerio de Hacienda, establecerá las características y especificaciones técnicas, requerimientos, forma de operación y mecanismos de contratación de los sistemas de marcación de bienes o productos, como asimismo, los requisitos que deberán cumplir los elementos distintivos, equipos, máquinas o dispositivos, los que podrán ser fabricados, incorporados, instalados o aplicados, según corresponda, por empresas que cumplan con los requisitos que allí se contemplen. Tales empresas o su personal no podrán divulgar, en forma alguna, datos relativos a las operaciones de los contribuyentes de que tomen conocimiento, ni permitirán que éstos, sus copias, o los papeles en que se contengan antecedentes de aquellas sean conocidos por persona alguna ajena al Servicio de Impuestos Internos. La infracción a lo dispuesto precedentemente, autorizará al afectado para perseguir las responsabilidades civiles y penales ante los tribunales competentes.
+
+Los contribuyentes que incurran en desembolsos directamente relacionados con la implementación y aplicación de los sistemas de marcación de bienes o productos que trata este artículo, tendrán derecho a deducirlos como crédito en contra de sus pagos provisionales obligatorios del impuesto a la renta, correspondientes a los ingresos del mes en que se haya efectuado el desembolso. El remanente que resultare, por ser inferior el pago provisional obligatorio o por no existir la obligación de efectuarlo en dicho período, podrá imputarse a cualquier otro impuesto de retención o recargo que deba pagarse en la misma fecha. El saldo que aún quedare después de las imputaciones señaladas, podrá rebajarse de los mismos impuestos en los meses siguientes, reajustado en la forma que prescribe el artículo 27 del decreto ley N° 825, de 1974, ley sobre impuesto a las ventas y servicios. El saldo o remanente que quedare, una vez efectuadas las deducciones en el mes de diciembre de cada año, o el último mes en el caso de término de giro, según el caso, tendrá el carácter de pago provisional de aquellos a que se refiere el artículo 88 de la ley sobre impuesto a la renta, contenida en el artículo 1°, del decreto ley N° 824, de 1974.
+
+Los productos o artículos gravados de acuerdo a las leyes respectivas, no podrán ser extraídos de los recintos de depósito aduanero ni de los locales o recintos particulares para el depósito de mercancías habilitados por el Director Nacional de Aduanas de conformidad al artículo 109 de la Ordenanza de Aduanas, ni de las fábricas, bodegas o depósitos, sin que los contribuyentes de que se trate hayan dado cumplimiento a la obligación que establece este artículo. En caso de incumplimiento, se considerará que tales bienes han sido vendidos o importados clandestinamente, incurriéndose en este último caso en el delito de contrabando previsto en el artículo 168 de la Ordenanza de Aduanas, salvo que se acredite haber pagado el impuesto de que se trate, antes de la notificación de la infracción.
+
+Los contribuyentes que no den cumplimiento oportuno a la obligación que establece el inciso primero, serán sancionados con multa de hasta 100 unidades tributarias anuales. Detectada la infracción, sin perjuicio de la notificación de la denuncia, se concederá administrativamente un plazo no inferior a dos meses y no superior a seis meses para subsanar el incumplimiento; en caso de no efectuarse la corrección en el plazo concedido se notificará una nueva infracción conforme a este inciso. La aplicación de las sanciones respectivas se ajustará al procedimiento establecido en el número 2° del artículo 165 del Código Tributario.
+
+La adulteración maliciosa en cualquier forma de los productos o inventarios, o de la información que respecto de aquellos se proporcione al Servicio de Impuestos Internos, con la finalidad de determinar un impuesto inferior al que corresponda, será sancionada conforme a lo dispuesto en el inciso primero del número 4° del artículo 97 del Código Tributario.
+
+En caso de detectarse en un proceso de fiscalización, especies de las reguladas en el presente artículo, que no cuenten con alguno de los elementos distintivos a que se refiere el inciso primero, se aplicará la sanción establecida en el inciso sexto de este artículo y el comiso de los bienes o productos respectivos.
+
+La incautación de las especies se efectuará por funcionarios del Servicio de Impuestos Internos en el momento de sorprenderse la infracción, debiendo remitirlas al recinto fiscal más próximo para su custodia y conservación. El vehículo o medio utilizado para cometer la infracción establecida en el inciso anterior no podrá continuar hacia el lugar de destino mientras no se proceda a la incautación de los bienes o productos respectivos.
+
+Para llevar a efecto las medidas de que trata el inciso anterior, se aplicará lo dispuesto en el inciso final del número 17 del artículo 97 del Código Tributario.
+
+Respecto de los bienes o productos incautados o decomisados de conformidad a la presente ley, se aplicarán en cuanto fueren compatibles las normas establecidas en el Título VIII del Libro II de la Ordenanza de Aduanas, contenida en el decreto con fuerza de ley N° 213, de 1953, según texto fijado por el decreto con fuerza de ley N° 30, de 2005, del Ministerio de Hacienda.
+
+## Título III
+
+Del comercio
+
+#### Artículo 14°
+
+Los fabricantes, importadores y comerciantes de tabaco deberán inscribirse antes de empezar su giro, en los registros del Servicio de Impuestos Internos, y estarán obligados a llevar la contabilidad que determine el Presidente de la República, y a exhibir sus libros cuando el Servicio de Impuestos Internos lo solicite.
+
+Estarán obligados, además, a cumplir estas mismas disposiciones, los que ejerzan este giro por encargo de otras personas, como ser comisionistas o martilleros.
+
+#### Artículo 15°
+
+Los propietarios de fábricas, los importadores y los comerciantes estarán obligados a permitir la inspección del personal del Servicio de Impuestos Internos. Esta inspección podrá hacerse en todos los almacenes, dependencias y depósitos del establecimiento, cada vez que el Servicio necesite comprobar la observancia de este decreto ley y del reglamento respectivo.
+
+Los productores de tabaco permitirán la inspección del personal en los fundos y bodegas, y en todo local que pueda servir para guardar tabaco.
+
+Los almacenes, dependencias y depósitos indicados en el inciso primero y las bodegas y locales indicadas en el inciso anterior, deberán ser autorizados expresamente por el Servicio, para este efecto.
+
+Igual inspección podrá efectuarse en los vapores que hagan el comercio de cabotaje.
+
+#### Artículo 16°
+
+Los productores, fabricantes, importadores y comerciantes, deberán practicar los inventarios, revisiones y comprobaciones de que trata este decreto ley, y que las exijan los funcionarios del Servicio de Impuestos Internos.
+
+#### Artículo 17°
+
+Los artículos gravados por el presente decreto ley no podrán ser extraídos de las aduanas ni de las fábricas sin que los importadores o fabricantes hayan dado cumplimiento a los requisitos siguientes:
+
+a) Hacer una declaración por escrito al Servicio de Impuestos Internos, del precio a que se venda al consumidor la mercadería gravada.
+
+b) Haber cumplido las obligaciones relativas al pago del impuesto, según proceda.
+
+c) Obtener una guía de despacho para la movilización de la mercancía, que será el mismo documento a que se refiere el inciso final del artículo 55 del decreto ley Nº 825, de 1974, sobre Impuesto a las Ventas y Servicios.
+
+d) Obtener una resolución del Ministerio de Salud en que se autorice su comercialización. En el caso de las mercancías extranjeras, se presumirá que los artículos que no se encuentren comprendidos en dicha resolución, o no cumplan con las especificaciones autorizadas por ella, han sido objeto del delito de contrabando, y se procederá a su incautación y total destrucción por constituir una amenaza para la salud pública. También se procederá a la incautación y destrucción de las mercancías nacionales que no cumplan con las especificaciones autorizadas en dicha resolución.
+
+INCISO SEGUNDO DEROGADO La persona que sin ser comerciante importe para su consumo particular cualquiera de los artículos gravados por el presente decreto ley, deberá pagar, antes de extraer la mercadería de la aduana, la contribución que le corresponda, de acuerdo con el precio comercial que le fije el Servicio de Impuestos Internos.
+
+No obstante, el impuesto y las demás obligaciones señaladas en este artículo no afectarán a los cigarrillos, tabaco de pipa, puros grandes y puros chicos o tiparillos, que se internen por pasajeros para su consumo, en una cantidad que no exceda, por persona adulta, de 400 unidades de cigarrillos; 500 gramos de tabaco de pipa; 25 unidades de puros grandes y 50 unidades de puros chicos o tiparrillos, respectivamente.
+
+#### Artículo 18°
+
+Se prohíbe la venta al detalle en el local de la fábrica, entendiéndose por tal el edificio y los anexos en que ella funciona.
+
+INCISOS 2° y 3°.- DEROGADOS.
+
+#### Artículo 19°
+
+Los tenedores de máquinas picadoras y elaboradoras de tabacos las inscribirán en el Servicio de Impuestos Internos.
+
+#### Artículo 20°
+
+DEROGADO
+
+> **Nota.** El Art. 2º de la LEY 20105, publicada el 16.05.2006, establece que la derogación del presente artículo entrará en vigencia 90 días después de su publicación en el Diario Oficial.
+
+#### Artículo 21°
+
+Se presume de derecho vendida clandestinamente, toda partida de tabaco, cigarro y cigarrillos que no apareciere como existencia en la fábrica o establecimiento, siempre que en los balances anteriores, firmados por el propietario o sus representantes, hubiere constancia de su existencia.
+
+#### Artículo 22
+
+Los cigarros, cigarrillos y tabacos que sean objeto de decomiso por infracción a lo dispuesto en los artículos 12 o 17 de la presente ley serán destruidos en su totalidad.
+
+#### Artículo 23°
+
+Las disposiciones del presente decreto ley entrarán en vigencia a contar del 1° de marzo de 1975.
+
+Derógase a contar de la fecha señalada en el inciso anterior la ley 11.741, de 10 de noviembre de 1954, texto refundido de las disposiciones sobre impuestos a los tabacos manufacturados y todas sus modificaciones posteriores.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Jorge Cauas.
