@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.242, de 27 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 63-C, para la ejecución de la obra Embalse Puclaro, Sector Punta Azul y San Carlos III Etapa, que figura a nombre de María P. Olivier Alcayaga, rol de avalúo S/Rol, comuna de Vicuña, IV Región, superficie 10.800 m². La Comisión de Peritos, fijó con fecha 29 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $14.397.000, la indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
