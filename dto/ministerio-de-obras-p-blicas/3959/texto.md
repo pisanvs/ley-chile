@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.959 de fecha 29 de diciembre de 1999, se expropiaron los lotes de terreno Nºs. 493-A y 494-A, superficie 476,4 y 1.615,0 m². respectivamente, rol de avalúo 554-485, comuna de Paillaco, para la obra ''Concesión Internacional Ruta 5; Tramo Temuco-Río Bueno, Km. 860.550,00 a Km. 867.050,00'' y se acordó el valor de indemnización con su propietario Herminio Bustos Bustos, ascendente a la cantidad de $1.102.260.-
+
+Fiscal del Ministerio de Obras Públicas.
