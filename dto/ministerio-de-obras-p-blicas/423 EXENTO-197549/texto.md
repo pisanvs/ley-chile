@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº423 de fecha 28 de marzo del 2002, se expropiaron los lotes de terreno Nº75 y 80, superficies 418 y 98 m2, rol de avalúo Nº179-58, comuna de Yerbas Buenas, para la obra "Camino Ruta L-31, Sector Polvorines-La Floresta, Tramo Km. 0,00000 a Km. 15,48000", VII Región y se acordó el valor de indemnización con su propietario Eliodoro Antonio Pareja Pareja, ascendente a la cantidad de $1.028.377.-
+
+Fiscal del Ministerio de Obras Públicas.
