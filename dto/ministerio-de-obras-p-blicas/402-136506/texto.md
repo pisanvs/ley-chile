@@ -1,0 +1,3 @@
+Por decreto MOP Nº402, de 26 de febrero de 1999, se expropió el lote de terreno Nº21, superficie 577 m2, rol de avalúo 333-23, comuna de Bulnes, para la Obra ''Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli, Sector 1, Octava Región y se acordó el valor de indemnización con su propietaria Olivia Aurora Bravo Moraga, ascendente a la cantidad de $1.396.463.-
+
+Fiscal del Ministerio de Obras Públicas.
