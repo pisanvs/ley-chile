@@ -1,0 +1,3 @@
+SERVIU REGION DEL BIO BIO
+
+Por resolución N° 192, de fecha 29.04.91 SERVIU Región del Bío Bío dispuso expropiación conforme art. 51 ley N° 16.391, sustituido por Decreto Ley N° 1.523 y D.S. N° 151 de 12 de Septiembre de 1990, de inmueble ubicado en Camino a Chiguayante Km. 1770,65 a Km. 1884,65 presunto rol de avalúo N°s/rol de la comuna de Concepción, de aparente dominio de carlos Etcheverry Schroer Comisión de Peritos formada por señores Teodoro Medina Reyes, ingeniero civil; Luis Soto Abarca, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 08.01.91 fijó monto provisional de indemnización en la suma de $ 2.181.000, pagaderos de contado.
