@@ -1,0 +1,3 @@
+Por resolución Nº177, de 30 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº94105041, presentada por MILKO SORIANO CARDENAS, para operar un centro de cultivo en Estero El Dique (Nal), comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
