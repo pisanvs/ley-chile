@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 930, de 31 de octubre de 1996, se expropiaron los lotes de terrenos Nºs. 7 y 11, superficies 215 y 70 m2 respectivamente, roles de avalúo 179-412 y 172-11, comuna de Nogales, para la obra Paso Superior y acceso a El Melón, Camino Ruta 5 Norte y se acordó precio de la indemnización con sus propietarios, Eliana Villegas Urrutia y orden de los Carmelitas Descalzos, ascendentes a las cantidades de $728.460 para el lote Nº 7 y $487.123 para el lote Nº 11.-
+
+Fiscal del Ministerio de Obras Públicas.
