@@ -700,6 +700,8 @@ Los funcionarios del Servicio, nominativa y expresamente autorizados por el Dire
 
 Los funcionarios fiscales, semifiscales, de instituciones fiscales y semifiscales de administración autónoma y municipales, y las autoridades en general, estarán obligados a proporcionar al Servicio todos los datos y antecedentes que éste solicite para la fiscalización de los impuestos.
 
+Cuando así lo determine el Servicio de Impuestos Internos, las instituciones fiscales, semifiscales, municipales, organismos de administración autónoma y las empresas de todos ellos, como asimismo, las personas que deban llevar contabilidad, deberán mantener un registro especial en el que se dejará constancia de los servicios profesionales u otros propios de ocupaciones lucrativas, de que tomen conocimiento en razón de sus funciones, giro o actividades propias. Este registro contendrá las indicaciones que el Servicio determine, a su juicio exclusivo.
+
 #### Artículo 88
 
 Estarán obligadas a emitir facturas las personas que a continuación se indican, por las transferencias que efectúen y cualquiera que sea la calidad del adquirente:
@@ -1738,9 +1740,7 @@ Transcurrido el plazo de tres años a que se refieren los artículos 200 y 201, 
 
 #### Artículo 198°
 
-Los créditos privilegiados de la primera clase establecidos en los cincos primeros números del artículo 2.472 del Código Civil serán los únicos que prevalecerán sobre el crédito privilegiado que el número sexto de ese artículo contempla a favor del Fisco en su calidad de acreedor de impuestos fiscales y municipales devengados.
-
-Para los efectos señalados en el inciso anterior, se entenderá que los créditos de que sean titulares los organismos de previsión por imposiciones adeudadas, o que se recauden por su intermedio para ser destinados a fines asistenciales o de seguridad social, se encuentren incluidos en el artículo 2.472, N° 4, del Código Civil, sin perjuicio de que deban prevalecer por sobre ellos los créditos por remuneraciones de empleados y obreros a que se refiere el mencionado artículo.
+Para el efecto previsto en el N° 1 del artículo 37 de la ley N° 4.558, las obligaciones tributarias de dinero de los deudores comerciantes se considerarán como obligaciones mercantiles. Sólo el Fisco podrá invocar estos créditos.
 
 #### Artículo 199°
 
