@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.957, de 31 de agosto de 2000, se expropió el lote de terreno Nº1, superficie 1.940 m2., rol de avalúo 1509-577, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5, Tramo Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Luis Joel Parra Parra, ascendente a la cantidad de $3.415.371.-
+
+Fiscal del Ministerio de Obras Públicas.
