@@ -1,0 +1,5 @@
+Por decreto MOP Nº673, de 29 de marzo de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206 de 1960, se expropió el lote de terreno Nº86 para la obra Ampliación Camino, Sector Nogales - Puchuncaví Ruta F-20, Km. 0.730,36 a Km.
+
+26.866,82, Quinta Región, que figura a nombre de Plaza Cabrera Eulogio, rol de avalúo 170-2, comuna de Puchuncaví, superficie 292 m2. La Comisión de Peritos integrada por los señores María Isabel Ríos Marcuello, Orlando Antonio Fariña Vásquez y Pablo Caria Giurici, fijó con fecha 20 de junio de 1997 el valor provisional de la indemnización en la cantidad de $321.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
