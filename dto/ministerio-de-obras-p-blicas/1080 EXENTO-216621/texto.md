@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.080 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº202, superficie 187,00 m2., Rol Nº520-100, comuna de Parral, VII Región para la obra: "Camino Ruta L-75, Sector: El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario Hortensia Soto Jorquera, ascendente a la cantidad de $442.225.-
+
+Fiscal del Ministerio de Obras Públicas.
