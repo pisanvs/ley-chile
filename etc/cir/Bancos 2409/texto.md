@@ -1940,7 +1940,7 @@ Por tratarse de operaciones de crédito de dinero, la tasa de interés que se le
 
 Los pactos en moneda extranjera con tasa varia- ble deben expresarse con tasa libo o prime.
 
-Sólo se podrá pactar una reajustabilidad distinta que la expresada en el título transferido o realizar pactos reajustables sobre títulos no reajustables o viceversa, cuando se trate de operaciones con los instrumentos que se señalan en el N° 3 de este título y que no correspondan a instrumentos pagaderos, expresados o reajustables en moneda extranjera.
+Sólo se podrá pactar una reajustabilidad distinta que la expresada en el título transferido o realizar pactos reajustables sobre títulos no reajustables o viceversa, cuando se trate de operaciones con los instrumentos que se señalan en el N° 3 de este título y que no correspondan a instrumentos pagaderos, expresados o reajustables en moneda extranjera. Por lo contrario, en el caso de operaciones con Pagarés Reajustables de la Tesorería General de la República que se expresan en Unidades Tributarias Mensuales, como asimismo en el caso de los Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional, los pactos reajustables sólo podrán convenirse en alguno de los sistemas de reajuste autorizados por las normas generales, y no con la reajustabilidad del instrumento transado.
 
 2.6. Pactos y documentos pagaderos en moneda extranjera.
 
@@ -1972,13 +1972,15 @@ ii) Certificados de Depósito Expresados en Dólares de los Estados Unidos de Am
 
 iii) Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
 
-iv) Otros instrumentos de la cartera de inversiones financieras, pagaderos, expresados o reajustables en moneda extranjera, emitidos por: el Banco Central de Chile, el Estado de Chile o sus instituciones; Estados o bancos centrales extranjeros de países clasificados, al menos, en primera categoría de riesgo; y, organismos internacionales a los Cuales se encuentre adherido el Estado de Chile.
+iv) Pagarés Reajustables de la Tesorería General de la República, emitidos conforme a la Ley N° 19.568.
+
+v) Otros instrumentos de la cartera de inversiones financieras, pagaderos, expresados o reajustables en moneda extranjera, emitidos por: el Banco Central de Chile, el Estado de Chile o sus instituciones; Estados o bancos centrales extranjeros de países clasificados, al menos, en primera categoría de riesgo; y, organismos internacionales a los Cuales se encuentre adherido el Estado de Chile.
 
 Debe tenerse presente, en todo caso, que las sociedades financieras no pueden participar en estas operaciones cuando se trate de pactos o documentos en moneda extranjera.
 
 b) Operaciones con el público.
 
-Podrán venderse con pacto de retrocompra desde cuatro días hábiles bancarios, los instrumentos aludidos en la letra a) precedente, con excepción de los indicados en su numeral iv).
+Podrán venderse con pacto de retrocompra desde cuatro días hábiles bancarios, los instrumentos aludidos en la letra a) precedente, con excepción de los indicados en sus numerales iv) y v).
 
 ### 4. Exención de encaje y reserva técnica
 
@@ -5014,7 +5016,7 @@ Igualmente, deberá dejarse establecida la responsabilidad de la empresa operado
 
 3.1. Características y tipos de tarjetas de débito.
 
-Las tarjetas de débito son intransferibles y deben emitirse a nombre de su titular, conteniendo la información mínima establecida en el Título VIII del Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile.
+Las tarjetas de débito son intransferibles y deben emitirse conteniendo la información mínima establecida en el Título VIII del Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
 Las tarjetas pueden ser utilizadas físicamente para otros propósitos, pudiendo constituir, a la vez, una tarjeta de crédito, o ser utilizada como tarjeta bancaria para la operación de otros dispositivos electrónicos diferentes a un punto de venta.
 
@@ -7319,6 +7321,8 @@ El Banco Central de Chile determina diariamente el valor del tipo de cambio del 
 Además de los sistemas señalados en los literales precedentes, conforme a lo indicado en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden aplicar el sistema de reajustabilidad previsto en el artículo 20 de la Ley N° 18.010, esto es, pactar operaciones expresadas en moneda extranjera, pagaderas por su equivalente en moneda chilena, según el tipo de Cambio vendedor al día del pago.
 
 Debe tenerse presente también que en su oportunidad fue autorizada la adquisición, por parte de las instituciones financieras, de los créditos otorgados por la ex-ANAP, los que tienen su propio sistema de reajustabilidad.".
+
+Por otra parte, debe entenderse que las normas generales en materia de reajustes no impiden adquirir instrumentos expresados en Unidades Tributarias Mensuales u otro tipo de reajustabilidad distinta de las autorizadas para pactar operaciones, cuando se trate de Pagarés Reajustables de la Tesorería General de la República o Bonos de Reconocimiento o Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
 
 2.2.2.- Operaciones pagaderas en moneda extranjera.
 
