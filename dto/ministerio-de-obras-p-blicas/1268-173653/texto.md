@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.268, de 31 de marzo de 2000, se expropió el lote de terreno Nº33, superficie 159,0 m2., comuna de Padre Las Casas, para la obra Concesión Internacional Ruta 5; Tramo Collipulli-Temuco; Sector II: Pillanlelbún-Gorbea, Novena Región y se acordó el valor de indemnización con sus propietarios Sergio David Huinca Huinca y Otro, ascendente a la cantidad de $841.552.-
+
+Fiscal del Ministerio de Obras Públicas.
