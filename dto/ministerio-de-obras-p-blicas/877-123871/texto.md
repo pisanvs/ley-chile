@@ -1,0 +1,3 @@
+Por decreto MOP No. 877, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s 10, y 11, superficies 1.700 y 540, m2. rol de avalúo 212-7, comuna de Chimbarongo, para la obra Ruta I-85-J, Sector Cruce Longitudinal (Chimbarongo) Codegua y se acordó precio de indemnización con su propietario Sociedad Agrícola Fundo Santa Berta Chimbarongo Limitada, ascendente a la cantidad de $ 4.972.600, para los lotes No. 10 y 11.
+
+Fiscal del Ministerio de Obras Públicas.
