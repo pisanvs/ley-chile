@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 465 de 29 de Marzo de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 15 a la 30 de la parte del Proyecto de División Terrenos Cooperativa de Reforma Agraria "Los Puquios Limitada", de la comuna de Buin, Región Metropolitana, formada por predio "Hijuela Los Manantiales que está formada por parte del Fundo Santa Filomena y parte del Fundo El Molino". Los derechos de agua se extraen del Canal Quinta de la Asociación Canales Unidos de Buin y derrames y sobrantes de riego de predios María Magdalena y Huerto Viluco. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
