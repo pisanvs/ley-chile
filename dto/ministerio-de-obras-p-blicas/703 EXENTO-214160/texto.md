@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº703 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº25-A, superficie 69 m², rol Nº526-10, comuna de Linares, VII Región, para la obra "Camino Ruta L-32, Sector: Cruce Ruta 5-Puente Sifón, Tramo: Km. 2,320 a Km. 17,666.44 y Km. 0,000 - Km. 0,963" y se acordó el valor de indemnización con su propietario Carlos H. Leiva Villalobos y Otros, ascendente a la cantidad de $367.464.
+
+Fiscal del Ministerio de Obras Públicas.
