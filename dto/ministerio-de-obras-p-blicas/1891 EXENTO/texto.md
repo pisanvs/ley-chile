@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.891 de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº34, superficie 64 m2, Rol de Avalúo Nº141-182, comuna de Codegua, para la obra "Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 a Km. 9,317", VI Región y se acordó el valor de la indemnización con su propietaria Luzmira Clarisa Caro Carreño, ascendente a la cantidad de $955.094.
+
+- Fiscal del Ministerio de Obras Públicas.
