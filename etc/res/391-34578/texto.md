@@ -1,0 +1,3 @@
+Por resolución N° 391, de 7 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA EL GOLFO S.A., R.U.T. N° 96.237.000-4 para continuar desarrollando como sucesora legal las actividades pesqueras autorizadas por esta Subsecretaría, a Pesquera Amanecer Ltda., R.U.T. N° 79.759.520-9, en virtud de la escritura pública de fusión y disposiciones legales citadas en Visto.
+
+Valparaíso, 7 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
