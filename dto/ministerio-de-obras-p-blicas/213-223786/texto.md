@@ -1,0 +1,5 @@
+Por decreto MOP Nº 213, de 22 de marzo de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron para la obra Extensión Línea 2 Norte Recoleta - Vespucio, Sector Santos Dumont - Av.
+
+Américo Vespucio, Región Metropolitana, los lotes de terreno Nº s. 1ERL2 y 2ERL2, que figuran a nombre de Barrera Rivas María y Otras y Sazo Plaza Berta, roles de avalúo 5036-11 y 5036-12, comuna de Recoleta, superficies 131 y 118 m2. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Jesús Fernando Días Pasmiño y Ramón Enrique Domingo Labarca, fijó con fecha 24 de noviembre de 2003, el valor provisional de la indemnización en las cantidades de $29.060.000.- para el lote Nº 1ERL2 y $32.970.000.- para el lote Nº 2ERL2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
