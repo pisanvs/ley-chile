@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 267, de 31 de marzo de 1997, se expropió el lote de terreno Nº 1, superficie 110.720 M2., rol de avalúo 807-11, comuna de Chile Chico, para la obra Camino Chile Chico-Mallin Grande, sector Pampa La Perra-Laguna Verde y se acordó precio de indemnización con su propietaria doña Norma Sudelina Rivera Hernández, ascendente a la cantidad de $1.340.400.-
+
+Fiscal del Ministerio de Obras Públicas.
