@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para transferir gratuitamente al Club Deportivo "Unión", de San Carlos, el predio fiscal que indica y cuyos deslindes señala, ubicado en esa ciudad.
