@@ -1,0 +1,3 @@
+El Banco Central de Chile, en base a los antecedentes proporcionados por el Fondo Monetario Internacional y CORFO de Nueva York certifica, a requerimiento de la Dirección General del Territorio Marítimo y de Marina Mercante, para los efectos de lo dispuesto en el Artículo N° 116 del Decreto Supremo de la Subsecretaría de Marina N° 427, de 25 de junio de 1979, que la variación experimentada por el I.P.C. de los Estados Unidos de América, entre el 1° de diciembre de 1991 y el 30 de noviembre de 1992, fue de 3,048%.
+
+Santiago, diciembre 16 de 1992.- Víctor Vial del Río, Fiscal.
