@@ -74,10 +74,6 @@ Del mismo modo, el solo cambio de régimen jurídico y de institución empleador
 
 Los pagos correspondientes, de acuerdo al inciso anterior, se postergarán hasta el cese de los servicios en la nueva entidad empleadora. Los montos devengados se calcularán a la fecha del traspaso en unidades de fomento, las que se harán efectivas al valor equivalente que tengan el día del respectivo pago, el que será de cargo del Instituto de Normalización Previsional.
 
-> **Nota.** NOTA: 1 El artículo 109 de la ley N° 18.768, otorgó al Presidente de la República un nuevo plazo, desde el 20 de enero al 5 de agosto de 1989, para ejercer las facultades que le conceden los artículos 5°, 6° y 6° transitorio de la presente ley. Posteriormente, el artículo 82 de la ley N° 18.827, publicado en el "Diario Oficial" de 28 de agosto de 1989, otorgó al Presidente de la República un nuevo plazo de 30 días, a contar de la fecha de su publicación, para ejercer las facultades que le concedieron los artículos 5°, 6° y 6° transitorio de la presente ley.
-
-> **Nota.** NOTA: 1.1 El artículo 69 de la Ley N° 18.899, publicada en el "Diario Oficial" de 30 de diciembre de 1989, dispuso lo siguiente: "Interprétanse los artículos 5°, 6° y 6° transitorio de la presente ley, en el sentido que para los efectos del encasillamiento y del traslado del personal a que se refieren esos preceptos, cuyo plazo final fue fijado por el artículo 82 de la ley N° 18.827, se entienden eximidos los respectivos funcionarios del cumplimiento de los requisitos establecidos en el decreto con fuerza de ley N° 90 de 1977 del Ministerio de Hacienda, y en los artículos 12 y 29 del decreto ley N° 3.551 de 1981, según corresponda.
-
 #### Artículo 6°
 
 Facúltase al Presidente de la República para que dentro del plazo de un año, a contar de la vigencia de esta ley, y mediante decreto dictado a través de los Ministerios de Hacienda y de Trabajo y Previsión Social, fije el nuevo Estatuto Orgánico del Instituto de Normalización Previsional. En el ejercicio de esta facultad, el Presidente de la República deberá regular las funciones y atribuciones que se asignan al Instituto mediante la presente ley, además de las que le son propias. Internamente se estructurará en una Dirección Nacional, en Direcciones Regionales, Departamentos, Subdepartamentos, Secciones y Oficinas.
@@ -88,15 +84,9 @@ Asimismo, contendrá la planta del personal del Instituto, que se regirá por el
 
 El encasillamiento de los funcionarios en la planta del Instituto de Normalización Previsional se ajustará a lo establecido en los incisos quinto, sexto y séptimo del artículo anterior, y a lo dispuesto en las letras a), b), c) y d) del artículo 29 del decreto ley N° 2.879, de 1979.
 
-> **Nota.** El Art. 109 de la Ley 18768, publicada el 29.12.1988, otorgó al Presidente de la República un nuevo plazo, desde el 20 de enero y hasta el 5 de agosto de 1989, para ejercer las facultades concedidas por el presente artículo.
-
-> **Nota.** NOTA 1 El Art. único de la Ley 18781, publicada el 08.02.1989, dispuso que la facultad que confiere el presente artículo para fijar el Estatuto Orgánico y la Planta del Instituto de Normalización Previsional, podrá ser ejercida mediante la dictación de uno o más decretos con fuerza de ley.
-
 #### Artículo 7°
 
 Las instituciones de previsión del régimen antiguo que no figuran en el artículo 1° de esta ley y que requieran a futuro aporte del Estado para cubrir los déficits en el financiamiento de los beneficios jubilatorios, pensiones, bonos de reconocimiento, asignaciones por muerte y desahucios o indemnizaciones por años de servicios, se fusionarán, de pleno derecho, en el Instituto de Normalización Previsional, y se sujetarán a las normas de esta ley y a las demás aplicables a éste. Para estos mismos efectos los Ministerios de Hacienda y del Trabajo y Previsión Social dictarán el decreto supremo correspondiente.
-
-Para los efectos de lo dispuesto en el inciso anterior, se entenderá que se producen dichos déficits en la oportunidad en que se constate, mediante proyecciones de los flujos esperados de ingresos y gastos, que los recursos son insuficientes para absorber los egresos que demande el pago de los beneficios durante los períodos que correspondan, conforme a las bases técnicas pertinentes. Tal circunstancia será precisada a través de informe de la Superintendencia de Seguridad Social.
 
 #### Artículo 8°
 
@@ -111,8 +101,6 @@ Con todo, el Director del Instituto deberá enajenarlos mediante licitación, o 
 Dicho funcionario deberá repartir a los pensionados por antigüedad, invalidez, vejez y sobrevivencia de la ex-Caja de Previsión de Empleados Particulares, que tengan alguna de esas calidades a la fecha de publicación de esta ley, los fondos indicados en el inciso anterior, en las condiciones que fije un reglamento que se dictará para estos efectos.
 
 Los montos que los beneficiarios perciban de acuerdo con este artículo no serán considerados remuneración ni renta para ningún efecto legal, y estarán exentos de cualquier tributo o descuento.
-
-> **Nota.** NOTA: 3 El Artículo 4° transitorio de la Ley N° 19.260, publicada en el "Diario Oficial" de 4 de diciembre de 1993, prorrogó por dos años, a contar del 20 de enero de 1993, el plazo establecido en el presente artículo.
 
 #### Artículo 10
 
@@ -256,19 +244,9 @@ Las personas que perciban el beneficio indicado no podrán ser designadas en nin
 
 Autorízase al Director del Instituto de Normalización Previsional, por el plazo de un año, para transferir a título gratuito a los organismos de la Administración del Estado indicados en el artículo 1° de la ley N° 18.575, los bienes raíces que a la fecha de publicación de esta ley, estaban ocupados por ellos y que eran de propiedad de alguna de las instituciones indicadas en el artículo 1°.
 
-Igual facultad podrá ejercer respecto de la Juntade Servicios Judiciales, siempre que los inmuebles a transferir estén ocupados, en los términos señalados en el inciso precedente, por los Tribunales de Justicia.
-
 Estos traspasos estarán exentos de toda clase de impuestos y derechos, y no requerirán del trámite de la insinuación. Tratándose de transferencias de estos bienes al Fisco se aplicará lo dispuesto en el artículo 36 y siguientes del decreto ley N° 1.939, de 1977.
 
 Si alguno de los inmuebles estuviere ocupado en parte por entidades fiscales y por otros órganos de la Administración del Estado que tengan patrimonio distinto del Fisco, la transferencia del inmueble se efectuará a éste debiendo posteriormente el Ministerio de Bienes Nacionales disponer la transferencia gratuita, la destinación o concesión de uso según proceda en favor de aquéllos.
-
-#### Artículo 6°
-
-Facúltase al Presidente de la República, por el plazo de un año, para que, mediante uno o más decretos expedidos por intermedio del Ministerio del Trabajo y Previsión Social, los que deberán ser suscritos también por los Ministros de Hacienda y del ramo respectivo, traslade funcionarios de las instituciones de previsión que se fusionan de conformidad con esta ley a cualquier organismo de la Administración del Estado, en las mismas condiciones establecidas en los incisos cuarto, quinto, sexto y séptimo del artículo 5°.
-
-En el ejercicio de esta facultad podrá modificar las dotaciones de personal y adecuar las plantas de los organismos o servicios a que se destinare este personal, además de las modificaciones presupuestarias que sean procedentes.
-
-> **Nota.** El Art. 109 de la Ley 18768, publicada el 29.12.1988, otorgó al Presidente de la República un nuevo plazo, desde el 20 de enero y hasta el 5 de agosto de 1989, para ejercer las facultades concedidas por el presente artículo.
 
 #### Artículo 6°
 
