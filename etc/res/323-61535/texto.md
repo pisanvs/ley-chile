@@ -1,0 +1,3 @@
+Por Resolución Nº 323, de 3 de marzo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94106013, presentada por MARINE FARMS CHILE S.A., para un centro de cultivo ubicado en Sur Isla Cailin, Comuna de Quellón, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 3 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
