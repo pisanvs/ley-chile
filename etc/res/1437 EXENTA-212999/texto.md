@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.437, de 26 de junio de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chaiguaco, X Región, individualizada en el artículo 1º, Nº 5) del decreto exento Nº 641 de 2002, modificado por el decreto exento Nº 337 de 2003, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES QUENUIR.
+
+Valparaíso, 26 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
