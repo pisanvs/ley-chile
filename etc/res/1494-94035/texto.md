@@ -1,0 +1,7 @@
+AUTORIZA A BIO SUR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 1.494, de 29 de Diciembre de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Bío Sur S.A., RUT N° 96.535.330-5, domiciliada en la ciudad de Talcahuano, para ampliar actividades pesqueras autorizadas por resolución N° 1.187. de 1988, de esta Subsecretaría, en orden a instalar y operar un establecimiento de cultivo de los recursos Salmón plateado, Salmón del Atlántico y Trucha arcoiris, en las cercanías del Río del Este, tributario del Río Cochamó, Comuna de Cochamó, Provincia de Llanquihue, X Región. Las coordenadas geográficas son las siguientes de acuerdo con el Plano que acompaña a su solicitud signado por el Servicio Nacional de Pesca con el Ordinal N° 1082 y la Carta del Instituto Geográfico Militar N° 4115-7215 de Cochamó: Latitud: 41° 29' 26,90" S Longitud: 72° 15' 16,70" W Los recursos salmonídeos serán adquiridos de centros de cultivo autorizados o importará de conformidad con la legislación vigente.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Diciembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
