@@ -1,0 +1,3 @@
+Por resolución N° 1.045 de 11 de Noviembre de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 1.249, de 1991, de esta Subsecretaría, que autorizó a doña ALBA ELIANA TORRES MALDONADO, para operar un establecimiento de cultivo en el Estero El Dique, Comuna de Ancud, Provincia de Chiloé, X Región, en virtud de lo prescrito en el artículo 6° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de Noviembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
