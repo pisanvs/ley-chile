@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 123, de fecha 28 de diciembre del año 2001, se autorizó la existencia y se aprobó el estatuto de la Cooperativa de Trabajo Producción de la Tierra, de nombre de fantasía "ATAC", de Puerto Montt, Décima Región, en los términos que da testimonio el instrumento protocolizado con fecha 23 de noviembre del año 2001, ante el Notario de Puerto Montt, don Heriberto Barrientos Bahamonde, con el número 328.
+
+Por orden del Sr. Subsecretario, Cecilia González Martínez, Jefe Departamento de Cooperativas (S), Ministerio de Economía, Fomento y Reconstrucción.
