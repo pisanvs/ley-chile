@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.063 de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº 14-B, superficie 696 m², rol Nº 1130-9, comuna de Pichilemu, VI Región para la obra "Camino Pichilemu - Cáhuil, Ruta I-500, Km. 0,980 a Km. 12,76217, y se acordó el valor de indemnización con su propietario Luis Alberto Rey González y Otros, ascendente a la cantidad de $4.128.960.
+
+- Fiscal del Ministerio de Obras Públicas.
