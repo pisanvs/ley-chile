@@ -1,0 +1,3 @@
+Por resolución Nº 1.073, de 31 de mayo de 2001, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 1.452 de 1996 y Nº 588 de 1999, ambas de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA LA PENINSULA S.A. para realizar actividades con la nave "Loa 2", respecto de los recursos Anchoveta y Sardina común, en el área marítima de la X Región.
+
+Valparaíso, 31 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
