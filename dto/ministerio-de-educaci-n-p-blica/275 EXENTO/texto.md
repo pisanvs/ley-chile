@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO No. 275 EXENTO, DE 1985
+
+Por decreto supremo exento de Educación No. 275 de 21 de Junio de 1985 se ha aprobado a contar del año lectivo 1985 y por tres años, con carácter experimental planes de estudio para ser aplicados por la Escuela Taller de Formación Laboral para educandos discapacitados de la ciudad de Osorno. Asimismo, se aprueban programas de estudio para las asignaturas de los planes: Común, de Formación Específica y Complementario. Además, se deja establecido que para incorporarse a la Escuela Taller de Formación Laboral, los jóvenes deberán haber egresado de un Multitaller de una Escuela Especial y presentar deficiencia mental, alteraciones sensoriales o trastornos motores. Se dan normas especiales de evaluación y promoción.
+
+Santiago, 26 de Junio de 1985.- Raúl Mohr Aray, Subsecretario de Educación Pública subrogante.
