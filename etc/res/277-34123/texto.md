@@ -1,0 +1,3 @@
+Por Resolución N°277 de 30 de Septiembre 1993, del SERVIU V Región de Valparaíso, se dispuso expropiación conforme artículo 87 Ley 8.946 y Decreto Ley 2.186, de 1978, que afecta parcialmente lotes 2 y 3, ubicados frente Avenidas Manantiales y Magallanes, Sector Con Con, comuna Viña del Mar, rol de avalúo 5001-2, de dominio Refinería de Petróleos Con Con S.A., en superficie de 2.560,86 m2. Comisión Tasadora integrada por arquitecto Sr. Osvaldo Muñoz Quintana y constructores civiles Sres. Alvaro Verdejo Vidal y Pablo Caria Giurici, según informe de 10 de Agosto de 1993, fijó monto provisional indemnización en $ 8.963.010, la que será pagada de contado.-
+
+Director SERVIU V Región.
