@@ -1,0 +1,5 @@
+Por decreto MOP Nº771, de 30 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº26-A, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 6C2:
+
+Km. 41.853,56 a Km. 45.680,00'', Región Metropolitana, que figura a nombre de Soc. Renta Equipos Hortensias Ltd., rol de avalúo 273-6, comuna de Curacavi, superficie 1.152 m2. La comisión de peritos integrada por los señores Andrés Echeverría Campo, Jaime Rolando Jurgens Bittner y María Cristina Camus Palacios, fijó con fecha 27 de marzo de 2002, el valor provisional de la indemnización en la cantidad de $9.330.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas .
