@@ -1,0 +1,3 @@
+Santiago, Setiembre 3 de 1831.
+
+El Gobierno, en cumplimiento de la lei de 22 de enero de 1829, que ordena la construccion de los edificios en que ha de establecerse la Aduana de Valparaiso, casa del gobernador y demas oficinas, por no haber sido asequible su ejecucion conforme al proyecto designado en marzo, del mismo año, ha procedido a la formacion de un nuevo plan y presupuesto, sobre el sitio que actualmente ocupa la alcaidía, frente al muelle; y deseando encargar esta obra a particulares, por contrata celebrada en subasta pública, se previene a los interesados, que en el término de 15 dias, contados desde la fecha, pueden ocurrir al Ministerio de Hacienda a informarse del plano y presupuesto espresados, sobre cuyas bases deben hacer sus propuestas.
