@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 931, de 30 de septiembre de 1997, se expropió el lote de terreno Nº 51 , superficies 3.665 m2. rol de avalúo 228-9, comuna de Santa Juana, para la obra Camino de la Madera, sector Bifurcación Diuquín-Santa Juana, y se acordó el valor de indemnización con su propietario Humberto Chávez Matus y otros, ascendente a la cantidad de $887.711.
+
+Fiscal del Ministerio de Obras Públicas
