@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.392, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº20, superficie 19 M2, rol de avalúo 146-104, comuna de San Vicente, VI Región, para la obra ''Mejoramiento Camino Ruta H-724, Sector La Gruta-Pueblo de Indios Km. 0,000 al 1,187 y Sector Ruta H-730, Km. 1,600 al 3,292'', y se acordó el valor de indemnización con su propietario don Luis Hugo Guajardo Márquez, ascendente a la cantidad de $271.920.-
+
+Fiscal del Ministerio de Obras Públicas.
