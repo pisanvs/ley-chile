@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.486, de 30 de noviembre de 1998, se expropiaron los lotes de terreno No.s. 2 y 2-A, superficies 48.810 y 59.220 m2. respectivamente, rol de avalúo 520-9, comuna de Antuco, para la obra Camino Antuco-Los Barros Pichachen y se acordó precio de indemnización con su propietario Héctor Pezoa Riffo, ascendente a la cantidad de $ 6.344.631.- para los lotes 2 y 2-A.-
+
+Fiscal del Ministerio de Obras Públicas.
