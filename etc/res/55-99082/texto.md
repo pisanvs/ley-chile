@@ -1,0 +1,3 @@
+Resolución 55, 16 abril 1998, Serviu Región del Bío Bío ordenó expropiación parcial inmuele ubicado en calle Paicaví Nº2457, rol de avalúo Nº7022-16, comuna Concepción, superficie 50 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-7022-16; de aparente dominio de Suc. Juan Muñoz Urquiza, para ejecución programa ''Mejoramiento Interconexión Vial Centro Concepción-Autopista Talcahuano'', conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto, y Sergio Labarca G., constructor civil, según informe de fecha 28 de octubre de 1997, fijó monto provisional indemnización en $2.772.000.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
