@@ -1,0 +1,11 @@
+AUTO ACORDADO SOBRE REAJUSTE ANUAL DE CUANTIAS DE ESTA CORTE SUPREMA
+
+En Santiago, a diecinueve de enero de mil novecientos noventa y tres, se reunió el Tribunal Pleno de la Corte Suprema, presidido por el titular don Marcos Aburto Ochoa y con asistencia de los Ministros señores: Jordán, Zurita, Faúndez, Dávila, Toro, Araya, Perales, Alvarez, Bañados, Carrasco, Correa y Garrido. Teniendo en consideración lo dispuesto en el artículo 6° del Decreto Ley N° 1.417, de 9 de abril de 1976, modificado por el Decreto Ley N° 2.416, de 13 de diciembre de 1978, el Tribunal en cumplimiento de dichas disposiciones reajusta la cuantía de los asuntos no determinados en sueldos vitales por medio del siguiente Auto Acordado:
+
+Primero.- Introdúcense en el artículo que se señala del Código Orgánico de Tribunales, las siguientes modificaciones: Artículo 198: En el inciso final, reemplazado por el Decreto Ley 1.417, se sustituyen los guarismos "2379" y "1778" por "2681" y "2004", respectivamente.
+
+Segundo.- Introdúcense las siguientes modificaciones al Código de Procedimiento Civil: Artículo 445: En los números 9 y 12, se reemplaza "397.970" por "448.512". Artículo 698: En el inciso primero, se reemplazan "11.872" y "237. 515" por "13.380" y "267.679", respectivamente. Artículo 703: Se reemplaza "11.872" por "13.380". Artículo 749: Se reemplaza "237. 515" por "267.679". Se deja constancia que conforme a lo dispuesto en la Ley N° 18.705, publicada en el Diario Oficial de 24 de mayo de 1988, las cantidades que se expresaban en pesos en los artículos 88, 118, 165, 767 y 801 del Código de Procedimiento Civil, se determinan -a partir del 24 de Julio de ese año- en unidades tributarias mensuales.
+
+Publíquese en el Diario Oficial. Para constancia se extiende la presente acta. Fdo.: M. Aburto O., S. Jordán L., E. Zurita C., O. Faúndez V., R. Dávila D., A. Toro L., E. Araya V., M. Perales M., H. Alvarez G., A.
+
+Bañados C., O Carrasco A., L. Correa B., M. Garrido M.; Carlos Meneses Pizarro, Secretario".
