@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 251 de fecha 27 de Marzo de 1985, de la Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido de la Línea de Buses No. 75 "Intercomunal- San Bernardo- La Cisterna", autorizado por resolución No. 381, 09 de Noviembre de 1982, quedando su nuevo trazado como sigue:
+
+Circunvalación: Desde su terminal en Madrid Osorio con Freire, continúa por Madrid Osorio - Barros Arana - San José - Martin de Solís - Puerto Williams - Ducaud - Condell - Circunvalación - Condell - Ducaud - Puerto Williams - Martín de Solís - San - José - Alfonso XIII - Covadonga - Freire - Gran Avda. José Miguel Carrera - Jorge C ceres - Esmeralda - Av. Lo Ovalle - Av. Central - Buenaventura - Av. Central - hasta pasaje 22 Sur, donde circunvala, siguiendo por Av. Central - Buenaventura - Av. Central - Av. Lo Ovalle - Gran Avda. José Miguel Carrera - Balmaceda - Urmeneta - Arturo Prat - J.J. Pérez - San José - Martin de Solís - Puerto Williams - Ducaud - Condell - Circunvalación - Condell - Ducaud - Puerto Williams - Martín de Solís - San José - Alfonso XIII - Covadonga - J.J. Pérez - Maestranza - Barros Arana - Madrid Osorio hasta Freire, su terminal.
+
+Santiago, 28 de Marzo de 1985.- Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana.
