@@ -1,0 +1,3 @@
+Por Resuelvo Sendos No. 493, de 27 de Junio de 1989, se expropió los lotes de terrenos N°s 5, 6-A y 6-B, Rol No. 149 - 195 de la comuna de Codegua, VI Región, de 4.095,1220 y 945 m2. de superficie respectivamente, para la ejecución de la obra A.P. de Codegua, mejoramiento del Servicio y se acordó el monto de la indemnización con su propietario don Julio Ernesto Russi Greene, ascendente a $ 580.000.- en los cuales se incluye la servidumbre del lote No. 7 del mismo propietario.-
+
+Director Nacional de Obras Sanitarias.
