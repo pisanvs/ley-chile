@@ -1,0 +1,3 @@
+Por resolución Nº 1.783, de 9 de septiembre de 1999, de esta Subsecretaría, no ha lugar el recurso de reconsideración interpuesto por don OLEGARIO ERNESTO DELGADO DIAZ, en contra de la resolución Nº 928, de 1999, de esta Subsecretaría, que caducó a la resolución Nº 1.060, de 1998, respecto de la nave ''Alborada'', en atención a que no existen nuevos antecedentes que permitan reconsiderar dicha medida.
+
+Valparaíso, 9 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
