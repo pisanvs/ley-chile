@@ -1,0 +1,3 @@
+Por decreto MOP 4.941, de 31 de octubre de 2000, se expropió el lote de terreno Nº32, superficie 38.850 m², rol de avalúo 866-170, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Troncal Sur Tramo 1, Atravieso Eucaliptus, Quinta Región y se acordó el valor de indemnización con sus propietarios Carlos Gabriel Concha Olguín y otros, ascendente a la cantidad de $111.976.577.-
+
+Fiscal del Ministerio de Obras Públicas.
