@@ -1,0 +1,3 @@
+Por decreto MOP Nº 466 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 11-A, superficie 1.039,14 m², rol de avalúo 248-136, comuna de Salamanca, para la obra "Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias Canal Alimentador" y se acordó el valor de indemnización con su propietario Ana Doralisa del Carmen Cortés Moyano, ascendente a la cantidad de $312.272.-
+
+Fiscal del Ministerio de Obras Públicas.
