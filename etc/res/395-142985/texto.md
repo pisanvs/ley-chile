@@ -1,0 +1,3 @@
+NOTIFICACION
+
+Por resolución No. 0395 de fecha 09 de Diciembre de 1986, del SERVIU V Región de Valparaíso, se dispuso expropiación conforme art. 87 Ley 8.946 y DL No. 2.186, de 1978, de parte de inmueble ubicado en Avenida Alemania lote No. 123, rol avalúo No. 5160-11, comuna de Valparaíso, aparentemente de dominio de Manuela Gullermina Rojo A. Comisión tasadora integrada por Srs. Osvaldo Muñoz Quintana, arquitecto, Edmundo Bravo Ubilla, arquitecto, y Pablo Cariá Giurici, constructor civil, según informe de fecha 20 de Noviembre de 1986, fijó monto provisional indemnización en la suma de $ 185.225.- Indemnización se pagará de contado.
