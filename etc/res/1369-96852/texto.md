@@ -1,0 +1,3 @@
+Por Resolución No.1.369, de 4 de Noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar de la fecha de esta Resolución, el plazo otorgado a don CARLOS GUERRERO SUBIABRE, R.U.T. No.10.004.540-0, domiciliado en O'Higgins No.113, Maullín, para empezar a operar el establecimiento de cultivo autorizado por la Resolución No.1.542, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de fuerza mayor.
+
+Valparaíso, 4 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
