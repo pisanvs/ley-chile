@@ -1,0 +1,3 @@
+Por resolución Nº 67 de 10 de marzo de 1999 de Serviu Metropolitano, modificóse la resolución Nº 631 de 27 de noviembre de 1998 del mismo Servicio, que ordenó expropiación conforme D.L. Nº 2.186 de 1978, inmueble ubicado en Callejón Santa Laura, entre calles Marcoleta y Rigoberto Jara, presunto rol de avalúos Nº 117-140, comuna de Quilicura, con una superficie de 9,6 hás. ordenándose se expropie sólo parte de dicho inmueble, esto es una superficie de 25.635,50 m2., cuyos deslindes se señalarán en escritura pertinente, desistiéndose del resto de la expropiación. Monto de indemnización fijado de común acuerdo con quienes acreditaron dominio -esto es Inmobiliaria Los Silos Ltda.- en el equivalente a pesos U.F. 20.457.- al contado.-
+
+Director Serviu Metropolitano.
