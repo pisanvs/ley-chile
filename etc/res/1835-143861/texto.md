@@ -1,0 +1,3 @@
+Por resolución Nº 1.835, de 13 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97106032, presentada por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para operar un centro de cultivo ubicado en Isla Cailín, Punta Tepun, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 13 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
