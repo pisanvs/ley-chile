@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.895 de fecha 29 de octubre de 2002, se expropiaron los lotes de terreno Nº 45-B, 46-A y 46-B, superficies 3.312, 8.009 y 215 m2, rol de avalúo Nº 27-39 y 27-45, comuna de Paredones, para la obra ''Camino Lolol - Paredones Bucalemu, Sector Alto Nilahue - Acceso Paredones, tramo Km. 12.700 a Km. 27.800'', VI Región y se acordó el valor de la indemnización con su propietaria Mirella Catalán Urzúa, ascendente a la cantidad de $31.244.073.-
+
+Fiscal del Ministerio de Obras Públicas.
