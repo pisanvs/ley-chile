@@ -1,0 +1,3 @@
+Por Decrero M.O.P. No. 50, de 26 de febrero de 1992, se expropiaron los lotes de terreno N°s. 2, 7 y 7-A, superficies 38.271 M2., 17.569 M2 y 20.910 M2., respectivamente, roles de avalúos 5004-55 y 5000-3, Comuna de Coronel, para la obra Camino By Pass Coronel - Lota Ruta 160, sector By Pass - Coronel y se acordó precio de indemnización con sus propietarios Hermógenes Machuca Bustos y Juan Valdebenito Valencia, ascendente a las cantidades de $ 37.474.344 y $ 9.722.985.-
+
+Fiscal de Ministerio de Obras Públicas.
