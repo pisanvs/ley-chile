@@ -1,0 +1,3 @@
+Por decreto MOP. No 383, de 31 de marzo de 1998, se expropió el lote de terreno No 43, superficie 42 M2., rol de avalúo No 498-16, comuna de Concepción, para la obra Mejoramiento Autopista Concepción - Talcahuano, Sector Rotonda Bonilla y Campus San Andrés, y se acordó precio de indemnización con su propietaria María Flores Arévalo y otros, ascendente a la cantidad de $8.541.649. - lote 43.
+
+Fiscal del Ministerio de Obras Públicas.
