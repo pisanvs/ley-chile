@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1288 de 31 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850 de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No.
+
+6, para la obra Camino Ruta L-75, Sector Cruce Longitudinal (Parral), El Ajial kms. 0.000 al 6.303,91 que figura a nombre de doña Liliana Oyarzún Poisson, rol de avalúo 419-86, comuna de Retiro, superficie 261 m2. La Comisión de Peritos compuesta por los señores Renato Guerra Estévez, Carlos Sottolichio Díaz y Sergio Lay Gómez, fijó con fecha 26 de diciembre de 1995, el valor provisional de la indemnización en la cantidad de $ 503.250. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel Decreto Ley No. 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
