@@ -1,0 +1,3 @@
+Por decreto MOP Nº 93, de 9 de febrero de 2004, se dejó sin efecto el decreto MOP Nº 1.221, de 27 de octubre de 2003, por cuanto el lote Nº 3-A, fue expropiado por decreto MOP Nº 1.000, de 16 de septiembre de 2003 y consignado el monto de la indemnización provisional debidamente reajustado, en la cuenta corriente del Tercer Juzgado Civil de Iquique. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
