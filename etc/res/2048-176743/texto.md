@@ -1,0 +1,3 @@
+Por resolución Nº 2.048, de 15 de septiembre de 2000, de esta Subsecretaría, autorízase a ILD YAMIL YURIE CHAHUAN, para ampliar actividades pesqueras de transformación autorizados por resolución Nº 336, de 1993, de esta Subsecretaría, en orden a incorporar a la planta ubicada en la Cantera s/nº, Pudeto, comuna de Ancud, provincia de Chiloé, X Región, autorizada por la resolución señalada precedentemente, en las líneas de elaboración de conserva y congelado el recurso hidrobiológico Loco.
+
+Valparaíso, 15 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
