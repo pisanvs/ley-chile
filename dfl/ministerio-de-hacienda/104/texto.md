@@ -1,0 +1,1 @@
+Declara en reorganización la Caja Nacional de Empleados Públicos y Periodistas y suprime en su planta de funcionarios los cargos que indica, desempeñados por las personas que señala.
