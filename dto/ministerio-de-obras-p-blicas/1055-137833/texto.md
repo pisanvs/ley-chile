@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.055 de fecha 29 de abril de 1999, se expropió el lote de terreno Nº 50, superficie 81,0 m2., rol de avalúo 3283-108, comuna de Padre las Casa, para la obra ''Concesión Internacional Ruta 5 Tramo: Collipulli - Temuco Sector II: Paillanlelbún - Gorbea Km. 657,000 a Km. 718,336, Tramo 2: By Pass Temuco Km. 11,200 al 11,900'' y se acordó el valor de indemnización con su propietario Juanita María Sandoval Palacios, ascendente a la cantidad de $3.289.093.-
+
+Fiscal del Ministerio de Obras Públicas.
