@@ -1,0 +1,5 @@
+Por Decreto MOP. N° 892 de 30 de septiembre de 1997, modificado por Decreto N° 1.040 de 24 de octubre de 1997, en base a la facultad otorgada por el artículo 105 del Decreto M.O.P N° 294, de 1984 que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno N°s 3, 4, y 5 para la obra Recintos Captación Impulsión Aducción y Acceso Mejoramiento del Sistema Agua Potable Rural de Chayahue, que figuran a nombre de Oscar Weil Friedeman y José del C. Cheuquil Uribe rol de avalúo 148-11 y 150-5 Comuna de Calbuco, X Región, superficies 1.180,80 y 26 m2., respectivamente.
+
+La Comisión de Peritos compuesta por los señores Carlos Mera Santibáñez, Jaime Sanz Bahamonde y Leopoldo Schumacher Guarda, fijó con fecha 14 de febrero de 1997, el valor provisional de las indemnizaciones en las cantidades de $177.000, para el lote 3, $6.400, para el lote 4 y $2.080 para el lote 5. La indemnización se pagará al contado. La publicación se efectua en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas
