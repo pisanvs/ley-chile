@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº804 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº3, superficie 459 m², Rol de Avalúo Nº164-487, comuna de Trehuaco, para la obra ''Camino Ruta 126 - Cruce Ruta N-60, Puente Chudal, Km. 0,00000 a Km. 0,16000'', VIII Región y se acordó el valor de indemnización con su propietario José Olegario Parra Reventón, ascendente a la cantidad de $946.425.-
+
+Fiscal del Ministerio de Obras Públicas.
