@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.445, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº1, superficie 3.483 m2, rol de avalúo Nº183-5, comuna de Cañete, para la obra ''Camino Huilquehue-Paillahue, Sector Puente Paillahue, Km. 0,00000 al Km. 0,30000'', VIII Región, y se acordó el valor de la indemnización con su propietario Orlando Emiliano Arriagada Sagardía, ascendente a la cantidad de $5.532.975.-
+
+Fiscal del Ministerio de Obras Públicas.
