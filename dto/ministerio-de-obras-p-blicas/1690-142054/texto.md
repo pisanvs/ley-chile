@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.690, de 24 de junio de 1999, se expropió el lote de terreno No. 2, superficie 58 m2, rol de avalúo 199-48, comuna de San Nicolás, para la obra "Ruta 5 Tramo Talca - Chillán: Sector Solución Acc. a Pobl. Martín", Octava Región y se acordó el valor de indemnización con su propietario Juan José Muñoz Vásquez, ascendente a la cantidad de $ 1.096.549.-
+
+Fiscal del Ministerio de Obras Públicas.
