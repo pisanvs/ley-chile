@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 441, de 29 de septiembre de 1994, se expropió el lote de terreno N° 18, superficie 26.078 m2., rol de avalúo 40-15, comuna de Peumo, para la obra Mejoramiento Camino Ruta H-30, Coltauco-Cruce Ruta H-66-G (Peumo), y se acordó valor de indemnización con sus propietaria Soc. Agrícola Comercial Huertos Los Molinos Limitada, ascendente a la cantidad de $7.547.792.
+
+Fiscal del Ministerio de Obras Públicas.
