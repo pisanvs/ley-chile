@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº162 de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº105, superficie 509,00 m², Rol de Avalúo 516-133, comuna de Río Bueno, para la obra "Camino Río Bueno-Crucero, Sector T-90-U y T-933, tramo Km. 0,00000 a Km. 20,90000" y se acordó el valor de indemnización con su propietario Luis Alberto Vásquez Saldivia, ascendente a la cantidad de $752.923.-
+
+Fiscal del Ministerio de Obras Públicas.
