@@ -1,0 +1,5 @@
+Por Resolución Nº 1.317, de 9 de octubre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; deniégase la solicitud de reposición presentada por SOCIEDAD PESQUERA SAN ANTONIO S.A., que declaró la caducidad parcial de las resoluciones Nº 66, de 1982 y Nº 1.257, de 1991, ambas de esta Subsecretaría, en virtud de lo dispuesto en el informe y disposiciones legales.
+
+Con el mérito de lo señalado precedentemente y conforme lo solicitado por la recurrente, elévense los antecedentes al Ministro de Economía, Fomento y Reconstrucción, para conocimiento del reclamo subsidiario, interpuesto en virtud de lo señalado en el inciso 2º del Artículo 143 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 9 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
