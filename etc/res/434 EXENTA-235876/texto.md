@@ -1,0 +1,3 @@
+Por resolución exenta Nº 434, de 17 de febrero de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111329 presentada por SERVICIOS MARITIMOS OXXEAN SOCIEDAD ANONIMA, para instalar y operar un centro de cultivo ubicado en canal Tuamapu, lado suroeste de Isla Guaiteca, XI Región.
+
+Valparaíso, 17 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
