@@ -1,0 +1,23 @@
+CONCEDE PENSION, POR GRACIA, A PERSONAS QUE INDICA
+
+Santiago, 13 de agosto de 1999.- Hoy se decretó lo que sigue:
+
+Núm. 4.228.- Visto: Lo dispuesto en el artículo 32 Nº 13, de la Constitución Política de la República de Chile; en la ley Nº 18.056; el informe favorable emitido en reunión de fecha 28 de mayo de 1999, de la Comisión Especial, creada por decreto supremo Nº 1.928, de 1981, de Interior, y
+
+Considerando: Que las personas que a continuación se indican, se encuentran en la situación prevista en el artículo Nº 6, de la ley Nº 18.056, la que ha sido debidamente calificada, y en uso de la facultad privativa que la disposición citada me confiere,
+
+D e c r e t o:
+
+#### Artículo único
+
+Concédese, por gracia, a cada una de las siguientes personas: María Juana Acevedo Arauce, RUT. 3.862.275-7; Doralisa de las Mercedes Acevedo Díaz, RUT. 4.570.222-7; Ismenia Esperanza Acevedo Rodríguez, RUT. 5.420.227-K; Osvaldo del Carmen Acevedo Rodríguez, RUT 2.941.361-4; María Luisa Albornoz Martínez, RUT. 5.657.010-1; Adán Altamirano Altamirano, RUT. 3.297.048-6; Elisa Araneda Córdova, RUT 3.816.701-4; Juana del Pilar Araos Santis, RUT. 4.545.052-K; María Mercedes Cabrera Correa, RUT. 1.941.568-6; Susana de las Mercedes Cáceres Rivera, RUT. 2.792.077-2; Ilda Elena Carrasco Maripangui, RUT. 3.607.595-3; Julia Inés Castro López, RUT. 884.323-6; Lucrecia Céspedes Medina, RUT. 4.788.345-8; Rosa Herminia Cortez, RUT. 4.199.626-9; María Jesús Delgado Conejera, RUT. 3.609.976-3; Alberto Bernardino Donaire Vicencio, RUT. 2.878.493-7; Flor María Espinoza Valenzuela, RUT. 4.683.539-5; Elsa Elisa Flores, RUT. 2.892.518-2; Dina de las Mercedes Fuentes Cerda, RUT. 4.733.984-7; María Amanda Galleguillos Huerta, RUT. 1.646.746-4; Elías Servando Gamboa, RUT. 2.906.716-3; Rosa González Arriagada, RUT. 2.974.989-2; Luis Audilio González Huerta, RUT. 3.391.713-9; Olga Ernestina González Morales, RUT. 3.824.985-1; Ana González Pérez, RUT. 3.252.314-5; José Orlando Hernández Figueroa, RUT. 3.492.505-4; Rosamel del Carmen Herrada Zamorano, RUT. 3.502.551-0; Domingo Antonio Jaque Maldonado, RUT. 2.360.928-2; Luis Alberto Jil Villarroel, RUT. 2.463.758-1; Bernarda Emperatriz Labbé Jiménez, RUT. 3.682.302-K; Isolina de las Mercedes López Reyes, RUT. 3.531.548-9; María del Carmen Martínez Bello, RUT. 1.197.100-8; Ema de las Mercedes Mena Saravia, RUT. 6.217.494-3; Benito Mendoza Inostroza, RUT. 2.341.892-4; Segundo Rogelio Mendoza, RUT. 2.430.212-1; Manuel Antonio Muñoz, RUT. 2.600.999-5; Elena Rosa Muñoz González, RUT. 5.172.169-1; María del Carmen Muñoz Núñez, RUT. 4.593.541-8; José Ortega Espinoza, RUT. 3.458.131-2; María Yolanda Pailamilla Córdova, RUT. 4.549.439-K; Juan Francisco Palacios Palacios, RUT. 3.882.840-1; Mercedes Rosa Peñaloza Escobar, RUT. 1.068.217-7; Elsa Elena Pérez González, RUT. 3.214.781-K; Camilo Manuel Pizarro Moreira, RUT. 3.472.361-3; María Yolanda Poblete Vilches, RUT. 1.396.951-5; Juana Bautista Pulgar Contreras, RUT. 3.854.643-0; Reveca de las Mercedes Reyes Cabello, RUT. 3.413.522-3; María Rojas Catalán, RUT. 2.834.269-1; Jorge Orlando Sánchez, RUT. 4.085.730-3; María Inés Tamayo Hernández, RUT. 5.400.799-K; Amelia de las Mercedes Torres, RUT. 3.423.615-1; Celinda del Carmen Ubeda Rivera, RUT. 863.963-9; Juan Alberto Valdovinos Fabia, RUT. 3.252.021-9; Luis Velarde Castro, RUT. 2.520.375-5; Manuel Jesús Venegas Avalos, RUT. 2.198.649-6; Adriana Villagra Hernández, RUT. 4.104.716-K, una pensión equivalente a 1,25 ingreso mínimo mensual, debiendo considerarse que el monto del ingreso mínimo para estos efectos es aquel a que hace referencia el inciso 1º, del artículo 5 de la ley Nº 18.647, que se emplea para fines no remuneracionales.
+
+El gasto que demande el presente decreto supremo se imputará al ítem "Jubilaciones, Pensiones y Montepíos", del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro Público.
+
+> **Nota.** El DTO 319, Interior, publicado el 09.08.2002, faculta a doña Orfelia Isabel León López, Rut. 8.632.553-5, hija de la beneficiaria, para cobrar la pensión de gracia de doña Isolina de las Mercedes López Reyes, Rut. 3.531.548-9.
+
+Anótese, tómese razón, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.-
+
+Raúl Troncoso Castillo, Ministro del Interior.- Eduardo Aninat Ureta, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Guillermo Pickering de la Fuente, Subsecretario del Interior.
