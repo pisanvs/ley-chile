@@ -1,0 +1,3 @@
+Por Resolución N° 2 de 30 de Marzo de 1994, se adjudica, a "A. Denham y Cía. Ltda." la concesión para operar, por un plazo de tres meses, un establecimiento destinado a la revisión técnica y verificación de emisión de contaminantes de buses inscritos en el Registro Nacional de Servicios de Transporte de Pasajeros de la Región Metropolitana y a aquellos que presten servicio privado de transporte de personas en dicha región en la forma y condiciones que se señala en el contrato que se aprueba.-
+
+Antonio Durthe Castrillón, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
