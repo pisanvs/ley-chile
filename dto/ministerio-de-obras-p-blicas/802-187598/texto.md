@@ -1,0 +1,3 @@
+Por decreto MOP Nº802, de 29 de mayo de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº118, para la obra Camino Mejoramiento Ruta L-19, sector Cruce Long. (Villa Alegre)-Esperanza Tramo Km. 0,000 al 10,623.89, que figura a nombre de Violeta Concima Guerrero, rol de avalúo 234-4, comuna de Villa Alegre, VII Región, superficie 1.048 M2. La Comisión de Peritos, fijó con fecha 19 de febrero de 1999, en la cantidad de $3.839.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
