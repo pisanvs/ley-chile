@@ -1,0 +1,3 @@
+Por decreto MOP Nº 276, de 28 de febrero de 2001, se expropió el lote de terreno Nº 194-3, superficie 887 m2., rol de avalúo 179-338, comuna de Nogales, para la obra Camino Ruta 5 Norte. Tramo: Santiago-Los Vilos, Quinta Región, y se acordó el valor de indemnización con sus propietarios Silvia Elena Olivares Villalón y otro, ascendente a la cantidad de $21.840.402.-
+
+Fiscal del Ministerio de Obras Públicas.
