@@ -1,0 +1,7 @@
+Inventario de los efectos encontrados a bordo de los buques españoles apresados por la Escuadra Nacional.
+
+Santiago i Noviembre 18 de 1818.
+
+El contador mayor del tribunal de cuentas, el administrador de la aduana de Valparaiso, don Manuel Gormaz, i el vista de la misma aduana don Mariano Lafebre, en consorcio de otros, dos, o tres sujetos, i no mas, que nombren los individuos de la Escuadra del Estado, procederán inmediatamente a facturar e inventariar con la mayor escrupulosidad i exactitud todos cuantos efectos i especies pertenezcan, i estén abordo de los buques españoles apresados por la Escuadra Nacional, i segun se vayan inventariando i facturando, los irán depositando en donde corresponda, en cuyo lugar se pondrán dos llaves de las cuales la una estará en poder del contador mayor, i la otra en el de unos de los apoderados de los individuos de la Escuadra, i fecho darán cuenta con los documentos orijinales para proveer lo conveniente: póngase este decreto en noticia del gobernador de Valparaiso para que auxilie esta operacion en cuanto ocurra; al comandante de la Escuadra para su inteligencia, i que proceda a hacer nombrar los apoderados que se espresan, i a los comisionados que quedan nombrados por parte del Gobierno, a fin de que inmediatamente i sin pérdida de instantes den principio a su comision, de cuyo honor, zelo por los intereses del Estado, i fiel patriotismo se espera el mas exacto desempeño.-
+
+O'Higgins.- Cruz.
