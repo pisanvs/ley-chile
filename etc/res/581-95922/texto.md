@@ -1,0 +1,3 @@
+Por Resolución No. 581 de 12 de Junio de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado en calle. Ricardo Santa Cruz No. 617, presunto rol avalúos 593-12 comuna de Santiago aparentemente dominio de doña María Sánchez Cari. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil según informe de 31 de Enero de 1989, fijó monto provisional indemnización en $ 3.497.250., pagadera al contado.
+
+Director SERVIU Metropolitano.
