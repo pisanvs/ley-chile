@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.691, de 24 de septiembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+1, 5 y 6; para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector L: Km. 179.500,00 al Km. 192.900,00, Séptima Región, que figura a nombre de Leyton de la Fuente Ramón, rol de avalúo 548-4, comuna de Curicó, superficies 153m2, 634m2 y 152m2, respectivamente. La comisión de peritos integrada por los señores Patricio Ulises Durán Marcos, Jorge Miguel Brito Obreque y María Soledad Saffie Duery, fijó con fecha 9 de julio de 1999, el valor provisional de la indemnización en la cantidad de $2.218.000.- para el lote Nº1, de $4.213.000 para el lote Nº5 y de $744.000.- para el lote Nº6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
