@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.435, de 17 de diciembre de 2003, de esta Subsecretaría, modifícase la resolución Nº 1.937 de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo biológico-pesquero de Sardina común y Anchoveta en aguas interiores de la X Región", en el sentido de indicar que el remanente no capturado de la fracción de 629 toneladas de Anchoveta y 510 toneladas de Sardina común autorizadas para el período noviembre-diciembre 2003 podrá ser extraído por cualquiera de las embarcaciones artesanales individualizadas en la citada resolución.
+
+Del mismo modo, y en el evento de agotarse la cuota global autorizada a extraer por especie respectiva en virtud de la presente pesca de investigación, todas las naves participantes deberán paralizar las actividades de investigación en relación con dicha especie, lo cual deberá ser comunicado oportunamente por el Servicio Nacional de Pesca a los interesados.
+
+Valparaíso, 17 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
