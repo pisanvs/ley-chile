@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 150, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 48, superficie 888 m², rol de avalúo 543-12, comuna de Linares, VII Región, para la obra "Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo Km. 0,00000 al 15,48000" y se acordó el valor de indemnización con su propietario Raúl Antonio Chacón Burgos, ascendente a la cantidad de $1.798.028.
+
+- Fiscal del Ministerio de Obras Públicas.
