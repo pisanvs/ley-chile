@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 868 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Segunda del Fundo San Ignacio", de la comuna de Quilicura, Región Metropolitana y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 5, del Proyecto. de Parcelación "Patria Nueva" formado por predio señalado y predio "San Ignacio o Hijuela Tercera y Cuarta de San Ignacio". Los Derechos de Agua se extraen del Canal El Carmen, derivado del Río Maipo.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
