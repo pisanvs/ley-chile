@@ -1,0 +1,3 @@
+Por resolución Nº1.524, de 3 de noviembre de 1998, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº903 de 1987, de esta Subsecretaría, en cuanto autorizó a PESQUERA SAN JOSE S.A., para capturar con la nave ''Vitacura'' sólo en el área de la I y II Regiones, los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Barrilete, Bonito, Caballa, Cabinza, Cojinoba del norte, Jurel, Machuelo, Sardina española, Sardina común.
+
+Valparaíso, 3 de noviembre de 1998.- Edith Saa Collantes, Subsecretario de Pesca (S).
