@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº318, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº4-30, superficie 35,3105 m², rol de avalúo 3392-30, comuna de Punta Arenas, para la obra "Habilitación Costanera Estrecho de Magallanes I, Sector Chañarcillo - Manantiales, Tramo Km. 1,97992 al 3,30000", y se acordó el valor de indemnización con su propietario Erica del Carmen Barría Vásquez y Otra, ascendente a la cantidad de $1.037.371.-.
+
+Fiscal del Ministerio de Obras Públicas.
