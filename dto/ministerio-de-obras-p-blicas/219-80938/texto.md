@@ -1,0 +1,3 @@
+Por Decreto MOP. No. 219, de 24 de Septiembre de 1991, se expropiaron los lotes No. s. 8 y 10, superficies 1.360 y 1.340 M2, roles de avalúo 172-449 y 172-402, respectivamente, Comuna San Clemente, para la obra Camino Talca - Paso El Pehuenche, sector Perquín Armerillo y se acordó precio de indemnización con sus propietarios don Pedro Luis Vilches Vilches y doña Adelina del Carmen Mancilla Sazo, ascendentes a las cantidades de $ 99.368 y $ 172.960.-
+
+Fiscal del Ministerio de Obras Públicas.
