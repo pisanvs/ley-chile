@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.780 de fecha 31 de diciembre de 2002, se expropiaron los lotes de terreno Nº3 y 3-A, superficies 7,40 y 20,00 m2, rol de Avalúo Nº2087291, comuna de Melipilla, para la obra "Camino Melipilla - Casa Blanca, Rol G-74-F, Sector Cruce Ruta 78 - Puente Bollenar, tramo Km. 0.000 a Km. 14.245,05", Región Metropolitana y se acordó el valor de la indemnización con su propietario Víctor Manuel Martínez Vega, ascendente a la cantidad de $1.387.608.-
+
+Fiscal del Ministerio de Obras Públicas.
