@@ -1,0 +1,3 @@
+Por decreto MOP Nº 784, de fecha 31 de agosto de 2004, se expropiaron los lotes de terreno Nº s 2, 3 y 4, superficies 455, 135 y 548 m2, Rol Nº 2087-95, comuna de Melipilla, Región Metropolitana, para la obra "Camino Reposición Ruta G-74-F, sector Melipilla - Bollenar, Tramo Km. 0.00000 a Km. 14.23039", y se acordó el valor de indemnización con su propietaria Inmobilaria e Inversiones Don José S.A. y Otra y Sociedad Comercial e Inversiones Alcántara S.A., ascendente a la cantidad de $10.416.861.
+
+Fiscal del Ministerio de Obras Públicas.
