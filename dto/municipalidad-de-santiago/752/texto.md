@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No.752, de 14 Agosto 1989. Alcalde I. Municipalidad de Santiago dispone expropiación parcial inmueble Mac Iver esquina Nor Poniente Merced roles 154-4, 154-147 y 154-148, aparentemente dominio sociedad Inversiones Acadian e Inés Casanova vda. de Lamas. Superficie franja 577,50 m2. Deslindes: Norte, 7 mts. ensanche calle Merced; Sur, 7 mts. calle Merced; Oriente, 87,50 mts. calle Mac Iver; Poniente, 87,50 mts. resto predio. Indemnización provisional $ 55.037.500, pagadera contado.
+
+Máximo Honorato A., Alcalde Santiago.
