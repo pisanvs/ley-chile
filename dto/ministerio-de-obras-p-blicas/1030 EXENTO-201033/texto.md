@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.030 de fecha 28 de junio de 2002, se expropió el lote de terreno Nº19-C, superficie 28 m2., rol de avalúo Nº141-116, comuna de Codegua, para la obra ''Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 al Km. 9,317'', VI Región y se acordó el valor de indemnización con su propietario Oscar Eliecer Bascuñán Gutiérrez, ascendente a la cantidad de $314.591.
+
+Fiscal del Ministerio de Obras Publicas
