@@ -1,0 +1,5 @@
+Por resolución No. 1.256, de 04 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA SAN ANTONIO S.A., R.U.T. No. 87.992.600-9, domiciliada en calle Mar del Plata No. 2111, Santiago, para ampliar actividades pesqueras, autorizadas por resolución No. 1.230 de 1989, de esta Subsecretaría, en orden a operar la embarcación "Seiko", autorizada por la resolución citada en el numeral precedente, en el litoral de las Regiones VI, VII, IX y X, con cerco: Agujilla, Bonito, Cabinza, Cojinoba del norte, Cojinoba del sur, Machuelo o tritre y Sardina común. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria, para ampliar el área de operación de la nave "Seiko", a la V Región, en virtud de las disposiciones legales, reglamentarias e informes técnicos citados en Vistos.
+
+Valparaíso, 04 de Septiembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
