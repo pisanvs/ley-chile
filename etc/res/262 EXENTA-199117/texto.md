@@ -1,0 +1,5 @@
+RECTIFICA CERTIFICADO
+
+Certifico: Que por resolución exenta Nº 262, de 7 de junio de 2002, se rectificó resolución exenta Nº 194, de 17 de abril de 2002, que aprobó la modificación de los estatutos de la sociedad anónima "AGF Allianz Chile Compañía de Seguros de Vida S.A.", en el sentido que el nombre de sociedad es "AGF Allianz Chile Compañía de Seguros Vida S.A." y no "AGF Allianz Chile Compañía de Seguros de Vida S.A.", tal como se consignó en la escritura pública de 20 de febrero de 2002, otorgada ante doña Graciela Verónica Ossa Pardo, suplente del Notario de Santiago don Alvaro Bianchi Rosas y que se aclaró en escritura pública de 31 de mayo de 2002, otorgada ante don Sebastián Aninat Salas, suplente del Notario de Santiago don Alvaro Bianchi Rosas.
+
+Santiago, 7 de junio de 2002.- Carmen Undurraga Martínez, Secretario General.
