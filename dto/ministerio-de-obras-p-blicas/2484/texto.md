@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.484, de 30 de noviembre de 1998, se expropiaron los lotes de terreno Nºs 1, 2 y 3, superficies 468 m2, 1.341 m2, y 1.180 m2, roles de avalúo 334-96, 334-10 y 302-134, comuna de Padre Hurtado, para la obra Camino Autopista Santiago - San Antonio, Sector Paso Inferior Bajos de Santa Cruz y se acordó el valor de indemnización con sus propietarios Francisco Valdés y Compañía Limitada y Verónica Latorre Subercaseaux, ascendente a las cantidades de $ 2.203.116 y $ 11.209.627.
+
+- Fiscal del Ministerio de Obras Públicas.
