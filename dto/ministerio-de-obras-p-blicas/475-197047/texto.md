@@ -1,0 +1,3 @@
+Por decreto MOP Nº 475, de 28 de febrero de 2002, se expropió el lote de terreno Nº 3, superficie 282 m2., rol de avalúo 680-212, comuna de El Tabo, para la obra Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Acceso a El Tabo Kms. 0.000,00 al 3.822,00, Quinta Región y se acordó el valor de indemnización con su propietario Luis Lautaro Horacio Capdeville Banderas, ascendente a la cantidad de $3.469.267.- para el lote Nº 3.
+
+Fiscal del Ministerio de Obras Públicas.
