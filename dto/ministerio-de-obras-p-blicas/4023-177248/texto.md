@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.023, de 31 de agosto de 2000, se expropió el lote de terreno Nº11, superficie 329 m2, rol de avalúo 189-310, comuna de Longaví, para la obra Concesión Internacional Ruta 5. Tramo Talca-Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Juan Francisco González Espinoza, ascendente a la cantidad de $3.619.313.
+
+Fiscal del Ministerio de Obras Públicas.
