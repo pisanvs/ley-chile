@@ -1,0 +1,3 @@
+Por Resolución N° 334 de fecha 9 de Diciembre 1993, del SERVIU V Región Valparaíso, se dispuso expropiación conforme artículo 87 Ley N° 8.946; D.L. N° 2.186, de 1978, de dos franjas denominadas B1 y B2 de inmueble de dominio Empresa de los Ferrocarriles del Estado, rol avalúo 95101-1, entre calles Bohn, Alvarez y Plaza Sucre, comuna Viña del Mar. Comisión tasadora integrada por Sres. Alvaro Verdejo Vidal, Pablo Caria Giurici, constructores civiles, y y Osvaldo Muñoz Quintana, arquitecto, según Informe de fecha 15 de Noviembre de 1993, fijó monto provisional indemnización en $ 14.500.000.- que será pagada de contado.
+
+Director SERVIU V Región.
