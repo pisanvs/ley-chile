@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 454 de fecha 26 de marzo del 2004, se expropio el lote de terreno Nº 23-A, superficie 28 m2, rol de avalúo Nº 306-283, comuna de Laja, VIII Región para la obra "Camino Ruta Q-90, Sector Cruce Longitudinal-Laja, Km. 0,00000 al 35,53000 y se acordó el valor de indemnización con su propietaria María Angélica Faúndez Márquez, ascendente a la cantidad de $221.496.
+
+Fiscal del Ministerio de Obras Públicas.
