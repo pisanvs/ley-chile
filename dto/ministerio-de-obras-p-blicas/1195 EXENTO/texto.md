@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.195, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº3, superficie 665 m², rol de avalúo 396-97, comuna de Pi-trufquén, IX Región, para la obra "Camino Ruta S-65, Sector Pi-trufquén - Ñancul, Km. 0,000 al Km. 12,250" y se acordó el valor de indemnización con su propietaria doña Margarita Lefraiquir Ñampulef, ascendente a la cantidad de $784.741.
+
+Fiscal del Ministerio de Obras Públicas.
