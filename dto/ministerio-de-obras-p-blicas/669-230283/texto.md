@@ -1,0 +1,3 @@
+Por decreto MOP Nº 669 de 13 de agosto de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 80-C, para la obra: Camino Pichilemu-Cahuil, ruta I-500, km. 0,980 a km. 12,76217, que figura a nombre de Cornejo González Luis, rol de avalúo 1125-18, comuna de Pichilemu, VI Región, superficie 319 m². La comisión de peritos con fecha 30 de mayo de 2003 fijó el monto de la indemnización provisional en la cantidad de $3.239.400.- lote Nº 80-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
