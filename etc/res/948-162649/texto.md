@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 948 de 24 de Julio de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden al sector excluido y sector expropiado predio "El Aromo" de la comuna de Río Claro, VII Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 17 y 19 a la 22, sitios N°s. 1 al 14 y Reserva Cora N° 1 del proyecto de parcelación "El Aromo", formado por el predio señalado. Los derechos de agua se extraen del Canal Purísima Concepción proveniente del río Lontué y Canal del Aromo proveniente del Estero Los Robles y Derrames del Fundo Odessa.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
