@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.046, de 29 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1, para la ejecución de la obra Camino Hualqui-Vaquería-Yumbel Sector Puente Agua Corta Kms. 0,0000 al 0,20250, que figura a nombre de Juan Israel Leiva Leiva, Rol de Avalúo 217-4, comuna de Hualqui, VIII Región, superficie 214 m². La comisión de peritos fijó con fecha 10 de enero de 2000, el valor provisional de la indemnización en la cantidad de $366.560.- el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
