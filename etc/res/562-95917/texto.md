@@ -1,0 +1,1 @@
+Por Resolución No. 562 de 2 de Junio de 1989, SERVIU Metropolitano derogó Resolución No. 348 de 23 de Abril de 1986 del mismo Servicio que ordenó expropiación conforme DL 2.186 de 1978, de parte de inmueble ubicado en Avda. Larraín No. 5810, rol No. 100-93 comuna La Reina de aparente dominio de Manuel Castaño Castaño.
