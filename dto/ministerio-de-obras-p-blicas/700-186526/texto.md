@@ -1,0 +1,3 @@
+Por decreto MOP Nº 700, de 30 de abril de 2001, se expropió el lote de terreno Nº 218, superficie 1.383 m², rol de avalúo 67-116, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región y se acordó el valor de indemnización con su propietario Julia del Tránsito Duarte Muñoz, ascendente a la cantidad de $7.324.433.-
+
+Fiscal del Ministerio de Obras Públicas.
