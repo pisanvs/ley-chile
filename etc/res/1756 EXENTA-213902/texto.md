@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.756, de 5 de agosto de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Peñuelas, Sector B, IV Región, individualizada en el artículo 1º Nº 11 del DS Nº 509 de 1997, modificado por el artículo 4º, letra b) del DS Nº 110 de 1999, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION GREMIAL DE PESCADORES Y BUZOS DE PEÑUELAS - IV REGION.
+
+Valparaíso, 5 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
