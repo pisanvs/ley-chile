@@ -1,0 +1,3 @@
+Resolución 165, 28 julio 2003, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Pasaje Azul S/Nº, Rol de Avalúo Nº 2732-6, comuna Chiguayante, superficie 248,30 m² de terreno, dentro polígono y linderos señalados plano expropiación S8R-2732-6; de aparente dominio de Juan Adolfo Vidal Alarcón, para ejecución programa de viviendas en comuna de Chiguayante, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Eduardo Cerda Ureta, arquitecto, Juan Andrés Tepper Lavanderos, ingeniero agrónomo, y Omar Andrés Aspe Neira, constructor civil, según informe de fecha 7 de junio de 2001, fijó monto provisional indemnización en $6.590.402.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
