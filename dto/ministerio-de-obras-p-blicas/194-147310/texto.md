@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 194, de 25 de agosto de 1987, se expropió el lote de terreno No. 1, superficie 1.711 m2., rol de avalúo 9049-13, Comuna de San Antonio, obra Camino Santiago - San Antonio, Ruta 78, ensanche entre Kms. 91.400 al 91.880 y se acordó el precio de indemnización con su propietario la Sociedad Agrícola San Isidro Limitada, ascendente a $ 116.930.-
+
+Fiscal del Ministerio de Obras Públicas.
