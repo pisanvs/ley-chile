@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 252, de 29 de septiembre de 1986, se expropiaron los lotes Nºs. 1 y 2, superficies 2.278 m² y 6.554 m², respectivamente, rol de avalúo 1021-93, Comuna de La Serena, IV Región, para mejoramiento de la fuente de agua potable de La Serena y Coquimbo y se acordó precio de indemnización con su propietario don Gastón Anaís Ramírez, ascendente a $ 306.222.-
+
+Fiscal del Ministerio de Obras Públicas.
