@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.247, de 4 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 200121015 presentada por SALMONES GLACIAR DE LOS ANDES S.A., para instalar y operar un centro de cultivo ubicado en seno Almirantazgo, isla Tierra del Fuego, Bahía Brookes, XII Región.
+
+Valparaíso, 4 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
