@@ -1,0 +1,3 @@
+Por resolución Nº494, de 8 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía,Fomento y Reconstrucción, deniégase la solicitud de autorización de acuicultura Nº96101069 presentada por DOMINGO ESTEBAN JIMENEZ HITSCHFELD, para realizar actividades de acuicultura en el Fundo San Isidro, comuna de los Muermos, provincia de Llanquihue, X Región, conforme lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura y Artículo 14 del D.S. 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción
+
+Valparaíso, 8 de Abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca
