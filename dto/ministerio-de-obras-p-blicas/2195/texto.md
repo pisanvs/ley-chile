@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.195, de 30 de octubre de 1998, se expropió el lote de terreno Nº1, superficie 2.930 m2., rol de avalúo 512-63, comuna de Talagante, para la obra Camino Autopista Santiago - San Antonio, Sector Segmento 3, Bif. Malloco - El Paico, Enlace El Monte y se acordó el valor de indemnización con su propietaria Delia Gabriela Montt Letelier, ascendente a la cantidad de $32.144.248.-
+
+Fiscal del Ministerio de Obras Públicas.
