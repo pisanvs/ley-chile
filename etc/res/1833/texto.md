@@ -1,0 +1,3 @@
+Por Resolución N° 1.833, de 25 de Octubre de 1996, de esta Subecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 94110080, presentada por SALMONES UNIMARC S.A., para un sector ubicado en Estero Quitralco, Comuna y Provincia de Aysén, XI Región, conforme lo dispuesto en los artículos N° 14°, del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción y N° 78° y N° 87°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 25 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
