@@ -1,0 +1,3 @@
+Por resolución Nº 666, de 7 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las resoluciones Nº 696 de 1994 y Nº 350 de 1995, ambas de esta Subsecretaría, que autorizaron a PESQUERA BALZAK S.A., para ampliar actividades pesqueras extractivas con la nave ''Teararoa Rakei'', por haber paralizado operaciones de pesca por más de 12 meses sucesivos, a partir del mes de enero de 1997, configurándose la causal prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 7 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
