@@ -1,0 +1,3 @@
+EXTRACTO DE DECRETO ALCALDICIO NUMERO 1.108, DE 1997
+
+Decreto exento Número 1.108, de 10 de junio de 1997, Municipalidad Rancagua expropia: franja terreno aproximadamente 12,20 metros cuadrados Propiedad Brasil 1020, rol avalúo 71-33 propietarios Sociedad Inversiones Myne Limitada y Sociedad Inversiones Muncy Limitada, deslindes: Norte, tramo A-F 10,25 metros con Avenida Brasil; Sur, tramo a-f 10 metros resto propiedad; Oriente, tramo A-a 1,16 metros otros propietarios; Poniente, tramo F-f 1,25 metros bien nacional de uso público. Indemnización definitiva $3.135.490. Expropiación artículo 29 Ley Nº 18.695, ensanche Avenida Brasil tramo entre Lastarria y Avenida Santa María. Pago contado.
