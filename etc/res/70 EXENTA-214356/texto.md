@@ -1,0 +1,3 @@
+Por resolución exenta Nº70, del Ministerio de Economía, Fomento y Reconstrucción, recházase el recurso de reclamación interpuesto por PESQUERA PEMESA S.A. en contra de la resolución Nº369 de 2002, de la Subsecretaría de Pesca, en virtud de haber sido dictadas sentencias definitivas que rechazaron las acciones judiciales destinadas a obtener la declaración de la nulidad del acto administrativo citado, ello de conformidad con lo dispuesto en los artículos 6º y 74 de la Constitución Política de la República.
+
+Valparaíso, 22 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
