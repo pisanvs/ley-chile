@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº966, de fecha 28 de junio del 2002, se expropió el lote de terreno Nº140-O, superficie 2.060 m², Rol Nº217-65, comuna de Curepto, VII Región para la obra ''Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco - Curepto Puente Lautaro, Tramo Km. 46,180 al 83,91430'' y se acordó el valor de indemnización con su propietario Adriana del Carmen Concha Ramírez, ascendente a la cantidad de $416.909.-
+
+Fiscal del Ministerio de Obras Públicas.
