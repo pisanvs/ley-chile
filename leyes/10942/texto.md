@@ -1,0 +1,17 @@
+Ley núm. 10.942
+
+ABONA EL TIEMPO QUE INDICA EN LA HOJA DE SERVICIOS DE DON JOSE MANUEL LEIGHTON SEPULVEDA
+
+Por cuanto el Congreso Nacional ha dado su aprobación al siguiente
+
+Proyecto de ley:
+
+#### Artículo único
+
+Abónanse, por gracia y para todos los efectos legales, un año, diez meses y cuatro días en la hoja de servicios del Teniente de administración del Ejército don José Manuel Leighton Sepúlveda.
+
+Esta ley regirá desde la fecha de su publicación en el "Diario Oficial".
+
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley de la República.
+
+Santiago, a veintidós de Octubre de mil novecientos cincuenta y dos.- GABRIEL GONZALEZ VIDELA.- Ignacio Lorca G.
