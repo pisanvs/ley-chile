@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.182, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº 38, superficie 14.193 M2, rol de avalúo 546-19, comuna de Linares, VII Región, para la obra ''Camino Ruta L-31, Sector Polverines-La Foresta, Tramo Km. 0,00000 al 15,48000'' y se acordó el valor de indemnización con su propietario don Juan Carlos Sotomayor Salgado, ascendente a la cantidad de $21.308.033.
+
+- Fiscal del Ministerio de Obras Públicas.
