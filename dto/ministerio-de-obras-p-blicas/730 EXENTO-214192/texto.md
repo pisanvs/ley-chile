@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº730 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº48-E, superficie 781,2 m², rol en trámite, comuna de Linares, VII Región, para la obra "Camino Ruta L-45, Sector: Linares-Llepo, Tramo: Km. 2,750.2 a Km. 13,147" y se acordó el valor de indemnización con su propietario Raúl Antonio Bravo Vásquez, ascendente a la cantidad de $979.807.
+
+Fiscal del Ministerio de Obras Públicas.
