@@ -1,0 +1,3 @@
+Por resolución Nº 1.737, de 1 de diciembre de 1998, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.154 de 1996, de esta Subsecretaría, que autorizó a VICTOR GUSTAVO GUERRERO OYARZUN, para instalar y operar el centro de cultivo ubicado en un sector entre Punta Pello y Punta Dequio, Estero Castro, comuna de Castro, provincia de Chiloé, X Región.
+
+Valparaíso, 1 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
