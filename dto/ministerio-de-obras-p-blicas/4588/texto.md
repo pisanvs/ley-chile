@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.588 de 29 de septiembre del 2000, se expropiaron los lotes de terreno Nºs. 15 y 16, superficies 59 y 5.046 m²., respectivamente, rol de avalúo Nº5027-84, comuna de Punta Arenas, para la obra Actualización Proyecto Canal de Trasvase Estero Llau Llau a Estero Bitsch de Punta Arenas Fase II, Prolongación Canal Llau-Llau, Km. -0.009 al km. 1.066 y se acordó precio de la indemnización con su propietario Juan Segundo Octaviano Furrianca Turra, ascendente a la cantidad de $10.477.502.
+
+Fiscal del Ministerio de Obras Públicas.
