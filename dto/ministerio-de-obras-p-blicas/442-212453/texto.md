@@ -1,0 +1,3 @@
+Por decreto MOP Nº442 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº30-C, superficie 142,5 m2, Rol de Avalúo Nº559-71, comuna de Linares, VII Región para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147" y se acordó el valor de indemnización con su propietaria Fresia del Carmen Ponce Castro, ascendente a la cantidad de $10.024.120.
+
+- Fiscal del Ministerio de Obras Públicas.
