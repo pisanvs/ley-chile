@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 668 de 27.05.87, conforme Art. 5° Transitorio Código de Aguas determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden 8 sectores excluido y expropiado del predio "Quinahue", de la comuna de Santa Cruz, Sexta Región y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 7 y sitios 1 al 3 del Proyecto de Parcelación "Lautaro", formado por sector expropiado del predio señalado. Los derechos de agua se extraen del Estero Las Toscas por Canal Peralillo y Canal El Peumo y del Canal del Cerro.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
