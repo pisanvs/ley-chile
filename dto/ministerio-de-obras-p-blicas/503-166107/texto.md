@@ -1,0 +1,3 @@
+Por decreto MOP Nº503, de 28 de febrero de 2000, se expropió el lote de terreno Nº7, superficie 29,40 m2., rol de avalúo 3269-27, comuna de Punta Arenas, obra Habilitación Costanera Estrecho de Magallanes I, sector Chañarcillo-Manantiales y se acordó precio de indemnización con su propietario Heriberto E. Heisinger Charath y otra, ascendente a la cantidad de $1.087.927.-
+
+Fiscal del Ministerio de Obras Públicas.
