@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 560, de 29 de abril de 1998, se expropiaron los lotes de terreno Nºs. 6, 8, 13, 14 y 15, superficies 4.148, 8.550, 3.555, 412 y 2.251 M2. respectivamente, roles de avalúo 405-4 y 405-2, comuna de Cauquenes, obra Camino Cauquenes Límite Regional Quirihue, sector By Pass Norte y se acordó precio de indemnización con sus propietarios Edgardo Reyes Recabal y Blanca Pérez Garrido, ascendente a las cantidades de $40.311.744, lotes 6 y 8 y $19.783.104, lotes 13, 14 y 15.
+
+Fiscal del Ministerio de Obras Públicas.
