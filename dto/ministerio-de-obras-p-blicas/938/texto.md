@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 938, de 30 de septiembre de 1997, se expropiaron los lotes de terrenos N°s. 4 y 5, superficie 930 m2 y 1.680 m2, respectivamente, rol de avalúo 266-33, Comuna de el Monte, para la obra Camino Autopista Santiago-San Antonio, Sector Plaza de Peaje el Paico, y se acordó precio de la indemnización con Lorenzo Pineida Reyes, ascendentes a la cantidad de $15.307.547.
+
+Fiscal del Ministerio de Obras Públicas.
