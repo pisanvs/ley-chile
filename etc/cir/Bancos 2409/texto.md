@@ -11524,21 +11524,21 @@ exista entre los valores de la garantía y del crédito caucionado. Sin embargo,
 
 1.3. Cómputo de provisiones individuales y global.
 
-Como el proceso de clasificación de cartera comprende tanto colocaciones vigentes como vencidas, puede suceder que, en determinados casos, la exigencia simultánea de provisiones individuales por la cartera vencida y global por la cartera en su conjunto, conduzca a una doble constitución de provisiones. Con el objeto de evitar esa situación, el monto de las provisiones individuales por créditos vencidos podrá servir de abono a la provisión global exigida a que se refiere el numeral 1.1 de este título, sin perjuicio de que, para efectos de contabilización, debe registrarse separadamente el saldo correspondiente a las
-
-provisiones individuales exigidas.
+Como el proceso de clasificación de cartera comprende tanto colocaciones vigentes como vencidas, puede ocurrir que existan créditos vencidos por los que se ha enterado la respectiva provisión individual y que, a la vez, estuviesen clasificados dentro de los mayores deudores de la entidad, generándose de ese modo, por tales créditos, una doble constitución de provisiones. Similar situación ocurre al aplicar el porcentaje de riesgo a aquellos créditos no evaluados y que están registrados en cartera vencida. Con el objeto de evitar esta duplicidad, el monto de las provisiones que, hasta por el monto de lo exigido se hubieren constituido por créditos vencidos, se considerará en abono de la provisión global a que se refiere el numeral 1.1 de este título, sin perjuicio de que, para los efectos de contabilización, debe registrarse separadamente el saldo de las mencionadas provisiones individuales exigidas.
 
 1.4. Contabilización de las provisiones global e individuales.
 
-La provisión global se debe registrar en la cuenta "Provisiones globales para la cartera de colocaciones" de la partida 4205 del formulario MB1 y constituirse con cargo a la cuenta que, con el mismo nombre se incluirá en la partida 6110 del formulario MR1.
+La provisión global se debe registrar en la cuenta "Provisiones globales para la cartera de colocaciones" de la partida 4205 del formulario MB1 y constituirse con cargo a la cuenta que, con el mismo nombre se incluirá en la partida 6110.
 
-Las provisiones individuales, por su parte, se constituirán con abono a la cuenta "Provisiones individuales para créditos vencidos" de la partida 4205 del formulario MB1 y con cargo a una cuenta que, con el mismo nombre, debe incluirse en la partida 6110 del formulario MR1.
+Las provisiones individuales, por su parte, se constituirán con abono a la cuenta "Provisiones individuales para créditos vencidos" de la partida 4205 y con cargo a una cuenta que, con el mismo nombre, debe incluirse en la partida 6110.
 
 Tanto las provisiones individuales como la provisión global, cuando corresponda, serán utilizadas para efectuar castigos de las colocaciones, de acuerdo con las instrucciones del numeral 3.3 de este título.
 
-Los excesos de provisiones individuales o de provisión global que se liberen, sea con motivo de la recuperación de las operaciones por las cuales se constituyeron o, en el caso que proceda, por una reducción del riesgo de la cartera, se acreditarán en las respectivas cuentas de gastos por provisiones que se demuestran en la partida 6110 del formulario MR1, pero sólo hasta la
+Los excesos de provisiones individuales o de provisión global que se liberen, sea con motivo de la recuperación de las operaciones por las cuales se constituyeron o, en el caso que proceda, por una reducción del riesgo de la cartera, se acreditarán en las respectivas cuentas de gastos por provisiones que se demuestran en la partida 6110, pero sólo hasta la concurrencia del saldo deudor que demuestren esas cuentas. En consecuencia, los importes que excedan a los mencionados saldos, se abonarán a la cuenta "Liberación de provisiones por riesgos de activos" de la partida 8110.
 
-concurrencia del saldo deudor que demuestren esas cuentas. En consecuencia, los importes que excedan a los mencionados saldos, se abonarán a la cuenta "Liberación de provisiones por riesgos de activos" de la partida 8110 del formulario MR1.
+Al cierre de cada mes, el importe reflejado en las cuentas de provisiones sobre colocaciones deberá reflejar el monto constituido de las provisiones exigidas, calculado de acuerdo con las disposiciones del Capítulo 8-28 de esta Recopilación. Para ese efecto, los excesos de provisiones que no se hubieran liberado se traspasarán a la cuenta "Provisiones voluntarias" de la partida 4245, tratada en el N° 1 del título IV de este Capítulo.
+
+Por otra parte, para efecto de exposición de los saldos, el importe que corresponde al riesgo calculado para los créditos hipotecarios para vivienda se traspasará a la cuenta "Provisiones para créditos hipotecarios para vivienda" de la partida 4207, cargando la cuenta "Provisiones globales para la cartera de colocaciones" de la partida 4205 o, si fuere el caso, "Provisiones individuales para créditos vencidos" de la misma partida. El monto de las provisiones exigidas correspondiente a los créditos hipotecarios para la vivienda se obtendrá conforme a lo señalado en los N°s 4 y 5 del título II del Capítulo 8-28. Dicha contabilización se revertirá al mes siguiente, para volver a reflejar al cierre de éste, en la cuenta "Provisiones para créditos hipotecarios para vivienda", el importe que corresponda según lo indicado.
 
 ### 2. Provisiones adicionales sobre colocaciones
 
@@ -11746,21 +11746,31 @@ Cuando se trate de condonar una operación ya castigada, se registrará el impor
 
 ### IV. OTRAS DISPOSICIONES
 
-### 1. Provisiones minimas exigidas y provisiones voluntarias
+### 1. Provisiones exigidas y voluntarias
 
-Además de las provisiones sobre la cartera de colocaciones y sobre las inversiones en bonos y debentures de que tratan los títulos I y II de este capítulo, las instituciones financieras deben constituir las demás provisiones exigidas por esta Superintendencia.
+1.1. Provisiones exigidas.
 
-Las referidas provisiones son las mínimas que deben mantenerse y, por lo tanto, las instituciones pueden constituir provisiones adicionales cuando sea necesario, de acuerdo con las siguientes instrucciones:
+Para efectos de las presentes normas, constituyen provisiones exigidas todas aquellas establecidas por esta Superintendencia para cubrir riesgos, incluidas las provisiones adicionales a las instruidas en las normas de la presente Recopilación que se hubieren ordenado constituir.
 
-a) Instituciones que no mantienen obligación subordinada con el Banco Central de Chile.
+En el caso de las instituciones que no estén calificadas dos veces consecutivas en categoría I según sus procedimientos de clasificación de cartera, se entiende que la provisión que obedece al mayor riesgo determinado mediante la aplicación de las instrucciones del Capítulo 8-28 de esta Recopilación, en relación con el informado por esta Superintendencia, constituye también provisión exigida.
 
-Las instituciones que no mantengan obligación subordinada proveniente de la novación de contratos de compraventa de cartera, pueden constituir provisiones adicionales de acuerdo con criterios contables de aceptación general, sin que necesariamente deban mediar para ello instrucciones de este Organismo.
+1.2. Provisiones voluntarias.
 
-b) Instituciones que mantienen obligación subordinada con el Banco Central de Chile.
+Se entenderán como provisiones voluntarias todas aquellas que no tengan el carácter de un reconocimiento de una eventual obligación de pago ni correspondan a las provisiones exigidas señaladas en el numeral precedente.
 
-Aquellas instituciones financieras que mantengan obligación subordinada con el Banco Central de Chile asumida en la novación de los contratos de venta y cesión de cartera, requerirán una autorización previa de esta Superintendencia para constituir provisiones adicionales a las mínimas exigidas, cuando la suma de dichas provisiones adicionales sea superior al equivalente del 1% del total de sus colocaciones e intereses por cobrar.
+La mantención de las provisiones voluntarias de que se trata deberá sujetarse a las siguientes instrucciones:
 
-Las solicitudes que pudieran presentarse a este Organismo para constituir provisiones voluntarias por sobre el margen indicado, deberán estar claramente fundadas en riesgos o pérdidas no cubiertos por las provisiones existentes.
+1.2.1. Registro contable.
+
+Las provisiones voluntarias se registrarán separadamente en la cuenta "Provisiones voluntarias" de la partida 4245.
+
+No podrán mantenerse en las cuentas de origen de provisiones exigidas, los importes que superen los determinados sobre la base de los procedimientos de cálculo establecidos por este Organismo, de manera que, si no se liberan los excesos con abono a los resultados, al cierre de cada mes deberán traspasarse los importes, para efectos de presentación, a la cuenta "Provisiones voluntarias" antes mencionada.
+
+1.2.2. Límites para provisiones voluntarias.
+
+Aquellas instituciones financieras que mantengan obligación subordinada con el Banco Central de Chile asumida en la novación de los contratos de venta y cesión de cartera, requerirán una autorización previa de esta Superintendencia para mantener provisiones voluntarias, cuando la suma de dichas provisiones sea superior al equivalente del 1% del total de sus colocaciones e intereses por cobrar. Las solicitudes que pudieran presentarse a este Organismo para mantener provisiones voluntarias por sobre el margen indicado, deberán estar claramente fundadas en riesgos o pérdidas no cubiertos por las provisiones exigidas.
+
+Las instituciones que no mantengan obligación subordinada proveniente de la novación de contratos de compraventa de cartera, pueden mantener provisiones voluntarias por cualquier monto, sin que deban mediar para ello instrucciones de este Organismo.
 
 ### 2. Otros castigos
 
