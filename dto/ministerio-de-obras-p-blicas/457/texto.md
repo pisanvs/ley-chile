@@ -1,0 +1,5 @@
+Por decreto MOP. No. 457, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP.
+
+No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840 y del DFL. No. 206, de 1960, se expropiaron los lotes de terreno No.s. 170-A y 170-B, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, que figuran a nombre de Infante Pina Carlos, rol de avalúo No. 350-277, comuna de Colina, Región Metropolitana, superficies 869 y 1.012 m2. La Comisión de Peritos compuesta por los señores Américo Agustín Delucchi Cabaña, Juan Eduardo Espinoza Asenjo y la señora Mariela Lillo Felmer, fijó con fecha 14 de noviembre de 1997, el valor provisional de la indemnización en las cantidades de $ 14.640.700, para el lote No. 170-A y $ 5.894.400, para el lote No. 170-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
