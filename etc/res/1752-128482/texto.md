@@ -1,0 +1,3 @@
+Por resolución Nº 1.752 de 9 de diciembre de 1998, de esta Subsecretaría, declárase la caducidad de la resolución Nº 933 de 1992, de esta Subsecretaría, que autorizó a LUCIANO ESTEBAN ASPEE BOCAZ, para instalar y operar el centro de cultivo ubicado en Los Rastrojos, en el camino de Polcura a Trupán, Km. 2, comuna de Tucapel, VIII Región.
+
+Valparaíso, 9 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
