@@ -17568,7 +17568,9 @@ b) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de camb
 
 c) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de cambio o pagarés, aceptadas o suscritos a favor de exportadores por bancos nacionales o extranjeros, con motivo de la negociación de cartas de crédito;
 
-d) La negociación de cartas de crédito a plazo por exportaciones chilenas, con aceptación de letra o sin ella, cuando en este último caso se trate de cartas de crédito confirmadas, y los créditos y avances que otorguen las instituciones bancarias establecidas en Chile a bancos del exterior por el financiamiento del pago de tales cartas de crédito.
+d) La negociación de cartas de crédito a la vista o a plazo por exportaciones chilenas, con aceptación de letra o sin ella, cuando en este último caso se trate de cartas de crédito confirmadas, y los créditos y avances que otorguen las instituciones bancarias establecidas en Chile a bancos del exterior por el financiamiento del pago de tales cartas de crédito.
+
+e) Avales otorgados para responder como garante directo o como contrafiador o avalista de documentos emitidos en el exterior con el objeto de garantizar la calidad de las exportaciones chilenas o la seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos o por el cumplimiento de contratos de exportación, así como los préstamos cursados para emitir boletas de garantía o cartas de crédito stand by con los mismos propósitos.
 
 Los créditos a que se refiere la letra d) anterior pueden acogerse al límite del 30%, al igual que las obligaciones que se originan de las letras o pagarés señalados en la letra b), cuando dichos documentos provengan de operaciones con países miembros de la ALADI y sean reembolsables a través del Banco Central de Chile por intermedio del respectivo convenio de crédito recíproco.
 
@@ -29834,7 +29836,7 @@ b) Los documentos en los que consten los anticipos de compradores del exterior y
 
 c) Los documentos que den cuenta de financiamientos externos obtenidos por las empresas bancarias con el único fin de cursar los créditos señalados en la letra a) anterior.
 
-d) Los pagarés con que se documenten los préstamos cursados para emitir las Boletas de Garantía a que se refiere el numeral 1.1 del Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, y la letra a) del N° 5 del Capítulo 8-11 de esta Recopilación Actualizada de Normas.
+d) Los pagarés con que se documenten los préstamos cursados para emitir las Boletas de Garantía o cartas de crédito stand bya que se refiere el numeral 1.1 del Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, y la letra a) del N° 5 del Capítulo 8-11 de esta Recopilación Actualizada de Normas.
 
 CAPITULO 15-1 (Bancos)
 
