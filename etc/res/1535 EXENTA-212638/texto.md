@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.535, de 3 de julio de 2003, de esta Subsecretaría, rectifícase resolución Nº 1.161 de 2003, de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA, RUT. Nº 77.496.050-3, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto "Estudio Biológico-Pesquero del Recurso Loco (Concholepas concholepas) en áreas de Manejo de la X Región", en el sentido de reemplazar en su numeral 4.- la expresión "117.900", correspondiente a la cuota de captura autorizada para el área Río Llico, Sector B, por la expresión "177.900".
+
+Valparaíso, 3 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
