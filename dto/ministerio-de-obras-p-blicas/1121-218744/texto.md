@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.121 de fecha 30 de septiembre del 2003, se expropio el lote de terreno Nº 50, superficie 14.713 m2, Rol Nº 168-94, comuna de San Clemente, VII Región para la Obra "Camino Mejoramiento Ruta K-705, Sector Cruce Ruta 115 CH (El Guindo) Vilches Alto, Tramo: Km. 0,00000 a km. 13,06400 (Ruta K-705) y Km. 35,46000 a km. 35,80000 (Ruta 115-CH);" y se acordó el valor de indemnización con su propietario Claudio Lorenzo Villalta Varoli, ascendente a la cantidad de $9.351.901.
+
+Fiscal del Ministerio de Obras Públicas.
