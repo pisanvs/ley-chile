@@ -1,0 +1,3 @@
+Por decreto MOP Nº 553 de fecha 30 de abril del 2001, se expropiaron los lotes de terreno Nºs. 86, 87, superficie 242, 270 m2., respectivamente, sin rol, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa III" y se acordó el valor de indemnización con su propietario Héctor Villanueva Cortés, ascendente a la cantidad de $656.881.-
+
+Fiscal del Ministerio de Obras Públicas.
