@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.037, de 29 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 de DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1-B, para la ejecución de la obra Camino Lirquén-Tomé, sector Variante Cuesta Caracoles, Km. 20,40000 al Km. 23,48400, que figura a nombre de Víctor Manuel Sbarbaro Fuentealba, Rol de Avalúo 625-8, comuna de Tomé, VIII Región, superficie 40.408,0 m2. La Comisión de Peritos fijó con fecha 8 de Marzo de 2000, el valor provisional de la indemnización en la cantidad de $39.425.459.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
