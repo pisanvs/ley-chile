@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 626 de 27 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del DFL M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 1 para la obra: Instalación Servicio de Agua Potable Rural Noviciado Peralito, que figura a nombre de Alvarado González Víctor, rol de avalúo 2900-7 Comuna de Pudahuel, Región Metropolitana, superficie 375 m2. La Comisión de Peritos, fijó con fecha 17 de diciembre de 2001 en la cantidad de $975.000.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
