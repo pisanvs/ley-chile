@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 22 de 11 de Enero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a la Reserva y Sector expropiado predio "Hijuela Primera o San Miguel" de la comuna de San Esteban, V Región, y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s 6 a la 14, sitios N°s 4 al 13 del Proyecto de Parcelación "San Miguel" formado entre otros, por el predio señalado. Los derechos de agua se extraen de los Canales Ramírez, Hurtado y Vizcachas, y Quebrada Huapi. Publicación hecha conforme Art. 13, Ley N° 18.377.-
+
+Director Ejecutivo.
