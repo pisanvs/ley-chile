@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.048, de fecha 31 de julio de 2001, se expropiaron los lotes de terreno Nºs. 89 y 92, superficies 303 m² y 177 m², rol de avalúo 520-9, comuna de Parral, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario Ramón Antonio Fuentes Rojas, ascendente a la cantidad de $700.877.-
+
+Fiscal del Ministerio de Obras Públicas.
