@@ -68,7 +68,7 @@ Decláranse Zonas Típicas y de Protección:
 
 a) Plaza Aníbal Pinto, de la ciudad y provincia de Valparaíso, comprendiendo los siguientes edificios de su entorno; de calle Esmeralda Nº 1154 a calle Almirante Montt Nº 2; de calle Esmeralda Nº 1159; de Plaza Aníbal Pinto Nº 1167 al número 1199; de Plaza Aníbal Pinto Nº 341, de calle Condell Nº 1201 a Nº 1207, y de calle Condell Nº 1148 a número 1194.
 
-#### Artículo 8º
+#### Artículo 7º
 
 Decláranse Santuarios de la Naturaleza:
 
