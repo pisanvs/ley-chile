@@ -1,0 +1,3 @@
+Por Decreto Exento N° 408 de fecha 03 de Diciembre de 1992 del Ministerio de Educación, se insertaron en el Decreto Exento de Educación N° 140 de 1991 del Centro de Formación Técnica Instituto Chileno Alemán de Cultura las adecuaciones introducidas a la carrera de Secretariado Ejecutivo, las que podrán aplicarse en su sede de la ciudad de San Antonio, a contar del año 1992.
+
+Santiago, 1 de Junio de 1993.- Julio Valladares Muñoz, Subsecretario de Educación.
