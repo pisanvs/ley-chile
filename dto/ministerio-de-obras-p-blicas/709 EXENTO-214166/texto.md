@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 709 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 16, superficie 228 m², rol Nº 503-51, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz - Yaquil, rol I-730, Km. 0,000000 a 7,46939 y se acordó el valor de indemnización con su propietario Delfín Segundo Vidal Cáceres, ascendente a la cantidad de $1.041.600.
+
+Fiscal del Ministerio de Obras Públicas.
