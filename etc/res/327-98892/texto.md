@@ -1,0 +1,3 @@
+Por resolución Nº327, de 12 de marzo de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº96102029, presentada por Luis Benedicto Rumillanca Jara, para operar un centro de cultivo al noroeste de Punta Niebla, Ribera norte del Río Valdivia, Comuna de Valdivia, Provincia de Valdivia, X Región, conforme lo dispuesto en el artículo 78, inciso 2º de la Ley General de Pesca y Acuicultura y artículo 14 del D.S. Nº290, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 12 de marzo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
