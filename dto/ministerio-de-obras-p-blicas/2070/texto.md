@@ -1,0 +1,3 @@
+Por decreto MOP N°2.070, de 30 de octubre de 1998, se expropiaron los lotes de terreno N°s 26 y 27, superficies 1.636 y 1.259 m2 respectivamente, rol de avalúo 814-41, comuna de Galvarino, para la obra Camino Traiguén-Galvarino y se acordó precio de indemnización con su propietario Sociedad Agrícola Comercial Ganadera y Forestal Carmar Ltda., ascendente a la cantidad de $6.152.726.- para los lotes 26 y 27.-
+
+Fiscal del Ministerio de Obras Públicas.
