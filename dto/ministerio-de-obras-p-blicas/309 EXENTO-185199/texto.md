@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº309 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº41, superficie 1.023,67 m², rol de avalúo 1252-111, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128 - Cuatro Esquinas, Km. 0,000 a Km. 15,800" y se acordó el valor de indemnización con su propietario Héctor Leonel Troncoso Sepúlveda, ascendente a la cantidad de $1.459.999.
+
+Fiscal del Ministerio de Obras Públicas.
