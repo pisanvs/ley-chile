@@ -1,0 +1,3 @@
+Por Resolución Nº 1.288, de 29 de septiembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 94106049, presentada por CULTIVOS YADRAN S.A., para el centro de cultivo ubicado en Punta Tepún, Isla Cailín, Comuna de Quellón, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78º, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de septiembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
