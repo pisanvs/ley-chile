@@ -1,0 +1,3 @@
+Por resolución Nº 2.028, de 14 de septiembre de 2000, de esta Subsecretaría, cadúcase la resolución Nº 855 de 1998, que autorizó a la SOCIEDAD COMERCIALIZADORA DE PRODUCTOS DE MAR ROCAS Y COMPAÑIA LIMITADA, para operar la nave Punta del Este, en virtud de lo dispuesto en el artículo 143 letra b) del DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 14 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
