@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.089, de 28 de junio de 2002, se dejó sin efecto el decreto MOP Nº2.810 de 30 de diciembre de 1998, que ordenó la expropiación del lote de terreno 43-A, para la obra Concesión Internacional Ruta 5. Tramo: Temuco - Río Bueno, Km. 726.006,67 al 746.803,70, por haberse subdividido el lote 43-A, en los lotes 43-A y 43-A2. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
