@@ -1,0 +1,7 @@
+AUTORIZA TRANSFERENCIA DE CONCESION DE ACUICULTURA
+
+1.- Mediante Resolución Nº 764, de fecha 3 de febrero de 1997, de esta Subsecretaría de Marina del Ministerio de Defensa Nacional, se autorizó a la Sra. Ismenia Andrade Gómez, chilena, RUT. Nº 3.300.852-K, con domicilio en calle Irarrázaval Nº 47, Casilla 14, Chonchi, para transferir a la Sociedad Cultivos Marinos Vilupulli y Cía. Ltda., sociedad chilena, RUT. Nº 78.634.370-4, con domicilio en calle Irarrázaval Nº 47, Casilla 14, Chonchi, la concesión de acuicultura sobre Porción de Agua y Fondo de Mar, que disfruta según Resolución (M) Nº 761, de 31 de marzo de 1995, en Canal Lemuy, frente al Sector Vilupulli, comuna de Chonchi, provincia de Chiloé, X Región de Los Lagos, individualizada en la ubicación señalada en el plano Nº 020/95-A, visado por la Autoridad Marítima de Chonchi y el plano visado por la Subsecretaría de Pesca, con el objeto de amparar la instalación y operación de un cultivo de Cholga, Chorito, Choro, Ostra Chilena y Ostión del Norte.
+
+2.- El concesionario deberá dar cabal cumplimiento al Proyecto Técnico y Cronograma de Actividades, aprobado por Resolución Nº 100, de fecha 19 de enero de 1994, del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca.
+
+Santiago, 23 de abril de 1997.- Pablo Cabrera Gaete, Subsecretario de Marina.
