@@ -1,0 +1,5 @@
+AUTORIZA A DON RICARDO MUÑOZ CARRILLO PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 806 de 04 de Diciembre de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Ricardo Muñoz Carrillo, RUT 5.463.639-3, domiciliado en Caldera, calle Ossa Varas No. 490, para operar la embarcación denominada "Punta Guanaye", sólo en el litoral comprendido entre la III y IV Región en faenas extractivas de los siguientes recursos hidrobiológicos, además, de las que tiene autorizadas por la resolución No. 62. de 1985 de la misma Subsecretaría: cojinova, bonito, dorado, pejerrey, machuelo, cabinza y lisa. La embarcación y los medios de transporte que utilice el interesado para el traslado de las especies hasta la planta procesadora deberán contar con medios adecuados de preservación de la materia prima, tales como contenedores con hielo, cámaras isotérmicas o refrigeradas.
+
+Valparaíso, 04 de Diciembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca
