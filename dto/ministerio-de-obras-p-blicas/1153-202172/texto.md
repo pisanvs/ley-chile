@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.153 de fecha 28 de junio de 2002, se expropiaron los lotes de terrenos Nºs. 15, 16, 16-A y 19, superficies 5.817 M2, 11.212 M2, 760 M2 y 6.797 M2, respectivamente, rol de avalúo 51-1, comuna de La Estrella, VI Región, para la obra ''Proyecto Mejoramiento Ruta I-20, sector Los Maitenes-La Estrella-Las Damas, Km. 20,500 al 27,715317'' y se acordó el valor de indemnización con su propietario don René A. Machuca Acuña y Otros, ascendente a la cantidad de $25.146.788.-
+
+Fiscal del Ministerio de Obras Públicas.
