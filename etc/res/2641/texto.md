@@ -1,0 +1,3 @@
+Por resolución Nº 2.641, de 18 de diciembre de 2000, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.417 de 1990, de esta Subsecretaría, que autorizó a don JOSE VICTOR ROJAS ARRATIA, para operar la nave ''Lucía Palmira'', en virtud de lo dispuesto en la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
