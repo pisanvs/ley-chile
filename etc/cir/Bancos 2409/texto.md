@@ -12596,15 +12596,11 @@ En ningún caso las instituciones financieras podrán actuar como sociedades inm
 
 La realización directa de las operaciones de leasing que se autorice, quedará sujeta a los siguientes límites.
 
-3.1 - Límite para la cartera de contratos.
-
-Atendido que se trata de un giro complementario, los activos correspondientes a contratos de leasing no podrán superar el 20% del total de las colocaciones de la institución financiera.
-
-3.2.- Límite para operaciones asociadas a un mismo proyecto.
+3.1.- Límite para operaciones asociadas a un mismo proyecto.
 
 La suma de los contratos que formen parte de un mismo proyecto o negocio no podrá superar el 5% del patrimonio efectivo de la institución financiera No obstante, podrán excluirse de este límite aquellos contratos celebrados con empresas que sean sujeto de crédito con prescindencia de los resultados del proyecto de que se trate.
 
-3.3.- Límites de crédito
+3.2.- Límites de crédito
 
 Las obligaciones que asumen los arrendatarios en un contrato de leasing quedan sujetas a los márgenes y prohibiciones a que se refieren los artículos 84 y 85 de la Ley General de Bancos.
 
