@@ -1,0 +1,3 @@
+Por Resolución Nº 726, de 26 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de las Resoluciones Nº 536, de 1991, Nº 1.364, de 1992 y Nº 499, de 1994, todas de esta Subsecretaría, que autorizaron a PESQUERA COLOSO S.A., para desarrollar actividades pesqueras extractivas, sólo en cuanto se refiere a la operación de las naves "Huayquique, Yumbel, Yungay y Costa Grande 5", en litoral de la III y IV Regiones, en virtud de no haber operado sobre esta Unidad de Pesquería y de conformidad a lo dispuesto en el artículo 143 Letra b) de la Ley Nº 18.892 de 1989.
+
+Valparaíso, 26 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
