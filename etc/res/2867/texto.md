@@ -1,0 +1,3 @@
+Por resolución Nº 2.867, de 11 de diciembre de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 972 de 1987, de esta Subsecretaría, sólo en cuanto autorizó a CIDEF S.A. para desarrollar actividades con la nave Pablo, en el área marítima de la II Región, y sobre Sardina española, en el área marítima de las III y IV regiones en virtud de lo dispuesto en la letra b) del artículo 143 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
