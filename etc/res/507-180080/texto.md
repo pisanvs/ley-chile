@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION DE INMUEBLES QUE INDICA
+
+Por resolución Nº 507, de 12 de diciembre de 2000 de Serviu Metropolitano, ordenóse expropiación, conforme D.L. Nº 2.186, de 1978 y art. 51 de la ley 16.391, parte de los lotes G-H e I del plano de Subdivisión de las parcelas 3, 4 y 5 de la Hijuela Central del Fundo Lo Velásquez del inmueble ubicado en calle Condell s/n, esquina sur poniente con Costanera Norte, presunto rol de avalúos Nº 754-001, comuna de Renca, de aparente dominio de don José Miguel y Miguel Luis Varas Tagle y doña Raquel Tagle Zañartu. Comisión integrada por peritos Sra. Patricia Zavala Contreras, constructor civil y Sres. Roberto Correa Bezanilla y Juan Pagola Idiart, arquitectos, según informe de 24 de noviembre de 2000, fijó monto provisional de indemnización en $16.506.000.- pagadera al contado, común acuerdo fijado en $16.615.000.- con expropiados.-
+
+Directora Serviu Metropolitano.
