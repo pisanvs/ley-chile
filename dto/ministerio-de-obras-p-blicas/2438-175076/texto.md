@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.438, de 30 de mayo de 2000, se expropió el lote de terreno Nº78, superficie 160 m², rol de avalúo 5355-5, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca, Sector A: Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietario Daniel Guillermo Figueroa Vega, ascendente a la cantidad de $21.247.377.
+
+Fiscal del Ministerio de Obras Públicas.
