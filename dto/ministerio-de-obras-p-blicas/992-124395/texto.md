@@ -1,0 +1,5 @@
+Por decreto MOP. No. 992, de 30 de julio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840 y del DFL. No. 206 de 1960, se expropiaron los lotes de terreno No. s.3 y 10, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector km. 161.580,00 al 165.800,00, V Región, que figuran a nombre de Instituto de Educación Rural, rol de avalúo 361-7, de la comuna de La Ligua, superficies 1.113 m2 y 1.345 m2. La Comisión de Peritos integrada por los Sres. María Isabel Ríos Marcuello, Joaquín Prieto Ochagavía y Claudia Paola Arellano Gómez, fijó con fecha 15 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 1.729.500.- para el lote No. 3 y $ 2.213.500.- para el lote No. 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
