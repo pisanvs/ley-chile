@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.682, de 21 de septiembre de 2004 de esta Subsecretaría, autorízase a PESQUERA ANDACOLLO S.A., para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Gerónimo Méndez Nº2030, Barrio Industrial Alto Peñuelas, Coquimbo, IV Región, en las líneas de proceso de Fresco-Enfriado, Fresco-Refrigerado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 21 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
