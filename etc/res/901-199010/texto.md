@@ -1,0 +1,3 @@
+Por resolución Nº 901, de 9 de mayo de 2002, de esta Subsecretaría, autorízase a SOCIEDAD PRODUCTORA Y COMERCIALIZADORA AGROCAMARONES LIMITADA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en calle s/n, Salala, comuna de Ovalle, Provincia de Limarí, IV Región, donde podrá procesar en las líneas de elaboración de fresco- enfriado, fresco-refrigerado y congelado, el recurso hidrobiológico camarón de río.
+
+Valparaíso, 9 de mayo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
