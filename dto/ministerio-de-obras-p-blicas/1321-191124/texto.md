@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.321, de 31 de agosto de 2001, se expropió el lote de terreno Nº 95-1, superficie 5.734 m², rol de avalúo 1436-2, comuna de Llanquihue, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno Puerto Montt Sector Atravieso Colonos Alemanes, Décima Región y se acordó el valor de indemnización con su propietario Pfeiffer Brandau Sigrid Yoconda, ascendente a la cantidad de $7.258.647.-
+
+Fiscal del Ministerio de Obras Públicas.
