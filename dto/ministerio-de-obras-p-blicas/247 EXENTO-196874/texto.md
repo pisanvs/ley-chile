@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 247 de fecha 18 de marzo del 2002, se expropió el lote de terreno Nº 110, superficie 127 m², Rol de avaluó Nº 172-354, comuna de San Clemente, para la obra "Camino Los Robles - Huencuecho - Bajo Perquín, Sector Huencuecho - Bajo Perquín, Tramo Km. 46,140.00 a Km. 76,107.70", VII Región y se acordó el valor de indemnización con su propietario María Ester Norambuena Albornoz, ascendente a la cantidad de $442.321.-
+
+Fiscal del Ministerio de Obras Públicas.
