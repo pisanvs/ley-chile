@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.876, de 29 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 23-1, para la obra:
+
+"Concesión Variante Melipilla. Km. 0.000,00 a Km. 8.444,07", Región Metropolitana, que figura a nombre de Juan de Dios González Moreno, sin rol de avalúo, comuna de Melipilla, superficie 7.518 m². La comisión de peritos integrada por los señores Gastón Edgardo Bianchi Aqueveque, Itsang Lu Chen y Julio Víctor Fischer Gaysinsky, fijó con fecha 7 de octubre de 2002, el valor provisional de la indemnización en la cantidad de $9.661.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
