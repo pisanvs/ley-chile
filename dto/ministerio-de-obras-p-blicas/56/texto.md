@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 56, de fecha 25 de febrero de 1993, se expropió el lote de terreno N°. 4, superficie 590,15M2. rol de avalúo 38-50, Comuna de Romeral, para la obra Camino Longitudinal Sur, Sector Romeral Molina, Paso Superior Aguas Negras y se acordó el valor de indemnización con sus propietarios Nancy Ponce Zúñiga y otros, ascendente a la cantidad de $1.577.848.
+
+Fiscal del Ministerio de Obras Públicas.
