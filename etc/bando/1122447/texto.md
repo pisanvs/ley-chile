@@ -1,0 +1,5 @@
+Emigracion a la provincia de Cuyo
+
+El Director Supremo del Estado de Chile etc.: A consecuencia de los inmensos sacrificios que la benemérita provincia de Cuyo ha hecho para poner en estado de obrar al respetable Ejército, que ha producido la libertad de este Reino, su poblacion, i los brazos auxiliares de la agricultura que hace la fuente de riquezas en aquel pais, ha sufrido una disminucion que influye enormemente en el atraso de su labranza. Por estas consideraciones a que se ha hecho tan acreedora esa provincia; he resuelto dar amplia libertad para que se trasladen a aquel suelo todos los individuos de este Reino que quieran voluntariamente hacerlo, previniéndoseles que no hai un camino vedado para esta traslacion; i que los que se decidan a pasar por el de Uspallata, o los Pastos encontrarán en San Felipe, i Santa Rosa comisionados que los auxilien con cabalgaduras, víveres i cuanto necesiten para su trasporte.
+
+Para que llegue a noticias de todos publíquese por bando, fíjese, circúlese e imprimase en la Gazeta.- Santiago de Chile, Febrero 28 de 1817.- Bernardo O'Higgins.- Miguel de Zañartu, Ministro de Estado
