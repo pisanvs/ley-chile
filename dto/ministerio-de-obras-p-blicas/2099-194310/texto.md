@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.099, de 28 de diciembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Transporte de Pasajeros Metro S.A., el lote de terreno Nº42, Obra: Extensión Poniente Línea 5, sector Santa Ana Matucana, que figura a nombre de Constructora Miguel Sncho y Cía, rol de avalúo 290-22, comuna de Santiago Oeste, superficie 34 m2. La comisión de peritos fijó con fecha 16 de octubre de 2001, en la cantidad de $6.310.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
