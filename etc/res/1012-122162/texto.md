@@ -1,0 +1,3 @@
+Por resolución Nº1.012, de 23 de julio de 1998, de esta Subsecretaría, modifícase la resolución Nº984, de 1998, de esta Subsecretaría, en el sentido de agregar en los Vistos las resoluciones Nºs 466, 467, 468, 469 y 470 de 1993, de esta Subsecretaría; y de intercalar en el numeral 2, a continuación de la expresión ''... y Nº 470,'' la frase ''... todas de 1993, de esta Subsecretaría...''.
+
+Valparaíso, 23 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
