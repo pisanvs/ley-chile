@@ -3466,7 +3466,7 @@ VALES A LA VISTA.
 
 ### 1. Emisión de vales a la vista
 
-La emisión de vales a la vista o vales vista que hagan las Instituciones financieras por cuenta de terceros, debe efectuarse solamente contra fondos que estén disponibles en el mismo momento de su extensión, no siendo en consecuencia procedente emitir tales instrumentos contra valores que se encuentren en trámite de cobro.
+Los vales a la vista o vales vista que emiten las instituciones financieras por cuenta de terceros, pueden originarse solamente por la entrega de dinero en efectivo por parte del tomador o contra fondos disponibles que mantenga en cuenta corriente o en otra forma de depósito a la vista. Por consiguiente, si se toma el vale vista contra valores en cobro, la institución financiera queda impedida de entregarlo hasta que se cumpla la gestión de cobro del documento con que fue tomado, sin perjuicio de lo indicado en el Capítulo 3-1 de esta Recopilación, en el sentido de proveer los fondos mediante un crédito documentado o liberando la retención cuando el documento en cobro corresponda a alguno de los señalados en el numeral 3 3 de dicho Capítulo.
 
 Las instituciones financieras podrán cobrar comisiones por la emisión de vales a la vista. Cuando establezcan este cobro, deberán anunciarlo mediante avisos que colocarán en un lugar visible de sus oficinas, señalando el importe de la comisión que cobrarán por ese servicio.
 
@@ -4318,67 +4318,133 @@ MATERIA:
 
 VALORES EN COBRO.
 
-### 1. Definición del término "Valores en cobro"
+### 1. Valores en cobro
 
-Constituyen "Valores en cobro" los importes de los depósitos conformados por cheques y documentos a cargo de otros bancos de la misma plaza del país o del exterior y aquellos constituidos por instrumentos del propio banco y de otras empresas bancarias girados contra oficinas ubicadas en otras plazas.
+Para los efectos de estas normas, se entiende por "valores en cobro" los importes aún no percibidos de los documentos cuyo pago las instituciones financieras deben obtener mediante una gestión de cobro y que se han recibido como depósitos en cuentas corrientes u otras cuentas de depósito a la vista o a plazo; para la constitución de depósitos documentados con efectos de comercio; por depósitos para boletas de garantía o por un encargo expreso de cobranza.
 
-Estos depósitos tiene el carácter de condicionales y no son, por lo tanto, fondos disponibles mientras el banco depositario no obtiene el reembolso de esos valores.
+Por consiguiente, mientras la institución depositaría o mandataria no obtenga el pago de dichos valores, estos no pueden considerarse fondos disponibles para permitir su giro, entregar el producto de la cobranza o los títulos o instrumentos que con esos recursos se emitan.
 
-2. Retención aplicable a los depósitos constituidos por documentos en cobro.
+El giro o la entrega a que se refiere el párrafo precedente, antes de obtenido el pago de los documentos en cobranza, es un crédito concedido por la entidad financiera asociado al reembolso de los respectivos documentos.
 
-2.1. Plazo de retención.
+2. Retención aplicable a los depósitos constituidos mediante documentos en cobro.
 
-Se fijan los siguientes períodos de retención obligatoria, referidos a días hábiles bancarios, para los valores a cargo de otros bancos de la misma plaza y de empresas bancarias de otras plazas que se reciban en depósito, por lo que durante su vigencia queda estrictamente prohibido permitir el giro sobre dichos valores:
+De acuerdo con lo señalado en el numeral precedente, los depósitos tienen el carácter de condicionales mientras la institución depositaría no obtenga el pago de los valores en cobro, puesto que no representan fondos disponibles.
 
-a) El mismo día en que se efectúe el depósito y durante el día siguiente hábil hasta el término del proceso de la tercera reunión de la cámara de compensación, para los depósitos efectuados con cheques de otros bancos de la misma plaza o de una plaza distinta perteneciente a la misma agrupación, como asimismo para aquellos documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de compensación de Santiago; y,
+Para los fines indicados en el numeral anterior, las instituciones financieras deben considerar los plazos de retención de acuerdo con las siguientes instrucciones:
 
-b) Tres días para los depósitos conformados por cheques girados contra cuentas corrientes mantenidas en bancos ubicados en otras plazas, con excepción de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de Santiago, los que se regirán por las instrucciones contenidas en la letra a) precedente. Se aclara que el plazo señalado en esta letra es el mínimo y que los bancos podrán en forma adicional retener los fondos por los días estrictamente necesarios para prevenir el posible rechazo de documentos, retención ésta que no podrá ir más allá del tiempo normal de demora de su confirmación o aviso de rechazo, en relación con la localidad de asiento de la oficina girada. La tabla de lapsos adicionales que se aplique, deberá ser dada a conocer a los clientes, para evitar errores o confusiones. Estos plazos adicionales, sin embargo, no eximen al depositante deque, una vez transcurridos, no pueda producirse la devolución del documento debido a demoras o como consecuencia de situaciones imprevistas que pudieren afectar la gestión de cobro.
+2.1. Documentos a cargo de otras instituciones financieras del país.
 
-No obstante la disposición precedente, en aquellos casos en que como consecuencia de sistemas o procedimientos establecidos por los bancos, el cobro de tales documentos se haga efectivo en plazos inferiores al plazo mínimo obligatorio antes señalado, el banco depositario de los mismos, una vez obtenido su cobro, deberá desde ese momento permitir al depositante girar sobre tales valores.
+Los plazos de retención para los valores en cobro correspondientes a cheques y otros documentos de cargo de otras instituciones financieras del país, serán los siguientes:
 
-Las presentes instrucciones no obstan a la facultad de los bancos para conceder créditos en la forma ordinaria a los depositantes de valores en cobro, los cuales naturalmente deberán documentarse y registrarse dentro de sus colocaciones, o para autorizar sobregiros hasta por el equivalente de 30 unidades de fomento, según las normas contenidas en el Capítulo III.G.3 del Compendio de Normas Financieras del Banco Central de Chile.
+a) El mismo día en que se efectúe el depósito y durante el día siguiente hábil bancario hasta el término del proceso de la tercera reunión de la cámara de compensación, para los depósitos efectuados con documentos de cargo de otras instituciones financieras de la misma plaza o de una plaza distinta perteneciente a la misma agrupación, como asimismo para aquellos documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de compensación de Santiago; y,
 
-2.2. Excepciones a la retención obligatoria.
+b) Tres días hábiles bancarios para los depósitos conformados por instrumentos de cargo de otras instituciones financieras ubicadas en otras plazas, con excepción de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de Santiago, los que se regirán por el plazo señalado en la letra a) precedente. El plazo indicado en esta letra es el mínimo considerando su envío y cobro en la plaza contra la cual estén girados, de manera que, dependiendo del asiento de la oficina girada y del banco u oficina encargada de su cobro, las instituciones deberán prevenir el posible rechazo de documentos, estableciendo retenciones adicionales. El plazo de retención que en definitiva se aplique en cada caso, no podrá ir más allá del tiempo normal de demora de su consumación o aviso de rechazo. La tabla de lapsos adicionales que se aplique, deberá ser dada a conocer a los clientes, para evitar errores o confusiones.
 
-No obstante lo dispuesto en el numeral 2.1 precedente, las instituciones podrán optar por prescindir de esas retenciones en los siguientes casos:
+Con todo, en aquellos casos en que el cobro de los documentos se haga efectivo en plazos inferiores a los señalados en este numeral, la institución depositaría deberá, desde el momento en que reciba el reembolso, permitir al depositante disponer de tales valores.
 
-a) Cuando se trate de giros contra depósitos constituidos por vales vista girados por otras entidades financieras de la misma plaza o por cheques viajero.
+Por otra parte, las instituciones financieras pueden prescindir de los plazos de retención cuando los valores en cobro correspondan a vales vista, certificados o pagarés de depósitos a plazo y cheques girados contra la cuenta única fiscal, según lo indicado en el numeral 3-3 de este Capítulo.
 
-b) Cuando se trate de giros que se realicen sobre depósitos efectuados con cheques girados contra cuentas subsidiarias de la Cuenta Unica Fiscal radicadas en la misma plaza o en plazas distintas a la de la oficina receptora del depósito.
+Los plazos adicionales a que se refiere la letra b) no eximen al depositante de que, una vez transcurridos, pueda producirse la devolución del documento debido a demoras o como consecuencia de otras situaciones imprevistas que pudieran afectar la gestión de cobro, de modo que, aunque por término del plazo de retención los fondos de una cuenta pueden considerarse disponibles, el depósito puede seguir afectado por esa contingencia.
 
-c) Cuando con el visto bueno de uno de sus apoderados se autorice el pago a sus trabajadores, de cheques girados por éstos contra sus cuentas corrientes personales que mantengan en otros bancos, como también para pagarles a esos mismos trabajadores los cheques girados a su orden por sus respectivos organismos previsionales.
+2.2. Documentos de cargo de la misma institución depositaria.
 
-d) Cuando se gire contra depósitos con pagarés o certificados de depósito a plazo no reajustables de otras instituciones financieras, pagaderos en la misma plaza, y que al momento de ser depositados se encuentren vencidos.
+2.2.1. Documentos de la misma oficina.
 
-### 3. Procedimiento operativo para el control de los plazos de retención
+En general, los documentos de cargo de la misma oficina depositaría deben ser considerados como depósitos en efectivo, al estar implícito que se deposita el producto del pago del documento cobrado. Según ha señalado esta Superintendencia en el Capítulo 2-2 de esta Recopilación (numerales 7.8 y 8.2.1 del título III), ello ocurrirá aun cuando un cheque se haya endosado o se trate de uno cruzado.
 
-Con el propósito de facilitar la aplicación de los plazos señalados y el cumplimiento de su propio control interno, los bancos se ceñirán a las siguientes instrucciones:
+En esa disposición se sobreentiende que el depósito tiene la calidad de efectivo desde el instante en que el cheque depositado se carga a la cuenta girada.
 
-a) Enviarán a cobro los cheques y otros documentos recibidos en depósito y utilizarán para el efecto la vía más rápida y expedita; y,
+Por consiguiente, es improcedente retener los fondos si ha sido cargado el importe del valor en cobro en la cuenta girada, lo que deberá ocurrir, a más tardar, al cierre de las operaciones del mismo día en que se efectúe el depósito. En todo caso, mientras no se cargue la cuenta girada, no es posible permitir el giro del importe depositado.
 
-b) La oficina librada cargará en la respectiva cuenta los cheques aludidos, tan pronto como los reciba y devolverá protestadas de inmediato aquellos que no cuenten con la correspondiente provisión de fondos o que por cualquier otra causal no sean pagados.
+2.2.2. Documentos a cargo de otras oficinas.
 
-### 4. Operaciones no autorizadas
+Los importes de los depósitos efectuados con documentos a cargo de otras oficinas de la misma institución depositaría, tienen el carácter de condicionales cuando su cobro se haga mediante el envío de los documentos a la oficina librada para su pago y no se cargue la cuenta girada directamente por la oficina receptora del depósito.
 
-Las siguientes operaciones no están autorizadas por representar uso anticipado de fondos, sin perjuicio de lo señalado en el numeral 2.2:
+Cuando la oficina librada esté ubicada en la misma plaza de la oficina depositaría, los procedimientos deberán permitir la liberación de los fondos a más tardar al cierre de las operaciones del mismo día en que se reciba el depósito.
 
-a) Pago por caja de cheques girados contra otros bancos; y,
+En el caso de oficinas ubicadas en otras plazas, las instituciones financieras deberán ceñirse a las instrucciones de la letra b) del numeral
 
-b) La emisión de vales vista u otros documentos similares con cargo a valores en cobro. Tales documentos sólo podrán emitirse con la consignación previa de dinero efectivo o contra fondos disponibles.
+2.1 de este Capítulo, teniendo presente que, si el pago de los valores se hace efectivo en plazos inferiores a los previstos, la oficina depositaría deberá permitir al depositante girar sobre ellos.
 
-5. Cheques y documentos de otros bancos que se cobran por intermedio de corresponsales.
+Cuando los documentos se envíen a la oficina librada, es obligación de la oficina depositaría o encargada de la cobranza utilizar para el efecto la vía más rápida y expedita posible. Por su parte, la oficina librada deberá cargar en la respectiva cuenta los cheques en cobro tan pronto como los reciba y devolver protestados de inmediato aquellos que no cuenten con la correspondiente provisión de fondos o que por cualquier otra causal no sean pagados.
 
-Los bancos que reciban cheques y documentos girados sobre otras plazas y cuyo cobro se realice por intermedio de otra empresa bancaria que se desempeñe como corresponsal, deberán mantener dos cuentas corrientes en dicho banco, las que integrarán la partida 1020 del formulario MB1. Una de estas cuentas estará destinada a registrar el movimiento habitual de todas las relaciones entre bancos, tales como abonos de cobranza, depósitos distintos de los correspondientes a cheques recibidos en cobranza, devoluciones de cheques y otros documentos, etc. y, la otra, tendrá como finalidad registrar exclusivamente el movimiento de depósitos con cheques de otros bancos confiados en gestión de cobro al corresponsal en la plaza sobre la cual están girados. Los bancos podrán girar de esta última cuenta los referidos valores al cuarto día hábil bancario contado desde la fecha de su depósito.
+En ningún caso una oficina de un banco que opere en línea podrá mantener la retención de valores en cobro en espera de confirmaciones o devoluciones, si la cuenta corriente del girador del cheque ya ha sido cargada por el importe correspondiente.
 
-### 6. Remesas entre oficinas por cuenta de clientes
+3. Giro de los importes depositados y liberación de documentos antes de obtenerse el pago de los valores en cobro.
+
+Las retenciones señaladas en las instrucciones precedentes no son óbice para que las instituciones financieras permitan la utilización anticipada de los fondos o de los documentos retenidos, mediante la concesión de un crédito a los depositantes.
+
+Para los efectos de tales créditos las instituciones financieras deben considerar lo siguiente:
+
+3.1. Control sobre los créditos otorgados y evaluación de los riesgos.
+
+Cuando una institución financiera permita la utilización anticipada de fondos, esa práctica debe quedar sujeta a procedimientos que permitan un adecuado manejo de los riesgos de crédito que se asumen por ese motivo y el cumplimiento de las disposiciones legales y reglamentarias que rigen tales operaciones.
+
+Las políticas y procedimientos de las instituciones financieras deben considerar los riesgos inherentes a la calidad de los documentos en cobro y a la situación del deudor, cuando corresponda, debiendo quedar claramente establecidas las condiciones que deben cumplirse para el otorgamiento de los créditos, los niveles jerárquicos de autorización, los resguardos en cuanto a la necesidad de documentar y garantizar los créditos, etc.
+
+Los sistemas que las instituciones financieras utilicen, deben permitir verificar el cumplimiento de tales políticas y procedimientos.
+
+3.2. Cumplimiento de los límites de crédito y documentación de los mismos.
+
+Cualquiera sea la forma en que los referidos créditos se otorguen, esto es, aunque fuere por el mero acto de efectuarse el giro o el desembolso, o de entregar títulos de crédito en que consta una obligación de la institución financiera, ellos están sujetos a los límites y prohibiciones establecidos en el artículo 84 de la Ley General de Bancos, en el instante en que se cursen, ansié su pago se realice el mismo día.
+
+Por otra parte, los créditos que la institución depositaría o mandataria conceda de acuerdo a lo expresado en este Capítulo, deben quedar debidamente documentados como requisito para su otorgamiento, sea que se trate de sobregiros en cuentas corrientes bancarias u otras operaciones específicas.
+
+Todo lo anterior es sin perjuicio de las excepciones que se indican en el numeral 3.3 siguiente y de la facultad de permitir sobregiros en cuentas corrientes bancarias sin pacto previo hasta por el equivalente a 30 Unidades de Fomento, tratada en el numeral 8-1 de esta Recopilación.
+
+3.3. Excepciones a las retenciones sobre valores en cobro.
+
+La institución depositaría podrá optar por prescindir de las retenciones, sin considerar necesariamente tales pagos como créditos, cuando los valores en cobro correspondan a:
+
+a) Vales vista emitidos por otras entidades financieras de la misma plaza o cheques viajeros.
+
+b) Cheques girados contra cuentas subsidiarias de la Cuenta Unica Fiscal.
+
+c) Pagarés o certificados de depósito a plazo no reajustables emitidos por otras instituciones financieras.
+
+3.4. Giros contra valores en cobro depositados en cuentas. Registro contable.
+
+Los créditos generados por el pago de cheques y otras operaciones con cargo a una cuenta corriente bancaria que no dispone de fondos, deben ceñirse a lo dispuesto en el Capítulo 8-1 de esta Recopilación Actualizada de Normas.
+
+Ninguna cuenta de depósito distinta a una cuenta corriente bancaria admite la concesión de créditos con cargo a ellas, de manera que no es posible girar sobre valores en cobro, a menos que dichos valores correspondan a los documentos enumerados en las letras a), b) y c) del numeral 3.3 anterior.
+
+En esos casos, cualquier anticipo que se otorgue sobre valores en cobro diferentes a los expresamente exceptuados, como asimismo sobre documentos que se reciban en comisión de cobranza sin que sean depositados en una cuenta, origina una colocación que debe documentarse y registrarse como tal.
+
+3.5. Créditos que permiten la entrega de títulos emitidos contra valores en cobro.
+
+3.5.1. Situación de los títulos entregados.
+
+Los títulos de crédito que una institución financiera entrega a los beneficiarios se independizan de la relación jurídica que les dio origen. Esto significa que la institución financiera, por el solo hecho de firmar el documento y entregarlo al tomador, se hace responsable de su pago frente a su legítimo tenedor, el cual de manera alguna puede verse afectado por la relación jurídica absolutamente ajena existente entre tomador y depositario.
+
+En ningún caso una institución financiera puede intentar precaverse de los efectos de entregar un título de crédito contra valores en cobro, agregando en el documento indicaciones que condicionen su pago o transferencia al reembolso de tales valores.
+
+3.5.2. Registro contable.
+
+De acuerdo con las convenciones contables, la emisión de vales vista, pagarés o certificados de depósitos a plazo y otros documentos similares que por su naturaleza sólo pueden provenir de depósitos de dinero, se registran como pasivos de la institución con prescindencia del hecho de que la operación puede estar condicionada al cobro previo de documentos, cuestión que sólo impide la entrega de los mismos al depositante o tomador durante los plazos de retención.
+
+Por consiguiente, aunque la entrega anticipada de tales documentos deben computarse para efectos de los márgenes crediticios, no se registran contablemente como operaciones de crédito.
+
+4. Prohibición de pagar cheques a cargo de otros bancos. Excepción calificada.
+
+En relación con la naturaleza jurídica de las operaciones, que determina la presencia de un crédito en cualquier pago o giro que se realice contra valores en cobro, las instituciones financieras deben tener presente que pueden recibir cheques a cargo de otros bancos sólo en cobranza o en pago de obligaciones. Por consiguiente, entre otras cosas, a las instituciones financieras les está vedado pagar cheques girados contra otros bancos, a menos que se trate de cheques girados a cargo de la Cuenta Unica Fiscal.
+
+No obstante lo anterior, excepcionalmente, con el previo visto bueno de uno de sus apoderados, las instituciones financieras pueden pagar a sus trabajadores los cheques girados por éstos contra sus cuentas corrientes personales que mantengan en otros bancos, como también pagarles a éstos los cheques girados a su orden por sus respectivos organismos previsionales.
+
+5. Cobro por intermedio de corresponsales en el país. Uso de cuentas corrientes.
+
+Las instituciones financieras que reciban cheques y documentos girados sobre bancos situados en otras plazas del país y cuyo cobro se realice por intermedio de un banco corresponsal, deberán mantener dos cuentas corrientes en dicho banco. Una de estas cuentas estará destinada a registrar el movimiento habitual de todas las relaciones entre bancos, tales como abonos de cobranzas, depósitos distintos de los correspondientes a cheques recibidos en cobranza, devoluciones de cheques y otros documentos, etc. y, la otra, tendrá como finalidad registrar exclusivamente el movimiento de depósitos con cheques de otros bancos confiados en gestión de cobro al corresponsal en la plaza sobre la cual están girados. Los bancos podrán girar de esta última cuenta los referidos valores al cuarto día hábil bancario contado desde la fecha de su depósito.
+
+6. Remesas entre oficinas por cuenta de clientes que han entregado valores en cobro.
 
 Las transferencias de fondos que la oficina de un banco efectúe por cuenta de sus clientes a otra oficina de la misma empresa, podrán cursarse en la misma fecha en que sean solicitadas, aun cuando la respectiva provisión de fondos se haya constituido con cheques o documentos a cargo de otros bancos de la misma plaza o de otras plazas.
 
-En estos casos, la oficina que curse la transferencia indicará a la oficina destinataria, el plazo de retención que deberá observarse antes de que el beneficiario pueda disponer de los fondos transferidos. Dicho plazo será el que habitualmente aplique la empresa sobre los depósitos constituidos con documentos a cargo de otras instituciones de la misma o de otras plazas. De todos modos, deberán cumplirse los plazos mínimos de retención establecidos en el numeral 2.1 de las presentes normas.
+En estos casos, la oficina que curse la transferencia indicará a la oficina destinataria, el plazo de retención que, conforme a las presentes normas, deberá observarse antes de que el beneficiario pueda disponer de los fondos transferidos.
 
-No obstante, los bancos podrán también diferir el despacho de estas transferencias hasta que los recursos entregados por el ordenante, contra los que se realice el traspaso, constituyan fondos disponibles. Las instituciones que adopten este último procedimiento, del que deben advertir oportuna y convenientemente a los interesados, acreditarán el importe respectivo en una cuenta que al efecto establecerán y demostrarán en la partida 3010 "Otros saldos acreedores a la vista", del formulario MB1, hasta el instante en que hagan efectiva su transferencia.
+No obstante, los bancos podrán también diferir el despacho de estas transferencias hasta que los recursos entregados por el ordenante, contra los que se realice el traspaso, constituyan fondos disponibles. Las instituciones que adopten este último procedimiento, acreditarán el importe respectivo en una cuenta de la partida 3010, hasta el instante en que hagan efectiva su transferencia.
 
-Las transferencias a que se refiere este número deberán ser contabilizadas por la oficina emisora en el momento de su emisión y por la receptora a su inmediato recibo, sin perjuicio de la retención que, de acuerdo con lo expresado en este mismo numeral, debe cumplirse.
+El procedimiento que se siga deberá ser advertido oportuna y convenientemente a los interesados.
+
+Las transferencias a que se refiere este número deberán ser contabilizadas por la oficina emisora en el momento de su emisión y por la receptora a su inmediato recibo, sin perjuicio del cumplimiento de la retención.
 
 CAPITULO 4-1 (Bancos y Financieras)
 
@@ -6992,39 +7058,27 @@ SOBREGIRO EN CUENTA CORRIENTE BANCARIA.
 
 ### 1. Generalidades
 
-De acuerdo con las disposiciones contenidas en el Capítulo III.G.3 del Compendio
+Los sobregiros en una cuenta corriente bancaria corresponden a todos aquellos giros efectuados en la cuenta sin que existan fondos disponibles, constituyendo, por lo tanto, créditos que el banco librado concede al comitente.
 
-de Normas Financieras del Banco Central de Chile, los bancos no pueden otorgar
+De acuerdo con las disposiciones contenidas en el Capítulo III.G.3. del Compendio de Normas Financieras del Banco Central de Chile, los bancos no pueden otorgar sobregiros en cuentas corrientes bancarias, que no hayan sido pactados previamente por escrito.
 
-sobregiros en cuentas corrientes ordinarias que no hayan sido pactados
-
-previamente por escrito. Esta prohibición no se aplica cuando el sobregiro es
-
-igual o inferior a 30 unidades de fomento.
+Se excluyen de esa obligación de pacto previo por escrito, los sobregiros que no excedan el equivalente de 30 Unidades de Fomento.
 
 ### 2. Sobregiros sin pacto previo
 
-De lo anteriormente expresado se desprende que las entidades bancarias pueden otorgar créditos sin pacto previo por escrito, hasta por una suma que no sobrepase las 30 unidades de fomento.
+De acuerdo con lo anteriormente expresado, las entidades bancarias pueden otorgar créditos sin pacto previo por escrito, hasta por una suma que no sobrepase las 30 Unidades de Fomento.
 
 Para los efectos del cumplimiento de ese límite, se considerarán como un solo sobregiro la suma de los sobregiros de diferentes cuentas corrientes ordinarias en moneda chilena que una persona, natural o jurídica, mantenga con un banco.
 
-Excepcionalmente el límite de 30 unidades de fomento podrá sobrepasarse, cuando el exceso provenga de gastos por servicios prestados o pagados por el banco por cuenta del cliente, conforme a lo señalado en el numeral 4.1, titulo II, del Capítulo 2-2 de esta Recopilación.
+Excepcionalmente, el límite de 30 Unidades de Fomento podrá sobrepasarse, cuando el exceso provenga de gastos por servicios prestados o pagados por el banco por cuenta del cliente, conforme a lo señalado en el numeral 4.1, título II, del Capítulo 2-2 de esta Recopilación.
 
-Debe tenerse presente que el sobregiro sin pacto previo, de hasta 30 unidades de fomento, no es un derecho del comitente y, por lo tanto, tampoco es una obligación del banco, sino un acto voluntario de éste.
+Naturalmente que el consentimiento de sobregiro sin pacto previo hasta por el límite de que se trata, no es un derecho del comitente y, por lo tanto, tampoco es una obligación del banco, sino un acto voluntario de éste.
 
 ### 3. Sobregiros con pacto previo
 
-En primer lugar debe dejarse constancia que cualquier sobregiro,
+Para permitir sobregiros cuya suma supere el equivalente de 30 Unidades de Fomento, los bancos deberán pactar previamente la concesión de tales créditos.
 
-independientemente de su cuantía, puede pactarse y documentarse previamente; sin
-
-embargo aquellos que sobrepasen la suma de 30 unidades de fomento deberán
-
-cumplir obligadamente dicho requisito.
-
-En el pacto que se lleve a efecto, deberá establecerse, a lo menos, las
-
-siguientes condiciones:
+En el pacto que se lleve a efecto, deberán establecerse, a lo menos, las siguientes condiciones:
 
 a) monto máximo del sobregiro concedido;
 
@@ -7036,41 +7090,45 @@ d) garantías que respaldan la operación; y,
 
 e) interés pactado y períodos en que se cobrará.
 
-Además el beneficiario de un crédito de esta naturaleza deberá suscribir un
+Además el beneficiario de un crédito de esta naturaleza deberá suscribir un pagaré en favor de la entidad bancaria.
 
-pagaré en favor de la entidad bancaria.
-
-La existencia de un sobregiro pactado, no excluye la facultad de la entidad
-
-bancaria para otorgar a su comitente, adicionalmente, el sobregiro eventual de
-
-hasta 30 unidades de fomento, a que se refiere el número 2 de estas normas.
+La existencia de un sobregiro máximo pactado, no excluye la facultad de la entidad bancaria para otorgar a su comitente, adicionalmente, el sobregiro eventual de hasta 30 Unidades de Fomento, a que se refiere el N° 2 de estas normas.
 
 ### 4. Intereses
 
-Los intereses de los sobregiros otorgadas en cuentas corrientes ordinarias, se cobrarán en la forma en que expresamente se convenga pero siempre por períodos vencidos no inferiores a 30 días, salvo que se trate de operaciones pactadas a plazos menores. En todo caso, se recomienda que en lo posible, esos cargos se efectúen al término de cada mes calendario.
+Los intereses de los sobregiros otorgados en cuentas corrientes ordinarias o especiales, se cobrarán en la forma en que expresamente se convenga, pero siempre por períodos vencidos no inferiores a 30 días, salvo que se trate de operaciones pactadas a plazos menores. En todo caso, se recomienda que en lo posible, esos cargos se efectúen al término de cada mes calendario.
 
-Conjuntamente con realizar el cargo a la cuenta corriente del deudor, el banco deberá remitirle un aviso en que se comunique el importe de los intereses adeudados y debitados a su cuenta.
+Conjuntamente con realizar el cargo a la cuenta corriente bancaria del deudor, el banco deberá remitirle un aviso en que se comunique el importe de los intereses adeudados y debitados a su cuenta.
 
-Los bancos que no hayan convenido de manera expresa en el respectivo pagaré la exigibilidad de los intereses en una fecha determinada, podrán cargar en la respectiva cuenta corriente los intereses devengados por los sobregiros concedidos, aun cuando dicha cuenta se encuentre sobregirada. En todo caso, los referidos intereses podrán ser debitados en las cuentas corrientes
+Los bancos que no hayan convenido de manera expresa la exigibilidad de los intereses en una fecha determinada, podrán cargar en la respectiva cuenta corriente los intereses devengados por estos créditos, aun cuando dicha cuenta se encuentre sobregirada. Los referidos intereses podrán ser debitados en las cuentas corrientes sobregiradas, solamente al término de períodos no inferiores a treinta días contados desde la fecha en que se haya producido el sobregiro que los genere.
 
-sobregiradas,solamente al término de períodos no inferiores a treinta días contados desde la fecha en que se haya producido el sobregiro que los genere.
+En todo caso, los intereses que se cobren por los sobregiros en cuentas corrientes quedan sujetos a los límites de la tasa máxima convencional, debiendo considerarse para el efecto las instrucciones de las letras a) y c) del numeral 6.2.3 del título I del Capítulo 7-1 de esta Recopilación Actualizada de Normas.
 
-En todo caso, el cobro de intereses por los sobregiros en cuentas corrientes quedan sujetos a los límites de la tasa máxima convencional, debiendo considerarse para el efecto las instrucciones de las letras a) y c) del numeral 5.2.3 del título I del Capítulo 7-1 de esta Recopilación Actualizada de Normas.
+### 5. Límites de crédito
 
-### 5. Cómputo de endeudamiento
+Al acordar los montos de las líneas de crédito o márgenes para sobregiros, los bancos deben prevenir que su posterior utilización por la sola voluntad del titular de la cuenta, no produzca excesos con respecto a los límites del artículo 84 de la Ley General de Bancos. Si bien esa disposición legal se infringe, en el caso de las cuentas corrientes, al momento en que se origina un giro sin existir fondos disponibles que, sumado a los créditos ya otorgados, supera el límite, es conveniente, para evitar esa situación, considerar siempre el importe pactado como si fuese un monto ya utilizado, puesto que el solo cumplimiento del pacto podría originar una infracción por el exceso, especialmente si con posterioridad se otorgan otros créditos o se liberan garantías.
 
-Los bancos deberán prevenir que, por efecto de la utilización de los sobregiros concedidos, no se produzcan excesos de crédito con respecto a los márgenes individuales permitidos por el artículo 84 de la Ley General de Bancos. Es conveniente, en consecuencia, para evitar situaciones de esta naturaleza, que los bancos consideren para los fines de establecer el monto máximo de crédito que pueden conceder a una misma persona, el importe del sobregiro pactado, con prescindencia del monto que efectivamente estuviere utilizado, no obstante que éste ultimo es el importe que debe computarse como crédito para los efectos del mencionado artículo 84 y para la información de la deuda del titular de la cuenta corriente a esta Superintendencia en las oportunidades que correspondan según las instrucciones del Manual del Sistema de Información.
+Por otra parte, debe tenerse presente que los sobregiros que se cubren dentro del mismo día en que se originan, también quedan sujetos al cumplimiento del artículo 84 de la Ley General de Bancos, desde el momento en que se paga un cheque o giro con cargo a una cuenta que carece de fondos disponibles.
 
 ### 6. Normas contables
 
-A nivel de cuentas individuales, los sobregiros deberán registrarse directamente en la cuenta corriente ordinaria del cliente y no en cuentas complementarias, de manera que los abonos que en seguida se hagan a la cuenta, rebajen automáticamente las cantidades sobregiradas.
+6.1. Control sobre los saldos disponibles.
 
 Los bancos deberán adaptar sus sistemas de información para mantener, en todo momento, un control estricto de los saldos disponibles y de los saldos contables de las cuentas corrientes, de modo de poder computar en forma exacta los sobregiros efectivamente utilizados por los comitentes.
 
-El importe de los sobregiros efectivamente utilizados se contabilizará en la cuenta "Deudores en cuentas corrientes ordinarias", de la partida 1105.
+6.2. Sobregiros en cuenta corriente ordinaria.
 
-El monto de los sobregiros en cuenta corriente pactados se registrará en la cuenta de orden "Créditos aprobados en cuenta corriente", de la partida 9310.
+A nivel de cuentas individuales, los sobregiros deberán registrarse directamente en la cuenta corriente bancaria del cliente y no en cuentas complementarias, de manera que los abonos que en seguida se hagan a la cuenta, rebajen automáticamente las cantidades sobregiradas.
+
+El monto de sobregiro que permanece al cierre de las operaciones, esto es, el sobregiro contable y los giros contra valores en cobro, debe ser reflejado en la cuenta "Deudores en cuentas corrientes ordinarias", de la partida 1105.
+
+6.3. Sobregiros cubiertos con créditos en cuentas corrientes especiales.
+
+En caso de que se haya pactado el procedimiento de cubrir los sobregiros producidos mediante el uso de una cuenta corriente especial de crédito, la utilización de las líneas de crédito se registrará en la cuenta "Deudores en cuentas corrientes especiales", de la partida 1105.
+
+6.4. Contabilización de los montos pactados.
+
+El monto pactado de los créditos que pueden ser utilizados en la forma de sobregiros en cuenta corriente, se registrará en la cuenta de orden "Créditos aprobados en cuenta corriente", de la partida 9310.
 
 CAPITULO 8-3 (Bancos y Financieras)
 
