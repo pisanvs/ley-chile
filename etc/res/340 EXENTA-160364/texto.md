@@ -1,0 +1,5 @@
+DETERMINA DERECHOS APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 340, de 27 de Marzo de 1985, conforme art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sectores excluidos de los predios "Lote uno o Hijuela La Invernada de Santa Julia" e "Hijuela Los Hornos o "Lote Segundo de Santa Julia" de la comuna de Melipilla, Región Metropolitana; y derechos aprovechamiento de aguas que corresponden a las parcelas No. 1 a la 11, sitios letras A a la I del proyecto de parcelación "La Primavera" formado por predios señalados. Los derechos de agua se extraen del Canal Picano, Canal San José y desagüe grande del Fundo Ostolazas. Publicación hecha conforme art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
