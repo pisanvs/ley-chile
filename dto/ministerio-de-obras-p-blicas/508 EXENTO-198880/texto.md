@@ -1,0 +1,3 @@
+Por decreto MOP. Exento Nº 508, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 44, superficie 105 M2, rol de avalúo 213-12, comuna de Coelemu, VIII Región, para la obra ''Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 al 8,28000'' y se acordó el valor de indemnización con su propietario don Armando del Carmen Gómez Godoi, ascendente a la cantidad de $145.512.-
+
+Fiscal del Ministerio de Obras Públicas.
