@@ -1,0 +1,3 @@
+Por Resolución exenta N° 672, de fecha 09 de Septiembre de 1992, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, modifícase el numeral 1° de la Resolución Exenta N° 492 de fecha 14 de Julio de 1992, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que autorizó complementariamente a la empresa de origen paraguayo "La Santaniana S.R.L.", para efectuar transporte internacional terrestre de pasajeros entre Asunción (Paraguay) e Iquique (Chile), en tránsito por territorio argentino y viceversa, en el sentido de incluir el uso del paso fronterizo Jama.-
+
+Fernando Zúñiga Ivany, Subsecretario de Transportes Subrogante.
