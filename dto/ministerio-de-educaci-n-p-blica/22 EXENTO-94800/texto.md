@@ -1,0 +1,3 @@
+Por decreto exento No. 22 del Ministerio de Educación Pública de 09 de febrero de 1989, se autorizó la ampliación de áreas de las carreras profesionales que imparte el Instituto Profesional del Maule autorizado por decreto exento No. 69 de 1988 del Ministerio de Educación Pública. En consecuencia dicho instituto podrá impartir a contar del primer semestre de 1989 carreras profesionales en las áreas de Administración y Comercio; Educación; y Ciencias Sociales, sin perjuicio de las anteriormente autorizadas. Santiago, 15 de Marzo de 1989.-
+
+Paulina Dittborn Cordua, Subsecretaria de Educación Pública.
