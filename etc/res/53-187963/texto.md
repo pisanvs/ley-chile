@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 53, del 15 de junio del año 2001, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo Para el Desarrollo Sustentable Territorio Sur, de nombre de fantasía Territorio Sur, de la ciudad de Valparaíso, en los términos que da testimonio el acta constitutiva protocolizada con fecha 31 de enero del 2001, bajo el Nº 924/2001 al final de los registros del Notario de Valparaíso, don Marcos Andrés Díaz León.-
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
