@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.441, de 30 de septiembre de 2002, se expropió el lote de terreno Nº35-C, superficie 4.000 m², rol de avalúo 24-34, comuna de Navidad, VI Región, para la obra ''Camino Ruta G-880, Sector Rapel - Navidad - La Boca, Km. 0.000,00 al 16.680,00'' y se acordó el valor de indemnización con su propietario don Claudio Horacio Reyes Navia y Otros, ascendente a la cantidad de $2.481.480.-
+
+Fiscal del Ministerio de Obras Públicas.
