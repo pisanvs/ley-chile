@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 321 de 30 de octubre de 1992, se expropiaron los lotes de terreno N°s. 10, 11, 12 y 13, superficies 354 M2., 180 M2., 653 M2. y 560 M2., respectivamente, roles de avalúos 1114-39, 1144-44, 1114-40 y 1130-121, Comuna de Yungay, obra Camino Pemuco Yungay y se acordó precio de indemnización con sus propietarios Erik Muñoz Muñoz, María Muñoz Muñoz y otras, María Muñoz Muñoz y Pedro Valenzuela Pino, ascendente a las cantidades de $139.908, $102.528, $256.320 y $183.696.-
+
+Fiscal del Ministerio de Obras Públicas.
