@@ -70,13 +70,13 @@ Soldados, marineros segundos, grumetes
 
 y personal de grados inferiores, 4,000;
 
-Para los efectos de este artículo, ninguna pensión de retiro por servicios en la guerra de 1879-84 podrá ser inferior a 3,600 anuales para el personal de tropa, y a $ 9,000 anuales para los oficiales.
+Para los efectos de este artículo, ninguna pensión de retiro por servicios en la Guerra de 1879-84 podrá ser inferior a $ 2,400 anuales.
 
 Las pensiones de Mayor a General de División y de capitán de Corbeta a vicealmirante, después de dos años de vigencia de la presente ley, se pagarán de acuerdo con los sueldos fijados para los oficiales correspondientes en actividad.
 
 #### Artículo 2
 
-o - Al personal del Ejército, Armada, Guardia Nacional Movilizada, Servicio Sanitario y demás anexos, que acreditan haber concurrido a las Campañas del Pacífico, que se iniciaron el 1.o de febrero de 1879, y que terminaron el 1.o de septiembre de 1884, y que justifiquen tener en sus hojas del servicio una o más acciones de guerra, se le concederá el ascenso al grado inmediatamente superior, con todos los honores, rango y prerrogativas que acuerdan las leyes vigentes al personal en servicio activo, y sus pensiones de retiro se aumentarán en conformidad a las reglas establecidas en esta Ley.
+o - Al personal del Ejército, Armada, Guardia Nacional Movilizada, Servicio Sanitario y demás anexos, que acreditan haber concurrido a las Campañas del Pacífico, que se iniciaron el 1.o de febrero de 1879, y que terminaron el 1.o de septiembre de 1884, y que justifiquen tener en sus hojas del servicio una o más acciones de guerra, se le concederá el ascenso al grado inmediatamente superior, con todos los honores, rango y prerrogativas que acuerdan las leyes vigentes al personal en servicio activo, pero sin derecho a mayor sueldo.
 
 #### Artículo 3
 
@@ -314,10 +314,6 @@ o - Dentro del tiempo de servicios computado para una pensión de retiro, no pod
 
 o - El plazo para acogerse a los beneficios de la presente ley, regirá hasta el 30 de Setiembre de 1934.
 
-> **Nota.** El artículo 1° de la Ley 5878, publicada el 28.08.1936, concede un nuevo plazo de un año, a contar de la fecha de su publicación, para acogerse a los beneficios que establece la presente norma.
-
-> **Nota.** NOTA 1 El artículo 5° de la Ley 6476, publicada el 18.12.1939, concede un nuevo plazo de dos años para acogerse a los beneficios de la presente norma.
-
 #### Artículo 20
 
 o - Revalídanse las solicitudes sobre retiros y montepíos presentadas con arreglo al d/1 N.o 816, de 23 de Diciembre de 1925.
@@ -335,8 +331,6 @@ o - Si se aumentaren los sueldos del personal en actividad de las instituciones 
 #### Artículo 23
 
 o - Las pensiones de retiro y montepío a que se refiere la presente ley quedarán exentas de toda contribución fiscal.
-
-Dichas pensiones y montepío no podrán ser gravados con el impuesto global complementario adicional, ni con otro alguno.
 
 #### Artículo 24
 
