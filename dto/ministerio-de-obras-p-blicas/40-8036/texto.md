@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 40, de 28 de Febrero de 1994, se expropiaron los lotes de terreno Nos 11, 24, 36 y 41, superficie 520 m2., 524 m2., 569 m2. y 403 m2, roles de avalúo 137-27, 134-170,137-11 y rol en trámite, comuna de Marchigüe, para la obra Camino San Fernando Pichilemu, Sector La Rosa - Alto Colorado y se acordó el valor de indeminización con sus propietarios Manuel Jesús Lizana Cáceres, Juan Adolfo Vidal Calderón, Domingo del C. Cabello Díaz y Graciela González Cabello, ascendente a las cantidades de $10.313.200.-, $5.711.047.-, $2.629.137.- y $5.603.991.-, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
