@@ -1,0 +1,1 @@
+Otorga franquicias aduaneras a los personales que indica de la Defensa Nacional, de Carabineros y del Servicio Exterior.
