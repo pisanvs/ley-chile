@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.712, de 24 de junio de 1999, se expropiaron los lotes de terreno No. s 32-B y 33-B, superficies 1.116 m2 y 1.178 m2, rol de avalúo 105-12, comuna de San Pablo, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector San Pablo-Osorno, Décima Región y se acordó el valor de indemnización con su propietario Jorge Pinninghoff Rademacher, ascendente a la cantidad total de $ 1.887.086.-
+
+Fiscal del Ministerio de Obras Públicas.
