@@ -1,0 +1,3 @@
+Por Decretro M.O.P. N° 202, de 28 de abril de 1995, se expropiaron los lotes de terreno N°s 16 y 17, superficies 9.433 M2. y 8.264 M2., rol de avalúo 487-1, comuna de Cauquenes, para la obra Camino San Javier Cauquenes, Tramo B-3 Estero Arenales-Purapel y se acordó precio de indemnización con sus propietarios Rafael de la Cuadra del Río y otra, ascendente a la cantidad de $1.982.976.
+
+Fiscal del Ministerio de Obras Públicas.
