@@ -1,0 +1,3 @@
+Por resolución N° 57, de 28 de Enero de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL COMTESA S.A., R.U.T. N° 94.565.000-1. para continuar desarrollando las actividades pesqueras autorizadas a Comercial Comtesa Ltda., R.U.T. N° 94.565.000-1, domiciliada en Santiago, en virtud de la escritura pública de fecha 27 de Agosto de 1992, otorgada ante la vigésima novena Notaría de Santiago y que transformó a Comercial Comtesa Ltda., en una sociedad anónima denominada Comercial Comtesa S.A., y lo dispuesto en la Ley N° 18.046 sobre Sociedades Anónimas.
+
+Valparaíso, 28 de Enero de 1993. Andrés Couve Rioseco, Subsecretario de Pesca.
