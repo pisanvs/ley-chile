@@ -1,0 +1,5 @@
+AUTORIZA A "PESQUERA Y COMERCIAL INTERMARES S.A." PARA INICIAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 516, de 26 de Mayo de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a "Pesquera y Comercial Intermares S.A.", con domicilio en Castro, X Región, para iniciar actividades pesqueras con la embarcación "Kofuku Maru 58" en el litoral de las Regiones X y XI, de donde podrá extraer los siguientes recursos hidrobiológicos: Merluza del Sur, congrio dorado, tollo, raya, cojinova, corvina, pejerrey, jaiba, calamar, centolla y centollón. Derógase la resolución No. 837, de 1985, de esta Subsecretaria de Pesca, referida a la misma embarcación.
+
+Valparaíso, 26 de Mayo de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
