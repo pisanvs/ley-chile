@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.462, de 4 de septiembre de 1998, se dejó sin efecto la expropiación de los lotes No. s 21, 22 y 23, aprobada por decreto MOP. No. 23 de 12 de enero de 1996, que figuran a nombre de Andrés Lanau y otro, rol de avalúo 3130-15, comuna de Huechuraba, para la obra Agua Potable y Alcantarillado de Santiago, Ampliación del Servicio de Agua Potable y Colector Auxiliar Nor Huechuraba.
+
+- Fiscal Ministerio de Obras Públicas.
