@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.564, de 8 de septiembre de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta La Iglesia, X Región, individualizada en el artículo 1º del decreto exento Nº919 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION INDIGENA DE PESCADORES "LLIU-CUYIM" DE QUILLALHUE.
+
+Valparaíso, 8 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
