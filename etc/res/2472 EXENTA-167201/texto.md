@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero, mediante resolución exenta No. 2.472 de 27 de Noviembre de 1987, conforme Art.
+
+5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento Aguas proporcionales que corresponden a Reserva y Sector Expropiado Predios "Hijuela o Parcela Número Uno del Plano de División de la Hacienda Lo Orozco" e "Hijuela Número Dos del Plano de División de la Hacienda Lo Orozco", de la comuna de Casablanca, V Región; y Derechos de Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 6, sitios 1 al 8, 9A, 9B, y 14 al 20, del Proyecto de Parcelación "El Labrador" formado por los predios señalados. Los derechos de agua se extraen del Canal Derecho del Embalse Orozco, del Canal Izquierdo del Embalse Orozco; de los Pozos 3310 - 7120 - A3; 3310 - 7120 - A5; 3310 - 7120 - A7 y Embalses El Gallo y El Cajón. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
