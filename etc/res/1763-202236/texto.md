@@ -1,0 +1,3 @@
+Por resolución Nº 1.763, de 20 de agosto de 2002, de esta Subsecretaría, autorízase a PESQUERA GRIMAR NORTE LIMITADA, RUT Nº 78.081.820-4, con domicilio en Avenida Pedro Aguirre Cerda Nº 7729, Antofagasta, II Región, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Norpesca Limitada, mismo RUT y mismo domicilio, en virtud de las escrituras públicas y demás documentos citados en Visto.
+
+Valparaíso, 20 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
