@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA TOCOPILLA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS, DEROGA RESOLUCIONES QUE INDICA Y DEJA SIN EFECTO AUTORIZACION QUE SEÑALA
+
+Por resolución No. 15 de 06 de Enero de 1987 de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Tocopilla S.A., domiciliada en Santiago, para operar las embarcaciones "Camaron II", "Calamar II" y "Marsopa II", en el litoral de las regiones I y II, en faenas extractivas de sardina española, jurel, caballa y anchoveta, y deróganse las resoluciones No. 403, de 1980, No. 184, de 1,981, No. 351 de 1983, todas de la Subsecretaría de Pesca, que autorizaron a la Sociedad Pesquera Chilemar S.A. para operar las embarcaciones Eperva 33, Eperva 34 y Eperva 35, que luego cambiaron su denominación por los de "Calamar II', "Camarón II" y "Marsopa II", respectivamente. Asimismo déjase sin efecto la autorización otorgada a la citada Sociedad, por resolución No. 132, de 1984, de la misma Subsecretaria, para operar, entre otras, las embarcaciones "Marsopa II" y "Calamar II".
+
+Valparaíso, 06 de Enero de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
