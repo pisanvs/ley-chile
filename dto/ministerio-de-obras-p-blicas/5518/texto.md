@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.518, de 29 de diciembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 175-C y 175-D, para la obra: "Camino: Ruta 5 Norte. Tramo: Santiago - Los Vilos. Sector: Km.
+
+25.280,00 al Km. 25.940,00"; Región Metropolitana, que figuran a nombre de Ñúnez Mecías Ernesto, rol de avalúo 150-264, comuna de Lampa, superficies de 3.757 m2 y 8.734 m2, respectivamente. La comisión de peritos integrada por los señores Andrés Eugenio Fischer Barkan, Marlene Teresa Ríos Marcuello y Ricardo Antonio Strickler Arellano, fijó con fecha 25 de agosto de 2000, el valor provisional de la indemnización en las cantidades de $74.270.000.- para el lote Nº 175-C y $56.868.800.- para el lote Nº 175-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
