@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.664, de fecha 30 de noviembre del 2004, se expropió el lote de terreno Nº 1, superficie 1.925 m²., Rol Nº 67-51, comuna de Renaico, IX Región, para la obra ''Camino Ruta R-130, Puente Tolpán Sector Renaico-Tolpán Tramo Km. 0,000 al 0,550'', y se acordó el valor de indemnización con su propietaria Alicia del Carmen Carrasco Beltrán, ascendente a la cantidad de $1.163.675.- para el lote Nº 1.-
+
+Fiscal del Ministerio de Obras Públicas.
