@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.199, de fecha 31 de julio de 2002, se expropiaron los lotes de terreno Nºs 1 y 2, superficies 1.125,90 m2 y 1.091 m2, respectivamente, rol de avalúo 237-42, comuna de Toltén, IX Región, para la obra ''Camino Costero Sur, Sector Puente Peule - Límite Regional, Tramo By Pass Queule, Km. 0,000 al 5,000'' y se acordó el valor de indemnización con su propietaria doña Isabel Huilcan Lefimilla o Isabel Feliciana Huircan Lefimilla, ascendente a la cantidad de $1.655.618.-
+
+Fiscal del Ministerio de Obras Públicas.
