@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION No. 09, DE 1984
+
+Por resolución No. 702, de 10 de Julio de 1987, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Sopesa Alimar S.A., para ampliar las actividades pesqueras de transformación que realiza en su planta ubicada en Molo Sur s/n., San Antonio, V Región, en orden a incluir entre los recursos que tiene autorizados procesar en las líneas de elaboración de congelado y salado el denominado Anchoveta. Cadúcase la resolución No. 799, de 28 de Octubre de 1986, de esta Subsecretaría de Pesca, por haber incurrido la peticionaria en la causal No. 6, del Decreto Supremo No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 10 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
