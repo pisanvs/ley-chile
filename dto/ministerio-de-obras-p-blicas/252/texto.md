@@ -1,0 +1,3 @@
+Por Decreto MOP. N°252, de 26 de agosto de 1993, se expropiaron los lotes de terreno N°s. 39, 43 y 41, superficies 1.150m2., 390m2. y 32 m2., rol de avalúo 37-36, Comuna de Chépica, para la obra Camino Nancagua-Puquillay-Chépica y se acordó precio de indemnización con sus propietarios María Cáceres Cerpa y otros y Javier H. Cáceres Cerpa, ascendente a las cantidades de $ 1.071.036.- para los lotes 39 y 43 y $ 140.548 para el lote N° 41.
+
+Fiscal del Ministerio de Obras Públicas.
