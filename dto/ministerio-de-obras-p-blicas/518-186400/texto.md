@@ -1,0 +1,3 @@
+Por decreto MOP Nº 518 de fecha 30 de abril de 2001, se expropiaron los lotes de terreno Nºs 3 y 4, superficie 703, 649 m2, respectivamente, rol de avalúo 318-14, comuna de Nacimiento, para la obra "Camino Valdebenito Río Maipo por Carrizal, Sector Puente Santa Rosa, Km. 0,0000 a Km. 0,30000" y se acordó el valor de indemnización con su propietario Oriana Inés Anguita Roa, ascendente a la cantidad de $611.582.-
+
+Fiscal del Ministerio de Obras Públicas.
