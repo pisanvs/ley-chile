@@ -1,0 +1,5 @@
+Ejecucion de deudores morosos
+
+Siendo ya demasiado culpable la morosidad de los deudores a las Cajas del Estado en los pagos de sus créditos, ocasionando gran escasez para llenar los gastos de guerra, i demas diarios que no deben sufrir retardo, por los perjuicios que resultan a la causa pública, he tenido a bien, a consulta de los Ministros de Hacienda, proveer el decreto siguiente.- Santiago, 2 de Mayo de 1818.- Los Ministros de Hacienda ejecuten por todo rigor a los deudores morosos, procediendo contra sus personas i bienes hasta hacer efectivo el pago; declarándose por deudas fiscales las que proceden de donativos, empréstitos, i toda clase de contribuciones.- O'Higgins.- Irisarri.- Para que llegue a noticia de todos, de modo que nadie pueda alegar ignorancia, publíquese por bando, imprímase i circúlese.-
+
+Palacio Directorial de Santiago de Chile, Mayo 4 de 1818.- Bernardo O'Higgins.- Antonio José de Irisarri.
