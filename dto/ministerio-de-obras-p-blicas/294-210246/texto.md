@@ -1,0 +1,3 @@
+Por decreto MOP Nº294, de 28 de marzo de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2 para la obra: Camino Tres Pinos Cañete, Sector Acceso Puente Quelén Quelén, que figura a nombre de Bosques Arauco S.A., Rol de avalúo 217-33, Comuna de Cañete, VIII Región, superficie 10.922 m2. La Comisión de Peritos fijó, en el mes de febrero de 1994, el monto de la indemnización provisional en la cantidad de $10.554.340 para el lote 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
