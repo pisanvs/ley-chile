@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 403, de 21.04.87, de. la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica el recorrido de la variante No. 24-A "La Florida-Estación Central-Mapocho", de la Línea de Taxibuses No. 24 "Intercomunal 24", autorizado por resolución exenta No. 129 de 05.02.82, quedando su nuevo trazado e individualización como sigue:
+
+VARIANTE 24-A "LA FLORIDA - ESTACION CENTRAL - LAS REJAS" Circunvalación: Desde su terminal en Av. Colombia, entre Pasaje A y B, continúa por Av. Colombia - San Pedro - Av. Vicuña Mackenna - Av. América Vespucio - Santa Rosa - Fernández Albano - Gran Avda. José Miguel Carrera - Av. Lo Ovalle - Av. La Feria - Av. Alcalde Carlos Valdovinos - Bascuñán Guerrero - Av. Libertador Bernardo O'Higgins - Las Rejas - Cinco de Abril - Lo Errázuriz.- Simón Bolívar - Reyes Católicos - Sur de Chile - Bramantes hasta Las Parcelas donde circunvala - Bramantes - Gandhi - Simón Bolívar - Lo Errázuriz - Cinco de Abril - Las Rejas - Av. Libertador Bernardo O'Higgins - Exposición - Grajales - San Alfonso - Antofagasta - El Mirador - Av. Club Hípico - Av. Alcalde Carlos Valdovinos - Av. La Feria - Av. Lo Ovalle - Gran Avda. José Miguel Carrera - Fernández Albano - Santa Rosa - Av. América Vespucio - Av. Vicuña Mackenna - San José de la Estrella - Av. Colombia hasta su terminal entre Pasaje A y B.
+
+Santiago, 23.04.87.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
