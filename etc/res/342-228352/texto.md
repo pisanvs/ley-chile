@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 342, 08 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 1830, Población La Historia, Rol de Avalúo Nº 3114-14, comuna Chiguayante, superficie 132,09 m² de terreno y 130,22 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.151, de aparente dominio de Jaime Miguel Valenzuela Hernández, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Mª Pamela Mac-Guire Acevedo, arquitecto, Ricardo Echeverría Hohmann, arquitecto y Andrés Risso Caamaño, arquitecto, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $17.741.069.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
