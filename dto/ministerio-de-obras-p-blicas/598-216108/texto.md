@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 598, de 30 de Noviembre de 1994, se expropió el lote de terreno Nº 92, superficie 185 m2., rol de avalúo 650-20, Comuna de Rancagua, para la obra Mejoramiento Ruta 5 Sur, sector Pasada por Rancagua, Camino Ruta 5 Sur, y se acordó valor de indemnización con su propietario Sociedad Mozó y Díaz Ltda., ascendente a la cantidad de $2.669.750.
+
+Fiscal del Ministerio de Obras Públicas.
