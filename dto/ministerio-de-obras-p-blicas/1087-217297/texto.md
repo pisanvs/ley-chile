@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.087, de 30 de septiembre de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 183 para la obra: "Sistema Norte-Sur. Tramo F: Carlos Valdovinos-Río Mapocho. Sector: Km. 5.420,00 al Km.
+
+5.780,00", Región Metropolitana, que figura a nombre de Serviu, rol de avalúo 944-55, comuna de Estación Central, superficie 155,5 m2. La comisión de peritos integrada por los señores Mario Zamorano Villablanca, María Pilar Quiroga González y Miguel Juan Fernández Cádiz, fijó con fecha 26 de agosto de 2002, el valor provisional de la indemnización en la cantidad de $17.057.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
