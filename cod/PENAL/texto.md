@@ -3770,6 +3770,8 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LA PROPIEDAD.
 
 El que sin la voluntad de su dueño y con ánimo de lucrarse se apropia cosa mueble ajena usando de violencia o intimidación en las personas o de fuerza en las cosas, comete robo; si faltan la violencia, la intimidación y la fuerza, el delito se califica de hurto.
 
+No obstante, la apropiación de los animales a que se refiere el inciso 2.o del artículo 449 cuya cuantía exceda de ciento cincuenta pesos, se castigará en todo caso como robo.
+
 ### II. Del robo con violencia o intimidación en las personas
 
 #### Artículo 433
@@ -3963,6 +3965,10 @@ Cuando se reunieren en un hecho varias de las circunstancias a que se señala pe
 <!-- parte:9672743 -->
 
 Se presumirá autor del robo o hurto de una cosa aquel en cuyo poder se encuentre, salvo que justifique su legítima adquisición o que la prueba de su buena conducta anterior establezca una presunción en contrario.
+
+Se presumirá también autor del robo de animales aquel en cuyo poder se encuentren partes identificables de la especie robada.
+
+La marca registrada puesta sobre el animal robado, constituye presunción de dominio a favor del dueño de la marca.
 
 Se castigará como encubridor del robo o hurto de una cosa al que la compre o reciba a cualquier título, sabiendo su origen o no pudiendo menos de conocerlo.
 
@@ -4228,6 +4234,26 @@ Pero no incurrirá en tales penas el que rozare a fuego, incendiare rastrojos u 
 
 Se presume responsable de un incendio al comerciante en cuya casa o establecimiento tiene origen aquél, si no justificare con sus libros, documentos u otra clase de prueba, que no reportaba provecho alguno del siniestro.
 
+Se presume también responsable de un incendio al comerciante cuyo seguro sea exageradamente superior al valor real del objeto asegurado en el momento de producirse el siniestro. En los casos de seguros con pólizas flotantes se presumirá responsable al comerciante que, en la declaración inmediatamente anterior al siniestro, declare valores manifiestamente superiores a sus existencias. Asimismo, se presume responsable si en todo o en parte a disminuido o retirado las cosas aseguradas del lugar señalado en la póliza respectiva sin motivo justificado o sin dar aviso previo al asegurador.
+
+Las presunciones de este artículo no obstan a la apreciación de la prueba en conciencia.
+
+#### Artículo 483 a)
+
+<!-- parte:9682589 -->
+
+El contador o cualquiera persona que falsee o adultere la contabilidad del comerciante que sufra un siniestro, será sancionado con la pena señalada en el inciso segundo del artículo 197; pero no le afectará responsabilidad al contador por las existencias y precios inventariados.
+
+#### Artículo 483 b)
+
+<!-- parte:9682590 -->
+
+A los comerciantes responsables del delito de incendio se les aplicará también una multa de mil a cien mil pesos, tomándose en cuenta para graduarla la naturaleza, entidad y gravedad del siniestro y las facultades económicas del inculpado.
+
+Si no se paga la multa el condenado sufrirá por vía de sustitución y apremio, un día de reclusión por cada cincuenta pesos de multa, no pudiendo exceder la reclusión de dos años.
+
+La multa impuesta se mantendrá en una cuenta especial a la orden de la Superintendencia de Compañía de Seguros Sociedades Anónimas y Bolsas de Comercio, la cual anualmente la distribuirá proporcionalmente entre los distintos Cuerpos de Bomberos en el país.
+
 ### X. De los daños
 
 #### Artículo 484
@@ -4454,7 +4480,7 @@ Sufrirán la pena de prisión en su grado mínimo conmutable en multa de uno a t
 
 2.° El que pudiendo, sin grave detrimento propio, prestar a la autoridad el auxilio que reclamare en casos de incendio, inundación, naufragio u otra calamidad, se negare a ello.
 
-3.° El que teniendo obligación de presentar un recién nacido al funcionario encargado del registro civil, no lo hiciere dentro del término legal.
+3.° Derogado.
 
 4.° El que no diere los partes de defunción, contraviniendo a la ley o reglamentos.
 
