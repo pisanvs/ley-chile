@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº801 de fecha 31 de mayo de 2002, se expropiaron los lotes de terreno Nº65 y 68, superficie 227 y 103 m2., rol de avalúo Nº163-3, comuna de San Clemente, para la obra ''Camino: Los Robles-Huencuecho-Bajo Perquin, sector Huencuecho-Bajo Perquin, tramo Km. 46,140.00 a Km. 76,107.70'', VII Región y se acordó el valor de indemnización con su propietario Pedro Nolasco Saavedra Vergara, ascendente a la cantidad de $432.062.-
+
+Fiscal del Ministerio de Obras Públicas.
