@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº539, DE 2004
+
+Por resolución Nº 539, del 1 de diciembre de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IX Región de la Araucanía, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº 509/2004, del mismo origen, para la instalación y operación de una Planta Revisora Clase AB, en la Comuna de Temuco, y una Planta Revisora Clase AB, en la comuna de Angol, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la IX Región de la Araucanía, y la concesionaria "Applus Revisiones Técnicas Chile S.A.", en la misma fecha indicada. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.-
+
+Patricio Gálvez Strappa, Secretario Regional Ministerial de Transportes y Telecomunicaciones IX Región de la Araucanía.
