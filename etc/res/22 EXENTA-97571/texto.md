@@ -1,0 +1,3 @@
+Por resolución exenta Nº22, de fecha 24 de febrero de 1998, del Ministerio de Economía, Fomento y Reconstrucción, se ha rechazado el recurso de reclamación interpuesto por la Sociedad Industrial Pesquera Mc Hugh y Compañía Limitada, Rut: 81.730.400-1 en contra de la resolución Nº 1.579, de 1997 de la Subsecretaría de Pesca.-
+
+Oscar Landerretche Gacitúa, Subsecretario de Economía, Fomento y Reconstrucción.
