@@ -1,0 +1,3 @@
+Por resolución Nº 2.151, de 10 de octubre de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 98031022 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS MARISCADORES Y RECOLECTORES DE ORILLA DEL PUERTO DE CALDERA, para instalar y operar el centro de cultivo ubicado en Bahía Inglesa, comuna de Caldera, provincia de Copiapó, III Región.
+
+Valparaíso, 10 de octubre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
