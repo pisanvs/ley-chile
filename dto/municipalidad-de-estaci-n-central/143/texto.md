@@ -1,0 +1,5 @@
+EXTRACTOS DE DECRETOS DE EXPROPIACION
+
+Alcalde I. Municipalidad Estación Central, mediante Decreto No. 143 de 19 de abril de 1988, dispone expropiación total, conforme DS 458 Ministerio de la Vivienda de 1976, y DL 1.289, 2.186 y 3.464 del inmueble correspondiente a Comuna de Estación Central, Parcela No. 46 del Plano de Parcelación fundo Lo Errázuriz archivado No. 3.551-A, 1943, Conservador de Bienes Raíces de Santiago, aparentemente propiedad de don René Carrillo Zalfate, para ampliación servicio municipal de disposición y tratamiento de basura Vertedero Lo Errázuriz. Deslinde inmueble expropiado: Norponiente, 171 mts. camino Fernando Riesco; Suroriente, 82 mts. Zanjón de la Aguada; Nororiente, 151,10 mts. Parcela 45 y Surponiente, 190 mts. Parcela 52, canal de por medio. Indemnización provisional $ 5.115.600, determinada por comisión integrada por los Sres. René Ureta K., Ramón Undurraga M., y Carlos del Pedregal S., según informe de 31 de marzo de 1988.
+
+Raúl Alonso Mahn, Alcalde.- Agustín Carricajo Castro, Secretario Municipal.
