@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.285, de 31 de mayo de 1999, se expropiaron los lotes de terreno, No. s. 25 y 26, superficies 1.450 y 6.202 m2. respectivamente, roles de avalúo 172-6 y 137-34, comuna de Conchi, para la obra Camino Chonchi Teupa X Región y se acordó precio de indemnización con sus propietarios Efraín Saldivia Aguilar y Sociedades Inversiones e Inmobiliaria La Capilla S.A. y otra, ascendente a las cantidades de $ 1.408.600 y $ 4.860.419.-
+
+Fiscal del Ministerio de Obras Públicas.
