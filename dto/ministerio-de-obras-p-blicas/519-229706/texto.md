@@ -1,0 +1,3 @@
+Por decreto MOP Nº 519 de 30 de junio de 2004, se expropiaron los lotes de terreno Nº 92 y 93, superficies 5.840 y 2.681 m² respectivamente, rol de Avalúo 207-3, comuna de Panguipulli, para la obra "Camino Ch-203, sector Bifurcación Coñaripe - Choshuenco, (Accesos a Puentes) tramo Km. 56.68000 a Km. 93,28612", X Región y se acordó el valor de la indemnización con Agrícola Ganadera y Forestal Molco Ltda., ascendente a la cantidad de $10.450.638.
+
+Fiscal del Ministerio de Obras Públicas.
