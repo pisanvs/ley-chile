@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Por resolución Nº 59 de 12 de junio de 1998, Serviu II Región, dispuso conforme D.L. 2.186 de 1978 y para ejecución proyecto ''Mejoramiento Eje San Martín e Iquique-Antofagasta'', expropiación parcial del inmueble ubicado en calle Iquique Nº 4608, rol de avalúo Nº 1432-1, comuna de Antofagasta, superficie 28,13 m2., de aparente dominio de doña Ester Díaz Esquivel, según inscripción fs. 1746 vta. Nº 2476, año 1996, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Sr. Alejandro Bargsted Barcells, Sra. Eleonora Román Latorre, arquitectos; y Sr. Héctor Villegas González, constructor civil, según informe de 22 de mayo de 1998, fijó monto provisional indemnización en $6.837.746.-, pagadera al contado.
+
+Antofagasta, 18 de junio de 1998.- Director Serviu II Región.
