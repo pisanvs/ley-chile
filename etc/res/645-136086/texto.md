@@ -1,0 +1,3 @@
+Por resolución Nº 645, de 22 de abril de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nºs 712 y 713 de 1998, de esta Subsecretaría, que respectivamente declararon la caducidad de las resoluciones Nº 925 de 1995 y Nº 910 de 1997, de esta misma repartición, y denegaron la transferencia de la nave ''Isla López'' de SOCIEDAD DE ARMADORES PESQUEROS PORVENIR S.A. a Sociedad Pesquera Coloso S.A.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
