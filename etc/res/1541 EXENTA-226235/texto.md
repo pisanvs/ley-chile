@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.541, de 4 de junio de 2004, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL MELINKA Y COMPAÑIA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Bellavista Nº 059-A, Punta Arenas, XII Región, donde podrá elaborar en la línea de proceso de Cocido, Fresco-enfriado y Congelado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 4 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
