@@ -1,0 +1,3 @@
+Por Resolución número 325, de 19 de Febrero de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, modifíquese el numeral 2° de la Resolución N° 77, de 1996, de esta Subsecretaría, que autorizó a PESQUERA PLAYA BLANCA S.A., para iniciar actividades pesqueras extractivas con una nave en construcción en el litoral de la III y IV Regiones, en el sentido de incluir entre los recursos hidrobiológicos autorizados, la especie Sardina española.
+
+Valparaíso, 19 de Febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
