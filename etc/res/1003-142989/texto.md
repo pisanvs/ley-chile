@@ -1,0 +1,5 @@
+AUTORIZA A LA EMPRESA PESQUERA NICHIRO CHILE LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.003, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Empresa Pesquera Nichiro Chile Ltda., domiciliada en Santiago para capturar y procesar a bordo del barco fábrica "Akebono Maru 75", autorizado para operar por la resolución No. 146, de 1979 de la Subsecretaría de Pesca, durante el período comprendido entre los meses de diciembre de cada año a marzo del año siguiente, además los recursos que tiene autorizados por el numeral 4° de dicha Resolución el recurso Krill, Euphausia superba, en el área situada al Sur de los 60° de latitud Sur y la zona comprendida entre dicha latitud y la convergencia Antártica, fijados por la "Convención sobre la Conservación de los Recursos Vivos Marinos Antárticos".
+
+Valparaíso, 29 de Diciembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
