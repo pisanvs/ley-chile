@@ -1,0 +1,3 @@
+Por Resolución N° 892, de 15 de mayo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase el proyecto técnico de incorporación de especies presentado por SALMONES TECMAR S.A., al centro de cultivo autorizado por Resoluciones N° 1262, de 1989 y N° 214, de 1995, ambas de esta Subsecretaría y la Resolución N° 754, de 1995, de la Subsecretaría de Marina, ubicado al Sur Este de Isla Lemuy, Comuna de Puqueldón, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 69, incisos 3° y 4°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 15 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
