@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 12 de 29 de enero de 1990, se expropiaron los lotes N°s. 1 y 2, superficies 6.933 M2. y 578 M2., roles de avalúos 265-100 y 265-102, Comuna El Monte, para la ejecución de la obra Autopista Santiago San Antonio, Proyecto Enlace Pomaire y Proyecto Plaza Peaje El Monte y se acordó el precio de indemnización con sus propietarios Elcira Lastenia León Astudillo y Cirilo Daille Jara, ascendentes a $ 4.398.745 y $ 348.189.
+
+Fiscal del Ministerio de Obras Públicas.
