@@ -1,0 +1,3 @@
+Por Resolución No. 900 Octubre 31 de 1991, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza a la empresa chilena Transportes Géminis Limitada (Géminis Limitada), para efectuar una (1) frecuencia semanal adicional a las otorgadas por Resolución No. 77 de 28 de Enero de 1985, en la realización del servicio Antofagasta (Chile) y Salta (Argentina), durante el período comprendido entre el 15.11 y el 15.03 de cada año.-
+
+Sergio González Tagle, Subsecretario de Transportes.
