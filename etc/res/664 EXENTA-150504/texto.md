@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 664 de 27.05.87, conforme. Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden al Proyecto de Parcelación "Rosario de Codao B." de la Comuna de Peumo, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 58 a la 60, formado por el predio "Hacienda y Viña Rosario de Codao.". Los Derechos de Agua se extraen del canal Aguas Claras derivado del Río Cachapoal.- Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
