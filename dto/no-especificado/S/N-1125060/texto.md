@@ -1,0 +1,7 @@
+Vacancias en el coro de la Iglesia Catedral.- Nombramientos.
+
+Santiago i Octubre 13 de 1818.
+
+Habiendo vacado en el coro de la Santa Iglesia Catedral de este Obispado el empleo de chantre, por muerte del doctor don Miguel Palacios, que lo servia, nombro en su lugar al tesorero doctor don Pedro de Vivar. Por tesorero de resultas del ascenso de Vivar, nombro al primer canónigo de merced don Jerónimo Herrera, debiendo, por consecuencia, ascender los demas canónigos de merced un grado cada uno en la misma clase por el órden de la escala en que están. En la vacante que por estos ascensos resulta de la última canonjía de merced, nombro al racionero don José Tomas Loza, entendiéndose ascendidos por esta promocion los siguiente racioneros, por el órden prevenido para los canónigos de merced. Para la vacante de la última racion, nombro al cura interino de San Lázaro don José Manuel Verdugo. Espídanse a favor de los agraciados los correspondientes títulos, con declaracion de que se les absuelva del derecho de la media cuota por esta vez, atendiendo a la minoracion de sus rentas, procedente de la notable baja de los remates de diezmos en el presente año por las circunstancias de la guerra, cuya gracia se estenderá estensiva por igual razon a los demas canónigos que fueron promovidos por decreto de 8 de Agosto último.-
+
+O'Higgins.- Irisarri.
