@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 231, de 30 de Septiembre de 1991, se expropió el Lote de Terreno Nº 2, superficie 240 m2., rol de avalúo 206-21, Comuna de San Javier, para la obra Camino Longitudinal Sur, Ruta 5, Segunda Calzada, Sector Pangulemo-San Javier., y se acordó precio de indemnización con su propietario don Manuel Opazo Mesa, ascendente a la cantidad de $ 3.119.200.-
+
+Fiscal del Ministerio de Obras Públicas.
