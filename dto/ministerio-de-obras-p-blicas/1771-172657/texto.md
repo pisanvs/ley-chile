@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.771, de fecha 30 de junio de 1999, se ordenó y aprobó el plano y cuadro de expropiación de los lotes de terreno Nºs. 28 y 29, y por decreto MOP Nº1.627, de fecha 28 de abril de 2000, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $2.418.320, lote 28 y $693.120, lote 29, para la ejecución de la obra Camino Tirúa Trovolhue Carahue, Sector Kms. 11.104.00 al 15.133.00; el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
