@@ -1,0 +1,3 @@
+Por resolución No. 400 de 12 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución No. 625, de 1989, de esta Subsecretaría, por la cual se autorizó a EMPRESA PESQUERA NICHIRO CHILE LTDA., domiciliada en La Pastora No. 138, piso 3, Las Condes, Santiago, para el cultivo de 25.000 ovas de salmón sockeye en la localidad de Puerto Montt, en el sentido de eliminar en el numeral 2 la autorización otorgada respecto del recurso salmón sockeye (Oncorhynchus nerka).
+
+Valparaíso, 12 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
