@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.488, de 23 de diciembre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 67, para la obra Camino Chovellen - Cobquecura, sector Chovellen - Límite Regional, Tramo 18,260.00 a Km. 35,158.60, VII Región, que figura a nombre de Orrego Plaza Víctor Manuel, rol de avalúo 290-52, superficie 10.717 m2, comuna de Pelluhue. La Comisión de Peritos, con fecha 15 de junio de 2000, fijó la indemnización provisional en la cantidad de $20.980.800, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
