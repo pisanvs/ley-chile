@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.403, de 27 de agosto de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203121002 presentada por HECTOR MARIO FRANCISCO FELIU SCOTTI, para instalar y operar un centro de cultivo ubicado en seno Skyring bahía sin nombre al este de Bahía Rebolledo, XII Región.
+
+Valparaíso, 27 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
