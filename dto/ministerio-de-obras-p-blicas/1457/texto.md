@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.457, de 31 de agosto de 1998, se exporopiaron los lotes de terreno Nºs. 11 y 14, superficies 8.041,6 m² y 14.716,2 m², rol de avalúo 118-51, comuna de Quilicura, para la obra Camino Santiago-Colina-Los Andes, Sector A, Américo Vespucio - By Pass Colina, y se acordó el valor de indemnización con su propietaria Julia del Carmen Ruz Arenas, ascendente a la cantidad total de $332.258.545.-
+
+Fiscal del Ministerio de Obras Públicas.
