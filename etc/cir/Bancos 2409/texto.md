@@ -7382,13 +7382,13 @@ Debe tenerse presente también, que a las cuentas correspondientes a préstamos 
 
 Las instituciones financieras suspenderán el devengo de los intereses y reajustes en las cuentas de "Intereses por Cobrar" e "Intereses Ganados", registrandolos solamente en cuentas de orden, en los casos que a continuacion se indican:
 
-a) Colocaciones clasificadas en categoda "D".
+a) Colocaciones clasificadas en categorías D1 o D2.
 
-Los intereses y reajustes devengados por colocaciones vigentes que se encuentren clasificadas en categoría "D", se dejaran de contabilizar en las correspondientes cuentas de intereses y reajustes por cobrar y en las de resultados, a partir de la fecha en que se hubiera efectuado dicha clasificación o en que esta Superintendencia comunique esa determinación a la institución financiera fiscalizada.
+Los intereses y reajustes devengados por colocaciones vigentes que se encuentren clasificadas en categorías D1 o D2, se dejaran de contabilizar en las correspondientes cuentas de intereses y reajustes por cobrar y en las de resultados, a partir de la fecha en que se hubiera efectuado dicha clasificación.
 
-b) Colocaciones clasificadas en categoría "C" por mas de un año o reclasificadas desde la categoría "D".
+b) Colocaciones clasificadas en categoría C4 por más de un año o reclasificadas desde las categorías D1 ó D2.
 
-Las entidades financieras suspenderán la contabilización del devengo de los intereses y reajustes de créditos vigentes, cuando estos hayan completado un período superior a un año clasificados en categoría "C". En el caso de créditos que se reclasifiquen de categoría "D" a categoría "C", se mantendrá la suspensión a que estaban afectos por el hecho de encontrarse en aquella categoría.
+Las entidades financieras suspenderán la contabilización del devengo de los intereses y reajustes de créditos vigentes, cuando éstos hayan completado un período superior a un año clasificados en categoría C4. En el caso de créditos que se reclasifiquen de categoría D1 o D2 a categoría C4, se mantendrá la suspensión a que estaban afectos por el hecho de encontrarse en aquellas categorías.
 
 c) Colocaciones vigentes otorgadas bajo condiciones especiales.
 
@@ -7438,7 +7438,7 @@ Los reajustes e intereses de colocaciones vencidas a que se refieren los numeral
 
 ### 4. Percepción o capitalización de reajustes e intereses suspendidos
 
-Los reajustes e intereses suspendidos se reconocerán en las cuentas de resultados en el momento en que sean efectivamente percibidos o cuando sean capitalizados por renegociación de los respectivos créditos, debiendo constituirse, cuando corresponda, las provisiones sobre cartera renegociada según lo dispuesto en el N° 2 del titulo I del Capitulo 8-29 de esta Recopilación.
+Los reajustes e intereses suspendidos se reconocerán en las cuentas de resultados en el momento en que sean efectivamente percibidos o cuando sean capitalizados por renegociación de los respectivos créditos.
 
 Los intereses y reajustes que sean reconocidos en cuentas de resultado con motivo de su pago o capitalización, deberán revertirse de las cuentas de orden en las que se encontraban registrados, a lo menos al termino del mes en que se haya procedido a su pago o capitalización.
 
@@ -8300,7 +8300,7 @@ Por tratarse de categorías que reflejan la capacidad de pago del deudor, pueden
 
 Para efectos de constituir las provisiones, todos los créditos comerciales y operaciones de leasing comercial de un mismo deudor, quedarán encasillados en la categoría del deudor, debiendo utilizarse los porcentajes aprobados por el Directorio.
 
-2.3.2.- Cartera de deudores con créditos deteriorados.
+2.3 2 - Cartera de deudores con riesgo superior al normal.
 
 En este segmento se ubicarán los deudores con capacidad de pago insuficiente en las situaciones previsibles. Las categorías que se indican corresponden a un encasillamiento basado en el nivel de pérdida esperado de créditos comerciales y operaciones de leasing comercial del cliente en su conjunto, cuantificado de acuerdo a la metodología utilizada por la institución financiera.
 
@@ -8330,7 +8330,9 @@ Este método (análisis de "camadas") se basa en el seguimiento de créditos oto
 
 Tratándose de las evaluaciones grupales, las provisiones correspondientes a los créditos se constituirán siempre de acuerdo con la pérdida estimada mediante los métodos que se utilicen, es decir, no se aplicarán homologaciones como las previstas en el numeral 2.3.1 y 2.3.2, sin perjuicio de la posibilidad de aplicar criterios similares en esos métodos.
 
-4.- Garantías.
+4.- Garantías y bienes entregados en leasing.
+
+4.1.- Garantías.
 
 Una garantía puede considerarse como una segunda fuente de pago sólo si está legalmente bien constituida y no existe incertidumbre respecto a su eventual ejecución y/o liquidación a favor de la institución financiera acreedora.
 
@@ -8339,6 +8341,10 @@ Al tratarse de garantías reales (hipotecas o prendas), la estimación de pérdi
 La necesidad de retasar los bienes o de reexaminar sus condiciones físicas, dependerá de la posibilidad de que las variaciones de precios o deterioros físicos de los bienes incidan en la recuperación total de los créditos con problemas de pago.
 
 Lo anterior es sin perjuicio de los criterios distintos de valorización de garantías que deben utilizarse para el solo efecto de la ampliación de los límites de crédito, tratados en el Capítulo 12-3 de esta Recopilación.
+
+4.2.- Bienes entregados en leasing.
+
+Las estimaciones de pérdida para efectos de constituir las provisiones de acuerdo con los métodos de evaluación que se apliquen, considerarán el estado de los bienes arrendados y los gastos que implica su rescate y liquidación o eventual recolocación.
 
 5.- Segmentación de la cartera.
 
@@ -8378,13 +8384,13 @@ Las provisiones necesarias para cubrir adecuadamente la cartera de colocaciones 
 
 8.1.- Provisiones determinadas por los métodos de evaluación individual.
 
-8.1.1.- Provisiones sobre cartera normal.
+8.1.1 - Provisiones sobre cartera con riesgo normal.
 
-Las "provisiones sobre cartera normal" serán aquellas que cubren los créditos de los deudores clasificados en las categorías de que trata el numeral 2.3.1 de este título y cuyos porcentajes deben ser aprobados por el Directorio de la institución financiera según lo que se indica en ese numeral.
+Las "provisiones sobre cartera con riesgo normal" serán aquellas que cubren los créditos de los deudores clasificados en las categorías de que trata el numeral 2.3.1 de este título y cuyos porcentajes deben ser aprobados por el Directorio de la institución financiera según lo que se indica en ese numeral.
 
-8.1.2.- Provisiones sobre cartera deteriorada.
+8 1.2 - Provisiones sobre cartera con riesgo superior al normal.
 
-Se identificarán como "provisiones sobre cartera deteriorada", aquellas que se derivan de la aplicación de los métodos de evaluación individual, correspondientes al segmento de la cartera a que se refiere el numeral 2.3.2 de este título.
+Se identificarán como "provisiones sobre cartera con riesgo superior al normal", aquellas que se derivan de la aplicación de los métodos de evaluación individual, correspondientes al segmento de la cartera a que se refiere el numeral 2.3.2 de este título.
 
 8.2.- Provisiones determinadas por los métodos de evaluación grupal.
 
@@ -8400,7 +8406,7 @@ II.- OTRAS DISPOSICIONES.
 
 1.- Provisiones para los efectos del artículo 66 de la Ley General de Bancos.
 
-Constituyen provisiones para los efectos del artículo 66 de la Ley General de Bancos aquellas que tienen un carácter de provisiones generales y que corresponden a las mencionadas en los numerales 8.1.1 y 8.3 del título I, esto es, las provisiones sobre cartera normal y las provisiones adicionales.
+Constituyen provisiones para los efectos del artículo 66 de la Ley General de Bancos aquellas que tienen un carácter de provisiones generales y que corresponden a las mencionadas en los numerales 8.1.1 y 8.3 del título I, esto es, las provisiones sobre cartera con riesgo normal y las provisiones adicionales.
 
 Por consiguiente, la suma de esas provisiones, hasta por un monto equivalente al 1,25 % de los activos ponderados por riesgo, se computara como patrimonio efectivo de acuerdo con lo indicado en el artículo 66 de la Ley General de Bancos.
 
@@ -8412,7 +8418,7 @@ Las provisiones establecidas en este Capítulo se refieren, como es natural, a l
 
 El N° 4 del artículo 31 de la Ley sobre Impuesto a la Renta establece que son deducibles como gastos tributarios las provisiones sobre créditos vencidos, a las cuales se refieren las instrucciones conjuntas impartidas en su oportunidad mediante la Circular N° 2.002-450, por el Director del Servicio de Impuestos Internos y el Superintendente de Bancos e Instituciones Financieras.
 
-Para esos efectos tributarios, las instituciones financieras pueden mantener en su contabilidad las cuentas necesarias para demostrar las provisiones individuales sobre cartera vencida a que se refiere la Circular antes mencionada, entendiendo que para la información financiero-contable ellas corresponden a una parte de las provisiones sobre cartera deteriorada o las provisiones grupales, según sea el caso, cuyos montos totales se determinan por las metodologías de estimación de pérdidas mencionadas en este Capítulo.
+Para esos efectos tributarios, las instituciones financieras pueden mantener en su contabilidad las cuentas necesarias para demostrar las provisiones individuales sobre cartera vencida a que se refiere la Circular antes mencionada, entendiendo que para la información financiero-contable ellas corresponden a una parte de las provisiones sobre cartera con riesgo superior al normal o las provisiones grupales, según sea el caso, cuyos montos totales se determinan por las metodologías de estimación de pérdidas mencionadas en este Capítulo.
 
 3.- Provisiones por riesgo de crédito de otros activos.
 
@@ -8422,27 +8428,13 @@ Las provisiones sobre otros activos diferentes a las colocaciones, deben ceñirs
 
 Todas las provisiones, sea sobre colocaciones u otros activos, deben constituirse en pesos, moneda chilena, aun cuando cubran créditos en moneda extranjera.
 
-5.- Aplicación y disminución de las provisiones.
+5.- Presentación de los saldos.
 
-Los castigos de los activos deberán efectuarse siempre aplicando las provisiones constituidas.
-
-Los ingresos por provisiones que se liberen por cualquier motivo, se informarán en el mismo rubro en que incluyen los gastos por su constitución, de manera que se refleje el efecto neto en resultados por provisiones y castigos.
+Las provisiones constituidas y los resultados por constitución o liberación de provisiones sobre la cartera de colocaciones, se informarán en las cuentas del Sistema de Información de esta Superintendencia que se indican en el Anexo N° 3 de este Capítulo, las que incluyen también los ingresos por recuperación de los créditos castigados.
 
 III.- DISPOSICIONES TRANSITORIAS.
 
-1.- Aplicación de las normas.
-
-Las disposiciones del presente Capítulo serán aplicadas por cada institución financiera en reemplazo de lo dispuesto sobre la materia en los Capítulos 8-28, 8-29, 8-37, 8-38 y 12-1 de esta Recopilación.
-
-El desarrollo de sus modelos de evaluación, con la consiguiente aprobación de ellos por parte del Directorio, debe quedar concluido a más tardar en enero de 2004, a fin de aplicar los nuevos criterios en ese ejercicio.
-
-Las instituciones clasificadas en Categoría I por solvencia y gestión, que estén en condiciones de aplicar sus modelos de evaluación durante el año 2003, podrán solicitar a esta Superintendencia la aplicación de las nuevas normas para ese ejercicio.
-
-En el curso de los meses de marzo y septiembre de 2003, se enviará a esta Superintendencia una comunicación para informar acerca del grado de avance en el desarrollo y prueba de los métodos de evaluación de que trata este Capítulo.
-
-2.- Conformidad del Directorio con el nivel de provisiones antes de la aplicación de las normas.
-
-La disposición del numeral 7.1 del título I de este Capítulo, relativa a la conformidad del Directorio respecto al nivel de provisiones que mantiene la institución, se aplicará a contar del ejercicio 2002. En todo caso, mientras no se apliquen las demás disposiciones del presente Capítulo, las mayores provisiones que pudiera exigir el Directorio incrementarán las provisiones globales de que trata el Capítulo 8-29 de esta Recopilación y en ningún caso pueden computarse como patrimonio efectivo.
+Las normas del presente Capítulo regirán a contar del 1° de enero de 2004, con excepción de la disposición del numeral 7.1 de su título I que rige de inmediato En todo caso, las mayores provisiones que pudiera exigir el Directorio antes del año 2004 de acuerdo con ese numeral, no se computarán como patrimonio efectivo.
 
 ANEXO N° 1
 
@@ -8481,6 +8473,68 @@ Instituciones calificadas en categorías 3 y 4.
 - La institución financiera deberá mantener el o los niveles mínimos de provisiones que indique esta Superintendencia hasta tanto no le autorice lo contrario.
 
 - La categoría será un factor determinante para la clasificación según gestión, de manera que en ningún caso la institución financiera quedará clasificada en categoría A para ese efecto.
+
+ANEXO N°3
+
+INFORMACION DE SALDOS SOBRE CONSTITUCION, USO Y LIBERACION DE PROVISIONES POR RIESGO DE CREDITO DE LA CARTERA DE COLOCACIONES.
+
+Para efecto de informar los saldos en el Sistema de Información de esta Superintendencia, se utilizarán las siguientes cuentas:
+
+PROVISIONES CONSTITUIDAS - PARTIDA 4205
+
+- Provisiones sobre cartera con riesgo normal
+
+- Provisiones sobre cartera con riesgo superior al normal
+
+- Provisiones grupales créditos comerciales
+
+- Provisiones grupales créditos de consumo
+
+- Provisiones grupales créditos vivienda
+
+- Provisiones grupales factoring
+
+- Provisiones adicionales
+
+RESULTADOS - PARTIDA 6110
+
+Gastos por constitución de provisiones
+
+- Provisiones sobre cartera con riesgo normal
+
+- Provisiones sobre cartera con riesgo superior al normal
+
+- Provisiones grupales créditos comerciales
+
+- Provisiones grupales créditos de consumo
+
+- Provisiones grupales créditos vivienda
+
+- Provisiones grupales factoring
+
+- Provisiones adicionales
+
+Ingresos por liberación de provisiones
+
+- Liberación de provisiones sobre créditos comerciales
+
+- Liberación de provisiones sobre créditos consumo
+
+- Liberación de provisiones sobre créditos vivienda
+
+- Liberación de provisiones sobre factoring
+
+- Liberación de provisiones adicionales
+
+Ingresos por recuperación de créditos castigados
+
+- Recuperación de créditos comerciales castigados
+
+- Recuperación de créditos consumo castigados
+
+- Recuperación de créditos de vivienda castigados
+
+- Recuperación de factoring castigados.
 
 CAPITULO 8-1 (Bancos)
 
@@ -8546,11 +8600,11 @@ Los bancos deberán adaptar sus sistemas de información para mantener, en todo 
 
 A nivel de cuentas individuales, los sobregiros deberán registrarse directamente en la cuenta corriente bancaria del cliente y no en cuentas complementarias, de manera que los abonos que en seguida se hagan a la cuenta, rebajen automáticamente las cantidades sobregiradas.
 
-El monto de sobregiro que permanece al cierre de las operaciones, esto es, el sobregiro contable y los giros contra valores en cobro, debe ser reflejado en la cuenta "Deudores en cuentas corrientes ordinarias", de la partida 1105.
+El monto de sobregiro que permanece al cierre de las operaciones, esto es, el sobregiro contable y los giros contra valores en cobro, debe ser reflejado en la cuenta "Deudores en cuentas corrientes ordinarias", de las partidas 1110 ó 1115, según sea el caso.
 
 6.3. Sobregiros cubiertos con créditos en cuentas corrientes especiales.
 
-En caso de que se haya pactado el procedimiento de cubrir los sobregiros producidos mediante el uso de una cuenta corriente especial de crédito, la utilización de las líneas de crédito se registrará en la cuenta "Deudores en cuentas corrientes especiales", de la partida 1105.
+En caso de que se haya pactado el procedimiento de cubrir los sobregiros producidos mediante el uso de una cuenta corriente especial de crédito, la utilización de las líneas de crédito se informará en la cuenta "Deudores en cuentas corrientes especiales", de la partida 1110 ó 1115, según corresponda.
 
 6.4. Contabilización de los montos pactados.
 
@@ -10166,7 +10220,7 @@ El devengo de intereses y reajustes que las instituciones financieras efectúen 
 
 El valor par de los créditos adquiridos se registrará en la cuenta de orden "Créditos adquiridos de CORFO-vigentes " o "Créditos adquiridos de CORFO vencidos", de la partida 9153, según la situación en que se encuentre cada crédito en relación con lo indicado en el N° 4 del Capítulo 8-26 de esta Recopilación Actualizada de Normas. Dichas cuentas se ajustarán como consecuencia de los pagos recibidos y por el devengo de reajustes e intereses, de acuerdo con las condiciones de cada crédito, independientemente de los registros que deban hacerse, cuando corresponda, en las cuentas de activo anteriormente señaladas.
 
-En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese registrado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones del numeral 4.1 del título IV de dicho Capítulo.
+En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese registrado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones de dicho Capítulo.
 
 4.- Pagos efectuados por los deudores.
 
@@ -10192,7 +10246,7 @@ Los créditos restituidos por el Banco Central de Chile a las instituciones fina
 
 Las colocaciones registradas en la cuenta "Créditos recomprados al Banco Central - vigentes" incluirán los intereses y reajustes devengados hasta el cierre de cada mes, en tanto que las colocaciones de la cuenta "Créditos recomprados al Banco Central - vencidos" incluirán los intereses y reajustes devengados hasta la fecha de vencimiento.
 
-En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese registrado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones del numeral 4.1 del título IV de dicho Capítulo.
+En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese registrado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones de dicho Capítulo.
 
 2.- Límites de crédito.
 
@@ -10460,10 +10514,6 @@ Los resultados por las ventas de inversiones financieras se registrarán en una 
 
 - "Pérdida por venta de otros valores o documentos", de la partida 5620.
 
-7.6. Inversiones financieras vencidas.
-
-Conforme a lo dispuesto en el Capítulo 8-29 de esta Recopilación Actualizada de Normas, las inversiones financieras que no fueren recuperadas dentro de los 90 días siguientes a su vencimiento, deberán ser castigadas. Mientras no se castiguen se mantendrán en su cuenta de origen.
-
 ### 8. Registro de las ventas con pacto de retrocompra
 
 Las instituciones que vendan instrumentos de su cartera de inversiones financieras con pacto de retrocompra deberán registrar las operaciones en la forma que se señala a continuación:
@@ -10537,16 +10587,6 @@ El derecho a la restitución o pago contra la institución financiera adquirente
 No obstante lo anterior, cuando el documento cedido corresponda a uno de la "cartera permanente" y se haya pactado la restitución de un instrumento que se puede reingresar a esa cartera, el ajuste a valor de mercado, excluida la parte que corresponda a los reajustes e intereses que devengaría el instrumento cedido de no mediar la operación, podrá hacerse directamente contra una cuenta de patrimonio, tal como se hacía con el instrumento antes de su cesión.
 
 Para reflejar los saldos por las operaciones de que se trata, se utilizará la cuenta de deudores por préstamos de valores de la partida 1690; de ajuste de ese activo de la partida 7910 ó 5900; y de comisiones ganadas de la partida 7530, mencionadas en el Anexo N° 2 de este Capítulo.
-
-### 12. Provisiones
-
-Las provisiones que se constituyan según lo señalado en el N° 6 de este Capítulo deberán registrarse en la forma prevista en el Capítulo 8-29 de esta Recopilación Actualizada de Normas.
-
-### 13. Sistemas de información y control
-
-Para el tratamiento contable dispuesto en este Capítulo, se da por entendido que las instituciones financieras deben utilizar sistemas de información y control que permitan, a lo menos: la individualización de cada inversión o instrumento, la fecha y la tasa de compra, sus valores nominal, par, contable y de mercado al cierre de un mes y la situación en que se encuentran los respectivos documentos, esto es, si corresponden o no a la cartera permanente para efectos de su ajuste a valor de mercado, si se encuentran disponibles para la venta o si, por el contrario, están entregados en garantía, se encuentran enajenados al Banco Central de Chile con pacto de retroventa vigente o están intermediados (cedidos a terceros con pacto de recompra).
-
-Por otra parte, las instituciones financieras deben tener presente que las cuentas que se disponen en este Capítulo corresponden sólo a aquellas que deben ser informadas a esta Superintendencia, lo que no impide el uso de subcuentas para sus propias necesidades de información o adecuadas a los sistemas que utilicen. Se entiende, naturalmente, que la apertura de cuentas en la contabilidad de cada institución considerará también el tipo de reajustabilidad y la moneda que corresponda.
 
 ANEXO N° 1
 
@@ -10754,19 +10794,15 @@ Los importes correspondientes a los créditos pagaderos en cuotas que se hubiere
 
 Los créditos registrados en cartera vencida que se renegocien, se reingresarán a la cartera vigente junto con los intereses y reajustes que se hubieren suspendido por las causales señaladas en el N° 3 del título II del Capítulo 7-1 de esta Recopilación, los cuales se reconocerán en las respectivas cuentas de resultados y se considerarán capitalizados.
 
-Junto con el reingreso de los créditos renegociados a la cartera vigente, se deberán constituir, cuando corresponda, las provisiones por cartera renegociada de acuerdo con las instrucciones del N° 2 del título I del Capítulo 8-29 de esta Recopilación.
+Cuando ese procedimiento repercuta en una mayor provisión por riesgo de crédito o por riesgo país, al momento de registrar los ingresos por los intereses y reajustes se deberán aumentar las provisiones que correspondan.
 
 En todo caso, las instituciones financieras deberán mantener identificados todos aquellos créditos que hayan reingresado a cartera vigente como consecuencia de una renegociación, como asimismo aquellos que hayan sido otorgados con el objeto de pagar créditos vencidos.
 
-2.- Inversiones financieras vencidas.
-
-Conforme a lo dispuesto en el Capítulo 8-29 de esta Recopilación Actualizada de Normas, las inversiones financieras que no fueren recuperadas dentro de los 90 días siguientes a su vencimiento, deberán ser castigadas. Mientras no se castiguen, se mantendrán en su cuenta de origen.
-
-3.- Nómina que debe mantenerse a disposición de este Organismo.
+2.- Nómina que debe mantenerse a disposición de este Organismo.
 
 Las instituciones financieras deberán mantener a disposición de esta Superintendencia una nómina referida al último día de cada mes, con el detalle de las colocaciones vencidas que se mantengan registradas en sus cuentas de origen en virtud de no haberse cumplido el plazo máximo de 90 días fijado para su traspaso a cartera vencida.
 
-4.- Relación entre la cartera vencida y los créditos directos vencidos de la información sobre deudores.
+3.- Relación entre la cartera vencida y los créditos directos vencidos de la información sobre deudores.
 
 Los créditos directos que se incluyen como vencidos en la información de deudores que se envía a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información, corresponden a los registrados en cartera vencida según las instrucciones del presente Capítulo.
 
@@ -10806,753 +10842,33 @@ Código
 
 1416 999 00 Otros saldos de la partida 1416.
 
-CAPITULO 8-28 (Bancos y Financieras)
-
-MATERIA:
-
-EVALUACION Y CLASIFICACION DE ACTIVOS.
-
-### I. CONSIDERACIONES GENERALES
-
-Con el objeto de constituir oportunamente las provisiones necesarias para cubrir eventuales pérdidas, las instituciones financieras deben mantener evaluados en forma permanente los riesgos asumidos en sus colocaciones e inversiones, de acuerdo con los procedimientos establecidos en este capítulo.
-
-Esta Superintendencia, mediante sus visitas inspectivas habituales y por otros medios, evalúa regularmente la calidad de los activos de las instituciones bajo su vigilancia.
-
-Por otra parte, de conformidad con lo dispuesto en el inciso segundo del artículo 14 de la Ley General de Bancos, corresponde a este Organismo publicar, a lo menos tres veces al año, información sobre los activos de las instituciones fiscalizadas y su clasificación y evaluación conforme a su grado probable de recuperabilidad.
-
-Es imprescindible, por lo tanto, que cada institución financiera cuente con sistemas adecuados para mantener permanentemente evaluados los riesgos de sus activos sobre la base de la metodología dispuesta en este Capítulo, cuya aplicación requiere del análisis de información confiable y oportuna de la situación de los deudores y de conclusiones fundadas acerca de los riesgos y de las posibles pérdidas. Dichos sistemas deben permitir, entre otros aspectos, obtener en cualquier momento la clasificación de la cartera en las correspondientes categorías de riesgo y realizar una revisión de dichas clasificaciones cada vez que sea necesario, lo que debe reflejarse en las clasificaciones que, de acuerdo con las instrucciones del Manual del Sistema de Información, se informan a este Organismo.
-
-Atendida la importancia que tiene todo lo anterior, este Organismo ha establecido un sistema de calificación de las instituciones financieras de acuerdo con la calidad de sus procesos para clasificar su cartera. Las calificaciones obtenidas serán dadas a conocer por esta Superintendencia, a fin de que el público en general conozca ese aspecto fundamental de la administración de las entidades financieras.
-
-Para efectuar las referidas calificaciones, esta Superintendencia se basará en los resultados que obtenga de las revisiones que habitualmente realiza, considerando las pautas que se describen en el Anexo N° 2 de este Capítulo y que se refieren al monto y número de los créditos reclasificados en la oportunidad, así como a la calidad de la información sobre sus deudores, con que cuenta la institución.
-
-En el caso de la cartera que se clasifica según su morosidad, la calificación de la institución se efectuará sobre la base de una evaluación general de las políticas de otorgamiento y administración de esa cartera y de la calidad de los sistemas que se utilicen para el efecto, así como del adecuado reconocimiento de riesgos adicionales, según lo establecido en el numeral 5 2 del título II de este Capítulo.
-
-Las instituciones financieras sujetas a revisión quedarán clasificadas en categoría I, II ó III, según sea la calidad que se determine para sus procesos de clasificación de cartera de acuerdo con los indicadores establecidos para el efecto. La categoría I quedará reservada para las instituciones que muestren buenos sistemas de clasificación según esos indicadores; la categoría II, por su parte, revelará deficiencias que requieren ser atendidas por la administración y que necesariamente gravitan en el énfasis de las revisiones que realiza esta Superintendencia; y, por último, la categoría III contempla desviaciones significativas, de manera que reflejará un proceder claramente inadecuado en la evaluación de riesgos y estimación de pérdidas.
-
-### II. RIESGO DE LA CARTERA DE COLOCACIONES
-
-### 1. Clasificación de la cartera
-
-La clasificación de la cartera de colocaciones consiste en la evaluación de la capacidad de pago del deudor respecto de la globalidad de sus obligaciones con la institución. Esto, sin perjuicio de que se analicen las características tales como plazos, garantías, tasas de interés, reajustabilidad, etc., de cada una de las diversas operaciones crediticias que mantenga el respectivo prestatario, de modo que la clasificación final refleje el riesgo de cada una de ellas y de la deuda en su conjunto.
-
-Debe reconocerse, no obstante, que al evaluar los créditos de un deudor, se considera un sin número de antecedentes y situaciones que hacen difícil estimar un porcentaje exacto de pérdidas, aunque para los efectos prácticos de constituir los resguardos se haga necesario asignarles un porcentaje fijo de provisiones.
-
-Para evaluar la cartera de colocaciones se tratarán separadamente los créditos comerciales, los créditos de consumo y los préstamos hipotecarios para la vivienda, de acuerdo con las instrucciones que, para cada caso, se indican en este capítulo.
-
-### 2. Clasificación de la cartera de créditos comerciales
-
-Para los efectos de la clasificación que debe efectuarse, la cartera de créditos comerciales está compuesta por la generalidad de los créditos otorgados por la institución, independientemente de su particular objetivo, con la excepción de los créditos de consumo y de los préstamos hipotecarios para la vivienda, a que se refieren los números 3 y 4 de este título, respectivamente.
-
-2.1. Créditos que se deben clasificar.
-
-Las entidades financieras deben clasificar los saldos de las colocaciones vigentes o vencidas, incluidos sus respectivos reajustes e intereses por cobrar, tanto en moneda chilena como extranjera, efectuadas a los 400 mayores deudores de la empresa o el número necesario para alcanzar el 75% de la cartera de créditos comerciales, cualquiera que sea mayor.
-
-Ese porcentaje o el número de deudores señalado, podrá aumentar en la medida que esta Superintendencia reclasifique determinados créditos, los que, conforme a las disposiciones del numeral 8.1 de este título, deberán integrar el conjunto de los préstamos clasificados aunque no estén comprendidos dentro de los mayores deudores.
-
-Además las entidades financieras pueden clasificar voluntariamente una parte mayor o la totalidad de sus colocaciones.
-
-Sin embargo, deben ser clasificados obligatoriamente en su correspondiente categoría de riesgo, todos los deudores situados en el exterior.
-
-2.2. Procedimiento para la clasificación de los créditos comerciales.
-
-Para evaluar la cartera de créditos comerciales deben utilizarse cinco categorías de clasificación. Los factores básicos para la evaluación son, a lo menos, el comportamiento del deudor, su capacidad de pago y la disponibilidad de garantías que resguarden su deuda.
-
-En la evaluación del comportamiento del deudor se deberá considerar su historial financiero y crediticio, su conducta en el ámbito de los negocios y, en general, todos aquellos antecedentes orientados a tener un conocimiento integral del deudor.
-
-Respecto de la capacidad de pago, su evaluación deberá estar basada en el análisis de las características de su endeudamiento global y en una estimación de los flujos de caja provenientes de la actividad comercial del deudor, incorporando para el efecto distintos escenarios en función de las variables de riesgo claves del negocio. Asimismo, deberán considerarse en forma explícita los posibles efectos de los riesgos financieros a que está expuesto el deudor y que pueden repercutir en su capacidad de pago, tanto en lo que concierne a los descalces en monedas, plazos y tasas de interés de su estructura de balance, como en lo que toca a sus operaciones fuera de balance, particularmente las efectuadas con derivados financieros.
-
-En lo que se refiere a las garantías, para que éstas puedan ser consideradas como una segunda fuente de pago, las instituciones deben asegurarse de que ellas estén legalmente bien constituidas, adecuadamente valorizadas para el efecto y permanentemente disponibles para su ejecución y liquidación.
-
-El análisis en conjunto de los factores antes indicados y los demás que correspondan, debidamente ponderados, permitirá clasificar las obligaciones de un deudor en una de las siguientes categorías de riesgo:
-
-i) Categoría "A": Créditos de riesgo normal;
-
-ii) Categoría "B": Créditos de riesgo potencial superior al normal;
-
-iii) Categoría "B -": Créditos con pérdidas esperadas;
-
-iv) Categoría "C": Créditos con pérdidas esperadas significativas; y,
-
-v) Categoría "D": Créditos irrecuperables.
-
-2.3. Criterios generales para la clasificación en categorías de riesgo.
-
-2.3.1. Categoría A: Créditos de riesgo normal.
-
-Merecen esta clasificación aquellos créditos respecto de los cuales no existe duda acerca de la total recuperación del capital, reajustes e intereses a su vencimiento.
-
-Esta categoría puede ser asignada a deudores que hayan cumplido oportunamente con sus obligaciones y nada indique que dicho comportamiento variará en lo futuro.
-
-Para ello, se requerirá un claro conocimiento por parte de la institución financiera acerca del uso dado a los recursos y del monto y origen de los flujos de ingresos propios con que cuenta el deudor para hacer frente al pago de sus compromisos, así como de los riesgos financieros que enfrenta.
-
-No podrá considerarse dentro de esta categoría a un deudor cuya fuente de pago dependa de la generación de recursos de otras empresas o personas naturales, ni aquél cuyas garantías sean suficientes en monto y liquidez para cancelar con ellas lo adeudado, pero que no cumple con las características antes señaladas.
-
-2.3.2. Categoría B: Créditos de riesgo potencial superior al normal.
-
-Las operaciones clasificadas en este grupo corresponden a aquéllas que han mostrado algún grado de incumplimiento de las condiciones en que originalmente fueron otorgadas. Generalmente se manifiestan por la falta de oportunidad en el pago y podrían provenir de situaciones que afectan al deudor o al proyecto financiado, las cuales pueden ser transitorias o de cierto grado de permanencia, generando un cuadro de incertidumbre. No obstante, se estima que tales circunstancias, de acuerdo al conocimiento de la situación al momento de calificar el crédito, no afectarían en forma importante la recuperabilidad de lo adeudado.
-
-Por otra parte, pueden existir casos en que la fuente normal de pago se haya visto deteriorada hasta hacerse insuficiente para el servicio de la deuda, hecho ante el cual cobran especial importancia las garantías constituidas. Ellas deben cubrir holgadamente el monto de la operación y ser suficientemente líquidas, de modo que se logre recuperar con su eventual enajenación, el total de los recursos que se hayan comprometido.
-
-Esta categoría es la máxima a la que pueden aspirar aquellos deudores cuyas fuentes de pago dependan de las utilidades generadas por terceros.
-
-Dadas las características de quienes queden incluidos en esta categoría, sobre todo cuando la causal corresponda a debilidades financieras sobrevinientes al otorgamiento del crédito, esta calificación adquiere el carácter de transitoria, requiriéndose realizar un seguimiento de las deficiencias detectadas a fin de proceder a su reclasificación cuando sea del caso.
-
-La condición de potencial de las pérdidas de los préstamos asignados a esta categoría, permite suponer que, de materializarse, éstas serían inferiores al 5% de los activos comprendidos en ella.
-
-2.3.3. Categoría B -: Créditos con pérdidas esperadas.
-
-Los préstamos incluidos en esta categoría corresponden a los adeudados por empresas o personas con acentuadas debilidades financieras, las que determinan que la utilidad operacional o los ingresos disponibles, sean insuficientes para cubrir la carga financiera que genera el pago de intereses y el servicio del capital en los términos pactados, no existiendo antecedentes ciertos que permitan inferir un fortalecimiento de su capacidad generadora de recursos. Los deudores que enfrentan esta situación, normalmente presentan atrasos en sus pagos o sólo cumplen con éstos en parte y, por lo tanto, están sujetos a periódicas prórrogas o capitalizaciones de intereses.
-
-Por otra parte, las debilidades señaladas no pueden compensarse con los resguardos existentes, pues la calidad de éstos necesariamente generará una pérdida para el acreedor al momento de enajenarlos, sea debido al valor comercial de los bienes involucrados o porque normalmente su venta dentro de un plazo prudencial se hace difícil.
-
-Deben ser clasificados en esta categoría los deudores cuyos antecedentes financieros son insuficientes o de difícil comprobación, no permitiendo, por lo tanto, determinar cuál es el origen de los recursos y la real capacidad de pago con que cuentan, a pesar de haber estado sirviendo la deuda en forma parcial o total. Desde luego, ello no obsta a que si se añaden debilidades más profundas, sea necesario clasificar el crédito en una categoría de mayor riesgo (C o D). De igual modo, se deben incorporar a esta categoría los deudores con sucesivas renovaciones, prórrogas y capitalizaciones de intereses, que no cuenten con una razón clara de que ello obedece a una adecuación definitiva a su capacidad de pago.
-
-Son también créditos riesgosos y, por lo tanto, elegibles para esta categoría u otra que involucre pérdidas mayores, aquellos préstamos que no contengan exigencias de pago de intereses ni amortizaciones de capital por períodos prolongados. De acuerdo con sanas prácticas financieras, la evaluación del riesgo de estas operaciones dependerá de la sustentación técnica utilizada en la
-
-estimación de los flujos de ingresos y del plazo en que éstos puedan materializarse.
-
-Finalmente, estarán sujetos a clasificarse en esta categoría u otra de mayor riesgo, según la intensidad del problema, aquellos préstamos que durante su vigencia den origen a una pérdida continua en los flujos operacionales de la entidad financiera, como consecuencia de haberse pactado con tasas de interés o reajustes significativamente inferiores a los que correspondería cobrar por una operación normal, vale decir, aquellas tasas de interés y reajustes que, como mínimo, alcancen para financiar el costo de los fondos prestados y los gastos de gestión en que se incurra. La pérdida estimada en estos casos corresponderá al valor actual de las diferencias entre la tasa pactada y la requerida para cubrir los intereses y gastos propios de la operación.
-
-Los créditos clasificados en la categoría B- podrán tener una pérdida estimada que fluctúe entre el 5% y el 39% del total adeudado.
-
-2.3.4. Categoría C: Créditos con pérdidas esperadas significativas.
-
-Los créditos agrupados bajo esta clasificación corresponden en general a operaciones cuya recuperabilidad es muy dudosa, ya que el prestatario presenta una difícil situación financiera y no alcanza a generar ingresos suficientes para el pago de los intereses ni para amortizar parte de la deuda en un plazo razonable, lo que obliga a prorrogar los vencimientos y capitalizar los
-
-intereses total o parcialmente, con el consiguiente alimento de su endeudamiento y por ende de su carga financiera, sin que existan posibilidades ciertas de mejorar este continuo deterioro patrimonial.
-
-Deben incluirse en esta categoría aquellos deudores cuya capacidad de pago en relación con el producto de su giro o de sus ingresos contractuales, es manifiestamente insuficiente y las garantías constituidas o su patrimonio remanente, sólo permitirían al acreedor recuperar una porción de los recursos facilitados, a través de la cobranza extrajudicial o judicial. Ejemplos de lo
-
-expresado, podrían constituirlo ciertos casos de cesación de pagos o de petición de quiebra, sin que ello signifique excluir, por cierto, aquellos casos en que no ha mediado tal acción, pero en que la situación financiera real del deudor se asemeje a las señaladas.
-
-Deben también ser clasificados en esta categoría, aquellos créditos cuyo pago esté condicionado a flujos de ingresos producidos por otras empresas o terceras personas que presenten serias dificultades, lo que genera un cuadro de alta incertidumbre en torno al monto y al plazo en que se recuperarían los recursos.
-
-Asimismo, están sujetos a ser clasificados en esta categoría, los créditos que hayan sido otorgados con intereses y reajustes muy inferiores a los necesarios para cubrir los costos de la operación. La pérdida estimada en estos casos corresponderá al valor actual de la diferencia entre los intereses y reajustes pactados y los requeridos para una operación crediticia que equilibre los gastos en que incurra la entidad acreedora.
-
-En virtud de las características de esta categoría, salvo que medie la ejecución o pago del deudor, se hace conveniente efectuar un continuo seguimiento para determinar la evolución que hayan experimentado las condiciones financieras del prestatario.
-
-Las pérdidas esperadas para los créditos clasificados en esta categoría se sitúan dentro de un rango que varía entre el 40% y el 79% del capital, reajustes e intereses adeudados.
-
-2.3.5. Categoría D: Créditos irrecuperables.
-
-Deben ubicarse en esta categoría los créditos que se consideren incobrables o de un valor de recuperación tan bajo en proporción a lo adeudado, que su mantención como activo en los términos pactados no se justifique. Caben dentro de esta categoría los créditos a prestatarios de manifiesta insolvencia, cuyas garantías o patrimonio remanente sean de escaso o nulo valor en relación al monto adeudado. Deben, asimismo, incluirse los préstamos otorgados a empresas cuya capacidad de generar recursos dependa de otras, las que a su vez se encuentren en una posición financiera muy debilitada, generalmente como consecuencia de su propio endeudamiento o incapacidad operacional, existiendo así una alta incertidumbre sobre la permanencia de estas empresas.
-
-En virtud de los elementos que caracterizan a esta categoría, se incluirán en ella los préstamos cuyas pérdidas esperadas fluctúen entre el 80% y el 100% del capital y de los reajustes e intereses adeudados.
-
-2.4. Información requerida de los deudores.
-
-Las clasificaciones que efectúe la institución financiera deben basarse, como es natural, en el análisis de información confiable y en conclusiones fundadas que consideren los aspectos mencionados en los numerales precedentes.
-
-En relación con los antecedentes que debe tener la institución financiera para efectuar las clasificaciones, especialmente para respaldar la asignación de una categoría de bajo riesgo, esta Superintendencia enfatiza los siguientes aspectos:
-
-a) La identificación clara del giro real del prestatario y del verdadero objetivo del crédito, se considera determinante para evaluar su capacidad de pago.
-
-b) La evaluación del riesgo crediticio se ve dificultada cuando los antecedentes financieros de los deudores, especialmente los balances, son poco confiables, no contienen suficiente detalle o están desactualizados. Las instituciones fiscalizadas deben hacer los máximos esfuerzos para convenir con sus prestatarios la entrega de antecedentes financieros correspondientes a
-
-ejercicios parciales, estableciendo una rutina permanente para ello y poniendo especial hincapié en la información sobre los flujos financieros. Asimismo, deben procurar que dichos estados sean auditados por personal profesional en la materia, aspecto al cual esta Superintendencia le otorga la mayor importancia. La heterogeneidad de la información financiera incluida en las carpetas de los deudores dificulta el análisis crediticio, por lo cual es imprescindible homogeneizar la presentación de dichos estados, los que sirven de base para la evaluación de la cartera.
-
-c) Las garantías forman parte integrante del proceso crediticio y de la clasificación de cartera, por lo cual la institución financiera debe mantener un registro actualizado de las mismas y los antecedentes necesarios que demuestren su existencia y tasación, cuando corresponda.
-
-d) Las apreciaciones del riesgo acerca del deudor, efectuadas por la institución financiera, deben constar explícitamente en la carpeta del cliente con su debida fundamentación.
-
-En lo que concierne a los antecedentes que permiten, en general, respaldar las clasificaciones, en el Anexo N° 3 de este Capítulo se incluye una breve descripción de lo que este Organismo entiende por un buen sistema de información sobre los deudores comerciales.
-
-2.5. Garantías constituidas por cartas de crédito stand-by.
-
-Para efectos de clasificar la cartera de créditos comerciales de acuerdo con las instrucciones del numeral 2.2 de este titulo, se considerarán las garantías constituidas por cartas de crédito stand-by solamente cuando éstas cumplan las siguientes condiciones:
-
-a) que se trate de cartas de crédito irrevocables y pagaderas a su sola presentación.
-
-b) que el banco emisor se encuentre clasificado en primera categoría de riesgo por una empresa calificadora internacional, según lo previsto en el Capítulo 1-12 de esta Recopilación.
-
-2.6. Garantías constituidas por documentos de resguardo o fianza emitidos por sociedades domiciliadas en el exterior.
-
-Para los solos fines de la clasificación de cartera de créditos comerciales que se debe efectuar de conformidad con lo dispuesto en el numeral 2.2 de este título, serán consideradas las garantías constituidas por documentos de resguardo o fianzas suscritos por sociedades domiciliadas en el exterior, que amparen obligaciones de sus sucursales o filiales en Chile, siempre que cumplan los siguientes requisitos:
-
-a) Que el documento sea suscrito por la sociedad o casa matriz de la empresa deudora ("Parent guarantee") a favor de la institución financiera establecida en Chile;
-
-b) Que los instrumentos de oferta pública emitidos por esa sociedad matriz estén clasificados en primera categoría de riesgo por una empresa calificadora internacional, conforme a lo establecido en el Capítulo 1-12 de esta Recopilación.
-
-c) Que la matriz se comprometa a pagar en forma irrevocable, al solo requerimiento de la institución financiera acreedora, las obligaciones del deudor en caso de que su filial situada en Chile no pague en la fecha convenida.
-
-d) Que el compromiso de resguardo o fianza de que se trata pueda hacerse efectivo ejecutivamente por la vía judicial, conforme a la legislación del respectivo país.
-
-e) Que la institución financiera cuente con un informe completo de su fiscalía, en el que se indique: el monto y tipo de créditos garantizados, las condiciones de la exigibilidad, el plazo de validez y la forma de ejecución.
-
-### 3. Clasificación de la cartera de créditos de consumo
-
-3.1. Créditos que se deben clasificar.
-
-Para los efectos de la clasificación y evaluación de riesgos de la cartera de colocaciones, se entenderán por créditos de consumo aquellas obligaciones directas, vigentes o vencidas, contraídas sólo por personas naturales y con las siguientes características generales:
-
-a) Su objeto es el de financiar la adquisición de bienes de consumo o el pago de servicios.
-
-b) Su pago se efectúa en cuotas, normalmente iguales y sucesivas.
-
-c) Su monto original no excede, por lo general, del equivalente de 550 U.F. No obstante, aquellos créditos por un valor superior al recién indicado que por su naturaleza puedan ser considerados préstamos de consumo, deberán incluirse en esta clasificación y no en el grupo de créditos comerciales de que trata el N°2 de este título.
-
-Además de los créditos que cumplan con esas características, se considerarán como créditos de consumo para los efectos de clasificación de cartera, los créditos provenientes de la utilización de tarjetas de crédito cuyos titulares sean personas naturales, y los préstamos otorgados a estudiantes chilenos, con recursos de la Corporación de Fomento de la Producción, para financiar gastos de estudios en universidades o institutos profesionales.
-
-3.2. Procedimiento para la clasificación de los créditos de consumo.
-
-Los créditos de consumo se clasificarán de acuerdo con la morosidad de las obligaciones de sus deudores.
-
-Para este efecto, se considerará la siguiente situación de morosidad, debiendo quedar clasificado, en la categoría que corresponda, el saldo de los préstamos de consumo que se señalan:
-
-i) Categoría "A": préstamos cuyos deudores mantienen todos sus pagos al día;
-
-ii) Categoría "B": préstamos cuyos deudores presentan atrasos no superiores a un mes;
-
-iii) Categoría "B-": préstamos cuyos deudores presentan atrasos superiores a un mes y hasta dos meses;
-
-iv) Categoría "C": préstamos cuyos deudores presentan atrasos de más de dos meses y hasta cuatro meses; Y,
-
-v) Categoría "D": préstamos cuyos deudores mantienen atrasos por más de cuatro meses, o que registren el castigo de una o varias cuotas de préstamos en los últimos doce meses.
-
-El atraso a que se refieren los literales precedentes debe determinarse considerando la obligación que por más tiempo mantiene impaga el deudor, sea ésta una cuota o un pago mínimo exigido, como ocurre en el caso de tarjetas de crédito. En todo caso, si un deudor mantiene más de un crédito de consumo, todos ellos quedarán clasificados según el máximo atraso de su deudor, incluidas las cuotas impagas que hayan sido castigadas en los últimos doce meses.
-
-### 4. Clasificación de la cartera de préstamos hipotecarios para la vivienda
-
-4.1. Préstamos que se deben clasificar.
-
-Para los efectos de las disposiciones contenidas en este número se considerarán como préstamos hipotecarios para la vivienda, los siguientes:
-
-a) Préstamos en letras de crédito para la vivienda, otorgados por la misma institución o adquiridos a otra entidad financiera;
-
-b) Préstamos mediante mutuos hipotecarios endosables otorgados al amparo del N° 7 del artículo 69 de la Ley General de Bancos, concedidos por la propia institución o adquiridos de terceros, siempre que: i) corresponda a créditos otorgados para financiar la adquisición, ampliación, reparación o construcción de viviendas; y, ii) hayan sido otorgados al usuario final de tales inmuebles;
-
-c) Préstamos para la vivienda otorgados originalmente por el Sistema Nacional de Ahorro y Préstamo, adquiridos por la institución financiera; y,
-
-d) Otros préstamos cuyo destino haya sido el financiamiento de la adquisición, ampliación, reparación o construcción de una vivienda, otorgados por la misma institución o adquiridos a otra entidad financiera, siempre que cumplan copulativamente las siguientes condiciones:
-
-i) sean pagaderos en cuotas mensuales;
-
-ii) hayan sido otorgados al comprador o usuario del inmueble; y,
-
-iii) el valor de la garantía hipotecaria cubre, por lo menos, la totalidad del crédito.
-
-La enumeración anterior es taxativa, de manera que los préstamos hipotecarios en letras de crédito para fines generales, los créditos otorgados mediante mutuos hipotecarios endosables que no cumplan las condiciones señaladas en la letra b), y otros créditos que se hubieren destinado a vivienda y que no se ajusten a lo señalado en la letra d), deben clasificarse según las pautas establecidas para los créditos comerciales de que trata el número 2 de este título.
-
-4.2. Procedimiento para la clasificación de préstamos hipotecarios para la vivienda.
-
-En atención al gran número de casos involucrados, la determinación del riesgo de la cartera de que se trata, se mide sobre bases agregadas, considerando esencialmente el comportamiento del deudor en cuanto al pago oportuno de sus dividendos. Esto no significa desconocer en modo alguno, que este tipo de créditos está amparado por garantías hipotecarias, factor que se ha considerado en la definición del monto máximo de riesgo asignado.
-
-La clasificación de los préstamos hipotecarios para la vivienda se realizará sobre la base de la morosidad en el servicio de los dividendos, según lo siguiente:
-
-i) Categoría A: el saldo de los préstamos con sus dividendos al día.
-
-ii) Categoría B: el saldo de los préstamos con no más de seis dividendos atrasados; y,
-
-iii) Categoría B-: el saldo de los préstamos con siete o más dividendos atrasados.
-
-5.- Riesgos adicionales a los determinados según la morosidad de créditos de consumo o créditos hipotecarios para vivienda.
-
-5.1.- Excepciones a la clasificación sobre la base, de la morosidad.
-
-No obstante lo establecido en los N°s 3 y 4 precedentes, se prescindirá de la clasificación de los créditos sobre la base de la morosidad y en las categorías allí indicadas, cuando por circunstancias especiales se ofrezcan al deudor rebajas significativas en su pago, las que no serán recuperadas por la institución financiera.
-
-En esos casos, las instituciones financieras deberán determinar el valor actual de aquellas rebajas según la tasa efectiva de cada crédito, estableciendo a continuación el porcentaje que dicho valor representa del total del crédito a la misma fecha.
-
-Si el valor actual de las rebajas resulta inferior al 5% del valor total del respectivo crédito, éste se seguirá clasificando sobre la base de su morosidad, de acuerdo con las instrucciones de los N°s 3 ó 4 precedentes, según corresponda. En cambio, si dicho porcentaje resulta igual o superior al 5%, se clasificará el crédito en una de las siguientes categorías, cualquiera sea su morosidad: i) en categoría "B-", cuando ese porcentaje fluctúe entre el 5% y el 39%; ii) en categoría "C" si el porcentaje se sitúa en un rango de 40% a 79%; o, iii) en categoría "D", en el evento de que supere el 79%.
-
-5.2.- Riesgo adicional de los créditos de consumo y créditos hipotecarios para vivienda.
-
-El criterio de clasificar los créditos de consumo y los créditos hipotecarios para vivienda tomando en cuenta solamente la morosidad, según lo establecido en los N°s. 3 y 4 de este título, supone que la institución financiera aplicará procedimientos generales elaborados sobre la base de una prudente ponderación de los factores de riesgo inherentes a esos créditos de carácter masivo.Por lo tanto, si en la práctica existen hechos que hagan suponer que la mera aplicación de la metodología de clasificación según la morosidad es insuficiente para determinar el riesgo de dicha cartera, es imprescindible que la institución financiera examine objetivamente los procedimientos que se han seguido en el otorgamiento de dichos créditos y su posterior administración, a fin de establecer el riesgo que no ha sido cubierto.
-
-Para ese efecto, las instituciones financieras se ceñirán a lo siguiente:
-
-5.2.1. Necesidad de calcular el riesgo adicional en los créditos de consumo.
-
-Se presumirá insuficiente la sola clasificación de la cartera de créditos de consumo de acuerdo con su morosidad, si en el otorgamiento y administración de dichos créditos no se contemplan los siguientes elementos mínimos:
-
-a) Que las políticas y procedimientos para la selección de los deudores consideren, al menos: la verificación de sus antecedentes comerciales y financieros; la estabilidad y comprobación de sus fuentes de ingresos; y, la relación entre la cuota de pago resultante para el servicio del crédito y la capacidad de pago del deudor, teniendo en cuenta la renta efectivamente disponible, la que deberá considerar, especialmente, su nivel de endeudamiento con otras instituciones financieras o casas comerciales y el tamaño y composición del grupo familiar.
-
-b) Manuales de procedimientos que contengan detalladamente los requisitos para el otorgamiento de los créditos en cuanto a las condiciones y verificaciones necesarias y, además, los procedimientos de excepción para la aprobación de créditos por instancias superiores cuando no se cumplen todos los requisitos preestablecidos.
-
-c) Que las políticas para el tratamiento de los créditos en mora consideren criterios realistas para las renegociaciones de los préstamos, novaciones de deudas, ampliaciones o readecuaciones de plazos, como asimismo, para el otorgamiento de nuevos créditos, estando la institución en condiciones de establecer, al examinar la capacidad de pago del deudor y el comportamiento que ha mostrado en el servicio de su deuda, que el nuevo préstamo será pagado en las condiciones de plazo y tasa de interés que se acuerden. Los procedimientos en esta materia comprenden, entre otros: exigencias mínimas respecto de pagos o abonos parciales y límites a las capitalizaciones de intereses y gastos; adecuado nivel jerárquico del comité de créditos o de los funcionarios que autorizan las renegociaciones; y, número máximo de renegociaciones permitidas, asociado a políticas claras de castigos de créditos morosos.
-
-d) Un adecuado sistema de control interno, que asegure el cumplimiento de los procedimientos establecidos para: la selección de deudores; autorización y otorgamiento de los créditos; las novaciones, renegociaciones y cambios en las condiciones de pago en general; la cobranza prejudicial y judicial; y, los castigos contables.
-
-En síntesis, deberá estimarse el riesgo adicional cuando las políticas, procedimientos y controles internos no aseguren que la morosidad obedecerá sólo a situaciones impredecibles y propias de algunos deudores en particular. Así por ejemplo, resulta clara la existencia de un riesgo adicional si la institución financiera no verifica apropiadamente los antecedentes de los deudores, si en la práctica pasan a ser habituales las renegociaciones o reestructuraciones de deudas, o si la institución otorga con cierta frecuencia nuevos créditos para solucionar deudas anteriores.
-
-5.2.2. Necesidad de calcular el riesgo adicional en los créditos hipotecarios para la vivienda.
-
-En los préstamos hipotecarios para vivienda, deberá dársele especial importancia a la política que se emplee en la selección de los prestatarios, a la tasación de los bienes adquiridos con el producto del crédito que sirven como garantía de la operación, a la determinación de la capacidad de pago del deudor y a la estabilidad de la fuente de sus recursos. En ese sentido, se considerará con mayor rigurosidad a aquellos prestatarios que mantengan otros préstamos caucionados con la misma hipoteca. Además, en aquellos préstamos destinados a la adquisición o construcción de viviendas cuyo valor de tasación sea igual o inferior a 3.000 Unidades de Fomento, se observará en forma especial el cumplimiento del artículo 22 del Capítulo II.A.l del Compendio de Normas Financieras del Banco Central de Chile, que establece un límite al monto total de dichos créditos de manera que el dividendo resultante no exceda del 25% del ingreso acreditado por el deudor y su cónyuge, en el caso que éste se constituya en codeudor solidario.
-
-Todo ello también dentro del contexto de la aplicación de políticas y procedimientos operativos y de control adecuados para el otorgamiento y posterior administración de esos créditos.
-
-5.2.3. Determinación del riesgo adicional.
-
-En caso de que el comportamiento objetivo de la cartera se aparte de las pautas antes señaladas, la institución financiera deberá cuantificar el mayor riesgo en relación con el que se calcula mediante la sola clasificación de la cartera según su morosidad, utilizando una metodología de aplicación permanente que permita, sobre la base de un criterio estrictamente prudencial, corregir las insuficiencias según las situaciones que se presenten.
-
-Dicha metodología deberá incorporar los aspectos o variables de riesgo relevantes para la situación que presente la cartera, como por ejemplo: el comportamiento de pago, tanto en lo que se refiere a las amortizaciones realizadas al préstamo original como al número de renegociaciones efectuadas, el nivel de endeudamiento, el comportamiento de pago en otras instituciones financieras y antecedentes del Boletín de Informaciones Comerciales, la estabilidad y suficiencia de los ingresos, etc.
-
-Para determinar el riego adicional de la cartera de créditos de consumo, las instituciones financieras deberán utilizar las siguientes matrices de riesgo, de cuyo procesamiento se obtendrá el riesgo adicional que debe provisionarse como complemento a la clasificación de la cartera:
-
-a) Matriz para créditos renegociados.
-
-Esta matriz incluirá a todos los deudores que mantengan algún crédito renegociado, entendiéndose por tal al que haya sido reprogramado, refinanciado o que haya sido objeto de cualquier forma de readecuación del pago.
-
-Se entiende que todos los créditos que deben incluirse en esta matriz, contienen un riesgo adicional al que se recoge a través de la clasificación de la cartera y que mientras más operaciones renegociadas se hayan cursado a un mismo deudor, mayor será el riesgo que la institución debe reconocer para efectos de provisiones.
-
-Los préstamos otorgados para cancelar obligaciones castigadas, al igual que los créditos castigados que sean objeto de renegociaciones, deberán tener una ponderación especial que cubrirá, en un inicio, la totalidad del crédito.
-
-Mientras el deudor no demuestre un comportamiento de pago efectivo, no puede considerarse un menor riesgo para los créditos que conforman esta matriz.
-
-En la matriz deberán considerarse como mínimo las siguientes variables:
-
-- Clasificación que tenía el crédito que fue objeto de renegociación.
-
-- Desembolsos efectivos con recursos propios por parte del deudor al momento de la renegociación.
-
-- Información disponible del comportamiento de pago del deudor en el sistema financiero al momento que la institución le otorgue el nuevo crédito.
-
-- Ultima información disponible de ese comportamiento.
-
-- Otros antecedentes comerciales y de morosidad disponibles en el mercado.
-
-- Número de veces en que se ha concedido este tipo de créditos a lo largo del tiempo.
-
-- Plazo al cual está pactada la nueva operación.
-
-- Existencia de un período de gracia para la nueva operación.
-
-- Comportamiento de pago en la renegociación a lo largo del tiempo.
-
-- Relación existente entre toda la deuda registrada en el sistema financiero y en otras instituciones y el ingreso real del deudor.
-
-b) Matriz para el otorgamiento y seguimiento de créditos.
-
-Para la elaboración de esta matriz se deberán considerar, al menos, las siguientes variables, las cuales determinarán la necesidad de reconocer un riesgo adicional, según los casos:
-
-- Información disponible de comportamiento de pago del deudor en el sistema financiero.
-
-- Otros antecedentes comerciales y de morosidad disponibles en el mercado.
-
-- Plazo del crédito.
-
-- Existencia de un período de gracia.
-
-- Relación existente entre toda la deuda registrada en el sistema financiero y en otras instituciones y el ingreso real del deudor.
-
-Los criterios seguidos para la construcción de las matrices de riesgo antes señaladas deberán quedar debidamente documentados, debiendo contemplarse todos los elementos de control y de información que permitan asegurar y verificar su correcta aplicación y perfeccionar la metodología en caso de que se muestre insuficiente. La eficacia de las matrices para determinar los riesgos adicionales sobre la base de una prudente ponderación de las variables descritas, será determinante para la calificación de la institución financiera según lo indicado en el título I de este Capítulo.
-
-### 6. Pérdida estimada de la cartera
-
-El monto que corresponde a la pérdida estimada de la cartera se obtendrá de la siguiente manera:
-
-a) Porcentaje estimado de pérdida de la cartera.
-
-El porcentaje estimado de pérdida de la cartera corresponde a aquél que se obtiene de dividir por el total de créditos clasificados, el monto que resulte de la suma del 1% del valor de los créditos clasificados en categoría B, el 20% del valor de los créditos clasificados en categoría B-, el 60% del valor de los créditos clasificados en categoría C y el 90% del valor de los créditos clasificados en categoría D. Para efectuar este cálculo, deben considerarse los créditos clasificados con los respectivos reajustes e intereses por cobrar.
-
-b) Pérdida estimada de la cartera.
-
-La pérdida estimada de la cartera corresponde al monto que resulta de multiplicar el porcentaje estimado de pérdida definido en la letra a) precedente, por el total de las colocaciones, incluidos sus reajustes e intereses por cobrar.
-
-Sin embargo, en el caso que se deba reconocer un mayor riesgo para las carteras clasificadas según su morosidad de acuerdo con lo dispuesto en el numeral 5.2 de este título, la pérdida estimada corresponderá al monto que se obtiene según lo señalado en el párrafo precedente, más el importe correspondiente a ese mayor riesgo.
-
-### 7. Riesgo adicional de la cartera comercial
-
-7.1. Créditos riesgosos en su origen.
-
-Mediante el procedimiento de clasificación de cartera antes descrito, se tiende a estimar las pérdidas asociadas a la cartera de colocaciones, considerando la capacidad de pago de cada deudor y el monto de las garantías constituidas, respecto de la totalidad de sus obligaciones con la institución acreedora.
-
-Sin perjuicio de la referida clasificación y con el objeto de evitar que, en un afán de crecimiento o de captación de nuevos mercados, las entidades fiscalizadas asuman riesgos más allá de los normales en los préstamos que otorguen, esta Superintendencia ha estimado necesario complementar la clasificación y evaluación de la cartera de colocaciones, mediante la incorporación de los créditos considerados como riesgosos en su origen, a la medición del riesgo global de dicha cartera y, por ende, a la constitución de provisiones.
-
-Se entiende como créditos riesgosos en su origen, aquellos créditos por en que la institución financiera, al momento de otorgarlos, haya incurrido en un riesgo claramente superior al inherente a una operación estructurada en forma conservadora, aun cuando dicho riesgo no se manifieste en una pérdida evidente. En todo caso, sólo se considerarán estos créditos cuando el endeudamiento total del deudor sea igual o superior al equivalente de 25.000 Unidades de Fomento.
-
-El escaso o nulo aporte del deudor en el financiamiento de un proyecto o negocio sin que su patrimonio tenga relación con la magnitud de la deuda asumida, la ausencia de garantías suficientes cuando se trata de créditos a largo plazo o la falta de información acerca del conglomerado económico al que pertenece el deudor, son algunas de las situaciones en que se está en presencia de prácticas que se alejan de lo prudente en materias crediticias.
-
-Lo recién mencionado es válido independientemente que las proyecciones acerca de los negocios que desarrolla el deudor hagan suponer que éste podría cancelar los créditos en cuestión. Siempre será conveniente que la entidad financiera cuente con los resguardos necesarios (garantías, patrimonio del deudor o provisiones), que le permitan enfrentar de mejor forma la eventualidad de que las proyecciones no se cumplan.
-
-El riesgo adicional que se asuma por el otorgamiento de créditos en tales condiciones se establecerá de acuerdo con lo señalado en el numeral 7.2 siguiente, considerando los créditos posteriores al 30 de junio de 1988 que reunan una o más de las siguientes características:
-
-a) Que correspondan al financiamiento de la totalidad o casi la totalidad de un proyecto o negocio, sin aporte o con uno muy pequeño de parte de los socios, sin garantías independientes del proyecto o negocio en cuestión y sin que el deudor tenga patrimonio libre de gravámenes acorde con la magnitud de los créditos recibidos.
-
-b) Que se hayan cursado para la compra de empresas o sociedades ya existentes, con escaso o ningún aporte de los adquirentes y sin garantías independientes del negocio que se adquiere, aunque se cuente con el aval de personas naturales. Se exceptúan de la calificación de créditos riesgosos en su origen, aquéllos que se hayan otorgado para financiar la adquisición de empresas y sociedades, a pesar de la carencia de garantías, en los casos en que el deudor sea una sociedad con patrimonio libre de gravámenes, acorde con la magnitud del financiamiento recibido.
-
-c) Que el plazo promedio al que fueron otorgados sea superior a tres años y estén garantizados en menos de un 50% de su valor, sin considerar los avales de personas naturales. No obstante, se excluyen los créditos con estas características que cumplan alguna de las siguientes condiciones: i) que se trate de un préstamo sindicado, otorgado por dos o más instituciones financieras establecidas en el país; ii) que el crédito tenga por objeto el financiamiento de proyectos de infraestructura destinada a la prestación de servicios de utilidad pública; o bien, iii) que el deudor sea una sociedad anónima abierta cuyas acciones se transan en Bolsa, con una alta presencia bursátil.
-
-d) Que se hayan otorgado sin suficientes garantías a una sociedad y que no se disponga de información (estado de situación, malla de propiedad, balances consolidados u otros), que permita formarse una cabal impresión sobre la situación financiera y patrimonial del conglomerado o conjunto de empresas al que ella pertenece.
-
-7.2. Determinación del riesgo adicional.
-
-Sin perjuicio de la estimación de pérdida de la cartera, conforme a la definición del N° 6 anterior, si la institución tuviere deudores clasificados en categorías "A" o "B", que deban a la institución financiera un monto igual o superior al equivalente de 25.000 Unidades de Fomento y que tengan algún crédito que cumpla con alguna de las características señaladas en las letras a), b), c) o d) del numeral 7.1 precedente, otorgado o renovado con posterioridad al 30 de junio de 1988, se considerará como riesgo adicional de la cartera de colocaciones el monto equivalente a un 5% del importe total adeudado por tales deudores, incluidos sus reajustes e intereses por cobrar.
-
-### 8. Revisión de esta Superintendencia
-
-Este Organismo revisará las clasificaciones que, de acuerdo con las normas del presente capítulo, debe efectuar cada institución financiera. Las revisiones de esta Superintendencia se harán a través de inspecciones de carácter habitual y ellas pueden dar lugar a cambios o reclasificaciones parciales o totales de los créditos involucrados.
-
-8.1. Cambios en las clasificaciones.
-
-Si con la información disponible, esta Superintendencia constatare en la revisión de las clasificaciones realizadas por cada entidad financiera que no se ha dado cabal cumplimiento a las pautas establecidas en estas normas, efectuará las reubicaciones de créditos en las categorías de riesgo que correspondan.
-
-Las reubicaciones que se efectúen sustituirán para todos los efectos a las clasificaciones establecidas por la institución, sin perjuicio de que ésta pueda cambiarlas posteriormente a categorías de mayor o de menor riesgo, según corresponda, cuando existan nuevos antecedentes que así lo ameriten.
-
-Sin embargo, cuando se trate de modificar las reubicaciones establecidas por esta Superintendencia hacia categorías de menor riesgo, las instituciones financieras que no queden calificadas por dos o más veces consecutivas en categoría I, según la calidad de sus procesos de clasificación de cartera, deberán contar con la aprobación previa de este Organismo. Para ese efecto, dichas instituciones solicitarán una reconsideración a esta Superintendencia, la que se resolverá, a más tardar, en la siguiente visita destinada a examinar los activos de la institución solicitante. En todo caso, en la medida en que la calidad de sus colocaciones evolucione desfavorablemente, esas instituciones estarán obligadas a actualizar su clasificación conforme a la nueva realidad vigente, primando para todos los efectos, en este caso, el mayor riesgo asignado por la entidad.
-
-Las obligaciones que los deudores reclasificados por este Organismo mantengan en la cartera de colocaciones, deberán integrar los préstamos clasificados aunque no estén comprendidos dentro de los 400 mayores deudores o del 75% de la cartera comercial, cualquiera sea la categoría en que quede calificada la institución financiera según la calidad de sus procesos de clasificación.
-
-8.2. Reclasificación total de los créditos comerciales.
-
-Cuando esta Superintendencia, en el curso de sus inspecciones, verifique que la clasificación efectuada por la institución financiera de sus créditos comerciales difiere de un modo significativo de la que resultaría de aplicar las pautas establecidas en este capítulo, podrá rechazar como conjunto la clasificación realizada por la institución, ordenando que en un plazo no superior a 30 días, ésta vuelva a clasificar la cartera de esos créditos. Si persisten las deficiencias, además de las sanciones que pueda aplicar, este Organismo adoptará todas las medidas que estime necesarias para tener una apreciación cabal de la totalidad de la cartera.
-
-8.3. Reclasificación parcial mediante muestreo de la cartera de créditos comerciales.
-
-Cuando una entidad financiera opte por clasificar una cantidad superior a los 400 mayores deudores y al número necesario para alcanzar el 75% de su cartera de créditos comerciales, esta Superintendencia revisará, mediante un sistema de muestreo, si la clasificación asignada al segmento que excede dichos límites cumple con las pautas generales que se señalan en el numeral 2.3 de este título.
-
-Si de la referida revisión se concluye que dichas pautas no se cumplen, este Organismo podrá objetar como un todo la clasificación de los deudores que exceden las cantidades indicadas, sin necesidad de reclasificarlos individualmente, utilizando una de las siguientes alternativas para evaluar el riesgo de pérdida probable:
-
-i) la aplicación a ese segmento del porcentaje de pérdida determinado para el resto de la cartera de colocaciones; o,
-
-ii) un procedimiento basado en factores objetivos tales como la morosidad o la cobertura de garantías de los créditos que componen ese segmento.
-
-8.4. Identificación de los créditos riesgosos en su origen.
-
-La revisión de la clasificación de la cartera de colocaciones que efectúe esta Superintendencia, incluirá también la verificación de la identificación de aquellos créditos que, de conformidad con lo dispuesto en el numeral 7.1 de este título, tengan la calidad de "créditos riesgosos en su origen" y, por ende, del cumplimiento de lo establecido en el numeral 7.2, en orden a considerar el 5% de las obligaciones de los deudores de tales créditos como riesgo adicional de la cartera de colocaciones.
-
-La nómina de dichos créditos que cuente con la conformidad de esta Superintendencia sustituirá, en caso de discrepancias con la que mantenga la institución, la base para el cálculo del riesgo adicional de que trata el numeral 7.2 de este título, sin perjuicio de las posteriores eliminaciones de créditos de dicha nómina cuando ya no existan los motivos que llevaron a considerarlos como "riesgosos en su origen" o de la incorporación de nuevos créditos si alguno de ellos tiene alguna de las características señaladas en el numeral 7.1 de este título.
-
-Sin embargo, las instituciones financieras que no queden calificadas por dos o más veces consecutivas en categoría I según la calidad de sus procesos de clasificación, no podrán eliminar créditos de dicha nómina mientras esta Superintendencia no apruebe una nueva nómina en su próxima visita de inspección, oportunidad en la cual las instituciones entregarán los antecedentes que justifiquen la exclusión.
-
-En todo caso, si se otorga un nuevo crédito que tenga alguna de las características señaladas en el numeral 7.1 de este título, a deudores que estuvieren clasificados en categorías "A" o "B" y cuyo endeudamiento con la institución fuera igual o superior a U.F. 25.000, la institución financiera deberá considerarlo para los efectos de la exigencia de provisiones, de acuerdo con lo instruido en el 9 siguiente.
-
-8.5. Riesgos adicionales de la cartera clasificada según su morosidad.
-
-La revisión de esta Superintendencia incluirá también el examen del riesgo adicional reconocido por la institución de acuerdo con lo establecido en el numeral 5.2 de este título.
-
-En caso de observarse que el riesgo adicional determinado por la institución financiera no se ajusta a la realidad examinada o en el evento de que los sistemas de información no permitan la aplicación de una metodología adecuada para determinar el riesgo adicional de que se trata, este Organismo Fiscalizador podrá establecer la necesidad de reconocer un mayor riesgo potencial de dicha cartera.
-
-### 9. Exigencia de provisiones
-
-Las entidades fiscalizadas deberán mantener una provisión global para cubrir el riesgo de la cartera de colocaciones, por un monto equivalente a la pérdida estimada a que se refiere el N° 6 de este título. Además, deberán mantener una provisión para cubrir el riesgo adicional que se hubiere determinado de acuerdo con lo señalado en el N° 7 del presente título, y, cuando corresponda, las demás provisiones de que trata el 2, título I, del Capítulo 8-29 de esta Recopilación Actualizada de Normas.
-
-La provisión global que debe mantenerse variará según los cambios que experimente la pérdida estimada, en tanto que la exigencia de la provisión adicional antes señalada dependerá de la eventual existencia de créditos riesgosos en su origen. Por consiguiente, las provisiones deberán incrementarse cuando aumenten los riesgos que ellas cubren y, cuando éstos disminuyan, podrán revertirse los excedentes de provisiones que se produzcan. Sin embargo, en este último caso, las instituciones que no se encuentren clasificadas por lo menos dos veces consecutivas en la categoría I según la calidad de sus procedimientos de clasificación de cartera, podrán disminuir el nivel de provisiones sólo hasta los montos de provisiones mínimas informadas por este Organismo, según lo establecido en el numeral 9.2.
-
-El procedimiento para determinar cuál es el monto de provisiones que debe mantenerse, es el siguiente:
-
-9.1.- Instituciones clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
-
-Las instituciones que, de acuerdo con lo señalado en el título I de este Capítulo, se mantengan clasificadas por segunda o más veces consecutivas en categoría I según la calidad de sus procesos de clasificación de cartera, mantendrán automáticamente el nivel de provisiones exigido sobre la base de lo dispuesto anteriormente. Por consiguiente, esas instituciones reconocerán tanto los aumentos como las disminuciones de la pérdida estimada y, cuando corresponda, del riesgo adicional de que trata el numeral 7.2 de este Capítulo, según los créditos que mantengan al término de cada mes registrados en el activo, incluidos los reajustes e intereses devengados, sin perjuicio de los cambios que, sobre la materia, realice la institución con posterioridad a la visita de inspección de este Organismo, en los casos que corresponda.
-
-Cada vez que esta Superintendencia, de acuerdo con lo señalado en los numerales 8.1 y 8.4 de este Capítulo, comunique las clasificaciones de deudores según los resultados de su revisión y la nómina de créditos riesgosos en su origen, las provisiones mínimas exigidas deberán calcularse considerando dichas clasificaciones y créditos a partir del mismo mes en que ellos sean comunicados, sin perjuicio de los cambios que, sobre la materia, realice la institución con posterioridad a la visita de inspección de este Organismo, en los casos que corresponda.
-
-Los ajustes que, en virtud de lo señalado en este numeral, se realicen al término de cada mes, deberán quedar debidamente justificados por la respectiva institución financiera con los antecedentes que los respaldan, los cuales deberán conservarse en un archivo especial para eventuales revisiones de esta Superintendencia.
-
-9.2.- Instituciones que no estuvieren clasificadas dos veces consecutivas en categoría I según sus procesos de clasificación de cartera.
-
-Las instituciones financieras que estuvieren clasificadas en las categorías II ó III, como asimismo aquellas que estando en categoría I no hubieren alcanzado la misma categoría en la evaluación precedente, quedarán sujetas a las siguientes reglas:
-
-a) Estimación de pérdidas y riesgos adicionales informados por esta Superintendencia.
-
-La pérdida estimada de la cartera y, eventualmente, la existencia de riesgos adicionales, serán comunicados por esta Superintendencia a las instituciones financieras al término de las revisiones periódicas que efectúe, sin perjuicio de hacerlo, además, cada vez que cuente con los elementos de juicio necesarios para precisarlos. Los montos que se determinen se entenderán vigentes desde el momento en que sean comunicados y hasta que la institución financiera reciba una nueva comunicación en tal sentido.
-
-Para efectos de la exigencia de provisiones, al establecer la pérdida estimada de la cartera, se considerarán las colocaciones con sus respectivos reajustes e intereses por cobrar registrados en el activo a la fecha a que esté referida la evaluación para los fines de estimar dicha pérdida. El saldo de esas colocaciones, sobre el cual corresponde aplicar el porcentaje estimado de
-
-pérdida de la cartera para determinar la exigencia de provisiones, deberá reajustarse por la variación que experimente la Unidad de Fomento entre la fecha de evaluación y la de los sucesivos cierres de mes en los cuales corresponde constituir las provisiones.
-
-Igual procedimiento al recién señalado, en lo que a reajuste se refiere, deberá utilizarse para actualizar los riesgos adicionales de que trata el N° 7 de este título.
-
-En consecuencia, las exigencias de provisiones que esta Superintendencia informe, tanto para cubrir la pérdida estimada de la cartera como para cubrir el riesgo adicional originado por el otorgamiento de créditos riesgosos en su origen, cuando corresponda, quedarán expresadas en unidades de fomento y se entenderán vigentes desde el momento en que sean comunicadas y hasta que la institución reciba una nueva comunicación en tal sentido.
-
-Si con posterioridad a la comunicación de esta Superintendencia, la institución financiera estimare que el monto de las provisiones que debe constituir resulta excesivo por haberse procedido a castigar colocaciones que incidieron en forma importante en la pérdida estimada de la cartera, podrá solicitar a esta Superintendencia una reconsideración de la exigencia de provisiones, para lo cual deberá acompañar los antecedentes de los castigos efectuados.
-
-b) Estimación de pérdidas y riesgos adicionales informados por la propia institución financiera.
-
-Si como consecuencia de nuevas clasificaciones practicadas por la empresa aumenta el monto correspondiente a la pérdida estimada de la cartera de colocaciones, deberá incrementarse la provisión global hasta cubrir el referido monto. Para ese efecto, el nuevo porcentaje estimado de pérdida de la cartera deberá aplicarse sobre las colocaciones con sus respectivos reajustes e intereses por cobrar, registrados en el activo a la fecha de la evaluación en que se estima dicha nueva pérdida y reajustarse por la variación que experimente la Unidad de Fomento entre esa fecha y la de los sucesivos cierres de mes en los cuales corresponde constituir las provisiones exigidas.
-
-El mismo procedimiento deberá seguirse en caso de que aumente el riesgo adicional a que se refiere el 7 de este título, con respecto a la provisión especial que debe cubrirlo, como consecuencia del otorgamiento de nuevos créditos calificados como riesgosos en su origen.
-
-III.- EVALUACION DE INVERSIONES FINANCIERAS Y DE CREDITOS POR OPERACIONES DE INTERMEDIACION DE INSTRUMENTOS FINANCIEROS.
-
-1.- Inversiones financieras.
-
-De acuerdo con lo dispuesto en el Capítulo 8-21 de esta Recopilación Actualizada de Normas, las inversiones en bonos o debentures o en los efectos de comercio que se indican en el mismo Capítulo, quedan sujetas, al igual que los instrumentos de oferta pública emitidos por el Banco Central de Chile y por la Tesorería General de la República, al procedimiento de ajuste a valor de mercado cuando el plazo residual para su vencimiento sea superior a un año.
-
-Por consiguiente, la evaluación de riesgos de pérdida de las inversiones financieras, que puede dar lugar a la constitución de provisiones, se centrará en el análisis de la recuperabilidad de las inversiones que se mantengan en instrumentos emitidos por sociedades emisoras que pueden presentar problemas de liquidez o solvencia, cuando esas inversiones no queden sujetas al procedimiento de ajuste a valor de mercado.
-
-Para ese efecto se considerarán los instrumentos emitidos en el país por entidades diferentes al Banco Central de Chile o a la Tesorería General de la República y que no se encuentren clasificados en categorías "A" o "B" por la Comisión Clasificadora de Riesgo a que se refiere el Decreto Ley N° 3.500, de 1980.
-
-Los análisis que para esos casos especiales se efectúen y la forma en que se estimen las pérdidas, deberán quedar debidamente documentados y a disposición de esta Superintendencia.
-
-2.- Créditos por operaciones con pacto.
-
-Debido a que las pérdidas que podrían derivarse de las operaciones de compra con pacto de retrocompra de instrumentos financieros responderían solamente a situaciones de ocurrencia muy improbable al realizarse éstas conforme a las disposiciones vigentes, los activos correspondientes a estas operaciones no quedarán sujetos a un procedimiento general de evaluación o clasificación de los créditos, sin perjuicio de que la institución financiera deba mantener suficiente información acerca de los clientes y de la calidad de los instrumentos adquiridos, a fin de precaver eventuales pérdidas En todo caso, cualquier operación que pueda originar pérdidas deberá quedar, sobre la base de un criterio conservador, con las debidas provisiones al cierre del ejercicio.
-
-ANEXO N° 1. Suprimido.
-
-ANEXO N° 2
-
-EVALUACION DEL SISTEMA DE CLASIFICACION DE CARTERA DE LAS INSTITUCIONES FINANCIERAS.
-
-INDICADORES UTILIZADOS
-
-Aumento de las pérdidas estimadas a la cartera detectado durante la última revisión:
-
-X1 = Diferencia entre la pérdida estimada por la institución financiera a los deudores comprendidos en la muestra elegida en la visita de inspección, con respecto a la estimada por esta Superintendencia, expresada como porcentaje de las colocaciones comerciales evaluadas.
-
-Para el cálculo de este porcentaje no se incluirán las apelaciones ni los créditos reclasificados a raíz de hechos notoriamente desfavorables que le hayan ocurrido al deudor después de la fecha a que esté referida la revisión Por otra parte, el cálculo incluirá los créditos que se castiguen durante la visita de inspección
-
-Reclasificaciones exigidas:
-
-X2 = Porcentaje de los deudores comprendidos en la muestra, cuya clasificación se bajó durante la última revisión de cartera, excluyendo las reclasificaciones de categoría "A" a categoría "B"
-
-No se incluirán dentro de la muestra los deudores cuya clasificación se apele ni los créditos reclasificados a raíz de hechos notoriamente desfavorables que le hayan ocurrido al deudor después de la fecha a que esté referida la revisión. Por otra parte, el cálculo incluirá los créditos que se castiguen durante la visita de inspección.
-
-El porcentaje que corresponde a este indicador se calculará de la forma que se señala más adelante.
-
-Y2 = Cantidad de deudores de la muestra cuya clasificación se bajó durante la última revisión de cartera, excluyendo las reclasificaciones de categoría "A" a categoría "B".
-
-No se incluirán los créditos reclasificados a raíz de hechos notoriamente desfavorables que le hayan ocurrido al deudor después de la fecha a que esté referida la revisión. Por otra parte, se incluirán los créditos que se castiguen durante la visita de inspección
-
-Disponibilidad de información para clasificar a los deudores:
-
-X3 = Porcentaje de los deudores analizados en la revisión practicada por este Organismo de los que la institución no cuenta con información suficiente que le permita, tanto a ella como a esta Superintendencia, evaluar los riesgos y estimar las pérdidas potenciales de su cartera.
-
-Para este efecto se consideraran todos los deudores analizados (incluidos los casos apelados) para los que no se cuente con información suficiente El porcentaje se calculará de la forma que se señala más adelante
-
-Y3 = Cantidad de deudores analizados en la revisión practicada por este Organismo para los que la institución no cuenta con información suficiente que le permita, tanto a ella como a esta Superintendencia, evaluar los riesgos y estimar las pérdidas potenciales de su cartera.
-
-Se considerarán todos los deudores analizados (incluidos los casos apelados) para los que no se cuente con información suficiente.
-
-Cálculo de los indicadores X2 y X3.
-
-Con el fin de que se puedan inferir conclusiones válidas a partir de las muestras elegidas, los indicadores X2 y X3 corresponderán al porcentaje que represente la cantidad de deudores reclasificados y el numero de deudores sin información suficiente, respectivamente, en relación con la cantidad que resulte mayor entre
-
-a) el número de deudores de la muestra elegida u 80, si la cantidad de mayores deudores comerciales que acumulan el 75% de la cartera comercial es mayor o igual a 320, o,
-
-b) el número de deudores de la muestra elegida o la cuarta parte del número de los mayores deudores comerciales que acumulan el 75% de la cartera de colocaciones comerciales, cuando éstos no superen los 320 deudores
-
-Clasificación de la suficiencia de información a que se refieren los indicadores X3 e Y3.
-
-En general, la información para clasificar a un deudor será suficiente en la medida en que ella permita obtener conclusiones fundadas acerca de los riesgos y pérdidas potenciales de los créditos otorgados a ese deudor de acuerdo con la metodología dispuesta en este Capítulo, lo cual dependerá de una serie de factores o circunstancias.
-
-Naturalmente que para calificar la información como suficiente o insuficiente y determinar, en consecuencia, los indicadores X3 e Y3 antes señalados, esta Superintendencia considerará cada caso en particular, teniendo en cuenta, entre otros factores, la situación jurídica, el tamaño de la empresa, la naturaleza y monto de la operación, la validez y confiabilidad de los datos o antecedentes conocidos y la clasificación de riesgo propuesta
-
-Así, por ejemplo, los antecedentes para una operación con una sociedad anónima abierta (que se encuentra sujeta a regulaciones en materia de emisión de información al público), no serán iguales a los requeridos cuando se trate de una operación con una empresa pequeña o mediana (que normalmente no prepara estados financieros en forma periódica o no tiene la exigencia de publicar balances auditados). Tampoco serán iguales, por ejemplo, los antecedentes necesarios para clasificar en categoría "D" a un deudor con serias dificultades financieras cuyos créditos se encuentren en cobranza judicial y los exigidos a uno que muestra una buena situación patrimonial y financiera y que ha servido oportunamente sus obligaciones.
-
-Si bien la multiplicidad de casos que pueden darse en la práctica impiden establecer exigencias de información en términos tales que la suficiencia o insuficiencia de información se determine mediante una mera verificación rutinaria de la existencia o inexistencia de determinados antecedentes, a fin de orientar a las instituciones sobre los criterios que aplicará esta Superintendencia se incluye en el Anexo N° 3 de este Capítulo una breve descripción de aquellos elementos que, a su juicio, caracterizan a un buen sistema de clasificación de cartera
-
-En todo caso, en una primera etapa la muestra para establecer los indicadores X3 e Y3 se tomará solamente de los mayores deudores que acumulen el 75% de la cartera comercial de la institución.
-
-CATERGORIAS DE CLASIFICACION DE LAS INSTITUCIONES
-
-Las instituciones financieras serán clasificadas en las categorías I, II y III, de acuerdo a los criterios que se exponen a continuación;
-
-Categoría I.
-
-Una institución será clasificada en categoría I, si satisface simultáneamente las siguientes condiciones
-
-.
-
-Categoria II
-
-Serán clasificadas en categoría II, las instituciones que no cumplan algunas de las condiciones definidas más arriba, pero que se encuadren dentro de las siguientes condiciones:
-
-.
-
-Categoria III
-
-Una entidad financiera será clasificada en categoria III, si se encuentra en una o más de las siguientes situaciones :
-
-.
-
-> **Nota.** La letra I del N°I de la Circular 2686, SBIF, promulgada el 10.06.1992, agrega al presente Anexo los antecedentes relativos al indicador que se utilizará en el caso de los créditos clasificados según su morosidad.
-
-ANEXO N°3
-
-ELEMENTOS DE UN BUEN SISTEMA DE CLASIFICACION DE CARTERA
-
-A juicio de esta Superintendencia, para desarrollar un sistema de clasificación de cartera eficiente, las instituciones financieras deben considerar, en cada caso, la necesidad de mantener los antecedentes que se señalan a continuación. Esta información corresponde a aquella que es examinada normalmente por este Organismo y la necesidad de contar con ella depende, naturalmente, de las peculiaridades de los deudores o de los créditos de que se trate.
-
-(a) Antecedentes legales, constitución, modificaciones, capital, etc.
-
-(b) Identificación clara de los dueños directos o indirectos de la sociedad deudora y relaciones con otras empresas, especialmente si éstas también son deudoras de la institución financiera.
-
-(c) Actividad del deudor. Bienes o servicios que vende, experiencia, breve historia de la empresa y de sus relaciones con la institución (cuándo se inició como cliente y qué operaciones se le han financiado, dificultades que ha enfrentado, etc ) y características de la competencia que enfrenta. Si se trata de una empresa perteneciente a un grupo de sociedades, la forma como opera con el resto de las empresas relacionadas. Además, antecedentes económicos o estadísticos del sector de actividad en que opera el deudor.
-
-(d) Evaluación del proyecto de largo plazo financiado, debidamente analizada por la institución
-
-(e) Estados financieros actualizados incluyendo cierres dentro del año y, en lo posible, auditados.
-
-(f) Comprobantes de pago de IVA y declaración de impuesto a la renta cuando no se cuente con información financiera confiable o actualizada
-
-(g) Determinación clara del objetivo de los prestamos. Al tratarse de renegociaciones, información de cuál era el objetivo inicial.
-
-(h) Memorándum de aprobación de créditos otorgados en los últimos tres años o desde que el deudor es cliente de la institución, que indique claramente el destino de los fondos.
-
-(i) Características de los créditos actuales: fecha de otorgamiento, plan de pago, tasa de interés, etc.
-
-(j) Antecedentes sobre el comportamiento de pago del deudor; si paga en las fechas estipuladas o se le renuevan las obligaciones, con o sin capitalización de intereses.
-
-(k) Información actualizada sobre las garantías, con el correspondiente informe de la fiscalía. Acceso expedito a los documentos que acrediten las garantías constituidas. Todas las garantías deben contar con tasaciones lo más actualizadas posibles (lo que dependerá de la naturaleza del bien en cuestión). Informes sobre seguros tomados (y certificados Cora cuando corresponda).
-
-(l) Informes de visitas al deudor con los comentarios correspondientes.
-
-(m) Correspondencia intercambiada entre la institución financiera y el deudor.
-
-(n) Informe de la persona a cargo de la clasificación de cartera que fundamente la categoría asignada al deudor.
-
-(ñ) Informe actualizado que dé cuenta de una completa visión de los riesgos que el deudor está asumiendo en el desenvolvimiento de su negocio y, cuando corresponda, de los riesgos financieros que enfrenta.
-
-La mantención de la información antes descrita dependerá, como ya está dicho, de las características del deudor, del tipo de créditos otorgados, del monto de sus obligaciones, etc. A modo de orientación y considerando un sistema ideal de clasificación de cartera, se entregan a continuación algunos ejemplos de la información que sería suficiente, en los casos que se tipifican, para los propósitos de fundamentar la clasificación:
-
-Ejemplo 1: Crédito otorgado recientemente para financiar un proyecto de una empresa nueva.
-
-En estos casos la institución debería mantener la información signada con las letras (a), (b), (c), (d), (e), (i), (k), (m) y (n).
-
-- Ejemplo 2: Crédito para financiar la ampliación de una empresa en marcha.
-
-En este caso la institución debería contar con todos los antecedentes antes señalados.
-
-- Ejemplo 3: Crédito para financiar, a corto o mediano plazo, la compra de un bien del activo fijo que no tiene gran importancia dentro de los activos totales de la empresa
-
-Aquí se debería contar con los antecedentes señalados en las letras (a), (b), (c), (e), (f ), (g), (i), (k), (m) y (n).
-
-- Ejemplo 4: Créditos otorgados a una empresa para financiar capital de explotación permanente
-
-Se debería disponer de los antecedentes indicados en las letras (a), (b), (c), (e), (f), (g) dentro de lo posible, (h), (i), (j), (k), (l), (m), (n) y (ñ)
-
-- Ejemplo 5: Créditos otorgados a deudores agrícolas para financiar la explotación anual de su predio
-
-Para este tipo de operación, la institución debería contar con la información a que se refieren las letras (a), si se trata de una persona jurídica, (b), (c), (e) que debería consistir en un estado de situación si no lleva contabilidad, (f), (g), (i), (k), (l), (m), (n) y (ñ) Además, la institución debería contar con un estudio de la rentabilidad de la explotación anual que está financiando
-
-- Ejemplo 6: Créditos otorgados con garantías consistentes en cartas de crédito stand by (que cumplan las condiciones señaladas en el numeral 2 5 del título II de este Capítulo) o depósito a plazo que cubra la totalidad del préstamo.
-
-En este caso bastara con la información señalada en las letras (a), (b) y (k)
-
-- Ejemplo 7: Deudores en senas dificultades financieras que se encuentren en cobranza judicial.
-
-En estas circunstancias, se requerirá de lo señalado en las letras (a), (b), (k) y (n), además de un informe del abogado que lleva la cobranza sobre el estado de esta y las posibilidades de recuperación de los créditos.
-
-- Ejemplo 8: Deudores que se encuentren en dificultades financieras que están tratando de alcanzar algún arreglo con sus bancos acreedores
-
-En estos casos es necesario contar con toda la información, lo más completa posible
-
-Para algunos de estos ejemplos sería necesario consignar, además, que si se trata de una empresa pequeña o mediana, que tiene un volumen de operaciones pequeño y por lo general no cuenta con antecedentes financieros completos, la cantidad o calidad de la información dependerá muchas veces de estos factores.
-
 CAPITULO 8-29 (Bancos y Financieras)
 
 MATERIA:
 
-PROVISIONES Y CASTIGOS.
+CASTIGOS DE COLOCACIONES.
 
-### I. PROVISIONES Y CASTIGOS DE COLOCACIONES
+1.- Castigo de las operaciones de crédito.
 
-### 1. Provisión global y provisiones individuales
+1.1.- Condiciones que determinan el castigo de los créditos.
 
-1.1. Provisión global.
+El castigo de los créditos, tanto en moneda chilena como extranjera debe realizarse en los siguientes casos:
 
-Las instituciones fiscalizadas deberán mantener una provisión global para cubrir el riesgo de la cartera, por el monto que se determinará mensualmente, de acuerdo con lo dispuesto en el N° 9 del título II del Capítulo 8-28 de esta Recopilación.
-
-En todo caso, la provisión global que debe mantenerse no podrá ser inferior al 0,75% del total de las colocaciones e intereses por cobrar al cierre de cada mes. Si por aplicación de lo dispuesto en el Capítulo 8-28 antes citado, se obtiene una provisión que representa un porcentaje inferior al 0,75% del total de la cartera de colocaciones registrada en el activo al cierre del mes
-
-respectivo, incluidos los intereses por cobrar, dicha provisión deberá ajustarse a aquel mínimo.
-
-1.2. Provisiones individuales para créditos vencidos.
-
-Las provisiones individuales para créditos vencidos se refieren al resguardo que debe tener cada institución financiera respecto del riesgo de irrecuperabilidad de cada uno de tales créditos.
-
-La provisión individual se constituirá por el 100% del importe del crédito o porción de éste que, de acuerdo con las instrucciones de esta Superintendencia, se encuentre registrado en cartera vencida y que no cuente con garantías o esté amparado sólo en garantías personales (avales o fianzas).
-
-Cuando se trate de créditos en moneda extranjera, las respectivas provisiones individuales se constituirán por su equivalente en pesos moneda chilena, determinado sobre la base de la cotización vigente de la moneda en que se encuentre expresado el crédito, fijada por esta Superintendencia para fines de representación contable.
-
-Los créditos vencidos, amparados por garantías reales (sobre un bien determinado) están exentos de la constitución de provisiones individuales por la parte del crédito que se encuentre caucionada por la respectiva garantía hipotecaria o prendaria. Para estos efectos, se considera como valor de dicha garantía el precio de mercado de los bienes de que se trate, demostrado mediante
-
-tasaciones o certificaciones recientes. Si esas garantías son válidas para los límites de crédito de que trata el N° 1 del artículo 84 de la Ley General de Bancos, se utilizará el criterio de valorización dispuesto en el Capítulo 12-3
-
-de esta Recopilación.
-
-Por otra parte, como el valor de las garantías reales que amparen créditos vencidos puede sufrir variaciones que afectan a su vez el monto de las respectivas provisiones individuales, al cierre de cada ejercicio anual éstas deberán ajustarse, como asimismo, en la ocasión en que se proceda al castigo de esos créditos, de modo que correspondan a la diferencia que en esa oportunidad
-
-exista entre los valores de la garantía y del crédito caucionado. Sin embargo, en el caso de los créditos en moneda extranjera, el ajuste señalado deberá hacerse al término de cada mes, considerando el tipo de cambio de representación contable, fijado por esta Superintendencia, que se encuentre vigente a esa fecha.
-
-1.3. Cómputo de provisiones individuales y global.
-
-Como el proceso de clasificación de cartera comprende tanto colocaciones vigentes como vencidas, puede ocurrir que existan créditos vencidos por los que se ha enterado la respectiva provisión individual y que, a la vez, estuviesen clasificados dentro de los mayores deudores de la entidad, generándose de ese modo, por tales créditos, una doble constitución de provisiones. Similar situación ocurre al aplicar el porcentaje de riesgo a aquellos créditos no evaluados y que están registrados en cartera vencida. Con el objeto de evitar esta duplicidad, el monto de las provisiones que, hasta por el monto de lo exigido se hubieren constituido por créditos vencidos, se considerará en abono de la provisión global a que se refiere el numeral 1.1 de este título, sin perjuicio de que, para los efectos de contabilización, debe registrarse separadamente el saldo de las mencionadas provisiones individuales exigidas.
-
-1.4. Contabilización de las provisiones global e individuales.
-
-La provisión global se debe registrar en la cuenta "Provisiones globales para la cartera de colocaciones" de la partida 4205 y constituirse con cargo a la cuenta que, con el mismo nombre se incluirá en la partida 6110.
-
-Las provisiones individuales, por su parte, se constituirán con abono a la cuenta "Provisiones individuales para créditos vencidos" de la partida 4205 y con cargo a una cuenta que, con el mismo nombre, debe incluirse en la partida 6110.
-
-Tanto las provisiones individuales como la provisión global, cuando corresponda, serán utilizadas para efectuar castigos de las colocaciones, de acuerdo con las instrucciones del numeral 3 3 de este título.
-
-Los excesos de provisiones individuales o de provisión global que se liberen por cualquier motivo, se acreditarán en las respectivas cuentas de resultado de la partida 6110.
-
-Al cierre de cada mes, el importe de las cuentas de provisiones sobre colocaciones de la partida 4205 deberá reflejar el monto constituido de las provisiones calculado de acuerdo con lo indicado en el Capítulo 8-28, más las provisiones que se indican en este Capítulo y las que adicionalmente la institución pudiera constituir para cubrir riesgos de la cartera de colocaciones.
-
-No obstante lo anterior, para el solo efecto de presentación, el importe que corresponde al riesgo calculado para los créditos hipotecarios para vivienda se traspasará a la cuenta "Provisiones para créditos hipotecarios para vivienda" de la partida 4207, cargando la cuenta "Provisiones globales para la cartera de colocaciones" de la partida 4205 o, si fuere el caso, "Provisiones individuales para créditos vencidos" de la misma partida. El monto de las provisiones exigidas correspondiente a los créditos hipotecarios para la vivienda se obtendrá conforme a lo señalado en los N°s 4 y 5 del título II del Capítulo 8-28. Dicha contabilización se revertirá al mes siguiente, para volver a reflejar al cierre de éste, en la cuenta "Provisiones para créditos hipotecarios para vivienda", el importe que corresponda según lo indicado.
-
-### 2. Provisiones adicionales sobre colocaciones
-
-Además de la provisión global sobre la cartera de colocaciones y de las provisiones individuales para créditos vencidos de que trata el N° 1 precedente, las instituciones financieras deben mantener, cuando corresponda, las provisiones adicionales que se indican a continuación:
-
-2.1. Provisiones transitorias sobre créditos renegociados.
-
-Los bancos y sociedades financieras que renegocien algún crédito o cuota después de transcurridos 90 días desde su vencimiento, deberán constituir una provisión equivalente al 100% de la diferencia entre el valor al cual estuviere registrado el crédito en el activo antes de la renegociación y el mayor valor al cual quedare contabilizado una vez que ésta se haya efectuado. En caso de que se renegocie un crédito castigado, la provisión corresponderá al monto total ingresado al activo.
-
-La misma provisión deberá constituirse, cualquiera sea la oportunidad en que se efectúe la renegociación, cuando el crédito renegociado se encuentre en alguna de las situaciones que determinan la suspensión de intereses y reajustes antes del vencimiento, señaladas en el numeral 3.1.1 del título II del Capítulo 7-1 de esta Recopilación.
-
-Para los efectos de constituir las provisiones transitorias de que se trata, se considerarán también los otorgamientos de nuevos créditos, ya sea al mismo deudor o a un tercero, que se destinen a pagar algún crédito que se encuentre en alguna de las situaciones señaladas en los párrafos precedentes.
-
-Las instituciones financieras que estuvieren clasificadas por lo menos por segunda vez consecutiva en categoría I de acuerdo con la calidad de sus procesos de clasificación de cartera, podrán liberar las provisiones constituidas cuando el deudor del respectivo crédito otorgado sea clasificado considerando su nueva situación crediticia.
-
-En el caso de las instituciones que no se encuentren en la situación prevista en el párrafo precedente, estas provisiones deberán mantenerse íntegramente hasta que esta Superintendencia examine en sus inspecciones habituales, la clasificación de los créditos renegociados e informe un nuevo riesgo para la cartera. Una vez examinada la clasificación podrán liberarse todas las provisiones sobre créditos renegociados constituidas hasta la fecha a la que esté referida la evaluación efectuada por esta Superintendencia, sin perjuicio de enterar, cuando corresponda, la provisión necesaria para cubrir la nueva pérdida estimada de la cartera, derivada de esa clasificación.
-
-Las provisiones por renegociación de créditos en cartera vencida o castigados se abonarán a la cuenta "Provisiones sobre créditos renegociados" de la partida 4205, con cargo a la cuenta de resultados del mismo nombre de la partida 6110.
-
-Quedan excluidos las disposiciones de este numeral, los créditos de consumo y los préstamos hipotecarios para la vivienda de que tratan los números 3 y 4 del título II del Capítulo 8-28 de esta Recopilación, respectivamente. Asimismo, quedarán exentos los créditos renegociados cuyo saldo después de la renegociación sea igual o inferior al equivalente de 1.000 unidades de fomento y aquellos que se destinen a pagar obligaciones que se encuentren en las situaciones antes señaladas, cuando no superen ese monto equivalente.
-
-2.2. Provisión por créditos riesgosos en su origen.
-
-Las instituciones fiscalizadas que tuvieren un riesgo adicional por registrar colocaciones riesgosas en su origen de acuerdo con las definiciones establecidas en el N° 1, título II, del Capítulo 8-28 de esta Recopilación Actualizada de Normas, deberán mantener una provisión para cubrir aquel riesgo conforme a lo exigido en el N° 9, título II, de ese Capítulo.
-
-La provisión de que se trata se constituirá con abono a la cuenta "Provisión para créditos riesgosos en su origen", de la partida 4205, con cargo a la cuenta de resultado del mismo nombre que se incluirá en la partida 6110.
-
-Cuando corresponda liberar todo o parte de esa provisión, se acreditará la cuenta de gastos señalada en el párrafo precedente, pero sólo hasta la concurrencia del saldo deudor que demuestre esa cuenta. Los importes que excedan al mencionado saldo se abonarán a la cuenta "Liberación de provisiones por riesgo de activos", de la partida 8110.
-
-Las provisiones sobre créditos renegociados deberán abonarse a la cuenta "Provisiones sobre créditos renegociados", cuyo saldo formará parte de la partida 4205, con cargo a la cuenta del mismo nombre que se demostrará en la partida 6110. Cuando corresponda liberar todo o parte de esa provisión, se acreditará la misma cuenta de resultados.
-
-2.3. Provisión especial por el uso de procedimientos deficientes de clasificación.
-
-Las instituciones financieras que, conforme a lo señalado en el Título I y en el Anexo N° 2 del Capítulo 8-28 de esta Recopilación, estén clasificadas en la categoría III según la calidad de su sistema de clasificación de cartera, deberán constituir un resguardo adicional con el fin de cubrir el mayor riesgo inherente a la falta de diagnósticos certeros y oportunos de la calidad de su cartera o los errores de estimación que se pueden derivar de las deficiencias de los procedimientos utilizados.
-
-Para ese efecto, las instituciones financieras que se califiquen en dicha categoría enterarán una provisión adicional equivalente al 20% de la diferencia entre la pérdida estimada por la institución y la determinada en la revisión de este Organismo, correspondiente a la muestra de deudores elegida en cada oportunidad. El monto de dicha provisión, expresado en Unidades de Fomento, se constituirá en el mismo mes en que la institución reciba la respectiva comunicación de esta Superintendencia.
-
-La referida provisión adicional se mantendrá constituida mientras la institución se encuentre clasificada en categoría III, salvo que, como consecuencia de una clasificación de cartera que ella efectúe con posterioridad a la visita que haya dado origen a esa provisión, reconozca pérdidas de cartera superiores a la suma de la pérdida informada por este Organismo más el monto de la provisión de que se trata, en cuyo caso podrá, previa consulta a esta Superintendencia, traspasar a la provisión global el importe de dicha provisión especial.
-
-La provisión a que se refiere este numeral se constituirá con abono a la cuenta "Provisiones por mayor riesgo sistemas de clasificación", de la partida 4205, con cargo a la cuenta de resultado del mismo nombre de la partida 6110. Para liberar la provisión se revertirá el asiento efectuado.
-
-2. 4. Cómputo de las provisiones adicionales.
-
-En cualquier caso, las provisiones adicionales a que se refiere este N° 2 deben tratarse y considerarse en forma independiente de las demás provisiones constituidas; vale decir, no puede imputarse una en abono de la otra, como tampoco en abono de otras provisiones sobre la cartera de colocaciones, ni estas últimas, a su vez, pueden imputarse, total o parcialmente, en abono de alguna de ellas.
-
-### 3. Castigos de colocaciones
-
-Los castigos de colocaciones deberán efectuarse de acuerdo con las instrucciones de los numerales siguientes.
-
-Los procedimientos que se disponen para el castigo del total o parte de los créditos que cumplen las condiciones que a continuación se indican, tienen sólo el propósito de depurar el activo en la contabilidad de las instituciones, lo que no las exime de la obligación de dar cumplimiento a las disposiciones tributarias sobre la materia, ni les afectan los derechos a ejercer las acciones para la recuperación de esos créditos.
-
-3.1. Condiciones que determinan el castigo de colocaciones.
-
-El castigo de las colocaciones, tanto en moneda chilena como extranjera debe realizarse en los siguientes casos: a) Cuando un crédito vencido carezca de título ejecutivo. En este caso el castigo total o parcial, según corresponda, se efectuará en la oportunidad en que el saldo debería ser traspasado a cartera vencida, de acuerdo con lo instruido en el numeral 1.1 del Capítulo 8-26 de esta Recopilación.
+a) Cuando un crédito vencido carezca de título ejecutivo. En este caso el castigo total o parcial, según corresponda, se efectuará en la oportunidad en que el saldo debería ser traspasado a cartera vencida, de acuerdo con lo instruido en el numeral 1.1 del Capítulo 8-26 de esta Recopilación.
 
 b) Al cumplirse el plazo de prescripción de las acciones para demandar el cobro mediante un juicio ejecutivo o al momento del rechazo o abandono de la ejecución del título por resolución judicial ejecutoriada.
 
 c) Cuando la institución financiera acreedora considere que no existe ninguna posibilidad de recuperación del respectivo crédito.
 
-d) Cuando se cumpla el plazo en que la operación puede mantenerse impaga en cartera vencida, según lo dispuesto en el numeral 3.2 siguiente.
+d) Cuando se cumpla el plazo en que la operación puede mantenerse impaga en cartera vencida, según lo dispuesto en el numeral 1.2 siguiente.
 
-Cuando se castigue un crédito cuyo plazo de vencimiento aún no se haya cumplido, deber**A***á seguir informándose como vigente en la información sobre deudores a que se refiere el Capítulo 18-5 de esta Recopilación, mientras no se cumpla la fecha de vencimiento. El mismo criterio deberá seguirse con las cuotas no vencidas de un crédito pagadero en cuotas, como ocurre, por ejemplo, en el caso de los castigos de créditos de consumo efectuados por la causal prevista en el último párrafo del numeral 3.2.2 de este título.
+Cuando se castigue un crédito cuyo plazo de vencimiento aún no se haya cumplido, deberá seguir informándose como vigente en la información sobre deudores a que se refiere el Capítulo 18-5 de esta Recopilación, mientras no se cumpla la fecha de vencimiento. El mismo criterio deberá seguirse con las cuotas no vencidas de un crédito pagadero en cuotas, como ocurre, por ejemplo, en el caso de los castigos de créditos de consumo efectuados por la causal prevista en el último párrafo del numeral 1.2.2 de este Capítulo.
 
-3.2. Plazos para efectuar los castigos de créditos vencidos.
+1.2.- Plazos para efectuar los castigos de créditos vencidos.
 
-Todas aquellas operaciones vencidas que se mantengan registradas en cartera vencida por no encontrarse dentro de los casos tipificados en las letras a), b) o c) del numeral 3.1.1 anterior, deberán castigarse dentro de los plazos que se disponen a continuación:
+Todas aquellas operaciones vencidas que se mantengan registradas en cartera vencida por no encontrarse dentro de los casos tipificados en las letras a), b) o c) del numeral 1.1 anterior, deberán castigarse dentro de los plazos que se disponen a continuación:
 
-3.2.1. Norma general.
+1.2.1.- Norma general.
 
 Los créditos vencidos que no cuenten con garantías o estén amparados sólo por garantías personales, se castigarán dentro de un plazo de 24 meses desde su ingreso a cartera vencida.
 
@@ -11560,157 +10876,59 @@ Los créditos vencidos amparados por garantías reales, se castigarán dentro de
 
 En el caso en que sólo una parte del crédito se encuentre cubierta con garantías reales, el plazo de 36 meses será aplicable únicamente a la parte del saldo equivalente al valor de dichas garantías, de modo que la proporción no cubierta por ellas deberá castigarse dentro del plazo de 24 meses a que se refiere el primer párrafo de este numeral.
 
-3.2.2. Créditos pagaderos en cuotas.
+1 2.2.- Créditos pagaderos en cuotas.
 
-Cuando se trate de créditos pagaderos en cuotas, como lo son los préstamos en letras de crédito y otros con modalidades de servicio similares, el plazo para efectuar el castigo será de 36 meses a partir de la fecha en que se traspase a cartera vencida la cuota impaga más antigua. Al momento de cumplirse 36 meses de permanencia de una cuota diferentes a créditos de consumo en cartera vencida, se castigará esa cuota y las demás que estuvieren en situación de mora. Las restantes cuotas aún cobrables deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada una de ellas, sin perjuicio de que puede también castigarse el total del saldo del crédito.
+Cuando se trate de créditos pagaderos en cuotas diferentes a créditos de consumo, como lo son los préstamos en letras de crédito y otros con modalidades de servicio similares, el plazo para efectuar el castigo será de 36 meses a partir de la fecha en que se traspase a cartera vencida la cuota impaga más antigua. Al momento de cumplirse 36 meses de permanencia de una cuota en cartera vencida, se castigará esa cuota y las demás que estuvieren en situación de mora Las restantes cuotas aún cobrables deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada una de ellas, sin perjuicio de que puede también castigarse el total del saldo del crédito.
 
-En el caso de los créditos de consumo a que se refiere el numeral 31 del título II del Capítulo 8-28 de esta Recopilación, incluidos los créditos correspondientes a tarjetas de crédito, deberá castigarse la totalidad del crédito al momento en que una cuota cumpla 6 meses, a contar de su vencimiento, sin que ella se haya pagado.
+En el caso de los créditos de consumo a que se refiere el Anexo N° 2 del Capítulo 7-10 de esta Recopilación, deberá castigarse la totalidad del crédito al momento en que una cuota cumpla 6 meses, a contar de su vencimiento, sin que ella se haya pagado.
 
-3.3. Contabilización de los castigos de colocaciones.
+2.- Castigo de las operaciones de leasing.
 
-Los castigos de colocaciones se contabilizarán de acuerdo con las instrucciones que se indican a continuación:
+Los contratos de arrendamiento se castigarán cuando se cumpla alguna de las siguientes circunstancias:
 
-a) Por el castigo del activo:
+a) Cuando un contrato que mantenga cuotas impagas, no esté amparado por un título ejecutivo y los bienes arrendados no se encuentren en poder del arrendatario,
 
-Debe: - "Provisiones individuales para créditos vencidos" o "Provisiones globales para la cartera de colocaciones", según corresponda, de la partida 4205.
+b) Al cumplirse el plazo de prescripción de las acciones de cobro o al momento del rechazo de la ejecución del contrato por resolución judicial ejecutoriada,
 
-- "Castigos de créditos comerciales", "Castigos de créditos de consumo" o "Castigos de créditos hipotecarios de vivienda", según corresponda, de la partida 9602 "Castigos de colocaciones en el ejercicio", por el importe total en que se rebaja el activo contra las provisiones.
+c) Cuando, por insolvencia del arrendatario u otra causa sobreviniente, la institución considere que no existe ninguna posibilidad de recuperación de las rentas de arrendamiento, y el valor del bien no pueda ser considerado para los efectos de recuperación del contrato, ya sea por el estado en que se encuentra, por los gastos que involucraría su recuperación, traslado y mantención, por obsolescencia tecnológica o por no existir antecedentes sobre su ubicación y estado actual,
 
-Haber: - La cuenta de colocaciones, reajustes e intereses por cobrar que corresponda.
+d) Por último, aun cuando la institución estime que puede lograr la recuperación de los montos adeudados, deberá seguir los siguientes criterios i) si el contrato no se encuentra amparado con un título ejecutivo, castigará las cuotas morosas que hayan cumplido 90 días impagas y si la cuota más antigua ha cumplido 12 meses desde su vencimiento, deberá además castigar la totalidad del crédito, ii) si el contrato se encuentra amparado por un título ejecutivo, castigará todas las cuotas vencidas cuando la más antigua de ellas haya cumplido 12 meses desde su vencimiento y, posteriormente, deberá castigar las cuotas restantes a medida que vayan venciendo. Este último procedimiento podrá anticiparse mediante el castigo del saldo total del contrato, lo que en todo caso se hará al presentarse alguna de las circunstancias señaladas en los literales precedentes.
 
-- La cuenta de orden de la partida 9900.
+3.- Contabilización de los castigos de colocaciones.
 
-Simultáneamente con la contabilización antes señalada, deberán revertirse, cuando proceda, de las cuentas de orden que correspondan, los montos por los reajustes e intereses de los créditos castigados, cuyo devengo hasta la fecha de vencimiento no se reconoció en los resultados.
+Los castigos de colocaciones deberán efectuarse siempre aplicando las respectivas provisiones constituidas.
 
-El uso que se hace de las provisiones globales o la aplicación de las provisiones individuales en los castigos, no exime a las instituciones financieras de mantener el nivel de provisiones exigidas. Por consiguiente, si al castigar colocaciones se redujera el saldo de las provisiones a una suma inferior al nivel exigido, se deberá enterar el faltante con cargo a la respectiva cuenta de gastos.
+Cuando se trate de operaciones en moneda extranjera, para ese efecto se registrará la venta de la respectiva moneda extranjera, debitando la moneda chilena a la correspondiente provisión. Alternativamente, cuando proceda, pueden registrarse los castigos contra la cuenta "Reservas en moneda extranjera", cargando las provisiones constituidas según lo indicado en el párrafo precedente, con abono a la cuenta "Equivalente reservas en moneda extranjera".
 
-Las cuentas de orden de la partida 9602 "Castigos de colocaciones en el ejercicio", se utilizarán para informar el monto de los castigos efectuados en el año. En esta partida se incluirán también, en cuentas separadas según lo previsto en el título III de este Capítulo, las rebajas del activo que obedecen a condonaciones. En consecuencia, los saldos de la partida 9602 reflejarán el uso de las provisiones individuales y globales en el ejercicio, debiendo revertirse tales saldos al comenzar el siguiente, a fin de reflejar sólo los castigos que se efectúen en ese año.
+4.- Recuperación de créditos castigados.
 
-b) Por el control de los créditos castigados que deben informarse a esta Superintendencia:
+Las sumas que se recuperen con posterioridad al castigo de un crédito, deben considerarse como ingreso en el momento en que ellas sean percibidas.
 
-Junto con la contabilización de los castigos a que se refiere la letra a) precedente, deberá registrarse también en cuentas de orden el importe de los créditos que deben seguir siendo informados a esta Superintendencia con posterioridad a su castigo contable. Para este efecto se utilizarán las siguientes cuentas de la partida 9600: "Créditos comerciales castigados", "Créditos de consumo castigados" o "Créditos hipotecarios para vivienda castigados". No obstante, si se trata de créditos o cuotas castigados antes de su vencimiento, los respectivos importes se incluirán en las cuentas "Créditos comerciales vigentes castigados", "Créditos de consumo vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la misma partida.
+Tales ingresos se informarán en las cuentas indicadas en el Anexo N° 3 del Capítulo 7-10 de esta Recopilación.
 
-En estas cuentas se registrarán los créditos por el importe correspondiente al castigo del activo más los intereses y reajustes que estuvieren registrados en cuentas de orden según las instrucciones del Capítulo 7-1 de esta Recopilación. En el caso de los créditos registrados a su valor final, se considerará dicho valor final.
+5.- Renegociación de créditos castigados.
 
-En cualquier caso, en las cuentas de orden de que trata esta letra b) debe incluirse solamente aquellos créditos que corresponde informar a esta Superintendencia según lo indicado en el Capítulo 18-5 de esta Recopilación y en el Manual del Sistema de Información. Los importes registrados en estas cuentas se revertirán en las oportunidades que se señalan en el N° 4 del título IV de este Capítulo.
-
-3.4. Castigo de créditos en moneda extranjera.
-
-Para castigar operaciones en moneda extranjera, las instituciones bancarias procederán a registrar la respectiva venta de la moneda extranjera, con la diferencia de que la moneda chilena será debitada a la correspondiente provisión individual que se hubiere constituido y, si ésta fuere insuficiente, a la provisión global. Alternativamente, cuando proceda, pueden registrarse los castigos contra la cuenta "Reservas en moneda extranjera", cargando las provisiones con abono a la cuenta "Equivalente reservas en moneda extranjera".
-
-3.5.- Recuperación de créditos castigados.
-
-Las sumas que se recuperen con posterioridad al castigo de un crédito, deben considerarse como ingreso en el momento en que ellas sean percibidas. Para ese efecto se utilizará la cuenta "Recuperación de colocaciones e inversiones castigadas" de la partida 7910.
-
-Estas recuperaciones, cuando corresponda, darán origen a ajustes en las cuentas de orden de la partida 9600 en que se encuentren registrados los créditos castigados.
-
-Además, en el evento de que un crédito castigado se pague con el producto de un nuevo crédito, debe constituirse sobre este último la provisión de que trata el numeral 2.1 de este título.
-
-3.6.- Renegociación de créditos castigados.
-
-En caso de que un crédito castigado sea objeto de renegociación, podrá reingresarse al activo bajo las mismas condiciones establecidas en el numeral 1.3 del Capítulo 8-26 de esta Recopilación Actualizada de Normas para el reingreso a cartera vigente de créditos vencidos.
-
-La colocación se registrará contra la cuenta de resultado "Recuperación de colocaciones e inversiones castigadas" mencionada en el numeral 3.5 anterior, debiendo simultáneamente constituirse, por el mismo monto, la provisión por renegociación de créditos a que se refiere el numeral 2.1 de este título, y revertirse los importes registrados en la cuenta de orden de la partida 9600.
+En caso de que un crédito castigado sea objeto de renegociación, podrá reingresarse al activo bajo las mismas condiciones establecidas en el numeral 1.3 del Capítulo 8-26 de esta Recopilación Actualizada de Normas para el reingreso a cartera vigente de créditos vencidos, debiendo considerarse de inmediato su efecto en el nivel de las provisiones constituidas.
 
 En todo caso, las instituciones financieras deberán mantener identificados todos aquellos créditos castigados que se hayan reingresado al activo, como asimismo aquellos que hayan sido otorgados con objeto de pagar créditos castigados.
 
-### 4. Efecto tributario de provisiones sobre colocaciones
+6.- Información que debe enviarse a esta Superintendencia.
 
-De conformidad con lo dispuesto en el N° 4 del artículo 31 de la Ley sobre Impuesto a la Renta y a las instrucciones conjuntas impartidas en su oportunidad mediante Circular N° 2.002-450, por el Director del Servicio de Impuestos Internos y el Superintendente de Bancos e Instituciones Financieras, las provisiones individuales que se constituyan sobre la cartera vencida a que se refiere el numeral 1.2 de este título, serán deducibles como gastos para efectos tributarios. Como ya se indicó, estas provisiones deben corresponder sólo a créditos que se encuentren registrados en la cartera vencida de acuerdo con las instrucciones de esta Superintendencia,
+Para informar acerca de los castigos y operaciones castigadas, las instituciones financieras deberán atenerse a las instrucciones contenidas en el Manual del Sistema de Información, considerando lo siguiente.
 
-incluidos los intereses por cobrar vencidos, y alcanzarán hasta el 100% de la parte o del total vencido del respectivo crédito, que no se encuentre amparado por garantías reales.
+6.1.- Castigos efectuados en el ejercicio.
 
-Las provisiones globales constituidas en el ejercicio, al igual que las provisiones especiales de que trata el N° 2 de este título, no son deducibles como gasto tributario.
+Para efectos de informar a esta Superintendencia de los montos de los castigos efectuados a través del archivo C01 del Sistema de Información, se utilizarán las siguientes cuentas de orden de la partida 9602 "Castigos de colocaciones en el ejercicio" "Castigos de créditos comerciales", "Castigos de créditos de consumo" o "Castigos de créditos hipotecarios de vivienda", "Condonaciones de créditos comerciales", "Condonaciones de créditos de consumo" y "Condonaciones de créditos hipotecarios de vivienda".
 
-II.- PROVISIONES Y CASTIGOS DE INVERSIONES FINANCIERAS.
+Dichas cuentas reflejarán los importes acumulados en el ejercicio por los importes en que se rebajó el activo contra las provisiones constituidas, distinguiendo los casos en que el castigo obedece a condonaciones. Para este efecto los créditos comerciales incluirán las operaciones de leasing comercial y de factoraje, y los créditos de vivienda y de consumo las operaciones de leasing de vivienda y de consumo, respectivamente.
 
-1.- Provisiones.
+6.2.- Control de créditos castigados informados.
 
-En general, las inversiones financieras no quedarán sujetas a provisiones desde el momento en que los eventuales riesgos se reflejarán en su valor de mercado, al cual deben ajustarse de acuerdo con lo instruido en el Capítulo 8-21 de esta Recopilación. Sin embargo, corresponderá constituir provisiones en los siguientes casos excepcionales:
+Para efecto de control, los totales de los créditos directos castigados que deben informarse a esta Superintendencia en la información de deudores de que trata el Capítulo 18-5 de esta Recopilación, se incluirán en las siguientes cuentas de orden de la partida 9600 del archivo C01 "Créditos comerciales castigados", "Créditos de consumo castigados" o "Créditos hipotecarios para vivienda castigados".
 
-a) Cuando la institución financiera, en cumplimiento de lo señalado en el N° 1 del título III del Capítulo 8-28 de esta Recopilación, haya estimado una pérdida para aquellas inversiones en instrumentos cuyos emisores presenten problemas que hagan dudosa su recuperación. En este caso deberá mantenerse una provisión que cubra dicha pérdida estimada; y,
-
-b) En el evento de que la institución financiera, en una operación diferente a una venta con pacto de retrocompra, se hubiera comprometido a comprar un instrumento financiero a un precio que resulte ser superior al valor de mercado del mismo, al cierre de un mes. En este caso, la provisión que debe constituirse, que en rigor no cubre un nesgo de un activo, sólo tiene por objeto aplicar un criterio conservador cuando esa operación no habitual se presente al término de un mes, reconociendo aquella diferencia de precios. La provisión constituida se revertirá al desaparecer esa diferencia o al realizarse la operación comprometida.
-
-Las provisiones de que se trata se registrarán en la cuenta "Provisión por inversiones financieras riesgosas" de la partida 4210, con cargo a una cuenta del mismo nombre de la partida 6120.
-
-Para liberar las provisiones, cuando corresponda, se acreditará la cuenta de resultados antes mencionada, aunque las provisiones provengan del ejercicio anterior.
-
-### 2. Castigos
-
-2.1.- Oportunidad en que deben castigarse las inversiones financieras.
-
-Los instrumentos financieros que no hayan sido pagados por los emisores, se castigarán al cumplirse 90 días a contar del respectivo vencimiento del documento o del cupón en su caso, sin perjuicio de mantener las provisiones necesarias para cubrir aquella parte que aún no haya vencido.
-
-En todo caso, las inversiones deberán castigarse cuando la institución estime que no existe ninguna posibilidad de recuperación, aun cuando no se haya cumplido el plazo señalado precedentemente.
-
-2.2. Contabilización de los castigos.
-
-a) Por el castigo del activo:
-
-"Debe: - "Provisión por inversiones financieras riesgosas" de la partida 4210.
-
-Haber: - La cuenta en que se encuentren registrados los documentos que se castigan.
-
-b) Por el control de los créditos castigados que deben informarse a esta Superintendencia:
-
-Junto con la contabilización del castigo a que se refiere la letra a) precedente, deberán registrarse en la cuenta de orden "Inversiones castigadas", de la partida 9600, el importe que debe informarse a esta Superintendencia como crédito castigado.
-
-2.3. Recuperación de inversiones castigadas.
-
-Las sumas que se recuperen por el pago de inversiones financieras castigadas, se registrarán con abono a la cuenta "Recuperación de colocaciones e inversiones castigadas", de la partida 7910.
-
-Al mismo tiempo, deberá revertirse el monto que corresponda registrado en la cuenta "Inversiones castigadas" de la partida 9600.
-
-### III. CONDONACIONES
-
-Cuando se condone todo o parte de un crédito porque existen motivos razonables para rebajar el monto adeudado y se ha convenido la remisión con el deudor, se seguirá el mismo tratamiento señalado en la letra a) del numeral 3-3 del título I de este Capítulo, con la diferencia de que en vez de las cuentas de orden que allí se indican, se utilizarán las siguientes cuentas de la partida 9602: "Condonaciones de créditos comerciales", "Condonaciones de créditos de consumo" y "Condonaciones de créditos hipotecarios de vivienda".
-
-Si la remisión alcanza a créditos registrados en cuentas de orden, deberán revertirse los respectivos importes de las cuentas que correspondan.
-
-De acuerdo con establecido en el N° 4 del artículo 31 de la Ley sobre Impuesto a Renta y en las instrucciones conjuntas impartidas en la Circular N° 2.774-1.092, por el Director del Servicio de Impuestos Internos y el Superintendente de Bancos e Instituciones Financieras, las condonaciones de créditos clasificados al menos por un año en alguna de las dos últimas categorías de riesgo de acuerdo con las normas de clasificación de cartera, se consideran como gasto tributario hasta por una parte igual a las provisiones a que estén afectas.
-
-### IV. OTRAS DISPOSICIONES
-
-1. - Otras provisiones sobre activos.
-
-Las provisiones sobre otros activos diferentes a las colocaciones o inversiones financieras de que tratan los títulos I y II de este Capítulo, deben ceñirse a las instrucciones que para el caso ha impartido esta Superintendencia. Si no existieren instrucciones específicas de este Organismo, deberán constituirse además las provisiones que sean necesarias de acuerdo con criterios contables prudenciales de aceptación general.
-
-### 2. Otros castigos
-
-Los castigos de otros activos diferentes a colocaciones o inversiones en bonos y debentures de que tratan los títulos I y II de este capítulo, deben ceñirse a las instrucciones que para el caso ha impartido esta Superintendencia. Si no existieren instrucciones específicas de este Organismo para proceder al castigo de determinados saldos, se seguirá el criterio de efectuar previamente una provisión especial para reconocer las pérdidas involucradas, según lo dispuesto en el número precedente y aplicar posteriormente dichas provisiones en el castigo.
-
-### 3. Información que debe enviarse a esta Superintendencia
-
-Para informar acerca de las provisiones constituidas y sobre los castigos y recuperaciones de operaciones castigadas, las instituciones financieras deberán atenerse a las instrucciones contenidas en el Manual del Sistema de Información.
-
-4. Relación entre los créditos castigados contabilizados en las cuentas de orden y la información sobre deudores.
-
-4.1. Estado de castigos.
-
-Los montos registrados en las cuentas de orden "Créditos comerciales castigados", "Créditos de consumo castigados" y "Créditos hipotecarios para vivienda castigados", de la partida 9600, como asimismo el registrado en la cuenta "Inversiones castigadas" de la misma partida, incluirán los créditos directos que deben computarse para la información de deudores que refunde esta Superintendencia de acuerdo con las instrucciones del Capítulo 18-5 de esta Recopilación y del Manual del Sistema de Información.
+No obstante, si se trata de créditos o cuotas castigados antes de su vencimiento, los respectivos importes se incluirán en las cuentas "Créditos comerciales vigentes castigados", "Créditos de consumo vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la misma partida.
 
 En la cuenta "Créditos comerciales castigados" deben incluirse también los créditos directos provenientes de la cartera restituida por el Banco Central de Chile que se mantiene registrada en cuentas de orden de acuerdo con lo dispuesto en el título VII del Capítulo 8-19 de esta Recopilación, cuando ellos cumplan las condiciones que obligarían a castigarlos si estuviesen registrados en el activo.
-
-Por consiguiente, la diferencia entre el total de los créditos que deben informarse como castigados de acuerdo con el Manual del Sistema de Información y la suma de los saldos de las cuentas de orden antes mencionadas, corresponderá a los créditos indirectos y las obligaciones solidarias en que exista pluralidad de deudores, registrados en esas cuentas una sola vez.
-
-Se revertirán los montos correspondientes en aquellas cuentas, cuando existan recuperaciones, renegociaciones, condonaciones, prescripciones u otros hechos que signifiquen eliminar los respectivos créditos o rebajar los importes de la información que las instituciones financieras deben enviar a este Organismo.
-
-Las reversiones que se efectúen como consecuencia del pago parcial de operaciones castigadas, deberán llevarse a cabo sólo cuando el valor actual de la obligación, una vez realizado el pago, sea inferior al importe registrado en la cuenta de orden por el respectivo crédito.
-
-Por otra parte, en el caso en que desaparezcan las causas que hubieren motivado la exclusión de un crédito castigado de la información de deudas que refunde esta Superintendencia, según las instrucciones del numeral 2.3 del Capítulo 18-5 de esta Recopilación, su importe deberá registrarse nuevamente en la correspondiente cuenta de orden.
-
-4.2. Créditos castigados contablemente que deben informarse como créditos vigentes.
-
-Conforme a lo indicado en el numeral 3.1 del título I de este Capítulo, los créditos castigados contablemente cuyo vencimiento aún no se haya cumplido, deben informarse como créditos vigentes para los efectos de la información de deudores que refunde esta Superintendencia. Por consiguiente, corresponde informar como créditos vigentes aquellos que se encuentren registrados en las cuentas "Créditos comerciales vigentes castigados", "Créditos de consumo vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la partida 9600.
-
-El saldo de dichas cuentas deberá ajustarse, por lo menos al cierre de cada mes, por el importe de los reajustes e intereses devengados de los respectivos créditos y por los pagos que se hubieren efectuado, de manera que tales cuentas reflejen el valor actual de los correspondientes créditos. Si un crédito o una cuota de éste no es pagado dentro de los 90 días siguientes a su vencimiento, el crédito se informará como castigado, debiéndose revertir el importe correspondiente de las cuentas antes señaladas y efectuar su registro en las cuentas de que trata el numeral 4.1 precedente.
-
-Un procedimiento similar al de los créditos castigados anticipadamente debe seguirse con aquellos créditos que, habiendo sido castigados y sin que se hayan reingresado al activo según lo previsto en el numeral 3.6 del título I de este Capítulo, sean objeto de renegociaciones, convenios de pago o avenimientos judiciales o extrajudiciales, cuando el deudor se encuentre cumpliendo con los pagos convenidos.
-
-4.3. Registro contable de créditos que no se incluyen en la información sobre deudores.
-
-Lo indicado en el numeral 4.1 anterior, no es óbice para que las instituciones financieras contabilicen en cuentas de orden abiertas para los efectos de control interno, aquellos créditos que por las causales señaladas en el Capítulo 18-5 de esta Recopilación, deben excluirse de la información de deudas que se envía a esta Superintendencia. Los saldos de dichas cuentas se incluirán en la partida 9899 para efectos de información a este Organismo.
 
 CAPITULO 8-30 (Bancos y Financieras)
 
@@ -12642,225 +11860,7 @@ De conformidad con lo prescrito en el inciso segundo del artículo 24 de la Ley 
 
 Atendido lo anterior, para celebrar contratos de leasing con alguna empresa en que participe el Estado, las instituciones financieras deberán obtener de su cliente una declaración escrita en el sentido de que la empresa cuenta con la autorización de que se trata, o bien, de que no se encuentra dentro de aquellas sociedades a que se refiere el artículo 24 antes mencionado.
 
-III.- EVALUACION DE LAS CARTERAS DE CONTRATOS DE LEASING.
-
-Con el objeto de constituir oportunamente las provisiones necesarias para cubrir eventuales pérdidas o sobrevaloraciones, las instituciones financieras deberán mantener evaluados en forma permanente los riesgos asumidos en sus contratos, de acuerdo con los criterios que se señalan en este título.
-
-La aplicación de los criterios que más adelante se explicitan, requiere del análisis de información confiable y oportuna sobre la situación de los deudores y de conclusiones fundadas acerca de los riesgos y de las posibles pérdidas.
-
-Para ello, es imprescindible que cada institución financiera cuente con procedimientos administrativos, instancias de control interno y sistemas adecuados para mantener permanentemente evaluados los riesgos de esos activos sobre la base de la metodología que se establece. Esos sistemas deberán permitir, en cualquier momento, la consulta de la clasificación de la cartera de contratos de leasing en las correspondientes categorías de riesgo que se establecen y la revisión de dichas clasificaciones cada vez que sea necesario. Además, dichos sistemas deberán contemplar la disponibilidad de información de detalle sobre los bienes dados en arriendo y sobre las garantías adicionales que resguarden los contratos.
-
-1.- Evaluación de la cartera comercial.
-
-1.1.- Clasificación de los contratos.
-
-La clasificación de la cartera comercial consiste en asignarle una categoría de nesgo a cada uno de los arrendatarios que mantenga algún contrato correspondiente a esa cartera. De esta manera, todos los contratos de la cartera quedarán clasificados sobre la base de la evaluación de la capacidad de pago de los respectivos arrendatarios, estimando el monto de las posibles pérdidas de sus operaciones a la luz de la situación financiera, el cumplimiento de pago, las garantías adicionales que existan para cada contrato, las condiciones de recuperabilidad y valor de mercado de los bienes dados en leasing y otros elementos de análisis, según el caso.
-
-El análisis en conjunto de estos factores y los demás que correspondan, debidamente ponderados, permitirá clasificar los contratos de la cartera comercial de un arrendatario en una de las siguientes categorías de riesgo:
-
-a) Categoría "A" Contratos de riesgo normal;
-
-b) Categoría "B". Contratos de nesgo potencial superior al normal,
-
-c) Categoría "B-". Contratos con pérdidas esperadas,
-
-d) Categoría "C". Contratos con pérdidas esperadas significativas, y,
-
-e) Categoría "D": Contratos irrecuperables
-
-12- Definición de las categorías de nesgo de la cartera comercial.
-
-1.2.1.- Categoría "A".
-
-Los arrendatarios clasificados en Categoría "A", serán aquellos que al momento de su evaluación no presenten duda de que sus contratos se desarrollarán según las condiciones originalmente pactadas.
-
-Por consiguiente, esta categoría se asignará a los clientes que hayan cumplido oportunamente con el pago de las cuotas y nada indique que dicho comportamiento cambiará en el futuro Para esto se requiere, naturalmente, que durante la vigencia de los contratos exista un claro conocimiento, tanto de la situación de solvencia, como del flujo de ingresos con que cuentan los clientes para enfrentar oportunamente sus pagos.
-
-Un arrendatario no podrá quedar clasificado en esta categoría si mantiene algún contrato cuyo plazo sea notoriamente superior a la vida útil del bien o cuya opción de compra no sea significativamente inferior al valor económico del bien a la fecha en que pueda ser ejercida.
-
-Tampoco podrá ser clasificado en categoría "A" un arrendatario cuya fuente de pago dependa de la generación de recursos de otras empresas o personas naturales.
-
-1.2.2.- Categoría "B".
-
-Se clasificarán en Categoría "B" los arrendatarios que presenten algún grado de incumplimiento en las condiciones originalmente pactadas en sus contratos, lo que puede reflejarse en el atraso en el pago de alguna cuota o en la necesidad de modificar alguna de las condiciones del contrato original, siempre que, de acuerdo al conocimiento de la actual situación financiera del cliente, esos factores no afecten en forma importante el flujo de ingresos esperados de la operación ni la recuperabalidad del bien en condiciones normales, o bien, que el valor de los bienes dados en arriendo, así como las garantías adicionales constituidas, cubran el saldo del contrato, considerando los costos de recuperación y de la recolocación o enajenación de los bienes.
-
-Esta será la máxima categoría en que pueden ser clasificados los arrendatarios cuando la recuperación de los importes de sus contratos esté basada en el valor de los bienes o de las garantías adicionales, vale decir, no pueden clasificarse en Categoría "A" sobre esa base cuando existan debilidades como las indicadas.
-
-También se incluirán en esta categoría, u otra de mayor nesgo, aquellos arrendatarios que mantienen contratos cuya estructura financiera difiere de las condiciones habituales para el tipo de bien de que se trate, ya sea en términos del plazo al que han sido pactados o por el valor fijado para la opción de compra.
-
-Considerando lo anterior, especialmente la suficiencia de garantías y el valor de los bienes, la pérdida potencial de los contratos de los arrendatarios clasificados en esta categoría, si se materializara, sería inferior al 5% del valor neto de sus respectivos contratos.
-
-1.2.3.- Categoría "B-".
-
-Los arrendatarios clasificados en la Categoría "B-" son aquellos que presentan atrasos reiterados en el pago de sus cuotas o cuyos contratos han sido renegociados o prorrogados. Por otra parte sus estados financieros presentan acentuadas debilidades, son de difícil comprobación o están desactualizados, de manera que no es posible determinar cual es el origen de los recursos o la real capacidad de pago con que cuentan.
-
-Esas características permiten suponer que el servicio de sus cuotas puede interrumpirse en el futuro y que aquellas debilidades originan pérdidas que no alcanzan a compensarse con el valor de los bienes arrendados ni con las garantías adicionales.
-
-Además quedarán incluidos en esta categoría, u otra de mayor riesgo, los arrendatarios cuyos contratos presenten una estructura financiera que difiera significativamente de las condiciones habituales para el tipo de bien de que se trate, ya sea en términos del plazo al que han sido pactados o por el valor fijado para la opción de compra.
-
-También quedarán clasificados en esta categoría u otra de mayor riesgo, aquellos arrendatarios cuyos contratos den origen a una pérdida continua en los flujos operacionales de la institución financiera, como consecuencia de haberse pactado con una tasa de interés o reajustes inferiores a los que sería necesario aplicar para cubrir, como mínimo, el costo de fondos y los gastos de gestión en que incurre la institución para cursar la operación La pérdida estimada en estos casos corresponderá al valor actual de las diferencias entre los intereses y reajustes pactados y los requeridos para una operación de financiamiento que equilibre los gastos en que incurra la entidad arrendataria.
-
-Las situaciones descritas permiten suponer que las pérdidas potenciales de los contratos de los arrendatarios clasificados en esta categoría, se situarán entre el 5% y el 40% de su valor neto.
-
-1.2.4.- Categoría "C".
-
-Se clasificarán en la Categoría "C" los arrendatarios que presentan una alta morosidad en el pago de sus cuotas o reiteradas renegociaciones o prórrogas.
-
-A su vez, su situación financiera presenta un claro deterioro, al punto que el arrendatario no alcanza a generar ingresos suficientes para el pago total o parcial de sus cuotas, o bien la institución no cuenta con información actualizada del cliente.
-
-Por otra parte, el rescate de los bienes dados en arrendamiento y la ejecución de las garantías adicionales, sólo permitirían recuperar una porción del valor neto de sus contratos.
-
-Asimismo, deben ser clasificados en esta categoría, los arrendatarios que mantengan contratos otorgados con intereses y reajustes muy inferiores a los necesarios para cubrir los costos de la operación La pérdida estimada en estos casos corresponderá al valor actual de la diferencia entre los intereses y reajustes pactados y los requeridos para una operación de financiamiento que equilibre los gastos en que incurra la entidad acreedora.
-
-Serán también incorporados a esta categoría, u otra de mayor riesgo, los arrendatarios cuyos contratos presenten una estructura financiera que difiera en forma manifiesta de las condiciones habituales para el tipo de bien de que se trate, ya sea en términos del plazo al que han sido pactados o por el valor fijado para la opción de compra.
-
-Las situaciones descritas permiten suponer que las pérdidas de los contratos de los arrendatarios clasificados en esta categoría, se situarán entre el 40% y el 80% de su valor neto.
-
-1.2.5.- Categoría "D".
-
-Deben ubicarse en la Categoría "D", los arrendatarios que presentan una alta morosidad y cuando los esfuerzos por recuperar los bienes arrendados han sido infructuosos o cuando existan antecedentes de que, en caso de llegar a recuperar los bienes dados en leasing y ejecutar las garantías adicionales, se obtendrá un valor muy bajo en proporción al saldo neto de sus contratos.
-
-Las situaciones descritas permiten suponer que las pérdidas de los contratos de los arrendatarios clasificados en esta categoría, se situarán entre el 80% y el 100% de su valor neto.
-
-1.3.- Pérdida estimada de la cartera comercial.
-
-Para efectos de la determinación de las provisiones que se deban constituir para cubrir el riesgo de la cartera comercial, se asignará a cada categoría un porcentaje determinado de pérdida esperada, de acuerdo a la siguiente tabla:
-
-.
-
-La pérdida estimada de la cartera comercial corresponderá a la suma de los montos que resulten de multiplicar el porcentaje de pérdida estimada correspondiente a cada una de las categorías definidas anteriormente por el valor neto de los contratos de los arrendatarios clasificados en las respectivas categorías.
-
-2.- Clasificación de la cartera de consumo.
-
-La determinación del nesgo involucrado en la cartera de consumo se medirá sobre bases agregadas según el comportamiento global de la morosidad observada.
-
-Para este efecto se clasificarán los contratos de acuerdo con lo siguiente.
-
-.
-
-La pérdida estimada de la cartera de consumo corresponderá a la suma de los montos que resulten de multiplicar el porcentaje de pérdida estimada correspondiente a cada una de las categorías definidas anteriormente por el valor neto de los contratos clasificados en dichas categorías.
-
-3.- Clasificación de la cartera de vivienda.
-
-La determinación del nesgo involucrado en la cartera de vivienda se medirá sobre bases agregadas según el comportamiento global de la morosidad observada.
-
-Para este efecto se clasificarán los contratos de acuerdo con lo siguiente:
-
-.
-
-La pérdida estimada de la cartera de vivienda corresponderá a la suma de los montos que resulten de multiplicar el porcentaje de pérdida estimada correspondiente a cada una de las categorías definidas anteriormente por el valor neto de los contratos clasificados en dichas categorías.
-
-4.- Valorización de los bienes y garantías adicionales del contrato.
-
-Para considerar el valor de los bienes y de las garantías adicionales en el proceso de clasificación de cartera, las instituciones financieras deben atenerse a lo siguiente.
-
-4.1 - Valorización de los bienes entregados en leasing.
-
-Es condición imprescindible que la institución cuente con tasaciones actualizadas de los bienes entregados en leasing, desde el momento en que ellos constituyen un elemento fundamental para la evaluación del nesgo del contrato, especialmente en aquellos casos en que se manifieste alguna de las debilidades señaladas en los numerales anteriores, que hagan presumir su clasificación en alguna de las categorías que contemplan pérdidas esperadas.
-
-Las tasaciones deben ser realizadas y suscritas por profesionales que sean idóneos en la materia, designados por la institución financiera, de preferencia ajenos a ella y, en todo caso, independientes del arrendatario.
-
-Para ser consideradas en la clasificación de los contratos, las tasaciones no podrán tener una antigüedad superior a un año. No obstante esta antigüedad máxima, en el evento que se hayan producido cambios significativos en el mercado, deberá ajustarse oportunamente el valor de los bienes a la nueva realidad.
-
-Las tasaciones deberán ser efectuadas sobre la base de criterios estrictamente técnicos para determinar el valor comercial y el valor de liquidación de los respectivos bienes. Por consiguiente, se tendrá en consideración, entre otras cosas, el estado en que se encuentren, su vida útil estimada, el grado de obsolescencia tecnológica, la existencia de servicio técnico proporcionado por proveedores estables, la existencia de mercados amplios en que puedan ser transados, los costos de mantenimiento y de recolocación o venta, etc., aspectos todos que deberán constar suficientemente en el informe respectivo, de acuerdo al tipo de bien de que se trate.
-
-Para efectos de la clasificación de cartera de que trata este título III, deberá considerarse el valor de liquidación de los bienes, a fin de seguir un criterio estrictamente conservador en la determinación de los riesgos.
-
-Cuando los bienes de un contrato estén sujetos al pago de derechos de aduana diferidos por parte del arrendatario, se considerará como valor de los bienes para efectos de clasificación y provisiones, su valor de tasación menos el importe de los derechos de aduana pendientes de pago.
-
-4.2.- Valorización de las garantías
-
-El valor de las garantías reales para efectos de la clasificación de cartera, corresponderá al valor de tasación o certificación ajustado que debe utilizarse para los márgenes de crédito y que se encuentra tratado en el N° 3, título IV, del Capítulo 12-3 de esta Recopilación Actualizada de Normas.
-
-Este criterio de valorización alcanza también a aquellas garantías que no sirven para aumentar el margen de crédito.
-
-5.- Renegociaciones de los contratos.
-
-Las instituciones financieras deberán cuidar que una renegociación de un contrato se efectúe sólo en aquellos casos en que, usando criterios realistas en la valorización de eventuales garantías y considerando la tasación de los bienes y la capacidad de pago del cliente, se pueda establecer razonablemente que el arrendatario pagará íntegramente su obligación en los nuevos términos.
-
-Para los efectos de las normas sobre clasificación de cartera de que trata el presente título, se considerarán como renegociados aquellos contratos en que se hayan modificado las condiciones originalmente pactadas como consecuencia de problemas financieros del arrendatario, como asimismo aquellos que hayan sido novados a una persona natural o jurídica relacionada con el arrendatario original Además, para esos solos efectos se entenderá que constituyen también contratos renegociados, aquellos celebrados sobre bienes que hayan sido recolocados a una persona relacionada al arrendatario original.
-
-6.- Revisión de esta Superintendencia.
-
-Este Organismo revisará las clasificaciones que, de acuerdo con las normas del presente Capítulo, deben efectuar las instituciones financieras Las revisiones pueden dar lugar a cambios o reclasificaciones de los contratos.
-
-Si con la información disponible esta Superintendencia constatare que la categoría en la que ha sido clasificado algún arrendatario no es aquella que debió asignársele, de acuerdo con las pautas establecidas en estas normas, se procederá a reubicarlo en la categoría de nesgo que corresponda.
-
-Las reubicaciones que se efectúen sustituirán para todos los efectos a las clasificaciones realizadas por la institución, sin perjuicio de que ésta pueda cambiarlas posteriormente a categorías de mayor o menor nesgo, según corresponda, cuando existan nuevos antecedentes que así lo ameriten.
-
-Sin embargo, cuando se trate de modificar las reubicaciones establecidas por esta Superintendencia hacia categorías de menor nesgo, las instituciones financieras que no se encuentren calificadas por dos o más veces consecutivas en categoría I según la calidad de sus procesos de clasificación de cartera y conforme a lo previsto en el Capítulo 8-28 de esta Recopilación, deberán contar con la aprobación previa de este Organismo Para ese efecto, dichas instituciones solicitarán una reconsideración a esta Superintendencia, la que se resolverá, a más tardar, en la siguiente visita destinada a examinar los activos de la institución solicitante.
-
-7.- Información requerida.
-
-Las clasificaciones de los arrendatarios deberán basarse en la información documentada que se tenga acerca de aspectos claves tales como: su solvencia, fuentes de ingresos; endeudamiento con el sistema financiero y con terceros, comportamiento de pago de sus obligaciones, evolución de los contratos suscritos con la institución financiera, valor de sus bienes y garantías, etc. En general, las clasificaciones deberán respaldarse con todos los antecedentes necesarios para obtener conclusiones razonadas acerca de los riesgos que permiten clasificar de acuerdo con los criterios establecidos en este Capítulo.
-
-Entre aquellos elementos que deben considerarse para la asignación de cada categoría, especialmente las de bajo riesgo, esta Superintendencia enfatiza la necesidad de contar con los siguientes antecedentes de respaldo que deben mantenerse en archivos de fácil consulta:
-
-a) Memorándum de aprobación de la operación, en que se señale el número del contrato, la identificación del arrendatario, una descripción del o de los bienes arrendados, el nombre del proveedor, las garantías adicionales si las hay, precio del bien y demás costos que se incluyen en el monto total a financiar del contrato y forma de pago de las rentas. Este memorándum deberá tener la firma de la o las personas que autorizan la operación.
-
-b) Factura de adquisición del o de los bienes dados en arriendo.
-
-c) Acta de entrega del o de los bienes dados en arriendo, en donde quede claramente establecida la fecha de entrega, la descripción de los bienes entregados y la conformidad del arrendatario.
-
-d) Análisis de la situación financiera del arrendatario o evaluación del proyecto, en los casos que corresponda, que contenga una apreciación del nesgo de la operación al momento de aprobarse y cuando existan ciertas dificultades, por parte del arrendatario, en el pago de las rentas pactadas en el contrato. La fortaleza del análisis dependerá de la confiabilidad de los antecedentes financieros del deudor y de la actualización de ellos, cuando la situación así lo requiera. Por lo tanto, las instituciones financieras deberán hacer los máximos esfuerzos para obtener de sus arrendatarios la entrega de dichos antecedentes financieros en el momento de evaluar la operación o en las oportunidades en que se requiera efectuar renegociaciones de los términos originales del contrato.
-
-e) Tabla de desarrollo del contrato, en la cual se identifique claramente el monto que se financia y el monto y fecha de vencimiento de cada una de las cuotas Deberá mantenerse la información que permita relacionar directamente cada fecha de vencimiento con la fecha de pago efectivo.
-
-f) Los contratos suscritos, con sus anexos, modificaciones y renegociaciones que hayan tenido. En todo caso, la información que se mantenga sobre los contratos vigentes debe permitir la identificación expedita de los contratos anteriores que les hayan dando origen por novación o cambio en sus condiciones.
-
-g) Las modificaciones a las condiciones pactadas que signifiquen prórrogas, ampliaciones de plazo, disminución del monto de las cuotas de arriendo, novaciones por cambio de arrendatario y, en general, renegociaciones de cuotas impagas, deberán constar explícitamente en los contratos que se acuerden En estos casos, en el memorándum de aprobación se deberá dejar constancia clara de la evaluación efectuada por la institución, que justifica el otorgamiento de las nuevas condiciones.
-
-IV. - EXIGENCIA DE PROVISIONES Y CASTIGOS DE CONTRATOS DE LEASING Y BIENES RECUPERADOS.
-
-Las instituciones financieras deberán mantener permanentemente constituidas las provisiones necesarias para cubrir las eventuales pérdidas determinadas sobre la base de la evaluación tratada en el título III de este Capítulo y efectuar los castigos contables de los contratos y bienes recuperados de acuerdo con las siguientes instrucciones.
-
-1.- Provisiones para contratos de leasing.
-
-Al cierre de cada mes, las instituciones financieras deberán mantener constituidas provisiones sobre sus carteras de leasing, de acuerdo con lo siguiente.
-
-1.1.- Provisión sobre la cartera comercial
-
-La provisión mínima exigida sobre la cartera comercial será igual al importe de la pérdida estimada calculada según lo establecido en el numeral 1.3 del título III.
-
-Con todo, las instituciones financieras que no se encuentren calificadas dos veces consecutivas en categoría I según sus sistemas de clasificación de cartera de acuerdo con lo previsto en el Capítulo 8-28 de esta Recopilación, no podrán mantener una provisión para su cartera comercial inferior a la pérdida estimada que determine esta Superintendencia como consecuencia de las revisiones a que se refiere el N° 6 del título III.
-
-Para este efecto, la pérdida estimada de la cartera comercial será comunicada por esta Superintendencia luego de cada visita inspectiva que considere el examen de la cartera, sin perjuicio de hacerlo, además, cada vez que cuente con elementos de juicio necesarios para precisarla.
-
-El monto de dicha pérdida estimada se expresará en unidades de fomento y se entenderá vigente desde el momento en que sea comunicado y hasta que la institución financiera reciba una nueva comunicación en tal sentido.
-
-Si con posterioridad a la respectiva comunicación la institución financiera estima que el monto de la provisión resulta excesivo por haberse castigado contratos que incidían en forma importante en la pérdida estimada de la cartera comercial, podrá solicitar una reconsideración de esa exigencia de provisión mínima, para lo cual deberá acompañar los antecedentes de los castigos efectuados.
-
-1.2.- Provisión sobre la cartera de consumo.
-
-La provisión mínima exigida sobre la cartera de consumo será igual al importe de la pérdida estimada calculada según lo establecido en el N° 2 del título III.
-
-1.3.- Provisión sobre la cartera de vivienda
-
-La provisión mínima exigida sobre la cartera de vivienda será igual al importe de la pérdida estimada calculada según lo establecido en el N° 3 del título III.
-
-1.4.- Exigencia de nivel mínimo de provisión para el conjunto de las carteras
-
-No obstante lo indicado en los numerales precedentes, cuando la suma de las provisiones de cada cartera resulte inferior al equivalente a un 0,75% del total del valor neto de los contratos registrados en el activo, las provisiones deberán incrementarse proporcionalmente hasta alcanzar ese nivel mínimo.
-
-2.- Castigos de contratos de arrendamiento.
-
-Las instituciones financieras deberán castigar contablemente un contrato de arrendamiento cuando se cumpla alguna de las siguientes circunstancias, sin perjuicio de seguir ejerciendo, cuando corresponda, sus derechos para la recuperación de los montos impagos o de los bienes arrendados.
-
-a) Cuando un contrato que mantenga cuotas impagas, no esté amparado por un título ejecutivo y los bienes arrendados no se encuentren en poder del arrendatario,
-
-b) Al cumplirse el plazo de prescripción de las acciones de cobro o al momento del rechazo de la ejecución del contrato por resolución judicial ejecutoriada,
-
-c) Cuando, por insolvencia del arrendatario u otra causa sobreviniente, la institución considere que no existe ninguna posibilidad de recuperación de las rentas de arrendamiento, y el valor del bien no pueda ser considerado para los efectos de recuperación del contrato, ya sea por el estado en que se encuentra, por los gastos que involucraría su recuperación, traslado y mantención, por obsolescencia tecnológica o por no existir antecedentes sobre su ubicación y estado actual.
-
-d) Por último, aun cuando la institución estime que puede lograr la recuperación de los montos adeudados, deberá seguir los siguientes criterios: i) si el contrato no se encuentra amparado con un título ejecutivo, castigará las cuotas morosas que hayan cumplido 90 días impagas y si la cuota más antigua ha cumplido 12 meses desde su vencimiento, deberá además castigar la totalidad del crédito, n) si el contrato se encuentra amparado por un título ejecutivo, castigará todas las cuotas vencidas cuando la más antigua de ellas haya cumplido 12 meses desde su vencimiento y, posteriormente, deberá castigar las cuotas restantes a medida que vayan venciendo Este último procedimiento podrá anticiparse mediante el castigo del saldo total del contrato, lo que en todo caso se hará al presentarse alguna de las circunstancias señaladas en los literales precedentes.
-
-3.- Provisiones y castigos de bienes recuperados.
-
-Las instituciones financieras deberán mantener, en todo momento, una provisión sobre los bienes rescatados que no hayan sido recolocados en nuevas operaciones de leasing financiero, equivalente a la diferencia entre la suma de los valores comerciales actuales y el total de los valores registrados en el activo de estos bienes, cuando este último sea superior Para este efecto, los valores comerciales se determinarán de acuerdo con los criterios señalados en el numeral 4.1 del título III de este Capítulo.
-
-Los valores contables de los bienes que hayan sido recuperados por contratos resueltos, deberán ser castigados al cumplirse doce meses desde su registro en el activo de la institución, en la medida en que no se encuentren arrendados nuevamente bajo las condiciones de leasing financiero señaladas en el N° 1 del título II de este Capítulo.
-
-V.- NORMAS CONTABLES.
+III.- NORMAS CONTABLES.
 
 Las instituciones financieras deberán ceñirse a las siguientes normas en las materias que se indican:
 
@@ -12894,15 +11894,9 @@ Los intereses devengados se reconocerán mediante el traspaso a resultados de lo
 
 Las cuotas de los contratos de leasing que no sean pagadas dentro de los 90 días contados desde su respectivo vencimiento, serán traspasadas a la cuenta "Contratos de leasing comercial vencidos", Contratos de leasing de consumo vencidos" y "Contratos de leasing de vivienda vencidos", de la partida 1421.
 
-Conviene tener presente que, a diferencia de las demás colocaciones de las instituciones financieras y en concordancia con lo señalado en el numeral 1 6 siguiente, el traspaso a cartera vencida de los importes impagos no origina provisiones individuales.
+16.- Provisiones y castigos de los contratos.
 
-1.6.- Provisiones y castigos de los contratos.
-
-Las provisiones sobre los contratos se registrarán en las cuentas "Provisiones para leasing comercial", "Provisiones para leasing de consumo" y "Provisiones para leasing de vivienda", de la partida 4205, con cargo a cuentas de resultado del mismo nombre de la partida 6110.
-
-Los excesos de provisiones que se liberen como consecuencia de una disminución del nesgo total de las respectivas carteras, se abonarán a la misma cuenta de resultados que se cargó para constituirlas, la cual podrá arrojar saldo deudor o acreedor, según sea el movimiento neto de los ajustes en el período o ejercicio.
-
-Los castigos siempre deberán efectuarse aplicando las provisiones constituidas sobre la respectiva cartera, sin perjuicio de la obligación de volver a mantener, cuando corresponda, el nivel de provisiones mínimo exigido.
+Para constituir las provisiones sobre los contratos y efectuar castigos, los bancos se atendrán a lo dispuesto en los Capítulos 7-10 y 8-29 de esta Recopilación.
 
 2.- Bienes recuperados.
 
@@ -12910,7 +11904,7 @@ Los castigos siempre deberán efectuarse aplicando las provisiones constituidas 
 
 Al momento de producirse la recuperación del o de los bienes entregados en leasing por un contrato resuelto, se traspasará el valor neto del contrato, según los importes registrados a esa fecha, a la cuenta "Bienes recuperados" de la partida 1760. No se reactivarán, por lo tanto, los importes que ya estuviesen contablemente castigados.
 
-La incorporación del importe a esa cuenta podrá originar un ajuste a la provisión señalada en el N° 3 del título IV de este Capítulo.
+La incorporación del importe a esa cuenta podrá originar un ajuste a la provisión señalada en el numeral 2.5 de este título.
 
 Dado que se trata de bienes valorizados en su conjunto, por la vía de una provisión, a un valor probable de venta este activo no queda sujeto a depreciaciones.
 
@@ -12926,9 +11920,9 @@ En el evento de entregarse en arriendo un bien recuperado sin cumplir las condic
 
 2.5.- Provisiones y castigos de los bienes recuperados.
 
-Las provisiones sobre los bienes recuperados se registrarán en la cuenta "Provisiones sobre bienes recuperados de leasing", de la partida 1760, con cargo a cuenta del mismo nombre de la partida 6120.
+Los bancos deberán mantener, en todo momento, una provisión sobre los bienes rescatados que no hayan sido recolocados en nuevas operaciones de leasing financiero, equivalente al menos a la diferencia entre la suma de los valores comerciales actuales y el total de los valores registrados en el activo de estos bienes, cuando este último sea superior. Los saldos correspondientes a estas provisiones se informarán en las cuentas "Provisiones sobre bienes recuperados de leasing", de las partidas 1760 y 6120.
 
-En caso de que corresponda efectuar un castigo para cumplir con lo establecido en el N° 3 del título IV de este Capítulo se procederá en la forma que se indica a continuación.
+Los valores contables de los bienes que hayan sido recuperados por contratos resueltos, deberán ser castigados al cumplirse doce meses desde su registro en el activo de la institución, en la medida en que no se encuentren arrendados nuevamente bajo las condiciones de leasing financiero señaladas en el N° 1 del título II de este Capítulo. Cuando corresponda efectuar tales castigos, se procederá de la siguiente forma:
 
 a) Al tratarse de bienes cuyo valor contable sea superior a su valor comercial al momento del castigo, se ajustará el primero para dejarlo a su valor comercial aplicando las provisiones constituidas y se traspasará la diferencia, es decir, el importe correspondiente al valor comercial, a la cuenta "Castigo de bienes recuperados de leasing" de la partida 6315.
 
@@ -12938,9 +11932,9 @@ b) Cuando se trate de bienes cuyo valor contable sea inferior a su valor comerci
 
 Todas las garantías otorgadas o recibidas por la institución financiera deberán ser registradas en las cuentas de orden que correspondan.
 
-VI.- DISPOSICION TRANSITORIA.
+IV.- DISPOSICION TRANSITORIA.
 
-No obstante lo indicado en el N° 3 del título IV de este Capítulo, al tratarse de bienes recuperados durante los años 1999, 2000, 2001 y 2002 el plazo para su castigo se amplía hasta 30 meses a contar de la fecha de su recuperación.
+No obstante lo indicado en el numeral 2.5 del título III de este Capítulo, al tratarse de bienes recuperados durante los años 1999, 2000, 2001 y 2002 el plazo para su castigo se amplía hasta 30 meses a contar de la fecha de su recuperación.
 
 Asimismo podrá aplicarse un plazo adicional de 12 meses para el castigo de los bienes recuperados durante el año 2003, sujeto a la presentación a esta Superintendencia de un programa de enajenación de esos bienes, aprobado por el Directorio En ese programa deberán explicarse las razones que, a juicio del Directorio, justifican la prórroga, detallándose los bienes que se acogerán a ella.
 
@@ -13002,39 +11996,7 @@ Cuando se garantice el pago de las obligaciones que asume un comprador, los mont
 
 Las deudas por operaciones de factoraje no serán informadas para efectos de lo dispuesto en el artículo 14 de la Ley General de Bancos y en el Capítulo 18-5 de esta Recopilación, como tampoco serán incluidas en la demás información sobre deudores o relativas a tasas de interés, salvo que se exija expresamente su inclusión en las instrucciones del Manual del Sistema de Información.
 
-II.- PROVISIONES POR RIESGO DE CREDITO.
-
-Las operaciones de factoring se considerarán separadamente de las demás colocaciones para efectos de cálculo y constitución de provisiones, debiendo ceñirse las instituciones financieras a lo siguiente:
-
-1.- Provisión mínima.
-
-La provisión mínima que deberán mantener las instituciones financieras para cubrir los riesgos de sus colocaciones correspondientes a operaciones de factoring, será igual al monto que resulte mayor entre el equivalente a un 2% del total de su cartera de factoring o la pérdida estimada de ella calculada según lo indicado en el N° 2 siguiente.
-
-2.- Pérdida estimada.
-
-La pérdida estimada corresponderá a la suma del valor que se obtiene por la clasificación individual de los créditos según lo indicado en el numeral 2.1 siguiente, más el monto del riesgo adicional determinado para los casos que se indican en el numeral 2.2.
-
-2.1.- Clasificación de la cartera.
-
-Las instituciones financieras mantendrán clasificados según su morosidad cada uno de los créditos de su cartera de factoring, en las categorías de riesgo que se indican a continuación:
-
-.
-
-Las facturas se considerarán vigentes para estos efectos, hasta 30 días corridos después de la fecha de vencimiento informada por el cliente. En los demás créditos el atraso se calculará de acuerdo con el vencimiento pactado en los respectivos contratos o títulos de crédito.
-
-Todos los créditos registrados en el activo se clasificarán en su respectiva categoría de riesgo, aplicándoles el porcentaje que en cada caso corresponda para determinar su pérdida estimada. La pérdida total determinada por esta clasificación será igual a la suma de los montos que se obtienen de la forma indicada.
-
-2.2.- Riesgo adicional.
-
-Cuando un deudor mantenga con la institución alguna obligación morosa superior a 90 días y la causa de la morosidad no obedezca a incidencias sobrevinientes relativas a la entrega de mercaderías o prestaciones que serán subsanadas por el vendedor, deberá determinarse el riesgo de pérdida de todas las obligaciones que el deudor moroso mantenga con ella, cualquiera sea la categoría en que estén clasificados sus créditos. Esa evaluación comprenderá todas las operaciones del cliente-vendedor y del comprador que estuviere en esa situación de mora.
-
-La diferencia entre la mayor pérdida que se determine para todos esos créditos y la que se obtenga mediante la clasificación por morosidad de los mismos, corresponderá al riesgo adicional que debe agregarse al valor obtenido por el procedimiento de clasificación previsto en el numeral anterior.
-
-Para este efecto, las instituciones financieras deberán mantener un sistema que permita cuantificar el riesgo bajo un criterio estrictamente prudencial, considerando la situación económica-financiera y el comportamiento de los obligados al pago, las garantías que cubren sus créditos, etc.
-
-En todo caso, este sistema de evaluación deberá diferenciar la calidad de los clientes mediante una clasificación sistemática y con información actualizada que permita recoger oportunamente, entre otros, los riesgos asociados a sus dificultades financieras, a las perturbaciones en el sector empresarial en que desarrolla su actividad, a sus políticas comerciales y al incumplimiento de sus compromisos como usuario del factoring.
-
-III.- NORMAS CONTABLES.
+II.- NORMAS CONTABLES.
 
 Las instituciones financieras deberán ceñirse a las siguientes normas en las materias que se indican:
 
@@ -13043,8 +12005,6 @@ Las instituciones financieras deberán ceñirse a las siguientes normas en las m
 Los créditos correspondientes a las operaciones de que se trata se reflejarán en la cuenta "Deudores por operaciones de factoring", de la partida 1135 "Operaciones de factoraje".
 
 Aquellos créditos que no sean pagados dentro de los 90 días siguientes a su vencimiento, serán incluidos en la cuenta "Operaciones de factoring vencidas" de la partida 1418 "Operaciones de factoraje".
-
-A diferencia de las demás colocaciones y en concordancia con lo señalado en el N° 4 de este título, el traspaso a cartera vencida de los importes impagos no origina provisiones individuales.
 
 2.- Reajustes e intereses.
 
@@ -13058,9 +12018,7 @@ La garantía de pago que otorgue una institución financiera sobre las obligacio
 
 4.- Provisiones y castigos.
 
-Las provisiones por riesgo de crédito de que trata el título II se reflejarán en la cuenta "Provisiones para factoring" de la partida 4205. El resultado por concepto de estas provisiones, se mostrará en una cuenta con el mismo nombre de la partida 6110.
-
-El castigo de los activos correspondientes a las operaciones de factoring se efectuará siguiendo los criterios establecidos en el N° 3 del título I del Capítulo 8-29 de esta Recopilación, debiendo efectuarse siempre los castigos con cargo a las provisiones constituidas.
+Para la constitución de provisiones por riesgo de crédito y castigos de la cartera de factoraje, se aplicarán las instrucciones de los Capítulos 7-10 y 8-29 de esta Recopilación.
 
 ANEXO
 
@@ -13980,7 +12938,7 @@ Cuando ocurra la recuperación o renegociación de uno o más dividendos impagos
 
 12.3. Castigos.
 
-De acuerdo con lo dispuesto en el numeral 3.2.2, título I, del Capítulo 8-29 de esta Recopilación, si algún dividendo permaneciere impago 36 meses a contar de la fecha de su traspaso a cartera vencida, las instituciones acreedoras deberán castigar todos los dividendos vencidos correspondientes al crédito que se encuentre en esa situación. Los restantes dividendos deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada uno de ellos, sin perjuicio de que puede también castigarse el total del saldo del crédito.
+De acuerdo con lo dispuesto en el Capítulo 8-29 de esta Recopilación, si algún dividendo permaneciere impago 36 meses a contar de la fecha de su traspaso a cartera vencida, las instituciones acreedoras deberán castigar todos los dividendos vencidos correspondientes al crédito que se encuentre en esa situación. Los restantes dividendos deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada uno de ellos, sin perjuicio de que puede también castigarse el total del saldo del crédito.
 
 13.- Primas de seguro.
 
@@ -16204,7 +15162,7 @@ El patrimonio efectivo será igual al capital básico antes mencionado, con los 
 
 a) Se agregan los bonos subordinados emitidos por la institución financiera que se computan como patrimonio efectivo, de acuerdo con lo indicado en el Capítulo 9-6 de esta Recopilación.
 
-b) Se agregan las provisiones voluntarias constituidas por la institución financiera de acuerdo con lo previsto en el N° 4 de este título, hasta concurrencia del 1,25% de los activos ponderados por riesgo de que trata el N° 2 del título II de este Capítulo.
+b) Se agregan las provisiones constituidas por la institución financiera de acuerdo con lo previsto en el N° 1 del título II del Capítulo 7-10 de esta Recopilación, hasta concurrencia del 1,25% de los activos ponderados por riesgo de que trata el N° 2 del título II de este Capítulo.
 
 c) Se deduce el saldo de los activos que correspondan a un "goodwill" por inversiones en sociedades o que se originen en una fusión por compra, como asimismo el sobreprecio pagado por activos inherentes a un negocio, según lo señalado en el numeral 4.2 del Capítulo 7-4 de esta Recopilación.
 
@@ -16230,19 +15188,7 @@ Para los efectos del artículo 66 de la Ley General de Bancos, que exige un patr
 
 El patrimonio efectivo antes definido se aplicará para todos los límites establecidos en la Ley General de Bancos que se refieren a ese concepto, con excepción del límite tratado en el N° 1 de su artículo 80, debiendo considerarse los activos consolidados cuando se trate de los márgenes de crédito a que se refieren los N°s 1, 2 y 4 de su artículo 84.
 
-4.- Provisiones voluntarias.
-
-Constituyen "provisiones voluntarias", de acuerdo con el artículo 66 de la Ley General de Bancos, "las que excedan de aquellas que los bancos deban mantener por disposición de la ley o por norma de la Superintendencia".
-
-A ese respecto, las disposiciones de este Organismo exigen expresamente la constitución de provisiones para la mayoría de los activos y, por otra parte, ordenan aplicar criterios de general aceptación en todo aquello que no ha sido objeto de instrucciones específicas.
-
-Debe entenderse entonces que, para los efectos del cálculo del patrimonio efectivo a que se refiere el artículo 66 de la Ley General de Bancos, tienen el carácter de provisiones voluntarias aquellas que no están destinadas a cubrir riesgos o contingencias que pudieran estar presentes en los activos, ni correspondan a obligaciones de pago reales o contingentes.
-
-Con ese carácter de resguardos genéricos frente a eventuales pérdidas futuras o incertidumbre propias de la industria bancaria, las provisiones voluntarias constituidas pueden considerarse como representativas de patrimonio, permitiendo la ley computarlas como patrimonio efectivo hasta un 1,25% de los activos ponderados por riesgo.
-
-Desde el momento en que las provisiones voluntarias se computen como patrimonio efectivo, las instituciones financieras quedan impedidas de disminuirlas, si con ello infringen la respectiva proporción establecida en el artículo 66 de la Ley General de Bancos o los demás márgenes o límites legales y reglamentarios establecidos sobre la base del patrimonio efectivo.
-
-5.- Reparto de dividendos o remesas de utilidades.
+4.- Reparto de dividendos o remesas de utilidades.
 
 Conforme lo establece el inciso tercero del artículo 56 de la Ley General de Bancos, está vedado a las instituciones financieras repartir dividendos con cargo a utilidades del ejercicio o a fondos de reserva si, por efecto de ese reparto, se transgrede alguna de las proporciones que fija el artículo 66 o los márgenes de crédito señalados en el artículo 84 de la misma ley. La única excepción que se contempla en cuanto a que una institución financiera pueda disminuir su patrimonio efectivo, excediendo las proporciones o márgenes antedichos, ocurre cuando se trata de repartos de dividendos obligatorios fijados por la ley.
 
@@ -16310,7 +15256,7 @@ c) La ley también incluye en esta categoría las "cartas de crédito irrevocabl
 
 2.4.- Categoría 4.
 
-a) Préstamos con garantía hipotecaria para vivienda, otorgados al adquiriente final de tales inmuebles. Incluye los créditos vigentes y en cartera vencida, definidos como créditos hipotecarios para vivienda en el Capítulo 8-28 de esta Recopilación.
+a) Préstamos con garantía hipotecaria para vivienda, otorgados al adquiriente final de tales inmuebles. Incluye los créditos vigentes y en cartera vencida, definidos como créditos hipotecarios para vivienda en el Anexo N° 2 del Capítulo 7-10 de esta Recopilación.
 
 b) Contratos de leasing de vivienda, en los términos señalados en el Capítulo 8-37 de esta Recopilación o en la Circular N° 18 dirigida a las sociedades filiales, esto es, los contratos que recaigan sobre una vivienda y que se celebren directamente con el usuario final.
 
@@ -16392,13 +15338,9 @@ El pago de dividendos se registrará en la oportunidad en que ellos se pongan a 
 
 En el caso de remesas de utilidades de agencias de bancos extranjeros, se cargarán las respectivas cuentas de utilidades retenidas de la partida 4320, sólo al momento de efectuarse la remesa.
 
-2.- Provisiones voluntarias.
+2.- Monto de provisiones computado como patrimonio efectivo.
 
-En concordancia con lo señalado en el N° 4 del título I de este Capítulo, las provisiones voluntarias deben constituirse con cargo a la utilidad de un período o ejercicio, mediante el uso de una cuenta de resultados especial, y sólo pueden ser disminuidas posteriormente con abono a aquella cuenta.
-
-Para ese efecto se utilizará la cuenta "Provisiones voluntarias" de la partida 4245 para reflejar las provisiones mantenidas, y la cuenta de resultados "Provisiones voluntarias" de la partida 6611 para registrar los alimentos o disminuciones de tales provisiones.
-
-Además, para fines de información a esta Superintendencia, las instituciones financieras que mantengan provisiones voluntarias deberán incluir el importe computado como patrimonio efectivo en la cuenta "Provisiones voluntarias computadas como patrimonio efectivo", de la partida 9700.
+Para fines de información a esta Superintendencia, el monto computado como patrimonio efectivo de las provisiones señaladas el N° 1 del título II del Capítulo 7-10 de esta Recopilación, se informará en la cuenta "Provisiones computadas como patrimonio efectivo" de la partida 9700.
 
 CAPITULO 12-3 (Bancos y Financieras)
 
@@ -16464,7 +15406,7 @@ Los créditos que las instituciones financieras otorguen para financiar obras p�
 
 De acuerdo con lo establecido en el artículo 84 de la Ley General de Bancos y en el Decreto Supremo N° 917, de 1994, modificado por el Decreto Supremo N° 1.410, de 1996, ambos del Ministerio de Hacienda conjuntamente con el Ministerio de Obras Públicas, publicados en el Diario Oficial del 30 de enero de 1995 y 7 de febrero de 1997, respectivamente, estos préstamos pueden alcanzar el límite del 15% señalado, siempre que el exceso sobre el 5% del patrimonio efectivo de la institución acreedora, esté garantizado con la prenda especial de concesión de obra pública contemplada en el artículo 42 del D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, o bien, que sean otorgados conjuntamente por dos o más instituciones financieras, debiendo cumplir, en este caso, las siguientes condiciones:
 
-a) Las empresas constructoras o concesionarias del proyecto, deberán estar clasificadas en las categorías "A" o "B" de riesgo a que se refiere el Capítulo 8-28 de esta Recopilación, por las instituciones financieras que otorguen el financiamiento, o bien, deben calificar para alguna de ellas, entendiéndose para el efecto que así ocurre cuando reúnen los requisitos exigidos para una de esas categorías de riesgo;
+a) Las empresas constructoras o concesionarias del proyecto, deberán estar clasificadas en las categorías Al, A2, A3 o B a que se refiere el Capítulo 7-10 de esta Recopilación, por las instituciones financieras que otorguen el financiamiento, o bien, deben calificar para alguna de ellas, entendiéndose para el efecto que así ocurre cuando reúnen los requisitos exigidos para una de esas categorías de riesgo;
 
 b) Las empresas constructoras o concesionarias deberán comprometerse a constituir en garantía de su obligación ante la entidad crediticia, los ingresos mínimos que se generarán en la fase de explotación del proyecto de infraestructura que se encuentren garantizados por el Estado o por un seguro de carácter privado. Esta garantía tiene por único fin amparar el pago del crédito, de modo que dadas sus características, no servirá para la ampliación del margen individual de crédito establecido en el artículo 84 de la Ley General de Bancos; y,
 
@@ -17780,13 +16722,13 @@ De acuerdo con lo dispuesto en el artículo 83 de la Ley General de Bancos, esta
 
 I.- PROVISIONES DEL ARTICULO 83 DE LA LEY GENERAL DE BANCOS.
 
-Las provisiones de que trata este título son independientes de aquellas que esta Superintendencia ha establecido para cubrir los riesgos de pérdida de los activos y que también alcanzan a los créditos en el exterior, como es el caso de las provisiones por riesgo de crédito tratadas en los Capítulos 8-28 y 8-29 de esta Recopilación y las provisiones por riesgo-país a que se refiere el Capítulo 7-6.
+Las provisiones de que trata este título son independientes de aquellas que esta Superintendencia ha establecido para cubrir los riesgos de pérdida de los activos y que también alcanzan a los créditos en el exterior, como es el caso de las provisiones por riesgo de crédito tratadas en el Capítulo 7-10 de esta Recopilación y las provisiones por riesgo-país a que se refiere el Capítulo 7-6.
 
 1. Definiciones para los efectos de las provisiones exigidas en este Capítulo.
 
 Para los efectos de que trata este Capítulo, se entenderá que constituyen "créditos de comercio exterior" aquellos definidos en la letra a) del numeral 3.2, título III del Capítulo 7-6 de esta Recopilación.
 
-Por otra parte, se entiende como "créditos comerciales" aquellos definidos como tales en el Capítulo 8-28 de esta Recopilación, con excepción de los créditos de comercio exterior mencionados en el párrafo precedente.
+Por otra parte, se entiende como "créditos comerciales" aquellos definidos como tales en el Anexo N° 2 del Capítulo 7-10 de esta Recopilación, con excepción de los créditos de comercio exterior mencionados en el párrafo precedente.
 
 Por último, las "inversiones financieras" que se aluden en este número, son aquellas que deben registrarse como tales de acuerdo con lo establecido en el Capítulo 8-21 de esta Recopilación.
 
