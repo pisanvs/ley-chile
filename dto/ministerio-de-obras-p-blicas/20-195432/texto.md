@@ -1,0 +1,3 @@
+Por decreto del Ministerio de Obras Públicas Nº20, de 29 de enero de 2002, se dejó sin efecto el decreto de dicho Ministerio Nº455, de 30 de abril de 1999, que ordenó la expropiación, autorizó Convenio Directo de Precio Ad-Referéndum y aprobó el Plano y Cuadro de Expropiación del lote de terreno Nº145-2, necesario para la obra Camino Ruta 5 Norte. Tramo Santiago - Los Vilos, Sector Km. 109.300,00 al Km. 110.000,00.-
+
+Fiscal del Ministerio de Obras Públicas.
