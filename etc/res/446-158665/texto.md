@@ -1,0 +1,5 @@
+AUTORIZA A LA ILUSTRE MUNICIPALIDAD DE LAUTARO PARA DESARROLLAR ACTIVIDADES DE PROPAGACION DE RECURSOS HIDROBIOLOGICOS
+
+Por Resolución No. 446, de 22 de Mayo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Ilustre Municipalidad de Lautaro, para capturar hasta 150 hembras y 50 machos de trucha arco iris desde el río Cautín; 150 hembras y 40 machos desde Laguna verde, IX Región y hasta 50 hembras y 15 machos de trucha café desde el río Cautín y 400 hembras y 150 machos desde el río Claro, Puerto Ibáñez, XI Región, durante el período comprendido desde esta fecha al 31 de Julio de 186. Asimismo, se autoriza a dicha Municipalidad para sembrar durante el año 1986 en diversos cursos de agua alevines que obtenga de la ova captada.
+
+Valparaíso, 22 de Mayo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
