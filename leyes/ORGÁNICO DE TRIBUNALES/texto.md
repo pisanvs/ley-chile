@@ -614,7 +614,7 @@ h) De las causas del trabajo y de menores cuyo conocimiento no corresponda a los
 
 #### Artículo 46
 
-Los jueces de letras de comunas asiento de Corte conocerán en primera instancia de las causas criminales en que sea parte o tenga interés un juez de letras de una comuna o agrupación de comunas de la jurisdicción de esa misma Corte de Apelaciones.
+Los jueces de letras de comunas asiento de Corte conocerán en primera instancia de las causas criminales en que sea parte o tenga interés un juez de letras de una comuna o agrupación de comunas incluidas en el territorio jurisdiccional de esa misma Corte de Apelaciones.
 
 #### Artículo 47
 
@@ -681,6 +681,8 @@ El Presidente de la Corte Suprema conocerá en primera instancia:
 3°) De las causas de presas, de extradicción pasiva y demás que deban juzgarse con arreglo al Derecho Internacional; y
 
 4°) De los demás asuntos que otras leyes entreguen a su conocimiento.
+
+En estas causas no procederán los recursos de casación en la forma ni en el fondo en contra de la sentencia dictada por la sala que conozca del recurso de apelación que se interpusiere en contra de la resolución del Presidente.
 
 ## Título V
 
@@ -778,9 +780,13 @@ Producido este caso y si no bastaren los relatores en propiedad, el tribunal des
 
 Las Cortes de Apelaciones conocerán:
 
-1°) En segunda instancia, de las causas civiles, criminales y del trabajo y de los actos no contenciosos de que hayan conocido en primera los jueces de letras de su jurisdicción o uno de sus ministros.
+1°) En segunda instancia, de las causas civiles, criminales y del trabajo y de los actos no contenciosos de que hayan conocido en primera los jueces de letras de su territorio jurisdiccional o uno de sus ministros.
 
-2°) En única instancia de los recursos de casación en la forma que se interpongan en contra de las sentencias dictadas por los tribunales indicados en el número anterior.
+2°) En única instancia:
+
+a) De los recursos de casación en la forma que se interpongan en contra de las sentencias dictadas por los tribunales indicados en el número anterior y de las sentencias definitivas de primera instancia dictadas por jueces árbitros, y
+
+b) De los recursos de queja que se deduzcan en contra de jueces de letras, jueces de policía local, jueces árbitros y órganos que ejerzan jurisdicción, dentro de su territorio jurisdiccional.
 
 3°) De las consultas de las sentencias civiles y criminales dictadas por esos mismos tribunales.
 
@@ -788,7 +794,7 @@ Las Cortes de Apelaciones conocerán:
 
 a) De los desafueros de los Diputados y Senadores;
 
-b) De los recursos de amparo; y
+b) De los recursos de amparo y de protección; y
 
 c) De los procesos por amovilidad que se entablen en contra de los jueces de letras.
 
@@ -808,7 +814,7 @@ El conocimiento de todos los asuntos entregados a la competencia de las Cortes d
 
 Cada sala representa a la Corte en los asuntos de que conoce.
 
-En caso que ante una misma Corte de Apelaciones se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. Esta disposición no se aplicará al recurso de queja, sin perjuicio de las facultades propias del tribunal.
+En caso que ante una misma Corte de Apelaciones se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. En caso que, además de haberse interpuesto recursos jurisdiccionales, se haya deducido recurso de queja, éste se acumulará a los recursos jurisdiccionales, y deberá resolverse conjuntamente con ellos.
 
 Corresponderá a todo el tribunal el ejercicio de las facultades disciplinarias, administrativas y económicas, sin perjuicio de que las salas puedan ejercer las primeras en los casos de los artículos 542 y 543 en los asuntos que estén conociendo. También corresponderá a todo el tribunal el conocimiento de los desafueros de los Diputados y de los Senadores y de los juicios de amovilidad en contra de los jueces de letras.
 
@@ -1022,11 +1028,11 @@ La Corte Suprema
 
 La Corte Suprema se compondrá de diecisiete miembros, uno de los cuales será su Presidente.
 
-El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones tres años, pudiendo ser reelegido.
+El Presidente será nombrado por la misma Corte, de entre sus miembros, y durará en sus funciones tres años, no pudiendo ser reelegido.
 
 Los demás miembros se llamarán ministros y gozarán de precedencia los unos respecto de los otros por el orden de su antigüedad.
 
-La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y seis relatores.
+La Corte Suprema tendrá un fiscal, un secretario, un prosecretario y ocho relatores.
 
 #### Artículo 94
 
@@ -1034,13 +1040,19 @@ La Corte Suprema tendrá su sede en la capital de la República.
 
 #### Artículo 95
 
-La Corte Suprema funcionará ordinariamente dividida en tres salas o en pleno, correspondiendo a la propia Corte determinar la forma de su funcionamiento.
+La Corte Suprema funcionará dividida en salas especializadas o en pleno.
 
-La distribución de los Ministros entre las tres salas se hará por sorteo, exceptuando al Presidente, de modo que a la primera correspondan seis miembros y cinco a cada una de las dos salas restantes. El sorteo se hará el primer día hábil del mes de marzo.
+Para el conocimiento de los asuntos a que se refiere el artículo 98, la Corte funcionará ordinariamente dividida en tres salas o extraordinariamente en cuatro, correspondiéndole a la propia Corte determinar uno u otro modo de funcionamiento.
 
-Las salas funcionarán con no menos de cinco jueces cada una, y el pleno, con la concurrencia de once de sus miembros a lo menos, y se integrarán en conformidad a la ley; pero para el Presidente de la Corte esta integración será facultativa.
+Durante el funcionamiento extraordinario de la Corte Suprema, el tribunal designará los relatores interinos que estime necesarios, quienes, durante el tiempo que sirvieren el cargo, gozarán de igual remuneración que los titulares.
 
-Cada sala en que se divida la Corte Suprema será presidida por el ministro más antiguo, cuando no esté presente el Presidente de la Corte, quien podrá funcionar en cualquiera de las salas.
+En cualquier caso, las salas deberán funcionar con no menos de cinco jueces cada una y el pleno con la concurrencia de once de sus miembros a lo menos.
+
+Corresponderá a la propia Corte, mediante auto acordado, establecer la forma de distribución de sus ministros entre las diversas salas de su funcionamiento ordinario o extraordinario. La distribución de ministros que se efectúe permanecerá invariable por un período de, a lo menos, dos años.
+
+La integración de sala será facultativa para el Presidente de la Corte. Si opta por hacerlo, podrá integrar cualquiera de las salas.
+
+Cada sala en que se divida la Corte Suprema será presidida por el ministro más antiguo, cuando no esté presente el Presidente de la Corte.
 
 #### Artículo 96
 
@@ -1064,7 +1076,7 @@ Todos los autos acordados de carácter y aplicación general que dicte la Corte 
 
 #### Artículo 97
 
-Derogado.
+Las sentencias que dicte la Corte Suprema al fallar recursos de casación de fondo, de forma, de queja, de protección, de amparo y de revisión no son susceptibles de recurso alguno, salvo el de aclaración, rectificación o enmienda que establece el artículo 182 del Código de Procedimiento Civil. Toda reposición o reconsideración a las resoluciones a que se refiere este artículo es inadmisible y será rechazada de plano por el Presidente de la Corte, salvo la reposición que se establece en los artículos 778, 781 y 782 del Código de Procedimiento Civil.
 
 #### Artículo 98
 
@@ -1078,7 +1090,7 @@ Las salas de la Corte Suprema conocerán:
 
 4.- De los recursos de revisión;
 
-5.- En segunda instancia, de las causas a que se refieren los números 2° y 3° del artículo 53. En estas causas no procederán los recursos de casación en la forma ni en el fondo;
+5.- En segunda instancia, de las causas a que se refieren los números 2° y 3° del artículo 53;
 
 6.- De los recursos de queja, pero la aplicación de medidas disciplinarias será de la competencia del tribunal pleno;
 
@@ -1088,11 +1100,13 @@ Las salas de la Corte Suprema conocerán:
 
 #### Artículo 99
 
-Las salas de la Corte Suprema conocerán por turnos mensuales: una, de todos los asuntos indicados en el artículo 98; otra, de los mismos negocios, con excepción de los recursos de casación en el fondo y en la forma que se hayan interpuesto en materia civil; y la otra, de los recursos de casación en el fondo y en la forma que se hubieren interpuesto en materia civil. De los recursos de amparo, de protección y de queja conocerá cualquiera de las salas.
+Corresponderá a la Corte Suprema, mediante auto acordado, establecer cada dos años las materias de que conocerá cada una de las salas en que ésta se divida, tanto en funcionamiento ordinario como extraordinario. Al efecto, especificará la o las salas que conocerán de materias civiles, penales, constitucionales, contencioso administrativas, laborales, de menores, tributarias u otras que el propio tribunal determine. Asimismo, señalará la forma y periodicidad en que las salas especializadas decidirán acerca de las materias indicadas en el inciso primero del artículo 781 y en los incisos primero y segundo del artículo 782, ambos del Código de Procedimiento Civil, respecto de los recursos de casación que hayan ingresado hasta quince días antes de la fecha en que se deba resolver sobre la materia. En todo caso, la mencionada periodicidad no podrá ser superior a tres meses.
 
-En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. Esta disposición no se aplicará al recurso de queja, sin perjuicio de las facultades propias del tribunal.
+Corresponderá al Presidente de la Corte Suprema, sin ulterior recurso, asignar los asuntos a cada una de las salas, según la materia en que incidan, en conformidad a lo dispuesto en el inciso anterior.
 
-No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente de la Corte Suprema podrá incluir en la tabla de cualquiera de las salas causas de naturaleza tanto civil como criminal.
+No obstante lo dispuesto en el inciso primero, la Corte Suprema, siempre mediante auto acordado, podrá modificar la distribución de las materias de que conoce cada una de las salas, cuando una repartición más equitativa de las mismas así lo requiera.
+
+En caso que ante la Corte Suprema se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma.
 
 #### Artículo 100
 
@@ -1100,15 +1114,7 @@ Derogado.
 
 #### Artículo 101
 
-La Corte Suprema, integrada por su fiscal o abogados integrantes, podrá dividirse extraordinariamente en cuatro salas de cinco miembros cada una, cuando el presidente así lo determine, para conocer de los negocios a que se refiere el artículo 98.
-
-La distribución de los Ministros de la Corte Suprema entre estas cuatro salas se efectuará por sorteo, de modo que a cada una correspondan cuatro miembros. La integración de sala para el Presidente de la Corte será facultativa.
-
-Producida la división en cuatro salas, corresponderá, por turnos mensuales, conocer, a dos de ellas, de todas las materias a que se refiere el artículo 98, a otra, de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil; y a la otra, indistintamente, de los recursos de casación en la forma y en el fondo de naturaleza civil o criminal. A las cuatro les corresponderá conocer de los recursos de amparo, de protección y de queja.
-
-No obstante, cuando el número y naturaleza de las causas que se encuentren pendientes lo requiera, el Presidente podrá disponer que dos de las salas conozcan exclusivamente de los recursos de casación en la forma y en el fondo, y en tal caso, las dos salas restantes conocerán, una de todas las materias a que se refiere el artículo 98, con excepción de los recursos de casación en el fondo y en la forma de naturaleza criminal, y la otra de los asuntos a que se refiere el mismo artículo, con excepción de los recursos de casación en el fondo y en la forma de naturaleza civil.
-
-Producida la división extraordinaria de la Corte Suprema, el Tribunal designará los relatores interinos que estime necesarios, quienes gozarán durante el tiempo en que sirvieren el cargo de igual remuneración que los propietarios.
+Derogado.
 
 #### Artículo 102
 
@@ -1125,8 +1131,6 @@ El Presidente de la Corte Suprema dará cuenta en esta audiencia:
 4°) De las dudas y dificultades que hayan ocurrido a la Corte Suprema y a las Cortes de Apelaciones en la inteligencia y aplicación de las leyes y de los vacíos que se noten en ellas y de que se haya dado cuenta al Presidente de la República en cumplimiento del artículo 5° del Código Civil.
 
 Esta exposición será publicada en el Diario Oficial y en la Gaceta de los Tribunales.
-
-La Corte Suprema procederá en seguida, al sorteo de los miembros que deben formar las salas en que el tribunal debe dividirse.
 
 #### Artículo 103
 
@@ -1756,7 +1760,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 3.008 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 2.248 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 3.276 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 2.448 pesos.
 
 #### Artículo 199
 
@@ -1846,7 +1850,7 @@ Si por inhabilidad, implicancia o recusación, el defensor público no puede eje
 
 En defecto de todos los designados en los incisos precedentes, subrogará el secretario abogado del Juzgado del territorio jurisdiccional más inmediato, o sea, el de aquél con cuya ciudad cabecera sean más fáciles y rápidas las comunicaciones, aunque dependan de distintas Cortes de Apelaciones, pero sin alterarse la jurisdicción de la primitiva Corte. A falta o impedimento de éste, la subrogación la hará el Juez de dicho Tribunal, pudiendo, el uno o el otro, según corresponda, constituirse en el Juzgado que se subroga.
 
-Para los efectos de lo establecido en el inciso 2° de este artículo, en el mes de Noviembre de cada año los jueces letrados de las comunas o agrupaciones de comunas en que exista un solo juzgado de letras elevarán a la Corte de Apelaciones respectiva una nómina de los abogados domiciliados en su jurisdicción, con indicación de su antigüedad y demás observaciones que crean oportunas. En el mes de Enero de cada año las Cortes de Apelaciones elegirán entre los nombres que figuren en esta lista una terna de los abogados que deban reemplazar al juez de letras en cada uno de esas comunas o agrupaciones de comunas.
+Para los efectos de lo establecido en el inciso 2° de este artículo, en el mes de Noviembre de cada año los jueces letrados de las comunas o agrupaciones de comunas en que exista un solo juzgado de letras elevarán a la Corte de Apelaciones respectiva una nómina de los abogados domiciliados en su territorio jurisdiccional, con indicación de su antigüedad y demás observaciones que crean oportunas. En el mes de Enero de cada año las Cortes de Apelaciones elegirán entre los nombres que figuren en esta lista una terna de los abogados que deban reemplazar al juez de letras en cada uno de esas comunas o agrupaciones de comunas.
 
 #### Artículo 214
 
@@ -1882,13 +1886,17 @@ En los casos en que no puedan aplicarse las reglas precedentes, conocerá la Cor
 
 Si la Corte Suprema o algunas de sus salas se hallare en el caso previsto en el artículo 215 se llamará a integrar a los miembros no inhabilitados de la misma Corte Suprema, al fiscal del tribunal o a los abogados que se designen anualmente con este objeto.
 
-El llamamiento de los integrantes se hará en el orden indicado y los abogados se llamarán por el orden de su designación en la lista de su nombramiento.
+El llamamiento de los integrantes se hará en el orden indicado, pero los abogados serán llamados guardando entre sí el orden a que se refieren los incisos siguientes.
+
+Cada vez que se regule por auto acordado las materias que conocerá cada una de las salas en el funcionamiento ordinario o extraordinario y cada vez que se produzcan nombramientos de abogados integrantes, la Corte, atendiendo a las especialidades de aquéllos, determinará la o las salas a que ellos se integrarán de preferencia.
+
+El llamamiento de los abogados asignados preferentemente a una misma sala se hará respetando el orden de su designación en la lista de su nombramiento. Igual orden se respetará para llamar a los demás abogados integrantes cuando no sea posible hacerlo con los que hubieren sido asignados preferentemente a la sala de que se trate..
 
 #### Artículo 218
 
 En los casos en que no pudiere funcionar la Corte Suprema por inhabilidad de la mayoría o de la totalidad de sus miembros, será integrada por ministros de la Corte de Apelaciones de Santiago, llamados por su orden de antigüedad.
 
-Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario de que trata el artículo 101.
+Las Salas de la Corte Suprema no podrán funcionar con mayoría de abogados integrantes, tanto en su funcionamiento ordinario como en el extraordinario.
 
 #### Artículo 219
 
@@ -1902,7 +1910,7 @@ Estas listas se compondrán, para Santiago, de setenta y cinco nombres; para Val
 
 Las ternas para abogados integrantes de la Corte Suprema serán formadas tomando los nombres de una lista que, en el mes diciembre en que termina el trienio respectivo, formará la misma Corte. En esta lista deberán figurar cuarenta y cinco abogados, con residencia en la ciudad de Santiago, que reúnan las condiciones requeridas para ejercer los cargos de ministros, con excepción del límite de edad establecido en el artículo 77 de la Constitución Política de la República de Chile, y que hayan destacado en la actividad profesional o universitaria.
 
-No podrán incluirse en las listas a que se refiere este artículo a profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquiera otra oportunidad.
+Las ternas para abogados integrantes de las Cortes de Apelaciones sólo podrán incluir abogados que, además de cumplir con los requisitos indicados en los números 1° y 2° del artículo 253, tengan no menos de doce años de ejercicio profesional o ex miembros del Escalafón Primario del Poder Judicial, siempre y cuando hubiesen figurado durante los últimos cinco años en lista de méritos. Las ternas para abogados integrantes de la Corte Suprema sólo podrán incluir abogados que, además de cumplir con los requisitos indicados en los números 1° y 2° del artículo 254, tengan no menos de quince años de ejercicio profesional o que hayan pertenecido a la primera o segunda categoría del Escalafón Primario del Poder Judicial y siempre que, de haber estado en la segunda categoría, hubiesen figurado durante los últimos cinco años en lista de méritos. En ningún caso podrán figurar en las ternas profesionales que hayan sido separados de sus cargos como funcionarios judiciales, sea en la calificación anual o en cualquiera otra oportunidad.
 
 Si por cualquiera causa alguno de los abogados designados para la Corte Suprema no pudiere continuar en las funciones, el Presidente de la República podrá nombrar en su reemplazo por el resto del período a uno de los componentes de las ternas que formó la Corte Suprema en su oportunidad, o requerir de dicho tribunal la formación de una nueva terna, en conformidad con lo previsto en los incisos anteriores.
 
@@ -2128,51 +2136,43 @@ Derogado.
 
 Para ser juez de letras se requiere:
 
-1° Nacionalidad chilena, natural o legal;
+1° Ser chileno;
 
-2° Tener 25 años de edad;
+2° Tener el título de abogado, y
 
-3° Tener el título de abogado.
+3° Haber cumplido satisfactoriamente el programa de formación para postulantes al Escalafón Primario del Poder Judicial, sin perjuicio de lo dispuesto en el artículo 284 bis.
 
-Sin perjuicio de lo dispuesto en el artículo 280, los abogados y los funcionarios judiciales que no sean jueces de letras y que según las reglas del párrafo tercero de este título pueden optar a estos últimos cargos deberán cumplir además, con las condiciones siguientes:
+Tratándose de abogados ajenos a la Administración de Justicia que postulen directamente al cargo de juez de letras de comuna o agrupación de comunas, se requerirá que, además de los requisitos establecidos precedentemente, hayan ejercido la profesión de abogado por un año, a lo menos.
 
-Para ser juez de un juzgado de letras de una comuna o agrupación de comunas: haber ejercido por dos años la profesión de abogado;
-
-Para ser juez de un juzgado de letras de capital de provincia: haber ejercido por seis años la profesi�n de abogado o servido por dos años un juzgado de letras de comuna o agrupación de comunas;
-
-Para ser juez de un juzgado de letras de asiento de Corte: haber ejercido por nueve años la profesión de abogado o servido por cinco años un juzgado de letras de comuna o agrupación de comunas o por dos años uno de capital de provincia.
+Para ser juez de letras de capital de provincia o de asiento de Corte de Apelaciones se requerirá, además, reunir los requisitos que se establecen en la letra b) del artículo 284.
 
 #### Artículo 253
 
-Para ser miembro de una Corte de Apelaciones se requiere:
+Para ser ministro o fiscal de Corte de Apelaciones se requiere:
 
-1° Nacionalidad chilena, natural o legal;
+1° Ser chileno;
 
-2° Tener 32 años de edad;
+2° Tener el título de abogado, y
 
-3° Tener el título de abogado.
+3° Cumplir, tratándose de miembros del Escalafón Primario, con los requisitos que se establecen en la letra a) del artículo 284, y haber aprobado el programa de perfeccionamiento profesional para ser ministro de Corte de Apelaciones. En ningún caso podrá ser ministro de Corte de Apelaciones quien no haya desempeñado, efectiva y continuadamente, la función de juez letrado, por un año a lo menos. Lo anterior es sin perjuicio de lo dispuesto en el artículo 280.
 
-Sin perjuicio de lo dispuesto en el artículo 280, los funcionarios judiciales que no sean fiscales o jueces de asiento de Corte y que según las reglas del párrafo tercero de este título puedan optar a los cargos de Ministros de Corte de Apelaciones deberán, además, haber ejercido por doce años la profesión de abogado o servido por seis años un juzgado de letras de comuna o agrupación de comunas o por cuatro años uno de capital de provincia o por dos años uno de asiento de Corte.
-
-Esta disposición regirá también para los abogados integrantes de las Cortes de Apelaciones.
+Iguales requisitos se requerirán para ser designado secretario de la Corte Suprema.
 
 #### Artículo 254
 
-Para ser miembro de la Corte Suprema se requiere:
+Para ser ministro de Corte Suprema se requiere:
 
-1° Nacionalidad chilena, natural o legal;
+1° Ser chileno;
 
-2° Tener 36 años de edad;
+2° Tener el título de abogado;
 
-3° Tener el Título de abogado;
+3° Cumplir, tratándose de miembros del Escalafón Primario, con los requisitos que establece el artículo 283, y
 
-4° Haber ejercido por quince años la profesión de abogado o servido por ocho años un juzgado de comuna o agrupación de comunas o por seis años uno de asiento de Corte de Apelaciones o por dos años el cargo de miembro de una de estas Cortes.
-
-Esta disposición regirá también para los abogados integrantes de la Corte Suprema.
+4° Haber ejercido, tratándose de abogados ajenos al Poder Judicial, por a lo menos quince años la profesión de abogado, sin perjuicio de cumplir con los requisitos señalados en los números 1° y 2°. En caso de tratarse de abogados que se hubieren retirado del Poder Judicial, deberán haberlo hecho voluntariamente y con calificaciones para ser considerado en lista de méritos.
 
 #### Artículo 255
 
-Para el cómputo de los años requeridos para obtener los cargos judiciales, se equiparan los servicios que presten los abogados en cualquier empleo judicial al ejercicio de dicha profesión, y los servicios de los cargos de relatores y defensores públicos, a los de los jueces de letras de la localidad respectiva.
+Derogado.
 
 #### Artículo 256
 
@@ -2202,19 +2202,33 @@ Los que hubieren desempeñado los cargos de Presidente de la República, Ministr
 
 #### Artículo 258
 
-No pueden ser simultáneamente jueces de una misma Corte de Apelaciones o de la Corte Suprema, los parientes consanguíneos o afines en línea recta, ni los colaterales que se hallen dentro del segundo grado de consanguinidad o afinidad.
+No pueden ser simultáneamente jueces de una misma Corte de Apelaciones, los parientes consanguíneos o afines en línea recta, ni los colaterales que se hallen dentro del segundo grado de consanguinidad o afinidad.
 
 #### Artículo 259
 
-No podrán ser nombrados ministros de una Corte de Apelaciones las personas que tengan el parentesco indicado en el artículo anterior con alguno de los funcionarios del Escalafón Primario o de la primera serie del Escalafón Secundario dependientes de esa misma Corte.
+No podrá ser nombrado ministro de Corte de Apelaciones ni ser incluido en la terna correspondiente quien esté ligado con algún ministro o fiscal de la Corte Suprema por matrimonio, por parentesco de consanguinidad hasta el tercer grado inclusive, por afinidad hasta el segundo grado, o por adopción.
+
+Quien sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con un ministro de Corte de Apelaciones no podrá figurar en ternas o ser nombrado en cargo alguno del Escalafón Primario que deba desempeñarse dentro del territorio jurisdiccional de la Corte de Apelaciones donde aquél ejerce su ministerio.
+
+En caso de producirse el nombramiento de un ministro en una Corte en cuyo territorio jurisdiccional se desempeñan en el Escalafón Primario su cónyuge o alguno de los parientes indicados en el inciso primero, estos últimos deberán ser trasladados de inmediato al territorio jurisdiccional de otra Corte.
+
+En caso de producirse el nombramiento de un juez o ministro de Corte de Apelaciones que quede en situación de participar en la calificación de un receptor, procurador del número o miembro del Escalafón de Empleados y que se vincule con él por matrimonio o por alguno de los parentescos o vínculos indicados en el inciso primero, se deberá proceder al traslado de este último.
+
+Si dos miembros de un mismo tribunal, estando ya en funciones, contrajeren matrimonio o alguno de los parentescos señalados en el artículo 258, uno de ellos será trasladado a un cargo de igual jerarquía. El traslado afectará a aquel cuyo acto haya generado el parentesco y, en caso de matrimonio, a aquel que determinen los cónyuges de común acuerdo o, a falta de asenso, la Corte Suprema.
+
+El ministro de la Corte Suprema que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso primero con un miembro del Poder Judicial, no podrá tomar parte alguna en asuntos en que éste pueda tener interés.
 
 #### Artículo 260
 
-No podrá existir el parentesco de consanguinidad o de afinidad en la línea recta o en la colateral hasta el segundo grado inclusive, entre los miembros de la Corte Suprema y los de las Cortes de Apelaciones, entre éstos y los jueces letrados de su respectiva jurisdicción.
+No podrán ingresar en el Escalafón Secundario aquellos que sean cónyuges o tengan alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o fiscal de la Corte Suprema o de Corte de Apelaciones, o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
+
+No podrá ingresar en el Escalafón del Personal de Empleados el que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el artículo anterior con algún ministro o con el fiscal de la Corte Suprema o con algún miembro del Escalafón Primario que se desempeñe en el territorio jurisdiccional del cargo que se trata de proveer.
+
+Del mismo modo, no puede ser incluido en terna ni ser nombrado en el referido escalafón aquel que sea cónyuge o tenga alguno de los parentescos o vínculos indicados en el inciso anterior con quien, por razón de su cargo, deba o pueda participar en su calificación.
 
 #### Artículo 261
 
-Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales o municipales, con excepción de las de docente de los establecimientos de educación media o superior del Estado o de las Municipalidades, en cualquiera de sus modalidades, o de otros institutos o establecimientos de enseñanza dependientes de servicios públicos, hasta un límite de diez horas semanales.
+Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales o municipales, con excepción de los cargos docentes hasta un límite máximo de doce horas semanales.
 
 ### 3. De los nombramientos y del escalafón de los funcionarios judiciales
 
@@ -2232,13 +2246,13 @@ Habrá un Escalafón General de antigüedad del Poder Judicial compuesto de dos 
 
 El Escalafón Primario se dividirá en categorías y el Secundario en series y categorías.
 
-Habrá también, un Escalafón Especial del personal subalterno.
+Habrá también, un Escalafón del Personal de Empleados.
 
 #### Artículo 265
 
-En el Escalafón Primario figurarán los miembros y fiscales de la Corte Suprema y de las Cortes de Apelaciones, los jueces letrados, los relatores, los secretarios de Cortes y de juzgados de letras y los defensores públicos.
+En el Escalafón Primario figurarán: los ministros y el fiscal de la Corte Suprema, los ministros y fiscales de las Cortes de Apelaciones, los jueces letrados, los relatores, los secretarios de Corte y de juzgados de letras, el prosecretario de la Corte Suprema y el secretario abogado del fiscal de ese mismo tribunal.
 
-En el Escalafón Secundario figurarán los notarios, conservadores, archiveros, procuradores del número, receptores y asistentes sociales judiciales.
+En el Escalafón Secundario figurarán: los defensores públicos, notarios, conservadores, archiveros, procuradores del número, receptores, asistentes sociales y bibliotecarios.
 
 En el Escalafón Especial del personal subalterno, figurarán los empleados de secretaría de los Tribunales de Justicia, los empleados de los fiscales y los empleados, con nombramiento fiscal de los defensores públicos.
 
@@ -2254,53 +2268,51 @@ Inciso derogado.
 
 #### Artículo 267
 
-El Escalafón Primario tendrá las siguientes Categorías:
+El Escalafón Primario tendrá las siguientes categorías:
 
-Primera categoría: Miembros y fiscal de la Corte Suprema.
+Primera Categoría: Ministros y fiscal de la Corte Suprema.
 
-Segunda categoría: Miembros y fiscales de las Cortes de Apelaciones; y relatores y secretario de la Corte Suprema.
+Segunda Categoría: Ministros y fiscales de las Cortes de Apelaciones, y relatores y secretario de la Corte Suprema.
 
-Tercera categoría: Jueces letrados de juzgados de ciudad asiento de Corte, relatores y secretarios de Cortes de Apelaciones y Secretario Abogado del Presidente de la Corte Suprema.
+Tercera Categoría: Jueces letrados de juzgados de ciudad asiento de Corte de Apelaciones, y relatores y secretarios de Corte de Apelaciones.
 
-Cuarta categoría: Jueces letrados de juzgados de ciudad capital de provincia y defensores públicos de Santiago y Valparaíso.
+Cuarta Categoría: Jueces letrados de juzgados de ciudad capital de provincia.
 
-Quinta categoría: Jueces letrados de juzgados de comuna o agrupación de comunas y secretarios de juzgados de letras de comunas de asiento de Corte.
+Quinta Categoría: Jueces letrados de juzgados de comuna o agrupación de comunas y secretarios de juzgados de letras de ciudad asiento de Corte de Apelaciones.
 
-Sexta categoría: Secretarios de juzgados de letras de ciudad capital de provincia y defensores públicos de ciudad asiento de Corte y de juzgados de letras de capital de provincia.
+Sexta Categoría: Secretarios de juzgados de letras de capital de provincia, prosecretario de la Corte Suprema y secretario abogado del fiscal de ese mismo tribunal.
 
-Séptima categoría: Secretarios de juzgados de letras y defensores públicos de comunas o agrupaciones de comunas; prosecretario de la Corte Suprema y secretario abogado del fiscal de la misma Corte.
+Séptima Categoría: Secretarios de juzgados de letras de comuna o agrupación de comunas.
+
+Los relatores de la Corte Suprema y de las Cortes de Apelaciones se incorporarán a las categorías que respectivamente se les asigna en los términos del artículo 285.
 
 #### Artículo 268
 
-Los jueces letrados de comuna o agrupación de comunas y los secretarios de juzgados de letras, con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
-
-Igual regla se aplicará a los defensores públicos de las categorías sexta y séptima, con más de diez años de permanencia en el cargo o de veinte en el servicio judicial.
+Derogado.
 
 2). Escalafón Secundario
 
 #### Artículo 269
 
-El Escalafón Secundario tendrá las siguientes Series:
+El Escalafón Secundario tendrá las siguientes series:
 
-Primera Serie: Notarios, conservadores y archiveros.
+Primera Serie: Defensores públicos.
 
-Segunda Serie: Procuradores del Número.
+Segunda Serie: Notarios, conservadores y archiveros.
 
-Tercera Serie: Receptores de juzgados de letras.
+Tercera Serie: Procuradores del número.
 
-Cuarta Serie: Asistentes sociales judiciales.
+Cuarta Serie: Receptores de juzgados de letras.
 
-Cada una de estas Series se dividirán en cuatro Categorías:
+Quinta Serie: Asistentes sociales y bibliotecarios.
 
-Figurarán:
+Cada una de estas series se dividirá en tres categorías.
 
-En la Primera Categoría los funcionarios de las cuatro Series que desempeñen sus cargos en el territorio jurisdiccional de la Corte de Apelaciones de Santiago;
+Figurarán en la primera categoría los funcionarios de las cinco series que desempeñen sus cargos en una comuna o agrupación de comunas que sirva de asiento a una Corte de Apelaciones, o en el territorio jurisdiccional de juzgados considerados en la categoría de asiento de Corte de Apelaciones.
 
-En la Segunda Categoría los funcionarios de las cuatro Series que sirvan sus cargos en las demás comunas o agrupaciones de comunas que sean asiento de Corte de Apelaciones;
+En la segunda categoría, los funcionarios de las cinco series que desempeñen sus cargos en el territorio jurisdiccional de juzgados de capital de provincia.
 
-En la Tercera Categoría los funcionarios de las cuatro Series que desempeñan sus cargos en la jurisdicción de juzgados de capital de provincia;
-
-En la Cuarta Categoría los funcionarios de las cuatro Series que sirven sus cargos en la jurisdicción de juzgados de comunas o agrupaciones de comunas.
+En la tercera categoría, los funcionarios de las cinco series que sirven sus cargos en el territorio jurisdiccional de juzgados de comuna o agrupación de comunas.
 
 3). Formación del Escalafón y calificación del personal
 
@@ -2324,227 +2336,275 @@ Las reformas que incidan en las reclamaciones se comunicarán también al Minist
 
 #### Artículo 273
 
-Los jueces de letras y jueces especiales de menores elevarán a la respectiva Corte de Apelaciones, antes del 1.° de diciembre de cada año, un informe con la apreciación que les merezcan los funcionarios de su dependencia, atendida su eficiencia, celo y moralidad en el desempeño de su cargo y con las medidas disciplinarias que se les hubiere impuesto en el año.
+Los funcionarios del Escalafón Primario, con la sola excepción de los ministros y fiscal de la Corte Suprema, los funcionarios del Escalafón Secundario y los empleados del Poder Judicial serán calificados anualmente atendiendo a la conducta funcionaria y desempeño observados en ese período, en la forma en que se dispone en los artículos siguientes.
 
-Las Cortes de Apelaciones enviarán a la Corte Suprema en los últimos cinco días de cada año, un informe confidencial con la apreciación que les merezcan, para los efectos de la calificación a que se refiere el artículo 275, los Relatores y Secretarios de las Cortes, los Jueces de Letras, los Jueces de Letras de Menores y los funcionarios auxiliares del respectivo territorio jurisdiccional de dichas Cortes, indicando, además, las medidas disciplinarias que se les hubieren impuesto.
+El período de calificación comprenderá doce meses de desempeño funcionario y se extenderá desde el 1° de noviembre al 31 de octubre del año siguiente.
 
-En este mismo plazo, el fiscal de la Corte Suprema enviará análogo informe a este tribunal, respecto de los fiscales de las Cortes de Apelaciones.
+El proceso de calificaciones deberá iniciarse el 1° de noviembre y quedará terminado, a más tardar, el 31 de enero de cada año.
 
-Sin perjuicio de las demás apreciaciones y antecedentes que el tribunal considere conveniente expresar en su informe, éste deberá referirse especialmente a las siguientes circunstancias: cumplimiento por los funcionarios objeto del informe de sus obligaciones de residencia y asistencia, puntualidad o atraso en la atención de su despacho y en la dictación de las sentencias; quejas y recursos de amparo que se hubieren aceptado contra sus resoluciones; medidas disciplinarias de que hubiere sido objeto; forma como atiende al público que acude a sus oficios; forma como ejerce sus funciones de control o fiscalización sobre sus subordinados y respecto de las que le corresponden sobre la Policía, en especial en los casos de torturas.
+La evaluación se hará por quienes se indica a continuación:
 
-El informe deberá contener respecto de cada funcionario proposición para su inclusión en las listas a que se refiere el artículo 275.
+a) La Corte Suprema, en pleno, calificará a los ministros de Cortes de Apelaciones, a los relatores y procuradores del número que se desempeñen en dicho tribunal, a su secretario, prosecretario y empleados;
 
-Antes de enviar sus informes, las Cortes o el fiscal deberán poner en conocimiento de los funcionarios respectivos las partes que les conciernen a fin de que dentro de un plazo no superior a diez días puedan formular por escrito las rectificaciones de hecho y descargos que estimen necesarios. Estas comunicaciones serán igualmente confidenciales y las rectificaciones y descargos se agregarán en todo caso al informe, cualquiera que sea en definitiva la apreciación que contenga respecto del funcionario.
+b) Las Cortes de Apelaciones, en pleno, calificarán a los jueces de letras, a sus secretarios, relatores y empleados, y a los secretarios de juzgados y funcionarios auxiliares de la Administración de Justicia que ejerzan sus funciones en el territorio jurisdiccional de juzgados de ciudad asiento de Corte de Apelaciones. También calificarán a los demás notarios que ejerzan funciones en el territorio de su jurisdicción, previo informe del juez o de los jueces en cuyo territorio jurisdiccional se desempeñen;
 
-Incisos suprimidos.
+c) El fiscal de la Corte Suprema calificará a su secretario abogado, a los empleados de su oficio y a los fiscales de las Cortes de Apelaciones;
+
+d) Los fiscales de las Cortes de Apelaciones calificarán a los empleados de su oficio, y
+
+e) Los jueces letrados calificarán a sus asistentes sociales y empleados y a los funcionarios auxiliares de la Administración de Justicia no comprendidos en las letras anteriores que se desempeñen dentro de sus respectivos territorios jurisdiccionales. En este último caso, en los lugares en que existan dos jueces de letras, la calificación la hará el más antiguo, y en aquellos en que existan más de dos se constituirán todos en comisión calificadora. Si fueren más de cinco, la comisión estará constituida por los cinco jueces de mayor antigüedad.
+
+Actuará como secretario de estas comisiones, el secretario del tribunal donde se desempeñe su presidente, y si hubiere dos o más secretarios, el que éste designe. Si la calificación corresponde hacerla a una sola persona, ésta designará, en el mes de octubre de cada año, un secretario entre sus subordinados o auxiliares de la Administración de Justicia de su territorio jurisdiccional.
 
 #### Artículo 274
 
-Para los efectos del artículo anterior, las Cortes de Apelaciones se reunirán, a contar del 1° de diciembre de cada año, en sesiones secretas, que se llevarán a cabo fuera de las horas ordinarias de audiencia.
+Los secretarios de los órganos calificadores indicados en el artículo 273, deberán cumplir, entre otras, las siguientes funciones:
 
-Los acuerdos se tomarán por las Cortes reunidas en Pleno, con el voto conforme de la mayoría absoluta de los Ministros que asistan a la audiencia y se aplicarán las reglas contenidas en el Párrafo 2 del Título V, en lo que fueren compatibles.
+a) Reunir, dentro de los primeros quince días del mes de noviembre de cada año, las hojas de vida, con los antecedentes agregados, correspondientes a las personas que deba evaluar el respectivo órgano calificador, para lo cual las solicitará de quien deba llevarlas conforme a lo establecido en el artículo 277;
 
-De los acuerdos se dejará constancia en un libro especial, que se mantendrá reservado.
+b) Recibir las opiniones que se formulen en conformidad al artículo 275, remitir copia de ellas a la persona a quien conciernan en los términos que exige la citada disposición y recibir, además, los descargos que aquélla efectúe por escrito;
+
+c) Dejar constancia, en un libro de actas, de cada calificación, del puntaje que ésta asigna al calificado y, con la debida precisión, de los aspectos o materias que el calificado debe mejorar o rectificar, a criterio de quien efectúa la calificación. Si el órgano calificador fuere colegiado, deberá dejar constancia del número de ministros o jueces que lo integró; del hecho que cada uno de ellos haya emitido una calificación separada y asignado un puntaje al calificado; de cada uno de estos puntajes, indicando el nombre del ministro o juez que lo asignó; del puntaje calificatorio definitivo que resulte de aplicar lo dispuesto en el inciso segundo del artículo 278; de la lista en que queda calificado, y de los aspectos o materias que el calificado, a juicio de cada calificador, debe corregir o mejorar.
+
+Las calificaciones individuales que realiza cada calificador deberán ser debidamente suscritas por éste, se archivarán en la secretaría del órgano calificador y tendrán el carácter de reservadas, salvo para el calificado, el órgano calificador, el Presidente de la República y el Ministro de Justicia;
+
+d) Notificar a los evaluados el resultado de sus calificaciones, en la forma que se expresa en el artículo 276;
+
+e) Remitir al órgano calificador las solicitudes de reposición y de apelación que se interpongan, con los antecedentes que sean pertinentes, dejando constancia en el libro de actas referido en la letra c);
+
+f) Remitir copia de las calificaciones ejecutoriadas a los organismos señalados en el inciso final del artículo 276, y
+
+g) Cumplir las demás órdenes e instrucciones que disponga el Presidente de la Corte o de la comisión calificadora o la persona encargada de efectuar la evaluación..
 
 #### Artículo 275
 
-La Corte Suprema, una vez recibidos los informes a que se refiere el artículo 273, hará en el mes de Enero de cada año, una calificación general de los Ministros y Fiscales de las Cortes de Apelaciones, de los Relatores y Secretario de la Corte Suprema y de los funcionarios indicados en el inciso segundo de dicho artículo, con el objeto de formar cuatro listas de los funcionarios del Orden Judicial. En todo caso, figurarán en esta lista los receptores judiciales que hayan sido suspendidos de sus funciones, por dos o más veces en el año, o por una vez cada año, en dos años consecutivos mediante resolución ejecutoriada.
+Dentro de los diez primeros días del mes de noviembre de cada año, cualquier persona podrá hacer llegar al respectivo órgano calificador sus opiniones respecto de la conducta funcionaria y desempeño observados, durante el período que comprende la calificación, por cualquier funcionario o empleado de los tribunales de justicia sujeto a calificación.
 
-En la lista número uno, figurarán los funcionarios sobresalientes; en la lista número dos, los funcionarios satisfactorios; en la lista número tres, los funcionarios regulares, y en la lista número cuatro, los funcionarios deficientes.
-
-En caso de producirse empate de votos, respecto de si un funcionario debe figurar en las listas uno, dos, tres o cuatro, se repetirá la votación, y si se produce un segundo empate, decidirá el voto del que preside. Si no se reuniere el quorum legal para incluir en la lista número cuatro a los funcionarios que gocen de inamovilidad, quedarán incluidos en la lista número tres.
-
-La calificación efectuada por los Jueces de Letras y por los de Menores, será apelable ante las Cortes de Apelaciones respectivas; tales apelaciones serán vistas, en cuenta, por el Tribunal Pleno de cada Corte. Las calificaciones efectuadas por las Cortes de Apelaciones serán apelables ante la Corte Suprema, la que las resolverá en cuenta. Las calificaciones que efectúe la Corte Suprema sólo serán susceptibles del recurso de reposición. Este recurso deberá interponerse dentro del plazo de cinco días, contados desde la fecha en que se efectuó la transcripción de la calificación. Si el afectado desempeñare sus funciones fuera de la Región Metropolitana, dicho plazo se aumentará en la misma forma que el de emplazamiento para contestar demandas, según lo dispuesto en los artículos 258 y 259 del Código de Procedimiento Civil.
-
-En la lista número uno se colocará a los funcionarios que además de tener moralidad intachable, reúnan cualidades sobresalientes de criterio y preparación jurídica, vocación profesional, laboriosidad, eficiencia y celo en el cumplimiento de sus deberes y obligaciones.
-
-En la lista número dos se incluirá a los funcionarios moralmente intachables, que cumplan satisfactoriamente los deberes y obligaciones de su cargo y sean eficientes y celosos en su desempeño.
-
-En la lista número tres se incluirá a los funcionarios que no posean los requisitos para figurar en la lista número dos, que tengan moralidad intachable y cuyo desempeño funcionario sea solamente regular, y a los que en los meses que precedan al período en que se efectúa la calificación hubieren sido objeto de alguna de las medidas disciplinarias de censura por escrito, pago de costas o multas.
-
-En la lista número cuatro, se colocará a los funcionarios que no posean los requisitos para figurar en la lista número tres; a los funcionarios deficientes; a los que a juicio de la Corte Suprema, hubieren infringido alguna de las prohibiciones indicadas en los números 2° y 3° del artículo 323; a los que por dos años consecutivos hubieren figurado en la lista número tres y a los que en los meses que precedan al período en que se efectúa la calificación, hayan sido objeto de la medida disciplinaria de suspensión de sus funciones, cuando la falta cometida, a juicio de la Corte Suprema, sea de especial gravedad. En todo caso, figurarán en esta lista los receptores judiciales que hayan sido suspendidos de sus funciones, por dos o más veces en el año, o por una vez cada año, en dos años consecutivos mediante resolución ejecutoriada.
+Dichas opiniones deberán formularse por escrito y contener los fundamentos y antecedentes en que se basen. Copia de las mismas deberá remitirse de inmediato por el órgano calificador a los afectados para que efectúen los descargos que estimen pertinentes, antes de iniciarse el proceso de calificación. El órgano calificador, en caso de acoger alguna de las opiniones formuladas, deberá dejar constancia de ello antes de hacer la evaluación anual.
 
 #### Artículo 276
 
-Para efectuar la calificación la Corte Suprema se reunirá en audiencia secreta, a partir del 2 de Enero de cada año o del día siguiente hábil, hasta terminar esa labor; las votaciones respectivas también serán secretas.
+Las calificaciones se efectuarán por los órganos calificadores indicados en el artículo 273, en un procedimiento reservado, dentro de los quince primeros días del mes de diciembre de cada año, fuera del horario de funcionamiento ordinario de los tribunales.
 
-Estas audiencias se llevarán a cabo dentro de las dos primeras horas fijadas para el funcionamiento diario del Tribunal.
+Todas las personas sujetas a evaluación deberán ser calificadas en esa oportunidad, con los antecedentes que a esa fecha existan sobre ellas.
+
+La calificación deberá ser puesta, privadamente, en conocimiento del respectivo evaluado, tan pronto como finalice el proceso, entregándole copia de la parte que le concierna del libro de acta a que se refiere la letra c) del artículo 274, sea personalmente o remitiéndole ésta por carta certificada al tribunal donde preste sus servicios.
+
+Las calificaciones que realice la Corte Suprema en única instancia solo serán susceptibles del recurso de reposición, el que deberá ser fundado.
+
+Las demás calificaciones sólo podrán ser objeto del recurso de apelación, igualmente fundado, señalando claramente los hechos que a juicio del apelante deben ser considerados para mejorar la calificación.
+
+Estos recursos deberán interponerse en el plazo fatal de cinco días hábiles contados desde la fecha de notificación de la calificación de la que se pide reposición o se apela. Si la notificación se hubiese hecho por carta certificada, se entenderá efectuada transcurridos que sean tres días hábiles desde la fecha de entrega de la carta al Servicio de Correos. Los recursos, dirigidos al órgano calificador que deba conocer de ellos, se presentarán directamente ante el que haya efectuado la evaluación, cuyo secretario deberá remitirlos, dentro de 48 horas, al que deba conocerlos.
+
+La calificación hecha por el órgano calificador de apelación no será susceptible de recurso alguno.
+
+Corresponderá conocer del recurso de apelación a los siguientes órganos:
+
+a) Al pleno de la Corte Suprema, si la calificación fue efectuada por una Corte de Apelaciones o por el fiscal de la misma Corte Suprema;
+
+b) Al fiscal de la Corte Suprema, si la calificación fue hecha por un fiscal de Corte de Apelaciones, y
+
+c) Al pleno de la Corte de Apelaciones respectiva, si la calificación fue realizada por un juez o por una comisión calificadora de jueces.
+
+En estos casos actuará como secretario el que lo sea de la respectiva Corte o del fiscal. Si en ésa existieren más de dos, por el que designe el Presidente. En la relación, además de los antecedentes señalados en el inciso primero del artículo 278, deberán exponerse los fundamentos del recurso interpuesto.
+
+La apelación implica una recalificación del apelante, la que deberá hacerse en los términos del artículo 278, debiendo considerarse especialmente en ella los aspectos y materias que el apelante, según la calificación apelada, debe mejorar o corregir. El puntaje que arroje esta recalificación será el puntaje calificatorio definitivo. El órgano calificador que conozca de la apelación deberá efectuar la recalificación dentro de los diez días hábiles siguientes a la fecha de su presentación. La recalificación se notificará al interesado en la forma expresada en el inciso tercero, por el secretario de estos tribunales y será comunicada al órgano calificador respectivo.
+
+Todas las calificaciones, una vez que se encuentren ejecutoriadas, serán comunicadas por los secretarios de los órganos calificadores, mediante oficio reservado, a la Corte Suprema, Cortes de Apelaciones y Ministerio de Justicia, para los efectos que procedan.
 
 #### Artículo 277
 
-Los funcionarios que gocen de inamovilidad, incluidos en la lista cuatro con el voto de la mayoría de los miembros en ejercicio de la Corte Suprema, quedarán removidos de sus cargos. Igualmente removidos quedarán aquellos funcionarios que no gocen de inamovilidad, que fueren incluidos en la lista número cuatro con el voto de la mayoría de los miembros de la Corte Suprema presentes en la votación. En ambos casos, los funcionarios quedarán de inmediato suspendidos de sus funciones, con goce de medio sueldo. El Presidente de la República cumplirá los acuerdos de remoción, transcurridos 30 días desde que la Corte Suprema comunique al Ministerio de Justicia el resultado de la Calificación anual.
+El Secretario del tribunal en donde presten servicios, llevará una hoja de vida de cada persona que deba ser evaluada; si existe más de un secretario, el tribunal distribuirá entre ellos esta labor.
 
-El funcionario afectado, dentro del término de treinta días, contados desde la fecha en que, por carta certificada dirigida al lugar en que debe desempeñar sus funciones, se le comunique la calificación, podrá iniciar su expediente de jubilación, siempre que acredite, a lo menos, diez años de servicios computables.
+En el caso de los funcionarios auxiliares de la Administración de Justicia señalados en la letra
 
-La inclusión en la lista número cuatro deberá ser comunicada al Ministerio de Justicia, a las Cortes de Apelaciones de la República y al Fiscal de la Corte Suprema cuando proceda. Se les comunicará, asimismo, la nómina de los funcionarios incluidos en las listas números uno, dos y tres.
+- **b)** del artículo 273, corresponderá esta tarea al secretario de la Corte de Apelaciones o al que designe ese tribunal, de haber más de uno. Respecto de los funcionarios auxiliares indicados en la letra
+
+- **e)** del mismo artículo, corresponderá al secretario del tribunal que designe la respectiva Corte de Apelaciones. En el caso a que se refiere la letra
+
+- **c)** de dicho artículo, corresponderá esta tarea al secretario abogado del fiscal de la Corte Suprema y en el de la letra
+
+- **d)** de la misma disposición, al respectivo fiscal.
+
+Las hojas de vida de las personas a quienes se asigna esta labor serán llevadas por el Presidente de la Corte Suprema, por el fiscal de la Corte Suprema, por los Presidentes de las Cortes de Apelaciones o por los jueces, según corresponda.
+
+En la hoja de vida los encargados dejarán constancia clara, oportuna y precisa, de las medidas disciplinarias ejecutoriadas y de las apreciaciones de mérito y de demérito que ordenen anotar los tribunales, ministros visitadores y los funcionarios calificadores indicados en el artículo 273 respecto de las personas que les corresponda calificar. Tratándose de tribunales colegiados, las anotaciones de mérito o de demérito serán decretadas por el tribunal pleno o por cualquiera de las salas de que se componen.
+
+Los antecedentes que figuren en la hoja de vida serán reservados, salvo para la persona a que se refieren, la que podrá imponerse de su contenido las veces que estime conveniente y hacer llegar al encargado de llevarlas, antes que se inicie el proceso de calificación, las observaciones y antecedentes que desee, para ser agregados.
+
+Ante el mismo encargado y en igual oportunidad, las personas que deben ser evaluadas podrán pedir que se anote en su hoja de vida la circunstancia de haber participado en actividades idóneas de capacitación y perfeccionamiento, para lo cual deberán acompañar los certificados y comprobantes pertinentes.
+
+Cuando en virtud de traslado o ascenso de un determinado funcionario o empleado, deba cambiar el calificador, el anterior cerrará su hoja de vida y la remitirá al nuevo calificador inmediatamente de materializado el traslado o ascenso, junto con un informe de calificación en el cual consignará su desempeño funcionario. La persona encargada de llevar la hoja de vida del funcionario trasladado o ascendido procederá a abrir una nueva hoja de vida, a la cual anexará la anterior y el informe de calificación.
+
+Existirá, además, una hoja de calificación en la cual se resumirá y valorará, anualmente, el desempeño de cada funcionario y se dejará constancia de la lista en que quedó clasificado.
+
+#### Artículo 277 bis
+
+La calificación deberá fundarse en antecedentes objetivos y considerar, además de las anotaciones practicadas en la respectiva hoja de vida y el informe de calificación, lo siguiente: responsabilidad, capacidad, conocimientos, iniciativa, eficiencia, afán de superación, relaciones humanas y atención al público, en consideración a la función o labor que corresponda realizar y magnitud de la misma.
 
 #### Artículo 278
 
-Los Jueces de Letras y los Jueces de Letras de Menores, efectuarán anualmente, durante la primera quincena de Noviembre, una calificación de los empleados de secretaría y de los oficiales de sala de su dependencia, con el objeto de formar las cuatro listas a que se refiere el artículo 275 del presente Código.
+La calificación comenzará con la relación que hará el secretario del órgano calificador sobre todos los antecedentes de cada una de las personas que deban ser evaluadas. A continuación de cada una de las relaciones individuales, los integrantes del órgano calificador procederán, separadamente, a entregar por escrito al secretario la evaluación que aquéllos les merezcan.
 
-En la lista número uno se colocará a los empleados que además de tener moralidad intachable, reúnan cualidades sobresalientes de preparación, vocación profesional y celo en el cumplimiento de sus deberes y obligaciones. Los Oficiales de Sala figurarán en la lista número uno cuando reúnan cualidades sobresalientes de moralidad intachable de eficiencia y de puntualidad y celo en el cumplimiento de sus obligaciones.
+El calificado será evaluado globalmente en base a las pautas y rubros establecidos en los artículos 277 y 277 bis. El resultado de la calificación se expresará en un puntaje de 1 a 7 que se asignará al calificado y que podrá contener hasta dos decimales. En caso que el órgano calificador sea colegiado, esto es, integrado por dos o más personas, cada uno de sus miembros hará una calificación separada. El puntaje calificatorio definitivo será el cuociente que resulte de dividir la suma total de los puntajes individualmente asignados al calificado por el número de calificadores.
 
-En la lista número dos se incluirá a los empleados moralmente intachables que cumplan satisfactoriamente los deberes y obligaciones de su cargo y sean eficientes y celosos en su desempeño. Los Oficiales de Sala figurarán en la lista número dos, cuando posean condiciones de moralidad intachable y de eficiencia, puntualidad y celo satisfactorios, en el cumplimiento de sus obligaciones.
+El puntaje definitivo determinará la lista en que figurará el calificado por el año inmediatamente siguiente al de la calificación, conforme a la siguiente pauta: Lista Sobresaliente, de 6,5 a 7 puntos; lista Muy Buena, de 6 a 6,49 puntos; lista Satisfactoria, de 5 a 5,99 puntos; lista Regular, de 4 a 4,99 puntos; lista Condicional, de 3 a 3,99 puntos y lista Deficiente, menos de 3 puntos. Ello no obstante, por el solo hecho de que el calificado obtenga una nota promedio inferior a 3 en responsabilidad o eficiencia, automáticamente quedará calificado en lista Deficiente; y, si obtiene puntaje igual o inferior a 3 en dos o más de cualquiera de los otros rubros, no podrá quedar calificado en lista superior a la Condicional.
 
-En la lista número tres, se colocará a los empleados que teniendo moralidad intachable, no posean los requisitos necesarios para figurar en la lista número dos y cuyo desempeño funcionario sea solamente regular y a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de alguna de las medidas disciplinarias de censura por escrito o multa.
+El calificador que asigne, en cualquiera de los rubros a que se refiere el artículo 277 bis, un puntaje igual o superior a 6 o inferior a 4 deberá señalar los hechos que fundamentan su apreciación.
 
-En la lista número cuatro, se colocará a los empleados que no posean los requisitos para figurar en la lista número tres, a los que hayan tenido una actuación deficiente, a los que en los meses que precedan al período en que se efectúa la calificación, hubieren sido objeto de la medida disciplinaria de suspensión, cuando la falta cometida, a juicio del Juez respectivo, sea de especial gravedad, y a los que por dos años consecutivos hubieren figurado en la lista número tres.
+El calificado que, durante el año que se califica, hubiese sido objeto de medida disciplinaria, cualquiera sea el puntaje que obtenga, no podrá figurar en lista Sobresaliente y, en caso de haber sido objeto de medida disciplinaria superior a la de amonestación privada, no podrá figurar en lista Muy Buena. De igual manera, el que hubiese sido objeto de dos o más medidas disciplinarias, siempre que ninguna de ellas hubiese sido superior a censura por escrito, no podrá figurar en lista Satisfactoria; el que hubiese sido objeto de tres o más medidas disciplinarias, siempre que alguna de ellas hubiese sido superior a censura por escrito y ninguna superior a multa, no podrá figurar en lista Regular, y el que hubiese sido objeto de tres o más medidas disciplinarias o de dos o más, siempre que una de ellas hubiese sido de suspensión de funciones, quedará calificado en lista Deficiente.
 
-Igual calificación y formación de listas, efectuarán la Corte Suprema, las Cortes de Apelaciones y los Fiscales de esos tribunales respecto de sus empleados de secretaria y oficiales de sala. La Corte Suprema efectuará, además las calificaciones de los empleados y oficiales de sala de la Oficina del Presupuesto y de la Biblioteca del Tribunal; y el Presidente la de su Secretario Privado, del chofer de la presidencia, de los ascensoristas y aseadores del Palacio de los Tribunales.
+Las reglas anteriores se observarán también por los órganos a los que corresponda conocer las apelaciones.
 
-Las calificaciones hechas por los Jueces, en la lista número cuatro, serán apelables ante la Corte de Apelaciones respectiva, dentro del quinto día hábil contado desde la notificación de ellas al interesado.
-
-Las calificaciones efectuadas por las Cortes de Apelaciones, en la lista número cuatro, serán apelables ante la Corte Suprema, dentro del quinto día hábil contado desde la notificación de ellas al afectado.
-
-Las calificaciones efectuadas por los Fiscales de las Cortes de Apelaciones serán reclamables ante el Fiscal de la Corte Suprema, dentro del mismo plazo.
-
-Las calificaciones efectuadas por la Corte Suprema respecto de los empleados de la secretaría y oficiales de sala del Tribunal, de los empleados y oficiales de sala de la Oficina de Presupuesto y Biblioteca de esa Corte; las que efectuare el Presidente respecto de su Secretario Privado, del chofer de la presidencia, de los ascensoristas y aseadores del Palacio de los Tribunales, y la que hiciere el Fiscal de la misma Corte respecto de su secretario abogado, serán susceptibles del recurso de reposición que deberá interponerse dentro del término de cinco días de notificada la calificación.
-
-La Corte Suprema, cuando lo estime conveniente para el buen servicio, podrá calificar, por sí misma, a los empleados de cualquier tribunal del país, requiriendo para ello, cuando lo considere necesario, informe a las Cortes de Apelaciones y Juzgados respectivos y demás autoridades que puedan proporcionarle antecedentes relacionados con la materia.
-
-Los Jueces, vencido el plazo de la apelación, comunicarán todas las calificaciones que hayan efectuado a la respectiva Corte de Apelaciones, y al Ministerio de Justicia la de las personas que figuren en la lista número cuatro.
-
-Transcurrido el plazo para apelar, las Cortes de Apelaciones comunicarán a la Corte Suprema todas las calificaciones efectuadas, y al Ministerio de Justicia la de las personas que figuren en la lista número cuatro. Vencido el mismo plazo, los Fiscales de las Cortes de Apelaciones comunicarán las calificaciones al Fiscal de la Corte Suprema, y al Ministerio de Justicia las de las personas incluidas en la lista número cuatro.
-
-La Corte Suprema y el Fiscal de la misma, en su caso, comunicarán al Ministerio de Justicia la nómina de las personas calificadas en la lista número cuatro.
-
-Una vez recibida por el Poder Ejecutivo la nómina de las personas calificadas en la lista número cuatro, procederá a decretar la remoción transcurridos treinta días contados desde la fecha de la comunicación. Las calificaciones reclamadas se comunicarán cuando el reclamo haya sido resuelto.
-
-Las audiencias que celebren las Cortes de Apelaciones para calificar a su personal y para conocer de las reclamaciones a que se refiere el inciso sexto, se realizarán dentro de las dos primeras horas fijadas para el funcionamiento diario del tribunal, serán secretas y se aplicarán las reglas contenidas en el párrafo segundo del Título V, en lo que fueren compatibles.
-
-Regirá para los empleados a que se refiere este artículo y para los oficiales de sala, lo dispuesto en el artículo 277.
+Para todos los efectos legales, se considerarán en lista de méritos a todos aquellos funcionarios que, conforme a su calificación anual, hubiesen sido incorporados a la lista Sobresaliente o Muy Buena.
 
 #### Artículo 278 bis
 
-La Corte Suprema, no obstante lo dispuesto en el inciso 8° del artículo 275 y en el inciso 5° del artículo 278, con el voto de la mayoría de sus miembros en ejercicio, podrá pedir la renuncia de sus cargos a funcionarios y empleados del Poder Judicial, esto es, de la Judicatura Ordinaria, de Menores, del Trabajo, de la Oficina de Presupuestos y de la Junta de Servicios Judiciales, que por dos años consecutivos, comprendido el correspondiente a la calificación de que se trate, hayan sido incluidos en lista tres.
+El funcionario que figure en lista Deficiente o, por segundo año consecutivo, en lista Condicional, una vez firme la calificación respectiva, quedará removido de su cargo por el solo ministerio de la ley. En tanto no quede firme la mencionada calificación, el funcionario quedará de inmediato suspendido de sus funciones.
 
-Esta renuncia será considerada como no voluntaria y dará derecho al afectado para acogerse a jubilación siempre que acredite a lo menos, veinte años de servicios computables.
-
-Si los afectados no presentaren la renuncia en el plazo de veinte días, contados desde la fecha en que por carta certificada se les comunique esa medida, dirigida al lugar en que desempeñan sus funciones, regirá lo dispuesto en los artículos 275, inciso 8°; 277, inciso 1°, y 278, incisos 5° y 15 de este Código.
+Estas circunstancias deberán ser comunicadas de inmediato por el órgano calificador respectivo al Ministerio de Justicia, para los fines administrativos consiguientes.
 
 4). Los nombramientos
 
 #### Artículo 279
 
-Si el nombramiento se hace en propiedad, será necesario abrir concurso, por un plazo no inferior a diez días, salvo para la provisión de los cargos de ministros o fiscal de la Corte Suprema, en que se procederá sin previo concurso.
+Para proceder al nombramiento en propiedad de un cargo en el Escalafón Primario que se encontrare vacante, el tribunal respectivo llamará a concurso, por el lapso de diez días, el que podrá prorrogar por términos iguales si no se presentaren oponentes en número suficiente para formar las listas que deben ser enviadas al Presidente de la República, para los efectos previstos en el artículo 263; salvo que se trate de proveer los cargos de ministro o fiscal de la Corte Suprema, en que se procederá sin previo concurso.
 
-La apertura de un concurso será comunicada telegráficamente a todas las Cortes de Apelaciones del país, las que estarán obligadas a ponerlo en conocimiento de los tribunales de su jurisdicción. La omisión de esta última comunicación no invalidará el concurso, sin perjuicio de la responsabilidad del Secretario.
+El secretario del tribunal que llame a concurso comunicará su apertura por télex, fax o telégrafo a todas las Cortes de Apelaciones del país, las que deberán ponerlo en conocimiento de los tribunales de su territorio jurisdiccional por medios idóneos. La omisión de esta última comunicación no invalidará el concurso, sin perjuicio de la responsabilidad del secretario. Además, dicho secretario deberá insertar un aviso de la apertura del concurso en el Diario Oficial. A partir de la fecha de publicación del aviso se contará el plazo señalado en el inciso primero.
 
-Si la ley expresamente no dispone lo contrario, el funcionario que deba figurar en las presentaciones en razón de antigüedad, no necesitará presentarse a concurso. Si este funcionario manifiesta dentro del plazo del concurso su deseo de no figurar en la presentación, la Corte prescindirá de él y colocará en su lugar al que le siga en antigüedad.
+Los interesados que reúnan los requisitos que la ley exige para optar al cargo deberán acompañar su currículum vitae y demás antecedentes justificativos de sus méritos.
 
-Los interesados deberán hacer valer los antecedentes justificativos de sus méritos y poseer los requisitos que la ley exige para optar al cargo.
+La elección de las personas que deban figurar en las propuestas o ternas para la suplencia o interinato de alguno de los cargos del Escalafón Primario se limitará a los funcionarios que presten sus servicios dentro del territorio jurisdiccional de la Corte respectiva. Sólo a falta de ellos podrá elegirse libremente de entre los demás funcionarios que reúnan las condiciones necesarias.
 
-La elección de las personas que deban figurar en las propuestas o ternas, para la suplencia o interinato de alguno de los cargos de las categorías primera a séptima inclusives del Escalafón Primario, se limitará a los funcionarios que presten sus servicios dentro de la jurisdicción de la Corte respectiva, y sólo a falta de ellos podrá elegirse libremente de entre los demás funcionarios que reúnan las condiciones necesarias.
-
-Sin embargo, cuando se trate de propuestas o ternas para el nombramiento, en calidad de interinos o suplentes, de Relatores o Secretarios de las Cortes de Apelaciones, podrán figurar en las presentaciones, a falta de funcionarios que reúnan los requisitos generales o de idoneidad para tales funciones, otros de la cuarta o quinta categorías, cualquiera que sea la jurisdicción a que pertenezcan y el tiempo que hayan permanecido en la respectiva categoría.
+Sin embargo, cuando se trate de propuestas o ternas para el nombramiento, en calidad de interinos o suplentes, de relatores o secretarios de Corte de Apelaciones, podrán figurar en ellas, a falta de funcionarios que reúnan los requisitos generales de idoneidad para tales funciones, otros de la quinta o sexta categoría, cualquiera sea el territorio jurisdiccional a que pertenezcan y el tiempo que hayan permanecido en la respectiva categoría.
 
 #### Artículo 280
 
-No podrá ser promovido a una categoría superior, el funcionario que tenga menos de dos años de servicios en su grado, salvo que en la categoría inmediatamente inferior hubiere servido más de cinco años, en cuyo caso necesitará sólo un año. Podrá, no obstante, ser ascendido si no se interesare por el cargo ningún funcionario con más de dos años en el grado.
-
-El tiempo servido en las Regiones Décimo Primera, de Aisén, del General Carlos Ibáñez del Campo y Décimo Segunda, de Magallanes y de la Antártica Chilena y en las provincias de Chiloé y Palena de la Décima Región de Los Lagos, hasta un máximo de cinco años, por una sola vez, se computará doblado para los efectos de la antigüedad de los funcionarios en su categoría y del requisito para el ascenso. Este beneficio no servirá para obtener mayor remuneración.
+No podrá ser promovido a una categoría superior el funcionario que tenga menos de tres años de servicios en su categoría, salvo que en la inmediatamente inferior hubiere servido más de cinco años, en cuyo caso necesitará sólo uno. Podrá, no obstante, ser ascendido si no se interesare por el cargo ningún funcionario que desempeñe un cargo de la misma categoría del que se trata de proveer o que tenga tres años o más de servicios en la categoría inmediatamente inferior.
 
 #### Artículo 281
 
-En las presentaciones no podrán figurar funcionarios incluidos en la lista número tres, salvo que al concurso respectivo no se hubiere presentado número suficiente de funcionarios que figuren en las listas números uno y dos. Un oponente, de los que figuran en la lista número uno, deberá ser incluido en la terna. Tampoco podrán figurar en las presentaciones los funcionarios a quienes, con posterioridad a la calificación anual, se hubiere aplicado medidas disciplinarias de censura por escrito, pago de costas, multas o suspensión de sus cargos; pero sí, en conformidad al artículo 83 de la Constitución Política del Estado, alguno hubiere de figurar en la propuesta, por antigüedad, en ella se dejará constancia de hallarse incluido en la lista número tres o de habérsele aplicado alguna de las medidas disciplinarias antes mencionadas.
+Los funcionarios incluidos en lista Sobresaliente tendrán derecho preferente para figurar en quina o en terna frente a aquéllos que se encuentren incorporados en la lista Muy Buena, éstos preferirán a los incluidos en la lista Satisfactoria, y éstos a los incorporados a la lista Regular. Los incluidos en las otras listas no podrán figurar en quina o en terna. A igualdad de lista calificatoria, preferirán los oponentes por orden de su categoría y, a igualdad en ésta, deberá considerarse el puntaje de la última calificación y la antigüedad en el cargo, entre sus otros antecedentes.
 
-Los funcionarios figurarán en la propuesta por orden estricto de antigüedad, debiendo aplicarse la lista en que se encuentren incluidos.
+En caso que algún ministro de Corte de Apelaciones o juez letrado deba figurar por antigüedad en las propuestas a que se refiere el artículo 75 de la Constitución Política y hubiese sido objeto de cualquier medida disciplinaria con posterioridad a su calificación anual, en la respectiva propuesta se dejará constancia de ello y de la circunstancia de estar o no ejecutoriada la resolución respectiva.
+
+En las propuestas deberá dejarse constancia del número de votos obtenidos por los oponentes en cada una de las votaciones que han debido efectuarse para la confección de la quina o de la terna.
 
 #### Artículo 282
 
 La formación de las listas, ternas o propuestas, deberá hacerse por el tribunal respectivo con asistencia de la mayoría absoluta de los miembros de que se componga. Las elecciones se harán en votación secreta y por mayoría absoluta de los presentes. En caso de empate por dos veces, decidirá el voto del que presida.
 
-El fiscal podrá integrar el tribunal para los efectos de este artículo.
+El fiscal de la Corte Suprema integrará el tribunal pleno de esa Corte para los efectos de lo dispuesto en el inciso anterior cuando se trate de formar ternas para la provisión de cargos de fiscales de Corte de Apelaciones.
 
 #### Artículo 283
 
-Para proveer el cargo de ministro o fiscal de la Corte Suprema, este tribunal enviará al Presidente de la República una lista de cinco personas, en la que deberán figurar los dos miembros más antiguos de las Cortes de Apelaciones. Los otros tres lugares se llenarán en atención a los méritos de los candidatos pudiendo figurar personas extrañas a la Administración de Justicia.
-
-Incisos derogados.
+Para proveer el cargo de ministro o fiscal de la Corte Suprema, este tribunal enviará al Presidente de la República una lista de cinco personas, en la que deberá figurar el ministro más antiguo de Corte de Apelaciones que esté en lista de méritos. Los otros cuatro lugares se llenarán conforme a lo establecido en el inciso primero del artículo 281. Ello no obstante, podrán integrar la quina abogados extraños a la Administración de Justicia, elegidos por méritos.
 
 #### Artículo 284
 
-Las ternas para proveer los cargos que se indican se formarán del modo siguiente:
+Para proveer los demás cargos del Escalafón Primario, se formarán ternas del modo siguiente:
 
-Para ministros y fiscales de Cortes de Apelaciones, con el juez letrado más antiguo de la tercera categoría, y con dos funcionarios de la segunda o tercera categorías o con dicho juez y un funcionario de cualquiera de esas categorías y un abogado extraño a la Administración de Justicia, con 15 o más años de ejercicio profesional que cumpla con los demás requisitos exigidos por el artículo 253 de este Código, elegidos por méritos.
+a) Para ministros y fiscales de Corte de Apelaciones y secretario de la Corte Suprema, con el juez de letras en lo civil o criminal más antiguo de asiento de Corte calificado en lista de méritos y que exprese su interés por el cargo y con dos ministros de Corte de Apelaciones o integrantes de la segunda o tercera categoría que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
 
-Sin embargo, en la formación de las ternas para Ministros y Fiscales de la Corte de Apelaciones de Santiago, tendrán preferencia, en uno de los dos lugares de libre elección, los funcionarios de la segunda categoría que se opongan al concurso.
+b) Para integrantes de las categorías tercera y cuarta, con excepción de los relatores de las Cortes de Apelaciones, con el juez de letras en lo civil o criminal más antiguo de la categoría inferior calificado en lista de méritos y que exprese su interés en el cargo y con dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se hayan opuesto al concurso, elegidos de conformidad a lo establecido en el inciso primero del artículo 281;
 
-Para jueces letrados de las categorías tercera y cuarta, con el juez letrado más antiguo de la categoría inferior y con dos funcionarios de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos por méritos.
+c) Para integrantes de la quinta categoría, con el funcionario más antiguo de la categoría inferior que se encuentre calificado en lista de méritos y exprese su interés en el cargo y con uno o dos integrantes de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con uno o dos abogados extraños al Poder Judicial que se hayan opuesto al concurso, elegidos en conformidad con lo dispuesto en el artículo 284 bis;
 
-Para jueces letrados de la categoría quinta, con el secretario más antiguo de la categoría inferior y con dos funcionarios de aquella categoría o de la inmediatamente inferior, elegidos por mérito. Sin embargo, en la terna, podrán figurar abogados.
+d) Para integrantes de la sexta categoría, con excepción del prosecretario de la Corte Suprema y del secretario abogado del fiscal de ese mismo tribunal, con el funcionario más antiguo de la séptima categoría que figure en lista de méritos y que exprese su interés en el cargo que se trata de proveer y con uno o dos integrantes de la misma categoría o de la inmediatamente inferior, elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con uno o dos abogados extraños al Poder Judicial que se hubiesen opuesto al concurso, elegidos en conformidad a lo dispuesto en el artículo 284 bis, y
+
+e) Para integrantes de la séptima categoría, con funcionarios de la misma categoría elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con abogados extraños al Poder Judicial que se hayan opuesto al concurso, elegidos en conformidad a lo dispuesto en el artículo 284 bis.
+
+A falta de postulantes a las categorías indicadas en las letras b) y c) de este artículo, podrán ocupar uno o dos lugares de libre elección, los funcionarios que se encuentren incorporados en la categoría inferior subsiguiente a la del cargo que se trata de proveer, siempre conforme a lo dispuesto en el inciso primero del artículo 281.
+
+El funcionario que goce del derecho para figurar en terna por antigüedad, de acuerdo con lo dispuesto en este artículo, deberá expresar su interés en el cargo dentro de diez días, contados desde la publicación de la apertura del concurso en el Diario Oficial. Si así no lo hiciere, se prescindirá de él.
+
+#### Artículo 284 bis
+
+En las ternas para cargos de jueces o secretarios de juzgados de letras no podrán figurar abogados extraños al Poder Judicial que no hubieren aprobado el programa de formación para postulantes al Escalafón Primario del Poder Judicial. Con todo, si al concurso respectivo no se presentaren postulantes que hubieren cumplido dicho requisito o que ya pertenecieron al Escalafón Primario, se llamará a un segundo concurso y en él se admitirá la postulación de abogados que no hubiesen aprobado dicho programa.
+
+Entre los postulantes que hubieren aprobado el programa referido se preferirá a aquéllos que hubiesen obtenido mejores calificaciones. De existir postulantes en igualdad de calificaciones, preferirán aquéllos que hubiesen servido en el Escalafón del Personal de Empleados por más de cinco años, siempre que hubiesen sido considerados permanentemente en lista de mérito y no hubiesen sido objeto de sanción alguna luego de la última calificación.
+
+Tratándose de proveer cargos para la quinta o sexta categoría, en caso de que no todos los postulantes hubiesen hecho el programa respectivo en la Academia Judicial, la Corte de Apelaciones deberá someter a estos últimos o al grupo de oponentes que preseleccione, a un examen de oposición que será preparado y controlado por la Academia Judicial. El resultado de este examen será considerado, con los restantes antecedentes, al confeccionar la terna.
 
 #### Artículo 285
 
-Para proveer el cargo de relator, la respectiva Corte propondrá al funcionario que, perteneciendo a la misma categoría del cargo que se trata de proveer o a la categoría inmediatamente inferior, considere más idóneo para desempeñarlo, sin que sea necesario abrir concurso ni recibir exámenes, salvo que el tribunal así lo acuerde.
+La Corte Suprema o la de Apelaciones respectiva, para proveer el cargo de relator, someterá al Presidente de la República una terna. Excepcionalmente, la Corte de que se trate podrá acordar, por mayoría absoluta de sus miembros en ejercicio, omitir la terna y someter al Presidente de la República una propuesta uninominal.
 
-No obstante, podrán ser propuestos como relatores de Cortes de Apelaciones los funcionarios pertenecientes al Escalafón Primario o los abogados que cumplan con los requisitos señalados en el artículo 463. Si las personas propuestas fueren abogados, figurarán durante los tres primeros años de su desempeño en la quinta categoría de ese Escalafón; en los dos años siguientes en la cuarta e ingresarán a la tercera una vez completados cinco años. Los funcionarios del Escalafón Primario que sean designados relatores sin tener tres o dos años de servicio en las mencionadas categorías, permanecerán en ellas hasta completar cada uno de esos lapsos, e ingresarán a la tercera una vez cumplidos estos requisitos.
+Toda propuesta, sea terna o unipersonal, deberá ser formulada previo concurso que se regirá por las normas del artículo 279 y será resuelto en base a los antecedentes de los candidatos y al resultado de un examen personal que deberá incluir el hacer relación de una o más causas.
 
-Los funcionarios y abogados mencionados en el inciso precedente percibirán durante los lapsos señalados las remuneraciones asignadas en la Escala Unica de Sueldos del Poder Judicial al cargo de relator.
+En el concurso para postular a relator de la Corte Suprema podrán participar los funcionarios calificados en lista de méritos de la misma categoría o de la inmediatamente inferior y quienes, teniendo igual calificación, se hayan desempeñado como relatores en alguna Corte de Apelaciones durante cinco años a lo menos.
 
-En los casos del inciso segundo, el tribunal podrá abrir concursos y recibir examen, si así lo acordare.
+En el concurso para postular al cargo de relator de Corte de Apelaciones podrán participar los funcionarios calificados en lista de méritos de igual categoría o de la inmediatamente inferior. La Corte de Apelaciones respectiva podrá permitir, extraordinariamente, la postulación a dicho concurso de funcionarios de las categorías quinta, sexta o séptima, e incluso de abogados ajenos que hubieren aprobado el programa de formación para postulantes al Escalafón Primario, de la Academia Judicial.
+
+En cualquiera de los casos anteriores, si el número de postulantes fuere superior a cinco, la Corte encargada de confeccionar la terna podrá preseleccionar a cinco de los oponentes, en conformidad a sus méritos y limitar a este número a aquéllos a los que someta a examen.
+
+Las personas que se nombraren como relatores de la Corte Suprema, que provengan de las categorías segunda o tercera del Escalafón Primario, se incorporarán en tal carácter a la segunda categoría del mencionado Escalafón, una vez que presten el juramento de estilo.
+
+Las personas que se nombraren como relatores de Cortes de Apelaciones, que provengan de las categorías tercera o cuarta del Escalafón Primario, se incorporarán en tal carácter a la tercera categoría del mencionado Escalafón, una vez que presten el juramento de estilo.
+
+Las personas que se nombraren como relatores de la Corte Suprema que no provengan de alguna de las categorías indicadas en el inciso sexto, figurarán durante los tres primeros años de su desempeño en ese tribunal en la cuarta categoría del Escalafón Primario, en los dos años siguientes, en la tercera, e integrarán la segunda categoría una vez que completen cinco años de servicios en ese carácter, todo ello sin necesidad de nuevo nombramiento.
+
+Las personas que se nombraren como relatores de Cortes de Apelaciones que no provengan de alguna de las categorías indicadas en el inciso séptimo, figurarán durante los tres primeros años de su desempeño en la quinta categoría del Escalafón Primario, en los dos años siguientes en la cuarta, e ingresarán a la tercera categoría una vez que completen cinco años, todo ello sin necesidad de nuevo nombramiento.
+
+Las personas a que se refieren los dos incisos anteriores obtendrán las remuneraciones asignadas a los relatores de la Corte Suprema o de las Cortes de Apelaciones, según corresponda, mientras se desempeñen en tal carácter.
+
+#### Artículo 285 bis
+
+El nombramiento del prosecretario de la Corte Suprema se hará a propuesta de ese tribunal y sólo podrá recaer en persona con título de abogado.
+
+Este funcionario subrogará al secretario y se aplicará la norma del inciso segundo del artículo 500.
+
+Además de las otras funciones que le corresponden, desempeñará el cargo de relator cuando el tribunal lo estime conveniente.
+
+Todas las menciones que en las leyes se hagan al oficial primero de la Corte Suprema se entenderán referidas al prosecretario.
+
+El secretario abogado del fiscal de la Corte Suprema será designado a propuesta de dicho fiscal.
 
 #### Artículo 286
 
-Las ternas para proveer los cargos que se indican, se formarán del modo siguiente:
+Las ternas para proveer los cargos de defensores públicos se formarán del modo siguiente:
 
-Para defensores públicos de Santiago y Valparaíso: con el defensor público más antiguo de la sexta categoría y con dos funcionarios de la quinta categoría, elegidos por mérito;
+a) Para defensores públicos de las categorías primera y segunda del Escalafón Secundario, con el defensor público más antiguo de la categoría inmediatamente inferior que figure en lista de méritos y que exprese su interés en el cargo y con dos defensores públicos de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos de conformidad a lo dispuesto en el inciso primero del artículo 281. Sólo a falta de éstos podrán figurar en las ternas abogados ajenos al Escalafón, elegidos por méritos, y
 
-Para defensores públicos de la sexta categoría: con tres funcionarios de esa misma categoría y de la inmediatamente inferior, y a falta de ellos, con abogados;
+b) Para defensores públicos de la tercera categoría del Escalafón mencionado, con defensores públicos de la misma categoría, elegidos de conformidad a lo establecido en el inciso primero del artículo 281, o con abogados ajenos al Escalafón, elegidos por méritos.
 
-Para defensores públicos de la séptima categoría: con tres funcionarios de esa misma categoría y, a falta de ellos, con abogados;
-
-Para secretarios de las categorías segunda y tercera: con el secretario más antiguo de la categoría inferior, y con dos funcionarios de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos por mérito; y
-
-Para secretarios de las categorías quinta, sexta y séptima: con los funcionarios de ellas mismas o con abogados.
-
-El nombramiento del prosecretario de la Corte Suprema se hará a propuesta de este tribunal y sólo podrá recaer en persona con título de abogado.
-
-Este funcionario subrogará al Secretario en casos de impedimento o licencias y la norma del inciso 2° del artículo 500 se aplicará a estas subrogaciones.
-
-Además de las otras funciones que le corresponden, desempeñará el cargo de relator cuando el tribunal lo estime necesario.
-
-Después de haber servido tres años en el cargo, se le considerará, para los efectos de su ascenso, como figurando en la cuarta categoría.
-
-Todas las menciones que en las leyes se hagan al oficial primero de la Secretaría o al Oficial primero de la Corte Suprema, se entenderán referidas al prosecretario.
-
-El secretario abogado del Fiscal de la Corte Suprema será designado a propuesta unipersonal de dicho Fiscal.
-
-> **Nota.** El Art. 1° del Decreto ley 3583, Justicia, publicado el 29.01.1981, dispone eliminar la frase "y sólo a falta de éstos, con otros oponentes idóneos" del inciso final del presente artículo. Sin embargo, dado que el Decreto Ley 3058 agregó nuevos incisos, el primitivo inciso final ha pasado a ser el sexto, en cuyo texto, atendido su contenido, se ha efectuado la referida modificación.
+Con respecto al derecho propio a que se refiere la letra a), tendrá aplicación lo dispuesto en el inciso final del artículo 284.
 
 #### Artículo 287
 
-Las ternas para proveer los cargos de notario, conservador y archivero de las dos primeras categorías se formarán del modo siguiente:
+Las ternas para proveer los cargos de notario, conservador y archivero se formarán del modo siguiente:
 
-a) En uno de los lugares figurará un notario, conservador o archivero de la misma categoría o de la inmediatamente inferior;
+a) Para integrantes de la primera categoría del Escalafón Secundario, con el notario, conservador o archivero más antiguo de la categoría inmediatamente inferior que figure en lista de méritos y que exprese su interés en el cargo y con dos notarios, conservadores o archiveros de la misma categoría del cargo que se trate de proveer o de la inmediatamente inferior que se opongan al concurso, elegidos de conformidad a lo dispuesto en el inciso primero del artículo 281.
 
-b) En el otro un funcionario de las tres primeras categorías del escalafón primario, y
+Para los efectos del derecho propio, se aplicará lo dispuesto en el inciso final del artículo 284;
 
-c) En el tercero, otro notario o un abogado.
+b) Para integrantes de la segunda categoría, con el notario, conservador o archivero más antiguo de la categoría inmediatamente inferior que figure en lista de méritos y que exprese su interés en el cargo. Al efecto, tendrá aplicación lo dispuesto en el inciso final del artículo 284. Un segundo lugar será ocupado por el notario, conservador o archivero de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, que se oponga al concurso, elegido de conformidad a lo establecido en el inciso primero del artículo 281. El tercer lugar en la terna será ocupado por uno de los notarios, conservadores o archiveros recién aludidos, elegido de conformidad al inciso primero del artículo 281, o por un abogado extraño a la carrera, elegido por méritos. Entre estos abogados extraños no podrá figurar un miembro del Escalafón Primario, y
 
-Cuando se trate de proveer cargos de notario, conservador o archivero de la tercera categoría, un lugar de la terna será asignado a un funcionario de la misma categoría, o de la inmediatamente inferior, en ambos casos de la primera serie, otro a un funcionario de las seis primeras categorías del escalafón primario con más de cinco años de antigüedad y el tercero a otro notario o a un abogado.
-
-En los concursos a que se refieren los incisos anteriores, a falta de opositores que reúnan los requisitos señalados, la terna se formará con abogados.
-
-No podrán ser incluidos en ternas o propuestas para cargos de notarios o conservadores de bienes raíces, de ninguna categoría, los miembros y fiscales de las Cortes de Apelaciones a cuya jurisdicción pertenezcan los cargos que se trata de proveer.
-
-La terna para el nombramiento de asistente social judicial de las tres primeras categorías se formará del mismo modo que el señalado en el inciso primero. A falta de opositores al concurso para proveer el cargo de asistente social judicial de las dos primeras categorías que reúnan tales requisitos, la terna se formará con funcionarios de la misma serie de la categoría subsiguiente, o, en su defecto, con asistentes sociales ajenos al Servicio. En el caso que al concurso para proveer el cargo de asistente social judicial de tercera categoría no se presentaren funcionarios con las calidades indicadas en el inciso primero, la terna se formará con asistentes sociales ajenos al Servicio.
-
-La terna para el nombramiento de asistente social judicial de cuarta categoría se formará con un funcionario de la misma categoría que se oponga al concurso y con asistentes sociales ajenos al Servicio.
-
-Para oponerse al cargo de asistente social judicial se requiere estar en posesión del título respectivo otorgado por alguna Universidad del Estado o reconocida por éste y estar inscrito en el Colegio de Asistentes Sociales.
+c) Para integrantes de la tercera categoría, con el o los notarios, conservadores o archiveros de la misma categoría, los que, en caso de oponerse, ocuparán al menos un lugar en la terna, elegido o elegidos de conformidad a lo establecido en el inciso primero del artículo 281, y con abogados ajenos al Escalafón que se opongan al cargo, elegidos por méritos.
 
 #### Artículo 288
 
-Las ternas para proveer el cargo de notario o conservador de bienes raíces de la cuarta categoría, se formarán con el notario o conservador más antiguo de la misma categoría que se oponga al concurso, con un funcionario de las siete categorías del Escalafón Primario, y con un funcionario de las tres primeras series del Escalafón Secundario que sea abogado, o con un abogado. En las ternas no podrán figurar personas que no sean abogados.
+Derogado.
 
 #### Artículo 289
 
-Las ternas para proveer alguno de los cargos de la segunda o tercera serie del Escalafón Secundario se formarán preferentemente:
+Las ternas para proveer alguno de los cargos de la tercera o cuarta serie del Escalafón Secundario se formarán preferentemente:
 
 a) Con los funcionarios con título de abogado de la misma serie; y
 
 b) Con los abogados oponentes y con los funcionarios sin título de abogado de la misma serie del cargo que se trata de proveer, siempre que tengan más de dos años de permanencia en la categoría inmediatamente inferior, para los que pretendan ascender una categoría; y más de diez años para aquellos que opten a un cargo superior en dos o más categorías. Podrán también figurar en estas ternas los empleados del Poder Judicial a que se refiere el artículo 292, que pertenezcan a una de las cuatro primeras categorías del respectivo escalafón y que hayan figurado en ellas más de diez años.
+
+#### Artículo 289 bis
+
+Las ternas para proveer los cargos de asistentes sociales y bibliotecarios se formarán del modo siguiente:
+
+a) Para integrantes de las dos primeras categorías del Escalafón Secundario, según el caso, con el asistente social o bibliotecario más antiguo de la categoría inmediatamente inferior, que figure en lista de méritos y que exprese su interés en el cargo, y con dos asistentes sociales o bibliotecarios, según el caso, de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos en conformidad al inciso primero del artículo 281. A falta de oponentes se incluirá en la terna a asistentes sociales o bibliotecarios, según el caso, ajenos al servicio, elegidos por méritos, y
+
+b) Para integrantes de la tercera categoría, según el caso, con asistentes sociales o bibliotecarios de la misma categoría elegidos en conformidad a lo dispuesto en el inciso primero del artículo 281 o con asistentes sociales o bibliotecarios, según el caso, ajenos al servicio, elegidos por méritos.
+
+Con respecto al derecho propio a que se refiere la letra a), tendrá aplicación lo dispuesto en el inciso final del artículo 284.
+
+Para oponerse al cargo de asistente social o bibliotecario, se requiere estar en posesión del título respectivo otorgado por algún establecimiento de educación superior del Estado o reconocido por éste.
 
 #### Artículo 290
 
@@ -2552,77 +2612,85 @@ En las ternas para proveer cargos judiciales que no requieren título de abogado
 
 #### Artículo 291
 
-No podrán figurar en las propuestas de abogados que se indican en los artículos 284, incisos tercero y cuarto; 286, incisos tercero, cuarto y sexto; 287, inciso tercero; 288, 289, letra b) y 290, sino aquellos que figuren en una lista de abogados postulantes para cargos judiciales que anualmente deberá formar la Corte Suprema. Para este efecto, las Cortes de Apelaciones, en el mes de Diciembre de cada año, propondrán a la Corte Suprema una nómina de los abogados de su territorio jurisdiccional que, en concepto de ellas, deban figurar en la lista de postulantes, previa solicitud de éstos.
-
-Incisos suprimidos.
-
-Esta lista será remitida al Ministerio de Justicia dentro de los primeros cinco días de enero de cada año.
-
-Los funcionarios con título de abogado de las categorías 6a. y 7a. del Escalafón Primario, se considerarán, por ministerio de la ley, que figuran en la lista de abogados postulantes a que se refiere este artículo.
-
-Los abogados recibidos con posterioridad a la formación de la lista de cada año podrán ser nombrados en cargos de Secretario de la categoría 7a., no obstante no figurar en la referida lista.
-
-Los abogados que figuren en la lista continuarán formando parte de ella sin que sea necesario proponerlos nuevamente, a menos que manifiesten su deseo de no ser incluídos o que deban ser eliminados a juicio de la Corte Suprema.
-
-Un auto acordado de la Corte Suprema, que deberá publicarse en el Diario Oficial, señalará la forma como figurarán los abogados en la lista, los cargos para los cuales podrán ser nombrados, la obligación de desempeñarlos y la facultad de la Corte de aceptar o rechazar las excusas que formulen para su desempeño, bajo pena de ser eliminados de ella.
+Las ternas y quinas, según el caso, deberán remitirse al Ministerio de Justicia con todos los antecedentes que se tuvieron presentes al momento de confeccionarlas, conjuntamente con el expediente del respectivo concurso, debiendo indicarse el número de votos obtenidos por los oponentes en cada una de las votaciones que hayan debido efectuarse para tales efectos.
 
 5). Escalafón del personal de empleados u oficiales de secretaría
 
 #### Artículo 292
 
-El escalafón del personal de empleados se compondrá de las siguientes categorías:
+El Escalafón del Personal de Empleados se compondrá de las siguientes categorías:
 
-Primera categoría: Oficiales segundos y bibliotecario estadístico de la Corte Suprema, oficiales primeros de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema.
+Primera categoría: Oficiales segundos de la Corte Suprema, Oficiales primeros de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema.
 
-Segunda categoría: Oficiales terceros de la Corte Suprema, oficiales segundos de las Cortes de Apelaciones, bibliotecarios estadísticos de las Cortes de Apelaciones de Santiago y de San Miguel y oficiales primeros de los juzgados de letras de asiento de Corte.
+Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones y Oficiales primeros de los juzgados de letras de asiento de Corte.
 
-Tercera categoría: Oficiales cuartos de la Corte Suprema, oficiales terceros de las Cortes de Apelaciones, oficiales segundos de los juzgados de letras de asiento de Corte, oficiales cuartos de las Cortes de Apelaciones, oficiales de los fiscales de estos mismos tribunales, estadístico de la Corte de Apelaciones de Concepción, oficiales terceros de los juzgados de letras de asiento de Corte, oficiales primeros de los juzgados de letras de capital de provincia y oficial de archivo de la Biblioteca de la Corte Suprema.
+Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia.
 
-Cuarta categoría: Oficiales cuartos de los juzgados de letras de asiento de Corte, oficiales de los defensores públicos de Santiago y Valparaíso, oficiales segundos de los juzgados de letras de capital de provincia, oficiales primeros de los juzgados de letras de comunas o agrupaciones de comunas.
+Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas.
 
-Quinta categoría: Oficiales auxiliares de la Corte Suprema, ayudante de Biblioteca de la Corte Suprema, oficiales terceros y cuartos de los juzgados de letras de capital de provincia, oficiales segundos y terceros de los juzgados de letras de comunas o agrupaciones de comunas.
+Quinta categoría: Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas.
 
-Sexta categoría: Oficiales asistentes de la Corte Suprema y de las Cortes de Apelaciones, chofer de la Presidencia de la Corte Suprema, oficiales de sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia.
+Sexta categoría: Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco.
+
+Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia.
 
 #### Artículo 293
 
-Los empleados de secretaría con más de diez años de permanencia en el mismo grado tendrán, para los efectos de los ascensos, los mismos derechos que los del grado inmediatamente superior.
-
-Los empleados que estén en posesión del título de abogado y de los demás requisitos exigidos por la ley para optar a los cargos del escalafón primario y secundario, serán preferidos a las personas extrañas a la carrera judicial en los nombramientos para llenar las vacantes de dichos escalafones.
+Los empleados de secretaría con más de diez años de permanencia en la misma categoría del Escalafón tendrán, para los efectos de los ascensos, los mismos derechos que los de la inmediatamente superior, siempre que hubieren figurado permanentemente en lista de méritos y no hubiesen sido objeto de medida disciplinaria superior a amonestación privada después de la última calificación.
 
 #### Artículo 294
 
-En las ternas para nombramiento de empleados de Secretarías y Oficiales de Sala, no podrán figurar empleados incluidos en la lista número tres, ni tampoco aquellos a quienes se haya sancionado disciplinariamente, con posterioridad a la última calificación, con censura por escrito, multa o suspensión de sus cargos. Un empleado de los que se presenten al concurso y que se halle incluido en la lista número uno, tendrá derecho preferente para ocupar un lugar en la terna. Los empleados que figuren en ellas se colocarán por orden de antigüedad, y si figuran personas extrañas al servicio, después de aquellos.
+El nombramiento en propiedad en cargos del Escalafón del Personal de Empleados, se hará a propuesta en terna que formará, previo concurso, el tribunal en que se deban prestar los servicios. En ningún caso podrá integrar la terna el empleado que, además de los requisitos que establecen los incisos siguientes, no acredite los títulos profesionales o técnicos o los conocimientos que se requieran para el desempeño del cargo, a menos que, después de un segundo llamado, no hubiere postulantes en número suficiente que cumplan con dichos requisitos.
 
-Las ternas serán formadas, previo concurso por el tribunal en que deban prestar sus servicios, con un empleado de la misma categoría del cargo que se trata de proveer y dos de la categoría inferior. A falta de oponentes de la misma categoría, la terna se formará con tres empleados de la categoría inferior y por si en ella no hubiere interesados en número suficiente, ocuparán sus lugares los de la categoría siguiente y a falta de éstos, personas extrañas a la carrera.
+Los empleados incluidos en Lista Sobresaliente tendrán derecho preferente para figurar en terna frente a aquéllos que se encuentren incorporados en la Lista Muy Buena, éstos preferirán a los incluidos en la Lista Satisfactoria, y éstos a los incorporados en la Lista Regular. Los incluidos en las otras listas no podrán figurar en terna. A igualdad de lista calificatoria, preferirán los oponentes por orden de su categoría y, a igualdad en ésta, deberá considerarse el puntaje de la última calificación y la antigüedad en el cargo, entre sus otros antecedentes.
 
-Sin embargo, si se opusieren a los concursos para proveer cargos de las categorías tercera y cuarta alumnos regulares del Cuarto y Quinto año de las Escuelas de Derecho de la Universidad de Chile y demás Universidades reconocidas por el Estado, ocupará alguno de éstos un lugar en la terna respectiva, excluyendo, en este caso, a un funcionario del Servicio de las categorías inferiores señaladas en el inciso precedente.
+En las ternas para cargos de la primera categoría se incluirá al empleado más antiguo de la segunda categoría calificado en lista de méritos que se oponga al concurso. Los otros dos lugares los ocuparán empleados de la primera o segunda categoría elegidos de conformidad a lo establecido en el inciso segundo. Sólo si no se presentaren postulantes de tales categorías, podrán figurar los de la categoría tercera, elegidos siempre de conformidad a lo establecido en el inciso segundo.
 
-Los egresados de derecho de las Universidades mencionadas en el inciso anterior, con dos años de permanencia en el Escalafón, sí opusieren a los concursos para proveer cargos de la segunda categoría, tendrán las mismas prerrogativas que el inciso anterior confiere a los alumnos regulares de Cuarto y Quinto años de de Derecho, para figurar en terna.
+En las ternas para cargos de la segunda categoría se incluirá al empleado más antiguo de la tercera categoría calificado en lista de méritos que se oponga al concurso. Los otros dos lugares los ocuparán empleados de la segunda o tercera categoría, elegidos de conformidad a lo establecido en el inciso segundo. Sólo si no se presentaren postulantes para formar la terna con esos empleados, podrán figurar en ella los de la cuarta categoría, siempre elegidos de conformidad a lo establecido en el inciso segundo.
 
-Las ternas para el nombramiento de empleados de la Quinta Categoría, se formarán con un empleado de la Categoría Sexta que se presente a concurso y con personas extrañas a la carrera.
+En las ternas para cargos de la tercera categoría, se incluirá al empleado más antiguo de la cuarta categoría calificado en lista de méritos que se oponga al concurso. Los otros dos lugares los ocuparán empleados de la tercera o cuarta categoría, elegidos de conformidad a lo establecido en el inciso segundo. Sólo si no se presentaren postulantes para formar la terna que reúnan los requisitos indicados, podrán figurar en ella los de la quinta categoría, siempre de conformidad a lo establecido en el inciso segundo.
 
-Para figurar en las ternas que se formen para proveer en propiedad o internamente, los cargos a que se refieren los incisos anteriores, será necesario poseer los requisitos exigidos por el párrafo 2.o del Título 1.o del decreto con fuerza de ley N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, entendiéndose que los cargos de categorías son los de Primera a Quinta Categorías, inclusive, del Escalafón del Personal de empleados.
+En las ternas para cargos de la cuarta categoría se incluirá al empleado más antiguo de la quinta categoría calificado en lista de méritos que se oponga al concurso. Los otros dos lugares los ocuparán empleados de la cuarta o quinta categoría, de conformidad a lo establecido en el inciso segundo, o abogados, egresados de derecho o estudiantes de tercero, cuarto o quinto año de las Escuelas de Derecho de alguna universidad del Estado o reconocida por éste, elegidos por méritos.
 
-Los nombramientos de suplentes se proveerán por la Corte Suprema a propuesta unipersonal del tribunal respectivo, cuando sean por plazos que excedan de quince días y no superiores a treinta días, no prorrogables.
+En las ternas para cargos de la quinta categoría, se incluirá al empleado más antiguo de la sexta categoría calificado en lista de méritos que se oponga al concurso. Los otros dos lugares los ocuparán empleados de la quinta o sexta categoría, de conformidad a lo establecido en el inciso segundo, o personas extrañas al Poder Judicial, elegidas por méritos.
 
-Dentro de la 6a. Categoría, los cargos también se proveerán mediante ternas que se formarán previo concurso, en el cual deberá acreditarse el cumplimento de los requisitos de ingresos señalados anteriormente, según sea la calidad en el que se provea el empleo, a excepción del relativo a estudios.
+Las ternas a que se refieren los tres incisos precedentes, que incluyan a empleados de las categorías subsiguientes a la del cargo que se provee o, en su caso, a personas extrañas al servicio, deberán resolverse fundadamente.
 
-El tribunal respectivo deberá formar las ternas preferentemente, con empleados de la misma categoría que se opongan, y que desempeñen sus cargos dentro de la jurisdicción de la misma Corte de Apelaciones.
+En las ternas para cargos de la sexta categoría, se incluirá al empleado calificado en lista de méritos más antiguo en esta categoría que se oponga al concurso. Los otros dos lugares los ocuparán empleados de la sexta o séptima categoría, de conformidad a lo establecido en el inciso segundo, o personas extrañas al servicio, elegidas por méritos.
 
-Sin embargo, el nombramiento de empleados de Secretaría de la Corte Suprema, de la Oficina del Presupuesto y de la Biblioteca de esa Corte, se efectuará a propuesta unipersonal del Tribunal, pudiendo éste proponer a las personas que estime más idóneas para los cargos respectivos. Los Oficiales de Sala de la Corte Suprema, de la Oficina del Presupuesto y de la Biblioteca y los oficiales de aseo y ascensoristas serán nombrados a propuesta unipersonal del Presidente de la Corte Suprema; lo mismo regirá para el nombramiento de chofer de la Presidencia de dicha Corte.
+En las ternas para cargos de la séptima categoría, se incluirá al empleado calificado en lista de méritos más antiguo de esta categoría que se oponga al concurso. Los otros dos lugares los ocuparán empleados de la misma categoría o personas ajenas al servicio, elegidas por méritos.
 
-Los concursos a que se refiere este artículo se abrirán por un plazo no inferior a diez días, debiendo los jueces comunicar su apertura a la Corte de Apelaciones respectiva.
+Los postulantes ajenos a la carrera, deberán acreditar los títulos o la experiencia que se requieran para el desempeño del cargo. Además, serán sometidos por el tribunal a una o más pruebas destinadas a medir, de modo objetivo, sus aptitudes y conocimientos para el ejercicio de éste, tarea que podrá ser encomendada a la Academia Judicial o a la Corporación Administrativa del Poder Judicial. Además de los resultados de estas pruebas, el tribunal tendrá a la vista los antecedentes que presenten los postulantes y las calificaciones que hayan obtenido en la carrera de Derecho, si fuere del caso.
 
-El secretario del juzgado deberá fijar en lugar visible al público un cartel en que se anuncie el concurso, el cual deberá permanecer en dicho lugar hasta su vencimiento, circunstancia que certificará el secretario en el mismo cartel.
+En lo demás, los concursos se regirán por las normas señaladas en el artículo 279.
+
+Las ternas que se remitan al Presidente de la Corte Suprema o de la Corte de Apelaciones, en su caso, deberán ser acompañadas de todos los antecedentes que se tuvieron presentes al momento de confeccionarlas, conjuntamente con el expediente del respectivo concurso, debiendo indicarse el número de votos obtenidos por los oponentes en cada una de las votaciones que hayan debido efectuarse para la confección de las mismas.
+
+Cuando se trate de nombramientos en calidad de interinos o suplentes, la designación podrá hacerse por el respectivo tribunal o Corte.
+
+Estas designaciones no podrán durar más de noventa días, no serán prorrogables, ni podrá nombrarse nuevo interino o suplente para el mismo cargo. En caso de que no se haga uso de esta facultad o de que haya vencido el plazo del interinato o suplencia, se procederá a llenar la vacante en la forma ordinaria.
+
+El nombramiento de chofer de la Presidencia de la Corte Suprema se hará por el propio Presidente.
+
+El Presidente nombrará también a los empleados de secretaría de la Corte que hayan de desempeñarse asistiendo a uno de los ministros, a propuesta unipersonal del ministro de que se trate.
 
 Sea que el nombramiento se haga en calidad de titular, interino o suplente, el funcionario designado no podrá desempeñar el cargo mientras no se le transcriba el decreto respectivo totalmente tramitado, salvo que en este último se disponga que asumirá de inmediato sus funciones.
 
-No obstante, en los casos de suplencias que no excedan de un mes, el funcionario propuesto asumirá de inmediato sus funciones, sin perjuicio de la posterior tramitación del decreto que lo nombra.
-
 #### Artículo 295
 
-Derogado.
+Los postulantes a cargos del Escalafón del Personal de Empleados deberán cumplir con los siguientes requisitos para su ingreso al servicio:
+
+a) Ser chileno;
+
+b) Haber cumplido con la ley de reclutamiento y movilización, cuando fuere procedente;
+
+c) Tener salud compatible con el desempeño del cargo;
+
+d) Haber aprobado el nivel de educación media, o equivalente;
+
+e) No haber cesado en un cargo en el Poder Judicial o en la Administración del Estado como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, y
+
+f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado o procesado por crimen o simple delito.
 
 ### 4. De la instalación de los jueces
 
@@ -2710,7 +2778,7 @@ El Presidente de la República, a propuesta o con el acuerdo de la Corte Suprema
 
 Los jueces están obligados a residir constantemente en la ciudad o población donde tenga asiento el tribunal en que deban prestar sus servicios.
 
-Sin embargo, las Cortes de Apelaciones podrán, en casos calificados, autorizar transitoriamente a los jueces de su jurisdicción para que residan en un lugar distinto al de asiento del tribunal.
+Sin embargo, las Cortes de Apelaciones podrán, en casos calificados, autorizar transitoriamente a los jueces de su territorio jurisdiccional para que residan en un lugar distinto al de asiento del tribunal.
 
 #### Artículo 312
 
@@ -2882,7 +2950,7 @@ Los magistrados de los Tribunales Superiores de Justicia cesan, además, en sus 
 
 #### Artículo 334
 
-Si dos miembros de un mismo tribunal contrajeren, después que hayan sido nombrados tales, algunos de los parentescos designados en el artículo 258 de este Código, aquél por cuyo matrimonio se haya contraído el parentesco, cesará inmediatamente en el ejercicio de sus funciones y deberá ser separado de su destino.
+Derogado.
 
 #### Artículo 335
 
@@ -2930,9 +2998,13 @@ Toda sentencia absolutoria en los juicios de amovilidad debe ser notificada al f
 
 #### Artículo 340
 
-El Presidente de la República podrá conceder a los Jueces licencia por enfermedad de acuerdo con las disposiciones generales que rijan sobre la materia para el personal de la Administración Civil del Estado. Se regirán también por estas mismas disposiciones generales los permisos que, sin goce de remuneración, se otorguen a dichos funcionarios para ausentarse del servicio.
+El Presidente de la Corte Suprema podrá conceder a los jueces licencias por enfermedad, de acuerdo con las disposiciones generales que rijan sobre la materia para el personal de la administración civil del Estado.
 
-Podrán concederse licencias hasta por seis meses cada año, por asuntos particulares, y hasta por dos años, para trasladarse al extranjero, sin goce de sueldos y siempre que no se entorpezca el servicio.
+La Corte Suprema podrá conceder permisos hasta por seis meses cada año, por asuntos particulares y hasta por dos años para trasladarse al extranjero a actividades de perfeccionamiento, en ambos casos sin goce de remuneración y siempre que no se entorpezca el servicio
+
+El límite de dos años señalado en el inciso anterior no será aplicable en el caso de funcionarios que obtengan becas otorgadas de acuerdo a la legislación vigente.
+
+Las resoluciones adoptadas se comunicarán de inmediato al Ministerio de Justicia para los fines administrativos consiguientes.
 
 #### Artículo 341
 
@@ -2940,11 +3012,11 @@ Derogado.
 
 #### Artículo 342
 
-No tendrán derecho a licencia los funcionarios suplentes que entren a subrogar a los propietarios o interinos en los casos de licencias, ni los auxiliares que fueren llamados a prestar sus servicios accidentalmente y por tiempo limitado.
+No tendrán derecho a permiso los funcionarios suplentes que entren a subrogar a los propietarios o interinos en los casos de licencias, ni los auxiliares que fueren llamados a prestar sus servicios accidentalmente y por tiempo limitado.
 
 #### Artículo 343
 
-Los funcionarios judiciales a quienes la ley no les acuerde el feriado establecido en el artículo 313, podrán obtenerlo, cada año por el término de un mes, siempre que no hayan usado licencia por motivos particulares durante los once últimos meses. Si el funcionario hubiere obtenido esta clase de licencia, por un lapso inferior a su feriado, tendrá derecho a él por el tiempo necesario para enterarlo.
+Los funcionarios judiciales a quienes la ley no les acuerde el feriado establecido en el artículo 313, podrán obtenerlo, cada año por el término de un mes, siempre que no hayan usado permiso por motivos particulares durante los once últimos meses. Si el funcionario hubiere obtenido esta clase de permiso, por un lapso inferior a su feriado, tendrá derecho a él por el tiempo necesario para enterarlo.
 
 No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de un tribunal colegiado, ni tampoco dos o más jueces de letras de una misma comuna o agrupación de comunas cuando ello perjudique al servicio, a juicio de la autoridad que debe conceder el feriado.
 
@@ -2960,15 +3032,13 @@ Derogado
 
 #### Artículo 346
 
-Las licencias deberán solicitarse por conducto y con informe del superior respectivo.
-
-Inciso derogado.
+Las licencias y permisos deberán solicitarse por conducto y con informe del superior respectivo.
 
 #### Artículo 347
 
 El Presidente de la Corte Suprema y los presidentes de las Cortes de Apelaciones podrán autorizar hasta por tres días la inasistencia de los ministros de los tribunales respectivos. Si ésta debiere prolongarse por más de ese plazo, sólo podrá ser autorizada por el Presidente de la República;
 
-Además, los presidentes de las Cortes de Apelaciones podrán conceder permisos hasta por tres días en cada bimestre a los jueces de su jurisdicción. Todos los funcionarios y empleados judiciales tendrán derecho a permisos por un plazo máximo de veinte días en el año, sin derecho a viático, para concurrir a los cursos de perfeccionamiento judicial cuyos programas hayan sido aprobados por la Corte Suprema, la que además regulará el número de asistentes, sus requisitos y demás condiciones o formas para su otorgamiento.
+Además, los Presidentes de Cortes de Apelaciones podrán conceder permisos hasta por tres días en cada bimestre a los jueces de su territorio jurisdiccional.
 
 Los presidentes de las Cortes de Apelaciones darán cuenta al Presidente de la Corte Suprema, en el último día de cada mes, de las licencias que hubieren concedido en conformidad a este artículo.
 
@@ -3784,7 +3854,7 @@ b) Los procesos afinados que se hubieren seguido dentro del territorio jurisdicc
 
 c) Los libros copiadores de sentencias de los tribunales expresados en la letra a); y
 
-d) Los protocolos de escrituras públicas otorgadas en la jurisdicción respectiva.
+d) Los protocolos de escrituras públicas otorgadas en el territorio jurisdiccional respectivo.
 
 2°) Guardar con el conveniente arreglo los procesos, libros de sentencias, protocolos y demás papeles de su oficina, sujetándose a las órdenes e instrucciones que la Corte o juzgado respectivo les diere sobre el particular.
 
@@ -3811,6 +3881,18 @@ Los asistentes sociales judiciales son auxiliares de la administración de justi
 En cada juzgado especial de menores habrá, a lo menos, un asistente social judicial.
 
 Cuando por implicancia o recusación el asistente social judicial no pudiere intervenir en determinadas causas, o se imposibilitare para el ejercicio de su cargo, será subrogado por los demás asistentes sociales del tribunal a que pertenece, según el orden de sus nombramientos; en subsidio, por el asistente social de cualquier servicio publico que el juez designe, el que estará obligado a desempeñar el encargo.
+
+### 11. Los Bibliotecarios Judiciales
+
+#### Artículo 457 bis
+
+Los bibliotecarios judiciales son auxiliares de la Administración de Justicia cuya función es la custodia, mantenimiento y atención de la Biblioteca de la Corte en que desempeñen sus funciones, así como las que el tribunal o su Presidente le encomienden en relación a las estadísticas del tribunal.
+
+El bibliotecario de la Corte Suprema tendrá a su cargo la custodia de todos los documentos originales de calificación de los funcionarios y empleados del Poder Judicial, los que le deberán ser remitidos una vez ejecutoriado el proceso anual de calificación. Estará facultado para dar a las partes interesadas los testimonios que de ellos pidieren.
+
+Este bibliotecario desempeñará, además, las funciones que la Corte Suprema le encomiende respecto a la formación del Escalafón Judicial.
+
+Habrá un bibliotecario en la Corte Suprema y en aquellas Cortes de Apelaciones que determine el Presidente de la República, con previo informe de la misma.
 
 ## Título XII
 
@@ -3894,7 +3976,7 @@ Tampoco podrán desempeñar ante ningún juez funciones accidentales de defensor
 
 #### Artículo 470
 
-Las funciones de los auxiliares de la Administración de Justicia son incompatibles con toda otra remunerada con fondos fiscales o municipales, con excepción de las de docente de los establecimientos de educación media o superior del Estado o de las Municipalidades, en cualquiera de sus modalidades, o de otros institutos o establecimientos de enseñanza dependientes de servicios públicos, hasta un límite de diez horas semanales.
+Las funciones de los auxiliares de la Administración de Justicia son incompatibles con toda otra remunerada con fondos fiscales o municipales, con excepción de los cargos docentes hasta un límite de doce horas semanales.
 
 No obstante, los cargos de secretario, receptor y notario podrán ser desempeñados por una misma persona en aquellas comunas o agrupaciones de comunas en que, a juicio del Presidente de la República, no sea posible o conveniente hacerlos recaer en personas distintas por no permitirlo la exigüedad de los emolumentos correspondientes a cada uno de dichos cargos.
 
@@ -3930,7 +4012,7 @@ La fianza será calificada y aprobada por el funcionario a quien corresponda rec
 
 Los auxiliares de la Administración de Justicia, salvo los relatores, estarán obligados a residir constantemente en la ciudad o población donde tenga asiento el tribunal en que deban prestar sus servicios.
 
-No obstante, las Cortes de Apelaciones podrán, en casos calificados, autorizar transitoriamente a los auxiliares de su jurisdicción para que residan en un lugar diverso.
+No obstante, las Cortes de Apelaciones podrán, en casos calificados, autorizar transitoriamente a los auxiliares de su territorio jurisdiccional para que residan en un lugar diverso.
 
 #### Artículo 475
 
@@ -4062,7 +4144,9 @@ De las licencias
 
 Los funcionarios que no gocen de inamovilidad, serán removidos por el Presidente de la República con el solo acuerdo de la mayoría de los miembros en ejercicio de la Corte respectiva.
 
-Se presume de derecho que los funcionarios incluidos en la lista número cuatro por la Corte Suprema, no tienen el buen comportamiento que la ley exige.
+El funcionario que figure en Lista Deficiente o, por segundo año consecutivo en Lista Condicional, una vez firme la calificación respectiva, quedará removido de su cargo por el solo ministerio de la ley.
+
+Esta circunstancia deberá ser comunicada de inmediato por el órgano calificador respectivo al Ministerio de Justicia, con el objeto de que éste, para los efectos administrativos correspondientes, curse a la brevedad el debido decreto supremo.
 
 #### Artículo 494
 
@@ -4080,6 +4164,12 @@ Si un auxiliar de la Administración de Justicia de los indicados en el artícul
 
 Lo dispuesto en el inciso anterior es aplicable al fiscal de la Corte Suprema con respecto a los miembros de dicho tribunal.
 
+#### Artículo 495 bis
+
+Los auxiliares de la Administración de Justicia permanecerán en sus cargos hasta cumplir los setenta y cinco años de edad.
+
+> **Nota.** El articulo 3° transitorio de la Ley 19390, publicada el 30.05.1995, dispone que el presente articulo no se aplicará a los auxiliares de la Administración de Justicia que se encuentren en servicio a la fecha de vigencia de dicha ley.
+
 #### Artículo 496
 
 Regirán con los auxiliares de la Administración de Justicia las causas de suspensión del cargo de juez señaladas en el artículo 335 en cuanto puedan ser aplicables a ellos.
@@ -4088,7 +4178,7 @@ Las funciones de los secretarios, receptores, procuradores, notarios, conservado
 
 #### Artículo 497
 
-Son igualmente aplicables a los auxiliares de la Administración de Justicia las disposiciones relativas a las licencias feriados de los jueces contenidas en el párrafo 9 del Título X del presente Código.
+Son igualmente aplicables a los auxiliares de la Administración de Justicia las disposiciones relativas a las licencias, permisos y feriados de los jueces contenidas en el párrafo 9 del Título X del presente Código.
 
 La disposición del artículo 343 regirá con los Secretarios de los tribunales que no tienen derecho al feriado indicado en el artículo 313.
 
@@ -4102,13 +4192,15 @@ De los empleados u oficiales de secretaría
 
 Las leyes determinarán la planta y los sueldos de los empleados de las secretarías de los tribunales, de los fiscales y de los empleados con nombramiento fiscal de los defensores públicos.
 
+Para los efectos de lo establecido en el párrafo final del inciso primero del artículo 294, la Corporación Administrativa del Poder Judicial, a lo menos cada cinco años, deberá establecer las funciones que correspondan a cada uno de los cargos que componen el Escalafón del Personal de Empleados, debiendo señalar con claridad y precisión los títulos profesionales o técnicos o los conocimientos que se requieran para su debido desempeño. Al determinar las funciones y requisitos habilitantes de cada cargo, la Corporación establecerá aquellas diferencias y excepciones que sean necesarias conforme a las categorías y características de los distintos tribunales en que vayan a desempeñarse.
+
 Especialmente formarán parte de la secretaría de la Corte Suprema, cinco oficiales auxiliares, que prestarán sus servicios como escribientes de los miembros del tribunal, en la forma que éste determine. Estos oficiales serán nombrados por el Presidente de la República, a propuesta de la Corte Suprema, deberán haber cursado cuarto año de Derecho, a lo menos, y durarán sólo tres años en el ejercicio de sus funciones.
 
 #### Artículo 499
 
-Los oficiales a que se refiere el inciso 1° del artículo anterior serán nombrados por el Presidente de la República, previa propuesta del tribunal en que deben prestar sus servicios con sujeción a las normas que se indican en el párrafo tercero del Título X.
+El nombramiento en propiedad en cargos del Escalafón del Personal de Empleados se hará por el Presidente de la Corte Suprema cuando se trate de empleados que hayan de servir en ella, o por el Presidente de la Corte de Apelaciones respectiva, en los demás casos, con sujeción a las normas que se indican en el párrafo tercero del Título X.
 
-Los Oficiales de los Fiscales de las Cortes de Apelaciones y los Oficiales de los Defensores Públicos serán designados por el Presidente de la República a propuesta unipersonal del Fiscal o Defensor Público respectivo, sin sujeción a las exigencias que se prescriban para el nombramiento de los demás empleados del Poder Judicial.
+Los Oficiales de los fiscales de las Cortes de Apelaciones serán designados a propuesta unipersonal del fiscal.
 
 Será aplicable a los funcionarios a que se refiere este artículo lo dispuesto en el artículo 493.
 
@@ -4130,7 +4222,7 @@ Las incapacidades establecidas en los artículos 258 y 469 son aplicables al sec
 
 #### Artículo 502 bis
 
-No podrán ser nombrados para desempeñar los cargos del escalafón del personal de empleados y de receptores, los parientes consanguíneos o afines en la línea recta, ni los colaterales que se hallen dentro del segundo grado de consanguinidad o afinidad, con los Ministros de la respectiva Corte de Apelaciones o de la Corte Suprema.
+Derogado.
 
 #### Artículo 503
 
@@ -4152,7 +4244,7 @@ En todo lo demás, los oficiales de secretaría estarán sujetos a las instrucci
 
 #### Artículo 505
 
-Las licencias feriados de los empleados indicados en los artículos 498 y 500 se regirán por las disposiciones del párrafo 9 del Título X de este Código.
+Las licencias, permisos y feriados de los empleados indicados en los artículos 498 y 500 se regirán por las disposiciones del párrafo 9 del Título X de este Código.
 
 La disposición del artículo 343 regirá con el personal de secretaría de los tribunales colegiados y con los demás empleados de los juzgados que no hayan hecho uso del feriado de vacaciones a que se refiere el artícuo 313.
 
@@ -4380,7 +4472,7 @@ Los jueces de letras están autorizados para reprimir o castigar los abusos que 
 
 1°) Amonestación verbal e inmediata;
 
-2°) Multa que no exceda de una Unidad Tributaria Mensual, y
+2°) Multa que no exceda de cuatro unidades tributarias mensuales, y
 
 3°) Arresto que no exceda de cuatro días.
 
@@ -4396,7 +4488,7 @@ Podrán también los jueces de letras, para la represión o castigo de las falta
 
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
 
-4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de un sueldo vital, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
+4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de cinco unidades tributarias mensuales, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
 
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 
@@ -4452,7 +4544,7 @@ Las faltas o abusos de que habla el artículo anterior podrán corregirlos las C
 
 3°) Pago de costas;
 
-4°) Multa de 1 a 15 días de sueldo o una cantidad que no exceda de 15 sueldos vitales mensuales para la Región Metropolitana de Santiago, y;
+4°) Multa de 1 a 15 días de sueldo o multa no inferior a una ni superior a cinco unidades tributarias mensuales, y;
 
 5°) Suspensión de funciones hasta por cuatro meses. Durante este tiempo el funcionario gozará de medio sueldo.
 
@@ -4492,11 +4584,11 @@ Para la represión y castigo de las faltas que se cometieren ante la Corte Supre
 
 2°) Censura por escrito;
 
-3°) Multa de 1 a 15 días de sueldo o una cantidad que no exceda de 15 sueldos vitales mensuales para la Región Metropolitana de Santiago, y;
+3°) Multa de 1 a 15 días de sueldo o multa no inferior a dos ni superior a diez unidades tributarias mensuales, y;
 
 4°) Arresto que no exceda de ocho días.
 
-Este arresto será siempre conmutable en multa, en proporción de medio sueldo vital por cada día.
+Este arresto será siempre conmutable en multa, en proporción de media unidad tributaria mensual por cada día.
 
 Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
 
@@ -4526,15 +4618,11 @@ Las facultades disciplinarias que corresponden a la Corte Suprema o a las Cortes
 
 #### Artículo 545
 
-Los tribunales superiores de justicia conocerán los recursos de queja que las partes afectadas interpusieren para la corrección de cualesquiera faltas o abusos que los funcionarios judiciales cometieren en la dictación de resoluciones y especialmente en los casos que siguen:
+El recurso de queja tiene por exclusiva finalidad corregir las faltas o abusos graves cometidos en la dictación de resoluciones de carácter jurisdiccional. Sólo procederá cuando la falta o abuso se cometa en sentencia interlocutoria que ponga fin al juicio o haga imposible su continuación o definitiva, y que no sean susceptibles de recurso alguno, ordinario o extraordinario, sin perjuicio de la atribución de la Corte Suprema para actuar de oficio en ejercicio de sus facultades disciplinarias. Se exceptúan las sentencias definitivas de primera o única instancia dictadas por árbitros arbitradores, en cuyo caso procederá el recurso de queja, además del recurso de casación en la forma.
 
-1° Cuando no fueren pronunciadas dentro de los plazos señalados en la ley;
+El fallo que acoge el recurso de queja contendrá las consideraciones precisas que demuestren la falta o abuso, así como los errores u omisiones manifiestos y graves que los constituyan y que existan en la resolución que motiva el recurso, y determinará las medidas conducentes a remediar tal falta o abuso. En ningún caso podrá modificar, enmendar o invalidar resoluciones judiciales respecto de las cuales la ley contempla recursos jurisdiccionales ordinarios o extraordinarios, salvo que se trate de un recurso de queja interpuesto contra sentencia definitiva de primera o única instancia dictada por árbitros arbitradores.
 
-2° Cuando las que dictaren fueren manifiestamente innecesarias o importaren dilación en la tramitación del proceso o gravamen para los litigantes;
-
-3° Cuando decretaren medidas precautorias manifiestamente injustificadas o innecesarias o negaren en la misma forma las que se solicitaren con fundamento plausible y apareciere en uno y otro caso que de ello deriva un daño irreparable al recurrente, y
-
-4° Cuando con falta o abuso dictaren cualquiera resolución en perjuicio de alguna de las partes.
+En caso que un tribunal superior de justicia, haciendo uso de sus facultades disciplinarias, invalide una resolución jurisdiccional, deberá aplicar la o las medidas disciplinarias que estime pertinentes. En tal caso, la sala dispondrá que se dé cuenta al tribunal pleno de los antecedentes para los efectos de aplicar las medidas disciplinarias que procedan, atendida la naturaleza de las faltas o abusos, la que no podrá ser inferior a amonestación privada.
 
 #### Artículo 546
 
@@ -4554,27 +4642,27 @@ Las Cortes de Apelaciones tendrán diariamente una audiencia pública para oír 
 
 #### Artículo 548
 
-Los recursos de queja se verán fuera de las horas ordinarias de audiencia.
+El agraviado deberá interponer el recurso en el plazo fatal de cinco días hábiles, contado desde la fecha en que se le notifique la resolución que motiva el recurso. Este plazo se aumentará según la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil cuando el tribunal que haya pronunciado la resolución tenga su asiento en una comuna o agrupación de comunas diversa de aquélla en que lo tenga el tribunal que deba conocer el recurso. Con todo, el plazo total para interponer el recurso no podrá exceder de quince días hábiles, contado desde igual fecha.
 
-El fallo que acoge el recurso de queja contendrá las consideraciones que demuestren la falta o abuso, o los errores u omisiones manifiestos y graves que los constituyan y que existan en la resolución que motiva el recurso; determinará las medidas conducentes a remediar tal falta o abuso y podrá disponer que se dé cuenta al tribunal pleno de los antecedentes para los efectos disciplinarios que procedan.
+El recurso lo podrá interponer la parte personalmente, o su mandatario judicial, o su abogado patrocinante, o un procurador del número, y deberá ser expresamente patrocinado por abogado habilitado para el ejercicio de la profesión.
+
+En el escrito se indicarán nominativamente los jueces o funcionarios recurridos, se individualizará el proceso en el cual se dictó la resolución que motiva el recurso; se transcribirá ésta o se acompañará copia de ella, si se trata de sentencia definitiva o interlocutoria; se consignarán el día de su dictación, la foja en que rola en el expediente y la fecha de su notificación al recurrente; y se señalarán clara y específicamente las faltas o abusos que se imputan a los jueces o funcionarios recurridos.
+
+Asimismo, se deberá acompañar un certificado, emitido por el secretario del tribunal, en el que conste: el número de rol del expediente y su carátula; el nombre de los jueces que dictaron la resolución que motiva el recurso; la fecha de su dictación y la de su notificación al recurrente, y el nombre del mandatario judicial y del abogado patrocinante de cada parte. El secretario del tribunal deberá extender este certificado sin necesidad de decreto judicial y a sola petición, verbal o escrita, del interesado.
+
+El recurrente podrá solicitar orden de no innovar en cualquier estado del recurso. Formulada esta petición, el Presidente del Tribunal designará la Sala que deba decidir sobre este punto y a esta misma le corresponderá dictar el fallo sobre el fondo del recurso.
 
 #### Artículo 549
 
-Todo recurso de queja deberá interponerse en el plazo fatal de cinco días hábiles. Este plazo se aumentará conforme a la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil cuando el tribunal que haya pronunciado la resolución recurrida tenga su asiento en una comuna o agrupación de comunas diversa de aquella en que funciona el que haya de conocer el recurso. Con todo, el plazo total para interponer el recurso no podrá exceder de quince días hábiles contados desde la fecha de notificación a la parte recurrente de la resolución que motiva la queja.
+El recurso de queja se tramitará de acuerdo a las siguientes normas:
 
-Para interponer un recurso de queja, el recurrente deberá consignar previamente en la cuenta corriente del tribunal que conocerá del mismo, una cantidad equivalente al uno por ciento de la cuantía del negocio, con un máximo de una unidad tributaria mensual.
+a) Interpuesto el recurso, la sala de cuenta del respectivo tribunal colegiado deberá comprobar que éste cumple con los requisitos que establece el artículo precedente y, en especial, si la resolución que motiva su interposición es o no susceptible de otro recurso. De no cumplir con los requisitos señalados o ser la resolución susceptible de otro recurso, lo declarará inadmisible, sin más trámite. Contra esta resolución sólo procederá el recurso de reposición fundado en error de hecho. No obstante, si no se ha acompañado el certificado a que se refiere el inciso cuarto del artículo anterior, por causa justificada, el tribunal dará un nuevo plazo fatal e improrrogable para ello, el cual no podrá exceder de seis días hábiles;
 
-Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a una unidad tributaria mensual, si el recurso se interpone ante la Corte Suprema o ante la Corte de Apelaciones; y de media unidad tributaria mensual, si se interpone ante un juez de letras.
+b) Admitido a tramitación el recurso, se pedirá de inmediato informe al juez o jueces recurridos, el cual sólo podrá recaer sobre los hechos que, según el recurrente, constituyen las faltas o abusos que se les imputan. El tribunal recurrido deberá dejar constancia en el proceso del hecho de haber recibido la aludida solicitud de informe y disponer la notificación de aquélla a las partes, por el estado diario. El informe deberá ser evacuado dentro de los ocho días hábiles siguientes a la fecha de recepción del oficio respectivo;
 
-No regirá la exigencia de consignación previa tratándose de los recursos de queja que deduzcan los oficiales del ministerio público, los defensores públicos, los representantes del Fisco, los trabajadores demandantes en los juicios seguidos ante los tribunales del trabajo, los procesados en causa criminal y los que gozan de privilegio de pobreza.
+c) Vencido el plazo anterior, se haya o no recibido el informe, se procederá a la vista del recurso, para lo cual se agregará preferentemente a la tabla. No procederá la suspensión de su vista y el tribunal sólo podrá decretar medidas para mejor resolver una vez terminada ésta, y
 
-La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
-
-Si el recurso fuere desechado por la unanimidad de un tribunal colegiado, se condenará en costas al recurrente y, además, al pago de una multa a beneficio fiscal de hasta dos unidades tributarias mensuales.
-
-El abogado patrocinante de un recurso de queja, que fuere rechazado por la unanimidad de un tribunal colegiado, será sancionado con alguna de las medidas establecidas en los N°s. 1°, 2° y 3° del artículo 532, de estimar el tribunal que el recurso ha carecido de todo fundamento o ha sido interpuesto en forma temeraria.
-
-Respecto de las multas a que este artículo se refiere, regirá también lo dispuesto en el artículo 252 del Código de Procedimiento Civil.
+d) Cualquiera de las partes podrá comparecer en el recurso hasta antes de la vista de la causa.
 
 #### Artículo 550
 
@@ -4604,7 +4692,13 @@ La renuncia voluntaria presentada por un funcionario judicial deberá acompañar
 
 #### Artículo 553
 
-Derogado.
+Corresponderá a las Cortes de Apelaciones fiscalizar la conducta funcionaria de los miembros del Escalafón Primario desde la séptima hasta la tercera categoría inclusive y a los miembros del Escalafón Secundario que ejerzan sus funciones dentro de su respectivo territorio jurisdiccional, sin perjuicio de lo establecido en el artículo 564. Al efecto, las Cortes designarán anualmente a uno o más de sus ministros para que, durante el respectivo año calendario, actúen como ministros visitadores en los juzgados y en los oficios de los notarios, conservadores y archiveros que se les asignen. Anualmente deberá cambiarse la asignación, procurando siempre que la carga de trabajo se distribuya equitativamente entre todos los ministros.
+
+Estos ministros efectuarán las visitas que sean necesarias para el debido cumplimiento de la función fiscalizadora que se les encomiende.
+
+Si al efectuar la visita, el ministro encargado de ella comprobare la existencia de faltas o delitos cometidos por el funcionario visitado, podrá adoptar las medidas urgentes que fueren necesarias, dando cuenta de ellas a la Corte respectiva dentro de las veinticuatro horas siguientes.
+
+Los funcionarios sujetos a las visitas a que se refiere este párrafo deberán llevar un libro especial, en el cual se consignará por el ministro encargado de hacerlas, o por el juez, en su caso, las observaciones que merezca la inspección realizada. Igual constancia se deberá dejar en la hoja de vida de cada funcionario visitado, consignando, además, la apreciación que merezca la conducta funcionaria de éste.
 
 #### Artículo 554
 
@@ -4612,7 +4706,7 @@ Derogado.
 
 #### Artículo 555
 
-Las Cortes de Apelaciones deberán hacer cada tres años, por medio de uno de sus miembros, comisionado al efecto por el mismo tribunal, una visita en todos los juzgados de letras de su jurisdicción, con el objeto de inspeccionar y vigilar de cerca la marcha de la administración de justicia en cada uno de ellos.
+Las Cortes de Apelaciones, además de las visitas ordinarias a que se refiere el artículo 553, deberán hacer cada tres años, por medio de uno de sus miembros, comisionado al efecto por el mismo tribunal, una visita en todos los juzgados de letras de su territorio jurisdiccional, con el objeto de inspeccionar y vigilar de cerca la marcha de la administración de justicia en cada uno de ellos.
 
 El ministro visitador procurará informarse por cuantos medios conceptúe prudentes de la conducta ministerial de los jueces de letras, notarios, secretarios y demás personas que ejercen funciones concernientes a la administración de justicia en cada territorio jurisdiccional visitado, examinando los archivos y recogiendo cuantos datos crea conducentes al objeto de su visita.
 
@@ -4620,7 +4714,7 @@ Oirá las quejas que las partes agraviadas interpusieren contra cualquiera de lo
 
 #### Artículo 556
 
-Para la corrección de que habla el artículo que precede, podrá usar el ministro visitador de las facultades que correspondan a las Cortes de Apelaciones por los artículos 537 y 539.
+Al adoptar las medidas urgentes que fueren necesarias o al efectuar las correcciones pertinentes, podrá usar el ministro visitador de las facultades que correspondan a las Cortes de Apelaciones por los artículos 537 y 539.
 
 #### Artículo 557
 
@@ -4632,7 +4726,7 @@ Las medidas que dictare el ministro visitador se ejecutarán desde luego; pero p
 
 #### Artículo 559
 
-Los Tribunales Superiores de Justicia decretarán visitas extraordinarias por medio de alguno de sus ministros en los juzgados de su respectiva jurisdicción, siempre que el mejor servicio judicial lo exigiere.
+Los Tribunales Superiores de Justicia decretarán visitas extraordinarias por medio de alguno de sus ministros en los juzgados de su respectivo territorio jurisdiccional, siempre que el mejor servicio judicial lo exigiere.
 
 #### Artículo 560
 
@@ -4666,25 +4760,17 @@ Cuando la Suprema Corte constituya en visita a alguno de sus ministros, lo que s
 
 #### Artículo 564
 
-Los jueces de letras, como encargados de mantener la disciplina judicial deberán vigilar la conducta ministerial de los procuradores y demás personas que ejercen funciones concernientes a la administración de justicia y que se hallen sujetas a su autoridad.
+Los jueces de letras, dentro del territorio de su jurisdicción, deberán vigilar la conducta ministerial de los funcionarios y empleados del Poder Judicial que deban calificar o de cuyo desempeño deban informar a la respectiva Corte de Apelaciones para los mismos efectos. Deberán, en consecuencia, visitar, por lo menos cada dos meses, los oficios de los secretarios, conservadores y archiveros de su territorio jurisdiccional a fin de comprobar el funcionamiento de los respectivos oficios y el desempeño funcionario de los visitados. Al efecto, podrán examinar los protocolos, libros y archivos que se lleven en el respectivo oficio e informarse, por medios prudentes, del modo como desempeñan sus labores.
 
-Deberán, en consecuencia, visitar, por lo menos, cada dos meses, los oficios de los secretarios, conservadores y archiveros de su jurisdicción, para examinar los archivos y libros que estos ministros tienen a su cargo; e informarse por otros medios prudentes del modo cómo desempeñan sus funciones.
+Sin embargo, en las ciudades asiento de Corte de Apelaciones las visitas a los oficios de los notarios, conservadores y archiveros las harán los ministros de la Corte respectiva, de conformidad con lo establecido en el artículo 553.
 
-De estas visitas se levantará acta en un libro especial que al efecto habrá en el juzgado de letras más antiguo de cada territorio jurisdiccional.
+Se dejará constancia, en el libro especial a que se refiere el inciso cuarto del artículo 553, de las observaciones que merezca la visita realizada. Igual constancia se deberá dejar en la hoja de vida de cada funcionario visitado, consignando, además, la apreciación que merezca la conducta funcionaria de éste.
 
-En las comunas o agrupaciones de comunas en que hubiere varios jueces de letras, la Corte de Apelaciones respectiva designará el que deba hacer la visita distribuyendo este cargo equitativamente entre todos ellos, pero la visita del oficio del secretario se hará siempre por el juez respectivo.
-
-En las ciudades en que hubiere Corte de Apelaciones, las visitas prevenidas en el inciso segundo de este artículo y en el artículo 566 se practicarán por uno de los ministros, conforme al turno que la Corte establezca.
+En las comunas o agrupaciones de comunas en que hubiere varios jueces de letras, la Corte de Apelaciones respectiva designará el que debe hacer la visita, distribuyendo esta labor equitativamente entre todos ellos, pero la visita del oficio del secretario de cada juzgado se hará siempre por el juez respectivo.
 
 #### Artículo 565
 
-En la forma indicada en el inciso final del artículo anterior, las Cortes de Apelaciones deberán efectuar visitas cada dos meses, o cuando lo estimen conveniente, a los oficios de los notarios de su jurisdicción, con el fin de velar por el correcto cumplimiento de la ley. Si la notaría no se hallare en el mismo lugar de asiento de la Corte, podrá delegarse esta atribución en el juez de letras correspondiente.
-
-Las visitas bimestrales se contraerán exclusivamente a corregir los defectos de forma u omisiones subsanables en la manera de llevar y conservar los protocolos, asegurar el exacto cumplimiento de las obligaciones notariales e imponer las correcciones que los visitadores conceptúen justas y estén en sus facultades; y en caso contrario, dar cuenta a la Corte correspondiente.
-
-Si al efectuar la visita, el funcionario encargado de ella comprobare la existencia de faltas o delitos cometidos por el notario, podrá adoptar las medidas urgentes que fueren necesarias, dando cuenta de ellas a la Corte respectiva dentro del término de doce horas.
-
-Los notarios deberán llevar un libro especial de visitas, en el cual se consignará por el funcionario encargado de hacerlas, las observaciones que le merezcan la inspección realizada.
+Derogado.
 
 #### Artículo 566
 
