@@ -1,0 +1,3 @@
+Por decreto MOP Nº107, de 31 de enero de 2002, se expropió el lote de terreno Nº9, superficie 443 m², rol de avalúo 1299-19, comuna de Quilpué, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Troncal Sur. Enlace Quilpué Oriente. Km 95.840,00 al Km 97.040,00, Quinta Región y se acordó el valor de indemnización con su propietario Francisco Javier Fuenzalida Contreras, ascendente a la cantidad de $17.788.612.-
+
+Fiscal del Ministerio de Obras Públicas.
