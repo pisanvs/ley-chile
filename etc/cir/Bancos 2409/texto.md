@@ -4648,11 +4648,13 @@ Identificarán a las cuentas abiertas con el subsidio de que trata el D.S. N° 1
 
 En caso de que la institución financiera entregue libretas para las cuentas de que trata este Capítulo, deberá diferenciarlas claramente de cualquiera otra que utilice en cuentas de ahorro a plazo. Además, la institución deberá informar a los usuarios acerca de las características operativas que diferencian esa libreta de las que los bancos emplean normalmente en las cuentas de ahorro a plazo.
 
-CAPITULO 2-9 (Bancos y Financieras)
+CAPITULO 2-9 (Bancos)
 
 MATERIA:
 
-CUENTAS DE AHORRO A PLAZO PARA LA EDUCACION SUPERIOR.
+CUENTAS DE AHORRO A PLAZO PARA FINES ESPECIFICOS.
+
+I.- CUENTAS DE AHORRO A PLAZO PARA LA EDUCACION SUPERIOR.
 
 1.- Cuentas de Ahorro a Plazo para la Educación Superior.
 
@@ -4674,13 +4676,13 @@ b) Sólo pueden ser abiertas a nombre de personas naturales.
 
 c) El titular de la cuenta debe tener nacionalidad chilena.
 
-d) Cuando las cuentas sean abiertas a nombre de un menor de edad, deberá actuar un apoderado tanto en su apertura como en su administración, hasta que el titular cumpla 18 años de edad. diferido, una cuenta.
+d) Cuando las cuentas sean abiertas a nombre de un menor de edad, deberá actuar un apoderado tanto en su apertura como en su administración, hasta que el titular cumpla 18 años de edad.
 
-e) Pueden ser con giro incondicional o con giro
+e) Pueden ser con giro incondicional o con giro diferido.
 
 f) Pueden ser con libreta o sin libreta.
 
-g) Ninguna persona puede ser titular de más de
+g) Ninguna persona puede ser titular de más de una cuenta.
 
 4.- Declaración jurada.
 
@@ -4700,7 +4702,7 @@ En el contrato se puede pactar, asimismo, el número de giros que se pueden efec
 
 El apoderado de un menor que sea titular de una Cuenta de Ahorro a Plazo para la Educación Superior, podrá contratar un seguro de vida que cubra el monto mínimo de ahorro pactado en el Contrato, opción que debe ser ejercida al momento de suscribirse el mencionado contrato de ahorro.
 
-Si el seguro es contratado por intermedio de la institución depositaría, ésta deberá entregar al asegurado la póliza correspondiente.
+Si el seguro es contratado por intermedio de la institución depositaria, ésta deberá entregar al asegurado la póliza correspondiente.
 
 En esos casos, los importes de las primas pagadas podrán ser debitados en la respectiva cuenta de ahorro.
 
@@ -4722,7 +4724,7 @@ Este certificado tendrá una vigencia de 180 días contados desde la fecha de su
 
 El referido certificado deberá ser entregado para postular al crédito universitario, conjuntamente con la copia del mandato que debe otorgar a la institución financiera el titular de la respectiva cuenta de ahorro, en el que la faculte para efectuar giros, con cargo a dicha cuenta, a favor de la institución de educación superior que se individualice, con el único objeto de cubrir gastos de matrícula y aranceles.
 
-De acuerdo con lo dispuesto en el artículo 7° del Reglamento de la Ley N°19.287, corresponde al Banco Central de Chile determinar el porcentaje del saldo de la cuenta de ahorro que se podrá girar anualmente para los efectos antes señalados.
+De acuerdo con lo dispuesto en el artículo 7° del Reglamento de la Ley N° 19.287, corresponde al Banco Central de Chile determinar el porcentaje del saldo de la cuenta de ahorro que se podrá girar anualmente para los efectos antes señalados.
 
 8.- Suspensión de los giros.
 
@@ -4767,6 +4769,84 @@ Las comisiones que se cobren sobre estas cuentas se acreditarán a las cuentas "
 11.4.- Solicitudes para efectuar giros de las cuentas de ahorro.
 
 Las solicitudes de giro que se reciban de los titulares de las cuentas de ahorro a plazo para la educación superior con giro diferido, serán registradas según las instrucciones generales al respecto, utilizando la cuenta de orden "Solicitudes de giro de cuentas de ahorro para la educación superior por cumplir", de la partida 9570. Los importes registrados en esta cuenta deben revertirse al momento de hacerse efectivas las solicitudes o una vez cumplido el plazo sin que hayan sido cobrados.
+
+II.- CUENTAS DE AHORRO A PLAZO PARA EL DEPORTE.
+
+1.- Cuentas de Ahorro a Plazo para el deporte.
+
+De conformidad con lo dispuesto en el Art. 52 de la Ley N° 19.712, publicada en el Diario Oficial del 9 de febrero de 2001, reglamentada por el Decreto Supremo del Ministerio Secretaría General de Gobierno N° 43, de 2003, publicado en el Diario Oficial del 30 de septiembre de 2003, aquellas organizaciones que postulen al subsidio para el deporte, deberán acreditar un ahorro previo ya sea mantenido en una cuenta de ahorro a plazo denominada "Cuenta de Ahorro del Deporte" o en otra forma establecida en la Ley.
+
+2.- Aplicación de las normas sobre cuentas de ahorro a plazo.
+
+Las cuentas de ahorro a plazo para el deporte se rigen, en general, por las normas sobre cuentas de ahorro a plazo contenidas en el Capítulo III.E.1 ó III.E.4 del Compendio de Normas Financieras del Banco Central de Chile y en el Capítulo 2-4 de esta Recopilación Actualizada de Normas, salvo en lo concerniente a sus características especiales y finalidad específica.
+
+3.- Características de las cuentas de ahorro a plazo para el deporte.
+
+De acuerdo con las normas contenidas en el Decreto Supremo N° 43 ya citado y las que rigen a las cuentas de ahorro a plazo en general, las cuentas de que se trata tendrán las siguientes características:
+
+a) Serán unipersonales.
+
+b) Sólo pueden ser abiertas a nombre de organizaciones inscritas en el registro público del Instituto Nacional de Deportes de Chile, de conformidad con la Ley N° 19.712 y su Reglamento.
+
+c) Pueden ser con giro incondicional o con giro diferido.
+
+d) Pueden ser con libreta o sin libreta.
+
+4.- Contrato de ahorro.
+
+El representante legal o apoderado de la organización titular de la cuenta deberá suscribir con la institución financiera respectiva, un "contrato de ahorro", en el que se estipulará, a lo menos, el monto del ahorro a que se compromete, el que no podrá ser inferior al mínimo exigido en el Reglamento, plazo en que se enterará dicho ahorro, la frecuencia de los depósitos que se efectuarán para enterar ese monto y mantención de un saldo promedio semestral mínimo.
+
+En el contrato se puede pactar, asimismo, el número de giros que se pueden efectuar con cargo a estas cuentas, sin perjuicio del límite máximo de giros que rigen para las cuentas de ahorro a plazo con giro incondicional o con giro diferido, según corresponda.
+
+5.- Certificado de ahorro.
+
+Para efectos de la postulación al subsidio al deporte, los bancos deberán entregar, dentro de los cinco días hábiles bancarios siguientes a la fecha en que les sea solicitado por los titulares de estas cuentas de ahorro, un certificado en el que se informen, a lo menos, lo que se indica a continuación:
+
+a) Nombre y RUT de la persona jurídica titular de la cuenta de ahorro.
+
+b) Número de la cuenta.
+
+c) Fecha de apertura y antigüedad de la cuenta.
+
+d) Monto de ahorro pactado en el contrato de ahorro y el plazo para enterarlo.
+
+e) Saldo que registra la cuenta al emitirse el certificado.
+
+6 .- Suspensión de los giros.
+
+Una vez emitido el certificado de que trata el N°6 precedente, sólo se podrán efectuar giros con cargo a la cuenta de ahorro en los siguientes casos:
+
+a) Para pagar la adquisición, construcción o habilitación del recinto o inmueble destinado a la práctica deportiva y el funcionamiento de la organización deportiva, cuando el titular haya sido beneficiado con el subsidio.
+
+b) Cuando el titular renuncie al subsidio del que ha sido beneficiado, situación que será informada por la Dirección Regional del Instituto Nacional de Deportes de Chile al banco en el que se mantenga la cuenta de ahorro.
+
+c) Cuando expire el plazo de vigencia del Certificado de Subsidio y éste no hubiere sido cobrado, o bien cuando el titular no postule al subsidio o habiendo postulado no hubiere sido beneficiado, de acuerdo con la información de la respectiva Dirección Regional.
+
+7.- Cierre de la cuenta.
+
+Las instituciones financieras podrán cerrar la cuenta de ahorro a petición de las titulares de dichas cuentas, siempre que los respectivos titulares no hayan sido beneficiados con el subsidio para el deporte, de acuerdo con la información de la respectiva Dirección Regional.
+
+8.- Instrucciones contables.
+
+Las cuentas de ahorro a plazo para el deporte se contabilizarán de la forma dispuesta para las cuentas de ahorro a plazo en general, pero manteniendo cuentas separadas según se indica a continuación:
+
+8.1.- Depósitos de ahorro.
+
+Los depósitos en las cuentas de ahorro para el deporte, con giro incondicional, serán registrados en la cuenta "Cuentas de ahorro para el deporte con giro incondicional", en tanto que las cuentas pactadas con giro diferido se registrarán en la cuenta "Cuentas de ahorro para del deporte con giro diferido", ambas de la partida 3035.
+
+8.2.- Intereses y reajustes.
+
+Los intereses que devenguen las cuentas de ahorro a plazo para el deporte se debitarán a la cuenta "Intereses pagados sobre cuentas de ahorro para el deporte con giro incondicional" o "Intereses pagados sobre cuentas de ahorro para el deporte con giro diferido", según corresponda, de la partida 5135.
+
+Los reajustes se debitarán en la cuenta "Reajustes pagados sobre cuentas de ahorro para el deporte con giro incondicional" o "Reajustes pagados sobre cuentas de ahorro para el deporte con giro diferido", según sea el caso, de la partida 5315.
+
+8.3.- Comisiones sobre las cuentas de ahorro.
+
+Las comisiones que se cobren sobre estas cuentas se acreditarán a las cuentas "Comisiones ganadas sobre cuentas de ahorro para el deporte con giro incondicional" o "Comisiones ganadas sobre cuentas de ahorro para el deporte con giro diferido", de la partida 7530.
+
+8.4.- Solicitudes para efectuar giros de las cuentas de ahorro.
+
+Las solicitudes de giro que se reciban de las titulares de las cuentas de ahorro a plazo para el deporte con giro diferido, serán registradas según las instrucciones generales al respecto, utilizando la cuenta de orden "Solicitudes de giro de cuentas de ahorro para el deporte por cumplir", de la partida 9570. Los importes registrados en esta cuenta deben revertirse al momento de hacerse efectivas las solicitudes o una vez cumplido el plazo sin que hayan sido cobrados.
 
 CAPITULO 2-10 (Bancos y Financieras)
 
@@ -16966,7 +17046,7 @@ OPERACIONES DE COMPRA Y VENTA DE MONEDAS EXTRANJERAS.
 
 Este Capítulo incluye disposiciones relativas a las compras y ventas al contado de moneda extranjera y de oro, pagaderas en moneda chilena o en otra moneda extranjera (arbitrajes al contado), y el correspondiente tratamiento contable para la Posición de Cambios Internacionales regulada por el Banco Central de Chile.
 
-Se entiende que constituyen operaciones al contado aquellas en las que se efectúe el pago y la transferencia de las respectivas monedas en la misma fecha en que se curse la operación, ya sea en efectivo o mediante documentos a la vista, como asimismo aquellas operaciones en las que dicha transferencia se realice a más tardar hasta el día hábil bancario siguiente para la moneda chilena y hasta el día hábil bancario subsiguiente para la moneda extranjera Las demás operaciones serán consideradas compraventas de divisas a futuro y se regirán por las instrucciones correspondientes a instrumentos derivados.
+Por operaciones al contado se entienden aquellas en las que la transferencia de la moneda extranjera, ya sea en efectivo o mediante documentos a la vista, se efectúa a más tardar el día hábil bancario subsiguiente a la fecha de la negociación. Las operaciones de compra o venta que excedan ese plazo, se regirán por las instrucciones sobre instrumentos derivados.
 
 2.- Disposiciones aplicables a las compras v ventas de moneda extranjera.
 
@@ -16996,9 +17076,9 @@ El equivalente en moneda chilena por la compra de moneda extranjera, se debitar�
 
 c) Transferencia diferida de las compraventas.
 
-En el caso de operaciones en las que, de acuerdo con lo pactado entre el vendedor y el comprador, se difiera por un máximo de un día hábil bancario la transferencia de la moneda chilena y de dos días hábiles bancarios la transferencia de la moneda extranjera objeto de la compraventa, los respectivos importes en moneda extranjera se registrarán en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115, o bien, "Divisas vendidas pendientes de transferencia", de la partida 4115, según corresponda, en tanto que la moneda chilena se registrará en la cuenta "Contravalor por entregar de divisas pendientes de transferencia", de la partida 4115 o "Contravalor por recibir de divisas pendientes de transferencia", de la partida 2115, según sea el caso.
+En el caso de operaciones en las que, de acuerdo con lo pactado entre el vendedor y el comprador, se difiera por un máximo de dos días hábiles bancarios la transferencia de la moneda extranjera objeto de la compraventa, los respectivos importes en moneda extranjera se registrarán en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115, o bien, "Divisas vendidas pendientes de transferencia", de la partida 4115, según corresponda, en tanto que la moneda chilena se registrará en la cuenta "Contravalor por entregar de divisas pendientes de transferencia", de la partida 4115 o "Contravalor por recibir de divisas pendientes de transferencia", de la partida 2115, según sea el caso.
 
-Al efectuarse la transferencia efectiva mediante los respectivos traspasos a las cuentas corrientes mantenidas en el exterior o en el Banco Central de Chile, como también al recibirse o entregarse efectivamente el contravalor en pesos moneda chilena, se revertirán los importes anotados en las cuentas señaladas en el párrafo precedente y se registrarán en las cuentas definitivas que correspondan.
+Al efectuarse la transferencia efectiva mediante los respectivos traspasos a las cuentas corrientes mantenidas en el exterior o en el Banco Central de Chile, como también al recibirse o entregarse efectivamente el contravalor en pesos moneda chilena, se revertirán los importes anotados en las cuentas señaladas en el párrafo precedente y se registrarán en las cuentas que correspondan.
 
 d) Ajuste de las cuentas "Cambio".
 
