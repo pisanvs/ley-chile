@@ -1,0 +1,7 @@
+Penas a los desertores
+
+Don Joaquin de Echeverría i Larrain, Teniente Coronel de las Tropas del Estado, Gobernador Intendente Político i Militar de Chile, i representante del Supremo Poder Ejecutivo en estas Provincias, etc. etc.
+
+Por cuanto la desercion es crimen contra la fé del pacto mas sagrado; que destruye nuestra defensa, empobrece el Erario, i causa otros horribles efectos al Estado, castigándole la Ordenanza con la pena ordinaria de muerte; viene el Supremo Gobierno en remitir por justas consideraciones en las actuales circunstancias bajo cierta comisión. Por tanto, ordena i manda que todo soldado del cuerpo i calidad que fuere, que haya desertado en nuestras tropas i se presente al juez territorial del Partido en que se hallase en el preciso término de veinte dias, contados desde que se publique este bando, será indultado i perdonado absolutamente: i el enunciado juez lo hará conducir a la mayor brevedad al Cuartel Jeneral de Talca a disposicion del Supremo Gobierno; pero si pasare el tiempo establecido, i a virtud de las vivas providencias que se acuerden se tomase a esta clase de delincuentes, se les aplicará irrefragablemente, i sin la menor conmiseracion, la pena que designe la Ordenanza, gratificando al que denunciare, aprehendiere, i entregare a un desertor con ocho pesos fuertes.
+
+Publíquese i fíjese en los lugares acostumbrados e imprímase. Santiago i Diciembre 2 de 1813.- Joaquín de Echeverría. - Dr. Lazo, secretario.
