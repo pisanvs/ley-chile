@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.038, de fecha 31 de octubre de 2000, se expropiaron los lotes de terreno Nºs. 33 y 34, superficies 310 M2 y 102 M2., respectivamente, roles de avalúos 2183-10 y 2183-11, comuna de Puerto Montt, para la obra ''Camino Ruta V-505, Sector Pto. Varas. Los Alerces-Pto. Montt, Km. 0,000 a Km. 16,340'' y se acordó el valor de indemnización con su propietaria Blanca Filomena Fuentes Hernández, ascendente a la cantidad de $1.179.508.
+
+- Fiscal del Ministerio de Obras Públicas.
