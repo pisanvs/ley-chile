@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.385 de 31 de julio de 2000, se expropió el lote de terreno Nº36, superficie 662, rol de avalúo Nº1011-016, comuna de Natales, para la obra Habilitación y Construcción Regadío Huertos Familiares Puerto Natales, II Etapa y se acordó precio de la indemnización con su propietaria Sociedad González y Grunert Limitada, ascendente a la cantidad de $543.080.-
+
+Fiscal del Ministerio de Obras Públicas.
