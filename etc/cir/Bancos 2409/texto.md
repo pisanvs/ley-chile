@@ -9394,99 +9394,45 @@ CAPITULO 8-22 (Bancos)
 
 MATERIA:
 
-INVERSIONES FINANCIERAS EN MONEDA EXTRANJERA QUE LAS EMPRESAS BANCARIAS PUEDEN
+INVERSIONES FINANCIERAS EN MONEDA EXTRANJERA QUE LAS EMPRESAS BANCARIAS PUEDEN EFECTUAR EN EL EXTERIOR.
 
-EFECTUAR EN EL EXTERIOR.
+### 1. Inversiones financieras en el exterior que pueden mantener los bancos
 
-### 1. Inversiones autorizadas
+De conformidad con lo dispuesto en el N° 3 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las empresas bancarias situadas en el país deben, como norma general, obtener autorización expresa del Instituto Emisor para remesar moneda extranjera con el objeto de efectuar inversiones financieras en el exterior. Con todo, las disposiciones recién citadas permiten a los bancos, sin que sea menester solicitar una autorización previa del Instituto Emisor, efectuar en el exterior inversiones en los instrumentos que se señalan en el Anexo N° 2 del Capítulo IV.D.2.1 del Compendio de Normas Financieras del Banco Central de Chile, siempre que éstos cumplan con los requisitos que allí se indican.
 
-De conformidad con lo dispuesto en el Capítulo III del Compendio de Normas de
+En todo caso, el conjunto de estas inversiones no podrá exceder el monto fijado para tal efecto en el N° 2 del Capítulo IV.D.2.1 y en el N° 2 del Capítulo IV.F.1 del mencionado Compendio de Normas Financieras, en tanto que los recursos que podrán utilizarse para el efecto, son los dispuestos por el Banco Central de Chile en los mismos Capítulos antes señalados.
 
-Cambios Internacionales del Banco Central de Chile, las inversiones financieras
+### 2. Límites legales y reglamentarios
 
-en moneda extranjera, que las entidades bancarias realicen en el exterior,
+Las empresas bancarias deben tener presente que son plenamente aplicables a las operaciones de que trata este Capítulo, las disposiciones sobre límites de crédito que fija el artículo 84 de la Ley General de Bancos, como asimismo, las normas sobre relación de operaciones activas y pasivas a que se refiere el Capítulo III.B.2, del Compendio de Normas Financieras del Banco Central de Chile y acerca de los cuales ha instruido esta Superintendencia en los Capítulos 12-3 y 12-9, respectivamente, de esta Recopilación de Normas.
 
-pueden consistir en depósitos a plazo en bancos extranjeros, adquisición de
+### 3. Normas contables
 
-bonos, ya sea de aquellos conocidos como "zero coupon bonds" u otros,
+Los bancos registrarán las inversiones en instrumentos financieros emitidos en el exterior a que se refiere este Capítulo, de acuerdo con las siguientes instrucciones:
 
-debentures, pagarés y otros documentos y valores emitidos en el extranjero, a la
+3.1. Compras de Instrumentos financieros.
 
-orden o al portador, que devenguen intereses a tasas fijas o flotantes.
+Las compras se registrarán por el valor en moneda extranjera efectivamente pagado, en cuentas de la partida 1730 "Inversiones en el exterior" que reflejen apropiadamente el tipo de instrumento de que se trate.
 
-Los bancos podrán efectuar estas inversiones solamente con sus propias reservas
+3.2. Devengo de intereses.
 
-de divisas.
+Para los efectos de calcular y contabilizar, a lo menos al cierre de cada mes, el devengo de la rentabilidad de las inversiones en los títulos de crédito comprados, la institución financiera adquirente determinará la tasa de interés implícita en la compra, debiendo considerar para tal efecto el valor de adquisición, el valor final del respectivo instrumento y el período comprendido entre la fecha de adquisición y la de su vencimiento.
 
-### 2. Límites que afectan a estas inversiones
+Los intereses registrarán en moneda extranjera y se demostrarán en las partidas 1815 y 7165.
 
-Las inversiones de que trata este capítulo, con excepción de aquellas que
+3.3. Resultados por venta de Instrumentos financieros.
 
-correspondan a bonos u obligaciones de renta de instituciones internacionales
+Las utilidades o pérdidas que se originen por la venta de los instrumentos financieros se registrarán en moneda extranjera en la cuenta que corresponda de las partidas 7620 ó 5620, según se trate de utilidades o de pérdidas por diferencia de precio.
 
-alas que se encuentre adherido el Estado de Chile, estarán afectas a los límites
+3.4. Provisiones.
 
-individuales de crédito que fija el artículo 84 N° 1 de la Ley General de
+Las inversiones en moneda extranjera de que trata este Capítulo no quedarán comprendidas dentro del sistema de clasificación de activos de que trata el Capítulo 8-28 de esta Recopilación Actualizada de Normas.
 
-Bancos. Asimismo, estas inversiones están sujetas a la relación de operaciones
+Sin embargo, las variaciones negativas en los precios de mercado de los instrumentos financieros deberán ser reconocidas mediante la constitución de provisiones especiales equivalentes a la diferencia entre el valor contable al cierre de cada mes y el valor de mercado a la misma fecha, cuando el primero sea mayor. Para este efecto se entenderá que el valor contable corresponde al valor de compra más los intereses devengados de la forma establecida en el numeral 3.2 de este Capítulo.
 
-activas y pasivas de que trata el capítulo III.B.2, del Compendio de Normas
+Dichas provisiones se constituirán en moneda chilena por el correspondiente equivalente de la moneda extranjera calculado sobre la base del tipo de cambio para representación contable fijado por esta Superintendencia.
 
-Financieras del Banco Central de Chile.
-
-### 3. Clasificación
-
-Los títulos representativos de estas inversiones en moneda extranjera quedan comprendidos dentro del proceso de clasificación de cartera de inversiones en bonos y debentures de qué trata el Capítulo 8-28 de esta Recopilación Actualizada de Normas.
-
-En consecuencia, las empresas bancarias que sean facultadas por el Banco Central de Chile para realizar estas operaciones deberán clasificar periódicamente los instrumentos adquiridos y sus intereses por cobrar, de conformidad con dichas normas. Para los efectos de revisión, mantendrán a disposición de este Organismo la información necesaria relativa a la calidad de los emisores de los títulos y condiciones del mercado financiero internacional o bursátil donde se trancen habitualmente.
-
-### 4. Normas contables
-
-Los bancos registrarán estas inversiones en cuentas que reflejen apropiadamente
-
-el tipo de inversión de que se trate, debiendo utilizar para tal efecto, el
-
-valor de mercado del instrumento adquirido, imperante en la fecha de su
-
-adquisición, excepto los depósitos a plazo constituidos en bancos
-
-extranjeros,los que serán registrados por su valor nominal. El referido valor de
-
-mercado deberá constar en un certificado emitido por la Bolsa Internacional en
-
-la que los respectivos instrumentos se transen regularmente. El registro de
-
-estas operaciones se efectuará en la moneda extranjera en que se encuentren
-
-expresados los respectivos instrumentos y serán demostradas en la partida 1730
-
-"Inversiones en el exterior" del formulario MB1.
-
-En caso que la adquisición se realice a un precio superior al referido valor de
-
-mercado, la diferencia deberá reconocerse de inmediato con cargo a cuentas de
-
-resultado. Si la adquisición se realiza a un precio inferior al valor de
-
-mercado, el beneficio se acreditará en una cuenta de Pasivo Transitorio del
-
-formulario MB1. A medida que este se devengue se llevará a ingresos.
-
-Para los efectos de calcular mensualmente el devengo de la rentabilidad del
-
-título, la institución financiera adquirente determinará la tasa de interés
-
-implícita en el descuento, debiendo considerar para tal efecto el valor de
-
-mercado al cual se contabilizó, el valor final del respectivo instrumento y el
-
-período comprendido entre la fecha de adquisición y la de su vencimiento.
-
-Los intereses devengados por estas inversiones se abonarán en la misma moneda en
-
-que sean percibidos, a la cuenta "Intereses ganados sobre inversiones
-
-financieras", de la partida 7165 del formulario MB1.
+Para los efectos de revisión, las empresas bancarias mantendrán a disposición de este Organismo la información necesaria relativa a las condiciones del mercado financiero internacional o bursátil donde se transen habitualmente los instrumentos adquiridos.
 
 CAPITULO 8-23 (Bancos y Financieras)
 
