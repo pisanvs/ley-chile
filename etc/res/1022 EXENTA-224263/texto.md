@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.022, de 14 de abril de 2004, de esta Subsecretaría, autorízase a MILTON ORLANDO GLORIA GALVEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Carrera Nº 1040, Coquimbo, IV Región, donde podrá elaborar en la líneas de proceso de Cocido, fresco-enfriado, fresco-refrigerado, congelado, ahumado, alga seca y deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 14 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
