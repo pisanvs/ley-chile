@@ -1,0 +1,3 @@
+Por resolución exenta Nº 993, de fecha 13 de abril de 2004, de esta Subsecretaría, autorízase a PESQUERA MAR PROFUNDO S.A., para ampliar actividades pesqueras extractivas con la nave "Arauco I", en las áreas marítimas que en cada caso se indican, donde podrá capturar los recursos hidrobiológicos que a continuación se indican: a) Entre la V a VII Regiones, y en la IX Región, por fuera del área de reserva artesanal, con cerco: Jibia; b) Entre la V a VII Regiones, y en la IX Región, por fuera de las 60 millas náuticas, con arrastre de media agua: Jibia.
+
+Valparaíso, 13 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
