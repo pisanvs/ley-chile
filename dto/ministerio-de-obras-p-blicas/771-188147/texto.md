@@ -1,0 +1,3 @@
+Por decreto MOP Nº 771, de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 18, superficie 1.063 m², rol de avalúo Nº 54-22, comuna de San Esteban, para la obra "Camino Ruta E-755, Sector San Esteban - Lo Calvo Tramo Km. 0.000 - Km. 7.001,8, V Región" y se acordó el valor de indemnización con su propietario Ismael Fernando Pizarro Campaña, ascendente a la cantidad de $11.499.486.-
+
+Fiscal del Ministerio de Obras Públicas.
