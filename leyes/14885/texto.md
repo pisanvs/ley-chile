@@ -8,63 +8,85 @@ Proyecto de ley:
 
 #### Artículo 1
 
-o Autorízase a la Municipalidad de Limache para contratar directamente con el Banco del Estado u otras instituciones de crédito uno o varios empréstitos hasta por la suma de Eº 110.000, al interés bancario corriente y con una amortización que extinga la deuda en el plazo máximo de diez años.
+o Autorízase a la Municipalidad de Limache para contratar directamente con el Banco del Estado u otras instituciones de crédito uno o varios empréstitos hasta por la suma de E° 260.000, al interés bancario corriente y con una amortización que extinga la deuda en el plazo máximo de diez años.
 
 #### Artículo 2
 
-o Facúltase al Banco del Estado de Chile y demás instituciones de crédito para tomar el o los empréstitos a que se refiere el artículo anterior, para cuyo efecto no regirán las disposiciones restrictivas de sus respectivas leyes orgánicas o reglamentos.
+o Facúltase al Banco del Estado de Chile y demás instituciones de crédito para tomar el o los empréstitos a que se refiere el artículo anterior.
 
 #### Artículo 3
 
 o El producto del o los empréstitos autorizados por esta ley, se invertirá en los siguientes fines:
 
-a) Para financiar el traspaso
+a) Para la instalación de matrices
 
-del alumbrado público a la
+de agua potable y alcantarillado
 
-responsabilidad de la Compañía
+en las calles Freire entre Con-
 
-Chile de Electricidad. Eº 60.000
+dell y Baquedano; Pedro de Val-
 
-b) Para terminación de la Casa
+divia entre Condell y Baquedano; Ba-
 
-Consistorial y Teatro Municipal. 20.000
+quedano entre Manuel Rodríguez y Pe-
 
-c) Para un plan extraordinario de
+dro de Valdivia, todas ellas ubica-
 
-pavimentación que comprenderá
+das en San Francisco de Limache,
 
-en forma preferente los siguientes
+y en las calles Sargento Aldea
 
-puntos: Dirección de Pavimentación:
+entre República y Población de
 
-Baquedano, entre Prat y Serrano;
+Obreros Municipales; Andrés Be-
 
-Riquelme, entre Merced y Caupolicán;
+llo entre República e Indepen-
 
-Independencia, desde Troncal a
+dencia; Independencia entre 12
 
-Bulnes; Ramón de la Cerda, entre
+de Febrero y 18 de Septiembre y
 
-Urmeneta y Merced; Sargento Aldea,
+Camino Troncal entre Independen-
 
-entre República y estero, y Andrés
+cia y Echaurren, todas ellas de
 
-Bello, entre Independencia y
+Limache _ _ _ _ _ _ _ _ _ _ _ _ _ E° 90.500,-
 
-estero. Dirección de Vialidad:
+b) Para un plan extraordinario de obras
 
-Hernán Cortés y Cinco de Abril. 30.000
+en los sectores populares, de con-
+
+formidad a las determinaciones que
+
+al respecto adopte la Municipalidad E° 39.500,-
+
+c) Para terminación de la Casa Consis-
+
+torial y Teatro Municipal _ _ _ _ _ 80.000,-
+
+d) Para un plan extraordinario de pavi-
+
+mentación, de conformidad a las de-
+
+terminaciones que al respecto adop-
+
+te la Municipalidad _ _ _ _ _ _ _ _ 30.000,-
+
+e) Para la adquisición de un carro
+
+bomba para la Segunda Compañía
+
+de Bomberos de Limache _ _ _ _ _ _ _ 20.000,-
+
+T O T A L _ _ _ _ _ _ _ _ _ _ _ _ _ E° 260.000,-
 
 #### Artículo 4
 
-o Para atender el servicio del o los empréstitos, prorrógase la vigencia de la ley N.o 12.043, de fecha 5 de Julio de 1956, modificada por la ley N.o 12.955, de fecha 11 de Septiembre de 1958, que grava en dos por mil el avalúo de los bienes raíces de la comuna de Limache. Esta prórroga regirá hasta el semestre siguiente a aquel en que se entere la suma necesaria para el servicio del empréstito autorizado si éste se hubiere obtenido sólo parcialmente, no pudiendo exceder de 10 años.
+o Destínase con el objeto de atender el servicio del o los empréstitos autorizados el rendimiento del impuesto de un uno por mil a que se refiere la letra e) del artículo 2° del decreto 2.047, de 29 de julio de 1965, del Ministerio de Hacienda.
 
 #### Artículo 5
 
-o El excedente que se hubiere producido en el cobro de la contribución adicional establecida en la ley N.o 12.955, de 11 de Septiembre de 1958, que autorizó a la Municipalidad de Limache para contratar un empréstito, sobre la cantidad autorizada en dicha ley, será puesto a disposición de la Municipalidad mencionada para ser invertido en las mismas obras fijadas en la ley N.o 12.955, que son: construcción de la Casa Consistorial, Teatro Municipal y locales comerciales.
-
-Dirección de Vialidad, Hernán Cortés y 5 de Abril.
+o El excedente que se hubiere producido en el cobro de la contribución adicional establecida en la ley N.o 12.955, de 11 de Septiembre de 1958, que autorizó a la Municipalidad de Limache para contratar un empréstito, sobre la cantidad autorizada en dicha ley, será puesto a disposición de la Municipalidad mencionada para ser invertido en las mismas obras fijadas en la ley N.o 12.955, que son: construcción de la Casa Consistorial, Teatro Municipal y locales comerciales, Dirección de Vialidad, Hernán Cortés y 5 de Abril y las obras que señala la presente ley.
 
 #### Artículo 6
 
