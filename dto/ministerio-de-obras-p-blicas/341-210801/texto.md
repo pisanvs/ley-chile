@@ -1,0 +1,3 @@
+Por decreto MOP Nº 341 de fecha 31 de marzo del 2003, se expropiaron los lotes de terrenos Nºs 2, 10, 11, 12, 13, 14, 15 y 18, superficies 592,70, 1.065,30, 3.167,50, 2.143,50, 319,70, 26,60, 1.445,30, 66,50 m2 respectivamente, Rol de Avalúo Nºs 137-391 y 137-140, comuna de Paine, Región Metropolitana para la obra "Camino Sin Rol, Sector Peralillo - Abrantes, Tramo Km. 0,00000 al 6,03921" y se acordó el valor de indemnización con su propietaria Marta Rosa Silva Vergara, ascendente a la cantidad de $23.862.151.
+
+Fiscal del Ministerio de Obras Públicas.
