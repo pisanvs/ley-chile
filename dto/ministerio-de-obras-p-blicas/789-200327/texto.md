@@ -1,0 +1,3 @@
+Por decreto MOP Nº789, de 31 de mayo de 2002, se expropió el lote de terreno Nº83-B, superficie 166 m², Rol de Avalúo Nº284-38, comuna de San Fernando, para la obra Camino San Fernando Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264, VI Región y se acordó el valor de indemnización con su propietario Manuel Jesús Inostroza Bahamondes, ascendente a la cantidad de $788.626.-
+
+Fiscal del Ministerio de Obras Públicas.
