@@ -1,0 +1,3 @@
+Por Resolución Nº 1.077, de 31 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la transferencia de la autorización de pesca y la ampliación de plazo para iniciar actividades pesqueras extractivas con la nave "Marleen", solicitadas por don IGOR VALDIVIA MORI, por cuanto los hechos invocados como fuerza mayor no configuran el beneficio de ampliación de plazo establecido en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 31 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
