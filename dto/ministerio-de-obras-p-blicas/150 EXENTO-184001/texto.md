@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 150, de 28 de febrero de 2001, se expropió el lote de terreno Nº 23-D, superficie 193 m2., rol de avalúo 50-3, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector: Enlace Purranque Oriente, Décima Región, y se acordó el valor de indemnización con su propietario Humberto del Carmen Pillancar Leiva, ascendente a la cantidad de $1.424.174.-
+
+Fiscal del Ministerio de Obras Públicas.
