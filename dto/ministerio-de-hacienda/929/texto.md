@@ -1,0 +1,11 @@
+SUSTITUYE INTEGRANTE SUPLENTE QUE INDICA, EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA II SERIE DE SANTIAGO
+
+Núm. 929.- Santiago, 30 de Septiembre de 1992.- Vistos: Lo dispuesto en el artículo 121 del Código Tributario, modificado por el artículo 20 No. 2, de la ley No. 18.768; el decreto supremo No. 1.061, del Ministerio de Hacienda, de 01 de diciembre de 1989, publicado en el Diario Oficial de 16 de enero de 1990 y el oficio reservado No. 307, de 28 de agosto de 1992, de la Dirección Regional Metropolitana Santiago Centro del Servicio de Impuestos Internos, y Considerando: Que don Juan Rodrigo Searle González, con fecha 30 de julio de 1992, ha presentado su renuncia al cargo de suplente, del titular don Juan José Bas Mir, como representante del Presidente de la República, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, correspondiente al territorio jurisdiccional de la Corte de Apelaciones de Santiago, en el cual había sido nombrado por decreto supremo de Hacienda No. 1.601, de 01 de diciembre de 1989, publicado en el Diario Oficial de 16 de enero de 1990.
+
+Decreto:
+
+1°.- Pónese término al nombramiento de don Juan Rodrigo Searle González como suplente de don Juan José Bas Mir, representante titular del Presidente de la República en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, correspondiente al territorio jurisdiccional de la Corte de Apelaciones de Santiago.
+
+2°.- Desígnase en su reemplazo, al arquitecto don Mario Eduardo Domínguez Jerez, como suplente de don Juan José Bas Mir representante titular del Presidente de la República en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Corte de Apelaciones de Santiago.
+
+Tómese razón, regístrese, comuníquese y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Alejandro Foxley Rioseco, Ministro de Hacienda. Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Jorge Rodríguez Grossi, Subsecretario de Hacienda.
