@@ -1,0 +1,3 @@
+Por resolución Nº993, de 16 de julio de 1998, de esta Subsecretaría, deniégase la solicitud de concesión de acuicultura Nº95104058, presentada por ARNOLDO RUDELINDO HERNANDEZ MALDONADO, para operar un centro de cultivo en Desembocadura Ensenada Codihue, Sector entre Río Aucho y Aguantao, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 16 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
