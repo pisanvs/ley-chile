@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 576, de 30 de abril de 2001, se expropiaron los lotes de terreno Nºs. 159-A y 159-B, superficies 2.538 m² y 5.307 m², rol de avalúo 161-26, comuna de Ránquil, para la obra Camino Acceso Norte a Concepción, Octava Región y se acordó el valor de indemnización con sus propietarios Héctor Moisés Alarcón Torres y otros, ascendente a la cantidad total de $1.648.172.-
+
+Fiscal del Ministerio de Obras Públicas.
