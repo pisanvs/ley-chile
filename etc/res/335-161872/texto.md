@@ -1,0 +1,5 @@
+AUTORIZA A "CONSERVERA Z.B.Z. SOCIEDAD ANONIMA" PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 335, de 09 de Abril de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a "Conservera Z.B.Z. Sociedad Anónima", domiciliada en Puerto Montt, para operar la planta de conservas de recursos hidrobiológicos, ubicada en La Poza de Contao, Comuna de Hualaihue, Provincia de Palena, X Región, en la que utilizar como materia prima los siguientes recursos: Cholga, chorito, almeja, navajuelas, loco, piure, caracol, erizo, picoroco, centolla, choro, macha, mero, pejerrey, jurel, tollo y sierra. Asimismo, se deroga la Resolución 121, de 1980, de la Subsecretaría de Pesca, que autorizó a don Rodolfo Zapata Bastías, para operar la planta en referencia. La interesada deber efectuar el transporte de las especies señaladas en medios dotados de sistemas adecuados de preservación de la materia prima tales como cajas o contenedores aislados con hielo, c maras isotérmicas o refrigeradas.
+
+Valparaíso, 09 de Abril de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
