@@ -1,0 +1,11 @@
+Por resolución Nº 2.121, de 5 de octubre de 2001, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Esfuerzo de la pesca artesanal de merluza del sur en aguas interiores de la X Región en la apertura de pesca de la zona Chiloé-Palena, 2001 (Segunda Etapa)", elaborados por el solicitante y aprobados por esta Subsecretaría de Pesca, el cual se considera parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en cuantificar y caracterizar el esfuerzo de pesca dirigido a Merluza del sur en aguas interiores de la X Región, correspondiente a la apertura de pesca de la zona de Chiloé-Palena, en el período septiembre- diciembre 2001.
+
+La segunda etapa de la pesca de investigación se efectuará entre el 15 de octubre y el 31 de diciembre de 2001, ambas fechas inclusive, en el área de aguas interiores de la X Región correspondiente a la zona Chiloé-Palena Sur, la que comprende las áreas de operación de las caletas de Tac, Butachauques, río Aucho, Huelden, Hueihue, Isla Ica, Buill, Ayacara, Poyo, Hueque y Chumelden.
+
+En cumplimiento del objetivo de la presente investigación, las embarcaciones participantes podrán extraer un límite máximo de captura ascendente a 620,75 toneladas de Merluza del sur, las que se fraccionarán y serán extraídas en los siguientes períodos: 207 toneladas entre el 15 y el 19 de octubre, 180 toneladas entre el 22 y el 26 de noviembre y 233,75 toneladas entre el 27 y el 31 de diciembre.
+
+El Instituto de Fomento Pesquero designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del DS Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su Directora Ejecutiva, doña Juanita Gana Quiroz.
+
+Valparaíso, 5 de octubre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
