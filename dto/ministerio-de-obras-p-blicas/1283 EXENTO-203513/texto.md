@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.283, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº59, superficie 1.962 m², rol de avalúo 302-406, comuna de Cunco, IX Región, para la obra ''Camino Ruta S-61, Sector Cunco - Melipeuco, Tramo Km. 55,000 al 87,46783, correspondiente al sub-tramo II Km. 62,784 al 76,043'' y se acordó el valor de indemnización con su propietario don Eduardo Antonio Morales Curipán o Eduardo Morales Curipán, ascendente a la cantidad de $1.886.336.-
+
+Fiscal del Ministerio de Obras Públicas.
