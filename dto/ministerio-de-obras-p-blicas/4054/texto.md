@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.054, de 31 de agosto del 2000, se expropió el lote de terreno Nº21, superficie 325 m², rol de avalúo 673-24, comuna de Valdivia, para la obra Mejoramiento Ruta 5 Sur, Camino Longitudinal Sur, Sector Avenida Ramón Picarte y se acordó precio de la indemnización con su propietario Constructora Socovesa S.A., ascendente a la cantidad de $5.228.634.
+
+Fiscal del Ministerio de Obras Públicas.
