@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.926, de 19 de noviembre de 2003, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.269 de 1991, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA MACROGEL LIMITADA para operar las naves "Don Vila" y "Javiera I", en virtud de lo dispuesto en el artículo 143 letra d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
