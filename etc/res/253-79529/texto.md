@@ -1,0 +1,5 @@
+Por Resolución No.253, de 13 de Marzo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a PROCOMAR LIMITADA, R.U.T.
+
+No.79.682.770-K, domiciliada en la Ciudad de Coquimbo, calle Camino al Fuerte No.78, para ampliar las actividades que tiene autorizadas por Resolución No.635, de 1987, esta Subsecretaría, en orden a incorporar en la línea de proceso Congelado y Conserva de la planta autorizada por la Resolución citada precedentemente, ubicada en Coquimbo, los siguientes recursos hidrobiológicos; Merluza común, Erizo, Caracol locate, Caracol rubio, Lapa, Marrajo, Congrio negro, Palometa, Anguila. La materia prima será adquirida a pescadores artesanales que operen entre la III a IV Región. La presente autorización es sin perjucio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 13 de Marzo de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
