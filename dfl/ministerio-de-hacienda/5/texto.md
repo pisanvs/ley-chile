@@ -1,0 +1,593 @@
+ESTATUTO ORGANICO DEL SERVICIO DE TESORERIAS Santiago, 15 de Febrero de 1963.- Hoy se decretó lo que sigue:
+
+Decreto supremo número 5.- En uso de las facultades que me concede el artículo 1° de la ley N° 15.078 y el artículo 72° de la Constitución Política del Estado, y Teniendo presente las disposiciones contenidas en el DFL. N° 179, de 1960, y del DFL.N° 338, de 1960, Decreto:
+
+Apruébase el siguiente Estatuto Orgánico del Servicio de Tesorerías:
+
+## Título I
+
+Dependencia y objeto
+
+#### Artículo 1°
+
+El Servicio de Tesorerías dependerá del Ministerio de Hacienda y estará encargado de recaudar, custodiar y distribuir los fondos y valores fiscales y en general, los de todos los Servicios Públicos. Deberá asimismo, efectuar el pago de las obligaciones del Fisco y otros que le encomienden las leyes.
+
+> **Nota.** NOTA: 3 Las disposiciones del artículo 1° del DFL 178, de Hacienda, de 1981, regirán a partir del 1° de enero de 1982, a excepción de la letra e), la que regirá a la publicación de este DFL. (D.O. de 6 de noviembre de 1981).
+
+## Título II
+
+Funciones
+
+#### Artículo 2°
+
+El Servicio de Tesorerías tendrá las siguientes funciones:
+
+1°.- Recaudar los tributos y demás entradas fiscales y las de otros servicios públicos, como asimismo, conservar y custodiar los fondos recaudados, las especies valoradas y demás valores a cargo del Servicio;
+
+2° A.- Efectuar la cobranza coactiva sea judicial, extrajudicial o administrativa de:
+
+a) Los impuestos fiscales en mora con sus intereses y sanciones;
+
+b) Las multas aplicadas por autoridades administrativas;
+
+c) Los créditos fiscales a los que la Ley dé el carácter de impuesto para los efectos de su recaudación;
+
+d) Los demás créditos ejecutivos o de cualquiera naturaleza que tengan por causa o motivo el cumplimiento de obligaciones tributarias cuya cobranza se encomiende al Servicio de Tesorerías por Decreto Supremo.
+
+Asimismo, podrá el Servicio autorizar el cobro a domicilio de los tributos y demás entradas a que se refiere el N° 1 de este artículo, con el personal de su dependencia, determinando las condiciones en que dicha cobranza deberá llevarse a efecto;
+
+2°.- Distribuir los ingresos a lo menos una vez al mes, de acuerdo con las modalidades y sistemas que para la rendición y examen de cuentas internas del Servicio, determine el Tesorero General;
+
+3°.- Efectuar el pago de las obligaciones fiscales, y en general, las de las entidades del Sector Público que las leyes le encomienden;
+
+4°.- Delegar previa autorización por Decreto Supremo, la facultad de recaudar tributos en otros Servicios del Estado o Instituciones Bancarias;
+
+5°.- Establecer oficinas recaudadoras en los lugares y por el tiempo que sean necesarias bajo la dependencia de las respectivas Tesorerías Comunales;
+
+6°.- Centralizar los fondos de los Servicios e Instituciones en la cuenta única del Servicio de Tesorería, en el Banco del Estado de Chile de acuerdo con las normas establecidas en el Decreto con Fuerza de Ley N° 1, de 1959, y modificaciones posteriores.
+
+No obstante lo dispuesto en el inciso anterior, aquellos Servicios e Instituciones que a la fecha de la vigencia del mencionado Decreto con Fuerza de Ley N° 1, mantenían fondos en moneda extranjera, podrán continuar operando libremente con ellos, sin sujeción a las disposiciones del citado Decreto;
+
+7°.- Distribuir los fondos fiscales entre las diversas oficinas pagadoras del Servicio de acuerdo con las necesidades y en conformidad a las disposiciones legales y reglamentarias;
+
+8°.- Efectuar las emisiones de bonos u otras obligaciones que las leyes y decretos dispongan; aceptarlos o endosarlos, ordenar su colocación y distribuir los valores que se obtengan de dichas emisiones en las cuentas de rentas especiales o ponerlos a disposición de terceros, según fuere procedente;
+
+9°.- Efectuar la recaudación de divisas que le encomienden las leyes y distribuirlas conforme a las necesidades internas y externas del Estado. Asimismo, comprar y vender divisas en cualquier banco del país;
+
+10°.- Mantener bajo su custodia las especies valoradas fiscales para su venta al público por intermedio de las Tesorerías Provinciales y Comunales, y proceder a su entrega a otras reparticiones legalmente autorizadas;
+
+11°.- Recibir y conservar toda clase de instrumentos de garantía extendida a favor del Fisco, para lo cual emitirá los correspondientes certificados de custodia, pudiendo, a su vez, depositar dichos instrumentos en el Banco Central de Chile, o en la Caja Autónoma de Amortización de la Deuda Pública;
+
+12°.- Dar cumplimiento a las leyes, decretos y resoluciones en los cuales tenga ingerencia el Servicio de Tesorerías, una vez que la Contraloría General de la República haya tomado razón de ellos;
+
+13°.- Suspender la entrega de fondos a funcionarios públicos afectados por reparos de la Contraloría General de la República, mientras se pronuncia este organismo, y retener, mientras resuelve la Contraloría General de la República, o la justicia ordinaria en su caso, el pago de sus remuneraciones, desahucios o pensiones, cuando existan cargos en contra de ellos que afecten a fondos fiscales;
+
+14°.- Cumplir con las demás obligaciones que le impongan las leyes, reglamentos y decretos.
+
+## Título III
+
+Organización
+
+#### Artículo 3°
+
+El Servicio de Tesorerías se compondrá de una Tesorería General, cuya sede será la capital de la República; de Tesorerías Regionales en cada una de las regiones del país y por Tesorerías Provinciales, sólo en aquellos casos en que a la fecha de la vigencia del presente Decreto con Fuerza de Ley, estas últimas estén en funcionamiento como tales. Las Tesorerías Regionales actuarán con las funciones de las Tesorerías Provinciales en las cabeceras regionales.
+
+Del Tesorero General
+
+#### Artículo 4°
+
+El Servicio de Tesorerías estará a cargo de un funcionario que tendrá el título de Tesorero General, nombrado por el Presidente de la República, y que tendrá la categoría de Jefe de Servicio.
+
+#### Artículo 5°
+
+El Tesorero General tendrá las atribuciones y deberes inherentes al Servicio a su cargo. Será responsable del buen cumplimiento de las funciones del Servicio de Tesorerías, indicadas en el artículo 2° del presente Decreto, y le corresponderá especialmente:
+
+a) Dirigir, guiar y coordinar las actividades del Servicio y dictar las órdenes e instrucciones que estime necesarias o convenientes para la más expedita marcha del mismo;
+
+b) Planificar y desarrollar programas o políticas tendientes a lograr el cumplimiento más efectivo de las funciones del Servicio;
+
+c) Proponer al Ministro de Hacienda las medidas que a su juicio convenga adoptar para la mejor organización y dirección del Servicio de Tesorerías; la percepción y pago de los fondos fiscales y el estudio de las reformas legales, reglamentarias y administrativas, tendientes al mismo objeto;
+
+d) Trasladar y ubicar al personal según las necesidades del Servicio y proponer al Presidente de la República los nombramientos y promociones en conformidad con las disposiciones del Estatuto Administrativo. Sin perjuicio de lo anterior, y en conformidad con lo dispuesto en el artículo 45° de la ley N° 15.078, el Tesorero General podrá remover al personal que ingrese al Servicio en los últimos grados de los respectivos escalafones;
+
+e) Impartir al personal de su dependencia las instrucciones necesarias para el mejor y más oportuno cumplimiento de las leyes, reglamentos y normas que requieran la intervención del Servicio;
+
+f) Fijar los fondos que podrán retener los Tesoreros Comunales para atender a sus necesidades de caja;
+
+g) Encomendar al personal el cumplimiento de otras obligaciones y funciones del Servicio, además de las que este Estatuto les señala, de acuerdo con las leyes y reglamentos;
+
+h) Ordenar trabajos extaordinarios cuando las necesidades del Servicio lo requieran, de acuerdo con el artículo 47° de la Ley N° 15.078;
+
+i) Fijar y modificar la organización interna de las unidades del Servicio asignándoles el personal necesario, fijándole sus atribuciones, obligaciones y dependencias, sin que el ejercicio de esta facultad pueda originar modificaciones en la Planta y estructura del Servicio;
+
+j) Informar diariamente al Ministro de Hacienda acerca del estado de situación de la Caja Fiscal;
+
+k) Elevar al Ministro de Hacienda una memoria anual de las actividades del Servicio;
+
+l) Determinar los plazos dentro de los cuales los Tesoreros podrán efectuar las devoluciones de las especies valoradas a la Casa de Moneda de Chile;
+
+m) Dirigir, coordinar y controlar el desarrollo de la cobranza de acuerdo con las disposiciones vigentes y ejercer las facultades que le confiere el Código Tributario;
+
+n) Impartir instrucciones para el otorgamiento de convenios de pago a los deudores morosos;
+
+o) Declarar incobrables los impuestos o contribuciones morosos de acuerdo con las leyes;
+
+p) Suspender hasta por 60 días los apremios judiciales que se hayan decretado en contra de determinados contribuyentes morosos en casos justificados.
+
+#### Artículo 6°
+
+El Tesorero General será subrogado por el funcionario de la categoría inmediatamente inferior que designe el Presidente de la República, a propuesta del Tesorero General.
+
+> **Nota.** NOTA: 4 El artículo 8° del DFL 7, de Hacienda, de 1969, dispuso que las normas contenidas en el mismo, los encasillamientos y nombramientos a que dé origen, y la incorporación de personal contratado a las Plantas del Servicio de Tesorerías tendrán vigencia a contar desde el 1° de enero de 1969.
+
+De los Departamentos
+
+#### Artículo 7°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+#### Artículo 8°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+#### Artículo 9°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+#### Artículo 10°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+#### Artículo 11°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+#### Artículo 12°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+#### Artículo 13°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+#### Artículo 14°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+#### Artículo 15°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+#### Artículo 16°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+De las Tesorerías y los Tesoreros Provinciales
+
+#### Artículo 17°
+
+Las Tesorerías Regionales y Provinciales dependientes de la Tesorería General, serán las encargadas de recaudar y custodiar los fondos y valores fiscales y, asimismo, de pagar los compromisos fiscales, y los de otros organismos públicos que le fueren encomendados, con excepción de los aportes a servicios e instituciones funcionalmente descentralizados, autónomos o de administración autónoma, los que podrán radicarse en la Tesorería General.
+
+Las Tesorerías Provinciales, dependerán de la Tesorería Regional correspondiente. En aquellas provincias en que no existan Tesorerías Provinciales, la Tesorería Regional respectiva ejercerá sus funciones en dicho territorio provincial. En todo caso, el Tesorero General podrá disponer que estas funciones puedan ser ejecutadas por otra Tesorería Provincial de la misma región.
+
+#### Artículo 18°
+
+A las Tesorerías Regionales y Provinciales, dentro de sus respectivos territorios les corresponderá especialmente:
+
+a) Dirigir, controlar y activar la cobranza administrativa y judicial de las contribuciones y demás ingresos fiscales y los de otros organismos que se le encomienden;
+
+b) Efectuar los pagos de remuneraciones, pensiones y demás obligaciones del Estado; y
+
+c) Informar diariamente a la Tesorería General sobre el movimiento de fondos públicos.
+
+#### Artículo 19°
+
+Las Tesorerías Regionales estarán a cargo de un funcionario que tendrá el título de Director Regional Tesorero. En el caso de Santiago se denominará Director Regional Tesorero Metropolitano.
+
+Por su parte, las Tesorerías Provinciales estarán a cargo de un funcionario que tendrá el título de Tesorero Provincial.
+
+#### Artículo 20°
+
+Sin perjuicio de las atribuciones necesarias para el cumplimiento de sus obligaciones específicas, los Directores Regionales Tesoreros y los Tesoreros Provinciales, tendrán, además, las siguientes:
+
+a) Firmar conjuntamente con el Jefe de Egresos, los cheques de pago fiscales y los de los organismos públicos que atienda el Servicio.
+
+b) Integrar en las capitales regionales y provinciales, los cuerpos colegiados que corresponda y asumir las representaciones contempladas en las leyes y decretos respectivos;
+
+c) Dictar normas internas que faciliten el buen funcionamiento de las oficinas a su cargo, de acuerdo a la legislación vigente;
+
+d) Actuar en representacion del Fisco en el otorgamiento y suscripción de escrituras públicas en los casos señalados en las leyes y decretos respectivos;
+
+e) Ejercer en sus respectivos territorios las funciones de jueces substanciadores de acuerdo al Código Tributario;
+
+f) Celebrar, de acuerdo a las instrucciones vientes, convenios para el pago de impuestos morosos de monto inferior a 5 vitales anuales escala A) del departamento de Santiago.
+
+DE LAS TESORERIAS Y LOS TESOREROS COMUNALES
+
+#### Artículo 21°
+
+Derogado.
+
+> **Nota.** NOTA: 7 Los artículos 21 al 27 quedan derogados a contar del 1° de enero de 1982, según el artículo 2°, letra b) del DFL 178 de Hacienda, publicado en el D. O. de 6 de noviembre de 1981.
+
+#### Artículo 22°
+
+Derogado.
+
+> **Nota.** NOTA: 7 Los artículos 21 al 27 quedan derogados a contar del 1° de enero de 1982, según el artículo 2°, letra b) del DFL 178 de Hacienda, publicado en el D. O. de 6 de noviembre de 1981.
+
+#### Artículo 23°
+
+Derogado.
+
+> **Nota.** NOTA: 7 Los artículos 21 al 27 quedan derogados a contar del 1° de enero de 1982, según el artículo 2°, letra b) del DFL 178 de Hacienda, publicado en el D. O. de 6 de noviembre de 1981.
+
+#### Artículo 24°
+
+Derogado.
+
+> **Nota.** NOTA: 7 Los artículos 21 al 27 quedan derogados a contar del 1° de enero de 1982, según el artículo 2°, letra b) del DFL 178 de Hacienda, publicado en el D. O. de 6 de noviembre de 1981.
+
+#### Artículo 25°
+
+Derogado.
+
+> **Nota.** NOTA: 7 Los artículos 21 al 27 quedan derogados a contar del 1° de enero de 1982, según el artículo 2°, letra b) del DFL 178 de Hacienda, publicado en el D. O. de 6 de noviembre de 1981.
+
+#### Artículo 26°
+
+Derogado.
+
+> **Nota.** NOTA: 7 Los artículos 21 al 27 quedan derogados a contar del 1° de enero de 1982, según el artículo 2°, letra b) del DFL 178 de Hacienda, publicado en el D. O. de 6 de noviembre de 1981.
+
+#### Artículo 27°
+
+Derogado.
+
+> **Nota.** NOTA: 7 Los artículos 21 al 27 quedan derogados a contar del 1° de enero de 1982, según el artículo 2°, letra b) del DFL 178 de Hacienda, publicado en el D. O. de 6 de noviembre de 1981.
+
+#### Artículo 28°
+
+Los Notarios de Hacienda, previo aviso de los Tesoreros respectivos, deberán concurrir como ministros de fe a presenciar la apertura o cierre de los paquetes de especies valoradas que reciban o devuelvan las Tesorerías. En los lugares en donde no haya Notarios deberá cumplir esta función el Oficial del Registro Civil.
+
+#### Artículo 29°
+
+La venta de las especies valoradas la efectuarán las Tesorerías únicamente con pagos en dinero efectivo o depósitos bancarios a la vista.
+
+DE LAS PLANTAS DEL PERSONAL Y DEL REGIMEN DE INGRESOS
+
+#### Artículo 30°
+
+La Planta del Personal del Servicio de Tesorerías, fijada por el artículo 16 de la Ley N° 19.041, es la siguiente:
+
+-------------------------------------------------------
+
+Planta/Cargos Grado E.U.S. N° cargos
+
+Directivos
+
+-------------------------------------------------------
+
+Tesorero General 1 B 1
+
+Jefes de Departamento 3 6
+
+Jefes de Departamento 4 4
+
+-
+
+Director Regional
+
+-
+
+Tesrorero Metropolitano 4 1
+
+Jefes de Departamento 5 5
+
+Jefes de Departamento 6 2
+
+-
+
+Directores Regionales
+
+-
+
+Tesoreros 6 12
+
+Jefes de Sección 6 15
+
+Jefes de Sección 7 13
+
+Tesoreros Provinciales 8 15
+
+Jefes de Sección 8 16
+
+Jefes de Sección 9 7
+
+Jefes de Sección 10 17
+
+Jefes de Sección 11 15
+
+Jefes de Oficina 12 27
+
+Jefes de Oficina 13 15
+
+Jefes de Oficina 14 33
+
+Jefes de Oficina 15 29
+
+Jefes de Oficina 16 26
+
+Jefes de Oficina 17 70
+
+Jefes de Oficina 18 5
+
+_____
+
+334
+
+Profesionales
+
+Profesionales 6 3
+
+Profesionales 7 1
+
+Profesionales 8 5
+
+Profesionales 9 23
+
+Profesionales 10 6
+
+Profesionales 11 20
+
+Profesionales 12 7
+
+Profesionales 13 7
+
+Profesionales 16 4
+
+Profesionales 17 2
+
+____
+
+78
+
+Técnicos
+
+-
+
+Técnicos 14 8
+
+Técnicos 16 13
+
+Técnicos 18 22
+
+Técnicos 19 15
+
+Técnicos 20 17
+
+Técnicos 21 36
+
+Técnicos 22 55
+
+____
+
+166
+
+Administrativos
+
+-
+
+Administrativos 18 65
+
+Administrativos 19 85
+
+Administrativos 20 34
+
+Administrativos 21 37
+
+Administrativos 23 26
+
+Administrativos 24 18
+
+Administrativos 25 18
+
+Administrativos 27 16
+
+_____
+
+299
+
+Auxiliares
+
+-
+
+Auxiliares 24 14
+
+Auxiliares 25 11
+
+Auxiliares 26 28
+
+Auxiliares 27 24
+
+Auxiliares 28 55
+
+____
+
+132
+
+TOTAL 1.009
+
+#### Artículo 31°
+
+Para ingresar a la Planta Directiva, Profesional y Técnica del Servicio se requerirá haber sido aprobado en el curso de capacitación para Tesorero Comunal de la Escuela de Capacitación, haberse desempeñado a lo menos durante cinco años en la Planta Administrativa y encontrarse en lugar preferente para el ascenso, de conformidad con lo establecido en el artículo 27 del DFL. N° 338, de 1960.
+
+Esta disposición no se aplicará respecto de la designación de Tesorero General.
+
+#### Artículo 32°
+
+Para optar los cargos de la Planta Administrativa se requerirá acreditar que está en posesión de la Licencia Secundaria o de estudios equivalentes calificados por el Ministerio de Educación Pública, y rendir una prueba de eficiencia.
+
+Estas exigencias no serán aplicables a los ex funcionarios del Servicio que sean reincorporados a esta repartición, siempre que al 18 de Diciembre de 1962 hubiesen desempeñado por más de tres años el cargo de Tesorero Provincial; hayan sido calificados en lista uno de mérito, durante sus tres últimos años de servicios, y reúnan los demás requisitos que al afecto exige el Estatuto Administrativo.
+
+#### Artículo 33°
+
+Los postulantes que acrediten títulos de Abogado, Ingeniero o Contador inscrito en el Colegio de Contadores, quedarán exentos de la exigencia contemplada en el artículo 31° para optar a los cargos que requieran dichos conocimientos profesionales.
+
+Asimismo, se eximirá de esas exigencias o de las contempladas en el artículo 32°, según el caso, a los oponentes a un cargo de las plantas de Máquinas de Contabilidad y Estadística. Para ingresar a estas plantas se requerirá acreditar debidamente que se cuenta con los conocimientos técnicos necesarios para el desempeño de los respectivos cargos.
+
+## Título IV
+
+OBLIGACIONES DE TESORERIA SOBRE DESCUENTO DE TITULOS DE CREDITO, EMISION Y CANCELACION DE VALES DE IMPUESTOS Y PAGARES.
+
+#### Artículo 34°
+
+Derogado.
+
+#### Artículo 35°
+
+Derogado.
+
+#### Artículo 36°
+
+Derogado.
+
+#### Artículo 37°
+
+Derogado.
+
+#### Artículo 38°
+
+Derogado.
+
+#### Artículo 39°
+
+Derogado.
+
+#### Artículo 40°
+
+Derogado.
+
+#### Artículo 41°
+
+Derogado.
+
+#### Artículo 42°
+
+Derogado.
+
+#### Artículo 43°
+
+Derogado.
+
+#### Artículo 44°
+
+Se autoriza al Tesorero General de la República para compensar deudas de contribuyentes con créditos de estos contra el Fisco, cuando los documentos respectivos estén en la Tesorería en condiciones de ser pagados, extinguiéndose las obligaciones hasta la concurrencia de la de menor valor.
+
+#### Artículo 45°
+
+Cuando concurran las circunstancias señaladas en el artículo anterior, la Tesorería no aplicará intereses sobre la parte o el total de los tributos insolutos que sean iguales al monto de lo adeudado por el Fisco.
+
+## Título V
+
+DE LA ESCUELA DE CAPACITACION
+
+#### Artículo 46°
+
+Derogado.
+
+> **Nota.** NOTA: 5 Los artículos 7° al 16, 18 y 46, quedan derogados desde la fecha de vigencia del DFL 178, de Hacienda, según su artículo 2°, letra a). (D.O. de 6 de noviembre de 1981).
+
+## Título VI
+
+DISPOSICIONES GENERALES
+
+#### Artículo 47°
+
+El Tesorero General y su respectivo subrogante legal y los demás funcionarios del Servicio de Tesorería, que en virtud del artículo 40° del DFL.
+
+N° 338, de 1960, no estén afectos al régimen de calificaciones, gozarán en todo caso, del porcentaje máximo que se establezca por concepto de asignación especial en conformidad con el artículo 2° de la ley N° 15.078.
+
+De igual beneficio gozarán los funcionarios de la planta Directiva, Profesional y Técnica que por cualquier causa o motivo no hayan sido calificados, siempre que no se trate del personal a que se refiere la letra c) del citado artículo 2° de la ley 15.078.
+
+#### Artículo 48°
+
+Las personas que ingresen a las Plantas de Directivos, de Profesionales, de Técnicos y de Administrativos, del Servicio de Tesorerías, deberán presentar, antes de su nombramiento, una declaración jurada de su patrimonio y del de su cónyuge separado totalmente de bienes, en la forma circunstanciada que determine el Tesorero General.
+
+El personal en servicio deberá renovar esta declaración dentro del plazo que fije el Tesorero General.
+
+Una copia de estas declaraciones deberá ser enviada a la Contraloría General de la República.
+
+La omisión de esta declaración, así como la omisión de bienes en las declaraciones prestadas, en un porcentaje superior al 20% del total de bienes que debiera manifestarse, podrá ser sancionada hasta con la destitución, sin perjuicio de las demás sanciones que procedan.
+
+#### Artículo 49°
+
+Los títulos profesionales universitarios a que hace referencia el presente Estatuto, deberán ser otorgados por una Universidad del Estado, o reconocida por éste.
+
+#### Artículo 50°
+
+Los postulantes aprobados en los concursos de ingreso al Servicio de Tesorerías que no alcancen a ser nombrados de inmediato, podrán ser designados en las vacantes que se produzcan con posterioridad, siempre que el tiempo transcurrido entre la fecha del concurso y la del decreto de nombramiento no exceda de un año.
+
+#### Artículo 51°
+
+La adquisición o el arrendamiento de inmuebles que efectúe el Fisco para el Servicio de Tesorerías, cualquiera que sea el origen de los fondos con que éstos se verifiquen, no estarán afectos a la limitación establecida en el artículo 7° de la ley 4.174 de 5 de Septiembre de 1927.
+
+#### Artículo 52°
+
+Derógase los D.F.L. N°s 179 y 197, de 1960 y sus modificaciones posteriores, y el Decreto de Hacienda N° 9.088, de 9 de agosto de 1960.
+
+#### Artículo 53°
+
+Las disposiciones estatutarias contenidas en el presente decreto y en la ley N° 15.078 prevalecerán sobre las del Estatuto Administrativo, entendiéndose que estas últimas permanecen vigentes en todo lo que no sean contrarias a aquéllas.
+
+DISPOSICIONES TRANSITORIAS
+
+#### Artículo 1°
+
+Derogado.
+
+#### Artículo 2°
+
+Derogado.
+
+#### Artículo 3°
+
+Los funcionarios en servicio al 18 de Diciembre de 1962, podrán seguir ascendiendo en el respectivo escalafón en que hubiesen sido encasillados en conformidad con las disposiciones de la ley N° 15.078, aún cuando no reúnan la totalidad de los requisitos que exija este Estatuto, salvo que el cargo a que opte requiera título profesional determinado.
+
+#### Artículo 4°
+
+Asimismo, los funcionarios en servicio a la fecha indicada en el artículo anterior, que en razón del encasillamiento mencionado, han debido pasar de la Planta Administrativa a cargos de la Planta Directiva, Profesional y Técnica, conservarán, siempre que al 1° enero de 1963 contasen con los requisitos legales correspondientes, el derecho al beneficio establecido en el inciso 1° del artículo 132 del D.F.L.
+
+N° 338, de 1960.
+
+#### Artículo 5°
+
+Derogado.
+
+#### Artículo 6°
+
+DEROGADO.
+
+Tómese razón, comuníquese y publíquese.- JORGE ALESSANDRI R.- Luis Mackenna S.- Carlos Martínez S.- Patricio Barros A.- Orlando Sandoval V., Ministro de Agricultura y Subrogante de Defensa Nacional.- Julio Philippi I.- Hugo Gálvez G.- Joaquín Prieto C.-
+
+Sótero del Río G.- Luis Escobar C.- Ernesto Pinto L., Ministro de Obras Públicas y Subrogante de Justicia.- Benjamín Cid Q.
