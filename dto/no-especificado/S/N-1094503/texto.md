@@ -1,0 +1,7 @@
+Se manda formar la Alameda de Santiago
+
+Santiago, 7 de Junio de 1818.
+
+Las obras públicas dan una idea mas o ménos ventajosa de la civilizacion de los pueblos. Los de América han sufrido en esta parte un atraso digno del sistema opresor, en que por una bárbara política, querria conservarlos su antigua Corte de Madrid. Es necesario ir saliendo de tal estado progresivamente, segun las proporciones que se presenten, i el tiempo que nos den las atenciones de la guerra. Se carece de un paseo público, en donde puedan congregarse las jentes por el desahogo honesto i recreaciones en las horas de descanso, pues el conocido con el nombre de Tajamares por su estrechez e irregularidad de terreno, léjos de alegrar el ánimo, inspira tristeza. La Cañada por su situacion, estension, abundancia de agua i demás circunstancias, es el lugar mas aparente para una alameda. A fin de dar las providencias convenientes para que se establezca i trabaje esta obra con la mayor prontitud i con la magnificencia i hermosura correspondiente a la Capital de un Estado libre, me propondrá el Ilustre Ayuntamiento los arbitrios que conceptúe mas adecuados en lo directivo i económico, los fondos de propios, con que se pueden contar para sus gastos i los recursos que deben promoverse para llenar el déficit que resulte en caso de no ser bastantes dichos fondos, con lo demas que estime útil a la consecucion del objeto.-
+
+Trascríbase esta providencia para su cumplimiento.- O'Higgins. - Irisarri.
