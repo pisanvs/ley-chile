@@ -1,0 +1,7 @@
+AUTORIZA A DON ERNESTO POVEDA LOPETEGUI PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por resolución No. 1.706, de 08 de Noviembre de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Ernesto Poveda Lopetegui, R.U.T. No. 3.676.387-6, domiciliado en calle Nueva Esperanza No. 142, Población 30 de Marzo, San Antonio, para iniciar actividades pesqueras, en orden a operar la embarcación "María Loreto", en el litoral de las Regiones III a VII, donde podrá extraer los siguientes recursos hidrobiológicos: Azulejo, Marrajo o tiburón, Raya, Atún aleta larga, Bacalao de profundidad o mero, Congrio colorado, Congrio dorado, Comercio negro, Sierra, Cojinoba del norte, Cojinoba del sur, Corvina, Lenguado de ojos chicos, Merluza común, Pejegallo, Tollo, Anchoa, Jurel y Sardina.
+
+Con todo, podrá extraer el recurso Albacora o pez espada, (Xiphias gladius), en el litoral de la I a X Región. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan, Se deniega la autorización solicitada por el peticionario, para operar en el litoral de las Regiones I y II y VIII a XII, sin perjuicio de lo señalado en el inciso final del numeral 3°, respecto del recurso Albacora o pez espada.
+
+Valparaíso, 08 de Noviembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
