@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº 261, de 16 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1 , para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector Km. 79.150,00 al 80.450,00 que figuran a nombre de Machiavello Sieverson Carlos J., rol de avalúo 153- 94, comuna de Llay-Llay, superficie 1.553 m2. La comisión de peritos integrada por los señores Patricio Benjamín García Toso, José Rogelio Alfredo Reyes y Luis Pablo Padilla Vergara, fijó con fecha 20 de noviembre de 1997 el valor provisional de la indemnización en la cantidad de $11.216.035.- La indemnización se pagar al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
