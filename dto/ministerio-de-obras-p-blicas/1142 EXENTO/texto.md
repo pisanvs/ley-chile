@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.142, de 27 de agosto de 2001 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 131-a y 131-b; para la obra: "Camino Acceso Norte a Concepción, VIII Región, Sector Km. 24.755.00 al Km.
+
+26.549.00, Octava Región, que figuran a nombre de Zenón Puentes Puentes, rol de avalúo 160-69, comuna de Ránquil, superficies 112 m2 y 186 m2, respectivamente. La comisión de peritos integrada por los señores Teodoro Medina Reyes, Jaime García Molina y Luis Abarzúa Ceballos, fijó con fecha 22 de diciembre de 1997, el valor provisional de la indemnización en las cantidades de $16.240.- para el lote Nº131-a y de $26.970.- para el lote Nº131-b. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
