@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.443, de 16 de noviembre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 55, 56 y 57, para la ejecución de la obra Camino By - Pass Coronel - Lota (Ruta 160), Sector Mejoramiento Lota Km. 35.880,000 al Km. 42.632,30, camino Concepción Lebu 5.783,06, Sector La Pera, que figuran a nombre de Soc. Agrícola y Forestal Co. y Cía. Agrícola Forestal Colc., roles de avalúo 1201-2 y 1250-1, comunas de Lota y Santa Juana, VIII Región, superficies 5.877; 6.776 y 13.292 m2. La Comisión de Peritos compuesta por los señores Ramón Jofré Soto, Manuel Concha Rojas y José Manuel Gálvez Alegría, fijó con fecha 21 de febrero de 1995, el valor provisional de la indemnización en la cantidad de $1.763.100, lote 55;
+
+$1.694.000, lote 56 y $3.323.000, lote 57. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
