@@ -1,0 +1,3 @@
+Por Resolución N° 2.018, de 2 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 93103152, presentada por RAMON OCTAVIO PEREZ GALLARDO, para un centro de cultivo ubicado entre Punta Quento y Punta Pillul, estero Castro, comuna de Castro, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 2 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
