@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 526 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 5, superficie 2.060 m², Rol de Avalúo Nº 308-170, comuna de Melipeuco, para la obra ''Camino Melipeuco - Icalma, Sector Melipeuco - Tracura Km. 97,50000 a Km. 104,2038'', IX Región y se acordó el valor de indemnización con su propietaria Mercedes Morales Curipán, ascendente a la cantidad de $659.032.-
+
+Fiscal del Ministerio de Obras Públicas.
