@@ -1,0 +1,3 @@
+Por resolución Nº 402, de 1º de marzo de 2000, de esta Subsecretaría, autorízase a COMERCIAL E INDUSTRIAL CHILE ALGAS S.A. para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 1.233, de 1991, de esta Subsecretaría, donde podrá incorporar a la planta ubicada en Fundo San José S/Nº, camino a Lirquén, Penco, VIII Región, en la línea de elaboración de Colagar deshidratado natural y/o artificial, el recurso hidrobiológico Pelillo.
+
+Valparaíso, 1º de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
