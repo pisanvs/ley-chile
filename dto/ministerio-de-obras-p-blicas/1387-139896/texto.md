@@ -1,0 +1,7 @@
+Por decreto MOP Nº1.387, de 31 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.13, 14, 16, 17, 20, 41, 73, 75, 111 y 113, para la obra Camino Ruta W-59, sector Dalcahue Achao kms. 0,000 al 19,718.56 que figuran nombre de Francisco Naima Velásquez, Pedro Antonio Muñoz Muñoz, Eliecer Bahamonde Ulloa, Ramona del C. Soto Mansilla, Fernando Ruiz Marcos Tulio Aguila y Santiago Aguila Hernández, roles de avalúos 122-16, 122-101, 122-3, 126-38 y 117-36, comuna de Curaco de Vélez y roles 145-38 y 145-39, comuna de Quinchao, X Región, superficies 199,24;
+
+80; 132; 39,25; 54,21; 312,90; 409,28; 15,59; 595,54 y 133,19 m2., respectivamente. La comisión de peritos compuesta por los señores Carlos Mera Santibáñez, Samuel Barrientos Bahamonde y Enrique Hoelck Altmann, fijó con fecha 27 de octubre de 1997, el valor provisional de las indemnizaciones en las cantidades de $19.924, lote 13;
+
+$8.000, lote 14; $15.840, lote 16; $4.710, lote 17; $6.505, lote 20; $37.548, lote 41; $40.928, lote 73; $1.559, lote 75; $59.554, lote 111 y $15.983, lote 113. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
