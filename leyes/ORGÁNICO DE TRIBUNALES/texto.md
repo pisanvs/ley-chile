@@ -156,7 +156,7 @@ De los Jueces de Distrito y de los Jueces de Subdelegación
 
 #### Artículo 14
 
-En cada distrito de la República, que no esté comprendido dentro de los límites urbanos de la ciudad asiento de un juez de letras de mayor cuantía, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de quinientos pesos, y en la primera instancia, de esas mismas causas cuando su valor exceda de dicha cantidad y no pase de mil quinientos pesos. No conocerá, sin embargo, de las causas relativas al contrato de arrendamiento.
+En cada distrito de la República, que no esté comprendido dentro de los límites urbanos de la ciudad asiento de un juez de letras, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de quinientos pesos, y en la primera instancia, de esas mismas causas cuando su valor exceda de dicha cantidad y no pase de mil quinientos pesos. No conocerá, sin embargo, de las causas relativas al contrato de arrendamiento.
 
 Le corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 
@@ -232,7 +232,7 @@ A los jueces de distrito corresponden las atribuciones propias de ministro de fe
 
 #### Artículo 25
 
-En cada subdelegación de la República que no esté comprendida dentro de los límites urbanos de la ciudad asiento de un juez de letras de mayor cuantía, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
+En cada subdelegación de la República que no esté comprendida dentro de los límites urbanos de la ciudad asiento de un juez de letras, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
 
 1° En primera instancia, de las causas civiles que se promovieren sobre cosa cuyo valor exceda de mil quinientos pesos y no pase de tres mil pesos.
 
@@ -259,8 +259,6 @@ Inciso derogado.
 ## Título III
 
 De los Jueces de Letras
-
-### 1. Los Jueces de Letras de Menor Cuantía
 
 #### Artículo 28
 
@@ -326,17 +324,15 @@ Tendrá, asimismo, la competencia indicada en el artículo 37.
 
 Suprimido.
 
-### 2. Los Jueces de Letras de Mayor Cuantía
-
 #### Artículo 42
 
-En cada departamento habrá un Juzgado de Letras de Mayor Cuantía, que deberá funcionar en la respectiva capital.
+En cada departamento habrá un Juzgado de Letras, que deberá funcionar en la respectiva capital.
 
-Existirán dos Juzgados de Letras de Mayor Cuantía en los departamentos de Iquique, El Loa, Copiapó, La Serena, Coquimbo, Ovalle, Quillota, San Antonio, San Bernardo, Puente Alto, Santa Cruz, Curicó, Talca, Linares, San Carlos, La Laja, Talcahuano, Osorno, Llanquihue, Coyhaique y Magallanes; tres en los de Arica, Antofagasta, Rancagua, Chillán, Temuco y Valdivia; y cuatro en el departamento de Concepción.
+Existirán dos Juzgados de Letras en los departamentos de Iquique, El Loa, Copiapó, La Serena, Coquimbo, Ovalle, Quillota, San Antonio, San Bernardo, Puente Alto, Santa Cruz, Curicó, Talca, Linares, San Carlos, La Laja, Talcahuano, Osorno, Llanquihue, Coyhaique y Magallanes; tres en los de Arica, Antofagasta, Rancagua, Chillán, Temuco y Valdivia; y cuatro en el departamento de Concepción.
 
-En el departamento de Santiago habrá catorce Juzgados de Mayor Cuantía, que ejercerán jurisdicción exclusivamente en materia civil, y veintiséis en materia criminal; en Valparaíso, cinco en lo civil y cinco en lo criminal, con asiento dos de cada uno de ellos en la comuna de Viña del Mar; y en el departamento Presidente Aguirre Cerda, dos con jurisdicción exclusivamente en materia civil y cinco en materia criminal.
+En el departamento de Santiago habrá catorce Juzgados, que ejercerán jurisdicción exclusivamente en materia civil, y veintiséis en materia criminal; en Valparaíso, cinco en lo civil y cinco en lo criminal, con asiento dos de cada uno de ellos en la comuna de Viña del Mar; y en el departamento Presidente Aguirre Cerda, dos con jurisdicción exclusivamente en materia civil y cinco en materia criminal.
 
-No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Pozo Almonte hará las veces de Juzgado de Letras de Mayor Cuantía del departamento de Pisagua, considerándose a la comuna subdelegación de Pozo Almonte como integrante de dicho departamento para todos los efectos del Servicio Judicial.
+No obstante lo dispuesto en el inciso primero, el Juzgado de Letras de Pozo Almonte hará las veces de Juzgado de Letras del departamento de Pisagua, considerándose a la comuna subdelegación de Pozo Almonte como integrante de dicho departamento para todos los efectos del Servicio Judicial.
 
 > **Nota.** El Art. 15 del Decreto Ley 1682, Justicia, publicado el 25.01.1977, estableció que el inciso final que se agrega al presente artículo por la letra A) del Art. 4 del Decreto Ley 744, tuvo por finalidad sustituir el inciso que había sido incorporado por el N° 2 del Art. 2° de la ley 17590, por lo que éste debe entenderse derogado.
 
@@ -356,11 +352,11 @@ Habrá también un Juzgado de Letras de Mayor Cuantía en Petorca, Putaendo, Cas
 
 Los territorios jurisdiccionales de los Tribunales a que se refiere este artículo serán los de las comunas-subdelegaciones de sus respectivos nombres.
 
-El Juzgado de La Calera comprenderá además, las comunas de Hijuelas, Nogales y Llay-Llay; el de Casablanca, las comunas de Algarrobo y Curacaví; el de Carahue, la comuna de Saavedra, con excepción de los distritos 8) Molco, 9) Pucolón y 10) Chelle, los cuales continuarán perteneciendo a la jurisdicción de Imperial; y el de Villarrica comprenderá también la comuna de Pucón.
+El Juzgado de La Calera comprenderá además, las comunas de Hijuelas, Nogales y Llay-Llay; el de Casablanca, las comunas de Algarrobo y Curacaví; el de Carahue, la comuna de Saavedra, con excepción de los distritos 8) Molco, 9) Pucolón y 10) Chelle, los cuales continuarán perteneciendo a la jurisdicción de Imperial.
 
 #### Artículo 45
 
-Los Jueces de Letras de Mayor Cuantía conocerán:
+Los Jueces de Letras conocerán:
 
 1° En única instancia:
 
@@ -402,7 +398,7 @@ b) De las causas por faltas o contravenciones de que hayan conocido los alcaldes
 
 #### Artículo 46
 
-Los jueces de letras de mayor cuantía de capital de provincia conocerán en primera instancia:
+Los jueces de letras de capital de provincia conocerán en primera instancia:
 
 a) De las causas criminales en que sea parte o tenga interés un juez letrado de departamento; y
 
@@ -410,11 +406,11 @@ b) De los asuntos a que se refiere el artículo 23 de la Ley de Propiedad Austra
 
 #### Artículo 47
 
-Los jueces de letras de mayor cuantía de asiento de Corte, conocerán en primera instancia de las causas criminales en que sea parte o tenga interés un juez de letras de capital de provincia.
+Los jueces de letras de asiento de Corte, conocerán en primera instancia de las causas criminales en que sea parte o tenga interés un juez de letras de capital de provincia.
 
 #### Artículo 48
 
-Los jueces de letras de mayor cuantía de asiento de Corte conocerán en primera instancia de las causas de hacienda, cualquiera que sea su cuantía.
+Los jueces de letras de asiento de Corte conocerán en primera instancia de las causas de hacienda, cualquiera que sea su cuantía.
 
 No obstante lo dispuesto en el inciso anterior, en los juicios en que el Fisco obre como demandante, podrá éste ocurrir a los tribunales allí indicados o al del domicilio del demandado, cualquiera que sea la naturaleza de la acción deducida.
 
@@ -522,17 +518,19 @@ p) El de la Corte de Punta Arenas comprenderá la provincia de Magallanes y la A
 
 #### Artículo 56
 
-Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
+Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indican:
 
-1° Las Cortes de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros;
+1.- Las Cortes de Apelaciones de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Chillán, Valdivia, Puerto Montt, Coyhaique y Punta Arenas tendrán cuatro miembros.
 
-2° La Corte de Temuco tendrá cinco miembros;
+2.- La Corte de Apelaciones de Talca tendrá cinco miembros.
 
-3° La Corte Presidente Aguirre Cerda tendrá siete miembros;
+3.- La Corte de Apelaciones de Temuco tendrá siete miembros.
 
-4° Las Cortes de Valparaíso y Concepción tendrán diez miembros;
+4.- La Corte de Apelaciones Presidente Aguirre Cerda tendrá nueve miembros.
 
-5° La Corte de Santiago tendrá veinticinco miembros.
+5.- Las Cortes de Apelaciones de Valparaíso y Concepción tendrán diez miembros.
+
+6.- La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
 
 #### Artículo 57
 
@@ -542,21 +540,23 @@ Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendr�
 
 #### Artículo 58
 
-Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá cinco Fiscales, y las Cortes de Valparaíso, Presidente Aguirre Cerda y Concepción dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime más conveniente para el mejor servicio, con audiencia de estos funcionarios.
+Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá cinco Fiscales; las Cortes de Apelaciones de Valparaíso y Presidente Aguirre Cerda tendrán tres Fiscales; las Cortes de Apelaciones de Concepción y Temuco tendrán dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal, como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 #### Artículo 59
 
-Las Cortes de Apelaciones tendrán el número de Relatores que a continuación se indica:
+Las Cortes de Apelaciones tendrán el número de relatores que a continuación se indican:
 
-1°.- Las Cortes de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Talca, Puerto Montt, Coyhaique y Punta Arenas tendrán un relator;
+1.- Las Cortes de Apelaciones de Arica, Iquique y Coyhaique tendrán un relator.
 
-2°.- Las Cortes de Chillán, Temuco y Valdivia, dos relatores;
+2.- Las Cortes de Apelaciones de Antofagasta, Copiapó, La Serena, Rancagua, Talca, Chillán, Valdivia, Puerto Montt y Punta Arenas, tendrán dos relatores.
 
-3°.- La Corte Presidente Aguirre Cerda, tres relatores;
+3.- La Corte de Apelaciones de Temuco tendrá tres relatores.
 
-4°.- Las Cortes de Valparaíso y Concepción, cuatro relatores;
+4.- La Corte de Apelaciones de Presidente Aguirre Cerda tendrá cinco relatores.
 
-5°.- La Corte de Santiago tendrá catorce relatores.
+5.- Las Cortes de Apelaciones de Valparaíso y Concepción tendrán seis relatores.
+
+6.- La Corte de Apelaciones de Santiago tendrá catorce relatores.
 
 #### Artículo 60
 
@@ -568,7 +568,7 @@ La Corte de Apelaciones de Santiago tendrá tres secretarios. El tribunal reglar
 
 Las Cortes de Valparaíso y Concepción se dividirán en tres salas de tres miembros cada una, con excepción de la primera, que tendrá cuatro miembros.
 
-La Corte de Presidente Aguirre Cerda se dividirá en dos salas de cuatro y tres ministros respectivamente.
+La Corte de Presidente Aguirre Cerda se dividirá en dos salas de cinco y cuatro ministros respectivamente.
 
 La Corte de Santiago se dividirá en siete salas de tres miembros cada una, excepto la primera, la segunda y la tercera, que se compondrá de cuatro ministros. En caso de funcionamiento extraordinario en ocho salas, la octava sala será integrada por un ministro de cada una de las salas primera, segunda y tercera, designados por sorteo.
 
@@ -858,7 +858,7 @@ Corresponde a la Corte Suprema en Pleno:
 
 2.o.- Conocer de las apelaciones que se deduzcan en las causas por desafuero de Senadores y Diputados a que se refieren los artículos 33, 34 y 35 de la Constitución Política;
 
-3.o.- Conocer, en segunda instancia, de los juicios de amovilidad fallados en primera por las Cortes de Apelaciones o por el Presidente de la Corte Suprema, seguidos contra jueces de letras de mayor cuantía o Ministros de Cortes de Apelaciones, respectivamente,
+3.o.- Conocer, en segunda instancia, de los juicios de amovilidad fallados en primera por las Cortes de Apelaciones o por el Presidente de la Corte Suprema, seguidos contra jueces de letras o Ministros de Cortes de Apelaciones, respectivamente,
 
 4.o.- Ejercer las facultades administrativas, disciplinarias y económicas que las leyes le asignan, sin perjuicio de las que les correspondan a las Salas en los asuntos que estén conociendo, en conformidad a los artículos 542 y 543. En uso de tales facultades, podrá determinar la forma de funcionamiento de los Tribunales y demás servicios judiciales, fijando los días y horas de trabajo en atención a las necesidades del servicio;
 
@@ -1186,7 +1186,7 @@ La justificación, regulación y repartimiento de la avería común se harán an
 
 #### Artículo 146
 
-Conocerá de todos los asuntos a que se refiere el Código de Minas, el juez letrado de mayor cuantía que tenga jurisdicción en el departamento o sección de departamento en que esté ubicada la pertenencia. Lo cual se entiende sin perjuicio de las disposiciones especiales que se establecen en el mismo Código de Minas, en este Código y en el de Procedimiento Civil.
+Conocerá de todos los asuntos a que se refiere el Código de Minas, el juez letrado que tenga jurisdicción en el departamento o sección de departamento en que esté ubicada la pertenencia. Lo cual se entiende sin perjuicio de las disposiciones especiales que se establecen en el mismo Código de Minas, en este Código y en el de Procedimiento Civil.
 
 #### Artículo 147
 
@@ -1266,7 +1266,7 @@ Cuando, siendo procedente la desacumulación, en alguno de los sumarios se inves
 
 #### Artículo 161
 
-Si un mismo reo tuviere procesos pendientes por faltas y por crímenes o simples delitos, el juez de letras de mayor cuantía será el solo competente para conocer de todos ellos.
+Si un mismo reo tuviere procesos pendientes por faltas y por crímenes o simples delitos, el juez de letras será el solo competente para conocer de todos ellos.
 
 #### Artículo 162
 
@@ -1582,9 +1582,9 @@ De la implicancia de jueces que sirven en tribunales colegiados conocerá el tri
 
 De la recusación de un juez de distrito conocerá el juez de subdelegación respectivo.
 
-De la de un Juez de Subdelegación, conocerá el Juez de Letras de Mayor Cuantía respectivo.
+De la de un Juez de Subdelegación, conocerá el Juez de Letras respectivo.
 
-De la de un juez de letras de mayor cuantía conocerá la Corte de Apelaciones.
+De la de un juez de letras conocerá la Corte de Apelaciones.
 
 De la de uno o más miembros de una Corte de Apelaciones conocerá la Corte Suprema.
 
@@ -1628,27 +1628,27 @@ Suprimido.
 
 #### Artículo 211
 
-En todos los casos en que el juez de letras de mayor cuantía falte o no pueda conocer de determinados negocios, será subrogado por el secretario del mismo tribunal siempre que sea abogado.
+En todos los casos en que el juez de letras falte o no pueda conocer de determinados negocios, será subrogado por el secretario del mismo tribunal siempre que sea abogado.
 
 Sólo a falta de dicho secretario la subrogación se efectuará en la forma que se establece en los artículos siguientes.
 
 #### Artículo 212
 
-Si en el departamento hay dos jueces de letras de mayor cuantía, aunque sean de distinta jurisdicción, la falta de uno de ellos será suplida por el Secretario del otro que sea abogado, y a falta de éste, por el juez de este otro juzgado.
+Si en el departamento hay dos jueces de letras, aunque sean de distinta jurisdicción, la falta de uno de ellos será suplida por el Secretario del otro que sea abogado, y a falta de éste, por el juez de este otro juzgado.
 
-Si hay más de dos jueces de letras de mayor cuantía de una misma jurisdicción, la subrogación de cada uno se hará, en la forma señalada en el inciso anterior, por el que le siga en el orden numérico de los juzgados y el del primero reemplazará al del último.
+Si hay más de dos jueces de letras de una misma jurisdicción, la subrogación de cada uno se hará, en la forma señalada en el inciso anterior, por el que le siga en el orden numérico de los juzgados y el del primero reemplazará al del último.
 
 En caso de haber más de dos de distinta jurisdicción, la subrogación corresponderá a los otros de la misma jurisdicción, conforme al inciso anterior, y si ello no es posible, la subrogación se hará por el secretario que sea abogado y a falta de éste por el juez de la otra jurisdicción a quien corresponda el turno siguiente.
 
 #### Artículo 213
 
-En los departamentos en que haya un solo juez de letras de mayor cuantía y siempre que el secretario no pueda reemplazarlo, o no pueda tener lugar lo dispuesto en los dos artículos precedentes, el juez de letras será subrogado por el defensor público o por el más antiguo de ellos, cuando haya más de uno.
+En los departamentos en que haya un solo juez de letras y siempre que el secretario no pueda reemplazarlo, o no pueda tener lugar lo dispuesto en los dos artículos precedentes, el juez de letras será subrogado por el defensor público o por el más antiguo de ellos, cuando haya más de uno.
 
 Si por inhabilidad, implicancia o recusación, el defensor público no puede ejercer las funciones que le encomienda esta ley, ellas serán desempeñadas por algunos de los abogados de la terna que anualmente formará la Corte de Apelaciones respectiva. No se podrá ocurrir al segundo abogado designado en la terna, sino en el caso de faltar o estar inhabilitado el primero, ni al tercero, sino cuando falten o estén inhabilitados los dos anteriores.
 
 En defecto de todos los designados en los incisos precedentes, subrogará el secretario abogado del Juzgado del departamento más inmediato, o sea, el de aquél con cuya ciudad cabecera sean más fáciles y rápidas las comunicaciones, aunque dependan de distintas Cortes de Apelaciones, pero sin alterarse la jurisdicción de la primitiva Corte. A falta o impedimento de éste, la subrogación la hará el Juez de dicho Tribunal, pudiendo, el uno o el otro, según corresponda, constituirse en el Juzgado que se subroga.
 
-Para los efectos de lo establecido en el inciso 2° de este artículo, en el mes de Noviembre de cada año los jueces letrados de mayor cuantía de los departamentos en que exista un solo juzgado de letras elevarán a la Corte de Apelaciones respectiva una nómina de los abogados domiciliados en las cabeceras del departamento, con indicación de su antigüedad y demás observaciones que crean oportunas. En el mes de Enero de cada año las Cortes de Apelaciones elegirán entre los nombres que figuren en esta lista una terna de los abogados que deban reemplazar al juez de letras de mayor cuantía en cada uno de esos departamentos.
+Para los efectos de lo establecido en el inciso 2° de este artículo, en el mes de Noviembre de cada año los jueces letrados de los departamentos en que exista un solo juzgado de letras elevarán a la Corte de Apelaciones respectiva una nómina de los abogados domiciliados en las cabeceras del departamento, con indicación de su antigüedad y demás observaciones que crean oportunas. En el mes de Enero de cada año las Cortes de Apelaciones elegirán entre los nombres que figuren en esta lista una terna de los abogados que deban reemplazar al juez de letras en cada uno de esos departamentos.
 
 #### Artículo 214
 
@@ -1920,7 +1920,7 @@ Los que hubieren obtenido el título de alguna profesión liberal podrán ser ju
 
 #### Artículo 250
 
-Para ser Juez de Letras de Mayor Cuantía, o Ministro de la Corte Suprema y de las Cortes de Apelaciones, deberán cumplirse las condiciones prescritas en el párrafo 3.o de este Título, los requisitos que se exigen en los artículos siguientes; y los señalados en el párrafo 2.o del Título I del DFL. N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, cuando se tratare del ingreso a la carrera.
+Para ser Juez de Letras, o Ministro de la Corte Suprema y de las Cortes de Apelaciones, deberán cumplirse las condiciones prescritas en el párrafo 3.o de este Título, los requisitos que se exigen en los artículos siguientes; y los señalados en el párrafo 2.o del Título I del DFL. N.o 338, de 6 de Abril de 1960, sobre Estatuto Administrativo, cuando se tratare del ingreso a la carrera.
 
 #### Artículo 251
 
@@ -1928,7 +1928,7 @@ Derogado.
 
 #### Artículo 252
 
-Para ser juez de letras de mayor cuantía, se requiere:
+Para ser juez de letras, se requiere:
 
 1°) Ciudadanía natural o legal;
 
@@ -1936,7 +1936,7 @@ Para ser juez de letras de mayor cuantía, se requiere:
 
 3°) Tener el título de abogado.
 
-Sin perjuicio de lo dispuesto en el artículo 280, los abogados y los funcionarios judiciales que no sean jueces de letras de mayor cuantía y que según las reglas del párrafo tercero de este título puedan optar a estos últimos cargos deberán cumplir, además, con las condiciones siguientes:
+Sin perjuicio de lo dispuesto en el artículo 280, los abogados y los funcionarios judiciales que no sean jueces de letras y que según las reglas del párrafo tercero de este título puedan optar a estos últimos cargos deberán cumplir, además, con las condiciones siguientes:
 
 Para ser juez de departamento donde no está ubicada la capital de la provincia: haber ejercido por dos años la profesión de abogado;
 
@@ -2026,11 +2026,11 @@ Las funciones judiciales son incompatibles con toda otra remunerada con fondos f
 
 #### Artículo 262
 
-Los jueces de distrito y de subdelegación serán nombrados por el gobernador del departamento a propuesta en terna del juez de letras de mayor cuantía.
+Los jueces de distrito y de subdelegación serán nombrados por el gobernador del departamento a propuesta en terna del juez de letras.
 
 #### Artículo 263
 
-Los jueces de letras de mayor cuantía, los ministros de la Corte Suprema y de las Cortes de Apelaciones y los demás funcionarios judiciales serán nombrados por el Presidente de la República, con sujeción a las normas que se indican en los artículos siguientes.
+Los jueces de letras, los ministros de la Corte Suprema y de las Cortes de Apelaciones y los demás funcionarios judiciales serán nombrados por el Presidente de la República, con sujeción a las normas que se indican en los artículos siguientes.
 
 #### Artículo 264
 
@@ -2042,7 +2042,7 @@ Habrá también, un Escalafón Especial del personal subalterno.
 
 #### Artículo 265
 
-En el Escalafón Primario figurarán los miembros y fiscales de la Corte Suprema y de las Cortes de Apelaciones, los jueces letrados de mayor cuantía, los relatores, los secretarios de Cortes y de juzgados de letras de mayor cuantía y los defensores públicos.
+En el Escalafón Primario figurarán los miembros y fiscales de la Corte Suprema y de las Cortes de Apelaciones, los jueces letrados, los relatores, los secretarios de Cortes y de juzgados de letras y los defensores públicos.
 
 En el Escalafón Secundario figurarán los notarios, conservadores, archiveros, procuradores del número, receptores y asistentes sociales judiciales.
 
@@ -2066,19 +2066,19 @@ PRIMERA CATEGORIA. Miembros y fiscal de la Corte Suprema.
 
 SEGUNDA CATEGORIA. Miembros y fiscales de las Cortes de Apelaciones; y relatores y secretarios de la Corte Suprema.
 
-TERCERA CATEGORIA. Jueces letrados de mayor cuantía que funcionen en el asiento de una Corte de Apelaciones; y relatores y secretarios de Cortes de Apelaciones.
+TERCERA CATEGORIA. Jueces letrados que funcionen en el asiento de una Corte de Apelaciones; y relatores y secretarios de Cortes de Apelaciones.
 
-CUARTA CATEGORIA. Jueces letrados de mayor cuantía de capital de provincia; y defensores públicos de Santiago y de Valparaíso.
+CUARTA CATEGORIA. Jueces letrados de capital de provincia; y defensores públicos de Santiago y de Valparaíso.
 
-QUINTA CATEGORIA. Jueces letrados de mayor cuantía de departamento, y secretarios de juzgados de letras de mayor cuantía de asiento de Corte de Apelaciones.
+QUINTA CATEGORIA. Jueces letrados de departamento, y secretarios de juzgados de letras de asiento de Corte de Apelaciones.
 
-SEXTA CATEGORIA. Secretarios de juzgados de letras de mayor cuantía de capital de provincia; Defensores públicos de asiento de Corte y de capital de provincia.
+SEXTA CATEGORIA. Secretarios de juzgados de letras de capital de provincia; Defensores públicos de asiento de Corte y de capital de provincia.
 
-SEPTIMA CATEGORIA. Secretarios de Juzgados de Letras de Mayor Cuantía de Departamento; Defensores públicos de departamento; Prosecretario de la Corte Suprema; y Secretario Abogado del Fiscal de la misma Corte.
+SEPTIMA CATEGORIA. Secretarios de Juzgados de Letras de Departamento; Defensores públicos de departamento; Prosecretario de la Corte Suprema; y Secretario Abogado del Fiscal de la misma Corte.
 
 #### Artículo 268
 
-Los jueces letrados de departamento y los secretarios de juzgados de letras de mayor cuantía, con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
+Los jueces letrados de departamento y los secretarios de juzgados de letras, con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
 
 Igual regla se aplicará a los defensores públicos de las categorías sexta y séptima, con más de diez años de permanencia en el cargo o de veinte en el servicio judicial.
 
@@ -2130,9 +2130,9 @@ Las reformas que incidan en las reclamaciones se comunicarán también al Minist
 
 #### Artículo 273
 
-Los jueces de letras de mayor cuantía y jueces especiales de menores elevarán a la respectiva Corte de Apelaciones, antes del 1.° de diciembre de cada año, un informe con la apreciación que les merezcan los funcionarios de su dependencia, atendida su eficiencia, celo y moralidad en el desempeño de su cargo y con las medidas disciplinarias que se les hubiere impuesto en el año.
+Los jueces de letras y jueces especiales de menores elevarán a la respectiva Corte de Apelaciones, antes del 1.° de diciembre de cada año, un informe con la apreciación que les merezcan los funcionarios de su dependencia, atendida su eficiencia, celo y moralidad en el desempeño de su cargo y con las medidas disciplinarias que se les hubiere impuesto en el año.
 
-Las Cortes de Apelaciones enviarán a la Corte Suprema en los últimos cinco días de cada año, un informe confidencial con la apreciación que les merezcan, para los efectos de la calificación a que se refiere el artículo 275, los Relatores y Secretarios de las Cortes, los Jueces de Letras de Mayor Cuantía, los Jueces de Letras de Menores y los funcionarios auxiliares del respectivo territorio jurisdiccional de dichas Cortes, indicando, además, las medidas disciplinarias que se les hubieren impuesto.
+Las Cortes de Apelaciones enviarán a la Corte Suprema en los últimos cinco días de cada año, un informe confidencial con la apreciación que les merezcan, para los efectos de la calificación a que se refiere el artículo 275, los Relatores y Secretarios de las Cortes, los Jueces de Letras, los Jueces de Letras de Menores y los funcionarios auxiliares del respectivo territorio jurisdiccional de dichas Cortes, indicando, además, las medidas disciplinarias que se les hubieren impuesto.
 
 En este mismo plazo, el fiscal de la Corte Suprema enviará análogo informe a este tribunal, respecto de los fiscales de las Cortes de Apelaciones.
 
@@ -2160,7 +2160,7 @@ En la lista número uno, figurarán los funcionarios sobresalientes; en la lista
 
 En caso de producirse empate de votos, respecto de si un funcionario debe figurar en las listas uno, dos, tres o cuatro, se repetirá la votación, y si se produce un segundo empate, decidirá el voto del que preside. Si no se reuniere el quorum legal para incluir en la lista número cuatro a los funcionarios que gocen de inamovilidad, quedarán incluidos en la lista número tres.
 
-La calificación efectuada por los Jueces de Letras de Mayor Cuantía y por los de Menores, será apelable ante las Cortes de Apelaciones respectivas; tales apelaciones serán vistas, en cuenta, por el Tribunal Pleno de cada Corte. Las calificaciones efectuadas por las Cortes de Apelaciones serán apelables ante la Corte Suprema, la que las resolverá en cuenta. Las calificaciones que efectúe la Corte Suprema sólo serán susceptibles del recurso de reposición. Este recurso deberá interponerse dentro del plazo de cinco días, contados desde la fecha en que se efectuó la transcripción de la calificación. Si el afectado desempeñare sus funciones fuera del Departamento de Santiago, dicho plazo se aumentará en la misma forma que el de emplazamiento para contestar demandas, según lo dispuesto en los artículos 258 y 259 del Código de Procedimiento Civil.
+La calificación efectuada por los Jueces de Letras y por los de Menores, será apelable ante las Cortes de Apelaciones respectivas; tales apelaciones serán vistas, en cuenta, por el Tribunal Pleno de cada Corte. Las calificaciones efectuadas por las Cortes de Apelaciones serán apelables ante la Corte Suprema, la que las resolverá en cuenta. Las calificaciones que efectúe la Corte Suprema sólo serán susceptibles del recurso de reposición. Este recurso deberá interponerse dentro del plazo de cinco días, contados desde la fecha en que se efectuó la transcripción de la calificación. Si el afectado desempeñare sus funciones fuera del Departamento de Santiago, dicho plazo se aumentará en la misma forma que el de emplazamiento para contestar demandas, según lo dispuesto en los artículos 258 y 259 del Código de Procedimiento Civil.
 
 En la lista número uno se colocará a los funcionarios que además de tener moralidad intachable, reúnan cualidades sobresalientes de criterio y preparación jurídica, vocación profesional, laboriosidad, eficiencia y celo en el cumplimiento de sus deberes y obligaciones.
 
@@ -2186,7 +2186,7 @@ La inclusión en la lista número cuatro deberá ser comunicada al Ministerio de
 
 #### Artículo 278
 
-Los Jueces de Letras de Mayor Cuantía y los Jueces de Letras de Menores, efectuarán anualmente, durante la primera quincena de Noviembre, una calificación de los empleados de secretaría y de los oficiales de sala de su dependencia, con el objeto de formar las cuatro listas a que se refiere el artículo 275 del presente Código.
+Los Jueces de Letras y los Jueces de Letras de Menores, efectuarán anualmente, durante la primera quincena de Noviembre, una calificación de los empleados de secretaría y de los oficiales de sala de su dependencia, con el objeto de formar las cuatro listas a que se refiere el artículo 275 del presente Código.
 
 En la lista número uno se colocará a los empleados que además de tener moralidad intachable, reúnan cualidades sobresalientes de preparación, vocación profesional y celo en el cumplimiento de sus deberes y obligaciones. Los Oficiales de Sala figurarán en la lista número uno cuando reúnan cualidades sobresalientes de moralidad intachable de eficiencia y de puntualidad y celo en el cumplimiento de sus obligaciones.
 
@@ -2374,13 +2374,13 @@ El escalafón del personal subalterno se compondrá de las siguientes categoría
 
 Primera categoría: Oficiales 1º y 2º de la Corte Suprema, Secretario-Abogado del Fiscal de la Corte Suprema, Oficiales 1ºs. de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema;
 
-Segunda categoría: Oficiales 3ºs. de la Corte Suprema, Oficiales 2ºs. de las Cortes de Apelaciones, Bibliotecario Estadístico de la Corte de Apelaciones de Santiago y Oficiales 1ºs. de los Juzgados Letras de Mayor Cuantía de asiento de Corte;
+Segunda categoría: Oficiales 3ºs. de la Corte Suprema, Oficiales 2ºs. de las Cortes de Apelaciones, Bibliotecario Estadístico de la Corte de Apelaciones de Santiago y Oficiales 1ºs. de los Juzgados Letras de asiento de Corte;
 
-Tercera categoría: Oficiales 4ºs. de la Corte Suprema, Oficiales 3ºs. de las Cortes de Apelaciones, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte, Oficiales 4ºs. de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos Tribunales, Estadístico de la Corte de Apelaciones de Concepción, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte y Oficiales 1ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia;
+Tercera categoría: Oficiales 4ºs. de la Corte Suprema, Oficiales 3ºs. de las Cortes de Apelaciones, Oficiales 2ºs. de los Juzgados de Letras de asiento de Corte, Oficiales 4ºs. de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos Tribunales, Estadístico de la Corte de Apelaciones de Concepción, Oficiales 3ºs. de los Juzgados de Letras de asiento de Corte y Oficiales 1ºs. de los Juzgados de Letras de capital de provincia;
 
-Cuarta categoría: Oficiales 4ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte, Oficiales de los Defensores Públicos de Santiago y Valparaíso, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 1ºs. de los Juzgados de Letras de Mayor Cuantía de departamento;
+Cuarta categoría: Oficiales 4ºs. de los Juzgados de Letras de asiento de Corte, Oficiales de los Defensores Públicos de Santiago y Valparaíso, Oficiales 2ºs. de los Juzgados de Letras de capital de provincia, Oficiales 1ºs. de los Juzgados de Letras de departamento;
 
-Quinta Categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de la Biblioteca de la Corte Suprema, Oficiales 3os. y 4os. de Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 2os. y 3os. de los Juzgados de Letras de Mayor Cuantía de Departamento y Oficial interprete de los Juzgados de Temuco.
+Quinta Categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de la Biblioteca de la Corte Suprema, Oficiales 3os. y 4os. de Juzgados de Letras de capital de provincia, Oficiales 2os. y 3os. de los Juzgados de Letras de Departamento y Oficial interprete de los Juzgados de Temuco.
 
 Sexta Categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los Juzgados de Letras de mayor y de Menor Cuantía y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia.
 
@@ -2448,7 +2448,7 @@ Los miembros de la Corte Suprema prestarán su juramento ante el presidente del 
 
 Los de las Cortes de Apelaciones ante el presidente del respectivo tribunal.
 
-Ante el mismo funcionario lo prestarán también los jueces de letras de mayor cuantía.
+Ante el mismo funcionario lo prestarán también los jueces de letras.
 
 #### Artículo 301
 
@@ -2526,7 +2526,7 @@ Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, c
 
 #### Artículo 314
 
-Durante el feriado de vacaciones funcionarán de lunes a viernes de cada semana los jueces de letras de mayor cuantía que ejerzan jurisdicción en lo civil para conocer de aquellos asuntos a que se refiere el inciso segundo de este artículo. En los departamentos en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva. En Santiago funcionarán dos juzgados de letras de mayor cuantía en lo civil, de acuerdo con el turno que señale la Corte de Apelaciones de Santiago para tal efecto. La distribución de las causas entre estos juzgados se hará por el Presidente de este Tribunal.
+Durante el feriado de vacaciones funcionarán de lunes a viernes de cada semana los jueces de letras que ejerzan jurisdicción en lo civil para conocer de aquellos asuntos a que se refiere el inciso segundo de este artículo. En los departamentos en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva. En Santiago funcionarán dos juzgados de letras en lo civil, de acuerdo con el turno que señale la Corte de Apelaciones de Santiago para tal efecto. La distribución de las causas entre estos juzgados se hará por el Presidente de este Tribunal.
 
 Los jueces durante el feriado de vacaciones deberán conocer de todas las cuestiones de jurisdicción voluntaria, de los juicios posesorios, de los asuntos a que se refiere el N° 1 del artículo 680 del Código de Procedimiento Civil, de los juicios de alimentos, de los juicios del trabajo y de los asuntos relativos a menores cuando les corresponda, de las medidas prejudiciales y precautorias, de las gestiones a que dé lugar la notificación de protestos de cheques, de los juicios ejecutivos hasta la traba de embargo inclusive, y de todas aquellas cuestiones respecto de las cuales se conceda especialmente habilitación de feriado. En todo caso, deberán admitirse a tramitación las demandas, de cualquiera naturaleza que ellas sean, para el solo efecto de su notificación.
 
@@ -3084,7 +3084,7 @@ Cuando algún secretario se enfermare, o falleciere, o estuviere implicado, o fu
 
 El secretario de la Corte Suprema por el prosecretario y el de una Corte de Apelaciones, por el otro, si lo hubiere.
 
-El de un juzgado de letras de mayor cuantía, por el oficial primero de la secretaría.
+El de un juzgado de letras, por el oficial primero de la secretaría.
 
 Cuando no puedan observarse las reglas dadas en los dos incisos anteriores, la subrogación se hará por el oficial primero de la Corte o por el ministro de fe que respectivamente designen los presidentes de las referidas Cortes o el juez en su caso.
 
@@ -3202,7 +3202,7 @@ Son funciones de los notarios:
 
 #### Artículo 402
 
-Cuando un notario faltare o se inhabilitare para el ejercicio de sus funciones, el juez de letras de mayor cuantía respectivo de turno, designará al abogado que haya de reemplazarle, mientras dura el impedimento o estuviere sin proveerse el cargo.
+Cuando un notario faltare o se inhabilitare para el ejercicio de sus funciones, el juez de letras respectivo de turno, designará al abogado que haya de reemplazarle, mientras dura el impedimento o estuviere sin proveerse el cargo.
 
 2). De las escrituras públicas
 
@@ -3568,7 +3568,7 @@ Ningún cargo de fiscal, de defensor público o de relator podrá permanecer vac
 
 Los oficiales del ministerio público, los defensores, los relatores y los demás auxiliares de la Administración de Justicia, serán nombrados por el Presidente de la República previa propuesta de la Corte Suprema o de la Corte de Apelaciones respectiva, en conformidad a las disposiciones contenidas en el párrafo tercero del Título X del presente Código.
 
-Los receptores de los juzgados de distrito y subdelegación serán nombrados por el gobernador del departamento dentro del cual deben ejercer sus funciones, previa propuesta del respectivo juez de letras de mayor cuantía o del funcionario que en el departamento hiciere las veces de tal.
+Los receptores de los juzgados de distrito y subdelegación serán nombrados por el gobernador del departamento dentro del cual deben ejercer sus funciones, previa propuesta del respectivo juez de letras o del funcionario que en el departamento hiciere las veces de tal.
 
 Para la designación de los funcionarios a que se refieren los incisos anterior deberán cumplirse, además, los requisitos que se indican en los artículos siguientes.
 
@@ -3584,11 +3584,11 @@ Para ser fiscal de la Corte Suprema o de una Corte de Apelaciones se requieren l
 
 #### Artículo 462
 
-Pueden ser defensores públicos los que pueden ser jueces de letras de mayor cuantía del respectivo departamento.
+Pueden ser defensores públicos los que pueden ser jueces de letras del respectivo departamento.
 
 #### Artículo 463
 
-Para ser relator, secretario de la Corte Suprema o de las Cortes de Apelaciones y notario se requieren las mismas condiciones que para ser juez de letras de mayor cuantía de departamento.
+Para ser relator, secretario de la Corte Suprema o de las Cortes de Apelaciones y notario se requieren las mismas condiciones que para ser juez de letras de departamento.
 
 #### Artículo 464
 
@@ -3608,7 +3608,7 @@ No pueden ser notarios:
 
 #### Artículo 466
 
-Para ser secretario de un juzgado de letras de mayor cuantía, archivero y conservador se requiere ser abogado.
+Para ser secretario de un juzgado de letras, archivero y conservador se requiere ser abogado.
 
 Incisos derogados.
 
@@ -3728,7 +3728,7 @@ La prohibición del artículo 321 regirá también con los fiscales, defensores,
 
 Los notarios y los procuradores del número no podrán comprar los bienes en cuyo litigio han intervenido y que se vendan a consecuencia del litigio, aunque la venta se haga en pública subasta.
 
-La prohibición del art. 322 rige respecto de los secretarios de los juzgados de letras de mayor cuantía en lo civil y de los conservadores de minas.
+La prohibición del art. 322 rige respecto de los secretarios de los juzgados de letras en lo civil y de los conservadores de minas.
 
 #### Artículo 482
 
@@ -3954,7 +3954,7 @@ Los secretarios de las Cortes y de los juzgados, llevarán un libro en que anota
 
 #### Artículo 508
 
-Los juzgados de letras de mayor cuantía y los del trabajo, mantendrán una cuenta corriente bancaria de depósito en la oficina del Banco del Estado del lugar en que funcionen, o del más próximo al de asiento del tribunal.
+Los juzgados de letras y los del trabajo, mantendrán una cuenta corriente bancaria de depósito en la oficina del Banco del Estado del lugar en que funcionen, o del más próximo al de asiento del tribunal.
 
 Los pagos que deban hacer estos tribunales se efectuarán por medio de cheques girados contra esa cuenta, los que deberán llevar la firma del juez y del secretario y el timbre del tribunal.
 
@@ -4094,19 +4094,19 @@ De la jurisdicción disciplinaria y de la inspección y vigilancia de los servic
 
 #### Artículo 530
 
-Los jueces de distrito y de subdelegación y los jueces de letras de mayor cuantía están autorizados para reprimir o castigar los abusos que se cometieren dentro de la sala de su despacho y mientras ejercen sus funciones de tales, con alguno de los medios siguientes:
+Los jueces de distrito y de subdelegación y los jueces de letras están autorizados para reprimir o castigar los abusos que se cometieren dentro de la sala de su despacho y mientras ejercen sus funciones de tales, con alguno de los medios siguientes:
 
 1°) Amonestación verbal e inmediata;
 
-2°) Multa que no exceda de un cuarto, medio o dos sueldos vitales, según se trate, respectivamente, de un juez de distrito, de subdelegación o de un juez de letras de mayor cuantía, y
+2°) Multa que no exceda de un cuarto, medio o dos sueldos vitales, según se trate, respectivamente, de un juez de distrito, de subdelegación o de un juez de letras, y
 
-3°) Arresto que no exceda de veinticuatro o cuarenta y ocho horas, según se trate de un juez de distrito en el primer caso, o de un juez de subdelegación en el segundo, y de cuatro días, si se trata de un juez de letras de mayor cuantía.
+3°) Arresto que no exceda de veinticuatro o cuarenta y ocho horas, según se trate de un juez de distrito en el primer caso, o de un juez de subdelegación en el segundo, y de cuatro días, si se trata de un juez de letras.
 
 Deberán emplear estos medios en el orden aquí expresado, y sólo podrán hacer uso de los dos últimos en caso de ineficacia o insuficiencia de los primeros.
 
 #### Artículo 531
 
-Podrán también los jueces de letras de mayor cuantía, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren:
+Podrán también los jueces de letras, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren:
 
 1°) Mandar devolver el escrito con orden de que no se admita mientras no se supriman las palabras o pasajes abusivos;
 
@@ -4118,11 +4118,11 @@ Podrán también los jueces de letras de mayor cuantía, para la represión o ca
 
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 
-Podrán los jueces de letras de mayor cuantía hacer uso de cualquiera de estos medios, o de dos o más de ellos simultáneamente, según lo estimaren necesario.
+Podrán los jueces de letras hacer uso de cualquiera de estos medios, o de dos o más de ellos simultáneamente, según lo estimaren necesario.
 
 #### Artículo 532
 
-A los jueces de letras de mayor cuantía corresponde inmediatamente mantener la disciplina judicial en toda la extensión del departamento sujeto a su autoridad, haciendo observar las leyes relativas a la administración de justicia y los deberes de los emplados subalternos y demás personas que ejercen funciones concernientes a ella.
+A los jueces de letras corresponde inmediatamente mantener la disciplina judicial en toda la extensión del departamento sujeto a su autoridad, haciendo observar las leyes relativas a la administración de justicia y los deberes de los empleados subalternos y demás personas que ejercen funciones concernientes a ella.
 
 En consecuencia, deberán vigilar la conducta ministerial de los jueces de distrito y subdelegación y de todas las personas que ejercen funciones concernientes a la administración de justicia y que se hallen sujetas a su autoridad.
 
@@ -4132,9 +4132,11 @@ Las faltas o abusos en la conducta ministerial de las personas expresadas en el 
 
 2) Censura por escrito;
 
-3) Multa de uno a quince días de sueldo o de una cantidad que no exceda de quince sueldos vitales mensuales para la Región Metropolitana de Santiago, y 4) Suspensión de sus funciones hasta por un mes, gozando del cincuenta por ciento de sus remuneraciones, cuando procediere.
+3) Multa de uno a quince días de sueldo o de una cantidad que no exceda de quince sueldos vitales mensuales para la Región Metropolitana de Santiago, y
 
-Las faltas o abusos de los notarios se castigarán disciplinariamente por las Cortes de Apelaciones, las cuales podrán delegar estas atribuciones en los jueces de leras correspondientes cuando la notaría no se halle en el mismo lugar del asiento de la corte.
+4) Suspensión de sus funciones hasta por un mes, gozando del cincuenta por ciento de sus remuneraciones, cuando procediere.
+
+Las faltas o abusos de los notarios se castigarán disciplinariamente por las Cortes de Apelaciones, las cuales podrán delegar estas atribuciones en los jueces de letras correspondientes cuando la notaría no se halle en el mismo lugar del asiento de la corte.
 
 Las providencias que tomaren los jueces en el ejercicio de sus facultades disciplinarias se entenderán sin perjuicio de formarse el proceso correspondiente al empleado que hubiere faltado gravemente a sus deberes o cuya conducta diere lugar a presumir que ha habido en ella dolo o malicia.
 
@@ -4214,7 +4216,7 @@ Para la represión y castigo de las faltas que se cometieren ante la Corte Supre
 
 Este arresto será siempre conmutable en multa, en proporción de medio sueldo vital por cada día.
 
-Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras de mayor cuantía, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
+Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
 
 #### Artículo 543
 
@@ -4322,7 +4324,7 @@ La renuncia voluntaria presentada por un funcionario judicial deberá acompañar
 
 #### Artículo 553
 
-Las Cortes de Apelaciones dispondrán que los jueces de letras de mayor cuantía en lo civil, practiquen visitas a los juzgados de subdelegación y distrito una vez cada tres años por lo menos.
+Las Cortes de Apelaciones dispondrán que los jueces de letras en lo civil, practiquen visitas a los juzgados de subdelegación y distrito una vez cada tres años por lo menos.
 
 Los jueces visitadores darán cuenta de su visita a la Corte de Apelaciones respectiva y ésta lo comunicará a la Corte Suprema y al Presidente de la República.
 
@@ -4392,19 +4394,19 @@ Cuando la Suprema Corte constituya en visita a alguno de sus ministros, lo que s
 
 #### Artículo 564
 
-Los jueces de letras de mayor cuantía, como encargados de mantener la disciplina judicial deberán vigilar la conducta ministerial de los procuradores y demás personas que ejercen funciones concernientes a la administración de justicia y que se hallen sujetas a su autoridad.
+Los jueces de letras, como encargados de mantener la disciplina judicial deberán vigilar la conducta ministerial de los procuradores y demás personas que ejercen funciones concernientes a la administración de justicia y que se hallen sujetas a su autoridad.
 
 Deberán, en consecuencia, visitar, por lo menos, cada dos meses, los oficios de los secretarios, conservadores y archiveros del departamento, para examinar los archivos y libros que estos ministros tienen a su cargo; e informarse por otros medios prudentes del modo cómo desempeñan sus funciones.
 
 De estas visitas se levantará acta en un libro especial que al efecto habrá en el juzgado de letras más antiguo de cada departamento.
 
-En los departamentos en que hubiere varios jueces de letras de mayor cuantía, la Corte de Apelaciones respectiva designará el que deba hacer la visita distribuyendo este cargo equitativamente entre todos ellos, pero la visita del oficio del secretario se hará siempre por el juez respectivo.
+En los departamentos en que hubiere varios jueces de letras, la Corte de Apelaciones respectiva designará el que deba hacer la visita distribuyendo este cargo equitativamente entre todos ellos, pero la visita del oficio del secretario se hará siempre por el juez respectivo.
 
 En las ciudades en que hubiere Corte de Apelaciones, las visitas prevenidas en el inciso segundo de este artículo y en el artículo 566 se practicarán por uno de los ministros, conforme al turno que la Corte establezca.
 
 #### Artículo 565
 
-En la forma indicada en el inciso final del artículo anterior, las Cortes de Apelaciones deberán efectuar visitas cada dos meses, o cuando lo estimen conveniente, a los oficios de los notarios de su jurisdicción, con el fin de velar por el correcto cumplimiento de la ley. Si la notaría no se hallare en el mismo lugar de asiento de la Corte, podrá delegarse esta atribución en el juez de letras de mayor cuantía correspondiente.
+En la forma indicada en el inciso final del artículo anterior, las Cortes de Apelaciones deberán efectuar visitas cada dos meses, o cuando lo estimen conveniente, a los oficios de los notarios de su jurisdicción, con el fin de velar por el correcto cumplimiento de la ley. Si la notaría no se hallare en el mismo lugar de asiento de la Corte, podrá delegarse esta atribución en el juez de letras correspondiente.
 
 Las visitas bimestrales se contraerán exclusivamente a corregir los defectos de forma u omisiones subsanables en la manera de llevar y conservar los protocolos, asegurar el exacto cumplimiento de las obligaciones notariales e imponer las correcciones que los visitadores conceptúen justas y estén en sus facultades; y en caso contrario, dar cuenta a la Corte correspondiente.
 
@@ -4598,13 +4600,13 @@ Si el litigante pobre obtuviere en el juicio, será obligado a destinar una déc
 
 #### Artículo 595
 
-Incumbe a los jueces de letras de mayor cuantía designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles, y otro que defienda las criminales de las personas que hubieren obtenido o debieren gozar el mencionado privilegio. Con todo, cuando las necesidades lo requieran y el número de los abogados en ejercicio lo permitan, la Corte de Apelaciones respectiva podrá disponer que los Jueces de Letras designen dos o más abogados de turno para la defensa de las causas civiles o criminales y la forma como éstas se distribuirán entre los abogados designados.
+Incumbe a los jueces de letras designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles, y otro que defienda las criminales de las personas que hubieren obtenido o debieren gozar el mencionado privilegio. Con todo, cuando las necesidades lo requieran y el número de los abogados en ejercicio lo permitan, la Corte de Apelaciones respectiva podrá disponer que los Jueces de Letras designen dos o más abogados de turno para la defensa de las causas civiles o criminales y la forma como éstas se distribuirán entre los abogados designados.
 
 En la misma forma y para los mismos fines harán los jueces de letras a quienes se refiere el inciso precedente, las correspondientes designaciones de procuradores y receptores.
 
 Cuando alguna persona que goce del privilegio de pobreza no pueda ser servida por los abogados, procuradores y receptores nombrados, el juez de letras podrá designar un abogado, un procurador o un receptor especial que la sirva.
 
-En los departamentos en donde hubiere dos o más jueces de letras de mayor cuantía, hará las designaciones generales prevenidas en los dos primeros incisos de este artículo, el más antiguo, y las especiales del inciso precedente el que conociere del negocio en que han de aplicarse.
+En los departamentos en donde hubiere dos o más jueces de letras, hará las designaciones generales prevenidas en los dos primeros incisos de este artículo, el más antiguo, y las especiales del inciso precedente el que conociere del negocio en que han de aplicarse.
 
 Las designaciones generales de abogados, procuradores y receptores de turno deberán hacerse por las Cortes de Apelaciones para el departamento en que éstas tengan su residencia.
 
@@ -4700,7 +4702,7 @@ La ley N° 6073, de 9 de Septiembre de 1937, sobre Escalafón Judicial, no rebaj
 
 #### Artículo 7°
 
-Para determinar la antigüedad a que se refiere el artículo sexto del Decreto con Fuerza de Ley número 3390, expedido por el Ministerio de Justicia con fecha 29 de Diciembre de 1927, de aquellos funcionarios que cesaron en el desempeño de sus cargos en virtud del decreto supremo número 426, dictado por el Ministerio mencionado, el 28 de Febrero de 1927 y que posteriormente hubieren sido reincorporados a la Administración de Justicia, se computarán los servicios que hubieren prestado como promotores fiscales, siempre que estos cargos puedan equipararse a la misma categoría de los cargos judiciales en los cuales han sido reincorporados. Para esta equiparación se considerará al que fué promotor fiscal como juez de letras de mayor cuantía de la localidad respectiva.
+Para determinar la antigüedad a que se refiere el artículo sexto del Decreto con Fuerza de Ley número 3390, expedido por el Ministerio de Justicia con fecha 29 de Diciembre de 1927, de aquellos funcionarios que cesaron en el desempeño de sus cargos en virtud del decreto supremo número 426, dictado por el Ministerio mencionado, el 28 de Febrero de 1927 y que posteriormente hubieren sido reincorporados a la Administración de Justicia, se computarán los servicios que hubieren prestado como promotores fiscales, siempre que estos cargos puedan equipararse a la misma categoría de los cargos judiciales en los cuales han sido reincorporados. Para esta equiparación se considerará al que fué promotor fiscal como juez de letras de la localidad respectiva.
 
 #### Artículo 8°
 
