@@ -488,7 +488,7 @@ II) la proporción que representen las reservas técnicas y el patrimonio de rie
 
 III) el patrimonio consolidado de la emisora. Sin embargo, en el caso de empresas cuyo giro principal sea la realización de operaciones de leasing y aquellas a que se refiere el Título XVIII de la ley 18.045 de Mercado de Valores, este factor será definido por la Superintendencia, no pudiendo ser inferior a cuatro veces el patrimonio consolidado de la emisora , y
 
-f) Las inversiones en los instrumentos y activos de un fondo comprendidos en la letra dd) de dicho artículo, no podrán exceder del menor de los siguientes valores:
+f) Las inversiones en los instrumentos y activos de un fondo comprendidos en la letra f) de dicho artículo, no podrán exceder del menor de los siguientes valores:
 
 I) Fondos de Inversión Mobiliaria:
 
@@ -530,7 +530,7 @@ h)
 
 - **I)** del artículo 21 emitidos por una misma entidad no podrán exceder del 2% de las reservas técnicas y del patrimonio de riesgo;
 
-ii) las inversiones en los instrumentos comprendidos en el número 8) de la letra h) I) de dicho artículo emitidos por una misma entidad no podrán exceder del 1% de las reservas técnicas y del patrimonio de riesgo, como tampoco del 8% de sus acciones suscritas, e
+ii) las inversiones en los instrumentos comprendidos en el número 8) de la letra h) I) de dicho artículo emitidos por una misma entidad no podrán exceder del 1% de las reservas técnicas y del patrimonio de riesgo, como tampoco del 8% de sus acciones suscritas,
 
 i) el total de las inversiones en los instrumentos comprendidos en las letras b), c), e) y g) del artículo 21 emitidos por una misma sociedad anónima, banco, institución financiera o empresa y sus respectivas filiales, no podrá exceder del 10% de las reservas técnicas y del patrimonio de riesgo de la compañía inversionista.
 
@@ -556,9 +556,9 @@ Si una inversión representativa de reservas técnicas o de patrimonio de riesgo
 
 - **e)** y
 
-- **f)** del artículo 21, se produjere por un cambio de clasificación o, en el caso de las inversiones de la letra
+- **f)** del artículo 21, o en el caso de las inversiones de la letra
 
-- **g)** del mismo artículo, se produjere exclusivamente por un cambio de clasificación o por una disminución del índice de cobertura de gastos financieros, según fuere el caso, estas inversiones podrán seguir respaldando reservas técnicas y patrimonio de riesgo por un plazo no superior a seis meses a contar de la fecha del cambio o disminución. Sin embargo, el 50% de ellas podrán seguir sirviendo de respaldo por un período adicional de seis meses. Las inversiones así autorizadas mantendrán el factor de diversificación existente con anterioridad al cambio de clasificación o disminución del índice mientras se mantenga el problema que las afecta y, en caso de adquirir nuevos instrumentos de éstos durante dicho período, la compañía no podrá usarlos para respaldar sus reservas técnicas y patrimonio de riesgo.
+- **g)** del mismo artículo, se produjere exclusivamente por un cambio de clasificación o por una disminución del índice de cobertura de gastos financieros, según fuere el caso, estas inversiones podrán seguir respaldando reservas técnicas y patrimonio de riesgo por un plazo no superior a seis meses a contar de la fecha del cambio o disminución. Sin embargo, el 50% de ellas podrán seguir sirviendo de respaldo por un período adicional de seis meses. Las inversiones así autorizadas mantendrán el factor de diversificación existente con anterioridad al cambio de clasificación o disminución del índice, mientras se mantenga el problema que las afecta y, en caso de adquirir nuevos instrumentos de éstos durante dicho período, la compañía no podrá usarlos para respaldar sus reservas técnicas y patrimonio de riesgo.
 
 A las inversiones en el exterior a que se refiere el artículo 21, que dejaren de cumplir los requisitos señalados en dicho artículo para ser representativas de reservas técnicas y patrimonio de riesgo, se les aplicarán las reglas del inciso anterior.
 
@@ -782,7 +782,7 @@ De los auxiliares del comercio de seguros.
 
 #### Artículo 57
 
-Artículo 57.- Los seguros pueden ser contratados directamente con la entidad aseguradora a través de sus agentes de ventas, o bien, por intermedio de corredores de seguros independientes de éstas.
+Los seguros pueden ser contratados ya sea directamente con la entidad aseguradora, a través de sus agentes de ventas, o por intermedio de corredores de seguros independientes de éstas.
 
 Podrán ser agentes de ventas las personas que se dediquen a la comercialización o venta de seguros por cuenta de una compañía, no pudiendo prestar tales servicios en más de una entidad aseguradora en cada grupo de seguros.
 
