@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.160, de 29 de noviembre de 2002, se expropiaron los lotes de terreno Nºs. 28, 29, 30, 31 y 32, superficies 7.279 M2, 1.439 M2, 2.553 M2, 3.373 M2 y 52.686 M2, respectivamente, rol de avalúo Nº156-73, comuna de Curepto, VII Región, para la obra "Camino Reposición Rutas K-690 y M-20-K, Sector Cruce Rta. K-60 (Galleco) - Coipué - Carrizal, Km. 0,00000 al 35,99711, Tramo Km. 0,00650 al 9,77000" y se acordó el valor de indemnización con su propietario don José Eliecer Albornoz González y otros, ascendente a la cantidad de $53.238.540.-
+
+Fiscal del Ministerio de Obras Públicas.
