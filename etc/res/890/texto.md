@@ -1,0 +1,3 @@
+Por resolución N° 890, de 12 de Noviembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la resolución N° 653, de 1986, de esta Subsecretaría, que autorizó a COMPAÑIA NAVIERA Y PESQUERA TAURO LIMITADA, R.U.T. N° 79.632.560-7, para operar la nave "Afrodita III", en virtud de lo dispuesto en el artículo 143° letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 12 de Noviembre de 1993.- Alvaro Briones Ramírez, Subsecretario de Pesca Subrogante.
