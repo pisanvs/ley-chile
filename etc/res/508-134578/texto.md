@@ -1,0 +1,3 @@
+Por resolución Nº 508, del 30 de marzo de 1999, de esta Subsecretaría, recházase, conforme lo dispuesto en el artículo 67, inciso 5º de la Ley General de Pesca y Acuicultura y Nº 12 inciso 2 del D.S. Nº 175 de 1980 del Ministerio de Economía, Fomento y Reconstrucción la solicitud de concesión de acuicultura Nº 96101062, presentada por PESQUERA BEST SALMON LTDA., para operar un centro de cultivo en Sector Norte Isla Queullín, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 30 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
