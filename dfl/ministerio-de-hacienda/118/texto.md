@@ -1,0 +1,1 @@
+Suspende, por el plazo que señala, la aplicación del derecho que indica, en relación con la internación de carnes enfriadas y/o congeladas.
