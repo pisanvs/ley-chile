@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.461, de 29 de diciembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 22-9, para la obra: "Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C: Km. 56.300,00 al Km.
+
+68.450,00", Sexta Región, que figura a nombre de Rubio Caroca Manuel Lautaro, rol de avalúo 136-296, comuna de San Fco. Mostazal, superficie 3.429 m². La Comisión de Peritos integrada por los señores Paola Andrea Domingo Porcella, Jaime Rolando Jürgens Bittner y Andrés Echeverría Campo, fijó con fecha 11 de octubre de 2000, el valor provisional de la indemnización en la cantidad de $15.661.385.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
