@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.663, de 30 de junio de 2000, se expropió el lote de terreno Nº6-A, superficie 116 m2., Rol de avalúo 36-66, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario Ignacio Silva Palacios, ascendente a la cantidad de $859.604.
+
+- Fiscal del Ministerio de Obras Públicas.
