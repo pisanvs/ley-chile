@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 503, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+M.O.P. No. 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley No. 15.840, se expropió el lote de terreno No. 5, para la obra Camino Talca - Pencahue, Sector Puente Río Claro, Tramo Puente Río Claro, que figura a nombre de Asoc. Agrícola Central y Otros. Rol de avalúo 851-9, superficie 53 m2. La Comisión de peritos compuesta por los señores Carlos Sottolichio Díaz, Renato Guerra Estévez e Iván Correa Opazo, fijó con fecha 3 de marzo de 1997, el valor provisional de la indemnización en la cantidad de $ 1.439.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
