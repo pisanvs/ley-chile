@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCION EXENTA No. 354, DE 1988
+
+Por Resolución Exenta No. 354, de 10 de Agosto de 1988, la Subsecretaria de Telecomunicaciones aprobó la Norma Técnica para el Servicio Público de Telefonía Móvil Celular, que opera en la banda de 800 MHz. En la norma técnica se atribuyen las sub-bandas de frecuencia y los canales que se podrán utilizar en las celdas del servicio público de telefonía móvil celular, como también se establece el sistema AMPS y el principio de compatibilidad que debe existir entre las estaciones de abonado móvil, de modo que éstas puedan funcionar con cualquier sistema de telefonía móvil celular que se autorice en la banda de 800 MHz., en el país.
+
+La Subsecretaria de Telecomunicaciones proporcionará ejemplares de la citada Resolución a los interesados que tengan relación con las materias de que trata.-
+
+> **Nota.** El Artículo único de la Resolución 4477 Exenta, Transportes, publicada el 21.08.2010, modifica la presente norma en el sentido de que las bandas de frecuencia regulada, también podrá ser empleadas para suministrar servicio público de telefonía local inalámbrica. Establece además que las concesionarias de servicio público de telefonía móvil interesadas en suministrar el citado servicio fijo, deberán solicitar nuevas concesiones sobre la misma banda de frecuencias autorizada.
+
+> **Nota.** NOTA 1 El Artículo único de la Resolución 2097 Exenta, Transportes, publicada el 11.11.2025, modifica la presente norma, incorporando un artículo final a efectos de que las concesionarias de servicio público móvil asignatarias de las bandas de frecuencias presten sus servicios a través de satélite para una conectividad directa entre estaciones espaciales y los equipos de usuario de las Telecomunicaciones Móviles Internacionales (IMT), en los términos que la citada resolución indica. Sin embargo, no es posible incorporar dicha disposición, por cuanto la presente norma fue publicada en extracto.
+
+Gustavo Arenas Corral, Coronel de Ejército, Subsecretario de Telecomunicaciones.
