@@ -1,0 +1,7 @@
+#### Artículo 1
+
+<!-- parte:6025319 -->
+
+Por Resolución Exenta N° 1.689 de fecha 23.11.93, del Ministerio de Transportes y Telecomunicaciones, se autorizó complementariamente a la empresa argentina Compañía de Transportes Río de la Plata S.A., para efectuar servicio de transporte terrestre internacional de pasajeros entre San Carlos de Bariloche (Argentina) y Valdivia (Chile) y viceversa, utilizando el paso fronterizo de Puyehue, con Cuatro (4) Frecuencias Semanales de ida y vuelta.
+
+Sergio González Tagle, Subsecretario de Transportes.
