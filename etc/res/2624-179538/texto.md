@@ -1,0 +1,3 @@
+Por resolución Nº 2.624, de 18 de diciembre de 2000, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 2.455 de 2000, modificada mediante resolución Nº 2.539 de 2000, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación de Merluza de cola entre la V y la X Regiones'', en el sentido de señalar que el límite máximo de captura autorizado para el mes de diciembre se incrementará en 2.651 toneladas.
+
+Valparaíso, 18 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
