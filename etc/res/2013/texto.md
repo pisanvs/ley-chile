@@ -1,0 +1,3 @@
+Por Resolución N° 2.013, de 2 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por MARINE FARMS CHILE S.A., para un centro de cultivo ubicado al Sureste Caserío Auchao, comuna de Quellón, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 2 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
