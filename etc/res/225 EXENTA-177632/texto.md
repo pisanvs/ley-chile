@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 225 de 12 de Febrero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos y Sectores Expropiados predios "La Diana y Los Paltos", "Fundo La Línea hoy San José de Manantiales", "Resto del Fundo Arica", "Parte del Fundo Arica" y "Parte del Fundo Taulemu" de la comuna de Placilla, VI Región y Derechos Aprovechamiento de Aguas que corresponden a las parcelas Nºs. 1 a la 39, sitios Nºs. 1 al 27, 29 y 30 y Reserva CORA Nº 1 del Proyecto de Parcelación "Arica" formado por predios señalados. Los derechos de aguas se extraen de los canales Placillano, La Diana, Cervantino, Los Pérez y canal Zamorano y Jaramillo, todos derivados del río Tinguiririca; Merced de aguas subterráneas y derrames que se captan en el Estero Taulemu. Publicación hecha conforme Art. 13 Ley Nº 18.377.-
+
+Director Ejecutivo.
