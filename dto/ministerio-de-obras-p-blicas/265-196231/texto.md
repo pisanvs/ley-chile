@@ -1,0 +1,3 @@
+Por decreto MOP Nº 265, de 31 de enero de 2002, se expropió el lote de terreno Nº 4-1, superficie 6.011 m², rol de avalúo 1102-16, comuna de Cartagena, para la obra Red Vial Litoral Central. Sector 1. Nuevo Camino Costero. Subtramo: Cartagena - Las Cruces Km. -0,100,00 al Km. 1.100,00, Quinta Región, se acordó el valor de la indemnización con su propietaria doña Paola Andrea González Sánchez y Otros, ascendente a la cantidad de $39.353.729.
+
+- Fiscal del Ministerio de Obras Públicas.
