@@ -1,0 +1,3 @@
+Por Resolución Nº 350 de 21 de abril de 1997 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. Nº 2.186 de 1978, parte del inmueble ubicado en Avda. Carrascal Nº 4387, presunto rol de avalúos Nº 4115-5 comuna de Quinta Normal, de aparente dominio de Sucesión Annaiz Tejedor. Comisión integrada por peritos Teresa Sancho Pernas, arquitecto, Sergio Rojas Ibáñez, ingeniero civil y Luis Rojas Quezada, constructor civil según informe de 17 de diciembre de 1996 fijó monto provisional de indemnización en $8.052.000.- pagadera al contado.
+
+Director SERVIU Metropolitano.
