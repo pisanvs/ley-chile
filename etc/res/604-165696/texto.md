@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD COMERCIAL CONSERVERA SAN RAFAEL PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 604, de 13 de Diciembre de 1984, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la "Sociedad Comercial Conservera San Rafael Limitada", para elaborar recursos hidrobiológicos en las líneas de conservas y congelado, en la planta ubicada en San Rafael s/n Calbuco que arrendó a la Sociedad "Parancan Hnos. y Cia.". Los recursos que utilizará como materia prima en la elaboración de los productos señalados son los siguientes, que adquirirá a terceros, y el recurso salmón que deberá provenir de centros de cultivo autorizados: jurel, merluza, sardina, pejerrey, mero, sierra, calamar, salmón, pulpo, róbalo, cholga, chorito, choro, taca, erizo, piure, macha, navajuela, loco, culengue, centolla y picoroco.
+
+Santiago, 13 de Diciembre de 1984.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
