@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.118, de fecha 29 de mayo del 2000, modificado por los decretos MOP Nº2.996, de 28 de julio y Nº4.322, de 27 de septiembre, ambos del 2000, se expropiaron los lotes de terreno Nºs. 45, 45-A, 46, 62, 67, 68 y 81, superficies 832, 231, 3.814, 414, 51, 106 y 33 m2., roles de avalúos 2-6, 3003-34, 2-7, 12-29, 12-24, 11-3 y 12-15, respectivamente, comuna de Ovalle, para la obra "Camino Ruta D-595; Ovalle-Hurtado, Sector Tranque Recoleta-Samo Alto, Tramo Km. 9.780,00 a Km.
+
+31.840,00" y se acordó el valor de indemnización con sus propietarios Walter Guido Rivera Millas, Osvaldo A. Urqueta Gahona, Osciel Osvaldo Urqueta Gallardo, Luis Orlando Portilla Tello, Claudio Héctor Alvarez Espinoza, Estelvina del Carmen Bugueño Carvajal y Alejandrina Rodríguez Pizarro, ascendente a las cantidades de $7.510.142, para el lote Nº45; $5.120.851, para el lote Nº45-A; $1.312.014, para el lote Nº46; $818.644, para el lote Nº62; $340.621, para el lote Nº67; $605.846, para el lote Nº68 y $444.033, para el lote Nº81.-
+
+Fiscal del Ministerio de Obras Públicas.
