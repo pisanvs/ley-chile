@@ -1,0 +1,3 @@
+Por decreto MOP 5.126, de 30 de noviembre del 2000, se expropió el lote de terreno Nº15, superficie 1.859 m², rol de avalúo 141-141, comuna de Codegua, para la obra Concesión Internacional Ruta 5 Tramo: Santiago-Talca y Acceso Sur a Santiago. By Pass Rancagua, Sexta Región y se acordó el valor de indemnización con su propietario Mariano Germán Gutiérrez Gato, ascendente a la cantidad de $2.919.867.-
+
+Fiscal del Ministerio de Obras Públicas.
