@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.268, de 31 de mayo de 1999, se expropió el lote de terreno Nº 100, superficie 341 m2., rol de avalúo 851-80, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo Chillán - Collipulli, Sector 1'', Octava Región y se acordó el valor de indemnización con su propietario Manuel José Rodríguez Fernández, ascendente a la cantidad de $479.866.
+
+Fiscal del Ministerio de Obras Públicas.
