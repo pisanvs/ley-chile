@@ -1,0 +1,3 @@
+Por Decreto MOP N° 473, de 28 de junio de 1996. se expropiaron los lotes de terreno Nºs. 46, 47, 47-A, 48, 49 y 51, superficies 7.920, 3.840, 1.681, 490, 761 y 144 M2., rol de avalúo 315-55; comuna de Quirihue, para la obra Camino Cauquenes Límite Regional Quirihue, sector Cuesta y se acordó precio de la indemnización con su propietario Raúl Molina Molina, ascendente a la cantidad de $1.362.624.
+
+- Fiscal del Ministerio de Obras Públicas.
