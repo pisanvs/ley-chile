@@ -1018,19 +1018,17 @@ En caso de que se desee trasladar una oficina a un nuevo local de atención, las
 
 No obstante, cuando una oficina sea trasladada a un nuevo local ubicado en la misma comuna y su apertura se efectúe simultáneamente con el cierre del otro local, se prescindirá del envío de los antecedentes señalados en los Anexos 1 ó 2 de este Capítulo, como asimismo de la solicitud de autorización en su caso, debiendo solamente comunicarse a esta Superintendencia lo siguiente:
 
-3.1.- En relación con el local que se cerrará.
+a) Dirección del local que dejará de atender al público;
 
-Para el local que cerrará sus puertas al público con motivo de un traslado, se enviará la información señalada en el N° 2 anterior dentro del plazo que allí se indica, comunicando además, el lugar al que se trasladará la oficina.
+b) Medidas adoptadas para informar a los usuarios sobre el traslado;
 
-3.2.- En relación con el nuevo local
+c) Dirección del local al cual se trasladará la oficina;
 
-Para los efectos del registro y cumplimiento de las normas pertinentes al funcionamiento de la oficina, se comunicará a esta Superintendencia, al menos con quince días de anticipación a la fecha en que se comenzará a atender en el nuevo local, lo siguiente:
+d) Antecedentes relativos al cumplimiento del Decreto Supremo Exento N° 488, de 1991, del Ministerio del Interior; y,
 
-a) Confirmación de la nueva dirección de la oficina
+e) Fecha en que se comenzará a atender público en el nuevo local, dejándose en consecuencia de atender en el antiguo.
 
-b) Fecha de inicio de atención al público en ella.
-
-c) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Supremo Exento N° 488, de 1991, del Ministerio del Interior.
+Esta información deberá enviarse al menos con quince días de anticipación a la fecha mencionada en la letra e) y a partir de la cual regirá la obligación de atender en el nuevo local.
 
 ANEXO N°1
 
