@@ -1,0 +1,3 @@
+Por resolución Nº 105, de 24 de enero de 2001, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 2.397 de 1999, sólo en cuanto autorizó a PESQUERA PACIFIC FISHERIES S.A. para realizar actividades pesqueras extractivas con la nave ''Líder'', Matrícula 2918 de Valparaíso, sobre el recurso hidrobiológico Merluza de tres aletas, en el área comprendida entre el paralelo 41°28,6 y el límite sur de la X Región.
+
+Valparaíso, 24 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
