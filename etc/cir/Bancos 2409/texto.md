@@ -24810,7 +24810,7 @@ N° de Incripción * Nombre de la empresa.
 
 014 SURLATINA & HORWATH AUDITORES LIMITADA.
 
-017 GRANT THORNTON CHILE, AUDITORES CONSULTORES LTDA.
+017 GRANT THORNTON AUDITORES CONSULTORES LIMITADA.
 
 * Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
 
