@@ -10938,7 +10938,7 @@ Cuando una entidad financiera opte por clasificar una cantidad superior a los 40
 
 Si de la referida revisión se concluye que dichas pautas no se cumplen, este Organismo podrá objetar como un todo la clasificación de los deudores que exceden las cantidades indicadas, sin necesidad de reclasificarlos individualmente, utilizando una de las siguientes alternativas para evaluar el riesgo de pérdida probable:
 
-i) la aplicación a ese segmento del porcentaje de pérdida determinado para los mayores deudores; o,
+i) la aplicación a ese segmento del porcentaje de pérdida determinado para el resto de la cartera de colocaciones; o,
 
 ii) un procedimiento basado en factores objetivos tales como la morosidad o la cobertura de garantías de los créditos que componen ese segmento.
 
@@ -10971,6 +10971,8 @@ El procedimiento para determinar cuál es el monto de provisiones que debe mante
 a) Estimación de pérdidas y riesgos adicionales informados por esta Superintendencia.
 
 La pérdida estimada de la cartera y, eventualmente, la existencia de riesgos adicionales, serán comunicados por esta Superintendencia a las instituciones financieras al término de las revisiones periódicas que efectúe, sin perjuicio de hacerlo, además, cada vez que cuente con los elementos de juicio necesarios para precisarlos. Los montos que se determinen se entenderán vigentes desde el momento en que sean comunicados y hasta que la institución financiera reciba una nueva comunicación en tal sentido.
+
+Igual procedimiento al recién señalado, en lo que a reajuste se refiere, deberá utilizarse para actualizar los riesgos adicionales de que trata el N° 7 de este título.
 
 Para efectos de la exigencia de provisiones, al establecer la pérdida estimada de la cartera, se considerarán las colocaciones con sus respectivos reajustes e intereses por cobrar registrados en el activo a la fecha a que esté referida la evaluación para los fines de estimar dicha pérdida. El saldo de esas colocaciones, sobre el cual corresponde aplicar el porcentaje estimado de
 
