@@ -1,0 +1,3 @@
+Por resolución exenta Nº 671, de 10 de marzo de 2005, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Campamento, II Región, individualizada en el artículo 1º del decreto exento Nº 560 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS Y ASISTENTES MARISCADORES COMUNA DE MEJILLONES.
+
+Valparaíso, 10 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
