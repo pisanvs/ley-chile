@@ -1,0 +1,3 @@
+Por decreto supremo exento de Educación N° 120 de 18 de marzo de 1994 se ha modificado el artículo 1° del decreto supremo exento de Educación N° 454 de 1993 que aprueba un plan especial de estudio al Colegio "Nido de Aguilas" de Santiago, en cuanto a que el plan electivo del plan de estudio para 3° y 4° año medio tendrá una carga horaria de 10 clases semanales, conformado por dos asignaturas con una carga horaria de 5 clases semanales cada una.
+
+Santiago, 4 de Abril de 1994.- Gonzalo Undurraga Mackenna, Subsecretario de Educación.
