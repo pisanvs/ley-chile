@@ -1,0 +1,3 @@
+Por Decreto MOP. No. 241, de 30 de Octubre de 1990, se expropió el Lote No. 11, superficie 10.190 m2., rol de avalúo 13-33, Comuna de San Pedro, para la obra Camino San Fernando - San Antonio, sector Bifurcación San Pedro - San Pedro, y se acordó el precio de indemnización con su propietario don Manuel Camus Allende, ascendente a la cantidad de $ 2.196.448.
+
+- Fiscal del Ministerio de Obras Públicas.
