@@ -1,0 +1,5 @@
+Por resolución Nº 447, de 12 de febrero de 2003, de esta Subsecretaría, autorízase a INVERSIONES SOL AUSTRAL S.A., para ampliar actividades pesqueras de transformación, autorizada por resolución Nº 2.067 de 2002, de esta Subsecretaría, en oden a incorporar a la planta ubicada en Ruta 68, Nº 1240, Placilla, Valparaíso, V Región, en las líneas de elaboración que indican, los siguientes recursos hidrobiológicos: Fresco-enfriado, fresco-refrigerado, congelado: Atún chauchera, Atún aleta amarilla, Atún aleta larga, Atún ojos grandes, Alfonsino, Congrio colorado, Orange roughy, Trucha café, Pez sol, Cazón, Machuelo o tritre, Salmón rosado, Sardina española y Abalón rojo.
+
+La materia prima deberá provenir de pescadores artesanales e industriales, debidamente autorizados.
+
+Valparaíso, 12 de febrero de 2003.- Jessica Fuentes Olmos, Subsecretaria de Pesca (S).
