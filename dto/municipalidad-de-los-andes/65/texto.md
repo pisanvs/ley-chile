@@ -1,0 +1,7 @@
+EXPROPIA PREDIO URBANO QUE INDICA
+
+El Alcalde Los Andes, por Decreto Alcaldicio N° 65, de 22 de Enero de 1987, dispone conforme decreto ley N° 1289 y ley N° 18.138, expropiación de predio urbano eriazo ubicado costado Norte población de Sociedad Cooperativa de Jardines Familiares Santa Rosa de Los Andes Limitada, construida con frente a calle San Rafael y Callejón Laberinto, de comuna y provincia de Los Andes. Predio expropiado deslinda: Norte: en 534,5 metros con terrenos de Ferrocarril del Estado, que ocupa la vía de dicho Ferrocarril; Sur: en 520,6 metros con los lotes N° 78, 79, 54, 55, 21, 22, 18 y calles públicas denominadas "Las Lilas", "Los Lirios" y "Las Camelias" de la población de Sociedad Cooperativa de Jardines Familiares Santa Rosa de Los Andes Limitada; Oriente, en 41 metros con Complejo Automotriz Franco Chilena; y Poniente, en 43 metros con Callejón El Laberinto. Tiene una superficie de 22.157 m2. Rol de avalúos N° 503-45 de esta comuna, inscrito mayor extensión nombre Sociedad Cooperativa mencionada fs. 406 N° 429 Registro Propiedad 1964, Conservador Bienes Raíces Los Andes. Comisión tasadora nombrada fijó indemnización. Provisional en la suma de cinco millones setecientos sesenta mil ochocientos veinte pesos ($ 5.760.820).
+
+Luis O. Santelices Barrera, Alcalde.- Juan E. Aguirre Seguel.- Secretario.
+
+Los Andes, 26 de Enero de 1987.- Luis O. Santelices Barrera, Alcalde.- Osvaldo de la Cruz Escobar, Secretario Municipal (S)
