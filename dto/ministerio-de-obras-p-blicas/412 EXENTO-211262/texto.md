@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº412 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº26-A, superficie 736,0 m², Rol de Avalúo en trámite, comuna de Pelluhue, VII Región para la obra "Camino Chovellen-Cobquecura, Sector Chovellen-Límite Regional, Tramo Km. 18,260.00 a Km. 35,158.60" y se acordó el valor de indemnización con su propietaria Eduvina Torres Molina, ascendente a la cantidad de $2.142.000.-
+
+Fiscal del Ministerio de Obras Públicas.
