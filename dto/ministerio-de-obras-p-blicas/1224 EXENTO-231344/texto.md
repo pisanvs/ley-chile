@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.224 de 31 de agosto de 2004, se expropió el lote de terreno Nº 202, superficie 9.121,00 M2, rol de avalúo 114-36, comuna de Queilén, para la obra "Camino Ruta W-853, Teupa-Queilén, Sector Santa María-Queilén, Tramo Km. 25,96000 a Km. 42,34833", X Región y se acordó el valor de la indemnización con Milton Sady Klenner Gómez, ascendente a la cantidad de $2.322.838.
+
+Fiscal del Ministerio de Obras Públicas.
