@@ -1,0 +1,5 @@
+Por resolución Nº 2.114, de esta Subsecretaría, modifícase la resolución Nº 1.144 de 2001, de esta Subsecretaría que autorizó a la UNIVERSIDAD AUSTRAL DE CHILE, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Identificación, Alimentación, Biología Reproductiva y Evaluación de Stock de Raja (Dipturus) Chilensis Guichenot, 1848 en la provincia de Valdivia", en el sentido de sustituir su numeral 3º por el siguiente:
+
+"3.- La pesca de investigación se efectuará en el área marítima comprendida entre los paralelos 38°28'35" L.S. y 41°28,6' L.S., a partir de la fecha de publicación de la presente resolución en el Diario Oficial y hasta el 31 de diciembre de 2001."
+
+Valparaíso, 3 de octubre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
