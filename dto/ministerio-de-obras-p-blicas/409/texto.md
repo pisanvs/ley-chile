@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 409, de 29 de noviembre de 1993, se expropiaron los lotes de terreno N°s. 11, 12 y 25, superficies 456 m2, 463,50 m2 y 200,25 m2., Rol de avalúo 174-15, Comuna de Licantén, para la obra Camino Curicó Iloca, Ruta J-60, sector La Higuera-Licantén, Variante Idahue, propietario Omar Jesús Marabolí Chamorro, ascedente a la cantidad de $ 97.904.-
+
+Fiscal del Ministerio de Obras Públicas.
