@@ -1,0 +1,15 @@
+POSTERGA POR 3 MESES EL OTORGAMIENTO DE PERMISOS DE CONSTRUCCION QUE SEÑALA
+
+Secc 1ª. Nº 3.270.- Las Condes, 22 de noviembre de 2002.- Vistos: El estudio de modificación Nº 1 y Nº 2, al Plan Regulador Comunal, conformados por memoria explicativa, ordenanza y planos, elaborado por el Departamento de Asesoría Urbana; la Declaración de Impacto Ambiental preparada por la empresa Ambiente Consultores Ltda.; el estudio de factibilidad vial del proyecto de modificación al plan regulador comunal elaborado por la empresa INTRAT S.A.; las publicaciones de prensa en que se señala la exposición pública del proyecto de plan regulador Nº 1 los días 7 y 14 de Mayo de 2001 y Nº 2 los días 18 y 22 de Agosto de 2001; la recepción de 161 cartas con observaciones de la comunidad en relación con el proyecto Nº 2 del plan regulador comunal; los acuerdos Nº1/2002 al 53/2002 del Concejo Municipal en que se resuelve sobre las observaciones realizadas por la comunidad al proyecto; el ordinario alcaldicio Nº 4/100 de fecha 24 de enero de 2002; el ordinario alcaldicio Nº 4/252 que conduce el proyecto de modificación Nº 1 y Nº 2 enviados a la Secretaría Ministerial Metropolitana del Ministerio de Vivienda y Urbanismo de fecha 21 de Febrero de 2002; el ordinario Nº 2.040 de la Secretaría Ministerial Metropolitana del Ministerio de Vivienda y Urbanismo de fecha 1 de Julio de 2002 que observa algunas materias contenidas en el proyecto de modificación Nº1 y Nº 2 al plan regulador comunal, conforme a lo dispuesto en el artículo 2.1.12 de la Ordenanza General de Urbanismo y Construcciones; el decreto alcaldicio Nº 3.032 de fecha 16 de octubre de 2002, que continúa los estudios al plan regulador comunal con el objeto de resolver las observaciones planteadas por la Secretaría Ministerial Metropolitana; el ordinario alcaldicio Nº 4/1.567 de fecha 17 de octubre de 2002; el ordinario Nº 3.905 de fecha 15 de noviembre de 2002 de la Secretaría Ministerial Metropolitana del Ministerio de Vivienda y Urbanismo que informa favorablemente la solicitud de postergación de permisos de construcción; lo dispuesto en el artículo 1.4.18 de la Ordenanza General de Urbanismo y Construcciones y en el artículo 117 de la Ley General de Urbanismo y Construcciones,
+
+D e c r e t o:
+
+1. Postérgase por 3 meses, a contar de la publicación del presente decreto en el Diario Oficial, el otorgamiento de los permisos de construcción para proyectos de edificación con cualquier destino, cuya altura supere los 9 pisos o 27 metros, en el área delimitada por las siguientes calles y avenidas:
+
+Por el norte, línea imaginaria trazada a 60 metros de la Línea Oficial de la acera sur de la avenida Cristóbal Colón.
+
+por el sur, eje de calle Vaticano por el oriente, eje de calle Alcántara y por el poniente, eje de la avenida Sánchez Fontecilla.
+
+2. El presente decreto que dispone la postergación de permisos en el área señalada, deberá ser publicado en el Diario Oficial y en algún diario de los de mayor circulación de la Comuna.
+
+Anótese, publíquese, comuníquese, regístrese y archívese.- John Barra Inostroza, Alcalde (S).- Jesús Antonio Cabedo Ibarra, Secretario Municipal (S).
