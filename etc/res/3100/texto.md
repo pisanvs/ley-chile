@@ -1,0 +1,3 @@
+Por resolución Nº 3.100, de 31 de diciembre de 2002, de esta Subsecretaría, autorízase a CONSTRUCCIONES Y CARPINTERÍA NAVAL S.A. para realizar operaciones pesqueras a contar del 1 de enero y hasta el 31 de diciembre del año 2003, ambas fechas inclusive, con el barco fábrica denominado "María Tamara", aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 47° L.S., respecto de las áreas y recursos y con las obligaciones establecidas en sus respectivas autorizaciones.
+
+Valparaíso, 31 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
