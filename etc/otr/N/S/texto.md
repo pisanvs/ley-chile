@@ -1,0 +1,9 @@
+Liberacion de derechos para los azogues
+
+Excmo. Señor:
+
+La solicitud de don Antonio Merino Villanueva, dependiente de don Tomas Caricaburu, sobre libertad de derechos por la introduccion de azogues que ha pasado V. E. al Senado con lo instruido por las oficinas de Hacienda i espuesto por el Señor Fiscal, está espresamente declarada por el reglamento del libre comercio, i es indudable la franqueza concedida a esta especie, teniendo a mas de esto la recomendacion de ser una primera materia para el laborío de las minas. Por lo mismo le parece al Senado que la resolucion debe espedirse en favor del introductor, o introductores, de azogues para que por el adelantamiento del pais se conceda la escepcion de derechos de esta preciosa especie, que sin ella no puede fomentarse el beneficio de minas que tanto interesa al Estado; pero a fin de evitar el monopolio de los mineros, i comerciantes pudientes seria utilísimo que V. E. se interesara con el Supremo Gobierno de las Provincias Unidas para que se nos vendiera alguna porcion del que tiene, facilitándole su pago del modo que V. E. lo tenga por conveniente. Tomando el Estado azogues, los venderia a los mineros a precios moderados, i equitativos, quitándose a los monopolistas la facultad de venderlos a precios arbitrarios en perjuicio de la minería, i conocido daño de los intereses del Estado, i a fin de incitar al comercio a la introduccion de este majistral tan recomendable será mui útil que la decision se inserte en la Ministerial, que servirá de un aliciente a los negociantes, i de un consuelo para el gremio de mineros.
+
+Dios guarde a V. E. muchos años.-Sala del Senado, 5 de Agosto de 1819.-Francisco Antonio Pérez.-José María Villarreal, Secretario.-Excmo. Señor Supremo Director del Estado de Chile.
+
+Santiago, 5 de Agosto de 1819.-Conformado: insértese en la Gaceta Ministerial el acuerdo del Excmo. Senado para que llegue a noticia de todos. -O'Higgins.-Toro, pro-secretario.
