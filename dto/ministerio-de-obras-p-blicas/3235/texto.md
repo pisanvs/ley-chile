@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.235 de 29 de octubre de 1999, se expropió el lote de terreno Nº 12, superficie 19 m², rol de avalúo 106-17, comuna de Valdivia, para la obra Mejoramiento Ruta 5 Sur Camino Longitudinal Sur, sector Avenida Ramón Picarte y se acordó precio de indemnización con su propietario Nelson Ernesto Velasco Pino, ascendente a la cantidad de $3.383.378.-
+
+Fiscal del Ministerio de Obras Públicas.
