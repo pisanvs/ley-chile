@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.982, de 30 de junio de 2000, se expropió el lote de terreno Nº 21-A, superficie 1.572 m², rol de avalúo 30-215, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario Jaime del Carmen Ríos Zamorano, ascendente a la cantidad de $14.987.120.-
+
+Fiscal del Ministerio de Obras Públicas.
