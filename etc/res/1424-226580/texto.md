@@ -1,0 +1,3 @@
+Por resolución Nº 1.424, de 24 de mayo de 2004, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 364, de 2004, de esta Subsecretaría de Pesca, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de investigación de Algas Pardas (Lessonia nigrescens, Lessonia trabeculata y Macrocystis integrifolia) en la III y IV Regiones", en el sentido de señalar que la pesca de investigación se extenderá hasta el 5 de agosto de 2004.
+
+Valparaíso, 24 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
