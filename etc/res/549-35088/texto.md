@@ -1,0 +1,3 @@
+Por Resolución N° 549, de 21 de Marzo de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; cadúcase parcialmente la Resolución N° 322, de 1990, de esta Subsecretaría, que autorizó a don LUIS ENRIQUE ROMAN FLORES y don ERASMO ANTONIO MUÑOZ FLORES, para realizar actividades pesqueras con la Nave "Skorpion II", en cuanto se refiere a las unidades de pesquería de los recursos hidrobiológicos Anchoveta, Caballa, Jurel, Sardina común y Sardina española, entre la III a la VII Región y de la IX a XII Región; y Merluza común, Congrio dorado y Merluza del sur en el litoral de la I Región al Paralelo 43° L.S.
+
+Valparaíso, 21 de Marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
