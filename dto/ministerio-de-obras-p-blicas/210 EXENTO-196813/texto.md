@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 210, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs 6, 7 y 9, superficie 434 M2, 88 M2 y 1.141 M2, respectivamente, rol de avalúo 301-1, comuna de Pelluhue, VII Región, para la obra "Camino Ruta M-80-N, Sector Curanipe-Bif. Chovellen, Tramo Km. 0,000 al 6,871.14" y se acordó el valor de indemnización con su propietario don Angel Custodio Muñoz Vega, ascendente a la cantidad de $535.244.-
+
+Fiscal del Ministerio de Obras Públicas.
