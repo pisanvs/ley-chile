@@ -1,0 +1,3 @@
+Por Decreto No. 326, de 30 de Octubre de 1985, se expropiaron los lotes N°s. 1 y 3, cuyas superficies son 2.477 M2. y 3.571 M2., roles de avalúos 320-25 y 346-71, respectivamente, Comuna de Río Negro, para Puente Esmeralda, Camino Río Negro Riachuelo y se acordó el precio de indemnización con sus propietarios don Luis F. Ponce Barría y don José D. Huilitraro Catrilef, ascendente a $ 111.441 y $ 154.034,.
+
+Fiscal del Ministerio de Obras Públicas. (2)
