@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.474, de 30 de noviembre de 1998, se expropiaron los lotes de terreno Nºs. 7 y 19, superficies 190 y 200 m2., respectivamente, roles de avalúo 12-2 y 13-24, comuna de Navidad, para la obra Camino Ruta G-880, Sector Rapel-Navidad-La Boca y se acordó precio de indemnización con sus propietarios Agustina Navia Riveros y otros y Gerardo Rojas Ramírez, ascendentes a las cantidades de $ 528.395.- para el lote 7 y $ 531.650.- para el lote 19.
+
+- Fiscal de Ministerio de Obras Públicas.
