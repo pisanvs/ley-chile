@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.577, de 28 de octubre de 2003, de esta Subsecretaría, autorízase a PESQUERA GRIMAR NORTE LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Pedro Aguirre Cerda Nº 7729, Antofagasta, II Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Cocido y Congelado: Centolla, Centolla del norte Lithodes wiracocha, Centolla del norte Lithodes panamensis, Centolla del Norte Neolithodes diomedeae, Centollón del Norte Paralomis papillata, Centollón del Norte Paralomis otsuae, Centollón y Langosta de Valparaíso o langosta enana; Congelado: Alfonsino.
+
+Valparaíso, 28 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
