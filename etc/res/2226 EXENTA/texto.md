@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.226, de 12 de septiembre de 2003, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 1.065 de 2003, modificada mediante resoluciones Nº 1.276, Nº 1.537, Nº 1.675, todas de 2003, de esta Subsecretaría que autorizó a la UNIVERSIDAD CATÓLICA DEL NORTE, SEDE COQUIMBO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado " Monitoreo de la captura de Anchoveta (Engraulis ringens) en el litoral de la IV Región" , en el sentido de aumentar a 1.000 toneladas la cuota de anchoveta autorizada para los fines de la presente pesca de investigación.
+
+La cuota antes señalada se imputará a la fracción autorizada a ser extraída con fines de investigación de la cuota global anual de captura establecida para la unidad de pesquería del recurso Anchoveta de la III y IV Regiones.
+
+Valparaíso, 12 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
