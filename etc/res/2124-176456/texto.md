@@ -1,0 +1,3 @@
+Por resolución número 2.124, de 29 de septiembre de 2000, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 1.165, de 1989 y Nº 147, de 1991, ambas de esta Subsecretaría, que autorizaron a ULISES ROMERO BORNE para operar la nave ''Punta del Este'', en virtud de lo dispuesto en el artículo 143 letras b) y d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
