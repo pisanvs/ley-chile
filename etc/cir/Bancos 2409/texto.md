@@ -1538,11 +1538,11 @@ e) Bonos, debentures y otros valores de renta fija inscritos en el Registro de V
 
 En las ventas o cesiones de documentos de su cartera de colocaciones o inversiones financieras que realicen los bancos y sociedades financieras deberán cumplirse las siguientes condiciones:
 
-a) Deben transferirse los títulos completos, no pudiendo, por lo tanto, venderse documentos sin transferirlos, vender separadamente los cupones de un título o ceder sólo participaciones sobre créditos;
+a) Deben transferirse los títulos completos, no pudiendo, por lo tanto, venderse documentos sin transferirlos, vender separadamente los cupones de un título o ceder sólo participaciones sobre créditos. En el caso de la venta de valores depositados en una empresa de depósito y custodia de valores de acuerdo con la Ley N° 18.876, la condición de vender títulos completos debe entenderse en relación con la posición mínima transferible según el reglamento de esa empresa;
 
 b) Los títulos de crédito deberán estar extendidos cumpliendo todas las formalidades legales y exigencias tributarias;
 
-c) Los documentos que se vendan o cedan deben encontrarse en poder de la institución y entregarse al comprador o cesionario, salvo que este último opte por dejarlos en custodia en la propia institución vendedora;
+c) Los documentos que se vendan o cedan deben encontrarse en poder de la institución y entregarse al comprador o cesionario, salvo que este último opte por dejarlos en custodia en la propia institución vendedora. Lo anterior no alcanza a las ventas concretadas mediante transferencia de posiciones de los valores mantenidos en una empresa de depósito y custodia de valores a que se refiere la Ley N° 18.876;
 
 d) Las ventas podrán ser: i) definitivas, o, ii) con pacto de retrocompra, con sujeción, en este caso, a las normas del título III de este Capítulo;
 
@@ -4904,9 +4904,9 @@ cumplimiento a la obligación de encaje establecida en el artículo 78 de la Ley
 
 Los bancos y sociedades financieras que declaren mantener el total o parte de la reserva técnica constituida en documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, deberán estar en posesión material
 
-de los respectivos instrumentos, a menos que se encuentren depositados en custodia en el Instituto Emisor.
+de los respectivos instrumentos, a menos que se encuentren depositados en custodia en el Instituto Emisor o en una empresa de depósito y custodia de valores a que se refiere la Ley N° 18.876.
 
-La adquisición de los instrumentos que se destinen a reserva técnica deberá hacerse en forma pura y simple, por documentos completos, no siendo admisible que se realice su compra con pactos de cualquier naturaleza. Mientras los documentos de que se trata se computen como reserva técnica, las instituciones financieras no podrán realizar transacción alguna sobre esos valores, tales como ventas con pacto de retrocompra o ventas con responsabilidad u otras condiciones similares.
+La adquisición de los instrumentos que se destinen a reserva técnica deberá hacerse en forma pura y simple, por documentos completos o por traspaso a la posición mantenida en una empresa de depósito y custodia de valores, no siendo admisible que se realice su compra con pactos de cualquier naturaleza. Mientras los documentos de que se trata se computen como reserva técnica, las instituciones financieras no podrán realizar transacción alguna sobre esos valores.
 
 5.1. Saldos en moneda extranjera de caja y de cuentas corrientes mantenidas en el Banco Central de Chile.
 
@@ -12706,107 +12706,89 @@ capítulo, tales como los que cursen a empresas constructoras para que edifiquen
 
 una o más viviendas, sólo podrán utilizar letras de crédito para fines generales.
 
-6.- Registro de letras de crédito.
+6.- Normas sobre destrucción o pérdida de letras de crédito.
 
-Las instituciones emisoras de letras de crédito deben mantener un registro de
+Las instituciones financieras podrán reemplazar las letras de crédito destruidas o perdidas, ateniéndose a las disposiciones que para el efecto se establecen en el Capítulo II.A.1.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-estas letras de acuerdo con las normas que se imparten a continuación. En el
+7.- Letras depositadas en una empresa de depósito y custodia de valores.
 
-registro sólo pueden ingresar letras que estén en condiciones de ser puestas en
+La Ley N° 18.876 publicada en el Diario Oficial del 21 de diciembre de 1989 y reglamentada por el Decreto Supremo N° 734 del Ministerio de Hacienda, de 1991, permite reemplazar títulos depositados en las sociedades de depósito y custodia de valores autorizadas para operar de acuerdo con dicha ley.
 
-circulación.
+En su calidad de emisores de letras de crédito susceptibles de depositarse y registrarse en tales empresas, las instituciones financieras deberán ceñirse a las siguientes instrucciones.
 
-Para tal efecto, las instituciones financieras deben abrir un Libro de Registro
+7.1.- Remplazo de láminas
 
-de Letras de Crédito, cuyo objeto es mantener un control permanente de las
+El artículo 10 de la Ley N° 18876, permite a una empresa de depósito y custodia de valores solicitar a los emisores el remplazo de uno o más títulos que ella mantenga en depósito, por otros de mayor o menor denominación, quedando obligados los emisores a efectuar el canje cuando la naturaleza del título lo permita.
 
-letras de crédito emitidas en relación con los prospectos certificados por esta
+En el caso de las letras de crédito, la naturaleza de los títulos permite al emisor efectuar un remplazo solamente cuando la sustitución solicitada no constituya un obstáculo para la aplicación de los fondos de amortización.
 
-Superintendencia. Asimismo, dicho libro cumple la función de demostrar que toda
+El remplazo de las láminas deberá hacerse por otras de igual serie, valor y mes de emisión nominal de aquellas que se remplazan. Las láminas que se emitan para el efecto serán de aquellas que se utilizan normalmente para las operaciones o bien, en caso de que se utilicen láminas con denominación preimpresa y se requieran letras por montos superiores a los habituales, podrán emitirse láminas especiales que cumplan los mismos requisitos que aquellas No obstante, será facultativo de la institución emisora aceptar el canje entregando letras de mayor denominación que las utilizadas para el otorgamiento de créditos.
 
-letra de crédito que se haya emitido, corresponde a un préstamo hipotecario
+En todo caso, los cortes mínimos y máximos deberán ser convenidos previamente con la empresa de depósito y custodia de valores, dejándose constancia de que la entrega de láminas por montos significativos, en remplazo de otras de menor denominación, quedará sujeta a una decisión del emisor como consecuencia de su evaluación respecto a las futuras aplicaciones de fondos de amortización.
 
-cursado por la institución emisora de acuerdo con esta modalidad de crédito.
+Los sistemas de control de la institución emisora deberán asegurar la inmediata inutilización definitiva de las láminas remplazadas y la anotación de los remplazos en sus registros. Para la destrucción de dichas láminas se seguirá el mismo procedimiento que se utiliza para destruir las letras completamente amortizadas.
 
-El Libro de Registro debe constar de hojas numeradas en forma correlativa; en él
+7.2.- Pago de valores registrados en las empresas de depósito y custodia.
 
-se registrará cada serie de letras de crédito en forma separada con los
+Para proceder al pago de los cupones de las letras de crédito que hayan sido ingresadas a una empresa de depósito y custodia de valores, la presentación de las letras podrá ser suplida por el sistema de información, cobro y liquidación convenido entre la entidad emisora y esa empresa. En ese caso, se podrá también pagar sin la presentación de los respectivos cupones si el emisor confiere un mandato a la empresa de depósito y custodia de valores para que ésta, en su representación, custodie e inutilice los cupones pagados y se los entregue en la oportunidad que se establezca en ese mandato.
 
-siguientes datos mínimos:
+7.3.- Sorteos y publicaciones.
 
-a) Fecha y número del certificado de inscripción del prospecto a que
+Las instituciones que efectúen sorteos, deberán entregar a la empresa de depósito y custodia de valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 21 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-corresponden las letras de crédito emitidas y monto total de éstas por serie;
+8.- Registro de letras de crédito.
 
-b) Fecha en que se efectúa la anotación en el Libro de Registro; y,
+8.1.- Registro de las emisiones.
 
-c) Número y monto del mutuo hipotecario. Enumeración de las letras de crédito
+De acuerdo con lo dispuesto en el artículo 91 de la Ley General de Bancos, las instituciones emisoras deben mantener un registro de las letras de crédito que emitan.
 
-emitidas. Si la numeración es correlativa basta dejar constancia del primero y
+Este Registro de Letras de Crédito tendrá por objeto mantener un control permanente de las letras de crédito emitidas en relación con los prospectos certificados por esta Superintendencia, como asimismo, demostrar que toda letra de crédito que se haya emitido, corresponde a un préstamo hipotecario cursado por la institución emisora de acuerdo con esta modalidad de crédito.
 
-del último número de las letras utilizadas. Se anotará asimismo, cuando
+Las anotaciones en dicho Registro deberán permitir la obtención, en cualquier momento, al menos de la siguiente información:
 
-corresponda, el pagaré de cancelación parcial del cupón a que se refiere la
+a) Fechas y números de los certificados de inscripción del prospecto a que corresponden las letras de crédito emitidas, monto total de éstas por serie y saldo por emitir no registrado de cada serie.
 
-letra c) del número 5 del Título V del Reglamento Financiero del Banco Central
+b) Fechas de las anotaciones en el Registro
 
-de Chile
+c) Número y monto de cada mutuo hipotecario asociado a las letras emitidas.
 
-El saldo por emitir, no registrado, de cada serie deberá determinarse
+d) Serie, número y monto de cada una de las letras de crédito emitidas por el respectivo mutuo hipotecario.
 
-diariamente.
+Se anotará también en el Registro, cuando corresponda, el pagaré de cancelación parcial del cupón a que se refiere la letra c) del número 5 del Título V del Reglamento Financiero del Banco Central de Chile.
 
-Será requisito indispensable para el registro de las letras, que el respectivo
+Es requisito indispensable para el registro de las letras, que el respectivo mutuo hipotecario se encuentre firmado ante Notario. Por lo tanto, dichos valores deberán ser registrados tan pronto como se cumpla ese requisito.
 
-mutuo hipotecario se encuentre firmado ante Notario. Por lo tanto, dichos
+8.2.- Control sobre láminas en circulación.
 
-instrumentos podrán ser registrados tan pronto como se cumpla el mencionado
+Dado que el remplazo de láminas por otras de mayor o menor denominación hace imprescindible un control respecto de las láminas vigentes que se encuentren en circulación, considerando las emisiones y anulaciones con motivo del canje, las instituciones financieras que deban remplazar láminas a solicitud de una empresa de depósito y custodia de valores, deberán mantener registros que permitan el control de cada una de las láminas.
 
-requisito.
+8.3.- Modalidades de registros.
 
-Este Organismo fiscalizará el adecuado cumplimiento del trámite de Registro, del
+Los registros de que tratan los numerales precedentes pueden llevarse separadamente o en forma integrada, mediante libros o en sistemas computarizados que permitan en cualquier momento conocer y listar los datos en forma expedita y conservar, de acuerdo con lo establecido en el Capítulo 1-10 de esta Recopilación Actualizada de Normas, la información histórica de los saldos y movimientos.
 
-que podrá hacerse cargo en cualquier momento si se detectaren deficiencias o
+Por consiguiente, cada institución financiera adoptará las modalidades que estime más adecuadas en lo que respecta a configuración de los sistemas de registro, debiendo seguir, naturalmente, todos los procedimientos de control necesarios para asegurar la veracidad e integridad de la información.
 
-irregularidades en su manejo por parte de alguna entidad emisora.
+Conforme a lo establecido en el artículo 91 de la Ley General de Bancos, esta Superintendencia está facultada para hacerse cargo en cualquier momento del registro de las emisiones de letras de crédito, si se detectaren deficiencias o irregularidades en su manejo por parte de alguna entidad emisora.
 
-7.- Normas sobre destrucción o pérdida de letras de crédito.
+9.- Información al público.
 
-Las instituciones financieras podrán reemplazar las letras de crédito destruidas o perdidas, ateniéndose a las disposiciones que para el efecto se establecen en el Capítulo II.A.1 1 del Compendio de Normas Financieras del Banco Central de Chile.
+Las instituciones financieras deberán atenerse estrictamente a las instrucciones que sobre la materia ha impartido esta Superintendencia, en especial en lo relativo a los antecedentes legales, sociales, financieros y administrativos de la sociedad que debe contener el extracto informativo que éstas mantengan a disposición del público.
 
-8.- Información al público.
+Asimismo, las entidades emisoras cuidarán de informar al público inversionista de las características principales de las letras de crédito emitidas, tales como monto de la emisión, senes y numeración de las letras, tasa de interés, sistema de reajuste y amortización, etc.
 
-Las instituciones financieras deberán atenerse estrictamente a las instrucciones
+10.- Información a las Bolsas de Valores.
 
-que sobre la materia ha impartido esta Superintendencia, en especial en lo
+Las instituciones financieras que efectúen amortizaciones de letras de crédito por sorteo, deberán enviar a las Bolsas de Valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 21 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-relativo a los antecedentes legales, sociales, financieros y administrativos
+No obstante lo anterior, en los créditos que se acojan a la exención tributaria de que trata el artículo 41 de la Ley N° 18.482, la comisión sólo se podrá expresar como un monto y su cobro deberá efectuarse por una suma uniforme en el tiempo.
 
-dela sociedad que debe contener el extracto informativo que éstas mantengan a
+En todo caso, la tasa de la comisión no estará sujeta a fluctuaciones y para su cálculo deben emplearse las fórmulas indicadas por el Banco Central de Chile en el Anexo del Capítulo II.A.2 del Compendio de Normas Financieras.
 
-disposición del público.
+Lo anteriormente expuesto, es sin perjuicio de lo dispuesto en el numeral 2.3 del título I de este Capítulo.
 
-Asimismo, las entidades emisoras cuidarán de informar al público inversionista
+El importe de la comisión deberá indicarse explícitamente en cada dividendo, de manera que no se confunda con los intereses, con la amortización o con cualquier otro gasto.
 
-de las características principales de las letras de crédito emitidas, tales como
-
-monto de la emisión, series y numeración de las letras, tasa de interés, sistema
-
-de reajuste y amortización, etc.
-
-9.- Información a las Bolsas de Valores.
-
-Las instituciones financieras que efectúen amortizaciones de letras de crédito
-
-por sorteo, deberán enviar a las Bolsas de Valores, al día siguiente hábil
-
-bancario de realizado el sorteo, copia simple del acta a que se refiere el
-
-#### Artículo 21
-
-del Capítulo II.A.1 del Compendio de Normas Financieras del Banco
-
-Central de Chile.
+Por otra parte, las entidades financieras deben tener presente que la suma de las tasas de interés y de la comisión, no podrá exceder a la tasa de interés máxima convencional vigente al momento de la convención.
 
 II.- PRESTAMOS EN LETRAS DE CREDITO.
 
@@ -12908,103 +12890,25 @@ Por otra parte, las entidades financieras deben tener presente que la suma delas
 
 6.- Entrega del importe de los préstamos.
 
-La entidad otorgante de préstamos en letras de crédito, hará entrega de éstas al
+La entidad otorgante de préstamos en letras de crédito, hará entrega de éstas al deudor una vez que las haya ingresado al Libro de Registro, de acuerdo con lo expresado en el numeral 8.1 del título I del presente capítulo.
 
-deudor una vez que las haya ingresado al Libro de Registro, de acuerdo con lo
+Debe tenerse presente que el producto de los préstamos en letras de crédito que se concedan para edificaciones o para la construcción de obras destinadas al mejor aprovechamiento agrícola o industrial del inmueble, se entregará en cuotas sucesivas, a medida del avance de las obras, conforme con lo dispuesto en el artículo 88 de la Ley General de Bancos.
 
-expresado en el número 6 del título I del presente capítulo.
+En consideración a que el importe de las letras de crédito debe guardar perfecta concordancia con el importe del respectivo mutuo, la entidad emisora de letras de crédito para vivienda, antes de ponerlas en circulación, deberá desprender los cupones correspondientes a los trimestres comprendidos entre el 1° de enero del año en que se efectúe la emisión material de las respectivas letras de crédito y el trimestre en que el deudor comience a pagar sus dividendos. En los casos en que el primer dividendo corresponda pagarlo en los meses de enero,abril, julio u octubre, el último cupón que desprenderá la institución
 
-Debe tenerse presente que el producto de los préstamos en letras de crédito que
+emisora será el que venza en el mes precedente a aquél en que el mutuario deba iniciar el servicio de su obligación.
 
-se concedan para edificaciones o para la construcción de obras destinadas al
+Si el inicio del pago de los dividendos corresponde al segundo o tercer mes de un trimestre calendario, el emisor estará obligado a entregar al mutuario,mediante un pagaré expresado en U.F. o en I.V.P. según corresponda, el monto dela amortización e intereses por el período comprendido entre el día 1° del mes en que se inicie el pago de los dividendos y el último día del respectivo trimestre calendario.
 
-mejor aprovechamiento agrícola o industrial del inmueble, se entregará en cuotas
+Dicho pagaré podrá extenderse a la orden, nominativo o al portador. La fecha de vencimiento deberá ser coincidente con la del cupón correspondiente al trimestre en que se efectúe la emisión material de la letra y su monto será igual al valor de dicho cupón, deducido el importe devengado entre la fecha de vencimiento del cupón inmediatamente anterior y la del último día del mes anterior al de inicio del pago del mutuo. El pagaré deberá indicar, además, la obligación hipotecaria a que corresponde.
 
-sucesivas, a medida del avance de las obras, conforme con lo dispuesto en el
-
-#### Artículo 88
-
-de la Ley General de Bancos.
-
-En consideración a que el importe de las letras de crédito debe guardar perfecta
-
-concordancia con el importe del respectivo mutuo, la entidad emisora de letras
-
-de crédito para vivienda, antes de ponerlas en circulación, deberá desprender
-
-los cupones correspondientes a los trimestres comprendidos entre el 1° de enero
-
-del año en que se efectúe la emisión material de las respectivas letras de
-
-crédito y el trimestre en que el deudor comience a pagar sus dividendos. En los
-
-casos en que el primer dividendo corresponda pagarlo en los meses de
-
-enero,abril, julio u octubre, el último cupón que desprenderá la institución
-
-emisora será el que venza en el mes precedente a aquél en que el mutuario deba
-
-iniciar el servicio de su obligación.
-
-Si el inicio del pago de los dividendos corresponde al segundo o tercer mes de
-
-un trimestre calendario, el emisor estará obligado a entregar al
-
-mutuario,mediante un pagaré expresado en U.F. o en I.V.P. según corresponda, el
-
-monto dela amortización e intereses por el período comprendido entre el día 1°
-
-del mes en que se inicie el pago de los dividendos y el último día del
-
-respectivo trimestre calendario.
-
-Dicho pagaré podrá extenderse a la orden, nominativo o al portador. La fecha de
-
-vencimiento deberá ser coincidente con la del cupón correspondiente al trimestre
-
-en que se efectúe la emisión material de la letra y su monto será igual al valor
-
-de dicho cupón, deducido el importe devengado entre la fecha de vencimiento del
-
-cupón inmediatamente anterior y la del último día del mes anterior al de inicio
-
-del pago del mutuo. El pagaré deberá indicar, además, la obligación hipotecaria
-
-a que corresponde.
-
-Cuando se trate de préstamos en letras de crédito para fines generales en lasque
-
-se hubiere convenido que el crédito empezará a devengar intereses y reajustes a
-
-favor del acreedor desde el día primero del mes subsiguiente a aquél en que se
-
-celebre el respectivo contrato de mutuo, la institución emisora deberá
-
-desprender el primer cupón de las correspondientes letras de crédito. En tales
-
-casos la institución emisora deberá entregar al mutuario, mediante un pagaré
-
-expresado en U.F. o en I.V.P. según corresponda, el monto de la amortización e
-
-intereses por el período comprendido entre el día 1° del mes en que se inicie el
+Cuando se trate de préstamos en letras de crédito para fines generales en lasque se hubiere convenido que el crédito empezará a devengar intereses y reajustes a favor del acreedor desde el día primero del mes subsiguiente a aquél en que se celebre el respectivo contrato de mutuo, la institución emisora deberá desprender el primer cupón de las correspondientes letras de crédito. En tales casos la institución emisora deberá entregar al mutuario, mediante un pagaré expresado en U.F. o en I.V.P. según corresponda, el monto de la amortización e intereses por el período comprendido entre el día 1° del mes en que se inicie el
 
 servicio del mutuo y la fecha de vencimiento del cupón retirado.
 
-El referido pagaré, al igual que el señalado precedentemente, podrá ser a la
+El referido pagaré, al igual que el señalado precedentemente, podrá ser a la orden, nominativo o al portador y deberá indicar la obligación hipotecaria a que corresponde.
 
-orden, nominativo o al portador y deberá indicar la obligación hipotecaria a que
-
-corresponde.
-
-De acuerdo a lo señalado en el párrafo anterior, la fecha de vencimiento debe
-
-ser coincidente con la del cupón que hubiere sido desprendido de la letra y su
-
-monto será igual al valor de dicho cupón, deducido el importe devengado entre la
-
-"fecha de emisión nominal" de las respectivas letras y el día primero del mes
-
-subsiguiente a esa fecha.
+De acuerdo a lo señalado en el párrafo anterior, la fecha de vencimiento debe ser coincidente con la del cupón que hubiere sido desprendido de la letra y su monto será igual al valor de dicho cupón, deducido el importe devengado entre la "fecha de emisión nominal" de las respectivas letras y el día primero del mes subsiguiente a esa fecha.
 
 7.- Dividendos.
 
@@ -28278,7 +28182,7 @@ A los bancos y sociedades financieras, en su calidad de emisores de valores de o
 
 De conformidad con lo señalado en el artículo 9° de la Ley N° 18.045 ya citada, debe entenderse por información esencial aquella que un hombre juicioso consideraría importante para sus decisiones sobre inversión.
 
-Para cumplir con esa disposición, los bancos y sociedades financieras deben considerar como información esencial todos los hechos o actos que produzcan o puedan producir cambios importantes, tanto en la situación patrimonial como en la dirección o administración de la empresa. A modo de ejemplo, podrían considerarse los siguientes hechos:
+Para cumplir con esa disposición, los bancos y sociedades financieras deben considerar como información esencial todos los hechos o actos que produzcan o puedan producir cambios importantes, tanto en la situación patrimonial como en la dirección o administración de la empresa como asimismo las sanciones aplicadas a la sociedad por el incumplimiento de disposiciones legales o reglamentarias. A modo de ejemplo, podrían considerarse los siguientes hechos:
 
 - Variaciones importantes en los montos reales y condiciones de la deuda de personas y empresas relacionadas a la propiedad o gestión de la institución. Para los efectos de informar las modificaciones en el monto, deberán excluirse aquellas reducciones de deudas que provengan del cumplimiento de los planes de desconcentración establecidos por esta Superintendencia.
 
@@ -28294,7 +28198,7 @@ cubiertas por provisiones.
 
 - Cambios importantes en la situación financiera originados por variaciones de la tasa de interés o paridad cambiarla.
 
-- Que la institución haya sido sancionada con multas de un monto importante (que exceda 1.000 U.F.), ya sea por esta Superintendencia o por otro Organismo.
+- Que la institución financiera haya sido sancionada por esta Superintendencia o por otro Organismo sin que resulte necesario informar aquellas sanciones que correspondan a amonestaciones, censuras o multas por montos inferiores a 250 U.F.
 
 - Que la empresa esté sujeta a alguna de las prohibiciones señaladas en el artículo 19 bis del D.L. 1.097 o se le haya nombrado un inspector delegado.
 
