@@ -1,0 +1,3 @@
+Por resolución exenta No. 852, de fecha 22 de Agosto de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a la Asociación Gremial de Transporte de Pasajeros San Bernardo, para efectuar servicio público urbano de locomoción colectiva en la Línea de Buses No. 75 "Intercomunal San Bernardo La Cisterna", cuyo trazado se encuentra autorizado por resolución exenta No. 251, de Marzo de 1985.
+
+Santiago, 27 de Agosto de 1986.- Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
