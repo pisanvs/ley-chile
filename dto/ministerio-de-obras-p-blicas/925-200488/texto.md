@@ -1,0 +1,3 @@
+Por decreto MOP Nº925 de fecha 30 de mayo de 2002, se expropiaron los lotes de terreno Nº1, 2 y 3, superficies 5.802, 3.607 y 2.920 m², rol de avalúo Nº273-30, comuna de San Fernando, para la obra ''Camino San Fernando - Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264'', VI Región y se acordó el valor de indemnización con su propietario Jugos Concentrados S.A., ascendente a la cantidad de $149.925.359.-
+
+Fiscal del Ministerio de Obras Públicas.
