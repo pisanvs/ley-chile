@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA EXPOGAMAR LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 121 de 06 de Febrero de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Expogamar Limitada, domiciliada en Santiago, para instalar y operar una planta elaboradora de recursos hidrobiológicos en calle Baquedano N° 16 de Coquimbo, IV Región, en las líneas de congelado y conserva en la que se podrá utilizar como materia prima: albacora, agujilla, bonito, cojinova del norte, congrio colorado, congrio negro, corvina, jurel, machuelo, merluza común, mero, palometa, pejegallo, sardina común, sardina española, rollo, almeja, taca, caracol locate, caracol trumulco, chochas, choro zapato, lapa, macha, navajuela, ostión del norte, pulpo, camarón de nailón, langostino amarillo, jaiba y piure. La interesada deberá efectuar el transporte de las especies desde su centro de abastecimiento hasta la planta elaboradora en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 06 de Febrero de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
