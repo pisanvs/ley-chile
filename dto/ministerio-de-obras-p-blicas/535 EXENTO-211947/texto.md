@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 535 de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº 91, superficie 227 m2, rol Nº 520-43, comuna de Parral, VII Región para la obra "Camino Ruta L-75 - Sector El Ajial - Las Camelias Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario José Juan Ramón Guzmán Muñoz, ascendente a la cantidad de $400.891.
+
+- Fiscal del Ministerio de Obras Públicas.
