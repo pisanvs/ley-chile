@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.418 de fecha 28 de noviembre de 2003, se expropió el lote de terreno Nº 154, superficie 467 m², rol Nº 32-473, comuna de Pichidegua, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Susana del Carmen Tobar Castro y Otros, ascendente a la cantidad de $3.314.979.
+
+Fiscal del Ministerio de Obras Públicas.
