@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.741, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº 51, superficie 30 m2, Rol Nº 59-26, comuna de Chépica, VI Región para la obra ''Mejoramiento Camino Chépica-Bif. Teno, Sector Cuesta El Peral-Chépica, tramo Km. 5.250. a Km. 18.893,22'' y se acordó el valor de indemnización con su propietario Oscar Ricardo López Cáceres y otros, ascendente a la cantidad de $517.020.-
+
+Fiscal del Ministerio de Obras Públicas.
