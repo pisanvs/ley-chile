@@ -1,0 +1,3 @@
+Por resolución Nº 2.602, de 6 de diciembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101213 presentada por JOSE ROBERTO QUINTRUL MARILEO para instalar y operar un centro de cultivo ubicado en lote C, parcela Nº 20, ribera norte del río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 6 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
