@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE LA CRUZ
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 133, de 20 de Enero de 1989, modificó y ratificó resolución exenta N° 2.022, de 28 de Septiembre de 1987, publicada en Diario Oficial de fecha 01 de Octubre de 1987, que determinó Derechos Aprovechamiento Aguas proporcionales para Sector Excluido y Sector Expropiado predio Fundo Lo Rojas y Derechos Aprovechamiento Aguas de las parcelas y sitios del Proyecto de Parcelación "Los Faisanes" de la comuna de La Cruz, formado por predio señalado, en el sentido de establecer nueva distribución entre parcelas N°s. 1 a la 33 y sitios N°s. 1 al 23. Los derechos de aguas se extraen del Canal Lo Rojas del Estero El Litre. Publicación hecha conforme art. 13 Ley N° 18.377.-
+
+Director Nacional (S)
