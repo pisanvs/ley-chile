@@ -1,0 +1,3 @@
+Por decreto MOP Nº 782, de 17 de mayo de 2001, se dejó sin efecto la expropiación del lote de terreno Nº 1, aprobada por decreto MOP Nº 639, de 29 de febrero de 2001, que figura a nombre de Graciela Lobos Meneses, rol de avalúo 12-2, comuna de Pirque, superficie 5.000 M2., para la obra Proyecto Mejoramiento Integral del Servicio de Agua Potable para la zona de Pirque.
+
+Fiscal del Ministerio de Obras Públicas.
