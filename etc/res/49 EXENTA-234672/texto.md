@@ -1,0 +1,3 @@
+Por resolución exenta Nº 49, de 6 de enero de 2005 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203101082 presentada por SERGIO DEL CARMEN GALLARDO SANCHEZ, para instalar y operar un centro de cultivo ubicado al suroeste de desembocadura de río Canutillar, lote D, parcela Nº39, río Maullín, X Región.
+
+Valparaíso, 6 de enero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
