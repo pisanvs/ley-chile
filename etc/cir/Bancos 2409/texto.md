@@ -10818,58 +10818,6 @@ Los análisis que para esos casos especiales se efectúen y la forma en que se e
 
 Debido a que las pérdidas que podrían derivarse de las operaciones de compra con pacto de retrocompra de instrumentos financieros responderían solamente a situaciones de ocurrencia muy improbable al realizarse éstas conforme a las disposiciones vigentes, los activos correspondientes a estas operaciones no quedarán sujetos a un procedimiento general de evaluación o clasificación de los créditos, sin perjuicio de que la institución financiera deba mantener suficiente información acerca de los clientes y de la calidad de los instrumentos adquiridos, a fin de precaver eventuales pérdidas En todo caso, cualquier operación que pueda originar pérdidas deberá quedar, sobre la base de un criterio conservador, con las debidas provisiones al cierre del ejercicio.
 
-### IV. EVALUACION DE LOS BIENES RECIBIDOS EN PAGO O ADJUDICADOS
-
-### 1. Criterios de evaluación
-
-La evaluación de los bienes recibidos o adjudicados en pago se hará sobre la base del valor en que, de acuerdo con las condiciones normales de mercado, se estime que podrán venderse.
-
-El valor estimado de venta debe basarse en un valor comercial de referencia calculado a partir de información confiable. En ningún caso el valor comercial debe estimarse a partir de meras expectativas de mejoramiento de precios en el mercado o supuestos de carácter financiero relacionados con potenciales clientes, sino que se seguirá un criterio estrictamente conservador, fundado en las condiciones vigentes del mercado. El valor estimado de venta considerará sólo el monto neto que se obtendría en la enajenación del bien.
-
-Para evaluar los bienes recibidos o adjudicados en pago, las instituciones deben cumplir, como mínimo, con las exigencias que a continuación se especifican para los bienes que se indican:
-
-1.1. Bienes raíces.
-
-La evaluación de cualquier bien raíz recibido o adjudicado en pago deberá efectuarse mediante una tasación comercial que considere el plazo máximo en que debe procederse a su enajenación y que cumpla a lo menos con los siguientes requisitos:
-
-a) Que sea practicada por profesionales idóneos;
-
-b) Que cuente con suficientes antecedentes de respaldo referidos a los precios utilizados, las fuentes que originaron los cálculos de éstos y las consideraciones que sirvieron de base para determinar el valor final del bien tasado. Tales antecedentes habrán de permanecer en archivos de fácil consulta; y,
-
-c) Que se encuentre actualizada mientras el bien permanezca en poder de la institución. En todo caso su máxima antigüedad no podrá exceder de 18 meses.
-
-Estas tasaciones servirán para determinar la diferencia entre el valor registrado en el activo y el valor estimado de realización, siempre que no existan otros antecedentes más exactos sobre su valor comercial, como podrían ser ventas recientes de bienes similares. De igual manera, cualquier cambio que pudiera tener impacto en su valoración deberá incorporarse por la vía de su oportuna retasación.
-
-1.2. Acciones y derechos en sociedades.
-
-Las principales variables a considerar en la evaluación del riesgo de las acciones y derechos en sociedades que se reciban en pago, deben relacionarse con la solvencia y liquidez de la empresa emisora, como también con la cotización de mercado que estos instrumentos tengan, si procede.
-
-1.3. Otros bienes.
-
-Cualquier otro bien distinto a los señalados anteriormente, deberá evaluarse de modo que su valor de liquidación se refleje apropiadamente.
-
-### 2. Revisión de esta Superintendencia
-
-Esta Superintendencia en sus revisiones habituales examina la documentación de respaldo y la calidad de la evaluación practicada por la institución a sus bienes recibidos o adjudicados en pago. En caso de verificarse el incumplimiento de las exigencias mínimas antes descritas, o que existan dudas respecto de las evaluaciones efectuadas, podrá requerirse una retasación total o parcial de los mencionados bienes.
-
-### 3. Exigencia de provisiones
-
-La provisión que debe mantenerse por los bienes recibidos en pago será equivalente a la diferencia que se determine de comparar el monto total registrado en el activo por dichos bienes con el total resultante de la suma de los valores estimados de venta de los mismos, obtenidos de acuerdo con lo instruido en los numerales precedentes de este título.
-
-En ningún caso se considerarán dentro de aquellos cálculos, los valores de los bienes que hubieren sido castigados.
-
-V.- ACTIVO FIJO FÍSICO.
-
-Debido a que el activo fijo físico está constituido por bienes propios del giro, que no se pretende enajenar, no se requiere efectuar evaluaciones de tales activos en forma permanente.
-
-No obstante, las instituciones financieras deben disponer de tasaciones de todos los bienes que se encuentren registrados en el activo fijo físico por un valor neto de depreciaciones igual o superior al equivalente de 3.000 unidades de fomento, a fin de permitir comparaciones entre el valor de tasación y el valor contable de tales bienes. Esta Superintendencia podrá solicitar nuevas tasaciones cada vez que lo estime necesario.
-
-3. Calificación de las instituciones financieras según sus procesos de clasificación de cartera.
-
-Las calificaciones de las instituciones financieras en las categorías establecidas según la calidad de sus sistemas de clasificación de cartera, tratadas en el título I de este Capítulo, se aplicarán por primera vez sobre la base de los resultados obtenidos de las revisiones que practique este Organismo a partir del 1° de diciembre de 1990.
-
-Sin embargo, en una primera etapa las calificaciones se darán a conocer solamente a las evaluadoras privadas de riesgo y a la Comisión Clasificadora de Riesgos de las AFP. Posteriormente, cuando todas las instituciones se encuentren calificadas, las clasificaciones se darán a conocer al público en general según lo previsto en las presentes normas.
-
 ANEXO N° 1. Suprimido.
 
 ANEXO N° 2
@@ -12533,6 +12481,10 @@ b) Cuando se trate de bienes cuyo valor contable sea inferior a su valor comerci
 3.- Garantías otorgadas y recibidas.
 
 Todas las garantías otorgadas o recibidas por la institución financiera deberán ser registradas en las cuentas de orden que correspondan.
+
+VI.- DISPOSICION TRANSITORIA.
+
+No obstante lo indicado en el N° 3 del título IV de este Capítulo, al tratarse de bienes recuperados durante los años 1999, 2000 y 2001, el plazo para su castigo se amplía hasta 30 meses a contar de la fecha de su recuperación.
 
 ANEXO N° 1
 
@@ -14766,11 +14718,45 @@ Para los efectos de ajustar la provisión de que trata el N° 2 siguiente, la di
 
 2.- Provisión sobre bienes recibidos o adjudicados en pago.
 
-Las instituciones financieras deberán mantener una provisión para cubrir el riesgo de pérdida por los bienes recibidos o adjudicados en pago. El monto de esta provisión se determinará a lo menos al cierre de cada mes, de la forma establecida en el titulo IV del Capitulo 8-28 de esta Recopilación Actualizada de Normas.
+Las instituciones financieras deberán mantener una provisión para cubrir el riesgo de pérdida por venta de los bienes recibidos o adjudicados en pago, de acuerdo con lo siguiente:
 
-Esta provisión se abonará a la cuenta "Provisión sobre bienes recibidos o adjudicados en pago" de la partida 4220, con cargo a la cuenta que, con el mismo nombre se incluye en la partida 6130.
+2.1.- Provisión mínima y registro contable.
 
-La provisión constituida será utilizada solamente para cubrir las pérdidas que se produjeren en la enajenación de los bienes recibidos o adjudicados en pago. Los excesos de provisión que se determinen con motivo de los ajustes mensuales antes indicados, deberán liberarse acreditando la cuenta de gastos mencionada en el párrafo precedente.
+La provisión mínima que debe mantenerse por los bienes recibidos en pago se determinará al cierre de cada mes y será equivalente a la diferencia entre el monto total registrado en el activo por dichos bienes y el total resultante de la suma de los valores estimados de venta de los mismos, obtenidos de acuerdo con lo instruido en el numeral 2.2 siguiente En ningún caso se considerarán dentro de estos cálculos, los valores de los bienes que hubieren sido castigados.
+
+El total de la provisión constituida sobre los activos de que se trata, se informará en la cuenta "Provisión sobre bienes recibidos o adjudicados en pago" de la partida 4220, mostrándose el resultado en la cuenta que, con el mismo nombre, se incluye en la partida 6130.
+
+La provisión será utilizada solamente para cubrir las pérdidas que se produjeren en la enajenación de los bienes recibidos o adjudicados en pago Los excesos de provisión que se determinen con motivo de los ajustes mensuales, deberán liberarse acreditando la cuenta de resultados mencionada en el párrafo precedente.
+
+2.2.- Valor de liquidación.
+
+El valor de liquidación de los bienes recibidos o adjudicados en pago se determinará de acuerdo con las condiciones vigentes de mercado, debiendo corresponder al monto neto que se obtendría en la enajenación del bien de que se trate.
+
+Para ese efecto, las instituciones financieras se atendrán a lo siguiente para la valorización de los bienes que se indican:
+
+2.2.1.- Bienes raíces.
+
+La determinación del valor de liquidación de un bien raíz recibido o adjudicado en pago deberá basarse en una tasación que considere el plazo máximo en que debe procederse a su enajenación y que cumpla a lo menos con los siguientes requisitos:
+
+a) Que sea practicada por profesionales idóneos.
+
+b) Que cuente con suficientes antecedentes de respaldo referidos a los precios utilizados, las fuentes que originaron los cálculos de éstos y las consideraciones que sirvieron de base para determinar el valor final del bien tasado Tales antecedentes habrán de permanecer en archivos de fácil consulta.
+
+c) Que se encuentre actualizada mientras el bien permanezca en poder de la institución En todo caso su máxima antigüedad no podrá exceder de 18 meses.
+
+Estas tasaciones servirán para determinar la diferencia entre el valor registrado en el activo y el valor estimado de realización, siempre que no existan otros antecedentes más exactos, como podrían ser ventas recientes de bienes similares.
+
+2.2.2.- Acciones y derechos en sociedades.
+
+Las principales variables a considerar en la determinación del valor de liquidación de las acciones y derechos en sociedades que se reciban en pago, deben relacionarse con la solvencia y liquidez de la empresa emisora, como también con la cotización de mercado que estos instrumentos tengan, si procede.
+
+2.2.3. - Otros bienes.
+
+Cualquier otro bien distinto a los señalados anteriormente, deberá evaluarse de modo que su valor de liquidación se refleje apropiadamente.
+
+2.3.- Retasaciones exigidas por esta Superintendencia.
+
+En caso de incumplimiento de las exigencias antes mencionadas, o que existan dudas respecto de las evaluaciones efectuadas, esta Superintendencia podrá requerir una retasación total o parcial de los bienes.
 
 ### 3. Venta de los bienes
 
@@ -14815,6 +14801,10 @@ Los bienes recibidos o adjudicados en pago no serán objeto de castigos contable
 Los deterioros físicos o desvalorizaciones de cualquier naturaleza que pueda sufrir un bien, serán reconocidos por la vía de incrementar el monto de la provisión por sobrevaloración a que se refiere el N° 2 de este título, lo que en ningún caso exime a la institución financiera de la obligación de enajenar dentro de los plazos establecidos o de mantenerse dentro del margen legal a que se ha hecho referencia anteriormente. Si la institución financiera se deshace de bienes sin valor comercial conforme a lo indicado en el numeral 4.3 del título I de estas normas, procederá a efectuar, en esa oportunidad, la correspondiente rebaja del activo, empleando para el efecto las provisiones constituidas.
 
 Los castigos efectuados en cumplimiento de lo dispuesto en el penúltimo inciso del N° 5 del artículo 84 de la Ley General de Bancos, se harán de acuerdo con lo previsto en el numeral 4.2 del título I de este Capítulo y sus resultados se informarán en la cuenta "Castigo de bienes recibidos o adjudicados en pago" de la partida 6315. Para contabilizar la venta de un bien cuyo valor se encuentre parcialmente castigado, el monto remanente registrado en el activo se tratará como costo de la venta.
+
+IV.- DISPOSICION TRANSITORIA.
+
+El plazo adicional de 18 meses a que se refiere el numeral 4 2 del título I de este Capítulo, podrá aplicarse también a los bienes que no se encuentren en las situaciones que se indican en ese numeral, cuando se trate de bienes recibidos o adjudicados en pago durante los años 1999, 2000 y 2001.
 
 APITULO 10-2 (Bancos y Financieras)
 
