@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 623 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 2, superficie 1.036 m2, Rol Nº 264-93, comuna de Chanco, VII Región, para la obra "Camino Ruta M-450, Sector: Chanco - Empedrado (Accesos a Pte. Rari), Tramo Km. 14,120 a Km. 14,925" y se acordó el valor de indemnización con su propietario Francisco Segundo Castro Arroyo, ascendente a la cantidad de $388.689.-
+
+Fiscal del Ministerio de Obras Públicas.
