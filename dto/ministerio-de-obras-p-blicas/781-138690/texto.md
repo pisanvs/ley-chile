@@ -1,0 +1,3 @@
+Por decreto MOP No. 781, de 31 de marzo de 1999, se expropió el lote de terreno No. 18, superficie 10 M2. rol de avalúo 366-5, comuna de Concepción, para la obra Reposición Puente Bío-Bío (Antiguo) Ruta 160 Concepción-San Pedro, sector Enlace 4. Y se acordo precio de indemnización con su propietario Ernesto Soto Dias y otros, ascendente a la cantidad de $ 340.695.-
+
+Fiscal del Ministerio de Obras Públicas.
