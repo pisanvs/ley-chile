@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de San José de la Mariquina para que, por intermedio de la Tesorería General, emita bonos hasta por $ 350,000, a fin de dotar de energía eléctrica a ese pueblo.
