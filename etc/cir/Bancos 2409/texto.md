@@ -2484,13 +2484,9 @@ SISTEMA DE AHORRO Y FINANCIAMIENTO DE LA VIVIENDA.
 
 ### I. GENERALIDADES DEL SISTEMA DE AHORRO Y FINANCIAMIENTO DE LA VIVIENDA
 
-Este sistema, reglamentado por el Decreto Supremo N° 44 del Ministerio de Vivienda y Urbanismo, publicado en el Diario Oficial del 9 de abril de 1988,modificado por los Decretos Supremos N°s. 114 y 135, del mismo
+Este sistema, reglamentado por el Decreto Supremo N° 44 del Ministerio de Vivienda y Urbanismo, publicado en el Diario Oficial del 9 de abril de 1988, y sus modificaciones, en adelante "el Reglamento", permite postular a un subsidio estatal y solicitar un préstamo en letras de crédito para financiar la construcción o la compra de una vivienda económica nueva o usada, urbana o rural, por un valor de hasta el equivalente de 2.000 unidades de fomento, a las personas naturales que, para ese fin, hayan enterado y mantenido en una institución financiera o en su Administradora de Fondos de Pensiones o Servicio de Bienestar Social, un determinado ahorro mínimo, durante un período preestablecido y que no sean propietarias de una vivienda.
 
-Ministerio,publicados en el Diario Oficial el 6 y 13 de agosto de 1988, respectivamente, en adelante "el Reglamento", permite postular a un subsidio estatal y solicitar un préstamo en letras de crédito para financiar la construcción o la compra de una vivienda nueva o usada, urbana o rural, por un valor de hasta el equivalente de 2.000 unidades de fomento, a las personas
-
-naturales que, para ese fin, hayan enterado y mantenido en una institución financiera, un determinado ahorro mínimo, durante un período preestablecido y que no sean propietarias de una vivienda.
-
-El subsidio habitacional ofrecido por el Estado es sin cargo de restitución para el beneficiario, pero no puede destinarse a la adquisición o construcción de viviendas de recreación o veraneo, ni a la adquisición de una vivienda a través de los mecanismos contemplados en el D.L. N° 1.519 de 1976, sobre Impuesto Habitacional. Es requisito imprescindible para postular a ese subsidio, haber enterado el ahorro previo en una cuenta de ahorro a plazo para la vivienda abierta en una institución financiera o, en la forma de aporte de capital, en una cooperativa abierta de vivienda.
+El subsidio habitacional ofrecido por el Estado es sin cargo de restitución para el beneficiario, pero no puede destinarse a la adquisición o construcción de viviendas de recreación o veraneo, ni a la adquisición de una vivienda a través de los mecanismos contemplados en el D.L. N° 1.519 de 1976, sobre Impuesto Habitacional. Es requisito imprescindible para postular a ese subsidio, haber enterado el ahorro previo en una cuenta de ahorro a plazo para la vivienda abierta en una institución financiera, en la forma de aporte de capital en una cooperativa abierta de vivienda, o bien, en una cuenta de ahorro mantenida en la respectiva Administradora de Fondos de Pensiones o en un Servicio de Bienestar Social.
 
 Los interesados que hayan dado cumplimiento al ahorro previo y que reúnan las demás condiciones exigidas por las normas que rigen este sistema, pueden postular al subsidio habitacional ofrecido por el Estado y solicitar un préstamo en letras de crédito para la compra o construcción de una vivienda.
 
@@ -2730,19 +2726,15 @@ Los titulares de cuentas de ahorro a plazo para la vivienda que cumplan con su c
 
 El monto del préstamo, que se curse de conformidad con este sistema, deberá destinarse, junto con la aplicación del subsidio habitacional y del ahorro previo, en caso que proceda, a pagar el saldo de precio de la vivienda adquirida o su construcción. Su importe no podrá exceder del monto máximo que indique el correspondiente Certificado de Subsidio Habitacional.
 
-De acuerdo con las disposiciones del Reglamento, el crédito que puede solicitar el interesado, al amparo de estas normas, no podrá ser superior a ocho veces el ahorro total pactado o el equivalente en Unidades de Fomento del puntaje obtenido por sitio propio, en caso que corresponda, ni al 75% del valor de la vivienda, según cual sea la cantidad que resulte menor, con un máximo que, en todo caso, no deberá exceder de un monto residual en letras de crédito, igual a 280, 670 ó 1.000 Unidades de Fomento, según sea el valor de la vivienda a la que postule, esto es, si dicho valor alcanza a 400, 900 ó 2.000 Unidades de Fomento,
-
-respectivamente. No obstante, las instituciones financieras podrán otorgar préstamos hipotecarios adicionales, al margen del sistema de subsidio habitacional, destinados a enterar eventuales saldos de precio no cubiertos por el sistema, siempre que se trate de viviendas cuyo precio no exceda del equivalente a 2.000 Unidades de Fomento, sin exceder, tampoco, del monto máximo
-
-del tramo de valor de vivienda a que hubiere postulado el beneficiario respectivo.
+De acuerdo con las disposiciones del Reglamento, el crédito que puede solicitar el interesado, al amparo de estas normas, no podrá ser superior a ocho veces el ahorro total pactado o el equivalente en Unidades de Fomento del puntaje obtenido por sitio propio, en caso que corresponda, ni al 75% del valor de la vivienda, según cual sea la cantidad que resulte menor, con un máximo que, en todo caso, no deberá exceder de un monto residual en letras de crédito, igual a 280, 670 ó 1.000 Unidades de Fomento, según sea el valor de la vivienda a la que postule, esto es, si dicho valor alcanza a 400, 900 ó 2.000 Unidades de Fomento, respectivamente. No obstante, las instituciones financieras podrán otorgar préstamos hipotecarios adicionales, al margen del sistema de subsidio habitacional, destinados a enterar eventuales saldos de precio no cubiertos por el sistema, siempre que se trate de viviendas cuyo precio no exceda del equivalente a 2.000 Unidades de Fomento, sin exceder, tampoco, del monto máximo del tramo de valor de vivienda a que hubiere postulado el beneficiario respectivo.
 
 Se entiende, para estos efectos, por valor residual del crédito, el valor nominal de las respectivas letras de crédito, menos las amortizaciones correspondientes a los meses transcurridos entre el 1° de enero del año de su emisión material y el día 1° del mes subsiguiente a aquél en que se suscriba el contrato de mutuo respectivo.
 
 Los préstamos que se otorguen dentro del sistema de subsidio, lo serán en letras de crédito, expresados en unidades de fomento o en Indice Valor Promedio, pagaderos en un plazo de 12, 15, o 20 años, con tasas de interés máxima para el deudor, de 8,5%, 9% o 10% anual, condiciones ambas a elección del mutuario.
 
-La tasa de interés y el plazo del crédito deben quedar estipulados en el mutuo hipotecario. Por su parte, las letras de crédito emitidas con motivo del otorgamiento de los referidos préstamos, devengarán una tasa de interés nominal no inferior al 5,5% anual. En ningún caso, el diferencial entre las tasas del mutuo y de las letras de crédito podrá exceder de tres puntos. Tal diferencial corresponde al importe que se cobra como "comisión" en las operaciones habituales en letras de crédito.
+La tasa de interés y el plazo del crédito deben quedar estipulados en el mutuo hipotecario. Por su parte, las letras de crédito emitidas con motivo del otorgamiento de los referidos préstamos, devengarán una tasa de interés nominal no inferior al 5,5% o al 6% anual, a elección de la institución financiera. En ningún caso, el diferencial entre las tasas del mutuo y de las letras de crédito podrá exceder de tres puntos. Tal diferencial corresponde al importe que se cobra como "comisión" en las operaciones habituales en letras de crédito.
 
-Corresponde, en consecuencia, que las entidades financieras elaboren las respectivas tablas de desarrollo del mutuo hipotecario sobre la base del interés que se hubiera acordado y de una comisión de hasta el 3%, que se demostrarán en columnas separadas en las tablas que se presenten a esta Superintendencia para el registro del respectivo prospecto, y en las que formen parte de la escritura de mutuo.
+Corresponde, en consecuencia, que las entidades financieras elaboren las respectivas tablas de desarrollo del mutuo hipotecario sobre la base del interés que se hubiera acordado y de una comisión de hasta el 3% o el 2,5% anual según sea la tasa de interés de las letras de crédito del 5,5% o del 6% anual, respectivamente. Los intereses y la comisión se demostrarán en columnas separadas en las tablas que se presenten a esta Superintendencia para el registro del respectivo prospecto, y en las que formen parte de la escritura de mutuo.
 
 Tanto para los efectos del préstamo que se curse como de las letras de crédito que por su concepto se emitan, las instituciones financieras deben atenerse, en todo aquello que no está tratado de una manera distinta en estas disposiciones, a las normas generales sobre la materia, dictadas por el Consejo Monetario y el Comité Ejecutivo del Banco Central de Chile, como a las instrucciones que ha impartido esta Superintendencia.
 
@@ -2790,7 +2782,7 @@ Las letras de crédito que emitan las instituciones financieras, por los présta
 
 ### 2. Plazo y tasa de interés
 
-Las letras de crédito originadas en las operaciones a que se refiere este capítulo, podrán emitirse a 12, 15 ó 20 años, según sea el plazo del respectivo crédito y a una tasa de interés nominal anual no inferior al 5,5%.
+Las letras de crédito originadas en las operaciones a que se refiere este capítulo, podrán emitirse a 12, 15 ó 20 años, según sea el plazo del respectivo crédito y a una tasa de interés nominal anual no inferior al 5,5% o al 6%, según sea el caso.
 
 ### 3. Venta de las letras de crédito
 
@@ -2922,23 +2914,13 @@ Las cuentas de ahorro a plazo de que trata este capítulo también podrán ser u
 
 Atendidas las especiales características de los depósitos en cuentas de ahorro para la vivienda, que permiten postular al subsidio estatal y a un préstamo en letras de crédito, a las personas que hayan mantenido un ahorro mínimo, esta Superintendencia estima que no es posible constituir garantía prendaria sobre el saldo mantenido en esas cuentas.
 
-### 7. Disposiciones transitorias
+### 7. Certificado por crédito aprobado
 
-7.1. Traspaso de fondos a cuentas de ahorro a plazo.
+Los bancos y las sociedades financieras que aprueben, ya sea por su propia cuenta o en calidad de agentes administradores de que trata el título II del Capítulo 8-4 de esta Recopilación, el otorgamiento de préstamos hipotecarios para vivienda superiores a 280 unidades de fomento que les soliciten los postulantes al subsidio que acrediten mantener sus ahorros en las Administradoras de Fondos de Pensiones, Servicios de Bienestar Social o por intermedio de cooperativas por la disponibilidad de sitio o aporte de capital, deberán otorgar a éstos un certificado en el que conste la aprobación en principio del referido crédito, para los efectos de la referida postulación.
 
-El artículo 2° transitorio del Decreto Supremo N° 44, establece lo siguiente:
+### 8. Disposición transitoria
 
-"Los beneficiarios de subsidio habitacional de los llamados efectuados conforme al D.S. N° 188 (V. y U), de 1978, y sus modificaciones, y el D.S. N° 351 (V. y U.), de 1980, cuyos certificados de subsidio hubieren expirado sin haberlos aplicado, que mantuvieren en custodia en un Banco o Sociedad Financiera los certificados de depósito a plazo reajustables y renovables automáticamente,endosados a favor del SERVIU respectivo, mediante los cuales acreditaron el ahorro en el respectivo llamado, al postular nuevamente podrán obtener puntaje por la antigüedad de dicho ahorro siempre que antes del 1° de enero de 1989 lo transfieran a una Cuentas de Ahorro a Plazo para la Vivienda, dentro de los tres días hábiles siguientes a aquél en que el SERVIU le comunique al interesado que dicho traspaso ha sido autorizado mediante la correspondiente resolución. Dicho traspaso deberá incluir todos los intereses y reajustes devengados hasta la fecha en que éste se efectúe, lo cual se acreditará mediante certificado de la entidad bancaria o financiera en la cual se mantuvo ese depósito.
-
-Con el mérito de la resolución del SERVIU que hubiere autorizado el traspaso,del certificado extendido por la entidad bancaria o financiera en que se mantuvo el depósito, y del otorgado por la institución bancaria o financiera en la que se hubiere abierto la Cuenta de Ahorro a Plazo para la Vivienda a la cual se traspasaron dichos fondos, se considerará, para los efectos del puntaje por permanencia o antigüedad del ahorro, la fecha de emisión del respectivo certificado de depósito".
-
-A fin de que los beneficiarios de subsidio habitacional puedan dar cumplimiento a las referidas normas, las instituciones financieras, cuando los titulares delos depósitos a plazo aludidos precedentemente, debidamente facultados en la forma ya señalada, les soliciten poner término a dichos depósitos con el fin de traspasar esos recursos a una Cuenta de Ahorro a Plazo para la Vivienda, deberán abonar los intereses y reajustes devengados por esos instrumentos hasta la fecha de su liquidación. No se aplicarán, en este caso, las normas contenidas en el N° 4 de la Circular N° 1.698-184 del 27 de agosto de 1980, modificado por la Circular N° 1.883-335 del 17 de enero de 1983, de esta Superintendencia.
-
-Asimismo, las instituciones financieras deberán emitir oportunamente los certificados señalados precedentemente, a fin de que los beneficiarios de subsidio habitacional puedan acreditar tanto la mantención de su depósito aplazo como la apertura de la Cuenta de Ahorro a Plazo para la Vivienda.
-
-7.2. Uso de Certificados y Libretas que aluden al "D.S. N° 74".
-
-Las instituciones financieras que mantengan formularios de certificado de mantención de cuenta de ahorro a plazo para la vivienda y libretas, en los que se indique el Decreto Supremo N° 74, de 1984, podrán continuar utilizándolos hasta agotar su existencia.
+Las normas relativas al uso de letras de crédito con tasa de interés no inferior al 6% anual para los créditos de que trata este Capítulo y al cobro de comisiones no superiores al 2,5% anual, serán aplicables a partir del 1° de enero de 1992.".
 
 ANEXO N° 1
 
