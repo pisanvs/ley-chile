@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1044, de 28 de junio de 2002 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº124, para la obra Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, sector Km.
+
+55.43897 al Km. 69,89561 y Km. 3,101 al Km. 3,92745, Subtramo IV, Provincia de Cautín, IX Región, que figura a nombre de Luz E. Chandía Villalobos, rol de avalúo 65-27, superficie 67 m2., comuna de Carahue. La Comisión de Peritos, con fecha 30 de septiembre de 2000, fijó la indemnización provisional en la cantidad de $529.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Publicas
