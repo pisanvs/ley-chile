@@ -1,0 +1,3 @@
+Por decreto MOP Nº 592, de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº 8, superficie 350 m², rol de avalúo 263-10, comuna de Florida, para la obra "Camino Ruta O-50, Sector Cabrero - Copiulemu Km. 0,00000 a Km. 46,33803" y se acordó el valor de indemnización con su propietario María Angélica Quiero Goldberg, ascendente a la cantidad de $3.459.148.-
+
+Fiscal del Ministerio de Obras Públicas.
