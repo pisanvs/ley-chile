@@ -1,0 +1,25 @@
+APRUEBA GABINETE TECNICO Y AUTORIZA A LA MUNICIPALIDAD DE "TOCOPILLA" PARA OTORGAR LICENCIAS DE CONDUCTOR
+
+(Resolución)
+
+Núm 14.- Santiago, 26 de Febrero de 1987.- Visto: Estos antecedentes; lo dispuesto por el Art. 9° de la Ley de Tránsito, Ley No. 18.290; el No. 2 del Art. lo de la Ley No.
+
+18.597; el Decreto Supremo No. 97 del Ministerio de Transportes y Telecomunicaciones, Subsecretaria de Transportes, publicado en el Diario Oficial del 12 de septiembre de 1984; y la resolución No. 1.050, de 1980, de la Contraloría General de la República; y
+
+Teniendo presente: Lo informado por el Secretario Regional Ministerial de Transportes y Telecomunicaciones de la II Región, en el sentido de que la Municipalidad de "Tocopilla" cuenta con Gabinete Técnico provisto de los elementos requeridos para el otorgamiento de licencias,
+
+Resuelvo:
+
+1.- Apruébase el Gabinete Técnico creado e instalado en la Municipalidad de "Tocopilla" por cumplir con los requisitos exigidos.
+
+2.- Autorízase a la Municipalidad de "Tocopilla" para otorgar Licencias de Conductor de acuerdo a lo señalado en la Ley de Tránsito y sus reglamentos.
+
+3.- En todo caso, la Municipalidad precedentemente individualizada deberá suspender el otorgamiento de Licencias de Conductor, en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorización.
+
+4.- La presente resolución entrará en vigencia a contar de su publicación en el Diario Oficial.
+
+5.- Derógase la resolución No. 66, de 4 de agosto de 1986, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, sin tramitar.
+
+Anótese, tómese razón, comuníquese y publíquese.- Enrique Escobar Rodríguez, General de Aviación, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda a Ud.- Patricia Muñoz Villela, Jefe Administrativo.
