@@ -1,0 +1,5 @@
+EXTRACTO
+
+Jaime Morandé Orrego, Notario Público titular de la 17ª Notaría de Santiago, con oficio en Rosa Rodríguez 1331, Santiago, certifico: Por escritura pública suscrita con fecha 30 de enero de 2001, ante mí Young Sin Sul, Jea Jin Koh Park, Kwan Ho Han, Song Yol Lee, Chul So Song todos domiciliados en calle Los Araucanos 2651, Providencia constituyeron la entidad denominada ''Misión Siglo XXI. Iglesia Sung Rak de Santiago'', según Ley de Cultos Religiosos. Domicilio: Santiago, sin perjuicio de otros ya sea en la República o extranjero. Libros y registros de la entidad Art. 5º decreto supremo 303, en domicilio principal. Plazo: indefinido. Objeto: Predicación y difusión del Evangelio como Iglesia Evangélica o protestante. Demás estipulaciones en escritura extractada.
+
+Santiago, enero 28 de 2002.- Jaime Morandé Orrego.
