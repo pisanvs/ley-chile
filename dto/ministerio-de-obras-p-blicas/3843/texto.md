@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.843, de 29 de diciembre de 1999, se modificó el decreto MOP Nº2.547, de 31 de agosto de 1999, que dejó sin efecto el decreto Nº923, de 1999, en la parte que se refiere al lote Nº7, correspondiente a la obra Factibilidad Avanzada de la Evacuación de las Aguas Servidas El Tabo y El Quisco, en el sentido que el monto provisional de la indemnización de dicho lote fue consignado en el Primer Juzgado de Valparaíso.
+
+Fiscal del Ministerio de Obras Públicas.
