@@ -1,0 +1,5 @@
+Por decreto Exento MOP Nº69, de 5 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº83 para la obra:
+
+"CONCESION INTERNACIONAL RUTA 5. TRAMO : SANTIAGO - TALCA. SECTOR G: KM. 110.200,00 AL KM. 128.400,00", Sexta Región, que figura a nombre de AGRIC FRUTOS DEL SOL LTDA, rol de avalúo 118-97, comuna de Malloa, superficie 734 m2. La comisión de peritos integrada por los señores María Isabel de Jesús Ríos Marcuello, José Cristián Larraín Barros y Ricardo Antonio Strickler Arellano, fijó con fecha 18 de enero de 2003 , el valor provisional de la indemnización en la cantidad de $2.292.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
