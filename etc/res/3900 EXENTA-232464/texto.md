@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Exenta 3.900, 28 octubre 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle 8 Oriente (prolongación Manuel Rodríguez) Nº 1135 A, Recinto Machasa, Rol de Avalúo 2757-11, comuna Chiguayante, superficie 13,42m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-19.218, de aparente dominio de José O. Inzunza Zambrano, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por Leonardo Fasce Casanueva, arquitecto, Cecilia Carrasco Verdugo, arquitecto y Claudia Marzullo García, arquitecto, según informe de fecha 29 de septiembre de 2004, fijó monto provisional indemnización en $711.848.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
