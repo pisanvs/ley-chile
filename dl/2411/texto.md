@@ -1,0 +1,175 @@
+Concede asignación especial a los personales que indica, regidos por el decreto ley 249, de 1973
+
+NUM. 2.411.- Santiago, 13 de diciembre de 1978.- Visto: lo dispuesto en los decretos leyes 1 y 128, de 1973; 527, de 1974, y 991, de 1976,
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+DECRETO LEY:
+
+#### Artículo 1°
+
+Los funcionarios de los servicios, instituciones y empresas regidos por los artículos 1° y 2° del decreto ley 249, de 1974, pertenecientes a los escalafones que a continuación se indican, percibirán, a contar del 1° de enero de 1979, una asignación especial no imponible del monto que se señala en cada grado:
+
+Escalafones de: Contadores, Secretarios Ejecutivos, Secretarios Bilingües, Inspectores, Alcaides, Ayudantes de Fiscalización, Martilleros, Museólogos, Instructores, Prácticos Agrícolas, Ayudantes de Rehabilitación Penal, Recaudadores Fiscales, Estadísticos, Capitán de Nave Especial, Patrón de Bahía, Procuradores, Dibujantes Técnicos, Oficiales Administrativos, Secretarios, Telegrafistas, Encargados de Taller, Mayordomos, Choferes, Auxiliares, Auxiliares de Educación de Párvulos, Telefonistas, Auxiliares Paramédicos, Maquinistas, Movilizadores de Tráfico, Artesanos Gráficos, Guardahilos, Carteros y Mensajeros, Fotógrafos, Matriceros, Mecánicos, Electricistas, Gasfíteres, Carpinteros, Soldadores, Pintores, Albañiles, Maestros de Cocina y Cocineros, y Matarifes.
+
+-------------------------------------------------------
+
+Funcionarios Monto Escalafón Monto
+
+de: Asignación de: Proce- Asignación
+
+samiento
+
+de Datos
+
+-------------------------------------------------------
+
+Grado 14 350 Grado 10 870
+
+Grado 15 590 Grado 11 800
+
+Grado 16 550 Grado 12 740
+
+Grado 17 500 Grado 13 690
+
+Grado 18 760 Grado 14 640
+
+Grado 19 850 Grado 15 590
+
+Grado 20 740 Grado 16 550
+
+Grado 21 690 Grado 17 500
+
+Grado 22 650 Grado 18 760
+
+Grado 23 600 Grado 19 850
+
+Grado 24 560 Grado 20 740
+
+Grado 25 530 Grado 21 690
+
+Grado 26 490 Grado 22 650
+
+Grado 27 460 Grado 23 600
+
+Grado 28 430 Grado 24 560
+
+Grado 29 400 Grado 25 530
+
+Grado 30 260
+
+Grado 31 210
+
+-------------------------------------------------------
+
+"A los funcionarios de grados 14 e inferiores, pertenecientes a escalafones no incluidos en la enumeración del inciso primero, que no perciban las asignaciones establecidas en los artículos 3° del decreto ley N° 479, de 1974, 10 del decreto ley N° 924, de 1975 y 32 del decreto ley N° 2.327, de 1978, ni ninguna de las que otorgan otros artículos de este cuerpo legal, les corresponderá también la que concede el inciso segundo de esta disposición".
+
+> **Nota.** NOTA: 1 EL art. 1° del DL 2692, de 1979, sustituyó el monto de la asignación especial correspondiente a los grados 18, a contar del 1° de enero de 1979. El mismo DL 2692, en su artículo 2° dispone: Declárase que las asignaciones especiales concedidas por los artículos 1° y 2° del decreto ley N° 2.411, de 1978, están y han estado afectas al sistema de reajustabilidad establecido en el artículo 70° del decreto ley N° 670, de 1974, y sus modificaciones, y que, en consecuencia, ha debido aplicárseles el reajuste otorgado a contar del 1° de Marzo de 1979.
+
+> **Nota.** NOTA: 2 Esta modificación rige a contar del 1° de enero de 1979. (DL 2879, de 1979, art. 1°).
+
+> **Nota.** NOTA: 3 Esta modificación rige a contar de la vigencia del DL 3.001. (DL 3001, art. 5°. D. O. de 27 de diciembre de 1979).
+
+#### Artículo 2°
+
+Los funcionarios del personal subalterno del Poder Judicial y el de su Oficina de Presupuesto, y el de las Plantas del Personal Especializado, Administrativa, de Servicios Menores y de Oficios Varios de la Contraloría General de la República, tendrán derecho a percibir, a contar del 1° de enero de 1979, una asignación especial no imponible del monto que se señala en cada grado:
+
+-------------------------------------------------------
+
+Grados Montos Grados Montos
+
+-------------------------------------------------------
+
+14___________640 23___________600
+
+15___________590 24___________560
+
+16___________550 25___________530
+
+17___________500 26___________490
+
+18___________760 27___________460
+
+19___________850 28___________430
+
+20___________740 29___________400
+
+21___________690 30___________260
+
+22___________650 31___________210
+
+-------------------------------------------------------
+
+#### Artículo 3°
+
+Concédese, a contar del 1° de enero de 1979, a los funcionarios que desempeñen cargos de Directivos, Jefaturas A, B, y C, Jefes de Presupuestos Niveles I, II y III, o Alcaides Niveles I, II y III en los servicios, instituciones y empresas regidos por los artículos 1° y 2° del decreto ley 249, de 1974, y a los funcionarios del personal subalterno del Poder Judicial y de su oficina de Presupuesto, del Congreso Nacional y de la Contraloría General de la República, ubicados en alguno de los grados 5 al 13, ambos incluidos, una asignación especial no imponible, equivalente al 20% de los respectivos sueldos bases del grado correspondiente.
+
+#### Artículo 4°
+
+A los funcionarios de los escalafones a que se refiere este texto, que perciban la asignación profesional establecida en el artículo 3° del decreto ley 479, de 1974, o la asignación establecida en el artículo 10 del decreto ley N° 924, de 1975 no les corresponderá ninguna de las asignaciones que concede este cuerpo legal.
+
+Tampoco corresponderán las asignaciones que otorgan los artículos 1° y 2° de este texto, a las personas que ingresen a la administración con posterioridad al 1° de enero de 1979, en el último grado del nivel de inicio de los escalafones a que se refieren dichos artículos, en tanto permanezcan en dicho grado.
+
+> **Nota.** NOTA: 4 El artículo 78 de la ley N° 18.681, interpretó el artículo 4° de la presente ley, en el sentido que la expresión inicial "A los funcionarios de los escalafones a que se refiere este texto", comprende tanto a los escalafones incluidos en el artículo 2° de este decreto ley, como a los funcionarios que desempeñen alguno de de los cargos señalados en su artículo 3°, y que, por lo tanto, a cualquiera de todos esos trabajadores que perciba la asignación profesional establecida en el artículo 3° del decreto ley N° 479, de 1979, no le ha correspondido ni le corresponde ninguna de las asignaciones que establecen los artículos 2° y 3° del decreto ley 2.411.
+
+#### Artículo 5°
+
+Facúltase al Presidente de la República para que, dentro del plazo de un año, determine a cuáles de los funcionarios del Consejo de Estado, de la Casa de Moneda de Chile, de la Planta de Vigilancia y Tratamiento penitenciario de Gendarmería de Chile, y de las empresas a que se refiere el artículo 2° del decreto ley 249, de 1974, cuyos cargos no están identificados en los escalafones y niveles del decreto con fuerza de ley 90, de Hacienda, de 1977, corresponderán las asignaciones que establece este cuerpo legal.
+
+El beneficio que se otorgue en uso de esta facultad regirá a contar del 1° de enero de 1979.
+
+> **Nota.** NOTA: 5 El artículo 1° del DS N° 191 de Hacienda, de 29 de marzo de 1979, estipuló lo que sigue: Los funcionarios de las Empresas a que se refiere el artículo 2° del decreto ley N° 249, de 1973, y de las Instituciones señaladas en el artículo 5° del decreto ley N° 2.411, de 1978, cuyos cargos no están identificados en los escalafones y niveles establecidos en el decreto con fuerza de ley N° 90, de 1977, del Ministerio de Hacienda, tendrán derecho a percibir las asignaciones que establece el decreto ley N° 2.411, de 1978, en los términos y condiciones que se señalan en los artículos siguientes, a partir del 1° de Enero de 1979.
+
+#### Artículo 6°
+
+Los funcionarios del Senado, de la Cámara de Diputados y de la Biblioteca del Congreso Nacional, que se encuentren ubicados en alguno de los grados que se señalan en el artículo 1° de este texto, percibirán, a contar del 1° de enero de 1979, la asignación especial no imponible que establece dicho artículo para el grado en que se encuentre ubicado.
+
+#### Artículo 7°
+
+Los decretos de nombramiento de personal contratado asimilado a un grado correspondiente a los escalafones a que se refiere este decreto ley, vigentes al 31 de diciembre de 1978, y que hayan sido prorrogados, se entenderán modificados, para efectos del presente decreto ley, a contar del 1° de enero de 1979, otorgándose a dichos funcionarios a contrata la asignación especial que concede este texto a los grados respectivos.
+
+#### Artículo 8°
+
+El personal que ingrese a la administración con posterioridad al 31 de diciembre de 1978, contratado asimilado a un grado del nivel de inicio de los escalafones a que se refiere este decreto ley, no tendrá derecho a la asignación que establece mientras permanezca en el grado de contratación. Dicho grado no podrá ser modificado antes de transcurrido seis meses de la primera contratación.
+
+#### Artículo 9°
+
+Sustitúyese el artículo 1°, de la ley 6.606, modificado por la ley 6.742, por el siguiente:
+
+"Tendrá derecho a jubilar por expiración obligada de funciones el personal de los servicios semifiscales, empresas del Estado u otras entidades no regidas por el párrafo 20 del Título II del decreto con fuerza de ley 338, de 1960, que esté acogido a regímenes previsionales que consulten el beneficio de la jubilación o retiro y que, teniendo 20 o más años de servicios o imposiciones, debiere abandonar su empleo al término del respectivo período legal, por la supresión del mismo derivada de reorganizaciones o dispuesta por la autoridad competente, o por renuncia no voluntaria, siempre que no sea por calificación insuficiente, por medida disciplinaria o por ser responsable de un delito".
+
+#### Artículo 10°
+
+Autorízase al Presidente de la República para contraer obligaciones con el Banco Central de Chile hasta por la cantidad de mil trescientos millones de pesos, para atender al mayor gasto de cargo fiscal que signifique la aplicación de este decreto ley.
+
+#### Artículo 11
+
+Concédese a los funcionarios de los servicios, instituciones y empresas regidas por los artículos 1° y 2° del decreto ley N° 249, de 1974, ubicados en alguno de los grados 5 al 13, que no perciban las asignaciones establecidas en los artículos 3° del decreto ley N° 479, de 1974, y 32 del decreto ley N° 2.327, de 1978, ni ninguna de las asignaciones otorgadas por los artículos anteriores de este cuerpo legal, una asignación especial no imponible del monto que se señala en cada grado, afecta al sistema de reajuste establecido en el artículo 70 del decreto ley N° 670, de 1974, y sus modificaciones:
+
+-------------------------------------------------------
+
+Grados Montos
+
+-------------------------------------------------------
+
+5_____________________________________________870
+
+6_____________________________________________870
+
+7_____________________________________________870
+
+8_____________________________________________870
+
+9_____________________________________________870
+
+10____________________________________________870
+
+11____________________________________________800
+
+12____________________________________________740
+
+13____________________________________________690".
+
+-------------------------------------------------------
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- CESAR MENDOZA DURAN.- FERNANDO MATTHEI AUBEL.- Sergio de Castro.
