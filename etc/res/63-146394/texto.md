@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Por resolución Nº 63, de 20 de octubre de 1999, Serviu I Región de Tarapacá, conforme a decretos leyes Nº 1.523 de 1976 y Nº 2.186 de 1978, decretos supremos Nº 355 de 1976, Nº 63 de 1996 y Nº 33 de 1997, todos de Vivienda y Urbanismo, se dispuso expropiación parcial de una superficie aprox. de 4.088,30 m2, del inmueble ubicado en Arica, calle Pedro Montt y Máximo Lira, entre 18 de septiembre y Manuel Rodríguez, Rol de Avalúo Nº 95200-2, de presunto dominio de la Empresa de Ferrocarril de Arica La Paz. Comisión integrada por peritos señores Jorge Romero Ossio, Ricardo Muixi Decona, Constructores Civiles, y Santiago Vallejos Medic, Arquitecto, según Informe de Tasación de 7 octubre de 1999, fijó monto provisional de indemnización en $399.927.299.- pagadera al contado.-
+
+Sergio Ostria González, Director Serviu I Región de Tarapacá.
