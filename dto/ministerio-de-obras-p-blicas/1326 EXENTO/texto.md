@@ -1,0 +1,5 @@
+Por decreto MOP, exento Nº1.326, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 20, 23, 25 y 29, para la ejecución de la obra "Camino Ruta O-170, O-176, Sector acceso a Guarilihue, km. 0,00000 a Km. 8,28000, Tramo I, Km. 0,00000 a Km. 4,20200", que figuran a nombre de Benedicta Eliana Retamal Parra e Hilda Rojas vda. de Hillerns, rol de avalúo 221-37 y 221-23, comuna de Coelemu, VIII Región, superficies 57, 2.005, 469 y 308 m2. La comisión de peritos fijó con fecha 30 de diciembre de 2000, el valor provisional de la indemnización en la cantidad de $40.000, lote 20;
+
+$1.200.000, lote 23; $310.500, lote 25 y $429.600, lote 29. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
