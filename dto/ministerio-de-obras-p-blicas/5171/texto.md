@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.171 de fecha 30 de noviembre del 2000, se expropió el lote de terreno Nº 2, superficie 9.420 m², rol de avalúo 144-38, comuna de Cochamó, para la obra ''Construcción Puente Río Puelo y Accesos Km. 27.871,73 a Km. 29.500,00'' y se acordó el valor de indemnización con su propietario Julio Ronny Gallardo Gallardo, ascendente a la cantidad de $6.622.570.-
+
+Fiscal del Ministerio de Obras Públicas.
