@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº840, de 18 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 13 y 15, para la obra Camino Ovalle-Huamalata-Algarrobo, sector Ovalle-Villaseca, Kms. 0,000 00 al 5.980 83, que figuran a nombre de Alcayaga Molina Suc., rol de avalúo 623-10, comuna de Ovalle, IV Región, superficies 205,80 M2. y 44,70 M2. La Comisión de Peritos, fijó con fecha 10 de enero de 2000, en la cantidad de $429.660, lote 13 y $145.910, lote 15. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
