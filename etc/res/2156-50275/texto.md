@@ -1,0 +1,3 @@
+Por resolución Nº 2.156 de 26 de diciembre de 1996 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 93103150, presentada por SALMONES ANDES S.A., para un centro de cultivo ubicado en Sector Carahue, Comuna de Castro, Provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos 78º y 87º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
