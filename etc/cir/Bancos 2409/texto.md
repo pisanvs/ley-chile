@@ -13738,7 +13738,23 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 05530 5,5 30
 
+05705 5,7 5
+
+05708 5,7 8
+
+05710 5,7 10
+
+05712 5,7 12
+
+05715 5,7 15
+
+05720 5,7 20
+
+05805 5,8 5
+
 05808 5,8 8
+
+05810 5,8 10
 
 05812 5,8 12
 
@@ -13782,7 +13798,11 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 06208 6,2 8
 
+06210 6,2 10
+
 06212 6,2 12
+
+Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 06215 6,2 15
 
@@ -13801,8 +13821,6 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 06320 6,3 20
 
 06502 6,5 2
-
-Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 06503 6,5 3
 
@@ -13848,7 +13866,7 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 06720 6,7 20
 
-06808 6,7 8
+06808 6,8 8
 
 06812 6,8 12
 
@@ -13880,6 +13898,8 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 07020 7,0 20
 
+Código de Tablas Tasa de Interés Anual (%) Plazo (años)
+
 07025 7,0 25
 
 07030 7,0 30
@@ -13897,8 +13917,6 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 07305 7,3 5
 
 07306 7,3 6
-
-Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 07308 7,3 8
 
@@ -13976,6 +13994,8 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 09005 9,0 5
 
+Código de Tablas Tasa de Interés Anual (%) Plazo (años)
+
 09008 9,0 8
 
 09010 9,0 10
@@ -13993,8 +14013,6 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 09508 9,5 8
 
 09510 9,5 10
-
-Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 09512 9,5 12
 
