@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 144 de 08 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector excluido y Sector expropiado predio "Lote de 772 hect reas, 50 reas, situado más o menos al centro del Fundo El Castillo" de la comuna de Traiguén, IX Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N° 4 y 5 del Proyecto de Parcelación "El Tranque" formado por predio señalado. Los derechos de agua se extraen del tranque La Malquerida. Publicación hecha conforme Art, 13 Ley N° 18.377.-
+
+Director Ejecutivo.
