@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº767, de fecha 31 de julio de 2003, se expropió el lote de terreno Nº2, superficie 92,88 m2, Rol Nº160-107, comuna de Petorca, V Región para la obra "Ruta E-37-D sector Palquico-Las Palmas Km. 14,04861 al 26,13776, y se acordó el valor de indemnización con su propietaria Fabiola del Carmen Martínez Tapia, ascendente a la cantidad de $386.114.
+
+- Fiscal del Ministerio de Obras Públicas.
