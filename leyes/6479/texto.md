@@ -1,0 +1,1 @@
+Fija los plazos señalados en el inciso final del artículo 27 de la ley 6,038, de 16 de febrero de 1937, que aprueba el Estatuto de los Empleados Municipales de la República; y modifica el inciso 2° del artículo 1° transitorio.
