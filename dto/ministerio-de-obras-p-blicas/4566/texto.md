@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.566, de 29 de septiembre del 2000, se expropió el lote de terreno Nº7, superficie 388 m2., rol de avalúo 51-72, comuna de San Esteban, para la obra Camino Ruta E-755, Sector San Esteban - Lo Calvo, Tramo Km. 0.000 a Km. 7.001,80 y se acordó precio de la indemnización con su propietaria Agrícola San Esteban Limitada, ascendente a la cantidad de $2.313.662.-
+
+Fiscal del Ministerio de Obras Públicas.
