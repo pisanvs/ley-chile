@@ -1,0 +1,5 @@
+Por decreto MOP Nº707, de 15 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº11-2, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 7A2.
+
+Lámina Especial 1. Km. 48.900,00 a Km. 49.480,00'', Región Metropolitana, que figura a nombre de Trincado Allembech Roberto Osv., rol de avalúo 107-18, comuna de Curacaví, superficie 225 m2. La comisión de peritos integrada por los señores Jaime Rolando Jurgens Bittner, Marlene Teresa Ríos Marcuello y Mario Hernán Castillo Fuentes, fijó con fecha 18 de febrero de 2002, el valor provisional de la indemnización en la cantidad de $34.407.450.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
