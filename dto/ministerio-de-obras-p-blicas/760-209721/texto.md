@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 760 de 30 de septiembre de 1996, se expropiaron los lotes de terreno N°s 77-D, 90, 91 y 93 superficies 6.522, 13.230, 1.800 y 27.372 m2, respectivamente, roles de avalúos 152-1 y 153-6 comuna de Pemuco, para la obra Proyecto Laja-Diguillín, Canal Matriz, sector Trilaleo-Pemuco y se acordó precio de indemnización con sus propietarias María Virginia Valeria Valenzuela y María Elsa Guíñez Troncoso y Otro ascedente a las cantidades de $3.228.885 para el lote N° 77-B y $16.157.373 para los lotes N°s 90, 91 y 93.
+
+Fiscal del Ministerio de Obras Públicas.
