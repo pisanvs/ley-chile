@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.700, de 28 de abril del 2000, se expropió el lote de terreno Nº 116, superficie 37.169,0 m2., rol de avalúo 3368-18, comuna de Padre Las Casas, para la obra Concesión Internacional Ruta 5. Tramo Collipulli-Temuco; Sector II: Pillanlelbún-Gorbea, Novena Región, y se acordó el valor de indemnización con sus propietarios Fernando Sepúlveda Garrido y Otros, ascendente a la cantidad de $305.500.174.-
+
+Fiscal del Ministerio de Obras Públicas.
