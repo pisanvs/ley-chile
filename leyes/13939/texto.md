@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para transferir a las Sociedades Cooperativas de Edificación que señala, con sede en la provincia de Antofagasta, los terrenos que indica con el objeto de ser destinados por esas cooperativas a los fines que se contemplan en sus estatutos sociales.
