@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.567, de fecha 29 de septiembre de 2001 se expropió el lote de terreno Nºs. 23-C, supefficie 62 M2., rol de avalúo en trámite, comuna de Linares, para la obra ''Camino Ruta L-32, Sector Cruce Ruta 5 - Puente Sifón, Tramo Kms. 2,320 al 17,66644 y Kms. 0,000 al 0,963 (Variante)'' y se acordó el valor de indemnización con su propietario Mauricio Antonio Tapia Muñoz, ascendente a la cantidad de $174.349.-
+
+Fiscal del Ministerio de Obras Públicas.
