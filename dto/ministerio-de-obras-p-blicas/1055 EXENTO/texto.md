@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.055, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº47, superficie 36,57 m², rol de avalúo 1128-14, comuna de Castro, para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid - Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647" y se acordó el valor de indemnización con su propietario Vivency del Carmen García Jara y Otra, ascendente a la cantidad de $282.491.-
+
+Fiscal del Ministerio de Obras Públicas.
