@@ -1,0 +1,5 @@
+Por resolución Nº 1.588, de 18 de julio de 2000, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.099 de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', en el sentido de reemplazar la nave ''Paniahue'' por la nave ''Ogri'', ambas de propiedad de Alimentos Marinos S.A. y la nave ''King's Bay'' por la nave ''Vikingo'', ambas de propiedad de Compañía Pesquera Camanchaca S.A., en la nómina antes señalada.
+
+Asimismo, modifícase el numeral 4º de la resolución Nº 1.099 de 2000, de esta Subsecretaría, en el sentido de incorporar la nave ''Verdi'', de propiedad de Pesquera Cazador S.A. y la nave ''Karibib'' de propiedad de Pesquera del Norte S.A., en la nómina antes señalada.
+
+Valparaíso, 18 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
