@@ -114,7 +114,7 @@ MATERIA:
 
 12.- Designación de funcionarios alumnos de su dependencia para hacer cursos de perfeccionamiento y asistir a Seminarios.
 
-13.- Declaración de Material Didáctico auxiliar, complementario y/o de consulta para la educación chilena.
+13.- eclaración de Material Didáctico auxiliar, complementario y/o de consulta para la educación chilena.
 
 DIRECTORES DE EDUCACION
 
@@ -153,6 +153,8 @@ MATERIA
 17.- Traslados de plazas.
 
 18.- Pago de honorarios de las comisiones examinadoras de colegios particulares sometidos a su supervisión.
+
+19.- Declaración de material didáctico auxiliar complementario y/o de consulta para la educación chilena.
 
 DIRECTOR DE EDUCACION PRIMARIA Y NORMAL
 
