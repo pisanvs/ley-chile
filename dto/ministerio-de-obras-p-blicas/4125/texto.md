@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.125, de 31 de agosto del 2000, se expropió el lote de terreno Nº 256-4, superficie 4.317 m², rol de avalúo 99-28, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Hugo del Carmen González Cortés, ascendente a la cantidad de $16.826.080.
+
+- Fiscal del Ministerio de Obras Públicas.
