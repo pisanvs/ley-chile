@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.889, de 29 de octubre de 2002, se dejó sin efecto los numerales 4º, 5º, 6º y 7º del decreto MOP Nº 1.110, de 30 de julio de 1998, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 21. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 21, fijada por la Comisión de Peritos con fecha 12 de julio de 1996, ascendente a la cantidad de $690.000.-
+
+Fiscal del Ministerio de Obras Públicas.
