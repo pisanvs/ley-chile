@@ -1,0 +1,3 @@
+Por Decreto MOP No. 60 de 08 de Marzo de 1990, se expropió el Lote No. 2 y se constituyó Servidumbre sobre los lotes No. s. 11-A y 11-B, superficies 2.870 m2., 350 m2. y 150 m2 roles de avalúos 109-55 y 108-24, comuna de Quilicura, para Avenida Américo Vespucio, sector Recoleta Panamericana Norte y se acordó el precio de indemnización con sus propietarios Aislantes Bepolit Ltda. y Aislantes Nacionales S.A., ascendente a 2.945 UF y 175 UF.
+
+Fiscal del Ministerio de Obras Públicas.
