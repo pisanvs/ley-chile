@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.004, de 30 de diciembre de 1999, se expropió el lote de terreno Nº4, superficie 1.950 m², rol de avalúo 136-329, comuna de San Francisco de Mostazal para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector C, VI Región y se acordó el valor de indemnización con su propietaria La Cartuja S.A., ascendente a la cantidad de $19.328.258.-
+
+Fiscal del Ministerio de Obras Públicas.
