@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.000, de 27 de julio de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Pichicuyén Sector A, X Región,, individualizada en el artículo 1º Nº 11, del decreto exento Nº 677, de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DEL SUBSECTOR PESQUERO ARTESANAL DE LA RIBERA NORTE DEL RIO MAULLIN.
+
+Valparaíso, 27 de julio de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
