@@ -1,0 +1,5 @@
+Por Resolución No. 433 de 14 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a Don TOMAS MICUEL GARCIA PEREZ, R.U.T. No. 5.521.965-6, domiciliado en la ciudad de Santiago, calle Apoquindo No. 4865, Departamento 3-A, para iniciar actividades pesqueras extractivas, en orden a operar la embarcación "Andoriña" en Pesquería Demersal en el litoral al Sur de Punta Liles (32° 45' 40" L.S.) hasta el paralelo 47° L.S., por fuera de las líneas de base recta donde corresponda, empleando espinel el recurso Bacalao de profundidad y en Pesquería Pelágica en el litoral de la X a XI Región, por fuera de las líneas de base recta, donde corresponda, empleando red de cerco, los recursos Sardina común, Sardina española.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.-
+
+Valparaíso, 14 de Mayo de 1992. Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
