@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 345, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 38, superficie 530,0 M2, rol de avalúo 75-912, comuna de Galvarino, para la obra "Camino Ruta S-16, Sector Galvarino - Chol Chol, Tramo Km. 0,0000 al 24,30269, correspondiente al sub-tramo II Km. 8,339 al 15,574" y se acordó el valor de indemnización con su propietario Juan Quilan Cañete, ascendente a la cantidad de $2.344.147.-
+
+Fiscal del Ministerio de Obras Públicas.
