@@ -1,0 +1,5 @@
+Por Resolución N° 043 de 13 de Enero de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentado por PESQUERA LOS FIORDOS LTDA., R.U.T. N° 79.872.420-7, para instalar y operar un centro de cultivo en un sector denominado Puntilla Bennewitz (Sector N° 2), Canal Puyuhuapi, Comuna de Cisnes, Provincia de Aysén, XI Región, en virtud de lo dispuesto en el D.S. (M) N° 359, de 1994, del Ministerio de Defensa Nacional.
+
+Déjase sin efecto parcialmente la Resolución N° 246, de 1990, de esta Subsecretaría, sólo en lo que respecta el centro de cultivo correspondiente al Sector Dos, ubicado en Puntilla Bennewitz, Canal Puyuhuapi, Comuna de Cisnes, Provincia de Aysén, XI Región, en virtud de lo dispuesto en el numeral 1° de esta Resolución.
+
+Valparaíso, 13 de Enero de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
