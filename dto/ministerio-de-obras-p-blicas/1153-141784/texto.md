@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.153, de 30 de abril de 1999, se expropió el lote de terreno No. 52, superficie 6.333,0 mý, rol de avalúo 3283-155, comuna de Padre Las Casas, para la obra Concesión Internacional Ruta 5; Tramo Collipulli-Temuco; Sector II: Pillanlelbún-Gorbea, Km. 657,000 a Km. 718,336, Tramo 2: By Pass Temuco, Novena Región y se acordó el valor de indemnización con sus propietarios Lucía Palacios Calfilaf y Vicente Jos‚ Palacios Calfilaf, ascendente a la cantidad de $ 32.396.462.-
+
+Fiscal del Ministerio de Obras Públicas.
