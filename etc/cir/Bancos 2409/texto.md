@@ -1758,23 +1758,29 @@ Por estar establecido expresamente dicho requisito en el mencionado artículo 13
 
 Cuando el girador actúe por mandato o por representación legal del titular de la cuenta respectiva, deberá colocar la expresión "por poder de .. XX .." o "p.p... XX ..". En caso de personas jurídicas sera suficiente estampar la razón social o el nombre del establecimiento en su caso.
 
-1.4.2. Giro de cheques mediante facsímiles.
+1.4.2- Giro de cheques mediante facsímiles.
 
-Los dos últimos incisos del artículo 13 de la Ley sobre Cuentas Corrientes Bancarias y Cheques expresan lo siguiente:
+Los dos últimos incisos del artículo 13 de la Ley sobre Cuentas Corrientes Bancarias y Cheques expresan lo siguiente.
 
-"Los bancos podrán autorizar a determinadas personas para estampar en sus cheques, mediante procedimientos mecánicos, la cantidad girada y la firma. Lo harán siempre que los procedimientos que se utilicen ofrezcan seguridad y que se justifique su necesidad por el elevado número de cheques que deba emitir el comitente, a juicio de la Superintendencia de Bancos e Instituciones Financieras. En tal caso bastara con que la cantidad se exprese en letras o en números.
+Los bancos podrán autorizar a determinadas personas para estampar en sus cheques, mediante procedimientos mecánicos, la cantidad girada y la firma- Lo harán siempre que los procedimientos que se utilicen ofrezcan seguridad y que se justifique su necesidad por el elevado número de cheques que deba emitir el comitente, a juicio de la Superintendencia de Bancos e Instituciones Financieras. En tal caso bastará con que la cantidad se exprese en letras o en números
 
-Para los efectos civiles y penales, la firma estampada mecánicamente se entenderá manuscrita por la persona cuya rúbrica ha sido reproducida".
+Para los efectos civiles y penales, la firma estampada mecánicamente se entenderá manuscrita por la persona cuya rúbrica ha sido reproducida"
 
-De las disposiciones citadas se desprende que la ley permite la utilización de facsímiles de firmas sólo en aquellos casos en que los cheques se emiten a través de medios mecánicos, siempre que el banco lo autorice con la conformidad previa que la misma institución bancaria debe requerir de esta Superintendencia.
+De las disposiciones citadas se desprende que la ley permite la utilización de facsímiles de firmas sólo si se cumplen copulativamente las siguientes condiciones
 
-Las normas citadas se refieren al uso de firmas estampadas mecánicamente, por lo que no se requiere la conformidad de esta Superintendencia para emitir cheques utilizando sistemas mecanizados cuando la rúbrica se pone de mano propia. Sin embargo, en este caso necesariamente debe indicarse en el cheque, la cantidad tanto en cifras como en palabras.
+a) Que el banco librado autorice el procedimiento,
 
-Atendidos la finalidad de la ley y el riesgo que se corre al utilizar facsímiles de firmas, especialmente por lo dispuesto en el inciso final que establece una presunción de legitimidad de la firma estampada, este Organismo se reserva el derecho de calificar, en cada caso particular, el procedimiento que se emplee y las razones que justifiquen su uso.
+b) Que se trate de cheques que se emitan a través de medios mecánicos, pudiendo estos cheques expresar la cantidad girada sólo en números o en letras,
 
-Los bancos que reciban peticiones de sus clientes en tal sentido, deberán someter a la aprobación de esta Superintendencia los casos que estimen atendibles, y justificar sus peticiones dando a conocer el número de cheques que gira la empresa o servicio en un determinado período y el sistema de impresión que se utilizara para anotar el importe en los respectivos documentos.
+c) Que los procedimientos que se utilicen ofrezcan seguridad, y,
 
-El sistema sólo podrá comenzar a usarse desde la fecha que señale esta Superintendencia al dar su aprobación.
+d) Que a juicio de esta Superintendencia, el elevado número de cheques que deban emitirse justifique el procedimiento.
+
+Este Organismo considera razonable la utilización de procedimientos mecánicos para estampar la cantidad girada y la firma, cuando la cantidad de cheques que deba emitir el comitente no sea inferior a 100 cheques mensuales.
+
+Por consiguiente, los bancos quedan facultados para autorizar a sus clientes a fin de que impriman la firma mediante facsímiles en los cheques de una determinada cuenta corriente, que sean emitidos a través de medios mecánicos, siempre que evalúen previamente la seguridad de los procedimientos que utilizará su cliente y confirmen que la cantidad de cheques que éste debe emitir no es inferior a 100 cheques mensuales. Tanto la información relativa a la evaluación de la seguridad de los sistemas, como los antecedentes demostrativos del volumen de cheques, deberán quedar archivados junto con la documentación de que trata el numeral 1 1 del título II de este Capítulo.
+
+Las normas precedentes se refieren exclusivamente a la posibilidad de estampar las firmas mecánicamente Por consiguiente, cuando se trate sólo de imprimir los datos de los cheques por medios computacionales poniéndose la rúbrica de mano propia, dichas disposiciones no son aplicables Por lo mismo, en estos casos el cheque necesariamente debe indicar la cantidad tanto en cifras como en letras.
 
 ### 2. Tacha de menciones impresas que contiene el cheque
 
