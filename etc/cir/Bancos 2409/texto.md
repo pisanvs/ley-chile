@@ -12914,83 +12914,57 @@ Cuando ocurra la recuperación o renegociación de uno o más dividendos impagos
 
 De acuerdo con lo dispuesto en el numeral 3.2.2, título I, del Capítulo 8-29 de esta Recopilación, si algún dividendo permaneciere impago 36 meses a contar de la fecha de su traspaso a cartera vencida, las instituciones acreedoras deberán castigar todos los dividendos vencidos correspondientes al crédito que se encuentre en esa situación. Los restantes dividendos deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada uno de ellos, sin perjuicio de que puede también castigarse el total del saldo del crédito.
 
+13.- Primas de seguro.
+
+Las instituciones financieras que paguen primas de seguro de incendio o de desgravamen antes de contar con la provisión de fondos del deudor, registrarán dichos importes con cargo a la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios", de la partida 1140. En caso que estas sumas no sean pagadas dentro de los 90 días siguientes a la fecha de su registro en esta cuenta, deben ser traspasadas a "Dividendos hipotecarios vencidos", de la partida 1410, a más tardar al término del plazo antes mencionado.
+
+Cuando las instituciones financieras reciban del deudor la provisión de fondos para efectuar posteriormente el pago de las primas de seguro, registrarán esos importes en la cuenta "Primas de seguro recaudadas por enterar", de la partida 3010.
+
 B. PRESTAMOS CONCEDIDOS EN LETRAS DE CREDITO CON AMORTIZACION INDIRECTA.
 
 1.- Otorgamiento del préstamo.
 
-Debe: "Préstamos en letras de crédito con amortización indirecta", de la partida
+Debe: "Préstamos en letras de crédito con amortización indirecta", de la partida 1305 del MB1, por el monto del capital.
 
-1305 del MB1, por el monto del capital.
+Haber: "Letras de crédito en circulación con amortización indirecta", de la partida 3305 del MB1.
 
-Haber: "Letras de crédito en circulación con amortización indirecta", de la
-
-partida 3305 del MB1.
-
-La recepción de las letras en custodia y la venta de éstas, serán registradas en
-
-la forma indicada en los números 1 y 2 de la letra "D" de este título.
+La recepción de las letras en custodia y la venta de éstas, serán registradas en la forma indicada en los números 1 y 2 de la letra "D" de este título.
 
 2.- Reajustes de estas operaciones.
 
-Los bancos y sociedades financieras contabilizarán los reajustes de estas
-
-operaciones de acuerdo con las instrucciones contenidas en los numerales 2.1 y
-
-2.2 de la letra "A" precedente.
+Los bancos y sociedades financieras contabilizarán los reajustes de estas operaciones de acuerdo con las instrucciones contenidas en los numerales 2.1 y 2.2 de la letra "A" precedente.
 
 3.- Constitución de los dividendos.
 
-El primer día hábil de cada mes, se deberán contabilizar los dividendos que
-
-venzan en dicho mes de la siguiente forma:
+El primer día hábil de cada mes, se deberán contabilizar los dividendos que venzan en dicho mes de la siguiente forma:
 
 Debe: -"Dividendos por cobrar" de la partida 1315 del MB1.
 
-Haber: -"Préstamos en letras de crédito con amortización indirecta", por el
-
-importe de la amortización, cuando corresponda.
+Haber: -"Préstamos en letras de crédito con amortización indirecta", por el importe de la amortización, cuando corresponda.
 
 -"Intereses ganados" de la partida 7120 del MR1.
 
--"Comisiones hipotecarias" de la partida 7505 del MR1, por el importe de la
-
-comisión.
+-"Comisiones hipotecarias" de la partida 7505 del MR1, por el importe de la comisión.
 
 4.- Devengo de intereses de la letra de crédito.
 
-Simultáneamente con la constitución de los dividendos se contabilizarán los
-
-intereses por pagar de las respectivas letras, en la forma que se indica a
-
-continuación:
+Simultáneamente con la constitución de los dividendos se contabilizarán los intereses por pagar de las respectivas letras, en la forma que se indica a continuación:
 
 Debe: -"Intereses pagados", de la partida 5150, del MR1.
 
-Haber: "Cupones por vencer", de la partida 3315 del MB1, por el monto de los
-
-respectivos intereses.
+Haber: "Cupones por vencer", de la partida 3315 del MB1, por el monto de los respectivos intereses.
 
 5.- Dividendos en mora o vencidos.
 
-El tratamiento de los créditos con dividendos en mora o vencidos será
-
-equivalente al de los préstamos en letras de crédito con amortización directa.
+El tratamiento de los créditos con dividendos en mora o vencidos será equivalente al de los préstamos en letras de crédito con amortización directa.
 
 6.- Constitución del fondo de amortización.
 
-Simultáneamente con efectuar el asiento señalado en el N° 3 precedente de esta
+Simultáneamente con efectuar el asiento señalado en el N° 3 precedente de esta letra "B", se registrará el importe que por concepto de amortización se incluye en el dividendo, como sigue;
 
-letra "B", se registrará el importe que por concepto de amortización se incluye
+Debe: "Amortización indirecta de letras de crédito por efectuar" de la partida 9420 del MB1.
 
-en el dividendo, como sigue;
-
-Debe: "Amortización indirecta de letras de crédito por efectuar" de la partida
-
-9420 del MB1.
-
-Haber: "Responsabilidad por amortización indirecta de letras de crédito
-
-porefectuar", de la partida 9900 del MB1.
+Haber: "Responsabilidad por amortización indirecta de letras de crédito porefectuar", de la partida 9900 del MB1.
 
 7.- Recepción del pago de dividendos.
 
@@ -13012,11 +12986,7 @@ Haber: "Caja" o la cuenta que corresponda.
 
 10.- Amortización de letras de crédito.
 
-El fondo de amortización deberá ser utilizado para amortizar letras de crédito
-
-por sorteo a la par, por compra de letras en el mercado o para rescatar las
-
-letras de crédito que mantenga como inversión la propia entidad emisora.
+El fondo de amortización deberá ser utilizado para amortizar letras de crédito por sorteo a la par, por compra de letras en el mercado o para rescatar las letras de crédito que mantenga como inversión la propia entidad emisora.
 
 10.1.- Amortización por sorteo a la par.
 
@@ -13038,19 +13008,13 @@ Debe: "Letras de crédito en circulación con amortización indirecta".
 
 Haber: -"Caja" o la cuenta que corresponda.
 
--"Diferencias por compra extraordinaria de letras de crédito" de la partida 7620
-
-del MR1, por la diferencia entre el valor de la letra y el valor pagado por
-
-ella.
+-"Diferencias por compra extraordinaria de letras de crédito" de la partida 7620 del MR1, por la diferencia entre el valor de la letra y el valor pagado por ella.
 
 10.3.- Rescate de letras en poder de la institución.
 
 Debe: -"Letras de crédito en circulación con amortización indirecta".
 
--"Cupones por vencer" por el monto de los intereses devengados entre el último
-
-vencimiento y la fecha de rescate.
+-"Cupones por vencer" por el monto de los intereses devengados entre el último vencimiento y la fecha de rescate.
 
 Haber: -"Letras de crédito de emisión propia", de la partida 1735 del MB1.
 
@@ -13058,21 +13022,13 @@ Haber: -"Letras de crédito de emisión propia", de la partida 1735 del MB1.
 
 10.4.- Utilización del fondo de amortización.
 
-Conjuntamente con los asientos contables señalados en los numerales 10.1 letra
+Conjuntamente con los asientos contables señalados en los numerales 10.1 letra a), 10.2 y 10.3 precedentes, las entidades financieras deberán debitar la cuenta "Responsabilidad por amortización indirecta de letras de crédito por efectuar"
 
-a), 10.2 y 10.3 precedentes, las entidades financieras deberán debitar la cuenta
-
-"Responsabilidad por amortización indirecta de letras de crédito por efectuar"
-
-con abono a "Amortización indirecta de letras de crédito por efectuar", por el
-
-importe respectivo.
+con abono a "Amortización indirecta de letras de crédito por efectuar", por el importe respectivo.
 
 11.- Pago anticipado del todo o parte de un préstamo.
 
-En caso de que el deudor pague anticipadamente el todo o una parte del saldo de
-
-su obligación, se procederá de la siguiente forma:
+En caso de que el deudor pague anticipadamente el todo o una parte del saldo de su obligación, se procederá de la siguiente forma:
 
 11.1.- Pago en dinero.
 
@@ -13080,9 +13036,7 @@ su obligación, se procederá de la siguiente forma:
 
 Debe: -"Caja" o la cuenta que corresponda,
 
-Haber: "Préstamos en letras de crédito con amortización indirecta", por el
-
-importe de la amortización.
+Haber: "Préstamos en letras de crédito con amortización indirecta", por el importe de la amortización.
 
 -"Intereses ganados", de la partida 7120 del MR1.
 
@@ -13090,17 +13044,11 @@ importe de la amortización.
 
 11.1.2.- Constitución del fondo extraordinario de amortización.
 
-Simultáneamente con efectuar el asiento indicado en el numeral 11.1.1, se
+Simultáneamente con efectuar el asiento indicado en el numeral 11.1.1, se registrará el importe de la respectiva amortización de la siguiente forma:
 
-registrará el importe de la respectiva amortización de la siguiente forma:
+Debe: "Amortización indirecta extraordinaria de letras de crédito por efectuar", de la partida 9420 del MB1.
 
-Debe: "Amortización indirecta extraordinaria de letras de crédito por efectuar",
-
-de la partida 9420 del MB1.
-
-Haber: "Responsabilidad por amortización indirecta extraordinaria de letras de
-
-crédito por efectuar", de la partida 9900 del MB1.
+Haber: "Responsabilidad por amortización indirecta extraordinaria de letras de crédito por efectuar", de la partida 9900 del MB1.
 
 11.1.3.- Utilización del fondo extraordinario de amortización.
 
@@ -13121,6 +13069,10 @@ Haber: "Préstamos en letras de crédito con amortización indirecta". En caso q
 proceda, se acreditará también la cuenta "Dividendos por cobrar" por el importe
 
 de amortización.
+
+12.- Primas de seguro.
+
+Las primas de seguro de incendio y de desgravamen correspondientes a estas operaciones, serán registradas por las instituciones financieras en la forma prevista en el N° 13 de la letra A.- de este título.
 
 C. INVERSIONES FINANCIERAS EN LETRAS DE CREDITO.
 
