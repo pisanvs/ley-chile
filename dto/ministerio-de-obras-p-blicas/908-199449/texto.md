@@ -1,0 +1,5 @@
+Por decreto MOP Nº908, de 15 de mayo de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº24, para la obra: ''Proyecto Sistema Américo Vespucio Sur. Ruta 78 - Av. Grecia. Sector 5: Av. Vicuña Mackenna -
+
+Av. Grecia'', Región Metropolitana, que figura a nombre de Espinoza Núñez Elena, rol de avalúo 9500-1, comuna de Penalolen, superficie 274 m2. La comisión de peritos integrada por los señores Carmen Pilar Ríos Marcuello, Franco Alejandro Salinas González y Enrique Luis Figueroa Echeverría, fijó con fecha 9 de abril de 2002, el valor provisional de la indemnización en la cantidad de $39.391.300.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas .
