@@ -1,0 +1,13 @@
+Por resolución Nº 561, de 9 de marzo de 2000, de esta Subsecretaría, declárase la caducidad de la resolución Nº854, de 1998, de esta Subsecretaría, en cuanto autorizó a PESQUERA ITATA S.A., para sustituir la nave ''Rahue'' por una nave en construcción, para capturar con cerco, los recursos hidrobiológicos Anchoveta, Sardina española, Jurel, Agujilla, Caballa y Cojinoba del norte, en el litoral de la III y IV Regiones, Sardina común, en el litoral de la IV Región, Jurel, Agujilla, Anchoveta, Caballa, Cojinoba del norte, Merluza de cola y Sardina común, en el litoral de la X Región, de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Declárase la caducidad de la resolución Nº1.248, de 1998, de esta Subsecretaría, en cuanto autorizó a Pesquera Itata S.A., para sustituir la nave
+
+''Calcurrupe'' por una nave en construcción, para capturar con cerco, los recursos Anchoveta, Sardina española, Jurel, Agujilla, Caballa y Cojinoba del norte, en el litoral de la III y IV Regiones, Jurel, Agujilla, Anchoveta, Cojinoba del norte, Merluza de cola y Sardina común, en el litoral de la X Región, de conformidad con lo establecido en la letra b) del artículo 143 del D.S.
+
+Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Declárase la caducidad de la resolución Nº130, de 1999, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA COLOSO S.A., para sustituir la nave ''Isla Valdés'' por una nave en construcción, para capturar con cerco, los recursos Anchoveta, Sardina española, Jurel, Agujilla, Bacaladillo, Bonito, Caballa y Cojinoba del norte, en el litoral de la III y IV Regiones, de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Declárase la caducidad de la resolución Nº208, de 1999, de esta Subsecretaría, que autorizó a PESQUERA CORONEL S.A., para sustituir la nave ''Marnin'' por una nave en construcción, para capturar con cerco, los recursos Jurel, Agujilla, Bacaladillo, Bonito, Caballa, Cojinoba del norte y Sardina común en el litoral de la III y IV Regiones, de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 9 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
