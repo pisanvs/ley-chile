@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.553 de fecha 29 de septiembre de 2000, se expropió el lote de terreno Nº3, superficie 2.425,70 m2., rol de avalúo 9087-39, comuna de Macul, para la obra ''Mejoramiento Zanjón de la Aguada'', Tramo III; Km. 4.408,86 a Km. 10.167,10" y se acordó el valor de indemnización con su propietario Contreras y Cía. Ltda. ascendente a la cantidad de $76.448.247.-
+
+Fiscal del Ministerio de Obras Públicas.
