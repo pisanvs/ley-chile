@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.109, de 30 de julio de 1999, se expropió el lote de terreno Nº153-A, superficie 4.463 m², rol de avalúo 2141-9, comuna de Puerto Montt, para la obra "Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Puerto Montt", Décima Región y se acordó el valor de indemnización con su propietario Francisco Rebolledo González, ascendente a la cantidad de $41.340.348.-
+
+Fiscal del Ministerio de Obras Públicas.
