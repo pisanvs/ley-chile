@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.066, de fecha 31 de agosto de 2000, se expropió el lote de terreno Nº97, superficie 875 M2, rol de avalúo 63-203, comuna de Lonquimay, para la obra ''Camino Malalcahuello - Paso Pino Hechado Rutas R-891, R-955 y R-89, Sector Acceso Pedregoso - Liucura, Km. 141,00000 al Km. 158,54000'' y se acordó el valor de indemnización con su propietaria Rosa Elvira Durán Gumane, ascendente a la cantidad de $688.150.
+
+Fiscal del Ministerio de Obras Públicas.
