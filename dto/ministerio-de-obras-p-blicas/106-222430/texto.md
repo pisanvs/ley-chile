@@ -1,0 +1,5 @@
+Por decreto MOP Nº 106, de 19 de febrero de 2004, se ha modificado el decreto MOP Nº 85 de 19 de febrero de 2003, en el sentido de reducir a 1.986 m2 la superficie del lote Nº 17 que figura a nombre de Comerc Import Bathich Motoren Ltda, rol de avalúo 3535-8, comuna de La Cisterna. Asimismo, la superficie de 100 m2 en que se redujo el lote Nº 17, se expropia como lote de terreno Nº 17-1 que figura a nombre de Com e Imp Bathich Motoren Ltda, rol de avalúo 3535-1 comuna de La Cisterna. Ambos lotes necesarios para la obra: "Sistema Norte - Sur. Tramo B: Las Acacias - Río Mapocho. Km.
+
+11.700,00 a Km. 12.100,00", Región Metropolitana. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Roberto Carlos Muñoz Ordenes y Carmen Pilar Ríos Marcuello, fijó con fecha 9 de diciembre de 2003 , el valor provisional de la indemnización en la cantidad de $219.129.650.- para el lote Nº 17 y de $11.230.000.- para el lote Nº 17-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
