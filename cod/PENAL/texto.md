@@ -1334,9 +1334,9 @@ En los casos de retardo doloso en el envío o entrega de la correspondencia epis
 
 #### Artículo 157
 
-Todo empleado público que sin un decreto de autoridad competente, deducido de la ley que autoriza la exacción de una contribución o de un servicio personal, los exigiere bajo cualquier pretexto, será penado con inhabilitación especial temporal para el empleo en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales.
+Todo empleado público que sin un decreto de autoridad competente, deducido de la ley que autoriza la exacción de una contribución o de un servicio personal, los exigiere bajo cualquier pretexto, será penado con inhabilitación absoluta temporal para cargos y oficios públicos en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales.
 
-Si la exacción de la contribución se hiciere con ánimo de lucrarse, el empleado culpable será considerado penado como procesados por estafa.
+Si la exacción de la contribución o servicio personal se hiciere con ánimo de lucro, el empleado culpable será sancionado conforme a lo dispuesto en los párrafos 2 u 8 del Título IX, según corresponda.
 
 #### Artículo 158
 
@@ -1670,29 +1670,29 @@ Suprimido.
 
 DE LOS CRÍMENES Y SIMPLES DELITOS COMETIDOS POR EMPLEADOS PÚBLICOS EN EL DESEMPEÑO DE SUS CARGOS.
 
-### I. Anticipación y prolongación indebida de funciones públicas
+I. Anticipación y prolongación indebida de funciones públicas. Derogado
 
 #### Artículo 216
 
-El que hubiere entrado a desempeñar un empleo o cargo público sin haber prestado en debida forma el juramento o fianza, o llenado las demás formalidades exigidas por la ley, quedará suspenso del empleo o cargo hasta que cumpla con aquellos requisitos, incurriendo además en una multa de seis a diez unidades tributarias mensuales.
+Suprimido.
 
 #### Artículo 217
 
-El empleado público que continuare desempeñando su empleo, cargo o comisión después de que debiere cesar conforme a las leyes, reglamentos o disposiciones especiales de su ramo respectivo, será castigado con las penas de inhabilitación especial temporal para el cargo u oficio en su grado mínimo y multa de seis a diez unidades tributarias mensuales.
+Suprimido.
 
 #### Artículo 218
 
-El empleado culpable de cualquiera de los delitos penados en los dos artículos anteriores, que hubiere percibido emolumentos por razón de su cargo o comisión, será además obligado a restituirlos con la multa de diez al quince por ciento de su importe.
+Suprimido.
 
 #### Artículo 219
 
-El empleado público que legalmente requerido de inhibición, continuare procediendo antes que se decida la contienda, será castigado con multa de seis a diez unidades tributarias mensuales.
+Suprimido.
 
 ### II. Nombramientos ilegales
 
 #### Artículo 220
 
-El empleado público que a sabiendas nombrare o propusiere para cargo público a persona en quien no concurran los requisitos legales, sufrirá las penas de suspensión del empleo en su grado mínimo y multa de seis a diez unidades tributarias mensuales.
+El empleado público que a sabiendas designare en un cargo público a persona que se encuentre afecta a inhabilidad legal que le impida ejercerlo, será sancionado con la pena de inhabilitación especial temporal en cualquiera de sus grados y multa de cinco a diez unidades tributarias mensuales.
 
 ### III. Usurpación de atribuciones
 
@@ -1844,13 +1844,21 @@ El empleado público que directa o indirectamente se interesare en cualquiera cl
 
 Esta disposición es aplicable a los peritos, árbitros y liquidadores comerciales respecto de los bienes o cosas en cuya tasación, adjudicación, partición o administración intervinieren, y a los guardadores y albaceas tenedores de bienes respecto de los pertenecientes a sus pupilos y testamentarias.
 
-Las mismas penas se impondrán a las personas relacionadas en este artículo, si en el negocio u operación confiados a su cargo dieren interés a su cónyuge, a alguno de sus ascendientes o descendientes legítimos por consanguinidad o afinidad, a sus colaterales legítimos, por consanguinidad hasta el tercer grado inclusive y por afinidad hasta el segundo también inclusive, a sus padres o hijos naturales o ilegítimos reconocidos.
+Las mismas penas se impondrán a las personas relacionadas en este artículo, si en el negocio u operación confiados a su cargo dieren interés a su cónyuge, a alguno de sus ascendientes o descendientes legítimos por consanguinidad o afinidad, a sus colaterales legítimos, por consanguinidad hasta el tercer grado inclusive y por afinidad hasta el segundo también inclusive, a sus padres o hijos naturales o ilegítimos reconocidos, o a personas ligadas a él por adopción.
+
+Asimismo, se sancionará con iguales penas al empleado público que en el negocio u operación en que deba intervenir por razón de su cargo diere interés a terceros asociados con él o con las personas indicadas en el inciso precedente, o a sociedades, asociaciones o empresas en las que dichos terceros o esas personas tengan interés social, superior al diez por ciento si la sociedad es anónima, o ejerzan su administración en cualquiera forma.
+
+#### Artículo 240 bis
+
+Las penas establecidas en el artículo precedente serán también aplicadas al empleado público que, interesándose directa o indirectamente en cualquier clase de contrato u operación en que deba intervenir otro empleado público, ejerciere influencia en éste para obtener una decisión favorable a sus intereses.
+
+Las mismas penas se impondrán al empleado público que, para dar interés a cualquiera de las personas expresadas en los incisos tercero y final del artículo precedente en cualquier clase de contrato u operación en que deba intervenir otro empleado público, ejerciere influencia en él para obtener una decisión favorable a esos intereses.
+
+En los casos a que se refiere este artículo el juez podrá imponer la pena de inhabilitación absoluta perpetua para cargos u oficios públicos.
 
 #### Artículo 241
 
-El empleado público que exigiere directa o indirectamente mayores derechos de los que le estén señalados por razón de su cargo, será castigado con una multa del duplo al cuádruplo de la cantidad exigida.
-
-El culpable habitual de este delito incurrirá además en la pena de inhabilitación especial temporal para el cargo u oficio en su grado medio.
+El empleado público que directa o indirectamente exigiere mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico para sí o un tercero para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con inhabilitación absoluta temporal para cargos u oficios públicos en cualquiera de sus grados y multa del duplo al cuádruplo de los derechos o del beneficio obtenido.
 
 ### VII. Infidelidad en la custodia de documentos
 
@@ -1882,7 +1890,9 @@ Las penas designadas en los tres artículos anteriores son aplicables a los part
 
 El empleado público que revelare los secretos de que tenga conocimiento por razón de su oficio o entregare indebidamente papeles o copia de papeles que tenga a su cargo y no deban ser publicados, incurrirá en las penas de suspensión del empleo en sus grados mínimo a medio o multa de seis a veinte unidades tributarias mensuales, o bien en ambas conjuntamente.
 
-Si de la revelación o entrega resultare grave daño para la causa pública, las penas serán reclusión mayor en cualquiera de sus grados y multa de veintiuna a treinta unidades tributarias mensuales.
+Si de la revelación o entrega resultare grave daño para la causa pública, las penas serán reclusión mayor en cualquiera de sus grados y multa de veintiuno a treinta unidades tributarias mensuales.
+
+Las penas señaladas en los incisos anteriores se aplicarán, según corresponda, al empleado público que indebidamente anticipare en cualquier forma el conocimiento de documentos, actos o papeles que tenga a su cargo y que deban ser publicados.
 
 #### Artículo 247
 
@@ -1890,27 +1900,49 @@ El empleado público que, sabiendo por razón de su cargo los secretos de un par
 
 Las mismas penas se aplicarán a los que, ejerciendo alguna de las profesiones que requieren título, revelen los secretos que por razón de ella se les hubieren confiado.
 
+#### Artículo 247 bis
+
+El empleado público que, haciendo uso de un secreto o información concreta reservada, de que tenga conocimiento en razón de su cargo, obtuviere un beneficio económico para sí o para un tercero, será castigado con la pena privativa de libertad del artículo anterior y multa del tanto al triplo del beneficio obtenido.
+
 ### IX. Cohecho
 
 #### Artículo 248
 
-El empleado público que por dádiva o promesa cometiere alguno de los crímenes o simples delitos expresados en este título, además de las penas señaladas para ellos, incurrirá en las de inhabilitación especial perpetua para el cargo u oficio y multa de la mitad al tanto de la dádiva o promesa aceptada.
+El empleado público que solicitare o aceptare recibir mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico para sí o un tercero para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con suspensión en cualquiera de sus grados y multa de la mitad al tanto de los derechos o del beneficio solicitados o aceptados.
+
+#### Artículo 248 bis
+
+El empleado público que solicitare o aceptare recibir un beneficio económico para sí o un tercero para omitir o por haber omitido un acto debido propio de su cargo, o para ejecutar o por haber ejecutado un acto con infracción a los deberes de su cargo, será sancionado con la pena de reclusión menor en sus grados mínimo a medio, y además, con la pena de inhabilitación especial o absoluta para cargos u oficios públicos temporales en cualquiera de sus grados y multa del tanto al duplo del provecho solicitado o aceptado.
+
+Si la infracción al deber del cargo consistiere en ejercer influencia en otro empleado público con el fin de obtener de éste una decisión que pueda generar un provecho para un tercero interesado, se impondrá la pena de inhabilitación especial o absoluta para cargo u oficio público perpetuas, además de las penas de reclusión y multa establecidas en el inciso precedente.
 
 #### Artículo 249
 
-El empleado público que por dádiva o promesa ejecutare un acto obligatorio propio de su cargo, no sujeto a remuneración, será penado con una multa de la mitad al tanto de la dádiva o promesa aceptada.
+El empleado público que solicitare o aceptare recibir un beneficio económico para sí o para un tercero para cometer alguno de los crímenes o simples delitos expresados en este Título, o en el párrafo 4 del Título III, será sancionado con la pena de inhabilitación especial perpetua e inhabilitación absoluta temporal, o bien con inhabilitación absoluta perpetua para cargos u oficios públicos, y multa del tanto al triplo del provecho solicitado o aceptado.
 
-En la misma multa sola o acompañada de la inhabilitación especial perpetua para el cargo u oficio, incurrirá el empleado que omitiere por dádiva o promesa un acto debido propio de su cargo.
+Lo establecido en el inciso anterior se entiende sin perjuicio de la pena aplicable al delito cometido por el empleado público. Si aquella pena resultare inferior a la señalada para el sobornante en el inciso segundo del artículo siguiente, se aplicará al empleado la pena establecida en esta última disposición.
 
 #### Artículo 250
 
-El sobornante será castigado con las penas correspondientes a los cómplices en los casos respectivos, excepto las de inhabilitación y suspensión.
+El que ofreciere o consintiere en dar a un empleado público un beneficio económico para que realice las acciones o incurra en las omisiones señaladas en los artículos 248, 248 bis y 249, o por haberlas realizado o haber incurrido en ellas, será castigado con las mismas penas de multa e inhabilitación establecidas en dichas disposiciones.
 
-Cuando el soborno mediare en causa criminal a favor del procesado por parte de su cónyuge, de algún ascendiente o descendiente legítimo por consanguinidad o afinidad, de un colateral legítimo consanguíneo o a fin hasta el segundo grado inclusive o de un padre o hijo natural o ilegítimo reconocido, sólo se impondrá al sobornante una multa igual a la dádiva o promesa.
+Tratándose del beneficio consentido u ofrecido en relación con las acciones u omisiones señaladas en el artículo 248 bis, el sobornante será sancionado, además, con la pena de reclusión menor en su grado medio.
+
+Tratándose del beneficio consentido u ofrecido en relación con los crímenes o simples delitos señalados en el artículo 249, el sobornante será considerado inductor de acuerdo al artículo 15 Nº 2.
+
+#### Artículo 250 bis
+
+En los casos en que el delito previsto en el artículo anterior tuviere por objeto la realización u omisión de una actuación de las señaladas en los artículos 248 ó 248 bis que mediare en causa criminal a favor del procesado, y fuere cometido por su cónyuge, por alguno de sus ascendientes o descendientes consanguíneos o afines, por un colateral consanguíneo o afín hasta el segundo grado inclusive, o por persona ligada a él por adopción, sólo se impondrá al responsable la multa que corresponda conforme las disposiciones antes mencionadas.
 
 #### Artículo 251
 
-En todo caso caerán las dádivas en comiso.
+Los bienes recibidos por el empleado público caerán siempre en comiso.
+
+En el caso del artículo 249 y del artículo 250, inciso segundo, para la aplicación de las penas de suspensión o inhabilitación que correspondieren en calidad de accesorias a penas privativas de libertad se estará a las siguientes reglas:
+
+1º Si las penas accesorias fueren más graves que las establecidas en el artículo 249, serán impuestas las primeras, en su grado máximo, y
+
+2º Si las penas establecidas en el artículo 249 fueren más graves que las penas accesorias, serán impuestas aquéllas en toda la extensión que no sea inferior al grado máximo de las accesorias.
 
 ### X. Resistencia y desobediencia
 
