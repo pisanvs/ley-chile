@@ -1,0 +1,3 @@
+Por Resolución Nº 1.687, de 12 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 341 de 1995 de esta Subsecretaría, que autorizó a EMPRESA PESQUERA ZONA CENTRAL S.A., hoy Pesquera Tarapacá S.A., para ampliar las actividades pesqueras extractivas con la nave "Zonace I", por haber paralizado actividades pesqueras extractivas por más de 12 meses sucesivos, a partir del mes de julio de 1996, configurándose la causal prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 12 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
