@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº173 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº76, superficie 369 m², Rol Nº284-35, comuna de San Fernando, VI Región para la obra "Camino San Fernando-Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264" y se acordó el valor de indemnización con su propietario Raquel del Carmen García Pérez, ascendente a la cantidad de $1.426.853.
+
+Fiscal del Ministerio de Obras Públicas.
