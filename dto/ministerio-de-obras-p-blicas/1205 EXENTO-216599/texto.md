@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.205, de 15 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco el lote de terreno Nº71-D, para la obra: Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, Sector: Km. 55.438,97 a Km. 69.895,61; Km. 0.000,00 a Km. 3.927,45, Sub-Tramo II, Km. 59.321,0 a Km.
+
+63.648,30, que figura a nombre de Luisa Huentemil Naipio, sin rol de avalúo, comuna de Carahue, IX Región, superficie 807 m². La Comisión de Peritos fijó con fecha 16 de agosto de 2002 el monto de la indemnización provisional en la cantidad $437.360. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
