@@ -1,0 +1,1 @@
+Condona préstamos, hasta la cantidad que indica, otorgados por la Corporación de Reconstrucción y Auxilio o por intermedio de instituciones de previsión, de acuerdo con las disposiciones de los N°s 6° y 7° del artículo 4° de la ley 6,334, de 28 de abril de 1939, que la crea.
