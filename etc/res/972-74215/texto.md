@@ -1,0 +1,3 @@
+Por Resolución Nº 972, de 4 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las Resoluciones Nº 1.043, de 1986 y Nº 1.170, de 1992, ambas de esta Subsecretaría, sólo en cuanto autorizaron a Sociedad Comercial e Industrial Giordano Ltda. y Compañía en Comandita por Acciones o Pesquera Isluga Ltda. -hoy PESQUERA ISLUGA S.A.- para desarrollar actividades pesqueras extractivas con la nave "Nicolás I", por haberse configurado la causal prevista en el artículo 143 letra b) de de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 4 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
