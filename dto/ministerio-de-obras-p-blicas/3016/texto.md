@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.016, del 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs 52 y 56, superficies 18.570,9 m² y 548,5 m², rol de avalúo 519-106, comuna de Carahue, obra Camino Costero Tirúa Carahue, Tramo Bajo Yupehue-Cruce Puyanhue y se acordó precio de indemnización con su propietario Juan Aron Porma Llancaleo, ascendente a la cantidad de $3.074.344.
+
+- Fiscal del Ministerio de Obras Públicas.
