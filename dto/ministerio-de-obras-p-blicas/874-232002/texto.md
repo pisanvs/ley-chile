@@ -1,0 +1,3 @@
+Por decreto MOP Nº 874 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 2, superficie 22.186 m2, Rol de Avalúo Nº 597-81, comuna de San Ignacio, para la obra: "Sistema de Riego Laja-Diguillín "Bocatoma Diguillín", VIII Región y se acordó el valor de indemnización con su propietario Celso Arturo Aedo Urrutia, ascendente a la cantidad de $3.070.302.
+
+Fiscal del Ministerio de Obras Públicas.
