@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.326, de 30 de mayo del 2000, se expropió el lote de terreno Nº4, superficie 670 m², rol de avalúo 189-125, comuna de Longaví, para la obra Concesión Internacional Ruta 5, Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietario José Alfonso Norambuena González, ascendente a la cantidad de $2.481.463.
+
+- Fiscal del Ministerio de Obras Públicas.
