@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.212, de 30 de noviembre del 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP. Nº206, de 1960, se expropió el lote de terreno Nº152-34, superficie 181 m2., rol de avalúo 1282-100, comuna de La Calera, Quinta Región, para la obra Camino Ruta 5 Norte. Tramo: Santiago-Los Vilos. Sector Km. 110.860,00 al Km. 112.020,00. Posteriormente, por decreto MOP. Nº63, de 31 de enero de 2001, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con sus propietarios Ruth Magaly Améstica Varas y otros, ascendente a la cantidad de $10.593.229.
+
+Fiscal del Ministerio de Obras Públicas.
