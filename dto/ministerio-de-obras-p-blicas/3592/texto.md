@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.592 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 115-3, superficie 219,0 m²., rol de avalúo 251-6, comuna de Lautaro, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli-Temuco Km. 646,25000 a Km. 656,05000'' y se acordó el valor de indemnización con su propietario Pablo Hernán Rodríguez Pereira, ascendente a la cantidad de $604.192.-
+
+Fiscal del Ministerio de Obras Públicas.
