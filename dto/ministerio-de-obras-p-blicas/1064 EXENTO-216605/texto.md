@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.064 de fecha 29 de septiembre de 2003, se expropió el lote de terreno Nº1, superficie 224,20 m2., Rol Nº1208-2, comuna de San Felipe, V Región, para la obra "Acceso Puente 21 de Mayo, Sector Ruta E-559, Punta El Olivo Mina Los Claros" y se acordó el valor de indemnización con su propietario Saandra Cristina Saa Ruiz, ascendente a la cantidad de $1.338.560.-
+
+Fiscal del Ministerio de Obras Públicas.
