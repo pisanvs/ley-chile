@@ -1,0 +1,71 @@
+Reglamenta distribución utilidades Lotería Beneficencia
+
+Núm. 312.- Santiago, 27 de Julio de 1932.- Considerando:
+
+Que la Universidad de Concepción realiza una misión de cultura social y con ello coopera eficazmente a las finalidades del Estado;
+
+Que es un anhelo del actual Gobierno difundir por todos los medios la instrucción, base indispensable para asentar sólidamente los ideales que sustenta;
+
+Que la obra de la Universidad de Concepción es una manifestación de la capacidad y actividad de las provincias que es necesario estimular;
+
+Que se hace preciso facilitar a dicha institución los medios para que realice su labor en forma nornal y progresiva;
+
+Que las utilidades de la Lotería, según su actual distribución, resultan fraccionadas sin provecho efectivo entre diversas instituciones; y
+
+Que es necesario aprovechar dichos recursos de una manera más eficiente en favor de su primitiva destinación y de la salubridad pública,
+
+Decreto:
+
+#### Artículo 1
+
+o La distribución de las utilidades de la Lotería de Beneficencia Pública determinada en la ley número 4,885, de 6 de Septiembre de 1930 y en el decreto reglamentario número 626, de 13 de Agosto de 1931, del Ministerio de Bienestar Social se hará en la forma siguiente:
+
+1.o Se deducirán en primer término dos millones novecientos mil pesos ($ 2.900,000) para la Universidad de Concepción con el objeto de servir su presupuesto ordinario anual.
+
+2.o El excedente se distribuirá en la siguiente forma:
+
+a) El 20 por ciento a la Universidad de Concepción, para construcciones y desarrollo de sus actividades docentes y de cultura.
+
+b) El 15 por ciento para incrementar el capital de reserva de la mencionada Universidad hasta enterar, con los fondos ya acumulados, hasta el 31 de Diciembre de 1930, la suma indicada en el artículo 1.o de la ley número 4,885 ya referida.
+
+c) El 25 por ciento para la Cruz Roja Chilena.
+
+d) El 15 por ciento para la Salubridad Pública.
+
+e) El 5 por ciento para el Hospital Naval.
+
+f) El 5 por ciento para el Hospital Militar.
+
+g) El 10 por ciento para el Hospital Clínico de la Universidad de Chile.
+
+h) El 5 por ciento para el Hospital Clínico de la Universidad Católica.
+
+#### Artículo 2
+
+o El impuesto del 4 por ciento sobre la venta de billetes fijado por la ley número 4,740, de 27 de Diciembre de 1929, se destinará a incrementar los fondos generales del Ministerio de Salubridad Pública.
+
+#### Artículo 3
+
+o Quedan exentas de todo impuesto fiscal o municipal todas las rentas de la Universidad y las donaciones o beneficios de cualquier especie que pudieran corresponderle.
+
+Están asimismo exentas de toda tributación fiscal o municipal las utilidades o entradas de la Lotería, en atención al hecho de que este organismo no tiene personalidad jurídica propia.
+
+#### Artículo 4
+
+o Se autoriza a la Universidad de Concepción, para invertir de su capital de reserva hasta la suma de cinco millones de pesos ($ 5.000,000) con el exclusivo fin de continuar su plan de edificación.
+
+#### Artículo 5
+
+o Se deroga el decreto con fuerza de ley número 46, de 16 de Marzo de 1931, y demás disposiciones legales que se hallen en contraposición con el presente decreto-ley.
+
+#### Artículo 6
+
+o Cuando el 25 por ciento a que se refiere la letra c) del artículo 1.o del presente decreto-ley excediere de un millón de pesos ($ 1.000,000) anuales, el exceso pasará a incrementar los fondos de que puede disponer la Universidad de Concepción, de acuerdo con lo establecido en la letra a) del mencionado artículo 1.o
+
+#### Artículo transitorio
+
+Durante el resto del presente año, en 1933 y 1934 la Universidad de Concepción deducirá de los fondos que le corresponden, de acuerdo con la letra b) del artículo 1.o del presente decreto-ley, la suma necesaria para completar a la Cruz Roja Chilena, una cuota anual de un millón de pesos ($ 1.000,000).
+
+Este decreto-ley empezará a regir desde su publicación en el Diario Oficial y la exención de contribuciones a que se refiere el artículo 3.o empezará a regir desde el 1.o de Enero del presente año.
+
+Tómese razón, comuníquese, publíquese e insértese en el Boletín de las Leyes y Decretos del Gobierno.- CARLOS DAVILA.- Pedro Lagos.- Enrique Zañartu P.
