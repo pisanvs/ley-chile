@@ -1,0 +1,9 @@
+EXTRACTO DE CIRCULAR Nº47, DE 2001
+
+I.- INTRODUCCION
+
+La ley Nº19.738, publicada en el Diario Oficial de fecha 19 de junio del año 2001, mediante la letra c) de su artículo 2º incorporó un nuevo artículo a la Ley de la Renta, signado como artículo 18 bis, a través del cual se establece el tratamiento tributario que tendrá el mayor valor proveniente de la enajenación de acciones de sociedades anónimas abiertas con presencia bursátil o de bonos emitidos por ciertos organismos o empresas que indica dicha norma, obtenido por inversionistas institucionales extranjeros, que cumplan con los requisitos y condiciones que establece la nueva disposición incorporada a la ley del ramo. Además, dicho texto legal a través de su artículo 9 introduce una modificación al artículo 15 de la ley Nº18.657, de 1987, sobre Fondo de Inversión de Capital Extranjero, mediante la cual se establece que las rentas que los inversionistas institucionales extranjeros a que se refiere dicha ley, remesen al exterior previo cumplimiento de las condiciones y requisitos establecidos por el nuevo artículo 18 bis incorporado a la ley del ramo, estarán exentas del impuesto único del 10% que contempla el artículo 15 de la citada ley Nº18.657.
+
+II.- INSTRUCCIONES SOBRE LA MATERIA
+
+Este Servicio las instrucciones pertinentes sobre la incorporación del nuevo artículo 18 bis a) la Ley sobre Impuesto a la Renta y de las modificaciones introducidas al artículo 15 de la ley Nº18.657, las impartió mediante la circular Nº47, de fecha 19 de julio de 2001 la cual será publicada íntegramente en la página web que tiene habilitada este Servicio en Internet, cuya dirección es www.sii.cl y en el Boletín del Servicio de Impuestos Internos del mes de julio del año 2001.
