@@ -7316,9 +7316,7 @@ III.- DISPOSICIONES TRANSITORIAS.
 
 1.- Cobro de comisiones en créditos de consumo.
 
-Las instituciones financieras deberán atenerse a lo señalado en el numeral 7.2 del título I del presente Capítulo respecto de los créditos de consumo u otros similares que otorguen a partir de la fecha en que esta Superintendencia publique, por primera vez, las tasas de interés separadas por tramos para créditos no reajustables a más de 90 días, a que se refieren las letras b), c) y d) del numeral 6.1 del título I.
-
-No obstante, aquellas instituciones que pacten con sus clientes las denominadas líneas de crédito rotativas ("revolving"), sin que ellas estén asociadas a una cuenta corriente o a una cuenta a la vista que cumpla la condición mencionada en, el numeral 7.1 del título I, podrán seguir cargando comisiones por esas líneas de crédito hasta el día del mes de junio de 1999 en que se publiquen las tasas de interés mencionadas en el párrafo anterior.
+Las instituciones financieras deberán atenerse a lo señalado en el numeral 7.2 del título I del presente Capítulo respecto de los créditos de consumo u otros similares que otorguen a partir de la fecha en que esta Superintendencia publique, por tercera vez, las tasas de interés separadas por tramos para créditos no reajustables a más de 90 días, a que se refieren las letras b), c) y d) del numeral 6.1 del título I.
 
 2.- Cálculo de la tasa de interés que debe pactarse a partir de flujos preestablecidos en base a un cobro separado de comisiones.
 
