@@ -1,0 +1,3 @@
+Por resolución Nº 1.295 de 20 de junio de 2002 de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A., para ampliar actividades pesqueras extractivas con la nave "Lonco", autorizada por las resoluciones Nº 832 y Nº 1.919, ambas de 2001, ambas de esta Subsecretaría, en orden a realizar actividades pesqueras con la nave individualizada precedentemente, en el área marítima comprendida entre la V a X Regiones, por fuera del área de reserva artesanal, con arte de cerco, sobre los recursos hidrobiológicos Jurel fino, Anchoa blanca o Samasa, Sardina redonda y Vinciguerria.
+
+Valparaíso, 20 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
