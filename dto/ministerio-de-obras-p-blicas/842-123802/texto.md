@@ -1,0 +1,5 @@
+Por decreto MOP. No. 842, de 25 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropiaron los lotes de terreno No. s. 30, 32, 33 y 34, para la ejecución de la obra Camino Ruta N-78-O, Sector Quillón - Nueva Aldea, Tramo Km. 0.000,00 a Km. 10.666,02 que figuran a nombre de José Gabri Oróstica Merino, Roles de Avalúo 1092-112, 1092-114, comuna de Quillón, VIII Región, superficies 411, 409, 106 y 24 m2. La Comisión de Peritos, compuesta por los señores Jaime García Molina, Pablo Carrillo Valenzuela y Luis Abarzúa Ceballos, fijó con fechas 1º de abril de 1996 y 22 de marzo de 1995, el valor provisional de las indemnizaciones en la cantidad $ 429.370, lote 30; $ 373.110, lote 32; $ 111.320, lote 33, y $ 25.980, lote 34. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No.
+
+2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
