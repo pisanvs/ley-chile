@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD INDUSTRIAL, COMERCIAL Y PESQUERA PUDETO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS Y DENIEGA PERMISO QUE INDICA
+
+Por resolución No. 271, de 17 de Marzo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción. se autoriza a la Sociedad Industrial, Comercial y Pesquera Pudeto Limitada, domiciliada en Ancud, para cultivar en el establecimiento de cultivo que tiene autorizado por Resolución No. 97. de 1985, de la Subsecretaría de Pesca, además del recurso señalado en dicha Resolución, lo siguiente: ostra y ostión del Norte. Asimismo, se deniega autorización a la sociedad señalada para cultivar en el centro de cultivo en referencia, las especies cholga, chorito y choro zapato.
+
+Valparaíso, 17 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
