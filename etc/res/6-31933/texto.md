@@ -1,0 +1,3 @@
+Por Resolución N° 6 de 15 de Septiembre de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones IX Región, se adjudicó a don José Jermán Fonseca Bustos, la concesión para operar, por un plazo de cinco años a contar de la publicación del presente extracto, un establecimiento ubicado en calle Rodríguez N° 999, de la Comuna de Lautaro, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Humberto Ivor Fierro Bustos, Secretario Regional Ministerial de Transportes y Telecomunicaciones IX Región.
