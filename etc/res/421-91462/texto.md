@@ -1,0 +1,3 @@
+Por Resolución No. 421, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado en calle Roberto Espinoza No. 537, presunto rol avalúos No. 646-8. comuna Santiago, aparentemente dominio de don Raúl Jiménez Illanes. Comisión integrada por peritos Sres. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos, y Walter Soto Silva, ingeniero civil según informe de 24 de noviembre de 1988, fijó monto provisional indemnización en $ 237.600.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
