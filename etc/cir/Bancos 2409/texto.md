@@ -11108,17 +11108,17 @@ Como el proceso de clasificación de cartera comprende tanto colocaciones vigent
 
 1.4. Contabilización de las provisiones global e individuales.
 
-La provisión global se debe registrar en la cuenta "Provisiones globales para la cartera de colocaciones" de la partida 4205 del formulario MB1 y constituirse con cargo a la cuenta que, con el mismo nombre se incluirá en la partida 6110.
+La provisión global se debe registrar en la cuenta "Provisiones globales para la cartera de colocaciones" de la partida 4205 y constituirse con cargo a la cuenta que, con el mismo nombre se incluirá en la partida 6110.
 
 Las provisiones individuales, por su parte, se constituirán con abono a la cuenta "Provisiones individuales para créditos vencidos" de la partida 4205 y con cargo a una cuenta que, con el mismo nombre, debe incluirse en la partida 6110.
 
-Tanto las provisiones individuales como la provisión global, cuando corresponda, serán utilizadas para efectuar castigos de las colocaciones, de acuerdo con las instrucciones del numeral 3.3 de este título.
+Tanto las provisiones individuales como la provisión global, cuando corresponda, serán utilizadas para efectuar castigos de las colocaciones, de acuerdo con las instrucciones del numeral 3 3 de este título.
 
-Los excesos de provisiones individuales o de provisión global que se liberen, sea con motivo de la recuperación de las operaciones por las cuales se constituyeron o, en el caso que proceda, por una reducción del riesgo de la cartera, se acreditarán en las respectivas cuentas de gastos por provisiones que se demuestran en la partida 6110, pero sólo hasta la concurrencia del saldo deudor que demuestren esas cuentas. En consecuencia, los importes que excedan a los mencionados saldos, se abonarán a la cuenta "Liberación de provisiones por riesgos de activos" de la partida 8110.
+Los excesos de provisiones individuales o de provisión global que se liberen por cualquier motivo, se acreditarán en las respectivas cuentas de resultado de la partida 6110.
 
-Al cierre de cada mes, el importe reflejado en las cuentas de provisiones sobre colocaciones deberá reflejar el monto constituido de las provisiones exigidas, calculado de acuerdo con las disposiciones del Capítulo 8-28 de esta Recopilación. Para ese efecto, los excesos de provisiones que no se hubieran liberado se traspasarán a la cuenta "Provisiones voluntarias" de la partida 4245, tratada en el N° 1 del título IV de este Capítulo.
+Al cierre de cada mes, el importe de las cuentas de provisiones sobre colocaciones de la partida 4205 deberá reflejar el monto constituido de las provisiones calculado de acuerdo con lo indicado en el Capítulo 8-28, más las provisiones que se indican en este Capítulo y las que adicionalmente la institución pudiera constituir para cubrir riesgos de la cartera de colocaciones.
 
-Por otra parte, para efecto de exposición de los saldos, el importe que corresponde al riesgo calculado para los créditos hipotecarios para vivienda se traspasará a la cuenta "Provisiones para créditos hipotecarios para vivienda" de la partida 4207, cargando la cuenta "Provisiones globales para la cartera de colocaciones" de la partida 4205 o, si fuere el caso, "Provisiones individuales para créditos vencidos" de la misma partida. El monto de las provisiones exigidas correspondiente a los créditos hipotecarios para la vivienda se obtendrá conforme a lo señalado en los N°s 4 y 5 del título II del Capítulo 8-28. Dicha contabilización se revertirá al mes siguiente, para volver a reflejar al cierre de éste, en la cuenta "Provisiones para créditos hipotecarios para vivienda", el importe que corresponda según lo indicado.
+No obstante lo anterior, para el solo efecto de presentación, el importe que corresponde al riesgo calculado para los créditos hipotecarios para vivienda se traspasará a la cuenta "Provisiones para créditos hipotecarios para vivienda" de la partida 4207, cargando la cuenta "Provisiones globales para la cartera de colocaciones" de la partida 4205 o, si fuere el caso, "Provisiones individuales para créditos vencidos" de la misma partida. El monto de las provisiones exigidas correspondiente a los créditos hipotecarios para la vivienda se obtendrá conforme a lo señalado en los N°s 4 y 5 del título II del Capítulo 8-28. Dicha contabilización se revertirá al mes siguiente, para volver a reflejar al cierre de éste, en la cuenta "Provisiones para créditos hipotecarios para vivienda", el importe que corresponda según lo indicado.
 
 ### 2. Provisiones adicionales sobre colocaciones
 
@@ -11142,15 +11142,13 @@ Quedan excluidos las disposiciones de este numeral, los créditos de consumo y l
 
 2.2. Provisión por créditos riesgosos en su origen.
 
-Las instituciones fiscalizadas que tuvieren un riesgo adicional por registrar colocaciones riesgosas en su origen de acuerdo con las definiciones establecidas en el N° 1, título II, del Capítulo 8-28 de esta Recopilación Actualizada de Normas, deberán mantener una provisión para cubrir aquel riesgo conforme a lo exigido en el N° 9, título II, de ese Capítulo
+Las instituciones fiscalizadas que tuvieren un riesgo adicional por registrar colocaciones riesgosas en su origen de acuerdo con las definiciones establecidas en el N° 1, título II, del Capítulo 8-28 de esta Recopilación Actualizada de Normas, deberán mantener una provisión para cubrir aquel riesgo conforme a lo exigido en el N° 9, título II, de ese Capítulo.
 
 La provisión de que se trata se constituirá con abono a la cuenta "Provisión para créditos riesgosos en su origen", de la partida 4205, con cargo a la cuenta de resultado del mismo nombre que se incluirá en la partida 6110.
 
 Cuando corresponda liberar todo o parte de esa provisión, se acreditará la cuenta de gastos señalada en el párrafo precedente, pero sólo hasta la concurrencia del saldo deudor que demuestre esa cuenta. Los importes que excedan al mencionado saldo se abonarán a la cuenta "Liberación de provisiones por riesgo de activos", de la partida 8110.
 
-Las provisiones sobre créditos renegociados deberán abonarse a la cuenta "Provisiones sobre créditos renegociados", cuyo saldo formará parte de la partida 4205 del formulario MB1, con cargo a la cuenta del mismo nombre que se demostrará en la partida 6110 del formulario MR1.
-
-Los asientos en las respectivas cuentas se revertirán al momento de cumplirse las condiciones previstas para la eliminación de estas provisiones.
+Las provisiones sobre créditos renegociados deberán abonarse a la cuenta "Provisiones sobre créditos renegociados", cuyo saldo formará parte de la partida 4205, con cargo a la cuenta del mismo nombre que se demostrará en la partida 6110. Cuando corresponda liberar todo o parte de esa provisión, se acreditará la misma cuenta de resultados.
 
 2.3. Provisión especial por el uso de procedimientos deficientes de clasificación.
 
@@ -11160,7 +11158,7 @@ Para ese efecto, las instituciones financieras que se califiquen en dicha catego
 
 La referida provisión adicional se mantendrá constituida mientras la institución se encuentre clasificada en categoría III, salvo que, como consecuencia de una clasificación de cartera que ella efectúe con posterioridad a la visita que haya dado origen a esa provisión, reconozca pérdidas de cartera superiores a la suma de la pérdida informada por este Organismo más el monto de la provisión de que se trata, en cuyo caso podrá, previa consulta a esta Superintendencia, traspasar a la provisión global el importe de dicha provisión especial.
 
-La provisión a que se refiere este numeral se constituirá con abono a la cuenta "Provisiones por mayor riesgo sistemas de clasificación", de la partida 4205, con cargo a la cuenta de resultado del mismo nombre de la partida 6110. Para liberar la provisión se revertirá el asiento efectuado o bien, cuando se haya constituido en un ejercicio anterior, se abonará la cuenta "Liberación de provisiones por riesgo de activos", de la partida 8110.
+La provisión a que se refiere este numeral se constituirá con abono a la cuenta "Provisiones por mayor riesgo sistemas de clasificación", de la partida 4205, con cargo a la cuenta de resultado del mismo nombre de la partida 6110. Para liberar la provisión se revertirá el asiento efectuado.
 
 2. 4. Cómputo de las provisiones adicionales.
 
@@ -11242,7 +11240,7 @@ El mismo procedimiento antes señalado se aplicará cuando los bancos castiguen 
 
 3.5.- Recuperación de créditos castigados.
 
-Las sumas que se recuperen con posterioridad al castigo de un crédito, deben considerarse como ingreso en el momento en que ellas sean percibidas. Para ese efecto se utilizará la cuenta "Recuperación de colocaciones e inversiones castigadas" de la partida 7910, o la cuenta del mismo nombre de la Partida 8105, según se trate de créditos castigados en el mismo ejercicio o en años anteriores.
+Las sumas que se recuperen con posterioridad al castigo de un crédito, deben considerarse como ingreso en el momento en que ellas sean percibidas. Para ese efecto se utilizará la cuenta "Recuperación de colocaciones e inversiones castigadas" de la partida 7910.
 
 Estas recuperaciones, cuando corresponda, darán origen a ajustes en las cuentas de orden de la partida 9600 en que se encuentren registrados los créditos castigados.
 
@@ -11276,7 +11274,7 @@ b) En el evento de que la institución financiera, en una operación diferente a
 
 Las provisiones de que se trata se registrarán en la cuenta "Provisión por inversiones financieras riesgosas" de la partida 4210, con cargo a una cuenta del mismo nombre de la partida 6120.
 
-Para liberar las provisiones, cuando corresponda, se acreditará la cuenta de resultados antes mencionada, aunque las provisiones provengan del ejercicio anterior, hasta por el saldo que esa cuenta tenga. El exceso se llevará a la cuenta "Liberación de provisiones por riesgos de activos" de la partida 8110.
+Para liberar las provisiones, cuando corresponda, se acreditará la cuenta de resultados antes mencionada, aunque las provisiones provengan del ejercicio anterior.
 
 ### 2. Castigos
 
@@ -11300,7 +11298,7 @@ Junto con la contabilización del castigo a que se refiere la letra a) precedent
 
 2.3. Recuperación de inversiones castigadas.
 
-Las sumas que se recuperen por el pago de inversiones financieras castigadas, se registrarán con abono a la cuenta "Recuperación de colocaciones e inversiones castigadas", de la partida 7910, en el caso de las recuperaciones de inversiones financieras castigadas en el mismo ejercicio o en la cuenta del mismo nombre de la partida 8105, cuando se trate de recuperaciones de inversiones castigadas en años anteriores.
+Las sumas que se recuperen por el pago de inversiones financieras castigadas, se registrarán con abono a la cuenta "Recuperación de colocaciones e inversiones castigadas", de la partida 7910.
 
 Al mismo tiempo, deberá revertirse el monto que corresponda registrado en la cuenta "Inversiones castigadas" de la partida 9600.
 
@@ -11309,6 +11307,8 @@ Al mismo tiempo, deberá revertirse el monto que corresponda registrado en la cu
 Cuando se condone todo o parte de un crédito porque existen motivos razonables para rebajar el monto adeudado y se ha convenido la remisión con el deudor, se seguirá el mismo tratamiento señalado en la letra a) del numeral 3-3 del título I de este Capítulo, con la diferencia de que en vez de las cuentas de orden que allí se indican, se utilizarán las siguientes cuentas de la partida 9602: "Condonaciones de créditos comerciales", "Condonaciones de créditos de consumo" y "Condonaciones de créditos hipotecarios de vivienda".
 
 Si la remisión alcanza a créditos registrados en cuentas de orden, deberán revertirse los respectivos importes de las cuentas que correspondan.
+
+De acuerdo con establecido en el N° 4 del artículo 31 de la Ley sobre Impuesto a Renta y en las instrucciones conjuntas impartidas en la Circular N° 2.774-1.092, por el Director del Servicio de Impuestos Internos y el Superintendente de Bancos e Instituciones Financieras, las condonaciones de créditos clasificados al menos por un año en alguna de las dos últimas categorías de riesgo de acuerdo con las normas de clasificación de cartera, se consideran como gasto tributario hasta por una parte igual a las provisiones a que estén afectas.
 
 ### IV. OTRAS DISPOSICIONES
 
@@ -14814,7 +14814,7 @@ Las instituciones financieras deberán mantener una provisión para cubrir el ri
 
 Esta provisión se abonará a la cuenta "Provisión sobre bienes recibidos o adjudicados en pago" de la partida 4220, con cargo a la cuenta que, con el mismo nombre se incluye en la partida 6130.
 
-La provisión constituida será utilizada solamente para cubrir las pérdidas que se produjeren en la enajenación de los bienes recibidos o adjudicados en pago. Los excesos de provisión que se determinen con motivo de los ajustes mensuales antes indicados, deberán liberarse acreditando la cuenta de gastos mencionada en el párrafo precedente, hasta la concurrencia del saldo deudor que demuestre esa cuenta Los importes que excedan ese saldo, se abonarán a la cuenta "Liberación de provisiones por riesgos de activos" de la partida 8110.
+La provisión constituida será utilizada solamente para cubrir las pérdidas que se produjeren en la enajenación de los bienes recibidos o adjudicados en pago. Los excesos de provisión que se determinen con motivo de los ajustes mensuales antes indicados, deberán liberarse acreditando la cuenta de gastos mencionada en el párrafo precedente.
 
 ### 3. Venta de los bienes
 
@@ -21354,13 +21354,13 @@ LINEA PARTIDAS (No se indican algunas partidas cuyos saldos deben ser objeto de 
 
 .
 
-OBSERVACIONES:
+OBSERVACIONES
 
-[#A]: Importe correspondiente a los ajustes a valor de mercado, según lo señalado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
+[#A] Importe correspondiente a los ajustes a valor de mercado, según lo señalado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
 
-[#B]: Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en el N° 2 de las instrucciones sobre reagrupaciones de saldos.
+[#B] Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en el N° 2 de las instrucciones sobre reagrupaciones de saldos.
 
-[#C]: Ingresos por recuperación de colocaciones castigadas, según lo indicado en el N° 3 de las instrucciones sobre reagrupaciones de saldos.
+[#C] Ingresos por recuperación de colocaciones castigadas, según lo indicado en el N° 3 de las instrucciones sobre reagrupaciones de saldos.
 
 INSTRUCCIONES:
 
@@ -22508,25 +22508,9 @@ Las firmas evaluadoras deberán ser designadas por el Directorio o, en el caso d
 
 De acuerdo con lo dispuesto en la Ley N° 18.045, las sociedades clasificadoras de riesgo están impedidas de prestar sus servicios a aquellas instituciones con las cuales tengan intereses que, de alguna forma, puedan comprometer su capacidad para expresar una opinión independiente sobre el riesgo de la entidad emisora, de sus valores o sobre la información financiera de ésta.
 
-Sin perjuicio de las normas que al respecto ha impartido esta Superintendencia a las firmas evaluadoras mediante la Circular N° 11 de 9 de septiembre de 1994, y de las disposiciones contenidas en los artículos 81 y 82 de dicha ley, cuyo incumplimiento es objeto de sanción para la firma evaluadora que los infringiere, las instituciones financieras deberán tener en cuenta, en particular, que no podrán contratar empresas evaluadoras cuando éstas:
+Al respecto las instituciones financieras deben tener presente que una entidad evaluadora no puede prestarle sus servicios cuando ella o cualquiera de sus socios principales se encuentre en alguna de las situaciones previstas en el N°1 del título II de la Circular N° 18 de esta Superintendencia, dirigida a las firmas evaluadoras.
 
-a) tengan vinculación con la institución financiera a través de su propiedad o gestión, o mantengan intereses económicos en los negocios de éstas, con su plana directiva o con los dueños o accionistas principales. No obstante, el solo hecho de poseer hasta el uno por ciento de las acciones de la institución financiera no será causal de vinculación; o,
-
-b) sean o hayan sido en el ejercicio inmediatamente anterior auditores externos de la institución financiera o de alguna empresa relacionada por propiedad a ella.
-
-Tampoco podrán contratar a firmas evaluadoras cuyos socios, ejecutivos superiores o miembros de su consejo de clasificación, ya sea titulares o suplentes:
-
-i) tengan vinculación o la hayan tenido en los últimos seis meses, con instituciones fiscalizadas por este Organismo, a través de su propiedad o gestión. No obstante, no se considerará vinculada una persona por el solo hecho de poseer hasta el uno por ciento de las acciones o de los derechos sociales de una institución. Para los efectos de estas normas, se entenderá que las personas de que se trata son independientes de las instituciones evaluadas o de empresas filiales de éstas, cuando, además de no alcanzar el porcentaje de participación señalado precedentemente, no mantienen intereses económicos en los negocios de éstas, con su plana directiva o con los dueños o accionistas principales de las instituciones que evalúen, ni se encuentran en situación de dependencia directa o indirecta, esto es, subordinados en cualquier grado, con respecto a las empresas evaluadas;
-
-ii) mantengan con la institución o con sus entidades filiales relacionadas, contratos de crédito o de leasing por un monto total que exceda de 3.000 Unidades de Fomento, a menos que se trate de préstamos hipotecarios para vivienda o leasing inmobiliario de vivienda contratados sin condiciones preferentes y servidos normalmente.
-
-### 3. Otorgamiento de créditos a las firmas contratadas
-
-Una vez designada la firma evaluadora y hasta el término del contrato de evaluación, la institución financiera contratante no podrá otorgarle nuevos créditos a esa firma o a cualquiera de sus socios, ejecutivos superiores o miembros de su consejo de clasificación, ya sean titulares o suplentes. Igual limitación regirá cuando la firma evaluadora sea contratada por alguna filial de la institución financiera.
-
-Se exceptúan de la prohibición señalada en el párrafo precedente, los créditos que se otorguen a la firma evaluadora que en total no excedan del equivalente de UF 100 y un crédito hipotecario destinado a la adquisición de un inmueble con el único propósito de que la empresa realice en él sus actividades. Asimismo, se exceptúan los créditos que se otorguen a algún socio, ejecutivo superior o miembro de su consejo de clasificación cuando se trate de un crédito personal de consumo, incluido el que provenga del uso de tarjeta de crédito, y de un crédito hipotecario para vivienda. En todo caso, los créditos de que se trata no podrán ser contratados en condiciones preferentes con respecto a los que se otorgan a los demás clientes de la institución financiera.
-
-### 4. Clasificadores designados por esta Superintendencia
+### 3. Clasificadores designados por esta Superintendencia
 
 En virtud del artículo 77 de la Ley de Mercado de Valores, esta Superintendencia podrá designar a una firma evaluadora en una entidad que fiscalice a fin de que efectúe una clasificación adicional de los valores de oferta pública que esa entidad emita. La remuneración que corresponda por esta clasificación será de cargo del emisor y gozará del privilegio establecido en el número 4 del artículo 2.472 del Código Civil. Las clasificaciones que realice esta empresa evaluadora designada podrán sustituir una de las clasificaciones obligatorias.
 
