@@ -1,0 +1,3 @@
+Por Decretos M.O.P. Nºs 331, de 31 de marzo y 380, de 21 de abril, ambos de 1997, se expropiaron los lotes de terreno Nºs. 1-A, 9 y 26, superficies 212, 160 y 138 m2., respectivamente, roles de avalúos en trámite, 515-26 y 60-72, comuna de Santa Cruz y Palmilla, obra Camino Santa Cruz Palmilla, sector Ruta I-720 por Barreales y se acordó precio de indemnización con sus propietarios María Gricela Zúñiga, Rosa Herrera Morales y otras y Juan Cañete Farías y otros, ascendente a las cantidades de $3.457.120, $1.370.200 y $852.999.-
+
+Fiscal del Ministerio de Obras Públicas.
