@@ -1,0 +1,7 @@
+Por Resolución N° 1.007, de 9 de Agosto de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don VICTOR EUGENIO ROJAS Gomez, R.U.T. N° 2.960.556-4, domiciliado en San Antonio, calle Luis Reuss N° 498, Población Montemar, para iniciar actividades pesqueras, en orden a operar la embarcación "Mireya del Pilar", en el litoral de las Regiones III a VII, donde podrá extraer los siguientes recursos hidrobiológicos: Atún aleta larga, Marrajo o Tiburón, Azulejo, Bacalao de profundida o Mero, Congrio colorado, Congrio dorado, Congrio negro, Jurel, Corvina, Lenguado de ojos chicos, Merluza común, Cojinoba del Norte, Pejegallo y Tollo.
+
+Deniégase, la autorización solicitada por el peticinario para operar en el litoral comprendido entre la I, II, VIII y IX Región. Asimismo, se deniega autorización para extraer peces demersales en el mar exterior al Sur del paralelo 43° LS y en aguas interiores de la X, XI y XII Región atendiendo el estado de plena explotación en que se encuentra esta pesquería.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 9 de Agosto de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
