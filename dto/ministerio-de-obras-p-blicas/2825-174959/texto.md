@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.825, de 30 de junio de 2000, se expropiaron los lotes de terreno Nºs. 53, 55 y 55-1, superficies 1.537 m², 348 m² y 244 m², rol de avalúo 608-73, comuna de Mulchén, para la obra Concesión Internacional Ruta 5, tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietaria Margarita Adriana Ivonne Rojas Araneda, ascendente a la cantidad de $1.079.723.
+
+Fiscal del Ministerio de Obras Públicas.
