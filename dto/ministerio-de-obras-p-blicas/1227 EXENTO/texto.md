@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.227, de fecha 31 de Agosto de 2001, se expropió el lote de terreno Nº72, superficie 987 M2, rol de avalúo 536-25, comuna de Río Bueno, X Región, para la obra "Camino Río Bueno-Crucero, Sector T-90-U y T-933, Tramo Km. 0,00000 al 20,90000" y se acordó el valor de indemnización con su propietario don Luis Edwin Matus Fuentes, ascendente a la cantidad de $734.684.-
+
+Fiscal del Ministerio de Obras Públicas.
