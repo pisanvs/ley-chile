@@ -1,0 +1,3 @@
+Por resolución Nº646, de 3 de marzo de 2003, de esta Subsecretaría, apruébase la solicitud presentada por PISCICULTURA RIO DE LA PLATA S.A., para transferir la autorización de acuicultura otorgada por la resolución Nº1.912 de 1998, a Fiordo Blanco S.A., ubicada en la localidad de Hueyusca, X Región. Esta transferencia deberá efectuarse conforme a las normas legales y reglamentarias vigentes.
+
+Valparaíso, 3 de marzo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
