@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.394 de 27 de agosto de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111098 presentada por SERVICIOS MARITIMOS OXXEAN SOCIEDAD ANONIMA, para un centro de cultivo ubicado en estero Mena, lado sur de Punta Patricio, península Melimoyu, sector 2, XI Región.
+
+Valparaíso, 27 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
