@@ -10096,31 +10096,21 @@ INVERSIONES FINANCIERAS.
 
 Deben incluirse en el rubro de "Inversiones Financieras", solamente los siguientes documentos o valores:
 
-a) Instrumentos de oferta pública del Banco Central de Chile, correspondientes a emisiones seriadas de pagarés o certificados de depósito transables en el mercado secundario.
+a) Instrumentos emitidos por el Banco Central de Chile.
 
-b) Títulos de crédito emitidos por el Banco Central de Chile a favor de un banco o sociedad financiera, que tengan la calidad de intransferibles o transferibles sólo entre instituciones financieras.
+b) Documentos emitidos en serie, representativos de obligaciones del Estado de Chile o sus instituciones. Incluye también otros instrumentos emitidos por la Tesorería General de la República y los Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento del Instituto de Normalización Previsional.
 
-c) Instrumentos de oferta pública emitidos por la Tesorería General de la República u otros Organismos Fiscales, correspondientes a emisiones seriadas de valores mobiliarios de renta fija y cualquier otro título de crédito emitido por el Estado o sus instituciones, excluidas las empresas del Estado
+c) Instrumentos de renta fija inscritos en el Registro de Valores de esta Superintendencia o de la Superintendencia de Valores y Seguros.
 
-d) Letras de crédito y bonos inscritos en el Registro de Valores de esta Superintendencia, incluidas las letras de crédito emitidas por la propia institución.
+d) Documentos emitidos en serie (bonos u otros instrumentos), representativos de obligaciones de Estados, bancos centrales, entidades financieras internacionales y empresas privadas extranjeras en general, que constituyan obligaciones de renta fija. Incluye notas estructuradas que tengan el carácter de instrumentos de inversión, cuando su retorno esté ligado a instrumentos de renta fija.
 
-e) Depósitos a plazo y efectos de comercio adquiridos de terceros (pagarés o certificados de depósito) representativos de captaciones de bancos y sociedades financieras establecidas en Chile.
+e) Depósitos a plazo constituidos en bancos o sociedades financieras del país o en entidades financieras del exterior y efectos de comercio adquiridos de terceros, representativos de captaciones de aquellos.
 
-f) Bonos, debentures y otros valores de renta fija inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
+f) Cuotas de fondos mutuos cuyas inversiones estén constituidas sólo por instrumentos de renta fija.
 
-g) Documentos emitidos por sociedades securitizadoras.
+g) Oro sellado, amonedado o en pasta de que trata el Capítulo 8-23 de esta Recopilación.
 
-h) Depósitos a plazo en el exterior e instrumentos financieros tales como bonos, letras u otras obligaciones de renta de entidades del exterior que permitan las normas de cambios internacionales del Banco Central de Chile.
-
-i) Cuotas de fondos mutuos cuyas inversiones estén constituidas sólo por instrumentos de renta fija.
-
-j) Oro sellado, amonedado o en pasta de que trata el Capítulo 8-23 de esta Recopilación.
-
-k) Pagarés por conversión de deuda externa chilena,
-
-l) Títulos de la deuda externa chilena, adquiridos en la oportunidad en que las normas del Banco Central de Chile permitieron tales operaciones.
-
-m) Otros valores que expresamente autorice esta Superintendencia.
+h) Pagarés por conversión de deuda externa chilena y títulos de la deuda externa chilena, adquiridos en la oportunidad en que las normas del Banco Central de Chile permitieron tales operaciones.
 
 Con todo, se excluye de las Inversiones Financieras cualquier documento que se adquiera con la responsabilidad del cedente, distinto del propio emisor, caso en el que debe registrarse en el activo el crédito contra el respectivo cedente o vendedor, de acuerdo con las disposiciones del Capítulo 8-19 de esta Recopilación.
 
@@ -10140,7 +10130,7 @@ Las compras con pacto de retrocompra de instrumentos de esta especie quedan suje
 
 2.1.2.- Inversiones financieras en el exterior.
 
-Las empresas bancarias pueden mantener inversiones financieras en el exterior, de conformidad con lo dispuesto en el Capítulo III.B.5 del Compendio de Normas Financieras del Banco Central de Chile".
+Las empresas bancarias pueden mantener inversiones financieras en el exterior, con sujeción a las normas del Banco Central de Chile y dentro de los márgenes tratados en el Capítulo 12-3 y en el título II del Capítulo 12-13 de esta Recopilación".
 
 2.1.3. Instrumentos en moneda extranjera que pueden adquirir las sociedades
 
@@ -16886,39 +16876,13 @@ BANCOS.
 
 ### 1. Normas generales
 
-La palabra crédito que utiliza la Ley General de Bancos para limitar los que se
+La palabra crédito que utiliza la Ley General de Bancos para limitar los que se otorguen a una misma persona, debe entenderse en su sentido tanto legal como natural y constituye el derecho de un acreedor respecto de su deudor, o la contrapartida de una obligación de dinero que alguien tiene con la institución financiera. Por lo tanto, los límites no se refieren sólo al otorgamiento de préstamos, sino que abarcan todas las operaciones en que la institución
 
-otorguen a una misma persona, debe entenderse en su sentido tanto legal como
+financiera adquiere tal derecho. Por ejemplo, para los efectos de los límites deque se trata, se concede u otorga un crédito cuando la institución financiera adquiere valores mobiliarios o efectos de comercio, cuando vende un activo fijo con saldo de precio, cuando un cliente asume un crédito de otro cliente, etc.
 
-natural y constituye el derecho de un acreedor respecto de su deudor, o la
+En todo caso, al tratarse de depósitos a plazo mantenidos en un banco o sociedad financiera del país o en bancos del exterior, las instituciones depositarías no se consideran como deudores para los efectos previstos en el artículo 84 de que se trata.
 
-contrapartida de una obligación de dinero que alguien tiene con la institución
-
-financiera. Por lo tanto, los límites no se refieren sólo al otorgamiento de
-
-préstamos, sino que abarcan todas las operaciones en que la institución
-
-financiera adquiere tal derecho. Por ejemplo, para los efectos de los límites
-
-deque se trata, se concede u otorga un crédito cuando la institución financiera
-
-adquiere valores mobiliarios o efectos de comercio, cuando vende un activo fijo
-
-con saldo de precio, cuando un cliente asume un crédito de otro cliente, etc.
-
-Para establecer el total de las obligaciones que una persona natural o jurídica
-
-mantiene a favor de una institución financiera, sujeto a los márgenes de
-
-endeudamiento individual del artículo 84 de la Ley General de Bancos, se deben
-
-considerar todas sus deudas directas y agregarse a éstas sus obligaciones
-
-indirectas y, cuando corresponda, se deben imputar también las obligaciones
-
-complementarias que se originen por la aplicación de lo dispuesto en el artículo
-
-85 de la Ley General de Bancos, a que se refiere el N° 4 de este título.
+Para establecer el total de las obligaciones que una persona natural o jurídica mantiene a favor de una institución financiera, sujeto a los márgenes de endeudamiento individual del artículo 84 de la Ley General de Bancos, se deben considerar todas sus deudas directas y agregarse a éstas sus obligaciones indirectas y, cuando corresponda, se deben imputar también las obligaciones complementarias que se originen por la aplicación de lo dispuesto en el artículo 85 de la Ley General de Bancos, a que se refiere el N° 4 de este título.
 
 ### 2. Personas que tienen solamente la calidad de deudores indirectos
 
@@ -16944,13 +16908,11 @@ Las inversiones en valores mobiliarios de renta fija están afectas a los límit
 
 3.2. Excepciones.
 
-Quedan excluidos de los márgenes individuales de crédito del artículo 84, con
-
-respecto a los emisores, las inversiones en los instrumentos que se indican a continuación:
+Quedan excluidos de los márgenes individuales de crédito del artículo 84, con respecto a los emisores, las inversiones en los instrumentos que se indican a continuación:
 
 a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos que representen obligaciones del Estado o de sus instituciones, incluido el Banco Central de Chile y excluidas las empresas del Estado.
 
-b) Bonos u obligaciones de renta de instituciones internacionales a las que se encuentre adherido el Estado de Chile.
+b) Bonos u obligaciones de renta de Estados, Bancos Centrales e instituciones internacionales a las que se encuentre adherido el Estado de Chile.
 
 3.3. Cuotas de fondos mutuos.
 
