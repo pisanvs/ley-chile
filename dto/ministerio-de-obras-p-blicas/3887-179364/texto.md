@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.887, de 31 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº516, para la obra: ''Concesión Internacional Ruta 5. tramo: Santiago - Talca. Sector A: acceso Sur a Santiago. Km.
+
+-0.150,00 A Km. 10.986,00'', Región Metropolitana, que figura a nombre de Soc. Minera La Abadía Ltda., rol de avalúo 2980-25, comuna de Puente Alto, superficie 38.834 m2. La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Eduardo Alejandro Silva Aracena y Mario Bochetti Ojeda, fijó con fecha 27 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $107.568.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
