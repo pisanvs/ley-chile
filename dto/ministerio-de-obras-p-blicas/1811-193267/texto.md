@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.811, de 31 de octubre del 2001, se expropió el lote de terreno Nº12, superficie 1.885 m2., rol de avalúo S/R, comuna de Quilpué, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar Troncal Sur: Tramo 4 a Kms. 99.600,00 al 101.720,00, Quinta Región, se acordó el valor de la indemnización con su propietaria Emilia Aldunce Vega, ascendente a la cantidad de $4.799.210.
+
+- Fiscal del Ministerio de Obras Públicas.
