@@ -1,0 +1,5 @@
+Por Resolución Nº 1.780, de 30 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PRODUCTOS COMESTIBLES DEL MAR LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Escuadrón, Parcela Nº 5, Coronel, VIII Región, donde podrá procesar, en las líneas de elaboración que se señalan a continuación, los siguientes recursos hidrobiológicos: Deshidratado natural y artificial de algas: Carola, Cochayuyo, Cotoni, Chasca, Chascón, Chicorea de mar, Huiro, Luga-Luga, Luche y Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 30 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
