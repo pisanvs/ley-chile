@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.180 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 578, superficie 195 m²., Rol Nº 32-413, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua-Las Cabras, sector San Roberto-El Toco-Ruta 66, tramo Km. 0,00000 al Km. 12,70000" y se acordó el valor de indemnización con su propietario Juan Bautista Sánchez Palominos, ascendente a la cantidad de $1.262.734.- para el lote Nº 578.-
+
+Fiscal del Ministerio de Obras Públicas.
