@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº276 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº68, superficie 273,00 m², rol de avalúo 1005-14, comuna de Puerto Natales, para la obra ''Acueductos Pasivos de los Huertos Familiares 2ª Etapa'' y se acordó el valor de indemnización con su propietario Peter Thomas Roderick Mac Lean Boyd, ascendente a la cantidad de $462.265.
+
+Fiscal del Ministerio de Obras Públicas.
