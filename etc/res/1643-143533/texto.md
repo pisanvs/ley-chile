@@ -1,0 +1,3 @@
+Por resolución Nº 1.643, de 31 de agosto de 1999, de esta Subsecretaría, autorízase a ADOLFO DEL CARMEN MICHEA MICHEA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector La Piña, comuna de Caldera, provincia de Copiapó, III Región, donde podrá procesar en las líneas que se indican los siguientes recursos hidrobiológicos: Secado y Picado: Cochayuyo, Chascón, Huiro y Pelillo.
+
+Valparaíso, 31 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
