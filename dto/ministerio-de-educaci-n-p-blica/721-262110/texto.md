@@ -90,7 +90,7 @@ Las vacantes que se produzcan en los cargos de Jefes de Establecimientos de Ense
 
 #### Artículo 7º
 
-Amplíase la facultad concedida en el Nº 14 del Párrafo I del artículo 1º del decreto supremo de Educación Nº 415, de 1976, en el sentido que podrán celebrarse convenios con empresas, organismos y servicios públicos, autónomos, semiautónomos o privados para la realización de investigaciones, programas y acciones educacionales, tanto a nivel escolar como extraescolar, en el ámbito regional y local, previa aprobación del proyecto correspondiente por el Sr. Subsecretario de Educación.
+Amplíase la facultad concedida en el Nº 14 del Párrafo I del artículo 1º del decreto supremo de Educación Nº 415, de 1976, en el sentido que podrán celebrarse convenios con empresas, organismos y servicios públicos, autónomos, semiautónomos o privados para la realización de investigaciones, programas y acciones educacionales, tanto a nivel escolar como extraescolar, en el ámbito regional y local.
 
 #### Artículo 8º
 
