@@ -1,0 +1,3 @@
+Por Resolución No. 52 de fecha 13 de Febrero de 1990, del SERVIU V Región de Valparaíso, se dispuso expropiación conforme DS No. 201 (V y U.), de 1988, modificado por DS No. 93 (V. y U.), de 1989, y DL No. 2.186; de 1978, inmueble ubicado en calle Victoria No. 2869, rol de avalúo No. 153-9 de la comuna de Valparaíso, aparentemente de dominio de Angel Flores Ramos. Comisión tasadora integrada por Sres. Osvaldo Muñoz Quintana, arquitecto, Alvaro Verdejo Vidal y Pablo Caria Giurici, constructores civiles, según informe de fecha 02 de Mayo de 1989, fijó monto provisional indemnización en la suma de $ 3.567.000.- que reajustada al 31 de Enero de 1990 asciende a S 4.258.285. Indemnización se pagará de contado.-
+
+Director SERVIU V Región.
