@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.074, de 30 de marzo del 2000, se expropió el lote de terreno Nº492, superficie 128 m2, rol de avalúo 1463-26, comuna Puente Alto, para la obra Concesión Internacional Ruta 5, Tramo Santiago-Talca. Sector a: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Gladys Briones Bobadilla, ascendente a la cantidad de $13.516.454.
+
+- Fiscal del Ministerio de Obras Públicas.
