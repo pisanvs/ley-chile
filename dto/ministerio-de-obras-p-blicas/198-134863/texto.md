@@ -1,0 +1,3 @@
+Por decreto MOP Nº 198, de 29 de enero de 1999, se expropió el lote de terreno Nº 57-A, superficie 1.376 m², rol de avalúo 747-173, comuna de Bulnes, para la obra Concesión Internacional Ruta 5, Tramo Chillán-Collipulli, Sector 1, VIII Región y se acordó el valor de indemnización con su propietaria Carmen Luisa Saldías Sanhueza, ascendente a la cantidad de $4.168.788.-
+
+Fiscal del Ministerio de Obras Públicas.
