@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION DE INMUEBLE QUE INDICA
+
+Resolución N° 86, 30 de julio de 1996, SERVIU Sexta Región del Libertador Bernardo O'Higgins ordenó Expropiación Parcial inmueble ubicado en Pasaje Trénova N° 801 de Rancagua, Rol de Avalúo N° 443-1, comuna de Rancagua, superficie 59,50 metros cuadrados, delimitada en el Polígono A-B-C-D-A conforme a Plano SERVIU VI Región U.E.P.-T-328, de aparente dominio de don Guillermo Encina Vicencio, para ejecución Proyecto "Mejoramiento Red Vial Sector Oriente" de Rancagua, conforme Artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por peritos Arquitectos Eduardo González Brard, Oscar Novoa Vargas y René Corvalán Correa, según Informe de fecha septiembre de 1995, fijó monto provisional indemnización en $10.068.125.- pagadera de contado.-
+
+Director SERVIU VI Región.
