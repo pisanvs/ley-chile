@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.833, de 31 de octubre del 2000, se expropió el lote de terreno Nº132-B2, superficie 404 m2., rol de avalúo 101-15, comuna de Pemuco, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietaria Isabel Cristina Troncoso Rozas, ascendente a la cantidad de $2.244.220.-
+
+Fiscal del Ministerio de Obras Públicas.
