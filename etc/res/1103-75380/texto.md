@@ -1,0 +1,3 @@
+Por Resolución Nº 1.103, de 1 de agosto de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA NACIONAL S.A., para continuar desarrollando las actividades pesqueras autorizadas a Pesquera Bahía Inglesa S.A., por la Resolución Nº 1.721, de 1989, de esta Subsecretaría, que autorizó a la titular para desarrollar actividades pesqueras extractivas, de conformidad con la escritura pública, de compraventa de las acciones de Pesquera Nacional S.A. a Inversiones Errázuriz S.A. de fecha 6 de noviembre de 1995, otorgada ante el Notario Público de Santiago don Fernando Alzate Claro.
+
+Valparaíso, 1 de agosto de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
