@@ -1,0 +1,3 @@
+Por decreto MOP Nº213, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº40, superficie 144,00 m², rol de avalúo 232-25, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre-Esperanza), Tramo Km. 0,000.00 al Km. 10,623.89" y se acordó el valor de indemnización con su propietario José Luis Barrueto Crespo, ascendente a la cantidad de $605.556.-
+
+Fiscal del Ministerio de Obras Públicas.
