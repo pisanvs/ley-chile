@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION No. EX. 1653 DE 1992 SOBRE DELEGACION DE FACULTADES
+
+Por resolución No. Ex. 3.053 de 09 de julio de 1992 el Servicio ha modificado la Resolución No. Ex. 1653 de 01 de Abril de 1992, sobre delegación de facultades, los funcionarios que se señalan por su referencia numérica y que corresponden a los descritos en la resolución No. Ex. 968 de 11.03.92 y su modificación mediante resolución No. Ex. 002410 de 25.06.92 ambos de la Dirección Nacional publicada en el Diario Oficial el día 16.3.92 y 04.07.92 respectivamente. La modificación señalada dice relación con materias referentes a la Ley 17.235; sobre Impuesto Territorial en el sentido de ampliar las funciones que se pueden delegar y los funcionarios que pueden ejercerlos.
+
+Valdivia, 09 de Julio de 1992.- Ismael Monterríos Lermanda, Director Regional.
