@@ -816,11 +816,15 @@ Las siguientes infracciones a las disposiciones tributarias serán sancionadas e
 
 3°.- La declaración incompleta o errónea, la omisión de balances o documentos anexos a la declaración o la presentación incompleta de éstos que puedan inducir a la liquidación de un impuesto inferior al que corresponda, a menos que el contribuyente pruebe haber empleado la debida diligencia, con multa del cinco por ciento al veinte por ciento de las diferencias de impuesto que resultaren.
 
-4°.- Las declaraciones maliciosamente incompletas o falsas que puedan inducir a la liquidación de un impuesto inferior al que corresponda o la omisión maliciosa en los libros de contabilidad de los asientos relativos a las mercaderías adquiridas, enajenadas o permutadas o a las demás operaciones gravadas, la adulteración de balances o inventarios o la presentación de éstos dolosamente falseados, el uso de boletas o facturas ya utilizadas en operaciones anteriores, o el empleo de otros procedimientos dolosos encaminados a ocultar o desfigurar el verdadero monto de las operaciones realizadas o a burlar el impuesto, con multa del cuarenta por ciento al doscientos por ciento del valor del tributo eludido y con presidio menor en sus grados medio a máximo.
+4°.- Las declaraciones maliciosamente incompletas o falsas que puedan inducir a la liquidación de un impuesto inferior al que corresponda o la omisión maliciosa en los libros de contabilidad de los asientos relativos a las mercaderías adquiridas, enajenadas o permutadas o a las demás operaciones gravadas, la adulteración de balances o inventarios o la presentación de éstos dolosamente falseados, el uso de boletas o facturas ya utilizadas en operaciones anteriores, o el empleo de otros procedimientos dolosos encaminados a ocultar o desfigurar el verdadero monto de las operaciones realizadas o a burlar el impuesto, con multa del cincuenta por ciento al trescientos por ciento del valor del tributo eludido y con presidio menor en sus grados medio a máximo.
 
-Las mismas penas se aplicarán a los contribuyentes afectos al Impuesto a las Ventas y Servicios que realicen cualquier maniobra tendiente a desfigurar el verdadero monto de los créditos que tenga derecho a hacer valer.
+Los contribuyentes afectos al Impuesto a las Ventas y Servicios u otros impuestos sujetos a retención o recargo, que realicen maliciosamente cualquiera maniobra tendiente a aumentar el verdadero monto de los créditos o imputaciones que tengan derecho a hacer valer, en relación con las cantidades que deban pagar, serán sancionados con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y con multa del cien por ciento al trescientos por ciento de lo defraudado.
 
-5°.- La omisión maliciosa de declaraciones exigidas por las leyes tributarias para la determinación o liquidación de un impuesto, en que incurran el contribuyente o su representante, y los gerentes y administradores de personas jurídicas o los socios que tengan el uso de la razón social, con multa del cuarenta al doscientos por ciento del impuesto que se trata de eludir y con presidio menor en sus grados medio a máximo.
+El que, simulando una operación tributaria o mediante cualquiera otra maniobra fraudulenta, obtuviere devoluciones de impuesto que no le correspondan, será sancionado con la pena de presidio menor en su grado máximo a presidio mayor en su grado medio y con multa del cien por ciento al cuatrocientos por ciento de lo defraudado.
+
+Si, como medio para cometer los delitos previstos en los incisos anteriores, se hubiere hecho uso malicioso de facturas u otros documentos falsos, fraudulentos o adulterados, se aplicará la pena mayor asignada al delito más grave.
+
+5°.- La omisión maliciosa de declaraciones exigidas por las leyes tributarias para la determinación o liquidación de un impuesto, en que incurran el contribuyente o su representante, y los gerentes y administradores de personas jurídicas o los socios que tengan el uso de la razón social, con multa del cincuenta por ciento al trescientos por ciento del impuesto que se trata de eludir y con presidio menor en sus grados medio a máximo.
 
 6°.- La no exhibición de libros de contabilidad o de libros auxiliares y otros documentos exigidos por la Dirección Regional de acuerdo con las disposiciones legales, la oposición al examen de los mismos o a la inspección de establecimientos de comercio, agrícolas, industriales o minerales, o el acto de entrabar en cualquier forma la fiscalización ejercida en conformidad a la ley, con multa de un cinco por ciento a un cincuenta por ciento de una unidad tributaria anual.
 
@@ -884,11 +888,11 @@ De las sanciones pecuniarias responden el contribuyente y las demás personas le
 
 #### Artículo 99
 
-En las infracciones por omisión, las sanciones corporales y los apremios en su caso, se aplicarán a quien debió cumplir la obligación y, tratándose de personas jurídicas, a los gerentes, administradores o socios a quienes corresponda dicho cumplimiento.
+Las sanciones corporales y los apremios, en su caso, se aplicarán a quien debió cumplir la obligación y, tratándose de personas jurídicas, a los gerentes, administradores o a quienes hagan las veces de éstos y a los socios a quienes corresponda dicho cumplimiento.
 
 #### Artículo 100
 
-El contador que al confeccionar o firmar cualquiera declaración o balance o que, encargado de la contabilidad de un contribuyente, incurriere en falsedades o actos dolosos, será sancionado con multa del dos por ciento al cien por ciento de una unidad tributaria anual y podrá ser castigado con presidio o relegación menores en su grado mínimo, según la gravedad de la infracción. Además, se oficiará al Colegio de Contadores para los efectos de la cancelación del título o de las sanciones que procedieren.
+El contador que al confeccionar o firmar cualquier declaración o balance o que como encargado de la contabilidad de un contribuyente incurriere en falsedad o actos dolosos, será sancionado con multa de una a diez unidades tributarias anuales y podrá ser castigado con presidio menor en sus grados medio a máximo, según la gravedad de la infracción, a menos que le correspondiere una pena mayor como copartícipe del delito del contribuyente, en cuyo caso se aplicará esta última. Además, se oficiará al Colegio de Contadores para los efectos de las sanciones que procedan.
 
 Salvo prueba en contrario, no se considerará dolosa o maliciosa la intervención del contador, si existe en los libros de contabilidad, o al término de cada ejercicio, la declaración firmada del contribuyente, dejando constancia de que los asientos corresponden a datos que éste ha proporcionado como fidedignos.
 
@@ -982,7 +986,11 @@ En los procesos criminales generados por infracción de las disposiciones tribut
 
 #### Artículo 111
 
-En los procesos criminales generados por infracción a las normas tributarias, la circunstancia de que el hecho punible no haya acarreado perjuicio al interés fiscal, como también el haberse pagado el impuesto debido sus intereses y sanciones pecuniarias, serán causales atenuantes de responsabilidad penal.
+En los procesos criminales generados por infracción a las normas tributarias, la circunstancia de que el hecho punible no haya acarreado perjuicio al interés fiscal, como también el haberse pagado el impuesto debido, sus intereses y sanciones pecuniarias, serán causales atenuantes de responsabilidad penal.
+
+Constituirá circunstancia agravante de responsabilidad penal que el delincuente haya utilizado, para la comisión del hecho punible, asesoría tributaria, documentación falsa, fraudulenta o adulterada, o se haya concertado con otros para realizarlo.
+
+Igualmente constituirá circunstancia agravante de responsabilidad penal que el delincuente teniendo la calidad de productor, no haya emitido facturas, facilitando de este modo la evasión tributaria de otros contribuyentes.
 
 #### Artículo 112
 
@@ -1378,7 +1386,9 @@ Contra la resolución que ordene dichas medidas y sin que ello obste a su cumpli
 
 #### Artículo 162
 
-Los juicios criminales por delitos tributarios sancionados con pena corporal, sólo podrán ser iniciados por querella o denuncia del Servicio, o del Consejo de Defensa del Estado, a requerimiento del Director. Cuando sean iniciados por querella o denuncia del Servicio, la representación y defensa del Fisco corresponderá sólo al Director por sí o por medio de mandatario, sin perjuicio de lo dispuesto en el artículo 7°, N° 1, del DFL. N° 1, de 14 de Febrero de 1963, que establece el Estatuto Orgánico del Consejo de Defensa del Estado.
+Los juicios criminales por delitos tributarios sancionados con pena corporal, sólo podrán ser iniciados por querella o denuncia del Servicio, o del Consejo de Defensa del Estado, a requerimiento del Director. Cuando sean iniciados por querella o denuncia del Servicio, la representación y defensa del Fisco corresponderá sólo al Director por sí o por medio de mandatario, sin perjuicio de lo dispuesto en el artículo 9°, N° 1 del decreto ley número 2.573, de 1979, que establece el Estatuto Orgánico del Consejo de Defensa del Estado.
+
+El Director tendrá derecho al conocimiento del sumario en cualquier causa en que se investiguen o persigan delitos comunes, cuando estimare fundadamente que se ha cometido un delito tributario en relación con los hechos investigados o perseguidos y así lo hiciere presente al juez de la causa. Si en tales procesos ejercitare la acción judicial a que se refiere el artículo 162 del Código Tributario y se dictare auto de procesamiento por delito tributario, procederá la desacumulación, en conformidad a lo dispuesto en el artículo 160 del Código Orgánico de Tribunales. El proceso desacumulado por delito tributario continuará tramitándose conforme a las normas aplicables a esta clase de juicios.
 
 Si la infracción estuviere sancionada con multa y pena corporal, quedará al libre arbitrio del Director interponer, sin más trámite, la correspondiente querella o denuncia. Si no se dedujere querella o denuncia, la sanción pecuniaria será aplicada con arreglo al procedimiento general establecido en el artículo 161°.
 
@@ -1414,7 +1424,9 @@ e) Los informes contables emitidos por los funcionarios del Servicio de Impuesto
 
 Las partes podrán designar, a su costa, peritos adjuntos en materias contables o de otra índole, los que deberán evacuar sus informes en el plazo de veinte días, pudiendo éste ser ampliado a veinte días más por una sola vez, a petición de los peritos y por resolución fundada del Juez de la causa. Transcurridos los plazos sin que se hayan evacuado los informes, quedará ipso facto sin efecto la designación del perito sin necesidad de requerimiento previo o resolución del Tribunal. Iguales normas se aplicarán respecto de los peritos que el Tribunal de oficio designe.
 
-f) Cuando proceda la excarcelación, el Juez fijará el monto de la fianza en una suma no inferior al 10% de los impuestos evadidos, reajustados en la forma prevista en el artículo 53, y de acuerdo a la estimación que de ellos se haga por el Servicio de Impuestos Internos. La excarcelación se otorgará y la fianza se rendirá de acuerdo a los incisos segundo y tercero del artículo 361 del Código de Procedimiento Penal, cualquiera que sea la pena asignada al delito;
+f) Cuando proceda la excarcelación, el Juez fijará el monto de la fianza en una suma no inferior al 30% de los impuestos evadidos, reajustados en la forma prevista en el artículo 53, y de acuerdo a la estimación que de ellos se haga por el Servicio de Impuestos Internos. La excarcelación se otorgará y la fianza se rendirá de acuerdo a los incisos segundo y tercero del artículo 361 del Código de Procedimiento Penal, cualquiera que sea la pena asignada al delito.
+
+Sin embargo, en los casos a que se refiere el inciso tercero del N° 4 del artículo 97, la excarcelación procederá de acuerdo con las reglas generales, pero se exigirá, además, caución y no se admitirá otra que no sea un depósito de dinero de un monto no inferior al de la devolución indebidamente obtenida, según los antecedentes que presente el Servicio de Impuestos Internos. Sobre este monto, el Tribunal fijará los reajustes e intereses que procedan;
 
 g) Para los efectos previstos en los artículos 380 y siguientes del Código de Procedimiento Penal, corresponderá en primer término al querellante el señalamiento de los bienes sobre los cuales ha de recaer el embargo;
 
