@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.109, de fecha 30 de septiembre de 2003, se expropiaron los lotes de terreno Nº5 y 7, superficies 3.889,22 m² y 130,69 m², rol de Avalúo Nº203-12, comuna de Toltén, para la obra "Camino Mejoramiento Ruta S-60 y S-70, Sector Hualpín-Toltén, Tramo Km. 68,15530 a Km. 71,46676", IX Región y se acordó el valor de la indemnización con su propietario Humberto Luis Hofer Pineda, ascendente a la cantidad de $2.415.976.-
+
+Fiscal del Ministerio de Obras Públicas.
