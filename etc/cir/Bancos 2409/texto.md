@@ -1148,7 +1148,7 @@ MATERIA:
 
 CONSERVACION Y ELIMINACION DE ARCHIVOS.
 
-De conformidad con lo dispuesto en el artículo 19 de la Ley General de Bancos, las instituciones sometidas a la fiscalización de esta Superintendencia deben conservar durante diez años sus libros, formularios, correspondencia, documentos y papeletas. Sin embargo, la misma norma legal faculta a este Organismo Contralor para autorizar a las referidas instituciones la eliminación de parte de estos archivos antes del plazo mencionado, para exigirles que determinados documentos o libros se guarden por plazos mayores y para conservar reproducciones mecánicas o fotográficas en remplazo de los documentos originales.
+De conformidad con lo dispuesto en el artículo 155 de la Ley General de Bancos, las instituciones sometidas a la fiscalización de esta Superintendencia deben conservar durante seis años sus libros, formularios, correspondencia, documentos y papeletas. Sin embargo, la misma norma legal faculta a este Organismo Contralor para autorizar a las referidas instituciones la eliminación de parte de estos archivos antes del plazo mencionado, para exigirles que determinados documentos o libros se guarden por plazos mayores y para conservar reproducciones mecánicas o fotográficas en remplazo de los documentos originales.
 
 En uso de la facultad antes señalada, esta Superintendencia imparte las siguientes instrucciones:
 
@@ -1164,11 +1164,11 @@ c) los antecedentes necesarios para certificar el tiempo servido y la renta perc
 
 d) en general, todos los documentos relacionados con la historia institucional de la empresa.
 
-Los documentos que no estén incluidos en las definiciones de los literales precedentes, podrán eliminarse de los archivos al cumplirse diez años a contar de la fecha en que fueron extendidos o de la última anotación en ellos, según corresponda, o bien antes de cumplirse ese plazo en los casos y condiciones que se señalan en los títulos siguientes de este Capítulo, todo ello naturalmente, sin perjuicio de respetar los plazos que exija la normativa tributaria, laboral, cambiaría, municipal, etc.
+Los documentos que no estén incluidos en las definiciones de los literales precedentes, podrán eliminarse de los archivos al cumplirse seis años a contar de la fecha en que fueron extendidos o de la última anotación en ellos, según corresponda, o bien antes de cumplirse ese plazo en los casos y condiciones que se señalan en los títulos siguientes de este Capítulo, todo ello naturalmente, sin perjuicio de respetar los plazos que exija la normativa tributaria, laboral, cambiaría, municipal, etc.
 
 ### II. ELIMINACION DE DOCUMENTOS SIN MICROGRABACION O MICROCOPIA PREVIA
 
-Las instituciones financieras podrán eliminar, sin necesidad de micrograbarla o microcopiarla previamente, toda aquella documentación de cinco o más años de antigüedad que corresponda a solicitudes relacionadas con emisión o entrega de documentos, copias de estados de cuenta, copias de traspasos contables y libros o estados de cuenta subsidiarios o auxiliares, siempre que no se refieran a operaciones, negocios o asuntos que se encuentren vigentes o pendientes o, en el caso de libros o estados, que contengan operaciones en esa situación.
+Las instituciones financieras podrán eliminar, sin necesidad de micrograbarla o microcopiarla previamente, toda aquella documentación de cuatro o más años de antigüedad que corresponda a solicitudes relacionadas con emisión o entrega de documentos, copias de estados de cuenta, copias de traspasos contables y libros o estados de cuenta subsidiarios o auxiliares, siempre que no se refieran a operaciones, negocios o asuntos que se encuentren vigentes o pendientes o, en el caso de libros o estados, que contengan operaciones en esa situación.
 
 ### III. DOCUMENTOS QUE PUEDEN ELIMINARSE PREVIA SU MICROGRABACION O MICROFILMACION
 
@@ -1182,7 +1182,7 @@ c) Copias de contratos, convenios y correspondencia de distinta naturaleza.
 
 La eliminación de dichos documentos, una vez grabados o microfilmados, podrá hacerse dentro del tiempo que cada institución estime prudente.
 
-Las microcopias o micrograbaciones deben conservarse por el período de diez años, contado desde la fecha de origen de los respectivos documentos originales.
+Las microcopias o micrograbaciones deben conservarse por el período de seis años, contado desde la fecha de origen de los respectivos documentos originales.
 
 Además, los bancos podrán micrograbar o microfilmar los cheques pagados que sean entregados a los respectivos giradores, conforme a lo establecido en el título IV del Capítulo 2.2 de esta Recopilación Actualizada de Normas.
 
@@ -2366,9 +2366,9 @@ Por lo tanto, la persona que pierde un libreto de cheques o algún formulario de
 
 ### 1. Devolución de los cheques pagados
 
-Conforme a lo dispuesto en el inciso 4° del artículo 19 de la Ley General de Bancos, esta Superintendencia autoriza a las empresas bancarias para devolver al librador los cheques cancelados, siempre que se cumplan las siguientes condiciones:
+Conforme a lo dispuesto en el inciso 4° del artículo 155 de la Ley General de Bancos, esta Superintendencia autoriza a las empresas bancarias para devolver al librador los cheques cancelados, siempre que se cumplan las siguientes condiciones:
 
-a) Que el banco conserve micrograbaciones o microfilmes de los cheques entregados al librador, al menos durante un plazo de cinco años; y,
+a) Que el banco conserve micrograbaciones o microfilmes de los cheques entregados al librador, al menos hasta que se cumplan seis años a contar de la fecha en que ellos fueron pagados; y,
 
 b) Que el titular de la cuenta corriente solicite o acepte el procedimiento de devolución.
 
@@ -2376,7 +2376,7 @@ Los cheques podrán devolverse por períodos determinados o bien conjuntamente c
 
 El costo de la micrograbación o microfilmación será exclusivamente de cargo del banco, pudiendo cobrarse al interesado las copias de los cheques que solicite.
 
-El hecho de que sea condición indispensable conservar micrograbaciones o microfilmes para devolver los cheques pagados, en ningún caso faculta al banco para destruir los documentos originales que se hayan microcopiado cuando ellos no se devuelvan al librador, aunque cuenten con su conformidad. En estos casos, las empresas bancarias deberán conservar los documentos originales que no sean entregados al librador durante un plazo de cinco años desde la fecha de micrograbación o microfilmación.
+El hecho de que sea condición indispensable conservar micrograbaciones o microfilmes para devolver los cheques pagados, en ningún caso faculta al banco para destruir los documentos originales que se hayan microcopiado cuando ellos no se devuelvan al librador, aunque cuenten con su conformidad. En estos casos, las empresas bancarias deberán conservar los documentos originales que no sean entregados al librador, al menos durante un plazo de seis años desde la fecha de su pago.
 
 ### 2. Cheque viajero
 
@@ -7190,7 +7190,7 @@ NORMAS CONTABLES DE CARACTER GENERAL.
 
 ### 1. Criterios contables
 
-Las instituciones financieras deben llevar su contabilidad de acuerdo con las instrucciones impartidas por esta Superintendencia en conformidad con las facultades que le confiere al respecto el artículo 14 de su Ley Orgánica y, en todos aquellos aspectos que no se encuentren regulados por instrucciones expresas de este Organismo, deben sujetarse a criterios contables prudenciales de aceptación general.
+Las instituciones financieras deben llevar su contabilidad de acuerdo con las instrucciones impartidas por esta Superintendencia en conformidad con las facultades que le confiere al respecto el artículo 15 de la Ley General de Bancos y, en todos aquellos aspectos que no se encuentren regulados por instrucciones expresas de este Organismo, deben sujetarse a criterios contables prudenciales de aceptación general.
 
 ### 2. Forma de llevar la contabilidad
 
@@ -7208,7 +7208,7 @@ Los estados financieros que se publiquen, al igual que la demás información de
 
 Las instituciones financieras deberán conservar en sus archivos permanentes toda la documentación comprobatoria de las operaciones realizadas, ordenada de tal forma que su consulta sea fácil y expedita.
 
-Dichos archivos deberán mantenerse durante el tiempo que corresponda, de acuerdo con lo establecido en el artículo 19 de la Ley General de Bancos y en el Capítulo 1-10 de esta Recopilación de Normas.
+Dichos archivos deberán mantenerse durante el tiempo que corresponda, de acuerdo con lo establecido en el artículo 155 de la Ley General de Bancos y en el Capítulo 1-10 de esta Recopilación de Normas.
 
 CAPITULO 7-3 (Bancos y Financieras)
 
@@ -22510,7 +22510,7 @@ Las empresas bancarias que efectúen la venta de divisas para cubrir mercadería
 
 Las empresas bancarias formarán un legajo con cada una de las Solicitudes Registro Factura por las cuales hayan vendido divisas.
 
-Estos legajos serán mantenidos bajo su responsabilidad y se archivarán correlativamente por el número de Solicitud Registro Factura e incluirán obligadamente los siguientes documentos, por el plazo que establece el artículo 19 de la Ley General de Bancos:
+Estos legajos serán mantenidos bajo su responsabilidad y se archivarán correlativamente por el número de Solicitud Registro Factura e incluirán obligadamente los siguientes documentos, por el plazo que establece el artículo 155 de la Ley General de Bancos:
 
 a) Copia "Banco Central de Chile" de la Solicitud Registro Factura.
 
@@ -22919,8 +22919,6 @@ carta de crédito por haberse cumplido el plazo o haber vencido la aceptación.
 A los bancos que emitan cartas de crédito pagaderas a plazo o contra aceptación, confirmadas o negociadas por otras instituciones bancarias, les serán aplicables, por parte de los bancos confirmadores o negociadores, los márgenes individuales de crédito de que trata el artículo 84 de la Ley General de Bancos.
 
 Estos márgenes afectarán también a los clientes deudores del banco emisor de la carta de crédito, mientras subsista el financiamiento de la operación.
-
-Por otra parte, las obligaciones asumidas por los bancos confirmadores o aceptantes, para con los beneficiarios de los acreditivos de esta naturaleza que, de acuerdo a estas instrucciones se reflejan en las partidas 3410, 3415, 3615 y 3620, están afectas al margen del artículo 81 de la misma Ley.
 
 CAPITULO 15-4 (Bancos)
 
