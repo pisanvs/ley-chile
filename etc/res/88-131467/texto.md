@@ -1,0 +1,5 @@
+Por resolución Nº 88, de 21 de enero de 1999, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA SAN ANTONIO S.A., para ampliar las actividades de pesca autorizadas por las resoluciones Nº 66 de 1982, Nº1.229 de 1989, Nº 1.257 de 1991, Nº 1.100 de 1992 y Nº87 de 1999, todas de esta Subsecretaría, en orden a operar la nave ''Arequipa IV'', en el litoral que se señala a continuación, donde podrá capturar los siguientes recursos hidrobiológicos: a) Litoral de la V y X Regiones, por fuera del área de reserva artesanal, con cerco: Merluza de cola; b) Litoral de la V y X Regiones, por fuera de las 60 millas náuticas, con arrastre de media agua: Merluza de cola.
+
+Deniégase la autorización solicitada por la peticionaria respecto de las áreas de pesca y recursos hidrobiológicos no contemplados en la presente resolución, en virtud de los informes técnicos y normas legales y reglamentarias.
+
+Valparaíso, 21 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
