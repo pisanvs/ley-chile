@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 928 de 30 de junio de 2004, se expropió el lote de terreno Nº 67-B, superficie 222 m2 , rol de Avalúo Nº 608-33, comuna de Santa Cruz, para la obra "Camino Santa Cruz - Yánquil, Rol I-730, KM. 0.00000 al Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietario Miguel Enrique Prieto Concha, ascendente a la cantidad de $384.737.
+
+Fiscal del Ministerio de Obras Públicas.
