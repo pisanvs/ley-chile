@@ -1,0 +1,3 @@
+Por resolución Nº 1.355 de 2 de julio de 2002, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 774 de 1999 y Nº 137 de 2001, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Lote 8, Sector de la Usina y Muelle Francés, Corral, X Región, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Harina y Aceite: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 2 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
