@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.469, de 19 de noviembre de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº1-9A, para la obra: Camino: Santiago - Colina - Los Andes. Sector: Enlace Chacabuco. Km. 41.520,00 al km.
+
+42.290,00, Región Metropolitana, que figura a nombre de Petrinovic Wadsworth Francisco, rol de avalúo 186-184, comuna de Colina, superficie 1.552,9 m2. La Comisión de Peritos integrada por los señores Victoria Adriana Blanco Costa, Marlene Teresa Ríos Marcuello y María Cristina Camus Palacios, fijó con fecha 7 de octubre de 1999, el valor provisional de la indemnización en la cantidad de $4.584.991.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
