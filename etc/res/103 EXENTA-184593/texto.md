@@ -1,0 +1,7 @@
+NOTIFICA RESOLUCION Nº 103 EXENTA, DE 2001, EIA "CENTRO INTEGRAL DE TRATAMIENTO AMBIENTAL CURACO ALTO: C.I.T.A. CURACO ALTO"
+
+En virtud de lo dispuesto en el artículo 54º inciso final del Reglamento del Sistema de Evaluación de Impacto Ambiental, la Comisión Regional del Medio Ambiente de la Región del Biobío, notifica a las personas naturales y organizaciones ciudadanas con personalidad jurídica que hubieren formulado observaciones al Estudio de Impacto Ambiental del proyecto "Centro Integral de Tratamiento Ambiental Curaco-Alto: C.I.T.A. Curaco Alto" del titular Hera Biobío S.A. y representada por el Sr. Iván Parra Ramos, que dicha Comisión lo calificó favorablemente mediante resolución exenta Nº 103 de fecha 26 de marzo de 2001.
+
+El texto íntegro de la resolución de calificación ambiental antes indicada se encuentra a disposición de las personas naturales y organizaciones ciudadanas antes aludidas, en las dependencias de la Comisión Nacional del Medio Ambiente Región del Biobío (Lincoyán Nº 145, Concepción), en horario días hábiles de 9:00 AM a 13 PM y de 15:00 PM a 17:00 PM.
+
+Jaime Tohá González, Presidente Comisión Regional del Medio Ambiente de la Región del Biobío.- Bolívar Ruiz Adaros, Secretario Comisión Regional del Medio Ambiente de la Región del Biobío.
