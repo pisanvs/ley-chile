@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para entregar al Círculo de Periodistas de Santiago la suma de $ 1.500.000 a fin de que atienda a la organización y celebración del Congreso Mundial de la Prensa que se realizará en Santiago de Chile; intervención fiscalizadoran de la Contraloría General de la República.
