@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.151, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº115-A, superficie 149 M2, sin rol de avalúo, comuna de Alto del Carmen, III Región, para la obra ''Camino Ruta C-489, sector Alto del Carmen- El Corral, tramo Km. 0,000 al 70,000, etapa III'' y se acordó el valor de indemnización con su propietario don Isaías Avalos Chávez ascendente a la cantidad de $10.907.870.-
+
+Fiscal del Ministerio de Obras Públicas.
