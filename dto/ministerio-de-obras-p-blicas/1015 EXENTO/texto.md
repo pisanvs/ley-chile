@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.015, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº15-A, superficie 1.549 m², rol de avalúo 204-16, comuna de Los Alamos, VIII Región, para la obra ''Camino Ruta P-46, Sector Los Alamos-Sara de Lebu, Km. 0,00000 al Km. 16,84000'', y se acordó el valor de indemnización con su propietario don Iván Vega Fierro, ascendente a la cantidad de $506.046.-
+
+Fiscal del Ministerio de Obras Públicas.
