@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.695 de fecha 29 de noviembre de 2002, se expropió el lote de terreno Nº 2-A, superficie 1.155 m2., rol de avalúo Nº 589-23, comuna de Yungay, para la obra: ''Area de Riego Yungay, Canal Trilaleo Prolongación y Desagüe Ramal 1 Km. 0,355 al Km. 0,960, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietario Porfirio Humberto Gutiérrez Arévalo, ascendente a la cantidad de $603.364.-
+
+Fiscal del Ministerio de Obras Públicas.
