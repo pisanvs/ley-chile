@@ -1,0 +1,9 @@
+Por resolución Nº 857, de 17 de abril de 2003, de esta Subsecretaría, autorízase a RIO DULCE, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en calle San Antonio S/N, Km.
+
+2.5, comuna de Quellón, Chiloé, X Región, donde podrá procesar, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Cocido, Fresco - Enfriado, Fresco-Refrigerado, Congelado, Seco-Salado, Ahumado y Conserva: Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado, Salmón sockeye, Trucha arcoiris, Trucha café, Trucha de arroyo, Trucha de la montaña, Trucha fario, Bacalao de profundidad, Cojinoba del norte, Cojinoba del sur, Cojinoba moteada, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Corvinilla, Jurel, Jurel fino, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Merluza de cola, Merluza de tres aletas, Merluza del Atlántico, Merluza del sur, Palometa, Pejegallo, Pejerrey de mar, Puye, Raya, Reineta, Róbalo, Abalón rojo, Abalón japonés, Almeja o taca, Almeja Venus antiqua, Almeja Eurhomalea exalbida, Calamar, Caracol Trumulco, Cholga, Choro, Chorito Mytilus chilensis, Chorito Semimytilus algosus, Chorito maico, Culengue, Jibia, Lapa, Loco, Macha, Navajuela, Tumbao, Pulpo, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba patuda, Jaiba peluda o pachona, Picoroco, Erizo Aspidodiadema microtuberculatum y Erizo Loxechinus albus.
+
+La materia prima deberá provenir de pescadores artesanales e industriales, debidamente autorizados.
+
+Los recursos Abalón rojo, Abalón japonés, Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado, Salmón sockeye, Trucha arcoiris, Trucha café, deberán provenir de centros de cultivos autorizados.
+
+Valparaíso, 17 de abril de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
