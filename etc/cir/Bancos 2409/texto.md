@@ -10882,81 +10882,29 @@ BOLETAS DE GARANTIA.
 
 ### 1. Características de las boletas de garantía
 
-La boleta de garantía es, en forma genérica, un depósito de dinero que
+La boleta de garantía es, en forma genérica, un depósito de dinero que constituye en un banco, el depositante o tomador, a favor de un beneficiario, en garantía del buen cumplimiento de una obligación asumida por aquél ante ese beneficiario. Cuando el depósito se constituye en forma efectiva por el tomador,se le llama propiamente "Depósito de Garantía" y cuando el tomador
 
-constituye en un banco, el depositante o tomador, a favor de un beneficiario, en
+obtiene un crédito en el mismo banco emisor, que se documenta generalmente mediante un pagaré, se le denomina "Boleta de garantía", sin que esta distinción produzca efectos prácticos para el beneficiario.
 
-garantía del buen cumplimiento de una obligación asumida por aquél ante ese
+En esta operación se puede distinguir la existencia de tres partes, a saber: El tomador de la boleta de garantía que puede ser depositante o deudor del importe de la misma; el beneficiario de la boleta; y el banco emisor del documento.
 
-beneficiario. Cuando el depósito se constituye en forma efectiva por el
+El tomador de la boleta de garantía es aquella persona que necesita garantizar el cumplimiento de una obligación principal y obtiene de un banco la emisión dela boleta mediante un depósito en dinero efectivo o un préstamo que la institución bancaria le otorga para ese fin.
 
-tomador,se le llama propiamente "Depósito de Garantía" y cuando el tomador
+El beneficiario es el acreedor de la obligación principal que el tomador cauciona, y es la persona a cuyo favor se extiende la boleta. Es el titular del derecho que acredita el documento.
 
-obtiene un crédito en el mismo banco emisor, que se documenta generalmente
+El banco emisor de la boleta de garantía es la institución que otorga el certificado o boleta de garantía, debido a que celebra con el tomador los actos jurídicos que lo obligan a la emisión del documento.
 
-mediante un pagaré, se le denomina "Boleta de garantía", sin que esta distinción
+El depósito de garantía origina la emisión, por parte del banco, de la llamada"boleta de garantía". El tomador de la boleta puede enterar el correspondiente depósito en dinero efectivo o bien mediante un préstamo que le puede otorgar para ese fin la institución bancaria. Ya sea que el depósito se constituya en efectivo o como consecuencia de un préstamo bancario y cualquiera
 
-produzca efectos prácticos para el beneficiario.
+que sea la obligación que caucione, debe ser pagado al beneficiario en la oportunidad en que éste lo demande, observando solamente, cuando así se hubiera estipulado, el aviso previo de 30 días o del plazo que para el efecto se haya establecido.
 
-En esta operación se puede distinguir la existencia de tres partes, a saber: El
-
-tomador de la boleta de garantía que puede ser depositante o deudor del importe
-
-de la misma; el beneficiario de la boleta; y el banco emisor del documento.
-
-El tomador de la boleta de garantía es aquella persona que necesita garantizar
-
-el cumplimiento de una obligación principal y obtiene de un banco la emisión
-
-dela boleta mediante un depósito en dinero efectivo o un préstamo que la
-
-institución bancaria le otorga para ese fin.
-
-El beneficiario es el acreedor de la obligación principal que el tomador
-
-cauciona, y es la persona a cuyo favor se extiende la boleta. Es el titular del
-
-derecho que acredita el documento.
-
-El banco emisor de la boleta de garantía es la institución que otorga el
-
-certificado o boleta de garantía, debido a que celebra con el tomador los actos
-
-jurídicos que lo obligan a la emisión del documento.
-
-El depósito de garantía origina la emisión, por parte del banco, de la
-
-llamada"boleta de garantía". El tomador de la boleta puede enterar el
-
-correspondiente depósito en dinero efectivo o bien mediante un préstamo que le
-
-puede otorgar para ese fin la institución bancaria. Ya sea que el depósito se
-
-constituya en efectivo o como consecuencia de un préstamo bancario y cualquiera
-
-que sea la obligación que caucione, debe ser pagado al beneficiario en la
-
-oportunidad en que éste lo demande, observando solamente, cuando así se hubiera
-
-estipulado, el aviso previo de 30 días o del plazo que para el efecto se haya
-
-establecido.
-
-Las menciones que, como mínimo, debe indicar la boleta son el nombre y firma del
-
-Banco depositario, el nombre del beneficiario y del tomador; la obligación que
-
-garantiza la boleta; el monto de la suma depositada; el plazo que tiene el banco
-
-para restituir la cantidad depositada, después de haber sido requerido para
-
-ello; el lugar y la fecha de otorgamiento.
+Las menciones que, como mínimo, debe indicar la boleta son el nombre y firma del Banco depositario, el nombre del beneficiario y del tomador; la obligación que garantiza la boleta; el monto de la suma depositada; el plazo que tiene el banco para restituir la cantidad depositada, después de haber sido requerido para ello; el lugar y la fecha de otorgamiento.
 
 Las boletas de garantía, cuentan además con las siguientes características:
 
 a) son irrevocables;
 
-b) pueden emitirse en moneda chilena o moneda extranjera;
+b) Pueden emitirse en moneda chilena, moneda extranjera o expresadas en moneda extranjera pagaderas en moneda chilena;
 
 c) pueden contener cláusulas de reajustabilidad; y,
 
@@ -11110,23 +11058,11 @@ facultados para recibir depósitos en moneda extranjera, en garantía de las
 
 boletas que emitan para los fines señalados en la letra c) anterior.
 
-6. Boletas de garantía expresadas en moneda extranjera, pagaderas en moneda
+6. Boletas de garantía expresadas en moneda extranjera, pagaderas en moneda chilena.
 
-chilena.
+Los bancos están facultados para emitir boletas de garantía expresadas en moneda extranjera pagaderas en moneda chilena.
 
-Los bancos pueden emitir boletas de garantía expresadas en moneda extranjera
-
-pagaderas en moneda chilena, con el objeto de caucionar obligaciones a favor
-
-dela Dirección Nacional de Aduanas, en los casos en que así se lo soliciten los
-
-importadores que se acojan al pago diferido de los derechos de aduana.
-
-Las empresas bancarias deberán dejar expresa constancia en estas boletas que su
-
-pago se hará por el equivalente en moneda chilena, en conformidad con lo
-
-dispuesto en el artículo 20 de la Ley N° 18.010.
+En dichas boletas deberá dejarse expresa constancia que su pago se hará por el equivalente en moneda chilena, en conformidad con lo dispuesto en el artículo 20 de la Ley N° 18.010.
 
 ### 7. Plazos de validez de las boletas de garantía
 
