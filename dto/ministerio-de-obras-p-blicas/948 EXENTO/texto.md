@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 948 de fecha 29 de junio del 2001, se expropiaron los lotes de terreno Nºs. 3 y 4, superficie 434 m² y 991 m², respectivamente, rol de avalúo Nº 148-29, comuna de Pemuco, para la obra "Canal Matriz Pemuco - Diguillín, Variante Camino Pemuco - Cartago, del Proyecto Laja Diguillín", y se acordó el valor de indemnización con su propietario Hugo Benedicto Fuentes Herrera, ascendente a la cantidad de $497.511.-
+
+Fiscal del Ministerio de Obras Públicas.
