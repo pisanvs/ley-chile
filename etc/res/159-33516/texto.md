@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALAN
+
+Resolución 159, 5 junio 1996, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en sector ex recinto Estación de Ferrocarriles del Estado entre calles Luis Cruz Martínez, prolongación Prat y al sur de Pedro Aguirre Cerda correspondiente Lotes 19 al 25, según plano S8R-11764-E, comuna de Lebu, superficie total de los siete lotes, 68.750,44 m2, de aparente dominio de Empresa de Ferrocarriles del Estado, Rol de Avalúo N° 90230-1, para ejecución programa de construcción de viviendas básicas y progresivas, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 16 de mayo de 1996, fijó monto provisional indemnización en $106.563.182.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
