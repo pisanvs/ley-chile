@@ -1,0 +1,3 @@
+Resolución 85, de 9 de abril de 1999, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví, Nº 2555, Rol de Avalúo Nº 7022-0014, comuna Concepción, superficie 154 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-7022-0014, de aparente dominio de Diego Barriga Setz y Otros, para ejecución programa ''Mejoramiento Interconexión Vial Centro Concepción-Autopista Talcahuano'', conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 28 de octubre de 1997, fijó monto provisional indemnización en $8.537.760.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
