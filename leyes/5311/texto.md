@@ -354,6 +354,8 @@ El plazo para acogerse a los beneficios de la presente ley, regirá hasta el 30 
 
 > **Nota.** El artículo 1° de la Ley 5878, publicada el 28.08.1936, concede un nuevo plazo de un año, a contar de la fecha de su publicación, para acogerse a los beneficios que establece la presente norma.
 
+> **Nota.** NOTA 1 El artículo 5° de la Ley 6476, publicada el 18.12.1939, concede un nuevo plazo de dos años para acogerse a los beneficios de la presente norma.
+
 #### Artículo 20º
 
 <!-- parte:8844653 -->
@@ -372,7 +374,7 @@ El mayor gasto que demande el cumplimiento de esta ley entre el 1.o de Octubre y
 
 <!-- parte:8844655 -->
 
-Si se aumentaren los sueldos del personal en actividad de las instituciones armadas, se aumentarán también, en la misma proporción, las pensiones de retiro que esta ley establece, las que en ningún caso podrán exceder de $ 50,000.
+Si se aumentaren los sueldos del personal en actividad de las instituciones armadas, se aumentarán también, en la misma proporción, las pensiones de retiro que esta ley establece.
 
 #### Artículo 23º
 
