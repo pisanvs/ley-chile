@@ -1,0 +1,5 @@
+SECCIONAL CAMBIO USO DE SUELO ZONA DE EQUIPAMIENTO COMUNITARIO VILLA HUAYTIQUINA
+
+Apruébase el Proyecto de Modificación del Plan Regulador Comunal de Calama, aprobado por D.S. N° 222 (V. y U.) del 22 de Octubre de 1981, publicado en el Diario Oficial del 29 de Diciembre de 1981, en el sentido de cambiar el uso del suelo a "Equipamiento" a un sector de la Villa Huaytiquina y Punta de Rieles, más el Pasaje Río Negro, estableciendo en el Plano de Loteo correspondiente y ubicados dentro de las Líneas Poligonales: I, II, III y IV, fijando un nuevo uso de suelo, condición de subdivisión y edificación, todo ello en conformidad al Plano P.S. 3-94, denominado "Seccional Cambio Uso de Suelo, Zona de Equipamiento Villa Huaytiquina", confeccionado a escala 1:250 por la I. Municipalidad de Calama, y a la presente Ordenanza.
+
+El acuerdo fue adoptado por el Concejo de la I. Municipalidad de Calama con el N° 096/94 de 23 de Agosto de 1994.- Edwin Rowe Molina, Alcalde.
