@@ -1,0 +1,9 @@
+Por decreto MOP Nº56, de 25 de enero de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 7A, 10A, 15A, 24, 25, 26, 30, 33A, 53, 54, 57, 58A y 71, para la obra Camino Los Robles - Huencuecho - Bajo Perquín, Sector Los Robles - Huencuecho, Tramo Km.
+
+24,090 a Km. 46,079.85, que figuran a nombre de Héctor Saavedra Muñoz, Héctor Saavedra, Fernando Vergara Matus, Enrique Antonio Navarro Herrera, Huertos Santa Lucía Ltda., Vicente Adrián Bustos Bobadilla, Bien común, Héctor Inostroza Inostroza, Iván Rodrigo Casanova Reyes y Pedro Martínez Sanz, roles de avalúos 22-273, en trámite, 21-222, 21-265 de la comuna de Río Claro y roles de avalúos en trámite, 94-95 y 94-218, comuna de Pelarco, superficies 683,09; 476; 387; 198; 17.155; 760; 6.620; 105; 500; 420;
+
+3.691,25; 1.970 y 7,5 M2. respectivamente. La comisión de peritos compuesta por los señores Renato Guerra Estévez, Iván Correa Opazo y Carlos Sottolichio Díaz, fijó con fecha 1º de agosto de 1997, el valor provisional de la indemnización en la cantidad de $47.520, lote Nº24; con fecha 20 de agosto de 1998 en la cantidad de $418.927, lote Nº7A y con fecha 29 de abril de 1998 en las cantidades de $142.800, lote Nº10A; $50.000, lote Nº15A; $15.497.900, lote Nº25; $1.618.800, lote Nº26, $2.488.600, lote Nº30; $95.000, lote Nº33A; $366.500 lote Nº53; $75.600, lote Nº54;
+
+$925.425, lote Nº57; $654.600, lote Nº58A y $50.000, lote Nº71. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
