@@ -608,17 +608,15 @@ Los vehículos y sistemas de transporte de materiales que, a juicio del Servicio
 
 DE LA HIGIENE Y SEGURIDAD DE LOS LUGARES DE TRABAJO
 
-#### Artículo 82°
+#### Artículo 82
 
-El Reglamento comprenderá normas como las que se refieren a:
+El reglamento comprenderá normas como las que se refieren a:
 
 a) las condiciones de higiene y seguridad que deben reunir los lugares de trabajo, los equipos, maquinarias, instalaciones, materiales y cualquier otro elemento, con el fin de proteger eficazmente la vida, la salud y bienestar de los obreros y empleados y de la población en general;
 
 b) las medidas de protección sanitaria y de seguridad que deben adoptarse en la extracción, elaboración y manipulación de substancias producidas o utilizadas en los lugares en que se efectúe trabajo humano;
 
-c) las condiciones de higiene y seguridad que deben reunir los equipos de protección personal y la obligación de su uso, y
-
-d) las condiciones de seguridad que deben adoptarse en el uso de las radiaciones ionizantes, de los isótopos radioactivos y en la disposición de los residuos radioactivos.
+c) las condiciones de higiene y seguridad que deben reunir los equipos de protección personal y la obligación de su uso.
 
 > **Nota.** Véase el Decreto 655, Trabajo, publicado el 07.03.1941, que fija el Reglamento General de Higiene y Seguridad Industriales.
 
@@ -636,9 +634,15 @@ La autoridad sanitaria no podrá exigir el traslado antes del plazo de un año, 
 
 Los planos reguladores comunales o intercomunales no podrán ser aprobados sin previo informe favorable del Servicio Nacional de Salud, respecto a las materias de que trata el presente título.
 
-#### Artículo 86°
+#### Artículo 86
 
-No podrán funcionar sin autorización del Servicio Nacional de Salud los establecimientos docentes, comerciales, industriales o mineros, en que se utilicen y manipulen substancias radioactivas o equipos que generen radiaciones ionizantes.
+Corresponderá a los Servicios de Salud, dentro del territorio de su competencia, otorgar la autorización previa para que puedan funcionar en él, instalaciones radiactivas, entendiéndose por tales aquellas en que se produzcan, traten, manipulen, almacenen o utilicen materiales radiactivos o equipos que generen radiaciones ionizantes.
+
+La producción, fabricación, adquisición, posesión, uso, manipulación, almacenamiento, importación, exportación, distribución, venta, transporte, abandono o desecho de sustancias radiactivas que se utilicen o mantengan en las instalaciones radiactivas o en los equipos generadores de radiaciones ionizantes, deberán ser autorizados por dichos Servicios. Les corresponderá, asimismo, el control de las instalaciones radiactivas y de los equipos generadores de radiaciones ionizantes; y la prevención de los riesgos derivados del uso y aplicación de las sustancias radiactivas y de las radiaciones ionizantes, respecto de las personas expuestas, del elemento que las genera y del medio ambiente.
+
+Las personas que se desempeñen en las instalaciones radiactivas, utilizando o manipulando sustancias radiactivas u operando equipos o aparatos generadores de radiaciones ionizantes, deberán tener autorización del Servicio de Salud correspondiente.
+
+> **Nota.** Los incisos 2° y 3° del Art. 67 de la LEY 18302, publicada el 02.05.1984, sobre Seguridad Nuclear, complementan esta disposición estableciendo que: "corresponderá a los Servicios de Salud, conforme a las disposiciones del Código Sanitario, la autorización y el control de la aplicación y el manejo de las sustancias radiactivas en instalaciones radiactivas o en equipos generadores de radiaciones ionizantes, y la prevención de los riesgos derivados de su uso y manipulación. Sin embargo, competerá a la Comisión Chilena de Energía Nuclear la autorización, el control y la prevención de riesgos respecto de las instalaciones radiactivas que se encuentren dentro de una instalación nuclear, y de las que, conforme al reglamento, sean declaradas de primera categoría."
 
 #### Artículo 87°
 
@@ -678,7 +682,7 @@ DE LAS SUBSTANCIAS TOXICAS O PELIGROSAS PARA LA SALUD
 
 #### Artículo 90°
 
-El Reglamento fijará las condiciones en que podrá realizarse la producción, importación, expendio, tenencia, transporte, distribución, utilización y eliminación de las substancias tóxicas y productos peligrosos de carácter corrosivo o irritante, inflamable o comburente; explosivos de uso pirotécnico y substancias radioactivas que signifiquen un riesgo para la salud, la seguridad o el bienestar de los seres humanos y animales.
+El Reglamento fijará las condiciones en que podrá realizarse la producción, importación, expendio, tenencia, transporte, distribución, utilización y eliminación de las substancias tóxicas y productos peligrosos de carácter corrosivo o irritante, inflamable o comburente; explosivos de uso pirotécnico y demás sustancias que signifiquen un riesgo para la salud, la seguridad o el bienestar de los seres humanos y animales.
 
 Los productos señalados en el inciso anterior no podrán ser importados o fabricados en el país, sin autorización previa de la Dirección General de Salud.
 
@@ -782,9 +786,13 @@ La fabricación, importación, transferencia, posesión, tenencia o consumo de n
 
 > **Nota.** Véase el Decreto 35, Relaciones Exteriores, publicado el 16.05.1968, que sanciona la Convención Única de Estupefacientes, firmada en Nueva York el 30 de marzo de 1961.
 
+> **Nota.** NOTA 1 Véase el Decreto 403, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Estupefacientes.
+
 #### Artículo 107°
 
 Cuando lo requiera la debida protección de la salud pública, el Presidente de la República podrá, previo informe del Director General de Salud, aplicar las normas contenidas en el artículo anterior a medicamentos tales como estimulantes, sedativos, hipnóticos, tranquilizantes o ataráxicos.
+
+> **Nota.** Véase el Decreto 405, Salud, publicado el 20.02.1984, que aprueba el Reglamento de Productos Psicotrópicos.
 
 ## Título III
 
