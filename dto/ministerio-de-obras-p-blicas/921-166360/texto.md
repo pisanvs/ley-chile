@@ -1,0 +1,3 @@
+Por decreto MOP Nº921, de 22 de marzo del 2000, se expropió el lote de terreno Nº524-A, superficie 1.515,6 m2., rol de avalúo 538-176, comuna de La Unión, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietaria I. Municipalidad de La Unión, ascendente a la cantidad de $996.854.-
+
+Fiscal del Ministerio de Obras Públicas.
