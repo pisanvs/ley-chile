@@ -1,0 +1,5 @@
+AUTORIZA A DON RUDY ESTEBAN CARDENAS STRAUSSMANN PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 279, de 27 de Febrero de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Rudy Esteban Cárdenas Straussmann, R.U.T. No. 7.926.824-0, domiciliado en Ancud, calle José M'ucke No. 398, para ampliar actividades pesqueras, autorizadas por Resolución No. 469, de 1983, del Servicio Nacional de Pesca, en orden a facultarle para operar una planta industrial de secado artificial y natural de algas en la X Región, ciudad de Ancud, calle Caicumeo No. 966 (interior), donde podrá elaborar los siguientes recursos hidrobiológicos: Pelillo, Luga-luga, Chasca y Lama gruesa. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 27 de Febrero de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
