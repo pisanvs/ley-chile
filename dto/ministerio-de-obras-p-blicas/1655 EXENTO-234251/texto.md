@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.655, de fecha 30 de noviembre del 2004, se expropió el lote de terreno Nº 22-A, superficie 875 m²., Rol Nº 328-2, comuna de Laja, VIII Región, para la obra ''Camino Ruta Q-34, Candelaria-La Laja Sector Millantu-La Laja, Km. 20,00000 al 35,88380'' y se acordó el valor de indemnización con su propietario Segundo Francisco Torres Urra, ascendente a la cantidad de $604.087.- para el lote Nº 22-A.
+
+- Fiscal del Ministerio de Obras Públicas.
