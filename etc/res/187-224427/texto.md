@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 187, 6 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 2201, Rol de Avalúo Nº 902-1 comuna Concepción, superficie 56,39 m². de terreno y 49,70 m². de edificación, dentro polígono y linderos señalados plano expropiación S8R-18322; de aparente dominio de Inmobiliaria Paicaví S.A., para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Santiago Samir Aptecar Nazer, arquitecto, Gabriel Ignacio Fernández De La Maza, ingeniero civil, y Sergio Labarca Garrido, constructor civil, según informe de fecha 4 de marzo de 2004, fijó monto provisional indemnización en $16.497.140.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
