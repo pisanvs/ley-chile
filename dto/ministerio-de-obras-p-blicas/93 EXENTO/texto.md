@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 93, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 24, superficie 3.724,44 m2, rol de avalúo 248-109, comuna de Salamanca, para la obra "Canal Alimentador, Km. 0,000,00 a Km. 15,084,59 Proyecto Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias" y se acordó el valor de indemnización con su propietario José Tomás Gómez Moreno, ascendente a la cantidad de $2.582.110.-
+
+Fiscal del Ministerio de Obras Públicas.
