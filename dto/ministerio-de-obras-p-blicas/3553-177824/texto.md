@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.553, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L MOP Nº206, de 1960, se expropió el lote de terreno Nº21, para la obra: ''Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago Km.
+
+-0.150,00 al Km. 10.986,00'', Región Metropolitana, que figura a nombre de Arellano Araya Manuel, rol de avalúo 5463-1, comuna de La Granja, superficie 187 m². La Comisión de Peritos integrada por los señores Miguel Juan Fernández Cádiz, Ricardo Antonio Strickler Arellano y María Soledad Saffie Duery, fijó con fecha 17 de febrero de 2000, el valor provisional de la indemnización en la cantidad de $19.658.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
