@@ -160,13 +160,13 @@ De los Jueces de Distrito y de los Jueces de Subdelegación
 
 #### Artículo 14
 
-En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de mil pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de dos mil pesos.
+En cada distrito de la República que no esté comprendido en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Distrito conocerá en única instancia de las causas civiles en que el valor de la materia disputada no pase de seis mil pesos, que se susciten dentro del distrito; y en primera instancia, de esas mismas causas cuando su valor exceda de dicha suma y no pase de doce mil pesos.
 
 Le corresponderá, asimismo, el nombramiento de curador ad-litem en su caso.
 
 Lo dispuesto en los incisos precedentes regirá también en toda sección de distrito no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
 
-Los jueces de distrito de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
+Los jueces de distrito no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
 #### Artículo 15
 
@@ -240,7 +240,7 @@ A los jueces de distrito corresponden las atribuciones propias de ministro de fe
 
 En cada subdelegación de la República que no esté comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía, habrá un funcionario que con el título de Juez de Subdelegación conocerá:
 
-1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de dos mil pesos y no pase de cinco mil;
+1°) En primera instancia de las causas civiles que se promovieren dentro de la subdelegación sobre cosa cuyo valor exceda de doce mil pesos y no pase de treinta mil;
 
 2°) En segunda instancia, de las causas de que conocieren en primera los respectivos jueces de distrito; y
 
@@ -249,6 +249,8 @@ En cada subdelegación de la República que no esté comprendida en el territori
 Les corresponderá, asimismo, el nombramiento de curador ad litem en su caso.
 
 Lo dispuesto en este artículo regirá también en toda sección de subdelegación no comprendida en el territorio jurisdiccional de un juez de letras de menor cuantía.
+
+No obstante lo dispuesto en el número 1.o, los jueces de subdelegación conocerán en primera instancia de los juicios especiales del contrato de arrendamiento cuya cuantía no exceda de quince mil pesos.
 
 Los jueces de subdelegación de las ciudades cabeceras de departamento no tendrán competencia para conocer de los juicios especiales del contrato de arrendamiento.
 
@@ -308,15 +310,17 @@ Los jueces de letras de menor cuantía de Santiago y Valparaíso deberán funcio
 
 Los jueces de letras de menor cuantía conocerán:
 
-1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de cinco mil pesos;
+1.o) En única instancia, de las causas civiles y de comercio, cuyo valor no exceda de treinta mil pesos;
 
-2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de cinco mil pesos y no sea superior a cincuenta mil, y
+2.o) En primera instancia, de las causas civiles y de comercio cuyo valor exceda de treinta mil pesos y no sea superior a trescientos mil pesos, y
 
 3.o) De los asuntos que otras leyes entreguen a su conocimiento.
 
-No obstante lo dispuesto en los N.os 1.o y 2.o de este artículo, en los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de tres mil pesos, y en primera instancia hasta la suma de quince mil pesos.
+En los juicios especiales del contrato de arrendamiento, los jueces letrados de menor cuantía conocerán en única instancia hasta la suma de nueve mil pesos, y en primera instancia hasta la suma de noventa mil pesos.
 
-No conocerán, en ningún caso, de los juicios sobre alimentos futuros.
+Sin embargo, tratándose de los juicios de reconvenciones de pago, conocerán hasta la suma de treinta mil pesos en única instancia y hasta ochenta mil pesos en primera instancia.
+
+Conocerán también estos jueces, en primera instancia, de los juicios sobre alimentos futuros, siempre que la pensión mensual que se cobre no exceda de veinticinco mil pesos. No tendrán esta competencia cuando ella corresponda a un juez especial de menores.
 
 #### Artículo 33
 
@@ -356,7 +360,7 @@ Si en la capital del departamento hubiere dos o más jueces letrados de menor cu
 
 Los jueces de letras de menor cuantía conocerán, además, de las siguientes materias:
 
-1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de cincuenta mil pesos.
+1°) De las cuestiones que se susciten sobre el ejercicio de servidumbres naturales y legales y de las prestaciones a que ellas dieren lugar, siempre que el valor de estas últimas no exceda de trescientos mil pesos.
 
 Pero si se promoviere contienda sobre el dominio del predio dominante o sirviente, o sobre la adquisición por prescripción u otro título de una manera especial de ejercer la servidumbre, se inhibirán de todo conocimiento.
 
@@ -368,9 +372,9 @@ Será competente para conocer de estos juicios el juez del lugar donde hubiere o
 
 3°) De las notificaciones de las actas de protestos de cheques a las personas domiciliadas en la respectiva jurisdicción.
 
-Si el valor del cheque excediere de cincuenta mil pesos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
+Si el valor del cheque excediere de trescientos mil pesos, podrá pedirse la notificación al Juez que sea competente para conocer de su cobro.
 
-4°) De las cuestiones civiles valorizables hasta cincuenta mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
+4°) De las cuestiones civiles valorizables hasta trescientos mil pesos, que suscite la aplicación de la Ley sobre Sociedades Cooperativas.
 
 #### Artículo 39
 
@@ -444,11 +448,11 @@ Los jueces de letras de mayor cuantía conocerán:
 
 1°) En única o en primera instancia, conforme al inciso final de este número:
 
-a) De las causas civiles sobre cosas cuyo valor exceda de cinco mil pesos, y también de las de cuantías inferiores cuando se trate de los juicios especiales del contrato de arrendamiento que se promuevan dentro de la ciudad cabecera del departamento, salvo en los dos casos, de aquellas cuyo conocimiento corresponda a los jueces de letras de menor cuantía;
+a) De las causas civiles sobre cosas cuyo valor exceda de treinta mil pesos; pero, tratándose de los juicios especiales del contrato de arrendamiento, conocerán de aquellos en que el valor de la materia exceda de la suma de quince mil pesos y también de los de cuantía inferiores cuando dichos juicios se promuevan dentro de la ciudad cabecera de departamento. Se exceptúan de estas reglas las causas cuyo conocimiento corresponda a los jueces de letras de menor cuantía.
 
 b) De las causas de comercio, con la misma salvedad de la letra precedente.
 
-Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de tres mil pesos y las causas de comercio que no excedan de cinco mil y en primera, todas las demás.
+Deberán fallar en única instancia los juicios de arrendamiento a que se ha aludido en que el valor de la materia no exceda de quince mil pesos y las causas de comercio que no excedan de treinta mil pesos y en primera todas las demás.
 
 2°) En primera instancia:
 
@@ -1071,6 +1075,8 @@ En los asuntos criminales se determina por la pena que el delito lleva consigo.
 #### Artículo 116
 
 Si el demandante acompañare documentos que sirvan de apoyo a su acción y en ellos apareciere determinado el valor de la cosa disputada, se estará para determinar la competencia a lo que conste de dichos documentos.
+
+Para determinar la cuantía de las obligaciones en moneda extranjera, podrá acompañar el actor, al tiempo de presentar la demanda, un certificado expedido por un Banco, que exprese en moneda nacional la equivalencia de la moneda extranjera demandada. Dicho certificado no podrá ser anterior en más de quince días a la fecha de la presentación de la demanda.
 
 #### Artículo 117
 
@@ -2112,13 +2118,13 @@ QUINTA CATEGORIA. Jueces letrados de mayor cuantía de departamento; jueces letr
 
 SEXTA CATEGORIA. Jueces letrados de menor cuantía que funcionen en el asiento de las demás Cortes de Apelaciones; secretarios de juzgados de letras de mayor cuantía de capital de provincia; y defensores públicos de asiento de Corte y de capital de provincia.
 
-SEPTIMA CATEGORIA. Jueces letrados de menor cuantía; secretarios de juzgados de letras de mayor cuantía de departamento; y defensores públicos de departamento.
+SEPTIMA CATEGORIA. Jueces letrados de menor cuantía; Secretarios de Juzgados de letras de mayor cuantía de departamento; Secretarios de Juzgados de letras de menor cuantía de Santiago, y Defensores públicos de departamento.
 
-OCTAVA CATEGORIA. Secretarios de juzgados de letras de menor cuantía.
+OCTAVA CATEGORIA. Secretarios de los demás juzgados de letras de menor cuantía.
 
 #### Artículo 268
 
-Los jueces letrados de departamento, los jueces de menor cuantía y los secretarios de juzgados de letras de mayor cuantía con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
+Los jueces letrados de departamento, los jueces de menor cuantía, los secretarios de juzgados de letras de mayor cuantía y los secretarios de juzgados de letras de menor cuantía de Santiago, con más de cinco años de permanencia en la categoría, tendrán para los efectos de los ascensos, los mismos derechos que los funcionarios de la categoría inmediatamente superior.
 
 Igual regla se aplicará a los defensores públicos de las categorías sexta y séptima, con más de diez años de permanencia en el cargo o de veinte en el servicio judicial.
 
@@ -2226,7 +2232,7 @@ Sin embargo, cuando se trate de propuestas o ternas para el nombramiento, en cal
 
 No podrá ser promovido a una categoría superior, el funcionario que tenga menos de dos años de servicios en su grado, salvo que en la categoría inmediatamente inferior hubiere servido más de cinco años, en cuyo caso necesitará sólo un año. Podrá, no obstante, ser ascendido si no se interesare por el cargo ningún funcionario con más de dos años en el grado.
 
-El tiempo servido en las provincias de Aysén y Magallanes se computará doblado para los efectos de la antigüedad de los funcionarios en su categoría y del requisito para el ascenso. Este beneficio no servirá para obtener mayor remuneración.
+El tiempo servido en las provincias de Chiloé, Aysen y Magallanes se computará doblado para los efectos de la antigüedad de los funcionarios en su categoría y del requisito para el ascenso. Este beneficio no servirá para obtener mayor remuneración.
 
 #### Artículo 281
 
@@ -3530,7 +3536,7 @@ Para ser receptor de menor cuantía ante los juzgados de distrito y subdelegaci�
 
 #### Artículo 468
 
-Para ser secretario de juzgado de letras de menor cuantía se requiere tener más de veintiún años, y saber leer y escribir.
+Para ser secretario de juzgado de letras de menor cuantía se requiere tener más de veintiún años, y saber leer y escribir. Los Secretarios de estos juzgados en Santiago, deberán, además, ser abogados.
 
 #### Artículo 469
 
@@ -3964,7 +3970,7 @@ Los jueces de distrito y de subdelegación y los jueces de letras de mayor y de 
 
 1°) Amonestación verbal e inmediata;
 
-2°) Multa que no exceda de dos, cuatro, veinte o cincuenta pesos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
+2°) Multa que no exceda de doscientos, cuatrocientos, dos mil o cinco mil pesos según se trate respectivamente de un juez de distrito, de subdelegación o de un juez de letras de menor o de mayor cuantía; y
 
 3°) Arresto que no exceda de veinticuatro o cuarenta y ocho horas, según se trate de un juez de distrito en el primer caso, o de un juez de subdelegación o de letras de menor cuantía en el segundo, y de cuatro días, si se trata de un juez de letras de mayor cuantía.
 
@@ -3980,7 +3986,7 @@ Podrán también los jueces de letras de mayor cuantía, para la represión o ca
 
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
 
-4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de cincuenta pesos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
+4°) Apercibir a la parte o al abogado que hubiere redactado o firmado el escrito, o a uno y otro a la vez, con una multa que no exceda de diez mil pesos, o con una suspensión del ejercicio de su profesión al abogado por un término que no exceda de un mes y extensiva a todo el territorio de la República;
 
 5°) Imponer efectivamente al abogado, o a la parte, o a ambos, las penas expresadas en el número anterior.
 
@@ -4032,7 +4038,7 @@ Las faltas o abusos de que habla el artículo anterior podrán corregirlos las C
 
 3°) Pago de costas;
 
-4°) Multa que no sea inferior a cien pesos, ni exceda de dos mil;
+4°) Multa que no sea inferior a mil pesos ni exceda de veinte mil;
 
 5°) Suspensión de funciones hasta por cuatro meses. Durante este tiempo el funcionario gozará de medio sueldo.
 
@@ -4072,11 +4078,11 @@ Para la represión y castigo de las faltas que se cometieren ante la Corte Supre
 
 2°) Censura por escrito;
 
-3°) Multa que no exceda de cien pesos;
+3°) Multa que no exceda de diez mil pesos;
 
 4°) Arresto que no exceda de ocho días.
 
-Este arresto será siempre conmutable en multa, en proporción de veinticinco pesos por cada día.
+Este arresto será siempre conmutable en multa, en proporción de dos mil quinientos pesos por cada día.
 
 Estos tribunales tendrán, también, las facultades que el artículo 531 otorga a los jueces de letras de mayor cuantía, para la represión o castigo de las faltas de respeto que se cometieren en los escritos que se les presentaren.
 
