@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 1.970 EXENTA DE 28 DE DICIEMBRE DE 2004. MODIFICA RESOLUCION EXENTA Nº 1883 DE LA SEREMI METROPOLITANA DE VIVIENDA Y URBANISMO DEL 14 DE DICIEMBRE 2004, QUE LLAMA A POSTULACION AL 7º LLAMADO EXTRAORDINARIO DE LA REGION METROPOLITANA, A CONCURSO PARA EL OTORGAMIENTO DE SUBSIDIOS HABITACIONALES EN LA MODALIDAD "FONDO CONCURSABLE PARA PROYECTOS HABITACIONALES SOLIDARIOS"
+
+Modifíquese la fecha de postulación, para el día 29 de diciembre 2004, al 7º llamado extraordinario del año 2004 de la Región Metropolitana, para el otorgamiento de subsidios habitacionales en la modalidad "Fondo Concursable para Proyectos Habitacionales Solidarios", a grupos de familias patrocinados por una Entidad Organizadora asociada a los proyectos del "Plan Piloto Movilidad Habitacional" en las comunas de Puente Alto y Quilicura.
+
+Anótese, comuníquese y publíquese.- Verónica Serrano Madrid, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
