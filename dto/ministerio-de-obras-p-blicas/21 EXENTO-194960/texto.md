@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº21, de 29 de enero de 2002, se expropiaron los lotes de terreno Nos 6, 6-1 y 6-2, superficies 320 m², 26 m², y 367 m², respectivamente, rol de avalúo 374-82, comuna de El Quisco, para la obra Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Acceso a Punta de Tralca Km 0.000,00 al Km 5.622,00, Quinta Región y se acordó el valor de indemnización con su propietaria Marianne Denise Moroney, ascendente a la cantidad de $1.519.120.-
+
+Fiscal del Ministerio de Obras Públicas.
