@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.411, de 29 de octubre de 1999, se expropió el lote de terreno Nº 2-4, superficie 1.709,9 m², rol de avalúo 186-1, comuna de Colina, para la obra Camino Santiago-Colina-Los Andes, Sector ''C'', Peldehue-Casas de Chacabuco, Región Metropolitana y se acordó el valor de indemnización con su propietario Guillermo Hugo Trivelli Tromben, ascendente a la cantidad de $6.054.468.
+
+- Fiscal del Ministerio de Obras Públicas.
