@@ -1,0 +1,3 @@
+Por Resolución N° 647, de 20 de Agosto de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución que se indica, en virtud de lo prescrito en el artículo 6° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción: a) Resolución N° 181, de 1991 y la Resolución N° 604, de 1991, que la prorrogó, ambas de esta Subsecretaría, que autorizaron a don LUIS DAVID ABARCA DUARTE, R.U.T. N° 7.083.085-K, domiciliado en Asturias N° 627, Cerro Alegre, San Antonio, para realizar faenas de pesca extractiva con la nave "Abuelita Marta".
+
+Valparaíso, 20 de Agosto de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
