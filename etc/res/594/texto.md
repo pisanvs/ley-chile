@@ -1,0 +1,5 @@
+Por Resolución N°594, de 9 de Agosto de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL GOP SOCIEDAD ANONIMA, R.U.T. N° 88.274.600-3, para continuar desarrollando las actividades pesqueras autorizadas a Comercial Gardeweg Ortúzar y Palma Limitada, R.U.T. N° 88.274.600-3, del mismo domicilio, por Resoluciones N°421, de 1986, N°127, N°424 y N°598, todas de 1987, N°22 y N°1497, ambas de 1988 y N° 26, de 1989, todas de esta Subsecretaría, en virtud de la escritura pública y disposiciones legales mencionadas en Visto.
+
+Déjase sin efecto la Resolución N° 1200, de 1992, de esta Subsecretaría, que autorizó a Comercial Gop Sociedad Anónima, ya individualizada en el inciso anterior, para continuar desarrollando las actividades pesqueras autorizadas a Comercial Gardeweg Ortúzar y Palma Limitada, en virtud de lo dispuesto en el artículo 6° del D.S. N°175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 9 de Agosto de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
