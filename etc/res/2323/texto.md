@@ -1,0 +1,3 @@
+Por resolución Nº2.323, de 8 de noviembre de 2001 de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº587 de 1995 de esta Subsecretaría, sólo en cuanto autorizó a PESCA CISNE S.A., para realizar actividades pesqueras extractivas con la nave ''Cisne Blanco'', en el área marítima comprendida entre los paralelos 44°30' LS a 57° LS, respecto de los recursos hidrobiológicos Merluza de cola y Merluza de tres aletas, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
