@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.443, de 10 de octubre de 2003, de esta Subsecretaría, autorízase a ANDRES NOLBERTO BRICEÑO OLIVARES, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Río de Janeiro Nº72, Sector Maitencillo, Freirina, III Región, donde podrá elaborar, en la línea de proceso de Seco-Picado, los recursos hidrobiológicos Huiro negro, Huiro palo y Huiro o canutillo.
+
+Valparaíso, 10 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
