@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.964 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 223-5, superficie 628 m², rol de avalúo 204-37, comuna de Zapallar, para la obra ''Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Sector Km. 138.320,00 a Km. 138.560,00'' y se acordó el valor de indemnización con su propietario Hernán Kohnenkampf Salazar, ascendente a la cantidad de $4.926.071.-
+
+Fiscal del Ministerio de Obras Públicas.
