@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº298 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº91-A, superficie 25.00 m2, rol de Avalúo Nº635-46, comuna de Molina, para la obra "Camino Ruta K-175 Molina Siete Tazas, Sector Molina-Bif. Ruta K-179, Tramo Km. 0,000.00 a Km. 8,400.00", VII Región y se acordó el valor de la indemnización con su propietario Gabriel Antonio Adasme Martínez, ascendente a la cantidad de $246.825.-
+
+Fiscal del Ministerio de Obras Públicas.
