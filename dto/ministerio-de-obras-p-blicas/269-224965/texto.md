@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 269, de 30 de abril de 1996, se expropiaron los lotes de terreno N°s.2 y 3, superficies 5.711 M2. y 5.211 M2, rol de avalúo 350-191, comuna de Colina, para la obra Camino Ruta 5, sector Plaza de Peaje Lampa y se acordó precio de indemnización con sus propietarios Willie Farachi Cahmi y Yolanda Giovana Parodi Vera, ascendente a la cantidad de $79.395.448.
+
+Fiscal del Ministerio de Obras Públicas.
