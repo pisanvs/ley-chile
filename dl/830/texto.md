@@ -74,8 +74,6 @@ B.- A los Directores Regionales en la jurisdicción de su territorio:
 
 4°.- Condonar total o parcialmente los intereses penales por la mora en el pago de los impuestos, en los casos expresamente autorizados por la ley.
 
-El ejercicio de esta facultad y la concedida para condonar o rebajar las sanciones y multas sobre impuestos o contribuciones morosas, por falta de declaración o por otras causas, operará sobre el 70% del porcentaje o monto acordado por el Director Regional, debiendo ingresarse en arcas fiscales el 30% restante.
-
 Sin embargo, la condonación de intereses o sanciones podrá ser total, si el Servicio incurriere en error al determinar un impuesto o cuando, a juicio del Director Regional, dichos intereses o sanciones se hubieren originado por causa no imputable al contribuyente.
 
 5°.- Resolver administrativamente todos los asuntos de carácter tributario que se promuevan, incluso corregir de oficio, en cualquier tiempo, los vicios o errores manifiestos en que se haya incurrido en las liquidaciones o giros de impuestos.
@@ -494,9 +492,11 @@ Todo interés moratorio se aplicará con la tasa vigente al momento del pago, co
 
 La condonación parcial o total de intereses penales sólo podrá ser otorgada por el Director Regional cuando, resultando impuestos adeudados en virtud de una determinación de oficio practicada por el Servicio, a través de una liquidación, reliquidación o giro, el contribuyente o el responsable del impuesto probare que ha procedido con antecedentes que hagan excusable la omisión en que hubiere incurrido.
 
+Procederá también la condonación de intereses penales cuando, tratándose de impuestos sujetos a declaración, el contribuyente o el responsable de los mismos, voluntariamente, formulare una declaración omitida o presentare una declaración complementaria que arroje mayores impuestos y probare que ha procedido con antecedentes que hagan excusable la omisión en que hubiere incurrido.
+
 En los casos en que el Servicio incurriere en error al girar un impuesto, el Director Regional deberá condonar totalmente los intereses hasta el último día del mes en que se cursare el giro definitivo.
 
-El Director Regional podrá, a su juicio exclusivo, condonar, sin la limitación establecida en el artículo 6°, letra B), N° 4, del presente Código, la totalidad de los intereses penales que se hubieren originado por causa no imputable al contribuyente.
+El Director Regional podrá, a su juicio, condonar la totalidad de los intereses penales que se hubieren originado por causa no imputable al contribuyente.
 
 ### Párrafo 3°
 
@@ -782,7 +782,9 @@ Los apremios no se aplicarán, o cesarán, según el caso, cuando el contribuyen
 
 #### Artículo 95
 
-Procederá el apremio en contra de las personas que, habiendo sido citadas por tercera vez en conformidad a lo dispuesto en los artículos 34° ó 60° penúltimo inciso, durante la investigación administrativa de delitos tributarios no concurran sin causa justificada; procederá, además, el apremio en los casos de las infracciones señaladas en el N° 7° del artículo 97° y también en todo caso en que el contribuyente no exhiba sus libros o documentos de contabilidad o entrabe el examen de los mismos.
+Procederá el apremio en contra de las personas que, habiendo sido citadas por segunda vez en conformidad a lo dispuesto en los artículos 34 o 60, penúltimo inciso, durante la investigación administrativa de delitos tributarios, no concurran sin causa justificada; procederá, además, el apremio en los casos de las infracciones señaladas en el N° 7 del artículo 97 y también en todo caso en que el contribuyente no exhiba sus libros o documentos de contabilidad o entrabe el examen de los mismos.
+
+Las citaciones a que se refiere el inciso anterior, deberán efectuarse por carta certificada y a lo menos para quinto día contado desde la fecha en que ésta se entienda recibida. Entre una y otra de las dos citaciones a que se refiere dicho inciso deberá mediar, a lo menos, un plazo de cinco días.
 
 En los casos señalados en este artículo, el apercibimiento deberá efectuarse por el Servicio, y corresponderá al Director Regional solicitar el apremio.
 
@@ -810,9 +812,11 @@ De los contribuyentes y otros obligados
 
 Las siguientes infracciones a las disposiciones tributarias serán sancionadas en la forma que a continuación se indica:
 
-1°.- El retardo u omisión en la presentación de declaraciones, informes o solicitudes de inscripciones en roles o registros obligatorios, que no constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de un cinco por ciento a un treinta y cinco por ciento de una unidad tributaria anual.
+1°.- El retardo u omisión en la presentación de declaraciones, informes o solicitudes de inscripciones en roles o registros obligatorios, que no constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
-2°.- El retardo u omisión en la presentación de declaraciones o informes, que constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de diez por ciento de los impuestos que resulten de la liquidación, siempre que dicho retardo u omisión no sea superior a cinco meses. Pasado este plazo la multa indicada se aumentará en un dos por ciento por cada mes o fracción de mes de retardo, no pudiendo exceder el total de ella del veinte por ciento de los impuestos adeudados.
+2°.- El retardo u omisión en la presentación de declaraciones o informes, que constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de diez por ciento de los impuestos que resulten de la liquidación, siempre que dicho retardo u omisión no sea superior a 5 meses. Pasado este plazo, la multa indicada se aumentará en un dos por ciento por cada mes o fracción de mes de retardo, no pudiendo exceder el total de ella del treinta por ciento de los impuestos adeudados.
+
+El retardo u omisión en la presentación de declaraciones que no impliquen la obligación de efectuar un pago inmediato, por estar cubierto el impuesto a juicio del contribuyente, pero que puedan constituir la base para determinar o liquidar un impuesto, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
 3°.- La declaración incompleta o errónea, la omisión de balances o documentos anexos a la declaración o la presentación incompleta de éstos que puedan inducir a la liquidación de un impuesto inferior al que corresponda, a menos que el contribuyente pruebe haber empleado la debida diligencia, con multa del cinco por ciento al veinte por ciento de las diferencias de impuesto que resultaren.
 
@@ -826,19 +830,19 @@ Si, como medio para cometer los delitos previstos en los incisos anteriores, se 
 
 5°.- La omisión maliciosa de declaraciones exigidas por las leyes tributarias para la determinación o liquidación de un impuesto, en que incurran el contribuyente o su representante, y los gerentes y administradores de personas jurídicas o los socios que tengan el uso de la razón social, con multa del cincuenta por ciento al trescientos por ciento del impuesto que se trata de eludir y con presidio menor en sus grados medio a máximo.
 
-6°.- La no exhibición de libros de contabilidad o de libros auxiliares y otros documentos exigidos por la Dirección Regional de acuerdo con las disposiciones legales, la oposición al examen de los mismos o a la inspección de establecimientos de comercio, agrícolas, industriales o minerales, o el acto de entrabar en cualquier forma la fiscalización ejercida en conformidad a la ley, con multa de un cinco por ciento a un cincuenta por ciento de una unidad tributaria anual.
+6°.- La no exhibición de libros de contabilidad o de libros auxiliares y otros documentos exigidos por la Dirección Regional de acuerdo con las disposiciones legales, la oposición al examen de los mismos o a la inspección de establecimientos de comercio, agrícolas, industriales o minerales, o el acto de entrabar en cualquier forma la fiscalización ejercida en conformidad a la ley, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
-7°.- El hecho de no llevar la contabilidad o los libros auxiliares exigidos por la Dirección Regional de acuerdo con las disposiciones legales, o de mantenerlos atrasados, o de llevarlos en forma distinta a la ordenada o autorizada por la ley, y siempre que no se dé cumplimiento a las obligaciones respectivas dentro del plazo que señale el Servicio, que no podrá ser inferior a diez días, con multa de un cinco por ciento al cincuenta por ciento de una unidad tributaria anual.
+7°.- El hecho de no llevar la contabilidad o los libros auxiliares exigidos por la Dirección Regional de acuerdo con las disposiciones legales, o de mantenerlos atrasados, o de llevarlos en forma distinta a la ordenada o autorizada por la ley, y siempre que no se dé cumplimiento a las obligaciones respectivas dentro del plazo que señale el Servicio, que no podrá ser inferior a diez días, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
-8°.- El comercio ejercido a sabiendas sobre mercaderías, valores o especies de cualquiera naturaleza sin que se hayan cumplido las exigencias legales relativas a la declaración y pago de los impuestos que graven su producción o comercio, con multa del cuarenta por ciento al doscientos por ciento de los impuestos eludidos y con presidio o relegación menores en sus grados mínimo o medio. La reincidencia será sancionada con pena de presidio menor en sus grados medio a máximo.
+8°.- El comercio ejercido a sabiendas sobre mercaderías, valores o especies de cualquiera naturaleza sin que se hayan cumplido las exigencias legales relativas a la declaración y pago de los impuestos que graven su producción o comercio, con multa del cincuenta por ciento al trescientos por ciento de los impuestos eludidos y con presidio o relegación menores en su grado medio. La reincidencia será sancionada con pena de presidio o relegación menores en su grado máximo.
 
-9°.- El ejercicio efectivamente clandestino del comercio o de la industria con multa del treinta por ciento al doscientos por ciento de una unidad tributaria anual y con presidio o relegación menores en sus grados mínimo a medio y, además, con el comiso de los productos en instalaciones de fabricación y envases respectivos.
+9°.- El ejercicio efectivamente clandestino del comercio o de la industria con multa del treinta por ciento de una unidad tributaria anual a cinco unidades tributarias anuales y con presidio o relegación menores en su grado medio y, además, con el comiso de los productos en instalaciones de fabricación y envases respectivos.
 
-10°.- El no otorgamiento de guías de despacho de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas o guías de despacho sin el timbre fijo correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de 5 veces el monto de la operación, con un mínimo de 5 unidades tributarias mensuales
+10°.- El no otorgamiento de guías de despacho de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas o guías de despacho sin el timbre correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de 5 veces el monto de la operación, con un mínimo de 5 unidades tributarias mensuales.
 
 En el caso de las infracciones señaladas en el inciso primero, éstas deberán ser, además, sancionadas con clausura de hasta 20 días de la oficina, estudio, establecimiento o sucursal en que hubiere cometido la infracción.
 
-La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menores en su grado medio. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a tres años.
+La reiteración de las infracciones señaladas en el inciso primero se sancionará además con presidio o relegación menor en su grado máximo. Para estos efectos se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a tres años.
 
 Para los efectos de aplicar la clausura, el Servicio podrá requerir el auxilio de la fuerza pública, la que será concedida sin ningún trámite previo por el Cuerpo de Carabineros, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario. En todo caso, se pondrán sellos oficiales y carteles en los establecimientos clausurados.
 
@@ -846,21 +850,21 @@ Cada sucursal se entenderá como establecimiento distinto para los efectos de es
 
 En los casos de clausura, el infractor deberá pagar a sus dependientes las correspondientes remuneraciones mientras dure aquélla. No tendrán este derecho los dependientes que hubieren hecho incurrir al contribuyente en la sanción.
 
-11°.- El retardo en el pago de impuestos sujetos a retención o recargo, con multa del diez por ciento de los impuestos adeudados.
+11°.- El retardo en enterar en Tesorería impuestos sujetos a retención o recargo, con multa de un diez por ciento de los impuestos adeudados. La multa indicada se aumentará en un dos por ciento por cada mes o fracción de mes de retardo, no pudiendo exceder el total de ella del treinta por ciento de los impuestos adeudados.
 
-12°.- La reapertura de un establecimiento comercial o industrial o de la sección que corresponda, con violación de una clausura impuesta por el Servicio, con multa del veinte por ciento al cien por ciento de una unidad tributaria anual y con reclusión o relegación menores en sus grados mínimos a medios.
+12°.- La reapertura de un establecimiento comercial o industrial o de la sección que corresponda, con violación de una clausura impuesta por el Servicio, con multa del veinte por ciento de una unidad tributaria anual a dos unidades tributarias anuales y con presidio o relegación menor en su grado medio.
 
-13°.- La destrucción o alteración de los sellos o cerraduras puestos por el Servicio, o la realización de cualquiera otra operación destinada a desvirtuar la oposición de sello o cerraduras, con multa del cincuenta por ciento al doscientos por ciento de una unidad tributaria anual y con presidio menor en sus grados mínimos a medio.
+13°.- La destrucción o alteración de los sellos o cerraduras puestos por el Servicio, o la realización de cualquiera otra operación destinada a desvirtuar la oposición de sello o cerraduras, con multa de media unidad tributaria anual a cuatro unidades tributarias anuales y con presidio menor en su grado medio.
 
 Salvo prueba en contrario, en los casos del inciso precedente se presume la responsabilidad del contribuyente y, tratándose de personas jurídicas, de su representante legal.
 
-14°.- La sustracción, ocultación o enajenación de especies que queden retenidas en poder del presunto infractor, en caso de que se hayan adoptado medidas conservativas, con multa del cincuenta por ciento al doscientos por ciento de una unidad tributaria anual y con presidio menor en sus grados mínimo a medio.
+14°.- La sustracción, ocultación o enajenación de especies que queden retenidas en poder del presunto infractor, en caso de que se hayan adoptado medidas conservativas, con multa de media unidad tributaria anual a cuatro unidades tributarias anuales y con presidio menor en su grado medio.
 
 La misma sanción se aplicará al que impidiere en forma ilegítima el cumplimiento de la sentencia que ordene el comiso.
 
 15°.- El incumplimiento de cualquiera de las obligaciones establecidas en los artículos 34° y 60° inciso penúltimo, con una multa del veinte por ciento al cien por ciento de una unidad tributaria anual.
 
-16°.- La pérdida o inutilización de los libros de contabilidad y documentación relacionada con las actividades afectas a cualquier impuesto, con multa del 10% al 20% del capital efectivo, a menos que el contribuyente cumpla con los siguientes requisitos:
+16°.- La pérdida o inutilización de los libros de contabilidad y documentación relacionada con las actividades afectas a cualquier impuesto, con multa del 10% al 40% del capital efectivo, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional y, además el contribuyente cumpla con los siguientes requisitos:
 
 a) Dar aviso al Servicio dentro de las 48 horas siguientes, y
 
@@ -880,7 +884,7 @@ Para llevar a efecto la medida de que trata el inciso anterior, el funcionario e
 
 La sanción pecuniaria establecida en el inciso precedente podrá hacerse efectiva indistintamente en contra del que compre, venda o mantenga fajas de control y entradas a espectáculos públicos en forma ilícita.
 
-19°.- El incumplimiento de la obligación de exigir el otorgamiento de la factura o boleta, en su caso, y retirarla del local o establecimiento del emisor, será sancionada con multa de hasta una unidad tributaria mensual, previos los trámites del procedimiento contemplado en el artículo 165 de este Código, y sin perjuicio de que al sorprenderse la infracción, el funcionario del Servicio pueda solicitar el auxilio de la fuerza pública para obtener la debida identificación del infractor, dejándose constancia en la unidad policial respectiva.
+19°.- El incumplimiento de la obligación de exigir el otorgamiento de la factura o boleta, en su caso, y de retirarla del local o establecimiento del emisor, será sancionado con multa de hasta una unidad tributaria mensual en el caso de las boletas, y de hasta veinte unidades tributarias mensuales en el caso de facturas, previos los trámites del procedimiento contemplado en el artículo 165 de este Código, y sin perjuicio de que al sorprenderse la infracción, el funcionario del Servicio pueda solicitar el auxilio de la fuerza pública para obtener la debida identificación del infractor, dejándose constancia en la unidad policial respectiva.
 
 #### Artículo 98
 
@@ -922,7 +926,7 @@ La reincidencia en cualquiera de las infracciones señaladas en los números 1°
 
 #### Artículo 102
 
-Todo funcionario, sea fiscal o municipal o de instituciones o empresas públicas, incluyendo las que tengan carácter fiscal, semifiscal, municipal o de administración autónoma, que falte a las obligaciones que le impone este Código, o las leyes tributarias, será sancionado con una multa del uno por ciento al cincuenta por ciento de una unidad tributaria anual. La reincidencia en un período de dos años será castigada con multa del veinte por ciento al ciento por ciento de una unidad tributaria anual, sin perjuicio de las demás sanciones que puedan aplicarse de acuerdo con el estatuto que rija sus funciones.
+Todo funcionario, sea fiscal o municipal o de instituciones o empresas públicas, incluyendo las que tengan carácter fiscal, semifiscal, municipal o de administración autónoma, que falte a las obligaciones que le impone este Código, o las leyes tributarias, será sancionado con multa del cinco por ciento de una unidad tributaria anual a cuatro unidades tributarias anuales. La reincidencia en un período de dos años será castigada con multa de media unidad tributaria anual a cuatro unidades tributarias anuales, sin perjuicio de las demás sanciones que puedan aplicarse de acuerdo con el estatuto que rija sus funciones.
 
 #### Artículo 103
 
@@ -948,7 +952,7 @@ No obstará al procesamiento del infractor, el hecho de no encontrarse ejecutori
 
 #### Artículo 106
 
-Las sanciones pecuniarias podrán ser remitidas, rebajadas o suspendidas, a juicio exclusivo del Director Regional si el contribuyente probare que ha procedido con antecedentes que hagan excusable la acción u omisión en que hubiere incurrido.
+Las sanciones pecuniarias podrán ser remitidas, rebajadas o suspendidas, a juicio exclusivo del Director Regional si el contribuyente probare que ha procedido con antecedentes que hagan excusable la acción u omisión en que hubiere incurrido o si el implicado se ha denunciado y confesado la infracción y sus circunstancias.
 
 #### Artículo 107
 
@@ -1402,6 +1406,8 @@ La competencia de los jueces que conozcan de estos procesos no se alterará por 
 
 La circunstancia de haberse iniciado el procedimiento señalado en el artículo anterior, no será impedimento para que, en los casos de infracciones sancionadas con multa y pena corporal, se interponga querella o denuncia. En tal caso, el Director Regional se declarará incompetente para seguir conociendo el asunto en cuanto se haga constar en el proceso respectivo el hecho de haberse acogido a tramitación la querella o denuncia.
 
+La interposición de una querella o denuncia no inhibirá al Director Regional para continuar conociendo del procedimiento de reclamación correspondiente y demás trámites inherentes a la determinación de los impuestos adeudados, pero no se procederá a la dictación del fallo que recaiga en el proceso de reclamación hasta que quede ejecutoriada la sentencia en el proceso criminal respectivo, suspendiéndose la prescripción a que se refiere el Título VI del Libro Tercero.
+
 #### Artículo 163
 
 En todas aquellas materias no sujetas a disposiciones especiales del presente Código, la tramitación de los procesos a que dieren lugar los delitos previstos en este cuerpo legal se ajustarán a las reglas establecidas en los Libros I y II del Código de Procedimiento Penal, con las modificaciones que a continuación se expresan:
@@ -1458,7 +1464,7 @@ Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7�
 
 1°- Las multas establecidas en los números 1°, 2° y 11°, del artículo 97, por atraso u omisión en declarar o por mora en el pago serán aplicadas por el Servicio o por la Tesorería según proceda, sin otro trámite que el de girarlas en el caso de atraso en la declaración o de cobrarlas conjuntamente con el impuesto cuando éste se entere en arcas fiscales.
 
-2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
+2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
 3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
 
