@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 224, de 28 de septiembre de 1990, se expropió el lote No. 13,. superficie 5.922 M2., rol de avalúo 14-53, Comuna de San Pedro, para la obra Camino San Fernando - San Antonio, sector Bifurcación San Pedro - San Pedro y se acordó el precio de indemnización con sus propietarios Inés de las Mercedes Armijo Pinto y otros, ascendente a $ 891.982.
+
+Fiscal del Ministerio de Obras Públicas
