@@ -1,0 +1,3 @@
+Por decreto MOP Nº588, de 28 de marzo del 2002, se expropió el lote de terreno Nº29-3, superficie 451 m2, rol de avalúo 36-3, comuna de Romeral, para la obra Concesión Internacional Ruta 5. Tramo: Santiago Talca Sector L: Km. 179.500,00 al 192.900,00, Séptima Región y se acordó el valor de indemnización con su propietario Pablo Adolfo Maturana Aspillaga, ascendente a la cantidad de $4.093.500.- para el lote Nº29-3.
+
+Fiscal del Ministerio de Obras Públicas.
