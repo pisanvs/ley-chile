@@ -1,0 +1,19 @@
+LUGAR EN QUE DEBEN PRESENTARSE LAS RECLAMACIONES TRIBUTARIAS Y DEMAS ESCRITOS RELACIONADOS CON ELLAS
+
+Núm. 26.- Santiago 5 de Junio de 1990.
+
+La circular No.19, de 27 de Marzo de 1990, señala que en los reclamos en contra de liquidaciones, giros, pagos, resoluciones y denuncias por infracciones, tanto los escritos que contengan la reclamación como los posteriores que correspondan a la causa, deberán presentarse en la Oficina de Partes de la sede de la Dirección Regional cuyo Director sea competente para conocer el reclamo. Agrega la citada circular que hacen excepción a esa norma las instrucciones impartidas en la circular No.41, de 1983, que se refiere a los reclamos contra denuncias que se tramitan con arreglo a lo dispuesto en el artículo 165 del Código Tributario, y que contempla otras unidades del Servicio como "Oficinas Habilitadas" para el sólo efecto de recibir el escrito de reclamo; y en la Circular No.22, de 1989, que autoriza para presentar los reclamos de avalúos y demás escritos relacionados con él, incluso el de apelación, en la unidad del Servicio dentro de cuya jurisdicción se encuentra ubicado el bien raíz.
+
+Por otra parte, se indica en la referida Circular que, excepcionalmente, los referidos escritos podían ser entregados en el domicilio del señor Secretario Regional. Con el propósito de uniformar los procedimientos señalados y facilitar a los contribuyentes la entrega de sus reclamaciones y demás escritos relacionados en ellas, se imparten las siguientes instrucciones que modifican y refunden las contenidas sobre la materia en las circulares 7, de 1981, 41, de 1983, 22, de 1988 y 19 de 1990. En los reclamos que se presenten con arreglo a las disposiciones del Libro III del Código Tributario, tanto los escritos que contengan la reclamación como los posteriores relacionados con el proceso, incluso el de apelación, deberán presentarse en la oficina de Partes de la sede de la Dirección Regional cuyo Director sea competente para conocer el reclamo o en la Unidad del Servicio en cuyo territorio jurisdiccional tenga su domicilio el contribuyente o se encuentre ubicado el bien raíz, cuando se trate de reclamaciones de los avalúos.
+
+En el caso en que la reclamación u otros escritos sean presentados en algunas de las Unidades del Servicio, dicha Unidad deberá remitirlos a la Dirección Regional, a más tardar, el día siguiente a su recepción.
+
+Excepcionalmente, los referidos escritos podrán ser entregados en el domicilio del Secretario Regional o en el del Jefe de la Unidad, cuando se trate del último día del plazo en que ellos deben ser presentados y la sede a la Regional o de la Unidad se encuentre cerrada, ya sea por haber transcurrido el horario de atención al público o por tratarse de días en que la sede no se abre o por cualquiera otra circunstancia.
+
+Para estos efectos, es necesario que en un lugar destacado de la sede de la Dirección Regional y de las Unidades se exhiba un letrero con el nombre y domicilio del Secretario Regional o del Jefe de la Unidad o de sus Subrogantes, en el caso en que esté operando la subrogación.
+
+El Secretario Regional o el Jefe de la Unidad o sus Subrogantes, en su caso, encontrándose cerrada la sede de la Dirección Regional o de la Unidad y tratándose del último día del plazo pertinente, deberán recibir los escritos que se les presenten en sus domicilios, hasta las 24 horas del día, dejando constancia, tanto en el original como en las copias, bajo su firma, de la fecha y hora de presentación de los escritos, debiendo ingresarlos en la sede de la Dirección Regional o de la Unidad a primera hora del primer día en que funcione dicha sede.
+
+Se reitera que los referidos escritos no pueden ser enviados por Correo, ni aunque se emplee la carta certificada.
+
+Javier Etcheberry Celhay, Director.- Carlos Villarroel González, Secretario General.
