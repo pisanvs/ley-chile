@@ -1,0 +1,1 @@
+Refunde texto artículos 1.o y 2.o y reemplaza el de los artículos 3.o, 4.o y 5.o de la ley 5,235, de 31 de agosto de 1933, que fija sueldos al personal de las Gobernaciones y Subdelegaciones Marítimas; y agrega artículo a continuación del último citado; otras disposiciones.
