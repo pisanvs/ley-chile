@@ -1,0 +1,3 @@
+Por Decreto MOP No. 230, de 24 de agosto de 1992, se expropiaron los lotes de terreno No. s. 3 y 4, superficies 551 m2. y 25 m2., respectivamente, roles de avalúo 206-18 y 206-17, Comuna de San Javier, para la obra Camino Longitudinal Sur Ruta 5, 2ª calzada, sector Panguilemo-San Javier, y se acordó precio de indemnización con sus propietarios Osvaldo Jara Vergara y Gricelda Berríos Troncoso, ascendentes a las cantidades de $ 739.637 y $ 112.635.-
+
+Fiscal del Ministerio de Obras Públicas.
