@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 1.582 de fecha 26 de octubre del 2001, se expropió el lote de terreno Nº 1, superficie 486,00 m², Rol de Avalúo Nº 123-33, comuna de Pencahue, para la obra ''Gancho 1 Canal Las Doscientas Norte Prolongación Km. 0,000 al Km. 0,162, del Proyecto Regadío Pencahue'' y se acordó el valor de indemnización con su propietario Ernesto Ramón Bravo Poblete, ascendente a la cantidad de $259.970.
+
+- Fiscal del Ministerio de Obras Públicas.
