@@ -1,0 +1,3 @@
+Por Resolución N° 1.988, de 28 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase el extracto de la Resolución N° 1762, de 1996, de esta Subsecretaría, por la cual se autorizó a PESQUERA SAN JOSE S.A., para ampliar actividades pesqueras con la nave "Ventisquero", en el sentido de señalar que el nombre del Sr. Subsecretario de Pesca es Juan Manuel Cruz Sánchez y no como allí se indica.
+
+Valparaíso, 28 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
