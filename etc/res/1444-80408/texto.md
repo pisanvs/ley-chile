@@ -1,0 +1,3 @@
+Por resolución No. 1.444 de 20 de Noviembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de la fecha de la presente Resolución, el plazo otorgado a don WALTER FRANCISCO BUSCHMANN SCHIRMER, R.U.T. No. 6.813.941-4, domiciliado en calle Casanova No. 1046 Osorno, en el numeral 4° de la Resolución No. 1.329, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 20 de Noviembre de 1991.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
