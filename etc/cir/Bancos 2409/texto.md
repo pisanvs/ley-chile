@@ -1914,7 +1914,7 @@ Un cheque que no indique la fecha de su emisión o bien que señale una fecha qu
 
 La Ley sobre Cuentas Corrientes Bancarias y Cheques se limita a ordenar, en su artículo 13, que el cheque señale el lugar y la fecha de expedición, sin exigir que esta última se exprese de determinada manera, como sucede, en cambio, con la cantidad que manda pagar, la cual debe extenderse en letras y números por expresa disposición de la ley.
 
-De lo anterior debe concluirse que la fecha de giro puede indicarse de cualquier modo aceptado por los usos sociales, entre los cuales está, por ejemplo, el uso de abreviaturas o de números arábigos o romanos. En consecuencia, en tanto no exista duda acerca de cual es la fecha que se expresa en el cheque, el banco no debe rechazarlo por la forma en que aquélla se indicó.
+De lo anterior debe concluirse que la fecha de giro puede indicarse de cualquier modo aceptado por los usos sociales, entre los cuales está, por ejemplo, el uso de abreviaturas o de números arábigos o romanos, como también expresar el año sólo con sus dos últimos dígitos, prescindiendo de los dos primeros En consecuencia, en tanto no exista duda acerca de cual es la fecha que se expresa en el cheque, el banco no debe rechazarlo por la forma en que aquélla se indicó.
 
 1.2.3. Pago de cheques girados con fecha futura.
 
