@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.241 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 554-B, superficie 61 m²., Rol En Trámite, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua-Las Cabras, Sector San Roberto El Toco-Ruta 66, tramo Km. 0,00000 a Km. 12,70000" y se acordó el valor de indemnización con su propietario Luis Alberto Gálvez Pastrian, ascendente a la cantidad de $371.709.-
+
+Fiscal del Ministerio de Obras Públicas.
