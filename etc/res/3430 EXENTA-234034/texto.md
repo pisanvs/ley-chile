@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.430, de 30 de noviembre de 2004, de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 289 de 2004, modificada mediante resoluciones Nº 1.718, Nº 2.431, Nº 3.058 y Nº 3.427, todas de 2004, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación de Merluza del sur (Merluccius australis) en aguas interiores de la X Región", en el sentido de incrementar en 33,770 toneladas la cuota autorizada para el mes de diciembre a la Zona Chiloé-Palena.
+
+Valparaíso, 30 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
