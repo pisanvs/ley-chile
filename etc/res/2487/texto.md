@@ -1,0 +1,3 @@
+Por resolución Nº 2.487 de 22 de diciembre de 1999 de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96106085, presentada por FEDERICO CARLOS ORELLANA FUENZALIDA, para operar un centro de cultivo ubicado en Isla Cailín, sector Yelcho, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 22 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
