@@ -1,0 +1,3 @@
+Por Resolución Nº 1.580, de 18 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por la SOCIEDAD PESQUERA MC HUGH Y CIA. LTDA. para sustituir la nave "Timonel 8", por no dar cumplimiento a lo dispuesto en los artículos 2, 3 y 4 del D.S. Nº 64 de 1992, del Ministerio de Economía, Fomento y Reconstrucción y por encontrarse caducada.
+
+Valparaíso, 18 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
