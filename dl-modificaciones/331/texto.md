@@ -1,0 +1,25 @@
+MODIFICA D.F.L. Nº 175, DE 1960
+
+Núm. 331.- Santiago, 18 de Febrero de 1974.- Visto: lo dispuesto en el decreto ley Nº 1, de 11 de Septiembre de 1973, la Junta de Gobierno de la República de Chile, ha acordado dictar el siguiente,
+
+Decreto ley:
+
+#### Artículo 1º
+
+Introdúcense al decreto con fuerza de ley Nº 175, de 1960, las siguientes modificaciones:
+
+a) Reemplázase, en el artículo 1º, la frase:
+
+"cuando existiendo cabida disponible, tenga que suplirse la insuficiencia o falta de servicio aéreo a determinadas zonas del país.", por la siguiente: "y tengan cabida disponible, dentro del país o al extranjero".
+
+b) Sustitúyese, en el artículo 2º, la frase: "El Comando de Unidades de la Fuerza Aérea estará encargado de cobrar y percibir su valor" por la que sigue: "El valor del transporte al extranjero se fijará en dólares. El Comandante en Jefe designará las autoridades encargadas de cobrar y percibir su valor, tanto en el país como en el extranjero. Las cantidades que se perciban en dólares deberán ser remitidas a las Misiones Aéreas de Chile en el exterior, para su depósito en la cuenta respectiva".
+
+c) Suprímese el artículo cuarto.
+
+#### Artículo 2º
+
+DEROGADO
+
+Regístrese en la Contraloría General de la República, comuníquese, publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros de Chile e Investigaciones e insértese en la Recopilación Oficial de la citada Contraloría General.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Patricio Carvajal Prado, Vicealmirante, Ministro de Defensa Nacional.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
+
+Lo que se transcribe para su conocimiento.- Aníbal F. Labarca Ricci, Coronel, Subsecretario de Guerra.
