@@ -9248,7 +9248,7 @@ Los instrumentos a que se refieren las letras c), d), e) y f) deberán estar cla
 
 12.1.- Renegociación de créditos.
 
-Podrán optar a la garantía del Fondo, los deudores de créditos y contratos de leasing que se renegocien o repacten con los bancos o sus filiales hasta el 18 de agosto de 2000.
+Podrán optar a la garantía del Fondo, los deudores de créditos y contratos de leasing que se renegocien o repacten con los bancos o sus filiales hasta el 30 de diciembre de 2000.
 
 El Fondo garantizará basta el 20% del saldo adeudado de dichos créditos, incluidos sus reajustes e intereses, siempre que cumplan las condiciones de elegibilidad establecidas en el Reglamento.
 
@@ -9438,7 +9438,7 @@ Artículo I. Las personas a que se refiere el Título I de este Reglamento, podr
 
 El Fondo garantizará hasta el 20% del saldo adeudado de esos créditos a la fecha de la renegociación o repactación incluidos sus intereses y reajustes
 
-La opción a que se refiere este artículo podrán ejercerla los interesados hasta el 18 de Agosto de 2000.
+La opción a que se refiere este artículo podrán ejercerla los interesados hasta el 30 de diciembre de 2000.
 
 #### Artículo 2°
 
