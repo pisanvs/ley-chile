@@ -1,0 +1,3 @@
+Por decreto MOP Nº231, de fecha 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 75, 76, 77, 79, 81, 84 y 85, superficies 1.491 m², 411 m², 649 m², 292 m², 81 m², 59 m² y 77 m², respectivamente, rol de avalúo 259-9, comuna de Fresia, para la obra "Camino Fresia - Parga - Llico - Las Cañitas, Rol V-46, Km. 14.835 a Km. 34.000" y se acordó el valor de indemnización con su propietario Agropecuaria Porvenir Limitada, ascendente a la cantidad de $1.825.093.-
+
+Fiscal del Ministerio de Obras Públicas.
