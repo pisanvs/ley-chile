@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°s 194, 198 y 199, todos de fecha 28 de abril de 1995, se expropiaron los lotes de terreno N°s 105, 106, 119, 75, 35, 36 y 67, superficies 108, 156, 112, 480, 885, 1.200 y 709 M2., respectivamente, roles de avalúos 661- 13, 661-19, 675-15, en trámite, 1403-2, 1403-18 y 1403-24, comuna de Rancagua, para la obra Mejoramiento Ruta 5 Sur, sector Pasada por Rancagua y acordó precio de intemnización con sus propietarios Oscar Romero Donoso, Victoria Pino Martínez, Salomón Latife y otra, Verónica Ramírez Gaete y otra, Rodofo Soto Reyes y Sociedad Industria Maderera San José Ltda., ascendete a las cantidades de $11.352.833, $8.248.742, $28.585.176, $13.690.349, $13.790.550 y $18.867.745.
+
+Fiscal del Ministerio de Obras Públicas.
