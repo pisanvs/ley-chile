@@ -1,0 +1,3 @@
+Por decreto MOP Nº 869, de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 1, superficie 5.291 m²., rol de avalúo Nº 63-38, comuna de Lonquimay, para la obra ''Camino Liucura - Icalma, Sector Campamento Operativo de Alta Montaña, Tramo Km. 0,00 a Km. 339,56'', IX Región y se acordó el valor de la indemnización con su propietaria María Nancy Córdova Echeverría y Otra, ascendente a la cantidad de $7.725.822.-
+
+Fiscal del Ministerio de Obras Públicas.
