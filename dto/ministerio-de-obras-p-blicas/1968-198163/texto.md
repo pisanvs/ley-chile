@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.968 de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº13, superficie 2.911,5 m2, rol de Avalúo Nº212-27, comuna de Teodoro Schmidt, para la obra Camino Costero Sur, Sector Tranapuente Puerto Saavedra Porma, Tramo Chelle Hualpín Puente Peule, Km. 48.292,74 al Km. 68.030,40, IX Región y se acordó el valor de la indemnización con su propietario Ramón Nonato Ulloa Grandón, ascendente a la cantidad de $3.829.144.-
+
+Fiscal del Ministerio de Obras Públicas.
