@@ -1,0 +1,3 @@
+Por resolución Nº 14, de 6 enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución Nº 663 de 1989, de esta Subsecretaría, que autorizó a HUGO ERNESTO MUÑOZ GARCES, para instalar y operar el centro de cultivo ubicado en Río Cariquilda, comuna de Maullín, provincia de Llanquihue, X Región, por haberse puesto término a la respectiva concesión de acuicultura.
+
+Valparaíso, 6 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
