@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 462 de 23 de mayo de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs 49 y 62 para la obra: Camino Ruta S-61, Sector Cunco - Melipeuco, Km. 55,000 a Km. 87,46783, Sub-Tramo II Km.
+
+62,784 al Km. 76,043, que figuran a nombre de Antimám Romero Alberto y Cuevas Alvarez Bonifacio, roles de avalúo 302-381 y 302-41, Comuna de Cunco, IX Región, superficies 5.781 m2 y 1.638 m2. La Comisión de Peritos fijó con fecha 12 de febrero de 2001, complementada por acta de fecha 8 de noviembre de 2001, el monto de la indemnización provisional en la cantidad de $2.671.400.- para el lote 49 y $2.626.900.- para el lote 62. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
