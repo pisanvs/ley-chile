@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 167, 5 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 2132, Rol de Avalúo Nº 873-8 comuna Concepción, superficie 88,54 m2. de terreno y 30,63 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-18327; de aparente dominio de Sucesión Octavio Ríos Espinoza, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por María Pamela Mac-Guire Acevedo, arquitecto, Ricardo Pedro Conrado Echeverría Hohmann, arquitecto, y José Manuel Gálvez Alegría, constructor civil, según informe de fecha 10 de marzo de 2004, fijó monto provisional indemnización en $24.274.068.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
