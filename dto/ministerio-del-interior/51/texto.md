@@ -26,13 +26,13 @@ Decreto:
 
 #### Artículo 1°
 
-Refúndense en la Dirección General del Registro Civil Nacional, dependiente del Ministerio de Justicia, los Servicios del Conservador del Registro Civil, dependiente de ese Ministerio y el Servicio de Identificación, de la Dirección General de Investigaciones e Identificación, dependiente del Ministerio del Interior.
+Refúndense en la Dirección General del Registro Civil e Identificación, dependiente del Ministerio de Justicia, los Servicios del Conservador del Registro Civil, dependiente de ese Ministerio y el Servicio de Identificación, de la Dirección General de Investigaciones e Identificación, dependiente del Ministerio del Interior.
 
-El cargo de "Conservador del Registro Civil" se denominará "Director General del Registro Civil Nacional" el cargo de "Director General de Investigaciones e Identificación", "Director General de Investigaciones"; el cargo de "Jefe del Servicio de Identificación", "Jefe del Departamento de Identificación y Pasaportes"; un cargo de oficial Civil de la Categoría del Conservador del Registro Civil, "Jefe del Departamento del Registro Civil", el cargo de "Jefe de la Sección Subinscripciones" del mismo Conservador, "Jefe del Archivo General del Registro Civil" y el cargo "Inspector 1° del Conservador", citado, "Fiscal".
+El cargo de "Conservador del Registro Civil" se denominará "Director General Abogado" el cargo de "Director General de Investigaciones e Identificación", "Director General de Investigaciones"; el cargo de "Jefe del Servicio de Identificación", "Jefe del Departamento de Identificación y Pasaportes"; un cargo de oficial Civil de la Categoría del Conservador del Registro Civil, "Jefe del Departamento del Registro Civil", el cargo de "Jefe de la Sección Subinscripciones" del mismo Conservador, "Jefe del Archivo General del Registro Civil" y el cargo "Inspector 1° del Conservador", citado, "Fiscal".
 
 #### Artículo 2°
 
-La Dirección General del Registro Civil Nacional tendrá las funciones, atribuciones y deberes, a) de la Dirección General de Investigaciones e Identificación, correspondientes al "Servicio de Identificación" que establecen el decreto ley N° 26, de 7 de Octubre de 1924; el decreto ley N° 102, de 15 de Noviembre de 1924; la ley N° 5,180, de 18 de Junio de 1933; la ley N° 6,180, de 7 de Febrero de 1938; la ley N° 6,880, de 15 de Abril de 1941, y demás leyes, reglamentos y decretos en vigor;
+La Dirección General del Registro Civil e Identificación tendrá las funciones, atribuciones y deberes, a) de la Dirección General de Investigaciones e Identificación, correspondientes al "Servicio de Identificación" que establecen el decreto ley N° 26, de 7 de Octubre de 1924; el decreto ley N° 102, de 15 de Noviembre de 1924; la ley N° 5,180, de 18 de Junio de 1933; la ley N° 6,180, de 7 de Febrero de 1938; la ley N° 6,880, de 15 de Abril de 1941, y demás leyes, reglamentos y decretos en vigor;
 
 b) de los Servicios del Conservador del Registro Civil que establecen: la Ley de Matrimonio Civil, de 10 de Enero de 1884, la ley N° 4,808, de 10 de Febrero de 1930; el decreto con fuerza de ley N° 2,128, de 10 de Agosto de 1930, publicado en el Diario Oficial de 28 de Agosto de 1930; la ley N° 6,894, de 19 de Abril de 1941, y demás leyes, reglamentos y decretos en vigor.
 
@@ -40,11 +40,11 @@ Sustitúyense las denominaciones "Conservador del Registro Civil", "Oficial del 
 
 #### Artículo 3°
 
-Las oficinas del Registro Civil Nacional y mientras se fusionen, los actuales Gabinetes de Identificación, deben proporcionar, directa e inmediatamente, sin intervención del superior jerárquico, los datos, antecedentes, informaciones, copias y certificados que solicite cualquier funcionario de la Dirección General de Investigaciones relativos a la orden de investigación que exhiba o en virtud de orden escrita del director general de Investigaciones, y los que soliciten los Tribunales de Justicia y las diversas reparticiones de la Dirección General de Carabineros de Chile.
+Las Oficinas del Registro Civil e Identificación y mientras se fusionen, los actuales Gabinetes de Identificación, deben proporcionar, directa e inmediatamente, sin intervención del superior jerárquico, los datos, antecedentes, informaciones, copias y certificados que solicite cualquier funcionario de la Dirección General de Investigaciones relativos a la orden de investigación que exhiba o en virtud de orden escrita del director general de Investigaciones, y los que soliciten los Tribunales de Justicia y las diversas reparticiones de la Dirección General de Carabineros de Chile.
 
 #### Artículo 4°
 
-La Dirección General del Registro Civil Nacional estará constituída por las siguientes dependencias: a) Departamento del Registro Civil; b) El Departamento de Identificación y Pasaportes.
+La Dirección General del Registro Civil e Identificación estará constituída por las siguientes dependencias: a) Departamento del Registro Civil; b) El Departamento de Identificación y Pasaportes.
 
 De dicha Dirección dependerán:
 
@@ -54,17 +54,17 @@ De dicha Dirección dependerán:
 
 - **c)** el Gabinete Central de Identificación, y
 
-- **d)** Las oficinas del Registro Civil Nacional, y mientras funcionen por separado las actuales oficinas del Registro Civil y los Gabinetes de Identificación.
+- **d)** Las Oficina del Registro Civil e Identificación, y mientras funcionen por separado las actuales oficinas del Registro Civil y los Gabinetes de Identificación.
 
 La orientación técnica del Servicio del Registro Civil Nacional, en lo que se refiere a "Registro Civil" y a "Identificación y Pasaportes", se impartirá por intermedio de los respectivos departamentos de la Dirección General a que se refiere el inciso 1° del presente artículo.
 
 #### Artículo 5°
 
-La glosa del capítulo 05 de la partida 08 de la Ley de Presupuestos, se denominará "Dirección General del Registro Civil Nacional".
+La glosa del capítulo 05 de la partida 08 de la Ley de Presupuestos, se denominará "Dirección General del Registro Civil e Identificación".
 
 Traspásanse del capítulo 07 de la partida 04 de la Ley de Presupuestos, al capítulo 05 de la partida 08, las sumas correspondientes al servicio de identificación que determine un decreto supremo.
 
-La Ley de Presupuestos consultará los fondos necesarios para el mantenimiento de la Dirección General del Registro Civil Nacional.
+La Ley de Presupuestos consultará los fondos necesarios para el mantenimiento de la Dirección General del Registro Civil e Identificación.
 
 #### Artículo 6°
 
@@ -74,11 +74,11 @@ El Servicio Médico y Dental de la Dirección General de Investigaciones continu
 
 El personal de plantas de Identificación y del Registro Civil tendrá Escalafones separados, y sus nombramientos, ascensos y destinaciones se harán dentro de los mismo Escalafones, salvo cuando las necesidades del Servicio requieran lo contrario, lo que deberá hacerse por decreto supremo.
 
-Un decreto posterior señalará los cargos de la actual Dirección General de Investigaciones e Identificación, que pasarán a formar parte de la Dirección General del Registro Civil Nacional.
+Un decreto posterior señalará los cargos de la actual Dirección General de Investigaciones e Identificación, que pasarán a formar parte de la Dirección General del Registro Civil e Identificación.
 
 #### Artículo 7°
 
-El Jefe del Gabinete Central de Identificación y los Oficiales del Registro Civil Nacional otorgarán las Cédulas de Identidad Personal, Certificados de antecedentes y demás documentos, sin el visto bueno del intendente, gobernador o jefe de Carabineros, respectivos. En la misma forma otorgarán dichos documentos los Jefes de Gabinetes de Identificación, mientras funcionen separadamente.
+El Jefe del Gabinete Central de Identificación y los Oficiales del Registro Civil e Identificación otorgarán las Cédulas de Identidad Personal, Certificados de antecedentes y demás documentos, sin el visto bueno del intendente, gobernador o jefe de Carabineros, respectivos. En la misma forma otorgarán dichos documentos los Jefes de Gabinetes de Identificación, mientras funcionen separadamente.
 
 Los pasaportes serán otorgados por dichos funcionarios, sustituyéndose la certificación de sus firmas, que actualmente hacen los intendentes, gobernadores, o jefes de Carabineros respectivos, por la certificación del director general de Investigaciones, y en provincias, por el jefe provincial de Investigaciones quienes calificarán la procedencia de su otorgamiento. Si el jefe provincial estimare improcedente la tramitación del pasaporte, deberá elevar los antecedentes al director general de Investigaciones para su resolución definitiva.
 
