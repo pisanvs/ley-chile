@@ -1,0 +1,5 @@
+ELIMINA CAMBIO DE SUJETO DEL IVA A SOC. COMERCIAL E INDUSTRIAL RUPERTO ROMERO Y CIA. LTDA.
+
+La VII Dirección Regional Talca del SII, por resolución Nº Ex. 1.816 de 05-12-2000, elimina a contar del día 1º del mes siguiente al de la publicación de la presente resolución, a Soc. Comercial e Industrial Ruperto Romero y Cía. Ltda., RUT Nº 78.056.140-8, la obligación de incluir en las facturas de ventas que emita, un 12% sobre el mismo valor neto, además del impuesto al valor agregado, en conformidad a la resolución Nº Ex. 5.551 de 29.11.96 y sus modificaciones posteriores, de la Dirección Nacional, que le dispuso el cambio de sujeto del IVA en las operaciones de venta de harina, dejando de ocurrir las circunstancias que ameritaban la obligación. El peticionario deja de tener la calidad de retenedor del Impuesto al Valor Agregado en las operaciones de ventas de harina.
+
+Luis Encina Barros, Director Regional (S).
