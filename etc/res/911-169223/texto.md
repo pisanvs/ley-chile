@@ -1,0 +1,3 @@
+Por resolución Nº911 , de 18 de mayo de 2000, de esta Subsecretaría, déjase sin efecto la resolución Nº1.125 de 1990, de esta Subsecretaría, sólo en cuanto autorizó a MANUEL ENRIQUE PEDREIRA, para instalar y operar un centro de cultivo en el sector 1 ubicado al sur del Islote Queten, en Isla Cheniao, comuna de Quemchi, provincia de Chiloé, X Región, por haberse denegado la concesión de acuicultura respecto de dicho sector.
+
+Valparaíso, 18 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo. Subsecretario de Pesca.
