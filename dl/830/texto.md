@@ -1060,6 +1060,8 @@ Corresponderá a todo tribunal resolver en única instancia sobre los impuestos 
 
 Corresponde a las Cortes de Apelaciones conocer en segunda instancia de los recursos de apelación que se deduzcan contra las resoluciones del Director Regional, en los casos en que ellos sean procedentes de conformidad a este Código.
 
+Será competente para conocer de estos recursos la Corte de Apelaciones que ejerza jurisdicción en el territorio en que tenga su domicilio la sede de la Dirección Regional respectiva.
+
 Igualmente corresponde a las Cortes de Apelaciones conocer de las apelaciones que se deduzcan contra las sentencias que se dicten de conformidad a los artículos 117° y 118°.
 
 #### Artículo 121
@@ -1482,15 +1484,23 @@ Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7�
 
 2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
-3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
+3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
 
-4°- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
+4°- Una vez formulado el reclamo, el contribuyente podrá dentro de los ocho días siguientes, acompañar y producir todas las pruebas que estime necesario rendir. El Director Regional determinará la oportunidad en que la prueba testimonial deba rendirse. Sólo podrán declarar los testigos que el contribuyente señale en el reclamo, con expresión de su nombre y apellido, domicilio, profesión u oficio. No podrán declarar más de cuatro testigos en total. En todo caso, el Director Regional podrá citar a declarar a personas que no figuren en la lista de testigos o decretar otras diligencias probatorias que estime pertinentes. La prueba se apreciará de acuerdo a las reglas de la sana crítica.
 
-5°- El reclamo deberá ser resuelto en el acto por el Director Regional o a más tardar dentro de tercero día, y la resolución que se dicte no será susceptible de recurso alguno.
+Las resoluciones dictadas en primera instancia, con excepción de la sentencia, se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse y fijarse diariamente en la Dirección Regional, con las formalidades que disponga el Director. Además se remitirá en la misma fecha aviso por correo al notificado. La falta de este aviso no anulará la notificación.
 
-6°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
+5°- El Director Regional resolverá el reclamo dentro del quinto día desde que los autos queden en estado de sentencia y, en contra de ésta, sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que se concederá en ambos efectos. Dicho recurso deberá entablarse dentro de tercero día, contado desde la notificación personal o por cédula de dicha resolución. Sólo podrá concederse la apelación previa consignación por el recurrente en un Banco a la orden del Tesorero General de la República, de una cantidad igual al veinte por ciento de la multa aplicada, con un máximo de 10 Unidades Tributarias Mensuales. La consignación aludida se devolverá a la parte recurrente si el recurso fuere acogido. Si fuere desechado o el recurrente se desistiere de él, se aplicará a beneficio fiscal. Si el recurso fuere desechado por la unanimidad de los miembros del tribunal de segunda instancia, éste ordenará que el recurrente pague a beneficio fiscal una cantidad adicional igual al monto de la consignación indicada y se condenará en las costas del recursos al recurrente cuando el Servicio hubiere comparecido en segunda instancia.
 
-7°- Los Directores Regionales podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en los funcionarios de su jurisdicción que designe, conforme a las instrucciones que al respecto imparta el Director.
+La Corte de Apelaciones verá la causa en forma preferente, en cuenta y sin esperar la comparecencia de las partes, salvo que estime conveniente el conocimiento de ella previa vista y en conformidad a las normas prescritas para los incidentes.
+
+En contra de la sentencia de segunda instancia no procerán los recursos de casación en la forma y en el fondo.
+
+6°- Se aplicarán las normas contenidas en el Título II de este Libro, al procedimiento establecido en este artículo, en cuanto la naturaleza de la tramitación lo permita.
+
+7°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
+
+8°- Los Directores Regionales podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en los funcionarios de su jurisdicción que designe, conforme a las instrucciones que al respecto imparta el Director.
 
 > **Nota.** Las letras c) y d) del Art. 8° del DL 2869, Hacienda, publicado el 29.09.1979, reemplazaron en el inciso primero y en el N° 2 la conjunción "y" por una coma, y agregaron a continuación de los números 11 y 10, respectivamente, lo siguiente: "y 17".
 
@@ -1643,6 +1653,8 @@ El expediente y el escrito a que se refiere el artículo anterior se presentará
 Será competente para conocer en segunda instancia de estos juicios, la Corte de Apelaciones a cuya jurisdicción pertenezca el Juzgado referido en el inciso anterior.
 
 En estos juicios, la competencia no se alterará por el fuero de que pueda gozar el ejecutado.
+
+> **Nota.** El Art. 2º de la Ley 18227, publicada el 15.07.1983, establece que, tratándose del cobro del impuesto territorial y de los derechos, servicios, recargos, tasas adicionales o anexos a aquél, ya sea que lo efectúen el Servicio de Tesorerías o las municipalidades autorizadas, acogidas a las normas de esta Ley, no regirá lo dispuesto en el inciso 1° del Art. 180.
 
 #### Artículo 181°
 
