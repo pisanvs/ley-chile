@@ -1,0 +1,3 @@
+Por resolución Nº 1.866, de 24 de diciembre de 1998, de esta Subsecretaría, autorízase a PESCA CISNE S.A., para realizar operaciones pesqueras, a contar del 1 de enero de 1999 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con el barco fábrica denominado "Cisne Blanco" en aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 44°30'00" de latitud sur, y con las naves "Cisne Blanco" y "Cisne Verde", en aguas interiores al sur del paralelo 47°00'00" latitud sur, respecto de los recursos y con las obligaciones establecidas en las resoluciones Nº 284 de 1989, Nº 587 de 1995 y Nº 71 de 1998, de esta Subsecretaría.
+
+Valparaíso, 24 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
