@@ -1,0 +1,9 @@
+Por resolución exenta Nº1.815, de 8 de agosto de 2003, de esta Subsecretaría, modifícase la resolución Nº416 de 2003, modificada mediante resoluciones Nº534, Nº1.178, Nº1.442 y Nº1.748, todas de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de jurel, I y II Región. Primera etapa 2003", en el sentido que se indica:
+
+a) En el numeral 2º, agregar el siguiente inciso cuarto: "La pesca de investigación además tendrá como objetivo caracterizar el proceso reproductivo del Jurel en el período de máxima intensidad reproductiva mediante técnicas histológicas".
+
+b) En el numeral 6º ter, en el sentido de incrementar en 12.000 toneladas de Jurel, las capturas autorizadas para la presente pesca de investigación, las que serán extraídas por las naves industriales individualizadas en el numeral 5º de la resolución Nº416 de 2003 y numeral 1º letra a) de la resolución Nº1.748 de 2003, antes señaladas, fraccionadas por armador de la siguiente manera: Arica Seafood Producer S.A.: 26,5, Corpesca S.A.: 9.557, Pesq. Mar Q y M Ltda.:26, South Pacific Korp S.A.: 200, San José S.A. Pesq.: 537,5, Camanchaca S.A. Cía Pesq.: 1.653.
+
+Las capturas antes señaladas se imputarán a la fracción autorizada a ser extraída con fines de investigación de la cuota global anual de captura establecida para las unidades de pesquería del recurso Jurel.
+
+Valparaíso, 8 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
