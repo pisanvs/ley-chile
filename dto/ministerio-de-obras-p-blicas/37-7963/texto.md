@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 37, de fecha 22 de febrero de 1993, se expropiaron los lotes de terreno N°s. 1 y 5, superficies 164 M2. y 710 M2., roles de avalúos 3709-34 y 3709-120, Comuna de Talca, para la obra Camino Longitudinal Sur Ruta 5, 2da. Calzada, sector Puente Lircay y se acordó el valor de indemnización con su propietaria Industria Maderera Prosperidad S.A., ascendente a la cantidad de $ 1.923.415.-
+
+Fiscal del Ministerio de Obras Públicas.
