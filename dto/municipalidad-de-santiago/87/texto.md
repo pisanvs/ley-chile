@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 87, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695. inmueble Agustinas No 2346, Rol 375-40. Santiago, aparente dominio Walter Uriarte Urrutia, superficie aproximada a expropiar 114 m2. Deslindes: Norte, 16,60 mts con calle Agustinas; Sur, 16,60 mts. con resto predio; Oriente, 7,50 mts. con otro propietario y Poniente, 6,20 mts. con otro propietario. Indemnización provisional $ 1.764.500 pagadera contado.
+
+Máximo Honorato Alamos. Alcalde Santiago.-
