@@ -9240,6 +9240,22 @@ Las boletas de garantía tendrán el formato y características, señalados en e
 
 2 del Capítulo 6-1 de esta Recopilación de Normas.
 
+15.- Boletas de Garantía emitidas por cuenta de un banco del exterior.
+
+En lo que concierne a las regulaciones que rigen a los bancos situados en Chile, no hay impedimentos para que éstos emitan Boletas de Garantía en calidad de mandatarios de bancos del exterior.
+
+Para realizar tales gestiones sin que el banco chileno resulte obligado y le afecten, por consiguiente, las limitaciones y normas que rigen el otorgamiento de boletas de garantía, es imprescindible:
+
+a) que exista un mandato que habilite al banco situado en Chile para proceder en representación del banco extranjero y la documentación que compruebe la autorización para extender la boleta por cuenta de este último, conforme a ese mandato.
+
+b) que el banco mandatario cuente con un instrumento que le garantice la obtención del reembolso oportuno de los pagos que hubiere desembolsado como consecuencia de haberse hecho efectiva la boleta.
+
+c) que se deje constancia, en la boleta de garantía emitida, de que el banco local actúa en representación del banco del exterior, o sea, como simple mandatario de él, y de que la boleta será pagada por el banco mandatario en la moneda indicada en el documento.
+
+d) que tales boletas no comprometan, por lo tanto, en forma alguna, la responsabilidad del banco local.
+
+Sólo si se cumplen esos requisitos podrá entenderse que la emisión de la boleta de garantía no representa obligación alguna, directa o indirecta del banco y, por lo tanto, su importe no se computará para los márgenes legales y reglamentarios, debiendo en todo caso registrarse en cuentas de orden para efectos de control.
+
 CAPITULO 8-12 (Bancos y Financieras)
 
 MATERIA:
