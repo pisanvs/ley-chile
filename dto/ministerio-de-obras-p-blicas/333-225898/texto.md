@@ -1,0 +1,5 @@
+Por decreto MOP Nº 333, de 27 de abril de 2004 y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 69-B y 79-B, para la ejecución de la obra "Camino Ruta O-66-N, Sector Nueva Aldea-Ñipas. Tramo I Km. 0,00000 a Km.
+
+5,58300 y Tramo II Km. 5,57900 a Km. 10,19480", que figuran a nombre de Urra Gatica Juan y Salgado Etelvino, Rol de Avalúo 159-61 y 159-50, comuna de Ranquil, VIII Región, superficies 85 y 224 m². La Comisión de Peritos con fecha 12 de enero de 2002, fijó el monto de la indemnización provisional en la cantidad de $18.060.500 para el lote Nº 69-B y de $18.145.500, para el lote Nº 79-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
