@@ -1,0 +1,7 @@
+Por resolución N° 463 de 6 de Julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA LANDES S.A., R.U.T. N° 92.387.000-8, para ampliar actividades pesqueras extractivas, autorizadas por la Resolución N° 1389, de 1992, de esta Subsecretaría, en orden a operar la nave "Coral I", autorizada por la resolución individualizada precedentemente, en el litoral de las regiones que se indican, donde podrá capturar los siguientes recursos hidrobiológicos: a) en la III y IV Región, con cerco: Agujilla, Anchoveta, Caballa, Jurel, Sardina común; b) En la X Región, por fuera de las líneas de base recta, con cerco: Anchoveta, Jurel, Merluza de cola, Sardina común y Sardina española.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria, respecto de las áreas de pesca y recursos hidrobiológicos no contemplados en la presente resolución, en virtud de los informes técnicos y normas legales y reglamentarias citadas en vistos.
+
+Valparaíso, 6 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
