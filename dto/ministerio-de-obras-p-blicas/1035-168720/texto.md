@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.035, de 30 de marzo del 2000, se expropió el lote de terreno Nº93, superficie 612 m², rol de avalúo 233-485, comuna de Rengo, para la obra Concesión Internacional Ruta 5; Tramo: Santiago-Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario José Gregorio Quinteros Escobar, ascendente a la cantidad de $3.001.784.
+
+- Fiscal del Ministerio de Obras Públicas.
