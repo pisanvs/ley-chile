@@ -1,0 +1,3 @@
+Por Resolución N° 1.429, de 31 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 421, de 1983, se esta Subsecretaría, que autorizó a don DAVID CRUZ LOPEZ, R.U.T. N° 3.544.333-9, para realizar actividades de pesca extractiva con la nave "Linda Kay", en el sentido de reemplazar sus características náuticas señaladas en su numeral 2°.
+
+Valparaíso, 31 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
