@@ -16138,6 +16138,8 @@ Sin embargo, la ley establece que una persona natural no se considerará relacio
 
 económicos, hasta un 1% de las acciones de la institución financiera.
 
+Los porcentajes anteriores se elevarán a un 5%, en el caso de accionistas, personas naturales o jurídicas, de un banco cuyas acciones tengan presencia bursátil.
+
 Una sociedad no se considerará relacionada por el solo hecho que personas naturales o jurídicas relacionadas por la vía de la propiedad a la institución financiera tengan, por sí, a través de terceros, o en conjunto, una participación igual o inferior al 5% en el capital o en las utilidades de la respectiva sociedad. Los accionistas o socios de personas jurídicas relacionadas
 
 a una institución financiera no se considerarán relacionados cuando su participación sea irrelevante y resulte evidente que esos accionistas o socios y quienes controlan la sociedad no conforman una unidad de intereses económicos.
@@ -16149,6 +16151,8 @@ Están relacionadas a través de la gestión de una institución financiera aque
 Se considerarán también relacionadas a la entidad financiera las sociedades en que cualquiera de los recién mencionados tenga, directamente o a través de otras sociedades, su cónyuge, separado o no de bienes, o sus hijos menores, una participación en la propiedad igual o superior a un 5%.
 
 También se considerarán relacionadas las sociedades en las que alguna de las personas naturales relacionadas con la institución financiera a través de la gestión, ocupe el cargo de director, gerente general u otro equivalente.
+
+De acuerdo con lo anterior, si un director de un banco o de una de sus filiales es a la vez director de otra sociedad, esta última debe considerarse relacionada al banco. Sin embargo, en este caso y para el solo efecto de conformar los grupos de entidades relacionadas al banco y vinculadas entre sí a que se refiere el N° 2 de este título, dicha sociedad se considerará como un grupo aparte si ese director común no tiene otro tipo de relaciones a través de la gestión o de la propiedad en los términos indicados en este Capítulo, con esa empresa, el banco o las empresas de sus respectivos controladores.
 
 Debe tenerse presente que las personas que se desempeñen como directores o apoderados generales, así como sus cónyuges, hijos menores bajo patria potestad y las sociedades en que estas personas sean socios o accionistas, están sujetas a la prohibición de otorgarles crédito según lo establecido en el artículo 84 N°4 de la Ley General de Bancos y tratado en el Capítulo 12-12 de esta Recopilación Actualizada de Normas, precepto que prevalece respecto de los que se señalan en el presente Capítulo.
 
