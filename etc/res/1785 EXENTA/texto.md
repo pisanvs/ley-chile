@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.785, de 6 de agosto de 2003, de esta Subsecretaría, autorízase a GILBERTO LEONCIO ALVAREZ OSORIO para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Vallenar, Panamericana Norte kilómetro 667, III Región, donde podrá procesar, en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Picado de algas: Huiro Palo, Chascón, Huiro, Pelillo.
+
+Valparaíso, 6 de agosto de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
