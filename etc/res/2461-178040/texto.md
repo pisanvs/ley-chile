@@ -1,0 +1,3 @@
+Por resolución N°2.461, de 10 de noviembre de 2000, de esta Subsecretaría, modifícase el numeral 5° de la resolución N°2.194 de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', en el sentido de señalar que el límite máximo de captura autorizado se incrementará para el mes de noviembre en 5.854 toneladas para la Zona 1, comprendida entre la III y IV Regiones, y en 8.913 toneladas para la Zona 2, comprendida entre la V a la X Regiones.
+
+Valparaíso, 10 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
