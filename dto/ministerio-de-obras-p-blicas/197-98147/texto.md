@@ -1,0 +1,3 @@
+Por decreto MOP Nº 197, de 27 de febrero de 1998, se expropiaron los lotes de terreno Nºs. 14 y 15, superficies 3.974 y 183 m2 respectivamente, rol de avalúo 1317- 0033, comuna de San Carlos, para la obra Camino Ruta N- 335, Sector San Carlos-Nahueltoro y se acordó precio de indemnización con su propietario Suc. Luis Avila Carrasco, ascendente a la cantidad de $2.252.807.-
+
+Fiscal del Ministerio de Obras Públicas.
