@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 1.147 de 25 de agosto de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 92 para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km.
+
+0.000,00 al Km. 21.000,00" Quinta Región, que figura a nombre de Ponce Calderón Miriam, rol de avalúo 133-18, comuna de La Cruz, superficie 111 m2. La comisión de peritos integrada por los señores Verónica Paz Olivier Valdebenito, Paula Carolina Salas Sepúlveda y José Cristián Larraín Barros, fijó con fecha 30 de junio de 2004, el valor provisional de la indemnización en la cantidad de $1.220.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
