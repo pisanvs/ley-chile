@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 2365 de 10 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 1 a la 22 del Proyecto de Parcelación "Allipén" de la comunal de Freire, IX Región formado por predio "Allipén y Oriente". Los Derechos de Agua se extraen del canal Allipén derivado del Río Allipén. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
