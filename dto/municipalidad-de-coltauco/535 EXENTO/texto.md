@@ -1,0 +1,3 @@
+Por decreto exento Nº 535, de fecha 4 de agosto de 2003, se expropió el lote Nº 9, superficie de 534,7 m2, rol de avalúo Nº 8-18, comuna de Coltauco, para el proyecto "Construcción Lotes con Servicio Coltauco Centro II Etapa", propietarios los Sres. Sucesión Moya Ahumada, integrada por los Sres. Griselda del Carmen Moya Ahumada, María Esperanza Moya Ahumada, José Ernesto Moya Ahumada, Augusto Antonio Moya Ahumada y Griselda del Carmen Moya Riquelme, ascendente a la suma de $31.017.550.- Secretaria Municipal, Municipalidad de Coltauco.
+
+Coltauco, agosto 6 de 2003.- Ivonne A. Quezada Hernández, Secretaria Municipal (S).
