@@ -1,0 +1,5 @@
+Por decreto MOP Nº300, de 28 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº37-C2 para la obra:
+
+"Sistema Norte-Sur. Tramo A: Río Maipo - Las Acacias. Sector: Km. 11.300,00 al Km. 12.000,00", Región Metropolitana, que figura a nombre de Wilckens Recart Sylvia y ot, rol de avalúo 2589-78, comuna de San Bernardo, superficie 35 m². La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Carmen Pilar Ríos Marcuello y María Pilar Quiroga González, fijó con fecha 7 de marzo de 2003, el valor provisional de la indemnización en la cantidad de $26.077.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
