@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 205 de 31 de marzo de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes Nºs. 4A, 8A y 9A, para la obra: Proyecto Laja - Diguillín, Area de Riego Pemuco, Canal El Oyente Alternativa Dos Faja Adicional Km. 0,135 al Km. 8,062, que figuran a nombre de Acuña Sandoval Carlos Arturo, Valenzuela Fernández Hernán Es y Valenzuela Urbina Luis Rolando, roles de avalúo 153-57; 153-55 y 153-67, comuna de Pemuco, VIII Región, superficies 2.469 m2.; 1.137 y 1.678 m2. La Comisión de Peritos, fijó con fecha 25 de junio de 2002, el monto de la indemnización provisional en la cantidad de $1.259.190.- para el lote Nº4A;
+
+$579.870.- para el lote Nº8A y $975.780.- para el lote Nº9A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
