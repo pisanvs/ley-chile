@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 151, de 28 de febrero de 2001, se expropió el lote de terreno Nº 7, superficie 755 m2., rol de avalúo 189-193, comuna de Longaví, para la obra Concesión Internacional Ruta 5. Tramo: Talca-Chillán, Séptima Región, y se acordó el valor de indemnización con su propietario Humberto del Carmen Muñoz, ascendente a la cantidad de $1.585.603.-
+
+Fiscal del Ministerio de Obras Públicas.
