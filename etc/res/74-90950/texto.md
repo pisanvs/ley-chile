@@ -1,0 +1,3 @@
+Por Resolución Nº 74, de 21 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por PESQUERA ATITLAN S.A., para ampliar el plazo para iniciar actividades pesqueras con las naves "Gustavo" y "Kristina", autorizadas por resoluciones Nº 601 y Nº 602 de 1996, de esta Subsecretaría, por no haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 21 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
