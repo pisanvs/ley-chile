@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.576, de 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 4, 5, 8, 11, 12-A, 15 y 15-A, superficies 133, 58, 34, 95, 392, 149 y 125 m² respectivamente, roles de avalúo 99-57, 99-62 y 341-179, comuna de La Ligua, V Región, para la obra Camino Ruta E-39 Sector Quínquimo-El Rayado y se acordó precio de indemnización con sus propietarios Carlos Calderón Moraga y otros, Isaira Pérez Salazar y María Cataldo Oyanedel, ascendente a las cantidades de $2.283.645, $1.655.262 y $2.027.538.
+
+Fiscal del Ministerio de Obras Públicas.
