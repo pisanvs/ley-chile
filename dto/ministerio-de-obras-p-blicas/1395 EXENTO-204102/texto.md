@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.395, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº7, superficie 1.767 m2, rol de avalúo 565-24, comuna de Teodoro Schmidt, IX Región, para la obra ''Camino S-60, Sector Teodoro Schmidt-Hualpin, Km. 43,94000 al 59,10294, Tramo I Km. 44,84000 al 53,08000'' y se acordó el valor de indemnización con su propietario don Herminio Muñoz Leal, ascendente a la cantidad de $2.098.626.-
+
+Fiscal del Ministerio de Obras Públicas.
