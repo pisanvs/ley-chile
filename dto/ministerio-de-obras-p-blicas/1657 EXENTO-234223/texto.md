@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.657 de 30 de noviembre de 2004, se expropiaron los lotes de terrenos Nºs. 109 y 110, superficies 2.675 y 1.870 m² respectivamente, rol de Avalúo 144-29, comuna de Queilén, para la obra ''Camino Ruta W-853, Teupa - Queilén, Sector Santa María - Queilén, Tramo Km. 25,96000 a Km. 42,34833'', X Región y se acordó el valor de la indemnización con Gastón Patricio Vargas Vargas, ascendente a la cantidad de $1.289.896.-
+
+Fiscal del Ministerio de Obras Públicas.
