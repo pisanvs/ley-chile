@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 638 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 13, superficie 83,0 m2., Rol de Avalúo Nº 297-36, comuna de Lautaro, para la obra ''Lautaro Curacautín III, Segunda Etapa, Km. 28,000 al Km. 56,04946 provincia de Malleco y Cautín, comuna de Lautaro-Curacautín'', IX Región y se acordó el valor de indemnización con su propietario Carlos del Tránsito Parra Rodríguez, ascendente a la cantidad de $167.241.
+
+Fiscal del Ministerio de Obras Públicas.
