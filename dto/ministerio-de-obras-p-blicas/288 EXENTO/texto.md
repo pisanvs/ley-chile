@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº288, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº27-A, superficie 35 m², rol de avalúo 213-14, comuna de Rengo, para la obra "Proyecto Mejoramiento Ruta H-577, Sector Rengo-Rinconada de Malambo Km. 0.000 a Km. 1.914,565" y se acordó el valor de indemnización con su propietario Sucesión de don Luis Antonio Pérez Aliaga, ascendente a la cantidad de $382.520.
+
+Fiscal del Ministerio de Obras Públicas.
