@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 280 de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs 1, 9-B y 9, Canal Rinconada y lote Nº 5, Canal Rinconada Ramal Nº 3, superficies 1.668, 570, 714 y 3.054, Roles de Avalúo 591-67, 590-37, 590-1 y 590-28, comuna de Yungay, para la obra Proyecto Laja Diguillín, Area de Riego Yungay, Canal Rinconada y Canal Rinconada Ramal Nº 3 y se acordó precio de indemnización con sus propietarios Segundo Alfredo Muñoz Ocampo, Alonso Arturo Panes Jara, José Santiago Muñoz Vallejos y Matilde Rosa Muñoz González, ascendente a las cantidades de $383.583, $196.621, $441.177 y $951.491, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
