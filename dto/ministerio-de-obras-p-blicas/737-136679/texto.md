@@ -1,0 +1,3 @@
+Por decreto MOP Nº737, de 29 de marzo de 1999, se expropió el lote de terreno Nº27-B, superficie 20 m2, rol de avalúo 19-38, comuna de Bulnes, para la Obra ''Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli'', Sector 1, Octava Región y se acordó el valor de indemnización con su propietario Orlando Antonio Soto Muñoz, ascendente a la cantidad de $8.548.438.-
+
+Fiscal del Ministerio de Obras Públicas.
