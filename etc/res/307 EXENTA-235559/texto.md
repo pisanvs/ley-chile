@@ -1,0 +1,3 @@
+Por resolución exenta Nº 307, de 8 de febrero de 2005, de esta Subsecretaría, modifícase el numeral 4º letra a) de la resolución Nº 306 de 2005, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Pesca de Investigación del recurso Ostión del Sur en la Región de Magallanes, febrero 2005", en el sentido de eliminar la expresión "sección pesquería Ostión del Sur Chlamys vitrea".
+
+Valparaíso, 8 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
