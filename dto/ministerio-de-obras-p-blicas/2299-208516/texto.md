@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.299, de 31 de diciembre de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 28-A1 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. Sector: Km. 422.700,00 al Km. 425.740,00" Octava Región, que figura a nombre de Soc. Inmob. Larqui Oriente Ltda., rol de avalúo 20-12, comuna de Bulnes, superficie 890 m2. La comisión de peritos integrada por los señores Omar Andrés Aspé Neira, Juan Andrés Tepper Lavanderos y Karin Alicia Ernst Elizalde, fijó con fecha 15 de agosto de 2002, el valor provisional de la indemnización en la cantidad de $7.120.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
