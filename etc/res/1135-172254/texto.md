@@ -1,0 +1,3 @@
+Por resolución Nº 1.135 de 21 de junio de 2000 de esta Subsecretaría, autorízase a RODRIGO ALONSO MANOSALVA REYES, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Angel Parra Nº 628, Chillán Viejo, comuna de Chillán, VIII Región, donde podrá procesar en la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Ahumado: Salmón del Atlántico, Salmón plateado, Salmón rey, Trucha arcoiris, Trucha café.
+
+Valparaíso, 21 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
