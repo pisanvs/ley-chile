@@ -1,0 +1,3 @@
+Por decreto MOP Nºl88, de 27 de febrero de 1998, se expropi el lote de terreno Nº8, superficie 1.496 m2., rol de avalúo 1404-1 1, comuna de Puerto Varas, para la obra Camino Ampliación Ruta 5 Sur, Sector Puerto Varas - Puerto Montt y se acordó precio de indemnización con su propietario Cooperativa Agrícola Regional de Servicio de Inseminación Limitada, ascendente a la cantidad de $4.993.336.-
+
+Fiscal del Ministerio de Obras Públicas.
