@@ -1,0 +1,1 @@
+Concede derecho a jubilar, en la forma que indica, a los actuales jornaleros y capataces de movilización de las Administraciones de los Puertos del país.
