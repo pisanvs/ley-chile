@@ -1,0 +1,3 @@
+Por resolución Nº375, de 29 de febrero de 2000, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº96101083, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES RECOLECTORES DE ALGAS ESPERANZA DE TENGLO, para operar un centro de cultivo ubicado en sector Playa La Vega, Isla Tenglo, comuna de Puerto Montt, provincia de Llanquihue, X Región.
+
+Valparaíso, 29 de febrero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
