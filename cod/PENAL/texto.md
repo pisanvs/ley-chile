@@ -3134,7 +3134,7 @@ Para los efectos del presente párrafo se estimarán por violencia o intimidaci�
 
 #### Artículo 440
 
-El culpable de robo con fuerza en las cosas efectuado en lugar habitado o destinado a la habitación o en sus dependencias, sufrirá la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo si cometiere el delito:
+El culpable de robo con fuerza en las cosas efectuado en lugar habitado o destinado a la habitación o en sus dependencias, sufrirá la pena de presidio mayor en su grado mínimo si cometiere el delito:
 
 1.º Con escalamiento, entendiéndose que lo hay cuando se entra por vía no destinada al efecto, por forado o con rompimiento de pared o techos, o fractura de puertas o ventanas.
 
@@ -3224,9 +3224,13 @@ Los delitos a que se refiere al Párrafo 2 y el artículo 440 del Párrafo 3 de 
 
 Serán castigados con presidio mayor en su grado mínimo a presidio mayor en su grado máximo los culpables de robo o hurto cuando hagan uso de armas o sean portadores de ellas, siempre que no les corresponda una pena mayor por el delito cometido.
 
-Sin embargo, la mera circunstancia de portar armas en los delitos de hurto o robo, no producirá el efecto de aumentar la pena, si, a juicio del Tribunal, aquéllas fueren llevadas por el delincuente con un propósito ajeno a la comisión del delito.
+En el caso del delito de hurto, el aumento de la pena contemplado en el inciso anterior se producirá si las armas que se portan son de fuego, cortantes o punzantes. Tratándose de otras armas, la mera circunstancia de portarlas no aumentará la pena si, a juicio del tribunal, fueren llevadas por el delincuente con un propósito ajeno a la comisión del delito.
 
 Para determinar cuando el robo o hurto se comete con armas, se estará a lo dispuesto en el art. 132.
+
+#### Artículo 450 bis
+
+En el robo con violencia o intimidación en las personas no procederá la atenuante de responsabilidad penal contenida en el artículo 11, N° 7.
 
 #### Artículo 451
 
