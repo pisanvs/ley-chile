@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 132, de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 2, superficie 1.170 m2, rol de avalúo 604-40, comuna de Mulchén, para la obra "Camino Ruta Q-80, Sector Ruta 5 - Mulchén, Tramo I Km. 0,00000 a Km. 2,76300 y Sector Ruta 5 - Negrete, Tramo II Km. 0,00000 a Km. 29,93300" y se acordó el valor de indemnización con su propietario Juan Eduardo Reyes Muñoz, ascendente a la cantidad de $761.975.-
+
+Fiscal del Ministerio de Obras Públicas.
