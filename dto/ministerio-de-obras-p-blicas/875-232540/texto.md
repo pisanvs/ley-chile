@@ -1,0 +1,3 @@
+Por decreto MOP Nº 875 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 19-C, superficie 272,05 m2, rol Nº 206-343, comuna de Rengo, VI Región para la obra "Reposición, Construcción y Habilitación de Caminos para Vialidad Complementaria, Concesión Internacional Ruta 5 Sur, Tramo Santiago Talca Sector Localidad de Rengo Avenida Bisquertt, tramo Km0.000,00 al Km.0.220,91", y se acordó el valor de indemnización con su propietaria Lidia del Carmen Martínez Ruz, ascendente a la cantidad de $3.532.093.
+
+- Fiscal del Ministerio de Obras Públicas.
