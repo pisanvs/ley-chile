@@ -1,0 +1,1 @@
+Dispone que en lo sucesivo todo bono interno o externo emitido por cuenta del Estado o con garantía del Estado, queda exento de todo impuesto fiscal o municipal que exista o se establezca.
