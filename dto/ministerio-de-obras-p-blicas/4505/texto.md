@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.505, de 29 de septiembre de 2000, se expropió el lote de terreno Nº168, superficie 268 m², rol de avalúo 5808-6, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario José Salomé Vivallo Oñate, ascendente a la cantidad de $21.959.555.-
+
+Fiscal del Ministerio de Obras Públicas.
