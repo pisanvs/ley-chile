@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.545, de 29 de septiembre del 2000, se expropió el lote de terreno Nº19, superficie 4.087 m2., rol de avalúo 1442-1, comuna de Puerto Varas, para la obra Camino Ruta V-615 y V-605, Sector Ruta 5 - Alerce - La Poza, Km. 0,000 a Km. 2078194 y se acordó precio de la indemnización con su propietaria Helia Albertina Weisser Felmer, ascendente a la cantidad de $3.705.011.-
+
+Fiscal del Ministerio de Obras Públicas.
