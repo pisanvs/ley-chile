@@ -1,0 +1,3 @@
+Por resolución No. 1.365, de 04 de Noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las resoluciones No. 1.329, de 1988 y No. 796, de 1990, ambas de esta Subsecretaría, por las cuales se autorizó a don EUGENIO YOKOTA BEURET, R.U.T. No. 6.856.865-K, domiciliado en Antonio Varas No. 77, Calbuco Xª. Región, para instalar y operar un establecimiento de cultivo de los recursos Salmón del Atlántico, Salmón Plateado, Choro Zapato y Alga Glacilaria, en el sector de Poza Llaicha, Comuna de Calbuco, provincia de Llanquihue, Xa. Región de Los Lagos, en virtud de la renuncia presentada por el interesado.
+
+Valparaíso, 04 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
