@@ -1,0 +1,7 @@
+Por resolución N°. 1.304, de 04 de Octubre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a MAINTEC S.A., RUT N°. 96.599.380-0 domiciliada en Gabriela Mistral N°. 453, Chonchi, Chiloé, para iniciar actividades pesqueras, en orden a instalar y operar una planta industrial, ubicada en Gabriela Mistral N°. 453, Chonchi, Chiloé, donde podrá procesar en la línea de elaboración de fresco-enfriado y congelado, los siguientes recursos hidrobiológicos: Bacalao de profundidad, Cojinoba del Sur, Cojinoba moteada, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Merluza común, Merluza de cola, Raya, Salmón del Atlántico, Salmón del Pacífico, Tollo, Trucha arcoiris, Almeja, Calamar, Chorito y Jaiba.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria para procesar el recurso loco, de conformidad al DS N°. 126 de 1989, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 04 de Octubre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
