@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº72, de 5 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº34 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector G: Km. 110.200,00 al Km. 128.400,00", Sexta Región, que figura a nombre de Silva González Toribio Alfonso, rol de avalúo 206-189, comuna de Rengo, superficie 22 m2. La Comisión de Peritos, integrada por los señores María Isabel de Jesús Ríos Marcuello, Ricardo Antonio Strickler Arellano y José Cristián Larraín Barros fijó, con fecha 27 de noviembre de 2002, el valor provisional de la indemnización en la cantidad de $735.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
