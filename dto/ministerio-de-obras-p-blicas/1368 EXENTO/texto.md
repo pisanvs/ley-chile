@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.368 de fecha 31 de octubre del 2003, se expropió el lote de terreno Nº 146, superficie 16,00 m2, rol de Avalúo Nº 502-201, comuna de Retiro, para la obra "Camino Ruta L-75, Sector: El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00, Comuna de Retiro y Parral, Provincia de Linares", VII Región y se acordó el valor de indemnización con su propietario Juan Bautista Retamal Urrutia, ascendente a la cantidad de $228.845.
+
+- Fiscal del Ministerio de Obras Públicas.
