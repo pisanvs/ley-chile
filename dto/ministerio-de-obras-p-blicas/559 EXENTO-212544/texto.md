@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº559, de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº3, superficie 3.417 m2, Rol Nº538-39, comuna de La Unión, X Región, para la obra "Camino Conexión La Unión-Corral, Sector cruce Ruta 5, Fin de Pavimento, Ruta T-712, Km. 0,00000 a Km. 5,60000" y se acordó el valor de indemnización con su propietaria María Cristina Guiresse Pinninghoff, ascendente a la cantidad de $2.164.968.
+
+Fiscal del Ministerio de Obras Públicas.
