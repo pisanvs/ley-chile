@@ -1,0 +1,3 @@
+Por Resolución N° 428, de 25 de abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 1201, de 1991, de esta Subsecretaría, que autorizó a PESQUERA ANTUMAPU LTDA., R.U.T. N° 79.816.580-1, para operar la nave "Antumapu I", por haberse configurado la causal prevista en el artículo 143, letras b) y d) de la Ley N° 18.892, citada en Visto.
+
+Valparaíso, 25 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
