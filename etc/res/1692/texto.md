@@ -1,0 +1,9 @@
+Por Resolución N° 1.692, de 16 de noviembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA EL GOLFO S.A., R.U.T. N° 96.237.000-4, para sustituir las embarcaciones "Fox", autorizada por la Resolución N° 1465, de 1991 y "Don Peter", autorizada para operar por la Resolución N° 1146, de 1995, de esta Subsecretaría, por la nave "Fox", en proceso de transformación, en el litoral de la V a VII y IX Región, por fuera del área de reserva de pesca artesanal, donde podrá extraer con cerco, los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Caballa, Cojinoba del Norte, Jurel, Machuelo, Merluza de cola, Sardina española, Sardina común.
+
+Además la nave reemplazante podrá operar en el litoral de la X Región, con cerco por fuera del área de reserva artesanal, los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Caballa, Cojinoba del Norte, Jurel, Merluza de cola, Sardina española, Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Déjase sin efecto la Resolución N° 1465, de 1991 que autorizó a la peticionaria para operar con la nave "Fox" y la Resolución N° 1146, de 1995, que autorizó a la peticionaria para operar la nave "Don Peter", en virtud de la sustitución a que se refiere la presente autorización.
+
+Valparaíso, 16 de noviembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
