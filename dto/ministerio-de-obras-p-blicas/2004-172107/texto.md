@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.004, de 16 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 1, 2 y 3, para la obra Camino Mejoramiento Ruta L-45, sector Escuela Llepo-Pte. Los Hualles, Tramo Kms.
+
+31,508 al 32,094, que figuran a nombre de Suc. Felipe Urrutia Vásquez y Congreg. Salesiana, roles de avalúos 555-164 y 554-27, comuna de Linares, VII Región, superficies 3.705,70; 1.756,72 y 1.138,80 m2., respectivamente. La Comisión de Peritos fijó con fecha 10 de mayo de 1999, en las cantidades de $1.694.684, lote 1; $1.872.406, lote 2 y $1.126.656, lote 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
