@@ -1,0 +1,3 @@
+Por Resolución N° 1.386, de 22 de septiembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por SALMONES UNIMARC S.A., para un centro de cultivo ubicado en el sur de Isla Simpson, Canal Nalcayec, Comuna de Aysén, Provincia de Aysén, XI Región, por no dar cumplimiento el respectivo proyecto técnico a lo dispuesto en el artículo 78, inciso 2° y 87 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de septiembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
