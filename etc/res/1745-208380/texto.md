@@ -1,0 +1,5 @@
+AUTORIZA INCORPORACION DE ESPECIES
+
+1.- Resolución (M) 1.745, de 20 de diciembre de 2002, Subsecretaría de Marina, Ministerio de Defensa Nacional, autorízase al Sindicato de Trabajadores Independientes Cultivadores y Explotadores de Algas "Bahía Pulelo", RUT. 71.780.700-6, con domicilio en calle Blanco Encalada 660, piso 2, Ancud, para incorporar el cultivo de los grupos de especies Pectínidos y Ostreídos, en el establecimiento concesionado según resolución (M) 1.031, de 01 de abril de 1998, en el lugar denominado Sector Pulelo, Bahía Manao, comuna de Ancud, provincia de Chiloé, X Región de Los Lagos, individualizada en el plano 050/98-A, visado por la Subsecretaría de Pesca.
+
+Santiago, 13 de febrero de 2003.- Por el Subsecretario, Carlos de la Maza Urrutia, Subjefe Subsecretaría de Marina.
