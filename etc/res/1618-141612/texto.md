@@ -1,0 +1,3 @@
+Por resolución Nº 1.618, de 24 de agosto de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97103127, presentada por RICHARD JUVENAL TRIVIÑO MANSILLA, para operar un centro de cultivo entre Punta Huenao y Punta Tanecuhe, La Planchada, comuna de Curaco de Vélez, provincia de Chiloé, X Región.
+
+Valparaíso, 24 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
