@@ -1,0 +1,3 @@
+Por resolución Nº 1.174, de 12 de agosto de 1998 de esta Subsecretaría, autorízase a ALGAS MULTIEXPORT S.A., para ampliar actividades pesqueras autorizadas por resoluciones Nº 1.101, de 1994 y Nº 1.028, de 1995, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Lote 7, Sector Norte La Chimba, Antofagasta, II Región, en la elaboración de conservas, los siguientes recursos hidrobiológicos: Secado y Molienda de Alga: Chascón, Huiro, Luche, Chasca, Luga-Luga, Chicorea de mar, Pelillo, Cochayuyo y Palo.
+
+Valparaíso, 12 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
