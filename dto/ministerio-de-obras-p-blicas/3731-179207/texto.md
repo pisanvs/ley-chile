@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.731, de 28 de agosto de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se rectificaron los numerales 1°, 2° y 7° del decreto MOP N° 2.622 de 24 de septiembre de 1999 y se reemplazó el numeral 3° del mismo decreto que ordenó la expropiación del lote de terreno Nº118 para la obra:
+
+''Concesión Internacional Ruta 5. Tramo Collipulli - Temuco; Sector II: Pillanlelbun - Gorbea Km. 657,000 al Km. 718,336, Novena Región, que figura a nombre de Stepke Sauterelo Alberto Reinaldo, rol de avalúo 3209-33, comuna de Padre Las Casas, superficie 20.000 m2. La comisión de peritos integrada por los señores Claudio Ricardo González Valenzuela, Lautaro Francisco Soto Rodríguez y Claudio Benjamín Rojas García, fijó con fecha 28 de febrero de 2000, el valor provisional de la indemnización en la cantidad de $517.239.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
