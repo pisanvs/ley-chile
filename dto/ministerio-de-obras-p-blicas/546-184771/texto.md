@@ -1,0 +1,3 @@
+Por decreto MOP Nº 546, de 30 de marzo de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 12. Obra: Extensión Poniente Línea 5, sector Santa Ana Matucana, que figura a nombre de Inversiones Guildos Limitada, rol de avalúo 278-6, comuna de Santiago, superficie 3.905 M2. La comisión de peritos, fijó con fecha 12 de febrero de 2001, en la cantidad de $1.192.847.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
