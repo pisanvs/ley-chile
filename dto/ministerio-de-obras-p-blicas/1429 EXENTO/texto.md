@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.429, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra Camino Punitaqui - La Laja, sector Kms. 0,250 al 0,500, que figura a nombre de Agrícola Mercedes Ltda., rol de avalúo 46-8, superficie 55.00 m², comuna de Punitaqui. La Comisión de Peritos, con fecha 11 de diciembre de 2000, fijó la indemnización provisional en la cantidad de $121.370, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
