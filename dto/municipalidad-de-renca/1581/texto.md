@@ -1,0 +1,3 @@
+Alcalde I. Municipalidad de Renca, mediante Decreto No. 1581 de 12 de diciembre de 1986, dispone expropiar parte, conforme a decretos leyes 1.289 y 2.186, del terreno ubicado entre las calles Manuel Rodríguez y Colo Colo, rol de avalúo No. 544-20 aparentemente de propiedad de don Mario Segundo Morales Alfaro, para la apertura y ensanche de la Avda. Balmaceda. Deslindes: Norte, 14,50 m. (con resto predio); Sur: 14,50 (con calle Balmaceda); Oriente: 12,00 m. y, Poniente: 12,00 m. Indemnización provisional $ 174.000.- fijada por la Comisión Tasadora compuesta por los Sres. Jorge Cavagnaro Michelis; Nancy Sánchez Sepúlveda y Fernando Merino De la Cerda. Pago al contado con reajuste legal.
+
+- Alcalde.
