@@ -1,0 +1,3 @@
+Por Resolución N° 2.054, de 9 de diciembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, modifíquese el numeral 3° de la Resolución N° 1.352, de 1996, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto "Evaluación Indirecta del Stock de Centolla en la XII Región", en el sentido de señalar que la nave que efectuará las faenas de capturas será la nave "Paso Adventure".
+
+Valparaíso, 9 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
