@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.407, de fecha 28 de septiembre de 2001, se expropiaron los lotes de terreno Nºs. 216, 218 y 220, superficies 3.182 m2, 5.634 m2 y 78 m2, respectivamente, rol de avalúo 68-12, comuna de Teno, VII Región, para la obra ''Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, Km. 0,22000 al 25,00000'' y se acordó el valor de indemnización con su propietario Benedicto Morales Sepúlveda, ascendente a la cantidad de $14.343.175.
+
+- Fiscal del Ministerio de Obras Públicas.
