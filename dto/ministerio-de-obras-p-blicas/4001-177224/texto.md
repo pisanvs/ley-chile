@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.001, de 31 de agosto de 2000, se expropió el lote de terreno Nº52, superficie 30.656 m2., rol de avalúo 1545-101, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli, By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietario Edgar Lagos Fuica, ascendente a la cantidad de $36.557.109.-
+
+Fiscal del Ministerio de Obras Públicas.
