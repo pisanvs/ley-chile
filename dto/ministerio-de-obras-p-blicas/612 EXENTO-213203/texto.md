@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 612 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 41, superficie 111,52 m², rol de avalúo Nº 161-105, comuna de Petorca, para la obra "Ruta E-37-D sector Palquico - Las Palmas, Km. 14,04861 a Km. 26,13776", V Región, y se acordó el valor de la indemnización con su propietario Omar Salazar Tapia, ascendente a la cantidad de $423.868.
+
+Fiscal del Ministerio de Obras Públicas.
