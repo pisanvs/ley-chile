@@ -1,0 +1,5 @@
+Por Resolución No.211, de 28 de Febrero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD FRIGORIFICO SEMINARIO LTDA., R.U.T. No.79.643.040-0, domiciliada en calle Juan Griego No.4590, Santiago, para ampliar actividades pesqueras de transformación, autorizadas por Resolución No.1010, de 1991, de esta Subsecretaría, en orden a incorporar y procesar en la planta industrial, ubicada en calle Juan Griego No.4590, Comuna de San Joaquín, Santiago, en las líneas de elaboración autorizadas por la Resolución citada, al recurso hidrobiológico Ostión del Norte; el que provendrá de centros de cultivo autorizados.
+
+La presente autorización es sin perjucio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 28 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
