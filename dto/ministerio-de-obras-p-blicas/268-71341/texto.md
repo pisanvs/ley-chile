@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 268, de 31 de marzo de 1997, se expropiaron los lotes Nºs. 9 y 10, superficies 84 y 398 m², roles de avalúos 226-1 y 172-10, comuna de Nogales, Obra Paso Superior y Accesos a El Melón, Camino Ruta 5 Norte y se acordó precio de indemnización con sus propietarios Cemento Melón y Obispado de Valparaíso, ascendente a las cantidades de $646.950 y $2.236.252.
+
+Fiscal del Ministerio de Obras Públicas.
