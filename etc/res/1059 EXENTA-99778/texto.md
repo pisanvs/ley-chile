@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN LA COMUNA DE COLINA
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.059 de 04 de Julio de 1989 conforme artículo 5° transitorio Código de Aguas, determinó derechos aprovechamiento de aguas proporcionales que corresponden a las Parcelas N°s. 1 a la 38, sitios N°s. 1 al 38, Escuela y Centro Comunitario del Proyecto de División de los terrenos de la Cooperativa de Reforma Agraria "Tierra Nuestra Limitada", formada por predio "San Vicente de Lo Arcaya" de la comuna de Colina, Región Metropolitana. Los derechos de agua se extraen del Canal del Carmen por el Ramal Batuco; de la Asociación de Canalistas del Río Colina y de los recursos de agua subterránea que se extraen del pozo profundo designado con la nomenclatura 3310-7040 B-18.- Publicación hecha conforme artículo 13 Ley No. 18.377.
+
+Director Nacional.
