@@ -1,0 +1,3 @@
+Por resolución Nº998, de 16 de julio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº94103062, presentada por CORPORACION MUNICIPAL QUINCHAO PARA LA EDUCACION, SALUD Y ATENCION AL MENOR, para operar un centro de cultivo en Estero Quinchao, comuna de Quinchao, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78 inciso 2º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 16 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
