@@ -1,0 +1,3 @@
+Por decreto MOP Nº 140 de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 4, superficie 252 m², rol de avalúo 602-16, comuna de Tomé, para la obra "Camino Rafael - Rinco Km. 1.4, Sector Puente Huape, Km. 0,00000 a Km. 0,24550" y se acordó el valor de indemnización con su propietario Pedro Walterio Escárate Rubilar, ascendente a la cantidad de $379.411.-
+
+Fiscal del Ministerio de Obras Públicas.
