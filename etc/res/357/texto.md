@@ -1,0 +1,5 @@
+Por Resolución N° 357 de 24 de Mayo de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIALIZADORA DE PRODUCTOS AGROPECUARIOS COPRA LIMITADA, R.U.T. N° 85.091.100-2, para ampliar actividades pesqueras de transformación, autorizadas por Resolución N° 103, de 1990 y N° 701, de 1991, ambas de esta Subsecretaría, en orden a incorporar al proceso de la planta industrial ubicada en Kilómetro 17,5 Norte, Punta Arenas, XII Región, a la línea de elaboración de congelado el recurso hidrobiológico Erizo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 24 de Mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
