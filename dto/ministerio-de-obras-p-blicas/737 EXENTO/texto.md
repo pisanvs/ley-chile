@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 737 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 17, superficie 2.959,30 m2, rol de avalúo 138-18, comuna de Chonchi, para la obra "Camino Acceso Sur a Chonchi, Sector Ruta 5 - Chonchi, Km. 0.000 al Km. 3,25253" y se acordó el valor de indemnización con su propietario Hernán Federico Gómez Andrade, ascendente a la cantidad de $2.103.695.
+
+Fiscal del Ministerio de Obras Públicas.
