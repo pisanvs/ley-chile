@@ -16,57 +16,29 @@ Administración de la Caja
 
 #### Artículo 2
 
-o La Administración de la Caja estará a cargo de un Consejo Directivo, cuya composición y designación será la siguiente:
-
-a) Del Jefe del poder local.
-
-b) De un regidor que designará la Corporación.
-
-c) De dos Consejeros elegidos por los imponentes jubilados de entre ellos mismos, por mayoría de votos.
-
-d) De dos Consejeros elegidos por los imponentes en servicio activo, por mayoría de votos, y cuyas designaciones deben recaer en empleados con más de 10 años de servicios.
-
-e) De un Consejero elegido en la forma de que se trata en la letra anterior y que debe ser designado de entre los empleados con más de un año de servicio.
-
-f) Del Tesorero Municipal.
-
-g) Del Gerente de la Caja, y hará también las veces de Secretario.
-
-h) Del Fiscal de la Caja.
-
-Estos dos últimos miembros del Consejo sólo tendrán derecho a voz en sus deliberaciones.
+o La Dirección y Administración de la Caja y su representación legal corresponderá al Gerente, el que será designado y removido libremente por decreto del Ministerio del Trabajo y Previsión Social.
 
 #### Artículo 3
 
-o El Consejo durará tres años en sus funciones.
-
-La presidencia del Consejo corresponderá al Jefe del poder local; en su ausencia al Consejero regidor y en la de éste al Consejero que determine el Consejo.
+o Derogado.
 
 Atribuciones del Consejo
 
-#### Artículo 4
+#### Artículo 4°
 
-o Corresponde al Consejo:
+Son facultades del Gerente:
 
-1) Designar al Gerente de la Caja. La designación la harán los Consejeros, por mayoría de votos, entre los imponentes con más de 10 años de imponente.
+1) Fijar la dotación del personal de la Caja, previa aprobación del Ministerio del Trabajo y Previsión Social.
 
-Para ser elegido Gerente se necesita haber sido imponente de la Caja por más de 10 años.
+2) Designar el personal de la Caja y establecer sus atribuciones.
 
-La remoción del Gerente sólo podrá tener lugar por causa de administración descuidada u otra que signifique evidente perjuicio para la Caja, causa que deberá ser comprobada. Debe acordarse la remoción por los votos de los dos tercios de los Consejeros en ejercicio.
+3) Dictar los reglamentos internos necesarios para la administración de la Caja y el otorgamiento de los beneficios establecidos en estos estatutos.
 
-2) Crear los demás empleos que se estimen necesarios para el buen funcionamiento de la Caja y nombrar, a propuesta en terna del Gerente, las personas que deben servirlos, fijándoseles sueldos y determinando sus atribuciones.
+4) Determinar la inversión de los fondos de la Caja, los beneficios que se detallan más adelante y los gastos que origine el funcionamiento de la Caja, de acuerdo con la legislación vigente.
 
-3) Citar en el mes de Marzo de cada año a reunión general de imponentes para dar a conocer la marcha de la institución y el balance anual. Los imponentes podrán hacer las observaciones e indicaciones que estimen convenientes para beneficio de la Caja, a fin de que sean sometidas al estudio y resolución del Consejo.
+5) Conceder los beneficios previsionales de acuerdo con la legislación aplicable en la materia.
 
-4) Dictar, con aprobación del Alcalde, los reglamentos necesarios para la administración de la Caja y de los beneficios y servicios que se establecen en estos Estatutos, sin que ello altere la situación y goce de los ya concedidos y otorgados bajo el imperio de los anteriormente vigentes.
-
-5) Acordar la inversión de los fondos de la Caja, los beneficios y servicios que se detallan más adelante y los gastos que origine el funcionamiento de la Caja, aprobando el presupuesto correspondiente.
-
-Para tal efecto, el Gerente lo confeccionará anualmente, presentándolo a la consideración del Consejo en el mes de Noviembre del año anterior a su vigencia. En manera alguna los gastos que demande el personal de administración podrá exceder del diez por ciento de las entradas ordinarias.
-
-Podrán invertirse, también, los fondos, en bonos de la Municipalidad de Valparaíso, de la Caja de Crédito Hipotecario, Bancos Hipotecarios de Chile o Valparaíso, en bienes raíces de renta de primera clase o en títulos de la deuda del Estado.
-
-Estas inversiones se harán previa consulta del Técnico Actuarial de la Caja y por el acuerdo de los dos tercios de los miembros del Consejo. Se mantendrán, además, depósitos bancarios de renta o para la atención de las necesidades inmediatas de la Caja.
+6) Ejercer las facultades que estos estatutos u otras disposiciones legales o reglamentarias confieren al Consejo Directivo de la Caja.
 
 Recursos de la Caja
 
@@ -130,7 +102,7 @@ El promedio será el de los últimos 12 meses cuando el imponente haya permaneci
 
 En el caso a que se refiere el inciso anterior, las diferencias de imposiciones personales y patronales que pudieren existir, correspondientes a los 24 últimos meses, serán integradas por el pensionado y se descontarán del desahucio que le correspondiere.
 
-Las jubilaciones las concederá la Ilustre Municipalidad, con el informe favorable de la Caja.
+INCISO FINAL DEROGADO.
 
 #### Artículo 11
 
@@ -272,15 +244,11 @@ Reforma de Estatutos
 
 #### Artículo 28
 
-La reforma de los Estatutos deberá tener su origen en el Consejo Directivo, el que propondrá a la Asamblea de imponentes las reformas de los Estatutos que convengan, debidamente estudiadas en sus aspectos actuarial, económico y legal.
+Derogado.
 
-El Consejo podrá considerar las observaciones que se le hagan llegar por los imponentes para reformar los Estatutos, siempre que se encuentren debidamente financiadas.
+#### Artículo 29°
 
-Aprobado por el Consejo el proyecto de reforma de Estatutos, será remitido a la Asamblea de imponentes, a que se citará especialmente, para su aprobación o rechazo.
-
-La Asamblea será citada por el Consejo y el quórum para sesionar será de la mayoría absoluta de los imponentes. La aprobación del proyecto de reforma deberá contar con el voto de los dos tercios de los asistentes.
-
-Aprobada en esta forma la modificación de los Estatutos, deberá ser ratificada por la Corporacion Municipal, antes de someterla a la aprobación del Supremo Gobierno.
+La Caja administrará el Fondo de Desahucio y otorgará los beneficios respectivos con cargo a los recursos del Fondo y siempre que cuente con disponibilidades para ello.
 
 ## Artículos transitorios
 
