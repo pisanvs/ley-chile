@@ -1,0 +1,25 @@
+ESTABLECE SEDE Y TERRITORIO DE SERVICIO DE SALUD OSORNO
+
+Santiago, 13 de Diciembre de 1984.- Hoy se decretó lo que sigue:
+
+Núm. 382.- Visto: Lo establecido en el inciso final del artículo 16° del decreto ley N° 2.763, de 1979; en el artículo 3° del decreto supremo N° 281, de 30 de Julio de 1980 y en el artículo 17° del decreto supremo N° 235, de 17 de Junio de 1980, ambos del Ministerio de Salud; y teniendo presente las facultades que me confiere el artículo 32° N° 8 de la Constitución Política de la República,
+
+Decreto:
+
+#### Artículo 1°
+
+El Servicio de Salud Osorno tendrá su sede en la ciudad de Osorno y su territorio será el comprendido dentro de los siguientes límites: Norte: El río Bueno, desde su desembocadura en el Mar Chileno hasta la desembocadura del río Pilmaiquén; el río Pilmaiquén, desde su desembocadura en el río Bueno hasta su origen en el lago Puyehue; el lago Puyehue, desde el origen del río Pilmaiquén hasta la desembocadura del río Golgol; el río Golgol, desde su desembocadura en el lago Puyehue hasta su origen; y el paralelo astronómico del origen río Golgol, desde el origen del río Golgol hasta la frontera con Argentina.
+
+Este: La frontera con Argentina, desde el paralelo astronómico del origen del río Golgol hasta el portezuelo de Millaqueo.
+
+Sur: Una línea recta, desde el portezuelo de Millaqueo hasta el origen del estero sin nombre que nace frente a la cota 1.561 de la carta 1:50.000 del Instituto Geográfico Militar; la línea de cumbres que limita por el oriente y sur la hoya del lago Rupanco, desde dicha cota 1.561 hasta el volcán Osorno; la línea recta desde el volcán Osorno hasta el origen del brazo norte del estero Las Cascadas; el estero Las Cascadas, desde su origen hasta su desembocadura en el Lago Llanquihue, a los 41° 07' de latitud sur; el lago Llanquihue, desde la desembocadura del estero Las Cascadas hasta el lindero sur del predio Quilanto (rol 156-13); el lindero sur y poniente del citado predio Quilanto, desde el lago Llanquihue hasta el lindero oriente del predio Coñico; el lindero oriente de los predios Coñico (rol 308-29) y Coñico (rol 308-28), desde el lindero poniente del predio Quilanto (rol 156-13) hasta el lindero sur del predio Coñico (rol 308-28); el lindero sur de los predios Coñico (rol 308-28), parcela Ponce (rol 329-105) y sur y poniente de la parcela rol 329-103, desde el lindero oriente del predio Coñico (rol 30828) hasta el río Nihue o Copio; el río Nihue o Copío, desde el lindero poniente de la parcela rol 329-103 hasta su confluencia con el río López; el río López, desde su confluencia con el río Nihue o Copio hasta su confluencia con el río Maipué; el río Maipué desde su confluencia con el río López hasta su confluencia con el río Maule; el río Maule, desde su confluencia con el río López hasta la confluencia de los esteros La Raya y La Huella, que lo forman; el estero La Huella, desde su confluencia con el estero La Raya hasta su origen; la línea recta, desde el origen del estero La Huella hasta el origen del estero sin nombre que desemboca en el estero Collihuinco al sur de la localidad El Array n; el citado estero sin nombre, desde su origen hasta su desembocadura en el estero Collihuinco; el estero Collihuinco, desde la desembocadura del estero sin nombre antes citado hasta su desembocadura en el río Hueyusca; el río Hueyusca, desde la desembocadura del estero Collihuinco, hasta la desembocadura del estero sin nombre (41° 02' latitud sur, 73° 40' longitud oeste) designado X2 por CONARA en la carta 1:50.000 del Insituto Geográfico Militar, dicho estero X2, desde su desembocadura en el río Hueyusca hasta el paralelo astronómico de la confluencia de los dos esteros que forman el estero sin nombre llamado X1 por CONARA (41° 02' latitud sur; 73° 42' longitud oeste); el citado paralelo astronómico, desde el estero X2 hasta la confluencia de los dos esteros que forman el estero X1; el estero X1, desde la confluencia de los dos esteros que lo forman hasta su desembocadura en el estero El Repil; el estero El Repil, desde la desembocadura del estero X1 hasta la desembocadura del estero sin nombre que nace inmediato a la cota 807; el citado estero sin nombre, desde su desembocadura en el estero El Repil hasta su origen; la línea recta que une el origen del estero sin nombre mencionado con la cota 807; la línea recta que une las cotas 807 y 822, pasando por la cota 789; y el río San Luis, desde su origen en las inmediaciones de la cota 822 hasta su desembocadura en el Mar Chileno.
+
+Oeste: El Mar Chileno, desde la desembocadura del río San Luis hasta la desembocadura del río Bueno.
+
+#### Artículo 2°
+
+Derógase el artículo 17° del decreto supremo N° 235, de 17 de Junio de 1980, del Ministerio de Salud.
+
+Anótese, tómese razón, publíquese e insértese en la Recopilación Oficial de Reglamentos de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Winston Chinchón Bunting, Ministro de Salud.
+
+Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud.- Héctor Rodríguez Palacios, Subsecretario de Salud subrogante.
