@@ -1,0 +1,3 @@
+Por Resolución Exenta N° 2 del 7 de Abril de 1993, se aprobó la modificación del Contrato de Concesión a que se refiere la resolución N° 159 del 29 de Diciembre de 1992, en orden a sustituir la ubicación de la planta de Verificación de Emisiones Contaminantes de Vehículos Motorizados Livianos de propiedad de Alejandro Riquelme Valdivia, a un local ubicado en calle San Diego N° 516 de la comuna de Santiago.-
+
+Marcelo Belmar Berenguer, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana Suplente.
