@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.547, de 31 de agosto de 1999, se dejó sin efecto el decreto MOP Nº923 de 14 de julio de 1998, en la parte que se refiere a la expropiación del lote Nº7, que figura a nombre de Luis del Río Bretignere y Ot., rol de avalúo Nº218-6, comuna de El Quisco, necesarios para la ejecución de la obra Factibilidad Avanzada de la Evacuación de las Aguas Servidas El Tabo y El Quisco.-
+
+Fiscal del Ministerio de Obras Públicas.
