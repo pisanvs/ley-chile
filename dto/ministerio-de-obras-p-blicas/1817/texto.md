@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.817, de 30 de septiembre de 1998, se expropió el lote de terreno Nº 36, superficie 18 m², rol de avalúo 210-25, comuna de Rengo, para la obra Mejoramiento Ruta H-577, Sector Rengo - Rinconada de Malambo (Ramal), se acordó precio de la indemnización con su propietario Sucesión Pedro Nolasco Sanfurgo Larenas y Rogelia Mercedes Guerrero Cuevas, ascendente a la cantidad de $ 372.111.-
+
+Fiscal del Ministerio de Obras Públicas.
