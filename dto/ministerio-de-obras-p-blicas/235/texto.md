@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s 235 y 236, ambos de 30 de julio de 1993, se expropiaron los lotes de terreno N°s 2 y 1, superficies 49.500 m2 61.120 m2, roles de avalúos 9049-19 y 9049-3, Comuna de San Antonio, para la obra Camino Santiago San Antonio, sector Leyda Agua Buena, y se acordó precio de indemnización con sus propietarios Isabel Margarita de la Sotta Díaz y Sucesión Eduardo Larraín Marín y otro, ascendente a las cantidades de $29.145.000 y $29.911.815, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
