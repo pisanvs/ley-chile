@@ -1,0 +1,5 @@
+Por Resolución N° 1.609, de 28 de Agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a JOSE LUIS FERRO DENIS, para ampliar actividades pesqueras de transformación, autorizadas por Resolución N° 210, de 1996, de esta Subsecretaría, en orden a incorporar a la planta ubicada en calle Malaquías Concha N° 1221, San Vicente, Talcahuano, VIII Región, en las líneas de elaboración que a continuación se indican, los siguientes recursos hidrobiológicos: Fresco-Enfriado: Anfeltia, Cochayuyo, Chasca, Chascón, Chicorea de mar, Huiro, Luche, Luga-Luga y Pelillo; Seco: Anfeltia, Cochayuyo, Cotoni, Chasca, Chascón, Chicorea de mar, Huiro, Luche, Luga-Luga y Pelillo; Seco-Salado: Anfeltia, Cochayuyo, Cotoni, Chasca, Chascón, Chicorea de mar, Huiro, Luche, Luga-Luga y Pelillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 28 de Agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
