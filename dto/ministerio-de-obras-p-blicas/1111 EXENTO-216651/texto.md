@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.111, de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº17, superficie 868 m², Rol Nº172-873, comuna de San Clemente, VII Región para la obra "Mejoramiento Ruta K-705. Sector: Cruce Ruta 1115-CH (El Guindo) Vilches. Tramo Km. 0,00000 a 13,06400 (Ruta K-705) Km. 35,46000 a Km. 35,80000", y se acordó el valor de indemnización con su propietaria Rebeca del Carmen Tapia Sepúlveda, ascendente a la cantidad de $522.554.-
+
+Fiscal del Ministerio de Obras Públicas.
