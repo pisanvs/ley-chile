@@ -1,0 +1,5 @@
+Por decreto MOP N°2.036, de 29 de mayo de 2000 y en base a la facultad otorgada por el título 105 del DFL MOP N°850, de 1997, que fijó el texto actualizado de la Ley N°15.840, se expropió el lote de terreno N° 13, para la obra Avenida Argentina - Los Andes Camino Cruce Longitudinal (Llay-Llay) Túnel Cristo Redentor Rol 60-CH, Sector Avenida Argentina Km. 0.000,00 - Km.
+
+2.306,30, que figura a nombre de Eliana Tassara Plaza de Los Reyes, rol de avalúo 503-47, superficie 1.840 m2., comuna de Los Andes. La Comisión de Peritos, fijó con fecha 10 de diciembre de 1997 la indemnización provisional en la cantidad de $38.978.080 la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto Ley N°2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
