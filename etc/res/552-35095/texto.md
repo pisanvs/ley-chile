@@ -1,0 +1,3 @@
+Por Resolución N° 552, de 22 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcanse las Resoluciones N° 1022, de 1987 y N° 173, de 1989, ambas de esta Subsecretaría, que autorizaron a PESQUERA MARAZUL LIMITADA, para realizar actividades pesqueras con las naves "Marazul I", "Marazul II", "Marazul III", "Marazul IV", "Marazul V" y "Marazul VI", en virtud de lo dispuesto en el artículo 143, letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 22 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
