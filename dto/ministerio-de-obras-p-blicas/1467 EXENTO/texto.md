@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.467, de 28 de septiembre del 2001, se expropió el lote de terreno Nº 7-4, superficie 226 m2., rol de avalúo 162-66, comuna de Casablanca, para la obra Red Vial Litoral Central. Sector 3: Eje Costero Interior Subtramo: Rosario Orrego Abajo, Quinta Región, y se acordó el valor de indemnización con su propietaria María del Carmen Catalán Velásquez, ascendente a la cantidad de $652.499.-
+
+Fiscal del Ministerio de Obras Públicas.
