@@ -1,0 +1,7 @@
+Por decreto MOP Nº1.483, de 17 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.4-C, 4-D, 4-F, 4-G, 4-H y 4-I, para la ejecución de la obra Camino Ruta J-111, Sector Cruce Ruta 5 - Morza (Ampliación) Tramo Km. 0.020,00 a Km. 6.037,88, que figuran a nombre de Sociedad Agríc. y Criad Cáceres y Martine, Sociedad Agrícola Uni Agri Ltda., Alfredo Labbé Guzmán y Agrícola Sta. Ana Teno Ltda., roles de avalúo Nºs. 65-126, 65-132, 65-129, 65-134, 65-130 y 65-131, de la comuna de Teno, VII Región, superficies 60,50; 46,50;
+
+31,10; 31,10; 27,50 y 25,00 m². La comisión de peritos compuesta por Carlos Sottolichio Díaz, Renato Guerra Estévez e Iván Correa Opazo, fijó con fecha 15 de noviembre de 1997, el valor provisional de las indemnizaciones en la cantidad de $180.500, lote 4-C;
+
+$136.500, lote 4-D; $91.100, lote 4-F; $91.100, lote 4-G; $87.500, lote 4-H y $75.000, lote 4-I. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
