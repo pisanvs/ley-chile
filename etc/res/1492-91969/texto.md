@@ -1,0 +1,9 @@
+AUTORIZA A AQUASUR FISHERIES SOCIEDAD PESQUERA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución No. 1.942 de 12 de Diciembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Aquasur Fisheries Sociedad Pesquera Limitada, RUT No. 79.728.530-7, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras que tiene autorizadas por resolución No. 1.246, de 1987, de esta Subsecretaría, en orden a continuar operando en los establecimientos de cultivo autorizados en favor de Pesquera Trans Antartic Limitada, por resoluciones No. 260, de 1986, No. 701, de 1986, No. 955, de 1987, No. 498, de 1988 y No. 1.298, de 1988, todas de esta Subsecretaría. Asimismo podrá incorporar en el establecimiento ubicado en Río Las Marcas, Puerto Varas, X Región, el cultivo de los recursos salmón rey, salmón del Atlántico y trucha arco iris. Las especies salmonídeas serán adquiridas de centros de cultivo autorizados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Derógase las resoluciones No. 260, de 1986, No. 701, de 1986, No. 955, de 1987, No. 498, de 1988 y No.
+
+1.298, todas de esta Subsecretaría, que autorizaron a Pesquera Trans Antartic Limitada, RUT No. 84.925.700-5, domiciliada en la ciudad de Santiago, para desarrollar actividades pesqueras de cultivo, por renuncia de su titular.
+
+Valparaíso, 12 de Diciembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
