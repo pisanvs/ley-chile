@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.196 de fecha 31 de agosto del 2001, se expropió el lote de terreno Nº23-A, superficie 332,5 m², Rol en Trámite, comuna de Teno, para la obra "Camino Ruta J-25-, Sector: Cruce Longitudinal-La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Sergio Segundo Rojas Fuenzalida, ascendente a la cantidad de $483.854.-
+
+Fiscal del Ministerio de Obras Públicas.
