@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.631, de 11 de junio de 2004, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 64 de 2004, modificada mediante resolución Nº1.497 de 2004, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia "Investigación Pesca Exploratoria de la Jaiba, XII Región", en el sentido de reemplazar la embarcación artesanal "Jaalmar III", matrícula Nº 3862 por la embarcación artesanal "Emilio III", matrícula 1669, inscrita en el Registro Pesquero Artesanal de la XII Región.
+
+Valparaíso, 11 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
