@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.262, de 24 de agosto de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del DFL. MOP. No. 850 de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No. 3, para la obra Camino Santiago-Colina-Los Andes Sector Enlace Chacabuco, km.
+
+41.042,20 al km. 43.000,00, que figura a nombre de Agrícola Los Talavera Limitada, rol de avalúo 186-17, Comuna de Colina, superficie 16.850,9 m2. La Comisión de Peritos integrada por los señores María Angélica Fernández Osses, Eduardo Andrés Cárdenas Pérez y Luis Herman González, fijó con fecha 6 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 177.641.276.- para el Lote No. 3.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
