@@ -1,0 +1,3 @@
+Por Resolución Nº 986, de 10 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 1.361 de 1989, de esta Subsecretaría, que autorizó a PESQUERA Y CONSERVERA CABO DE HORNOS S.A., (hoy Limitada), para operar la nave "Petrohué", matrícula 133 de Puerto Natales, en virtud de lo señalado en el artículo 143 letra b), del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 10 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
