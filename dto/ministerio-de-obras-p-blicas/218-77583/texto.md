@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº218, de fecha 20 de Agosto de 1992, se expropió el Lote de terreno Nº3, superficie 950 m2, rol de avalúo 14-3 Comuna de San Pedro, para la obra Camino San Fernando San Antonio, sector Bifurcación San Pedro San Pedro y se acordó el valor de indemnización con su propietario Hugo Abel Lavanderos Fuentes, ascendente a la cantidad de $ 392.921.-
+
+Fiscal del Ministerio de Obras Públicas.
