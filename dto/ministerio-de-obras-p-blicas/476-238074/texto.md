@@ -1,0 +1,3 @@
+Por Decreto MOP N° 476, de 28 de junio de 1996, se expropió el lote de terreno N°2 superficie 4.470 M2, rol de avalúo 2899-18 comuna de Renca, para la obra Estudio de Ingeniería Habilitación Segunda Calzada Avenida Américo Vespucio; sector Carretera Panamericana Norte Ruta 72, y se acordó precio de indemnización con su propietario Alberto Guzmán Riesco, ascendente a la cantidad de $243.458.800.
+
+- Fiscal del Ministerio de Obras Públicas.
