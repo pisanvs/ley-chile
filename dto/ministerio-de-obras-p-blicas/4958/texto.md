@@ -1,0 +1,3 @@
+Por decreto MOP 4.958, de 31 de octubre de 2000, se expropió el lote de terreno Nº109, superficie 2.699 m², rol de avalúo 16-85, comuna de Olivar, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector E, Sexta Región y se acordó el valor de indemnización con su propietario Jorge Andrés Lara Núñez, ascendente a la cantidad de $27.591.677.-
+
+Fiscal del Ministerio de Obras Públicas.
