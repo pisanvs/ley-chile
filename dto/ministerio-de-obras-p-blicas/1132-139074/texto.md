@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.132 de 30 de abril de 1999, se expropió el lote de terreno Nº 35, superficie 269 m2., rol de avalúo 167-166, comuna de Maule, para la obra ''Ruta 5 Talca - Chillán, Calle de Servicio sector Talca Sur - Unihue y Pirque - Unihue'', Séptima Región y se acordó el valor de indemnización con su propietaria Rosa Edita Peña Peña, ascendente a la cantidad de $2.008.175.
+
+Fiscal del Ministerio de Obras Públicas.
