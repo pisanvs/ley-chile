@@ -1,0 +1,3 @@
+Por Resolución N° 1.423, de 5 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 683, de 1994, de esta Subsecretaría, sólo en cuanto caducó parcialmente la Resolución N° 980, de 1989, de esta Subsecretaría, que autorizó a PESQUERA MAR DEL SUR S.A., R.U.T. N° 96.513.090-K, para operar la nave "Mar del Sur III", en virtud de haberse acogido la reclamación interpuesta de conformidad con el artículo 143, inciso 2° de la Ley N° 18.892 y sus modificaciones.
+
+Valparaíso, 5 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
