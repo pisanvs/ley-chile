@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº971, de fecha 28 de junio del 2002, se expropió el lote de terreno Nº46-A, superficie 1.202 m², Rol Nº159-52, comuna de Ranquil, VIII Región para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, Tramo I Km. 0,00000 al 5,58300'' y se acordó el valor de indemnización con su propietario Flamiano Torres Burboa, ascendente a la cantidad de $1.135.975.-
+
+Fiscal del Ministerio de Obras Públicas.
