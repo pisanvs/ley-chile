@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.524, de 29 de septiembre del 2000, se expropió el lote de terreno Nº6, superficie 305 m2., rol de avalúo 154-224, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Enlace Zapata Poniente, Quinta Región y se acordó el valor de indemnización con su propietario Gustavo Hidalgo Hernández, ascendente a la cantidad de $1.699.136.-
+
+Fiscal del Ministerio de Obras Públicas.
