@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 617, de fecha 27 de abril de 2004, se expropió el lote de terreno Nº 2, superficie 330 m², rol de avalúo en trámite, comuna de Lolol, para la obra "Camino Portezuelo - Los Tricahues, Rol I-580, sector Puente Los Tricahues, Km. 0,270 a Km. 0,338", VI Región y se acordó el valor de la indemnización con su propietaria Josefina del Carmen o Josefina Pizarro Díaz, ascendente a la cantidad de $585.374.
+
+- Fiscal del Ministerio de Obras Públicas.
