@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.946 de 31 de agosto de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, y DFL MOP Nº206, de 1960, se dejaron sin efecto los numerales 2º, 3º, 4º, 5º y 6º del decreto supremo MOP Nº1.026 de 29 de abril de 1999, se modificó el Nº7 del mismo, y ordenó el inicio de la vía judicial de la expropiación correspondiente al lote de terreno Nº174, para la obra: Concesión Internacional Ruta 5, Tramo:
+
+Chillán-Collipulli. Sector: Km. 466.270,00 al Km. 477.548,00; Octava Región, que figura a nombre de Munic. Escuela F 1101, rol de avalúo 1356-61, comuna de Cabrero, superficie 805 m². La Comisión de Peritos integrada por los señores Aris Sergio Drapela Alvarez, Luis Abarzúa Ceballos y Karin Alicia Ernst Elizalde, fijó con fecha 14 de septiembre de 1998 el valor provisional de la indemnización en la cantidad de $4.729.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
