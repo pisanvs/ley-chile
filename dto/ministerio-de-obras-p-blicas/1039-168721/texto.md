@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.039, de 30 de marzo del 2000, se expropió el lote de terreno Nº1, superficie 1.468m², rol de avalúo 839-177, comuna de Parral, para la obra Concesión Internacional Ruta 5; Tramo: Talca-Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Alamiro del Carmen Fuentes Vásquez, ascendente a la cantidad de $2.242.433.
+
+- Fiscal del Ministerio de Obras Publicas.
