@@ -1,0 +1,3 @@
+Por Resolución No. 1.346 de 05 de Noviembre de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la Resolución No. 1.046, de 1989, de esta Subsecretaría que autorizó a SOCIEDAD PESQUERA COLOMBO LIMITADA, R.U.T. No. 79.790.970-K domiciliada en Santiago, para desarrollar actividades extractivas, en orden a señalar las nuevas características náuticas de la nave "Colombo".
+
+Valparaíso, 05 de Noviembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
