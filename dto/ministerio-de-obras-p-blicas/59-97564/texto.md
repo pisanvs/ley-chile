@@ -1,0 +1,3 @@
+Por decreto MOP. N° 59, de 30 de enero de 1998, se expropiaron los lotes de terreno N°s. 2 y 3, superficies 790 m2., y 439 m2., roles de avaiúos 2O87-5l8 y 2O87-517, comuna de Melipilla, para la obra Autopista Santiago - San Antonio, Sector Plaza de Peaje Melipilla 1, km. 63.031,50 al km. 63.235,50, y se acordó precio de las indemnizaciones con González Díaz Aída del Carmen y Ortega Oiguín Beatriz del Carmen y Morales Vargas María Teresa, ascendente a las cantidades de $16.258.200.- para el lote 2 y $3.830.453.- para el lote 3.-
+
+Fiscal del Ministerio de Obras Públicas.
