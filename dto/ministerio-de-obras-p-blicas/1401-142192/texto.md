@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.401, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs. 7-A, 7-B, 7-C, 15, 60 y 60-A, superficies 3.895,81; 289,62; 6.685,59; 522; 424 y 816 m², respectivamente roles de avalúo 9317-1, 9317-47, 9309-10 y 9309-8, comuna de Valparaíso, para la obra Habilitación Nuevo Camino La Pólvora, Tramo I, Sector Placilla-Puertas Negras y se acordó precio de indemnización con sus propietarios Ildefonso Pérez Zujovic, Sergio Núñez Aguilera y Luz Parraguez Biggio y otros, ascendente a las cantidades de $46.273.452, $13.293.000 y $3.982.000.
+
+- Fiscal del Ministerio de Obras Públicas.
