@@ -6904,15 +6904,23 @@ De acuerdo con la disposición legal transcrita, los intereses y reajustes de la
 
 Este mismo procedimiento se seguirá en el caso de los días que sean declarados feriados, ya sea por leyes generales o especiales.
 
-4.- Pago anticipado.
+4.- Pagos anticipados.
 
-El artículo 10 de la Ley 18010, mantiene el sistema de pago anticipado para el deudor que estableció en su tiempo el DL N° 455 y cuyo fundamento obedeció a que, al respetarse en su integridad lo dispuesto en el artículo 2204 del Código Civil y tratándose de un mutuo con intereses, nunca podría el deudor pagar anticipadamente sin consentimiento del acreedor
+El artículo 10 de la Ley N° 18.010, modificado por la Ley N° 19.528, establece que los pagos anticipados de operaciones de crédito de dinero, serán convenidos libremente entre el acreedor y el deudor.
 
-El sistema de pago anticipado que establece este articulo y que obliga al deudor a pagar todos los intereses de la deuda hasta el vencimiento pactado, sea ésta reajustable o no, nunca excluye la posibilidad de que el acreedor le reciba el pago en condiciones menos onerosas.
+No obstante, para las operaciones de crédito de dinero cuyo capital inicial no supere el equivalente de 5.000 unidades de fomento, esa ley le otorga a los deudores el derecho irrenunciable de anticipar su pago aun contra la voluntad del acreedor, siempre que se cumplan las siguientes condiciones:
 
-En ese sentido, esta Superintendencia estima que los bancos y sociedades financieras no deben pretender asilarse en este artículo 10, sino en casos muy justificados, por ejemplo: cuando haya dificultad para recolocar el dinero anticipado en operaciones rentables. Ello porque la única razón que tiene este precepto es que un prepago masivo podría obligar a una institución financiera a prepagar a su vez a sus depositantes, pero, por ello mismo y atendido que siempre se tratará de una situación muy excepcional, conviene en lo posible cobrar lo que realmente les compense el gasto de liquidación anticipada de la operación.
+a) Tratándose de operaciones no reajustables, que el deudor pague el capital que se anticipa y los intereses calculados hasta la fecha de pago efectivo, más la comisión de prepago. Dicha comisión, a falta de acuerdo entre las partes, no podrá exceder el valor de un mes de intereses calculados sobre el capital que se prepaga. En los casos en que se convenga una comisión de prepago, ésta no podrá exceder el valor de dos meses de intereses calculados sobre dicho capital, a la tasa pactada en el respectivo crédito.
 
-Por otra parte, conviene tener presente que en el caso de obligaciones contratadas en letras de crédito, los pagos anticipados se rigen por lo establecido en el artículo 95 de la Ley General de Bancos, que contempla un sistema especial cuyas características se tratan en el N° 8, título II, del Capitulo 9-1 de esta Recopilación Actualizada de Normas.
+b) Tratándose de operaciones reajustables, que el deudor pague el capital actualizado que se anticipa y los intereses calculados hasta la fecha de pago efectivo, más la comisión de prepago. Dicha comisión, a falta de acuerdo entre las partes, no podrá exceder el valor de un mes y medio de intereses calculados sobre el capital que se prepaga. En cambio, cuando se convenga una comisión de prepago, ésta no podrá exceder el valor de tres meses de intereses calculados sobre dicho capital, a la tasa pactada en el respectivo crédito.
+
+Con todo, en los casos en que el importe del pago anticipado sea inferior al 25% del saldo de la obligación, se requerirá siempre el consentimiento del acreedor para efectuarlo.
+
+Estas disposiciones que permiten a los deudores pagar anticipadamente prescindiendo de la voluntad del acreedor, no se aplican cuando el deudor sea una institución fiscalizada por esta Superintendencia, el Fisco de Chile o el Banco Central de Chile.
+
+En todo caso, las normas del artículo 10 de la Ley N° 18.010 no se aplican al tratarse de obligaciones contratadas en letras de crédito, puesto que los pagos anticipados, en este caso, se rigen por lo establecido en el artículo 100 de la Ley General de Bancos, que contempla un sistema especial cuyas características se tratan en el N" 8, título II, del Capítulo 9-1 de esta Recopilación Actualizada de Normas.
+
+Por otra parte, debe tenerse en cuenta que, conforme a lo dispuesto en el artículo 3° transitorio de la Ley N° 19.528, las obligaciones contraídas con anterioridad a la fecha de publicación de esa ley, esto es, antes del 4 de noviembre de 1997, se rigen por las normas en vigor en el momento en que ellas se contrajeron y hasta su extinción.
 
 5.- Normas para la aplicación de tasas de interés variables.
 
