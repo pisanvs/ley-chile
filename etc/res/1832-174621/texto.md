@@ -1,0 +1,3 @@
+Por resolución Nº1.832, de 18 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº99110097 presentada por SALMONES PACIFICO SUR S.A., para instalar y operar un centro de cultivo ubicado en rada Palena, sector sur de la península Coca, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
