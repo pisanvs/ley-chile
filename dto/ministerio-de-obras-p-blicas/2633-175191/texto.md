@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.633, de 30 de junio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº17. Obra Camino M-24-K Quivolgo Puente Lautaro, sector C Putú Quivolgo, Kms. 30.000 al 49.815,494, que figura a nombre de Fernandina Mino Peredo, rol de avalúo 348-24, comuna de Constitución, superficie 8.268,85 m2. La Comisión de Peritos fijó con fecha 10 de junio de 1998, ratificada por tasación de fecha 16 de agosto de 1999, en la cantidad de $661.508. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
