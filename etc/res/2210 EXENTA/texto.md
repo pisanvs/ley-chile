@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.210, de 18 de agosto de 2004, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 2.079 de 2004, de esta Subsecretaría de Pesca, que autorizó al CENTRO DE ESTUDIOS Y DESARROLLO PESQUERO SUR AUSTRAL LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y operación de la flota y distribución espacial de los recursos Anchoveta y Sardina común en la X Región Sur, Isla de Chiloé", en el sentido de incorporar a la embarcación artesanal Kokaleca II, a la nómina de naves participantes en la presente pesca de investigación.
+
+Valparaíso, 18 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
