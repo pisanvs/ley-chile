@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.556, de 31 de julio de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº34, para la obra Camino Ruta 57-CH. Santiago-Los Andes, sector: Túnel-Chacabuco-Bifurcación Auco, Kms. 62.970 al 66.680, que figura a nombre de Agrícola Doña Hilda Ltda., rol de avalúo 25-89, superficie 425 m2, comuna de Rinconada. La comisión de peritos fijó con fecha 7 de agosto de 1995 la indemnización provisional en la cantidad de $127.500, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
