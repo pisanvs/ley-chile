@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.016, de 31 de agosto del 2000, se expropió el lote de terreno Nº675, superficie 273 m2., rol de avalúo 125-224, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Héctor Raúl Torres Farías, ascendente a la cantidad de $3.352.070.
+
+Fiscal del Ministerio de Obras Públicas.
