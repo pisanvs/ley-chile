@@ -1,0 +1,5 @@
+Por Resolución N° 1.392, del 27 de septiembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESCA CHILE S.A., R.U.T. N° 95.023.000-2, para ampliar actividades pesqueras, en orden a incorporar a las plantas ubicadas en Patricio Lynch s/n°, Puerto Chacabuco y Sector 3 Puentes Km. 5,5 Norte, Punta Arenas, en las líneas de elaboración de Fresco-refrigerado, Congelado y Marinado, el recurso hidrobiológico Calamar Loligo gahi.
+
+Deniégase la autorización solicitada respecto de la especie señalada precedentemente, en orden a incorporarla en la línea de elaboración Harina, en virtud de los informes técnicos, normas legales y reglamentarias citadas en Visto.
+
+Santiago, 27 de septiembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
