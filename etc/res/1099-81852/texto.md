@@ -1,0 +1,5 @@
+Por Resolución Nº1.099 de 2 de Septiembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PRODUCTORA Y COMERCIALIZADORA DARWIN LTDA., R.U.T. Nº79.670.130-7, domiciliada en Circunvalación Oriente s/n, Puerto Chacabuco, para ampliar actividades pesqueras, que tiene autorizadas por Resolución Nº530 de 1989, de esta Subsecretaría, en orden a facultaría para incorporar en su planta industrial ubicada Circunvalación Oriente s/n, Puerto Chacabuco, XI Región. la línea de elaboración de ahumado. Facúltase asimismo a la interesada para incluir entre los recursos que puede procesar en la línea de elaboración de ahumado, fresco, congelado, conserva y deshidratado, los denominados Culengue y Almeja dulce.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades. de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 2 de Septiembre de 1991.- Andrés Couve Rioseco Subsecretario de Pesca.
