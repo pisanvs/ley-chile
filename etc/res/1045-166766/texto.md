@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA SUNNAN LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución No. 1.045 de 04 de Septiembre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Sunnan Ltda., domiciliada en Concepción, para desarrollar actividades pesqueras mediante la operación de las embarcaciones "Sunnan IV" y "Sunnan V", en el litoral de las regiones VI, VIII y IX, desde donde extraerá los siguientes recursos hidrobiológicos: Merluza común, congrio negro, congrio dorado, camarón nailon, langostino amarillo, langostino colorado, jurel, sardina española, sardina común, anchoa y caballa. Se deroga el numeral 5° de la resolución No. 44, de 1980 y la resolución No. 402, de 1986, ambas de esta Subsecretaría de Pesca, que autorizan a Pesquera Viento Sur Ltda. para operar las embarcaciones individualizadas en el numeral 2° de la presente resolución.
+
+Valparaíso, 04 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
