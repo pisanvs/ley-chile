@@ -1,0 +1,1 @@
+Restablece gratificación de 20% sobre sueldos fijados en el artículo 4° del decreto-ley N° 246, de 10 de febrero de 1925, que aumenta sueldos a empleados de Correos y Telégrafos, al personal de ambulantes de Correos en servicio en las líneas de Ferrocarriles.
