@@ -1,0 +1,9 @@
+Por resolución Nº 930 de 18 de mayo de 2000 de esta Subsecretaría, autorízase al CENTRO DE ECOLOGIA APLICADA LIMITADA, para efectuar una pesca de investigación dentro del marco del proyecto ''Análisis del programa de monitoreo de la biota y calidad del agua del sector alto del río Bío Bío, proyecto Ralco desarrollado por Endesa'', de conformidad con los Términos Técnicos de Referencia elaborados por la solicitante y aprobados por esta Subsecretaría.
+
+Los objetivos de la pesca de investigación que por la presente resolución se autoriza consisten en caracterizar la composición y la abundancia relativa de la comunidad íctica del río Bío Bío y de los tributarios Villacura, Lolco, Chaquilvin y Lomin y caracterizar algunos aspectos biológicos seleccionados de la fauna íctica con énfasis en los requerimientos alimentarios, poblacionales y estrategias reproductivas.
+
+La pesca de investigación se efectuará en los ríos Bío Bío, Lomin, Lolco, Villacura, Pangue, Queuco, Huequecura y Chaquilvin, VIII Región, por el término de un año, a contar de la fecha de publicación de la presente resolución en el Diario Oficial.
+
+En cumplimiento del objetivo de la presente pesca de investigación, la peticionaria podrá capturar con devolución, mediante equipos de pesca eléctrica, ejemplares de las especies Bagre o tollo, Carmelita de Concepción, Bagre chico, Trucha arcoiris y Trucha fario. El Centro de Ecología Aplicada Limitada, designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su representante legal, don Manuel Antonio Contreras Leiva.
+
+Valparaíso, 18 de mayo de 2000.- Daniel Albarraín Ruiz-Clavijo, Subsecretario de Pesca.
