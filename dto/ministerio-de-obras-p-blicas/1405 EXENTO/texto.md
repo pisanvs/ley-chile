@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.405, de fecha 28 de septiembre de 2001, se expropiaron los lotes de terreno Nº 38, 39 y 40, superficies 51,8 m2, 159,9 m2 y 188,4 m2, rol de avalúo 2203-28, comuna de Puerto Montt, X Región, para la obra ''Camino Ruta 7 Chamiza Quillaipe, Km. 4,83687 al 15,84700'' y se acordó el valor de indemnización con su propietaria doña María Rina Reyes Chávez, ascendente a la cantidad de $588.117.
+
+Fiscal del Ministerio de Obras Públicas.
