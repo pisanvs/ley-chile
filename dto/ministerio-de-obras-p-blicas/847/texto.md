@@ -1,0 +1,3 @@
+Por decreto MOP. No. 847, de 25 de junio de 1998, se expropiaron los lotes de terreno No. s.4 y 5, superficies 152 m² y 101 m², rol de avalúo 44-13, comuna de Peumo, obra Construcción Ciclovías en caminos Red Vial Nacional, Tercera Parte, sector Peumo Codao y se acordó precio de indemnización con su propietario Viña Concha y Toro S.A., ascendente a la cantidad de $ 907.920.-
+
+Fiscal del Ministerio de Obras Públicas.
