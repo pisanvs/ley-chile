@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.775, de 30 de junio de 1999, se expropiaron los lotes de terreno No. s. 7-A, 7-B y 32, superficies 100, 286 y 344 m2, respectivamente, roles de avalúos 197-582, 197-108 y 202-572 de la comuna de Longaví para la obra Camino Ruta L-55, sector Chalet Quemado - Quinta y se acordó precio de la indemnización con sus propietarios Sergio Antonio Fuentes y Otras, Ester del Carmen Hernández Martínez y Otras y Arturo Osvaldo Molina Barra, ascendentes a las cantidades de $ 198.180, lote No. 7-A; $ 321.052, lote No. 7-B y $ 302.555, lote No. 32.-
+
+Fiscal del Ministerio de Obras Públicas.
