@@ -1,0 +1,3 @@
+Por Resolución N° 2.038, de 4 de diciembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por SOCIEDAD PESQUERA OSTRICOLA LINAO LTDA., para un centro de cultivo ubicado en Sector Guapilinao, Bahía Linao, Comuna de Ancud, Provincia de Chiloé, X Región, en virtud de lo dispuesto en el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
