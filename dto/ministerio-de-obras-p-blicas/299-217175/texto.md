@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 299, de 31 de mayo de 1995, se expropiaron los lotes de terreno N°s. 1, 2, 7, 7-A, 28 y 28-A, superficies 131 m2., 596 m2., 72 m2., 72 rn2., 1.434 m2. y 782 m2., roles de avalúo 18-48, 18-56, en trámites, 35-97 y en trámite, comuna de Lolol, para la obra Mejoramiento Camino Santa Cruz Lolol-Bucalemu, sector Santa Cruz Lolol, y se acordó valor de indemnización con sus propietarios Octavió Alejandro Mujica Délano, Nelson Nicanor Cubillos Gaete, Mónica Bernardita Cubillos Gaete, Raúl Emilio Diez Duarte y Lucas Eugenio Quitral Carrasco, ascendente a las cantidades de $1.269.729, $255.771, $255.771, $654.509 y $385.102.
+
+Fiscal del Ministerio de Obras Públicas.
