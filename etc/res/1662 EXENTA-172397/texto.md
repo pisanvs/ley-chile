@@ -1,0 +1,7 @@
+DISPONE INCLUSION DE DON HUGO RENE TRANGULAO HUENUPI, EN NO-MINAS DE SELECCIONADOS PARA GOCE DE SUBSIDIO HABITACIONAL
+
+Res. exenta Nº 1.662, de fecha 10 de julio de 2000, dispone inclusión de don Hugo René Trangulao Huenupi, a las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente el llamado extraordinario Título I 1999 a postulación del Sistema de Subsidio Habitacional para la Atención del Sector Rural para atender a postulantes de la etnia mapuche de las comunas de Lumaco y Purén, provincia de Malleco, IX Región de la Araucanía.
+
+Como consecuencia de lo dispuesto en dicha resolución, queda en 340 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado extraordinario Título I 1999 a postulación del Sistema de Subsidio Habitacional para la Atención del Sector Rural para atender a postulantes de la etnia mapuche de las comunas de Lumaco y Purén, provincia de Malleco, IX Región de la Araucanía y en 50.960 Unidades de Fomento (U.F.) el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.-
+
+Sonia Tschorne Berestesky, Subsecretaria de Vivienda y Urbanismo.
