@@ -1,0 +1,3 @@
+Por resolución Nº 2.002, de 21 de septiembre de 2001, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.336 de 1998, de esta Subsecretaría, sólo en cuanto autorizó a MAESTRANZA TALCAHUANO LTDA. para realizar actividades con la nave Pigargo, en el área marítima de la VIII Región, sobre Camarón nailon, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 21 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
