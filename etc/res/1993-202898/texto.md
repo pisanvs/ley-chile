@@ -1,0 +1,3 @@
+Por resolución Nº 1.993, de 12 de septiembre de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.133 de 1992, sólo en cuanto autorizó a PESQUERA EL GOLFO S.A., para operar la nave "Saint John", en el área marítima comprendida entre la VIII Región y el paralelo 57° L.S., sobre el recurso hidrobiológico Raya Raja spp., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum de la División de Desarrollo Pesquero de esta Subsecretaría citado en Visto.
+
+Valparaíso, 12 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
