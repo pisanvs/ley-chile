@@ -58,7 +58,7 @@ o La correcta aplicación de las disposiciones de este Reglamento corresponderá
 
 o Los proyectos que se realicen en conformidad al presente Reglamento podrán consultar locales destinados a establecimientos comerciales, servicios públicos o de beneficio común, siempre que su superficie no exceda del 20 % de la total construida. En los casos en que las obras se, construyan por etapas, deberá mantenerse la proporción señalada, calculándose en relación a la totalidad de la superficie ya ejecutada.
 
-Estos locales sólo se aceptarán incorporados a edificios colectivos o emplazados en espacios destinados a ellos, no rigiendo esta prohibición en los proyectos que realice la Corvi.
+Estos locales sólo se aceptarán incorporados a edificios colectivos o emplazados en espacios destinados a ellos, no rigiendo esta prohibición en los proyectos que realicen las Corporaciones de la Vivienda, de Mejoramiento Urbano y de Servicios Habitacionales y la Caja Central de Ahorros y Préstamos.
 
 En todos los casos, estos locales deberán cumplir con las exigencias de las Ordenanzas locales.
 
