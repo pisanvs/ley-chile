@@ -1,0 +1,3 @@
+Por decreto MOP Nº 218, de 31 de enero del 2000, se expropió el lote de terreno Nº 6-A superficie 381,25 m², rol de avalúo 529-163, comuna de Linares, para la obra Camino Ruta 5 Longitudinal Sur, Sector San Javier - Parral I, Tramo B, Séptima Región y se acordó el valor de indemnización con su propietario Juan Bautista Retamal Vásquez, ascendente a la cantidad de $2.668.142.-
+
+Fiscal del Ministerio de Obras Públicas.
