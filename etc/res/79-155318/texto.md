@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD CRIADERO Y CULTIVOS MARINOS PUREO LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 79, de 05 de Febrero de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, pronunciándose sobre solicitud de 19 de Diciembre de 1985, se autoriza a la Sociedad "Criadero y Cultivos Marinos Pureo Ltda.", domiciliado en Calbuco, para instalar y operar una planta elaboradora de recursos hidrobiológicos en las líneas de congelado y conserva, en el Fundo Aurora, Camino a San Juan de la Costa, kilómetro 11, Osorno, en la que empleará como materia prima los siguientes recursos: jurel, mero, pejerrey de mar, salmón del Pacifico, sardina común, sardina española, almeja o taca, almeja, calamar, cholga, chorito, choro zapato, macha, centolla y loco. El recurso salmón deberá provenir de establecimientos de cultivos autorizados.
+
+Valparaíso, 05 de Febrero de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
