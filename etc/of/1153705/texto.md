@@ -1,0 +1,7 @@
+Devolucion de dotes de relijiosas
+
+(Oficio de la Junta de Gobierno al Vicario de Monasterior)
+
+Con fecha 23 del corriente, ha bajado del alto Congreso la órden que sigue:- "Siendo tan antiguo como notorio el clamor de los padres i familias que se creen privados del derecho a los causales que se emplean en las dotes de relijiosas que, por su fallecimiento, deberian volver a aquellos que las leyes llaman a la sucesion; i teniendo consideracion a que el incremento que por este medio toman los fondos pertenecientes a manos muertas, es un arbitrio con que, indirectamente, se autoriza a la infraccion de las providencias que facilitan su adquisicion; se acordó que desde el día todas las dotes que se den a las que tomen el hábito de relijiosas, o desde esta fecha entre los conventos, se devuelvan despues de su muerte a quellas personas a quienes corresponderian segun las disposiciones de las leyes, esceptuándose solo de esta regla invariable las relijiosas capuchinas." Se traslada a V.S. para su intelijencia i cumplimiento, mediante las providencias que le tocan.-
+
+Dios guarde, etc.- Octubre 2 de 1811.- Juan Mackena.- Juan Enrique Rosales.- Martin Calvo Encalada.- Juan Miguel Benavente.- Doctor José Gaspar Marin.- Señor Vicario de Monasterios.
