@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 11, de 21 de Enero de 1985, se expropiaron las mejoras contenidas dentro de los lotes N°s. 3 Manzana N° 8 y 2 Manzana N° 31, rol de avalúo de los terrenos 890-6, comuna de Coyhaique, XI Región, para Calle Rodaje en Aeropuerto Balmaceda y se acordó el precio de las indemnizaciones con sus propietarios don Cecilio Aguilar del Río y don Segismundo Domke Albornoz, ascendentes a $ 447.353 para el lote N° 3, Manzana N° 8 y $ 354.582 para el lote N° 2, Manzana N° 31.-
+
+Fiscal Subrogante del Ministerio de Obras Públicas.
