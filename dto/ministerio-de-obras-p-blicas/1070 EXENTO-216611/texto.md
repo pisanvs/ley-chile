@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.070 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº72-C, superficie 151 m2., Rol Nº502-416, comuna de Retiro, VII Región para la obra: "Camino Ruta L-75, Sector: El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario María Gladys Monserrat Hernández Valdés, ascendente a la cantidad de $601.309.-
+
+Fiscal del Ministerio de Obras Públicas.
