@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.973, de 19 de noviembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº201112043 presentada por MARIA ORIANA HERNANDEZ MANSILLA, para instalar y operar un centro de cultivo ubicado en canal Errázuriz, lado weste de isla Traiguén (sector 1), XI Región.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
