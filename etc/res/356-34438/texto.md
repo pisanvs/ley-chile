@@ -1,0 +1,3 @@
+Por Resolución N°356 de 11 de Abril de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento Y Reconstrucción, cadúcase la Resolución N°11, de 1984, de esta Subsecretaría, que autorizó a don RICARDO DEVOTO RIVEROS, R.U.T. N°1.668.360-4, domiciliado en calle Atacama N°2822, de Antofagasta, para desarrollar actividades pesqueras de transformación, en virtud de lo prescrito en el artículo 7° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de Abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
