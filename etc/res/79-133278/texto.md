@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA QUELLON LTDA. PARA INICIAR ACTIVIDADES PESQUERAS QUE INDICA
+
+Por resolución Nº 79, de 5 de Julio de 1979, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se autorizó a Pesquera Quellón Ltda. para ampliar las actividades autorizadas por resolución Nº 73, de 1979, de la Subsecretaría de Pesca; la ampliación consiste en la utilización del recurso erizo como materia prima en la elaboración de congelado en la planta de Quellón, Chiloé, X Región; el abastecimiento de erizos se realizará por compras a terceros que lo hayan obtenido en el área Norte del Archipiélago de Chonos, incluyendo las costas de las Islas Concoto, Chaffers, Valverde, Rojas García y aguas adyacentes; se autoriza a Pesquera Quellón Ltda. para elaborar hasta 2 toneladas mensuales de erizos como producto terminado, la interesada deberá inscribir la autorización en el Registro del Servicio Nacional de Pesca, bajo el mismo número asignado al establecimiento autorizado por resolución Nº 73, de 19 de Febrero de 1979.
+
+José Radic Prado, Subsecretario de Pesca.
