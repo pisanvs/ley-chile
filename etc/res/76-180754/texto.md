@@ -1,0 +1,3 @@
+Por resolución Nº 76, de 23 de enero de 2001, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.469, de 1997, de esta Subsecretaría, sólo en cuanto autorizó a HUGO ANTONIO QUEZADA CERDA para realizar actividad extractiva con la nave ''Puerto Alcudia'' sobre los recursos Anchoveta y Sardina común, en el área marítima de la V Región, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 23 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
