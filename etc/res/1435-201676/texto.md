@@ -1,0 +1,3 @@
+Por resolución Nº 1.435, de 18 de julio de 2002, de esta Subsecretaría, autorízase a GEOMAR S.A., para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 741 de 2002, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Forestal Nº 1108, Parque Industrial, Coronel, VIII Región, en la línea de proceso de Fresco-Refrigerado, el recurso hidrobiológico Loco Concholepas concholepas.
+
+Valparaíso, 18 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
