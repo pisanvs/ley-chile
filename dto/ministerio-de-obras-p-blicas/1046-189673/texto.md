@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.046, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº99, superficie 71 m², rol de avalúo 520-10, comuna de Parral, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00", y se acordó el valor de indemnización con su propietario María Gabriela Sepúlveda Zúñiga y Otro, ascendente a la cantidad de $247.982.-
+
+Fiscal del Ministerio de Obras Públicas.
