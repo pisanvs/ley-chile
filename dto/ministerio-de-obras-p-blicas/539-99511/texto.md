@@ -1,0 +1,7 @@
+Por decreto M.O.P Nº539, de 29 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+M.O.P. Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 29, 38, 40, 44, 53, 61, 63, 64 y 73, para la obra Camino Ruta L-32, sector Cruce Ruta 5, Puente Sifón Kms. 2,320 al 17,666.44, que figuran a nombre Héctor Vera Encina, Joaquín Tapia Campos, Oscar Gatica Villalobos, Ana Cofré Solís, Reinaldo Chacón Campos, Suc. Eugenio Vásquez Lobos, Roberto Orlando Chacón Yáñez, Iglesia Evangélica Pentecostal y Suc.
+
+Yáñez Pérez, roles de avalúo 526-4, 528-55, 528-51, 528-76, 528-31, 528-17, 528-20, 528-77 y 531-17, comuna de Linares, superficies 66, 624, 496, 264, 343, 240, 40, 146 y 30 m²., respectivamente. La Comisión de Peritos compuesta por los señores Sergio Lay Gómez, Carlos Sottolichio Díaz y Claudio Burgos Valera, fijó con fecha 23 de julio de 1997, el valor provisional de las indemnizaciones en las cantidades de $19.880, lote Nº29; $112.320, lote 38, $89.280, lote 40, $47.520, lote 44, $63.450, lote 53, $36.000, lote 61, $6.000, lote 63, $24.900, lote 64 y $4.500, lote 73. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
