@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 737, de fecha 30 de Noviembre de 1995, se expropiaron los lotes de terrenos N°s. 13, 16, 17, 19, 20 y 21, superficies 390, 160, 140, 237, 70, 50 y 175,26 M2, respectivamente, roles de avalúos 18-192, 18-189, 18-63, 18-73, 18-41 y 18-58, comuna de Lolol, para la obra Camino Santa Cruz Lolol, sector Puente Naval 1 y se acordó precio de indemnización con sus propietarios Uriel Galaz Hernández, Juan Verdugo Hernández, Luis Bravo Gaete, Elías Poblete Palominos, Osvaldo León Peñaloza y Juan Pizarro Cubillos, ascendente a las cantidades de $531.554, $1.659.739, $556.826, $1.193.934, $381.776 y $1.203.666.
+
+Fiscal del Ministerio de Obras Públicas.
