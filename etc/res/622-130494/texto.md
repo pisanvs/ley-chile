@@ -1,0 +1,7 @@
+AUTORIZA A SOCIEDAD RIO BLANCO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 622, de 27 de Junio de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Río Blanco Limitada, R.U.T. No. 79.719.620-7, domiciliada en Puerto Montt, para ampliar actividades pesqueras, autorizadas por resolución No. 976, de 1987, de esta Subsecretaría, en orden a incluir en la planta industrial, ubicada en Puerto Montt Pasaje San Andrés No. 50, X Región, autorizada por la resolución antes citada, en la línea de elaboración de fresco - enfriado, además de los recursos autorizados, los siguientes: Choro zapato, Cholga, Chorito, Loco, Almeja, Macha, Caracol trumulco, Lapa, Ostra, Picoroco, Jaiba mora, Centolla, Centollón, Congrio negro, Merluza de cola, Jurel, Tollo, Róbalo, Bacalao o mero, Salmón del Pacífico, Salmón del Atlántico. Deberá adquirir el recurso Salmón de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 27 de Junio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
