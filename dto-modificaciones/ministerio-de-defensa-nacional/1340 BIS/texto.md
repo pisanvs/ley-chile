@@ -2160,11 +2160,23 @@ Las disposiciones indicadas en el artículo anterior también quedarán rigiendo
 
 #### Artículo TRANSITORIO
 
-Derogado.
+En el tramo del Canal Beagle comprendido entre el meridiano 68º, 36' 38,5 W. y su boca oriental, se establece lo siguiente para los efectos que se indican:
 
-#### Artículo 344°
+A.- PRACTICAJE.
 
-(DEL NUM. Nº2).- Derogado.
+Se aplicará el Reglamento del país a que pertenece el puerto a que acceda el buque.
+
+B.- PILOTAJE.
+
+Tanto los buques chilenos como argentinos aplicarán sus propios reglamentos.
+
+Los buques de terceras banderas que naveguen hacia el Este, aplicarán este reglamento, y los que naveguen hacia el Oeste, aplicarán el Reglamento de Practicaje y Pilotaje para la República Argentina.
+
+Dichos buques izarán en el palo trinquete el pabellón del país cuyo Reglamento de Practicaje y Pilotaje estén aplicando.
+
+Toda nave que navegue el tramo del Canal señalado al comienzo, quedará liberada del pago de los derechos de Practicaje o Pilotaje, o cualquier otro gravamen que exista a este respecto.
+
+Las normas contenidas en este artículo regirán durante el juicio arbitral que se sigue ante el Gobierno de Su Majestad Británica y hasta que se notifique a la República de Chile y a la República Argentina la sentencia del Arbitro.
 
 3.o Asígnasele la siguiente característica y categoría:
 
