@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 77, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación total conforme DS No. 458 de Vivienda y Urbanismo Decreto Ley 2.186 y Ley 18.695. inmueble General Bulnes No. 220, Rol 333-13 Santiago, aparente dominio Virginia Rubio de Sfeir, superficie aproximada a expropiar 220 m2. Deslindes: Norte, 21,60 mts. con otro propietario; Sur, 21,60 mts. con otro propietario; Oriente, 10,19 mts. con calle General Bulnes y Poniente, 10,19 mts. otro propietario indemnización provisional $ 8.555.200.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
