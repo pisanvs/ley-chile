@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº1599, de 12 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº2 Canal Las Brujas Kms. 0,000 al 0,275. Obra: Regadío Pencahue, Canal Oriente, que figura a nombre de Ladislao Bravo Valenzuela, rol de avalúo 101-56, comuna de Pencahue, superficie 147,20 m². La Comisión de Peritos, fijó con fecha 11 de abril de 1999, en la cantidad de $36.800, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
