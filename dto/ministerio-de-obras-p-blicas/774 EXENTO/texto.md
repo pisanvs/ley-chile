@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 774, de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 41, superficie 50,0 m², Rol Nº 5050-54, comuna de Punta Arenas, XIII Región, para la obra "Reposición Ruta 9 y Acceso Aeropuerto, Sector (Ruta 9), Km. 5,31490 a 19,34234, (Acceso Aeropuerto) Km. 0,000 - 1,295819, y se acordó el valor de indemnización con su propietario Sergio Octavio Agostinelli Olivarí, ascendente a la cantidad de $512.300.
+
+Fiscal del Ministerio de Obras Públicas.
