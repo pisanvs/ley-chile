@@ -1,0 +1,3 @@
+Por Resolución N° 1.835, de 25 de octubre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por HECTOR LEONARDO BARRIA MONTIEL, para un sector ubicado en Estero Concheo, Seno Aysén, Comuna de Aysén, Provincia de Aysén, XI Región, por no dar cumplimiento al artículo 14° del D.S. N° 290 de 1993 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
