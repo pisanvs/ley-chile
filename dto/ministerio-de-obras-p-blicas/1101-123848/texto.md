@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.101, de 30 de julio de 1998, se expropió el lote de terreno No. 45, superficie 1.011 m2., Rol de Avalúo 20-154, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los Andes, Sector "G" By Pass Los Andes, km. 5.000,00 al 14.614,11, y se acordó precio de la indemnización con su propietario Vargas Barraza Carlos, ascendente a la cantidad de $ 1.693.076.- para el lote No. 45.
+
+Fiscal del Ministerio de Obras Públicas.
