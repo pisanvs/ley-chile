@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.563 de fecha 28 de noviembre de 2003, se expropió el lote de terreno Nº 46, superficie 404 m2, rol de avalúo Nº 335-60, comuna de Laja, para la obra "Camino Ruta Q-34 Candelaria - La Laja, Sector Millantú - La Laja Km. 20,00000 a 35,88380", VIII Región y se acordó el valor de la indemnización con su propietario Carlos Segundo Ramos Cáceres, ascendente a la cantidad de $864.697.-
+
+Fiscal del Ministerio de Obras Públicas.
