@@ -17812,95 +17812,51 @@ CAPITULO 12-7 (Bancos y Financieras)
 
 MATERIA:
 
-LIMITE DE DEPOSITOS, CAPTACIONES Y PRESTAMOS RECIBIDOS DE OTRAS INSTITUCIONES FINANCIERAS.
+LIMITE DE OBLIGACIONES CON OTRAS INSTITUCIONES FINANCIERAS DEL PAIS.
 
-Las normas del Banco Central de Chile relativas al límite que pueden alcanzar los préstamos, depósitos y captaciones hasta un año plazo,que una entidad financiera puede recibir de otras instituciones financieras establecidas en el país, están contenidas en el Capítulo III.B.2 del Compendio de Normas Financieras.
+Los bancos y sociedades financieras que mantengan obligaciones con otras instituciones financieras del país, deben atenerse a los límites señalados en el N° 3 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
-Sobre la base de esas disposiciones, se imparten las siguientes instrucciones:
+Para dar cumplimiento a dichas normas, las entidades deudoras deberán ceñirse a las instrucciones complementarias contenidas en el presente Capítulo.
 
-### 1. Límites de endeudamiento
+1.- Límites.
 
-Los límites de endeudamiento, individual y global de cada institución financiera
+Las obligaciones de una institución financiera con otras instituciones financieras del país, deben mantenerse permanentemente encuadradas dentro de los límites que se indican a continuación. Para estos efectos, la medición se efectuará sobre la base del "activo circulante depurado" y de las "obligaciones computables" que se indican en los N°s. 2 y 3, respectivamente.
 
-por concepto de préstamos, depósitos y captaciones recibidos de otras entidades
+a) Límite individual. La suma de las obligaciones computables que una institución financiera registre con otra establecida en Chile, no podrá exceder del 3% del activo circulante depurado de la institución deudora o del 3% del activo circulante depurado de la institución acreedora, si este activo fuera mayor que el de la entidad sujeta al límite.
 
-financieras situadas en el país, se determinarán sobre la base de los saldos
+b) Límite global. La suma de las obligaciones computables que una institución financiera registre con las demás instituciones financieras establecidas en Chile, no podrá exceder del 10% de su activo circulante depurado.
 
-promedio mensuales del activo circulante que se indica en el número 5 de este
+2.- Activo circulante depurado.
 
-capítulo, que registre la institución deudora o acreedora, según corresponda.
-
-1.1. Límite individual.
-
-El promedio mensual de los depósitos, captaciones o préstamos hasta un año plazo
-
-que una institución financiera mantenga de otra entidad financiera situada en el
-
-país, no podrá exceder del 3% del promedio de su activo circulante depurado o de
-
-aquél de la entidad financiera acreedora, según cual fuere mayor, registrado en
-
-el mismo mes.
-
-1.2. Límite global.
-
-El promedio mensual de los depósitos, captaciones o préstamos hasta un año plazo
-
-que una institución financiera reciba de las demás entidades financieras
-
-establecidas en Chile, no podrá ser superior al 10% del promedio del activo
-
-circulante depurado de la institución receptora.
-
-### 2. Límites de la Ley General de Bancos
-
-Como resulta obvio, las instituciones financieras deberán observar, además, las limitaciones establecidas en el artículo 84 de la Ley General de Bancos.
-
-### 3. Operaciones afectas
-
-Quedan afectos a los márgenes de tres y diez por ciento todos los depósitos y captaciones, hasta un año plazo, recibidos de otras instituciones financieras del país, así como los préstamos al mismo plazo obtenidos de ellas, excepto los garantizados por documentos de la cartera de colocaciones o de inversiones financieras de la empresa deudora.
-
-Se considerarán dentro de estos límites los depósitos y captaciones a la vista y hasta un año plazo recibidos de otras entidades financieras situadas en el país y registrados en las partidas 3005, 3010, 3020, 3025 y 3030, así como los préstamos obtenidos de esas empresas, tanto en moneda chilena como extranjera, contabilizados en las partidas 3410 y 3415, que no se encuentren garantizados por documentos de la cartera de colocaciones o de inversiones financieras entregados por la entidad deudora a la institución acreedora.
-
-Sin embargo, no se computarán para los efectos de estos márgenes, los depósitos constituidos con cheques y documentos sobre otras plazas, que las entidades bancarias reciban de las demás instituciones financieras.
-
-Las obligaciones en moneda extranjera, provenientes de estos depósitos, captaciones y préstamos, se computarán por su equivalente en moneda chilena calculado sobre la base del tipo de cambio para representación contable, vigente en el período correspondiente.
-
-Las obligaciones reajustables según la Unidad de Fomento se considerarán por el valor que la referida Unidad registraba en la fecha de cierre del mes inmediatamente anterior.
-
-Por otra parte, a las obligaciones reajustables por la variación del tipo de cambio del dólar norteamericano, se les incorporará el reajuste devengado hasta el último día del mes anterior al de la información.
-
-A los depósitos, captaciones y préstamos pactados en esta modalidad y recibidos en el curso del mes informado, se les agregará el reajuste correspondiente a la variación del tipo de cambio entre la fecha de su ingreso y el último día del mismo mes.
-
-Los depósitos, captaciones y préstamos reajustables en Unidades de Fomento recibidos en el curso del mes informado, se considerarán por el valor que dicha Unidad tenía en la fecha de ingreso de la operación, ajustándose al término del mismo mes al valor de la Unidad de Fomento vigente en ese día.
-
-No se considerarán en el cómputo de las obligaciones, los intereses devengados por pagar que se registren en cuentas complementarias.
-
-### 4. Operaciones exentas
-
-No se considerarán para los efectos de estos márgenes, las obligaciones provenientes de las siguientes operaciones:
-
-a) Depósitos, captaciones y préstamos recibidos de instituciones bancarias o financieras situadas en el exterior, trátese o no de oficinas de entes financieros que, a la vez, estén establecidos en Chile;
-
-b) Préstamos recibidos del Banco Central de Chile;
-
-c) Depósitos, captaciones y préstamos recibidos de otras instituciones financieras situadas en el país por los cuales la entidad deudora hubiera entregado documentos de su cartera en garantía a la acreedora. En el caso que los documentos entregados en garantía no alcancen a cubrir el monto total de los respectivos créditos, se considerará no afecta a los límites de que trata este Capítulo sólo la parte igual al monto que alcance la respectiva garantía;
-
-d) Los créditos derivados de los saldos de precio pagaderos a plazo adeudados a las instituciones en liquidación, por la compra de cartera; y,
-
-e) Los refinanciamientos de las operaciones de la "Línea de Crédito BID/BancoCentral de Chile - Banco del Estado de Chile, sobre reactivación industrial".
-
-### 5. Determinación de los márgenes
-
-Los márgenes de tres y diez por ciento a que se refiere este capítulo, se calcularán sobre la base del promedio de la suma de las partidas incluidas en los siguientes rubros del Activo, tanto en moneda chilena como en moneda extranjera, registrados en el mes de que se trate:
+El activo circulante depurado se conforma por la suma de los saldos, tanto en moneda chilena como extranjera, de los siguientes rubros o partidas, con las excepciones que se indican:
 
 a) Fondos disponibles, excepto las partidas 1015 y 1020.
 
-b) Colocaciones, con excepción de las colocaciones contingentes, de las colocaciones en letras de crédito (partidas 1245, 1305, 1310 y 1315, más las cuentas "Préstamos en letras de crédito vencidos" de las partidas 1401 y 1416) y de las cuentas Deudores por Cartas de Crédito Negociadas y Créditos para Importación, de las partidas 1125 y 1220.
+b) Colocaciones, con excepción de las colocaciones contingentes (partidas 1605 a 1660), las colocaciones en letras de crédito (partidas 1305 a 1315) y las colocaciones reprogramadas con recursos del Banco Central de Chile (partidas 1235 y 1245).
 
-c) Operaciones con pacto de retrocompra.
+c) Operaciones con pacto de retrocompra (partidas 1690 y 1695).
 
-d) Inversiones financieras.
+d) Inversiones financieras (partidas 1705 a 1750).
+
+3.- Obligaciones computables.
+
+Se considerarán dentro de estos límites todas las obligaciones a plazo registradas en el pasivo a favor de otras instituciones financieras del país, cuyo plazo residual de vencimiento sea igual o inferior a un año a contar de la fecha del cómputo. No se consideran, por consiguiente, las obligaciones a la vista (partidas 3005 a 3015) y aquella parte de las obligaciones a plazo que será exigible a más de un año.
+
+Además, de acuerdo con lo establecido en el Capítulo III.D.l del Compendio de Normas Financieras del Banco Central de Chile, deben computarse como obligaciones las "pérdidas diferidas" de las operaciones con derivados efectuadas con las demás instituciones financieras del país. Para este efecto, se entenderá por "pérdida diferida" de un contrato derivado, el monto correspondiente a su equivalente de crédito calculado bajo las mismas reglas que las instituciones acreedoras deben aplicar para determinar sus activos ponderados por nesgo según lo previsto en el N° 3 del título II del Capítulo 12-1 de esta Recopilación.
+
+No obstante lo indicado en los párrafos precedentes, no se considerarán como obligaciones computables, quedando en consecuencia exentas de los límites de que trata este Capítulo, los montos adeudados que se encuentren cubiertos con garantías constituidas con documentos de la cartera de inversiones financieras del deudor, cuando dichos documentos correspondan a alguno de los señalados en las letras a), b) o c) del N° 1 del Capítulo 8-21 de esta Recopilación.
+
+4.- Valor de los pasivos, activos y garantías.
+
+Las obligaciones en moneda extranjera, como asimismo los activos en moneda extranjera que conforman el activo circulante depurado, se computarán por su equivalente en moneda chilena calculado al tipo de cambio de representación contable que se encuentre vigente al momento del cómputo.
+
+Los pasivos y activos reajustables se sumarán con sus respectivos reajustes que se encuentren contabilizados al momento del cómputo.
+
+Las operaciones sujetas a intereses, incluirán los intereses devengados que se encuentren registrados contablemente a la fecha del cómputo.
+
+En el curso de un mes y antes de su último día, los importes correspondientes a los equivalentes de crédito de las operaciones con instrumentos derivados podrán corresponder a los calculados para los mismos al último día del mes anterior, o bien a los calculados a la fecha de las operaciones, si éstas se realizaron en el mes en curso.
+
+Las garantías sobre las operaciones deben computarse según el valor contable de los instrumentos a la fecha del cómputo, incluyendo, cuando corresponda, el ajuste a valor de mercado que se encuentre registrado para esos documentos según lo previsto en el Capítulo 8-21 de esta Recopilación.
 
 CAPITULO 12-9 (Bancos y Financieras)
 
@@ -18034,7 +17990,7 @@ Corresponde a los saldos en moneda chilena no reajustable de las partidas 3005, 
 
 d) Disponible.
 
-Incluye los saldos pertinentes de las partidas 1005 a 1020.
+Incluye los saldos pertinentes de las partidas 1005 a 1015.
 
 IV.- MARGEN DE OPERACIONES EN MONEDA EXTRANJERA.
 
