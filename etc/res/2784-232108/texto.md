@@ -1,0 +1,3 @@
+Por resolución Nº 2.784, de 30 de septiembre de 2004, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.751 de 2004, de esta Subsecretaría de Pesca, que autorizó a ACUARIOS DE CHILE LIMITADA, para capturar y mantener en cautiverio seis ejemplares juveniles de Lobo marino común Otaria flavescens con fines de educación, de entretención familiar y atracción turística, de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Aquazoo", en el sentido de señalar que la autorización para la captura de ejemplares se extenderá hasta el 30 de octubre de 2004.
+
+Valparaíso, 30 de septiembre de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
