@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.024, de 30 de julio de 2004 de esta Subsecretaría, prorrógase hasta el 15 de agosto de 2004 el período de extracción del recurso loco Concholepas concholepas desde las áreas de manejo establecidas entre la VII y XI regiones que, contando con una cuota de extracción autorizada para el recurso indicado, no hubiere sido extraída en su totalidad al 31 de julio del presente, quedando sometido en lo demás a las disposiciones establecidas en las resoluciones que autorizaron la extracción.
+
+Valparaíso, 30 de julio de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
