@@ -1,0 +1,3 @@
+Por decreto MOP Nº462 de fecha 28 de febrero del 2002, se expropiaron los lotes de terreno Nos 87, 89, 87-A, 88-A, 88-B, 89-A, superficie 854,48, 903,19, 1.813,47, 3.198,85, 402,90 y 77,56 m² respectivamente, Rol de Avalúo Nº131-29, comuna de Dalcahue, para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647" y se acordó el valor de indemnización con su propietario Edith del Carmen Triviño Barría, ascendente a la cantidad de $46.761.223.-
+
+Fiscal del Ministerio de Obras Públicas.
