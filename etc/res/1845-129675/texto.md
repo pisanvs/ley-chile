@@ -1,0 +1,5 @@
+Por resolución Nº 1.845, de 18 de diciembre de 1998, de esta Subsecretaría, autorízase a PESQUERA UNICHILE S.A., para ampliar actividades pesqueras autorizadas por las resoluciones Nº 511, de 1987, Nº 1.204, de 1988 y Nº 990, de 1990, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Km. 1,8, Camino a Huicha s/nº, comuna de Chonchi, provincia de Chiloé, X Región, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Fresco-refrigerado y Congelado: Anguila, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Lenguado de ojos chicos, Puye, Reineta, Salmón rey, Sierra, Marrajo o tiburón, Tollo, Tollo de cachos, Turbot, Abalón, Abalón japonés, Caracol caramujo, Chocha, Cholga, Ostión del norte, Ostión del sur, Ostra chilena, Ostra del Pacífico, Macha, Choro, Chorito, Loco, Picoroco, Erizo, Pepino de mar y Piure.
+
+Los recursos Turbot, Abalón, Abalón japonés, Ostión del norte y Ostra del Pacífico, deberán provenir de centros de cultivos autorizados.
+
+Valparaíso, 18 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
