@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.321 de 03 de Agosto de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector no donado y Sector donado Predio "Hijuela No. 1 del Fundo Sanita Filomena" de la comuna de Paine, Región Metropolitana: y Derechos Aprovechamiento Aguas que corresponden a parcela No. 24 parte y sitios Nos. 1 al 12 del Proyecto de Parcelación "os Maitenes y Santa Teresa" formado por predio señalado. Los Derechos de Agua se extraen del canal Huidobro derivado del río Maipo y del canal Agua Clara derivado del Estero El Inca o Escorial. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
