@@ -6,7 +6,7 @@ Núm. 206.- Vistos: la solicitud del interesado; el oficio de la Corporación de
 
 Decreto:
 
-1º.- Autorizase al señor Antonio Padrós B., para establecer un Servicio particular de Agua Potable en el sector El Colorado, de la comuna de Las Condes, provincia de Santiago, ubicado entre La Parva y Farellones, cuyo proyecto, que lleva el Nº 4385, fue presentado al estudio y consideración de la División de Servicios Sanitarios de la Corporación de Obras Urbanas.
+1º.- Autorizase al señor Antonio Padrós B., para establecer un Servicio particular de Agua Potable en el sector El Colorado, de la comuna de Las Condes, provincia de Santiago, ubicado entre La Parva y Farellones, cuyo proyecto, que lleva el Nº 4355-A, fue presentado al estudio y consideración de la División de Servicios Sanitarios de la Corporación de Obras Urbanas.
 
 2º.- El plazo de la concesión será de veinticinco años, contados desde la fecha de la resolución que apruebe la recepción de las obras y las declare en explotación. La resolución aludida no podrá expedirse si este decreto no estuviere publicado en el Diario Oficial y reducido a escritura pública. Una vez expirado dicho plazo, si no fuere prorrogado, las obras e instalaciones materia de la concesión, pasarán a dominio fiscal.
 
@@ -25,6 +25,8 @@ Decreto:
 9º.- El concesionario no podrá ejecutar extensiones de las redes de agua potable fuera de la zona de concesión, como tampoco podrá transferirla o cederla en todo o en parte, sin previa autorización gubernativa. Las solicitudes respectivas deberán ser presentadas a la División de Servicios Sanitarios de la Corporación de Obras Urbanas.
 
 10.- El presente decreto, después de publicado en el Diario Oficial, deberá ser reducido a escritura pública dentro del plazo de 60 días, la que será suscrita conjuntamente por el Gerente de la División de Servicios Sanitarios y el concesionario o su representante legal.
+
+> **Nota.** El Nº 2 del Artículo primero del Decreto 341, Vivienda, publicado el 11.10.1975, modifica la presente norma en el sentido de fijar el programa de ejecución de obras de agua potable en los términos que la citada disposición indica.
 
 Anótese, tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE. General de Ejército, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- Arturo Vivero Ávila, General de Brigada, Ministro de la Vivienda y Urbanismo.
 
