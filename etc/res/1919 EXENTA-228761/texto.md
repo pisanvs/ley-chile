@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.919, de 15 de julio de 2004 de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A., para ampliar actividades pesqueras de transformación, en orden a operar una planta ubicada en Ruta 68, kilómetro 104 Nº 1602, Placilla, Valparaíso, V Región, donde podrá procesar en las líneas de elaboración de Fresco-Enfriado y Fresco-Refrigerado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 15 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
