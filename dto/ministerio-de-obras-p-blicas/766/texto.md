@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 766, de 19 de junio de 1998, se dejó sin efecto el decreto M.O.P. No. 342, de 31 de marzo de 1998, en la parte que se refiere a los lotes No. s. 7, 72, 74 y 75, roles de avalúo No. s. 22-273 y 94-103, de las comunas de Río Claro y Pelarco, para la ejecución de la obra Camino Los Robles - Huencuecho - Bajo Perquín, sector Los Robles - Huencuecho.
+
+- Fiscal del Ministerio de Obras Públicas.
