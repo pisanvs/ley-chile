@@ -1,0 +1,3 @@
+Por resolución Nº647, de 22 de abril de 1999, de esta Subsecretaría, modifícase la resolución Nº1.903 de 1998, de esta Subsecretaría, que fijó la nómina de armadores y embarcaciones habilitados para operar en la unidad de pesquería de Raya volantín Raja flavirostris, en el litoral comprendido entre el límite norte de la VIII Región y el paralelo 41°28,6' L.S., señalada en el artículo primero del D.S. Nº577 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, en el área de sus respectivas autorizaciones, en el sentido de incorporar en el numeral 1º lo siguiente: ''Pesquera Friosur S.A.: Friosur IX.''.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
