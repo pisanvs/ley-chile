@@ -1,0 +1,9 @@
+Por resolución Nº 932, de 18 de mayo de 2000, de esta Subsecretaría de Pesca, autorízase a PESQUERA Y COMERCIAL VALPOMAR LIMITADA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Pasaje Miramar Nº 3035, comuna de Punta Arenas, provincia de Magallanes, XII Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Congelado, Fresco-Refrigerado y Conserva: Erizo, Caracol piquilhue, Caracol trophon, Caracol trumulco, Culengue, Cholga, Choro, Chorito, Lapa, Loco, Macha, Ostión del sur, Ostión del norte, Pota o Calamar del Atlántico, Pulpo, Centolla, Centollón, Jaiba, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba panchote, Jaiba peluda o pachona, Jaiba reina, Jaiba remadora, Merluza de cola, Merluza de tres aletas, Merluza del sur, Pejerrey del mar, Raya, Róbalo, Salmón del Atlántico, Salmón plateado, Salmón rey, Trucha arcoiris, Turbot, Almeja o taca, Almeja, Calamar, Bacalao de profundidad, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Huiro, Luga Luga y Luche.
+
+Los recursos hidrobiológicos Turbot, Ostión del norte, Salmón del Atlántico, Salmón plateado, Salmón rey, Trucha arcoiris o Cabeza de acero, deberán provenir de centros de cultivos autorizados.
+
+El recurso Pota del Atlántico deberá cumplir con las normas sobre importación y sanidad correspondientes.
+
+Déjanse sin efecto las resoluciones Nº 299 de 1986, Nº 111 de 1991 y Nº 607 de 1999, todas de esta Subsecretaría, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 18 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
