@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.330 de fecha 30 de agosto de 2002, se expropiaron los lotes de terreno Nº7 y 8, superficie 45,64 y 429,52 m2, rol de Avalúo Nº308-33, comuna de Melipeuco, para la obra ''Camino Melipeuco - Icalma, Sector Melipeuco - Tracura Km. 97,50000 al Km. 104,2038'', IX Región y se acordó el valor de la indemnización con su propietario Víctor Rubén Darío Hasler López, ascendente a la cantidad de $329.941.-
+
+Fiscal del Ministerio de Obras Públicas.
