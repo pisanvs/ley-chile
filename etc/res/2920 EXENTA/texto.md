@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.920, de 19 de noviembre de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Niebla, X Región, individualizada en el artículo 1º del decreto exento Nº 886 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES-BUZOS MARISCADORES Y RECOLECTORES DE PRODUCTOS MARINOS DE LA CALETA DE HUIRO.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
