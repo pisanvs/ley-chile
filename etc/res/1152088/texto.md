@@ -1,0 +1,7 @@
+Indulto
+
+En la causa criminal seguida contra don Antonio Cantuarias, convicto i confeso en el delito de haber hecho dilijencias para promover la insurreccion de los pueblos del norte de este Estado en favor de don José Miguel Carrera, quien lo envió a este efecto desde la Villa del Rio Cuarto cuando dicho Carrera la ocupó ántes de su derrota en la Punta del Médano, se han proveido por el juzgado de alta policía i por este Supremo Gobierno los juzgamientos siguientes:
+
+Santiago, Octubre 11 de 1822. - Vistos: con lo espuesto por el Ministerio Fiscal, se corta esta causa en su actual estado, aplicándose a don Antonio Cantuarias el indulto Supremo de 14 de Setiembre último, conforme a lo expresado en su artículo primero, con especial declaracion que a don José María Mont, don Gabriel González i los otros individuos complicados en la causa, quedan en absoluta libertad, sin que se entienda que han necesitado del indulto para esta providencia; i dése cuenta al Supremo Gobierno como previene el auto de comision, conferido a esta Intendencia para que si esta resolucion fuese aprobada, se aperciba a Cantuarias que el jeneroso olvido que ha hecho el Gobierno de sus crímenes debe obligarle a manifestar su arrepentimiento sincero i dar en lo sucesivo ejemplos de amor al órden. –
+
+Egaña. - Ante mí, Araoz.
