@@ -1,0 +1,3 @@
+Por resolución N° 211, de fecha 10 de febrero de 1994, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 10 meses, a contar del 21 de marzo de 1994, el plazo otorgado a PESQUERA OCEANICA LTDA., R.U.T. N° 82.957.700-3, en orden a iniciar operaciones con la nave "Costa Grande 6", autorizada mediante resolución N° 950, de 1993, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 10 de Febrero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
