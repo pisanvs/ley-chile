@@ -1,0 +1,39 @@
+REACTUALIZA CANTIDADES QUE SEÑALA CONTENIDAS EN LOS ARTICULOS 23° Y 34° , N° 1, DE LA LEY DE LA RENTA Núm. 81- Santiago, 8 de Febrero de 1990.- Vistos: Las facultades que me confieren el N° 8 del artículo 32° y disposiciones transitorias de la Constitución Política del Estado, y lo dispuesto en el inciso final del N° 1 del artículo 34°, de la ley sobre Impuesto a la Renta contenidas en el decreto ley N° 824, de 1974, y sus modificaciones, y
+
+Considerando:
+
+1.- Que en el inciso final del N° 1 del artículo 34° de la Ley de la Renta, según texto fijado por el N° 10 del artículo 1° del decreto ley N° 1.604, de 1976, dispone que las cantidades expresadas en centavos de dólar de los Estados Unidos de Norteamérica que conforman las escalas contenidas en los artículos 23° y 34°, N° 1 de la Ley de la Renta, deben reactualizarse anualmente, mediante decreto supremo, de acuerdo a la variación experimentada por el Indice de Precios al Consumidor en dicho país, en el año calendario precedente, según lo determine el Banco Central de Chile, y
+
+2.- Que de conformidad a lo informado por el Banco Central de Chile, el Indice de Precios al Consumidor en los Estados Unidos de Norteamérica tuvo durante el año calendario 1989 un incremento de 4,64% (cuatro coma sesenta y cuatro por ciento).
+
+Decreto:
+
+Reactualízanse en un 4,64% las cantidades expresadas
+
+en centavos de dólar de los Estados Unidos de
+
+Norteamérica que conforman las escalas contenidas en los
+
+artículos 23° y 34°, N° 1, de la Ley de la Renta, quedando dichas escalas con los siguientes tramos:
+
+a) Escala del artículo 23°:
+
+1% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, no excede de 158,76 centavos de dólar por libra:
+
+2% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 158,76 centavos de dólar por libra y no sobrepasa de 204,10 centavos de dólar por libra, y 4% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 204,10 centavos de dólar por libra.
+
+b) Escala del artículo 34°. N° 1:
+
+4% si el precio promedio de la libra de cobre en el año o ejercicio respectivo no excede de 149,66 centavos de dólar:
+
+6% si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 149,66 centavos de dólar y no sobrepasa de 158,76 centavos de dólar:
+
+10% si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 158,76 centavos de dólar y no sobrepasa de 181,42 centavos de dólar:
+
+15% si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 181,42 centavos de dólar y no sobrepasa de 204,10 centavos de dólar, y 20% si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 204,10 centavos de dólar.
+
+La reactualización antes señalada regirá en la forma dispuesta en la parte final del último inciso N° 1 del artículo 34° de la Ley de la Renta.
+
+Tómese razón, comuniquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Martín Costabal Llona, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte a Ud.- Manuel Brito Viñales, Subsecretario de Hacienda subrogante.
