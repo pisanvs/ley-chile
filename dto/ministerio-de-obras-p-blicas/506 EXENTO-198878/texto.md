@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 506, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 33-B, superficie 337 M2, rol de avalúo 2213-502, comuna de Chillán, VIII Región, para la obra ''Camino Ruta N-45, Sector Cruce N-49 (Chillán)-La Capilla-Tres Esquinas, Km. 0,00000 al 5,88000'' y se acordó el valor de indemnización con su propietaria doña Noemí Eudocia Rojas López, ascendente a la cantidad de $777.374.-
+
+Fiscal del Ministerio de Obras Públicas.
