@@ -1,0 +1,3 @@
+Por resolución Nº 1.992, de 7 de octubre de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 914 de 1990, de esta Subsecretaría, que autorizó a SOCIEDAD COMERCIAL LOS CHONOS LIMITADA, para instalar y operar el centro de cultivo ubicado en Estero Barros, comuna de Cisnes, provincia de Aisén, XI Región.
+
+Valparaíso, 7 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
