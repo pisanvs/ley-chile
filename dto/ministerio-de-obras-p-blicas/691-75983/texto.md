@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 691, de 25 de julio de 1997, se expropiaron los lotes de terreno N°s. 37 y 37-A, superficies 753 y 753 m2 respectivamente, rol de avalúo 208 - 28, comuna de San Javier, para la obra Camino Ruta 5 Longitudinal Sur, Sector San Javier - Parral 1 y se acordó precio de indemnización con sus propietarios Regina Valdéz Valdéz y otros, ascendente a la cantidad de $52.540.214.
+
+Fiscal del Ministerio de Obras Públicas
