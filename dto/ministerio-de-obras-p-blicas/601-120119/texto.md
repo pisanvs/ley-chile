@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº601, de 30 de abril de 1998, se expropió el lote de terreno Nº11, superficie 2.693 m²., rol de avalúo 4427-1, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería, para el Sistema Norte - Sur, Sector Ruta 5 Sur - Departamental y Sector Eje General Velásquez y se acordó precio de indemnización con el propietario Ernesto Sepúlveda Aurolo, ascendente a la cantidad de $126.842.713.
+
+Fiscal del Ministerio de Obras Públicas.
