@@ -1,0 +1,5 @@
+AUTORIZA A DON RAUL MONSALVE PINO PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 406 de 04 de Mayo de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Raúl Monsalve Pino, R.U.T. No. 4.906.794-1, con domicilio en calle Calafquén No. 01447, Antofagasta, para ampliar las actividades pesqueras autorizadas por resolución No. 229, de 29 de mayo de 1984, de esta Subsecretaría, en orden a extraer en el litoral de la I y II Región, con la embarcación "Margarita I", autorizada por resolución No. 34, de 21 de enero de 1985, de esta Subsecretaría, los siguientes recursos hidrobiológico: Bacalao de profundidad.- congrio colorado, congrio negro y congrio dorado.
+
+Valparaíso, 04 de Mayo de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
