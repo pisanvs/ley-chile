@@ -1,0 +1,3 @@
+Por resolución Nº 2.358, de 24 de octubre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96101079 presentada por BERNARDO URIBE URIBE, para instalar y operar un centro de cultivo ubicado en Lote M, Parcela Nº 5, Ribera Norte del Río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 24 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
