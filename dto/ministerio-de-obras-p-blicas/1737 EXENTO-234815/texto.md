@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.737, de fecha 30 de diciembre de 2004, se expropió el lote de terreno Nº 15, superficie 60 m2., Rol Nº 445-45, comuna de Loncoche, IX Región, para la obra "Reposición construcción y habilitación de caminos para vialidad complementaria concesión internacional Ruta 5 Sur, tramo Temuco Río Bueno Puerto Montt, camino conexión calle de servicio 1 (sector Santa Juana), comuna de Gorbea, provincia de Cautín IX Región" y se acordó el valor de indemnización con su propietario don Juan de Dios Silva Obando, ascendente a la cantidad de $971.610.- para el lote Nº 15.
+
+Fiscal del Ministerio de Obras Públicas.
