@@ -1,0 +1,3 @@
+Por resolución Nº 546, de 30 de marzo de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101178 presentada por MARIA EUGENIA GUZMAN MONTANER, para instalar y operar un centro de cultivo ubicado en sector la ribera norte del río Maullín, Comuna de Maullín, Provincia de Llanquihue, X Región.
+
+Valparaíso, 30 de marzo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
