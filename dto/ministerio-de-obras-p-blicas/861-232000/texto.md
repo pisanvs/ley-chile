@@ -1,0 +1,3 @@
+Por decreto MOP Nº 861 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 1, superficie 8.272 m2, Rol de Avalúo Nº 153-4, comuna de Pemuco, para la obra: "Canal Matriz Laja-Diguillín, Faja Adicional, Km. 28,600 del Proyecto Laja Diguillín", VIII Región y se acordó el valor de indemnización con su propietario Héctor Ricardo Acuña Sandoval, ascendente a la cantidad de $8.718.681.
+
+Fiscal del Ministerio de Obras Públicas.
