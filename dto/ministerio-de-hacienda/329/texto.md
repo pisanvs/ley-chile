@@ -1,0 +1,539 @@
+APRUEBA LEY ORGANICA DEL SERVICIO NACIONAL DE ADUANAS
+
+Núm. 329.- Santiago, 16 de Abril de 1979.- Visto: las facultades que me confiere el artículo 2°. del decreto ley N°. 2.554, publicado en el Diario Oficial de 10 de Marzo de 1979,
+
+Decreto:
+
+#### Artículo 1°
+
+Fíjase el texto de la Ley Orgánica del Servicio Nacional de Aduanas que será el siguiente:
+
+LEY ORGANICA DEL SERVICIO NACIONAL DE ADUANAS
+
+## Título I
+
+Objetivo y Organización del Servicio
+
+#### Artículo 1°
+
+El Servicio Nacional de Aduanas es un Servicio Público dependiente del Ministerio de Hacienda, encargado de vigilar y fiscalizar el paso de mercancías por las costas, fronteras y aeropuertos de la República, de intervenir en el tráfico internacional para los efectos de la recaudación de los impuestos a la importación, exportación y otros que determinen las leyes, y de generar las estadísticas de ese tráfico por las fronteras, sin perjuicio de las demás funciones que le encomienden las leyes.
+
+#### Artículo 2°
+
+El Servicio de Aduanas estará constituido por la Dirección Nacional, las Direcciones Regionales y las Administraciones de Aduanas.
+
+La Dirección Nacional está constituida por las siguientes Subdirecciones: Técnica, Jurídica, de Fiscalización, de Gestión y Desarrollo de Personas, Administrativa y de Informática.
+
+Con sujeción a la Planta del Servicio, el Director Nacional establecerá los Departamentos que dependerán de las Subdirecciones, y los que dependerán directamente de él.
+
+Habrá un Comité Asesor y Consultivo, constituido por el Director Nacional, que lo presidirá; por un representante de la Dirección del Litoral y Marina Mercante, de la Dirección de Aeronáutica, de la Dirección General de Carabineros y de la Empresa Portuaria de Chile, respectivamente, cuya función será proponer las normas para coordinar las acciones que desarrolle el Servicio de Aduanas con las funciones que corresponden a las referidas instituciones en materias de tráfico y servicio aduanero.
+
+#### Artículo 3°
+
+La administración del Servicio Nacional de Aduanas corresponderá al Director Nacional, y a los Subdirectores, Directores Regionales y Administradores de Aduanas, en el ámbito de su jurisdicción.
+
+## Título II
+
+Del Director Nacional del Servicio
+
+#### Artículo 4°
+
+El Director Nacional de Aduanas es el Jefe Superior del Servicio, y será nombrado por el Presidente de la República, siendo de su exclusiva confianza.
+
+El Director Nacional tiene la autoridad, atribuciones y deberes inherentes a su calidad de Jefe Superior del Servicio y, en consecuencia, sin que ello implique limitación, le corresponden las siguientes atribuciones, responsabilidades y obligaciones:
+
+1.- Planificar, organizar, dirigir, coordinar y supervigilar el funcionamiento del Servicio.
+
+2.- Fijar y modificar la organización interna de las Unidades del Servicio, asignándole el personal necesario, fijándoles sus atribuciones, obligaciones y dependencias, sin que el ejercicio de esta facultad pueda originar modificaciones en la planta, funciones y estructura del Servicio dentro de las normas establecidas por la ley. En el ejercicio de esta facultad establecerá la estructura organizativa interna del Servicio, de conformidad a su dotación máxima de personal y a lo dispuesto en la ley Nº 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia y determinará las denominaciones y funciones que correspondan a cada una de las unidades establecidas para el cumplimiento de las funciones que le sean asignadas. En dicha estructura considerará, a lo menos, una unidad de Control Fronterizo y Operaciones y una unidad de Contraloría Interna.
+
+3.- Ordenar que cualquiera Aduana sea intervenida por los funcionarios que designe al efecto.
+
+4.- Asesorar e informar al Ministerio de Hacienda en los asuntos propios de la competencia del Servicio y presentarle dentro del primer trimestre de cada año una memoria del Servicio, y dentro de los primeros quince días de cada mes, un estado de las entradas aduaneras del mes anterior.
+
+5.- Convocar y presidir el Comité Asesor y Consultivo, y dictar con acuerdo de éste las normas para su funcionamiento.
+
+6.- Dictar, en conformidad a la ley y el reglamento, las resoluciones de nombramiento de los Agentes de Aduana y ejercer la jurisdicción disciplinaria sobre ellos.
+
+7.- Interpretar administrativamente, en forma exclusiva, las disposiciones legales y reglamentarias de orden tributario y técnico, cuya aplicación y fiscalización correspondan al Servicio, y en general, las normas relativas a las operaciones aduaneras y dictar órdenes e instrucciones necesarias para darlas a conocer a todos los empleados de Aduanas, que estarán obligados a cumplirlas.
+
+8.- Dictar las normas de régimen interno y los manuales de funciones o de procedimiento, órdenes e instrucciones para el cumplimiento de la legislación y reglamentación aduanera y para la buena marcha del servicio, y supervigilar el cumplimiento de todos ellos.
+
+9.- Proponer al Ministerio de Hacienda la dictación de los reglamentos cuya aplicación corresponda al Servicio.
+
+10.- Disponer, mediante resolución fundada, la habilitación de lugares especiales de almacenamiento de mercancías que cumplan con las condiciones técnicas para ello, y que por su naturaleza no puedan ser depositadas en los recintos habilitados, o bien, por ser éstos insuficientes o carecer de elementos materiales adecuados, siéndoles aplicable lo dispuesto en el inciso cuarto del artículo 56 y en los artículos 58 a 62 de la Ordenanza de Aduanas.
+
+11.- Proponer la contratación de personas ajenas al Servicio para atender las operaciones aduaneras en puntos de escasa importancia, las que dispondrán para el desempeño de sus funciones de las facultades, atribuciones y responsabilidades que se le otorguen.
+
+12.- ELIMINADO.
+
+13.- Proponer al Ministerio de Hacienda la designación de expertos especializados en calidad de asesores, a contrata o a honorarios, para estudios, labores docentes u otros trabajos que sean necesarios para el Servicio.
+
+14.- Habilitar extraordinariamente a empleados para que desempeñen las funciones de fiscalizador, cuando así lo requieran las necesidades del Servicio.
+
+15.- Dictar las resoluciones generales o particulares que fueren necesarias en materias relativas a personal, en conformidad al Estatuto Administrativo y demás disposiciones legales vigentes.
+
+16.- ELIMINADO.
+
+17.- Determinar la naturaleza y cuantía de las cauciones que estime conveniente exigir en las tramitaciones, actuaciones y gestiones aduaneras y dictar las normas para hacerlas efectivas.
+
+18.- Delegar en los funcionarios directivos que estime pertinentes, las facultades que le confieren las leyes o reglamentos, cuando las necesidades del Servicio lo requieran.
+
+19.- Eliminado.
+
+20.- Presentar al Ministerio de Hacienda, en la fecha que éste indique, el presupuesto de gastos del Servicio Nacional de Aduanas, como, asimismo, planes y programas para el siguiente año.
+
+21.- Constituir comités internos de trabajo.
+
+22.- Establecer en las Zonas Secundarias, perímetros fronterizos de vigilancia especial, en los cuales las existencias y tráfico de mercancías estarán sujetos a las prohibiciones y restricciones que se establezcan para dicho efecto.
+
+23.- Dispensar, con aprobación del Presidente de la República, total o parcialmente del cumplimiento de las disposiciones aduaneras, al tráfico fronterizo que efectúen las personas que viven al oriente de las aduanas terrestres, con el objeto de abastecerse de las mercancías necesarias para su subsistencia. En la misma forma podrá establecer modalidades especiales para el cobro de los derechos que correspondan.
+
+24.- Efectuar los actos y celebrar los contratos necesarios para el cumplimiento de los fines del Servicio, con cargo a los recursos que legalmente le hayan sido asignados.
+
+Asimismo, podrá celebrar contratos de concesión y arrendamiento respecto de los bienes inmuebles que hubieren sido destinados al Servicio Nacional de Aduanas, o que éste hubiere adquirido para sí o para el Fisco y que estén destinados a dicho servicio.
+
+25.- Convocar a propuestas públicas, aceptarlas o rechazarlas, en conformidad a las disposiciones legales y reglamentarias.
+
+26.- Administrar los bienes del Servicio y velar por su buen uso y conservación, sometiéndose, en todo caso, a las normas que rigen la materia.
+
+27.- Ejercer las demás facultades y atribuciones que la Ordenanza de Aduanas y otras leyes entregaban a la Junta General de Aduanas, que no hayan sido asignadas a otros órganos.
+
+28.- Representar al Servicio en todos los asuntos, incluidos los judiciales, en que la ley le asigne la calidad de parte, o de víctima en los delitos aduaneros, y en los recursos extraordinarios que se interpongan en contra del mismo Servicio con motivo de actuaciones administrativas o jurisdiccionales como, asimismo, deducir, querellas o denuncias por los delitos contemplados en el artículo 7° de la ley N° 18.480, artículo 7° de la ley N° 18.708 y artículos 29, 30 y 31 de la ley N° 18.634, para cuyo efecto podrá, cuando lo estime necesario, requerir la intervención del Consejo de Defensa del Estado.
+
+29.- Ordenar la inserción en extracto de las resoluciones, oficios y cualquier otro acto administrativo que, de conformidad con la ley, deba publicarse en el Diario Oficial, debiendo quedar el texto íntegro publicado en la página web del Servicio.
+
+#### Artículo 5°
+
+Subrogarán al Director Nacional, los Subdirectores en el orden de precedencia que determine el Director Nacional.
+
+El Director Nacional designará a los subrogantes de los Subdirectores, Jefes de Departamento, Directores Regionales, Administradores de Aduanas, y de cualquier otra Jefatura o cargo del Servicio, estableciendo el orden de precedencia, mediante resoluciones genéricas o particulares que serán habilitantes respecto de la persona o del cargo, según se indique.
+
+## Título III
+
+De las Subdirecciones y de los Departamentos
+
+#### Artículo 6°
+
+Los Subdirectores son asesores del Director Nacional en las materias de su especialidad, para lo cual deben recomendarle las normas y someter a su aprobación las instrucciones que estimen conveniente impartir al Servicio. Deben programar, dirigir, coordinar y supervigilar el funcionamiento de los Departamentos a su cargo.
+
+Actúan también como delegados del Director Nacional en la evaluación de los programas de trabajo y de su desarrollo dentro de las respectivas áreas de su especialidad.
+
+#### Artículo 7°
+
+Corresponderá a la Subdirección Técnica, por sí o a través de los Departamentos de su dependencia, proponer al Director Nacional normas e instrucciones para la aplicación de las leyes que el Servicio debe controlar; analizar las estadísticas del comercio exterior; efectuar los estudios relacionados con las técnicas aduaneras, velando por la simplificación, uniformidad, coordinación y agilización de los métodos y procedimientos y ejecutar las demás funciones que le encomiende el Director.
+
+#### Artículo 8°
+
+Corresponderá a la Subdirección de Fiscalización, por sí o a través de los Departamentos de su dependencia, estudiar, proponer y ejecutar programas de fiscalización de los derechos, impuestos, gravámenes, franquicias y tráficos ilícitos que por ley compete controlar al Servicio; realizar directamente fiscalizaciones en las aduanas, a los usuarios y otras personas, sin perjuicio de las atribuciones que las leyes confieren a los Directores Regionales y Administradores de Aduanas; efectuar las investigaciones respecto de despachadores, almacenistas y otras personas que se encuentran sujetas a la jurisdicción disciplinaria del Servicio Nacional de Aduanas; inspeccionar en cualquier momento las dependencias ubicadas en zonas primarias de jurisdicción y ejecutar las demás funciones que le encomiende el Director.
+
+#### Artículo 9°
+
+Corresponderá a la Subdirección Administrativa, por sí o a través de los Departamentos de su dependencia, planificar y coordinar funcionalmente las labores administrativas del Servicio, de finanzas, bienes y servicios; proponer los proyectos de presupuesto anual para el Servicio, supervigilar su ejecución y las demás funciones que le encomiende el Director.
+
+#### Artículo 10
+
+Corresponderá a la Subdirección Jurídica, por sí o a través de los departamentos de su dependencia, preparar los informes legales que le solicite el Director Nacional y otras unidades del Servicio; defender al Servicio, si el Director Nacional lo estima necesario y sin perjuicio de las facultades que le corresponden al Consejo de Defensa del Estado en conformidad a su Ley Orgánica, en todos los asuntos que la Ley le asigne la calidad de parte, en las acciones o recursos extraordinarios que se interpongan en contra de las autoridades o funcionarios del Servicio y en general en todo asunto de carácter jurisdiccional o administrativo relacionado con el ejercicio de las funciones que la ley le encomienda a la Aduana y las demás funciones que le asigne el Director.
+
+#### Artículo 11°
+
+Corresponderá a la Subdirección de Informática, por sí o a través de los Departamentos de su dependencia, desarrollar, analizar y controlar los sistemas computacionales requeridos por el Servicio, administrar el uso, mantención y operación de los equipos, archivos y programas computacionales del Servicio; velar por la seguridad e integridad de los datos que se administren computacionalmente en cualquier medio electrónico o magnético y las demás funciones que le asigne el Director.
+
+#### Artículo 12°
+
+Corresponderá a la Subdirección de Gestión y Desarrollo de Personas, por sí o a través de los departamentos de su dependencia, proponer y ejecutar la política del Servicio en materia de recursos humanos, particularmente, sobre admisión, capacitación, promoción, traslados, destinaciones, bienestar del personal; efectuar o encargar los estudios que se estimen necesarios para la adecuada gestión del área y las demás funciones que le asigne el Director.
+
+#### Artículo 12°
+
+A: Corresponderá al Departamento Nacional de Capacitación, entre otras funciones:
+
+a) Detectar las necesidades de capacitación del personal en materias de orden técnico - aduanero, jurídico y de formación general.
+
+b) Planificar y ejecutar políticas de capacitación interna para el personal y satisfacer los requerimientos de capacitación de otras instituciones públicas en materias de carácter aduanero.
+
+c) Preparar y difundir el material didáctico que sea necesario para el perfeccionamiento y la actualización técnica de los funcionarios.
+
+d) Promover la publicación de textos de carácter general y monográfico, relativos a materias de orden aduanero.
+
+e) Coordinar la capacitación de funcionarios en organismos externos al Servicio, sean nacionales o extranjeros.
+
+f) Atender el funcionamiento de bibliotecas y centros de documentación.
+
+#### Artículo 12°
+
+B: DEROGADO
+
+#### Artículo 12°
+
+C: DEROGADO
+
+#### Artículo 13°
+
+Corresponderá a los comités internos de trabajo, entre otras funciones, a requerimiento del Director Nacional:
+
+a) Actuar como grupos asesores del Director Nacional.
+
+b) Estudiar, analizar y opinar en relación a proyectos sobre modificaciones de normas aduaneras y administrativas.
+
+c) Estudiar y proponer a requerimiento del Director Nacional soluciones a cuestiones planteadas por éste.
+
+## Título IV
+
+De las Direcciones Regionales y de las Administraciones de Aduanas
+
+#### Artículo 14°
+
+Las Direcciones Regionales de Aduana son las siguientes:
+
+1.- Arica, con jurisdicción sobre la XV Región.
+
+2.- Iquique, con jurisdicción sobre la I Región.
+
+3.- Antofagasta, con jurisdicción sobre la II y III Regiones.
+
+4.- Coquimbo, con jurisdicción sobre la IV Región.
+
+5. Valparaíso, con jurisdicción en la Región de Valparaíso, sobre las provincias de Isla de Pascua, Petorca, Quillota, Marga Marga y Valparaíso.
+
+6. San Antonio, con jurisdicción en la Región de Valparaíso, sobre la provincia de San Antonio.
+
+7. Los Andes, con jurisdicción en la Región de Valparaíso, sobre las provincias de Los Andes y San Felipe de Aconcagua.
+
+8.- Metropolitana, con jurisdicción sobre la Región Metropolitana y la VI Región.
+
+9.- Talcahuano, con jurisdicción sobre la Región del Maule, Región de Ñuble y Región del Bíobío.
+
+10.- Araucanía, con jurisdicción sobre la Región de La Araucanía.
+
+11.- Puerto Montt, con jurisdicción sobre la X y XIV Región.
+
+12.- Coyhaique, con jurisdicción sobre la XI Región.
+
+13.- Punta Arenas, con jurisdicción sobre la XII Región.
+
+#### Artículo 15°
+
+A cargo de cada una de las Direcciones Regionales señaladas en el artículo anterior, estará un Director Regional, al que le corresponderá, además de las funciones señaladas en el artículo 17, las siguientes: ARTICULO 15 (DEL ART. 1) - Supervisar y coordinar el funcionamiento del Servicio en la Región o Regiones a su cargo, velando por el fiel cumplimiento de las instrucciones que emanen de la Dirección Nacional.
+
+2.- Atender las consultas de las diversas Aduanas de la región y controlar los procedimientos de trabajo y el cumplimiento de las normas impartidas.
+
+3.- Formular al Director Nacional todas aquellas observaciones que le sugiera el servicio aduanero en relación a su región y proponer las medidas o reformas que estime convenientes.
+
+4.- Preparar y presentar los proyectos de presupuesto regionales y velar por la correcta ejecución del presupuesto asignado.
+
+5.- Desempeñar las demás funciones y cometidos que le encomienden las leyes, reglamentos, decretos, instrucciones y aquellas facultades que le delegue el Director Nacional.
+
+6.- ELIMINADO.
+
+7.- Coordinar, según corresponda, las actividades a su cargo con las de la Dirección del Litoral y Marina Mercante, Dirección de Aeronáutica, Carabineros y Empresa Portuaria de Chile, en su respectivo ámbito de competencia, a fin de armonizar las acciones que competen a dichos servicios en el tráfico aduanero.
+
+#### Artículo 16°
+
+Los Departamento Administraciones Aduanas y las Administraciones de Aduanas estarán a cargo de un funcionario que se denominará Jefe de Departamento Administración Aduana y Administrador Aduana, respectivamente.
+
+#### Artículo 17°
+
+A los Administradores de Aduanas, corresponderá:
+
+1.- Administrar la Aduana a su cargo y disponer el cumplimiento de las disposiciones legales y reglamentarias cuya aplicación esté encomendada a las Aduanas.
+
+2.- Formular al Director Regional todas aquellas observaciones que le sugiera el Servicio Aduanero en relación a su Aduana y proponer las medidas o reformas que estime convenientes.
+
+3.- Supervisar las actuaciones de las personas autorizadas para despachar mercancías.
+
+4.- Ejercer autoridad directa sobre todos los empleados de su Aduana.
+
+5.- Ordenar la instrucción de sumarios administrativos y designar, en cada caso, los fiscales que deban instruirlos.
+
+6.- ELIMINADO.
+
+7.- ELIMINADO.
+
+8.- Delegar en los Jefes de Unidades que estime pertinentes las facultades administrativas que se le confieren en leyes y reglamentos, cuando las necesidades del Servicio lo requieran.
+
+9.- Prohibir o reglamentar la entrada y salida de personas de los recintos y locales en que se hagan o pueda haber actuaciones aduaneras y movilización de mercancías, sin perjuicio de las atribuciones de otras autoridades competentes.
+
+10.- Presentar al Director Regional el proyecto de presupuesto de su Aduana.
+
+11.- Velar por el depósito de las mercancías que se encuentran bajo custodia de su Aduana.
+
+12.- Coordinar, según corresponda, las actividades a su cargo con las de la Dirección del Litoral y Marina Mercante, Dirección de Aeronáutica, Carabineros y Empresa Portuaria de Chile, en su respectivo ámbito de competencia, a fin de armonizar las acciones que competen a dichos servicios en el tráfico aduanero.
+
+13.- Suspender preventivamente, por resolución fundada, a los despachadores de Aduana hasta por quince días, dando cuenta inmediata de ello al Director Nacional, quien, atendidas las circunstancias, podrán prorrogarla hasta por sesenta días.
+
+14.- Nombrar a un funcionario de su dependencia, que recibirá el nombre de Secretario, quien se desempeñará como ministro de fe en las actuaciones administrativas.
+
+## Título V
+
+1.- Ingreso al Servicio
+
+#### Artículo 18°
+
+Para incorporarse al Servicio Nacional de Aduanas se requiere reunir las condiciones generales y requisitos de ingreso señalados en la ley.
+
+#### Artículo 19°
+
+El personal que ingrese al Servicio en el último grado del respectivo escalafón, se considerará como a contrata durante el primer año. En el transcurso de este período por decreto o resolución la autoridad que lo designó podrá poner término a sus funciones.
+
+2.- Planta del Servicio
+
+#### Artículo 20°
+
+La Planta de Personal del Servicio Nacional de Aduanas será la siguiente:
+
+Planta/Cargo Grado E.S.F. Número Cargos
+
+DIRECTIVA EXCLUSIVA
+
+CONFIANZA
+
+Director Nacional 1 1
+
+Subdirectores 2 6
+
+Jefes Departamentos 3 6
+
+Directores Regionales 3 4
+
+Jefes Departamentos 4 4
+
+Directores Regionales 4 5
+
+Jefes Departamentos 5 22
+
+Jefes Departamentos 6 7
+
+-----
+
+55
+
+CARGOS DE CARRERA
+
+Directivos 6 17
+
+Directivos 7 16
+
+Directivos 8 8
+
+Directivos 9 7
+
+-----
+
+48
+
+PROFESIONALES
+
+Profesionales 5 14
+
+Profesionales 6 17
+
+Profesionales 7 14
+
+Profesionales 8 14
+
+Profesionales 9 14
+
+Profesionales 10 22
+
+Profesionales 11 22
+
+Profesionales 13 10
+
+Profesionales 14 10
+
+Profesionales 15 7
+
+Profesionales
+
+-----
+
+154
+
+FISCALIZADORES
+
+Fiscalizadores 10 28
+
+Fiscalizadores 11 26
+
+Fiscalizadores 12 47
+
+Fiscalizadores 13 76
+
+Fiscalizadores 14 68
+
+Fiscalizadores 15 62
+
+------
+
+307
+
+TECNICOS
+
+Técnicos 14 21
+
+Técnicos 15 22
+
+Técnicos 16 27
+
+Técnicos 17 37
+
+Técnicos 18 45
+
+Técnicos 19 62
+
+Técnicos 20 30
+
+-----
+
+244
+
+ADMINISTRATIVOS
+
+Administrativos 16 30
+
+Administrativos 17 27
+
+Administrativos 18 45
+
+Administrativos 19 75
+
+Administrativos 20 64
+
+Administrativos 21 60
+
+Administrativos 22 30
+
+------
+
+331
+
+AUXILIARES
+
+Auxiliares 19 27
+
+Auxiliares 20 30
+
+Auxiliares 21 35
+
+Auxiliares 22 31
+
+Auxiliares 23 29
+
+-----
+
+152
+
+TOTAL: 1.291
+
+> **Nota.** El Artículo 7º de la LEY 19479, sustituye, a contar del día 1º de noviembre de 1995, la Planta del Personal del Servicio Nacional de Aduanas.
+
+3.- Prohibiciones y obligaciones
+
+#### Artículo 21°
+
+Las personas que trabajen en el Servicio Nacional de Aduanas no podrán atender directa ni indirectamente negocios particulares ni de terceros, cuando aquéllos tengan relación con las funciones encomendadas al Servicio.
+
+4.- Autoridades Aduaneras
+
+#### Artículo 21
+
+A.- Los funcionarios que se ausenten en comisión de estudio o como beneficiarios de una beca y a quienes se les conserve la propiedad de sus cargos, como, asimismo, se les mantenga determinada remuneración, tendrán la obligación de presentar, dentro de los noventa días siguientes al término de la comisión, un informe escrito al superior jerárquico en el que den cuenta de la labor o estudios realizados o del cometido especial efectuado. Asimismo, no podrán dejar voluntariamente el Servicio antes de que haya transcurrido un plazo igual al doble de aquel por el cual hubieren percibido remuneración durante la comisión, a menos que devuelvan las sumas que hubieren percibido.
+
+Deberá rendirse caución para asegurar el cumplimiento de una u otra de estas obligaciones.
+
+#### Artículo 21
+
+B.- Son autoridades aduaneras para todos los efectos legales: el Director Nacional, los Directores Regionales, los Administradores de Aduanas y los Jefes de Aduanas, en su correspondiente jurisdicción.
+
+5.- Facultades del Personal para el cumplimiento de la ley
+
+#### Artículo 22°
+
+El Director Nacional podrá exigir declaraciones sobre operaciones que interesen al Servicio Nacional de Aduanas y requerir la exhibición de libros, papeles, registros de cualquier naturaleza y documentos pertinentes. Iguales atribuciones tendrán los funcionarios en quienes el Director Nacional delegue especialmente y por escrito tales facultades.
+
+#### Artículo 23°
+
+Para el ejercicio de las facultades y cumplimiento de las obligaciones establecidas en ésta o en otras leyes cuya aplicación, fiscalización o control corresponde al Servicio Nacional de Aduanas, el Director Nacional podrá ordenar la entrada, registro e incautaciones en los lugares en que se encuentren o se presuma fundadamente que se encuentran las mercancías a fiscalizar, así como los libros, papeles, registros de cualquier naturaleza y documentos relativos a las mismas. Iguales atribuciones tendrán los funcionarios en quienes el Director Nacional delegue especialmente tales facultades.
+
+El cumplimiento de las órdenes de entrada y registro o de incautación corresponderá a los funcionarios designados en la respectiva orden, quienes, en caso de encontrar oposición, requerirán el auxilio de la fuerza pública, la que les deberá ser prestada por los funcionarios de la policía.
+
+Con todo, la negativa injustificada a exhibir libros, papeles, registros de cualquier naturaleza y documentos, cuando fueren requeridos formalmente por el Servicio en un acto de fiscalización, constituirá una contravención que será sancionada con multa de hasta una vez el valor de las mercancías objeto de la fiscalización.
+
+#### Artículo 24°
+
+Todo empleado de Aduana, dentro de las Zonas Primarias de Jurisdicción y en los perímetros de vigilancia especial en el ejercicio de sus funciones podrá:
+
+1.- Adoptar y disponer las medidas que estime convenientes para asegurarse de la exactitud de las operaciones que deba practicar.
+
+2.- Examinar y registrar las naves, aeronaves, trenes, vehículos, personas, animales, bultos, cajas, embalajes o cualquier envase en que pueda suponer que haya mercancías introducidas al territorio nacional o que se intente introducir o extraer de él con infracción de la legislación aduanera.
+
+3.- Dar alarma a la nave, aeronave, vehículo o persona que vaya en camino y retenerla, para el objeto del número anterior.
+
+4.- Hacer detener a quienes aparezcan como presuntos responsables de los delitos de fraude o contrabando, dando cumplimiento a lo previsto en el artículo 131, inciso final, del Código Procesal Penal; recoger en tal caso los efectos del delito, y requerir el auxilio de la fuerza pública para hacerse obedecer en el desempeño de las facultades que le confiere el presente artículo, si encontrare resistencia.
+
+Del ejercicio de las facultades anteriores deberá darse cuenta al Director Regional o al Administrador de Aduana, según corresponda.
+
+#### Artículo 25°
+
+Para el cumplimiento de las facultades a que se refiere el presente párrafo, los empleados deberán dar a conocer su investidura oficial, exhibiendo, además, la competente orden, cuando dichas facultades se ejerzan fuera de las zonas primarias de competencia o de los perímetros de vigilancia especial.
+
+Siempre que dichas facultades se ejerzan en los lugares de competencia de la autoridad marítima o aeronáutica, deberá darse aviso a éstas y, en todo caso, solicitarse su intervención si se trata de la retención de una nave o aeronave, salvo que, con motivo de la persecución de un contrabando o fraude, la urgencia de las circunstancias lo impida, en cuyo caso se dará cuenta a dichas autoridades por el medio más rápido de la acción iniciada.
+
+## Título VI
+
+De la vigilancia del mar, tierra y espacio aéreo
+
+#### Artículo 26°
+
+La vigilancia del mar, espacio aéreo y tierra, a fin de prevenir, impedir y perseguir delitos de contrabando y fraude aduanero, estará a cargo de la Dirección del Litoral y Marina Mercante, Dirección de Aeronáutica y Carabineros en su respectivo ámbito de competencia.
+
+Lo anterior, sin perjuicio de las atribuciones que puedan corresponder a otros organismos.
+
+#### Artículo 27°
+
+La vigilancia dentro del territorio nacional y hasta la orilla del mar, incluyendo los recintos aduaneros, corresponderá a Carabineros de Chile, cuyos jefes de Unidades o Unidades Menores prestarán la colaboración y auxilio como fuerza pública que las autoridades aduaneras les soliciten para el cumplimiento de las disposiciones de esta ley.
+
+#### Artículo 28°
+
+Las autoridades a que se refieren los artículos anteriores estarán obligadas a denunciar directamente a la Aduana todas las infracciones aduaneras que ellos detecten en el ejercicio de sus funciones, a secundar al Ministerio Público en la investigación de los hechos y en la persecución y aprehensión de las personas inculpadas, y ejercerán su vigilancia:
+
+a) Impidiendo el embarque y desembarque en las costas y en la entrada y salida por vía terrestre o aérea de cualquier clase de mercancía, por puntos y en horas no habilitados al efecto.
+
+b) Persiguiendo y aprehendiendo las mercancías que se embarquen o desembarquen o se pretenda embarcar o desembarcar en las costas u otros puntos del territorio no habilitados para el tráfico aéreo, o que crucen las fronteras, contraviniendo las disposiciones aduaneras vigentes.
+
+c) Aprehendiendo en cualquier punto del territorio las mercancías extranjeras sujetas a fajas, estampillas, guías u otros distintivos exteriores de pago o de fiscalización, cuando tales mercancías carezcan de dichos requisitos, y
+
+d) Aprehendiendo en los perímetros de vigilancia especial las mercancías extranjeras, respecto de las cuales no se compruebe el cumplimiento de las disposiciones aduaneras.
+
+#### Artículo 29°
+
+Derógase, a contar de la fecha de vigencia del presente decreto con fuerza de ley del Libro I del decreto con fuerza de ley 213, de 1953, sobre Ordenanza de Aduanas, la ley 16.521 y el decreto con fuerza de ley 9, de 1971, así como toda disposición contraria a las contenidas en éste.
+
+#### Artículo 2°
+
+La vigencia de la Ley Orgánica del Servicio Nacional de Aduanas, cuyo texto se fija por el artículo precedente, será a contar desde la publicación en el Diario Oficial del presente decreto.
+
+#### Artículo transitorio
+
+DEROGADO.
+
+Tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE.- Sergio de Castro.- César Raúl Benavides.
+
+CONTRALORIA GENERAL DE LA REPUBLICA
+
+Departamento Jurídico
+
+Cursa con alcance decreto N°. 329, de 1979, del Ministerio de Hacienda
+
+N° 29.321.- Santiago, 23 de Mayo de 1979.
+
+La Contraloría General ha dado curso al decreto de la suma, por el que se fija el texto de la Ley Orgánica del Servicio Nacional de Aduanas, en el entendido que dicho cuerpo normativo constituye un decreto con fuerza de ley, en atención a que ha sido dictado por el Presidente de la República en ejercicio de la facultad delegada por el artículo 2°. del D.L. 2.554, de 1979.
+
+Con el alcance que antecede, se ha tomado razón del decreto del epígrafe.
+
+Dios guarde a US.- Miguel Solar Mandiola, Contralor General de la República Subrogante.
+
+Al señor
+
+Ministro de Hacienda.
+
+Presente.
