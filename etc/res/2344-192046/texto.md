@@ -1,0 +1,3 @@
+Por resolución Nº 2.344, de 16 de noviembre de 2001, de esta Subsecretaría, modifícase el 4º de la resolución Nº 2.335 de 2001, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación de la Pesquería Artesanal de Jurel en la V Región", en el sentido de incorporar la embarcación artesanal "Golfo", a la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 16 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
