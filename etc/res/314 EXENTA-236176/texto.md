@@ -1,0 +1,3 @@
+Por resolución exenta Nº 314, de 8 de febrero de 2005, de esta Subsecretaría, autorízase a SERGIO LEIVA SILVA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Santuario Santa Gemita, Panamericana Norte s/n, Caldera, III Región, donde podrá elaborar en la línea de proceso de Picado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 8 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
