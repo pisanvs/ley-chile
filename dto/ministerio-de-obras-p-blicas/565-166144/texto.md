@@ -1,0 +1,3 @@
+Por decreto MOP Nº565, de 28 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 4-A, 5-H, 6-B y 9, superficies 192, 1880, 311 y 340 M2, respectivamente, roles de avalúos 1226-31, 1228-44, 1228-55 y 1227-59, comuna de Cabrero, obra Camino Ruta 0-60, sector Monteaguila Yumbel y se acordó precio de indemnización con sus propietarios Flor Cabezas Arroyo, José Abdala Valdebenito, Manuel Rodríguez Berrocal y Omar Rodríguez Berrocal, ascendente a las cantidades de $163.469, $2.769.901, $131.493 y $142.765.
+
+Fiscal del Ministerio de Obras Públicas.
