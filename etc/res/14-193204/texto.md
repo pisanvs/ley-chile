@@ -1,0 +1,3 @@
+Por resolución Nº 14, de 19 de febrero del año 2001, se autorizó existencia y aprobó el estatuto de la cooperativa de trabajo denominada: "Matriz Cooperativa de Trabajo y Producción", de nombre de fantasía "Matriz", de la ciudad de Santiago; en los términos que da testimonio documento protocolizado al final de los registros del Notario José Musalem Saffie, de la ciudad de Santiago, bajo el Nº 727, con fecha 23 de enero de 2001.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
