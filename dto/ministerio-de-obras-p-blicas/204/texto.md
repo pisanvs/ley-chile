@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 204, de 9 de Junio de 1994, se expropiaron los lotes de terreno N°s. 10-a y 10-b, superficies 55.324 M2. y 6.096 m2., roles de avalúo 3000-10 y S/R, comuna de Ñuñoa, para la obra Línea N° 5 del Metro de Santiago San Eugenio (Grecia-Ñuble), y se acordó el valor de indemnización con su propietaria Empresa Ferrocarriles del Estado (E.F.E.), ascendente a la cantidad total de $2.350.000.000.-
+
+Fiscal del Ministerio de Obras Públicas.
