@@ -1,0 +1,1 @@
+Reemplaza artículo 21 del decreto con fuerza de ley N° 8,355, de 23 de diciembre de 1927, que refunde disposiciones sobre retiros, montepíos y demás beneficios del personal de Carabineros.
