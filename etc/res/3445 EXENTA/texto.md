@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION NUMERO 3.445 EXENTA, DE 1984, QUE MODIFICO RESOLUCION EXENTA NUMERO 1.509, DE 1984, SOBRE NORMAS, EVALUACION Y TITULACION QUE INDICA
+
+Por resolución exenta N° 3.445 de 27 de Diciembre de 1984 del Subsecretario de Educación Pública, se modificó el artículo 5°, letra b, inciso 3° y artículo 7° de la resolución exenta de Educación N° 1.509 de 1984 sobre normas de promoción, evaluación y titulación del Centro de Formación Técnica Escuela de Negocios de Rancagua, "ENERA". Para optar al título correspendiente, los alumnos deberán aprobar todas las asignaturas del plan de estudio y cumplir con las normas de promoción, evaluación y titulación, estipuladas en la resolución exenta N° 1.509 de 1984 y N° 3.445 de 1984.
+
+Santiago, 14 de Enero de 1985.- Marta Stefanowsky Bandyra, Subsecretario de Educación Pública subrogante.
