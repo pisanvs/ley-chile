@@ -13506,7 +13506,7 @@ Además, como es natural, deberán tenerse presente los márgenes individuales d
 
 2.2.- Monto máximo del dividendo pactado en préstamos para viviendas cuyo valor de tasación no sea superior a 3.000 U.F.
 
-En los préstamos destinados a la adquisición o construcción de viviendas cuyo valor de tasación sea igual o inferior al equivalente de 3.000 Unidades de Fomento, el dividendo que se pacte no podrá exceder, al momento del otorgamiento del crédito, al 25 % de los ingresos del prestatario. Para estos efectos sólo podrán considerarse, además de los ingresos del prestatario, los de su cónyuge, siempre que éste se constituya en fiador y codeudor solidario del crédito.
+En los préstamos destinados a la adquisición o construcción de viviendas cuyo valor de tasación sea igual o inferior al equivalente de 3.000 Unidades de Fomento, el dividendo que se pacte no podrá exceder, al momento del otorgamiento del crédito, al 25 % de los ingresos del prestatario. Para estos efectos sólo podrán considerarse, además de los ingresos del prestatario, los de un tercero, siempre que éste se constituya en fiador y codeudor solidario del crédito.
 
 3.- Garantía hipotecaria.
 
@@ -13558,7 +13558,7 @@ Por otra parte, las entidades financieras deben tener presente que la suma delas
 
 La entidad otorgante de préstamos en letras de crédito, hará entrega de éstas al deudor una vez que las haya ingresado al Libro de Registro, de acuerdo con lo expresado en el numeral 8.1 del título I del presente capítulo.
 
-Debe tenerse presente que el producto de los préstamos en letras de crédito que se concedan para edificaciones o para la construcción de obras destinadas al mejor aprovechamiento agrícola o industrial del inmueble, se entregará en cuotas sucesivas, a medida del avance de las obras, conforme con lo dispuesto en el artículo 93 de la Ley General de Bancos.
+Debe tenerse presente que el producto de los préstamos en letras de crédito que se concedan para edificaciones o para de construcción de obras destinadas al mejor aprovechamiento agrícola o industrial del inmueble, se entregará en cuotas sucesivas, a medida del avance de las obras, conforme con lo dispuesto en el artículo 93 de la Ley General de Bancos.
 
 En consideración a que el importe de las letras de crédito debe guardar perfecta concordancia con el importe del respectivo mutuo, la entidad emisora de letras de crédito para vivienda, antes de ponerlas en circulación, deberá desprender los cupones correspondientes a los trimestres comprendidos entre el 1° de enero del año en que se efectúe la emisión material de las respectivas letras de crédito y el trimestre en que el deudor comience a pagar sus dividendos. En los casos en que el primer dividendo corresponda pagarlo en los meses de enero,abril, julio u octubre, el último cupón que desprenderá la institución
 
@@ -13666,11 +13666,9 @@ g) Prima de seguro de cesantía involuntaria, en caso que el deudor de crédito 
 
 h) Estudio de Títulos y redacción de escritura.
 
-Asimismo, se deberá informar al deudor sobre el plazo de la operación, la tasa de interés que devengará el crédito y la comisión que cobrará la entidad financiera, cuya tasa no podrá ser variable.
+Asimismo, se deberá informar al deudor sobre el plazo de la operación, la tasa de interés que devengará el crédito y la comisión que cobrará la entidad financiera, cuya tasa no podrá ser variable. Cuando se trate de préstamos en letras de crédito con tasa de interés flotante, se hará notar particularmente la variabilidad de los dividendos.
 
-Igualmente, deberá explicarse de manera general el sistema de financiamiento a través de la emisión de letras de crédito, con especial mención del procedimiento de liquidación de estos instrumentos en el mercado de valores y de las fluctuaciones de precio o tasa de descuento a que están sujetos. Se hará presente al deudor que estas fluctuaciones en el valor de compra de las
-
-letras,afectan el importe líquido en pesos que se recibirá del préstamo. Cuando se trate de préstamos en letras de crédito con tasa de interés flotante, se hará notar particularmente la variabilidad de los dividendos.
+Igualmente, deberá explicarse de manera general el sistema de financiamiento a través de la emisión de letras de crédito, con especial mención de las opciones que existen para vender las respectivas letras de crédito en el mercado o para que las adquiera la propia institución financiera emisora, plazo estimado para la venta de las letras de crédito, en caso que ella se le encargue a la entidad emisora, las diferencias que pueden producirse en dicha venta en relación con su valor par y la política de la institución en cuanto a garantizar el precio de la compra de tales instrumentos. También deberá hacerse presente que en la correspondiente escritura de mutuo deberá precisarse la parte contratante que se hará cargo de las diferencias de precio en la venta de las letras.
 
 Sin perjuicio de lo indicado precedentemente, las instituciones financieras deberán mantener a disposición de los interesados, folletos u hojas informativas que, junto con explicar las principales características de estos créditos y los requisitos y antecedentes necesarios que deben presentarse para tener acceso a ellos, informen los plazos, tasas de interés y comisión de los préstamos en letras de crédito y cada uno de los gastos señalados precedentemente.
 
@@ -13688,11 +13686,15 @@ c) El plazo a que ha sido concedido el crédito, de acuerdo al mutuo respectivo;
 
 d) El calendario de servicios de la deuda contraída, en el cual se señalará el dividendo total a pagar en cada fecha de pago, cuando la tasa de interés sea fija, o bien, sólo el monto de la amortización y de la comisión y la fórmula para calcular los intereses, cuando se trate de créditos con tasa de interés flotante; y,
 
-e) El precio al cual se vendieron las letras de crédito asociadas al mutuo, en los casos que corresponda.
+e) El precio al cual se vendieron las letras de crédito asociadas al mutuo, en los casos que corresponda, el valor par de las letras de crédito en la fecha de venta y la diferencia entre ambos valores. Esta última expresada en términos numéricos y como porcentaje del valor par. Además deberá acompañarse el respectivo comprobante de la compraventa.
 
-11.- Prohibición de otorgar garantía de liquidez anticipada en las operaciones con letras de crédito.
+f) Mercado en el que se efectuó la venta de las letras de crédito, esto es, si se vendieron en una bolsa de valores o fuera de ella, o si fueron adquiridas parcial o totalmente por la entidad emisora o por una persona relacionada a ella.
 
-Las normas del Banco Central de Chile prohíben en forma expresa a las instituciones emisoras otorgar garantía de liquidez anticipada a las letras de crédito que emitan. Dicho en otros términos, estas entidades, sin perjuicio de la facultad de comprar letras de crédito dentro del margen establecido, no pueden tomar ningún compromiso para asegurar a los tenedores de letras de crédito su pago anticipado o su adquisición futura.
+g) Precio de mercado y los porcentajes de descuento implícitos observados en la venta de letras de crédito de la misma serie, del mismo año de emisión y del mismo emisor que las del respectivo crédito o, en su defecto, el precio de mercado y los porcentajes de descuento implícitos observados en la venta de letras de crédito de diversas senes del mismo emisor, de características similares a las letras de crédito del respectivo préstamo, en cuanto a su vencimiento, tasa de interés, amortización, garantías y reajustes, debiendo precisarse a qué instrumentos corresponden los antecedentes que se entreguen.
+
+11.- Garantía de liquidez anticipada.
+
+Las normas del Banco Central de Chile, si bien no permiten otorgar garantía de liquidez anticipada, facultan a las instituciones financieras para pactar con el deudor un precio de adquisición por el total o parte de las letras de crédito que se emitan, dejándose expresa constancia de dicho pacto en el respectivo contrato de mutuo.
 
 12. - Pago anticipado de un préstamo en letras de crédito mediante otro de igual naturaleza.
 
