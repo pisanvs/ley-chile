@@ -1,0 +1,5 @@
+Por decreto MOP Nº789, de 30 de abril de 2002, modificado por decreto MOP Nº1414, de 22 de agosto de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº119-A para la obra: ''Concesión Internacional Ruta 5. Tramo: Rio Bueno - Puerto Montt. Sector: Ruta V-500 KM. 1,420 a km.
+
+2,900'', Décima Región, que figura a nombre de Berríos Ramírez Enrique Exequie, rol de avalúo 1404-215, comuna de Puerto Varas, superficie 605 m2. La comisión de peritos integrada por los señores Leopoldo Schumacher Guarda, Enrique Hoelck Altmann y Nelson Bernardo Turra Turra, fijó con fecha 6 de junio de 2002, el valor provisional de la indemnización en la cantidad de $1.815.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
