@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA ALTOMAR LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.087 de 18 de Octubre de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se autoriza a Pesquera Altomar Limitada R.U.T. No. 79.736.810-5 domiciliada en Santiago para iniciar actividades pesqueras en orden a operar una planta industrial en la VIII Región ubicada en calle Manquimávida No. 28 localidad de Chiguayante Comuna de Concepción donde procesará en la línea de elaboración de congelado los siguientes recursos hidrobiológicos: Albacora o pez espada, Cojinoba del Sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Merluza común, Merluza del Sur, Merluza de cola, Merluza de tres aletas, Raya, Loco, Macha y Centolla. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Octubre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
