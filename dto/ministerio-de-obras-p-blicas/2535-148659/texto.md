@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.535, de 31 de agosto de 1999 se expropiaron los lotes de terreno Nºs. 13, 14 y 16, superficies 155, 280 y 325 m2., respectivamente, rol de avalúo 2528-97, comuna de Monte Patria, obra Camino Ruta D-55, sector Puente La Ligua-Bifurcación San Lorenzo y se acordó precio de indemnización con su propietario Jorge de Jesús Araya Castillo, ascendente a la cantidad de $6.143.742.
+
+- Fiscal del Ministerio de Obras Públicas.
