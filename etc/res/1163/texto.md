@@ -1,0 +1,3 @@
+Por Resolución N° 1.163, de 20 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase parcialmente la Resolución N° 177, de 1989, de esta Subsecretaría que autorizó a PESQUERA SAN JOSE DEL SUR S.A., para desarrollar actividades pesqueras extractivas con la nave "Don Antonio" sólo en lo que se refiere a la autorización para extraer el recurso hidrobiológico Merluza común en el litoral comprendido entre la III y X Región, en virtud de lo señalado en el artículo 143, letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
