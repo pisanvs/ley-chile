@@ -1,0 +1,5 @@
+Por decreto MOP Nº153, de 10 de marzo de 2003 , y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº22 para la obra:
+
+"PROYECTO SISTEMA AMERICO VESPUCIO NORTE. RUTA 78 - AV. EL SALTO. SECTOR 6 : RUTA 78 - RUTA 68", Región Metropolitana, que figura a nombre de RODRIGUEZ LLONA SARA, rol de avalúo 1195-39, comuna de Maipú, superficie 416 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Paz Alexandra Harbin Fernández y Andrés Rainer Schulz Villanueva, fijó con fecha 16 de diciembre de 2002, el valor provisional de la indemnización en la cantidad de $15.956.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
