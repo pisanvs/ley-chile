@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.852, de 14 de octubre de 2004, de esta Subsecretaría, autorízase a PROCESADORA DE ALIMENTOS ARAUCARIA CHILE FOOD LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Federico Schwager Nº 1106, Parque Industrial, Coronel, VIII Región, donde podrá elaborar en las líneas de proceso de Cocido, fresco-enfriado, fresco-refrigerado, congelado, seco salado, ahumado, conserva y apanado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 14 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
