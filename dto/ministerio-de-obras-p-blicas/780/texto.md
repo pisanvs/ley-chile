@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 780, de 29 de agosto de 1997, se expropiaron los lotes de terreno Nºs. 24-B, 35-A, 43 y 58, superficies 950, 435, 1.076 y 317 m²., respectivamente roles de avalúos 1065-11, 2589-77, 2590-4 y 2590-114, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Las Acacias - rio Maipo y se acordó precio de indemnización con sus propietarios don Patricio Ruiz Tagle Fernández, Juan Bustos Muñoz y otros, Inversiones DOM S.A y la Parroquia Nuestra Señora de Apoquindo, ascendentes a las cantidades de $55.876.500, para el lote N° 24-B; $12.705.615, para el lote N° 35-A; $36.900.780, para el lote N° 43 y $10.396.350, para el lote N° 58.-
+
+Fiscal del Ministerio de Obras Públicas.
