@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº908 de 14 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 se expropió el lote de terreno Nº3-A para la obra: Camino Ruta H-111, Sector Ruta 5 - La Punta, Tramo km. 0.000 a km. 5.996,93; que figura a nombre de La Cartuja Soc. Agrícola y Avic., rol de avalúo 137-157, Comuna de San Fco. Mostazal, VI Región, superficie 576 m2. La Comisión de Peritos, fijó con fecha 10 de junio de 1998, en la cantidad de $1.221.000.- para el lote 3-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
