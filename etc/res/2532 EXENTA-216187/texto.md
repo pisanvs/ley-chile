@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.532, de 16 de octubre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 200111333 presentada por SALMONES PACIFIC STAR S.A., para instalar y operar un centro de cultivo ubicado en Canal Pérez Norte, sector entre Isla Concoto e Isla Gusanillo, XI Región.
+
+Valparaíso, 16 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
