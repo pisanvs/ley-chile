@@ -1,0 +1,5 @@
+Por Decreto MOP, N° 197, de 28 de Abril de 1995, y en base a la facultad otorgada por el artículo 105 del Decreto MOP, N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 4, para la obra Camino Autopista Santiago-San Antonio, sector Empalme I. Riquelme-Bif, Malloco, Km.
+
+0.000 al 9.703 (Sector Urbano), que figura a nombre de Michelson Boschanes Mileber Ja., rol de avalúo 11645-5, comuna de Pedro Aguirre Cerda, Región Metropolitana, superficie 3.152 m2. La comisión de peritos integrada por los señores Sergio Rojas Ibáñez, Ricardo Carvallo Rodríguez y Carlos del Pedregal Sánchez, fijó con fecha 29 de octubre de 1994, el valor provisional de la indemnización en la cantidad de $51.723.344.- para el lote 4. La indemnizacion se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal Del Ministerio de Obras Públicas
