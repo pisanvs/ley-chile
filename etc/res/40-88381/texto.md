@@ -1,0 +1,3 @@
+Por Resolución Nº 40, de 13 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por PESQUERA CHRIS LTDA., para transferir la nave "Carlos Darwin", matrícula 1843 y su autorización de pesca, a Andacollo de Inversiones Limitada, en virtud de haberse caducado dicha autorización por Resolución Nº 39, de 1998, de esta Subsecretaría, de conformidad con lo señalado en el artículo 143 letra b), del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 13 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
