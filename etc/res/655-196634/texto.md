@@ -1,0 +1,3 @@
+Por resolución Nº655, de 27 de marzo de 2002, modifícase el númeral 5º inciso 1º de la resolución Nº579 de 2002, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DE VALPARAISO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto de Investigación denominado "Evaluación directa de Langostino colorado (Pleuroncodes monodon) en la IV Región", en el sentido de señalar que las embarcaciones participantes podrán extraer las siguientes cantidades de las especies en estudio: Langostino colorado 25 toneladas, Langostino amarillo 20 toneladas, Camarón nailon 6,5 toneladas.
+
+Valparaíso, 27 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
