@@ -1,0 +1,9 @@
+AUTORIZA A DON ALFREDO SEGUNDO BOSSO LOPEZ PARA INICIAR ACTIVIDADES. DENIEGA AUTORIZACIONES QUE INDICA
+
+Por Resolución Nº 1.366 de 28 de Septiembre de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Alfredo Segundo Bosso López, R.U.T. No. 4.918.154-K, domiciliado en Iquique, Villa Puchuldiza, Block No. 19, Depto. No. 10, para iniciar actividades pesqueras, en orden a operar la embarcación en construcción, en el litoral de las Regiones que a continuación se indican, donde podrá extraer los siguientes recursos hidrobiológicos: a) El litoral de las Regiones I a V: Cojinoba del sur, Marrajo o tiburón, Congrio colorado, Congrio dorado, Congrio negro, Bonito, Cojinoba del norte, Dorado y lisa. b) El litoral de las Regiones III a V: Anchoa, Caballa, Jurel, Sardina y Sardina común. Se deniega la autorización solicitada por el peticionario para extraer con la nave a que se refiere la presente Resolución, en el litoral de las Regiones I, II y VIII, los recursos hidrobiológicos: Anchoa, caballa, jurel, sardina común y sardina, de conformidad a lo dispuesto en el Decreto 436, de 1985, prorrogado por el Decreto 110, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción. Se deniega asimismo, la autorización para capturar el recurso Salmón, de acuerdo a lo prescrito en el Decreto No. 320, de 1981, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Se deniega asimismo, la autorización para capturar el recurso Bacalao de profundidad o mero, conforme a lo dispuesto en el Decreto No. 439, de 1981, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Finalmente, se deniega la autorización solicitada por el peticionario para operar entre la VI Región y el paralelo 43° L.S.
+
+Valparaíso, 28 de Septiembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
