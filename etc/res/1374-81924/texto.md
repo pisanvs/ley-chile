@@ -1,0 +1,3 @@
+Por Resolución No. 1.374, de 09 de Noviembre de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la Resolución No. 518, de 1987, de esta Subsecretaría, que autorizó a doña TERESA DEL CARMEN REYES PAIDANCA, R.U.T. No. 6.151.305-1, domiciliada en Prata esquina de Cochrane, Provincia de Chiloé, X Región, para instalar y operar un establecimiento de cultivo del recurso alga del género Gracilaria, en un sector de Bahía Manao de Ancud en orden a reemplazar la expresión, "3.375 m2. de sector de fondo de mar" por "3.375 m2. de sector de playa".
+
+Valparaíso, 09 de Noviembre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
