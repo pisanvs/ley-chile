@@ -1,0 +1,7 @@
+Por decreto MOP N°1.042, de 29 de noviembre de 1996 y en base a la facultad otorgada por el artículo 105 del Decreto MOP.
+
+N°294, de 1984 que fijó el texto actualizado de la Ley N°15.840, se expropiaron los lotes de terreno N°s 1,2,2-A y 3 del Enlace Malvilla, Km. 97.790,70 al 98.685,76 y N°s 1,3 y 4 del Enlace Agua Buena, Km. 101.280 al 102.080, para la obra Proyecto Enlaces Ruta 78 del Camino Santiago-San Antonio, sector Leyda-Agua Buena, que figuran a nombre de Messina Abarca Germán del Carmen, Agrícola Ariztía Ltda., Elkins Segovia Alejandro Reinaldo, y Soc. Invers. Crece Ltda., roles de avalúo 1101-27,9035-19,1100-186 y 9035-47, comunas de Cartagena y San Antonio superficies 20.567,1 m2, 13.216,7 m2, 12.055,15 m2, 15.334,0 m2, 5.502,68 m2, 27.650,30 m2 y 14.205,90 m2, respectivamente. La Comisión de Peritos integrada por los señores Jorge Moreau Lazo y Pablo Caria Giurici y señora María Isabel Ríos Marcuello, fijó con fecha 5 de agosto y 25 de octubre de 1996, los + valores provisionales de las indemnizaciones en las cantidades de + $149.498.700.-para el lote N°1; $39.810.100.-para el lote N°2; + $41.120.965.-para el lote N°2-A; y $40.285.000.-para el lote N°3 del Enlace Malvilla; $28.276.524.-para el lote N°1;
+
+$108.386.050.-para el lote N°3, y $49.720.650.- para el N°4 del Enlace Agua Buena. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento de lo dispuesto en el Artículo 7° del Decreto Ley N° 2.186, de 1978
+
+Fiscal del Ministerio de Obras Públicas
