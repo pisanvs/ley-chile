@@ -1,0 +1,3 @@
+Por decreto MOP Nº989, de 30 de marzo de 2000, se modificó el decreto MOP Nº685 de 29 de mayo de 1998, que autorizó la expropiación del lote Nº4, rol de avalúo 179-359, comuna Nogales, para la obra Paso Superior y Acceso a El Melón, Camino Ruta 5 Norte, ordenándose la consignación judicial del valor provisional de la indemnización por haber quedado sin efecto el convenio directo de precio suscrito con el expropiado señor Alfredo Antonio Umaña Zamora y otros. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
