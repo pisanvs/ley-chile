@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.369, de 29 de octubre de 1999, se expropió el lote de terreno Nº 10-1A, superficie 69,0 m², rol de avalúo 258-14, comuna de Ercilla, para la obra Concesión Internacional Ruta 5, Tramo Collipulli-Temuco, Novena Región, y se acordó el valor de indemnización con su propietaria Lucy Beatriz Domínguez Rosas, ascendente a la cantidad de $180.282.-
+
+Fiscal del Ministerio de Obras Públicas.
