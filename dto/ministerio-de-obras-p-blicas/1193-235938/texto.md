@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.193 de 21 de diciembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra: Camino Conservación Ruta L-45, Sector Escuela Llepo - Puente Los Hualles, Tramo km. 13,14700 a km. 36,446, que figura a nombre de Cerda Cerda Valentina, rol de avalúo 557-148, Comuna de Linares, VII Región, superficie 203,74 m2. La Comisión de Peritos fijó con fecha 16 de septiembre de 2002, en la cantidad de $7.395.159.- lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
