@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 320, de 29 de Octubre de 1985, se expropiaron los lotes N°s. 3, y 4, superficies 2.665 m2. y 1.107,50 m2., roles de avalúo 2.255-118 y 2.255-110, Comunal de Entre Lagos, para Puente El Molino, camino Futacuhin El Encanto y se acordó precio de indemnización con sus propietarios don Alejandro Toledo Atero y Reinaldo Antipán Yefi, ascendente a $ 98.007 y $ 49.496, respectivamente.
+
+- Fiscal del Ministerio de Obras Públicas. (2)
