@@ -1,0 +1,5 @@
+Por Resolución N° 416, de 28 de Abril de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a HUITO PISCIS S.A.
+
+R.U.T. N° 89.955.100-1, para continuar desarrollando las actividades pesqueras autorizadas por Resoluciones N° 298, de 1984, N° 179, de 1987 y N° 1.754, de 1989, todas de esta Subsecretaría, a Pesquera Canal Huito Limitada, de mismos R.U.T. y domicilio, en virtud de las Escrituras Públicas de fecha 6 de diciembre de 1990, otorgada ante el Notario Público de Santiago, don René Benavente Cash, que transformó la sociedad "Pesquera Canal Huito Limitada" en "Pesquera Canal Huito S.A.", y de fecha 13 de diciembre de 1993, otorgada ante el Notario Público de Santiago, don Roberto Bennett Urzúa, que modificó la razón social de "Pesquera Canal Huito S.A." por la de "Huito Piscis S.A.".
+
+Valparaíso, 28 de Abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
