@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1924 de 09 de Septiembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Parcela Quinta" de la comuna de Requinoa, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 38, sitios N°s. 1 al 21 del Proyecto de Parcelación "El Vaticano" formado por predio señalado y por predios "Hijuela El Vaticano", "Parcela Segunda", "Propiedad de una Cabida de 67,4 hás arables y 97,3 hás. de Cerro". Los Derechos de Agua se extraen de los canales Comunidad, Peumal, Crianza, todos derivados del Río Cachapoal y Derrames del Fundo El Vaticano y de parcela Cuarta.
+
+Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
