@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 933 de 30 de junio de 2004, se expropió el lote de terreno Nº 57-A, superficie 128 m2 , rol de Avalúo Nº 608-1, comuna de Santa Cruz, para la obra "Camino Santa Cruz - Yánquil, Rol I-730, KM. 0.00000 al Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietaria Julia del Carmen Arce Benavides, ascendente a la cantidad de $1.497.366.
+
+Fiscal del Ministerio de Obras Públicas.
