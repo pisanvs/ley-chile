@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.203 de 31 de agosto de 2004, se expropió el lote de terreno Nº 44, superficie 183 M2, rol de avalúo 518-443, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco-Abanico, Tramo II, Km. 3,95000 a Km. 12,40150", VIII Región y se acordó el valor de la indemnización con su propietario Ejidio del Carmen Rivera Gajardo, ascendente a la cantidad de $419.227.
+
+Fiscal del Ministerio de Obras Públicas.
