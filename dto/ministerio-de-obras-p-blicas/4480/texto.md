@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.480, de 29 de septiembre de 2000, se expropió el lote de terreno Nº 1, superficie 15.001 m², rol de avalúo 747-46, comuna de Bulnes, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, Octava Región, y se acordó el valor de indemnización con su propietaria Eliana del Carmen Villagra de la Sotta, ascendente a la cantidad de $47.094.053.
+
+- Fiscal del Ministerio de Obras Públicas.
