@@ -1,0 +1,3 @@
+Por resolución Nº 1.031, de 27 de julio de 1998 de esta Subsecretaría, autorízase a PRODUCTORA DE ALGAS MARINAS LIMITADA, para ampliar actividades pesqueras autorizadas por resolución Nº 160, de 1994, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Camino Tranque Recoleta s/nº, El Olivo, Ovalle, IV Región, en la elaboración que se indican, los siguientes recursos hidrobiológicos: Picado de algas: Chascón, Huiro, Cochayuyo y Palo.
+
+Valparaíso, 27 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
