@@ -1,0 +1,29 @@
+COMPAÑIA CONSTRUCTORA DE FERROCARRILES "NORTH AND SOUTH AMERICAN CONSTRUCTION COMPANY" - SE AUTORIZA LA INVERSION DE 150,000 PESOS ORO AMERICANO EN PONER TERMINO A UNA RECLAMACION DE ESTA COMPAÑIA.
+
+Lei núm. 325.-Santiago, a 30 de Diciembre de 1895.-
+
+Por cuanto el Congreso Nacional ha dado su aprobacion al siguiente
+
+PROYECTO DE LEI:
+
+#### Artículo UNICO
+
+Autorízase al Presidente de la República para que invierta la suma de ciento cincuenta mil pesos oro americano en poner término a la reclamacion promovida por la Compañía Constructora de Ferrocarriles "North and South American Construction Company", en conformidad a las estipulaciones que constan del siguiente contrato:
+
+1.° La "North and South American Construction Company" conviene en que el reclamo que presentó ante la comision de reclamos chileno-americana que funcionó en Wáshington, proveniente del contrato ajustado el 17 de Octubre de 1888 entre el Gobierno de Chile i la espresada Compañía, para la construccion de ciertos ferrocarriles en aquella República, sea definitivamente arreglado por el Departamento de Estado en Wáshington, i la referida Compañía renuncia a todos i a cada uno de los derechos que tiene o pudiera tener derivados del contrato de 17 de Octubre de 1888, contra el Gobierno de Chile, con arreglo a las siguientes condiciones:
+
+2.° La referida "North and South American Construction Company" cede i traspasa al Gobierno de Chile todos los derechos i acciones que tiene o pudiera tener para reclamar de don Julio Bernstein o de sus herederos o representantes el cumplimiento de las obligaciones que el espresado Bernstein asumió en el contrato de 12 de Agosto de 1899 con dicha Compañía, i para destinar a su propio i esclusivo uso toda suma de dinero que dicha Compañía estuviere facultada para percibir a virtud de tal contrato.
+
+3.° La "Nord and South American Construction Company" cede i traspasa en igual forma al Gobierno de Chile sus derechos "al uno por mil" sobre el valor total de los ferrocarriles, de conformidad con lo dispuesto en el artículo VIII del citado contrato de 12 de Agosto de 1889, suscrito por el representante de la Compañía en Santiago i por don Julio Bernstein; cede y traspasa en igual forma al Gobierno de Chile sus derechos al reintegro del capital invertido por ella de conformidad con el artículo XI del contrato de 12 de Agosto de 1889 i con los artículos IV i V del contrato de 25 de Enero de 1892 suscrito en Santiago por el representante de dicha Compañía i por don Juan Agustin Palazuelos, por si i en representacion de otros.
+
+La espresada Compañía, finalmente, cede i traspasa en la misma forma al Gobierno de Chile sus derechos a cualquiera suma de dinero que Bernstein o sus representantes o el espresado Palazuelos puedan adeudarle a cualquier título que fuere; debiendo quedar claramente entendido que la cesion de los derechos ántes enumerados i que emanan de los contratos de 12 de Agosto de 1889 i 25 de Enero de 1892, se hace bajo la espresa condicion de que dicha Compañía no cambia ni modifica o consiente que se cambien o modifiquen los derechos, condiciones i obligaciones establecidas en dichos contratos i que dicha Compañía no abandona o cancela ninguno de los otros derechos existentes, de acuerdo con los citados contratos de 12 de Agosto de 1889 i de 25 de Enero de 1892, en favor de dicha Compañía contra el mencionado Julio Bernstein i sus herederos o representantes i el referido Juan Agustin Palazuelos i sus herederos o representantes i otros, i que tales contratos i todos los derechos en ellos consignados i establecidos continuarán en vigor i en plena fuerza i efecto como si no se hubiere hecho el presente convenio; i este convenio no cambiará en modo alguno o alterará ninguno de los derechos que tengan el mencionado Julio Bernstein i sus herederos o representantes i otros a virtud de los citados contratos de 12 de Agosto de 1889 i 25 de Enero de 1892.
+
+4.° Queda claramente estipulado i entendido que el Gobierno de Chile no se sustituye en manera alguna a dicha Compañía en los contratos de 12 de Agosto de 1889 i 25 de Enero de 1892 con motivo del presente convenio, i que, al aceptar la cesion anteriormente hecha de los derechos ántes enumerados i cedidos, se limita solamente a la adquisicion de los derechos i títulos ya mencionados i cedidos i, en consecuencia, no asume responsabilidad alguna en el cumplimiento de ninguna de las obligaciones que tuviese dicha Compañía con arreglo a los contratos de 12 de Agosto de 1889 i 25 de Enero de 1892.
+
+5.° Este contrato será obligatorio i surtirá pleno efecto desde el dia en que el Gobierno de Chile entregue al Departamento de Estado la suma de ciento cincuenta mil dollars i declare oficialmente al secretario de Estado que da por cancelada la garantía de un millon de pesos que dió al Banco Nacional de Chile para responder por parte de la Compañía al cumplimiento de las obligaciones estipuladas en el contrato de 17 de Octubre de 1888 sobre construccion de ciertos ferrocarriles en la mencionada República de Chile i que descarga i releva al referido Banco Nacional de Chile de todas las responsabilidades afectas a tal garantía; debiendo tambien entenderse que la "North and South American Construction Company" queda desligada de todas las obligaciones contraidas por el presente arreglo, si la República de Chile no hiciere el depósito del dinero o no notificare la cancelacion de la garantía mencionada en este artículo ántes del 31 de Diciembre de 1895.
+
+6.° Para los efectos del artículo que precede, se depositará una copia certificada del presente arreglo en el Departamento de Estado.
+
+I por cuanto, oido el Consejo de Estado, he tenido a bien aprobarlo i sancionarlo; por tanto, promúlguese i llévese a efecto como lei de la República.-JORJE MONTT.-
+
+Elías Fernández A.
