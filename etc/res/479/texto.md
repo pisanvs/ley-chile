@@ -1,0 +1,17 @@
+EXTRACTOS DE RESOLUCIONES
+
+Por resolución N° 479 de 22 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad de las siguientes autorizaciones, de conformidad a lo dispuesto en el artículo 7° del decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción:
+
+- **a)** Resolución N° 441, de 1986, de esta Subsecretaría, que autorizó a don ROGELIO CORRAL MIRO, R.U.T. N° 3.520.965-4, domiciliado en Ovalle, calle Libertad N° 435, para desarrollar actividades pesqueras, en orden a instalar y operar un establecimiento de cultivo del recurso camarón de río, en la Estancia Los Loros, Quebrada de Chimahuí, ribera Sur del Río Limarí, Comuna de Ovalle, Provincia de Limarí.
+
+- **b)** Resolución N° 559, de 1986, de esta Subsecretaría, que autorizó a don HUGO ARAYA HERRERO, R.U.T. N° 6.637.775-K, domiciliado en Santiago, calle Presidente Riesco N° 2995, para desarrollar actividades pesqueras, en orden a instalar y operar dos establecimientos de cultivo del recurso camarón de río del Norte, uno en un Fundo El Sol y el otro en Santa Filomena, ambos ubicados en la Comuna de Ovalle, Provincia de Límarí, IV Región y caducó la resolución N° 201, de 1986.
+
+- **c)** Resolución N° 696, de 1987, de esta Subsecretaría, que autorizó a CULTIVOS MARINOS TALINAY LIMITADA, R.U.T. N° 79.654.180-6, domiciliada en la ciudad de La Serena, para desarrollar actividades pesqueras, en orden a instalar y operar un establecimiento de cultivo del recurso ostra del Pacífico, en la localidad de Tongoy, Comuna de Coquimbo, Provincia de Elqui, IV Región, en un área de 250.000 m2. de porción de agua.
+
+- **d)** Resolución N° 1.489, de 1987, de esta Subsecretaría, que autorizó a don HECTOR ARCE CERDA, R.U.T. N° 1.617.929-9, domiciliado en Portales N° 800, Coquimbo, para desarrollar actividades pesqueras, en orden a instalar y operar un establecimiento de cultivo de los recursos salmón plateado y trucha arcoiris, en un sector denominado "Eucaliptus de Cochiguaz", Comuna de Paihuano, Provincia de Elqui, IV Región.
+
+- **e)** Resolución N° 17, de 1988, de esta Subsecretaría, que autorizó a SOCIEDAD EXCULMAR LIMITADA, R.U.T. N° 79.562.590-9, domiciliada en Santiago, para desarrollar actividades pesqueras, en orden a instalar y operar un establecimiento de cultivo de los reculsos ostra del Pacífico y ostión del Norte, en un sector de Bahía Guanaqueros, Comuna de Coquimbo Provincia de Elqui, IV Región. f9 Resolución N551, de 1987, de esta Subsecretaría, que autorizó a don VICTOR EDUARDO DELGADO VIELMAS, R.U.T. N° 8.288.960-4, domiciliado en calle Los Jardines, Pasaje Algarrobo N° 2715, La Serena, para desarrollar actividades pesqueras, en orden a instalar y operar un centro de cultivo del recurso camarón de río, en el predio agrícola "parcela N° 10", Asentamiento Gabriela Mistral, Valle del Elqui, Comuna de La Serena, Provincia de Elqui, IV Región.
+
+- **g)** Resolución N° 556, de 1988, de esta Subsecretaría, que autorizó a SOCIEDAD FRUMAR CHILE S.A., domiciliada en Santiago, para desarrollar actividades pesqueras, en orden a instalar y operar un establecimiento de cultivo del recurso turbot o rodaballo, en la localidad de Vegas Norte, Comuna de La Serena, Provincia de Coquimbo, IV Región.
+
+Valparaíso, 22 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
