@@ -1,0 +1,3 @@
+Por resolución Nº 1.706, de 2 de septiembre de 1999, de esta Subsecretaría, autorízase a CONGELADOS DEL PACIFICO LIMITADA para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 702, de 1988, Nº 231 y Nº 1.033, ambas de 1998, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Avenida Gran Bretaña Nº 955, comuna de Talcahuano, provincia de Concepción, VIII Región, en las líneas de proceso de Congelado y Fresco-refrigerado, el recurso hidrobiológico Orange roughy.
+
+Valparaíso, 2 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
