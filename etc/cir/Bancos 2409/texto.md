@@ -39960,6 +39960,8 @@ OBSERVACIONES: [+]: Cifra que se obtiene después de los ajustes extracontables 
 
 6: Para reflejar dentro de "Otros Ingresos de Operación" el ingreso neto por operaciones con pagarés de deuda externa.
 
+> **Nota.** La Circular 2511, SBIF, promulgada el 09.01.1990, modifica el Título IV, Anexo I, de la presente norma, en la forma siguiente:A) En la línea B6 se remplaza el signo "+" por una "a"B) En la línea D2 se remplaza el detalle completo por lo siguiente "2105 1 + 2110 + 2115 + 2515 + [#]"C) En la línea J3 se agrega la expresión "4515+" entre el signo "[#]" y el signo "+" que le antecedeD) En el N°1 de Observaciones se remplaza la expresión "2115" por "2105". Las citadas modificaciones no se han incorporado al presente texto actualizado por razones técnicas.
+
 ANEXO N° 2
 
 EXPLICACIONES GENERALES PARA LA PREPARACION DE LAS NOTAS ESTRUCTURADAS DE QUE TRATAN LOS ANEXOS SIGUIENTES
