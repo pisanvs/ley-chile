@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 392, de 27 de febrero de 2004, se expropió el lote de terreno Nº 345, superficie 843 m2, Rol Nº 61-40, comuna de Palmilla, VI Región, para la obra "Camino Colchagua - Pichidegua, Sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400" y se acordó el valor de indemnización con su propietario Jaime Guillermo Rodríguez Farías, ascendente a la cantidad de $2.203.529.
+
+- Fiscal del Ministerio de Obras Públicas.
