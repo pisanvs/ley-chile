@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 1.586 de fecha 26 de octubre del 2001, se expropió el lote de terreno Nº 2, superficie 4.160,00 m², Rol de Avalúo Nº 117-25, comuna de Pencahue, para la obra ''Canal San Manuel Descarga 3 Km. 0,000 al Km. 1,705, del Proyecto Regadío Pencahue'' y se acordó el valor de indemnización con su propietario Augusto Alfonso Valenzuela Bravo, ascendente a la cantidad de $1.346.370.
+
+- Fiscal del Ministerio de Obras Públicas.
