@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 530, de 31 de julio de 1996, se expropió el lote de terreno Nº 1 superficie 258 M2, rol de avalúo 329-8, comuna de Puerto Montt, para la obra Mejoramiento Ruta 5 Sur, Sector Acceso Sura Pargua Urmeneta, Camino Panamericana Sur Rol 5, Sector Eje Petorca, Presidente Ibáñez, y se acordó precio de indemnización con su propietario Armando Marchesini Cremonini, ascendente a la cantidad de $29.386.192.
+
+- Fiscal del Ministerio de Obras Públicas.
