@@ -88,9 +88,7 @@ Están exentos de responsabilidad criminal:
 
 1.° El loco o demente, a no ser que haya obrado en un intervalo lúcido, y el que, por cualquier causa independiente de su voluntad, se halla privado totalmente de razón.
 
-Cuando un loco o demente hubiere ejecutado un hecho que la ley califica de crimen o incurriere en reiteración de otros que importen simples delitos, el tribunal decretará su reclusión en uno de los establecimientos destinados a los enfermos de aquella clase, del cual no podrá salir sin previa autorización del mismo tribunal.
-
-En otro caso será entregado a su familia bajo fianza de custodia, y mientras no se preste dicha fianza se observará lo dispuesto en el acápite anterior.
+Inciso Derogado.
 
 2.° El menor de dieciséis años.
 
@@ -127,8 +125,6 @@ Tercera.-Que no haya otro medio practicable y menos perjudicial para impedirlo.
 10.° El que obra en cumplimiento de un deber o en el ejercicio legítimo de un derecho, autoridad, oficio o cargo.
 
 11.° Derogado.
-
-Si solo diere muerte, hiriere o maltratare a uno de ellos, sin causar daño al otro u ocasionándole uno menor, subsistirá no obstante la exención de responsabilidad criminal respecto del marido, a menos de constar que intencionalmente obró así o que las circunstancias del hecho lo revelen.
 
 12.° El que incurre en alguna omisión, hallándose impedido por causa legítima o insuperable.
 
@@ -760,17 +756,11 @@ Tampoco puede ser ejecutada pena alguna en otra forma que la prescrita por la le
 
 Se observará también además de lo que dispone la ley, lo que se determine en los reglamentos especiales para el gobierno de los establecimientos en que deben cumplirse las penas, acerca de los castigos disciplinarios, de la naturaleza, tiempo y demás circunstancias de los trabajos, de las relaciones de los penados con otras personas, de los socorros que pueden recibir y del régimen alimenticio.
 
-En los reglamentos sólo podrán imponerse como castigos disciplinarios, los de cadena o grillete, encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal por un tiempo que no exceda de un mes, u otros de menor gravedad.
+En los reglamentos sólo podrán imponerse como castigos disciplinarios, el encierro en celda solitaria e incomunicación con personas extrañas al establecimiento penal por un tiempo que no exceda de un mes, u otros de menor gravedad.
 
 #### Artículo 81
 
-Si después de cometido el delito cayere el delincuente en estado de locura o demencia, se observarán las reglas siguientes:
-
-1.° Cuando la locura o demencia sobrevenga antes de pronunciarse la sentencia de término, se suspenderán los efectos de ésta sin aplicarse al reo pena alguna corporal hasta que recobre la razón, observándose lo que para tales casos se determine en el Código de procedimientos.
-
-2.° Cuando tenga lugar después de pronunciarse dicha sentencia, si ella le impone pena de crimen, el tribunal dispondrá su traslación a uno de los hospitales destinados a los enfermos de aquella clase, y si la pena fuere menor podrá acordar, según las circunstancias, o bien que sea entregado a su familia bajo fianza de custodia y de tenerle a disposición del mismo tribunal o que se le recluya en un hospital de insanos.
-
-En cualquier tiempo que el loco o demente recobre el juicio se hará efectiva la sentencia; pero si ella le impusiere privación o restricción temporal de libertad, se imputará a su duración el tiempo de la locura o demencia.
+Si después de cometido el delito cayere el delincuente en estado de locura o demencia, se observarán las reglas establecidas en el Código de Procedimiento Penal.
 
 #### Artículo 82
 
@@ -912,7 +902,7 @@ Respecto de los simples delitos, en cinco años.
 
 Respecto de las faltas, en seis meses.
 
-Cuando la pena señalada al delito sea compuesta, se estará a la mayor para la aplicación de las reglas comprendidas en los tres primeros acápites de este artículo.
+Cuando la pena señalada al delito sea compuesta, se estará a la privativa de libertad, para la aplicación de las reglas comprendidas en los tres primeros acápites de este artículo; si no se impusieren penas privativas de libertad, se estará a la mayor.
 
 Las reglas precedentes se entienden sin perjuicio de las prescripciones de corto tiempo que establece este Código para delitos determinados.
 
