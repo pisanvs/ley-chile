@@ -1,0 +1,29 @@
+TRANSFIERE O DESTINA AL FISCO ESPECIES INVENTARIABLES QUE INDICA
+
+Núm. 576.- Santiago, 10 de Julio de 1974.- Visto, lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973, y Considerando:
+
+La necesidad de regularizar los inventarios del Edificio Diego Portales, respecto de los bienes muebles de cualquier naturaleza que se encuentran actualmente al servicio de las dependencias de la Junta de Gobierno:
+
+La Junta de Gobierno acuerda dictar el siguiente Decreto ley:
+
+#### Artículo 1°
+
+Tranfiérese o destínase, en su caso, al Fisco, asignándose al uso de las dependencias de la Junta de Gobierno, la totalidad de las especies muebles, cualquiera que sea su naturaleza, que se encuentran a su servicio en el Edificio Diego Portales.
+
+#### Artículo 2°
+
+La Dirección Administrativa de la Junta de Gobierno procederá a confeccionar los inventarios respectivos, incluyendo en ellos todos los bienes muebles y especies que en la actualidad se encuentren materialmente asignados al uso de los servicios indicados en el artículo anterior, debiendo hacer excepción sólo de aquellos destinados o que pertenezcan, en sus respectivos casos, a la Corporación de Fomento de la Producción, Banco Central de Chile y a otros organismos públicos o a particulares, previa justificación por parte de éstos del dominio o destino de los mismos, según el caso.
+
+Los interesados deberán, dentro del plazo de 60 días, remitir una nómina a la Dirección Administrativa de los muebles y especies que les pertenecen o que les hubieren sido legalmente destinados con anterioridad.
+
+#### Artículo 3°
+
+Por decreto supremo expedido por intermedio del Ministerio del Interior, podrán excluirse de dichos inventarios otros bienes cuyo destino o dominio no se hubiere acreditado en tiempo.
+
+#### Artículo 4°
+
+Derógase el inciso 2 del artículo 25 de la ley N° 17.457, en la parte que dice relación con los bienes muebles.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno, Jefe Supremo de la Nación.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.
+
+Lo que transcribo para su conocimiento.- Enrique Montero Marx, Subsecretario del Interior.
