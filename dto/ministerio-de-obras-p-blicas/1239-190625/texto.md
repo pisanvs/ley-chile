@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.239, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº17-A, superficie 757 m2., rol de avalúo Nº2202-10, comuna de Puerto Montt, para la obra "Camino Ruta 7, sector Chamiza - Quillaipe, Km. 4,83687 al Km. 15,84700", y se acordó el valor de indemnización con su propietario Rubén Amado Almonacid Barrientos, ascendente a la cantidad de $1.093.000.-
+
+Fiscal del Ministerio de Obras Públicas.
