@@ -1,0 +1,11 @@
+EXTRACTO DE LA REFORMA DE ESTATUTOS DEL BANCO ESPAÑOL - CHILE
+
+Certifico que, por resolución Nº 201 de 04 de diciembre de 1986, se aprobaron las reformas introducidas a los estatutos del Banco Español-Chile, en la Junta Extraordinaria de Accionistas, celebrada en Santiago el 07 de noviembre de 1086, cuya acta se redujo a escritura pública el 11 de noviembre de 1086, en la Notaría de Santiago de don Raúl Iván Perry Pefaur.
+
+Extracto de la reforma:
+
+1. Se limita el aumento de capital aprobado por resolución Nº 60 de 30 de abril de 1986, de esta Superintendencia, a la suma de $ 7.851.668.9.00 dividido en 38.203.913 acciones de un valor nominal de $ 205,52 cada una que se encuentra enterado.
+
+2. Se aumenta el referido capital a la suma de $ 9.505.300.000 dividido en 4ô.250.000 acciones de un valor nominal de $ 205,52 cada una. Ello se efecturá mediante la emisión de 8.046.087 acciones que deberán ser pagadas en dinero efectivo dentro del plazo de tres años contado desde la fecha de la resolución de esta Superintendencia que aprueba la reforma. Las acciones que se emitan para enterar el aumento de capital constituirán una serie de acciones preferidas o con privilegio denominada serie B, que consiste en el derecho a recibir dividendos con cargo a los excedentes de cada ejercicio social que transcurra mientras existan vigentes pactos de recompra de cartera vendida por el Banco Español-Chile al Banco Central de Chile, dividendo que alcanzará al seis por ciento del valor libro de la acción al 31 de diciembre de cada año, y que en ningún caso, podrá exceder del 30% de aquella parte de los excedentes que proporcionalmente corresponde a las acciones de la serie B, en relación con el número total de acciones que estén emitidas al término del ejercicio cuyo excedente corresponde repartir. Las acciones que no estén totalmente pagadas se considerarán sólo por la parte pagada para calcular la proporción indicada. Las acciones actualmente emitidas pertenecerán a la serie A.
+
+Santiago, 04 de Diciembre de 1986.- Guillermo Ramírez Vilardell, Superintendente de Bancos e Instituciones Financieras.
