@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.346, de 29 de octubre de 1999, se expropió el lote de terreno Nº 6, superficie 2.015 m², rol de avalúo 619-21, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector N, Séptima Región y se acordó el valor de indemnización con sus propietarios Suc. Juan B. Abraham Moya Cabello y otra, ascendente a la cantidad de $39.216.608.-
+
+Fiscal del Ministerio de Obras Públicas.
