@@ -9886,11 +9886,11 @@ En todo caso, esta Superintendencia recomienda a los bancos que se fije un plazo
 
 Esta Superintendencia recomienda igualmente que se estipule en la boleta de garantía emitida con cargo a un préstamo bancario, la exigencia de que el beneficiario avise, con una determinada anticipación. su propósito de hacerla efectiva.
 
-Lo expuesto anteriormente, tiene por objeto que el banco disponga de un plazo para notificar del cobro al tomador del documento que tenga la calidad de deudor de la institución por ese concepto, a fin de que provea los fondos necesarios para efectuar el pago. Dicho aviso de cobro puede darlo el beneficiario hasta el día del vencimiento o de caducidad que se pueda contemplar en el
+Lo expuesto anteriormente tiene por objeto que el banco disponga de un plazo para notificar del cobro al tomador del documento que tenga la calidad de deudor de la institución por ese concepto, a fin de que provea los fondos necesarios para efectuar el pago.
 
-documento o de la prórroga que se hubiere acordado,debiendo el banco efectuar el pago en la fecha que corresponda, aunque ésta resulte posterior a la de vencimiento de la boleta.
+El aviso de cobro debe darse por escrito al banco emisor, hasta la fecha del vencimiento original o hasta aquella para la cual fue prorrogado el plazo de vigencia del documento. No es necesario que se acompañe la boleta en ese acto, siendo si imprescindible hacerlo para su pago, sea que éste se requiera antes o después de su vencimiento o prórroga y mientras el documento no se encuentre prescrito, de acuerdo a las normas generales sobre prescripción.
 
-El aviso de cobro debe ir acompañado en ese mismo acto o antes del vencimiento original o prorrogado del documento, de la presentación a cobro de la boleta Esta presentación puede hacerse directamente al banco emisor o a través de otro banco, siempre que se haga mientras se encuentre vigente. En caso de que la presentación se efectúe por intermedio de otro banco, la fecha que debe tomarse en consideración es aquella en que la boleta fue presentada al banco emisor.
+El pago podrá requerirse directamente al banco emisor o bien a través de otro banco. En este último caso el beneficiario debe presentar necesariamente el original de la boleta de garantía, porque se trata de un mandato para efectuar el cobro a un tercero, gestión que requiere entregar al mandatario, dentro de los plazos antes indicados, el documento cuyo cobro se le encarga, debiendo considerarse como fecha de presentación, aquélla en que la boleta es presentada al banco emisor.
 
 ### 7. Objeto de la boleta de garantía
 
