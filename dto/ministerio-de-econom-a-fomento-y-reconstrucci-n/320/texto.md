@@ -30,17 +30,19 @@ Para realizar actividades de pesca deportiva se requiere de un permiso previo ot
 
 #### Artículo 4°
 
-Las actividades de pesca deportiva de
+Las actividades de pesca deportiva
 
-especies salmonídeas sólo se podrán realizar dentro de los siguientes períodos:
+de especies salmonídeas sólo se podrán realizar dentro de los siguientes períodos:
 
-a) Desde la I Región hasta el paralelo situado en la proyección del punto más austral de la ribera sur del Lago Las Torres, ubicado en la XI Región, durante el período comprendido entre el segundo viernes del mes de noviembre de cada año y el primer domingo del mes de mayo del año siguiente, ambas fechas inclusive y desde dicho paralelo hasta el límite sur de esa Región en la siguiente época: desde el segundo viernes de octubre hasta el primer domingo de abril del año siguiente.
+a) En las Regiones I a XI durante el período comprendido entre el segundo Viernes del mes de Noviembre de cada año y el primer domingo del mes de Mayo del año siguiente, inclusive.
 
-b) En la XII Región durante el período comprendido entre el 16 de octubre de cada año y el 14 de abril del año siguiente, ambas fechas inclusive.
+b) En la XII Región durante el período comprendido entre el 16 de Octubre de cada año y el 14 de Abril del año siguiente, ambas fechas inclusive.
 
-Se exceptúan de lo dispuesto en la letra b) las áreas de la desembocadura de ríos hasta una distancia de 5 Km. hacia el interior, en las que sólo se podrán realizar estas actividades, durante el período comprendido entre el 16 de octubre de cada año y el 28 de febrero del año siguiente.
+Se exceptúan de lo dispuesto en la letra b) las áreas de la desembocadura de ríos hasta una distancia de 5 Km. hacia el interior, en las que sólo se podrán realizar estas actividades, durante el período comprendido entre el 16 de Octubre de cada año y el 28 de febrero del año siguiente.
 
-Se exceptúan de lo establecido en los incisos precedentes los siguientes cuerpos de agua: Lago General Carrera, Laguna Puelo y Los Lagos Palena, Cochrane, O'Higgins y Fagnano en todos los cuales se podrán efectuar actividades de pesca deportiva de especies salmonídeas durante todo el año.
+Se exceptúan de lo establecido en los incisos precedentes los siguientes cuerpos de agua: Lago General Carrera, Laguna Puelo y Los Lagos Palena, Cochrane.
+
+O'Higgins y Fagnano, en todos los cuales se podrán efectuar actividades de pesca deportiva de especies salmonídeas durante todo el año.
 
 #### Artículo 5°
 
