@@ -1,0 +1,3 @@
+Por decreto MOP Nº 305, de 28 de febrero de 2001, se expropió el lote de terreno Nº 646, superficie 3.058 m², rol de avalúo 658-288, comuna de Buin, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector: C: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Mario Andrés Ayala Palma, ascendente a la cantidad de $8.973.192.-
+
+Fiscal del Ministerio de Obras Públicas.
