@@ -234,7 +234,7 @@ Un juzgado con asiento en la comuna de Tocopilla, con jurisdicción sobre la mis
 
 Un juzgado con asiento en la comuna de María Elena, con jurisdicción sobre la misma comuna;
 
-Dos juzgados con asiento en la comuna de Calama, con jurisdicción sobre las comunas de la provincia de El Loa;
+Tres juzgados con asiento en la comuna de Calama, con jurisdicción sobre las comunas de la provincia de El Loa;
 
 Cuatro juzgados con asiento en la comuna de Antofagasta, con jurisdicción sobre las comunas de Antofagasta, Mejillones y Sierra Gorda, y
 
@@ -246,7 +246,9 @@ En la Tercera Región, de Atacama, existirán los siguientes juzgados de letras:
 
 Un juzgado con asiento en la comuna de Chañaral, con jurisdicción sobre la misma comuna;
 
-Tres juzgados con asiento en la comuna de Copiapó, con jurisdicción sobre las comunas de la provincia de Copiapó;
+Cuatro juzgados con asiento en la comuna de Copiapó, con jurisdicción sobre las comunas de Copiapó y Tierra Amarilla;
+
+Un juzgado con asiento en la comuna de Caldera, con jurisdicción sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de Freirina, con jurisdicción sobre las comunas de Freirina y Huasco, y
 
@@ -258,7 +260,7 @@ En la Cuarta Región, de Coquimbo, existirán los siguientes juzgados de letras:
 
 Tres juzgados con asiento en la comuna de La Serena, con jurisdicción sobre las comunas de La Serena y La Higuera;
 
-Dos juzgados con asiento en la comuna de Coquimbo, con jurisdicción sobre la misma comuna;
+Tres juzgados con asiento en la comuna de Coquimbo, con jurisdicción sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de Vicuña, con jurisdicción sobre las comunas de Vicuña y Paihuano;
 
@@ -304,7 +306,9 @@ Dos juzgados de letras con asiento en la comuna de San Felipe, con jurisdicción
 
 Un juzgado de letras con asiento en la comuna de Putaendo, con jurisdicción sobre la misma comuna;
 
-Dos juzgados de letras con asiento en la comuna de Quillota, con jurisdicción sobre las comunas de Quillota, La Cruz, Quintero y Puchuncaví;
+Dos juzgados de letras con asiento en la comuna de Quillota, con jurisdicción sobre las comunas de Quillota y La Cruz;
+
+Un juzgado de letras con asiento en la comuna de Quintero, con jurisdicción sobre las comunas de Quintero y Puchuncaví;
 
 Un juzgado de letras con asiento en la comuna de Calera, con jurisdicción sobre las comunas de Calera, Nogales e Hijuelas;
 
@@ -320,7 +324,7 @@ En la Sexta Región, del Libertador General Bernardo O'Higgins, existirán los s
 
 Cuatro juzgados con asiento en la comuna de Rancagua, con jurisdicción sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar;
 
-Un juzgado con asiento en la comuna de Rengo, con jurisdicción sobre las comunas de Rengo, Requínoa, Malloa y Quinta de Tilcoco;
+Dos juzgados con asiento en la comuna de Rengo, con jurisdicción sobre las comunas de Rengo, Requínoa, Malloa y Quinta de Tilcoco;
 
 Un juzgado con asiento en la comuna de San Vicente, con jurisdicción sobre las comunas de San Vicente y Píchidegua;
 
@@ -362,7 +366,7 @@ A.- JUZGADOS CIVILES:
 
 Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con jurisdicción sobre las comunas de Concepción, Penco y Hualqui;
 
-Un juzgado de letras en lo civil con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrá la categoría de juzgado de asiento de Corte para todos los efectos legales.
+Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con jurisdicción sobre la misma comuna, que tendrá la categoría de juzgado de asiento de Corte para todos los efectos legales.
 
 B.- JUZGADOS DEL CRIMEN:
 
@@ -470,7 +474,7 @@ Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la mism
 
 Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco;
 
-Cuatro juzgados con asiento en la comuna de Osorno , con jurisdicción sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
+Cuatro juzgados con asiento en la comuna de Osorno, con jurisdicción sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
 
 Un juzgado con asiento en la comuna de Río Negro, con jurisdicción sobre las comunas de Río Negro y Purranque;
 
@@ -480,9 +484,13 @@ Dos juzgados con asiento en la comuna de Puerto Varas, con jurisdicción sobre l
 
 Un juzgado con asiento en la comuna de Calbuco, con jurisdicción sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Maullín, con jurisdicción sobre la comuna de Maullín y Los Muermos;
+Un juzgado con asiento en la comuna de Maullín y jurisdicción sobre esa misma comuna;
 
-Un juzgado con asiento en la comuna de Castro, con jurisdicción sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón, Queilén y Quellón;
+Un juzgado con asiento en la comuna de Los Muermos y jurisdicción sobre la misma comuna;
+
+Un juzgado con asiento en la comuna de Castro, con jurisdicción sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón y Queillén;
+
+Un juzgado con asiento en la comuna de Quellón y jurisdicción sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de Ancud, con jurisdicción sobre las comunas de Ancud y Quemchi. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales, sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
 
@@ -506,7 +514,7 @@ Un juzgado con asiento en la comuna de Cochrane, con jurisdicción sobre las com
 
 En la Décimo Segunda Región, de Magallanes y Antártica Chilena, existirán los siguientes juzgados de letras:
 
-Tres juzgados con asiento en la comuna de Punta Arenas, con jurisdicción sobre las comunas de las provincias de Magallanes y Antártica Chilena;
+Cuatro juzgados con asiento en la comuna de Punta Arenas, con jurisdicción sobre las comunas de las provincias de Magallanes y Antártica Chilena;
 
 Un juzgado con asiento en la comuna de Natales, con jurisdicción sobre las comunas de la provincia de Ultima Esperanza, y
 
@@ -518,27 +526,31 @@ En la Región Metropolitana de Santiago, existirán los siguientes juzgados de l
 
 A.- JUZGADOS CIVILES:
 
-Treinta juzgados de letras en lo civil, con asiento en la comuna de Santiago, con jurisdicción sobre las comunas de las provincias de Chacabuco y Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Treinta juzgados de letras en lo civil, con asiento en la comuna de Santiago, con jurisdicción sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales;
 
 Cuatro juzgados de letras en lo civil, con jurisdicción sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 B.- JUZGADOS DEL CRIMEN:
 
-Treinta y seis juzgados del crimen con jurisdicción sobre las comunas de las provincias de Chacabuco y Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Treinta y seis juzgados del crimen con jurisdicción sobre las comunas de la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de corte para todos los efectos legales;
 
 Once juzgados del crimen con jurisdicción sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 C.- JUZGADOS CON COMPETENCIA COMUN:
 
-Dos juzgados con asiento en la comuna de Puente Alto, con jurisdicción sobre todas las comunas de la provincia Cordillera;
+Tres juzgados con asiento en la comuna de Puente Alto, con jurisdicción sobre todas las comunas de la provincia Cordillera;
 
 Tres juzgados con asiento en la comuna de San Bernardo, con jurisdicción sobre las comunas de San Bernardo y Calera de Tango;
 
-Dos juzgados con asiento en la comuna de Talagante, con jurisdicción sobre las comunas de la provincia de Talagante;
+Dos juzgados con asiento en la comuna de Talagante y jurisdicción sobre las comunas de Talagante, El Monte e Isla de Maipo;
+
+Un juzgado con asiento en la comuna de Peñaflor y jurisdicción sobre la misma comuna;
 
 Dos juzgados con asiento en la comuna de Melipilla, con jurisdicción sobre las comunas de la provincia de Melipilla, con excepción de Curacaví, y
 
-Un juzgado con asiento en la comuna de Buin, con jurisdicción sobre las comunas de Buin y Paine.
+Dos juzgados con asiento en la comuna de Buin, con jurisdicción sobre las comunas de Buin y Paine.
+
+Un juzgado con asiento en la comuna de Colina, con jurisdicción sobre las comunas de la Provincia de Chacabuco.
 
 #### Artículo 41
 
@@ -722,15 +734,13 @@ q) El de la Corte de Punta Arenas comprenderá la Décimo Segunda Región de Mag
 
 Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indican:
 
-1.- Las Cortes de Apelaciones de Arica, Iquique, Antofagasta, Copiapó, La Serena, Rancagua, Chillán, Puerto Montt, Coihaique y Punta Arenas tendrán cuatro miembros;
+1° Las Cortes de Apelaciones de Iquique, Copiapó, Chillán, Puerto Montt, Coihaique y Punta Arenas tendrán cuatro miembros;
 
-2.- Las Cortes de Apelaciones de Talca, Temuco y Valdivia tendrán siete miembros;
+2° Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán siete miembros;
 
-3.- La Corte de Apelaciones de Concepción tendrá diez miembros;
+3° Las Cortes de Apelaciones de Valparaíso, San Miguel y Concepción tendrán trece miembros;
 
-4.- Las Cortes de Apelaciones de Valparaíso y San Miguel tendrán trece miembros, y
-
-5.- La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
+4° La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
 
 #### Artículo 57
 
@@ -740,11 +750,11 @@ Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendr�
 
 #### Artículo 58
 
-Cada Corte de Apelaciones tendrá un Fiscal. La Corte de Apelaciones de Santiago tendrá seis Fiscales; las Cortes de Apelaciones de Valparaíso y de San Miguel tendrán tres Fiscales; y las Cortes de Talca, Concepción, Temuco y Valdivia tendrán dos Fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
+Cada Corte de Apelaciones tendrá un fiscal. La Corte de Apelaciones de Santiago tendrá seis fiscales; las Cortes de Apelaciones de Valparaíso, San Miguel y Concepción tendrán tres fiscales; las Cortes de Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán dos fiscales cada una. El ejercicio de sus funciones será reglado por el tribunal como lo estime conveniente para el mejor servicio, con audiencia de estos funcionarios.
 
 #### Artículo 59
 
-Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Talca, Temuco y Valdivia tendrán cuatro; la Corte de Apelaciones de Concepción tendrá seis; la Corte de Apelaciones de Valparaíso tendrá ocho; la Corte de Apelaciones de San Miguel tendrá nueve, y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
+Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cuatro relatores; las Cortes de Apelaciones de Valparaíso y Concepción tendrán ocho relatores; la Corte de Apelaciones de San Miguel tendrá nueve relatores, y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
 
 #### Artículo 60
 
@@ -754,7 +764,7 @@ La Corte de Apelaciones de San Miguel tendrá dos secretarios. La Corte de Apela
 
 #### Artículo 61
 
-Las Cortes de Apelaciones de Talca, Temuco y Valdivia se dividirán en dos salas; la Corte de Apelaciones de Concepción en tres salas; las Cortes de Apelaciones de San Miguel y Valparaíso en cuatro salas, y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil del mes de enero de cada año.
+Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso, San Miguel y Concepción en cuatro salas, y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil del mes de enero de cada año.
 
 #### Artículo 62
 
@@ -1746,7 +1756,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 2.379 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 1.778 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 3.008 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 2.248 pesos.
 
 #### Artículo 199
 
@@ -4556,7 +4566,7 @@ Para interponer un recurso de queja, el recurrente deberá consignar previamente
 
 Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a una unidad tributaria mensual, si el recurso se interpone ante la Corte Suprema o ante la Corte de Apelaciones; y de media unidad tributaria mensual, si se interpone ante un juez de letras.
 
-No regirá la exigencia de la consignación previa tratándose de los recursos de queja que deduzcan los oficiales del ministerio público, los defensores públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
+No regirá la exigencia de consignación previa tratándose de los recursos de queja que deduzcan los oficiales del ministerio público, los defensores públicos, los representantes del Fisco, los trabajadores demandantes en los juicios seguidos ante los tribunales del trabajo, los procesados en causa criminal y los que gozan de privilegio de pobreza.
 
 La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
 
