@@ -19832,9 +19832,9 @@ FIRMAS DE AUDITORES EXTERNOS DE BANCOS INSCRITAS EN EL REGISTRO DE ESTA SUPERINT
 
 Número de
 
-Incripción * Nombre de la empresa.
+Inscripción * Nombre de la empresa.
 
-002 PRICE WATERHOUSE, CONSULTORES, AUDITORES Y CIA. LTDA.
+002 PRICEWATERHOUSECOOPERS, CONSULTORES, AUDITORES Y COMPAÑIA LIMITADA.
 
 005 DELOITTE & TOUCHE SOCIEDAD DE AUDITORES Y CONSULTORES LIMITADA.
 
@@ -19844,7 +19844,7 @@ Incripción * Nombre de la empresa.
 
 014 GRANT THORNTON AUDITORES CONSULTORES LIMITADA.
 
-019 LANGTON CLARKE, AUDITORES Y CONSULTORES LIMITADA.
+019 LANGTON CLARKE, AUDITORES Y CONSULTORES LTDA.
 
 020 CGA AUDITCORP LTDA.
 
@@ -19854,7 +19854,7 @@ Incripción * Nombre de la empresa.
 
 023 ERNST & YOUNG SERVICIOS PROFESIONALES DE AUDITORIA Y ASESORIAS LIMITADA.
 
-* Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos.
+Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos.
 
 CAPITULO 20-1 (Bancos y Financieras)
 
