@@ -1,0 +1,3 @@
+Por resolución Nº 1.826, de 10 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96110274, presentada por PESQUERA MARES AUSTRALES LIMITADA, para operar un centro de cultivo ubicado en Paso Sibbald (entre Punta Apablaza y Punta Cesari), comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 10 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
