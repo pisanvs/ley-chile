@@ -1,0 +1,3 @@
+Por decreto MOP Nº784 de fecha 30 de abril del 2002, se expropiaron los lotes de terreno Nº383 y 384, superficies 586 y 109 m2, rol de avalúo Nº33-229, comuna de Pichidegua, para la obra ''Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 al Km. 16,48000'', VI Región y se acordó el valor de indemnización con su propietario René Antonio Fuentes Jerez, ascendente a la cantidad de $4.876.424.-
+
+Fiscal del Ministerio de Obras Públicas .
