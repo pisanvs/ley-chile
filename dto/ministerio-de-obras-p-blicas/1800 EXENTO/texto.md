@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.800, de fecha 30 de noviembre del 2001, se expropió el lote de terreno Nº 70, superficie 595 m², rol de avalúo Nº 63-166, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, sector Acceso Pedregoso - Liucura, Km. 141,00000 al Km. 158,54000, correspondiente al Tramo III Km. 153,84800 al Km. 158,54000, provincia de Malleco, comuna de Lonquimay", IX Región y se acordó el valor de indemnización con su propietario Cesario Alberto Sayhueque Curiche, ascendente a la cantidad de $249.115.
+
+Fiscal del Ministerio de Obras Públicas.
