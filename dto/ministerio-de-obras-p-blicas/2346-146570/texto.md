@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.346, de 30 de agosto de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº140-C para la obra Concesión Internacional Ruta 5 Tramo: Río Bueno - Puerto Montt. Sector Enlace La Laja Km. 1.011,800 al Km.
+
+1.013,160, Décima Región, que figura a nombre de Importaciones Eximben SAC, rol de avalúo 1001-6, comuna de Puerto Varas, superficie 353 m2. La comisión de peritos integrada por los señores Christian Emil Rauch Yáñez, Carlos Eugenio Mera Santibáñez y Enrique Edgardo Hoelck Altmann, fijó con fecha 19 de mayo de 1999, el valor provisional de la indemnización en la cantidad de $1.059.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
