@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 474, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 51, superficie 150 m2, rol de avalúo 5050-306, comuna de Punta Arenas, para la obra "Reposición Ruta-9 y Acc. Aeropuerto, Sector (Ruta 9) Km. 5,31490 - Km. 19,342349 (Acceso Aeropuerto) Km. 0,000 - Km. 1,295819" y se acordó el valor de indemnización con su propietario Santiago Pérez Pérez, ascendente a la cantidad de $895.250.-
+
+Fiscal del Ministerio de Obras Públicas.
