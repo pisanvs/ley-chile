@@ -1,0 +1,3 @@
+Por Resolución N° 119 de 23 de Noviembre de 1994 de SERVIU I Región de Tarapacá, se dispuso expropiación conforme al Decreto Ley N° 2.186 de 1978 de una parte del inmueble ubicado en Avda. Santa María N° 2131, presunto Rol de Avalúo N° 950-2, Comuna de Arica, aparente dominio de Sociedad Exportadora Ltda. Comisión integrada por peritos señores Jorge Romero Ossio, Ricardo Muixi Decona, Constructores Civiles y Santiago Vallejos Medicic, Arquitecto, según informe de 05 de Octubre de 1994 fijó monto provisional de indemnización en $2.090.000, pagadero al contado.
+
+Director SERVIU I Región de Tarapacá.
