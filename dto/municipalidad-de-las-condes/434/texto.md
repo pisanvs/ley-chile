@@ -1,0 +1,5 @@
+EXTRACTO EXPROPIACION
+
+La I. Municipalidad de Las Condes, por Decreto Alcaldicio Secc. la. No. 434, de 01 de Abril de 1986, dispuso expropiación por causa de utilidad pública de conformidad con el artículo 59 del Decreto con Fuerza de Ley No. 458 y Ley No. 2.186 de 1.473 metros cuadrados, parte de la propiedad ubicada en Avda. Las Condes No. 11450, según plano RM PIS 84/23, Rol de Avalúos 3405-22 (lote 9 del Plano LD-37 Chacra de Las Mercedes), de dominio de la Sucesión del Sr. Sergio Matta Echaurren. Esta expropiación se efectúa con el objeto de completar la apertura de calle San Damián; entre Avda, Las Condes y Las Hualtatas, de conformidad al Plano RM - PIS 84/23. La superficie a expropiar se encuentra definida en el plano A.U. No. 30, de Asesoría Urbana, de fecha 31 de Mayo de 1985, con sus deslindes y dimensiones. El monto provisional de la indemnización, es la suma de $ 14.831.306. La Indemnización se pagará al expropiado al contado, al momento de suscribirse la escritura pública en que conste su acuerde con la expropiación, sin perjuicio de lo establecido en el artículo 17 del Decreto Ley No. 2.186.-
+
+El Alcalde.
