@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Resolución Nº36, de 28 de abril de 1998, Serviu VI Región del Libertador Bernardo O'Higgins ordenó expropiación de parte del inmueble ubicado en Avenida Freire Nº 869 de Rancagua, Rol de Avalúos Nº 339-2 comuna de Rancagua, superficie de 180,00 metros cuadrados, delimitada en el polígono G-R-Q-A-S-G conforme Plano U.E.P. T-328, de aparente dominio de doña Raquel Moreno Navarro, dominio inscrito a fojas 1016 Nº 1243 del Registro de Propiedad del C.B.R. de Rancagua, correspondiente al año 1954, para ejecución Proyecto Mejoramiento Red Vial Sector Oriente Rancagua, conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Tasadora Peritos: Arquitectos Sres. Eduardo González Brard, Oscar Novoa Vargas y René Corvalán Vera, según informe fecha marzo 1998, fijó monto provisional indemnización en $ 89.673.610.-
+
+Director Serviu VI Región.
