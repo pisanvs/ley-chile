@@ -1,0 +1,3 @@
+Por resolución Nº 621, de 25 de marzo de 2002, de esta Subsecretaría, apruébase la solicitud presentada por LUIS ENRIQUE FIGUEROA SAN CELEDONIO, para transferir la autorización de acuicultura otorgada por la resolución Nº 612 de 1999, a Aquachile S.A. Esta transferencia deberá efectuarse conforme a las normas legales y reglamentarias vigentes.
+
+Valparaíso, 25 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
