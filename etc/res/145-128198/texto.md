@@ -1,0 +1,3 @@
+Por resolución Nº 145, de 7 de diciembre de 1998, Serviu VI Región dispuso conforme D.L. 2.186 de 1978, expropiación parcial del inmueble ubicado en Camino El Litoral s/n, Rol de avalúos Nº 1404-1 de la comuna de Rancagua, superficie de 547,40 metros cuadrados, de aparente dominio de don Manuel Ponce Muñoz, según inscripción de fojas 367 vta. Nº 438 del Registro de Propiedad del Conservador de Bienes Raíces de Rancagua, correspondiente al año 1947. Comisión Tasadora integrada por peritos Sres. Alejandro Sandoval H., arquitecto, Eduardo González B., arquitecto y Alejandro Padilla H, constructor civil, según informe de fecha 22 de julio de 1998, fijó monto provisional indemnización en $5.531.800.- pagadera al contado.-
+
+Director Serviu VI Región.
