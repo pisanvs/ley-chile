@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.300, de 31 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 13, para la ejecución de la obra "Camino Ruta K-620, Sector Culenar - Maule, Tramo Km. 0,000.00 a Km. 10,520.00", que figura a nombre de Garrido Méndez Emiliano y otros, rol de avalúo 167-303, comuna de Maule, VII Región, superficie 752 m2. La Comisión de peritos con fecha 12 de octubre de 2001, fijó el monto de la indemnización provisional en la cantidad de $16.667.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
