@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 65, de fecha 30 de junio del año 2000, se aprobó la reforma del estatuto de la Cooperativa de Servicios de Veraneo, Recreación y Descanso El Bosque de Castilla Limitada, de Santiago, en los términos que da testimonio el instrumento protocolizado bajo el número 118, con fecha 27 de marzo del año 2000, ante el Notario de Santiago, don Carlos Rodríguez Salgado, Suplente del Titular, don Arturo Carvajal Escobar.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
