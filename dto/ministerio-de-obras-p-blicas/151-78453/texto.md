@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 151, de 28 de mayo de 1992, se expropiaron los lotes N°s 29 y 31, superficies 1.223 m2. y 14.398 m2., rol de avalúo 5015-4, Comuna de Coronel, para la obra Camino By Pass Coronel - Lota (Ruta 160), sector By Pass Coronel-Lota y se acordó precio de indemnización con su propietaria Forestal Bío Bío S.A., ascendente a la cantidad de $ 14.839.950.-
+
+Fiscal del Ministerio de Obras Públicas.
