@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.564, de 9 de junio de 2004, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.388 de 2003, de esta Subsecretaría, que rechazó la solicitud Nº 200111276, presentada por INVERSIONES CONCOTO LIMITADA para un centro de cultivo ubicado en sector sur de Isla Valverde, IX Región, en virtud del artículo 59 de la ley Nº 19.880.
+
+Valparaíso, 9 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
