@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.783, de 30 de junio de 1999, se expropiaron los lotes de terreno Nºs. 5 y 10, superficies 1.743,2 y 2.441,7 m², respectivamente, roles de avalúo 212-117 y 212-30, comuna de Teodoro Schmidt y se acordó precio de indemnización con sus propietarios Eduardo Pacter o Eduardo Pacter Pacter y Manuel Quiroz Ruiz, ascendente a las cantidades de $5.646.698 y $926.000.
+
+- Fiscal del Ministerio de Obras Públicas.
