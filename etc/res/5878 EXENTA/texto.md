@@ -1,0 +1,137 @@
+DISPONE INCLUSION EN NOMINAS DE POSTULANTES SELECCIONADOS PARA EL GOCE DEL SUBSIDIO HABITACIONAL
+
+Res. Exenta Nº 5.878, de fecha 30 de diciembre de 2004, dispone la inclusión en las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado 2004 (Título I y Título III), del Sistema de Subsidio Habitacional Rural, de las personas que a continuación se indican:
+
+Nº Título Nombre del
+
+Beneficiario Tipo de
+
+Postulación Monto
+
+de
+
+Subsidio Región
+
+1 I BURGOS CONTRERAS
+
+FERNANDO DE LA CRUZ INDIVIDUAL 170 VIII
+
+2 I CALABRAN HERNANDEZ
+
+DIEGO INDIVIDUAL 170 VIII
+
+3 I CALABRAN HERNANDEZ
+
+SEBASTIAN DEL CARMEN INDIVIDUAL 170 VIII
+
+4 I CARRASCO ECHEVERRIA
+
+MARCELO IGNACIO INDIVIDUAL 170 VIII
+
+5 I FLORES AGUAYO
+
+MARISEL INGRID INDIVIDUAL 170 VIII
+
+6 I FLORES RIVERA JENNY INDIVIDUAL 170 VIII
+
+7 I MACAYA IRRIBARRA
+
+FERNANDO ERASMO INDIVIDUAL 170 VIII
+
+8 I MAUREIRA CIFUENTES
+
+LUISA ELENA INDIVIDUAL 170 VIII
+
+9 I MIRANDA VILLAGRAN
+
+LEONARDO OCTAVIO INDIVIDUAL 170 VIII
+
+10 I MORA FLORES ELSA INDIVIDUAL 170 VIII
+
+11 I MORALES CAMPOS
+
+MANUEL JACOB INDIVIDUAL 170 VIII
+
+12 I MUÑOZ SOTO MARIA
+
+HUMILDE INDIVIDUAL 170 VIII
+
+13 III OLAVE PEDRAZA JUAN
+
+GUILLERMO INDIVIDUAL 85 VIII
+
+14 I PARADA PARADA
+
+JUAN EDUARDO INDIVIDUAL 170 VIII
+
+15 I PONTONI ESCALONA
+
+SILVANA LORENA INDIVIDUAL 170 VIII
+
+16 I PULGAR GONZALEZ
+
+MARIANO ENRIQUE INDIVIDUAL 170 VIII
+
+17 I SAAVEDRA SAAVEDRA
+
+PATRICIO ALEJANDRO INDIVIDUAL 170 VIII
+
+18 I SAN MARTIN BAZA
+
+OLDINIA GUISELA INDIVIDUAL 170 VIII
+
+19 I SILVA SOLIS INGRID
+
+MABEL INDIVIDUAL 170 VIII
+
+20 I TEJEDA AGURTO
+
+ROSALBA DEL CARMEN INDIVIDUAL 170 VIII
+
+21 I URZUA CADIZ LAURA
+
+ANTONIETA INDIVIDUAL 170 VIII
+
+22 I GONZALEZ GONZALEZ
+
+MANUEL JESUS INDIVIDUAL 170 VIII
+
+23 I PINO CARRASCO ROSA
+
+AMELIA INDIVIDUAL 170 VIII
+
+24 I SALCEDO SALCEDO
+
+ENRIQUE ALONSO INDIVIDUAL 170 VIII
+
+25 I SALINAS GONZALEZ
+
+ROBERTO ENRIQUE INDIVIDUAL 170 VIII
+
+26 I SOTO CALABRANO
+
+BRIGIDA DEL ROSARIO INDIVIDUAL 170 VIII
+
+27 I ALBORNOZ YAUPI
+
+RUBEN DARIO INDIVIDUAL 127,5 VIII
+
+28 I MANRIQUEZ GUTIERREZ
+
+GLADIS DEL CARMEN INDIVIDUAL 127,5 VIII
+
+29 I MARIHUEN MARIHUEN
+
+JOSE ALADINO INDIVIDUAL 127,5 VIII
+
+30 I HUENCHUNAO ANTIVIL
+
+LUIS GERMAN INDIVIDUAL 170 VIII
+
+31 III SAAVEDRA SAAVEDRA
+
+JUANA ROSA INDIVIDUAL 85 VIII
+
+Como consecuencia de lo anterior, el número de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado 2004 (Título I) del Sistema de Subsidio Habitacional Rural, queda en 6.958 y el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en ese llamado queda en 1.184.190 Unidades de Fomento (U.F.), y el número de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado 2004 (Título III), del Sistema de Subsidio Habitacional Rural, queda en 1.408 y el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en ese llamado queda en 119.637,50 Unidades de Fomento (U.F.).
+
+Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
