@@ -1,0 +1,5 @@
+Por decreto MOP Nº248, de 28 de marzo de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº15-1 para la obra:
+
+"Sistema Norte-Sur. Tramo E: Río Mapocho - Ruta 5 Norte. Sector: Km. 0.400,00 a Km. 1.000,00", Región Metropolitana, que figura a nombre de Serviu Metropolitano, rol de avalúo 1267-4, comuna de Renca, superficie 270 m2. La comisión de peritos integrada por los señores Mufida Viola Abuawad Elias, Ricardo Antonio Strickler Arellano y Roberto Carlos Muñoz Ordenes, fijó con fecha 28 de febrero de 2003, el valor provisional de la indemnización en la cantidad de $3.640.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
