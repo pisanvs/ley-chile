@@ -1,0 +1,3 @@
+Por Resolución N° 510, de 24 de Mayo de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 279, de 1994, de esta Subsecretaría, que autorizó a CONGELADOS DEL PACIFICO LTDA., R.U.T. N° 79.773.390-3, para operar una planta industrial en la misma dirección, en el sentido que los recursos para el abastecimiento de dicha planta también podrán ser adquiridos del sector industrial.
+
+Valparaíso, 24 de Mayo de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
