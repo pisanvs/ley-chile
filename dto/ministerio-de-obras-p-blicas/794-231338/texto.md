@@ -1,0 +1,3 @@
+Por decreto MOP Nº 794 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 24, superficie 92 M2, Rol Nº 1372-11, comuna de Antofagasta, II Región para la obra "Mejoramiento Av. Salvador Allende, Tramo Avda. Circunvalación Avda. Sarmiento" y se acordó el valor de indemnización con su propietario Luciano Bartolo Choque, ascendente a la cantidad de $7.299.131.
+
+- Fiscal del Ministerio de Obras Públicas.
