@@ -1,0 +1,3 @@
+Por resolución exenta No. 27 de fecha 28-06-85 de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones XI Región, se autoriza a la Sra. Lucila Leiva Fuentes, para efectuar servicio de taxi colectivo urbano de la Línea No. 1 Circunvalación, cuyo trazado fue autorizado por la resolución No. 12 de fecha 21-06-84 de esta Secretaria Regional.
+
+Coyhaique, 28 de Junio de 1985.- Eliecer Aedo Rivera, Secretario Regional Ministerial de Transportes y Telecomunicaciones, XI Región Aysén.
