@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº903, de 31 de mayo de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1 y 2, para la obra Camino Acceso a Chañar Blanco, que figuran a nombre de Rojas Rojas Tegualda Elvira y Leonardo Rodríguez, roles de avalúo 12-14 y E/T, superficies 1.030 m2. y 125 m2., comuna de Paihuano. La Comisión de Peritos, con fecha 6 de abril de 2001, fijó la indemnización provisional en las cantidades de $1.442.000, lote 1 y $318.000, lote 2, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
