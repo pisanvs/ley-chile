@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA QUINTERO S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 564, de 04.06.87 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Quintero S.A. con domicilio en Santiago, para ampliar actividades pesqueras autorizadas por resolución No. 132, de 1986, de esta Subsecretaría en orden a extender la actual una de operación pesquera extractiva de las embarcaciones individualizadas en el numeral 2° de la referida resolución en el siguiente sentido: Las nominadas "Goden Wind", "Basel" y "Eversen" podrán capturar camarón nailon y langostino amarillo de las II a X Regiones y merluza común de las III a X Regiones, la nominada "Crusoe I" podrá hacerlo de las II a X Regiones respecto a los tres recursos antes señalados y de la III a X Regiones respecto al langostino colorado.
+
+Valparaíso, 04.06.87.- Roberto Cabezas Bello, Subsecretario de Pesca.
