@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.030, de 31 de octubre de 2000, se expropió el lote de terreno Nº16, superficie 158 m2., rol de avalúo 189-119, comuna de Longaví, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Miguel Angel Pérez Vallejos, ascendente a la cantidad de $883.738.
+
+- Fiscal del Ministerio de Obras Públicas.
