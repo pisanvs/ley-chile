@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 291, de 2 de febrero de 2004, se dejaron sin efecto los decretos exentos MOP Nº 1.338, de 31 de octubre, y Nº 1.573, de 28 de noviembre, ambos de 2003, por cuanto los lotes Nºs. 12, 15, 16, 33, 35, 39, 42 y 43 fueron expropiados por decreto exento MOP Nº 1.417, de 31 de octubre de 2003 y consignados en la cuenta corriente del Primer Juzgado Civil de Valparaíso. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
