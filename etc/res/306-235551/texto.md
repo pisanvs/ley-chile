@@ -1,0 +1,9 @@
+Por resolución Nº 306, de 7 de febrero de 2005, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Pesca de Investigación de Ostión del Sur en la Región de Magallanes, febrero 2005".
+
+El objetivo principal de la pesca de investigación consiste en generar información biológica pesquera del recurso Ostión del sur, en áreas de pesca de la provincia de Ultima Esperanza.
+
+La pesca de investigación se efectuará entre el 10 de febrero y el 10 de marzo de 2005, en el área marítima de los fiordos Falcon, Penguin, Europa y Calvo, todos de la provincia de Ultima Esperanza, XII Región. Podrán participar en la pesca de investigación que por la presente resolución se autoriza, los buzos, embarcaciones artesanales y sus respectivos armadores que cumplan los siguientes requisitos: a) Encontrarse inscritos en el Registro Pesquero Artesanal de la XII Región, sección pesquería Ostión del sur, al 31 de enero de 2005; b) haberse acreditado en la oficina del Servicio Nacional de Pesca de Puerto Natales, XII Región, en forma previa al inicio de las faenas extractivas. La acreditación podrá realizarse a contar del día 8 de febrero de 2005, mediante la entrega de la información requerida en el formulario que proporcione el Instituto de Fomento Pesquero para estos efectos. Podrán participar también las naves de transporte que identifiquen la nómina de embarcaciones extractivas que los abastecerán, así como las plantas procesadoras con domicilio en la XII Región, que se registren con el Instituto de Fomento Pesquero hasta el 8 de febrero de 2005.
+
+El Instituto designa como persona responsable de esta pesca de investigación a su Director Ejecutivo, don Guillermo Moreno Paredes.
+
+Valparaíso, 7 de febrero de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
