@@ -490,11 +490,29 @@ Los exámenes rendidos por alumnos que hubieren presentado antecedentes escolare
 
 #### Artículo 59
 
-Los alumnos libres tendrán derecho a rendir exámenes en Diciembre o Marzo. Las solicitudes para rendirlos en cualquiera de estas temporadas deberán presentarse antes del 15 de Octubre, con los antecedentes que correspondan, a la Dirección de Educación Secundaria, en Santiago, y en provincia al jefe del liceo fiscal respectivo.
+Los alumnos libres tendrán derecho a rendir examen de validación de estudios de Educación General Básica y/o de Enseñanza Media Humanístico - Científica, en dos temporadas:
 
-Si el candidato es menor de edad, la solicitud correspondiente deberá ser firmada por el apoderado. Además, deberá acompañarse una declaración del apoderado en que se exprese que los datos contenidos en la solicitud son rigurosamente efectivos.
+a) de fin de curso, desde el 1º de Octubre al 31 de Diciembre;
 
-Los exámenes rendidos en Marzo tendrán carácter de repetición, aunque se rindan por primera vez.
+b) de repetición, desde la iniciación del año escolar hasta el 31 de Marzo.
+
+Las solicitudes para rendir examen de validación de estudios en cualquiera de las temporadas señaladas, se presentarán, antes del 30 de Junio, a los Directores Departamentales o Locales de Educación o a los Jefes de Liceos Humanístico - Científicos
+
+-según corresponda- quienes podrán otorgar la autorización que proceda ciñéndose estrictamente a la reglamentación en vigencia y responsabilizándose de la regularidad de todo el proceso.
+
+En los casos en que se solicite examen de validación que comprenda cursos de Educación General Básica y de Enseñanza Media, la petición deberá presentarse al Jefe del Liceo Humanístico - Científico correspondiente, quien podrá otorgar la autorización respectiva conforme a las disposiciones reglamentarias pertinentes.
+
+Si el alumno es menor de edad, la solicitud será firmada por el padre o apoderado.
+
+Los peticionarios deberán acompañar a la solicitud los siguientes documentos:
+
+a) Certificado de nacimiento o cédula de identidad.
+
+b) Certificado de residencia.
+
+c) Los certificados de estudios correspondientes a los cursos anteriores al nivel que se solicita extendidos o visados, a la fecha de la presentación, por el Jefe del establecimiento educacional que los otorgó o por la autoridad competente de la Dirección de Educación.
+
+d) Declaración Jurada del Apoderado, en que se exprese que los datos contenidos en la solicitud son rigurosamente efectivos. Este requisito será obligatorio sólo para los alumnos libres menores de 21 años.
 
 #### Artículo 60
 
