@@ -1,0 +1,3 @@
+Por Resolución No. 843 de 17 de Julio de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar de esta fecha, el plazo otorgado en el numeral 5°, de la Resolución No. 375, de 1989 de esta Subsecretaría, a PESQUERA CHIVILINGO S.A., RUT No. 96.508.710-9, domiciliada en Santiago, para empezar a operar la planta industrial autorizada en la mencionada Resolución, en razón de haberse acreditado la existencia de fuerza mayor.
+
+Valparaíso, 17 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
