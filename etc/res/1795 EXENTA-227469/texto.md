@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.795, de 1 de julio de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111014 presentada por PESQUERA LOS FIORDOS LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Puyuguapi, isla Magdalena, al noreste de punta Krauss, sector 1, XI Región.
+
+Valparaíso, 1 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
