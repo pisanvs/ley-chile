@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº814 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº10, superficie 210 m2, Rol Nº121-1, comuna de Cunco, IX Región para la obra ''Camino Ruta S-61, sector Cunco - Melipeuco, Km. 55,000 al Km. 87,46783, correspondiente al Tramo I Km. 55,000 al Km. 62,784'', y se acordó el valor de indemnización con su propietario Moisés Armando Ortega Viveros, ascendente a la cantidad de $905.566.-
+
+Fiscal del Ministerio de Obras Públicas.
