@@ -1,0 +1,73 @@
+EL CONSEJO DE DEFENSA FISCAL SERA UN SERVICIO INDEPENDIENTE DE LOS MINISTERIOS
+
+Núm. 460.- Santiago, 19 de Agosto de 1932.- Considerando que las funciones del Consejo de Defensa Fiscal, además, de la atención de los juicios, consisten en evacuar los dictámenes técnicos-jurídicos que le solicitan los diversos Ministerios de Estado;
+
+Que, por lo tanto, no existe razón suficiente que justifique su dependencia de un Ministerio determinado;
+
+Que, por el contrario, hay manifiesta conveniencia en que su acción se ejercite con la mayor independencia posible;
+
+Que, en la práctica se ha dejado sentir la falta de algunas disposiciones legales que permitan hacer más eficiente la defensa de los intereses fiscales;
+
+Que, por otra parte, el Consejo de Defensa Fiscal, como la Dirección General de Impuestos Internos, tiene intervención directa y eficaz en la percepción de las multas impuestas a beneficio fiscal por infracción a las leyes tributarias y otras;
+
+Que, es de justicia que todo el personal de las reparticiones públicas que colabora en la percepción de las referidas multas, tenga la debida participación en los beneficios que otorgan las leyes vigentes sobre el particular,
+
+he acordado y dicto el siguiente Decreto-ley:
+
+#### Artículo 1
+
+o El Consejo de Defensa Fiscal, constituirá un servicio independiente de todos los Ministerios y demás reparticiones del Estado; estará colocado sólo bajo la supervigilancia del Presidente de la República, y se regirá por las disposiciones del D.
+
+F. L. N.o 246, de 20 de Mayo de 1931, con las modificaciones contenidas en el presente decreto-ley.
+
+#### Artículo 2
+
+o Los decretos y demás resoluciones supremas relacionadas con el Consejo serán dictadas por el Ministerio de Hacienda. En los casos de transacciones, los decretos respectivos serán estudiados y firmados por el Ministro del ramo, además del de Hacienda.
+
+#### Artículo 3
+
+o Modifícase el artículo 16, del D.F.L. N.o 246, de 20 de Mayo de 1931, en la siguiente forma: "El Presidente de República podrá transigir en juicio con el acuerdo de los dos tercios, a lo menos, de los abogados del Consejo de Defensa Fiscal, adoptado en sesión especialmente convocada con tal objeto, siempre que el monto de la transacción no exceda de quinientos mil pesos. Cuando excediere de esta suma dicho acuerdo deberá ser tomado por la unanimidad de los miembros del Consejo".
+
+#### Artículo 4
+
+o Agrégase al artículo 13 del D.F.L. N.o 246, el siguiente inciso: "En los juicios en que el Fisco obre como demandante, podrá éste ocurrir a los tribunales indicados en el inciso primero o al del domicilio del demandado, cualquiera que sea la naturaleza de la acción deducida".
+
+#### Artículo 5
+
+o Reemplázase el inciso final del artículo 19, del D.F.L. N.o 246, por el siguiente: "El nombramiento de este personal, hasta el grado 12 inclusive, se hará a propuesta del Presidente del Consejo, de acuerdo con éste y el resto a propuesta sólo del Presidente".
+
+#### Artículo 6
+
+o Sustitúyese el artículo 20, del D.F.L. N.o 246, por el que sigue: "Los abogados del Consejo, los abogados-procuradores y los abogados auxiliares que se retiren o se hayan retirado del servicio, no podrán patrocinar en juicio intereses contrapuestos al interés fiscal en ningún asunto en que, por razón de sus funciones hubieren tenido intervención directa".
+
+#### Artículo 7
+
+o Modifícase el artículo 21 del citado D.F.L.
+
+N.o 246, en la forma siguiente: "Los abogados de la Defensa Fiscal, quedan exonerados de la obligación de pagar patente profesional".
+
+#### Artículo 8
+
+o En las causas civiles o criminales en que el Fisco sea parte, los tribunales que de ellas conozcan ordenarán, a petición de aquél, el registro de las sentencias que dicten aún cuando la parte contraria no entregue en Secretaría el papel sellado o las estampillas correspondientes. Pero en tal caso, dicha parte estará obligada a sastisfacer dichos impuestos dentro de tercero día de notificada la respectiva sentencia, bajo apercibimiento de no poder presentar escritos o interponer recursos sin haber efectuado previamente el pago de los referidos impuestos.
+
+#### Artículo 9
+
+o Los empleados administrativos y los notarios, conservadores, archiveros, oficiales civiles y todos aquellos funcionarios que puedan contribuir en razón de su cargo al esclarecimiento de los derechos que el Fisco haga valer en juicio, estarán obligados a proporcionar gratuitamente, los datos, informes y copias de los instrumentos que les solicite el Consejo de Defensa Fiscal.
+
+#### Artículo 10
+
+Modifícase el inciso 3.o del artículo 5.o de la ley N.o 5,105, de 18 de Abril último, en la siguiente forma: El saldo restante y las otras multas de beneficio fiscal que produzcan las demás leyes cuya aplicación, fiscalización y ejecución están a cargo de la Dirección General de Impuestos Internos y del Consejo de Defensa Fiscal, se destinará en un 85 por ciento a formar un fondo de ahorro a favor del personal de la expresada Dirección, a prorrata de sus sueldos, y el 15 por ciento restante se distribuirá en igual proporción entre el personal del Consejo de Defensa Fiscal. Dicha participación favocerá al personal indicado desde la vigencia de la ley".
+
+Disposiciones transitorias
+
+#### Artículo 1
+
+o Elévase desde el grado 11, al 9.o el cargo de procurador de Segunda Instancia del Consejo de Defensa Fiscal. Dedúzcase el mayor gasto correspondiente al presente año del ítem 08/09/04/fl., del Presupuesto del Ministerio de Justicia consultado para el Consejo de Defensa Fiscal en el año en curso.
+
+#### Artículo 2
+
+o Autorízase al Presidente de la República, para refundir en un solo texto las disposiciones vigentes del D.F.L. N.o 246, de 20 de Mayo de 1931, con las del presente decreto-ley.
+
+Este decreto-ley empezará a regir desde de su publicación en el Diario Oficial.
+
+Tómese razón, comuníquese, publíquese e insértese en el Boletín de Leyes y Decretos del Gobierno.- CARLOS DAVILA.- Ernesto Barros.- G. M. Bañados.
