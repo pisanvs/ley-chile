@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 49 de 14 de Enero de 1986, conforme art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado predio "Vegas de Saldías", de la comuna de Pinto, VIII Región; y derechos aprovechamiento de aguas que corresponden a las parcelas N° 1 a la 5, 8 a la 9 y 11 a 14, sitios N° 1 al 17, del Proyecto de Parcelación "Vegas de Saldías", formado por predio señalado. Los Derechos de Agua se extraen del Canal La Vega 1 o Vega de Saldías derivado del río Chillán.- Publicación hecha conforme art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
