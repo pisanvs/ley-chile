@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.235, de 19 de agosto de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº253-1, para la obra Camino Ruta 5 Norte. Tramo: Santiago - Los Vilos. Sector: Km.
+
+63.400,00 al Km. 73.900,00. Región Metropolitana, que figura a nombre de Campos Bascope Tomás Alfonso, rol de avalúo 71-16, comuna de Til-Til, superficie 1.114 m2. La Comisión de Peritos integrada por los señores Fernando Alfredo Fonck Balde, Victoria Adriana Blanco Costa y Ronald Mac-Ginty Gaete, fijó con fecha 26 de enero de 1998, el valor provisional de la indemnización en la cantidad de $167.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
