@@ -1,0 +1,3 @@
+Por decreto MOP Nº828 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº100, superficie 345,00 m², Rol Nº S/R, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-184-182, sector El Noviciado-Cruce Ruta G-16 (Lipangue), Tramo de Km. 4,450 a 15,04419", y se acordó el valor de indemnización con su propietario Efraín de la Cruz Riveros Plaza, ascendente a la cantidad de $3.426.234.-
+
+Fiscal del Ministerio de Obras Públicas.
