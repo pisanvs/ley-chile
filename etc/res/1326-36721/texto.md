@@ -1,0 +1,3 @@
+Por Resolución N° 1.326, de 17 de julio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por JOSE MIGUEL GOMEZ BONTA, para un centro de cultivo ubicado en Bahía Inglesa, Comuna de Caldera, Provincia de Copiapó, III Región, conforme lo dispuesto en el artículo 78°, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
