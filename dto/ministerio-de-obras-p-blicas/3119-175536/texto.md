@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.119 de 31 de julio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº14, para la ejecución de la obra Camino Quinchamalí - Cruce Ruta N-66-O, Sector Km. 0.000 a Km. 0.409, que figura a nombre de Mercedes Fuentealba, rol de avalúo 2253-16, de la comuna de Chillán, VIII Región, superficie 2.078 m². La comisión de peritos fijó con fecha 20 de enero de 1997, la indemnización provisional en la cantidad de $1.433.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
