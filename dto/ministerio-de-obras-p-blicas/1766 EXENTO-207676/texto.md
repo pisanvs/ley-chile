@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.766, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº70, superficie 227 m2, rol de avalúo Nº5050-174, comuna de Punta Arenas, XII Región, para la obra ''Reposición Ruta 9 y Acceso a Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349 (Acceso Aeropuerto) Km. 0,000 al 1,295819'' y se acordó el valor de indemnización con su propietaria doña Gloria del Carmen Oyarzo Baker, ascendente a la cantidad de $1.419.071.-
+
+Fiscal del Ministerio de Obras Públicas.
