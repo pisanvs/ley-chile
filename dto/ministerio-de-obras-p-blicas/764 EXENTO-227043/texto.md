@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 764 de fecha 31 de mayo del 2004, se expropió el lote de terreno Nº 37-A, superficie 28 m2, rol Nº 1129-79, comuna de Pichilemu, VI Región, para la obra "Camino Pichilemu-Cáhuil, Ruta I-500, Km. 0,980 a Km. 12,76217", y se acordó el valor de indemnización con su propietario Philips Brisbanne Eugene Smith Espejo, ascendente a la cantidad de $393.720.-
+
+Fiscal del Ministerio de Obras Públicas.
