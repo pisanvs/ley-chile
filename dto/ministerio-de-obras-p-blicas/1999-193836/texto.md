@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.999, de 30 de noviembre de 2001, se expropió el lote de terreno Nº23-B1, superficie 528 m², rol de avalúo 50-1, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt Sector población Dollinco de Kms. 957,100 al 957,400, Décima Región y se acordó el valor de indemnización con su propietario Manuel Fernando Vera Navarrete, ascendente a la cantidad de $26.089.705.
+
+- Fiscal del Ministerio de Obras Públicas.
