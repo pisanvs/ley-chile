@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.882, de 31 de diciembre de 1998, se expropiaron los lotes de terreno Nºs 56 y 82, superficies 558 y 413 m² respectivamente, roles de avalúo 60-13 y 58-40, comuna de Chépica, para la obra Camino Chépica-Bif. Teno, Sector Cuesta El Peral-Chépica y se acordó precio de indemnización con sus propietarios Rigoberto Donoso Donoso y Otilia Gallardo Becerra, ascendentes a las cantidades de $733.320.- para el lote 56 y $829.224.- para el lote 82.-
+
+Fiscal del Ministerio de Obras Públicas.
