@@ -1,0 +1,3 @@
+Por decreto MOP N°4.019 de fecha 31 de agosto del 2000, se expropió el lote de terreno N°13, superficie 1.417 m2., rol de avalúo 5026-148, comuna de Punta Arenas, para la obra ''Actualización Proyecto Canal de Trasvase Estero Llau-Llau a Estero Bitsch de Punta Arenas Fase II. Canal de Trasvase Estero Llau-Llau a Estero Bitsch Tramo Km. -0,012 a Km. 1,384'' y se acordó el valor de indemnización con su propietaria María Raquel España Alarcón y otro, ascendente a la cantidad de $2.755.838.
+
+Fiscal del Ministerio de Obras Públicas.
