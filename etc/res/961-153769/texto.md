@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD CLUNES INGENIEROS Y COMPAÑIA LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS DE TRANSFORMACION. DEROGA RESOLUCIONES QUE INDICA
+
+Por resolución No. 961, de 20 de Agosto de 1987, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Clunes Ingenieros y Compañía Limitada, domiciliada en calle Latorre 3060, Antofagasta, para instalar y operar una planta industrial ubicada en calle Pedro Aguirre Cerda No. 8051, Antofagasta, en las líneas de elaboración, conserva y ahumado, donde procesará los siguientes recursos hidrobiológicos: Sardina, anchoa, jurel, sardina española, bonito, cojinova, caballa, congrio negro, congrio dorado, lisa, dorado, pejerrey, tollo, maco, cabrilla, loco, lapa, cholgas, ostión, pulpo, macha, almeja, caracol locate, jaiba y erizos. Derógase resoluciones No. 432 de 12 de Septiembre de 1984 y No. 632 de 4 de Octubre de 1985, de esta Subsecretaría de Pesca.
+
+Valparaíso, 20 de Agosto de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
