@@ -1,0 +1,3 @@
+Por resolución No. 1.279 de 26 de Octubre de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución No. 756 de 1990, de esta Subsecretaría, que autorizó a SOCIEDAD HATFIELD INTERNATIONAL S.A., RUT No. 95.435.000-2, domiciliada en Santiago, para ampliar actividades pesqueras de cultivo, en orden a sustituir la mencionada razón social por "Hatfield International S.A.".
+
+Valparaíso, 26 de Octubre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
