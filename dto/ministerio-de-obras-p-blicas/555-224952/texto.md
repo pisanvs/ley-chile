@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 555 de 31 de julio de 1996, se expropió los lotes de terreno N°s 2 y 4, superficies 1.391,25 M2 y 1.805,75 M2, rol de avalúo 35-99, comuna de Requínoa, para la obra Camino Cruce Longitudinal (Requínoa) Rincón del Abra Cruce Ruta H-40, sector El Abra, y se acordó precio de indemnización con su propietario Jorge Jottar Mereb, ascendente a la cantidad de $2.489.969.
+
+Fiscal del Ministerio de Obras Públicas.
