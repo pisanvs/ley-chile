@@ -1,0 +1,5 @@
+AUTORIZA A CHISAL S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO RESOLUCION QUE INDICA
+
+Por resolución No. 350 de 21 de Abril de 1986, de la Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a "Chisal S.A.", domiciliada en Puerto Montt, para continuar desarrollando las actividades pesqueras que tiene autorizadas por la resolución No. 116, de 1985, de la Subsecretaria de Pesca, su antecesora "Pesquera Ricajan S.A.", consistentes en la operación de un establecimiento de cultivo de salmón del Atlántico y Trucha arco iris, en el Estuario Cuchildeo, Hornopirén, Rio Negro, X Región. Asimismo, se autoriza a "Chisal S.A.", para importar hasta el 31 de Marzo de 1986, 350.000 ovas de salmón del Atlántico procedentes desde Noruega. Además, se deja sin efecto la resolución 116, de 25 de Febrero de 1985, de la Subsecretaria de Pesca, que autorizó a Pesquera Ricajan S.A. para desarrollar actividades pesqueras.
+
+Valparaíso, 21 de Abril de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
