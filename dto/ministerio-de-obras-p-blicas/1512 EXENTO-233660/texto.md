@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.512, de fecha 29 de octubre de 2004, se expropiaron los lotes de terreno Nº 381 y 383, superficies 113 m². y 165 m²., rol de avalúo Nº 61-403, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400, comuna de Pichidegua, provincia de Colchagua", VI Región y se acordó el valor de la indemnización con su propietaria Rosa de Los Angeles Pino Menares, ascendente a la cantidad de $2.742.863.
+
+Fiscal del Ministerio de Obras Públicas.
