@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.999, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº22-A, superficie 2.707 m², rol de avalúo 521-68, comuna de Carahue, para la obra ''Camino Costero Tirúa-Carahue, Tramo Tirúa-Bajo Yupehue, Km. 19.000,00 a Km. 23.413,36'' y se acordó el valor de indemnización con su propietario Florencio Huenuman Huaiqui, ascendente a la cantidad de $3.133.700.-
+
+Fiscal del Ministerio de Obras Públicas.
