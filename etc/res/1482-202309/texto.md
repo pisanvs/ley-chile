@@ -1,0 +1,3 @@
+Por resolución Nº 1.482 de 19 de julio de 2002, modifícase el numeral 4º de la resolución Nº 1.341 de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Esfuerzo de la pesca artesanal de merluza del sur en la zona Chiloé - Palena, 2002", en el sentido de señalar que el límite de captura autorizado para el mes de julio ascenderá a 217 toneladas.
+
+Valparaíso, 19 de julio de 2002.- Edith Saa Collantes, Subsecretario de Pesca (S).
