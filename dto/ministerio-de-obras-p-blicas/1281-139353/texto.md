@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.281, de 30 de abril de 1999, se expropió el lote de terreno Nº 141, superficie 4.061,4 m2., rol de avalúo 367-9, comuna de Loncoche, para la obra Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno, Novena Región y se acordó el valor de indemnización con su propietario Tomás Edgardo Fuller Valenzuela, ascendente a la cantidad de $13.091.762.
+
+Fiscal del Ministerio de Obras Públicas.
