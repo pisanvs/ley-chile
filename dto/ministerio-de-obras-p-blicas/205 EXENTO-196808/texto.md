@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 205, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 90, superficie 75 m2, rol de avalúo 70-66, comuna de Teno, VII Región, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, Km. 0,22000 al 25,00000" y se acordó el valor de indemnización con su propietario don Rafael Natalio Cabrera Santana, ascendente a la cantidad de $378.550.-
+
+Fiscal del Ministerio de Obras Públicas.
