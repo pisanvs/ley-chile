@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 249, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs 1, 2 y 4, Canal Relbún y Nº 1, Canal Relbún Bocatoma, superficies 8.160, 15.630, 6.340 y 4.944 M² respectivamente, roles de avalúo 159-48, 159-39, 159-37 y 159-48, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco y se acordó precio de indemnización con sus propietarios Carlos Antonio Flores Valdebenito, Miguel Luis Barrera Cartes y Juan Rosalino Flores Flores, ascendentes a las cantidades de $3.528.691, $4.110.116 y $2.018.136 respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
