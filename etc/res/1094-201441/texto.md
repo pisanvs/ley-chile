@@ -1,0 +1,3 @@
+Por resolución Nº 1.094, de 5 de junio de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Cocholgüe, VIII Región, individualizada en el artículo 1º Nº 19 del D.S. Nº 729 de 1997, citado en Visto, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES Y ALGUEROS DE CALETA COCHOLGÜE.
+
+Valparaíso, 5 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
