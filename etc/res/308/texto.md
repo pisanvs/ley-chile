@@ -1,0 +1,3 @@
+Por Resolución N° 308, de 06 de Mayo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de la fecha de la presente Resolución , el plazo otorgado a SOCIEDAD PESQUERA GUANAYE LIMITADA, hoy Pesquera Iquique-Guanaye S.A., R.U.T. N°91.123.000-3, domiciliada en Avenida Pedro de Valdivia N° 1219, Santiago para publicar en el Diario Oficial las Resoluciones N° 1366, N° 1367, N° 1368, N° 1369, N° 1370, N° 1371, N° 1372, N° 1373, N° 1374, todas de 1992, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 6 de Mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
