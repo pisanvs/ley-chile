@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.098, de 31 de julio de 2001, se expropió el lote de terreno Nº109, superficie 534 m², rol de avalúo 233-779, comuna de Rengo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietaria Junta de Vecinos El Retiro de Rosario, ascendente a la cantidad de $2.697.245.-
+
+Fiscal del Ministerio de Obras Públicas.
