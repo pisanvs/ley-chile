@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 471, de fecha 13 de octubre de 1994, se expropió el lote de terreno N° 7, superficie 63.000 M2., rol de avalúo 5015-80, Comuna de Punta Arenas, para la ejecución de la Obra Nuevo Puerto Comercial, Punta Arenas, XII Región, Bahía Catalina y se acordó precio de indemnización con su propietario Astilleros y Maestranza de la Armada (ASMAR), ascendente a la cantidad de $397.787.280.
+
+Fiscal del Ministerio de Obras Públicas.
