@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº451 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº22, superficie 603,1 m2, rol de Avalúo Nº559-15, comuna de Linares, para la obra "Camino Ruta L-45, Sector: Linares - Llepo, Tramo: Km. 2,750.2 a Km. 13,147", VII Región y acordó el valor de la indemnización con su propietario Angel Custodio Valderrama Canales y Otra, ascendente a la cantidad de $56.791.330.
+
+- Fiscal del Ministerio de Obras Públicas.
