@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 595 de 30 de junio de 1997, se expropió el lote de terreno Nº 6, superficie 4.999,7 m2., rol de avalúo 9049-4, Comuna de San Antonio, para la obra Proyecto Enlaces Ruta 78 del Camino Santiago-San Antonio, Sector Leyda-Agua Buena, Enlace Lo Gallardo y se acordó precio de la indemnización con Sociedad Agrícola Los Sauces de Leyda Limitada, ascendente a la cantidad de $12.647.022.-
+
+Fiscal del Ministerio de Obras Públicas.
