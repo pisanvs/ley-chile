@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.009, de 30 de diciembre de 1999, se expropió el lote de terreno Nº48-1, superficie 2.156 m², rol de avalúo 293-53, comuna de Frutillar, para la obra Concesión Internacional Ruta 5, Tramo: Río Bueno - Puerto Montt. Sector: Enlace Casma, Décima Región y se acordó el valor de indemnización con su propietario Luis Alberto Mancilla, ascendente a la cantidad de $1.824.623.-
+
+Fiscal del Ministerio de Obras Públicas.
