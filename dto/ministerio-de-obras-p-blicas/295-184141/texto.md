@@ -1,0 +1,3 @@
+Por decreto MOP Nº 295, de fecha 28 de febrero de 2001, se expropiaron los lotes de terreno Nºs. 43-P, 44, 47 y 49, superficie 78, 12.771, 349 y 225 m2, respectivamente, rol de avalúo 38-10 y 38-20, comuna de Requínoa, para la obra "Camino Caletones - Termas de Cauquenes, Conexión Ruta 5 Sur, Roles H-255, H-405, Sector Coya Gultro, Km. 0,0000 a Km. 28,38019" y se acordó el valor de indemnización con su propietario Sociedad Agrícola Los Cardos Limitada, ascendente a la cantidad de $7.069.795.-
+
+Fiscal del Ministerio de Obras Públicas.
