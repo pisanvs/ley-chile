@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº325 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº12, superficie 100 m2, rol de Avalúo Nº428-66, comuna de Cauquenes, para la obra "Camino Mejoramiento Ruta M-830, sector Cauquenes-Sta. Sofía, Km. 1,200 a Km. 5,100", VII Región y se acordó el valor de la indemnización con su propietario Bernardino del Carmen Suazo Rivas, ascendente a la cantidad de $216.712.-
+
+Fiscal del Ministerio de Obras Públicas.
