@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº1.686 de fecha 31 de octubre de 2001, se expropió el lote de terreno Nº24, superficie 3.252,27 m², rol de avalúo Nº386-235, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 1/5, Derivado Comuy, Sector Km. 0.000 a Km. 6.120,36" y se acordó el valor de indemnización con su propietario Santos Díaz Navarrete, ascendente a la cantidad de $2.305.907.-
+
+Fiscal del Ministerio de Obras Públicas.
