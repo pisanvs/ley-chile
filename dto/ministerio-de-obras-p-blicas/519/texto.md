@@ -1,0 +1,3 @@
+Por decreto MOP Nº519, de 28 de febrero de 2000, se expropió el lote de terreno Nº392, superficie 120 m², rol de avalúo 7854-9, comuna de La Pintana, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Edio Hernán Aro Montiel, ascendente a la cantidad de $8.973.406.-
+
+Fiscal del Ministerio de Obras Públicas.
