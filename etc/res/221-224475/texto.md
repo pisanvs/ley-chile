@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 221, 8 abril 2004, Serviu Región del Biobío ordenó expropiación total inmueble ubicado en calle Paicaví Nº 1655, Rol de Avalúo Nº 702-18, comuna Concepción, superficie 90 m² de terreno y 65,73 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-18389, de aparente dominio de Adela del Pilar Reyes Castillo, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y DL Nº 2.186. Comisión Peritos integrada por Andrés Aníbal Risso Caamaño, arquitecto, Marcelo Eduardo Puentes Garrido, ingeniero civil, y Juan José Gutiérrez Vélez, constructor civil, según informe de fecha 20 de febrero de 2004, fijó monto provisional indemnización en $15.404.063.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
