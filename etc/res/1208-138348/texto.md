@@ -1,0 +1,3 @@
+Por resolución Nº 1.208, de 23 de junio de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.249, de 1998, de esta Subsecretaría, en cuanto autorizó a PESQUERA ITATA S.A., para operar la nave ''Calcurrupe'' en el litoral de la I y II regiones respecto de los recursos Anchoveta, Sardina española, Jurel, Agujilla y Caballa, conforme al artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 23 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
