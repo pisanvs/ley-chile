@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº268, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº6-B, superficie 14 m², rol de avalúo 153-604, comuna de Nancagua, para la obra ''Camino Ruta I-50, Sector Nancagua - Santa Cruz, Km. 26.800 al Km. 42.321'', y se acordó el valor de indemnización con su propietario Segundo Nicasio Araya Becerra, ascendente a la cantidad de $441.208.-.
+
+Fiscal del Ministerio de Obras Públicas.
