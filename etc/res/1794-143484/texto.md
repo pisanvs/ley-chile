@@ -1,0 +1,3 @@
+Por resolución Nº 1.794, de 9 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de ampliación de concesión de acuicultura Nº 96104084, presentada por GANADERA DEL MAR DECIMA REGION S.A., para operar un centro de cultivo ubicado en Estero Chauquiar, Isla Puluqui, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 9 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
