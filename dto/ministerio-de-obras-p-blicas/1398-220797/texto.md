@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 1.398, de 28 de noviembre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1-A para la obra: Camino Retorno Amolanas acceso Caleta Sierra, km. 0,00000 a km. 1,10372, que figura a nombre de González María Celinda, rol de avalúo 259-16, comuna de Canela, IV Región, superficie 13.208 m2. La Comisión de Peritos fijó con fecha 10 de julio de 2003 en la cantidad de $5.019.040. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
