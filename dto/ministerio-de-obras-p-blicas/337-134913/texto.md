@@ -1,0 +1,3 @@
+Por decreto MOP Nº 337, de 26 de febrero de 1999, se expropiaron los lotes de terreno Nºs 10-2 y 11, superficies 332 m² y 1.053 m², rol de avalúo 2222-41, comuna de Chillán Viejo, para la obra ''Concesión Internacional Ruta 5 Tramo Chillán-Collipulli'', Sector 1, VIII Región y se acordó el valor de indemnización con su propietario Wilfred William Meredith Cofré, ascendente a la cantidad total de $1.165.084.-
+
+Fiscal del Ministerio de Obras Públicas.
