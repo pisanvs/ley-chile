@@ -1,0 +1,7 @@
+Por Resolución Nº 689, de 12 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a JULIO ALEJANDRO JESUS FLORES FLORES, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Maipú Nº 1020, Tomé, VIII Región, donde podrá procesar, en las líneas de elaboración de Fresco-refrigerado, Congelado, Ahumado y Conservas, los siguientes recursos hidrobiológicos: Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Merluza común, Merluza de cola, Pejerrey de mar, Puye, Salmón del Atlántico, Salmón plateado, Trucha arcoiris, Almeja o taca, Almeja, Calamar, Caracol locate, Caracol tegula, Caracol trumulco, Cholga, Choro, Chorito, Culengue, Navaja de Mar o Huepo, Loco, Macha, Navajuela, Ostión del norte, Ostión del sur Chlamys patagonica, Ostión del sur Chlamys vitreae, Ostra chilena, Pulpo, Camarón nailon, Centolla, Jaiba limón, Jaiba marmola, Jaiba mora, Jaiba peluda o pachona, Jaiba reina, Picoroco, Erizo y Piure.
+
+Los recursos Salmón del Atlántico, Salmón plateado, Trucha arcoiris, Ostión del norte, deberán provenir de centros de cultivos autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 12 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
