@@ -3482,7 +3482,7 @@ Por otra parte, en la cuenta "Depósitos y captaciones a más de un año afectos
 
 c) Cuentas especiales.
 
-Se exceptúan de las instrucciones precedentes de este numeral los depósitos a plazo constituidos con divisas correspondientes a retornos de exportación y los depósitos provenientes del exterior de que trata el Capítulo V.B.1 del Compendio de Normas Financieras, los que deben registrarse en las cuentas que se señalan en los Capítulos 14-6 y 13-13, respectivamente, de esta Recopilación Actualizada de Normas.
+Se exceptúan de las instrucciones precedentes de este numeral los depósitos a plazo constituidos con divisas correspondientes a retornos de exportación, los depósitos provenientes del exterior de que trata el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile y los depósitos a que se refiere el N° 3 de la letra A del número I del Capítulo XIV Título I del Compendio de Normas de Cambios Internacionales, los que deben registrarse en las cuentas que se señalan en los Capítulos 14-6, 13-13 y 13-33, respectivamente, de esta Recopilación Actualizada de Normas.
 
 7.2. Intereses y reajustes.
 
@@ -27418,6 +27418,22 @@ En consideración a las especiales características de estas operaciones, que da
 
 No obstante lo anterior, ningún banco podrá mantener vigentes, con una misma institución bancaria o entidad financiera autorizada del extranjero, contratos por arbitrajes a futuro que excedan con cada una de esas entidades, de una suma equivalente al 25% de su capital pagado y reservas.
 
+CAPITULO 13-33 (Bancos)
+
+MATERIA:
+
+DEPOSITOS CON DIVISAS COMPRADAS ANTICIPADAMENTE PARA PAGAR CREDITOS EXTERNOS.
+
+Los deudores de créditos externos internados al amparo de las disposiciones contenidas en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, pueden adquirir anticipadamente las divisas para el pago del capital, comisiones o intereses correspondientes a tales operaciones, siempre que mantengan depositada, en un banco situado en Chile, la moneda extranjera adquirida.
+
+Los titulares de los referidos depósitos sólo podrán girarlos para los fines que expresamente establece la disposición contenida en el N° 3 del número I de la letra A) del referido Capítulo.
+
+Asimismo, las empresas bancarias que reciban los mencionados depósitos, deberán dar cumplimiento a las normas del Banco Central de Chile aludidas en el párrafo precedente.
+
+Los mencionados depósitos serán registrados en la cuenta "Depósitos compra anticipada de divisas pago créditos externos", de la partida 3010 ó 3020.
+
+Los intereses que se paguen por tales depósitos, en los casos que proceda, serán registrados con cargo a la cuenta que corresponda de la partida 5110.
+
 CAPITULO 14-1 (Bancos)
 
 MATERIA:
@@ -28398,11 +28414,11 @@ Cuando los referidos depósitos a plazo se hubieren constituido con anterioridad
 
 Sin perjuicio de lo indicado en el segundo párrafo de este número, las empresas bancarias que reciban las instrucciones de los exportadores señaladas precedentemente, deberán comunicar al Banco Central de Chile el retorno y, cuando proceda, la liquidación de las divisas, en la forma establecida para tal efecto. En los casos en que los exportadores decidan liquidarlas en una institución bancaria distinta de aquella en la cual se haya constituido el correspondiente depósito a plazo, ésta deberá traspasar el monto respectivo mediante un documento girado a su propio nombre y endosado a favor de la entidad bancaria en la que se realizará la liquidación, debiendo señalar en el endoso, que éste se efectúa para el solo fin de proceder a la liquidación de las divisas cuyo retorno se encuentra informado al Banco Central de Chile.
 
-Las personas que realicen exportaciones ocasionales, cuyo valor líquido de retorno, por cada embarque, no supere los US$ 1.000.00 ó su equivalente en otras monedas extranjeras, no están obligadas a retornar el importe de dichas exportaciones.
+Las personas que realicen exportaciones ocasionales, cuyo valor líquido de retorno, por cada embarque, no supere los US$ 2.000 ó su equivalente en otras monedas extranjeras, no están obligadas a retornar el importe de dichas exportaciones.
 
-2. Facultad de los exportadores de deducir hasta un 5% de los retornos que liquiden.
+2. Facultad de los exportadores de deducir hasta un 10% de los retornos que liquiden.
 
-Las disposiciones del Capítulo VIII del Título II del Compendio ya mencionado, facultan a los exportadores para deducir hasta el 5% del monto de los retornos que liquiden, correspondientes a las exportaciones que realicen. Estas deducciones deben hacerse con sujeción a las condiciones y montos máximos que se indican en este capítulo.
+Las disposiciones del Capítulo VIII del Título II del Compendio ya mencionado, facultan a los exportadores para deducir hasta el 10% del monto de los retornos que liquiden, correspondientes a las exportaciones que realicen. Estas deducciones deben hacerse con sujeción a las condiciones y montos máximos que se indican en este capítulo.
 
 Las referidas deducciones sólo podrán efectuarse simultáneamente con la liquidación de los respectivos retornos de exportación.
 
@@ -28414,7 +28430,7 @@ Los depósitos a plazo constituidos con divisas cuyo retorno sea informado al Ba
 
 3.2. Intereses.
 
-Los intereses que devenguen los depósitos a plazo a que se refiere este capítulo, serán debitados en la cuenta que corresponda de la partida 5110, 5120 ó 5130, con abono a la respectiva cuenta complementaria de intereses de los pasivos registrados en la partida 3020 ó 3025.
+Los intereses que devenguen los depósitos a plazo a que se refiere este capítulo, serán debitados en la cuenta que corresponda de la partida 5110 ó 5120, con abono a la respectiva cuenta complementaria de intereses de los pasivos registrados en la partida 3020 ó 3025.
 
 CAPITULO 14-7 (Bancos)
 
