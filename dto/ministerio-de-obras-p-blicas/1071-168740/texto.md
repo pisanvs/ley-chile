@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.071, de 30 de marzo del 2000, se expropió el lote de terreno Nº498, superficie 128 m2, rol de avalúo 1465-4, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5, Tramo Santiago-Talca. Sector a: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Oriana Burgos Altamirano, ascendente a la cantidad de $13.721.869.
+
+- Fiscal del Ministerio de Obras Públicas.
