@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA TOCOPILLA S.A. PARA AMPLIAR ACTIVIDADES MODIFICA RESOLUCION QUE INDICA
+
+Por Resolución No. 273 de 27 de Febrero de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Tocopilla S. A., R.U.T. No. 95.024.000-8, domiciliada en Santiago, para ampliar las actividades que tiene autorizadas por Resolución No. 227, de 1983, de esta Subsecretaria, podrá ampliar la zona de operación de las embarcaciones "Camarón II", "Calamar II" y "Marsopa II", autorizadas para operar por Resolución No. 15 de 1987, al litoral de la III Región, donde podrá extraer los siguientes recursos hidrobiológicos: Sardina española, jurel, anchoveta y caballa. Se modifica el numeral 2 de la Resolución No. 15, de 1987, de esta Subsecretaría, en el sentido de señalar que la eslora de la nave "Cormorán II" es 28.25 mts. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 27 de Febrero de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
