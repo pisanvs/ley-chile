@@ -7780,9 +7780,9 @@ Hasta el 10% Entre 10% y 20%
 
 El riesgo-país es imputable a aquel país en que esté domiciliado el prestatario o último obligado al pago y desde el cual se debe obtener el retorno de los recursos invertidos.
 
-No obstante, en los siguientes casos se considerará el riesgo de un país distinto al del deudor original:
+No obstante, en los siguientes casos se podrá considerar el riesgo de un país distinto al del deudor original:
 
-a) Cuando el crédito se otorgue a una sucursal en el extranjero de una persona jurídica, debiendo en ese caso imputarse el riesgo al país de domicilio de la casa matriz de esa sucursal.
+a) Cuando el crédito se otorgue a una sucursal en el extranjero de una persona jurídica, pudiendo en ese caso imputarse el riesgo al país de domicilio de la casa matriz de esa sucursal.
 
 b) Cuando el garante del crédito sea un banco calificado en primera categoría de riesgo por una empresa calificadora incluida en la nómina del Capítulo 1-12 de esta Recopilación, la parte del crédito cubierta por el garante podrá imputarse al riesgo del país en que aquél tenga su domicilio.
 
@@ -7800,15 +7800,17 @@ No obstante, se exceptúan todos los títulos de crédito que se transen en merc
 
 3.2.- Colocaciones.
 
-Comprende los créditos otorgados a personas naturales o jurídicas domiciliadas en el exterior, con excepción de los créditos cuyo plazo de vencimiento sea igual o inferior a un año y que correspondan a lo siguiente:
+Comprende los créditos otorgados a personas naturales o jurídicas domiciliadas en el exterior, con excepción de los créditos para cuyo vencimiento, pago o reembolso, según sea el caso, no falte más de un año, y que correspondan a los siguientes:
 
-a) Emisión, confirmación y negociación de cartas de crédito de comercio exterior;
+a) Emisión, confirmación y negociación de cartas de crédito de comercio exterior, incluida la adquisición o descuento de los documentos mercantiles provenientes de su negociación.
 
-b) Financiamientos a los emisores para el pago de cartas de crédito de comercio exterior;.
+b) Financiamiento a los bancos emisores para el pago de cartas de crédito de comercio exterior.
 
-c) Adquisición de cartas de crédito de comercio exterior negociadas; y,
+c) Pago anticipado de cartas de crédito de comercio exterior negociadas a plazo.
 
-d) Avales y fianzas, cartas de crédito stand by y boletas de garantía otorgados a no residentes ni domiciliados en el país, en moneda extranjera, mientras el crédito no se haya hecho efectivo.
+d) Adquisición o descuento de letras de cambio o pagarés provenientes del pago de exportaciones chilenas efectuadas en la forma de cobranza, avalados por un banco del país importador, siempre que i) el avalista se encuentre clasificado en primera categoría de riesgo de acuerdo con lo señalado en el Capítulo 1-12 de esta Recopilación, o bien, ii) que el documento, en conformidad a las instrucciones de la cobranza respectiva, establezca que su pago será canalizado a través del Convenio de Pagos y Créditos Recíprocos ALADI.
+
+e) Créditos contingentes correspondientes a avales y fianzas, emisión de cartas de crédito stand by y boletas de garantía, otorgados a no residentes ni domiciliados en el país, en moneda extranjera.
 
 3.4.- Otros activos.
 
@@ -7840,7 +7842,7 @@ Para efectos de la homologación de criterios contables con las sucursales y fil
 
 IV.- DISPOSICION TRANSITORIA.
 
-Las provisiones tratadas en este Capítulo se constituirán a contar del 30 de abril de 1998, para todos los activos sujetos a riesgo-país a esa fecha.
+Las provisiones por riesgo-país se constituirán a contar del 30 de abril de 1998 para todos los activos que de acuerdo a las presentes normas quedan sujetos a esa provisión, con excepción de los créditos que hayan sido otorgados hasta el 31 de diciembre de 1997, los que quedarán exentos de provisión hasta la fecha de su vencimiento original.
 
 No obstante, durante un lapso de dos años será exigible solamente una proporción creciente de los montos que se obtengan por la aplicación de las tasas señaladas en el N° 1 del título III. Para este efecto, las provisiones mínimas al cierre de cada mes serán iguales a tantos 24 avos del monto que resulte de aplicar las respectivas tasas, como meses hayan transcurrido a contar del 31 de marzo de 1998.
 
@@ -18676,7 +18678,7 @@ Las provisiones de que trata este Capítulo son independientes de aquellas que e
 
 1.- Definiciones para los efectos de las provisiones exigidas en este Capítulo.
 
-Para los efectos de que trata este Capítulo, se entenderá que constituyen "créditos de comercio exterior" todos aquellos financiamientos que correspondan al pago del valor de importaciones o exportaciones de mercadería que haya sido embarcada, como asimismo, aquellas operaciones de comercio exterior amparadas por cartas de crédito documentarías irrevocables que se encuentren en su etapa contingente. Se excluyen, en consecuencia, los créditos de pre-embarque, de capital de trabajo y cualquier otro crédito que no cumpla con lo señalado precedentemente y que para estos efectos se consideran como créditos comerciales.
+Para los efectos de que trata este Capítulo, se entenderá que constituyen "créditos de comercio exterior" todos aquellos financiamientos que correspondan al pago del valor de importaciones o exportaciones de mercadería que haya sido embarcada, incluida la adquisición o descuento de documentos mercantiles que provengan de ellas, como asimismo, aquellas operaciones de comercio exterior amparadas por cartas de crédito documentarías irrevocables que se encuentren en su etapa contingente. Se excluyen, en consecuencia, los créditos de pre-embarque, de capital de trabajo y cualquier otro crédito que no cumpla con lo señalado precedentemente y que para estos efectos se consideran como créditos comerciales.
 
 Por otra parte, se entiende como "créditos comerciales" aquellos definidos como tales en el Capítulo 8-28 de esta Recopilación, con excepción de los créditos de comercio exterior ya definidos.
 
