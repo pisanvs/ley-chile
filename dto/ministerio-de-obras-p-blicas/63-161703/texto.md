@@ -1,0 +1,3 @@
+Por Decreto del M.O.P. No. 63, de 21 de marzo de 1986, se expropió el lote No. 9, rol de avalúo 9034-8, superficie 10.270 m2, Comuna de San Antonio, para Camino nuevo acceso al Puerto de San Antonio, sector bajada a Barrancas, Km. 0.000 al 8.657,28 y se acordó precio de indemnización con sus propietarios Comunidad García-Huidobro Gonz lez, ascendente a $ 2.424.439.
+
+Fiscal del Ministerio de Obras Públicas. (15)
