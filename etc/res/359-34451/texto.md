@@ -1,0 +1,3 @@
+Por Resolución N° 359, de 31 de Marzo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se denegó la solicitud de concesión de acuicultura presentada por don HANS ROBERT LUDWIG LAIMBOCK LUEBERT, para un sector ubicado al Sureste de Caleta San Carlos, Comuna de Corral, Provincia de Valdivia, X Región, en virtud de lo dispuesto en los artículos 76°, 77°, 78° y 5° transitorio inciso 6°, de la Ley General de Pesca y Acuicultura y el artículo 14° del D.S. N° 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción. Asimismo, se dejó sin efecto las Resoluciones N° 605, de 1990 y N° 905, de 1991, ambas de esta Subsecretaría.
+
+Valparaíso, 31 de Marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
