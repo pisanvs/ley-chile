@@ -1,0 +1,3 @@
+Por resolución No. 234, de 26 de Febrero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad de la resolución No. 95 de 1989, de esta Subsecretaría, que autorizó a don PATRICIO FUENTES LEON Y COMPAÑIA LIMITADA, RUT No. 79.769.340-5, domiciliado en la ciudad de Santiago, para desarrollar actividades pesqueras de transformación, de conformidad al artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de Febrero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
