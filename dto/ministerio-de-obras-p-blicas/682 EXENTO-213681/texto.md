@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 682 de 21 de julio de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 6, 7, 8, 11 y 13-A para la obra: Camino Ruta CH-201, Sector Carriringue-Liquiñe, tramo Km. 48,85000 a Km. 58,45495, que figuran a nombre de Calfinanco Painepe Teolinda, Soc. Agr. y Pesquera Chillehuel y Llancapi Naihual Rosa y Otros, Roles de Avalúos 244-741; 245-91 y 245-129, comuna de Panguipulli, X Región, superficies 46 m2.; 315 m2.; 166 m2.; 1.237 m2. y 750 m2. La Comisión de Peritos, fijó con fecha 20 de enero de 2002, complementada por acta de fecha 5 de diciembre de 2002, en lo que respecta al lote Nº 11, el monto de la indemnización provisional en la cantidad de $27.600.-, para el lote Nº 6; $189.000.-, para el lote Nº 7; $149.600.- para el lote Nº 8;
+
+$937.200.-, para el lote Nº 11 y $1.116.000.- para el lote Nº 13-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
