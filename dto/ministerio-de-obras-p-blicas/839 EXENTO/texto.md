@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº839, de 18 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 9 y 11, para la obra Camino Ruta D-597, Monte Patria-Carén, sector Juntas-Carén, Tramo Km. 8.260,00 al 30.065,19, que figuran a nombre de Blanc Reyes Federico, rol de avalúo 42-5, comuna de Monte Patria, IV Región, superficies 80 M2. y 114 M2. La Comisión de Peritos, fijó con fecha 4 de diciembre de 1998, en la cantidad de $24.000, lote 9 y $99.200, lote 11. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
