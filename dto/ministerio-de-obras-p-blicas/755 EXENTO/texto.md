@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 755 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 33, superficie 1.908 m2, rol de avalúo 70-10, comuna de Teno, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal-La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Agrícola La Loma Limitada, ascendente a la cantidad de $6.951.370.-
+
+Fiscal del Ministerio de Obras Públicas.
