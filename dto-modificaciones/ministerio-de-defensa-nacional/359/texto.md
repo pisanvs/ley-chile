@@ -1,10 +1,10 @@
-MODIFICA EL REGLAMENTO N.o 7-51/4, -GENERAL DE POLICIA MARITIMA, FLUVIAL Y LACUSTRE, APROBADO POR D.S. (M). N.o 1.340, DE 4 DE FEBRERO DE 1941
+MODIFICA EL REGLAMENTO N.o 7-51/4, -GENERAL DE POLICIA MARITIMA, FLUVIAL Y LACUSTRE, APROBADO POR D.S. (M). N.o 1.340, DE 14 DE JUNIO DE 1941
 
 Santiago, 27 de Abril de 1963.- S. E. decretó hoy lo que sigue:
 
 Núm. 359.- Vistos: los antecedentes acompañados y lo manifestado por la Comandancia en Jefe de la Armada en oficio ordinario N.o 6495/1, de 11 de Marzo del año en curso, Decreto :
 
-1.- Introdúcense las siguientes modificaciones al Reglamento N.o 7-51/4,- General de Policía Marítima, Fluvial y Lacustre, aprobado por decreto supremo (M). N.o 1.340 bis, de 4 de Febrero de 1941:
+1.- Introdúcense las siguientes modificaciones al Reglamento N.o 7-51/4,- General de Policía Marítima, Fluvial y Lacustre, aprobado por decreto supremo (M). N.o 1.340 bis, de 14 de junio de 1941:
 
 A.- Intercálese en el artículo 2.o, entre las palabras "mercante" y "sus tripulantes" la siguiente frase precedida de una coma: "de recreo, de pesca, de caza, y de otros servicios particulares o fiscales, nacionales o extranjeras en tránsito en el país". Agrégase al final del mismo artículo, la frase siguiente: "Se exceptúan de esta disposición las naves, los Oficiales y la tripulación de la Armada Nacional."
 
