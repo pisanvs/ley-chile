@@ -8,7 +8,7 @@ Presidente de la República de Chile.
 
 POR CUANTO, el Gobierno de Chile suscribió el 16 de Septiembre de 1974, en Berna, Suiza, la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, adoptada en Washington, el 3 de Marzo de 1973, cuyo texto íntegro y exacto se acompaña,
 
-Y POR CUANTO, dicha Convención ha sido ratificada por mí, previa aprobación de la Honorable Junta de Gobierno, según consta en el decreto ley N° 873, de 28 de Enero del año en curso, y el Instrumento de Ratificación ha sido depositado ante el Gobierno de la Confederación Suiza, el 14 de Febrero de 1975.
+Y POR CUANTO, dicha Convención ha sido ratificada por mí, previa aprobación de la Honorable Junta de Gobierno, según consta en el decreto ley N° 873, de 28 de Enero del año en curso, y el Instrumento de Ratificación ha sido depositado ante el Gobierno de la Confederación Suiza, el 14 de Enero de 1975.
 
 POR TANTO, y en uso de la facultad que me confiere el artículo 5° del decreto ley N° 247 de 17 de Enero de 1974, dispongo y mando que se cumpla y lleve a efecto en todas sus partes como ley de la República, publicándose copia autorizada de su texto en el "Diario Oficial".
 
