@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.440, de 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs 53, 55, 57 y 59, superficies 120, 43, 186 y 8 M2, rol de avalúo 229-22, comuna de Rengo, VI Región, para la obra Camino Ruta H-521, sector Ruta 5-Fundo El Rincón por Lo de Lobos, y se acordó precio de indemnización con su propietario Hernán Urquiza Abasolo, ascendente a la cantidad de $6.667.093.-
+
+Fiscal del Ministerio de Obras Públicas.
