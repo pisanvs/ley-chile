@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 151, de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nºs 14 y 14-A, superficie 109 y 265 m2, respectivamente, Rol Nº 337-103, comuna de Loncoche, IX Región, para la obra "Camino Ruta 741 - Ruta 743, Acceso Huiscapi, sector Acceso Huiscapi, Tramo Km. 0,010 al Km. 3,148" y se acordó el valor de indemnización con su propietario Misael Antonio Cisterna Guiñez, ascendente a la cantidad de $466.897.
+
+Fiscal del Ministerio de Obras Públicas.
