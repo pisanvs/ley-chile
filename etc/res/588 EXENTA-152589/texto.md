@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 588, de Junio 26 de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana, se modifica el recorrido de la Variante No. 47.A "Renca - La Feria - Departamental - La Florida", de la Línea de Taxibuses No. 47 "Intercomunal 47", autorizado por Resolución Exenta No. 1.569 de Noviembre 30 de 1984, quedando su nuevo trazado como sigue:
+
+Ida: Desde su terminal en Némesis con Hera, continúa por Némesis - Olimpo. J.M. Infante - Condell - Arturo Prat - Manuel Rodríguez - J.M. Balmaceda - Nicanor Fajardo -
+
+Av. Domingo Santa María - Apóstol Santiago - Walker Martínez - Coronel Robles - Walker Martínez - Av. General Vel squez - Av. Libertador Bernardo O'Higgins - Toro Mazzotte - Av. Libertador Bernardo O'Higgins - Exposición - Grajales - San Alfonso - Antofagasta - Av. El Mirador - Av. Club Hípico - Av. Alcalde Carlos Valdovinos - Av. La Feria - Av. Departamental - Av. Vicuña Mackenna - Av. Américo Vespucio. Santa Julia - Santa Raquel - San José de La Estrella - Verdi - General Arriagada - Los Jazmines - Las Magnolias - Fraternidad - Guacolda - Concordia - Roberto Matus, hasta Villa Nueva Internacional, su terminal.
+
+Regreso: Desde su terminal en Villa Nueva Internacional con Roberto Matus, continúa por Roberto Matus - Concordia - Guacolda - Fraternidad - Las Magnolias - Los Jazmines - General Arriagada - Verdi - San José de La Estrella - Santa Raquel - Santa Julia - Av. Américo Vespucio - Av. Vicuña Mackenna - Av. Departamental - Av. La Feria - Av. Alcalde Carlos Valdovinos - Bascuñán Guerrero - Av. Libertador Bernardo O'Higgins - Av. General Velásquez - Walker Martínez - Coronel Robles - Walker Martínez - Apóstol Santiago - Av. Domingo Santa María - Estrecho de Magallanes - Av. J.M. Balmaceda - Manuel Rodriguez - Arturo Prat - Condell - J.M. Infante - Olimpo - Némesis hasta Hera, su terminal.
+
+Santiago, Julio 01 de 1986.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región Metropolitana.
