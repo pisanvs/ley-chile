@@ -1,0 +1,1 @@
+Modifica el artículo 1.o de la ley 6,602, de 29 de julio de 1940, que eleva a beneficio de la Línea Aérea Nacional el impuesto establecido por la ley 3,852, de 10 de febrero de 1922; reemplaza la letra d) del artículo 5.o de la ley 7,144, de 31 de diciembre de 1941, que crea el Consejo Superior de Defensa Nacional.
