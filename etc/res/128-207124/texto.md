@@ -1,0 +1,3 @@
+Por resolución Nº 128, de 16 de enero de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 02 de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2002-13 "Evaluación hidroacústica del reclutamiento de anchoveta y sardina común entre la V y X Regiones, año 2002", en el sentido de señalar que la pesca de investigación se extenderá hasta el 15 de febrero de 2003.
+
+Valparaíso, 16 de enero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
