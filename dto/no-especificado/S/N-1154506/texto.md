@@ -1,0 +1,7 @@
+Honores al capitan don Joaquin Alonso i Toro
+
+Santiago, 17 de Agosto de 1813.
+
+Considerando el Gobierno con el mas tierno aprecio el valor i heroismo del jóven capitan de artillería don Joaquin Alonso i Toro, quien despues de haber dado las pruebas mas calificadas de su patriotismo i virtudes militares en las acciones de San Cárlos i Talcaguano (por cuyos méritos pensaba premiarle distinguidamente), ha fallecido cubierto de honor i de gloria en el sitio de Chillan defendiendo una batería que atacaron los enemigos con triplicada fuerza, i de donde fueron rechazados hasta la misma plaza de la ciudad; decreta: el nombre de don Joaquin Alonso i Toro será inscripto en la Pirámide de la Fama, como un monumento que recuerde eternamente la memoria de este heroico jóven i estimule a sus conciudadanos a imitarle. Su madre, por los dias de su vida, tendrá el honor de pintar en las puertas de su casa una Corona de Laurel con el emblema de la Patria i la siguiente inscripcion en letras de oro: La patria agradecida al benemérito teniente coronel Alonso. El Gobierno con todas las Magistraturas del Estado concurrirá a las exequias fúnebres que se celebren por su alma. En las mismas exequias se le harán por las tropas de la guarnicion los honores de Teniente-Coronel: una diputacion compuesta de un Secretario de Gobierno i un Cabildante pasarán a dar a su Madre i familia el pésame, acompañándole el oficio acordado i testimonio de este decreto, que se imprimirá.
+
+- Pérez. - Infante. - Eyzaguirre. - Egaña, secretario.
