@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº554 de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº3-A, superficie 138 m2, rol de Avalúo Nº1418-160, comuna de Rancagua, para la obra "Camino Ruta H-188, Sector Cruceros - Chancón, Tramo 1, Km. 0,00000 al Km. 7,85900", VI Región y se acordó el valor de la indemnización con su propietaria Yolanda del Carmen Jofré Arroyo, ascendente a la cantidad de $1.016.263.
+
+Fiscal del Ministerio de Obras Públicas.
