@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.080, de 20 de octubre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs. 117-A y 117-B para la obra: Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector B: Km. 42.950,00 -
+
+Km. 55.200,00, Región Metropolitana, que figura a nombre de Espinoza Aranda Violeta, rol de avalúo 136-624, comuna de Paine, superficies 528 m² y 408 m², respectivamente. La comisión de peritos integrada por los señores Paola Andrea Domingo Porcella, Gustavo Domínguez Errázuriz y Carmen Pilar Ríos Marcuello, fijó con fecha 12 de julio de 1999, el valor provisional de la indemnización en las cantidades de $3.121.280.- para el lote Nº 117-A y de $1.925.080.- para el lote Nº 117-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
