@@ -1,0 +1,5 @@
+AUTORIZA A FRIOAYSEN S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 699, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Frioaysén S.A., R.U.T. No. 96.548.630-5, domiciliada en Puerto Chacabuco, Provincia de Puerto Aysén, XI Región, para realizar un proyecto de pesca exploratoria con la embarcación "Frioaysén No. 18", teniendo como especie objetivo el recurso hidrobiológico Mero o bacalao de profundidad. Se fija como zona de operación el área comprendida entre los paralelos 43° y 57° L.S. La presente autorización se concede por el plazo de seis meses, a contar de la fecha de publicación de este extracto. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de Junio de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
