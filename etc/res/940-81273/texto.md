@@ -1,0 +1,5 @@
+Por resolución No. 940, de 14 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a TROUW DE CHILE HOLDING S.A., R.U.T. No. 96.535.640-1, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras que tiene autorizadas por las Resoluciones No. 460 de 1989 y No. 1771 de 1989, ambas de esta Subsecretaría, en orden a extender la operación de los establecimientos autorizados por las Resoluciones antes citadas, al cultivo del recurso Salmón cereza y Trucha arcoiris.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
