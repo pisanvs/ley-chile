@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.136 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 24-H, superficie 516,0 m², rol de avalúo Nº 174-23, comuna de Maule, para la obra "Camino Ruta K-620, Sector Culenar - Maule, Km. 0,000.00 a Km. 10,520.00, comuna de Maule, provincia de Talca", VII Región y se acordó el valor de la indemnización con su propietario Darwin Troncoso Fuentes, ascendente a la cantidad de $2.476.368.
+
+- Fiscal del Ministerio de Obras Públicas.
