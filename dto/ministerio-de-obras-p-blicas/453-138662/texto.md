@@ -1,0 +1,5 @@
+Por decreto MOP No. 453, de 9 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840 y DFL MOP No. 206, de 1960, se expropió el lote de terreno No. 29 para la obra Ruta 5, Tramo Talca Chillán, Calle de Servicio sector Talca Sur-Unihue y Pirque Unihue, Séptima Región, que figura a nombre de Vergara Yanez Moisés, rol de avalúo 167-170, comuna de Maule, superficie 558 m2. La comisión de peritos integrada por los señores, Hugo Villarroel Urbina, Francisco Azócar Bobadilla y Claudio Burgos Valera, fijó con fecha 31 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $ 14.309.319.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 75 del decreto Ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
