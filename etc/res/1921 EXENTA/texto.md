@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1921 de 09 de Septiembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sectores Excluidos y Sectores Expropiados Predios "Hijuela Segunda del Fundo Rinconada de Pumaitén o El Llano de Pumaitén" y "Resto Hijuela Primera del Fundo Rinconada de Pumaitén" de la comuna de San Vicente, Sexta Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 16 del Proyecto de Parcelación "El Llano y La Cruz" formado por predios señalados. Los Derechos de Agua Se extraen del canal Elzo, derivado del estero Zamorano. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
