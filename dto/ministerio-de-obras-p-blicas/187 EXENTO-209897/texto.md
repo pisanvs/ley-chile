@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 187 de fecha 31 de marzo del 2003, se expropiaron los lotes de terreno Nºs 7-A y 7-B, superficie 2.165,9 y 871,2 m2 respectivamente, Rol Nº 308-54, comuna de Melipeuco, IX Región para la obra "Camino Melipeuco - Icalma, Sector variante Nº 1, Km. 25.027 al Km. 28.683" y se acordó el valor de indemnización con su propietario Berta Luz Cañumir Cañumir, ascendente a la cantidad de $1.219.758.
+
+Fiscal del Ministerio de Obras Públicas.
