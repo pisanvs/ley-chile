@@ -1,0 +1,3 @@
+Por Resolución No. 26, del 20 de Marzo de 1992, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la I Región, se adjudicó a Servicio Técnico del Norte Ltda., la concesión para operar, por un plazo de cinco años a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en Calle Sotomayor 2131, de Iquique, destinado a la revisión técnica y verificación de emisión de contaminantes de los vehículos que se señalen en el inciso primero del artículo 7° del DS 156/90 del Ministerio, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Yerko Luksic Sandoval, Secretario Regional Ministerial Transportes y Telecomunicaciones I Región.
