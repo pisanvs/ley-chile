@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.421, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 4, 5 y 7, superficies 950, 130 y 790 m². respectivamente, roles de avalúo 52-55, 52-92 y 52-58, comuna de Pumanque, para la obra Camino Ruta I-60, Sector Población-Pumanque y se acordó precio de indemnización con sus propietarios Aladino Villagra Flores, Berta Flores Quinteros y Manuel Argomedo Cornejo, ascendente a las cantidades de $2.767.476, $570.546 y $984.793.
+
+- Fiscal del Ministerio de Obras Públicas.
