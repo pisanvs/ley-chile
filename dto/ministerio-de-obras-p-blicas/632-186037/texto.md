@@ -1,0 +1,3 @@
+Por decreto MOP Nº 632, de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº 38-B, superficie 473,36 m², rol de avalúo 1130-7, comuna de Castro, para la obra "Camino Ruta W-65 y W-55, Sector Cruce Longitudinal (Pid-Pid) - Putemún - Dalcahue, Km. 0,000 al 11,991647" y se acordó el valor de indemnización con su propietario Nora Silvia Navarro Mansilla, ascendente a la cantidad de $9.698.980.-
+
+Fiscal del Ministerio de Obras Públicas.
