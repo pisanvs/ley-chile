@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 945 de fecha 29 de junio del 2001, se expropió el lote de terreno Nº 6, superficie 770 m², Rol de Avalúo Nº 480-25, comuna de Yungay, para la obra "Area de Riego Los Puquios, Canal Los Puquios Ramal 1 Km. 6,000 al Km. 8.528 del Proyecto Laja Diguillín", y se acordó el valor de indemnización con su propietaria María Eliana Irarrázaval Bustos, ascendente a la cantidad de $699.519.-
+
+Fiscal del Ministerio de Obras Públicas.
