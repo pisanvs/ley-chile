@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA LOA SUR S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución Nº 204, de 5 de Marzo de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Loa Sur S.A., domiciliada en la ciudad de Santiago, para operar las embarcaciones en construcción "Loa 12" y "Loa 14" individualizadas en el contrato de construcción de 26 de Noviembre de 1985, celebrado entre Pesquera Loa Sur y Astilleros y Servicios Navales Ltda. en el litoral de la VIII Región, en labores extractivas de los siguientes recursos: sardina española, sardina común, anchoa, jurel y caballa. Esta resolución corresponde a pronunciamiento respecto de presentación del 29 de Noviembre de 1985.
+
+Valparaíso, 5 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
