@@ -1,0 +1,5 @@
+Por Resolución N° 486, de 28 de Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a la UNIVERSIDAD DE CHILE, R.U.T. N° 60.910.000-1, para capturar 200 ejemplares mensuales de Pejerrey argentino Odontesthes bonaerensis, con el próposito de responder a los objetivos del proyecto de investigación denominado "Estudio de factibilidad de explotación comercial del pejerrey argentino (Odontesthes bonaerensis) y procesamiento de sus ovas para obtener un sucedáneo del caviar de esturión", en la forma y condiciones que a continuación se indican.
+
+La captura de los ejemplares se efectuará en la zona costera de Las Balsas y Bahía Skorpios, Embalse Rapel, durante el período comprendido entre abril y septiembre de 1995. La captura se realizará mediante redes de enmalle.
+
+Valparaíso, 28 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
