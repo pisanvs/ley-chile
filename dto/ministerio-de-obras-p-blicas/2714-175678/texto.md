@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.714 de fecha 30 de junio de 2000, se expropió el lote de terreno Nº86-A, superficie 120 m², rol de avalúo 57-183, comuna de Chépica, para la obra ''Camino Chépica - Bif. Teno, Sector Cuesta El Peral - Chépica - Tramo Km. 5.250 a Km. 18.893.22'' y se acordó el valor de indemnización con su propietaria María Elena Zúñiga Cáceres, ascendente a la cantidad de $445.200.
+
+- Fiscal del Ministerio de Obras Públicas.
