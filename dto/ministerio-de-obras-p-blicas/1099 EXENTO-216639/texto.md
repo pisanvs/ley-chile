@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.099, de fecha 30 de septiembre de 2003, se expropiaron los lotes de terreno Nº78-B y 79-B, superficies 2.120 m² y 3.720 m², rol de Avalúo Nº204-17, comuna de Panguipulli, para la obra "Camino CH-203, Sector Bifurcación Coñaripe Choshuenco (Acceso a Puentes), Km. 56,680000 al 93,28612", X Región y se acordó el valor de la indemnización con su propietario Sociedad Agrícola Ganadera Paillahuinte Ltda., ascendente a la cantidad de $4.140.860.-
+
+Fiscal del Ministerio de Obras Públicas.
