@@ -1,0 +1,7 @@
+EXTRACTOS DE RESOLUCIONES
+
+Por resolución N° 610 de 22 de Mayo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don CARLOS CESAR ESPINOZA MIRANDA, R.U.T. N° 2.999.146-4, domiciliado en la ciudad de Viña del Mar, Plaza Parroquia N° 325, oficina N° 301, para iniciar actividades pesqueras, en orden a operar con la embarcación denominada "Marta Celina", en el litoral de las regiones que a continuación se indica, donde podrá extraer los siguientes recursos hidrobiológicos: a) Entre las Regiones I y X, con enmalle: Albacora o pez espada. b) Entre la I Región y el paralelo 41° 28,6" L.S.: Bacalao de profundidad o mero, congrio colorado, congrio dorado y congrio negro; para la captura de estas especies deberá utilizar las artes de pesca adecuados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por el peticionario para extraer con la nave antes mencionada, los recursos hidrobiológicos y en las zonas no autorizadas, en el texto de la presente resolución, conforme a lo dispuesto en las normas legales y reglamentarias y a los Informes Técnicos citados en Vistos.
+
+Valparaíso, 22 de Mayo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
