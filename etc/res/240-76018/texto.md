@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICA
+
+Resolución 240, 1º septiembre 1997, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Maipú Nº 1301, Rol de Avalúo Nº 343-0001, comuna Concepción, superficie 142 m² de terreno y 205 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-343-0001; de aparente dominio de María C. Cassinelli Vaccaro, para ejecución programa "Mejoramiento Interconexión Vial Centro de Concepción-Autopista Talcahuano", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 12 de diciembre de 1996, fijó monto provisional indemnización en $19.800.000.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
