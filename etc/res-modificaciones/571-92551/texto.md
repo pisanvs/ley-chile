@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION QUE INDICA
+
+Por resolución No. 571 de 23 de Mayo de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica el numeral 1° de la resolución No. 1.413, de 21 de Diciembre de 1988, de esta Subsecretaría, en orden a señalar que la resolución que se caduca mediante dicho instrumento es la No. 729 de 30 de Septiembre de 1986 que autorizó a Pesquera Aguas Marinas Limitada, para operar en las instalaciones del Complejo Agroindustrial denominado Frigorífico Puerto Bories Comuna de Puerto Natales Provincia Ultima Esperanza, XII Región, de conformidad con el artículo 7° del Decreto Supremo No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción .
+
+Valparaíso, 23 de Mayo de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
