@@ -1,0 +1,3 @@
+Por resolución Nº 85, de 21 de enero de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº405, de 1998, de esta Subsecretaría, que autorizó a EMPRESA PESQUERA EPERVA S.A., para operar con la nave en construcción correspondiente al Casco I-999, por no haber dado inicio a sus actividades en el plazo señalado en el numeral 5º de la misma.
+
+Valparaíso, 21 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
