@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.171 de 7 de agosto de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del DFL. No. 850 de 1997, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No.
+
+92-1, para la obra camino Ruta 5 Norte, Tramo Santiago-Los Vilos, Sector Km. 97.970,00 al Km. 101.000,00, que figura a nombre de Varas Cabrera Juan, rol de avalúo 54-3, Comuna de Hijuelas, superficie 156 m2. La Comisión de Peritos integrada por los señores Ismael Allendes Marín, María Cristina Ayala Muñoz y Jaime Joaquín Misael Riquelme Gutiérrez, fijó con fecha 28 de febrero de 1998, el valor provisional de la indemnización en la cantidad de $ 1.050.360.- para el lote No. 92-1.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
