@@ -1,0 +1,5 @@
+Por decreto MOP No. 842, de 22 de abril de 1999, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840, se expropiaron los lotes de terreno No. s 39 y 51, para la ejecución de la obra Mejoramiento Autopista Concepción - Talcahuano, Sector Rotonda Bonilla y Campus San Andrés, Km. 0.324,15 al 0.602,65, que figuran a nombre de Roberto Espinoza Aguilera y María V. Escobar Jara, Rol de Avalúo 497-4 y 498-21, comuna de Concepción, VIII Región, superficies 483 y 40 M2. La comisión de peritos compuesta por los señores Boris Aptecar González, Pedro Tagle Martínez y Luis Soto Abarca, fijó con fecha 18 de diciembre de 1996, el valor provisional de las indemnizaciones en la cantidad de $ 46.496.688.- lote 39 y $ 5.785.440.- lote 51. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 75 del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
