@@ -1,0 +1,3 @@
+Por Resolución No. 430, de 8 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, parte inmueble ubicado en Portugal No. 481 y 497, presunto rol avalúos No. 584-11, comuna Santiago, aparentemente dominio de Fahim Izan y otra. Comisión integrada por peritos Sres. Italo Núñez Núñez, Hernán Monckeberg Barros, arquitectos, y Jorge Cavagnaro Michelis, ingeniero civil, según informe de 26.10.88, fijó monto provisional indemnización en $ 7.539.150.-, pagadera al contado.
+
+Director SERVIU Metropolitano.
